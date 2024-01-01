@@ -1,6 +1,4 @@
-## 2X08312C.pdf
-
-7. melléklet az 53/2022. (XII. 2.) MNB rendelethez
+7. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^14]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -14,7 +12,9 @@ A felügyeleti jelentés teljesítése során alkalmazandó jogszabályok köré
 
 2. A felügyeleti jelentés formai követelményei
 
-A felügyeleti jelentés formai követelményeit az 1. melléklet 3. pont 3.2.-3.8. pontja határozza meg.
+2.1. A felügyeleti jelentés formai követelményeit– a 2.2. alpontban foglaltak kivételével – az 1. melléklet 3. pont 3.2–3.8. alpontja határozza meg.
+
+2.2. A „Zöld pénzügyi termékek esetében szolgáltatandó adattartalom” megnevezésű felügyeleti jelentés (a továbbiakban: ZPTZE jelentés) formai és technikai követelményeit az ERA rendszer Felhasználói kézikönyve, valamint az ERA – ZPT termékbejelentő szolgáltatás Felhasználói kézikönyve határozza meg.
 
 3. A felügyeleti jelentés tartalmi követelményei
 
@@ -40,7 +40,7 @@ Hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás: azon egyéni
 
 Az intézményi vagyonbiztosítás soron azt a biztosítási szerződést és az arra vonatkozó információkat kell bemutatni, melyet közösségi célra alakult nonprofit társadalmi vagy állami szervezettel kötött a biztosító. Külön soron kell megjeleníteni az önkormányzatokkal kötött vagyonbiztosításokat.
 
-A Vállalati vagyonbiztosítás (kivéve kkv-kat) soron mindazon vállalatokkal kötött vagyonbiztosítást kell bemutatni, mely vállalat mérete meghaladja a kkv-kra vonatkozó előírásokat, (a kkv fogalmát a kis és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3-5. §-a határozza meg).
+A Vállalati vagyonbiztosítás (kivéve kkv-kat) soron mindazon vállalatokkal kötött vagyonbiztosítást kell bemutatni, mely vállalat mérete meghaladja a kkv-kra vonatkozó előírásokat, (a kkv fogalmát a kis és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3–5. §-a határozza meg).
 
 Kkv-k vagyonbiztosítása: itt kell bemutatni azokat a vállalati vagyonbiztosításokat, melyeket a biztosító azon vállalkozásoknak értékesített, amely kkv-nak minősül.
 
@@ -246,45 +246,45 @@ Az 1986. július 1. előtt bevezetett termékek állományát külön fősoron k
 
 3. 42Y1E101 42Y1E1 tábla 42Y1E12101 és 42Y1E12201 Haláleseti biztosítások sorainak szerződéskötés ideje szerinti bontása
 
-A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas haláleseti biztosításokat a szerződéskötések ideje szerinti bontásban, vagyis aszerint kell a szerződéseket szétbontani, hogy mikor kötötték azokat (pl. a tárgyévben, a tárgyévet megelőző évben). Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
+A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos díjas és egyszeri díjas haláleseti biztosításokat a szerződéskötések ideje szerinti bontásban, vagyis aszerint kell a szerződéseket szétbontani, hogy mikor kötötték azokat (pl. a tárgyévben, a tárgyévet megelőző évben). Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E101101-42Y1E101113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1011 és konzisztensen a 42Y1E1 tábla 42Y1E12101 során jelentett adattal, míg a 42Y1E101201-2Y1E101213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1012 és konzisztensen a 42Y1E1 tábla 42Y1E12201 során jelentett adattal.
+A 42Y1E101101-42Y1E101113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1011 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12101 során jelentett adattal, míg a 42Y1E101201-2Y1E101213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1012 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12201 során jelentett adattal.
 
 4. 42Y1E102 42Y1E1 tábla 42Y1E12102 és 42Y1E12202 Elérési biztosítások sorainak szerződéskötés ideje szerinti bontása
 
-A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas elérési biztosításokat a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
+A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos díjas és egyszeri díjas elérési biztosításokat a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E102101-42Y1E102113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1021 és konzisztensen a 42Y1E1 tábla 42Y1E12102 során jelentett adattal, míg a 42Y1E102201-42Y1E102213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1022 és konzisztensen a 42Y1E1 tábla 42Y1E12202 során jelentett adattal.
+A 42Y1E102101–42Y1E102113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1021 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12102 során jelentett adattal, míg a 42Y1E102201–42Y1E102213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1022 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12202 során jelentett adattal.
 
 5. 42Y1E103 42Y1E1 tábla 42Y1E12103 és 42Y1E12203 Vegyes életbiztosítások sorainak szerződéskötés ideje szerinti bontása
 
 A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas vegyes életbiztosításokat a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E103101-42Y1E103113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1031 és konzisztensen a 42Y1E1 tábla 42Y1E12103 során jelentett adattal, míg a 42Y1E103201-42Y1E103213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1032 és konzisztensen a 42Y1E1 tábla 42Y1E12203 során jelentett adattal.
+A 42Y1E103101–42Y1E103113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1031 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12103 során jelentett adattal, míg a 42Y1E103201–42Y1E103213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1032 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12203 során jelentett adattal.
 
 6. 42Y1E104 42Y1E1 tábla 42Y1E12104 és 42Y1E12204 Indexhez vagy befektetési egységekhez kötött életbiztosítás sorainak szerződéskötés ideje szerinti bontása
 
-A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas indexhez vagy befektetési egységekhez kötött életbiztosításokat a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
+A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos díjas és egyszeri díjas indexhez vagy befektetési egységekhez kötött életbiztosításokat a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E104101-42Y1E104113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1041 és konzisztensen a 42Y1E1 tábla 42Y1E12104 során jelentett adattal, míg a 42Y1E104201-42Y1E104213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1042 és konzisztensen a 42Y1E1 tábla 42Y1E12204 során jelentett adattal.
+A 42Y1E104101–42Y1E104113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1041 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12104 során jelentett adattal, míg a 42Y1E104201–42Y1E104213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1042 és konzisztensen a 42Y1E1 kódú tábla 42Y1E12204 során jelentett adattal.
 
 7. 42Y1E105 42Y1E1 tábla 42Y1E1210611 és 42Y1E1220611 Indexhez vagy befektetési egységekhez kötött életbiztosítás jellegű nyugdíjbiztosítások, melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető sorainak szerződéskötés ideje szerinti bontása
 
-A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas indexhez vagy befektetési egységekhez kötött életbiztosítás jellegű nyugdíjbiztosításokat melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető, a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
+A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos díjas és egyszeri díjas indexhez vagy befektetési egységekhez kötött életbiztosítás jellegű nyugdíjbiztosításokat melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető, a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E105101-42Y1E105113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1051 és konzisztensen a 42Y1E1 tábla 42Y1E1210611 során jelentett adattal, míg a 42Y1E105201-42Y1E105213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1052 és konzisztensen a 42Y1E1 tábla 42Y1E1220611 során jelentett adattal.
+A 42Y1E105101–42Y1E105113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1051 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1210611 során jelentett adattal, míg a 42Y1E105201–42Y1E105213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1052 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1220611 során jelentett adattal.
 
 8. 42Y1E106 42Y1E1 tábla 42Y1E1210612 és 42Y1E1220612 Vegyes életbiztosítás jellegű nyugdíjbiztosítások, melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető sorainak szerződéskötés ideje szerinti bontása
 
-A táblában be kell mutatni a 42Y1E1 táblában jelentett folyamatos díjas és egyszeri díjas vegyes életbiztosítás jellegű nyugdíjbiztosításokat melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető, a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
+A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos díjas és egyszeri díjas vegyes életbiztosítás jellegű nyugdíjbiztosításokat melyekre az Szja. tv. szerinti adókedvezmény érvényesíthető, a szerződéskötések ideje szerinti bontásban. Szerződéskötés ideje alatt a kötvényesítés dátumát kell érteni.
 
-A 42Y1E106101-42Y1E106113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1061 és konzisztensen a 42Y1E1 tábla 42Y1E1210612 során jelentett adattal, míg a 42Y1E106201-42Y1E106213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1062 és konzisztensen a 42Y1E1 tábla 42Y1E1220612 során jelentett adattal.
+A 42Y1E106101–42Y1E106113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1061 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1210612 során jelentett adattal, míg a 42Y1E106201–42Y1E106213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1062 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1220612 során jelentett adattal.
 
 9. 42Y1E2 A biztosító állománydíja, díjbevétele és a károk alakulásának bemutatása termékcsoportok szerint a tárgyidőszak végén (ezer Ft)
 
 A tábla kitöltése
 
-A tábla első blokkjában a biztosító állományilag nyilvántartott folyamatos díjas direkt biztosítási szerződéseinek éves állománydíját, az összes biztosítási szerződéshez kapcsolódó bruttó díjbevételét, valamint ebből külön-külön oszlopban az eseti és egyszeri díjas díjbevételt, az aktív viszontbiztosítások díjbevételét, a tárgyidőszakban bejelentett károk darabszámát valamint a kárráfordításokat kell bemutatni, a szerződésállomány 42Y1E1 táblában bemutatott termékcsoportok szerinti besorolása következetes alkalmazásával, az adatok kockázatok szerinti szétbontása nélkül.
+A tábla első blokkjában a biztosító állományilag nyilvántartott folyamatos díjas direkt biztosítási szerződéseinek éves állománydíját, az összes biztosítási szerződéshez kapcsolódó bruttó díjbevételét, valamint ebből külön-külön oszlopban az eseti és egyszeri díjas díjbevételt, az aktív viszontbiztosítások díjbevételét, a tárgyidőszakban bejelentett károk darabszámát valamint a kárráfordításokat kell bemutatni, a szerződésállomány 42Y1E1 kódú táblában bemutatott termékcsoportok szerinti besorolása következetes alkalmazásával, az adatok kockázatok szerinti szétbontása nélkül.
 
 A tábla oszlopai
 
@@ -336,9 +336,9 @@ A 42Y1E21 Nem-életbiztosítások, 42Y1E22 Életbiztosítások és 42Y1E23 CSÉB
 
 Az eseti befizetésből származó díjbevételek között kell bemutatni a díjbevételből az ügyfelek által a szerződéses kötelezettségen felül eseti jelleggel teljesített díjbefizetéseket.
 
-15-19. oszlop Tárgyidőszakban bejelentett károk darabszáma, valamint Kárráfordítás
+15–19. oszlop Tárgyidőszakban bejelentett károk darabszáma, valamint Kárráfordítás
 
-Az oszlopokban a káradatokat a kockázattól függetlenül azon terméksoron kell feltüntetni, amely soron a szerződést a 42Y1E1 táblában jelentették. Aktív viszontbiztosítás esetében az adatokat szintén a megfelelő terméksoron kell jelenteni. A kárráfordítást kárrendezési költségek nélkül kell feltüntetni, a kárrendezési költség a 28. oszlopban jelentendő.
+Az oszlopokban a káradatokat a kockázattól függetlenül azon terméksoron kell feltüntetni, amely soron a szerződést a 42Y1E1 kódú táblában jelentették. Aktív viszontbiztosítás esetében az adatokat szintén a megfelelő terméksoron kell jelenteni. A kárráfordítást kárrendezési költségek nélkül kell feltüntetni, a kárrendezési költség a 28. oszlopban jelentendő.
 
 18. és 19. oszlop 16. oszlopból: Bruttó számviteli biztosítástechnikai tartalék növekedés és csökkenés
 
@@ -350,15 +350,15 @@ Az IBNR tartalékot a tartalék oszlopokban a következőképpen kell jelenteni:
 
 IFRS-eket alkalmazó biztosító esetén az IFRS 17 szerinti felmerült kárigényekre vonatkozó kötelezettség (liability for incurred claims – LIC) változása jelentendő kártartalék változásként.
 
-20-22. oszlop Tárgyidőszakban kifizetett károk darabszáma
+20–22. oszlop Tárgyidőszakban kifizetett károk darabszáma
 
 Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre a tárgyidőszakban történt kárkifizetés.
 
-23-25. oszlop Tárgyidőszakot követően várhatóan kifizetésre kerülő, a tárgyidőszak végéig bejelentett károk darabszáma
+23–25. oszlop Tárgyidőszakot követően várhatóan kifizetésre kerülő, a tárgyidőszak végéig bejelentett károk darabszáma
 
 Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre részben vagy egészében a jövőben várható kifizetés.
 
-A 26-30. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
+A 26–30. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
 
 26. oszlop Szerzési költség
 
@@ -420,7 +420,7 @@ Szállítmány és fuvarozói biztosítás = közúti árufuvarozók kezesi bizt
 
 42Y1E2114 sor Casco
 
-Casco = Szárazföldijármű-casco + Egyéb jármű casco
+asco = Szárazföldijármű-casco + Egyéb jármű casco
 
 42Y1E2206 sor Nyugdíjbiztosítás Szja. tv. szerint
 
@@ -440,7 +440,7 @@ A tábla kitöltése
 
 A táblában a folyamatos díjas biztosítási szerződések termékenként, termékcsoportonként besorolt záró állománydíját, illetve az egyszeri díjas biztosítási szerződések bruttó egyszeri díjbevételét kell bemutatni, Szolvencia II szerinti üzletágankénti bontásban. Amennyiben pl. valamely nem-élet termékcsoportba sorolt szerződés állománydíja élet kockázatra is kiterjed, úgy a Szolvencia II szerinti üzletágankénti bontásban az állománydíjat kockázat arányosan az élet oszlopban is meg kell jeleníteni.
 
-Az első oszlopban jelentett állománydíjak termékcsoportonkénti értékének meg kell egyezni a 42Y1E2 tábla 10. oszlopában, míg az egyszeri díjak értékének a 42Y1E2 tábla 12. oszlopában feltüntetett termékcsoportonkénti értékével.
+Az első oszlopban jelentett állománydíjak termékcsoportonkénti értékének meg kell egyezni a 42Y1E2 kódú tábla 10. oszlopában, míg az egyszeri díjak értékének a 42Y1E2 kódú tábla 12. oszlopában feltüntetett termékcsoportonkénti értékével.
 
 A tábla sorai
 
@@ -470,7 +470,7 @@ A tábla sorai
 
 Azon biztosítások vonatkozó adatait kell feltüntetni, amelyek esetében a biztosítóval szerződő fél a hitelt nyújtó hitelintézet, illetve egyéb jogi személy.
 
-Az alábontó sorokban (42Y1G11-42Y1G16 sor) az adatokat – amennyiben egy kötvényszámon több hiteltípus is szerepel – minden oszlop esetében hiteltípusonként megbontva kell megadni. Ennek értelmében a darabszámos oszlopok vonatkozásában [biztosítási szerződések darabszáma, biztosítottak száma, kárkifizetés és szolgáltatás (db)] az adott hiteltípushoz tartozó darabszámot kell jelenteni, függetlenül attól, hogy a biztosító nyilvántartásában ezek egy kötvényszámon szerepelnek-e. Ennek következtében a darabszámos oszlopok esetében az alábontások összege nem feltétlenül egyezik majd meg a 42Y1G1 soron jelentett adatokkal.
+Az alábontó sorokban (42Y1G11–42Y1G16 sor) az adatokat – amennyiben egy kötvényszámon több hiteltípus is szerepel – minden oszlop esetében hiteltípusonként megbontva kell megadni. Ennek értelmében a darabszámos oszlopok vonatkozásában [biztosítási szerződések darabszáma, biztosítottak száma, kárkifizetés és szolgáltatás (db)] az adott hiteltípushoz tartozó darabszámot kell jelenteni, függetlenül attól, hogy a biztosító nyilvántartásában ezek egy kötvényszámon szerepelnek-e. Ennek következtében a darabszámos oszlopok esetében az alábontások összege nem feltétlenül egyezik majd meg a 42Y1G1 soron jelentett adatokkal.
 
 42Y1G2 Egyéni hitelfedezeti biztosítások
 
@@ -500,7 +500,7 @@ Itt azoknak a – megelőző oszlopban is bemutatott – visszavásárlásoknak 
 
 A tábla sorai
 
-42Y3A311 Folyamatos díjas szerződések 1-6. és 7-12. oszlop
+42Y3A311 Folyamatos díjas szerződések 1–6. és 7–12. oszlop
 
 Folyamatos díjas szerződések részösszesen = Egészségbiztosítás + Nyereségrészesedéssel járó biztosítás + Indexhez vagy befektetési egységekhez kötött életbiztosítás + Egyéb életbiztosítások + Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségekhez kapcsolódó járadékok + Nem-életbiztosítási szerződésekből eredő és egészségbiztosítási kötelezettségektől eltérő biztosítási kötelezettségekhez kapcsolódó járadékok
 
@@ -532,11 +532,11 @@ A tábla oszlopai
 
 1. oszlop Eszközalapok nevei
 
-Az indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó eszközalapok elnevezéseit ebbe az oszlopba kell beírni. A használt elnevezésnek meg kell egyeznie a biztosító honlapján közzétett elnevezéssel, és egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
+Az indexhez vagy befektetési egységekhez kötött életbiztosításokhoz kapcsolódó eszközalapok elnevezéseit ebbe az oszlopba kell beírni. A használt elnevezésnek meg kell egyeznie a biztosító honlapján közzétett elnevezéssel, és egységesen kell alkalmazni a 42Y9F, 42Q9F, 42Q25 és 42BP kódú tábla esetében.
 
 2. oszlop Eszközalap azonosító kódja
 
-A kód az adatszolgáltató által kialakított, az egyes eszközalapokat azonosító hatjegyű kód, melyet az 1. melléklet 4.4. pontjában foglaltaknak megfelelően kell megképezni. Az így megképzett kódot egységesen kell alkalmazni a 42Y9F, a 42Q9F, a 42Q25 és a 42BP táblák esetében.
+A kód az adatszolgáltató által kialakított, az egyes eszközalapokat azonosító hatjegyű kód, melyet az 1. melléklet 4.4. pontjában foglaltaknak megfelelően kell megképezni. Az így megképzett kódot egységesen kell alkalmazni a 42Y9F, 42Q9F, 42Q9G2, 42Q25, 42PRIIPS1, 42BA, 42BP és 42N9G1 kódú tábla esetében.
 
 4. oszlop Befektetési egység árfolyama
 
@@ -654,7 +654,7 @@ Idesorolandók a saját kockázatvállalásával összefüggő, saját jogú ér
 
 42Y13A118 Egyéb dolgozók összesen
 
-A 42Y13111-42Y13A117 sorban nem szerepeltetett, a biztosítónál munkaviszonyban foglalkoztatott természetes személyek számát kell itt jelenteni.
+A 42Y13111–42Y13A117 sorban nem szerepeltetett, a biztosítónál munkaviszonyban foglalkoztatott természetes személyek számát kell itt jelenteni.
 
 42Y13A12 Biztosításközvetítő (ügynök) természetes személyek száma
 
@@ -700,7 +700,7 @@ A táblában használt fogalmak
 
 - kettős felhasználású termék: a 428/2009/EK tanácsi rendelet 2. cikk 1. pontja szerinti, a hivatkozott tanácsi rendelet I. mellékletét képező jegyzékben szereplő termék;
 
-- kiemelt kockázatú ország: a Pmt. 3. § 31. pontja szerinti ország;
+- kiemelt kockázatú ország: a Pmt. 3. § 31. pontja szerinti stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország;
 
 - kiemelt közszereplő: a Pmt. 4. § (1) és (2) bekezdése szerinti természetes személy;
 
@@ -708,13 +708,11 @@ A táblában használt fogalmak
 
 - kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
 
-- kockázatra vonatkozó tényezők: a pénzügyi intézmények pénzmosási és terrorizmus finanszírozási kockázatainak értékeléséről, és a kapcsolódó intézkedések meghatározásáról szóló 7/2019. (IV. 1.) MNB ajánlás [a továbbiakban: 7/2019. (IV. 1.) MNB ajánlás] Mellékletében foglalt kockázati tényezők;
-
 - magas kockázatúnak minősített ország, térség: a 21/2017. (VIII. 3.) NGM rendelet 2. mellékletének 3. pontjában foglaltak alapján, a biztosító által magas kockázatúnak minősített ország, térség;
 
 - összetett tulajdonosi struktúra: olyan társaság, amelynek tulajdonosi szerkezete a társaság üzleti tevékenységének jellegéhez képest szokatlannak vagy túlzottan összetettnek tűnik; a tulajdonosi szerkezet a társaság üzleti tevékenységének jellegéhez képest túlzottan összetett, ha a társaság tulajdonosi struktúrájában háromnál több társaság érintettségével egymásba fonódások (hurkok) révén a társaságok kölcsönösen egymás tulajdonosai, vagy a tulajdonosi szerkezetben több, mint három szinten, közvetett részesedéssel rendelkező tulajdonosok találhatók, vagy a tulajdonosi szerkezetben több mint négy jogi személy vagy jogi személyiséggel nem rendelkező társaság rendelkezik tulajdoni hányaddal;
 
-- származás: az ügyfél bármilyen kimutatható, a biztosító által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel. Pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat(ok) (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
+- származás: az ügyfél bármilyen kimutatható, a biztosító által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat(ok) (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
 - tárgyév végi állapot: az adott naptári év utolsó napján fennálló állapot;
 
@@ -730,9 +728,9 @@ A táblában használt fogalmak
 
 A tábla oszlopai
 
-A tábla a) Fő, ill. darab az év végén oszlopában a tárgyévre vonatkozó adatot fő, illetve darabszám tekintetében szükséges megadni.
+A tábla a) oszlopában a tárgyévre vonatkozó adatot fő, illetve darabszám tekintetében szükséges megadni.
 
-A tábla b) és c) oszlopaiban az érintett soroknál szereplő meghatározás szerint, a Jóváírások és Terhelések éves összesített értékösszegét minden esetben ezer forintban, kettő tizedesjegy pontossággal szükséges megadni.
+A tábla b) és c) oszlopában az érintett soroknál szereplő meghatározás szerint, az adatszolgáltató szemszögéből a Jóváírások és Terhelések éves összesített értékösszegét minden esetben ezer forintban, kettő tizedesjegy pontossággal szükséges megadni.
 
 A forintra történő átszámítást a tárgyév utolsó napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon átszámított forint összegben kell szerepeltetni.
 
@@ -752,6 +750,10 @@ A tárgyév végi állapot szerint a biztosítónak és tulajdonosának kiemelt 
 
 A tárgyév végi állapot szerint ebben a sorban a biztosítónak a rendelkezésére álló pénzmosás és terrorizmus-finanszírozás megelőzési feladatokat ellátó területen egy teljes munkanapra (napi 8 óra) vetített erőforrás összegét (a továbbiakban: Erőforrás) szükséges szerepeltetni.
 
+A42Y1903 sorban és annak alábontó soraiban kizárólag a pénzmosás- és terrorizmusfinanszírozás- megelőzési feladatokat ellátó terület rendelkezésére álló Erőforrás jelentendő, vagyis a pénzmosás- megelőzési terület (AML) rendelkezésére álló teljes Erőforrás (FTE) adat, illetve ezen belül az egyes szakfeladatokra eső Erőforrás (FTE) bontás megadása szükséges. Az egyéb, pénzmosás- és terrorizmusfinanszírozás-megelőzési jellegű feladatokat (pl.: ügyfél-átvilágítás, szankciós szűrés, bejelentés) is részben ellátó területek (pl. üzleti terület, nemzetközi pénzforgalom) vonatkozásában a pénzmosás- és terrorizmusfinanszírozás-megelőzési jellegű feladatokra eső Erőforrás (FTE) adatok nem tartoznak ide. Ugyancsak nem tartoznak ide – így az alábontó sorokban sem szerepeltetendők – a kiszervezés keretében végzett tevékenység esetén a beszállító által ezekre a feladatokra alkalmazott Efőrorrás (FTE) adatok.
+
+A 42Y19031–42Y19037 sor összegének meg kell egyeznie a 42Y1903 sorban megadott adattal, az adatokat egy tizedesjegy pontossággal kell jelenteni.
+
 42Y19031 Vezetői feladatok
 
 A 42Y1903 sorból a rendelkezésre álló Erőforrás vezetői feladatok ellátására szolgáló része.
@@ -766,25 +768,25 @@ A 42Y1903 sorból az Erőforrás operáción belül, ügyfél-átvilágítással
 
 42Y19034 Másodlagos kontroll
 
-A 42Y1903 sorból rendelkezésre álló Erőforrás másodlagos kontrollra csoportosított része.
+A 42Y1903 sorból rendelkezésre álló Erőforrás másodlagos kontrollra csoportosított része. A biztosító saját megítélésén alapul, hogy az általa alkalmazott eljárások során mi minősül másodlagos kontrollfunkciónak. A másodlagos kontroll alatt értendő többek között: riasztások, bejelentések, ügyfél-átvilágítások során alkalmazott négyszem elv, minőségellenőrzési funkció.
 
 42Y19035 Szabályozás, tanácsadás, projekt
 
-A 42Y1903 sorból rendelkezésre álló Erőforrás szabályozásra, tanácsadásra, projektre csoportosított része.
+A 42Y1903 sorból a rendelkezésre álló Erőforrásnak a pénzmosás- és terrorizmusfinanszírozás-megelőzési tevékenységgel összefüggő szabályozásra, tanácsadásra, projektre csoportosított része. E sor vonatkozásában nem kell figyelembe venni az általános compliance tevékenységgel kapcsolatos feladatokat (pl. etika, összeférhetetlenség).
 
 42Y19036 Képzés, oktatás
 
-A 42Y1903 sorból az Erőforrás képzésre, oktatásra csoportosított része.
+A 42Y1903 sorból az Erőforrás képzésre, oktatásra csoportosított része. Ebben a sorban szerepeltetni kell minden, pénzmosás- és terrorizmusfinanszírozás-megelőzési tevékenységgel összefüggő képzést, oktatást függetlenül attól, hogy az személyes megjelenést igényel vagy e-learning jellegű, általános vagy specifikus. Központi tréningek esetén fel kell tüntetni a tréningek összeállításához, megtartásához igénybe vett helyi erőforrást.
 
 42Y19037 Egyéb
 
 A 42Y1903 sorból rendelkezésre álló Erőforrás egyéb feladatra csoportosított része.
 
-A 42Y19031 - 42Y19037 sorok összege megegyezik a biztosító által a 42Y1903 sorban megadott Erőforrás összegével, az adatokat egy tizedesjegy pontossággal kell megadni.
-
 42Y1904 Ügyfelek száma
 
-Az biztosító ügyfeleinek száma a tárgyév végi állapot szerint. Ezen sorban megadott adat egyenlő a 42Y190411, 42Y190412 és 42Y190413 sorban megadott szám összegével.
+A biztosító azon ügyfeleinek száma a tárgyév végi állapot szerint – december 31-ei állományi adat –, akik a biztosító tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozóan a biztosítóval szerződés megkötésével tartós jogviszonyt (üzleti kapcsolatot) létesítettek.
+
+Tekintettel a Pmt. 6/A. §-ára, az ezen sorban megadott adat egyenlő a kockázati kategória szerinti bontásban a 42Y190411, 42Y190412 és 42Y190413 sorban megadott szám összegével.
 
 42Y190411 Ügyfelek kockázati szintje magas
 
@@ -794,17 +796,29 @@ A 42Y1904 sorból a biztosító által magas kockázati kategóriába sorolt üg
 
 A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik pénzmosási szempontból lényegesnek minősített kapcsolattal rendelkeznek kiemelt kockázatot jelentő országgal.
 
+42Y1904112 Ügyfél kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
+
+A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik kiemelt közszereplőnek, kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősülnek.
+
+42Y1904113 Ügyfél tényleges tulajdonosa kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
+
+A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akiknek a tényleges tulajdonosa kiemelt közszereplőnek, kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül. A Pmt. 16. § (1) bekezdés d) pontja alapján a többségi tulajdonú állami vállalatnak a Pmt. 3. § 38. pont f) alpontja alapján megállapított tényleges tulajdonosa nem esik a magas kockázati besorolás és fokozott ügyfél-átvilágítási többlet intézkedések hatálya alá, ezért ezen személyekre vonatkozó adat ebben a sorban nem szerepeltetendő.
+
 42Y1904114 Nonprofit gazdasági társaság ügyfelek
 
-A 42Y190411 sorból, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik esetében a biztosító – belső kockázatértékelése alapján – fokozott ügyfél-átvilágítási intézkedések alkalmazását írja elő. Nonprofit szervezetnek minősül az a jogalany, amelynek létesítése elsődlegesen nem gazdasági tevékenység során biztosított vagyonszerzést céloz (pl. alapítvány, egyesület, párt, egyház).
+A 42Y190411 sorból, azon nonprofit ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik esetében a biztosító – belső kockázatértékelése alapján – fokozott ügyfél-átvilágítási intézkedések alkalmazását írja elő. Nonprofit szervezetnek minősül az a jogalany, amelynek létesítése elsődlegesen nem gazdasági tevékenység során biztosított vagyonszerzést céloz (pl. alapítvány, egyesület, párt, egyház).
 
 42Y1904115 Ügyfél tényleges tulajdonosa kiemelt kockázatú országból származik
 
 A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik tényleges tulajdonosa pénzmosási szempontból lényegesnek minősített kapcsolattal rendelkeznek kiemelt kockázatot jelentő országgal.
 
+42Y1904116 Ügyfél szokatlanul vagy túlzottan összetett tulajdonosi struktúrával rendelkezik
+
+A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akiknek a tulajdonosi szerkezetét összetett tulajdonosi struktúra jellemzi.
+
 42Y1904117 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak, és a 42Y1904111-42Y1904116 sorokban meghatározott kritériumok egyikének sem feleltethetőek meg.
+A 42Y190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak, és a 42Y1904111–42Y1904116 sorban meghatározott kritériumok egyikének sem feleltethetőek meg.
 
 42Y190412 Ügyfelek kockázati szintje átlagos
 
@@ -816,19 +830,47 @@ A 42Y1904 sorból a biztosító által alacsony kockázati kategóriába sorolt 
 
 42Y19051 Nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek
 
-A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet, és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a tábla 42Y1904117 sorában szükséges feltüntetnie és ezen ügyfelek vonatkozásában nem töltendők ki a tábla 42Y190511-42Y190514 sorai.
+A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet, és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a 42Y1904 sorban és annak alábontó soraiban szükséges feltüntetnie, és ezen ügyfelek vonatkozásában nem töltendő ki a 42Y190511–42Y190514 sor.
 
 42Y190511 Havi százmillió forintot elérő vagy meghaladó készpénzforgalmat lebonyolító ügyfelek
 
-A 42Y19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte, vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített értékösszege. Egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot.
+A 42Y19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte, vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített összege A tábla a) oszlopában egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot, a b) és c) oszlopban azonban a készpénzforgalom teljes éves összesített értékét kell megadni.
 
 42Y190512 Bejelentett ügyfelek
 
 A 42Y19051 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akikkel kapcsolatban a biztosító a Pmt. 30. § (1) bekezdése szerinti legutolsó bejelentése óta egy év nem telt el.
 
+42Y190513 Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező természetes személy ügyfelek
+
+A 42Y19051 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik Magyarországon sem bejelentett lakóhellyel, sem tartózkodási hellyel nem rendelkeznek.
+
 42Y190514 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-A 42Y19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (Terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak, és a 42Y190511-42Y190513 sorokban meghatározott kritériumok egyikének sem feleltethető meg.
+A 42Y19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (Terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak, és a 42Y190511–42Y190513 sorban meghatározott kritériumok egyikének sem feleltethető meg.
+
+42Y19061 Adószámmal nem rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet ügyfelek
+
+A tárgyév végi állapot szerint azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek.
+
+42Y190611 42Y19061-ből: a magas kockázati besorolású, adószámmal nem rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező ügyfelek
+
+Tárgyév végi állapot szerint a 42Y19061 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek és akiket a biztosító a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekint. A Pmt. 16. § (1) bekezdés b) pontja szerint magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak.
+
+42Y190612 42Y19061-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek
+
+Tárgyév végi állapot szerint a 42Y19061 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek és akik a biztosító által nem magas kockázati szintbe kerültek besorolásra, de megerősített eljárás alá tartoznak.
+
+42Y19062 Nem magyar adószámmal rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet ügyfelek
+
+A tárgyév végi állapot szerint azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek.
+
+42Y190621 42Y19062-ből: a magas kockázati besorolású nem magyar adószámmal rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező ügyfelek
+
+Tárgyév végi állapot szerint a 42Y19062 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek és akiket a biztosító a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekint. A Pmt. 16. § (1) bekezdés b) pontja szerint ide kell érteni és magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak.
+
+42Y190622 42Y19062-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek
+
+Tárgyév végi állapot szerint a 42Y19062 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek és akik a biztosító által nem magas kockázati szintbe kerültek besorolásra, de megerősített eljárás alá tartoznak.
 
 42Y19063 Fegyverkereskedelemmel vagy kettős felhasználású termékkel foglalkozó ügyfelek
 
@@ -842,9 +884,41 @@ A tárgyév végi állapot szerint a Pmt. 3. § 17. pontja szerinti ingatlanügy
 
 A tárgyév végi állapot szerint azon ügyfelek számát kell megadni, akik hatósági engedélyhez kötött játékkaszinót, kártyatermet működtetnek vagy szerencsejáték szervező tevékenységet folytatnak.
 
+42Y19071 Biztosító által magas kockázatúnak minősített országokból, térségekből származó ügyfelek
+
+A tárgyév végi állapot szerint a biztosító által magas kockázatúnak minősített országokból, térségekből származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege. A sorban összeghatártól függetlenül valamennyi, a biztosító által magas kockázatúnak minősített országból, térségből származó ügyfélhez kapcsolódó tranzakció jelentendő. Azon országok, melyek jogszabályi rendelkezés alapján minősülnek kiemelt kockázatú országnak, nem tartoznak a biztosító által magas kockázatúnak minősített országok, térségek közé, ezért azok ebben a sorban nem jelentendők.
+
 42Y19072 Adózási szempontból nem együttműködő országokból, illetve területekről származó ügyfelek
 
-A tárgyév végi állapot szerint az Európai Unió Tanácsa következtetései alapján kiadott, az adózási szempontból nem együttműködő országok és területek európai uniós jegyzékében szereplő országból, területről származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege.
+A tárgyév végi állapot szerint az Európai Unió Tanácsa következtetései alapján kiadott, az adózási szempontból nem együttműködő országok és területek európai uniós jegyzékében szereplő országból, területről származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő.
+
+42Y19081 Ötvenmillió forintot elérő vagy meghaladó ügyleti megbízás miatt átvilágított eseti ügyfelek
+
+Azon eseti ügyfelek száma, illetve az ügyfelek biztosítására érkező befizetések (jóváírások) és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító ügyfeleinek biztosításához kapcsolódó, ötvenmillió forintot elérő vagy meghaladó összegű ügyleti megbízást teljesítettek.
+
+42Y19091 Magas kockázatúnak minősített országokból, térségekből érkező jóváírások
+
+Magas kockázatúnak minősített országokból, térségekből az ügyfél biztosítására érkező jóváírások száma és forintban megadott összértéke. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő. Magas kockázatúnak minősített országnak, térségnek kell tekinteni a kiemelt kockázatú országokat, valamint a biztosító által kockázati alapon magas kockázatúnak minősített országokat, illetve térségeket.
+
+42Y190911 42Y19091-ből: magas kockázati szinttel rendelkező ügyfelek biztosítására érkező jóváírások
+
+A 42Y19091 sorból azon, magas kockázatúnak minősített országokból, térségekből érkező jóváírások száma és forintban megadott összértéke, melyek magas kockázati szinttel rendelkező ügyfelek biztosítására érkeztek.
+
+42Y190912 42Y19091-ből: nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek biztosítására érkező jóváírások
+
+A 42Y19091 sorból azon, magas kockázatúnak minősített országokból, térségekből érkező jóváírások száma és forintban megadott összértéke, melyek nem magas kockázati szinttel rendelkező, de megerősített eljárás alá tartozó ügyfelek biztosítására érkeztek.
+
+42Y19092 Magas kockázatúnak minősített országokba, térségekbe irányuló terhelések
+
+Magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő. Magas kockázatúnak minősített országoknak, térségeknek kell tekinteni a kiemelt kockázatú országokat, valamint a kockázati alapon biztosító által magas kockázatúnak minősített országokat, illetve térségeket.
+
+42Y190921 42Y19092-ből: magas kockázati szinttel rendelkező ügyfelek biztosítási szerződéseihez kapcsolódó terhelések
+
+A 42Y19092 sorból azon, magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke, mely kifizetések magas kockázati szinttel rendelkező ügyfelek biztosítási szerződéseihez kapcsolódtak.
+
+42Y190922 42Y19092-ből: nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek biztosítási szerződéseihez kapcsolódó terhelések
+
+A 42Y19092 sorból azon, magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke, mely kifizetések nem magas kockázati szinttel rendelkező, de megerősített eljárás alá tartozó ügyfelek biztosítási szerződéseihez kapcsolódtak.
 
 42Y1910 Pénzmosás- és terrorizmusfinanszírozás-megelőzés vonatkozású új üzleti gyakorlat
 
@@ -856,69 +930,25 @@ A biztosítónak a tárgyévben a készpénzbefizetések darabszámát, illetve 
 
 42Y1912 Más szolgáltató által végzett ügyfél-átvilágítás átvétele
 
-A Pmt. 22-24. §-a szerinti, más szolgáltató által végzett és a biztosító által elfogadott ügyfél-átvilágítások számát szükséges feltüntetni.
+A Pmt. 22–24. §-a szerinti, más szolgáltató által végzett és a biztosító által elfogadott ügyfél-átvilágítások számát szükséges feltüntetni.
 
 42Y1913 Távollévő ügyfél közhiteles okiratok által történő átvilágítása
 
-Azon ügyfél-átvilágítások száma, amelyeknél a természetes személy ügyféllel történő üzleti kapcsolat létesítése közhiteles okiratok beküldése alapján történik vagy jogi személyiséggel rendelkező, illetve jogi személyiséggel nem rendelkező ügyfél esetében az átvilágítási adatok átadása nem személyesen vagy auditált elektronikus hírközlő eszköz útján, a képviselő közreműködésével, hanem a céges közhiteles dokumentáció postai úton történő beküldésével történik.
+Azon ügyfél-átvilágítások száma, amelyeknél a természetes személy ügyféllel történő üzleti kapcsolat létesítése közhiteles okiratok beküldése alapján történik vagy jogi személyiséggel rendelkező, illetve jogi személyiséggel nem rendelkező ügyfél esetében az átvilágítási adatok átadása nem személyesen vagy auditált elektronikus hírközlő eszköz útján, a képviselő közreműködésével, hanem a céges közhiteles dokumentáció postai úton történő beküldésével történik. Ebben a sorban nem jelentendők azok az esetek, ahol a kapcsolatfelvétel személyesen megtörténik, de a szükséges hitelesített dokumentumokat az ügyfél postai úton, utólag küldi meg a biztosítónak.
 
 42Y1914 Meghatalmazott közreműködése mellett végzett ügyfél-átvilágítás
 
-Azon ügyfél-átvilágítások száma, amelyeknél ügyfél helyett és nevében meghatalmazott jár el és az ügyfél-átvilágítási intézkedéseket a biztosító a meghatalmazott részvételével végezte el.
+Azon ügyfél-átvilágítások száma, amelyeknél ügyfél helyett és nevében meghatalmazott jár el és az ügyfél-átvilágítási intézkedéseket a biztosító a meghatalmazott részvételével végzi el.
 
 42Y1915 Közvetítő által végzett átvilágítás
 
 A Bit. 4. § (1) bekezdés 15. pontjában meghatározott biztosításközvetítői tevékenységet végző közvetítő által végzett átvilágítások számát kell feltüntetni.
 
-42Y19171 Életbiztosítási szolgáltatás nyújtásával kapcsolatos kockázatot növelő tényezők
+42Y1916 Auditált elektronikus hírközlő eszköz útján végzett elektronikus ügyfél-átvilágítás
 
-A 7/2019. (IV. 1.) MNB ajánlás Melléklet 97-100., 102-107., 112-114., illetve 117-119. pontjában tételesen felsorolt, kockázatot növelő tényezők közül a biztosító által intézményi szinten azonosított tényezők darabszáma a tárgyévben. A megjelölt pontok szerinti bontásban, a 42Y191711-42Y191714 sorban szükséges megadni a kockázatot növelő, a biztosító által azonosított tényezők darabszámát.
+Azon ügyfél-átvilágítások száma, amelyeket a biztosító az adott tárgyévben auditált elektronikus hírközlő eszköz útján végez el.
 
-42Y19172 Életbiztosítási szolgáltatás nyújtásával kapcsolatos kockázatot csökkentő tényezők
-
-A 7/2019. (IV. 1.) MNB ajánlás Melléklet 101., 108-111., 115. és 116., illetve 120. és 121. pontjaiban tételesen felsorolt kockázatot csökkentő tényezők közül a biztosító által intézményi szinten azonosított tényezők darabszáma a tárgyévben. A megjelölt pontok szerinti bontásban, a 42Y191721-42Y191724 sorban szükséges megadni a kockázatot csökkentő, a biztosító által azonosított tényezők darabszámát.
-
-19. 42Y20 IFRS-eket alkalmazó biztosítók tájékoztató adatai
-
-A tábla kitöltése
-
-A táblában az IFRS-eket alkalmazó biztosítók egyes, a felügyelési feladatok ellátását elősegítő, a biztosító tevékenységével összefüggő mérleg- és eredménykimutatás tájékoztató adatait kell jelenteni.
-
-A táblát a legfőbb szerv által elfogadott éves beszámolóval egyezően kell kitölteni.
-
-A biztosítástechnikai tartalékok bemutatásakor, amennyiben a biztosító él az IFRS 4 nyújtotta lehetőséggel, és az átállást követően a biztosítási szerződéseit a korábban alkalmazott számviteli politikája szerint számolja el pénzügyi kimutatásaiban, a biztosítási szerződések kapcsán képzett biztosítástechnikai tartalékokat a Számv. tv.-vel, a 43/2015. (III. 12.) Korm. rendelettel és a saját tartalékolási politikájával összhangban szükséges a táblában bemutatnia.
-
-A tábla sorai
-
-42Y201101 Befektetések – Leányvállalatok
-
-A Bit. 4. § (1) bekezdés 69. pontja szerinti leányvállalat értéke.
-
-42Y201102 Befektetések – Kapcsolt vállalkozások
-
-A Bit. 4. § (1) bekezdés 52. pontja szerinti, leányvállalattól eltérő kapcsolt vállalkozások értéke.
-
-42Y201103 Befektetések – Értékesíthető pénzügyi eszközök
-
-Olyan, nem származékos pénzügyi eszközök, melyek piaci értéken szerepelnek. Ezek lehetnek tőkeinstrumentumok és egyes adósságinstrumentumok, melyek értékesíthetőként megjelöltek. (Nem tartoznak az eredménnyel szemben valós értéken értékelt pénzügyi instrumentumok csoportjába, illetve nem az értékvesztés miatti veszteségekkel csökkentett amortizált bekerülési értéken értékeltek.)
-
-42Y201104 Befektetések – Befektetési egységekhez kötött (unit-linked) életbiztosítások szerződői javára végrehajtott befektetések
-
-Indexhez vagy befektetési egységekhez kötött életbiztosítási szerződésekhez kapcsolódó eszközök.
-
-42Y201105 Befektetések – pénzügyi eszközök –befektetési szerződések
-
-Biztosítási szerződésekről leválasztott befektetési szerződésekhez kapcsolódó eszközök.
-
-42Y206 IFRS-eket alkalmazó biztosító által a tárgyidőszakban az eredményben elszámolt pótadó
-
-Ebben a sorban a 197/2022. (VI. 4.) Korm. rendelet alapján a tárgyidőszakban az eredményben elszámolt adót kell bemutatni.
-
-42Y207 IFRS-eket alkalmazó biztosító által a tárgyidőszakban az adóhatóság részére megfizetett pótadó
-
-Ebben a sorban a 197/2022. (VI. 4.) Korm. rendelet alapján a tárgyidőszakban megfizetett adót kell bemutatni.
-
-20. 42Y21M IFRS-eket alkalmazó biztosítók pénzügyihelyzet-kimutatás adatai
+19. 42Y21M IFRS-eket alkalmazó biztosítók pénzügyihelyzet-kimutatás adatai
 
 A tábla sorai
 
@@ -962,7 +992,7 @@ A fennmaradó fedezetre vonatkozó kötelezettség tekintetében a következő m
 
 42Y21M20111 2.1.1.1. Fennmaradó fedezetekre vonatkozó kötelezettség - jövőbeni cash flow-kra vonatkozó becslés jelenértéke (LRC - PVCF)
 
-A nem díjallokációs módszerrel értékelt szerződések esetében a jövőbeni cash-flow-kra vonatkozó becslések jelenértéke (IFRS 17 33-36. bekezdésének megfelelően értékelve).
+A nem díjallokációs módszerrel értékelt szerződések esetében a jövőbeni cash-flow-kra vonatkozó becslések jelenértéke (IFRS 17 33–36. bekezdésének megfelelően értékelve).
 
 42Y21M20112 2.1.1.2. Fennmaradó fedezetekre vonatkozó kötelezettség - nem pénzügyi kockázatra vonatkozó kockázati kiigazítás (LRC-RA)
 
@@ -970,7 +1000,7 @@ A nem díjallokációs módszerrel értékelt szerződések esetében a jövőbe
 
 42Y21M20113 sor 2.1.1.3. Fennmaradó fedezetre vonatkozó kötelezettség - szerződéses szolgáltatási margin (LRC-CSM)
 
-A nem díjallokációs módszerrel értékelt szerződések esetében a szerződéses szolgáltatási margin értéke (IFRS 17 43-46. bekezdésének megfelelően értékelve).
+A nem díjallokációs módszerrel értékelt szerződések esetében a szerződéses szolgáltatási margin értéke (IFRS 17 43–46. bekezdésének megfelelően értékelve).
 
 42Y21M20114 sor 2.1.1.4. Díjallokációs módszer esetén a fennmaradó fedezetre vonatkozó kötelezettség (PAA alkalmazása esetén számított LRC)
 
@@ -984,7 +1014,7 @@ A sor esetén a fennmaradó fedezetre vonatkozó kötelezettség tekintetében a
 
 42Y21M20211 2.2.1.1. Fennmaradó fedezetekre vonatkozó kötelezettség - jövőbeni cash flow-kra vonatkozó becslés jelenértéke (LRC - PVCF)
 
-A jövőbeni cash-flow-kra vonatkozó becslések jelenértéke (IFRS 17 33-36. bekezdésének megfelelően értékelve).
+A jövőbeni cash-flow-kra vonatkozó becslések jelenértéke (IFRS 17 33–36. bekezdésének megfelelően értékelve).
 
 42Y21M20212 2.2.1.2. Fennmaradó fedezetekre vonatkozó kötelezettség – nem pénzügyi kockázatra vonatkozó kockázati kiigazítás (LRC-RA)
 
@@ -992,7 +1022,7 @@ A jövőbeni cash flow-k nem pénzügyi kockázatok miatti kiigazítása (IFRS 1
 
 42Y21M20213 2.2.1.3. Fennmaradó fedezetre vonatkozó kötelezettség – szerződéses szolgáltatási margin (LRC-CSM)
 
-A szerződéses szolgáltatási margin értéke (IFRS 17 43-46. bekezdésének megfelelően értékelve).
+A szerződéses szolgáltatási margin értéke (IFRS 17 43–46. bekezdésének megfelelően értékelve).
 
 42Y21M203 2.3. Befektetési szerződésekből származó pénzügyi kötelezettség (IFRS 9 hatálya alá tartozó szerződések tartaléka)
 
@@ -1006,7 +1036,7 @@ Az IFRS 17 78. bekezdés d) pontja szerint elkülönítetten bemutatandó tétel
 
 Az IAS 1 9. bekezdés c) pontja szerint.
 
-21. 42Y21E IFRS-eket alkalmazó biztosítók átfogó jövedelemkimutatás adatai
+20. 42Y21E IFRS-eket alkalmazó biztosítók átfogó jövedelemkimutatás adatai
 
 A tábla kitöltése
 
@@ -1102,7 +1132,7 @@ Ebben a sorban a 197/2022. (VI. 4.) Korm. rendelet alapján a tárgyidőszakban 
 
 Ebben a sorban a 197/2022. (VI. 4.) Korm. rendelet alapján a tárgyidőszakban megfizetett adót kell bemutatni.
 
-22. 42Y24 Szerzéssel kapcsolatos adatok értékesítési csatornánként
+21. 42Y24 Szerzéssel kapcsolatos adatok értékesítési csatornánként
 
 A tábla a biztosító tárgyidőszaki szerzéseinek értékesítési csatornánkénti, valamint a közvetítőknek fizetett jutalékok és díjazások [a Bit. 375/B. § (3) bekezdése szerinti közvetett díjazás] jutaléktípusonkénti bemutatására szolgál termékek, termékcsoportonkénti bontásban. Független biztosításközvetítő esetén jutalékon a biztosítótól származó, a biztosítási díj meghatározott részét képező közvetett díjazást kell érteni.
 
@@ -1118,31 +1148,31 @@ Jutalék alatt a tárgyidőszakban a közvetítők felé elszámolt jutalékokat
 
 A tábla oszlopai
 
-1-7. oszlop Új szerződések darabszáma a tárgyidőszakban
+1–7. oszlop Új szerződések darabszáma a tárgyidőszakban
 
 Az oszlopokban a tárgyidőszakban értékesített új biztosítási szerződések darabszámát kell megadni.
 
-8-14. oszlop Állománydíj / Díjbevétel (egyszeri díjas szerződéseknél)
+8–14. oszlop Állománydíj / Díjbevétel (egyszeri díjas szerződéseknél)
 
 Az oszlopokban a tárgyidőszakban értékesített biztosítási szerződések éves állománydíját kell megadni, egyszeri díjas szerződések esetében pedig a díjbevételt.
 
-15-21. oszlop Tárgyidőszakra járó szerzési jutalék vagy díjazás bruttó összege
+15–21. oszlop Tárgyidőszakra járó szerzési jutalék vagy díjazás bruttó összege
 
 Az oszlopokban a szerződéskötéssel összefüggésben fizetett jutalék vagy díjazás összegét kell jelenteni. Amennyiben a tárgyidőszakban csepegtetett jutalék vagy díjazás is elszámolásra került, azt fel kell tüntetni az adatszolgáltatásban.
 
-22-28. oszlop Tárgyidőszakra járó fenntartási jutalék vagy díjazás
+22–28. oszlop Tárgyidőszakra járó fenntartási jutalék vagy díjazás
 
 Az oszlopokban a szerződés gondozásáért, meghatározott ideig való fennállásáért járó elszámolt jutalékot vagy díjazást kell megjeleníteni.
 
-29-35. oszlop Tárgyidőszakra járó cél- (extra) jutalék vagy célhoz kötött díjazás
+29–35. oszlop Tárgyidőszakra járó cél- (extra) jutalék vagy célhoz kötött díjazás
 
 Az oszlopokban minden olyan extra jutalékot vagy díjazást kell feltüntetni, amelyre a partner a biztosításközvetítői tevékenysége, teljesítménye vagy célfeladat kiírása alapján válik jogosulttá.
 
-36-42. oszlop Tárgyidőszaki jutalék vagy díjazás visszaírás
+36–42. oszlop Tárgyidőszaki jutalék vagy díjazás visszaírás
 
 Az oszlopokban valamennyi, a tárgyidőszakban visszaírt jutalékot vagy díjazást jelenteni kell, jutalék-/díjazástípustól és a jutalék vagy díjazás kiszámlázásának, valamint a szerződés megkötésének évétől függetlenül.
 
-Értékesítési csatornák meghatározása (1-7. oszlop)
+Értékesítési csatornák meghatározása (1–7. oszlop)
 
 Ügynök: a Bit. 4. § (1) bekezdés 34. pont a) és b) alpontja szerinti biztosításközvetítő, ide nem értve a hitelintézetet.
 
@@ -1158,7 +1188,7 @@ Elektronikus direkt: a biztosító által közvetlenül, de csak online vagy ele
 
 Egyéb: a fenti értékesítési csatornák közül egyikbe sem sorolható értékesítési csatorna.
 
-23. 42YM Nemzeti előírások szerinti mérleg
+22. 42YM Nemzeti előírások szerinti mérleg
 
 A tábla kitöltése
 
@@ -1166,7 +1196,7 @@ A tábla kitöltése során a Bszkr. 1. melléklete előírásait kell alkalmazn
 
 A táblát a legfőbb szerv által elfogadott éves beszámolóval egyezően kell kitölteni.
 
-24. 42YE Nemzeti előírások szerinti eredménykimutatás
+23. 42YE Nemzeti előírások szerinti eredménykimutatás
 
 A tábla kitöltése
 
@@ -1176,7 +1206,7 @@ A Tájékoztató adatok blokk 42YE32, 42YE33, 42YE34, 42YE35 és 42Y36 sorát is
 
 A táblát a legfőbb szerv által elfogadott éves beszámolóval egyezően kell kitölteni.
 
-25. 42Y42 Az életbiztosítási ág különböző technikai kamatlábaihoz tartozó matematikai tartalék értékek
+24. 42Y42 Az életbiztosítási ág különböző technikai kamatlábaihoz tartozó matematikai tartalék értékek
 
 A tábla kitöltése
 
@@ -1194,7 +1224,7 @@ A tábla sorai
 
 Itt kell bemutatni azon szerződésekhez és károkhoz tartozó matematikai tartalékot, amelyekhez a kár, illetve szerződés sajátosságai alapján a technikai kamatláb nem értelmezhető. Az átlagos értéket megfelelő pontosságot biztosító módszerrel kell becsülni. Az átlagolás módszerét (módszereit) a szöveges jelentésben be kell mutatni.
 
-26. 42Y43 Életbiztosítási ág matematikai tartalékának hozama és annak felhasználása
+25. 42Y43 Életbiztosítási ág matematikai tartalékának hozama és annak felhasználása
 
 A tábla kitöltése
 
@@ -1216,7 +1246,7 @@ Itt kell bemutatni a többlethozam számítás alapjául szolgáló, a matematik
 
 Külön soron kell bemutatni azon termékek matematikai tartalékát, amelyekhez nem tartozik technikai kamatláb.
 
-27. 42YMF1 Minősített Fogyasztóbarát Otthonbiztosítás – kárhányadra vonatkozó adatok
+26. 42YMF1 Minősített Fogyasztóbarát Otthonbiztosítás – kárhányadra vonatkozó adatok
 
 A tábla kitöltése
 
@@ -1226,11 +1256,9 @@ A tábla oszlopai
 
 1. oszlop Tervezett kárhányad
 
-A Minősített Fogyasztóbarát Otthonbiztosítási termék (beleértve a kiegészítő fedezeteket is) a Bit. 3. mellékletében foglaltak szerint elkészített terméktervében szereplő érték.
+A Minősített Fogyasztóbarát Otthonbiztosítási termék – beleértve a kiegészítő fedezeteket is – pályázati kiírásának eleget tevő, a terméktervezési fázisban meghatározott tervezett kárhányad értéke. Amennyiben a biztosító kárhányadra vonatkozó tervei a terméktervezési fázisban meghatározott értékhez képest módosulnak, úgy a módosított tervezett kárhányad értékét kell jelenteni.
 
-Kárhányad = (kárkifizetések bruttó összege + bruttó tételes függő kártartalék változása + bruttó IBNR tartalék változása - bevételek kármegtérítésből + természeti katasztrófakárok (földrengés, árvíz) várható értéke) / bruttó megszolgált díj. A katasztrófakárok várható értéke legfeljebb a bruttó megszolgált díj kettő százalékáig vehető figyelembe.
-
-2-5. oszlop Kárráfordításra vonatkozó adatok
+2–5. oszlop Kárráfordításra vonatkozó adatok
 
 A kárráfordításra vonatkozó oszlopok kitöltése során a Bszkr. 2. melléklete előírásait kell alkalmazni, figyelemmel a Számv. tv. vonatkozó rendelkezéseire is.
 
@@ -1242,13 +1270,13 @@ A Minősített Fogyasztóbarát Otthonbiztosítási termék a Bit. 3. melléklet
 
 Az oszlop kitöltése során a Bszkr. 2. melléklete előírásait kell alkalmazni.
 
-8. oszlop Kárhányad
+9. oszlop Kárhányad
 
 A Minősített Fogyasztóbarát Otthonbiztosítási termék tényleges, tárgyévi adatok alapján számított kárhányada.
 
-Kárhányad = (kárkifizetések bruttó összege + bruttó tételes függő kártartalék változása + bruttó IBNR tartalék változása - bevételek kármegtérítésből + természeti katasztrófakárok (földrengés, árvíz) várható értéke) / bruttó megszolgált díj. A katasztrófakárok várható értéke legfeljebb a bruttó megszolgált díj kettő százalékáig vehető figyelembe.
+Kárhányad = (kárkifizetések bruttó összege + bruttó tételes függő kártartalék változása + bruttó IBNR tartalék változása - bevételek kármegtérítésből + természeti katasztrófakárok (földrengés, árvíz) várható értéke) / biztosítási adóval csökkentett bruttó megszolgált díj. A katasztrófakárok várható értéke legfeljebb a bruttó megszolgált díj öt százalékáig vehető figyelembe.
 
-9. oszlop Felülvizsgálat (I/N)
+10. oszlop Felülvizsgálat (I/N)
 
 Ebben az oszlopban a biztosítónak arról kell információt nyújtania, hogy a tárgyévben sor került-e vagy nem került sor a Fogyasztóbarát Otthonbiztosítási termék árazásának felülvizsgálatára. Az alábbi zárt listában szereplő lehetőségek egyikét kell választani: Igen/Nem.
 
@@ -1266,7 +1294,7 @@ Kiegészítő fedezetek
 
 Ezen a soron kell bemutatni mind az elnevezésükben sztenderd kiegészítő fedezetekre, mind az egyedi (elnevezésében és tartalmában nem sztenderd) kiegészítő fedezetekre vonatkozó információkat.
 
-28. 42YMF2 Minősített Fogyasztóbarát Otthonbiztosítás – kárkifizetés és számviteli tartalékok bemutatása
+27. 42YMF2 Minősített Fogyasztóbarát Otthonbiztosítás – kárkifizetés és számviteli tartalékok bemutatása
 
 A tábla kitöltése
 
@@ -1274,23 +1302,23 @@ A Minősített Fogyasztóbarát Otthonbiztosítást kínáló biztosítónak ebb
 
 A tábla oszlopai:
 
-1-8. oszlop Tárgyidőszaki kárkifizetés összege
+1–8. oszlop Tárgyidőszaki kárkifizetés összege
 
 Az oszlopok kitöltése során a Bszkr. 2. melléklete előírásait kell alkalmazni. Bruttó összeg jelentendő.
 
-9-16. oszlop Függőkár tartalék (tételes) összege
+9–16. oszlop Függőkár tartalék (tételes) összege
 
 Az oszlopok kitöltése során a Bszkr. 1. melléklete előírásait kell alkalmazni. Bruttó összeg jelentendő.
 
-17-24. oszlop IBNR tartalék összege
+17–24. oszlop IBNR tartalék összege
 
 Az oszlopok kitöltése során a Bszkr. 1. melléklete előírásait kell alkalmazni. Bruttó összeg jelentendő.
 
-25-27. oszlop Matematikai tartalék összege
+25–27. oszlop Matematikai tartalék összege
 
 Az oszlopok kitöltése során a Bszkr. 1. melléklete előírásait kell alkalmazni. Bruttó összeg jelentendő.
 
-29. 42Y1E41 A biztosító nem-életbiztosítási termékeinek listája
+28. 42Y1E41 A biztosító nem-életbiztosítási termékeinek listája
 
 A tábla oszlopai
 
@@ -1306,57 +1334,61 @@ A termék kereskedelmi megnevezése.
 
 A 42Y1E1 kódú táblában szereplő, az adott termékcsoportnak megfelelő sorkód.
 
-5. oszlop Terjesztés kezdete
+4. oszlop Termék kategória besorolás
+
+A Szolvencia II adatszolgáltatás S.14.02 kódú táblája C0010 oszlopában megadott üzletág kódja az adott termék esetében, mely megmutatja, hogy a fő kockázat szerint mely Szolvencia II szerinti üzletágba tartozik a termék.
+
+6. oszlop Terjesztés kezdete
 
 Termék terjesztés kezdetének dátuma.
 
-6. oszlop Terjesztés vége
+7. oszlop Terjesztés vége
 
 Termék terjesztés végének dátuma.
 
-7. oszlop Záró állomány (db)
+8. oszlop Záró állomány (db)
 
 A tárgyidőszak végén élő szerződések darabszáma.
 
-8. oszlop Bruttó díjbevétel
+9. oszlop Bruttó díjbevétel
 
 A 42Y1E2 kódú tábla „Díjbevétel” oszlopában jelentett érték.
 
-9. oszlop Bruttó megszolgált díj
+10. oszlop Bruttó megszolgált díj
 
 Bruttó díjbevétel - a meg nem szolgált díjak bruttó tartalékának változása.
 
-10. oszlop Bruttó kárkifizetés
+11. oszlop Bruttó kárkifizetés
 
 42Y1E2 kódú tábla „Bruttó kárkifizetés és szolgáltatás” oszlopában jelentett érték.
 
-11. oszlop Kártartalék változás
+12. oszlop Kártartalék változás
 
 Kárráfordítással összefüggő számviteli tartalékváltozás, a 42Y1E2 kódú tábla 17. és 18. oszlopában jelentett adatoknak megfelelően.
 
-A 12-16. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
+A 13-18. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
 
-12. oszlop Szerzési költség
+13. oszlop Szerzési költség
 
 Azon költségek, melyek azért merültek fel, mert a biztosító megkötötte az adott szerződést, A szerzési költségek magukban foglalják a biztosítási szerződéshez közvetlenül kötődő költségeket – például szerzési jutalék, a külső szerveknek a terjesztésért (reklám és propaganda) fizetett, számlázott költségek, a biztosítási kötvény megszerkesztésének költségei, továbbá az a költség, amely a biztosítási szerződésnek a biztosítók portfóliójába való beiktatásával jár –, a szerződéskötéshez kapcsolódó közvetett költségeket, az ajánlatok feldolgozása miatti adminisztrációs költségeket és a biztosítási kötvények kibocsátásával járó költségeket. A szerzési költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
 
-13. oszlop Igazgatási költség
+14. oszlop Igazgatási költség
 
 A szerződések adminisztrációjával, fenntartásával összefüggő közvetlen és az adott termékcsoportra allokált közvetett költségek összege. Idetartoznak a biztosítási díjak beszedésével, a portfóliónyilvántartással, a részesedések és díjkedvezmények kezelésével és a kifelé, illetve befelé irányuló viszontbiztosítások intézésével járó költségeket. Idetartoznak továbbá az alkalmazotti állománnyal járó költségek, amennyiben nem szerepelnek a szerzési költségek, a kárrendezési költségek vagy a befektetési költségek között, továbbá a választott tisztségviselők részére feladataik ellátásáért fizetett bérek és annak járulékai, valamint a részükre biztosított egyéb költségtérítések összegei. Az igazgatási költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
 
-14. oszlop Kárrendezési költség
+15. oszlop Kárrendezési költség
 
 A kárrendezési költségek (ráfordítások) közé tartoznak a kárszakértők, kárügyintézők bére, társadalombiztosítási járuléka, utazási és egyéb költségtérítése, a kárrendezést végző jogi személyeknek fizetett költségtérítések, konkrét kárügyekhez tartozó dokumentumokért fizetett költségek és az önállóan működtetett vagy jól elhatárolható kárrendezési helyek működési és fenntartási költségei (ideértve a kárrendezést is végző fiókok kárrendezéssel kapcsolatos költségeit). A kárrendezési költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
 
-15. oszlop Befektetési költség
+16. oszlop Befektetési költség
 
 Az oszlopban a biztosító számviteli politikája alapján a befektetési tevékenységhez közvetlenül vagy közvetetten rendelhető költségeket kell jelenteni. A befektetési költséget élet és nem-élet ág szerinti megbontásban kell jelenteni, emellett meghatározott, főbb élet ági termékcsoportok tekintetében jelentendő (például befektetési egységekhez kötött életbiztosítások és vegyes életbiztosítások esetén).
 
-16. oszlop Összesen
+17. oszlop Összesen
 
 Az oszlopban a biztosító fő tevékenységéhez köthető összes, a tárgyidőszakban felmerült költség jelentendő.
 
-30. 42Y1E42 A biztosító életbiztosítási termékeinek listája
+29. 42Y1E42 A biztosító életbiztosítási termékeinek listája
 
 A tábla oszlopai
 
@@ -1404,7 +1436,7 @@ A 43/2015. (III. 12.) Korm. rendelet szerint számviteli biztosítástechnikai t
 
 A 43/2015. (III. 12.) Korm. rendelet szerint számviteli biztosítástechnikai tartaléknak minősülő matematikai tartalék.
 
-A 12-16. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
+A 12–16. oszlopban a biztosító fő tevékenységéhez köthető, adott időszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
 
 12. oszlop Szerzési költség
 
@@ -1426,324 +1458,76 @@ Az oszlopban a biztosító számviteli politikája alapján a befektetési tevé
 
 Az oszlopban a biztosító fő tevékenységéhez köthető összes, a tárgyidőszakban felmerült költség jelentendő.
 
-III.
-
-A kisbiztosítónak nem minősülő biztosító negyedéves felügyeleti jelentése
-
-1. Általános szabályok
-
-A tábláknak minden esetben a tárgyidőszak egészére vonatkozó adatokat kell tartalmazniuk. Tárgyidőszakon – az egyes táblákhoz kapcsolódó kitöltési előírások eltérő rendelkezése hiányában – a tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszak értendő (flow-jellegű, kumulált adatok, amelyek nem csak az utolsó negyedév, hanem a teljes időszak adatát jelentik.
-
-A felügyeleti jelentésben a termékcsoportokat tartalmazó táblák kivételével az életbiztosítási és nem-életbiztosítási üzletág meghatározására az (EU) 2015/35 felhatalmazáson alapuló bizottsági rendelet I. mellékletében foglaltak az irányadók.
-
-2. 42Q1E1 A biztosítói szerződésállomány alakulásának bemutatása termékcsoportok szerint a tárgyidőszak végén (darab)
+30. 42YTAX A biztosítók által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 A tábla kitöltése
 
-Ebben a táblában a direkt biztosítási szerződések darabszámát és annak változását kell bemutatni, termékenként, termékcsoportonként, külön soron pedig az aktív viszontbiztosítási szerződések darabszámát életbiztosításokra és nem-életbiztosításokra megbontva.
+A táblában a biztosító taxonómiához igazodó tevékenységek finanszírozására irányuló, vagy azokhoz kapcsolódó befektetéseinek az összes befektetéshez viszonyított arányát kell megadni, az összes befektetés megállapításakor az indexhez vagy befektetési egységekhez kötött életbiztosításhoz tartozó befektetéseket nem kell figyelembe venni.
 
-Állományon a továbbiakban a biztosító hatályban lévő szerződéseit kell érteni, míg a járműbiztosítások esetében állomány darabszámként a biztosított járművek darabszámát kell jelenteni. A flották esetében a flotta keretében biztosított gépjárművek darabszámát kell megadni.
+A táblát a (EU) 2021/2178 felhatalmazáson alapuló bizottsági rendelet IX. és X. mellékletében foglaltaknak megfelelően kell kitölteni.
 
-A nyitóállománynak meg kell egyeznie az előző év december 31-ei záróállománnyal, gépjárművek esetén is. A naptári évfordulóra történő gépjármű biztosítási átkötésből eredő állománymozgást az első negyedév végén állományváltozásként kell jelenteni.
+A százalékos értékeket tizedestört formájában kell megadni (például 25%-os arány esetén 0,25 a szerepeltetendő érték).
 
-Az egy szerződővel (például egy munkaadóval) kötött csoportos biztosítás egy darabnak számít.
+31. 42YSFDR Intézményszintű SFDR adatok
 
-Külön sorokon kell bemutatni a folyamatos, illetve az egyszeri díjas szerződéseket. A tárgyidőszakon belül kötött és még azon évben megszűnt szerződéseket egyrészt szaporulatként, másrészt állományvesztésként (megszűnés oka szerinti megbontásban) is be kell mutatni.
+A tábla kitöltése
 
-A szaporulat részeként külön is szükséges bemutatni a reaktivált szerződések darabszámát (6. oszlop), a törlések figyelembevételével nettósított szaporulatot (7. oszlop), és a módosított, átdolgozott, átsorolt szerződések darabszámát (8. oszlop). Azon szerződéseket, amelyekre egyúttal értékkövetést is alkalmaztak, az értékkövetés bemutatására szolgáló oszlopok egyikében is fel kell tüntetni.
+Az intézményszintű adatok az SFDR és az SFDR RTS alapján számolandók és jelentendők.
 
-Az adatszolgáltatásban az értékkövetés alatt a Bit. 4. § (1) bekezdés 27. pontjában foglaltak értendők.
+A táblában a 42YSFDR1-42YSFDR4 sor kitöltése kötelező minden biztosító számára, a 42YSFDR51–42YSFDR83 sor abban az esetben töltendő ki, amennyiben a 42YSFDR1 sor értéke „Igen”. A 42YSFDR51–42YSFDR83 sort az SFDR RTS 6. cikk (1) bekezdés a) és b) pontja alapján kell kitölteni. Amennyiben a biztosító figyelembe veszi a fenntarthatósági tényezőkre gyakorolt káros hatásokat, úgy szervezeti szinten a biztosító összes befektetésére vonatkozóan szükséges az adatokat megadni, függetlenül attól, hogy a biztosító rendelkezik-e az SFDR 8. és 9. cikkének megfelelő befektetési egységhez kötött életbiztosítással. A PAI mutatók számításakor nemcsak az ügyfélnek kínált befektetéseket, hanem a biztosítások fedezetéül szolgáló saját befektetéseket is figyelembe kell venni.
 
-Részleges visszavásárlásokkal érintett szerződések között kell bemutatni azoknak a szerződéseknek a darabszámát, amelyekre visszavásárlás miatt kifizetést teljesített a biztosító, azonban a szerződés nem szűnt meg, kizárólag a biztosítási szolgáltatás értéke csökkent. A szerződések záró állományát ez a változás nem érinti, darabszámukat nem kell bemutatni sem a visszavásárlások, sem az állományvesztések oszlopokban.
+A táblában használt fogalmak, rövidítések
 
-A tábla oszlopai
+- Fosszilis tüzelőanyagok ágazatában tevékenykedő vállalkozás: az SFDR RTS I. melléklet 5. pontjában meghatározott fogalom.
 
-1. oszlop Nyitóállomány (db)
+- PAI: a fenntarthatósági tényezőkre gyakorolt főbb káros hatások (Principal Adverse Impact).
 
-Az oszlop tartalmazza a tárgyidőszakot megelőző év december 31-énhatályban lévő biztosítási szerződések darabszámát.
+- URL: webcím.
 
-2. oszlop Élő szerződések értékkövetéséből eredő díjnövekedéssel érintett szerződések száma
-
-Az oszlopban az értékkövetésből eredő díjnövekedéssel érintett állomány darabszámát kell szerepeltetni, és a január 1-jei növekedéssel érintett állományokat is a 2. oszlop tartalmazza.
-
-3. oszlop Élő szerződések értékkövetéséből eredő díjcsökkenéssel érintett szerződések száma
-
-Az oszlopban az értékkövetésből eredő díjcsökkenéssel érintett állomány darabszámát kell jelenteni.
-
-5. oszlop 4. oszlopból: Új szerződés
-
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
-
-6. oszlop 4. oszlopból: Visszakötött szerződés (MFO) / Reaktivált szerződések (É)
-
-Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések darabszámát, amelyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
-
-Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a tárgyidőszakban reaktivált szerződések számát.
-
-7. oszlop 4. oszlopból: Tárgyidőszak végi tényleges nettó szaporulat
-
-Az oszlopban a tárgyidőszak végi tényleges, vagyis a törlések figyelembevételével nettósított szaporulatot kell jelenteni.
-
-8. oszlop 4. oszlopból: Módosított/átdolgozott/átsorolt szerződések
-
-Az oszlopban a Szaporulat oszlopban jelentett módosított, átdolgozott vagy átsorolt szerződések darabszámát kell elkülönítetten feltüntetni.
-
-10. oszlop Törlés érdekmúlás miatt (NÉ)/ Lejáratkori megszűnés (É)
-
-Idetartozik a lejáratkori megszűnés.
-
-18. oszlop Technikai megszűnés
-
-A szerződések módosításából, átdolgozásából, illetve a termékek, termékcsoportok közötti átsorolásokból (pl. hitelfedezeti záradék megszűnése, nyugdíjbiztosítási jelleg megszűnése) eredő változást kell itt megjeleníteni úgy, hogy a technikai megszűnés oszlopban kell kivezetni a módosításra, átdolgozásra, illetve a termékek, termékcsoportok közötti átsorolásra került szerződés addigi állományát, ezzel egyidejűleg a szaporulat oszlopban kell szerepeltetni a létrejött módosított, átdolgozott, illetve a termékek, termékcsoportok között átsorolt szerződés új állományát. Amennyiben a határozott és határozatlan idejű szerződések szüneteltetése a szerződés átdolgozásával jár, a leírtak szerint kell jelenteni ebben az oszlopban.
-
-22. oszlop Díjmentesített/Szüneteltetett szerződések
-
-Ebben az oszlopban tájékoztatási céllal kell jelenteni a szerződésekből a díjmentesítettek és a szüneteltettek számát, valamint a nem-életbiztosítási szerződések közül a szüneteltetetéssel érintett gépjárművek darabszámát. Az itt jelentett szerződéseket az állományvesztés számításakor nem kell figyelembe venni, mivel a díjmentesítés, illetve szüneteltetés továbbra is élő szerződésként kezelendő. Az oszlopban az időszak végi záróállományból (21. oszlop) a díjmentesített, illetve szüneteltetett szerződések záróállományának darabszámát kell jelenteni.
-
-23. oszlop A biztosítottak száma a tárgyidőszak végén
-
-Az oszlopban az adott üzletágba sorolt egyedi és csoportos biztosítási szerződésekre vonatkozóan a biztosítottak számát kell megadni.
+- ÜHG: üvegházhatású gázok.
 
 A tábla sorai
 
-42Q1E11101 és 42Q1E11201 sor Lakossági vagyonbiztosítás
+42YSFDR1 Figyelembe vesz szervezeti szinten fenntarthatósági káros hatásokat (PAI)?
 
-A hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokat nem a lakásbiztosításoknál kell megjeleníteni, hanem a záradék teljes időtartama alatt a 42Q1E111013 és 42Q1E112013 hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás soron.
+A lehetséges értékek: „Igen” vagy „Nem”. A mezőt az SFDR 4. cikke alapján kell kitölteni.
 
-Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbiztosítások + hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás + egyéb lakossági vagyonbiztosítás
+42YSFDR2 Hol található az SFDR 4. cikke szerinti közzététel? (URL)
 
-42Q1E1110111 és 42Q1E1120111 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
+A biztosító által az SFDR 4. cikke alapján közzétett adatokat tartalmazó weboldal vagy dokumentum elérési útja. „0” értéket kell jelenteni abban az esetben, ha a biztosító az SFDR 4. cikke szerinti adatokat nem tette közzé.
 
-Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás darabszámát.
+42YSFDR51 1. körbe tartozó ÜHG-kibocsátások
 
-42Q1E11103 és 42Q1E11203 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-Vállalati vagyonbiztosítás (kivéve KKV-k) = ipari kockázatok + mezőgazdasági kockázatok + további vállalati vagyonbiztosítás
+42YSFDR52 2. körbe tartozó ÜHG-kibocsátások
 
-A vállalati vagyonbiztosításokból az ipari és mezőgazdasági vállalatok szerződéseit külön-külön soron kell szerepeltetni. Az említett két kategóriába nem tartozó szerződéseket a további vállalati vagyonbiztosítás soron kell feltüntetni.
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza
 
-42Q1E1110131 és 42Q1E1120131 sor ebből Minősített Fogyasztóbarát Otthonbiztosítás
+42YSFDR53 3. körbe tartozó ÜHG-kibocsátások
 
-Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások darabszámát.
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-42Q1E11106 és 42Q1E11206 sor Általános felelősségbiztosítás
+42YSFDR54 ÜHG-intenzitás
 
-Általános felelősségbiztosítás = környezetvédelmi, környezetszennyezési felelősségbiztosítás + munkáltatói felelősségbiztosítás + egyéb felelősség
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-42Q1E11107 és 42Q1E11207 sor Szakmai felelősségbiztosítás
+42YSFDR55 Karbonlábnyom
 
-Szakmai felelősségbiztosítás = vezető tisztségviselők felelősségbiztosítása + egyéb szakmai felelősségbiztosítás
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-42Q1E11108 és 42Q1E11208 sor Hitelfedezeti biztosítás nem-életbiztosítási szerződésekből (kivéve hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás)
+42YSFDR61 ÜHG-intenzitás
 
-Itt kell bemutatni mindazokat a nem-életbiztosítási szerződéseket, melyek függetlenül a szerződésben vállalt egyéb kockázatoktól hitelfedezeti célokat is szolgálnak és nem hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítások.
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-42Q1E11109 és 42Q1E11209 sor Szállítmány és fuvarozói biztosítás
+42YSFDR71 Fosszilis tüzelőanyagoknak való kitettség ingatlaneszközökön keresztül
 
-Szállítmány és fuvarozói biztosítás = közúti árufuvarozók kezesi biztosítása + nemzetközi fuvarozói felelősségbiztosítás (CMR) + belföldi árufuvarozási (BÁF) biztosítás + egyéb szállítmány és fuvarozói biztosítás
+A fosszilis tüzelőanyagok ágazatában tevékenykedő vállalkozásokba eszközölt befektetések aránya.
 
-42Q1E11114 és 42Q1E11214 sor Casco
+42YSFDR72 Nem energiahatékony ingatlaneszközöknek való kitettség
 
-Casco = Szárazföldijármű-casco + Egyéb jármű casco
+A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-42Q1E12101-42Q1E12103 és 42Q1E12201-42Q1E12203 sor Haláleseti biztosítás, Elérési biztosítás, Vegyes életbiztosítás, 42Q1E12104 és 42Q1E12204 sorok Indexhez- vagy befektetési egységekhez kötött életbiztosítás
+42YSFDR81–72YSFDR83 Szabadon választott mutatószám 1, 2, 3
 
-Ezeken a sorokon csak azokat az életbiztosításokat kell feltüntetni, melyek termék szemléletben nem köthetőek pl. sem hitelfedezeti, sem nyugdíjbiztosításhoz.
-
-42Q1E12106 és 42Q1E12206 sor Nyugdíjbiztosítás Szja. tv. szerint és 42Q1E12107 és 42Q1E12207 Egyéb nyugdíjbiztosítás.
-
-Külön soron kell bemutatni az Szja. tv. szerinti nyugdíjbiztosításokat, és külön soron az ide nem sorolható egyéb nyugdíjbiztosításokat, függetlenül attól, hogy milyen élet termék áll mögötte.
-
-Nyugdíjbiztosítás Szja. tv. szerint = az Szja. tv. 44/C. §-a szerinti adókedvezmény érvényesíthető + az Szja. tv. 44/C. §-a szerint adókedvezmény nem érvényesíthető.
-
-Azokat a nyugdíjbiztosításokat, melyek mögött indexhez vagy befektetési egységekhez kötött életbiztosítás, illetve vegyes életbiztosítás jellegű termék áll, külön részletező soron is be kell mutatni.
-
-42Q1E12109 és 42Q1E12209 sor Hitelfedezeti záradékkal ellátott életbiztosítás
-
-Itt kell bemutatni mindazon életbiztosítási jellegű szerződést, mely hitelfedezeti záradékkal rendelkezik, függetlenül attól, hogy a termék jellege szerint hagyományos életbiztosítás, illetve indexhez vagy befektetési egységekhez kötött életbiztosítás jellegű termék áll mögötte.
-
-42Q1E121131 és 42Q1E122131 sor Életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosítás
-
-Az életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosításokkal kapcsolatos adatokat külön soron, az „Életbiztosítások” rész alatt, az Életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosítások elnevezésű soron kell bemutatni. Az adatok tájékoztató jellegűek, csak részletező sorként szerepelnek a táblában, az egyes élet termékcsoportokba besorolt szerződések darabszámát nem érintik.
-
-42Q1E13 sor CSÉB
-
-Az 1986. július 1. előtt bevezetett termékek állományát külön fősoron kell jelenteni, vagyis az állományt nem kell felosztani az egyes ágazatok között.
-
-3. 42Q1E2 A biztosító állománydíja, díjbevétele és a károk alakulásának bemutatása termékcsoportok szerint a tárgyidőszak végén (ezer Ft)
-
-A tábla kitöltése
-
-A tábla első blokkjában a biztosító állományilag nyilvántartott folyamatos díjas direkt biztosítási szerződéseinek éves állománydíját, az összes biztosítási szerződéshez kapcsolódó bruttó díjbevételét, valamint ebből külön-külön oszlopban az eseti és egyszeri díjas díjbevételét, az aktív viszontbiztosítások díjbevételét, a tárgyidőszakban bejelentett károk darabszámát, valamint a kárráfordításokat kell bemutatni, a szerződésállomány 42Q1E1 táblában bemutatott termékcsoportok szerinti besorolás következetes alkalmazásával, az adatok kockázatok szerinti szétbontása nélkül.
-
-A tábla oszlopai
-
-1. oszlop Nyitó állománydíj
-
-Tartalmazza a tárgyidőszakot megelőző év december 31-én hatályban lévő biztosítási szerződések részletfizetési pótdíj nélküli állománydíját.
-
-2. oszlop Szaporulat állománydíj
-
-Ebben az oszlopban a tárgyidőszak végi tényleges (törlés figyelembevételével nettósított) szaporulatot kell jelenteni. A reaktivált szerződések állománydíját a szaporulat oszlopban kell bemutatni.
-
-3. oszlop 2. oszlopból: Új szerződés állománydíj
-
-Ebben az oszlopban kell jelenteni azon minősített fogyasztóbarát otthonbiztosítási szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése nem a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
-
-4. oszlop 2. oszlopból: Visszakötött szerződés állománydíj (MFO) / Reaktivált szerződések állománydíja (É)
-
-Minősített Fogyasztóbarát Otthonbiztosítás üzletágban ebben az oszlopban kell jelenteni azon szerződések állománydíját, amelyek azokhoz a szerződésekhez kapcsolódnak, melyek lakásbiztosítási előzményszerződése a biztosító állományához tartozott. Előzményszerződés alatt az a lakásbiztosítási szerződés értendő, mely ugyanazon vagyoncsoportokra vonatkozik, és a kockázatviselés tartama közvetlenül megelőzi az új, Minősített Fogyasztóbarát Otthonbiztosítás kockázatviselési tartamát.
-
-Életbiztosítási üzletágak esetében ebben az oszlopban kell bemutatni a reaktivált szerződések állománydíját.
-
-6. oszlop Állománydíj változás növekedés
-
-7. oszlop Állománydíj változás csökkenés
-
-Itt kell bemutatni az állománydíj azon változásait, melyek nem sorolhatók be a szaporulat vagy állományvesztés miatti állománydíj változás oszlopokba, így pl. az értékkövetést, díjmentesítést, szüneteltetést.
-
-8. oszlop: 6. oszlopból: Élő szerződések értékkövetéséből eredő díjnövekedés miatti növekedés
-
-Itt kell bemutatni az indexált állományok állománydíjának indexálásból adódó növekményét.
-
-9. oszlop: 7. oszlopból: Élő szerződések értékkövetéséből eredő díjcsökkenés miatti csökkenés
-
-Itt kell bemutatni az indexált állományok állománydíjának indexálásból adódó csökkenését.
-
-10. oszlop Záró állománydíj
-
-10. oszlop Záró állománydíj = 1. oszlop Nyitó állománydíj + 2. oszlop Szaporulat állománydíj – 5. oszlop Állományvesztésből eredő állománydíj csökkenés + 6. oszlop Állománydíj változás növekedés – 7. oszlop Állománydíj változás csökkenés
-
-11. oszlop Díjbevétel
-
-Itt kell jelenteni a biztosító összes biztosítási szerződéséhez kapcsolódó tárgyidőszaki bruttó díjbevételét, vagyis a folyamatos díjas, az egyszeri díjas, az eseti befizetésből továbbá az aktív viszontbiztosításból származó díjbevételét is.
-
-A nem-életbiztosítások, az életbiztosítások és a CSÉB 11. Díjbevétel oszlopban jelentett díjbevétel értékek összegének meg kell egyeznie a Bszkr. 2. melléklete szerinti eredménykimutatás nem-életbiztosítási ág A) 01. sor a), valamint életbiztosítási ág B) 01. sor a) pontjában jelentett értékek összegével. A tábla 42Q1E21 Nem-életbiztosítások, 42Q1E22 Életbiztosítások és 42Q1E23 CSÉB elnevezésű sorainak 11. Díjbevétel oszlopában jelentett értékek összegének meg kell egyeznie az (EU) 2015/2450 bizottsági végrehajtási rendelet I. melléklete szerinti S.05.01.02 kódú, negyedéves gyakoriságú táblában jelentett díjelőírások (direkt biztosítás és aktív viszontbiztosítás) értéke összegével, az azonos díjfogalom miatt.
-
-13 oszlop 11. oszlopból: Eseti befizetésből származó díjbevétel
-
-Az eseti befizetésből származó díjbevételek között kell bemutatni a díjbevételből az ügyfelek által a szerződéses kötelezettségen felül eseti jelleggel teljesített díjbefizetéseket.
-
-15. oszlop Tárgyidőszakban bejelentett károk darabszáma
-
-Az oszlopban a tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszak alatt bejelentett károk darabszámát kell jelenteni (flow-jellegű, kumulált adatok).
-
-Az oszlopban a káradatokat a kockázattól függetlenül azon terméksoron kell feltüntetni, amely soron a szerződést a 42Q1E1 táblában jelentették.
-
-16-19. oszlop Kárráfordítás
-
-Az oszlopokban a káradatokat a kockázattól függetlenül azon terméksoron kell feltüntetni, amely soron a szerződést a 42Q1E1 táblában jelentették. A kárráfordítást kárrendezési költségek nélkül kell feltüntetni, a kárrendezési költség a 28. oszlopban jelentendő.
-
-18. és 19. oszlop Bruttó számviteli biztosítástechnikai tartalék növekedés és csökkenés
-
-Tartalékok alatt a bruttó számviteli biztosítástechnikai tartalékot kell érteni. A bruttó számviteli biztosítástechnikai tartalékok változását külön-külön oszlopban kell bemutatni, attól függően, hogy a termékcsoporthoz kapcsolódóan tartalék növekedés vagy tartalék csökkenés történt.
-
-A Számviteli biztosítástechnikai tartalékok növekedése és csökkenése oszlopokban minden, a nemzeti számviteli előírások szerint számviteli biztosítástechnikai tartaléknak minősülő, a kárráfordítással összefüggésben bekövetkezett tartalékváltozást (növekedést vagy csökkenést) jelenteni kell.
-
-Az IBNR tartalékot a tartalék oszlopokban a következőképpen kell jelenteni: A besorolást nem szerződés szinten, hanem termék, termékcsoport szinten kell elvégezni. A megképzett IBNR tartalékot az adott termékek, termékcsoportok kifutási sajátosságait figyelembe véve, az egyes adatszolgáltatások tekintetében konzisztens módon szükséges megbontani a táblában felsorolt termékek, termékcsoportok között. Azon termékek, termékcsoportok között, melyek kifutási mintái közel azonosak, arányos megbontás történhet az egyes kárévek vonatkozásában az IBNR nélküli bruttó kárráfordítás arányában, esetleg a bruttó megszolgált díj arányában. Az így megbontott IBNR tartalékok összege megegyezik a teljes megképzett IBNR tartalékkal. Ezt a megbontott IBNR tartalékot kell a tartalékváltozás meghatározásához alapul venni.
-
-IFRS-eket alkalmazó biztosító esetén az IFRS 17 szerinti felmerült kárigényekre vonatkozó kötelezettség (liability for incurred claims – LIC) változása jelentendő kártartalék változásként.
-
-20-22. oszlop Tárgyidőszakban kifizetett károk darabszáma
-
-Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre a tárgyidőszakban történt kárkifizetés.
-
-20. oszlop Előző időszakban bekövetkezett károk
-
-Itt kell jelenteni azon károk darabszámát, melyek a tárgyév január 1. előtt következtek be, és a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) kerültek kifizetésre.
-
-21. oszlop Tárgyidőszakban bekövetkezett károk
-
-Itt kell jelenteni azon károk darabszámát, melyek a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) következtek be, és a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) kifizetésre is kerültek.
-
-23-25. oszlop Tárgyidőszakot követően várhatóan kifizetésre kerülő, a tárgyidőszak végéig bejelentett károk darabszáma
-
-Itt kell bemutatni azon káresemények darabszámát egyrészt termékenkénti, termékcsoportonkénti, másrészt a károk bekövetkezése óta eltel idő szerinti bontásban, melyekre részben vagy egészében a jövőben várható kifizetés.
-
-23. oszlop Előző időszakban bekövetkezett károk
-
-Itt kell jelenteni azon károk darabszámát, melyek a tárgyév január 1. előtt következtek be és várhatóan a tárgyidőszakot (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakot, kumulált adat) követően kerülnek kifizetésre.
-
-24. oszlop Tárgyidőszakban bekövetkezett károk
-
-Itt kell jelenteni azon károk darabszámát, melyek a tárgyidőszakban (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakban, kumulált adat) következtek be, és várhatóan a tárgyidőszakot (tárgyév január 1-től az adott negyedév utolsó napjáig eltelt időszakot, kumulált adat) követően kerülnek kifizetésre.
-
-A 26-30. oszlopban a biztosító fő tevékenységéhez köthető, tárgyidőszaki költségek biztosítási ágra, illetve főbb termékcsoportokra allokált értékét kell jelenteni.
-
-26. oszlop Szerzési költség
-
-Azon költségek melyek azért merültek fel, mert a biztosító megkötötte az adott szerződést, A szerzési költségek magukban foglalják a biztosítási szerződéshez közvetlenül kötődő költségeket – például szerzési jutalék, a külső szerveknek a terjesztésért (reklám és propaganda) fizetett, számlázott költségek, a biztosítási kötvény megszerkesztésének költségei, továbbá az a költség, amely a biztosítási szerződésnek a biztosítók portfóliójába való beiktatásával jár –, a szerződéskötéshez kapcsolódó közvetett költségeket, az ajánlatok feldolgozása miatti adminisztrációs költségeket és a biztosítási kötvények kibocsátásával járó költségeket. A szerzési költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
-
-27. oszlop Igazgatási költség
-
-A szerződések adminisztrációjával, fenntartásával összefüggő közvetlen és az adott termékcsoportra allokált közvetett költségek összege. Idetartoznak a biztosítási díjak beszedésével, a portfóliónyilvántartással, a részesedések és díjkedvezmények kezelésével és a kifelé, illetve befelé irányuló viszontbiztosítások intézésével járó költségek. Idetartoznak továbbá az alkalmazotti állománnyal járó költségek, amennyiben nem szerepelnek a szerzési költségek, a kárrendezési költségek vagy a befektetési költségek között, továbbá a választott tisztségviselők részére feladataik ellátásáért fizetett bérek és annak járulékai, valamint a részükre biztosított egyéb költségtérítések összegei. Az igazgatási költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
-
-28. oszlop Kárrendezési költség
-
-A kárrendezési költségek (ráfordítások) közé tartoznak a kárszakértők, kárügyintézők bére, társadalombiztosítási járuléka, utazási és egyéb költségtérítése, a kárrendezést végző jogi személyeknek fizetett költségtérítések, konkrét kárügyekhez tartozó dokumentumokért fizetett költségek, és az önállóan működtetett vagy jól elhatárolható kárrendezési helyek működési és fenntartási költségei (ideértve a kárrendezést is végző fiókok kárrendezéssel kapcsolatos költségeit). A kárrendezési költségek összegét a biztosító számviteli politikája alapján a Bszkr. rendelkezéseit irányadónak tekintve kell meghatározni.
-
-29. oszlop Befektetési költség
-
-Az oszlopban a biztosító számviteli politikája alapján a befektetési tevékenységhez közvetlenül vagy közvetetten rendelhető költségeket kell jelenteni. A befektetési költséget élet és nem-élet ág szerinti megbontásban kell jelenteni, emellett meghatározott, főbb élet ági termékcsoportok tekintetében jelentendő (például befektetési egységekhez kötött életbiztosítások és vegyes életbiztosítások esetén).
-
-30. oszlop Összesen
-
-Az oszlopban a biztosító fő tevékenységéhez köthető összes, a tárgyidőszakban felmerült költség jelentendő.
-
-31. oszlop Adóhatóság által adóról való rendelkezés keretében átutalt összeg
-
-Ebben az oszlopban kell kimutatni az Szja. tv. 44/C. §-a szerinti adókedvezményből eredően a biztosítónak átutalt összeget.
-
-32. oszlop Adóról való rendelkezés keretében átutalt összegből az adóhatóság részére visszautalt összeg
-
-Ebben az oszlopban kell kimutatni az adóhatóságtól korábban az Szja. tv. 44/C. §-a szerinti adókedvezményből az adóhatóság részére a vonatkozási időszakban visszautalt összeget.
-
-A tábla sorai
-
-42Q1E2101 sor Lakossági vagyonbiztosítás
-
-Lakossági vagyonbiztosítás = lakásbiztosítások (egyéni) + társasházbiztosítások + hitelfedezeti záradékkal ellátott lakossági vagyonbiztosítás + egyéb lakossági vagyonbiztosítás
-
-42Q1E210111 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
-
-Itt kell jelenteni az egyéni lakásbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítás adatait.
-
-42Q1E210131 sor ebből: Minősített Fogyasztóbarát Otthonbiztosítás
-
-Itt kell jelenteni a hitelfedezeti záradékkal ellátott lakossági vagyonbiztosításokból a Minősített Fogyasztóbarát Otthonbiztosítások adatait.
-
-42Q1E2103 sor Vállalati vagyonbiztosítás (kivéve KKV-k)
-
-Vállalati vagyonbiztosítás (kivéve KKV-k) = ipari kockázatok + mezőgazdasági kockázatok + további vállalati vagyonbiztosítás
-
-42Q1E2106 sor Általános felelősségbiztosítás
-
-Általános felelősségbiztosítás = környezetvédelmi, környezetszennyezési felelősségbiztosítás + munkáltatói felelősségbiztosítás + egyéb felelősség
-
-42Q1E2107 sor Szakmai felelősségbiztosítás
-
-Szakmai felelősségbiztosítás = vezető tisztségviselők felelősségbiztosítása + egyéb szakmai felelősségbiztosítás
-
-42Q1E2109 sor Szállítmány és fuvarozói biztosítás
-
-Szállítmány és fuvarozói biztosítás = közúti árufuvarozók kezesi biztosítása + nemzetközi fuvarozói felelősségbiztosítás (CMR) + belföldi árufuvarozási (BÁF) biztosítás + egyéb szállítmány és fuvarozói biztosítás
-
-42Q1E2114 sor Casco
-
-Casco = Szárazföldijármű-casco + Egyéb jármű casco
-
-42Q1E2206 sor Nyugdíjbiztosítás Szja. tv. szerint
-
-Nyugdíjbiztosítás Szja. tv. szerint = az Szja. tv. 44/C. §-a szerinti adókedvezmény érvényesíthető + az Szja. tv. 44/C. §-a szerint adókedvezmény nem érvényesíthető
-
-42Q1E22131 sor Életbiztosításokhoz kapcsolódó baleset és betegség kiegészítő biztosítás
-
-A baleset és betegség kiegészítő biztosítások állománydíj-, díj- és kárrészeit a termékcsoport szerint besorolt főbiztosításról ténylegesen nem kell leválasztani, az adatok ebben a sorban tájékoztató jelleggel, részletező soron kerülnek bemutatásra.
-
-42Q1E23 sor CSÉB
-
-Az 1986. július 1. előtt bevezetett termékek állományát külön fősoron kell jelenteni, vagyis az állományt nem kell felosztani az egyes ágazatok között.
-
-4. 42Q1E3 A biztosító állománydíjának, illetve díjbevételének Szolvencia II kockázatonkénti felosztása
-
-A tábla kitöltése
+[^14]: A 7. melléklet az 59/2023. (XI. 24.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.

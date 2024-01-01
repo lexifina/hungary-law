@@ -46,7 +46,15 @@
 
 ## 1.23. (EU) 2019/1238 európai parlamenti és tanácsi rendelet,
 
+## 1.23a[^4]. a pénzügyi szolgáltatási ágazatban a fenntarthatósággal kapcsolatos közzétételekről szóló 2019. november 27-i (EU) 2019/2088 európai parlamenti és tanácsi rendelet (a továbbiakban: SFDR);
+
+## 1.23b[^5]. a fenntartható befektetések előmozdítását célzó keret létrehozásáról, valamint az (EU) 2019/2088 rendelet módosításáról szóló 2020. június 18-i (EU) 2020/852 európai parlamenti és tanácsi rendelet (a továbbiakban: Taxonómia rendelet);
+
 ## 1.24. (EU) 2021/897 bizottsági végrehajtási rendelet.
+
+## 1.25.[^6] az (EU) 2020/852 európai parlamenti és tanácsi rendeletnek a 2013/34/EU irányelv 19a. vagy 29a. cikkének hatálya alá tartozó vállalkozások által a környezeti szempontok fenntartható gazdasági tevékenységekre vonatkozóan közzéteendő információk tartalmának és megjelenítésének meghatározása, valamint az e közzétételi kötelezettségnek való megfelelés módszertanának meghatározása révén történő kiegészítéséről szóló 2021. július 6-i (EU) 2021/2178 felhatalmazáson alapuló bizottsági rendelet;
+
+## 1.26.[^7] az (EU) 2019/2088 európai parlamenti és tanácsi rendeletnek a jelentős károkozás elkerülését célzó elvvel kapcsolatos információk tartalmát és megjelenítését részletesen meghatározó, valamint a fenntarthatósági mutatókkal és a fenntarthatóság szempontjából káros hatásokkal kapcsolatos információk tartalmát, módszertanát és megjelenítését, továbbá a környezeti és társadalmi jellemzők és a fenntartható befektetési célkitűzések előmozdításával kapcsolatos, a szerződéskötés előtti dokumentumokban, a weboldalakon és az időszakos jelentésekben szereplő információk tartalmát és megjelenítését meghatározó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2022. április 6-i (EU) 2022/1288 felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: SFDR RTS).
 
 ## 2. Fogalmak, rövidítések
 
@@ -64,7 +72,7 @@
 
 ## 2.7. LEI-kód: a szervezethez rendelt globális jogiszemély-azonosító, amely egyedileg azonosítja a pénzügyi tranzakciókban részt vevő felet.
 
-## 2.8. A táblákban és a kitöltési előírásokban használt további fogalmakat, rövidítéseket – külön magyarázat hiányában – az 1. pont szerinti jogszabályok által meghatározott módon kell érteni.
+## 2.8.[^8] A táblákban, illetve űrlapokban és a kitöltési előírásokban használt további fogalmakat, rövidítéseket – külön magyarázat hiányában – az 1. pont szerinti jogszabályok által meghatározott módon kell érteni.
 
 ## 3. A felügyeleti jelentés formai követelményei
 
@@ -112,7 +120,7 @@
 
 ## 4. A felügyeleti jelentés tartalmi követelményei
 
-## 4.1. A hatályos számviteli jogszabályok szerint az adatszolgáltatónak saját magának kell az adatgyűjtését, analitikáját, nyilvántartását megszervezni és gondoskodni arról, hogy minden egyes táblába csak bizonylattal alátámasztott, és az adatszolgáltató nyilvántartásaiban rögzített gazdasági eseményekről kerüljön be adat.
+## 4.1.[^9] A hatályos számviteli jogszabályok szerint az adatszolgáltatónak saját magának kell az adatgyűjtését, analitikáját, nyilvántartását megszervezni és gondoskodni arról, hogy minden egyes táblába, illetve űrlapba csak bizonylattal alátámasztott, és az adatszolgáltató nyilvántartásaiban rögzített gazdasági eseményekről kerüljön be adat.
 
 ## 4.2. A felügyeleti jelentésben szereplő állományoknak (a napi vonatkozási idejű jelentések kivételével) meg kell egyezniük a hó végére lezárt mérleg-, eredménykimutatás és mérlegen kívüli tételek állományaival. Az éves jelentés sorait a könyvvizsgáló által ellenőrzött (auditált) mérleg- és eredménykimutatás adatok és mérlegen kívüli nyilvántartások alapján kell az MNB részére megküldeni.
 
@@ -134,4 +142,12 @@
 
 ## A biztosító kötelezettsége az egyedi portfólió azonosítókat tartalmazó lista letétkezelők és vagyonkezelők felé való továbbítása.
 
-2. melléklet az 53/2022. (XII. 2.) MNB rendelethez
+2. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^10]
+
+[^4]: Az 1. melléklet 1. pont 1.23a. alpontját az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^5]: Az 1. melléklet 1. pont 1.23b. alpontját az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^6]: Az 1. melléklet 1. pont 1.25. alpontját az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^7]: Az 1. melléklet 1. pont 1.26. alpontját az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése iktatta be.
+[^8]: Az 1. melléklet 2. pont 2.8. alpontja az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^9]: Az 1. melléklet 4. pont 4.1. alpontja az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdése szerint módosított szöveg.

@@ -1176,13 +1176,11 @@
 
 ## Bruttó működési költségek = szerzési költségek + elhatárolt szerzési költségek változása + igazgatási költségek (befektetési költségek kivételével).
 
-## 43. 42A19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos éves adatok
+## 43.[^11] 42A19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos éves adatok
 
 ## A tábla kitöltése
 
 ## A táblában a biztosító tulajdonosi szerkezetéről, ügyfeleiről, valamint az általa a Pmt. szerinti belső szabályzata alapján lefolytatott eljárások keretében összegyűjtött információkról kell adatot szolgáltatni.
-
-## A biztosítónak a 42A190511, 42A190512, 42A190513, 42A190514, 42A19061, 42A19062, 42A19072, 42A1913, 42A1914 sorok szerinti adatokat első alkalommal 2021-re mint tárgyévre vonatkozóan kell teljesítenie.
 
 ## A táblában használt fogalmak:
 
@@ -1192,7 +1190,7 @@
 
 ## - kettős felhasználású termék: a 428/2009/EK tanácsi rendelet 2. cikk 1. pontja szerinti, a hivatkozott tanácsi rendelet I. mellékletét képező jegyzékben szereplő termék;
 
-## - kiemelt kockázatú ország: a Pmt. 3. § 31. pontja szerinti ország;
+## - kiemelt kockázatú ország: a Pmt. 3. § 31. pontja szerinti stratégiai hiányosságokkal rendelkező, kiemelt kockázatot jelentő harmadik ország;
 
 ## - kiemelt közszereplő: a Pmt. 4. § (1) és (2) bekezdése szerinti természetes személy;
 
@@ -1200,13 +1198,11 @@
 
 ## - kiemelt közszereplővel közeli kapcsolatban álló személy: a Pmt. 4. § (4) bekezdése szerinti természetes személy;
 
-## - kockázatra vonatkozó tényezők: a pénzügyi intézmények pénzmosási és terrorizmus finanszírozási kockázatainak értékeléséről, és a kapcsolódó intézkedések meghatározásáról szóló 7/2019. (IV. 1.) MNB ajánlás [a továbbiakban: 7/2019. (IV. 1.) MNB ajánlás] Mellékletében foglalt kockázati tényezők;
-
 ## - magas kockázatúnak minősített ország, térség: a 21/2017. (VIII. 3.) NGM rendelet 2. melléklet 3. pontjában foglaltak alapján, a biztosító által magas kockázatúnak minősített ország, térség;
 
 ## - összetett tulajdonosi struktúra: olyan társaság, amelynek tulajdonosi szerkezete a társaság üzleti tevékenységének jellegéhez képest szokatlannak vagy túlzottan összetettnek tűnik; a tulajdonosi szerkezet a társaság üzleti tevékenységének jellegéhez képest túlzottan összetett, ha a társaság tulajdonosi struktúrájában háromnál több társaság érintettségével egymásba fonódások (hurkok) révén a társaságok kölcsönösen egymás tulajdonosai, vagy a tulajdonosi szerkezetben több, mint három szinten, közvetett részesedéssel rendelkező tulajdonosok találhatók, vagy a tulajdonosi szerkezetben több, mint négy jogi személy vagy jogi személyiséggel nem rendelkező társaság rendelkezik tulajdoni hányaddal;
 
-## - származás: az ügyfél bármilyen kimutatható, a biztosító által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel. Pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat(ok) (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
+## - származás: az ügyfél bármilyen kimutatható, a biztosító által pénzmosási szempontból lényegesnek minősített kapcsolata – legyen az személyes vagy üzleti – a hivatkozott országgal, térséggel vagy területtel; pénzmosási szempontból lényegesnek minősített kapcsolat esetén vizsgálandó különösen, de nem kizárólagosan: ügyfél székhelye, lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosának lakó- és tartózkodási helye, állampolgársága, ügyfél tényleges tulajdonosi minősége az adott országban székhellyel rendelkező jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben, ügyfél tájékoztatása alapján, ügyfélnek ténylegesen igazolt kapcsolat nélküli szoros kötődése egy országgal vagy térséggel (pl. menekültstátuszhoz, kisebbségek helyzetéhez kapcsolódó információk), üzleti tevékenységét jelentősen befolyásoló kapcsolat(ok) (pl. az ügyfél vagyoni helyzetéhez mérten jelentős összegű, honosságától eltérő országból származó pénzösszegek, az ügyfél szolgáltatását igénybe vevők túlnyomó többsége az ügyfél honosságától eltérő országhoz köthető);
 
 ## - tárgyév végi állapot: az adott naptári év utolsó napján fennálló állapot;
 
@@ -1222,9 +1218,9 @@
 
 ## A tábla oszlopai
 
-## A tábla a) oszlopában a Fő, ill. darab oszlopban a tárgyévre vonatkozó adatot fő, illetve darabszám tekintetében szükséges megadni.
+## A tábla a) oszlopában a tárgyévre vonatkozó adatot fő, illetve darabszám tekintetében szükséges megadni.
 
-## A tábla b) és c) oszlopaiban az érintett soroknál szereplő meghatározás szerint, a Jóváírások és Terhelések éves összesített értékösszegét, minden esetben ezer forintban, kettő tizedesjegy pontossággal szükséges megadni.
+## A tábla b) és c) oszlopában az érintett soroknál szereplő meghatározás szerint, az adatszolgáltató szemszögéből a Jóváírások és Terhelések éves összesített értékösszegét, minden esetben ezer forintban, kettő tizedesjegy pontossággal szükséges megadni.
 
 ## A forintra történő átszámítást a tárgyév utolsó napján érvényes, az MNB által közzétett hivatalos devizaárfolyamon, illetve az MNB által nem jegyzett deviza esetében a számviteli szabályok szerint megállapított devizaárfolyamon átszámított forint összegben kell szerepeltetni.
 
@@ -1242,7 +1238,11 @@
 
 ## 42A1903 Pénzmosás- és terrorizmusfinanszírozás-megelőzési feladatokat ellátó területen rendelkezésre álló erőforrás (FTE)
 
-## A tárgyév végi állapot szerint a biztosítónak a rendelkezésére álló pénzmosás és terrorizmus-finanszírozás megelőzési feladatokat ellátó területen egy teljes munkanapra (napi 8 óra) vetített erőforrás összegét (a továbbiakban: Erőforrás) szükséges szerepeltetni.
+## A tárgyév végi állapot szerint a biztosítónak a rendelkezésére álló pénzmosás- és terrorizmusfinanszírozás-megelőzési feladatokat ellátó területen egy teljes munkanapra (napi 8 óra) vetített erőforrás összegét (a továbbiakban: Erőforrás) szükséges szerepeltetni.
+
+## A 42A1903 sorban és annak alábontó soraiban kizárólag a pénzmosás- és terrorizmusfinanszírozás-megelőzési feladatokat ellátó terület rendelkezésére álló Erőforrás jelentendő, vagyis a pénzmosás megelőzési terület (AML) rendelkezésére álló teljes Erőforrás (FTE) adat, illetve ezen belül az egyes szakfeladatokra eső Erőforrás (FTE) bontás megadása szükséges. Az egyéb, pénzmosás- és terrorizmusfinanszírozás-megelőzési jellegű feladatokat (pl. ügyfél-átvilágítás, szankciós szűrés, bejelentés) is részben ellátó területek (pl. üzleti terület, nemzetközi pénzforgalom) vonatkozásában a pénzmosás- és terrorizmusfinanszírozás-megelőzési jellegű feladatokra eső Erőforrás (FTE) adatok nem tartoznak ide. Ugyancsak nem tartoznak ide – így az alábontó sorokban sem szerepeltetendők – a kiszervezés keretében végzett tevékenység esetén a beszállító által ezekre a feladatokra alkalmazott Erőforrás (FTE) adatok.
+
+## A 42A19031–42A19037 sor összegének meg kell egyeznie a 42A1903 sorban megadott adattal, az adatokat egy tizedesjegy pontossággal kell jelenteni.
 
 ## 42A19031 Vezetői feladatok
 
@@ -1258,25 +1258,25 @@
 
 ## 42A19034 Másodlagos kontroll
 
-## A 42A1903 sorból rendelkezésre álló Erőforrás másodlagos kontrollra csoportosított része.
+## A 42A1903 sorból rendelkezésre álló Erőforrás másodlagos kontrollra csoportosított része. A biztosító saját megítélésén alapul, hogy az általa alkalmazott eljárások során mi minősül másodlagos kontrollfunkciónak. A másodlagos kontroll alatt értendő többek között: riasztások, bejelentések, ügyfél-átvilágítások során alkalmazott négyszem elv, minőségellenőrzési funkció.
 
 ## 42A19035 Szabályozás, tanácsadás, projekt
 
-## A 42A1903 sorból rendelkezésre álló Erőforrás szabályozásra, tanácsadásra, projektre csoportosított része.
+## A 42A1903 sorból a rendelkezésre álló Erőforrásnak a pénzmosás- és terrorizmusfinanszírozás-megelőzési tevékenységgel összefüggő szabályozásra, tanácsadásra, projektre csoportosított része. E sor vonatkozásában nem kell figyelembe venni az általános compliance tevékenységgel kapcsolatos feladatokat (pl. etika, összeférhetetlenség).
 
 ## 42A19036 Képzés, oktatás
 
-## A 42A1903 sorból az Erőforrás képzésre, oktatásra csoportosított része.
+## A 42A1903 sorból az Erőforrás képzésre, oktatásra csoportosított része. Ebben a sorban szerepeltetni kell minden, pénzmosás- és terrorizmusfinanszírozás-megelőzési tevékenységgel összefüggő képzést, oktatást függetlenül attól, hogy az személyes megjelenést igényel vagy e-learning jellegű, általános vagy specifikus. Központi tréningek esetén fel kell tüntetni a tréningek összeállításához, megtartásához igénybe vett helyi erőforrást.
 
 ## 42A19037 Egyéb
 
 ## A 42A1903 sorból rendelkezésre álló Erőforrás egyéb feladatra csoportosított része.
 
-## A 42A19031-42A19037 sorok összegének meg kell egyeznie a biztosító által a 42A1903 sorban megadott Erőforrás adatával.
-
 ## 42A1904 Ügyfelek száma
 
-## A biztosító ügyfeleinek száma a tárgyév végi állapot szerint. Ezen sorban megadott adat egyenlő a 42A190411, 42A190412 és 42A190413 sorban megadott adatok összegével.
+## A biztosító azon ügyfeleinek száma a tárgyév végi állapot szerint – december 31-ei állományi adat –, akik a biztosító tevékenységi körébe tartozó szolgáltatás igénybevételére vonatkozóan a biztosítóval szerződés megkötésével tartós jogviszonyt (üzleti kapcsolatot) létesítettek.
+
+## Tekintettel a Pmt. 6/A. §-ára, az ezen sorban megadott adat egyenlő a kockázati kategória szerinti bontásban a 42A190411, 42A190412 és 42A190413 sorban megadott adatok összegével.
 
 ## 42A190411 Ügyfelek kockázati szintje magas
 
@@ -1286,17 +1286,29 @@
 
 ## A 42A190411 sorból, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik pénzmosási szempontból lényegesnek minősített kapcsolattal rendelkeznek kiemelt kockázatot jelentő országgal.
 
+## 42A1904112 Ügyfél kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
+
+## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik kiemelt közszereplőnek, kiemelt közszereplő közeli hozzátartozójának vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősülnek.
+
+## 42A1904113 Ügyfél tényleges tulajdonosa kiemelt közszereplő, kiemelt közszereplő közeli hozzátartozója, kiemelt közszereplővel közeli kapcsolatban álló személy
+
+## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akiknek a tényleges tulajdonosa kiemelt közszereplőnek, kiemelt közszereplő közeli hozzátartozójának, vagy kiemelt közszereplővel közeli kapcsolatban álló személynek minősül. A Pmt. 16. § (1) bekezdés d) pontja alapján a többségi tulajdonú állami vállalatnak a Pmt. 3. § 38. pont f) alpontja alapján megállapított tényleges tulajdonosa nem esik a magas kockázati besorolás és fokozott ügyfél-átvilágítási többlet intézkedések hatálya alá, ezért ezen személyekre vonatkozó adat ebben a sorban nem szerepeltetendő.
+
 ## 42A1904114 Nonprofit gazdasági társaság ügyfelek
 
-## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik esetében a biztosító – belső kockázatértékelése alapján – fokozott ügyfél-átvilágítási intézkedések alkalmazását írja elő. Nonprofit szervezetnek minősül az a jogalany, amelynek létesítése elsődlegesen nem gazdasági tevékenység során biztosított vagyonszerzést céloz (pl. alapítvány, egyesület, párt, egyház).
+## A 42A190411 sorból azon nonprofit ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik esetében a biztosító – belső kockázatértékelése alapján – fokozott ügyfél-átvilágítási intézkedések alkalmazását írja elő. Nonprofit szervezetnek minősül az a jogalany, amelynek létesítése elsődlegesen nem gazdasági tevékenység során biztosított vagyonszerzést céloz (pl. alapítvány, egyesület, párt, egyház).
 
 ## 42A1904115 Ügyfél tényleges tulajdonosa kiemelt kockázatú országból származik
 
 ## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik tényleges tulajdonosa pénzmosási szempontból lényegesnek minősített kapcsolattal rendelkeznek kiemelt kockázatot jelentő országgal.
 
+## 42A1904116 Ügyfél szokatlanul vagy túlzottan összetett tulajdonosi struktúrával rendelkezik
+
+## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akiknek a tulajdonosi szerkezetét összetett tulajdonosi struktúra jellemzi.
+
 ## 42A1904117 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak, és a 42A1904111-42A1904116 sorokban meghatározott kritériumok egyikének sem feleltethetők meg.
+## A 42A190411 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító saját kockázatértékelésében megállapított, belső szabályzatában rögzítettek alapján, magas ügyfélkockázati kategóriába tartoznak, és a 42A1904111–42A1904116 sorban meghatározott kritériumok egyikének sem feleltethetők meg.
 
 ## 42A190412 Ügyfelek kockázati szintje átlagos
 
@@ -1308,19 +1320,47 @@
 
 ## 42A19051 Nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek
 
-## A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet, és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a tábla 42A1904117 sorában szükséges feltüntetnie és ezen ügyfelek vonatkozásában nem töltendők ki a tábla 42A190511-42A190514 sorai.
+## A tárgyév végi állapot szerint azon ügyfelek száma, akiket a biztosító saját kockázatértékelése alapján nem minősített magas kockázatúnak, de az ügyfél megerősített eljárás alá tartozik. Amennyiben a biztosító saját kockázatértékelése alapján, magas kockázati kategóriába sorolta az ügyfelet, és ez alapján tartozik az ügyfél megerősített eljárás alá, úgy a biztosítónak ezen ügyfeleket a 42A1904 sorban és annak alábontó soraiban szükséges feltüntetnie, és ezen ügyfelek vonatkozásában nem töltendő ki a 42A190511–42A190514 sor.
 
 ## 42A190511 Havi százmillió forintot elérő vagy meghaladó készpénzforgalmat lebonyolító ügyfelek
 
-## A 42A19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte, vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített értékösszege. Egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot.
+## A 42A19051 sorból azon ügyfelek száma, akik által a biztosító hitelintézet(ek)nél vezetett gyűjtőszámlájára teljesített készpénzbefizetések teljes forintösszegének értéke elérte, vagy meghaladta a százmillió forintot egy naptári hónapban, illetve ezen készpénzbefizetések (jóváírások) éves összesített összege. A tábla a) oszlopában egy ügyfelet az adott tárgyévben csak egyszer szükséges a biztosítónak feltüntetnie, annak ellenére is, ha ugyanazon ügyfélnek egynél több hónapban is elérte vagy meghaladta a készpénzbefizetései teljes forintösszegének értéke a százmillió forintot, a b) és c) oszlopban azonban a készpénzforgalom teljes éves összesített értékét kell megadni.
 
 ## 42A190512 Bejelentett ügyfelek
 
 ## A 42A19051 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akikkel kapcsolatban a biztosító a Pmt. 30. § (1) bekezdése szerinti legutolsó bejelentése óta egy év nem telt el.
 
+## 42A190513 Magyarországon lakóhellyel vagy tartózkodási hellyel nem rendelkező természetes személy ügyfelek
+
+## A 42A19051 sorból azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik Magyarországon sem bejelentett lakóhellyel, sem tartózkodási hellyel nem rendelkeznek.
+
 ## 42A190514 Saját kockázatértékelésen alapuló belső szabályzatban rögzített esetek
 
-## A 42A19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak, és a 42A190511-42A190513 sorokban meghatározott kritériumok egyikének sem feleltethetők meg.
+## A 42A19051 sorból a biztosító saját kockázatértékelése, illetve belső szabályzatában rögzítettek alapján, azon ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magas kockázatú kategóriában szerepelnek, de megerősített eljárás alá tartoznak, és a 42A190511–42A190513 sorban meghatározott kritériumok egyikének sem feleltethetők meg.
+
+## 42A19061 Adószámmal nem rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet ügyfelek
+
+## A tárgyév végi állapot szerint azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek.
+
+## 42A190611 42A19061-ből: a magas kockázati besorolású adószámmal nem rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező ügyfelek
+
+## Tárgyév végi állapot szerint a 42A19061 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek és akiket a biztosító a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekint. A Pmt. 16. § (1) bekezdés b) pontja szerint magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak.
+
+## 42A190612 42A19061-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó adószámmal nem rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek
+
+## Tárgyév végi állapot szerint a 42A19061 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik adószámmal egyáltalán nem rendelkeznek és akik a biztosító által nem magas kockázati szintbe kerültek besorolásra, de megerősített eljárás alá tartoznak.
+
+## 42A19062 Nem magyar adószámmal rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező szervezet ügyfelek
+
+## A tárgyév végi állapot szerint azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek.
+
+## 42A190621 42A19062-ből: a magas kockázati besorolású nem magyar adószámmal rendelkező jogi személy, illetve jogi személyiséggel nem rendelkező ügyfelek
+
+## Tárgyév végi állapot szerint a 42A19062 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek és akiket a biztosító a Pmt. 16. § (1) bekezdése szerint magas kockázatúnak tekint. A Pmt. 16. § (1) bekezdés b) pontja szerint ide kell érteni és magas kockázatúnak kell tekinteni azon ügyfeleket is, melyeket a szolgáltató saját kockázatértékelésén alapuló belső szabályzatban rögzített esetek alapján minősít magas kockázatúnak.
+
+## 42A190622 42A19062-ből: a nem magas kockázati besorolású, megerősített eljárás alá tartozó nem magyar adószámmal rendelkező jogi személy és jogi személyiséggel nem rendelkező ügyfelek
+
+## Tárgyév végi állapot szerint a 42A19062 sorból azon jogi személy vagy jogi személyiséggel nem rendelkező ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik nem magyar adószámmal rendelkeznek és akik a biztosító által nem magas kockázati szintbe kerültek besorolásra, de megerősített eljárás alá tartoznak.
 
 ## 42A19063 Fegyverkereskedelemmel vagy kettős felhasználású termékkel foglalkozó ügyfelek
 
@@ -1334,9 +1374,41 @@
 
 ## A tárgyév végi állapot szerint azon ügyfelek számát kell megadni, akik hatósági engedélyhez kötött játékkaszinót, kártyatermet működtetnek vagy szerencsejáték szervező tevékenységet folytatnak.
 
+## 42A19071 Biztosító által magas kockázatúnak minősített országokból, térségekből származó ügyfelek
+
+## A tárgyév végi állapot szerint a biztosító által magas kockázatúnak minősített országból, térségből származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege. A sorban összeghatártól függetlenül valamennyi, a biztosító által magas kockázatúnak minősített országból, térségből származó ügyfélhez kapcsolódó tranzakció jelentendő. Azon országok, melyek jogszabályi rendelkezés alapján minősülnek kiemelt kockázatú országnak, nem tartoznak a biztosító által magas kockázatúnak minősített országok, térségek közé, ezért azok ebben a sorban nem jelentendők.
+
 ## 42A19072 Adózási szempontból nem együttműködő országokból, illetve területekről származó ügyfelek
 
-## A tárgyév végi állapot szerint az Európai Unió Tanácsa következtetései alapján kiadott, az adózási szempontból nem együttműködő országok és területek európai uniós jegyzékében szereplő országból, területről származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege.
+## A tárgyév végi állapot szerint az Európai Unió Tanácsa következtetései alapján kiadott, az adózási szempontból nem együttműködő országok és területek európai uniós jegyzékében szereplő országból, területről származó ügyfelek száma, illetve az ügyfelek biztosítására érkező jóváírások és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő.
+
+## 42A19081 Ötvenmillió forintot elérő vagy meghaladó ügyleti megbízás miatt átvilágított eseti ügyfelek
+
+## Azon eseti ügyfelek száma, illetve az ügyfelek biztosítására érkező befizetések (jóváírások) és az ügyfelek biztosítási szerződéseihez kapcsolódó kifizetések (terhelések) éves összesített értékösszege, akik a biztosító ügyfeleinek biztosításához kapcsolódó ötvenmillió forintot elérő vagy meghaladó összegű ügyleti megbízást teljesítettek.
+
+## 42A19091 Magas kockázatúnak minősített országokból, térségekből érkező jóváírások
+
+## Magas kockázatúnak minősített országokból, térségekből az ügyfél biztosítására érkező jóváírások száma és forintban megadott összértéke. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő. Magas kockázatúnak minősített országnak, térségnek kell tekinteni a kiemelt kockázatú országokat, valamint a biztosító által kockázati alapon magas kockázatúnak minősített országokat, illetve térségeket.
+
+## 42A190911 42A19091-ből: magas kockázati szinttel rendelkező ügyfelek biztosítására érkező jóváírások
+
+## A 42A19091 sorból azon magas kockázatúnak minősített országokból, térségekből érkező jóváírások száma és forintban megadott összértéke, melyek magas kockázati szinttel rendelkező ügyfelek biztosítására érkeztek.
+
+## 42A190912 42A19091-ből: nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek biztosítására érkező jóváírások
+
+## A 42A19091 sorból azon magas kockázatúnak minősített országokból, térségekből érkező jóváírások száma és forintban megadott összértéke, melyek nem magas kockázati szinttel rendelkező, de megerősített eljárás alá tartozó ügyfelek biztosítására érkeztek.
+
+## 42A19092 Magas kockázatúnak minősített országokba, térségekbe irányuló terhelések
+
+## Magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke. A sorban összeghatártól függetlenül valamennyi tranzakció jelentendő. Magas kockázatúnak minősített országnak, térségnek kell tekinteni a kiemelt kockázatú országokat, valamint a biztosító által kockázati alapon magas kockázatúnak minősített országokat, illetve térségeket.
+
+## 42A190921 42A19092-ből: magas kockázati szinttel rendelkező ügyfelek biztosítási szerződéseihez kapcsolódó terhelések
+
+## A 42A19092 sorból azon, magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke, mely kifizetések magas kockázati szinttel rendelkező ügyfelek biztosítási szerződéseihez kapcsolódtak.
+
+## 42A190922 42A19092-ből: nem magas kockázati szinttel rendelkező, megerősített eljárás alá tartozó ügyfelek biztosítási szerződéseihez kapcsolódó terhelések
+
+## A 42A19092 sorból azon, magas kockázatúnak minősített országokba, térségekbe irányuló kifizetések (terhelések) száma és forintban megadott összértéke, mely kifizetések nem magas kockázati szinttel rendelkező, de megerősített eljárás alá tartozó ügyfelek biztosítási szerződéseihez kapcsolódtak.
 
 ## 42A1910 Pénzmosás- és terrorizmusfinanszírozás-megelőzés vonatkozású új üzleti gyakorlat
 
@@ -1348,27 +1420,21 @@
 
 ## 42A1912 Más szolgáltató által végzett ügyfél-átvilágítás átvétele
 
-## A Pmt. 22-24. §-a szerinti, más szolgáltató által végzett és a biztosító által elfogadott ügyfél-átvilágítások számát szükséges feltüntetni.
+## A Pmt. 22–24. §-a szerinti, más szolgáltató által végzett és a biztosító által elfogadott ügyfél-átvilágítások számát szükséges feltüntetni.
 
 ## 42A1913 Távollévő ügyfél közhiteles okiratok által történő átvilágítása
 
-## Azon ügyfél-átvilágítások száma, amelyeknél a természetes személy ügyféllel történő üzleti kapcsolat létesítése közhiteles okiratok beküldése alapján történik vagy jogi személyiséggel rendelkező, illetve jogi személyiséggel nem rendelkező ügyfél esetében, az átvilágítási adatok átadása nem személyesen vagy auditált elektronikus hírközlő eszköz útján, a képviselő közreműködésével, hanem a céges közhiteles dokumentáció postai úton történő beküldésével történik.
+## Azon ügyfél-átvilágítások száma, amelyeknél a természetes személy ügyféllel történő üzleti kapcsolat létesítése közhiteles okiratok beküldése alapján történik vagy jogi személyiséggel rendelkező, illetve jogi személyiséggel nem rendelkező ügyfél esetében az átvilágítási adatok átadása nem személyesen vagy auditált elektronikus hírközlő eszköz útján, a képviselő közreműködésével, hanem a céges közhiteles dokumentáció postai úton történő beküldésével történik. Ebben a sorban nem jelentendők azok az esetek, ahol a kapcsolatfelvétel személyesen megtörténik, de a szükséges hitelesített dokumentumokat az ügyfél postai úton, utólag küldi meg a biztosítónak.
 
 ## 42A1914 Meghatalmazott közreműködése mellett végzett ügyfél-átvilágítás
 
-## Azon ügyfél-átvilágítások száma, amelyeknél az ügyfél helyett és nevében meghatalmazott jár el, és az ügyfél-átvilágítási intézkedéseket a biztosító a meghatalmazott részvételével végezte el.
+## Azon ügyfél-átvilágítások száma, amelyeknél az ügyfél helyett és nevében meghatalmazott jár el, és az ügyfél-átvilágítási intézkedéseket a biztosító a meghatalmazott részvételével végzi el.
 
 ## 42A1915 Közvetítő által végzett átvilágítás
 
 ## A Bit. 4. § (1) bekezdés 15. pontjában meghatározott biztosításközvetítői tevékenységet végző közvetítő által végzett átvilágítások számát kell feltüntetni.
 
-## 42A19171 Életbiztosítási szolgáltatás nyújtásával kapcsolatos kockázatot növelő tényezők
-
-## A 7/2019. (IV. 1.) MNB ajánlás Melléklet 97-100., 102-107., 112-114., illetve 117-119. pontjában tételesen felsorolt, kockázatot növelő tényezők közül a biztosító által intézményi szinten azonosított tényezők darabszáma a tárgyévben. A megjelölt pontok szerinti bontásban, a 42A191711-42A191714 sorban szükséges megadni a kockázatot növelő, a biztosító által azonosított tényezők darabszámát.
-
-## 42A19172 Életbiztosítási szolgáltatás nyújtásával kapcsolatos kockázatot csökkentő tényezők
-
-## A 7/2019. (IV. 1.) MNB ajánlás Melléklet 101., 108-111., 115. és 116., illetve 120. és 121. pontjában tételesen felsorolt, kockázatot csökkentő tényezők közül a biztosító által intézményi szinten azonosított tényezők darabszáma a tárgyévben. A megjelölt pontok szerinti bontásban, a 42A191721-42A191724 sorban szükséges megadni a kockázatot csökkentő, a biztosító által azonosított tényezők darabszámát.
+## 42A1916 Auditált elektronikus hírközlő eszköz útján végzett elektronikus ügyfél-átvilágítás Azon ügyfél-átvilágítások száma, amelyeket a biztosító az adott tárgyévben auditált elektronikus hírközlő eszköz útján végez el.
 
 ## 44. 42AM Mérleg
 
@@ -1464,7 +1530,7 @@
 
 | 19. Temetési biztosítás | TEMET |
 
-## III.
+## III.[^12]
 
 ## A kisbiztosító-egyesület éves felügyeleti jelentése
 
@@ -3353,3 +3419,6 @@
 ## A negyedéves jelentés részeként megküldendő táblában az „Előző év” oszlopban az előző év azonos időszakának adatait kell jelenteni.
 
 4. melléklet az 53/2022. (XII. 2.) MNB rendelethez
+
+[^11]: A 3. melléklet II. 43. pontja az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^12]: [Nem vezethető át az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésében foglalt azon módosítás, amely szerint a 3. melléklet III. 42. pontja újraszabályozásra kerül.]
