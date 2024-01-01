@@ -1,17 +1,20 @@
-## 20. § Ha a támogatást kutatási infrastruktúra fejlesztéséhez nyújtják, az infrastruktúrához való hozzáférést átlátható és megkülönböztetés-mentes módon kell biztosítani.
-
 ## 7. A 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás
 
 21. § (1) A 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) kis- és középvállalkozás induló beruházásához nyújtható.
 
 (2) A támogatási intenzitás nem haladhatja meg kisvállalkozás esetén az elszámolható költségek 20%-át, középvállalkozás esetén az elszámolható költségek 10%-át.
 
-(3) A támogatás keretében
+(3)[^104] A támogatás keretében
 
-a) a tárgyi eszközre és immateriális javakra irányuló beruházás költsége,
+a) a tárgyi eszközre és immateriális javakra irányuló beruházás költsége, ideértve a beruházáshoz és annak üzembe helyezéséhez közvetlenül kapcsolódó egyszeri, nem amortizálható költségeket is,
 
 b) a közvetlenül a beruházási projekt által létrehozott munkahelyek két évre számított, becsült bérköltsége
 
+c) – ha a kapott összeg nem haladja meg az a) és b) pont szerinti összegek közül a magasabb összeget, akkor – az a) és b) pontban szereplő költségtípusok kombinációja
+
 számolható el.
 
-(4) A támogatás a 18. § (2), (3) és (5) bekezdése, (6) bekezdés a)–d) pontja, (7) bekezdés a)–d) pontja, valamint (8) bekezdés a)–c) pontja szerinti feltételekkel nyújtható.
+(4)[^105] A támogatás a 18. § (2)–(5) és (7) bekezdése, (6) bekezdés a)–d) pontja, valamint (8) bekezdés a)–c) pontja szerinti feltételekkel nyújtható.
+
+[^104]: A 21. § (3) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^105]: A 21. § (4) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.

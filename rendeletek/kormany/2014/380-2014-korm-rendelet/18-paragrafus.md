@@ -18,35 +18,21 @@ d) az ingatlan, gép, berendezés bérleti díjának a fenntartási időszak vé
 
 (3) Az elszámolható költség az (1) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának 24 havi összege a munkakör betöltésének napjától számítva, ide nem értve az egyéb személyi jellegű kifizetéseket.
 
+(3a)[^92] A (2) bekezdés c) pontja szerinti esetben ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+
 (4) A tárgyi eszköz bérletéhez kapcsolódó költség elszámolható, ha
 
 a) a földterületre vagy épületre vonatkozó bérleti jogviszony nagyvállalkozás esetén a beruházás üzembe helyezését követő legalább öt évig, kis- és középvállalkozás esetén a beruházás üzembe helyezését követő legalább három évig fennáll, illetve
 
 b) a pénzügyi lízing formájában beszerzett üzemre, gépre, berendezésre vonatkozó szerződés tartalmazza az eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
-(4a)[^62] A támogatott eszközöket a kedvezményezett beszállítói is használhatják beszállítói szerződés keretében, ha
+(4a)[^93]
 
-a) a beszállító támogatható településen működik, a beszerzett eszközök a kedvezményezett által megjelölt beruházási helyszínen kerülnek aktiválásra,
+(4b)[^94]
 
-b) az eszközöket a beszállító a kedvezményezett beruházásának befejezésétől számított öt évig – kedvezményezett kis- és középvállalkozás esetében három évig – a kedvezményezett támogatott tevékenységéhez használja,
+(4c)[^95]
 
-c) a beszállító nem részesül vagy részesült állami támogatásban az eszköz beszerzésével összefüggésben, valamint
-
-d) az eszközre nyújtott támogatás mértéke nem haladja meg a beszállító telephelyén vagy a beruházási helyszínen alkalmazandó maximális regionális támogatási mértékek közül az alacsonyabbat.
-
-(4b)[^63] A beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a beruházás helyszínén a támogatott tevékenységet.
-
-(4c)[^64] Az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
-
-(4d)[^65] A 16. § f) pontjától eltérően a megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek, ha
-
-a) a beruházás elsődleges célja nem az energiatermelés,
-
-b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszi ki,
-
-c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint
-
-d) az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
+(4d)[^96]
 
 (5) Tárgyi eszköz esetén az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a beruházó és a beruházótól nem független harmadik vállalkozás között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
@@ -68,17 +54,17 @@ f) azok költsége nagyvállalkozás esetén az elszámolható költségek legfe
 
 a) a szinten tartást szolgáló tárgyi eszköz és immateriális javak költsége,
 
-b) a korábban már használatba vett olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyre a beruházó, más társaság vagy egyéni vállalkozó állami támogatást vett igénybe,
+b)[^97] a kérelem benyújtásának napja előtt felmerült költség, ráfordítás.
 
-c) az olyan tárgyi eszköz és támogatható immateriális javak költsége, amelyet a beruházó nehéz helyzetben lévő vagy csődeljárás, felszámolás vagy kényszertörlési eljárás alatt álló beruházótól szerzett be,
+c)[^98]
 
-d) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége,
+d)[^99]
 
-e) nagyvállalkozásnál a korábban már bárki által használatba vett tárgyi eszköz költsége, kivéve létesítmény felvásárlása esetén a beszerzett eszköz vételárát.
+e)[^100]
 
 (8) Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
-a) a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest,
+a)[^101] a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
 
 b) a munkahelyeket a beruházás befejezésétől számított három éven belül betöltik,
 
@@ -86,10 +72,16 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(9)[^66] Nem minősül a (8) bekezdés c) és d) pontja szerinti fenntartási kötelezettség megsértésének, ha a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket 2020. január 1. és 2021. június 30. között szüntette meg.
+(9)[^102]
 
-[^62]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^63]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^64]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^65]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^66]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^92]: A 18. § (3a) bekezdését a 673/2023. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^93]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^94]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^95]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^96]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^97]: A 18. § (7) bekezdés b) pontja a 673/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^98]: A 18. § (7) bekezdés c) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^99]: A 18. § (7) bekezdés d) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^100]: A 18. § (7) bekezdés e) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^101]: A 18. § (8) bekezdés a) pontja a 673/2023. (XII. 29.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^102]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § i) pontja hatályon kívül helyezte.

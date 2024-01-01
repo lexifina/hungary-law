@@ -12,4 +12,8 @@ d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek
 
 e) a további általános és egyéb működési költség, beleértve az anyagok, a fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel.
 
+(2a)[^121] A (2) bekezdés e) pontja szerinti költségek – a 651/2014/EU bizottsági rendelet 7. cikk (1) bekezdése harmadik fordulatának sérelme nélkül – egyszerűsített költségelszámolás alapján közvetett költségként is megállapíthatók. A közvetett költségek mértéke nem haladhatja meg a (2) bekezdés a)–d) pontja szerinti elszámolható költségek összegének legfeljebb 20%-át.
+
 (3) A 34. § (2) bekezdés d) pontja esetén a támogatás keretében a megvalósíthatósági tanulmány költsége számolható el.
+
+[^121]: A 35. § (2a) bekezdését a 673/2023. (XII. 29.) Korm. rendelet 12. §-a iktatta be.

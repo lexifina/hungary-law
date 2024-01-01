@@ -4,6 +4,6 @@
 
 (3) Az egy projekthez igénybe vett összes támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – támogatási intenzitása nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
 
-(4)[^44] A 11. és 19. alcím szerinti, azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
+(4)[^58] A 11. és 19. alcím szerinti, azonosítható elszámolható költségekkel nem rendelkező támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.
 
-[^44]: A 10. § (4) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^58]: A 10. § (4) bekezdése a 434/2022. (XI. 2.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

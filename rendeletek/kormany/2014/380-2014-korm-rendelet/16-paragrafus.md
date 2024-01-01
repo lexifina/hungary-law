@@ -1,21 +1,15 @@
-## 16. § Nem nyújtható támogatás
+16. §[^89] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
-b) hajógyártási tevékenységhez,
+b) szénipari tevékenységhez,
 
-c) szénipari tevékenységhez,
+c) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához,
 
-d)[^58] a 12. § 1. pontjában meghatározott kivétellel szintetikusszál-ipari tevékenységhez,
+d) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-e) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához, vagy a kapcsolódó infrastruktúrához,
+e) a 12. § 1. pontjában meghatározott esetben lignitipari tevékenységhez, valamint
 
-f)[^59] – a 18. § (4d) bekezdésében meghatározott kivétellel – energiatermelési, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
+f) szélessávú ágazatban végzett tevékenységhez.
 
-g) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termelését, feldolgozását és értékesítését szolgáló beruházáshoz,
-
-h)[^60] a 12. § 1. pontjában meghatározott esetben lignitipari tevékenységhez.
-
-[^58]: A 16. § d) pontja a 434/2022. (XI. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^59]: A 16. § f) pontja a 434/2022. (XI. 2.) Korm. rendelet 16. § h) pontja szerint módosított szöveg.
-[^60]: A 16. § h) pontját a 483/2017. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte, újonnan a 434/2022. (XI. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^89]: A 16. § a 673/2023. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

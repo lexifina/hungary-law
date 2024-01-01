@@ -18,14 +18,16 @@ növelhető.
 
 a) az oktatók személyi jellegű költsége, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
+b)[^134] az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. közvetlenül a projekthez kapcsolódó útiköltség anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
 c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsiköltségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e)[^82] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
+e)[^135] az oktatóknak és a képzés résztvevőinek a közvetlenül a képzési projekthez kapcsolódó szállásköltsége.
 
-(5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
+(5)[^136] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez.
 
-[^82]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^134]: A 44. § (4) bekezdés b) pontja a 673/2023. (XII. 29.) Korm. rendelet 20. § 28. pontja szerint módosított szöveg.
+[^135]: A 44. § (4) bekezdés e) pontja a 483/2017. (XII. 28.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^136]: [A 44. § (5) bekezdésben a 673/2023. (XII. 29.) Korm. rendelet 20. § 29. pontja által elrendelt módosítás, amely szerint a „megfeleléséhez” szövegrész helyébe a „megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez” szöveg lép, nem vezethető át.]

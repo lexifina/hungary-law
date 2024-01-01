@@ -1,13 +1,17 @@
-## 13. A kutatási infrastruktúrához nyújtott beruházási támogatás
+## 13.[^127] A kutatási infrastruktúrához nyújtott beruházási támogatás
 
-37. § (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében az immateriális javak és a tárgyi eszköz költsége számolható el.
+37. § (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) gazdasági tevékenység folytatására használt kutatási infrastruktúra építéséhez és korszerűsítéséhez nyújtható.
 
-(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+(2) A támogatás keretében a tárgyi eszközök és az immateriális javak költsége számolható el.
 
-(3) A kutatási infrastruktúra üzemeltetéséért vagy használatáért a szokásos piaci árat kell fizetni.
+(3) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át, amely 60%-ig növelhető, ha a kutatási infrastruktúrát legalább két tagállam finanszírozza, vagy azt uniós szinten minősítik és választják ki.
 
-(4) A kutatási infrastruktúrának több felhasználó számára hozzáférhetőnek kell lennie, és a hozzáférést átlátható és megkülönböztetés-mentes módon kell biztosítani. A kutatási infrastruktúra beruházási költségeit legalább 10%-ban finanszírozó vállalkozás kedvezőbb feltételekkel járó kedvezményes hozzáférési lehetőséget kaphat. A túlkompenzáció elkerülése érdekében a hozzáférési lehetőségnek arányban kell állnia a beruházási költséghez való hozzájárulás mértékével és a hozzáférés feltételeit közzé kell tenni.
+(4) A kutatási infrastruktúra üzemeltetéséért vagy használatáért a szokásos piaci árat kell fizetni.
 
-(5) Az (1)–(4) bekezdést csak a gazdasági tevékenység folytatására használt kutatási infrastruktúra megépítése vagy korszerűsítése esetén kell alkalmazni. Ha a kutatási infrastruktúra gazdasági és nem gazdasági tevékenységre vonatkozóan egyaránt részesül állami finanszírozásban, az egyes tevékenységekhez kapcsolódó finanszírozást, költségeket és az azokból származó bevételeket külön kell elszámolni, következetesen alkalmazott és objektíven indokolható számviteli elvek alapján.
+(5) A kutatási infrastruktúrának több felhasználó számára hozzáférhetőnek kell lennie, és a hozzáférést átlátható és megkülönböztetés-mentes módon kell biztosítani.
 
-(6) A támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni.
+(6) A kutatási infrastruktúra beruházási költségeit legalább 10%-ban finanszírozó vállalkozás kedvezőbb feltételekkel járó kedvezményes hozzáférési lehetőséget kaphat. A túlkompenzáció elkerülése érdekében a hozzáférési lehetőségnek arányban kell állnia a beruházási költséghez való hozzájárulás mértékével és a hozzáférés feltételeit közzé kell tenni.
+
+(7) Ha a kutatási infrastruktúra gazdasági és nem gazdasági tevékenységre vonatkozóan egyaránt részesül közfinanszírozásban, az egyes tevékenységekhez kapcsolódó finanszírozást, költségeket és az azokból származó bevételeket külön kell elszámolni, következetesen alkalmazott és objektíven indokolható számviteli elvek alapján. Ebben az esetben a (3) bekezdés szerinti maximális támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni arra az esetre vonatkozóan, ha a gazdasági tevékenység részaránya nagyobb, mint az a támogatás odaítélésekor megállapításra került.
+
+[^127]: A 13. alcím (37. §) a 673/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.

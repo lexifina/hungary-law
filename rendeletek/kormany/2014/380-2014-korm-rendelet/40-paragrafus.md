@@ -1,3 +1,13 @@
-40. § (1) A klaszter irodaterületéhez, létesítményeihez és tevékenységeihez való hozzáférést több felhasználó számára átlátható és megkülönböztetés-mentes módon kell biztosítani. Az innovációs klaszter beruházási költségeit legalább 10%-ban finanszírozó vállalkozás kedvezményes hozzáférési lehetőséget kaphat. A túlkompenzáció elkerülése érdekében a hozzáférési lehetőségnek arányban kell állnia a beruházási költséghez való hozzájárulás mértékével és a hozzáférés feltételeit közzé kell tenni.
+40. § (1) Működési támogatás az innovációs klaszter működtetésére nyújtható, melynek időtartama nem haladhatja meg a 10 évet.
 
-(2) A klaszter létesítményeinek használatáért és a klasztertevékenységben való részvételért fizetendő díj megállapítása piaci vagy költségalapon történik.
+(2) Működési támogatás esetén
+
+a) az együttműködés és információ-megosztás elősegítésére, illetve a specializált, személyre szabott üzleti szolgáltatás nyújtásának vagy közvetítésének javítására szolgáló klaszterélénkítéshez,
+
+b) az újabb vállalkozások és szervezetek klaszterhez történő csatlakozása, valamint a klaszter ismertségének növelése érdekében végzett marketingtevékenységhez,
+
+c) a klaszter létesítményeinek kezeléséhez, az ismeretmegosztás, kapcsolatépítés és nemzetközi együttműködés támogatására szolgáló képzési programok, műhelytalálkozók és konferenciák szervezéséhez
+
+kapcsolódó személyi jellegű ráfordítások és az általános költségeket is tartalmazó adminisztratív költségek számolhatók el.
+
+(3) Működési támogatás esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.

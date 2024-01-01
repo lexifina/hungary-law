@@ -2,7 +2,7 @@
 
 45. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(2)[^137] A támogatás odaítélése során a bármely három évben odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
 (3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
@@ -14,4 +14,7 @@
 
 (7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembe vételével nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+(8)[^138] A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembe vételével nyilatkoznia kell a részére bármely három évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+[^137]: A 45. § (2) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 20. § 30. pontja szerint módosított szöveg.
+[^138]: A 45. § (8) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 20. § 31. pontja szerint módosított szöveg.

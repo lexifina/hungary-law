@@ -4,11 +4,11 @@ a) 5. § 1–13. pontja a Szerződés 107. és 108. cikke alkalmazásában bizon
 
 b) 5. § 14. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.),
 
-c)[^91]
+c)[^147]
 
-d)[^92]
+d)[^148]
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^91]: Az 57. § c) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
-[^92]: Az 57. § d) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^147]: Az 57. § c) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^148]: Az 57. § d) pontját a 434/2022. (XI. 2.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
