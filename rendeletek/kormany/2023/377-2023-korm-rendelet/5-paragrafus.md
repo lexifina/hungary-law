@@ -1,3 +1,3 @@
-5. §[^5]
+5. § Az R1. 53/A. § a) pontja helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § a 22. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(A temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatosan az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében a következő ügyekben járhat el:)

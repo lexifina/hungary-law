@@ -1,3 +1,3 @@
-17. §[^17]
+17. § (1) Az R2. 1. melléklete helyébe az 1. melléklet lép.
 
-[^17]: A 17. § a 22. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(2) Az R2. 2. melléklete helyébe a 2. melléklet lép.

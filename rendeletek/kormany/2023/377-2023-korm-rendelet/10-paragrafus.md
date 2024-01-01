@@ -1,3 +1,3 @@
-10. §[^10]
+10. § Az R2. 28. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^10]: A 10. § a 22. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(5) Ha a halálesetnél hatósági eljárás keretében az ügyben eljáró hatóság eljárási cselekményt végzett, és annak adata megismerhető, ennek jegyzőkönyvi másolatát a hatóság a helyszíni halottvizsgálatot végző orvosnak – a betegdokumentációhoz történő csatolás céljából – átadja.”

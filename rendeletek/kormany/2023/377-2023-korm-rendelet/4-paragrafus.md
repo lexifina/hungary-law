@@ -1,3 +1,3 @@
-4. §[^4]
+4. § Az R1. 46. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 4. § a 22. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(3) A halottszállítási engedélyben a halott szállításának feltételeit is meg kell határozni. A halottszállítási engedély egy papíralapú hiteles másolatát és az eltemettetésre kötelezett esetén a halottvizsgálati bizonyítványt, a nevében eljáró temetkezési vállalkozó esetén az eltemettetési célú részleges adattartalmú halottvizsgálati bizonyítvány papíralapú hiteles másolatát kell átadni. A halottszállítási engedélyt a kérvényhez csatolva az irattárban kell elhelyezni. Az engedélyben megállapított halottszállítási feltételek teljesítését a halottszállítás megkezdése előtt ellenőrizni kell.”

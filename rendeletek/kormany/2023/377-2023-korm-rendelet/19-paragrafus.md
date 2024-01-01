@@ -1,3 +1,1 @@
-19. §[^20]
-
-[^20]: A 19. § a 22. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+19. § Hatályát veszti az R2. 28. § (3), (4) és (6) bekezdése.
