@@ -1,12 +1,6 @@
 ## 1. egyetért az 1. mellékletben szereplő kulturális intézmények, illetve szervezetek 1. melléklet szerinti támogatásával;
 
-## 2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet címrendjének a 20. Fejezeti kezelésű előirányzatok cím, 5. Egyéb feladatok támogatása alcím, 9. Önkormányzati fenntartású kulturális intézmények támogatása jogcímcsoporttal történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
+## 2.[^1]
 
 ## 3. felhívja a pénzügyminisztert, hogy 2020. évben az 1. pont szerinti cél megvalósítása érdekében gondoskodjon az emberi erőforrások minisztere bevonásával
 
@@ -36,7 +30,7 @@
 
 ## Határidő: azonnal
 
-1. melléklet az 1879/2020. (XII. 4.) Korm. határozathoz[^1]
+1. melléklet az 1879/2020. (XII. 4.) Korm. határozathoz[^2]
 
 A koronavírus-világjárvány okozta gazdasági nehézségek enyhítése érdekében kulturális intézmények, szervezetek támogatása
 
@@ -100,4 +94,5 @@ A koronavírus-világjárvány okozta gazdasági nehézségek enyhítése érdek
 
 | Könyv- és folyóirat-kiadók szakmai-kiadói terveinek támogatása | 500 000 000 |
 
-[^1]: Az 1. melléklet a 2050/2020. (XII. 30.) Korm. határozat szerint módosított szöveg.
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2050/2020. (XII. 30.) Korm. határozat szerint módosított szöveg.

@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1879-30
 | --- | --- | --- |
 | 2020-12-04 | 2020-1879-30-22.1 | 1879/2020. (XII. 4.) Korm. határozat |
 | 2020-12-30 | 2020-1879-30-22.2 | 2050/2020. (XII. 30.) Korm. határozat |
+| 2024-01-01 | 2020-1879-30-22.3 | 2011: CXCV. törvény |
