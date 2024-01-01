@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-16-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 2021-16-00-00.3 |
 | 2021-12-22 | 2021. évi CXLVIII. törvény | 2021-16-00-00.4 |
 | 2023-06-29 | 2023. évi XLI. törvény | 2021-16-00-00.5 |
+| 2024-01-01 | 2023. évi LXXXV. törvény | 2021-16-00-00.6 |

@@ -2,4 +2,4 @@
 
 (2) Ha az Alapítvány a tulajdonába adott, (1) bekezdés szerinti üzletrészt elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
-(3) Az (1) bekezdés szerinti tulajdonba adást 2023. július 31. napjáig kell teljesíteni.
+(3) Az (1) bekezdés szerinti tulajdonba adást a 2/D. §-ban meghatározott ingatlanjuttatás tárgyában kötendő megállapodás létrejöttének napjával egyidejűleg vagy az azt követő 30 napon belül kell teljesíteni.
