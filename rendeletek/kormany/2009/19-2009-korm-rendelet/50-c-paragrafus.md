@@ -1,3 +1,3 @@
-50/C. §[^191] A kiszabott bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
+50/C. §[^205] A kiszabott bírság az árképzésnél költségnövelő tényezőként nem vehető figyelembe.
 
-[^191]: A Vhr. 50/C. §-t a 80/2019. (IV. 15.) Korm. rendelet 25. §-a iktatta be.
+[^205]: A Vhr. 50/C. §-t a 80/2019. (IV. 15.) Korm. rendelet 25. §-a iktatta be.

@@ -1,19 +1,7 @@
-12/B. § (1) Az Adatcsere-ellenőrzési Testületben az azonos típusú engedéllyel rendelkező (2) bekezdésben meghatározott engedélyesek szavazati joggal, a 16. számú melléklet szerinti arányban, delegált képviselőik útján vesznek részt. A Hivatal az Adatcsere-ellenőrzési Testületben tanácskozási joggal vesz részt.
+12/B. § (1) Az Adatcsere-ellenőrzési Testületben az azonos típusú engedéllyel rendelkező, a GET 19/B. § (1) bekezdésében meghatározott engedélyesek szavazati joggal, a 16. számú melléklet szerinti arányban, delegált képviselőik útján vesznek részt. A Hivatal és az energiapolitikáért felelős miniszter delegáltja az Adatcsere-ellenőrzési Testületben tanácskozási joggal vesz részt.
 
-(2) Az Adatcsere-ellenőrzési Testületben választott képviselőjük útján a következő engedélyesek vesznek részt:
+(2) Az Adatcsere-ellenőrzési Testület ügyrendjét és feladatait az Adatcsere Szabályzat tartalmazza.
 
-a) földgázelosztó,
+(3) Az Adatcsere-ellenőrzési Testület tagjai közül elnököt választ. Az Adatcsere-ellenőrzési Testület ügyrend szerinti tevékenységéért az elnök felel.
 
-b) földgázkereskedő és
-
-c) egyetemes szolgáltató.
-
-(3) Az Adatcsere-ellenőrzési Testület feladatait az ÜKSZ tartalmazza. Az Adatcsere-ellenőrzési Testület ügyrendet dolgoz ki, amely az ÜKSZ része.
-
-(4) Az Adatcsere-ellenőrzési Testület tagjai közül elnököt választ. Az Adatcsere-ellenőrzési Testület ügyrend szerinti tevékenységéért az elnök felelős.
-
-(5) Az Adatcsere-ellenőrzési Testületet legalább negyedévente egy alkalommal ülésezik, ülését az elnök vagy a Hivatal hívja össze.
-
-(6) Az Adatcsere-ellenőrzési Testület kidolgozza a saját tevékenységére, szabályaira, valamint azok módosításaira vonatkozó javaslatait és azokat a szállítási rendszerirányító részére az ÜKSZ kidolgozása és felülvizsgálata során átadja.
-
-(7) Az Adatcsere-ellenőrzési Testületet a Hivatal bevonja az adatcserét érintő javaslatok előkészítésébe, a Hivatal elnöke rendeleteinek egyeztetési folyamataiba.
+(4) Az Adatcsere-ellenőrzési Testületet a Hivatal bevonja az adatcserét érintő javaslatok előkészítésébe, a Hivatal elnöke rendeleteinek egyeztetési folyamataiba.

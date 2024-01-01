@@ -1,6 +1,6 @@
 1. §[^1] (1) E rendelet alkalmazásában:
 
-1.[^2] Adatcsere Bizottság: az Üzemi és Kereskedelmi Szabályzat (a továbbiakban: ÜKSZ) szerinti adatcserét érintő kérdések operatív koordinálását és kidolgozását végző testület,
+1.[^2] Adatcsere Bizottság: az adatcserét érintő kérdések operatív koordinálását és az Adatcsere Szabályzat kidolgozását, módosítását végző testület,
 
 1a.[^3] Adatcsere-ellenőrzési Testület: az Adatcsere Bizottság feladatainak és irányelveinek meghatározását végző döntéshozó testület,
 
@@ -28,7 +28,7 @@
 
 10.[^9]
 
-11.[^10] Magyar gázkiegyenlítési pont: az együttműködő földgázrendszer azon virtuális kereskedési pontja, amely vonatkozásában az ÜKSZ-nek megfelelően végrehajtott jogcím átvezetési ügylet történik. Ez a virtuális pont az együttműködő gázrendszer valamennyi tényleges betáplálási pontja mögött és tényleges kiadási pontja előtt, költség- és ráfordítás-semleges módon helyezkedik el,
+11.[^10] Magyar gázkiegyenlítési pont: az együttműködő földgázrendszer azon virtuális kereskedési pontja, amely vonatkozásában az Üzemi és Kereskedelmi Szabályzatnak (a továbbiakban: ÜKSZ) megfelelően végrehajtott jogcím átvezetési ügylet történik. Ez a virtuális pont az együttműködő gázrendszer valamennyi tényleges betáplálási pontja mögött és tényleges kiadási pontja előtt, költség- és ráfordítás-semleges módon helyezkedik el,
 
 12.[^11]
 
@@ -75,7 +75,7 @@
 (2) Az (1) bekezdésben nem szereplő fogalmakat a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: GET) 3. §-a szerint kell értelmezni.
 
 [^1]: A Vhr. 1. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^2]: A Vhr. 1. § (1) bekezdés 1. pontját újonnan a 401/2020. (VIII. 17.) Korm. rendelet 17. §-a iktatta be.
+[^2]: A Vhr. 1. § (1) bekezdés 1. pontját újonnan a 401/2020. (VIII. 17.) Korm. rendelet 17. §-a iktatta be, szövege a 652/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A Vhr. 1. § (1) bekezdés 1a. pontját a 401/2020. (VIII. 17.) Korm. rendelet 17. §-a iktatta be.
 [^4]: A Vhr. 1. § (1) bekezdés 2. pontja a 378/2011. (XII. 31.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
 [^5]: A Vhr. 1. § (1) bekezdés 5. pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (1) bekezdése szerint módosított szöveg.
@@ -83,7 +83,7 @@
 [^7]: A Vhr. 1. § (1) bekezdés 6. pontja a 91/2015. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^8]: A Vhr. 1. § (1) bekezdés 7. pontja a 91/2015. (IV. 9.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^9]: A Vhr. 1. § (1) bekezdés 10. pontját a 401/2020. (VIII. 17.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
-[^10]: A Vhr. 1. § (1) bekezdés 11. pontja a 91/2015. (IV. 9.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 401/2020. (VIII. 17.) Korm. rendelet 29. § 1. pontja szerint módosított szöveg.
+[^10]: A Vhr. 1. § (1) bekezdés 11. pontja a 91/2015. (IV. 9.) Korm. rendelet 1. § (4) bekezdésével megállapított, a 652/2023. (XII. 28.) Korm. rendelet 16. § 1. pontja szerint módosított szöveg.
 [^11]: A Vhr. 1. § (1) bekezdés 12. pontját a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
 [^12]: A Vhr. 1. § (1) bekezdés 14. pontját a 91/2015. (IV. 9.) Korm. rendelet 23. § a) pontja hatályon kívül helyezte.
 [^13]: A Vhr. 1. § (1) bekezdés 15. pontját a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

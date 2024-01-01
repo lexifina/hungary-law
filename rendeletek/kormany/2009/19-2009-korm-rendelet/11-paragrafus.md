@@ -14,7 +14,13 @@
 
 (8)[^76]
 
-(9)[^77] A földgázelosztó kizárólag a neki felróható okból történő jogellenes kikapcsolásból eredő károkért felel, köteles a földgázelosztó üzletszabályzatában meghatározott kötbért a felhasználónak megfizetni.
+(9)[^77] A földgázelosztó felel a neki felróható okból történő jogellenes kikapcsolásból eredő károkért. A földgázelosztó
+
+a) a kikapcsolás jogellenessége miatt az üzletszabályzatában foglalt kötbért, továbbá
+
+b) ha a visszakapcsolásra a GET. 16. § (2) bekezdése szerinti határidőt követően kerül sor, az 1. melléklet 18.2. pontja szerinti mértékű kötbért
+
+fizet a felhasználónak.
 
 [^69]: A Vhr. 11. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
 [^70]: A Vhr. 11. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
@@ -24,4 +30,4 @@
 [^74]: A Vhr. 11. § (5) bekezdése a 80/2019. (IV. 15.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^75]: A Vhr. 11. § (6) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 37. § (3) bekezdésével megállapított szöveg.
 [^76]: A Vhr. 11. § (8) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
-[^77]: A Vhr. 11. § (9) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 37. § (4) bekezdésével megállapított szöveg.
+[^77]: A Vhr. 11. § (9) bekezdése a 652/2023. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.

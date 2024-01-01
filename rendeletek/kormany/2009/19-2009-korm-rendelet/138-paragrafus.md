@@ -2,7 +2,7 @@
 
 ## A megfelelési programra vonatkozó szabályok
 
-138. §[^508] (1) A rendszerüzemeltetők által kidolgozott megfelelési programot a rendszerüzemeltető legalább négyévenként aktualizálja, és a megfelelési programmal érintett időszakot megelőző év szeptember 30-ig jóváhagyásra benyújtja a Hivatalnak.
+138. §[^543] (1) A rendszerüzemeltetők által kidolgozott megfelelési programot a rendszerüzemeltető legalább négyévenként aktualizálja, és a megfelelési programmal érintett időszakot megelőző év szeptember 30-ig jóváhagyásra benyújtja a Hivatalnak.
 
 (2) A jóváhagyott megfelelési programot, valamint a Hivatal jóváhagyó határozatát a rendszerüzemeltető a honlapján közzéteszi.
 
@@ -16,9 +16,9 @@
 
 4. az engedélyköteles tevékenység független működéséhez szükséges – személyi, tárgyi, pénzügyi – erőforrások biztosítottsága,
 
-5.[^509] a vezető tisztségviselő, a cégvezető, a felügyelőbizottsági – földgázelosztó és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottsági – tag, a vezető állású munkavállaló és a szervezeti egység vezetője munkaviszonya megszüntetésének lehetséges esetkörei,
+5.[^544] a vezető tisztségviselő, a cégvezető, a felügyelőbizottsági – földgázelosztó és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottsági – tag, a vezető állású munkavállaló és a szervezeti egység vezetője munkaviszonya megszüntetésének lehetséges esetkörei,
 
-6.[^510] a vezető tisztségviselő, a cégvezető, a felügyelőbizottsági – földgázelosztó és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottsági – tag, a vezető állású munkavállaló és a szervezeti egység vezető díjazásának elemei, premizálásuk és jutalmazásuk rendje,
+6.[^545] a vezető tisztségviselő, a cégvezető, a felügyelőbizottsági – földgázelosztó és földgáztárolói engedélyes esetén ügydöntő felügyelőbizottsági – tag, a vezető állású munkavállaló és a szervezeti egység vezető díjazásának elemei, premizálásuk és jutalmazásuk rendje,
 
 7. az ügyfélkapcsolat-kezelés folyamatainak ismertetése,
 
@@ -46,6 +46,6 @@
 
 19. a megfelelési program összeállításáért felelős, a rendszerüzemeltetőnél található szervezeti egység kijelölése.
 
-[^508]: A Vhr. 138. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^509]: A Vhr. 138. § (3) bekezdés 5. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
-[^510]: A Vhr. 138. § (3) bekezdés 6. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^543]: A Vhr. 138. §-a a 75/2011. (V. 2.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^544]: A Vhr. 138. § (3) bekezdés 5. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
+[^545]: A Vhr. 138. § (3) bekezdés 6. pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.

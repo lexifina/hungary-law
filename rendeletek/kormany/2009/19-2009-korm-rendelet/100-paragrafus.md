@@ -1,18 +1,18 @@
 ## (A GET 86–87. §-ához)
 
-## A szállító- és az elosztóvezetékek, valamint a tárolók üzemeltetése
+## A szállító- és az elosztóvezetékek, LNG-létesítmények, valamint a tárolók üzemeltetése[^407]
 
-100. §[^386] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
+100. §[^408] A rendszerüzemeltető az engedélye szerinti engedélyköteles tevékenysége vonatkozásában köteles saját alkalmazásban lévő munkavállalókkal az engedélyben meghatározott működési és szolgáltatási területén folyamatosan gyakorolni a jogait és eleget tenni kötelezettségeinek:
 
 a) szállítási rendszerirányító esetében:
 
 aa) a GET által meghatározott, az együttműködő földgázrendszerre kiterjedő irányítási és koordinációs feladatok ellátása,
 
-ab)[^387]
+ab)[^409]
 
 ac) a földgázellátási üzemzavar és válsághelyzet esetére előírt tevékenység,
 
-b) szállítási rendszerüzemeltető és földgáztárolói engedélyes esetében:
+b)[^410] szállítási rendszerüzemeltető, az LNG-létesítmény üzemeltető és földgáztárolói engedélyes esetében:
 
 ba) a mérő és adatátviteli eszközök üzemeltetése, felügyelete,
 
@@ -24,11 +24,13 @@ bd) az engedélyes tevékenységhez kapcsolódó rendszerszintű szolgáltatáso
 
 be) az üzemvitel, az üzemirányítás és az ügyfélszolgálat területén az engedélyes működési tevékenységéhez kapcsolódó döntési és irányítási jogok és kötelezettségek, valamint
 
-bf)[^388] az egyensúlyozó platformon, a kereskedési platformon, a kapacitáslekötési platformon, valamint a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő közreműködés,
+bf)[^411] az egyensúlyozó platformon, a kereskedési platformon, a kapacitáslekötési platformon, valamint a szervezett földgázpiacon megkötött ügyletek végrehajtásában történő közreműködés,
 
-bg)[^389] az együttműködő földgázrendszer képviselete nemzetközi szervezetekben.
+bg)[^412] az együttműködő földgázrendszer képviselete nemzetközi szervezetekben.
 
-[^386]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^387]: A Vhr. 100. § a) pont ab) alpontját a 91/2015. (IV. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
-[^388]: A Vhr. 100. § b) pont bf) alpontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 15. pontja szerint módosított szöveg.
-[^389]: A Vhr. 100. § b) pont bg) alpontját a 91/2015. (IV. 9.) Korm. rendelet 14. §-a iktatta be.
+[^407]: A Vhr. „A szállító- és az elosztóvezetékek, LNG-létesítmények, valamint a tárolók üzemeltetése” alcímének címe a 652/2023. (XII. 28.) Korm. rendelet 16. § 16. pontja szerint módosított szöveg.
+[^408]: A Vhr. 100. §-a a 300/2013. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^409]: A Vhr. 100. § a) pont ab) alpontját a 91/2015. (IV. 9.) Korm. rendelet 23. § f) pontja hatályon kívül helyezte.
+[^410]: A Vhr. 100. § b) pont nyitó szövegrésze a 652/2023. (XII. 28.) Korm. rendelet 16. § 12. pontja szerint módosított szöveg.
+[^411]: A Vhr. 100. § b) pont bf) alpontja a 91/2015. (IV. 9.) Korm. rendelet 21. § 15. pontja szerint módosított szöveg.
+[^412]: A Vhr. 100. § b) pont bg) alpontját a 91/2015. (IV. 9.) Korm. rendelet 14. §-a iktatta be.

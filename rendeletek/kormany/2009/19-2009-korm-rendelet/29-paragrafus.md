@@ -1,3 +1,3 @@
-29. §[^148] A GET 33. § (2) bekezdése szerinti legkisebb egyetemes szolgáltatási területi egység – a 129. § és a GET 139. § (1) bekezdése szerinti eset kivételével – a vármegye (főváros).
+29. §[^162] A GET 33. § (2) bekezdése szerinti legkisebb egyetemes szolgáltatási területi egység – a 129. § és a GET 139. § (1) bekezdése szerinti eset kivételével – a vármegye (főváros).
 
-[^148]: A 29. § a 616/2022. (XII. 29.) Korm. rendelet 97. §-a szerint módosított szöveg.
+[^162]: A 29. § a 616/2022. (XII. 29.) Korm. rendelet 97. §-a szerint módosított szöveg.
