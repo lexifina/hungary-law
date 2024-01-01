@@ -54,11 +54,13 @@ b) legalább a pályázati kiírásban meghatározott középfokú mezőgazdasá
 
 c) a közigazgatási alapvizsgát letette, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik, vagy vállalja, hogy kinevezése esetén a közigazgatási alapvizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de megválasztásától számított legkésőbb egy éven – belül leteszi.
 
+(8a) A hegyközségben a hegybírói tisztséget nem töltheti be az a személy, aki az adott hegyközség 13. § (1) bekezdése szerinti tisztségviselőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója, bejegyzett élettársa vagy élettársa.
+
 (9) A (8) bekezdés c) pontja szerinti határidő elmulasztása esetén a hegybíró foglalkoztatási jogviszonya megszűnik.
 
 (10) A hegybírót munkájáért legalább a tárgyévet megelőző évi minimálbér kétszeresét 10 százalékkal meghaladó díjazás illeti meg.
 
-(11) Egy személy a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott borszőlőültetvényt magába foglaló területen látja el a hegybírói feladatokat. A hegybíró több hegyközség működési területére is kinevezhető azzal, hogy a hegybíró részére megállapított működési területének le kell fednie az adott hegyközségek teljes működési területét (körhegybíró). A körhegybíró az egy borvidéken fekvő hegyközségek működési területére nevezhető ki. Egy hegyközség területén a hegybírói feladatok ellátására több személy is kinevezhető, akiknek működési területét a kinevezésben meg kell határozni, amely működési terület nem eshet egybe másik hegybíró működési területével.
+(11) Egy személy a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott borszőlőültetvényt magába foglaló területen látja el a hegybírói feladatokat. A hegybíró több hegyközség működési területére is kinevezhető azzal, hogy a hegybíró részére megállapított működési területének le kell fednie az adott hegyközségek teljes működési területét (körhegybíró). A körhegybíró több borvidéken fekvő hegyközségek működési területére is kinevezhető. Egy hegyközség területén a hegybírói feladatok ellátására több személy is kinevezhető, akiknek működési területét a kinevezésben meg kell határozni, amely működési terület nem eshet egybe másik hegybíró működési területével.
 
 (12) Ha a hegybírói tisztség megüresedik, az új hegybíró kinevezéséig a Hegyközségek Nemzeti Tanácsának főtitkára által ideiglenes jelleggel kinevezett másik – a (8) bekezdés rendelkezéseinek megfelelő – hegybíró látja el a hegybírói feladatokat. Az így kinevezett ideiglenes hegybíróra a (11) bekezdés harmadik mondatában szereplő korlátozást nem kell alkalmazni.
 
