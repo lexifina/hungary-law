@@ -2,4 +2,4 @@
 
 ## A MAGÁNSZEMÉLY EGYES JÖVEDELMEINEK KÜLÖNADÓJA
 
-8. §
+### 8. §

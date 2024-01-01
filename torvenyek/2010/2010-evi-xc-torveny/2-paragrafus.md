@@ -4,4 +4,6 @@
 
 (3) Az adórendszeren kívüli keresettel összefüggésben bevallási kötelezettség sem a foglalkoztatót, sem a foglalkoztatottat nem terheli.
 
-(4) Ha a foglalkoztató elmulasztja a regisztrációs díjfizetési kötelezettségét és/vagy a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
+(4) Ha a foglalkoztató elmulasztja a bejelentési kötelezettségét teljesíteni, a mulasztással érintett naptári hónapokban a háztartási alkalmazottnak kifizetett bevétel teljes összege után a személyi jövedelemadóról szóló törvény és a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény rendelkezései szerint az adót és a járulékokat meg kell fizetni. Ha a mulasztás a foglalkoztató érdekkörére vezethető vissza, a magánszemélyt terhelő közterheket is a foglalkoztató köteles megfizetni.
+
+(5) A háztartási munkára e fejezet szerint foglalkoztatott természetes személy nem minősül a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti biztosítottnak.
