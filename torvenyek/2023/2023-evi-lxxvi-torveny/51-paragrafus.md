@@ -1,1 +1,1 @@
-### 51. §
+51. § A Hpt. 204/A. § (8) bekezdésében a „nyilvántartása alapján” szövegrész helyébe a „nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével)” szöveg lép.
