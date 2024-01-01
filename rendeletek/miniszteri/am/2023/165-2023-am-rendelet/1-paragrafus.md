@@ -1,0 +1,3 @@
+1. § Az élelmiszer-előállítás és forgalomba hozatal egyes élelmiszer-higiéniai feltételeiről és az élelmiszerek hatósági ellenőrzéséről szóló 68/2007. (VII. 26.) FVM–EüM–SZMM együttes rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az élelmiszer-vállalkozó a tevékenység végzésének helye szerint illetékes növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalhoz (a továbbiakban: vármegyei kormányhivatal) regisztráció céljából köteles bejelenteni az élelmiszerláncról és hatósági felügyeletéről szóló törvény szerinti FELIR azonosítóját, az áruforgalom és vevőkör kiterjedését és az alkalmazott minőségügyi rendszer megnevezését.”
