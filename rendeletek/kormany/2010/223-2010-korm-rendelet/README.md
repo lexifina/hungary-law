@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-223-20-
 | 2010-08-02 | 2010-223-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2010-08-03 | 2010-223-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2017-01-01 | 2010-223-20-22.4 | 451/2016. (XII. 19.) Korm. rendelet |
+| 2024-01-01 | 2010-223-20-22.5 | 561/2023. (XII. 14.) Korm. rendelet |

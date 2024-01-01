@@ -1,8 +1,8 @@
 ## 4. § Az ügyfélszolgálat hivatali kapun keresztül haladéktalanul továbbítja az elkészített elektronikus dokumentumot az állami adóhatóság részére. Az állami adóhatóság az elektronikus dokumentum hozzá történő megérkezéséről visszaigazolást küld az ügyfélszolgálat számára.
 
-5. § (1)[^2] Az országos telefonos ügyfélszolgálat a nála létrejövő adatállományokat – beleértve a hangfelvételt is – titkosítva menti, és kizárólag védett környezetben tárolja.
+5. § (1)[^3] Az országos telefonos ügyfélszolgálat a nála létrejövő adatállományokat – beleértve a hangfelvételt is – titkosítva menti, és kizárólag védett környezetben tárolja.
 
-(2)[^3] Az országos telefonos ügyfélszolgálat a rögzítéstől számított 5 év elteltével helyreállíthatatlanul törli a hangfelvételt és a hangfelvétel alapján rögzített adatokat.
+(2)[^4] Az országos telefonos ügyfélszolgálat a rögzítéstől számított 5 év elteltével helyreállíthatatlanul törli a hangfelvételt és a hangfelvétel alapján rögzített adatokat.
 
 (3) Az adatok törlése azok különleges mintákkal történő felülírásával történik.
 
@@ -14,5 +14,5 @@ b) védett környezetben tárolás: az adatállomány más szerverektől, alkalm
 
 c) különleges mintákkal történő felülírás: a tárolt adatok speciális jelsorozatok alkalmazásával felismerhetetlenné, helyreállíthatatlanná tételére szolgáló technikai eljárás.
 
-[^2]: Az 5. § (1) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 5. § (2) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 5. § (1) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (2) bekezdése a 451/2016. (XII. 19.) Korm. rendelet 157. § (2) bekezdésével megállapított szöveg.
