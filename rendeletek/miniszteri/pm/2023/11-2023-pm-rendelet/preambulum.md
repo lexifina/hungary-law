@@ -1,0 +1,1 @@
+Az államháztartásról szóló 2011. évi CXCV. törvény 109. § (3) bekezdés 8. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
