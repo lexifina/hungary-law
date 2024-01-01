@@ -3,3 +3,7 @@
 (2) E törvénynek az Európai Unió adatvédelmi reformjának végrehajtása érdekében szükséges törvénymódosításokról szóló 2019. évi XXXIV. törvénnyel (a továbbiakban: Módtv.) megállapított 57. § (5) bekezdését, 65. §-át, 66. § (12) bekezdését, 69. § (1) bekezdését, 69/A. § (6), (8) és (13)–(16) bekezdését a Módtv. hatálybalépésének napja vagy annál későbbi bejelentési nappal rendelkező szabadalmi bejelentések tekintetében kell alkalmazni.
 
 (3) Az egyes igazságügyi tárgyú törvények módosításáról szóló 2022. évi LV. törvénnyel megállapított 22. § (2) bekezdését, 45. § (6) bekezdését, 53/D. § (2) bekezdését, 80. § (3) bekezdését, 81/A. § (6) bekezdés a)–b) pontját és 111. § (2) bekezdését a 2023. január 1. napján folyamatban levő eljárásokban is alkalmazni kell.
+
+(4) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Mód2.tv.) megállapított 115/O. § (1)–(2a) és (6) bekezdését az e bekezdés hatálybalépését követően tett bejelentésekre, valamint az e bekezdés hatálybalépését követően keletkezett szabadalmi oltalmak fenntartási díjának megfizetésére kell alkalmazni.
+
+(5) A (4) bekezdéstől eltérően a Mód2.tv.-vel megállapított 115/O. § (2a) bekezdése nem alkalmazható azon fenntartási díjaknak a mértékére, amelyek tekintetében a türelmi idő az e bekezdés hatálybalépése előtt megkezdődött, de amelyeket a hatálybalépés után fizetnek meg.

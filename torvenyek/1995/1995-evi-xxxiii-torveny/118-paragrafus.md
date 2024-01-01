@@ -19,3 +19,5 @@
 (7) Felhatalmazást kap a Kormány, hogy a szabadalmi bejelentés minősítéséhez szükséges eljárás részletes szabályait rendelettel megállapítsa.
 
 (8) Felhatalmazást kap a miniszter, hogy – a Szellemi Tulajdon Nemzeti Hivatalának elnöke véleményének kikérésével – rendeletben állapítsa meg az iparjogvédelmi oltalom fenntartásáért vagy megújításáért fizetendő díjaknak – az iparjogvédelmi rendszer működtetésének költségeire, az egyes iparjogvédelmi oltalmi formák sajátosságaira, valamint az innováció iparjogvédelmi eszközökkel történő előmozdításának szempontjaira figyelemmel meghatározott – mértékét.
+
+(9) Felhatalmazást kap a miniszter, hogy az általános csekély összegű támogatás, a mezőgazdasági csekély összegű támogatás és a halászati csekély összegű támogatás jogcímein nyújtható támogatás igénybevételének részletes szabályait rendeletben állapítsa meg.
