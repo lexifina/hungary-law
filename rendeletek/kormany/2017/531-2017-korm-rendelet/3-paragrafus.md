@@ -1,13 +1,3 @@
-3. § (1) A szélerőmű vagy szélerőmű park építési és használatbavételi engedélyezési eljárásában a szakhatósági eljárás során a szakhatóság – az építési engedély iránti kérelem és mellékletei megküldése mellett – beszerzi a településfejlesztésért és településrendezésért, az iparügyekért, a környezetvédelemért, a természetvédelemért, valamint az energiapolitikáért felelős miniszterek képviselőinek részvételével működő bizottság (e § alkalmazásában a továbbiakban: Bizottság) véleményét. A szakhatóság a szakhatósági állásfoglalás kiadása során mérlegeli a Bizottságtól beszerzett véleményt.
+3. §[^14]
 
-(2)[^14] Az olyan építési és használatbavételi engedélyezési eljárásokban, amelyekben a szakhatóságként kijelölt fővárosi és vármegyei kormányhivatal jár el első fokon, eljárásában maga vizsgálja a szakkérdést.
-
-(3) A Bizottság elnöke a településfejlesztésért és településrendezésért felelős miniszter által kijelölt személy, a Bizottság további tagja az (1) bekezdésben megjelölt miniszterek által szakterületenként kijelölt egy-egy személy.
-
-(4) A Bizottság a véleménye kialakítása során vizsgálja a szélerőmű, szélerőmű park környezeti, természeti és településrendezési hatásait, valamint mérlegeli a létesítmény használatával vagy a használat elmaradásával várható kedvezőtlen hatások megszüntetésére, elkerülésére, csökkentésére vonatkozóan megtehető vagy a kérelmező által megvalósított intézkedések következményeit.
-
-(5) A Bizottság tagja csak olyan személy lehet, aki törvény alapján vagyonnyilatkozat-tételre köteles.
-
-(6) A Bizottság az ügyrendjét maga állapítja meg.
-
-[^14]: A 3. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 282. § 3. pontja szerint módosított szöveg.
+[^14]: A 3. §-t a 650/2023. (XII. 28.) Korm. rendelet 6. §-a hatályon kívül helyezte.
