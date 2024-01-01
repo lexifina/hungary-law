@@ -1,8 +1,8 @@
-## 30. §[^76] Autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal végezhető. Nem szükséges a saját számlás személyszállítás végzéséhez közúti személyszállítási igazolvány olyan autóbusz igénybevétele esetén, amelyre a közlekedési hatóság engedélykivonatot állított ki.
+## 30. §[^81] Autóbusszal saját számlás személyszállítás közúti személyszállítási igazolvánnyal végezhető. Nem szükséges a saját számlás személyszállítás végzéséhez közúti személyszállítási igazolvány olyan autóbusz igénybevétele esetén, amelyre a közlekedési hatóság engedélykivonatot állított ki.
 
-31. § (1)[^77] A közúti áruszállítási igazolványt és a közúti személyszállítási igazolványt (a továbbiakban együtt: igazolvány) – járművenként (járműszerelvény esetében csak a vontató járműre) két példányban, kérelemre – a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság adja ki.
+31. § (1)[^82] A közúti személyszállítási igazolványt (a továbbiakban: igazolvány) – járművenként (járműszerelvény esetében csak a vontató járműre) két példányban, kérelemre – a gazdálkodó szervezet székhelye szerint illetékes közlekedési hatóság adja ki.
 
-(2) Az igazolvány abban az esetben adható ki, ha a jármű üzemeltetője nyilatkozatot tesz, hogy az igazolvánnyal végzett tevékenysége mindenben megfelel a saját számlás közúti áruszállítás, illetve az autóbusszal végzett saját számlás személyszállítás feltételeinek.
+(2)[^83] Az igazolvány abban az esetben adható ki, ha a jármű üzemeltetője nyilatkozatot tesz, hogy az igazolvánnyal végzett tevékenysége mindenben megfelel az autóbusszal végzett saját számlás személyszállítás feltételeinek.
 
 (3) Az igazolvány kiadása iránti kérelemben fel kell tüntetni a kérelmező gazdálkodó szervezet nevét, formáját és székhelyét, vezetőjének a természetes személyazonosító adatait, az üzemeltetni kívánt járművet, rendszám szerint, valamint a jármű üzemeltetésének jogcímét és telephelyét (tárolási helyét).
 
@@ -20,5 +20,6 @@ b) a tagállamok a területén saját számlás közúti áruszállítás az 107
 
 végezhető.
 
-[^76]: A 30. § a 280/2013. (VII. 24.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^77]: A 31. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^81]: A 30. § a 280/2013. (VII. 24.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^82]: A 31. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 56. § (2) bekezdésével megállapított, az 561/2023. (XII. 14.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^83]: A 31. § (2) bekezdése az 561/2023. (XII. 14.) Korm. rendelet 20. § f) pontja szerint módosított szöveg.

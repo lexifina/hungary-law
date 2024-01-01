@@ -56,7 +56,7 @@ f) egészségbiztosítási főiskolai szintű szak
 
 g) jogi egyetem.
 
-4.[^113] Árufuvarozási ismeretek:
+4.[^120] Árufuvarozási ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -74,13 +74,13 @@ g) közlekedésmérnök alapképzési szakon vagy
 
 h) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-i)[^114] középfokú szakképesítés:
+i)[^121] középfokú szakképesítés:
 
 ia) nemzetközi szállítmányozási és logisztikai menedzser,
 
 ib) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-5.[^115] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
+5.[^122] Jármű műszaki, üzemeltetési és közlekedés biztonsági ismeretek:
 
 a) szakirányú okleveles gépészmérnök vagy
 
@@ -116,7 +116,7 @@ o) közlekedés-üzemviteli, gépjárműüzemi technikus.
 
 – közép- vagy felsőfokú vámügyintézői szakképesítés.
 
-7.[^116] Személyszállítási ismeretek:
+7.[^123] Személyszállítási ismeretek:
 
 a) szakirányú okleveles közlekedésmérnök vagy
 
@@ -126,14 +126,14 @@ c) közlekedésmérnök alapképzési szakon szerzett diploma vagy
 
 d) közlekedésmérnök mesterképzési szakon szerzett diploma vagy
 
-e)[^117] középfokú szakképesítés:
+e)[^124] középfokú szakképesítés:
 
 ea) nemzetközi szállítmányozási és logisztikai menedzser,
 
 eb) forgalmi tiszti felsőfokú tanfolyami szakképesítés.
 
-[^113]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^114]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
-[^115]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
-[^116]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
-[^117]: Az 1. melléklet 7. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
+[^120]: Az 1. melléklet 4. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^121]: Az 1. melléklet 4. pont i) alpontja a 13/2020. (II. 7.) Korm. rendelet 57. § 1. pontja szerint módosított szöveg.
+[^122]: Az 1. melléklet 5. pontja a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdésével megállapított szöveg.
+[^123]: Az 1. melléklet 7. pontját a 228/2012. (VIII. 23.) Korm. rendelet 6. § (12) bekezdése iktatta be.
+[^124]: Az 1. melléklet 7. pont e) alpont nyitó szövegrésze a 13/2020. (II. 7.) Korm. rendelet 57. § 2. pontja szerint módosított szöveg.
