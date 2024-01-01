@@ -1,0 +1,9 @@
+# 70/2023. (XII. 23.) BM rendelet
+
+egyes egészségügyi és egészségbiztosítási tárgyú miniszteri rendeletek humánreprodukciós eljárásokkal összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-70-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-01-01 | 2023-70-20-0A.1 | 70/2023. (XII. 23.) BM rendelet |
