@@ -122,7 +122,7 @@ tartózkodási engedélyének száma, kelte, kiállító hatóság megnevezése:
 
 |
 
-letelepedési, bevándorlási kérelmével foglalkozó hatóság megnevezése:
+huzamos tartózkodási, bevándorlási kérelmével foglalkozó hatóság megnevezése:
 
 |
 

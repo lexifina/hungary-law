@@ -12,7 +12,7 @@ e) ellátja a központi államhatalmi és kormányzati tevékenység szempontjá
 
 f) ellátja a hatáskörébe tartozó személyek nemzetbiztonsági védelmének feladatait, illetve elvégzi – a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat, valamint az Információs Hivatal hatáskörébe tartozó személyek kivételével – a nemzetbiztonsági ellenőrzés alá eső személyek nemzetbiztonsági ellenőrzésének feladatait;
 
-g) végzi a letelepedett jogállást igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
+g) végzi a huzamos tartózkodási jogosultságot igazoló okmányt kérelmező, továbbá a menekültkénti elismerését kérő, illetőleg a magyar állampolgárságért folyamodó, valamint – az állami függetlenség és a törvényes rend védelméhez kötődően – a vízumkérelmet benyújtott személyek ellenőrzését és az ezzel kapcsolatos feladatokat;
 
 h) a nyomozás elrendeléséig végzi
 
@@ -46,7 +46,7 @@ l) közreműködik a haditechnikai eszközök és szolgáltatások jogellenes fo
 
 m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe tartozó gazdálkodó szervezetek cégellenőrzését.
 
-n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést,
+n) elvégzi a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést és jegyzéken tartással összefüggő ellenőrzést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést, továbbá a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti előzetes minősítést és jegyzéken tartással összefüggő ellenőrzést;
 
 o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
 
