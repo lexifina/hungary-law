@@ -12,7 +12,7 @@
 
 ## 4. Kiállítás helye, időpontja
 
-## 5.[^243] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
+## 5.[^244] Kiállító halgazdálkodási hatóság aláírása, bélyegzője
 
 ## Fogási tanúsítvány belső lapjain
 
@@ -78,7 +78,7 @@
 
 ## 6. Halászati engedély azonosító száma
 
-3. melléklet a 133/2013. (XII. 29.) VM rendelethez[^244]
+3. melléklet a 133/2013. (XII. 29.) VM rendelethez[^245]
 
-[^243]: A 2. melléklet I. rész 5. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
-[^244]: A 3. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^244]: A 2. melléklet I. rész 5. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^245]: A 3. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.

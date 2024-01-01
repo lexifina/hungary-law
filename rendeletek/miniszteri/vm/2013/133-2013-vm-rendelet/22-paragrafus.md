@@ -1,4 +1,4 @@
-22. §[^111] (1) A horgászok és a rekreációs halászok nyilvántartásának vezetését, valamint a nyilvántartást biztosító regisztrációt a horgászszövetség végzi.
+22. §[^112] (1) A horgászok és a rekreációs halászok nyilvántartásának vezetését, valamint a nyilvántartást biztosító regisztrációt a horgászszövetség végzi.
 
 (2) A horgászszövetség a regisztrációval kapcsolatos feladatokat az állami horgászjegy forgalmazással megbízott horgászszervezeteken keresztül biztosítja.
 
@@ -10,9 +10,9 @@
 
 (6) A regisztrációt követően kerül sor a nyilvántartásba vételre és a Magyar Horgászkártya kiadására.
 
-(7)[^112] A Magyar Horgászkártya kötelező adattartalmát és díját a halgazdálkodási hatóság honlapján teszi közzé.
+(7)[^113] A Magyar Horgászkártya kötelező adattartalmát és díját a halgazdálkodási hatóság honlapján teszi közzé.
 
 (8) A Magyar Horgászkártya érvényességi ideje öt év, az érvényességi időn belül – a nyilvántartott személynek felróható okok miatt – történő csere díjköteles.
 
-[^111]: A 22. § szövege a 45/2018. (XII. 28.) AM rendelet 16. §-a alapján került beiktatásra.
-[^112]: A 22. § (7) bekezdése a 62/2019. (XII. 18.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^112]: A 22. § szövege a 45/2018. (XII. 28.) AM rendelet 16. §-a alapján került beiktatásra.
+[^113]: A 22. § (7) bekezdése a 62/2019. (XII. 18.) AM rendelet 6. § c) pontja szerint módosított szöveg.

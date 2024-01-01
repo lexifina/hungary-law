@@ -1,4 +1,4 @@
-13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^258]
+13. melléklet a 133/2013. (XII. 29.) VM rendelethez[^259]
 
 1. A Nemzeti Élelmiszerlánc-biztonsági Hivatal fizetési számlája:
 
@@ -48,4 +48,4 @@
 
 | 19. | Zala Vármegyei Kormányhivatal | 10049006-00302993-00000000 |
 
-[^258]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja, a 136/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
+[^259]: A 13. mellékletet a 41/2014. (XII. 23.) FM rendelet 5. § (2) bekezdése iktatta be, szövege az 56/2015. (IX. 24.) FM rendelet 22. § 46–47. pontja és 24. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 22. § (6) bekezdés g)–h) pontja, a 136/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja szerint módosított szöveg.
