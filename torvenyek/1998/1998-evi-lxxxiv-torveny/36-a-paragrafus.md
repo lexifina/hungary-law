@@ -1,4 +1,4 @@
-36/A. § (1) A családtámogatási ügyben eljáró hatóság részére adatot szolgáltat
+36/A. § (1) Az igényelbíráló szerv részére adatot szolgáltat
 
 a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 19. § (3) bekezdése szerinti szerv a köznevelési intézmény tanulója tanulói jogviszonyának,
 
@@ -8,7 +8,7 @@ c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 6. § (5) bek
 
 fennállásáról, szüneteléséről és megszűnéséről.
 
-(2) Az adatok átadásának módjáról a központi családtámogatási szerv és az (1) bekezdés alapján adatszolgáltatásra köteles szerv egymással megállapodást köt.
+(2) Az adatok átadásának módjáról a központi családtámogatási szerv, illetve a családtámogatási kifizetőhely és az (1) bekezdés alapján adatszolgáltatásra köteles szerv egymással megállapodást köt.
 
 (3) Jogszabályban meghatározott módon kell igazolni a tanulmányok köznevelési intézményben vagy szakképző intézményben történő folytatását
 

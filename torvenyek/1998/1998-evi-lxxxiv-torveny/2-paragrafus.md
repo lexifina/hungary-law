@@ -6,7 +6,7 @@ a) a Magyarország területén élő
 
 aa) magyar állampolgárra,
 
-ab) bevándorolt vagy letelepedett jogállású, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
+ab) huzamos tartózkodási jogosultsággal rendelkező, továbbá a magyar hatóság által menekültként, oltalmazottként vagy hontalanként elismert személyekre,
 
 ac) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény (a továbbiakban: Szmtv.) szerint a szabad mozgás és tartózkodás jogával rendelkező személyre, amennyiben az ellátás igénylésének időpontjában az Szmtv.-ben meghatározottak szerint a szabad mozgás és a három hónapot meghaladó tartózkodási jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
 

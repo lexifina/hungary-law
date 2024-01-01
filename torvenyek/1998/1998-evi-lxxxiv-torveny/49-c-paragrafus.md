@@ -20,6 +20,8 @@ h) a személyszállítási szolgáltatásokról szóló 2012. évi XLI. törvén
 
 i) az állami foglalkoztatási szerv a gyermekek után járó támogatások lekérdezése, nyilvántartásba vétel, ellátás megállapítása érdekében szükséges adatokat
 
+j) a nyomozó hatóság a törvényben meghatározott feladatainak ellátása érdekében szükséges adatokat
+
 közvetlen lekérdezéssel díjmentesen elérheti.
 
 (3) A központi családtámogatási szerv a 49/B. § (2) bekezdés a) és b) pontjában és a 49/B. § (3) bekezdés a) és b) pontjában meghatározott adatok pontosságának ellenőrzése érdekében adategyeztetést folytathat az egészségbiztosítási szervvel. Az adategyeztetés módjáról a Kormány által kijelölt szerv és az egészségbiztosítási szerv megállapodást köt.

@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-84-00-00
 | 2023-07-01 | 2023. évi XXVIII. törvény | 1998-84-00-00.70 |
 | 2023-07-07 | 2023. évi LIII. törvény | 1998-84-00-00.74 |
 | 2023-11-19 | 2023. évi XXXVIII. törvény | 1998-84-00-00.73 |
+| 2024-01-01 | 2023. évi LXXVI. törvény | 1998-84-00-00.71 |

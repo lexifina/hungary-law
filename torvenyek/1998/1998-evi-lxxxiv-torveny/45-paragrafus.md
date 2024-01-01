@@ -2,13 +2,13 @@
 
 ## ADATVÉDELEM
 
-45. § (1) Az igényelbíráló szerv – ideértve a családtámogatási ügyben eljáró hatóság vezetőjét is a méltányossági jogkörének gyakorlása során –, valamint a központi családtámogatási szerv természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása és ellenőrzése céljából – TAJ számon – tart nyilván.
+45. § (1) Az igényelbíráló szerv – ideértve a családtámogatási ügyben eljáró hatóság vezetőjét is a méltányossági jogkörének gyakorlása során –, valamint a központi családtámogatási szerv természetes személyről adatokat a családtámogatási ellátások megállapítása, folyósítása, ellenőrzése, valamint a jogalap nélkül felvett ellátások visszakövetelése céljából – TAJ számon – tart nyilván.
 
 (2) Az (1) bekezdésben meghatározott célra az alábbi személyes adatok tarthatók nyilván:
 
 a) a jogosult, az ellátásra jogosító gyermek, továbbá a jogosult házastársának, bejegyzett élettársának, élettársának természetes személyazonosító adatai;
 
-b) a jogosult állampolgárságára, illetőleg bevándorolt, letelepedett vagy menekült jogállására vonatkozó adat;
+b) a jogosult állampolgárságára, illetőleg huzamos tartózkodási jogosultságára vagy menekült jogállására vonatkozó adat;
 
 c) a jogosult családi állapotára, élettársi kapcsolatára vonatkozó adat;
 
@@ -25,6 +25,8 @@ h) az ellátásra jogosító gyermek tartós betegségére, súlyos fogyatékoss
 i) a magasabb összegű családi pótlékban részesülő, 18. életévét betöltött jogosult munkaképesség-csökkenése, illetve egészségkárosodása mértékére vonatkozó adat;
 
 j) a 2. § c) pont cb) alpontjában meghatározott személy nevére a szomszédos államokban élő magyarokról szóló törvény alapján kiadott „Magyar igazolvány” sorszámára vonatkozó adat.
+
+k) a jogalap nélkül felvett családtámogatási ellátásokkal kapcsolatban fennálló követelések keresetből történő levonása esetén a fizetésre kötelezett személy foglalkoztatójának neve, székhelye és adószáma.
 
 (2a) A (2) bekezdés h) pontja szerinti adatkör tekintetében az (1) bekezdés szerinti nyilvántartás közhiteles hatósági nyilvántartásnak minősül.
 
