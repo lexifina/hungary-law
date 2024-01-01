@@ -14,7 +14,8 @@ e)[^11] az élelmiszerlánc-felügyeletért felelős miniszter,
 
 f) az atomenergia alkalmazója,
 
-g) az Országos Meteorológiai Szolgálat.
+g)[^12] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
 
 [^10]: A 8. § a 361/2011. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^11]: A 8. § (2) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 472. §-a szerint módosított szöveg.
+[^12]: A 8. § (2) bekezdés g) pontja az 591/2023. (XII. 20.) Korm. rendelet 10. § a) pontjával megállapított szöveg.
