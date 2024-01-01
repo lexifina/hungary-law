@@ -1,106 +1,20 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet
+## a)[^1]
 
-## aa) IX. Helyi önkormányzatok támogatásai fejezet címrendjének
-
-## aaa) a 43. Egyes önkormányzati feladatok ellátásának támogatása címmel és az 1. mellékletben meghatározott alcímekkel,
-
-## aab) a 48. Települési önkormányzatok fejlesztési, működési feladatainak, kiemelt fejlesztési igényeinek támogatása címmel és a 2. mellékletben meghatározott alcímekkel,
-
-## aac) a 49. Egyes települési önkormányzatok kötelező feladatainak támogatása címmel és a 3. mellékletben meghatározott alcímekkel,
-
-## aad) az 51. Pátyod Község Önkormányzata sporttelep fejlesztésének támogatása címmel,
-
-## aae) az 52. Szolnok Megyei Jogú Város Önkormányzata feladatainak támogatása II. címmel,
-
-## aaf) az 53. Egyes települési önkormányzatok kötelező feladatainak és fejlesztéseinek támogatása címmel és a 4. mellékletben meghatározott alcímekkel,
-
-## ab) XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címnek a 38. Groupama Aréna korszerűsítésének megvalósítása alcímmel
-
-## történő kiegészítését;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## b) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a
-
-## ba) 7. melléklet szerint 290 533 148 877 forint,
-
-## bb) 8. melléklet szerint 419 929 367 042 forint,
-
-## bc) 9. melléklet szerint 3 084 200 000 forint
-
-## egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím (a továbbiakban: GVP előirányzat) terhére;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## b)[^2]
 
 ## c) a Kvtv. 79. §-ában biztosított jogkörében eljárva jóváhagyja a GVP előirányzatnak a b) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 713 546 715 919 forinttal történő túlteljesülését;
 
-## d) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva a
+## d)[^3]
 
-## da) 7. melléklet szerint 33 446 439 111 forint,
+## e)[^4]
 
-## db) 10. melléklet szerint 5 660 195 000 forint,
+## f)[^5]
 
-## dc) 9. melléklet szerint 1 789 602 000 forint
+## g)[^6]
 
-## egyszeri átcsoportosítását rendeli el;
-
-## Felelős: pénzügyminiszter
-
-## érintett miniszterek
-
-## Határidő: azonnal
-
-## e)[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva a
-
-## ea) 7. melléklet szerint 10 450 000 000 forint,
-
-## eb) 11. melléklet szerint 2 355 761 710 forint,
-
-## ec) 12. melléklet szerint 3 913 561 000 forint
-
-## egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok cím, 4. Központi tartalékok alcím, 1. Rendkívüli kormányzati intézkedések jogcímcsoport terhére;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## Az elszámolás és a visszatérítési kötelezettség tekintetében
-
-## Felelős: érintett miniszterek
-
-## Határidő: 2022. december 31.
-
-## f) az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 3 120 000 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 7. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## g) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 159 005 391 forint egyszeri átcsoportosítását rendeli el, a 13. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## érintett miniszterek
-
-## Határidő: azonnal
-
-## h) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva – a helyi önkormányzatok támogatása érdekében – elrendeli az a) alpont aa) pont aaa) alpontja szerinti cím 1. melléklet szerinti alcímei javára összesen 19 785 933 000 forint egyszeri átcsoportosítását a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 29. Lakástámogatások cím, 1. Egyéb lakástámogatások alcím terhére, a 14. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## h)[^7]
 
 ## i) egyetért azzal, hogy a belügyminiszter a h) alpont szerint átcsoportosított előirányzat terhére, az 1. mellékletben meghatározott támogatási célokra, külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson az érintett önkormányzatok részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
@@ -108,13 +22,7 @@
 
 ## k) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 5. Gazdaságvédelmet szolgáló pénzügyi fejezeti kezelésű előirányzatok alcím, 2. Területfejlesztési feladatok jogcímcsoport kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2021. évre 16 369 600 000 forint összegben állapítja meg;
 
-## l) a Kvtv. 5. § (4) bekezdésében biztosított jogkörében eljárva jóváhagyja a Kvtv. 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 1. Az MNV Zrt. rábízott vagyonával kapcsolatos bevételek és kiadások cím, 2. Az MNV Zrt. rábízott vagyonával kapcsolatos kiadások alcím,
-
-## la) 1. Ingatlanokkal és ingóságokkal kapcsolatos kiadások jogcímcsoport, 9. A Nemzeti Eszközkezelő Program keretében megszerzett ingatlanok fenntartása jogcím, valamint
-
-## lb) 2. Társaságokkal kapcsolatos kiadások jogcímcsoport, 6. A Nemzeti Eszközkezelő Zrt. működésének támogatása és tevékenységével kapcsolatos egyéb kiadások jogcím
-
-## kiadási előirányzatának 1 000 000 000 – 1 000 000 000 forinttal történő növelését;
+## l)[^8]
 
 ## m) egyetért azzal, hogy a belügyminiszter a b) alpont ba) pontja alapján a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 51. Pátyod Község Önkormányzata sporttelep fejlesztésének támogatása cím javára átcsoportosított 125 000 000 forint előirányzat terhére a kötelező önkormányzati feladatok ellátása érdekében, külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő egyedi támogatást nyújtson Pátyod Község Önkormányzata részére támogatási előlegként, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
@@ -132,13 +40,9 @@
 
 ## t) egyetért azzal, hogy a belügyminiszter az s) alpont szerinti egyedi költségvetési támogatást a támogatói okirat kiadását követően folyósítsa a kedvezményezett települési önkormányzatok számára;
 
-## u) felhívja az érintett minisztereket, hogy gondoskodjanak a 15. mellékletben foglalt táblázat H–N oszlopában meghatározott fejezeti kezelésű előirányzatok 2020. évi éves költségvetési beszámolóban jóváhagyott maradványainak – az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 150. § (3) és (4) bekezdése szerinti időponttal – a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv1.) 1. melléklete szerinti címrendnek és a 15. mellékletben foglalt táblázat A–G oszlopában meghatározottaknak megfelelő fejezeten belüli átvezetéséről és előirányzatosításáról;
+## u)[^9]
 
-## Felelős: érintett miniszterek
-
-## Határidő: legkésőbb a 2020. évi éves költségvetési beszámolónak a Magyar Államkincstár által történő elfogadását követő 3. munkanapig
-
-## v) egyetért azzal, hogy a 16. mellékletben foglalt táblázat H–N oszlopában meghatározott előirányzatok maradványai a 16. melléklet A–G oszlopában meghatározott előirányzatokon kerüljenek előirányzatosításra;
+## v)[^10]
 
 ## w) felhívja az érintett minisztereket, hogy gondoskodjanak a v) alpont szerinti előirányzatosítás végrehajtásáról;
 
@@ -156,70 +60,69 @@
 
 ## adatszolgáltatásra: 2021. február 12.
 
-## y) a Kvtv. 11. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a 2020. évi Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport 13. Célelőirányzatok jogcím előirányzatának 44 472 900 000 forinttal történő megemelését, a 17. melléklet szerint;
+## y)[^11]
 
-## Felelős: pénzügyminiszter
+## z)[^12]
 
-## emberi erőforrások minisztere
+## 2.[^13]
 
-## Határidő: azonnal
+## 3.[^14]
 
-## z) a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 12. § (1) bekezdés b) pontjában biztosított jogkörében eljárva elrendeli a 2021. évi Kvtv. 1. melléklet LXXII. Egészségbiztosítási és Járvány Elleni Védekezési Alap fejezet, 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 12. Gyógyító-megelőző ellátás céltartalék jogcím terhére 506 400 000 forint egyszeri átcsoportosítását a 2021. évi Kvtv. 1. melléklet LXXII. Egészségbiztosítási és Járvány Elleni Védekezési Alap fejezet, 1. Egészségbiztosítási Alap cím, 2. Egészségbiztosítási ellátások kiadásai alcím, 7. Gyógyító-megelőző ellátás jogcímcsoport, 8. Mentés jogcím javára, a 18. melléklet szerint.
+## 4.[^15]
 
-## Felelős: pénzügyminiszter
+## 5.[^16]
 
-## emberi erőforrások minisztere
+## 6.[^17]
 
-## Határidő: 2021. január 1-jét követően azonnal
+## 7.[^18]
 
-## 2.[^2]
+## 8.[^19]
 
-## 3.[^3]
+## 9.[^20]
 
-## 4.[^4]
+## 10.[^21]
 
-## 5.[^5]
+## 11.[^22]
 
-## 6.[^6]
+## 12.[^23]
 
-## 7.[^7]
+## 13.[^24]
 
-## 8.[^8]
+## 14.[^25]
 
-## 9.[^9]
+## 15.[^26]
 
-## 10.[^10]
-
-## 11.[^11]
-
-## 12.[^12]
-
-## 13.[^13]
-
-## 14.[^14]
-
-## 15.[^15]
-
-## 16.[^16]
+## 16.[^27]
 
 ## 17. A Kormány egyetért azzal, hogy a Központi Maradványelszámolási Alapból, a Beruházás Előkészítési Alapból, a Gazdaságvédelmi programok előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1176/2020. (IV. 23.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára átcsoportosított 1 200 000 000 forintból 49 932 847 forint a XV. Pénzügyminisztérium fejezet, 5. Közbeszerzési és Ellátási Főigazgatóság címen a K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra.
 
-1. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^17]
+1. melléklet a 2005/2020. (XII. 24.) Korm. határozathoz[^28]
 
-[^1]: Az 1. pont e) alpont záró szövegrésze az 1007/2022. (I. 20.) Korm. határozat 11. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: Az 1. melléklet 1147/2021. (III. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont b) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: Az 1. pont f) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^6]: Az 1. pont g) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^7]: Az 1. pont h) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^8]: Az 1. pont l) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^9]: Az 1. pont u) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^10]: Az 1. pont v) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^11]: Az 1. pont y) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^12]: Az 1. pont z) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^13]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
