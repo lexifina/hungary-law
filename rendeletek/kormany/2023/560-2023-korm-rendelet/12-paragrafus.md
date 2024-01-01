@@ -1,5 +1,5 @@
 ## lép.
 
-12. §[^17]
+12. §[^6]
 
-[^17]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

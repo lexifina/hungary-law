@@ -1,3 +1,3 @@
-19. §[^26]
+19. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 10. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-[^26]: A 19. § a 21. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+(A törzskönyvi nyilvántartás vezetése során)
