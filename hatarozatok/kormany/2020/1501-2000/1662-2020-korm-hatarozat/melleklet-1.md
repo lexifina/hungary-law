@@ -12,21 +12,7 @@
 
 ## b) a 2021. évben legfeljebb 117 000 000 forint;
 
-## 6. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva, a Beruházások 5. pont szerinti előkészítési fázisainak 2020. évi finanszírozása érdekében összesen 67 218 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2021. június 30.
+## 6.[^1]
 
 ## 7. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával – elszámolási és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel – gondoskodjon az 5. pont b) alpontja szerinti összeg rendelkezésre állásáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: 2021. évi Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Központi kezelésű előirányzatok cím, 1. Központi tartalékok alcím, 2. Beruházás Előkészítési Alap jogcímcsoport terhére, a 2021. évi Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 3. Nemzeti Sportközpontok cím javára;
 
@@ -46,56 +32,7 @@
 
 ## Határidő: a 4. pont szerinti véghatáridőt követő 45 napon belül
 
-1. melléklet az 1662/2020. (X. 15.) Korm. határozathoz
+1. melléklet az 1662/2020. (X. 15.) Korm. határozathoz[^2]
 
-| XV. Pénzügyminisztérium XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  | -67 218 000 |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 298224 |  | 3 |  |  |  |  |  | Nemzeti Sportközpontok |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  |  | Felhalmozási kiadások |  |  |  |  |  |  |  |  | 67 218 000 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 298224 |  | 3 |  |  |  |  |  | Nemzeti Sportközpontok |  |  |  |  |  |  |  |  |  |  | 67 218 000 |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-| Magyar Államkincstár | 1 példány | időarányos teljesítésarányos egyéb: azonnal | 67 218 000 |  |  |  |  | 67 218 000 |
-
-* Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
