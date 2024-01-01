@@ -1,6 +1,12 @@
+## Kiadás helye, kelte:
+
+## ...............................................
+
+## Cégszerű aláírás
+
 2. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^53]
 
-## A szolgáltatásminőségi követelményekre mértékadó dokumentumok
+A szolgáltatásminőségi követelményekre mértékadó dokumentumok
 
 I. Általános alkalmazási körű normatív dokumentumok
 

@@ -14,6 +14,8 @@
 
 3. melléklet a 13/2011. (XII. 27.) NMHH rendelethez[^54]
 
+0X10094_0
+
 | „A” táblázat: Internet-hozzáférési szolgáltatások leíró táblázata Érvényesség kezdete: Év.Hó.Nap |
 
 | HELYHEZ KÖTÖTT INTERNET-HOZZÁFÉRÉSI SZOLGÁLTATÁS ESETÉN* |

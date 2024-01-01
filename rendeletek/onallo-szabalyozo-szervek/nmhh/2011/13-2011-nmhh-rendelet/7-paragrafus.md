@@ -1,5 +1,3 @@
-## meghatározott mértékű kötbért fizet a szolgáltató az előfizetőnek.
-
 7. §[^27] (1) Helyhez kötött internet-hozzáférési szolgáltatás esetén a szolgáltató az egyes díjcsomagokba foglalt szolgáltatások vonatkozásában köteles meghatározni a sebességre mint egyedi szolgáltatásminőségi követelményre vonatkozó célértékeket az alábbiak szerint:
 
 a) a maximális sebességet,

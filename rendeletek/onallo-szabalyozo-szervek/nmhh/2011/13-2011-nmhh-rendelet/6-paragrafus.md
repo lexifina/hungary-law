@@ -8,6 +8,8 @@ a)[^25] a szolgáltatás csak az előfizetői szerződés szerinti minőségéne
 
 b)[^26] az előfizetői hozzáférési ponton teljesített érték olyan mértékben tér el a célértéktől, hogy az nem teszi lehetővé az előfizető számára a szolgáltatás igénybevételét, az Eszr. 23. § (1) bekezdés a) és b) pontja szerint megállapított, az Eszr. 23. § (3) bekezdés c) pontjában
 
+meghatározott mértékű kötbért fizet a szolgáltató az előfizetőnek.
+
 [^23]: Az 5/A. §-t az 1/2014. (II. 6.) NMHH rendelet 4. §-a iktatta be.
 [^24]: A 6. § a 25/2020. (XII. 21.) NMHH rendelet 3. §-ával megállapított szöveg.
 [^25]: A 6. § a) pontja a 6/2021. (VII. 8.) NMHH rendelet 2. § 1. pontja szerint módosított szöveg.

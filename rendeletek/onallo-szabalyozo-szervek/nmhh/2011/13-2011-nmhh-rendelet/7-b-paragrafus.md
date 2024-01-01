@@ -1,5 +1,3 @@
-## rendelkezései alkalmazandók.
-
 7/B. §[^29] (1) Az internet-hozzáférési szolgáltatást nyújtó szolgáltató köteles az általános szerződési feltételekben szerepeltetni, internetes honlapján e rendelet 3. melléklet „A” és „B” táblázatát naprakészen hozzáférhetővé tenni.
 
 (2) Az internet-hozzáférési szolgáltatást nyújtó szolgáltató az (1) bekezdésben meghatározottakon túlmenően információt nyújt az előfizető részére arra vonatkozóan, hogy az egyes díjcsomagok milyen alkalmazások, tartalomszolgáltatások igénybevételére alkalmasak, és köteles ezen információkat az internetes honlapján az (1) bekezdés szerinti táblázatokkal együtt, áttekinthető formában hozzáférhetővé tenni.
