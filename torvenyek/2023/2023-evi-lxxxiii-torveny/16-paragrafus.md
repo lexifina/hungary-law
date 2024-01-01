@@ -2,4 +2,6 @@
 
 a)
 
-b)
+b) 3. számú melléklete a 2. melléklet,
+
+szerint módosul.

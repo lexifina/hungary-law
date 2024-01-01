@@ -1,1 +1,1 @@
-### 90. §
+90. § A Szocho tv. 17/A. § (1) bekezdés a) pont záró szövegrészében az „esik)” szövegrész helyébe az „esik), továbbá azzal, hogy a megváltozott munkaképességű munkavállaló [13. § (3) bekezdés] esetében – az előbbi arányosítást mellőzve – valamennyi duális képzőhelyen folytatott szakirányú oktatással érintett nap figyelembe vehető” szöveg lép.

@@ -1,1 +1,7 @@
-### 116. §
+116. § Az Art. 263. §-a helyébe a következő rendelkezés lép:
+
+„263. § [Nagy összegű adóhiánnyal rendelkező adózók közzététele]
+
+(1) Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – honlapján a nagy összegű adóhiánnyal rendelkező adózók közzétételi listáján közzéteszi annak a vállalkozási tevékenységet végző természetes személynek, a csőd- vagy felszámolási eljárás vagy kényszertörlés alatt nem álló, vállalkozási tevékenységet végző jogi személynek és egyéb szervezetnek a nevét, elnevezését, székhelyét, telephelyét, adószámát, a megállapított adóhiány és jogkövetkezmény összegét, akinek, amelynek a terhére az előző negyedév során véglegessé vált határozatban százmillió forintot meghaladó összegű adóhiányt állapított meg, feltéve, hogy az erről szóló határozatban előírt fizetési kötelezettségének a határozatban megállapított határidőben nem tett eleget. E § alkalmazásában nem tekinthető véglegesnek az adóhatóság határozata, ha a kereset megindítására nyitva álló határidő még nem telt el, illetve az adózó által indított közigazgatási per jogerősen nem zárult le.
+
+(2) Az állami adó- és vámhatóság nyolc napon belül kérelemre törli az adózót az e § szerinti közzétételi listáról, ha az adózó az előző negyedév során véglegessé vált határozatban előírt fizetési kötelezettségét maradéktalanul teljesíti.”
