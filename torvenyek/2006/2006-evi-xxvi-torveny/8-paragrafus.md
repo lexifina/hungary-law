@@ -1,8 +1,8 @@
-8. § (1) A tag a földgázipari, illetve földgáztermelői tevékenységével összefüggésben, illetve a felhasználó a földgáz határon keresztül történő beszállítási vagy a földgáz szervezett piacon történő vásárlási tevékenysége után a Szövetség részére tagi hozzájárulást fizet.
+8. § (1) A tag a földgázipari, illetve földgáztermelői tevékenységével összefüggésben, illetve a felhasználó a földgáz határon keresztül történő beszállítási vagy a földgáz szervezett piacon történő vásárlási tevékenysége után, valamint az 1. § f) pontja szerinti földgáz felhasználása után a Szövetség részére tagi hozzájárulást fizet.
 
 (2) Tagi hozzájárulást kell fizetni, ha
 
-a) a földgáz egyetemes szolgáltató a felhasználóknak földgázt értékesít,
+a) a egyetemes földgázszolgáltató a felhasználóknak földgázt értékesít,
 
 b) a földgázkereskedő a felhasználóknak földgázt értékesít,
 
@@ -16,9 +16,11 @@ f) a felhasználó a szervezett piacon földgázt vásárol,
 
 g) a földgázkereskedő saját célra földgázt használ fel.
 
-(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében a földgáz egyetemes szolgáltatót, b) és g) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) pontjai esetében a felhasználót terheli.
+h) a felhasználó az 1. § f) pontja szerint földgázt használ fel.
 
-(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége, a (2) bekezdés g) pontja esetén a felhasznált földgáz mennyisége kilowattórában mérve.
+(3) A tagi hozzájárulás megfizetése a (2) bekezdés a) pontja esetében az egyetemes földgázszolgáltatót, b) és g) pontja esetében a földgázkereskedőt, c) pontja esetében a földgáztermelőt, d)–f) és h) pontja esetében a felhasználót terheli.
+
+(4) A tagi hozzájárulás alapja a (2) bekezdés a)–c) pontjai esetén az értékesített földgáz mennyisége, a (2) bekezdés d)–f) pontjai esetén a vásárolt vagy importált földgáz mennyisége, a (2) bekezdés g) és h) pontja esetén a felhasznált földgáz mennyisége kilowattórában mérve.
 
 (4a) A 4. § (5) bekezdés szerinti készletértékesítés esetén a tagi hozzájárulás mértékének a (4) bekezdés szerint történő megállapítása során az értékesített földgáz ellenértékeként befolyt pénzösszeget csökkentő tételként kell figyelembe venni.
 
@@ -28,9 +30,11 @@ a) a (2) bekezdés a)–c) és az e)–f) pontjai esetében az általános forga
 
 b) a (2) bekezdés d) pontja esetében a belföldi forgalom számára történő vámkezeléskor, a belföldi forgalom számára vámkezelt mennyiségre,
 
-c) a (2) bekezdés g) pontja esetében a felhasználás időpontjában, a saját célra felhasznált mennyiségre
+c) a (2) bekezdés g) és h) pontja esetében a felhasználás időpontjában, a saját célra felhasznált mennyiségre
 
 vonatkozik.
+
+(5a) Az (5) bekezdés a) pontját azzal a kiegészítéssel kell alkalmazni, hogy a tagi hozzájárulás-fizetési kötelezettség a (2) bekezdés a)–c) pontja esetében – ha az általános forgalmi adóról szóló törvény szerinti teljesítés időpontja korábbi, mint az általános forgalmi adóról szóló törvény szerint az elszámolással érintett időszak kezdete – az általános forgalmi adóról szóló törvény szerinti elszámolással érintett időszak kezdő időpontjában, az ellenérték, illetve a részkifizetések alapjául szolgáló mennyiségre vonatkozik.
 
 (6) Nem kell tagi hozzájárulást fizetni a földgáz biztonsági készletezés céljára beszerzett földgáz után.
 

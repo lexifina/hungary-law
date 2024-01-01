@@ -12,8 +12,12 @@
 
 a) szolidaritást kérő másik tagállam szolidaritási alapon védett felhasználói,
 
-b) földgázkereskedő lehetetlenülése esetén az érintett felhasználók, valamint
+b) földgázkereskedő lehetetlenülése esetén az érintett felhasználók,
 
-c) nem egyetemes szolgáltatásban vételező felhasználók földgázellátási válsághelyzetben történő földgázellátása érdekében.
+c) nem egyetemes szolgáltatásban vételező felhasználók földgázellátási válsághelyzetben történő földgázellátása érdekében, valamint
+
+d) a villamos energiáról szóló törvény alapján villamos energia termelői működési engedéllyel rendelkező, az 50 MW és annál nagyobb teljesítményű erőművek energiahordozó-készletének legkisebb mértékéről és a készletezés rendjéről szóló miniszteri rendelet rendelkezései szerint energiaforrás-készlet fenntartására kötelezett felhasználási helynek (a továbbiakban: erőmű) a földgázellátás biztonságának megőrzését szolgáló intézkedésekről szóló kormányrendelet szerinti korlátozása esetén az erőmű földgázellátása érdekében, és
+
+e) vészhelyzeti szint esetén a rendszerüzemeltetők saját készletből vagy fennálló szerződéséből nem fedezhető, rendszerüzemeltetéshez szükséges földgázteljesítményének biztosítására.
 
 (6) A védett felhasználót ellátó földgázkereskedő a védett felhasználói kör ellátásával arányos mértékben, valamint a saját jogon eljáró védett felhasználó a saját ellátásával arányos mértékben jogosult – a 2017/1938/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdés a)–c) pontjában meghatározott esetekben – a földgáz biztonsági készlethez hozzáférni.

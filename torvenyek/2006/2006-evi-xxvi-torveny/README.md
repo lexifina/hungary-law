@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-26-00-00
 | 2018-12-19 | 2018. évi XCIX. törvény | 2006-26-00-00.20 |
 | 2019-05-01 | 2019. évi XXVIII. törvény | 2006-26-00-00.21 |
 | 2019-12-20 | 2019. évi CI. törvény | 2006-26-00-00.22 |
+| 2024-01-01 | 2023. évi XCIX. törvény | 2006-26-00-00.23 |
