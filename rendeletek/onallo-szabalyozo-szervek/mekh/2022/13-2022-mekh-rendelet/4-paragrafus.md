@@ -1,3 +1,3 @@
-4. §[^4]
+4. §[^5]
 
-[^4]: A 4. § a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^5]: A 4. § a 17. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.

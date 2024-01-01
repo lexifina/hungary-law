@@ -2,4 +2,4 @@
 
 1. §[^1]
 
-[^1]: Az 1. § a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^1]: Az 1. § a 17. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
