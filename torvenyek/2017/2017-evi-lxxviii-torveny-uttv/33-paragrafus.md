@@ -6,7 +6,7 @@ a) természetes személyazonosító adatok,
 
 b) lakcím,
 
-c) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,
+c) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 
 d) az azonosításhoz felhasznált azonosító okmány típusa és száma,
 

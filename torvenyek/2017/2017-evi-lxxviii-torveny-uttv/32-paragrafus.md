@@ -2,13 +2,13 @@
 
 32. § (1) A jogi tanácsadásra adott megbízás kivételével a megbízási szerződés megkötése előtt a megbízott, valamint a munkáltatója és harmadik személy közötti szerződés ellenjegyzését megelőzően a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) elvégzi az ügyfél, a kamarai jogtanácsos a munkáltatójával szerződő személy, illetve az ezek képviseletében eljáró személy azonosítását.
 
-(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével azonosítja.
+(2) Az ügyvéd azt a természetes személyt, akit nem ismer, vagy akinek a személyazonosságát illetően kétsége merül fel, személyazonosításra alkalmas okmánya megtekintésével, vagy az Eüsztv. alapján a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás igénybevétele, vagy – ha az ügyvéd rendelkezik az ehhez szükséges feltételekkel – a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet 24. cikk (1) bekezdés a), b) vagy d) pontja szerinti ellenőrzés útján azonosítja.
 
 (3) Az ügyvéd a természetes személy adatai a nyilvántartott adatokkal való egyezőségének és az általa bemutatott okmányok érvényességének ellenőrzése érdekében a személyiadat- és lakcímnyilvántartásból, a járművezetőiengedély-nyilvántartásból, az útiokmány-nyilvántartásból és a központi idegenrendészeti nyilvántartásból elektronikus úton a következő adatokat igényelheti:
 
 a) természetes személyazonosító adatok,
 
-b) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, illetve EGT-állampolgár jogállás,
+b) állampolgárság, hontalanság, menekült, illetve EGT-állampolgár jogállás, huzamos tartózkodási jogosultság,
 
 c) lakcím,
 
@@ -22,7 +22,7 @@ g) a külföldre utazásról szóló 1998. évi XII. törvény 24. § (1) bekezd
 
 h) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pont ba)–bb) alpontja szerinti adatok,
 
-i) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti adatok.
+i) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti adatok.
 
 (4) A jogi személyt vagy más szervezetet az ügyvéd a jogi személyt vagy más szervezetet nyilvántartó hatóság nyilvántartása vagy az abból származó kivonat alapján azonosítja.
 

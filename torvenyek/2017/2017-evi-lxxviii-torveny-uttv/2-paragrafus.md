@@ -18,7 +18,7 @@ g) az a)–f) pont szerinti ügyvédi tevékenységgel összefüggésben letét 
 
 (2) Nem minősül ügyvédi tevékenységnek
 
-a) a nem természetes személy jogalannyal fennálló munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati, igazságügyi alkalmazotti vagy ügyészségi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony keretei között,
+a) a nem természetes személy jogalannyal fennálló munkaviszony, kormányzati szolgálati, közszolgálati, adó- és vámhatósági szolgálati, egészségügyi szolgálati, közalkalmazotti, köznevelési foglalkoztatotti, rendvédelmi igazgatási alkalmazotti, honvédelmi alkalmazotti, rendvédelmi, hivatásos vagy szerződéses katonai szolgálati, igazságügyi alkalmazotti vagy ügyészségi alkalmazotti szolgálati jogviszony, egyházi szolgálati viszony, valamint a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszony keretei között,
 
 aa) a munkáltató, egyházi szolgálati viszony esetében az egyházi jogi személy, vagy önkéntes jogviszony esetén a fogadó szervezet (e § alkalmazásában a továbbiakban együtt: munkáltató),
 
