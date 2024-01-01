@@ -1,0 +1,1 @@
+2. § A 4/2011. (I. 28.) Korm. rendelet 106. § (1) bekezdésében a „vagy tevékenységének segítésére kijelölt minisztérium, az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt” szövegrész helyébe a „minisztérium, az európai uniós források felhasználásáért felelős miniszter által vezetett” szöveg lép.
