@@ -46,9 +46,9 @@ u) közreműködik az európai uniós források felhasználásához kötődő pa
 
 v) felelős az operatív program éves és záró jelentésének elkészítéséért.
 
-(2)[^59] Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter és az európai uniós források felhasználásáért felelős miniszter az általa vezetett vagy tevékenységének segítésére kijelölt minisztérium szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
+(2)[^59] Az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter és az európai uniós források felhasználásáért felelős miniszter az általa vezetett minisztérium szervezeti és működési szabályzatában meghatározza a 6. § szerinti ágazati feladatainak ellátása tekintetében feladatkörrel rendelkező szervezeti egységeknek az irányító hatósággal való kapcsolattartásának rendjét.
 
 [^56]: A 4/A. alcímet (5/A. §) a 302/2013. (VII. 29.) Korm. rendelet 1. §-a iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^57]: Az 5/A. § (1) bekezdés l) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
 [^58]: Az 5/A. § (1) bekezdés o) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 11. pontja szerint módosított szöveg.
-[^59]: Az 5/A. § (2) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 5. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 4. pontja szerint módosított szöveg.
+[^59]: Az 5/A. § (2) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 5. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 4. pontja, a 640/2023. (XII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

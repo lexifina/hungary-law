@@ -22,7 +22,7 @@ f)[^85] tekintetében az irányító hatósághoz érkezett bejelentés alapján
 
 (6)[^90] A projektek folyamatba épített dokumentum alapú ellenőrzését, helyszíni ellenőrzését és a kifizetés engedélyezését nem végezheti olyan személy, akivel szemben az (1) és (2) bekezdés szerinti kizáró ok fennáll.
 
-(7)[^91] Az (1)–(6) bekezdést nem kell alkalmazni az ágazati fejlesztésért felelős miniszter által vezetett vagy tevékenységének segítésére kijelölt minisztérium részéről benyújtott és megvalósított projektek esetén, ha a minisztérium szervezetén belül az adott projekt vonatkozásában a projekt elkészítéséhez, benyújtásához, megvalósításához, valamint a döntés előkészítéséhez, meghozatalához kapcsolódó feladatok szervezetileg elkülönülnek.
+(7)[^91] Az (1)–(6) bekezdést nem kell alkalmazni az ágazati fejlesztésért felelős miniszter által vezetett minisztérium részéről benyújtott és megvalósított projektek esetén, ha a minisztérium szervezetén belül az adott projekt vonatkozásában a projekt elkészítéséhez, benyújtásához, megvalósításához, valamint a döntés előkészítéséhez, meghozatalához kapcsolódó feladatok szervezetileg elkülönülnek.
 
 (8)[^92] A kutatás-fejlesztési és innovációs projektek támogatására irányuló támogatási konstrukciók esetében az (1) bekezdés a) pontja alól az irányító hatóság felmentést adhat.
 
@@ -35,5 +35,5 @@ f)[^85] tekintetében az irányító hatósághoz érkezett bejelentés alapján
 [^88]: A 14. § (4) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 9. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 12. pontja szerint módosított szöveg.
 [^89]: A 14. § (5) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 10. pontja, az 548/2013. (XII. 30.) Korm. rendelet 43. § 13. pontja szerint módosított szöveg.
 [^90]: A 14. § (6) bekezdése a 25/2012. (II. 29.) Korm. rendelet 61. § 11. pontja szerint módosított szöveg.
-[^91]: A 14. § (7) bekezdése a 548/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 6. pontja szerint módosított szöveg.
+[^91]: A 14. § (7) bekezdése a 548/2013. (XII. 30.) Korm. rendelet 8. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 6. pontja, a 640/2023. (XII. 28.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^92]: A 14. § (8) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 14. pontja szerint módosított szöveg.

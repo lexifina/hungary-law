@@ -18,19 +18,19 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 |  | A | B | C | D | E | F |
 
-| 1. | Operatív program | Prioritás | Intézkedés | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
+| 1. | Operatív program | Prioritás | Intézkedés | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja | Közreműködő szervezet |
 
 | 2. | Államreform Operatív Program | Miniszterelnöki Kabinetiroda | Miniszterelnöki Kabinetirodát vezető miniszter | – |
 
 | 3. | Elektronikus Közigazgatás Operatív Program | Miniszterelnöki Kabinetiroda | Miniszterelnöki Kabinetirodát vezető miniszter | – |
 
-| 4. | Gazdaságfejlesztési Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 4. | Gazdaságfejlesztési Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-| 5. | Környezet és Energia Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 5. | Környezet és Energia Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-| 6. | Közlekedés Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 6. | Közlekedés Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-| 7. | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | területfejlesztési miniszter | kincstár |
+| 7. | Dél-alföldi Operatív Program | Regionális gazdaságfejlesztés | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | kincstár |
 
 | 8. | Turisztikai célú fejlesztések |
 
@@ -40,7 +40,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 11. | Térségfejlesztési akciók |
 
-| 12. | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Miniszterelnökség | kincstár |
+| 12. | Dél-dunántúli Operatív Program | A városi térségek fejlesztésére alapozott versenyképes gazdaság megteremtése | Közigazgatási és Területfejlesztési Minisztérium | kincstár |
 
 | 13. | A turisztikai potenciál erősítése a régióban |
 
@@ -50,7 +50,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 16. | Az elérhetőség javítása és környezetfejlesztés |
 
-| 17. | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
+| 17. | Észak-alföldi Operatív Program | Regionális gazdaságfejlesztés | Közigazgatási és Területfejlesztési Minisztérium | kincstár |
 
 | 18. | Turisztikai célú fejlesztés |
 
@@ -60,7 +60,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 21. | Város- és térségfejlesztés |
 
-| 22. | Észak- magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | Miniszterelnökség | kincstár |
+| 22. | Észak- magyarországi Operatív Program | Versenyképes helyi gazdaság megteremtése | Közigazgatási és Területfejlesztési Minisztérium | kincstár |
 
 | 23. | A turisztikai potenciál erősítése |
 
@@ -70,7 +70,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 26. | Térségi közlekedés fejlesztése |
 
-| 27. | Közép-dunántúli Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
+| 27. | Közép- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Közigazgatási és Területfejlesztési Minisztérium |  | kincstár |
 
 | 28. | Regionális turizmusfejlesztés |
 
@@ -80,7 +80,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 31. | Humán-infrastruktúra fejlesztés |
 
-| 32. | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Miniszterelnökség | kincstár |
+| 32. | Nyugat- dunántúli Operatív Program | Regionális gazdaságfejlesztés | Közigazgatási és Területfejlesztési Minisztérium | kincstár |
 
 | 33. | Turizmusfejlesztés – Pannon örökség megújítása |
 
@@ -90,7 +90,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 36. | Helyi és térségi közszolgáltatások fejlesztése |
 
-| 37. | Közép- magyarországi Operatív Program | A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | Miniszterelnökség | kincstár |
+| 37. | Közép- magyarországi Operatív Program | A tudásalapú gazdaság innováció- és vállalkozásorientált fejlesztése | Összes intézkedés, kivéve Helyi gazdaságfejlesztés, KKV-k pénzügyi eszközökhöz való hozzáférésének fejlesztése | Közigazgatási és Területfejlesztési Minisztérium | kincstár |
 
 | 38. | Helyi gazdaságfejlesztés |
 
@@ -108,7 +108,7 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 45. | Az egészségügyi intézmények infrastruktúra fejlesztése |
 
-| 46. |  | A társadalmi befogadást támogató infrastruktúra fejlesztése |  |
+| 46. |  |  | A társadalmi befogadást támogató infrastruktúra fejlesztése |  |  |  |
 
 | 47. | A lakosságközeli szociális szolgáltatási infrastruktúra fejlesztése |
 
@@ -116,12 +116,12 @@ Az irányító hatóság és a közreműködő szervezet kijelölése
 
 | 49. | Elektronikus helyi közigazgatási infrastruktúra fejlesztése |
 
-| 50. | Városi és települési területek megújítása |
+| 50. |  | Városi és települési területek megújítása |  |  |  |
 
-| 51. | Társadalmi Megújulás Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 51. | Társadalmi Megújulás Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-| 52. | Társadalmi Infrastruktúra Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 52. | Társadalmi Infrastruktúra Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-| 53. | Végrehajtás Operatív Program | Miniszterelnökség | területfejlesztési miniszter | – |
+| 53. | Végrehajtás Operatív Program | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | – |
 
-[^617]: A 3. melléklet a 183/2022. (V. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^617]: A 3. melléklet a 640/2023. (XII. 28.) Korm. rendelet 1. §-ával megállapított szöveg.

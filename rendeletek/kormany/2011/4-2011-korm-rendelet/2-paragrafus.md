@@ -112,7 +112,7 @@ d) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra é
 
 rendelkezései szerint kell értelmezni.
 
-(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett vagy tevékenységének segítésére kijelölt minisztériumban az irányító hatóság vezetője által kijelölt szervezeti egységet kell érteni.
+(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumban az irányító hatóság vezetője által kijelölt szervezeti egységet kell érteni.
 
 [^3]: A 2. § (1) bekezdés 1. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 1a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg.
@@ -148,4 +148,4 @@ rendelkezései szerint kell értelmezni.
 [^34]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
 [^35]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^36]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 2. pontja szerint módosított szöveg.
+[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 2. pontja, a 640/2023. (XII. 28.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
