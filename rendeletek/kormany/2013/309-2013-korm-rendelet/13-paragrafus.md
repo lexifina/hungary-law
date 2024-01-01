@@ -1,6 +1,6 @@
 ## 8. Jogkövetkezmények
 
-13. §[^16] (1) A Hivatal a villamos energiáról szóló törvényben és annak végrehajtására kiadott kormányrendeletben meghatározottak szerint bírságot szabhat ki
+13. §[^17] (1) A Hivatal a villamos energiáról szóló törvényben és annak végrehajtására kiadott kormányrendeletben meghatározottak szerint bírságot szabhat ki
 
 a) a termelői engedélyesre,
 
@@ -22,4 +22,4 @@ c) a forgalmi számla megszüntetésre került.
 
 (4) Ha a származási garancia nem került felhasználásra, a Hivatal a származási garanciát az abban meghatározott villamos energiamennyiség termelési időszakának utolsó napját követő 12 hónap elteltével törli a kezelőrendszerből.
 
-[^16]: A 13. § a 787/2021. (XII. 27.) Korm. rendelet 45. §-ával megállapított szöveg.
+[^17]: A 13. § a 787/2021. (XII. 27.) Korm. rendelet 45. §-ával megállapított szöveg.

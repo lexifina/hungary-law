@@ -1,4 +1,4 @@
-## 4. [^12] A származási garancia bejegyzése
+## 4. [^13] A származási garancia bejegyzése
 
 5. § (1) A termelő vagy az általa megbízott számlatulajdonos származási garancia bejegyzésére irányuló kérelme (a továbbiakban: bejegyzési kérelem) a Hivatal honlapján közzétett formanyomtatványon nyújtható be, amely tartalmazza
 
@@ -42,4 +42,4 @@ d) az erőműegység nem részesül a megújuló energiaforrásból vagy hullad�
 
 (10) Származási garancia bejegyzésére irányuló kérelem a legalább 50 kW vagy ennél nagyobb beépített teljesítőképességű erőműben megtermelt villamos energia vonatkozásában nyújtható be.
 
-[^12]: A 4. alcím (5–6. §) a 787/2021. (XII. 27.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^13]: A 4. alcím (5–6. §) a 787/2021. (XII. 27.) Korm. rendelet 41. §-ával megállapított szöveg.

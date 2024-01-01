@@ -1,6 +1,6 @@
-## 2. [^4] A kezelőrendszer és a forgalmi számla
+## 2. [^5] A kezelőrendszer és a forgalmi számla
 
-2. § (1)[^5] A kezelőrendszert a Hivatal működteti. A Hivatal biztosítja, hogy a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A Hivatal az 5. § (1) bekezdése szerinti kérelemre indult eljárás végén hatósági bizonyítványt bocsát ki. A Hivatal a hatósági bizonyítvány alapján a származási garanciát egyszerű magánokirati formában bocsátja ki, amely az ellenkező bizonyításig hitelesen igazolja az abban foglalt adatok valódiságát. A származási garanciák bejegyzésének, átruházásának és törlésének részletes szabályait a Hivatal és a számlatulajdonos közötti szerződés tartalmazza.
+2. § (1)[^6] A kezelőrendszert a Hivatal működteti. A Hivatal biztosítja, hogy a származási garanciák bejegyzése, átruházása, felhasználása és törlése pontos és megbízható legyen. A Hivatal az 5. § (1) bekezdése szerinti kérelemre indult eljárás végén hatósági bizonyítványt bocsát ki. A Hivatal a hatósági bizonyítvány alapján a származási garanciát egyszerű magánokirati formában bocsátja ki, amely az ellenkező bizonyításig hitelesen igazolja az abban foglalt adatok valódiságát. A származási garanciák bejegyzésének, átruházásának és törlésének részletes szabályait a Hivatal és a számlatulajdonos közötti szerződés tartalmazza.
 
 (2) A kezelőrendszer működtetésével kapcsolatos feladatok ellátásával az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvénnyel összhangban a Hivatal közreműködő szervezetet bízhat meg.
 
@@ -10,5 +10,5 @@
 
 (5) A Hivatal a forgalmi számla nyitására és a kezelőrendszer használatára vonatkozó részletes szabályokat tartalmazó útmutatót a honlapján közzéteszi.
 
-[^4]: A 2. alcím (2. §) a 787/2021. (XII. 27.) Korm. rendelet 38. §-ával megállapított szöveg.
-[^5]: A 2. § (1) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^5]: A 2. alcím (2. §) a 787/2021. (XII. 27.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdése a 787/2021. (XII. 27.) Korm. rendelet 39. §-ával megállapított szöveg.

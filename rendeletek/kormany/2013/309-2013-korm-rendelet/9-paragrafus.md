@@ -1,6 +1,6 @@
 ## 6. A külföldi származási garancia elismerése
 
-9. §[^15] (1) A Hivatal erre irányuló kérelem alapján elismeri a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelésből származó villamos energiára vonatkozó származási garanciát, amely az EGT-megállapodásban részes államokból, az Energiaközösség létrehozásáról szóló szerződést aláíró államokból származik (a továbbiakban: külföldi származási garancia) és megfelel a 2009/28/EK európai parlamenti és tanácsi irányelvben, a 2012/27/EU európai parlamenti és tanácsi irányelvben és az (EU) 2018/2001 európai parlamenti és tanácsi irányelvben foglalt, a származási garanciákra vonatkozó előírásoknak.
+9. §[^16] (1) A Hivatal erre irányuló kérelem alapján elismeri a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelésből származó villamos energiára vonatkozó származási garanciát, amely az EGT-megállapodásban részes államokból, az Energiaközösség létrehozásáról szóló szerződést aláíró államokból származik (a továbbiakban: külföldi származási garancia) és megfelel a 2009/28/EK európai parlamenti és tanácsi irányelvben, a 2012/27/EU európai parlamenti és tanácsi irányelvben és az (EU) 2018/2001 európai parlamenti és tanácsi irányelvben foglalt, a származási garanciákra vonatkozó előírásoknak.
 
 (2) Külföldi származási garancia elismerésének minősül a külföldi származási garancia magyarországi kedvezményezett felhasználó részére, annak magyarországi felhasználási helyére történt, külföldi kezelőrendszerben végbement törlésének a Hivatal általi jóváhagyása.
 
@@ -12,4 +12,4 @@
 
 (6) A hazai származási garancia külföldi partner részére történő értékesítése akkor valósulhat meg, ha az érintett származási garanciák kezelőrendszerből való törlését a Hivatal jóváhagyta, és az adott állam felelős szervezete a hazai származási garanciákat elismerte.
 
-[^15]: A 9. § a 787/2021. (XII. 27.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^16]: A 9. § a 787/2021. (XII. 27.) Korm. rendelet 44. §-ával megállapított szöveg.
