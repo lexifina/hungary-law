@@ -8,11 +8,7 @@ c) a Beruházás előkészítésére és megvalósítására a Beruházási Ügy
 
 d) a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet 4. § a), b), c), e) és f) pontja szerinti előkészítési fázisai 2020. december 31. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 48 831 500 forintban határozza meg;
 
-e) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 27. Törökbálint Sportközpont fejlesztésének előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+e)[^1]
 
 f) felhívja a pénzügyminisztert, hogy gondoskodjon a d) alpont szerinti összeg rendelkezésre állásáról az e) alpont szerinti előirányzaton;
 
@@ -28,9 +24,10 @@ emberi erőforrások minisztere
 
 Határidő: 2021. március 31.
 
-2.[^1]
+2.[^2]
 
-3.[^2]
+3.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
