@@ -1,1 +1,3 @@
-20. § Hatályát veszti a biohulladék kezeléséről és komposztálás műszaki követelményeiről szóló 23/2003. (XII. 29.) KvVM rendelet.
+20. §[^1]
+
+[^1]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
