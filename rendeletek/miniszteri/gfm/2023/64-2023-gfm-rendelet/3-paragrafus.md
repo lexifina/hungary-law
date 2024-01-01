@@ -1,1 +1,3 @@
-3. § A 4/2002. SZCSM–EüM együttes rendelet 4. számú melléklete az 1. melléklet szerint módosul.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

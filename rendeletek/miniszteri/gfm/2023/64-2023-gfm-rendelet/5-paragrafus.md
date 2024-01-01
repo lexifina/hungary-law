@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 4/2002. SZCSM–EüM együttes rendelet
+5. §[^5]
 
-a) 2. § (1) bekezdés 3. pontjában a „(továbbiakban: koordinátor)” szövegrész,
-
-b) 3. számú melléklete.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
