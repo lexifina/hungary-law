@@ -20,4 +20,4 @@ A fogadó szervezet és az adatmódosítás bejelentésére szolgáló adatlapok
 
 5.4. külföldön végzendő közérdekű önkéntes tevékenységre önkéntest foglalkoztatni,
 
-5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt vagy letelepedett személyt.
+5.5. olyan önkéntest foglalkoztatni, aki a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozik, ide nem értve a menekültként vagy menedékesként elismert, illetve huzamos tartózkodási jogosultsággal rendelkező személyt.

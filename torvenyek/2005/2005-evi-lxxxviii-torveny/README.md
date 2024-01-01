@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2019-04-15 | 2019. évi XXXVI. törvény | 2005-88-00-00.24 |
 | 2020-01-01 | 2019. évi CXII. törvény | 2005-88-00-00.25 |
 | 2021-05-28 | 2021. évi LIII. törvény | 2005-88-00-00.26 |
+| 2024-01-01 | 2023. évi XC. törvény | 2005-88-00-00.27 |

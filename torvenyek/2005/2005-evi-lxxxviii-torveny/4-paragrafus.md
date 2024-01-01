@@ -12,7 +12,7 @@ b) amelynek ellátását törvény, kormányrendelet vagy miniszteri rendelet (a
 
 (5) A tanuló nem létesíthet önkéntes jogviszonyt azzal a nevelési-oktatási intézménnyel, amellyel tanulói jogviszonyban, kollégiumi tagsági viszonyban áll. Ez a korlátozás nem vonatkozik a köznevelési intézmény által szervezett és a tanulói jogviszonnyal, kollégiumi tagsági viszonnyal összefüggő kötelezettséget nem érintő táboroztatási tevékenységre és egyéb közösségi programokra.
 
-(6) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
+(6) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személy (a továbbiakban: harmadik országbeli állampolgár) – ide nem értve a menekültként vagy menedékesként elismert, illetve a huzamos tartózkodási jogosultsággal rendelkező személyt – közérdekű önkéntes tevékenységet akkor végezhet, ha
 
 a) a fogadó szervezet az önkéntes által okozott kár megtérítésére, illetve az önkéntes által elkövetett személyiségi jogi jogsértésért járó sérelemdíj megfizetésére felelősségbiztosítási szerződést kötött,
 

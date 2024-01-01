@@ -24,7 +24,7 @@ c) az önkéntest engedélyköteles építési munkában való részvételre fog
 
 d) a közérdekű önkéntes tevékenységet külföldön végzik,
 
-e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültként vagy menedékesként elismert, bevándorolt, illetve letelepedett személyt,
+e) az önkéntes harmadik országbeli állampolgár, ide nem értve a menekültként vagy menedékesként elismert, illetve huzamos tartózkodási jogosultsággal rendelkező személyt,
 
 f) bármelyik fél azonnali hatályú felmondáshoz való jogát korlátozzák,
 
