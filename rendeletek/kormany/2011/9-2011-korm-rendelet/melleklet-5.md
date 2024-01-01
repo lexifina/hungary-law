@@ -28,7 +28,7 @@
 
 | E-mail: |  |
 
-5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^161]
+5. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^162]
 
 Igénylésazonosító:
 
@@ -162,4 +162,4 @@ Vis maior pályázati adatlap
 
 |  | polgármester/elnök | jegyző |
 
-[^161]: Az 5. melléklet a 31/2020. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^162]: Az 5. melléklet a 31/2020. (II. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.

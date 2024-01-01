@@ -58,6 +58,6 @@
 
 |  |  | 7. | Utalást követően a helyreállítási költségekhez kapcsolódó – le nem hívott – vis maior támogatás összege (5.–6.) |  |
 
-8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^164]
+8. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^165]
 
-[^164]: A 8. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 119. §-a szerint módosított szöveg.
+[^165]: A 8. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés b) pontjával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 119. §-a szerint módosított szöveg.

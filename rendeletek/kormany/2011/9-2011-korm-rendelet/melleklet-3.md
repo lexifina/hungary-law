@@ -38,6 +38,6 @@
 
 |  | Telefon: | Telefon: |
 
-3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^159]
+3. melléklet a 9/2011. (II. 15.) Korm. rendelethez[^160]
 
-[^159]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés a) pontjával megállapított, a 825/2021. (XII. 28.) Korm. rendelet 23. §-a, a 616/2022. (XII. 29. Korm. rendelet 119. §-a szerint módosított szöveg.
+[^160]: A 3. melléklet a 360/2019. (XII. 30.) Korm. rendelet 85. § (4) bekezdés a) pontjával megállapított, a 825/2021. (XII. 28.) Korm. rendelet 23. §-a, a 616/2022. (XII. 29. Korm. rendelet 119. §-a szerint módosított szöveg.
