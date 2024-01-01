@@ -34,6 +34,8 @@ c)[^4] az R. mellékletében a B) csoportba sorolt tevékenységek esetén legal
 
 – közlekedésépítő, környezetvédő technikus (OKJ-szám: 52 5832 03),
 
+valamint az 1993 előtt iskolarendszerű képzésen kívül szerzett, államilag elismert kiegészítő környezetvédelmi szakképesítés [középfokú környezetvédelmi szaktanfolyam a 10/1984. (VIII. 8.) IpM rendelet alapján], továbbá az 1997. december 31-ig megszerzett környezeti asszisztens (OKJ szám: 52 5470 03) képesítés. A kiegészítő környezetvédelmi szakképesítés és a környezeti asszisztens képesítés 2005. július 31-ig fogadható el, kivéve, ha a megbízottnak a rá irányadó örögségi nyugdíjkorhatár eléréséig ezen időponttól 3 évnél kevesebb idő van hátra.
+
 [^2]: A 2. § a) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (1) bekezdése szerint kiegészített szöveg.
 [^3]: A 2. § b) pontját a 2/2001. (I. 11.) Korm. rendelet 7. §-ának (2) bekezdése hatályon kívül helyezte.
 [^4]: A 2. § c) pontja a 8/2000. (V. 18.) KöM rendelet 1. §-ának (3) bekezdésével megállapított szöveg.

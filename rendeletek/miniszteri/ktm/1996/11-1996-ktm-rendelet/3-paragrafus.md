@@ -1,1 +1,3 @@
-## valamint az 1993 előtt iskolarendszerű képzésen kívül szerzett, államilag elismert kiegészítő környezetvédelmi szakképesítés [középfokú környezetvédelmi szaktanfolyam a 10/1984. (VIII. 8.) IpM rendelet alapján], továbbá az 1997. december 31-ig megszerzett környezeti asszisztens (OKJ szám: 52 5470 03) képesítés. A kiegészítő környezetvédelmi szakképesítés és a környezeti asszisztens képesítés 2005. július 31-ig fogadható el, kivéve, ha a megbízottnak a rá irányadó örögségi nyugdíjkorhatár eléréséig ezen időponttól 3 évnél kevesebb idő van hátra.
+3. §[^5]
+
+[^5]: A 3. §-t a 39/2023. (XII. 29.) EM rendelet 1. §-a hatályon kívül helyezte.
