@@ -1,6 +1,6 @@
 5. melléklet a 6/2011. (I. 14.) VM rendelethez
 
-## A levegő arzén, kadmium, nikkel, benz(a)pirén koncentrációjának és az ülepedésnek a mérésére szolgáló mintavételi pontok elhelyezésének követelményei és minimális száma
+A levegő arzén, kadmium, nikkel, benz(a)pirén koncentrációjának és az ülepedésnek a mérésére szolgáló mintavételi pontok elhelyezésének követelményei és minimális száma
 
 1. Szempontok a mérőpont helyének kiválasztásához
 

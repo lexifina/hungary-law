@@ -1,5 +1,3 @@
-## 26–27. §[^28]
-
 1. melléklet a 6/2011. (I. 14.) VM rendelethez
 
 ## A kén-dioxid, nitrogén-dioxid (NO2) és nitrogén-oxidok (NOx), szálló por (PM10 és PM2,5), ólom,
@@ -14,7 +12,7 @@
 
 1.1.1. Ha a maximális koncentrációk túllépik a felső vizsgálati küszöbértéket, a nitrogén-dioxid, a szálló por, benzol és a szén-monoxid tekintetében biztosítani kell legalább egy városi hátterű megfigyelő állomást és egy közlekedési helyszínen elhelyezett mérőállomást, feltéve hogy ez nem növeli a mintavételi pontok számát. Ezen légszennyező anyagok tekintetében egy adott tagállamban a városi hátterű mérőállomások és a közlekedési helyszíneken elhelyezett mérőállomásoknak az 1.1.3. pontban előírt összes száma közötti eltérési tényező legfeljebb kettő lehet. Fenn kell tartani azokat a mintavételi pontokat, ahol a PM10-re vonatkozó határértéket a megelőző három évben túllépték, kivéve ha az áthelyezés különleges körülmények, különösen városrendezési okok miatt szükséges.
 
-1.1.2. Amennyiben a PM10-et és a PM2,5-t a 3. § (6) bekezdésével összhangban ugyanazon a megfigyelő mérőállomáson mérik, azt két különálló mintavételi pontnak kell tekinteni. Egy adott tagállamban a PM10 és a PM2,5 mérésére szolgáló mintavételi pontoknak az 1.1.3. pontban előírt összes száma közötti eltérési tényező legfeljebb kettő lehet, továbbá a PM2,5 mérésére szolgáló mintavételi pontok számának az agglomerációk városi hátterű helyszínein és a városi területeken meg kell felelnie a 2. pontban meghatározott követelményeknek.
+1.1.2. Amennyiben a PM10-et és a PM2,5-t a 3. § (6) bekezdésével összhangban ugyanazon a megfigyelő mérőállomáson mérik, azt két különálló mintavételi pontnak kell tekinteni. Egy adott tagállamban a PM10 és a PM2,5mérésére szolgáló mintavételi pontoknak az 1.1.3. pontban előírt összes száma közötti eltérési tényező legfeljebb kettő lehet, továbbá a PM2,5mérésére szolgáló mintavételi pontok számának az agglomerációk városi hátterű helyszínein és a városi területeken meg kell felelnie a 2. pontban meghatározott követelményeknek.
 
 1.1.3. A helyhez kötött mérésre szolgáló mintavételi pontok minimális száma azon zónákban és agglomerációkban, ahol a helyhez kötött mérés az információ egyedüli forrása
 
@@ -59,5 +57,3 @@
 3.2. Ha a maximális koncentrációk a felső és az alsó vizsgálati küszöbérték között helyezkednek el, 40 000 km2-enként egy mérőállomást szükséges elhelyezni.
 
 3.3. Szigeteken lévő zónákban a helyhez kötött mérésekre szolgáló mintavételi pontok számát a levegő szennyezettségének valószínű eloszlása és a növényzet potenciális expozíciójának figyelembevételével kell kiszámítani.
-
-[^28]: A 17. alcímet és a 26–27. §-t a 27. § hatályon kívül helyezte.

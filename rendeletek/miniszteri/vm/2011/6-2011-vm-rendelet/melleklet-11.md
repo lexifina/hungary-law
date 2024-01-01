@@ -1,5 +1,3 @@
-## A vidéki hátterű helyszíneken a koncentrációtól függetlenül végzett PM2,5 mérések és a PM2,5-re vonatkozó átlagexpozíció mutató meghatározása
-
 ## 1. Kémiai összetevőinek jellemzése érdekében a PM2,5 mérésének ki kell terjednie legalább a teljes tömegkoncentrációra és a megfelelő vegyületek koncentrációira.
 
 ## 1.1. A mérésnek legalább az alábbi kémiai anyagokra ki kell terjednie:
@@ -36,9 +34,9 @@
 
 ## 3.4. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesülnek-e az expozíciókoncentrációra vonatkozó kötelezettségek.
 
-11. melléklet a 6/2011. (I. 14.) VM rendelethez[^39]
+11. melléklet a 6/2011. (I. 14.) VM rendelethez[^40]
 
-## Adatminőségi célkitűzések és a levegőminőségi modell követelményei a levegő arzén, kadmium, nikkel, benz(a)pirén tartalmának meghatározásához
+Adatminőségi célkitűzések és a levegőminőségi modell követelményei a levegő arzén, kadmium, nikkel, benz(a)pirén tartalmának meghatározásához
 
 1. Adatminőségi célkitűzés
 
@@ -74,4 +72,4 @@
 
 3. Az objektív becslési módszerek alkalmazása esetén a bizonytalanság nem érheti el a ±100%-ot.
 
-[^39]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § d) pontja szerint módosított szöveg.
+[^40]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § d) pontja szerint módosított szöveg.

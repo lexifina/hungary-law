@@ -1,6 +1,6 @@
 6. melléklet a 6/2011. (I. 14.) VM rendelethez
 
-## Az ózon előanyagainak mérései
+Az ózon előanyagainak mérései
 
 1. Az ilyen mérések fő célja az ózon előanyagaival kapcsolatos folyamatok elemzése, a kibocsátás csökkentésére irányuló stratégiák hatékonyságának ellenőrzése, az emisszió-kataszterek egységességének ellenőrzése és a kibocsátási források hozzárendelése a megfigyelt szennyezési koncentrációhoz. További cél az ózon kialakulása és az előanyag terjedése megértésének elősegítése, valamint fotokémiai modellek alkalmazása.
 

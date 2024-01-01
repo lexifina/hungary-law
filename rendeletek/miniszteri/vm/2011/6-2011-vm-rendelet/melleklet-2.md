@@ -1,6 +1,6 @@
-2. melléklet a 6/2011. (I. 14.) VM rendelethez[^29]
+2. melléklet a 6/2011. (I. 14.) VM rendelethez[^30]
 
-## A levegőterheltségi szintet vizsgáló mérőpontok elhelyezésének követelményei
+A levegőterheltségi szintet vizsgáló mérőpontok elhelyezésének követelményei
 
 1. A levegő minőségét valamennyi zónában és agglomerációban vizsgálni kell, az alábbi kritériumokkal összhangban.
 
@@ -78,4 +78,4 @@ A növényzet és a természetes ökológiai rendszerek védelmét szolgáló mi
 
 4.1. A 4. pontban leírt folyamatot a Levegőtisztaság-védelmi Referencia Központ felügyeli.
 
-[^29]: A 2. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § a) pontja szerint módosított szöveg.
+[^30]: A 2. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § a) pontja szerint módosított szöveg.

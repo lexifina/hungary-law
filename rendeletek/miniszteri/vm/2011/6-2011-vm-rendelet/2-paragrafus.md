@@ -1,5 +1,3 @@
-## eltérően nem rendelkezik.
-
 ## 2. Értelmező rendelkezések
 
 2. § (1) E rendelet alkalmazásában

@@ -16,4 +16,6 @@ c) a 140 kWth és az ennél nagyobb, de 50 MWth-nál kisebb névleges bemenő h�
 
 d) az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló miniszteri rendelet
 
+eltérően nem rendelkezik.
+
 [^1]: Az 1. § a 84/2016. (XII. 16.) FM rendelet 2. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## A kibocsátás ellenőrzés eredményeinek értékelése
-
 ## 1. A folyamatos mérés eredményeinek feldolgozása és értékelése:
 
 ## 1.1. A folyamatos mérés eredményeiből légszennyező anyagonként félórás középértéket kell képezni, amelyet a mindenkori vonatkoztatási jellemzőkre kell a 3. pontban foglaltak szerint átszámítani (koncentrációszámítás). A félórás értékekből naponta, az üzemórák tényleges számának megfelelő napi középértéket kell képezni. A napi középérték nem haladhatja meg a technológiai kibocsátási határértéket.
@@ -40,7 +38,7 @@
 
 17. melléklet a 6/2011. (I. 14.) VM rendelethez
 
-## Típusjóváhagyás követelményei
+Típusjóváhagyás követelményei
 
 1. A típusjóváhagyás feltételei:
 
