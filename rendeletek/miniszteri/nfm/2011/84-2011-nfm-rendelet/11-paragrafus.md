@@ -8,4 +8,4 @@
 
 (4) A késedelembe esést követően a légtér-igénybevételi díj és a kamat megfizetését euróban kell teljesíteni.
 
-[^8]: A 11. § (3) bekezdése a 46/2017. (XII. 20.) NFM rendelet 3. §-ával megállapított, a 9/2022. (XII. 27.) ÉKM rendelet 1. § c) pontja szerint módosított szöveg.
+[^8]: A 11. § (3) bekezdése a 46/2017. (XII. 20.) NFM rendelet 3. §-ával megállapított, a 9/2022. (XII. 27.) ÉKM rendelet 1. § c) pontja szerint módosított szöveg. [A 11. § (3) bekezdésben a 31/2023. (XII. 29.) ÉKM rendelet 1. § c) pontja által elrendelt módosítás, amely szerint a „9,97%” szövegrész helyébe a „13,26%” szöveg lép, nem vezethető át.]
