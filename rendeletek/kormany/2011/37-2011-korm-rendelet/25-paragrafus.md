@@ -23,5 +23,5 @@ c)[^198] a száztízmillió euró feletti elszámolható költségrészre az (1)
 [^194]: A 25. § (1) bekezdése a 365/2023. (VIII. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^195]: A 25. § (2) bekezdése a 38/2016. (III. 3.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.
 [^196]: A 25. § (3) bekezdés a) pontja a 639/2023. (XII. 28.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
-[^197]: A 25. § (3) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 7. § 13. és 14. pontja szerint módosított szöveg.
+[^197]: A 25. § (3) bekezdés b) pontja a 639/2023. (XII. 28.) Korm. rendelet 7. § 13. pontja, a 639/2023. (XII. 28.) Korm. rendelet 7. § 14. pontja szerint módosított szöveg.
 [^198]: A 25. § (3) bekezdés c) pontja a 639/2023. (XII. 28.) Korm. rendelet 7. § 14. pontja szerint módosított szöveg.
