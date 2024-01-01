@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1899-30
 | --- | --- | --- |
 | 2020-12-14 | 2020-1899-30-22.1 | 1899/2020. (XII. 14.) Korm. határozat |
 | 2020-12-15 | 2020-1899-30-22.2 | 2010: CXXX. törvény |
+| 2024-01-01 | 2020-1899-30-22.3 | 2011: CXCV. törvény |
