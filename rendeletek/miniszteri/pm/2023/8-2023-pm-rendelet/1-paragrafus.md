@@ -1,0 +1,3 @@
+1. § A meghatározott cselekmények végrehajtása során közreműködő szervezetek és a romlandó dolgok értékesítése kapcsán közreműködő kereskedők igénybevételének részletes szabályairól szóló 5/2018. (II. 28.) NGM rendelet [a továbbiakban: 5/2018. (II. 28.) NGM rendelet] 2. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az Avt. 123. § (2) bekezdése szerinti, meghatározott cselekmény végrehajtásához szükséges közreműködő szervezeteket az állami adó- és vámhatóság a közreműködő szervezetek névjegyzékében (a továbbiakban: névjegyzék) tevékenységi körök szerint, elektronikusan tartja nyilván. A közreműködő szervezetek a névjegyzékbe földrajzi területenként vagy országosan regisztrálhatnak.”
