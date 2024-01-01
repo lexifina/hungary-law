@@ -8,6 +8,6 @@ b) gyermekvállalási támogatás
 
 [az a) és b) pont szerinti támogatások a továbbiakban együtt: babaváró támogatás] vehető igénybe.
 
-(2)[^1] A kölcsön és a babaváró támogatás igénybevételéről szóló szerződés (a továbbiakban: kölcsönszerződés) 2024. december 31-éig köthető meg.
+(2)[^1]
 
-[^1]: Az 1. § (2) bekezdése az 595/2022. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^1]: Az 1. § (2) bekezdését a 303/2023. (VII. 11.) Korm. rendelet 5. §-a hatályon kívül helyezte.
