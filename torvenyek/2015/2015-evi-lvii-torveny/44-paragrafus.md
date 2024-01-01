@@ -18,7 +18,7 @@ e) a felújítási kötelezettség alá eső kormányzati épületekből a tény
 
 f) a közintézmények által az energiahatékonysági célú beszerzéseik során megköthető energiahatékonyság-alapú szerződés kötelező tartalmi elemeit,
 
-g) az energiahatékonysági kötelezettségi rendszerben a hitelesített energiamegtakarítás szervezett piacon történő átruházásának, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait, valamint a hitelesített energiamegtakarítások szervezett piacát működtető szervezet kijelölését,
+g) az energiahatékonysági kötelezettségi rendszerben a hitelesített energiamegtakarítás szervezett piacon történő átruházásának alapelveit, továbbá az energiahatékonysági intézkedések és az energetikai felújítások finanszírozásának részletszabályait, valamint a hitelesített energiamegtakarítások szervezett piacát működtető szervezet kijelölését,
 
 h) a 7. § f) pontja szerinti költség-haszon elemzésre kötelezettek körét, a költség-haszon elemzéssel érintettek jogait és kötelezettségeit, a költség-haszon elemzés jóváhagyásának és a költség-haszon elemzéssel kapcsolatos mentesség részletes szabályait, valamint a költség-haszon elemzés módszertanának kialakítása érdekében a Hivatal részére történő adatszolgáltatás részletes szabályait,
 
@@ -44,7 +44,7 @@ r) a Nemzeti Energetikusi Hálózat szakmai feladatait közvetlenül ellátó te
 
 s) a közintézményi tulajdonban és használatban álló, közfeladat ellátását szolgáló épület vagy épületrész energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
 
-t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
+t) a szakpolitikai intézkedésekre vonatkozó követelményeket, a szakpolitikai intézkedések végrehajtásával megvalósuló energiamegtakarítás kiszámításának módszereit és elveit, azon belül az addicionális energiamegtakarítás és a lényegesség kritériumait, a nyomon követés és hitelesítés szabályait, az Európai Bizottság számára történő bejelentés egyes szabályait, valamint az egyes szakpolitikai intézkedések megvalósításáért felelős végrehajtó hatóságok kijelölését,
 
 u) az energiahatékonysági kötelezettségi rendszerben a kötelezett fél által igénybe vett oktatási, képzési, tanácsadási és szemléletformálási program eredményeként megvalósult energiamegtakarítás tekintetében az elszámolhatóság részarányát,
 

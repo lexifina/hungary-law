@@ -2,7 +2,7 @@
 
 (1a) A kötelezett fél a jövedéki kiskereskedő kivételével, valamint a közlekedési célú üzemanyag értékesítésére jogosult adóraktári engedélyes és jövedéki engedélyes a Hivatal elnökének e törvény végrehajtására kiadott rendeletében meghatározott módon, adattartalommal és határidőben a Hivatal számára megküldi az energiamegtakarítási kötelezettsége megállapításához szükséges adatokat.
 
-(1b) Az (1a) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését a Hivatal ellenőrzi. Az adatszolgáltatási kötelezettség nem vagy nem megfelelő teljesítése esetén a Hivatal a Vet. vagy a Get. hatálya alá tartozó kötelezett féllel szemben a Vet. vagy a Get. szerinti jogkövetkezményeket alkalmazza, a közlekedési célú üzemanyagot végső felhasználók részére értékesítő kötelezett féllel, valamint az adóraktári engedélyessel és a jövedéki engedélyes kereskedővel szemben tízmillió forintig terjedő bírságot szab ki azzal, hogy az alkalmazott jogkövetkezmény nem mentesíti a kötelezett felet az energiamegtakarítási kötelezettsége alól.
+(1b) Az (1a) bekezdés szerinti adatszolgáltatási kötelezettség teljesítését a Hivatal ellenőrzi. Az adatszolgáltatási kötelezettség nem, vagy nem megfelelő teljesítése esetén a Hivatal a Vet. vagy a Get. hatálya alá tartozó kötelezett féllel szemben a Vet. vagy a Get. szerinti jogkövetkezményeket alkalmazza, a közlekedési célú üzemanyagot végső felhasználók részére értékesítő kötelezett féllel, valamint az adóraktári engedélyessel és a jövedéki engedélyes kereskedővel szemben tízmillió forintig terjedő bírságot szabhat ki azzal, hogy az alkalmazott jogkövetkezmény nem mentesíti a kötelezett felet az energiamegtakarítási kötelezettsége alól. A bírság kiszabásánál a Hivatal mérlegeli, hogy a mulasztás milyen mértékben lehetetleníti el a kötelezettség megállapítását a rendelkezésre álló adatok alapján.
 
 (2) A Nemzeti Adó- és Vámhivatal minden év szeptember 30-ig a Hivatal rendelkezésére bocsátja a közlekedési célú üzemanyagot értékesítők 15. § (1) bekezdése szerinti kötelezettségének megállapításához szükséges adatokat.
 
@@ -25,3 +25,5 @@ b) a tárgyévet megelőző két év egyikében sem rendelkezett vagy a tárgyé
 a) alapja a (6) bekezdés a) pontja szerinti esetben a tárgyévet megelőző évben, a (6) bekezdés b) pontja szerinti esetben a tárgyévben végső felhasználók részére Magyarországon értékesített és szállított, kötelezettség alá vont energiamennyiség,
 
 b) mértéke a 15. § (1) bekezdésben a tárgyévre előírt %-os mérték.
+
+(8) A tárgyévben kötelezetté váló közlekedési célú üzemanyagot végső felhasználók részére értékesítő gazdálkodó szervezet, egyesület a kötelezetté válását követő harminc napon belül köteles regisztrálni a Hivatal energiahatékonysági kötelezettségi rendszer működését támogató adatgyűjtő rendszerébe.

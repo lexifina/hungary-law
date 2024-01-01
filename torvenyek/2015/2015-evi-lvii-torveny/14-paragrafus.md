@@ -12,6 +12,8 @@ bb) a második kötelezettségi időszak vonatkozásában a Hivatal számára, a
 
 c) együttműködik az adatok felülvizsgálata során és megadja a szükséges tájékoztatást.
 
+d) a tárgyévet követő szeptember 30-ig jelentést készít az energiapolitikáért felelős miniszter részére a tárgyévben elért energiamegtakarítások ellenőrzése érdekében végzett tevékenységéről és az ellenőrzések eredményéről.
+
 (1a) A végrehajtó hatóság az (1) bekezdés b) pont bb) alpontja szerinti adatszolgáltatás során a következő személyes adatokat is átadja:
 
 a) ingatlanon megvalósuló alternatív szakpolitikai intézkedés esetén az ingatlan címe, helyrajzi száma,
@@ -30,7 +32,7 @@ c) az alternatív szakpolitikai intézkedéssel érintett végső felhasználó 
 
 (3) Ha az energiamegtakarítás több alternatív szakpolitikai intézkedés közös eredménye, az egy alternatív szakpolitikai intézkedés eredményei között számolható el a végfelhasználási energiamegtakarítás teljesítése során. Az alternatív szakpolitikai intézkedések hitelesítési és nyomonkövetési rendszerét úgy kell kialakítani, hogy a 15. § szerinti energiahatékonysági kötelezettségi rendszerrel vagy más alternatív szakpolitikai intézkedésekkel történő közös megvalósítással létrejött energiamegtakarítás eredményei elkülöníthetők legyenek.
 
-(4) A Hivatal a 13. § (1) bekezdés b)–g) pontjában meghatározott alternatív szakpolitikai intézkedések keretében a második kötelezettségi időszakban megvalósított egyes energiahatékonyság-javító intézkedések reprezentatív módon kiválasztott statisztikailag jelentős részét felülvizsgálja. A statisztikailag jelentős részt a Hivatal éves felülvizsgálati tervben határozza meg. A felülvizsgálat végrehajtásáról, a levont következtetésekről a Hivatal felülvizsgálati jelentést készít.
+(4) A Hivatal a 13. § (1) bekezdés b)–g) pontjában meghatározott alternatív szakpolitikai intézkedések keretében a második kötelezettségi időszakban megvalósított egyes energiahatékonyság-javító intézkedések reprezentatív módon kiválasztott statisztikailag jelentős részét felülvizsgálja. A statisztikailag jelentős részt a Hivatal éves felülvizsgálati tervben határozza meg. A felülvizsgálat végrehajtásáról, a levont következtetésekről, a bejelentett megtakarításoknak a Hivatal ellenőrzése alapján javasolt korrekciójáról a Hivatal felülvizsgálati jelentést készít az energiapolitikáért felelős miniszter részére.
 
 (5) A Hivatal a (4) bekezdésben meghatározott feladatainak teljesítése érdekében jogosult a végrehajtó hatóságtól, az adott energiahatékonyság-javító intézkedéssel érintett végső felhasználótól, az energetikai tanúsítványok elektronikus nyilvántartását vezető szervezettől, valamint a közreműködő energetikai auditortól vagy auditáló szervezettől információt kérni, a kapcsolódó iratokba betekinteni, azokról másolatot, kivonatot készíteni, ideértve az üzleti titkot és személyes adatot tartalmazó iratokat is, valamint jogosult az általános közigazgatási rendtartásról szóló törvény szerinti szemlét lefolytatni.
 

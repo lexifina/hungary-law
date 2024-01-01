@@ -12,6 +12,8 @@
 
 2a. „első az energiahatékonyság” elve: az energiapolitikai tervezés, valamint a szakpolitikai és beruházási döntéshozatal során a költséghatékony, technikailag, gazdaságilag és környezetvédelmi szempontból megfelelő energiahatékonysági intézkedéseknek a lehető legnagyobb mértékű figyelembevétele;
 
+2b. egyéni fellépés kezdete: a beruházás, vagy intézkedés célját szolgáló termékek, szolgáltatások megrendelésének a napja, vagy bármely olyan kötelezettségvállalás, amely a beruházást visszafordíthatatlanná teszi;
+
 3. energia: az energiastatisztikáról szóló, 2008. október 22-i 1099/2008/EK európai parlamenti és tanácsi rendelet 2. cikk d) pontja szerinti energiatermékek minden formája, éghető üzemanyagok, hő, megújuló energiák, villamos energia vagy az energia bármely más formája;
 
 4. energiagazdálkodási rendszer: az energiahatékonysági célkitűzést, valamint az annak elérését célzó stratégiát meghatározó terv egymással összefüggő vagy kölcsönhatásban lévő elemeinek összessége;
@@ -28,7 +30,9 @@
 
 10. energiahatékonyság-javulás: az energiahatékonyság növekedése a technológiai, magatartásbeli vagy gazdasági változások vagy ezek kombinációjának eredményeképpen;
 
-11. energiamegtakarítás: az az energiamennyiség, amellyel csökkent valamely energiahatékonyság-javító intézkedés végrehajtása után a mért vagy becsült fogyasztás az intézkedést megelőzőhöz képest, biztosítva az energiafogyasztást befolyásoló külső feltételeknek megfelelő normalizálást;
+11. energiamegtakarítás: az az energiamennyiség, amellyel csökkent valamely energiahatékonyság-javító intézkedés végrehajtása után a mért vagy becsült energiaigény az intézkedést megelőzőhöz képest, biztosítva az energiaigényt befolyásoló külső feltételeknek megfelelő normalizálást;
+
+11a. energiamegtakarítás első jogosultja: az egyéni fellépéssel érintett végső felhasználó és a lényeges hozzájárulást kifejtő személy közötti írásbeli megállapodásban – ideértve az elektronikus úton kötött megállapodást is – az energiamegtakarítás első jogosultjaként megjelölt személy, ilyen megállapodás hiányában pedig az a személy, aki az energiahatékonyság-javító intézkedés vagy beruházás végrehajtásához a lényegesnek minősülő hozzájárulást kifejtette;
 
 12. energetikai audit: az energetikai auditálás eredményeit tartalmazó, jogszabályban meghatározott tartalmi és formai követelményeknek megfelelő irat;
 

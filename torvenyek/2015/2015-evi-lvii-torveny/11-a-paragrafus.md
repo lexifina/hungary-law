@@ -6,7 +6,7 @@ a) ötévente a Hivatal által elkészített és az energiahatékonysági tájé
 
 b) végrehajtja az energiamegtakarítási intézkedési tervet, a teljesítésről évente jelentést készít, amit a tárgyévet követő év március 31-ig köteles feltölteni a Nemzeti Energetikusi Hálózat által üzemeltetett online felületre;
 
-c) a Nemzeti Energetikusi Hálózat által üzemeltetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vagy épületrészre vonatkozó energiafogyasztási adatokat;
+c) a Nemzeti Energetikusi Hálózat által üzemeltetett online felületen az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint bejelenti az épületre vagy épületrészre vonatkozó energiafogyasztási és a Hivatal elnökének rendeletében foglaltak szerint a tárgyévben elért végsőenergia-megtakarítási adatokat;
 
 d) gondoskodik az energiahatékonysági tájékoztató honlapon közzétett módszertan alapján az épület vagy épületrész használóinak energiahatékonysági szemléletformálásáról és a b) pont szerinti éves jelentésben erről beszámol;
 

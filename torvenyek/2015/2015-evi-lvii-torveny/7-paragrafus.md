@@ -2,7 +2,7 @@
 
 7. § A Hivatal
 
-a) a 12. § (2) bekezdés szerinti kötelezettségi időszakban az integrált nemzeti energia- és klímatervnek és az e törvény végrehajtására kiadott kormányrendeletben meghatározott módszereknek és elveknek megfelelően biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes alternatív szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszer nyomonkövetési adatainak hitelesítését;
+a) a 12. § (2) bekezdés szerinti kötelezettségi időszakban gyűjti – és az energiapolitikáért felelős miniszter felhívására 3 munkanapon belül megküldi – az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszernek a Hivatal elnökének rendeletében meghatározott nyomonkövetési adatait, valamint az integrált nemzeti energia- és klímatervnek és az e törvény végrehajtására kiadott kormányrendeletben meghatározott módszereknek és elveknek megfelelően biztosítja az e törvény végrehajtására kiadott kormányrendeletben meghatározott egyes alternatív szakpolitikai intézkedések, továbbá az energiahatékonysági kötelezettségi rendszer nyomonkövetési adatainak hitelesítését – ideértve annak biztosítását is, hogy amennyiben átfedés van a szakpolitikai intézkedések vagy az egyéni fellépések hatása között, az energiamegtakarítás nem kerül kétszeresen elszámolásra –;
 
 b) az integrált nemzeti energia- és klímaterv felülvizsgálatai során javaslatot tesz az egyes, az integrált nemzeti energia- és klímatervben rögzített és rögzíteni tervezett szakpolitikai intézkedések nyomonkövetési rendszerét megalapozó módszertani keret meghatározására.
 
@@ -31,3 +31,5 @@ h) felmentést ad az f) pont szerinti költség-haszon elemzés elkészítésén
 i) meghatározza a nem kötelező energetikai audit ellenőrzésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
 j) nyilvántartást vezet a regisztrált nagyvállalatokról és a regisztrált nagyvállalatok nevét és székhelyét, továbbá a regisztrált nagyvállalattal szemben hozott, kötelező energetikai auditálás elmulasztását megállapító határozat véglegessé válása dátumát a Hivatal honlapján közzéteszi.
+
+k) a Kormány energiahatékonysági feladatainak ellátása érdekében az energiapolitikáért felelős miniszter megkeresésére 3 munkanapon belül megküldi az e törvény szerinti feladataival összefüggésben kezelt adatokat.

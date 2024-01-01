@@ -22,4 +22,8 @@ j) a szervezett piacot működtető szervezet adatszolgáltatási kötelezettsé
 
 k) a nem megfelelően megállapított energiamegtakarítás esetén teljesítendő energiamegtakarítás helyett választható megváltási díj mértékét
 
+l) a hitelesített energiamegtakarításról, valamint az energiamegtakarítás jogosultjáról vezetett nyilvántartás – személyes adatnak nem minősülő – adattartalmát,
+
+m) a közintézmények energiamegtakarítási adatainak nyomon követéséhez szükséges adatszolgáltatás adattartalmát és részletszabályait
+
 rendeletben állapítsa meg.

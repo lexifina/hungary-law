@@ -1,6 +1,6 @@
 ## 24. A közreműködő szervezet
 
-37. § (1) A közreműködő szervezet e törvényben meghatározott feladatait a Hivatal közreműködő szervezeti tevékenység végzésére jogosító engedélye (a továbbiakban e § alkalmazásában: engedély) alapján látja el. Az engedély 10 évre szól.
+37. § (1) A közreműködő szervezet e törvényben meghatározott feladatait a Hivatal közreműködő szervezeti tevékenység végzésére jogosító engedélye (a továbbiakban e § alkalmazásában: engedély) alapján látja el. Az engedély határozatlan időre szól.
 
 (2) Ha a Hivatal az engedély iránti kérelem alapján megállapítja, hogy a kérelmező eleget tesz az e törvényben, valamint a végrehajtására kiadott kormányrendeletben meghatározott követelményeknek, a kérelmező számára engedélyezi az e törvényben meghatározott közreműködő szervezeti tevékenység folytatását. Kérelmező kizárólag köztestület lehet.
 
@@ -16,7 +16,7 @@ c) bejelenti közreműködő szervezeti tevékenysége megszüntetését.
 
 (5) Az engedély hatályát veszti:
 
-a) az (1) bekezdésben meghatározott idő elteltével,
+a)
 
 b) a közreműködő szervezet megszűnése esetén,
 

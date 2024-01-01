@@ -1,6 +1,6 @@
 ## 12/A. Energiahatékonysági kötelezettségi rendszer
 
-15. § (1) A Vet. és a Get. szerinti villamos energia és földgáz kereskedelmi és egyetemes szolgáltatói engedélyes, saját jogon eljáró felhasználó részére szerződés keretében földgázt szállíttató fél, valamint közlekedési célú üzemanyagot végső felhasználók részére értékesítő gazdálkodó szervezet, egyesület (a továbbiakban együtt: kötelezett fél)
+15. § (1) A Vet. és a Get. szerinti villamos energia és földgáz kereskedelmi és egyetemes szolgáltatói engedélyes, saját jogon eljáró felhasználó részére szerződés keretében földgázt szállíttató fél, valamint közlekedési célú üzemanyagot végső felhasználók részére – ideértve a saját célra történő felhasználást is – értékesítő gazdálkodó szervezet, egyesület (a továbbiakban együtt: kötelezett fél)
 
 a) a 2021. évben az általa 2019-ben végső felhasználók részére Magyarországon értékesített, kötelezettség alá vont energiamennyiség 0,05%-ának,
 
@@ -18,7 +18,7 @@ g) a 2030. évben az általa 2028-ban végső felhasználók részére Magyarors
 
 megfelelő mértékű éves energiamegtakarítást köteles elérni a végső felhasználók körében (a továbbiakban: energiamegtakarítási kötelezettség).
 
-(2) Az energiamegtakarítási kötelezettség számítása során a kötelezettség alá vont energiamennyiségbe a számítás alapjául szolgáló évben a kötelezett fél által értékesített, szállított villamos energia, földgáz, és közlekedési célú üzemanyag számít bele.
+(2) Az energiamegtakarítási kötelezettség számítása során a kötelezettség alá vont energiamennyiségbe a számítás alapjául szolgáló évben a kötelezett fél által értékesített, szállított villamos energia, földgáz, és közlekedési célú üzemanyag számít bele, azzal, hogy a Hivatal az energiamegtakarítási kötelezettség megállapításához az adott értékesítés vonatkozásában az első, főtevékenységét tekintve végső felhasználó statisztikai besorolású gazdálkodó szervezet részére történő értékesítést veszi figyelembe, a továbbértékesítést nem vizsgálja.
 
 (2a) Az adott évi energiamegtakarítási kötelezettség az adott kötelezettségi időszakon belül bármely korábbi évben megvalósult egyéni fellépésből származó, energiamegtakarítási kötelezettség teljesítésére korábban el nem számolt hitelesített energiamegtakarítással is teljesíthető, függetlenül a megtakarítás hitelesített élettartamától.
 
@@ -26,7 +26,7 @@ megfelelő mértékű éves energiamegtakarítást köteles elérni a végső fe
 
 (3) A kötelezett fél az energiamegtakarítási kötelezettség teljesítését a 13. § (1) bekezdés b)–g) pontja szerinti olyan alternatív szakpolitikai intézkedésekkel is kombinálhatja, amelyekhez a kötelezett fél – vagy hitelesített energiamegtakarítás átruházása esetén bármely személy – részéről lényeges hozzájárulás történt. Ha a kötelezett fél az elért energiamegtakarítást ilyen alternatív szakpolitikai intézkedések igénybevételével éri el, az elért energiamegtakarításból a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás és adókedvezmény részaránya – a (4) bekezdésben meghatározott kivétellel – az alternatív szakpolitikai intézkedés keretében, az egyéni fellépés további elszámolható költségének részaránya pedig kötelezetti energiamegtakarításként számolható el. Oktatási, képzési, tanácsadási és szemléletformálási programok kötelezetti igénybevétele esetén a kötelezetti elszámolhatóság részarányát az e törvény végrehajtására kiadott kormányrendelet állapítja meg.
 
-(4) Lakóépületek energiahatékonyságát javító egyéni fellépés megvalósítása során a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás, adókedvezmény vagy ezek együttes igénybevétele esetén a kötelezett az energiamegtakarítás 70%-át akkor is elszámolhatja kötelezetti energiamegtakarításként, ha a (3) bekezdés alapján ennél kevesebbre lenne jogosult.
+(4) Lakóépületek energiahatékonyságát javító egyéni fellépés megvalósítása során a kötelezett félnek és a végső felhasználónak nyújtott vissza nem térítendő állami támogatás, adókedvezmény vagy ezek együttes igénybevétele esetén a kötelezett az energiamegtakarítás 70%-át akkor is elszámolhatja kötelezetti energiamegtakarításként, ha a (3) bekezdés alapján ennél kevesebbre lenne jogosult. A Hivatal az így keletkező megtakarítást a 13. § (5) bekezdése szerinti adatszolgáltatásában külön feltünteti.
 
 (4a) Az alternatív szakpolitikai intézkedés végrehajtó hatósága az adott alternatív szakpolitikai intézkedés igénybevételére vonatkozó feltételek meghatározásával egyező formában meghatározhatja, hogy az adott alternatív szakpolitikai intézkedés mely feltételek fennállása esetén vehető igénybe energiamegtakarítási kötelezettség teljesítésére.
 
