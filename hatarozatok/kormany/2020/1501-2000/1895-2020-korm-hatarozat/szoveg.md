@@ -34,11 +34,7 @@ a b) alpont tekintetében a 2021. évi központi költségvetés végrehajtása 
 
 a c) alpont tekintetében az adott évi központi költségvetés tervezése során
 
-4. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv2. 1. melléklet XXII. Miniszterelnöki Kormányiroda fejezet, 21. Központi kezelésű előirányzatok címének az 1. A mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos tulajdonosi joggyakorlásával kapcsolatos kiadások alcím 1. Nemzeti Ménesbirtok és Tangazdaság Zrt. tőkeemelése jogcímcsoporttal történő kiegészítését.
-
-Felelős: pénzügyminiszter
-
-Határidő: 2021. január 12.
+4.[^1]
 
 5. A Kormány a DAS Korm. határozat 12. pontjában szereplő intézkedés végrehajtása érdekében felhívja a pénzügyminisztert, hogy a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság által ellátott állami feladatok koordinálásáért felelős kormánybiztos bevonásával gondoskodjon a mezőhegyesi Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság tőkeemelése céljából összesen 1 192 500 000 forintról, az alábbiak szerint:
 
@@ -146,39 +142,40 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2024. évtől évente, az adott évi központi költségvetés tervezése során
 
-13.[^1]
+13.[^2]
 
-14.[^2]
+14.[^3]
 
-a)[^3]
+a)[^4]
 
-b)[^4]
+b)[^5]
 
-c)[^5]
+c)[^6]
 
-d)[^6]
+d)[^7]
 
-e)[^7]
+e)[^8]
 
-f)[^8]
+f)[^9]
 
-g)[^9]
+g)[^10]
 
-h)[^10]
+h)[^11]
 
-i)[^11]
+i)[^12]
 
-j)[^12]
+j)[^13]
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 14. pont nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 14. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 14. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 14. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 14. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 14. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 14. pont f) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 14. pont g) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 14. pont h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 14. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 14. pont j) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 14. pont nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 14. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 14. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 14. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 14. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 14. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 14. pont f) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 14. pont g) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. pont h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 14. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. pont j) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
