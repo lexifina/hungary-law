@@ -6,7 +6,7 @@
 
 a) az ügyfél természetes személyazonosító adatai,
 
-b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+b) az ügyfél lakcíme,, elektronikus levélcíme, telefonszámai,
 
 c) a nem természetes személy ügyfél cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének ideje, tevékenységi körei, székhelyének címe, elektronikus levélcíme, telefonszáma,
 
@@ -24,7 +24,7 @@ h) a vízjogi engedélyben meghatározott tevékenység gyakorlásához kapcsol�
 
 a) az ügyfél természetes személyazonosító adatai,
 
-b) az ügyfél lakcíme, értesítési címe, elektronikus levélcíme, telefonszámai,
+b) az ügyfél lakcíme,, elektronikus levélcíme, telefonszámai,
 
 c) az ügyfél adóazonosító jele vagy adószáma, közösségi adószáma,
 

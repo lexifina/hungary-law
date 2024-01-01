@@ -102,7 +102,13 @@ b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határ
 
 35. mezőgazdasági öntözési célú kút: olyan felszín alatti vízkivételt biztosító vízilétesítmény, amely kizárólag mezőgazdasági művelés alatt álló terület mezőgazdasági vízszolgáltatását biztosítja;
 
-36.
+36. háztartási vízigény: évi 500 m3-t meg nem haladó mértékű vízhasználat, amelynek célja természetes személyek
+
+a) ivóvízellátásának, vagy
+
+b) személyes és a háztartás vezetésével összefüggő vízszükségletének
+
+## biztosítása, függetlenül a kút létesítési helye szerinti ingatlan tulajdoni viszonyaitól és az ingatlan fekvésétől.
 
 37. nem közművel összegyűjtött háztartási szennyvíz: olyan háztartási szennyvíz, amelyet a keletkezés helyéről vagy átmeneti tárolóból – közcsatornára való bekötés vagy a helyben történő tisztítás és befogadóba vezetés lehetőségének hiányában – gépjárművel szállítanak el ártalmatlanítás céljából;
 

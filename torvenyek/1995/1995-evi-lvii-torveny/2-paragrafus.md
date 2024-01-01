@@ -44,7 +44,7 @@ s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biz
 
 (2) Az (1) bekezdésben felsorolt feladatok közül
 
-a) a Kormány az a), f), i) és az m) pontban;
+a) a Kormány az a), az f) és az m) pontban, valamint a (2a) bekezdésben foglaltak figyelembevételével az i) pontban;
 
 b) a vízgazdálkodásért felelős miniszter a c), d), e), g), j) és a k) pontban;
 
@@ -55,6 +55,8 @@ d) a vízügyi igazgatási szervek irányításáért felelős miniszter és a v
 e) az állami beruházásokért felelős miniszter, a vízügyi igazgatási szervek irányításáért felelős miniszter és a vízgazdálkodásért felelős miniszter bevonásával az r) pontban
 
 meghatározott feladatokat látja el.
+
+(2a) Az (1) bekezdés i) pontja szerinti adatgyűjtés magában foglalja a népszámlálás és mikrocenzus útján történő – különösen a 28/A. § (1c) és (1d) pontja szerinti háztartási kutakra vonatkozó – adatgyűjtést is, amelynek elrendeléséről és végrehajtásáról az Országgyűlés, valamint a Központi Statisztikai Hivatal gondoskodik.
 
 (3) Az (1) bekezdés c), d) és s) pontja szerinti feladatokat a vízgazdálkodásért felelős miniszter a Kormány által meghatározott munkamegosztás alapján az érintett miniszterek közreműködésével látja el.
 
