@@ -8,7 +8,7 @@ a) tulajdonjog,
 
 b) üzemben tartói jog,
 
-c) bérleti jog,
+c) bérleti vagy haszonbérleti jog,
 
 d) jelzálogjog,
 

@@ -42,13 +42,17 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 15. halászhajó: hal vagy egyéb vízi élőlény kifogásához szükséges berendezésekkel felszerelt és kereskedelmi célú halászatra használt úszólétesítmény;
 
+15a. halgazdálkodást támogató hajó: hal vagy egyéb vízi élőlény kifogásához, őrzéséhez, a horgászati tevékenység ellenőrzéséhez szükséges berendezésekkel, eszközökkel felszerelt, bemutatási célú, ökológiai, szelektív halászatra, halőrzésre szolgáló, a halgazdálkodásra jogosult által szervezett és felügyelt horgásztatásra használt úszólétesítmény;
+
 16. határkikötő: vámúttá nyilvánított kikötő, ahol az úszólétesítmények és az azokon lévő személyek, áruk be-, illetőleg kiléptetése történik;
 
 17. havaria: az úszólétesítményt ért vagy az úszólétesítmény által okozott baleset;
 
+17a. horgászkikötő: halgazdálkodást támogató hajók és kedvtelési célú hajózást szolgáló csónakok kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
+
 18. kedvtelési célú hajózás: vízijármű nem gazdasági célú, szabadidő eltöltését szolgáló használata;
 
-19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó kivételével;
+19. kereskedelmi hajó: olyan hajó, amellyel gazdasági célú hajózási tevékenységet végeznek, a halászhajó vagy halgazdálkodást támogató hajó kivételével;
 
 20. kikötő: az úszólétesítmények kikötésére kijelölt vagy azok részére fenntartott partterület, amely alkalmas a víziközlekedéssel, személyek be- és kiszállításával, árukezeléssel, áruátrakással és elosztással, valamint az úszólétesítmények hajózásra alkalmasságának megőrzésével kapcsolatos tevékenység végzésére, és a hajózási hatóság üzemeltetési engedélyével rendelkezik;
 
