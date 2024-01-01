@@ -1,5 +1,3 @@
-## 2. §[^2]
-
 ## Szabadalmi díjak
 
 3. §[^3] (1) A szabadalmi bejelentési és kutatási díj 37 400 forint, amely a tizenegyediktől a huszadik igénypontig igénypontonként 1900, a huszonegyediktől a harmincadik igénypontig igénypontonként 3800, a harmincegyedik igényponttól pedig igénypontonként 5600 forinttal emelkedik.
@@ -16,7 +14,7 @@
 
 (7) A szabadalmi fenntartási díj összege
 
-a) az elsőtől a harmadik évig évente 17 600 forint;
+a)[^4]
 
 b) a negyedik évre 88 000 forint;
 
@@ -32,5 +30,5 @@ g) a tizenkilencediktől a huszadik évig évente 165 000 forint.
 
 (8) Átmeneti szabadalmi oltalom esetén a szabadalmi fenntartási díj összege évente 165 000 forint.
 
-[^2]: A 2. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
 [^3]: A 3. § a 35/2011. (XII. 22.) KIM rendelet 6. §-ával megállapított szöveg.
+[^4]: A 3. § (7) bekezdés a) pontját a 9/2023. (VIII. 31.) KIM rendelet 4. §-a hatályon kívül helyezte.
