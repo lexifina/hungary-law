@@ -1,3 +1,3 @@
-35. §[^65]
+35. §[^69]
 
-[^65]: A 32–35. §-t a 36. § (2) bekezdése hatályon kívül helyezte.
+[^69]: A 32–35. §-t a 36. § (2) bekezdése hatályon kívül helyezte.

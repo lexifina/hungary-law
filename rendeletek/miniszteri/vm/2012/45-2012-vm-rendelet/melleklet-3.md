@@ -8,7 +8,7 @@
 
 | ..................................................... gyűjtőhely kezelő |
 
-3. melléklet a 45/2012. (V. 8.) VM rendelethez[^68]
+3. melléklet a 45/2012. (V. 8.) VM rendelethez[^72]
 
 Kereskedelmi okmány állati melléktermékek és származtatott termékek Magyarországon belül történő szállításához
 
@@ -76,4 +76,4 @@ Kereskedelmi okmány állati melléktermékek és származtatott termékek Magya
 
 *** Csak 3. kategóriájú és takarmányozásra szánt anyagok, valamint elhullott állatok esetén.
 
-[^68]: A 3. melléklet a 46/2015. (VIII. 7.) FM rendelet 64. § 19. pontja szerint módosított szöveg.
+[^72]: A 3. melléklet a 46/2015. (VIII. 7.) FM rendelet 64. § 19. pontja szerint módosított szöveg.

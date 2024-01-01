@@ -1,24 +1,4 @@
-## A melléktermék birtokos neve és székhelye:
-
-## Telephely címe: , Telephely azonosító száma:
-
-## A jelentésért felelős neve: , telefonszáma: ,
-
-## e-mail címe:
-
-| Az átvevő neve | Székhelye | Telephelye | Azonosító száma | Átadott melléktermék kategóriája és tömege (kg) |
-
-|  |  |  |  | 1. kategória | 2. kategória | 3. kategória |
-
-| Összesen |  |  |  |  |  |  |
-
-## Kelt: ..........................................................., ........................... (év) ....................................................... (hónap) ................ (nap)
-
-## ...................................................................
-
-## cégszerű aláírás
-
-5. melléklet a 45/2012. (V. 8.) VM rendelethez[^70]
+5. melléklet a 45/2012. (V. 8.) VM rendelethez[^74]
 
 I. Jelentés a ....................... évben átvett állati eredetű melléktermékekről, az átadók szerinti bontásban
 
@@ -120,4 +100,4 @@ II. Jelentés a ....................... évben átvett és kezelt állati eredet
 
 III. Jelentés a ....................... évben átvett és feldolgozva vagy feldolgozatlanul továbbadott állati eredetű melléktermékekről
 
-[^70]: Az 5. melléklet a 46/2015. (VIII. 7.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^74]: Az 5. melléklet a 46/2015. (VIII. 7.) FM rendelet 63. § (1) bekezdésével megállapított szöveg.

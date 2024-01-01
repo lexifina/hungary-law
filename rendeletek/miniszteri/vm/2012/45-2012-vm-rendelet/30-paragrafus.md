@@ -2,16 +2,16 @@
 
 (2) Az állati hulladékok kezelésére és a hasznosításukra készült termékek forgalomba hozatalának állategészségügyi szabályaira, valamint a fertőző szivacsos agyvelőbántalmak megelőzésére, az ellenük való védekezésre, illetve leküzdésükre vonatkozó jogszabályok szerinti távoli területek meghatározásáról szóló, 31103/2004. számú FVM Közleményben szereplő távoli területeket az 1069/2009/EK európai parlamenti és tanácsi rendeletnek megfelelő távoli területnek kell tekinteni mindaddig, amíg a távoli területre vonatkozóan új közlemény nem jelenik meg a Vidékfejlesztési Értesítőben.
 
-(3)[^58] A telephelyi gyűjtőhelyek kivételével a jelenlegi állati eredetű melléktermékek gyűjtésére használt és működési engedéllyel nem rendelkező létesítményeket a járási hivatal e rendelet hatálybalépését követő egy éven belül felülvizsgálja és határoz arról, hogy
+(3)[^60] A telephelyi gyűjtőhelyek kivételével a jelenlegi állati eredetű melléktermékek gyűjtésére használt és működési engedéllyel nem rendelkező létesítményeket a járási hivatal e rendelet hatálybalépését követő egy éven belül felülvizsgálja és határoz arról, hogy
 
 a) a létesítmény nyilvántartásba vett települési gyűjtőhelyként, a 13. §-ban meghatározott feltételek teljesítése mellett tovább üzemelhet, amennyiben a feltételeket a felülvizsgálat időpontjában teljesíti vagy azokat a felülvizsgálatot követő tizenkét hónapon belül teljesíteni fogja;
 
 b) a létesítmény működését megtiltja.
 
-(4)[^59] Az olyan üzemeltetőknek, amelyek nem rendelkeznek az 1069/2009/EK európai parlamenti és tanácsi rendelet szerinti és az e rendelet alapján a megyei kormányhivatal által kiadott nyilvántartási számmal, illetve engedéllyel, a rendelet hatálybalépését követő hatvan napon belül kérelmezniük kell a nyilvántartásba vételt, illetve az engedély kiadását a 18–20. §-ban foglaltaknak megfelelően.
+(4)[^61] Az olyan üzemeltetőknek, amelyek nem rendelkeznek az 1069/2009/EK európai parlamenti és tanácsi rendelet szerinti és az e rendelet alapján a megyei kormányhivatal által kiadott nyilvántartási számmal, illetve engedéllyel, a rendelet hatálybalépését követő hatvan napon belül kérelmezniük kell a nyilvántartásba vételt, illetve az engedély kiadását a 18–20. §-ban foglaltaknak megfelelően.
 
-(5)[^60] A 71/2003. (VI. 27.) FVM rendelet szerinti állati hulladéktemetőket csak a vármegyei kormányhivatal engedélyével lehet megbontani. A megszűnt állati hulladéktemető területén a megszűnéstől számított 30 évig mezőgazdasági művelést nem szabad folytatni, a földrészletet az ingatlan-nyilvántartásban művelés alól kivett területként kell nyilvántartani.
+(5)[^62] A 71/2003. (VI. 27.) FVM rendelet szerinti állati hulladéktemetőket csak a vármegyei kormányhivatal engedélyével lehet megbontani. A megszűnt állati hulladéktemető területén a megszűnéstől számított 30 évig mezőgazdasági művelést nem szabad folytatni, a földrészletet az ingatlan-nyilvántartásban művelés alól kivett területként kell nyilvántartani.
 
-[^58]: A 30. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja szerint módosított szöveg.
-[^59]: A 30. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
-[^60]: A 30. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 5. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^60]: A 30. § (3) bekezdés nyitó szövegrésze a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja szerint módosított szöveg.
+[^61]: A 30. § (4) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 5. pontja szerint módosított szöveg.
+[^62]: A 30. § (5) bekezdése a 46/2015. (VIII. 7.) FM rendelet 64. § 5. pontja, a 130/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
