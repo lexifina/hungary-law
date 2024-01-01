@@ -1,3 +1,5 @@
 ## 4. A helyi önkormányzat működésével kapcsolatos rendelkezések
 
-5. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény szerinti közmeghallgatás a szervezeti és működési szabályzatban meghatározott rend szerint, a helyi lakosság, valamint a helyben érdekelt szervezetek képviselőinek személyes megjelenése nélkül is megtartható.
+5. §[^4]
+
+[^4]: Az 5. §-t az 543/2023. (XII. 12.) Korm. rendelet 16. §-a hatályon kívül helyezte.
