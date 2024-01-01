@@ -16,35 +16,37 @@ b) az ivarszervek reprodukciós funkcióját javító kezelések;
 
 c)[^2] az emberi reprodukcióra irányuló különleges beavatkozások közül
 
-ca) a testen kívüli megtermékenyítés és embrióbeültetés (R. 1. számú melléklet 1. pont, 4. pont, 5. pont),
+ca) az R. 1. számú mellékletében meghatározott 1.1. pont szerinti stimulációból legfeljebb öt beavatkozás,
 
-cb)[^3] az ivarsejt adományozásával vagy saját célra lefagyasztott ivarsejt felhasználásával történő testen kívüli megtermékenyítés és embrióbeültetés (R. 1. számú melléklet 2. pont),
+cb) az R. 1. számú mellékletében meghatározott 14. és 15. pont szerinti beavatkozásból beavatkozástípusonként legfeljebb hat beavatkozás, azzal, hogy meddőségi szakambulanciáról legfeljebb az első három, 15. pont szerinti beavatkozás számolható el,
 
-cc) embrióadományozással végzett embrióbeültetés (R. 1. számú melléklet 3. pont), valamint
+cc) saját embrióval vagy embrióadományozással végzett embrióbeültetés.
 
-cd) a női ivarsejt megtermékenyülését, illetőleg megtermékenyíthetőségét, valamint a megtermékenyített ivarsejt megtapadását, fejlődését elősegítő egyéb módszer (R. 1. számú melléklet 6–7. pont)
+(1a)[^3] Az (1) bekezdés
 
-körében legfeljebb öt teljes, az embrió beültetésével végződő beavatkozás – ideértve a felsorolt eljárások során keletkezett, fagyasztva tárolt embriók beültetését is, ha azok a korábbi eljárások során kerültek fagyasztásra (R. 1. számú melléklet 8. pont) –, illetve
+a) c) pont ca) alpontja szerinti esetben újabb stimuláció addig nem indítható, amíg az adott pár esetében lehetőség van a saját célra letétbe helyezett embriók felhasználására, az R.-ben meghatározott esetek kivételével,
 
-ce) a házastárs, illetve élettárs ivarsejtjeivel végzett mesterséges ondóbevitelből (R. 1. számú melléklet 9.1. pont) legfeljebb hat,
+b) c) pont ca) alpontja szerinti esetben, ha öt stimuláció eredményeként legalább egy gyermek élve születik, további négy stimuláció vehető igénybe az Egészségbiztosítási Alap terhére, azzal, hogy a négy további stimuláció a nő reprodukciós kora felső határának eléréséig, de legfeljebb 45. életéve betöltéséig kezdhető meg, kivéve, ha az a) pont szerint az adott pár esetében lehetőség van a saját célra letétbe helyezett embriók felhasználására,
 
-cf) adományozott ivarsejttel végzett mesterséges ondóbevitelből (R. 1. számú melléklet 9.2. pont) legfeljebb hat
+c) c) pont cb) alpontja szerinti esetben, ha a kezeléssorozat eredményeként legalább egy gyermek élve születik, úgy további négy teljes kezeléssorozat vehető igénybe az Egészségbiztosítási Alap terhére.
 
-beavatkozás.
-
-(1a)[^4] Ha az (1) bekezdés c) pont ca)–cd) alpontja szerinti öt teljes, az embrió beültetésével végződő beavatkozás eredményeként legalább egy gyermek élve születik, úgy további négy teljes beavatkozás vehető igénybe az Egészségbiztosítási Alap terhére.
-
-(1b)[^5] Ha az (1) bekezdés c) pont ce) és cf) alpontja szerinti beavatkozások eredményeként legalább egy gyermek élve születik, úgy további négy teljes beavatkozás vehető igénybe az Egészségbiztosítási Alap terhére.
+(1b)[^4]
 
 (2) Az (1) bekezdésben foglaltakon túl a meddőség kezelése körébe tartozik
 
-a)[^6] az egészségi okból, szakorvosi javaslat alapján ivarsejteket fagyasztva tárolás céljából a letétet elfogadó szolgáltatónál ivarsejt letétbe helyezése az (1) bekezdés c) pontjában foglalt beavatkozásokhoz szükséges mennyiségben, az R. 4. számú mellékletében felsorolt javallatoknak megfelelően,
+a)[^5] az egészségi okból, szakorvosi javaslat alapján ivarsejteket fagyasztva tárolás céljából a letétet elfogadó szolgáltatónál ivarsejt letétbe helyezése az (1) bekezdés c) pontjában foglalt beavatkozásokhoz szükséges mennyiségben, az R. 4. számú mellékletében felsorolt javallatoknak megfelelően,
 
-b) az embrió Magyarországon végzett, későbbi meddőségkezelés céljára – a szolgáltató által meghatározott, indokolt számban, legfeljebb azonban 5 év időtartamra – embrióletétbe helyezése.
+b)[^6] az embrió Magyarországon végzett, későbbi meddőségkezelés céljára – a szolgáltató által meghatározott, indokolt számban – embrióletétbe helyezése és tárolása.
+
+(3)[^7] A nem a kötelező egészségbiztosítás terhére végzett petesejtleszívásból létrejött embriók tárolása és beültetése nem vehető igénybe az Egészségbiztosítási Alap terhére.
+
+(4)[^8] A (3) bekezdésben foglaltakat nem kell alkalmazni a Magyarországon végzett meddőségkezelés eredményeként létrejött embriók esetén.
 
 [^1]: Az 1. § a 30/1998. (VI. 24.) NM rendelet 8. §-ának (2) bekezdése szerint módosított szöveg.
-[^2]: A 2. § (1) bekezdésének c) pontja a 30/1998. (VI. 24.) NM rendelet 8. § (2) bekezdésének b) pontjával megállapított, az 50/2001. (XII. 28.) Korm. rendelet 1. §-ának (1) bekezdése szerint módosított szöveg. E módosító rendelet 2. §-ának (2) és (3) bekezdése alapján a 2002. 01. 27. napjáig elvégzett, az emberi reprodukcióra irányuló különleges beavatkozásokat a teljes beavatkozások számának szempontjából figyelembe kell venni, erről a biztosított a szolgáltatás igénybevételét megelőzően írásban nyilatkozik.
-[^3]: A 2. § (1) bekezdés c) pont cb) alpontja a 68/2013. (XI. 15.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (1a) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be.
-[^5]: A 2. § (1b) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be.
-[^6]: A 2. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 6. §-a szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontja a 70/2023. (XII. 23.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1a) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be, szövege a 70/2023. (XII. 23.) BM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § (1b) bekezdését a 18/2017. (VIII. 31.) EMMI rendelet 1. §-a iktatta be, a 70/2023. (XII. 23.) BM rendelet 5. §-a hatályon kívül helyezte.
+[^5]: A 2. § (2) bekezdés a) pontja a 44/2016. (XII. 28.) EMMI rendelet 6. §-a szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés b) pontja a 70/2023. (XII. 23.) BM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdését a 70/2023. (XII. 23.) BM rendelet 2. § (4) bekezdése iktatta be.
+[^8]: A 2. § (4) bekezdését a 70/2023. (XII. 23.) BM rendelet 2. § (4) bekezdése iktatta be.
