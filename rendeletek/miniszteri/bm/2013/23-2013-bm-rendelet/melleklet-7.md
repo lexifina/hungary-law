@@ -96,7 +96,7 @@
 
 ## Ha a korábbi adatok megadása során „Egyéb” válasz felhasználásra került, itt minden esetben konkrétan meg kell jelölni, hogy az egyéb fogalom mit jelent.
 
-## 20.[^15] A sérülés természete (Az alapellátó orvos tölti ki a BNO kód és kórisme magyarul történő beírásával.)
+## 20.[^21] A sérülés természete (Az alapellátó orvos tölti ki a BNO kód és kórisme magyarul történő beírásával.)
 
 ## A sérülés típusa:
 
@@ -290,11 +290,11 @@
 
 ## Az orvos minden esetben köteles a BNO kódot megjelölni, a kórismét magyarul meghatározni. Politraumás baleseteknél az orvos a vezető kórismének megfelelő választ adja meg, a mellette levő számok beírásával.
 
-## 21.[^16] Felmentési napok száma
+## 21.[^22] Felmentési napok száma
 
 ## „A sérülés típusa” rész jobb sarkában lévő 3 négyzetbe a szolgálat (munkavégzés) alóli felmentési naptári napok számát kell beírni. Ha a felterjesztés időpontjáig (30 napon belül) ez nem ismert, úgy üresen kell hagyni, és azt az ismertté válás időpontjában kell közölni a munkavédelmi felügyeletet ellátó szervvel.
 
-## 22.[^17] A sérülés súlyossága (Az alapellátó orvos tölti ki.)
+## 22.[^23] A sérülés súlyossága (Az alapellátó orvos tölti ki.)
 
 ## 1. Könnyű (1-8 nap)
 
@@ -346,6 +346,6 @@
 
 Bejelentendő foglalkozási megbetegedések jegyzéke
 
-[^15]: A 6. melléklet 20. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.
-[^16]: A 6. melléklet 21. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.
-[^17]: A 6. melléklet 22. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.
+[^21]: A 6. melléklet 20. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.
+[^22]: A 6. melléklet 21. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.
+[^23]: A 6. melléklet 22. pontja a 36/2015. (VI. 16.) BM rendelet 31. § b) pontjával megállapított szöveg.

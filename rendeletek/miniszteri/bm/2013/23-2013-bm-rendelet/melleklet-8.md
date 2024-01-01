@@ -294,7 +294,7 @@
 
 |  | D17 | A munkavégzéssel vagy a munkakörnyezettel kapcsolatos egyéb betegségek |
 
-8. melléklet a 23/2013. (VI. 11.) BM rendelethez[^18]
+8. melléklet a 23/2013. (VI. 11.) BM rendelethez[^24]
 
 Bejelentés foglalkozási megbetegedésről (mérgezésről), fokozott expozícióról
 
@@ -430,4 +430,4 @@ a 8–10. számjegy a bejelentő orvos által adott sorszám
 
 (KSH, FEOR-08)
 
-[^18]: A 8. melléklet a 16/2015. (IV. 17.) BM rendelet 12. §-a szerint módosított szöveg.
+[^24]: A 8. melléklet a 16/2015. (IV. 17.) BM rendelet 12. §-a szerint módosított szöveg.

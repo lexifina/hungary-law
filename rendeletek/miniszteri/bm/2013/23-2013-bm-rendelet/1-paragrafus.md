@@ -2,13 +2,13 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-a) alapellátó orvos: az Országgyűlési Őrség hivatásos állományának, köztisztviselői állományának és munkavállalóinak (a továbbiakban együtt: személyi állomány) foglalkozás-egészségügyi alapellátását, valamint az Országgyűlési Őrség hivatásos állománya vonatkozásában a gyógyító-megelőző ellátást végző orvos,
+a)[^2] alapellátó orvos: az Országgyűlési Őrség hivatásos állományának, köztisztviselői állományának és munkavállalóinak (a továbbiakban együtt: személyi állomány) foglalkozás-egészségügyi ellátását, valamint gyógyító-megelőző ellátását végző orvos,
 
-b) egészségügyi alapellátó egység:
+b)[^3] egészségügyi alapellátó egység:
 
-ba) az Országgyűlési Őrség hivatásos állománya vonatkozásában a rendőrség azon szervezeti egysége vagy intézménye, amely a rendőrség és az Országgyűlési Őrség megállapodása alapján az Országgyűlési Őrség hivatásos állományának gyógyító-megelőző, fogászati, pszichológiai és foglalkozás-egészségügyi ellátását végzi,
+ba) az Országgyűlési Őrség hivatásos állománya vonatkozásában az Országgyűlési Őrség azon szervezeti eleme vagy az Országgyűlési Őrség azon szervezeti eleme és az Országgyűlési Őrségnek valamely rendvédelmi szervvel kötött megállapodása alapján a rendvédelmi szerv azon szervezeti egysége vagy intézménye, amely az Országgyűlési Őrség hivatásos állományának gyógyító-megelőző, pszichológiai és foglalkozás-egészségügyi ellátását végzi,
 
-bb) az Országgyűlési Őrség köztisztviselői és munkavállalói állománya vonatkozásában az Országgyűlési Őrséggel kötött megállapodás alapján az Országgyűlési Őrség köztisztviselői és munkavállalói állományának fogászati, pszichológiai és foglalkozás-egészségügyi ellátását végző szolgáltató,
+bb) az Országgyűlési Őrség köztisztviselői és munkavállalói állománya vonatkozásában az Országgyűlési Őrség azon szervezeti eleme vagy az Országgyűlési Őrség azon szervezeti eleme és az Országgyűlési Őrségnek valamely rendvédelmi szervvel kötött megállapodása alapján a rendvédelmi szerv azon szervezeti egysége vagy intézménye, amely az Országgyűlési Őrség köztisztviselői és munkavállalói állományának gyógyító-megelőző és foglalkozás-egészségügyi ellátását végzi,
 
 c) foglalkozás-egészségügyi szolgálat: az egészségügyi alapellátó egységen belül foglalkozás-egészségügyi ellátást biztosító személy vagy személyek,
 
@@ -41,3 +41,6 @@ mc) az Országgyűlési Őrség tömegkapcsolatainak erősítése céljából az
 érte,
 
 n) szolgálati kötelmekkel összefüggő betegség: az Országgyűlési Őrség hivatásos állománya tagjának az Mvt.-ben meghatározott foglalkozási megbetegedése.
+
+[^2]: Az 1. § a) pontja a 86/2023. (XII. 28.) BM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § b) pontja a 86/2023. (XII. 28.) BM rendelet 1. §-ával megállapított szöveg.

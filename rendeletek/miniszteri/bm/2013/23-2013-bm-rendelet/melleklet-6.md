@@ -164,10 +164,10 @@
 
 | sérült (hozzátartozó) |  |
 
-6. melléklet a 23/2013. (VI. 11.) BM rendelethez[^14]
+6. melléklet a 23/2013. (VI. 11.) BM rendelethez[^20]
 
 KITÖLTÉSI ÚTMUTATÓ A BALESETI JEGYZŐKÖNYVHÖZ
 
 A nyomtatvány valamennyi, szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni. A kódnégyzetekbe (a továbbiakban: négyzet) – a kivizsgálás tényeinek megfelelő – kódszámot (a továbbiakban: szám) kell beírni.
 
-[^14]: A 6. melléklet cím szövege a 45/2022. (XII. 20.) BM rendelet 72. § b) pontja szerint módosított szöveg.
+[^20]: A 6. melléklet cím szövege a 45/2022. (XII. 20.) BM rendelet 72. § b) pontja szerint módosított szöveg.
