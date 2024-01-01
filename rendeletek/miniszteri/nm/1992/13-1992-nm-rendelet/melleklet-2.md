@@ -228,7 +228,7 @@
 
 | 11.3. | Azon kérelmezők vagy járművezetők esetében, akik átmenetileg vagy véglegesen olyan, a fenti pontokban nem említett valamely betegségben szenvednek, amely a járművezetés biztonságát hátrányosan befolyásoló funkcionális alkalmatlanságot idéz vagy idézhet elő, az egészségi alkalmasság az erre felhatalmazott orvos szakvéleménye és – szükség esetén – rendszeres orvosi felülvizsgálat előírása mellett állapítható meg, illetve újítható meg. |
 
-2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^61]
+2. melléklet a 13/1992. (VI. 26.) NM rendelethez[^62]
 
 Az egészségügyi alkalmassági vélemény adattartalma
 
@@ -258,4 +258,4 @@ Az egészségügyi alkalmassági vélemény adattartalma
 
 13. A következő tájékoztatás: „Ezt a véleményt – ha a véleményt nem a vizsgált személy választott háziorvosa állította ki – az alkalmassági vizsgálatot végző orvos a vizsgálat elvégzését követő 15 napon belül megküldi a vizsgált személy választott háziorvosának.”
 
-[^61]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése. A 2. melléklet a 7/2021. (II. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^62]: A mellékletet a 4/2004. (XI. 17.) EüM rendelet 3. §-ának (2) bekezdése iktatta be, az eredeti melléklet szövegének megjelölését 2. mellékletre változtatta a 19/2010. (XII. 23.) NEFMI rendelet 6. § (2) bekezdése. A 2. melléklet a 7/2021. (II. 12.) EMMI rendelet 2. §-ával megállapított szöveg.

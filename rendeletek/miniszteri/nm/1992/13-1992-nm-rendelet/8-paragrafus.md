@@ -20,7 +20,7 @@ bc) a nem szervezett munkavégzés keretében dolgozó, vagy foglalkoztatásra i
 
 (2) Az (1) bekezdésben foglaltakon túl az egészségi alkalmassági vizsgálatot első fokon végző szervek lehetnek:
 
-a) a Magyar Honvédség, a rendvédelmi szervek és a nemzetbiztonsági szolgálat által kijelölt orvos, ha az érdekelt személy e szervek állományában teljesít szolgálatot vagy ilyen szervvel foglalkoztatásra irányuló jogviszonyban áll;
+a)[^28] a Magyar Honvédség, az Országgyűlési Őrség, a rendvédelmi szervek és a nemzetbiztonsági szolgálat által kijelölt orvos, ha az érdekelt személy e szervek állományában teljesít szolgálatot vagy ilyen szervvel foglalkoztatásra irányuló jogviszonyban áll;
 
 b) a MÁV Kórház és Rendelőintézet (Szolnok) és a Vasút-egészségügyi és Szolgáltató Közhasznú Társaság által kijelölt orvos, ha az érdekelt személy a vasutas biztosítottak köréről és a vasút-egészségügyi intézetekbe történő beutalás szakmai rendjéről szóló rendelet hatálya alá tartozik.
 
@@ -30,3 +30,4 @@ b) a MÁV Kórház és Rendelőintézet (Szolnok) és a Vasút-egészségügyi �
 
 [^26]: A 8. § a 16/2008. (IV. 24.) EüM rendelet 3. §-ával megállapított szöveg.
 [^27]: A 8. § (1) bekezdés a) pontja a 8/2021. (II. 19.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^28]: A 8. § (2) bekezdés a) pontja a 78/2023. (XII. 28.) BM rendelet 1. §-a szerint módosított szöveg.
