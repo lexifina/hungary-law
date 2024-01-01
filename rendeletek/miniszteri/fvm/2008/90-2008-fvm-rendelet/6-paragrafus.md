@@ -1,3 +1,3 @@
-6. §[^15]
+6. §[^16]
 
-[^15]: A 6–8. § az 5. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 6–8. § az 5. § (2) bekezdése alapján hatályát vesztette.

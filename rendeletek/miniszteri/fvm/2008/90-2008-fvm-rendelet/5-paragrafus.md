@@ -2,11 +2,11 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-(2)[^13]
+(2)[^14]
 
-(3)[^14]
+(3)[^15]
 
 (4) A rendelet rendelkezéseit a hatálybalépést követően indult eljárásokban kell alkalmazni.
 
-[^13]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^14]: Az 5. § (3) bekezdése az 5. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 5. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^15]: Az 5. § (3) bekezdése az 5. § (2) bekezdése alapján hatályát vesztette.

@@ -1,6 +1,6 @@
 ## 3.1. A szennyvíziszap komposzt mezőgazdasági felhasználását megalapozó egyszerűsített talajvédelmi terv
 
-## A szennyvíziszap komposzt mezőgazdasági felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^34] határozza meg.
+## A szennyvíziszap komposzt mezőgazdasági felhasználásának szakmai követelményeit, a felhasználást kizáró paramétereket külön jogszabály[^35] határozza meg.
 
 ## Helyszíni talajmintavétel szabályai:
 
@@ -8,7 +8,7 @@
 
 ## Laboratóriumi vizsgálatok:
 
-## A talaj és a szennyvíziszap komposzt vizsgálati paramétereit a külön jogszabály[^35] tartalmazza.
+## A talaj és a szennyvíziszap komposzt vizsgálati paramétereit a külön jogszabály[^36] tartalmazza.
 
 ## Tartalmi követelmények:
 
@@ -22,11 +22,11 @@
 
 ## – különböző növénykultúrákra kidolgozott terhelhetőségi táblázatot,
 
-## – a külön jogszabály[^36] szerinti területi érzékenység megjelölését,
+## – a külön jogszabály[^37] szerinti területi érzékenység megjelölését,
 
 ## – közegészségügyi és környezetvédelmi védőtávolságok megjelenítését,
 
-## – a külön jogszabály[^37] szerinti várakozási idő meghatározását,
+## – a külön jogszabály[^38] szerinti várakozási idő meghatározását,
 
 ## – javaslatot az egyéb beavatkozásokra,
 
@@ -82,7 +82,7 @@
 
 ## – a kijuttatás technológiáját,
 
-## – a külön jogszabály[^38] szerinti területi érzékenység megjelölést.
+## – a külön jogszabály[^39] szerinti területi érzékenység megjelölést.
 
 ## Mellékletként csatolni kell:
 
@@ -90,7 +90,7 @@
 
 ## – a felhasználásra kerülő mezőgazdasági eredetű nem veszélyes hulladék beltartalmára vonatkozó, akkreditált laboratórium által kiállított vizsgálati jegyzőkönyvet.
 
-## 3.3.[^39] Egynyári öntözésre szóló vízjogi üzemeltetési engedélyezési eljárásban az öntözővíz minőségét megállapító egyszerűsített talajvédelmi terv
+## 3.3.[^40] Egynyári öntözésre szóló vízjogi üzemeltetési engedélyezési eljárásban az öntözővíz minőségét megállapító egyszerűsített talajvédelmi terv
 
 ## Tartalmi követelmények:
 
@@ -108,7 +108,7 @@
 
 ## Az öntözővíz minőségét a 2. melléklet 2.6. pont 2–4. táblázatokban foglaltak szerint kell meghatározni.
 
-## 3.4.[^40] Szőlőtelepítést megalapozó egyszerűsített talajvédelmi terv
+## 3.4.[^41] Szőlőtelepítést megalapozó egyszerűsített talajvédelmi terv
 
 ## Ha jogszabály másként nem rendelkezik, 1500 m2-nél kisebb szőlő ültetvény telepítése esetén a következő szakmai tartalommal rendelkező talajvédelmi terv készítése szükséges.
 
@@ -406,17 +406,17 @@ Mintavételre alkalmas időpont még:
 
 A talajmintavétel eszközei: mintavétel végezhető kézi (fúrók, rétegfúrók) vagy gépi mintavevő eszközökkel. Az átlagmintát ajánlatos kb. 1 kg talaj befogadására alkalmas vízhatlan tasakban gyűjteni, melynek mérete lehetővé teszi, hogy saját anyagával kerüljön lezárásra. A mintákat mintaazonosító jeggyel kell ellátni, mely tartalmazza a gazdálkodó nevét, a vizsgálat célját, a mintavétel helyét, a tábla jelét, a minta azonosító jelét és a mintavétel mélységét.
 
-3.[^41] A humuszos talajréteg mentését megalapozó talajvédelmi terv elkészítéséhez szükséges talajmintavétel szabályai a következők:
+3.[^42] A humuszos talajréteg mentését megalapozó talajvédelmi terv elkészítéséhez szükséges talajmintavétel szabályai a következők:
 
 A humuszvagyon felmérését a más célú hasznosításra tervezett teljes termőföld területen el kell végezni. A humuszos talajréteg mélységének meghatározása fúrással történik. A fúrások helyét alapvetően előtanulmányok alapján, a terület talajtani adottságainak ismeretében kell kijelölni. Egy fúrással legfeljebb 5 ha jellemezhető, de heterogén terület esetén szükség lehet ennél sűrűbb feltárásra az eltérő talajfoltokon. Amennyiben a más célú hasznosításra tervezett termőföld terület 5 ha-nál kisebb, azt is csak homogén talajborítás esetén lehet egy fúrással jellemezni, egyébként talajfoltonként kell a fúrást elvégezni. A fúrásszelvényeket úgy kell elhelyezni, hogy a későbbiekben a humuszgazdálkodási tervrész elkészítéséhez megfelelő mennyiségű információ álljon rendelkezésre, mind a talaj humuszos rétegére, mind a humusztartalomra vonatkozóan.
 
 Vonalas létesítmények esetén homogén talajadottságú területen legalább 500 m-enként kell fúrást végezni. Amennyiben az előzetes tanulmányok szerint a terület heterogén talajadottságú, a fúrásokat ennek figyelembevételével, sűrűbben kell tervezni.
 
-[^34]: 50/2001. (IV. 3.) Korm. rendelet.
-[^35]: 27/2006. (II. 7.) Korm. rendelet.
+[^35]: 50/2001. (IV. 3.) Korm. rendelet.
 [^36]: 27/2006. (II. 7.) Korm. rendelet.
-[^37]: 50/2001. (IV. 3.) Korm. rendelet.
-[^38]: 27/2006. (II. 7.) Korm. rendelet.
-[^39]: A 3. melléklet 3.3. pontját a 109/2012. (X. 15.) VM rendelet 3. §-a iktatta be.
-[^40]: A 3. melléklet 3. pont 3.4. alpontját a 3/2013. (II. 1.) VM rendelet 3. § b) pontja iktatta be.
-[^41]: A 4. melléklet 3. pontját a 130/2009. (X. 8.) FVM rendelet 5. § (5) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
+[^37]: 27/2006. (II. 7.) Korm. rendelet.
+[^38]: 50/2001. (IV. 3.) Korm. rendelet.
+[^39]: 27/2006. (II. 7.) Korm. rendelet.
+[^40]: A 3. melléklet 3.3. pontját a 109/2012. (X. 15.) VM rendelet 3. §-a iktatta be.
+[^41]: A 3. melléklet 3. pont 3.4. alpontját a 3/2013. (II. 1.) VM rendelet 3. § b) pontja iktatta be.
+[^42]: A 4. melléklet 3. pontját a 130/2009. (X. 8.) FVM rendelet 5. § (5) bekezdése iktatta be. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. október 16. napját követően indult ügyekre kell alkalmazni.
