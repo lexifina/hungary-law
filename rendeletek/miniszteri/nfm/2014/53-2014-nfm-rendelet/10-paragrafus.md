@@ -1,4 +1,4 @@
-## 10. §[^16] A magyar lobogó alatt közlekedő hajón a kibocsátás-csökkentési módszerek hajózási hatóság által jóváhagyott kísérleti alkalmazása során nem kötelező az 5. §-ban és 7. §-ban előírt követelményeknek megfelelő tengeri hajózásban használatos üzemanyagok használata, amennyiben a következő feltételek teljesülnek:
+## 10. §[^17] A magyar lobogó alatt közlekedő hajón a kibocsátás-csökkentési módszerek hajózási hatóság által jóváhagyott kísérleti alkalmazása során nem kötelező az 5. §-ban és 7. §-ban előírt követelményeknek megfelelő tengeri hajózásban használatos üzemanyagok használata, amennyiben a következő feltételek teljesülnek:
 
 a) a hajózási hatóság legalább 6 hónappal a kísérleti alkalmazás megkezdése előtt írásban értesíti az Európai Bizottságot, és azon EGT-államok illetékes hatóságát, amelyek területén tengeri kikötő található,
 
@@ -14,4 +14,4 @@ f) a kísérlet teljes időtartamára kiterjedő hatásvizsgálatot végeznek a 
 
 g) a kísérleti alkalmazás lezárását követő 6 hónapon belül a kísérlet teljes eredményét az Európai Bizottság rendelkezésére bocsátják, továbbá a nyilvánosság számára hozzáférhetővé teszik.
 
-[^16]: A 10. § nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 75. §-ával megállapított szöveg.
+[^17]: A 10. § nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 75. §-ával megállapított szöveg.

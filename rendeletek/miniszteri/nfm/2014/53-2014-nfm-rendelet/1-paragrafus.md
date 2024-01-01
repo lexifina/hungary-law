@@ -6,10 +6,16 @@ a) a folyékony tüzelő- és fűtőanyagokra és
 
 b) a tengeri hajózásban használatos üzemanyagokra
 
-## kell alkalmazni.
+kell alkalmazni.
 
-(2) A rendelet hatálya
+(2)[^1] A rendelet hatálya
 
-a) a mintavételező szervezetre és
+a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövetség),
 
-b) a forgalmazóra
+b) a mintavételező szervezetre és
+
+c) a forgalmazóra
+
+terjed ki.
+
+[^1]: Az 1. § (2) bekezdése a 29/2023. (XII. 27.) EM rendelet 1. §-ával megállapított szöveg.

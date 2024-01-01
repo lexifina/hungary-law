@@ -1,8 +1,10 @@
-15. §[^17] (1) A mintavételező szervezet az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról – a tárgyév folyamán a 12. és 13. §-nak megfelelően végzett mintavételezés és a 14. § szerinti elemzés eredményeire alapozottan – a tárgyévet követő év június 15-ig jelentést küld a miniszternek.
+15. §[^18] (1) Az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról szóló jelentést (a továbbiakban: jelentés) a miniszter számára a Szövetség készíti elő, és a tárgyévet követő év május 31-ig megküldi a miniszternek.
 
-(2) A jelentésnek a következő adatokat kell tartalmaznia:
+(2) A jelentés a tárgyév folyamán a mintavételező szervezet által a 12. és 13. §-nak megfelelően végzett mintavételezés és a 14. § szerinti elemzés eredményein alapszik. A jelentés elkészítéséhez a mintavételező szervezet az eredményeket a Szövetség rendelkezésére bocsátja.
 
-a) az egyes üzemanyag fajták szerint vételezett minták száma, az üzemanyagfajtából a felhasznált üzemanyag mennyisége, a számított átlagos kéntartalma,
+(3) A jelentés a következő adatokat tartalmazza:
+
+a) az egyes üzemanyagfajták szerint vételezett minták száma, az üzemanyagfajtából a felhasznált üzemanyag mennyisége, a számított átlagos kéntartalma,
 
 b) a mintavételező szervezet által az összes hajón végzett ellenőrzések száma,
 
@@ -16,24 +18,24 @@ f) a tengeri közlekedésben használatos tüzelőanyagoknak a Magyarországon b
 
 g) a nemzeti célkiválasztási mechanizmusok ismertetése, kitérve a riasztásokra, valamint az egyes hajók ellenőrzésének rangsorolásában a távérzékeléses és egyéb technológiák alkalmazására és eredményeire,
 
-h) a szabálysértési eljárások és szankciók összesített száma és típusa, az illetékes hatóság által a hajók üzemeltetőire, valamint a tengeri hajózásban használatos tüzelőanyagok beszállítóira kiszabott bírságok mértéke,
+h) a szabálysértési eljárások és szankciók összesített száma és típusa, az illetékes hatóság által a hajók üzemeltetőire, valamint a tengeri hajózásban használatos tüzelőanyagok beszállítóira kiszabott bírságok mértéke, és
 
-i) az egyes hajók kapcsán a hajónapló és a tüzelőanyagok szállítójegyeinek ellenőrzését vagy a tüzelőanyag-mintavételt vagy mindkettőt követően:
+i) az egyes hajók kapcsán a hajónapló és a tüzelőanyagok szállítójegyeinek ellenőrzését vagy a tüzelőanyag-mintavételt vagy mindkettőt követően
 
 ia) a hajó adatai, így IMO-száma, típusa, kora és űrtartalma,
 
-ib) a tüzelőanyagok szállítójegyeivel, a tüzelőanyag-vételezési helyekkel, az olaj-nyilvántartási naplókkal, a hajónaplókkal, a tüzelőanyag-cserékkel és egyéb feljegyzésekkel kapcsolatos információk,
+ib) a tüzelőanyagok szállítójegyeivel, a tüzelőanyag-vételezési helyekkel, az olaj-nyilvántartási naplókkal, a hajónaplókkal, a tüzelőanyag-cserékkel és egyéb feljegyzésekkel kapcsolatos információk, valamint
 
 ic) az adott hajó ellen irányuló végrehajtó intézkedések és nemzeti szintű jogi eljárások vagy szankciók.
 
-(3) A jelentéshez a következő dokumentumokat kell csatolni:
+(4) A jelentéshez a következő dokumentumokat kell csatolni:
 
 a) a Magyarország területén bejegyzett tengeri közlekedésben használatos tüzelőanyagok beszállítóival és e tüzelőanyagok kéntartalmával kapcsolatos értesítések és kifogásoló levelek,
 
-b) beszámoló a Magyarország lobogója alatt közlekedő hajók által alkalmazott alternatív kibocsátás-csökkentési intézkedésekről, ideértve a próbákat és a kibocsátások folyamatos nyomon követését, valamint az alternatív tüzelőanyagok használatát, amely az SOx-kibocsátások folyamatos ellenőrzése mellett valósul meg, összhangban az 1. és 2. melléklettel,
+b) beszámoló a Magyarország lobogója alatt közlekedő hajók által alkalmazott alternatív kibocsátás-csökkentési intézkedésekről, ideértve a próbákat és a kibocsátások folyamatos nyomon követését, valamint az alternatív tüzelőanyagok használatát, amely az SOx-kibocsátások folyamatos ellenőrzése mellett valósul meg, összhangban az 1. és 2. melléklettel, és
 
 c) az egyes hajók kapcsán a hajónapló és a tüzelőanyagok szállítójegyeinek ellenőrzését vagy a tüzelőanyag-mintavételt vagy mindkettőt követően az adott hajótípusra vonatkozó szabványoknak vagy azzal egyenértékű műszaki megoldásoknak való megfelelés ellenőrzése keretében végzett mintavétellel és elemzéssel kapcsolatos jelentések, amelyek többek között tartalmazzák a minták számát és típusát, az alkalmazott mintavételi módszert és a mintavétel helyét.
 
-(4) A jelentést a tárgyévet követő június 30. napjáig a miniszter megküldi elektronikusan az Európai Bizottságnak.
+(5) A jelentést a tárgyévet követő június 30. napjáig a miniszter elektronikusan megküldi az Európai Bizottságnak.
 
-[^17]: A 15. § a 12/2015. (III. 31.) NFM rendelet 7. §-ával megállapított szöveg.
+[^18]: A 15. § a 29/2023. (XII. 27.) EM rendelet 3. §-ával megállapított szöveg.

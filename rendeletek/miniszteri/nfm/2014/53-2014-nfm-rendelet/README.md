@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-53-20-2
 | 2017-04-01 | 2014-53-20-2W.9 | 68/2016. (XII. 29.) NFM rendelet |
 | 2018-01-01 | 2014-53-20-2W.10 | 55/2017. (XII. 27.) NFM rendelet |
 | 2019-10-21 | 2014-53-20-2W.11 | 36/2019. (IX. 20.) ITM rendelet |
+| 2024-01-01 | 2014-53-20-2W.12 | 29/2023. (XII. 27.) EM rendelet |
