@@ -1,0 +1,1 @@
+14. § Nem lép hatályba a pénzügyi biztosíték, a céltartalék képzésére kötelezettek köréről, a pénzügyi biztosíték, a céltartalék formájáról és mértékéről, felhasználásának feltételeiről, elszámolásának és nyilvántartásának szabályairól, valamint a környezetvédelmi biztosítás részletes szabályairól szóló 271/2023. (VI. 29.) Korm. rendelet.

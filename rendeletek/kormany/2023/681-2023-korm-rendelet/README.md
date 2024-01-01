@@ -1,0 +1,9 @@
+# 681/2023. (XII. 29.) Korm. rendelet
+
+a pénzügyi biztosíték, a céltartalék, valamint a környezetvédelmi biztosítás hulladékgazdálkodással összefüggő részletes szabályairól
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-681-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-01-01 | 2023-681-20-22.1 | 681/2023. (XII. 29.) Korm. rendelet |

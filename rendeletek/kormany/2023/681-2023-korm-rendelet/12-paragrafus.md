@@ -1,0 +1,1 @@
+12. § Az e rendeletben foglaltakat a rendelet hatálybalépését követően induló hulladékgazdálkodási engedélyezési eljárásokban és a 3. § (2) bekezdése szerinti hulladékgazdálkodási engedélymódosítási eljárásokban kell alkalmazni.

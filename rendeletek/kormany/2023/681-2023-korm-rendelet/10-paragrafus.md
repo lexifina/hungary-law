@@ -1,0 +1,3 @@
+10. § (1) A Ht. 71. § (1) bekezdés c) pontja szerinti bejelentési kötelezettség alá tartozó gazdálkodó szervezetnek a környezetvédelmi biztosítással vagy ezzel egyenértékű pénzügyi garanciával kell rendelkeznie a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdésében foglalt költségek fedezésére.
+
+(2) A Ht. 71. § (1) bekezdés c) pontja szerinti gazdálkodó szervezet Magyarország területéről történő hulladék export tevékenysége során felmerülő környezeti kár bekövetkezése esetén az országos hulladékgazdálkodási hatóság jár el a biztosítási összeg kifizetésével kapcsolatban a hulladékszállításról szóló, 2006. június 14-i 1013/2006/EK európai parlamenti és tanácsi rendelet 6. cikkében foglaltak szerint.
