@@ -12,6 +12,6 @@ b) az elhelyezett építményeket karbantarthatja, kijavíthatja, átalakíthatj
 
 (5) A Hatóság (1) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
 
-(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a hatóság a döntését az ügyféllel hirdetményi úton közli. A Hatóság az ügyfelet a döntés szövegéről a hirdetmény kifüggesztésével egyidejűleg az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a hirdetmény kifüggesztését követő 5. nap.
+(6) Ha az (1) bekezdés szerinti eljárás jelentős számú ügyfelet érint, akkor – az eljárás során a személyesen az ügyfélnek szóló végzések kivételével – a Hatóság a döntését az ügyféllel hirdetményi úton közli. A hirdetményt a Hatóság a honlapján helyezi el, azzal egyidejűleg az ügyfelet a döntés szövegéről az adott ügyfajtára vonatkozó egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei a hirdetményi úton történő közléshez kapcsolódóan állnak be. A döntés közlésének napja a honlapon történt közzétételét követő 5. nap.
 
 (7) Az (1) bekezdés szerinti eljárásban is megfelelően alkalmazni kell a 95. § (5) és (7)–(11) bekezdését.

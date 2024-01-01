@@ -2,7 +2,7 @@
 
 40/A. § (1) A Hatóság a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás (árverés, pályázat) megindítását megelőzően a (2)–(7) bekezdés szerint egyeztet az érdekeltekkel.
 
-(2) A Hatóság a kiírási dokumentáció tervezetét a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően legalább harminc nappal hirdetőtábláján való kifüggesztéssel és internetes honlapján közzéteszi.
+(2) A Hatóság a kiírási dokumentáció tervezetét a frekvenciahasználati jogosultság megszerzését szolgáló versenyeztetési eljárás megindítását megelőzően legalább harminc nappal internetes honlapján közzéteszi.
 
 (3) A kiírási dokumentáció tervezetének (2) bekezdés szerinti közzétételétől számított harminc napon belül bárki írásban megküldheti a Hatóság részére a kiírási dokumentáció tervezetére vonatkozó álláspontját, javaslatát, egyéb észrevételét (e § alkalmazásában a továbbiakban: észrevétel). A beérkezett észrevételek a Hatóságot nem kötik, a Hatóság számára tájékoztató jelleggel bírnak és az észrevételek figyelembevételét vagy figyelmen kívül hagyását a Hatóság nem köteles indokolni.
 
