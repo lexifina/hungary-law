@@ -1,0 +1,3 @@
+14. § A Pmt. 30. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A szolgáltató bejelentés alapjául szolgáló adat, tény, körülmény észlelése esetén az üzleti kapcsolatot az ügyféllel azonnali hatállyal megszüntetheti, amennyiben a felmondási idővel járó késedelem azzal a veszéllyel jár, hogy a szolgáltató az ügyfél ügyleteinek teljesítése miatt vagyoni haszonszerzés mellett bűncselekményből származó ügyletek végrehajtásában működne közre és az üzleti kapcsolat azonnali hatállyal történő megszüntetésével ellentétes bűnmegelőzési, bűnfelderítési vagy nyomozási érdek a pénzügyi információs egység jelzése alapján nem áll fenn. A szolgáltatónak ebben az esetben nem kell tájékoztatnia az ügyfelet a felmondás okáról.”
