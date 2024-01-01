@@ -1,5 +1,3 @@
 ## 11. A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet módosítása
 
-32. §[^38]
-
-[^38]: A 32. § a 63. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+32. § A megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók akkreditációjáról, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokról szóló 327/2012. (XI. 16.) Korm. rendelet 48. § (5) bekezdésében a „2023.” szövegrész helyébe a „2024.” szöveg lép.

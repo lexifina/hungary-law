@@ -1,3 +1,3 @@
-43. §[^49]
+43. §[^44]
 
-[^49]: A 43. § a 63. § (3) bekezdés alapján 2024. január 2-án lép hatályba.
+[^44]: A 43. § a 63. § (3) bekezdés alapján 2024. január 2-án lép hatályba.
