@@ -79,9 +79,3 @@ A toborzási adatbázis adatköre
 ## 3. lakcím, telefonszám, email cím
 
 ## II.
-
-## 1. szakmai tapasztalat
-
-## 2. munkáltató megnevezése, tevékenységi területe
-
-## 3. betöltött feladatkör/munkakör

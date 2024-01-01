@@ -10,6 +10,8 @@
 
 (4a) A munkáltatói jogkör gyakorlója a szülői szabadságot – a (2) bekezdéstől eltérően – a kormánytisztviselő kérésének megfelelő időpontban adja ki. A kormánytisztviselőnek a szabadság kiadására vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie. A munkáltatói jogkör gyakorlója az államigazgatási szerv működését közvetlenül és súlyosan érintő okból a szülői szabadság kiadását – a 102/A. § (1) bekezdése szerinti határidőn belül – legfeljebb hatvan nappal elhalaszthatja. A halasztás indokát és a szabadság kiadásának javasolt időpontját a kormánytisztviselővel egyidejűleg írásban kell közölni.
 
+(4b) A munkáltatói jogkör gyakorlója a 102. § (1) és (2) bekezdése szerinti pótszabadságot – a (2) bekezdéstől eltérően – a kormánytisztviselő kérésének megfelelő időpontban adja ki. A kormánytisztviselőnek a szabadság kiadására vonatkozó igényét a szabadság kezdete előtt legkésőbb tizenöt nappal be kell jelentenie.
+
 (5) A szabadságolási tervben foglaltaktól csak rendkívül indokolt esetben lehet eltérni és ebben az esetben a kormánytisztviselő – kivéve, ha az eltérésre a kormánytisztviselő kérelmére került sor – jogosult az ezzel összefüggésben felmerülő kára, költségei megtérítésére.
 
 (6) A munkáltatói jogkör gyakorlója a kormánytisztviselő már megkezdett szabadságát – az apasági szabadság és a szülői szabadság kivételével – kivételesen fontos érdekből megszakíthatja. Ebben az esetben a szabadság alatti tartózkodási helyről a munkahelyre, illetve a visszautazással, valamint a munkával töltött idő a szabadságba nem számít be. A kormánytisztviselőnek a megszakítással összefüggésben felmerült kárát, illetve költségeit az államigazgatási szerv köteles megtéríteni.

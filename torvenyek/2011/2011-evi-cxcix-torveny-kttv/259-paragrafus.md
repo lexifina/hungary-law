@@ -153,3 +153,5 @@ cb) teljesítményértékelésének ajánlott elemeihez, valamint minősítésé
 cc) teljesítményértékelésének módszertanára vonatkozó
 
 részletes szabályokat.
+
+(6) Felhatalmazást kap a helyi önkormányzatokért felelős miniszter, hogy rendeletben állapítsa meg a polgármester tisztségének megszűnése esetére a munkakör-átadására vonatkozó szabályokat.

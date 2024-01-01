@@ -34,6 +34,8 @@ h) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként p
 
 i) a rendvédelmi igazgatási szolgálati jogviszonyban, honvédelmi alkalmazotti jogviszonyban
 
+j) a költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban
+
 töltött időt kell figyelembe venni.
 
 (4) A kormánytisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta.
