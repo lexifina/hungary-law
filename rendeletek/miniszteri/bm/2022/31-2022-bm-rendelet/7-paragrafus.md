@@ -1,1 +1,0 @@
-7. § A 3–5. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen – annak együttes összegének mértékéig – a jóváírt 2023. évi ruházati utánpótlási ellátmány összegének legfeljebb 80%-a tartható vissza.
