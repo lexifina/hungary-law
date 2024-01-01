@@ -4,11 +4,7 @@
 
 ## 3. a Beruházások kormányzati felelőseként az emberi erőforrások miniszterét jelöli ki;
 
-## 4. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcímét a 25. Egyes vidéki térségek kiemelt kulturális fejlesztései jogcímcsoporttal egészíti ki;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## 4.[^1]
 
 ## 5. felhívja a pénzügyminisztert, hogy az emberi erőforrások minisztere bevonásával a Beruházások megvalósítása érdekében gondoskodjon
 
@@ -39,3 +35,5 @@
 | 2. | Tata | Móricz Zsigmond Városi Könyvtár új elhelyezése a Magyary Zoltán Művelődési Központ felújítása | Tata Város Önkormányzata | a megvalósítás befejezése | 890 000 000 | 0 | Emberi Erőforrások Minisztériuma |
 
 | 3. | Zebegény | Millenniumi pavilon felújítása | Millenniumi Pavilon Közhasznú Alapítvány | felújítás | 0 | 381 000 000 | Emberi Erőforrások Minisztériuma |
+
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján vissazvonásra került.
