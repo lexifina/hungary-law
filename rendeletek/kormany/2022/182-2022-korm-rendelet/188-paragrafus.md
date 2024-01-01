@@ -1,6 +1,6 @@
 ## 19. Gazdasági Kabinet
 
-188. §[^90] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
+188. §[^142] (1) A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen
 
 1. az adópolitikáért,
 
@@ -54,7 +54,7 @@
 
 26. a halgazdálkodásért,
 
-27.[^91] a hulladékgazdálkodási közszolgáltatási és hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj megállapításáért,
+27.[^143] a hulladékgazdálkodási közszolgáltatási és hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díj megállapításáért,
 
 28. a hulladékgazdálkodásért,
 
@@ -146,7 +146,8 @@ c) a Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat 15.
 
 (3) A Gazdasági Kabinet – az (1) bekezdésben foglaltakon túl – a Kormány ügydöntő jogkörrel rendelkező szerve bármely olyan előterjesztés és jelentés kapcsán, amely napirendre felvételét a Gazdasági Kabinet elnöke kéri.
 
-(4) A Gazdasági Kabinet üléseit a gazdaságfejlesztési miniszter vezeti.
+(4)[^144] A Gazdasági Kabinet üléseit a nemzetgazdasági miniszter vezeti.
 
-[^90]: A 188. § az 531/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^91]: A 188. § (1) bekezdés 27. pontja a 675/2023. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^142]: A 188. § az 531/2023. (XII. 5.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^143]: A 188. § (1) bekezdés 27. pontja a 675/2023. (XII. 29.) Korm. rendelet 23. §-a szerint módosított szöveg.
+[^144]: A 188. § (4) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 39. §-ával megállapított szöveg.

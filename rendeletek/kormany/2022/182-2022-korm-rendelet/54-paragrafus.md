@@ -24,6 +24,8 @@
 
 11. vadgazdálkodásért,
 
-12. kereskedelemért
+12.[^29]
 
 felelős tagja.
+
+[^29]: Az 54. § 12. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § h) pontja hatályon kívül helyezte.

@@ -2,9 +2,9 @@
 
 a) előkészíti az európai uniós tagsággal összefüggő kormányzati koordinációhoz kapcsolódó jogszabályokat,
 
-b) ellátja a kereskedelem, illetve az áruk szabad áramlása akadályaival kapcsolatban, jogszabályban meghatározott értesítési és bejelentési eljárásokban az egyes nemzetközi szervezetek, az Európai Unió intézményei és tagállamai felé megteendő, illetve az ezektől érkező értesítések és bejelentések továbbításával összefüggő feladatokat,
+b)[^126]
 
-c) ellátja az Európai Unió egységes belső piacának hatékony működéséhez szükséges belső piaci koordinációval kapcsolatos feladatokat, működteti a belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert és a Szolgáltatási Notifikációs Központot,
+c)[^127] működteti a Műszaki Notifikációs Központot és a Szolgáltatási Notifikációs Központot, belső piaci problémamegoldó központot (SOLVIT), valamint a belső piaci információs rendszert,
 
 d) gondoskodik a speciális notifikációnak az Európai Unió érintett intézményének történő megküldéséről,
 
@@ -19,3 +19,9 @@ fb) koordinálja a képviselet ellátásához szükséges iratok előkészítés
 fc) figyelemmel kíséri az eljárásokat és szükség szerint felhívja a Kormány eljárás tárgya szerint felelős tagját az Európai Unió Bíróságának ítéletéből esetlegesen következő jogalkotási feladatok meghatározására,
 
 g) összehangolja az európai uniós jogállamisági eljárásokban és mechanizmusokban képviselendő magyar álláspont kialakításával és képviseletével kapcsolatos feladatokat.
+
+h)[^128] gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdése hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról.
+
+[^126]: A 183/B. § b) pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § n) pontja hatályon kívül helyezte.
+[^127]: A 183/B. § c) pontja az 599/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^128]: A 183/B. § h) pontját az 599/2023. (XII. 22.) Korm. rendelet 36. § (2) bekezdése iktatta be.

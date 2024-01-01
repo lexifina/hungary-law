@@ -1,6 +1,6 @@
-## 19/A. [^92] Növekedési és Versenyképességi Kabinet
+## 19/A. [^145] Növekedési és Versenyképességi Kabinet
 
-188/A. §[^93]
+188/A. §[^146]
 
-[^92]: A 19/A. alcímet (188/A. §) a 261/2022. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
-[^93]: A 188/A. §-t az 531/2023. (XII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^145]: A 19/A. alcímet (188/A. §) a 261/2022. (VII. 21.) Korm. rendelet 4. §-a iktatta be.
+[^146]: A 188/A. §-t az 531/2023. (XII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.

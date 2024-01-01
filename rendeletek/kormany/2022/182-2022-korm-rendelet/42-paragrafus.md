@@ -1,1 +1,3 @@
-42. § A miniszter az anyakönyvi ügyekért való felelőssége körében előkészíti az anyakönyvezésre, a házasságkötési eljárásra, a névviselésre és a névváltoztatásra vonatkozó jogszabályokat.
+42. §[^25]
+
+[^25]: A 42. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § g) pontja hatályon kívül helyezte.

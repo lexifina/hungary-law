@@ -23,3 +23,7 @@ gb) gondoskodik az Európai Unió költségvetését illető saját források ki
 gc) közreműködik az európai uniós és nemzetközi támogatások felhasználásához kapcsolódó javaslatok kidolgozásában, illetve a kohéziós politika területén a pénzügyi lebonyolítási, számviteli és ellenőrzési rendszerek vonatkozásában kidolgozza azokat,
 
 h) koordinálja és harmonizálja az államháztartási belső kontroll rendszerek működtetésével, fejlesztésével, harmonizációjával és koordinációjával kapcsolatos feladatokat.
+
+(3)[^91] A miniszter az államháztartásért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – költségvetési vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
+
+[^91]: A 152. § (3) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 32. §-a iktatta be.

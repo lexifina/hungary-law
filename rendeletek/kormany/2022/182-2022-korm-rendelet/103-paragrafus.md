@@ -1,10 +1,10 @@
-## 9. A gazdaságfejlesztési miniszter feladat- és hatásköre
+## 9.[^50] A nemzetgazdasági miniszter feladat- és hatásköre
 
-103. § (1) A gazdaságfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+103. § (1)[^51] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
-2.[^28] pénz-, tőke- és biztosítási piac szabályozásáért,
+2. pénz-, tőke- és biztosítási piac szabályozásáért,
 
 3. – a 148. § (1) bekezdés 5. pontja szerinti kivétellel – a nemzetközi pénzügyi kapcsolatokért,
 
@@ -20,27 +20,33 @@
 
 9. postaügyért
 
-10.[^29] belgazdaságért,
+10. belgazdaságért,
 
-11.[^30] foglalkoztatáspolitikáért,
+11. foglalkoztatáspolitikáért,
 
-12.[^31] iparügyekért,
+12. iparügyekért
 
-13.[^32] társadalmi párbeszédért,
+13. társadalmi párbeszédért,
 
-14.[^33] vállalkozásfejlesztésért
+14. vállalkozásfejlesztésért,
+
+15. űriparfejlesztésért,
+
+16. turizmusért,
+
+17. vendéglátásért,
+
+18. kereskedelemért (a továbbiakban: belföldi kereskedelemért),
+
+19. – a 139. § 7. pontja szerinti kivétellel – harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
 
 felelős tagja.
 
-(2)[^34] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(2)[^52] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-(3)[^35]
+(3)[^53]
 
-[^28]: A 103. § (1) bekezdés 2. pontja a 238/2022. (VI. 30.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
-[^29]: A 103. § (1) bekezdés 10. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^30]: A 103. § (1) bekezdés 11. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^31]: A 103. § (1) bekezdés 12. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^32]: A 103. § (1) bekezdés 13. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^33]: A 103. § (1) bekezdés 14. pontját a 467/2022. (XI. 21.) Korm. rendelet 4. §-a iktatta be.
-[^34]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^35]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^50]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^51]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^52]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^53]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

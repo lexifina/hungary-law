@@ -14,6 +14,8 @@
 
 6. üldözött keresztények megsegítéséért és a Hungary Helps Program megvalósításáért,
 
-7. harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
+7.[^86] a 147. §-ban meghatározott feladatok tekintetében a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
 
 felelős tagja.
+
+[^86]: A 139. § 7. pontja az 599/2023. (XII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.

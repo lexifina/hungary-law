@@ -1,3 +1,3 @@
-65. § (1) A miniszter a kereskedelemért való felelőssége keretében előkészíti a kereskedelemre, a vásárokra és a piacokra, az üzletek működésére és a közraktározásra vonatkozó jogszabályokat.
+65. §[^32]
 
-(2) A miniszter a kereskedelemért való felelőssége keretében meghatározza a kereskedelem irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+[^32]: A 65. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § i) pontja hatályon kívül helyezte.

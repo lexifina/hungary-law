@@ -1,17 +1,34 @@
-## 16. A területfejlesztési miniszter feladat- és hatásköre
+## 16.[^106] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
 
-178. § (1) A területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+178. §[^107] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. területfejlesztésért,
 
-2. területfejlesztés stratégiai tervezéséért,
+2. közbeszerzésekért,
 
-3. közbeszerzésekért,
+3. európai uniós források felhasználásáért,
 
-4. európai uniós források felhasználásáért,
+4. – a 30. § (7) és (8) bekezdésében meghatározott kivétellel – közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
-5. az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásért
+5. – a 30. § (5) bekezdésében meghatározott kivétellel – közigazgatás-fejlesztésért,
+
+6. közigazgatás-szervezésért,
+
+7. helyi önkormányzatokért,
+
+8. településüzemeltetésért,
+
+9. helyi önkormányzatok törvényességi felügyeletéért,
+
+10. ingatlan-nyilvántartásért,
+
+11. térképészetért,
+
+12. anyakönyvi ügyekért,
+
+13. az Európa Kulturális Fővárosa pályázati programmal kapcsolatos feladatok koordinálásáért
 
 felelős tagja.
 
-(2) A miniszter tevékenységét a Kit. 20. § (2) bekezdés b) pontja alapján a Miniszterelnökség segíti.
+[^106]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^107]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.

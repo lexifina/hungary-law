@@ -1,5 +1,3 @@
-15. § A miniszter a vendéglátásért való felelőssége keretében
+15. §[^11]
 
-a) előkészíti a vendéglátásra vonatkozó jogszabályokat, valamint
-
-b) meghatározza a vendéglátás irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+[^11]: A 15. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § c) pontja hatályon kívül helyezte.
