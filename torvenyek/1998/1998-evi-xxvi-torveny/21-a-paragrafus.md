@@ -2,7 +2,7 @@
 
 21/A. § (1) A látássérült személy a látássérüléséhez kapcsolódó rehabilitációs folyamat során jogszabályban meghatározott éves időkeret erejéig – az elemi rehabilitációs tervben foglaltak szerint – térítésmentesen jogosult az egyéni képességeihez mért legmagasabb szintű önállóság eléréséhez és a társadalmi életbe való visszailleszkedéséhez szükséges alapvető készségek elsajátításához és alkalmazásához szükséges elemi rehabilitációs szolgáltatások (a továbbiakban: elemi rehabilitációs szolgáltatás) igénybevételére.
 
-(2) Az elemi rehabilitációs szolgáltatást a 16. életévét betöltött, a magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával rendelkező, a bevándorolt és a letelepedett látássérült személy veheti igénybe.
+(2) Az elemi rehabilitációs szolgáltatást a 16. életévét betöltött, a magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával rendelkező, illetve a huzamos tartózkodási jogosultsággal rendelkező látássérült személy veheti igénybe.
 
 (3) Az (1) bekezdés alkalmazása során látássérült az a személy, akinek a szem, illetve a központi idegrendszer látási funkcióit érintő betegsége vagy veleszületett fejlődési rendellenessége miatt
 
