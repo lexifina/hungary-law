@@ -1,0 +1,1 @@
+2. § Nem alkalmazhat alapdíjat a víziközmű-szolgáltató arra a vízmérőre, amely kizárólagosan tűzivíz ellátására áll rendelkezésre, és a fogyasztó az ennek megfelelő besorolást a szolgáltatónál írásban kezdeményezte.
