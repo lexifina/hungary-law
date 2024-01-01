@@ -1,5 +1,3 @@
-4. § Hatályát veszti az 5/2020. ITM rendelet
+4. §[^9]
 
-a) 5. § (6) bekezdésében a „(4) bekezdés c) pontja szerinti” szövegrész,
-
-b) 5. § (11) bekezdésében az „a kémiai biztonságról szóló 2000. évi XXV. törvény 19. §-ával összhangban” szövegrész.
+[^9]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
