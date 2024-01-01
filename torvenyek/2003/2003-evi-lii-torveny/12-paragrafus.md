@@ -1,3 +1,1 @@
-12. § (1) A nyilvántartást vezető szerv az állami elismerésben részesített növényfajtákról közhitelű nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.
-
-(2)–(4)
+12. § A növénytermesztési hatóság az állami elismerés iránti kérelem alapján vizsgálat alatt álló és az állami elismerésben részesített növényfajtákról közhiteles nyilvántartást vezet és közzéteszi a Nemzeti Fajtajegyzéket.

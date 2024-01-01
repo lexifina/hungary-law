@@ -1,4 +1,4 @@
-23. § (1) A nyilvántartást vezető szerv nyilvántartást vezet:
+23. § (1) A növénytermesztési hatóság nyilvántartást vezet:
 
 a) az állami elismerésben részesített növényfajtákról, amely
 
@@ -22,7 +22,7 @@ ab) tartalmazhatja:
 
 2.) a fajta termesztésének és felhasználásának sajátosságára, valamint a fajta egyediségére vonatkozó adatokat, információkat;
 
-b) a vetőmag előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
+b) a vetőmag-előállítókról, valamint az engedélyes vagy a nyilvántartásba vett szőlő-, gyümölcs-, dísznövény, zöldségpalánta-, erdészeti és fás szárú energetikai szaporítóanyag-előállítókról és szaporítóanyag-forgalmazókról, amely tartalmazza
 
 ba) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
 
@@ -50,7 +50,7 @@ da) a vetőmag kiszerelő természetes személy azonosító adatait, illetve jog
 
 db) a kiszerelésre engedélyezett fajok nevét;
 
-e) a standard zöldség vetőmag előállítókról és forgalmazókról, amely tartalmazza
+e) a standard zöldség vetőmag-előállítókról és forgalmazókról, amely tartalmazza
 
 ea) a természetes személy ügyfél természetes személyazonosító adatait, lakcímét, adóazonosító jelét,
 
@@ -94,7 +94,7 @@ ic) az előállítás idejét;
 
 j) a határon átnyúló szolgáltatás folytatása esetén a 15. § (10) bekezdése szerinti bejelentést tevőkről,
 
-k) a 9. § (2) bekezdés szerinti vizsgálat elvégzéséhez szükséges, a fajtavizsgálatot végző szerv által rendszeresített nyomtatvány szerinti adatokról.
+k) 7. § (2) bekezdése iránti kérelem szerinti adatokról.
 
 (2) A növénytermesztési hatóság
 

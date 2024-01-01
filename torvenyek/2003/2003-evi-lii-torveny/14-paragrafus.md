@@ -4,4 +4,4 @@
 
 (2) A fajtafenntartás a fajtafenntartó vagy megbízottja feladata.
 
-(3) Ha az állami elismerésben részesített növényfajta fenntartására újabb fajtafenntartó támaszt igényt, akkor azt a nyilvántartást vezető szervhez be kell jelenteni. A nyilvántartást vezető szerv a fajtafenntartókat a Nemzeti Fajtajegyzékben közzéteszi.
+(3) Ha az állami elismerésben részesített növényfajta fenntartására újabb fajtafenntartó támaszt igényt, akkor azt a növénytermesztési hatósághoz be kell jelenteni. A növénytermesztési hatóság a fajtafenntartókat a Nemzeti Fajtajegyzékben közzéteszi.

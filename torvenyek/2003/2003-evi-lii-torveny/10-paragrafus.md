@@ -8,4 +8,4 @@ a) a növényfajta elismerési idejének lejárta esetén, amennyiben a fajta á
 
 b) ha a növénytermesztési hatóság a fajta állami elismerését kérelemre vagy hivatalból indított eljárásban visszavonja.
 
-(4) A növénytermesztési hatóság az állami elismerés megszűnéséről a határozat megküldésével értesíti a nyilvántartást vezető szervet, amely a növényfajtát törli a 15. § (1) bekezdés szerinti nyilvántartásból.
+(4) A növénytermesztési hatóság az állami elismerés megszűnésével egyidejűleg a növényfajtát törli a 15. § (1) bekezdése szerinti nyilvántartásból.

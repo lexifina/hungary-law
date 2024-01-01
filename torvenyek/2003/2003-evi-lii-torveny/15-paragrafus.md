@@ -26,13 +26,21 @@ szereplő növényfaj-, és fajta szaporítóanyagát szabad forgalomba hozatal 
 
 (7) E törvény felhatalmazása alapján kiadott jogszabályban meghatározott esetben szőlő-, gyümölcs- és erdészeti szaporítóanyag, valamint zöldségpalánta előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és rendelkezik a tevékenység végzéséhez szükséges, a növénytermesztési hatóság által kiadott engedéllyel. Dísznövény-szaporítóanyag előállítására és forgalomba hozatalára irányuló tevékenységet az folytathat, aki megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek és a tevékenység megkezdését a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelentette a növénytermesztési hatóságnak.
 
-(8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a nyilvántartást vezető szerv – a növénytermesztési hatóság megkeresésére – nyilvántartásba veszi.
+(8) A (7) bekezdés szerinti engedéllyel rendelkező előállítót, forgalmazót a növénytermesztési hatóság nyilvántartásba veszi. A nyilvántartás tartalmazza az engedéllyel rendelkező
+
+a) nevét (cégnevét), címét (székhelyét),
+
+b) FELIR-azonosítóját,
+
+c) felelős kapcsolattartójának nevét és elérhetőségét, valamint
+
+d) telephelyeinek címét, a telephelyen folytatott tevékenység jellegét, a telephelyen alkalmazott minőségügyi rendszer megnevezését.
 
 (9) Szőlő-, gyümölcs- és erdészeti szaporítóanyagot – beleértve a mikorrhizált erdészeti szaporítóanyagot – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott módon, a növénytermesztési hatóság általi minősítést követően lehet előállítani, gyűjteni, valamint forgalomba hozni. A minősítés eredményéről a minősítést végző szerv hatósági bizonyítványt állít ki.
 
 (10) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a (7), illetve a (9) bekezdés szerinti tevékenység határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a növénytermesztési hatóságnak bejelenteni. A bejelentésben meg kell jelölni a természetes személy bejelentő természetes személyazonosító adatait.
 
-(11) A nyilvántartást vezető szerv közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
+(11) A növénytermesztési hatóság közhiteles hatósági nyilvántartást vezet a 23. § (1) bekezdésében felsorolt tevékenységekről. A közhiteles hatósági nyilvántartásból kizárólag az érintett tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
 (12) A szaporítóanyagnak a minősítés során megállapított minőségéért a szaporítóanyag-tétel forgalomban tartásának ideje alatt a szaporítóanyag-forgalmazó a felelős.
 
