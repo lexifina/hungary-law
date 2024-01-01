@@ -1,3 +1,1 @@
-14. §[^14]
-
-[^14]: A 14. § a 33. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+14. § Az 56/2012. (XI. 22.) BM rendelet 1. melléklete helyébe a 2. melléklet lép.

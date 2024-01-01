@@ -1,3 +1,3 @@
-12. melléklet a 2/2023. (I. 30.) BM rendelethez[^44]
+12. melléklet a 2/2023. (I. 30.) BM rendelethez[^42]
 
-[^44]: A 12. melléklet a 33. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^42]: A 12. melléklet az 5/2023. (II. 15.) BM rendelet 4. §-a alapján nem lép hatályba.

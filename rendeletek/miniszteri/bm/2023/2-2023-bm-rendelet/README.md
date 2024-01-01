@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-2-20-0A
 | --- | --- | --- |
 | 2023-02-01 | 2023-2-20-0A.1 | 2/2023. (I. 30.) BM rendelet |
 | 2023-02-02 | 2023-2-20-0A.2 | 2010. évi CXXX. törvény |
+| 2024-01-01 | 2023-2-20-0A.3 | 5/2023. (II. 15.) BM rendelet |
