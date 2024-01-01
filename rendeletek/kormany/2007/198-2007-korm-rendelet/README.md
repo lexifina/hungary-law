@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-198-20-
 | 2012-01-01 | 2007-198-20-22.4 | 304/2011. (XII. 23.) Korm. rendelet |
 | 2018-01-01 | 2007-198-20-22.5 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2021-01-01 | 2007-198-20-22.6 | 713/2020. (XII. 30.) Korm. rendelet |
+| 2024-01-01 | 2007-198-20-22.7 | 561/2023. (XII. 14.) Korm. rendelet |

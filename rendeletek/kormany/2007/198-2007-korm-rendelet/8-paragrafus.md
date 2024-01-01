@@ -4,9 +4,9 @@
 
 (2) Amennyiben azt bármely közösségi légifuvarozó kéri, a légiközlekedési hatóság legkorábban a felhatalmazás kiadását követő tíz egymást követő menetrendi időszak elteltével a felhatalmazást felülvizsgálja, a 6. § (4) bekezdés szerinti szempontok alapján.
 
-(3)[^13] A felülvizsgálatra irányuló kérelem beérkezését követő naptól számított hét napon belül a légiközlekedési hatóság a felülvizsgálatról szóló tájékoztatást tesz közzé honlapján. Más közösségi légifuvarozó a közzétételtől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen korlátozott légiközlekedési jog igénybevétele iránt. Ezt követően a felülvizsgálatra a 4–6. §-ban foglalt előírásokat kell megfelelően alkalmazni.
+(3)[^15] A felülvizsgálatra irányuló kérelem beérkezését követő naptól számított hét napon belül a légiközlekedési hatóság a felülvizsgálatról szóló tájékoztatást tesz közzé honlapján. Más közösségi légifuvarozó a közzétételtől számított 30 napos jogvesztő határidőn belül nyújthat be kérelmet ugyanezen korlátozott légiközlekedési jog igénybevétele iránt. Ezt követően a felülvizsgálatra a 4–6. §-ban foglalt előírásokat kell megfelelően alkalmazni.
 
-(4)[^14] A légiközlekedési hatóság a felhatalmazás alapján végzett légiközlekedési szolgáltatástól az engedélyest a hiányok pótlásáig azonnali hatállyal eltiltja, ha a felhatalmazás jogosultja:
+(4)[^16] A légiközlekedési hatóság a felhatalmazás alapján végzett légiközlekedési szolgáltatástól az engedélyest a hiányok pótlásáig azonnali hatállyal eltiltja, ha a felhatalmazás jogosultja:
 
 a) nem a felhatalmazásban foglaltaknak megfelelően végzi a légiközlekedési szolgáltatást;
 
@@ -22,7 +22,7 @@ b) a felhatalmazásban szereplő légiszolgáltatás nem kezdődött meg a légi
 
 c) a felhatalmazásban szereplő légiszolgáltatást szüneteltetik, és a következő két egymást követő teljes menetrendi időszakban sem indul újra,
 
-d)[^15] eltiltás esetén a felhatalmazás jogosultja nem pótolja a felmerült hiányosságokat, az eltiltás napját követő menetrendi időszak végéig, vagy
+d)[^17] eltiltás esetén a felhatalmazás jogosultja nem pótolja a felmerült hiányosságokat, az eltiltás napját követő menetrendi időszak végéig, vagy
 
 e) a harmadik ország nem fogadja el a közösségi légifuvarozó kijelölését, illetve harmadik ország illetékességgel és hatáskörrel rendelkező hatósága nem adja ki a járat végzéséhez szükséges engedélyt, vagy azt visszavonja.
 
@@ -30,6 +30,6 @@ e) a harmadik ország nem fogadja el a közösségi légifuvarozó kijelölésé
 
 (7) A felhatalmazás visszavonásáról és az adott légiközlekedési jog kihasználatlanná válásának kezdő időpontjáról a légiközlekedési hatóság honlapján tájékoztatást tesz közzé.
 
-[^13]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 557. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^14]: A 8. § (4) bekezdés nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^15]: A 8. § (5) bekezdés d) pontja a 713/2020. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 557. §-a, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^16]: A 8. § (4) bekezdés nyitó szövegrésze a 713/2020. (XII. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^17]: A 8. § (5) bekezdés d) pontja a 713/2020. (XII. 30.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.

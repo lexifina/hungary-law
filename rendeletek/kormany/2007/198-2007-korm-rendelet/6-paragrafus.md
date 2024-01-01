@@ -2,9 +2,15 @@
 
 (2)[^9] Ha a légiközlekedési hatóság az eljárás során közmeghallgatást tart, a közmeghallgatáson elhangzottakról készített jegyzőkönyvet a hatóság a honlapján közzéteszi. A kérelmet benyújtó légitársaságok a közzétételtől számított 3 napon belül a jegyzőkönyvet véleményezhetik.
 
-(3)[^10] A légiközlekedési hatóság a meghirdetett, kihasználatlan légiközlekedési joggal üzemeltethető légiútvonalra szóló felhatalmazásról két hónapon belül dönt.
+(2a)[^10] A közmeghallgatás a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján is megtartható.
+
+(2b)[^11] A közmeghallgatás az érintettek személyes megjelenése nélkül, honlapon való közzététel útján is megtartható. A közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek, és kérdéseket tehetnek fel. A légiközlekedési hatóság – szükség szerint az érintett egyéb szervek, illetve a kérelmező ügyfél bevonásával – a beérkezett észrevételekkel kapcsolatos tájékoztatását a honlapján közzéteszi. A kérelmet benyújtó légitársaságok a közzétételtől számított 3 napon belül a tájékoztatást véleményezhetik.
+
+(3)[^12] A légiközlekedési hatóság a meghirdetett, kihasználatlan légiközlekedési joggal üzemeltethető légiútvonalra szóló felhatalmazásról két hónapon belül dönt.
 
 (4) A felhatalmazást az átfogó értékelést követően a légiközlekedési hatóság annak a kérelmezőnek adja meg, amelynek ajánlata a legkedvezőbbnek bizonyul, különösen az utas-, illetve áruszállítási, a piaci versenyt élénkítő és a közösségi légiközlekedési piac kiegyensúlyozott fejlődését elősegítő szempontok tekintetében.
 
 [^9]: A 6. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 556–557. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 555. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^10]: A 6. § (2a) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 11. §-a iktatta be.
+[^11]: A 6. § (2b) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 11. §-a iktatta be.
+[^12]: A 6. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 555. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (92) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
