@@ -36,7 +36,7 @@ is végezhető, feltéve, ha felhasználásról, tárolásról, raktározásról
 
 (8) Fémkereskedelmi engedélyköteles anyagot a fémkereskedő csak a külön jogszabályban meghatározott adattartalmú anyagkísérő okmánnyal együtt szállíthat.
 
-(9) A (8) bekezdésben meghatározott anyagkísérő okmány olyan szigorú számadású bizonylat, amely a szállított fémkereskedelmi engedélyköteles anyag származásának, eredetének, valamint a fémkereskedő általi átvétel és értékesítés, a kereskedő telephelyei közötti szállítás igazolására szolgál. Az anyagkísérő okmányt az e törvény szerinti adatokat tartalmazó külön jogszabályban meghatározott esetekben kiállítandó szállítólevél helyettesítheti.
+(9) A (8) bekezdésben meghatározott anyagkísérő okmány olyan szigorú számadású bizonylat, amely a szállított fémkereskedelmi engedélyköteles anyag származásának, eredetének, valamint a fémkereskedő általi átvétel és értékesítés, a kereskedő telephelyei közötti szállítás igazolására szolgál. Az anyagkísérő okmányt az e törvény szerinti , illetve más jogszabályban meghatározott adatokat tartalmazó, szigorú számadású szállítólevél helyettesítheti.
 
 (10) A fémkereskedelmi hatóság a fémkereskedőkről, telephelyeikről, valamint a telephelyek nyitva tartásáról nyilvántartást vezet, amelyet honlapján közzétesz.
 

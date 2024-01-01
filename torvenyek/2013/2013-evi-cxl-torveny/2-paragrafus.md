@@ -26,7 +26,7 @@
 
 8c. koncesszori fémkereskedelmi tevékenység: a fémkereskedelmi engedélyköteles anyagnak koncesszori alvállalkozóként hulladékgazdálkodási intézményi résztevékenység keretében történő átvétele, amely nem minősül a 4. pontban meghatározott felvásárlásnak,
 
-8d. koncesszori fémkereskedő: hatályos koncesszori fémkereskedelmi engedéllyel rendelkező jogi személy vagy jogi személyiség nélküli szervezet,
+8d. koncesszori fémkereskedő: a koncesszori fémkereskedelmi engedély jogosultja,
 
 9. közszolgáltatást nyújtó gazdálkodó szervezet: olyan gazdálkodó szervezet, amely az államháztartáson belüli vagy kívüli szervezet vagy személy által más szerv vagy személy számára végzett, jogszabályban meghatározott, a közfeladat-ellátás körébe tartozó olyan szolgáltatást nyújt, amely nem jár közhatalom gyakorlásával és az e törvény végrehajtására kiadott kormányrendeletben meghatározott felismerésre alkalmas jellemzővel rendelkező fémkereskedelmi engedélyköteles anyagot értékesít,
 

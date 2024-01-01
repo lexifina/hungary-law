@@ -1,4 +1,4 @@
-11/A. § (1) A 11. § (2) bekezdés a) és b) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
+11/A. § (1) A 11. § (2) bekezdés a), b) és d) pontja és a 11. § (3) bekezdés b), c), e), g) és i) pontja szerinti jogsértés esetén a bírság mértéke a jogsértéssel érintett fémkereskedelmi engedélyköteles anyag piaci értékének
 
 a) fémkereskedelmi engedélyköteles anyaggal gazdasági tevékenységet folytató gazdálkodó szervezet általi jogsértés esetén ötszöröse,
 

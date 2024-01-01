@@ -12,7 +12,7 @@ a) ha a fémkereskedelmi hatóság
 
 aa) a 3. § (4) és (9) bekezdésben meghatározott kötelezettségek megszegése esetén, vagy
 
-ab) a 11. § (2) bekezdés a) és c) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
+ab) a 11. § (2) bekezdés a), c) és d) pontja, valamint a 11. § (3) bekezdés b)–d) és g) pontja szerinti jogsértés alapján
 
 véglegessé vált határozatban bírságot nem szabott ki,
 
