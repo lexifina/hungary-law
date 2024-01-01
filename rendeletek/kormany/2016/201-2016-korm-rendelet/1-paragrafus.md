@@ -16,4 +16,10 @@
 
 7.[^1] Hulladék hűtőenergia: ipari vagy energiatermelő létesítményekben vagy a tercier szektorban elkerülhetetlen melléktermékként keletkező hűtőenergia, amely a távhűtőrendszerbe való bevezetés hiányában hasznosítás nélkül távozna a levegőbe.
 
+8.[^2] hűtési idény: az év május 15. napja és szeptember 15. napja közötti időszak;
+
+9.[^3] távolról leolvasható egyedi fogyasztásmérő: olyan fogyasztásmérő készülék, amelynek leolvasása az azt magába foglaló épületbe történő bejutás nélkül is lehetséges erre a célra szolgáló technikai eszközzel.
+
 [^1]: Az 1. § 7. pontját a 824/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^2]: Az 1. § 8. pontját a 678/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § 9. pontját a 678/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

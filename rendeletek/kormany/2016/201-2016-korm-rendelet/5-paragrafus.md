@@ -7,3 +7,7 @@ b) biztosítania kell a végső felhasználónak az elektronikus számlainformá
 c) a végső felhasználó kérésére világos és könnyen érthető felvilágosítást kell nyújtania a számlával, a számla egyes tételeivel és elemeivel, valamint a számlázott összeggel kapcsolatosan,
 
 d) a végső felhasználó számára a számlával együtt megfelelő tájékoztatást kell adnia a 7. § és 8. § szerint annak érdekében, hogy a végső felhasználó átlátható képet kaphasson az aktuális energiaköltségekkel kapcsolatban.
+
+e)[^9] a tevékenysége során biztosítania kell a végső felhasználók adatainak védelmét, az adatvédelemre vonatkozó jogszabályoknak, valamint a kiberbiztonsági követelményeknek való megfelelést.
+
+[^9]: Az 5. § e) pontját a 678/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

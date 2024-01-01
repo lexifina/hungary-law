@@ -1,4 +1,4 @@
-9/B. §[^4] (1) A távhűtési rendszerek üzemeltetői kötelesek a megújuló forrásokból, valamint hulladék hűtőenergiából származó energiát biztosító szolgáltatókat csatlakoztatni, ha az alábbi körülmények valamelyike fennáll:
+9/B. §[^13] (1) A távhűtési rendszerek üzemeltetői kötelesek a megújuló forrásokból, valamint hulladék hűtőenergiából származó energiát biztosító szolgáltatókat csatlakoztatni, ha az alábbi körülmények valamelyike fennáll:
 
 a) új fogyasztók igényeit kell kielégíteni;
 
@@ -20,4 +20,4 @@ c) az üzemeltető bizonyítani tudja, hogy a hozzáférés biztosítása túlzo
 
 (5) A hatóság ellenőrzi az e §-ban foglaltak betartását, ennek során együttműködik a fogyasztóvédelmi hatósággal, továbbá a fogyasztóvédelmi érdekképviseletekkel.
 
-[^4]: A 9/B. §-t a 824/2021. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
+[^13]: A 9/B. §-t a 824/2021. (XII. 28.) Korm. rendelet 6. §-a iktatta be.
