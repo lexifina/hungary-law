@@ -1,0 +1,3 @@
+1. § A növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló 89/2004. (V. 15.) FVM rendelet [a továbbiakban: 89/2004. (V. 15.) FVM rendelet] 25/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az (1) bekezdés szerinti engedélyes minden év március 31-ig elektronikus adathordozón vagy elektronikus úton benyújtja a kereskedelmi forgalomban lévő készítmények aktualizált termékcímkéit és a biztonsági adatlap frissített változatát, amennyiben azokban változás következett be.”
