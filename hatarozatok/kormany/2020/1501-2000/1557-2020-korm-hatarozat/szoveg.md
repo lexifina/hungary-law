@@ -8,11 +8,7 @@ A Kormány
 
 4.[^1] a Beruházás I. ütemének az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § a), b), c), e), g) és m) pontja szerinti, valamint a Beruházás II. ütemének a Korm. rendelet 4. § a) és g) pontja szerinti előkészítési fázisai 2021. június 30. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét összesen 144 000 000 forintban határozza meg;
 
-5. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 28. Emelt szintű könnyűzenei képzési központ előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+5.[^2]
 
 6. felhívja a pénzügyminisztert, hogy gondoskodjon a 4. pont szerinti összeg 2020. évi részének finanszírozása céljából 64 000 000 forint forrás rendelkezésre állásáról a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások cím, 28. Emelt szintű könnyűzenei képzési központ előkészítése alcímen;
 
@@ -43,3 +39,4 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 Határidő: 2022. június 30.
 
 [^1]: A 4. pont a 2045/2020. (XII. 29.) Korm. határozattal megállapított szöveg.
+[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
