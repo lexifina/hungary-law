@@ -8,7 +8,7 @@ b) a felhasználásra alkalmatlannak minősített vagy a felhasználásra alkalm
 
 c) az összekeveredett növényvédő szer,
 
-d)[^160] a vármegyei kormányhivatal által – szükség esetén a területi környezetvédelmi hatóság szakértői véleménye alapján – a szennyeződéstől nem mentesíthetőnek minősített védőeszköz, munkaeszköz, növényvédő szer raktár, tároló elbontása során szennyeződhetett bontásanyag, illetve föld, növény, növényi termék, fel nem használható csávázott vetőmag,
+d)[^163] a vármegyei kormányhivatal által – szükség esetén a területi környezetvédelmi hatóság szakértői véleménye alapján – a szennyeződéstől nem mentesíthetőnek minősített védőeszköz, munkaeszköz, növényvédő szer raktár, tároló elbontása során szennyeződhetett bontásanyag, illetve föld, növény, növényi termék, fel nem használható csávázott vetőmag,
 
 e) a kiömlött növényvédő szer felitatására, összegyűjtésére használt anyag, növényvédő szerrel szennyezett talaj
 
@@ -22,4 +22,4 @@ kezelése során.
 
 (5) A kiselejtezett növényvédő szert további kezelésig a növényvédő szer raktár elkülönített részében kell tárolni.
 
-[^160]: A 46. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^163]: A 46. § (1) bekezdés d) pontja a 70/2013. (VII. 31.) VM rendelet 125. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 153. § h) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

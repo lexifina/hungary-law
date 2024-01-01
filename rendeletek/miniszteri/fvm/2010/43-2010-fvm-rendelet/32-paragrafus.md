@@ -1,8 +1,8 @@
 ## Növényvédelmi gépek
 
-32. § (1)[^129] Az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépeket – a kutatási, vizsgálati, kísérleti vagy kiállítási célokat szolgáló növényvédelmi gépek kivételével – cseppképzés és szórástechnikai szempontból típusminősítési eljárás alá kell vetni a forgalomba hozatal előtt.
+32. § (1)[^130] Az 5 dm3-nél nagyobb tartállyal rendelkező növényvédelmi gépeket – a kutatási, vizsgálati, kísérleti vagy kiállítási célokat szolgáló növényvédelmi gépek kivételével – cseppképzés és szórástechnikai szempontból típusminősítési eljárás alá kell vetni a forgalomba hozatal előtt.
 
-(2)[^130] Adminisztratív úton kell minősíteni azokat a növényvédelmi gépeket, amelyek nemzetközi érvényű minőségtanúsítási okirattal rendelkeznek. Az előállító, illetve a forgalmazó vállalat köteles a Magyar Agrár- és Élettudományi Egyetem (a továbbiakban: MATE) felé nyilatkozni, hogy a növényvédelmi gépek az e rendeletben meghatározott forgalomba hozatali követelményeknek megfelelnek.
+(2)[^131] Adminisztratív úton kell minősíteni azokat a növényvédelmi gépeket, amelyek nemzetközi érvényű minőségtanúsítási okirattal rendelkeznek. Az előállító, illetve a forgalmazó vállalat köteles a Magyar Agrár- és Élettudományi Egyetem (a továbbiakban: MATE) felé nyilatkozni, hogy a növényvédelmi gépek az e rendeletben meghatározott forgalomba hozatali követelményeknek megfelelnek.
 
 (3) A (2) bekezdés szerinti nyilatkozatnak tartalmaznia kell:
 
@@ -18,16 +18,16 @@ b) a géptípust leíró dokumentumokat (adatlap, mátrix), és
 
 c) az elbírálást segítő egyéb dokumentumokat.
 
-(5)[^131] A MATE hivatalból, illetve a vármegyei kormányhivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
+(5)[^132] A MATE hivatalból, illetve a vármegyei kormányhivatal vagy a NÉBIH megkeresésére a növényvédelmi gép alkalmasságával kapcsolatban kiegészítő adatszolgáltatást kérhet, valamint a növényvédelmi gép vizsgálatát rendelheti el.
 
-(6)[^132] A géptípus olyan változtatása esetén, ami a növényvédő szerek kijuttatását befolyásolja, a (4) bekezdés szerinti dokumentációt újra be kell nyújtani a MATE felé.
+(6)[^133] A géptípus olyan változtatása esetén, ami a növényvédő szerek kijuttatását befolyásolja, a (4) bekezdés szerinti dokumentációt újra be kell nyújtani a MATE felé.
 
 (7) A típusminősítési eljárás lefolytatásáért a növényvédelmi igazgatási szolgáltatási díjakról szóló külön jogszabályban meghatározott díjat kell fizetni.
 
-(8)[^133] A típusminősítési eljárás követelményrendszerét a MATE a honlapján teszi közzé.
+(8)[^134] A típusminősítési eljárás követelményrendszerét a MATE a honlapján teszi közzé.
 
-[^129]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított, a 45/2021. (XII. 1.) AM rendelet 18. § d) pontja szerint módosított szöveg.
-[^130]: A 32. § (2) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § a) pontja szerint módosított szöveg.
-[^131]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 4/2021. (II. 23.) AM rendelet 6. § b) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^132]: A 32. § (6) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
-[^133]: A 32. § (8) bekezdését a 45/2021. (XII. 1.) AM rendelet 11. §-a iktatta be.
+[^130]: A 32. § (1) bekezdése a 66/2010. (V. 12.) FVM rendelet 13. § (15) bekezdésével megállapított, a 45/2021. (XII. 1.) AM rendelet 18. § d) pontja szerint módosított szöveg.
+[^131]: A 32. § (2) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § a) pontja szerint módosított szöveg.
+[^132]: A 32. § (5) bekezdése a 70/2013. (VII. 31.) VM rendelet 125. § e) és o) pontja, a 46/2020. (IX. 23.) AM rendelet 19. § c) pontja, a 4/2021. (II. 23.) AM rendelet 6. § b) pontja, a 121/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^133]: A 32. § (6) bekezdése a 4/2021. (II. 23.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^134]: A 32. § (8) bekezdését a 45/2021. (XII. 1.) AM rendelet 11. §-a iktatta be.
