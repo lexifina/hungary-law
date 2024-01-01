@@ -1,8 +1,8 @@
-33. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra. A kötelezést tartalmazó határozatban rendelkezni kell az eljárás költségének összegéről és annak viseléséről.
+33. § (1) A kötelezést tartalmazó határozatnak, illetve az ajánlásnak ki kell terjednie a kérelemben előterjesztett valamennyi indítványra és a döntés alapjául szolgáló indokokra. A kötelezést tartalmazó határozatban rendelkezni kell a békéltető testület működése körében felmerült eljárási költség összegéről és annak viseléséről.
 
 (2) Az eljárás költségének tekintendő mindaz a költség, ami a felek oldalán a békéltető testület eljárása igénybevételével összefüggésben – a célszerű és jóhiszemű eljárás követelményére figyelemmel – igazoltan felmerült (előzetes tudakozódás, egyeztetés és levelezés költsége, a felek személyes megjelenésével összefüggő útiköltség és keresetkiesés stb.). A jogi képviselettel összefüggésben felmerülő költség nem tekinthető az eljárás költségének.
 
-(3) Az eljárás költségét az a fél viseli, akinek terhére a tanács az ügyet eldöntötte.
+(3) Az eljárás költségét kötelezést tartalmazó határozat esetén az a vállalkozás viseli, amelynek terhére a tanács az ügyet eldöntötte. A fogyasztó kérelmének elutasítása esetén a felek viselik a saját költségüket.
 
 (4) A kötelezést tartalmazó határozatban megállapított kötelezettség teljesítésére rendszerint – a határozat kézbesítését követő naptól számított – tizenöt napos határidőt kell szabni.
 

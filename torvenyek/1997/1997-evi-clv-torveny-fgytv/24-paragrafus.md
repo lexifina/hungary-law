@@ -12,7 +12,9 @@ e) alkalmatlanná válása esetén,
 
 f) halálával,
 
-g) felmondással.
+g) felmondással vagy
+
+h) ha a 18. § (6a) bekezdésében meghatározott idő alatt a békéltető testületi alapvizsgát nem tette le.
 
 (2) Az (1) bekezdés e) pontja szerinti esetben a megbízatás megszűnését az érintett testületi tag meghallgatása után és a kamara véleményének figyelembevételével a békéltető testület elnöke, illetve – az elnök tekintetében – a területileg illetékes kamara, az MKIK és a fogyasztóvédelemért felelős miniszter által jelölt tagokból álló háromfős testület állapítja meg.
 

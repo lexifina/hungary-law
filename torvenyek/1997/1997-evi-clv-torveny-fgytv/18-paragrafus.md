@@ -4,13 +4,21 @@
 
 (2) A békéltető testület a vármegyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
-(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet.
+(2a) A békéltető testületek szakmai irányítását a fogyasztóvédelemért felelős miniszter látja el.
+
+(3) Az állam – a költségvetési törvényben meghatározott mértékben – gondoskodik a békéltető testületek működésének támogatásáról, ide nem értve a Pénzügyi Békéltető Testületet. A tárgyévi támogatási összeg a tárgyévet megelőző évben a békéltető testületek által meghozott, kötelezést tartalmazó határozatokban megállapított és befolyt eljárási költséggel csökkentett összegben kerül folyósításra azzal, hogy a különbözetet az állam a fogyasztói tudatosság növelését szolgáló intézkedésekre, a békéltető testületi elnökök és tagok képzésére, valamint a békéltető testületeknél az online meghallgatásokkal összefüggésben szükséges informatikai fejlesztésre fordítja.
 
 (4) A helyi önkormányzatok részt vállalhatnak a békéltető testület működtetésének feladataiból.
 
 (5) Online adásvételi vagy online szolgáltatási szerződéssel összefüggő határon átnyúló fogyasztói jogvita esetén a fogyasztóvédelemért felelős miniszter által rendeletben kijelölt kamara által működtetett békéltető testület illetékes.
 
 (6) A békéltető testület köteles a tagjai számára rendszeresen képzést szervezni.
+
+(6a) A békéltető testület elnöke és tagja köteles a jogszabályban meghatározott szervezet képzésein és továbbképzésein részt venni és az alkalmazásától vagy a megbízásától számított egy éven belül békéltető testületi alapvizsgát tenni.
+
+(6b) A békéltető testületi alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés, valamint a tartós külszolgálat időtartama.
+
+(6c) A (6a) bekezdés szerinti képzés és továbbképzés, valamint a békéltető testületi alapvizsga szabályait a fogyasztóvédelemért felelős miniszter rendeletben állapítja meg.
 
 (7) A békéltető testületek együttműködnek a fogyasztói jogviták alternatív rendezésére irányuló eljárások joggyakorlatának fejlesztése, a döntések egyöntetűsége, a szakmaiság javítása, valamint a legjobb gyakorlatok átvétele érdekében.
 

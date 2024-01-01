@@ -6,6 +6,8 @@
 
 (4) Ha több fogyasztó közösen terjeszt elő kérelmet, bármelyik kérelmezőre illetékes testület valamennyi kérelmezőre nézve illetékes.
 
-(5) A békéltető testület illetékességi területe a testületet működtető kamara szerinti vármegyére (fővárosra) terjed ki.
+(5) A békéltető testületek székhelyét és illetékességi területét a 2. melléklet határozza meg.
+
+(5a) A békéltető testület az illetékességi területén található megyei jogú városokban a fogyasztó erre irányuló kérelme esetén szükség szerint heti egy alkalommal személyes meghallgatást biztosít a fogyasztók részére.
 
 (6) A békéltető testületi eljárás hivatalos nyelve a magyar.
