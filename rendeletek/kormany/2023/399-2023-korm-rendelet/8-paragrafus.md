@@ -1,3 +1,29 @@
-8. §[^8]
+8. § (1) A Válsághelyzeti Bizottság állandó tagjai:
 
-[^8]: A 8. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+a) a miniszter,
+
+b) a Hivatal képviselője,
+
+c) a szállítási rendszerirányító képviselője,
+
+d) a szállítási rendszerüzemeltető képviselője,
+
+e) az egyetemes szolgáltató képviselője,
+
+f) az egyetemes szolgáltatót ellátó földgázkereskedő képviselője,
+
+g) a földgáztárolói engedélyesek képviselői,
+
+h) a földgázelosztók képviselői,
+
+i) a földgázkereskedők és érdekképviseleteik képviselői,
+
+j) a szervezett földgázpiaci engedélyes képviselője,
+
+k) a villamos energiáról szóló törvény szerinti átviteli rendszerirányításra vonatkozó működési engedéllyel rendelkező engedélyes képviselője,
+
+l) a Magyar Szénhidrogén Készletező Szövetség (a továbbiakban: Szövetség) képviselője,
+
+m) az országos bányakapitány vagy képviselője.
+
+(2) A Válsághelyzeti Bizottságot a miniszter vezeti. A Válsághelyzeti Bizottság működését, ügyrendjét maga határozza meg. A miniszter más érintett hatóság, szervezet vagy gazdálkodó szervezet képviselőjét is meghívhatja a Válsághelyzeti Bizottság ülésére.

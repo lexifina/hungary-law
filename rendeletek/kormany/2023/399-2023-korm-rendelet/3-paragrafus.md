@@ -1,3 +1,7 @@
-3. §[^3]
+3. § (1) A Hivatal elkészíti az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdés a) pontja szerinti megelőzési cselekvési tervet (a továbbiakban: megelőzési cselekvési terv) és az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 8. cikk (2) bekezdés b) pontja szerinti vészhelyzeti tervet (a továbbiakban: vészhelyzeti terv), amely terveket az Európai Bizottság és a szomszédos tagállamok hatáskörrel rendelkező hatóságai részére történő megküldést megelőzően a miniszter részére szakpolitakai álláspont kialakítása céljából megküld. A miniszter az álláspontjáról soron kívül tájékoztatja a Hivatalt.
 
-[^3]: A 3. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(2) Ha az Európai Bizottság az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 8. cikk (8) és (9) bekezdésére figyelemmel a megelőzési cselekvési terv vagy a vészhelyzeti terv tervezetének módosítását javasolja, és ha a módosítás szükségességével a Hivatal egyetért, a Hivatal az érintett tervet átdolgozza és a módosított tervezetet a miniszternek ismételten megküldi. A miniszter a megelőzési cselekvési tervvel vagy a vészhelyzeti tervvel kapcsolatos álláspontjáról soron kívül tájékoztatja a Hivatalt.
+
+(3) A miniszter szakpolitikai álláspontjának figyelembevételével véglegesített megelőzési cselekvési tervnek és vészhelyzeti tervnek az Európai Bizottság részére történő megküldéséről a Hivatal gondoskodik.
+
+(4) A megelőzési cselekvési tervnek az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 9. cikk (11) bekezdése szerinti naprakésszé tételét, valamint a vészhelyzeti tervnek az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 10. cikk (2) bekezdése szerinti naprakésszé tételét és a 10. cikk (3) bekezdése szerinti tesztelését a Hivatal elvégzi.

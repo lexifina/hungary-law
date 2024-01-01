@@ -1,3 +1,1 @@
-24. §[^21]
-
-[^21]: A 24. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+24. § Hatályát veszti a földgázvételezés korlátozásáról, a földgáz biztonsági készlet felhasználásáról, valamint a földgázellátási válsághelyzet esetén szükséges egyéb intézkedésekről szóló 110/2020. (IV. 14.) Korm. rendelet.

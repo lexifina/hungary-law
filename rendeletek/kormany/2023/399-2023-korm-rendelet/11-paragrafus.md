@@ -1,3 +1,7 @@
-11. §[^11]
+11. § (1) A vészhelyzeti szint elrendelése esetén a szállítási rendszerirányító – a Get. 98/C. § (2) bekezdése szerint – a földgázkereskedőknél rendelkezésre álló, illetve szerződéssel leköthető források, valamint jogszabály szerint a földgázkereskedő rendelkezésére bocsátott biztonsági földgázkészletek figyelembevételével, 30 napos, a felhasználói igények alapján optimalizált földgázfelhasználási tervet készít. A szállítási rendszerirányító naponta tájékoztatja a Hivatalt a földgázforrások tervezett felhasználásáról, valamint javaslatot tesz a forrásgazdálkodási célból bevezetendő korlátozás mértékére és a szerződéssel leköthető földgázforrások lekötésére.
 
-[^11]: A 11. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(2) A Hivatal az (1) bekezdés szerinti tájékoztatás alapján javaslatot tesz a miniszternek a földgázforrásokkal történő gazdálkodást biztosító válsághelyzeti intézkedésekre.
+
+(3) Az érintett földgázkereskedők felkészülnek arra, hogy a Get. 98/D. § (2) bekezdése szerinti miniszteri rendelet alapján szerződéssel leköthető importforrásokra ajánlatot tegyenek, és ilyen forrásokat lekössenek a Get. 98/C. § (1) bekezdése szerinti eljárás- és elszámolási rend szerint, továbbá felkészülnek arra, hogy a szerződéssel leköthető import forrásokat a szállítási rendszerirányító részére felajánlják.
+
+(4) A vészhelyzeti szint megszűnését követő tíz napon belül a szállítási rendszerirányító jelentést készít a válsághelyzet alatt megtett forrásgazdálkodási intézkedéseiről, és azt a Hivatalnak megküldi.

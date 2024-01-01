@@ -1,5 +1,13 @@
 ## 8. A földgázvételezés elrendelt korlátozásának végrehajtása
 
-17. §[^17]
+17. § (1) Ha a földgázvételezés elrendelt korlátozását a felhasználó nem hajtja végre, az érintett rendszerüzemeltető – a (2) bekezdés szerinti eltéréssel – az érintett felhasználót az elzáró szerelvény zárt állapotában történő rögzítésével, rögzíthetőség hiányában a vezetékes kapcsolat megszüntetésével a földgázellátásból kizárja. A korlátozást be nem tartó felhasználó felel a mulasztásából eredő valamennyi kárért, különösen azokért a károkért, amelyek a szolidaritási alapon védett felhasználók és a kritikus jelentőségű gázüzemű erőműveknél merülnek fel amiatt, hogy a kizárásra irányuló műszaki intézkedés más műszaki megoldás hiányában rájuk is kiterjed.
 
-[^17]: A 17. § a 20. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+(2) Ha a kizárásra irányuló műszaki intézkedés más műszaki megoldás hiányában olyan, a szolidaritási alapon védett felhasználók és a kritikus jelentőségű gázüzemű erőművek földgázteljesítményeit érintené, amelyek elvonása esetén az emberi életet vagy egészséget, továbbá a környezetet súlyosan veszélyeztető anyagok környezetbe jutása valószínűsíthető, a korlátozást be nem tartó felhasználó földgázvételezését a veszélyeztetettség elkerüléséhez szükséges földgázvételezés mértékéig kell műszaki megoldással korlátozni. A korlátozás végrehajtásával egyidejűleg a korlátozást végrehajtó rendszerüzemeltető rögzített telefonhívás útján felhívja a korlátozást be nem tartó felhasználó figyelmét a fennmaradó földgázteljesítmény felhasználási céljára, valamint a jogszerűtlen felhasználás következményeire. A jogszerűtlen felhasználásból eredő valamennyi kárért a korlátozást be nem tartó felhasználó felel.
+
+(3) A felhasználó kizárásának műszaki és egyéb körülményeit a rendszerüzemeltető írásban rögzíti, feltüntetve a korlátozás elrendelésének és a kizárásnak az időpontját, valamint az ezen idő alatt elfogyasztott földgáz mennyiségét.
+
+(4) A szállítási rendszerirányító – ha a gáznapi egyensúlyozási előrejelzése alapján azt a földgázrendszer egyensúlya lehetővé teszi – a korlátozásra elrendelt kategóriában vagy kivételben a felhasználói korlátozás csökkentését, megszüntetését rendeli el és irányítja, a Hivatal egyidejű tájékoztatása mellett.
+
+(5) A korlátozás megszüntetését követő 5 munkanapon belül a rendszerüzemeltető a korlátozás végrehajtásáról – személyes adatot nem tartalmazó – írásos jelentést, továbbá a műszaki kizárásokról minden korlátozási kategóriában vagy kivételben tételes kimutatást készít, és azt a szállítási rendszerirányítónak átadja. A korlátozás kiértékelésének összesítését és értékelését a szállítási rendszerirányító 5 napon belül megküldi a Hivatalnak.
+
+(6) A korlátozás megszüntetését követően az érintett rendszerüzemeltető a hálózathasználati szerződésben foglalt határidőben, de legfeljebb 5 munkanapon belül a földgázvételezésből történő műszaki kizárást megszünteti, valamint jogosult a kizárás és a szolgáltatás visszaállításával kapcsolatosan felmerült – az üzletszabályzatban meghatározott – költségeit az érintett felhasználóval megtéríttetni.
