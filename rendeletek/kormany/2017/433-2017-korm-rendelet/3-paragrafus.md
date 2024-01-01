@@ -40,35 +40,41 @@ adataiba.
 
 (6)[^11] Az NFK a tervjavaslatot
 
-a) az érintett erdőgazdálkodók,
+a) az érintett erdőgazdálkodók és az eljárás során érintett egyéb ügyfelek a körzeti erdőtervezési eljárás megindításától számított 10 napon belül írásban tett észrevételei, valamint
 
-b) az eljárás során érintett egyéb ügyfelek, valamint
+b) az érintett hatóságok a körzeti erdőtervezési eljárás megindításától számított 15 napon belül meghozott szakhatósági állásfoglalása
 
-c) az érintett hatóságok
-
-által, a körzeti erdőtervezési eljárás megindításától számított 15 napon belül írásban tett észrevételei alapján átdolgozza.
+alapján átdolgozza.
 
 (7) Ha az erdőgazdálkodás üzemmódjának arányára vonatkozó, az Evt. 10. § (1) bekezdése szerinti előírás a körzeti erdőtervezési eljárás megkezdésekor nem teljesül, akkor az állam 100%-os tulajdonában álló erdők területén gazdálkodók a körzeti erdőtervezési eljárás megindításától számított 15 napon belül kérelmet nyújtanak be az erdőgazdálkodás üzemmódjának módosítására.
 
 (8)[^12] Az erdőgazdálkodó (7) bekezdésben szereplő kérelemének elmaradása esetén az NFK az erdő állapotát és rendeltetéseit figyelembe véve az Evt. 10. § (1) bekezdése szerinti üzemmódot állapít meg az Evt. 10. § (1) bekezdésében meghatározott területnagyságra vonatkozóan.
 
-(9) Az Evt.
+(9)[^13] Az Evt.
 
 a) 6/A. § (1) bekezdése,
 
-b) 13. § (6) bekezdése,
+b) 6/B. § (2) bekezdése,
 
-c) 23. § (2) bekezdése,
+c) 7. § (2) bekezdése,
 
-d) 23. § (6) bekezdés b)–d) pontja, illetve
+d) 13. § (3) és (6) bekezdése,
 
-e) 23/A. §-a
+e) 23. § (2) bekezdése,
+
+f) 23. § (6) bekezdés b)–d) pontja,
+
+g) 23/A. §-a,
+
+h) 28/A. §-a és
+
+i) 73. § (4) bekezdése
 
 szerinti eljárások a körzeti erdőtervezési eljárással egyesíthetőek.
 
-(10)[^13] Az NFK az Evt. 38. § (2) bekezdés e) pont ef) alpontjában foglalt adatokat és korlátozásokat – a védett természeti terület természetvédelmi kezeléséért felelős szerv adatszolgáltatása alapján – a körzeti erdőtervezési eljárás során hivatalból törölheti az Adattárból.
+(10)[^14] Az NFK az Evt. 38. § (2) bekezdés e) pont ef) alpontjában foglalt adatokat és korlátozásokat – a védett természeti terület természetvédelmi kezeléséért felelős szerv adatszolgáltatása alapján – a körzeti erdőtervezési eljárás során hivatalból törölheti az Adattárból.
 
-(11)[^14] Az NFK a körzeti erdőtervezési eljárás során a (6) bekezdés szerinti észrevételekről, valamint a (7) bekezdés szerint kezdeményezett változásokról az észrevételekkel érintett
+(11)[^15] Az NFK a körzeti erdőtervezési eljárás során a (6) bekezdés szerinti észrevételekről, valamint a (7) bekezdés szerint kezdeményezett változásokról az észrevételekkel érintett
 
 a) erdőgazdálkodók,
 
@@ -80,12 +86,13 @@ bb) egyéb ügyfelek, valamint
 
 c) az erdő rendeltetése szerint érintett hatóságok
 
-részvételével erdőrészletszintű egyeztető tárgyalást tart.
+részvételével erdőrészletszintű egyeztető tárgyalást tart, és a tárgyaláson egyeztetésre került érintett erdőrészlet erdőtervjavaslatát változtatás nélkül az erdőtervbe foglalja.
 
 [^8]: A 3. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^9]: A 3. § (3) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 53. § b) pontja, a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^10]: A 3. § (4) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^11]: A 3. § (6) bekezdés nyitó szövegrésze a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (6) bekezdése az 596/2023. (XII. 21.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^12]: A 3. § (8) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^13]: A 3. § (10) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
-[^14]: A 3. § (11) bekezdés nyitó szövegrésze a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § (9) bekezdése az 596/2023. (XII. 21.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. § (10) bekezdése a 29/2020. (II. 28.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^15]: A 3. § (11) bekezdése az 596/2023. (XII. 21.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

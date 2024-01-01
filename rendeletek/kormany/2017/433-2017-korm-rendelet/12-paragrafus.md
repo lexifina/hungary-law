@@ -30,8 +30,8 @@ a) a bejelentés időpontjának a bejelentés elküldése számít, valamint
 
 b) az erdészeti hatóság az ügyfélkapun keresztül legkésőbb a bejelentett tevékenységre való jogszerzés Evt.-ben rögzített időpontjáig
 
-ba)[^28]
+ba)[^29]
 
 bb) tájékoztatja a bejelentőt a bejelentett tevékenység megtiltására, korlátozására, illetve feltételekhez kötésére irányuló eljárás megindításáról.
 
-[^28]: A 12. § (7) bekezdés b) pont ba) alpontját a 360/2019. (XII. 30.) Korm. rendelet 186. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^29]: A 12. § (7) bekezdés b) pont ba) alpontját a 360/2019. (XII. 30.) Korm. rendelet 186. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
