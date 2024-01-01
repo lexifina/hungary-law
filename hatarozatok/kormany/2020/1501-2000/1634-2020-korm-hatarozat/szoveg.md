@@ -4,11 +4,7 @@ A Kormány
 
 2. a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 831 558 218 forintban határozza meg;
 
-3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 31. Orosházi Hivatásos Tűzoltó-parancsnokság telephelye komplex felújításának megvalósítása alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja a pénzügyminisztert, hogy gondoskodjon a 2. pont szerinti összeg 2020. évi részének finanszírozása érdekében 79 984 631 forint rendelkezésre állásáról a 3. pont szerinti előirányzaton;
 
@@ -23,3 +19,5 @@ Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 pénzügyminiszter
 
 Határidő: a felmerülés ütemében
+
+[^1]: A 3. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
