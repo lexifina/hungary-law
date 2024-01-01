@@ -1,0 +1,3 @@
+138. § Az Ögt. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A meglévő és vízjogi engedély alapján üzemelő harmadlagos műhöz az üzemeltető engedélyes hozzájárulásával és vízjogi engedély alapján bármely mezőgazdasági termelő csatlakozhat, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag megfelel. Ha a csatlakozni kívánó mezőgazdasági termelő a csatlakozás valamennyi feltételét teljesítette, az üzemeltető engedélyes a csatlakozást csak akkor tagadhatja meg, ha a harmadlagos mű a megnövekedett igénynek a vízjogi engedély alapján műszakilag nem felel meg vagy a megnövekedett vízigény nem áll rendelkezésre.”

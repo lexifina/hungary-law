@@ -1,0 +1,3 @@
+132. § A Fétv. a következő 108/R. §-sal egészül ki:
+
+„108/R. § Ha az ingatlan tulajdonosa a haszonélvezet törlését követően, de a visszajegyzését megelőzően az ingatlanon olyan értéknövelő beruházást hajtott végre, amely a haszonélvezet visszajegyzéséig még nem térült meg, a tulajdonos igényelheti a haszonélvezet megváltását, amelynek során a haszonélvezet értékének megállapítására a 108/K. §-ban foglaltakat alkalmazni kell.”

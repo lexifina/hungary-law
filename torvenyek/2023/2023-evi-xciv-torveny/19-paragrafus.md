@@ -1,0 +1,1 @@
+19. § Hatályát veszti a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 81. §-ának a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 74. §-ával megállapított (6) bekezdése.

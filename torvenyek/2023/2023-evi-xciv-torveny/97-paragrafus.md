@@ -1,0 +1,3 @@
+97. § A Hhtv. 62/C. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A horgászszövetség a horgászsport tekintetében ellátja a sportról szóló 2004. évi I. törvényben (a továbbiakban: Stv.) az országos sportági szakszövetség számára meghatározott feladatokat. A horgászszövetség az országos sportági szakszövetségi feladatokat – az e törvény szerinti közfeladatainak ellátásához kapcsolódó szervezeti működésére tekintettel – külön erre irányuló bírósági nyilvántartásba vétel nélkül is elláthatja. A horgászszövetséget megfelelően megilletik az Stv. által az országos sportági szakszövetségekre vonatkozóan meghatározott jogok és terhelik az Stv.-ben meghatározott kötelezettségek.”
