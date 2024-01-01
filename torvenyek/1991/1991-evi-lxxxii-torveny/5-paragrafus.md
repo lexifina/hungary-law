@@ -4,7 +4,7 @@
 
 a) a költségvetési szerv,
 
-b) a egyesület, az alapítvány a tulajdonában lévő gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
+b) az egyesület, az alapítvány, a köztestület a tulajdonában álló gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
 
 c) az autóbusz, ha az adóalany a tárgyévet megelőző évben elért számviteli törvény szerinti nettó árbevételének legalább 75%-a helyi és helyközi menetrendszerinti közúti tömegközlekedés folytatásából származott. A feltétel teljesüléséről az adóalanynak nyilatkoznia kell,
 
@@ -16,7 +16,9 @@ f) a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő adóalany,
 
 g) a környezetkímélő gépkocsi,
 
-h)–i)
+h) az egyesület, az alapítvány, a köztestület az a) vagy b) pont szerinti szervezet tulajdonában álló gépjármű után, feltéve, ha a tárgyévet megelőző évben társasági adófizetési kötelezettsége nem keletkezett,
+
+i)
 
 j) az a gépjármű, amelynek adómentességét nemzetközi egyezmény vagy viszonosság biztosítja. A viszonosság tekintetében az adópolitikáért felelős miniszter állásfoglalása az irányadó.
 
