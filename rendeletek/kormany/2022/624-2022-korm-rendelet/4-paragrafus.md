@@ -26,4 +26,6 @@ c) vízvédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszer
 
 véleményét.
 
-(6) A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez az Országos Meteorológiai Szolgálatot (a továbbiakban: OMSZ) közreműködőként veheti igénybe.
+(6)[^5] A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.-t (a továbbiakban: HungaroMet Nonprofit Zrt.) közreműködőként veheti igénybe.
+
+[^5]: A 4. § (6) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
