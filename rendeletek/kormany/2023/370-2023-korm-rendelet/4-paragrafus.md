@@ -1,1 +1,0 @@
-4. § A 2. §-t a Vksztv. 5/H. § (2) vagy (3) bekezdése, illetve azokhoz kapcsolódóan a települési önkormányzat Vksztv. 5/H. § (9) bekezdése szerinti folyamatban lévő átruházásra irányuló eljárásokban a megkötött, de még hatályba nem lépett szerződések vonatkozásában is alkalmazni kell.
