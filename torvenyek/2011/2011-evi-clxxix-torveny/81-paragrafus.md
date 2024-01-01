@@ -6,7 +6,7 @@
 
 (2) A nemzetiségi intézmények esetében:
 
-a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó vezetőinek megbízására (vezetői megbízás visszavonására),
+a) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó vezetőinek megbízására (vezetői megbízás visszavonására),
 
 b) a munka törvénykönyvéről szóló törvény hatálya alá tartozó vezető állású munkavállalói munkaszerződésének megkötéséhez (megszüntetéséhez)
 
