@@ -4,7 +4,7 @@ a) a polgárok személyi adatainak és lakcímének nyilvántartásáról szól�
 
 b) a külföldre utazásról szóló törvény szerinti útiokmány-nyilvántartásban szereplő adatok közül az arra vonatkozó adat, hogy az érintett személy rendelkezik-e érvényes úti okmánnyal, valamint az úti okmány birtokosának családi és utóneve – ideértve a születési családi és utónevet is –, arcképmása, saját kezű aláírása, az úti okmány okmányazonosítója, kiadásának, cseréjének, visszavonásának, bevonásának, érvényességének, elvesztésének, eltulajdonításának, megsemmisülésének, megtalálásának, megkerülésének ténye,
 
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti idegenrendészeti résznyilvántartásokban szereplő valamennyi adat,
+c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti idegenrendészeti résznyilvántartásokban szereplő valamennyi adat,
 
 d) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti résznyilvántartásokban szereplő valamennyi adat,
 
