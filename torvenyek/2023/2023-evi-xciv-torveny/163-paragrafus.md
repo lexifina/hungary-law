@@ -11,15 +11,3 @@ c) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 d) az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

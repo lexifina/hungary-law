@@ -2,7 +2,7 @@
 
 a) 11. § (2) bekezdés a) pontjában a „bevett egyház” szövegrész helyébe a „lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény szerinti bevett egyház” szöveg, és a „céljából” szövegrész helyébe a „céljából, hitéleti célból” szöveg,
 
-b) 13. § (2) bekezdés e) pontjában a „használatot.” szövegrész helyébe a „használatot, vagy” szöveg,
+b)
 
 c) 16. § (3) bekezdésében az „előállítója esetében” szövegrész helyébe az „előállítója, valamint a rizstelep használója esetében” szöveg
 

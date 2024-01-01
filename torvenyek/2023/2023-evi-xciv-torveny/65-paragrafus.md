@@ -4,11 +4,11 @@ a) 2. § 33. pontjában a „vagy” szövegrész helyébe az „és az” szöv
 
 b) 7. § (6) bekezdés nyitó szövegrészében az „a) és b) pontja szerinti pénzforrás legfeljebb 4%-a” szövegrész helyébe a „b) pontja szerinti pénzforrás legfeljebb 8%-a” szöveg,
 
-c) 10. § (1) bekezdés a) pontjában a „4500” szövegrész helyébe az „5400” szöveg,
+c)
 
-d) 10. § (1) bekezdés b) pontjában a „4500” szövegrész helyébe az „5400” szöveg,
+d)
 
-e) 10. § (1) bekezdés c) pontjában az „1500” szövegrész helyébe az „1800” szöveg,
+e)
 
 f) 10. § (3) bekezdésében a „szeptember 15-ig” szövegrészek helyébe a „szeptember 30-ig” szöveg,
 

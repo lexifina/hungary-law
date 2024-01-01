@@ -12,7 +12,7 @@ e) 30. § (2) bekezdésében az „okiratok mezőgazdasági” szövegrész hely
 
 f) 34/A. § (2) bekezdésében az „az adásvételi” szövegrész helyébe az „a föld tulajdonjogának átruházására irányuló” szöveg,
 
-g) 45/B. § (7) bekezdésében a „feljegyzése” szövegrész helyébe a „bejegyzése” szöveg és a „feljegyzésnek” szövegrész helyébe a „bejegyzésnek” szöveg,
+g)
 
 h) 60. § (2) bekezdésében az „az annak legalább 25%-ban tulajdonos természetes személy tagja” szövegrész helyébe az „azon természetes személy, aki a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa,” szöveg,
 
@@ -20,11 +20,11 @@ i) 60. § (3) bekezdésében az „az annak legalább 25%-ban tulajdonos termés
 
 j) 63. § (1) bekezdésében a „legalább 30%-os” szövegrész helyébe a „30%-ot meghaladó” szöveg
 
-k) 76/A. § (4) bekezdésében a „feljegyzését” szövegrész helyébe a „bejegyzését” szöveg,
+k)
 
-l) 94. § (3) bekezdésében a „ca)–cd)” szövegrész helyébe a „ca)–ce)” szöveg,
+l)
 
-m) 94. § (4) bekezdésében a „cc) és cd)” szövegrész helyébe a „cc)–ce)” szöveg,
+m)
 
 n) 107. §-ában a „3–7. §” szövegrész helyébe a „3–7/A. §” szöveg
 

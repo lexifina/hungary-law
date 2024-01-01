@@ -10,8 +10,6 @@ c) 3/A. §-ában a „közigazgatási” szövegrész helyébe a „fémkeresked
 
 d) 4. § (9) bekezdésében az „adatokat tartalmazó külön” szövegrész helyébe az „ , illetve más” szöveg és az „esetekben kiállítandó” szövegrész helyébe az „adatokat tartalmazó, szigorú számadású” szöveg,
 
-e) 11/A. § (1) bekezdés b) pontjában a „természetes személy” szövegrész helyébe az „az a) pont alá nem tartozó személy – ideértve az egyéni vállalkozót is –” szöveg,
+e)
 
-f) 11/A. § (2) bekezdés b) pontjában a „személy által” szövegrész helyébe a „személy – ideértve az egyéni vállalkozót is – által” szöveg
-
-lép.
+f)

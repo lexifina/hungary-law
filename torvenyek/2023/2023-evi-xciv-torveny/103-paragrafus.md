@@ -8,6 +8,4 @@ c) 64. § (3) bekezdésében a „42” szövegrész helyébe a „38/A” szöv
 
 d) 67. § (5) bekezdésében a „3” szövegrész helyébe a „8” szöveg,
 
-e) 69/B. §-ában a „keresetlevélnek” szövegrész helyébe a „keresetlevél benyújtásának a bírságra vonatkozó rendelkezés tekintetében” szöveg
-
-lép.
+e)

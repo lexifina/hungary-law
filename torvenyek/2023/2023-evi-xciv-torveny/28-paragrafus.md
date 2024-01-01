@@ -2,7 +2,7 @@
 
 a) 6/A. § (3) bekezdésében az „és minőségi osztályát,” szövegrész helyébe a „ , minőségi osztályát és aranykorona értékét,” szöveg,
 
-b) 11. § (1a) bekezdésében a „feljegyzésre” szövegrész helyébe a „bejegyzésre” szöveg,
+b)
 
 c) 11. § (3b) bekezdésében az „igénybevételére csak a (3) bekezdés c) pontja szerinti esetben” szövegrész helyébe a „más célú hasznosítására csak helyhez kötött igénybevétel esetén” szöveg,
 
