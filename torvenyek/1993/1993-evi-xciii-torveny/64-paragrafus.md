@@ -4,6 +4,8 @@
 
 64. § (1) Azt a munkabalesetet, amely esetében a munkavállaló több mint három munkanapon át nem volt munkaképes, valamint a foglalkozási megbetegedést és a fokozott expozíciós esetet be kell jelenteni, ki kell vizsgálni és nyilvántartásba kell venni.
 
+(1a) A munkáltatónak a munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztáznia kell, amelynek módját és a dokumentálás rendjét a 65. § (1) bekezdésében foglaltak figyelembevételével kell meghatároznia.
+
 (2) Az (1) bekezdésben foglaltakat
 
 a) a munkabaleset és a fokozott expozíció esetén – eltérő jogszabályi rendelkezés hiányában – a munkáltató,
@@ -14,8 +16,18 @@ teljesíti.
 
 (3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók esetén a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, TAJ száma, születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
 
-(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet és a fokozott expozíciós esetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleset esetén a munkabaleseti jegyzőkönyvben, fokozott expozíció esetén a jegyzőkönyvben kell rögzítenie. A munkabaleset kivizsgálásának megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A munkabaleset kivizsgálásában történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt. Súlyos munkabaleset és fokozott expozíció esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
+(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet és a fokozott expozíciós esetet haladéktalanul ki kell vizsgálnia és a kivizsgálás eredményét
 
-(5) A munkáltató köteles a súlyos munkabalesetet a munkavédelmi hatóságnak [84. § (2) bekezdés] azonnal bejelenteni.
+a) munkabaleset esetén a munkabaleseti jegyzőkönyvben,
+
+b) fokozott expozíció esetén a jegyzőkönyvben
+
+kell rögzítenie.
+
+(4a) A munkabaleset kivizsgálásának megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A munkabaleset kivizsgálásában történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt.
+
+(4b) Súlyos munkabaleset esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban.
+
+(5) A munkáltató köteles a súlyos munkabaleset bekövetkezéséről a munkavédelmi hatóságot azonnal értesíteni.
 
 (6) A bejelentéssel, kivizsgálással és nyilvántartással kapcsolatos részletes előírásokat a munkabalesetek tekintetében e törvény és a foglalkoztatáspolitikáért felelős miniszter rendelete, a foglalkozási megbetegedések és a fokozott expozíciók tekintetében a foglalkoztatáspolitikáért felelős miniszternek az egészségügyért felelős miniszterrel egyetértésben kiadott rendelete határozza meg.

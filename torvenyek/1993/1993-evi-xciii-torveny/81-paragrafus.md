@@ -10,7 +10,7 @@
 
 (4) A munkavédelmi hatóság ellenőrzése kiterjed
 
-a) a munkáltatók és munkavállalók egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos feladatainak és kötelezettségeinek teljesítésére, ideértve a foglalkozás-egészségügyi szolgálatok munkavédelmi feladatainak megvalósítását is;
+a) a munkáltatók és munkavállalók egészséget nem veszélyeztető és biztonságos munkavégzéssel kapcsolatos feladatainak és kötelezettségeinek teljesítésére, ideértve a munkabiztonsági és munkaegészségügyi szaktevékenységek megvalósítását is;
 
 b) a munkahelyek létesítésére, a munkaeszközök üzemeltetésére, az alkalmazott technológiákra és anyagokra, valamint az egyéni védőeszközökre vonatkozó követelmények érvényesítésére;
 

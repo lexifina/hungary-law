@@ -10,6 +10,10 @@ c) a húsz főnél kevesebb munkavállalót foglalkoztató munkáltatónál – 
 
 d) a munkáltató önálló telephelyén, részlegénél akkor lehet munkavédelmi képviselőt választani, ha az 54–56. §-okban meghatározott munkáltatói munkavédelmi jogosítványok az önálló telephely, részleg vezetőjét részben vagy egészben megilletik.
 
+(1a) Ha a munkáltató munkavédelmi képviselő választásra kötelezett, a munkavédelmi képviselő választást a kötelezettség keletkezésének napjától számított hat hónapon belül meg kell tartani.
+
+(1b) Azon munkáltatónál, ahol van választott munkavédelmi képviselő, a munkavédelmi képviselő mandátumának lejártát követően három hónapon belül a munkavédelmi képviselő választást meg kell tartani.
+
 (2) A munkavédelmi képviselő választására az Mt. 238. §-át kell alkalmazni azzal, hogy az Mt. 238. § (2) bekezdésében foglaltakon túl nem választható munkavédelmi képviselővé az, aki a munkáltatónál munkaviszony keretében főtevékenységként a munkáltató megbízásából munkavédelmi feladatokat lát el.
 
 (3) A munkavédelmi képviselőt egyenlő, titkos és közvetlen szavazással öt évre választják. A megválasztott munkavédelmi képviselők személyéről a munkavállalókat tájékoztatni kell. A munkavédelmi képviselők megválasztásának, megbízatása megszűnésének, visszahívásának rendjére, működési területére az Mt.-nek az üzemi tanács tagjaira, illetve az üzemi megbízottra vonatkozó rendelkezéseit kell megfelelően alkalmazni, ideértve a központi munkavédelmi bizottság megalakításának lehetőségét is.

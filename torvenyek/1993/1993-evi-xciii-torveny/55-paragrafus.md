@@ -13,3 +13,5 @@ elsajátítsa és a foglalkoztatás teljes időtartama alatt rendelkezzen az eg�
 (2) Az (1) bekezdésben előírt ismeretek megszerzéséig a munkavállaló önállóan nem foglalkoztatható.
 
 (3) Az oktatási tematika elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.
+
+(4) A (3) bekezdésben meghatározott munkaegészségügyi feladatot a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.

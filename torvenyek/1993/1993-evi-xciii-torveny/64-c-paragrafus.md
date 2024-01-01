@@ -1,8 +1,8 @@
-64/C. § (1) Az orvosi tevékenység körében észlelt – a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzétett jegyzékben szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes munkavédelmi hatósághoz be kell jelenteni.
+64/C. § (1) Az orvosi tevékenység körében észlelt – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 3. számú mellékletében szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes munkavédelmi hatósághoz be kell jelenteni.
 
 (2) Az (1) bekezdés szerinti bejelentés céljára rendszeresített nyomtatványt és a kitöltési útmutatót a munkavédelmi hatóság a foglalkoztatáspolitikáért felelős miniszter hivatalos honlapján közzéteszi. Az (1) bekezdés szerinti bejelentés tartalmazza:
 
-a) a bejelentésazonosítót, a megye kódját, a bejelentő nevét, a bejelentés dátumát,
+a) a bejelentésazonosítót, a vármegye kódját, a bejelentő nevét, címét, telefonszámát, a bejelentés dátumát,
 
 b) a keresőképességre vonatkozó információt, az előfordulás egyedi vagy tömeges jellegét,
 

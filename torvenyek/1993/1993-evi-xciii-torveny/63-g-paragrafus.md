@@ -6,7 +6,7 @@ a) a bejelentés dátumát,
 
 b) a munkáltató és a bejelentő, adatszolgáltató személy nevét,
 
-c) a munkáltató székhelyét, telefonszámát, e-mail-címét,
+c) a munkáltató székhelyét, adószámát vagy adóazonosító jelét, telefonszámát, e-mail-címét,
 
 d) a munkavégzés pontos helyét,
 

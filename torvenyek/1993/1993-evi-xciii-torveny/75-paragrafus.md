@@ -8,7 +8,7 @@ b) a szükséges eszközöket, így különösen a működési, technikai, anyag
 
 (3) Az (1)–(2) bekezdésben foglalt rendelkezések teljesítésével kapcsolatban felmerült költségek a munkáltatót terhelik.
 
-(4) Az alapképzés és továbbképzés megszervezése a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) szerint kontaktórás, távoktatás, illetve zárt rendszerű elektronikus távoktatás formájában valósulhat meg. Az alap- és továbbképzést szervező felnőttképző a képzésekről vezetett nyilvántartását 5 évig megőrzi. A nyilvántartásnak tartalmaznia kell a képzés idejét, jelenléti képzés esetén a képzés helyszínét, a képzés jellegére vonatkozó utalást, a résztvevők nevét, a képzés formáját és a képzés ismeretanyagának vázlatát.
+(4) Az alapképzés és továbbképzés megszervezése a felnőttképzésről szóló 2013. évi LXXVII. törvény (a továbbiakban: Fktv.) szerint kontaktórás, távoktatás, illetve zárt rendszerű elektronikus távoktatás formájában valósulhat meg. Az alap- és továbbképzést szervező felnőttképző a képzésekről vezetett nyilvántartását az Fktv.-ben meghatározott ideig megőrzi. A nyilvántartásnak tartalmaznia kell a képzés idejét, jelenléti képzés esetén a képzés helyszínét, a képzés jellegére vonatkozó utalást, a résztvevők nevét, a képzés formáját és a képzés ismeretanyagának vázlatát.
 
 (5) A munkavédelmi képviselőnek megválasztását követő hat hónapon belül el kell végeznie a legalább 16 óraszámú alapképzést.
 

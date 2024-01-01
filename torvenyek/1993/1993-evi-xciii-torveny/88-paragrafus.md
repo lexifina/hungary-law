@@ -10,13 +10,13 @@ b) rendeletet alkosson a foglalkozás-egészségügyi szolgálatról;
 
 c) rendeletben állapítsa meg a munkavédelmi szakértői szakterületeket, a munkavédelmi szakértői tevékenység folytatásának, a tevékenységre jogosító engedély kiadásának a részletes szabályait, a szakértői tevékenységre jogszabályban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, valamint a nyilvántartás vezetésére és a munkabiztonsági szakértők kötelező továbbképzési rendszerére vonatkozó eljárás részletes szabályait;
 
-d) rendeletben állapítsa meg a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokat;
+d) rendeletben állapítsa meg a munkavédelmi bírság mértékét és a kiszabására vonatkozó részletes szabályokat;
 
 e) rendeletben jelölje ki a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkavédelmi hatóságot, továbbá szabályozza ezen hatóság által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
 f) rendeletben állapítsa meg az egyéni védőeszközök egészségvédelmi és biztonsági követelményeinek és megfelelősége tanúsításának, továbbá az egyéni védőeszközök megfelelőségét értékelő szervezetek engedélyének, bejelentésének, tevékenységének, valamint ellenőrzésének szabályait;
 
-g) a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és kötelező továbbképzési rendszerének szabályait rendeletben határozza meg.
+g) a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és továbbképzésének szabályait rendeletben határozza meg.
 
 (3) Felhatalmazást kap a feladatkörében érintett miniszter, hogy
 
@@ -24,7 +24,11 @@ a) a rendkívüli munkavégzési körülmények esetére, illetőleg a rendvéde
 
 b) az egyes veszélyes tevékenységekre vonatkozó Szabályzatokat (11. §) a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben, rendeletben adja ki.
 
-c) rendeletben határozza meg a honvédelmi szervezetnél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet, valamint a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaságnál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a honvédelmi alkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+c) rendeletben határozza meg a honvédelmi szervezetnél, a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézménynél, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, szervezett munkavégzést folytató szervezet, valamint a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaságnál a munkavégzésre irányuló jogviszony, a közalkalmazotti jogviszony, a köznevelési foglalkoztatotti jogviszony, az egészségügyi szolgálati jogviszony, a honvédelmi alkalmazotti jogviszony, a kormányzati szolgálati jogviszony, a politikai szolgálati jogviszony, a biztosi jogviszony, a közszolgálati jogviszony, valamint a szolgálati viszony keretében kifejtett munkatevékenységre vonatkozó, e törvényben meghatározottaktól eltérő munkavédelmi követelményeket, az eljárási szabályokat, a tevékenységek veszélyességi osztályba sorolását, továbbá a hatósági ellenőrzési irányelv kiadása és a hatósági tevékenység tapasztalatairól való beszámolás rendjét, a munkavédelmi érdekképviseletre, érdekegyeztetésre, valamint a balesetek, a foglalkozási megbetegedések és a fokozott expozíciós esetek bejelentésére, kivizsgálására és minősítésére vonatkozó szabályokat.
+
+d) az egészségügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg azon munkaköröket, feladatköröket (foglalkozásokat), amelyek esetében a munkára való alkalmasságról jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni,
+
+e) az irányítása vagy felügyelete alá tartozó szervek tekintetében az egészségügyért felelős miniszterrel és a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben rendeletben határozza meg azon munkaköröket, feladatköröket (foglalkozásokat), amelyek esetében a munkára való alkalmasságról jogszabályban meghatározott orvosi vizsgálat alapján kell dönteni.
 
 (4) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy
 
@@ -74,7 +78,7 @@ dg) az elsősorban hátsérülések kockázatával járó kézi tehermozgatás m
 
 dh) a képernyő előtti munkavégzés minimális egészségügyi és biztonsági követelményeinek;
 
-di) a foglalkozási eredetű rákkeltő anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének;
+di) a foglalkozási eredetű rákkeltő, mutagén vagy reprodukciót károsító anyagok elleni védekezés és az általuk okozott egészségkárosodások megelőzésének;
 
 dj) az azbeszttel kapcsolatos kockázatoknak kitett munkavállalók védelmének;
 
@@ -115,6 +119,8 @@ b) a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsg
 c) a munkahelyi elsősegélynyújtás célját, tárgyi és szervezési feltételeinek, a személyek kijelölésének, kiképzésének és továbbképzésének, valamint az elsősegélynyújtás szakmai irányításának és ellenőrzésének
 
 részletes szabályait.
+
+(4b) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy rendeletben határozza meg a munkavédelmi szakmai képesítések fokát.
 
 (5) Felhatalmazást kap a foglalkoztatáspolitikáért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével rendeletben állapítsa meg a kémiai kóroki tényezők hatásának kitett munkavállalók egészségének és biztonságának védelméről szóló részletes szabályokat.
 

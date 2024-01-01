@@ -2,6 +2,8 @@
 
 (2) A foglalkozás-egészségügyi szolgálat a munkáltató felelősségének érintetlenül hagyásával közreműködik az egészséget nem veszélyeztető munkakörnyezet kialakításában, az egészségkárosodások megelőzésében, a munkaegészségügyi szaktevékenységnek minősített, külön jogszabályok által előírt feladatok ellátásában.
 
+(2a) Az egészséget nem veszélyeztető munkakörnyezet kialakításával kapcsolatos munkaegészségügyi feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+
 (3) A munkáltatónak biztosítania kell, hogy munkavállalói és azok munkavédelmi képviselői a munkakörülményeikkel kapcsolatban, így különösen a 61. §-ban biztosított jogaik gyakorlása során a szükséges felvilágosítást a foglalkozás-egészségügyi szolgálattól megkaphassák.
 
 (4) A foglalkozás-egészségügyi szolgálat munkavédelmi feladatokra kiterjedő szakmai irányítását a munkahigiénés és foglalkozás-egészségügyi szerv látja el, ebben a körben a munkáltató a foglalkozás-egészségügyi szolgálatnál foglalkoztatottaknak utasítást nem adhat. A szakmai irányítás magában foglalja a helyes gyakorlat módjának meghatározását és annak érvényre juttatását.

@@ -24,6 +24,8 @@ i) a munkavállalók megfelelő utasításokkal történő ellátása.
 
 (2) A munkáltatónak rendelkeznie kell kockázatértékeléssel, amelyben köteles minőségileg, illetve szükség esetén mennyiségileg értékelni a munkavállalók egészségét és biztonságát veszélyeztető kockázatokat, különös tekintettel az alkalmazott munkaeszközökre, veszélyes anyagokra és keverékekre, a munkavállalókat érő terhelésekre, valamint a munkahelyek kialakítására. A kockázatértékelés során a munkáltató azonosítja a várható veszélyeket (veszélyforrásokat, veszélyhelyzeteket), valamint a veszélyeztetettek körét, felbecsüli a veszély jellege (baleset, egészségkárosodás) szerint a veszélyeztetettség mértékét. A kockázatértékelés során az egészségvédelmi határértékkel szabályozott kóroki tényező előfordulása esetén munkahigiénés vizsgálatokkal kell gondoskodni az expozíció mértékének meghatározásáról.
 
+(2a) A foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a kockázatértékelés munkaegészségügyi tartalmával kapcsolatos feladatokat a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel rendelkező személy is elláthatja.
+
 (3) A munkáltató a kockázatértékelést, a kockázatkezelést és a megelőző intézkedések meghatározását – eltérő jogszabályi rendelkezés hiányában – a tevékenység megkezdése előtt, azt követően indokolt esetben, de legalább 3 évente köteles elvégezni. Az 56. §-ban meghatározottak a kockázatértékelésben rögzítésre kerülhetnek. Indokolt esetnek kell tekinteni
 
 a) az alkalmazott tevékenység, technológia, munkaeszköz, munkavégzés módjának megváltozását,
@@ -59,6 +61,8 @@ A kockázatértékelés dokumentumát a munkáltató köteles a külön jogszab�
 (6) Az (1) bekezdés g) pontjában meghatározott megelőzési stratégia munkabiztonsági és munkaegészségügyi tartalmának kialakítása munkabiztonsági és munkaegészségügyi szaktevékenységnek minősül.
 
 (6a) A megelőzési stratégia a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt 1–9 főt foglalkoztatók esetében a kockázatértékelés részét is képezheti.
+
+(6b) A megelőzési stratégia munkaegészségügyi tartalmának kialakítása a foglalkoztatáspolitikáért felelős miniszter rendelete szerinti III. veszélyességi osztályba sorolt, 1–9 főt foglalkoztatók esetében a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának jóváhagyásával közegegészségügyi-járványügyi ellenőri vagy felügyelői, vagy népegészségügyi ellenőri vagy felügyelői szakképzettséggel is ellátható.
 
 (7) Az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkáltató köteles
 

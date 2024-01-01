@@ -2,4 +2,4 @@
 
 (2) A mentési terv munkahelyre vonatkozó részét minden érintett munkavállalóval ismertetni kell.
 
-(3) A mentési terv elkészítése munkabiztonsági szaktevékenység.
+(3) A mentési terv elkészítése munkabiztonsági és munkaegészségügyi szaktevékenység.

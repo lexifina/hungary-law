@@ -2,4 +2,4 @@
 
 (2) Munkabiztonsági szaktevékenységnek minősül a munkabaleset kivizsgálása.
 
-(3) A fokozott expozíciós eset kivizsgálása munkaegészségügyi és munkabiztonsági szaktevékenységnek minősül.
+(3) A súlyos munkabaleset és fokozott expozíciós eset kivizsgálása munkaegészségügyi és munkabiztonsági szaktevékenységnek minősül.

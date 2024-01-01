@@ -30,9 +30,9 @@ n) munkahigiénés vizsgálatok elvégeztetését elrendelni.
 
 o) az ellenőrzés helyszínén található biztonsági berendezések által rögzített felvételek és a munkavégzés területére való be- és kilépést rögzítő berendezések adatainak megtekintésére, valamint azokról másolat készítésére.
 
-(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a bejelentett súlyos munkabalesetet, valamint a foglalkozási megbetegedést – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
+(2) A munkavédelmi hatóság – a közúti közlekedéssel kapcsolatos munkabalesetet kivéve – köteles a tudomására jutott súlyos munkabalesetet, valamint a foglalkozási megbetegedést – a munkáltató ez irányú felelősségét nem érintve – kivizsgálni.
 
-(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt határozatának azonnali végrehajtását rendelheti el.
+(3) A munkavédelmi hatóság – a munkavállaló egészségének és testi épségének megóvása, továbbá munkabaleset megelőzése céljából – az (1) bekezdés f), g) és j) pontjaiban foglalt döntésének azonnali végrehajtását rendelheti el.
 
 (4) A munkavédelmi hatóság a tényállás alapján jogosult a munkáltató és a munkahelyen munkát végző személy közötti munkavégzésre irányuló – az ellenőrzés megkezdésekor, illetőleg baleset bekövetkezése esetén a baleset időpontjában fennálló – jogviszonyt szervezett munkavégzésnek minősíteni. A minősítéshez a munkáltatóként eljárás alá vontnak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka nem tartozik a szervezett munkavégzés (87. § 9. pont) körébe.
 

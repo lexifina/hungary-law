@@ -22,9 +22,13 @@ g) a kivitelezési munkák megkezdésének tervezett időpontját,
 
 h) a kivitelezési munkák tervezett időtartamát,
 
-i) az építési helyszínen dolgozó személyek becsült maximális számát, és
+i) az építési helyszínen dolgozó személyek becsült maximális számát,
 
 j) a biztonsági és egészségvédelmi koordinátor nevét, elérhetőségét.
+
+k) a bejelentő, adatszolgáltató nevét, címét és
+
+l) a bejelentő telefonszámát, e-mail címét.
 
 (3) A munkavédelmi hatóság a (2) bekezdés szerinti bejelentésben szereplő adatokat három évig megőrzi.
 

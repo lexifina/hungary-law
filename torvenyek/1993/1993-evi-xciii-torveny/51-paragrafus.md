@@ -1,4 +1,4 @@
-51. § (1) A munka egészséget nem veszélyeztető és biztonságos elvégzéséhez megfelelő szakképzettségű és számú munkavállalót kell biztosítani.
+51. § (1) A munka egészséget nem veszélyeztető és biztonságos elvégzéséhez elegendő számú és – ha erre vonatkozó szabály ezt előírja – megfelelő szakmai képesítéssel rendelkező munkavállalót kell biztosítani.
 
 (2) Ahol veszély fenyeget, egyedül munkát végezni nem szabad, és ilyen helyre csak erre is kiterjedő oktatásban (55. §) részesült munkavállalók léphetnek be.
 
