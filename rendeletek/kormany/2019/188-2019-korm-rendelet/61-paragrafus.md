@@ -20,10 +20,12 @@ végezhet.
 
 a) meg kell adni
 
-aa) a személyi adatokat (név, szakképesítés, születési év, lakcím, személyazonosító, munkahely),
+aa)[^15] a személyi adatokat (név, szakképesítés, születési év, lakcím, munkahely),
 
 ab) a működési területet és az állatfajt;
 
 b) az inszeminátornak mellékelnie kell az állatorvosi oklevél, illetve inszeminátori bizonyítvány másolatát.
 
 (4) A mesterséges termékenyítést végző személynek a (3) bekezdésben megjelölt adatok változását, annak bekövetkezését követő 30 napon belül, a módosítani kívánt adatok közlésével írásban be kell jelentenie a NÉBIH-nek.
+
+[^15]: A 61. § (3) bekezdés a) pont aa) alpontja az 596/2023. (XII. 21.) Korm. rendelet 11. §-a szerint módosított szöveg.

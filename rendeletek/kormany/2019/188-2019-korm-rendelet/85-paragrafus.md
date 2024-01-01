@@ -2,7 +2,7 @@
 
 ## 17. Intézkedések
 
-## 85. §[^20] A miniszter, a NÉBIH és a kormányhivatal a Törvényben és az annak végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezésben, továbbá hatósági határozatban foglaltak megsértése esetén az eset összes lényeges körülményét mérlegelve, így különösen az érintettek érdekei sérelmének köre, a feltárt jogsértés súlya, a jogsértő állapot időtartama és a jogsértő magatartás ismételt tanúsítása, a jogsértéssel elért előny, a jogsértésben rejlő kockázat mértéke és jellege figyelembevételével a Törvény 6. és 7. §-ában meghatározott intézkedéseken túlmenően
+## 85. §[^23] A miniszter, a NÉBIH és a kormányhivatal a Törvényben és az annak végrehajtására kiadott jogszabályokban, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusában meghatározott rendelkezésben, továbbá hatósági határozatban foglaltak megsértése esetén az eset összes lényeges körülményét mérlegelve, így különösen az érintettek érdekei sérelmének köre, a feltárt jogsértés súlya, a jogsértő állapot időtartama és a jogsértő magatartás ismételt tanúsítása, a jogsértéssel elért előny, a jogsértésben rejlő kockázat mértéke és jellege figyelembevételével a Törvény 6. és 7. §-ában meghatározott intézkedéseken túlmenően
 
 a) a figyelmeztetést tartalmazó döntésében elrendelheti
 
@@ -12,4 +12,4 @@ ab) a jogsértő magatartás jövőbeni tanúsításától történő eltiltást
 
 b) visszavonhatja az engedélyt.
 
-[^20]: A 85. § a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 85. § a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

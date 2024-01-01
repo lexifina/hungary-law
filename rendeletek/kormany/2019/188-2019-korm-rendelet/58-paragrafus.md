@@ -12,9 +12,11 @@ b) a tevékenység megkezdésének tervezett időpontját.
 
 (4)[^11] A művi szaporító létesítmény és a spermatároló központ üzemeltetésének megszűnését az üzemeltetőnek a megszűnés napjától számított 30 napon belül be kell jelentenie a kormányhivatalnak.
 
-(5)[^12] Az üzemeltető a bejelentésben megadott adatoknak vagy működése valamely feltételének megváltozását a változás bekövetkezésétől számított 8 napon belül köteles a kormányhivatalnak bejelenteni.
+(4a)[^12] Ha a kormányhivatal a helyszíni vagy adminisztratív ellenőrzések alapján megállapítja, hogy az üzemeltető a tevékenységet egymást követő négy évben nem folytatja, akkor intézkedik a művi szaporító létesítmény nyilvántartásból való törléséről.
 
-(6)[^13] A kormányhivatalnak a 2016/1012/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó állatfajok esetében is be kell tartania a 2016/1012/EU európai parlamenti és tanácsi rendelet 42. cikkében meghatározott titoktartási kötelezettséget.
+(5)[^13] Az üzemeltető a bejelentésben megadott adatoknak vagy működése valamely feltételének megváltozását a változás bekövetkezésétől számított 8 napon belül köteles a kormányhivatalnak bejelenteni.
+
+(6)[^14] A kormányhivatalnak a 2016/1012/EU európai parlamenti és tanácsi rendelet hatálya alá nem tartozó állatfajok esetében is be kell tartania a 2016/1012/EU európai parlamenti és tanácsi rendelet 42. cikkében meghatározott titoktartási kötelezettséget.
 
 (7) A NÉBIH a honlapján közzéteszi
 
@@ -25,5 +27,6 @@ b) az érintett személy kérelmére a szakmai névjegyzékbe vett inszeminátor
 [^9]: Az 58. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^10]: Az 58. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^11]: Az 58. § (4) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^12]: Az 58. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^13]: Az 58. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: Az 58. § (4a) bekezdését az 596/2023. (XII. 21.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^13]: Az 58. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^14]: Az 58. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.

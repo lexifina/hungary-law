@@ -2,7 +2,7 @@
 
 ## 15. A méhanyanevelő telep
 
-78. § (1)[^16] Méhanyát és méhanyabölcsőt forgalmazási céllal előállítani a kormányhivatal részére bejelentett méhanyanevelő telepen szabad, természetes pároztatással vagy mesterséges termékenyítéssel. Méhanya és méhanyabölcső az érintett tenyésztőszervezet által kiállított származási igazolással hozható forgalomba.
+78. § (1)[^19] Méhanyát és méhanyabölcsőt forgalmazási céllal előállítani a kormányhivatal részére bejelentett méhanyanevelő telepen szabad, természetes pároztatással vagy mesterséges termékenyítéssel. Méhanya és méhanyabölcső az érintett tenyésztőszervezet által kiállított származási igazolással hozható forgalomba.
 
 (2) A méhanyanevelő telep üzemeltetetése megkezdésére vonatkozó bejelentésnek az 58. § (2) bekezdésében foglaltakon túl tartalmaznia kell
 
@@ -22,7 +22,7 @@ a) a méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelé
 
 b) a kérelemben megadott méhfajta tenyésztésében érintett tenyésztőszervezet igazolását az üzemeltető méhészetének a fajta tenyésztési programjában való részvételéről és az üzemeltető legalább 3 éves, a tenyésztőszervezet tenyésztési programjában meghatározott állománylétszámmal végzett szakmai gyakorlatáról.
 
-(4)[^17] A méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelési tevékenységét irányító személynek
+(4)[^20] A méhanyanevelő telepként üzemeltetni kívánt méhészet méhanyanevelési tevékenységét irányító személynek
 
 a) szakirányú felsőfokú végzettséggel, középfokú szakképzettséget tanúsító szakmával vagy ezekkel egyenértékű szakképesítéssel és
 
@@ -30,5 +30,5 @@ b) az adott méhfajta tenyésztőszervezete által igazolt, legalább 3 év méh
 
 kell rendelkeznie.
 
-[^16]: A 78. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^17]: A 78. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (1) bekezdésével megállapított szöveg.
+[^19]: A 78. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 200. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^20]: A 78. § (4) bekezdése a 13/2020. (II. 7.) Korm. rendelet 140. § (1) bekezdésével megállapított szöveg.

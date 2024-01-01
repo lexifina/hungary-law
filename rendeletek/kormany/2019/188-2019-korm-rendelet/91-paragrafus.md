@@ -1,3 +1,3 @@
-91. §[^21]
+91. §[^24]
 
-[^21]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 91. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
