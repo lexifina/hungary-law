@@ -1,15 +1,11 @@
-8. § (1) A célelőirányzatból támogatás a következő formákban nyújtható:
+8. § (1) Az előirányzatból vissza nem térítendő vagy visszatérítendő támogatás különösen a következő formákban nyújtható:
 
-a) vissza nem térítendő támogatás,
+a) kamat-, kezességidíj-, kezelésiköltség- és egyéb költségtámogatás;
 
-b) kamattámogatás,
+b) lízingdíj-támogatás;
 
-c) lízingdíj-támogatás,
+c) faktoringdíj-támogatás;
 
-d) faktoringdíj-támogatás,
-
-e) bankgarancia-, viszontgarancia- és garanciadíj-kedvezmény, valamint
-
-f) tőkejegy jegyzése kockázati tőkealapokban, vagy tulajdoni részesedés szerzése kockázati tőketársaságokban, vállalkozásokban.
+d) bankgarancia-, viszontgarancia- és garanciadíj-kedvezmény.
 
 (2) Egy KKV egyidejűleg több támogatási formában is részesülhet.

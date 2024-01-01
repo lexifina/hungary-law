@@ -6,7 +6,9 @@ a) a Kormány tagjainak egy-egy képviselője,
 
 b) az országos gazdasági kamarák elnökei vagy a helyettesítésükre meghatalmazott személy,
 
-c) az Általános Fogyasztási Szövetkezetek és Kereskedelmi Társaságok Országos Szövetségének (ÁFEOSZ-COOP Szövetség), az Ipartestületek Országos Szövetségének (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetségének (KISOSZ), a Magyar Iparszövetségnek (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetségének (MGYOSZ), a Vállalkozók és Munkáltatók Országos Szövetségének (VOSZ), a Fiatal Vállalkozók Országos Szövetségének (FIVOSZ), a Joint Venture Szövetségnek (JVSZ), a Magyar Vállalkozásfejlesztési Alapítványnak (MVA), a Magyarok a Piacon Klubnak elnöke vagy a helyettesítésére meghatalmazott személy és a Kisvállalkozás-fejlesztési Alapítványnak (SEED) ügyvezető igazgatója vagy a helyettesítésére meghatalmazott személy.
+c) az Általános Fogyasztási Szövetkezetek és Kereskedelmi Társaságok Országos Szövetsége (ÁFEOSZ-COOP Szövetség), az Ipartestületek Országos Szövetsége (IPOSZ), a Kereskedők és Vendéglátók Országos Érdekképviseleti Szövetsége (KISOSZ), a Magyar Iparszövetség (OKISZ), a Munkaadók és Gyáriparosok Országos Szövetsége (MGYOSZ), a Vállalkozók és Munkáltatók Országos Szövetsége (VOSZ), a Fiatal Vállalkozók Országos Szövetsége (FIVOSZ), a Joint Venture Szövetség (JVSZ), a Magyar Vállalkozásfejlesztési Alapítvány (MVA), a Magyarok a Piacon Klub elnöke vagy a helyettesítésére meghatalmazott személy, a Kisvállalkozás-fejlesztési Alapítvány (SEED) ügyvezető igazgatója vagy a helyettesítésére meghatalmazott személy, valamint az IFKA Iparfejlesztési Közhasznú Nonprofit Korlátolt Felelősségű Társaság (IFKA) ügyvezetője vagy a helyettesítésére meghatalmazott személy.
+
+(2a) A VfT elnöke és tagjai a határozathozatal során szavazati joggal rendelkeznek.
 
 (3) Tanácskozási joggal vesznek részt a VfT munkájában:
 
@@ -16,6 +18,6 @@ b) a Nemzeti Gazdasági és Társadalmi Tanács Munkavállalói Oldalának két 
 
 c) a miniszter által kijelölt vállalkozásfejlesztési szervezetek vezetői vagy a helyettesítésükre meghatalmazott személy,
 
-d) a miniszter névre szóló felkérése alapján létrehozott szakmai tanácsadó testület tagjai,
+d)
 
 e) esélyegyenlőséget érintő kérdésekben az érintett civil szervezetek képviselői.

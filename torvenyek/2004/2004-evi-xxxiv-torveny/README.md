@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-34-00-00
 | 2020-01-01 | 2019. évi LXVII. törvény | 2004-34-00-00.26 |
 | 2022-05-25 | 2022. évi IV. törvény | 2004-34-00-00.27 |
 | 2023-09-01 | 2023. évi XLI. törvény | 2004-34-00-00.28 |
+| 2024-01-01 | 2023. évi CXIX. törvény | 2004-34-00-00.29 |
