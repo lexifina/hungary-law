@@ -10,7 +10,7 @@ a) a valamely tagállam állampolgárának, valamint a magyar állampolgárnak k
 
 b) a kutatás céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár,
 
-c) a bevándorolt, illetve letelepedett jogállású személy, valamint
+c) a huzamos tartózkodási jogosultsággal rendelkező személy, valamint
 
 d) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából Magyarország vagy valamely tagállam által kiállított engedéllyel (EU Kék Kártyával) rendelkező harmadik országbeli állampolgár,
 
