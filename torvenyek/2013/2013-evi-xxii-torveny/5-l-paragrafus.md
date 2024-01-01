@@ -1,1 +1,1 @@
-5/L. § A hitelesített energiamegtakarítások nyilvántartásában szereplő, egy adott évre elszámolható energiamegtakarítás adatait, ideértve a hitelesített energiamegtakarítás természetes személy jogosultjának nevét és címét a Hivatal a következő év március 31-ig az energiahatékonysági tájékoztató honlapján elérhetővé teszi.
+### 5/L. §
