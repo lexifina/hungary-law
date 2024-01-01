@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-30-20-0
 | 2021-12-30 | 2011-30-20-0A.29 | 46/2021. (XII. 22.) BM rendelet |
 | 2022-04-30 | 2011-30-20-0A.30 | 12/2022. (IV. 29.) BM rendelet |
 | 2023-01-01 | 2011-30-20-0A.33 | 45/2022. (XII. 20.) BM rendelet |
+| 2024-01-01 | 2011-30-20-0A.34 | 83/2023. (XII. 28.) BM rendelet |

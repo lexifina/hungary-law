@@ -1,6 +1,6 @@
-## 23. §[^44] Ha a rendőr az államhatáron átkóborolt háziállatot vagy az államhatáron elháríthatatlan ok következtében átkerült tárgyat talál, akkor jelentést tesz a területileg illetékes határrendészeti kirendeltség, ennek hiányában tevékenység-irányítási központ ügyeletesének, aki értesíti a jegyzőt, hogy intézkedjen az állat vagy tárgy biztonságos elhelyezésére, az államhatárról szóló törvényben és nemzetközi szerződésben meghatározott feladatok végrehajtására.
+## 23. §[^46] Ha a rendőr az államhatáron átkóborolt háziállatot vagy az államhatáron elháríthatatlan ok következtében átkerült tárgyat talál, akkor jelentést tesz a területileg illetékes határrendészeti kirendeltség, ennek hiányában tevékenység-irányítási központ ügyeletesének, aki értesíti a jegyzőt, hogy intézkedjen az állat vagy tárgy biztonságos elhelyezésére, az államhatárról szóló törvényben és nemzetközi szerződésben meghatározott feladatok végrehajtására.
 
-## 20. [^45] Közlekedésrendészeti intézkedés
+## 20. [^47] Közlekedésrendészeti intézkedés
 
 24. § (1) Az általános rendőrségi feladatok ellátására létrehozott szerv és a Terrorelhárítási Központ a közbiztonság védelme érdekében, katasztrófa, tűzeset vagy baleset, valamint rendezvény helyszínén a feltétlenül szükséges mértékben és időtartamban elrendelheti
 
@@ -16,5 +16,5 @@ c) egyéb közlekedési tilalmak feloldását, az egyirányú forgalmú utcában
 
 (4) A rendőrség fontos közérdekből a közúti járművek közlekedése vagy várakozása céljára ideiglenes jelleggel igénybe veheti az egyébként nem a közúti forgalom célját szolgáló közterületet, ha annak teherbírása megfelelő, valamint méret- és súlykorlátozás elrendelésével arra alkalmas.
 
-[^44]: A 23. § a 61/2015. (XI. 24.) BM rendelet 17. § d) pontja szerint módosított szöveg.
-[^45]: A 20. alcím címe a 21/2018. (VI. 29.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^46]: A 23. § a 61/2015. (XI. 24.) BM rendelet 17. § d) pontja szerint módosított szöveg.
+[^47]: A 20. alcím címe a 21/2018. (VI. 29.) BM rendelet 4. § (1) bekezdésével megállapított szöveg.
