@@ -16,7 +16,7 @@ e) a bányászati hulladék kezelőjének esetében – ha tevékenysége tekint
 
 f) a szén-dioxid-tárolóhely üzemeltetőjének, valamint a szén-dioxid-szállítóhálózat üzemeltetőjének tevékenységéből származó, a tárgyévet megelőző évi árbevétel 0,4%-a.
 
-(2) A felügyeleti díjat évente, egy összegben, ezer forintra kerekítve az SZTFH Magyar Államkincstárnál vezetett 10032000-00362887-00000000 számú számlájára mint a felügyeleti díj beszedésére jogosult részére kell átutalással megfizetni. Az átutalási megbízás közlemény rovatában a „felügyeleti díj” szöveget fel kell tüntetni. A felügyeleti díjat visszaigényelni nem lehet.
+(2)[^3] A felügyeleti díjat évente, egy összegben, az SZTFH Magyar Államkincstárnál vezetett 10032000-00362887-00000000 számú számlájára mint a felügyeleti díj beszedésére jogosult részére kell átutalással megfizetni. Az átutalási megbízás közlemény rovatában a „felügyeleti díj” szöveget fel kell tüntetni. A felügyeleti díjat visszaigényelni nem lehet.
 
 (3) A felügyeleti díjat
 
@@ -28,6 +28,7 @@ fizeti meg.
 
 (4) A (3) bekezdés b) pontja szerinti engedélyes a felügyeleti díj megfizetésével egyidejűleg a 3. melléklet szerinti tartalmú elszámolási adatlapot is megküldi az SZTFH részére.
 
-(5)[^3]
+(5)[^4]
 
-[^3]: Az 5. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 6. § b) pontja hatályon kívül helyezte.
+[^3]: Az 5. § (2) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 6. § b) pontja hatályon kívül helyezte.

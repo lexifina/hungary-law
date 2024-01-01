@@ -8,7 +8,7 @@
 
 | 4. | Szakhatósági állásfoglalás adása az Országos Atomenergia Hivatal hatósági eljárásában. | 57 000 | E0400 |
 
-| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^5] | 23 000 | E0500 |
+| 5. | Szakhatósági állásfoglalás adása a fővárosi és vármegyei kormányhivatalok engedélyezési eljárásaiban.[^6] | 23 000 | E0500 |
 
 | 6. | Szakhatósági állásfoglalás adása az igazságügyi szakértői névjegyzékbe történő felvételre irányuló eljárásban. | 15 000 | E0600 |
 
@@ -26,10 +26,11 @@ A felügyeleti díj elszámolásához szükséges adatlap tartalma
 
 4. Az engedélyes tevékenységek előző évi árbevételei [ezer forintban] tevékenységenként és összesítve
 
-5. A tárgyévi felügyeleti díj mértéke [a 4. pont szerinti összesített érték × 0,4%, illetve az 5. § (1) bekezdés d) pontja szerinti engedélyes esetében 0,04%] [ezer forintban]
+5.[^7] A tárgyévi felügyeleti díj mértéke [a 4. pont szerinti összesített érték × 0,4%, illetve az 5. § (1) bekezdés d) pontja szerinti engedélyes esetében 0,04%]
 
 6. Az engedélyes neve, telefonszáma
 
 7. Cégszerű aláírás
 
-[^5]: 
+[^6]: 
+[^7]: A 3. melléklet 5. pontja a 25/2023. (XII. 22.) SZTFH rendelet 1. § b) pontja szerint módosított szöveg.
