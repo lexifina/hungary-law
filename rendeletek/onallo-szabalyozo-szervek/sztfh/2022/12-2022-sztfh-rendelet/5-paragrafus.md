@@ -4,8 +4,9 @@
 
 a) azt, hogy a tervezési munka megfelel a 8. § (2) bekezdésében foglaltaknak,
 
-b) az elvi építési és a használatbavételi engedély iránti kérelem kivételével az építési jogosultságot.
+b)[^6]
 
-(2)[^5]
+(2)[^7]
 
-[^5]: Az 5. § (2) bekezdését a 17/2023. (VII. 31.) SZTFH rendelet 7. § a) pontja hatályon kívül helyezte.
+[^6]: Az 5. § (1) bekezdés b) pontját a 25/2023. (XII. 22.) SZTFH rendelet 5. § a) pontja hatályon kívül helyezte.
+[^7]: Az 5. § (2) bekezdését a 17/2023. (VII. 31.) SZTFH rendelet 7. § a) pontja hatályon kívül helyezte.
