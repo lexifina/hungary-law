@@ -14,7 +14,7 @@ d) közjóléti tevékenységgel összefüggésben épített és használt síp�
 
 (3) Honvédelmi rendeltetésű erdőben közjóléti létesítményt létesíteni csak abban az esetben lehet, ha az a területen folytatott katonai tevékenységgel összeegyeztethető.
 
-(4) Az engedélyköteles erdészeti létesítmények, valamint az erdei legeltetés céljából létesített villanypásztor kivételével az erdészeti létesítmény létesítését, bővítését, korszerűsítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
+(4) Az engedélyköteles erdészeti létesítmények, az öt évet meg nem haladó időre létesített vadkárelhárító villanypásztor, az erdei legeltetés céljából létesített villanypásztor, az erdő felújulását segítő, legfeljebb 0,25 hektár területet bekerítő kerítés, továbbá a magtermés védelme érdekében létesített 120 centiméternél nem magasabb vadkárelhárító kerítés kivételével az erdészeti létesítmény létesítését, bővítését, megszüntetését vagy rendeltetésének megváltoztatását annak megkezdése előtt legkésőbb 21 nappal előzetesen be kell jelenteni az erdészeti hatóság részére.
 
 (5) Az erdészeti létesítmények közül
 
@@ -28,7 +28,7 @@ létesítéséhez, bővítéséhez, korszerűsítéséhez, megszüntetéséhez, 
 
 (6) Vadkárelhárítási célból erdei kerítés csak abban az esetben létesíthető, ha a vadászati hatóság véleménye alapján az erdőtelepítés, erdőfelújítás védelme a vadállomány apasztásával vagy más vadkárelhárítási módszerrel nem biztosítható. A vadkárelhárító kerítés létesítése meghaladja a rendes erdőgazdálkodás körét.
 
-(7) Az erdőgazdálkodó az erdészeti létesítmény (4) vagy (5) bekezdés szerinti létesítését, bővítését, korszerűsítését, valamint rendeltetése megváltoztatását annak megvalósulásától számított 30 napon belül az erdészeti hatóság részére bejelenti.
+(7)
 
 (7a) Engedély vagy az erdészeti hatóság által tudomásul vett bejelentés nélkül létesített, bővített vagy rendeltetésében megváltoztatott erdészeti létesítmény, erdőben elhelyezett erdészeti létesítménynek nem minősülő építmény, berendezés, eszköz fennmaradásáról az erdészeti hatóság az erdő engedély nélküli igénybevételére vonatkozó jogszabályok szerint dönt.
 

@@ -36,33 +36,15 @@
 
 (18) Ha az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény és egyéb kapcsolódó törvények módosításáról szóló 2017. évi LVI. törvény (a továbbiakban: módosító törvény) hatálybalépése előtt e törvény alapján kiadott erdőterv lejártáig az új erdőterv nem kerül kiadásra, akkor az új erdőterv jogerőre emelkedéséig a korábbi erdőterv érvényessége fennmarad.
 
-(19) A módosító törvény hatálybalépésekor az erdőgazdálkodás üzemmódja az erdőterv módosítása nélkül
+(19)
 
-a) átalakító üzemmódú erdő esetében átmeneti üzemmódra,
+(20)
 
-b) szálaló üzemmódú erdő esetén örökerdő üzemmódra
+(21)
 
-változik, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
+(22)
 
-(20) A módosító törvény hatálybalépéséig üzemmód-megállapítással nem érintett erdőrészletek üzemmódja vágásos, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
-
-(21) A módosító törvény hatálybalépését követően
-
-a) a partvédelmi rendeltetés part- vagy töltésvédelmi rendeltetésnek,
-
-b) a vízgazdálkodási rendeltetés árvízvédelmi rendeltetésnek,
-
-c) a gyógyerdő rendeltetés parkerdő rendeltetésnek
-
-minősül, amelyet az erdészeti hatóság 2017. december 31-ig az Adattáron átvezet.
-
-(22) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2017. december 31-ig az Adattárban törli az erdő rendeltetései közül
-
-a) az erdészeti arborétum rendeltetést,
-
-b) a településvédelmi rendeltetést, ha az nem erdőgazdálkodó kérelmére vagy közérdekből való kezdeményezésre került megállapításra.
-
-(23) Az erdészeti hatóság a módosító törvény hatálybalépését követően, 2018. június 30-ig az erdő rendeltetéseit a 23. § (2) bekezdésében foglalt rendelkezésekkel, elsődleges rendeltetéseit a 23/A. §-ban foglalt rendelkezésekkel összhangban felülvizsgálja és a szükséges módosításokat az Adattáron átvezeti.
+(23)
 
 (24) Az önerdősülés útján létrejött, az Adattárban e törvény hatálybalépését követően hivatalból nyilvántartásba vett erdőt az erdészeti hatóság a tulajdonos, közös tulajdon esetén a tulajdonosok tulajdoni hányad alapján számított kétharmadának hozzájárulásával az erdőgazdálkodó, erdőgazdálkodó hiányában az erdő használatára jogosult kezdeményezésére átminősíti szabad rendelkezésű erdővé. Az átminősítés kezdeményezésére a módosító törvény hatálybalépését követő négy éven belül van lehetőség. A nem erdő művelési ágú területek esetében, ha a megadott határidő lejártáig az adott területen nincs erdőgazdálkodó, a terület adattári nyilvántartásáról való tudomásszerzést követően a módosító törvény hatálybalépését követő hét éven belül van lehetőség.
 
@@ -84,15 +66,9 @@ A kérelem benyújtására a módosító törvény hatálybalépését követő 
 
 (28) Az erdészeti hatóság a módosító törvény hatálybalépésekor az Adattárban nyilvántartott erdőt, ha az a 4. § (2) bekezdésben foglalt feltételeknek megfelel, az erdőgazdálkodó kérelmére, de legkésőbb a soron következő körzeti erdőtervezéskor kivezeti az Adattárból.
 
-(29) Az Adattárban nyilvántartott,
+(29)
 
-a) a 13. § (1) bekezdés c), f) és g) pontjában foglalt erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület a módosító törvény hatálybalépését követően,
-
-b) a 13. § (1) bekezdés a), b), d), h) és i) pontjában foglalt erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület 2018. július 1-jétől
-
-fátlan állapotban tartott erdőnek minősül, amely változást az erdészeti hatóság az Adattáron átvezet.
-
-(30) A 33. § (1)–(6) bekezdésben foglalt rendelkezéseket az agrárium versenyképességének javítása érdekében egyes törvények módosításáról szóló 2017. évi CLXXXIII. törvény hatálybalépésekor folyamatban lévő körzeti erdőtervezésekre is alkalmazni kell.
+(30)
 
 (31) Az erdészeti hatóság a módosító törvény hatálybalépését megelőzően az erdőtervekben meghatározott, illetve az Adattárba – a körzeti erdőtervek átvezetése, vagy más eljárás során – bejegyzett erdőgazdálkodási korlátozásokat
 

@@ -1,4 +1,4 @@
-92. § (1) Az erdőben látogatás céljából járművel – ideértve a nem sport vagy turisztikai célú, lóval vontatott járművet, valamint a nem csak emberi erővel hajtott kerékpárt is – közlekedni csak
+92. § (1) Az erdőben látogatás céljából járművel – ideértve a nem sport vagy turisztikai célú, lóval vontatott járművet, valamint a 300 W teljesítménynél nagyobb névleges teljesítményű motorral rendelkező kerékpárt is – közlekedni csak
 
 a) a közforgalom számára megnyitott erdészeti magánúton,
 

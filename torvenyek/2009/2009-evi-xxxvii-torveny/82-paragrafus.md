@@ -32,7 +32,7 @@ c) ha az adott térségben az erdő csökkenésének tilalmáról jogszabály re
 
 (6) A csereerdősítés tervezésére, engedélyezésére az erdőtelepítés, egyéb feltételeire az erdőfelújítás szabályai vonatkoznak azzal, hogy a csereerdősítési terv engedélyezése – a (6a) bekezdésben foglalt eset kivételével – az igénybevétel megkezdésének feltétele, a csereerdősítési kötelezettség keletkezése időpontjának pedig az igénybevétel megkezdése minősül.
 
-(6a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az igénybevétel megkezdésének feltétele az erdő igénybevételhez kapcsolódóan előírt csereerdősítési kötelezettség teljesítésének megfelelő területre szóló csereerdősítési terv engedélyezésre történő benyújtása.
+(6a) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az igénybevétel megkezdésének feltétele az erdő igénybevételhez kapcsolódóan előírt csereerdősítési kötelezettség teljesítésének megfelelő területre szóló csereerdősítési terv engedélyezésre történő benyújtása. A csereerdősítést a beruházóval kötött szerződés alapján az 1. mellékletben meghatározott valamelyik állami erdészeti társaság végzi.
 
 (6b) Erdő igénybevételi eljárásban ötezer négyzetmétert el nem érő csereerdősítésre tervezett terület az erdészeti hatóság által akkor fogadható el, ha az Adattárban nyilvántartott erdőrészlethez közvetlenül csatlakozik.
 

@@ -10,7 +10,7 @@ a tevékenység megkezdését legkésőbb 21 nappal megelőzően az erdészeti h
 
 (2) Az erdőgazdálkodási tevékenység az (1) bekezdés szerinti bejelentés mellőzésével is végrehajtható, ha
 
-a) az erdőgazdálkodó a 33. § (8) bekezdésében foglalt kérelmében az erdőgazdálkodási tevékenység tárgyévben történő végrehajtására vonatkozó szándékát jelezte, és az erdőgazdálkodási tevékenységet az erdészeti hatóság az erdőterv módosításával lehetővé tette,
+a) az erdőgazdálkodó a 33. § (8a) bekezdésében foglalt kérelmében az erdőgazdálkodási tevékenység tárgyévben történő végrehajtására vonatkozó szándékát jelezte, és az erdőgazdálkodási tevékenységet az erdészeti hatóság az erdőterv módosításával lehetővé tette,
 
 b) az erdőgazdálkodási tevékenységet a 73. § (6) bekezdése vagy a 106. § (1) bekezdése alapján az erdészeti hatóság rendelte el, vagy
 

@@ -1,12 +1,12 @@
 ## Az erdő látogatása
 
-91. § (1) Az erdőben – annak rendeltetésétől függetlenül – pihenés, üdülés, sportolás és kirándulás céljából gyalogosan, emberi erővel hajtott kerékpárral, lóval, valamint az erdészeti feltáróhálózat részét képező erdei úton sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére közlekedhet, illetve ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
+91. § (1) Az erdőben – annak rendeltetésétől függetlenül – pihenés, üdülés, sportolás és kirándulás céljából gyalogosan, kerékpárral, lóval, valamint az erdészeti feltáróhálózat részét képező erdei úton sport vagy turisztikai célú, lóval vontatott járművel bárki saját felelősségére közlekedhet, illetve ott tartózkodhat, amit az erdőgazdálkodó tűrni köteles, kivéve, ha
 
 a) más jogszabály azt korlátozza, vagy
 
 b) az arra jogosult a látogatás korlátozását az e törvényben foglaltak alapján elrendelte.
 
-(1a) Az állam illetve a helyi önkormányzat 100%-os tulajdonában nem álló erdőben az erdészeti feltáróhálózat részét képező erdei úton kívül való lovaglást, és emberi erővel hajtott kerékpárral való közlekedést az erdőgazdálkodó korlátozhatja, illetve megtilthatja, ha a terület tulajdoni jellegét és a korlátozást, illetve tiltást a területen megfelelően jelzi.
+(1a) Az állam illetve a helyi önkormányzat 100%-os tulajdonában nem álló erdőben az erdészeti feltáróhálózat részét képező erdei úton kívül való lovaglást, és kerékpárral való közlekedést az erdőgazdálkodó korlátozhatja, illetve megtilthatja, ha a terület tulajdoni jellegét és a korlátozást, illetve tiltást a területen megfelelően jelzi.
 
 (1b) Az erdőben abban az esetben lehet a megjelölt turistaúton kerékpározni és lovagolni, a megjelölt kerékpáros úton lovagolni, ha az együttes használat lehetősége jelzéssel az adott turistaúton vagy kerékpáros úton megjelölésre került.
 

@@ -10,13 +10,13 @@ d) hatósági ellenőrzést az ügyfél nem kérhet,
 
 e) szünetelés nem kérhető.
 
-(2) Erdészeti hatósági eljárásban a hatóság az ügyfelet az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 44. § b) pontjában foglalt esetben két alkalommal hiánypótlásra hívhatja fel.
+(2) Erdészeti hatósági eljárásban a hatóság az ügyfelet az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 44. §-ában foglalt esetben két alkalommal hiánypótlásra hívhatja fel.
 
 (3) Erdőtelepítés vagy erdőfelújítás befejezetté nyilvánítására irányuló eljárás ügyintézési határideje az érintett erdőtelepítés vagy erdőfelújítás műszaki átvételekor kezdődik.
 
 (4) Az ügyintézési határidő
 
-a) erdőterv-módosítási eljárás, az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére irányuló eljárás, jogosulatlan igénybevétel fennmaradásának engedélyezésére irányuló, valamint az erdőgazdálkodói nyilvántartásba-vételi eljárás esetén – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – kilencven nap,
+a) erdőterv-módosítási eljárás, az erdő igénybevételének elvi engedélyezésére vagy engedélyezésére irányuló eljárás, jogosulatlan igénybevétel fennmaradásának engedélyezésére irányuló, valamint az erdőgazdálkodói nyilvántartásba-vételi eljárás esetén – az egyszerűsített erdőgazdálkodói nyilvántartásba vétel kivételével – hatvan nap,
 
 b) a körzeti erdőtervezési eljárás és a faanyag kereskedelmi lánc hatósági felügyelettel kapcsolatos eljárás esetén százhúsz nap.
 

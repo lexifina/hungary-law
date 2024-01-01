@@ -12,7 +12,7 @@
 
 (7) A faanyag kereskedelmi lánc szereplője köteles
 
-a) a (6) bekezdés szerinti dokumentációs rendszer adatait öt évig megőrizni és azokat, valamint az erdészeti hatóság kérésére annak hiteles, magyar nyelvű fordítását felhívásra haladéktalanul az erdészeti hatóság rendelkezésére bocsátani,
+a) a (6) bekezdés szerinti dokumentációs rendszer adatait öt évig megőrizni és azokat, valamint az erdészeti hatóság kérésére annak hivatalos,, magyar nyelvű fordítását felhívásra haladéktalanul az erdészeti hatóság rendelkezésére bocsátani,
 
 b) igazolni, hogy az ismeretlen eredetű vagy illegális kitermelésből származó fatermék forgalomba hozatalának elkerülése érdekében, a kockázatcsökkentésről szóló döntéseit, illetve a kockázat mértékét az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározottak alapján hozta meg, illetve csökkentette,
 

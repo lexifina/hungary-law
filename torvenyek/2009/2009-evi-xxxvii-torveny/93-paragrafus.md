@@ -10,7 +10,15 @@ d) ideiglenes árusítóhelyet üzemeltetni;
 
 e) e törvényben külön nem nevesített sportversenyt rendezni.
 
-(2) Erdőben lovas és technikai sportversenyt rendezni csak az erdőgazdálkodó hozzájárulásával és az erdészeti hatóság engedélyével lehet.
+(2) Erdőben lovas és technikai sportversenyt rendezni csak az erdőgazdálkodó hozzájárulásával és – a (2a) bekezdésben foglalt kivétellel – az erdészeti hatóság engedélyével lehet.
+
+(2a) Lovas vagy technikai sportverseny rendezéséhez
+
+a) védett természeti területen lévő erdőben a Tvt.-ben meghatározottak szerint,
+
+b) védett természeti területnek nem minősülő Natura 2000 területen lévő erdőben az európai közösségi jelentőségű természetvédelmi rendeltetésű területekről szóló rendeletben meghatározottak szerint
+
+a természetvédelmi hatóság engedélye szükséges.
 
 (3) Az erdőgazdálkodó köteles az erdőgazdálkodási tevékenysége során megrongálódott jogszerűen kialakított turistautat, turisztikai berendezést, létesítményt haladéktalanul az eredeti állapotában helyreállítani, illetve rendeltetésszerű használatra alkalmassá tenni.
 

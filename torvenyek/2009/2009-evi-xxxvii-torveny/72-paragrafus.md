@@ -2,19 +2,17 @@
 
 a) az erdőgazdálkodó, illetve a tulajdonában álló jogi személy vagy jogi személyiséggel nem rendelkező szervezet a tarvágás bejelentésének évében vagy az azt megelőző két évben az erdészeti hatóság véglegessé vált határozatban tett megállapítása szerint az adott tárgyév első napján erdőfelújítási kötelezettség alatt álló erdeinek 5 százalékán – összesen legalább egy hektár területen – túllépi az erdő felújítására vonatkozó határidőt,
 
-b) a tarvágásra a 7. § (1) bekezdés a)–d) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőben kerül sor, vagy az erdőgazdálkodónak az erdőterve alapján a 7. § (1) bekezdés e) vagy f) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőkben öt hektárnál nagyobb tarvágás végrehajtására van lehetősége, és
+b) az erdőgazdálkodó a 7. § (1) bekezdés a) vagy b) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőben tarvágás végrehajtását jelenti be, vagy a 7. § (1) bekezdés c) vagy d) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőben 1,00 hektárnál nagyobb, illetve a 7. § (1) bekezdés e) vagy f) pontjában foglalt természetességi állapotra vonatkozó alapelvárású erdőben 5,0 hektárnál nagyobb tarvágás végrehajtását jelenti be, és
 
-ba) az erdőgazdálkodó személyét az erdészeti hatóság az erdőgazdálkodói nyilvántartásban öt évnél rövidebb ideje vette nyilvántartásba,
+ba) az erdőgazdálkodó személyét az erdészeti hatóság az erdőgazdálkodói nyilvántartásban öt évnél rövidebb ideje vette nyilvántartásba, vagy
 
-bb) az erdőgazdálkodó korábban eredményes erdőfelújítási tevékenységet – az 52. § (4) bekezdésében foglalt feltétel teljesítésével – még nem végzett, vagy
-
-bc) az erdőgazdálkodó korábban befejezett erdőtelepítést még nem végzett, vagy
+bb) az erdőgazdálkodó korábban erdőfelújítás során eredményes elsőkivitelt vagy erdőtelepítés során befejezett erdőtelepítést még nem végzett, vagy
 
 c) azt az ingatlan ingatlan-nyilvántartásba bejegyzett vagyonkezelői, illetve haszonélvezeti jog jogosultja, ezek hiányában az ingatlan tulajdonosa, közös tulajdon esetén azok tulajdoni hányad alapján számított legalább 25%-a kéri.
 
 (1a) Ha az állam 100%-os tulajdonában nem álló erdőben az erdőfelújítás megkezdésére vagy a pótlásra vonatkozó határidőt túllépik, az erdészeti hatóság az érintett terület alapulvételével erdőfelújítási biztosíték nyújtására kötelezi az erdőgazdálkodót, ennek hiányában a tulajdonost.
 
-(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének bejelentését követő 15 napon belül elvégzett műszaki átvétele után 45 napon belül felszabadítja.
+(1b) Az (1a) bekezdés szerinti erdőfelújítási biztosítékot az erdészeti hatóság a tevékenység elvégzésének bejelentését követő 15 napon belül elvégzett műszaki átvétele után 15 napon belül felszabadítja.
 
 (2) Az (1) bekezdés a) pontjának alkalmazása tekintetében a határidő-túllépést
 

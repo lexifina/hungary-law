@@ -1,6 +1,6 @@
 90/L. § (1) Az erdészeti hatóság a faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos jogkövetkezményeket megállapító végleges végrehajtható határozatának vagy végzésének kivonatát honlapján haladéktalanul közzéteszi, ha eljárása során mulasztást vagy jogszabálysértést állapít meg.
 
-(2) A közétett kivonatnak tartalmaznia kell:
+(2) A közzétett kivonatnak tartalmaznia kell:
 
 a) a közzététel napját,
 

@@ -4,7 +4,7 @@
 
 (2) Ha e törvény eltérően nem rendelkezik, az erdészeti hatóság által vezetett nyilvántartásokban szereplő közhiteles adatokról az erdészeti hatóság kérelemre adatot szolgáltat annak a természetes vagy jogi személynek, illetve jogi személyiséggel nem rendelkező szervezetnek, akire nézve a nyilvántartás adatot tartalmaz, illetve akinek az adat megismeréséhez jogos érdeke fűződik. A jogos érdek fennállását annak kell igazolnia, aki az adatszolgáltatást erre a körülményre hivatkozva kéri.
 
-(3) Az erdészeti hatóság a hatáskörébe tartozó közigazgatási hatósági eljárásokhoz kapcsolódóan az erdő és erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület ingatlan-nyilvántartásba bejegyzett tulajdonosának, vagyonkezelői, földhasználati, haszonélvezeti, használati jogosultjának alábbi személyes adatait kezeli:
+(3) Az erdészeti hatóság a hatáskörébe tartozó közigazgatási hatósági eljárásokhoz, bejelentésekhez kapcsolódóan az erdő, szabad rendelkezésű erdő, erdőgazdálkodási tevékenységet közvetlenül szolgáló földterület, illetve fásítás ingatlan-nyilvántartásba bejegyzett tulajdonosának, vagyonkezelői, földhasználati, haszonélvezeti, használati jogosultjának, valamint a bejelentőnek az alábbi személyes adatait kezeli:
 
 a) természetes személyazonosító adatok,
 
