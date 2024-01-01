@@ -1,5 +1,3 @@
-## A támogatás mértéke
-
 |  |  |  |  |  |  | (Ezer Ft/hektár) |
 
 | Sorszám | A | B | C | D | E | F | G | H |
@@ -44,9 +42,9 @@
 
 | 4.1.3. | agyag | 94 | 80 |  |  |  |  |  |
 
-2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^41]
+2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^42]
 
-## Támogatási kérelem az erdők felújításának csekély összegű (de minimis) támogatásához
+Támogatási kérelem az erdők felújításának csekély összegű (de minimis) támogatásához
 
 A támogatási kérelmet az erdőrészlet elhelyezkedése szerint illetékes erdészeti hatósághoz kell postai úton benyújtani
 
@@ -232,4 +230,4 @@ ____________________
 
 1 A megfelelő négyzetbe tegyen X-et!
 
-[^41]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a, a 88/2016. (XII. 29.) FM rendelet 33. § d) pontja, a 69/2017. (XII. 27.) FM rendelet 14–15. §-a szerint módosított szöveg.
+[^42]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a, a 88/2016. (XII. 29.) FM rendelet 33. § d) pontja, a 69/2017. (XII. 27.) FM rendelet 14–15. §-a szerint módosított szöveg.
