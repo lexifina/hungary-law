@@ -20,7 +20,7 @@ g) gondnokság alatt állásának ténye.
 
 (2) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt természetes személy alábbi személyes adatait kezelheti:
 
-a) természetes személyazonosító adatai,
+a) természetes személyazonosító adatai, az örökösként érdekelt esetén személyi azonosítója és állampolgársága is,
 
 b) lakóhelye és tartózkodási helye,
 
@@ -31,3 +31,5 @@ d) az eljárásban való érdekeltségét megalapozó ok (végintézkedésen, ho
 e) a törvényes képviselő a), b) és c) pontjában meghatározott adatai, ha az öröklésben érdekelt méhmagzat, kiskorú, cselekvőképességet érintő gondnokság alatt álló, ismeretlen helyen levő, vagy ügyeinek vitelében akadályozott személy.
 
 (3) A jegyző és a közjegyző a hagyatéki eljárás lefolytatása céljából a hagyatéki eljárásban érdekelt jogalany képviselőjének (ha képviseleti jogosultságát igazolta) nevét, címét és az általa önként közölt sürgős elérhetőségét (telefon, fax, e-mail) kezelheti.
+
+(4) A hagyatéki eljárás lefolytatása céljából történő adatkezelésnek minősül az is, ha a közjegyző a személyes adatokat a 91. § (2) bekezdésében foglaltak céljából kezeli.
