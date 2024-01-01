@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-31-20-2
 | 2020-07-02 | 2014-31-20-22.18 | 315/2020. (VII. 1.) Korm. rendelet |
 | 2022-02-01 | 2014-31-20-22.19 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-06-23 | 2014-31-20-22.20 | 230/2023. (VI. 8.) Korm. rendelet |
+| 2024-01-01 | 2014-31-20-22.21 | 561/2023. (XII. 14.) Korm. rendelet |
