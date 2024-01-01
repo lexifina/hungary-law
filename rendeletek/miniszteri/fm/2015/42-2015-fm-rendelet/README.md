@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-42-20-1
 | 2020-09-28 | 2015-42-20-11.8 | 46/2020. (IX. 23.) AM rendelet |
 | 2022-09-03 | 2015-42-20-11.9 | 27/2022. (VIII. 31.) AM rendelet |
 | 2023-01-01 | 2015-42-20-11.10 | 46/2020. (IX. 23.) AM rendelet |
+| 2024-01-01 | 2015-42-20-11.11 | 36/2025. (VIII. 5.) AM rendelet |

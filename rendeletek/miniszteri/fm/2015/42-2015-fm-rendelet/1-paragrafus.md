@@ -4,7 +4,7 @@
 
 (2) Termelői csoport a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: szövetkezeti törvény) szerint megalakult, és a szövetkezeti törvény 22. § (1) bekezdés a) pontja szerinti tevékenységet végző szövetkezet lehet.
 
-(3)[^1] Termelői csoport tagja a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontja szerinti természetes vagy jogi személy, valamint az erdészeti hatóság által nyilvántartásba vett erdőgazdálkodó, vagy a vadászati hatóság által nyilvántartásba vett vadászatra jogosult (a továbbiakban együtt: termelő) lehet, aki vagy amely a termelői csoport elismerésének tárgyát képező terméket termel, és aki vagy amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28. §-a szerinti ügyfél-nyilvántartási rendszerben szerepel, továbbá – az alapszabályban foglaltak szerint – kötelezettséget vállal arra vonatkozóan, hogy
+(3)[^2] Termelői csoport tagja a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdés a) pontja szerinti természetes vagy jogi személy, valamint az erdészeti hatóság által nyilvántartásba vett erdőgazdálkodó, vagy a vadászati hatóság által nyilvántartásba vett vadászatra jogosult (a továbbiakban együtt: termelő) lehet, aki vagy amely a termelői csoport elismerésének tárgyát képező terméket termel, és aki vagy amely a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 28. §-a szerinti ügyfél-nyilvántartási rendszerben szerepel, továbbá – az alapszabályban foglaltak szerint – kötelezettséget vállal arra vonatkozóan, hogy
 
 a) az értékesítésre a termelői csoporttal szerződést köt,
 
@@ -24,4 +24,4 @@ f) a termelői csoportba történő belépését követően a termelői csoportb
 
 (6) Az elismerhető termékek és termékcsoportok felsorolását az 1. melléklet tartalmazza.
 
-[^1]: Az 1. § (3) bekezdése a 23/2019. (V. 31.) AM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 23/2019. (V. 31.) AM rendelet 1. §-ával megállapított szöveg.

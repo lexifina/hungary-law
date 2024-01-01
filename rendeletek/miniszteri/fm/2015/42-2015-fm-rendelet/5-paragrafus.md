@@ -1,4 +1,4 @@
-5. §[^5] (1) A szövetkezetnek a termelői csoportként történő elismeréséhez és működéséhez négy évre kidolgozott üzleti terv keretében kell bemutatnia a tevékenységét és a 2. §-ban meghatározott célok elérésére tervezett intézkedéseit, valamint az 1305/2013/EU rendelet 5. cikkében felsorolt prioritásokhoz való hozzájárulásának módját.
+5. §[^6] (1) A szövetkezetnek a termelői csoportként történő elismeréséhez és működéséhez négy évre kidolgozott üzleti terv keretében kell bemutatnia a tevékenységét és a 2. §-ban meghatározott célok elérésére tervezett intézkedéseit, valamint az 1305/2013/EU rendelet 5. cikkében felsorolt prioritásokhoz való hozzájárulásának módját.
 
 (2) Az üzleti terv az alábbiakat tartalmazza:
 
@@ -24,4 +24,4 @@ j) „D” adatlap (termelői csoport számára értékesített termékhez kapcs
 
 (3) A (2) bekezdés h)–j) pontja szerinti adatlapokra vonatkozó nyomtatványokat az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzéteszi.
 
-[^5]: Az 5. § a 23/2019. (V. 31.) AM rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 5. § a 23/2019. (V. 31.) AM rendelet 2. §-ával megállapított szöveg.
