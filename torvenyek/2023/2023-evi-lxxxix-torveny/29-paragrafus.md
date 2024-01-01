@@ -1,0 +1,1 @@
+29. § A nemzetközi fejlesztési együttműködési tevékenység végrehajtásába bevont gazdasági szereplőre a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pont b) alpont ba) pontja, továbbá az Áht. 50. § (1) bekezdés c) pontja vonatkozik.

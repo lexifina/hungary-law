@@ -1,0 +1,1 @@
+19. § Az Ügynökség karitatív, önkéntes juttatást gyűjtő és más társadalmi programokat, nemzetközi konferenciákat és rendezvényeket szervezhet a Program céljainak megvalósítása, finanszírozása és megismertetése érdekében.

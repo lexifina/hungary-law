@@ -1,0 +1,1 @@
+26. § Amennyiben a nemzetközi szervezetek, alapok, valamint az Európai Unió szervezetei, alapjai által közzétett pályázatok útján elérhető juttatások önrész biztosítása mellett vehetők igénybe, úgy az Ügynökség a pályázatot a tulajdonosi joggyakorló – önrész biztosítására vonatkozó kötelezettségvállalást tartalmazó – jóváhagyása esetén nyújthatja be.
