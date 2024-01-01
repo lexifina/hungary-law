@@ -1,0 +1,1 @@
+1. § Az Európai Mezőgazdasági Vidékfejlesztési Alapból az erdő-környezetvédelmi intézkedésekhez nyújtandó támogatások részletes feltételeiről szóló 124/2009. (IX. 24.) FVM rendelet 9. § (5) bekezdésében a „postai úton” szövegrész helyébe a „postai vagy elektronikus úton” szöveg lép.
