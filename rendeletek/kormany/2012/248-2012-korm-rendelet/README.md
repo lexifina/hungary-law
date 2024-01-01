@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-248-20-
 | 2019-08-01 | 2012-248-20-22.12 | 191/2019. (VII. 30.) Korm. rendelet |
 | 2020-01-01 | 2012-248-20-22.13 | 191/2019. (VII. 30.) Korm. rendelet |
 | 2022-07-01 | 2012-248-20-22.14 | 325/2013. (VIII. 29.) Korm. rendelet |
+| 2024-01-01 | 2012-248-20-22.15 | 610/2023. (XII. 22.) Korm. rendelet |
