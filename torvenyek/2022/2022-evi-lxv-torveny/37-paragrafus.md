@@ -16,7 +16,7 @@ e) valamely tényről, körülményről olyan valótlan tartalmú nyilatkozatot 
 
 (3) A támogató nyilvántartja azon intézkedést, amelyben a kedvezményezett jogosulatlanul vett részt, és azon időpontot, ameddig jogszabály vagy pályázati felhívás rendelkezései szerint a kedvezményezett ugyanazon intézkedésben vagy intézkedéscsoportban nem vehet részt.
 
-(4) Az intézkedésben való jogosulatlan részvétellel igénybe vett támogatást jogszabályban foglaltak szerint, kamattal növelten kell visszafizetni.
+(4) Az intézkedésben való jogosulatlan részvétel jogcímén visszakövetelt támogatás összegét késedelem esetén jogszabályban foglaltak szerinti késedelmi kamattal növelten kell visszafizetni.
 
 (5) Ha a kedvezményezett részére a támogató tévesen vagy jogalap nélkül fizeti ki a támogatást, annak visszafizetését csak késedelem esetén terheli kamat.
 

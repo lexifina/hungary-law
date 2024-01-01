@@ -44,7 +44,7 @@
 
 19. a támogatási feltételek mesterséges megteremtése vizsgálatának részletes szabályait
 
-## rendeletben állapítsa meg.
+rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nemzeti hatáskörbe tartozó mezőgazdasági, halászati, erdészeti és agrár-vidékfejlesztési állami támogatás igénybevételére vonatkozó különös feltételeket rendeletben állapítsa meg.
 

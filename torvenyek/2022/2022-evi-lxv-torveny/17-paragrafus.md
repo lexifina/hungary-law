@@ -90,4 +90,6 @@
 
 45. a gyümölcsültetvény-kataszterből.
 
+46. az elektronikus anyakönyvből.
+
 (2) Az elhunyt természetes személy támogatásával összefüggésben az adatkezelő szerv megkeresésére a hagyatéki leltározást végző szerv adatot szolgáltat a hagyatéki leltár készítésének tényéről, valamint a hagyatéki eljárást lefolytató közjegyző nevéről és székhelyéről, a hagyatéki eljárást lefolytató közjegyző pedig tájékoztatja az adatkezelő szervet az azonosításukhoz szükséges természetes személyazonosító adatok feltüntetésével az örökösök személyéről vagy tájékoztatást ad a hagyatéki eljárás megszüntetéséről.
