@@ -1,4 +1,4 @@
-3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^21]
+3. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^22]
 
 1. Ellenőrző adatszolgáltató központok, valamint
 
@@ -90,10 +90,10 @@ az OKSER ellenőrző tevékenységébe bevonható mérési területeik
 
 3.1.1.
 
-(a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, az OMSZ, az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+(a) = a környezeti gammadózis-teljesítmény távmérés a katasztrófák elleni védekezésért felelős miniszter által vezetett minisztérium, a honvédelemért felelős miniszter által vezetett minisztérium, az egészségügyért felelős miniszter által vezetett minisztérium, az agrárpolitikáért felelős miniszter által vezetett minisztérium, a felsőoktatásért felelős miniszter által vezetett minisztérium, a HungaroMet Nonprofit Zrt., az MTA, az MVM Paksi Atomerőmű Zártkörűen Működő Részvénytársaság és az RHK Kft. által működtetett automata állomások bevonásával történik a külön jogszabályban meghatározott Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
 3.1.2.
 
-(b) = a levegő aeroszol mérése az OMSZ által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
+(b) = a levegő aeroszol mérése a HungaroMet Nonprofit Zrt. által működtetett automata állomások bevonásával történik a Országos Sugárfigyelő Jelző és Ellenőrző Rendszer működése szerint.
 
-[^21]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^22]: A 3. melléklet a 162/2018. (IX. 10.) Korm. rendelet 32. § b) pontja, a 204/2019. (VIII. 23.) Korm. rendelet 19. §-a, a 345/2019. (XII. 23.) Korm. rendelet 6. §-a, a 36/2020. (III. 5.) Korm. rendelet 16. § (2) bekezdése, a 238/2022. (VI. 30.) Korm. rendelet 156. §-a, a 246/2023. (VI. 22.) Korm. rendelet 14. § b) pontja, az 591/2023. (XII. 20.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.

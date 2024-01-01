@@ -18,7 +18,7 @@ Az OKSER tagjai
 
 8. a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium,
 
-9. az Országos Meteorológiai Szolgálat, (a továbbiakban: OMSZ),
+9.[^17] a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HungaroMet Nonprofit Zrt.),
 
 10. a Magyar Tudományos Akadémia, (a továbbiakban: MTA),
 
@@ -30,17 +30,18 @@ Az OKSER tagjai
 
 14. a Mecsekérc Zártkörűen Működő Részvénytársaság,
 
-15.[^17] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
+15.[^18] Nemzeti Népegészségügyi és Gyógyszerészeti Központ,
 
-16.[^18] a Magyar Kutatási Hálózat.
+16.[^19] a Magyar Kutatási Hálózat.
 
-17.[^19] IZOTÓP INTÉZET Kutató, Fejlesztő, Termelő és Szolgáltató Korlátolt Felelősségű Társaság,
+17.[^20] IZOTÓP INTÉZET Kutató, Fejlesztő, Termelő és Szolgáltató Korlátolt Felelősségű Társaság,
 
-18.[^20] Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság.
+18.[^21] Bányavagyon-hasznosító Nonprofit Közhasznú Korlátolt Felelősségű Társaság.
 
 [^15]: [A 659/2023. (XII. 28.) Korm. rendelet 49. §-ával elrendelt módosítás, amely szerint hatályát veszti az 1. melléklet 1.2.1. pont 1.2.1.1. alpontjában a „201/2001. (X. 25.)” szövegrész, nem vezethető át.]
 [^16]: Az 1. § 6. pontja a 238/2022. (VI. 30.) Korm. rendelet 156. §-a szerint módosított szöveg.
-[^17]: Az 1. melléklet 15. pontja a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
-[^18]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
-[^19]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^20]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^17]: Az 1. melléklet 9. pontja az 591/2023. (XII. 20.) Korm. rendelet 20. § a) pontjával megállapított szöveg.
+[^18]: Az 1. melléklet 15. pontja a 334/2023. (VII. 20.) Korm. rendelet 45. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 16. pontját a 204/2019. (VIII. 23.) Korm. rendelet 18. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 14. § a) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 17. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^21]: Az 1. melléklet 18. pontját a 36/2020. (III. 5.) Korm. rendelet 16. § (1) bekezdése iktatta be.

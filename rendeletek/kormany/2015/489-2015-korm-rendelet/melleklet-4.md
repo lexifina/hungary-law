@@ -1,4 +1,4 @@
-4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^22]
+4. melléklet a 489/2015. (XII. 30.) Korm. rendelethez[^23]
 
 1. A kötelezően mérendő minták és mennyiségek
 
@@ -50,4 +50,4 @@
 
 (b) = Becquerel személyenként és naponta.
 
-[^22]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja, a 659/2023. (XII. 28.) Korm. rendelet 48. §-a szerint módosított szöveg.
+[^23]: A 4. melléklet a 36/2020. (III. 5.) Korm. rendelet 17. § b)–d) pontja, a 659/2023. (XII. 28.) Korm. rendelet 48. §-a szerint módosított szöveg.
