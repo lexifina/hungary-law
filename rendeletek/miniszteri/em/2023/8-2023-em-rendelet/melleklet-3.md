@@ -4,9 +4,9 @@
 
 | 2. | M1 járműkategória | belső égésű motorral hajtott jármű | 28,99 | 0,08 | 29,07 |
 
-| 3. | M1 járműkategória | részben elektromos motorral hajtott jármű, nem tölthető akkumulátorral[^9] | 31,17 | 0,08 | 31,25 |
+| 3. | M1 járműkategória | részben elektromos motorral hajtott jármű, nem tölthető akkumulátorral[^12] | 31,17 | 0,08 | 31,25 |
 
-| 4. | M1 járműkategória | részben elektromos motorral hajtott jármű, tölthető akkumulátorral[^10] | 37,71 | 0,08 | 37,79[^11] |
+| 4. | M1 járműkategória | részben elektromos motorral hajtott jármű, tölthető akkumulátorral[^13] | 37,71 | 0,08 | 37,79[^14] |
 
 | 5. | M1 járműkategória | tisztán elektromos motorral hajtott jármű | 51,13 | 0,08 | 51,21 |
 
@@ -14,7 +14,7 @@
 
 | 7. | N1 járműkategória | részben elektromos motorral hajtott jármű | 30,8 | 0,06 | 30,86 |
 
-| 8. | N1 járműkategória | tisztán elektromos motorral hajtott jármű | 38,3 | 0,06 | 38,36[^12] |
+| 8. | N1 járműkategória | tisztán elektromos motorral hajtott jármű | 38,3 | 0,06 | 38,36[^15] |
 
 | 9. | háromkerekű gépjármű, kivéve a motoros triciklit | belső égésű motorral hajtott jármű | 37,03 | 0,15 | 37,18 |
 
@@ -24,7 +24,7 @@
 
 A gazdálkodó szervezeteknél képződő, a hulladékgazdálkodási intézményi résztevékenység körébe tartozó, elkülönítetten gyűjtött hulladék képződésének megelőzésével, valamint e hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályairól szóló kormányrendelet szerint fizetendő díj egy egységre vetített mértéke
 
-[^9]: A 2. mellékletben foglalt táblázat B:3 mezője a 21/2023. (X. 4.) EM rendelet 5. § d) pontja szerint módosított szöveg.
-[^10]: A 2. mellékletben foglalt táblázat B:4 mezője a 21/2023. (X. 4.) EM rendelet 6. § c) pontja szerint módosított szöveg.
-[^11]: A 2. mellékletben foglalt táblázat E:4 mezője a 21/2023. (X. 4.) EM rendelet 5. § e) pontjával megállapított szöveg.
-[^12]: A 2. mellékletben foglalt táblázat E:8 mezője a 21/2023. (X. 4.) EM rendelet 5. § f) pontjával megállapított szöveg.
+[^12]: A 2. mellékletben foglalt táblázat B:3 mezője a 21/2023. (X. 4.) EM rendelet 5. § d) pontja szerint módosított szöveg.
+[^13]: A 2. mellékletben foglalt táblázat B:4 mezője a 21/2023. (X. 4.) EM rendelet 6. § c) pontja szerint módosított szöveg.
+[^14]: A 2. mellékletben foglalt táblázat E:4 mezője a 21/2023. (X. 4.) EM rendelet 5. § e) pontjával megállapított szöveg.
+[^15]: A 2. mellékletben foglalt táblázat E:8 mezője a 21/2023. (X. 4.) EM rendelet 5. § f) pontjával megállapított szöveg.

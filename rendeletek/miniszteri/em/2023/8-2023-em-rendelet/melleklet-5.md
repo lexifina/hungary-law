@@ -6,7 +6,7 @@
 
 | 3. | 29,00 | 5,80 | 44,00 | 8,70 |
 
-5. melléklet a 8/2023. (VI. 2.) EM rendelethez[^13]
+5. melléklet a 8/2023. (VI. 2.) EM rendelethez[^16]
 
 A borászati termék üvegcsomagolásának gyártója által választása szerint díjátalányként fizetendő kiterjesztett gyártói felelősségi díj egy egységre vetített mértéke
 
@@ -48,4 +48,4 @@ A borászati termék üvegcsomagolásának gyártója által választása szerin
 
 | 18 | Borecet | 9,56 | 2,34 | 11,90 |
 
-[^13]: Az 5. mellékletet a 21/2023. (X. 4.) EM rendelet 4. §-a iktatta be.
+[^16]: Az 5. mellékletet a 21/2023. (X. 4.) EM rendelet 4. §-a iktatta be.
