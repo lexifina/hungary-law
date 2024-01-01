@@ -22,9 +22,9 @@ c) a 3. mellékletben meghatározott minimális (kötelező) feltételek meglét
 
 (6) A diákotthon és a kollégium elnevezésének szabályaira a felsőoktatási intézmények névviselésére vonatkozó rendelkezéseket kell alkalmazni.
 
-(7)[^13] A diákotthon fenntartói jogának átadására a felsőoktatási intézmény fenntartói jogának átadására vonatkozó rendelkezéseket kell alkalmazni.
+(7)[^15] A diákotthon fenntartói jogának átadására a felsőoktatási intézmény fenntartói jogának átadására vonatkozó rendelkezéseket kell alkalmazni.
 
-(8)[^14] A diákotthon maximális férőhelyszámának módosítására a (3) bekezdés b) és c) pontját és a (4) bekezdésben foglaltakat kell alkalmazni.
+(8)[^16] A diákotthon maximális férőhelyszámának módosítására a (3) bekezdés b) és c) pontját és a (4) bekezdésben foglaltakat kell alkalmazni.
 
-[^13]: Az 5. § (7) bekezdését újonnan a 191/2019. (VII. 30.) Korm. rendelet 51. §-a iktatta be.
-[^14]: Az 5. § (8) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 51. §-a iktatta be.
+[^15]: Az 5. § (7) bekezdését újonnan a 191/2019. (VII. 30.) Korm. rendelet 51. §-a iktatta be.
+[^16]: Az 5. § (8) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 51. §-a iktatta be.

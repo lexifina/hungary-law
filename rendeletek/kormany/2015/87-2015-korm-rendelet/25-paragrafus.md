@@ -1,16 +1,16 @@
 ## 11. A felsőoktatási információs rendszer
 
-25. § (1)[^108] A FIR az Onytv.-ben meghatározott alrendszereket tartalmazza.
+25. § (1)[^145] A FIR az Onytv.-ben meghatározott alrendszereket tartalmazza.
 
-(2)[^109]
+(2)[^146]
 
-(3)[^110]
+(3)[^147]
 
-(4)[^111]
+(4)[^148]
 
-(5)[^112]
+(5)[^149]
 
-(6)[^113] A FIR-be adatot közöl:
+(6)[^150] A FIR-be adatot közöl:
 
 a) a felsőoktatási intézménytörzs tekintetében a Hivatal, a fenntartó, a felsőoktatási intézmény és a diákotthon, a közösségi felsőoktatási képzési központ tekintetében annak képviselője;
 
@@ -22,24 +22,26 @@ d) az (1) bekezdés szerinti további adatok tekintetében a 6. mellékletben me
 
 e) a felsőoktatási felvételi alrendszer tekintetében a felvételre jelentkező, a Hivatal és a felsőoktatási intézmény;
 
-f) az AVIR tekintetében a Hivatal, a felsőoktatási intézmény, egyéb államigazgatási szervek;
+f)[^151]
 
-g)[^114]
+g)[^152]
 
-(7) A (6) bekezdés b) és c) pontja tekintetében az adatszolgáltatás a felsőoktatási intézmény által üzemeltetett elektronikus nyilvántartó rendszerből, a (6) bekezdés a) és d)–g) pontja tekintetében a Hivatal által meghatározott módon történik.
+(7)[^153] A (6) bekezdés b) és c) pontja tekintetében az adatszolgáltatás a felsőoktatási intézmény által üzemeltetett elektronikus nyilvántartó rendszerből (a továbbiakban: TR), a (6) bekezdés a) és d)–g) pontja tekintetében a Hivatal által meghatározott módon történik.
 
-(8)[^115]
+(8)[^154] A (7) bekezdéstől eltérően a hallgatói személyi törzs tekintetében az Onytv. 6. § (4) bekezdése alapján a Diákhitel Központ, a Tempus Közalapítvány és a Klebelsberg Központ adatszolgáltatása a Hivatal által meghatározott módon történik.
 
-(9)[^116] A FIR részére közölt elektronikus adat hitelesítése a (6) bekezdés b) és c) pontja tekintetében legalább fokozott biztonságú tanúsítványon alapuló, természetes személyhez kötött elektronikus aláírással vagy legalább fokozott biztonságú tanúsítványon alapuló, szervezethez kötött elektronikus bélyegzővel történik.
+(9)[^155] A FIR részére közölt elektronikus adat hitelesítése a (6) bekezdés b) és c) pontja, a (8) bekezdés kivételével, tekintetében legalább fokozott biztonságú tanúsítványon alapuló, természetes személyhez kötött elektronikus aláírással vagy legalább fokozott biztonságú tanúsítványon alapuló, szervezethez kötött elektronikus bélyegzővel történik.
 
 (10) A felsőoktatási intézménynek a működés megkezdése időpontjától számított harminc napon belül be kell jelentkeznie a FIR-be. A felsőoktatási intézmény vezetője meghatalmazza azt a személyt, aki a FIR tekintetében a Hivatallal kapcsolatot tart, és az intézményi adatszolgáltatást elektronikus aláírással hitelesíti. A kapcsolattartó adatait és meghatalmazását a Hivatal részére tizenöt napon belül meg kell küldeni. A Hivatal az adatokat – a (9) bekezdés szerinti hitelesítés ellenőrzése érdekében – nyilvántartja.
 
-[^108]: A 25. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 101. §-ával megállapított szöveg.
-[^109]: A 25. § (2) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 1. pontja hatályon kívül helyezte.
-[^110]: A 25. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 2. pontja hatályon kívül helyezte.
-[^111]: A 25. § (4) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 3. pontja hatályon kívül helyezte.
-[^112]: A 25. § (5) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^113]: A 25. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
-[^114]: A 25. § (6) bekezdés g) pontját a 13/2020. (II. 7.) Korm. rendelet 102. § 4. pontja hatályon kívül helyezte.
-[^115]: A 25. § (8) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 148. § a) pontja hatályon kívül helyezte.
-[^116]: A 25. § (9) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^145]: A 25. § (1) bekezdése a 13/2020. (II. 7.) Korm. rendelet 101. §-ával megállapított szöveg.
+[^146]: A 25. § (2) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 1. pontja hatályon kívül helyezte.
+[^147]: A 25. § (3) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 2. pontja hatályon kívül helyezte.
+[^148]: A 25. § (4) bekezdését a 13/2020. (II. 7.) Korm. rendelet 102. § 3. pontja hatályon kívül helyezte.
+[^149]: A 25. § (5) bekezdését a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^150]: A 25. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 57. § (2) bekezdésével megállapított szöveg.
+[^151]: A 25. § (6) bekezdés f) pontját a 610/2023. (XII. 22.) Korm. rendelet 47. § 8. pontja hatályon kívül helyezte.
+[^152]: A 25. § (6) bekezdés g) pontját a 13/2020. (II. 7.) Korm. rendelet 102. § 4. pontja hatályon kívül helyezte.
+[^153]: A 25. § (7) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 46. § 14. pontja szerint módosított szöveg.
+[^154]: A 25. § (8) bekezdését a 238/2022. (VI. 30.) Korm. rendelet 148. § a) pontja hatályon kívül helyezte, újonnan a 610/2023. (XII. 22.) Korm. rendelet 36. §-a iktatta be.
+[^155]: A 25. § (9) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 36. §-ával megállapított, a 610/2023. (XII. 22.) Korm. rendelet 46. § 15. pontja szerint módosított szöveg.

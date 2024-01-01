@@ -1,4 +1,4 @@
-21/E. §[^94] (1) Hitéleti alapképzésnek, mesterképzésnek, osztatlan képzésnek vagy felsőoktatási szakképzésnek a hitéleti képzések jegyzékére történő felvételét, valamint képzési és kimeneti követelményeinek nyilvántartásba vételét az egyházi felsőoktatási intézmény fenntartója kérelmezheti.
+21/E. §[^119] (1) Hitéleti alapképzésnek, mesterképzésnek, osztatlan képzésnek vagy felsőoktatási szakképzésnek a hitéleti képzések jegyzékére történő felvételét, valamint képzési és kimeneti követelményeinek nyilvántartásba vételét az egyházi felsőoktatási intézmény fenntartója kérelmezheti.
 
 (2) A kérelemhez mellékelni kell:
 
@@ -14,7 +14,7 @@ b) a hitéleti képzésben szerezhető végzettségi szint megjelölése;
 
 c) a hitéleti képzésben szerezhető szakképzettség oklevélben szereplő megnevezése magyar és angol nyelven;
 
-d) a hitéleti képzésben választható szakirányok, specializációk;
+d)[^120] a hitéleti képzésben választható esetleges szakirányok;
 
 e) a hitéleti képzési terület megjelölése;
 
@@ -40,4 +40,5 @@ j) a képzést megkülönböztető speciális jegyek.
 
 (6) Az (1)−(5) bekezdésben foglaltakat a hitéleti képzés (3) bekezdés szerint nyilvántartásba vett adatának módosítása esetében is alkalmazni kell.
 
-[^94]: A 21/E. §-t az 550/2022. (XII. 22.) Korm. rendelet 3. §-a iktatta be.
+[^119]: A 21/E. §-t az 550/2022. (XII. 22.) Korm. rendelet 3. §-a iktatta be.
+[^120]: A 21/E. § (3) bekezdés d) pontja a 610/2023. (XII. 22.) Korm. rendelet 46. § 8. pontja szerint módosított szöveg.

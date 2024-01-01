@@ -1,4 +1,4 @@
-38. § (1)[^151] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
+38. § (1)[^198] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
 
 (2) A beiratkozási lap lehet:
 
@@ -14,7 +14,7 @@ a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
 b) az aktuális tanév-félév megnevezését,
 
-c)[^152] a hallgató Nftv. 3. melléklet I/B. alcím 1. pont b) pont ba) alpontjában meghatározott adatait, oktatási azonosító számát,
+c)[^199] a hallgató Nftv. 3. melléklet I/B. alcím 1. pont b) pont ba) alpontjában meghatározott adatait, oktatási azonosító számát,
 
 d) a megkezdett szak megnevezését, szintjét, munkarendjét, nyelvét, finanszírozási formáját, a képzés helyét,
 
@@ -34,22 +34,22 @@ k) a 34. § (4) bekezdés szerinti hitelesítést.
 
 (4) A beiratkozási lap mellékletei:
 
-a)[^153] a felvételi eljárás során a felvétel feltételeként benyújtott okirat(ok) másolata, amelyet az eredeti okirattal vagy elektronikusan hiteles eredeti okirattal való összevetés után a felsőoktatási intézmény hitelesítéssel lát el,
+a)[^200] a felvételi eljárás során a felvétel feltételeként benyújtott okirat(ok) másolata, amelyet az eredeti okirattal vagy elektronikusan hiteles eredeti okirattal való összevetés után a felsőoktatási intézmény hitelesítéssel lát el,
 
 b) a felsőoktatási intézmény és az önköltséges hallgató között létrejött képzési szerződés egy eredeti, minden fél által aláírt példánya,
 
 c) a felsőoktatási intézmény által kért egyéb nyilatkozatok, és
 
-d)[^154] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
+d)[^201] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
 
-(5)[^155] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
+(5)[^202] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
 
 (6) A beiratkozási lap a törzslap melléklete.
 
 (7) A (3) bekezdés g) pont, a (4) bekezdés b) és c) pont szerinti dokumentum a beiratkozás időpontjához képest későbbi időpontban is keletkezhet, ebben az esetben azt a beiratkozási laphoz kell csatolni.
 
-[^151]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
-[^152]: A 38. § (3) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^153]: A 38. § (4) bekezdés a) pontja a 617/2022. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
-[^154]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
-[^155]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.
+[^198]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
+[^199]: A 38. § (3) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^200]: A 38. § (4) bekezdés a) pontja a 617/2022. (XII. 29.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^201]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
+[^202]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.

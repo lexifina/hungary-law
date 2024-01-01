@@ -2,13 +2,13 @@
 
 (2) A papír alapon vagy elektronikusan előállított és hitelesített hallgatói törzslap a TR-ben nyilvántartott adatokból az alábbiakat tartalmazza:
 
-1.[^141] a felsőoktatási intézmény nevét, intézményi azonosító számát, a székhely, illetve a telephely címét, a hallgató nevét, oktatási azonosító számát és a törzslap sorszámát, valamint a papír alapú törzslap esetén a részét képező oldalak sorszámát és funkcióját összesítő felsorolást;
+1.[^188] a felsőoktatási intézmény nevét, intézményi azonosító számát, a székhely, illetve a telephely címét, a hallgató nevét, oktatási azonosító számát és a törzslap sorszámát, valamint a papír alapú törzslap esetén a részét képező oldalak sorszámát és funkcióját összesítő felsorolást;
 
 2. a hallgató személyes adatait (születési neve, anyja születési neve, születési helye és ideje, állampolgársága, bejelentett lakóhelyének, tartózkodási helyének címe, értesítési címe és telefonszáma, elektronikus levélcíme, társadalombiztosítási azonosító jele, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma);
 
 3. a leckekönyv-nyomtatvány sorszámát és a diákigazolvány sorszámát;
 
-4.[^142] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
+4.[^189] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
 
 5. a hallgató képzésének adatait képzésenként (a képzés neve, szintje, munkarendje, nyelve, a képzési és kimeneti követelmények szerinti képzési ideje, telephelye, a képzés megkezdésének időpontja és létrejöttének módja, a határozat száma, a képzés befejezésének időpontja és módja), a képzés – több képzés esetén a képzések – bemeneti feltételeként meghatározott okiratok adatait (az okirat megnevezése, kibocsátó intézmény neve, az okirat száma, kiállításának időpontja), átvétel esetén az átadás adatait (az átadó felsőoktatási intézmény neve, azonosító száma, az átadó intézményben folytatott képzés neve, szintje, munkarendje, nyelve, helye, finanszírozási formája);
 
@@ -32,7 +32,7 @@
 
 15. a szakdolgozat, diplomamunka adatait (témaköre, címe, a képzés neve, a benyújtás dátuma, a témavezető és a bíráló neve, értékelése, továbbá ha nincs záróvizsga részeként védés, akkor a szakdolgozat végső értékelése, az értékelést adó neve, beosztása, az értékelés dátuma);
 
-16.[^143] a záróvizsga adatait (a képzés neve, a vizsga részei és azok időpontjai, részeredményei, a végső értékelés, a bizottság elnökének és tagjainak neve, oktatási azonosító száma);
+16.[^190] a záróvizsga adatait (a képzés neve, a vizsga részei és azok időpontjai, részeredményei, a végső értékelés, a bizottság elnökének és tagjainak neve, oktatási azonosító száma);
 
 17. az oklevél adatait (a formanyomtatvány sorszáma, az oklevél intézményi sorszáma, a képzés neve, a megszerzett végzettségi szint és szakképzettség neve, a kiállítás időpontja, az aláíró neve, beosztása);
 
@@ -48,17 +48,17 @@
 
 23. a törzslap hitelesítését;
 
-24.[^144] a doktorandusz hallgató korábbi doktori képzéseinek adatait (a felsőoktatási intézmény neve, intézményi azonosító száma, a program megnevezése);
+24.[^191] a doktorandusz hallgató korábbi doktori képzéseinek adatait (a felsőoktatási intézmény neve, intézményi azonosító száma, a program megnevezése);
 
-25.[^145] a doktori fokozat megszerzése feltételeinek teljesítésére vonatkozó adatokat (a komplex vizsga időpontja, eredménye, a doktori védés időpontja, eredménye);
+25.[^192] a doktori fokozat megszerzése feltételeinek teljesítésére vonatkozó adatokat (a komplex vizsga időpontja, eredménye, a doktori védés időpontja, eredménye);
 
-26.[^146] az odaítélt doktori fokozat megnevezését.
+26.[^193] az odaítélt doktori fokozat megnevezését.
 
 (3) A felsőoktatási intézményben ugyanarról a személyről az adott hallgatói jogviszonyához kapcsolódóan – minden jogviszony típus esetén – egy törzslap vezethető. A hallgatói jogviszony megszűnése után, újabb jogviszony létesítésekor új törzslapot kell nyitni.
 
 (4) A törzslapok sorszámozásáról a felsőoktatási intézmény szabályzatában rendelkezik azzal, hogy a törzslapok egyedi sorszámozását biztosítani kell.
 
-(5)[^147] A papír alapú törzslap minden lapján fel kell tüntetni a felsőoktatási intézmény nevét és intézményi azonosítóját, a hallgató nevét és oktatási azonosító számát, a törzslap sorszámát.
+(5)[^194] A papír alapú törzslap minden lapján fel kell tüntetni a felsőoktatási intézmény nevét és intézményi azonosítóját, a hallgató nevét és oktatási azonosító számát, a törzslap sorszámát.
 
 (6) A törzslapot a hallgatói jogviszony megszűnését követő három hónapon belül kell hitelesíteni.
 
@@ -74,26 +74,20 @@ c) az oklevél javítására, másodlat kiadására vagy az oklevél érvénytel
 
 (9) A megsemmisült vagy elveszett törzslap helyett – a rendelkezésre álló nyilvántartás, illetve iratok és adatok alapján – póttörzslapot kell kiállítani.
 
-(10) A felsőoktatási intézmény a hallgatói jogviszony megszűnésekor papír alapú hitelesített törzslap-kivonatot ad ki
-
-a)[^148] hivatalból a tanulmányát végbizonyítvány (abszolutórium) nélkül befejező hallgató részére, amennyiben legalább egy félévet aktív hallgatóként teljesített,
-
-b) kérelemre a végbizonyítványt szerzett, de tanulmányát oklevél megszerzése nélkül befejező hallgató részére,
-
-c) kérelemre a szakirányú továbbképzésben oklevelet szerzett hallgató részére.
+(10)[^195]
 
 (11) Azon hallgató részére, akinek a felsőoktatási intézmény leckekönyvet ad ki, hitelesített törzslap-kivonatot nem kell kiadni.
 
-(12)[^149] A törzslap-kivonat legalább a felsőoktatási intézmény nevét, intézményi azonosító számát, a székhely, illetve a telephely címét, a hallgató nevét, oktatási azonosító számát és a törzslap sorszámát, valamint a (2) bekezdés 2., 4–14. és 23. pontjában meghatározott adatokat tartalmazza.
+(12)[^196] A törzslap-kivonat legalább a felsőoktatási intézmény nevét, intézményi azonosító számát, a székhely, illetve a telephely címét, a hallgató nevét, oktatási azonosító számát és a törzslap sorszámát, valamint a (2) bekezdés 2., 4–14. és 23. pontjában meghatározott adatokat tartalmazza.
 
 (13) A (10) bekezdés a) pontja szerint kiadott törzslap-kivonat átadását a törzslapra rá kell vezetni. Az irat átadását átadás-átvételi dokumentumon kell igazolni.
 
-[^141]: A 36. § (2) bekezdés 1. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^142]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
-[^143]: A 36. § (2) bekezdés 16. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^144]: A 36. § (2) bekezdés 24. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^145]: A 36. § (2) bekezdés 25. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^146]: A 36. § (2) bekezdés 26. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
-[^147]: A 36. § (5) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^148]: A 36. § (10) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 76. §-ával megállapított szöveg.
-[^149]: A 36. § (12) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^188]: A 36. § (2) bekezdés 1. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^189]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
+[^190]: A 36. § (2) bekezdés 16. pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^191]: A 36. § (2) bekezdés 24. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^192]: A 36. § (2) bekezdés 25. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^193]: A 36. § (2) bekezdés 26. pontját a 266/2016. (VIII. 31.) Korm. rendelet 11. §-a iktatta be.
+[^194]: A 36. § (5) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^195]: A 36. § (10) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 10. pontja hatályon kívül helyezte.
+[^196]: A 36. § (12) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.

@@ -8,9 +8,9 @@ c) a vizsga időpontját,
 
 d) a vizsgáztató oktató nevét,
 
-e)[^163] a vizsgáztató oktató oktatási azonosító számát és aláírását,
+e)[^211] a vizsgáztató oktató oktatási azonosító számát és aláírását,
 
-f)[^164] a vizsgára jelentkezett hallgató nevét, oktatási azonosító számát, és
+f)[^212] a vizsgára jelentkezett hallgató nevét, oktatási azonosító számát, és
 
 g) a vizsga értékelését, a keltezést.
 
@@ -18,17 +18,17 @@ g) a vizsga értékelését, a keltezést.
 
 (3) A záróvizsga jegyzőkönyv tartalmazza
 
-a)[^165] a hallgató nevét, oktatási azonosító számát,
+a)[^213] a hallgató nevét, oktatási azonosító számát,
 
 b) a szak megnevezését,
 
 c) a záróvizsga időpontját, részeinek megnevezését, azok értékelését,
 
-d)[^166] a záróvizsga-bizottság tagjainak nevét, oktatási azonosító számát, aláírását,
+d)[^214] a záróvizsga-bizottság tagjainak nevét, oktatási azonosító számát, aláírását,
 
 e) a szakdolgozat (diplomamunka) címét,
 
-f)[^167] a szakdolgozat (diplomamunka) témavezetőjének és bírálójának nevét, oktatási azonosító számát,
+f)[^215] a szakdolgozat (diplomamunka) témavezetőjének és bírálójának nevét, oktatási azonosító számát,
 
 g) a szakdolgozat (diplomamunka) megvédésének időpontját,
 
@@ -36,13 +36,13 @@ h) a feltett kérdéseket,
 
 i) a záróvizsga végső értékelését, minősítését.
 
-(4)[^168] A doktori szigorlati jegyzőkönyv, illetve komplexvizsga-jegyzőkönyv tartalmazza
+(4)[^216] A doktori szigorlati jegyzőkönyv, illetve komplexvizsga-jegyzőkönyv tartalmazza
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
-b)[^169] a doktorjelölt, illetve a doktorandusz hallgató nevét, oktatási azonosító számát, korábbi végzettségi szintjét és szakképzettségét,
+b)[^217] a doktorjelölt, illetve a doktorandusz hallgató nevét, oktatási azonosító számát, korábbi végzettségi szintjét és szakképzettségét,
 
-c)[^170] a témavezető nevét és oktatási azonosító számát,
+c)[^218] a témavezető nevét és oktatási azonosító számát,
 
 d) a megszerzendő fokozat tudományterületét és tudományágát,
 
@@ -50,23 +50,23 @@ e) a szigorlaton, illetve komplex vizsgán elhangzott kérdéseket és a válasz
 
 f) a szigorlat, illetve komplex vizsga minősítését,
 
-g)[^171] a szigorlati bizottság, illetve komplexvizsga-bizottság elnökének és tagjainak nevét, oktatási azonosító számát és aláírását.
+g)[^219] a szigorlati bizottság, illetve komplexvizsga-bizottság elnökének és tagjainak nevét, oktatási azonosító számát és aláírását.
 
 (5) A doktori védési jegyzőkönyv tartalmazza
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
-b)[^172] a doktorjelölt, illetve a doktori értekezés benyújtója nevét, oktatási azonosító számát, végzettségét és szakképzettségét,
+b)[^220] a doktorjelölt, illetve a doktori értekezés benyújtója nevét, oktatási azonosító számát, végzettségét és szakképzettségét,
 
 c) a megszerzendő fokozat tudományterületét és tudományágát,
 
 d) az értekezés, alkotás címét,
 
-e)[^173] a témavezető nevét, oktatási azonosító számát,
+e)[^221] a témavezető nevét, oktatási azonosító számát,
 
 f) a nyilvános vita időpontját, helyét és nyelvét,
 
-g)[^174] a bíráló bizottság elnökének és tagjainak nevét, oktatási azonosító számát és aláírását,
+g)[^222] a bíráló bizottság elnökének és tagjainak nevét, oktatási azonosító számát és aláírását,
 
 h) a hivatalos bírálók véleményét,
 
@@ -76,7 +76,7 @@ j) a vitában résztvevők nevét,
 
 k) a bírálóbizottság véleményét és értékelését.
 
-(6)[^175] A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv, a komplexvizsga-jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
+(6)[^223] A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv, a komplexvizsga-jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
 
 (7) Az (1) és (3)–(5) bekezdésben meghatározott irat lehet:
 
@@ -84,16 +84,16 @@ a) a felsőoktatási intézmény TR-ében nyilvántartott adatokból előállít
 
 b) papír alapú irat.
 
-[^163]: A 42. § (1) bekezdés e) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^164]: A 42. § (1) bekezdés f) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^165]: A 42. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^166]: A 42. § (3) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^167]: A 42. § (3) bekezdés f) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^168]: A 42. § (4) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^169]: A 42. § (4) bekezdés b) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^170]: A 42. § (4) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^171]: A 42. § (4) bekezdés g) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^172]: A 42. § (5) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § c) pontja, a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^173]: A 42. § (5) bekezdés e) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^174]: A 42. § (5) bekezdés g) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^175]: A 42. § (6) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
+[^211]: A 42. § (1) bekezdés e) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^212]: A 42. § (1) bekezdés f) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^213]: A 42. § (3) bekezdés a) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^214]: A 42. § (3) bekezdés d) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^215]: A 42. § (3) bekezdés f) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^216]: A 42. § (4) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^217]: A 42. § (4) bekezdés b) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^218]: A 42. § (4) bekezdés c) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^219]: A 42. § (4) bekezdés g) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^220]: A 42. § (5) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § c) pontja, a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^221]: A 42. § (5) bekezdés e) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^222]: A 42. § (5) bekezdés g) pontja a 191/2019. (VII. 30.) Korm. rendelet 69. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^223]: A 42. § (6) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

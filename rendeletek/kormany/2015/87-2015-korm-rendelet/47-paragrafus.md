@@ -1,4 +1,4 @@
-47. § (1) Az oklevélmelléklet formanyomtatványa a Hivatal által kibocsátott és egyedi nyomtatványsorszámmal ellátott, nyomdai úton előállított papír alapú biztonsági okmány, amely A/4 méretű, mindkét oldalon nyomtatható lapokból és egységes lefűzésre alkalmas dossziéból áll.
+47. § (1)[^229] Az oklevélmelléklet-formanyomtatvány egyedi sorszámmal ellátott okirat, amelynek mintáját a Hivatal bocsátja a felsőoktatási intézmények rendelkezésére.
 
 (2) A kiadás előtt a felsőoktatási intézmény az oklevélmellékletről hiteles másolatot készít, amely a törzslap melléklete.
 
@@ -6,4 +6,7 @@
 
 (4) Az oklevélmellékletben szereplő magyar felsőoktatási rendszer leírását a miniszter felülvizsgálja és módosítás esetén a módosított leírást nyilvánosságra hozza.
 
-(5) Az oklevélmellékletről másodlat, illetve új oklevélmelléklet kiállítására a 48. § (5)–(7) bekezdésében foglaltakat kell alkalmazni azzal az eltéréssel, hogy a másodlatra rá kell vezetni a „MÁSODLAT!” szöveget, de sem a másodlatot, sem az új oklevélmellékletet nem kell ellátni záradékkal. A kérelmező a másodlat kiállításáért a felsőoktatási intézmény szabályzatában meghatározott összegű díjat fizet.
+(5)[^230]
+
+[^229]: A 47. § (1) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^230]: A 47. § (5) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 12. pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 15. §[^45] A 11. § (6) bekezdés hatálya alá nem tartozó esetben a felsőoktatási intézmény duális képzési megállapodásainak, valamint a duális képzés szakmai gyakorlati részének megvalósítását szolgáló, a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 230/2012. (VIII. 28.) Korm. rendelet] szerinti belső gyakorlóhelyeinek nyilvántartásba vételét, a nyilvántartásba vett megállapodások és belső gyakorlóhelyek tekintetében bekövetkezett adatváltozásokat, a megszűnt megállapodások és belső gyakorlóhelyek törlését a felsőoktatási intézmény vezetője kérelmezi.
-
 ## 7. A felsőoktatási intézmény fenntartói jogának átadásával kapcsolatos eljárás
 
 16. § (1) A felsőoktatási intézmény fenntartói jogának átadását a fenntartó és a fenntartói jogot átvenni kívánó közösen kérelmezik.
@@ -10,7 +8,12 @@ a) a fenntartó és a fenntartói jogot átvenni kívánó között megkötött,
 
 b) az Nftv. 73. § (2) bekezdésében előírt feltételek meglétének igazolását, ha a fenntartói jogot nem az állam veszi át.
 
-(3)[^46] A Hivatal a fenntartói jog átadásával egyidejűleg nyilvántartásba veszi az új fenntartót. A (2) bekezdés c) pontja szerinti alapító okirat a fenntartói jog átadását érintő határozat véglegessé válásának napján lép hatályba.
+c)[^58] a felsőoktatási intézmény tervezett, a fenntartói jogot átvevő fenntartó megnevezését is tartalmazó alapító okiratát.
 
-[^45]: A 15. § a 191/2019. (VII. 30.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^46]: A 16. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 56. §-a iktatta be.
+(3)[^59] A Hivatal a fenntartói jog átadásával egyidejűleg nyilvántartásba veszi az új fenntartót. A (2) bekezdés c) pontja szerinti alapító okirat a fenntartói jog átadását érintő határozat véglegessé válásának napján lép hatályba.
+
+(4)[^60] A (3) bekezdés szerinti eljárásnak része a felsőoktatási intézmény alapító okiratában szereplő adatok módosítása is.
+
+[^58]: A 16. § (2) bekezdés c) pontját a 610/2023. (XII. 22.) Korm. rendelet 28. § (1) bekezdése iktatta be.
+[^59]: A 16. § (3) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 56. §-a iktatta be.
+[^60]: A 16. § (4) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 28. § (2) bekezdése iktatta be.
