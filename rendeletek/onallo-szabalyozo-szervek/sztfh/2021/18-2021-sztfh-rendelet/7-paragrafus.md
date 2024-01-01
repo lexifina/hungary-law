@@ -1,4 +1,4 @@
-## 5. [^22] Bejelentések
+## 5. [^24] Bejelentések
 
 7. § (1) Az engedély jogosultja az engedélyezési eljárás során megadott, a dohánytermék-kiskereskedelmi engedélyben szereplő 5. § (3) bekezdésében meghatározott adatokat, feltételeket nem érintő adatok változását 15 napon belül köteles bejelenteni a Hatóságnak az erre a célra rendszeresített formanyomtatványon. A Hatóság a bejelentés tartalmának vizsgálatát követően azt – külön értesítés nélkül – tudomásul veszi.
 
@@ -10,7 +10,10 @@ b) az engedély jogosultja jogszabályban kihirdetett ünnepnap vagy munkaszüne
 
 (3) A bejelentett nyitvatartási idő nem lehet rövidebb a koncessziós szerződésben vállalt nyitvatartási időnél.
 
-(4)[^23] A dohánybolt alaprajzának a dohánytermék-kiskereskedelmi tevékenység végzése helyének módosításával nem járó változása – így különösen a bejárat áthelyezése – esetén a változás bejelentéséhez az engedély jogosultja a 2. § (5) bekezdés c) pontja szerinti alaprajzot csatolja.
+(4)[^25] A dohánybolt alaprajzának a dohánytermék-kiskereskedelmi tevékenység végzése helyének módosításával nem járó változása – így különösen a bejárat áthelyezése – esetén a változás bejelentéséhez az engedély jogosultja a 2. § (5) bekezdés c) pontja szerinti alaprajzot csatolja.
 
-[^22]: Az 5. alcím (7. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 7. §-ával megállapított szöveg.
-[^23]: A 7. § (4) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 6. §-a iktatta be.
+(5)[^26] A dohánytermék-kiskereskedelmi tevékenységet végző személy a dohánytermék értékesítési helyének előre nem látható okból bekövetkező, egy nyitvatartási napot meg nem haladó, nem engedélyköteles zárva tartását köteles a zárva tartás okának megszűnésétől számított 15 napon belül bejelenteni a Hatósághoz.
+
+[^24]: Az 5. alcím (7. §) § a 34/2022. (VIII. 4.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^25]: A 7. § (4) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 6. §-a iktatta be.
+[^26]: A 7. § (5) bekezdését a 24/2023. (XII. 22.) SZTFH rendelet 2. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 5/B.[^26] Az egészségvédelmi tájékoztató megjelenítése
+## 5/B.[^29] Az egészségvédelmi tájékoztató megjelenítése
 
 7/B. § (1) Az Fdvtv. 10/C. § (2) bekezdése szerinti, a dohányzásról való leszokást támogató egészségvédelmi tájékoztatót (a továbbiakban: egészségvédelmi tájékoztató) a dohánytermék-kiskereskedelmi tevékenységet végző személy köteles a fogyasztók számára jól láthatóan, a dohánytermék értékesítési helyén – választása szerint –
 
@@ -6,7 +6,9 @@ a) A/2 méretű, papíralapú plakáton kihelyezni vagy
 
 b) az egészségvédelmi tájékoztató megjelenítésére alkalmas elektronikus eszközön (a továbbiakban: elektronikus eszköz) digitálisan megjeleníteni (a továbbiakban: digitális megjelenítés).
 
-(2) A Hatóság havonta a honlapján közzéteszi az aktuális egészségvédelmi tájékoztatót, amelyet az (1) bekezdés a) pontja szerinti formában, ellenszolgáltatás nélkül a dohánytermék-kiskereskedelmi tevékenységet végző személy rendelkezésére bocsát.
+(2)[^30] A Hatóság havonta a honlapján közzéteszi az aktuális egészségvédelmi tájékoztatót, amelyet – a (2a) bekezdésben foglalt kivétellel – az (1) bekezdés a) pontja szerinti formában, ellenszolgáltatás nélkül a dohánytermék-kiskereskedelmi tevékenységet végző személy rendelkezésére bocsát.
+
+(2a)[^31] A dohánytermék-kiskereskedelmi tevékenységet végző személy a tárgyévet megelőző év július 15-ig – dohánytermék értékesítési helyenként – bejelenti a Hatósághoz, ha a tárgyévtől kezdődően az egészségvédelmi tájékoztató digitális megjelenítését választja.
 
 (3) A dohánytermék-kiskereskedelmi tevékenységet végző személy az aktuális egészségvédelmi tájékoztatót jeleníti meg, az (1) bekezdésben foglaltak szerint. Az aktuális egészségvédelmi tájékoztató kibocsátásáról a Hatóság a dohánytermék-kiskereskedelmi tevékenységet végző személyt a nála bejelentett kapcsolattartási elektronikus levelezési címén értesíti. A Hatóság a papíralapú plakátot a dohánytermék értékesítési helyére juttatja el, ahol azt a dohánytermék-kiskereskedelmi tevékenységet végző személy igazoltan köteles átvenni.
 
@@ -16,6 +18,9 @@ b) az egészségvédelmi tájékoztató megjelenítésére alkalmas elektronikus
 
 (6) A dohánytermék-kiskereskedelmi tevékenységet végző személy digitális megoldásokat kínáló szolgáltató (a továbbiakban: szolgáltató) igénybevételével is eleget tehet a megjelenítési kötelezettségének. Szolgáltató igénybevétele esetén az elektronikus eszközök hálózatban is használhatóak a digitális megjelenítésre. Az egészségvédelmi tájékoztató egységes digitális megjelenítéséhez szükséges részletes technikai, rendszerbeli és üzemeltetési előírásokat a 2. melléklet tartalmazza.
 
-(7) A digitális megjelenítést biztosító elektronikus eszköz 24 órát meghaladó üzemszünete esetén a dohánytermék-kiskereskedelmi tevékenységet végző személy köteles a 24 óra elteltét követő nyitvatartási naptól az egészségvédelmi tájékoztatót az (1) bekezdés a) pontja szerinti papíralapú plakáton kihelyezni.
+(7)[^32]
 
-[^26]: Az 5/B. alcímet (7/B. §-t) a 13/2023. (VI. 30.) SZTFH rendelet 1. §-a iktatta be.
+[^29]: Az 5/B. alcímet (7/B. §-t) a 13/2023. (VI. 30.) SZTFH rendelet 1. §-a iktatta be.
+[^30]: A 7/B. § (2) bekezdése a 24/2023. (XII. 22.) SZTFH rendelet 4. § c) pontja szerint módosított szöveg.
+[^31]: A 7/B. § (2a) bekezdését a 24/2023. (XII. 22.) SZTFH rendelet 3. §-a iktatta be.
+[^32]: A 7/B. § (7) bekezdését a 24/2023. (XII. 22.) SZTFH rendelet 5. § c) pontja hatályon kívül helyezte.

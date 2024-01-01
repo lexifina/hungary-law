@@ -1,4 +1,4 @@
-## 4/A.[^21] Ideiglenes kiköltözés
+## 4/A.[^23] Ideiglenes kiköltözés
 
 6/A. § (1) A Hatóság az engedély jogosultjának kérelmére engedélyezheti, hogy az engedély jogosultja ideiglenes jelleggel a dohánytermék-kiskereskedelmi jogosultság gyakorlására kiadott engedélyében (a továbbiakban ezen alcím alkalmazásában: eredeti engedély) foglalt dohánytermék értékesítési helytől eltérő helyen folytassa a dohánytermék-kiskereskedelmi tevékenységet (a továbbiakban: ideiglenes kiköltözés),
 
@@ -24,4 +24,4 @@ b) alkalmi rendezvény területére való kitelepülés esetében, a rendezvény
 
 (10) A kérelmező az (1) bekezdés a) pontja szerinti esetben köteles az ideiglenes kiköltözésre okot adó állapot megszűnését a megszűnést követő 5 napon belül bejelenteni és az eredeti engedély szerinti dohánytermék értékesítési helyre visszaköltözni. A kérelmező az (1) bekezdés a) pontja szerinti állapot megszűnését követő 6 hónapon belül – az (1) bekezdés b) pontja szerinti ok kivételével – újabb ideiglenes kiköltözés iránti kérelmet nem terjeszthet elő.
 
-[^21]: A 4/A. alcímet (6/A. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 5. §-a iktatta be.
+[^23]: A 4/A. alcímet (6/A. §-t) a 40/2022. (XII. 19.) SZTFH rendelet 5. §-a iktatta be.

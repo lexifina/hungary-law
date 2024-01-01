@@ -12,7 +12,7 @@ b)[^6] az az üzlethelyiség, amelynek a bejárata kapualjból, körbekerített 
 
 (3)[^7] A dohánybolt önálló, más üzlettől elkülönült jellegét nem befolyásolja, ha az árukészlet vagy annak egy részének raktározása nem közvetlenül a dohányboltban megoldott.
 
-(4) Ha az üzlethelyiség részekre bontás nélkül mozgó vagy mozgatható, akkor nem felel meg az Fdvtv. 3. § 8. pontjában meghatározottaknak, akkor sem, ha egy adott helyhez rögzítik.
+(4)[^8] Ha az üzlethelyiség részekre bontás nélkül mozgó vagy mozgatható, akkor nem felel meg az Fdvtv. 3. § (1) bekezdés 8. pontjában meghatározottaknak, akkor sem, ha egy adott helyhez rögzítik.
 
 (5) Az Fdvtv. 1. § (1) bekezdése szerinti termékek értékesítése – ide nem értve az Fdvtv. által lehetővé tett kivételes dohányértékesítési lehetőséget (mozgóbolt) – kizárólag
 
@@ -31,3 +31,4 @@ történhet.
 [^5]: A 3. § (1) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^6]: A 3. § (2) bekezdés b) pontja a 34/2022. (VIII. 4.) SZTFH rendelet 11. § a) pontja szerint módosított szöveg.
 [^7]: A 3. § (3) bekezdése a 34/2022. (VIII. 4.) SZTFH rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (4) bekezdése a 24/2023. (XII. 22.) SZTFH rendelet 4. § a) pontja szerint módosított szöveg.
