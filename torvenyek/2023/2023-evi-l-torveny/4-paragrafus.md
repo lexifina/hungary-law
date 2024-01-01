@@ -1,1 +1,1 @@
-4. § Munkavállalás céljából tartózkodási engedélyt az a vendégmunkás kaphat, akinek tartózkodási célja, hogy a 2. § 1. pontjában meghatározott foglalkoztatás keretében, Magyarország területén munkát végezzen.
+### 4. §
