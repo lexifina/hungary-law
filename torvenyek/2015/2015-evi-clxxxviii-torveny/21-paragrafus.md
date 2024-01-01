@@ -1,3 +1,1 @@
-21. § (1) Az e törvény hatálybalépését követő 15 napon belül a központi idegenrendészeti nyilvántartást vezető szerv az e törvényben meghatározottak szerint a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartásaiban kezelt arcképmáshoz rendelten technikai kapcsoló számot képez.
-
-(2) A központi idegenrendészeti nyilvántartást vezető szerv a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. §, 96. §, 98. § és 99. § szerinti résznyilvántartásaiban kezelt arcképmást és az ahhoz rendelt technikai kapcsoló számot az arckép profil létrehozása és az e törvény szerinti nyilvántartásba vétele céljából a központi szervnek az (1) bekezdés szerinti eljárást követő 30 napon belül továbbítja.
+### 21. §

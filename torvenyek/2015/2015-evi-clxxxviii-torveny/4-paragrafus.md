@@ -4,13 +4,13 @@
 
 a) a személyiadat- és lakcímnyilvántartásban tárolt arcképmásból képzett arckép profilokat,
 
-b) a központi idegenrendészeti nyilvántartásnak a Harmtv. 95. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+b) a központi idegenrendészeti nyilvántartásnak a Btátv. 254. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
 
-c) a központi idegenrendészeti nyilvántartásnak a Harmtv. 96. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+c) a központi idegenrendészeti nyilvántartásnak a Btátv. 256. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
 
-d) a központi idegenrendészeti nyilvántartásnak a Harmtv. 98. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
+d) a központi idegenrendészeti nyilvántartásnak a Btátv. 258. § szerinti résznyilvántartásában tárolt arcképmásból képzett arckép profilokat,
 
-e) a központi idegenrendészeti nyilvántartásnak a Harmtv. 99. § szerinti résznyilvántartásaiban tárolt arcképmásból képzett arckép profilokat,
+e) a központi idegenrendészeti nyilvántartásnak a Btátv. 259. § szerinti résznyilvántartásaiban tárolt arcképmásból képzett arckép profilokat,
 
 f) a menekültügyi nyilvántartásban tárolt arcképmásból képzett arckép profilokat,
 

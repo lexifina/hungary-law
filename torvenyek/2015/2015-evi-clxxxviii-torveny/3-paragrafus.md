@@ -34,7 +34,7 @@ k) a büntetőeljárásban résztvevők, az igazságszolgáltatást segítők V�
 
 l) az államhatár átlépésére jelentkező személyek személyazonosságának megállapítása,
 
-m) a Harmtv. alapján harmadik országbeli állampolgárnak minősülő személy személyazonosságának idegenrendészeti eljárás keretében történő megállapítása,
+m) a Btátv. alapján harmadik országbeli állampolgárnak minősülő személy személyazonosságának idegenrendészeti eljárás keretében történő megállapítása,
 
 n) a menedékjogról szóló törvény hatálya alá tartozó személyek személyazonosságának megállapítása, valamint
 
