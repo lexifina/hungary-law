@@ -42,6 +42,6 @@
 
 ## 3. Kitöltési útmutató és tájékoztatás a csatolandó dokumentumokról.
 
-3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^100]
+3. számú melléklet a 141/2000. (VIII. 9.) Korm. rendelethez[^105]
 
-[^100]: A 3. számú mellékletet a 360/2019. (XII. 30.) Korm. rendelet 17. § (5) bekezdése hatályon kívül helyezte. Alkalmazásra lásd e módosító rendelet 203. §-át.
+[^105]: A 3. számú mellékletet a 360/2019. (XII. 30.) Korm. rendelet 17. § (5) bekezdése hatályon kívül helyezte. Alkalmazásra lásd e módosító rendelet 203. §-át.
