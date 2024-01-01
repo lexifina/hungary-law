@@ -16,7 +16,7 @@ a) a fizetés nélküli szabadság igénybevételére jogosító gyermeke harmad
 
 b) ha egyenlőtlen munkaidő-beosztásban kíván dolgozni, a munkaidő-beosztásra vonatkozó javaslatáról.
 
-(5) A (4) bekezdésben foglaltaktól eltérően a nevelési-oktatási intézményben pedagógus munkakörben foglalkoztatottak esetében a kérelmet a fizetés nélküli szabadság tartama alatt, a tanév szorgalmi időszakának befejezését, illetve az első félév befejezését megelőző hatvan nappal korábban kell a munkáltatóval közölni.
+(5)
 
 (6) A (3) bekezdés szerinti időponttól a közalkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás tekintetében e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
 

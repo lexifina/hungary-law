@@ -28,6 +28,12 @@ m) a 25/D. § szerint a két jogviszony között
 
 n) az egészségügyi szolgálati jogviszonyban
 
+o) állami vagy önkormányzati költségvetésből működő munkáltatónál
+
+oa) 2021. március 1-jét követően egészségügyi szolgálati jogviszonyban,
+
+ob) köznevelési foglalkoztatotti jogviszonyban
+
 töltött időt.
 
 (2) Ha jogszabály, kormányhatározat vagy a bíróság jogerős ítélete alapján megállapítható, hogy a munkaviszony megszüntetésére a közalkalmazott politikai vagy vallási meggyőződése, továbbá munkavállalói érdekképviseleti szervezethez való tartozása, illetve ezzel összefüggő tevékenysége miatt került sor, a munkaviszony megszüntetésétől 1990. május 2-áig a munkaviszonyban nem töltött időtartamot az (1) bekezdésben foglaltakon túlmenően a közalkalmazotti jogviszonyban töltött időbe be kell számítani.

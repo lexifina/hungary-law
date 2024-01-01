@@ -12,7 +12,7 @@ c) egyetemi tanársegéd (gyakornok), mesteroktató esetén az előírt feltéte
 
 magasabb fizetési fokozatba kell besorolni.
 
-(3a) A (3) bekezdés b) pontja alkalmazásában tanár esetén a köznevelési intézményben pedagógus-munkakörben foglalkoztatásra irányuló jogviszonyban, illetve oktatói munkakörben eltöltött időt is figyelembe kell venni.
+(3a)
 
 (4) A második, harmadik és negyedik fizetési fokozatba sorolás feltétele, hogy a közalkalmazott megfeleljen az adott fizetési fokozathoz a munkáltatónak a munkakörre vonatkozó szabályzatában meghatározott oktatói, kutatói, tanári követelménynek. A negyedik fizetési fokozatba sorolás további feltétele a legalább második fizetési fokozat betöltése és a habilitáció megléte.
 

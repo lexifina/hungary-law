@@ -14,7 +14,7 @@ a) egy további szakképesítés esetén legalább 7%,
 
 b) kettő vagy több további szakképesítés esetén legalább 10%.
 
-(4) Azokban az esetekben, ahol a további szakképesítés hasznosításának mértéke előre nem határozható meg, az illetménynövekedés feltételeit végrehajtási rendelet állapítja meg. Felhatalmazást kap a miniszter, hogy a közoktatási ágazatban a további szakképesítés hasznosításának a kötelező óraszámra eső mértékét meghatározza.
+(4) Azokban az esetekben, ahol a további szakképesítés hasznosításának mértéke előre nem határozható meg, az illetménynövekedés feltételeit végrehajtási rendelet állapítja meg.
 
 (5) További szakképesítésként a közalkalmazott besorolásánál alapul vettel azonos képzettségi szinten szerzett szakképesítést, szakképzettséget lehet figyelembe venni.
 

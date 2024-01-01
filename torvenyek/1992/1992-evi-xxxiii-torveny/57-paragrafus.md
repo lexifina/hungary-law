@@ -2,7 +2,7 @@
 
 (2) A magasabb vezető megbízású közalkalmazottat évi tíz munkanap, a vezető megbízásút évi öt munkanap pótszabadság illeti meg.
 
-(3) A bölcsődékben, mini bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
+(3) A bölcsődékben, mini bölcsődékben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
 
 (3a) A gyermekvédelmi szakellátási intézményekben, javítóintézetekben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató
 

@@ -8,7 +8,7 @@ c) az Európai Unió magyar soros elnökségében közvetlenül részt vevő kö
 
 d)
 
-(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a közoktatási, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, , az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
+(2) Felhatalmazást kap a Kormány, hogy az egészségügyi, a szociális, a gyermekjóléti és gyermekvédelmi, a d) és e) pont kivételével a felsőoktatási intézmények, a Magyar Tudományos Akadémia által fenntartott köztestületi költségvetési szervek, , az a) pont utolsó fordulata kivételével a testnevelési és sportintézmények, továbbá az a) pont utolsó fordulata, a d) pont utolsó fordulata, az e) és g) pont kivételével a helyi önkormányzatok által fenntartott szolgáltató feladatokat ellátó költségvetési intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen, illetve művészeti, közművelődési vagy közgyűjteményi tevékenységet végző közalkalmazottak vonatkozásában rendeletben határozza meg
 
 a) az ágazatban betölthető közalkalmazotti munkaköröket, a munkakörhöz kapcsolódó fizetési osztályokat, a munkakör betöltéséhez a 61. § (1) bekezdésében foglaltakat meghaladóan szükséges képesítési és más többletkövetelményeket, továbbá a 61. § (1) bekezdés g) és i) pontjával összefüggésben a munkakör betöltéséhez jogszabályban előírt szakvizsgával egyenértékűnek elismert vizsgát igazoló oklevelek körét,
 
@@ -28,7 +28,7 @@ g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótl�
 
 a) az egészségügyi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
 
-aa) a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával rendelkezésnek, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
+aa) a közalkalmazotti jogviszony létesítésénél a tizennyolcadik életév betöltésének, valamint a magyar állampolgársággal, a szabad mozgás és tartózkodás jogával, illetve a huzamos tartózkodási jogosultsággal rendelkezésnek a feltétele alóli mentesítést, illetve a magyar állampolgárság feltételét,
 
 ab) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
@@ -66,29 +66,7 @@ be) pótszabadságra jogosult oktató, nevelő munkát végzők körét,
 
 bf) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg;
 
-c) a közoktatási intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
-
-ca) a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
-
-cb) a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
-
-cc) munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
-
-cd) a gyakornoki követelmények elveit, a szakmai segítő részletes kötelezettségeit, a gyakornoki szabályzat kiadásával kapcsolatos eljárási szabályokat, valamint a gyakornok kötelező órájával kapcsolatos rendelkezéseket,
-
-ce) a külön törvényben szabályozott teljesítményértékelés minősítési eredménnyel való egyenértékűsége feltételeit,
-
-cf) a pótszabadságra jogosult nevelő, nevelő-oktató és pedagógiai szakszolgálati tevékenységet végzők körét,
-
-cg) a további szakképzettség, illetve szakképesítés hasznosításának a kötelező óraszámra eső mértékét,
-
-ch) az ágazatban adományozható címeket, az adományozás feltételeit és a hozzájuk kapcsolódó címpótlékot,
-
-ci) az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
-
-cj) a közalkalmazotti jogviszony létesítésénél a magyar állampolgárság, a szabad mozgás és tartózkodás jogával való rendelkezés, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítést,
-
-ck) a 66. § (2)–(3) bekezdése szerinti illetménynövekedésre való jogosultság tekintetében a további szakképesítéssel egyenértékűnek elismert képesítéseket;
+c)
 
 d) a felsőoktatási intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
 
@@ -118,7 +96,7 @@ ed) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazat
 
 ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 
-ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
+ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve a huzamos tartózkodási jogosultsággal rendelkezés feltétele alóli mentesítésnek a feltételét;
 
 eg)
 

@@ -14,7 +14,7 @@ a) büntetlen előéletű,
 
 b) tizennyolcadik életévét betöltött, továbbá
 
-c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve bevándorolt vagy letelepedett,
+c) magyar állampolgárságú, vagy külön jogszabály szerint a szabad mozgás és tartózkodás jogával rendelkező, illetve huzamos tartózkodási jogosultsággal rendelkező,
 
 d) állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt nem álló
 
