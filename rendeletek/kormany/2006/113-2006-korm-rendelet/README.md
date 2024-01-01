@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-113-20-
 | 2019-04-06 | 2006-113-20-22.16 | 73/2019. (IV. 5.) Korm. rendelet |
 | 2021-01-01 | 2006-113-20-22.17 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2023-01-01 | 2006-113-20-22.18 | 369/2012. (XII. 17.) Korm. rendelet |
+| 2024-01-01 | 2006-113-20-22.19 | 369/2012. (XII. 17.) Korm. rendelet |
