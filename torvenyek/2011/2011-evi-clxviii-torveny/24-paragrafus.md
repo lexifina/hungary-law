@@ -28,7 +28,7 @@ b) a mezőgazdasági káresemények körét, azok bejelentésének, igazolásán
 
 c) a kárenyhítő juttatás iránti kérelem benyújtásának részletes feltételeit,
 
-d) a kárenyhítő juttatásra való jogosultság és a kárenyhítő juttatás megállapításának részletes feltételeit,
+d) a kárenyhítő juttatásra való jogosultság és a kárenyhítő juttatás megállapításának részletes feltételeit, valamint a kárenyhítési juttatás évi legmagasabb összegét,
 
 e) a központi költségvetésből kárenyhítés céljára nyújtott többletforrás igénybevételéhez szükséges feltételeket és a feltételek teljesítése igazolásának módját,
 

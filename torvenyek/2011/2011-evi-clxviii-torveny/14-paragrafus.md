@@ -30,6 +30,16 @@ g) a mezőgazdasági termelővel kötött mezőgazdasági biztosítás 11. § (5
 
 (3) Az agrárkár-megállapító szerv az (1) és (2) bekezdés szerinti tényeket a kármegállapítást támogató szerv adatain alapuló kockázatelemzés eredményei szerint lefolytatott adminisztratív- vagy helyszíni ellenőrzés megállapításaira alapozva, továbbá a 17. § (2) bekezdése alapján a biztosítótól kapott adatok figyelembevételével állapítja meg.
 
+(3a) Ha a kárbejelentéssel érintett terület vonatkozásában az adott kárenyhítési évben korábban már megállapításra került, hogy
+
+a) a terület nem érintett kedvezőtlen éghajlati jelenséggel,
+
+b) a növénykultúra nem beazonosítható – kivéve a teljes kipusztulás vagy korai ki nem kelés esetét –, vagy
+
+c) a termesztő berendezésben termesztett fóliás és üvegházi növénykultúrát érintő bejelentés esetén a területen a termesztő berendezés, vagy megsemmisülése esetén annak maradványai nem lelhetők fel,
+
+akkor a valótlan adatszolgáltatással érintett terület vonatkozásában a kárbejelentés nem alapozza meg a káresemény megállapítását.
+
 (4) Az ország egész területét vagy annak meghatározott részét érintő egyes káreseményt kiváltó időjárási jelenségről az országos meteorológiai szerv internetes honlapján tájékoztatót tesz közzé, amelyben a feltűntetett adat helyességét az ellenkező bizonyításáig vélelmezni kell. A helyesnek vélelmezett adatot a törvény hatálya alá tartozó eljárásban kötelezően alkalmazni kell.
 
 (5) Az (1) bekezdés d) pontja és a (2) bekezdés d) pontja alkalmazásában a kár helyét a Mezőgazdasági Parcella Azonosító Rendszer (a továbbiakban: MePAR) kötelező alkalmazásával kell meghatározni.

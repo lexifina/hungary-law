@@ -92,7 +92,7 @@ b) a lehullott csapadék összes mennyisége a huszonöt millimétert nem éri e
 
 32a. téli fagykár: a kockázatviselés helyén, nyugalmi periódusban, az őszi kalászos gabona-, a repce- és az őszi takarmánykeverék kultúráinak a téli fagy miatt bekövetkezett kipusztulásából, valamint az ültetvényben a termőrész vagy növényegyed téli fagy miatt bekövetkezett elhalásából adódóan hozamcsökkenést eredményező káresemény;
 
-33. üzemi szint: a tárgyévi kárbejelentő kérelemben vagy egységes kérelemben bejelentett összes használatban lévő termőföldön termesztett növénykultúra figyelembevételével megállapított üzemméret;
+33. üzemi szint: a tárgyévi kárbejelentő kérelemben és az egységes kérelemben bejelentett összes használatban lévő termőföldön termesztett növénykultúra figyelembevételével megállapított üzemméret;
 
 34. vihar: a legalább húsz m/sec. szélsebesség, ideértve a szántóföldi növény állományában mechanikai sérülést okozó, a legalább húsz m/sec sebességű szél által szállított szemcse vagy részecske miatti homokverést is;
 

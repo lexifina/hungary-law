@@ -4,7 +4,7 @@
 
 (2) A mezőgazdasági kockázatkezelési adatbázis tartalmazza:
 
-a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
+a) a mezőgazdasági termelő azonosítására szolgáló (név, székhely vagy lakcím, támogatási azonosító),
 
 b) a kárbejelentéssel kapcsolatos,
 
@@ -50,8 +50,8 @@ céljából.
 
 (6) Az agrárkár-enyhítési szerv a biztosító 17. § (1) bekezdés szerinti tájékoztatását követően az agrárkár-enyhítési szerv és a biztosítók közötti megállapodás alapján, de legkésőbb a tárgyév augusztus 1-ig tájékoztatja az érintett biztosítót a mezőgazdasági biztosítási díjtámogatási kérelmet benyújtó mezőgazdasági termelő
 
-a) nevéről és eljárási tv. szerinti ügyfél-azonosítójáról, továbbá
+a) nevéről és támogatási azonosítójáról, továbbá
 
-b) lábon álló növénykultúrára kötött biztosítási szerződéssel biztosított növénykultúráinak tárgyévi egységes kérelemben bejelentett teljes területéről és azok MePAR szerinti blokkazonosítójáról.
+b) az érintett biztosító által díjtámogatott konstrukcióban biztosított növénykultúráinak tárgyévi egységes kérelemben bejelentett teljes területéről és azok MePAR szerinti blokkazonosítójáról.
 
 (7) A kárbejelentésben és a kárenyhítő juttatás iránti kérelemben bejelentett adatok ellenőrzése céljából az agrárkár-enyhítési szerv a kárenyhítési hozzájárulás-fizetési kötelezettség mezőgazdasági termelőnkénti adatait az e törvény végrehajtására kiadott rendeletben meghatározott módon továbbítja a mezőgazdasági igazgatási szerv részére.

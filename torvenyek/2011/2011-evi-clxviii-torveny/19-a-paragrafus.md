@@ -6,9 +6,9 @@
 
 (3) Az országos jégkármegelőző rendszer működtetésének forrása:
 
-a) a 7. § (1) bekezdés b) pontja szerinti pénzeszköz, valamint
+a) az állam által a központi költségvetésből nyújtott támogatás, valamint
 
-b) a 7. § (1) bekezdés e) pontja szerinti pénzeszköz és önkéntes befizetések
+b) a társasági adó alanya által a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 7. § (1) bekezdés z) pontjában foglaltak alapján adott támogatás, juttatás és önkéntes befizetések
 
 (a továbbiakban együtt: jégkár-megelőzési pénzeszköz).
 
@@ -18,7 +18,7 @@ b) a 7. § (1) bekezdés e) pontja szerinti pénzeszköz és önkéntes befizet�
 
 (6) Az országos jégkármegelőző rendszer működtetéséhez a (3) bekezdés b) pontja szerinti pénzeszközt kell elsődlegesen felhasználni.
 
-(7) A jégkár-megelőzési pénzeszköz jégkármegelőző rendszer működtetése céljából rendelkezésre bocsátott és fel nem használt része a tárgyévet követő évben felhasználható azzal, hogy annak összege a vonatkozó évre biztosítandó, a (2) bekezdésben foglalt pénzösszeget csökkenti.
+(7)
 
 (8)
 

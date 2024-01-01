@@ -17,3 +17,5 @@ d) jogszabályban meghatározott egyéb
 feladatokat.
 
 (3) A krízisbiztosítási szerv – az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU rendelet) 39. cikk (2) bekezdés a) pontja szerinti – akkreditálását az 1305/2013/EU rendelet b) és c) pontjaira is figyelemmel a miniszter az általa megadott és a miniszter által vezetett minisztérium hivatalos lapjában közzétett szempontok alapján végzi el. A miniszter jogosult az akkreditáció feltételrendszerét felülvizsgálni, az annak történő megfelelést ellenőrizni.
+
+(4) A krízisbiztosítási szerv krízisbiztosításra fordítható bevételei és kiadásai nem képezik a központi költségvetés részét.

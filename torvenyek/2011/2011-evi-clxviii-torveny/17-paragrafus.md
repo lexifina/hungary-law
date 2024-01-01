@@ -2,7 +2,7 @@
 
 17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követően legkésőbb a tárgyév július 15-ig adategyeztetés céljából köteles az agrárkár-enyhítési szerv részére a mezőgazdasági biztosítási szerződés adatai közül:
 
-a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, székhely vagy lakcím, eljárási tv. szerinti ügyfél-azonosító),
+a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására [név, székhely vagy lakcím, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító)],
 
 b) a mezőgazdasági biztosítási szerződés azonosítására (szerződéskötés dátuma, kötvényszám, módozat, biztosítási esemény),
 
@@ -20,15 +20,15 @@ vonatkozó adatokat átadni.
 
 (1b) Az agrárkár-enyhítési szerv a mezőgazdasági biztosítási szerződés díjához nyújtott támogatás helyszíni ellenőrzését a biztosító és a mezőgazdasági termelő közötti szerződés vizsgálatával látja el, amelynek során a biztosító a 16. § (1) bekezdés szerinti szerződés vonatkozásában az (1) bekezdésben felsorolt adatokat az agrárkár-enyhítési szerv ellenőrzésének végrehajtása céljából az agrárkár-enyhítési szerv részére rendelkezésre bocsátja.
 
-(2) A biztosító a lábon álló növénykultúrára megkötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról köteles tájékoztatást adni – abban az esetben is, ha a szerződő fél nem a biztosított mezőgazdasági termelő – az agrárkár-enyhítési szervnek és a mezőgazdasági igazgatási szervnek:
+(2) A biztosító a lábon álló növénykultúrára megkötött mezőgazdasági biztosítási szerződés adatai alapján a kár lezárását követően harminc napon belül, de legkésőbb a tárgyév november 20-ig az alábbi információkról tájékoztatást ad – abban az esetben is, ha a szerződő fél nem a biztosított mezőgazdasági termelő – az agrárkár-enyhítési szervnek:
 
-a) a biztosított mezőgazdasági termelő azonosítására szolgáló adatok (név, eljárási tv. szerinti ügyfél-azonosító),
+a) a biztosított mezőgazdasági termelő és a szerződő fél azonosítására szolgáló adatok (név, támogatási azonosító),
 
 b) a kockázatviselés helye szerint, növénykultúránkénti bontásban a biztosítónak bejelentett káresemény,
 
-c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződés alapján megállapított kártérítés káreseményenkénti összege, és
+c) a mezőgazdasági termelő részére a mezőgazdasági biztosítási szerződés alapján megállapított kártérítés káreseményenkénti összege növénykultúránkénti bontásban, és
 
-d) szerződés kötvényszáma.
+d) a mezőgazdasági biztosítási szerződés kötvényszáma.
 
 (3) Az agrárkár-enyhítési szerv és a mezőgazdasági igazgatási szerv a (2) bekezdés szerinti információkat az agrárkár-megállapító szerv részére elérhetővé teszi.
 
@@ -36,7 +36,7 @@ d) szerződés kötvényszáma.
 
 a) a biztosított mezőgazdasági termelő vonatkozásában:
 
-aa) az eljárási tv. szerinti ügyfél-azonosítójáról,
+aa) a támogatási azonosítójáról,
 
 ab) a biztosított növénykultúra megnevezéséről,
 
