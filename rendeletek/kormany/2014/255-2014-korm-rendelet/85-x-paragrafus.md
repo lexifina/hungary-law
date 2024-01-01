@@ -1,11 +1,15 @@
-85/X. § (1) A támogatást nyújtó az Atr. 18/C. § (3) bekezdésében meghatározott határidők szerint továbbítja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a támogatásoknak az Atr. 6. melléklete szerinti adatait az Atr. 18/D. § (1) bekezdés e) pontja szerinti közzététel céljából.
+85/X. § (1)[^292]
 
-(2) A támogatást nyújtó az Atr. 34. § (1) bekezdésére figyelemmel minden év április 30-áig beszámolót készít a megelőző évben nyújtott támogatásokról az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
+(2)[^293]
 
-(3) A támogatást nyújtó és a kedvezményezett a támogatással kapcsolatos iratokat a támogatás odaítélésétől számított tíz évig megőrzi.
+(3)[^294]
 
-(4)[^299] A közlemény 81. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
+(4)[^295]
 
-(5) A támogatás a 4. §, 6. §, 8. §, 10. §, 12. §, 14. §, 16. § és 17/B. § szerinti célokra nyújtható.
+(5)[^296] A támogatás a 17/B. § szerinti célokra nyújtható.
 
-[^299]: A 85/X. § (4) bekezdése az 571/2022. (XII. 23.) Korm. rendelet 7. § e) pontja szerint módosított szöveg.
+[^292]: A 85/X. § (1) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 20. pontja hatályon kívül helyezte.
+[^293]: A 85/X. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 20. pontja hatályon kívül helyezte.
+[^294]: A 85/X. § (3) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 20. pontja hatályon kívül helyezte.
+[^295]: A 85/X. § (4) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 20. pontja hatályon kívül helyezte.
+[^296]: A 85/X. § (5) bekezdése a 639/2023. (XII. 28.) Korm. rendelet 25. § 21. pontja szerint módosított szöveg.

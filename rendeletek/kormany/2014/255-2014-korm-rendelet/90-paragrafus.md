@@ -1,22 +1,8 @@
-## 89/D. §[^307] A 10 millió eurónak megfelelő forintösszeget meghaladó támogatásban részesült projektek esetén a támogatást nyújtó a kedvezményezett indokolatlan mértékű profitszerzésének megakadályozása érdekében ellenőrzési és visszafizetési mechanizmust alkalmaz.
-
 ## 43. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
-90. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
+90. § (1)[^298] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 48. alcíme szerint nyújtható.
 
-(2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
+(2)[^299]
 
-a)[^308] muzeális intézmény, levéltár, könyvtár, művészeti vagy közművelődési intézmény – ide értve a közösségi teret –, koncertterem, filmszínház,
-
-b) tárgyi kulturális örökség, régészeti lelőhely, emlékmű, történelmi emlékhely és épület, a kulturális örökséghez kapcsolódó természeti örökség, kulturális vagy természeti örökséggé nyilvánított örökség,
-
-c) a szellemi kulturális örökség valamennyi formája (pl. népi hagyományok, kézművesség),
-
-d) művészeti vagy kulturális esemény, előadás, fesztivál, kiállítás és hasonló kulturális tevékenység,
-
-e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezésmódok sokfélesége védelmének és támogatásának jelentőségét tudatosító oktatási és társadalmi célú figyelemfelhívó programok, ideértve az új technológiák alkalmazását is ezen célokra,
-
-f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
-
-[^307]: A 89/D. §-t a 679/2021. (XII. 3.) Korm. rendelet 29. §-a iktatta be.
-[^308]: A 90. § (2) bekezdés a) pontja a 365/2017. (XII. 5.) Korm. rendelet 20. § 12. pontja szerint módosított szöveg.
+[^298]: A 90. § (1) bekezdése a 639/2023. (XII. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^299]: A 90. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 22. pontja hatályon kívül helyezte.

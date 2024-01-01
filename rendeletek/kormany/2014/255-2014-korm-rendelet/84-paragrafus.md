@@ -1,11 +1,5 @@
-## 41. A természeti katasztrófa okozta kár helyreállítására nyújtott támogatás
+## 41.[^279]
 
-84. § (1) A természeti katasztrófa okozta kár helyreállítására nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a 651/2014/EU bizottsági rendelet 50. cikk (1) bekezdése szerinti károk helyreállítására nyújtható, ha
+84. §
 
-a) az illetékes nemzeti hatóság az eseményt hivatalosan természeti katasztrófává minősítette, és
-
-b) a természeti katasztrófa és az érintett vállalkozás által elszenvedett károk között közvetlen ok-okozati összefüggés áll fenn.
-
-(2) Támogatást a természeti katasztrófa bekövetkezésétől számított négy éven belül lehet nyújtani.
-
-(3) A támogatás keretében a természeti katasztrófa közvetlen következményeként bekövetkezett, az illetékes nemzeti hatóság által elismert független szakértő vagy biztosító által megállapított kár összege számolható el.
+[^279]: A 41. alcímet (84-85. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

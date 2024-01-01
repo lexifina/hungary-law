@@ -1,15 +1,5 @@
-## 19. A kutatás-fejlesztési projekthez nyújtott támogatás
+## 19.[^245]
 
-48. § (1) A kutatás-fejlesztési projekthez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatás-fejlesztési projekt részére nyújtható.
+48. §
 
-(2) A kutatás-fejlesztési projekt kategóriái:
-
-a) alapkutatás,
-
-b) ipari kutatás,
-
-c) kísérleti fejlesztés,
-
-d) megvalósíthatósági tanulmány.
-
-(3) Ha egy projekt több tevékenységet foglal magában, az egyes tevékenységeket be kell sorolni a (2) bekezdés szerinti kutatás-fejlesztési kategóriák közé.
+[^245]: A 19. alcímet (48-50. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

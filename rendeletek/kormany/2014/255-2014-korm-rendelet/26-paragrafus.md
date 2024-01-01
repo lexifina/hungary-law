@@ -1,14 +1,3 @@
-26. § (1) A támogatás akkor vehető igénybe, ha a támogatott vállalkozás kötelezettséget vállal arra, hogy a beruházással létrehozott tevékenységet az üzembe helyezés időpontjától számított legalább öt évig, kis- és középvállalkozás esetén legalább három évig fenntartja.
+26. §[^228]
 
-(2) A beszerzett eszköznek újnak kell lennie, kivéve a felvásárlás esetét vagy, ha a beruházó kis- és középvállalkozásnak minősül.
-
-(3) Az (1) bekezdés szerinti követelmény nem akadályozza a gyors technológiai változások miatt a fenntartási időszak alatt korszerűtlenné vált vagy meghibásodott tárgyi eszköz cseréjét, ha a fenntartási időszak alatt a gazdasági tevékenység fenntartása az érintett régióban biztosított. A korszerűtlenné vált vagy meghibásodott és támogatásban már részesült tárgyi eszköz cseréjére a fenntartási időszakban a beruházó állami támogatásban nem részesülhet. Az új eszköznek a lecserélt tárgyi eszközzel azonos funkcióval és azonos vagy nagyobb kapacitással kell rendelkeznie, továbbá a gyártási időpontja nem lehet korábbi, mint a lecserélt tárgyi eszközé.
-
-(4) A támogatás akkor vehető igénybe, ha a beruházó az elszámolható költségek legalább 25%-át saját forrásból biztosítja, továbbá a teljes beruházás megvalósításához szükséges költségek forrását a támogató számára bemutatja.
-
-(5)[^230] A kedvezményezett a támogatási kérelem benyújtásával egyidejűleg, a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás befejezését követő legalább két évig nem kerül sor a létesítmény áttelepítésére abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást meg kívánja valósítani.
-
-(6)[^231] A 2020. január 1. és 2021. június 30. között megszűnő munkahelyek a 2019. december 31-én vagy azt megelőzően tett, az (5) bekezdés szerinti kötelezettségvállalás szempontjából nem eredményeznek áttelepítést.
-
-[^230]: A 26. § (5) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 13. §-a iktatta be.
-[^231]: A 26. § (6) bekezdését a 491/2020. (XI. 11.) Korm. rendelet 10. §-a iktatta be.
+[^228]: A 26. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.

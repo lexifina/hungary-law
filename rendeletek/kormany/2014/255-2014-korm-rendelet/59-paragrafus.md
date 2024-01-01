@@ -1,11 +1,5 @@
-## 26. A megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás
+## 26.[^252]
 
-59. § (1) A megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 75%-át.
+59. §
 
-(2) A támogatás keretében a megváltozott munkaképességű munkavállaló foglalkoztatása alatti időszakban felmerülő bérköltség számolható el.
-
-(3) A megváltozott munkaképességű munkavállaló felvételének az érintett vállalkozásnál a foglalkoztatottak számának nettó növekedését kell eredményeznie a felvételt megelőző tizenkét hónap átlagához viszonyítva.
-
-(4) A foglalkoztatottak számának nettó növekedése szempontjából figyelmen kívül kell hagyni azon álláshelyek megüresedését, amely önkéntes kilépés, a munkaképesség megváltozása, öregségi nyugdíjazás, önkéntes munkaidő-csökkentés vagy kötelességszegés miatti jogszerű elbocsátás miatt történik. Ez a szabály nem alkalmazható az álláshely létszámleépítés következtében történt megüresedése esetén.
-
-(5) A megváltozott munkaképességű munkavállaló az alkalmazandó nemzeti jogszabályoknak, a munkaszerződésnek vagy a vállalkozásra nézve kötelező kollektív szerződésnek megfelelő minimális időtartamon keresztül folyamatos foglalkoztatásra jogosult.
+[^252]: A 26. alcímet (59. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

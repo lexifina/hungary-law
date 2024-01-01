@@ -14,9 +14,9 @@ b) visszatérítendő támogatás
 
 nyújtható.
 
-(3)[^59] A 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+(3)[^151] A 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
-(4)[^60] Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
+(4)[^152] Ha a támogatás nyújtása az uniós állami támogatási szabályok értelmében az Európai Bizottság előzetes jóváhagyásától függ, a támogatási döntés csak az Európai Bizottság jóváhagyó határozatának meghozatalát követően hajható végre.
 
-[^59]: A 3. § (3) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^60]: A 3. § (4) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.
+[^151]: A 3. § (3) bekezdése a 639/2023. (XII. 28.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^152]: A 3. § (4) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 2. pontja szerint módosított szöveg.

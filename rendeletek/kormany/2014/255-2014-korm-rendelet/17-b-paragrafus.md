@@ -36,7 +36,7 @@ e) az erdő környezeti és közjóléti értékének növelése vagy
 
 f) erdősítés és fásítás támogatása,
 
-g)[^181] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
+g)[^163] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
 
 8. termelői csoport vagy szervezet létrehozása,
 
@@ -60,7 +60,7 @@ c) a rövid ellátási lánc alkalmazásában a közös piacra jutás fejleszté
 
 d) a szolidáris és a közösség által támogatott mezőgazdaság,
 
-e)[^182] agrár-innovációs operatív csoportok létrehozása és működtetése
+e)[^164] agrár-innovációs operatív csoportok létrehozása és működtetése
 
 érdekében,
 
@@ -72,5 +72,5 @@ b) stratégia
 
 megvalósításának támogatása.
 
-[^181]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.
-[^182]: A 17/B. § 11. pont e) alpontját a 365/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.
+[^163]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.
+[^164]: A 17/B. § 11. pont e) alpontját a 365/2017. (XII. 5.) Korm. rendelet 7. §-a iktatta be.

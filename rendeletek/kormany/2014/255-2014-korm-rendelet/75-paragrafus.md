@@ -1,12 +1,3 @@
-75. § (1) Nem nyújtható támogatás
+75. §[^272]
 
-a) ellátási vagy bekeverési kötelezettség hatálya alatt álló bioüzemanyagokhoz,
-
-b)[^273] a 2000/60/EK európai parlamenti és tanácsi irányelvben meghatározott feltételeket nem teljesítő vízerőművekhez.
-
-(2)[^274] Nem ítélhető meg és nem fizethető ki támogatás a létesítmény működésének megkezdését követően és a támogatás nem függhet a termelés eredményétől.
-
-(3) Támogatás nem ítélhető meg működési célra.
-
-[^273]: A 75. § (1) bekezdés b) pontja a 271/2015. (IX. 18.) Korm. rendelet 22. § 15. pontja szerint módosított szöveg.
-[^274]: A 75. § (2) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 17. § 24. pontja szerint módosított szöveg.
+[^272]: A 75. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 17. pontja hatályon kívül helyezte.

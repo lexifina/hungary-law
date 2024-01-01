@@ -1,27 +1,3 @@
-## 24. §[^220] E rendelet alapján
+24. §[^226] E rendelet alapján – a 41/D. alcím kivételével – 2025. december 31-ig lehet támogatási döntést hozni.
 
-a)[^221]
-
-b)[^222] a 11–41. és 42–45/A. alcím szerinti támogatás esetén 2024. június 30-ig,
-
-c)[^223] a 47. alcím szerinti támogatás esetén 2023. december 31-ig,
-
-d) a 46. alcím szerinti támogatás esetén 2024. június 30-ig,
-
-e)[^224] a 41/A–41/C. alcím szerinti támogatás esetén 2022. június 30-ig,
-
-f) az 50. alcím szerinti támogatás esetén 2028. június 30-ig
-
-g)[^225] a 48/A. és az 51–69. alcím szerinti támogatás esetén 2022. december 31-ig
-
-h)[^226] a 41/D. alcím szerinti támogatás esetén 2023. december 31-ig
-
-lehet támogatási döntést hozni.
-
-[^220]: A 24. § a 491/2020. (XI. 11.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^221]: A 24. § a) pontját a 156/2022. (IV. 19.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
-[^222]: A 24. § b) pontja a 156/2022. (IV. 19.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^223]: A 24. § c) pontja a 662/2020. (XII. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^224]: A 24. § e) pontja a 99/2021. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 723/2021. (XII. 20.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
-[^225]: A 24. § g) pontját a 99/2021. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege az 571/2022. (XII. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^226]: A 24. § h) pontját az 571/2022. (XII. 23.) Korm. rendelet 4. §-a iktatta be.
+[^226]: A 24. § a 639/2023. (XII. 28.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
-## 14. A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás
+## 14.[^238]
 
-35. § (1) A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+35. §
 
-(2) A támogatás keretében a vállalkozásnak valamely kiállításon vagy vásáron való részvételekor felmerülő, a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költség számolható el.
+[^238]: A 14. alcímet (35. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

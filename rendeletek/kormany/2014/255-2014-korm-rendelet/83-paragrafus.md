@@ -1,9 +1,5 @@
-## 40. A környezetvédelmi tanulmányhoz nyújtott támogatás
+## 40.[^278]
 
-83. § (1) A 30–39. alcím szerinti beruházáshoz közvetlenül kapcsolódó környezetvédelmi tanulmányhoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+83. §
 
-(2) A támogatási intenzitás a 64. § (2) bekezdése szerint növelhető.
-
-(3) A támogatás keretében környezetvédelmi tanulmány (pl. energiaaudit) költsége számolható el.
-
-(4) A 2012/27/EU európai parlamenti és tanácsi irányelv által kötelezően előírt energiaauditon felül végrehajtott energiaaudit kivételével nem nyújtható támogatás nagyvállalkozás részére a 2012/27/EU európai parlamenti és tanácsi irányelv 8. cikk (4) bekezdése szerinti energiaaudithoz.
+[^278]: A 40. alcímet (83. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

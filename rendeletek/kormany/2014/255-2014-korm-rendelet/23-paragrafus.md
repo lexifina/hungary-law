@@ -1,94 +1,104 @@
 23. § (1) Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
-1. regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
+1.[^190] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – egy legalább 110 millió euró elszámolható költségű beruházási támogatás esetében vállalkozásonként és projektenként meghaladja
 
-2. a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
+a) a 24,75 millió eurónak megfelelő forintösszeget, ha a maximális regionális támogatási intenzitás 30%,
 
-3. a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+b) a 41,25 millió eurónak megfelelő forintösszeget, ha a maximális regionális támogatási intenzitás 50%,
 
-4. a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+c) a 49,5 millió eurónak megfelelő forintösszeget, ha a maximális regionális támogatási intenzitás 60%,
 
-5.[^206]
+2.[^191]
 
-5a.[^207] közösségvezérelt helyi fejlesztési projektben vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjében részt vevő kis- és középvállalkozásnál felmerült egyes költségekhez nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+3.[^192]
 
-5b.[^208] közösségvezérelt helyi fejlesztési projektekből vagy a mezőgazdaság termelékenységét és fenntarthatóságát célzó európai innovációs partnerség operatív csoportjának projektjeiből részesülő kis- és középvállalkozásoknak nyújtott korlátozott összegű támogatás esetén meghaladja a 36/B. § (2) bekezdése szerinti összeget,
+4.[^193]
 
-6. kockázatfinanszírozási támogatás esetén végső kedvezményezettenként meghaladja a 15 millió eurónak megfelelő forintösszeget,
+5.[^194]
 
-7. induló vállalkozásnak nyújtott támogatás esetén meghaladja a 43–45. §-ban meghatározott mértéket,
+5a.[^195]
 
-8. kutatás-fejlesztési projekthez nyújtott támogatás esetén
+5b.[^196]
 
-a) vállalkozásonként és projektenként meghaladja a 40 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele az alapkutatás kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
+6.[^197]
 
-b) vállalkozásonként és projektenként meghaladja a 20 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele az ipari kutatás kategóriájába vagy együttesen véve az ipari kutatás és az alapkutatás kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
+7.[^198]
 
-c) vállalkozásonként és projektenként meghaladja a 15 millió eurónak megfelelő forintösszeget, ha a projekt elszámolható költségeinek több mint fele a kísérleti fejlesztés kategóriájába tartozó tevékenységgel kapcsolatban merül fel,
+8.[^199]
 
-d) meghaladja az a)–c) alpont szerinti összeg kétszeresét EUREKA-projekt vagy az EUMSz 185. cikke vagy 187. cikke alapján létrehozott közös vállalkozás által megvalósított projekt esetén,
+9.[^200]
 
-e) meghaladja az a)–d) alpont szerinti összeg 150%-át, ha a kutatás-fejlesztési projekthez a támogatást visszafizetendő előleg formájában nyújtják (amelyet a bruttó támogatási egyenérték kiszámításához használt módszertan hiánya esetén az elszámolható költségek százalékában kell kifejezni) és, ha az intézkedés biztosítja, hogy a projekt ésszerű és prudenciális megfontolások alapján megállapított, sikeres befejezése esetén az előleg legalább a támogatás odaítélésekor irányadó diszkont kamatláb szerint számított kamattal megnövelve kerül visszafizetésre,
+10.[^201]
 
-f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz nyújtott támogatás esetén tanulmányonként meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
+11.[^202]
 
-9. a kutatási infrastruktúrához nyújtott beruházási támogatás esetén infrastruktúránként meghaladja a 20 millió eurónak megfelelő forintösszeget,
+12.[^203]
 
-10. az innovációs klaszterre nyújtott támogatás esetén klaszterenként meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
+13.[^204]
 
-11. a kis- és középvállalkozásnak nyújtott innovációs támogatás esetén vállalkozásonként és projektenként meghaladja az 5 millió eurónak megfelelő forintösszeget,
+14.[^205]
 
-12. az eljárási innováció és szervezési innováció támogatása esetén vállalkozásonként és projektenként meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
+15.[^206]
 
-13. képzési támogatás esetén képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+16.[^207]
 
-14. a megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás esetén vállalkozásonként és évenként meghaladja a 10 millió eurónak megfelelő forintösszeget,
+17.[^208]
 
-15. a megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás esetén vállalkozásonként és évenként meghaladja a 10 millió eurónak megfelelő forintösszeget,
+18.[^209] megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás esetén vállalkozásonként és projektenként meghaladja a 30 millió eurónak megfelelő forintösszeget,
 
-16. a hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás esetén vállalkozásonként és évenként meghaladja az 5 millió eurónak megfelelő forintösszeget,
+19.[^210]
 
-17. a hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás esetén vállalkozásonként és évenként meghaladja az 5 millió eurónak megfelelő forintösszeget,
+20.[^211]
 
-18. a 30–32., 34., 35. és 38. alcím szerinti, továbbá energiatermelő létesítményhez nyújtott, a 37. alcím szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja a 15 millió eurónak megfelelő forintösszeget,
+21.[^212]
 
-19. épület-energiahatékonysági projektre irányuló beruházási támogatás esetén meghaladja a 10 millió eurónak megfelelő forintösszeget a 68. § (4) bekezdése szerint,
+22.[^213]
 
-20. szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
+23.[^214] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 165 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 82,5 millió eurónak megfelelő forintösszeget,
 
-21. elosztóhálózathoz nyújtott, a 37. alcím szerinti támogatás esetén vállalkozásonként és beruházásonként meghaladja a 20 millió eurónak megfelelő forintösszeget,
+24.[^215] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 33 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 110 millió eurónak megfelelő forintösszeget,
 
-22. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget,
+24a.[^216] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2,2 millió eurónak megfelelő forintösszeget,
 
-23.[^209] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 150 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 75 millió eurónak megfelelő forintösszeget,
+25.[^217] helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 11 millió eurónak megfelelő forintösszeget vagy a 22 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
-24.[^210] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 30 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget,
+(2)[^218]
 
-24a.[^211] sportlétesítményekre nyújtott működési támogatás esetén létesítményenként évente meghaladja a 2 millió eurónak megfelelő forintösszeget,
+(3)[^219]
 
-25. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
+(4)[^220]
 
-(2)[^212] A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 100 millió eurónak megfelelő forintösszeget, vagy pénzügyi eszköz formájában odaítélt támogatás esetén ha a kedvezményezettnek nyújtott teljes finanszírozás névértéke bármely projekt esetén meghaladja a 150 millió eurót.
+(5)[^221]
 
-(3)[^213] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt elszámolható költsége meghaladja
-
-a) a 40 millió eurónak vagy
-
-b) – a transzeurópai közlekedési hálózat fejlesztésére vonatkozó uniós iránymutatásokról és a 661/2010/EU határozat hatályon kívül helyezéséről szóló, 2013. december 11-i 1315/2013/EU európai parlamenti és tanácsi rendelet 47. cikkében meghatározott munkatervben szereplő belvízi kikötő esetén – az 50 millió eurónak
-
-megfelelő forintösszeget. Ha a projekt kotrást is tartalmaz, jelen bekezdés alkalmazásában az adott belvízi kikötőben egy naptári éven belül végrehajtott összes kotrási tevékenység tekintendő a projekt részének.
-
-(4)[^214] A regionális városfejlesztési támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a városfejlesztési projektnek biztosított teljes beruházás meghaladja a 20 millió eurónak megfelelő forintösszeget.
-
-(5)[^215] Előzetesen be kell jelenteni az Európai Bizottság részére azt a kibocsátásmentes és az alacsony kibocsátású közúti járműveket kiszolgáló, nyilvánosan hozzáférhető elektromos töltőinfrastruktúrához vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatást tartalmazó programot, amely esetén az erre a támogatási kategóriára eső éves átlagos költségvetés meghaladja a 150 millió eurónak megfelelő forintösszeget.
-
-[^206]: A 23. § (1) bekezdés 5. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.
-[^207]: A 23. § (1) bekezdés 5a. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^208]: A 23. § (1) bekezdés 5b. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be.
-[^209]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja szerint módosított szöveg.
-[^210]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^211]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^212]: A 23. § (2) bekezdése a 679/2021. (XII. 3.) Korm. rendelet 19. § (2) bekezdésével megállapított szöveg.
-[^213]: A 23. § (3) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^214]: A 23. § (4) bekezdését a 365/2017. (XII. 5.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^215]: A 23. § (5) bekezdését a 679/2021. (XII. 3.) Korm. rendelet 19. § (3) bekezdése iktatta be.
+[^190]: A 23. § (1) bekezdés 1. pontja a 639/2023. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^191]: A 23. § (1) bekezdés 2. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^192]: A 23. § (1) bekezdés 3. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^193]: A 23. § (1) bekezdés 4. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^194]: A 23. § (1) bekezdés 5. pontját a 679/2021. (XII. 3.) Korm. rendelet 34. § c) pontja hatályon kívül helyezte.
+[^195]: A 23. § (1) bekezdés 5a. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^196]: A 23. § (1) bekezdés 5b. pontját a 679/2021. (XII. 3.) Korm. rendelet 19. § (1) bekezdése iktatta be, a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^197]: A 23. § (1) bekezdés 6. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^198]: A 23. § (1) bekezdés 7. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^199]: A 23. § (1) bekezdés 8. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^200]: A 23. § (1) bekezdés 9. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^201]: A 23. § (1) bekezdés 10. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^202]: A 23. § (1) bekezdés 11. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^203]: A 23. § (1) bekezdés 12. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^204]: A 23. § (1) bekezdés 13. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^205]: A 23. § (1) bekezdés 14. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^206]: A 23. § (1) bekezdés 15. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^207]: A 23. § (1) bekezdés 16. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^208]: A 23. § (1) bekezdés 17. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^209]: A 23. § (1) bekezdés 18. pontja a 639/2023. (XII. 28.) Korm. rendelet 24. § 19. pontja szerint módosított szöveg.
+[^210]: A 23. § (1) bekezdés 19. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^211]: A 23. § (1) bekezdés 20. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^212]: A 23. § (1) bekezdés 21. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^213]: A 23. § (1) bekezdés 22. pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 11. pontja hatályon kívül helyezte.
+[^214]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított, a 365/2017. (XII. 5.) Korm. rendelet 20. § 6. pontja, a 639/2023. (XII. 28.) Korm. rendelet 24. § 20. pontja szerint módosított szöveg.
+[^215]: A 23. § (1) bekezdés 24. pontja a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 639/2023. (XII. 28.) Korm. rendelet 24. § 21. pontja szerint módosított szöveg.
+[^216]: A 23. § (1) bekezdés 24a. pontját a 365/2017. (XII. 5.) Korm. rendelet 12. § (1) bekezdése iktatta be, szövege a 639/2023. (XII. 28.) Korm. rendelet 24. § 22. pontja szerint módosított szöveg.
+[^217]: A 23. § (1) bekezdés 25. pontja a 639/2023. (XII. 28.) Korm. rendelet 24. § 23. pontja szerint módosított szöveg.
+[^218]: A 23. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 12. pontja hatályon kívül helyezte.
+[^219]: A 23. § (3) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 12. pontja hatályon kívül helyezte.
+[^220]: A 23. § (4) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 12. pontja hatályon kívül helyezte.
+[^221]: A 23. § (5) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 12. pontja hatályon kívül helyezte.

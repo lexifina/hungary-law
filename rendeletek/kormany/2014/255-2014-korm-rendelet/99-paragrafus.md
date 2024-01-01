@@ -1,11 +1,3 @@
-99. § (1) A támogatás keretében a beruházáshoz kapcsolódó tárgyi eszköz és immateriális javak beruházási költsége számolható el.
+99. §[^315]
 
-(2) A támogatás összege nem haladhatja meg az elszámolható költségek és a működési eredmény közötti különbséget.
-
-(3) A működési eredmény mértékét
-
-a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vagy
-
-b) visszafizetési mechanizmus alkalmazásával utólag
-
-kell levonni az elszámolható költségekből.
+[^315]: A 99. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 27. pontja hatályon kívül helyezte.

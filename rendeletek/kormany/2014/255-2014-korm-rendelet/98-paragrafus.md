@@ -1,9 +1,14 @@
 ## 45. A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
-98. § (1) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) helyi infrastruktúra építéséhez, bővítéséhez vagy korszerűsítéséhez nyújtható, ha ezen infrastruktúra helyi szinten hozzájárul az üzleti és a fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez.
+98. § (1)[^311] A helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 50. alcíme szerint nyújtható.
 
-(2) A támogatás olyan infrastruktúra-fejlesztésre nyújtható, amelyre – a regionális beruházási támogatás kivételével – nem nyújtható támogatás a 651/2014/EU bizottsági rendelet egyéb cikke alapján. Nem nyújtható támogatás repülőtéri infrastruktúra, kikötői infrastruktúra, valamint dedikált infrastruktúra fejlesztéséhez.
+(2)[^312]
 
-(3) A támogatás nyújtásának feltétele, hogy a megvalósuló infrastruktúrát nyílt, átlátható és megkülönböztetés-mentes alapon kell a felhasználók rendelkezésére bocsátani. Az infrastruktúra használatáért felszámított vagy eladása során meghatározott árnak szokásos piaci árnak kell lennie.
+(3)[^313]
 
-(4) Az infrastruktúra működtetését koncesszióba adni vagy azzal harmadik felet megbízni csak nyílt, átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok betartásával lehet.
+(4)[^314]
+
+[^311]: A 98. § (1) bekezdése a 639/2023. (XII. 28.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^312]: A 98. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 26. pontja hatályon kívül helyezte.
+[^313]: A 98. § (3) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 26. pontja hatályon kívül helyezte.
+[^314]: A 98. § (4) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 26. pontja hatályon kívül helyezte.

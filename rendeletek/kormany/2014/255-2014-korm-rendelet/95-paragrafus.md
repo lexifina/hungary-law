@@ -1,17 +1,17 @@
 ## 44. A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
-95. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
+95. § (1)[^304] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 49. alcíme szerint nyújtható.
 
-a) beruházási támogatásként sportlétesítmény és multifunkcionális szabadidős létesítmény építéséhez, bővítéséhez vagy korszerűsítéséhez,
+(2)[^305]
 
-b) működési támogatásként sportlétesítmény működéséhez
+(3)[^306]
 
-nyújtható.
+(4)[^307]
 
-(2) A támogatott sportlétesítmény, multifunkcionális szabadidős létesítmény építésével, bővítésével, korszerűsítésével, működtetésével, üzemeltetésével történő megbízás odaítélése során átlátható és megkülönböztetés-mentes módon, a vonatkozó jogszabályok figyelembevételével kell eljárni.
+(5)[^308]
 
-(3) A támogatott sportlétesítményhez, multifunkcionális szabadidős létesítményhez a felhasználók számára átlátható és megkülönböztetés-mentes módon kell hozzáférést biztosítani. A beruházási költséget legalább 30%-ban finanszírozó vállalkozás a támogatott létesítményt kedvezőbb feltételek mellett használhatja, ha e feltételeket nyilvánossá teszik.
-
-(4) A támogatott sportlétesítmény nem állhat egyetlen hivatásos sportoló vagy hivatásos csapat kizárólagos használatában. A létesítményt az éves időbeli kapacitás legalább 20%-ában más hivatásos vagy amatőr sportolónak vagy csapatnak kell használnia.
-
-(5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
+[^304]: A 95. § (1) bekezdése a 639/2023. (XII. 28.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^305]: A 95. § (2) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 24. pontja hatályon kívül helyezte.
+[^306]: A 95. § (3) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 24. pontja hatályon kívül helyezte.
+[^307]: A 95. § (4) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 24. pontja hatályon kívül helyezte.
+[^308]: A 95. § (5) bekezdését a 639/2023. (XII. 28.) Korm. rendelet 25. § 24. pontja hatályon kívül helyezte.

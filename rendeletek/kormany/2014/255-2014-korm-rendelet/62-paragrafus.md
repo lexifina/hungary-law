@@ -1,17 +1,5 @@
-## 29. A hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás
+## 29.[^255]
 
-62. § (1) A hátrányos helyzetű munkavállaló segítésével foglalkozó személy költségeinek ellentételezéséhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+62. §
 
-(2) A támogatás keretében elszámolható a hátrányos helyzetű munkavállaló segítésével foglalkozó személy
-
-a) foglalkoztatásához kapcsolódó költség kizárólag a segítés ideje alatt, de legfeljebb a hátrányos helyzetű munkavállaló felvételét követő 12 hónapig, súlyosan hátrányos helyzetű munkavállaló esetén 24 hónapig,
-
-b) képzési költsége.
-
-(3) A segítségnyújtás keretében azon tevékenységek támogathatóak, amelyek
-
-a) támogatják a hátrányos helyzetű munkavállaló autonómiáját és alkalmazkodását a munkahelyi környezethez,
-
-b) segítséget nyújtanak a társadalmi és adminisztratív eljárásokhoz,
-
-c) megkönnyítik a munkáltatóval való kommunikációt és a konfliktusok kezelését.
+[^255]: A 29. alcímet (62. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

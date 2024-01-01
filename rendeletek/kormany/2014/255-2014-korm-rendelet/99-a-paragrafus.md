@@ -1,15 +1,5 @@
-## 45/A. [^314] A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás
+## 45/A.[^316]
 
-99/A. § (1) A belvízi kikötő fejlesztéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) belvízi kikötő
+99/A. §
 
-a) kikötői infrastruktúrájának és hozzáférési infrastruktúrájának létrehozására, cseréjére vagy korszerűsítésére irányuló beruházáshoz, valamint
-
-b) kotrásához
-
-nyújtható.
-
-(2) A támogatás keretében az (1) bekezdés szerinti tevékenységekhez kapcsolódó költségek számolhatók el, beleértve a tervezés költségeit.
-
-(3) Nem számolhatók el a szállítással össze nem függő tevékenységekhez, így különösen a kikötő területén működő ipari gyártólétesítményekhez, irodahelyiségekhez és üzletekhez, valamint a kikötői felépítményekhez kapcsolódó költségek.
-
-[^314]: A 45/A. alcímet (99/A–99/C. §) a 365/2017. (XII. 5.) Korm. rendelet 16. §-a iktatta be.
+[^316]: A 45/A. alcímet (99/A-99/C. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

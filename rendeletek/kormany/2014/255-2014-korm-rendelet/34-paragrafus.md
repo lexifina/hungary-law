@@ -1,5 +1,5 @@
-## 13. A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás
+## 13.[^237]
 
-34. § (1) A kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+34. §
 
-(2) A támogatás keretében a külső szakértő által nyújtott tanácsadási szolgáltatás költsége számolható el azzal, hogy az érintett szolgáltatás nem lehet folyamatos vagy időszakosan visszatérő tevékenység és nem kapcsolódhat a vállalkozás szokásos működési költségeihez (pl. folyamatos adótanácsadáshoz, rendszeres jogi szolgáltatáshoz vagy hirdetéshez).
+[^237]: A 13. alcímet (34. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

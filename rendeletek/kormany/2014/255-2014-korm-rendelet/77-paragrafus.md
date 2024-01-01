@@ -1,9 +1,5 @@
-## 36. A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás
+## 36.[^274]
 
-77. § (1) A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a környezeti károk (pl. a talaj, a felszíni vagy felszín alatti vizek károsodása) helyreállításához nyújtható.
+77. §
 
-(2) A támogatás az elszámolható költségek 100%-áig nyújtható.
-
-(3) A szennyező fizet elvvel összhangban támogatás akkor nyújtható, ha – az uniós környezetvédelmi felelősségi szabályok sérelme nélkül – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 101. §-a alapján nem állapítható meg a szennyezésért felelős személy kiléte vagy az nem kötelezhető a költségek viselésére. A támogatás a helyreállítási vagy szennyezés-mentesítési munkák elvégzéséért felelős személy részére nyújtható.
-
-(4) A támogatás keretében a terület szennyeződésmentesítéséhez kapcsolódó, a szennyeződésmentesített földterület független szakértő által meghatározott értéknövekedésével csökkentett költsége számolható el, függetlenül attól, hogy az adott költség tárgyi eszközként feltüntethető-e a kedvezményezett mérlegében.
+[^274]: A 36. alcímet (77. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
