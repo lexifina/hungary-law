@@ -33,5 +33,5 @@ lép.
 [^18]: A 12. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 12. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^20]: A 12. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 12. § j) pontja a 14. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+[^21]: A 12. § j) pontja a 317/2023. (VII. 17.) Korm. rendelet 11. § a) pontja alapján nem lép hatályba.
 [^22]: A 12. § k) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
