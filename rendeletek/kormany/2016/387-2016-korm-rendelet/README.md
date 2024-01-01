@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-387-20-
 | 2023-01-01 | 2016-387-20-22.22 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-06-25 | 2016-387-20-22.21 | 531/2022. (XII. 19.) Korm. rendelet |
 | 2023-07-01 | 2016-387-20-22.23 | 286/2023. (VI. 30.) Korm. rendelet |
+| 2024-01-01 | 2016-387-20-22.24 | 20/2017. (II. 2.) Korm. rendelet |

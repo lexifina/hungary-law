@@ -168,7 +168,7 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 
 (9)[^46] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a kormányhivatalt jelöli ki.
 
-(10)[^47] A Pest Vármegyei Kormányhivatal a fogyasztó kérésére lábbeli- és textiltermékekkel kapcsolatos minőségi kifogással összefüggő igény érvényesítéséhez díjazás ellenében szakvéleményt ad ki.
+(10)[^47]
 
 [^7]: A 3. § (1) bekezdés a) pontja a 170/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^8]: A 3. § (1) bekezdés b) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
@@ -210,4 +210,4 @@ f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát
 [^44]: A 3. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^45]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^46]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^47]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 247. § b) pontja szerint módosított szöveg.
+[^47]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, az 561/2023. (XII. 14.) Korm. rendelet 38. §-a hatályon kívül helyezte.
