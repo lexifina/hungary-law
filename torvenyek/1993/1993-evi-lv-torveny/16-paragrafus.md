@@ -20,7 +20,7 @@ c) a 4. § (2a), (3), (3a) és (7) bekezdése, illetve az 5. § alapján honosí
 
 (8) A cselekvőképtelen honosított kivételével a honosított személy akkor tehet esküt vagy fogadalmat, ha a részére hivatalból kiállított állandó személyazonosító igazolvány alapján megállapítható, hogy a honosított és az eskü vagy fogadalom letétele céljából megjelent személy azonos.
 
-(9) A honosított a (7) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
+(9) A honosított a (8) bekezdéstől eltérően az esküt vagy fogadalmat abban az esetben is leteheti, ha
 
 a) a részére hivatalból kiállítandó állandó személyazonosító igazolvány kiállítására irányuló eljárást az eljáró hatóság (a továbbiakban e § alkalmazásában: hatóság) az okmánykiállításhoz szükséges jogszabályban előírt feltételek hiánya miatt megszüntette,
 

@@ -36,8 +36,12 @@ b) házastársa, élettársa, volt házastársa, felmenője, nagykorú gyermeke,
 
 a) a külföldi okiratot eltérő nemzetközi szerződés, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy viszonossági gyakorlat hiányában – ha ennek kormányrendelet szerinti elháríthatatlan akadálya nincs – diplomáciai felülhitelesítéssel,
 
-b) az idegen nyelvű okiratot hiteles magyar nyelvű fordítással
+b) a nem magyar nyelven kiállított okiratot – az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusában foglaltak kivételével, vagy ha e törvény, illetve az ügyfajtára vonatkozó jogszabály másként nem rendelkezik – hiteles magyar nyelvű fordítással
 
 ellátva kell csatolni.
+
+(5a) Az állampolgársági eljárásban nem szükséges fordítás az angol, német vagy francia nyelven kiállított, kormányrendeletben meghatározott anyakönyvi okiratokhoz.
+
+(5b) Az állampolgársági eljárásban a hivatásos konzuli tisztviselő előtt benyújtott idegen nyelvű okirat hiteles magyar fordítása helyett az okiratnak az állampolgársági eljárás szempontjából lényeges tartalmáról készített hivatalos, kivonatolt fordítás is elfogadható.
 
 (6) Ha az állampolgársági kérelem hiányos, vagy az elbíráláshoz szükséges okiratokat a kérelmező nem csatolta, az állampolgársági ügyekben eljáró szerv a hiány pótlására határidő tűzésével és a mulasztás jogkövetkezményeire történő figyelmeztetés mellett a kérelmezőt felhívhatja. Okirat hiánya esetén a beszerzéséhez szükséges időtartam figyelembevételével megállapított határidőt kell kitűzni. Az állampolgársági bizonyítvány kiadása iránti kérelem esetén a hiánypótlási felhívás kibocsátásának határideje a kérelem beérkezésétől számított tizenöt nap.

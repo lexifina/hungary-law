@@ -1,6 +1,6 @@
 23. § (1) E törvény alkalmazásában – a lakcímbejelentés napjától – Magyarországon lakik az a lakóhellyel rendelkező nem magyar állampolgár,
 
-a) aki bevándorolt vagy letelepedett jogállású,
+a) aki huzamos tartózkodási jogosultsággal rendelkezik,
 
 b) akit menekültként vagy oltalmazottként elismertek, valamint
 

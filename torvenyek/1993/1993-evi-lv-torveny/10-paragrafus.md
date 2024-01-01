@@ -6,7 +6,7 @@ a) érvényes magyar személyazonosító igazolvánnyal,
 
 b) érvényes magyar útlevéllel,
 
-c) érvényes állampolgársági bizonyítvánnyal,
+c) érvényes állampolgársági bizonyítvánnyal vagy állampolgársági ténymegállapítással,
 
 d) – ellenkező bizonyításig – honosítási okirattal
 
