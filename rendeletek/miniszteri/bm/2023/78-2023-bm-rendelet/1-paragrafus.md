@@ -1,0 +1,1 @@
+1. § A közúti járművezetők egészségi alkalmasságának megállapításáról szóló 13/1992. (VI. 26.) NM rendelet 8. § (2) bekezdés a) pontjában a „Honvédség, a” szövegrész helyébe a „Honvédség, az Országgyűlési Őrség, a” szöveg lép.
