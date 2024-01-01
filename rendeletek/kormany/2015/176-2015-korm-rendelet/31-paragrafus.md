@@ -1,5 +1,5 @@
 ## 23. Hatályon kívül helyező rendelkezések
 
-31. §[^81]
+31. §[^82]
 
-[^81]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^82]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

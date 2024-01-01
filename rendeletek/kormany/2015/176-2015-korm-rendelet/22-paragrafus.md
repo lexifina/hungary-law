@@ -1,6 +1,6 @@
 ## 18. A személygépkocsis személyszállító szolgáltatási, valamint a diszpécserszolgálati szerződésre vonatkozó rendelkezések
 
-22. §[^61] (1) A személygépkocsis személyszállító szolgáltatási szerződésre a személytaxi-szolgáltatási szerződésre vonatkozó rendelkezéseket a (2)–(5) bekezdésben, valamint a 23. §-ban meghatározott eltérésekkel kell alkalmazni.
+22. §[^62] (1) A személygépkocsis személyszállító szolgáltatási szerződésre a személytaxi-szolgáltatási szerződésre vonatkozó rendelkezéseket a (2)–(5) bekezdésben, valamint a 23. §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) Személygépkocsis személyszállító szolgáltatás a következő feltételek szerint végezhető:
 
@@ -40,4 +40,4 @@ d) a (2) bekezdés a), c) és d) pontjában foglalt szolgáltatások közül ann
 
 (7) Arról, hogy az adott személygépkocsival az utas vihet-e magával poggyászt – az üzleti feltételek vonatkozó rendelkezéseinek a hiányában – a körülmények ismeretében a személygépkocsi vezetője dönt. Ha a vállalkozás az adott feladatot az autóbusszal végzett vagy vasúti, vízi, légi utasszállítási tevékenységhez közvetlenül kapcsolódóan vagy repülőtér üzembentartójával, valamint autóbusz-állomás, vasúti pályaudvar vagy állomás, továbbá kikötő üzemeltetőjével kötött szerződés alapján teljesíti, a poggyász továbbítását a vállalkozás, valamint a személygépkocsi vezetője nem tagadhatja meg.
 
-[^61]: A 22. § a 394/2022. (X. 19.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^62]: A 22. § a 394/2022. (X. 19.) Korm. rendelet 16. §-ával megállapított szöveg.
