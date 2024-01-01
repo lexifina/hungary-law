@@ -1,4 +1,4 @@
-16. § (1)[^10] A kiterjesztett gyártói felelősségi díjfizetési kötelezettség a körforgásos termék gyártó általi első forgalomba hozatalával keletkezik.
+16. § (1)[^17] A kiterjesztett gyártói felelősségi díjfizetési kötelezettség a körforgásos termék gyártó általi első forgalomba hozatalával keletkezik.
 
 (2) A kiterjesztett gyártói felelősségi díj megfizetése szempontjából forgalomba hozatalnak minősül
 
@@ -14,17 +14,23 @@ b) a saját célú felhasználás vagy
 
 c) az általános forgalmi adóról szóló törvény szerinti adóraktárból vagy a környezetvédelmi termékdíjról szóló törvény szerinti termékdíj raktárból a termék belföldre történő kitárolása.
 
-(3)[^11] A körforgásos termék első belföldi forgalomba hozatalának minősül
+(3)[^18] A körforgásos termék első belföldi forgalomba hozatalának minősül
 
 a) a 22. § (1) bekezdése szerinti nyilatkozattal beszerzett körforgásos termék belföldi forgalomba hozatala vagy
 
-b) a 22/A. § (1) bekezdése szerinti nyilatkozattal beszerzett sütőolaj nem alapanyagként történő felhasználása.
+b)[^19] a 22/A. § (1) bekezdése szerinti nyilatkozattal beszerzett 1. melléklet 1. pont 1.9. alpontja szerinti körforgásos termék nem alapanyagként történő felhasználása.
+
+c)[^20] a belföldi előállítású reklámhordozó papír esetében a nyomdai szolgáltatás teljesítése (nyomtatás és a termék átadása).
+
+(3a)[^21] A belföldi előállítású 2. § (1) bekezdés 3. pontjában meghatározott reklámhordozó papír megrendelője a megrendelésével egyidejűleg írásban nyilatkozik a gyártónak a megrendelt termék gazdasági reklám tartalmáról.
+
+(3b)[^22] A (3a) bekezdés szerinti nyilatkozó az e rendeletben meghatározott kötelezettségek teljesítése szempontjából gyártónak minősül, ha nyilatkozatával ellentétben a megrendelt termék gazdasági reklámot is tartalmazott.
 
 (4) Nem minősül forgalomba hozatalnak
 
 a) a körforgásos termék tulajdonjogának
 
-aa)[^12] természetes személy vagy karitatív tevékenységet folytató közhasznú szervezet által, nem gazdasági tevékenység keretében végzett átruházása,
+aa)[^23] természetes személy vagy karitatív tevékenységet folytató közhasznú szervezet által, nem gazdasági tevékenység keretében végzett átruházása,
 
 ab) az általános forgalmi adóról szóló törvény szerinti adóraktárba való beraktározás keretében és az adóraktáron belüli átruházása,
 
@@ -34,16 +40,28 @@ ad) vámjogi szabadforgalomba kerülését megelőző átruházása vagy
 
 ae) az általános forgalmi adóról szóló törvényben meghatározott feltételek alapján általános forgalmi adófizetési kötelezettséggel nem járó apport, jogutódlással történő megszűnés vagy üzletág-átruházás keretében történő átadása,
 
-b) az 1. melléklet 1.9. pontja szerinti körforgásos termék tulajdonjogának más termék alkotórészeként való átruházása vagy
+b)[^24] az 1. melléklet 1.9. pontja szerinti körforgásos termék tulajdonjogának más termék alkotórészeként való átruházása,
 
-c) a körforgásos termék természetes személy általi, nem gazdasági tevékenység keretében végzett saját célú felhasználása.
+c)[^25] a körforgásos termék természetes személy általi, nem gazdasági tevékenység keretében végzett saját célú felhasználása,
 
-(4a)[^13] A (2) és (3) bekezdés szerinti forgalomba hozatalt megvalósító személyre a gyártóra vonatkozó szabályokat kell alkalmazni az e rendeletben meghatározott kötelezettségek teljesítése során.
+d)[^26] a körforgásos termék tulajdonjogának belföldön gazdasági céllal letelepedett, vagy belföldön nyilvántartásba vett gazdálkodó szervezet részére történő átruházása, ha a körforgásos termék külföldi rendeltetési helyre fuvarozásra vagy küldeményként történő feladásra került, és igazolt módon külföldre kiszállításra került, vagy
 
-(5)[^14] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
+e)[^27] a körforgásos termék tulajdonjogának nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzitterületen kialakított, kizárólag nem helyben fogyasztásra történő értékesítést végző üzletben, végső úti céllal külföldre utazó utasok részére történő átruházása.
 
-[^10]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 3. pontja szerint módosított szöveg.
-[^11]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
-[^12]: A 16. § (4) bekezdés a) pont aa) alpontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 4. pontja szerint módosított szöveg.
-[^13]: A 16. § (4a) bekezdését a 435/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+(4a)[^28] A (2) és (3) bekezdés szerinti forgalomba hozatalt megvalósító személyre a gyártóra vonatkozó szabályokat kell alkalmazni az e rendeletben meghatározott kötelezettségek teljesítése során.
+
+(5)[^29] A (4) bekezdés szerinti esetben a gyártónak nem keletkezik a 6. § a) pontjában, a 7. és a 8. alcímben foglaltak szerinti kötelezettsége.
+
+[^17]: A 16. § (1) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 70. § 3. pontja szerint módosított szöveg.
+[^18]: A 16. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 58. § (1) bekezdésével megállapított szöveg.
+[^19]: A 16. § (3) bekezdés b) pontja a 674/2023. (XII. 29.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^20]: A 16. § (3) bekezdés c) pontját a 674/2023. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
+[^21]: A 16. § (3a) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^22]: A 16. § (3b) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^23]: A 16. § (4) bekezdés a) pont aa) alpontja a 276/2023. (VI. 29.) Korm. rendelet 70. § 4. pontja szerint módosított szöveg.
+[^24]: A 16. § (4) bekezdés b) pontja a 674/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^25]: A 16. § (4) bekezdés c) pontja a 674/2023. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^26]: A 16. § (4) bekezdés d) pontját a 674/2023. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^27]: A 16. § (4) bekezdés e) pontját a 674/2023. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^28]: A 16. § (4a) bekezdését a 435/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A 16. § (5) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 58. § (2) bekezdése iktatta be.

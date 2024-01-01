@@ -1,4 +1,4 @@
-18. §[^19] Ha e rendelet másként nem rendelkezik, a kiterjesztett gyártói felelősségi díjfizetési kötelezettség keletkezésének időpontja
+18. §[^35] Ha e rendelet másként nem rendelkezik, a kiterjesztett gyártói felelősségi díjfizetési kötelezettség keletkezésének időpontja
 
 a) a 16. § (2) bekezdés a) pontja szerinti esetben az első belföldi forgalomba hozatalkor, a 16. § (2) bekezdés c) pontja szerinti esetben a kitároláskor a számlán vagy számlakibocsátás hiányában az ügylet teljesítését tanúsító egyéb okiraton feltüntetett teljesítés napja, ezek hiányában az ügylet teljesítésének napja,
 
@@ -10,4 +10,4 @@ bb) ha a ba) alpont alapján nem határozható meg időpont, az ügylet teljesí
 
 bc) ha a ba) vagy bb) alpont alapján nem határozható meg az időpont, a termék hulladékká válásának napja, ideértve a külföldről behozott csomagolás végleges lebontásának a napját is.
 
-[^19]: A 18. § a 276/2023. (VI. 29.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^35]: A 18. § a 276/2023. (VI. 29.) Korm. rendelet 61. §-ával megállapított szöveg.

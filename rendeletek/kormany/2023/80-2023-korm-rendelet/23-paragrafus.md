@@ -1,6 +1,6 @@
 ## 7. Nyilvántartásba vételi kötelezettség
 
-23. § (1)[^34] A gyártó a körforgásos termékkel végzett tevékenységének megkezdését megelőzően, a 3. melléklet szerinti adattartalommal kérelmezi az országos hulladékgazdálkodási hatóságnál a nyilvántartásba vételét, amelynek során nyilatkozik, hogy a kiterjesztett gyártói felelősségi kötelezettségeit
+23. § (1)[^58] A gyártó a körforgásos termékkel végzett tevékenységének megkezdését megelőzően, a 3. melléklet szerinti adattartalommal kérelmezi az országos hulladékgazdálkodási hatóságnál a nyilvántartásba vételét, amelynek során nyilatkozik, hogy a kiterjesztett gyártói felelősségi kötelezettségeit
 
 a) kollektív teljesítés útján vagy
 
@@ -10,7 +10,7 @@ teljesíti.
 
 (2) A gyártó egyéni teljesítés esetén a 8. § (2) bekezdése szerinti szerződést a nyilvántartásba vétel iránti kérelem előterjesztésével egyidejűleg benyújtja az országos hulladékgazdálkodási hatóság részére.
 
-(3)[^35] Amennyiben a körforgásos termék gyártója nem nyilatkozik egyéni teljesítésről, vagy nem rendelkezik a koncessziós társasággal megkötött, érvényes szerződéssel, illetve azt hiánypótlási felhívás ellenére, a hiánypótlási felhívásban megadott határidőn belül nem nyújtja be – – az országos hulladékgazdálkodási hatóság hivatalból kollektív teljesítőként veszi nyilvántartásba.
+(3)[^59] Amennyiben a körforgásos termék gyártója nem nyilatkozik egyéni teljesítésről, vagy nem rendelkezik a koncessziós társasággal megkötött, érvényes szerződéssel, illetve azt hiánypótlási felhívás ellenére, a hiánypótlási felhívásban megadott határidőn belül nem nyújtja be – – az országos hulladékgazdálkodási hatóság hivatalból kollektív teljesítőként veszi nyilvántartásba.
 
 (4) A gyártó kollektív teljesítés esetén a teljesítés módját tárgyéven belül nem változtathatja meg.
 
@@ -24,5 +24,5 @@ teljesíti.
 
 (9) Az országos hulladékgazdálkodási hatóság a gyártó által az (1) bekezdés szerint közölt adatokat a nyilvántartásba vétel iránti kérelem beérkezésétől számított 15 napon belül nyilvántartásba veszi, ha a kérelem megfelel az (1)–(7) bekezdésben foglaltaknak.
 
-[^34]: A 23. § (1) bekezdés nyitó szövegrésze a 276/2023. (VI. 29.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
-[^35]: A 23. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.
+[^58]: A 23. § (1) bekezdés nyitó szövegrésze a 276/2023. (VI. 29.) Korm. rendelet 72. § a) pontja szerint módosított szöveg.
+[^59]: A 23. § (3) bekezdése a 276/2023. (VI. 29.) Korm. rendelet 72. § b) pontja szerint módosított szöveg.

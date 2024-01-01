@@ -80,9 +80,9 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 1.9.3. 1511 90 99 vámtarifaszám HR és KN alszám: más pálmaolaj és frakciói, finomítva is, de vegyileg nem átalakítva;
 
-1.9.4. ex. 1512 19 90 vámtarifaszám HR és KN alszám: más napraforgómag- vagy pórsáfránymagolaj és ezek frakciói (kivéve: műszaki vagy ipari felhasználásra);
+1.9.4.[^80] 1512 19 90 vámtarifaszám HR és KN alszám: más napraforgómag- vagy pórsáfránymagolaj és ezek frakciói;
 
-1.9.5. ex. 1514 19 90 vámtarifaszám HR és KN alszám: más olajrepce-, repce- vagy mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva (kivéve: műszaki vagy ipari felhasználásra);
+1.9.5.[^81] 1514 19 90 vámtarifaszám HR és KN alszám: más olajrepce-, repce- vagy mustárolaj és ezek frakciói, finomítva is, de vegyileg nem átalakítva;
 
 1.10. textiltermékek:
 
@@ -106,7 +106,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 1.10.10. 6304 vámtarifaszám: más lakástextília, a 9404 vámtarifaszám alá tartozók kivételével;
 
-1.10.11. ex. 64. Árucsoport: lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész);
+1.10.11.[^82] 64. Árucsoport: lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész);
 
 1.11. bútorok fából:
 
@@ -150,7 +150,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 2. | Termékkódok |
 
-| 3.[^52] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
+| 3.[^83] | 11 | csomagolás (az egyes egyszer használatos műanyagterméknek minősülő csomagolások kivételével) |
 
 | 4. | 12 | egyes egyszer használatos műanyagtermék |
 
@@ -340,7 +340,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | 99 | vegyes elektromos, elektronikus berendezési hulladék |
 
-2.3.3.[^53] Elem, akkumulátor és hulladéka
+2.3.3.[^84] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -440,41 +440,51 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.4. A KF kód 5. és 6. karaktere: Csoport kód
 
-2.4.1.[^54] Csomagolás és hulladéka a 2.4.2. alá tartozó termékből létrehozott csomagolás kivételével
+2.4.1.[^85] Csomagolás és hulladéka a 2.4.2. alpont alá tartozó termékből létrehozott csomagolás kivételével
 
 |  | A | B |
 
-| 1. | Kód | Megnevezés |
+| 1 | Kód | Megnevezés |
 
-| 2. | nem újrahasználható |
+| 2 | nem újrahasználható |
 
-| 3. | fogyasztói csomagolás |
+| 3 | fogyasztói csomagolás |
 
-| 4. | 10 | általános eset |
+| 4 | 10 | általános eset (a kötelezően visszaváltási díjas termék és a növényvédő szerrel közvetlenül érintkező csomagolás kivételével) |
 
-| 5. | 11 | növényvédő szerrel közvetlenül érintkező csomagolás |
+| 5 | 11 | növényvédő szerrel közvetlenül érintkező csomagolás |
 
-| 6. | gyűjtő- vagy szállítási csomagolás |
+| 6 | 12 | kötelezően visszaváltási díjas termék műanyag italcsomagolás |
 
-| 7. | 20 | általános eset |
+| 7 | 13 | kötelezően visszaváltási díjas termék üveg italcsomagolás |
 
-| 8. | újrahasználható |
+| 8 | 14 | kötelezően visszaváltási díjas termék fém italcsomagolás |
 
-| 9. | fogyasztói csomagolás |
+| 9 | gyűjtő- vagy szállítási csomagolás |
 
-| 10. | 40 | általános eset |
+| 10 | 20 | általános eset |
 
-| 11. | 41 | növényvédő szerrel közvetlenül érintkező csomagolás |
+| 11 | újrahasználható |
 
-| 12. | gyűjtő- vagy szállítási csomagolás |
+| 12 | fogyasztói csomagolás |
 
-| 13. | 50 | általános eset |
+| 13 | 40 | általános eset (a kötelezően visszaváltási díjas termék és a növényvédő szerrel közvetlenül érintkező csomagolás kivételével) |
 
-| 14. | vegyes csomagolási hulladék |
+| 14 | 41 | növényvédő szerrel közvetlenül érintkező csomagolás |
 
-| 15. | 90 | vegyes csomagolási hulladék |
+| 15 | 42 | kötelezően visszaváltási díjas termék italcsomagolás [a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet 41. § (3) bekezdésében meghatározott eset kivételével] |
 
-2.4.2. Egyes egyszer használatos műanyagtermék és hulladéka
+| 16 | 43 | kötelezően visszaváltási díjas termék italcsomagolás a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet 41. § (3) bekezdésében meghatározott esetben |
+
+| 17 | gyűjtő- vagy szállítási csomagolás |
+
+| 18 | 50 | általános eset |
+
+| 19 | vegyes csomagolási hulladék |
+
+| 20 | 90 | vegyes csomagolási hulladék |
+
+2.4.2.[^86] Egyes egyszer használatos műanyagtermék és hulladéka
 
 |  | A | B |
 
@@ -484,29 +494,27 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 3. | 11 | ételtároló edény csomagolás |
 
-| 4. | 20 | flexibilis anyagból készült zacskó vagy csomagolás üresen olyan élelmiszerek tárolására, amelyeket a zacskóból vagy a csomagolásból készételként történő azonnali fogyasztásra szánnak |
+| 4. | 21 | flexibilis anyagból készült zacskó csomagolás vagy csomagolás olyan élelmiszerek tárolására, amelyeket a zacskóból vagy a csomagolásból készételként történő azonnali fogyasztásra szánnak |
 
-| 5. | 21 | flexibilis anyagból készült zacskó csomagolás vagy csomagolás olyan élelmiszerek tárolására, amelyeket a zacskóból vagy a csomagolásból készételként történő azonnali fogyasztásra szánnak |
+| 5. | 31 | legfeljebb három liter űrtartalmú italtároló csomagolás, nem kötelezően visszaváltási díjas termék |
 
-| 6. | 30 | legfeljebb három liter űrtartalmú italtároló üresen |
+| 6. | 32 | legfeljebb három liter űrtartalmú italtároló csomagolás, kötelezően visszaváltási díjas termék |
 
-| 7. | 31 | legfeljebb három liter űrtartalmú italtároló csomagolás |
+| 7. | 40 | italtartó pohár üresen, beleértve azok tetejét és fedelét is |
 
-| 8. | 40 | italtartó pohár üresen, beleértve azok tetejét és fedelét is |
+| 8. | 41 | italtartó pohár csomagolás, beleértve azok tetejét és fedelét is |
 
-| 9. | 41 | italtartó pohár csomagolás, beleértve azok tetejét és fedelét is |
+| 9. | 50 | könnyű műanyag hordtasak üresen |
 
-| 10. | 50 | könnyű műanyag hordtasak üresen |
+| 10. | 51 | könnyű műanyag hordtasak csomagolás |
 
-| 11. | 51 | könnyű műanyag hordtasak csomagolás |
+| 11. | 60 | nedves törlőkendő |
 
-| 12. | 60 | nedves törlőkendő |
+| 12. | 70 | léggömb |
 
-| 13. | 70 | léggömb |
+| 13. | 80 | dohánytermék szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba |
 
-| 14. | 80 | dohánytermék szűrővel, valamint azok a szűrők, amelyeket a dohánytermékekkel történő együttes használathoz hoznak forgalomba |
-
-| 15. | 90 | műanyagot tartalmazó halászeszköz |
+| 14. | 90 | műanyagot tartalmazó halászeszköz |
 
 2.4.3. Elektromos, elektronikus berendezés és hulladéka
 
@@ -520,7 +528,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 4. | 99 | vegyes elektromos, elektronikus berendezés hulladéka |
 
-2.4.4.[^55] Elem, akkumulátor és hulladéka
+2.4.4.[^87] Elem, akkumulátor és hulladéka
 
 |  | A | B |
 
@@ -540,7 +548,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 8. | 99 | egyéb vegyes elem, akkumulátor hulladék |
 
-2.4.5.[^56] Gépjármű és hulladéka
+2.4.5.[^88] Gépjármű és hulladéka
 
 |  | A | B |
 
@@ -664,7 +672,7 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 2.5. A KF kód 7. karaktere: Termék esetén kötelezettséget, hulladék esetén hulladékkezelést jelölő kód
 
-2.5.1.[^57] Kötelezettségteljesítési kód
+2.5.1.[^89] Kötelezettségteljesítési kód
 
 |  | A | B |
 
@@ -674,13 +682,15 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 3 | 2 | egyéni teljesítés |
 
-| 4 | A | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22. § szerint) |
+| 4 | A | a kiterjesztett gyártói felelősségi díj (a 22. § szerint), vagy kötelezően visszaváltási díjas termék esetén a csatlakozási és szolgáltatási díj [a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet 31/A. § szerint] nem került megfizetésre |
 
 | 5 | B | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/A. § szerint) |
 
-| 6 | C | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/C. § szerint) |
+| 6 | C | a kiterjesztett gyártói felelősségi díj (a 22/C. § szerint), vagy kötelezően visszaváltási díjas termék esetén a csatlakozási és szolgáltatási díj [a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet 31/A. § szerint] nem került megfizetésre |
 
-2.5.2. Újrahasználat és hulladékkezelési kód
+| 7 | D | a kiterjesztett gyártói felelősségi díj nem került megfizetésre (22/D. § szerint) |
+
+2.5.2.[^90] Hulladékgazdálkodási kód
 
 |  | A | B |
 
@@ -688,17 +698,17 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 2. | A | előkezelt |
 
-| 3. | B | újrahasznált |
+| 3. | C | újrahasználatra előkészített |
 
-| 4. | C | újrahasználatra előkészített |
+| 4. | D | újrafeldolgozott |
 
-| 5. | D | újrafeldolgozott |
+| 5. | E | energetikailag hasznosított |
 
-| 6. | E | energetikailag hasznosított |
+| 6. | F | egyéb módon hasznosított |
 
-| 7. | F | egyéb módon hasznosított |
+| 7. | G | ártalmatlanított |
 
-| 8. | G | ártalmatlanított |
+| 8. | H | gyűjtött |
 
 2.6. A KF kód 8. karaktere: Származást jelölő kód
 
@@ -730,9 +740,14 @@ kivéve: a reklámhordozó papírnak minősülő termékeket, az üzleti könyv,
 
 | 13. | X | EU-n kívül újrahasznált/kezelt |
 
-[^52]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^53]: Az 1. melléklet 2.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^54]: Az 1. melléklet 2.4.1. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^55]: Az 1. melléklet 2.4.4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
-[^56]: Az 1. melléklet 2.4.5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^57]: Az 1. melléklet 2.5.1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^80]: Az 1. melléklet 1.9.4. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^81]: Az 1. melléklet 1.9.5. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § d) pontja szerint módosított szöveg.
+[^82]: Az 1. melléklet 1.10.11. pontja a 674/2023. (XII. 29.) Korm. rendelet 24. § e) pontja szerint módosított szöveg.
+[^83]: Az 1. melléklet 2.2. pontjában foglalt táblázat 3. sora a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^84]: Az 1. melléklet 2.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^85]: Az 1. melléklet 2.4.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^86]: Az 1. melléklet 2.4.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^87]: Az 1. melléklet 2.4.4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés a) pontjával megállapított szöveg.
+[^88]: Az 1. melléklet 2.4.5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^89]: Az 1. melléklet 2.5.1. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^90]: Az 1. melléklet 2.5.2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
