@@ -6,7 +6,7 @@ b) az Európai Unió tagállamának vagy az Európai Gazdasági Térségről sz�
 
 c) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó, a b) pontban nem említett olyan személy, aki a szabad mozgás és tartózkodás jogát Magyarország területén gyakorolja,
 
-d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó bevándorolt vagy letelepedett jogállású személy, a keresőtevékenység folytatása céljából, családegyesítés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel rendelkező személy, valamint a humanitárius célból kiadott tartózkodási engedéllyel rendelkező befogadott és hontalan.
+d) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező személy, a vendég-önfoglalkoztatás céljából, munkavégzési célból, családi együttélés céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel rendelkező személy, valamint a humanitárius célból kiadott tartózkodási engedéllyel rendelkező befogadott és hontalan.
 
 (2) Nem lehet egyéni vállalkozó:
 
