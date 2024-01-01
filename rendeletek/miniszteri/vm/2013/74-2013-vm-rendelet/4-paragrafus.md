@@ -1,6 +1,6 @@
 ## 3. Az eljárási jelentés
 
-4. § (1)[^12] Az eljáró hatósági állatorvos a járványügyi intézkedések végrehajtását követő három napon belül, két példányban megküldi a járási hivatalnak
+4. § (1)[^12] Az eljáró hatósági állatorvos a járványügyi intézkedések végrehajtását követő három napon belül megküldi a járási hivatalnak
 
 a) a járványügyi intézkedéseket elrendelő határozat végrehajtásáról szóló eljárási jelentést,
 
@@ -48,7 +48,7 @@ g) a szükség esetén elrendelt egyéb járványügyi intézkedésekről szól�
 
 (4)[^16] Amennyiben az országos főállatorvos az Éltv. 42. § (4) bekezdése szerint határozatot hoz, a járványügyi intézkedéseket elrendelő határozat végrehajtásáról szóló eljárási jelentés helyett az országos főállatorvos határozatában elrendelt bizonylatot kell benyújtani.
 
-[^12]: A 4. § (1) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (1) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § b) pontja, a 179/2023. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
 [^13]: A 4. § (1) bekezdés c) pontja a 29/2016. (IV. 11.) FM rendelet 9. § c) pontja szerint módosított szöveg.
 [^14]: A 4. § (2) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § d) pontja, a 135/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
 [^15]: A 4. § (3) bekezdés e) pontja a 29/2016. (IV. 11.) FM rendelet 4. §-ával megállapított szöveg.
