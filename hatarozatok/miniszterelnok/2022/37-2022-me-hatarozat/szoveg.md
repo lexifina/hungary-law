@@ -10,7 +10,7 @@ felmentem, egyidejűleg
 
 Csizi Pétert,
 
-Kivés Zoltánt,
+Kivés Zoltánt,[^1]
 
 dr. Sölch Gellért Boldizsárt és
 
@@ -21,3 +21,5 @@ a Belügyminisztérium helyettes államtitkárává
 2022. június 12-ei hatállyal
 
 kinevezem.
+
+[^1]: A 109/2023. (XII. 22.) ME határozat alapján Kivés Zoltán tekintetében akként módosul, hogy a „Belügyminisztérium” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
