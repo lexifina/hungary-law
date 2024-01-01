@@ -2,17 +2,9 @@
 
 58. § (1) Az együttműködő szervek egymás közötti elektronikus kapcsolattartása csak az e törvényben meghatározott olyan módon történhet, amelynek során az együttműködő szervek biztosítják a küldeménybe foglalt nyilatkozatot megtevő személy elektronikus azonosíthatóságát, a küldemény sértetlenségét, a küldemény kézbesítésének igazolását, a kézbesítés időpontjának megállapíthatóságát (a továbbiakban: biztonságos elektronikus kapcsolattartás).
 
-(2) A biztonságos elektronikus kapcsolattartás történhet
+(2) A biztonságos elektronikus kapcsolattartás a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján történhet.
 
-a) a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján, vagy
-
-b) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás igénybevételével.
-
-(3) A küldemény kézbesítettnek minősül
-
-a) a (2) bekezdés a) pontja szerinti esetben az elküldést követő munkanapon,
-
-b) a (2) bekezdés b) pontja szerinti esetben a sikeres iratátadás szolgáltató által igazolt időpontjában.
+(3) A küldemény az elküldést követő munkanapon minősül kézbesítettnek.
 
 (4) Az elektronikus kapcsolattartást kezdeményező együttműködő szerv a közzétett biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségek közül az együttműködő szerv által közzétett további információk figyelembevételével választja ki az elektronikus kapcsolattartásba bevonni kívánt másik szerv elérhetőségét.
 

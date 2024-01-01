@@ -12,9 +12,9 @@ c) elektronikus fizetési és elszámolási rendszer,
 
 d) azonosításra visszavezetett dokumentumhitelesítés,
 
-e) központi érkeztetési ügynök, amelynek keretében a szolgáltató az elektronikus ügyintézést biztosító szerv javára ellátja a részére elektronikus úton érkezett küldemények átvétele, felbontása és érkeztetése tekintetében kormányrendeletben meghatározott feladatokat,
+e)
 
-f) központi kézbesítési ügynök, amelynek keretében a szolgáltató az elektronikus ügyintézést biztosító szerv javára ellátja az általa kiküldendő elektronikus iratok kézbesítésének előkészítése, adathordozójának, fajtájának meghatározása, továbbá a kézbesítés módja tekintetében a kormányrendeletben meghatározott feladatokat,
+f)
 
 g) az ügyfél időszaki értesítése az elektronikus ügyintézési cselekményekről, amelynek keretében a szolgáltató az ügyfelet az általa meghatározott elektronikus ügyintézést biztosító szervek tekintetében és időszakonként összesítve tájékoztatja a kormányrendeletben meghatározott ügyintézési cselekményekről,
 
@@ -28,7 +28,7 @@ k) személyre szabott ügyintézési felület,
 
 l) űrlapbenyújtás-támogatási szolgáltatás,
 
-m) központi dokumentumhitelesítési ügynök,
+m)
 
 n) általános célú elektronikus kéreleműrlap szolgáltatás,
 

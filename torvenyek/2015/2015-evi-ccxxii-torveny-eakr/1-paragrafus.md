@@ -36,6 +36,8 @@ c) az üzenet átvevője csak a címzett vagy a feljogosított helyettes átvev�
 
 d) a feladónak okirati bizonyíték áll rendelkezésére (tértivevény) arról az esetről is, ha a kézbesítés a megadott időn belül sikertelen; az igazolás a meghiúsulás időpontját és – ha azonosítható – okát tartalmazza;
 
+11a. egyszerű elektronikus aláírás: az eIDAS Rendelet 3. cikk 10. pontjában meghatározott olyan aláírás, amely nem felel meg az eIDAS Rendelet 3. cikk 11. és 12. pontjában meghatározott követelményeknek;
+
 12. egyszerű információátadás: információ automatikus információátadásnak nem minősülő átadása együttműködő szervek között;
 
 13. elektronikus azonosítás: az eIDAS Rendelet 3. cikk 1. pontjában meghatározott folyamat;
@@ -116,11 +118,11 @@ b) valamennyi ügy tekintetében gazdálkodó szervezetnek minősül az adószá
 
 30a. központi állami szolgáltatás: olyan, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásnak, valamint központi elektronikus ügyintézési szolgáltatásnak nem minősülő, központi szolgáltatásként nyújtott informatikai, hálózati és infrastrukturális szolgáltatás, amelyet az állam kijelölt központi szolgáltatón keresztül biztosít;
 
-31. központi dokumentumhitelesítési ügynök: olyan központi elektronikus ügyintézési szolgáltatás, ahol az ügyfél vagy az elektronikus ügyintézést biztosító szerv ügyintézője az általa feltöltött iratot a szolgáltatás által felkínált hitelesítési módok közül választva hitelesítheti;
+31.
 
 32. közfeladatot ellátó szerv: a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvényben meghatározott, a 17. pontban foglaltak közé nem tartozó közfeladatot ellátó szerv;
 
-33. közüzemi szolgáltató: az a vállalkozás, amely törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozik, amely e kötelezettség alapján víziközmű-szolgáltatást, távhőszolgáltatást, hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység közszolgáltatást, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást, kéményseprő-ipari szolgáltatást, egyetemes postai szolgáltatást, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatást, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatást nyújt és a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 150 000 számlát bocsátott ki;
+33. közüzemi szolgáltató: az a vállalkozás, amely törvény alapján termékértékesítési vagy szolgáltatásnyújtási kötelezettség hatálya alá tartozik, amely e kötelezettség alapján víziközmű-szolgáltatást, távhőszolgáltatást, hulladékról szóló törvény szerinti hulladékgazdálkodási közszolgáltatási résztevékenység közszolgáltatást, a nem közművel összegyűjtött háztartási szennyvíz rendszeres begyűjtésére, gyűjtésére, elszállítására és elhelyezésére irányuló szolgáltatást, kéményseprő-ipari szolgáltatást, egyetemes postai szolgáltatást, villamos energia egyetemes szolgáltatásra jogosult felhasználó részére villamosenergia-vásárlási szerződés vagy hálózathasználati szerződés alapján nyújtandó szolgáltatást, valamint földgáz egyetemes szolgáltatásra jogosult felhasználó részére földgáz-kereskedelmi szerződés vagy elosztóhálózat-használati szerződés alapján nyújtandó szolgáltatást nyújt és a szolgáltatásaiért a tárgyévet megelőző évben havonta átlagosan legalább 50 000 számlát bocsátott ki;
 
 34. lenyomat: olyan meghatározott hosszúságú, az elektronikus dokumentumhoz rendelt bitsorozat, amelynek képzése során a használt eljárás (lenyomatképző eljárás) a képzés időpontjában teljesíti az e törvény végrehajtására kiadott rendeletben megfogalmazott követelményeket;
 

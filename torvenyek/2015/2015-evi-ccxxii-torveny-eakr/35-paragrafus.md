@@ -34,7 +34,7 @@ d) videotechnológiával történő azonosítás.
 
 a) tároló elemet tartalmazó személyazonosító igazolvány útján biztosított azonosítási szolgáltatás esetén az okmányszám, az okmány érvényességére vonatkozó adatok, a személyazonosító igazolványhoz rendelt regisztrációs kód visszafejthetetlen lenyomata és – ha az érintett azt megadta – az érintett elektronikus levelezési címe,
 
-b) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata, az érintett elektronikus levelezési címe,
+b) ügyfélkapu esetén felhasználói név, a felhasználói névhez tartozó jelszó visszafejthetetlen lenyomata és – ha rendelkezésre áll – az érintett elektronikus levelezési címe,
 
 c) részleges kódú telefonos azonosítás esetén az érintett által megadott telefonos elérhetőség, elektronikus levelezési cím, felhasználói azonosító, a felhasználói azonosítóhoz tartozó jelszó visszafejthetetlen lenyomata, valamint az ügyfél által az emlékeztető kérdésekre adott válaszok,
 

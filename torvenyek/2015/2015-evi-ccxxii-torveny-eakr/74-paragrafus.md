@@ -8,11 +8,11 @@
 
 (3) A 38. §-ban meghatározott szolgáltatásokon túl az alábbi központi elektronikus ügyintézési szolgáltatásokat a Kormány biztosítja a jogszabályban kijelölt szolgáltató útján:
 
-a) központi érkeztetési rendszer, amely biztosítja az iratkezelés egyes fázisainak központi szolgáltatás útján történő elvégzését,
+a)
 
-b) elektronikus dokumentumtárolás szolgáltatás, amely biztosítja a szolgáltatás keretében tárolt elektronikus dokumentum hitelességének megőrzését, tartós olvashatóságát és értelmezhetőségét,
+b)
 
-c) iratkezelő rendszerek közötti iratáthelyezés szolgáltatás, amely biztosítja az együttműködő szervek között elektronikus iktatókönyvben nyilvántartott irat vagy irategyüttes dokumentált átadását,
+c)
 
 d) központi kormányzati szolgáltatás busz, amelynek keretében
 
