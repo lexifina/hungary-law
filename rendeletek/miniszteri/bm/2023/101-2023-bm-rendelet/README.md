@@ -1,0 +1,9 @@
+# 101/2023. (XII. 29.) BM rendelet
+
+a tűzvédelmi szabályzatról, a tűzvédelmi házirendről, valamint a tűzvédelmi oktatásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-101-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-01-01 | 2023-101-20-0A.1 | 101/2023. (XII. 29.) BM rendelet |
