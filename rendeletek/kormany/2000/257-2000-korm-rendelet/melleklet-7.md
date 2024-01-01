@@ -1,44 +1,16 @@
-|  | A | B | C | D | E | F |
+|  | A | B |
 
-| 1. | Fizetési fokozat | Közalkalmazotti jogviszonyban töltött idő | Fizetési osztály |
+| 1 | Pedagógus fokozat | Bölcsődei pótlék mértéke a 15. § (6g) bekezdésében foglalt számítási alap százalékában |
 
-| 2. | A | B | C | D |
+| 2 | Gyakornok | 24% |
 
-| 3. | 1 | 0–3 év között | 55 080 | 65 760 | 69 204 | 72 528 |
+| 3 | Pedagógus I. | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
 
-| 4. | 2 | 3–6 év között | 56 520 | 67 200 | 70 824 | 74 328 |
+| 4 | Pedagógus II. | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
 
-| 5. | 3 | 6–9 év között | 57 960 | 68 640 | 72 432 | 80 520 |
+| 5 | Mesterpedagógus | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
 
-| 6. | 4 | 9–12 év között | 59 400 | 70 080 | 74 040 | 87 420 |
-
-| 7. | 5 | 12–15 év között | 60 840 | 71 520 | 75 660 | 100 500 |
-
-| 8. | 6 | 15–18 év között | 62 280 | 72 960 | 77 268 | 114 552 |
-
-| 9. | 7 | 18–21 év között | 63 720 | 82 500 | 87 144 | 128 604 |
-
-| 10. | 8 | 21–24 év között | 65 160 | 86 376 | 89 208 | 132 456 |
-
-| 11. | 9 | 24–27 év között | 74 124 | 91 296 | 96 996 | 144 060 |
-
-| 12. | 10 | 27–30 év között | 81 684 | 105 576 | 112 992 | 163 728 |
-
-| 13. | 11 | 30–33 év között | 90 180 | 119 856 | 128 988 | 184 812 |
-
-| 14. | 12 | 33–36 év között | 95 856 | 125 568 | 133 044 | 191 220 |
-
-| 15. | 13 | 36–39 év között | 98 688 | 135 240 | 146 208 | 205 884 |
-
-| 16. | 14 | 39–42 év között | 107 196 | 150 624 | 163 440 | 220 620 |
-
-| 17. | 15 | 42–45 év között | 115 704 | 165 996 | 180 660 | 257 328 |
-
-| 18. | 16 | 45–48 év között | 119 808 | 175 164 | 190 440 | 275 892 |
-
-| 19. | 17 | 48 év felett | 124 200 | 181 380 | 205 224 | 289 608 |
-
-7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^126]
+7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^134]
 
 Az egészségügyi kiegészítő pótlék összege
 
@@ -252,4 +224,4 @@ II. Orvosok egészségügyi kiegészítő pótlékának összege (Ft)
 
 | 49. | 48 év felett | – | 189 945 | 219 527 |
 
-[^126]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^134]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.

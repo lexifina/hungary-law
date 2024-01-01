@@ -1,3 +1,3 @@
-11. §[^61]
+11. §[^69]
 
-[^61]: A 11. §-t és az azt megelőző alcímet a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^69]: A 11. §-t és az azt megelőző alcímet a 326/2008. (XII. 29.) Korm. rendelet 9. § (3) bekezdés b) pontja hatályon kívül helyezte.
