@@ -6,7 +6,7 @@
 
 18. § (1) A számlavezető tájékoztatja a nyilvántartó szervet az általa vezetett, az euroátutalások és -beszedések technikai és üzleti követelményeinek megállapításáról és a 924/2009/EK rendelet módosításáról szóló, 2012. március 14-i 260/2012/EU európai parlamenti és tanácsi rendeletben meghatározott nemzetközi bankszámla-azonosítóval azonosított fizetési számlák – a Pmt. 1. § (4) bekezdésében meghatározott számlák kivételével – alábbi adatairól:
 
-a) a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy számlatulajdonos cégjegyzékszáma, egyéb jogi személy számlatulajdonos létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+a) a számla tulajdonosának családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy számlatulajdonos neve és cégjegyzékszáma; egyéb jogi személy számlatulajdonos neve és a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
 
 b) a számla felett rendelkezni jogosult személy(ek) családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
 

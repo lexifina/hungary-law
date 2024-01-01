@@ -2,7 +2,7 @@
 
 19. § (1) A széfszolgáltató tájékoztatja a nyilvántartó szervet a széfszolgáltatási szerződés alábbi adatairól:
 
-a) a széf bérlőjének családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy bérlő cégjegyzékszáma; egyéb jogi személy bérlő létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+a) a széf bérlőjének családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve; cégbírósági nyilvántartásban szereplő jogi személy bérlő neve és cégjegyzékszáma; egyéb jogi személy bérlő neve és a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
 
 b) a széf felett rendelkezni jogosult személy(ek) családi és utóneve, születési családi és utóneve, születési helye és ideje, anyja születési neve;
 

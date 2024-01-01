@@ -1,6 +1,6 @@
 ## 12/B. Az adathozzáféréshez szükséges regisztrálás
 
-21/B. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
+21/B. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
 
 (2) A regisztráció során az adathozzáférést igénylő természetes személy közli
 
@@ -26,7 +26,7 @@ d) az adathozzáférésre jogosult természetes személynek (a továbbiakban: re
 
 (5) A (3) bekezdés d) pontja alapján a regisztráció kezdeményezésére jogosult lehet
 
-a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság, és felügyeletet ellátó szervek, és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
+a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság, felügyeletet ellátó szervek, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
 
 b) a 8. § (3) bekezdése szerinti szolgáltató törvényes képviselője és az általa eljárásra meghatalmazott harmadik személy.
 
