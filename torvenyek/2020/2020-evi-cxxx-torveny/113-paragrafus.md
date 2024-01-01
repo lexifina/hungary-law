@@ -2,7 +2,7 @@
 
 (1) A szabadság engedélyezésére, illetve kiadására a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető jogosult.
 
-(2) A szolgálati jogviszony első három hónapját kivéve az alap- és pótszabadság együttes időtartamának legalább 25%-át, de legalább tíz napot a foglalkoztatott által megjelölt időben és időtartamban kell kiadni úgy, hogy az a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
+(2) A szolgálati jogviszony első három hónapját kivéve az alap- és pótszabadság együttes időtartamának legalább 25%-át, de legalább tíz napot, valamint a 111. § (1) és (2) bekezdése szerinti pótszabadságot a foglalkoztatott által megjelölt időben és időtartamban kell kiadni úgy, hogy az a foglalkoztató NAV szerv működőképességét ne veszélyeztesse.
 
 (3) A szabadságot kettőnél több részletben csak a foglalkoztatott kérésére lehet kiadni.
 

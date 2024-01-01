@@ -6,7 +6,7 @@
 
 (3) Egyebekben az illetményből való levonásra a bírósági végrehajtási jogszabályok az irányadók.
 
-(4) E §-t kell alkalmazni a szakszervezeti tagdíj levonására is.
+(4)
 
 (5) Az illetménnyel szemben beszámításnak nincs helye.
 
