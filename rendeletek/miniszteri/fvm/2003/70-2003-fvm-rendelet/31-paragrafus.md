@@ -1,7 +1,7 @@
 ## A helyi és a községi zárlat különös szabályai
 
-31. § (1) A betegség megállapítását követően a helyi zárlat alatt álló méhészet valamennyi méhcsaládját – a méhészetben történő felhasználásra engedélyezett állatgyógyászati készítménnyel – a hatósági állatorvos által meghatározott módon gyógykezelni kell. Vényköteles gyógyszer rendelése esetén külön rendeletben foglaltak szerint kell eljárni.
+31. §[^41] (1) A betegség megállapítását követően a helyi zárlat alatt álló méhészet valamennyi beteg méhcsaládját a járási főállatorvos leölésre vonatkozó határozata alapján – állami kártalanítás mellett – le kell ölni.
 
-(2) A gyógykezelés alól kivont méhcsaládokat állami kártalanítás nélkül ki kell irtani.
+(2) A betegség felszámolása érdekében végzett leöletés során a 23. §-ban foglaltak alapján kell eljárni.
 
-(3) Nyúlós költésrothadás miatt zárlat alatt álló méhészetben az egyidejűleg előforduló enyhébb költésrothadás elleni gyógykezelés tilos. Az európai költésrothadásban beteg méhcsaládokat állami kártalanítás mellett ki kell irtani.
+[^41]: A 31. § a 155/2023. (XII. 27.) AM rendelet 8. §-ával megállapított szöveg.

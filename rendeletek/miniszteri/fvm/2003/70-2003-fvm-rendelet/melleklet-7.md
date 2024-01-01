@@ -26,7 +26,7 @@
 
 ## 3.3.2. Az elpusztult méheket, az elpusztult vagy élő méhálcát, a fiasításos lépet feltétlenül el kell égetni.
 
-## 3.3.3. A szalmakakasokat, hulladék anyagból készült méhkaptárakat, a tápláléktartalékot és minden más fertőzés közvetítésére alkalmas anyagot, eszközt, tárgyat, amely a leírt fertőtlenítő eljárásokkal kielégítően nem fertőtleníthető, el kell égetni.
+## 3.3.3.[^65] A szalmakakasokat, hulladék anyagból készült méhkaptárakat, a tápláléktartalékot és minden más fertőzés közvetítésére alkalmas anyagot, eszközt, tárgyat, amely a leírt fertőtlenítő eljárásokkal kielégítően nem fertőtleníthető, el kell égetni.
 
 ## A fakaptárak, lépszekrény, asztal, keretbak, seprőgarat: a viasz-, propolisz-maradványokat le kell kaparni, majd forrasztó lámpával/gázlánggal kell leperzselni, a deszkának nem kell megfeketednie, elszenesednie, elég ha sötétbarnává válik.
 
@@ -38,7 +38,7 @@
 
 ## – +120 °C legalább harminc percen keresztül (autokláv);
 
-## – +112 °C legalább hatvan percen keresztül (viasz, méz).
+## – +120 °C legalább hatvan percen keresztül (viasz, méz).
 
 ## 3.3.4. Lép, lép részei, lépmaradványok, tartaléklép, viasz:
 
@@ -101,3 +101,5 @@ Varroózis okozta családpusztulás gyanúja esetén a keretek alá hullott méh
 Mind a lép-, mind a méhhulla-mintákat külön-külön, szellősen (papírba) kell csomagolni. Üveg, bádog, műanyag stb. erre a célra nem használható. Ügyelni kell, hogy a sejtek össze ne nyomódjanak.
 
 Mérgezés gyanúja esetén méhészetenként – bizottság jelenlétében vett, hivatalosan lezárt – fél liternyi méhhulla-mintát és külön csomagolt fél kilónyi, a növényvédelmi kezelésben részesült, átlag növénymintát kell beküldeni.
+
+[^65]: A 6. melléklet 3.3.3. pontja a 155/2023. (XII. 27.) AM rendelet 11. § d) pontja szerint módosított szöveg.

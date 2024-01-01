@@ -2,7 +2,7 @@
 
 ## A betegségek megállapítása és a helyi zárlat
 
-16. § (1)[^12] A hatósági állatorvos, amennyiben méhbetegség gyanújáról értesül, köteles vizsgálat céljából a legrövidebb időn belül a helyszínre kiszállni. A betegség gyanújának megerősítését követően a hatósági állatorvos az érintett méhészetre helyi zárlatot köteles elrendelni. A helyi zárlat alá vont méhészetben található összes méhcsaládot meg kell vizsgálni, és minden betegségre gyanús méhcsaládból, – a 7. számú melléklet előírásainak figyelembevételével – laboratóriumi vizsgálat céljából vizsgálati anyagot kell küldeni a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH). A mintavételnek a hatósági állatorvos irányításával, a betegség gyanújának megállapítását követő lehető legrövidebb időn belül kell megtörténnie. A mintavételt a méhegészségügyi felelős végzi el.
+16. § (1)[^19] A hatósági állatorvos, amennyiben méhbetegség gyanújáról értesül, köteles vizsgálat céljából a legrövidebb időn belül a helyszínre kiszállni. A betegség gyanújának megerősítését követően a hatósági állatorvos az érintett méhészetre helyi zárlatot köteles elrendelni. A helyi zárlat alá vont méhészetben található összes méhcsaládot meg kell vizsgálni, és minden betegségre gyanús méhcsaládból, – a 7. számú melléklet előírásainak figyelembevételével – laboratóriumi vizsgálat céljából vizsgálati anyagot kell küldeni a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH). A mintavételnek a hatósági állatorvos irányításával, a betegség gyanújának megállapítását követő lehető legrövidebb időn belül kell megtörténnie. A mintavételt a méhegészségügyi felelős végzi el.
 
 (2) A betegséget hatóságilag – a laboratóriumi vizsgálat eredménye alapján – a hatósági állatorvos állapítja meg. A betegség megállapítását követően a hatósági állatorvosnak a betegség eredetére vonatkozóan az alábbiakra kiterjedő vizsgálatot kell lefolytatnia:
 
@@ -32,4 +32,4 @@ h) a méhész mikor, hol, mennyit pergetett az elmúlt hatvan napban, hol, és h
 
 (7) A nyúlós és enyhébb költésrothadás, valamint a légcsőatka-kór megállapításával és leküzdésével kapcsolatos közérdekű vizsgálatokat a hatósági állatorvos irányításával, állami költségre kell elvégezni.
 
-[^12]: A 16. § (1) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^19]: A 16. § (1) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés f) pontja szerint módosított szöveg.

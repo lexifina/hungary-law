@@ -2,11 +2,12 @@
 
 (2) A zárlat alatt álló helyen lévő használt üres, valamint az olyan helyen lévő méhlakásokkal, ahol a méhek kipusztultak és feltehető, hogy az elhullás a betegség miatt történt, a 6. számú mellékletben foglaltak szerint kell eljárni.
 
-(3)[^30] A helyi zárlat alatt álló helyen a beteg vagy a fertőzöttségre gyanús méhcsaládoktól származó mézet a gyógykezelésnél alkalmazott antibiotikum várakozási idejének lejárta után, a lépet és a viaszt a betegség megszűnte után – a járási hivatal engedélyével – a vármegyei kormányhivatal által ellenőrzött felhasználónak lehet átadni, aki az elszállított terméket csak ipari célra használhatja fel.
+(3)[^42] A helyi zárlat alatt álló helyen a beteg vagy a fertőzöttségre gyanús méhcsaládoktól származó mézet, lépet és viaszt a betegség megszűnte után – a járási hivatal engedélyével – a vármegyei kormányhivatal által ellenőrzött felhasználónak lehet átadni, aki az elszállított terméket csak ipari célra használhatja fel.
 
-(4) A kiszállítás csak jól zárt és ,,Költésrothadás miatt zárlat alatt álló helyről származó méz (lép, viasz stb.)'' feliratú edényekben történhet. Az elszállított lépet és viaszt egy órán át 112 °C-on kezelni, és a szállítóedényeket a kiürítés után haladéktalanul fertőtleníteni kell.
+(4)[^43] A kiszállítás csak jól zárt és ,,Költésrothadás miatt zárlat alatt álló helyről származó méz (lép, viasz stb.)'' feliratú edényekben történhet. Az elszállított lépet és viaszt egy órán át 120 °C-on kezelni, és a szállítóedényeket a kiürítés után haladéktalanul fertőtleníteni kell.
 
-(5)[^31] A betegség megállapítását követően a községi zárlat alatt álló terület valamennyi méhcsaládját – a méhészetben történő felhasználásra engedélyezett állatgyógyászati készítménnyel – a járási hivatal által meghatározott módon gyógykezelni kell.
+(5)[^44]
 
-[^30]: A 32. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 48. § a) és d) pontja, a 76/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^31]: A 32. § (5) bekezdése a 42/2017. (VIII. 17.) FM rendelet 48. § a) pontja szerint módosított szöveg.
+[^42]: A 32. § (3) bekezdése a 155/2023. (XII. 27.) AM rendelet 9. §-ával megállapított szöveg.
+[^43]: A 32. § (4) bekezdése a 155/2023. (XII. 27.) AM rendelet 11. § d) pontja szerint módosított szöveg.
+[^44]: A 32. § (5) bekezdését a 155/2023. (XII. 27.) AM rendelet 12. § b) pontja hatályon kívül helyezte.

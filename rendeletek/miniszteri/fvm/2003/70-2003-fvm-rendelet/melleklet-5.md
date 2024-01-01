@@ -6,7 +6,7 @@
 
 ## A méhek állandó telephelye:
 
-## A vándoroltatáshoz kiadott állatorvosi igazolás száma:
+## A vándoroltatáshoz kiadott egészségügyi igazolás száma:
 
 ## A kiadás helye: ........................................................................................... ideje:
 
@@ -32,4 +32,6 @@
 
 ## ** A megfelelő rész aláhúzandó.
 
-5. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez
+5. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez[^64]
+
+[^64]: Az 5. számú mellékletet a 155/2023. (XII. 27.) AM rendelet 12. § e) pontja hatályon kívül helyezte.

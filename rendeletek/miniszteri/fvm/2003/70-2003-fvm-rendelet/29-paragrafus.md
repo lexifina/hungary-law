@@ -12,8 +12,8 @@ c) a fertőtlenítést mind az a), mind a b) pont esetén a 6. számú mellékle
 
 (3) Fertőtlenítés nélkül feloldható a helyi zárlat, ha
 
-a)[^27] a lezárt területen csak betegségre gyanús méhcsalád volt, és a laboratóriumi vizsgálat a betegség gyanúját is kizárta;
+a)[^37] a lezárt területen csak betegségre gyanús méhcsalád volt, és a laboratóriumi vizsgálat a betegség gyanúját is kizárta;
 
 b) a lezárt területen csak fertőzöttségre gyanús méhcsalád volt, és a megfigyelési idő kedvezően letelt.
 
-[^27]: A 29. § (3) bekezdés a) pontja a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^37]: A 29. § (3) bekezdés a) pontja a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés j) pontja szerint módosított szöveg.

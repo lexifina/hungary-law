@@ -16,7 +16,7 @@
 
 ## A méhek állandó telephelye:
 
-## A vándoroltatáshoz kiadott állatorvosi igazolás száma:
+## A vándoroltatáshoz kiadott egészségügyi igazolás száma:
 
 ## A kiadás helye: .................................................................................................. ideje:
 
@@ -50,6 +50,8 @@
 
 ## * Az igazolószelvényt a települési/kerületi önkormányzat jegyzője a letelepedést követően a méhész részére, annak állandó lakhelyére, köteles megküldeni vagy személyes teljesítés esetén közvetlenül átadni.
 
-4. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez
+4. számú melléklet a 70/2003. (VI. 27.) FVM rendelethez[^63]
 
 KIJELENTŐ LAP
+
+[^63]: A 4. számú melléklet a 155/2023. (XII. 27.) AM rendelet 11. § g) pontja szerint módosított szöveg.

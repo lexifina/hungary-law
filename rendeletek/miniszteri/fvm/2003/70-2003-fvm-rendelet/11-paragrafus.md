@@ -1,6 +1,6 @@
 ## A műlépkészítő üzemre vonatkozó előírások
 
-11. § (1)[^9] A műlépkészítő üzem (a továbbiakban: üzem) működési engedélyét az illetékes vármegyei kormányhivatal adja ki.
+11. § (1)[^15] A műlépkészítő üzem (a továbbiakban: üzem) működési engedélyét az illetékes vármegyei kormányhivatal adja ki.
 
 (2) Az üzemben külön helyiséget kell kialakítani:
 
@@ -14,4 +14,4 @@ d) zárt (méhmentes) helyiséget a hulladék tárolására.
 
 (3) A műlépet előállító üzemnek rendelkeznie kell saját, nagynyomású, meleg vizes fertőtlenítő berendezéssel, amellyel a fogadó és a feldolgozó helyet minden gyártási nap után – a 6. számú mellékletben foglaltaknak megfelelően – ki kell tisztítani és fertőtleníteni.
 
-[^9]: A 11. § (1) bekezdése a 69/2017. (XII. 27.) FM rendelet 8. § a) pontja, a 76/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^15]: A 11. § (1) bekezdése a 69/2017. (XII. 27.) FM rendelet 8. § a) pontja, a 76/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.

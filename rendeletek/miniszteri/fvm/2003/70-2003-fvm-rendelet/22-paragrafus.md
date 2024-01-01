@@ -6,9 +6,9 @@
 
 ## Mézelő méhek nyúlós költésrothadása
 
-22. § (1)[^18] Nyúlós költésrothadásban beteg az a méhcsalád, amelyben a betegség tünetei mutatkoznak és a betegséget a méhcsaládból származó lépmintában, illetőleg álcában a laboratóriumi vizsgálat is megerősítette.
+22. § (1)[^26] Nyúlós költésrothadásban beteg az a méhcsalád, amelyben a betegség tünetei mutatkoznak és a betegséget a méhcsaládból származó lépmintában, illetőleg álcában a laboratóriumi vizsgálat is megerősítette.
 
-(2)[^19] Nyúlós költésrothadásra gyanús az a méhcsalád, amely a betegség tüneteit mutatja ugyan, de a betegséget laboratóriumi vizsgálat még nem erősítette meg, vagy nem zárta ki.
+(2)[^27] Nyúlós költésrothadásra gyanús az a méhcsalád, amely a betegség tüneteit mutatja ugyan, de a betegséget laboratóriumi vizsgálat még nem erősítette meg, vagy nem zárta ki.
 
 (3) Nyúlós költésrothadás fertőzöttségére gyanús az a méhcsalád, amelyet nyúlós költésrothadásban beteg méhcsaláddal egy méhészetben tartanak, vagy hatvan napon belül egy méhészetben tartottak.
 
@@ -16,5 +16,5 @@
 
 (5) Nyúlós költésrothadás fertőzöttségére gyanús az a méhészet, amelybe hatvan napon belül fertőzött méhészetből méhcsaládot, méhrajt, mézet, kaptárt, műlépet vagy a kórokozó áthurcolására alkalmas egyéb felszerelést szállítottak.
 
-[^18]: A 22. § (1) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^19]: A 22. § (2) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^26]: A 22. § (1) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^27]: A 22. § (2) bekezdése a 70/2013. (VII. 13.) VM rendelet 26. § (2) bekezdés h) pontja szerint módosított szöveg.
