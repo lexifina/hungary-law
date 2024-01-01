@@ -50,7 +50,7 @@ n) az érintettnek nem egészségügyi intézményben történő elhelyezése, g
 
 o) a munkavégzésre való alkalmasság megállapítása függetlenül attól, hogy ezen tevékenység munkaviszony, közalkalmazotti, egészségügyi szolgálati kormányzati szolgálati, politikai szolgálati, adó- és vámhatósági szolgálati, biztosi vagy közszolgálati jogviszony, hivatásos szolgálati viszony vagy egyéb jogviszony keretében történik,
 
-p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása,
+p) köznevelés, szakképzés, illetve felsőoktatás céljából az oktatásra, illetve képzésre való alkalmasság megállapítása, valamint gyermekek, tanulók egészségének megőrzése,
 
 q) a katonai szolgálatra, illetve a személyes honvédelmi kötelezettség teljesítésére való alkalmasság megállapítása,
 

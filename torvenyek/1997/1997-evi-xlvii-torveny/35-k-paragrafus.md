@@ -15,3 +15,5 @@ c) az egészségügyi dokumentumnak az érintett egészségi állapotára vonatk
 d) az egészségügyi dokumentumhoz való hozzáféréshez szükséges információkat, valamint
 
 e) az (1) bekezdés szerinti egészségügyi dokumentációkat.
+
+(4) A működtető a (3) bekezdés szerinti nyilvántartásban rögzíti és a 4. § (1) bekezdés e)–g) pontjában és (2) bekezdés f)–o) és q)–zs) pontjában meghatározott célból az egészségügyi dokumentáció megismerésére jogosultak számára elérhetővé teszi az oktatási nyilvántartás működéséért felelős szerv által az oktatási nyilvántartásról szóló törvény alapján átadott, a Nemzeti Egységes Tanulói Fittségi Teszt adatait.
