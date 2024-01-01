@@ -6,10 +6,6 @@ Felelős: pénzügyminiszter
 
 Határidő: azonnal
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 23. Kiegészítő támogatás címmel történő kiegészítését.
+2.[^1]
 
-Felelős: pénzügyminiszter
-
-belügyminiszter
-
-Határidő: azonnal
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
