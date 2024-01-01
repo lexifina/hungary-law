@@ -10,4 +10,4 @@
 
 (3) A mintaoltalom megújítását legkorábban az oltalmi idő lejárta előtt hat hónappal, legkésőbb a lejárat napjától számított hat hónapon belül lehet kérni.
 
-(4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő két hónapon belül.
+(4) A megújítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásának napját követő egy hónapon belül.

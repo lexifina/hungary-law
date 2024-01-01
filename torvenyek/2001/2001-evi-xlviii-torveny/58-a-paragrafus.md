@@ -1,6 +1,6 @@
 58/A. § (1) A megsemmisítési eljárást bármelyik fél kérelmére gyorsítottan kell lefolytatni, ha a mintaoltalom bitorlása miatt pert indítottak vagy a keresetlevél benyújtását megelőzően ideiglenes intézkedés iránti kérelmet terjesztettek elő, és ezt igazolják.
 
-(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni e kérelem benyújtásától számított egy hónapon belül.
+(2) A gyorsított eljárás iránti kérelemért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló miniszteri rendeletben meghatározott díjat kell fizetni e kérelem benyújtásával egyidejűleg.
 
 (3) Ha a kérelem nem felel meg az (1) bekezdésben meghatározott követelményeknek, a gyorsított eljárást kérő felet hiánypótlásra, illetve nyilatkozattételre kell felhívni. A gyorsított eljárás iránti kérelmet el kell utasítani, ha az a hiánypótlás, illetve a nyilatkozat ellenére sem elégíti ki a törvényben meghatározott követelményeket. A gyorsított eljárás iránti kérelmet visszavontnak kell tekinteni, ha az azt előterjesztő fél a felhívásra a kitűzött határidőben nem válaszol.
 

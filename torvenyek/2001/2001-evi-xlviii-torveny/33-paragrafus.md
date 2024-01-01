@@ -6,6 +6,8 @@
 
 (1b) Mintaoltalmi ügyekben a szabadalmi törvénynek a kérelem tartalmára, a beadványokkal kapcsolatos eljárásra és az azokkal kapcsolatban alkalmazható jogkövetkezményekre vonatkozó általános rendelkezéseit csak akkor kell alkalmazni, ha e törvény eltérő szabályokat nem állapít meg.
 
+(1c) Ahol e törvény nem állapít meg határidőt a hiánypótlásra, illetve a nyilatkozattételre, az ügyfél részére legalább egy hónapos, de legfeljebb három hónapos határidőt kell kitűzni, amely a lejárat előtt előterjesztett kérelemre legalább egy hónappal, de legfeljebb három hónappal meghosszabbítható. Többszöri, illetve három hónapot meghaladó, de legfeljebb hat hónapos határidő-hosszabbítás csak különösen indokolt esetben adható.
+
 (2) Mintaoltalmi ügyekben az igazolás ki van zárva:
 
 a) az elsőbbségi nyilatkozat előterjesztésére előírt határidő [40. § (2) bek.] elmulasztása esetén;
@@ -15,3 +17,5 @@ b) az uniós, illetve a kiállítási elsőbbségi igény érvényesítésére m
 c)
 
 (3) A szabadalmi törvény nyilvánosságra vonatkozó szabályainak alkalmazásában a szabadalmi bejelentés közzétételén a mintaoltalom megadását kell érteni. Mintaoltalmi ügyekben a szabadalmi bejelentések minősített adatként való kezelésére vonatkozó rendelkezések nem alkalmazhatók.
+
+(4) A mintaoltalmi bejelentés iratait a mintaoltalom megadásáról szóló határozat jogerőre emelkedését követően bárki megtekintheti és azokról jogszabályban megállapított díj ellenében másolatot kaphat. A 33/A. § szerinti oltalmazhatósági véleményt a mintaoltalom megadásáról szóló határozat jogerőre emelkedését követően, illetve – ha azt követően készül el – az oltalmazhatósági véleményről szóló hatósági tájékoztatást követően bárki megtekintheti és annak iratairól díj ellenében másolatot kaphat.

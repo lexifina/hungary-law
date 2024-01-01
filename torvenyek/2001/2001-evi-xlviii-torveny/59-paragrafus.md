@@ -4,6 +4,6 @@
 
 (2) A nemleges megállapításra irányuló kérelmet csak egy mintaoltalom és egy hasznosított vagy hasznosítani kívánt termék tekintetében lehet benyújtani.
 
-(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(3) A nemleges megállapítási kérelemre az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.
 
 (4) Ha a nemleges megállapítási kérelem nem felel meg a törvényben előírt feltételeknek, a kérelmezőt hiánypótlásra kell felhívni; ha pedig a kérelem díját nem fizette meg, figyelmeztetni kell a törvényben meghatározott határidőben történő pótlásra. Ezek elmaradása esetén a nemleges megállapítási kérelmet visszavontnak kell tekinteni.

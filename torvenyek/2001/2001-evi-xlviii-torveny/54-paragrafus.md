@@ -6,4 +6,4 @@
 
 (3) A megosztás iránti kérelemben meg kell jelölni az eredeti mintaoltalom lajstromszámát; a kérelemre és mellékleteire egyebekben a mintaoltalmi bejelentés kellékeire vonatkozó rendelkezéseket [36. § (2)–(3) bek. ] kell megfelelően alkalmazni.
 
-(4) A mintaoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított két hónapon belül.
+(4) A mintaoltalom megosztásáért az iparjogvédelmi eljárások igazgatási szolgáltatási díjairól szóló jogszabályban meghatározott díjat kell fizetni a kérelem benyújtásától számított egy hónapon belül.

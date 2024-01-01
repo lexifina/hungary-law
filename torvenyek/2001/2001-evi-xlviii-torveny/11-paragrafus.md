@@ -1,6 +1,6 @@
 ## A mintaoltalomhoz való jog
 
-11. § A mintát mintaoltalomban kell részesíteni, ha a minta
+11. § A mintaoltalomhoz való jog akkor illeti meg a mintaoltalmi igény jogosultját, ha a minta
 
 a) kielégíti az 1–5. §-ban meghatározott követelményeket,
 

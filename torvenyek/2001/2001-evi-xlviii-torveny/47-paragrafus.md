@@ -6,9 +6,9 @@
 
 (2) Az érdemi vizsgálat arra terjed ki, hogy a minta
 
-a) kielégíti-e az 1–5. §-ban meghatározott követelményeket, és a 6–8. § alapján nincs-e kizárva az oltalomból, és
+a) kielégíti-e az 1. § (2)–(4) bekezdésében meghatározott követelményeket, és
 
-b) bejelentése megfelel-e az e törvényben megszabott feltételeknek.
+b) a 7. és 8. § alapján nincs-e kizárva az oltalomból.
 
 (3) Ha a mintaoltalmi bejelentés nem felel meg az (1a) vagy a (2) bekezdés alapján vizsgált követelményeknek, a bejelentőt – a kifogás természete szerint – hiánypótlásra, nyilatkozattételre, illetve a bejelentés megosztására kell felhívni.
 

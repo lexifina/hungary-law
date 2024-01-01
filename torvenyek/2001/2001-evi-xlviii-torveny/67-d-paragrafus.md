@@ -1,0 +1,3 @@
+67/D. § (1) E törvénynek az innovációs és tudományos eredmények gazdasági hasznosításának elősegítése érdekében szükséges egyes törvények módosításáról szóló 2023. évi XLI. törvénnyel (a továbbiakban: Mód2.tv.) módosított 11. §-át, 49. § (2) bekezdését, 51. § (4) bekezdését, 54. § (4) bekezdését, 57. § (4) bekezdését, 59. § (3) bekezdését, valamint a megállapított 33. § (1c) és (4) bekezdését, 33/A. §-át, 47. § (2) bekezdését, 58/A. § (2) bekezdését, 63. § (2) bekezdését az e § hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(2) E törvénynek a Mód2.tv.-vel hatályon kívül helyezett 44. §-át az e § hatálybalépését követően indult eljárásokban nem kell alkalmazni.
