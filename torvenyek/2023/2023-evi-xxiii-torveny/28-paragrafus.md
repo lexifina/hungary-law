@@ -30,15 +30,15 @@ b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a
 
 c) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem kivételével a nemzeti kiberbiztonsági tanúsítási rendszereket,
 
-d)
+d) a 20. § (5) bekezdése alapján kötelezően alkalmazandó nemzeti vagy európai kiberbiztonsági tanúsítási rendszer alapján tanúsított IKT-termékeket, IKT-szolgáltatásokat vagy IKT-folyamatokat, valamint az ezek alkalmazására kötelezett érintett szervezeteket,
 
 e)
 
-f)
+f) az érintett szervezetek kiberbiztonsági felügyeleti hatósági nyilvántartásba vételének rendjét, valamint a nyilvántartás személyes adatnak nem minősülő adattartalmára vonatkozó részletes szabályokat,
 
 g)
 
-h)
+h) az auditorok nyilvántartásba vételi eljárásának rendjét, és az auditorral szemben támasztott követelményeket,
 
 i)
 
@@ -50,6 +50,6 @@ a) az adópolitikáért felelős miniszterrel egyetértésben a 4. § (1) bekezd
 
 b) a hadiipari kutatás, fejlesztés, gyártás és kereskedelem tekintetében a megfelelőségértékelő szervezetekkel szemben támasztott követelményeket.
 
-(5)
+(5) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben meghatározza a biztonsági osztályba sorolás követelményeit, valamint az egyes biztonsági osztályok esetében alkalmazandó konkrét védelmi intézkedéseket.
 
-(6)
+(6) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter az (5) bekezdés szerinti rendeletet az SZTFH elnöke véleményének kikérését követően adja ki.

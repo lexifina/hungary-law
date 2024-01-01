@@ -1,6 +1,6 @@
 ## 9. Kiberbiztonsági felügyeleti eszközök
 
-22. § (1)
+22. § (1) A 19. §-ban és a 20. §-ban foglalt követelmények tekintetében az érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét az SZTFH látja el.
 
 (2)
 
