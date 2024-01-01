@@ -35,3 +35,15 @@ Richter Gedeon Vegyészeti Gyár Nyilvánosan Működő Részvénytársaság
 |
 
 9 777 658 db „C” sorozatú részvény (HU0000123096h)
+
+|
+
+3.
+
+|
+
+Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság
+
+|
+
+törzstőke 100%-át megtestesítő üzletrész
