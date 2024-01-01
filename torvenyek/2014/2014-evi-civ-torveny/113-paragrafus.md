@@ -1,3 +1,3 @@
 ## 10. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
 
-113–137. §
+### 113. §

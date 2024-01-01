@@ -1,1 +1,1 @@
-5–7. melléklet a 2014. évi CIV. törvényhez
+5. melléklet a 2014. évi CIV. törvényhez
