@@ -80,7 +80,7 @@ h) vágóhídi segédszemélyzetről;
 
 (2) Az (1) bekezdésben megjelölt nyilvántartás tartalmazza
 
-a) a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számot,
+a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény (a továbbiakban: KAP tv.) 10. § (2) bekezdés b) pontja szerinti támogatási azonosítót (a továbbiakban: támogatási azonosító),
 
 b) a nyilvántartásba vétel alapjául szolgáló hatósági engedély, bizonyítvány, határozat számát,
 

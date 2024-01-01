@@ -70,11 +70,13 @@ p) FELIR felhasználók természetes személyazonosító adatait.
 
 q) a megújuló energiaforrásokból előállított energia használatát szolgáló biomassza, köztes termék, bioüzemanyag, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok engedélyezési, nyilvántartási, nyomonkövetési adatait, beleértve azok fogyasztási, felhasználási adatait is.
 
+r) az Elektronikus Gazdálkodási Naplóba rögzített adatokat.
+
 (3) A FELIR kialakításához és működtetéséhez az élelmiszerlánc-felügyeleti szerv kezeli
 
-a) a természetes személy természetes személyazonosító adatait, aláírását vagy kézjegyét, lakcímét, elérhetőségét, adóazonosító jelét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát, egyéni vállalkozó természetes személy esetén a székhelyét, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKVtv.) hatálya alá tartozó vállalkozás KKVtv. 3. §-a szerinti besorolását, egyéni vállalkozó főtevékenységét az ÖVTJ nómenklatúra szerinti megjelöléssel és adószámát, őstermelő természetes személy esetén az adószámát is;
+a) a természetes személy természetes személyazonosító adatait, aláírását vagy kézjegyét, lakcímét, elérhetőségét, adóazonosító jelét, támogatási azonosítóját, bankszámlaszámát, egyéni vállalkozó természetes személy esetén a székhelyét, a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: KKVtv.) hatálya alá tartozó vállalkozás KKVtv. 3. §-a szerinti besorolását, egyéni vállalkozó főtevékenységét az ÖVTJ nómenklatúra szerinti megjelöléssel és adószámát, őstermelő természetes személy esetén az adószámát is;
 
-b) jogi személy esetén a (cég)nevét, adószámát, főtevékenységét a TEÁOR nómenklatúra szerinti megjelöléssel, székhelyét, telephelyét, elérhetőségét, a mezőgazdasági és vidékfejlesztési támogatási szerv által kiadott ügyfél-azonosító számát, bankszámlaszámát, a KKVtv. hatálya alá tartozó jogi személy KKVtv. 3. §-a szerinti besorolását;
+b) jogi személy esetén a (cég)nevét, adószámát, főtevékenységét a TEÁOR nómenklatúra szerinti megjelöléssel, székhelyét, telephelyét, elérhetőségét, támogatási azonosítóját, bankszámlaszámát, a KKVtv. hatálya alá tartozó jogi személy KKVtv. 3. §-a szerinti besorolását;
 
 c) az eljárás egyéb résztvevője, vagy meghatalmazottjaként illetve törvényes képviselőjeként eljáró személy, természetes személyazonosító adatait, aláírását vagy kézjegyét és lakcímadatait.
 
@@ -106,7 +108,7 @@ h)
 
 i) az Országos Vadgazdálkodási Adattárból,
 
-j) a mezőgazdasági és vidékfejlesztési támogatási szerv nyilvántartási rendszereiből,
+j) a KAP tv. 10. § (1) bekezdés 21. pontja szerinti támogató (a továbbiakban: támogató) nyilvántartási rendszereiből,
 
 k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, illetve tevékenységek vonatkozásában jogszabályi kötelezettség alapján vezetett országos hatósági nyilvántartásokból.
 
@@ -116,13 +118,19 @@ k) az e törvény hatálya alá tartozó vállalkozók, tevékenységi helyek, i
 
 (5) A FELIR-ben kezelt adatokat a Központi Statisztikai Hivatal részére – a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatóak. Az átvett adatok körét és az adatátvétel részletszabályait a hivatalos statisztikáról szóló törvényben meghatározott együttműködési megállapodásban kell rögzíteni.
 
-(6) Az élelmiszerlánc-felügyeleti szerv biztosítja a mezőgazdasági és vidékfejlesztési támogatási szerv részére a 38. § (1) bekezdés 2., 3., és 6–8. pontjában meghatározott esetekben az ügyfél törzsadatokhoz való folyamatos hozzáférést.
+(6) Az élelmiszerlánc-felügyeleti szerv biztosítja a támogató részére
+
+a) a 38. § (1) bekezdés 2., 3., és 6–8. pontjában meghatározott esetekben az ügyfél törzsadatokhoz, és
+
+b) a (18) bekezdés a) és b) pontja szerinti adatokhoz
+
+való folyamatos hozzáférést.
 
 (7) Az élelmiszerlánc-felügyeleti szerv megkeresésre az adó- és vámhatóság törvényben meghatározott feladatai ellátása céljából elektronikus úton átadja az adó- és vámhatóság részére a FELIR-ben regisztrált élelmiszer vállalkozókkal kapcsolatban nyilvántartott, a (2) bekezdés a), c) és d) pontja szerinti, valamint a bejelentett első magyarországi tárolási helyekre vonatkozó adatokat, illetve ezen adatok tekintetében hozzáférést biztosít az adó- és vámhatóság részére a FELIR-hez.
 
-(8) Az élelmiszerlánc-felügyeleti hatóság és a mezőgazdasági és vidékfejlesztési támogatási szerv a (6) bekezdésben meghatározott adatok biztosításáról írásban állapodik meg. A megállapodásnak ki kell terjednie a közös ügyfél törzsadatok körének meghatározására, működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
+(8) Az élelmiszerlánc-felügyeleti hatóság és a támogató a (6) bekezdésben meghatározott adatok biztosításáról írásban állapodik meg. A megállapodásnak ki kell terjednie az átadandó adatok körének meghatározására, a működtetéssel kapcsolatos feladatok elvégzésének, valamint a költségek viselésének megosztására.
 
-(8a) Az élelmiszerlánc-ellenőrzések hatékonyabb végrehajtása, valamint a szükséges zárlati intézkedések megtétele érdekében a mezőgazdasági és vidékfejlesztési támogatási szerv minden év július 1-jéig elektronikusan átadja az élelmiszerlánc-felügyeleti szerv részére az adott évben benyújtott egységes kérelmek kérelmezőre, területekre, valamint azok területhasznosítására vonatkozó, egyedi azonosításra alkalmas adatait.
+(8a) Az élelmiszerlánc-ellenőrzések hatékonyabb végrehajtása, valamint a szükséges zárlati intézkedések megtétele érdekében a támogató minden év július 1-jéig elektronikusan átadja az élelmiszerlánc-felügyeleti szerv részére az adott évben benyújtott egységes kérelmek kérelmezőre, területekre, valamint azok területhasznosítására vonatkozó, egyedi azonosításra alkalmas adatait.
 
 (9) Az élelmiszerlánc-felügyeleti szerv részére e törvényben meghatározott feladatai ellátása – különösen az e törvény hatálya alá tartozó termékek nyomonkövethetősége – érdekében az elektronikus útdíjszolgáltatók nyilvántartásából folyamatosan, elektronikus úton adatokat kell átadni.
 
@@ -153,3 +161,23 @@ a) az élelmiszerlánc-felügyeleti szerv számára a FELIR működtetésével �
 b) az erdészeti hatóság számára faanyag kereskedelmi lánc hatósági felügyeletével kapcsolatos
 
 feladatainak ellátása érdekében elektronikusan feldolgozható formában adatszolgáltatást teljesít.
+
+(18) Az Elektronikus Gazdálkodási Napló tartalmazza az e törvény végrehajtására kiadott rendeletben meghatározottak szerint
+
+a) a mezőgazdasági termelő által vezetett gazdálkodási napló,
+
+b) a permetezési napló és
+
+c) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelmével kapcsolatos nyilvántartás
+
+adatait.
+
+(19) A gazdálkodó, a kapcsolattartó és a gazdálkodóval az Elektronikus Gazdálkodási Naplóban feltüntetendő tevékenysége vonatkozásában szerződéses kapcsolatban álló természetes személyek nevét, lakcímét, FELIR azonosítóját, támogatási azonosítóját, a Magyar Növényvédő Mérnöki és Növényorvosi Kamara által adott nyilvántartási számát, valamint telefonos és elektronikus elérhetőségét az élelmiszerlánc-felügyeleti szerv az Elektronikus Gazdálkodási Naplóban való utolsó adatrögzítést követő 10 évig kezeli
+
+a) a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatási eljárásban a támogatási jogosultság és kötelezettség ellenőrzése,
+
+b) a növényegészségügyi és növényvédelmi kötelezettségek teljesítésének ellenőrzése és a beporzók védelméhez szükséges tájékoztatás adatainak biztosítása, valamint
+
+c) a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméhez szükséges cselekvési program végrehajtása
+
+érdekében.

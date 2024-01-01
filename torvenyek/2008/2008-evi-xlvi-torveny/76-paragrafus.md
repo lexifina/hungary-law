@@ -132,7 +132,7 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 
 44. a méhek tartásának és a méz előállításának részletes szabályait;
 
-45. az élelmiszer-vállalkozók önellenőrzési kötelezettségeinek részletes szabályait.
+45. az élelmiszer-vállalkozás önellenőrzési kötelezettségeinek részletes szabályait.
 
 46. az élelmiszer-előállítás során alkalmazott technológiai segédanyagok felhasználásának részletes szabályait.
 
@@ -163,6 +163,8 @@ o) állapítsa meg az élelmiszermentéssel kapcsolatos részletes szabályokat.
 59. a vadbegyűjtő és a mobil vadfeldolgozó létesítmény üzemeltetésének és a vadhúsvizsgálói tevékenység folytatásának részletes feltételeit, valamint a vadbegyűjtő és a mobil vadfeldolgozó létesítmény, továbbá a vadhúsvizsgálói tevékenység bejelentésére, nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat;
 
 60. a méhegészségügyi felelősi tevékenység folytatásának részletes feltételeit, valamint a méhegészségügyi felelősi tevékenység bejelentésére, a méhegészségügyi felelős nyilvántartásba vételére és a nyilvántartásból való törlésre, továbbá a nyilvántartás vezetésére vonatkozó részletes szabályokat.
+
+61. az Elektronikus Gazdálkodási Napló személyes adatok körébe nem tartozó tartalmát.
 
 (3)
 
