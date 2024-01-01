@@ -22,18 +22,21 @@ b) az egyes tervek és koncepciók véleményezése körében a térség egyetem
 
 c) valamennyi, a fejlesztésekkel érintett állami, önkormányzati és civil szervezettel.
 
-5. A kormánybiztos tevékenységét a miniszterelnök a területfejlesztési miniszter közreműködésével irányítja.
+5.[^1] A kormánybiztos tevékenységét a miniszterelnök a közigazgatási és területfejlesztési miniszter közreműködésével irányítja.
 
 6. A kormánybiztos tevékenységének ellátásáért a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (2) bekezdése szerinti díjazásra és juttatásokra jogosult.
 
-7. A kormánybiztos tevékenységét a Miniszterelnökség szervezetében működő 5 fős titkárság segíti.
+7.[^2] A kormánybiztos tevékenységét a Közigazgatási és Területfejlesztési Minisztérium szervezetében működő 5 fős titkárság segíti.
 
 8. A Kormány felhívja az irányítása alatt álló szerveket és intézményeket, továbbá felkéri az egyéb érintett szerveket, hogy a kormánybiztos feladatának ellátásához szükséges – személyes adatnak nem minősülő – adatokat, információkat és elemzéseket bocsássák a kormánybiztos rendelkezésére.
 
-9. A területfejlesztési miniszter intézkedik annak érdekében, hogy az e határozat szerinti feladatok ellátására irodahelyiség kerüljön biztosításra.
+9.[^3] A közigazgatási és területfejlesztési miniszter intézkedik annak érdekében, hogy az e határozat szerinti feladatok ellátására irodahelyiség kerüljön biztosításra.
 
 10. Ez a határozat a közzétételét követő napon lép hatályba.
 
-11.[^1]
+11.[^4]
 
-[^1]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1597/2023. (XII. 22.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^2]: A 7. pont az 1597/2023. (XII. 22.) Korm. határozat 5. pont b) alpontja szerint módosított szöveg.
+[^3]: A 9. pont az 1597/2023. (XII. 22.) Korm. határozat 5. pont a) alpontja szerint módosított szöveg.
+[^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
