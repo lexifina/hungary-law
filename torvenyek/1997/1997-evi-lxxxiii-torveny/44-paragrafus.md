@@ -12,7 +12,7 @@ e) a szülő, aki tizenkét évesnél fiatalabb beteg gyermekét otthon ápolja 
 
 f) aki fekvőbeteg-gyógyintézeti ellátásban betegségének megállapítása vagy gyógykezelése miatt részesül;
 
-g) akit közegészségügyi okból foglalkozásától eltiltanak és más beosztást nem kap, vagy akit közegészségügyi okból hatóságilag elkülönítenek, továbbá aki járványügyi, illetőleg állategészségügyi zárlat miatt munkahelyén megjelenni nem tud és más munkahelyen (munkakörben) átmenetileg sem foglalkoztatható;
+g) aki nem beteg, ugyanakkor közegészségügyi okból foglalkozásától eltiltanak és más beosztást nem kap, vagy akit közegészségügyi okból hatóságilag elkülönítenek, továbbá aki járványügyi, illetőleg állategészségügyi zárlat miatt munkahelyén megjelenni nem tud és más munkahelyen (munkakörben) átmenetileg sem foglalkoztatható;
 
 h) a méltányosságból adható táppénz tekintetében a szülő,
 

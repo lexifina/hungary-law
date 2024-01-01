@@ -4,7 +4,7 @@ a) aki az alábbi feltételek mindegyikének megfelel:
 
 aa) a 42/A. § alapján gyermekgondozási díjra nem jogosult,
 
-ab) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
+ab) a gyermeke születését megelőző két éven belül államilag elismert felsőoktatási intézményben a külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzés kivételével, vagy magyar állampolgárként külföldi felsőoktatási intézményben teljes idejű képzésben legalább két félév aktív hallgatói jogviszonnyal rendelkezik azzal, hogy egy félévre csak egy aktív hallgatói jogviszony vehető figyelembe,
 
 ac) a gyermeke az ab) alpont szerinti hallgatói jogviszony fennállása alatt vagy a hallgatói jogviszony szünetelését, illetve megszűnését követő 1 éven belül születik,
 

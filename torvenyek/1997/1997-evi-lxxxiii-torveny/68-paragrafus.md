@@ -4,4 +4,6 @@
 
 (3) A 66. § (3)–(6) bekezdése, a 67. § és az (1)–(2) bekezdés alapján megállapított 5000 forintot meg nem haladó megtérítési kötelezettség esetén a megtérítésre irányuló eljárást nem kell lefolytatni.
 
-(4) A 66. § (1), (1a), (2), (2a) és (4) bekezdése alapján megállapított, 1000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.
+(4) A 66. § (1), (1a), (2) és (4) bekezdése alapján megállapított, 10 000 forintot meg nem haladó visszafizetési kötelezettség esetén a visszafizetésre irányuló eljárást nem kell lefolytatni.
+
+(5) Nem kell lefolytatni a megtérítésre irányuló eljárást, ha az e § szerinti követelés érvényesítése a 18. § (8) bekezdésében foglaltakon alapul és a megtérítési kötelezettség összege nem haladja meg a közleményben közzétett, aktív fekvőbeteg-szakellátás teljesítményegysége mindenkori országos alapdíjának 50 százalékát.

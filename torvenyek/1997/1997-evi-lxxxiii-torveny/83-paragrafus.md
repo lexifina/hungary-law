@@ -94,6 +94,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 
 (2m) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg az egészségbiztosítói ellenjegyzéssel kiszolgáltatható gyógyászati segédeszközökkel kapcsolatos egészségbiztosítói ellenjegyzés eljárási szabályait.
 
+(2n) Felhatalmazást kap a Kormány, hogy a 18. § (8c) bekezdése szerinti megállapítás rendjét és a megállapításra jogosult szervet rendeletben határozza meg.
+
 (2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg

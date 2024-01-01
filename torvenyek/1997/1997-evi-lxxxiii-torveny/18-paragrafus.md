@@ -30,13 +30,13 @@ aa) (2) bekezdése a) pontjában meghatározott ellátások,
 
 ab) (3) bekezdésének c)–i) pontjában meghatározott ellátások,
 
-b) a külön jogszabályban meghatározott munkahigiénés szűrő- és ellenőrző vizsgálatok,
+b) a jogszabályban meghatározott munkahigiénés szűrő- és ellenőrző vizsgálatok,
 
-c) a külön jogszabályban meghatározott foglalkozás- egészségügyi alapszolgáltatások, amennyiben azok nem az ellátást igénybevevő biztosított foglalkozási megbetegedése, illetőleg üzemi balesete miatt váltak szükségessé,
+c) a jogszabályban meghatározott foglalkozás- egészségügyi alapszolgáltatások, amennyiben azok nem az ellátást igénybevevő biztosított foglalkozási megbetegedése, illetőleg üzemi balesete miatt váltak szükségessé,
 
-d) a külön jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre, illetve egészségbiztosítási ellátásra való jogosultság megállapítása céljából kerül sor,
+d) a jogszabály által elrendelt orvosszakértői vizsgálatok és szakvéleményezés, kivéve, ha a vizsgálatra és szakvéleményezésre társadalombiztosítási vagy szociális juttatásra, kedvezményre, illetve egészségbiztosítási ellátásra való jogosultság megállapítása céljából kerül sor,
 
-e) a külön jogszabályban meghatározott különösen veszélyes (extrém) sportolás, szórakoztató-szabadidős tevékenység közben bekövetkezett baleset miatt szükségessé vált ellátások,
+e) a jogszabályban meghatározott különösen veszélyes (extrém) sportolás, szórakoztató-szabadidős tevékenység közben bekövetkezett baleset miatt szükségessé vált ellátások,
 
 f) hivatásos sportolók sportegészségügyi ellátása,
 
@@ -72,7 +72,17 @@ u) az a)–t) pontban meghatározott ellátások keretében, annak részeként k
 
 (7) A (6) bekezdésben meghatározott ellátások körébe tartozó beavatkozásokat az egészségbiztosításért felelős miniszter rendeletben állapítja meg.
 
-(8)
+(8) A 68. § alkalmazásában az egészségbiztosítási ellátásra jogosult betegségéért, keresőképtelenségéért, egészségkárosodásáért vagy haláláért felelősnek kell tekinteni azt a nem finanszírozott egészségügyi szolgáltatót is, aki által nyújtott ellátással összefüggésben
+
+a) bíróság vagy hatóság megállapította, hogy az egészségügyi szakmai szabályok megsértésével nyújtott szolgáltatást, és
+
+b) az ellátásra jogosult az a) pont szerinti szakmai szabályok megsértésével nyújtott szolgáltatás következtében vesz igénybe természetbeni vagy pénzbeli egészségbiztosítási ellátást.
+
+(8a) A bíróság a (8) bekezdés a) pontja szerinti megállapítást tartalmazó jogerős ítéletét, a hatóság a (8) bekezdés a) pontja szerinti megállapítást tartalmazó végleges határozatát a 68. § szerinti követelésnek a 70. § (1) bekezdés b) pontján alapuló, a megtérítésre irányuló eljárása lefolytatása céljából megküldi az egészségbiztosítónak. Az ítéletben vagy határozatban foglaltakat az egészségbiztosító a kézbesítéstől számított legfeljebb egy évig, a 70. § (1) bekezdés b) pontja szerinti érvényesítés esetén a követelés megtérüléséig kezeli.
+
+(8b) A (8) és (8a) bekezdés szerinti követelés érvényesítése során a 68. § (1) és (2) bekezdésétől eltérően kármegosztás nem alkalmazható.
+
+(8c) A (8) bekezdés szerinti összefüggés megállapításának rendjét a Kormány rendeletben határozza meg.
 
 (9) A járóbeteg-szakellátást, valamint a fogászati alapellátást nyújtó egészségügyi szolgáltató – e törvény végrehajtására kiadott kormányrendeletben meghatározott esetek kivételével – a biztosítottat kérésére köteles – magyar nyelven, közérthetően megfogalmazott – elszámolási nyilatkozatban tájékoztatni
 

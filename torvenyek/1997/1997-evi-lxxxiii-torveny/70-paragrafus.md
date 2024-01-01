@@ -20,4 +20,4 @@ c) a 68/B. § szerinti megtérítésre kötelező határozattal
 
 (6)
 
-(7) Nem kell behajtani a kamat- és késedelmipótlék-tartozást akkor, ha a kötelezett terhére nyilvántartott követelés összege az 1000 Ft-ot nem haladja meg.
+(7) Nem kell behajtani a kamat- és késedelmipótlék-tartozást akkor, ha a kötelezett terhére nyilvántartott követelés összege a 10 000 Ft-ot nem haladja meg.

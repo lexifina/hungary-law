@@ -1,6 +1,6 @@
 65. § (1) Az üzemi balesettel összefüggésben egészségbiztosítási baleseti ellátás csak az üzemi baleset tényét megállapító határozat bemutatása esetén állapítható meg.
 
-(2) Az üzemi baleset végleges döntéssel történő megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, vasutas dolgozók esetén a vasutas egészségbiztosítási szerv a rendelkezésre álló nyilvántartás, az üzemi baleset megállapításáról szóló határozat, valamint a kezelőorvos igazolása alapján téríti meg.
+(2) Az üzemi baleset végleges döntéssel történő megállapításáig a biztosítottnak az általános szabályok szerint rendelt gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás árához, továbbá az 54. § (3) bekezdésében foglalt fogászati ellátásért a biztosított által kifizetett térítési díjat a baleset üzemiségének elismerését követően az egészségbiztosító, a rendelkezésre álló nyilvántartás, valamint az üzemi baleset megállapításáról szóló határozat alapján téríti meg.
 
 (3) A baleseti táppénz iránti kérelem benyújtására, elbírálására és folyósítására a táppénzre vonatkozó rendelkezéseket kell megfelelően alkalmazni.
 

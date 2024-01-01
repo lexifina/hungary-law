@@ -2,7 +2,7 @@
 
 a) a nagyszülő a gyermek születését megelőző két éven belül legalább 365 napon át biztosított volt,
 
-b) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – az ellátás nagyszülő részére történő folyósítása alatt a Tbj. 5. §-a szerinti jogviszony – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – alapján biztosítottként keresőtevékenységet végez,
+b) a gyermek közös háztartásban élő mindkét szülője – egyedülálló alapjogosult esetében az alapjogosult – az ellátás nagyszülő részére történő folyósítása alatt a Tbj. 6. §-a szerinti jogviszony – ide nem értve a nevelőszülői foglalkoztatási jogviszonyt – alapján biztosítottként keresőtevékenységet végez,
 
 c) a gyermeket az alapjogosult a saját háztartásában neveli, és abból a gyermek a nagyszülőhöz csak átmeneti jelleggel, napközbeni időszakra kerül ki,
 
