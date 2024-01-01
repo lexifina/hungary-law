@@ -1,1 +1,0 @@
-## 1. § A központi költségvetés felhasználási kötöttség nélküli támogatást nyújt a települési önkormányzatoknak a mikro-, kis- és középvállalkozások számára biztosított iparűzési adókedvezmény miatti bevételkiesés támogatására.
