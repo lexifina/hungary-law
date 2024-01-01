@@ -40,11 +40,11 @@ c) érettségi végzettséggel és honvéd altiszt vagy azzal egyenértékű ké
 
 rendelkező személy is alkalmazható.
 
-(7)[^215] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét kell alkalmazni.
+(7)[^215] A szakképző intézményben az (1) bekezdésben meghatározott oktatón kívüli további, nevelő-oktató munkát végzők végzettségi és szakképzettségi követelményeire a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 2. mellékletében kell alkalmazni.
 
 [^210]: A 134. § (1) bekezdés a) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 38. pontja szerint módosított szöveg.
 [^211]: A 134. § (2) bekezdés b) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 39. pontja szerint módosított szöveg.
 [^212]: A 134. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 40. pontja szerint módosított szöveg.
 [^213]: A 134. § (6a) bekezdését a 410/2022. (X. 24.) Korm. rendelet 13. §-a iktatta be.
 [^214]: A 134. § (6b) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 20. §-a iktatta be.
-[^215]: A 134. § (7) bekezdése a 95/2021. (II. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^215]: A 134. § (7) bekezdése a 401/2023. (VIII. 30.) Korm. rendelet 134. §-a szerint módosított szöveg.

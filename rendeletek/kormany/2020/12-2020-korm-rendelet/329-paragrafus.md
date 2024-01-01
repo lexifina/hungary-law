@@ -22,4 +22,6 @@
 
 11. a fegyelmi eljárás megszervezésére, lefolytatására és a döntéshozatalra,
 
+12. a fenntartó jogszabályban meghatározott feladata ellátására
+
 [^406]: A 329. § 10. pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 86. pontja szerint módosított szöveg.
