@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2022-06-01 | 2020. évi CLXVI. törvény | 2010-1-00-00.29 |
 | 2023-01-01 | 2022. évi XLVIII. törvény | 2010-1-00-00.30 |
 | 2023-07-01 | 2023. évi XXI. törvény | 2010-1-00-00.32 |
+| 2024-01-01 | 2023. évi XC. törvény | 2010-1-00-00.34 |

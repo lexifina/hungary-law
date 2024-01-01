@@ -14,7 +14,7 @@ c) a külföldi okirat az anyakönyvbe bejegyzendő adatot nem az elektronikus a
 
 (2a) Az anyakönyvi szerv a (2) bekezdés b) pontja szerinti államok körét a külpolitikáért felelős miniszter értesítése alapján teszi közzé.
 
-(3) A (3a) és (3b) bekezdésben meghatározott kivétellel, valamint az (1a) bekezdésben meghatározott okirat kivételével a külföldön kiállított okirat – ha nemzetközi szerződésből, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusából, illetve viszonossági gyakorlatból más nem következik – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
+(3) A (3a) és (3b) bekezdésben meghatározott kivétellel, valamint az (1a) bekezdésben meghatározott okirat kivételével a külföldön kiállított okirat – ha nemzetközi szerződésből, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusából, illetve viszonossági gyakorlatból más nem következik és kormányrendelet szerinti elháríthatatlan akadálya nincs – a magyar törvény szerinti bizonyító erővel csak akkor rendelkezik, ha azt a hivatásos konzuli tisztviselő diplomáciai felülhitelesítéssel látta el.
 
 (3a) Ha az okirat kiállításának helye szerinti államban nem működik magyar külképviselet, vagy a magyar külképviselet diplomáciai felülhitelesítési tevékenységet vagy az (1a) bekezdésben meghatározott tevékenységet nem végez, a külföldi okirat diplomáciai felülhitelesítés nélkül is elfogadható.
 

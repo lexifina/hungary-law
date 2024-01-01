@@ -2,7 +2,7 @@
 
 (2) A haláleset bejelentését követően, az eltemettetésre kötelezett személynek a halottvizsgálati bizonyítvány kiállításáról szóló értesítésétől számított 5 napon belül az eltemettetésre kötelezett személy vagy az ügyben eljáró temetkezési szolgáltató a személyi adat- és lakcímnyilvántartásban
 
-a) bevándoroltként, letelepedettként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
+a) huzamos tartózkodási jogosultsággal rendelkezőként, menekültként vagy oltalmazottként nyilvántartott személy magyar hatóságok által kiállított személyazonosság igazolására alkalmas hatósági igazolványát, a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személy idegenrendészeti hatóság által kiállított regisztrációs igazolását és a személyi azonosítót és lakcímet igazoló hatósági igazolványát,
 

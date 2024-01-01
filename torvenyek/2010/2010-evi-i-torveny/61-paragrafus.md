@@ -14,7 +14,7 @@ b) továbbítja a hivatalos statisztikáról szóló törvény végrehajtásár�
 
 c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat, valamint
 
-d) továbbítja a másik szülő hozzájárulását a gyermek állandó személyazonosító igazolványának kiadásához.
+d)
 
 (4) Az intézeten kívüli születést a szülő, tervezett intézeten kívüli szülés esetén az intézeten kívüli szülésről szóló kormányrendeletben meghatározott felelős személy jelenti be.
 
