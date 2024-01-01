@@ -1,5 +1,5 @@
 ## 1. Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet módosítása
 
-1. § Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet [a továbbiakban: 374/2012. (XII. 18.) Korm. rendelet] 16. §-a a következő 83. és 84. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
