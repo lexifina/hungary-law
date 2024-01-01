@@ -68,7 +68,7 @@
 
 | 34. | Dél-Alföld | község | 87 |
 
-2. melléklet a 241/2015. (IX. 8.) Korm. rendelethez[^14]
+2. melléklet a 241/2015. (IX. 8.) Korm. rendelethez[^15]
 
 Adósságrendezési eljárásban a lakásbérleti díjra vagy a lakás használatáért fizetendő ellenértékre vonatkozó felső összeghatár
 
@@ -92,4 +92,4 @@ Adósságrendezési eljárásban a lakásbérleti díjra vagy a lakás használa
 
 | 9. | Dél-Alföld | 2 250 |
 
-[^14]: A 2. melléklet a 299/2023. (VII. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. melléklet a 299/2023. (VII. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
