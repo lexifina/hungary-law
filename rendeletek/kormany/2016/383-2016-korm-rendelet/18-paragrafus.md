@@ -52,7 +52,7 @@ b)[^112] 51. § (3) bekezdés e)–g), l) és q)–u) pontjában foglaltak
 
 tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal és a NÉBIH a kijelölt élelmiszerlánc-felügyeleti szerv.
 
-(8)[^113] A Kormány a szőlőtermesztésről és a borgazdálkodásról szóló 2004. évi XVIII. törvény szerinti borászati termékek vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a borászati hatóságként eljáró vármegyei kormányhivatalt jelöli ki.
+(8)[^113] A Kormány a szőlészetről és borászatról szóló 2020. évi CLXIII. törvény szerinti borászati termékek vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a borászati hatóságként eljáró vármegyei kormányhivatalt jelöli ki.
 
 (9)[^114] A Kormány a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EGK tanácsi rendelet hatályon kívül helyezéséről szóló 110/2008/EK európai parlamenti és tanácsi rendelet szerinti szeszes italok vonatkozásában az Éltv. 35. § (3) bekezdésében foglaltak tekintetében élelmiszerlánc-felügyeleti szervként a NÉBIH-et és a pálinkaellenőrző hatóságként eljáró vármegyei kormányhivatalt jelöli ki.
 
@@ -78,7 +78,7 @@ tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatásk�
 [^110]: A 18. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^111]: A 18. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (3) bekezdése iktatta be, záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^112]: A 18. § (7) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (19) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^113]: A 18. § (8) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^113]: A 18. § (8) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja, az 561/2023. (XII. 14.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
 [^114]: A 18. § (9) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^115]: A 18. § (10) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^116]: A 18. § (11) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 24. § (4) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 11. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

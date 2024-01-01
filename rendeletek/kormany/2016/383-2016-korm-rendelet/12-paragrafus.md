@@ -66,21 +66,29 @@ számlát.
 
 (7)[^67] A Magyar Természetjáró Szövetség vezeti az Evt. 93. § (6) bekezdése szerinti nyilvántartást.
 
-(8)[^68] A NFK jár el országos illetékességgel
+(8)[^68] Az NFK jár el országos illetékességgel
 
 a) az Evt. 33. § (1)–(6) bekezdése szerinti összevont körzeti erdőtervezési hatósági,
 
-b) az a) pontban megjelölt eljárással egyesített
+b) az a) pontban megjelölt eljárással egyesített, az Evt.
 
-ba) az Evt. 6/A. § (1) bekezdése,
+ba) 6/A. § (1) bekezdése,
 
-bb) az Evt. 13. § (6) bekezdése,
+bb) 6/B. § (2) bekezdése,
 
-bc) az Evt. 23. § (2) bekezdése,
+bc) 7. § (2) bekezdése,
 
-bd) az Evt. 23. § (6) bekezdés b)–d) pontja és
+bd) 13. § (3) és (6) bekezdése,
 
-be) az Evt. 23/A. §-a
+be) 23. § (2) bekezdése,
+
+bf) 23. § (6) bekezdés b)–d) pontja,
+
+bg) 23/A. §-a,
+
+bh) 28/A. §-a és
+
+bi) 73. § (4) bekezdése
 
 szerinti,
 
@@ -124,7 +132,7 @@ d) az Evt. 17. § (1) bekezdése szerinti nyilvántartást.
 [^65]: A 12. § (6) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
 [^66]: A 12. § (6) bekezdés a) pontja a 433/2017. (XII. 21.) Korm. rendelet 29. § (5) bekezdés c) pontja szerint módosított szöveg.
 [^67]: A 12. § (7) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (6) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^68]: A 12. § (8) bekezdését a 29/2020. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^68]: A 12. § (8) bekezdését a 29/2020. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege az 596/2023. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^69]: A 12. § (9) bekezdését a 29/2020. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^70]: A 12. § (10) bekezdését a 29/2020. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
 [^71]: A 12. § (11) bekezdését a 29/2020. (II. 28.) Korm. rendelet 4. § (2) bekezdése iktatta be.
