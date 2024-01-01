@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-17-20-2
 | 2021-07-16 | 2017-17-20-2W.7 | 25/2020. (VII. 3.) ITM rendelet |
 | 2022-01-01 | 2017-17-20-2W.8 | 31/2017. (VIII. 17.) NFM rendelet |
 | 2023-05-17 | 2017-17-20-2W.9 | 7/2023. (V. 9.) EM rendelet |
+| 2024-01-01 | 2017-17-20-2W.10 | 7/2023. (V. 9.) EM rendelet |
