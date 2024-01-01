@@ -16,7 +16,7 @@ ellenőrzése céljából megkeresheti a személyiadat- és lakcímnyilvántart�
 
 a) természetes személyazonosító adatok,
 
-b) állampolgárság, hontalanság, menekült, bevándorolt, letelepedett, oltalmazott vagy a szabad mozgás és tartózkodás jogával rendelkező állampolgár jogállás,
+b) állampolgárság, hontalanság, huzamos tartózkodási jogosultság, menekült, oltalmazott vagy a szabad mozgás és tartózkodás jogával rendelkező állampolgár jogállás,
 
 c) lakcím,
 
@@ -30,6 +30,6 @@ fa) a külföldre utazásról szóló 1998. évi XII. törvény 24. § (1) bekez
 
 fb) a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény 8. § (1) bekezdés b) pont ba)–bb) alpontja szerinti tények, és
 
-fc) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 95. § (1) bekezdés g) pontja, 96. § (1) bekezdés g) pontja, továbbá 100. § (1) bekezdés b) és c) pontja szerinti tények.
+fc) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 76. § d) pontja, 80. § (1) bekezdés b) és c) pontja, valamint a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 254. § (1) bekezdés g) pontja, 256. § (1) bekezdés f) pontja, továbbá 261. § (1) bekezdés b) és c) pontja szerinti tények.
 
 (6) Az adóhatóság az ügyvédi tevékenység gyakorlásához való jogosultságot az ügyvédi kamarai nyilvántartásban ellenőrizheti.
