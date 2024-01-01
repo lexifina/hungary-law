@@ -50,6 +50,6 @@ d) nemzetközi szervezet és minden olyan külföldi szervezet, amely saját jog
 
 e) jogi személyiséggel rendelkező gazdálkodó szervezet, illetve a jogi személyiséggel rendelkező külföldi gazdálkodó szervezet fióktelepe,
 
-f) külön törvényben erre feljogosított szervezet.
+f) törvényben vagy kormányrendeletben erre feljogosított szervezet.
 
 (9) A kötvényben a kibocsátójáért vállalt kezesség egyoldalú jognyilatkozatként is érvényes, annak érvényesítésére a kötvény mindenkori jogosultja jogosult.

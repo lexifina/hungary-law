@@ -14,7 +14,7 @@ b) az érintett részvény adatait, a kivezetés, vagy az átvezetés tervezett 
 
 c) átvezetés esetén annak a szabályozott piacnak az elérhetőségét, amelyen a részvénnyel kereskednek.
 
-(4) A szabályozott piacra bevezetett részvény kivezetéséről szóló döntésről a kibocsátó a határozat meghozatalát követő 5 munkanapon belül értesíti a részvénykönyvben bejegyzett részvényeseket a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint, továbbá – amennyiben a kibocsátó rendelkezik ilyennel – a hirdetményi lapjában és egy országos terjesztésű napilapban közzéteszi a (3) bekezdés a)–c) pontjában foglaltakat.
+(4) A szabályozott piacra bevezetett részvény kivezetéséről szóló döntésről a kibocsátó a határozat meghozatalát követő 5 munkanapon belül értesíti a részvénykönyvben bejegyzett részvényeseket a hivatalos iratok kézbesítésére vonatkozó külön jogszabályok szerint, továbbá a honlapján közzéteszi a (3) bekezdés a)–c) pontjában foglaltakat.
 
 (5) A kivezetésről szóló határozat szabályozott piachoz való benyújtásától a részvény szabályozott piacról való tényleges, a kivezetéséig eltelt időtartam nem lehet rövidebb, mint 60 kereskedési nap.
 

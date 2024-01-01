@@ -10,4 +10,6 @@ c) aki – a 357. § (3a) bekezdésében foglaltak figyelembevételével – iga
 
 d) akivel szemben a 357. §-ban meghatározott kizáró ok nem áll fenn.
 
+e) aki nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
+
 (2)
