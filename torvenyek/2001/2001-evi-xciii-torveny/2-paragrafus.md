@@ -1,10 +1,10 @@
 ## Értelmező rendelkezések
 
-2. §
+### 2. §
 
 1. devizabelföldi:
 
-a) az a természetes személy, akinek az illetékes magyar hatóság által kiadott érvényes személyazonosító igazolványa, a tizennégy éven aluli magyar állampolgár, bevándorolt és letelepedett esetében a személyi azonosítóról kiadott hatósági igazolványa (a továbbiakban együtt: hatósági igazolvány) van, illetve azokkal rendelkezhet. A természetes személynek a devizabelföldiségét a hatósági igazolvánnyal kell igazolnia, de a határátlépéskor a hatósági igazolvány hiányában magyar útlevelet felmutató személy devizabelföldiségét vélelmezni kell,
+a) az a természetes személy, akinek az illetékes magyar hatóság által kiadott érvényes személyazonosító igazolványa, a tizennégy éven aluli magyar állampolgár, huzamos tartózkodási jogosultsággal rendelkező személy esetében a személyi azonosítóról kiadott hatósági igazolványa (a továbbiakban együtt: hatósági igazolvány) van, illetve azokkal rendelkezhet. A természetes személynek a devizabelföldiségét a hatósági igazolvánnyal kell igazolnia, de a határátlépéskor a hatósági igazolvány hiányában magyar útlevelet felmutató személy devizabelföldiségét vélelmezni kell,
 
 b) a vállalkozás és a szervezet, ha a székhelye belföldön van – az e § 2. pontjának d) és f) alpontjában foglalt kivételekkel –, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a külföldi állampolgár önálló magyarországi vállalkozása (egyéni vállalkozó és az önfoglalkoztató);
 
