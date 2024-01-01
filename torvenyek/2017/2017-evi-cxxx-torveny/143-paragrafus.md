@@ -1,1 +1,0 @@
-143. § A 2017. évi XLIII. törvény 1. §-a és 14. § (1) bekezdése a „közigazgatási peres és egyéb közigazgatási bírósági” szövegrész helyett a „közigazgatási peres, nemperes és egyéb közigazgatási bírósági” szöveggel lép hatályba.

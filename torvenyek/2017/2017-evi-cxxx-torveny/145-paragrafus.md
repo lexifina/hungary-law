@@ -1,1 +1,0 @@
-145. § A 20. § (5) bekezdése és a 68. § (4) bekezdése a tagállamokban a polgári és kereskedelmi ügyekben a bírósági és bíróságon kívüli iratok kézbesítéséről (iratkézbesítés), és az 1348/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. november 13-i 1393/2007/EK európai parlamenti és a tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
