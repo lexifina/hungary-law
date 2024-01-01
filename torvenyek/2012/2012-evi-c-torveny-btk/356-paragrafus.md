@@ -1,6 +1,6 @@
 ## Harmadik országbeli állampolgár jogellenes foglalkoztatása
 
-356. § (1) Aki keresőtevékenység folytatására jogosító engedéllyel nem rendelkező
+356. § (1) Aki munkavégzési célból kiadott engedéllyel nem rendelkező
 
 a) harmadik országbeli állampolgárt rendszeresen vagy tartósan, illetve
 
@@ -10,12 +10,12 @@ foglalkoztat, vétség miatt két évig terjedő szabadságvesztéssel bünteten
 
 (2) Bűntett miatt három évig terjedő szabadságvesztéssel büntetendő, aki
 
-a) keresőtevékenység folytatására jogosító engedéllyel nem rendelkező harmadik országbeli állampolgárt különösen kizsákmányoló foglalkoztatási feltételek között foglalkoztat,
+a) munkavégzési célból kiadott engedéllyel nem rendelkező harmadik országbeli állampolgárt különösen kizsákmányoló foglalkoztatási feltételek között foglalkoztat,
 
 b)
 
 (3) E § alkalmazásában
 
-a) különösen kizsákmányoló foglalkoztatási feltételek alatt a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott fogalmakat kell érteni;
+a) különösen kizsákmányoló foglalkoztatási feltételek alatt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott fogalmakat kell érteni;
 
 b) jelentős számú: legalább öt személy.

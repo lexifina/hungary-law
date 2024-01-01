@@ -4,7 +4,7 @@
 
 (2) Nem utasítható ki az, aki számára Magyarország menedékjogot biztosít.
 
-(3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén letelepedettként vagy bevándoroltként tartózkodási joggal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
+(3) A szabad mozgás és tartózkodás jogával, valamint Magyarország területén huzamos tartózkodási jogosultsággal rendelkező személlyel szemben kiutasításnak csak olyan bűncselekmény elkövetése miatt lehet helye, amely ötévi vagy azt meghaladó tartamú szabadságvesztéssel büntetendő.
 
 (4) Azzal szemben,
 
