@@ -1,3 +1,3 @@
 ## Átmeneti rendelkezések
 
-48. §
+### 48. §
