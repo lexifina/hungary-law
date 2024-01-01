@@ -12,4 +12,6 @@ bc) a jogszerzés időtartamait, megszűnésének időpontját,
 
 bd) továbbá azon külön jogszabály szerinti nagyon mérgező növényvédő szer hatóanyagok felsorolását, melyekre jogosultsága a származási tagállamban kiterjed.
 
-(2) Az (1) bekezdés szerinti dokumentumokat a származási tagállam nyelvén kell benyújtani azok hiteles magyar fordításával együtt.
+(2)[^2] Az (1) bekezdés szerinti dokumentumokat a származási tagállam nyelvén kell benyújtani azok hiteles magyar fordításával együtt. Nem szükséges csatolni a dokumentumok hiteles fordítását, ha a vármegyei kormányhivatal valamely ügyintézője az adott nyelvből államilag elismert, legalább középfokú nyelvvizsgával rendelkezik. Azon nyelvek listáját, amelyek esetében hiteles magyar fordítás nem szükséges, a vármegyei kormányhivatal a honlapján közzéteszi.
+
+[^2]: A 3. § (2) bekezdése a 164/2023. (XII. 27.) AM rendelet 1. §-ával megállapított szöveg.
