@@ -1,1 +1,1 @@
-### 22. §
+22. § Az Szja tv. 48. § (1) bekezdésében az „esetenként vagy az adóéven belül visszavonásig” szövegrész helyébe az „esetenként, az adóéven belül visszavonásig vagy a (2a) bekezdés szerint” szöveg lép.

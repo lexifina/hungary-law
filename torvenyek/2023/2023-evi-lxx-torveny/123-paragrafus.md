@@ -4,7 +4,7 @@
 
 (2) A 77. § (3)–(5), (8), és (10)–(11) bekezdése, valamint a 78. § b) pontja a kihirdetést követő 5. napon lép hatályba.
 
-(3) Az 1. §, a 2. § a) pontja, a 3–7. §, a 9. § (1) és (5) bekezdése, a 12. §, a 13. §, a 19–25. §, a 27–45. §, a 47–54. §, az 56. §, az 59–66. §, a 68. §, a 69. § (4)–(6) bekezdése, 71. § c) és d) pontja, a 72. §, a 74. §, a 76. § b) pontja, a 77. § (1)–(2), (6)–(7) és (9) bekezdése, a 78. § a) pontja, a 79–85. §, a 89–94. §, a 97–99. §, a 100. § (1) és (4) bekezdése, a 101. § (7)–(9) bekezdése, a 102. § b) pontja, a 103. § c) pontja, a 106. § (4)–(6) bekezdése, a 107. § a) pontja, a 108. § c) és d) pontja, a 109–113. §, a 114. § (2) és (3) bekezdése, a 116. § b) pontja, a 118. §, a 121. § és a 122. § 2024. január 1-jén lép hatályba.
+(3) Az 1. §, a 2. § a) pontja, a 3–7. §, a 9. § (1) és (5) bekezdése, a, a 13. §, a 19–25. §, a 27–45. §, a 47–54. §, az 56. §, az 59–66. §, a 68. §, a 69. § (4)–(6) bekezdése, 71. § c) és d) pontja, a 72. §, a 74. §, a 76. § b) pontja, a 77. § (1)–(2), (6)–(7) és (9) bekezdése, a 78. § a) pontja, a 79–85. §, a 89–94. §, a 97–99. §, a 100. § (1) és (4) bekezdése, a 101. § (7)–(9) bekezdése, a 102. § b) pontja, a 103. § c) pontja, a 106. § (4)–(6) bekezdése, a 107. § a) pontja, a 108. § c) és d) pontja, a 109–113. §, a 114. § (2) és (3) bekezdése, a 116. § b) pontja, a 118. §, a 121. § és a 122. § 2024. január 1-jén lép hatályba.
 
 (4) A 16. § (1) bekezdése 2024. február 1-jén lép hatályba.
 

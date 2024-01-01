@@ -4,6 +4,6 @@ a)
 
 b)
 
-c)
+c) 66/A. § (4) bekezdése,
 
-d)
+d) 95. § (15) bekezdése.
