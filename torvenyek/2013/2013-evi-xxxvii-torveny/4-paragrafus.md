@@ -88,6 +88,8 @@ e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tar
 
 18. központi adattár: az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 21. cikk (5) bekezdése alapján és ezen irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által létrehozott, a határokon átnyúló feltételes adómegállapításra és szokásos piaci ár megállapítására vonatkozó határozatokkal kapcsolatos információk rögzítésére szolgáló központi adatbázis.
 
+19. közös ellenőrzés: olyan közigazgatási vizsgálat, amelyet a magyar hatáskörrel rendelkező hatóság más tagállam hatáskörrel rendelkező hatóságával közösen folytat le egy vagy több olyan személyhez kapcsolódóan, akinek vagy amelynek ellenőrzéséhez az érintett tagállamok hatáskörrel rendelkező hatóságának közös vagy egymást kiegészítő érdeke fűződik.
+
 (3a) A II/A. fejezet alkalmazásában:
 
 1. Adatszolgáltatási időszak: az 5. melléklet I/C/6. pontja szerinti időszak;
