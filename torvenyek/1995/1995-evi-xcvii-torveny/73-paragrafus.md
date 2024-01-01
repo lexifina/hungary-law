@@ -99,3 +99,7 @@ k) a légiközlekedési hatóság által – közigazgatási hatósági hatásk�
 l) a légiközlekedési vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
 
 m) a légiközlekedési vizsgaközpont felügyeleti szerve által kiszabható bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
+
+n) a légiközlekedési vizsgaközpont tevékenységének részletes szabályait,
+
+o) a fenntartható légijármű üzemanyagokkal kapcsolatos műszaki, üzembentartási és felhasználási előírásokat.
