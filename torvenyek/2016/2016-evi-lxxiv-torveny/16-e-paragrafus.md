@@ -1,0 +1,1 @@
+16/E. § A helyi önkormányzat képviselő-testülete (közgyűlése) a településképi rendeletének az e törvény Módtv.4.-gyel megállapított 11/B. § (1a) bekezdése, valamint a Módtv.4.-gyel módosított 12. § (2) bekezdés h) pontjának való megfelelését 2024. január 31-ig köteles biztosítani.

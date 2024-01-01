@@ -26,6 +26,10 @@ k) az országos jelentőségű településképi követelmények érvényesülés
 
 l) az országos jelentőségű településképi követelmények érvényesülése érdekében kiszabható településkép-védelmi bírság mértéke megállapításának szempontrendszerét és a bírság megfizetési módjának részletszabályait.
 
+m) az országos reklámkataszter adattartalmának felhasználásával kapcsolatos szabályokat.
+
+(1a) Felhatalmazást kap a Nemzeti Média- és Hírközlési Hatóság elnöke, hogy az országos reklámkataszter vezetésével kapcsolatban az üzemeltetéssel és a nyilvántartással összefüggő részletes anyagi és eljárási szabályokat, valamint a nyilvántartás vezetésével és üzemeltetéssel összefüggő díjakat rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap az önkormányzat képviselő-testülete (közgyűlése), hogy – a (2a) bekezdés szerinti jogszabályok hatálya alá tartozó településképi szempontból kiemelt jelentőségű, egyedi településkép-védelem alatt álló terület kivételével – a településképi rendeletben állapítsa meg
 
 a) a településképi követelményeket,
@@ -42,7 +46,7 @@ f) a településképi kötelezettség megszegése és végrehajtása esetén alk
 
 g) a reklámhordozó és reklám elhelyezésére vonatkozó tilalmak és korlátozások alól e törvény által megengedett eltéréseket,
 
-h) a helyi önkormányzat illetékességi területén létesíthető reklámhordozók számát, megjelenésük különös formai (műszaki) követelményeit.
+h) a helyi önkormányzat illetékességi területén létesíthető reklámhordozók megjelenésének különös formai (műszaki) követelményeit.
 
 (3) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait.
 
