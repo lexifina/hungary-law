@@ -1,14 +1,14 @@
-1. § (1) Azon gazdasági társaság, amely felett az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyást gyakorol (a továbbiakban: gazdasági társaság), bérbevevőként kizárólag a közigazgatás-fejlesztésért felelős miniszter előzetes jóváhagyásával köthet olyan, Magyarország területén található ingatlan bérletére irányuló szerződést – ideértve annak a szerződéses ellenértéket, a bérelt ingatlant, illetve a szerződés időbeli hatályát érintő módosítását is –, amely esetén a szerződésben rögzített teljes ellenérték egy naptári évben fizetendő része eléri a bruttó húszmillió forintot (a továbbiakban együtt: szerződés).
+1. § (1)[^1] Azon gazdasági társaság, amely felett az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyást gyakorol (a továbbiakban: gazdasági társaság), bérbevevőként kizárólag a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter előzetes jóváhagyásával köthet olyan, Magyarország területén található ingatlan bérletére irányuló szerződést – ideértve annak a szerződéses ellenértéket, a bérelt ingatlant, illetve a szerződés időbeli hatályát érintő módosítását is –, amely esetén a szerződésben rögzített teljes ellenérték egy naptári évben fizetendő része eléri a bruttó húszmillió forintot (a továbbiakban együtt: szerződés).
 
-(2) A szerződés tervezetét a gazdasági társaság felett az állam nevében tulajdonosi jogokat gyakorló, vagy a gazdasági társaság tulajdonosa vagy tulajdonosi joggyakorlója felett tulajdonosi, irányítási, felügyeleti jogokat gyakorló miniszter (a továbbiakban együtt: tulajdonosi jogokat gyakorló miniszter) küldi meg a közigazgatás-fejlesztésért felelős miniszter részére, aki a tervezet beérkezésétől számított tíz munkanapon belül, az állami vagyon felügyeletéért felelős miniszter előzetes véleményének kikérését követően dönt a szerződés jóváhagyásáról. A közigazgatás-fejlesztésért felelős miniszter a döntéséről annak meghozatalát követő öt munkanapon belül tájékoztatja a tulajdonosi jogokat gyakorló minisztert.
+(2)[^2] A szerződés tervezetét a gazdasági társaság felett az állam nevében tulajdonosi jogokat gyakorló, vagy a gazdasági társaság tulajdonosa vagy tulajdonosi joggyakorlója felett tulajdonosi, irányítási, felügyeleti jogokat gyakorló miniszter (a továbbiakban együtt: tulajdonosi jogokat gyakorló miniszter) küldi meg a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter részére, aki a tervezet beérkezésétől számított tíz munkanapon belül, az állami vagyon felügyeletéért felelős miniszter előzetes véleményének kikérését követően dönt a szerződés jóváhagyásáról. A kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter a döntéséről annak meghozatalát követő öt munkanapon belül tájékoztatja a tulajdonosi jogokat gyakorló minisztert.
 
-(3) Ha a közigazgatás-fejlesztésért felelős miniszter a szerződés jóváhagyásáról nem rendelkezik a (2) bekezdésben meghatározott határidőn belül, akkor a jóváhagyást megadottnak kell tekinteni.
+(3)[^3] Ha a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter a szerződés jóváhagyásáról nem rendelkezik a (2) bekezdésben meghatározott határidőn belül, akkor a jóváhagyást megadottnak kell tekinteni.
 
 (4) Az e rendelet szerinti jóváhagyás hiányában megkötött szerződés semmis.
 
-(5) Nem szükséges a közigazgatás-fejlesztésért felelős miniszter előzetes jóváhagyása, ha a másik szerződő fél (bérbeadó) központi költségvetési szerv vagy olyan gazdasági társaság, amely felett az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti, többségi befolyást gyakorol, mely esetben a szerződés tervezetét a bérbevevő gazdasági társaság felett az állam nevében tulajdonosi jogokat gyakorló miniszter előzetes bejelentés keretében küldi meg a közigazgatás-fejlesztésért felelős miniszter részére.
+(5)[^4] Nem szükséges a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter előzetes jóváhagyása, ha a másik szerződő fél (bérbeadó) központi költségvetési szerv vagy olyan gazdasági társaság, amely felett az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti, többségi befolyást gyakorol, mely esetben a szerződés tervezetét a bérbevevő gazdasági társaság felett az állam nevében tulajdonosi jogokat gyakorló miniszter előzetes bejelentés keretében küldi meg a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter részére.
 
-(6) Nem szükséges a közigazgatás-fejlesztésért felelős miniszter előzetes jóváhagyása
+(6)[^5] Nem szükséges a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter előzetes jóváhagyása
 
 a) azon gazdasági társaságok szerződései esetén, amelyek tekintetében a tulajdonosi jogokat gyakorló miniszter a honvédelemért felelős miniszter, kivéve a gazdasági társaság igazgatási szervezetének elhelyezését szolgáló szerződéseket,
 
@@ -22,6 +22,11 @@ e) a villamos energiáról szóló törvény, a földgázellátásról szóló t
 
 f) az állami hulladékgazdálkodási feladatok ellátásában részt vevő gazdasági társaságok által olyan ingatlanokra kötött szerződések esetén, amelyeken az állami hulladékgazdálkodási feladat ellátásához szükséges működtető vagyon található.
 
-g)[^1] a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság szerződései esetén.
+g)[^6] a légiközlekedésről szóló 1995. évi XCVII. törvény 45. § (6) bekezdése szerinti gazdasági társaság szerződései esetén.
 
-[^1]: Az 1. § (6) bekezdés g) pontját a 644/2023. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
+[^1]: Az 1. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (3) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 47. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (6) bekezdés nyitó szövegrésze az 599/2023. (XII. 22.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. § (6) bekezdés g) pontját a 644/2023. (XII. 28.) Korm. rendelet 7. §-a iktatta be.
