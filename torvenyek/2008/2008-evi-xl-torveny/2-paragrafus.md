@@ -20,6 +20,10 @@ h) a PB-gáz tartályban vagy palackban történő forgalmazására és hatósá
 
 i) az e törvény szerinti engedélyköteles tevékenységeket végzőkre, az e törvény szerint engedélyköteles tevékenység egy részét kiszervezés alapján végzőkre, az engedélyhez kötött földgázipari tevékenység iránti kérelmet benyújtókra a kérelem elbírálásáig, az e törvény szerint engedélyköteles tevékenységet engedély nélkül végzőkre, az integrált földgázipari vállalkozásokra, a felhasználókra, a földgázipari vállalkozásokban részesedést, befolyást vagy irányítást szerezni kívánókra, amennyiben a tervezett jogügylet megvalósítását e törvény bejelentéshez vagy előzetes hivatali hozzájáruláshoz, jóváhagyáshoz köti, a szállítóvezeték tulajdonosára, a földgáz termelőire, továbbá az e törvény hatálya alá eső természetes személyek, jogi személyek, jogi személyiség nélküli jogalanyok közötti jogviszonyokra.
 
+j) az LNG-létesítmény-üzemeltetésre, LNG kereskedelmére, felhasználására,
+
+k) a megújuló gáz származásának igazolására.
+
 (2) A földgáztermelőre és a földgázrendszer tulajdonosára vonatkozó rendelkezéseket a bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) rendelkezéseivel összhangban kell alkalmazni.
 
 (3) Az együttműködő földgázrendszerrel fizikai kapcsolattal nem rendelkező elszigetelt szigetüzemű rendszert alkotó, termelővezetékről ellátott földgázelosztói rendszerre az együttműködő földgázrendszerre vonatkozó szabályokat – beleértve a rendszerüzemeltetés napi gázforgalmazással kapcsolatos feladatait is – megfelelően alkalmazni kell.

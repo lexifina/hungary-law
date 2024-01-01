@@ -1,1 +1,1 @@
-95/C. § A miniszter az elért keresletcsökkentésről kéthavonta jelentést tesz az Európai Bizottságnak.
+95/C. § A miniszter a gázfogyasztásról havonta jelentést tesz az Európai Bizottságnak.

@@ -4,7 +4,7 @@
 
 132. § Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-1. a Magyar Energetikai és Közmű-szabályozási Hivatal által kiszabható bírság mértékét,
+1. a Hivatal által kiszabható bírság mértékét,
 
 2. a panaszok engedélyesek általi kezelésére és a felhasználók, illetve lakossági fogyasztók általi benyújtására vonatkozó eljárási szabályokat,
 
@@ -20,7 +20,7 @@
 
 8. az engedélyezés, a tanúsítási eljárás, valamint az elektronikus ügyintézés részletes szabályait, pénzügyi és gazdasági feltételeit, a kérelem formai és tartalmi követelményeit, továbbá az engedély tartalmi követelményeit, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, hivatalból történő módosításának, az engedélyes tevékenység folytatásának feltételeit, a pénzügyi biztosítékok részletes szabályait, valamint az engedélyesek jogait és kötelezettségeit, valamint a jóváhagyásra irányuló eljárás részletes szabályait,
 
-9. a földgáz minőségű biogáz és egyéb gázfajták, valamint a bányászati tevékenységgel felszínre hozott földgáz együttműködő földgázrendszerhez történő csatlakozásának feltételeit, a betáplált gázok minőségi követelményeit, az átvételére és a mérésére vonatkozó előírásokat,
+9. a földgáz minőségű biogáz és egyéb gázfajták, valamint a bányászati tevékenységgel felszínre hozott földgáz, illetve a megújulóhőenergia-közösség együttműködő földgázrendszerhez történő csatlakozásának feltételeit, a betáplált gázok minőségi követelményeit, ezek átvételére és mérésére vonatkozó előírásokat,
 
 10. a telephelyi szolgáltatás részletes szabályait,
 
@@ -60,7 +60,7 @@
 
 28. a nem határponti betáplálási-kiadási pontokon történő kapacitáslekötés szabályait, ezen belül az igénykielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
 
-29.
+29. az LNG-létesítmény-üzemeltetési tevékenység végzésének részletszabályait,
 
 30. a földgáz szagosítására vonatkozó rendelkezéseket és a nem többségi földgázelosztói vagy földgázszállítói tulajdonban lévő vezeték szakaszok esetében az üzemeltetési szerződés kötelező tartalmi elemeit, valamint a szállító-, és az elosztóvezeték tulajdonosainak jogait és kötelezettségeit,
 
@@ -68,7 +68,7 @@
 
 32. a földgázellátási válsághelyzetben intézkedésre jogosult szervezeteket, azok felelősségi és hatáskörét,
 
-33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, a védett felhasználók nyilvántartásának szabályait, a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket, továbbá a szolidaritási intézkedés végrehajtásának részletszabályait, a védett felhasználók ellátásbiztonságát szolgáló ellátási előírások részletszabályait, és a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés a) és b) pontjában meghatározott a földgáz-kereskedelmi forrásszerződésekre és kapcsolódó szerződésekre vonatkozó adatszolgáltatást,
+33. a földgázellátás biztonságának megőrzését szolgáló, valamint a korlátozásra vonatkozó részletes rendelkezéseket, a védett felhasználók nyilvántartásának szabályait, a korlátozási kategóriákat és kivételeket, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket, továbbá a szolidaritási intézkedés végrehajtásának részletszabályait, a védett felhasználók ellátásbiztonságát szolgáló ellátási előírások részletszabályait, és a (EU) 2017/1938 európai parlamenti és tanácsi rendelet 14. cikk (6) bekezdés a) és b) pontjában meghatározott a földgáz-kereskedelmi forrásszerződésekre és kapcsolódó szerződésekre vonatkozó adatszolgáltatást,
 
 34. a rendszerüzemeltető és a telephelyi szolgáltató által üzemeltetett rendszerek karbantartása, átalakítása, felújítása, fejlesztése esetén a szolgáltatás korlátozásának és szüneteltetésének alapvető szabályait, a be nem jelentett vagy késedelmesen bejelentett szünetelés, valamint a bejelentett szüneteltetés indokolatlan túllépése esetén alkalmazható pótdíj megállapítására vonatkozó szabályokat,
 
@@ -102,7 +102,7 @@
 
 49. az együttműködő földgázrendszer tekintetében az európai és a nemzeti kritikus infrastruktúrák azonosításának kritériumrendszerére, kijelölésére, az érzékeny információ védelmére, a kapcsolattartásra és a jelentéstételi kötelezettségekre, valamint európai kritikus infrastruktúra kijelölése esetén annak védelmére, ellenőrzésének rendjére, az előírások megsértése esetén alkalmazható jogkövetkezményekre
 
-50.
+50. a megújuló energiaforrásból, továbbá földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázokból – beleértve a nem biológiai eredetű, gáznemű megújuló tüzelőanyagokat is – származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, a megújuló gázt termelők vagy értékesítők beszámolási és adatszolgáltatási kötelezettségére, a számlatulajdonosok személyes adatokat nem tartalmazó adatainak közzétételére, valamint a megújuló gázt termelők vagy értékesítők és a számlatulajdonosok származási garanciára vonatkozó jogszabályokban előírt kötelezettségeinek vagy a származási garancia okiratban meghatározottaknak való meg nem felelése esetén fizetendő bírságra és annak mértékére vonatkozó részletes szabályokat,
 
 51. a földgázellátásból történő kikapcsolás alkalmazása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit,
 

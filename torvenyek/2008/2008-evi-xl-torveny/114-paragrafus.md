@@ -12,7 +12,7 @@ c) a földgázelosztás,
 
 d) a földgáztárolás,
 
-e) a földgáz kereskedelem,
+e) a földgáz kereskedelem és LNG-kereskedelem,
 
 f) az egyetemes szolgáltatás,
 
@@ -24,7 +24,15 @@ i) az egyablakos kapacitásértékesítés,
 
 j) a szállítóvezeték-létesítő által történő szállítóvezeték-létesítés,
 
-k)
+k) LNG-létesítmény-üzemeltetés, kivéve az (1a) bekezdésben foglalt tevékenységeket.
+
+(1a) Regisztrációköteles tevékenységként végezheti
+
+a) az LNG-létesítmény-üzemeltető felhasználó az LNG-létesítmény-üzemeltetést, és
+
+b) az LNG-létesítmény-üzemeltető az LNG-terminál-tárolói létesítmény működtetését,
+
+amelyre vonatkozóan kérelemre a Hivatal az e törvény végrehajtására kiadott rendeletben meghatározott regisztrációs eljárást folytat le.
 
 (2) Az (1) bekezdés a)–i) pontja szerinti tevékenység határozatlan, az (1) bekezdés j) pontja szerinti tevékenység határozott időre szóló engedély alapján végezhető.
 

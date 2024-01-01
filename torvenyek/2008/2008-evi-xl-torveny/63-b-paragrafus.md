@@ -10,7 +10,7 @@ b) a teljesítés elfogadása közvetlenül vagy ráutaló magatartással megtö
 
 (4) A (3) bekezdés szerinti esetben a felek közötti jogviszony a jogviszonyra irányadó jogszabályok és az engedélyes üzletszabályzata szerinti tartalommal jön létre.
 
-(5) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott kormányrendeletben előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
+(5) Az engedélyes az e törvényben és az e törvény végrehajtására kiadott jogszabályban előírt, az ügyfélszolgálatán teljesítendő közzétételi, tájékoztatási kötelezettségét elektronikus eszköz útján is teljesítheti.
 
 (6) A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény (a továbbiakban: Tkmtv.) szerinti adatváltozás-kezelési szolgáltatáshoz csatlakozott földgázkereskedő, illetve egyetemes szolgáltató köteles a felhasználó vagy a fizető adatai változásának felhasználó általi bejelentését az adatváltozás-kezelési szolgáltatás keretében, biztonságos kézbesítési szolgáltatás útján is fogadni és kezelni. Ha a felhasználó elosztóhálózat-használati szerződését a földgázkereskedő, illetve egyetemes szolgáltató a 28/A. § (4) bekezdésének megfelelően megbízottként kezeli, akkor a felhasználó változott adatait továbbítja az érintett földgázelosztónak.
 

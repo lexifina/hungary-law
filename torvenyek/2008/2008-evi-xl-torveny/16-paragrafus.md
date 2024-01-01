@@ -28,7 +28,7 @@ h) a szállítási rendszerüzemeltető felfüggesztette a szállítói rendszer
 
 (1b)
 
-(2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
+(2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 48 órán – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
 (3) A földgázelosztó a felhasználási helyre való bejutás érdekében a járásbírósághoz fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:
 

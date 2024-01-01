@@ -8,7 +8,7 @@ c) elosztási átszállítási díjat,
 
 d) földgáztárolási díjat és
 
-e)
+e) LNG-létesítmény-kapacitásdíjat,
 
 (a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 

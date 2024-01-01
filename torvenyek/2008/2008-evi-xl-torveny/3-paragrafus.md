@@ -6,7 +6,7 @@
 
 1a. Bértárolás: Magyarország területére átszállítás céljából behozott földgáznak a tárolására nyújtott, nem belföldi felhasználás céljára igénybevett földgáztárolói szolgáltatás.
 
-1b. Betáplálási-kiadási pont: a szállítási rendszerüzemeltető, a földgázelosztó, a földgáztárolói engedélyes, a felhasználó vagy a földgáztermelő földgázrendszere közötti fizikai vagy egyesített csatlakozási pont, valamint a rendszer-összekötési pont, ide nem értve az összekapcsolási pontot.
+1b. Betáplálási-kiadási pont: a szállítási rendszerüzemeltető, a földgázelosztó, a földgáztárolói engedélyes, a felhasználó, a földgáztermelő vagy az LNG-létesítmény földgázrendszere közötti fizikai vagy egyesített csatlakozási pont, valamint a rendszer-összekötési pont, ide nem értve az összekapcsolási pontot.
 
 1c. Adatcsere: a jogszabályban, valamint az Adatcsere Szabályzatban kötelezettségként előírt adatszolgáltatások egységes keretek között történő, diszkriminációmentes lebonyolítása az Adatcsere Szabályzatban rögzítettek szerint, a rendszerhasználati szerződések betartása mellett.
 
@@ -14,7 +14,7 @@
 
 2. Célvezeték: a földgáztermelőhöz, határon túli földgázrendszerhez, a szállító-, elosztóvezetékhez vagy a tárolóhoz közvetlenül csatlakozó olyan földgázvezeték, amely kizárólag egy felhasználó egy felhasználási helyének ellátására szolgál.
 
-3. Csatlakozási szerződés: a szállítási rendszerüzemeltető vagy a földgázelosztó és a leendő felhasználó vagy a földgáztermelő között létrejött szerződés, amely biztosítja a felhasználó vagy a földgáztermelő szállító- vagy elosztóvezetékre történő csatlakozási jogát, az érintett csatlakozási ponton vásárolt kapacitás mértékét, valamint rögzíti a csatlakozás műszaki-gazdasági feltételeit.
+3. Csatlakozási szerződés: a szállítási rendszerüzemeltető vagy a földgázelosztó és a leendő felhasználó vagy a földgáztermelő vagy LNG-létesítmény üzemeltető között létrejött szerződés, amely biztosítja a felhasználó vagy a földgáztermelő vagy LNG-létesítmény üzemeltető szállító- vagy elosztóvezetékre történő csatlakozási jogát, az érintett csatlakozási ponton vásárolt kapacitás mértékét, valamint rögzíti a csatlakozás műszaki-gazdasági feltételeit.
 
 4. Csatlakozóvezeték: a felhasználási helyet magába foglaló ingatlan telekhatárától, mint elosztói kiadási ponttól a fogyasztói főcsapig terjedő vezeték.
 
@@ -34,7 +34,7 @@
 
 9b. Egyensúlyozási elszámolás: az elszámolóház által a rendszerhasználók gáznapi kereskedelmi egyensúlytalansága következtében a 312/2014/EU bizottsági rendelet alapján a szállítási rendszerüzemeltető által végzett egyensúlyozási tevékenység pénzügyi elszámolása.
 
-10. Együttműködő földgázrendszer: a rendszer-összekötési pontokkal határolt, összekapcsolt szállítóvezeték, a szállítóvezetékhez kapcsolódó elosztóvezeték, a földgáztároló, valamint a részleges szigetüzem.
+10. Együttműködő földgázrendszer: a rendszer-összekötési pontokkal határolt, összekapcsolt szállítóvezeték, a szállítóvezetékhez kapcsolódó elosztóvezeték, a földgáztároló, az LNG-létesítmény, valamint a részleges szigetüzem.
 
 11. Ellátás biztonsági szint: a földgázellátásnak a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló jogszabályban meghatározott felkészülési feltételei, amelyek mértékéig a felhasználók földgázellátása rendkívüli intézkedések nélkül még biztosítható.
 
@@ -56,7 +56,7 @@ b) kereskedési platformon kötött ügyletek anonim elszámolása,
 
 c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások nyújtása.
 
-15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Hivatal által kiadott érvényes engedéllyel rendelkezik.
+15. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Hivatal által kiadott hatályos engedéllyel rendelkezik.
 
 16. Felhasználási hely: az az ingatlan, ahol a csatlakozóvezeték, a felhasználói berendezés, a gázmérőhely, a fogyasztói főcsap vagy a gázfogyasztást szolgáló nyomásszabályozó van, ide nem értve a közvetlen szállítóvezetéki felhasználó ellátását szolgáló gázátadó állomást.
 
@@ -78,7 +78,7 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 22a. Föld alatti gáztároló: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet 2. cikk 31. pontja szerinti föld alatti gáztároló.
 
-23. Földgáz: olyan természetes éghető gáz, amely a földkéregben keletkezett, bányászati tevékenység során kerül a felszínre, valamint bármely, az e törvény szerint alkalmazott berendezésben környezetvédelmi és műszaki biztonsági szempontból megfelelő módon, biztonságosan felhasználható, ideértve a 26. pont szerinti gázfajtákat is.
+23. Földgáz: olyan természetes éghető gáz, amely a földkéregben keletkezett, bányászati tevékenység során kerül a felszínre, valamint bármely, az e törvény szerint alkalmazott berendezésben környezetvédelmi és műszaki biztonsági szempontból megfelelő módon, biztonságosan felhasználható, ideértve az LNG-t és a 26. pont szerinti gázfajtákat is.
 
 23a. Földgázbányászati célú vezeték: a földgáztermelésben, -előkészítésben és -feldolgozásban használt kútbekötő-, mezőbeli gerinc- és mezők közötti technológiai csővezeték.
 
@@ -96,11 +96,11 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 28. Földgáz-kiskereskedelem: e törvény III. Fejezete vonatkozásában az a tevékenység, amelynek során a földgázkereskedő a földgázt közvetlenül a felhasználónak adja el.
 
-29. Földgázipari tevékenység: e törvényben szabályozott engedély- vagy bejelentésköteles tevékenység.
+29. Földgázipari tevékenység: e törvényben szabályozott engedély-, bejelentés- vagy regisztrációköteles tevékenység.
 
 30. Földgázipari vállalkozás: az a földgázipari tevékenységet folytató természetes személy, aki az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államnak az állampolgára, továbbá olyan, az ezen államokban jogszerűen nyilvántartásba vett vállalkozás, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) szerinti gazdasági társaság, a külföldi székhelyű vállalkozások magyarországi fióktelepeiről és kereskedelmi képviseleteiről szóló törvény szerinti fióktelep, szövetkezet vagy európai részvénytársaság, amely földgázipari tevékenységet folytat.
 
-31. Földgáztárolás: a földgáz engedély alapján végzett tárolása.
+31. Földgáztárolás: a földgáz engedély alapján végzett tárolása, ide nem értve az LNG-terminál tárolói létesítményben történő tárolást.
 
 32. Földgáztároló: az a besajtoló és kitermelő technológiai létesítménnyel ellátott földalatti természetes földtani szerkezet, mesterségesen kialakított földalatti üreg, vagy a földfelszínen létesített építmény, amely földgáz tárolására alkalmas.
 
@@ -132,13 +132,13 @@ c) ügyletek klíringjével és garantálásával kapcsolatos szolgáltatások n
 
 41. Integrált földgázipari vállalkozás:
 
-a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás vagy a földgáztárolás mellett egyidejűleg a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
+a) Vertikálisan integrált vállalkozás: olyan földgázipari vállalkozás vagy vállalkozások csoportja, amelyek irányítására közvetlenül vagy közvetve ugyanazon személy vagy személyek jogosultak, és ahol a földgázipari vállalkozás vagy vállalkozáscsoport a földgázszállítás, a földgázelosztás, az LNG-létesítmény üzemeltetés (kivéve LNG-létesítmény üzemeltető felhasználónál) vagy a földgáztárolás mellett egyidejűleg az LNG-kereskedelem, a földgáztermelés és a földgáz-kereskedelem közül legalább az egyik tevékenységet végzi, vagy arra engedéllyel rendelkezik. A vertikálisan integrált vállalkozás részének minősül az említett vállalkozás vagy vállalkozások csoportja felett közvetlen irányítást gyakorló személy vagy személyek is.
 
-b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedély- vagy bejelentésköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
+b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás, amely a földgáztermelést, vagy az e törvény szerinti engedély-, bejelentés- vagy regisztrációköteles tevékenységek közül legalább az egyik tevékenységet végzi, valamint egyéb nem földgázipari tevékenységet is folytat.
 
 41a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat.
 
-42. Kapacitás: a szállítóvezeték és az elosztóvezeték adott pontjának, a földgáztároló betáplálási-kiadási pontjának időegységre vonatkoztatott teljesítőképessége, valamint a földgáztároló tárolási képessége.
+42. Kapacitás: a szállítóvezeték és az elosztóvezeték adott pontjának, a földgáztároló betáplálási-kiadási pontjának, az LNG-létesítmény együttműködő földgázrendszerbe történő földgáz betáplálási pontjának időegységre vonatkoztatott energiatovábbítási teljesítőképessége, valamint a földgáztároló tárolási képessége, továbbá az LNG-létesítmény átfejtő és újragázosító képessége.
 
 43. Kapacitáslekötési platform: olyan, interneten keresztül elérhető elektronikus felület, amelyen a rendszerhasználó a betáplálási-kiadási pont szabad kapacitását kötheti le.
 
@@ -160,11 +160,31 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 48. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás.
 
-49. Lekötött kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló technikai kapacitásának az a része, amelyet adott kapacitáslekötési időszakra a rendszerhasználó rendszerhasználati szerződéssel leköt.
+49. Lekötött kapacitás: a betáplálási-kiadási pont, valamint a földgáztároló és az LNG-létesítmény technikai kapacitásának az a része, amelyet adott kapacitáslekötési időszakra a rendszerhasználó rendszerhasználati szerződéssel leköt.
 
-49a. Másodlagos kapacitáskereskedelem: a lekötött, de fel nem használt kapacitás továbbértékesítése.
+49a. LNG: cseppfolyósított földgáz.
 
-49b. Nem piaci intézkedések: a (EU) 2017/1938 európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
+49b. LNG-kereskedelem: LNG üzletszerű, ellenérték fejében, nem saját felhasználási célra történő vásárlása és értékesítése földgáz-kereskedelmi engedély alapján.
+
+49c. LNG-létesítmény üzemeltető felhasználó: olyan LNG-létesítmény-üzemeltető, amely regisztrációköteles tevékenységként LNG-t mint üzemanyagot kizárólag saját felhasználás céljából vásárol LNG-szállító vállalkozástól, vagy LNG-szállító vállalkozástól átfejtett saját célra vásárolt LNG-ből újragázosítással saját célra földgázt állít elő.
+
+49d. LNG-létesítmény-üzemeltető: az a természetes vagy jogi személy, aki vagy amely a földgáz cseppfolyósításának, vagy az LNG behozatalának, átfejtésének és újragázosításának a feladatát végzi, valamint az LNG-létesítmény üzemeltetéséért felelős.
+
+49e. LNG-létesítmény: olyan terminál, amelyet földgáz cseppfolyósítására, illetve cseppfolyósított földgáz behozatalára, átfejtésére, valamint újragázosítására használnak, beleértve a kiegészítő szolgáltatásokat és az ideiglenes tárolást is, amelyekre az újragázosítási folyamatnál, illetve a szállítási rendszerre ezt követően történő átvitelhez van szükség, kivéve az LNG-terminálok tárolásra szolgáló részét.
+
+49f. LNG-szállító vállalkozás: olyan vállalkozás, amely az LNG-létesítmény részére közúton, vasúton, légi vagy vízi úton LNG-t szállít LNG-kereskedő közreműködésével – jogszabály szerinti – engedély birtokában.
+
+49g. LNG-terminál-tárolói létesítmény: az LNG-létesítmény telephelyén vagy azon kívül elhelyezkedő – regisztrációköteles tevékenységként – földgáz ideiglenes tárolására szolgáló létesítmény.
+
+49h. Másodlagos kapacitáskereskedelem: a lekötött, de fel nem használt kapacitás továbbértékesítése.
+
+49i. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás, amelyből nap-, szél-, légtermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából nyert energia – beleértve a biogázból (hulladéklerakóból, illetve szennyvízkezelő létesítményből származó, valamint az egyéb szerves anyagokból előállított éghető gázból) nyert energiát – állítható elő.
+
+49j. Megújuló gáz: megújuló energiaforrásból előállított gáz, beleértve a nem biológiai eredetű, gáznemű megújuló tüzelőanyagot is.
+
+49k. Megújulóhőenergia-közösség: olyan – természetes személyekből, kis- és középvállalkozásokból álló – jogi személy, amelynek elsődleges célja nem profit termelése, hanem az, hogy környezeti, gazdasági, szociális-közösségi szempontból részvényesei, tagjai, illetve működési területének környéke javát szolgálja azzal, hogy jogosult megújuló energiaforrásból energiát termel, fogyaszt, tárol vagy értékesít, továbbá a tulajdonában levő, illetve általa fejlesztett megújulóenergia-projekt által termelt fűtési, illetve hűtési energiát a megújulóhőenergia-közösségen belül megoszt. A helyi önkormányzat a jogi személy tagja lehet.
+
+49l. Nem piaci intézkedések: az (EU) 2017/1938 európai parlamenti és tanácsi rendelet VIII. mellékletében meghatározott intézkedések.
 
 50. Nominálás: a betáplálási-kiadási ponton, valamint az összekapcsolási ponton betáplálni vagy vételezni tervezett földgázmennyiség gáznapra vagy gáznapon belüli időszakra történő megadása a lekötött kapacitásokra figyelemmel, a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerint.
 
@@ -174,13 +194,15 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 50c. Piacműködtető: az érintett piac vonatkozásában olyan szabályrendszert működtető gazdálkodó szervezet, amely az érintett piacon biztosítja, hogy a piaci szereplők földgázra vonatkozó vételi és eladási szándéka találkozzon, szerződést eredményezzen, ideértve azt a tevékenységet, amikor egyben vételi vagy eladási szándékkal piaci szereplőként is megjelenik.
 
-51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
+50d. Regisztrációköteles tevékenység: a Hivatalnál regisztrációs kötelezettség alapján végezhető nem engedélyköteles földgázipari tevékenység.
 
-51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető – beleértve a határkeresztező gázvezetéken földgázt átszállító külföldi székhelyű szállítási rendszerüzemeltetőt is –, aki rendszerhasználati szerződés alapján a földgázrendszer kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
+51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval, az LNG-létesítmény üzemeltetőjével vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
+
+51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető – beleértve a határkeresztező gázvezetéken földgázt átszállító külföldi székhelyű szállítási rendszerüzemeltetőt is –, aki rendszerhasználati szerződés alapján a földgázrendszer vagy az LNG-létesítmény kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
 
 52. Rendszerirányítás: az együttműködő földgázrendszer e törvényben meghatározott irányítási és koordinációs feladatainak ellátása.
 
-52a. Rendszerüzemeltető: a szállítási rendszerüzemeltető, a földgáztárolói engedélyes és a földgázelosztó.
+52a. Rendszerüzemeltető: a szállítási rendszerüzemeltető, az LNG-létesítmény üzemeltető, a földgáztárolói engedélyes és a földgázelosztó.
 
 52b. Részleges szigetüzem: olyan elosztóvezeték, amelybe földgáztermelői vezetékről és szállítóvezetékről együttesen biztosítható a földgáz fizikai betáplálása.
 
@@ -196,11 +218,13 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 53b. Szállítási rendszerirányító: az együttműködő földgázrendszer e törvényben meghatározott képviseleti, irányítási és koordinációs feladatainak ellátására a Hivatal által kijelölt szállítási rendszerüzemeltető.
 
-54. Szállítóvezeték: az a csővezeték a tartozékaival együtt, amelyen keresztül a földgáz továbbítása történik, és amelynek kezdőpontja a rendszer-összekötési pont, összekapcsolási pont, vagy a földgáztároló vagy a földgáztermelő üzem szállítói betáplálási pontja, végpontja pedig a rendszer-összekötési pont, összekapcsolási pont, a gázátadó állomás szállítói kiadási pontja, a szállítóvezetékről közvetlenül ellátott felhasználó telekhatára vagy a földgáztároló szállítói kiadási pontja.
+54. Szállítóvezeték: az a csővezeték a tartozékaival együtt, amelyen keresztül a földgáz továbbítása történik, és amelynek kezdőpontja a rendszer-összekötési pont, összekapcsolási pont a földgáztároló, az LNG-létesítmény vagy a földgáztermelő üzem szállítói betáplálási pontja, végpontja pedig a rendszer-összekötési pont, összekapcsolási pont, a gázátadó állomás szállítói kiadási pontja, a szállítóvezetékről közvetlenül ellátott felhasználó telekhatára vagy a földgáztároló szállítói kiadási pontja.
 
 54a. Szállítóvezeték-létesítő: szállítási rendszerüzemeltetési engedéllyel nem rendelkező földgázipari vállalkozás, amely e törvény szerinti szállítóvezeték létesítési engedély alapján szállítóvezetéket létesíthet.
 
-55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben a földgáz-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
+54b. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja, hogy az adott termelő egység által előállított gáz meghatározott mennyisége megújuló gáznak minősül.
+
+55. Szervezett földgázpiac: a szervezett földgázpiaci engedélyes által működtetett, a regionális földgázforgalmat elősegítő kereskedési rendszer, amelyben a földgáz-kereskedelem, LNG-kereskedelem és az ahhoz kapcsolódó ügyletek megkötése és lebonyolítása szabványosított formában történik.
 
 55a. Szigetüzem: olyan elszigetelt földgáz vezetékrendszer, amely csak termelői rendszerhez csatlakozik és a földgáz fizikai betáplálása az együttműködő földgázrendszerről nem biztosítható.
 
@@ -220,17 +244,19 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 61. Teljesítmény: a felhasználók időegységre eső gázfogyasztása, gázfelhasználása.
 
+61a. Tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. alpontjában meghatározott személy.
+
 62. Terület: a helységnévtárban külön nem nevesített, önálló helyrajzi számmal, számokkal azonosított földrészlet.
 
 63. Újranominálás: a gáznapra vagy gáznapon belül egy meghatározott időszakra vonatkozó nominálásnak a 312/2014/EU bizottsági rendeletben, valamint az Üzemi és Kereskedelmi Szabályzatban rögzített eljárási rend szerint történő módosítása.
 
 64. Üzemi és Kereskedelmi Szabályzat: az együttműködő földgázrendszer technikai működésére, valamint a kereskedelmi folyamatra vonatkozó főbb szabályokat tartalmazó, a Hivatal által jóváhagyott szabályzat.
 
-65. Üzemzavar: az együttműködő földgázrendszer részét képező infrastruktúra működésében bekövetkező, a normál üzemmenettől eltérő, a földgáz termelését, tárolását, szállítását vagy elosztását veszélyeztető, korlátozó vagy ellehetetlenítő esemény.
+65. Üzemzavar: az együttműködő földgázrendszer részét képező infrastruktúra működésében bekövetkező, a normál üzemmenettől eltérő, a földgáz termelését, tárolását, szállítását vagy elosztását, illetve az LNG-létesítmény üzemeltetését veszélyeztető, korlátozó vagy ellehetetlenítő esemény.
 
 66. Üzletszabályzat: az engedélyes általános szerződési feltételeit, valamint a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott elemeket tartalmazó, a Hivatal által jóváhagyott szabályzat.
 
-67. Vásárolt kapacitás: felhasználási helyen vagy szállítóvezetékhez közvetlenül csatlakozó felhasználó esetén a szállítórendszer érintett kiadási pontján a felhasználó, vagy földgázszállító vagy földgázelosztó rendszer betáplálási pontján a földgáztermelő által megvásárolt vagy egyéb jogcímen, igazolt módon megszerzett kapacitás.
+67. Vásárolt kapacitás: felhasználási helyen vagy szállítóvezetékhez közvetlenül csatlakozó felhasználó esetén a szállítórendszer érintett kiadási pontján a felhasználó, vagy földgázszállító vagy földgázelosztó rendszer betáplálási pontján a földgáztermelő vagy LNG-létesítmény üzemeltető által megvásárolt vagy egyéb jogcímen, igazolt módon megszerzett kapacitás.
 
 68. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a földgázellátásban megkülönböztetett feltételek szerint vehetnek részt.
 
@@ -242,7 +268,7 @@ b) az alapvető szociális szolgáltató,
 
 c) a távhőtermelő, a távhőszolgáltatásról szóló törvény (a továbbiakban: Tszt.) szerinti lakossági felhasználó vagy az alapvető szociális szolgáltató ellátása érdekében termelt, és kizárólag földgáz felhasználásával előállítható hő előállításához szükséges földgázkapacitás-igényének megfelelő földgáz mértékéig.
 
-69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók vagy egyetemes szolgáltatásra jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
+69. Végső menedékes szolgáltatás: ideiglenes földgázellátás, amelyet a Hivatal által kijelölt földgázkereskedő biztosít azon egyetemes szolgáltatók, egyetemes szolgáltatásra jogosult felhasználók és egyetemes szolgáltatásra nem jogosult felhasználók részére, akiket földgázkereskedőjük valamilyen okból nem képes ellátni.
 
 70. Vezetékes PB-gáz szolgáltatás: a felhasználók részére PB-gáz csővezetéken keresztül történő elosztása és értékesítése.
 

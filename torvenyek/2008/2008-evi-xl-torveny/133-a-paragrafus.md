@@ -28,7 +28,7 @@
 
 14. összehangolt védelmi tevékenység elrendelése esetén a földgázipari vállalkozás e törvényben, a végrehajtására kiadott kormányrendeletben és a Hivatal elnöke által kiadott rendeletben, határozatban foglalt, a földgázipari tevékenységből származó egyes kötelezettségei alóli mentesítése – ideértve a más földgázipari vállalkozás jogának korlátozását is – szabályait.
 
-15. a megújuló energiaforrásból, továbbá földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázokból származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt gázból származó energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a számlatulajdonosok adatainak közzétételére vonatkozó részletes szabályokat,
+15.
 
 16. az energetikai szabályozási tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, az energetikai szabályozási tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai szabályozási tesztkörnyezetben való részvétel meghosszabbításának feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezmények részletes szabályait,
 

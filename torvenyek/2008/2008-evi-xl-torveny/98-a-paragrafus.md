@@ -26,4 +26,4 @@ b) a korlátozás okairól legkésőbb a korlátozás feloldását követő 8 na
 
 (9) Vészhelyzeti szint esetén a nem piaci intézkedések végrehajtásából származó károkért az engedélyeseket kártalanítási kötelezettség nem terheli.
 
-(10) A korlátozásra vonatkozó részletes szabályokat, a korlátozási kategóriákat, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket a Kormány rendeletben határozza meg.
+(10) A korlátozásra vonatkozó részletes szabályokat, a korlátozási kategóriákat és kivételeket, a besorolás szabályait, valamint a korlátozható felhasználókra vonatkozó jogokat és kötelezettségeket a Kormány rendeletben határozza meg.

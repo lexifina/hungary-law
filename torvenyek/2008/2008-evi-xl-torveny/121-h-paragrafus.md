@@ -26,7 +26,7 @@ c) a Ptk. 8:2. § (1) bekezdése szerinti többségi befolyás.
 
 (3) Az (1) bekezdés b) pontja alkalmazásában
 
-a) a földgáztermelőre vonatkozó rendelkezések a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET.) szerinti termelőre,
+a) a földgáztermelőre vonatkozó rendelkezések a VET. szerinti termelőre,
 
 b) a földgázkereskedőre vonatkozó rendelkezések a VET. szerinti kereskedelmi engedélyesre,
 

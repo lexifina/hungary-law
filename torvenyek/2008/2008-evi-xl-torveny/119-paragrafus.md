@@ -22,7 +22,7 @@ b) bírságot szabhat ki a tulajdonosra, vagy az üzemeltetőre,
 
 c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jogszabályban előírt feladatok teljesítésére, és az engedélyes tevékenység folytatására.
 
-(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a hazai termelésű földgázt termelőre és a 72. § (16) bekezdés b) pontja szerint eljáró földgáztermelőre is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
+(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a hazai termelésű földgázt termelőre, a 72. § (16) bekezdés b) pontja szerint eljáró földgáztermelőre és a megújuló gázok termelőire is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
 
 (2b) A Hivatal a szállítóvezeték tulajdonosával szemben az (1) bekezdésben meghatározott jogszabályokban és uniós jogi aktusokban, valamint a Hivatal által kiadott határozatokban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
@@ -44,10 +44,10 @@ c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jo
 
 (6a) A Tszt. szerinti engedélyes, mint felhasználó ellátására történő (6) bekezdés szerinti kényszerkijelölés egy alkalommal 90 napra történhet. A kijelölt földgázkereskedő köteles biztosítani a földgázforrást a felhasználó részére. A kijelölt földgázkereskedő a kijelölés időtartamára a gázátadó állomási és az elosztóvezetéki kiadási pont lekötött kapacitását másodlagos kapacitáskereskedelem formájában veszi át a lekötött kapacitással rendelkező rendszerhasználótól.
 
-(7) A Hivatal más engedélyes kijelölése esetén az engedélyest, vagy ha a szállító- és az elosztóvezeték, valamint a tároló tulajdonosa nem az engedélyes, akkor a földgázrendszer tulajdonosát kötelezheti arra, hogy a
+(7) A Hivatal más engedélyes kijelölése esetén az engedélyest, vagy ha a szállító- és az elosztóvezeték, valamint a tároló és az LNG-létesítmény tulajdonosa nem az engedélyes, akkor a földgázrendszer tulajdonosát kötelezheti arra, hogy a
 
 a) felhasználók egyetemes szolgáltatás keretében történő folyamatos ellátásához, valamint
 
-b) folyamatos és biztonságos földgázszállításhoz, földgázelosztáshoz, földgáztároláshoz és a telephelyi szolgáltatáshoz
+b) folyamatos és biztonságos földgázszállításhoz, földgázelosztáshoz, földgáztároláshoz, LNG-létesítmény üzemeltetéséhez és a telephelyi szolgáltatáshoz
 
 szükséges eszközeit a kijelölt engedélyesnek üzemeltetésre adja át, továbbá a rendszerüzemeltetői és kereskedelmi tevékenység gyakorlásához szükséges nyilvántartásokat, adatokat bocsássa rendelkezésére. A Hivatal határozatában meghatározza az eszközök használatának ellenértékét, továbbá az iratok és az adatok felhasználásának rendjét.

@@ -4,6 +4,8 @@
 
 (2) A rendszerhasználó a földgáztároló szabad kapacitását a földgáztárolói engedélyes informatikai platformján kötheti le a földgáztárolói engedélyes üzletszabályzatában meghatározott eljárásrend szerint.
 
+(2a) A rendszerhasználó az LNG-létesítmény szabad kapacitását az LNG-létesítmény-üzemeltető engedélyes informatikai platformján vagy a vele szerződött kapacitáslekötési platformon kötheti le az LNG-létesítmény-üzemeltető engedélyes üzletszabályzatában, illetve a kapacitáslekötési platform működési szabályzatában meghatározott eljárásrend szerint.
+
 (3) A rendszerhasználó a földgázelosztó rendszeren a felhasználási hely kapacitását kötheti le a földgázelosztó engedélyes üzletszabályzatában rögzített eljárásrend szerint.
 
 (4) A szabad kapacitások lekötésének rendszerüzemeltetőkre vonatkozóan egységesített szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
@@ -16,7 +18,7 @@
 
 (7) A földgáztárolói engedélyes szabad kapacitásait tárolói évre és tárolói éven belüli, üzletszabályzatában meghatározott időszakra ajánlja fel lekötésre.
 
-(8) A rendszer-összekötési pont, valamint a szállítóvezeték és a földgáztároló csatlakozási pontján a szállítói betáplálási-kiadási pont kapacitástermékeit a 2017/459 bizottsági rendeletben meghatározott aukciós naptár szerint vagy ha a 2017/459 bizottsági rendelet ettől eltérő időpontot megenged, a Hivatal által jóváhagyott kapacitásallokációs időpontban, az egyéb betáplálási-kiadási pontok és a tároló szabad kapacitásait az e törvény végrehajtásáráról szóló kormányrendeletben rögzített időpontokban kell lekötésre felajánlani.
+(8) A rendszer-összekötési pont, valamint a szállítóvezeték és a földgáztároló csatlakozási pontján a szállítói betáplálási-kiadási pont kapacitástermékeit a 2017/459 bizottsági rendeletben meghatározott aukciós naptár szerint vagy ha a 2017/459 bizottsági rendelet ettől eltérő időpontot megenged, a Hivatal által jóváhagyott kapacitásallokációs időpontban, az egyéb betáplálási-kiadási pontok, az LNG-létesítmény és a tároló szabad kapacitásait az e törvény végrehajtásáráról szóló kormányrendeletben rögzített időpontokban kell lekötésre felajánlani.
 
 (9) A határkeresztező gázvezetéknek valamely szomszédos nem EU-tagállam földgázszállító rendszeréhez kapcsolódó betáplálási-kiadási pontjára a rendszer-összekötési pontra vonatkozó rendelkezéseket kell alkalmazni, figyelemmel a 2017/459 bizottsági rendelet előírásaira.
 

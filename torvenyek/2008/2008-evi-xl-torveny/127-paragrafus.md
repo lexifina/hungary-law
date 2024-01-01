@@ -1,16 +1,16 @@
 127. § A Hivatal a földgázellátással, a földgázellátás biztonságának és a földgázpiac hatékony működésének felügyeletével, továbbá az egyenlő bánásmód követelményének érvényesítésével, és a hatásos verseny elősegítésével kapcsolatos feladatai körében
 
-a) kiadja, – jogszabályban meghatározott esetekben – módosítja, vagy visszavonja az e törvény szerint engedélyköteles tevékenységek gyakorlásához szükséges engedélyeket, előzetesen hozzájárul a célvezetékek létesítéséhez;
+a) kiadja, – jogszabályban meghatározott esetekben – egységes szerkezetbe foglalva módosítja, vagy visszavonja az e törvény szerint engedélyköteles tevékenységek gyakorlásához szükséges engedélyeket, regisztrációs dokumentumokat, előzetesen hozzájárul a célvezetékek létesítéséhez;
 
 b) jóváhagyja, illetve e törvényben meghatározott esetekben hivatalból módosítja az Üzemi és Kereskedelmi Szabályzatot, a kereskedési platform szabályzatát, az egyensúlyozó platform szabályzatát, a kapacitáslekötési platform szabályzatát, a belső kiválasztási szabályzatot, és a szervezett földgázpiaci szabályzatot, azok módosításait, valamint a jóváhagyását feltételhez kötheti;
 
 c) jóváhagyja az engedélyesek által kidolgozott üzletszabályzatokat és azok módosításait, valamint a jóváhagyást feltételhez köti vagy megtagadja, a 113. § (1a) bekezdése alapján kérelemre mentesít az üzletszabályzat készítés kötelezettsége alól, továbbá a 113. § (3) bekezdésében foglalt esetben az üzletszabályzatot hivatalból módosítja;
 
-d) jóváhagyja a szállítási rendszerüzemeltető, a földgázelosztó, illetve a földgáztároló engedélyes által benyújtott megfelelési programokat, és azok módosításait, jóváhagyja az éves megfelelési jelentést, továbbá jóváhagyja a szállítási rendszerüzemeltető megfelelési ellenőrének kinevezését és megbízatásának feltételeit, időtartamát, valamint megszüntetését;
+d) jóváhagyja a szállítási rendszerüzemeltető, a földgázelosztó, az LNG-létesítmény üzemeltető, illetve a földgáztároló engedélyes által benyújtott megfelelési programokat, és azok módosításait, jóváhagyja az éves megfelelési jelentést, továbbá jóváhagyja a szállítási rendszerüzemeltető megfelelési ellenőrének kinevezését és megbízatásának feltételeit, időtartamát, valamint megszüntetését;
 
 e) ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, a 715/2009/EK rendeletben, a Hivatal által kiadott határozatokban, az Üzemi és Kereskedelmi Szabályzatban, a kereskedési platform szabályzatban, a kapacitáslekötési platform szabályzatban, a szervezett földgázpiaci szabályzatban, üzletszabályzatokban, valamint a megfelelési programokban meghatározott kötelezettségek betartását, különösen a tevékenységek szétválasztásának teljesítésére és ennek keretében a keresztfinanszírozás-mentes működés érvényesülésére vonatkozó szabályokat, továbbá a 128. § szerinti eljárásban ellenőrzi a szállítási rendszerüzemeltető szétválasztási követelményeknek való megfelelését;
 
-f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat;
+f) piacfelügyeleti tevékenysége során figyelemmel kíséri a földgázpiaci verseny jellemzőit, piacelemzést és hatósági ellenőrzést végez, figyelemmel kíséri továbbá a szállítási rendszerüzemeltető és a vertikálisan integrált vállalkozás közötti kommunikációt, valamint a kereskedelmi és pénzügyi kapcsolatokat, jóváhagyja a szerződéseket;
 
 g) ellátja a jelentős piaci erővel rendelkező engedélyes azonosításával, és az ilyen jellegű piac szabályozásával kapcsolatos, e törvény által hatáskörébe utalt teendőket;
 
@@ -34,13 +34,13 @@ kb) ellenőrzi – a szállítási rendszerirányító által beterjesztett – 
 
 kc) folyamatosan figyelemmel kíséri a 10 éves fejlesztési terv megvalósítását,
 
-kd) a földgázelosztó, illetve a földgáztároló engedélyes által nem vállalt, de indokolt fejlesztések elvégzésére jogosult pályázatot meghirdetni és elbírálni,
+kd) a földgázelosztó, az LNG-létesítmény üzemeltető, illetve a földgáztároló engedélyes által nem vállalt, de indokolt fejlesztések elvégzésére jogosult pályázatot meghirdetni és elbírálni,
 
 ke) a 83/A. § (1) bekezdése szerinti esetben köteles pályázatot kiírni;
 
 l) az egyes engedélyesekre – a jogszabályban meghatározott keretek között – határozatban állapítja meg az engedélyköteles tevékenység folytatásának minimális minőségi követelményeit, valamint elvárt színvonalát, a felhasználókkal való kapcsolattartás módjára vonatkozó minimális követelményeket, a felhasználók tájékoztatásának részletes szabályait, továbbá a rendszerüzemeltetők vonatkozásában az együttműködő földgázrendszer biztonságos üzemeltetésére vonatkozó minimális követelményeket;
 
-ly) elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
+ly) elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a földgázellátás jellemzőinek felmérését;
 
 m) dönt a rendszerüzemeltetővel, illetve a telephelyi engedélyessel szemben felmerülő, csatlakozással vagy az együttműködő földgázrendszer megfelelő minőségben való rendelkezésre állásának kérdésével kapcsolatos felhasználói panaszok ügyében; ellenőrzi a felhasználói igények kielégítését és a felhasználók által a hálózathoz való csatlakozás érdekében befizetett csatlakozási díj felhasználását;
 
@@ -50,7 +50,7 @@ ny) ellátja a földgázpiacot érintően az 1227/2011/EU európai parlamenti é
 
 o) a folyamatos és biztonságos földgázellátás fenntartása érdekében folyamatosan ellenőrzi
 
-oa) a földgázvezetékek és a földgáztárolók kapacitását, a földgázkereskedő rendelkezésre álló gázforrásait, a tárolt földgáz mennyiségeket, és a szállítóvezeték egyensúlyozáshoz rendelkezésre álló eszközeit, gázforrásait,
+oa) a földgázvezetékek, az LNG-létesítmények és a földgáztárolók kapacitását, a földgázkereskedő rendelkezésre álló gázforrásait, a tárolt földgáz mennyiségeket, és a szállítóvezeték egyensúlyozáshoz rendelkezésre álló eszközeit, gázforrásait,
 
 ob) az együttműködő földgázrendszer kapacitásában beálló változásokat,
 
@@ -62,9 +62,19 @@ p) e törvény szerint jóváhagyja az engedélyes földgázipari vállalkozást
 
 q) eleget tesz a jogszabályban meghatározott adatgyűjtési, adatszolgáltatási és jelentéstételi kötelezettségének;
 
-r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja a korlátozási besorolást, a szállítási rendszerirányító javaslatára dönt a kereskedési platformon, az egyensúlyozó platformon, valamint a szervezett földgázpiacon folyó kereskedés felfüggesztéséről, valamint válságkezelési javaslatot tesz a miniszternek;
+r) a szállítási rendszerirányító javaslatának figyelembevételével jóváhagyja az országos szintű egységes korlátozási besorolás rendszertervét, jóváhagyja az országos szintű egységes korlátozási besorolás informatikai rendszerének üzembe helyezését és működtetését, továbbá dönt a földgázellátás biztonságának megőrzését szolgáló kormányrendelet szerinti 2. kivételbe sorolható nemzetgazdasági szempontból stratégiai jelentőségű felhasználói teljesítmények igazolásáról;
 
-s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
+s) jogosult jogszabályban meghatározott módon:
+
+sa) az engedélyes társaság, a regisztrációköteles tevékenységet végző, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve az üzleti titok védelméről szóló 2018. évi LIV. törvény 1. § (1) bekezdése szerinti üzleti titkot, valamint egyéb törvény által védett titkot tartalmazó iratokat is –,
+
+sb) a tevékenységekre vonatkozó iratokról – ideértve az sa) pont szerinti iratokat is – másolatot, kivonatot készíteni vagy készíttetni,
+
+sc) feladatai ellátásához az engedélyes társaságtól, a regisztrációköteles tevékenységet végzőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni,
+
+sd) állami vagy közfeladata ellátása során a minősített adat védelméről szóló törvény szerinti feltételek szerint a minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére, valamint
+
+se) ellenőrzési feladatainak teljesítéséhez szükséges mértékben a földgázipari tevékenységet folytató társaságok tényleges tulajdonosi hátterét megismerni, ezzel kapcsolatban eseti és rendszeres adatszolgáltatást előírni;
 
 sz) jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást ad ki;
 

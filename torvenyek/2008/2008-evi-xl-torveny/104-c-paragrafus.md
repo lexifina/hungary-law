@@ -1,0 +1,1 @@
+104/C. § A rendszerüzemeltető által nyújtott választható szolgáltatásokat, alkalmazásuk szabályait és azok díját a Hivatal a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározottak szerint határozatban hagyja jóvá.

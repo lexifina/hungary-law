@@ -16,10 +16,14 @@ b) a (2) bekezdés b) pontja szerinti módszertani útmutatót az éves kapacit�
 
 a honlapján közzéteszi.
 
+(3a) A (2) bekezdés szerinti módszertani útmutatót a Hivatal szükség szerint aktualizálja. A módosítás során kikéri az érintett engedélyesek és felhasználók reprezentatív érdekképviseleteinek véleményét.
+
 (4) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel az (1) bekezdés szerinti rendeletre és a módszertani útmutatókra – határozatban állapítja meg, legkésőbb az éves kapacitásaukció előtt 30 nappal, földgázelosztási díj és elosztási átszállítási díj esetén az ÜKSZ szerinti éves kapacitáslekötési kérelem beadásának napja előtt 30 nappal. A Hivatal a rendszerhasználati díjak megállapítására irányuló eljárás megindításakor felhívja az ügyfeleket nyilatkozataiknak az eljárás megindításától számított 30 napon belül történő megtételére, amely határidő jogvesztő. A Hivatal a határozatát a honlapján a rendszerhasználati díjak alkalmazhatósága előtt legalább 40 nappal közzéteszi.
 
 (4a) A Hivatal a szállítási rendszerüzemeltetési díjjal kapcsolatos árkedvezményekre, szorzókra és szezonális faktorokra vonatkozó döntését – a (4) bekezdés szerinti eljárási szabályok és határidők alkalmazásával – határozatban hozza meg.
 
 (5) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának feltételeit a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 15 napnak el kell telnie.
+
+(5a) A Hivatal az egyetemes szolgáltatás ára és az egyetemes szolgáltatáshoz kapcsolódó külön díjak tekintetében az árszabályozási ciklus induló árainak meghatározását megelőző költség-felülvizsgálatra vonatkozóan módszertani útmutatót ad ki a következő árszabályozási ciklus kezdetét megelőző év február 15-ig.
 
 (6) Az (1) és (5) bekezdések szerinti rendeletek, valamint a módszertani útmutatók előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.

@@ -24,6 +24,6 @@ d) a Felajánlási rendeletben nem szabályozott szerződéses feltételeket a f
 
 (9)
 
-(10) A (3) bekezdés szerinti szerződés 2024. szeptember 30-áig meghosszabbodik.
+(10) A (3) bekezdés szerinti szerződés 2026. szeptember 30-áig meghosszabbodik.
 
 (11) Az egyetemes szolgáltató köteles az egyetemes szolgáltatót ellátó földgázkereskedő által megjelölt ellátási időszakra vonatkozóan megadni a szerződés alapján történő vételezésének tervezett mennyiségeit havi bontásban. A Felajánlási rendelet alapján az egyetemes szolgáltató által a Hivatal részére megadott, az egyetemes szolgáltatót ellátó földgázkereskedőtől a szerződés alapján beszerezni tervezett negyedéves mennyiségek legfeljebb 5%-kal térhetnek el az adott negyedév hónapjaira bejelentett mennyiségek összegétől.

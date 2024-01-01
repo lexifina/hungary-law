@@ -10,6 +10,8 @@
 
 (3) A szállítóvezetékeken a földgáz minőségének mérését és tanúsítását a szállítási rendszerüzemeltető biztosítja. Szigetüzem vagy részleges szigetüzem esetén a minőség mérését és bizonylatolását az Üzemi és Kereskedelmi Szabályzatban meghatározott módon kell végezni.
 
+(3a) A szállító- és elosztóvezetékbe, továbbá a földgáztárolóba bekeverésre kerülő hidrogén mérésének és bizonylatolásának részletszabályait a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet tartalmazza.
+
 (4) A felhasználóknál az elszámolási méréseket a szállítási rendszerüzemeltető, a földgázelosztó és a telephelyi szolgáltató a saját működési területén a saját költségére elvégzi.
 
 (5) A felhasználó köteles a szállítási rendszerüzemeltető és a földgázelosztó vagy megbízottja részére a mérő leolvasását, ellenőrzését, le- és felszerelését lehetővé tenni.

@@ -1,3 +1,3 @@
-105/A. § (1) A rendszerüzemeltető a Hivatal határozatában meghatározott rendszerhasználati díjat, csatlakozási díjat, külön díj ellenében végezhető szolgáltatások díjait, valamint a Hivatal elnöke által kiadott rendeletben szabályozott áralkalmazási feltételeket köteles alkalmazni.
+105/A. § (1) A rendszerüzemeltető a Hivatal határozatában meghatározott rendszerhasználati díjat, csatlakozási díjat, külön díj ellenében végezhető szolgáltatások díjait, a választható szolgáltatások díjait, valamint a Hivatal elnöke által kiadott rendeletben szabályozott áralkalmazási feltételeket köteles alkalmazni.
 
 (2) A földgáztárolói verseny elősegítése érdekében a Hivatal az e § szerint meghatározott földgáztárolási díj alkalmazása alól felmentést adhat. A felmentés alapján alkalmazandó tárgyalásos földgáztárolói hozzáférési díjra a szerződő felek megállapodása az irányadó.

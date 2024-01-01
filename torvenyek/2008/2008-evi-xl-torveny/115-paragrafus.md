@@ -6,6 +6,8 @@
 
 (4) A Hivatal az engedélyt az engedélyes kérelmére visszavonhatja.
 
+(4a) A Hivatal a földgázkereskedő kérelmére a működési engedélyt akkor vonja vissza, ha a földgázkereskedő igazolta, hogy ellátásában már nincs felhasználó vagy a felhasználó jövőbeni ellátása biztosított.
+
 (5) Az engedélyezési eljárásnak meg kell felelni az objektivitás és megkülönböztetés-mentesség elvének.
 
 (6) Az engedély kiadásának és módosításának részletes szabályait külön jogszabály tartalmazza.

@@ -1,10 +1,10 @@
-77. § (1) A rendszerüzemeltető az üzemeltetésében lévő szállító-, elosztóvezeték vagy földgáztároló esetében a kapacitáslekötést kizárólag akkor tagadhatja meg, ha
+77. § (1) A rendszerüzemeltető az üzemeltetésében lévő szállító-, elosztóvezeték, földgáztároló vagy LNG-létesítmény esetében a kapacitáslekötést kizárólag akkor tagadhatja meg, ha
 
 a) a rendszerhasználó nem biztosította az e törvényben, más jogszabályban vagy az Üzemi és Kereskedelmi Szabályzatban előírt feltételeket és garanciákat, vagy
 
 b) a hozzáférés biztosítása veszélyeztetné az életet vagy a vagyonbiztonságot.
 
-(2) A rendszerüzemeltető az üzemeltetésében lévő szállító-, elosztóvezetékhez vagy a földgáztárolóhoz való hozzáférést kizárólag akkor függesztheti fel, ha
+(2) A rendszerüzemeltető az üzemeltetésében lévő szállító-, elosztóvezetékhez vagy a földgáztárolóhoz és az LNG-létesítményhez való hozzáférést kizárólag akkor függesztheti fel, ha
 
 a) a szállítási rendszerirányító korlátozó intézkedést rendel el,
 

@@ -1,1 +1,1 @@
-### 127/B. §
+127/B. § A Hivatal az ellátás biztonságának megőrzésével és növelésével, a felhasználók érdekeinek védelmével, valamint a hatékony és fenntartható földgázpiaci verseny előmozdításával kapcsolatos feladatai körében az energiapolitikai célkitűzések, valamint a fenntartható fejlődés követelményeinek érvényesítésével összefüggő feladatai, továbbá a hidrogénnek a földgáz-infrastruktúrába történő betáplálásával kapcsolatos földgáz-oldali fejlesztésekkel kapcsolatos feladatainak a támogatására energetikai szabályozási tesztkörnyezetet működtet.

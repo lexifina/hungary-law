@@ -1,3 +1,9 @@
-34. § (1) Az egyetemes szolgáltatót a működési engedélyében meghatározott szolgáltatási területen lévő egyetemes szolgáltatást igénylő jogosultak tekintetében – az e törvény szerinti feltételekkel – egyetemes szolgáltatási szerződéskötési kötelezettség terheli. Az egyetemes szolgáltató köteles az új felhasználók esetében a szerződéskötési szándék bejelentésétől számított 30 napon belül az egyetemes szolgáltatásra jogosult felhasználóval a szerződést megkötni, és a szerződésben meghatározott időponttól a szolgáltatás nyújtását megkezdeni, ha az egyetemes szolgáltatásra jogosult felhasználó már csatlakozott a szállító- vagy az elosztóvezetékhez és a felhasználó átadta a kapacitás lekötésének a jogát az egyetemes szolgáltatónak.
+34. § (1) Az egyetemes szolgáltatót a működési engedélyében meghatározott szolgáltatási területen lévő egyetemes szolgáltatást igénylő jogosult felhasználó tekintetében – az e törvény és az e törvény végrehajtására kiadott kormányrendelet szerinti feltételekkel – egyetemes szolgáltatási szerződéskötési kötelezettség terheli a felhasználónak az e törvény végrehajtására kiadott kormányrendeletben meghatározott módon bejelentett szándéka esetén.
 
-(2) Az egyetemes szolgáltatási szerződés alapján az egyetemes szolgáltató köteles az (1) bekezdésben meghatározott időponttól kezdődően az egyetemes szolgáltatásra jogosult felhasználónak folyamatosan földgázt értékesíteni, a felhasználó pedig ennek ellenértékét rendszeresen megfizetni.
+(2) Az egyetemes szolgáltatási szerződés nem jön létre, ha az egyetemes szolgáltatásra jogosult felhasználó a kapacitáslekötési jogát az egyetemes szolgáltatónak nem adja át.
+
+(3) Az egyetemes szolgáltatási szerződés alapján az egyetemes szolgáltató az (1) bekezdésben meghatározott szerződés alapján az egyetemes szolgáltatásra jogosult felhasználónak folyamatosan földgázt értékesít, a felhasználó pedig ennek ellenértékét rendszeresen megfizeti.
+
+(4) Az egyetemes szolgáltatást igénybe vevő felhasználó a határozatlan időtartamra kötött egyetemes szolgáltatási szerződést 30 napos felmondási idővel írásban felmondhatja.
+
+(5) E § alkalmazásában jogosult felhasználónak a 32. § (1) bekezdése szerinti olyan felhasználót kell tekinteni, aki az egyetemes szolgáltató szolgáltatási területén elhelyezkedő felhasználási hely tekintetében igényli az egyetemes szolgáltatást.

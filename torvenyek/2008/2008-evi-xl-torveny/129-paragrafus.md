@@ -22,6 +22,8 @@ e) a III/A. Fejezetben szabályozott eljárásokban 15 hónap,
 
 f) a jelentős piaci erő eljárásban 8 hónap.
 
+g) az energetikai szabályozási tesztkörnyezethez kapcsolódó eljárásban 152 nap.
+
 (3)
 
 (4) A 127. § b), c), l) és ly) pontjában közvetlenül érintett az engedélyes.

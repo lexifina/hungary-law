@@ -29,3 +29,5 @@ a) a Hivatal garantált szolgáltatásra vonatkozó határozatában előírt hat
 b) a Hivatal ügyfélkapcsolati szolgáltatásminőség elvárt színvonalának és minőségi követelményének meghatározásáról szóló határozatában rögzített határidőket, illetve elvárt értékeket nem tartják be, vagy
 
 az ügyfélszolgálatuk felé indított hívás sikeres felépülésének időpontjától számított öt percen belül nem biztosítják az élőhangos bejelentkezést.
+
+(11) Az átadó egyetemes szolgáltató átvételt követően teljesítendő együttműködési kötelezettsége időtartamát, tartalmát és módját, továbbá a teljesítendő szolgáltatásminőségi követelmények körét és teljesítésük időtartamát a Hivatal határozatban állapítja meg.
