@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-168-00-00
 | 2018-01-01 | 2017. évi CLIX. törvény | 2012-168-00-00.4 |
 | 2021-01-01 | 2020. évi CXX. törvény | 2012-168-00-00.5 |
 | 2022-01-01 | 2021. évi LXVIII. törvény | 2012-168-00-00.6 |
+| 2024-01-01 | 2023. évi LXXXIII. törvény | 2012-168-00-00.7 |
