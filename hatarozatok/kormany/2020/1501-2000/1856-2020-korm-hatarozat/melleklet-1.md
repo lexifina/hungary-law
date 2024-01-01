@@ -1,42 +1,27 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (2) bekezdésében biztosított jogkörében eljárva 159 252 314 110 forint egyszeri átcsoportosítását rendeli el a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím (a továbbiakban: GVP előirányzat) terhére, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
+## a)[^1]
 
 ## b) a Kvtv. 79. §-ában biztosított jogkörében eljárva jóváhagyja a GVP előirányzatnak az a) alpont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 159 252 314 110 forinttal történő túlteljesülését;
 
-## c) az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 6 060 724 991 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 43. Központi Maradványelszámolási Alap cím terhére, a 2. melléklet szerint;
+## c)[^2]
 
-## Felelős: pénzügyminiszter
+## d)[^3]
 
-## Határidő: azonnal
-
-## d) az Áht. 33. § (2) bekezdésében és a Kvtv. 4. § (6) bekezdésében biztosított jogkörében eljárva 3 995 232 520 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVI. Járvány Elleni Védekezési Alap fejezet, 1. Járvány Elleni Védekezés Központi Tartaléka cím terhére, a 3. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## e) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 21 000 000 forint egyszeri átcsoportosítását rendeli el, a 4. melléklet szerint.
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## a miniszterelnök kabinetfőnöke
-
-## Határidő: azonnal
+## e)[^4]
 
 ## 2. A Kormány egyetért azzal, hogy a Gazdaságvédelmi programok előirányzatból, a Központi Maradványelszámolási Alapból és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint fejezetek közötti előirányzat-átcsoportosításról, továbbá kormányhatározat módosításáról szóló 1664/2020. (X. 15.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 7. Nemzeti Örökség Intézete cím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 25 000 000 forint a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 28. Gazdasági társaságok által ellátott feladatok támogatása alcím, K6. Beruházások kiemelt előirányzaton kerüljön felhasználásra.
 
-## 3.[^1]
+## 3.[^5]
 
-## 4.[^2]
+## 4.[^6]
 
-1. melléklet az 1856/2020. (XI. 26.) Korm. határozathoz
+1. melléklet az 1856/2020. (XI. 26.) Korm. határozathoz[^7]
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont a) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
