@@ -24,8 +24,10 @@
 
 12.
 
-13.
+13. 11/A. § (1) bekezdésében az „a) és b) pontja” szövegrész helyébe az „a), b) és d) pontja” szöveg,
 
-14.
+14. 12. § (2) bekezdés a) pont ab) alpontjában az „a) és c) pontja” szövegrész helyébe az „a), c) és d) pontja” szöveg,
 
-15.
+15. 13. § (4) bekezdés b) pontjában az „a) és c) pontja” szövegrész helyébe az „a), c) és d) pontja” szöveg
+
+lép.

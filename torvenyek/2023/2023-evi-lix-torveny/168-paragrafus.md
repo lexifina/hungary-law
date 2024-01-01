@@ -2,4 +2,4 @@
 
 1.
 
-2.
+2. 87. § (2) bekezdés b) pontja.
