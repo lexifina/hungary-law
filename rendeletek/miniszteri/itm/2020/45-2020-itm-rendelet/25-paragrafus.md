@@ -1,3 +1,3 @@
-25. §[^35]
+25. §[^40]
 
-[^35]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^40]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

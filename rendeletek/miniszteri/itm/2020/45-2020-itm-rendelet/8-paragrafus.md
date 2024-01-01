@@ -24,8 +24,11 @@ d) U díjkategória: a D2 és a B2 díjkategóriába tartozó gépjárművek ál
 
 (8) Ha a D2 vagy B2 díjkategóriába tartozó gépjármű U kategóriába tartozó pótkocsit vontat, a pótkocsira megváltandó jogosultság megváltható a vontató gépjárműre is. A vontatmány forgalmi rendszámára megváltott jogosultság nem keletkeztet úthasználati jogosultságot az azt vontató gépjárműre.
 
+(9)[^9] Ha az e rendelet hatálya alá tartozó gépjármű egy másik gépjárművet vontat, akkor az úthasználati jogosultságot mindkét gépjármű után, külön-külön, a gépjárműre vonatkozó szabályok szerint meg kell szerezni.
+
 [^4]: A 8. § (2) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § b) pontja szerint módosított szöveg.
 [^5]: A 8. § (3) bekezdését a 19/2022. (IX. 19.) TIM rendelet 5. § a) pontja hatályon kívül helyezte, újonnan e módosító rendelet 3. § (2) bekezdése iktatta be.
 [^6]: A 8. § (4) bekezdése a 19/2022. (IX. 19.) TIM rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^7]: A 8. § (5) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § c) pontja szerint módosított szöveg.
 [^8]: A 8. § (6) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § c) pontja szerint módosított szöveg.
+[^9]: A 8. § (9) bekezdését a 22/2023. (XII. 5.) ÉKM rendelet 3. § (1) bekezdése iktatta be.
