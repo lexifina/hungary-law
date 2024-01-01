@@ -1,0 +1,1 @@
+Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. § (2) bekezdés 2., 3., 5., 8., 9. és 14. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 5. pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
