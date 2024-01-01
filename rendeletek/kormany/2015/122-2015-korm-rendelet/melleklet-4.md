@@ -1,6 +1,6 @@
 4. melléklet a 122/2015. (V. 26.) Korm. rendelethez
 
-I.[^105]
+I.[^106]
 
 II. Az intézményi szintű költség-haszon elemzés keretelvei
 
@@ -18,4 +18,4 @@ II. Az intézményi szintű költség-haszon elemzés keretelvei
 
 7. Az intézményi szintű költség-haszon elemzéseknek tartalmazniuk kell egy, a létesítménybe történő beruházásból és a létesítmény működéséből származó, a tényleges pénzforgalmi tranzakciókat tükröző pénzügyi elemzést is tartalmazó gazdasági elemzést.
 
-[^105]: A 4. melléklet I. pontját a 715/2020. (XII. 30.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^106]: A 4. melléklet I. pontját a 715/2020. (XII. 30.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
