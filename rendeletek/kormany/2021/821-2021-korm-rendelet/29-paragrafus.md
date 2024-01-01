@@ -1,3 +1,3 @@
-29. §[^16]
+29. §[^18]
 
-[^16]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 29. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

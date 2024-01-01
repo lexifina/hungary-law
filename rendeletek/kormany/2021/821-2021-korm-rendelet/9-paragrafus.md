@@ -4,21 +4,21 @@
 
 (2) Több üzemanyag- vagy bioüzemanyag-típust tartalmazó üzemanyag esetében az üzemanyag teljes mennyiségére vonatkozó energiatartalmat az üzemanyag összetételének megfelelően, az egyes, 1. melléklet szerinti összetevők energiatartalmának figyelembevételével kell meghatározni.
 
-(3)[^5] A kötelező bioüzemanyag-részarány mértéke a 2023. január 1. és 2023. december 31. közötti időszakban 8,4%, ezen belül
+(3)[^5] A kötelező bioüzemanyag-részarány mértéke a 2024. január 1. és 2024. december 31. közötti időszakban 8,4%, ezen belül
 
 a) a 95-ös kísérleti oktánszámú motorbenzin esetében a kötelező bioetanol-részarány mértéke minimum 6,1%, amelyből legfeljebb 1 százalékpont teljesíthető biometanollal vagy bio-metil-tercier-butiléterrel;
 
 b) a dízelgázolaj esetében a hidrogénnel kezelt növényi olajok részarányának mértéke minimum 0,2%;
 
-c) a 2. melléklet 1. és 3. pontjában felsorolt alapanyagokból előállított fejlett bioüzemanyagok, biogázok kötelező minimális részaránya 0,2%.
+c)[^6] a 2. melléklet 1. és 3. pontjában felsorolt alapanyagokból előállított fejlett bioüzemanyagok, biogázok kötelező minimális részaránya 0,5%.
 
 (4) A kötelező bioüzemanyag-részarányon belül az üzemanyag-forgalmazó a 2. melléklet 1. és 3. pontjában felsorolt alapanyagokból előállított fejlett bioüzemanyagokat, biogázokat is köteles tisztán vagy üzemanyagba keverve forgalomba hozni úgy, hogy ezek részesedése elérje a tárgyévben forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban meghatározott együttes mennyiségének a 2025. évben 1%-át, a 2030. évben pedig 3,5%-át. A részesedés teljesítésének feltételeit a Kormány évente felülvizsgálja.
 
 (5) A kötelező bioüzemanyag-részarány mértékének számításakor a tárgyévben forgalomba hozott motorbenzin és dízelgázolaj energiatartalomban meghatározott együttes mennyiségét kell alapul venni a Büat. 1. § 5. pontjában meghatározottak szerint.
 
-(6)[^6] A megújuló forrásokból származó, teljes bruttó energiafogyasztásnak, valamint a kötelező bioüzemanyag-részarány kiszámításához ILUC-kockázatot jelentő anyagokból történő kiszámításához használt hozzájárulás mértéke, amely élelmiszer- vagy takarmánynövények esetében jelentős a nagy szénkészletekkel rendelkező földterületekre való termőterület-kiterjesztés megfigyelt mértéke, nem haladhatja meg ezen üzemanyagok 2019-es fogyasztási szintjét. Kivételt képez ez alól, ha az adott bioüzemanyagokat, folyékony bio-energiahordozókat vagy biomasszából előállított tüzelőanyagokat a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentőnek minősítette a Bizottság 2019. március 13-i (EU) 2019/807 felhatalmazáson alapuló rendelete.
+(6)[^7] A megújuló forrásokból származó, teljes bruttó energiafogyasztásnak, valamint a kötelező bioüzemanyag-részarány kiszámításához ILUC-kockázatot jelentő anyagokból történő kiszámításához használt hozzájárulás mértéke, amely élelmiszer- vagy takarmánynövények esetében jelentős a nagy szénkészletekkel rendelkező földterületekre való termőterület-kiterjesztés megfigyelt mértéke, nem haladhatja meg ezen üzemanyagok 2019-es fogyasztási szintjét. Kivételt képez ez alól, ha az adott bioüzemanyagokat, folyékony bio-energiahordozókat vagy biomasszából előállított tüzelőanyagokat a földhasználat közvetett megváltozása tekintetében alacsony kockázatot jelentőnek minősítette a Bizottság 2019. március 13-i (EU) 2019/807 felhatalmazáson alapuló rendelete.
 
-(6a)[^7] Az üzemanyag-forgalmazó által forgalomba hozott, ILUC-kockázatot jelentő anyagok energiatartalomban számított aránya a forgalmazott összes üzemanyag (fosszilis- és bioüzemanyagok) mennyiségéhez viszonyítva nem haladhatja meg
+(6a)[^8] Az üzemanyag-forgalmazó által forgalomba hozott, ILUC-kockázatot jelentő anyagok energiatartalomban számított aránya a forgalmazott összes üzemanyag (fosszilis- és bioüzemanyagok) mennyiségéhez viszonyítva nem haladhatja meg
 
 a) 2023. évben a 0,08%-ot,
 
@@ -28,9 +28,9 @@ c) 2026–2027. években a 0,04%-ot,
 
 d) 2028–2029. években a 0,02%-ot.
 
-(6b)[^8] A 2030. évben, és ezt követően a fogyasztási szint 0% lehet.
+(6b)[^9] A 2030. évben, és ezt követően a fogyasztási szint 0% lehet.
 
-(6c)[^9] Az ILUC-kockázatot jelentő anyagok legfeljebb a (6a) és (6b) bekezdésekben meghatározott mennyiségben vehetők figyelembe a kötelező bioüzemanyag-részarány teljesítésében.
+(6c)[^10] Az ILUC-kockázatot jelentő anyagok legfeljebb a (6a) és (6b) bekezdésekben meghatározott mennyiségben vehetők figyelembe a kötelező bioüzemanyag-részarány teljesítésében.
 
 (7) Naptári évi teljesítésnek minősül, ha az üzemanyag-forgalmazó a naptári évet megelőző évben a kötelező bioüzemanyag-részarány mértékét meghaladó bioüzemanyag-részarányt, továbbá ezen belül a (3) bekezdés a)–c) pontjában meghatározott részarányt teljesít, és a kötelező bioüzemanyag-részarányt, továbbá ezen belül a (3) bekezdés a)–c) pontjában meghatározott részarányt meghaladó mértéknek megfelelő, MJ-ban meghatározott bioüzemanyag-mennyiséget a rákövetkező naptári évben számolja el. 2020-ban az üzemanyag-forgalmazó a korábbi naptári évből származó kötelező bioüzemanyag-részarányt meghaladó mértéket nem számolhat el.
 
@@ -56,11 +56,12 @@ d) a 19. § d) pontja alapján kiállított igazolás eleget tesz az (EU) 2018/2
 
 (14) A (3) és (4) bekezdés alkalmazásában bioetanol-részarány a forgalomba hozott bioetanol energiatartalomban kifejezett mennyiségének – ideértve a forgalomba hozott bio-etil-tercier-butiléter és bio-tercier-amil-etil-éter energiatartalmából a megújulónak minősülő részt – és a forgalomba hozott 95-ös kísérleti oktánszámú motorbenzin energiatartalomban kifejezett mennyiségének hányadosa, százalékértékben, egy tizedesjegy pontossággal meghatározva.
 
-(15)[^10] E § alkalmazásában ILUC-kockázatot jelentő anyag: a Bizottság 2019. március 13-i (EU) 2019/807 felhatalmazáson alapuló rendeletében meghatározott, a földhasználat közvetett megváltozása tekintetében magas kockázatot jelentő, azon élelmiszer- vagy takarmánynövény-alapú bioüzemanyagokból, folyékony bio-energiahordozókból és biomasszából előállított tüzelőanyag.
+(15)[^11] E § alkalmazásában ILUC-kockázatot jelentő anyag: a Bizottság 2019. március 13-i (EU) 2019/807 felhatalmazáson alapuló rendeletében meghatározott, a földhasználat közvetett megváltozása tekintetében magas kockázatot jelentő, azon élelmiszer- vagy takarmánynövény-alapú bioüzemanyagokból, folyékony bio-energiahordozókból és biomasszából előállított tüzelőanyag.
 
-[^5]: A 9. § (3) bekezdés nyitó szövegrésze a 620/2022. (XII. 29.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
-[^6]: A 9. § (6) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^7]: A 9. § (6a) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^8]: A 9. § (6b) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^9]: A 9. § (6c) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^10]: A 9. § (15) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
+[^5]: A 9. § (3) bekezdés nyitó szövegrésze a 654/2023. (XII. 28.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^6]: A 9. § (3) bekezdés c) pontja a 654/2023. (XII. 28.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^7]: A 9. § (6) bekezdése a 620/2022. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^8]: A 9. § (6a) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^9]: A 9. § (6b) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^10]: A 9. § (6c) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^11]: A 9. § (15) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 16. §-a iktatta be.
