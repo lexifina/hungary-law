@@ -1,4 +1,4 @@
-44/B. §[^63] (1) Ha az útdíjszedő a rendelkezésére álló adatok alapján okkal feltételezi, hogy egy vizsgálati tanúsítvánnyal rendelkező átjárhatósági rendszerelem a rendeltetésszerű használat során nem felel meg a megfelelőségi és használati alkalmassági követelményeknek, erről haladéktalanul tájékoztatja a tanúsító szervet.
+44/B. §[^83] (1) Ha az útdíjszedő a rendelkezésére álló adatok alapján okkal feltételezi, hogy egy vizsgálati tanúsítvánnyal rendelkező átjárhatósági rendszerelem a rendeltetésszerű használat során nem felel meg a megfelelőségi és használati alkalmassági követelményeknek, erről haladéktalanul tájékoztatja a tanúsító szervet.
 
 (2) A tanúsító szerv az átjárhatósági rendszerelem sikertelen működése esetén részletes indokolással ellátott jelentést készít, amelyet megküld a felügyeleti szervnek. A jelentés indokolásában ki kell térni arra, hogy a hibás működés
 
@@ -14,4 +14,4 @@ következménye-e.
 
 (5) A felügyeleti szerv a (4) bekezdésben meghatározott jelentés alapján kötelezi az átjárhatósági rendszerelem gyártóját vagy annak képviselőjét, hogy állítsa helyre az átjárhatósági rendszerelem műszaki előírásoknak való megfelelőségét vagy a megállapított feltételek szerinti használatra való alkalmasságát, és erről a döntéséről értesíti az Európai Bizottságot és a többi tagállamot.
 
-[^63]: A 44/B. §-t a 409/2023. (VIII. 30.) Korm. rendelet 30. §-a iktatta be.
+[^83]: A 44/B. §-t a 409/2023. (VIII. 30.) Korm. rendelet 30. §-a iktatta be.

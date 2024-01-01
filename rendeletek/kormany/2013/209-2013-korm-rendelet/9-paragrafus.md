@@ -8,6 +8,6 @@
 
 (5) Amennyiben az üzemszünet kizárólag útdíjellenőrzés-támogatási feladatának ellátását teszi lehetetlenné, annak tényéről, az üzemszünet elhárításának várható időpontjáról és az üzemszünet elhárításáról köteles a Rendőrséget azonnal tájékoztatni.
 
-(6)[^23] Ha az EETS szolgáltató az útdíjszedő üzemszünetét követően az útdíjbevallás küldési feltételeinek megfelelően teljesít útdíjbevallást az üzemszünettel érintett időszak vonatkozásában, azt az útdíjszedő köteles befogadni, és az útdíjat a bevallás alapján kivetni.
+(6)[^27] Ha az EETS szolgáltató az útdíjszedő üzemszünetét követően az útdíjbevallás küldési feltételeinek megfelelően teljesít útdíjbevallást az üzemszünettel érintett időszak vonatkozásában, azt az útdíjszedő köteles befogadni, és az útdíjat a bevallás alapján kivetni.
 
-[^23]: A 9. § (6) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (6) bekezdése iktatta be.
+[^27]: A 9. § (6) bekezdését a 67/2022. (II. 28.) Korm. rendelet 9. § (6) bekezdése iktatta be.

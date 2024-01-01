@@ -6,7 +6,7 @@
 
 a) az útdíjszolgáltató neve, címe,
 
-b) ügyfélszolgálatának elérhetősége (cím, telefonszám, nyitvatartási idő), illetve internetes honlapjának címe (amelyeket az általános szerződési feltételek elején, jól azonosítható módon kell feltüntetni),
+b)[^53] internetes honlapjának címe (amelyet az általános szerződési feltételek elején, jól azonosítható módon kell feltüntetni),
 
 c) az útdíjszolgáltató által nyújtott szolgáltatások meghatározása,
 
@@ -30,6 +30,7 @@ l) a díjfizetés és a számlázás módja és ideje, a díjnak a díjfizetésr
 
 m) a felügyeleti szerv neve, címe, telefonszáma.
 
-n)[^47] Az utólagos díjfizetési rendből az előrefizetéses díjfizetési rendbe és az előrefizetéses díjfizetési rendből az utólagos díjfizetési rendbe történő átsorolás feltételeit, ha az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett is biztosítja.
+n)[^54] Az utólagos díjfizetési rendből az előrefizetéses díjfizetési rendbe és az előrefizetéses díjfizetési rendből az utólagos díjfizetési rendbe történő átsorolás feltételeit, ha az útdíjszolgáltató az általa nyújtott szolgáltatásokat előrefizetéses módon és utólagos fizetés mellett is biztosítja.
 
-[^47]: A 22. § (3) bekezdés n) pontját a 490/2023. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^53]: A 22. § (3) bekezdés b) pontja a 490/2023. (XI. 2.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^54]: A 22. § (3) bekezdés n) pontját a 490/2023. (XI. 2.) Korm. rendelet 4. § (2) bekezdése iktatta be.

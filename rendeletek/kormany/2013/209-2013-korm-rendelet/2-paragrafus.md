@@ -10,6 +10,12 @@ a) J2 díjkategória: a kéttengelyes útdíjköteles gépjárművek,
 
 b) J3 díjkategória: a háromtengelyes útdíjköteles gépjárművek,
 
-c) J4 díjkategória: a négy vagy több tengelyes útdíjköteles gépjárművek.
+c)[^3] J4 díjkategória: a négytengelyes útdíjköteles gépjárművek.
 
-(2) Az útdíj mértékének meghatározása során a gépjárművek környezetvédelmi besorolása szerint történő kategorizálásában alkalmazandó differenciáló tényezőket az 1. melléklet tartalmazza.
+d)[^4] J5 díjkategória: az öt vagy több tengelyes útdíjköteles gépjárművek.
+
+(2)[^5]
+
+[^3]: A 2. § (1) bekezdés c) pontja a 336/2023. (VII. 24.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés d) pontját a 336/2023. (VII. 24.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^5]: A 2. § (2) bekezdését a 336/2023. (VII. 24.) Korm. rendelet 3. § a) pontja hatályon kívül helyezte.

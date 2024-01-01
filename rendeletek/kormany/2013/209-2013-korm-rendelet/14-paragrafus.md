@@ -1,4 +1,4 @@
-14. §[^42] (1) Az útdíjszolgáltató az útdíjszedő által a (2) bekezdés alapján megállapított elszámolási időszakra kivetett útdíjat az erre vonatkozó számla kiállítását követő 8 napon belül megfizeti az útdíjszedő részére.
+14. §[^47] (1) Az útdíjszolgáltató az útdíjszedő által a (2) bekezdés alapján megállapított elszámolási időszakra kivetett útdíjat az erre vonatkozó számla kiállítását követő 8 napon belül megfizeti az útdíjszedő részére.
 
 (2) Az (1) bekezdésben meghatározott útdíjat az útdíjszedő az útdíjköteles elemi útszakaszoknak a 15. § alapján megállapított biztosíték összege alapján meghatározott időtartamú elszámolási időszakban történő használatára vonatkozó bevallás alapján veti ki.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdésben meghatározott bevallások alapján az egyetemes útdíjszolgáltató a tárgyhónapot követő hónap 20. napjáig az útdíjszedővel elszámol.
 
-[^42]: A 14. § a 67/2022. (II. 28.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.
+[^47]: A 14. § a 67/2022. (II. 28.) Korm. rendelet 9. § (10) bekezdésével megállapított szöveg.

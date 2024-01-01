@@ -1,4 +1,4 @@
-## 9/A.[^45] A fizetési közreműködő
+## 9/A.[^51] A fizetési közreműködő
 
 16/A. § (1) A fizetési közreműködő a tevékenysége során ellátja az egyetemes útdíjszolgáltató által nyújtott egyes szolgáltatások utólagos fizetés melletti igénybevételével összefüggő feladatokat.
 
@@ -24,4 +24,4 @@ c) a szerződött fizetési közreműködők elérhetőségéről.
 
 (9) A miniszter megvizsgálja, hogy a benyújtott általános szerződési feltételek, illetve azok módosítása megfelel-e a jogszabályoknak. A miniszter az általános szerződési feltételeket, illetve azok módosítását jóváhagyja, feltételekkel hagyja jóvá, vagy megtagadja azok jóváhagyását. Ha a miniszter az általános szerződési feltételek vagy az általános szerződési feltételek módosításának benyújtását követő 15 napon belül nem nyilatkozik, jóváhagyását megadottnak kell tekinteni. Amennyiben a miniszter a jóváhagyását feltételhez köti, úgy az általános szerződési feltételek, illetve azok módosításai csak a miniszter által előírt valamennyi feltétel teljesülése esetén lép hatályba.
 
-[^45]: A 9/A. alcímet (16/A-16/C. §-t) a 490/2023. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A 9/A. alcímet (16/A-16/C. §-t) a 490/2023. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
