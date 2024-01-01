@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-66-20-8
 | 2017-12-30 | 2010-66-20-82.9 | 69/2017. (XII. 27.) FM rendelet |
 | 2020-09-28 | 2010-66-20-82.10 | 70/2013. (VII. 31.) VM rendelet |
 | 2023-01-01 | 2010-66-20-82.11 | 70/2013. (VII. 31.) VM rendelet |
+| 2024-01-01 | 2010-66-20-82.12 | 172/2023. (XII. 27.) AM rendelet |

@@ -1,3 +1,3 @@
-15. §[^17]
+15. §[^18]
 
-[^17]: A 15. § a (2) bekezdés alapján hatályát vesztette.
+[^18]: A 15. § a (2) bekezdés alapján hatályát vesztette.
