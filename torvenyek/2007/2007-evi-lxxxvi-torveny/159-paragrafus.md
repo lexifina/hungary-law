@@ -38,6 +38,8 @@
 
 18. a jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást adhat ki.
 
+19. jogosult ellenőrzési feladatainak ellátása érdekében a szükséges mértékig a 152. § (1) bekezdése szerinti adatszolgáltatásra kötelezettek tényleges tulajdonosi hátterét megismerni és ennek érdekében eseti és rendszeres adatszolgáltatást előírni.
+
 (2) A Hivatal az egyenlő bánásmód követelményének érvényesítésével kapcsolatos feladatai körében meghatározza a rendszerhasználók közcélú hálózathoz való hozzáférésének általános szabályait.
 
 (3) A Hivatal a hatékony verseny elősegítésével kapcsolatos feladatai körében:
@@ -92,7 +94,7 @@
 
 3. dönt a rendszerhasználó által a hálózati engedélyessel szemben, továbbá a vételező és a felhasználó által a magánvezeték üzemeltetőjével szemben e törvényben meghatározott kötelezettségek megsértésével kapcsolatban benyújtott beadványokról,
 
-4. elvégzi, valamint az érintett engedélyesek közreműködésével elvégezteti az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
+4. elvégzi az engedélyes működési területén a felhasználói elégedettségi szint, továbbá az egyes engedélyesekkel szembeni elvárás, valamint a villamosenergia-ellátás jellemzőinek felmérését.
 
 5. tájékoztatást nyújt a felhasználók részére a jogaikra, az alkalmazandó jogszabályokra és a jogvita esetén rendelkezésükre álló vitarendezési mechanizmusokra vonatkozóan.
 

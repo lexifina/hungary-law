@@ -1,0 +1,3 @@
+119/E. § (1) A villamosenergia-tárolóval kapcsolatos építési tevékenységekre – eltérő rendelkezések hiányában és névleges kimeneti teljesítőképességtől függetlenül – az e törvényben és a felhatalmazása alapján kiadott jogszabályokban az erőművel kapcsolatos villamosenergia-ipari építésügyi tevékenységekre vonatkozó rendelkezéseket kell alkalmazni.
+
+(2) A villamosenergia-tárolók közcélú hálózatra csatlakozó vezetékeinek létesítésével kapcsolatos tevékenységekre – eltérő rendelkezések hiányában – az e törvényben és a felhatalmazása alapján kiadott jogszabályokban a termelői vezetékekkel kapcsolatos villamosenergia-ipari építésügyi tevékenységekre vonatkozó rendelkezéseket kell alkalmazni.

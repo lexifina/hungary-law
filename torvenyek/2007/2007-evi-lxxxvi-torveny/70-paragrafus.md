@@ -6,7 +6,7 @@
 
 (4) A villamosenergia-ellátási szabályzatokat és azok módosításait – a nemzetközi üzemi és kereskedelmi szabályzat részét képező, a 2019/942/EU rendelet rendelkezéseinek megfelelően jóváhagyott feltételek és módszertanok kivételével – a Hivatal hagyja jóvá, valamint a jóváhagyást feltételhez kötheti, vagy megtagadhatja.
 
-(5) Az üzemi szabályzat, a kereskedelmi szabályzat és az elosztói szabályzat rendelkezései nem lehetnek ellentétesek a nemzetközi üzemi és kereskedelmi szabályzat rendelkezéseivel.
+(5) Az üzemi szabályzat, a kereskedelmi szabályzat, az elosztói szabályzat és az adatcsere szabályzat rendelkezései nem lehetnek ellentétesek a nemzetközi üzemi és kereskedelmi szabályzat rendelkezéseivel.
 
 (5a) Ha a nemzetközi üzemi és kereskedelmi szabályzat valamely rendelkezése ugyanazon szabályozási tárgykör esetében eltérő szabályokat állapít meg, mint a többi villamosenergia-ellátási szabályzat, akkor a szabályozás összhangja érdekében a 67/A. § rendelkezései alapján kell eljárni.
 

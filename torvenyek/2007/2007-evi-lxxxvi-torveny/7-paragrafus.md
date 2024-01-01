@@ -1,6 +1,6 @@
 ## Új termelő kapacitások létesítése
 
-7. § (1) Saját üzleti kockázatára – a 7/B. §-ban foglalt eltéréssel – bárki létesíthet új termelő kapacitást a jelen törvényben és a külön jogszabályokban meghatározottak szerint.
+7. § (1) Saját üzleti kockázatára bárki létesíthet új termelő kapacitást a jelen törvényben és a külön jogszabályokban meghatározottak szerint.
 
 (2)
 

@@ -10,11 +10,11 @@ a) a kiserőművi összevont engedélyes,
 
 b) a magánvezeték engedélyese,
 
-c) a közvetlen vezeték engedélyese,
+c) a közvetlen vezeték engedélyes és
 
-d) a töltőállomás-üzemeltető és
+d) a töltőállomás-üzemeltető
 
-e) a felhasználót el nem látó villamosenergia-kereskedő
+e)
 
 esetében.
 

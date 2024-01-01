@@ -1,6 +1,6 @@
 ## V. Fejezet
 
-## KÖZVETLEN VEZETÉK, MAGÁNVEZETÉK
+## KÖZVETLEN VEZETÉK, MAGÁNVEZETÉK, TERMELŐI VEZETÉK
 
 38. § (1) Saját üzleti kockázatára bárki létesíthet közvetlen vezetéket saját maga vagy kapcsolt vállalkozásainak villamos energia ellátása céljából, köteles azonban előzetesen az e törvényben meghatározott engedélyt megszerezni. A közvetlen vezeték üzemeltetője üzemzavar vagy válsághelyzet esetén köteles az engedélyesekkel együttműködni, és a hálózati engedélyes utasításait végrehajtani.
 

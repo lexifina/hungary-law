@@ -1,1 +1,1 @@
-### 11/A. §
+11/A. § A termelő kérelmére a Hivatal határozatában megállapítja, hogy az erőműegység alkalmas-e megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermelésből származó villamos energia termelésére (a továbbiakban: minősítés).

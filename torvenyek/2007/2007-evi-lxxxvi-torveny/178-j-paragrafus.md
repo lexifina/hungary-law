@@ -16,6 +16,8 @@ b) kisfeszültségű elosztó hálózati vagy közvilágítási elosztó hálóz
 
 c) meglévő kisfeszültségű szabadvezetékes elosztó hálózathoz történő csatlakozás érdekében létesítendő csatlakozóvezetékekre, valamint
 
-d) meglévő csatlakozó vezeték újraüzemelésére.
+d) meglévő csatlakozó vezeték újraüzemelésére, valamint
+
+e) meglévő középfeszültségű szabadvezetékes hálózaton oszloptranszformátor-állomás elhelyezésére.
 
 (4) A (3) bekezdés szerinti felújítást az Szt. 3. § (4) bekezdés 8. pontja szerint, az átalakítást az országos településrendezési és építési követelményekről szóló kormányrendelet rendelkezései szerint kell értelmezni.

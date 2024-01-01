@@ -30,6 +30,8 @@
 
 7c. Egyedi alkalmazás: olyan szoftver, amelyet a hálózati engedélyes által meghatározott feltételekre, elvárásokra és funkcionalitásra tekintettel fejlesztettek;
 
+7d. Adatcsere: elosztó hálózati engedélyes és villamosenergia-kereskedő közötti, engedélyköteles tevékenységük végrehajtása céljából történő adatszolgáltatás;
+
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 
 9. Elosztó hálózat: a villamos energia elosztására és csatlakozási pontra való eljuttatása céljára szolgáló vezetékrendszer – beleértve a tartószerkezeteket is –, a hozzá tartozó átalakító- és kapcsolóberendezésekkel együtt;
@@ -44,9 +46,9 @@
 
 13. Engedélyes: aki e törvény szerint engedélyköteles tevékenység végzésére a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) által kiadott hatályos engedéllyel rendelkezik;
 
-13a. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az adott termelő egység által előállított villamos energia meghatározott mennyisége megújuló energiaforrásból vagy nagy hatékonyságú kapcsolt energiatermelésből származik;
+13a. Származási garancia: olyan elektronikus okirat, amely objektív, átlátható és megkülönböztetéstől mentes kritériumok alapján igazolja a felhasználó felé, hogy az elfogyasztott villamos energia megtermeléséhez megújuló vagy nukleáris energiaforrás került felhasználásra, vagy azt, hogy az elfogyasztott villamos energia nagy hatékonyságú kapcsolt energiatermelésből származik;
 
-14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel, engedélyezési szempontból ideértve az energia tározós erőművet is;
+14. Erőmű: egy telephelyen lévő olyan energia-átalakító létesítmény, amely elsődleges energiaforrás felhasználásával villamos energiát termel;
 
 15. Erőművi névleges teljesítőképesség: generátort tartalmazó erőmű esetén a beépített villamosenergia-termelő egységek generátorkapcson, tervezési körülmények között mért névleges aktív (wattos) teljesítményeinek összege; invertert tartalmazó erőmű esetén az inverterek váltóáram oldali névleges aktív (wattos) teljesítményeinek összege, azzal, hogy a csatlakozási pont erőművi oldalára csatlakoztatott villamosenergia-tároló teljesítménye nem számítandó be az erőmű névleges teljesítményébe;
 
@@ -54,7 +56,7 @@
 
 17. Felhasználó: aki villamos energiát a saját felhasználási helyén történő felhasználás céljából közcélú hálózatról vagy magánvezetéken keresztül nem továbbadás útján vételez;
 
-17a. Aktív felhasználó: olyan felhasználó, aki saját maga által termelt vagy tárolt villamos energiát a saját csatlakozási pontján felhasználja vagy tárolja, a közcélú hálózatba betáplálja, vagy fogyasztásának vagy betáplálásának rugalmasságát felajánlja, úgy, hogy az nem minősül önálló foglalkozása vagy elsődleges gazdasági tevékenysége céljából kifejtett tevékenységnek;
+17a. Aktív felhasználó: olyan felhasználó, aki maga által termelt vagy tárolt villamos energiát a hálózathasználati szerződés szerinti csatlakozási pontján felhasználja vagy tárolja, a közcélú hálózatba betáplálja, magánvezetéken továbbadja vagy megosztja vagy fogyasztásának vagy betáplálásának rugalmasságát felajánlja, úgy, hogy az nem minősül önálló foglalkozása vagy elsődleges gazdasági tevékenysége céljából kifejtett tevékenységnek;
 
 17b. Együttesen tevékenykedő aktív felhasználók: olyan felhasználók, akik közös csatlakozási ponton keresztül csatlakoznak a közcélú hálózatra, és az általuk vagy az együttesen tevékenykedő csoport valamely aktív felhasználó tagja által termelt vagy tárolt villamos energiát a közös csatlakozási ponton felhasználják, a közcélú hálózatra betáplálják, vagy fogyasztásuk vagy betáplálásuk rugalmasságát felajánlják, úgy, hogy az nem minősül önálló foglalkozásuk vagy elsődleges gazdasági tevékenységük céljából kifejtett tevékenységnek;
 
@@ -62,7 +64,7 @@
 
 17d. Együttesen eljáró termelő-fogyasztók: legalább két termelő-fogyasztó, akik a 17c. pontban meghatározott tevékenységüket ugyanazon épületben fejtik ki és megállapodnak arról, hogy e tekintetben együttesen járnak el.
 
-18. Felhasználói berendezés: a felhasználó használatában lévő, villamos energiát termelő, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt;
+18. Felhasználói berendezés: a felhasználó használatában lévő, a felhasználási helyen belül elhelyezkedő, villamos energiát termelő, tároló, átalakító és kapcsoló berendezés, vezetékhálózat és villamos energiát felhasználó berendezés a tartozékaival (készülékeivel) együtt, ideértve a magánvezetéket aktív felhasználó által létesített erőművel vagy villamosenergia-tárolóval összekötő, a felhasználási helyen belül elhelyezkedő vezetékszakaszt és a felhasználási helyen belül létesített elektromos töltőberendezést a magánvezetékkel összekötő vezetékszakaszt is;
 
 19. Fogyatékkal élő fogyasztó: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerinti fogyatékossági támogatásban részesülő személy, a vakok személyi járadékában részesülő személy, továbbá az a személy, akinek életét vagy egészségét közvetlenül veszélyezteti a villamosenergia-szolgáltatásból való kikapcsolás vagy annak megszakadása;
 
@@ -96,7 +98,7 @@
 
 27a. Irányítás: a vállalkozások közötti összefonódások ellenőrzéséről szóló, 2004. január 20-i 139/2004/EK tanácsi rendelet 3. cikk (2) bekezdésében meghatározott kapcsolat;
 
-27b. Kapcsolódási pont: a magán- és a közvetlen vezeték azon pontja, amelyet a vezetéket üzemeltető és a vételező közötti szerződésben a felek tulajdoni vagy üzemeltetési határként megjelölnek;
+27b. Kapcsolódási pont: a magán- és a közvetlen vezeték azon pontja, amelyet a vezetéket üzemeltető és a vételező vagy felhasználó közötti szerződésben a felek tulajdoni vagy üzemeltetési határként megjelölnek, továbbá a magánvezeték azon pontja, amelyhez a magánvezetékhez kapcsolódó felhasználói berendezés vagy a termelői vezeték kapcsolódik;
 
 28.
 
@@ -144,7 +146,7 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 43. Legkisebb költség: az engedélyezett tevékenység gyakorlásához az engedélyesnél, illetve nemzetgazdasági szinten szükséges és indokoltan felmerülő ráfordítás;
 
-43a. Leolvasás: a fogyasztásmérő-berendezés mérési adatainak a felhasználási helyen hálózati engedélyes által végzett leolvasása, az arra alkalmas fogyasztásmérő-berendezés mérési adatainak hálózati engedélyes általi távlehívása, valamint a fogyasztásmérő-berendezés mérési adatainak a felhasználó részére biztosított applikációval történő rögzítése;
+43a. Leolvasás: a fogyasztásmérő-berendezés mérési adatainak a felhasználási helyen hálózati engedélyes által végzett leolvasása, az arra alkalmas fogyasztásmérő-berendezés mérési adatainak hálózati engedélyes általi távlehívása, valamint a fogyasztásmérő-berendezés mérési adatainak a felhasználó részére biztosított, a mérőállást fényképen rögzítő applikáción keresztüli megadása az elosztó részére;
 
 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 
@@ -196,11 +198,21 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 57. Termelés: a villamos energia előállítása;
 
+57a. Tárolás: villamosenergia-tároló üzemszerű alkalmazása;
+
 58. Termelő: aki villamos energiát termel;
+
+58a. Önellátó termelő egység: olyan termelő egység, amelynek csatlakozási teljesítménye meghaladja az 5 MW-ot, közcélú hálózatra felhasználó csatlakozási pontján csatlakozik betáplálási teljesítmény nélkül, és a termelő berendezése által termelt villamos energiát ugyanazon csatlakozási ponton csatlakozó felhasználóval vagy a felhasználóval azonos vállalatcsoportban lévő más felhasználóval vagy vételezővel megosztja;
 
 59. Termelői engedélyes: aki villamos energia termelői működési engedéllyel vagy kiserőművi összevont engedéllyel rendelkezik;
 
-60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amely az erőmű által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, és erre felhasználó nem csatlakozik vagy vételező nem kapcsolódik;
+59a. Önellátó termelői engedélyes: aki önellátó termelő egységre vonatkozó engedéllyel rendelkezik;
+
+60. Termelői vezeték: közcélúnak, magán- és közvetlen vezetéknek nem minősülő vezeték, hálózati elem, vagy átalakító- és kapcsolóberendezés, amelyre felhasználó nem csatlakozik vagy vételező nem kapcsolódik, és amely
+
+a) az erőmű vagy villamosenergia-tároló által termelt villamos energiát a közcélú hálózat csatlakozási pontjára juttatja el, vagy
+
+b) a magánvezetékhez felhasználási helyen kívülről kapcsolódó, a közcélú hálózatra magánvezetéken keresztül csatlakozó erőmű által termelt vagy villamosenergia-tároló által tárolt villamos energiát a magánvezeték kapcsolódási pontjára juttatja el;
 
 61. Továbbadás: a felhasználó által megvásárolt villamos energia egy felhasználási helyen belül, mért magánvezetéken keresztül történő értékesítése vételezők részére;
 
@@ -216,21 +228,31 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 66. Védendő fogyasztó: a lakossági fogyasztók azon köre, akik (jogszabályban meghatározott szociális helyzetük, vagy valamely egyéb tulajdonságuk alapján) a villamosenergia-ellátásban megkülönböztetett feltételek szerint vehetnek részt;
 
-66a. Vételezési hely: egy vagy több kapcsolódási ponton keresztül ellátott összefüggő terület, ahol a vételező a vásárolt villamos energiát teljes egészében felhasználja;
+66a. Vételezési hely: egy vagy több kapcsolódási ponton keresztül ellátott összefüggő terület, ahol a vételező a vásárolt vagy maga által termelt villamos energiát teljes egészében felhasználja;
 
 66b. Vételező: aki felhasználótól magánvezetéken továbbadás útján vagy termelőtől közvetlen vezetéken vásárol villamos energiát kizárólag saját felhasználás céljára, és nem minősül felhasználónak;
 
-67. Villamosenergia-ellátási szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére és az elosztói rugalmassági szolgáltatásokra és azok beszerzésére, igénybevételére és elszámolására vonatkozó elosztói szabályzat, továbbá a nemzetközi üzemi és kereskedelmi szabályzat;
+67. Villamosenergia-ellátási szabályzatok: a villamosenergia-rendszer működésére vonatkozó szabályokat, eljárásokat és módszereket tartalmazó üzemi szabályzat, a kereskedelmi, elszámolási-mérési és adatforgalmi megállapodások minimális tartalmi elemeit, egyes nemzetközi kereskedelmi feltételeket, továbbá a rendszerszintű szolgáltatásokra és a szervezett villamosenergia-piac működésére vonatkozó főbb szabályokat tartalmazó kereskedelmi szabályzat, valamint az elosztó hálózat működésére és az elosztói rugalmassági szolgáltatásokra és azok beszerzésére, igénybevételére és elszámolására vonatkozó elosztói szabályzat, az egyes adatcsere-folyamatok leírására, az adatcsere technikai, tartalmi és formai követelményeire vonatkozó adatcsere-szabályzat, továbbá a nemzetközi üzemi és kereskedelmi szabályzat;
 
 68. Villamosenergia-ipari vállalkozás: az a természetes vagy jogi személy, aki vagy amely az e törvény szerinti villamosenergia-termelést, villamosenergia-átviteli és rendszerirányítási tevékenységet, villamosenergia-elosztást, egyetemes szolgáltatói tevékenységet, villamosenergia-kereskedelmet, aggregálást, energiatárolást, közvilágítási berendezések üzemeltetését, vagy a közúti közlekedésről szóló törvény szerinti elektromos töltőberendezés üzemeltetési, vagy elektromobilitás szolgáltatási tevékenységet végez;
 
 69. Villamosenergia-kereskedelem: az a tevékenység, amely a villamos energia és a hozzá tartozó teljesítmény üzletszerű, nem saját felhasználási célra történő vásárlásából és értékesítéséből áll;
 
-69a. Villamosenergia-megosztás: aktív felhasználó vagy energiaközösség által termelt villamos energia közvetlenül más felhasználó vagy energiaközösség részére történő értékesítése vagy ellenérték nélküli átadása a közcélú hálózaton vagy magánvezetéken keresztül;
+69a. Villamosenergia-megosztás:
+
+a) aktív felhasználó vagy energiaközösség által termelt vagy tárolt villamos energia,
+
+aa) közvetlenül más felhasználó vagy energiaközösség részére a közcélú hálózaton, magánvezetéken vagy összekötő berendezésen, vagy
+
+ab) vételező részére magánvezetéken keresztül
+
+b) vételező által termelt vagy tárolt villamos energia közvetlenül a magánvezeték engedélyese részére magánvezetéken keresztül
+
+történő értékesítése vagy ellenérték nélküli átadása;
 
 70. Villamosenergia-rendszer: az átviteli rendszerirányító által – törvényben meghatározott körben az elosztó közreműködésével – a villamosenergia-ellátási szabályzatokban rögzített elvek szerint irányított erőművek és hálózatok összessége;
 
-70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés, amely a betáplált villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe visszatáplálja;
+70a. Villamosenergia-tároló: villamos energia fizikai vagy kémiai technológiával történő tárolására szolgáló berendezés, amely a közcélú hálózatról vételezett vagy azonos csatlakozási ponton csatlakozó erőmű által megtermelt villamos energiát átalakítja, eltárolja és annak műszaki veszteséggel csökkentett részét a villamosenergia-rendszerbe betáplálja, vagy – függetlenül attól, hogy van-e betáplálásra lehetősége – a csatlakozási pont mögötti felhasználásra rendelkezésre bocsátja;
 
 71. Villamosmű: az erőmű, az átviteli és az elosztó hálózat;
 
@@ -249,3 +271,5 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 79. Kereskedőváltással kapcsolatos díj: a villamosenergia-kereskedő vagy az aggregátor vagy a hálózati engedélyes által a kereskedőváltás vagy az aggregátorváltás esetén közvetve vagy közvetlenül a felhasználóra vagy aggregálásban részt vevőre kiszabott díj vagy pénzügyi szankció, ideértve a szerződésmegszüntetési díjat is;
 
 80. Felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó az engedélyes intézkedése ellen vagy az engedélyes várt intézkedésének elmaradása miatt emel kifogást.
+
+81. Tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontjában meghatározott személy.

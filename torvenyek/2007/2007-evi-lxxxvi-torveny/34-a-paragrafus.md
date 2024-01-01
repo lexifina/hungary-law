@@ -1,1 +1,1 @@
-34/A. § Ha a közvilágítási berendezést nem a közvilágításra kötelezett üzemelteti, akkor annak üzemeltetéséhez – a közvilágítási elosztó hálózat közvilágítási berendezéseinek kivételével – közvilágítási üzemeltetési engedély szükséges.
+### 34/A. §

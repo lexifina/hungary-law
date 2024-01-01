@@ -4,7 +4,11 @@
 
 (2) A biztonsági övezeten belül – e törvényben megállapított kivételekkel – tilos, illetve korlátozás alá esik olyan anyagot, épületet vagy létesítményt elhelyezni, olyan növényzetet telepíteni, valamint olyan tevékenységet folytatni, amely a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték biztonságát, az életet, a testi épséget vagy a vagyonbiztonságot veszélyezteti. A tilalmak és a korlátozások részletes szabályait a biztonsági övezetről szóló miniszteri rendelet állapítja meg.
 
-(3) A biztonsági övezetre előírt tilalmak és korlátozások megtartását a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték üzemeltetője rendszeresen ellenőrzi, és azok megsértése esetén megteszi a jogszabályban előírt állapot visszaállításához szükséges intézkedéseket. Az intézkedést az ingatlan tulajdonosa, kezelője és használója tűrni köteles.
+(3) A biztonsági övezetre előírt tilalmak és korlátozások megtartását a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték üzemeltetője rendszeresen ellenőrzi.
+
+(3a) Ha a biztonsági övezeten belül vagy kívül lévő növényzet, építmény, létesítmény helyzetéből vagy állapotából adódóan veszélyezteti a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték biztonságát, az érintett növényzet tulajdonosa köteles a növényzetet eltávolítani, az érintett építmény, létesítmény tulajdonosa pedig azt lebontani. Ha az érintett tulajdonos ezen kötelezettségének nem tesz eleget, a hálózati engedélyes felszólítja annak elvégzésére.
+
+(3b) Ha az érintett tulajdonos a (3a) bekezdés szerinti felszólításnak a megadott határidőben nem tesz eleget, az engedélyes a kármegelőzés körében a villamosmű, a termelői vezeték, a magánvezeték vagy a közvetlen vezeték biztonságát közvetlenül veszélyeztető növényzetet eltávolíthatja, illetve az építményt, létesítményt elbonthatja. Az érintett ingatlan, és az érintett növényzet, építmény, létesítmény tulajdonosa, kezelője, használója az engedélyes ezen tevékenységét tűrni köteles és köteles megtéríteni az engedélyes ezen tevékenysége során felmerült költségeit.
 
 (4) Az üzemeltető a biztonsági övezetben lévő ingatlanra történő bejutás biztosítása iránti nemperes eljárást kezdeményezhet, ha
 

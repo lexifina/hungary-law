@@ -1,0 +1,3 @@
+119/F. § (1) Az energiapolitikáért felelős miniszter az e törvény végrehajtására kiadott rendeletben meghatározott feltételek teljesülése esetén a megújuló energiát hasznosító erőművi beépített kapacitás növelése érdekében könnyített térséget jelölhet ki. Könnyített térség az egyes megújuló energiaforrások hasznosításának földrajzi adottságai szempontjából a legkedvezőbb, földrajzilag lehatárolható helyen jelölhető ki.
+
+(2) A könnyített térségben az erőmű, amely által szolgáltatott hatásos villamos teljesítmény függ az időjárási viszonyoktól (a továbbiakban: időjárásfüggő megújuló energiát hasznosító erőmű) környezetvédelmi és építési engedélyezési eljárása során az e törvény végrehajtására kiadott rendeletben meghatározott szabályokat kell alkalmazni.

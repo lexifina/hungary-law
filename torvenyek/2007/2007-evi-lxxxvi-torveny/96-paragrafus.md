@@ -20,7 +20,9 @@ dd) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával, vagy 
 
 de) a kiserőmű kivitelezése az engedélyben meghatározott, de legkésőbb a Hivatal által meghosszabbított kivitelezési határidőn belül nem történt meg, vagy a kivitelezést követő három éven belül a kiserőmű üzembe helyezésére nem került sor.
 
-(2) A Hivatal a jelen törvény szerint nem engedélyköteles kiserőmű üzemeltetőjével és a 2011. október 1-je előtt létesített nem engedélyköteles magánvezetéken és a 39. § (1) bekezdés b) és c) pontjában meghatározott célokból egy épületen belül létesített magánvezetéken villamos energiát továbbadó felhasználóval szemben a jogszabályban foglalt kötelezettségének megsértése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
+df) az engedélyes a kiserőművi összevont engedély és a termelői működési engedély időbeli hatálya meghosszabbítására vonatkozó kérelmet az engedély lejárta előtt legalább 180 nappal korábban nem nyújtja be.
+
+(2) A Hivatal az e törvény szerint nem engedélyköteles kiserőmű üzemeltetőjével és a 2011. október 1-je előtt létesített nem engedélyköteles magánvezetéken és a 39. § (1) bekezdés b) pont szerint egy épületen belül létesített magánvezetéken villamos energiát továbbadó felhasználóval szemben az e törvényben és a végrehajtására kiadott jogszabályban foglalt kötelezettségének megsértése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 
 (3) A Hivatal az integrált villamosenergia-ipari vállalkozás e törvény szerint nem engedélyköteles tagjával, továbbá az elektronikus hírközlő hálózati elemek tulajdonosával szemben az e törvényben vagy a felhatalmazása alapján kiadott külön jogszabályban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 

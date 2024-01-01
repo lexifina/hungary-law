@@ -10,17 +10,7 @@ c) a (4) és (6) bekezdés szerinti esetekben ingyenesen átszáll a hálózati 
 
 (3) A rendszerhasználó rendelkezési jogát – a (4) és a (6) bekezdés szerinti esetek kivételével – nem érinti az, ha azt nem gyakorolja.
 
-(4) Ha a termelő
-
-a) villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig, vagy
-
-b) – az atomenergiáról szóló törvény hatálya alá tartozó engedélyes kivételével – a betáplálásra rendelkezésre álló teljesítményét a hálózati csatlakozási szerződés hatálybalépésének napját követő
-
-ba) kiserőművek esetén három éven belül,
-
-bb) 50 MW és ezt meghaladó teljesítő képességű erőmű esetén öt éven belül
-
-nem veszi igénybe, a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre átszáll.
+(4) Ha a termelő villamosenergia-termelési tevékenysége megszüntetését követően a betáplálásra rendelkezésre álló teljesítményét a tevékenység megszüntetésének napjától számított két évig nem veszi igénybe, a rendelkezési jog az adott teljesítmény vonatkozásában a törvényi határidő leteltét követő napon a hálózati engedélyesre átszáll.
 
 (5) A (4) bekezdés b) pontja szerinti határidőt a hálózati engedélyes a termelő kérelmére legfeljebb egy alkalommal, legfeljebb hat hónappal meghosszabbítja, ha a termelő a hálózati csatlakozási szerződés szerinti teljes csatlakozási díjat a határidő meghosszabbítására irányuló kérelem benyújtásáig megfizette.
 
@@ -44,4 +34,4 @@ a) az írásba foglalás elmaradása neki felróható, vagy
 
 b) a teljesítés elfogadása kifejezetten vagy ráutaló magatartással megtörtént.
 
-(11) A (6) bekezdés szerinti esetben a felek közötti jogviszony a jogviszonyra irányadó jogszabályok és a hálózati engedélyes üzletszabályzata szerinti tartalommal jön létre.
+(11) A (10) bekezdés szerinti esetben a felek közötti jogviszony a jogviszonyra irányadó jogszabályok és a hálózati engedélyes üzletszabályzata szerinti tartalommal jön létre.

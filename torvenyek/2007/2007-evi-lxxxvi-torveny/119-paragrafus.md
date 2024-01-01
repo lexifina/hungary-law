@@ -1,4 +1,4 @@
-119. § (1) A rendszerhasználónak vagy annak kérésére, akinek a közcélú hálózat, a közcélú hálózat tartószerkezete, a csatlakozó berendezés vagy csatlakozási pont elhelyezése jogát vagy jogos érdekét érinti (e § alkalmazásában a továbbiakban: egyéb érdekelt) a hálózati engedélyes a csatlakozó berendezést, vagy a csatlakozási pontot áthelyezi, vagy átalakítja, ha
+119. § (1) A rendszerhasználónak vagy annak kérésére, akinek a közcélú hálózat, a közcélú hálózat tartószerkezete, a csatlakozó berendezés vagy csatlakozási pont elhelyezése jogát vagy jogos érdekét érinti (e § alkalmazásában a továbbiakban: egyéb érdekelt) a hálózati engedélyes a közcélú hálózatot, a közcélú hálózat tartószerkezetét, a csatlakozó berendezést, vagy a csatlakozási pontot áthelyezi, vagy átalakítja, ha
 
 a) az áthelyezés, vagy az átalakítás más rendszerhasználó jogos érdekeit nem sérti,
 

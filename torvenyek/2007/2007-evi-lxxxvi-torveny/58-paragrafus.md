@@ -6,10 +6,8 @@
 
 (3) A hálózati csatlakozási szerződés tartalmi elemeit a Kormány rendeletben állapítja meg.
 
+(3a) A magánvezetékhez kapcsolódó erőmű vagy villamosenergia-tároló esetében az érintett csatlakozási pont tekintetében megkötött hálózati csatlakozási szerződést a 39. § (1b) bekezdése szerinti csatlakozási eljárás, betáplálási teljesítményigény esetén az irányadó erőművi csatlakozási eljárás eredménye alapján a felek a hálózati engedélyes által meghatározott műszaki és gazdasági feltételeknek megfelelően módosítják.
+
 (4) A hálózati engedélyes az átviteli és az elosztó hálózathoz való csatlakozás megtagadásakor a 27. §-ban meghatározottak szerint jár el.
 
-(5) A közcélú hálózatra kapcsolni kívánt erőmű hálózati csatlakozási szerződésében a csatlakozás igénybevételére meghatározott időpont nem lehet későbbi, mint a hálózati csatlakozási szerződés hatálybalépésétől számított
-
-a) kiserőmű esetén – a háztartási méretű kiserőművet ide nem értve – három év,
-
-b) 50 MW és ezt meghaladó teljesítő képességű erőmű esetén öt év.
+(5)

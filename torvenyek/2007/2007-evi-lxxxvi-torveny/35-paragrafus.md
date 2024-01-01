@@ -6,9 +6,9 @@
 
 (2) Az átviteli és elosztó hálózathoz való hozzáférés feltételeinek biztosítaniuk kell az egyenlő bánásmódot, a hozzáférés feltételei nem adhatnak alapot visszaélésre, nem tartalmazhatnak indokolatlan korlátozásokat, valamint nem veszélyeztethetik az ellátás biztonságát és a szolgáltatás előírt minőségét. A (3) és (3a) bekezdés szerinti előny biztosítása nem jelenti az egyenlő bánásmód elvének megsértését.
 
-(3) A hálózati engedélyesek, külön jogszabályban foglalt feltételek szerint, a hálózatok üzemeltetése, és a hálózatokhoz való hozzáférés biztosítása során előnyben részesítik a széndioxidkibocsátás-mentes technológiával, továbbá a megújuló energiaforrásokból, hulladékból, illetve kapcsoltan villamos energiát termelőket.
+(3)
 
-(3a) A (3) bekezdés szerinti termelők közül a hálózati engedélyesek a hálózatokhoz való hozzáférés biztosítása során előnyben részesítik azokat a termelőket, amelyek a hálózati hozzáféréssel érintett erőművi beruházáshoz és annak működéséhez az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendelet szerinti állami támogatást nem vesznek igénybe. E bekezdés szerinti előny alapján biztosított hálózati hozzáférés semmilyen formában nem engedhető át és nem ruházható át állami támogatás igénybevételével megvalósuló beruházáshoz.
+(3a)
 
 (4) Az elosztó a csatlakozási és hálózathasználati szerződés megkötése során – a háztartási méretű kiserőmű hálózathoz való csatlakozásának gyorsított biztosítása érdekében – a közcélú villamos hálózatra csatlakozás pénzügyi és műszaki feltételeiről szóló jogszabályban meghatározott teljesítményhatárig a Vhr. felhasználókra vonatkozó előírásai szerint jár el.
 

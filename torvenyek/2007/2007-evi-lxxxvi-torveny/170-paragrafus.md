@@ -18,7 +18,7 @@
 
 7. az engedélyezés, a tanúsítási eljárás, valamint az elektronikus ügyintézés részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyköteles tevékenységek folytatásának, az engedély kiadásának, a működési engedély módosításának, meghosszabbításának és visszavonásának, az engedélyes tevékenység folytatásának feltételei, továbbá az engedélyesek jogait és kötelezettségeit, valamint a jóváhagyásra irányuló eljárás részletes szabályait,
 
-8. a szélerőmű kivételével az új termelő kapacitások létesítésére vonatkozó részletes szabályokat, ideértve a tározós erőmű villamosenergia-rendszerben betöltött szerepével, valamint a villamosenergia-rendszerbe történő illesztésével kapcsolatos rendelkezéseket is, valamint az erőmű létesítéséhez szükséges megvalósíthatósági tanulmány, üzleti terv és független szaktanácsadói jelentés tartalmi elemeit, továbbá az erőmű bővítés engedélyköteles eseteit és a bővítés feltételeit,
+8. az új termelő kapacitások létesítésére vonatkozó részletes szabályokat, ideértve a tározós erőmű villamosenergia-rendszerben betöltött szerepével, valamint a villamosenergia-rendszerbe történő illesztésével kapcsolatos rendelkezéseket is, valamint az erőmű létesítéséhez szükséges megvalósíthatósági tanulmány, üzleti terv és független szaktanácsadói jelentés tartalmi elemeit, továbbá az erőmű bővítés engedélyköteles eseteit és a bővítés feltételeit,
 
 9. az erőmű létesítésére és a keresletoldali szabályozási intézkedések megvalósítására, valamint a hálózat fejlesztésére vonatkozó pályázat kiírásának feltételeit, a pályázat minimális tartalmi követelményeit, valamint a pályáztatási eljárás szabályait,
 
@@ -50,7 +50,7 @@
 
 23. a villamosenergia-ellátási válsághelyzet és a villamosenergia-rendszer jelentős zavarának részletes szabályait, a válsághelyzet és a jelentős zavar esetén alkalmazandó korlátozások szabályait, elveit, valamint a rendszerhasználók jogait és kötelezettségeit, a teherviselés részletes szabályait, a felhasználók ellátására kötött szerződések teljesítése felfüggesztésének rendjét, a villamosenergia-ellátáshoz kapcsolódó, a hatósági és nem hatósági árak körébe tartozó valamennyi termék és szolgáltatás legmagasabb árát,
 
-24. a megújuló energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, valamint a számlatulajdonosok adatainak közzétételére vonatkozó részletes szabályokat,
+24. a megújuló vagy nukleáris energiaforrásból és a nagy hatékonyságú kapcsolt energiatermelésből származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, az ilyen módon termelt energiát értékesítő termelők beszámolási és adatszolgáltatási kötelezettségére, a megújuló energiaforrást hasznosító vagy nagy hatásfokú kapcsolt energiatermeléssel üzemelő erőműegységek minősítésére, valamint a számlatulajdonosok adatainak közzétételére vonatkozó részletes szabályokat,
 
 25. a Hivatal határozatainak közzétételére vonatkozó részletes szabályokat,
 
@@ -100,11 +100,11 @@
 
 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 
-49.
+49. a könnyített térség kijelölésének részletes szabályait, a kijelölés során figyelembe veendő szempontokat, a földrajzi adottságok meghatározásának ismérveit és könnyített térségben időjárásfüggő megújuló energiát hasznosító erőmű környezetvédelmi és építési engedélyeztetése során alkalmazandó hatósági eljárási szabályokat, a szakhatóságok bevonására, az eljárási határidőre, és az eljáró hatóságra vonatkozó részletes szabályokat,
 
 50. a villamosenergia-tárolóra és létesítésére, a villamosenergia-tárolói engedélyre, a villamosenergia-tárolói engedélyes jogaira és kötelezettségeire, a villamosenergia-tároló üzemeltetésére vonatkozó szabályokat, valamint a villamosenergia-tárolói engedélyes és az elosztó által működtetett tároló teljesítményére és a kapacitás mértékére vonatkozó részletszabályokat,
 
-51. a szélerőművek, illetve szélerőmű parkok építésére és használatbavételére kiadható hatósági engedélyek számát és az engedélyezhető szélerőművek, illetve szélerőmű parkok teljesítményét,
+51.
 
 52. a bejelentett és jogosult villanyszerelők nyilvántartására, regisztrációjára vonatkozó részletes szabályokat, valamint a nyilvántartást vezető műszaki biztonsági hatóságot,
 
@@ -126,7 +126,7 @@ rendeletben állapítsa meg.
 
 4. az 50 MW, és azt meghaladó névleges teljesítőképességű erőművek energiaforrás-készletének legkisebb mértékét,
 
-5. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának, valamint a Hivatal által a honlapján közzéteendő – a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról szóló – tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat,
+5. a Hivatal által a honlapján közzéteendő a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról szóló tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat,
 
 6. a kapcsoltan termelt villamos energia mennyisége megállapításának számítási módját, valamint a kapcsoltan termelt villamos energia mennyiségének igazolására vonatkozó eljárás részletes szabályait,
 
@@ -138,7 +138,7 @@ rendeletben állapítsa meg.
 
 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,
 
-11.
+11. az e törvény végrehajtására kiadott rendeletben meghatározott szempontok szerint könnyített térséget,
 
 12.
 
@@ -148,7 +148,7 @@ rendeletben állapítsa meg.
 
 15. a villamosenergia-iparban fennálló, vagy eltöltött munkaviszonnyal összefüggésben a villamosenergia-kereskedő üzletszabályzatában meghatározott kedvezményes villamosenergia-áron történő vásárlásra jogosult személyek körét, a kedvezményes villamosenergia-árat, valamint a kedvezmény biztosításával összefüggő eljárási, elszámolási szabályokat és igazolási kötelezettségeket,
 
-16. a szélerőmű létesítésére irányuló pályázat kiíróját, kiírásának feltételeit, a pályázati kiírás közzétételének szabályait, minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait,
+16.
 
 17.
 
@@ -200,7 +200,7 @@ rendeletben állapítsa meg.
 
 3. a kiegyenlítő fizetés végrehajtása érdekében a kiegyenlítő fizetés formáját, továbbá a kiegyenlítő fizetés elszámolási szabályait,
 
-4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
+4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek és az általuk szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelményeket, az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket,
 
 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegése megállapításának ellenőrzési, szakértői vizsgálati és dokumentálási szabályait, valamint a jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
 
@@ -223,3 +223,5 @@ e) – a Kormány által kihirdetett veszélyhelyzettel összefüggésben – a 
 9. a hálózati engedélyes által külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket, keretszabályokat, az árszabályozási ciklus kezdő és záró időpontját, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
 
 10. a tesztkörnyezet által támogatott célokat, a kérelem benyújtására jogosultak körét, a kérelem benyújtásával kapcsolatos szabályokat, a kérelem elbírálásával kapcsolatos részletes szabályokat, az engedélyezhető eltérések részletes tartalmát, a tesztkörnyezet résztvevőinek jogait és kötelezettségeit, az energetikai innovációs teljesítmények alkalmazásával kapcsolatos felelősségi kérdéseket, az energetikai tesztkörnyezetben való részvétel meghosszabbításának a feltételeit és a kötelezettségek megszegésével kapcsolatos jogkövetkezményekkel kapcsolatos részletes szabályokat.
+
+11. a villamos energiának a felhasználók részére történő értékesítése során, a felhasználók – az előző naptári évben értékesített villamos energia előállításához felhasznált energiaforrások részarányáról és környezeti hatásairól történő – tájékoztatásának módjára és tartalmára vonatkozó részletes szabályokat.

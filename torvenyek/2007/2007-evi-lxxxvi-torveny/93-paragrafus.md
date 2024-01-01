@@ -18,11 +18,11 @@ a) a közvetlen vezeték engedélyes,
 
 b) a magánvezeték engedélyes,
 
-c) a töltőállomás-üzemeltető,
+c) a töltőállomás-üzemeltető és
 
-d) a kiserőművi összevont engedélyes, és
+d) a kiserőművi összevont engedélyes,
 
-e) a felhasználót el nem látó villamosenergia-kereskedelmi engedélyes
+e)
 
 esetében.
 

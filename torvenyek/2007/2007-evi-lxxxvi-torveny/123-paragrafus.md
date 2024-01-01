@@ -4,13 +4,13 @@
 
 (2) A 116. § (3) bekezdés d) és f) pontja szerinti villamosmű az építésére szolgáló és a biztonsági övezetével érintett ingatlan tulajdonosának hozzájárulása alapján is építhető. Ha az ingatlan közös tulajdonban áll, a hozzájáruláshoz az érintett személyek tulajdoni hányad alapján számított többségi döntése szükséges. Amennyiben az építés termőföldet érint, ahhoz a termőföld más célú hasznosításának engedélyezéséről szóló ingatlanügyi hatósági határozat szükséges.
 
-(2a) A (2) bekezdés szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos, tulajdonostárs esetében, akinek a részére a hozzájárulás kérésének közlése
+(2a) A (2) bekezdés szerinti hozzájárulást megadottnak kell tekinteni az olyan tulajdonos, tulajdonostárs, kezelő, vagyonkezelő esetében, akinek a részére a hozzájárulás kérésének közlése a hálózati engedélyes részéről
 
 a) nem lehetséges, mert
 
 aa) személye bizonytalan, vagy
 
-ab) lakcíme, tartózkodási helye, székhelye, telephelye, fióktelepe ismeretlen, vagy
+ab) lakcíme, székhelye, telephelye, fióktelepe ismeretlen, vagy
 
 b) meghiúsul, mert a postai küldemény
 
@@ -28,7 +28,9 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (3) A közcélú hálózat idegen ingatlanon történő elhelyezésére a hálózati engedélyes javára a Hatóság vezetékjogot engedélyezhet, ha az a közcélú hálózat szükséges fejlesztése érdekében indokolt és az ingatlan használatát lényegesen nem akadályozza. A Hatóság az engedélyezési eljárást a hálózati engedélyes kérelmére felfüggeszti a kérelemben jelzett körülmény fennállásáig, de legfeljebb a kérelem benyújtásától számított 6 hónapig.
 
-(3a) Közterületen elhelyezendő közcélú hálózatra és ennek közterületet érintő biztonsági övezetére nem kell vezetékjogot alapítani. A közcélú hálózat közterületen történő elhelyezését a közterület tulajdonosa tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátázását is – okozott károkért a hálózati eszköz beruházója köteles kártalanítást fizetni.
+(3a) Közterületen elhelyezendő közcélú hálózatra és ennek közterületet érintő biztonsági övezetére nem kell vezetékjogot alapítani. A közcélú hálózat közterületen történő elhelyezését, átalakítását a közterület tulajdonosa, kezelője tűrni köteles. A közterület igénybevételével – beleértve a közterület használati korlátozását is – okozott károkért a hálózati eszköz beruházója kártalanítást nyújt. A közterület igénybevételéért a közterület tulajdonosa, kezelője – az útügyi igazgatásról szóló miniszteri rendelet szerinti összegen túl – további díj vagy költség megfizetését, megállapodás kötését nem kérheti.
+
+(3b) A hatósági vezetékjogi engedélyezési eljárást megelőző előkészítő eljárás során a nyomvonal-kijelölési dokumentációt az érintett hatóságok, szakhatóságok, valamint a nyomvonallal és a biztonsági övezettel érintett közművek, kezelők, üzemeltetők, ingatlantulajdonosok és vagyonkezelők részére kell megküldeni.
 
 (4) A (2) bekezdés szerinti hozzájárulás az e törvény szerint a vezetékjog alapján fennálló jogokkal és kötelezettségekkel azonos – az ingatlan-nyilvántartásba az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 16. § e) pontja szerint bejegyzendő – jogokat és kötelezettségeket keletkeztet. A tulajdonosi hozzájárulás nem vonható vissza.
 
