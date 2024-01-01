@@ -1,1 +1,0 @@
-11. § Az e törvényben nem szabályozott eljárási kérdésekben az Art. rendelkezéseit kell irányadónak tekinteni azzal, hogy az adó visszatérítésére a költségvetési támogatás kiutalására vonatkozó rendelkezéseit kell megfelelően alkalmazni.
