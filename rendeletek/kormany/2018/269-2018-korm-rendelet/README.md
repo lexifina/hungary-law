@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-269-20-
 | 2018-12-22 | 2018-269-20-22.2 | 2010: CXXX. törvény |
 | 2019-02-16 | 2018-269-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2019-02-17 | 2018-269-20-22.4 | 2010: CXXX. törvény |
+| 2024-01-01 | 2018-269-20-22.5 | 599/2023. (XII. 22.) Korm. rendelet |
