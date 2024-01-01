@@ -1,3 +1,1 @@
-4. §[^11]
-
-[^11]: A 4. § a 6. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+4. § A Díjrendelet 11. § (6) bekezdésében az „a pótdíj a járműszerelvény tekintetében áll fenn, amelynek megfizetésére a vontató gépjármű üzembentartója köteles” szövegrész helyébe az „a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles” szöveg lép.
