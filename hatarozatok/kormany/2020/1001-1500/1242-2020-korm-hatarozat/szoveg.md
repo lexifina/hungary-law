@@ -22,11 +22,7 @@ b) az 1. pont b) alpontja szerinti fejlesztés keretében létrejövő vagyonele
 
 5. az 1. pont a) alpontja szerinti fejlesztésnek az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § c), e), l), n), o) és p) pontja szerinti előkészítési fázisai 2021. július 31. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 243 994 000 forintban határozza meg;
 
-6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 16. A pápai Türr István Gimnázium és Kollégium infrastrukturális fejlesztésének előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+6.[^1]
 
 7. felhívja a pénzügyminisztert, hogy gondoskodjon az 5. pont szerinti összeg 2020. évi részének finanszírozása érdekében 121 997 000 forint rendelkezésre állásáról a 6. pont szerinti előirányzaton;
 
@@ -44,11 +40,7 @@ Határidő: a 2021. évi központi költségvetés tervezése során
 
 9. az 1. pont b) alpontja szerinti fejlesztésnek a Korm. rendelet 4. § c), e), l), n), o) és p) pontja szerinti előkészítési fázisai 2021. július 31. napjáig történő teljesítése érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 240 641 000 forintban határozza meg;
 
-10. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címet a 17. A váci Cházár András Egységes Gyógypedagógiai Módszertani Intézmény, Szakiskola, Készségfejlesztő Iskola, Kollégium infrastrukturális fejlesztésének előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+10.[^2]
 
 11. felhívja a pénzügyminisztert, hogy gondoskodjon a 9. pont szerinti összeg 2020. évi részének finanszírozása érdekében 120 000 000 forint rendelkezésre állásáról a 10. pont szerinti előirányzaton;
 
@@ -72,6 +64,8 @@ emberi erőforrások minisztere
 
 Határidő: a fejlesztések megvalósítását célzó feltételes közbeszerzési eljárásokat követően
 
-14.[^1]
+14.[^3]
 
-[^1]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 14. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
