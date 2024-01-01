@@ -1,0 +1,3 @@
+19. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/S. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A Szent Anna a Nevelőszülőkért díjhoz pénzjutalom adható. A Szent Anna a Nevelőszülőkért díjjal adható pénzjutalom mértéke kizárólag az illetményalap nyolcszorosának megfelelő összeg lehet. A Szent Anna a Nevelőszülőkért díj házaspárok közös teljesítményének elismerésére is kezdeményezhető és adományozható. Pénzjutalom adományozása esetén a Szent Anna a Nevelőszülőkért díjjal közösen elismert házaspár mindkét tagjának a díjjal adható pénzjutalom teljes összege jár.”
