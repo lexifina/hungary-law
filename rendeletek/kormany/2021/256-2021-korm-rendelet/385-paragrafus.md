@@ -1,4 +1,4 @@
-385. §[^264] (1) Az irányító hatóság a szabálytalanságot a kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált.
+385. §[^268] (1) Az irányító hatóság a szabálytalanságot a kedvezményezettre vonatkozóan állapítja meg akkor is, ha annak alapjául más személy vagy szervezet tevékenysége vagy mulasztása szolgált.
 
 (2) Az (1) bekezdéstől eltérően a kedvezményezettel szemben nem kell szabálytalansági eljárást indítani, ha a központi beszerző szerv által kötött keretmegállapodás alapján megvalósított közbeszerzési eljárás eredményeként kötött szerződés végrehajtása során keletkezett elszámoló bizonylat a keretmegállapodás megkötésére irányuló közbeszerzési eljárásra visszavezethető okból nem számolható el teljeskörűen az Európai Bizottsággal.
 
@@ -10,4 +10,4 @@
 
 (6) A (2) és (5) bekezdés a központosított közbeszerzési rendszerbe önként csatlakozó kedvezményezett esetén akkor alkalmazható, ha a kedvezményezett a központi beszerző szerv bevonásával a megrendelést megelőzően igazolni tudja, hogy a keretmegállapodás megkötésére irányuló közbeszerzési eljárás lefolytatása megfelelő volt.
 
-[^264]: A 385. § a 416/2023. (VIII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^268]: A 385. § a 416/2023. (VIII. 31.) Korm. rendelet 16. §-ával megállapított szöveg.

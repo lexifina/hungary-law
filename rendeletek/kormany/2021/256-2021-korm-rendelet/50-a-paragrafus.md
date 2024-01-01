@@ -1,6 +1,6 @@
-50/A. §[^85] (1)[^86] Bárki jogosult anonim módon bejelenteni a www.palyazat.gov.hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
+50/A. §[^89] (1)[^90] Bárki jogosult anonim módon bejelenteni a www.palyazat.gov.hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
 
-(1a)[^87] A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja a fejlesztéspolitikai intézményrendszer érintett szereplőjét.
+(1a)[^91] A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja a fejlesztéspolitikai intézményrendszer érintett szereplőjét.
 
 (2) Az (1) bekezdés szerinti bejelentést a Belső Ellenőrzési és Integritási Igazgatóság vizsgálja ki.
 
@@ -12,11 +12,11 @@ a) változatlan tényállás mellett ismételten olyan személyre vonatkozik, ak
 
 b) nyilvánvalóan alaptalan.
 
-(5)[^88] Ha a Belső Ellenőrzési és Integritási Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi a fejlesztéspolitikai intézményrendszer érintett szereplője részére, amely az 52. § szerint jár el.
+(5)[^92] Ha a Belső Ellenőrzési és Integritási Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi a fejlesztéspolitikai intézményrendszer érintett szereplője részére, amely az 52. § szerint jár el.
 
 (6) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti bejelentések vizsgálata során keletkezett dokumentumokat a vizsgálatok lezárásától számított öt évig megőrzi.
 
-[^85]: Az 50/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 25. §-a iktatta be.
-[^86]: Az 50/A. § (1) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^87]: Az 50/A. § (1a) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 7. §-a iktatta be.
-[^88]: Az 50/A. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 12. § i) pontja szerint módosított szöveg.
+[^89]: Az 50/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 25. §-a iktatta be.
+[^90]: Az 50/A. § (1) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^91]: Az 50/A. § (1a) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 7. §-a iktatta be.
+[^92]: Az 50/A. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 12. § i) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-191. §[^152] (1) Ha a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a 97–100. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+191. §[^156] (1) Ha a kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra a 97–100. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol a 97–100. alcím
 
@@ -32,4 +32,4 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 403. § (1) és (2) bekezdését, a 405. § (1) bekezdését, a 406. §-t, a 408. § (1) bekezdés f) pontját, a 410. §-t, a 411. §-t, a 412. § (1) és (2) bekezdését, valamint a 414. § (1), (3), (4) és (6) bekezdését nem kell alkalmazni.
 
-[^152]: A 191. § a 123/2023. (IV. 12.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^156]: A 191. § a 123/2023. (IV. 12.) Korm. rendelet 13. §-ával megállapított szöveg.

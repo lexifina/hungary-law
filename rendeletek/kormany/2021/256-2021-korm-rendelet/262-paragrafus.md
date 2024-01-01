@@ -1,4 +1,4 @@
-262. §[^205] (1) A közszféra szervezet kedvezményezett szállítói finanszírozás esetén
+262. §[^209] (1) A közszféra szervezet kedvezményezett szállítói finanszírozás esetén
 
 a) a Kbt. hatálya alá tartozó közbeszerzési eljárás és
 
@@ -16,4 +16,4 @@ b) meghaladja az ötmilliárd forintot, akkor a szállítói előleg mértéke a
 
 (4) Ha a szállító a szállítói előleggel elszámolt, újra igényelhet szállítói előleget.
 
-[^205]: A 262. § a 416/2023. (VIII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^209]: A 262. § a 416/2023. (VIII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.

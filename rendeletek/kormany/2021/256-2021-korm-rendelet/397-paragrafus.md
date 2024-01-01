@@ -18,8 +18,8 @@ d) uniós jogi aktusban meghatározott egyéb jogkövetkezményt alkalmazhat.
 
 (4) Ha a pénzügyi korrekció mértékét nem lehet számszerűsíteni, aránytalan lenne a szabálytalansággal érintett kiadás egészének visszavonása vagy az félrevezető eredményt adna, átalánykorrekciót kell alkalmazni. Az átalánykorrekció mértékét a szabálytalanság súlya és pénzügyi következménye alapján kell meghatározni.
 
-(4a)[^271] Ha egyszerűsített elszámolás esetén a szabálytalanságot nem az átalányszámítás alapját képező költséggel érintett tevékenységgel kapcsolatban állapították meg, az átalánykorrekciót az átalányszámítás alapját képező költségre és a számított költségre is alkalmazni kell.
+(4a)[^275] Ha egyszerűsített elszámolás esetén a szabálytalanságot nem az átalányszámítás alapját képező költséggel érintett tevékenységgel kapcsolatban állapították meg, az átalánykorrekciót az átalányszámítás alapját képező költségre és a számított költségre is alkalmazni kell.
 
 (5) Az irányító hatóság a támogatási jogviszonyt érintő intézkedést rendelhet el, ha szabálytalanság nem kerül megállapításra, de jogsértő helyzet megszüntetése szükséges.
 
-[^271]: A 397. § (4a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 62. §-a iktatta be.
+[^275]: A 397. § (4a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 62. §-a iktatta be.

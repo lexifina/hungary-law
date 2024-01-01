@@ -1,10 +1,10 @@
-236. § (1)[^183] Ha a felhívás lehetővé teszi, a 235. § (1) bekezdése alapján a felhívásban elszámolhatóként megjelölt költségekre vonatkozó százalékos mértékek átcsoportosítással módosíthatók, azzal, hogy így sem haladhatják meg a felhívásban elszámolhatóként megjelölt költségtípusokra vonatkozó százalékos mértékek együttes összegét, valamint a 235. § (2) bekezdése szerinti legmagasabb százalékos mértéket.
+236. § (1)[^187] Ha a felhívás lehetővé teszi, a 235. § (1) bekezdése alapján a felhívásban elszámolhatóként megjelölt költségekre vonatkozó százalékos mértékek átcsoportosítással módosíthatók, azzal, hogy így sem haladhatják meg a felhívásban elszámolhatóként megjelölt költségtípusokra vonatkozó százalékos mértékek együttes összegét, valamint a 235. § (2) bekezdése szerinti legmagasabb százalékos mértéket.
 
 (2) Az ingatlanvásárlás költségtípusra – ha az meghaladná a 235. § (1) bekezdés c) pontja szerinti százalékos mértéket – a Kormány egyedi hozzájárulása esetén lehet átcsoportosítani.
 
 (3) Ha a felhívás lehetővé teszi, a felhívásban elszámolhatóként megjelölt költségtípusokra vonatkozó százalékos mértékek együttes összege az adott projekt esetén a Kormány egyedi hozzájárulása alapján meghaladható.
 
-(4)[^184] Ha a felhívás előírja a kétszázmillió forint elszámolható összköltséget meg nem haladó, az Európai Regionális Fejlesztési Alapból finanszírozott projekt esetén a miniszter által kiadott, a 235. § (1) bekezdése szerinti költségtípusok százalékos átalányalapú finanszírozására vonatkozó módszertan alkalmazását, a százalékos mértékek a költségtípusok közötti átcsoportosítással nem módosíthatók.
+(4)[^188] Ha a felhívás előírja a kétszázmillió forint elszámolható összköltséget meg nem haladó, az Európai Regionális Fejlesztési Alapból finanszírozott projekt esetén a miniszter által kiadott, a 235. § (1) bekezdése szerinti költségtípusok százalékos átalányalapú finanszírozására vonatkozó módszertan alkalmazását, a százalékos mértékek a költségtípusok közötti átcsoportosítással nem módosíthatók.
 
-[^183]: A 236. § (1) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
-[^184]: A 236. § (4) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^187]: A 236. § (1) bekezdése a 156/2022. (IV. 19.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
+[^188]: A 236. § (4) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 25. pontja szerint módosított szöveg.

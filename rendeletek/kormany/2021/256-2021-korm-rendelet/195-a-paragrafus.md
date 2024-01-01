@@ -1,4 +1,4 @@
-## 49/A.[^158] Az uniós értékhatárokat elérő vagy meghaladó becsült értékű, valamint az építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó becsült értékű közbeszerzési eljárások útján megkötött szerződések ellenőrzése
+## 49/A.[^162] Az uniós értékhatárokat elérő vagy meghaladó becsült értékű, valamint az építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó becsült értékű közbeszerzési eljárások útján megkötött szerződések ellenőrzése
 
 195/A. § (1) A kedvezményezett a közbeszerzési eljárás eredményeként megkötött szerződést – annak megkötését követő két munkanapon belül – megküldi az irányító hatóság részére.
 
@@ -6,4 +6,4 @@
 
 (3) Az irányító hatóság a (2) bekezdés szerinti határidőben megküldi a kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát.
 
-[^158]: A 49/A. alcímet (195/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 46. §-a iktatta be.
+[^162]: A 49/A. alcímet (195/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 46. §-a iktatta be.

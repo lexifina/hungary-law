@@ -1,6 +1,6 @@
-## 59/A.[^188] A költségfüggetlen finanszírozás
+## 59/A.[^192] A költségfüggetlen finanszírozás
 
-240/A. §[^189] (1) A költségfüggetlen finanszírozás során a projekt megvalósítása és finanszírozása mérföldkövenként történik.
+240/A. §[^193] (1) A költségfüggetlen finanszírozás során a projekt megvalósítása és finanszírozása mérföldkövenként történik.
 
 (2) A kedvezményezett mérföldkövenként előleget igényelhet. Az előleg mértéke az adott mérföldkőre jutó támogatás összegének legfeljebb 25%-a.
 
@@ -14,5 +14,5 @@
 
 (7) A beszámoló benyújtásának elmulasztása vagy elutasítása esetén az irányító hatóság az adott mérföldkőre jutó támogatást nem fizeti ki, a kedvezményezett a folyósított előleget a 427. § (2) bekezdése szerint visszafizeti.
 
-[^188]: Az 59/A. alcímet (240/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 51. §-a iktatta be.
-[^189]: A 240/A. § a 416/2023. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^192]: Az 59/A. alcímet (240/A. §-t) a 195/2023. (V. 22.) Korm. rendelet 51. §-a iktatta be.
+[^193]: A 240/A. § a 416/2023. (VIII. 31.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -8,6 +8,6 @@
 
 (5) Ha a kedvezményezett a fejlesztés tárgyát képező ingatlant ajánlja fel biztosítékként, az ingatlannak az ingatlan jelzálogszerződés aláírásakor fennálló értékét kell figyelembe venni annak megállapítása során, hogy a felajánlott biztosíték eléri legalább a már folyósított és az igényelt támogatási összeg összértékét.
 
-(6)[^133] A biztosítékként felajánlott ingatlant a kedvezményezett csak az irányító hatóság előzetes engedélyével idegenítheti el vagy terhelheti meg.
+(6)[^137] A biztosítékként felajánlott ingatlant a kedvezményezett csak az irányító hatóság előzetes engedélyével idegenítheti el vagy terhelheti meg.
 
-[^133]: A 145. § (6) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^137]: A 145. § (6) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 4. pontja szerint módosított szöveg.

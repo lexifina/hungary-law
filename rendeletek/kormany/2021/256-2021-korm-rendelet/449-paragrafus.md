@@ -15,3 +15,5 @@
 7. a támogatási arányt,
 
 8. az elszámolás típusát,
+
+9. az előleg mértékét és összegét,

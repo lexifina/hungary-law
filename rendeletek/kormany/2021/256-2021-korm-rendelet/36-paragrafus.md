@@ -1,6 +1,6 @@
-36. § (1)[^61] A Partnerségi Megállapodás monitoring bizottságba a miniszter felkérésére tagot delegál
+36. § (1)[^64] A Partnerségi Megállapodás monitoring bizottságba a miniszter felkérésére tagot delegál
 
-a) a miniszter tevékenységének segítésére kijelölt minisztérium európai uniós fejlesztéspolitikáért felelős állami vezetője,
+a)[^65] a miniszter által vezetett minisztérium európai uniós fejlesztéspolitikáért felelős állami vezetője,
 
 b) az irányító hatóság,
 
@@ -8,16 +8,17 @@ c) a Magyar Tudományos Akadémia és
 
 d) a 35. § (1) bekezdés c)–h) pontja szerinti személy, szervezet.
 
-(2)[^62] A Partnerségi Megállapodás monitoring bizottságba a miniszter felkérésére állandó meghívott szakértőt delegálhat különösen
+(2)[^66] A Partnerségi Megállapodás monitoring bizottságba a miniszter felkérésére állandó meghívott szakértőt delegálhat különösen
 
 a) a 35. § (1) bekezdésében fel nem sorolt miniszter és
 
 b) a 35. § (2) bekezdés e), f) és i) pontja szerinti szervezet.
 
-(2a)[^63] A Partnerségi Megállapodás monitoring bizottság munkájában az Európai Bizottság képviselője tanácskozási joggal vesz részt.
+(2a)[^67] A Partnerségi Megállapodás monitoring bizottság munkájában az Európai Bizottság képviselője tanácskozási joggal vesz részt.
 
 (3) A Partnerségi Megállapodás monitoring bizottság (1) bekezdés szerint delegált tagjai egyenlő szavazati joggal rendelkeznek.
 
-[^61]: A 36. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^62]: A 36. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 32. §-ával megállapított szöveg.
-[^63]: A 36. § (2a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 32. §-a iktatta be.
+[^64]: A 36. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^65]: A 36. § (1) bekezdés a) pontja a 640/2023. (XII. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^66]: A 36. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^67]: A 36. § (2a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 32. §-a iktatta be.
