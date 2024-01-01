@@ -58,6 +58,8 @@
 
 26.[^239] Kapcsolattartási adatai (telefonszám, elektronikus levelezési cím)
 
+27.[^240] Az ügyintéző viselt nevét, aláírását és a hatóság bélyegzőlenyomatát
+
 [^230]: Az 1. melléklet nyitó szövegrésze a 256/2023. (VI. 26.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
 [^231]: Az 1. melléklet 9a. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
 [^232]: Az 1. melléklet a 176/2019. (VII. 18.) Korm. rendelet 9. § (11) bekezdésével megállapított szöveg.
@@ -68,3 +70,4 @@
 [^237]: Az 1. melléklet 24. pontját a 379/2016. (XII. 2.) Korm. rendelet 311. § (27) bekezdése iktatta be.
 [^238]: Az 1. melléklet 25. pontját az 572/2020. (XII. 9.) Korm. rendelet 81. §-a iktatta be.
 [^239]: Az 1. melléklet második 25. pontját a 375/2021. (VI. 30.) Korm. rendelet 23. §-a iktatta be, szövege a 717/2021. (XII. 20.) Korm. rendelet 17. § d) pontja szerint módosított szöveg, ez utóbbi módosító rendelet egyúttal a 25. pont sorszámát 26. pontra változtatta.
+[^240]: Az 1. melléklet 27. pontját az 597/2023. (XII. 21.) Korm. rendelet 13. §-a iktatta be.

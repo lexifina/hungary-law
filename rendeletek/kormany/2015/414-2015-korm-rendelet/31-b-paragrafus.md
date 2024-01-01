@@ -1,4 +1,4 @@
-## 7b.[^116] Az állandó személyazonosító igazolvány hivatalbóli kiadása a Magyarországon házasságot kötött magyar állampolgár részére
+## 7b.[^115] Az állandó személyazonosító igazolvány hivatalbóli kiadása a Magyarországon házasságot kötött magyar állampolgár részére
 
 31/B. § (1) Hivatalból állandó személyazonosító igazolványt kell kiadni az Nytv. 7. § (4) bekezdése szerinti, hivatalbóli kiállítást megakadályozó nyilatkozatot nem tevő magyar állampolgárnak, ha arra a házasságkötése során választott – a születési vagy a házasságkötés előtt közvetlenül viselt nevétől eltérő – házassági nevének nyilvántartásba vétele miatt kerül sor.
 
@@ -18,7 +18,7 @@ b) személyes megjelenés nélkül, postai úton megküldeni bármely járási h
 
 (7) A házasságkötésből eredő névváltozás miatt érvénytelenné vált személyazonosító igazolvány érvénytelenségének tényére és a hivatalból kiállított személyazonosító igazolvány érvényességére vonatkozó bejegyzésről a hivatalból kiállított személyazonosító igazolvány átvételét igazoló tértivevény visszaérkezését követően kell gondoskodni.
 
-(8)[^117] Az át nem vett személyazonosító igazolványt a járási hivatal a második sikertelen kézbesítés napját követő 30 nap elteltével átvétel hiányában érvényteleníti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
+(8)[^116] Az át nem vett személyazonosító igazolványt a járási hivatal a második sikertelen kézbesítés napját követő 30 nap elteltével átvétel hiányában érvényteleníti, és gondoskodik e ténynek a nyilvántartásban való feltüntetéséről.
 
-[^116]: A 7b. alcímet (31/B. §) az 572/2020. (XII. 9.) Korm. rendelet 74. §-a iktatta be.
-[^117]: A 31/B. § (8) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 22. § (8) bekezdése iktatta be.
+[^115]: A 7b. alcímet (31/B. §) az 572/2020. (XII. 9.) Korm. rendelet 74. §-a iktatta be.
+[^116]: A 31/B. § (8) bekezdését a 375/2021. (VI. 30.) Korm. rendelet 22. § (8) bekezdése iktatta be.
