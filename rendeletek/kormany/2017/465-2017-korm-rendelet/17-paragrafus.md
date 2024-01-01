@@ -6,7 +6,8 @@
 
 (3)[^20]
 
-(4) Az állami adó- és vámhatóság az Art. 246. § (1) bekezdés c)–e) pontjában meghatározott esetekben az adószám törlését elrendelő határozatot hirdetményi úton közli az adózóval.
+(4)[^21] Az állami adó- és vámhatóság az Art. 246. § (1) bekezdés c)–e) és i) pontjában meghatározott esetekben az adószám törlését elrendelő határozatot hirdetményi úton közli az adózóval.
 
 [^19]: A 17. § (2) bekezdését a 260/2019. (XI. 7.) Korm. rendelet 15. § 2. pontja hatályon kívül helyezte.
 [^20]: A 17. § (3) bekezdését a 260/2019. (XI. 7.) Korm. rendelet 15. § 2. pontja hatályon kívül helyezte.
+[^21]: A 17. § (4) bekezdése a 611/2023. (XII. 22.) Korm. rendelet 36. § (1) bekezdés 1. pontja szerint módosított szöveg.

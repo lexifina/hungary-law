@@ -1,4 +1,4 @@
-## 10/A. [^34] A munkáltatói/kifizetői havi járulék adatszolgáltatáson alapuló elektronikus keresetkimutatás
+## 10/A. [^35] A munkáltatói/kifizetői havi járulék adatszolgáltatáson alapuló elektronikus keresetkimutatás
 
 24/A. § Az állami adó- és vámhatóság a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény szerinti központi hitelinformációs rendszert kezelő pénzügyi vállalkozáson keresztül a következő adatokat tartalmazó keresetkimutatást, valamint a keresetkimutatás előállításának időpontját megküldi az Art. 131. § (24) bekezdése szerinti címzetteknek:
 
@@ -28,4 +28,4 @@ l) a gyermekgondozást segítő ellátás (GYES) összege;
 
 m) a gyermeknevelési támogatás (GYET), a gyermekek otthongondozási díja (GYOD), az ápolási díj, munkarehabilitációs díj, fejlesztési foglalkoztatási díj, rendvédelmi egészségkárosodási járadék, honvédelmi egészségkárosodási járadék, rendvédelmi egészségkárosodási keresetkiegészítés, honvédelmi egészségkárosodási keresetkiegészítés folyósításának, valamit az álláskeresési támogatás összege összesítve.
 
-[^34]: A 10/A. alcímet (24/A. §) a 260/2019. (XI. 7.) Korm. rendelet 6. §-a iktatta be.
+[^35]: A 10/A. alcímet (24/A. §) a 260/2019. (XI. 7.) Korm. rendelet 6. §-a iktatta be.

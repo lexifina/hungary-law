@@ -1,4 +1,4 @@
-## 27.[^68] Telefonos ügyintézés és tájékoztatás
+## 27.[^71] Telefonos ügyintézés és tájékoztatás
 
 70. § (1) Az egyedi ügyintézés és tájékoztatás szolgáltatás igénybevételéhez szükséges ügyfél-azonosító szám igénylése esetén az állami adó- és vámhatóság a véletlenszerűen képzett ügyfél-azonosító számról a kérelemnek megfelelő úton értesíti a telefonos egyedi ügyintézést és tájékoztatást igénybe vevő személyt (ezen alcím alkalmazásában a továbbiakban: ügyfél).
 
@@ -10,4 +10,4 @@
 
 (5) Ha az ügyfél telefonon előterjesztett kérelme telefonon nem teljesíthető, az ügyintéző tájékoztatja a kérelme szerinti adóügy intézésének módjáról.
 
-[^68]: A 27. alcím (70–72. §) a 611/2023. (XII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^71]: A 27. alcím (70-72. §) a 611/2023. (XII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.
