@@ -1,10 +1,10 @@
-40. § (1)[^237] Ha a támogatott személy az e rendeletben foglalt visszafizetési kötelezettségének a hitelintézeti felszólítás ellenére sem tesz eleget, a hitelintézet a visszafizetési kötelezettség érvényesítése érdekében a kormányhivatalhoz fordul.
+40. § (1)[^245] Ha a támogatott személy az e rendeletben foglalt visszafizetési kötelezettségének a hitelintézeti felszólítás ellenére sem tesz eleget, a hitelintézet a visszafizetési kötelezettség érvényesítése érdekében a kormányhivatalhoz fordul.
 
 (2) Az e rendeletben meghatározott kamatszámítás során a kamat nem tőkésíthető.
 
 (3) Az e rendeletben foglalt visszafizetési kötelezettséget a „10032000-01034080 Lakástámogatások visszafizetése bevételi számla” kincstári számlára kell teljesíteni.
 
-(4)[^238] A visszafizetési kötelezettség teljesítését követően a kormányhivatal intézkedik a családi otthonteremtési kedvezmény visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásból történő törlése iránt.
+(4)[^246] A visszafizetési kötelezettség teljesítését követően a kormányhivatal intézkedik a családi otthonteremtési kedvezmény visszafizetését biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásból történő törlése iránt.
 
-[^237]: A 40. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 15. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés f) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^238]: A 40. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 9. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^245]: A 40. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 15. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés f) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^246]: A 40. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 322. § (3) bekezdés 9. pontja, a 360/2019. (XII. 30.) Korm. rendelet 151. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

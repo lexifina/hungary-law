@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-17-20-2
 | 2023-05-13 | 2016-17-20-22.30 | 169/2023. (V. 12.) Korm. rendelet |
 | 2023-07-01 | 2016-17-20-22.31 | 169/2023. (V. 12.) Korm. rendelet |
 | 2023-09-01 | 2016-17-20-22.33 | 406/2023. (VIII. 30.) Korm. rendelet |
+| 2024-01-01 | 2016-17-20-22.32 | 649/2023. (XII. 28.) Korm. rendelet |

@@ -4,7 +4,7 @@
 
 a) a meglévő gyermeket,
 
-b)[^45] a 12. hetet betöltött magzatot, valamint
+b)[^46] a 12. hetet betöltött magzatot, valamint
 
 c) a vállalt gyermekeket
 
@@ -34,7 +34,7 @@ kell figyelembe venni.
 
 (9) Ha az élettársak a családi otthonteremtési kedvezményt a velük közös háztartásban élő közös és mindkét fél saját gyermeke után igénylik, az általuk – együttes igénylőként – igényelhető támogatási összeget akként kell meghatározni, hogy mindkét fél esetében ki kell számolni, hogy a saját gyermekei után milyen összegű családi otthonteremtési kedvezményre lenne jogosult. A közös gyermeket a számítás során csak az egyik igénylőnél lehet figyelembe venni. Az élettársak az így kiszámított összegek közül a számukra kedvezőbbet vehetik igénybe.
 
-(10)[^46] A családi otthonteremtési kedvezmény az e rendeletben meghatározott feltételek szerint az igénylővel közös háztartásban élő, és a vele együtt költöző, legalább egy éve az igénylő gyámsága vagy gondnoksága alatt álló gyermek után is igényelhető a gyermek szüleinek halála esetén.
+(10)[^47] A családi otthonteremtési kedvezmény az e rendeletben meghatározott feltételek szerint az igénylővel közös háztartásban élő, és a vele együtt költöző, legalább egy éve az igénylő gyámsága vagy gondnoksága alatt álló gyermek után is igényelhető a gyermek szüleinek halála esetén.
 
-[^45]: A 10. § (1) bekezdés b) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
-[^46]: A 10. § (10) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 20. §-a iktatta be, szövege a 406/2023. (VIII. 30.) Korm. rendelet 26. § 4. pontja szerint módosított szöveg.
+[^46]: A 10. § (1) bekezdés b) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^47]: A 10. § (10) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 20. §-a iktatta be, szövege a 406/2023. (VIII. 30.) Korm. rendelet 26. § 4. pontja szerint módosított szöveg.
