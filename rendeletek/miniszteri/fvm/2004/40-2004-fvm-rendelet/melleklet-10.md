@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^126]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^154]
 
 I. RÉSZ
 
@@ -28,7 +28,7 @@ I. RÉSZ
 
 | 7. | Lolium x hybridum Hausskn | Hibrid perje | TP 4/2, 2019.3.19. |
 
-| 8. | Pisum sativum L. (partim) | Takarmányborsó | TP 7/2 Rev. 3 Corr., 2020.3.16. |
+| 8. | Pisum sativum L. (partim) | Takarmányborsó | TP 7/2 Rev. 3 Corr., 2020.3.6. |
 
 | 8/a. | Vicia sativa L. | Takarmánybükköny | TP 32/1, 2016.4.19. |
 
@@ -38,7 +38,7 @@ I. RÉSZ
 
 | 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
 
-| 10. | Cannabis sativa L. | Kender | TP 276/2, 2022.2.1. |
+| 10. | Cannabis sativa L. | Kender | TP 276/2 Rev., 2022.12.30. |
 
 | 10/a. | Gossypium spp. | Gyapot | TP 88/2, 2020.12.11. |
 
@@ -54,7 +54,7 @@ I. RÉSZ
 
 | 16. | Oryza sativa L. | Rizs | TP 16/3, 2015.10.1. |
 
-| 17. | Secale cereale L. | Rozs | TP 58/1 Rev., 2022.4.27. |
+| 17. | Secale cereale L. | Rozs | TP 58/1 Rev. Corr., 2022.4.27. |
 
 | 17/a. | Sorghum bicolor (L.) Moench subsp. bicolor | Cirok | TP 122/1, 2019.3.19. |
 
@@ -62,7 +62,7 @@ I. RÉSZ
 
 | 17/c. | Sorghum bicolor (L.) Moench subsp. bicolor × Sorghum bicolor (L.) Moench subsp. drummondii (Steud.) de Wet ex Davidse | A Sorghum bicolor subsp. bicolor és a Sorghum bicolor subsp. drummondii keresztezéséből származó hibridek | TP 122/1, 2019.3.19. |
 
-| 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/3, 2022.4.27. |
+| 18. | xTriticosecale Wittm. ex A. Camus | A Triticum nemzetség valamely fajának és a Secale nemzetség valamely fajának keresztezéséből származó hibridek | TP 121/3 Corr., 2022.4.27. |
 
 | 19. | Triticum aestivum L. subsp. aestivum | Búza | TP 3/5, 2019.3.19. |
 
@@ -194,4 +194,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^126]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a szerint módosított szöveg.
+[^154]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (1) bekezdése és 3. § a) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (1) bekezdése, a 36/2020. (VI. 29.) AM rendelet 2. § (2) bekezdése, 3. §-a, a 48/2021. (XII. 21.) AM rendelet 2. § (1) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (1) bekezdése és 3. §-a, a 62/2023. (XI. 22.) AM rendelet 2. § a)-d) pontja szerint módosított szöveg.

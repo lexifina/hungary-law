@@ -216,6 +216,6 @@
 
 | 106. | 5.1 Burgonya (Solanum tuberosum L.) | III. 15. | 3 | 350 db vetőgumó | 6 | K1 A (E) | – |
 
-6. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^122]
+6. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^150]
 
-[^122]: A 6. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.
+[^150]: A 6. számú mellékletet a 22/2005. (III. 22.) FVM rendelet 7. §-a iktatta a szövegbe.

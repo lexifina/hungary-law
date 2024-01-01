@@ -10,9 +10,9 @@
 
 4. géntechnológiával módosított növényfajta: fajta, amelynek génállományát génsebészeti beavatkozással olyan módon változtatták meg, ahogyan az természetes úton nem menne végbe,
 
-5.[^6] fajtajelölt: a NÉBIH-hez állami elismerés céljából végzett fajtavizsgálatra bejelentett, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
+5.[^6] fajtajelölt: a NÉBIH-hez állami elismerés céljából végzett fajtavizsgálat iránti kérelemben bejelentett, illetve fajtaoltalmi vizsgálatokra bejelentett növényfajta,
 
-6.[^7] fajtavizsgálat: az állami elismerés céljából végzett vizsgálatra bejelentett fajták, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában a NÉBIH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
+6.[^7] fajtavizsgálat: az állami elismerés céljából végzett vizsgálat iránti kérelemben bejelentett fajták, illetve növényfajta-oltalom céljára bejelentett fajták – nemzetközileg ajánlott, vagy ennek hiányában a NÉBIH által kifejlesztett módszerekkel beállított kísérletekben végzett – hivatalos DUS-vizsgálata és – ahol ez követelmény – gazdasági értékvizsgálata,
 
 7. tartós vetőmagtárolás: az államilag elismert, illetve növényfajta-oltalomban részesített fajták – kijelölt hibridek esetén azok komponensei is – és a referencia és példa fajták nemzetközi szabvány szerint előkészített vetőmagjának középtávú megőrzése, a gyűjtemény fenntartása,
 
@@ -24,7 +24,7 @@
 
 11.[^9] ökológiai termelésre alkalmas ökológiai fajta: az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/848 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/848 európai parlamenti és tanácsi rendelet] 3. cikk 19. pontja szerinti fajta.
 
-[^6]: A 3. § 5. pontja a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése, a 3/2018. (VI. 22.) AM rendelet 15. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § 6. pontja a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése, a 3/2018. (VI. 22.) AM rendelet 15. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § 5. pontja a 105/2012. (X. 11.) VM rendelet 5. § (4) bekezdése, a 3/2018. (VI. 22.) AM rendelet 15. § a) pontja, a 159/2023. (XII. 27.) AM rendelet 6. § 2. pontja szerint módosított szöveg.
+[^7]: A 3. § 6. pontja a 105/2012. (X. 11.) VM rendelet 5. § (2) bekezdése, a 3/2018. (VI. 22.) AM rendelet 15. § b) pontja, a 159/2023. (XII. 27.) AM rendelet 6. § 3. pontja szerint módosított szöveg.
 [^8]: A 3. § 8. pontja a 183/2009. (XII. 30.) FVM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^9]: A 3. § 11. pontját a 36/2023. (VII. 19.) AM rendelet 1. §-a iktatta be.

@@ -1,21 +1,23 @@
-18. § (1)[^69] A Nemzeti Fajtajegyzéken csak olyan fajta szerepelhet, amelynek a NÉBIH-nél nyilvántartott fajtafenntartója van.
+18. § (1)[^84] A Nemzeti Fajtajegyzéken csak olyan fajta szerepelhet, amelynek a NÉBIH-nél nyilvántartott fajtafenntartója van.
 
-(2)[^70] A fajta állami elismerése meghosszabbítható, ha a NÉBIH által lefolytatott vizsgálat megállapítja, hogy a fajta eredeti fajtaleírásban rögzített tulajdonságai nem változtak meg. A vizsgálatra történő bejelentést a fajta állami elismerése lejárati időpontja előtt legalább két évvel kell a NÉBIH-hez megtenni. Az állami elismerés meghosszabbítása iránti kérelem benyújtásával egyidejűleg a kérelmező igazolja a NÉBIH által lefolytatott vizsgálat eredményét.
+(2)[^85] A fajta állami elismerése meghosszabbítható, ha a NÉBIH által lefolytatott vizsgálat megállapítja, hogy a fajta eredeti fajtaleírásban rögzített tulajdonságai nem változtak meg. Az állami elismerés meghosszabbítása iránti, a fajta vizsgálatára kiterjedő kérelmet a fajta állami elismerésének lejárati időpontja előtt legalább két évvel kell a NÉBIH-hez benyújtani.
 
-(2a)[^71] A (2) bekezdés szerinti meghosszabbítás időtartama szőlő-, gyümölcs-, erdészeti fajták és fás szárú dísznövények esetében az állami elismerés lejáratától számított 30. év végéig, egyéb növényfajták esetében a megadástól számított 10. év végéig tart.
+(2a)[^86] A (2) bekezdés szerinti meghosszabbítás időtartama szőlő-, gyümölcs-, erdészeti fajták és fás szárú dísznövények esetében az állami elismerés lejáratától számított 30. év végéig, egyéb növényfajták esetében a megadástól számított 10. év végéig tart.
 
-(3)[^72] Ha a miniszter az állami elismerés lejártáig nem dönt a meghosszabbítási kérelemről, az állami elismerés a döntés időpontjáig meghosszabbodik.
+(3)[^87] Ha a NÉBIH az állami elismerés lejártáig nem dönt a meghosszabbítási kérelemről, az állami elismerés a döntés időpontjáig meghosszabbodik.
 
-(4)[^73] Nem hosszabbítható meg az állami elismerés, ha
+(4)[^88] Nem hosszabbítható meg az állami elismerés, ha
 
-a) a fajta állami elismerése meghosszabbítása iránti kérelmet az állami elismerés megszűnését követően terjesztik elő,
+a)[^89]
 
 b) a vizsgálat eredménye alapján megállapításra kerül, hogy a fajta eredeti fajtaleírásban rögzített tulajdonságai megváltoztak, vagy
 
-c) a bejelentő nem fizette meg az állami elismerés meghosszabbításához szükséges vizsgálatért fizetendő díjat.
+c)[^90] a kérelmező nem fizette meg az állami elismerés meghosszabbításához szükséges vizsgálatért fizetendő díjat.
 
-[^69]: A 18. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (7) bekezdése szerint módosított szöveg.
-[^70]: A 18. § (2) bekezdése a 3/2018. (VI. 22.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^71]: A 18. § (2a) bekezdését a 3/2018. (VI. 22.) AM rendelet 9. § (1) bekezdése iktatta be.
-[^72]: A 18. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 60. § e) pontja szerint módosított szöveg.
-[^73]: A 18. § (4) bekezdése a 3/2018. (VI. 22.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^84]: A 18. § (1) bekezdése a 105/2012. (X. 11.) VM rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^85]: A 18. § (2) bekezdése a 159/2023. (XII. 27.) AM rendelet 3. §-ával megállapított szöveg.
+[^86]: A 18. § (2a) bekezdését a 3/2018. (VI. 22.) AM rendelet 9. § (1) bekezdése iktatta be.
+[^87]: A 18. § (3) bekezdése a 42/2017. (VIII. 17.) FM rendelet 60. § e) pontja, a 159/2023. (XII. 27.) AM rendelet 6. § 22. pontja szerint módosított szöveg.
+[^88]: A 18. § (4) bekezdése a 3/2018. (VI. 22.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^89]: A 18. § (4) bekezdés a) pontját a 159/2023. (XII. 27.) AM rendelet 7. § b) pontja hatályon kívül helyezte.
+[^90]: A 18. § (4) bekezdés c) pontja a 159/2023. (XII. 27.) AM rendelet 6. § 4. pontja szerint módosított szöveg.

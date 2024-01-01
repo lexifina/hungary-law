@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^127]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^155]
 
 I. RÉSZ
 
@@ -20,7 +20,7 @@ I. RÉSZ
 
 | 4. | Allium porrum L. | Póréhagyma | TP 85/2 2009. 4. 1. |
 
-| 5. | Allium sativum L. | Fokhagyma | TP 162/1 Corr., 2004.3.25. |
+| 5. | Allium sativum L. | Fokhagyma | TP 162/2, 2023.5.30. |
 
 | 6. | Allium schoenoprasum L. | Metélőhagyma | TP 198/2, 2015.3.11. |
 
@@ -42,7 +42,7 @@ I. RÉSZ
 
 | 14. | Brassica oleracea L. | Bimbóskel | TP 54/2 rev. 2017. 3. 15. |
 
-| 15. | Brassica oleracea L. | Karalábé | TP 65/1 rev. 2017. 3. 15. |
+| 15. | Brassica oleracea L. | Karalábé | TP 65/2, 2023.5.30. |
 
 | 16. | Brassica oleracea L. | Kelkáposzta, fejes káposzta és vörös káposzta | TP 48/3 Rev. 2., 2021.3.25. |
 
@@ -56,9 +56,9 @@ I. RÉSZ
 
 | 21. | Cichorium intybus L. | Cikóriasaláta | TP 173/2, 2018.3.21. |
 
-| 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/1 Rev 2 Corr., 2021.4.14. |
+| 21/a. | Cichorium intybus L. | Leveles cikória | TP 154/2 Rev., 2023.3.31. |
 
-| 22. | Citrullus lanatus (Thunb.) Matsum. et Nakai | Görögdinnye | TP 142/2 Rev., 2021.4.14. |
+| 22. | Citrullus lanatus (Thunb.) Matsum. et Nakai | Görögdinnye | TP 142/2 Rev. 2., 2023.3.31. |
 
 | 23. | Cucumis melo L. | Sárgadinnye | TP 104/2 Rev. 2., 2021.3.25. |
 
@@ -70,7 +70,7 @@ I. RÉSZ
 
 | 26. | Cynara cardunculus L. | Articsóka és kardi | TP 184/2 Rev., 2020.3.6 |
 
-| 27. | Daucus carota L. | Sárgarépa és takarmány sárgarépa | TP 49/3 2008. 3. 13. |
+| 27. | Daucus carota L. | Sárgarépa és takarmány sárgarépa | TP 49/3 Corr., 2008. 3. 13. |
 
 | 28. | Foeniculum vulgare Mill. | Édeskömény | TP 183/2, 2021.4.14. |
 
@@ -84,7 +84,7 @@ I. RÉSZ
 
 | 33. | Phaseolus vulgaris L. | Zöldbab (bokorbab és futóbab) | TP 12/4 2013. 2. 27. |
 
-| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 Rev. 3 Corr., 2020.3.16. |
+| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 Rev. 3 Corr., 2020.3.6. |
 
 | 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 Rev. Corr., 2015.3.11. |
 
@@ -116,7 +116,7 @@ II. RÉSZ
 
 | 1. |  |  |  |
 
-| 2. | Brassica rapa L. | Tarlórépa | TG/37/10 2001. 4. 4. |
+| 2. | Brassica rapa L. | Tarlórépa | TG/37/11, 2022.9.23. |
 
 | 3. |  |  |  |
 
@@ -130,4 +130,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^127]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^155]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja, a 38/2017. (VII. 11.) FM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 24/2018. (VIII. 31.) AM rendelet 2. § (2) bekezdése és 3. § b) pontja, a 44/2019. (IX. 20.) AM rendelet 2. § (2) bekezdése és 3. §-a, a 36/2020. (VI. 29.) AM rendelet 2. § (3) bekezdése, a 48/2021. (XII. 21.) AM rendelet 2. § (2) bekezdése, a 37/2022. (XII. 6.) AM rendelet 2. § (2) bekezdése, a 62/2023. (XI. 22.) AM rendelet 2. § e)-k) pontja szerint módosított szöveg.
