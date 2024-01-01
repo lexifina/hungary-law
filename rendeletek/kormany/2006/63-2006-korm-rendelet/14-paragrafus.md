@@ -10,28 +10,28 @@
 
 (3)[^87] Ha a kérelmet vagy adatlapot a házastárs (élettárs) nem írja alá, akkor az ügyben eljáró szerv megvizsgálja ennek okát, és a vizsgálat eredményének figyelembevételével dönt a kérelemről.
 
-(4)[^88] A 2022. december 31-ét követő kezdő időponttól megállapított időskorúak járadékára való jogosultság esetén az Szt.
+(4)[^88] A 2023. december 31-ét követő kezdő időponttól megállapított időskorúak járadékára való jogosultság esetén az Szt.
 
-a) 32/B. § (1) bekezdés a) pontjában meghatározott jövedelemhatár 32 785 Ft,
+a) 32/B. § (1) bekezdés a) pontjában meghatározott jövedelemhatár 34 755 Ft,
 
-b) 32/B. § (1) bekezdés b) pontjában meghatározott jövedelemhatár 38 555 Ft,
+b) 32/B. § (1) bekezdés b) pontjában meghatározott jövedelemhatár 40 870 Ft,
 
-c) 32/B. § (1) bekezdés c) pontjában meghatározott jövedelemhatár 52 045 Ft.
+c) 32/B. § (1) bekezdés c) pontjában meghatározott jövedelemhatár 55 170 Ft.
 
-(5)[^89] 2023. január 1-jétől az időskorúak járadékának havi összege
+(5)[^89] 2024. január 1-jétől az időskorúak járadékának havi összege
 
 a) jövedelemmel nem rendelkező, az Szt.
 
-aa) 32/B. § (1) bekezdés a) pontja szerinti jogosult esetén 32 785 Ft,
+aa) 32/B. § (1) bekezdés a) pontja szerinti jogosult esetén 34 755 Ft,
 
-ab) 32/B. § (1) bekezdés b) pontja szerinti jogosult esetén 38 555 Ft,
+ab) 32/B. § (1) bekezdés b) pontja szerinti jogosult esetén 40 870 Ft,
 
-ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 52 045 Ft,
+ac) 32/B. § (1) bekezdés c) pontja szerinti jogosult esetén 55 170 Ft,
 
 b) jövedelemmel rendelkező jogosult esetén az a) pont szerinti összegnek és a jogosult havi jövedelmének a különbözete.
 
 [^85]: A 14. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
 [^86]: A 14. § (2) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 15. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 168. § g) pontja és 167. § d) pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § g) pontja szerint módosított szöveg.
 [^87]: A 14. § (3) bekezdése a 95/2013. (III. 29.) Korm. rendelet 23. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^88]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^89]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 506/2022. (XII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^88]: A 14. § (4) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 524/2023. (XII. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^89]: A 14. § (5) bekezdését a 359/2017. (XI. 30.) Korm. rendelet 9. §-a iktatta be, szövege az 524/2023. (XII. 1.) Korm. rendelet 10. §-ával megállapított szöveg.

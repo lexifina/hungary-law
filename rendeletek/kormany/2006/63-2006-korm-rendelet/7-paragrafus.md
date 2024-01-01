@@ -1,4 +1,4 @@
-7. § (1)[^58]
+7. § (1)[^58] A szociális vetítési alap összege havonta 28 500 forint.
 
 (2)[^59] A havi rendszeres szociális ellátás összegének változásáról nem kell határozatot hozni, ha
 
@@ -24,7 +24,7 @@ b)[^66] az Szt. 25. § (4) bekezdés b) pontja szerinti esetben első felülvizs
 
 (4)[^69] A havi rendszeres szociális ellátás Szt. 25. §-ának (5) bekezdése szerinti felülvizsgálata esetén csak a támogatás összegének meghatározásához szükséges jövedelmi adatok kérhetőek be.
 
-[^58]: A 7. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^58]: A 7. § (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 659/2023. (XII. 28.) Korm. rendelet 23. §-a iktatta be.
 [^59]: A 7. § (2) bekezdése az 509/2013. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^60]: A 7. § (2) bekezdés a) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés e) pontja, a 629/2022. (XII. 30.) Korm. rendelet 27. §-a szerint módosított szöveg.
 [^61]: A 7. § (2) bekezdés b) pontja a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés f) pontja szerint módosított szöveg.
