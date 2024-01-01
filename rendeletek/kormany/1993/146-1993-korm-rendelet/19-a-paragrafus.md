@@ -1,4 +1,4 @@
-19/A. §[^162] (1) A 18. § (2) bekezdés e) pontjában meghatározott esetben a költözéssel nem járó címváltozás miatt csere alatt álló hatósági igazolvány érvénytelenségének tényére és a hivatalból kiállított hatósági igazolvány érvényességére vonatkozó bejegyzésről a járási hivatalnak a hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezését követően kell gondoskodnia.
+19/A. §[^163] (1) A 18. § (2) bekezdés e) pontjában meghatározott esetben a költözéssel nem járó címváltozás miatt csere alatt álló hatósági igazolvány érvénytelenségének tényére és a hivatalból kiállított hatósági igazolvány érvényességére vonatkozó bejegyzésről a járási hivatalnak a hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezését követően kell gondoskodnia.
 
 (2) Ha a 18. § (2) bekezdés e) pontja szerint hivatalból kiállított hatósági igazolvány kézbesítése másodszori alkalommal is sikertelen, a járási hivatal a hatósági igazolványt a címváltozás szerint illetékes jegyzőnek küldi meg személyes átadás céljából.
 
@@ -6,7 +6,7 @@
 
 (4) Ha a címváltozás szerint illetékes jegyző a hatósági igazolványt személyesen nem adja át, a hatósági igazolványt érvénytelenítés céljából visszaküldi a járási hivatalnak. A járási hivatal a hatósági igazolványt érvényteleníti, valamint a csere alatt álló hatósági igazolvány és a hivatalból kiállított hatósági igazolvány érvénytelenségének tényére vonatkozó bejegyzést tesz a nyilvántartásba.
 
-(5)[^163] A 18. § (2) bekezdés e) pontja szerint hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezésének hiányában a járási hivatal a polgárt írásban nyilatkoztatja arról, hogy a hatósági igazolványt átvette-e. A polgárt tájékoztatni kell arról is, hogy ha a hivatalból kiállított hatósági igazolványt nem vette át, az új hatósági igazolványa kiállítására kérelmére kerül sor, és a birtokában lévő csere alatt álló hatósági igazolványa adatváltozás miatt érvénytelen.
+(5)[^164] A 18. § (2) bekezdés e) pontja szerint hivatalból kiállított hatósági igazolvány átvételét igazoló tértivevény visszaérkezésének hiányában a járási hivatal a polgárt írásban nyilatkoztatja arról, hogy a hatósági igazolványt átvette-e. A polgárt tájékoztatni kell arról is, hogy ha a hivatalból kiállított hatósági igazolványt nem vette át, az új hatósági igazolványa kiállítására kérelmére kerül sor, és a birtokában lévő csere alatt álló hatósági igazolványa adatváltozás miatt érvénytelen.
 
 (6) Ha a polgár az (5) bekezdés szerinti esetben úgy nyilatkozott, hogy
 
@@ -14,12 +14,12 @@ a) a hatósági igazolványt átvette, a járási hivatal a nyilatkozat alapján
 
 b) a hatósági igazolványt nem vette át, a járási hivatal a (4) bekezdés szerint jár el.
 
-(7)[^164] Ha a járási hivatalnak a polgár (5) bekezdés szerinti nyilatkozattételére irányuló megkeresése eredménytelen vagy a megkeresés kézbesítése sikertelen, a járási hivatal a címváltozás szerint illetékes jegyzőt keresi meg a tényállás tisztázásához. A tényállás tisztázása esetén az (1) és (4) bekezdés szerint kell eljárni.
+(7)[^165] Ha a járási hivatalnak a polgár (5) bekezdés szerinti nyilatkozattételére irányuló megkeresése eredménytelen vagy a megkeresés kézbesítése sikertelen, a járási hivatal a címváltozás szerint illetékes jegyzőt keresi meg a tényállás tisztázásához. A tényállás tisztázása esetén az (1) és (4) bekezdés szerint kell eljárni.
 
 (8) Ha a tényállás tisztázása során a 18. § (2) bekezdés e) pontja szerinti hatósági igazolvány fellelhetősége nem állapítható meg, a járási hivatal a (7) bekezdés szerinti jegyző értesítése alapján a (4) bekezdés szerint jár el.
 
 (9) A polgár a címváltozás miatt érvénytelenné vált hatósági igazolványát a járási hivatalban vagy a címváltozás szerint illetékes jegyzőnél adhatja le.
 
-[^162]: Az R. 19/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
-[^163]: Az R. 19/A. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^164]: Az R. 19/A. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 15. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^163]: Az R. 19/A. §-át a 417/2012. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^164]: Az R. 19/A. § (5) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 3. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^165]: Az R. 19/A. § (7) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 15. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

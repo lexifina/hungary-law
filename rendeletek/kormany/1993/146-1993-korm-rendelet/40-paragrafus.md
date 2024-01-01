@@ -1,4 +1,4 @@
-40. §[^292] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
+40. §[^293] (1) A bejelentő akkor teljesítheti elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentést, ha
 
 a) a lakás kizárólagos tulajdonosa vagy annak egyedüli haszonélvezője,
 
@@ -6,7 +6,7 @@ b) a szállásadó a lakcímbejelentéshez az Nytv. 27/A. § (1) bekezdés b) po
 
 c) az Nytv. 27/A. § (3) bekezdésében meghatározott okiratot csatolja, vagy
 
-d)[^293] csatolja a szállásadó hozzájárulását, illetve több szállásadó esetén a lakcímbejelentés során eljáró szállásadó nyilatkozatát a többi szállásadó hozzájárulásáról.
+d)[^294] csatolja a szállásadó hozzájárulását, illetve több szállásadó esetén a lakcímbejelentés során eljáró szállásadó nyilatkozatát a többi szállásadó hozzájárulásáról.
 
 (2) Elektronikus azonosítást követően elektronikus kapcsolattartás útján a lakcímbejelentés akkor is benyújtható, ha a szállásadó a szállásadói hozzájárulását a rendelkezési nyilvántartásban tette meg. A bejelentő a benyújtáskor erről nyilatkozni köteles.
 
@@ -34,13 +34,13 @@ g) a lakcímbejelentés időpontja a bejelentés benyújtásának napja,
 
 h) a 36. § (4) bekezdése szerinti lakóhely nem jelenthető be.
 
-(3a)[^294] Ha a lakcímbejelentés az elektronikus ügyintézési ponton elérhető, a bejelentő – ha a rendelkezési nyilvántartásban meghatalmazást nem tett – kizárólag saját maga tekintetében teljesítheti a lakcímbejelentést.
+(3a)[^295] Ha a lakcímbejelentés az elektronikus ügyintézési ponton elérhető, a bejelentő – ha a rendelkezési nyilvántartásban meghatalmazást nem tett – kizárólag saját maga tekintetében teljesítheti a lakcímbejelentést.
 
-(3b)[^295] A (3a) bekezdésben foglalt feltételek fennállása esetén az elektronikus ügyintézési ponton a bejelentő a 40. § (1) bekezdés a), b) pontjában vagy a (2) bekezdésben foglaltak esetén teljesítheti a lakcímbejelentést.
+(3b)[^296] A (3a) bekezdésben foglalt feltételek fennállása esetén az elektronikus ügyintézési ponton a bejelentő a 40. § (1) bekezdés a), b) pontjában vagy a (2) bekezdésben foglaltak esetén teljesítheti a lakcímbejelentést.
 
-(3c)[^296] Ha az ügy az elektronikus ügyintézési ponton elérhető, az ügyfél választja ki, hogy mely járási hivatal gyakorolja a lakcímbejelentéssel kapcsolatos hatásköreit az elektronikus ügyintézési ponton benyújtott kérelem alapján indult eljárásban.
+(3c)[^297] Ha az ügy az elektronikus ügyintézési ponton elérhető, az ügyfél választja ki, hogy mely járási hivatal gyakorolja a lakcímbejelentéssel kapcsolatos hatásköreit az elektronikus ügyintézési ponton benyújtott kérelem alapján indult eljárásban.
 
-(3d)[^297] A kijelölt kormányhivatalban kialakított elektronikus ügyintézési ponton benyújtott lakcímbejelentés iránti kérelem ügyintézés céljából a polgár választása szerinti járási hivatalnak kerül megküldésre.
+(3d)[^298] A kijelölt kormányhivatalban kialakított elektronikus ügyintézési ponton benyújtott lakcímbejelentés iránti kérelem ügyintézés céljából a polgár választása szerinti járási hivatalnak kerül megküldésre.
 
 (4) A tartózkodási hely újabb tartózkodási hely létesítése nélküli megszüntetésére irányuló eljárást a járási hivatal az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti automatikus döntéshozatali eljárás útján folytatja le.
 
@@ -56,9 +56,9 @@ h) a 36. § (4) bekezdése szerinti lakóhely nem jelenthető be.
 
 (10) Az elektronikus lakcímbejelentést tárolni és az Nytv. általános szabályai szerinti ideig őrizni kell, valamint a bejelentésről az Nytv. általános szabályai szerint teljesíthető adatszolgáltatás.
 
-[^292]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
-[^293]: Az R. 40. § (1) bekezdés d) pontja a 375/2021. (VI. 30.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
-[^294]: Az R. 40. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^295]: Az R. 40. § (3b) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^296]: Az R. 40. § (3c) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^297]: Az R. 40. § (3d) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^293]: Az R. 40. §-át a 417/2012. (XII. 29.) Korm. rendelet 42. § (2) bekezdés d) pontja hatályon kívül helyezte, újonnan a 317/2020. (VII. 1.) Korm. rendelet 2. § (5) bekezedése iktatta be.
+[^294]: Az R. 40. § (1) bekezdés d) pontja a 375/2021. (VI. 30.) Korm. rendelet 3. § 6. pontja szerint módosított szöveg.
+[^295]: Az R. 40. § (3a) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^296]: Az R. 40. § (3b) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^297]: Az R. 40. § (3c) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^298]: Az R. 40. § (3d) bekezdését a 717/2021. (XII. 20.) Korm. rendelet 1. § (4) bekezdése iktatta be.

@@ -34,19 +34,21 @@ hb) a honosított polgár és – a 10. §-ban és 12. § (1) bekezdés b) pontj
 
 hc)[^104] az Nytv. 4. § (2e) bekezdés szerinti magyar állampolgár Magyarországon élő magyar állampolgárként történő nyilvántartásba vételével
 
+i)[^105] a járási hivatal a 10. § (2) bekezdése szerinti magyar állampolgár külföldön élő magyar állampolgárként történő nyilvántartásba vételével
+
 kapcsolatos eljárásban.
 
-(2)[^105] Az eljáró hatóság a (2a) bekezdésben meghatározott kivétellel
+(2)[^106] Az eljáró hatóság a (2a) bekezdésben meghatározott kivétellel
 
 a) dönt a hatósági igazolvány kiadásáról, kiadásának megtagadásáról, valamint a hatósági igazolvány cseréjéről és visszavonásáról;
 
-b)[^106] végzi – a hatósági igazolvánnyal összefüggő ügyintézés során tapasztalt, vagy a polgár által bejelentett, igazolt – adatváltozás, illetve a hibás adat kijavítás személyiadat- és lakcímnyilvántartáson történő átvezetésével kapcsolatos feladatokat;
+b)[^107] végzi – a hatósági igazolvánnyal összefüggő ügyintézés során tapasztalt, vagy a polgár által bejelentett, igazolt – adatváltozás, illetve a hibás adat kijavítás személyiadat- és lakcímnyilvántartáson történő átvezetésével kapcsolatos feladatokat;
 
 c) kezeli a hatósági igazolvány kiadásának megtagadásával kapcsolatos alapiratokat;
 
-d)[^107] gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása, elvesztése, eltulajdonítása megsemmisülése és találása tényének az okmánynyilvántartáson történő átvezetéséről.
+d)[^108] gondoskodik a hatósági igazolvány kiadása, visszavonása, leadása, elvesztése, eltulajdonítása megsemmisülése és találása tényének az okmánynyilvántartáson történő átvezetéséről.
 
-(2a)[^108] A (2) bekezdéstől eltérően az (1) bekezdés d) pontja szerinti esetben az állampolgársági ügyekben eljáró szerv, az (1) bekezdés e) pontja szerinti esetben a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv
+(2a)[^109] A (2) bekezdéstől eltérően az (1) bekezdés d) pontja szerinti esetben az állampolgársági ügyekben eljáró szerv, az (1) bekezdés e) pontja szerinti esetben a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv
 
 a) dönt a hatósági igazolvány kiadásáról, kiadásának megtagadásáról, valamint az általa hibásan kiállított hatósági igazolvány cseréjéről és visszavonásáról;
 
@@ -56,9 +58,9 @@ c) kezeli a hatósági igazolvány kiadásának megtagadásával kapcsolatos ala
 
 d) gondoskodik a hatósági igazolvány kiadása és visszavonása tényének az okmánynyilvántartáson történő átvezetéséről.
 
-(3)[^109] Az eljáró hatóság a (2) bekezdés a) és b) pontjában meghatározott esetekben továbbítja az illetékes járási hivatalnak a hatósági igazolvány kitöltéséhez szükséges adatokat, iratokat.
+(3)[^110] Az eljáró hatóság a (2) bekezdés a) és b) pontjában meghatározott esetekben továbbítja az illetékes járási hivatalnak a hatósági igazolvány kitöltéséhez szükséges adatokat, iratokat.
 
-(4)[^110] Az eljáró hatóság a hatósági igazolványhoz – a polgár kérelmére – kiállítja az (EU) 2016/1191 európai parlamenti és tanácsi rendeletben meghatározott többnyelvű formanyomtatványt.
+(4)[^111] Az eljáró hatóság a hatósági igazolványhoz – a polgár kérelmére – kiállítja az (EU) 2016/1191 európai parlamenti és tanácsi rendeletben meghatározott többnyelvű formanyomtatványt.
 
 [^90]: Az R.17. §-a a 230/2000. (XII. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^91]: Az R. 17. § (1) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
@@ -75,9 +77,10 @@ d) gondoskodik a hatósági igazolvány kiadása és visszavonása tényének az
 [^102]: Az R. 17. § (1) bekezdés h) pontját a 379/2016. (XII. 2.) Korm. rendelet 11. § (7) bekezdése iktatta be.
 [^103]: Az R. 17. § (1) bekezdés h) pont ha) alpontja a 176/2019. (VII. 18.) Korm. rendelet 1. § (12) bekezdése szerint módosított szöveg.
 [^104]: Az R. 17. § (1) bekezdés h) pont hc) alpontját a 176/2019. (VII. 18.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^105]: Az R. 17. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 13. pontja szerint módosított szöveg.
-[^106]: Az R. 17. § (2) bekezdésének b) pontja a 117/2005. (VI. 27.) Korm. rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
-[^107]: Az R. 17. § (2) bekezdés d) pontja az 515/2013. (XII. 30.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^108]: Az R. 17. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (8) bekezdésével megállapított szöveg.
-[^109]: Az R. 17. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
-[^110]: Az R. 17. § (4) bekezdését a 269/2018. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^105]: A 17. § (1) bekezdés i) pontját az 597/2023. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^106]: Az R. 17. § (2) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 13. pontja szerint módosított szöveg.
+[^107]: Az R. 17. § (2) bekezdésének b) pontja a 117/2005. (VI. 27.) Korm. rendelet 3. §-ának (2) bekezdésével megállapított szöveg.
+[^108]: Az R. 17. § (2) bekezdés d) pontja az 515/2013. (XII. 30.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^109]: Az R. 17. § (2a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (8) bekezdésével megállapított szöveg.
+[^110]: Az R. 17. § (3) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
+[^111]: Az R. 17. § (4) bekezdését a 269/2018. (XII. 20.) Korm. rendelet 7. § (2) bekezdése iktatta be.

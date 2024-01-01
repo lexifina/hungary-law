@@ -20,7 +20,7 @@
 
 ## 3.4. tartózkodási hely
 
-## 3.5.[^329]
+## 3.5.[^330]
 
 ## 3.6. születési idő
 
@@ -44,20 +44,20 @@
 
 ## 7.1. on-line
 
-## 7.2.[^330] elektronikus adathordozó
+## 7.2.[^331] elektronikus adathordozó
 
-## 7.3.[^331] papír vagy elektronikus levél
+## 7.3.[^332] papír vagy elektronikus levél
 
-## 8.[^332]
+## 8.[^333]
 
 ## 9. A kérelem benyújtásának időpontja
 
 ## 10. A kérelmező aláírása
 
-3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^333]
+3. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^334]
 
-[^329]: Az R. 2. számú melléklet 3. pont 3.5. alpontját a 375/2021. (VI. 30.) Korm. rendelet 4. § 15. pontja hatályon kívül helyezte.
-[^330]: Az R. 2. számú melléklet 7. pont 7.2. alpontja a 256/2023. (VI. 26.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^331]: Az R. 2. számú melléklet 7. pont 7.3. alpontja a 256/2023. (VI. 26.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
-[^332]: Az R. 2. számú melléklet 8. pontját a 256/2023. (VI. 26.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
-[^333]: Az R. 3. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés b) pontjával megállapított, a 60/2017. (III. 20.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
+[^330]: Az R. 2. számú melléklet 3. pont 3.5. alpontját a 375/2021. (VI. 30.) Korm. rendelet 4. § 15. pontja hatályon kívül helyezte.
+[^331]: Az R. 2. számú melléklet 7. pont 7.2. alpontja a 256/2023. (VI. 26.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^332]: Az R. 2. számú melléklet 7. pont 7.3. alpontja a 256/2023. (VI. 26.) Korm. rendelet 6. § b) pontjával megállapított szöveg.
+[^333]: Az R. 2. számú melléklet 8. pontját a 256/2023. (VI. 26.) Korm. rendelet 7. § c) pontja hatályon kívül helyezte.
+[^334]: Az R. 3. számú melléklete a 417/2012. (XII. 29.) Korm. rendelet 38. § (1) bekezdés b) pontjával megállapított, a 60/2017. (III. 20.) Korm. rendelet 4. § (4) bekezdése szerint módosított szöveg.
