@@ -1,3 +1,3 @@
-38. §[^67]
+38. §[^68]
 
-[^67]: A R. 38. §-át a 104/1999. (VII. 6.) Korm. rendelet 21. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
+[^68]: A R. 38. §-át a 104/1999. (VII. 6.) Korm. rendelet 21. §-a (3) bekezdésének a) pontja hatályon kívül helyezte.
