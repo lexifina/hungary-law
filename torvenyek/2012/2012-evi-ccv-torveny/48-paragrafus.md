@@ -12,6 +12,6 @@ d) szabadságra nem jogosult, kivéve, ha szolgálatba hívják, amelynek tartam
 
 (2) Az (1) bekezdés b) pontja szerinti összeg megállapítása során alkalmazni kell a Kenytv. 20. §-át.
 
-(3) A nyugdíj előtti rendelkezési állományba helyezett illetményét a központi költségvetés a honvédelmi szervezetnek megtéríti.
+(3)
 
 (4) Az (1) bekezdés b) pontja szerinti összeget a Tny. tv. 62. §-ában foglaltak szerint emelni kell.
