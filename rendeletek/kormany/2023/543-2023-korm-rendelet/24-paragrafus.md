@@ -1,5 +1,3 @@
-## 23.[^24]
+## 23. A Honvédelem tantárgy bevezetésével kapcsolatos, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvénytől eltérő veszélyhelyzeti rendelkezésekről szóló 404/2023. (VIII. 30.) Korm. rendelet hatályon kívül helyezése
 
-24. §
-
-[^24]: A 23. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+24. § Hatályát veszti a Honvédelem tantárgy bevezetésével kapcsolatos, a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvénytől eltérő veszélyhelyzeti rendelkezésekről szóló 404/2023. (VIII. 30.) Korm. rendelet.

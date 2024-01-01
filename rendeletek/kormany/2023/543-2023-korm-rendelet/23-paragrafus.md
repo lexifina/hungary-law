@@ -1,5 +1,3 @@
-## 22.[^23]
+## 22. A 2023. évi települési földadó visszatérítéséről szóló 308/2023. (VII. 14.) Korm. rendelet hatályon kívül helyezése
 
-23. §
-
-[^23]: A 22. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+23. § Hatályát veszti a 2023. évi települési földadó visszatérítéséről szóló 308/2023. (VII. 14.) Korm. rendelet.

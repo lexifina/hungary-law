@@ -1,5 +1,3 @@
-## 12.[^13]
+## 12. Az intézmények villamosenergia-beszerzéseivel kapcsolatos veszélyhelyzeti szabályokról szóló 41/2023. (II. 20.) Korm. rendelet hatályon kívül helyezése
 
-13. §
-
-[^13]: A 12. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+13. § Hatályát veszti az intézmények villamosenergia-beszerzéseivel kapcsolatos veszélyhelyzeti szabályokról szóló 41/2023. (II. 20.) Korm. rendelet.

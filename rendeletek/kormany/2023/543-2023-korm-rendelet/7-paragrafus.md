@@ -1,5 +1,3 @@
-## 6.[^7]
+## 6. Az útdíj-rendszerrel összefüggő egyes jogszabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 575/2022. (XII. 23.) Korm. rendelet hatályon kívül helyezése
 
-7. §
-
-[^7]: A 6. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+7. § Hatályát veszti az útdíj-rendszerrel összefüggő egyes jogszabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 575/2022. (XII. 23.) Korm. rendelet.

@@ -1,5 +1,3 @@
-## 16.[^17]
+## 16. A Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény veszélyhelyzet ideje alatti eltérő szabályairól szóló 158/2023. (IV. 28.) Korm. rendelet hatályon kívül helyezése
 
-17. §
-
-[^17]: A 16. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+17. § Hatályát veszti a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény veszélyhelyzet ideje alatti eltérő szabályairól szóló 158/2023. (IV. 28.) Korm. rendelet.

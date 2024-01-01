@@ -1,5 +1,3 @@
-## 15.[^16]
+## 15. A veszélyhelyzet ideje alatt egyes szervezetek működésére vonatkozó, továbbá egyes közigazgatási eljárási szabályok megállapításáról szóló 146/2023. (IV. 27.) Korm. rendelet módosítása
 
-16. §
-
-[^16]: A 15. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+16. § Hatályát veszti a veszélyhelyzet ideje alatt egyes szervezetek működésére vonatkozó, továbbá egyes közigazgatási eljárási szabályok megállapításáról szóló 146/2023. (IV. 27.) Korm. rendelet 3–5. §-a.

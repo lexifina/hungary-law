@@ -1,5 +1,3 @@
-## 17.[^18]
+## 17. Az általános forgalmi adóról szóló 2007. évi CXXVII. törvény, valamint az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 165/2023. (V. 8.) Korm. rendelet hatályon kívül helyezése
 
-18. §
-
-[^18]: A 17. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+18. § Hatályát veszti az általános forgalmi adóról szóló 2007. évi CXXVII. törvény, valamint az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvény veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 165/2023. (V. 8.) Korm. rendelet.

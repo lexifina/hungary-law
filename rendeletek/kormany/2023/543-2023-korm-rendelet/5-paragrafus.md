@@ -1,5 +1,3 @@
-## 4.[^5]
+## 4. Az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU tanácsi rendelet, valamint a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló 765/2006/EK tanácsi rendelet egyes rendelkezéseinek végrehajtási szabályairól szóló 447/2022. (XI. 9.) Korm. rendelet hatályon kívül helyezése
 
-5. §
-
-[^5]: A 4. alcím a 27. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+5. § Hatályát veszti az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU tanácsi rendelet, valamint a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló 765/2006/EK tanácsi rendelet egyes rendelkezéseinek végrehajtási szabályairól szóló 447/2022. (XI. 9.) Korm. rendelet.
