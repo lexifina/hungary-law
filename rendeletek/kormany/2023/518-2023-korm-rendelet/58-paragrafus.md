@@ -1,0 +1,1 @@
+58. § Felhatalmazást kap az általános politikai koordinációért felelős miniszter, hogy az e rendelet szerinti kölcsönre és a kamattámogatásra vonatkozó hitelintézeti reklámok, hirdetések részletes szabályait rendeletben állapítsa meg.

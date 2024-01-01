@@ -1,0 +1,11 @@
+49. § (1) A gyermekvállalási támogatás összegét az állam nevében a Kincstár folyósítja a hitelintézet számára annak elszámolása alapján.
+
+(2) A gyermekvállalási támogatás igénybevételével történő előtörlesztés esetén – amennyiben még van fennmaradó tartozás – a kérelem és az igazolások hiánytalan benyújtását követő 10 napon belül a hitelintézet köteles változatlan futamidő mellett a támogatott személyek havi törlesztőrészleteit újraszámolni, és arról a támogatott személyeket értesíteni.
+
+(3) A (2) bekezdés szerinti értesítésben és azt követően a kölcsönszerződés fennállásának időtartama alatt évente legalább egy alkalommal a hitelintézet tájékoztatja a támogatott személyeket arról, hogy mekkora összegű gyermekvállalási támogatásban részesültek, a gyermekvállalási támogatás igénybevétele nélkül mekkora összegű lenne a fennálló kölcsöntartozásuk, továbbá hogy a gyermekvállalási támogatást Magyarország Kormánya biztosította.
+
+(4) A kölcsönnel érintett lakásra az előtörlesztés megtörténte napjától a 18. § (1) bekezdése szerinti időszakra az állam javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom kerül bejegyzésre, a gyermekvállalási támogatás jogszerűtlen igénybevételéből eredő követelés biztosítására. A 18. § (1)–(5) bekezdése e jelzálogjogra nézve is alkalmazandó.
+
+(5) Ha magzat után igénybe vett gyermekvállalási támogatás, illetve a törlesztés szüneteltetése esetén a támogatott személyek a gyermek születését vagy a magzat elhalását, halva születését vagy az élve született gyermek elhalálozását a szülés várható időpontját követő 180 napon belül nem igazolják, a hitelintézet – a határidő lejártát követő 15 napon belül – értesíti erről a Kincstárat. Ha a gyermekre vonatkozóan a családok támogatásáról szóló törvény szerinti egységes szociális nyilvántartásban nem található adat, a Kincstár erről haladéktalanul értesíti a hitelintézetet, és az a 36. § (3) bekezdése szerint jár el.
+
+(6) A jogosulatlanul igénybe vett gyermekvállalási támogatást a jegybanki alapkamat 5 százalékponttal megemelt mértékének megfelelő kamattal növelt összegben – a visszafizetést, megfizetést előíró határozat véglegessé válását követő 120 napon belül – kell visszafizetni. A 10. alcím eljárási rendelkezései e visszafizetési kötelezettségre is alkalmazandók. A 30. § a gyermekvállalási támogatásra is alkalmazandó.

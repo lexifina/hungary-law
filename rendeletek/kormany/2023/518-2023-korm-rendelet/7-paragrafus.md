@@ -1,0 +1,7 @@
+7. § (1) A kölcsönnel érintett lakásban – a (3) és (4) bekezdésben foglalt kivétellel – kizárólag a támogatott személyek szerezhetnek tulajdont. A lakásban mindkét igénylőnek az ingatlan-nyilvántartásba bejegyzett tulajdonnal kell rendelkeznie.
+
+(2) Több lakásból álló osztatlan közös tulajdonú ingatlan esetén, ha a kölcsönnel érintett lakásra vonatkozóan használati megosztási szerződés, a tulajdonostársak – a határozat elfogadását támogató egyes tulajdonostársak neve mellett a tulajdoni hányaduk arányát és az aláírásukat is tartalmazó, teljes bizonyító erejű magánokiratba foglalt – Ptk. 5:78. § (1) bekezdése szerint meghozott határozata vagy bírósági határozat alapján a támogatott személyek kizárólagos használati joga áll fenn, az (1) bekezdés szerinti feltételt teljesítettnek kell tekinteni.
+
+(3) Nem érinti az e rendelet szerinti támogatásokra való jogosultságot, ha az igénylő halála esetén a lakásban annak egyenes ági rokona szerez tulajdont.
+
+(4) Ha a kölcsönkérelem benyújtása előtt a kölcsönnél figyelembe vett kiskorú gyermek az elhunyt szülője után ingatlantulajdont szerzett, és a túlélő szülő újabb házasságkötését követően a kölcsön igénybevételével másik lakást vásárol, épít vagy lakást bővít, a kölcsönnel érintett lakásban – a gyámhatóság rendelkezésének megfelelő mértékben – a támogatott személy mellett a kölcsönnél figyelembe vett, vele együtt költöző kiskorú gyermek is szerezhet tulajdont, illetve – meglévő lakás bővítése esetén – rendelkezhet tulajdonnal.
