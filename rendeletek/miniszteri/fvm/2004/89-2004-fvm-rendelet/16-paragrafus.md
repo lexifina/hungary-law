@@ -16,19 +16,19 @@ g) az engedélyezett használatából eredő és toxikológiai vagy környezeti 
 
 h) a növényvédő szer fizikai és kémiai tulajdonságai meghatározásra kerültek, és a növényvédő szer megfelel a megjelölt használatra, valamint tárolásra alkalmas,
 
-i)[^63] az engedélyező hatóság a kérelemben megjelölt növényi kultúrák esetében a 396/2005/EK európai parlamenti és tanácsi rendeletével összhangban járt el, vagy
+i)[^64] az engedélyező hatóság a kérelemben megjelölt növényi kultúrák esetében a 396/2005/EK európai parlamenti és tanácsi rendeletével összhangban járt el, vagy
 
-j)[^64] az engedélyben a növényvédelmi technológiai utasítások oly módon kerültek meghatározásra, hogy a vonatkozó rendeletben megállapított határérték túllépésére ne kerüljön sor, valamint
+j)[^65] az engedélyben a növényvédelmi technológiai utasítások oly módon kerültek meghatározásra, hogy a vonatkozó rendeletben megállapított határérték túllépésére ne kerüljön sor, valamint
 
-k)[^65] ha az 5. § (5)–(8) bekezdésében foglaltaknak eleget tesz,
+k)[^66] ha az 5. § (5)–(8) bekezdésében foglaltaknak eleget tesz,
 
-l)[^66] a címketerv megfelel az előírásoknak.
+l)[^67] a címketerv megfelel az előírásoknak.
 
 (2) A növényvédő szer felhasználásra vonatkozó előírásokat úgy kell meghatározni, hogy az (1) bekezdés k) pontjában foglalt feltételeknek megfeleljen.
 
 (3) Az (1) bekezdés szerinti követelményekre vonatkozó kísérleteket és vizsgálatokat olyan elfogadott módszerekkel kell végrehajtani, amelyek a növényvédő szer tervezett alkalmazásának helyére jellemző mezőgazdasági, növényegészségügyi és környezeti feltételeknek megfelelnek.
 
-[^63]: A 16. § (1) bekezdésének i) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^64]: A 16. § (1) bekezdésének j) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^65]: A 16. § (1) bekezdésének k) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^66]: A 16. § (1) bekezdésének l) pontját a 97/2005. (X. 28.) FVM rendelet 22. §-a iktatta be.
+[^64]: A 16. § (1) bekezdésének i) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^65]: A 16. § (1) bekezdésének j) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^66]: A 16. § (1) bekezdésének k) pontja a 15/2009. (III. 6.) FVM rendelet 13. §-ával megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
+[^67]: A 16. § (1) bekezdésének l) pontját a 97/2005. (X. 28.) FVM rendelet 22. §-a iktatta be.

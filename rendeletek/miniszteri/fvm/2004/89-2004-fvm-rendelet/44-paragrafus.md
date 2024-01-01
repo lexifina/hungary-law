@@ -1,6 +1,6 @@
-## 43. §[^166] A Kbtv. rendelkezései szerinti besorolás és osztályozás 2015. június 1-jéig alkalmazható a növényvédő szerekre vonatkozóan. A 2015. június 1-je előtt már forgalomba hozott, az 1272/2008/EK rendelet előírásaitól eltérően osztályozott, címkézett és csomagolt termékek 2017. június 1-jéig újracímkézés és újracsomagolás nélkül forgalmazhatóak.
+## 43. §[^167] A Kbtv. rendelkezései szerinti besorolás és osztályozás 2015. június 1-jéig alkalmazható a növényvédő szerekre vonatkozóan. A 2015. június 1-je előtt már forgalomba hozott, az 1272/2008/EK rendelet előírásaitól eltérően osztályozott, címkézett és csomagolt termékek 2017. június 1-jéig újracímkézés és újracsomagolás nélkül forgalmazhatóak.
 
-44. §[^167] (1) E rendelet előírásait kell alkalmazni
+44. §[^168] (1) E rendelet előírásait kell alkalmazni
 
 a) az 1107/2009/EK rendelet 80. cikk (1)–(4) bekezdése szerinti uniós hatóanyag jóváhagyási eljárással kapcsolatos tagállami feladatokra,
 
@@ -14,7 +14,7 @@ c) a növényvédő szerek 19. § szerinti nemzeti felülvizsgálatánál azon k
 
 (4) A 2011. június 14. előtt benyújtott kérelmekre kiadott engedélyek alapján e rendelet előírásai szerint címkézett termékek 2015. június 14-ig forgalmazhatók.
 
-(5) E rendeletnek a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló 89/2004. (V. 15.) FVM rendelet módosításáról szóló 13/2013. (III. 6.) VM rendelet (a továbbiakban: MódR.) által módosított rendelkezéseit a MódR. hatálybalépésekor[^168] folyamatban lévő ügyekben is alkalmazni kell.
+(5) E rendeletnek a növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezéséről, valamint a növényvédő szerek csomagolásáról, jelöléséről, tárolásáról és szállításáról szóló 89/2004. (V. 15.) FVM rendelet módosításáról szóló 13/2013. (III. 6.) VM rendelet (a továbbiakban: MódR.) által módosított rendelkezéseit a MódR. hatálybalépésekor[^169] folyamatban lévő ügyekben is alkalmazni kell.
 
 (6) A növényvédő szerek forgalomba hozatalának és felhasználásának engedélyezésére irányuló, 2011. június 14-ét követően indult eljárásokban, az 1107/2009/EK rendeletben nem szabályozott kérdésekben
 
@@ -24,6 +24,6 @@ b) a 25. §, a 25/A. §, a 28. §, a 29. § és a 30. § előírásait kell alka
 
 vonatkozóan.
 
-[^166]: A 43. § a 13/2013. (III. 6.) VM rendelet 20. §-ával megállapított szöveg.
-[^167]: A 44. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 224. pontja hatályon kívül helyezte, újonnan a 13/2013. (III. 6.) VM rendelet 20. §-a iktatta be.
-[^168]: A hatálybalépés időpontja 2013. március 14.
+[^167]: A 43. § a 13/2013. (III. 6.) VM rendelet 20. §-ával megállapított szöveg.
+[^168]: A 44. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 224. pontja hatályon kívül helyezte, újonnan a 13/2013. (III. 6.) VM rendelet 20. §-a iktatta be.
+[^169]: A hatálybalépés időpontja 2013. március 14.

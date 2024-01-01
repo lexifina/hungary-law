@@ -14,18 +14,18 @@ a) negyedévenként a kiadott és visszavont növényvédő szer engedélyekről
 
 5. a rendeltetésszerű alkalmazást vagy alkalmazásokat,
 
-6.[^156]
+6.[^157]
 
 7. ahol indokolt, az engedély visszavonásának okait,
 
-8.[^157]
+8.[^158]
 
 b) évente az engedélyezett növényvédő szerek jegyzékéről,
 
-c)[^158] az 1. számú mellékletben szereplő azon hatóanyagokat tartalmazó növényvédő szerek jegyzékéről, amelyek hatóanyagát más gyártó állítja elő, mint a mellékletben szereplőét, a hatóanyag azonosságára és szennyezéseire vonatkozó információk megadásával,
+c)[^159] az 1. számú mellékletben szereplő azon hatóanyagokat tartalmazó növényvédő szerek jegyzékéről, amelyek hatóanyagát más gyártó állítja elő, mint a mellékletben szereplőét, a hatóanyag azonosságára és szennyezéseire vonatkozó információk megadásával,
 
 d) a növényvédő szerre és a hatóanyag veszélyességére vonatkozó, az engedélyes által benyújtott új adatokról.
 
-[^156]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
-[^157]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
-[^158]: A 39. § c) pontja a 13/2013. (III. 6.) VM rendelet 22. § 27. pontja szerint módosított szöveg.
+[^157]: A 39. § a) pontjának 6. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^158]: A 39. § a) pontjának 8. alpontját a 15/2009. (III. 6.) FVM rendelet 33. § (2) bekezdésének h) pontja hatályon kívül helyezte.
+[^159]: A 39. § c) pontja a 13/2013. (III. 6.) VM rendelet 22. § 27. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## Növényvédő szerek nemzeti felülvizsgálata[^81]
+## Növényvédő szerek nemzeti felülvizsgálata[^82]
 
-19. §[^82] (1) Amennyiben az engedélyezett növényvédő szer hatóanyaga szerepel az 1. számú mellékletben vagy felvétele megújításra került, az engedélyező hatóságnak – az 1. számú mellékletben megadott határidőkön belül – felül kell vizsgálnia a forgalomban lévő, az adott hatóanyagot tartalmazó valamennyi növényvédő szer engedélyét annak eldöntésére, hogy megfelel-e az 1. számú mellékletben szereplő követelményeknek. Ennek során az engedélyesnek
+19. §[^83] (1) Amennyiben az engedélyezett növényvédő szer hatóanyaga szerepel az 1. számú mellékletben vagy felvétele megújításra került, az engedélyező hatóságnak – az 1. számú mellékletben megadott határidőkön belül – felül kell vizsgálnia a forgalomban lévő, az adott hatóanyagot tartalmazó valamennyi növényvédő szer engedélyét annak eldöntésére, hogy megfelel-e az 1. számú mellékletben szereplő követelményeknek. Ennek során az engedélyesnek
 
 a) az előírt határidőn belül – hatóanyag felvételének megújítása esetén a benyújtott új védett adatokra vonatkozóan is – bizonyítania kell, hogy rendelkezik a 2. számú melléklet szerinti adatokkal, vagy igazolnia kell, hogy az adat tulajdonosa hozzáférést biztosít az adatokhoz,
 
@@ -22,5 +22,5 @@ b) az engedélyt visszavonja, amennyiben a növényvédő szer nem felel meg az 
 
 (5) Az engedélyező hatóság a felülvizsgálat eredményéről tájékoztatja a Bizottságot.
 
-[^81]: A 19. §-t megelőző alcím a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.
-[^82]: A 19. § a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.
+[^82]: A 19. §-t megelőző alcím a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.
+[^83]: A 19. § a 13/2013. (III. 6.) VM rendelet 10. §-ával megállapított szöveg.

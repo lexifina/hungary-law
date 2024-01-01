@@ -6,7 +6,7 @@ a) a hatóanyag szerepel az 1. számú mellékletben, vagy
 
 b)[^32] a kérelmező az 5. § (11) bekezdése szerinti hatóanyagot tartalmazó növényvédő szer engedélyezését kezdeményezi.
 
-(2)[^33] Az engedély iránti kérelemhez – a (10) bekezdés figyelembevételével – a 2. és 3. számú melléklet szerinti adatokat, valamint a Gyűjtemény vonatkozó fejezete szerinti részletes és összefoglaló adatokat magyar vagy angol nyelven kell az engedélyező hatóságnak megadni. Amennyiben a kérelem benyújtása angol nyelven történt, az összefoglaló adatokat – az engedélyező hatóság külön kérésére – magyar nyelven is meg kell adni. Mind a részletes adatokat tartalmazó dokumentációt, mind az összefoglaló adatokat tartalmazó dokumentációt elektronikus adathordozón, két példányban kell benyújtani az engedélyező hatóság részére. A kérelemben benyújtott adatokkal összhangban meg kell jelölni a növényvédő szer javasolt felhasználhatósági idejét.
+(2)[^33] Az engedély iránti kérelemhez – a (10) bekezdés figyelembevételével – a 2. és 3. számú melléklet szerinti adatokat, valamint a Gyűjtemény vonatkozó fejezete szerinti részletes és összefoglaló adatokat magyar vagy angol nyelven kell az engedélyező hatóságnak megadni. Amennyiben a kérelem benyújtása angol nyelven történt, az összefoglaló adatokat – az engedélyező hatóság külön kérésére – magyar nyelven is meg kell adni. Mind a részletes adatokat tartalmazó dokumentációt, mind az összefoglaló adatokat tartalmazó dokumentációt elektronikus adathordozón vagy elektronikus úton kell benyújtani az engedélyező hatóság részére. A kérelemben benyújtott adatokkal összhangban meg kell jelölni a növényvédő szer javasolt felhasználhatósági idejét.
 
 (3)[^34] A kérelmezőnek, illetve az engedélyesnek az engedélyező hatóság részére az a) pont esetében évente, külön felszólítás nélkül, míg a b) és c) pont esetében az engedélyező hatóság külön felszólításra kell haladéktalanul a következő vizsgálati mintákat benyújtania:
 
@@ -67,7 +67,7 @@ c) nem sértheti más engedélyes névhasználathoz fűződő szellemi tulajdonj
 d) nem sérthet személyiségi jogokat, nem ütközhet közerkölcsbe.
 
 [^32]: A 7. § (1) bekezdésének b) pontja a 15/2009. (III. 6.) FVM rendelet 6. § (1) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
-[^33]: A 7. § (2) bekezdése a 13/2013. (III. 6.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^33]: A 7. § (2) bekezdése a 13/2013. (III. 6.) VM rendelet 4. § (1) bekezdésével megállapított, a 162/2023. (XII. 27.) AM rendelet 2. § b) pontja szerint módosított szöveg.
 [^34]: A 7. § (3) bekezdése a 13/2013. (III. 6.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^35]: A 7. § (5) bekezdése a 15/2009. (III. 6.) FVM rendelet 6. § (4) bekezdésével megállapított szöveg; e módosító rendelet 33. § (1) bekezdése alapján a rendelkezést a 2009. március 14. napja után indult ügyekben kell alkalmazni.
 [^36]: A 7. § (6) bekezdése a 15/2009. (III. 6.) FVM rendelet 6. § (4) bekezdésével megállapított, a 12/2010. (II. 9.) FVM rendelet 4. § (3) bekezdése szerint módosított szöveg.
