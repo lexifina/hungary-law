@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-223-20-
 | 2018-01-01 | 2000-223-20-22.22 | 445/2017. (XII. 27.) Korm. rendelet |
 | 2019-01-01 | 2000-223-20-22.23 | 288/2002. (XII. 23.) Korm. rendelet |
 | 2020-01-01 | 2000-223-20-22.24 | 343/2019. (XII. 23.) Korm. rendelet |
+| 2024-01-01 | 2000-223-20-22.25 | 642/2023. (XII. 28.) Korm. rendelet |

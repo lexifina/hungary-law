@@ -1,5 +1,3 @@
-## 37/A. §[^147]
-
 ## A pénztárak egyesülése, szétválása
 
 ## Vagyonmérleg, vagyonleltár
@@ -40,7 +38,7 @@ a) beolvadás esetében a beolvadó és átvevő pénztár megbontásban és egy
 
 b) összeolvadás esetében az egyesülő pénztárak szerinti megbontásban és együttesen
 
-## tartalmazza.
+tartalmazza.
 
 (7) A (4) bekezdés a) pontja szerinti vagyonmérleget az átalakulással létrejövő pénztárak vagyonmérlegének elkészítéséhez meg kell bontani a pénztár közgyűlése által meghatározott módon
 
@@ -58,5 +56,4 @@ b) kiválás esetében a kiválással létrejövő, valamint a továbbműködő 
 
 (12) A vagyonmérleget (mind a vagyonmérleg-tervezetet, mind a végleges vagyonmérleget) és az azt alátámasztó vagyonleltárt (mind a vagyonleltár-tervezetet, mind a végleges vagyonleltárt) könyvvizsgálóval ellenőriztetni kell. Az átalakulás számviteli bizonylata a könyvvizsgáló által hitelesített vagyonmérleg.
 
-[^147]: A 37/A. §-t és az előtte lévő alcímet a 358/2006. (XII. 27.) Korm. rendelet 26. §-a iktatta be. A 37/A. §-t a 345/2010. (XII. 28.) Korm. rendelet 17. §-a hatályon kívül helyezte.
 [^148]: A 38. § (2) bekezdése a 396/2007. (XII. 27.) Korm. rendelet 58. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 200. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -42,6 +42,8 @@
 
 (21)[^164] Az egyéni számlákról vezetett analitikus nyilvántartásban külön ki kell mutatni az Öpt. 47. §-ának (7) bekezdése szerinti tagi lekötés összegét, valamint azt a 0-ás számlaosztályban hitelintézettel szembeni függő kötelezettségként nyilvántartásba kell venni.
 
+(22)[^165] A pénztár folyamatosan biztosítja a fedezeti, a működési és a likviditási céltartalékok állományának és az egyes alapokhoz rendelt, azok fedezetét képező eszközök állományának az alaponkénti egyezőségét, valamint a függő tételek állománya és az azok fedezetét képező eszközök állománya egyezőségét.
+
 [^154]: A 42. § (1) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 21. §-ának (1) bekezdésével megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
 [^155]: A 42. § (3) bekezdése a 236/2003. (XII. 17.) Korm. rendelet 12. §-ával megállapított és a 396/2007. (XII. 27.) Korm. rendelet 60. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 77. § (1) bekezdését.
 [^156]: A 42. § (6) bekezdése a 288/2002. (XII. 23.) Korm. rendelet 21. §-ának (3) bekezdésével megállapított szöveg, e módosító rendelet 28. §-ának (1) bekezdése alapján rendelkezéseit először a 2003. évről készített negyedéves és éves pénztári beszámolóra kell alkalmazni.
@@ -53,3 +55,4 @@
 [^162]: A 42. § (18) bekezdése a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (4) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
 [^163]: A 42. § (19) bekezdése a 445/2017. (XII. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^164]: A 42. § (21) bekezdését a 352/2004. (XII. 22.) Korm. rendelet 7. §-a iktatta be, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^165]: A 42. § (22) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 12. §-a iktatta be.
