@@ -2,6 +2,6 @@
 
 (2) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét, vagy adott esetben aránytalan lenne, vagy félrevezető eredményre vezetne az érintett kiadás egészének visszavonása, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét a szabálytalanság súlya és pénzügyi következményei alapján kell meghatározni.
 
-(3)[^36] A hazai kedvezményezett vagy a hazai TA kedvezményezett a 16. § (2) bekezdés b) pontja szerinti pénzügyi korrekcióval érintett összeget nem használhatja fel, arra további költségelszámolás nem nyújtható be.
+(3)[^37] A hazai kedvezményezett vagy a hazai TA kedvezményezett a 16. § (2) bekezdés b) pontja szerinti pénzügyi korrekcióval érintett összeget nem használhatja fel, arra további költségelszámolás nem nyújtható be.
 
-[^36]: A 18. § (3) bekezdését a 482/2017. (XII. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
+[^37]: A 18. § (3) bekezdését a 482/2017. (XII. 28.) Korm. rendelet 4. §-a iktatta be, szövege a 339/2023. (VII. 25.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.

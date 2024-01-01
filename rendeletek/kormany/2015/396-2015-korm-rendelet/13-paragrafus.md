@@ -6,12 +6,12 @@ b) a cégbíróság a hazai kedvezményezett céget a törvényességi felügyel
 
 c) a hazai kedvezményezett elismeri a szabálytalanság tényét,
 
-d)[^24] az Európai Bizottság, az audit hatóság, az auditor csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg,
+d)[^25] az Európai Bizottság, az audit hatóság, az auditor csoport hazai tagja vagy bármely, ellenőrzést végző szervezet szabálytalanságot állapít meg,
 
-e)[^25] rendszerszintű szabálytalanság történt, vagy
+e)[^26] rendszerszintű szabálytalanság történt, vagy
 
-f)[^26] a szabálytalanság oka kizárólag számítási hiba.
+f)[^27] a szabálytalanság oka kizárólag számítási hiba.
 
-[^24]: A 13. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^25]: A 13. § e) pontja a 339/2023. (VII. 25.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^26]: A 13. § f) pontját a 482/2017. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^25]: A 13. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^26]: A 13. § e) pontja a 339/2023. (VII. 25.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^27]: A 13. § f) pontját a 482/2017. (XII. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

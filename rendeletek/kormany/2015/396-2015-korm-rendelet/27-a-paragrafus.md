@@ -2,7 +2,7 @@
 
 ## A DUNA TRANSZNACIONÁLIS PROGRAM PROGRAMSZINTŰ VÉGREHAJTÁSÁNAK RÉSZLETES SZABÁLYAI
 
-## 6/A.[^52] A programirányítás szabályozó dokumentumai
+## 6/A.[^53] A programirányítás szabályozó dokumentumai
 
 27/A. § Az irányító hatóság és közös titkárság közvetlenül a monitoring bizottság által jóváhagyott éves munkaterv és szabályzó dokumentumok alapján látja el feladatait. Közvetlen szabályzó dokumentumok:
 
@@ -20,4 +20,4 @@ f) Technikai segítségnyújtás kézikönyv, valamint
 
 g) Kommunikációs stratégia.
 
-[^52]: A 6/A. alcímet (27/A. §-t) a 339/2023. (VII. 25.) Korm. rendelet 14. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^53]: A 6/A. alcímet (27/A. §-t) a 339/2023. (VII. 25.) Korm. rendelet 14. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

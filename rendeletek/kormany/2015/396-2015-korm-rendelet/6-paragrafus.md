@@ -1,4 +1,4 @@
-6. §[^17] (1) A hitelesítési tevékenységet a hitelesítésre kijelölt szervezet dokumentálja, rögzítve az elvégzett munkát, a hitelesítés eredményét, hiba feltárása esetén a megtett intézkedést, szabálytalanság gyanúja esetén a szabálytalansági vizsgálat megindítása kezdeményezését.
+6. §[^18] (1) A hitelesítési tevékenységet a hitelesítésre kijelölt szervezet dokumentálja, rögzítve az elvégzett munkát, a hitelesítés eredményét, hiba feltárása esetén a megtett intézkedést, szabálytalanság gyanúja esetén a szabálytalansági vizsgálat megindítása kezdeményezését.
 
 (2) Amennyiben a pénzügyi korrekció szükségessége a hitelesítési tevékenység során történt adminisztratív hibára vagy jogszabályváltozásra vezethető vissza, a hitelesítési tevékenységre kijelölt szervezet külön vizsgálat lefolytatása nélkül megteszi a szükséges intézkedéseket.
 
@@ -20,4 +20,4 @@ eltelt időtartam.
 
 (7) A hazai társfinanszírozás akkor tekinthető elszámoltnak, ha a hitelesítési nyilatkozatban elfogadott költségre vonatkozó kifizetési kérelem jóváhagyása megtörtént.
 
-[^17]: A 6. § a 339/2023. (VII. 25.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^18]: A 6. § a 339/2023. (VII. 25.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

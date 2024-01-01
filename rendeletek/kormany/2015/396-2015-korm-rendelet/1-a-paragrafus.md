@@ -44,7 +44,7 @@
 
 21. irányító hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (1) bekezdése szerinti szervezet,
 
-22. irányító hatóság és közös titkárság: a Duna Transznacionális Programban részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztés stratégiai tervezéséért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke alapján az 1303/2013/EU rendelet 125. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
+22.[^3] irányító hatóság és közös titkárság: a Duna Transznacionális Programban részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztésért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke alapján az 1303/2013/EU rendelet 125. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
 
 23. kis összegű követelés: a kettőszázötven eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a százezer forintot meg nem haladó uniós támogatás megelőlegezésre vonatkozó követelés,
 
@@ -95,3 +95,4 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az 1303/2013/EU európai parlamenti és tanácsi rendelet, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet szerint kell értelmezni.
 
 [^2]: Az 1/A. alcímet (1/A. §-t) a 339/2023. (VII. 25.) Korm. rendelet 6. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^3]: Az 1/A. § (1) bekezdés 22. pontja az 599/2023. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
