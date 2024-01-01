@@ -134,8 +134,8 @@
 
 | 67. | családok átmeneti otthonában biztosított átmeneti ellátás (beleértve a külső férőhelyen biztosított ellátást is) | 143 000 Ft/ellátotti létszám |
 
-3. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^86]
+3. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^87]
 
 A 2020. évi bérkompenzáció fajlagos összegei
 
-[^86]: A 3. mellékletet a 309/2020. (VI. 30.) Korm. rendelet 5. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § b) pontja szerint módosított szöveg.
+[^87]: A 3. mellékletet a 309/2020. (VI. 30.) Korm. rendelet 5. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 137. § b) pontja szerint módosított szöveg.
