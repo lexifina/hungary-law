@@ -10,7 +10,7 @@
 
 (5) Ha a (4) bekezdésben foglaltak alapján a felszámolónak az általános forgalmi adót nem tartalmazó ténylegesen kifizethető díja – figyelemmel az 59. § (2) bekezdésében foglaltakra – meghaladja a 4%-ot, illetve az 1%-ot, a bíróság elrendeli, hogy a 4%-ot , illetve az 1%-ot meghaladó részt a Gazdasági Hivatal által kezelt, illetve az adós számlájáról a Fővárosi Törvényszék Gazdasági Hivatala által vezetett díjkiegészítési számlára [59. § (2) bek.] utalják át. Erről a bíróság a végzése megküldésével mind a Gazdasági Hivatalt, mind a Fővárosi Törvényszék Gazdasági Hivatalát értesíti.
 
-(6) Ha a Gazdasági Hivatal által vezetett elkülönített számlán rendelkezésre álló összeg a felszámoló díját és az általános forgalmi adó fizetéséhez szükséges összeget meghaladja, a különbözetet az adós hitelezőinek befizetésük arányában vissza kell fizetni [kivéve a 3. § (1) bekezdés g) pontja szerinti függő követelés nyilvántartásba vételekor befizetett összeget, amennyiben erre a követelésre – az 58. § (5) bekezdése szerinti – tartalékot kellett képezni, és annak felhasználása még nem történt meg]. Amennyiben az egy hitelezőnek visszajáró összeg az 5000 Ft-ot nem éri el, ezt az összeget a Fővárosi Törvényszék Gazdasági Hivatala által kezelt díjkiegészítési számlára kell átutalni.
+(6) Ha a Gazdasági Hivatal által vezetett elkülönített számlán rendelkezésre álló összeg a felszámoló díját és az általános forgalmi adó fizetéséhez szükséges összeget meghaladja, a különbözet összegét a Fővárosi Törvényszék Gazdasági Hivatala által kezelt díjkiegészítési számlára kell átutalni.
 
 (6a) A felszámolási eljárást befejező végzés ellen benyújtott fellebbezést 90 napon belül kell elbírálni.
 

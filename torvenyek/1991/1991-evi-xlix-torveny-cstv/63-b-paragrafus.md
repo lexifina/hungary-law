@@ -16,7 +16,7 @@ a) hivatalból az 59. § (5) bekezdés alapján kifizetésre kerülő felszámol
 
 b) a felszámolási eljárást kezdeményező hitelező részére – a (4) bekezdés szerinti végzés meghozatalát megelőzően benyújtott kérelmére – a hitelező által megfizetett és a 27. § (1a) bekezdése alapján a felszámolási eljárásban meg nem térült illeték és közzétételi költségtérítés megtérítésére, valamint
 
-c) a felszámoló kérelmére a felszámolót – az egyszerűsített felszámolási eljárásban megillető – 300 000 forint és a felszámolónak az 59. § (5) bekezdés alapján kifizetett összeg különbözetének a felszámoló részére történő megtérítésére
+c) a felszámoló kérelmére a felszámolót – az egyszerűsített felszámolási eljárásban megillető – 500 000 forint és a felszámolónak az 59. § (5) bekezdés alapján kifizetett összeg különbözetének a felszámoló részére történő megtérítésére
 
 kötelezi, ha az egyszerűsített felszámolási eljárásra a könyvvezetés, illetve a nyilvántartások hiányosságai miatt került sor, vagy ha a vezető tisztségviselő a cég felszámolását megelőző három év közül bármelyikben neki felróható okból nem tett eleget az éves beszámoló, az egyszerűsített éves beszámoló, az összevont (konszolidált) éves beszámoló külön jogszabályban meghatározott letétbehelyezési és közzétételi kötelezettségének.
 

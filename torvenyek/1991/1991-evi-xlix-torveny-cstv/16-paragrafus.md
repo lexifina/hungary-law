@@ -18,6 +18,6 @@ c) 500 000 001 forint – 1 000 000 000 forint közötti könyv szerinti érték
 
 d) 1 000 000 001 forint feletti könyv szerinti érték esetén az 1 000 000 001 forint 0, 75%-a és az efeletti rész 0,25%-a.
 
-(4) Az egyezség jóváhagyása esetén a vagyonfelügyelőt a (3) bekezdés szerinti díj további 15%-a, de legalább 300 000 forint illeti meg.
+(4) Az egyezség jóváhagyása esetén a vagyonfelügyelőt a (3) bekezdés szerinti díj további 15%-a, de legalább 500 000 forint illeti meg.
 
 (5) A (3)–(4) bekezdés szerint kiszámított összeg a díjat terhelő általános forgalmi adót nem tartalmazza. A díjat és a vagyonfelügyelő költségelszámolását a bíróság az eljárást megszüntető, vagy az eljárást befejezetté nyilvánító végzésében állapítja meg, illetve hagyja jóvá. A bíróság a (3)–(4) bekezdésben meghatározottaknál alacsonyabb díjmértéket is megállapíthat, a csődeljárás időtartama, a vagyonfelügyelő által elvégzett tevékenység és az adott eljárás munkaterhe figyelembevételével.

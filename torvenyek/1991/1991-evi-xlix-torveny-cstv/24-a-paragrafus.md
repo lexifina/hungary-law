@@ -6,7 +6,7 @@ a) valószínűsíti, hogy követelésének későbbi kielégítése veszélyben
 
 b) a követelésének létrejöttét, nagyságát és lejártát közokirattal vagy teljes bizonyító erejű magánokirattal igazolja, továbbá
 
-c) az ideiglenes vagyonfelügyelő díját – jogi személyiség nélküli adós esetén 200 000 forintot, jogi személyiséggel rendelkező adós esetén 400 000 forintot, amely díjak az általános forgalmi adó összegét nem tartalmazzák – előlegezi, és a kérelem benyújtásával egyidejűleg bírósági letétbe helyezi;.
+c) az ideiglenes vagyonfelügyelő díját – jogi személyiség nélküli adós esetén 400 000 forintot, jogi személyiséggel rendelkező adós esetén 600 000 forintot, amely díjak az általános forgalmi adó összegét nem tartalmazzák – előlegezi, és a kérelem benyújtásával egyidejűleg bírósági letétbe helyezi;.
 
 (2a) Ha a felszámolást a bíróság nem rendeli el, az ideiglenes vagyonfelügyelő díját a hitelező viseli. A felszámolás elrendelése esetén a bíróság hivatalból rendelkezik a letétbe helyezett összeg visszautalásáról, ebben az esetben az ideiglenes vagyonfelügyelő díját az 57. § (2) bekezdés i) pontja szerinti felszámolási költségként kell elszámolni és kifizetni.
 
