@@ -1,0 +1,35 @@
+## nyújtható.
+
+## III. Fejezet
+
+## AZ EGYES ÁLLAMI TÁMOGATÁSI KATEGÓRIÁK KÖZÖS SZABÁLYAI
+
+16. § (1) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
+
+(2) Nem ítélhető meg támogatás
+
+a) – az 53–55. alcím szerinti támogatás kivételével – azon szervezet részére, amely a támogatás odaítélésekor még nem tett eleget valamennyi, az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizettetésére kötelező, Magyarországnak címzett határozata alapján fennálló visszafizetési kötelezettségének,
+
+b) – az 53–55. alcím szerinti támogatás kivételével – nehéz helyzetben lévő vállalkozás részére.
+
+c) – a 19–21., 25., és 27–31. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek termeléséhez,
+
+d) – a 19–21., 25., 27–31. alcím, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – az 58. alcím szerinti támogatás kivételével – halászati és akvakultúra-termékek feldolgozásához és forgalmazásához,
+
+e) – a 17., 19., 21., 25., 27–44. és 54. alcím szerinti támogatás kivételével – elsődleges mezőgazdasági termeléshez,
+
+f) mezőgazdasági termék feldolgozásához és mezőgazdasági termék forgalmazásához, ha
+
+fa) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján kerül rögzítésre, vagy
+
+fb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ,
+
+g) exporttal kapcsolatos tevékenységhez, ha a támogatás az exportált mennyiségekhez, értékesítési hálózat kialakításához és működtetéséhez vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokhoz közvetlenül kapcsolódik,
+
+h) abban az esetben, ha azt import áru helyett hazai áru használatától teszik függővé,
+
+i) olyan feltétellel, amely az európai uniós jog megsértését eredményezi,
+
+j) – az 53. alcím szerinti támogatás kivételével – a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozat (HL L 336., 2010.12.24., 24. o.) hatálya alá tartozó versenyképtelen szénbányák részére,
+
+k) – az 53. alcím szerinti támogatás kivételével – atomenergia termeléshez.

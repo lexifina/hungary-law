@@ -1,0 +1,3 @@
+61. § (1) Az 58. § (1) bekezdés a)–d) pontjától eltérően az elszámolható költségek alternatív forgatókönyv és a 2. § 173. pontja szerinti versenyeztetéses ajánlattételi eljárás nélkül is meghatározhatóak, amely esetben a magasabb szintű környezetvédelem eléréséhez közvetlenül kapcsolódó beruházási költségek számolhatók el.
+
+(2) Az 58–60. § esetén nem számolhatók el a magasabb környezetvédelmi szint eléréséhez közvetlenül nem kapcsolódó költségek.
