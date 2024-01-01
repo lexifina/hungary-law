@@ -1,471 +1,473 @@
-| Zónacsoport a szennyező anyagok szerint |
+|  | A | B | C | D | E | F | G | H | I | J | K | L |
 
-|  | Kén-dioxid | Nitrogén-dioxid | Szén-monoxid | PM10 | Benzol | Talajközeli ózon | PM10 Arzén (As) | PM10 Kadmium (Cd) | PM10 Nikkel (Ni) | PM10 Ólom (Pb) | PM10 benz(a)- pirén (BaP) |
+| 1 | Zónacsoport a szennyező anyagok szerint |
 
-| Légszennyezettségi agglomeráció |  |  |  |  |  |  |  |  |  |  |  |
+| 2 |  | Kén-dioxid | Nitrogén- dioxid | Szén- monoxid | PM10 | Benzol | Talajközeli ózon | PM10 Arzén (As) | PM10 Kadmium (Cd) | PM10 Nikkel (Ni) | PM10 Ólom (Pb) | PM10 benz(a)- pirén (BaP) |
 
-| 1. | Budapest és környéke | E | B | D | B | E | O-I | F | F | F | F | B |
+| 3 | Légszennyezettségi agglomeráció |  |
 
-| Légszennyezettségi zóna |  |  |  |  |  |  |  |  |  |  |  |
+| 4 | Budapest és környéke | E | B | D | B | E | O-I | F | F | F | F | B |
 
-| 2. | Győr-Mosonmagyaróvár | F | C | F | B | E | O-I | E | F | F | F | D |
+| 5 | Légszennyezettségi zóna |  |
 
-| 3. | Komárom–Tatabánya–Esztergom | E | C | F | D | E | O-I | D | E | F | F | B |
+| 6 | Győr–Mosonmagyaróvár | F | C | F | B | E | O-I | E | F | F | F | D |
 
-| 4. | Székesfehérvár–Veszprém | F | C | F | D | F | O-I | F | F | F | F | D |
+| 7 | Komárom–Tatabánya–Esztergom | E | C | F | D | E | O-I | D | E | F | F | B |
 
-| 5. | Dunaújváros környéke | F | C | D | D | F | O-I | B | B | D | B | D |
+| 8 | Székesfehérvár–Veszprém | F | C | F | D | F | O-I | F | F | F | F | D |
 
-| 6. | Pécs környéke | F | C | F | D | F | O-I | F | F | F | F | B |
+| 9 | Dunaújváros környéke | F | C | D | D | F | O-I | B | B | D | B | D |
 
-| 7. |  |  |  |  |  |  |  |  |  |  |  |
+| 10 | Pécs környéke | F | C | F | D | F | O-I | F | F | F | F | B |
 
-| 8. | Sajó Völgye | F | C | D | B | E | O-I | E | F | F | F | B |
+| 11 | Sajó-völgye | F | C | D | B | E | O-I | E | F | F | F | B |
 
-| 9. | Debrecen környéke | F | C | F | D | E | O-I | F | F | F | F | D |
+| 12 | Debrecen környéke | F | C | F | D | E | O-I | F | F | F | F | D |
 
-| 10. Az ország többi területe, kivéve az alább kijelölt városokat | F | F | F | E | F | O-I | F | F | F | F | D |
+| 13 | Az ország többi területe, kivéve az alább kijelölt városokat | F | F | F | E | F | O-I | F | F | F | F | D |
 
-| 11. | Kijelölt városok |  |  |  |  |  |  |  |  |  |  |  |
+| 14 | Kijelölt városok |  |
 
-| Ajka | F | D | D | D | F | O-I | E | F | F | F | D |
+| 15 | Ajka | F | D | D | D | F | O-I | E | F | F | F | D |
 
-| Baja | F | D | F | B | F | O-I | E | E | F | F | D |
+| 16 | Baja | F | D | F | B | F | O-I | E | E | F | F | D |
 
-| Eger | F | D | F | D | F | O-I | D | F | F | F | B |
+| 17 | Eger | F | D | F | D | F | O-I | D | F | F | F | B |
 
-| Kaposvár | F | E | E | E | F | O-I | F | F | F | F | D |
+| 18 | Kaposvár | F | E | E | E | F | O-I | F | F | F | F | D |
 
-| Kecskemét | F | E | E | B | F | O-I | E | F | F | F | D |
+| 19 | Kecskemét | F | E | E | B | F | O-I | E | F | F | F | D |
 
-| Nyíregyháza | F | D | E | D | E | O-I | F | F | F | F | D |
+| 20 | Nyíregyháza | F | D | E | D | E | O-I | F | F | F | F | D |
 
-| Békéscsaba | F | F | F | B | F | O-I | F | F | F | F | D |
+| 21 | Békéscsaba | F | F | F | B | F | O-I | F | F | F | F | D |
 
-| Salgótarján | F | D | E | D | F | O-I | F | F | F | F | B |
+| 22 | Salgótarján | F | D | E | D | F | O-I | F | F | F | F | B |
 
-| Sopron | F | C | E | D | E | O-I | E | F | F | F | D |
+| 23 | Sopron | F | C | E | D | E | O-I | E | F | F | F | D |
 
-| Szeged | F | C | E | B | E | O-I | F | F | F | F | D |
+| 24 | Szeged | F | C | E | B | E | O-I | F | F | F | F | D |
 
-| Szombathely | F | D | F | D | F | O-I | F | F | F | F | B |
+| 25 | Szombathely | F | D | F | D | F | O-I | F | F | F | F | B |
 
-| Szolnok | F | D | E | D | F | O-I | F | F | F | F | B |
+| 26 | Szolnok | F | D | E | D | F | O-I | F | F | F | F | B |
 
-| Zalaegerszeg | F | E | F | D | F | O-I | F | F | F | F | D |
+| 27 | Zalaegerszeg | F | E | F | D | F | O-I | F | F | F | F | D |
 
-2. számú melléklet a 4/2002. (X. 7.) KvVM rendelethez[^6]
+2. melléklet a 4/2002. (X. 7.) KvVM rendelethez[^7]
 
-| KSH kód | Vármegye | Település | Zóna |
+|  | A | B | C | D |
 
-| 00001 | 1 | BUDAPEST | 1 |
+| 1 | KSH kód | Vármegye | Település | Zóna |
 
-| 23199 | 13 | ALSÓNÉMEDI | 1 |
+| 2 | 00001 | 1 | BUDAPEST | 1 |
 
-| 08891 | 13 | BIATORBÁGY | 1 |
+| 3 | 23199 | 13 | ALSÓNÉMEDI | 1 |
 
-| 03407 | 13 | BUDAJENŐ | 1 |
+| 4 | 08891 | 13 | BIATORBÁGY | 1 |
 
-| 23463 | 13 | BUDAKALÁSZ | 1 |
+| 5 | 03407 | 13 | BUDAJENŐ | 1 |
 
-| 12052 | 13 | BUDAKESZI | 1 |
+| 6 | 23463 | 13 | BUDAKALÁSZ | 1 |
 
-| 23278 | 13 | BUDAÖRS | 1 |
+| 7 | 12052 | 13 | BUDAKESZI | 1 |
 
-| 33118 | 13 | CSOMÁD | 1 |
+| 8 | 23278 | 13 | BUDAÖRS | 1 |
 
-| 22804 | 13 | CSÖMÖR | 1 |
+| 9 | 33118 | 13 | CSOMÁD | 1 |
 
-| 34333 | 13 | CSÖRÖG | 1 |
+| 10 | 22804 | 13 | CSÖMÖR | 1 |
 
-| 24013 | 13 | DIÓSD | 1 |
+| 11 | 34333 | 13 | CSÖRÖG | 1 |
 
-| 04808 | 13 | DOMONY | 1 |
+| 12 | 24013 | 13 | DIÓSD | 1 |
 
-| 09584 | 13 | DUNAHARASZTI | 1 |
+| 13 | 04808 | 13 | DOMONY | 1 |
 
-| 18616 | 13 | DUNAKESZI | 1 |
+| 14 | 09584 | 13 | DUNAHARASZTI | 1 |
 
-| 20534 | 13 | DUNAVARSÁNY | 1 |
+| 15 | 18616 | 13 | DUNAKESZI | 1 |
 
-| 24518 | 13 | ECSER | 1 |
+| 16 | 20534 | 13 | DUNAVARSÁNY | 1 |
 
-| 30988 | 13 | ÉRD | 1 |
+| 17 | 24518 | 13 | ECSER | 1 |
 
-| 13480 | 13 | ERDŐKERTES | 1 |
+| 18 | 30988 | 13 | ÉRD | 1 |
 
-| 06035 | 13 | FELSŐPAKONY | 1 |
+| 19 | 13480 | 13 | ERDŐKERTES | 1 |
 
-| 32610 | 13 | FÓT | 1 |
+| 20 | 06035 | 13 | FELSŐPAKONY | 1 |
 
-| 23649 | 13 | GÖD | 1 |
+| 21 | 32610 | 13 | FÓT | 1 |
 
-| 32559 | 13 | GÖDÖLLŐ | 1 |
+| 22 | 23649 | 13 | GÖD | 1 |
 
-| 25627 | 13 | GYÁL | 1 |
+| 23 | 32559 | 13 | GÖDÖLLŐ | 1 |
 
-| 29735 | 13 | GYÖMRŐ | 1 |
+| 24 | 25627 | 13 | GYÁL | 1 |
 
-| 09690 | 13 | HALÁSZTELEK | 1 |
+| 25 | 29735 | 13 | GYÖMRŐ | 1 |
 
-| 03300 | 13 | IKLAD | 1 |
+| 26 | 09690 | 13 | HALÁSZTELEK | 1 |
 
-| 07807 | 13 | ISASZEG | 1 |
+| 27 | 03300 | 13 | IKLAD | 1 |
 
-| 34166 | 13 | KEREPES | 1 |
+| 28 | 07807 | 13 | ISASZEG | 1 |
 
-| 05227 | 13 | KISNÉMEDI | 1 |
+| 29 | 34166 | 13 | KEREPES | 1 |
 
-| 34154 | 13 | KISTARCSA | 1 |
+| 30 | 05227 | 13 | KISNÉMEDI | 1 |
 
-| 27687 | 13 | KOSD | 1 |
+| 31 | 34154 | 13 | KISTARCSA | 1 |
 
-| 30809 | 13 | LEÁNYFALU | 1 |
+| 32 | 27687 | 13 | KOSD | 1 |
 
-| 10922 | 13 | MAGLÓD | ] |
+| 33 | 30809 | 13 | LEÁNYFALU | 1 |
 
-| 10755 | 13 | MAJOSHÁZA | 1 |
+| 34 | 10922 | 13 | MAGLÓD | 1 |
 
-| 03692 | 13 | MENDE | 1 |
+| 35 | 10755 | 13 | MAJOSHÁZA | 1 |
 
-| 17783 | 13 | MOGYORÓD | 1 |
+| 36 | 03692 | 13 | MENDE | 1 |
 
-| 09991 | 13 | NAGYKOVÁCSI | 1 |
+| 37 | 17783 | 13 | MOGYORÓD | 1 |
 
-| 23409 | 13 | NAGYTARCSA | 1 |
+| 38 | 09991 | 13 | NAGYKOVÁCSI | 1 |
 
-| 04075 | 13 | ÓCSA | 1 |
+| 39 | 23409 | 13 | NAGYTARCSA | 1 |
 
-| 08545 | 13 | ŐRBOTTYÁN | 1. |
+| 40 | 04075 | 13 | ÓCSA | 1 |
 
-| 15024 | 13 | PÁTY | 1 |
+| 41 | 08545 | 13 | ŐRBOTTYÁN | 1 |
 
-| 04057 | 13 | PÉCEL | 1 |
+| 42 | 15024 | 13 | PÁTY | 1 |
 
-| 29601 | 13 | PILISBOROSJENŐ | 1 |
+| 43 | 04057 | 13 | PÉCEL | 1 |
 
-| 07144 | 13 | PILISCSABA | 1 |
+| 44 | 29601 | 13 | PILISBOROSJENŐ | 1 |
 
-| 11396 | 13 | PILISSZENTIVÁN | 1 |
+| 45 | 07144 | 13 | PILISCSABA | 1 |
 
-| 14340 | 13 | PILISVÖRÖSVÁR | 1 |
+| 46 | 11396 | 13 | PILISSZENTIVÁN | 1 |
 
-| 04905 | 13 | PÓCSMEGYER | 1 |
+| 47 | 14340 | 13 | PILISVÖRÖSVÁR | 1 |
 
-| 06372 | 13 | POMÁZ | 1 |
+| 48 | 04905 | 13 | PÓCSMEGYER | 1 |
 
-| 15583 | 13 | PUSZTAZÁMOR | 1 |
+| 49 | 06372 | 13 | POMÁZ | 1 |
 
-| 02370 | 13 | RÁD | 1 |
+| 50 | 15583 | 13 | PUSZTAZÁMOR | 1 |
 
-| 34315 | 13 | REMETESZŐLŐS | 1 |
+| 51 | 02370 | 13 | RÁD | 1 |
 
-| 07384 | 13 | SOLYMÁR | 1 |
+| 52 | 34315 | 13 | REMETESZŐLŐS | 1 |
 
-| 06840 | 13 | SÓSKÚT | 1 |
+| 53 | 07384 | 13 | SOLYMÁR | 1 |
 
-| 21458 | 13 | SZADA | 1 |
+| 54 | 06840 | 13 | SÓSKÚT | 1 |
 
-| 17312 | 13 | SZÁZHALOMBATTA | 1 |
+| 55 | 21458 | 13 | SZADA | 1 |
 
-| 15440 | 13 | SZENTENDRE | 1 |
+| 56 | 17312 | 13 | SZÁZHALOMBATTA | 1 |
 
-| 13277 | 13 | SZIGETHALOM | 1 |
+| 57 | 15440 | 13 | SZENTENDRE | 1 |
 
-| 26213 | 13 | SZIGETMONOSTOR | 1 |
+| 58 | 13277 | 13 | SZIGETHALOM | 1 |
 
-| 28954 | 13 | SZIGETSZENTMIKLÓS | 1 |
+| 59 | 26213 | 13 | SZIGETMONOSTOR | 1 |
 
-| 12690 | 13 | SZŐD | 1 |
+| 60 | 28954 | 13 | SZIGETSZENTMIKLÓS | 1 |
 
-| 28866 | 13 | SZŐDLIGET | 1 |
+| 61 | 12690 | 13 | SZŐD | 1 |
 
-| 31963 | 13 | TAHITÓTFALU | 1 |
+| 62 | 28866 | 13 | SZŐDLIGET | 1 |
 
-| 30720 | 13 | TAKSONY | 1 |
+| 63 | 31963 | 13 | TAHITÓTFALU | 1 |
 
-| 04154 | 13 | TÁRNOK | 1 |
+| 64 | 30720 | 13 | TAKSONY | 1 |
 
-| 08280 | 13 | TELKI | 1 |
+| 65 | 04154 | 13 | TÁRNOK | 1 |
 
-| 29823 | 13 | TÖKÖL | 1 |
+| 66 | 08280 | 13 | TELKI | 1 |
 
-| 06859 | 13 | TÖRÖKBÁLINT | 1 |
+| 67 | 29823 | 13 | TÖKÖL | 1 |
 
-| 12894 | 13 | ÜLLŐ | 1 |
+| 68 | 06859 | 13 | TÖRÖKBÁLINT | 1 |
 
-| 11934 | 13 | ÜRÖM | 1 |
+| 69 | 12894 | 13 | ÜLLŐ | 1 |
 
-| 24934 | 13 | VÁC | 1 |
+| 70 | 11934 | 13 | ÜRÖM | 1 |
 
-| 05917 | 13 | VÁCDUKA | 1 |
+| 71 | 24934 | 13 | VÁC | 1 |
 
-| 19886 | 13 | VÁCHARTYÁN | 1 |
+| 72 | 05917 | 13 | VÁCDUKA | 1 |
 
-| 17668 | 13 | VÁCRÁTÓT | 1 |
+| 73 | 19886 | 13 | VÁCHARTYÁN | 1 |
 
-| 26815 | 13 | VECSÉS | 1 |
+| 74 | 17668 | 13 | VÁCRÁTÓT | 1 |
 
-| 18342 | 13 | VERESEGYHÁZ | 1 |
+| 75 | 26815 | 13 | VECSÉS | 1 |
 
-| 11882 | 8 | ABDA | 2 |
+| 76 | 18342 | 13 | VERESEGYHÁZ | 1 |
 
-| 29805 | 8 | BEZENYE | 2 |
+| 77 | 11882 | 8 | ABDA | 2 |
 
-| 06619 | 8 | BÖRCS | 2 |
+| 78 | 29805 | 8 | BEZENYE | 2 |
 
-| 25584 | 8 | GYŐR | 2 |
+| 79 | 06619 | 8 | BÖRCS | 2 |
 
-| 17905 | 8 | HEGYESHALOM | 2 |
+| 80 | 25584 | 8 | GYŐR | 2 |
 
-| 31626 | 8 | KUNSZIGET | 2 |
+| 81 | 17905 | 8 | HEGYESHALOM | 2 |
 
-| 33668 | 8 | LÉBÉNY | 2 |
+| 82 | 31626 | 8 | KUNSZIGET | 2 |
 
-| 19239 | 8 | LEVÉL | 2 |
+| 83 | 33668 | 8 | LÉBÉNY | 2 |
 
-| 04783 | 8 | MOSONMAGYARÓVÁR | 2 |
+| 84 | 19239 | 8 | LEVÉL | 2 |
 
-| 33677 | 8 | MOSONSZENTMIKLÓS | 2 |
+| 85 | 04783 | 8 | MOSONMAGYARÓVÁR | 2 |
 
-| 02635 | 8 | ÖTTEVÉNY | 2 |
+| 86 | 33677 | 8 | MOSONSZENTMIKLÓS | 2 |
 
-| 26587 | 8 | RAJKA | 2 |
+| 87 | 02635 | 8 | ÖTTEVÉNY | 2 |
 
-| 16674 | 8 | TÖLTÉSTAVA | 2 |
+| 88 | 26587 | 8 | RAJKA | 2 |
 
-| 32346 | 11 | ALMÁSFÜZITŐ | 3 |
+| 89 | 16674 | 8 | TÖLTÉSTAVA | 2 |
 
-| 29212 | 11 | BAJ | 3 |
+| 90 | 32346 | 11 | ALMÁSFÜZITŐ | 3 |
 
-| 07311 | 11 | BOKOD | 3 |
+| 91 | 29212 | 11 | BAJ | 3 |
 
-| 33835 | 11 | DUNAALMÁS | 3 |
+| 92 | 07311 | 11 | BOKOD | 3 |
 
-| 10490 | 11 | DOROG | 3 |
+| 93 | 33835 | 11 | DUNAALMÁS | 3 |
 
-| 25131 | 11 | ESZTERGOM | 3 |
+| 94 | 10490 | 11 | DOROG | 3 |
 
-| 04525 | 11 | KECSKÉD | 3 |
+| 95 | 25131 | 11 | ESZTERGOM | 3 |
 
-| 05449 | 11 | KOMÁROM | 3 |
+| 96 | 04525 | 11 | KECSKÉD | 3 |
 
-| 30553 | 11 | KÖRNYE | 3 |
+| 97 | 05449 | 11 | KOMÁROM | 3 |
 
-| 15255 | 11 | LÁBATLAN | 3 |
+| 98 | 30553 | 11 | KÖRNYE | 3 |
 
-| 33826 | 11 | NESZMÉLY | 3 |
+| 99 | 15255 | 11 | LÁBATLAN | 3 |
 
-| 15352 | 11 | NYERGESÚJFALU | 3 |
+| 100 | 33826 | 11 | NESZMÉLY | 3 |
 
-| 30766 | 11 | OROSZLÁNY | 3 |
+| 101 | 15352 | 11 | NYERGESÚJFALU | 3 |
 
-| 08688 | 11 | SÜTTŐ | 3 |
+| 102 | 30766 | 11 | OROSZLÁNY | 3 |
 
-| 08758 | 11 | TÁT | 3 |
+| 103 | 08688 | 11 | SÜTTŐ | 3 |
 
-| 20127 | 11 | TATA | 3 |
+| 104 | 08758 | 11 | TÁT | 3 |
 
-| 18157 | 11 | TATABÁNYA | 3 |
+| 105 | 20127 | 11 | TATA | 3 |
 
-| 14155 | 11 | TOKOD | 3 |
+| 106 | 18157 | 11 | TATABÁNYA | 3 |
 
-| 34023 | 11 | TOKODALTÁRÓ | 3 |
+| 107 | 14155 | 11 | TOKOD | 3 |
 
-| 31264 | 11 | VÉRTESSZŐLŐS | 3 |
+| 108 | 34023 | 11 | TOKODALTÁRÓ | 3 |
 
-| 09779 | 7 | CSÓR | 4 |
+| 109 | 31264 | 11 | VÉRTESSZŐLŐS | 3 |
 
-| 14827 | 7 | SZÉKESFEHÉRVÁR | 4 |
+| 110 | 09779 | 7 | CSÓR | 4 |
 
-| 30526 | 19 | ALSÓÖRS | 4 |
+| 111 | 14827 | 7 | SZÉKESFEHÉRVÁR | 4 |
 
-| 05838 | 19 | BALATONALMÁDI | 4 |
+| 112 | 30526 | 19 | ALSÓÖRS | 4 |
 
-| 21175 | 19 | BALATONFÜRED | 4 |
+| 113 | 05838 | 19 | BALATONALMÁDI | 4 |
 
-| 02219 | 19 | BALATONFŰZFŐ | 4 |
+| 114 | 21175 | 19 | BALATONFÜRED | 4 |
 
-| 02185 | 19 | CSOPAK | 4 |
+| 115 | 02219 | 19 | BALATONFŰZFŐ | 4 |
 
-| 30465 | 19 | TIHANY | 4 |
+| 116 | 02185 | 19 | CSOPAK | 4 |
 
-| 11439 | 19 | VÁRPALOTA | 4 |
+| 117 | 30465 | 19 | TIHANY | 4 |
 
-| 11767 | 19 | VESZPRÉM | 4 |
+| 118 | 11439 | 19 | VÁRPALOTA | 4 |
 
-| 07047 | 7 | BARACS | 5 |
+| 119 | 11767 | 19 | VESZPRÉM | 4 |
 
-| 03115 | 7 | DUNAÚJVÁROS | 5 |
+| 120 | 07047 | 7 | BARACS | 5 |
 
-| 12636 | 7 | KISAPOSTAG | 5 |
+| 121 | 03115 | 7 | DUNAÚJVÁROS | 5 |
 
-| 26134 | 7 | NAGYVENYIM | 5 |
+| 122 | 12636 | 7 | KISAPOSTAG | 5 |
 
-| 07612 | 3 | DUNAVECSE | 5 |
+| 123 | 26134 | 7 | NAGYVENYIM | 5 |
 
-| 06886 | 2 | ARANYOSGADÁNY | 6 |
+| 124 | 07612 | 3 | DUNAVECSE | 5 |
 
-| 13310 | 2 | BICSÉRD | 6 |
+| 125 | 06886 | 2 | ARANYOSGADÁNY | 6 |
 
-| 03896 | 2 | CSERKÚT | 6 |
+| 126 | 13310 | 2 | BICSÉRD | 6 |
 
-| 03832 | 2 | KESZŰ | 6 |
+| 127 | 03896 | 2 | CSERKÚT | 6 |
 
-| 26408 | 2 | KOMLÓ | 6 |
+| 128 | 03832 | 2 | KESZŰ | 6 |
 
-| 06336 | 2 | KOZÁRMISLENY | 6 |
+| 129 | 26408 | 2 | KOMLÓ | 6 |
 
-| 15538 | 2 | KŐVÁGÓSZŐLŐS | 6 |
+| 130 | 06336 | 2 | KOZÁRMISLENY | 6 |
 
-| 33923 | 2 | MÁNFA | 6 |
+| 131 | 15538 | 2 | KŐVÁGÓSZŐLŐS | 6 |
 
-| 19415 | 2 | PÉCS | 6 |
+| 132 | 33923 | 2 | MÁNFA | 6 |
 
-| 16115 | 2 | PELLÉRD | 6 |
+| 133 | 19415 | 2 | PÉCS | 6 |
 
-| 24554 | 10 | ABASÁR | 10 |
+| 134 | 16115 | 2 | PELLÉRD | 6 |
 
-| 09201 | 10 | DETK | 10 |
+| 135 | 24554 | 10 | ABASÁR | 10 |
 
-| 07515 | 10 | DOMOSZLÓ | 10 |
+| 136 | 09201 | 10 | DETK | 10 |
 
-| 05236 | 10 | GYÖNGYÖS | 10 |
+| 137 | 07515 | 10 | DOMOSZLÓ | 10 |
 
-| 17534 | 10 | GYÖNGYÖSHALÁSZ | 10 |
+| 138 | 05236 | 10 | GYÖNGYÖS | 10 |
 
-| 11411 | 10 | HALMAJUGRA | 10 |
+| 139 | 17534 | 10 | GYÖNGYÖSHALÁSZ | 10 |
 
-| 05935 | 10 | KARÁCSOND | 10 |
+| 140 | 11411 | 10 | HALMAJUGRA | 10 |
 
-| 15796 | 10 | LUDAS | 10 |
+| 141 | 05935 | 10 | KARÁCSOND | 10 |
 
-| 16540 | 10 | MARKAZ | 10 |
+| 142 | 15796 | 10 | LUDAS | 10 |
 
-| 05759 | 10 | VÉCS | 10 |
+| 143 | 16540 | 10 | MARKAZ | 10 |
 
-| 31246 | 10 | VISONTA | 10 |
+| 144 | 05759 | 10 | VÉCS | 10 |
 
-| 33093 | 5 | ALACSKA | 8 |
+| 145 | 31246 | 10 | VISONTA | 10 |
 
-| 25159 | 5 | BÁNHORVÁTI | 8 |
+| 146 | 33093 | 5 | ALACSKA | 8 |
 
-| 34290 | 5 | BERENTE | 8 |
+| 147 | 25159 | 5 | BÁNHORVÁTI | 8 |
 
-| 30669 | 5 | BORSODBÓTA | 8 |
+| 148 | 34290 | 5 | BERENTE | 8 |
 
-| 06655 | 5 | HEJŐBÁBA | 8 |
+| 149 | 30669 | 5 | BORSODBÓTA | 8 |
 
-| 06691 | 5 | KAZINCBARCIKA | 8 |
+| 150 | 06655 | 5 | HEJŐBÁBA | 8 |
 
-| 32090 | 5 | KIRÁLD | 8 |
+| 151 | 06691 | 5 | KAZINCBARCIKA | 8 |
 
-| 12399 | 5 | KISTOKAJ | 8 |
+| 152 | 32090 | 5 | KIRÁLD | 8 |
 
-| 32498 | 5 | KONDÓ | 8 |
+| 153 | 12399 | 5 | KISTOKAJ | 8 |
 
-| 28352 | 5 | TISZAÚJVÁROS | 8 |
+| 154 | 32498 | 5 | KONDÓ | 8 |
 
-| 27395 | 5 | MÁLYI | 8 |
+| 155 | 28352 | 5 | TISZAÚJVÁROS | 8 |
 
-| 30456 | 5 | MISKOLC | 8 |
+| 156 | 27395 | 5 | MÁLYI | 8 |
 
-| 02158 | 5 | MUHI | 8 |
+| 157 | 30456 | 5 | MISKOLC | 8 |
 
-| 05582 | 5 | NAGYCSÉCS | 8 |
+| 158 | 02158 | 5 | MUHI | 8 |
 
-| 05245 | 5 | NEMESBIKK | 8 |
+| 159 | 05582 | 5 | NAGYCSÉCS | 8 |
 
-| 12885 | 5 | NYÉKLÁDHÁZA | 8 |
+| 160 | 05245 | 5 | NEMESBIKK | 8 |
 
-| 22628 | 5 | ÓNOD | 8 |
+| 161 | 12885 | 5 | NYÉKLÁDHÁZA | 8 |
 
-| 02866 | 5 | OSZLÁR | 8 |
+| 162 | 22628 | 5 | ÓNOD | 8 |
 
-| 14492 | 5 | ÓZD | 8 |
+| 163 | 02866 | 5 | OSZLÁR | 8 |
 
-| 26745 | 5 | PARASZNYA | 8 |
+| 164 | 14492 | 5 | ÓZD | 8 |
 
-| 21193 | 5 | RADOSTYÁN | 8 |
+| 165 | 26745 | 5 | PARASZNYA | 8 |
 
-| 03504 | 5 | SAJÓBÁBONY | 8 |
+| 166 | 21193 | 5 | RADOSTYÁN | 8 |
 
-| 27331 | 5 | SAJÓECSEG | 8 |
+| 167 | 03504 | 5 | SAJÓBÁBONY | 8 |
 
-| 03212 | 5 | SAJÓIVÁNKA | 8 |
+| 168 | 27331 | 5 | SAJÓECSEG | 8 |
 
-| 21670 | 5 | SAJÓKÁPOLNA | 8 |
+| 169 | 03212 | 5 | SAJÓIVÁNKA | 8 |
 
-| 26949 | 5 | SAJÓKERESZTÚR | 8 |
+| 170 | 21670 | 5 | SAJÓKÁPOLNA | 8 |
 
-| 22479 | 5 | SAJÓLÁSZLÓFALVA | 8 |
+| 171 | 26949 | 5 | SAJÓKERESZTÚR | 8 |
 
-| 08129 | 5 | SAJÓÖRÖS | 8 |
+| 172 | 22479 | 5 | SAJÓLÁSZLÓFALVA | 8 |
 
-| 18537 | 5 | SAJÓPÁLFALA | 8 |
+| 173 | 08129 | 5 | SAJÓÖRÖS | 8 |
 
-| 16638 | 5 | SAJÓPETRI | 8 |
+| 174 | 18537 | 5 | SAJÓPÁLFALA | 8 |
 
-| 23782 | 5 | SAJÓPÜSPÖKI | 8 |
+| 175 | 16638 | 5 | SAJÓPETRI | 8 |
 
-| 08970 | 5 | SAJÓSENYE | 8 |
+| 176 | 23782 | 5 | SAJÓPÜSPÖKI | 8 |
 
-| 16054 | 5 | SAJÓSZENTPÉTER | 8 |
+| 177 | 08970 | 5 | SAJÓSENYE | 8 |
 
-| 30340 | 5 | SAJÓSZÖGED | 8 |
+| 178 | 16054 | 5 | SAJÓSZENTPÉTER | 8 |
 
-| 20738 | 5 | SAJÓVÁMOS | 8 |
+| 179 | 30340 | 5 | SAJÓSZÖGED | 8 |
 
-| 03805 | 5 | SZAKÁLD | 8 |
+| 180 | 20738 | 5 | SAJÓVÁMOS | 8 |
 
-| 09496 | 5 | SZIRMABESENYŐ | 8 |
+| 181 | 03805 | 5 | SZAKÁLD | 8 |
 
-| 08633 | 5 | TISZAPALKONYA | 8 |
+| 182 | 09496 | 5 | SZIRMABESENYŐ | 8 |
 
-| 18351 | 5 | UPPONY | 8 |
+| 183 | 08633 | 5 | TISZAPALKONYA | 8 |
 
-| 21546 | 5 | MÚCSONY | 8 |
+| 184 | 18351 | 5 | UPPONY | 8 |
 
-| 08396 | 5 | BOLDVA | 8 |
+| 185 | 21546 | 5 | MÚCSONY | 8 |
 
-| 03771 | 5 | ARNÓT | 8 |
+| 186 | 08396 | 5 | BOLDVA | 8 |
 
-| 02848 | 5 | FELSŐZSOLCA | 8 |
+| 187 | 03771 | 5 | ARNÓT | 8 |
 
-| 21032 | 5 | ALSÓZSOLCA | 8 |
+| 188 | 02848 | 5 | FELSŐZSOLCA | 8 |
 
-| 27173 | 5 | SAJÓLÁD | 8 |
+| 189 | 21032 | 5 | ALSÓZSOLCA | 8 |
 
-| 15130 | 9 | DEBRECEN | 9 |
+| 190 | 27173 | 5 | SAJÓLÁD | 8 |
 
-| 23117 | 9 | POLGÁR | 8 |
+| 191 | 15130 | 9 | DEBRECEN | 9 |
 
-| Kijelölt városok |  |  |  |
+| 192 | 23117 | 9 | POLGÁR | 8 |
 
-| 06673 | 19 | AJKA |  |
+| 193 | Kijelölt városok |
 
-| 03522 | 3 | BAJA |  |
+| 194 | 06673 | 19 | AJKA |  |
 
-| 15200 | 4 | BÉKÉSCSABA |  |
+| 195 | 03522 | 3 | BAJA |  |
 
-| 20491 | 10 | EGER |  |
+| 196 | 15200 | 4 | BÉKÉSCSABA |  |
 
-| 20473 | 14 | KAPOSVÁR |  |
+| 197 | 20491 | 10 | EGER |  |
 
-| 26684 | 3 | KECSKEMÉT |  |
+| 198 | 20473 | 14 | KAPOSVÁR |  |
 
-| 17206 | 15 | NYÍREGYHÁZA |  |
+| 199 | 26684 | 3 | KECSKEMÉT |  |
 
-| 25788 | 12 | SALGÓTARJÁN |  |
+| 200 | 17206 | 15 | NYÍREGYHÁZA |  |
 
-| 08518 | 8 | SOPRON |  |
+| 201 | 25788 | 12 | SALGÓTARJÁN |  |
 
-| 33367 | 6 | SZEGED |  |
+| 202 | 08518 | 8 | SOPRON |  |
 
-| 27854 | 16 | SZOLNOK |  |
+| 203 | 33367 | 6 | SZEGED |  |
 
-| 03009 | 18 | SZOMBATHELY |  |
+| 204 | 27854 | 16 | SZOLNOK |  |
 
-| 32054 | 20 | ZALAEGERSZEG |  |
+| 205 | 03009 | 18 | SZOMBATHELY |  |
 
-[^6]: A 2. számú melléklet a 2/2008. (I. 16.) KvVM rendelet 1. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 1. §-a, a 15/2015. (III. 31.) FM rendelet 8. §-a, az 1/2022. (XII. 27.) EM rendelet 1. §-a szerint módosított szöveg.
+| 206 | 32054 | 20 | ZALAEGERSZEG |  |
+
+[^7]: A 2. melléklet a 43/2023. (XII. 29.) EM rendelet 1. § (1) bekezdés b) pontjával megállapított szöveg.

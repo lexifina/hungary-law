@@ -1,3 +1,3 @@
-1. számú melléklet a 4/2002. (X. 7.) KvVM rendelethez[^5]
+1. melléklet a 4/2002. (X. 7.) KvVM rendelethez[^6]
 
-[^5]: Az 1. számú melléklet a 48/2006. (XII. 27.) KvVM rendelet 2. §-ával megállapított, a 8/2010. (III. 31.) KvVM rendelet 2. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 43/2023. (XII. 29.) EM rendelet 1. § (1) bekezdés a) pontjával megállapított szöveg.
