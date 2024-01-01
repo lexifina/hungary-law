@@ -1,5 +1,3 @@
-## lép.
-
 ## 3. A Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény módosítása
 
 13. § A Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény (a továbbiakban: 2022. évi II. törvény) 1. §-a helyébe a következő rendelkezés lép:
