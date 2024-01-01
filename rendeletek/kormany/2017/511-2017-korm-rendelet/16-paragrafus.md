@@ -1,12 +1,12 @@
 ## 4. A veszélyes áru szállítási biztonsági tanácsadó névjegyzékbe vétele
 
-16. § (1)[^14] A hatályos bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadót kérelmére a közlekedési hatóság felveszi a veszélyes áru szállítási biztonsági tanácsadók névjegyzékébe.
+16. § (1)[^15] A hatályos bizonyítvánnyal rendelkező veszélyes áru szállítási biztonsági tanácsadót kérelmére a közlekedési hatóság felveszi a veszélyes áru szállítási biztonsági tanácsadók névjegyzékébe.
 
 (2) A névjegyzéket a közlekedési hatóság az internetes honlapján naprakészen hozzáférhetővé teszi.
 
-(3)[^15] Azt a tanácsadót, akinek a bizonyítványa hatályát vesztette, a közlekedési hatóság hivatalból törli a névjegyzékből.
+(3)[^16] Azt a tanácsadót, akinek a bizonyítványa hatályát vesztette, a közlekedési hatóság hivatalból törli a névjegyzékből.
 
 (4) A tanácsadót kérelmére és halála esetén a névjegyzékből törölni kell.
 
-[^14]: A 16. § (1) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
-[^15]: A 16. § (3) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.
+[^15]: A 16. § (1) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 31. § a) pontja szerint módosított szöveg.
+[^16]: A 16. § (3) bekezdése a 289/2018. (XII. 21.) Korm. rendelet 31. § b) pontja szerint módosított szöveg.

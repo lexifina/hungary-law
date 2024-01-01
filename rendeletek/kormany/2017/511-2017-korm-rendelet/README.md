@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-511-20-
 | 2021-01-01 | 2017-511-20-22.3 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2022-01-01 | 2017-511-20-22.4 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2023-12-27 | 2017-511-20-22.7 | 612/2023. (XII. 22.) Korm. rendelet |
+| 2024-01-01 | 2017-511-20-22.5 | 561/2023. (XII. 14.) Korm. rendelet |
