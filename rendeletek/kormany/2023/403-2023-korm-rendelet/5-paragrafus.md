@@ -1,0 +1,1 @@
+5. § Az R1. 4. § (2) bekezdésében az „utolsó munkanapjáig” szövegrész helyébe az „utolsó munkanapjáig hétévente” szöveg, valamint az „az Nkt. 62. § (2) bekezdésében” szövegrész helyébe az „a Púétv. 70. §-ában” szöveg lép.
