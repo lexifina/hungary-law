@@ -1,3 +1,3 @@
 ## 12. Hatályon kívül helyező rendelkezések
 
-54. §
+### 54. §
