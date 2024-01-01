@@ -36,6 +36,8 @@ j) a politikai szolgálati jogviszonyban töltött időt, valamint
 
 k) a Kttv. 62/A. §-a szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot
 
+l) költségvetési intézménynél egészségügyi szolgálati jogviszonyban, köznevelési foglalkoztatotti jogviszonyban töltött időt
+
 kell figyelembe venni.
 
 (4) Az országgyűlési köztisztviselő nem jogosult jubileumi jutalomra, ha másik foglalkoztatási jogviszonyban azt már megkapta, valamint nem jogosult az (1) bekezdés a) pontja szerinti elismerésre, ha másik foglalkoztatási jogviszonyban vagy az Országgyűlés Hivatalával fennálló közszolgálati jogviszonyában már magasabb fokozatú jubileumi jutalomban részesült.
