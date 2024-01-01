@@ -6,7 +6,7 @@
 
 (3) A típusvizsgálóra és a vizsgáló állomásra vonatkozó követelményeket, valamint a tanúsítási tevékenységükre vonatkozó szabályokat a miniszter, a típusvizsgáló és vizsgáló állomás engedélyezésére irányuló eljárás részletes szabályait a Kormány rendeletben határozza meg.
 
-(4)
+(4) A közlekedési hatóság a vizsgálóállomás engedélyezése iránti kérelmet elutasítja, ha a vállalkozás vezető tisztségviselője, képviselője büntetett előéletű.
 
 (5) A vizsgáló állomás tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóság feladatait a közlekedési hatóság látja el.
 
@@ -14,8 +14,10 @@
 
 (6) A jármű időszakos vizsgálata során a jármű műszaki megvizsgálását, illetve környezetvédelmi felülvizsgálatát a közlekedési hatóság kormánytisztviselője, illetve a (2) bekezdésben meghatározott tanúsító szervezettel foglalkoztatási jogviszonyban álló személy (a továbbiakban együtt: műszaki vizsgabiztos) végzi. Műszaki vizsgabiztosi tevékenységet az folytathat, aki büntetlen előéletű, nem áll műszaki vizsgabiztosi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt, a műszaki vizsgabiztosi tevékenység folytatásához a közlekedési hatóság által kiadott engedéllyel rendelkezik, valamint rendelkezik a miniszter rendeletében meghatározott szakmai képesítésekkel, és megfelel az ott meghatározott egyéb feltételeknek. A közlekedési hatóság által a tevékenység folytatására jogosult személyekről vezetett közhiteles hatósági nyilvántartás tartalmazza a vizsgabiztosi tevékenység végzésére jogosult személy természetes személyazonosító adatait.
 
+(6a) A (6) bekezdésben foglaltakon túl, nem engedélyezhető, nem végezhető a műszaki vizsgabiztosi tevékenység annak, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet), vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
+
 (7) A közlekedési hatóság e törvény végrehajtására kiadott jogszabályban meghatározott esetekben a műszaki vizsgabiztos engedélyét felfüggeszti, vagy visszavonja és a nyilvántartásból törli.
 
 (8) Nem alkalmazható közigazgatási szankcióként figyelmeztetés az (5a) bekezdésben szereplő jogsértések miatt indult közigazgatási hatósági eljárásokban.
 
-(9)
+(9) A vizsgálóállomás vezető tisztségviselője, képviselője a büntetlen előéletet, illetve a műszaki vizsgabiztos azt a tényt, hogy nem áll büntetőeljárás hatálya alatt, hatósági bizonyítvánnyal igazolja.

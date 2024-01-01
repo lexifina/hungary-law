@@ -51,3 +51,7 @@ l) a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére
 m) a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv.
 
 n) a gépjárművezető nélkül bérelt járművek közúti árufuvarozásra történő használatáról szóló 2006/1/EK irányelv módosításáról szóló, 2022. április 6-i (EU) 2022/738 európai parlamenti és tanácsi irányelv.
+
+o) az 1999/62/EK, az 1999/37/EK és az (EU) 2019/520 irányelvnek a gépjárművekre egyes infrastruktúrák használatáért kivetett díjak tekintetében való módosításáról szóló 2022. február 24-i (EU) 2022/362 európai parlamenti és tanácsi irányelv.
+
+p) a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelv.

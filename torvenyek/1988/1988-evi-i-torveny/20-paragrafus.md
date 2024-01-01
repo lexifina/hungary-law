@@ -2,7 +2,7 @@
 
 a) a meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatásra (árufuvarozásra és személyszállításra),
 
-b) a meghatározott okmány meglétéhez kötött saját számlás áru- és személyszállításra,
+b) a meghatározott okmány meglétéhez kötött saját számlás személyszállításra,
 
 c) a közúti szállítás szociális előírásaira, a vezetési időre, a szünetre, illetve a megszakításra és a pihenőidőre,
 

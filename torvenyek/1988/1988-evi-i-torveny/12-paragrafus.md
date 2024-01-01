@@ -26,6 +26,8 @@ c) a közterület b) pont szerinti rendeltetésszerű igénybe vétele közterü
 
 d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges.
 
+e) a közvilágítási-, villany- és telefonoszlopon elhelyezett tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklámnak.
+
 (3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület által engedélyezett a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
 
 (3f) A segélykérő telefon e törvény alkalmazásában életmentő funkciót ellátó reklámcélú eszköznek minősül a következő feltételekkel:
