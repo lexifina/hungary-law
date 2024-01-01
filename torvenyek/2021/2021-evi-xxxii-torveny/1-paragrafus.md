@@ -20,7 +20,9 @@ f) az elektronikus információs rendszerek védelméhez szükséges poszt-kvant
 
 g) a szerkezetátalakítási szakértők hatósági nyilvántartásainak vezetésével, a bíróság általi kijelölésük és hivatalból történő kirendelésük során alkalmazott, a Hatóság által működtetett elektronikus, véletlenszerű kiválasztás elvét alkalmazó informatikai rendszer fejlesztésével és működtetésével, egyes tevékenységeik szabályozásával, a tevékenységük feletti hatósági felügyelet és hatósági ellenőrzés gyakorlásával és szabályozásával, valamint
 
-h) nemzeti kiberbiztonsági tanúsítással
+h) nemzeti kiberbiztonsági tanúsítással, valamint a kiberbiztonsági felügyelettel
+
+i) a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló törvény (a továbbiakban: ESG törvény) szerinti ESG adatszolgáltatásra kötelezettek hatósági ellenőrzésével, az ESG törvény szerinti felügyelettel, nyilvántartással akkreditálással és szabályozással, az ESG törvény szerinti elektronikus felületek működtetésével, továbbá az ESG törvényben meghatározott egyéb tevékenységeivel
 
 kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogszabálynak van alárendelve.
 

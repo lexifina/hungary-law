@@ -16,7 +16,7 @@ f) a szerkezetátalakításról szóló törvény
 
 és az e törvények felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat és hatáskörébe tartozó feladatokat.
 
-(2) A Hatóság látja el a szerencsejátékot népszerűsítő reklám tekintetében a gazdasági reklám tevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 17. § (2) bekezdése szerinti rendelkezések tekintetében a fogyasztóvédelmi hatósági feladatokat.
+(2) A Hatóság látja el a szerencsejátékot népszerűsítő reklám tekintetében a gazdasági reklám tevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5. § (1) bekezdésében és 21. §-ában foglaltak, valamint a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény (a továbbiakban: Fdvtv.) 17. § (2) bekezdése szerinti rendelkezések tekintetében a fogyasztóvédelmi hatósági feladatokat.
 
 (3) A Hatóság szerencsejáték ügyben felügyeleti és ellenőrzési tevékenységet gyakorol a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény, az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvény és ezen törvények végrehajtására kiadott rendeletek rendelkezéseinek a betartását illetően az ezen jogszabályok hatálya alá tartozó szerencsejátékokat és szerencsejáték-szervezőket érintően.
 
@@ -36,8 +36,16 @@ f) statisztikai adatokat gyűjt a koncessziós eljárásokról, a koncessziós s
 
 g) előzetes egyetértési jogot gyakorol az állam nevében történő koncessziós pályázat kiírása, ajánlattételi felhívás, ajánlattételi eljárás, valamint a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) 10/A. §-a szerinti eljárás lefolytatása, továbbá a koncessziós szerződés megkötése, a koncessziós szerződés módosítása, az állam nevében történő megszüntetése tekintetében.
 
-(5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság mint azonosítókibocsátó látja el a Végrehajtási Rendelet 9. cikke szerinti csomagolási egység szintű és 13. cikke szerinti gyűjtőcsomagolás szintű egyedi azonosító (a továbbiakban: egyedi azonosító) létrehozásával és kibocsátásával kapcsolatos feladatokat.
+(5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság, mint azonosítókibocsátó
 
-(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait.
+a) ellátja a Végrehajtási Rendelet 9. cikke szerinti csomagolási egység szintű és 13. cikke szerinti gyűjtőcsomagolás szintű egyedi azonosító (a továbbiakban: egyedi azonosító) létrehozásával és kibocsátásával kapcsolatos feladatokat,
+
+b) végzi a Végrehajtási Rendelet 36a. cikk (2) bekezdése szerinti ellenőrzést, és
+
+c) kidolgozza a Végrehajtási Rendelet 3. cikk (8) bekezdés b) pontja szerinti kilépési tervet.
+
+(6) A Hatóság látja el – a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsító hatósági feladatok kivételével – a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) szerinti nemzeti kiberbiztonsági tanúsító hatóság feladatait, továbbá a Kibertan.tv. hatálya alá tartozó érintett szervezetek, valamint azok elektronikus információs rendszerei kiberbiztonsági felügyeletét.
 
 (7) A Hatóság látja el a hulladékról szóló 2012. évi CLXXXV. törvény 92/H. § (2) és (5) bekezdésében meghatározott hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat.
+
+(8) A Hatóság látja el az ESG törvény és az annak felhatalmazása alapján kiadott jogszabályok hatálya alá tartozó szervezetek, személyek ezen jogszabályok szerinti tevékenységének felügyeletét, valamint az e jogszabályokban meghatározott, a Hatóság feladat- és hatáskörébe tartozó feladatokat.
