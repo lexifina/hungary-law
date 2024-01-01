@@ -22,21 +22,7 @@
 
 ## jelöli ki;
 
-## 7.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdése szerinti jogkörében eljárva, a 2. pont a) és b) alpontja szerinti beruházások előkészítési feladatainak finanszírozása érdekében 306 565 000 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész tekintetében visszafizetési kötelezettséggel a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 4. Beruházás Előkészítési Alap jogcímcsoport terhére, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 66. Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása jogcímcsoport javára, az 1. melléklet szerint;
-
-## Az átcsoportosítás tekintetében:
-
-## Felelős: pénzügyminiszter
-
-## emberi erőforrások minisztere
-
-## Határidő: azonnal
-
-## Az elszámolás és a fel nem használt, valamint a nem rendeltetésszerűen felhasznált rész visszafizetése tekintetében:
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: 2022. január 30.
+## 7.[^2]
 
 ## 8.[^3]
 
@@ -64,72 +50,9 @@
 
 ## 12. egyetért azzal, hogy a 2. pont szerinti beruházások során létrejövő építmények vagyonkezelője és üzemeltetője a Sportegyesület legyen.
 
-1. melléklet az 1166/2020. (IV. 21.) Korm. határozathoz
-
-| XV. Pénzügyminisztérium XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XV. |  |  |  |  |  | Pénzügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 26 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Központi tartalékok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 375739 |  |  |  | 4 |  |  |  |  |  | Beruházás Előkészítési Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -306 565 000 |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 351717 |  |  |  | 66 |  |  |  |  |  | Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 306 565 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XX. |  |  |  |  |  | Emberi Erőforrások Minisztériuma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 20 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 24 |  |  |  |  |  | Sportlétesítmények fejlesztése és kezelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 351717 |  |  |  | 66 |  |  |  |  |  | Kiemelt sportegyesületek sportlétesítmény-fejlesztéseinek támogatása |  |  |  |  |  |  |  |  | 306 565 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I.n.év | II. n.év | III.n.év | IV.n.év |
-
-|  |  |  |  |  |  |  |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  | 306 565 000 |  |  |
-
-| Magyar Államkincstár |  | 1 példány |  |  | egyéb: | azonnal |  |  | 306 565 000 |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+1. melléklet az 1166/2020. (IV. 21.) Korm. határozathoz[^4]
 
 [^1]: A 4. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^2]: A 7. pont az 1861/2020. (XI. 28.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^2]: A 7. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 8. pontot az 1496/2021. (VII. 23.) Korm. határozat 1. pont i) alpont ib) pontja visszavonta.
+[^4]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
