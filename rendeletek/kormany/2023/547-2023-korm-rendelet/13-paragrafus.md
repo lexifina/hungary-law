@@ -1,27 +1,23 @@
 13. § (1) Az Országos Meteorológiai Szolgálat mint a környezetvédelemért felelős miniszter irányítása alá tartozó, központi hivatalként működő központi költségvetési szerv 2023. december 31-én jogutód nélkül megszűnik, az általa ellátott feladatokat a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság veszi át 2024. január 1. naptól. Az Országos Meteorológiai Szolgálat e rendelet szerinti feladatellátással összefüggő jogosultságai és kötelezettségei 2024. január 1-jétől a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaságot jogosítják, illetve kötelezik (e § alkalmazásában a továbbiakban együtt: jogutódlás).
 
-(2)[^12]
+(2) Az (1) bekezdés szerinti jogutódlás kiterjed az Országos Meteorológiai Szolgálat által ellátott feladatokkal összefüggő valamennyi jogviszonyra, így különösen
 
-(3)[^13]
+a) az Országos Meteorológiai Szolgálat közfeladata ellátásához kapcsolódó vagyoni jogra és kötelezettségre;
 
-(4)[^14]
+b) az Országos Meteorológiai Szolgálat által kötött szerződésekből eredő jogokra, befejezetlen beruházásokra, készletekre, követelésekre, támogatásokra és kötelezettségekre.
 
-(5)[^15]
+(3) Az (1) bekezdés szerinti jogutódlás az Országos Meteorológiai Szolgálattal szemben fennálló követeléseket nem teszi lejárttá, és arra való hivatkozással szerződésszegési igényt, kártérítési igényt vagy biztosíték nyújtására vonatkozó igényt nem lehet érvényesíteni.
 
-(6)[^16]
+(4) A folyamatban lévő közbeszerzési és beszerzési eljárásokba 2024. január 1. napján az Országos Meteorológiai Szolgálat helyébe a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság lép.
 
-(7)[^17]
+(5) Az Országos Meteorológiai Szolgálatnál 2023. december 31-én foglalkoztatott kormánytisztviselők kormánytisztviselői kormányzati szolgálati jogviszonya a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-a alapján 2024. január 1-jén munkaviszonnyá alakul át, a munkavállaló munkáltatója a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
 
-(8)[^18]
+(6) A Pest Vármegyei Kormányhivatalnál, a Csongrád-Csanád Vármegyei Kormányhivatalnál, a Győr-Moson-Sopron Vármegyei Kormányhivatalnál, a Fejér Vármegyei Kormányhivatalnál, a Baranya Vármegyei Kormányhivatalnál, a Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalnál és a Hajdú-Bihar Vármegyei Kormányhivatalnál az Országos Légszennyezettségi Mérőhálózat üzemeltetéséhez kapcsolódó álláshelyeken 2024. június 30-án foglalkoztatott, az Országos Légszennyezettségi Mérőhálózat üzemeltetéséhez kapcsolódó feladatokat ellátó kormánytisztviselők kormányzati szolgálati jogviszonya a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 114. §-a alapján 2024. július 1-jén munkaviszonnyá alakul át, a munkavállaló munkáltatója a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság.
+
+(7) A Herman Ottó Intézet Nonprofit Kft. által végzett környezetvédelemmel kapcsolatos közfeladatok, szakmai projektek, az azokhoz kötődő magánjogi jogok és kötelezettségek, valamint a feladatok ellátásához szükséges foglalkoztatotti állomány és eszközök, továbbá az átkerülő feladatok ellátásával kapcsolatban a jogelőd által megszerzett szerzői jogok, forráskódok és licencek tekintetében a Herman Ottó Intézet Nonprofit Kft. jogutódja a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság. A jogutódlás napja 2024. január 1.
+
+(8) Az (5) és a (6) bekezdés szerinti munkavállaló munkabérét a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság úgy állapítja meg, hogy az nem lehet kevesebb, mint amekkora összegre az érintett – kormányzati szolgálati jogviszonyban illetményként – a kinevezési okirat alapján az (5) bekezdés szerinti esetben 2023. december 31-én, a (6) bekezdés szerinti esetben 2024. június 30-án jogosult volt.
 
 (9) A repülésmeteorológiai tevékenységének folyamatosságának biztosítása érdekében a feladatátadás szerinti jogelőd, Országos Meteorológiai Szolgálat részére kiadott léginavigációs szolgáltató tanúsítvány vonatkozásában a feladatátadás szerinti jogutód HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság e bekezdés hatálybalépését követően haladéktalanul, de legkésőbb 2023. december 20. napjáig bejelenti a légiközlekedési hatóságnak a tanúsítványt érintő, az (1) bekezdés szerinti feladat jogutódlást, egyúttal igazolja, hogy az a tanúsítvány kiadásához szükséges feltételek, így különösen a biztonságos, hatékony, folyamatos és fenntartható módon történő szolgáltatás ellátás, valamint a megfelelő technikai és működési kapacitás és szakértelem tekintetében – a 2023. november 30-i állapotot alapul véve – nem eredményez változást, valamint rendelkezik felelős vezetővel.
 
 (10) A (9) bekezdésben foglalt feltételek teljesülése esetén a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság feladat jogutódként 2024. március 31. napjáig végezheti a tevékenységet, azzal, hogy 2024. január 15. napjáig új léginavigációs szolgáltató tanúsítvány kiadását kérelmezi.
-
-[^12]: A 13. § (2) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^13]: A 13. § (3) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^14]: A 13. § (4) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^15]: A 13. § (5) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^16]: A 13. § (6) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^17]: A 13. § (7) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
-[^18]: A 13. § (8) bekezdése a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

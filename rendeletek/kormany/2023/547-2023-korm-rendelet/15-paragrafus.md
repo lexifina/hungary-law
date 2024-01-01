@@ -1,3 +1,1 @@
-15. §[^19]
-
-[^19]: A 15. § a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+15. § Hatályát veszti az Országos Meteorológiai Szolgálatról és a meteorológiai tevékenységről szóló 353/2021. (VI. 24.) Korm. rendelet.

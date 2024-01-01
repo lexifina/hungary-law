@@ -1,5 +1,7 @@
-## 9.[^9]
+## 9. A meteorológiai szolgáltatási tevékenységre vonatkozó szabályok
 
-9. §
+9. § Meteorológiai szolgáltatási tevékenységet folytathat
 
-[^9]: A 9. alcím a 12. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+a) az a természetes személy, aki okleveles meteorológus végzettséggel rendelkezik; továbbá
+
+b) az a jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet, amely a tevékenysége végzése céljából okleveles meteorológus végzettséggel rendelkező személyt munkaviszony keretében foglalkoztat, vagy ilyen személlyel munkavégzésre irányuló egyéb jogviszonyban vagy társasági jogi jogviszonyban áll.
