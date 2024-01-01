@@ -1,4 +1,4 @@
-43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben a MOB alapszabályában rögzített számú helyet kell biztosítani az olimpiai sportágak szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
+43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben a MOB alapszabályában rögzített számú helyet kell biztosítani az olimpiai sportágak szakszövetségei által delegált személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy delegáló szervezet több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
 
 (2) A közgyűlés kizárólagos hatáskörébe tartozik:
 

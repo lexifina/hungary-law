@@ -8,9 +8,11 @@
 
 (4) Szakszövetség csak olyan sportágban hozható létre:
 
-a) amely a Nemzetközi Olimpiai Bizottság által elismert sportág, vagy
+a) amely a Nemzetközi Olimpiai Bizottság (a továbbiakban: NOB) által elismert sportág, vagy
 
-b) amelyben a sportág nemzetközi szövetségét felvették a Nemzetközi Sportszövetségek Szövetségébe (Global Association of International Sports Federations, a továbbiakban: GAISF).
+b) amely sportágban legalább három földrészről, tizenöt tagországgal sportági nemzetközi szakszövetség és legalább öt éve világ- vagy Európa-bajnoki versenyrendszer működik, és
+
+c) amelynek sportszövetsége – ha nem a NOB által elismert sportágban működik – a b) pont szerinti sportági nemzetközi szakszövetség tagja.
 
 (5) Szakszövetségnek a (4) bekezdésben foglaltakon túlmenően csak olyan sportszövetség minősülhet,
 
@@ -20,4 +22,4 @@ b) amely legalább három éve folyamatosan országos versenyrendszert (bajnoks�
 
 c) amelynek versenyrendszerében rendszeresen legalább száz fő, sportági versenyengedéllyel rendelkező sportoló vesz részt, és
 
-d) amely – ha nem a Nemzetközi Olimpiai Bizottság által elismert sportágban működik – a (4) bekezdés b) pontja szerinti sportági nemzetközi szövetség tagja.
+d)

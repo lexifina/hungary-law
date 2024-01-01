@@ -1,4 +1,4 @@
-2. § (1) A sportszervezet keretében sporttevékenységet folytató versenyző számára a sportszervezet köteles biztosítani a sportág jellege szerinti biztonságos sporttevékenység folytatásához szükséges feltételeket.
+2. § (1) Az igazolt sportoló számára a sportszervezet köteles biztosítani a sportág jellege szerinti biztonságos sporttevékenység folytatásához szükséges feltételeket.
 
 (2) A versenyző a sportteljesítményéhez, illetve az elért eredményeihez igazodó mértékben igényelheti a sportszervezetétől az eredményes sporttevékenységhez szükséges felkészülési, versenyzési lehetőség biztosítását.
 
@@ -18,4 +18,4 @@ b) a sportág jellegének megfelelő – külön jogszabályban meghatározott �
 
 c) a sportág hazai és nemzetközi versenyszabályzatában, valamint egyéb szabályzataiban foglaltakat betartani,
 
-d) a sporttevékenység során annak a sportszervezetnek, sportszövetségnek az érdekeit is figyelembe venni, amellyel tagsági, illetve szerződéses viszonyban áll, valamint amelyik a nemzeti válogatott keretbe meghívta.
+d) a sporttevékenység során annak a sportszervezetnek, sportszövetségnek az érdekeit is figyelembe venni, amellyel igazolt sportolói jogviszonyban áll, valamint amelyik a nemzeti válogatott keretbe meghívta.

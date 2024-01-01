@@ -10,9 +10,9 @@ d) az olimpiai mozgalom eszményének jegyében segíti az ifjúság testi, erk�
 
 e) javaslatot tesz a sportpolitikáért felelős miniszter részére a sportolóvá válás gondozásának módszertanára a kiválasztástól a nemzetközi szintű teljesítményig,
 
-f) javaslatot tesz a sportpolitikáért felelős miniszternek a támogatási rendszerek minőségbiztosítási rendszerére (benchmark-rendszer) és követelményeire,
+f) véleményezi az olimpiai sportágak támogatására vonatkozó minőségbiztosítási rendszert,
 
-g) négyéves ciklusokban megtervezi az olimpiai felkészülés rendszerét és szakmai javaslatot tesz a sportpolitikáért felelős miniszter részére a sport világesemények támogatására,
+g) négyéves ciklusokban megtervezi az olimpiai felkészülés rendszerét és szakmai javaslatot tesz a sportpolitikáért és a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter részére a sportvilágesemények támogatására,
 
 h) együttműködik a sportpolitikáért felelős miniszterrel a sportszakemberek képzési, továbbképzési, valamint foglalkoztatási céljait szolgáló programok meghatározásában, segíti a sportszövetségek kötelező sportszakember-továbbképzési feladataik ellátását,
 

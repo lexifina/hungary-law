@@ -1,10 +1,12 @@
 46/H. § (1) Az NVESZ tagjai – az NVESZ alapszabályának elfogadása esetén –
 
-a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékainak és a Nemzetközi Sportszövetségek Szövetsége (GAISF) Világjátékainak programján,
+a) alanyi jogon azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékainak és a 30/A. § (1) bekezdés b) pontja szerinti szervezet Világjátékainak programján,
 
 b) a nem olimpiai sportágakban működő – a) pont hatálya alá nem tartozó – sportszövetségek,
 
 c) a nem olimpiai sportágak szervezett versenysportjának működését segítő más személyek, amennyiben az alapszabály így rendelkezik.
+
+(1a) Az (1) bekezdés a) pontja szerinti tagság tényét az ott meghatározott szervezetek tagfelvételi kérelmének benyújtását követően a közgyűlés állapítja meg.
 
 (2) Az NVESZ tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: NVESZ-főtitkár) tartja nyilván.
 

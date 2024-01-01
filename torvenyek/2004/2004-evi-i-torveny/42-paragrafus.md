@@ -1,12 +1,14 @@
-42. § (1) A MOB tagjai
+42. § (1) A MOB tagjai azok a büntetlen előéletű magyar állampolgárok, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését és
 
-a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká,
+a) akiket az olimpiai sportágak országos sportági szakszövetségei taggá delegálnak,
 
-b) – a MOB alapszabályának elfogadása esetén – alanyi jogon az olimpiai sportágak országos sportági szakszövetségei.
+b) akiket a MOB alapszabályában felsorolt szervek és szervezetek taggá delegálnak, vagy
+
+c) akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká.
 
 (2) A MOB tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: MOB-főtitkár) tartja nyilván.
 
-(3) A MOB leendő tagja tagfelvételi kérelmének, illetve a személyes jogosultság alapján a MOB tagjává váló személy a tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja a MOB-főtitkár részére azt a tényt, hogy büntetlen előéletű.
+(3) A MOB leendő tagja tagfelvételi kérelmének, tagfelvételre irányuló nyilatkozatának benyújtásával egyidejűleg hatósági bizonyítvánnyal igazolja a MOB-főtitkár részére azt a tényt, hogy büntetlen előéletű.
 
 (4) A MOB elnökségi tagjának jelölt személy az elnökségi taggá választását megelőzően a MOB-főtitkár részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy büntetlen előéletű.
 

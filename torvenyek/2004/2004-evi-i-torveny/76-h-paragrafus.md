@@ -2,7 +2,7 @@
 
 a) természetes személyazonosító adatai, valamint
 
-b) a társadalombiztosítási azonosító jele – regisztrált szabadidő-sportoló esetén továbbá az adóazonosító jele –
+b) a társadalombiztosítási azonosító jele
 
 összevetése útján, az összerendelési nyilvántartáson keresztül elektronikus úton, térítésmentesen, folyamatos automatikus adatátadással adatot szolgáltat a nemzeti sportinformációs rendszer részére.
 

@@ -2,7 +2,7 @@
 
 a) közgyűlését (küldöttgyűlését) évente legalább egyszer össze kell hívni, amelyen meg kell tárgyalnia éves pénzügyi tervét, illetve az előző éves pénzügyi terv teljesítéséről szóló, a számvitelről szóló törvény rendelkezései szerint készített beszámolót,
 
-b) sporttal össze nem függő tevékenységet, valamint sporttevékenységével összefüggő kereskedelmi tevékenységet (ideértve a sportegyesület vagyoni értékű jogainak hasznosítását is) csak kiegészítő tevékenységként folytathat. A sportlétesítmények használata, illetve működtetése – e rendelkezés alkalmazásában – a sportegyesület alaptevékenységének minősül.
+b) sporttal össze nem függő tevékenységet, valamint sporttevékenységével összefüggő kereskedelmi tevékenységet – ideértve a sportegyesület vagyoni értékű jogainak hasznosítását is – csak kiegészítő tevékenységként folytathat. A sportlétesítmények használata, illetve működtetése, valamint a vele igazolt sportolói jogviszonyban álló sportoló részére a sporttevékenység szervezése és a sporttevékenység feltételeinek megteremtése – e rendelkezés alkalmazásában – a sportegyesület alaptevékenységének minősül.
 
 (2) A sportegyesület a szakosztályát, illetve más szervezeti egységét alapszabályában foglalt felhatalmazás alapján közgyűlési határozattal jogi személlyé nyilváníthatja.
 

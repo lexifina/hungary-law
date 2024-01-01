@@ -2,21 +2,17 @@
 
 30/A. § (1) A nemzetközi sportszövetség olyan sportszövetség, amely sportágában nemzetközi szinten az e törvényben, valamint jogszabályban meghatározott sportszakmai feladatokat lát el, és amely
 
-a) a Nemzetközi Olimpiai Bizottság által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
+a) a NOB által sportágának hivatalos nemzetközi szövetségeként elismert sportszövetség,
 
-b) a GAISF tagjának minősül,
+b) a Nemzetközi Sportszövetségek Szövetsége (SportAccord) valamely ernyőszervezetében tagsággal rendelkezik,
 
-c) GAISF megfigyelői státusszal rendelkezik,
+c) az a) és b) pont szerinti sportszövetség kontinentális sportszövetsége,
 
-d) az a)–c) pont szerinti sportszövetség kontinentális sportszövetsége,
+d) a NOB szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetség sportágának hivatalos nemzetközi szövetségeként történő elismeréséről dönt,
 
-e) a Nemzetközi Olimpiai Bizottság szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a nemzetközi sportszövetség sportágának hivatalos nemzetközi szövetségeként történő elismeréséről dönt,
+e) a b) pont szerinti ernyőszervezet szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség tagként történő elismeréséről dönt, vagy
 
-f) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség tagként történő elismeréséről dönt,
-
-g) a GAISF szándéknyilatkozatával rendelkezik arról, hogy a szándéknyilatkozat kiadását követő 180 napon belül a sportszövetség megfigyelői státuszáról dönt, vagy
-
-h) az e)–g) pont szerinti sportszövetség kontinentális sportszövetsége.
+f) a d) és e) pont szerinti sportszövetség kontinentális sportszövetsége.
 
 (1a) A nemzetközi sportszövetség jogi személy. A nemzetközi sportszövetség a Civil tv. szerinti nyilvántartásba vétel nélkül közhasznú szervezetnek minősül.
 
@@ -26,7 +22,7 @@ a) biztosítja szabályzatok kiadásával a sportág nemzetközi szintű megfele
 
 b) kialakítja és szervezi a sportág szabályaival összhangban a sportág nemzetközi versenyeit, meghatározza a sportág nemzetközi versenynaptárát,
 
-c) szervezi a sportág részvételét a nemzetközi sportkapcsolatokban, ideértve a megfelelő kapcsolat kialakítását és fenntartását a Nemzetközi Olimpiai Bizottsággal, a GAISF-fal, más nemzetközi sportszövetségekkel, egyéb nemzetközi szervezetekkel,
+c) szervezi a sportág részvételét a nemzetközi sportkapcsolatokban, ideértve a megfelelő kapcsolat kialakítását és fenntartását a Nemzetközi Olimpiai Bizottsággal, a 30/A. § (1) bekezdés b) pontja szerinti szervezettel, más nemzetközi sportszövetségekkel, egyéb nemzetközi szervezetekkel,
 
 d) elősegíti a sportágához tartozó sportolók részvételét a nemzetközi sporteseményeken,
 

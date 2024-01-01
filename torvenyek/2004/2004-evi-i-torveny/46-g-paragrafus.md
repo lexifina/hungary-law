@@ -6,7 +6,7 @@
 
 (3) Az NVESZ feladatai a nem olimpiai sportágak szervezett versenysportjának területén elsősorban:
 
-a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a Nemzetközi Sportszövetségek Szövetségének (GAISF) Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
+a) szervezi a Világjátékok Nemzetközi Szövetsége (IWGA) Világjátékain és a 30/A. § (1) bekezdés b) pontja szerinti szervezet Világjátékain való magyar részvételt és az arra való felkészülés szakmai feladatait,
 
 b) részt vesz a nem kormányzati nemzetközi sportszervezetek, különösen az Európai Nem Kormányzati Sportszervezetek Szövetségének (ENGSO) tevékenységében, amely feladatkört nem kizárólag a nem olimpiai sportágakkal összefüggésben gyakorolja,
 

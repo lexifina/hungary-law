@@ -4,7 +4,7 @@ a) nincs lejárt köztartozása,
 
 b) a jogszabályi előírásoknak megfelelően gazdálkodik, és
 
-c) a korábban kapott támogatással megfelelő módon elszámolt.
+c)
 
 (2) Nem kaphat állami sportcélú támogatást:
 

@@ -4,7 +4,7 @@
 
 ## A szervezés feltételei
 
-65. § (1) Magyarország nemzeti ünnepein versenyrendszerben (bajnokságban) szervezett verseny, mérkőzés kizárólag a nemzeti válogatott részvételével megrendezésre kerülő vagy a sportág nemzetközi szövetségének versenynaptárában egyébként szereplő sportrendezvényként szervezhető.
+65. § (1) Magyarország nemzeti ünnepein versenyrendszerben (bajnokságban) szervezett verseny, mérkőzés kizárólag a nemzeti válogatott részvételével megrendezésre kerülő vagy a sportág nemzetközi vagy európai szövetségének versenynaptárában egyébként szereplő sportrendezvényként szervezhető.
 
 (2) Külön jogszabályban meghatározott sportrendezvény szervezője csak sportszervezet, szakszövetség vagy sportági szövetség lehet.
 
@@ -21,3 +21,5 @@ a) küzdősportnak minősül az a sporttevékenység, valamint
 b) kontakt harcművészeti ágnak minősül az a harcművészeti ág,
 
 amelyben a testnek test elleni, vagy a testnek a sporttevékenység során használt tárgy elleni, fizikai erőkifejtéssel járó tevékenysége a sportág szabályai szerint a győzelem elérésének eszköze, és amelynek közvetlen célja a másik személy fizikai legyőzése.
+
+(7) A Magyarországon rendezett sporteseményen a magyar himnusz zenei formában történő lejátszása Kölcsey Ferenc Himnusz című költeményének Erkel Ferenc által megzenésített – a sportpolitikáért felelős miniszter által vezetett minisztérium honlapján közzétett – formájában történhet.

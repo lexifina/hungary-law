@@ -56,7 +56,7 @@ e) a külföldi sportszervezet hasonló tartalmú döntésének adatait.
 
 a) a közrend és a közbiztonság védelme, az erőszak és a rendzavarás megelőzése, a nemzetközi rendőrségi együttműködési kötelezettségek teljesítése, továbbá mások jogainak védelme céljából a külföldi rendőri szerv részére a (2)–(4) bekezdésben foglalt,
 
-b) a rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, az utazó sportszervezetnek, valamint a jegyértékesítést a szervező megbízásából végző személynek a (2a) bekezdés a), d) és e) pontjában, a (3) bekezdés a), d) és e) pontjában, valamint a (4) bekezdés a), d) és e) pontjában meghatározott
+b) rendezvények biztonságának védelme, valamint a sportrendezvény látogatásának, továbbá a jegyértékesítés megtagadásának céljából a sportrendezvény szervezőjének, rendező alkalmazása esetén a rendezőnek, az utazó sportszervezetnek, valamint a jegyértékesítést a szervező vagy az utazó sportszervezet megbízásából végző személynek a (2a) bekezdés a), d) és e) pontjában, a (3) bekezdés a), d) és e) pontjában, valamint a (4) bekezdés a), d) és e) pontjában meghatározott
 
 adatokat továbbítja.
 

@@ -1,1 +1,1 @@
-78/L. § A 4. § (3) bekezdése az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.
+78/L. § A 4. § (3) bekezdése, 21. § (2) bekezdése, 38. § (1a) bekezdése, 46/A. § (1) bekezdése, 46/G. § (1) bekezdése és 46/M. § (1) bekezdése az Alaptörvény I) cikk (4) bekezdése alapján sarkalatosnak minősül.

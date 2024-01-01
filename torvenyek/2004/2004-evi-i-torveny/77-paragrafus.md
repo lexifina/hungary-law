@@ -8,7 +8,7 @@
 
 a) olimpiai esemény: a NOB, az Európai Olimpiai Bizottságok, valamint a Nemzeti Olimpiai Bizottságok Szövetsége hatáskörébe tartozó nemzetközi sportesemény, így különösen a nyári és téli olimpiai játékok, a nyári és téli ifjúsági olimpiai játékok, a nyári és téli európai ifjúsági olimpiai fesztiválok, az Európa Játékok, valamint a Strand Világjátékok,
 
-b) edző: a külön jogszabályban meghatározott szakképesítéssel rendelkező természetes személy, aki a sportolónak a sporttevékenységre való felkészítését végzi,
+b) edző: olyan, a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló kormányrendeletben meghatározott szakképesítéssel rendelkező természetes személy, aki valamely sportoló vagy csapat edzésmunkáját megtervezi, irányítja, ellenőrzi és egyúttal pedagógiai, pszichológiai eszközökkel fejleszti a sportoló személyiségét és szinten tartja vagy fokozza sportteljesítményét,
 
 c) csapatsportág: azoknak a sportágaknak az összessége, amelyekben sporttevékenységet folytatni a játék jellegéből és a versenyrendszer szabályaiból adódóan kizárólag úgy lehet, hogy legalább három természetes személy alkot egy résztvevőt, és a sportágnak nincs egyéni változata,
 
@@ -38,7 +38,7 @@ mb) egyesületi jellegű sportiskola: az a korcsoportos sportági képzést bizt
 
 n) sportrendezvény helyszíne: az a nyilvános hely vagy a közterület meghatározott része, ahol a sportrendezvényt megtartják és ahol néző tartózkodhat,
 
-o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt, valamint a sportrendezvényt megelőzően vagy követően másfél órával tartózkodik. A néző (szurkoló) résztvevőnek minősül,
+o) sportrendezvény résztvevője: az a természetes személy, aki a sportrendezvény helyszínén annak időtartama alatt tartózkodik. A néző (szurkoló) résztvevőnek minősül,
 
 p) sportszakember: az a természetes személy, aki a KSH elnökének a Foglalkozások Egységes Osztályozási Rendszeréről (FEOR) szóló 7/2010. (IV. 23.) KSH közleménye szerinti sport-foglalkozást folytat, vagy a sportszervezettel, sportszövetséggel munkaviszonyban vagy polgári jogi jogviszonyban sporttevékenységgel kapcsolatban közvetlenül vagy közvetetten feladatot lát el, sportszakembernek minősül továbbá a sportszervezet és a sportszövetség ügyintéző és képviseleti szervének vezetője. Sportszakember különösen a versenyző felkészítését végző vagy azzal kapcsolatba hozható edző, a csapatvezető, a mérkőzésvezető, a versenybíró, a sportegészségügyi szakember (pl. sportorvos, sportpszichológus, gyúró, masszőr) és a játékosügynök. A sportszövetség szabályzatában határozza meg, hogy az adott sportágban kik minősülnek további sportszakembernek,
 
@@ -50,7 +50,7 @@ s) sportlétesítmény: sportrendezvény megrendezésének helyszínéül szolg�
 
 t) utánpótlás-nevelés fejlesztését végző alapítvány: alapító okiratában meghatározott tartós közérdekű cél szerinti tevékenysége – elsősorban utánpótláskorú versenyzőkkel kapcsolatos – sporttevékenység elősegítése, feltételeinek biztosítása, felkészítő (edzéssel összefüggő) és versenyeztetési feladatok szervezése.
 
-u) sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott verseny, mérkőzés. A sportesemény sportrendezvénynek minősül,
+u) sportrendezvény: versenyrendszerben vagy azon kívül, sporttevékenység végzése céljából tartott sportesemény, verseny, mérkőzés és az azt közvetlenül megelőző másfél óra, valamint az azt közvetlenül követő másfél óra,
 
 v) olimpiai pályázat: a 2024. évi XXXIII. Nyári Olimpiai és XVII. Paralimpiai Játékok budapesti rendezésére vonatkozó pályázat,
 

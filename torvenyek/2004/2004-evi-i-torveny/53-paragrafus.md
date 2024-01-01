@@ -2,6 +2,6 @@
 
 a) az országos jelleggel működő diák- és hallgatói sportszövetségeken keresztül támogatja a diák- és hallgatói sport területén megvalósuló szervezett sporttevékenységet,
 
-b) támogatja a sportolói kettős karrier programok, különösen a Magyar Sportcsillagok Ösztöndíj bevezetését, működését,
+b) támogatja a sportolói kettős karrier programok bevezetését, működését,
 
-c) működteti a Magyar Sportcsillagok Ösztöndíj programot.
+c) működteti az állami sportösztöndíj programot.

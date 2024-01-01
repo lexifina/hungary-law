@@ -11,3 +11,5 @@ a) a – 4. §-ban foglaltakra is figyelemmel – doppingvétséget vagy büntet
 b) a verseny, mérkőzés eredményének tiltott eszközökkel, módszerekkel történő befolyásolásától, a fogadási csalástól,
 
 c) a verseny, mérkőzés biztonságos megrendezését veszélyeztető, a nézők viselkedését a sportrendezvény rendjének fenntartása szempontjából hátrányosan befolyásoló viselkedéstől.
+
+(4) A sportszakember munkavégzésére a 8. § (2) bekezdés d) pontját alkalmazni kell.

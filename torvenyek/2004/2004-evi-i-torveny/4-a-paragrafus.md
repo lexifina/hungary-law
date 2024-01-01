@@ -38,7 +38,7 @@ i) nemzeti válogatott kerettagságára vonatkozó adatot.
 
 8. sportszervezet, sportág, illetve szakág megjelölése,
 
-9. a doppingellenőrzést megelőző 10 napon belül a sportoló által szedett olyan szerek (így különösen gyógyszerek, táplálékkiegészítők, alkohol) megjelölése és mennyisége, amely a doppingvizsgálat eredményét befolyásolhatja,
+9. a sportoló által szedett olyan szerek – így különösen gyógyszerek, táplálékkiegészítők, alkohol – megjelölése és mennyisége, amely a doppingvizsgálat eredményét befolyásolhatja, továbbá a véradás és vértranszfúzió ténye,
 
 10. versenyengedély, rajtengedély száma, a sportolói jogállás megjelölése,
 
@@ -50,7 +50,7 @@ i) nemzeti válogatott kerettagságára vonatkozó adatot.
 
 14. sportolótól származó biológiai anyag (vizelet-, vér-, haj-, nyálminta vagy a sportoló egyéni genetikai profilját adó más biológiai anyag),
 
-15. a minta analízisének eredménye,
+15. a minta analízisének eredménye, ideértve a sportoló biológiai útlevélparamétereit is,
 
 16. a doppingvizsgálat eredményeként kimutatott, a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistában szereplő tiltott szer, módszer,
 
@@ -74,7 +74,7 @@ d) a doppingeljárásban részt vevő személy családi és utónevét, lakóhel
 
 (7) A doppingtilalom betartásának ellenőrzése, a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti vizsgálat lefolytatása és a tiltólistában szereplő tiltott szer vagy módszer kimutatása, a doppingellenőrzés részét képező eljárások lefolytatása, a doppingeljárásban kiszabott büntetések nyilvántartása érdekében a nemzeti doppingellenes szervezet a (2) bekezdés szerinti adatok mellett kezeli a versenyző azon egészségügyi adatait is, amelyek alapján dönt a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistán szereplő tiltott szer vagy módszer versenyző által történő, gyógyászati célú alkalmazásának engedélyezéséről.
 
-(8) A nemzeti doppingellenes szervezet a (7) bekezdés szerinti adatokat az engedélyezésről való döntés időtartama alatt, engedélyezés esetén az engedély kiadásától számított tíz évig kezeli.
+(8) A nemzeti doppingellenes szervezet a (7) bekezdés szerinti adatokat az engedélyezésről való döntés időtartama alatt, engedélyezés esetén az engedély érvényességi idejének lejártától, elutasítás esetén az elutasító határozat hatálybalépésétől számított tíz évig kezeli.
 
 (9) A sportszövetség, a sportköztestület és a sportpolitikáért felelős miniszter az e törvényben és a doppingellenes tevékenység szabályairól szóló kormányrendeletben foglalt doppingellenes feladatai ellátása érdekében, az ahhoz szükséges mértékben a (2) bekezdés szerinti adatokat, előzetes felülvizsgálati eljárásban, illetve doppingeljárásban való részvétele során a (3) és (4) bekezdés szerinti adatokat megismerheti. A sportszövetség, a sportköztestület és a sportpolitikáért felelős miniszter doppingeljárásban való részvétele során megismerheti a versenyző számára kiadott, (7) bekezdés szerinti engedély tartalmát, ha az a doppingeljárás során értékelésre kerül.
 

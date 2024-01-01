@@ -190,11 +190,11 @@ Magyar Testgyakorlók Köre
 
 |
 
-13
+13.
 
 |
 
-Budapest, belterület 38821/4
+Budapest, belterület 38821/8 hrsz
 
 |
 
@@ -268,17 +268,7 @@ Vasas Sport Club
 
 |
 
-Budapest, belterület 26085/1123
-
-(91788/125049 tulajdoni hányad arányában)
-
 |
-
-Vasas Futball Club Kft.
-
-(székhely: Budapest 1139, Fáy utca 58.,
-
-Cg. 01-09-717962)
 
 |
 
@@ -511,3 +501,63 @@ Győr, belterület 5761/7/C
 |
 
 ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.)
+
+|
+
+36.
+
+|
+
+Veszprém, külterület 0213/85/A hrsz
+
+|
+
+Veszprémi Építők Sportegyesület
+
+(székhely: 8200 Veszprém, Külső-kádártai út 5.)
+
+|
+
+37.
+
+|
+
+Veszprém, külterület 0213/85 hrsz
+
+|
+
+Veszprémi Építők Sportegyesület
+
+(székhely: 8200 Veszprém, Külső-kádártai út 5.)
+
+|
+
+38.
+
+|
+
+Budapest, belterület 25992/1 hrsz
+
+(10940/1683450 tulajdoni hányad arányában)
+
+|
+
+Magyar Testgyakorlók Köre
+
+(székhely: Budapest 1087, Salgótarjáni út 12–14.)
+
+|
+
+39.
+
+|
+
+Budapest belterület 23800/6 hrsz
+
+(10245/100786 tulajdoni hányad arányában)
+
+|
+
+Budapesti Honvéd Sportegyesület
+
+(székhely: Budapest 1134, Dózsa György út 53.)

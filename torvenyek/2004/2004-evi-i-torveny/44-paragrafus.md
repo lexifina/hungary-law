@@ -10,4 +10,4 @@
 
 (6) A MOB elnökségének tagjai és azok Polgári Törvénykönyv szerinti hozzátartozói nem lehetnek a felügyelőbizottság tagjai. Az alapszabály az összeférhetetlenség további eseteit is megállapíthatja, valamint rendelkezik az összeférhetetlenségi ok felmerülése esetén követendő eljárásról.
 
-(7) A MOB gazdálkodását a felügyelőbizottság mellett az elnökség által megbízott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
+(7) A MOB gazdálkodását a felügyelőbizottság mellett a közgyűlés által választott könyvvizsgáló is ellenőrzi. A könyvvizsgáló írásbeli jelentése hiányában a közgyűlés a 43. § (2) bekezdés c) és d) pontjai szerinti beszámolókról és költségvetésről nem dönthet.
