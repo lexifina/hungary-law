@@ -20,7 +20,7 @@ i) a bevallásra kötelezett által végzett, élelmiszerlánc-felügyelet alá 
 
 (2) Az (1) bekezdés szerinti bevallási kötelezettség elektronikus úton ügyfélkapu használatával teljesíthető a NÉBIH honlapján közzétett elektronikus bevallási nyilatkozat formanyomtatvány kitöltésével.
 
-(3) A bevallásra kötelezett a képviseletének ellátására állandó meghatalmazást vagy megbízást adhat írásban ügyfélkapus regisztrációval rendelkező természetes személy számára. A képviseletet a NÉBIH-hez be kell jelenteni, a NÉBIH honlapján közzétett elektronikus formanyomtatvány kitöltésével. A meghatalmazás vagy megbízás eredeti vagy hiteles másolati példányát postai úton is meg kell küldeni a NÉBIH számára.
+(3)[^3] A bevallásra kötelezett a képviseletének ellátására állandó meghatalmazást vagy megbízást adhat írásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti elektronikus azonosítással rendelkező természetes személy számára. Amennyiben a meghatalmazást nem a rendelkezési nyilvántartásban rögzítették, úgy a képviseletet a NÉBIH-hez be kell jelenteni, a NÉBIH honlapján közzétett elektronikus formanyomtatvány kitöltésével. E-ügyintézési tv. szerinti elektronikus azonosítással nem rendelkező vagy elektronikusan eljárni nem kívánó meghatalmazó esetén a meghatalmazás vagy megbízás eredeti vagy hiteles másolati példányát postai úton kell megküldeni a NÉBIH számára.
 
 (4) Amennyiben olyan természetes személy nyújt be bevallási nyilatkozatot, akinek képviseleti jogosultsága a (3) bekezdés szerint nem igazolt, a NÉBIH hiánypótlás keretében a képviseleti jogosultság igazolására szólítja fel a benyújtót.
 
@@ -45,3 +45,5 @@ f) a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő
 (8) Amennyiben a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában lévő vállalkozás az Éltv. 47/B. § (4) bekezdésében foglaltak szerint a felügyeleti díj fizetési kötelezettséget tagjától átvállalja, a bevallási nyilatkozat benyújtásával egyidejűleg köteles a felügyeleti díj fizetési kötelezettség átvállalására vonatkozó szerződés eredeti vagy hiteles másolati példányát a NÉBIH részére megküldeni.
 
 (9) Az Éltv. 47/B. § (4) bekezdése szerinti átvállalás esetén, a termelői szerveződés vagy a termelői szerveződés és annak tagjai kizárólagos tulajdonában álló vállalkozás és annak tagja közötti értékesítésből származó árbevétel nem része az Éltv. 47/B. § (3) bekezdése szerinti értékesítés nettó árbevételének.
+
+[^3]: A 3. § (3) bekezdése a 173/2023. (XII. 27.) AM rendelet 1. §-ával megállapított szöveg.
