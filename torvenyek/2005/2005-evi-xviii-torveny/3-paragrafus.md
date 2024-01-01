@@ -59,3 +59,7 @@ v) üzletszabályzat: a távhőszolgáltató által készített azon dokumentum,
 w) külön kezelt intézmény: egyéb felhasználók közül a központi költségvetési szerv, a központi költségvetési szerv költségvetési intézménye, a helyi önkormányzat, a helyi önkormányzat költségvetési intézménye, valamint a normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.
 
 x) felhasználói panasz: olyan felhasználói beadvány, amelyben a felhasználó a távhőszolgáltató intézkedése ellen vagy a távhőszolgáltató várt intézkedésének elmaradása miatt emel kifogást.
+
+y) tényleges tulajdonos: a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 3. § 38. pontjában meghatározott személy;
+
+z) fűtés egyedi szabályozhatósága: a felhasználási hely fűtése egyedileg szabályozható, ha – a közös használatú épületrészek kivételével – az egyes épületrészek hőleadó készülékei egyedileg rendelkeznek a hőleadásuk – más épületrészek hőleadó készülékei hőleadásának akadályozása nélküli – befolyásolására szolgáló szerelvénnyel.

@@ -12,4 +12,6 @@
 
 (5a) A felhasznált – fűtési célú és a használati melegvíz-készítés céljára használt – távhő mennyiségének épületrészenként történő mérése az e törvény végrehajtására kiadott rendeletben meghatározott esetekben kötelező.
 
+(5b) A távhőszolgáltatással ellátott lakóépületek és vegyes célra használt épületek esetén – a közös használatban lévő épületrészek kivételével – kötelező a fűtési költségmegosztó felszerelése az egyes hőleadó készülékekre, ha az műszakilag megvalósítható és a lehetséges energiamegtakarítással való arányosság tekintetében költséghatékony.
+
 (6) A szolgáltatás helyét, mértékét és tartamát, a távhőszolgáltatás díja épületrészenkénti (pl. lakásonkénti) megosztásának és kiegyenlítésének módját a felhasználó és a szolgáltató megállapodása tartalmazza. Abban az esetben, ha a távhővel ellátott épületnek, épületrészeknek több tulajdonosa van, a tulajdonosok nevében a közszolgáltatási szerződést érintő kérdésekben feljogosított képviselőjük jár el.

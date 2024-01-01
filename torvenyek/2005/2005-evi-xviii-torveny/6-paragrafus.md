@@ -2,7 +2,7 @@
 
 6. § (1) A területileg illetékes települési önkormányzat, a fővárosban a fővárosi önkormányzat (a továbbiakban együtt: önkormányzat) az engedélyes vagy engedélyesek útján köteles biztosítani a távhőszolgáltatással ellátott létesítmények távhőellátását.
 
-(2) Az önkormányzat képviselő-testülete:
+(2) az önkormányzat képviselő-testülete, a fővárosban a fővárosi közgyűlés:
 
 a) rendeletben határozza meg a távhőszolgáltató és a felhasználó közötti jogviszony részletes szabályait, valamint a hőmennyiségmérés helyét, ideértve a mérés technológiai helyét is;
 
@@ -21,6 +21,8 @@ g) rendeletben határozza meg az e törvény 43. § (3) bekezdésében foglaltak
 h) rendeletben előírhatja, hogy a 38. § (2) és (4) bekezdésben meghatározott esetben az épület tulajdonosa vagy a tulajdonosi közösség, a 38. § (5) bekezdésben meghatározott esetben az épületrész tulajdonosa a közszolgáltatási szerződés megszűnését követő ötödik naptári év utolsó napjáig a más hőellátás igénybevétele és a távhőszolgáltatás igénybevétele közötti, pozitív előjelű széndioxidkibocsátás-különbözet után díjat fizessen;
 
 i) rendeletben határozza meg a h) pont szerinti díj mértékét, esedékességét, a különbözet számításának, valamint a díj kivetéséhez szükséges adatszolgáltatásnak a részletes szabályait.
+
+j) rendeletben állapítja meg – az e törvény végrehajtására kiadott rendeletben meghatározott általános előírások figyelembevételével – a fűtési költségmegosztó felszerelésének műszaki megvalósíthatósági és költséghatékonysági egyedi szempontjait, ütemezését és egyéb feltételeit.
 
 (3) A (2) bekezdés h) pontja szerinti díj alapja a helyi önkormányzat rendeletében meghatározottak szerint számított és hiteles adatokkal alátámasztott naptári éves széndioxid-kibocsátási különbözet természetes mértékegységben (kilogrammban) kifejezett tömege. A díj mértékét az önkormányzat képviselő-testülete rendeletben állapítja meg, amely azonban nem lehet magasabb kilogrammonként 15 forintnál.
 

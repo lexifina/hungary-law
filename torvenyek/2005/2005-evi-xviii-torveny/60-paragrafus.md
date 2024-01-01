@@ -2,7 +2,7 @@
 
 a) a Hivatal által végzett ellenőrzésekre vonatkozó részletszabályokat, valamint a Hivatal által kiszabható bírság mértékét;
 
-b) a távhőtermelő és a távhőszolgáltató létesítési és működési engedélyének tartalmi követelményeit, az engedélyezési eljárás további részletes szabályait és az engedély kiadásának feltételeit (12–13. §);
+b) a távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély iránti kérelem, a távhőtermelő létesítmény, a távhőtermelői tevékenység és a távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedély iránti kérelem, valamint a távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély módosítása és visszavonása iránti kérelem tartalmi követelményeit, a távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély, valamint a távhőtermelő létesítmény, a távhőtermelői tevékenység és a távhőszolgáltatói tevékenység megszüntetésére vonatkozó engedély egyes tartalmi követelményeit, az engedélyezési eljárás további részletes szabályait és az engedély kiadásának feltételeit;
 
 c) az idegen ingatlanra vonatkozó jogokkal kapcsolatos eljárási szabályokat (21–32. §);
 
@@ -31,6 +31,8 @@ n) a folyamatos távhőellátás fenntartása érdekében történő kijelölés
 o) a közszolgáltatási szerződés felmondása alóli mentesítésre jogosult közintézményi felhasználók körét, a mentesítés feltételeit, a moratórium részletes szabályait, valamint a moratóriummal érintett felek jogait és kötelezettségeit;
 
 p) a cégjogi események és befolyásszerzés engedélyezésének részletes szabályait és a benyújtandó kérelem formai és tartalmi követelményeit.
+
+q) a központi fűtés és melegvíz-szolgáltatás feltételeire, a felek jogaira és kötelezettségeire, a szolgáltatás díjának, továbbá a fűtési célra és a használati melegvíz készítéséhez felhasznált hőmennyiség és díjának épületrészek közötti megosztására szolgáló szétosztási arányok meghatározására, valamint a hőmennyiségmérők és a költségmegosztók alkalmazására vonatkozó részletes szabályokat.
 
 (2) Az miniszter rendeletben
 

@@ -1,0 +1,1 @@
+59/C. § Az e törvénynek az egyes energetikai tárgyú és kapcsolódó törvények módosításáról szóló 2023. évi XCIX. törvénnyel megállapított 43. § (5b) bekezdése szerinti kötelezettséget 2027. január 1-jéig kell teljesíteni.
