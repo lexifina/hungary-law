@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1138-30
 | --- | --- | --- |
 | 2020-04-08 | 2020-1138-30-22.1 | 1138/2020. (IV. 8.) Korm. határozat |
 | 2021-12-22 | 2020-1138-30-22.2 | 1953/2021. (XII. 22.) Korm. határozat |
+| 2024-01-01 | 2020-1138-30-22.3 | 2011: CXCV. törvény |
