@@ -1,0 +1,3 @@
+1. § A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazási szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet és a villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak meghatározásának a 2021. április 1. napjával induló árszabályozási ciklusra vonatkozó keretszabályairól szóló 12/2020. (XII. 14.) MEKH rendelet módosításáról szóló 13/2022. (XI. 18.) MEKH rendelet (a továbbiakban: Rendelet) 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az 1. §, a 2. § (2) bekezdése, a 4–11. §, valamint a 14. és 15. § 2025. január 1-jén lép hatályba.”
