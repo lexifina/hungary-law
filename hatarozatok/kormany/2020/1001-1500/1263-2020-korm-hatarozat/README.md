@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1263-30
 | --- | --- | --- |
 | 2020-05-28 | 2020-1263-30-22.1 | 1263/2020. (V. 28.) Korm. határozat |
 | 2020-10-15 | 2020-1263-30-22.2 | 1664/2020. (X. 15.) Korm. határozat |
+| 2024-01-01 | 2020-1263-30-22.3 | 2011: CXCV. törvény |
