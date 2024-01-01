@@ -26,7 +26,7 @@ ba) folyamatos üzemű mérőműszerrel történő mérés esetén legalább há
 
 bb) szakaszos mérése esetén legalább háromszor egy óra
 
-## legyen.
+legyen.
 
 (5) A (4) bekezdés szerinti értékelhető időtartam alatt azt az üzemállapotot kell érteni, amely nem tartalmazza az indítási, a leállítási műveleteket és a karbantartásokat.
 

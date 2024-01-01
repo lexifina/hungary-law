@@ -1,6 +1,6 @@
-1. melléklet a 26/2014. (III. 25.) VM rendelethez[^17]
+1. melléklet a 26/2014. (III. 25.) VM rendelethez[^13]
 
-## E rendelet hatálya alá tartozó tevékenységek
+E rendelet hatálya alá tartozó tevékenységek
 
 1. A mellékletben felsorolt tevékenységi kategóriák akkor esnek a rendelet hatálya alá, ha a 2. mellékletben megállapított küszöbérték feletti oldószer-felhasználás jellemzi a tevékenységet, illetve az ahhoz tartozó létesítmény működését. A tevékenység minden egyes esetben magában foglalja a berendezés tisztítását is, de a termékek tisztítását nem, hacsak az másképpen nem szerepel a tevékenység leírásánál.
 
@@ -118,4 +118,4 @@ Minden olyan tevékenység, amely során magokból és más növényi anyagokbó
 
 Gyógyszerészeti termékek kémiai szintézise, fermentálása, extrahálása, formulálása és késztermékké alakítása, és ha ugyanazon a telephelyen végzik, a közbenső (intermedier) termékek gyártása.
 
-[^17]: Az 1. melléklet a 19/2017. (IV. 24.) FM rendelet 5. § a) pontja szerint módosított szöveg.
+[^13]: Az 1. melléklet a 19/2017. (IV. 24.) FM rendelet 5. § a) pontja szerint módosított szöveg.

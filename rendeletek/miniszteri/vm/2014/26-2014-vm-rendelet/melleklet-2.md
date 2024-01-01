@@ -1,6 +1,6 @@
 2. melléklet a 26/2014. (III. 25.) VM rendelethez
 
-## Besorolási küszöbértékek, kibocsátási határértékek
+Besorolási küszöbértékek, kibocsátási határértékek
 
 Oldószer-felhasználási küszöbértékek, kibocsátási határértékek
 
@@ -34,9 +34,9 @@ Oldószer-felhasználási küszöbértékek, kibocsátási határértékek
 
 | 6. | Járműszériafestés (<15) és jármű- utánfényezés | >0,5 | 50 | 25 | 25 |  |  |  |
 
-| 7. | Szalagtekercsek bevonatolása (>25) |  | 501 | 5 | 10 |  |  | 1 Azoknál a létesítményeknél, amelyeknél olyan technológiát alkalmaznak, amely során megengedett a visszanyert oldószerek újbóli használata, a véggáz kibocsátási határérték 150 mg C/Nm3 |
+| 7. | Szalagtekercsek bevonatolása (>25) |  | 501 | 5 | 10 |  |  | 1 Azoknál a létesítményeknél, amelyeknél olyan technológiát alkalmaznak,amely során megengedett a visszanyert oldószerek újbóli használata, a véggáz kibocsátási határérték 150 mg C/Nm3 |
 
-| 8. | Egyéb bevonat felviteli, festési eljárások, beleértve a fém, műanyag, textil4, szövet, fólia és papír festését (>5) | 5–15 | 100 1 | 20 | 20 |  |  | 1 A kibocsátási határérték a festésre és a szárítási folyamatra vonatkozik, zárt körülmények mellett. 2 Az első kibocsátási határérték a szárítási folyamatokra vonatkozik, a második a festési műveletekre. 3 Azon textilfestő létesítményekre vonatkozik, amelyeknél olyan eljárást alkalmaznak, amely során megengedett a visszanyert oldószerek ismételt használata, a kibocsátási határérték a festési és szárítási folyamatokra együttesen 150 mg C/Nm3. 4 A rotációs szitanyomtatás textilekre a 3. ponthoz tartozik. |
+| 8. | Egyéb bevonat felviteli, festési eljárások, beleértve a fém, műanyag, textil4, szövet, fólia és papír festését (>5) | 5–15 | 1001 | 20 | 20 |  |  | 1 A kibocsátási határérték a festésre és a szárítási folyamatra vonatkozik,zárt körülmények mellett. 2 Az első kibocsátási határérték a szárítási folyamatokra vonatkozik, a második a festési műveletekre. 3 Azon textilfestő létesítményekre vonatkozik, amelyeknél olyan eljárást alkalmaznak, amely során megengedett a visszanyert oldószerek ismételt használata, a kibocsátási határérték a festési és szárítási folyamatokra együttesen 150 mg C/Nm3. 4 A rotációs szitanyomtatás textilekre a 3. ponthoz tartozik. |
 
 | >15 | 50/75 2, 3 | 20 | 20 |  |  |
 

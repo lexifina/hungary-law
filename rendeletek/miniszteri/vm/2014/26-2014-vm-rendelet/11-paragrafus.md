@@ -6,7 +6,7 @@ a) kis létesítmények esetében a névleges kapacitás olyan mértékben vált
 
 b) a 2. § 9. pontja alá nem tartozó létesítmények esetében a névleges kapacitás olyan mértékben változik meg, ami a teljes VOC kibocsátás több mint 10%-os
 
-## növekedéséhez vezet.
+növekedéséhez vezet.
 
 (2) Ha az I. kategóriájú létesítmény jelentős változtatáson megy keresztül, vagy jelentős változtatást követően először esik e rendelet hatálya alá, a létesítménynek azt a részét, amely jelentős változtatáson megy keresztül:
 

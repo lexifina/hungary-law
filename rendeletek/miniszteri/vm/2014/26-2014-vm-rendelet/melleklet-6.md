@@ -1,6 +1,6 @@
-6. melléklet a 26/2014. (III. 25.) VM rendelethez[^21]
+6. melléklet a 26/2014. (III. 25.) VM rendelethez[^17]
 
-## Figyelmeztető mondatok és azok jelentése
+Figyelmeztető mondatok és azok jelentése
 
 1. H340 = genetikai károsodást okozhat,
 
@@ -16,4 +16,4 @@
 
 7. H360F = károsíthatja a termékenységet.
 
-[^21]: A 6. melléklet a 18. § (2) bekezdésével megállapított szöveg.
+[^17]: A 6. melléklet a 18. § (2) bekezdésével megállapított szöveg.
