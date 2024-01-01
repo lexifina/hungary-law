@@ -10,7 +10,7 @@ A hulladékhierarchia alkalmazását ösztönző gazdasági eszközök és egyé
 
 4. Hulladékfajtára és -típusra vonatkozó kiterjesztett gyártói felelősségi rendszerek, valamint ezen rendszerek eredményességét, költséghatékonyságát és irányítását javító intézkedések;
 
-5. Betétdíjas rendszerek és egyéb, a használt termékek és anyagok hatékony gyűjtését ösztönző intézkedések;
+5. Visszaváltási díjas rendszerek és egyéb, a használt termékek és anyagok hatékony gyűjtését ösztönző intézkedések;
 
 6. A hulladékgazdálkodási infrastruktúrához igazodó, így különösen az Európai Unió pénzügyi alapjain keresztül finanszírozott beruházás tervezés;
 

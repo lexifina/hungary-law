@@ -4,11 +4,11 @@
 
 (2) Termék forgalmazását
 
-a) törvény vagy kormányrendelet betét- vagy letéti díj,
+a) törvény vagy kormányrendelet a visszaváltási vagy a letéti díj,
 
-b) törvény termékdíj megfizetéséhez
+b) törvény a termékdíj
 
-kötheti.
+megfizetéséhez kötheti.
 
 (3) Törvény vagy kormányrendelet a termék fejlesztésével, forgalmazásával, használatával vagy feldolgozásával üzletszerűen foglalkozó gazdálkodó szervezetet részben vagy egészben kötelezheti a kiterjesztett gyártói felelősségre vonatkozó kötelezettségek teljesítésére.
 

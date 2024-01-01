@@ -2,7 +2,7 @@
 
 a) az általa előállított vagy forgalomba hozott termékcsoportból származó terméket, továbbá a csomagolására felhasznált csomagolószert a forgalmazótól, a fogyasztótól visszaváltja vagy visszaveszi annak újrahasználata, továbbá
 
-b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolására felhasznált csomagolószerből származó hulladékot a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
+b) az általa előállított vagy forgalomba hozott termékből, továbbá a termék csomagolását képező csomagolószerből származó hulladékot – a 32/B. § szerinti kötelezően visszaváltási díjas termékből származó hulladék kivételével – a hulladékbirtokostól átveszi annak újrahasználatra való előkészítése, hasznosítása, valamint ártalmatlanítása
 
 érdekében.
 

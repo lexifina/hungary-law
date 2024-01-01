@@ -36,7 +36,7 @@ ec) a hulladékgazdálkodásban résztvevők kiválasztási eljárása.
 
 a) legalább a gyártó által belföldön forgalomba hozott termékek következő költségeit fedezi:
 
-aa) a hulladék elkülönített gyűjtésének, azt követő szállításának és kezelésének költsége, ideértve a hulladékgazdálkodási célértékeknek való megfeleléshez szükséges kezelés költségeit és az újrahasználatból, a másodnyersanyagok értékesítéséből a visszafizetésre nem kerülő betétdíjakból befolyó bevételek figyelembevételével,
+aa) a hulladék elkülönített gyűjtésének, azt követő szállításának és kezelésének költsége, ideértve a hulladékgazdálkodási célértékeknek való megfeleléshez szükséges kezelés költségeit és az újrahasználatból, a másodnyersanyagok értékesítéséből a visszafizetésre nem kerülő visszaváltási díjakból befolyó bevételek figyelembevételével,
 
 ab) az (1) bekezdés e) pontjában foglaltak alapján a hulladékbirtokosoknak nyújtott tájékoztatás költségeit, és
 
@@ -48,4 +48,4 @@ c) nem haladhatja meg a hulladékgazdálkodási szolgáltatások költséghaték
 
 (4) A (3) bekezdés a) pontjában meghatározott szempontokat a hulladékká vált gépjárművekről, az elektromos és elektronikus berendezésekkel kapcsolatos hulladékgazdálkodási tevékenységekről, továbbá az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló kormányrendeletek alapján létrehozott kiterjesztett gyártói felelősségi rendszerek esetében nem kell alkalmazni.
 
-(5) A (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.
+(5) A kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek kivételével a (3) bekezdés szerinti pénzügyi hozzájárulást a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendeletben meghatározott termék forgalomba hozatala esetén a termék gyártója a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezet feladatainak a koncessziós társaság általi teljesítéséért kiterjesztett gyártói felelősségi díj megfizetésével teljesíti.

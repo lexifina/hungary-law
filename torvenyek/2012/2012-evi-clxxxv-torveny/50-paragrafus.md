@@ -14,6 +14,8 @@ ac) a közterületi köztisztasági önkormányzati közfeladattal összefüggé
 
 ad) kiterjesztett gyártói felelősségi rendszer hatálya alá tartozó termékekkel és az azokból származó hulladékokkal kapcsolatos hulladékgazdálkodási intézményi résztevékenység, továbbá a kiterjesztett gyártói felelősségi kötelezettséget a gyártó nevében teljesítő szervezeti feladatainak ellátása,
 
+ae) a kötelező visszaváltási díjas rendszerbe tartozó termékeknek és e termékekből származó hulladékokkal kapcsolatos hulladékgazdálkodási intézményi résztevékenység, továbbá a kötelező visszaváltási díjas rendszer működtetése érdekében végzett tevékenysége,
+
 b) a B3 alkategóriájú hulladéklerakó, valamint a 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője esetében az állami hulladékgazdálkodási közfeladat ellátásához kapcsolódó tevékenysége
 
 szerinti felosztást tartalmazza.

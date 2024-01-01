@@ -170,6 +170,8 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 49. veszélyes-hulladékégető mű: olyan hulladékkezelő létesítmény, amelyben a hulladékégetés műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló miniszteri rendeletben meghatározott feltételek szerint veszélyes hulladékot égetnek;
 
+49a. visszaváltási díj: kormányrendeletben meghatározott termékek visszafogadásának, ezáltal újrahasználatának vagy az azokból képződött hulladékok gyűjtésének ösztönzése érdekében a termék forgalomba hozatala során felszámított díj, amely a termék vagy hulladéka visszaváltásakor visszafizetésre kerül a visszaváltó részére;
+
 49b. visszaváltó berendezés: a visszaváltási díjat és a visszaváltási díjas termék visszaváltását biztosító eszköz és berendezés;
 
 50. zöldhulladék: kertben, vagy kertészeti tevékenység során képződő növényi eredetű hulladék.

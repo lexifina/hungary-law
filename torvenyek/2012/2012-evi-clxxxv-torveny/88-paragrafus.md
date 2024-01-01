@@ -20,7 +20,7 @@
 
 8. a hulladék külföldről történő behozatalát, az országból történő kivitelét és az ország területén történő átszállítását;
 
-9. a letéti díj, valamint az újrahasználható és a nem újrahasználható termékek betétdíja megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal, illetve a betétdíjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
+9. a letéti díj, valamint a visszaváltási díj megállapításának és alkalmazásának részletes szabályait, továbbá a letéti díjjal és a visszaváltási díjjal kapcsolatban a fogyasztók tájékoztatására vonatkozó követelményeket;
 
 10. a visszavételi és visszaadási lehetőség alkalmazását, a használt termékek, illetve a hulladék átvételi, gyűjtési és hasznosítási arányait és azok teljesítésének határidejét;
 
