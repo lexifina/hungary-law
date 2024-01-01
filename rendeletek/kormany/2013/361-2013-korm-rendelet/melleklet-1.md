@@ -34,11 +34,11 @@ A hívásfogadó központ és a készenléti szervek által napi 24 órában fol
 
 14. Országos Atomenergia Hivatal,
 
-15. Országos Meteorológiai Szolgálat,
+15.[^17] HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság,
 
-16.[^17] Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
+16.[^18] Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
 
-17.[^18] közlekedésbiztonsági szerv,
+17.[^19] közlekedésbiztonsági szerv,
 
 18. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Útinform,
 
@@ -71,5 +71,6 @@ A hívásfogadó központ és a készenléti szervek által napi 24 órában fol
 [^14]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a, a 616/2022. (XII. 29.) Korm. rendelet 167. §-a szerint módosított szöveg.
 [^15]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
 [^16]: Az 1. melléklet 12. pontját a 379/2016. (XII. 2.) Korm. rendelet 247. § (2) bekezdése hatályon kívül helyezte.
-[^17]: Az 1. melléklet 16. pontja a 204/2019. (VIII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^18]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet 15. pontja az 591/2023. (XII. 20.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet 16. pontja a 204/2019. (VIII. 23.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^19]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
