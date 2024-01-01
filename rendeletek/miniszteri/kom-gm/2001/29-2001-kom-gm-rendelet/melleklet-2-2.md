@@ -44,7 +44,7 @@
 
 ## Ezeknél a méréseknél a berendezés motorját és hidraulikus rendszerét a kezelési utasítások szerint be kell melegíteni és a biztonsági követelményeket be kell tartani.
 
-## A vizsgálatot álló helyzetű berendezésen kell végezni, a munkavégző részek vagy a mozgató mechanizmus üzemelése nélkül. A vizsgálatkor a motort legalább a nettó teljesítménynek[^4] megfelelő névleges fordulatszámon kell üzemeltetni.
+## A vizsgálatot álló helyzetű berendezésen kell végezni, a munkavégző részek vagy a mozgató mechanizmus üzemelése nélkül. A vizsgálatkor a motort legalább a nettó teljesítménynek[^5] megfelelő névleges fordulatszámon kell üzemeltetni.
 
 ## Ha a berendezést generátor vagy hálózat táplálja, akkor indukciós motor esetén a gyártó által előírt tápfeszültség frekvenciája ± 1 Hz-en belül stabil legyen; kefés motor esetén a tápfeszültség a névleges feszültség ± 1% legyen. A tápfeszültséget nem leszerelhető tápkábel esetén a villásdugónál, leszerelhető kábel esetén a berendezés bemeneti kapcsain kell mérni. A generátorból nyert áram hullámformája a hálózatról nyert áraméhoz hasonló legyen.
 
@@ -88,13 +88,35 @@
 
 ## 1. táblázat
 
-## A 12 mérési pontból álló mikrofon-elrendezés koordinátái
+## A 12 mérési pontból álló mikrofonelrendezés koordinátái
 
-## A 12 mérési pontból álló mikrofon-elrendezés koordinátái
+|  | A | B | C | D |
 
-| Mérési pont sorszáma | x/r | y/r | z |
+| 1 | Mérési pont sorszáma | x/r | y/r | z |
 
-| 1 2 3 4 5 6 7 8 9 10 11 12 | 1 0,7 0 –0,7 –1 –0,7 0 0,7 0,65 –0,27 –0,65 0,27 | 0 0,7 1 0,7 0 –0,7 –1 –0,7 0,27 0,65 –0,27 –0,65 | 1,5 m 1,5 m 1,5 m 1,5 m 1,5 m 1,5 m 1,5 m 1,5 m 0,71 r 0,71 r 0,71 r 0,71 r |
+| 2 | 1 | 1 | 0 | 1,5 m |
+
+| 3 | 2 | 0,7 | 0,7 | 1,5 m |
+
+| 4 | 3 | 0 | 1 | 1,5 m |
+
+| 5 | 4 | –0,7 | 0,7 | 1,5 m |
+
+| 6 | 5 | –1 | 0 | 1,5 m |
+
+| 7 | 6 | –0,7 | –0,7 | 1,5 m |
+
+| 8 | 7 | 0 | –1 | 1,5 m |
+
+| 9 | 8 | 0,7 | –0,7 | 1,5 m |
+
+| 10 | 9 | 0,65 | 0,27 | 0,71 r |
+
+| 11 | 10 | –0,27 | 0,65 | 0,71 r |
+
+| 12 | 11 | –0,65 | –0,27 | 0,71 r |
+
+| 13 | 12 | 0,27 | –0,65 | 0,71 r |
 
 ## 6. K2A környezeti korrekció
 
@@ -104,7 +126,7 @@
 
 ## A mérési pontok elrendezése a félgömb alakú mérőfelületen, a 12 mérési pontból álló mikrofon-elrendezés alkalmazása esetén
 
-2/2. számú melléklet
+2/2. számú melléklet[^6]
 
 Adott berendezésekre vonatkozó zajvizsgálati előírások
 
@@ -236,9 +258,13 @@ Mérőfelület / mérési pontok száma / mérési távolság
 
 Félgömb / hat mérési pont, a 2.1. számú melléklet 5. pontja szerint és a következő táblázat szerint / a berendezés következő táblázatban megadott tömege szerint
 
-| A berendezés tömege, m kg-ban | A félgömb sugara, m-ben | A 2., 4., 6. és 8. jelű mérési pontokhoz tartozó ,,z'' érték, m-ben |
+|  | A | B | C |
 
-| m < 10 m ≥ 10 | 2 4 | 0,75 1,50 |
+| 1 | A berendezés tömege, m kg-ban | A félgömb sugara, m-ben | A 2., 4., 6. és 8. jelű mérési pontokhoz tartozó „z” érték, m-ben |
+
+| 2 | m<10 | 2 | 0,75 |
+
+| 3 | m≥10 | 4 | 1,50 |
 
 Működési körülmények a vizsgálat során
 
@@ -1284,7 +1310,7 @@ h6 Szerszám behatolás, ≤ 50 mm
 
 Négyszög alakú vizsgálati összeállítás esetén a legnagyobb hosszméret az adott átmérő 0,89-szerese.
 
-Az üres tér a fedőlemez és az üllő közötti rugalmas habgumival vagy más hangelnyelő anyaggal tölthető ki, amelynek sűrűsége < 220 kg/m3 .
+Az üres tér a fedőlemez és az üllő közötti rugalmas habgumival vagy más hangelnyelő anyaggal tölthető ki, amelynek sűrűsége < 220 kg/m3.
 
 41. BETON- VAGY ASZFALTVÁGÓK
 
@@ -1760,4 +1786,5 @@ Vizsgálati időtartam
 
 A vizsgálati időtartam legalább 15 másodperc legyen.
 
-[^4]: A nettó teljesítmény az ,,EK kW"-ban megadott teljesítményt jelenti, amit a forgattyústengely végénél vagy ezzel egyenértékű helyen, fékpadon állapítanak meg, és amit a közúti járművek belső égésű motorjainak EK teljesítmény-mérési módszere szerint mérnek, azzal az eltéréssel, hogy a motor hűtőventilátorának teljesítményét figyelmen kívül hagyják.
+[^5]: A nettó teljesítmény az ,,EK kW"-ban megadott teljesítményt jelenti, amit a forgattyústengely végénél vagy ezzel egyenértékű helyen, fékpadon állapítanak meg, és amit a közúti járművek belső égésű motorjainak EK teljesítmény-mérési módszere szerint mérnek, azzal az eltéréssel, hogy a motor hűtőventilátorának teljesítményét figyelmen kívül hagyják.
+[^6]: A 2. számú melléklet 2/2. számú melléklete a 42/2023. (XII. 29.) EM rendelet 1. § (2) bekezdése szerint módosított szöveg.
