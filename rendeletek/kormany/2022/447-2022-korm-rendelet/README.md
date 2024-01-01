@@ -1,9 +1,0 @@
-# 447/2022. (XI. 9.) Korm. rendelet
-
-az ukrajnai helyzetet destabilizáló orosz intézkedések miatt hozott korlátozó intézkedésekről szóló 833/2014/EU tanácsi rendelet, valamint a belarusz helyzetre és Belarusznak az Ukrajna elleni orosz agresszióban való részvételére tekintettel hozott korlátozó intézkedésekről szóló 765/2006/EK tanácsi rendelet egyes rendelkezéseinek végrehajtási szabályairól
-
-Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-447-20-22
-
-| Időállapot | NJT | Módosította |
-| --- | --- | --- |
-| 2022-11-10 | 2022-447-20-22.1 | 447/2022. (XI. 9.) Korm. rendelet |
