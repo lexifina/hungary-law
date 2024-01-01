@@ -2,7 +2,7 @@
 
 ## 2. Az Intézet feladatai
 
-4. § (1)[^2] Az Intézet kutató-, fejlesztő-, szellemi központként a kormányzat, a felsőoktatási és egyéb kutatóintézetek, valamint a vállalatok közötti együttműködés hatékonyságának javítása, továbbá egyes állami tervezési és döntés-előkészítési feladatok ellátása céljából
+4. § (1)[^3] Az Intézet kutató-, fejlesztő-, szellemi központként a kormányzat, a felsőoktatási és egyéb kutatóintézetek, valamint a vállalatok közötti együttműködés hatékonyságának javítása, továbbá egyes állami tervezési és döntés-előkészítési feladatok ellátása céljából
 
 a) hozzájárul a nemzetközi interdiszciplináris kutatásokhoz való felzárkózást elősegítő kutatások szervezéséhez és megvalósításához a társadalomtudományok, a bölcsészet, a művészetek, műszaki és természettudományok, valamint az adattudományok terén, különös tekintettel a társadalmi újítás, a fenntarthatóság, a hálózatkutatás, a technikai innováció, a közép-európai regionális kutatások szempontjából kulcsfontosságú tématerületek átfogó elemzésével,
 
@@ -50,4 +50,4 @@ j) online folyóirat- és egyéb adatbázisokat épít ki a kutatási munka tám
 
 (3) Az Intézet főigazgatója a feladatkörében meghatározott célból, feladatkörében eljárva – személyes adatnak és magántitoknak minősülő adatokat kivéve – az állami szervektől, szervezetektől adatokat, információkat, elemzéseket kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-[^2]: A 4. § (1) bekezdése a 171/2021. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdése a 171/2021. (IV. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
