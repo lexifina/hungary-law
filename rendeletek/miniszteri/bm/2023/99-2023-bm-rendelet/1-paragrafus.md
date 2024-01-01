@@ -1,0 +1,1 @@
+1. § Nem lép hatályba a Nemzetközi Bűnügyi Együttműködési Központ Bűnügyi Ellátó Igazgatóság és a Tanúvédelmi Szolgálat Készenléti Rendőrség Nemzeti Nyomozó Iroda szervezetébe történő integrációjáról szóló 5/2023. (II. 15.) BM rendelet 3. §-a és 2. melléklete.
