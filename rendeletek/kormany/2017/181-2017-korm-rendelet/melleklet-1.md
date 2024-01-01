@@ -1,4 +1,4 @@
-1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^43]
+1. melléklet a 181/2017. (VII. 5.) Korm. rendelethez[^44]
 
 Az engedély iránti kérelem tartalmi elemei
 
@@ -104,4 +104,4 @@ d) egyéb, a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (
 
 19. egyéb, jogszabályban nevesített, a közlekedési hatósági műszaki vizsgálathoz kapcsolódó eljárás.
 
-[^43]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^44]: Az 1. melléklet a 613/2023. (XII. 22.) Korm. rendelet 13. §-ával megállapított szöveg.

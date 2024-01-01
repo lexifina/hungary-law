@@ -1,3 +1,3 @@
-6. §[^18]
+6. §[^18] A közlekedési hatóság a vizsgálóállomás engedélyezése iránti kérelmet elutasítja, ha a vállalkozás vezető tisztségviselője, képviseleti joggal rendelkező egyéb személy az engedély iránti kérelem benyújtását megelőző három éven belül vezető tisztséget töltött be olyan vállalkozásban, amelynek a közlekedési hatóság visszavonta az engedélyét – a vezetői tisztségviselés időtartama alatt – a 14. § (1) bekezdés e) vagy f) pontjában foglaltak miatt.
 
-[^18]: A 6. §-t a 722/2020. (XII. 31.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte.
+[^18]: A 6. §-t a 722/2020. (XII. 31.) Korm. rendelet 48. § a) pontja hatályon kívül helyezte, újonnan a 657/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

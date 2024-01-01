@@ -1,6 +1,6 @@
 9. § (1) Az engedély jogosultja a vizsgálóállomással kapcsolatos – az engedélyben szereplő – bármely adat változását annak bekövetkezésétől számított 15 napon belül bejelenti a közlekedési hatóságnak. A közlekedési hatóság a változást átvezeti, és ennek megfelelően új engedélyt ad ki.
 
-(2)[^25] Ha olyan változás történik, amelynek következtében
+(2)[^26] Ha olyan változás történik, amelynek következtében
 
 a) a vizsgálóállomás tevékenységi körébe tartozó eljárások, járműkategóriák vagy alvizsgák bővülnek – ide nem értve az országos lefedettséget biztosító műszaki vizsgálóállomás számára a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet alapján biztosított eljárásokban való közreműködést, valamint a 7/A. § szerinti eltérési engedélyt –,
 
@@ -10,7 +10,7 @@ c) a vizsgálati soron olyan változást végez, amely a telepített eszközök 
 
 a vizsgálóállomás az engedélye módosítását köteles kérni.
 
-(3)[^26] A (2) bekezdésben meghatározott esetekben a 7. § (1) bekezdése szerinti megfelelőséget a vizsgálóállomás a 7. § (2) bekezdésében foglaltaknak megfelelően igazolja, az engedély egyéb változása, módosítása esetén a 7. § (2) bekezdés szerinti újbóli auditálás vagy akkreditálási eljárás lefolytatására nincs szükség.
+(3)[^27] A (2) bekezdésben meghatározott esetekben a 7. § (1) bekezdése szerinti megfelelőséget a vizsgálóállomás a 7. § (2) bekezdésében foglaltaknak megfelelően igazolja, az engedély egyéb változása, módosítása esetén a 7. § (2) bekezdés szerinti újbóli auditálás vagy akkreditálási eljárás lefolytatására nincs szükség.
 
-[^25]: A 9. § (2) bekezdése a 613/2023. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^26]: A 9. § (3) bekezdését a 613/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^26]: A 9. § (2) bekezdése a 613/2023. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^27]: A 9. § (3) bekezdését a 613/2023. (XII. 22.) Korm. rendelet 10. § (2) bekezdése iktatta be.
