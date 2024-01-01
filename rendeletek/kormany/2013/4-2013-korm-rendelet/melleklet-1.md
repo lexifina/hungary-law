@@ -22,10 +22,11 @@ A KINCSTÁR BESZÁMOLÁSI ÉS KÖNYVVEZETÉSI KÖRÉBE TARTOZÓ KÖZPONTI KEZEL�
 
 10. a központi költségvetésről szóló törvény 1. melléklet XXIII. fejezet 11. cím 2. és 3. alcímébe tartozó központi kezelésű előirányzatok,
 
-11. a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe, 6. cím 1. alcímébe tartozó központi kezelésű előirányzatok,
+11.[^340] a központi költségvetésről szóló törvény 1. melléklet XLIII. fejezet 1. cím 2. alcím 2. jogcímcsoport 3. jogcímébe tartozó központi kezelésű előirányzatok,
 
 12. a központi költségvetésről szóló törvény 1. melléklet L. fejezetébe tartozó központi kezelésű előirányzatok, valamint
 
 13. a központi költségvetésről szóló törvény 1. melléklet LI. fejezetébe tartozó központi kezelésű előirányzatok.
 
 [^339]: Az 1. melléklet a 95/2023. (III. 29.) Korm. rendelet 2. § a) pontjával megállapított szöveg.
+[^340]: Az 1. melléklet 11. pontja az 560/2023. (XII. 14.) Korm. rendelet 16. § 1. pontjával megállapított szöveg.

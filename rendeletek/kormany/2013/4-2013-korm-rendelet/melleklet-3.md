@@ -10,9 +10,9 @@
 
 | 4. | XV. fejezet 26. cím 5. alcím 1. jogcímcsoport 8. jogcím, 3. jogcímcsoport 2. jogcím | fővárosi és vármegyei kormányhivatalok | A jogtalanul igénybe vett ellátásokkal kapcsolatos követelések és a kötelezettségek adatai. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
-| 5. | XVI. fejezet 11. cím 4. alcím; XVII. fejezet 21. cím 5. alcím; XLII. fejezet 1–3. cím, 4. cím 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 12. és 22. jogcímcsoport; L. fejezet 7. és 9–12. cím; LI. fejezet 10. cím 1. és 3. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
+| 5.[^342] | XVI. fejezet 11. cím 4. alcím; XVII. fejezet 21. cím 5. alcím; XLII. fejezet 1–3. cím, 4. cím 2. alcím 2. jogcímcsoport, 7. cím 2. alcím, 31. cím, 32. cím 1. alcím 12. és 22. jogcímcsoport; L. fejezet 7. és 9–11. cím; LI. fejezet 10. cím 1. és 2. alcím | Nemzeti Adó- és Vámhivatal | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
-| 6. | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
+| 6.[^343] | Az adókkal, vámokkal, illetékekkel, termékdíjjal, kapcsolódó közhatalmi bevételekkel (pótlékok, bírságok) kapcsolatos követelések és kötelezettségek, a tartozások fejében átvett eszközökkel kapcsolatos adatok. A vállalkozások folyó támogatásához kapcsolódó követelések és kötelezettségvállalások. | Havonta egyszer, a Kincstár által megállapított időpontban |
 
 | 7. | XLI. fejezet | Államadósság Kezelő Központ Zrt. | Az előzetes elemi költségvetés, elemi költségvetés elkészítéséhez szükséges adatok. | Az előzetes elemi költségvetés, elemi költségvetés elkészítésének határidejét megelőző 8. napig |
 
@@ -44,7 +44,7 @@
 
 | 20. | nincs címrendhez kötve | Start Garancia Pénzügyi Szolgáltató Zrt. | Az állam által vállalt viszontgarancia érvényesítéséből származó követelések és kötelezettségek adatai. | Negyedévente egyszer, a Kincstár által megállapított időpontban |
 
-3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^341]
+3. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^344]
 
 Maradványkimutatás
 
@@ -74,4 +74,6 @@ III. Vállalkozási tevékenység költségvetési egyenlege (05–06)
 
 IV. Vállalkozási tevékenység finanszírozási egyenlege (07–08)
 
-[^341]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
+[^342]: A 2. mellékletben foglalt táblázat 5. sora az 560/2023. (XII. 14.) Korm. rendelet 16. § 2. pontjával megállapított szöveg.
+[^343]: A 2. mellékletben foglalt táblázat 6. sora az 560/2023. (XII. 14.) Korm. rendelet 16. § 2. pontjával megállapított szöveg.
+[^344]: A 3. melléklet a 380/2017. (XII. 11.) Korm. rendelet 6. § 6. pontja szerint módosított szöveg.
