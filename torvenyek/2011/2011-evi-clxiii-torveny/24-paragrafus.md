@@ -10,4 +10,6 @@ d) a végrehajtásra illetékes szervek vezetőitől iratok és adatok rendelkez
 
 e) a végrehajtási szerveknél általános érvényű rendelkezés (intézkedés, utasítás stb.) kiadását, módosítását vagy hatályon kívül helyezését kezdeményezheti.
 
-(2) Az illetékes szerv vezetője az (1) bekezdés c) és d) pontjában megjelölt ügyészi felkérésnek köteles haladéktalanul eleget tenni. Amennyiben az illetékes szerv vezetője az (1) bekezdés e) pontjában foglalt kezdeményezéssel nem ért egyet, a 22. § (4) bekezdésben meghatározott módon előterjesztésnek van helye.
+(2) Az illetékes szerv vezetője az (1) bekezdés c) és d) pontjában megjelölt ügyészi felkérésnek köteles haladéktalanul eleget tenni. Ha az illetékes szerv vezetője az (1) bekezdés e) pontjában foglalt kezdeményezéssel nem ért egyet, a 22. § (4) bekezdésben meghatározott módon előterjesztésnek van helye.
+
+(3) Az (1) bekezdés a) pontja szerinti panasz elbírálása mellőzhető, ha azt az abban sérelmezett döntés, intézkedés vagy mulasztás bekövetkezésétől számítottan egy éven túl nyújtják be. Az elbírálás mellőzéséről és annak okáról a panaszost tájékoztatni kell.
