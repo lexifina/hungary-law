@@ -14,7 +14,7 @@ b) az igazgatóhelyettes,
 
 c) az oktató,
 
-d) a többcélú szakképző intézményben köznevelésialapfeladat-ellátásra az Nkt. szerinti pedagógus munkakörben foglalkoztatott személy és
+d) a többcélú szakképző intézményben köznevelésialapfeladat-ellátásra a pedagógusok új életpályájáról szóló törvény szerinti pedagógus munkakörben foglalkoztatott személy és
 
 e) a további, közvetlenül nem a szakmaialapfeladat-ellátással összefüggő feladat ellátására létesített munkakörben foglalkoztatott személy.
 
