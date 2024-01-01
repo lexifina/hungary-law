@@ -2,6 +2,6 @@
 
 (2) Jogszabályban meghatározott foglalkozási ágakban és munkakörökben csak tűzvédelmi szakvizsgával rendelkező személy foglalkoztatható. A tűzvédelmi szakvizsgáztatást az adott foglalkozási ágra (munkakörre) képesítést adó oktatás (szaktanfolyam) keretében az oktatást végző köteles megszervezni.
 
-(3) A munkáltató köteles gondoskodni a munkavállalói, illetőleg a munkavégzésben részt vevő családtagjai évenkénti tűzvédelmi oktatásáról, valamint arról, hogy azok a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt elsajátítsák, a tűz esetén végzendő feladataikat megismerjék.
+(3) A munkáltató köteles gondoskodni arról, hogy a munkavállalói, valamint a munkavégzésben részt vevő családtagjai a munkakörükkel, tevékenységükkel kapcsolatos tűzvédelmi ismereteket a foglalkoztatásuk megkezdése előtt megismerjék. A katasztrófák elleni védekezésért felelős miniszter rendeletében kockázati osztályba sorolással meghatározza azon munkáltatókat, akik esetében évenkénti tűzvédelmi oktatást kell tartani.
 
 (4) A munkáltató azt a munkavállalót, illetőleg a munkavégzésben részt vevő családtagot, aki a tevékenységéhez szükséges tűzvédelmi ismeretekkel, illetőleg az előírt tűzvédelmi szakvizsgával nem rendelkezik, az adott tevékenységgel nem foglalkoztathatja.

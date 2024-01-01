@@ -46,7 +46,7 @@ k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 11. a tűzoltóság tűzoltási és műszaki mentési tevékenységének általános szabályait, a TMMT készítésével érintett létesítmények kiválasztására vonatkozó szabályokat, a TMMT tartalmi követelményeit.
 
-12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit,
+12. a tűzvédelmi szabályzat általános elveit, a tűzvédelmi használati szabályok tartalmi követelményeit és a tűzvédelmi használati szabályok készítésére kötelezettek körét, annak eseteit, a rendszeres tűzvédelmi oktatásra kötelezettek körét,
 
 13. a tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi berendezések, tűzoltó szakfelszerelések rendeltetéstől eltérő használatának szabályait,
 
@@ -58,7 +58,7 @@ k) a tűzesetek vizsgálatára vonatkozó eljárási szabályokat.
 
 17. a Magyarországon működő polgári repülőterek tűzoltó védelmi kategóriáját biztosító szervezetek működésére, fenntartására, fejlesztésére, személyi és technikai feltételeire vonatkozó részletes szabályokat,
 
-18.
+18. az általános tűzvédelmi szabályzatot,
 
 19. a hivatásos tűzoltóságok Szolgálati Szabályzatát,
 
