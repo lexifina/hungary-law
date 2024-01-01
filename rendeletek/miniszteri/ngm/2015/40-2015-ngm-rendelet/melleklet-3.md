@@ -1,5 +1,3 @@
-## A függő biztosításközvetítői hatósági vizsga követelményei
-
 ## 1. Vizsgatárgy: Pénzügyi és biztosítási piac szereplői
 
 ## A) Pénzügyi piacok szereplői, tevékenységük és szolgáltatásaik
@@ -249,3 +247,5 @@
 ## 4.3. Vagyonbiztosítási szabályok alkalmazása
 
 3. melléklet a 40/2015. (XII. 30.) NGM rendelethez
+
+A független biztosításközvetítői hatósági vizsga követelményei

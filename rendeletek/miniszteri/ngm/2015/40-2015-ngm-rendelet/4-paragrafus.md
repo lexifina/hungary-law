@@ -8,7 +8,7 @@ c) a 3. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása 
 
 d) a 4. mellékletben meghatározott vizsgatárgyak ismeretanyagának oktatása révén a tőkepiaci üzletkötői hatósági vizsgára
 
-## történő felkészítést biztosítja.
+történő felkészítést biztosítja.
 
 (2) A Hatóság kialakítja, és indokoltság esetén felülvizsgálja a hatósági képzés és a hatósági vizsga – közvetítői tevékenység végzéséhez szükséges és arányos tudás megszerzéséhez igazodó – követelményrendszerét, valamint ezzel összefüggésben az – 1–4. mellékletben meghatározott vizsgatárgyak szerinti – oktatási segédanyagot és a kérdéstárat.
 

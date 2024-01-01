@@ -8,6 +8,6 @@
 
 (4) A kérdéstárat a (3) bekezdésben és a 4. § (2) és (3) bekezdésében meghatározottak szerint kell kialakítani.
 
-(5)[^13] A függő biztosításközvetítői hatósági vizsgával rendelkező biztosításközvetítő a hatósági vizsga sikeres letételét követő négy éven belül – a képzés teljesítése nélkül – a 3. mellékletben meghatározott független biztosításközvetítői alapismeretek vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői hatósági bizonyítványt szerezhet.
+(5)[^18] A függő biztosításközvetítői hatósági vizsgával rendelkező biztosításközvetítő a hatósági vizsga sikeres letételét követő négy éven belül – a képzés teljesítése nélkül – a 3. mellékletben meghatározott független biztosításközvetítői alapismeretek vizsgatárgyra vonatkozó önálló különbözeti vizsga sikeres letételével független biztosításközvetítői hatósági bizonyítványt szerezhet.
 
-[^13]: A 11. § (5) bekezdése a 14/2021. (XII. 8.) PM rendelet 5. §-ával megállapított szöveg.
+[^18]: A 11. § (5) bekezdése a 14/2021. (XII. 8.) PM rendelet 5. §-ával megállapított szöveg.

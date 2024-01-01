@@ -22,7 +22,7 @@ h) Pénzügyi szervezeti mérlegképes könyvelő megnevezésű,
 
 i) Vállalkozási mérlegképes könyvelő megnevezésű
 
-## szakképesítés megszerzésére irányuló szakmai képzés végzésére jogosult.
+szakképesítés megszerzésére irányuló szakmai képzés végzésére jogosult.
 
 (3) A Hpt. 74. § (1) bekezdés c) pontja szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet Magyarország területén pénzügyi szolgáltatási tevékenység végzésére jogosult intézmény a saját és vele egy csoportba tartozó társaságok munkavállalói, illetve közvetítői számára szervez.
 

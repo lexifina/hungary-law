@@ -1,6 +1,6 @@
 1. melléklet a 40/2015. (XII. 30.) NGM rendelethez
 
-## A pénzügyi szolgáltatás közvetítői hatósági vizsga követelményei
+A pénzügyi szolgáltatás közvetítői hatósági vizsga követelményei
 
 1. Vizsgatárgy: A pénzügyi piacok
 
