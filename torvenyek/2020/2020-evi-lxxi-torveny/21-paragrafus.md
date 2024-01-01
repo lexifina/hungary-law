@@ -1,4 +1,4 @@
-21. § (1) Ha a 20. §-ban meghatározott adategyeztetés nem vezet eredményre, az ingatlanügyi hatóság 90 napra településenként és fekvésenként hirdetményt tesz közzé az ingatlan fekvése szerinti települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat honlapján és hirdetőtábláján, az ingatlanügyi hatóság honlapján, továbbá a kormányzati portálon. Egyúttal a hirdetmény közzétételéről értesítést küld az érintett ingatlan közigazgatási címére, illetve – ha az fel van tüntetve – a bejegyzett tulajdonos ingatlan-nyilvántartásban feltüntetett lakcímére is.
+21. § (1) Ha a 20. §-ban meghatározott adategyeztetés nem vezet eredményre, az ingatlanügyi hatóság 90 napra településenként és fekvésenként hirdetményt tesz közzé az ingatlan fekvése szerinti települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat valamint, az ingatlanügyi hatóság honlapján, továbbá a kormányzati portálon. Egyúttal a hirdetmény közzétételéről értesítést küld az érintett ingatlan közigazgatási címére, illetve – ha az fel van tüntetve – a bejegyzett tulajdonos ingatlan-nyilvántartásban feltüntetett lakcímére is.
 
 (2) A hirdetmény tartalmazza:
 
