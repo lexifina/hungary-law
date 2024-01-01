@@ -1,3 +1,3 @@
 ## Társadalombiztosítási ellátás és egészségügyi szolgáltatás
 
-7. §
+### 7. §

@@ -10,7 +10,7 @@ c) ha a tulajdonosának birtokából kikerült, illetve használatra alkalmatlan
 
 a) az igazolvány tulajdonosa valótlan adatokat közölt az igazolás, illetve az igazolvány igénylése során; vagy
 
-b) annak tulajdonosa bevándorolt vagy letelepedett jogállást kapott; vagy
+b) annak tulajdonosa huzamos tartózkodási jogosultságot kapott; vagy
 
 c) annak tulajdonosa Magyarországon lakóhelyet létesített; vagy
 
@@ -72,7 +72,7 @@ g) a talált igazolvány visszaadásának tényét és időpontját.
 
 (7) Az elbíráló hatóság a kérelem elbírálásához, illetőleg a visszavonási ok fennállásának vizsgálatához a következő szervektől igényelhet adatokat:
 
-a) a központi idegenrendészeti nyilvántartásból a kiutasításról, a beutazási és tartózkodási tilalom fennállásáról, a letelepedett vagy bevándorolt jogállás fennállásáról közvetlen hozzáféréssel;
+a) a központi idegenrendészeti nyilvántartásból a kiutasításról, a beutazási és tartózkodási tilalom fennállásáról, a huzamos tartózkodási jogosultság fennállásáról közvetlen hozzáféréssel;
 
 b) a személyiadat- és lakcímnyilvántartásból;
 
