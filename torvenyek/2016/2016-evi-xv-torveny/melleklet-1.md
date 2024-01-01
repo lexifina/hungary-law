@@ -1,1 +1,1 @@
-1–3. melléklet a 2016. évi XV. törvényhez
+1. melléklet a 2016. évi XV. törvényhez

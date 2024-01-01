@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-15-00-00
 | 2018-07-01 | 2017. évi CXCVII. törvény | 2016-15-00-00.4 |
 | 2019-11-28 | 33/2019. (XI. 27.) AB határozat | 2016-15-00-00.5 |
 | 2021-01-01 | 2020. évi CXXXIII. törvény | 2016-15-00-00.6 |
+| 2024-01-01 | 2023. évi XC. törvény | 2016-15-00-00.7 |

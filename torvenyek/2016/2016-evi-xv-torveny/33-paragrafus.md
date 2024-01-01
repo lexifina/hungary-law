@@ -8,7 +8,7 @@ a) magyar állampolgár,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személy beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és tartózkodáshoz való jogát Magyarország területén gyakorló személy, vagy
 
-c) bevándorolt vagy letelepedett jogállású, menekültként vagy oltalmazottként elismert személy.
+c) huzamos tartózkodási jogosultsággal rendelkező személy, vagy menekültként vagy oltalmazottként elismert személy.
 
 (3) Egy természetes személy egy szerződés után igényelhet állami támogatást. Az a tag, aki a tagsági szerződésének megkötését megelőzően a lakástakarék-pénztárakról szóló törvény alapján betéte után állami támogatásban részesült, a közösségbe befizetett államilag támogatott betét összege után az e törvény szerinti állami támogatásra nem jogosult.
 

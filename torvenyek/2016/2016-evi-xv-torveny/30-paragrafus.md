@@ -18,7 +18,7 @@ c) a tag – a (3) bekezdésben meghatározott kivétellel – az ingatlant a k�
 
 a) családi otthonteremtési kedvezmény igénybevétele esetén az állam javára szóló jelzálogjogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal,
 
-b) otthonteremtési kamattámogatással érintett kölcsön igénybevétele esetén a kölcsönt nyújtó hitelintézet javára szóló jelzálogjogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal
+b) otthonteremtési kamattámogatással érintett kölcsön igénybevétele esetén a kölcsönt nyújtó hitelintézet javára szóló jelzálogjoggal és a kamattámogatást, illetve a családok otthonteremtési kamattámogatásával érintett kölcsönhöz kapcsolódó gyermekvállalási támogatást nyújtó állam javára szóló jelzálogjoggal, valamint annak biztosítására elidegenítési és terhelési tilalommal
 
 terhelheti meg.
 
