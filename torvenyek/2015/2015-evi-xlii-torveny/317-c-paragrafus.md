@@ -6,7 +6,7 @@ a) a 154. § szerinti illetmény része, azt egyéb pótlékként kell figyelemb
 
 b) a 168. § (2) bekezdése tekintetében rendszeres illetménypótléknak minősül.
 
-(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–600%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
+(3) Az egészségügyi feladatot ellátó szakdolgozói pótlék mértékét a miniszter a rendvédelmi illetményalap 150–850%-a közötti értékben állapítja meg. Az egészségügyi szakdolgozói pótlék mértékének megállapításánál
 
 a) a betöltött szolgálati beosztást vagy munkakört,
 
@@ -17,6 +17,8 @@ c) az egészségügyi tapasztalatot
 kell figyelembe venni.
 
 (4) Az egészségügyi szakdolgozói pótlék megállapításához szükséges gyakorlati időt az Eszjtv. 8. § (8a)–(9a) bekezdésében és az Eszjtv. végrehajtásáról szóló kormányrendeletben foglalt idők figyelembevételével kell megállapítani.
+
+(4a) Az egészségügyi feladatot ellátó szakdolgozó részére az (5) bekezdés szerinti miniszteri rendelet által meghatározott gyakorlati idő következő fokozata szerinti, magasabb szakdolgozói pótlékot a várakozási időt leteltét követő hónap első napjától kell megállapítani.
 
 (5) Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztást és munkakört a középfokú, emeltszintű és felsőfokú végzettséghez kötött szakdolgozói szolgálati beosztásba vagy munkakörbe kell besorolni. Az egészségügyi szakdolgozói pótlék megállapításához szükséges szakdolgozói végzettség szintjeit a miniszter rendeletben határozza meg.
 

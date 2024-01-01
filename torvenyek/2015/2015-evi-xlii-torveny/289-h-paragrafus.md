@@ -38,6 +38,8 @@ df) ügyészi szolgálati,
 
 dg) egészségügyi szolgálati
 
+dh) köznevelési foglalkoztatotti
+
 jogviszonyban eltöltött időt;
 
 e) a Nemzeti Adó- és Vámhivatalnál

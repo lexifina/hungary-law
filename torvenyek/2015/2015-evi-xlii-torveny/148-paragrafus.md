@@ -6,7 +6,7 @@ b) a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő t
 
 c) a hivatásos állomány szülő, nevelőszülő, valamint helyettes szülő tagját,
 
-ca) ha az egyévesnél idősebb, de háromévesnél fiatalabb gyermekét ápolja évenként és gyermekenként nyolcvannégy naptári napon át,
+ca) ha az egyévesnél idősebb, de háromévesnél fiatalabb gyermekét ápolja évenként és gyermekenként nyolcvannégy, egyedülálló szülőnek százhatvannyolc naptári napon át,
 
 cb) ha háromévesnél idősebb, de hatévesnél fiatalabb gyermekét ápolja évenként és gyermekenként negyvenkét, egyedülálló esetén nyolcvannégy naptári napon át,
 

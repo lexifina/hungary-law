@@ -14,7 +14,7 @@
 
 (8) Az önként vállalt túlszolgálat éves mértéke legfeljebb 150 óra, amelybe nem számít bele a 139. § (2)–(4) bekezdése szerinti időtartam.
 
-(9) Az önként vállalt túlszolgálat ellentételezéseként – a 140. § (3) bekezdésétől eltérően – a hivatásos állomány tagját díjazás illeti meg. Díjazásként az önként vállalt túlszolgálat időtartamára a kinevezés szerinti szolgálati beosztási illetmény alapulvételével számított távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlszolgálat esetén a távolléti díj 200%-a jár, amelyet a túlszolgálat pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+(9) Az önként vállalt túlszolgálat ellentételezéseként – a 140. § (3) bekezdésétől eltérően – a hivatásos állomány tagját díjazás illeti meg. Díjazásként az önként vállalt túlszolgálat időtartamára a kinevezés szerinti szolgálati beosztási illetmény alapulvételével számított távolléti díj 150%-a, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlszolgálat esetén a távolléti díj 200%-a jár, amelyet a túlszolgálat pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
 
 (10) A hivatásos állomány tagja önként vállalt túlszolgálat vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
 

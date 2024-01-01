@@ -36,6 +36,8 @@ b) a felmentését maga kérte.
 
 c) a felmentésére a kifogástalan életvitel követelményének való meg nem felelése vagy nemzetbiztonsági szempontból való alkalmatlansága miatt került sor.
 
+d) a felmentésére azért került sor, mert hivatása gyakorlására érdemtelen.
+
 (6) Ha a rendvédelmi alkalmazott a munkavégzési kötelezettség teljesítése alóli mentesítés ideje alatt bármely költségvetési szervvel vagy költségvetési szerv legalább többségi befolyása alatt álló bármely gazdálkodó szervezettel teljes vagy részmunkaidős foglalkoztatási jogviszonyt létesít,
 
 a) ezt a tényt a munkáltatói jogkört gyakorló elöljárónak haladéktalanul köteles írásban bejelenteni,

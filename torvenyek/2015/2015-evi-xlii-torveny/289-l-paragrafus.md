@@ -42,7 +42,7 @@ c) részmunkaidőre jött létre.
 
 (12) Az önként vállalt túlmunka éves mértéke legfeljebb 150 óra, amelybe nem számít bele a (8) bekezdés szerinti időtartam.
 
-(13) Az önként vállalt túlmunka ellentételezéseként – a 289/N. § (1)–(2) bekezdésétől eltérően – a rendvédelmi alkalmazottat díjazás illeti meg. Díjazásként az önként vállalt túlmunka időtartamára a távolléti díj 150%-a, pihenőnapon, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlmunka esetén a távolléti díj 200%-a jár, amelyet a túlmunka pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
+(13) Az önként vállalt túlmunka ellentételezéseként – a 289/N. § (1)–(2) bekezdésétől eltérően – a rendvédelmi alkalmazottat díjazás illeti meg. Díjazásként az önként vállalt túlmunka időtartamára a távolléti díj 150%-a, munkaszüneti napon, illetve húsvét- vagy pünkösdvasárnapon teljesített önként vállalt túlmunka esetén a távolléti díj 200%-a jár, amelyet a túlmunka pénzbeli ellentételezésre vonatkozó, a miniszter rendeletében meghatározott rendben kell kifizetni.
 
 (14) A rendvédelmi alkalmazott önként vállalt túlmunka vállalására nem kényszeríthető, jogos érdeke ezzel összefüggésben nem csorbítható, érdekérvényesítési lehetősége nem korlátozható.
 

@@ -1,4 +1,4 @@
-135. § (1) A szolgálatteljesítési idő a munkanapokra egyenlőtlenül is beosztható. A napi szolgálatteljesítési idő ilyen esetben sem lehet négy óránál rövidebb, és – a folyamatos ügyeleti szolgálat ellátására szervezett, az őr- és a készenléti jellegű szolgálati beosztásokat, valamint a (2) bekezdésben foglaltakat kivéve – tizenkét óránál hosszabb.
+135. § (1) A szolgálatteljesítési idő a munkanapokra egyenlőtlenül is beosztható. A napi szolgálatteljesítési idő ilyen esetben sem lehet négy óránál rövidebb, és – a folyamatos ügyeleti szolgálat ellátására szervezett, az őr- és a készenléti jellegű szolgálati beosztásokat, a (2) bekezdésben, valamint a 135/A. §-ban foglaltakat kivéve – tizenkét óránál hosszabb.
 
 (2) Az eligazítás, váltás, valamint a szolgálati felszerelések felvétele és leadása érdekében a napi tizenkét órás szolgálatteljesítési idő legfeljebb harminc perccel meghosszabbítható a hivatásos állomány egy vagy többhavi szolgálatteljesítési időkeretben foglalkoztatott tagjánál, ha a szolgálatteljesítést naponta azonos helyen két fő egymás utáni beosztásával rendelik el.
 

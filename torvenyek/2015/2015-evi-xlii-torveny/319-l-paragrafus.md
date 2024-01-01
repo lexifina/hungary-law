@@ -1,4 +1,8 @@
-319/L. § (1) A határvadász a szerződéses jogviszonya alapján alapilletményre, a (8) bekezdés szerinti pótlékra és határvadász szolgálati pótlékra jogosult. A határvadász szolgálati pótlék mértékét és folyósításának rendjét a rendészetért felelős miniszter rendeletben határozza meg.
+319/L. § (1) A határvadász a szerződéses jogviszonya alapján alapilletményre, a (8) bekezdés szerinti pótlékra, határvadász szolgálati pótlékra vagy kiemelt határvadász szolgálati pótlékra jogosult.
+
+(1a) A kiemelt határvadász szolgálati pótlék jelentős igénybevétellel járó határvadász feladatellátáshoz kapcsolódhat. A kiemelt határvadász szolgálati pótlékra jogosító szolgálati körülményeket és a folyósítás rendjét az országos parancsnok közjogi szervezetszabályozó eszközben határozza meg.
+
+(1b) A határvadász szolgálati pótlék mértékét és folyósításának rendjét, valamint a kiemelt határvadász szolgálati pótlék mértékét a rendészetért felelős miniszter rendeletben határozza meg.
 
 (2) Az illetményt száz forintra kerekítve kell megállapítani.
 

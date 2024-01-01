@@ -2,4 +2,4 @@
 
 (2) Szenior állományba vételkor a szolgálati időt a szolgálati nyugállományba helyezéskor elismert hivatásos szolgálati idő alapján kell megállapítani.
 
-(3) A szenior állomány tagjának illetményét a központi költségvetés a rendvédelmi szervnek megtéríti.
+(3)

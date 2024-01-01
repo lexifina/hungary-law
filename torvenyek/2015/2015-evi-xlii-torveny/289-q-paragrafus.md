@@ -4,7 +4,13 @@
 
 (3) Az alapszabadság felével a munkáltatói jogkör gyakorlója rendelkezik.
 
-(4) A munkáltatói jogkör gyakorlója évente tíz munkanap alapszabadságot, valamint a pótszabadságot – a próbaidőt kivéve – két részletben a rendvédelmi alkalmazott kérésének megfelelő időpontban köteles kiadni.
+(4) A munkáltatói jogkör gyakorlója
+
+a) a próbaidőt kivéve az évente tíz munkanap alapszabadságot, valamint a pótszabadságot – a b) pont szerinti pótszabadság kivételével – két részletben,
+
+b) a gyermek után járó pótszabadságot annak a 144. § (1) és (2) bekezdésében meghatározott mértéke erejéig
+
+a rendvédelmi alkalmazott kérésének megfelelő időpontban köteles kiadni.
 
 (5) A szabadságot kettőnél több részletben csak a rendvédelmi alkalmazott kérésére lehet kiadni.
 

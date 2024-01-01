@@ -16,4 +16,4 @@ e) ruházati utánpótlási ellátmányra és kiegészítő ruházati utánpótl
 
 (3) A (2) bekezdés b) pontja szerinti összegről a munkáltatói jogkört gyakorló elöljárót annak kérelmére a nyugdíj-megállapító szerv tájékoztatja. A (2) bekezdés b) pontjában meghatározott illetmény emelésének mértéke megegyezik az öregségi nyugdíjemelés mértékével.
 
-(4) A nyugdíj előtti rendelkezési állományba helyezett illetményét a központi költségvetés a rendvédelmi szervnek megtéríti.
+(4)

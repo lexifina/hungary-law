@@ -24,9 +24,13 @@ időtartama alatt.
 
 (2) Az (1) bekezdésben felsorolt felmentési tilalmak nem vonatkoznak a rendvédelmi alkalmazottra, ha
 
-a) nyugdíjasnak minősül, vagy
+a) nyugdíjasnak minősül,
 
 b) felmentését maga kérte.
+
+c) a 288/F. § (2) bekezdés c) pontja alapján alkalmatlanná vált, vagy
+
+d) a 288/F. § (2) bekezdés f) pontja alapján érdemtelen.
 
 (3) Az (1) bekezdésben meghatározott védelem fennállása szempontjából a felmentés közlésének időpontja az irányadó. A felmentés közlésének az tekintendő, amikor a felmentésről szóló írásba foglalt munkáltatói intézkedést a rendvédelmi alkalmazottnak kézbesítették.
 

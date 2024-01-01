@@ -30,6 +30,8 @@ n) a munkavégzés alapvető feltételeiről és szempontjairól szóló tájék
 
 o) az önként vállalt túlmunka vállalásának és elszámolásának rendjét.
 
+p) az érdemtelenség megállapítására vonatkozó eljárási szabályokat.
+
 (2) A miniszter a polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottai tekintetében közjogi szervezetszabályozó eszközben határozza meg:
 
 a) azokat a munkaköröket, amelyek esetében a 6/A. § (3)–(5) bekezdése nem alkalmazható,

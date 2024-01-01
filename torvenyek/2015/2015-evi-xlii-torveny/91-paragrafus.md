@@ -10,7 +10,7 @@ b) a 86. § (6) bekezdése szerinti továbbfoglalkoztatására nincs lehetőség
 
 a) a 86. § (2) bekezdés a) pontja alapján egészségi, pszichológiai vagy fizikai alkalmatlanság miatt mentették fel,
 
-b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
+b) az (1) bekezdés szerinti tartalékállomány tartama alatt részére a rendvédelmi szervnél, más rendvédelmi vagy egyéb költségvetési szervnél a képzettségének, végzettségének, egészségi, pszichológiai és fizikai állapotának megfelelő hivatásos, rendvédelmi igazgatási szolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony vagy munkaviszony alá tartozó munkakör nem volt biztosítható, és
 
 c) a felmentési idő lejártakor rendelkezik legalább huszonöt év tényleges szolgálati idővel.
 

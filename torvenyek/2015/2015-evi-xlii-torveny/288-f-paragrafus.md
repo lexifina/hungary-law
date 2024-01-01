@@ -18,6 +18,8 @@ d) a vezetői kinevezés visszavonását követően munkakör részére nem bizt
 
 e) a más szervhez kirendelés megszűnése után részére a végzettségének, képzettségének megfelelő munkakör nem biztosítható vagy a részére felajánlott alacsonyabb munkakört nem fogadja el.
 
+f) hivatása gyakorlására érdemtelen.
+
 (3) A rendvédelmi alkalmazott igazgatási jogviszonyát kérelmére felmentéssel meg kell szüntetni, ha legkésőbb az igazgatási jogviszony megszűnésének napjával rendelkezik a Tny. 18. § (2a)–(2d) bekezdése szerinti jogosultsági idővel.
 
 (4) A munkáltatói jogkört gyakorló a felmentést köteles megindokolni. Ebből világosan ki kell tűnnie, hogy a felmentés indoka valós és okszerű.
@@ -37,3 +39,17 @@ b) az átszervezés miatt megszűnt munkakört betöltő rendvédelmi alkalmazot
 (5a) A rendvédelmi alkalmazottat akkor lehet felmenteni nem megfelelő munkavégzés miatt, ha őt az utolsó egyéni teljesítményértékelése során elfogadhatatlan teljesítményfokozattal értékelték.
 
 (6) Az igazgatási jogviszonyról történő lemondásnak kell tekinteni, ha a rendvédelmi alkalmazott az (5) bekezdés szerint felajánlott munkakört nem fogadja el.
+
+(7) Érdemtelenségnek minősül, ha a rendvédelmi alkalmazott a munkahelyén kívül olyan magatartást tanúsít, amely alkalmas arra, hogy az őt foglalkoztató rendvédelmi szerv jó hírnevét vagy a rendvédelmi szerv működésébe vetett bizalmat súlyosan rombolja.
+
+(8) Az érdemtelenség jogcímén történő felmentés jogát a rendvédelmi szerv
+
+a) az ennek alapjául szolgáló ok tudomásszerzésétől számított harminc napon belül, legfeljebb azonban az annak bekövetkezését követő egy éven belül,
+
+b) bűncselekmény elkövetése esetén a büntethetőség elévüléséig
+
+gyakorolhatja.
+
+(9) Az érdemtelenség megállapítására vonatkozó döntés meghozatala előtt a rendvédelmi alkalmazottnak lehetőséget kell adni a döntés alapjául szolgáló körülmények megismerésére és arra, hogy az arról való tájékoztatástól számított tizenöt napon belül védekezését előadhassa, bizonyítékait előterjeszthesse, kivéve, ha az eset összes körülményeiből következően az a rendvédelmi szervtől nem várható el.
+
+(10) Az érdemtelenség megállapítására vonatkozó eljárási szabályokat a miniszter rendeletben állapítja meg.

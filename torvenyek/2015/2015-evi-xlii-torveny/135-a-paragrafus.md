@@ -1,6 +1,6 @@
 135/A. § (1) A 135. § (1) bekezdésétől eltérően tizenkét órát meghaladó, de tizenhat óránál nem hosszabb napi szolgálatteljesítési idő határozható meg
 
-a) a folyamatos szolgálatteljesítést igénylő, folyamatos beavatkozási vagy intézkedési feladatok ellátására rendszeresített, továbbá a részben vagy egészben készenléti jellegű szolgálati beosztásokban,
+a) a folyamatos szolgálatteljesítést igénylő, folyamatos beavatkozási vagy intézkedési feladatok ellátására rendszeresített szolgálati beosztásokban,
 
 b) azokban a szolgálati beosztásokban, amelyeket olyan feladatokra rendszeresítettek, ahol a szolgálatteljesítési feladat ellátása időszakonként eltérő létszámot igényelhet, továbbá ahol a szolgálati feladatok rendes szolgálatteljesítés keretében történő ellátása előreláthatóan a hét bármely napján, annak bármely időpontjában szükségessé válhat.
 

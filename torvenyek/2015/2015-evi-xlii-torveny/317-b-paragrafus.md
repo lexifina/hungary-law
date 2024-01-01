@@ -8,6 +8,8 @@ c) besorolása, rendfokozata, szolgálati ideje e törvény szerint kerül megá
 
 d) esetében nem alkalmazható a 160. §, a 6., 8. és 9. mellékletben foglalt, a beosztási illetményt meghatározó szorzószám és a 10. melléklet.
 
+e) esetében az a) pont alapján figyelembe vett gyakorlati időhöz tartozó várakozási idő leteltét követő hónap első napjától kell az Eszjtv. 1. melléklet szerinti, eggyel magasabb fizetési fokozatot figyelembe venni az illetmény megállapítása során.
+
 (2) A rendvédelmi igazgatási szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó
 
 a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatározott illetményre jogosult, az Eszjtv. 8. § (8a)–(9a) bekezdése és az Eszjtv. végrehajtásáról szóló kormányrendelet alapján részére meghatározott gyakorlati idő figyelembevételével,
@@ -15,6 +17,8 @@ a) a 289. § szerinti illetmény helyett az Eszjtv. 1. mellékletében meghatár
 b) esetében a 289/A. § nem alkalmazható azzal, hogy a rendvédelmi igazgatási szolgálati viszonyban álló e törvény szerinti fizetési fokozatát vezetni kell,
 
 c) esetében nem alkalmazható a 289/D. § és a 12. melléklet.
+
+d) esetében az a) pont alapján figyelembe vett gyakorlati időhöz tartozó várakozási idő leteltét követő hónap első napjától kell az Eszjtv. 1. melléklet szerinti, eggyel magasabb fizetési fokozat szerinti illetményt megállapítani.
 
 (3) Az (1) bekezdés a) pontja, illetve a (2) bekezdés a) pontja szerinti illetmény legfeljebb húsz százalékos mértékben növelhető, a szolgálati viszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 111–113. §, a rendvédelmi igazgatási szolgálati jogviszonyban álló egészségügyi feladatot ellátó dolgozó esetében a 288/Q. § szerinti teljesítményértékelés alapján. Az ilyen módon megnövelt illetmény első alkalommal április hónapban folyósítható, utolsó alkalommal a tárgyévet követő év márciusában jár.
 

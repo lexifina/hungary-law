@@ -32,7 +32,7 @@
 
 16. a szabadság nyilvántartásának és kiadásának rendjét, valamint a határvadászra irányadó munkarendtől eltérő szolgálati időbeosztás esetén szabadságként kiadandó szolgálati napok kiszámításának módját,
 
-17. az illetmény és pótlékok megállapításának és folyósításának rendjét,
+17. az illetmény és – a kiemelt határvadász szolgálati pótlék kivételével – a pótlékok megállapításának és folyósításának rendjét, továbbá a határvadász szolgálati pótlék és a kiemelt határvadász szolgálati pótlék mértékét,
 
 18. a juttatások, költségtérítések, kedvezmények, támogatások fajtáit, mértékét, a jogosultság feltételeit, az azokban való részesítés, a megállapítás, a kifizetés, az elszámolás, a visszatérítés és visszatérítési kötelezettség esetén az elengedés részletes rendjét, a kedvezményes üdültetésben, az üdülési hozzájárulásban részesítés rendjét, feltételeit,
 

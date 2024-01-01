@@ -16,6 +16,12 @@ f) harminc év után hat hónappal
 
 meghosszabbodik. E tekintetben a 289/H. § szerinti szolgálati időt kell figyelembe venni.
 
-(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott nem felel meg a kifogástalan életvitel követelményének vagy nemzetbiztonsági szempontból alkalmatlanná vált.
+(3) Ha a rendvédelmi alkalmazott felmentésére kerül sor, felmentési idő nélkül kell megszüntetni az igazgatási jogviszonyát, ha a rendvédelmi alkalmazott
+
+a) nem felel meg a kifogástalan életvitel követelményének,
+
+b) nemzetbiztonsági szempontból alkalmatlanná vált, vagy
+
+c) hivatása gyakorlására érdemtelen.
 
 (4) A felmentés időtartamának felére a rendvédelmi alkalmazottat a munkavégzési kötelezettség teljesítése alól mentesíteni kell. Indokolt esetben a munkáltatói jogkört gyakorló a rendvédelmi alkalmazottat a teljes felmentési időre mentesítheti a munkavégzési kötelezettség teljesítése alól.

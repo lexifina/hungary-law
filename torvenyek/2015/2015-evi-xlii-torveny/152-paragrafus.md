@@ -2,7 +2,7 @@
 
 152. § (1) A szolgálati érdekre figyelemmel a hivatásos állomány tagját megillető szabadságot a tárgyév február 28-áig elkészített szabadságolási terv alapján, a hivatásos állomány tagjának méltányolható igényeire is tekintettel kell kiadni.
 
-(2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
+(2) A szabadság tartamának 50%-át egybefüggően, a 25%-át, de legalább tíz napot, valamint a 144. § (1) és (2) bekezdése szerinti pótszabadságot pedig a hivatásos állomány tagja által megjelölt időben és időtartamban kell kiadni úgy, hogy az a rendvédelmi szerv működőképességét ne veszélyeztesse. A rendvédelmi szerv az általa meghatározott szabadság kezdő napját harminc nappal előbb köteles közölni a hivatásos állomány tagjával.
 
 (3) A szabadságot – az apasági szabadságot és a szülői szabadságot kivéve – az esedékesség évében kell kiadni. Szolgálati érdekből a szabadságot a tárgyévet követő év január 31-éig, kivételesen fontos szolgálati érdekből legkésőbb március 31-éig, a hivatásos állomány tagjának betegsége vagy a személyét érintő más elháríthatatlan akadály esetén az akadályoztatás megszűnésétől számított harminc napon belül kell kiadni.
 

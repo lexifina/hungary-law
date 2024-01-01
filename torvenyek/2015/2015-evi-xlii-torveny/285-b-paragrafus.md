@@ -11,3 +11,5 @@ annak rendvédelmi tisztjelölti jogviszonya a törvény erejénél fogva megsz�
 (3) Nem kell biztosítani a rendvédelmi tisztjelölt számára az (1) és (2) bekezdés szerinti foglalkoztatást, ha a hallgatói jogviszonya a 285. § (7) bekezdés szerinti próbaidő alatt szűnik meg, valamint ha a hallgatói jogviszonya a rendészeti alapfelkészítés teljesítésének hiányában szűnik meg.
 
 (4) Az (1) bekezdés szerinti rendvédelmi tisztjelölt esetében a 285. § (3) bekezdése szerint vállalt időtartamot a hallgatói jogviszony megszűnésétől kell számítani.
+
+(5) Az (1) és (2) bekezdés szerinti esetben a rendvédelmi tisztjelöltet a 285/C. § (1) bekezdés szerinti megtérítési kötelezettség nem terheli.
