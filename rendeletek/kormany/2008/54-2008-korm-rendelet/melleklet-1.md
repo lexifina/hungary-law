@@ -5,4 +5,4 @@
 Az ásványi nyersanyagok és geotermikus energia fajlagos értéke
 
 [^62]: A 10. §-t a 64/2013. (III. 4.) Korm. rendelet 10. §-a iktatta be.
-[^63]: Az 1. melléklet a 64/2013. (III. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 52. § és 54. § (2) bekezdés 3. pontja, a 80/2019. (IV. 15.) Korm. rendelet 20. §-a, a 296/2019. (XII. 10.) Korm. rendelet 1. § b) és f)–h) pontja, a 706/2020. (XII. 30.) Korm. rendelet 14. §-a, a 125/2021. (III. 12.) Korm. rendelet 1–2. §-a, a 197/2022. (VI. 4.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^63]: Az 1. melléklet a 64/2013. (III. 4.) Korm. rendelet 11. § (1) bekezdésével megállapított, az 559/2013. (XII. 31.) Korm. rendelet 52. § és 54. § (2) bekezdés 3. pontja, a 80/2019. (IV. 15.) Korm. rendelet 20. §-a, a 296/2019. (XII. 10.) Korm. rendelet 1. § b) és f)–h) pontja, a 706/2020. (XII. 30.) Korm. rendelet 14. §-a, a 125/2021. (III. 12.) Korm. rendelet 1–2. §-a, a 197/2022. (VI. 4.) Korm. rendelet 30. §-a, a 651/2023. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
