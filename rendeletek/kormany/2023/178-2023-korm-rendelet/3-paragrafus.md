@@ -1,1 +1,3 @@
-3. § A Bt. 21/A. § (2) bekezdésétől eltérően a bányavállalkozó a kutatási engedély alapján a kutatási területnek azon részén jogosult kizárólagosan a geotermikus energia földkéregbeli viszonyainak a meghatározására szolgáló műszeres mérések, vizsgálatok, fúrások elvégzésére, továbbá a geotermikus védőidom kijelölésének a kezdeményezésére, amelyen az 5. § (1) bekezdése szerinti kutatást, kinyerést, hőhasznosítást nem végeznek.
+3. §[^2]
+
+[^2]: A 3. §-t az 567/2023. (XII. 14.) Korm. rendelet 3. §-a hatályon kívül helyezte.

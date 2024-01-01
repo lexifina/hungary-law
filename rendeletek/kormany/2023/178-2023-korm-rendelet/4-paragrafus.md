@@ -1,1 +1,3 @@
-4. § A Bt. 21/B. § (2) bekezdésétől eltérően az 5. § (1) bekezdése szerinti hőhasznosításhoz kapcsolódó geotermikus védőidomok átfedésben lehetnek.
+4. §[^3]
+
+[^3]: A 4. §-t az 567/2023. (XII. 14.) Korm. rendelet 3. §-a hatályon kívül helyezte.
