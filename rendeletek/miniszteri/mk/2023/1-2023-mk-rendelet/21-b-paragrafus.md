@@ -1,0 +1,5 @@
+21/B. § (1) A vizsgálat során a vizsgáló a 21/A. § (6) bekezdésében foglalt tájékoztatás kézhezvételétől számított 3 munkanapon belüli időpontra tűzi ki – a Hszt. 288/F. § (9) bekezdésében foglaltakra figyelemmel – a rendvédelmi alkalmazott meghallgatását, amelyen az eljárás alá vont személy és képviselője, a vizsgáló, a munkáltatói jogkör gyakorlója vagy az általa megbízott személy vehet részt. A meghallgatásról jegyzőkönyvet kell készíteni.
+
+(2) A meghallgatás során tájékoztatni kell a rendvédelmi alkalmazottat, hogy a meghallgatás napjától számított 15 napon belül van lehetősége további védekezés vagy bizonyíték előterjesztésére.
+
+(3) A vizsgáló a (2) bekezdésben meghatározott határidőt követően, haladéktalanul küldi meg jelentését a munkáltatói jogkör gyakorlója részére. A jelentésben a vizsgáló összefoglalja a keletkezett iratokat, megállapításait, a kifogásolt magatartás elkövetését, valamint a Hszt. 288/F. § (7) bekezdésében meghatározott feltételek fennállását vagy kizárását bizonyító tényeket, következtetéseket, és ezek alapján javaslatot tesz a döntésre.
