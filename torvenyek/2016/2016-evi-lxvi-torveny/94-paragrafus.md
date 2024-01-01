@@ -1,3 +1,3 @@
 ## 8. A gépjárműadóról szóló 1991. évi LXXXII. törvény módosítása
 
-94–95. §
+### 94. §

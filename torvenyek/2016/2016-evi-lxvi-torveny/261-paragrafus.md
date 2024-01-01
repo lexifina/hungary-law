@@ -2,9 +2,9 @@
 
 ## TURIZMUSFEJLESZTÉSI HOZZÁJÁRULÁS
 
-261. § (1) Hozzájárulás-köteles az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) 3. számú melléklet II. részében foglalt táblázat 3. és 5. pontja szerinti szolgáltatás (a továbbiakban: hozzájárulás-köteles szolgáltatás) ellenérték fejében történő nyújtása.
+261. § (1) Hozzájárulás-köteles az általános forgalmi adóról szóló 2007. évi CXXVII. törvény (a továbbiakban: Áfa törvény) 3. számú melléklet II. részében foglalt táblázat 3., 5. és 6. pontja szerinti szolgáltatás (a továbbiakban: hozzájárulás-köteles szolgáltatás) ellenérték fejében történő nyújtása.
 
-(1a) Nem hozzájárulás-köteles az Áfa törvény 3. számú melléklet II. részében foglalt táblázat 3. és 5. pontja szerinti szolgáltatásnak az Áfa törvény 15. §-a szerinti nyújtása.
+(1a) Nem hozzájárulás-köteles az Áfa törvény 3. számú melléklet II. részében foglalt táblázat 3., 5. és 6. pontja szerinti szolgáltatásnak az Áfa törvény 15. §-a szerinti nyújtása.
 
 (2) A hozzájárulás fizetésére kötelezett a hozzájárulás-köteles szolgáltatást nyújtó személy vagy szervezet.
 

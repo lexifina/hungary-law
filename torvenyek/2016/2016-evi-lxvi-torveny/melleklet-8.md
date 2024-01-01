@@ -1,1 +1,1 @@
-8–10. melléklet a 2016. évi LXVI. törvényhez
+8. melléklet a 2016. évi LXVI. törvényhez
