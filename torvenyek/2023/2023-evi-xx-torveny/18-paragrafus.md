@@ -2,6 +2,6 @@
 
 a)
 
-b)
+b) 57. § (1) bekezdés d) pontjában a „c) pontja” szövegrész helyébe a „c) és d) pontja” szöveg
 
 lép.

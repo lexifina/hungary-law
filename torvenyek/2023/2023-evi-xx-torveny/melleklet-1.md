@@ -1,1 +1,9 @@
 1. melléklet a 2023. évi XX. törvényhez
+
+## „2. melléklet az 1997. évi CLV. törvényhez
+
+## A békéltető testületek illetékességi területe
+
+## | | A | B | C | 1 | Békéltető testület neve | Békéltető testület székhelye | Illetékességi terület | 2 | Budapesti Békéltető Testület | Budapest | Budapest | 3 | Baranya Vármegyei Békéltető Testület | Pécs | Baranya vármegye, Somogy vármegye, Tolna vármegye | 4 | Borsod-Abaúj-Zemplén Vármegyei Békéltető Testület | Miskolc | Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Nógrád vármegye | 5 | Csongrád-Csanád Vármegyei Békéltető Testület | Szeged | Békés vármegye, Bács-Kiskun vármegye, Csongrád-Csanád vármegye | 6 | Fejér Vármegyei Békéltető Testület | Székesfehérvár | Fejér vármegye, Komárom-Esztergom vármegye, Veszprém vármegye | 7 | Győr-Moson-Sopron Vármegyei Békéltető Testület | Győr | Győr-Moson-Sopron vármegye, Vas vármegye, Zala vármegye | 8 | Hajdú-Bihar Vármegyei Békéltető Testület | Debrecen | Jász-Nagykun-Szolnok vármegye, Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye | 9 | Pest Vármegyei Békéltető Testület | Budapest | Pest vármegye
+
+## ”
