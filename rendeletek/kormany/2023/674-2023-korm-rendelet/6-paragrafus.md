@@ -1,0 +1,7 @@
+## 3. A 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó előzetes szakhatósági állásfoglalás kiadása iránti kérelem tartalmi követelményeinek, az eljárásban közreműködő Bizottság működésének egyes szabályairól szóló 5/2015. (I. 29.) Korm. rendelet módosítása
+
+6. § A 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építményekre vonatkozó előzetes szakhatósági állásfoglalás kiadása iránti kérelem tartalmi követelményeinek, az eljárásban közreműködő Bizottság működésének egyes szabályairól szóló 5/2015. (I. 29.) Korm. rendelet [a továbbiakban: 5/2015. (I. 29.) Korm. rendelet] 1. §-a helyébe a következő rendelkezés lép:
+
+„1. § (1) E rendeletet – a (2) bekezdésben foglalt kivétellel – az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) IV/A. Fejezetében szabályozott, a 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmények építésének, átalakításának, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásaiban kell alkalmazni.
+
+(2) Nem terjed ki e rendelet hatálya az építésügyi hatósági engedélyezési eljárásra, ha az építés, átalakítás, bővítés kizárólag a hulladékról szóló törvény szerinti kötelező visszaváltási díjas rendszerbe tartozó, kormányrendeletben meghatározott termékek visszaváltását biztosító automata visszaváltó berendezés elhelyezését, üzemeltetését biztosítja.”
