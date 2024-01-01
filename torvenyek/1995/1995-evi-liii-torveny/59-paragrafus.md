@@ -8,7 +8,7 @@ b) igénybevételi járulékok,
 
 c) termékdíjak,
 
-d) betétdíjak
+d) visszaváltási díjak
 
 (a továbbiakban együtt: díjak)
 
