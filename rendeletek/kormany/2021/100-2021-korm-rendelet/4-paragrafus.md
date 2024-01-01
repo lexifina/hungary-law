@@ -4,6 +4,6 @@
 
 (3) Az állami foglalkoztatási szerv a foglalkoztatáspolitikáért felelős miniszter (a továbbiakban: miniszter) által az állami foglalkoztatási szerv honlapján közzétettek szerint nyújtja a szolgáltatásokat.
 
-(4)[^1] A szolgáltatást az állami foglalkoztatási szerv közvetlenül vagy az információnyújtás, illetve a tanácsadás szolgáltatást a foglalkoztatást elősegítő szolgáltatást nyújtó szervezetként nyilvántartásba vett, OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaságon (a továbbiakban: OFA) keresztül, az állami foglalkoztatási szervre vonatkozó szabályok szerint nyújthatja.
+(4)[^5] A szolgáltatást az állami foglalkoztatási szerv közvetlenül vagy az információnyújtás, illetve a tanácsadás, valamint mentori szolgáltatást a foglalkoztatást elősegítő szolgáltatást nyújtó szervezetként nyilvántartásba vett, OFA Országos Foglalkoztatási Közhasznú Nonprofit Korlátolt Felelősségű Társaságon (a továbbiakban: OFA) keresztül, az állami foglalkoztatási szervre vonatkozó szabályok szerint nyújthatja.
 
-[^1]: A 4. § (4) bekezdése a 628/2021. (XI. 16.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (4) bekezdése a 628/2021. (XI. 16.) Korm. rendelet 1. § a) pontja, a 687/2023. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.

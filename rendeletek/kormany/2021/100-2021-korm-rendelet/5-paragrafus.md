@@ -1,18 +1,20 @@
-5. § (1) Az állami foglalkoztatási szerv a munkahelykeresés eredményessége, valamint a megfelelő munkához jutás elősegítése érdekében
+5. § (1)[^6] Az állami foglalkoztatási szerv a munkahelykeresés eredményessége, valamint a megfelelő munkához jutás elősegítése érdekében egyéni cselekvési tervet készít azzal az álláskeresővel, aki
 
-a) a súlyosan hátrányos helyzetű munkavállaló szolgáltatást kérővel,
+a) legalább hat hónapja nyilvántartott,
 
-b) a hátrányos helyzetű munkavállaló szolgáltatást kérővel,
+b) a harmincadik életévét nem töltötte be,
 
-c) a súlyosan hátrányos helyzetű munkavállalónak vagy hátrányos helyzetű munkavállalónak nem minősülő szolgáltatást kérővel
+c) legfeljebb alapfokú iskolai végzettséggel rendelkezik,
 
-kérésére egyéni cselekvési tervet (a továbbiakban: egyéni cselekvési terv) készít, melynek egy példányát a személyes megbeszélés alkalmával átadja a szolgáltatást kérő részére.
+d) az ötvenedik életévét betöltötte, vagy
 
-(2) Az állami foglalkoztatási szerv a súlyosan hátrányos helyzetű munkavállalónak vagy hátrányos helyzetű munkavállalónak nem minősülő szolgáltatást kérő részére minden esetben felkínálja az egyéni cselekvési terv készítésének lehetőségét.
+e) uniós finanszírozású programba bevonásra kerülő álláskereső.
+
+(2)[^7] Az állami foglalkoztatási szerv minden szolgáltatást kérő részére – az (1) bekezdés a)–e) pontjában foglaltak kivételével – felkínálja az egyéni cselekvési terv készítésének lehetőségét.
 
 (3) Az egyéni cselekvési terv a szolgáltatást kérőre megállapított munkaerőpiaci célnak megfelelően tartalmazza
 
-a) az állami foglalkoztatási szerv által a szolgáltatást kérő számára felajánlott szolgáltatásokat, támogatásokat, valamint azok igénybevétele vagy az azokban történő részvétel feltételeit és módját,
+a)[^8] az állami foglalkoztatási szerv által a szolgáltatást kérő számára felajánlott szolgáltatásokat, támogatásokat, munkaerőpiaci programokat, valamint azok igénybevétele vagy az azokban történő részvétel feltételeit és módját,
 
 b) az állami foglalkoztatási szerv által – a jogszabályban meghatározott feltételek fennállása esetén – a szolgáltatást kérő részére nyújtható pénzügyi juttatást,
 
@@ -36,6 +38,15 @@ bd) az elhelyezkedését korlátozó tényezőket.
 
 a) várhatóan képes-e önállóan vagy az állami foglalkoztatási szerv által biztosított internetes alkalmazások önálló használatának segítségével elhelyezkedni a munkaerőpiacon, vagy
 
-b) munkahelyhez jutásához várhatóan szükséges és célszerű az állami foglalkoztatási szerv szolgáltatásának vagy támogatásának igénybevétele.
+b)[^9] munkahelyhez jutásához várhatóan szükséges és célszerű az állami foglalkoztatási szerv szolgáltatásának, támogatásának vagy munkaerőpiaci programjának igénybevétele.
 
-(6) Az egyéni cselekvési tervben foglaltak teljesülését az állami foglalkoztatási szerv az egyéni cselekvési tervben meghatározott időpontban – legalább három havonta – a szolgáltatást kérővel közösen értékeli. Az egyéni cselekvési tervet az abban foglaltak teljesítésével kapcsolatos értékelést követően, a szolgáltatást kérő jelenlétében lehet felülvizsgálni és módosítani.
+(6)[^10] Az állami foglalkoztatási szerv biztosítja, hogy az álláskeresőnek naprakész információja legyen az egyéni cselekvési terv tartalmáról. Amennyiben kötelező együttműködési elemet ír elő az állami foglalkoztatási szerv az egyéni cselekvési tervben, az álláskereső erről szóló tájékoztatását igazolnia kell elektronikusan vagy személyes átvétellel.
+
+(7)[^11] Az egyéni cselekvési tervben foglaltak teljesülését az állami foglalkoztatási szerv az egyéni cselekvési tervben meghatározott időpontban – legalább három havonta – a szolgáltatást kérővel közösen értékeli. Az egyéni cselekvési tervet az abban foglaltak teljesítésével kapcsolatos értékelést követően, a szolgáltatást kérő jelenlétében lehet felülvizsgálni és módosítani.
+
+[^6]: Az 5. § (1) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 5. § (3) bekezdés a) pontja a 687/2023. (XII. 29.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 5. § (5) bekezdés b) pontja a 687/2023. (XII. 29.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^10]: Az 5. § (6) bekezdése a 687/2023. (XII. 29.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^11]: Az 5. § (7) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 3. § (5) bekezdése iktatta be.

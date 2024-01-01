@@ -1,61 +1,33 @@
-1. melléklet a 100/2021. (II. 27.) Korm. rendelethez
+1. melléklet a 100/2021. (II. 27.) Korm. rendelethez[^76]
 
-A nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezet szolgáltatás nyújtásának személyi feltételei
+A szolgáltatásnyújtás személyi feltételei
 
 1. Információnyújtás feltétele:
 
-1.1. A nyilvántartásba vett foglalkoztatást elősegítő szolgáltatást nyújtó szervezet vagy általa – legalább heti húsz órában foglalkoztatásra irányuló jogviszony keretében – foglalkoztatott legalább egy személy
+1.1. felsőfokú végzettséggel rendelkező munkavállaló esetében legalább egy éves foglalkoztatási területen szerzett szakmai tapasztalat, vagy egy év igazolt szakmai tapasztalat a 17. § (7) bekezdésében felsorolt területek valamelyikén és valamely képzettségi területen alapszakos, mesterszakos vagy osztatlan egyetemi diploma (korábbi főiskolai vagy egyetemi végzettség), vagy
 
-1.1.1. legalább felsőfokú végzettséggel rendelkezik, vagy
+1.2. középfokú végzettséggel rendelkező munkavállaló esetén legalább három éves foglalkoztatási területen szerzett szakmai tapasztalat.
 
-1.1.2. legalább középfokú végzettséggel, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik.
+1.3. Az EURES információnyújtás esetében: B2 szintű angol, német vagy további EU-s nyelvismeret szükséges.
 
-2. Tanácsadás feltétele, hogy a foglalkoztatást elősegítő szolgáltatást nyújtó szervezet vagy az általa – legalább heti húsz órában foglalkoztatásra irányuló jogviszony keretében – foglalkoztatott legalább egy személy a tanácsadás jellegének megfelelő, felsőfokú szakirányú alábbi végzettséggel rendelkezik:
+2. A munka-pályatanácsadás, álláskeresési tanácsadás, munkaerőpiaci mentori szolgáltatás nyújtásának személyi feltételei:
 
-2.1. pszichológus vagy viselkedéselemző végzettség vagy tanácsadó szakpszichológus végzettség, munka- és pályatanácsadó specializációval vagy munka- és szervezetpszichológiai szakpszichológus végzettség, okleveles pszichológus végzettség (munka- és szervezetpszichológia vagy tanácsadás- és iskolapszichológia specializáción),
+Egy év igazolt szakmai tapasztalat a 17. § (7) bekezdésében felsorolt területek valamelyikén és valamely képzettségi területen alapszakos, mesterszakos vagy osztatlan egyetemi diploma (korábbi főiskolai vagy egyetemi végzettség), és elfogadható más képzési terület, amennyiben szakirányú továbbképzéssel befejezett végzettséggel rendelkezik az alábbiakban felsorolt képzési terültek valamelyikén:
 
-2.2. andragógus vagy okleveles andragógus végzettség,
+a) Államtudományi
 
-2.3. bölcsészettudományi vagy közgazdasági felsőoktatásban szerzett szakképzettség,
+b) Bölcsésztudományi
 
-2.4. egészségügyi végzettségek: orvos, okleveles orvosdoktor, egészségügyi szociális munka, komplex rehabilitáció, rekreációs végzettség,
+c) Gazdaságtudományi
 
-2.5. egyetemen vagy főiskolán szerzett tanári, tanítói, óvodapedagógusi végzettség,
+d) Jogi
 
-2.6. egyetemi szintű jogász, okleveles jogász végzettség,
+e) Pedagógusképzés
 
-2.7. felsőfokú humán (pedagógia, pszichológia, szociológia, kommunikáció) végzettség,
+f) Társadalomtudományi
 
-2.8. felsőfokú mentálhigiénés végzettség,
+Szakirányú végzettség hiányában legalább három év szakmai területen végzett gyakorlati idő szükséges.
 
-2.9. felsőoktatási diáktanácsadó posztgraduális végzettség,
+Pszichológiai tanácsadás nyújtásának személyi feltétele: szakirányú végzettség.
 
-2.10. gyógypedagógus, gyógypedagógus bármilyen szakirányon vagy okleveles gyógypedagógus végzettség,
-
-2.11. igazgatásszervező, humánszervező, emberi erőforrás tanácsadó, emberi erőforrás menedzser,
-
-2.12. interkulturális pszichológia és pedagógiai vagy neveléstudományi végzettség,
-
-2.13. munka- és pályatanácsadó végzettség,
-
-2.14. munkavállalási tanácsadó, munkaügyi kapcsolatok vagy személyügyi szervező szakképzettség, okleveles munkaügyi és társadalombiztosítási szakember (munkaügyi kapcsolatok specializáción),
-
-2.15. pályaorientációs tanár végzettség,
-
-2.16. romológus végzettség,
-
-2.17. személyügyi szervező szakképzettség,
-
-2.18. szociális menedzser vagy szociális szervező végzettség,
-
-2.19. szociális munkás, szociálpolitikus vagy okleveles szociálpolitikus szakképzettség,
-
-2.20. szociálpedagógiai végzettség, szociálpedagógus végzettség,
-
-2.21. szociológus szakképzettség, szociológia alapszakos szakelőadó, okleveles szociológus végzettség,
-
-2.22. tanulási és pályatanácsadó pedagógus végzettség vagy
-
-2.23. fel nem sorolt egyetemi vagy főiskolai szintű végzettség és munkaügyi, társadalombiztosítási, személyügyi, személyzeti szakképzettség vagy szakképesítés vagy szakirányú továbbképzésben szerzett személyügyi szakigazgatás-szervező szakképzettség, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik,
-
-2.24. középiskolai végzettség és államilag elismert felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző vagy szociális asszisztens szakképzettség vagy szakképesítés, és ezen a területen szerzett legalább két év szakmai gyakorlattal rendelkezik.
+[^76]: Az 1. melléklet a 687/2023. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.

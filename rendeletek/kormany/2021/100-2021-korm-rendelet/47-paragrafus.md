@@ -11,3 +11,13 @@
 (4) E rendelet hatálybalépését követően az állami foglalkoztatási szerv a 2021. évi éves szolgáltatási tervet 2021. április 30-ig készíti el.
 
 (5) A munkaerőigény bejelentésével összefüggő kötelezettségének a foglalkoztató 2021. november 1-jéig az e rendelet hatálybalépése előtti szabályozás alapján is eleget tehet.
+
+(6)[^73] E rendelet alapján
+
+a) a 14/A. alcím szerinti támogatás esetén 2031. június 30-ig és a 14/B. alcím szerinti támogatás esetén 2028. június 30-ig,
+
+b) a 14/C. és a 14/D. alcím szerinti támogatás esetén 2027. június 30-ig
+
+lehet támogatási döntést hozni.
+
+[^73]: A 47. § (6) bekezdését a 687/2023. (XII. 29.) Korm. rendelet 26. §-a iktatta be.

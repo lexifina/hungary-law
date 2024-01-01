@@ -4,6 +4,6 @@
 
 (2) Állami foglalkoztatási szerv munkaerőpiaci programot a miniszter egyetértésével az állami foglalkoztatási szerv honlapján hirdet meg.
 
-(3)[^7] Több vármegyére kiterjedő vagy országos szintű munkaerőpiaci programot a miniszter az állami foglalkoztatási szerv honlapján hirdet meg.
+(3)[^31] Több vármegyére kiterjedő vagy országos szintű munkaerőpiaci programot a miniszter az állami foglalkoztatási szerv honlapján hirdet meg.
 
-[^7]: A 20. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 314. § a) pontja szerint módosított szöveg.
+[^31]: A 20. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 314. § a) pontja szerint módosított szöveg.
