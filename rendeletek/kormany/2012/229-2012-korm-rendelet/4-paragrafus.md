@@ -32,6 +32,8 @@
 
 14.[^23] a működést megalapozó végleges működési engedélyt, a nyilvántartásba vételről szóló dokumentumot, a működéshez szükséges határozat számát, keltét és az engedélyező hatóság nevét.
 
+15.[^24] a jogutódlással, átalakulással, fenntartóváltozással, intézményi átszervezéssel kapcsolatos alapítói, fenntartói határozat számát és a döntést tartalmazó határozatot.
+
 (2) Az intézménytörzsben a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 21. § (1) bekezdése szerinti nyilvántartásból átvett adatokat és okiratokat változatlan tartalommal kell nyilvántartani.
 
 [^16]: A 3/A. §-t a 73/2013. (III. 8.) Korm. rendelet 19. §-a iktatta be.
@@ -42,3 +44,4 @@
 [^21]: A 4. § (1) bekezdés 7. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dc) alpontja szerint módosított szöveg.
 [^22]: A 4. § (1) bekezdés 10. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § d) pont dd) alpontja, a 13/2020. (II. 7.) Korm. rendelet 73. § 2. pontja szerint módosított szöveg.
 [^23]: A 4. § (1) bekezdés 14. pontja a 457/2017. (XII. 28.) Korm. rendelet 402. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^24]: A 4. § (1) bekezdés 15. pontját a 403/2023. (VIII. 30.) Korm. rendelet 8. §-a iktatta be.

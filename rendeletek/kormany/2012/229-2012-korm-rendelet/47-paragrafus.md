@@ -1,25 +1,9 @@
-47. § (1)[^275]
+47. § (1)[^270]
 
-(2)[^276] A 33. § (1) bekezdés b) pontjának bd) alpontja szerinti egyéb foglalkozás alatt a 2012/2013-as tanévben a napközis és tanulószobai foglalkozások megszervezését is érteni kell.
+(2)[^271]
 
-(3)[^277] Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 35. § (2) bekezdésében meghatározott feladat megvalósítása érdekében a nem állami köznevelési intézmény fenntartója köznevelési intézményenként, ezen belül foglalkoztatottanként a köznevelési alapfeladatban közreműködő foglalkoztatottakról, köznevelési alapfeladatonkénti bontásban 2013. március 20-ig közli a KIR honlapján keresztül
+(3)[^272]
 
-a) a nevelő-oktató munkát közvetlenül segítő alkalmazottak, a pedagógusok, pedagógiai előadók, pedagógiai szakértők 2013. január havi illetményét, munkabérét és ezek járulékait, továbbá a munkavégzéshez kapcsolódó személyi jellegű rendszeres vagy jogszabály által előírt kötelező egyéb kifizetést,
-
-b) az óraadók január havi díját,
-
-c) annak tényét, ha az alkalmazott vezető beosztású vagy nyugdíjas,
-
-d) a heti munkaidő mértékét,
-
-e) az alkalmazott besorolásának alapjául szolgáló fizetési osztályt és fokozatot, tudományos fokozatát,
-
-f) a foglalkoztatás időtartamát, határozott idejű jogviszony esetén a jogviszony végét,
-
-g) a tartós távollét végét,
-
-h) azt a jellemző köznevelési alapfeladatot, amelyben az alkalmazott közreműködik.
-
-[^275]: A 47. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 202. § (3) bekezdése hatályon kívül helyezte.
-[^276]: A 47. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^277]: A 47. § (3) bekezdése a 73/2013. (III. 8.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^270]: A 47. § (1) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 202. § (3) bekezdése hatályon kívül helyezte.
+[^271]: A 47. § (2) bekezdését a 403/2023. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
+[^272]: A 47. § (3) bekezdését a 403/2023. (VIII. 30.) Korm. rendelet 15. § d) pontja hatályon kívül helyezte.
