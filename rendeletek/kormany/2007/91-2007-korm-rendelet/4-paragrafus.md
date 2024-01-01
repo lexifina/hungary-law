@@ -1,6 +1,6 @@
 ## Általános rendelkezések
 
-4. § (1)[^1] A környezetvédelmi és természetvédelmi hatóság (a továbbiakban együtt: környezetvédelmi hatóság) az 5. § (1) bekezdés szerinti kivizsgálás során, valamint a kármentesítés minden szakaszában a természetben okozott károsodás helye szerinti nemzeti park igazgatóság, illetve vízügyi igazgatóság szakvéleményét beszerzi.
+4. § (1)[^1] A környezetvédelmi és természetvédelmi hatóság (a továbbiakban együtt: környezetvédelmi hatóság) az 5. § (1) bekezdés szerinti kivizsgálás során, valamint a kármentesítés minden szakaszában a természetben okozott károsodás helye szerinti nemzeti park igazgatóság, illetve – amennyiben a feladatkörét érinti – vízügyi igazgatóság szakvéleményét beszerzi.
 
 (1a)[^2]
 
@@ -16,7 +16,7 @@
 
 (7) Amennyiben a kármentesítés több környezeti elemet érint és a kármentesítést az érintett környezeti elemekre nézve csak együttesen, egymásra tekintettel lehet elvégezni a tényfeltárásnak, (ennek keretében a tényfeltárási tervnek és a tényfeltárási záródokumentációnak) a beavatkozásnak (ennek keretében a beavatkozási tervnek és a beavatkozási záródokumentációnak) valamennyi érintett környezeti elemre ki kell terjednie, illetve az összes érintett környezeti elemre kiterjedő egységes határozatot kell hozni.
 
-[^1]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 542. §-a, a 300/2011. (XII. 22.) Korm. rendelet 16. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 386. §-a, a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés a) pontja, a 147/2015. (VI. 12.) Korm. rendelet 2. §-a, a 379/2016. (XII. 2.) Korm. rendelet 94. §-a, a 360/2019. (XII. 30.) Korm. rendelet 48. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^1]: A 4. § (1) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 542. §-a, a 300/2011. (XII. 22.) Korm. rendelet 16. § a) pontja, a 221/2014. (IX. 4.) Korm. rendelet 386. §-a, a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés a) pontja, a 147/2015. (VI. 12.) Korm. rendelet 2. §-a, a 379/2016. (XII. 2.) Korm. rendelet 94. §-a, a 360/2019. (XII. 30.) Korm. rendelet 48. §-a, az 561/2023. (XII. 14.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^2]: A 4. § (1a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 99. § (1) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 88. §-a, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^3]: A 4. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 99. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^4]: A környezetkárosodás megelőzésének és elhárításának rendjéről szóló 90/2007. (IV. 26.) Korm. r.

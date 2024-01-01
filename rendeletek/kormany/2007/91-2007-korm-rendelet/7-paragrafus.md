@@ -8,7 +8,7 @@ b) tényfeltárási záródokumentáció készítéséből, továbbá
 
 c) ha a természetben okozott károsodás megállapításának bonyolultsága azt szükségessé teszi, tényfeltárási terv készítéséből
 
-## áll.
+áll.
 
 (2) A tényfeltárásra kötelező határozat tartalmazza:
 

@@ -106,7 +106,7 @@
 
 2. számú melléklet a 91/2007. (IV. 26.) Korm. rendelethez
 
-## A természetben okozott károsodás felszámolásának szempontjai, valamint a hatóság által előírható beavatkozási intézkedések
+A természetben okozott károsodás felszámolásának szempontjai, valamint a hatóság által előírható beavatkozási intézkedések
 
 A természetben okozott károsodások felszámolása elsődleges, kiegészítő és kompenzációs[^25] helyreállítás útján történik az 1. § (1) bekezdésben meghatározott értékek és területek eredeti állapotba való visszaállításával.
 
