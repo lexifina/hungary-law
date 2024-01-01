@@ -14,9 +14,11 @@ b) az a) pontba nem sorolt központi költségvetési szervnél közalkalmazottk
 
 c) az államháztartás központi alrendszerébe sorolt köztestületnél köztisztviselőként, közalkalmazottként vagy munkavállalóként,
 
-d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként vagy
+d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként,
 
-e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként
+e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként vagy
+
+f) a pedagógusok új életpályájáról szóló törvény szerinti állami fenntartású köznevelési intézménynél köznevelési foglalkoztatotti jogviszonyban álló személyként
 
 foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
 

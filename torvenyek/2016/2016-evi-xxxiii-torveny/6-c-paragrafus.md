@@ -28,7 +28,7 @@ be) munkahelyi telefonszámát,
 
 bf) munkakörét, illetve beosztását,
 
-bg) jelenlegi alapjogviszonya jellegét (kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, munkaviszony, adó- és vámhatósági szolgálati jogviszony, egészségügyi szolgálati jogviszony)
+bg) jelenlegi alapjogviszonya jellegét (kormányzati szolgálati jogviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, munkaviszony, adó- és vámhatósági szolgálati jogviszony, egészségügyi szolgálati jogviszony, köznevelési foglalkoztatotti jogviszony)
 
 bh) jelenlegi jogviszonyának kezdetét,
 
