@@ -1,6 +1,6 @@
 ## Korábbi, megbízott kamarai tag könyvvizsgáló foglalkoztatásának tilalma
 
-65/A. § A kamarai tag könyvvizsgáló, a jogszabályi kötelezettségen alapuló könyvvizsgálatot egy könyvvizsgáló cég nevében elvégző fő könyvvizsgáló partner a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység elvégzésére irányuló megbízás megszűnését követően legalább egy éven át, közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálata esetében legalább két éven át
+65/A. § A kamarai tag könyvvizsgáló, a jogszabályi kötelezettségen alapuló könyvvizsgálatot egy könyvvizsgáló cég nevében elvégző fő könyvvizsgáló partner a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) elvégzésére irányuló megbízás megszűnését követően legalább egy éven át, közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálata esetében legalább két éven át
 
 a) nem tölthet be vezető tisztséget a vizsgált gazdálkodónál;
 

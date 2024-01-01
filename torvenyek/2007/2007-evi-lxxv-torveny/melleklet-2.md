@@ -24,6 +24,8 @@ IFRS
 
 Kibocsátói
 
+## Fenntarthatósági
+
 2. A kérelemnek tartalmazni kell az alábbi adatokat:
 
 1. Név, jogi forma megjelölésével,
@@ -34,9 +36,9 @@ Kibocsátói
 
 4. Kamarai nyilvántartási szám.
 
-3. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez (neve; tagsági száma).
+## 3. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) végez (neve; tagsági száma).
 
-4. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy vállalja, hogy működése során az a kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
+## 4. Könyvvizsgáló cég vezető tisztségviselőjének nyilatkozata arról, hogy vállalja, hogy működése során az a kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
 
 5. A kérelemnek tartalmazni kell a minőségellenőrzésre vonatkozó alábbi adatokat:
 

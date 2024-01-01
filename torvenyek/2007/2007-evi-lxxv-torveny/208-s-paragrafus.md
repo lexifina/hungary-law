@@ -1,0 +1,1 @@
+208/S. § E törvénynek a Mód3. törvény által megállapított 50. § (2e) bekezdés b) pontjában foglalt követelményt nem kell alkalmazni a 2024. január 1-jén könyvvizsgálói képzésben részt vett kamarai tag könyvvizsgálók, vagy könyvvizsgáló jelöltek esetében, feltéve hogy a szakmai kompetencia vizsgát 2026. január 1-jéig leteszik.

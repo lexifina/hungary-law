@@ -1,0 +1,1 @@
+67/C. § A közérdeklődésre számot tartó gazdálkodó fenntarthatósági jelentésére vonatkozó bizonyosság nyújtása során a nem könyvvizsgálói szolgáltatások nyújtásának tilalma tekintetében a Rendelet 5. cikkének (1), valamint (4) és (5) bekezdését kell alkalmazni.

@@ -1,4 +1,4 @@
-196. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők érdekét veszélyeztető helyzet észlelése esetén a 195. § (1) bekezdése szerinti eljárás alapján rendelkezésére álló tények elemzése, értékelése, mérlegelése alapján a következő intézkedések alkalmazhatók:
+196. § (1) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) igénybe vevők érdekét veszélyeztető helyzet észlelése esetén a 195. § (1) bekezdése szerinti eljárás alapján rendelkezésére álló tények elemzése, értékelése, mérlegelése alapján a következő intézkedések alkalmazhatók:
 
 a) kötelezés továbbképzésen való részvételre,
 
@@ -6,7 +6,7 @@ b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésér
 
 c) fegyelmi eljárás kezdeményezése,
 
-d) kötelezés könyvvizsgálat ismételt elvégzésére, vagy a könyvvizsgálói jelentés visszavonására,
+d) kötelezés a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ismételt elvégzésére, vagy a könyvvizsgálói jelentés, adott esetben a bizonyossági jelentés visszavonására,
 
 e) pénzbírság kiszabása,
 

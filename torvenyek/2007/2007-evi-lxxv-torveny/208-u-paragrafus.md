@@ -1,0 +1,1 @@
+208/U. § E törvénynek a Mód3. törvény által megállapított 23/B. §-át és 48/B. §-át a 2025. üzleti évi fenntarthatósági jelentésekre vonatkozó bizonyossági dokumentáció elkészítése, archiválása és megőrzése során kell először alkalmazni.

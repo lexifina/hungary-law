@@ -1,6 +1,6 @@
 ## Szakmai szkepticizmus
 
-65/B. § (1) A kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a nemzetközi könyvvizsgálati standardok szerinti szakmai szkepticizmussal kell eljárnia.
+65/B. § (1) A kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a nemzeti könyvvizsgálati standardok és a bizonyosságot nyújtó megbízásokra vonatkozó standardok szerinti szakmai szkepticizmussal kell eljárnia.
 
 (2) Az (1) bekezdés szerinti szakmai szkepticizmus alkalmazására különösen figyelemmel kell lenni a valós értékekre, az eszközök értékvesztésére, a céltartalékokra, valamint a gazdálkodó tevékenységének folytatására vonatkozó képessége szempontjából lényeges jövőbeni cash flow-kra vonatkozó vezetői becslések vizsgálatakor.
 

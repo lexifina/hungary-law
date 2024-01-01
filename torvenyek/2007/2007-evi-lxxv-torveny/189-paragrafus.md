@@ -2,7 +2,7 @@
 
 a) a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezését, a kamarai nyilvántartások vezetését,
 
-b) a magyar nemzeti könyvvizsgálati standardok, a kamara etikai szabályzata, valamint a belső minőségellenőrzésre vonatkozó nemzeti standardok (a továbbiakban együttesen: szakmai standardok) kialakítását, elfogadását,
+b) a magyar nemzeti könyvvizsgálati standardok, a kamara etikai szabályzata, a minőségirányítási standardok, valamint a bizonyosságot nyújtó megbízásokra vonatkozó standardok (a továbbiakban együttesen: szakmai standardok) kialakítását, elfogadását,
 
 c) a szakmai továbbképzési rendszer és a minőségbiztosítási rendszer működését,
 

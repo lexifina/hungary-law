@@ -2,13 +2,13 @@
 
 a) irányítja a kamara minőségbiztosítási rendszerét,
 
-b) ellenőrzi és értékeli a magyar nemzeti könyvvizsgálati standardok, valamint a belső minőségellenőrzésre vonatkozó nemzeti standardok érvényesülését,
+b) ellenőrzi és értékeli a magyar nemzeti könyvvizsgálati standardok érvényesülését,
 
 c) ellenőrzi és értékeli a függetlenséggel kapcsolatos szabályok betartását,
 
-d) ellenőrzi és értékeli, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység díja összhangban van-e az 54. § előírásaival,
+d) ellenőrzi és értékeli, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) díja összhangban van-e az 54. § előírásaival,
 
-e) ellenőrzi és értékeli a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység során felhasznált erőforrások mennyiségét és minőségét,
+e) ellenőrzi és értékeli a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) során felhasznált erőforrások mennyiségét és minőségét,
 
 f) ellenőrzi a 171. § szerinti, határozatba foglalt kötelezettségek végrehajtását,
 

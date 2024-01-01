@@ -1,0 +1,1 @@
+48/D. § A kamarai tag könyvvizsgálónak, illetve a könyvvizsgáló cégnek nyilvántartást kell vezetnie az elvégzett, jogszabály szerint engedélyezett könyvvizsgálatok (ideértve a fenntarthatósági jelentésekre vonatkozó bizonyosság nyújtását is) teljesítésével kapcsolatos, írásban benyújtott panaszokról.

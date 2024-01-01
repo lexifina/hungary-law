@@ -15,3 +15,5 @@
 (6) Nem jelenti a titoktartási kötelezettség megszegését a Rendelet 12. cikk (1) bekezdése szerinti információk, vagy a Rendelet 12. cikk (2) bekezdésében előírt párbeszéd során felmerülő bármilyen információ jóhiszemű közlése a közérdeklődésre számot tartó gazdálkodót felügyelő illetékes hatósággal, illetve a kamarával, a közfelügyeleti hatósággal, más illetékes hatósággal, valamint az Európai Rendszerkockázati Testülettel (a továbbiakban: ERKT) és az Európai Könyvvizsgálat-felügyeleti Szervek Bizottságával (a továbbiakban: CEAOB).
 
 (6a) A (6) bekezdés előírásait kell alkalmazni a Rendelet 12. cikk (2) bekezdésén kívüli közérdeklődésre számot tartó gazdálkodó kamarai tag könyvvizsgálója, könyvvizsgáló cége esetében is.
+
+(6b) A 66. §-ban, valamint az (1)–(6a) bekezdésben foglaltakat a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása során is megfelelően alkalmazni kell.

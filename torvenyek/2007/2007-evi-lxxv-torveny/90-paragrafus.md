@@ -15,3 +15,5 @@ e) számvitel és elemzés,
 f) könyvvizsgálat és ellenőrzés,
 
 g) pénzügyi és számviteli információs rendszerek.
+
+h) fenntarthatósági jelentés könyvvizsgálata.

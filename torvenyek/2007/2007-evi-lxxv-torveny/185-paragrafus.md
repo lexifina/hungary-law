@@ -13,3 +13,5 @@
 (7) A kamara a tárgyévi közfelügyeleti díj vonatkozásában január 31-ig és július 30-ig előleget köteles fizetni a közfelügyeleti hatóság fizetési számlájára. Az előlegek összege az (5) bekezdés szerinti felügyeleti díj – megelőző évek adatainak figyelembe vételével kalkulált – várható összegének 50-50%-a. Az előlegek összege a (6) bekezdés szerinti kötelezettség teljesítésébe beleszámít.
 
 (8) A közfelügyeleti hatóság jogosult a közfelügyeleti díj összegének meghatározására, valamint alátámasztására szolgáló adatok ellenőrzésére.
+
+(9) A közfelügyeleti hatóságot olyan, nem gyakorló szakembereknek kell irányítaniuk, akik megfelelő ismeretekkel, és tapasztalattal rendelkeznek a jogszabályi kötelezettségen alapuló könyvvizsgálat, valamint a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása tekintetében.

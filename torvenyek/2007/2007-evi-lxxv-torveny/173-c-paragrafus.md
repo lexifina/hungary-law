@@ -8,7 +8,7 @@
 
 (5) A közfelügyeleti hatóság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
 
-(6) A minőségellenőrzés során hozott véglegessé vált határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása során teljesítenie kell.
+(6) A minőségellenőrzés során hozott véglegessé vált határozatban foglalt kötelezettségeket az ellenőrzés alá vont kamarai tag könyvvizsgálónak, könyvvizsgáló cégnek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) ellátása során teljesítenie kell.
 
 (7) A minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
 
@@ -18,7 +18,7 @@ b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésér
 
 c)
 
-d) kötelezés könyvvizsgálat ismételt elvégzésére vagy a könyvvizsgálói jelentés visszavonására,
+d) kötelezés a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ismételt elvégzésére vagy a könyvvizsgálói jelentés, adott esetben a bizonyossági jelentés visszavonására,
 
 e) pénzbírság kiszabása,
 

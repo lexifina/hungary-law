@@ -13,3 +13,5 @@ e) költségvetési minősítés,
 f) IFRS minősítés,
 
 g) kibocsátói minősítés.
+
+h) fenntarthatósági minősítés.

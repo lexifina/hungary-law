@@ -12,7 +12,7 @@
 
 a) ellátja a jogkörébe tartozó közigazgatási hatósági ügyek intézését,
 
-b) közfelügyeleti hatóság jóváhagyásával megalkotja és naprakészen tartja a könyvvizsgálati, valamint az átvilágítási megbízásokra, a bizonyosságot nyújtó megbízásokra, a kapcsolódó szolgáltatásokra és a belső minőségellenőrzésre, könyvvizsgálók, könyvvizsgáló cégek belső szervezetére és a könyvvizsgáló munka megszervezésére vonatkozó nemzeti standardokat,
+b) közfelügyeleti hatóság jóváhagyásával megalkotja és naprakészen tartja a könyvvizsgálati, valamint az átvilágítási megbízásokra, a bizonyosságot nyújtó megbízásokra, a kapcsolódó szolgáltatásokra és a belső minőségirányításra, könyvvizsgálók, könyvvizsgáló cégek belső szervezetére és a könyvvizsgáló munka megszervezésére vonatkozó nemzeti standardokat,
 
 c) meghatározza az okleveles könyvvizsgálói szakképesítés szakmai és vizsgáztatási követelményeit, ellátja a vizsgáztatási feladatokat, és a képzés irányításával, felügyeletével kapcsolatos hatósági feladatokat, meghatározza a szakképesítés tartalmi kereteit, szabályozza a képzésben közreműködő szervezetek feladatait, gondoskodik a feladatellátás minőségbiztosításáról,
 

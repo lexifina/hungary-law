@@ -2,9 +2,9 @@
 
 a) a könyvvizsgálói tevékenységi engedélyét e törvény rendelkezéseivel egyenértékű előírások alapján szerezte meg,
 
-b) a könyvvizsgálói tevékenységet az Európai Unióban elfogadott nemzetközi könyvvizsgálati standardoknak vagy azzal egyenértékű standardoknak megfelelően végzi,
+b) a könyvvizsgálói tevékenységet és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet az Európai Unióban elfogadott nemzetközi könyvvizsgálati standardoknak vagy azzal egyenértékű standardoknak és adott esetben a bizonyossági standardoknak megfelelően végzi,
 
-c) a könyvvizsgálói tevékenység során a függetlenség, az objektivitás, a pártatlanság és a könyvvizsgálat díja tekintetében az e törvényben foglaltakkal egyenértékű szabályok szerint jár el,
+c) a könyvvizsgálói tevékenység és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység során a függetlenség, az objektivitás, a pártatlanság, továbbá a könyvvizsgálat díja és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység díja tekintetében az e törvényben foglaltakkal egyenértékű szabályok szerint jár el,
 
 d) honlapján éves átláthatósági jelentést tesz közzé az e törvényben szabályozott módon és esetben, vagy ezzel egyenértékű közzétételi követelményeknek tesz eleget.
 

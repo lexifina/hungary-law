@@ -8,13 +8,13 @@
 
 (1d) Ha a 49. § szerinti minősítés iránti kérelem, valamint az 50. § (2c) bekezdés szerinti igazolás iránti kérelem a közfelügyeleti hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem bírálható el, a közfelügyeleti hatóság az eljárást felfüggeszti.
 
-(2) Kérelem alapján minősítést a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
+(2) Kérelem alapján minősítést (ide nem értve a 49/A. § h) pontja szerinti minősítést) a kamarai tag könyvvizsgáló akkor kaphat, ha igazolja, hogy a minősítés megadása iránti kérelem benyújtását megelőző 5 éven belül
 
 a) legalább három éven vagy három üzleti éven át a minősítésnek megfelelő tevékenységet végző (IFRS-minősítés esetén a beszámolóját a nemzetközi számviteli standardok szerint összeállító) gazdálkodóra vonatkozóan számviteli, ellenőrzési tevékenységet végzett (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is) és legalább kétéves vagy két üzleti évre kiterjedő gyakorlata van a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában (ideértve az ehhez kapcsolódó szabályozási és felügyeleti feladatokat is), vagy
 
-b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező minősítésű kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
+b) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és a kérelmezett minősítéssel egyező minősítéssel rendelkező kamarai tag könyvvizsgáló mellett legalább két évig vagy két üzleti éven át közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály a kérelmezett minősítés meglétét előírja, vagy
 
-c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette a kérelmezett minősítésre előírt szakmai minősítő vizsgát.
+c) legalább három éven vagy három üzleti éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven vagy három üzleti éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és rendelkezik a kérelmezett minősítésre előírt szakmai minősítő vizsgával, vagy azzal egyenértékű vizsgával.
 
 (2a) A kamarai tag könyvvizsgáló a Hpt. 8. § (4) bekezdése szerinti hitelintézetnél (a továbbiakban: bank) pénzügyi intézményi minősítés birtokában is csak akkor végezhet a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet, ha rendelkezik a közfelügyeleti hatóság által elismert, a feltételek teljesülésének igazolása iránti kérelem benyújtását megelőző 5 éven belüli:
 
@@ -30,11 +30,17 @@ c) a (2) bekezdés b) pontja szerint a pénzügyi intézményi minősítésű ka
 
 (2d) A (2c) bekezdés szerinti igazolás, a kiállításának naptári évét követő naptári év utolsó napjáig jogosít banknál a 3. § (1) bekezdés a) pontja szerinti jogszabályi kötelezettségen alapuló könyvvizsgálatra vonatkozó megbízás elfogadására.
 
+(2e) Fenntarthatósági minősítést az a kamarai tag könyvvizsgáló kaphat, aki
+
+a) sikeresen teljesítette a fenntarthatósági minősítéshez kapcsolódó szakmai minősítő vizsgát, vagy az okleveles könyvvizsgálói képzésben sikeresen teljesítette a fenntarthatósági jelentés könyvvizsgálata című modult, valamint
+
+b) a kérelmezett minősítéssel egyező minősítéssel rendelkező kamarai tag könyvvizsgáló mellett legalább egy évig vagy egy üzleti éven át közreműködött fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység ellátásában olyan gazdálkodó vonatkozásában, amelyre jogszabály fenntarthatósági jelentés összeállítását írja elő.
+
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 
-a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez, és
+a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelkező kamarai tag könyvvizsgáló tagja vagy munkavállalója, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) végez, és
 
-b) vállalja, hogy működése során az a kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
+b) vállalja, hogy működése során az a kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet (ideértve adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
 
 (4) A 49/A. § a)–d) és f)–g) pontjában meghatározott minősítés megadása iránti kérelem elbírálása során ki kell kérni a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank egyetértését, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
 

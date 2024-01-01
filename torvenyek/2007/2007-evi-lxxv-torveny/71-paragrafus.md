@@ -2,11 +2,11 @@
 
 a) a legfőbb irányító (vezető) szerve tagjainak többsége eleget tesz e törvény kamarai tagként való nyilvántartásba vételre vonatkozó követelményeivel egyenértékű előírásoknak,
 
-b) a nevében könyvvizsgálatot végző harmadik országbeli könyvvizsgáló eleget tesz e törvény kamarai tagként való nyilvántartásba vételre vonatkozó követelményeivel egyenértékű előírásoknak,
+b) a nevében könyvvizsgálatot végző és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását végző harmadik országbeli könyvvizsgáló eleget tesz e törvény kamarai tagként való nyilvántartásba vételre vonatkozó követelményeivel egyenértékű előírásoknak,
 
-c) a könyvvizsgálói tevékenységet az Európai Unióban elfogadott nemzetközi könyvvizsgálati standardoknak vagy azzal egyenértékű standardoknak megfelelően végzi,
+c) a könyvvizsgálói tevékenységet és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenységet az Európai Unióban elfogadott nemzetközi könyvvizsgálati standardoknak és adott esetben a bizonyossági standardoknak vagy azzal egyenértékű standardoknak megfelelően végzi,
 
-d) a könyvvizsgálói tevékenység során a függetlenség, az objektivitás, a pártatlanság és a könyvvizsgálat díja tekintetében az e törvényben foglaltakkal egyenértékű szabályok szerint jár el,
+d) a könyvvizsgálói tevékenység és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására irányuló tevékenység során a függetlenség, az objektivitás, a pártatlanság és a könyvvizsgálat díja tekintetében az e törvényben foglaltakkal egyenértékű szabályok szerint jár el,
 
 e) honlapján éves átláthatósági jelentést tesz közzé az e törvényben szabályozott módon és esetben, vagy ezzel egyenértékű közzétételi követelményeknek tesz eleget.
 

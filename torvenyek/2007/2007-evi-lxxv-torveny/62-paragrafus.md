@@ -26,4 +26,4 @@ a) rendelkezik-e a könyvvizsgálat elvégzéséhez szükséges megfelelő szakt
 
 b) rendelkezik-e a könyvvizsgálat elvégzéséhez szükséges idővel és erőforrással;
 
-c) a fő könyvvizsgáló partner szerepel-e a kamara tag könyvvizsgálók nyilvántartásában.
+c) a fő könyvvizsgáló partner szerepel-e a kamarai tag könyvvizsgálók nyilvántartásában.

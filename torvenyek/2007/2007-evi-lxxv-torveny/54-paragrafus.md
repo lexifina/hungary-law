@@ -1,6 +1,6 @@
 ## A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység díja
 
-54. § (1) A kamarai tag könyvvizsgálónak, a könyvvizsgáló cégnek joga van a megfelelő díjazáshoz. A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység díja szabad megállapodás tárgya.
+54. § (1) A kamarai tag könyvvizsgálónak, a könyvvizsgáló cégnek joga van a megfelelő díjazáshoz. A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység (ideértve a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtását is) díja szabad megállapodás tárgya.
 
 (2) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásáért járó díjazásra a feladat jellege, időigénye, a feladat elvégzéséhez szükséges személyi és tárgyi feltételek, valamint az egyéb kalkulálható költségei figyelembevételével ad ajánlatot.
 

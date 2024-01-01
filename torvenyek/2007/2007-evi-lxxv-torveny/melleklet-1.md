@@ -24,6 +24,8 @@ IFRS
 
 Kibocsátói
 
+## Fenntarthatósági
+
 2. A kérelemnek tartalmazni kell az alábbi adatokat:
 
 1. Név,

@@ -6,7 +6,9 @@ a) a gazdálkodónál a számviteli jogszabályok szerinti beszámoló felülviz
 
 b) a gazdálkodó alapításakor, átalakulásakor, jogutód nélküli megszűnésekor a külön jogszabályban előírt értékelési, ellenőrzési, véleményezési (záradékolási) feladatok ellátása,
 
-c) a könyvvizsgálók jogszabályban meghatározott egyéb feladatának elvégzése.
+c) a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása,
+
+d) a könyvvizsgálók jogszabályban meghatározott egyéb feladatának elvégzése.
 
 (2) E törvény alkalmazásában jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységen kívüli egyéb szakmai szolgáltatás
 
