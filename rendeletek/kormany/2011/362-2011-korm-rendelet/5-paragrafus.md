@@ -10,7 +10,7 @@ c)[^11] a diákigazolványok megszemélyesítéséhez szükséges kártyafelhasz
 
 d) az OKTIG-rendszer és az egységes elektronikuskártya-kibocsátási keretrendszer központi nyilvántartásának vezetését támogató informatikai szakrendszer (a továbbiakban: NEK-rendszer) közötti kapcsolat létrehozását és a NEK-rendszer alkalmazásüzemeltetési és alkalmazásfejlesztési feladatait az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.)
 
-## látja el.
+látja el.
 
 (2a)[^12]
 

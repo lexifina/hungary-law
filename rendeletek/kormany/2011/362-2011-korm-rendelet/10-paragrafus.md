@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 4.[^50]
 
 10. § (1)[^51] Diákigazolvány

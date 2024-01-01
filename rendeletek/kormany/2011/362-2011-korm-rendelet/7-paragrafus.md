@@ -40,7 +40,7 @@ e) vezeti a 9. §-ban meghatározott nyilvántartást,
 
 f)[^37] belső szabályzatban szabályozza a diákigazolványok, az érvényesítő matricák és az egyéb nyomtatványok kezelésére vonatkozó szabályokat,
 
-g)[^38] vezetője kijelöli a diákigazolvány érvényesítése, bevonása és a jogszabályban előírt további feladatok megvalósításának végrehajtásáért felelős személyt,
+g)[^38] igazgatója kijelöli a diákigazolvány érvényesítése, bevonása és a jogszabályban előírt további feladatok megvalósításának végrehajtásáért felelős személyt,
 
 h) kiadja a 12. §-ban meghatározott igazolást.
 
@@ -59,4 +59,4 @@ h) kiadja a 12. §-ban meghatározott igazolást.
 [^35]: A 7. § (2) bekezdés c) pontja a 440/2016. (XII. 16.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 790/2021. (XII. 27.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
 [^36]: A 7. § (2) bekezdés d) pontja a 790/2021. (XII. 27.) Korm. rendelet 15. § 14. pontja szerint módosított szöveg.
 [^37]: A 7. § (2) bekezdés f) pontja a 790/2021. (XII. 27.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
-[^38]: A 7. § (2) bekezdés g) pontja a 790/2021. (XII. 27.) Korm. rendelet 15. § 9. pontja szerint módosított szöveg.
+[^38]: A 7. § (2) bekezdés g) pontja a 790/2021. (XII. 27.) Korm. rendelet 15. § 9. pontja, a 403/2023. (VIII. 30.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.

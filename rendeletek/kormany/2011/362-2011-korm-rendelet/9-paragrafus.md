@@ -1,5 +1,3 @@
-## tartalmazza.
-
 ## 9. § A közreműködő intézmény által vezetett nyilvántartás
 
 a)[^41]
@@ -21,6 +19,8 @@ h)[^48] a diákigazolvány egyedi adatchip azonosítóját,
 i)[^49]
 
 j) a 12. § szerinti igazolás adatait
+
+tartalmazza.
 
 [^41]: A 9. § a) pontját a 442/2016. (XII. 16.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
 [^42]: A 9. § b) pontja a 191/2019. (VII. 30.) Korm. rendelet 21. § 5. pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ d) a diákigazolványhoz kapcsolódó, állam által nem garantált (kereskedelm
 
 e)[^77] a nemzetközi kedvezményekre való jogosultságot
 
-## igazolja.
+igazolja.
 
 (2) A diákigazolvánnyal igénybe vehető, külön jogszabályban meghatározott kedvezmények megváltoztatásakor ki kell kérni a Hallgatói Önkormányzatok Országos Konferenciája, valamint az Országos Köznevelési Tanács véleményét.
 

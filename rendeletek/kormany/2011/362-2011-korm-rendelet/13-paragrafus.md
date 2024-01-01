@@ -24,7 +24,7 @@ a) az első félévben szűnik meg, a felnőttképzési jogviszony, illetve a ha
 
 b) a második félévben szűnik meg, a felnőttképzési jogviszony, illetve a hallgatói jogviszony megszűnését követő október 31-éig
 
-## jogosult diákigazolványra.
+jogosult diákigazolványra.
 
 (5)[^67] Ha a jogosult az igazolvány használatára jogosító jogviszony megszűnését követően a diákigazolványára való jogosultsági idején belül ugyanazzal a közreműködő intézménnyel létesít új jogviszonyt – és a diákigazolványon feltüntetett adattartalom változatlanul megfelel a valóságnak –, diákigazolványa a továbbiakban is érvényes.
 

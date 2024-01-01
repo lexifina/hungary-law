@@ -5,3 +5,5 @@
 a) a közreműködő intézmények adatait és
 
 b) az igénylések beérkezésének idejét
+
+tartalmazza.
