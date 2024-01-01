@@ -50,4 +50,4 @@ a Miniszterelnöki Kabinetiroda helyettes államtitkárává
 
 kinevezem.
 
-[^1]: A 119/2022. (XII. 23.) ME határozat alapján Bókay Márton Szabolcs, dr. Darnai Ferenc, Gerlaki Bence és dr. Zsombolyay Péter Zsombor tekintetében akként módosul, hogy a „Miniszterelnöki Kabinetiroda” megnevezés helyett a „Gazdaságfejlesztési Minisztérium” megnevezést kell érteni.
+[^1]: A 119/2022. (XII. 23.) ME határozat alapján Bókay Márton Szabolcs, dr. Darnai Ferenc, Gerlaki Bence és dr. Zsombolyay Péter Zsombor tekintetében akként módosul, hogy a „Miniszterelnöki Kabinetiroda” megnevezés helyett a „Gazdaságfejlesztési Minisztérium” megnevezést kell érteni. A 110/2023. (XII. 22.) ME határozat alapján dr. Zsombolyay Péter Zsombor, dr. Darnai Ferenc, Bókay Márton Szabolcs és Gerlaki Bence tekintetében akként módosul, hogy a „Gazdaságfejlesztési Minisztérium” megnevezés helyett a „Nemzetgazdasági Minisztérium” megnevezést kell érteni.
