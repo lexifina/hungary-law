@@ -16,8 +16,15 @@ b) ha a hazai anyakönyvezést követően a magyar állampolgárságot keletkezt
 
 (6)[^17] A hazai anyakönyvezési eljárásban a születés, házasság, bejegyzett élettársi kapcsolat, valamint a haláleset anyakönyvezéséhez az angol, német vagy francia nyelven kiállított anyakönyvi kivonathoz nem szükséges fordítás, ha az anyakönyvi okiratot elektronikai eszközzel személyesítették meg, és az anyakönyvi okirat megjegyzést vagy záradékot nem tartalmaz.
 
+(7)[^18] Az At. 14. § (3) bekezdése szerinti elháríthatatlan akadály különösen akkor áll fenn, ha
+
+a) a diplomáciai felülhitelesítés beszerzése – a konzuli tisztviselő állásfoglalása szerint – lehetetlen vagy bizonytalanul hosszú időt vesz igénybe, vagy
+
+b) a diplomáciai felülhitelesítés beszerzése miatt a kérelmezőt súlyos joghátrány érhetné.
+
 [^13]: A 11. § (2) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^14]: A 11. § (3) bekezdése a 304/2023. (VII. 11.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^15]: A 11. § (4) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^16]: A 11. § (5) bekezdését a 745/2021. (XII. 21.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^17]: A 11. § (6) bekezdését a 304/2023. (VII. 11.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^18]: A 11. § (7) bekezdését az 575/2023. (XII. 18.) Korm. rendelet 1. §-a iktatta be.

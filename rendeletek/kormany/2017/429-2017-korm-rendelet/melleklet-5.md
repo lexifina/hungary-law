@@ -1,4 +1,4 @@
-5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^33]
+5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^34]
 
 A születés bejelentésének adattartalma
 
@@ -70,4 +70,4 @@ A születés bejelentésének adattartalma
 
 13. Intézeten kívüli szülés esetén az anyakönyvvezető neve és aláírása, a szervet megjelölő azonosító.
 
-[^33]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^34]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.

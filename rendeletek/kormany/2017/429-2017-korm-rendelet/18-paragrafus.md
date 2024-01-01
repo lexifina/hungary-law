@@ -6,6 +6,6 @@
 
 (4) A jogosult a kártya gyártás- vagy gyártmányhibáját, elvesztését, megrongálódását, megsemmisülését, a használathoz szükséges kódok elvesztését, illetéktelen birtokába kerülését és a kártyán szereplő adatok megváltozását haladéktalanul köteles bejelenteni az igénylésre jogosult munkáltatónak. Az előbbi tényekről, körülményekről az igénylő haladéktalanul, de legkésőbb a bekövetkezést követő munkanapon írásban köteles tájékoztatni az igénylés továbbítására jogosult szervet a szükséges intézkedések végrehajtása érdekében. A felhasználói kártyát öt napon belül pótolni kell.
 
-(5)[^26] A jogosult a felhasználói kártyát a jogosultság megszűnése vagy új kártya kibocsátása esetén leadja a jogosultságot igénylő munkáltatónak, aki az átvételt írásban igazolja, majd a felhasználói kártyát az anyakönyvi szerv útján megküldi a nyilvántartó szervnek a bevonás és érvénytelenítés technikai műveletei és az esetleges selejtezés végrehajtása érdekében. A felhasználói kártya érvénytelenítése, majd újrainicializálása után a kártya újra kiadható.
+(5)[^27] A jogosult a felhasználói kártyát a jogosultság megszűnése vagy új kártya kibocsátása esetén leadja a jogosultságot igénylő munkáltatónak, aki az átvételt írásban igazolja, majd a felhasználói kártyát az anyakönyvi szerv útján megküldi a nyilvántartó szervnek a bevonás és érvénytelenítés technikai műveletei és az esetleges selejtezés végrehajtása érdekében. A felhasználói kártya érvénytelenítése, majd újrainicializálása után a kártya újra kiadható.
 
-[^26]: A 18. § (5) bekezdése a 6/2020. (I. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^27]: A 18. § (5) bekezdése a 6/2020. (I. 31.) Korm. rendelet 21. §-ával megállapított szöveg.
