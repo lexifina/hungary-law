@@ -1,12 +1,12 @@
 12. melléklet a 219/2011. (X. 20.) Korm. rendelethez
 
-A veszélyes anyagokkal kapcsolatos esemény, súlyos baleset bejelentésének kötelező tartalmi elemei[^182]
+A veszélyes anyagokkal kapcsolatos esemény, súlyos baleset bejelentésének kötelező tartalmi elemei[^187]
 
 1. Bejelentő adatai
 
 a) Üzem megnevezése:
 
-b)[^183] Üzem státusza (küszöbérték alatti üzem, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzem):
+b)[^188] Üzem státusza (küszöbérték alatti üzem, alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem vagy felső küszöbértékű veszélyes anyagokkal foglalkozó üzem):
 
 c) Üzem tevékenységi köre:
 
@@ -38,7 +38,7 @@ b) Vége (dátum, időpont):
 
 7. Esemény típusa (veszélyes anyaggal kapcsolatos tűz; veszélyes anyaggal kapcsolatos robbanás; mérgező, rákkeltő tulajdonságú veszélyes anyag kibocsátása; oxidáló, tűz- vagy környezetre veszélyes tulajdonságú veszélyes anyag kibocsátása):
 
-8.[^184] Eseményben részt vevő veszélyes anyag(ok) megnevezése, tulajdonsága (H-mondatok, halmazállapot) és mennyisége:
+8.[^189] Eseményben részt vevő veszélyes anyag(ok) megnevezése, tulajdonsága (H-mondatok, halmazállapot) és mennyisége:
 
 9. Esemény részletes leírása:
 
@@ -58,6 +58,6 @@ d) Elzárkóztatás történt (igen, nem):
 
 e) Kitelepítés történt (igen, nem):
 
-[^182]: A 12. melléklet címe a 408/2022. (X. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^183]: A 12. melléklet 1. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.
-[^184]: A 12. melléklet 8. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^187]: A 12. melléklet címe a 408/2022. (X. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^188]: A 12. melléklet 1. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított szöveg.
+[^189]: A 12. melléklet 8. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (8) bekezdésével megállapított, a 317/2020. (VII. 1.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.

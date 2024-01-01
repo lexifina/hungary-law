@@ -14,7 +14,7 @@ a) a veszély meghatározása (a súlyos baleset lehetőségének azonosítása)
 
 b) az azonosított veszélyes anyagokkal kapcsolatos súlyos baleset következményeinek értékelése.
 
-1.2.2.[^163] Az üzemeltető részletesen elemzi a reálisan feltételezhető veszélyes anyagokkal kapcsolatos súlyos balesetek előfordulásának okait és körülményeit. Ennek során bemutatja a veszélyes anyagokkal kapcsolatos súlyos balesethez vezető események üzemen belüli vagy kívüli kiváltó okait és lefolyását. A veszélyazonosításhoz az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat.
+1.2.2.[^167] Az üzemeltető részletesen elemzi a reálisan feltételezhető veszélyes anyagokkal kapcsolatos súlyos balesetek előfordulásának okait és körülményeit. Ennek során bemutatja a veszélyes anyagokkal kapcsolatos súlyos balesethez vezető események üzemen belüli vagy kívüli kiváltó okait és lefolyását. A veszélyazonosításhoz az üzemeltető bármilyen, e célra a nemzetközi gyakorlatban elfogadott módszert használhat.
 
 1.2.3. Az üzemeltető értékeli a reálisan feltételezett balesetek lehetséges következményeit. Ennek során az üzemeltető bemutatja azokat a területeket, melyeket az üzemből kiinduló ilyen balesetek hatásai (mérgezés, tűz és robbanás okozta hatások) érinthetnek. A területek bemutatása térképen és ezzel egyenértékű leírással történik, melynek során figyelembe kell venni e rendeletnek a védendő adatokra vonatkozó előírásait is. Az üzemeltető, a veszélyes anyagokkal kapcsolatos súlyos balesetek következményeinek értékelését bármilyen, a nemzetközi gyakorlatban, az adott típusú súlyos balesetre, a szakma által általánosan elfogadott módszerrel végezheti el. Az értékelést a technológiában feltárt minden balesetre el kell végezni, de a súlyos káresemény elhárítási tervben csak a küszöbérték alatti üzem egésze által jelentett veszélyeztetést érdemben meghatározó, legnagyobb veszélyeztetést jelentő baleseti eseménysorokat kell bemutatni.
 
@@ -78,7 +78,7 @@ cf) beavatkozás, kárelhárítás, mentesítés végzése,
 
 cg) az üzem környezetében kialakult veszélyhelyzet elhárításához szükséges segítségnyújtás lehetőségei és feltételei;
 
-ch)[^164] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
+ch)[^168] súlyos balesetet követően a környezet helyreállítása és megtisztítása;
 
 d) az üzemi dolgozók védelme érdekében hozott intézkedések, beleértve a riasztásuk és a riasztás vételét követő magatartási rendszabályokat, a munka biztonságos szüneteltetésének, a kimenekítésnek, a gyülekezésnek a feltételeit;
 
@@ -90,7 +90,7 @@ f) a feltárt súlyos balesetekhez kapcsolódó kárelhárítási feladatok vég
 
 a) a külső védelmi terv beindításáért felelős szervezet riasztásának módja, a riasztáskor közlendő információk, a helyzet kialakulását követő részletes információk tartalma, és az információk átadásának módja,
 
-b)[^165] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
+b)[^169] a küszöbérték alatti üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei.
 
 1.6. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -102,6 +102,6 @@ b)[^165] a küszöbérték alatti üzem környezetében kialakult veszélyhelyze
 
 A súlyos káresemény elhárítási terv formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
 
-[^163]: Az 5. melléklet 1.2.2. pontja a 408/2022. (X. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^164]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
-[^165]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
+[^167]: Az 5. melléklet 1.2.2. pontja a 408/2022. (X. 24.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^168]: Az 5. melléklet 1.4. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § b) pontja iktatta be.
+[^169]: Az 5. melléklet 1.5. pont b) alpontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (4) bekezdésével megállapított szöveg.
