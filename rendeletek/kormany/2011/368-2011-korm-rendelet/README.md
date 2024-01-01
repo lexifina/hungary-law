@@ -115,3 +115,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2023-12-17 | 2011-368-20-22.107 | 560/2023. (XII. 14.) Korm. rendelet |
 | 2023-12-29 | 2011-368-20-22.110 | 659/2023. (XII. 28.) Korm. rendelet |
 | 2023-12-30 | 2011-368-20-22.108 | 560/2023. (XII. 14.) Korm. rendelet |
+| 2024-01-01 | 2011-368-20-22.109 | 599/2023. (XII. 22.) Korm. rendelet |

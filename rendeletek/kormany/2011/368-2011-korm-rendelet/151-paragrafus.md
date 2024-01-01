@@ -1,3 +1,3 @@
-151. §[^712]
+151. §[^715]
 
-[^712]: Az Ávr. 151. §-át a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 3. pontja hatályon kívül helyezte.
+[^715]: Az Ávr. 151. §-át a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 3. pontja hatályon kívül helyezte.

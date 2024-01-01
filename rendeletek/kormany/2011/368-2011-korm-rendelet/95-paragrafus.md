@@ -1,6 +1,6 @@
 ## [Az Áht. 53/A. §-ához]
 
-95. §[^446] (1)[^447] A támogatási szerződés Áht. 53/A. § (5) bekezdésében foglaltak szerinti módosítása legfeljebb egy alkalommal abban az esetben lehetséges, ha a támogatás nyújtásának feltétele nem jogszabályon alapul és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga van.
+95. §[^449] (1)[^450] A támogatási szerződés Áht. 53/A. § (5) bekezdésében foglaltak szerinti módosítása legfeljebb egy alkalommal abban az esetben lehetséges, ha a támogatás nyújtásának feltétele nem jogszabályon alapul és a támogatási döntés meghozatala során a döntéshozónak mérlegelési joga van.
 
 (2) A támogatási szerződés módosítása a támogatási szerződésben meghatározott összegen felüli többlet költségvetési támogatás biztosítás érdekében abban az esetben lehetséges, ha a többlet költségvetési támogatás nyújtása
 
@@ -32,5 +32,5 @@ b) a támogatási szerződésben meghatározott bármely indikátor értékének
 
 c) a műszaki, szakmai tartalom megváltozása olyan jellegű, amely során a kedvezményezett által nyilatkozatban vállalt tulajdonsághoz vagy képességhez mérten a támogatott tevékenység eredményessége szempontjából kedvezőbb vagy azonos értékű műszaki, szakmai megoldás valósul meg.
 
-[^446]: Az Ávr. 95. §-a a 224/2017. (VIII. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^447]: Az Ávr. 95. § (1) bekezdése a 445/2020. (X. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^449]: Az Ávr. 95. §-a a 224/2017. (VIII. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^450]: Az Ávr. 95. § (1) bekezdése a 445/2020. (X. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
