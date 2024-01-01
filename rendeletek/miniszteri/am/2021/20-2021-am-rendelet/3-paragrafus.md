@@ -27,3 +27,10 @@ h) az állati melléktermék és a hulladék kezelési és ártalmatlanítási t
 i) az ivóvíz megfelelőségét tanúsító, 30 napnál nem régebbi vízvizsgálati eredményt.
 
 (2) Az engedély iránti kérelem mintáját és az engedélyköteles létesítmények listáját a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) honlapján közzéteszi.
+
+(3)[^3] Az (1) bekezdésben foglaltakat, illetve az engedélyköteles létesítmény épületgépészeti megfelelőségét, valamint az élelmiszer-előállítási tevékenység jogszabályoknak megfelelő folytatását az engedélyező hatóság évente ellenőrzi.
+
+(4)[^4] Az engedélyező hatóság az engedélyköteles létesítmény engedélyét visszavonja, ha a (3) bekezdés szerinti ellenőrzés során megállapításra kerül, hogy az engedélyköteles létesítmény nem felel meg a (3) bekezdésben meghatározott feltételeknek.
+
+[^3]: A 3. § (3) bekezdését a 187/2023. (XII. 27.) AM rendelet 1. §-a iktatta be.
+[^4]: A 3. § (4) bekezdését a 187/2023. (XII. 27.) AM rendelet 1. §-a iktatta be.
