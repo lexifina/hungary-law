@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-31-00-00
 | 2023-09-02 | 2010. évi CXXX. törvény | 2023-31-00-00.6 |
 | 2023-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-31-00-00.7 |
 | 2023-10-02 | 2010. évi CXXX. törvény | 2023-31-00-00.8 |
+| 2024-01-01 | 2023. évi LIII. törvény | 2023-31-00-00.9 |
