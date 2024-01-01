@@ -14,29 +14,37 @@ A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolg
 
 | 4. | kiemelt vezető | központi szerv vezetőjének helyettese (tábornok) | főigazgató-helyettes |  |  |
 
-| 5. | kiemelt vezető | területi szerv vezetője* | igazgató | 350-550 | 350-550 |
+| 5. | kiemelt vezető | területi szerv vezetője* | igazgató | 520–720 | 520–720 |
 
-| 6. | középvezető | szakirányító 1 | igazgatóhelyettes hivatalvezető | 350-550 | 350-550 |
+| 6. | középvezető | szakirányító 1 | igazgatóhelyettes hivatalvezető | 520–720 | 520–720 |
 
-| 7. | középvezető | szakirányító 2 | főosztályvezető | 350-550 | 350-550 |
+| 7. | középvezető | szakirányító 2 | főosztályvezető | 520–720 720–800** | 520–720 |
 
-| 8. | középvezető | főosztályvezető 1 | főtanácsadó | 350-550 | 350-550 |
+| 8. | középvezető | főosztályvezető 1 | főtanácsadó | 520–720 | 520–720 |
 
-| 9. | középvezető | főosztályvezető 1 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 350-550 | 350-550 |
+| 9. | középvezető | főosztályvezető 1 | önálló osztályvezető (főigazgató közvetlen irányítása alatt) | 520–720 | 520–720 |
 
-| 10. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 500-700 |  |
+| 10. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 570–870 |  |
 
-| 11. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezetőt helyettesítő osztályvezető | 500-700 | 400-600 |
+| 11. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezetőt helyettesítő osztályvezető | 570–870 870–950*** | 570–770 |
 
-| 12. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 500-700 | 400-600 |
+| 12. | beosztott vezető | főosztályvezető- helyettes 2 | osztályvezető | 570–870 870–950*** | 570–770 |
 
-| 13. | beosztott vezető | osztályvezető 1 | tanácsadó | 550-750 | 450-650 |
+| 13. | beosztott vezető | osztályvezető 1 | tanácsadó | 720–920 | 620–820 |
 
-| 14. | beosztott vezető | osztályvezető 2 | osztályvezető-helyettes (kiemelt) | 550-750 | 400-600 |
+| 14. | beosztott vezető | osztályvezető 2 | osztályvezető-helyettes (kiemelt) | 720–920 | 570–770 |
 
-| 15. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (osztályvezető-helyettes kiemelt) | 550-750 |  |
+| 15. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (osztályvezető-helyettes kiemelt) | 720–920 |  |
 
-| 16. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (kiemelt) | 550-750 |  |
+| 16. | beosztott vezető | osztályvezető 2 | kirendeltségvezető (kiemelt) | 720–920 |  |
+
+1.1. Megjegyzés:
+
+1.1.1. *: A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv központi szervi jogállású, de igazgatója a vezetői beosztás szempontjából a területi szerv vezetőjével esik egy kategóriába.
+
+1.1.2. 720–800**: A Nemzeti Védelmi Szolgálat Központi Védelmi Igazgatóság Kiberfelderítési Főosztály vezetője esetében a hivatásos pótlék mértéke 720–800%.
+
+1.1.3. 870–950***: A Nemzeti Védelmi Szolgálat Központi Védelmi Igazgatóság Kiberfelderítési Főosztály Kibertechnológiai Osztály vezetője, valamint a Kiberfelderítő Osztály vezetője esetében a hivatásos pótlék mértéke 870–950%.
 
 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
@@ -46,17 +54,23 @@ A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolg
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | osztályvezető-helyettes | 800 | 650 |
+| 3. | D | osztályvezető-helyettes | 970 | 820 |
 
-| 4. | D | kirendeltségvezető (osztályvezető-helyettes) | 800 |  |
+| 4. | D | osztályvezető-helyettes (kiberfelderítési) | 1050 |  |
 
-| 5. | D | alosztályvezető | 750 | 600 |
+| 5. | D | kirendeltségvezető (osztályvezető-helyettes) | 970 |  |
 
-| 6. | D | kirendeltségvezető | 750 |  |
+| 6. | D | alosztályvezető | 920 | 770 |
 
-| 7. | D | kiemelt főreferens | 700 | 550 |
+| 7. | D | kirendeltségvezető | 920 |  |
 
-| 8. | C | kiemelt főelőadó | 700 | 550 |
+| 8. | D | kiemelt főreferens | 870 | 720 |
+
+| 9. | D | kiemelt főreferens (kiberfelderítési) | 950 |  |
+
+| 10. | C | kiemelt főelőadó | 870 | 720 |
+
+| 11. | C | kiemelt főelőadó (kiberfelderítési) | 950 |  |
 
 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
@@ -66,8 +80,8 @@ A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv szolg
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | D | szakreferens | 700 | 550 |
+| 3. | D | szakreferens | 870 | 720 |
 
-4. Megjegyzés: * A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv központi szervi jogállású, de igazgatója a vezetői beosztás szempontjából a területi szerv vezetőjével esik egy kategóriába.
+| 4. | D | szakreferens (kiberfelderítési) | 950 |  |
 
-[^32]: A 3. melléklet a 2/2023. (I. 30.) BM rendelet 19. § b) pontjával megállapított szöveg.
+[^32]: A 3. melléklet a 92/2023. (XII. 28.) BM rendelet 1. § b) pontjával megállapított szöveg.
