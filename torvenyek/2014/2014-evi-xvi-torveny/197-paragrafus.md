@@ -46,6 +46,8 @@ c) az európai uniós támogatások felhasználásának szabályszerűségét el
 
 szemben.
 
+(3a) Nem jelenti az üzleti titok sérelmét az MNB által – az értékpapírtitokra vonatkozó szabályok betartásával – a befektetési alapkezelőkről, valamint a befektetési alapokról egyedi azonosításra alkalmas adatok szolgáltatása a gazdasági folyamatok és azok fejlesztésének elemzése, értékelése és tervezése céljából a miniszter részére.
+
 (4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban meghatározott, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
