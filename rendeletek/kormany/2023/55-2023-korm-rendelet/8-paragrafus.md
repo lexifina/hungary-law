@@ -1,3 +1,3 @@
-8. §[^1]
+8. § A 3. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^1]: A 8. § a 6. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(2) Az alvállalkozó a nyilvántartásba vétel iránti kérelmét az 1. melléklet szerinti adatok megadásával, valamint a szerződés másolatának egyidejű csatolásával terjeszti elő a hatóság által rendszeresített elektronikus űrlapon.”
