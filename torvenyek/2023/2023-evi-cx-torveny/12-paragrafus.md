@@ -10,7 +10,7 @@ d) 14. § g) pontjában a „jogerőre emelkedésével” szövegrész helyébe 
 
 e) 15. § (1) bekezdésében a „dohányterméket kizárólag” szövegrész helyébe a „dohányterméket – a (3)–(7) bekezdésben foglalt kivétellel – kizárólag” szöveg,
 
-f) 22. § (2) bekezdés nyitó szövegrészében a „szemben 30 ezer” szövegrész helyébe a „szemben – a (2a) bekezdésben foglalt eltéréssel – 30 ezer” szöveg,
+f)
 
 g) 24/C. § f) pontjában az „a 10. § (1) és (4) bekezdésében” szövegrész helyébe az „a 10. § (1), (4) és (7) bekezdésében” szöveg
 
