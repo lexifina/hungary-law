@@ -22,7 +22,7 @@
 
 10. az igénybevétel célja az alábbi kategóriák szerinti besorolással:
 
-10.1. célkitermelőhely, anyagnyerőhely és külfejtéses bányászati tevékenység,
+10.1. cél-kitermelőhely, anyagnyerőhely és külfejtéses bányászati tevékenység,
 
 10.2. egyéb bányászati tevékenység,
 

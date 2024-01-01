@@ -1,6 +1,6 @@
 23. § (1) A járulék felét kell fizetni, ha a termőföldet engedély alapján és annak megfelelően
 
-a) mezőgazdasági tevékenység (ide nem értve az állandó jellegű növényház létesítésével együtt járó mezőgazdasági tevékenységet) céljára,
+a)
 
 b) haltenyésztésre is alkalmas víztározó létesítésére
 

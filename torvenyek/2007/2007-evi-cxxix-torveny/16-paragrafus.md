@@ -6,6 +6,8 @@ a) a más célú hasznosítás megkezdésekor az engedélyezés még nem törté
 
 b) az igénybevevő az engedély előírásaitól eltérően hasznosítja más célra a termőföldet.
 
+(1a) A zártkerti ingatlannak minősülő termőföld engedély nélküli más célú hasznosítása esetén az ingatlan fekvése szerinti települési önkormányzat jegyzője jelzéssel élhet az ingatlanügyi hatóság felé. Az ingatlanügyi hatóság a jegyző jelzésére az engedély nélküli más célú hasznosítás miatt hivatalból eljárást indít és az eljárás eredményéről a jegyzőt tájékoztatja.
+
 (2) Az engedély nélküli más célú hasznosítás miatt indult eljárást az ingatlanügyi hatóságnak az igénybevevővel szemben kell lefolytatnia. Ellenkező bizonyításig igénybevevőnek a termőföld földhasználati nyilvántartásba bejegyzett használója minősül. Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, igénybevevőnek a tulajdonost, haszonélvezet fennállása esetén a haszonélvezőt kell tekinteni.
 
 (3) Ha az érintett földrészletnek a földhasználati nyilvántartás szerint több földhasználója van, és az engedély nélküli más célú hasznosítással érintett terület földhasználója a földhasználati nyilvántartás adatai alapján egyértelműen nem állapítható meg, úgy valamennyi földhasználót igénybevevőnek kell tekinteni. Ha a földrészletnek bejegyzett földhasználója nincs, és az érintett földrészlet közös tulajdonban áll valamennyi tulajdonost, vagy azon több személy haszonélvezeti joga áll fenn, valamennyi haszonélvezőt igénybevevőnek kell tekinteni.
@@ -22,7 +24,7 @@ b) az igénybevevő az engedély előírásaitól eltérően hasznosítja más c
 
 (9) A végleges más célú hasznosítás utólagos hozzájárulása iránti kérelem előterjesztése esetén, ha az igénybevevő nem a tulajdonos, vagy haszonélvezet fennállása esetén a haszonélvező, az ingatlanügyi hatóság – a (10) bekezdésben meghatározott eset kivételével – nyilatkozattételre hívja fel a tulajdonost vagy haszonélvezet fennállása esetén a haszonélvezőt arról, hogy a termőföld végleges más célú hasznosításához hozzájárul-e. A tulajdonosi vagy haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére. Közös tulajdonban lévő termőföld esetén valamennyi tulajdonostárs, több haszonélvező esetén valamennyi haszonélvező egyhangú hozzájáruló nyilatkozata szükséges.
 
-(10) Engedély nélkül létesített célkitermelőhely esetében az ingatlanügyi hatóság a cél-kitermelőhely létesítésének engedélyezésére vonatkozó végleges határozat beszerzése érdekében megkeresi a bányafelügyeletet. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére.
+(10) Engedély nélkül létesített cél-kitermelőhely esetében az ingatlanügyi hatóság a cél-kitermelőhely létesítésének engedélyezésére vonatkozó végleges határozat beszerzése érdekében megkeresi a bányafelügyeletet. A végleges határozatot az igénybevevő is benyújthatja az ingatlanügyi hatóság részére.
 
 (11) Az igénybe vevőt az ingatlanügyi hatóság a termőföld eredeti állapotba történő helyreállítására kötelezi, ha az engedély nélküli igénybevétel megvalósításától az engedély nélküli más célú hasznosítás iránti eljárás megindításáig 10 év még nem telt el és
 
@@ -30,7 +32,7 @@ a) a (12) bekezdésben meghatározott feltételek nem állnak fenn,
 
 b) a tulajdonos, haszonélvezet fennállása esetén a haszonélvező a (9) bekezdésben foglalt felhívás ellenére nem nyilatkozik, és a tulajdonosi vagy haszonélvezet fennállása esetén a haszonélvezői hozzájáruló nyilatkozatot az igénybe vevő sem nyújtja be az ingatlanügyi hatósághoz, vagy
 
-c) az engedély nélkül létesített célkitermelőhely esetében nem áll rendelkezésre a cél-kitermelőhely létesítésének engedélyezésére vonatkozó véglegessé vált határozat.
+c) az engedély nélkül létesített cél-kitermelőhely esetében nem áll rendelkezésre a cél-kitermelőhely létesítésének engedélyezésére vonatkozó véglegessé vált határozat.
 
 (11a)
 

@@ -4,7 +4,7 @@
 
 (2) A cél-kitermelőhely létesítéséhez szükséges termőföld végleges más célú hasznosításának engedélyezése iránti kérelmet a külön törvény szerinti építtető, az építtetővel szerződéses jogviszonyban álló vállalkozó, és a bányavállalkozó (ezen alcímben a továbbiakban együtt: jogosult) nyújthat be. A kérelemnek – a 12. § (1) bekezdésben foglaltakon túl – tartalmaznia kell a tevékenység megszüntetését követően a terület helyreállításának, természeti környezetbe való visszahelyezésének tervezett módját.
 
-(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a tevékenységgel érintett területet a Kormány a Magyar Közlönyben közzétett határozatával beruházási célterületté nyilvánította.
+(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a Kormány a Magyar Közlönyben közzétett határozatával cél-kitermelőhely létesítése céljából az ásványi nyersanyag kitermelési, kinyerési, illetve a külfejtéses bányászati tevékenységgel érintett területet beruházási célterületté, vagy azt a beruházást, amelyre figyelemmel a célkitermelést végzik – a cél-kitermelőhellyel érintett termőföldterületek pontos lehatárolásával – nemzetgazdasági szempontból kiemelt jelentőségű üggyé, a célkitermelést pedig ahhoz közvetlenül kapcsolódónak nyilvánította.
 
 (3a) A földvédelmi eljárás során a (3) bekezdésben foglaltak figyelmen kívül hagyása súlyos eljárási jogszabálysértésnek minősül, ezért az eljárásban hozott más célú hasznosítást engedélyező határozatot meg kell semmisíteni, illetve vissza kell vonni, és szükség esetén új eljárást kell lefolytatni.
 

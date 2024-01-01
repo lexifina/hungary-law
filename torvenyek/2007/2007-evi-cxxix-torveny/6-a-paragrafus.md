@@ -2,6 +2,6 @@
 
 (2) Az újrahasznosítás megvalósulását az ingatlanügyi hatóság állapítja meg.
 
-(3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát és minőségi osztályát, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
+(3) Az ingatlanügyi hatóság földvédelmi bírság kiszabása mellett dönt az újrahasznosítás elfogadásáról és megállapítja az újrahasznosított terület művelési ágát, minőségi osztályát és aranykorona értékét, vagy ennek hiányában a 6. § (10) bekezdésében meghatározottak szerint a további munkák előírásáról dönt.
 
 (4) Az ingatlanügyi hatóság az (1) bekezdés szerinti újrahasznosítási eljárását megszünteti, valamint a földvédelmi bírság megfizetéséről szóló határozatát visszavonja, ha az újrahasznosítás megvalósulásától az eljárás megindításáig 5 év telt el. Az 5 éves időtartam beálltának bizonyítása az igénybevevőt terheli.

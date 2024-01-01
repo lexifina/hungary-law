@@ -18,7 +18,7 @@ d) védett természeti területek természetvédelmi kezeléséért felelős sze
 
 e) legfeljebb 2 hektár területnagyságú termőföld igénybevételével járó állami vagy önkormányzati szociális intézmény, egészségügyi- és sportlétesítmény építése, temető létesítése, bővítése,
 
-f)
+f) a termőföld művelési ágának megfelelő műveléshez, mezőgazdasági termeléshez vagy erdőgazdasági tevékenységhez közvetlenül kapcsolódó eszköz telepítése vagy építmény elhelyezése,
 
 g)
 

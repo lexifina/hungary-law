@@ -44,9 +44,11 @@ g) a 8/B. § (2) bekezdésében meghatározott bejelentési kötelezettségét e
 
 a) az eredeti állapot helyreállításának elfogadásáról,
 
-b) az utólagos hozzájárulásról vagy
+b) az utólagos hozzájárulásról,
 
-c) a 17. § (1b) bekezdésében és a 17/B. § (2) bekezdésében meghatározott döntésről
+c) a 17. § (1b) bekezdésében és a 17/B. § (2) bekezdésében meghatározott döntésről, vagy
+
+d) a 16. § (11c) bekezdésében meghatározott döntésről
 
 szóló határozatban kell rendelkezni.
 
