@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-57-20-7
 | 2023-11-02 | 2023-57-20-7R.4 | 2010. évi CXXX. törvény |
 | 2023-11-16 | 2023-57-20-7R.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-11-17 | 2023-57-20-7R.6 | 2010. évi CXXX. törvény |
+| 2024-01-01 | 2023-57-20-7R.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
