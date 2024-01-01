@@ -1,3 +1,1 @@
-5. §[^2]
-
-[^2]: Az 5. § a 2. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+5. § Hatályát veszti a kötelező tartalékráta mértékéről szóló 6/2023. (III. 8.) MNB rendelet.
