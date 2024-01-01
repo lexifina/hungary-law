@@ -56,6 +56,8 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 
 16.[^40] vállalkozó természetes személy: az Szja. tv. szerinti egyéni vállalkozó és mezőgazdasági őstermelő.
 
+17.[^41] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel.
+
 [^23]: A 2. § 1. pontja az 51/2021. (XI. 16.) MNB rendelet 4. § c) pontja szerint módosított szöveg.
 [^24]: A 2. § 2a. pontját az 51/2021. (XI. 16.) MNB rendelet 2. § (1) bekezdése iktatta be.
 [^25]: A 2. § 3. pontja az 51/2021. (XI. 16.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
@@ -74,3 +76,4 @@ e) az a)–d) alpont szerinti, forinttól eltérő pénznemű jövedelmének a M
 [^38]: A 2. § 12. pontja a 20/2023. (V. 11.) MNB rendelet 3. § b) pontja szerint módosított szöveg.
 [^39]: A 2. § 15. pontja a 29/2018. (VIII. 21.) MNB rendelet 6. § f) pontja szerint módosított szöveg.
 [^40]: A 2. § 16. pontját a 29/2018. (VIII. 21.) MNB rendelet 2. § (3) bekezdése iktatta be, szövege az 51/2021. (XI. 16.) MNB rendelet 4. § g) pontja szerint módosított szöveg.
+[^41]: A 2. § 17. pontját a 64/2023. (XII. 15.) MNB rendelet 1. §-a iktatta be.
