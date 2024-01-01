@@ -8,100 +8,21 @@
 
 ## Határidő: azonnal
 
-## c) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímnek az 52. Kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanokhoz kapcsolódó örökségvédelmi célú beruházások jogcímcsoporttal történő kiegészítését;
+## c)[^1]
 
-## Felelős: pénzügyminiszter
+## d)[^2]
 
-## Határidő: azonnal
+## e)[^3]
 
-## d) az Áht. 33. § (2) bekezdésében, valamint az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva 597 900 000 forint átcsoportosítását rendeli el, az 1. melléklet szerint;
+## 2.[^4]
 
-## Felelős: pénzügyminiszter
+## 3.[^5]
 
-## Miniszterelnökséget vezető miniszter
+1. melléklet az 1211/2020. (V. 12.) Korm. határozathoz[^6]
 
-## Határidő: azonnal
-
-## e)[^1]
-
-## 2.[^2]
-
-## 3.[^3]
-
-1. melléklet az 1211/2020. (V. 12.) Korm. határozathoz
-
-| XI. Miniszterelnökség |
-
-| XLII. A költségvetés közvetlen bevételei és kiadásai |
-
-| ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA |
-
-| Költségvetési év: 2020. |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295146 |  |  |  | 43 |  |  |  |  |  | Kulturális örökségvédelmi szakmai feladatok |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | 28 471 000 |  |  |  |
-
-| 384640 |  |  |  | 52 |  |  |  |  |  | Kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanokhoz kapcsolódó örökségvédelmi célú beruházások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 569 429 000 |  |  |  |
-
-|  | XLII. |  |  |  |  |  | A költségvetés közvetlen bevételei és kiadásai |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 374873 |  | 43 |  |  |  |  |  | Központi Maradványelszámolási Alap |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -597 900 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat |  |  |  |  |  |  |  |  |
-
-|  | XI. |  |  |  |  |  | Miniszterelnökség |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 30 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 295146 |  |  |  | 43 |  |  |  |  |  | Kulturális örökségvédelmi szakmai feladatok |  |  |  |  |  |  |  |  | 28 471 000 |  |  |  |
-
-| 384640 |  |  |  | 52 |  |  |  |  |  | Kiemelt nemzeti emlékhely településkép-védelmi környezetében álló ingatlanokhoz kapcsolódó örökségvédelmi célú beruházások |  |  |  |  |  |  |  |  | 569 429 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  | I. n.év | II. n.év | III. n.év | IV. n.év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |
-
-|  |  | egyéb: | azonnal |  |  | 597 900 000 |  | 597 900 000 |  |  |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |
-
-[^1]: Az 1. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontja a 2011: CXCV. törvény 90. § (5) bekedzdése alapján visszavonásra került.
+[^2]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekedzdése alapján visszavonásra került.
+[^3]: Az 1. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekedzdése alapján visszavonásra került.
