@@ -1,8 +1,8 @@
 ## 10. A Koordináló szerv adatkezelésének részletes szabályai
 
-15. §[^21] A Koordináló szerv adatkezelése – a Ht. 32/A. § (4h) bekezdésében meghatározottakon túl és a személyes adatok kivételével – az alábbi célokat szolgálhatja:
+15. §[^17] A Koordináló szerv adatkezelése – a Ht. 32/A. § (4h) bekezdésében meghatározottakon túl és a személyes adatok kivételével – az alábbi célokat szolgálhatja:
 
-a)[^22]
+a)[^18]
 
 b) fizetési kötelezettség meghatározása, számlázás, kintlévőségek kezelése,
 
@@ -10,8 +10,8 @@ c) ingatlanhasználó panaszainak, bejelentéseinek, igényeinek kezelése, ezek
 
 d) jogszabály által keletkezett és egyéb jogviszonyból származó igények érvényesítése,
 
-e)[^23]
+e)[^19]
 
-[^21]: A 15. § nyitó szövegrésze a 768/2021. (XII. 23.) Korm. rendelet 8. § d) pontja, a 277/2023. (VI. 29.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
-[^22]: A 15. § a) pontját a 277/2023. (VI. 29.) Korm. rendelet 15. § 9. pontja hatályon kívül helyezte.
-[^23]: A 15. § e) pontját a 277/2023. (VI. 29.) Korm. rendelet 15. § 9. pontja hatályon kívül helyezte.
+[^17]: A 15. § nyitó szövegrésze a 768/2021. (XII. 23.) Korm. rendelet 8. § d) pontja, a 277/2023. (VI. 29.) Korm. rendelet 15. § 8. pontja szerint módosított szöveg.
+[^18]: A 15. § a) pontját a 277/2023. (VI. 29.) Korm. rendelet 15. § 9. pontja hatályon kívül helyezte.
+[^19]: A 15. § e) pontját a 277/2023. (VI. 29.) Korm. rendelet 15. § 9. pontja hatályon kívül helyezte.
