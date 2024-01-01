@@ -12,6 +12,8 @@ a) a bejelentőlappal együtt 7 napon belül,
 
 b) elektronikus úton történő bejelentés esetén a bejelentést megelőzően 7 napon belül
 
+be kell küldeni az Országos Adatbázishoz.
+
 [^71]: A 24. § (1) bekezdése a 88/2013. (X. 2.) VM rendelet 13. § (1) bekezdésével megállapított, a 42/2017. (VIII. 17.) FM rendelet 43. § 9. pontja, a 40/2018. (XII. 15.) AM rendelet 2. § e) pontja szerint módosított szöveg.
 [^72]: A 24. § (2) bekezdése a 88/2013. (X. 2.) VM rendelet 23. § 15. pontja szerint módosított szöveg.
 [^73]: A 24. § (3) bekezdése a 99/2013. (X. 28.) VM rendelet 1. §-ával megállapított szöveg.

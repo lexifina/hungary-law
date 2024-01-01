@@ -1,5 +1,3 @@
-## be kell küldeni az Országos Adatbázishoz.
-
 25. §[^76] (1) Az állattartó köteles:
 
 a) gondoskodni arról, hogy a szarvasmarha szállítása vagy hajtása esetén a marhalevél kísérje az állatot, továbbá azt az ellenőrző élelmiszerlánc-felügyeleti szerv, valamint a közúti forgalmat ellenőrző rendőrhatóság felhívására bemutatni;

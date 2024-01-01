@@ -1,3 +1,3 @@
-## 43. §[^111]
+44. §[^112]
 
-[^111]: A 43. §-t a 118/2008. (V. 8.) Korm. rendelet 9. §-ának 296. pontja hatályon kívül helyezte.
+[^112]: A 44. §-t a 12/2004. (I. 31.) FVM rendelet 24. §-a hatályon kívül helyezte.
