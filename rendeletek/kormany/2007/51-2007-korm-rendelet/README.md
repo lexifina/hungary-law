@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2023-07-07 | 2007-51-20-22.28 | 209/2019. (VIII. 27.) Korm. rendelet |
 | 2023-07-20 | 2007-51-20-22.30 | 331/2023. (VII. 19.) Korm. rendelet |
 | 2023-11-19 | 2007-51-20-22.29 | 280/2023. (VI. 29.) Korm. rendelet |
+| 2024-01-01 | 2007-51-20-22.31 | 610/2023. (XII. 22.) Korm. rendelet |

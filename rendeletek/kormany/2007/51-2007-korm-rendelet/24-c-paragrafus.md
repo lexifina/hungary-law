@@ -2,7 +2,7 @@
 
 (2) A 24/A. § (1) bekezdés a) pontja szerint az a személy nyerheti el az ösztöndíjat, aki a pályázat benyújtásának időpontjában, valamint az ösztöndíj folyósításának teljes időtartama alatt tanulmányait az Nftv. 1. mellékletében meghatározott felsőoktatási intézményben
 
-a) az Nftv. 101. § (7) bekezdésében meghatározott művészeti felsőoktatási intézménnyel létesített előkészítő vagy
+a)[^87]
 
 b) zeneművészeti képzésen – az Nftv. 3. § (1) bekezdés a) vagy b) pontja szerinti képzési szinten – aktív hallgatói
 
@@ -19,3 +19,5 @@ b) vállalja, hogy dokumentálja a már elvégzett vagy folyamatban lévő önk�
 a) a 24/A. § (1) bekezdés a) vagy b) pontja esetén az Nftv. 108. § 9. és 10. pontja szerint hátrányos vagy halmozottan hátrányos helyzetűnek minősül,
 
 b) a 24/A. § (1) bekezdés b) pontja esetén az önkéntes tevékenységét a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti hátrányos vagy halmozottan hátrányos helyzetű személyek körében folytatja vagy folytatta.
+
+[^87]: A 24/C. § (2) bekezdés a) pontját a 610/2023. (XII. 22.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
