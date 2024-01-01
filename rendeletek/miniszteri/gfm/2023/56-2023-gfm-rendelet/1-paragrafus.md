@@ -1,3 +1,3 @@
-1. § A munkavédelemről szóló 1993. évi XCIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 5/1993. (XII. 26.) MüM rendelet (a továbbiakban: 5/1993. MüM rendelet) 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A munkabaleseti nyilvántartás az Mvt. 64. § (3) bekezdésében és az Mvt. 64/A. § (2) bekezdésében meghatározott adatokat tartalmazza.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

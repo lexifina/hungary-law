@@ -1,1 +1,3 @@
-3. § Az 5/1993. MüM rendelet 2. számú melléklete az 1. melléklet szerint módosul.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
