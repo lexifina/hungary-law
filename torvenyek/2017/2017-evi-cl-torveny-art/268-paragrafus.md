@@ -58,7 +58,7 @@ rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap a Kormány, hogy az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásba vételét végző szervezetet rendeletben jelölje ki.
 
-(4) Felhatalmazást kap a Kormány, hogy azokat az értékhatárokat és feltételeket, amelyek alapján
+(4) Felhatalmazást kap a Kormány, hogy azokat a feltételeket, amelyek alapján
 
 a) a legnagyobb adóteljesítménnyel rendelkező adózók köre megállapításra kerül,
 

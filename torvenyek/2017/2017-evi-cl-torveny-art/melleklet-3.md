@@ -124,7 +124,7 @@
 
 ## 2.1 ha a gépjárműadóról szóló 1991. évi LXXXII. törvény 4. § (4) bekezdése szerinti adófizetési kötelezettség szünetelésének feltétele beáll vagy megszűnt, a változást követő hónap tizenötödik napjáig,
 
-## 2.2 a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § b)–c), e)–f), j)–k) pontjában, valamint 13. §-ában írt mentesség fennállásáról és megszűnéséről.
+## 2.2 a gépjárműadóról szóló 1991. évi LXXXII. törvény 5. § b)–c), e)–f), h), j)–k) pontjában, valamint 13. §-ában írt mentesség fennállásáról és megszűnéséről.
 
 ## II.
 
@@ -158,7 +158,7 @@
 
 ## Általános rendelkezések
 
-## 1. Az adókat e melléklet szerinti határidőig kell megfizetni, illetve a költségvetési támogatásokat e melléklet szerinti időponttól lehet kiutalni. Az 52. § (1) bekezdés a)–c) és e) pontjában meghatározott esetben az adózónak az adóbevallás benyújtásával egyidejűleg az adót is meg kell fizetnie.
+## 1. Az adókat e melléklet szerinti határidőig kell megfizetni, illetve a költségvetési támogatásokat e melléklet szerinti időponttól lehet kiutalni. Az 52. § (1) bekezdés a)–c) és e) pontjában és az 52. § (5) bekezdésében meghatározott esetben az adózónak az adóbevallás benyújtásával egyidejűleg az adót is meg kell fizetnie.
 
 ## 2. A felszámolás kezdő időpontját megelőzően keletkezett fizetési kötelezettséget e mellékletben foglaltaktól eltérően a Csőd tv. rendelkezéseinek megfelelően kell teljesíteni. A felszámolás alatt álló adózó az 53. § (1) bekezdése szerint a tevékenységet lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a tevékenységet lezáró adóbevallásra vonatkozó rendelkezések szerint, a felszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás után a felszámolást lezáró adóbevallásra vonatkozó rendelkezések szerint teljesíti adófizetési kötelezettségét. A végelszámolás alatt álló adózó adófizetési kötelezettségét a tevékenységét lezáró bevallás és a záró adóbevallás benyújtásával egyidejűleg, illetve a két bevallás közötti időszakról eltérő rendelkezés hiányában az általános szabályok szerint benyújtandó bevallásokra irányadó szabályok szerint köteles teljesíteni. A végelszámolás alatt álló adózó az 53. § (1) bekezdése szerint a tevékenységet lezáró adóbevallással, illetve a végelszámolást lezáró adóbevallással egyidejűleg benyújtott adóbevallás benyújtásával egyidejűleg az adót is köteles megfizetni.
 
@@ -229,21 +229,3 @@
 ## 3.2. A társasági adó
 
 ## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
-
-## 3.2.2. Az év közben átalakuló, illetve szétválás, egyesülés, beolvadás miatt vagy egyéb okból felszámolás nélkül megszűnő jogi személynek vagy egyéb szervezetnek az adóévben megfizetett adóelőleg és az átalakulás, illetve megszűnés időpontjáig számított tényleges társasági adó különbözetét az átalakulásról, illetve a megszűnésről benyújtott adóbevallásával egyidejűleg kell megfizetnie, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 3.2.3. A Számv. tv.-ben meghatározottak szerint a mérlegben megadott adatoknál forintról devizára, devizáról más devizanemre, illetve devizáról forintra áttérő vállalkozó az adóévben megfizetett adóelőleg és az áttérés napjáig számított tényleges társasági adó különbözetét az áttérésről benyújtott adóbevallással egyidejűleg fizeti meg, illetve ettől az időponttól kezdődően igényelheti vissza.
-
-## 4. Járulékok
-
-## 4.1. Társadalombiztosítási járulék, nyugdíjjárulék
-
-## 4.1.1. A munkáltató az általa levont társadalombiztosítási járulékot az elszámolt hónapot követő hó tizenkettedik napjáig,
-
-## 4.1.2. a kifizető az általa levont járulékot a kifizetés hónapját követő hó tizenkettedik napjáig,
-
-## 4.1.3. a Tbj. 4. § 2. pontja szerinti egyéni vállalkozó a társadalombiztosítási járulékot havonta a tárgyhónapot követő hónap tizenkettedik napjáig
-
-## fizeti meg.
-
-## 4.2. A Tbj. 43. §-a alapján fizetendő egészségügyi szolgáltatási járulék

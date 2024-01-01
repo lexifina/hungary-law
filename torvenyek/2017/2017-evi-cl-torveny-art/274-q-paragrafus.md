@@ -5,3 +5,5 @@
 (2) E törvénynek a Módtv.12. által megállapított 145. § (1) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
 
 (3) E törvénynek a Módtv.12. által megállapított 245. § (1) bekezdés c) pontját a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+(4) E törvénynek a Módtv.12. által megállapított 107. § (1a) bekezdésében foglalt bejelentési kötelezettséget a már üzembe helyezett automataberendezések tekintetében először 2024. február 29. napjáig kell teljesíteni.

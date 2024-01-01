@@ -12,9 +12,11 @@ a) az Szja tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban,
 
 b) az elektronikus kapcsolattartásra kötelezett vagy azt választó adózót érintő eljárásában,
 
-c) az adózó képviselőjével való kapcsolattartáshoz, és
+c) az adózó képviselőjével való kapcsolattartáshoz,
 
-d) joghatás nélküli tájékoztatás küldéséhez
+d) joghatás nélküli tájékoztatás küldéséhez és
+
+e) az Áfa tv. szerinti adóbevallási tervezethez kapcsolódó eljárásban
 
 használhatja fel.
 

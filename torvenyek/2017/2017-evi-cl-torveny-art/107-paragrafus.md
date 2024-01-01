@@ -12,6 +12,22 @@ d) az üzemeltetésnek az adózó érdekkörén kívül eső okból bekövetkeze
 
 e) haladéktalanul, a jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
+(1a) Az automataberendezés üzemeltetési helye felett rendelkezési joggal bíró adózó köteles a jogszabályban meghatározott adattartalommal – automataberendezésenként – a felügyeleti szolgáltató részére évente, az adott év október 31. napjáig elektronikus úton bejelenteni:
+
+a) az automataberendezés üzemeltetési helyének címét, helyrajzi számát,
+
+b) a helyszínen lévő automataberendezés regisztrációs számát,
+
+c) a helyszínen lévő automataberendezésben található automata felügyeleti egység (a továbbiakban: AFE) számát,
+
+d) a helyszínen lévő automataberendezés üzemeltetőjének nevét és adószámát és
+
+e) amennyiben a b)–d) pontok szerinti adat nem áll rendelkezésre, ennek tényét.
+
+(1b) Az automataberendezés üzemeltetési helye felett rendelkezési joggal bíró adózó köteles bármely az (1) bekezdés a)–d) pontjában bekövetkezett adat változását, az adatváltozás tudomására jutásától számított tizenöt napon belül a felügyeleti szolgáltató részére bejelenteni.
+
+(1c) E paragrafus alkalmazásában automataberendezés az AFE-vel rendelkező automataberendezés.
+
 (2) Az automataberendezéseket AFE-val kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
 
 (3) Az automataberendezések működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyeli.

@@ -18,7 +18,7 @@
 
 a) az automataberendezések üzemeltetői adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
 
-b) a 107. § (2)–(3) bekezdése szerinti kötelezettségek teljesítésére kötelezettek, és az e kötelezettségek alól mentesülők körének, továbbá a kötelezettségek teljesítési határidejének
+b) a 107. § (2)–(3) bekezdése szerinti kötelezettségek teljesítésére kötelezettek, és az e kötelezettségek alól mentesülők körének, a kötelezettségek teljesítési határidejének, továbbá az automata üzemeltetési helye felett rendelkezési joggal bíró adózó bejelentési kötelezettségének,
 
 c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
 

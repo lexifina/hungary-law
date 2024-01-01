@@ -10,11 +10,11 @@ c) lakcím, levelezési cím,
 
 d) hatósági igazolvány száma, a kiadás időpontja,
 
-e) a szakképesítés megnevezése, a szakképesítést igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
+e) a szakképesítés, hatósági képesítés megnevezése, a szakképesítést, hatósági képesítést igazoló bizonyítvány vagy tanúsítvány száma, a kiállító intézmény neve, a kiállítás kelte,
 
 f) adószakértők esetében az egyetemi vagy főiskolai végzettség megnevezése, az egyetemi vagy főiskolai végzettséget igazoló oklevél száma, a kiállító intézmény neve, a kiállítás kelte,
 
-g) adószakértők esetében a tevékenység végzéséhez szükséges – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – a szakképesítés megszerzését követően, a 248. § szerinti bejelentést megelőzően adótanácsadás vagy pénzügyi tanácsadás területén megszerzett szakmai gyakorlat megszerzésének helye, időtartama, valamint annak a munkakörnek vagy tevékenységnek a megnevezése, amelyben a szakmai gyakorlatot jellemzően megszerezték,
+g) adószakértők esetében a tevékenység végzéséhez szükséges – az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott – a szakképesítés, hatósági képesítés megszerzését követően, a 248. § szerinti bejelentést megelőzően adótanácsadás vagy pénzügyi tanácsadás területén megszerzett szakmai gyakorlat megszerzésének helye, időtartama, valamint annak a munkakörnek vagy tevékenységnek a megnevezése, amelyben a szakmai gyakorlatot jellemzően megszerezték,
 
 h) szakmai továbbképzési kötelezettség teljesítése.
 

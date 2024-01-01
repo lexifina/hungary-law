@@ -1,3 +1,3 @@
 ### 261. § [Megbízható adózók közzététele]
 
-Az állami adó- és vámhatóság honlapján közzéteszi a minősítési eljárásban megbízható adózónak minősített adózók nevét, adószámát.
+Az állami adó- és vámhatóság honlapján közzéteszi a minősítési eljárásban megbízható adózónak minősített adózók nevét, elnevezését, székhelyét, telephelyét és adószámát.

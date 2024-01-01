@@ -140,6 +140,10 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 36. önkéntes tartalékos szolgálati viszonyban álló személynek a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 59. § (1) bekezdés i) pontja vagy (2) bekezdés a) pontja szerinti feladatban történő részvétellel teljesített tényleges szolgálatára tekintettel kifizetett juttatások összegét.
 
+37. az Európai Unió más tagállamában illetőséggel rendelkező adózó részére az illetőségének tagállama által kiadott adóazonosító számot, kivéve akkor, ha a kifizető az Szja tv. szerinti kamat, illetve osztalék kifizetését, jóváírását a természetes személy részére adóazonosító jel hiányában is teljesíthet;
+
+38. az Európai Unió más tagállamában illetőséggel rendelkező személy részére irodalmi, művészeti vagy tudományos munka szerzői jogának, beleértve a filmművészeti alkotások és szoftverek szerzői jogát is, bármely szabadalom, védjegy, formaterv vagy minta, terv, titkos összetétel vagy eljárás használatáért vagy használati jogáért, vagy ipari, kereskedelmi vagy tudományos tapasztalatokra vonatkozó információért ellenértékként fizetett jogdíj összegét.
+
 (3) Az az adózó, aki vagy amely az adóév során bármely hónapban az (1) bekezdés szerinti bevallás benyújtására volt köteles, az adóév minden ezt követő hónapjára akkor is bevallás vagy a 49. § (4) bekezdés szerinti nyilatkozat benyújtására kötelezett, ha az adott hónapban adó- és/vagy járulék kötelezettsége – adó- (adóelőleg-), és/ vagy járulékalapot képező kifizetés, juttatás hiányában – nem keletkezett.
 
 (4) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett az (1b) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 41. § (1) és (2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat. Az egyéni vállalkozó és a foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem jogosult bevallást helyettesítő nyomtatványon nyilatkozatot tenni.

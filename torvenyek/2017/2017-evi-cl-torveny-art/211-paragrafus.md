@@ -13,3 +13,5 @@
 a) a munkáltató vagy kifizető késedelmes vagy hibás igazolása miatt az adózó bevallását önellenőrzéssel helyesbíti,
 
 b) a munkáltató (kifizető) az elektronikus havi adó- és járulékbevallást a természetes személy hibás nyilatkozata miatt önellenőrzéssel helyesbíti.
+
+c) az adózó bevallási kötelezettségét az Áfa tv. 184. § (2) bekezdés c) pontja alapján teljesíti, és az önellenőrzést a bevallás benyújtásától, de legkésőbb az esedékességétől számított tizenöt napon belül nyújtja be.

@@ -6,7 +6,7 @@ a) büntetlen előéletű,
 
 b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötött munkakörnek megfelelő foglalkozástól eltiltás hatálya alatt, és
 
-c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, valamint
+c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel, hatósági képesítéssel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek, valamint
 
 d) igazolja, hogy a 248. § (1) bekezdése szerinti bejelentést megelőző 12 hónapban az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott továbbképzési kötelezettségét megfelelően teljesítette.
 
