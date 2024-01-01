@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2022-07-26 | 2022. évi XXII. törvény | 1997-68-00-00.67 |
 | 2023-01-01 | 2022. évi LXXIV. törvény | 1997-68-00-00.68 |
 | 2023-06-01 | 2023. évi X. törvény | 1997-68-00-00.69 |
+| 2024-01-01 | 2023. évi LII. törvény | 1997-68-00-00.70 |
