@@ -10,21 +10,9 @@
 
 ## c) a Beruházás előkészítése és megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét a 2022. évi magyar–szlovák közös rendezésű férfi kézilabda Európa-bajnokság megrendezéséhez szükséges további kormányzati intézkedésekről szóló 1507/2019. (VIII. 23.) Korm. határozat 3. pontjában foglalt összeg szerint határozza meg;
 
-## d) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 1. Egyedi magasépítési beruházások címének a 21. Új budapesti multifunkcionális sport- és rendezvénycsarnok előkészítése és megvalósítása alcímmel történő kiegészítését;
+## d)[^1]
 
-## Felelős: pénzügyminiszter
-
-## Határidő: azonnal
-
-## e) a c) alpont szerinti összeg 2020. évi részének finanszírozása érdekében az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 7 371 420 756 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-## Miniszterelnökséget vezető miniszter
-
-## Határidő: azonnal
+## e)[^2]
 
 ## f) felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése alapján gondoskodjon a c) alpont szerinti összeg 2020. évi további esetlegesen felmerülő kifizetései fedezetének rendelkezésre állásáról a d) alpont szerinti előirányzaton;
 
@@ -50,9 +38,9 @@
 
 ## Határidő: a 2022. évi központi költségvetés tervezése során
 
-## 2.[^1]
+## 2.[^3]
 
-## 3.[^2]
+## 3.[^4]
 
 1. melléklet az 1359/2020. (VII. 1.) Korm. határozathoz
 
@@ -120,5 +108,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: Az 1. pont e) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
