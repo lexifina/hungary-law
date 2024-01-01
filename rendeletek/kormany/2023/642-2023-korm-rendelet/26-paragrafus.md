@@ -1,3 +1,5 @@
-26. §[^16]
+## „n) online továbbképzés esetén a 10/E. § (4) bekezdése szerinti elektronikus naplózást legkésőbb 5 napon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon közzétett tájékoztatóban megjelölt címre;
 
-[^16]: A 26. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+## o) e-learning továbbképzés esetén a 10/E. § (4) bekezdése szerinti elektronikus naplózást legkésőbb az elszámolhatósági időszak végét követő 5 napon belül megküldeni a nyilvántartásba vételt végző szervezet részére az egységes Kormányzati Portálon közzétett tájékoztatóban megjelölt címre.”
+
+26. § A Knyr. 11. számú melléklete a 11. melléklet szerint módosul.

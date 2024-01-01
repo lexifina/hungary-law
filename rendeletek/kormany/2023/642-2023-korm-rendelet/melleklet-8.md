@@ -1,3 +1,3 @@
-## A Hitkr. 4. számú melléklet 3. pontjában a „c)” szövegrészek helyébe a „d)” szöveg lép.
+8. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^19]
 
-8. melléklet a 642/2023. (XII. 28.) Korm. rendelethez
+[^19]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-23. §[^13]
+23. § A Knyr. 10/C. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^13]: A 23. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(1) Az 1., 4., 10. és 12. számú mellékletben meghatározott tartalmú, kötelezően használatos, a hatóság által rendszeresített nyomtatványokat és a benyújtásukra vonatkozó tájékoztatót a nyilvántartásba vételt végző szervezet az egységes Kormányzati Portálon teszi közzé.”

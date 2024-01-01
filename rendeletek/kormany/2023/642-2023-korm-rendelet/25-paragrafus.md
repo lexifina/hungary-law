@@ -1,3 +1,3 @@
-25. §[^15]
+25. § A Knyr. 10/G. §-a a következő n) és o) ponttal egészül ki:
 
-[^15]: A 25. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+(Az akkreditált szervezet köteles:)

@@ -1,3 +1,1 @@
-7. §[^3]
-
-[^3]: A 7. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+7. § A Betakr. 11. §-ában az „és benyújtani a tagintézetekhez, a Magyar Nemzeti Bankhoz, a Bankszövetséghez, az Állami Számvevőszékhez és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumhoz” szövegrész helyébe az „és az OBA honlapján közzétenni” szöveg lép.

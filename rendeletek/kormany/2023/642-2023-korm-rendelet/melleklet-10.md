@@ -1,9 +1,3 @@
-## 1. A Bkr. 2. számú melléklete a következő XII/A. ponttal egészül ki:
+10. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^21]
 
-## „XII/A. Halasztott adókülönbözet (±)”
-
-## 2. A Bkr. 2. számú melléklet D. pontja helyébe a következő rendelkezés lép:
-
-## „D. Adózott eredmény (±C–XII±XII/A)”
-
-10. melléklet a 642/2023. (XII. 28.) Korm. rendelethez
+[^21]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

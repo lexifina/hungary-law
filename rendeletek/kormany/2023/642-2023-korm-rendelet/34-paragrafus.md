@@ -1,3 +1,5 @@
-34. §[^24]
+34. § Az Eszkr.
 
-[^24]: A 34. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+1. 3. § (4) bekezdésében az „az Országos Tudományos Diákköri Tanácsnak” szövegrész helyébe az „a Doktoranduszok Országos Szövetségének, az Országos Tudományos Diákköri Tanácsnak” szöveg,
+
+2. 15. § (2) bekezdésében a „10 millió forintot” szövegrész helyébe a „20 millió forintot” szöveg

@@ -1,5 +1,7 @@
+## lép.
+
 ## 4. A magánnyugdíjpénztárak beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 222/2000. (XII. 19.) Korm. rendelet módosítása
 
-10. §[^6]
+10. § A magánnyugdíjpénztárak beszámoló készítési és könyvvezetési kötelezettségének sajátosságairól szóló 222/2000. (XII. 19.) Korm. rendelet (a továbbiakban: Mnykr.) 42. §-a a következő (31) bekezdéssel egészül ki:
 
-[^6]: A 10. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+„(31) A pénztár folyamatosan biztosítja a fedezeti, a működési, a likviditási és kockázati céltartalékok állományának és az egyes alapokhoz rendelt, azok fedezetét képező eszközök állományának az alaponkénti egyezőségét, valamint a függő tételek állománya és az azok fedezetét képező eszközök állománya egyezőségét.”

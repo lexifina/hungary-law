@@ -1,3 +1,1 @@
-30. §[^20]
-
-[^20]: A 30. § a 39. § (3) bekezdés alapján 2024. január 1-jén lép hatályba.
+30. § Az Ekr. 10. § (1) bekezdésében a „10 millió forintot” szövegrész helyébe a „20 millió forintot” szöveg lép.

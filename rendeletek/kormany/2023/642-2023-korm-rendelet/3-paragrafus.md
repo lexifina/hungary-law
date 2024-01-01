@@ -1,9 +1,3 @@
-3. § A Biztkr.
+3. §[^3]
 
-1. 1. számú melléklete az 1. melléklet szerint,
-
-2. 2. számú melléklete a 2. melléklet szerint,
-
-3. 4. számú melléklete a 3. melléklet szerint,
-
-4. 5. számú melléklete a 4. melléklet szerint
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

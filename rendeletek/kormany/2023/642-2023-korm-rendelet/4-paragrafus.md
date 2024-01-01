@@ -1,3 +1,3 @@
-## módosul.
+4. §[^4]
 
-4. § A Biztkr. 14. §-ában a „92. §” szövegrész helyébe a „92. § (1)–(4)” szöveg lép.
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
