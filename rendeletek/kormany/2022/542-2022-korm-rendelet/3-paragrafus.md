@@ -1,3 +1,3 @@
-3. § (1) Az Egyezmény I. melléklete módosításának hivatalos magyar nyelvű fordítását az 1. melléklet tartalmazza.
+3. §[^2]
 
-(2) Az Egyezmény I. melléklete módosításának hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.
+[^2]: A 3. §-t az 569/2023. (XII. 18.) Korm. rendelet 6. §-a hatályon kívül helyezte.
