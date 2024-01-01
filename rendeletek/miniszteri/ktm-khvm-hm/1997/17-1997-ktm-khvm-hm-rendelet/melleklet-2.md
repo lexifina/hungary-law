@@ -18,11 +18,11 @@
 
 ## Ennek érdekében az üzemeltetőket, a légiközlekedési személyzet tagjait, a légiforgalmi szolgálati egységeket, a kutató-mentő szolgálat egységeit, a repülőtér-üzemben tartókat és egyéb, a légiközlekedés fenntartásában vagy fejlesztésében közreműködő szerveket (a továbbiakban: repüléssel kapcsolatos szervezetek) a feladataik ellátásához szükséges mértékű repülésmeteorológiai tájékoztatással kell ellátni.
 
-## 3. A polgári légügyi hatóság a repülésmeteorológiai kérdéseket is érintő döntéseit megelőzően az Országos Meteorológiai Szolgálattól (OMSZ) szakvéleményt kér.
+## 3.[^2] A polgári légügyi hatóság a repülésmeteorológiai kérdéseket is érintő döntéseit megelőzően a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.-től (a továbbiakban: HungaroMet Zrt.) szakvéleményt kér.
 
-## A repülésmeteorológiai szolgáltatást az OMSZ, az MH Meteorológiai Szolgálat és a repülőtér-üzembentartók együttműködve biztosítják.
+## A repülésmeteorológiai szolgáltatást a HungaroMet Zrt., az MH Meteorológiai Szolgálat és a repülőtér-üzembentartók együttműködve biztosítják.
 
-## A polgári repülések meteorológiai kiszolgálását az OMSZ, és a polgári repülőtér üzembentartója, a katonai repülések meteorológiai kiszolgálását a katonai repülőtereken az MH Meteorológiai Szolgálat biztosítja.
+## A polgári repülések meteorológiai kiszolgálását a HungaroMet Zrt., és a polgári repülőtér üzembentartója, a katonai repülések meteorológiai kiszolgálását a katonai repülőtereken az MH Meteorológiai Szolgálat biztosítja.
 
 ## A szolgáltatók közötti együttműködést megállapodásban kell rögzíteni.
 
@@ -78,11 +78,11 @@
 
 ## 3. nyílt szövegű figyelmeztetésre a látvarepülés szabályai szerinti (VFR) repülés részére.
 
-## e) Az a), b), c), d) pontokban felsorolt tevékenységek alapján a légiforgalom biztonsága és hatékonysága szempontjából szükséges repülésmeteorológiai információk meghatározott körben való közzétételére, amely kiterjed:
+## e)[^3] Az a), b), c), d) pontokban felsorolt tevékenységek alapján a légiforgalom biztonsága és hatékonysága szempontjából szükséges repülésmeteorológiai információk meghatározott körben való közzétételére, amely kiterjed:
 
 ## 1. a nemzetközi előrejelző központokból és adatbankokból származó repülési dokumentációkra,
 
-## 2. az OMSZ által biztosított információkra, az a), b), c), d) pontokban foglalt tevékenységek eredményére,
+## 2. a HungaroMet Zrt. által biztosított információkra, az a), b), c), d) pontokban foglalt tevékenységek eredményére,
 
 ## 3. továbbá a légijárművek számára levegő-föld összeköttetésű csatornán sugárzott tájékoztatásokra (VOLMET),
 
@@ -98,7 +98,7 @@
 
 ## A katonai repülések meteorológiai kiszolgálásának részletes szabályait az MH Meteorológiai Szolgálatának főnöke határozza meg.
 
-## 7. A repülőtér üzemeltetője a nyilvános, valamint az állami repülések céljára szolgáló nem nyilvános repülőtereken repülésmeteorológiai és eligazító szolgálatot (a továbbiakban: meteorológiai irodát) működtet.
+## 7.[^4] A repülőtér üzemeltetője a nyilvános, valamint az állami repülések céljára szolgáló nem nyilvános repülőtereken repülésmeteorológiai és eligazító szolgálatot (a továbbiakban: meteorológiai irodát) működtet.
 
 ## A repülőtér biztonságos használata érdekében a meteorológiai irodának az alábbiakat kell ellátnia:
 
@@ -112,9 +112,9 @@
 
 ## e) repülési dokumentáció biztosítása (bemutatása) a hajózó személyzet, valamint más légiüzemeltetést végző személyek számára,
 
-## f) az OMSZ-tól, illetve az MH Katonai Meteorológiai Központtól (a továbbiakban: KMK) érkező meteorológiai információk fogadása,
+## f)[^5] a HungaroMet Zrt.-től, illetve az MH Katonai Meteorológiai Központtól (a továbbiakban: KMK) érkező meteorológiai információk fogadása,
 
-## g) a repülőtéren keletkező meteorológiai információk OMSZ-hez, illetve a KMK-hoz való továbbítása.
+## g)[^6] a repülőtéren keletkező meteorológiai információk OMSZ-hez, illetve a KMK-hoz való továbbítása.
 
 ## A nemzetközi kereskedelmi repülőtér biztonságos használata érdekében a meteorológiai iroda az előzőekben felsoroltakon túl a következő feladatokat önállóan is elláthatja:
 
@@ -130,11 +130,11 @@
 
 ## f) időjárási veszélyjelzések készítése és kiadása.
 
-## A meteorológiai irodának e rendeletben előírt kötelezettségei teljesítéséhez szükséges meteorológiai alapadatokat és információkat, a repülőtéri mérések kivételével, az OMSZ, illetve az KMK szolgáltatja. Az OMSZ ellátási körébe az ICAO által szervezett repülésmeteorológiai távközlési rendszerben (MOTNE-ban) forgalmazott anyagok és a WMO távközlési rendszerében (GTS-ben) a nemzeti meteorológiai szolgálatok között rendszeresen kicserélésre kerülő talaj- és magaslégköri megfigyelési és mérési adatok, valamint előrejelzések tartoznak.
+## A meteorológiai irodának e rendeletben előírt kötelezettségei teljesítéséhez szükséges meteorológiai alapadatokat és információkat, a repülőtéri mérések kivételével, a HungaroMet Zrt., illetve az KMK szolgáltatja. A HungaroMet Zrt. ellátási körébe az ICAO által szervezett repülésmeteorológiai távközlési rendszerben (MOTNE-ban) forgalmazott anyagok és a WMO távközlési rendszerében (GTS-ben) a nemzeti meteorológiai szolgálatok között rendszeresen kicserélésre kerülő talaj- és magaslégköri megfigyelési és mérési adatok, valamint előrejelzések tartoznak.
 
 ## A meteorológiai iroda feladatai ellátása érdekében saját felelősségére más információs forrásokra is támaszkodhat (így különösen: műholdon, különböző távközlési és számítógépes hálózatokon keresztül a nemzetközi adatbankokból, regionális központokból – RAFC-októl – beszerezhető anyagok).
 
-## 8. A Meteorológiai Figyelő Irodának (a továbbiakban: MeFi), az ICAO Annex 3 3.5.2. pontjában meghatározott feladatait Budapest FIR-ben az OMSZ és a HungaroControl Repülőtéri Meteorológiai Iroda[^2] együttesen látja el. A két egység közötti feladatmegosztást megállapodásban kell rögzíteni.
+## 8.[^7] A Meteorológiai Figyelő Irodának (a továbbiakban: MeFi), az ICAO Annex 3 3.5.2. pontjában meghatározott feladatait Budapest FIR-ben a HungaroMet Zrt. és a HungaroControl Repülőtéri Meteorológiai Iroda együttesen látja el. A két egység közötti feladatmegosztást megállapodásban kell rögzíteni.
 
 ## Az MeFi köteles felelősségi körében
 
@@ -190,17 +190,17 @@
 
 ## A szolgáltatónak és a felhasználónak írásban meg kell állapodnia a szolgáltatásnak e Szabályzatban meghatározottak szerinti terjedelméről és a változtatáshoz szükséges előzetes határidőről.
 
-## 11. A polgári repülés meteorológiai kiszolgálása is díjazás ellenében történik.
+## 11.[^8] A polgári repülés meteorológiai kiszolgálása is díjazás ellenében történik.
 
 ## A repülésmeteorológiai szolgáltatás költségeinek megosztását a 3. pontban meghatározott szolgáltató szervek közötti megállapodás szerint a végzett szolgáltatás arányában kell megállapítani, és a költségek fedezetét az Lt. 2. §-a (1) bekezdésének j) pontja alapján állami költségvetésből, illetve a szolgáltató szervek egyéb bevételeiből kell fedezni.
 
-## A nemzetközi repülések kiszolgálásának díját (az 5. pontban foglalt tevékenység ellenértékét) a HungaroControl Magyar Légiforgalmi Szolgálat[^3] utalja át az OMSZ részére, amely az OMSZ törvényben megállapított éves költségvetési kiadási előirányzatának 18%-a.
+## A nemzetközi repülések kiszolgálásának díját (az 5. pontban foglalt tevékenység ellenértékét) a HungaroControl Magyar Légiforgalmi Szolgálat utalja át a HungaroMet Zrt. részére, amely a HungaroMet Zrt. törvényben megállapított éves költségvetési kiadási előirányzatának 18%-a.
 
-## A katonai repülések kiszolgálásához igénybe vett, az OMSZ keretében létrehozott adatok és információk ellenértékét az MH Meteorológiai Szolgálata meteorológiai mérések és információk átadásával, a hazai és nemzetközi távközlési költségek arányos átvállalásával és a közös fejlesztések együttes finanszírozásával teljesíti.
+## A katonai repülések kiszolgálásához igénybe vett, a HungaroMet Zrt. keretében létrehozott adatok és információk ellenértékét az MH Meteorológiai Szolgálata meteorológiai mérések és információk átadásával, a hazai és nemzetközi távközlési költségek arányos átvállalásával és a közös fejlesztések együttes finanszírozásával teljesíti.
 
-## 12. A polgári repülésmeteorológiai nemzetközi képviselete:
+## 12.[^9] A polgári repülésmeteorológiai nemzetközi képviselete:
 
-## Az ICAO-ban és a polgári repülés egyéb nemzetközi szervezeteiben a Magyar Köztársaságot a KHVM Légügyi Főigazgató képviseli. Ezen szervezetekben repülésmeteorológiát, illetve repülésmeteorológiai távközlést érintő ügyekben a Légügyi Főigazgató az OMSZ elnökével együttműködve jár el.
+## Az ICAO-ban és a polgári repülés egyéb nemzetközi szervezeteiben a Magyar Köztársaságot a KHVM Légügyi Főigazgató képviseli. Ezen szervezetekben repülésmeteorológiát, illetve repülésmeteorológiai távközlést érintő ügyekben a Légügyi Főigazgató a HungaroMet Zrt. elnökével együttműködve jár el.
 
 ## A katonai meteorológiai nemzetközi együttműködésekben a képviseletet az MH Meteorológiai Szolgálatának vezetője látja el.
 
@@ -346,49 +346,49 @@
 
 1. A levegőkörnyezet állapotának észlelése:
 
-a) földfelszíni általános meteorológiai észlelés, amely a WMO ajánlásai alapján az OMSZ által meghatározott tér- és időbeli gyakorisággal és pontossággal a következő időjárási elemek megfigyelésére és mérésére terjed ki:
+## a)[^10] földfelszíni általános meteorológiai észlelés, amely a WMO ajánlásai alapján a HungaroMet Zrt. által meghatározott tér- és időbeli gyakorisággal és pontossággal a következő időjárási elemek megfigyelésére és mérésére terjed ki:
 
-– szél iránya és sebessége, széllökések,
+## – szél iránya és sebessége, széllökések,
 
-– látástávolság,
+## – látástávolság,
 
-– hőmérséklet,
+## – hőmérséklet,
 
-– harmatpont,
+## – harmatpont,
 
-– légnyomás,
+## – légnyomás,
 
-– a légnyomás változásának tendenciája és mértéke,
+## – a légnyomás változásának tendenciája és mértéke,
 
-– a felhőzet mennyisége, fajtája, a felhőalap magassága,
+## – a felhőzet mennyisége, fajtája, a felhőalap magassága,
 
-– aktuális időjárás (jelenidő),
+## – aktuális időjárás (jelenidő),
 
-– csapadékmennyiség.
+## – csapadékmennyiség.
 
-Az észlelések eredményeit táviratba kell foglalni, amelynek kódolt formáját (SYNOP) óránként ki kell adni.
+## Az észlelések eredményeit táviratba kell foglalni, amelynek kódolt formáját (SYNOP) óránként ki kell adni.
 
-A WMO ajánlásai alapján az OMSZ által meghatározott időjárási kritériumok teljesülésének észlelésekor speciális jelentéseket kell készíteni, amelyek kódolt formáját (SPECI) azonnal ki kell adni;
+## A WMO ajánlásai alapján a HungaroMet Zrt. által meghatározott időjárási kritériumok teljesülésének észlelésekor speciális jelentéseket kell készíteni, amelyek kódolt formáját (SPECI) azonnal ki kell adni;
 
-b) magaslégköri meteorológiai megfigyelés (rádiószondázás), amely a WMO ajánlásai alapján az OMSZ által meghatározott tér- és időbeli gyakorisággal, a következő meteorológiai elemek függőleges irányú mérésére terjed ki:
+## b)[^11] magaslégköri meteorológiai megfigyelés (rádiószondázás), amely a WMO ajánlásai alapján a HungaroMet Zrt. által meghatározott tér- és időbeli gyakorisággal, a következő meteorológiai elemek függőleges irányú mérésére terjed ki:
 
-– légnyomás,
+## – légnyomás,
 
-– hőmérséklet,
+## – hőmérséklet,
 
-– nedvesség,
+## – nedvesség,
 
-– szél iránya és sebessége.
+## – szél iránya és sebessége.
 
-Az észlelések eredményeit táviratba kell foglalni, amelynek kódolt formáját (TEMP) az OMSZ által meghatározott gyakorisággal ki kell adni;
+## Az észlelések eredményeit táviratba kell foglalni, amelynek kódolt formáját (TEMP) a HungaroMet Zrt. által meghatározott gyakorisággal ki kell adni;
 
-c) radarmegfigyelések, amely az OMSZ által meghatározott – radarmérési utasításban rögzített – tér- és időbeli gyakorisággal az alábbi mérésekre terjed ki:
+## c)[^12] radarmegfigyelések, amely a HungaroMet Zrt. által meghatározott – radarmérési utasításban rögzített – tér- és időbeli gyakorisággal az alábbi mérésekre terjed ki:
 
-– a csapadékobjektumok mozgásának és fejlődésének megfigyelése,
+## – a csapadékobjektumok mozgásának és fejlődésének megfigyelése,
 
-– az objektumok vertikális metszetének és szerkezetének megfigyelése.
+## – az objektumok vertikális metszetének és szerkezetének megfigyelése.
 
-A mérések eredményeit a távközlési csatornákon folyamatosan kell továbbítani;
+## A mérések eredményeit a távközlési csatornákon folyamatosan kell továbbítani;
 
 d) műholdas megfigyelések eredményeinek vétele, amely a látható és infravörös tartományban készült műholdképek vételével és megjelenítésével – időszakosan a vízgőz tartományban készült felvételekkel kiegészítve – biztosítja a felhőzet mozgásának és fejlődésének folyamatos nyomon követését;
 
@@ -540,7 +540,7 @@ h) a Világkörzeti Előrejelző Rendszer (WAFS) világ- és regionális előrej
 
 – szignifikáns időjárási térképek;
 
-i) az OMSZ által készített általános meteorológiai előrejelzések és speciális csapadék-előrejelzések elemzése és alap-prognózisként történő felhasználása a repülésmeteorológiai előrejelzésekhez.
+## i)[^13] a HungaroMet Zrt. által készített általános meteorológiai előrejelzések és speciális csapadék-előrejelzések elemzése és alap-prognózisként történő felhasználása a repülésmeteorológiai előrejelzésekhez.
 
 3. A levegőkörnyezet állapotának és állapotváltozásainak repülésmeteorológiai célú előrejelzése:
 
@@ -676,23 +676,23 @@ a) BRIEFING, az ICAO Annex 3 WMO Technical Regulations előírásait követő re
 
 – a külföldi repülésmeteorológiai hivatalok területi előrejelzései;
 
-b) BRIEFING, az OMSZ által biztosított információk:
+## b)[^14] BRIEFING, a HungaroMet Zrt. által biztosított információk:
 
-– az indulási repülőtér(ek) előrejelző (TAF) táviratai,
+## – az indulási repülőtér(ek) előrejelző (TAF) táviratai,
 
-– veszélyjelző táviratok a magyar légtérre,
+## – veszélyjelző táviratok a magyar légtérre,
 
-– útvonal-előrejelzések,
+## – útvonal-előrejelzések,
 
-– területi előrejelzések,
+## – területi előrejelzések,
 
-– szignifikáns időjárási térkép az alacsonyszintű (100 FI alatti) repülés részére,
+## – szignifikáns időjárási térkép az alacsonyszintű (100 FI alatti) repülés részére,
 
-– a magyarországi szinoptikus állomások METAR kódformátumúvá alakított időjárási táviratai,
+## – a magyarországi szinoptikus állomások METAR kódformátumúvá alakított időjárási táviratai,
 
-– speciális előrejelzések a sportrepülés részére,
+## – speciális előrejelzések a sportrepülés részére,
 
-– szóbeli eligazítás;
+## – szóbeli eligazítás;
 
 c) a levegőben lévő légijárművek rádiófrekvencián történő tájékoztatása a környező repülőterek időjárási adatairól és a légtérben előforduló veszélyes időjárási jelenségekről (VOLMET szolgálat).
 
@@ -710,7 +710,19 @@ b) a Szabályzat 5. pontjában foglalt tevékenység eredményeként létrejött
 
 – egyéb, speciális célokat szolgáló telekommunikációs csatornák;
 
-c) a Szabályzat 5. pontjában foglalt tevékenységek eredményeként létrejött információk távközlése az OMSZ és a repülőterek között.
+c)[^15] a Szabályzat 5. pontjában foglalt tevékenységek eredményeként létrejött információk távközlése a HungaroMet Zrt. és a repülőterek között.
 
-[^2]: A melléklet 8. pontja a 45/2001. (XII. 20.) KöViM rendelet 6. § (2) bekezdésének fb) pontja szerint módosított szöveg.
-[^3]: A melléklet 11. pontja a 45/2001. (XII. 20.) KöViM rendelet 6. § (2) bekezdésének eb) pontja szerint módosított szöveg.
+[^2]: A Melléklet 3. pontja a 41/2023. (XII. 29.) EM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: A Melléklet 5. pont e) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § b) pontja szerint módosított szöveg.
+[^4]: A Melléklet 7. pont záró szövegrésze a 41/2023. (XII. 29.) EM rendelet 1. § e) pontja szerint módosított szöveg.
+[^5]: A Melléklet 7. pont f) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § c) pontja szerint módosított szöveg.
+[^6]: [A Melléklet 7. pont g) alpontjában a 41/2023. (XII. 29.) EM rendelet 1. § d) pontja által elrendelt módosítás, amely szerint az „az OMSZ-hez” szövegrész helyébe az „a HungaroMet Zrt.-hez” szöveg lép, nem vezethető át.]
+[^7]: A Melléklet 8. pontja a 45/2001. (XII. 20.) KöViM rendelet 6. § (2) bekezdésének fb) pontja, a 41/2023. (XII. 29.) EM rendelet 1. § b) pontja szerint módosított szöveg.
+[^8]: A Melléklet 11. pontja a 45/2001. (XII. 20.) KöViM rendelet 6. § (2) bekezdésének eb) pontja, a 41/2023. (XII. 29.) EM rendelet 1. § f) pontja szerint módosított szöveg.
+[^9]: A Melléklet 12. pontja a 41/2023. (XII. 29.) EM rendelet 1. § b) pontja szerint módosított szöveg.
+[^10]: A 2. számú függelék 1. pont a) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § g) pontja szerint módosított szöveg.
+[^11]: A 2. számú függelék 1. pont b) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § g) pontja szerint módosított szöveg.
+[^12]: A 2. számú függelék 1. pont c) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § h) pontja szerint módosított szöveg.
+[^13]: A 2. számú függelék 2. pont i) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § h) pontja szerint módosított szöveg.
+[^14]: A 2. számú függelék 5. pont b) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § h) pontja szerint módosított szöveg.
+[^15]: A 2. számú függelék 6. pont c) alpontja a 41/2023. (XII. 29.) EM rendelet 1. § h) pontja szerint módosított szöveg.
