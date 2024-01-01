@@ -64,7 +64,7 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 
 | 0400 | szülészet-nőgyógyászat |
 
-| 0403 | In vitro fertilizáció (IVF) |
+| 0403 | Asszisztált reprodukció |
 
 | 0404 | intézeten kívüli szülészeti és újszülött ellátás |
 
@@ -73,6 +73,8 @@ I. A működési engedélyek kiadásának alapjául szolgáló egészségügyi s
 | 0406 | nőgyógyászat |
 
 | 0407 | tele-cardiotocográfia |
+
+| 0408 | Szülészeti-nőgyógyászati szonográfusi tevékenység |
 
 ## 05 Csecsemő- és gyermekgyógyászat
 
@@ -654,4 +656,4 @@ d) SZ4 kódot kell alkalmazni, amennyiben a működési engedély nem egészség
 
 II. A működési engedélyek kiadásának alapjául szolgáló ellátási formák jegyzéke
 
-[^27]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a, a 23/2023. (VI. 30.) BM rendelet 16. §-a, a 27/2023. (VIII. 3.) BM rendelet 8. §-a szerint módosított szöveg.
+[^27]: A 2. számú melléklet az 1/2012. (V. 31.) EMMI rendelet 12. §-ával megállapított, a 73/2013. (XII. 2.) EMMI rendelet 7. §-a, az 52/2014. (XII. 19.) EMMI rendelet 4. §-a, a 42/2015. (IX. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 23. §-a, a 7/2016. (III. 30.) EMMI rendelet 6. §-a, a 44/2016. (XII. 28.) EMMI rendelet 26. §-a, a 28/2017. (X. 25.) EMMI rendelet 29. §-a, a 24/2019. (X. 31.) EMMI rendelet 3. §-a, az 57/2021. (XII. 21.) EMMI rendelet 1. §-a, az 59/2021. (XII. 28.) EÜM rendelet 4. §-a, a 3/2022. (I. 14.) EMMI rendelet 4. §-a, a 23/2023. (VI. 30.) BM rendelet 16. §-a, a 27/2023. (VIII. 3.) BM rendelet 8. §-a, a 70/2023. (XII. 23.) BM rendelet 12. §-a szerint módosított szöveg.
