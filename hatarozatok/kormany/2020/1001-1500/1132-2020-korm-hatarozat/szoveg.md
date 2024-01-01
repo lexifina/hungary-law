@@ -2,11 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Lechner Nonprofit Kft.) számára az államhatárral és az alapponthálózati pontokkal összefüggő geodéziai feladatok, valamint az örökségvédelmi szakmai és kapcsolódó feladatok ellátásához forrás biztosítása szükséges;
 
-2. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcímnek a 61. Az államhatárral és az alapponthálózati pontokkal összefüggő geodéziai feladatok jogcímcsoporttal történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+2.[^1]
 
 3. felhívja a Miniszterelnökséget vezető minisztert, hogy gondoskodjon az 1. pont szerinti 2019. évben felmerült feladatok ellátásához – a kifizetésekhez kapcsolódó kincstári díjjal együtt – 301 200 000 forint 2020. évben történő rendelkezésre állásáról, az alábbiak szerint:
 
@@ -23,3 +19,5 @@ Határidő: azonnal
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a forrás rendelkezésre állását és az Áht. 28. § (1) bekezdése szerinti szabályozási feltétel fennállását követően azonnal
+
+[^1]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
