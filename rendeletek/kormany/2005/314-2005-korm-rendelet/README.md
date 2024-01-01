@@ -53,3 +53,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-314-20-
 | 2023-01-01 | 2005-314-20-22.58 | 151/2009. (VII. 23.) Korm. rendelet |
 | 2023-03-01 | 2005-314-20-22.59 | 60/2023. (II. 28.) Korm. rendelet |
 | 2023-12-31 | 2005-314-20-22.62 | 675/2023. (XII. 29.) Korm. rendelet |
+| 2024-01-01 | 2005-314-20-22.60 | 561/2023. (XII. 14.) Korm. rendelet |
