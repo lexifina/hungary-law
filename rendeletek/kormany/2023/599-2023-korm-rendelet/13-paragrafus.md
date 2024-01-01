@@ -1,0 +1,1 @@
+13. § A Magyar Közigazgatási Ösztöndíjról szóló 52/2019. (III. 14.) Korm. rendelet 2. § (1) bekezdésében a „közigazgatási minőségpolitikáért és személyzetpolitikáért” szövegrész helyébe a „kormányzati stratégiák kidolgozásának támogatásáért” szöveg lép.

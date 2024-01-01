@@ -1,0 +1,1 @@
+9. § A Felsőbbfokú Tanulmányok Intézete létrehozásáról szóló 311/2015. (X. 28.) Korm. rendelet 1. §-ában a „kormányzati társadalmi kapcsolatok összehangolásáért” szövegrész helyébe a „területfejlesztésért” szöveg lép.

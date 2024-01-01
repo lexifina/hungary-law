@@ -1,0 +1,1 @@
+48. § A Közös Agrárpolitika pénzügyi alapjaiból és a nemzeti költségvetésből biztosított agrártámogatások pénzügyi, számviteli, lebonyolítási rendjéről szóló 481/2023. (X. 31.) Korm. rendelet 2. § (2) bekezdés d) pontjában a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg lép.

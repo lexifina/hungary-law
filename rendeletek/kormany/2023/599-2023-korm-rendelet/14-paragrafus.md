@@ -1,0 +1,1 @@
+14. § A 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 26. § (1) bekezdés e) pontjában, 28. § (1) bekezdés e) pontjában, és a 35. § (1) bekezdés f) pontjában a „területfejlesztés stratégiai tervezéséért” szövegrész helyébe a „területfejlesztésért” szöveg lép.
