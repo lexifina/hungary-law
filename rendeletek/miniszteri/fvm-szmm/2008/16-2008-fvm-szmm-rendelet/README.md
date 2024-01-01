@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-16-20-8
 | 2017-01-01 | 2008-16-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2017-08-18 | 2008-16-20-82.7 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2008-16-20-82.8 | 42/2017. (VIII. 17.) FM rendelet |
+| 2024-01-01 | 2008-16-20-82.9 | 166/2023. (XII. 27.) AM rendelet |

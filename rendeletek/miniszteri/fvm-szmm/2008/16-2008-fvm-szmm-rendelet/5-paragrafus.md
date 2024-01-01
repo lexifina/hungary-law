@@ -1,6 +1,6 @@
 ## 5. § A laboratórium feladatai:
 
-a)[^3] az 1. számú melléklet 1. pont szerinti laboratórium listát vezet a mintavétel végrehajtására jogosult személyek elérhetőségéről, amelyet félévente elektronikusan megküld a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH), illetve tájékoztatásul a Kincstárnak;
+a)[^3] az 1. számú melléklet 1. pontja szerinti laboratórium listát vezet a mintavétel végrehajtására jogosult személyek elérhetőségéről, amelyet az elérhetőségi adatok változása esetén elektronikusan megküld a Nemzeti Élelmiszerlánc-biztonsági Hivatalnak (a továbbiakban: NÉBIH), illetve tájékoztatásul a Kincstárnak;
 
 b) a mintavétel megszervezése, a mintavételhez szükséges steril, konzerválószerrel ellátott mintavételi edény, valamint a minta anonimitásának és azonosíthatóságának biztosítása;
 
@@ -16,7 +16,7 @@ g)[^5] a 853/2004/EK rendelet III. melléklet, IX. szakasz, I. fejezet III. rés
 
 h)[^6] a vizsgálati eredmények vármegyei összesítése havonta, az összesítés és a vizsgálat alá vont tejtétel mennyiségének elektronikus úton történő megküldése – a mezőgazdasági, agrár-vidékfejlesztési, valamint a halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél regisztrációs számra történő hivatkozással – a tejtermelő gazdaság és tejgyűjtő telephelye szerinti a vármegyei kormányhivatalnak, a NÉBIH-nek és a Kincstárnak.
 
-[^3]: Az 5. § a) pontja a 70/2013. (VII. 31.) VM rendelet 88. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 26. § b) pontja szerint módosított szöveg.
+[^3]: Az 5. § a) pontja a 166/2023. (XII. 27.) AM rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 5. § c) pontja a 42/2017. (VIII. 17.) FM rendelet 107. § b) pontja, a 104/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^5]: Az 5. § g) pontja a 42/2017. (VIII. 17.) FM rendelet 107. § c) pontja, a 104/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^6]: Az 5. § h) pontja a 70/2013. (VII. 31.) VM rendelet 88. § f) pontja, a 19/2014. (III. 12.) VM rendelet 23. § d) pontja, a 88/2016. (XII. 29.) FM rendelet 26. § b) pontja, a 42/2017. (VIII. 17.) FM rendelet 107. § d) pontja, a 104/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
