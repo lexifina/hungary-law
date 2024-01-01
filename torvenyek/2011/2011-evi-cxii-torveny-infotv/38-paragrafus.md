@@ -12,6 +12,8 @@
 
 (2b) A Hatóságnak a (2) bekezdésben a személyes adatok tekintetében meghatározott feladatköre a bírósági döntés meghozatalára irányuló peres és nemperes eljárásokban, az azokra vonatkozó előírások alapján a bíróság által végzett adatkezelési műveletek vonatkozásában nem terjed ki a (3) bekezdésben meghatározott hatáskörök gyakorlására.
 
+(2c) Az adatkormányzási rendelet szerinti, az adatközvetítő szolgáltatásokért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért felelős illetékes hatóság részére megállapított feladat- és hatásköröket a Magyarország joghatósága alá tartozó jogalanyok tekintetében az adatkormányzási rendeletben és e törvényben meghatározottak szerint a Hatóság gyakorolja.
+
 (3) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében az e törvényben meghatározottak szerint különösen
 
 a) bejelentés alapján és hivatalból vizsgálatot folytat;
@@ -29,6 +31,8 @@ f) bejelentés alapján és hivatalból átláthatósági hatósági eljárást 
 g) kérelemre adatkezelési engedélyezési eljárást folytat;
 
 h) ellátja az Európai Unió kötelező jogi aktusában, így különösen az általános adatvédelmi rendeletben és a 2016/680 (EU) irányelvben a tagállami felügyeleti hatóság részére megállapított, továbbá a törvényben meghatározott egyéb feladatokat.
+
+i) ellátja az adatkormányzási rendeletben meghatározott, az adatközvetítő szolgáltatók nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság és az adataltruista szervezetek nyilvántartásba vételéért és felügyeletéért felelős illetékes hatóság feladatait.
 
 (4) A Hatóság a (2) és (2a) bekezdés szerinti feladatkörében különösen
 

@@ -16,6 +16,10 @@ e) – a Hatóság véleményének kikérésével – állapítsa meg a nemzetbi
 
 f) jelölje ki a felület üzemeltetőjét, valamint állapítsa meg a felület működtetésére, illetve az azon történő közzétételre vonatkozó részletes szabályokat.
 
+g) állapítsa meg az adatkormányzási rendeletben meghatározott, az Európai Bizottság értesítésére vonatkozó részletes szabályokat,
+
+h) állapítsa meg a Hatóság VI/B. fejezet szerinti ellenőrzése módszertanának a részletes eljárási szabályait a Hatóság véleményének kikérésével.
+
 (2) Felhatalmazást kap
 
 a) a feladatkörrel rendelkező miniszter, hogy rendeletben az irányítása vagy felügyelete alá tartozó szervekre nézve különös közzétételi listát állapíthasson meg,
@@ -25,3 +29,5 @@ b) az e-közigazgatásért felelős miniszter, hogy rendeletben állapítsa meg 
 c)
 
 (3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatkezelési engedélyezési eljárás lefolytatásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.
+
+(4) Felhatalmazást kap az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter, hogy a Hatóság véleményének kikérésével, az adópolitikáért felelős miniszterrel egyetértésben az adatközvetítői szolgáltató és az adataltruista szervezet nyilvántartásba vételéért, valamint az adatközvetítő szolgáltató számára kiállított megfelelőségi bizonyítványért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat rendeletben állapítsa meg.

@@ -6,7 +6,7 @@ a) érintettje gyermek, vagy
 
 b) különleges adat vagy bűnügyi személyes adat.
 
-(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a Hatóság hirdetményi úton közli. A hirdetményt öt napig kell a Hatóság hirdetőtábláján kifüggeszteni, valamint a honlapján közzétenni. A végzés közlésének napja a hirdetmény kifüggesztését követő harmadik nap.
+(3) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő végzést a Hatóság hirdetményi úton közli. A hirdetményt öt napig kell a Hatóság honlapján közzétenni. A végzés közlésének napja a honlapon történő közzétételét követő harmadik nap.
 
 (4) A Hatóság (1) bekezdés szerinti végzésének kötelezettje – annak a végzésben történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
 

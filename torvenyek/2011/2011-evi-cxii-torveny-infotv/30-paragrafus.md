@@ -2,6 +2,14 @@
 
 (2) Az adatigénylésnek közérthető formában és – amennyiben ezt az adatot kezelő közfeladatot ellátó szerv aránytalan nehézség nélkül teljesíteni képes – az igénylő által kívánt formában, illetve módon kell eleget tenni. Ha a kért adatot korábban már elektronikus formában nyilvánosságra hozták, az igény teljesíthető az adatot tartalmazó nyilvános forrás megjelölésével is. Az adatigénylést nem lehet elutasítani arra való hivatkozással, hogy annak közérthető formában nem lehet eleget tenni.
 
+(2a) Az adatigénylésnek a közfeladatot ellátó szerv nem köteles eleget tenni, ha az igény teljesítése
+
+a) a közfeladatot ellátó szerv tényleges kezelésében nem lévő – így különösen az irányítása vagy felügyelete alatt álló közfeladatot ellátó szerv kezelésében lévő – adat beszerzését, begyűjtését, vagy
+
+b) a közfeladatot ellátó szerv tényleges kezelésében lévő közérdekű adatok vagy közérdekből nyilvános adatok összevetése útján a kezelésében lévő adatokhoz képest új adat előállítását
+
+tenné szükségessé.
+
 (3) Az igény teljesítésének megtagadásáról, annak indokaival, valamint az igénylőt e törvény alapján megillető jogorvoslati lehetőségekről való tájékoztatással együtt, az igény beérkezését követő 15 napon belül írásban vagy – ha az igényben elektronikus levelezési címét közölte – elektronikus levélben értesíteni kell az igénylőt. Az elutasított kérelmekről, valamint az elutasítások indokairól az adatkezelő nyilvántartást vezet.
 
 (4) A közérdekű adat megismerése iránti igény teljesítése nem tagadható meg azért, mert a nem magyar anyanyelvű igénylő az igényét anyanyelvén vagy az általa értett más nyelven fogalmazza meg.
