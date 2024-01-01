@@ -22,7 +22,7 @@ gb) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbia
 
 bűncselekmény elkövetése miatt nem áll jogerős ügydöntő határozat hatálya alatt vagy mentesült a büntetett előélethez fűződő hátrányos következmények alól.
 
-(2) Az engedély legfeljebb öt évre adható, amely az engedélyezés feltételeinek fennállása esetén újabb öt évre meghosszabbítható.
+(2) Az engedély határozatlan időre szól.
 
 (3) Termékdíj raktár üzemeltetése olyan belföldi ingatlanra engedélyezhető, ahol az e törvény végrehajtási rendeletében megállapított feltételek szerint termékdíjköteles termék tárolható, illetve feldolgozható, előállítható.
 
@@ -54,6 +54,6 @@ c) a termékdíj raktár engedélyezésének feltételei már nem állnak fenn.
 
 (8)–(10)
 
-(11) Az engedélyesnek a (2) bekezdésben meghatározott határidő lejártát vagy az engedély visszavonását követő napon saját célú felhasználással termékdíj kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
+(11) Az engedélyesnek az engedély visszavonását követő napon saját célú felhasználással termékdíj-kötelezettsége keletkezik azon raktárkészlet után, amely esetében a termékdíj nem került megfizetésre vagy korábban visszatérítésre került.
 
 (12) A termékdíj raktárban kiskereskedelmi értékesítés – a 3920 vámtarifaszám alá tartozó csomagolóanyag nem csomagolási célú felhasználója, továbbá a nemzetközi közforgalmú repülőtéren a repülésre nyilvántartásba vett induló utasok tartózkodására szolgáló tranzit területen kialakított, kizárólag nem helyben fogyasztásra értékesítést végző üzletben, végső úti céllal külföldre utazó utas részére történő értékesítés kivételével -, továbbá bizományosi értékesítés nem végezhető.

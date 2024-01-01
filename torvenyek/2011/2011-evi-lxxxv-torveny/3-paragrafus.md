@@ -68,11 +68,11 @@ b) a termékdíjköteles termék éves kibocsátási mennyiségéből 0,5%-ot me
 
 a)
 
-b) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett
+b) az alkalmazott
 
-ba) újrahasználható csomagolószert a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben, vagy
+ba) csomagolószert visszaváltási díjas rendszerben, vagy
 
-bb) újrahasználható raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására,
+bb) újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett raklapot a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására
 
 használja fel,
 

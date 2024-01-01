@@ -22,7 +22,7 @@ c) a technológiai folyamatba visszavezetett maradék anyag vagy a selejt felhas
 
 d) a külföldről behozott csomagolás részét képező újrahasználható csomagolószer saját célú felhasználása során, ha a kötelezett nyilvántartásával, bizonylatokkal alá tudja támasztani, hogy az újrahasználható csomagolószert a kötelezettség keletkezésének időpontját követő 365 napon belül közvetlenül külföldre vagy ipari termékdíj raktárba visszaszállították;
 
-e) az újrahasználható csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha az újrahasználható csomagolószer az e törvény végrehajtási rendeletében meghatározott újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvételre került, és a betétdíj alkalmazásának szabályairól szóló kormányrendelet szerinti betétdíjas rendszerben használják fel;
+e) a csomagolószer csomagolás részeként történő első belföldi forgalomba hozatala vagy első saját célú felhasználása esetén, ha a csomagolószert visszaváltási díjas rendszerben használják fel;
 
 f) az újrahasználható csomagolószerek nyilvántartásába a felhasználó kérelmére felvett újrahasználható raklapnak a beszerzéstől számított legalább 365 napig újrahasználható csomagolóeszközként csomagolás létrehozására céljából történő felhasználása esetén;
 
@@ -36,6 +36,6 @@ h) belföldön lévő termékdíjköteles termék tulajdonjogának belföldön g
 
 a) a (2) bekezdés d) pontja szerinti felhasználónál a termékdíjköteles termék külföldre történő kiszállítására,
 
-b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a betétdíjas újrahasználható csomagolószer felhasználására
+b) a (2) bekezdés e) pontja szerinti felhasználónál és a 3. § (6) bekezdés b) pontja szerinti nyilatkozónál a visszaváltási díjas rendszerben kezelt csomagolószer felhasználására
 
 vonatkozó szabályok megtartását ellenőrizheti.
