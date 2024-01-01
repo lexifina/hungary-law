@@ -1,0 +1,3 @@
+## 5. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet módosítása
+
+5. § A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet 4. számú mellékletében foglalt táblázat 3. sorában az „Országos Meteorológiai Szolgálat” szövegrész helyébe a „HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság” szöveg lép.
