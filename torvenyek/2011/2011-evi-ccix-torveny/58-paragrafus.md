@@ -40,7 +40,7 @@ d) a felhasználási hely fekvése szerint illetékes népegészségügyi szerve
 
 (9) A víziközmű-szolgáltató az e §-ban foglalt tevékenységei körében felmerülő költségeit – a (6) bekezdésben foglaltak kivételével – azzal a felhasználóval szemben jogosult érvényesíteni, akivel szemben fennálló közszolgáltatási szerződése körében azok felmerültek.
 
-(10) A közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátás akkor biztosított, ha az ivóvízellátás legalább 20 l/fő/nap mennyiségben a lakóhelytől számítottan legfeljebb 150 méter, közterületen megteendő távolságon belül elérhető. Négy emeletnél magasabb lifttel – vagy üzemképes lifttel – nem rendelkező lakóépület esetében négy emeletnél nem nagyobb szintkülönbséggel kell a közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátást biztosítani.
+(10) A közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátás akkor biztosított, ha az ivóvízellátás legalább 20 l/fő/nap mennyiségben a lakóhelytől számítottan legfeljebb 150 méter, közterületen megteendő távolságon belül elérhető. Négy emeletnél magasabb lifttel – vagy üzemképes lifttel – nem rendelkező lakóépület esetében négy emeletnél nem nagyobb szintkülönbségnek megfelelő távolságra a lakóhelytől kell a közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátást biztosítani.
 
 (11) Közszolgáltatási szerződés hiányában közműves ivóvizet a közkifolyókról vagy más vízvételi helyről rendszeresen vételező természetes személyek számára az ivóvízellátást legalább 20 liter/fő/nap mennyiségben, a lakóhelytől számítottan legfeljebb 300 méter, közterületen megteendő távolságon belül szükséges biztosítani.
 

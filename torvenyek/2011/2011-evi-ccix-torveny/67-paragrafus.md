@@ -4,8 +4,12 @@
 
 (1a) Az átadási szerződés alapján fizetésre kötelezett víziközmű-szolgáltató az átadási szerződés vagy annak módosítása egy aláírt példányát az aláírástól számított 30 napon belül tájékoztatásul megküldi a Hivatalnak.
 
+(1b) Az átadási szerződés egyoldalúan nem mondható fel a víziközműves kapcsolódó szolgáltatást nyújtó víziközmű-szolgáltató által akkor, ha a felmondás az átadási szerződés alapján fizetésre kötelezett víziközmű-szolgáltató jogszabályon vagy hatósági határozaton alapuló kötelezettségének teljesítését veszélyeztetné.
+
+(1c) Az (1b) bekezdés szerinti veszélyeztetésnek minősül különösen, ha az átadási szerződés az adott szolgáltatási terület műszaki körülményeinek egyedi adottságai miatt elengedhetetlen az érintett felhasználók egészséges ivóvízzel való ellátása, valamint az érintett felhasználási helyen keletkező szennyvizek összegyűjtése, elvezetése és tisztítása biztosítása érdekében.
+
 (2) A víziközmű-szolgáltatók között a mennyiségi elszámolás mérőberendezés mérési adatai alapján történik.
 
-(3) Az ivóvíz átadási árát és az átvett szennyvíz kezelési díját (a továbbiakban együtt: átadási ár) – az (1) bekezdés szerinti átadási pontonként – a miniszter az e törvény végrehajtására kiadott rendeletében állapítja meg. Az átadási ár megállapításakor rendelkezni kell arról, hogy az átadási árat mely – a rendelet hatálybalépését követő – időponttól kell alkalmazni.
+(3)
 
-(4) Az átadási ár megállapítására a 65. § rendelkezéseit kell alkalmazni azzal, hogy hatósági díj alatt átadási árat kell érteni, valamint a tájékoztatási és adatszolgáltatási kötelezettség kizárólag a víziközmű-szolgáltatót terheli.
+(4)

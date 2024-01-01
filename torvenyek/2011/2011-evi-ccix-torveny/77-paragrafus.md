@@ -1,5 +1,1 @@
-77. § (1) A 74. § (2) bekezdés 4. pontjában foglalt felhatalmazás alapján megalkotott rendelet hatálybalépéséig a víziközmű-szolgáltató legfeljebb a 2013. január 31-én jogszerűen alkalmazott díjat alkalmazhatja.
-
-(1a) Ha az (1) bekezdés alapján a díjat nem lehet megállapítani, az átadási árról a felek a 67. § (1) bekezdésében meghatározott szerződésben állapodnak meg.
-
-(2)
+77. § A víziközmű-szolgáltató az átadási szerződésben rögzített új átadási árban történő megállapodásig a 2023. október 31-én jogszerűen alkalmazott árat alkalmazhatja.

@@ -10,4 +10,4 @@ c) a víziközmű-szolgáltatás minőségének általa igényelt emelése eset�
 
 d) az új bekötés megvalósítását megelőzően, ha a bekötés a nem lakossági felhasználó által, nem továbbértékesítésre épített újépítésű lakás víziközmű-szolgáltatását szolgálja.
 
-(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézménynek, a jogi személyiséggel rendelkező vallási közösségnek, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek.
+(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézménynek, a jogi személyiséggel rendelkező vallási közösségnek, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek, továbbá ha a nem lakossági felhasználó állami tulajdonú ingatlan üzemeltetője, és az ingatlant használó központi költségvetési szerv vagy intézmény.

@@ -34,9 +34,9 @@
 
 14. a használati díj, valamint a víziközmű-fejlesztési hozzájárulás meghatározásának szempontjait és a díjak elemeit;
 
-15. a víziközmű-szolgáltatás díjainak szerkezetét;
+15.
 
-16. a víziközműves kapcsolódó szolgáltatás körében az átadási árra vonatkozó javaslat, valamint az átmeneti átadási ár megállapítására irányuló kérelem minimális tartalmi követelményeit, az ivóvíz átadási árszerkezetét, valamint az átvett szennyvíz kezelési díjainak szerkezetét;
+16.
 
 17.
 
@@ -70,9 +70,9 @@ rendeletben állapítsa meg.
 
 2. állapítsa meg a víziközmű-szolgáltatás átláthatóságának biztosítása érdekében a víziközmű-szolgáltatók által közérdekből közzéteendő adatok körét és a közzététel módját;
 
-3. állapítsa meg a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
+3. állapítsa meg a lakossági és a nem lakossági felhasználók vonatkozásában a víziközmű-szolgáltatás díjait és azok alkalmazásának kezdőidőpontját;
 
-4. állapítsa meg a víziközműves kapcsolódó szolgáltatás körében az ivóvíz átadási árait és azok alkalmazásának időpontját, valamint az átvett szennyvíz kezelési díjait és azok alkalmazásának kezdő időpontját;
+4. állapítsa meg a Víziközmű-fejlesztési és Ellentételezési Alap működtetésének részletes szabályait, valamint az abba történő befizetés és abból történő kifizetés során a víziközmű-fejlesztési és ellentételezési alapot működtető szerv, valamint a víziközmű-szolgáltatók jogosultságait és kötelezettségeit, továbbá a víziközművek fenntartásához elkülönítetten kezelt összegek mértékét, az újraelosztás alapját képező elismert indokolt költségek körét;
 
 5.
 

@@ -10,9 +10,9 @@ b) a víziközmű-szolgáltatási ágazat megnevezését és a víziközmű-rend
 
 c) a felhasználók számosságát kifejező felhasználói egyenértéket,
 
-d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
+d) a víziközmű-rendszer tulajdonosainak nevét és tulajdoni részesedését,
 
-e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
+e) a víziközmű-rendszer működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
 
 f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét,
 

@@ -1,5 +1,7 @@
 83. § (1) A (2) bekezdésben foglaltak kivételével, a 2012. július 15. napját megelőzően megkötött üzemeltetési szerződés e törvény rendelkezéseivel ellentétes rendelkezései nem alkalmazhatók.
 
+(1a) A 2012. július 15-ét megelőzően megkötött üzemeltetési szerződések hatályos jogszabályi rendelkezéseknek való megfelelés érdekében történő, egységes szerkezetbe foglalt módosítását 2024. december 31. napjáig végre kell hajtani azzal, hogy így létrejött üzemeltetési szerződés vonatkozásában a működési engedély módosítási engedélyezési eljárás igazgatási szolgáltatási díj fizetési kötelezettséget nem von maga után.
+
 (2) A 2012. július 15-ét megelőzően jogszerűen és jóhiszeműen szerzett jogokat és kötelezettségeket e törvény 16. §-ának és 29. §-ának rendelkezései nem érintik.
 
 (3) A 2012. július 15-ét megelőzően létrejött üzemeltetési szerződés időtartamának meghosszabbítása új jogviszony létesítésének minősül.

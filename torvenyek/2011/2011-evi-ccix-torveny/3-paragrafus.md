@@ -12,7 +12,7 @@
 
 (4) Az ügyintézési határidő a Hivatal
 
-a) 5/A. § (3) bekezdése szerinti eljárásában 135 nap,
+a) 5/A. § (3) bekezdése, valamint a 11. § (2) bekezdése szerinti eljárásában 135 nap,
 
 b) 5/F. § (6) bekezdése és a 16. § (3) bekezdése szerinti eljárásában 21 nap,
 

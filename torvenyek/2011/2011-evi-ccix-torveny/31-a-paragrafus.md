@@ -6,11 +6,13 @@
 
 (3) Az ideiglenes szolgáltatási tevékenység a szerződött víziközmű-szolgáltató (1) bekezdés szerint előterjesztett kérelme tárgyában hozott döntés véglegessé válása napján megszűnik.
 
-(4) Az ideiglenes szolgáltatást végző szerződött víziközmű-szolgáltató az (1) bekezdésben meghatározott kérelemmel együtt az ideiglenes szolgáltatás díjára (a továbbiakban: átmeneti díj) vonatkozó kérelmet is előterjeszthet azzal, hogy a kérelemben az analitikus és főkönyvi nyilvántartás vagy más ellenőrizhető adatbázisból származó adatokig követhető módon részletes díjkalkulációt készít az átmeneti díjaiban megtérítésre javasolt víziközmű működtetési költségekről és ráfordításokról (díjigény alátámasztó számítás).
+(4) Az ideiglenes szolgáltatást végző szerződött víziközmű-szolgáltató az (1) bekezdésben meghatározott kérelemmel együtt – a 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott miniszteri rendelet hatályba lépéséig – a lakossági és a nem lakossági felhasználók tekintetében az ideiglenes szolgáltatás díjára (a továbbiakban: átmeneti díj) vonatkozó kérelmet is előterjeszthet azzal, hogy a kérelemben az analitikus és főkönyvi nyilvántartásból vagy más ellenőrizhető adatbázisból származó adatokig követhető módon részletes díjkalkulációt készít az átmeneti díjaiban megtérítésre javasolt víziközmű működtetési költségekről és ráfordításokról (díjigény alátámasztó számítás).
 
 (4a) A (4) bekezdésben meghatározott kérelem benyújtását megelőzően a szerződött víziközmű-szolgáltató a díjigény alátámasztó számítást megküldi az ellátásért felelősnek, hogy arról az ellátásért felelős véleményt alkosson. Az ellátásért felelős a véleményt a megkeresés kézhezvételétől számított 15 napon belül adja meg.
 
 (4b) Az ellátásért felelős véleménye a (4) bekezdésben meghatározott kérelem mellékletét képezi. Ha az ellátásért felelős a megadott határidőben nem élt a véleményalkotás lehetőségével, a szerződött víziközmű-szolgáltató a (4a) bekezdés szerinti megkeresésnek a postai szolgáltatásokról szóló törvény szerinti tértivevény-szolgáltatással történő feladását és kézhezvételét igazoló okiratot csatolja a (4) bekezdésben meghatározott kérelemhez.
+
+(4c) Az ideiglenes szolgáltatást végző szerződött víziközmű-szolgáltató kizárólag a 74. § (2) bekezdés 3. pontjában foglalt felhatalmazás alapján megalkotott miniszteri rendelet hatálya alá nem tartozó felhasználói kategória tekintetében jogosult benyújtani a (4) bekezdés szerinti kérelmet.
 
 (5) Amennyiben az ideiglenes szolgáltatás ellátásának lehetősége meglévő víziközmű-rendszer bővítéseként nyílt meg és az arról ellátott településeken azonos víziközmű-szolgáltatási díjat alkalmaznak, úgy a (4) bekezdés szerinti kérelem előterjesztésének nincs helye és a szerződött víziközmű-szolgáltató az ideiglenes szolgáltatás tekintetében a víziközmű-rendszer egészére megállapított díjat alkalmazhatja.
 

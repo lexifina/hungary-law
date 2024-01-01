@@ -4,8 +4,8 @@
 
 a) a felhasználók számára külön díj ellenében kizárólagosan végezett szolgáltatások körét és azok díjait,
 
-b) a felhasználó szerződésszegése esetén külön díj ellenében kizárólagosan végzett szolgáltatások körét és azok díjait, és
+b)
 
-c) a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét.
+c)
 
 (2) A Hivatal a 65. § (2) bekezdése szerint szabályozott módon javaslatot tesz a víziközmű-szolgáltató által külön díj ellenében végzendő szolgáltatások körére és díjaira, az külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körére, valamint a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körére és díjaira.

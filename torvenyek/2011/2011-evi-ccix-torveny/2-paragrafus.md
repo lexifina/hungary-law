@@ -93,3 +93,5 @@ b) amelyen a keletkező szennyvíz részben, vagy egészben történő elvezeté
 32. egyedi szennyvízkezelő berendezés: olyan vízilétesítmény, amely legfeljebb egy ingatlanon keletkező települési szennyvíz nem közműves, biológiai tisztítását energiabevitel segítségével végzi,
 
 33. víziközmű-alap: a víziközmű-szolgáltató és az ellátásért felelősök önkéntes megállapodása alapján létrehozott, a víziközmű-fejlesztések finanszírozását biztosító források összessége, így különösen a használati díjak nyilvántartására és felhasználására szolgáló, elkülönített számlán kezelt pénzügyi eszköz.
+
+34. Víziközmű-fejlesztési és Ellentételezési Alap: az állam által létrehozott alap, amely a víziközmű-fejlesztések és a víziközmű-szolgáltatók működésének ellentételezésére szolgál, és amelybe a víziközmű-szolgáltatók az indokolt költségeikhez képest elért többletbevételeire tekintettel teljesítik a befizetéseket, és ahonnan a víziközmű-szolgáltatók a meg nem térülő elismert indokolt költségeikre tekintettel ellentételezésben részesülnek.

@@ -4,7 +4,7 @@
 
 ## 19. A víziközmű-szolgáltatás díjainak tartalma, szerkezete, megállapítása
 
-62. § (1) A víziközmű-szolgáltatás díjait országosan, víziközmű-szolgáltatónként vagy víziközmű-rendszerenként és víziközmű-szolgáltatási ágazatonként, a költségekre, árakra, díjakra vonatkozó közgazdasági összehasonlító elemzések felhasználásával, a következő szempontokra is figyelemmel kell meghatározni:
+62. § (1) A víziközmű-szolgáltatás díjait országosan, víziközmű-szolgáltatónként és víziközmű-szolgáltatási ágazatonként a lakossági és a nem lakossági felhasználókra nézve együttesen vagy külön, a költségekre, árakra, díjakra vonatkozó közgazdasági összehasonlító elemzések felhasználásával, a következő szempontokra is figyelemmel kell meghatározni:
 
 a) díjaknak ösztönözniük kell a biztonságos és legkisebb költségű víziközmű-szolgáltatást, a gazdálkodás hatékonyságának javítását, a kapacitások hatékony igénybevételét, a szolgáltatás minőségének folyamatos javítását, valamint a természeti erőforrások kímélete elvének érvényesülését;
 

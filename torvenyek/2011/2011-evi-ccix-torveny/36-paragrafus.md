@@ -11,3 +11,5 @@ b) a kérelmező nem teljesíti a jogszabályban meghatározott, víziközmű-sz
 c) a kérelmező csődeljárás vagy felszámolási eljárás alatt áll, vagy
 
 d) a kérelmező vagy jogelődje víziközmű-szolgáltatói engedélyét a kérelem benyújtását megelőző 10 éven belül a kérelmezőnek felróható okból visszavonták.
+
+(4) A Hivatal a működési engedélyt a 78. § (1) bekezdésében előírt vagyonértékelés hiányában kiadhatja, ha az engedély módosítására az ellátásért felelős személyében beállt változás miatt kerül sor, és a korábbi ellátásért felelős a vagyonértékelés elkészítéséről nem gondoskodott. Ezen esetben a Hivatal a vagyonértékelés elvégzésére irányuló feltétel előírásával adja ki a működési engedélyt.
