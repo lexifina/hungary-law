@@ -1,1 +1,0 @@
-A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 49. § b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendelet 116. § 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
