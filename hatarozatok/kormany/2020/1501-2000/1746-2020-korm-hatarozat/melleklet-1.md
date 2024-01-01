@@ -1,18 +1,6 @@
-## 1. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet címrendjének a 35. Kiemelt beruházási feladatok támogatása címmel, valamint az 1. mellékletben meghatározott alcímekkel, történő kiegészítését;
+## 1.[^1]
 
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
-
-## 2. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 27 035 300 000 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 1. Gazdaságvédelmi programok cím terhére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet, 35. Kiemelt beruházási feladatok támogatása cím, 1. melléklet szerinti alcímei javára, az ott megjelölt célokra, a 2. melléklet szerint;
-
-## Felelős: pénzügyminiszter
-
-## belügyminiszter
-
-## Határidő: azonnal
+## 2.[^2]
 
 ## 3. a Kvtv. 79. §-ában biztosított jogkörében eljárva jóváhagyja a Gazdaságvédelmi programok cím előirányzatának a 2. pont szerinti átcsoportosítás alapján az eredeti előirányzaton felül – az eddig jóváhagyott összegen túl további – 27 035 300 000 forinttal történő túlteljesülését;
 
@@ -28,6 +16,8 @@
 
 ## Határidő: 2020. december 31.
 
-1. melléklet az 1746/2020. (XI. 11.) Korm. határozathoz[^1]
+1. melléklet az 1746/2020. (XI. 11.) Korm. határozathoz[^3]
 
-[^1]: Az 1. melléklet az 1079/2021. (II. 27.) Korm. határozat 3. pontja, az 1914/2021. (XII. 15.) Korm. határozat 3. pontja, az 1428/2022. (IX. 5.) Korm. határozat 1. pontja, az 1408/2023. (IX. 21.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^1]: Az 1. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
