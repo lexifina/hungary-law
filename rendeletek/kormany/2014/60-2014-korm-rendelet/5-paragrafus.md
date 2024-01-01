@@ -14,7 +14,7 @@ e) folyamatosan figyelemmel kíséri a Partnerségi Megállapodás keretében bi
 
 f)[^13] szakmai szempontból előkészíti a Kormány üléseit.
 
-(2)[^14] A miniszter – az (1) bekezdés szerinti feladatok során kezelt adatok, így különösen a FAIR-ban nyilvántartott adatok adatkezelőjeként – a tevékenységének segítésére kijelölt minisztériumban a monitoring tevékenységek ellátásáért felelős állami vezetőt (a továbbiakban: monitoring felelős) jelöl ki. A monitoring felelős gondoskodik az adatkezelői feladatok ellátásáról, gyakorolja az adatkezelő jogait és teljesíti kötelezettségeit.
+(2)[^14] A miniszter – az (1) bekezdés szerinti feladatok során kezelt adatok, így különösen a FAIR-ban nyilvántartott adatok adatkezelőjeként – az általa vezetett minisztériumban a monitoring tevékenységek ellátásáért felelős állami vezetőt (a továbbiakban: monitoring felelős) jelöl ki. A monitoring felelős gondoskodik az adatkezelői feladatok ellátásáról, gyakorolja az adatkezelő jogait és teljesíti kötelezettségeit.
 
 (3)[^15] A monitoring felelős gondoskodik az alkalmazásgazda feladatainak ellátásáról.
 
@@ -23,5 +23,5 @@ f)[^13] szakmai szempontból előkészíti a Kormány üléseit.
 [^11]: Az 5. § (1) bekezdés c) pontja a 4/2016. (I. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^12]: Az 5. § (1) bekezdés d) pontja a 4/2016. (I. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^13]: Az 5. § (1) bekezdés f) pontja a 163/2017. (VI. 28.) Korm. rendelet 8. § 1. pontja szerint módosított szöveg.
-[^14]: Az 5. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 141. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^14]: Az 5. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 2. §-ával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 141. § (3) bekezdés a) pontja, a 640/2023. (XII. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^15]: Az 5. § (3) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
