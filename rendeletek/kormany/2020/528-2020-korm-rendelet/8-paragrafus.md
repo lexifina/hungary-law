@@ -1,4 +1,4 @@
-8. § (1)[^12]
+8. § (1)[^13]
 
 (2) Az egészségügyi szolgálati munkaszerződés tartalmazza, hogy nem rendelhető ki az egészségügyi szolgálati jogviszonyban álló személy
 
@@ -32,4 +32,4 @@ e) a kirendeléshez kapcsolódó szállási és utazási kérdésekről.
 
 (5) A kirendelt egészségügyi szolgálati jogviszonyban álló személy a (4) bekezdés szerinti tájékoztatást követő három munkanapon belül köteles jelezni, ha a kirendelés a (2) vagy (3) bekezdésbe ütközik, vagy számára aránytalan sérelemmel járna.
 
-[^12]: A 8. § (1) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 58. § a) pontja hatályon kívül helyezte.
+[^13]: A 8. § (1) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 58. § a) pontja hatályon kívül helyezte.

@@ -4,9 +4,9 @@
 
 a) a munkahelyén legalább napi 3 órán át sugárártalomnak kitett egészségügyi szolgálati jogviszonyban állónak,
 
-b)[^19]
+b)[^20]
 
-c)[^20]
+c)[^21]
 
 d) a csecsemőosztály kondicionált részlegében gyermekápolói munkakörben foglalkoztatottnak,
 
@@ -16,8 +16,8 @@ f) a betegek, ápoltak oktatását, foglalkoztatását nem órarend szerint vég
 
 (2) Az (1) bekezdésre tekintettel a teljes napi munkaidőből fennmaradó időt a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, adminisztrációs feladatok ellátásával tölti az egészségügyi szolgálati jogviszonyban álló személy.
 
-(3)[^21] A légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló a munkáltatói jogkör gyakorlójának döntése alapján a napi munkaidejének munkáltató által meghatározott tartamát a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, illetve adminisztrációs feladatok ellátásával tölti.
+(3)[^22] A légi mentési feladatot ellátó, egészségügyi szolgálati jogviszonyban álló a munkáltatói jogkör gyakorlójának döntése alapján a napi munkaidejének munkáltató által meghatározott tartamát a munkáltató által meghatározott helyen a szakmai kompetenciáinak bővítésével, illetve adminisztrációs feladatok ellátásával tölti.
 
-[^19]: A 18. § (1) bekezdés b) pontját a 286/2023. (VI. 30.) Korm. rendelet 58. § b) pontja hatályon kívül helyezte.
-[^20]: A 18. § (1) bekezdés c) pontját a 286/2023. (VI. 30.) Korm. rendelet 58. § b) pontja hatályon kívül helyezte.
-[^21]: A 18. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 21. §-a iktatta be.
+[^20]: A 18. § (1) bekezdés b) pontját a 286/2023. (VI. 30.) Korm. rendelet 58. § b) pontja hatályon kívül helyezte.
+[^21]: A 18. § (1) bekezdés c) pontját a 286/2023. (VI. 30.) Korm. rendelet 58. § b) pontja hatályon kívül helyezte.
+[^22]: A 18. § (3) bekezdését a 70/2021. (II. 19.) Korm. rendelet 21. §-a iktatta be.
