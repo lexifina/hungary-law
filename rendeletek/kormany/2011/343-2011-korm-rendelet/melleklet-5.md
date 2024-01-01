@@ -1,6 +1,6 @@
 ## A bevallás teljesítéséhez szükséges adattartalmi követelmények
 
-## I.[^88] Alapadatok
+## I.[^99] Alapadatok
 
 ## A kötelezett adatai
 
@@ -10,9 +10,9 @@
 
 ## 2. Termékkörönként tárgyidőszakban összesen fizetendő termékdíj összege
 
-## 3.[^89] A termékdíj-előleg összege
+## 3.[^100] A termékdíj-előleg összege
 
-## III.[^90] A termékdíj-kötelezettség
+## III.[^101] A termékdíj-kötelezettség
 
 ## 1. Termékdíj fajtája KT, CSK kód szerinti bontásban
 
@@ -24,13 +24,13 @@
 
 ## b) Termékdíjtételek
 
-## c)[^91]
+## c)[^102]
 
 ## d) Környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen
 
-## IV. [^92]
+## IV. [^103]
 
-## V.[^93] Visszaigényelhető termékdíj
+## V.[^104] Visszaigényelhető termékdíj
 
 ## 1. Visszaigényelhető termékdíj összegének megállapítása:
 
@@ -52,11 +52,11 @@
 
 ## e) feldolgozás módja.
 
-## 3.[^94]
+## 3.[^105]
 
-## VI.[^95]
+## VI.[^106]
 
-## VII.[^96] A termékdíj-kötelezettség átvállalására vonatkozó adatok
+## VII.[^107] A termékdíj-kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai:
 
@@ -82,7 +82,7 @@
 
 ## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
-## VIII.[^97] A nyilatkozattal átadott termékdíj-kötelezettség átadása
+## VIII.[^108] A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
 ## 1. Kötelezett neve, adószáma
 
@@ -96,7 +96,7 @@
 
 ## 3. Az átadott mennyiség jogcímek szerint:
 
-## a)[^98]
+## a)[^109]
 
 ## b) a Ktdt. 3. § (6) bekezdés ba) pontja alapján átadott mennyiség,
 
@@ -106,15 +106,15 @@
 
 ## e) a Ktdt. 3. § (6) bekezdés cb) pontja alapján átadott mennyiség.
 
-## f)[^99] a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség,
+## f)[^110] a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség,
 
-## g)[^100] a Ktdt. 3. § (6) bekezdés e) pontja alapján átadott mennyiség,
+## g)[^111] a Ktdt. 3. § (6) bekezdés e) pontja alapján átadott mennyiség,
 
-## h)[^101] a Ktdt. 3. § (6) bekezdés f) pontja alapján átadott mennyiség,
+## h)[^112] a Ktdt. 3. § (6) bekezdés f) pontja alapján átadott mennyiség,
 
-## i)[^102] a Ktdt. 3. § (6) bekezdés g) pontja alapján átadott mennyiség.
+## i)[^113] a Ktdt. 3. § (6) bekezdés g) pontja alapján átadott mennyiség.
 
-## IX.[^103] A gépjármű termékdíjköteles alkotórészei, tartozékai után fizetendő termékdíjátalány
+## IX.[^114] A gépjármű termékdíjköteles alkotórészei, tartozékai után fizetendő termékdíjátalány
 
 ## 1. KT kódja,
 
@@ -130,7 +130,7 @@
 
 ## d) a termékdíjátalány összege soronként és összesen (Ft).
 
-## X.[^104] Műanyag hordtasak és elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén
+## X.[^115] Műanyag hordtasak és elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén
 
 ## 1. Termékdíj fajtája KT, CsK kód szerinti bontásban
 
@@ -146,17 +146,17 @@
 
 ## c) Környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## XI.[^105] Csekély mennyiségű kibocsátás esetén
+## XI.[^116] Csekély mennyiségű kibocsátás esetén
 
 ## 1. Termékdíjköteles termék megnevezése;
 
-## 2.[^106] Mennyisége (kg, műanyag hordtasak, továbbá elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén darabszáma);
+## 2.[^117] Mennyisége (kg, műanyag hordtasak, továbbá elkülönített hulladék gyűjtésére szolgáló műanyag zsák esetén darabszáma);
 
 ## 3. Termékdíjátalány mértéke (Ft/év);
 
 ## 4. Termékdíjátalány összesen (Ft).
 
-5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^107]
+5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^118]
 
 A nyilvántartás minimális adattartalma
 
@@ -170,36 +170,36 @@ A termékdíjköteles termék:
 
 3. vámtarifaszáma,
 
-4.[^108] mennyisége (kg) és műanyag hordtasak, zsák vagy gépjármű ,
+4.[^119] mennyisége (kg) és műanyag hordtasak, zsák vagy gépjármű ,
 
-5.[^109] termékdíjtétele és összege vagy az átalány-termékdíj összege,
+5.[^120] termékdíjtétele és összege vagy az átalány-termékdíj összege,
 
-6.[^110]
+6.[^121]
 
 7. a termékdíj-kötelezettség keletkezésének napja,
 
 8. a termékdíj megfizetésének napja.
 
-[^88]: A 4. melléklet I. pontja a 407/2015. (XII. 15.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^89]: A 4. melléklet II. pont 3. alpontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^90]: A 4. melléklet III. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése, a 633/2022. (XII. 30.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
-[^91]: A 4. melléklet III. pont 3. alpont c) alpontját a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^92]: A 4. melléklet IV. pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.
-[^93]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^94]: A 4. melléklet V. pont 3. alpontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 12. pontja hatályon kívül helyezte.
-[^95]: A 4. melléklet VI. pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 13. pontja hatályon kívül helyezte.
-[^96]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
-[^97]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^98]: A 4. melléklet VIII. pont 3. alpont a) pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 14. pontja hatályon kívül helyezte.
-[^99]: A 4. melléklet VIII. pont 3. alpont f) pontját az 529/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^100]: A 4. melléklet VIII. pont 3. alpont g) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^101]: A 4. melléklet VIII. pont 3. alpont h) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^102]: A 4. melléklet VIII. alcím 3. pont i) alpontját a 446/2017. (XII. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^103]: A 4. melléklet IX. pontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^104]: A 4. melléklet X. pontját a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése iktatta be, nyitó szövegrésze a 724/2020. (XII. 31.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
-[^105]: A 4. melléklet XI. pontját a 724/2020. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^106]: A 4. melléklet XI. pont 2. alpontja a 724/2020. (XII. 31.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
-[^107]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
-[^108]: Az 5. melléklet 4. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 6. § f) pontja, a 633/2022. (XII. 30.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
-[^109]: Az 5. melléklet 5. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^110]: Az 5. melléklet 6. pontját a 276/2023. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^99]: A 4. melléklet I. pontja a 407/2015. (XII. 15.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^100]: A 4. melléklet II. pont 3. alpontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^101]: A 4. melléklet III. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése, a 633/2022. (XII. 30.) Korm. rendelet 5. § 10. pontja szerint módosított szöveg.
+[^102]: A 4. melléklet III. pont 3. alpont c) alpontját a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^103]: A 4. melléklet IV. pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 11. pontja hatályon kívül helyezte.
+[^104]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^105]: A 4. melléklet V. pont 3. alpontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 12. pontja hatályon kívül helyezte.
+[^106]: A 4. melléklet VI. pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 13. pontja hatályon kívül helyezte.
+[^107]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^108]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^109]: A 4. melléklet VIII. pont 3. alpont a) pontját a 633/2022. (XII. 30.) Korm. rendelet 5. § 14. pontja hatályon kívül helyezte.
+[^110]: A 4. melléklet VIII. pont 3. alpont f) pontját az 529/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^111]: A 4. melléklet VIII. pont 3. alpont g) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^112]: A 4. melléklet VIII. pont 3. alpont h) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^113]: A 4. melléklet VIII. alcím 3. pont i) alpontját a 446/2017. (XII. 27.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^114]: A 4. melléklet IX. pontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^115]: A 4. melléklet X. pontját a 446/2016. (XII. 16.) Korm. rendelet 4. § (3) bekezdése iktatta be, nyitó szövegrésze a 724/2020. (XII. 31.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.
+[^116]: A 4. melléklet XI. pontját a 724/2020. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^117]: A 4. melléklet XI. pont 2. alpontja a 724/2020. (XII. 31.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
+[^118]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
+[^119]: Az 5. melléklet 4. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 6. § f) pontja, a 633/2022. (XII. 30.) Korm. rendelet 5. § 15. pontja szerint módosított szöveg.
+[^120]: Az 5. melléklet 5. pontja a 446/2016. (XII. 16.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^121]: Az 5. melléklet 6. pontját a 276/2023. (VI. 29.) Korm. rendelet 5. §-a hatályon kívül helyezte.

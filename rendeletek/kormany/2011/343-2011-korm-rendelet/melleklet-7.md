@@ -1,4 +1,4 @@
-7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^115]
+7. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^126]
 
 1. A termékdíj raktár nyilvántartásának adattartalma
 
@@ -24,13 +24,13 @@ A termékdíjköteles termék:
 
 1.1.4.4. vámtarifaszáma,
 
-1.1.4.5.[^116] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+1.1.4.5.[^127] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 1.1.4.6. tömege (kg),
 
-1.1.4.7.[^117] a termék termékdíjfizetési státusza (megfizetett, nem került még megfizetésre, visszatérítésre kerül az eladó részére);
+1.1.4.7.[^128] a termék termékdíjfizetési státusza (megfizetett, nem került még megfizetésre, visszatérítésre kerül az eladó részére);
 
-1.1.5.[^118] a tárolás célja (tárolás, feldolgozás, előállítás, újbóli felhasználásra előkészítés, készletezés vagy alkotórészként, tartozékként más termékbe történő beépítés);
+1.1.5.[^129] a tárolás célja (tárolás, feldolgozás, előállítás, újbóli felhasználásra előkészítés, készletezés vagy alkotórészként, tartozékként más termékbe történő beépítés);
 
 1.1.6. a tulajdonos adatai (név, cím, adószám);
 
@@ -40,7 +40,7 @@ A termékdíjköteles termék:
 
 1.2.1.1. megnevezése,
 
-1.2.1.2.[^119] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+1.2.1.2.[^130] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 1.2.1.3. mennyisége (db), egységnyi tömege (kg/db), tömege (kg);
 
@@ -48,19 +48,19 @@ A termékdíjköteles termék:
 
 1.2.2.1. megnevezése,
 
-1.2.2.2.[^120] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+1.2.2.2.[^131] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 1.2.2.3. mennyisége (db), egységnyi tömege (kg/db), tömege (kg);
 
 1.2.3. a gyártási tevékenység és a felhasznált anyagok rövid leírása;
 
-1.2.4.[^121] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
+1.2.4.[^132] anyagmérleg, amely pontosan bemutatja a gyártáshoz, feldolgozáshoz, újbóli felhasználásra előkészítéshez közvetlen anyagként felhasznált termékdíjköteles termékek mennyiségét, illetve a létrejött termékdíjköteles termék mennyiségét és az egységnyi termékdíjköteles termék létrehozásához felhasznált anyagok mennyiségét (anyagnormáját);
 
-1.3.[^122] kitárolásának adatai:
+1.3.[^133] kitárolásának adatai:
 
-1.3.1.[^123] kitárolás napja;
+1.3.1.[^134] kitárolás napja;
 
-1.3.2.[^124] a kitárolás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
+1.3.2.[^135] a kitárolás oka (forgalomba hozatal belföldre, kiszállítás külföldre, saját célú felhasználás) vagy az újrahasználható csomagolószer bérbe adása;
 
 1.3.3. értékesítés esetén a vevő adatai (név, cím, belföldi vagy közösségi adószám, ha a vevő adószámmal rendelkezik);
 
@@ -72,15 +72,15 @@ A termékdíjköteles termék:
 
 1.3.5.2. vámtarifaszáma,
 
-1.3.5.3.[^125] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+1.3.5.3.[^136] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 1.3.5.4. mennyisége (db), egységnyi tömege (kg/db), tömege (kg);
 
-1.3.6.[^126] a termék termékdíjfizetési státusza (a kitároláskor keletkező kötelezettség, nem kell megfizetni, nem keletkezik fizetési kötelezettség, a vevő szerződéssel átvállalta, visszatérítésre kerül a kitároló részére);
+1.3.6.[^137] a termék termékdíjfizetési státusza (a kitároláskor keletkező kötelezettség, nem kell megfizetni, nem keletkezik fizetési kötelezettség, a vevő szerződéssel átvállalta, visszatérítésre kerül a kitároló részére);
 
-1.3.7.[^127] a termékdíj-kötelezettség keletkezésének napja vagy ennek hiányában a kötelezettség megszűnése jogszabályi helyének megjelölése.
+1.3.7.[^138] a termékdíj-kötelezettség keletkezésének napja vagy ennek hiányában a kötelezettség megszűnése jogszabályi helyének megjelölése.
 
-1.4.[^128] ideiglenes kiadásának adatai:
+1.4.[^139] ideiglenes kiadásának adatai:
 
 1.4.1. ideiglenes kiadás napja;
 
@@ -92,17 +92,17 @@ A termékdíjköteles termék:
 
 1.4.3.2. vámtarifaszáma,
 
-1.4.3.3.[^129] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+1.4.3.3.[^140] CsK vagy KT kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 1.4.3.4. mennyisége (db), egységnyi tömege (kg/db), tömege (kg).
 
-2.[^130] A termékdíj raktári betárolás és kitárolás rendje
+2.[^141] A termékdíj raktári betárolás és kitárolás rendje
 
-2.1.[^131] A termékdíj raktározási eljárás a termékdíjköteles termék termékdíj raktárba történő betárolását, az ott történő tárolását, feldolgozását, előállítását, készletezését, továbbá az újbóli felhasználásra történő előkészítését, ideiglenes kiadását és az abból történő visszavételét, valamint az onnan történő kitárolását foglalja magában.
+2.1.[^142] A termékdíj raktározási eljárás a termékdíjköteles termék termékdíj raktárba történő betárolását, az ott történő tárolását, feldolgozását, előállítását, készletezését, továbbá az újbóli felhasználásra történő előkészítését, ideiglenes kiadását és az abból történő visszavételét, valamint az onnan történő kitárolását foglalja magában.
 
 2.2. Abban az esetben, ha a termékdíj raktárban tárolt terméket a termékdíj raktározási eljárás alatt értékesítették, az engedélyes köteles az értékesítés tényét a termékdíj raktár nyilvántartásába bejegyezni és a továbbiakban a termék tulajdonosa jogosult a termékdíjköteles termék kiszállítására.
 
-2.3.[^132] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
+2.3.[^143] Egyik termékdíj raktárból egy másik termékdíj raktárba történő áttárolás abban az esetben végezhető, ha az áttárolás során a tulajdonjogban változás nem következik be.
 
 3. A termékdíj raktárban végezhető szokásos kezelési módok listája
 
@@ -122,11 +122,11 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 3.7. a termékek megosztása vagy méretre vágása, ha csak egyszerű műveletekről van szó;
 
-3.8.[^133] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
+3.8.[^144] csomagolás létrehozása, kicsomagolás, a csomagolás megváltoztatása, lefejtés, szállítótartályokba történő egyszerű áthelyezés, jelzések, pecsétek, címkék, árcédulák vagy más hasonló megkülönböztető jelek rögzítése, eltávolítása és megváltoztatása;
 
 3.9. gépek, berendezések és járművek tesztelése, beállítása, beszabályozása és üzembe helyezése, különösen a műszaki szabványoknak való megfelelés ellenőrzése végett, ha csak egyszerű műveletekről van szó.
 
-4.[^134] A termékdíj raktárba történő be- és kitárolásról, továbbá a raktárkészletről szóló adatszolgáltatás adattartalma
+4.[^145] A termékdíj raktárba történő be- és kitárolásról, továbbá a raktárkészletről szóló adatszolgáltatás adattartalma
 
 4.1. Alapadatok
 
@@ -142,7 +142,7 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.2.1. tulajdonjoga, az engedélyestől eltérő tulajdonos adatai,
 
-4.2.2.[^135] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+4.2.2.[^146] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 4.2.3. megnevezése,
 
@@ -152,19 +152,19 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.3.1. tulajdonjoga, az engedélyestől eltérő tulajdonos adatai,
 
-4.3.2.[^136] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+4.3.2.[^147] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 4.3.3. megnevezése,
 
 4.3.4. összesített mennyisége,
 
-4.3.5.[^137] a kitárolás oka, jogcíme:
+4.3.5.[^148] a kitárolás oka, jogcíme:
 
 |  | A | B |
 
 | 1. | B01 | belföldi forgalomba hozatal termékdíj megfizetésével |
 
-| 2.[^138] |  |  |
+| 2.[^149] |  |  |
 
 | 3. | B11 | belföldi forgalomba hozatal, a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pontja szerint adott nyilatkozata alapján |
 
@@ -238,34 +238,34 @@ Az alább felsorolt szokásos kezelési módok az engedélybe foglalás nélkül
 
 4.4.1. tulajdonjoga, az engedélyestől eltérő tulajdonos adatai,
 
-4.4.2.[^139] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
+4.4.2.[^150] KT, CSK kódja, a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló kormányrendelet hatálya alá is tartozó termék KF kódja,
 
 4.4.3. megnevezése,
 
 4.4.4. mennyisége.
 
-[^115]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
-[^116]: A 7. melléklet 1.1.4.5. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^117]: A 7. melléklet 1.1.4.7. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^118]: A 7. melléklet 1. pont 1.1. pont 1.1.5. alpontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
-[^119]: A 7. melléklet 1.2.1.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^120]: A 7. melléklet 1.2.2.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^121]: A 7. melléklet 1. pont 1.2.4. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^122]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^123]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^124]: A 7. melléklet 1. pont 1.3.2. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^125]: A 7. melléklet 1.3.5.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
-[^126]: A 7. melléklet 1. pont 1.3.6. alpotja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^127]: A 7. melléklet 1. pont 1.3.7. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^128]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^129]: A 7. melléklet 1.4.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^130]: A 7. melléklet 2. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^131]: A 7. melléklet 2.1 pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^132]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^133]: A 7. melléklet 3. pont 3.8. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
-[^134]: A 7. melléklet 4. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
-[^135]: A 7. melléklet 4.2.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
-[^136]: A 7. melléklet 4.3.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
-[^137]: A 7. melléklet 4. pont 4.3.5. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
-[^138]: A 7. melléklet 4.3.5. pontjában foglalt táblázat 2. sorát a 633/2022. (XII. 30.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte.
-[^139]: A 7. melléklet 4.4.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § i) pontja szerint módosított szöveg.
+[^126]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 529/2013. (XII. 30.) Korm. rendelet 12. § (8) bekezdése iktatta be.
+[^127]: A 7. melléklet 1.1.4.5. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^128]: A 7. melléklet 1.1.4.7. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^129]: A 7. melléklet 1. pont 1.1. pont 1.1.5. alpontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^130]: A 7. melléklet 1.2.1.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^131]: A 7. melléklet 1.2.2.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^132]: A 7. melléklet 1. pont 1.2.4. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^133]: A 7. melléklet 1. pont 1.3. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^134]: A 7. melléklet 1. pont 1.3.1. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^135]: A 7. melléklet 1. pont 1.3.2. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^136]: A 7. melléklet 1.3.5.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^137]: A 7. melléklet 1. pont 1.3.6. alpotja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^138]: A 7. melléklet 1. pont 1.3.7. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^139]: A 7. melléklet 1. pont 1.4. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^140]: A 7. melléklet 1.4.3.3. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^141]: A 7. melléklet 2. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^142]: A 7. melléklet 2.1 pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^143]: A 7. melléklet 2. pont 2.3. alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^144]: A 7. melléklet 3. pont 3.8. alpontja a 386/2014. (XII. 31.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^145]: A 7. melléklet 4. pontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése szerint módosított szöveg.
+[^146]: A 7. melléklet 4.2.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § g) pontja szerint módosított szöveg.
+[^147]: A 7. melléklet 4.3.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^148]: A 7. melléklet 4. pont 4.3.5. alpontja a 446/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdésével megállapított, a 724/2020. (XII. 31.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^149]: A 7. melléklet 4.3.5. pontjában foglalt táblázat 2. sorát a 633/2022. (XII. 30.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte.
+[^150]: A 7. melléklet 4.4.2. pontja a 276/2023. (VI. 29.) Korm. rendelet 4. § i) pontja szerint módosított szöveg.

@@ -172,6 +172,8 @@
 
 | 3. | 10 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
 
+| 3a.[^80] | 1D | termékdíjtétel a Ktdt. 2. melléklete alapján, azon termékek esetén, amelyek nem tartoznak a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) szerinti kiterjesztett gyártói felelősségi rendszer hatálya alá |
+
 | 4. | 12 | a termékdíj nem kerül megfizetésre a vevő Ktdt. 3. § (6) bekezdés b) pont bb) alpontja szerint adott nyilatkozata alapján |
 
 | 5. | 1B | teljes díjtétel, a Ktdt. 2. melléklete alapján termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
@@ -239,6 +241,8 @@
 | 36. | Külföldről behozott csomagolószer |
 
 | 37. | 30 | teljes díjtétel, a Ktdt. 2. melléklete alapján |
+
+| 37a.[^81] | 3D | termékdíjtétel a Ktdt. 2. melléklete alapján, azon termékek esetén, amelyek nem tartoznak a Ht. szerinti kiterjesztett gyártói felelősségi rendszer hatálya alá |
 
 | 38. | 3B | teljes díjtétel, a Ktdt. 2. melléklete alapján termékdíj raktárból belföldre történő kitárolás, saját célú felhasználás esetén |
 
@@ -434,13 +438,15 @@
 
 | 3. | Újrahasználatra vagy újbóli felhasználásra előkészítést követően létrejött gumiabroncs | 212 |
 
-2.1.1.5. reklámhordozó papír KT kódja
+2.1.1.5.[^82] reklámhordozó papír KT kódja
 
 |  | A | B |
 
 | 1. | Termék megnevezése | KT kód |
 
-| 2. | Reklámhordozó papír | 900 |
+| 2. | Reklámhordozó papír – egyéb nyomtatott anyag | 900 |
+
+| 3. | Reklámhordozó papír – időszaki lap egyes számai | 901 |
 
 2.1.1.6. egyéb műanyagtermék KT kódja
 
@@ -484,7 +490,7 @@
 
 | 6. | 8702 90 Más gépjármű a vezetőt is beleértve 10 vagy annál több személy szállítására | J03 |
 
-| 7. | 8703 10 Speciálisan, havon való közlekedésre tervezett farművek; golfkocsik és hasonló járművek | J13 |
+| 7.[^83] | 8703 10 Speciálisan, havon való közlekedésre tervezett járművek; golfkocsik és hasonló járművek | J13 |
 
 | 8. | 8703 21 Más jármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, legfeljebb 1000 cm3 | J21 |
 
@@ -524,17 +530,19 @@
 
 | 26. | 8704 32 Más áruszállító gépjármű, kizárólag szikragyújtású, dugattyús, belső égésű motorral működő, 5 tonna össztömeget meghaladó | J46 |
 
-| 27. | 8704 41 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, legfeljebb 5 tonna össztömegű | J47 |
+| 27.[^84] | 8704 41 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, legfeljebb 5 tonna össztömegű | H07 |
 
-| 28. | 8704 42 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, 5 tonnát meghaladó, de legfeljebb 20 tonna össztömegű | J48 |
+| 28.[^85] | 8704 42 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, 5 tonnát meghaladó, de legfeljebb 20 tonna össztömegű | H08 |
 
-| 29. | 8704 43 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő,- 20 tonna össztömeget meghaladó | J49 |
+| 29.[^86] | 8704 43 Más áruszállító gépjármű kompressziós gyújtású, dugattyús, belső égésű (dízel vagy féldízel) motorral és hajtómotorként elektromos motorral is működő, 20 tonna össztömeget meghaladó | H09 |
 
-| 30. | 8704 51 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, legfeljebb 5 tonna össztömegű | J50 |
+| 30.[^87] | 8704 51 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, legfeljebb 5 tonna össztömegű | H10 |
 
-| 31. | 8704 52 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, 5 tonna össztömeget meghaladó | J51 |
+| 31.[^88] | 8704 52 Más áruszállító gépjármű, szikragyújtású, dugattyús, belső égésű motorral és hajtómotorként elektromos motorral is működő, 5 tonna össztömeget meghaladó | H11 |
 
 | 32. | 8704 60 Más áruszállító gépjármű, kizárólag elektromos hajtómotorral működő | V04 |
+
+| 32a.[^89] | 8704 90 Más áruszállító gépjármű | J52 |
 
 | 33. | 8711 10 Motorkerékpár (beleértve a segédmotoros kerékpárt [moped] is), oldalkocsival is; legfeljebb 50 cm3 hengerűrtartalmú, dugattyús, belső égésű motorral működő | J10 |
 
@@ -615,6 +623,8 @@
 | 1. | Kód | Megnevezés |
 
 | 2. | 01 | ha a termékdíj megfizetése a Ktdt. 2. mellékletében foglalt díjtételekkel történik |
+
+| 2a.[^90] | 0D | termékdíjtétel a Ktdt. 2. melléklete alapján, azon termékek esetén, amelyek nem tartoznak a Ht. szerinti kiterjesztett gyártói felelősségi rendszer hatálya alá |
 
 | 3. | 03 | ha a termékdíjátalány megfizetése a Ktdt. 4. mellékletében foglalt díjtételekkel történik |
 
@@ -697,3 +707,14 @@
 | 8. | K2 | külföldről behozott, nem termékdíjköteles termék termékdíjköteles alkotórésze, tartozéka esetén |
 
 [^79]: Az 1. melléklet a 276/2023. (VI. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^80]: Az 1. melléklet 1.2.3. pontjában foglalt táblázat 3a. sorát a 674/2023. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^81]: Az 1. melléklet 1.2.3. pontjában foglalt táblázat 37a. sorát a 674/2023. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^82]: Az 1. melléklet 2.1.1.5. pontja a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^83]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 7. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^84]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 27. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^85]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 28. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^86]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 29. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^87]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 30. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^88]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 31. sora a 674/2023. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^89]: Az 1. melléklet 2.1.1.9. pontjában foglalt táblázat 32a. sorát a 674/2023. (XII. 29.) Korm. rendelet 5. §-a iktatta be.
+[^90]: Az 1. melléklet 2.1.3. pontjában foglalt táblázat 2a. sorát a 674/2023. (XII. 29.) Korm. rendelet 5. §-a iktatta be.

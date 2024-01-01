@@ -1,6 +1,6 @@
-6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^111]
+6. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^122]
 
-Az elektromos, elektronikus berendezések egyes kategóriái alá tartozó termékek tájékoztató jellegű listája[^112]
+Az elektromos, elektronikus berendezések egyes kategóriái alá tartozó termékek tájékoztató jellegű listája[^123]
 
 1. Hőcserélő berendezések
 
@@ -10,11 +10,11 @@ Hűtőszekrények, fagyasztók, hűtött termékek automatikus kiadására szolg
 
 Képernyők, televíziókészülékek, LCD képkeretek, monitorok, hordozható számítógépek, kisméretű hordozható számítógépek.
 
-3.[^113] Nagygépek
+3.[^124] Nagygépek
 
 Mosógépek, ruhaszárító gépek, mosogatógépek, tűzhelyek és sütők, elektromos sütők, elektromos főzőlapok, hang- és képlejátszó berendezések, zenei berendezések (kivéve a templomi orgonát), kötő- és szövőgépek, nagyszámítógépek, nagyméretű nyomtatók, másolóberendezések, érmével működő nagyméretű játékautomaták, nagyméretű orvostechnikai eszközök, nagyméretű ellenőrző és vezérlő eszközök, termékek és pénz automatikus kiadására szolgáló nagyméretű berendezések, fotovoltaikus panelek (fényelemek, amelyek modullá vagy panellé vannak összeállítva).
 
-4.[^114] Kisgépek
+4.[^125] Kisgépek
 
 Porszívók, szőnyegseprűk, varrógépek, mikrohullámú sütők, szellőzőberendezések, vasalók, kenyérpirítók, elektromos kések, elektromos vízforralók, órák, elektromos borotvák, mérlegek, haj- és testápoló gépek, számológépek, rádiókészülékek, videokamerák, videomagnók, hifiberendezések, hangszerek, hang- és képlejátszó berendezések, elektronikus és elektromos játékok, sporteszközök, kerékpározáshoz, búvárkodáshoz, futáshoz, evezéshez stb., használt számítógépek, füstjelző berendezések, fűtésszabályozók, termosztátok, kisméretű elektromos és elektronikus szerszámok, kisméretű orvostechnikai eszközök, kisméretű ellenőrző és vezérlő eszközök, termékek automatikus kiadására szolgáló kisméretű berendezések, beépített fotovoltaikus paneleket (fényelemeket) tartalmazó kisgépek.
 
@@ -22,7 +22,7 @@ Porszívók, szőnyegseprűk, varrógépek, mikrohullámú sütők, szellőzőbe
 
 Mobiltelefonok, GPS-ek, zsebszámológépek, routerek, személyi számítógépek, nyomtatók, telefonok.
 
-[^111]: A 6. mellékletét a 41/2014. (II. 24.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte, újonnan a 446/2017. (XII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.
-[^112]: A 6. melléklet címe a 633/2022. (XII. 30.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
-[^113]: A 6. melléklet 3. pontja a 633/2022. (XII. 30.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
-[^114]: A 6. melléklet 4. pontja a 633/2022. (XII. 30.) Korm. rendelet 4. § l) pontja szerint módosított szöveg.
+[^122]: A 6. mellékletét a 41/2014. (II. 24.) Korm. rendelet 5. § 16. pontja hatályon kívül helyezte, újonnan a 446/2017. (XII. 27.) Korm. rendelet 3. § (3) bekezdése iktatta be.
+[^123]: A 6. melléklet címe a 633/2022. (XII. 30.) Korm. rendelet 4. § j) pontja szerint módosított szöveg.
+[^124]: A 6. melléklet 3. pontja a 633/2022. (XII. 30.) Korm. rendelet 4. § k) pontja szerint módosított szöveg.
+[^125]: A 6. melléklet 4. pontja a 633/2022. (XII. 30.) Korm. rendelet 4. § l) pontja szerint módosított szöveg.
