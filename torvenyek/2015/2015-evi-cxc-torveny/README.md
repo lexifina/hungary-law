@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-190-00-00
 | 2019-01-01 | 2018. évi LXXXII. törvény | 2015-190-00-00.5 |
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2015-190-00-00.6 |
 | 2023-01-01 | 2022. évi XLV. törvény | 2015-190-00-00.7 |
+| 2024-01-01 | 2023. évi LXXXIII. törvény | 2015-190-00-00.8 |

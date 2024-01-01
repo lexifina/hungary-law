@@ -306,7 +306,7 @@ A Koordináló Testület Titkársága
 
 2. A Megállapodás minden aláírója éves szinten és egyenlő alapon osztozik a Megállapodással kapcsolatos ügyek Koordináló Testület általi kezelésének költségein. Az előző mondattól eltérően a feltételeknek megfelelő országok a Konvenció Koordináló Testület Eljárásrendje X. cikkének megfelelően mentesülnek a közös költségviselés alól.
 
-Készült angol és francia nyelven, mindkét szöveg egyaránt hiteles.”
+Készült angol és francia nyelven, mindkét szöveg egyaránt hiteles.
 
 „COMMON REPORTING STANDARD
 

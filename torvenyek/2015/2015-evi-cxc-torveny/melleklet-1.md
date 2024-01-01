@@ -84,6 +84,8 @@
 
 – Új-Kaledónia
 
+26a. Georgia
+
 27. Ghána
 
 28. Gibraltár
@@ -204,7 +206,9 @@
 
 60. Románia
 
-60a. Saint Kitts és Nevis
+60a. Ruanda
+
+60b. Saint Kitts és Nevis
 
 61. Saint Lucia
 
@@ -240,7 +244,9 @@
 
 72a. Uganda
 
-72b. Uruguay
+72b. Ukrajna
+
+72c. Uruguay
 
 73. Új-Zéland
 
