@@ -1,3 +1,0 @@
-81. § A Jöt. 24. § (1) bekezdése a következő szöveggel lép hatályba:
-
-„(1) Az adóraktár engedélyese az elektronikus nyilvántartás végrehajtási rendeletben meghatározott adatait – ha az adatokban változás következett be – a változást követő munkanapon, a 21. § (7) bekezdése szerinti összegű biztosíték nyújtása esetén, valamint ha az adóraktár engedélyese a Magyar Honvédség vagy a rendőrség, a tárgyhót követő hónap 5. napjáig, telephelyenkénti bontásban megküldi az állami adó- és vámhatóságnak. Több műszakos üzemelés esetén a tárgynapon megkezdett, de a következő napra átnyúló műszak alatt történt jelentésköteles változásra vonatkozó adatokat a műszak befejezését követő munkanapon kell megküldeni az állami adó- és vámhatóságnak.”
