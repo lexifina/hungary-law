@@ -15,3 +15,5 @@
 (7) Amennyiben az Ügynökség a közfeladata ellátása keretében végzett tevékenységéhez kapcsolódó tervezett költségvetési bevételt meghaladó többletbevételt számol el, akkor a (4) bekezdés szerinti fejezet irányító szerve a többletbevétel összegével az Ügynökség közfeladat ellátását szolgáló kiadási előirányzatot megemelheti az államháztartásért felelős miniszter előzetes egyetértésével.
 
 (8) Az Ügynökség az állam javára és nevében végzett feladataiból eredő műveletek hatásainak elkülönített nyilvántartásban történő könyvvezetését és beszámolási kötelezettségét az államháztartás számviteléről szóló kormányrendelet előírásai szerint teljesíti.
+
+(9) Az 1. melléklet 2. pontjában foglalt táblázat 5. sorában meghatározott ingatlan vagy abban található helyiség hasznosítása során a versenyeztetés az állami vagyonról szóló törvény alapján mellőzhető, ha a használó a Sporttv. szerinti feladatokat ellátó vagy abban közreműködő szervezet.
