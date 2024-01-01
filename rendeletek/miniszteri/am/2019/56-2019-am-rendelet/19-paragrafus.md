@@ -14,7 +14,7 @@ b) a 2. § 14. pont bb) alpontja szerinti esetben vagy
 
 c) az 5. § (5) bekezdésében meghatározott esetben.
 
-(2a)[^12] Ha az állományban élő valamely szarvasmarha a 2. § 14. pont ba) alpontja szerint minősül szarvasmarha gümőkór fertőzöttségére gyanúsnak, akkor – a 20/A. § alapján elrendelt állománycsere esetén – a fertőzöttségre gyanús állatot szintén elkülönített vágásra kell küldeni a tulajdonos állami kártalanítása mellett.
+(2a)[^13] Ha az állományban élő valamely szarvasmarha a 2. § 14. pont ba) alpontja szerint minősül szarvasmarha gümőkór fertőzöttségére gyanúsnak, akkor – a 20/A. § alapján elrendelt állománycsere esetén – a fertőzöttségre gyanús állatot szintén elkülönített vágásra kell küldeni a tulajdonos állami kártalanítása mellett.
 
 (3) Az elkülönített vágást végrehajtó vágóhidat az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló rendeletben foglaltak szerint kell kijelölni. A vágóhídon az 1. mellékletben meghatározott mintákat kell levenni és beküldeni az NRL-be. Az 1. mellékletben foglaltaktól való eltérés az állattartó kérelmére a 7–8. §-ban foglalt esetekben engedélyezhető. A forgalmi korlátozást, valamint a hivatalosan mentes minősítés felfüggesztését vissza kell vonni, ha az NRL-ben végzett bakteriológiai vizsgálat negatív eredménnyel zárul, és nem merül fel olyan körülmény, amely a betegség jelenlétét valószínűsíti.
 
@@ -24,4 +24,4 @@ c) az 5. § (5) bekezdésében meghatározott esetben.
 
 (6) Ha az állományban a 2. § 10. pontja szerinti nem tisztázott státuszú szarvasmarhát találnak az intradermális tuberkulin vizsgálat során, a 3–5. §-ban foglaltak szerint kell eljárni.
 
-[^12]: A 19. § (2a) bekezdését a 23/2023. (V. 10.) AM rendelet 31. § (4) bekezdése iktatta be.
+[^13]: A 19. § (2a) bekezdését a 23/2023. (V. 10.) AM rendelet 31. § (4) bekezdése iktatta be.
