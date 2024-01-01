@@ -1,0 +1,1 @@
+10/A. § A nyilvántartó és a közlekedési igazgatási hatóság a cégnyilvántartásban kezelt adószámot belső azonosítóként, valamint a cégnyilvántartással történő kapcsolat biztosítására, a cég beazonosítására használhatja fel.
