@@ -10,7 +10,7 @@
 
 3.
 
-4.
+4. 3. § (1) bekezdés a) pont ab) és ad) alpontjában a „betétdíjas” szövegrész helyébe a „visszaváltási díjas” szöveg,
 
 5.
 
@@ -20,7 +20,7 @@
 
 8.
 
-9.
+9. 30/A. § (3) bekezdés a) pont aa) alpontjában a „betétdíjakból” szövegrész helyébe a „visszaváltási díjakból” szöveg,
 
 10.
 
@@ -100,4 +100,4 @@
 
 48.
 
-49.
+49. 5. melléklet 5. pontjában a „Betétdíjas” szövegrész helyébe a „Visszaváltási díjas” szöveg
