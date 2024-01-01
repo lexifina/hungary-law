@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-30-30-6
 | 2022-05-25 | 2019-30-30-63.2 | 47/2022. (VI. 11.) ME határozat |
 | 2022-11-22 | 2019-30-30-63.3 | 47/2022. (VI. 11.) ME határozat |
 | 2023-01-01 | 2019-30-30-63.4 | 47/2022. (VI. 11.) ME határozat |
+| 2024-01-01 | 2019-30-30-63.5 | 47/2022. (VI. 11.) ME határozat |
