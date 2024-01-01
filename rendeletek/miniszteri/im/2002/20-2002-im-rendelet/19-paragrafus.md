@@ -1,6 +1,6 @@
 ## A fényképek
 
-## 19. §[^41] A fényképeket elektronikus kapcsolattartás esetén egy, egyéb esetben három azonos példányban kell benyújtani, és azokat a következők szerint kell elkészíteni:
+## 19. §[^43] A fényképeket elektronikus kapcsolattartás esetén egy, egyéb esetben három azonos példányban kell benyújtani, és azokat a következők szerint kell elkészíteni:
 
 a) a fénykép mutassa be a növényfajtát, lehetőség szerint a fajtaleírásban ismertetett egy vagy több lényeges megkülönböztető jellemző megjelenítésével;
 
@@ -16,4 +16,4 @@ f) a sorszám után röviden ismertetni kell a fénykép tárgyát; egyéb szöv
 
 g) mindegyik lap szegélyén legyen rajta az adott lap sorszáma törve a lapok összesített számával.
 
-[^41]: A 19. § nyitó szövegrésze a 30/2018. (XII. 12.) IM rendelet 9. § b) pontja szerint módosított szöveg.
+[^43]: A 19. § nyitó szövegrésze a 30/2018. (XII. 12.) IM rendelet 9. § b) pontja szerint módosított szöveg.

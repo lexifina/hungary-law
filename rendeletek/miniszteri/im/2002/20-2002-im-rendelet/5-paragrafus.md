@@ -1,6 +1,6 @@
 ## Az igénypontok
 
-5. §[^6] A szabadalmi igénypontokat a leírás végén a találmány műszaki jellemzőinek megadásával a következők szerint kell elkészíteni:
+5. §[^8] A szabadalmi igénypontokat a leírás végén a találmány műszaki jellemzőinek megadásával a következők szerint kell elkészíteni:
 
 a) az igénypontot a találmány tárgyának (például termék, berendezés, eljárás, alkalmazás) jellegéhez igazodóan kell megfogalmazni;
 
@@ -16,4 +16,4 @@ f) a főigénypont oltalmi körébe tartozó egyes megoldásokat aligénypontokb
 
 g) az igénypontokban – hacsak ez feltétlenül nem szükséges – a találmány műszaki jellemzőit nem lehet helyettesíteni a leírásra, a rajzokra vagy egyéb forrásokra való hivatkozással.
 
-[^6]: Az 5. § nyitó szövegrésze a 2/2023. (II. 10.) IM rendelet 3. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § nyitó szövegrésze a 2/2023. (II. 10.) IM rendelet 3. § a) pontja szerint módosított szöveg.
