@@ -1,18 +1,18 @@
-8. § (1)[^30] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő hasznosítást – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság végezheti.
+8. § (1)[^31] Az E. Alap javára elszámolandó, a kötelezett által nem teljesített befizetéseken alapuló követelések fejében gazdasági társaságban való érdekeltséget megtestesítő részvény vagy üzletrész, ingatlan, egyéb vagyon értékesítését és az értékesítésig történő hasznosítást – a működést közvetlenül szolgáló vagyonelemek kivételével – megállapodás alapján kizárólag a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság végezheti.
 
 (2) A Kormány egészségbiztosítási szervként – ha kormányrendelet eltérően nem rendelkezik – a NEAK-ot jelöli ki.
 
-(3)[^31] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
+(3)[^32] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
 
 a) a Polgári Perrendtartásról szóló 1952. évi III. törvény 341. § c) pontjában,
 
 b) az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 5. § (2) bekezdés a) pontjában és (3) bekezdésében,
 
-c)[^32] a Tbj. 2. melléklet 1. pontjában
+c)[^33] a Tbj. 2. melléklet 1. pontjában
 
 foglalt feladatok ellátására.
 
-(4)[^33] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
+(4)[^34] A Kormány egészségbiztosítási szervként a kormányhivatalt jelöli ki
 
 a) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény 57/A. § (3) bekezdés a) pontjában,
 
@@ -28,7 +28,7 @@ ea) 3. § e) pontjában,
 
 eb) 20. § (2) bekezdés i) pontjában,
 
-ec)[^34] 21. § (3) és (7a) bekezdésében,
+ec)[^35] 21. § (3) és (7a) bekezdésében,
 
 f) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 136. § (3) bekezdés a) pontjában,
 
@@ -38,7 +38,7 @@ ga) 3. § i) pontjában,
 
 gb) 10. § (1) bekezdésében,
 
-h)[^35] a Tbj.
+h)[^36] a Tbj.
 
 ha) 45. § (6) és (7) bekezdésében,
 
@@ -58,9 +58,9 @@ i) az Eütv. 147. § (2) bekezdésében
 
 foglalt feladatok ellátására.
 
-(5)[^36] A Kormány az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontjában foglalt feladat ellátására egészségbiztosítási szervként a NEAK-ot és a kormányhivatalt jelöli ki.
+(5)[^37] A Kormány az illetékekről szóló 1990. évi XCIII. törvény 5. § (1) bekezdés h) pontjában foglalt feladat ellátására egészségbiztosítási szervként a NEAK-ot és a kormányhivatalt jelöli ki.
 
-(6)[^37] A Kormány egészségbiztosítási szervként a kormányablakot jelöli ki a Tbj. szerint biztosított, illetve Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személyek
+(6)[^38] A Kormány egészségbiztosítási szervként a kormányablakot jelöli ki a Tbj. szerint biztosított, illetve Tbj. szerint egészségügyi szolgáltatásra jogosult belföldi személyek
 
 a) TAJ-t igazoló hatósági igazolvány másodlatának kiadásával és
 
@@ -68,17 +68,17 @@ b) az Európai Egészségbiztosítási Kártya kibocsátásával
 
 kapcsolatos feladatok ellátására.
 
-(7)[^38] A Kormány egészségbiztosítóként a kormányhivatalt és a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (18) bekezdése és az Ebtv. 79/B. §-a szerinti nyilvántartások vezetésére.
+(7)[^39] A Kormány egészségbiztosítóként a kormányhivatalt és a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (18) bekezdése és az Ebtv. 79/B. §-a szerinti nyilvántartások vezetésére.
 
-(8)[^39] A Kormány egészségbiztosítóként a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (11) és (13) bekezdésében foglalt feladatok ellátására.
+(8)[^40] A Kormány egészségbiztosítóként a Központot jelöli ki a társadalombiztosítás pénzügyi alapjainak és a társadalombiztosítás szerveinek állami felügyeletéről szóló 1998. évi XXXIX. törvény 9. § (11) és (13) bekezdésében foglalt feladatok ellátására.
 
-[^30]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^31]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^32]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^33]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^34]: A 8. § (4) bekezdés e) pont ec) alpontja a 147/2019. (VI. 25.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^35]: A 8. § (4) bekezdés h) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^36]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^37]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
-[^38]: A 8. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
-[^39]: A 8. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
+[^31]: A 8. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^32]: A 8. § (3) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^33]: A 8. § (3) bekezdés c) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^34]: A 8. § (4) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^35]: A 8. § (4) bekezdés e) pont ec) alpontja a 147/2019. (VI. 25.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^36]: A 8. § (4) bekezdés h) pontja a 316/2020. (VII. 1.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^37]: A 8. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^38]: A 8. § (6) bekezdését a 155/2018. (IX. 3.) Korm. rendelet 5. §-a iktatta be, nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés g) pontja, a 616/2022. (XII. 29.) Korm. rendelet 246. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^39]: A 8. § (7) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
+[^40]: A 8. § (8) bekezdését a 286/2023. (VI. 30.) Korm. rendelet 53. §-a iktatta be.
