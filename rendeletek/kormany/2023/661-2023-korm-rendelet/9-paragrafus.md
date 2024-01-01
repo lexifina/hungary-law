@@ -1,0 +1,3 @@
+9. § A Púétv. vhr. 30. §-a a következő (3a) bekezdéssel kiegészülve lép hatályba:
+
+„(3a) Annak a Mesterpedagógus fokozatba besorolt pedagógusnak, aki osztályfőnöki, kollégiumban tanulócsoport-vezetői, munkaközösség-vezetői, tanszakvezetői vagy a tanulók önszerveződését segítő feladatot lát el, a megtartandó tanítási óráinak, foglalkozásainak a száma – a kerekítés általános szabályai alkalmazásával – nem lehet kevesebb, mint a munkakörére a Púétv. 1. mellékletében előírt neveléssel-oktatással lekötött munkaidő nyolcvan százaléka, ettől eltérően vezetőpedagógus esetén heti tizenegy, vezető óvodapedagógus esetén heti huszonkét óra.”
