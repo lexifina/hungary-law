@@ -1,6 +1,6 @@
-9. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^55]
+9. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^57]
 
-## A Kárrendezési Alap eredménykimutatásának előírt tagolása
+A Kárrendezési Alap eredménykimutatásának előírt tagolása
 
 01. Befektető-védelmi Alap tagjaitól igényelt éves befizetések bevétele
 
@@ -34,4 +34,4 @@ VII. Tárgyévi költségek (06+07+08)
 
 A. Tárgyévi eredmény (I+II+III–IV–V–VI–VII)
 
-[^55]: A 9. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (9) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.
+[^57]: A 9. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 16. § (9) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.

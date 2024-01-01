@@ -1,6 +1,6 @@
 1. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez
 
-## Az Országos Betétbiztosítási Alap és az önkéntes alapok mérlegének előírt tagolása
+Az Országos Betétbiztosítási Alap és az önkéntes alapok mérlegének előírt tagolása
 
 ## ESZKÖZÖK (AKTÍVÁK)
 
@@ -88,7 +88,7 @@ II. Tartalék
 
 III. Értékelési tartalék
 
-## IV.[^46] Tárgyévi eredmény
+## IV.[^48] Tárgyévi eredmény
 
 ## E. Céltartalék
 
@@ -110,4 +110,4 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^46]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^48]: Az 1. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.

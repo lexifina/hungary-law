@@ -1,8 +1,8 @@
 ## A. Tárgyévi eredmény (I+II+III+IV+V-VI-VII-VIII-IX-X-XI)
 
-4. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^49]
+4. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^51]
 
-## A Befektető-védelmi Alap mérlegének előírt tagolása
+A Befektető-védelmi Alap mérlegének előírt tagolása
 
 ## ESZKÖZÖK (AKTÍVÁK)
 
@@ -84,7 +84,7 @@ II. Tartalék
 
 III. Értékelési tartalék
 
-## IV.[^50] Tárgyévi eredmény
+## IV.[^52] Tárgyévi eredmény
 
 ## E. Céltartalék
 
@@ -106,5 +106,5 @@ II. Rövid lejáratú kötelezettségek
 
 G. Passzív időbeli elhatárolások
 
-[^49]: A 4. számú melléklet a 288/2001. (XII. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
-[^50]: A 4. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^51]: A 4. számú melléklet a 288/2001. (XII. 26.) Korm. rendelet 3. §-a szerint kiegészített szöveg, e módosító rendelet 4. §-a értelmében rendelkezéseit először a 2002. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^52]: A 4. számú melléklet „FORRÁSOK (PASSZÍVÁK)” alcím „D. Saját tőke” fősor IV. pontja a 484/2015. (XII. 29.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.

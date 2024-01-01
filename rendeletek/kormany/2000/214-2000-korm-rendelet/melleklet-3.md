@@ -1,8 +1,8 @@
 ## A. Tárgyévi eredmény (I+II+III+IV-V-VI-VII-VIII-IX)
 
-3. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^48]
+3. számú melléklet a 214/2000. (XII. 11.) Korm. rendelethez[^50]
 
-## Az önkéntes betétbiztosítási és intézményvédelmi alap eredménykimutatásának előírt tagolása
+Az önkéntes betétbiztosítási és intézményvédelmi alap eredménykimutatásának előírt tagolása
 
 01. Tagintézetekkel szembeni díjbevétel betétbiztosítási célra
 
@@ -48,4 +48,4 @@ X. Pénzügyi műveletek ráfordításai
 
 XI. Működési költségek (09+10+11)
 
-[^48]: A 3. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^50]: A 3. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

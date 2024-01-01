@@ -16,7 +16,7 @@ d) az OBA-nak, tulajdonosoknak és hitelezőknek fizetendő kártalanítás,
 
 e) az egyéb szanálási tevékenységből származó ráfordítás
 
-## miatt felmerülő összeget.
+miatt felmerülő összeget.
 
 (4) A működési költségek között ráfordításonkénti bontásban kell kimutatni a Szanálási Alap működésével kapcsolatban felmerült általános igazgatási és fenntartási költségek összegét, továbbá a kifizetésekkel kapcsolatban felmerült költségeknek az intézményekre át nem hárított összegét, és a válság megelőzésével, az intézmények gazdálkodásának ellenőrzésével és fejlesztésével kapcsolatban felmerült költségek intézményekre át nem hárított összegét.
 
