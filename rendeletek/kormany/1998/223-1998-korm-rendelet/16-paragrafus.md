@@ -1,3 +1,3 @@
-16. §[^164]
+16. §[^165]
 
-[^164]: A 16–18. §-t a 238/2002. (XI. 8.) Korm. rendelet 9. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^165]: A 16–18. §-t a 238/2002. (XI. 8.) Korm. rendelet 9. § (2) bekezdésének a) pontja hatályon kívül helyezte.

@@ -48,6 +48,6 @@
 
 ## közigazgatási területén van.
 
-12. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^289]
+12. melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^290]
 
-[^289]: A 12. mellékletet a 449/2016. (XII. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^290]: A 12. mellékletet a 449/2016. (XII. 19.) Korm. rendelet 14. § (2) bekezdése iktatta be.

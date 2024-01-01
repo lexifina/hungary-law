@@ -1,4 +1,4 @@
-5/a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^282]
+5/a. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^283]
 
 Az anyasági támogatás iránti kérelem adattartalma külföldön született, külföldön élő magyar állampolgárságú, illetve nem magyar állampolgárságú, „Magyar igazolvánnyal” rendelkező gyermek esetén
 
@@ -80,4 +80,4 @@ Az anyasági támogatás iránti kérelem adattartalma külföldön született, 
 
 4.5. a 2.1. alpontban feltüntetett gyermek (ikergyermek) másik vér szerinti vagy örökbefogadó szülőjének aláíróhelye.
 
-[^282]: Az 5/a. számú mellékletet a 405/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be, szövege a 406/2023. (VIII. 30.) Korm. rendelet 6. § d) pontja szerint módosított szöveg. [Az 5/a. számú melléklet 1.3. pontjában a 406/2023. (VIII. 30.) Korm. rendelet 7. § b) pontjával elrendelt módosítás, amely szerint hatályát veszti a ", vagy – ha a kérelmező nem rendelkezik bankszámlaszámmal, akkor a postai úton (pénzfogalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím" szövegrész, nem vezethető át.]
+[^283]: Az 5/a. számú mellékletet a 405/2017. (XII. 15.) Korm. rendelet 9. §-a iktatta be, szövege a 406/2023. (VIII. 30.) Korm. rendelet 6. § d) pontja szerint módosított szöveg. [Az 5/a. számú melléklet 1.3. pontjában a 406/2023. (VIII. 30.) Korm. rendelet 7. § b) pontjával elrendelt módosítás, amely szerint hatályát veszti a ", vagy – ha a kérelmező nem rendelkezik bankszámlaszámmal, akkor a postai úton (pénzfogalmi számláról történő készpénzkifizetés kézbesítése útján) történő folyósítás kérelmezése esetén – a folyósítási cím" szövegrész, nem vezethető át.]

@@ -16,7 +16,7 @@ c) személyesen vagy postai úton a kérelmező munkahelyén működő társadal
 
 (4)[^7]
 
-(4a)[^8] A központi családtámogatási szerv a Cst. 49/B. § (1) bekezdése szerinti egységes szociális nyilvántartás adatai alapján a nyilvántartásba bejegyzett jogosult adatairól, kérelmére, hatósági bizonyítványt állít ki – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása és a kérelem személyesen történő benyújtása esetén – automatikus döntéshozatal útján.
+(4a)[^8] A központi családtámogatási szerv a Cst. 49/B. § (1) bekezdése szerinti egységes szociális nyilvántartás adatai alapján a nyilvántartásba bejegyzett jogosult adatairól a jogosult kérelmére – ideértve a személyesen benyújtott és az országos telefonos ügyfélszolgálatnál hangkapcsolatot biztosító telekommunikációs eszköz, valamint írásbelinek nem minősülő elektronikus úton előterjesztett kérelmet is –, az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén és személyazonosságának igazolását követően automatikus döntéshozatal útján hatósági bizonyítványt állít ki.
 
 (5)[^9] A családtámogatási ellátásra való jogosultságot
 
@@ -63,7 +63,7 @@ b) az újabb kérelem benyújtásakor nem kell bemutatni vagy csatolni a kérele
 [^5]: Az 1. § (2a) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 8. § (2) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 16. § (8) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^6]: Az 1. § (3) bekezdése a 236/2012. (VIII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (4) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 70. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^8]: Az 1. § (4a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 65. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: Az 1. § (4a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 65. § (1) bekezdése iktatta be, szövege az 579/2023. (XII. 19.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^9]: Az 1. § (5) bekezdése a 394/2007. (XII. 27.) Korm. rendelet 1. § (2) bekezdésével megállapított, záró szövegrésze a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének a) pontja szerint módosított szöveg.
 [^10]: Az 1. § (5) bekezdés a) pontját a 457/2017. (XII. 28.) Korm. rendelet 70. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: Az 1. § (5) bekezdés b) pontja a 69/2014. (III. 13.) Korm. rendelet 5. §-a szerint módosított szöveg.
