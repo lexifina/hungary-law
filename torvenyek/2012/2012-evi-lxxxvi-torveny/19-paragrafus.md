@@ -1,4 +1,4 @@
-19. § (1) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti tartózkodásra jogosító engedéllyel nem rendelkező harmadik országbeli állampolgár foglalkoztatása esetén, a fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel
+19. § (1) A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti tartózkodásra jogosító engedéllyel nem rendelkező harmadik országbeli állampolgár foglalkoztatása esetén, a fővállalkozó és valamennyi közbenső alvállalkozó az alvállalkozó munkáltatóval egyetemlegesen felel
 
 a) a harmadik országbeli állampolgár elmaradt munkabérének és egyéb járandóságainak, valamint
 
