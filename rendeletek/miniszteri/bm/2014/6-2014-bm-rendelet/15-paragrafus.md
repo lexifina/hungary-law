@@ -1,3 +1,0 @@
-15. § (1) A kedvezményezett a – a BM EU Önerő Alap támogatás felhasználásával megvalósult infrastrukturális fejlesztést is magában foglaló – megnövelt ingatlanvagyonnak a projekt zárásától számított 5 évig az eredeti rendeltetésnek megfelelő használatát köteles biztosítani és azt nem idegenítheti el.
-
-(2) Ha az uniós támogatás alapját képező okirat alapján vállalt kötelezettség megvalósítása meghiúsul, tartós akadályba ütközik vagy a támogatási szerződést érintő adatok és körülmények megváltoznak, a kedvezményezett haladéktalanul köteles e tényt írásban a miniszternek bejelenteni. A bejelentés alapján a támogatási szerződést a megváltozott körülményeknek megfelelően – indokolt esetben – módosítani kell.
