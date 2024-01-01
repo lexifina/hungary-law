@@ -12,4 +12,8 @@ d) jogszabályban meghatározott egyéb, orvosi elbírálást igénylő egészs�
 
 e) a zárójelentés vagy egyéb, az egészségügyi dokumentáció részét képező dokumentum kiállítására, az egészségügyi dokumentációban tett bejegyzés igazolására, valamint
 
-f) a halottvizsgálati bizonyítvány kiállítására
+f)[^7] a halottvizsgálati bizonyítvány papíralapú másolatának hitelesítésére, illetve a halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló kormányrendelet szerinti Elektronikus Halottvizsgálati Bizonyítványt Kiállító Rendszer hozzáférésének hiányában papíralapú halottvizsgálati bizonyítvány kiállítására
+
+használja.
+
+[^7]: A 4. § (2) bekezdés f) pontja a 76/2023. (XII. 23.) BM rendelet 1. §-ával megállapított szöveg.
