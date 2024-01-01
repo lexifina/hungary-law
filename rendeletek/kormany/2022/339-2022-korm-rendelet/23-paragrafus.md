@@ -68,9 +68,9 @@
 
 34.[^56]
 
-35.[^57]
+35. 2. melléklete
 
-36.[^58]
+36.[^57]
 
 [^23]: A 23. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^24]: A 23. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -106,5 +106,4 @@
 [^54]: A 23. § 32. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^55]: A 23. § 33. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^56]: A 23. § 34. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^57]: A 23. § 35. pontja a 24. § (1a) bekezdése alapján 2024. január 1-jén lép hatályba.
-[^58]: A 23. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: A 23. § 36. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
