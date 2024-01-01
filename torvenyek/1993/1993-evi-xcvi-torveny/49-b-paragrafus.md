@@ -4,7 +4,7 @@
 
 (2) A választható portfoliók mindegyikének meg kell felelnie a pénztári befektetésekre és az azok kezelésére vonatkozó előírásoknak.
 
-(3) A választható portfoliós rendszer bevezetésére, módosítására, megszüntetésére vonatkozó döntés, illetve a rendszer szabályait tartalmazó szabályzat elfogadása a pénztár közgyűlésének kizárólagos hatáskörébe tartozik.
+(3) A választható portfóliós rendszer bevezetésére és megszüntetésére, valamint a működtetésének a rendszer szüneteltetését követő folytatására vonatkozó döntés, illetve a rendszer szabályait tartalmazó szabályzat elfogadása a rendszer bevezetésekor a pénztár közgyűlésének, a választható portfóliós rendszer szüneteltetésére, módosítására vonatkozó döntés, illetve a módosított rendelkezéseket tartalmazó szabályzat elfogadása a pénztár igazgatótanácsának kizárólagos hatáskörébe tartozik. Az igazgatótanács döntését a 24. § (5) bekezdésében foglaltaktól eltérően nem hozhatja meg ülés megtartása nélkül. Az ellenőrző bizottság köteles előzetesen megvizsgálni a választható portfóliós rendszer bevezetésére, módosítására, szüneteltetésére, a működtetésének a szüneteltetést követő folytatására és a rendszer megszüntetésére vonatkozó javaslatot, és véleményét az erre vonatkozó döntés előtt a közgyűlésen, illetve az igazgatótanács ülésén ismertetni kell.
 
 (4) A (3) bekezdésben foglalt szabályzatnak tartalmaznia kell:
 

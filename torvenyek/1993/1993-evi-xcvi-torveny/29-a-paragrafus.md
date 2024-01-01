@@ -1,6 +1,6 @@
 ## Panaszkezelés
 
-29/A. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, telefaxon, elektronikus levélben) közölhesse.
+29/A. § (1) A pénztár biztosítja, hogy a pénztártag a pénztár magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban (személyesen, telefonon) vagy írásban (személyesen vagy más által átadott irat útján, postai úton, elektronikus levélben) közölhesse.
 
 (2) A pénztár
 
@@ -26,7 +26,7 @@ fogadja.
 
 (9) A pénztár a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
-(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
+(10) A pénztár a pénztártagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A pénztár a panaszkezelési szabályzatban tájékoztatja a pénztártagot a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról.
 
 (11) A pénztár a pénztártagok panaszairól, valamint az azok rendezését, megoldását szolgáló intézkedésekről nyilvántartást vezet.
 

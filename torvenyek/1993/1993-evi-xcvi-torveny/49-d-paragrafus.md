@@ -1,12 +1,14 @@
 49/D. § (1) A választható portfoliós rendszer működtetése a Felügyelet erre vonatkozó engedélye birtokában kezdhető meg, folytatható, illetve módosítható. A rendszer működtetésének szüneteltetését, illetve folytatását a Felügyeletnek be kell jelenteni.
 
-(2) A választható portfóliós rendszer működtetésének megkezdésére, folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell
+(2) A választható portfóliós rendszer működtetésének megkezdésére, a működtetésének szüneteltetését követő folytatására, illetve módosítására vonatkozó kérelemhez mellékelni kell
 
 a) a szabályzatot vagy a módosított szabályzatot a módosítások megjelölésével,
 
-b) az azt elfogadó közgyűlés jegyzőkönyvét, valamint
+b) az azt elfogadó közgyűlés jegyzőkönyvét vagy a módosított szabályzatot elfogadó igazgatótanácsi ülés jegyzőkönyvét,
 
-c) a szabályzattal, illetve módosított szabályzattal összefüggő befektetési politikát.
+c) a szabályzattal, illetve módosított szabályzattal összefüggő befektetési politikát, valamint
+
+d) az ellenőrző bizottság véleményét.
 
 (3) A Felügyelet a benyújtott szabályzat módosítását írhatja elő, ha
 

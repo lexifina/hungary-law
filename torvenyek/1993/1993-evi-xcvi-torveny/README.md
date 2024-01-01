@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2022-05-25 | 2022. évi IV. törvény | 1993-96-00-00.75 |
 | 2023-01-01 | 2022. évi LXIX. törvény | 1993-96-00-00.76 |
 | 2023-09-01 | 2023. évi XXXIX. törvény | 1993-96-00-00.77 |
+| 2024-01-01 | 2023. évi CIX. törvény | 1993-96-00-00.78 |

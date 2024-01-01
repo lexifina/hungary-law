@@ -1,7 +1,1 @@
-73. § (1)
-
-(2)
-
-(3)
-
-(4)
+73. § Azon pénztárak, amelyek a hazai gazdasági szereplők versenyképességének erősítésével és a közigazgatás hatékonyságának növelésével összefüggő egyes törvények módosításáról szóló 2023. évi CIX. törvény hatálybalépésekor nem rendelkeznek internetes honlappal, 2025. január 1-jéig kötelesek internetes honlapot létesíteni és ott az e törvényben előírt közzétételi kötelezettségeiknek eleget tenni. A pénztár a közzétételi kötelezettségét az 52. § szerinti szövetség által üzemeltetett honlapon való közzététellel is teljesítheti.
