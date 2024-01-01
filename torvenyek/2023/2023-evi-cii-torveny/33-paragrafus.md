@@ -1,0 +1,1 @@
+33. § A területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a területrendezésért felelős miniszter gondoskodik.
