@@ -616,7 +616,7 @@
 
 ## LAeq(d,h korrigált, távlati) = LAeq(d,h számított, távlati) - ΔLAeq(d,h)
 
-6. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^38]
+6. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^37]
 
 A közúti közlekedési zaj mérése
 
@@ -826,4 +826,4 @@ p) a vizsgálatot végzők neve,
 
 q) a vizsgálatokért felelős vezető neve, aláírása.
 
-[^38]: A 6. mellékletet a 70/2017. (XII. 29.) FM rendelet 8. §-a hatályon kívül helyezte, újonnan a 33/2019. (VII. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^37]: A 6. mellékletet a 70/2017. (XII. 29.) FM rendelet 8. §-a hatályon kívül helyezte, újonnan a 33/2019. (VII. 9.) Korm. rendelet 4. § (2) bekezdése iktatta be.

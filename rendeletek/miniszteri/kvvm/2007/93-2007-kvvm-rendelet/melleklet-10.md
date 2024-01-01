@@ -1,4 +1,4 @@
-10. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^46]
+10. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^45]
 
 Üzemi létesítmények zajkibocsátásának számítása
 
@@ -62,4 +62,4 @@ Ebben az esetben különösen, de az 1-4. pontok szerinti módok bármelyike sze
 
 Ha a zajkibocsátás becslésére alkalmazott mérési adatok épület homlokzata előtt 2 m-re végzett mérésből származnak, akkor a homlokzat hangvisszaverő hatásának kiküszöbölésére a mért adatokból 3 dB-t le kell vonni.
 
-[^46]: A 10. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (5) bekezdése iktatta be.
+[^45]: A 10. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (5) bekezdése iktatta be.

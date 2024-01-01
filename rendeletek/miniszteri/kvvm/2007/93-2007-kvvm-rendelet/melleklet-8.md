@@ -1,4 +1,4 @@
-8. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^44]
+8. számú melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^43]
 
 Vasúti közlekedés zajkibocsátásának számítása
 
@@ -120,4 +120,4 @@ A figyelembe vett i-edik vonatfajta egyenértékű A-hangnyomásszintjét a vona
 
 |  | 4. táblázat |
 
-[^44]: A 8. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (3) bekezdése iktatta be.
+[^43]: A 8. mellékletet a 33/2019. (VII. 9.) AM rendelet 4. § (3) bekezdése iktatta be.

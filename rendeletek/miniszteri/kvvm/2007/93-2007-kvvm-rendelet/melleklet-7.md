@@ -1,4 +1,4 @@
-7. melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^39]
+7. melléklet a 93/2007. (XII. 18.) KvVM rendelethez[^38]
 
 Az éves adatszolgáltatás tartalma
 
@@ -14,7 +14,7 @@ Az éves adatszolgáltatás tartalma
 
 2.4. Az adatszolgáltatás tárgyévében bejelentett zajkibocsátási határérték alóli felmentéssel érintett napok vonatkozásában napi bontásában megadva:
 
-2.4.1.[^40] az adott napon megtartott rendezvény, vagy esemény megnevezése, jellege, versenynapok esetén annak megjelölésével, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
+2.4.1.[^39] az adott napon megtartott rendezvény, vagy esemény megnevezése, jellege, versenynapok esetén annak megjelölésével, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
 
 2.4.2. a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló rendelet szerinti kritikus pontok helye és a kritikus ponton mért mérési eredmények,
 
@@ -46,11 +46,11 @@ Az éves adatszolgáltatás tartalma
 
 3.7.4. a környezeti zajforrások napi működési ideje,
 
-3.7.5.[^41] a versenynapokon tartott rendezvények esetén annak megjelölése, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
+3.7.5.[^40] a versenynapokon tartott rendezvények esetén annak megjelölése, hogy a rendezvény a 27/2008. (XII. 3.) KvVM–EüM együttes rendelet szerinti nemzetközi versenynek minősül-e,
 
-3.7.6.[^42] a felmentéssel nem érintett napokon annak megjelölése, hogy az üzemeltető az adott nap zajkibocsátásának megítélést mely zajkibocsátási határérték alapján kéri,
+3.7.6.[^41] a felmentéssel nem érintett napokon annak megjelölése, hogy az üzemeltető az adott nap zajkibocsátásának megítélést mely zajkibocsátási határérték alapján kéri,
 
-3.7.7.[^43] a jogszerűen igénybe vett felmentési napok dátuma.
+3.7.7.[^42] a jogszerűen igénybe vett felmentési napok dátuma.
 
 3.8. Összefoglaló, amely tartalmazza:
 
@@ -60,8 +60,8 @@ Az éves adatszolgáltatás tartalma
 
 3.8.3. azoknak a napoknak a felsorolását, amelyen a versenypályán környezeti zajforrás nem üzemelt.
 
-[^39]: A 7. számú mellékletet a 91/2015. (XII. 23.) FM rendelet 7. § (3) bekezdése iktatta be.
-[^40]: A 7. melléklet 2.4. pont 2.4.1. alpontja a 8/2019. (III. 26.) AM rendelet 2. §-ával megállapított szöveg.
-[^41]: A 7. melléklet 3.7. pont 3.7.5. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
-[^42]: A 7. melléklet 3.7. pont 3.7.6. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
-[^43]: A 7. melléklet 3.7. pont 3.7.7. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
+[^38]: A 7. számú mellékletet a 91/2015. (XII. 23.) FM rendelet 7. § (3) bekezdése iktatta be.
+[^39]: A 7. melléklet 2.4. pont 2.4.1. alpontja a 8/2019. (III. 26.) AM rendelet 2. §-ával megállapított szöveg.
+[^40]: A 7. melléklet 3.7. pont 3.7.5. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
+[^41]: A 7. melléklet 3.7. pont 3.7.6. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
+[^42]: A 7. melléklet 3.7. pont 3.7.7. alpontját a 8/2019. (III. 26.) AM rendelet 2. §-a iktatta be.
