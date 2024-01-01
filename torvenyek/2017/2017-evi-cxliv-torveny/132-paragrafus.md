@@ -1,3 +1,0 @@
-132. § A 2017. évi XXXIX. törvény 76. §-ának az EUtv. 139. § (2) bekezdését megállapító rendelkezése a következő szöveggel lép hatályba:
-
-„(2) Ha a tagállami ítélet alapjául szolgáló cselekmény nem tartozik a magyar büntető joghatóság alá, vagy a cselekményt a kibocsátó tagállam területén követték el a tagállami ítélet megfeleltetése során a tagállami pénzbüntetés mértéke akkor sem alakítható át, ha az meghaladja a Btk. szerint kiszabható legmagasabb mértéket. Ilyen esetben az egynapi tétel összege a Btk. 50. §-ában megjelöltnél magasabb összegben is meghatározható, azonban a pénzbüntetés napi tételeinek száma nem haladhatja meg a Btk. alapján megállapítható mértéket.”
