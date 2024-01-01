@@ -42,13 +42,23 @@ dc) bejegyzett kereskedő,
 
 dd) jövedéki engedélyes kereskedő;
 
-14. dohánylevél-töltő: kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz, amelyik egyszerre egy vagy több, de legfeljebb óránként 200 darab kézi töltésű cigaretta elkészítésére alkalmas.
+14. dohánylevél-töltő: kizárólag emberi erővel, így különösen nem elemmel, akkumulátorral vagy elektromos áramforrásról működtethető olyan eszköz, amely kézi töltésű cigaretta elkészítésére alkalmas.
 
-15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító engedély nélküli vagy a 10. § (1) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
+15. jogosulatlan dohánytermék kiskereskedelem: az 1. § (1) bekezdés szerinti termékek e törvény szerinti dohánytermék-kiskereskedelmi tevékenység folytatására jogosító, vagy a 15. § (3a) és (5) bekezdése szerinti engedély nélküli vagy a 10. § (1) vagy (7) bekezdés szerinti feljogosítás hiányában történő értékesítése; továbbá olyan termék értékesítése, amelynek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló kormányrendelet alapján, Magyarországon történő forgalomba hozatala tilos.
 
 16. dohánytermék-kiskereskedelmi tevékenységet végző személy: a dohánytermék-kiskereskedő, a 10. § (1) bekezdés szerinti, a dohánytermék-kiskereskedelmi jogosultság gyakorlására külön feljogosított személy és a 13. § (8a) bekezdése szerinti helyettes gyakorló.
 
 17. termékregisztrátor: a dohánytermék-nagykereskedő vagy az adatszolgáltatással érintett terméket belföldön először forgalomba hozó személy.
+
+18. értékesítési csatorna: dohánytermék vagy más hasonló termék elhelyezésére szolgáló, e célra kialakított, a termékek egymás mögötti elhelyezését lehetővé tevő rész (rekesz); kialakított rész hiányában bármely polchely;
+
+19. polckép-szerződés: a dohánytermék-nagykereskedő és a dohánytermék-kiskereskedő között – a dohánytermék-nagykereskedő által gyártott vagy forgalmazott, az 1. § (1) bekezdése szerinti termékeknek, továbbá a dohányterméket kiegészítő termékeknek a dohánytermék értékesítési helyén történő kedvezőbb megjelenítésére vonatkozóan – kötött, legfeljebb 12 hónap határozott időtartamra szóló, írásbeli szerződés;
+
+20. pult: a dohánytermék értékesítésekor szokásosan a dohánytermék, illetve az ellenérték átadására szolgáló felület;
+
+21. pultvonal: a dohánytermék értékesítési helyén a padlótól számított 85 cm magasságban elhelyezkedő vízszintes sík;
+
+22. árjelzés: a dohánytermék értékesítési helyén értékesített, az 1. § (1) bekezdése szerinti termékek árának feltüntetésére szolgáló, közvetlenül az érintett terméknél elhelyezett, legfeljebb 4 × 6 cm méretű, információs felület.
 
 (2) E törvény alkalmazásában
 
@@ -64,11 +74,13 @@ e) az utántöltő flakon, patron, nikotinmentes utántöltő flakon, nikotinmen
 
 f) a dohányzást imitáló elektronikus eszköz,
 
-g) a dohányzást helyettesítő nikotintartalmú termék, valamint
+g) a dohányzást helyettesítő nikotintartalmú termék,
 
-h) dohányzási célú gyógynövénytermék
+h) a dohányzási célú gyógynövénytermék, valamint
 
-a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott termék.
+i) a csomagolási egység
+
+a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló törvényben ekként meghatározott termék vagy fogalom.
 
 ## II. Fejezet
 

@@ -10,6 +10,14 @@ b) a pályázat benyújtásának napján, e napot megelőzően legalább 3 hóna
 
 c) az a)–b) pontban írtaknak megfelelő személyt foglalkoztat, vagy – feltéve, hogy a pályázati kiírás ezt lehetővé teszi – olyan gazdasági társaság, amelyben az a)–b) pont szerinti személy tagsági jogviszonnyal rendelkezik.
 
+(3a) A pályázaton való részvétele kizárt annak a személynek,
+
+a) akivel szemben egyéni vállalkozóként, vagy
+
+b) aki olyan gazdasági társaságnak volt korlátlanul felelős tagja, amellyel szemben
+
+a 23. § (2) bekezdés a) pontban írt jogkövetkezményt alkalmaztak a pályázat benyújtási határidejét megelőző tíz éven belül.
+
 (4) A pályázatot úgy kell kiírni, hogy a dohánytermék-kiskereskedelmi jogosultság átengedésének időtartama húsz év legyen.
 
 (5) A dohánytermék-kiskereskedelmi jogosultság a 6. § (2) és (3) bekezdésében meghatározott településen belül – e törvény és az egyéb jogszabályok által lehetővé tett módon – bárhol gyakorolható.

@@ -31,3 +31,5 @@ b) a büntetés-végrehajtási intézetek területén történő,
 c) törvényben kihirdetett nemzetközi szerződésben foglaltaknak megfelelő
 
 kiskereskedelmi értékesítésére.
+
+(4) E törvény hatálya kiterjed a jogosulatlan dohánytermék-kiskereskedelmi tevékenység nem Magyarország területén történő végzésére is, ha a tevékenység Magyarország területén lévő igénybe vevők felé irányul, különösen olyan esetekben, ha az magyar nyelven hozzáférhető, vagy azt Magyarország területén reklámozzák.
