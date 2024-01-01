@@ -22,7 +22,7 @@
 
 3. gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, az egyéni vállalkozó, a befektetési alap, továbbá az MRP szervezet;
 
-4. nemzetközi fejlesztési együttműködés: a nemzetközi fejlesztési együttműködésről és a nemzetközi humanitárius segítségnyújtásról szóló törvényben meghatározott fogalom;
+4. nemzetközi fejlesztési együttműködés: a Hungary Helps Programról szóló törvényben meghatározott fogalom;
 
 5. magyar befektetők külföldi befektetése: devizabelföldi gazdálkodó szervezet vagy a devizabelföldi gazdálkodó szervezet tulajdonában álló, a befektetéssel, beruházással érintett országban alapított gazdasági társaság külföldön megvalósuló befektetése, beruházása, amely a devizabelföldi gazdálkodó szervezet nemzetközi piacra lépését vagy meglévő nemzetközi piaci pozíciójának megerősítését segíti elő.
 
