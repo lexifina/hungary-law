@@ -10,7 +10,7 @@
 
 ## Az állattartó tulajdonában álló vagy általa működtetett egyéb, a tojótyúktartó telepek nyilvántartásba vételének szabályairól szóló 74/2003. (VII. 1.) FVM rendelet hatálya alá tartozó tojótyúktartó telep(ek) nyilvántartási száma(i):
 
-## 3.1 A tulajdonos neve:
+## 3.1A tulajdonos neve:
 
 ## címe:
 
@@ -60,7 +60,7 @@
 
 2. számú melléklet a 74/2003. (VII. 1.) FVM rendelethez
 
-## A nyilvántartási szám felépítése
+A nyilvántartási szám felépítése
 
 1. A nyilvántartási szám felépítése:
 
