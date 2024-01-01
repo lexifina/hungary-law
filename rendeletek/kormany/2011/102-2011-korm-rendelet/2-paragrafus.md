@@ -2,13 +2,13 @@
 
 a)[^4] súlyos mozgáskorlátozott személy:
 
-aa) az a személy, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdés e) pontja alapján mozgásszervi fogyatékosnak minősül, vagy f) pontja alapján halmozottan fogyatékosnak minősül és halmozott fogyatékosságai közül legalább az egyik mozgásszervi fogyatékosság,
+aa)[^5] az a személy, aki a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdés e) pontja alapján mozgásszervi fogyatékosnak minősül, vagy h) pontja alapján halmozottan fogyatékosnak minősül és halmozott fogyatékosságai közül legalább az egyik mozgásszervi fogyatékosság,
 
-ab)[^5] az a személy, aki a 18. életévét nem töltötte be és a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mr.) 1. mellékletében meghatározott, az „L” betűjel szerinti mozgásszervi fogyatékosságban szenved, vagy a „P” betűjel szerinti többszörös és összetett betegségben szenved és a többszörös és összetett betegségei közül legalább az egyik mozgásszervi fogyatékosságot okoz,
+ab)[^6] az a személy, aki a 18. életévét nem töltötte be és a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mr.) 1. mellékletében meghatározott, az „L” betűjel szerinti mozgásszervi fogyatékosságban szenved, vagy a „P” betűjel szerinti többszörös és összetett betegségben szenved és a többszörös és összetett betegségei közül legalább az egyik mozgásszervi fogyatékosságot okoz,
 
-ac)[^6] a 4/A. alcím szerinti minősítési rendszer szerint a közlekedőképességében súlyosan akadályozott személy;
+ac)[^7] a 4/A. alcím szerinti minősítési rendszer szerint a közlekedőképességében súlyosan akadályozott személy;
 
-b)[^7] tanulói, képzési jogviszonyban álló:
+b)[^8] tanulói, képzési jogviszonyban álló:
 
 ba) a korai fejlesztésben és gondozásban részesülő gyermek,
 
@@ -34,41 +34,43 @@ cb) alapján munkanélküli járadékban, álláskeresési járadékban, állás
 
 d) egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, elvált vagy házastársától külön él, kivéve, ha élettársa van, azzal, hogy a házastársak akkor tekinthetők különélőnek, ha lakcímük különböző;
 
-e)[^8] keretszám: az évente kiadható támogatásoknak a központi költségvetésről szóló törvény keretei között, a szociálpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
+e)[^9] keretszám: az évente kiadható támogatásoknak a központi költségvetésről szóló törvény keretei között, a szociálpolitikáért felelős miniszter (a továbbiakban: miniszter) és a Mozgáskorlátozottak Egyesületeinek Országos Szövetsége (a továbbiakban: MEOSZ) által egyetértésben meghatározott mértéke;
 
-f)[^9] önálló személygépkocsi használó: az a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy, aki gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, továbbá az a súlyos mozgáskorlátozott személy, aki
+f)[^10] önálló személygépkocsi használó: az a súlyos mozgáskorlátozott, illetve egyéb fogyatékossággal élő személy, aki gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, továbbá az a súlyos mozgáskorlátozott személy, aki
 
 fa) a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
-fb)[^10] az 5. § (1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságának az átalakítás előírása mellett történő megállapításáról szóló irattal rendelkezik,
+fb)[^11] az 5. § (1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságának az átalakítás előírása mellett történő megállapításáról szóló irattal rendelkezik,
 
 és nem áll járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt;
 
-g)[^11] szállítást végző személy: a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy személygépkocsival történő szállítását írásbeli nyilatkozatban vállaló, gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkező
+g)[^12] szállítást végző személy: a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy személygépkocsival történő szállítását írásbeli nyilatkozatban vállaló, gépkocsi vezetésére jogosító érvényes vezetői engedéllyel rendelkező
 
 ga) vér szerinti, örökbefogadó- és nevelőszülő, házastárs, élettársi nyilvántartásba bejegyzett élettárs,
 
-gb)[^12] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személlyel legalább egy éve közös háztartásban élő, a ga) alpont alá nem tartozó egyenesági rokon vagy testvér,
+gb)[^13] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személlyel legalább egy éve közös háztartásban élő, a ga) alpont alá nem tartozó egyenesági rokon vagy testvér,
 
-gc)[^13] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
+gc)[^14] a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő személy személygépkocsival történő szállítását a közérdekű önkéntes tevékenységről szóló törvény szerinti önkéntes jogviszonyban végző személy,
 
 amennyiben nem áll a járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt,
 
-h)[^14] egyéb fogyatékossággal élő személy: az a személy, aki
+h)[^15] egyéb fogyatékossággal élő személy: az a személy, aki
 
-ha) fogyatékossági támogatásra a Fot. 23. § (1) bekezdés a)–d) vagy h) pontja alapján jogosult, vagy vakok személyi járadékában részesül, vagy a Fot. 23. § (1) bekezdés f) vagy g) pontja alapján halmozottan fogyatékosnak minősül, kivéve, ha egyik fogyatékossága mozgásszervi fogyatékosság,
+ha)[^16] fogyatékossági támogatásra a Fot. 23. § (1) bekezdés a)–d), f) vagy g) pontja alapján jogosult, vagy vakok személyi járadékában részesül, vagy a Fot. 23. § (1) bekezdés h) vagy i) pontja alapján halmozottan fogyatékosnak minősül, kivéve, ha egyik fogyatékossága mozgásszervi fogyatékosság,
 
-hb)[^15] a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel alapján, vagy az „N” betűjel alapján jogosult, továbbá, aki az Mr. 1. mellékletében meghatározott, a „P” betűjel szerinti többszörös és összetett betegségben szenved, és a többszörös és összetett betegségei közül legalább az egyik az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel szerinti, vagy az „N” betűjel szerinti betegség, illetve fogyatékosság.
+hb)[^17] a 18. életévét nem töltötte be, és magasabb összegű családi pótlékra az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel alapján, vagy az „N” betűjel alapján jogosult, továbbá, aki az Mr. 1. mellékletében meghatározott, a „P” betűjel szerinti többszörös és összetett betegségben szenved, és a többszörös és összetett betegségei közül legalább az egyik az Mr. 1. mellékletében meghatározottak szerint a „K” vagy az „M” betűjel szerinti, vagy az „N” betűjel szerinti betegség, illetve fogyatékosság.
 
 [^4]: A 2. § a) pontja a 61/2012. (III. 30.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^5]: A 2. § a) pont ab) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^6]: A 2. § a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (9) bekezdése szerint módosított szöveg.
-[^7]: A 2. § b) pontja a 13/2020. (II. 7.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^8]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 99. §-a szerint módosított szöveg.
-[^9]: A 2. § f) pontja a 250/2012. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (1) bekezdésével megállapított szöveg.
-[^11]: A 2. § g) pont nyitó szövegrésze a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^12]: A 2. § g) pont gb) alpontja a 235/2017. (VIII. 18.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^13]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^14]: A 2. § h) pontját a 250/2012. (IX. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^15]: A 2. § h) pont hb) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § a) pont aa) alpontja a 616/2023. (XII. 22.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § a) pont ab) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 2. § a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (9) bekezdése szerint módosított szöveg.
+[^8]: A 2. § b) pontja a 13/2020. (II. 7.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^9]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja, a 238/2022. (VI. 30.) Korm. rendelet 99. §-a szerint módosított szöveg.
+[^10]: A 2. § f) pontja a 250/2012. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § g) pont nyitó szövegrésze a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § g) pont gb) alpontja a 235/2017. (VIII. 18.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^14]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^15]: A 2. § h) pontját a 250/2012. (IX. 7.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^16]: A 2. § h) pont ha) alpontja a 616/2023. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^17]: A 2. § h) pont hb) alpontja a 66/2016. (III. 31.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.

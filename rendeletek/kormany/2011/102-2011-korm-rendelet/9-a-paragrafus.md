@@ -1,6 +1,6 @@
-9/A. §[^56] (1)[^57] A közreműködő szervezet kiválasztása nyilvános pályázat útján történik a versenysemlegesség szempontjainak érvényesítésével.
+9/A. §[^58] (1)[^59] A közreműködő szervezet kiválasztása nyilvános pályázat útján történik a versenysemlegesség szempontjainak érvényesítésével.
 
-(1a)[^58] Közreműködő szervezetként autókereskedő vagy olyan konzorcium választható ki, amelynek egyik tagja autókereskedő.
+(1a)[^60] Közreműködő szervezetként autókereskedő vagy olyan konzorcium választható ki, amelynek egyik tagja autókereskedő.
 
 (2) A pályázati felhívást a miniszter által vezetett minisztérium honlapján kell közzétenni, a közzététel napját kell a pályázat meghirdetési időpontjának tekinteni.
 
@@ -26,7 +26,7 @@ i) a gazdasági, pénzügyi, műszaki és szakmai alkalmassági feltételeket.
 
 (4) A részletes tájékoztató a pályázati felhívásban foglalt adatokon kívül tartalmazza a pályázati kiírást és az eljárás szabályait, így különösen
 
-a)[^59] a pályázat tárgyával kapcsolatos részletes információkat, az ahhoz kapcsolódó jogokat és kötelezettségeket, így a gépjárművek specifikációját, szállításának ütemezését, az ügyfélszolgálati pontokat, az ügyfélszolgálat országos lefedettségét,
+a)[^61] a pályázat tárgyával kapcsolatos részletes információkat, az ahhoz kapcsolódó jogokat és kötelezettségeket, így a gépjárművek specifikációját, szállításának ütemezését, az ügyfélszolgálati pontokat, az ügyfélszolgálat országos lefedettségét,
 
 b) a pályázat hivatalos nyelvének megjelölését,
 
@@ -54,7 +54,7 @@ i) az ajánlattevők értesítésének módját és várható határidejét.
 
 (9) A pályázati ajánlatok elbírálásáról a miniszter dönt. Az ajánlatok közül – a (4) bekezdés f) pontjában foglaltak figyelembevételével – az összességében legkedvezőbb feltételeket kínáló, megalapozott ajánlat mellett kell dönteni.
 
-[^56]: A 9/A. §-t a 189/2011. (IX. 19.) Korm. rendelet 5. §-a iktatta be.
-[^57]: A 9/A. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
-[^58]: A 9/A. § (1a) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 3. §-a iktatta be.
-[^59]: A 9. § (4) bekezdés a) pontja a 402/2017. (XII. 15.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
+[^58]: A 9/A. §-t a 189/2011. (IX. 19.) Korm. rendelet 5. §-a iktatta be.
+[^59]: A 9/A. § (1) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 7. § c) pontja szerint módosított szöveg.
+[^60]: A 9/A. § (1a) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 3. §-a iktatta be.
+[^61]: A 9. § (4) bekezdés a) pontja a 402/2017. (XII. 15.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.

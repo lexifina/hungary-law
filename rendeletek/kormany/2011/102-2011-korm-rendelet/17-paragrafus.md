@@ -1,3 +1,3 @@
-17. §[^97]
+17. §[^99]
 
-[^97]: A 16–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: A 16–18. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

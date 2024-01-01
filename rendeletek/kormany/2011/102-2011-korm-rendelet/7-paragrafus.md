@@ -1,6 +1,6 @@
 ## 4. A jogosultság megállapítása
 
-7. § (1)[^32] A közlekedési kedvezmény iránti kérelmet minden év március 31-éig és szeptember 30-áig lehet benyújtani.
+7. § (1)[^34] A közlekedési kedvezmény iránti kérelmet minden év március 31-éig és szeptember 30-áig lehet benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -8,7 +8,7 @@ a) a 4. § (1) bekezdésének vagy az 5. § (1) bekezdésének megfelelő pontj�
 
 b) szállítást végző személy esetén a szállítást végző személy természetes személyazonosító adatait.
 
-(3)[^33] A 2. § szerinti körülmények igazolására fel lehet használni
+(3)[^35] A 2. § szerinti körülmények igazolására fel lehet használni
 
 a) a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat, ha a 2/A. § szerinti adatokat igazoló iratok másolata a hivatalnak nem áll rendelkezésére, az adatok a nyilvántartásában nem szerepelnek és általa nem beszerezhetőek;
 
@@ -28,17 +28,17 @@ dd) d) pontja szerinti esetben a hadigondozásról szóló törvény szerinti ha
 
 e) a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő és a szállítást végző személy nyilatkozatát arról, hogy a 6. § (1) bekezdés a) pontja, (1a) bekezdés a) pontja és (2) bekezdése szerint nem részesült ő maga vagy más személy rá tekintettel közlekedési kedvezményben, és
 
-f)[^34]
+f)[^36]
 
-(4)[^35] Az 1. § c)–e) pontja szerinti személy a (3) bekezdésben meghatározottakon kívül nyilatkozik a tartózkodási engedélyről, tartózkodási engedély hiányában hitelt érdemlően igazolja a tartózkodás jogcímét vagy – ha hozzátartozóként válik jogosulttá az ellátásra – a rokoni kapcsolatot, ha az iratok másolata a hivatalnak nem áll rendelkezésére, az adatok a nyilvántartásban nem szerepelnek és általa nem beszerezhetőek.
+(4)[^37] Az 1. § c)–e) pontja szerinti személy a (3) bekezdésben meghatározottakon kívül nyilatkozik a tartózkodási engedélyről, tartózkodási engedély hiányában hitelt érdemlően igazolja a tartózkodás jogcímét vagy – ha hozzátartozóként válik jogosulttá az ellátásra – a rokoni kapcsolatot, ha az iratok másolata a hivatalnak nem áll rendelkezésére, az adatok a nyilvántartásban nem szerepelnek és általa nem beszerezhetőek.
 
-(5)[^36]
+(5)[^38]
 
-(6)[^37] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerinti körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
+(6)[^39] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerinti körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
 
-[^32]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 326. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^33]: A 7. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^34]: A 7. § (3) bekezdés f) pontját a 402/2017. (XII. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
-[^35]: A 7. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^36]: A 7. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 326. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^37]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 325. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^34]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 326. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^35]: A 7. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^36]: A 7. § (3) bekezdés f) pontját a 402/2017. (XII. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^37]: A 7. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (3) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^38]: A 7. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 326. § b) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^39]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 325. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
