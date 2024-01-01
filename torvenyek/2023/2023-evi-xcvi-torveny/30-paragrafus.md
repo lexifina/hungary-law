@@ -1,1 +1,3 @@
-### 30. §
+30. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 80/S. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Gazdasági Versenyhivatal versenyfelügyeleti eljárást indíthat annak megállapítása érdekében, hogy álláspontja szerint a kijelölt kapuőr vállalkozás megfelel-e az (EU) 2022/1925 európai parlamenti és tanácsi rendelet 5–7. cikke szerinti kötelezettségeknek. Az e bekezdés szerinti versenyfelügyeleti eljárás a vizsgálónak a jelentés Európai Bizottság részére történő átadásáról szóló végzésével zárul. A jelentés a 71. § (2) bekezdés a) és b) pontja szerinti információkat tartalmazza.”
