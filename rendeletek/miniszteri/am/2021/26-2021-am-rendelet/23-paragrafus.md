@@ -1,6 +1,6 @@
 ## 17. Az első származási bizonyítvány, a must származási bizonyítvány és a termelési jelentés
 
-23. §[^4] (1) A Kormányrendelet 37. § (1) bekezdés a) pontja szerinti első származási bizonyítvány iránti kérelem, valamint a Kormányrendelet 37. § (1) bekezdés b) pontja szerinti must származási bizonyítvány iránti kérelem az Ákr.-ben meghatározott adatokon túlmenően tartalmazza
+23. §[^7] (1) A Kormányrendelet 37. § (1) bekezdés a) pontja szerinti első származási bizonyítvány iránti kérelem, valamint a Kormányrendelet 37. § (1) bekezdés b) pontja szerinti must származási bizonyítvány iránti kérelem az Ákr.-ben meghatározott adatokon túlmenően tartalmazza
 
 a) a borászati üzemengedélyes
 
@@ -42,4 +42,4 @@ h) a szakmai-jövedéki nyilvántartásnak a kérelemben érintett borászati te
 
 (3) A termelési jelentés az (1) bekezdés c)–g) pontjában meghatározott adatokat borászati terméktételenként tartalmazza.
 
-[^4]: A 23. § a 70. § (2) bekezdésével megállapított szöveg.
+[^7]: A 23. § a 70. § (2) bekezdésével megállapított szöveg.

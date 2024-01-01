@@ -42,11 +42,11 @@ h) ha a kérelmező nem a helyi ivóvíz szolgáltató által szolgáltatott viz
 
 i) a kiszerelési tevékenységet végző borászati üzem, valamint a nem kisüzemi bortermelőként előállítást végző borászati üzem által elkészített
 
-ia) technológiai folyamatábrát,
+ia)[^4]
 
 ib) technológiai elrendezési rajzot,
 
-ic) anyagmozgatási és személyforgalmi tervet,
+ic)[^5]
 
 id) műszaki-technológiai leírást,
 
@@ -56,10 +56,14 @@ if) tisztítási, takarítási utasítást,
 
 ig) hulladékkezelési utasítást,
 
-ih) személyi higiéniai utasítást;
+ih)[^6]
 
 j) kisüzemi bortermelő borászati terméket legalább 100 hektoliter/év mennyiségben előállító borászati üzeme esetén az egyszerűsített személyi higiéniai utasítást;
 
 k) a helyszínrajzot; valamint
 
 l) a használt víz tekintetében annak igazolását, hogy a szennyvíz a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendeletben foglaltaknak megfelel.
+
+[^4]: A 19. § i) pont ia) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^5]: A 19. § i) pont ic) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^6]: A 19. § i) pont ih) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.

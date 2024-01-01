@@ -4,6 +4,6 @@
 
 (3) A veszteségek vetítési alapja az adott borászati terméktétel első származási bizonyítványa vagy must származási bizonyítványa alapján nyilvántartott eredeti mennyisége.
 
-(4)[^6] Ha a borászati terméktétellel összefüggő veszteség az (1) bekezdésben foglaltaktól eltérően meghaladja a 10. mellékletben meghatározott veszteségnorma értékét, arról a borászati üzemengedélyes a szakmai-jövedéki nyilvántartás mellékletét képező jegyzőkönyvet vesz fel, amelyben rögzíti az adott veszteségnorma túllépésének indokát. Az elkészített jegyzőkönyvet a borászati üzemengedélyes haladéktalanul megküldi a NÉBIH részére.
+(4)[^9] Ha a borászati terméktétellel összefüggő veszteség az (1) bekezdésben foglaltaktól eltérően meghaladja a 10. mellékletben meghatározott veszteségnorma értékét, arról a borászati üzemengedélyes a szakmai-jövedéki nyilvántartás mellékletét képező jegyzőkönyvet vesz fel, amelyben rögzíti az adott veszteségnorma túllépésének indokát. Az elkészített jegyzőkönyvet a borászati üzemengedélyes haladéktalanul megküldi a NÉBIH részére.
 
-[^6]: A 33. § (4) bekezdését a 27/2022. (VIII. 31.) AM rendelet 15. §-a iktatta be.
+[^9]: A 33. § (4) bekezdését a 27/2022. (VIII. 31.) AM rendelet 15. §-a iktatta be.
