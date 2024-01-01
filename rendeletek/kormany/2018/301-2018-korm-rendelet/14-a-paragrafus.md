@@ -1,8 +1,8 @@
-## 3/A.[^159] Szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatáskörök
+## 3/A.[^187] Szoftverlicenc-gazdálkodással kapcsolatos feladat- és hatáskörök
 
-14/A. § (1)[^160] A miniszter a 3. § (1a) bekezdése szerinti feladatait a DKÜ és a DMÜ útján látja el.
+14/A. § (1)[^188] A miniszter a 3. § (1a) bekezdése szerinti feladatait a DKÜ és a DMÜ útján látja el.
 
-(2)[^161] A DKÜ – a DMÜ-vel e rendelet szerint együttműködve –
+(2)[^189] A DKÜ – a DMÜ-vel e rendelet szerint együttműködve –
 
 a) az érintett szervezetek tekintetében központosított szoftverlicenc-gazdálkodási rendszert alakít ki és működtet,
 
@@ -10,23 +10,24 @@ b) az a) pont szerinti feladatai ellátása érdekében szoftverlicenc nyilvánt
 
 c) az a) pont szerinti feladatai ellátása keretében szoftverlicenc-menedzsment és licencoptimalizálási tevékenységet végez, illetőleg gondoskodik a szoftverlicencek céltudatos felhasználásáról és az érintett szervezetek szükségletei hatékony kielégítéséről.
 
-(3)[^162] A DKÜ és a DMÜ a (2) bekezdés szerinti feladatai ellátása érdekében jogosult adatszolgáltatást kérni az érintett szervezettől a szoftverlicenc szerződései adatairól, gazdálkodása körülményeiről vagy egyéb, a központosított szoftverlicenc-gazdálkodási rendszer kialakításához, működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
+(3)[^190] A DKÜ és a DMÜ a (2) bekezdés szerinti feladatai ellátása érdekében jogosult adatszolgáltatást kérni az érintett szervezettől a szoftverlicenc szerződései adatairól, gazdálkodása körülményeiről vagy egyéb, a központosított szoftverlicenc-gazdálkodási rendszer kialakításához, működtetéséhez szükséges adatokról, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
 
-(4)[^163] A DKÜ és a DMÜ a (3) bekezdés szerinti adatszolgáltatási kötelezettség ellenőrzése céljából a teljesítéssel érintett szállítótól – ideértve a szoftver vagyoni jogai felett rendelkezési joggal bíró valamennyi személyt, így különösen a gyártót, a viszonteladót és a közvetítő kereskedőt is – adatszolgáltatást kérhet, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
+(4)[^191] A DKÜ és a DMÜ a (3) bekezdés szerinti adatszolgáltatási kötelezettség ellenőrzése céljából a teljesítéssel érintett szállítótól – ideértve a szoftver vagyoni jogai felett rendelkezési joggal bíró valamennyi személyt, így különösen a gyártót, a viszonteladót és a közvetítő kereskedőt is – adatszolgáltatást kérhet, amely annak kézhezvételétől számított 10 munkanapon belül köteles az adatszolgáltatást teljesíteni.
 
-(5) Amennyiben az érintett szervezetnek a 14. § (1) bekezdése szerinti díjfizetési kötelezettsége áll fenn, az érintett szervezet a DKÜ-nek – a beszerzési díj mellett – szoftverlicenc-gazdálkodási díjat is fizet, amelynek mértéke a beszerzési eljárás megindításakor Magyarországon érvényes, kedvezményekkel nem csökkentett gyártói listaárhoz képest elért, százalékban kifejezett kedvezmény harmadával megegyező, de legalább a fizetendő beszerzési díj mértékének ötödével és legfeljebb a fizetendő beszerzési díj mértékével megegyező mértékű lehet. Amennyiben a DKÜ által elért kedvezmény mértéke alacsonyabb, mint az érintett szervezet által azonos tárgyban – legfeljebb a beszerzési eljárás megindítását megelőző 2 éven belül – igazoltan elért, szerződött és érvényesített kedvezmény, a szoftverlicenc-gazdálkodási díj maximális mértékét csökkenti a két kedvezmény közötti összeg harmadának megfelelő összeg. Amennyiben gyártói listaár nem áll rendelkezésre vagy nem megismerhető, a szoftverlicenc-gazdálkodási díj mértéke a fizetendő beszerzési díj mértékével egyezik meg.
+(5)[^192] Ha az érintett szervezetnek a 14. § (1) bekezdése szerinti díjfizetési kötelezettsége áll fenn, az érintett szervezet a DKÜ-nek – a beszerzési díj mellett – szoftverlicenc-gazdálkodási díjat is fizet, amelynek alapja a szoftverlicenc-gazdálkodási díjfizetéssel érintett egyedi szerződésben szereplő – az opcionális mennyiség értékével növelt – általános forgalmi adó nélkül számított visszterhes szerződéses érték, mértéke 1,5%.
 
-(6)[^164] A DKÜ és a DMÜ a kormányzati központosított szoftverlicenc-gazdálkodással kapcsolatos – e rendelet szerinti – állami feladatokat közfeladatként látja el.
+(6)[^193] A DKÜ és a DMÜ a kormányzati központosított szoftverlicenc-gazdálkodással kapcsolatos – e rendelet szerinti – állami feladatokat közfeladatként látja el.
 
-(7)[^165] A szoftverlicenc-gazdálkodási díjból a DKÜ és a DMÜ egyenlő arányban részesül. Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, az (5) bekezdés alapján megfizetett szoftverlicenc-gazdálkodási díjat a DKÜ és a DMÜ közfeladatai ellátásának pénzügyi fedezetére használhatja fel.
+(7)[^194] A szoftverlicenc-gazdálkodási díjból a DKÜ és a DMÜ egyenlő arányban részesül. Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) és (3) bekezdésére figyelemmel, az (5) bekezdés alapján megfizetett szoftverlicenc-gazdálkodási díjat a DKÜ és a DMÜ közfeladatai ellátásának pénzügyi fedezetére használhatja fel.
 
-(8)[^166]
+(8)[^195]
 
-[^159]: A 3/A. alcímet (14/A. §) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be, az alcím címe a 419/2023. (VIII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^160]: A 14/A. § (1) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^161]: A 14/A. § (2) bekezdés nyitó szövegrésze a 419/2023. (VIII. 31.) Korm. rendelet 13. § 5. pontjával megállapított szöveg.
-[^162]: A 14/A. § (3) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
-[^163]: A 14/A. § (4) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
-[^164]: A 14/A. § (6) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
-[^165]: A 14/A. § (7) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
-[^166]: A 14/A. § (8) bekezdését a 419/2023. (VIII. 31.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^187]: A 3/A. alcímet (14/A. §) a 683/2020. (XII. 28.) Korm. rendelet 12. §-a iktatta be, az alcím címe a 419/2023. (VIII. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^188]: A 14/A. § (1) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^189]: A 14/A. § (2) bekezdés nyitó szövegrésze a 419/2023. (VIII. 31.) Korm. rendelet 13. § 5. pontjával megállapított szöveg.
+[^190]: A 14/A. § (3) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^191]: A 14/A. § (4) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^192]: A 14/A. § (5) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^193]: A 14/A. § (6) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 13. § 3. pontja szerint módosított szöveg.
+[^194]: A 14/A. § (7) bekezdése a 419/2023. (VIII. 31.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^195]: A 14/A. § (8) bekezdését a 419/2023. (VIII. 31.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

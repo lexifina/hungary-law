@@ -74,31 +74,35 @@ i)[^19] a DMÜ e rendelet szerinti feladatait és az ezzel összefüggő eljár�
 
 5.[^23] informatikai beszerzés: informatikai eszköz, szoftver, alkalmazásfejlesztés és az ezekhez kapcsolódó szolgáltatások beszerzésére irányuló keretmegállapodás vagy más keretjellegű szerződés, továbbá visszterhes szerződés létrehozását célzó beszerzési eljárás;
 
-6. informatikai beszerzési igény: az éves informatikai beszerzési vagy fejlesztési tervben szereplő, előre tervezett beszerzési igény;
+6.[^24] informatikai beszerzési igény: az 1. § (4) bekezdés 10., 13., 14. és 15. pontjában meghatározott beszerzési igények együttesen említve;
 
-7.[^24] informatikai eszköz: azon hardver eszköz, továbbá a hardver eszköz rendeltetésszerű működéséhez, bővítéséhez vagy karbantartásához szükséges eszköz, alkatrész, kiegészítő, kellék és segédanyag, valamint az ehhez kapcsolódó azon szolgáltatások, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
+7.[^25] informatikai eszköz: azon hardver eszköz, továbbá a hardver eszköz rendeltetésszerű működéséhez, bővítéséhez vagy karbantartásához szükséges eszköz, alkatrész, kiegészítő, kellék és segédanyag, valamint az ehhez kapcsolódó azon szolgáltatások, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
 8. információs rendszer: az adatok feldolgozását, kezelését, tárolását, továbbítását biztosító berendezés vagy az egymással kapcsolatban lévő ilyen berendezések összessége;
 
-8a.[^25] járulékos beszerzési szolgáltatás: a Kbt. szerinti járulékos közbeszerzési szolgáltatás, illetve az e rendelet szerinti egyéb beszerzési eljárás lefolytatásához nyújtott támogatási tevékenységek összessége;
+8a.[^26] járulékos beszerzési szolgáltatás: a Kbt. szerinti járulékos közbeszerzési szolgáltatás, illetve az e rendelet szerinti egyéb beszerzési eljárás lefolytatásához nyújtott támogatási tevékenységek összessége;
 
-8b.[^26] központi beszerző szerv: a Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások során e rendelet szerint ajánlatkérésre feljogosított szervezet;
+8b.[^27] központi beszerző szerv: a Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások során e rendelet szerint ajánlatkérésre feljogosított szervezet;
 
-8c.[^27] központosított beszerzés: a központi beszerző szerv által ellátott Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások és tevékenységek összessége;
+8c.[^28] központosított beszerzés: a központi beszerző szerv által ellátott Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások és tevékenységek összessége;
 
-9.[^28] DKÜ alkalmazás: a DKÜ által működtetett, az e rendeletben meghatározott kapcsolattartásra és az e rendeletben meghatározott adatszolgáltatási és tájékoztatási kötelezettség teljesítésére alkalmas, internetes felületen keresztül elérhető informatikai alkalmazások és az ezt támogató adatforrások összessége;
+9.[^29] DKÜ alkalmazás: a DKÜ által működtetett, az e rendeletben meghatározott kapcsolattartásra és az e rendeletben meghatározott adatszolgáltatási és tájékoztatási kötelezettség teljesítésére alkalmas, internetes felületen keresztül elérhető informatikai alkalmazások és az ezt támogató adatforrások összessége;
 
-10. rendkívüli informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezett beszerzési igény;
+10.[^30] rendkívüli informatikai beszerzési igény: olyan, az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre a kellő gondosságú tervezés mellett sem tervezhető beszerzési igény, mely jogszabály, a Kormány vagy a Kormány tagja által kiadott közjogi szervezetszabályozó eszköz kifejezett rendelkezése, kijelölése vagy a tulajdonosi jogokat, illetve az irányítási jogköröket gyakorló döntése alapján merül fel;
 
-11.[^29] szállító: a központi beszerző szerv által lefolytatott beszerzési eljárás eredményeképpen megkötött keretmegállapodásban vagy más keretjellegű szerződésben, visszterhes szerződésben részes ajánlattevő;
+11.[^31] szállító: a központi beszerző szerv által lefolytatott beszerzési eljárás eredményeképpen megkötött keretmegállapodásban vagy más keretjellegű szerződésben, visszterhes szerződésben részes ajánlattevő;
 
 12. szoftver: azon – a beszerzési igény felmerülését megelőzően – előre kifejlesztett számítógépes program, ideértve az általános felhasználású alapszoftvereket, a rendszerszoftvereket és az alkalmazói szoftvereket vagy szoftvercsoportokat, valamint az ezekhez kapcsolódó azon szolgáltatásokat, amelyeket az e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter rendeletében meghatározott;
 
-12a.[^30] szoftverlicenc-gazdálkodás: a szoftverlicencek, a kapcsolódó licenckövetési és támogatási szolgáltatások nyilvántartásához, menedzsmentjéhez, optimalizálásához, valamint céltudatos, hatékony felhasználásához, beszerzéséhez kapcsolódó tevékenységek összessége;
+12a.[^32] szoftverlicenc-gazdálkodás: a szoftverlicencek, a kapcsolódó licenckövetési és támogatási szolgáltatások nyilvántartásához, menedzsmentjéhez, optimalizálásához, valamint céltudatos, hatékony felhasználásához, beszerzéséhez kapcsolódó tevékenységek összessége;
 
-13.[^31] üzemszerű működés biztosításához szükséges informatikai beszerzésre vonatkozó igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezhető beszerzési igény, amely azonnali beavatkozást igénylő kritikus működési kényszer miatt jelentkezik.
+13.[^33] tervezett informatikai beszerzési igény: az adott évre jóváhagyott vagy jóváhagyás alatt álló éves informatikai beszerzési vagy fejlesztési tervben szereplő beszerzési igény;
 
-(5)[^32] Az e rendeletben meghatározott határidőkbe a kezdőnap nem számít bele. Kezdőnap az a nap, amelyre a határidő megkezdésére okot adó cselekmény vagy egyéb körülmény esik. Ha a határidő utolsó napja munkaszüneti nap, a határidő a következő munkanapon jár le.
+14.[^34] tervmódosítást igénylő informatikai beszerzési igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, rendkívüli vagy üzemszerű működés biztosításához szükséges informatikai beszerzési igénynek nem minősülő beszerzési igény vagy az éves informatikai beszerzési vagy fejlesztési tervben szereplő, de attól a 13. § (2c) bekezdés a)–e) pontjában meghatározottaktól nagyobb mértékben eltérő beszerzési igény;
+
+15.[^35] üzemszerű működés biztosításához szükséges informatikai beszerzési igény: az éves informatikai beszerzési vagy fejlesztési tervben nem szereplő, előre nem tervezhető beszerzési igény, amely az érintett szervezet mindennapi ügyviteléhez vagy közfeladatainak ellátásához kapcsolódó, azonnali beavatkozást igénylő kritikus működési kényszer miatt jelentkezik.
+
+(5)[^36] Az e rendeletben meghatározott határidőkbe a kezdőnap nem számít bele. Kezdőnap az a nap, amelyre a határidő megkezdésére okot adó cselekmény vagy egyéb körülmény esik. Ha a határidő utolsó napja munkaszüneti nap, a határidő a következő munkanapon jár le.
 
 [^1]: Az 1. § (1) bekezdés b) pontja a 83/2019. (IV. 18.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés c) pontját a 419/2023. (VIII. 31.) Korm. rendelet 1. § (1) bekezdése iktatta be.
@@ -123,12 +127,16 @@ i)[^19] a DMÜ e rendelet szerinti feladatait és az ezzel összefüggő eljár�
 [^21]: Az 1. § (4) bekezdés 3. pontja a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^22]: Az 1. § (4) bekezdés 4. pontja a 291/2023. (VII. 6.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^23]: Az 1. § (4) bekezdés 5. pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
-[^24]: Az 1. § (4) bekezdés 7. pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
-[^25]: Az 1. § (4) bekezdés 8a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^26]: Az 1. § (4) bekezdés 8b. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^27]: Az 1. § (4) bekezdés 8c. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^28]: Az 1. § (4) bekezdés 9. pontja a 291/2023. (VII. 6.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^29]: Az 1. § (4) bekezdés 11. pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
-[^30]: Az 1. § (4) bekezdés 12a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^31]: Az 1. § (4) bekezdés 13. pontja a 9/2020. (I. 31.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
-[^32]: Az 1. § (5) bekezdését a 419/2023. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^24]: Az 1. § (4) bekezdés 6. pontja a 419/2023. (VIII. 31.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^25]: Az 1. § (4) bekezdés 7. pontja a 304/2021. (VI. 2.) Korm. rendelet 2. § 2. pontja szerint módosított szöveg.
+[^26]: Az 1. § (4) bekezdés 8a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^27]: Az 1. § (4) bekezdés 8b. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^28]: Az 1. § (4) bekezdés 8c. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^29]: Az 1. § (4) bekezdés 9. pontja a 291/2023. (VII. 6.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^30]: Az 1. § (4) bekezdés 10. pontja a 419/2023. (VIII. 31.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^31]: Az 1. § (4) bekezdés 11. pontja a 683/2020. (XII. 28.) Korm. rendelet 15. § 2. pontja szerint módosított szöveg.
+[^32]: Az 1. § (4) bekezdés 12a. pontját a 683/2020. (XII. 28.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^33]: Az 1. § (4) bekezdés 13. pontja a 419/2023. (VIII. 31.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^34]: Az 1. § (4) bekezdés 14. pontját a 419/2023. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^35]: Az 1. § (4) bekezdés 15. pontját a 419/2023. (VIII. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^36]: Az 1. § (5) bekezdését a 419/2023. (VIII. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
