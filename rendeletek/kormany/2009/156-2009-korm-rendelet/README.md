@@ -57,3 +57,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2023-03-26 | 2009-156-20-22.53 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2023-09-01 | 2009-156-20-22.54 | 393/2023. (VIII. 14.) Korm. rendelet |
 | 2023-12-27 | 2009-156-20-22.56 | 612/2023. (XII. 22.) Korm. rendelet |
+| 2024-01-01 | 2009-156-20-22.55 | 612/2023. (XII. 22.) Korm. rendelet |

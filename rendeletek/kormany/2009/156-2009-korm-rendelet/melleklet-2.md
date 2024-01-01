@@ -64,7 +64,7 @@
 
 | 32 | 9. | Személy- vagy áruszállítás érvényes vezetői engedély nélkül | RSJ | 780 000 | járművezető |
 
-| 33 | 9/A. | A vezetői engedély |  |  | járművezető |
+| 33 | 9/A. | A nem magyar hatóság által kiadott vezetői engedély |  |  | járművezető |
 
 | 34 | a) sérült, de olvasható, illetve nem felel meg az egységes mintának | SJ | 65 000 |
 
@@ -82,7 +82,7 @@
 
 | 41 | 14. | A konténer vagy a cserefelépítmény tömegét tanúsító bizonylat hiánya a fuvarozás során | EJ | 39 000 | fuvarozó, feladó |
 
-| 42 | 15. | A 2. § a)–e), g), h), k) pontjában felsorolt jogszabályokban foglalt előírásokat sértő fuvarozási szolgáltatások megrendelése | SJ | 520 000 | feladó, megbízó |
+| 42 | 15. | A 2. § a)–e), g), h), k) és m) pontjában felsorolt jogszabályokban foglalt előírásokat sértő fuvarozási szolgáltatások megrendelése | SJ | 520 000 | feladó, megbízó |
 
 | 43 | 16. | A tagállami gazdálkodó szervezet elmulasztja a kiküldetési nyilatkozatot benyújtani | NSJ | 390 000 | szállító |
 
@@ -110,4 +110,4 @@
 
 2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^87]
 
-[^87]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^87]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 574/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.

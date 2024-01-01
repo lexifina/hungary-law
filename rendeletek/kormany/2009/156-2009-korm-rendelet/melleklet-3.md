@@ -2,7 +2,7 @@
 
 | 1 | Sorszám | Bírságolással érintett cselekmények, mulasztások | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, NSJ = nagyon súlyos jogsértés, SJ = súlyos jogsértés, EJ = enyhébb jogsértés) | A bírság összege forintban | A bírságolással érintett cselekmény, mulasztás elkövetéséért felelőssé tehető |
 
-| 2 | 1. | Saját számlás közúti áruszállítás, autóbusszal végzett saját számlás személyszállítás végzése az arra jogosító igazolvány nélkül | SJ | 195 000 | szállító járművezető |
+| 2 | 1. | Az autóbusszal végzett saját számlás személyszállítás végzése az arra jogosító igazolvány nélkül | SJ | 195 000 | szállító járművezető |
 
 | 3 | 2. | A saját számlás közúti áruszállítás, autóbusszal végzett saját számlás személyszállítás feltételeinek megtartását igazoló, a járműre vagy a járművezetőre vonatkozó okmány (okmányok) hiánya | SJ | 130 000 | szállító járművezető |
 

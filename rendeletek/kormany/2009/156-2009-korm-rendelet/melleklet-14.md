@@ -6,7 +6,7 @@
 
 | 3 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | RSJ | 260 000 |  |
 
-14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^107]
+14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^110]
 
 |  | A | B | C | D | E | F | G |
 
@@ -28,4 +28,4 @@
 
 | 9 | 8. | A gépjármű esetében a gyártó által felszerelt károsanyag-kibocsátást csökkentő berendezés hiányzik, átalakították, működését befolyásolták, vagy nyilvánvalóan meghibásodott | RSJ | 52 000 | 65 000 | 780 000 | 780 000 |
 
-[^107]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
+[^110]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
