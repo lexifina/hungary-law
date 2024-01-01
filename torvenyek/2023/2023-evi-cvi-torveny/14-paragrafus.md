@@ -1,0 +1,5 @@
+14. § A sportról szóló 2004. évi I. törvény a 11/A. §-át követően a következő alcímmel egészül ki:
+
+## „A hivatásos sportoló és a sportszakember munkaviszonyával összefüggő kötelezettségszegésre vonatkozó közös szabályok
+
+11/B. § A munkaviszonyban álló hivatásos sportoló és a sportszakember munkaviszonyból származó vétkes kötelezettségszegése esetén az Mt. 56. § (2) bekezdése alapján megállapított vagyoni hátrány iránti igény érvényesítése során az Mt. 161. és 285. §-ának szabályait kell alkalmazni azzal, hogy az Mt. 56. § (3) bekezdésében foglaltaktól eltérően a hátrányos jogkövetkezménnyel járó intézkedésre az annak alapjául szolgáló okról való tudomásszerzéstől számított tizenöt napon, legfeljebb azonban az ok bekövetkeztétől számított hat hónapon belül, bűncselekmény elkövetése esetén a büntethetőség elévüléséig kerülhet sor.”

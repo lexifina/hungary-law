@@ -1,0 +1,5 @@
+## „d) a sporttevékenység során annak a sportszervezetnek, sportszövetségnek az érdekeit is figyelembe venni, amellyel igazolt sportolói jogviszonyban áll, valamint amelyik a nemzeti válogatott keretbe meghívta.”
+
+5. § A sportról szóló 2004. évi I. törvény 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A versenyző köteles alávetni magát a doppingtilalom betartásának ellenőrzésére irányuló vizsgálatnak (a továbbiakban: doppingvizsgálat). A doppingvizsgálat eredményeként megállapított pozitív vizsgálati eredményt vagy a doppingvétséget megalapozó egyéb magatartás tanúsítását, valamint a doppingeljárás eredményeként meghozott jogerős doppingbüntetést az eljárás alá vont versenyző vagy sportszakember nevének és sportágának, továbbá a doppingellenes tevékenység szabályairól szóló kormányrendelet szerinti tiltólistában szereplő tiltott szer vagy módszer megjelölésével a doppingeljárás befejezéséről való tudomásszerzéstől számított 3 munkanapon belül a nemzeti doppingellenes szervezet nyilvánosságra hozza.”

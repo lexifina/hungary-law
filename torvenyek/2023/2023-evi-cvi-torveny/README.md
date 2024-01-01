@@ -1,0 +1,7 @@
+# 2023. évi CVI. törvény a sporttal összefüggő törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-106-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2024-01-01 | 2023. évi CVI. törvény | 2023-106-00-00.0 (közlönyállapot) |

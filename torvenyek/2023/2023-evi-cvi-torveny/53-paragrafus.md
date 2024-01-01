@@ -1,0 +1,5 @@
+## 3. Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény módosításáról
+
+53. § Az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény (a továbbiakban: NSÜ tv.) 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az Ügynökség a tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok tulajdonjogának átruházására, továbbá arra vételi jog, elővásárlási jog szerződéssel történő alapítására, annak biztosítékul adására nem jogosult. Az e bekezdés szerinti tevékenységek végzésére a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) jogosult. Az Ügynökség tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlan e bekezdés szerint történő megterhelésére annak hatékony működtetése, állagának védelme, értékének megőrzése, valamint az állami feladatok ellátásának elősegítése érdekében az MNV Zrt. meghatalmazást adhat az Ügynökség részére.”

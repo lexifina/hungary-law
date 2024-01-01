@@ -1,0 +1,5 @@
+8. § A sportról szóló 2004. évi I. törvény 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § (1) Az amatőr sportoló a sportszövetség versenyrendszerében csak akkor vehet részt, ha versenyengedéllyel rendelkezik.
+
+(2) A versenyengedély iránti kérelmet az amatőr sportoló a vele igazolt sportolói jogviszonyban álló sportszervezeten keresztül nyújthatja be a sportszövetséghez.”
