@@ -1,1 +1,1 @@
-265. § Az idegenrendészeti hatóság az e törvény szerinti eljárásai során, az (EU) 2018/1240 európai parlamenti és tanácsi rendelettel összhangban, közvetlen hozzáférés útján jogosult az ETIAS-ban tárolt adatokat lekérdezni.
+### 265. §

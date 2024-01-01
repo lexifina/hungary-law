@@ -6,9 +6,9 @@
 
 250. § E rész alkalmazásában:
 
-a) Európai Határregisztrációs Rendszer: az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti határregisztrációs rendszer;
+a)
 
-b) ETIAS: az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 1. cikk (1) bekezdése szerinti Európai Utasinformációs és Engedélyezési Rendszer;
+b)
 
 c) természetes személyazonosító adatok:
 
@@ -26,7 +26,7 @@ cf) anyja születési családi és utóneve (utónevei);
 
 cg) állampolgárság (állampolgárságok) vagy hontalan státusz;
 
-d) uniós információs rendszerek: az (EU) 2019/817 európai parlamenti és tanácsi rendelet 4. cikk 15. pontja, valamint az (EU) 2019/818 európai parlamenti és tanácsi rendelet 4. cikk 15. pontja szerinti információs rendszerek;
+d)
 
 e) Vízuminformációs Rendszer: a 2004/512/EK tanácsi határozattal létrehozott vízuminformációs rendszer;
 

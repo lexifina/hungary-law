@@ -8,9 +8,9 @@
 
 (2) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve menetrend szerint közlekedő járattal közúton Magyarország területére, illetve területén át más célállamba szállító fuvarozónak a szállítást megelőzően meg kell bizonyosodnia arról, hogy a harmadik országbeli állampolgár rendelkezik-e a beutazáshoz vagy átutazáshoz érvényes úti okmánnyal, illetve kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízummal.
 
-(3) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton szállító fuvarozó köteles elvégezni az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 13. cikk (3) bekezdésében előírt ellenőrzést.
+(3)
 
-(4) A harmadik országbeli állampolgárt szállító légi fuvarozók, tengeri fuvarozók és a szárazföldön távolsági busszal csoportokat szállító nemzetközi fuvarozást végző fuvarozók kötelesek elvégezni az (EU) 2018/1240 európai parlamenti és tanácsi rendelet 45. cikk szerint előírt ellenőrzést.
+(4)
 
 (5) A harmadik országbeli állampolgárt légi vagy vízi úton, illetve közúton vagy vasúton szállító fuvarozó köteles gondoskodni a haladéktalan visszaszállításról abba az országba, ahonnan harmadik országbeli állampolgár utasát hozta, vagy amely köteles őt befogadni, ha
 
