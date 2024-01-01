@@ -1,0 +1,1 @@
+5/B. § Az infrastruktúradíj és a külsőköltségdíj megállapításkor figyelembevételre kerülő díjelemeket, a költségek számításának módszertanát, valamint az egyes gépjármű-kategóriákra történő felosztását az e törvény felhatalmazása alapján kiadott rendelet állapítja meg.

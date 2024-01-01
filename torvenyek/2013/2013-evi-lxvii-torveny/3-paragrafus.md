@@ -17,3 +17,5 @@
 (6) A gépjármű üzemben tartója – a (7) bekezdésben foglaltak kivételével – felel azért, hogy az általa üzemeltetett gépjárművel az e törvényben meghatározott előírások betartásra kerüljenek.
 
 (7) Amennyiben a közúti forgalomban történő ellenőrzés során az úthasználó személye a helyszínen megállapítást nyer, az (1) bekezdésben meghatározott előírások betartásáért az úthasználó felelős.
+
+(8) Az UD rendszer használata nem járhat az útdíjköteles elemi útszakaszokat nem rendszeresen használók számára indokolatlan hátránnyal.

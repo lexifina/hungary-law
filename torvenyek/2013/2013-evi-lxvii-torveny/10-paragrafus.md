@@ -10,4 +10,4 @@ d) a 9. § (1) bekezdés e) és g) pontjában meghatározott járművek esetén 
 
 e) a 9. § (1) bekezdés f) és i) pontban meghatározott járművek esetén a katasztrófavédelmi hatósághoz
 
-tett előzetes bejelentés alapján, a mentességi nyilvántartásba történő bejegyzést követően illeti meg.
+tett előzetes bejelentés alapján, a mentességi nyilvántartásba bejegyzett időponttól illeti meg.
