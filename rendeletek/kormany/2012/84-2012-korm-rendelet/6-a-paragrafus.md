@@ -1,7 +1,7 @@
-## 6/A. §[^45] Az e rendelet szerinti minőségbiztosítás
+## 6/A. §[^46] Az e rendelet szerinti minőségbiztosítás
 
 a) nem minősül a megfelelőségértékelő szervezetek tevékenységéről szóló törvény szerinti megfelelőségértékelési tevékenységnek, valamint
 
 b) nem vált ki jogszabályban előírt, az informatikai rendszerekre vonatkozó tanúsítási kötelezettséget.
 
-[^45]: A 6/A. §-t az 572/2020. (XII. 9.) Korm. rendelet 52. §-a iktatta be.
+[^46]: A 6/A. §-t az 572/2020. (XII. 9.) Korm. rendelet 52. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 5/f.[^66] Jogutódlásra vonatkozó szabályok
+## 5/f.[^68] Jogutódlásra vonatkozó szabályok
 
 7/G. § (1) A (2) bekezdés a)–e) pontjában meghatározott feladatok tekintetében 2024. január 1. napjától az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.) a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) jogutódja a szabályozott és központi elektronikus ügyintézési szolgáltatásokkal kapcsolatos – az infrastruktúra üzemeltetése és fejlesztése kivételével – feladatai és tevékenységei (a továbbiakban: Feladatok) tekintetében.
 
@@ -40,4 +40,4 @@ c) a Feladatokat ellátó munkavállalók feletti munkáltatói jogok gyakorlás
 
 (11) A NISZ Zrt. mint átadó és az IdomSoft Zrt. mint átvevő egymással szerződést kötnek a Feladatok átadásának részletes feltételeiről.
 
-[^66]: Az 5/f. alcímet (7/G-7/H. §-t) az 530/2023. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
+[^68]: Az 5/f. alcímet (7/G-7/H. §-t) az 530/2023. (XII. 1.) Korm. rendelet 5. §-a iktatta be.
