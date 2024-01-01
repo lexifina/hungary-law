@@ -24,11 +24,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2020. december 31.
 
-4. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport 4. Kiemelt társadalmi igényeken alapuló közútfejlesztések jogcímmel történő kiegészítését;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+4.[^1]
 
 5. felhívja a pénzügyminisztert és az innovációért és technológiáért felelős minisztert, hogy gondoskodjanak az 1. pontban felsorolt projektek finanszírozásához a 2021. évre 91 795 875 000 forint forrás biztosításáról a Kvtv. 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 1. Közlekedési fejlesztések jogcímcsoport, 4. Kiemelt társadalmi igényeken alapuló közútfejlesztések jogcím javára;
 
@@ -38,7 +34,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. január 31.
 
-6–8.[^1]
+6–8.[^2]
 
 9. felhívja az innovációért és technológiáért felelős minisztert, hogy az 1. pontban szereplő projektek előrehaladása során folyamatosan vizsgálja felül a szükséges forrásigényeket, és azok változása esetén soron kívül készítsen előterjesztést a Kormány részére a projektek előrehaladásáról és a kivitelezéshez kapcsolódó pénzügyi ütemezés és kötelezettségvállalási összeg felülvizsgálatáról;
 
@@ -52,4 +48,5 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
-[^1]: A 6–8. pontot az 1974/2020. (XII. 22.) Korm. határozat 4. pontja visszavonta.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 6–8. pontot az 1974/2020. (XII. 22.) Korm. határozat 4. pontja visszavonta.
