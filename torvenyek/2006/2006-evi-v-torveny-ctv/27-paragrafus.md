@@ -24,9 +24,9 @@ a) a tagok nevét, természetes személy esetén lakóhelyét, születési idej�
 
 b) a tag tagsági jogviszonya keletkezésének és megszűnésének időpontját,
 
-c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét,
+c) az üzletrészen alapított zálogjog tényét, a zálogjogosult (zálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), zálogjogosulti bizományos esetén e minőségét, a zálogjoggal biztosított követelés összegét vagy azt az összeget, amelynek erejéig a zálogjogosult kielégítést kereshet, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,
 
-d)
+d) az üzletrészt terhelő zálogjog elzálogosításával alapított alzálogjog tényét, az alzálogjogosult (alzálogjogosulti bizományos) nevét (cégnevét), lakóhelyét (székhelyét), cégjegyzékszámát (nyilvántartási számát), alzálogjogosulti bizományos esetén e minőségét, továbbá – kikötése esetén – az üzletrészt terhelő elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat,
 
 e) közös tulajdonú üzletrész esetén a tulajdonosok nevét, természetes személy esetén lakóhelyét, születési idejét, anyja születési nevét, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát,
 

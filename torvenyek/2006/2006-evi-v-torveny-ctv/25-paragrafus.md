@@ -16,7 +16,7 @@ g) a jogelőd, jogelődök, illetve a jogutód, jogutódok cégnevét, székhely
 
 h) a könyvvizsgáló nevét (cégét) és lakóhelyét (székhelyét), e jogviszonya keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját; könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében is felelős,
 
-i) a felügyelőbizottsági tagok nevét és lakóhelyét – ha a felügyelőbizottsági tag munkavállalói küldött, ezt a tényt is –, e jogviszonyuk keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
+i) a felügyelőbizottsági tagok nevét és lakóhelyét – ha a felügyelőbizottsági tag munkavállalói küldött, ezt a tényt is –, jogi személy esetén székhelyét, és cégjegyzékszámát vagy nyilvántartási számát, e jogviszonyuk keletkezésének és megszűnésének időpontját, illetve ha a jogviszony megszűnésére a cégjegyzékben feltüntetett időpontnál korábban kerül sor, a megszűnés tényleges időpontját,
 
 j) annak a kamarának a megjelölését, amelynek a cég a tagja,
 

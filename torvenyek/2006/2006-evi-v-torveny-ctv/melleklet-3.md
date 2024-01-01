@@ -86,11 +86,13 @@
 
 ## e) az üzletrész elzálogosításához kapcsolódóan
 
-## ea) a zálogjog bejegyzése esetén a zálogszerződés egy eredeti példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt bejegyzési engedélye,
+## ea) a zálogjog bejegyzése esetén a zálogszerződés egy példánya vagy annak – legalább a szerződő felek nevét (cégnevét), lakóhelyét (székhelyét), a zálog tárgyának meghatározását, a zálogjog kikötését, a követelés összegét, amelynek biztosítására a zálogjog szolgál, kikötése esetén az elidegenítési és terhelési tilalmat vagy elidegenítési tilalmat, a szerződés megkötésének helyét és időpontját, valamint a felek aláírását tartalmazó – kivonata, továbbá a zálogjogosult által benyújtott bejegyzési kérelem esetén a tag (zálogkötelezett) teljes bizonyító erejű magánokiratba foglalt – szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – bejegyzési engedélye,
 
-## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt törlési engedélye,
+## eb) a tag (zálogkötelezett) által benyújtott törlési kérelem esetén a zálogjogosult teljes bizonyító erejű magánokiratba foglalt– szükség szerint az elidegenítési és terhelési tilalomra, illetve az elidegenítési tilalomra is kiterjedő – törlési engedélye,
 
 ## ec) zálogjogosulti bizományos bejegyzése (törlése) esetén a zálogjogosulti bizományost kijelölő (kijelölést megszüntető) okirat, ha az üzletrészen alapított zálogjog feltüntetésére a zálogjogosulti bizományos bejegyzésével együtt kerül sor, az ea) pont szerinti okiratok is;
+
+## ed) alzálogjog bejegyzése esetén a zálogkötelezett bejegyzési engedélye, vagy az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény 27/E. § (9) bekezdése szerinti jogerős bizonyítvány;
 
 ## 2. a) részvénytársaság alapításával összefüggésben a nem pénzbeli vagyoni hozzájárulás értékéről adott könyvvizsgálói (szakértői) vélemény;
 
