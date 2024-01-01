@@ -10,7 +10,7 @@ c)[^96] a felszín alatti vízbe történő közvetett bevezetése, beleértve a
 
 d) a felszín alatti vízbe történő közvetlen bevezetése
 
-## engedélyköteles tevékenység.
+engedélyköteles tevékenység.
 
 (2)[^97] Amennyiben az (1) bekezdés szerinti tevékenység engedélyezése nem tartozik más hatóság hatáskörébe, akkor a tevékenység engedélyezésére a vízvédelmi hatóság jogosult.
 
@@ -22,7 +22,7 @@ a) a mezőgazdasági, illetve erdőgazdálkodási tevékenység során a termés
 
 b) a magánszemélyek háztartási igényeit meg nem haladó tevékenységek
 
-## esetében.
+esetében.
 
 (5) Az engedélyköteles tevékenység folytatójának az (1) bekezdésben szereplő engedély megszerzése céljából elővizsgálatot kell végeznie. Ennek keretében vízfolyásba történő bevezetés esetén vizsgálni kell a vízfolyás időszakosságát is.
 

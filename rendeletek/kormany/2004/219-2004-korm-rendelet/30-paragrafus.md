@@ -22,7 +22,7 @@ a) a (D) kármentesítés célállapot határértékének elérését követően
 
 b) a tartós környezetkárosodás teljes időtartama alatt
 
-## folytatni kell.
+folytatni kell.
 
 (5)[^206] A (4) bekezdésben foglaltaktól a környezetvédelmi hatóság indokolt esetben eltérhet, különösen, ha a beavatkozás befejezése után az állapot megfigyeléséről más tevékenységhez kapcsolódó monitorozási kötelezettség keretében gondoskodnak.
 

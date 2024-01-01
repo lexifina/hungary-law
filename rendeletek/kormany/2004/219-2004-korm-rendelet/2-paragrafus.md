@@ -1,5 +1,3 @@
-## összefüggő feladatok, jogok és kötelezettségek megállapítása.
-
 2. § (1) A rendelet hatálya – a (2) bekezdésben foglalt kivétellel – kiterjed
 
 a) a felszín alatti vízre, a földtani közegre és a szennyező anyagra;

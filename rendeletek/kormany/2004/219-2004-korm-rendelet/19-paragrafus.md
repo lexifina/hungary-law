@@ -1,5 +1,3 @@
-## 18. §[^122]
-
 ## V.
 
 ## A KIVIZSGÁLÁS
@@ -24,7 +22,7 @@ ba)[^128] ha a szennyezettség mértéke talaj esetén – a bb) pontban foglalt
 
 bb) termőföld talajában legalább öt mintában
 
-## a szennyező anyag koncentrációja meghaladja a (B) szennyezettségi határértéket.
+a szennyező anyag koncentrációja meghaladja a (B) szennyezettségi határértéket.
 
 (7)[^129] A vízvédelmi hatóság a tevékenységre vonatkozó követelmények, továbbá annak a földtani közegre, felszín alatti vízre gyakorolt hatásának ellenőrzése céljából mérést, vizsgálatot végezhet, vagy az engedélyessel végeztethet.
 
@@ -56,7 +54,6 @@ b)[^141]
 
 (15)[^142] A vízvédelmi hatóság a (9) bekezdés b)–d) pontjai és a (11) bekezdés szerinti határozatát közli a közegészségügyi hatósággal, az eljárásban résztvevő más érdekelt hatósággal, önkormányzattal, továbbá a terület tulajdonosával is.
 
-[^122]: A 18. §-t a 310/2014. (XII. 11.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^123]: A 19. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított szöveg.
 [^124]: A 19. § (2) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 26. § (6) bekezdésével megállapított, a 195/2017. (VII. 10.) Korm. rendelet 4. § a) pontja, a 457/2017. (XII. 28.) Korm. rendelet 132. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^125]: A 19. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 51. §-ával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

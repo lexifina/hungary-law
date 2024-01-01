@@ -86,19 +86,19 @@
 
 ## 11. Az oxigénháztartásra kedvezőtlen hatással levő anyagok (amelyek olyan paraméterekkel mérhetők, mint a BOI és KOI).
 
-2. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^294]
+2. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^296]
 
-## Felszín alatti víz állapota szempontjából érzékeny területek besorolása
+Felszín alatti víz állapota szempontjából érzékeny területek besorolása
 
 A vizsgálatok során az adott érzékenységi kategóriába tartozás szempontjai a következők:
 
 1. Felszín alatti víz állapota szempontjából fokozottan érzékeny terület
 
-a)[^295] Üzemelő és távlati ivóvízbázisok, ásvány- és gyógyvízhasznosítást szolgáló vízkivételek – külön jogszabály szerint – kijelölt, illetve előzetesen lehatárolt belső-, külső- és végleges vízjogi határozattal kijelölt hidrogeológiai védőterületei.
+a)[^297] Üzemelő és távlati ivóvízbázisok, ásvány- és gyógyvízhasznosítást szolgáló vízkivételek – külön jogszabály szerint – kijelölt, illetve előzetesen lehatárolt belső-, külső- és végleges vízjogi határozattal kijelölt hidrogeológiai védőterületei.
 
 b) Azok a karsztos területek, ahol a felszínen, vagy 10 m-en belül a felszín alatt mészkő, dolomit, mész- és dolomitmárga képződmények találhatók.
 
-c) A vízgazdálkodásról szóló 1995. évi LVII. törvény szerint állami tulajdonban lévő felszíni állóvizek mederéltől számított 0,25 km széles parti sávja, külön jogszabály szerint[^296] regisztrált természetes fürdőhely esetében a mederéltől számított 0,25–1,0 km közötti övezete is.
+c) A vízgazdálkodásról szóló 1995. évi LVII. törvény szerint állami tulajdonban lévő felszíni állóvizek mederéltől számított 0,25 km széles parti sávja, külön jogszabály szerint[^298] regisztrált természetes fürdőhely esetében a mederéltől számított 0,25–1,0 km közötti övezete is.
 
 d) A Nemzetközi Jelentőségű Vadvizek jegyzékébe felvett területek, továbbá a külön jogszabály szerinti Natura 2000 vizes élőhelyei.
 
@@ -118,6 +118,6 @@ e) Az 1. d) pontban nem említett, külön jogszabály által kijelölt védett 
 
 Egyéb, az 1–2. pontokba nem tartozó területek.
 
-[^294]: A 2. számú melléklet e rendelet 41. § (2) bekezdésének a) pontja alapján 2005. január 1. napján lépett hatályba.
-[^295]: A 2. számú melléklet 1. pont a) alpontja a 457/2017. (XII. 28.) Korm. rendelet 132. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^296]: A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről 273/2001. (XII. 21.) Korm. rendelet.
+[^296]: A 2. számú melléklet e rendelet 41. § (2) bekezdésének a) pontja alapján 2005. január 1. napján lépett hatályba.
+[^297]: A 2. számú melléklet 1. pont a) alpontja a 457/2017. (XII. 28.) Korm. rendelet 132. § g) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^298]: A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről 273/2001. (XII. 21.) Korm. rendelet.

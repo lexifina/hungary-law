@@ -1,6 +1,6 @@
-6. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^312]
+6. számú melléklet a 219/2004. (VII. 21.) Korm. rendelethez[^314]
 
-## A felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, illetve károsodásának megállapításai
+A felszín alatti víz, a földtani közeg veszélyeztetésének, szennyezettségének, illetve károsodásának megállapításai
 
 A kivizsgálás során vizsgálni és rögzíteni kell:
 
@@ -32,4 +32,4 @@ bb) szennyezettség, károsodás látható jeleire és becsült mértékére von
 
 10. A felelősségi kör meghatározását a kármentesítés kötelezettjére is kiterjedően, illetve a tényfeltárás során ennek meghatározásakor figyelmet igénylő körülményeket.
 
-[^312]: A 6. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 131. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^314]: A 6. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 131. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

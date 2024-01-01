@@ -1,4 +1,4 @@
-48. §[^291] (1) Ez a rendelet
+48. §[^293] (1) Ez a rendelet
 
 a) a környezetre vonatkozó egyes irányelvek végrehajtásáról szóló jelentések egységesítéséről és ésszerűsítéséről szóló, 1991. december 23-i 91/692/EGK tanácsi irányelv 2. cikk (1) bekezdésének, valamint I. melléklet f) pontjának;
 
@@ -12,9 +12,9 @@ e) a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi ir�
 
 f) az ipari kibocsátásokról (a környezetszennyezés integrált megelőzése és csökkentése) című, 2010. november 24-i 2010/75/EU európai parlamenti és tanácsi irányelvnek;
 
-g)[^292] a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006/118/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2014. június 20-i 2014/80/EU bizottsági irányelvnek
+g)[^294] a felszín alatti vizek szennyezés és állapotromlás elleni védelméről szóló 2006/118/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról szóló, 2014. június 20-i 2014/80/EU bizottsági irányelvnek
 
-## való megfelelést szolgálja.
+való megfelelést szolgálja.
 
 (2) Ez a rendelet
 
@@ -24,5 +24,5 @@ b) az Európai Szennyezőanyag-kibocsátási és -szállítási Nyilvántartás 
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^291]: A 48. § a 480/2013. (XII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^292]: A 48. § (1) bekezdés g) pontját a 248/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.
+[^293]: A 48. § a 480/2013. (XII. 17.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^294]: A 48. § (1) bekezdés g) pontját a 248/2015. (IX. 8.) Korm. rendelet 1. §-a iktatta be.

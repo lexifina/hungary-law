@@ -13,3 +13,5 @@ b) szennyezésének fokozatos csökkentésével és megelőzésével,
 c) hasznosítható készleteinek hosszú távú védelmére alapozott fenntartható vízhasználattal,
 
 d) a földtani közeg kármentesítésével
+
+összefüggő feladatok, jogok és kötelezettségek megállapítása.
