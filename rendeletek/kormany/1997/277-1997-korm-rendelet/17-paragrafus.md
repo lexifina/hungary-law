@@ -1,4 +1,4 @@
-17. §[^108] (1) A finanszírozási alprogramban kell megtervezni
+17. §[^109] (1) A finanszírozási alprogramban kell megtervezni
 
 a) a távollevő helyettesítéséhez szükséges költségeket,
 
@@ -14,7 +14,7 @@ c) a továbbképzésben való részvétel díja és költsége (utazás, száll�
 
 a) az ehhez szükséges fedezetet a fenntartó többlet-költségvetési támogatás nélkül biztosítani tudja,
 
-b)[^109] az ehhez szükséges fedezetet – a tankerületi központ által fenntartott intézmény kivételével – a köznevelési intézmény saját forrásaiból biztosítani tudja,
+b)[^110] az ehhez szükséges fedezetet – a tankerületi központ által fenntartott intézmény kivételével – a köznevelési intézmény saját forrásaiból biztosítani tudja,
 
 c) a szükséges fedezetet pályázati úton biztosítják, vagy
 
@@ -34,5 +34,5 @@ d) a pedagógus a munkáltató által meghatározott munkakörhöz kapcsolódó 
 
 (11) A tanulmányi szerződés alapján nyújtott juttatásokra a tanulmányi szerződésben foglaltakat kell alkalmazni.
 
-[^108]: A 17. § a 346/2013. (IX. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^109]: A 17. § (4) bekezdés b) pontja a 486/2016. (XII. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^109]: A 17. § a 346/2013. (IX. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^110]: A 17. § (4) bekezdés b) pontja a 486/2016. (XII. 28.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.

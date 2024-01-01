@@ -1,8 +1,8 @@
-5. §[^16] (1) A hétévenkénti továbbképzés – egy vagy több továbbképzés keretében – legalább százhúsz tanórai foglalkozáson való részvétellel és az előírt tanulmányi követelmények teljesítésével valósul meg. E rendelkezések alkalmazásában a tanórai foglalkozások időtartama negyvenöt perc.
+5. §[^17] (1) A hétévenkénti továbbképzés – egy vagy több továbbképzés keretében – legalább százhúsz tanórai foglalkozáson való részvétellel és az előírt tanulmányi követelmények teljesítésével valósul meg. E rendelkezések alkalmazásában a tanórai foglalkozások időtartama negyvenöt perc.
 
 (2) A hétévenkénti továbbképzés – az (1) bekezdésben meghatározottakon kívül – teljesíthető
 
-a)[^17] a következő, bármelyik további szakképzettség vagy szakképesítés körébe tartozó,
+a)[^18] a következő, bármelyik további szakképzettség vagy szakképesítés körébe tartozó,
 
 aa) a pedagógus-szakvizsga vagy azzal egyenértékű vizsga letételét igazoló oklevél,
 
@@ -10,9 +10,9 @@ ab) a munkakör betöltésére jogosító felsőfokú iskolai végzettségnek é
 
 ac) a munkakör betöltésére jogosító felsőfokú iskolai végzettség és szakképzettség megléte esetén további, a pedagógus-munkakör, a nevelő és oktató munkát közvetlenül segítő munkakör, a vezetői feladatok ellátásához szükséges, felsőfokú végzettségi szintet igazoló oklevél vagy szakirányú továbbképzésben szerzett oklevél, tanítói szakképzettség megléte esetén további, a képzési és kimeneti követelmények szerinti műveltségi terület követelményeinek teljesítését igazoló oklevél,
 
-ad)[^18]
+ad)[^19]
 
-ae)[^19] a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet (a továbbiakban: Ép. r.) 33/B–33/O. §-ában és 6. mellékletében meghatározott végzettség és szakképzettség
+ae)[^20] a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.)Korm. rendelet (a továbbiakban: Púétv. vhr.) 8–22. §-ában és 2. mellékletében meghatározott végzettség és szakképzettség
 
 af) a pedagógus szakmai felkészültségét, képességeit, készségeit fejlesztő vagy új pedagógus szakképzettség megszerzését megalapozó, a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: nemzeti felsőoktatásról szóló törvény) 42. § (2) bekezdése szerinti részismeret megszerzésére irányuló, legalább harminc kreditpontot eredményező képzés elvégzését igazoló okirat,
 
@@ -24,7 +24,7 @@ ai) az idegennyelv-tudást igazoló államilag elismert nyelvvizsgáztatásról 
 
 aj) a kultúráért felelős miniszter által akkreditált továbbképzés elvégzését igazoló okirat, valamint a felsőoktatási intézmény által folytatott, kulturális területre vonatkozó képzések, szakirányú továbbképzések elvégzését igazoló oklevél és
 
-ak)[^20]
+ak)[^21]
 
 megszerzésével;
 
@@ -32,7 +32,7 @@ b) a következő, bármelyik továbbképzésen
 
 ba) két tanítási nyelvű iskolai oktatásban célnyelven tanító pedagógus a célnyelv szerinti országban, idegen nyelvet oktató pedagógus a nyelv szerinti országban, nyelvi felkészítésben,
 
-bb)[^21] nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben-oktatásban részt vevő pedagógus a nemzetiség nyelve szerinti országban, továbbá a nemzetiségek nyelvén oktató, kultúrájukat ápoló külföldi intézményekben nyelvi felkészítésben, valamint népismeret, országismeret oktatásával összefüggő továbbképzésben,
+bb)[^22] nemzetiségi óvodai nevelésben, iskolai nevelésben-oktatásban, kollégiumi nevelésben-oktatásban részt vevő pedagógus a nemzetiség nyelve szerinti országban, továbbá a nemzetiségek nyelvén oktató, kultúrájukat ápoló külföldi intézményekben nyelvi felkészítésben, valamint népismeret, országismeret oktatásával összefüggő továbbképzésben,
 
 bc) héber nyelven nevelő, tanító pedagógus Izraelben nyelvi felkészítésben, illetve népismeret, országismeret oktatásával összefüggő továbbképzésben,
 
@@ -40,11 +40,11 @@ bd) az Európa Tanács Pestalozzi programjában, az Európa Tanács Élő Nyelve
 
 való részvétellel;
 
-c)[^22]
+c)[^23]
 
 (3) Az (1) bekezdésben foglalt hétévenkénti továbbképzés legfeljebb huszonöt százaléka teljesíthető az e bekezdésben foglaltak útján együttesen:
 
-a)[^23] köznevelési kutatást támogató ösztöndíjas programban való részvétellel,
+a)[^24] köznevelési kutatást támogató ösztöndíjas programban való részvétellel,
 
 b) gyakornoki felkészítésben szakmai segítőként való részvétellel,
 
@@ -52,7 +52,7 @@ c) nem szervezett, a szakmai felkészültség gyarapítását, képesség fejles
 
 d) harminc foglalkozási óránál rövidebb, nem akkreditált képzésben való részvétellel, amennyiben a képzési idő legalább az öt órát eléri,
 
-e)[^24] a köznevelési intézmény felkérésére szervezett szaktanácsadói tevékenység keretében az érintett nevelőtestület, illetve pedagógusközösség számára nyújtott szaktanácsadáson történő részvétellel, feltéve, hogy az elemző értékelő tevékenység az érintett pedagógusok részvételével történik.
+e)[^25] a köznevelési intézmény felkérésére szervezett szaktanácsadói tevékenység keretében az érintett nevelőtestület, illetve pedagógusközösség számára nyújtott szaktanácsadáson történő részvétellel, feltéve, hogy az elemző értékelő tevékenység az érintett pedagógusok részvételével történik.
 
 (4) A (2) bekezdés b) pontjában felsoroltakon való részvétellel akkor lehet teljesíteni a továbbképzés követelményeit, ha a munkáltató az elvégzést tanúsító okirat vagy a képzési program és a résztvevő írásbeli beszámolója alapján a továbbképzést elfogadja, feltéve, ha annak ideje legalább öt hét. Ha a továbbképzés ideje nem éri el az öt hetet, a részvételi időt naponként hat tanórai foglalkozásként kell beszámítani a hétévenkénti továbbképzés teljesítésébe.
 
@@ -64,15 +64,15 @@ e)[^24] a köznevelési intézmény felkérésére szervezett szaktanácsadói t
 
 (8) Szakmai megújító képzésnek minősülnek – az ag) és ah) pont kivételével – a (2) bekezdésben és a (3) bekezdés a) pontjában felsoroltak. Szakmai megújító képzés lehet a munkakör ellátásához szükséges iskolai végzettséghez és szakképzettséghez kapcsolódó legalább hatvan órás felkészítést biztosító minden olyan képzés, amelyet pedagógusképzést folytató felsőoktatási intézmény szervez, vagy a pedagógusképzést folytató felsőoktatási intézménnyel kötött megállapodás alapján szervezik, és biztosítja a 4. § (3) bekezdésben meghatározottak megvalósítását. A pedagógus teljesítményértékelés alapján a munkáltató az e bekezdésben meghatározottakon kívül más továbbképzést is elfogadhat szakmai megújító képzésnek.
 
-(9)[^25] Vezetőképzés a pedagógus-szakvizsgára történő felkészítés, pedagógus-szakvizsga megléte esetén másik olyan pedagógus-szakvizsgára történő felkészítés, amelynek során intézményvezetői szakképzettséget lehet szerezni. Vezetőképzés lehet a felsőoktatás keretében folyó, a jogi, a közgazdasági, a pénzügyi szakképzettség megszerzésére irányuló felkészítő képzés, valamint a legalább hatvan órás felkészítést biztosító minden olyan képzés, amely biztosítja a köznevelési intézmények vezetéséhez szükséges tanügy-igazgatási, korszerű pedagógiai szervezési, korszerű pedagógiai taneszköz alkalmazási ismeretek elsajátítását.
+(9)[^26] Vezetőképzés a pedagógus-szakvizsgára történő felkészítés, pedagógus-szakvizsga megléte esetén másik olyan pedagógus-szakvizsgára történő felkészítés, amelynek során intézményvezetői szakképzettséget lehet szerezni. Vezetőképzés lehet a felsőoktatás keretében folyó, a jogi, a közgazdasági, a pénzügyi szakképzettség megszerzésére irányuló felkészítő képzés, valamint a legalább hatvan órás felkészítést biztosító minden olyan képzés, amely biztosítja a köznevelési intézmények vezetéséhez szükséges tanügy-igazgatási, korszerű pedagógiai szervezési, korszerű pedagógiai taneszköz alkalmazási ismeretek elsajátítását.
 
-[^16]: Az 5. § a 93/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^17]: Az 5. § (2) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^18]: Az 5. § (2) bekezdés a) pont ad) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 1. pontja hatályon kívül helyezte.
-[^19]: Az 5. § (2) bekezdés a) pont ae) alpontja a 402/2023. (VIII. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^20]: Az 5. § (2) bekezdés a) pont ak) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 2. pontja hatályon kívül helyezte.
-[^21]: Az 5. § (2) bekezdés b) pont bb) alpontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 4., 5. és 6. pontja szerint módosított szöveg.
-[^22]: Az 5. § (2) bekezdés c) pontját a 402/2023. (VIII. 30.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^23]: Az 5. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
-[^24]: Az 5. § (3) bekezdés e) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
-[^25]: Az 5. § (9) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^17]: Az 5. § a 93/2009. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: Az 5. § (2) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^19]: Az 5. § (2) bekezdés a) pont ad) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 1. pontja hatályon kívül helyezte.
+[^20]: Az 5. § (2) bekezdés a) pont ae) alpontja a 403/2023. (VIII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 5. § (2) bekezdés a) pont ak) alpontját a 13/2020. (II. 7.) Korm. rendelet 11. § 2. pontja hatályon kívül helyezte.
+[^22]: Az 5. § (2) bekezdés b) pont bb) alpontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 4., 5. és 6. pontja szerint módosított szöveg.
+[^23]: Az 5. § (2) bekezdés c) pontját a 402/2023. (VIII. 30.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^24]: Az 5. § (3) bekezdés a) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^25]: Az 5. § (3) bekezdés e) pontja a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.
+[^26]: Az 5. § (9) bekezdése a 346/2013. (IX. 30.) Korm. rendelet 17. § 1. pontja szerint módosított szöveg.

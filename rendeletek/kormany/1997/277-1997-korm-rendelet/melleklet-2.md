@@ -1,3 +1,3 @@
-2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^147]
+2. számú melléklet a 277/1997. (XII. 22.) Korm. rendelethez[^148]
 
-[^147]: A 2. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^148]: A 2. számú melléklet a 3/2010. (I. 14.) Korm. rendelet 10. §-ával megállapított szöveg.
