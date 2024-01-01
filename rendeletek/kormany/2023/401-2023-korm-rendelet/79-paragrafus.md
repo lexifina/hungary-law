@@ -1,0 +1,1 @@
+79. § A szakértői, továbbá a hivatal által szervezett szaktanácsadói feladatokban részt vevő szaktanácsadói feladatokat ellátó pedagógus bizonylattal igazolt, jogszerűen felmerült költségeinek megtérítésére tarthat igényt.

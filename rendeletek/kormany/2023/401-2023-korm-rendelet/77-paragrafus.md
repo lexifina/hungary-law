@@ -1,0 +1,3 @@
+77. § (1) A minősítő vizsgán, a minősítési, pályázati, megújítási eljárásban részt vett pedagógus a minősítő, bíráló bizottság tevékenységét a portfólióvédést, a pályázat védését, Kutatóprogram bírálatát követő tizenöt napon belül értékelheti az informatikai rendszerben elérhető értékelési lap felhasználásával. A hivatal az értékelést negyedévente, azonosításra alkalmatlan módon továbbítja a minősítő, bíráló bizottság elnöke és tagjai számára.
+
+(2) A hivatal a minősítési évet követő év április 30-ig jelentést készít a miniszter részére a minősítő vizsgák és a minősítési eljárások tapasztalatairól, egyúttal javaslatot tehet a pedagógusértékelési eszközök módosítására.

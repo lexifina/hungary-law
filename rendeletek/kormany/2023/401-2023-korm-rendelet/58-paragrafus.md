@@ -1,0 +1,1 @@
+58. § A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy helyi minősítési szabályzat alapján lebonyolított minősítő vizsgáján az igazgató látja el a minősítési követelményeknek való megfelelés megállapításával kapcsolatos feladatokat.

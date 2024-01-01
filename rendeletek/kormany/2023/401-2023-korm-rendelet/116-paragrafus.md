@@ -1,0 +1,1 @@
+116. § A fegyelmi jogkör gyakorlója a fegyelmi eljárás törvény erejénél fogva történt megszűnéséről haladéktalanul értesíti a köznevelési foglalkoztatotti jogviszonyban állót, képviselőjét, a vizsgálóbiztost, a fegyelmi tanácsot, valamint – ha a fegyelmi eljárás a Kar kezdeményezésére indult – a Kart.

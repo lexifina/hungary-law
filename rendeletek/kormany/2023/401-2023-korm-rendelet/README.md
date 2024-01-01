@@ -1,0 +1,9 @@
+# 401/2023. (VIII. 30.) Korm. rendelet
+
+a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-401-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-01-01 | 2023-401-20-22.1 | 401/2023. (VIII. 30.) Korm. rendelet |

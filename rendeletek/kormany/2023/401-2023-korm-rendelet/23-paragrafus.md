@@ -1,0 +1,1 @@
+23. § Ha a nevelési-oktatási intézményt a honvédelemért felelős miniszter alapítja vagy tartja fenn, kollégiumi nevelőtanári munkakörbe felsőfokú végzettséggel és katonai szakképzettséggel rendelkező személy is kinevezhető.

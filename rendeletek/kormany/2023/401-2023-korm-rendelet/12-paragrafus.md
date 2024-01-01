@@ -1,0 +1,5 @@
+12. § (1) A miniszter kérelemre igazolást állít ki arról, hogy a kérelmező a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, és ezért mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés a miniszter által kiállított igazolásban megjelölt időtartamra, összesen legfeljebb öt tanévre szól.
+
+(2) Az (1) bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni az Nkt. 4. § 21. pontjában az óraszámra vonatkozóan meghatározott korlátozást.
+
+(3) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet igazolást állít ki arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.

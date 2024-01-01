@@ -1,0 +1,1 @@
+34. § Az igazgató a rendes munkaidő terhére köteles lehetővé tenni a pedagógus részvételét a minősítő vizsga, a minősítési, pályázati vagy megújítási eljárás pedagógus személyes részvételét igénylő eseményén, valamint a hospitáláson.

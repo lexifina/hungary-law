@@ -1,0 +1,65 @@
+9. § (1) Nevelési-oktatási intézményben egyéb foglalkozást – a 24. § (4) bekezdésében és a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 61. § (3) bekezdésében foglaltak kivételével – pedagógus-munkakörben foglalkoztatott alkalmazott tarthat.
+
+(2) Az általános iskolában a tizenhat óráig tartó délutáni foglalkozások közötti szünetek, valamint az étkezések időtartama alatt a tanulók felügyeletét köznevelési foglalkoztatotti jogviszonyban álló nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy is elláthatja.
+
+(3) Középiskolában a művészetek tanulási terület tantárgyait alapfokozattal és a tantárgynak megfelelő tanári szakképzettséggel rendelkező pedagógus is taníthatja.
+
+(4) Az óvodapedagógus-munkakör betölthető konduktor-óvodapedagógusi, a tanítói munkakör pedig felsőfokú végzettséggel párosuló konduktor-tanítói szakképzettséggel is. Egyéb foglalkozás tartására alkalmazható az is, aki konduktor-tanítói végzettséggel és szakképzettséggel rendelkezik.
+
+(5) Ha az óvoda reggel 8.00 óra előtt vagy a délutáni időszakban nem fejlesztő, iskola-előkészítő vagy más, kifejezetten nevelési jellegű foglalkozást szervez, ezen időszakokban a gyermekek felügyeletét nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy is elláthatja.
+
+(6) Idegen nyelv, nemzetiségi nyelv oktatására – minden iskolatípus bármely évfolyamán – alkalmazható az is, aki alapfokozattal és nyelvtanári vagy idegen nyelv- és irodalom szakos tanári szakképzettséggel rendelkezik.
+
+(7) Az iskolai nevelés-oktatás ötödik–nyolcadik évfolyamán az etika tantárgy tanítására alkalmazható az is, aki az iskolai nevelés oktatás ötödik–nyolcadik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább hatvanórás pedagógus továbbképzés vagy szakirányú továbbképzés keretében elsajátította az etika oktatásához szükséges elméleti és módszertani ismereteket.
+
+(8) Iskolai, kollégiumi könyvtárostanárnak vagy könyvtárostanítónak alkalmazható az is, aki a 2. mellékletben foglaltak szerint az iskolában, kollégiumban pedagógus-munkakör betöltésére jogosító tanítói vagy tanári végzettséggel és szakképzettséggel, továbbá iskolarendszeren kívüli oktatásban szerzett emelt szintű könyvtárosi szakképesítéssel rendelkezik.
+
+(9) A természettudomány tantárgyat az iskolai nevelés-oktatás ötödik, hatodik és tizenegyedik évfolyamán az is taníthatja, aki az adott iskolaszakaszban biológiatanár, fizikatanár, földrajztanár, kémiatanár, környezettan szakos tanár, természetismeret-tanár pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik.
+
+(10) Az iskolai nevelés-oktatás hetedik, nyolcadik évfolyamán a biológia, a fizika és a kémia tantárgyak összevonásával megvalósított integrált természettudomány tantárgyat az is taníthatja, aki az adott iskolaszakaszban biológiatanár, fizikatanár vagy kémiatanár pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik.
+
+(11) Szakgimnáziumban a komplex természettudomány tantárgyat taníthatja – témakörök szerint – az is, aki az adott iskolaszakaszban biológiatanár, fizikatanár, földrajztanár, kémiatanár pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik.
+
+(12) A fenntarthatóság tantárgyat az is taníthatja
+
+a) az iskolai nevelés-oktatás kilencedik és tizedik évfolyamán, aki pedagógus-munkakör betöltésére jogosító szakképzettséggel rendelkezik, továbbá szakirányú továbbképzés vagy legalább hatvanórás pedagógus-továbbképzés keretében elsajátította a tantárgy oktatásához szükséges elméleti és módszertani ismereteket,
+
+b) az iskolai nevelés-oktatás tizenegyedik és tizenkettedik évfolyamán, aki matematikatanár, történelemtanár, környezettan szakos tanár, a természettudomány és földrajz tanulási terület tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik.
+
+(13) Az állampolgári ismeretek tantárgyat taníthatja, aki
+
+a) történelemtanár vagy
+
+b) az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, és szakirányú továbbképzés vagy legalább hatvanórás pedagógus-továbbképzés keretében elsajátította az állampolgári ismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
+
+(14) A közigazgatási ismeretek tantárgyat taníthatja, aki az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel és
+
+a) közigazgatási vagy jogi szakvizsgával rendelkezik, vagy
+
+b) legalább hatvanórás pedagógus-továbbképzés vagy szakirányú továbbképzés keretében elsajátította a tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
+
+(15) A belügyi rendészeti ismeretek tantárgyat taníthatja, aki
+
+a) magyar nyelv és irodalom szakos tanár, történelemtanár vagy földrajztanár, ha legalább hatvanórás pedagógus-továbbképzés keretében elsajátította a belügyi rendészeti ismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket,
+
+b) az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel és rendészeti szakvizsgával rendelkezik, vagy
+
+c) bármely rendvédelmi jellegű, tiszti beosztás betöltésére jogosító szakirányú szakmai szakképzettséggel rendelkezik.
+
+(16) A honvédelmi alapismeretek tantárgyat az is taníthatja, aki az iskolai nevelés-oktatás kilencedik–tizenkettedik évfolyamán pedagógus-munkakör betöltésére jogosító végzettséggel és szakképzettséggel rendelkezik, továbbá legalább százhúsz órás pedagógus-továbbképzés vagy szakirányú továbbképzés keretében elsajátította a honvédelmi alapismeretek tantárgy vagy a katonai alapismeretek tantárgy oktatásához szükséges elméleti és módszertani ismereteket.
+
+(17) A honvédelmi nevelés-oktatás keretében egyéb foglalkozás tartására és a honvédelem tantárgy tanítására pedagógus munkakörben az alkalmazható, aki
+
+a) legalább érettségivel és katonai szakképzettséggel,
+
+b) honvéd altiszt, vagy azzal egyenértékű képzéssel, vagy
+
+c) katonai alapkiképzéssel és legalább három év katonai szolgálati viszonnyal
+
+rendelkezik.
+
+(18) A (17) bekezdés b) pontjának alkalmazása során a honvéd altiszt képzéssel egyenértékű képzésnek kell tekinteni
+
+a) a tiszthelyettes képzést, valamint
+
+b) a Magyar Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt képzést.

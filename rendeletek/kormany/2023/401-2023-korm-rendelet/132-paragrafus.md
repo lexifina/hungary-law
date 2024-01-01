@@ -1,0 +1,1 @@
+132. § Ha az iskola megfelelő végzettségű és szakképzettségű pedagógussal nem tudja megszervezni a mindennapos testnevelést, akkor a testnevelés tantárgy tanítására határozott időre, legfeljebb a 2026/2027. tanév kezdetéig alkalmazható az a személy, aki testnevelő-edzői szakképzettséggel vagy felsőfokú végzettséggel és sportoktatói vagy sportedzői szakképesítéssel rendelkezik.

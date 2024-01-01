@@ -1,0 +1,1 @@
+27. § A szervezeti és szakmai tekintetben önálló intézményegységben vezetői megbízást az kaphat, aki megfelel az azonos feladatot ellátó önálló intézményben igazgatói megbízáshoz szükséges feltételeknek.

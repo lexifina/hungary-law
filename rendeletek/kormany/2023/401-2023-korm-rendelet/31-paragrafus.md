@@ -1,0 +1,1 @@
+31. § A Kutatótanárt a kötött munkaidőnek neveléssel-oktatással le nem kötött részéből heti két óra munkaidő-kedvezmény illeti meg a Kutatóprogramjában foglaltak, valamint az együttműködési megállapodásban vállaltak teljesítése érdekében végzett tevékenység céljára.

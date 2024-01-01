@@ -1,0 +1,1 @@
+61. § A Mesterpedagógus pályázat bemutatása és védése alkalmával a pedagógus a pályázatban szereplő dokumentumok alapján a minősítő bizottságnak bemutatja a szakmai életútját, annak elemzését, bemutató portfólióját, Mesterprogramját, valamint reflektál a minősítő bizottság 47. § (4) bekezdés e) pontja foglaltak szerint feltett kérdéseire.

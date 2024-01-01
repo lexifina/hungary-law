@@ -1,0 +1,3 @@
+122. § (1) Leltározásnál a köznevelési foglalkoztatotti jogviszonyban álló vagy akadályoztatása esetén képviselője, csoportos leltárfelelősségnél az eljárási szabályokban meghatározott köznevelési foglalkoztatotti jogviszonyban állók jelenlétét lehetővé kell tenni. A munkáltató, ha a köznevelési foglalkoztatotti jogviszonyban álló képviseletéről nem gondoskodik, az adott szakmában jártas, vele érdekellentétben nem álló képviselőt jelöl ki.
+
+(2) A köznevelési foglalkoztatotti jogviszonyban állóval a leltárelszámolást és annak eredményét ismertetni kell. A köznevelési foglalkoztatotti jogviszonyban álló az eljárás során észrevételt tehet, a köznevelési foglalkoztatotti jogviszonyban állót – kivéve, ha szabályszerű értesítés ellenére nem jelent meg – meg kell hallgatni.

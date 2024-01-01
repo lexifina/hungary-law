@@ -1,0 +1,7 @@
+123. § (1) A leltári készletet állandóan egyedül kezelő köznevelési foglalkoztatotti jogviszonyban álló – a leltárfelelősségi megállapodás eltérő rendelkezése hiányában – a leltárhiány teljes összegéért felel.
+
+(2) A köznevelési foglalkoztatotti jogviszonyban álló legfeljebb hathavi távolléti díja mértékéig felel, ha a leltári készletet a leltárhiányért nem felelős köznevelési foglalkoztatotti jogviszonyban álló vagy munkavállaló is kezeli.
+
+(3) Csoportos leltárfelelősségi megállapodás esetén a kártérítés mértéke nem haladhatja meg a megállapodást kötött köznevelési foglalkoztatotti jogviszonyban állók távolléti díjának hathavi együttes összegét. A csoportos leltárfelelősségi megállapodás meghatározhatja a felelősség köznevelési foglalkoztatotti jogviszonyban állók és munkavállalók közötti megosztását is, de egyetemleges felelősség megállapításának nincs helye. A köznevelési foglalkoztatotti jogviszonyban állók és munkavállalók távolléti díjuk arányában felelnek, ha a csoportos leltárfelelősségi megállapodás a felelősség megosztását nem rendezi.
+
+(4) A felelősség vagy a kártérítés mértékének megállapításánál figyelembe kell venni az eset összes körülményeit, így különösen azokat, amelyek a köznevelési foglalkoztatotti jogviszonyban álló felelősségére kihatnak, vagy amelyek a biztonságos és előírásszerű kezelést befolyásolhatták, ezen belül a biztonságos őrzésre vonatkozó munkáltatói kötelezettségek teljesítését, továbbá a köznevelési foglalkoztatotti jogviszonyban álló esetleges távollétének tartamát.
