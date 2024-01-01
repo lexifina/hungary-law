@@ -22,9 +22,10 @@ f) amely esetében a finanszírozási eljárásrend bevezetésével az ellátás
 
 a) a munkatervben nem szereplő finanszírozási eljárásrend elkészítését kezdeményezheti,
 
-b) különösen fontos ellátási érdekből az (1) és (2) bekezdés alapján megállapított munkatervet módosíthatja.
+(6)[^6] Ha a NEAK-hoz olyan gyógyszer befogadási kérelem érkezik, amely finanszírozási eljárásrend módosítását teszi szükségessé, a NEAK a kérelem Egészségügyi Technológia-értékelő Bizottság által történő megtárgyalását követően, támogathatóság esetén a módosítást előkészíti, és a 3. és 4. §-ban foglalt eljárásrend alapján, majd a szakmai egyeztetést követően felterjeszti a miniszternek.
 
 [^2]: A 2. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (3) bekezdését az 54/2016. (XII. 30.) EMMI rendelet 64. § (7) bekezdés a) pontja hatályon kívül helyezte.
 [^4]: A 2. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (2) bekezdésével megállapított szöveg.
 [^5]: A 2. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 64. § (2) bekezdésével megállapított szöveg.
+[^6]: A 2. § (6) bekezdését az 50/2023. (XII. 12.) BM rendelet 8. §-a iktatta be.

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-13-20-0
 | 2013-03-06 | 2009-13-20-0B.5 | 18/2013. (III. 5.) EMMI rendelet |
 | 2017-01-01 | 2009-13-20-0B.6 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2017-04-01 | 2009-13-20-0B.7 | 54/2016. (XII. 30.) EMMI rendelet |
+| 2024-01-01 | 2009-13-20-0B.8 | 50/2023. (XII. 12.) BM rendelet |
