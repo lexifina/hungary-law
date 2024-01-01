@@ -238,13 +238,11 @@ Könyv
 
 |
 
-Napilap (hetenként legalább négyszer megjelenő kiadvány);
-
 Folyóirat, más újság (évente legalább egyszer megjelenő kiadvány)
 
 |
 
-4902
+4902-ből
 
 |
 
@@ -1091,3 +1089,11 @@ Internet-hozzáférési szolgáltatás
 |
 
 Kereskedelmi szálláshely-szolgáltatás
+
+|
+
+6.
+
+|
+
+A turisztikai térségek fejlesztésének állami feladatairól szóló törvény végrehajtásáról szóló 235/2019. (X. 15.) Korm. rendelet – 2023. május 8-án hatályos – 3. melléklet IV. pont b) alpontja szerinti buszos személyszállítási szolgáltatás, feltéve, hogy a szolgáltatás igénybevevője számára folyamatos rendelkezésre állással kizárólag elektronikus fizetési lehetőség biztosított.”

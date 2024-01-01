@@ -58,6 +58,8 @@ gq) a Tanács (EU) 2019/1995 irányelve (2019. november 21.) a 2006/112/EK irán
 
 gr) A Tanács (EU) 2020/1756 irányelve (2020. november 20.) a közös hozzáadottértékadó-rendszerről szóló 2006/112/EK irányelvnek az észak-írországi adóalanyok azonosítása tekintetében történő módosításáról.
 
+gs) a Tanács (EU) 2020/284 irányelve (2020. február 18.) a 2006/112/EK irányelvnek a pénzforgalmi szolgáltatók számára egyes kötelezettségek bevezetése tekintetében történő módosításáról.
+
 gt) a Tanács (EU) 2021/1159 irányelve (2021. július 13.) a 2006/112/EK irányelvnek az importra, valamint bizonyos termékértékesítésekre és szolgáltatásnyújtásokra vonatkozó, a Covid19-világjárványra válaszul bevezetett ideiglenes mentességek tekintetében történő módosításáról;
 
 gu) a Tanács (EU) 2022/890 irányelve (2022. június 3.) a 2006/112/EK irányelvnek a bizonyos csalásra alkalmas termékek értékesítése és szolgáltatások nyújtása esetén alkalmazott választható fordított adózási mechanizmus, valamint a héacsalás elleni gyorsreagálási mechanizmus alkalmazási időszakának meghosszabbítása tekintetében történő módosításáról.

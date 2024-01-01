@@ -90,6 +90,20 @@ Gabona, liszt, keményítő vagy tej felhasználásával készült termék
 
 1905 90
 
+|
+
+5.
+
+|
+
+Desszert jellegű sajtkészítmény
+
+|
+
+1806-ból
+
+2106-ból”
+
 II. rész: szolgáltatások
 
 |

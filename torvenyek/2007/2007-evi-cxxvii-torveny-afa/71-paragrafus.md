@@ -1,10 +1,12 @@
 71. § (1) Termék értékesítése, szolgáltatás nyújtása esetében az adó alapjába nem tartozik bele:
 
-a) az olyan ár- és díjengedmény vagy ár- és díjvisszatérítés (a továbbiakban együtt: árengedmény), amelyet az eredeti esedékességhez képest az ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak; illetőleg
+a) az olyan ár- és díjengedmény vagy ár- és díjvisszatérítés (a továbbiakban együtt: árengedmény), amelyet az eredeti esedékességhez képest az ellenérték előrehozott megtérítésére tekintettel a teljesítésig adnak;
 
 b) a korábban beszerzett termék, igénybe vett szolgáltatás mennyiségére tekintettel a teljesítésig adott árengedmény vagy más, szintén a teljesítésig adott üzletpolitikai célú árengedmény;
 
-c) az a pénzösszeg, amelyet az adóalany a termék beszerzőjétől, szolgáltatás igénybevevőjétől – mint az áthárított költség igazolt végső viselőjétől – kap, feltéve, hogy az így kapott összeget az adóalany saját nyilvántartásában elszámolási kötelezettségként tartja nyilván.
+c) az a pénzösszeg, amelyet az adóalany a termék beszerzőjétől, szolgáltatás igénybevevőjétől – mint az áthárított költség igazolt végső viselőjétől – kap, feltéve, hogy az így kapott összeget az adóalany saját nyilvántartásában elszámolási kötelezettségként tartja nyilván; valamint
+
+d) a XVII/A. fejezet szerinti visszaváltási díj.
 
 (2) Az (1) bekezdés b) pontjában említett árengedmény abban az esetben üzletpolitikai célú, ha
 

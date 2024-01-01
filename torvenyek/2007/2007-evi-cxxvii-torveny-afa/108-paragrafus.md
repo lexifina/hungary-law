@@ -2,7 +2,7 @@
 
 (2) Vendéglátó-ipari szolgáltatás igénybevétele esetében a hivatalos cél elismeréséhez szükséges az is, hogy a diplomáciai és a hivatásos konzuli képviselet, valamint a nemzetközi szervezet által rendezett fogadáson – a képviselet, szervezet vezetőjének írásos nyilatkozata alapján – legalább 10 meghívott személy vegyen részt.
 
-(3) A 107. § (1) bekezdésének a) és b) pontjában említett személyes célra biztosított adómentesség naptári évente a viszonosságnak megfelelően, de legfeljebb 300 000 forintnak megfelelő pénzösszegű értékkeret erejéig illeti meg a diplomáciai és a hivatásos konzuli képviselet tagját, valamint a nemzetközi szervezet tisztviselőjét, feltéve, hogy a 107. § (1) bekezdésének b) pontjában említett nemzetközi szerződés kifejezetten másként nem rendelkezik.
+(3) A 107. § (1) bekezdésének a) és b) pontjában említett személyes célra biztosított adómentesség naptári évente a viszonosságnak megfelelően, de legfeljebb 600 000 forintnak megfelelő pénzösszegű értékkeret erejéig illeti meg a diplomáciai és a hivatásos konzuli képviselet tagját, valamint a nemzetközi szervezet tisztviselőjét, feltéve, hogy a 107. § (1) bekezdésének b) pontjában említett nemzetközi szerződés kifejezetten másként nem rendelkezik.
 
 (4) A (3) bekezdésben meghatározott értékkeretbe:
 

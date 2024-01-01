@@ -14,7 +14,7 @@ c) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó sérült- vag
 
 d) az emberi szövet, vér (ideértve a külön jogszabályban meghatározott labilis vérkészítményeket is), anyatej értékesítése, valamint az előzőekben felsorolt termékértékesítésekhez és az emberi szerv adományozásához szorosan kapcsolódó szolgáltatásnyújtás;
 
-e) az a szolgáltatásnyújtás és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet humán fogorvosi, fogtechnikusi tevékenységet végző – ilyen minőségében – teljesít;
+e) humán fogorvosi, fogtechnikusi tevékenységet végző által – ilyen minőségében – teljesített szolgáltatásnyújtás és fogászati protézis értékesítése;
 
 f) az a szolgáltatásnyújtás – az étkeztetés kivételével, ha az ennek fejében járó ellenérték külön térítendő meg – és az ahhoz szorosan kapcsolódó termékértékesítés, amelyet szociális ellátás keretében közszolgáltató – ilyen minőségében – teljesít;
 
@@ -55,6 +55,8 @@ pb) a szolgáltatás igénybevétele az együttműködő közösség adóalany t
 pc) az ellenérték, amelyet az együttműködő közösség kap vagy kapnia kell, nem több annál, mint a nála ezzel összefüggésben felmerült igazolt költség, valamint
 
 pd) az ellenérték göngyölített összege nem haladja meg azt a vagyoni hozzájárulást, amelyet az együttműködő közösség tagjának kell a közös cél elérése érdekében az együttműködő közösségnek rendelkezésre bocsátania.
+
+q) a hatósági engedéllyel végzett sérült- vagy betegszállítás, a speciálisan e célra felszerelt közlekedési eszközökben.
 
 (2) Egyéb oktatás vagy képzés
 

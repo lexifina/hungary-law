@@ -6,7 +6,7 @@
 
 a) a termék 10. § a) pontja szerinti értékesítése, a bérbeadás vagy a vagyoni értékű jog időleges használatának átengedése meghiúsul, és a felek az ügylet kötése előtti helyzetet állítják helyre, vagy ha ez nem lehetséges, az ügyletet a meghiúsulás bekövetkezéséig terjedő időre hatályosként elismerik;
 
-b) betétdíjas termék visszaváltásakor a betétdíjat visszatérítik;
+b) betétdíjas termék visszaváltásakor a betétdíjat – ide nem értve a XVII/A. fejezet szerinti visszaváltási díjat – visszatérítik;
 
 c) az 58. § szerinti termékértékesítés, szolgáltatásnyújtás esetében visszatérítik azt az összeget, amellyel az elszámolási időszak egésze tekintetében megfizetett vagy megfizetendő összeg meghaladja az erre az elszámolási időszakra vonatkozó ellenértéket.
 
