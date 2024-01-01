@@ -10,7 +10,7 @@ d) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
-a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 
 b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 

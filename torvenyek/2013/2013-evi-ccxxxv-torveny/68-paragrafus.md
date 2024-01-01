@@ -22,7 +22,7 @@ e) utalványforgalmazó igénybevétele esetén az utalványforgalmazó azonosí
 
 a) az utalványelfogadó részére írásban, a szerződésben meghatározott módon küldi meg vagy teszi számára elérhetővé,
 
-b) az utalványbirtokost érintő módosítás esetében a módosítás tényét és annak elérhetőségét legalább egy országos vagy regionális napilapban, a módosítás tartalmát a honlapján teszi közzé.
+b) az utalványbirtokost érintő módosítás esetében a módosítás tartalmát a honlapján teszi közzé.
 
 (7) Az utalványkibocsátó a naptári év utolsó napján
 

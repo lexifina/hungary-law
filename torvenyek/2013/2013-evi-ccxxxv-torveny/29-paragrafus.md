@@ -28,6 +28,8 @@ f) más pénzforgalmi intézménynél, elektronikuspénz-kibocsátó intézmény
 
 g) olyan tisztséget tölt be, amely tisztség ellátása korlátozhatja szakmai feladatainak ellátását.
 
+h) a közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt áll.
+
 (6) Akivel szemben
 
 a) a 2013. június 30-ig hatályban volt a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezetének VII. és VIII. címében, XVII. és XVIII. fejezetében, vagy
