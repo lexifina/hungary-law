@@ -10,7 +10,7 @@ Alapvető felhasználóként történő kijelölés során figyelembe veendő l�
 
 4. Kiemelt jelentőségű honvédelmi létesítmény.
 
-5.[^8] A BM OKF, a vármegyei (fővárosi) katasztrófavédelmi irányító központ, és a vármegyei (fővárosi) védelmi bizottság működési helye.
+5.[^9] A BM OKF, a vármegyei (fővárosi) katasztrófavédelmi irányító központ, és a vármegyei (fővárosi) védelmi bizottság működési helye.
 
 6. A katasztrófavédelmi és rendvédelmi szervek különleges jogrend időszaki üzemanyag igényét biztosító, illetve a nemzeti stratégiai tartalékot kezelő társaság üzemanyag töltőállomásai közül, katasztrófavédelmi kirendeltségenként egy töltőállomás.
 
@@ -24,4 +24,4 @@ Alapvető felhasználóként történő kijelölés során figyelembe veendő l�
 
 11. Kényszeráramú szennyvízszállítást és szennyvíztisztítást biztosító létesítmény, valamint árvíz és belvízvédekezés idején belvízmentesítést szolgáló szivattyútelepe.
 
-[^8]: A 2. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
+[^9]: A 2. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 237. § a) pontja szerint módosított szöveg.
