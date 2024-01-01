@@ -1,1 +1,0 @@
-Annak érdekében, hogy az állam számára szavazatelsőbbséget biztosító részvény jogintézménye az európai közösségi joggal összhangban megszüntetésre kerüljön, az Országgyűlés a következő törvényt alkotja:
