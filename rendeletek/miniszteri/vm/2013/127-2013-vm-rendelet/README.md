@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-127-20-
 | 2019-05-11 | 2013-127-20-2Y.4 | 17/2019. (V. 10.) AM rendelet |
 | 2021-01-01 | 2013-127-20-2Y.5 | 69/2020. (XII. 23.) AM rendelet |
 | 2021-02-20 | 2013-127-20-2Y.6 | 3/2021. (II. 19.) AM rendelet |
+| 2024-01-01 | 2013-127-20-2Y.7 | 180/2023. (XII. 27.) AM rendelet |
