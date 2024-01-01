@@ -1,30 +1,30 @@
 |  | A | B | C | D | E |
 
-| 1. | Programterület neve | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja tevékenységének segítésére kijelölt minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja | Szakpolitikai felelősök | Lebonyolító szerv |
+| 1. | Programterület neve | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja | Szakpolitikai felelős | Lebonyolító szerv |
 
-| 2. | I. Demográfia és köznevelés | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, Miniszterelnökség[^184] |
+| 2. | I. Demográfia és köznevelés | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
-| 3. | II. Magasan képzett, versenyképes munkaerő | Miniszterelnökség | területfejlesztési miniszter | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, Miniszterelnökség[^185] |
+| 3. | II. Magasan képzett, versenyképes munkaerő | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
-| 4. | III. Felzárkózó települések | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Miniszterelnökség[^186] |
+| 4. | III. Felzárkózó települések | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium | Közigazgatási és Területfejlesztési Minisztérium |
 
-| 5. | IV. Vízgazdálkodás | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^187] |
+| 5. | IV. Vízgazdálkodás | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
-| 6. | V. Fenntartható zöld közlekedés | Miniszterelnökség | területfejlesztési miniszter | Építési és Közlekedési Minisztérium[^188] | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^189] |
+| 6. | V. Fenntartható zöld közlekedés | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
-| 7. | VI. Energetika (zöld átállás) | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^190] | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Miniszterelnökség, Miniszterelnöki Kabinetiroda[^191] |
+| 7. | VI. Energetika (zöld átállás) | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Közigazgatási és Területfejlesztési Minisztérium, Miniszterelnöki Kabinetiroda |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium[^192] | Miniszterelnökség[^193] |
+| 8. | VII. Átállás a körforgásos gazdaságra | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | Közigazgatási és Területfejlesztési Minisztérium |
 
-| 9. | VIII. Egészségügy | Miniszterelnökség | területfejlesztési miniszter | Belügyminisztérium | Miniszterelnöki Kabinetiroda, Miniszterelnökség,[^194] |
+| 9. | VIII. Egészségügy | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
-| 10. | IX. Állam és közigazgatás | Miniszterelnökség | területfejlesztési miniszter | Nincs. | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság[^195] |
+| 10. | IX. Állam és közigazgatás | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Nincs | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
-| 11.[^196] | Magyarország REPowerEU terve | Miniszterelnökség | területfejlesztési miniszter | Energiaügyi Minisztérium | Miniszterelnöki Kabinetiroda, Miniszterelnökség |
+| 11. | Magyarország REPowerEU terve | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^197]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^222]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -156,17 +156,4 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^184]: Az 1. mellékletben foglalt táblázat E:2 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés a) pontjával megállapított szöveg.
-[^185]: Az 1. mellékletben foglalt táblázat E:3 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés b) pontjával megállapított szöveg.
-[^186]: Az 1. mellékletben foglalt táblázat E:4 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés c) pontjával megállapított szöveg.
-[^187]: Az 1. mellékletben foglalt táblázat E:5 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
-[^188]: Az 1. mellékletben foglalt táblázat D:6 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^189]: Az 1. mellékletben foglalt táblázat E:6 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
-[^190]: Az 1. mellékletben foglalt táblázat D:7 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
-[^191]: Az 1. mellékletben foglalt táblázat E:7 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés e) pontjával megállapított szöveg.
-[^192]: Az 1. mellékletben foglalt táblázat D:8 mezője a 632/2022. (XII. 30.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
-[^193]: Az 1. mellékletben foglalt táblázat E:8 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés c) pontjával megállapított szöveg.
-[^194]: Az 1. mellékletben foglalt táblázat E:9 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés d) pontjával megállapított szöveg.
-[^195]: Az 1. mellékletben foglalt táblázat E:10 mezője a 154/2023. (IV. 27.) Korm. rendelet 20. § (3) bekezdés f) pontjával megállapított szöveg.
-[^196]: Az 1. mellékletben foglalt táblázat 11. sorát a 497/2023. (XI. 2.) Korm. rendelet 7. §-a iktatta be.
-[^197]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^222]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.

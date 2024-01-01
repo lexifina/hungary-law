@@ -6,7 +6,7 @@
 
 ## 62. Projektindító támogatás
 
-233. § (1)[^163] A Magyarország központi költségvetéséről szóló törvény 1. melléklet XIX. Uniós fejlesztések fejezet, 3. Központi kezelésű előirányzatok cím, 10. Helyreállítási és Ellenállóképességi Eszköz (RRF) alcím [a továbbiakban: Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat] terhére projektindító támogatás nyújtható a HET intézkedési listában szereplő kiemelt felhívások végső kedvezményezettjei részére az elszámolhatósági útmutatóban részletezett szabályok figyelembevételével.
+233. § (1)[^196] A Magyarország központi költségvetéséről szóló törvény 1. melléklet XIX. Uniós fejlesztések fejezet, 3. Központi kezelésű előirányzatok cím, 10. Helyreállítási és Ellenállóképességi Eszköz (RRF) alcím [a továbbiakban: Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat] terhére projektindító támogatás nyújtható a HET intézkedési listában szereplő kiemelt felhívások végső kedvezményezettjei részére az elszámolhatósági útmutatóban részletezett szabályok figyelembevételével.
 
 (2) A projektindító támogatást a HET intézkedési listában szereplő kiemelt felhívások végső kedvezményezettjei kérelem alapján igényelhetik, a nemzeti hatóság által elkészített és a www.palyazat.gov.hu oldalon megjelentetett felhívásnak megfelelően.
 
@@ -46,4 +46,4 @@ g) a kérelmező kötelezettségvállalását a HET intézkedésben való részv
 
 (9) A kérelmekről a nemzeti hatóság vezetője dönt, amely alapján a nemzeti hatóság vezetője támogató okiratot bocsát ki, vagy támogatási szerződést köt a támogatást igénylővel.
 
-[^163]: A 233. § (1) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^196]: A 233. § (1) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
