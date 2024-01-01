@@ -1,6 +1,6 @@
 ## 7. A szaktanácsadói névjegyzék
 
-27. § (1)[^38] A szaktanácsadói névjegyzékre az kérheti felvételét, aki a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik és
+27. § (1)[^38] A szaktanácsadói névjegyzékre az kérheti felvételét, aki a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 2. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik és
 
 a) köznevelési intézményben pedagógus-munkakörben legalább tízéves szakmai gyakorlatot vagy
 
@@ -22,7 +22,7 @@ szerzett.
 
 (9)–(10)[^45]
 
-[^38]: A 27. § (1) bekezdés nyitó szövegrésze a 37/2021. (VIII. 31.) EMMI rendelet 28. §-a szerint módosított szöveg.
+[^38]: A 27. § (1) bekezdés nyitó szövegrésze a 44/2023. (X. 19.) BM rendelet 25. §-a szerint módosított szöveg.
 [^39]: A 27. § (2) bekezdését a 31/2020. (VIII. 31.) EMMI rendelet 25. § d) pontja hatályon kívül helyezte.
 [^40]: A 27. § (3) bekezdését a 37/2021. (VIII. 31.) EMMI rendelet 29. § d) pontja újból hatályon kívül helyezte.
 [^41]: A 27. § (4) bekezdését a 6/2014. (I. 29.) EMMI rendelet 7. §-a hatályon kívül helyezte.
