@@ -1,0 +1,1 @@
+1. § A benzin tárolásából, elosztásából és töltőállomáson a gépjármű feltöltéséből származó illékony szerves vegyület (VOC) csökkentéséről szóló 118/2011. (XII. 15.) VM rendelet 6. § (2) bekezdésében a „megyei” szövegrész helyébe a „vármegyei” szöveg lép.
