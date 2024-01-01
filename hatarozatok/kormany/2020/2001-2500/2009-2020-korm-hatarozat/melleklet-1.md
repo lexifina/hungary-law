@@ -12,13 +12,7 @@
 
 ## Határidő: 2020. december 31.
 
-## 4. a 3. pontban foglaltak végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva elrendeli az 1. melléklet szerinti előirányzatok egyszeri átcsoportosítását;
-
-## Felelős: pénzügyminiszter
-
-## külgazdasági és külügyminiszter
-
-## Határidő: azonnal
+## 4.[^1]
 
 ## 5. a 2. és 3. pontban foglalt feladat végrehajtása érdekében felhívja a külgazdasági és külügyminisztert, hogy a feladathoz rendelt előirányzatok pénzügyileg nem teljesült állományáról az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 149. § (1) bekezdésében foglaltakat megelőzően, soron kívül tájékoztassa a pénzügyminisztert;
 
@@ -32,82 +26,10 @@
 
 ## Határidő: a Külgazdasági és Külügyminisztérium befizetési kötelezettségének teljesítését követően azonnal
 
-## 7.[^1]
+## 7.[^2]
 
-1. melléklet a 2009/2020. (XII. 24.) Korm. határozathoz
+1. melléklet a 2009/2020. (XII. 24.) Korm. határozathoz[^3]
 
-| XVIII. Külgazdasági és Külügyminisztérium ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2020. forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | K I A D Á S O K | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 7 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 297346 |  |  |  | 3 |  |  |  |  |  | Külgazdaság fejlesztési célelőirányzat |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K5 |  |  |  |  | Egyéb működési célú kiadások |  |  |  |  |  |  |  |  | -200 000 000 |  |  |  |
-
-| 380184 |  |  |  | 25 |  |  |  |  |  | Csángó−Magyar Együttműködési Program Támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | -100 000 000 |  |  |  |
-
-| 375817 |  |  |  | 32 |  |  |  |  |  | Határon túli gazdaságfejlesztési programok támogatása |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K8 |  |  |  |  | Egyéb felhalmozási célú kiadások |  |  |  |  |  |  |  |  | 600 000 000 |  |  |  |
-
-|  |  | 8 |  |  |  |  |  | Központi kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 2 |  |  |  |  |  | Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 382406 |  |  |  | 2 |  |  |  |  |  | Adria Port Zrt. Tőkeemelése |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  | K6 |  |  |  |  | Beruházások |  |  |  |  |  |  |  |  |  | -300 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | B E V É T E L | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | forintban |
-
-| Államház- tartási egyedi azonosító | Fejezet szám | Cím szám | Alcím szám | Jog- cím csop. szám | Jog- cím szám | Kiemelt előir. szám | Fejezet név | Cím név | Alcím név | Jog- cím csop. név | Jog- cím név | T Á M O G A T Á S | A módosítás jogcíme | Módosítás (+/-) | A módosítás következő évre áthúzódó hatása | A módosítást elrendelő jogszabály/határozat száma |
-
-| Kiemelt előirányzat neve |  |  |  |  |  |  |  |  |
-
-|  | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | 7 |  |  |  |  |  | Fejezeti kezelésű előirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  | 1 |  |  |  |  |  | Célelőirányzatok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| 297346 |  |  |  | 3 |  |  |  |  |  | Külgazdaság fejlesztési célelőirányzat |  |  |  |  |  |  |  |  | -200 000 000 |  |  |  |
-
-| 380184 |  |  |  | 25 |  |  |  |  |  | Csángó−Magyar Együttműködési Program Támogatása |  |  |  |  |  |  |  |  | -100 000 000 |  |  |  |
-
-| 375817 |  |  |  | 32 |  |  |  |  |  | Határon túli gazdaságfejlesztési programok támogatása |  |  |  |  |  |  |  |  | 600 000 000 |  |  |  |
-
-| Az előirányzat-módosítás érvényessége: a) a költségvetési évben egyszeri jellegű |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  |  |  |  |  |  |  |  |  |  |  | Foglalkoztatottak létszáma (fő) - időszakra |  |  |  |  |  |  |  |  |  |  |  |  |
-
-| Az adatlap 1 eredeti példányban töltendő ki |  | A támogatás folyósítása/zárolása (módosítása +/-) | Összesen |  |  |  |  |  |  |  |  | I. n. év | II. n. év | III. n. év | IV. n. év |
-
-| Magyar Államkincstár 1 példány |  |  | időarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | teljesítésarányos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-|  |  | egyéb: |  | azonnal |  | 600 000 000 |  |  |  |  |  |  |  |  |  |  |  | 600 000 000 |
-
-| * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
