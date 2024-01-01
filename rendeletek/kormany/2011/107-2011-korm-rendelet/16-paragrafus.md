@@ -2,75 +2,75 @@
 
 16. § (1) Ez a rendelet 2011. július 1-jén lép hatályba.
 
-(2)[^191]
+(2)[^196]
 
 (3) A 4. § (3) bekezdésében az ellenőrző szervezet részére a bejelentés vizsgálatára rendelkezésre álló határidő a bejelentés benyújtását követő 45 nap.
 
-(3a)[^192] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 268/2011. (XII. 16.) Korm. rendelettel (a továbbiakban: Korm. rendelet) megállapított 7. § (1)–(2b) bekezdését a Korm. rendelet hatálybalépésekor[^193] folyamatban lévő, támogatási igazolás kiállítása iránti kérelmekre is alkalmazni kell.
+(3a)[^197] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 268/2011. (XII. 16.) Korm. rendelettel (a továbbiakban: Korm. rendelet) megállapított 7. § (1)–(2b) bekezdését a Korm. rendelet hatálybalépésekor[^198] folyamatban lévő, támogatási igazolás kiállítása iránti kérelmekre is alkalmazni kell.
 
-(4)[^194] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 76/2012. (IV. 13.) Korm. rendelettel (a továbbiakban: Kormányrendelet) megállapított
+(4)[^199] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 76/2012. (IV. 13.) Korm. rendelettel (a továbbiakban: Kormányrendelet) megállapított
 
-a) 2. § (1) bekezdés 11. pontját, 2. § (6) és (6a) bekezdését a Kormányrendelet hatálybalépésekor[^195] folyamatban lévő sportfejlesztési program jóváhagyása iránti kérelmekkel összefüggésben,
+a) 2. § (1) bekezdés 11. pontját, 2. § (6) és (6a) bekezdését a Kormányrendelet hatálybalépésekor[^200] folyamatban lévő sportfejlesztési program jóváhagyása iránti kérelmekkel összefüggésben,
 
-b) 9. § (10) bekezdését és 11. § (5) bekezdését a Kormányrendelet hatálybalépésekor[^196] folyamatban lévő, 2011–2012-es támogatási időszak sportfejlesztési programjainak megvalósítása során
-
-is alkalmazni kell.
-
-(5)[^197] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 134/2013. (V. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított
-
-a) 2. § (3a), (6a) és (6b) bekezdését a Módr. hatálybalépésekor[^198] folyamatban lévő sportfejlesztési program jóváhagyása iránti kérelmekkel összefüggésben,
-
-b) 13. § (1)–(2) és (2a) bekezdését a Módr. hatálybalépésekor[^199] folyamatban lévő, 2011–2012-es és 2012–2013-as támogatási időszak sportfejlesztési programjainak elszámolása során
+b) 9. § (10) bekezdését és 11. § (5) bekezdését a Kormányrendelet hatálybalépésekor[^201] folyamatban lévő, 2011–2012-es támogatási időszak sportfejlesztési programjainak megvalósítása során
 
 is alkalmazni kell.
 
-(6)[^200] Az ellenőrzési feladatok ellátásával összefüggő költségként fizetett, a Nemzeti Sport Intézet rendelkezésére álló összeg a látvány-csapatsportok támogatásának társasági adókedvezményével összefüggő egyes kormányrendeletek módosításáról szóló 503/2013. (XII. 29.) Korm. rendelet (a továbbiakban: módosító rendelet) hatálybalépésekor[^201] még le nem zárt elszámolásokkal összefüggő ellenőrzési feladatok költségeire az ellenőrző szervezetek között a módosító rendelettel megállapított 2. § (6b) bekezdésében meghatározott megosztás alapján használható fel.
+(5)[^202] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 134/2013. (V. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított
 
-(7)[^202] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 128/2017. (VI. 8.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 12. §-át és 5/C. alcímét a Módr6. hatálybalépésekor[^203] folyamatban lévő, valamint a már lezárt elszámolások estében is alkalmazni kell.
+a) 2. § (3a), (6a) és (6b) bekezdését a Módr. hatálybalépésekor[^203] folyamatban lévő sportfejlesztési program jóváhagyása iránti kérelmekkel összefüggésben,
 
-(8)–(9)[^204]
+b) 13. § (1)–(2) és (2a) bekezdését a Módr. hatálybalépésekor[^204] folyamatban lévő, 2011–2012-es és 2012–2013-as támogatási időszak sportfejlesztési programjainak elszámolása során
 
-(10)[^205] A módosító rendelettel megállapított 14. § (1a), (4a) és (9) bekezdést a módosító rendelet hatálybalépése előtt meghosszabbított, folyamatban lévő sportfejlesztési programok esetében is alkalmazni kell.
+is alkalmazni kell.
 
-(11)[^206] Ha a támogatott szervezet a 2011–2012-es vagy a 2012–2013-as támogatási időszakban módosított vagy új sportfejlesztési program megvalósítására vált jogosulttá, a módosított vagy új sportfejlesztési program megvalósítása esetén az adott támogatási időszakban fel nem használt támogatás összegét, továbbá a meghosszabbításra vonatkozó jóváhagyó döntés alapján lehívott támogatást, a módosított vagy új sportfejlesztési program célját biztosító feladatokra felhasználhatja.
+(6)[^205] Az ellenőrzési feladatok ellátásával összefüggő költségként fizetett, a Nemzeti Sport Intézet rendelkezésére álló összeg a látvány-csapatsportok támogatásának társasági adókedvezményével összefüggő egyes kormányrendeletek módosításáról szóló 503/2013. (XII. 29.) Korm. rendelet (a továbbiakban: módosító rendelet) hatálybalépésekor[^206] még le nem zárt elszámolásokkal összefüggő ellenőrzési feladatok költségeire az ellenőrző szervezetek között a módosító rendelettel megállapított 2. § (6b) bekezdésében meghatározott megosztás alapján használható fel.
 
-(12)[^207] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 75/2014. (III. 13.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § (1) bekezdés 9. pont f) alpontját a Módr2. hatálybalépésekor[^208] folyamatban lévő sportfejlesztési programok jóváhagyása és elszámolása során is alkalmazni kell.
+(7)[^207] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 128/2017. (VI. 8.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított 12. §-át és 5/C. alcímét a Módr6. hatálybalépésekor[^208] folyamatban lévő, valamint a már lezárt elszámolások estében is alkalmazni kell.
 
-(13)[^209] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 170/2015. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 14. § (4b) bekezdését a Módr3. hatálybalépésekor[^210] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok esetében is alkalmazni kell.
+(8)–(9)[^209]
 
-(14)[^211] Amennyiben e rendelet eltérően nem rendelkezik, a benne foglaltakat – ide nem értve a 6. § (1) bekezdés rendelkezéseit – értelemszerűen alkalmazni kell a Tao. tv. 24/A. § (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás vonatkozásában is.
+(10)[^210] A módosító rendelettel megállapított 14. § (1a), (4a) és (9) bekezdést a módosító rendelet hatálybalépése előtt meghosszabbított, folyamatban lévő sportfejlesztési programok esetében is alkalmazni kell.
 
-(15)[^212] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 96/2016. (V. 2.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított
+(11)[^211] Ha a támogatott szervezet a 2011–2012-es vagy a 2012–2013-as támogatási időszakban módosított vagy új sportfejlesztési program megvalósítására vált jogosulttá, a módosított vagy új sportfejlesztési program megvalósítása esetén az adott támogatási időszakban fel nem használt támogatás összegét, továbbá a meghosszabbításra vonatkozó jóváhagyó döntés alapján lehívott támogatást, a módosított vagy új sportfejlesztési program célját biztosító feladatokra felhasználhatja.
 
-a) 2. § (1) bekezdés 3. pont g) pontját, 9. pont g) pontját, 10. és 12. pontját, 2. § (3b) és (6b) bekezdését a Módr4. hatálybalépésekor[^213] még le nem zárt sportfejlesztési programok elszámolásaival összefüggésben,
+(12)[^212] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 75/2014. (III. 13.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 2. § (1) bekezdés 9. pont f) alpontját a Módr2. hatálybalépésekor[^213] folyamatban lévő sportfejlesztési programok jóváhagyása és elszámolása során is alkalmazni kell.
+
+(13)[^214] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 170/2015. (VI. 30.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 14. § (4b) bekezdését a Módr3. hatálybalépésekor[^215] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok esetében is alkalmazni kell.
+
+(14)[^216] Amennyiben e rendelet eltérően nem rendelkezik, a benne foglaltakat – ide nem értve a 6. § (1) bekezdés rendelkezéseit – értelemszerűen alkalmazni kell a Tao. tv. 24/A. § (3) bekezdés c) pontja szerinti kedvezményezett célra történő felajánlás vonatkozásában is.
+
+(15)[^217] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 96/2016. (V. 2.) Korm. rendelettel (a továbbiakban: Módr4.) megállapított
+
+a) 2. § (1) bekezdés 3. pont g) pontját, 9. pont g) pontját, 10. és 12. pontját, 2. § (3b) és (6b) bekezdését a Módr4. hatálybalépésekor[^218] még le nem zárt sportfejlesztési programok elszámolásaival összefüggésben,
 
 b) 2. § (6) bekezdését, 4. § (3) és (4) bekezdését a 2016–2017-es támogatási időszakra benyújtott sportfejlesztési programok jóváhagyása során,
 
-c) 10. § (3a) bekezdését és 14. § (6) bekezdését a Módr4. hatálybalépésekor[^214] folyamatban lévő sportfejlesztési programok esetében,
+c) 10. § (3a) bekezdését és 14. § (6) bekezdését a Módr4. hatálybalépésekor[^219] folyamatban lévő sportfejlesztési programok esetében,
 
-d) 11. § (4a) és (6) bekezdését, továbbá a 15. § (1a) bekezdését a Módr4. hatálybalépésekor[^215] folyamatban lévő sportfejlesztési programok ellenőrzésével összefüggésben,
+d) 11. § (4a) és (6) bekezdését, továbbá a 15. § (1a) bekezdését a Módr4. hatálybalépésekor[^220] folyamatban lévő sportfejlesztési programok ellenőrzésével összefüggésben,
 
-e) 14. § (9a) bekezdését a Módr4. hatálybalépésekor[^216] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során,
+e) 14. § (9a) bekezdését a Módr4. hatálybalépésekor[^221] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során,
 
-f) 14. § (8a) és (11) bekezdését, valamint a 15. § (2) bekezdését a Módr4. hatálybalépésekor[^217] le nem zárt elszámolásokkal összefüggésben,
+f) 14. § (8a) és (11) bekezdését, valamint a 15. § (2) bekezdését a Módr4. hatálybalépésekor[^222] le nem zárt elszámolásokkal összefüggésben,
 
-g) 16. § (14) bekezdését a Módr4. hatálybalépésekor[^218] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programokkal összefüggésben kiállított igazolások tekintetében
+g) 16. § (14) bekezdését a Módr4. hatálybalépésekor[^223] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programokkal összefüggésben kiállított igazolások tekintetében
 
 is alkalmazni kell.
 
-(16)[^219] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 141/2016. (VI. 13.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 14. § (4b) bekezdését a Módr5. hatálybalépésekor[^220] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során is alkalmazni kell.
+(16)[^224] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 141/2016. (VI. 13.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 14. § (4b) bekezdését a Módr5. hatálybalépésekor[^225] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
-(17)[^221] Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés a), b) és d) pontja szerinti támogatás esetén – a (18) bekezdésben foglaltak kivételével –, valamint a Tao. tv. 22/C. § (1) bekezdés c) pont ca), cc)–ce) alpontja szerinti támogatás esetén a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határideje a 2017. évben a 2017. július 15-e és 2017. szeptember 15-e közötti időszak. Az igényelt támogatás alapján – a Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás kivételével – leghamarabb azon költségek, ráfordítások számolhatók el, amelyek teljesítése és kifizetése 2017. július 1-jét követően történik. A Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás esetén az igényelt támogatás alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére a kérelem benyújtását követően kerül sor.
+(17)[^226] Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés a), b) és d) pontja szerinti támogatás esetén – a (18) bekezdésben foglaltak kivételével –, valamint a Tao. tv. 22/C. § (1) bekezdés c) pont ca), cc)–ce) alpontja szerinti támogatás esetén a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határideje a 2017. évben a 2017. július 15-e és 2017. szeptember 15-e közötti időszak. Az igényelt támogatás alapján – a Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás kivételével – leghamarabb azon költségek, ráfordítások számolhatók el, amelyek teljesítése és kifizetése 2017. július 1-jét követően történik. A Tao. tv. 22/C. § (1) bekezdés c) pont cd) alpontja szerinti támogatás esetén az igényelt támogatás alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére a kérelem benyújtását követően kerül sor.
 
-(18)[^222] Röplabda sportágban az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a Tao. tv. 30/I. §-a alkalmazandó, a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határideje a 2017. évben az Európai Bizottság jóváhagyó határozata meghozatalának napját követő naptól számított 2 hónap. Az Európai Bizottság határozata meghozatalának naptári napját az adópolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg. Az e bekezdés hatálya alá tartozó támogatások esetén az igényelt támogatás alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére a kérelem benyújtását követően kerül sor.
+(18)[^227] Röplabda sportágban az olyan támogatásra jogosult szervezet támogatása esetén, amely vonatkozásában a Tao. tv. 30/I. §-a alkalmazandó, a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határideje a 2017. évben az Európai Bizottság jóváhagyó határozata meghozatalának napját követő naptól számított 2 hónap. Az Európai Bizottság határozata meghozatalának naptári napját az adópolitikáért felelős miniszter – annak ismertté válását követően – a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg. Az e bekezdés hatálya alá tartozó támogatások esetén az igényelt támogatás alapján leghamarabb azon költségek, ráfordítások számolhatók el, amelynek teljesítésére és kifizetésére a kérelem benyújtását követően kerül sor.
 
-(19)[^223] Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés c) pont cb) alpontja szerinti támogatás esetén a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határidejét és a költségek, ráfordítások elszámolhatóságát a (18) bekezdésben meghatározott módon kell megállapítani.
+(19)[^228] Röplabda sportágban a Tao. tv. 22/C. § (1) bekezdés c) pont cb) alpontja szerinti támogatás esetén a 4. § (1) bekezdésében meghatározott kérelem jóváhagyást végző szervezet részére történő benyújtásának határidejét és a költségek, ráfordítások elszámolhatóságát a (18) bekezdésben meghatározott módon kell megállapítani.
 
-(20)[^224] A Tao. tv. 30/I. §-ának hatálya alá nem tartozó támogatás igénybevételére jogosult szervezet a 2017–2018-as támogatási időszakra vonatkozó, tárgyi eszköz beruházás, felújítás jogcímre irányuló kérelmét 2017. július 15-e és 2017. szeptember 15-e között is benyújthatja.
+(20)[^229] A Tao. tv. 30/I. §-ának hatálya alá nem tartozó támogatás igénybevételére jogosult szervezet a 2017–2018-as támogatási időszakra vonatkozó, tárgyi eszköz beruházás, felújítás jogcímre irányuló kérelmét 2017. július 15-e és 2017. szeptember 15-e között is benyújthatja.
 
-(21)[^225] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 164/2017. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított
+(21)[^230] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 164/2017. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr6.) megállapított
 
-a) 2. § (1) bekezdés 3. pontját és 9. pont h) alpontját, 11. § (1a) és (3) bekezdését, továbbá 13. § (1) bekezdését a Módr6. hatálybalépésekor[^226] még le nem zárt sportfejlesztési programok elszámolásaival összefüggésben,
+a) 2. § (1) bekezdés 3. pontját és 9. pont h) alpontját, 11. § (1a) és (3) bekezdését, továbbá 13. § (1) bekezdését a Módr6. hatálybalépésekor[^231] még le nem zárt sportfejlesztési programok elszámolásaival összefüggésben,
 
 b) 15. § (2) bekezdését a 2011–2012-es támogatási időszaktól jóváhagyott sportfejlesztési programokkal összefüggésben,
 
@@ -78,9 +78,9 @@ c) 10. § (2), (3a) és (3b) bekezdését a 2011–2012-es támogatási időszak
 
 is alkalmazni kell.
 
-(22)[^227] E rendeletnek a Módr6.-tal megállapított 11. § (1b) bekezdését első alkalommal a 2017–2018-as támogatási időszakban kell alkalmazni.
+(22)[^232] E rendeletnek a Módr6.-tal megállapított 11. § (1b) bekezdését első alkalommal a 2017–2018-as támogatási időszakban kell alkalmazni.
 
-(23)[^228] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 367/2017. (XII. 6.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 10. § (1), (2), (4), (5) és (6) bekezdést a Módr7. hatálybalépését[^229] megelőzően
+(23)[^233] A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 367/2017. (XII. 6.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 10. § (1), (2), (4), (5) és (6) bekezdést a Módr7. hatálybalépését[^234] megelőzően
 
 a) keletkezett támogatási jogviszonyokra,
 
@@ -90,112 +90,112 @@ c) benyújtott módosítási kérelmek alapján indult és a Módr7. hatálybal�
 
 is alkalmazni kell.
 
-(24)[^230] E rendeletnek a filmalkotások és a látvány-csapatsportok társasági adón keresztül történő támogatási keretösszegének megállapításáról, valamint a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 318/2018. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 2. § (1) bekezdés 9. pont c) alpontját, 2. § (6) bekezdését, 6. § (3) bekezdését, 7. § (2a) bekezdését, 10. § (1a), (6) és (6a) bekezdését, 11. § (1a)–(1c) és (4) bekezdését, 13. § (2), (4), (4a) bekezdését, 14. § (13) és (14) bekezdését, 15/A. § (1) bekezdését, 15/B. §-át, 15/C. § (1) és (2) bekezdését, 5/D. és 5/E. alcímét a Módr8. hatálybalépésekor[^231] folyamatban lévő sportfejlesztési programok megvalósítása, le nem zárt elszámolások ellenőrzése és eljárások vonatkozásában is alkalmazni kell.
+(24)[^235] E rendeletnek a filmalkotások és a látvány-csapatsportok társasági adón keresztül történő támogatási keretösszegének megállapításáról, valamint a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 318/2018. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr8.) megállapított 2. § (1) bekezdés 9. pont c) alpontját, 2. § (6) bekezdését, 6. § (3) bekezdését, 7. § (2a) bekezdését, 10. § (1a), (6) és (6a) bekezdését, 11. § (1a)–(1c) és (4) bekezdését, 13. § (2), (4), (4a) bekezdését, 14. § (13) és (14) bekezdését, 15/A. § (1) bekezdését, 15/B. §-át, 15/C. § (1) és (2) bekezdését, 5/D. és 5/E. alcímét a Módr8. hatálybalépésekor[^236] folyamatban lévő sportfejlesztési programok megvalósítása, le nem zárt elszámolások ellenőrzése és eljárások vonatkozásában is alkalmazni kell.
 
-(25)[^232] E rendeletnek a Módr8.-cal megállapított 2. § (1) bekezdés 3. pont a)–e) alpontját, 13–18. pontját, (3a)–(3d), (6), (6a), (7) bekezdését, 4. § (2) bekezdés a) pontját, 14. § (4b) bekezdését első alkalommal a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyására, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
+(25)[^237] E rendeletnek a Módr8.-cal megállapított 2. § (1) bekezdés 3. pont a)–e) alpontját, 13–18. pontját, (3a)–(3d), (6), (6a), (7) bekezdését, 4. § (2) bekezdés a) pontját, 14. § (4b) bekezdését első alkalommal a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyására, valamint az igazolás, támogatási igazolás kiállítására irányuló kérelmek benyújtásával összefüggésben kell alkalmazni.
 
-(26)[^233] E rendeletnek a Módr8.-cal megállapított 11. § (1) bekezdését a kiegészítő sportfejlesztési támogatás összegének felhasználásáról történő elszámolással összefüggésben első alkalommal a 2019–2020-as támogatási időszakra jóváhagyott sportfejlesztési programok vonatkozásában kell alkalmazni.
+(26)[^238] E rendeletnek a Módr8.-cal megállapított 11. § (1) bekezdését a kiegészítő sportfejlesztési támogatás összegének felhasználásáról történő elszámolással összefüggésben első alkalommal a 2019–2020-as támogatási időszakra jóváhagyott sportfejlesztési programok vonatkozásában kell alkalmazni.
 
-(27)[^234] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 40/2019. (III. 7.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 15/C. § (3a) bekezdését a Módr9. hatálybalépésekor[^235] folyamatban lévő ügyekben is alkalmazni kell.
+(27)[^239] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 40/2019. (III. 7.) Korm. rendelettel (a továbbiakban: Módr9.) megállapított 15/C. § (3a) bekezdését a Módr9. hatálybalépésekor[^240] folyamatban lévő ügyekben is alkalmazni kell.
 
 (28) E rendeletnek a Módr8.-cal megállapított 2. § (1) bekezdés 19. pontját, 2. § (9) bekezdését, 15. § (3a) és (3b) bekezdését, valamint a Módr9.-cel megállapított 11. § (1d) és (1e) bekezdését, valamint 1. mellékletét a 2019–2020-as támogatási időszaktól kell alkalmazni.
 
 (29) E rendeletnek a Módr9.-cel megállapított 4. § (3a) és (6) bekezdését, 6. § (1a) bekezdését, 10. § (6b) bekezdését és 14. § (6b) bekezdését a 2019. január 1-jén folyamatban lévő és az azt követően indult ügyekben kell alkalmazni.
 
-(30)[^236] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet, valamint a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosításáról szóló 314/2019. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr10. hatálybalépésekor[^237] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
+(30)[^241] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet, valamint a kulturális örökség védelmével kapcsolatos szabályokról szóló 68/2018. (IV. 9.) Korm. rendelet módosításáról szóló 314/2019. (XII. 18.) Korm. rendelettel (a továbbiakban: Módr10.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr10. hatálybalépésekor[^242] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
-(31)[^238] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 25/2020. (II. 25.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr11. hatálybalépésekor[^239] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
+(31)[^243] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 25/2020. (II. 25.) Korm. rendelettel (a továbbiakban: Módr11.) megállapított rendelkezéseit a 2019–2020-as támogatási időszakra benyújtott sportfejlesztési program jóváhagyása vonatkozásában, és a Módr11. hatálybalépésekor[^244] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
-(32)[^240] E rendeletnek a veszélyhelyzet megszűnésével összefüggő átmeneti kormányrendeleti szabályokról szóló 284/2020. (VI. 17.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 14. § (4) és (4b) bekezdését a Módr12. hatálybalépésekor[^241] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
+(32)[^245] E rendeletnek a veszélyhelyzet megszűnésével összefüggő átmeneti kormányrendeleti szabályokról szóló 284/2020. (VI. 17.) Korm. rendelettel (a továbbiakban: Módr12.) megállapított 14. § (4) és (4b) bekezdését a Módr12. hatálybalépésekor[^246] folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
-(33)[^242] A támogatott szervezet valamennyi, a 2019–20-as támogatási időszakban folyamatban lévő sportfejlesztési program elszámolása során a Tao. tv. 22/C. § (4c) bekezdésére tekintettel a sportfejlesztési program módosítása nélkül jogosult – kivéve az ingatlanra irányuló tárgyi eszköz beruházás, felújítás jogcímet érintően – a támogatási időszakban felmerült költségei vonatkozásban a lehívott, de fel nem használt támogatásnak a támogatáshoz tartozó jogcímen belüli saját forrásra történő felhasználására az ellenőrző szervezet által az elszámolási útmutatóban meghatározott szabályok szerint.
+(33)[^247] A támogatott szervezet valamennyi, a 2019–20-as támogatási időszakban folyamatban lévő sportfejlesztési program elszámolása során a Tao. tv. 22/C. § (4c) bekezdésére tekintettel a sportfejlesztési program módosítása nélkül jogosult – kivéve az ingatlanra irányuló tárgyi eszköz beruházás, felújítás jogcímet érintően – a támogatási időszakban felmerült költségei vonatkozásban a lehívott, de fel nem használt támogatásnak a támogatáshoz tartozó jogcímen belüli saját forrásra történő felhasználására az ellenőrző szervezet által az elszámolási útmutatóban meghatározott szabályok szerint.
 
-(34)[^243] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 723/2020. (XII. 31.) Korm. rendelettel megállapított 14. § (12) bekezdését első alkalommal a 2019–2020-as támogatási időszakra jóváhagyott sportfejlesztési programokkal összefüggésben kell alkalmazni.
+(34)[^248] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 723/2020. (XII. 31.) Korm. rendelettel megállapított 14. § (12) bekezdését első alkalommal a 2019–2020-as támogatási időszakra jóváhagyott sportfejlesztési programokkal összefüggésben kell alkalmazni.
 
-(35)[^244] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 253/2021. (V. 17.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 11. § (7) bekezdését és 15/C. § (6) bekezdését a Módr13. hatálybalépésekor[^245] folyamatban lévő ügyekben is alkalmazni kell.
+(35)[^249] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 253/2021. (V. 17.) Korm. rendelettel (a továbbiakban: Módr13.) megállapított 11. § (7) bekezdését és 15/C. § (6) bekezdését a Módr13. hatálybalépésekor[^250] folyamatban lévő ügyekben is alkalmazni kell.
 
-(36)[^246] E rendeletnek a látvány-csapatsportok támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 397/2021. (VII. 6.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 10. § (2c) bekezdését a Módr14. hatálybalépésekor[^247] folyamatban lévő ügyekben is alkalmazni kell.
+(36)[^251] E rendeletnek a látvány-csapatsportok támogatásával összefüggő egyes kormányrendeletek módosításáról szóló 397/2021. (VII. 6.) Korm. rendelettel (a továbbiakban: Módr14.) megállapított 10. § (2c) bekezdését a Módr14. hatálybalépésekor[^252] folyamatban lévő ügyekben is alkalmazni kell.
 
-(37)[^248] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 89/2022. (III. 7.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 10. § (6) bekezdését, 11. § (5) bekezdését, 14. § (4c), (6), (6c) és (9a) bekezdését a Módr15. hatálybalépésekor[^249] folyamatban lévő sportfejlesztési programok megvalósítása és ellenőrzése során is alkalmazni kell.
+(37)[^253] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 89/2022. (III. 7.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 10. § (6) bekezdését, 11. § (5) bekezdését, 14. § (4c), (6), (6c) és (9a) bekezdését a Módr15. hatálybalépésekor[^254] folyamatban lévő sportfejlesztési programok megvalósítása és ellenőrzése során is alkalmazni kell.
 
-(38)[^250] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 631/2023. (XII. 23.) Korm. rendelet (a továbbiakban: Módr16.)
+(38)[^255] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 631/2023. (XII. 23.) Korm. rendelet (a továbbiakban: Módr16.)
 
 a) 1. §-ával megállapított 2. § (10) bekezdését és a Módr16. 4. § (2) bekezdésével megállapított 11. § (1d) bekezdését első alkalommal a 2024–2025-ös támogatási időszakra jóváhagyott sportfejlesztési programok megvalósítása során kell alkalmazni,
 
 b) 3. §-ával megállapított 10. § (2) bekezdését a Módr16. hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása során is alkalmazni kell.
 
-(39)[^251] E rendeletnek a Módr16. 5. §-ával megállapított 14. § (4), (4b), (4d), (4e) és (8) bekezdését, valamint a Módr16. 6. §-ával megállapított 15. § (4)–(6) bekezdését a Módr16. hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása és ellenőrzése során is alkalmazni kell.
+(39)[^256] E rendeletnek a Módr16. 5. §-ával megállapított 14. § (4), (4b), (4d), (4e) és (8) bekezdését, valamint a Módr16. 6. §-ával megállapított 15. § (4)–(6) bekezdését a Módr16. hatálybalépésekor folyamatban lévő sportfejlesztési programok megvalósítása és ellenőrzése során is alkalmazni kell.
 
-(40)[^252] E rendeletnek a Módr16. 5. §-ával megállapított 14. § (4d) bekezdése szerinti kérelem benyújtására a Módr16. hatálybalépését követő 30 napos jogvesztő határidőn belül van lehetőség.
+(40)[^257] E rendeletnek a Módr16. 5. §-ával megállapított 14. § (4d) bekezdése szerinti kérelem benyújtására a Módr16. hatálybalépését követő 30 napos jogvesztő határidőn belül van lehetőség.
 
-(41)[^253] E rendeletnek a Módr16. 5. §-ával megállapított (4d) és (4e) bekezdését a (40) bekezdés szerint benyújtott kérelmek elbírálása során alkalmazni kell.
+(41)[^258] E rendeletnek a Módr16. 5. §-ával megállapított (4d) és (4e) bekezdését a (40) bekezdés szerint benyújtott kérelmek elbírálása során alkalmazni kell.
 
-(42)[^254] E rendeletnek a Módr16. 8. §-ával megállapított 14. § (4) és (4b) bekezdését első alkalommal a 2024–2025-ös támogatási időszakra jóváhagyott sportfejlesztési programok megvalósítása során kell alkalmazni.
+(42)[^259] E rendeletnek a Módr16. 8. §-ával megállapított 14. § (4) és (4b) bekezdését első alkalommal a 2024–2025-ös támogatási időszakra jóváhagyott sportfejlesztési programok megvalósítása során kell alkalmazni.
 
-(43)[^255] E rendeletnek a Módr16. 9. §-ával hatályon kívül helyezett 11. § (1e) bekezdését és 14. § (4c) bekezdését a Módr16. hatálybalépésekor folyamatban lévő sportfejlesztési programokban alkalmazni kell.
+(43)[^260] E rendeletnek a Módr16. 9. §-ával hatályon kívül helyezett 11. § (1e) bekezdését és 14. § (4c) bekezdését a Módr16. hatálybalépésekor folyamatban lévő sportfejlesztési programokban alkalmazni kell.
 
-[^191]: A 16. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 568. §-a hatályon kívül helyezte.
-[^192]: A 16. § (3a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 7. §-a iktatta be.
-[^193]: A hatálybalépés időpontja 2011. december 17.
-[^194]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 76/2012. (IV. 13.) Korm. rendelet 8. §-a iktatta be.
-[^195]: A hatálybalépés időpontja 2012. április 14.
-[^196]: A hatálybalépés időpontja 2012. április 14.
-[^197]: A 16. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 134/2013. (V. 9.) Korm. rendelet 11. §-a iktatta be.
-[^198]: A hatálybalépés időpontja 2013. május 10.
-[^199]: A hatálybalépés időpontja 2013. május 10.
-[^200]: A 16. § (6) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^201]: A hatálybalépés napja: 2014. január 1.
-[^202]: A 16. § (7) bekezdését újonnan a 128/2017. (VI. 8.) Korm. rendelet 3. §-a iktatta be.
-[^203]: A hatálybalépés időpontja 2017. június 9.
-[^204]: A 16. § (8)–(9) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 568. §-a.
-[^205]: A 16. § (10) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be.
-[^206]: A 16. § (11) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be.
-[^207]: A 16. § (12) bekezdését a 75/2014. (III. 13.) Korm. rendelet 2. §-a iktatta be.
-[^208]: A hatálybalépés időpontja 2014. március 14.
-[^209]: A 16. § (13) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
-[^210]: A hatálybalépés időpontja 2015. június 30.
-[^211]: A 16. § (14) bekezdését a 96/2016. (V. 2.) Korm. rendelet 8. §-a iktatta be.
-[^212]: A 16. § (15) bekezdését a 96/2016. (V. 2.) Korm. rendelet 8. §-a iktatta be.
-[^213]: A hatálybalépés időpontja 2016. május 3.
-[^214]: A hatálybalépés időpontja 2016. május 3.
-[^215]: A hatálybalépés időpontja 2016. május 3.
-[^216]: A hatálybalépés időpontja 2016. május 3.
-[^217]: A hatálybalépés időpontja 2016. május 3.
+[^196]: A 16. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 568. §-a hatályon kívül helyezte.
+[^197]: A 16. § (3a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^198]: A hatálybalépés időpontja 2011. december 17.
+[^199]: A 16. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 76/2012. (IV. 13.) Korm. rendelet 8. §-a iktatta be.
+[^200]: A hatálybalépés időpontja 2012. április 14.
+[^201]: A hatálybalépés időpontja 2012. április 14.
+[^202]: A 16. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 134/2013. (V. 9.) Korm. rendelet 11. §-a iktatta be.
+[^203]: A hatálybalépés időpontja 2013. május 10.
+[^204]: A hatálybalépés időpontja 2013. május 10.
+[^205]: A 16. § (6) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^206]: A hatálybalépés napja: 2014. január 1.
+[^207]: A 16. § (7) bekezdését újonnan a 128/2017. (VI. 8.) Korm. rendelet 3. §-a iktatta be.
+[^208]: A hatálybalépés időpontja 2017. június 9.
+[^209]: A 16. § (8)–(9) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 568. §-a.
+[^210]: A 16. § (10) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be.
+[^211]: A 16. § (11) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (15) bekezdése iktatta be.
+[^212]: A 16. § (12) bekezdését a 75/2014. (III. 13.) Korm. rendelet 2. §-a iktatta be.
+[^213]: A hatálybalépés időpontja 2014. március 14.
+[^214]: A 16. § (13) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 2. §-a iktatta be.
+[^215]: A hatálybalépés időpontja 2015. június 30.
+[^216]: A 16. § (14) bekezdését a 96/2016. (V. 2.) Korm. rendelet 8. §-a iktatta be.
+[^217]: A 16. § (15) bekezdését a 96/2016. (V. 2.) Korm. rendelet 8. §-a iktatta be.
 [^218]: A hatálybalépés időpontja 2016. május 3.
-[^219]: A 16. § (16) bekezdését a 141/2016. (VI. 13.) Korm. rendelet 3. §-a iktatta be.
-[^220]: A hatálybalépés időpontja 2016. június 14.
-[^221]: A 16. § (17) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^222]: A 16. § (18) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^223]: A 16. § (19) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^224]: A 16. § (20) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^225]: A 16. § (21) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^226]: A hatálybalépés időpontja 2017. június 29.
-[^227]: A 16. § (22) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^228]: A 16. § (23) bekezdését a 367/2017. (XII. 6.) Korm. rendelet 2. §-a iktatta be.
-[^229]: A hatálybalépés időpontja 2017. december 7.
-[^230]: A 16. § (24) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be, szövege a 40/2019. (III. 7.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^231]: A hatálybalépés időpontja 2019. január 1.
-[^232]: A 16. § (24) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
-[^233]: A 16. § (26) bekezdését a 40/2019. (III. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 723/2020. (XII. 31.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
-[^234]: A 16. § (27) bekezdését a 40/2019. (III. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^235]: A hatálybalépés időpontja 2019. március 8.
-[^236]: A 16. § (30) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^237]: A hatálybalépés időpontja: 2019. december 19.
-[^238]: A 16. § (31) bekezdését a 25/2020. (II. 25.) Korm. rendelet 6. §-a iktatta be.
-[^239]: A hatálybalépés időpontja 2020. február 26.
-[^240]: A 16. § (32) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 43. §-a iktatta be.
-[^241]: A hatálybalépés időpontja 2020. június 18.
-[^242]: A 16. § (33) bekezdését a 723/2020. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^243]: A 16. § (34) bekezdését a 723/2020. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
-[^244]: A 16. § (35) bekezdését a 253/2021. (V. 17.) Korm. rendelet 2. §-a iktatta be.
-[^245]: A hatálybalépés időpontja 2021. május 25.
-[^246]: A 16. § (36) bekezdését a 397/2021. (VII. 6.) Korm. rendelet 2. §-a iktatta be.
-[^247]: A hatálybalépés időpontja 2021. július 7.
-[^248]: A 16. § (37) bekezdését a 89/2022. (III. 7.) Korm. rendelet 3. §-a iktatta be.
-[^249]: A hatálybalépés időpontja 2022. március 10.
-[^250]: A 16. § (38) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^251]: A 16. § (39) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^252]: A 16. § (40) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^253]: A 16. § (41) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^254]: A 16. § (42) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
-[^255]: A 16. § (43) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^219]: A hatálybalépés időpontja 2016. május 3.
+[^220]: A hatálybalépés időpontja 2016. május 3.
+[^221]: A hatálybalépés időpontja 2016. május 3.
+[^222]: A hatálybalépés időpontja 2016. május 3.
+[^223]: A hatálybalépés időpontja 2016. május 3.
+[^224]: A 16. § (16) bekezdését a 141/2016. (VI. 13.) Korm. rendelet 3. §-a iktatta be.
+[^225]: A hatálybalépés időpontja 2016. június 14.
+[^226]: A 16. § (17) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^227]: A 16. § (18) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^228]: A 16. § (19) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^229]: A 16. § (20) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^230]: A 16. § (21) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^231]: A hatálybalépés időpontja 2017. június 29.
+[^232]: A 16. § (22) bekezdését a 164/2017. (VI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^233]: A 16. § (23) bekezdését a 367/2017. (XII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^234]: A hatálybalépés időpontja 2017. december 7.
+[^235]: A 16. § (24) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be, szövege a 40/2019. (III. 7.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^236]: A hatálybalépés időpontja 2019. január 1.
+[^237]: A 16. § (24) bekezdését a 318/2018. (XII. 27.) Korm. rendelet 17. §-a iktatta be.
+[^238]: A 16. § (26) bekezdését a 40/2019. (III. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 723/2020. (XII. 31.) Korm. rendelet 7. § j) pontja szerint módosított szöveg.
+[^239]: A 16. § (27) bekezdését a 40/2019. (III. 7.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^240]: A hatálybalépés időpontja 2019. március 8.
+[^241]: A 16. § (30) bekezdését a 314/2019. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^242]: A hatálybalépés időpontja: 2019. december 19.
+[^243]: A 16. § (31) bekezdését a 25/2020. (II. 25.) Korm. rendelet 6. §-a iktatta be.
+[^244]: A hatálybalépés időpontja 2020. február 26.
+[^245]: A 16. § (32) bekezdését a 284/2020. (VI. 17.) Korm. rendelet 43. §-a iktatta be.
+[^246]: A hatálybalépés időpontja 2020. június 18.
+[^247]: A 16. § (33) bekezdését a 723/2020. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^248]: A 16. § (34) bekezdését a 723/2020. (XII. 31.) Korm. rendelet 6. §-a iktatta be.
+[^249]: A 16. § (35) bekezdését a 253/2021. (V. 17.) Korm. rendelet 2. §-a iktatta be.
+[^250]: A hatálybalépés időpontja 2021. május 25.
+[^251]: A 16. § (36) bekezdését a 397/2021. (VII. 6.) Korm. rendelet 2. §-a iktatta be.
+[^252]: A hatálybalépés időpontja 2021. július 7.
+[^253]: A 16. § (37) bekezdését a 89/2022. (III. 7.) Korm. rendelet 3. §-a iktatta be.
+[^254]: A hatálybalépés időpontja 2022. március 10.
+[^255]: A 16. § (38) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^256]: A 16. § (39) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^257]: A 16. § (40) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^258]: A 16. § (41) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^259]: A 16. § (42) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
+[^260]: A 16. § (43) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 7. §-a iktatta be.
