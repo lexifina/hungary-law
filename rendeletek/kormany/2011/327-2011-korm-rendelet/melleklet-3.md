@@ -1,4 +1,4 @@
-3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^196]
+3. melléklet a 327/2011. (XII. 29.) Korm. rendelethez[^197]
 
 Az akkreditációhoz szükséges működtetési feltételek
 
@@ -70,4 +70,4 @@ III. A rehabilitációs szolgáltatási terv
 
 2.10.5. egyéb.
 
-[^196]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
+[^197]: A 3. mellékletet a 117/2016. (VI. 6.) Korm. rendelet 15. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 187. § (10) bekezdés n) pontja szerint módosított szöveg.
