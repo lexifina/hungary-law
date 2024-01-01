@@ -36,8 +36,4 @@ vonhat be.
 
 (8a) Az állami elhelyezési célú ingatlanokat érintő (8) bekezdés szerinti feladatok ellátásába bevont személyek vagy szervezetek jogosultak bontással járó munkálatok elvégzésére és az MNV Zrt. mindenkor hatályos selejtezési szabályzata alapján selejtezésre, a vissznyereményi anyag felújítás, beruházás során történő felhasználására, beépítésére. A (8) bekezdés szerint bevont szervezet a selejtezés műszaki és gazdasági megalapozottságáért, alátámasztottságáért teljes és kizárólagos felelősséggel tartozik, továbbá köteles a selejtezéséből származó hulladékok megsemmisítésére, valamint hulladékgyűjtő helyen történő elhelyezésére.
 
-(9) E § alkalmazásában állami elhelyezési célú ingatlannak minősül:
-
-a) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott, többségében irodai funkciót ellátó, Magyarország területén található, az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény 11–13. §-a szerinti önálló ingatlan, ahol az ingatlanon fekvő összes építmény valamennyi helyiségét együttesen figyelembe véve megállapítható, hogy azok – hasznos alapterületük összessége alapján számított – többsége irodai rendeltetésű vagy azok tényleges hasznosítása irodai célokat szolgál,
-
-b) a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv részére állami elhelyezési célú ingatlanhasználati jogviszony keretében használatba adott olyan oktatási, üdültetési vagy egyéb rekreációs célt szolgáló, Magyarország területén található ingatlan, amely nem a költségvetési szerv szakmai alapfeladataként meghatározott tevékenység ellátását biztosítja.
+(9)

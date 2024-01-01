@@ -1,0 +1,9 @@
+28/B. § (1) Ha az Áht. 11/B. § (2) bekezdése alapján a Kormány irányítása vagy felügyelete alá tartozó – az Áht. 11/A. § (2) bekezdése szerinti kormányrendeletben meghatározott feladatot átvevő – költségvetési szerv elhelyezési célú ingatlan vagyonkezelői jogát szerzi meg, erről az Áht. 11/B. § (6) bekezdése szerinti záró beszámoló elkészítésével egyidejűleg tájékoztatja az MNV Zrt.-t.
+
+(2) Az MNV Zrt. az (1) bekezdés szerinti ingatlanra vonatkozóan állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, és kiállítja a 28/A. § (2) bekezdése szerinti kijelölő okiratot. A kijelölő okirat kiállításával egyidejűleg az érintett ingatlan vonatkozásában az Áht. 11/B. § (2) bekezdése szerint létrejött vagyonkezelői jog e törvény erejénél fogva megszűnik. Az MNV Zrt. egyoldalú nyilatkozatát tartalmazó, a megszűnt vagyonkezelői jog ingatlan-nyilvántartásból való törlésére irányuló kérelemben – az érintett ingatlan helyrajzi számának megjelölése mellett – kizárólag e törvénynek a vagyonkezelői jog megszűnésére vonatkozó rendelkezésére kell hivatkozni, további dokumentum benyújtása nem szükséges.
+
+(3) Az (1) bekezdés szerinti ingatlannal kapcsolatos jogviszonyokban – kormányrendeletben meghatározott kivétellel – a kijelölés kezdő napjával az MNV Zrt. jogutódként belép.
+
+(4) Az MNV Zrt. a (3) bekezdés szerint bekövetkező jogutódlásról annak beálltát követő tizenöt napon belül írásban értesíti a jogviszonyban érintett harmadik személyt. Az MNV Zrt., valamint a harmadik személy jogosult a jogutódlásról szóló értesítés harmadik személy által történő kézhezvételétől számított kilencven napon belül felmondani azon szerződéseket, amelyekbe a (3) bekezdés alapján jogutódként az MNV Zrt. belépett.
+
+(5) A (2) bekezdés szerint létrejött állami elhelyezési célú ingatlanhasználati jogviszonyra egyebekben e törvény és az e törvény végrehajtására kiadott rendelet rendelkezéseit kell alkalmazni.

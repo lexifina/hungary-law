@@ -1,5 +1,3 @@
-## Központi költségvetési szervek vagyongazdálkodására vonatkozó szabályok
-
 28. § (1) A központi költségvetési szerv a működéséhez szükséges – a az Nvtv. 11. § (6) bekezdésében foglalt vagyontárgyakon kívüli – állami vagyon összetételét és mértékét az állami vagyon használatát biztosító szerződés megkötése előtt, illetve folyamatosan közli az MNV Zrt.-vel, amely az igényeket az állam teherbíró képességéhez igazodva, a társadalmi szükségletek, a célszerűség és a gazdaságosság szempontjai figyelembevételével elégíti ki.
 
 (2)
