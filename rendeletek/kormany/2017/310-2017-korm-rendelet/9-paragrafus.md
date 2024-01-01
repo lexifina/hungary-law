@@ -1,10 +1,10 @@
 ## 2. A Kincstár államháztartási feladataival összefüggő rendelkezések
 
-9. § (1)[^12] A Kormány az Áht. 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
+9. § (1)[^13] A Kormány az Áht. 109. § (2) bekezdés a) pontja szerinti szervként a Kincstárt jelöli ki.
 
-(2)[^13] A Kincstár az Áht.-ban és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott feladatai körében
+(2)[^14] A Kincstár az Áht.-ban és az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben meghatározott feladatai körében
 
-a)[^14] vezeti a központi költségvetés előirányzat nyilvántartási rendszerét, gondoskodik az államháztartás központi alrendszerébe tartozó költségvetési szervek által a követeléseikről, a kötelezettségvállalásaikról és más fizetési kötelezettségeikről szolgáltatott adatok nyilvántartásáról, előirányzati fedezetvizsgálatot, valamint jogszabályban meghatározott egyéb ellenőrzési feladatokat lát el;
+a)[^15] vezeti a központi költségvetés előirányzat nyilvántartási rendszerét, gondoskodik az államháztartás központi alrendszerébe tartozó költségvetési szervek által a követeléseikről, a kötelezettségvállalásaikról és más fizetési kötelezettségeikről szolgáltatott adatok nyilvántartásáról, előirányzati fedezetvizsgálatot, valamint jogszabályban meghatározott egyéb ellenőrzési feladatokat lát el;
 
 b) közreműködik az államháztartás alrendszereinek finanszírozásában;
 
@@ -28,15 +28,15 @@ k) végzi a zárszámadás előkészítésével kapcsolatos ügyviteli, nyilván
 
 l) ellátja a kezelésében lévő adatok tekintetében a közérdekű adatok igénylésével összefüggő feladatokat;
 
-m)[^15] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat;
+m)[^16] külön megállapodás alapján ellátja az Ávr. 9. § (2a) bekezdésében megjelölt feladatokat;
 
-n)[^16] működteti a törzsadat-nyilvántartást.
+n)[^17] működteti a törzsadat-nyilvántartást.
 
-(3)[^17] A (2) bekezdés n) pontja szerinti feladat ellátása során a törzsadat-nyilvántartás működtetését adatkezelőként a Kincstár végzi, a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. mint adatfeldolgozó közreműködésével.
+(3)[^18] A (2) bekezdés n) pontja szerinti feladat ellátása során a törzsadat-nyilvántartás működtetését adatkezelőként a Kincstár végzi, a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. mint adatfeldolgozó közreműködésével.
 
-[^12]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^13]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
-[^14]: A 9. § (2) bekezdés a) pontja a 801/2021. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
-[^15]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 445/2020. (X. 1.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
-[^16]: A 9. § (2) bekezdés n) pontját a 445/2020. (X. 1.) Korm. rendelet 22. § (1) bekezdése iktatta be.
-[^17]: A 9. § (3) bekezdését a 445/2020. (X. 1.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^13]: A 9. § (1) bekezdése a 207/2018. (XI. 10.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^14]: [A 9. § (2) bekezdés nyitó szövegrészében a 207/2018. (XI. 10.) Korm. rendelet 4. § b) pontjával elrendelt módosítás, amely szerint az „államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletben (a továbbiakban: Ávr.)” szövegrész helyébe az „Ávr.-ben” szöveg lép, nem vezethető át.]
+[^15]: A 9. § (2) bekezdés a) pontja a 801/2021. (XII. 28.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^16]: A 9. § (2) bekezdés m) pontját a 207/2018. (XI. 10.) Korm. rendelet 3. §-a iktatta be, szövege a 445/2020. (X. 1.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^17]: A 9. § (2) bekezdés n) pontját a 445/2020. (X. 1.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^18]: A 9. § (3) bekezdését a 445/2020. (X. 1.) Korm. rendelet 22. § (2) bekezdése iktatta be.

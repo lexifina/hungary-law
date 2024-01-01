@@ -8,7 +8,10 @@
 
 (4) A területi szervet igazgató vezeti. Az igazgató tevékenységét igazgatóhelyettes segítheti.
 
-(5)[^5] A Kincstár elnöke a 9. § (2) bekezdés e) és f) pontja szerinti feladatok ellátását az (1) és (2) bekezdésben, valamint az 1. mellékletben foglaltaktól eltérően szabályozhatja, amelyről a 9. § (2) bekezdés f) pontja szerinti feladatok tekintetében köteles az érintett intézményt előzetesen tájékoztatni, valamint e szabályokat a Kincstár honlapján közzétenni.
+(5)[^5] A Kincstárnak a 9. § (2) bekezdés f) pontban meghatározott feladataihoz kapcsolódó ügyekben országos illetékességgel a Kincstár központi szerve jár el.
+
+(6)[^6] A Kincstár elnöke a közigazgatási hatósági ügyek körébe nem tartozó feladatok ellátását az államháztartásért felelős miniszter egyetértésével az (1) és (2) bekezdésben, valamint az 1. mellékletben foglaltaktól eltérően szabályozhatja.
 
 [^4]: A 7. § (1a) bekezdését a 282/2019. (XI. 27.) Korm. rendelet 25. §-a iktatta be, szövege a 480/2022. (XI. 28.) Korm. rendelet 22. § 1. pontja szerint módosított szöveg.
-[^5]: A 7. § (5) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 86. §-a iktatta be, szövege a 282/2019. (XI. 27.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^5]: A 7. § (5) bekezdését a 475/2017. (XII. 28.) Korm. rendelet 86. §-a iktatta be, szövege az 560/2023. (XII. 14.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^6]: A 7. § (6) bekezdését az 560/2023. (XII. 14.) Korm. rendelet 18. § (2) bekezdése iktatta be.
