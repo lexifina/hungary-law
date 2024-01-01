@@ -1,0 +1,1 @@
+1. § A növényi és állati eredetű élelmiszerekben és takarmányokban, illetve azok felületén található megengedett növényvédőszer-maradékok határértékéről, valamint ezek hatósági ellenőrzéséről szóló 66/2010. (V. 12.) FVM rendelet 11. § (2) bekezdésében a „hirdetőtábláján” szövegrész helyébe a „honlapján” szöveg lép.
