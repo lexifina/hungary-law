@@ -26,7 +26,7 @@ c) rendeletben szabályozza
 
 5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait,
 
-6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, érvénytelenítésére, valamint az értük fizetendő költségtérítés mértékére vonatkozó szabályokat,
+6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, valamint érvénytelenítésére vonatkozó szabályokat,
 
 7. a vadászkutya használatának, valamint vizsgáztatásának szabályait,
 
