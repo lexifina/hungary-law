@@ -1,3 +1,1 @@
-5. §[^1]
-
-[^1]: Az 5. § a 4. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+5. § Hatályát veszti a koncesszori alvállalkozók indokolt költségei mértékének megállapításáról szóló 4/2023. (IV. 6.) MEKH rendelet.
