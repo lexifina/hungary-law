@@ -4,4 +4,4 @@
 
 (3) A 2018. évi CXXXVI. törvénnyel megállapított 101. és 102. §-t a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő azon eljárásokban – a megismételt eljárásokat is ideértve – is alkalmazni kell, amelyek esetében a mezőgazdasági igazgatási szerv még nem kereste meg a helyi földbizottságot az állásfoglalása kiadása céljából.
 
-(4) A 2018. évi CXXXVI. törvénnyel megállapított 108. § (4) és (5) bekezdését a 2018. évi CXXXVI. törvény hatályba lépésekor folyamatban lévő eljárásokban is alkalmazni kell.
+(4)

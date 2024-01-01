@@ -1,10 +1,4 @@
-32. § (1) Ha a jogügylet érvényességi feltétele a közeli hozzátartozói viszony fennállása, akkor a szerző félnek
-
-a) a 30. § (3) bekezdésében meghatározott esetben a mezőgazdasági igazgatási szerv erre irányuló felhívására,
-
-b) a 30. § (4) bekezdésében meghatározott esetben a jogügylet hatósági jóváhagyása iránti kérelméhez
-
-csatolnia kell a legalább teljes bizonyító erejű magánokiratba foglalt, az érintett természetes személyeknek 30 napnál nem régebbi olyan tartalmú közös nyilatkozatát, miszerint közöttük a Földforgalmi törvény szerinti közeli hozzátartozói viszony áll fenn.
+32. § (1) Ha a jogügylet érvényességi feltétele a közeli hozzátartozói viszony fennállása, akkor a szerző félnek a jogügylet hatósági jóváhagyása iránti kérelméhez csatolnia kell a legalább teljes bizonyító erejű magánokiratba foglalt, az érintett természetes személyeknek 30 napnál nem régebbi olyan tartalmú közös nyilatkozatát, hogy közöttük a Földforgalmi törvény szerinti közeli hozzátartozói viszony áll fenn.
 
 (2) Ha a szerző fél gazdálkodó szervezet – kivéve a cégnyilvántartásban nyilvántartott céget –, a kérelméhez csatolni kell
 

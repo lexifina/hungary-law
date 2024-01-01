@@ -4,7 +4,7 @@
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
-(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy személy részére kívánják átengedni.
+(2a)
 
 (3) A használati megosztáshoz való hozzájárulást megadottnak kell tekinteni az olyan tulajdonostárs esetében, akinek a részére a használati megosztásról szóló ajánlat vagy a tervezett megállapodás közlése
 

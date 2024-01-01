@@ -2,6 +2,10 @@
 
 (2) Az (1) bekezdés szerinti jogosultság gyakorlása, valamint a földhasznosítási kötelezettség teljesítése érdekében a tulajdonostársak – a 71. §-ban meghatározottak szerint – kötelesek a közös tulajdonban álló földön belül az egyes tulajdonostársak részére a tulajdoni hányaduknak megfelelő területek elhelyezkedését kijelölni (a továbbiakban: használati rend).
 
+(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy személy részére kívánják átengedni.
+
+(2b) Erdőnek minősülő földrészlet vagy erdőnek minősülő alrészletet tartalmazó földrészlet esetében a használati rendet úgy kell kialakítani, hogy az megfeleljen az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének. Ha az erdőnek minősülő földrészlet vagy az erdőnek minősülő alrészlet – a földrészleten belül több erdőnek minősülő alrészlet esetében azok egybefüggő területe – nem éri el az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésben meghatározott méretet, úgy annak használata a használati rendben nem osztható meg. Ha azért nem lehet kijelölni valamely tulajdonostárs részére erdőnek minősülő földrészlet vagy erdőnek minősülő alrészlet esetében a tulajdoni hányadának megfelelő területet, mert az nem felelne meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének, úgy a (2a) bekezdésben foglaltak szerint kell eljárni.
+
 (3) Az (1) bekezdésben foglaltakon túl a tulajdonostárs jogosult a használati rendben meghatározott terület egésze vagy ezen terület egy meghatározott része használati jogosultságának
 
 a) tulajdoni hányadot meghaladó mértékű többlethasználati megállapodással (a továbbiakban: többlethasználati megállapodás) másik tulajdonostárs vagy

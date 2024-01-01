@@ -26,4 +26,6 @@ b) pozitív különbözetéből számított gyarapodás értékét – ha a fele
 
 meg kell térítenie.
 
+(8a) A (8) bekezdésben foglaltakat nem kell alkalmazni, ha a haszonbérlet tárgya erdőnek nem minősülő föld és a szerződés lejártakor erdőnek nem minősülő földként kerül a haszonbérbe adó részére visszaadásra.
+
 (9) Az erdőgazdálkodási haszonbérleti szerződés lejártát követően az erdőt olyan állapotban kell visszaadni, hogy az erdőgazdálkodási tevékenység folytatható legyen.

@@ -6,7 +6,7 @@ a) a kényszerhasznosításnak a Földforgalmi törvényben előírt célját, �
 
 b) az arra vonatkozó figyelemfelhívást, hogy a kérelmet a hirdetmény közzétételétől számított 30 napon belül lehet benyújtani, melyben meg kell jelölni a kényszerhasznosítóként történő kijelölés esetén az általa művelni vállalt földek művelési ágát vagy művelési ágait és a földek fekvése szerinti járást vagy járásokat.
 
-(3) A hirdetmény közzétételének napja a hirdetménynek a mezőgazdasági igazgatási szerv hirdetőtáblájára való kifüggesztés napja.
+(3) A hirdetmény közzétételének napja a hirdetménynek a mezőgazdasági igazgatási szerv honlapján történő közzétételének a napja.
 
 (4) A mezőgazdasági igazgatási szerv a határidőben kérelmet előterjesztő földművesek és mezőgazdasági termelőszervezetek adatait – a kérelem benyújtásának határideje lejártát követő 15 napon belül – összesíti, és a kényszerhasznosítóként jelentkezés tényét a XIV. Fejezetben meghatározott nyilvántartásba a földműves, illetve a mezőgazdasági termelőszervezet adatai között feltünteti.
 

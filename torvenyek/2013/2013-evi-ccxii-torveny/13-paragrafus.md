@@ -30,7 +30,7 @@ bg) részéről eljáró meghatalmazott természetes személy családi és utón
 
 bh) bélyegzőjének lenyomatát.
 
-(2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl a tagsági azonosító számát is tartalmaznia kell a szerződésnek.
+(2) Ha a szerző fél tagja a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Kamara), akkor az (1) bekezdésben foglaltakon túl az agrárkamarai nyilvántartási számát is tartalmaznia kell a szerződésnek.
 
 (3) Ha a vevő maga is elővásárlási joggal rendelkezik és az adásvételi szerződésben nem nyilatkozik a részére szerződésben meghatározott elővásárlási jogról vagy törvényen fennálló elővásárlási joga esetében arról, hogy az mely törvényen és az ott meghatározott sorrend melyik ranghelyén illeti meg, akkor a sorrendben mögötte álló elővásárlásra jogosulttal szemben később e jogára nem hivatkozhat.
 

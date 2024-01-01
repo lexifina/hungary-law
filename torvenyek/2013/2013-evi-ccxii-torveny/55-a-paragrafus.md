@@ -1,4 +1,4 @@
-55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
+55/A. § (1) Ha a haszonbérlet célja a Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodás folytatása, igazolni kell, hogy az előhaszonbérletre jogosult gazdaság termelőként a haszonbérlet tárgyát képező föld valamely művelési ága szerinti művelési ágú föld vonatkozásában az ökológiai termelésre utaló kifejezés használatára jogosító ökológiai gazdálkodói tanúsítvánnyal rendelkezik.
 
 (2) A Földforgalmi törvény 46. § (3) bekezdés b) pontja szerinti ökológiai gazdálkodási célú előhaszonbérleti jog gyakorlása során az előhaszonbérleti jog jogosultjának a szerződésben vagy az elfogadó nyilatkozatban a jogutódra is kiterjedő hatállyal kötelezettséget kell vállalnia arra, hogy a haszonbérlet időtartama alatt az előhaszonbérleti joggal érintett föld teljes területén ökológiai gazdálkodást fog folytatni.
 

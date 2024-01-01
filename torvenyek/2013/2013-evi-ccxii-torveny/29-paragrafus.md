@@ -1,6 +1,6 @@
 29. § (1) A jogügylet hatósági jóváhagyása iránti eljárásban, az e feladatkörébe tartozó ügy elbírálása, ellenőrzése érdekében a mezőgazdasági igazgatási szerv részére
 
-a) az ingatlan-nyilvántartásból a tulajdoni lap másolatát,
+a) az ingatlan-nyilvántartásból a tulajdoni lap és a törzskönyv másolatát,
 
 b) a földhasználati nyilvántartásból a földhasználati lap másolatát és a földhasználati összesítőt,
 
