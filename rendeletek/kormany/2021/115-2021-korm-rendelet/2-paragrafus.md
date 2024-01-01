@@ -1,5 +1,3 @@
-## is kiterjed.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában

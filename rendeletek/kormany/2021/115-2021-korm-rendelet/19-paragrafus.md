@@ -10,7 +10,7 @@ ba) a 6. § b) pontja szerinti jogszabálysértés vagy
 
 bb) a 26–27. §-ban meghatározott adatszolgáltatási kötelezettség megsértése
 
-## miatt.
+miatt.
 
 (2) A tételes összegű munkaügyi bírságot – az (1) bekezdés b) pont bb) alpontja kivételével – a jogszabálysértéssel érintett foglalkoztatottanként, a minimálbér alapulvételével kell megállapítani.
 

@@ -12,7 +12,7 @@ b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges törv
 
 c) harmadik országbeli állampolgár foglalkoztatásának engedélyezésével kapcsolatos szabályok megsértése
 
-## esetén.
+esetén.
 
 (2) A foglalkoztatás-felügyeleti hatóság a jogszabálysértés megszüntetéséig megtiltja a jogszabálysértéssel érintett foglalkoztatott további foglalkoztatását, ha az a jogszabálysértés vagy várható következményeinek súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható.
 

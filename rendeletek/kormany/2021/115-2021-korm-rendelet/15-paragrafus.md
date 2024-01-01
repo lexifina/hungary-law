@@ -8,6 +8,6 @@ a) a jogszabálysértés súlyosságára tekintettel a jogszabálysértés sorá
 
 b) a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tartózkodása a közrendet, a közbiztonságot, a nemzetbiztonságot veszélyeztetheti, vagy közegészségügyi, járványügyi szempontból veszéllyel járhat,
 
-## a foglalkoztatás-felügyeleti hatóság a szükséges intézkedések megtétele céljából megkeresi a hatáskörrel rendelkező hatóságot.
+a foglalkoztatás-felügyeleti hatóság a szükséges intézkedések megtétele céljából megkeresi a hatáskörrel rendelkező hatóságot.
 
 (3) A foglalkoztatás-felügyeleti hatóság a (2) bekezdés szerint intézkedik, ha a külföldi foglalkoztató által harmadik személlyel kötött megállapodás alapján Magyarországra küldött foglalkoztatott számára biztosított szállás feltételeire vonatkozó ellenőrzés valószínűsíti a hatáskörrel rendelkező hatóság eljárásának szükségességét.

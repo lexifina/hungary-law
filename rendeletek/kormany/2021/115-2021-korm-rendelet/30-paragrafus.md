@@ -37,3 +37,5 @@ n) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keret
 o) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelvnek,
 
 p) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló, 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek
+
+való megfelelést szolgálja.

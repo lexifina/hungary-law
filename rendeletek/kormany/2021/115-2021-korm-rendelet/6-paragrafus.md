@@ -9,3 +9,5 @@ c) a külföldi állampolgár magyarországi foglalkoztatásának bejelentésér
 d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott, az érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély meglétére és másolatának megőrzésére vonatkozó kötelezettségek, valamint
 
 e) az Mt. hatálya alá nem tartozó foglalkoztató esetében a nemzetközi magánjog szabályai szerinti imperatív rendelkezések és az Mt. megállapodás útján eltérést nem engedő szabályainak
+
+megtartására terjed ki.

@@ -14,11 +14,11 @@ b) a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos élet
 
 c) a munka díjazására vonatkozó rendelkezéseket megsértette, ide nem értve a hatósági ellenőrzés megkezdésekor felszámolási vagy kényszertörlési eljárás alatt álló foglalkoztatót,
 
-d)[^4] a hatósági nyilvántartásba vétel hiányában folytatott munkaerő-kölcsönzésre irányuló tevékenységet,
+d)[^5] a hatósági nyilvántartásba vétel hiányában folytatott munkaerő-kölcsönzésre irányuló tevékenységet,
 
-e)[^5] a foglalkoztatásra irányuló jogviszony létesítésével összefüggő jognyilatkozatok alakszerűségének megsértésével színlelt szerződést kötött, vagy
+e)[^6] a foglalkoztatásra irányuló jogviszony létesítésével összefüggő jognyilatkozatok alakszerűségének megsértésével színlelt szerződést kötött, vagy
 
-f)[^6] minősített kölcsönbeadóként nem tett eleget
+f)[^7] minősített kölcsönbeadóként nem tett eleget
 
 fa) a harmadik országbeli állampolgárok foglalkoztatása során jogszabályban meghatározott, a harmadik országbeli állampolgár felé fennálló tájékoztatási kötelezettségének, vagy
 
@@ -38,6 +38,6 @@ d) a (4) bekezdés e) pontja szerinti esetben a foglalkoztató a foglalkoztatás
 
 (7) Az (5) bekezdés a) és b) pontja nem alkalmazható, ha a foglalkoztató a hatósági ellenőrzés megkezdését követően létesített jogviszony bejelentésére vonatkozó kötelezettségét késedelmesen teljesíti.
 
-[^4]: A 18. § (4) bekezdés d) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^5]: A 18. § (4) bekezdés e) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^6]: A 18. § (4) bekezdés f) pontját a 227/2022. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^5]: A 18. § (4) bekezdés d) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^6]: A 18. § (4) bekezdés e) pontja a 227/2022. (VI. 28.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^7]: A 18. § (4) bekezdés f) pontját a 227/2022. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be.

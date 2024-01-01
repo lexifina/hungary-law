@@ -1,8 +1,6 @@
-## való megfelelést szolgálja.
-
 1. melléklet a 115/2021. (III. 10.) Korm. rendelethez
 
-## A tételes összegű munkaügyi bírság mértéke
+A tételes összegű munkaügyi bírság mértéke
 
 1. Munkaügyi bírság a 19. § (1) bekezdés a) pontja alapján
 

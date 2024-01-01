@@ -12,6 +12,6 @@ c) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának en
 
 d) a harmadik országbeli és a szabad mozgás és tartózkodás jogával rendelkező állampolgárok foglalkoztatására
 
-## vonatkozó jogszabályok megsértésével összefüggésben tartalmazhat jogkövetkezményt.
+vonatkozó jogszabályok megsértésével összefüggésben tartalmazhat jogkövetkezményt.
 
 (3) A foglalkoztatói vélelem alapján megállapított jogviszonnyal kapcsolatos egyéb jogszabálysértés miatt a vélelmezett foglalkoztatóval szemben csak akkor alkalmazható jogkövetkezmény, ha a jogszabálysértést a vélelmet megállapító döntés véglegessé válása után követte el.

@@ -18,4 +18,6 @@ c)[^1]
 
 d) a különös hatáskörű foglalkoztatás-felügyeleti hatóságokra
 
+is kiterjed.
+
 [^1]: Az 1. § (3) bekezdés c) pontját a 227/2022. (VI. 28.) Korm. rendelet 12. §-a hatályon kívül helyezte.
