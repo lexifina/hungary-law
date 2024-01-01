@@ -110,7 +110,7 @@ Szakvélemény adására feljogosított szervek
 
 | 2. | Tűzvédelemmel kapcsolatos szakkérdés | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és Katasztrófavédelmi Igazgatóságok |
 
-| 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | Országos Meteorológiai Szolgálat |
+| 3. | A levegőkörnyezettel, illetve annak múltbeli és jövőbeni állapotával összefüggő szakkérdés | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság |
 
 | 4. | A katasztrófák elleni védekezés irányításáról, szervezetéről és a veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésről szóló 1999. évi LXXIV. törvény IV. fejezetében meghatározott kérdések vonatkozásában (ipari baleset-megelőzés) | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -158,4 +158,4 @@ Szakvélemény adására feljogosított szervek
 
 | 12. | Építésügyi szakértői vizsgálatok | NSZKK |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a, az 591/2023. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.

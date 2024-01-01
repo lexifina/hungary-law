@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-282-20-
 | 2023-01-01 | 2007-282-20-22.30 | 53/2008. (III. 14.) Korm. rendelet |
 | 2023-08-01 | 2007-282-20-22.31 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-08-27 | 2007-282-20-22.32 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2024-01-01 | 2007-282-20-22.33 | 379/2016. (XII. 2.) Korm. rendelet |
