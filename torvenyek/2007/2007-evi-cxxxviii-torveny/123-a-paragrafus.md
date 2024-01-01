@@ -20,7 +20,7 @@ f) a kapott állami támogatást.
 
 (5) A befektetési vállalkozás nyilvánosságra hozatali kötelezettségét honlapján vagy azon az internetes felületen teljesíti, amelyen az éves számviteli beszámolóját hozza nyilvánosságra.
 
-(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni. Ha a befektetési vállalkozás nem rendelkezik honlappal, akkor a közzétételi kötelezettségnek a székhelyén történő közzététel útján is eleget tehet.
+(6) A befektetési vállalkozás köteles a Felügyelet által vele szemben hozott határozat rendelkező részét – az MNBtv. 53. §-ában meghatározott rendelkezések figyelembevételével – az adott határozat közlésétől számított 15 napon belül a honlapján közzétenni.
 
 (7) A (6) bekezdésben meghatározott közzétételi kötelezettség az adott határozat közlésétől számított öt évig áll fenn.
 

@@ -12,7 +12,7 @@ b) felsőfokú végzettséggel rendelkezik;
 
 c) legalább hároméves szakirányú szakmai gyakorlattal és legalább hároméves pénzügyi, illetve gazdasági területen szerzett vezetői gyakorlattal rendelkezik;
 
-d)
+d) nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt;
 
 e) igazolja, hogy jó üzleti hírnévvel rendelkezik.
 

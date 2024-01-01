@@ -156,6 +156,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 34e. kiegészítési záradék: olyan záradék, amely a befektető védelmére irányul annak biztosítása révén, hogy a kötvény lejárat előtti visszaváltása esetén a kibocsátó köteles a kötvényt birtokló befektetőnek kifizetni – a visszaváltott kötvény tőkeösszege mellett – azon kamatszelvények nettó jelenértékét, amelyekre akkor lett volna jogosult, ha a kötvény lejárat előtti beváltására nem kerül sor,
 
+34f. keretszerződés: a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendeletének 58. cikkében meghatározott alapmegállapodás,
+
 35. kis méretű és össze nem kapcsolt befektetési vállalkozás: az (EU) 2019/2033 rendelet 12. cikk (1) bekezdésében meghatározott fogalom,
 
 36. kollektív befektetési forma: a Kbftv.-ben meghatározott fogalom,

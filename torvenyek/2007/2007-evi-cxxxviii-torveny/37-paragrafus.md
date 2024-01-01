@@ -48,6 +48,8 @@ c) aki jó üzleti hírnévvel rendelkezik,
 
 d) aki – a 22. § (6) bekezdésében foglaltak figyelembevételével – igazolja, hogy a 22. § (5) bekezdése szerinti bűncselekményi kör tekintetében büntetlen előéletű.
 
+e) aki nem áll közgazdasági vagy pénzügyi jellegű munkakör vagy tevékenység vonatkozásában foglalkozástól vagy tevékenységtől eltiltás hatálya alatt.
+
 (5) A kérelmező, tevékenysége vagy a befektetési vállalkozásra gyakorolt befolyása különösen akkor veszélyezteti a befektetési vállalkozás független, megbízható és körültekintő tulajdonosi irányítását, ha
 
 a) szavazati jogának gyakorlását a hatáskörrel rendelkező felügyeleti hatósága – a kérelem benyújtását megelőző öt éven belül – felfüggesztette,

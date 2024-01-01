@@ -6,7 +6,7 @@ b) a pénzpiaci eszköz,
 
 c) a kollektív befektetési forma által kibocsátott értékpapír,
 
-d) az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz, kibocsátáskereskedelmi egységhez vagy más származtatott eszközhöz, pénzügyi indexhez vagy pénzügyi intézkedéshez kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
+d) az értékpapírhoz, devizához, kamatlábhoz vagy hozamhoz, kibocsátási egységhez vagy más származtatott eszközhöz, pénzügyi indexhez vagy pénzügyi intézkedéshez kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős kamatláb-megállapodás, valamint bármely más származtatott ügylet, amely fizikai leszállítással teljesíthető vagy pénzben kiegyenlíthető,
 
 e) az áruhoz kapcsolódó opció, tőzsdei határidős ügylet, csereügylet, tőzsdén kívüli határidős ügylet, valamint bármely más származtatott ügylet, amelyet pénzben kell kiegyenlíteni vagy az ügyletben résztvevő felek valamelyikének választása szerint – nem a teljesítési határidő lejárta vagy más megszűnési ok miatt – pénzben kiegyenlíthető,
 
