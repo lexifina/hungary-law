@@ -10,11 +10,7 @@ d) a Program elemeként egyetért az Eötvös Loránd Tudományegyetem Trefort �
 
 e) a Beruházásnak az állami magasépítési beruházásokról szóló 299/2018. (XII. 27.) Korm. rendelet (a továbbiakban: Korm. rendelet) 4. § e), g), n), o) és p) pontja szerinti előkészítési fázisai 2021. július 31. napjáig történő teljesítése érdekében, a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 80 000 000 forintban határozza meg;
 
-f) az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Kiemelt kormányzati magasépítési beruházások fejezet, 2. Programszerű magasépítési beruházások címet a 10. Budapesti felsőoktatási intézmények gyakorló intézményei beruházásainak előkészítése alcímmel egészíti ki;
-
-Felelős: pénzügyminiszter
-
-Határidő: azonnal
+f)[^1]
 
 g) felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy gondoskodjon az e) alpont szerinti összeg 2020. évi részének finanszírozása érdekében 15 980 000 forint rendelkezésre állásáról az f) alpont szerinti előirányzaton;
 
@@ -62,6 +58,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
 
-2.[^1]
+2.[^2]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont f) alpontja a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
