@@ -6,4 +6,4 @@ b) 63/I. §-a,
 
 c) 79. § (1) bekezdés f) pontja,
 
-d) 82. § (3) bekezdése.
+d)
