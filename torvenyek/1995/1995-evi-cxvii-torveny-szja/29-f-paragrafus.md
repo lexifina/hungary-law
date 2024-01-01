@@ -22,7 +22,7 @@ ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
 
 cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme,
 
-de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes munkaidőben alkalmazásban állók Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző év július hónapjára vonatkozó nemzetgazdasági szintű bruttó átlagkeresetének szorzata.
+de adóévenként legfeljebb a jogosultsági hónapok számának és a tárgyévet megelőző év július hónapjára vonatkozóan közzétett nemzetgazdasági szintű bruttó átlagkeresetnek a szorzata.
 
 (3) Jogosultsági hónapként azok a hónapok vehetők figyelembe, amelyekben a fiatal a 25. életévét nem töltötte be, utoljára a 25. életéve betöltésének hónapja.
 

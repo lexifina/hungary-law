@@ -14,7 +14,7 @@ b) a kifizető tevékenységének ellátása érdekében biztosított helyi és 
 
 (6) Egyes meghatározott juttatásnak minősül
 
-a) az évi egy alkalommal – az erre vonatkozó nyilvántartás vezetése mellett – csekély értékű ajándék révén juttatott adóköteles jövedelem;
+a) az évi három alkalommal – az erre vonatkozó nyilvántartás vezetése mellett – csekély értékű ajándék révén juttatott adóköteles jövedelem;
 
 b) az olyan ingyenes vagy kedvezményes termék, szolgáltatás révén juttatott adóköteles bevétel, amelynek igénybevételére egyidejűleg több magánszemély jogosult, és a kifizető – jóhiszemű eljárása ellenére – nem képes megállapítani az egyes magánszemélyek által megszerzett jövedelmet, továbbá az egyidejűleg több magánszemély (ideértve az üzleti partnereket is) számára szervezett, ingyenes vagy kedvezményes rendezvénnyel, eseménnyel összefüggésben (ha a rendezvény, esemény a juttatás körülményeiből megítélhetően döntő részben vendéglátásra, szabadidőprogramra irányul) a kifizető által viselt költség (beleértve az ilyen rendezvényen, eseményen a résztvevőknek adott ajándéktárgyra fordított kiadást is, feltéve, hogy az ajándéktárgy egyedi értéke személyenként nem haladja meg a minimálbér 25 százalékát);
 

@@ -22,7 +22,7 @@ b) természetes vagy tenyésztett gyöngy, drágakő, féldrágakő, nemesfém, 
 
 (5) A közterheket a kifizetőnek – eltérő rendelkezés hiányában –
 
-a) a juttatás hónapja kötelezettségeként;
+a) a juttatás hónapját magában foglaló negyedév kötelezettségeként;
 
 b) a 70. § (5) bekezdése szerint adókötelezettség alá eső érték után az adóévre elszámolt éves összes bevétel megállapítására előírt időpontot követően az elszámolt éves összes bevétel megállapítása hónapjának kötelezettségeként;
 

@@ -24,10 +24,10 @@ a) szünetelés időszakában költséget (ideértve az értékcsökkenési leí
 
 b) a szünetelést – a jogállását szabályozó külön törvény szerint történő bejelentéssel egyidejűleg – az egyéni vállalkozói tevékenységére tekintettel pénzforgalmi bankszámlát vezető hitelintézet(ek)nek is bejelenti, azzal, hogy a bejelentés elmulasztásának minden adójogi következménye a magánszemélyt terheli.
 
-(5) A szünetelés kezdő napjától az addig végzett egyéni vállalkozói tevékenységre tekintettel a szünetelés megkezdésének adóévéről szóló adóbevallás benyújtásáig
+(5) A szünetelés kezdő napjától az addig végzett egyéni vállalkozói tevékenységre tekintettel
 
-a) befolyt ellenérték (bevétel) a szünetelés megkezdése adóévében megszerzett vállalkozói bevételnek,
+a) befolyt ellenérték (bevétel) a szünetelés megkezdését megelőző napon megszerzett vállalkozói bevételnek,
 
-b) igazoltan felmerült kiadás a szünetelés megkezdése adóévében elszámolható vállalkozói költségnek
+b) igazoltan felmerült kiadás a szünetelés megkezdését megelőző napon elszámolható vállalkozói költségnek
 
-minősül, amelyet az egyéni vállalkozó a szünetelés megkezdése évéről szóló adóbevallásában vesz figyelembe. A szünetelés megkezdése adóévéről szóló adóbevallás benyújtását követően az előzőekben nem említett befolyó bevételre, illetve felmerült kiadásra minden olyan adóévben, amelyben a tevékenység az adóév minden napján szünetelt, az önálló tevékenységből származó jövedelem megállapítására vonatkozó rendelkezéseket kell alkalmazni.
+minősül.

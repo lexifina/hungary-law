@@ -8,7 +8,7 @@
 
 a) amely a pénzügyi közvetítőrendszer felügyeletét ellátó szerv (a továbbiakban: Felügyelet) által felügyelt tevékenység tárgyát képezi,
 
-b) amelyet bármely EGT-államban vagy egyébként olyan államban működő pénzpiacon tevékenységet folytató befektetési szolgáltatóval, vagy befektetési szolgáltató közreműködésével kötöttek, amely állammal Magyarországnak van a kettős adóztatás elkerüléséről szóló egyezménye, és
+b) amelyet bármely EGT-államban, OECD-tagállamban vagy egyébként olyan államban működő pénzpiacon tevékenységet folytató befektetési szolgáltatóval, vagy befektetési szolgáltató közreműködésével kötöttek, amely állammal Magyarországnak van a kettős adóztatás elkerüléséről szóló egyezménye, és
 
 ba) az adott állam hatáskörrel rendelkező felügyeleti hatósága által felügyelt tevékenység tárgyát képezi, és
 

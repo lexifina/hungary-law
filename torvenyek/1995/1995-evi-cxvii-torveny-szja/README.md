@@ -130,3 +130,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2023-09-12 | 2023. évi LIX. törvény | 1995-117-00-00.200 |
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 1995-117-00-00.201 |
 | 2023-12-30 | 2023. évi LXXXIII. törvény | 1995-117-00-00.202 |
+| 2024-01-01 | 2023. évi LXXXIII. törvény | 1995-117-00-00.197 |

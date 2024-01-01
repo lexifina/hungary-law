@@ -26,7 +26,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.9. a szociális gondozói díj évi 180 ezer forintot meg nem haladó része.
 
-1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a letelepedéshez nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
+1.10. a menedékjogról szóló törvény végrehajtásról szóló kormányrendeletben felsorolt támogatások: az étkezési hozzájárulás, a higiénés hozzájárulás, a szabad felhasználású költőpénz, az oktatási, nevelési költségek megtérítése, a beiskolázási támogatás, a huzamos tartózkodáshoz nyújtott egyszeri támogatás, a rendszeres létfenntartási támogatás, lakhatási támogatás, lakáscélú támogatás és az integrációs támogatás.
 
 1.11. a honvédek jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, kiegészítő rokkantsági támogatás és kiegészítő hozzátartozói támogatás, a honvédelmi alkalmazottak jogállásáról szóló törvényben meghatározott árvák kiegészítő támogatása, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott árvák kiegészítő támogatása és kiegészítő hozzátartozói támogatás;
 
@@ -36,7 +36,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 2.1. a lakáscélú támogatás, ha az
 
-2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, a lakáscélú állami támogatásokról szóló kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet, valamint a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról szóló kormányrendelet szerinti támogatás,
+2.1.1. a lakáscélú állami támogatásokról szóló kormányrendelet alapján nyújtott támogatás, ideértve a 2006. december 31-éig kihirdetett, a lakáscélú állami támogatásokról szóló kormányrendelet szerint megalkotott helyi önkormányzati rendelet alapján nyújtott lakáscélú támogatást is, továbbá az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendelet, a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló kormányrendelet, a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló kormányrendelet, a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló kormányrendelet, a három- vagy többgyermekes családok lakáscélú jelzáloghitel-tartozásainak csökkentéséről szóló kormányrendelet, a fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló kormányrendelet, az otthonteremtési kamattámogatásról szóló kormányrendelet, a gyermeket nevelő családok otthonfelújítási támogatásáról szóló kormányrendelet, valamint a rozsdaövezeti akcióterületen létesített lakóingatlanban kialakított lakások vásárlásához kapcsolódó adó-visszatérítési támogatásról szóló kormányrendelet szerinti támogatás,
 
 2.1.2. a lakáscélra nyújtott hitel törvény vagy törvény felhatalmazása alapján kiadott más jogszabály alapján elengedett része,
 
@@ -280,7 +280,7 @@ azzal, hogy a társas vállalkozás által a tagjainak juttatott a–d) pontok s
 
 4.39. a felsőfokú végzettséggel rendelkező ápolókat és mentőtiszteket a mesterfokozat, az oklevelesápolói szakképzettség megszerzésében támogató, a Kormány rendeletében előírt feltételekkel kiírt pályázaton elnyert Michalicza-ösztöndíj a folyósítás időpontjától függetlenül;
 
-4.40.
+4.40. az igazságügyért felelős miniszter által vezetett minisztérium által jogász osztatlan képzésben résztvevő hallgató részére kormányrendeletben meghatározott feltételek alapján havonta a minimálbér összegét meg nem haladó mértékben biztosított ösztöndíj.
 
 4.41. az az összeg, amelyet a magánszemély, a kultúráért felelős miniszter által adományozott, jogszabályban meghatározott díjjal járó járadék címén kap;
 

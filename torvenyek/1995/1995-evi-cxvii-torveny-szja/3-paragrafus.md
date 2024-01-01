@@ -12,7 +12,7 @@ a) a magyar állampolgár (kivéve, ha egyidejűleg más államnak is állampolg
 
 b) az a természetes személy, aki a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvényben meghatározottak szerint a szabad mozgáshoz és a három hónapot meghaladó tartózkodáshoz való jogát az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább 183 napig Magyarország területén gyakorolja;
 
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó letelepedett jogállású, illetve hontalan személy; továbbá
+c) a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező, illetve hontalan személy; továbbá
 
 d) az a)–c) pontban nem említett természetes személy, akinek
 
@@ -24,7 +24,7 @@ dc) szokásos tartózkodási helye belföldön található, ha egyáltalán nem 
 
 azzal, hogy a létérdekek központja az az állam, amelyhez a magánszemélyt a legszorosabb személyes, családi és gazdasági kapcsolatok fűzik, továbbá az állandó lakóhely az olyan lakóhely, ahol a magánszemély tartós ottlakásra rendezkedett be és ténylegesen ott lakik. Nem változik az állandó lakóhely, ha a magánszemély ideiglenes jelleggel huzamosabb ideig külföldön tartózkodik.
 
-3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35. § (1) bekezdésének e) pontja hatálya alá tartozó letelepedett jogállású személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb, mint 183 napot tartózkodik Magyarország területén.
+3. Külföldi illetőségű magánszemély: a belföldi illetőségű magánszemélynek nem minősülő természetes személy, valamint – a 2. pont c) alpontjában foglaltaktól eltérően – a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 83. § (1) bekezdés e) pontja hatálya alá tartozó huzamos tartózkodási jogosultsággal rendelkező személy, feltéve, hogy bármely 12 hónapos időszakban – a ki- és beutazás napját is egész napnak tekintve – kevesebb mint 183 napot tartózkodik Magyarország területén.
 
 4. Jövedelemszerzés helye:
 
@@ -42,11 +42,11 @@ db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységér
 
 dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
 
-e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, egészségügyi szolgálati, adó- és vámhatósági szolgálati, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+e) kormányzati szolgálati, politikai szolgálati, biztosi, közszolgálati, közalkalmazotti, köznevelési foglalkoztatotti, egészségügyi szolgálati, adó- és vámhatósági szolgálati, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, a Magyar Honvédség hivatásos és szerződéses, valamint tényleges szolgálatot teljesítő önkéntes tartalékos állományának szolgálati viszonya, a honvédelmi alkalmazotti jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, rendvédelmi igazgatási szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti viszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
 
 f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
 
-g) előadói, művészeti és sporttevékenységre, bemutatóra (kiállításra) tekintettel megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a tevékenység végzésének helye szerinti állam;
+g) előadói, művészeti és sporttevékenységre, bemutatóra (kiállításra) tekintettel megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a tevékenység végzésének helye szerinti állam, ideértve azt is, ha az e tevékenységből származó jövedelem nem a magánszemélynél, hanem egy másik személynél keletkezik;
 
 h) a szellemi alkotáshoz fűződő törvényi védelem alatt álló jog (így különösen szabadalom, ipari minta, védjegy, védett eljárás, szerzői jog) révén megszerzett jövedelem (jogdíj) esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogdíj fizetésére kötelezett személy illetősége szerinti állam – amennyiben a jogdíj fizetésére belföldi telephelye (állandó bázisa), fióktelepe, kereskedelmi képviselete útján kötelezett, akkor belföld –, ha azonban a jogdíjfizetés alapjául szolgáló jog ténylegesen a jogosult magánszemély belföldi telephelyéhez (állandó bázisához) tartozik, akkor belföld;
 
@@ -136,7 +136,7 @@ h)
 
 18. Mezőgazdasági őstermelő: a családi gazdaságokról szóló törvény szerinti mezőgazdasági őstermelő, ideértve az őstermelők családi gazdaságának tagját is.
 
-19.
+19. Induló vállalkozás: a legfeljebb öt éve bejegyzett, tőzsdén nem jegyzett mikro- és kisvállalkozás, amely még nem osztott nyereséget és nem egyesülés vagy szétválás útján jött létre;
 
 20. Üzemanyag-fogyasztási norma: a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag-fogyasztásának igazolás nélkül elszámolható mértékéről szóló jogszabály szerinti üzemanyag- és kenőanyag-felhasználás mértéke. Amennyiben így nem állapítható meg a norma, akkor a gyártó által, vagy műszaki szakértő által megállapított mérték.
 
@@ -248,7 +248,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 46. Gazdasági tevékenység: valamely tevékenység üzletszerű, illetőleg tartós vagy rendszeres jelleggel történő folytatása, amennyiben az ellenérték elérésére irányul, vagy azt eredményezi, és annak végzése független formában történik.
 
-47. Lízingnek minősül a tárgyi eszköz használatba adása 1997. január 1-je előtt kötött olyan szerződés alapján, amely annak határozott időre szóló, de 365 napot meghaladó bérletéről azzal a kikötéssel rendelkezik, hogy a bérlő a tulajdonjogot legkésőbb az utolsó bérleti díj kiegyenlítésével, illetőleg a szerződés lejártával megszerzi vagy számára a bérbeadó vételi jogot biztosít.
+47. Lízing: a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzügyi lízingszerződés.
 
 48. Önkéntes kölcsönös biztosító pénztár: az Önkéntes Kölcsönös Biztosító Pénztárakról szóló törvény hatálya alá tartozó szervezet.
 
@@ -330,7 +330,7 @@ azzal, hogy egyidejűleg négynél kevesebb munkavállaló szállítása is csop
 
 81. Kifizető: az adózás rendjéről szóló törvényben meghatározott személy azzal az eltéréssel, hogy kifizetőnek minősül a külföldi személy által belföldi szolgáltatói tevékenysége tekintetében megbízott belföldi illetőségű hitelintézet is, ha az ilyen megbízás alapján belföldön adóköteles jövedelmet fizet ki (ír jóvá).
 
-82.
+82. Nemzetgazdasági szintű bruttó átlagkereset: a Központi Statisztikai Hivatal által a Hivatalos Értesítőben közzétett, teljes munkaidőben alkalmazásban állókra tekintettel megállapított bruttó átlagkereset.
 
 83. Kiküldetési rendelvény: a kifizető által két példányban kiállított bizonylat, amely tartalmazza a magánszemély nevét, adóazonosító jelét, a gépjármű gyártmányának, típusának megnevezését, forgalmi rendszámát, a hivatali, üzleti utazás(ok) célját, időtartamát, útvonalát, a futásteljesítményt, az utazás költségtérítését, valamint ezen költségtérítés kiszámításához szükséges adatokat (üzemanyag-fogyasztási norma, üzemanyagár stb.), azzal, hogy kiküldetési rendelvénynek minősül az említett adatokat tartalmazó, a digitális archiválás szabályairól szóló jogszabály rendelkezéseit is figyelembe véve zárt rendszerben kezelt és tárolt, elektronikus úton előállított bizonylat is. A papír alapon kiállított kiküldetési rendelvény eredeti példányát a kifizető, másolatát a magánszemély a bizonylatmegőrzésre vonatkozó rendelkezések betartásával megőrzi.
 

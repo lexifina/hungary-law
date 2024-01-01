@@ -50,6 +50,6 @@ c) az (5) bekezdés rendelkezésétől eltérően a bekezdésben említett, jog 
 
 (11) A jog, illetőleg az értékpapír megszerzésére fordított kiadást az árfolyamnyereségre irányadó rendelkezések megfelelő alkalmazásával kell meghatározni.
 
-(12)
+(12) Nem minősül bevételnek a jog formájában megszerzett vagyoni érték, ha a magánszemély induló vállalkozás munkavállalójaként, vezető tisztségviselőjeként szerez az induló vállalkozásban tagsági jogot megtestesítő részesedés megszerzésére vonatkozó jogot, feltéve, hogy a tagsági jogot megtestesítő részesedésre (üzletrészre, részvényre) vonatkozó jog juttatása megfelel a rendeltetésszerű joggyakorlás követelményének, és a munkavállaló, a vezető tisztségviselő a tagsági jogot megtestesítő részesedésre vonatkozó jogot a szerzést követő legalább három évig nem ruházza át másra.
 
 (13) E § rendelkezései helyett az ellenőrzött tőkepiaci ügyletből származó jövedelemre vonatkozó rendelkezéseket kell alkalmazni, ha a jövedelem megszerzése ellenőrzött tőkepiaci ügyletben történt.

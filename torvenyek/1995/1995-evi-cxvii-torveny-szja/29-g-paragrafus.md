@@ -30,7 +30,7 @@ ce) a választott könyvvizsgáló e tevékenységéből származó jövedelme;
 
 cf) a magánszemély által nem egyéni vállalkozóként kötött, díjazás ellenében történő munkavégzésre irányuló más szerződés alapján folytatott tevékenységéből származó jövedelme,
 
-de adóévenként legfeljebb a jogosultsági hónapok számának és a teljes munkaidőben alkalmazásban állók Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző év július hónapjára vonatkozó nemzetgazdasági szintű bruttó átlagkeresetének szorzata.
+de adóévenként legfeljebb a jogosultsági hónapok számának és a tárgyévet megelőző év július hónapjára vonatkozóan közzétett nemzetgazdasági szintű bruttó átlagkeresetnek a szorzata.
 
 (4) Jogosultsági hónapként az a hónap vehető figyelembe, amelyben a 30 év alatti anya családi kedvezményre való jogosultsága a (2) bekezdés szerint fennáll, de legkorábban a 25. életéve betöltésének hónapját követő hónap. A kedvezmény legfeljebb annak az évnek az utolsó jogosultsági hónapjáig érvényesíthető, amely évben a 30 év alatti anya betölti a 30. életévét.
 

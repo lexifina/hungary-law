@@ -1,0 +1,1 @@
+106. § Az állam működésének további egyszerűsítésével összefüggő rendelkezésekről szóló 2023. évi LXX. törvénnyel megállapított 48. § (2a) bekezdése első alkalommal a 2023. december 31-ét követően tett adóelőleg-nyilatkozatok esetében alkalmazható.
