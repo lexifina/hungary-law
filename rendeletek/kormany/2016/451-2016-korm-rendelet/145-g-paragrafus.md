@@ -1,4 +1,4 @@
-145/G. §[^200] (1) Ha – a nemzeti koordinátor vagy az Európai Bizottság vizsgálata alapján – az SDG Rendeletben megállapított valamely követelmény nem teljesül, a nemzeti koordinátor – az adott követelmény kapcsán felelős szervezet, vagyis az illetékes hatóság vagy a SZÜF szolgáltató tájékoztatásával egyidejűleg – megkeresi a felügyeletet, amely feladat- és hatáskörében
+145/G. §[^214] (1) Ha – a nemzeti koordinátor vagy az Európai Bizottság vizsgálata alapján – az SDG Rendeletben megállapított valamely követelmény nem teljesül, a nemzeti koordinátor – az adott követelmény kapcsán felelős szervezet, vagyis az illetékes hatóság vagy a SZÜF szolgáltató tájékoztatásával egyidejűleg – megkeresi a felügyeletet, amely feladat- és hatáskörében
 
 a) felhívja az illetékes hatóságot vagy a SZÜF szolgáltatót az általa biztosított szolgáltatásnak az SDG Rendeletben megállapított követelmények szerinti nyújtására, továbbá
 
@@ -12,4 +12,4 @@ b) felhívja az illetékes hatóságot vagy a SZÜF szolgáltatót, hogy a felad
 
 (5) A felügyeleti jelentés kormányzati portálon való publikálását a (4) bekezdés rendelkezéseivel összhangban a felügyelet rendeli el.
 
-[^200]: A 145/G. § az 528/2023. (XII. 1.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^214]: A 145/G. § az 528/2023. (XII. 1.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

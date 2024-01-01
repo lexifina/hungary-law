@@ -1,11 +1,11 @@
 ## Űrlapbenyújtás-támogatási szolgáltatás
 
-114. § (1)[^127] Az űrlapbenyújtás-támogatási szolgáltatás (a továbbiakban: e-Űrlap szolgáltatás) biztosítja a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását.
+114. § (1)[^134] Az űrlapbenyújtás-támogatási szolgáltatás (a továbbiakban: e-Űrlap szolgáltatás) biztosítja a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását.
 
-(2)[^128]
+(2)[^135]
 
-(3)[^129] Az elektronikus ügyintézést biztosító szerv köteles vagy e-Űrlap szolgáltatás igénybevételére, vagy az E-ügyintézési tv. szerinti interaktív alkalmazás vagy saját, a 19–21. § szerint kialakított online elektronikus űrlap biztosítására azon ügyek esetében, amelyeknél a beérkezett általános célú elektronikus kéreleműrlapok száma havi rendszerességgel eléri a 100 darabszámot.
+(3)[^136] Az elektronikus ügyintézést biztosító szerv köteles vagy e-Űrlap szolgáltatás igénybevételére, vagy az E-ügyintézési tv. szerinti interaktív alkalmazás vagy saját, a 19–21. § szerint kialakított online elektronikus űrlap biztosítására azon ügyek esetében, amelyeknél a beérkezett általános célú elektronikus kéreleműrlapok száma havi rendszerességgel eléri a 100 darabszámot.
 
-[^127]: A 114. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
-[^128]: A 114. § (2) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § c) pontja hatályon kívül helyezte.
-[^129]: A 114. § (3) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (7) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.
+[^134]: A 114. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
+[^135]: A 114. § (2) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 105. § c) pontja hatályon kívül helyezte.
+[^136]: A 114. § (3) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (7) bekezdése iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 104. § b) pontja szerint módosított szöveg.

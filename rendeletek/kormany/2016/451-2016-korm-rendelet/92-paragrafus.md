@@ -10,7 +10,7 @@ b) ügyfél által lehetővé tett elektronikus vagy nem elektronikus kapcsolatt
 
 c) azonosítással kapcsolatos követelmények,
 
-d)[^96] hivatalos elektronikus kapcsolattartásra szolgáló elérhetőségek,
+d)[^103] hivatalos elektronikus kapcsolattartásra szolgáló elérhetőségek,
 
 e) elektronikus dokumentumok titkosítására vonatkozó igény,
 
@@ -22,4 +22,4 @@ g) képviseletre vonatkozó jognyilatkozatok.
 
 (3) A rendelkezési nyilvántartás szolgáltatója biztosítja, hogy az ügyfél az ügyintézési rendelkezések nyilvántartásában rögzítse a 24. §-ban meghatározott követelményeknek megfelelő titkosítási célú nyilvános kulcsot.
 
-[^96]: A 92. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § k) pontja szerint módosított szöveg.
+[^103]: A 92. § (1) bekezdés d) pontja a 361/2017. (XI. 30.) Korm. rendelet 6. § k) pontja szerint módosított szöveg.

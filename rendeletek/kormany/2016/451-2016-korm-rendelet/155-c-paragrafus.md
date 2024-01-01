@@ -1,3 +1,3 @@
-## 155/B. §[^247] Ha jogszabály alapján az elektronikus ügyintézést biztosító szervnek nem minősülő szerv feladata ellátására a Kormány által biztosított elektronikus azonosítási szolgáltatást vesz igénybe, 2018. június 30-ig a 23/A. alcímben foglalt rendelkezések alkalmazása nélkül díjmentesen jogosult a Kormány által biztosított elektronikus azonosítási szolgáltatás, valamint hivatali tárhely szolgáltatás igénybevételére.
+## 155/B. §[^261] Ha jogszabály alapján az elektronikus ügyintézést biztosító szervnek nem minősülő szerv feladata ellátására a Kormány által biztosított elektronikus azonosítási szolgáltatást vesz igénybe, 2018. június 30-ig a 23/A. alcímben foglalt rendelkezések alkalmazása nélkül díjmentesen jogosult a Kormány által biztosított elektronikus azonosítási szolgáltatás, valamint hivatali tárhely szolgáltatás igénybevételére.
 
-[^247]: A 155/B. §-t a 361/2017. (XI. 30.) Korm. rendelet 5. § (14) bekezdése iktatta be.
+[^261]: A 155/B. §-t a 361/2017. (XI. 30.) Korm. rendelet 5. § (14) bekezdése iktatta be.

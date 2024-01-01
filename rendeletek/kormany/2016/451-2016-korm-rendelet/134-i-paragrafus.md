@@ -1,6 +1,6 @@
-## 134/H. §[^171] A KKSZB-hez SZEÜSZ és KEÜSZ szolgáltató is csatlakozhat. Csatlakozására a 134/A–134/G. §-okat alkalmazni kell azzal, hogy csatlakozott szerv alatt SZEÜSZ vagy KEÜSZ szolgáltatót kell érteni. A SZEÜSZ és KEÜSZ szolgáltató a KKSZB-hez történő csatlakozását a csatlakozási megállapodást követően 3 napon belül a felügyeletnek bejelenti.
+## 134/H. §[^183] A KKSZB-hez SZEÜSZ és KEÜSZ szolgáltató is csatlakozhat. Csatlakozására a 134/A–134/G. §-okat alkalmazni kell azzal, hogy csatlakozott szerv alatt SZEÜSZ vagy KEÜSZ szolgáltatót kell érteni. A SZEÜSZ és KEÜSZ szolgáltató a KKSZB-hez történő csatlakozását a csatlakozási megállapodást követően 3 napon belül a felügyeletnek bejelenti.
 
-## Mesterséges Intelligenciával támogatott szolgáltatások[^172]
+## Mesterséges Intelligenciával támogatott szolgáltatások[^184]
 
 134/I. § (1) Mesterséges intelligenciával támogatott, a Kormány által biztosított központi elektronikus ügyintézési szolgáltatás
 
@@ -12,5 +12,5 @@ c) a mesterséges intelligenciával támogatott kommunikációs asszisztens, ame
 
 (2) Az (1) bekezdés szerinti központi elektronikus ügyintézési szolgáltatások szolgáltatója az elektronikus ügyintézést biztosító szerv, valamint az ügyfél nyilatkozata megőrzése tekintetében az elektronikus ügyintézést biztosító szerv adatfeldolgozójaként jár el.
 
-[^171]: A 134/H. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^172]: A 134/H. §-t követő alcímet (134/I–134/L. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (11) bekezdése iktatta be.
+[^183]: A 134/H. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^184]: A 134/H. §-t követő alcímet (134/I–134/L. §) a 717/2021. (XII. 20.) Korm. rendelet 20. § (11) bekezdése iktatta be.

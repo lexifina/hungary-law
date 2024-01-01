@@ -1,5 +1,5 @@
 ## 40. Módosuló rendelkezések
 
-157. §[^255]
+157. §[^269]
 
-[^255]: A 157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^269]: A 157. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

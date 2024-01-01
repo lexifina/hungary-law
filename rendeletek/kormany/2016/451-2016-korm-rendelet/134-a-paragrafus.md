@@ -1,13 +1,13 @@
-## Központi Kormányzati Szolgáltatás Busz[^156]
+## Központi Kormányzati Szolgáltatás Busz[^168]
 
-## 134/A. §[^157] A 134/A–134/J. § alkalmazásában
+## 134/A. §[^169] A 134/A–134/J. § alkalmazásában
 
-1.[^158] autentikációs token: valamely csatlakozott szerv részére a Központi Kormányzati Szolgáltatás Busz (a továbbiakban: KKSZB) Rendszerfelhatalmazási Nyilvántartása által generált webtoken, amely biztosítja a KKSZB-n elérhető valamely szolgáltatásnak a szolgáltatást nyújtó csatlakozott szerv által engedélyezett célból és jogalapon történő igénybevételét az adott csatlakozott szerv hitelesítése útján;
+1.[^170] autentikációs token: valamely csatlakozott szerv részére a Központi Kormányzati Szolgáltatás Busz (a továbbiakban: KKSZB) Rendszerfelhatalmazási Nyilvántartása által generált webtoken, amely biztosítja a KKSZB-n elérhető valamely szolgáltatásnak a szolgáltatást nyújtó csatlakozott szerv által engedélyezett célból és jogalapon történő igénybevételét az adott csatlakozott szerv hitelesítése útján;
 
 2. Rendszerfelhatalmazási Nyilvántartás: a KKSZB azonosítási, jogosultság- és szolgáltatáskezelési rendszere, amely ellátja a csatlakozott szervekkel, azok KKSZB-n nyújtott szolgáltatásaival, továbbá a KKSZB működtetésével kapcsolatos jogosultság- és szolgáltatáskezelési, valamint azonosítási feladatokat;
 
 3. szolgáltatáskatalógus: az egyes, a KKSZB-hez csatlakozó nyilvántartások, SZEÜSZ-ök, KEÜSZ-ök és szakrendszerek elektronikusan nyújtott szolgáltatásainak információátadási leírásait és a kapcsolódásra vonatkozó egyéb technikai információkat tartalmazó adatbázis.
 
-[^156]: A 134/A. §-t megelőző alcímet a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be, szövege a 179/2018. (X. 2.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
-[^157]: A 134/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
-[^158]: A 134/A. § 1. pontja a 179/2018. (X. 2.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
+[^168]: A 134/A. §-t megelőző alcímet a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be, szövege a 179/2018. (X. 2.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.
+[^169]: A 134/A. §-t a 221/2017. (VIII. 7.) Korm. rendelet 7. § (7) bekezdése iktatta be.
+[^170]: A 134/A. § 1. pontja a 179/2018. (X. 2.) Korm. rendelet 33. § e) pontja szerint módosított szöveg.

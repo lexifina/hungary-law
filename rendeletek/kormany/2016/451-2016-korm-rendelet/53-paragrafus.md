@@ -1,4 +1,4 @@
-53. §[^41] (1) Az E-ügyintézési tv. 27. § (2) bekezdése szerinti előre tervezett – üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó – technikai tevékenységre vonatkozó tájékoztatást a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha a technikai tevékenység kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen, valamint saját honlapján köteles a technikai tevékenység tervezett kezdő időpontja előtt 3 nappal közzétenni, továbbá arról értesíteni a felügyeletet. A tájékoztatásban fel kell tüntetni:
+53. §[^42] (1) Az E-ügyintézési tv. 27. § (2) bekezdése szerinti előre tervezett – üzemszünetet vagy az elektronikus ügyintézés korlátozott működőképességét okozó – technikai tevékenységre vonatkozó tájékoztatást a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha a technikai tevékenység kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv a személyre szabott ügyintézési felületen, valamint saját honlapján köteles a technikai tevékenység tervezett kezdő időpontja előtt 3 nappal közzétenni, továbbá arról értesíteni a felügyeletet. A tájékoztatásban fel kell tüntetni:
 
 a) a technikai tevékenység tervezett kezdő és záró időpontját (nap, óra, perc pontossággal),
 
@@ -8,7 +8,7 @@ c) ha a tervezett technikai tevékenység az elektronikus ügyintézés módosul
 
 d) ha az elektronikus ügyintézés olyan elektronikus felületen is elérhető, amelyet a technikai tevékenység nem érint, a felület elérhetőségét.
 
-(2) Előre nem tervezett üzemszünet vagy az elektronikus ügyintézés korlátozott működőképességét okozó esemény (a továbbiakban együtt:üzemzavar) bekövetkezése esetén a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha az üzemzavar kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv az üzemzavar bekövetkezését követően haladéktalanul a személyre szabott ügyintézési felületen, valamint saját honlapján köteles soron kívül tájékoztatást közzétenni, továbbá az üzemzavarról értesíteni a felügyeletet. A tájékoztatásban fel kell tüntetni:
+(2)[^43] Előre nem tervezett üzemszünet vagy az elektronikus ügyintézés korlátozott működőképességét okozó esemény (a továbbiakban együtt:üzemzavar) bekövetkezése esetén a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, vagy ha az üzemzavar kizárólag az elektronikus ügyintézést biztosító szerv működési körébe esik, az elektronikus ügyintézést biztosító szerv az üzemzavar bekövetkezését követően haladéktalanul a személyre szabott ügyintézési felületen, valamint saját honlapján köteles soron kívül tájékoztatást közzétenni. A tájékoztatásban fel kell tüntetni:
 
 a) az üzemzavarral pontosan érintett ügyintézési szolgáltatások meghatározását,
 
@@ -18,4 +18,5 @@ c) ha az elektronikus ügyintézés más elektronikus felületen is elérhető, 
 
 (3) A szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, valamint az elektronikus ügyintézést biztosító szerv az elvégzett (1) bekezdés szerinti tevékenységről, valamint a (2) bekezdés szerinti üzemzavarról szóló nyilvántartást a személyre szabott ügyintézési felületen és a saját honlapján is hozzáférhetővé teszi. A nyilvántartásnak tartalmaznia kell a technikai tevékenység, illetve az üzemzavar pontos időpontját és időtartamát, továbbá a szabályozott vagy központi elektronikus ügyintézési szolgáltatás nyújtója, valamint az elektronikus ügyintézést biztosító szerv által kiadott tájékoztatást.
 
-[^41]: Az 53. § a 179/2018. (X. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^42]: Az 53. § a 179/2018. (X. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^43]: Az 53. § (2) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 39. §-a szerint módosított szöveg.

@@ -2,7 +2,7 @@
 
 (2) A PKASZ szolgáltatója a vele azonos tartalmú SZEÜSZ vagy KEÜSZ szolgáltatója (a továbbiakban együtt: kijelölt szolgáltató).
 
-(3)[^50] Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz a 2. melléklet szerint kialakított díj megfizetése ellenében, a kijelölt szolgáltató által közzétett általános szerződési feltételekben foglaltak elfogadásával csatlakozhat.
+(3)[^53] Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz a 2. melléklet szerint kialakított díj megfizetése ellenében, a kijelölt szolgáltató által közzétett általános szerződési feltételekben foglaltak elfogadásával csatlakozhat.
 
 (4) A Központi Kormányzati Szolgáltatás Busz, valamint a Kormány által biztosított szabályozott elektronikus azonosítási szolgáltatásokat, az összerendelési nyilvántartás és a központi azonosítási ügynök szolgáltatást, valamint a szolgáltatások használatához technikailag szükséges, a kormányzati hitelesítés szolgáltató által nyújtott tanúsítványszolgáltatást az E-ügyintézési tv. 1. § 30a. pontjában szabályozott központi állami szolgáltatásként díjmentesen veheti igénybe az a piaci szereplő, amely jogszabály alapján kötelezett, illetve jogosult
 
@@ -24,15 +24,15 @@ a) PKASZ gépi igénybevételéhez technikailag szükséges tanúsítvány szolg
 
 b) személyazonosító igazolványhoz tartozó elektronikus aláírás hitelesítési és az ehhez kapcsolódóan nyújtott időbélyegzés szolgáltatás szolgáltatója által nyújtott szerepkör-tanúsítvány szolgáltatás,
 
-c) a központi érkeztetési ügynök szolgáltatás,
+c)[^54]
 
-d) a központi kézbesítési ügynök szolgáltatás,
+d)[^55]
 
 e) az elektronikus fizetési és elszámolási rendszer,
 
-f) az elektronikus dokumentumtárolás szolgáltatás,
+f)[^56]
 
-g) az iratkezelő rendszerek közötti iratáthelyezés szolgáltatás,
+g)[^57]
 
 h) a 94. § (4) bekezdése szerinti ügynöki szolgáltatás,
 
@@ -52,4 +52,8 @@ m) a mesterséges intelligenciával támogatott kommunikációs asszisztens.
 
 (8) Az (1) bekezdés szerinti piaci szereplő a PKASZ-hoz akkor csatlakozhat, ha a kijelölt szolgáltató kapacitásai rendelkezésre állnak-e szolgáltatások nyújtására. A kijelölt szolgáltató a csatlakozó szerv által megküldött tervezett kapacitásigényt figyelembe véve tesz javaslatot a felügyeletnek a csatlakozásra.
 
-[^50]: A 68/B. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^53]: A 68/B. § (3) bekezdése a 618/2022. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^54]: A 68/B. § (5) bekezdés c) pontját az 530/2023. (XII. 1.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^55]: A 68/B. § (5) bekezdés d) pontját az 530/2023. (XII. 1.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^56]: A 68/B. § (5) bekezdés f) pontját az 530/2023. (XII. 1.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^57]: A 68/B. § (5) bekezdés g) pontját az 530/2023. (XII. 1.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.

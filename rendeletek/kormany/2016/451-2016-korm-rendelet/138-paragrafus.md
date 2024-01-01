@@ -1,6 +1,6 @@
 ## 28. A szolgáltatásnyújtás bejelentése
 
-138. § (1)[^190] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
+138. § (1)[^204] A KEÜSZ vagy SZEÜSZ szolgáltató köteles a felügyelet részére a szolgáltatás nyújtásának megkezdésére irányuló szándékot, valamint a megkezdés tervezett időpontját elektronikusan, a felügyelet által közétett tájékoztatás szerint bejelenteni.
 
 (2) A szolgáltató a bejelentéshez köteles csatolni:
 
@@ -14,13 +14,13 @@ d) a szolgáltató katasztrófaelhárítási eljárásra vonatkozó szabályzat�
 
 e) a külön jogszabályban meghatározott biztonsági és egyéb műszaki követelményeknek való megfelelést alátámasztó dokumentumokat, valamint
 
-f)[^191] a független tanúsító szerv által kiadott, a jogi, az informatikai minőségügyi és az informatikai biztonsági vizsgálat eredményeit egyaránt tartalmazó teljes körű jogi és informatikai audit jelentést.
+f)[^205] a független tanúsító szerv által kiadott, a jogi, az informatikai minőségügyi és az informatikai biztonsági vizsgálat eredményeit egyaránt tartalmazó teljes körű jogi és informatikai audit jelentést.
 
 (3) A bejelentés szükség esetén intézkedési tervet tartalmaz, amelyben foglaltak teljesülését a felügyelet ellenőrzi.
 
 (4) A felügyelet megkeresése alapján a szolgáltatás nyilvántartásba vételére vonatkozó eljárásban a szolgáltatás információbiztonságának véleményezése érdekében a bejelentést a Nemzeti Elektronikus Információbiztonsági Hatóság – a megkereséstől számított 8 napon belül – véleményezi.
 
-(5)[^192] A felügyelet – ha a nyilvántartásba vétel megtagadásának indoka nem áll fenn – a szolgáltatót a bejelentésben közölt adatoknak megfelelően bejegyzi a szolgáltatókról vezetett nyilvántartásába, és – ha hiánypótlás nem szükséges – a bejelentés időpontjától számított 30 napon belül a nyilvántartásba vétel tényét visszaigazolja.
+(5)[^206] A felügyelet – ha a nyilvántartásba vétel megtagadásának indoka nem áll fenn – a szolgáltatót a bejelentésben közölt adatoknak megfelelően bejegyzi a szolgáltatókról vezetett nyilvántartásába, és – ha hiánypótlás nem szükséges – a bejelentés időpontjától számított 30 napon belül a nyilvántartásba vétel tényét visszaigazolja.
 
 (6) A felügyelet megtagadja a nyilvántartásba vételt, ha
 
@@ -28,7 +28,7 @@ a) a bejelentésben foglalt adatok a hiánypótlás ellenére a szolgáltató va
 
 b) a szolgáltatás nyújtása a benyújtott információk alapján nem alkalmas a biztonságos igénybevételhez.
 
-(7)[^193] A szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint a szolgáltatás nyújtásának megszűnését 30 napon belül köteles bejelenteni a felügyeletnek.
+(7)[^207] A szolgáltató a bejelentésben közölt adatokban bekövetkezett változásokat, valamint a szolgáltatás nyújtásának megszűnését 30 napon belül köteles bejelenteni a felügyeletnek.
 
 (8) A felügyeletnek a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatókról szóló nyilvántartását a felügyelet a honlapján közzéteszi, és abba bárki betekinthet.
 
@@ -54,7 +54,7 @@ vizsgálatára.
 
 (11) A szolgáltató a szolgáltatásnyújtás megkezdésének tervezett időpontját köteles a bejegyzés iránti kérelem benyújtását követő 3 hónapon túli időpontban megjelölni.
 
-[^190]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
-[^191]: A 138. § (2) bekezdés f) pontja a 179/2018. (X. 2.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^192]: A 138. § (5) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^193]: A 138. § (7) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § q) pontja szerint módosított szöveg.
+[^204]: A 138. § (1) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § h) pontja szerint módosított szöveg.
+[^205]: A 138. § (2) bekezdés f) pontja a 179/2018. (X. 2.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^206]: A 138. § (5) bekezdése a 717/2021. (XII. 20.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^207]: A 138. § (7) bekezdése a 361/2017. (XI. 30.) Korm. rendelet 6. § q) pontja szerint módosított szöveg.

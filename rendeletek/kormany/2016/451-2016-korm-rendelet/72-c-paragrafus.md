@@ -1,4 +1,4 @@
-72/C. §[^55] (1) VKTA-regisztráció során a Kormány által kijelölt szolgáltató (e § alkalmazásában a továbbiakban: kijelölt szolgáltató) az e §-ban foglaltak szerint jár el.
+72/C. §[^62] (1) VKTA-regisztráció során a Kormány által kijelölt szolgáltató (e § alkalmazásában a továbbiakban: kijelölt szolgáltató) az e §-ban foglaltak szerint jár el.
 
 (2) A VKTA-regisztráció esetén kijelölt szolgáltató az azonosítást az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-a alapján végzi el.
 
@@ -26,4 +26,4 @@ c) az okmány azonosítója megegyezik a felhasználó által közölt okmányaz
 
 (7) Nincs helye VKTA-regisztrációnak, ha a regisztráció az e §-ban foglaltaknak nem felelt meg.
 
-[^55]: A 72/C. §-t az 572/2020. (XII. 9.) Korm. rendelet 91. §-a iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 92. §-ával megállapított szöveg.
+[^62]: A 72/C. §-t az 572/2020. (XII. 9.) Korm. rendelet 91. §-a iktatta be, szövege az 572/2020. (XII. 9.) Korm. rendelet 92. §-ával megállapított szöveg.

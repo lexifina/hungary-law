@@ -30,6 +30,6 @@ f) adatvédelemmel kapcsolatos információkat.
 
 (8) A (7) bekezdésben foglalt értesítésnek tartalmaznia kell a Kormányzati Ügyfélvonal által történő ügyfél-tájékoztatáshoz szükséges információkat.
 
-(9)[^37] Ha az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv a (7) bekezdésben foglalt értesítést, illetve a (8) bekezdés szerinti ügyfél-tájékoztatáshoz szükséges információkat nem biztosítja, abban az esetben a Kormányzati Ügyfélvonal jogosult közvetlenül az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv vezetőjétől tájékoztatást kérni.
+(9)[^38] Ha az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv a (7) bekezdésben foglalt értesítést, illetve a (8) bekezdés szerinti ügyfél-tájékoztatáshoz szükséges információkat nem biztosítja, abban az esetben a Kormányzati Ügyfélvonal jogosult közvetlenül az elektronikus ügyintézést biztosító szerv, az elektronikus ügyintézési szolgáltató és az országos alkalmazásüzemeltető szerv vezetőjétől tájékoztatást kérni.
 
-[^37]: A 48. § (9) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^38]: A 48. § (9) bekezdését a 176/2019. (VII. 18.) Korm. rendelet 11. § (2) bekezdése iktatta be.

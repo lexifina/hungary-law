@@ -2,12 +2,12 @@
 
 158. § (1) Hatályát veszti
 
-a)–b)[^256]
+a)–b)[^270]
 
-c)[^257]
+c)[^271]
 
-(2)[^258]
+(2)[^272]
 
-[^256]: A 158. § (1) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^257]: A 158. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 10. §-a alapján nem lép hatályba.
-[^258]: A 158. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^270]: A 158. § (1) bekezdés a)–b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^271]: A 158. § (1) bekezdés c) pontja a 221/2017. (VIII. 7.) Korm. rendelet 10. §-a alapján nem lép hatályba.
+[^272]: A 158. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

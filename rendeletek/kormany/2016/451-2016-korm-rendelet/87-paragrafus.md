@@ -1,11 +1,11 @@
 87. § (1) A hivatali tárhely megszűnik, ha
 
-a)[^79] az együttműködő szerv a hivatali tárhely megszüntetését igényli,
+a)[^86] az együttműködő szerv a hivatali tárhely megszüntetését igényli,
 
-b)[^80] az együttműködő szerv megszűnik.
+b)[^87] az együttműködő szerv megszűnik.
 
-(2)[^81] A hivatali tárhely az együttműködő szerv, illetve a tárhely megszűnésének bejelentésétől, illetőleg a megszűnésnek a szolgáltató tudomására jutásától nem fogad dokumentumokat, és a bejelentéstől, illetve a tudomásra jutástól számított 30. napon megszűnik.
+(2)[^88] A hivatali tárhely az együttműködő szerv, illetve a tárhely megszűnésének bejelentésétől, illetőleg a megszűnésnek a szolgáltató tudomására jutásától nem fogad dokumentumokat, és a bejelentéstől, illetve a tudomásra jutástól számított 30. napon megszűnik.
 
-[^79]: A 87. § (1) bekezdés a) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^80]: A 87. § (1) bekezdés b) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^81]: A 87. § (2) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^86]: A 87. § (1) bekezdés a) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^87]: A 87. § (1) bekezdés b) pontja a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^88]: A 87. § (2) bekezdése a 221/2017. (VIII. 7.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
