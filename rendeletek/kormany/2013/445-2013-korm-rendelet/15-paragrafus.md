@@ -64,13 +64,15 @@
 
 30.[^76] a magyar állampolgár Harmtv. szerinti családtagjának.
 
+31.[^77] a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény hatálya alá tartozó foglalkoztatónál, a Magyar Kutatási Hálózatnál, valamint minden olyan gazdasági társaság esetében, amelyik a TEÁOR’08 szerinti 72.11, 72.19 vagy 72.20 szám szerinti tevékenységet fő- vagy melléktevékenységként végzi és legalább 25%-ban a magyar állam a tulajdonosa, a harmadik országbeli állampolgár oktatói vagy kutatói munkakörének betöltésével együtt járó oktatási, kutatási tevékenységének elvégzéséhez.
+
 (2) Az (1) bekezdésben meghatározott mentesség nem vonatkozik a harmadik országbeli állampolgárnak a mentesség alá eső tevékenységét meghaladó munkavégzésére.
 
 (3) Az (1) bekezdés 3. és 5. pontjában meghatározott viszonosság fennállásának tekintetében a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-(3a)[^77] Az (1) bekezdés 26. pontja alapján a miniszter évente március 31-éig közleményben állapítja meg azokat a foglalkozásokat, amelyekre
+(3a)[^78] Az (1) bekezdés 26. pontja alapján a miniszter évente március 31-éig közleményben állapítja meg azokat a foglalkozásokat, amelyekre
 
-a)[^78] a benyújtott munkaerőigények alapján a járási hivatalok országosan, vármegyei szinten vagy járási szinten
+a)[^79] a benyújtott munkaerőigények alapján a járási hivatalok országosan, vármegyei szinten vagy járási szinten
 
 aa) legalább egy hónapja nem tudtak megfelelő létszámú munkaerőt közvetíteni, vagy
 
@@ -78,9 +80,9 @@ ab) azért nem tudnak megfelelő létszámú munkaerőt közvetíteni, mert röv
 
 b) a munkaerőigényt szomszédos országbeli állampolgárokkal lehet hatékonyan biztosítani.
 
-(3b)[^79] A miniszter a (3a) bekezdés szerinti közleményt hivatalos lapban teszi közzé.
+(3b)[^80] A miniszter a (3a) bekezdés szerinti közleményt hivatalos lapban teszi közzé.
 
-(3c)[^80] Az (1) bekezdés 27. és 28. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes kormányhivatalt tájékoztassa.
+(3c)[^81] Az (1) bekezdés 27. és 28. pontjában meghatározott mentesség feltétele, hogy az idegenrendészeti hatóság a magyarországi foglalkoztatásról az illetékes kormányhivatalt tájékoztassa.
 
 (4) A mentesség alapjául szolgáló feltételek fennállását a foglalkoztatónak kell bizonyítani.
 
@@ -98,7 +100,8 @@ b) a munkaerőigényt szomszédos országbeli állampolgárokkal lehet hatékony
 [^74]: A 15. § (1) bekezdés 28. pontját a 636/2020. (XII. 22.) Korm. rendelet 7. § (1) bekezdése iktatta be.
 [^75]: A 15. § (1) bekezdés 29. pontját a 227/2022. (VI. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^76]: A 15. § (1) bekezdés 30. pontját a 227/2022. (VI. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^77]: A 15. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
-[^78]: A 15. § (3a) bekezdés a) pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 171. § e) pontja szerint módosított szöveg.
-[^79]: A 15. § (3b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
-[^80]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be, szövege a 636/2020. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^77]: A 15. § (1) bekezdés 31. pontját a 610/2023. (XII. 22.) Korm. rendelet 22. §-a iktatta be.
+[^78]: A 15. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^79]: A 15. § (3a) bekezdés a) pont nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 171. § e) pontja szerint módosított szöveg.
+[^80]: A 15. § (3b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (3) bekezdése iktatta be.
+[^81]: A 15. § (3c) bekezdését a 113/2016. (V. 30.) Korm. rendelet 82. § (4) bekezdése iktatta be, szövege a 636/2020. (XII. 22.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

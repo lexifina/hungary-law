@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-445-20-
 | 2022-07-01 | 2013-445-20-22.23 | 318/2014. (XII. 13.) Korm. rendelet |
 | 2023-01-01 | 2013-445-20-22.24 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-11-19 | 2013-445-20-22.25 | 280/2023. (VI. 29.) Korm. rendelet |
+| 2024-01-01 | 2013-445-20-22.26 | 610/2023. (XII. 22.) Korm. rendelet |
