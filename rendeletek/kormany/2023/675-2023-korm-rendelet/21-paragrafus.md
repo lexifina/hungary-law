@@ -1,1 +1,3 @@
-21. § Az R5 1. melléklet 9. pontjában foglalt táblázat A:22 mezőjében az „összevont környezeti hatásvizsgálati, valamint egységes környezethasználati engedélyezési eljárás.” szövegrész helyébe az „egységes környezethasználati engedélyezési eljárás, összevont eljárás, valamint felülvizsgálati eljárás.” szöveg lép.
+21. §[^22]
+
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

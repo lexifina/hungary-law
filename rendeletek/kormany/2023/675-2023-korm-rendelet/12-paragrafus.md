@@ -1,1 +1,3 @@
-12. § Hatályát veszti az R2 10. § (2) bekezdés d) pontjában a „(ha a hulladékot nem a közszolgáltató kezeli)” szövegrész.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

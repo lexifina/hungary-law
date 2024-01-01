@@ -1,5 +1,5 @@
 ## 8. Az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet módosítása
 
-10. § Az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet (a továbbiakban: R2) 10. §-a a következő (10) bekezdéssel egészül ki:
+10. §[^11]
 
-„(10) Ezen alcím rendelkezéseit az 1. mellékletben felsorolt állami hulladékgazdálkodási közfeladat körébe nem tartozó hulladék esetében azzal az eltéréssel kell alkalmazni, hogy a tevékenységet a koncessziós társaság nem a hulladékgazdálkodási közszolgáltatási résztevékenység ellátása keretében végzi.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
