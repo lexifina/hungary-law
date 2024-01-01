@@ -1,1 +1,5 @@
-### 37. §
+37. § Az Nftv. 103. §-a következő (1c) és (1d) bekezdéssel egészül ki:
+
+„(1c) A tanárképző központ pedagógusképző központtá alakítható, amely esetben a feladatait a teljes pedagógusképzéshez kapcsolódóan látja el. Ebben az esetben a pedagógusképző központ az (1)–(1b) bekezdésben foglaltakon túlmenően önálló költségkerettel rendelkezhet, valamint feladata a köznevelés alapvető, tartalmi-szabályozó dokumentumát figyelembe vevő tartalmi összehangolás is.
+
+(1d) Az (1c) bekezdés szerinti pedagógusképző központ munkáját a tanárképzés területén a felsőoktatási intézmény tanárképzési tanácsa segíti, amelynek feladata többek között a tanárképzéssel összefüggő szakmai, tartalmi, gyakorlati képzéshez kapcsolódó feladatok összehangolásának támogatása, a mintatantervek, tantárgyleírások felülvizsgálata és a mindenkori köznevelés tartalmi szabályozó dokumentumainak történő megfelelés biztosítása. A tanárképzési tanács tagjai a gyakorlóiskolák és partnerintézmények szakvezetői, továbbá szakfelelősei. A tanárképzési tanács tagjainak legalább felét a szakfelelősök alkotják. A tanárképzési tanács tagjait a rektor nevezi ki öt évre.”
