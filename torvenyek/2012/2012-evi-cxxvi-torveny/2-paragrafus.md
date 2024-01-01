@@ -10,9 +10,9 @@ ac) az aa) és ab) pont szerinti feltételek hiányában a földművesként nyil
 
 b) gazdálkodó szervezet: Magyarországon székhellyel, telephellyel, kereskedelmi képvi-selettel vagy fiókteleppel rendelkező
 
-ba) agrárgazdasági tevékenységet főtevékenységként folytató,
+ba) az 1. vagy a 2. mellékletben szereplő agrárgazdasági tevékenységet fő-, illetve melléktevékenységként folytató,
 
-bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és agrárgazdasági tevékenységet folytató
+bb) a ba) pont szerinti feltételek hiányában az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és a 3. mellékletben szereplő agrárgazdasági tevékenységet folytató
 
 bc) a ba) és bb) pont szerinti feltételek hiányában mezőgazdasági termelőszervezetként nyilvántartott,
 
@@ -20,7 +20,7 @@ a polgári perrendtartásról szóló 2016. évi CXXX. törvény 7. § (1) bekez
 
 c)
 
-d) agrárgazdasági tevékenység: az 1. és 2. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
+d) agrárgazdasági tevékenység: az 1–3. mellékletben felsorolt ÖVTJ- és TEÁOR kódszámok szerinti tevékenységek;
 
 e) gazdasági kamara: a kereskedelmi és iparkamara és az agrárkamara;
 

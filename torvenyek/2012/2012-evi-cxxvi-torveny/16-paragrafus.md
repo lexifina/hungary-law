@@ -2,7 +2,7 @@
 
 16. § (1) Az agrárkamara szolgáltatási közfeladatai keretében
 
-a) országos szaktanácsadói hálózatot működtet;
+a) országos tanácsadói hálózatot működtet;
 
 b) tájékoztatást nyújt a gazdasággal összefüggő magyar és külföldi jogszabályokról, valamint a gazdálkodó szervezetek tevékenységét érintő gazdaságpolitikai döntésekről és intézkedésekről, előmozdítja a gazdasági együttműködés fejlődését;
 

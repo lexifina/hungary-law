@@ -28,7 +28,7 @@ ag) az adóazonosító jelét, adószámát,
 
 ah) az egyéni vállalkozói nyilvántartási számát, székhelyét, telephelyét, fióktelepét, egyéni vállalkozói tevékenység szüneteltetésének kezdetét és végét,
 
-ai) az őstermelői igazolványa számát, annak hatályossági és érvényességi időtartamát, valamint a biztosítási jogviszonyára vonatkozó adatát;
+ai) az őstermelői igazolványa számát, az őstermelői nyilvántartásban azonosítására szolgáló számát, azok hatályossági és érvényességi időtartamát, a nyilvántartásba vétel kezdetét és végét, valamint a biztosítási jogviszonyára vonatkozó adatát;
 
 aj) az őstermelők családi gazdaságának alapításáról szóló szerződés számát,
 
@@ -60,7 +60,7 @@ bc) a cégjegyzékszámát, a nem a cégnyilvánosságról, a bírósági cégel
 
 bd) az adószámát,
 
-be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
+be) a bejelentett törvényes képviselője nevét, anyja nevét és lakcímét, elérhetőségeit, egyéb, a nyilvános cégnyilvántartásban szereplő adatait, és – önkéntes adatszolgáltatás alapján, a gazdálkodó szervezet erre irányuló kérelme esetén – a kamarai kapcsolattartásra jogosult személy nevét és elérhetőségeit,
 
 bf) a statisztikai azonosítóját,
 
@@ -68,13 +68,13 @@ bg) a mezőgazdasági és vidékfejlesztési támogatási szervnél nyilvántart
 
 bh) az agrárkamarai nyilvántartási számát,
 
-bi) az általa folytatott agrárgazdasági tevékenységek körét,
+bi) az általa folytatott tevékenységek körét,
 
 bj) a bankszámlaszámát,
 
 bk) a tagsági viszony kezdetét,
 
-bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott FELIR-azonosítót,
+bl) az élelmiszerlánc-felügyeleti szerv által az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott FELIR-azonosítót és annak állapotát,
 
 bm) az értesítési címét,
 
@@ -84,7 +84,7 @@ bo) a családi mezőgazdasági társasági minősítést.
 
 c) természetes személy pártoló, önkéntes, tiszteletbeli tag a) pontban rögzített adatait;
 
-d) nem természetes személy pártoló, önkéntes, tiszteletbeli tag b) pont ba)–bn) alpontokban rögzített adatait;
+d) nem természetes személy pártoló, önkéntes, tiszteletbeli tag b) pontban rögzített adatait;
 
 e) a kamarai tag önkéntes adatszolgáltatása alapján nyújtott adatait;
 
