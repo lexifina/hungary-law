@@ -1,5 +1,5 @@
-## 14.[^76]
+## 14.[^83]
 
 26. §
 
-[^76]: A 14. alcímet (26. §-t) a 317/2023. (VII. 17.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^83]: A 14. alcímet (26. §-t) a 317/2023. (VII. 17.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
