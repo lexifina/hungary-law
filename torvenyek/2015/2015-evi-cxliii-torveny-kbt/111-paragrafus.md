@@ -10,7 +10,7 @@ c) a 3. melléklet szerinti egészségügyi szolgáltatásra akkor, ha az ellát
 
 d) a 3. melléklet szerinti bármely szolgáltatásra, ha annak becsült értéke a tizennyolcmillió forintot nem éri el;
 
-e) nemzetközi fejlesztési együttműködési és nemzetközi humanitárius segítségnyújtási tevékenység keretében történő beszerzésre;
+e) nemzetközi fejlesztési együttműködési, nemzetközi humanitárius segítségnyújtási tevékenység és nemzetközi stabilitást elősegítő tevékenység keretében történő beszerzésre;
 
 f) a hideg élelmiszer és főzési alapanyag, friss, illetve feldolgozott zöldség és gyümölcs, tej és tejtermék, gabonafélék, kenyér és pékáru, méz, tojás, kertészeti növény beszerzésére;
 
