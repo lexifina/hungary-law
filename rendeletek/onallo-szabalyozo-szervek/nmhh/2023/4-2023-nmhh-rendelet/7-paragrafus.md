@@ -1,3 +1,1 @@
-7. §[^6]
-
-[^6]: A 7. § a 6. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.
+7. § Hatályát veszti az elektronikus hírközlési szolgáltatás minőségének az előfizetők és felhasználók védelmével összefüggő követelményeiről, valamint a díjazás hitelességéről szóló 13/2011. (XII. 27.) NMHH rendelet 9. § (2) bekezdése.
