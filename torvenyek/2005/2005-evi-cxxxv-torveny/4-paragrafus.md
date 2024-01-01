@@ -22,9 +22,11 @@ a) tájékoztatást,
 
 b) jogi tanácsot,
 
-c) érzelmi segítséget és
+c) érzelmi segítséget,
 
-d) egyéb segítséget
+d) tolmácsolási, fordítási segítséget, továbbá
+
+e) egyéb segítséget
 
 nyújt a sérelem rendezéséhez.
 
