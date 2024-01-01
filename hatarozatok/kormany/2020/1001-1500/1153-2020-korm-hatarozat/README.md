@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1153-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2020-04-14 | 2020-1153-30-22.1 | 1153/2020. (IV. 14.) Korm. határozat |
+| 2024-01-01 | 2020-1153-30-22.2 | 2011: CXCV. törvény |
