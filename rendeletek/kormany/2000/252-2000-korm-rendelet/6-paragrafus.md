@@ -38,6 +38,15 @@ g)[^11] a pénztár által nyújtott vagy finanszírozott szolgáltatások ellen
 
 (7) A pénztár számviteli politikájának elkészítéséért, módosításáért a pénztár igazgatótanácsának elnöke vagy az általa megbízott ügyvezető a felelős.
 
+(8)[^13] A pénztár a befektetett pénzügyi eszközök, valamint a forgóeszközök között kimutatott értékpapírokhoz kapcsolódóan folyamatos, naprakész analitikus nyilvántartást vezet.
+
+(9)[^14] Az értékpapírok analitikus nyilvántartása legalább a következő adatokat tartalmazza: alaponként és vagyonkezelőnként – ideértve a saját vagyonkezelési tevékenységet is – elkülönítetten, értékpapírfajtánként az értékpapír azonosító adatait, az értékpapírokkal kapcsolatos tranzakciókat (vásárlás, eladás, lejárat, kamat-, illetve osztalékfizetés) a tranzakció időpontját, az értékpapír névértékét, vételárát, illetve eladási árát, könyv szerinti értékét, kamatozó értékpapírok esetében a vételárban, illetve eladási árban felhalmozott kamat összegét, az eladáskor realizált kamat, árfolyamnyereség, illetve árfolyamveszteség összegét.
+
+(10)[^15] A pénztár folyamatosan biztosítja a fedezeti, a működési és a likviditási alap tartaléka állományának és az egyes alapokhoz rendelt, azok fedezetét képező eszközök állományának az alaponkénti egyezőségét, valamint a függő tételek állománya és az azok fedezetét képező eszközök állománya egyezőségét.
+
 [^10]: A 6. § (2) bekezdése a 342/2011. (XII. 29.) Korm. rendelet 47. §-a szerint módosított szöveg.
 [^11]: A 6. § (5) bekezdésének g) pontját a 358/2006. (XII. 27.) Korm. rendelet 36. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
 [^12]: A 6. § (6) bekezdése a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (6) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^13]: A 6. § (8) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 20. §-a iktatta be.
+[^14]: A 6. § (9) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 20. §-a iktatta be.
+[^15]: A 6. § (10) bekezdését a 642/2023. (XII. 28.) Korm. rendelet 20. §-a iktatta be.

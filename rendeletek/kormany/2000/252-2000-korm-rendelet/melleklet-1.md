@@ -1,6 +1,6 @@
-1. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^79]
+1. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^84]
 
-## A mérleg előírt tagolása
+A mérleg előírt tagolása
 
 ## --------------------
 
@@ -134,4 +134,4 @@ I. Rövid lejáratú kötelezettségek
 
 II. Egyéb passzív pénzügyi elszámolások
 
-[^79]: Az 1. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 42. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^84]: Az 1. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 42. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
