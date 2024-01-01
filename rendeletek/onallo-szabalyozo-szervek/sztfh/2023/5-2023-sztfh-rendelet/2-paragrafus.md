@@ -4,8 +4,10 @@
 
 (3) Ha a robbantást követően biztonságellenes állapot marad vissza, a bányavállalkozónak a biztonságellenes állapot megszüntetéséhez szükséges további robbantás elvégzéséhez be kell szereznie a bányafelügyelet engedélyét, a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a polgári felhasználású robbanóanyagok forgalmazásáról és felügyeletéről szóló rendeletében foglaltak szerint.
 
-(4) A bányavállalkozó a robbantás hatásterületén zaj- és vibrációméréseket végez, amelyek eredményét dokumentálja. A bányavállalkozó a mérési eredményeket a robbantást követő 8 napon belül benyújtja a bányafelügyelethez.
+(4)[^1] A bányavállalkozó a robbantás hatásterületén zaj- és vibrációméréseket végez, amelyek eredményét dokumentálja. A bányavállalkozó a mérési eredményeket – a robbantás pontos helyszínének térképen vagy térképrészleten történő megjelölésével – a robbantást követő 8 napon belül benyújtja a bányafelügyelethez.
 
 (5) A bányászatról szóló 1993. évi XLVIII. törvény 49. § 4. pont a), b) és g) alpontja szerinti tevékenység a bányatelken belül vagy a világörökségi területen kívül végezhető. A bányatelken kívül új szállítószalag létesítése tilos.
 
 (6) A kitermelési, valamint a (2) és (3) bekezdés szerinti tevékenységet, továbbá a kitermelt nyersanyag elszállítását úgy kell kialakítani és szervezni, hogy a kiporzás, a hanghatás, valamint a rezgéskeltés hatása a lehető legkisebb legyen.
+
+[^1]: A 2. § (4) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 14. §-a szerint módosított szöveg.
