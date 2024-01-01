@@ -8,8 +8,6 @@
 
 (4) Az (1)–(3) bekezdés hatálya alá nem tartozó, a VET szerint nem engedélyköteles kiserőmű rendszeres adatszolgáltatási kötelezettsége a villamosenergia-termelői tevékenysége megkezdésének napján áll be.
 
-(5)[^3]
+(5) A VET 3. § 3a. pontja szerinti aggregátorok adatszolgáltatási kötelezettsége a Hivatal nyilvántartásába vételről szóló határozat véglegessé válásának napján áll be.
 
 (6) Az „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú, illetve az „Ügyfélkapcsolati szolgáltatás-minőség minimális minőségi követelményének és elvárt színvonalának meghatározása” tárgyú határozatokban előírt adatszolgáltatási kötelezettség a határozat véglegessé válásának napján áll be.
-
-[^3]: A 7. § (5) bekezdése a 17. § (2) bekezdés alapján 2024. január 1-jén lép hatályba.

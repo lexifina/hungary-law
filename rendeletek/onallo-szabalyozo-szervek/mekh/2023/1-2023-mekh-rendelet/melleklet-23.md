@@ -18,7 +18,7 @@
 
 | 9. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 10.[^43] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 10.[^40] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## II. A földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -48,7 +48,7 @@
 
 | 12. | Földgázszerződés-kötés részletei | T228s | Éves | A tárgyév június 5. napja. |
 
-| 13.[^44] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 13.[^41] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## III. A biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -74,7 +74,7 @@
 
 | 10. | Távhőtermelői auditált mérleg és eredménykimutatás | T237b | Éves | A tárgyévet követő év június 5. |
 
-| 11.[^45] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 11.[^42] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 ## IV. Az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli létesítmények részére térítésmentesen kiosztásra került kibocsátási egységekkel összefüggésben földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -106,7 +106,7 @@
 
 | 13. | Földgázszerződés-kötés részletei | T228s | Éves | A tárgyév június 5. napja. |
 
-| 14.[^46] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 14.[^43] | Távhőtermelők villamosenergia-beszerzés költsége | T241 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 23. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
@@ -140,7 +140,7 @@ I. A távhőszolgáltatói működési engedélyes adatszolgáltatási köteleze
 
 | 13. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 14.[^47] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 14.[^44] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 II. A nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és nem időjárásfüggő (biomassza kivételével) megújuló energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -176,7 +176,7 @@ II. A nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és ne
 
 | 15. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 16.[^48] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 16.[^45] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 III. A földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -218,7 +218,7 @@ III. A földgáz energiahordozó alapú távhőtermelő berendezést üzemeltet�
 
 | 18. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 19.[^49] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 19.[^46] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 IV. A biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -256,7 +256,7 @@ IV. A biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető
 
 | 16. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 17.[^50] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 17.[^47] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
 V. Az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli létesítmények részére térítésmentesen kiosztásra került kibocsátási egységekkel összefüggésben földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes adatszolgáltatási kötelezettsége
 
@@ -300,14 +300,14 @@ V. Az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli lét
 
 | 19. | Fizetési hátralékos fogyasztók és kikapcsolások | T570 | Havi | A tárgyhónapot követő hónap huszonötödik napja. |
 
-| 20.[^51] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
+| 20.[^48] | Távhőszolgáltatók villamosenergia-beszerzés költsége | T541 | Éves | A tárgyidőszakot követő év júliusának 15. napja. |
 
-[^43]: A 22. melléklet I. pontjában foglalt táblázat 10. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^44]: A 22. melléklet II. pontjában foglalt táblázat 13. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^45]: A 22. melléklet III. pontjában foglalt táblázat 11. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^46]: A 22. melléklet IV. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
-[^47]: A 23. melléklet I. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^48]: A 23. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^49]: A 23. melléklet III. pontjában foglalt táblázat 19. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^50]: A 23. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
-[^51]: A 23. melléklet V. pontjában foglalt táblázat 20. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^40]: A 22. melléklet I. pontjában foglalt táblázat 10. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^41]: A 22. melléklet II. pontjában foglalt táblázat 13. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^42]: A 22. melléklet III. pontjában foglalt táblázat 11. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^43]: A 22. melléklet IV. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § i) pontja iktatta be.
+[^44]: A 23. melléklet I. pontjában foglalt táblázat 14. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^45]: A 23. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^46]: A 23. melléklet III. pontjában foglalt táblázat 19. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^47]: A 23. melléklet IV. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
+[^48]: A 23. melléklet V. pontjában foglalt táblázat 20. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § j) pontja iktatta be.
