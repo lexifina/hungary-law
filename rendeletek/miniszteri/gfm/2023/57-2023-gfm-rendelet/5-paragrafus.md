@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 27/1996. NM rendelet
+5. §[^6]
 
-a) 3. § (2a) és (2b) bekezdése,
-
-b) 5/D. § (1) bekezdése.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

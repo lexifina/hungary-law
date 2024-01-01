@@ -1,3 +1,3 @@
-1. § A foglalkozási betegségek és fokozott expozíciós esetek bejelentéséről és kivizsgálásáról szóló 27/1996. (VIII. 28.) NM rendelet (a továbbiakban: 27/1996. NM rendelet) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az orvosi tevékenység körében észlelt – az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 3. számú mellékletében szereplő – foglalkozási betegség, foglalkozási eredetű heveny vagy idült mérgezés (a továbbiakban együtt: foglalkozási betegség) gyanúját a munkáltató telephelye szerint illetékes fővárosi és vármegyei kormányhivatalhoz mint munkavédelmi hatósághoz (a továbbiakban: munkavédelmi hatóság) a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 64/C. §-a szerint be kell jelenteni, ki kell vizsgálni és elfogadásuk esetén nyilvántartásba kell venni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
