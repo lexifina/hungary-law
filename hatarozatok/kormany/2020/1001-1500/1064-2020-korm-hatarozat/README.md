@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1064-30
 | 2021-12-22 | 2020-1064-30-22.4 | 1596/2020. (IX. 21.) Korm. határozat |
 | 2022-11-30 | 2020-1064-30-22.5 | 1596/2020. (IX. 21.) Korm. határozat |
 | 2023-12-28 | 2020-1064-30-22.6 | 1596/2020. (IX. 21.) Korm. határozat |
+| 2024-01-01 | 2020-1064-30-22.8 | 2011: CXCV. törvény |
