@@ -1,7 +1,3 @@
-## „
+2. melléklet a 71/2023. (XII. 23.) BM rendelethez[^11]
 
-| * | 08P | 400C | Scoliosis műtétei | 2 | 43 | 13 | 7,41145 |
-
-## ”
-
-2. melléklet a 71/2023. (XII. 23.) BM rendelethez
+[^11]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
