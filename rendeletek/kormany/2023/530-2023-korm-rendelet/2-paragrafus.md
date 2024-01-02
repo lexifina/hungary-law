@@ -1,1 +1,3 @@
-2. § A Keir. 61. § (4) bekezdés b) pontjában az „az Eür.-ben meghatározott elektronikus dokumentumtárolási szolgáltatás szabályainak figyelembevételével” szövegrész helyébe az „az elektronikus irat hitelessége tartós megőrzésének biztosítása követelményeinek figyelembevételével” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
