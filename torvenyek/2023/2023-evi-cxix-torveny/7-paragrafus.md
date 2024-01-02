@@ -1,3 +1,1 @@
-7. § A KKV tv. 13. §-a helyébe a következő rendelkezés lép:
-
-„13. § A központi költségvetés KKV-knak támogatást nyújtó fejezetének irányítója, a Magyar Nemzeti Bank (a továbbiakban: MNB) elnöke, valamint a Közbeszerzési Hatóság elnöke a Kormány rendeletében meghatározott összesített adatokat szolgáltat a miniszter részére a vállalkozások, továbbá azon belül a KKV-k támogatásokból, vállalkozói hitelekből és közbeszerzésekből való részesedéséről.”
+### 7. §
