@@ -1,7 +1,3 @@
-3. § Hatályát veszti a 45/2012. (V. 8.) VM rendelet
+3. §[^4]
 
-a) 17. § (2) és (5) bekezdése,
-
-b) 17. § (6) bekezdésében a „kizárólag” szövegrész,
-
-c) 4. melléklete.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
