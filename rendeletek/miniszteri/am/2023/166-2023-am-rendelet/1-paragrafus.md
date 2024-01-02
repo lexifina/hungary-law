@@ -1,3 +1,3 @@
-1. § A nyers tej vizsgálatáról szóló 16/2008. (II. 15.) FVM–SZMM együttes rendelet 5. § a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A laboratórium feladatai:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
