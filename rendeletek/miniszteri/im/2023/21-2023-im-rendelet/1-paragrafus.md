@@ -1,3 +1,3 @@
-1. § A közjegyzői díjszabásról szóló 22/2018. (VIII. 23.) IM rendelet 37. § (1) bekezdése a következő f) ponttal egészül ki:
+1. §[^2]
 
-[A (2) bekezdés szerinti munkadíjat, költségátalányt és készkiadást – ideértve az okiratról készített és az okiratkészítés során kiállított elektronikus hiteles kiadmány díját is – kell fizetni]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
