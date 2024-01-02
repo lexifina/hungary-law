@@ -1,13 +1,3 @@
-4. § Hatályát veszti az 5/2018. (II. 28.) NGM rendelet
+4. §[^5]
 
-a) 2. § (2) bekezdése,
-
-b) 2. § (8) bekezdése,
-
-c) 2. § (10) bekezdése,
-
-d) 3. § (1) bekezdése,
-
-e) 4. §-a,
-
-f) 6. § (2) bekezdése.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

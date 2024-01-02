@@ -1,5 +1,3 @@
-3. § Az 5/2018. (II. 28.) NGM rendelet a következő 5/A. alcímmel egészül ki:
+3. §[^4]
 
-„5/A. Az Európai Unió jogának való megfelelés
-
-7/A. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
