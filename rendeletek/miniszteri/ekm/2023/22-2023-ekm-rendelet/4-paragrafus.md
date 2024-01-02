@@ -1,1 +1,3 @@
-4. § A Díjrendelet 11. § (6) bekezdésében az „a pótdíj a járműszerelvény tekintetében áll fenn, amelynek megfizetésére a vontató gépjármű üzembentartója köteles” szövegrész helyébe az „a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles” szöveg lép.
+4. §[^11]
+
+[^11]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
