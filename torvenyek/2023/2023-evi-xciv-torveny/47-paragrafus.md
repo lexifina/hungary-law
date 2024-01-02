@@ -1,1 +1,1 @@
-47. § Hatályát veszti a Tfmtv. 3. §-ának a szakmaközi szervezetekről és az agrárpiaci szabályozás egyes kérdéseiről szóló 2012. évi CXXVIII. törvény 26. § (2) bekezdésével megállapított (2c) bekezdése.
+### 47. §

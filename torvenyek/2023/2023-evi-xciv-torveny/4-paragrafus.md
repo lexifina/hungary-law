@@ -1,3 +1,3 @@
 ## 2. A védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény módosítása
 
-4. § Hatályát veszti a védett természeti területek védettségi szintjének helyreállításáról szóló 1995. évi XCIII. törvény 8. §-a.
+### 4. §

@@ -1,1 +1,1 @@
-8. § Az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 26. § (1) bekezdésében a „vadgazdálkodásért felelős miniszter (a továbbiakban: miniszter)” szövegrész helyébe a „miniszter” szöveg lép.
+### 8. §

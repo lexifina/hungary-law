@@ -2,4 +2,4 @@
 
 a)
 
-b) 18. § (2) bekezdés b) pontjában a „ , vagy ökológiai gazdálkodás folytatása” szövegrész.
+b)

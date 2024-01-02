@@ -1,5 +1,1 @@
-128. § A Fétv. 70. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy személy részére kívánják átengedni.
-
-(2b) Erdőnek minősülő földrészlet vagy erdőnek minősülő alrészletet tartalmazó földrészlet esetében a használati rendet úgy kell kialakítani, hogy az megfeleljen az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének. Ha az erdőnek minősülő földrészlet vagy az erdőnek minősülő alrészlet – a földrészleten belül több erdőnek minősülő alrészlet esetében azok egybefüggő területe – nem éri el az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésben meghatározott méretet, úgy annak használata a használati rendben nem osztható meg. Ha azért nem lehet kijelölni valamely tulajdonostárs részére erdőnek minősülő földrészlet vagy erdőnek minősülő alrészlet esetében a tulajdoni hányadának megfelelő területet, mert az nem felelne meg az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 86. § (1) bekezdésének, úgy a (2a) bekezdésben foglaltak szerint kell eljárni.”
+### 128. §

@@ -1,3 +1,1 @@
-23. § A Tfvt. 15/B. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Cél-kitermelőhely létesítése céljából kizárólag átlagosnál gyengébb minőségű termőföld végleges más célú hasznosítása engedélyezhető, kivéve, ha a Kormány a Magyar Közlönyben közzétett határozatával cél-kitermelőhely létesítése céljából az ásványi nyersanyag kitermelési, kinyerési, illetve a külfejtéses bányászati tevékenységgel érintett területet beruházási célterületté, vagy azt a beruházást, amelyre figyelemmel a célkitermelést végzik – a cél-kitermelőhellyel érintett termőföldterületek pontos lehatárolásával – nemzetgazdasági szempontból kiemelt jelentőségű üggyé, a célkitermelést pedig ahhoz közvetlenül kapcsolódónak nyilvánította.”
+### 23. §
