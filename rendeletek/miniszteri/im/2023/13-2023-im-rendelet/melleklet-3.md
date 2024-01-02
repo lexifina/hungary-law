@@ -1,3 +1,3 @@
-3. melléklet a 13/2023. (IX. 21.) IM rendelethez[^31]
+3. melléklet a 13/2023. (IX. 21.) IM rendelethez[^33]
 
-[^31]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
