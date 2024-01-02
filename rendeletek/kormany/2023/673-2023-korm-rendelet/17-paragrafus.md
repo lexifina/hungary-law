@@ -1,3 +1,3 @@
-17. § A 380/2014. (XII. 31.) Korm. rendelet 41. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+17. §[^18]
 
-[A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható]
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
