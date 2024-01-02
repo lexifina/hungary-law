@@ -1,1 +1,3 @@
-2. § Az R. 2. mellékletében foglalt táblázat 2. sorában a „Saját számlás közúti áruszállítás,” szövegrész helyébe az „Az” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
