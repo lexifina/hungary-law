@@ -1,3 +1,1 @@
-17. § A Pmt. 54. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben meghatározott tilalom nem vonatkozik az 5. §-ban meghatározott felügyeletet ellátó szerv bejelentő általi tájékoztatására, a 42. § (2) bekezdése és a 75. § (2) bekezdése alapján a szolgáltató megkeresésére, a 43. § (2) bekezdésében, a 44. és 46. §-ban meghatározott szerv megkeresésére, a 41. § (2) bekezdésében meghatározott tájékoztatásra, a 48. és 49. §-ban meghatározott információ továbbítására, valamint a szolgáltató és a közvetítő között létrejött megbízási szerződés tekintetében a megbízás keletkezését megelőző időszakra vonatkozóan a közvetítő által tett bejelentések szolgáltató általi megismerésére, valamint a központi kapcsolattartó pontra az e törvényben, vagy közvetlenül alkalmazandó európai uniós jogi aktusban meghatározott kötelezettségek teljesítése során.”
+### 17. §
