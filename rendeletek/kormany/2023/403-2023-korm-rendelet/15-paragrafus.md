@@ -1,13 +1,3 @@
-15. § Hatályát veszti az R3.
+15. §[^16]
 
-a) 8/A. § (1) bekezdésében a „vagy vármegyeközponti tankerületet” szövegrész,
-
-b) II. Fejezete,
-
-c) 38. § (1) bekezdése,
-
-d) 47. § (2) és (3) bekezdése,
-
-e) 48. §-a,
-
-f) 49. §-a.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-14. § Az R3.
+14. §[^15]
 
-a) 5. § (4) bekezdésében a „szünetelő, a megszűnt köznevelési intézmény,” szövegrész helyébe a „szünetelő köznevelési intézmény,” szöveg,
-
-b) 25. § (2) bekezdésében a „közli rögzíti” szövegrész helyébe a „közli” szöveg
-
-lép.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

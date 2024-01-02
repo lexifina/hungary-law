@@ -1,1 +1,3 @@
-5. § Az R1. 4. § (2) bekezdésében az „utolsó munkanapjáig” szövegrész helyébe az „utolsó munkanapjáig hétévente” szöveg, valamint az „az Nkt. 62. § (2) bekezdésében” szövegrész helyébe az „a Púétv. 70. §-ában” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

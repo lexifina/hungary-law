@@ -1,3 +1,3 @@
-4. § Az R1. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A Púétv. vhr. 8. § (4) bekezdésének, valamint 26. § (1) bekezdésének pedagógus-szakvizsgára vonatkozó rendelkezéseit, valamint a hétévenkénti továbbképzésre vonatkozó rendelkezéseit alkalmazni kell a pedagógiai szakszolgálat intézményeiben pedagógus-munkakörben foglalkoztatottak, továbbá a pedagógiai-szakmai szolgáltató intézményekben pedagógiai szakértő és pedagógiai előadó munkakörben foglalkoztatottak, a gyermek- és ifjúságvédelmi intézményekben, az egészségügyi és rehabilitációs intézményekben pedagógus-munkakörben foglalkoztatottak tekintetében is.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

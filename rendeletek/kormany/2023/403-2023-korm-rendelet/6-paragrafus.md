@@ -1,5 +1,5 @@
 ## 3. Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosítása
 
-6. § Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R2.) 40/G. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(A pedagógusigazolvány)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
