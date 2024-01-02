@@ -1,3 +1,3 @@
-11. § A 255/2014. (X. 10.) Korm. rendelet 19. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-(Nem ítélhető meg támogatás)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

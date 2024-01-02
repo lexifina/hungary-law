@@ -1,11 +1,3 @@
-22. § A 255/2014. (X. 10.) Korm. rendelet 103/P. § (3) bekezdése helyébe a következő rendelkezés lép:
+22. §[^23]
 
-„(3) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
-
-a) 60%-át az Észak-Alföld tervezési-statisztikai régióban,
-
-b) 45%-át a Dél-Alföld, Dél-Dunántúl, Észak-Magyarország és Pest tervezési-statisztikai régiókban,
-
-c) 35%-át a Közép-Dunántúl és Nyugat-Dunántúl tervezési-statisztikai régiókban,
-
-d) 10%-át Budapesten.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-19. § A 255/2014. (X. 10.) Korm. rendelet 90. § (1) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 48. alcíme szerint nyújtható.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

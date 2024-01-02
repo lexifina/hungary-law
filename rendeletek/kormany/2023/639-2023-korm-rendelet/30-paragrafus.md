@@ -1,9 +1,3 @@
-## „j) tesztelési és kísérleti infrastruktúrához nyújtott beruházási támogatásként,
+30. §[^31]
 
-## k) válságtámogatásként”
-
-## [nyújtható.]
-
-30. § A 373/2022. (IX. 30.) Korm. rendelet 231. § (6) bekezdése a következő d) ponttal egészül ki:
-
-[Ha az „Állam és közigazgatás” programterület keretében támogatható intézkedések finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, akkor a támogatás]
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

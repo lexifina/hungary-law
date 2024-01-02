@@ -1,3 +1,3 @@
-18. § A 255/2014. (X. 10.) Korm. rendelet 85/S. § (1) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(1) A válságtámogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 58. alcíme szerint nyújtható.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

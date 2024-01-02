@@ -1,3 +1,3 @@
-23. § A 255/2014. (X. 10.) Korm. rendelet a következő 104/B. §-sal egészül ki:
+23. §[^24]
 
-„104/B. § E rendelet a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 651/2014/EU rendelet, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló (EU) 2022/2473 rendelet módosításáról szóló, 2023. június 23-i (EU) 2023/1315 rendelet (HL L 167., 2023.6.30., 1-90. o.) végrehajtásához szükséges rendelkezéseket állapít meg.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

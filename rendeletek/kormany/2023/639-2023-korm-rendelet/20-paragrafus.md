@@ -1,3 +1,3 @@
-20. § A 255/2014. (X. 10.) Korm. rendelet 95. § (1) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás a 638/2023. (XII. 28.) Korm. rendelet 2. és 49. alcíme szerint nyújtható.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
