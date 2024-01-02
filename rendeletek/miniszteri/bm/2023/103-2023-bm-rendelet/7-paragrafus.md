@@ -1,13 +1,3 @@
-7. § Az R.
+7. §[^8]
 
-a) 1. melléklete helyébe az 1. melléklet,
-
-b) 2. melléklete helyébe a 2. melléklet,
-
-c) 4. melléklete helyébe a 3. melléklet,
-
-d) 5. melléklete helyébe a 4. melléklet,
-
-e) 7. melléklete helyébe az 5. melléklet
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

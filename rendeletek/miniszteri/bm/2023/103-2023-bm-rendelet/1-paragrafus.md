@@ -1,3 +1,3 @@
-1. § A felszíni vizek megfigyelésének és állapotértékelésének egyes szabályairól szóló 31/2004. (XII. 30.) KvVM rendelet (a továbbiakban: R.) 2. § a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
