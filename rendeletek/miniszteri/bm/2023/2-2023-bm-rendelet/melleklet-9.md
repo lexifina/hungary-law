@@ -1,3 +1,3 @@
-9. melléklet a 2/2023. (I. 30.) BM rendelethez[^39]
+9. melléklet a 2/2023. (I. 30.) BM rendelethez[^42]
 
-[^39]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 9. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
