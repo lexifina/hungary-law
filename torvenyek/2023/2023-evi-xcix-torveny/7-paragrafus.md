@@ -1,3 +1,1 @@
-7. § A bányászatról szóló 1993. évi XLVIII. törvény 20. §-a a következő (10) bekezdéssel egészül ki:
-
-„(10) A bányajáradék fizetésére kötelezett a bányajáradék-önbevallást a benyújtását követő öt éven belül, a teljes, javított önbevallás ismételt benyújtásával és a bányajáradék megfizetésével vagy a többletként megfizetett bányajáradék visszaigénylésével helyesbítheti. Helyesbítés esetén az önbevallás benyújtására kötelezettel szemben szankció nem alkalmazható. A hibásan benyújtott önbevallás alapján teljesített többletbefizetés összegét vissza kell fizetni. Visszafizetés esetén az államot kamatfizetési kötelezettség nem terheli.”
+### 7. §

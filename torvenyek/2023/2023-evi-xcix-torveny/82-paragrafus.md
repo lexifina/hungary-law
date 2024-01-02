@@ -1,3 +1,1 @@
-82. § A villamos energiáról szóló 2007. évi LXXXVI. törvény 150. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Az elosztó hálózati engedélyes és a villamosenergia-kereskedő a villamosenergia-piac működtetésével, a felhasználói beadványok kezelésével összefüggésben a villamosenergia-ellátás és -szolgáltatás hatékony megvalósítása céljából az adatcsere-szabályzatban meghatározottak szerint a természetes személy felhasználónak és más érintett személynek az adatait – különösen a felhasználó és a felhasználási hely azonosításhoz kapcsolódó adatokat, az ellátás során keletkezett és az ügyintézéséhez szükséges adatokat – egymás részére átadják.”
+### 82. §

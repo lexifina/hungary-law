@@ -1,7 +1,1 @@
-## „50. a megújuló energiaforrásból, továbbá földgáz minőségű, biomasszából és egyéb nem bányászati forrásból származó gázokból – beleértve a nem biológiai eredetű, gáznemű megújuló tüzelőanyagokat is – származó energia eredetét igazoló származási garanciára, annak kiadására, nyilvántartására, átruházására, a megújuló gázt termelők vagy értékesítők beszámolási és adatszolgáltatási kötelezettségére, a számlatulajdonosok személyes adatokat nem tartalmazó adatainak közzétételére, valamint a megújuló gázt termelők vagy értékesítők és a számlatulajdonosok származási garanciára vonatkozó jogszabályokban előírt kötelezettségeinek vagy a származási garancia okiratban meghatározottaknak való meg nem felelése esetén fizetendő bírságra és annak mértékére vonatkozó részletes szabályokat,”
-
-115. § A földgázellátásról szóló 2008. évi XL. törvény 159. §-a a következő (12) és (13) bekezdéssel egészül ki:
-
-„(12) Ez a törvény az (EU) 2022/1369 rendeletnek a gázra vonatkozó keresletcsökkentési intézkedésekkel kapcsolatos keresletcsökkentési időszak meghosszabbítása, valamint az intézkedések végrehajtására vonatkozó jelentéstétel és nyomon követés megerősítése tekintetében történő módosításáról szóló, 2023. március 30-i (EU) 2023/706 tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(13) E törvény 27/B. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.”
+### 115. §

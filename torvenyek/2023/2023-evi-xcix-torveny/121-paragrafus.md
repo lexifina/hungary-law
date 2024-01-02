@@ -1,1 +1,1 @@
-121. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény 42. § (9a) bekezdésében a „NAV” szövegrész helyébe a „Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV)” szöveg lép.
+### 121. §

@@ -1,3 +1,1 @@
-119. § A behozott kőolaj és kőolajtermékek biztonsági készletezéséről szóló 2013. évi XXIII. törvény a következő 42/A. §-sal egészül ki:
-
-„42/A. § A Szövetség tüzelő- és fűtőanyagok kéntartalmának megállapított alakulásáról szóló jelentéssel kapcsolatos kötelezettségének teljesítéséhez a 2710 19 51–2710 19 68, 2710 20 31, 2710 20 35, 2710 20 39, a 2710 19 25, 2710 19 29, 2710 19 47, 2710 19 48, 2710 20 17, 2710 20 19 KN kód szerinti termékeket értékesítő tag minden év november 15-ig megküldi a Szövetség részére a tárgyévet megelőző év november 1-től tárgyév október 31-ig terjedő időszakban fenti KN kódú termékeket beszerző partnerei nevét, címét és a beszerzett termékek KN kódját.”
+### 119. §
