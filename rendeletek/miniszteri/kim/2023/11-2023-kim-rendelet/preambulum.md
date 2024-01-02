@@ -1,1 +1,0 @@
-A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (3) bekezdés b), c), valamint f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
