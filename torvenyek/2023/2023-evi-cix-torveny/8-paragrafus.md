@@ -2,10 +2,10 @@
 
 a)
 
-b) 24. § (5) bekezdésében a „telefaxon, telexen,” szövegrész,
+b)
 
-c) 29/A. § (1) bekezdésében a „telefaxon,” szövegrész,
+c)
 
-d) 29/A. § (10) bekezdésében az „és telefaxszámáról” szövegrész,
+d)
 
 e)
