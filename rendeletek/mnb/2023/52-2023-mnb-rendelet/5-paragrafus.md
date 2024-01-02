@@ -1,1 +1,3 @@
-5. § Hatályát veszti a kötelező tartalékráta mértékéről szóló 6/2023. (III. 8.) MNB rendelet.
+5. §[^1]
+
+[^1]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
