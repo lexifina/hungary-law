@@ -1,3 +1,3 @@
-2. § A 162/2015. (VI. 30.) Korm. rendelet 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) Az (1) bekezdés szerinti támogatások fedezetéül az OKFŐ költségvetési előirányzata szolgál.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
