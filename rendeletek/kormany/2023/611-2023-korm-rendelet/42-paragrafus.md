@@ -1,3 +1,3 @@
-42. § A 285/2011. (XII. 22.) Korm. rendelet a következő 8. §-sal egészül ki:
+42. §[^71]
 
-„8. § E rendeletnek a Nemzeti Adó- és Vámhivatal tevékenységével, valamint egyes adózással összefüggő kormányrendeletek módosításáról szóló 611/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Korm. rendelet3.) megállapított 1. és 3. §-át a Korm. rendelet3. hatálybalépésének napján folyamatban lévő kiküldetésekre (külföldi munkavégzésre) is alkalmazni kell.”
+[^71]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-43. § A 285/2011. (XII. 22.) Korm. rendelet 3. § (1) bekezdésében a „kiküldetés időtartama” szövegrész helyébe a „kiküldetés, külföldi munkavégzés (a továbbiakban együtt: kiküldetés) időtartama” szöveg lép.
+43. §[^72]
+
+[^72]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
