@@ -1,5 +1,3 @@
-5. § Hatályát veszti az R1.
+5. §[^6]
 
-a) 2/A. §-ában az „az elszámolásra jogosult intézetek körét,” szövegrész,
-
-b) 1/A. számú melléklet 6/a2. pontja.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-7. § Hatályát veszti az R2. 4. számú melléklet 2. pontjában a „finanszírozási eljárásrendekről szóló miniszteri rendeletben meghatározott” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
