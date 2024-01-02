@@ -1,3 +1,3 @@
-1. § A látvány-csapatsportok támogatására nyújtható támogatási keretösszeg megállapításáról szóló 39/2019. (III. 7.) Korm. rendelet (a továbbiakban: R.) 1. §-a a következő c) ponttal egészül ki:
+1. §[^2]
 
-[A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 3. §-a szerint a 2023. évben kiállított igazolások és támogatási igazolások együttes összege – ide nem értve a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/A. §-a szerinti kiegészítő sportfejlesztési támogatást – nem haladhatja meg a 125 200 000 000 forintot, amelyen belül]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
