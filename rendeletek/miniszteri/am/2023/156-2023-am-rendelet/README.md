@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-156-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-01-01 | 2023-156-20-7R.1 | 156/2023. (XII. 27.) AM rendelet |
+| 2024-01-02 | 2023-156-20-7R.2 | 2010. évi CXXX. törvény |
