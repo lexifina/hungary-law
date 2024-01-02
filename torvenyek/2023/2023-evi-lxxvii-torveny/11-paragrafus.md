@@ -1,3 +1,1 @@
-11. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 69. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Nem kell víziközmű-fejlesztési hozzájárulást fizetnie a központi költségvetési szervnek és intézményének, a helyi önkormányzatnak és annak költségvetési intézménynek, a jogi személyiséggel rendelkező vallási közösségnek, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézménynek, továbbá ha a nem lakossági felhasználó állami tulajdonú ingatlan üzemeltetője, és az ingatlant használó központi költségvetési szerv vagy intézmény.”
+### 11. §

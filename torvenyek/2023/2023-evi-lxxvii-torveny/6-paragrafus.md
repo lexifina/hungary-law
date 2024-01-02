@@ -1,3 +1,1 @@
-6. § A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény VII. Fejezete a következő 61/F. §-sal egészül ki:
-
-„61/F. § A víziközmű-szolgáltató által nyilvántartott, az oltóvízzel történő ellátást biztosító vízvezeték-hálózatra, létesítményre és berendezésre vonatkozó adatok megismerésére irányuló igényt az adat keletkezésétől számított legfeljebb 30 évig meg kell tagadni, ha az adat megismerése a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. § a) pontjának értelmében Magyarország nemzetbiztonsági érdekeit veszélyezteti. Az igény teljesíthetőségéről – Magyarország nemzetbiztonsági érdekeit mérlegelve – az adatkezelő dönt.”
+### 6. §
