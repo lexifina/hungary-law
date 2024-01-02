@@ -1,1 +1,3 @@
-29. § Hatályát veszti az R5. 23. § (3) bekezdése.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
