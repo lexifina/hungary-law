@@ -1,5 +1,3 @@
-3. § A 12/2022. (I. 28.) SZTFH rendelet 9. § b) pontja a következő bb) alponttal egészül ki:
+3. §[^4]
 
-(Az építésügyi hatósági engedély rendelkező részének az általános közigazgatási rendtartásról szóló törvényben előírtakon túl tartalmaznia kell: tájékoztatást arról, hogy)
-
-„bb) a bányafelügyelet engedélye építési tevékenységgel kapcsolatos polgári jogi igényt nem dönt el,”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

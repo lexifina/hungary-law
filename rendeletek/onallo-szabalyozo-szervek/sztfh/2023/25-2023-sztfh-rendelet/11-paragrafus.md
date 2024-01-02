@@ -1,7 +1,3 @@
-11. § Hatályát veszti a 20/2022. (I. 31.) SZTFH rendelet
+11. §[^12]
 
-a) 13. § (1) bekezdés d) pontjában az „amelybe a kutatási tevékenységek végzésére vonatkozó közbeszerzési eljárások időtartama nem számít bele,” szövegrész,
-
-b) 15/D. § (2) bekezdésében a „vagy szándéknyilatkozatot” szövegrész,
-
-c) 15/D. § (3) bekezdése.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

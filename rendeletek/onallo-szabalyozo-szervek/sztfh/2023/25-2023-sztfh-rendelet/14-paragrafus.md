@@ -1,1 +1,3 @@
-14. § A világörökségi területen az ásványi nyersanyag kitermelésének és a bányászati tevékenységre vonatkozó műszaki üzemi terv jóváhagyásának részletes feltételeiről szóló 5/2023. (II. 28.) SZTFH rendelet 2. § (4) bekezdésében az „eredményeket” szövegrész helyébe az „eredményeket – a robbantás pontos helyszínének térképen vagy térképrészleten történő megjelölésével –” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-12. § Az ásványi nyersanyag természetes előfordulási területén elvégzendő komplex érzékenységi és terhelhetőségi vizsgálatról szóló 4/2023. (II. 8.) SZTFH rendelet (a továbbiakban: 4/2023. (II. 8.) SZTFH rendelet) 2. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek, és a § a következő (6a) bekezdéssel egészül ki:
+12. §[^13]
 
-„(5) Ha a megkeresett közreműködő szervezet a nyilatkozatát a (4) bekezdésben megállapított határidőn belül nem küldi meg, vagy a (6) bekezdés szerint nem nyilatkozik olyan terület- és térrészről, ahol a bányászati tevékenység végzése kizárt vagy korlátozott, továbbá a korlátozást, tiltást feltételesen vagy nem a megkeresés szerinti bányászati tevékenységre vonatkozóan teszi meg, úgy kell tekinteni, hogy a közreműködő szervezet kizáró vagy korlátozó körülményt nem állapított meg.
-
-(6) A közreműködő szervezet nyilatkozata kizárólag azoknak a terület- és térrészeknek a felsorolását tartalmazza, ahol a bányászati tevékenység végzése kizárt vagy korlátozottan folytatható. A nyilatkozat figyelemfelhívást vagy tájékoztatást nem tartalmazhat. Az érintett terület- és térrészeket a közreműködő szervezet EOV koordinátákkal vagy térinformatikai alkalmazásban felhasználható shape fájlban vagy az előbbiek hiányában helyrajzi számokkal határozza meg.
-
-(6a) Ha a közreműködő szervezet nem a (6) bekezdés szerint adja meg a nyilatkozatát, a bányafelügyelet a közreműködő szervezet figyelmét erre a 3. § (3) bekezdése szerinti jelentéstervezet megküldése során felhívja, jelezve, hogy ha a közreműködő szervezet nyilatkozatát nem módosítja, a nyilatkozatot az (5) bekezdés szerint értékeli.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
