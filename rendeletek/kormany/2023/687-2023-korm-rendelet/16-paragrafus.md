@@ -1,3 +1,3 @@
-16. § A Korm. rendelet 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(2) A támogatás megállapított maximális összege – a tőketámogatást kivéve – álláskeresőnként vagy foglalkoztatottanként nem haladhatja meg havonta a kötelező legkisebb munkabér 150%-át.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

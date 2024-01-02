@@ -1,3 +1,3 @@
-19. § A Korm. rendelet 33. §-a helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„33. § Meg kell szüntetni a támogatás folyósítását, ha a foglalkoztatásra irányuló jogviszony hat hónapon belül megszűnik. A foglalkoztatótól a bértámogatást vissza kell követelni, ha a foglalkoztatásra irányuló jogviszony hat hónapon belül a munkáltató működésével összefüggő okból felmondással vagy közös megegyezéssel megszűnik.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

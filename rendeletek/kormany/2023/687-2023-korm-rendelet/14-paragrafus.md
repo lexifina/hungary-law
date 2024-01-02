@@ -1,3 +1,3 @@
-14. § A Korm. rendelet 23. § b) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-(Az a foglalkoztató részesülhet e rendelet szerinti támogatásban, aki)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

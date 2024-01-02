@@ -1,3 +1,3 @@
-23. § A Korm. rendelet 20. alcíme a következő 42/A. §-sal egészül ki:
+23. §[^24]
 
-„42/A. § Az állami foglalkoztatási szerv a foglalkoztatott és a foglalkoztató munkaerőpiaci alkalmazkodóképességének javítása érdekében – az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeinek hatékony megvalósítása céljából – a munkaerőpiaci programban meghatározottak szerint a foglalkoztatók részére európai uniós forrásból munkavédelmi eszközbeszerzéshez nyújthat támogatást (munkavédelmi eszközbeszerzés támogatása).”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

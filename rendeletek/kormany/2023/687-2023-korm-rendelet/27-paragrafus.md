@@ -1,1 +1,3 @@
-27. § A Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
