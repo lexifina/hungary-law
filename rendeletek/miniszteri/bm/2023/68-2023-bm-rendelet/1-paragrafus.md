@@ -1,1 +1,3 @@
-1. § A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló 45/2020. (XII. 16.) BM rendelet 12. § (2) bekezdésében a „valamint a felülvizsgáló” szövegrész helyébe a „valamint a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos szolgálati jogviszonyban állók és rendvédelmi igazgatási alkalmazottak egészségügyi és pszichológiai ellátással összefüggő kérdéseiről szóló miniszteri rendeletben meghatározott felülvizsgáló” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
