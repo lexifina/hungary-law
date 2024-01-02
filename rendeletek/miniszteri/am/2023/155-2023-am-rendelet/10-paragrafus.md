@@ -1,1 +1,3 @@
-10. § A 70/2003. (VI. 27.) FVM rendelet 1. számú melléklete helyébe az 1. melléklet lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
