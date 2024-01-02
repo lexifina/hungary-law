@@ -1,11 +1,3 @@
-1. § Az egyes folyékony tüzelő- és fűtőanyagok kéntartalmáról szóló 53/2014. (XII. 13.) NFM rendelet (a továbbiakban: NFM rendelet) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) A rendelet hatálya
-
-a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövetség),
-
-b) a mintavételező szervezetre és
-
-c) a forgalmazóra
-
-terjed ki.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
