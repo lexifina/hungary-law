@@ -1,3 +1,3 @@
-8. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^19]
+8. melléklet a 642/2023. (XII. 28.) Korm. rendelethez[^47]
 
-[^19]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

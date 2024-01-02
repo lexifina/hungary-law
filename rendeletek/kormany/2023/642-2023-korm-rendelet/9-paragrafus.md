@@ -1,5 +1,3 @@
-9. § Az Mnbkr.
+9. §[^10]
 
-1. 5. § (8) bekezdésében a „szintje alá csökkenő saját tőke fedezetére” szövegrész helyébe a „szintje alatt lévő saját tőke rendezésére” szöveg,
-
-2. 10. § (1) bekezdésében az „MNB tv. szerint meghatározott osztalékot” szövegrész helyébe az „MNB tv. 166. § (1) és (1a) bekezdése szerint meghatározott osztalékot a tárgyévi eredménnyel kiegészített eredménytartalék pozitív összegének erejéig – legfeljebb a saját tőke jegyzett tőkét meghaladó tárgyév végére vonatkozó összegéig –” szöveg
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

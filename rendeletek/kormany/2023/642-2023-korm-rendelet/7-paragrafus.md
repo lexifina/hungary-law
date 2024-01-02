@@ -1,1 +1,3 @@
-7. § A Betakr. 11. §-ában az „és benyújtani a tagintézetekhez, a Magyar Nemzeti Bankhoz, a Bankszövetséghez, az Állami Számvevőszékhez és a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter által vezetett minisztériumhoz” szövegrész helyébe az „és az OBA honlapján közzétenni” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## lép.
-
 ## 13. Záró rendelkezések
 
 39. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.

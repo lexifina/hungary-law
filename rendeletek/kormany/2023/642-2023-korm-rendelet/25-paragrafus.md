@@ -1,3 +1,3 @@
-25. § A Knyr. 10/G. §-a a következő n) és o) ponttal egészül ki:
+25. §[^26]
 
-(Az akkreditált szervezet köteles:)
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
