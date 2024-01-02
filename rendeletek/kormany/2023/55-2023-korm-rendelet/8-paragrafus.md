@@ -1,3 +1,3 @@
-8. § A 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^2]
 
-„(2) Az alvállalkozó a nyilvántartásba vétel iránti kérelmét az 1. melléklet szerinti adatok megadásával, valamint a szerződés másolatának egyidejű csatolásával terjeszti elő a hatóság által rendszeresített elektronikus űrlapon.”
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
