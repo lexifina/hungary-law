@@ -1,1 +1,3 @@
-5. § Hatályát veszti az önkormányzatok hulladékról szóló 2012. évi CLXXXV. törvény szerinti indokolt költségei mértékének megállapításáról szóló 5/2023. (IV. 6.) MEKH rendelet.
+5. §[^2]
+
+[^2]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
