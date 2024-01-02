@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-37-20-0
 | --- | --- | --- |
 | 2023-09-13 | 2023-37-20-0A.1 | 37/2023. (IX. 12.) BM rendelet |
 | 2024-01-01 | 2023-37-20-0A.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2023-37-20-0A.3 | 46/2024. (IX. 26.) BM rendelet |
