@@ -1,3 +1,3 @@
-3. § A 36/2006. (V. 18.) FVM rendelet 9. § (8) bekezdése a következő f) ponttal egészül ki:
+3. §[^4]
 
-(Az engedélyt vissza kell vonni, ha)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

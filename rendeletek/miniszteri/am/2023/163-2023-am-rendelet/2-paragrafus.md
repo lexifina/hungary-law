@@ -1,3 +1,3 @@
-2. § A 36/2006. (V. 18.) FVM rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Az engedély határozatlan ideig hatályos.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
