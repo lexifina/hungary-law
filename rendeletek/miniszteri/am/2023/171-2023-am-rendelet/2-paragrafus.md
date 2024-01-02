@@ -1,1 +1,3 @@
-2. § A 43/2010. (IV. 23.) FVM rendelet 18. § (1) bekezdés c) pontjában a „növényvédelmi” szövegrész helyébe a „növényvédelmi vagy erdővédelmi” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
