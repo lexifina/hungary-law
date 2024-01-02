@@ -1,5 +1,5 @@
 ## 1. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet módosítása
 
-1. § A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet (a továbbiakban: Vet. vhr.) 1. § (1) bekezdése a következő 29–30. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet alkalmazásában:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

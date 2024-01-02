@@ -1,3 +1,3 @@
-11. § A Vet. vhr. 53. §-a a következő (3) bekezdéssel egészül ki:
+11. §[^11]
 
-„(3) A kérelmező a VET 74. §-ában meghatározott engedély iránti kérelemben megjelöli a VET 3. § 81. pontjában meghatározott tényleges tulajdonost.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

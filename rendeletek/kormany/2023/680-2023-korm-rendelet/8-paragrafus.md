@@ -1,3 +1,3 @@
-8. § A Vet. vhr. 46. § (4) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(4) Az üzemi szabályzatot, a kereskedelmi szabályzatot és a nemzetközi üzemi és kereskedelmi szabályzatot az átviteli rendszerirányító, az elosztói szabályzatot és az adatcsere szabályzatot az elosztó hálózati engedélyesek 5 évre visszamenőleg, továbbá a mindenkor hatályos változatot – egységes szerkezetbe foglalt szöveggel, az érvényességi időszakok megjelölésével – a Hivatal jóváhagyó határozataival együtt, közvetlenül elérhető, tárolható, nyomtatható és kereshető formában teszik közzé saját honlapjukon. Az elosztó hálózati engedélyesek a Hivatal által jóváhagyott elosztói szabályzatot ügyfélszolgálataikon a felhasználók részére hozzáférhetővé teszik.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 2. Az elektromobilitás szolgáltatás egyes kérdéseiről szóló 243/2019. (X. 22.) Korm. rendelet módosítása
 
-20. § Az elektromobilitás szolgáltatás egyes kérdéseiről szóló 243/2019. (X. 22.) Korm. rendelet (a továbbiakban: Korm. rend.) 1. §-a a következő 3. alponttal egészül ki:
+20. §[^20]
 
-(E rendelet alkalmazásában:)
+[^20]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
