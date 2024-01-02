@@ -1,1 +1,3 @@
-3. § A Cst. vhr. 8. § (1) bekezdésében a „kormányhivatal” szövegrész helyébe a „kormányhivatal vagy a családtámogatási kifizetőhely” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
