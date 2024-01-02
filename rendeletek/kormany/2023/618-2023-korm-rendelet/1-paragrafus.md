@@ -1,1 +1,3 @@
-1. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet 21. § (1) bekezdésében a „magyar hatósági” szövegrész helyébe a „magyar vagy a 34. § (4) bekezdése szerint másik tagállam által kibocsátott hatósági” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
