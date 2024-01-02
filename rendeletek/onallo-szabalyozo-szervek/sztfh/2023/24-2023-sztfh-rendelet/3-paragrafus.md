@@ -1,3 +1,3 @@
-3. § Az R1. 7/B. §-a a következő (2a) bekezdéssel egészül ki:
+3. §[^3]
 
-„(2a) A dohánytermék-kiskereskedelmi tevékenységet végző személy a tárgyévet megelőző év július 15-ig – dohánytermék értékesítési helyenként – bejelenti a Hatósághoz, ha a tárgyévtől kezdődően az egészségvédelmi tájékoztató digitális megjelenítését választja.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-5. § Hatályát veszti az R1.
+5. §[^5]
 
-a) 5. § (3) bekezdésében a „15 napon belül” szövegrész,
-
-b) 6. § (3) bekezdésében a „15 nappal” szövegrész,
-
-c) 7/B. § (7) bekezdése.
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
