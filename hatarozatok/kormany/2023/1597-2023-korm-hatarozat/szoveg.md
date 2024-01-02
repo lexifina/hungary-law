@@ -1,67 +1,32 @@
-1. A Nemzeti Kegyeleti Bizottság Szervezeti és Működési Szabályzatának jóváhagyásáról szóló 1010/2001. (II. 14.) Korm. határozat Melléklet III. pont 1. és 3. pontjában a „belügyminiszter” szövegrész helyébe a „közigazgatási és területfejlesztési miniszter” szöveg lép.
+1.[^2]
 
-2. Az Önkormányzatok Nemzeti Együttműködési Tanácsáról szóló 1128/2012. (IV. 26.) Korm. határozat
+2.[^3]
 
-a) 1.2. és 1.3. pontjában a „belügyminiszter” szövegrész helyébe a „közigazgatási és területfejlesztési miniszter” szöveg,
+3.[^4]
 
-b) 1.2. és 1.3. pontjában a „Belügyminisztérium önkormányzati államtitkára” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium önkormányzati államtitkára” szöveg,
+4.[^5]
 
-c) 1.6. pontjában a „Belügyminisztérium” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
+5.[^6]
 
-lép.
+6.[^7]
 
-3. A Dél-alföldi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1272/2022. (V. 27.) Korm. határozat
+7.[^8]
 
-a) 5. és 9. pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
+8.[^9]
 
-b) 7. pontjában a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
+9.[^10]
 
-lép.
-
-4. A Dél-dunántúli Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1273/2022. (V. 27.) Korm. határozat
-
-a) 5. és 9. pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
-
-b) 7. pontjában a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
-
-lép.
-
-5. Az Északkelet-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1274/2022. (V. 27.) Korm. határozat
-
-a) 5. és 9. pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
-
-b) 7. pontjában a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
-
-lép.
-
-6. Az Északnyugat-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1275/2022. (V. 27.) Korm. határozat
-
-a) 5. és 9. pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
-
-b) 7. pontjában a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
-
-lép.
-
-7. A Közép-magyarországi Gazdaságfejlesztési Zóna komplex fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1276/2022. (V. 27.) Korm. határozat
-
-a) 5. és 9. pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
-
-b) 7. pontjában a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg
-
-lép.
-
-8. A Kormány ügyrendjéről szóló 1352/2022. (VII. 21.) Korm. határozat
-
-a) 51. pont (1) bekezdés f) pontjában, 96. pont (1) bekezdés c) pontjában, 100. pontjában, 122. pont (2) bekezdés b) pontjában, 129. pont b) pontjában, 131. pont (1) bekezdés b) pontjában a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg,
-
-b) 96. pont (1) bekezdés f) pontjában, 101. pont g) pontjában a „területfejlesztési” szövegrész helyébe a „közigazgatási és területfejlesztési” szöveg,
-
-c) 99. pont (1) bekezdés 8. pontjában a „Magyar Falu Program, valamint a Modern Városok Program működtetéséért” szövegrész helyébe a „Magyar Falu Program működtetéséért” szöveg
-
-lép.
-
-9. Az önkormányzatokkal folytatandó tárgyalások eljárásrendjéről szóló 1473/2022. (X. 5.) Korm. határozat 4. pontjában a „belügyminiszter” szövegrész helyébe a „közigazgatási és területfejlesztési miniszter” szöveg lép.
-
-10. A közkiadások hatékonyságának felülvizsgálatáról szóló 1262/2023. (VII. 4.) Korm. határozat 7. pontjában a „belügyminiszter” szövegrész helyébe a „közigazgatási és területfejlesztési miniszter” szöveg lép.
+10.[^11]
 
 11. Ez a határozat 2024. január 1-jén lép hatályba.
+
+[^2]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
