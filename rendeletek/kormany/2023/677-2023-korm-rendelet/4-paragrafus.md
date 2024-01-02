@@ -1,3 +1,3 @@
-4. § A Tszt. Vhr. 17/D. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^4]
 
-(Fűtési költségmegosztók alkalmazása esetén a tulajdonosi közösség képviselője vagy a megbízott)
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

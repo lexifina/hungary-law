@@ -1,3 +1,3 @@
-1. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet (a továbbiakban: Tszt. Vhr.) 17/A. §-a a következő 10–12. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet 17/B–17/H. §-ának alkalmazásában:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

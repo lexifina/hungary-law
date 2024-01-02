@@ -1,3 +1,3 @@
-6. § A Tszt. Vhr. 17/G. § (6) bekezdés a) pontja helyébe a következő rendelkezés lép:
+6. §[^6]
 
-[Az (1) bekezdés a) pontja szerinti esetben a tulajdonosi közösség képviselője vagy a megbízott]
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## lép.
+11. §[^12]
 
-11. § Hatályát veszti a Tszt. Vhr. 3. melléklet 26.3.8., 26.3.9. és 26.5 pontja.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
