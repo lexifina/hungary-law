@@ -10,7 +10,7 @@
 
 ## 6. Ez a határozat 2024. január 1-jén lép hatályba.
 
-## 7. Hatályát veszti a 2023. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1583/2022. (XI. 30.) Korm. határozat.
+## 7.[^1]
 
 1. melléklet az 1580/2023. (XII. 19.) Korm. határozathoz
 
@@ -421,3 +421,5 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 7 | HQ MND-C csapatmozgások | I–IV. | 300 |
 
 | 8 | HQ MND-C által szervezett magyarországi gyakorlatok | I–IV. | 500 |
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
