@@ -1,1 +1,3 @@
-8. § Hatályát veszti a tűzvédelmi szabályzat készítéséről szóló 30/1996. (XII. 6.) BM rendelet.
+8. §[^1]
+
+[^1]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
