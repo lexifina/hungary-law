@@ -1,14 +1,15 @@
-8. § (1) A 256/2013. (VII. 5.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+8. § (1)[^8]
 
-(2)[^6]
+(2)[^9]
 
-(3)[^7]
+(3)[^10]
 
-(4)[^8]
+(4)[^11]
 
-(5)[^9]
+(5)[^12]
 
-[^6]: A 8. § (2) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^7]: A 8. § (3) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^8]: A 8. § (4) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^9]: A 8. § (5) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^8]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § (2) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^10]: A 8. § (3) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^11]: A 8. § (4) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^12]: A 8. § (5) bekezdése a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.

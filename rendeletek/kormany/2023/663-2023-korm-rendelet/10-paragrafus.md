@@ -1,12 +1,14 @@
 10. § Hatályát veszti a 256/2013. (VII. 5.) Korm. rendelet
 
-a)[^11]
+a)[^14]
 
-b)[^12]
+b)[^15]
 
-c) – az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról 286/2023. (VI. 30.) Korm. rendelet 46. §-ával megállapított – 11/X. §-a,
+c)[^16]
 
-d) 2. mellékletében foglalt táblázat 40., 42., 82., 111., 139. és 208. sora.
+d)[^17]
 
-[^11]: A 10. § a) pontja a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^12]: A 10. § b) pontja a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^14]: A 10. § a) pontja a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^15]: A 10. § b) pontja a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^16]: A 10. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 10. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
