@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-27-20-7
 | 2022-01-28 | 2021-27-20-7R.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2022-01-29 | 2021-27-20-7R.6 | 2010: CXXX. törvény |
 | 2024-01-01 | 2021-27-20-7R.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2021-27-20-7R.8 | 2010: CXXX. törvény |
