@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 19/2005. (IV. 12.) GKM rendelet 3. § (7) bekezdés a) pontja.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
