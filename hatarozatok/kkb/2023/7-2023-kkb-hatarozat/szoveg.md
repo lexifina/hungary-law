@@ -34,4 +34,6 @@ Dr. Svéd László nyá. orvos altábornagyot, a Nemzeti Közszolgálati Egyetem
 
 2. Felhívom a BM OKF főigazgatóját mint a KKB adminisztratív feladatait ellátó szervezet vezetőjét, hogy a KKB Ügyrend 36. pont j) alpontjának megfelelően gondoskodjon a határozat Hivatalos Értesítőben történő közzétételéről.
 
-3. Ez a határozat 2024. január 1-jén lép hatályba, ezzel egyidejűleg a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Tudományos Tanács tagjairól szóló 1/2015. (IV. 16.) KKB határozat, a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Tudományos Tanács tagjainak bővítéséről szóló 5/2018. (XII. 17.) KKB elnöki határozat és a Katasztrófavédelmi Koordinációs Tárcaközi Bizottság Tudományos Tanács tagjainak módosításáról szóló 4/2021. (XII. 13.) KKB határozat hatályát veszti.
+3.[^1] Ez a határozat 2024. január 1-jén lép hatályba.
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
