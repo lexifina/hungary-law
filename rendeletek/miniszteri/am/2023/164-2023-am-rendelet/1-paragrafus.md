@@ -1,3 +1,3 @@
-1. § Az egyes növényvédő szerek forgalmazásával, illetve felhasználásával kapcsolatban külföldön szerzett szakmai gyakorlaton alapuló képesítés elismerésének részletes szabályairól szóló 8/2007. (I. 31.) FVM rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(2) Az (1) bekezdés szerinti dokumentumokat a származási tagállam nyelvén kell benyújtani azok hiteles magyar fordításával együtt. Nem szükséges csatolni a dokumentumok hiteles fordítását, ha a vármegyei kormányhivatal valamely ügyintézője az adott nyelvből államilag elismert, legalább középfokú nyelvvizsgával rendelkezik. Azon nyelvek listáját, amelyek esetében hiteles magyar fordítás nem szükséges, a vármegyei kormányhivatal a honlapján közzéteszi.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
