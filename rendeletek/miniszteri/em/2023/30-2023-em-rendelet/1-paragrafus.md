@@ -1,1 +1,3 @@
-1. § Hatályát veszíti a szélerőmű kapacitás létesítésére irányuló pályázati kiírás feltételeiről, a pályázat minimális tartalmi követelményeiről, valamint a pályázati eljárás szabályairól szóló 33/2009. (VI. 30.) KHEM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
