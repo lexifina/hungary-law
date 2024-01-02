@@ -1,3 +1,3 @@
-3. §[^2]
+3. §[^3]
 
-[^2]: A 3. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
+[^3]: A 3. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.

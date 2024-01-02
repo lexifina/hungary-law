@@ -1,3 +1,3 @@
-4. melléklet az 52/2023. (XII. 29.) ÉKM rendelethez[^8]
+4. melléklet az 52/2023. (XII. 29.) ÉKM rendelethez[^11]
 
-[^8]: A 4. melléklet a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
+[^11]: A 4. melléklet a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.

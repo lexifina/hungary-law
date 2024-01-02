@@ -1,3 +1,3 @@
-5. §[^4]
+5. §[^5]
 
-[^4]: Az 5. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
+[^5]: Az 5. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
