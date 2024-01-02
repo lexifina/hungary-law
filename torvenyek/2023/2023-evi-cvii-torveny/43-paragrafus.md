@@ -1,3 +1,1 @@
-43. § A településkép védelméről szóló 2016. évi LXXIV. törvény 11/B. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) A településképi rendelet nem tartalmazhat olyan rendelkezést, amely az utcabútorok – ideértve a funkcionális célokat szolgáló utcabútorokat is – létesítését vagy telepítését, az utcabútor reklámhordozóként, reklámhordozót tartó berendezésként történő használatát, illetve az utcabútoron reklám közzétételét az (1) bekezdésben foglaltaknál, valamint a településkép védelméről szóló törvény reklámok közzétételével kapcsolatos rendelkezéseinek végrehajtásáról szóló rendeletnek a közterületekre és köztulajdonban álló ingatlanokra vonatkozó előírásainál nagyobb mértékben tiltja vagy korlátozza.”
+### 43. §

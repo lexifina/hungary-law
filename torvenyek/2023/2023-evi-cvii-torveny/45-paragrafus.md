@@ -1,5 +1,1 @@
-45. § A településkép védelméről szóló 2016. évi LXXIV. törvény a következő 16/D. és 16/E. §-sal egészül ki:
-
-„16/D. § Azt a reklámeszközt, amelynek elhelyezésére e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2023. évi CVII. törvénnyel (a továbbiakban: Módtv.4.) megállapított 11/A. § (5) bekezdésének hatálybalépését megelőzően szabályszerűen került sor, a tulajdonosnak 2024. február 1-jéig be kell jelentenie a Nemzeti Média- és Hírközlési Hatósághoz az országos reklámkataszterbe történő bejegyzés érdekében. A bejelentés kizárólag elektronikus úton tehető meg. Az e § szerinti reklámeszközre a 11/A. § (5) bekezdésében meghatározott reklám-elhelyezési tilalom 2024. július 1-jéig nem alkalmazható.
-
-16/E. § A helyi önkormányzat képviselő-testülete (közgyűlése) a településképi rendeletének az e törvény Módtv.4.-gyel megállapított 11/B. § (1a) bekezdése, valamint a Módtv.4.-gyel módosított 12. § (2) bekezdés h) pontjának való megfelelését 2024. január 31-ig köteles biztosítani.”
+### 45. §
