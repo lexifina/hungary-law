@@ -1,7 +1,3 @@
-2. § A Rendelet 1. melléklet
+2. §[^3]
 
-a) I. pontjában a „Gazdaságfejlesztési” szövegrész helyébe a „Nemzetgazdasági” szöveg,
-
-b) VII. pontjában foglalt táblázat A:2 mezőjében a „HM Zrínyi Térképészeti és Kommunikációs Szolgáltató” szövegrész helyébe a „HM Zrínyi Geoinformációs és Toborzástámogató” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
