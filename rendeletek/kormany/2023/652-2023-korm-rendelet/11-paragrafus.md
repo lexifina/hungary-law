@@ -1,7 +1,3 @@
-11. § A Get. vhr. 121. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4) és (5) bekezdéssel egészül ki:
+11. §[^12]
 
-„(3) Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és az ezzel összefüggő szerződéses jogviszonyokra. Ha a felülvizsgálat során az engedélyes eljárását érintő jogszabályváltozást, vagy a jóváhagyott üzletszabályzat tartalmát lényegesen befolyásoló egyéb változást észlel, azt átvezeti, és a változásokkal egységes szerkezetbe foglalt, alkalmazni kívánt üzletszabályzat tervezetét a 123. § szerinti egyeztetést követően haladéktalanul benyújtja a Hivatalhoz jóváhagyásra. Ha a felülvizsgálat alapján nem indokolt az üzletszabályzat módosítása, az engedélyes erről írásbeli bejelentést tesz a Hivatalhoz.
-
-(4) Az a földgázkereskedő, aki a GET 113. § (1a) bekezdése szerinti üzletszabályzat készítési kötelezettség alól mentességet kapott, ha egynél több felhasználót kíván ismételten ellátni, az ellátás megkezdése előtt a Hivatal által korábban jóváhagyott üzletszabályzatát a (3) bekezdés szerint felülvizsgálja, és a módosított üzletszabályzat tervezetét jóváhagyásra benyújtja.
-
-(5) Az a földgázkereskedő, aki a földgáz-kereskedelmi működési engedély iránti kérelemmel egyidejűleg kérelmezte az üzletszabályzat készítési kötelezettség alóli mentesülést, egynél több felhasználó tervezett ellátása esetén az ellátás megkezdése előtt a 4. sz. melléklet 1.5. pontja szerinti tartalmú üzletszabályzat tervezetet elkészíti, és jóváhagyásra a Hivatalhoz benyújtja.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

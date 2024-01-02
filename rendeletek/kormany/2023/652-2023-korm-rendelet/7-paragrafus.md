@@ -1,3 +1,3 @@
-7. § A Get. vhr. 96. §-a a következő (4c) bekezdéssel egészül ki:
+7. §[^8]
 
-„(4c) A 10 éves fejlesztési javaslat a (4)–(4b) bekezdésben foglaltakon túl külön fejezetben tartalmazza a klímavédelemmel kapcsolatban az együttműködő földgázrendszeren megvalósítandó intézkedéseket és fejlesztéseket, összhangban a hazai és uniós klímavédelmi célokkal, előírásokkal.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

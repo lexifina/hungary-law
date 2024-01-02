@@ -1,3 +1,3 @@
-14. § A Get. vhr. 168. §-a a következő (6) bekezdéssel egészül ki:
+14. §[^15]
 
-„(6) A 19/A. § (1) bekezdésének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. § A földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet (a továbbiakban: Get. vhr.) 1. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

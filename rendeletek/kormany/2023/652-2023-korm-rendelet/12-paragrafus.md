@@ -1,3 +1,3 @@
-12. § A Get. vhr. 126. § (1) bekezdése a következő h) ponttal egészül ki:
+12. §[^13]
 
-(A GET 114. §-ában meghatározott valamennyi engedély iránti kérelemhez a következő dokumentumokat kell csatolni:)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
