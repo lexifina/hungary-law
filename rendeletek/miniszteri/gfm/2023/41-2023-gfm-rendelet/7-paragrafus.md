@@ -1,5 +1,3 @@
-7. § Hatályát veszti a 40/2015. (XII. 30.) NGM rendelet
+7. §[^8]
 
-a) 21. § (1) bekezdése,
-
-b) 5–9. melléklete.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
