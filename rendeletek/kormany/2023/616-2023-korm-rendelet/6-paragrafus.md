@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Fot. vhr. 8. § (1) bekezdésében az „orvosi” szövegrész.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

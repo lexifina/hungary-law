@@ -1,3 +1,3 @@
-2. § A Fot. vhr. 5. §-a a következő (3) bekezdéssel egészül ki:
+2. §[^3]
 
-„(3) A támogatás iránti kérelemhez beszédfogyatékosság esetén – ha rendelkezésre áll – mellékelni kell a logopédiai szakvizsgálati dokumentációt.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
