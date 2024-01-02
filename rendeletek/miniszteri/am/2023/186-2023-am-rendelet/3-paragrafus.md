@@ -1,1 +1,3 @@
-3. § A 8/2021. (III. 10.) AM rendelet 3. § (3) bekezdésében az „5 évig érvényes” szövegrész helyébe a „határozatlan ideig hatályos” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
