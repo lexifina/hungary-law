@@ -6,6 +6,6 @@ b)
 
 c)
 
-d) 8. §-ában a „2. § (1), (2) és (4) bekezdése” szövegrész helyébe a „2. § (1), (2), (4), (5), (7) és (8) bekezdése” szöveg,
+d)
 
 e)
