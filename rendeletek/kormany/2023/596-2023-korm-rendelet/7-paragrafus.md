@@ -1,5 +1,3 @@
-7. § Hatályát veszti az R2.
+7. §[^8]
 
-a) 47. § (1) bekezdés b) pontja és
-
-b) 11/A–11/B. alcíme.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
