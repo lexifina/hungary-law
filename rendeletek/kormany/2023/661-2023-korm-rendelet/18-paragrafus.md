@@ -1,1 +1,3 @@
-18. § A Púétv. vhr. a 2–9. melléklet szerinti 3/a–3/h. melléklettel kiegészülve lép hatályba.
+18. §[^11]
+
+[^11]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

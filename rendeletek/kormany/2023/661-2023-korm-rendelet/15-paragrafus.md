@@ -1,3 +1,3 @@
-15. § A Púétv. vhr. 88. § (1) bekezdése a következő szöveggel lép hatályba:
+15. §[^8]
 
-„(1) A Gyakornok fokozathoz tartozó havi illetmény összege a 2024. évben 528 800 forint.”
+[^8]: A 15. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

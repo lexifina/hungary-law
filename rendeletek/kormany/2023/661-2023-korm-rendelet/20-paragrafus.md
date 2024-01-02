@@ -1,11 +1,3 @@
-## lép hatályba.
+20. §[^13]
 
-20. § Nem lép hatályba a Púétv. vhr.
-
-a) 28. § (2) bekezdése,
-
-b) 30. § (3) bekezdés h) pontja,
-
-c) 39. § (4) bekezdése,
-
-d) 44. § (3) bekezdése.
+[^13]: A 20. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
