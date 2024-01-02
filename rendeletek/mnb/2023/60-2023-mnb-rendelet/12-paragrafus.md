@@ -1,3 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+12. §[^2]
 
-12. § Hatályát veszti az 54/2022. (XII. 2.) MNB rendelet.
+[^2]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
