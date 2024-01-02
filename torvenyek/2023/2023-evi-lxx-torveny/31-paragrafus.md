@@ -1,1 +1,1 @@
-31. § A Taotv. 24/A. § (13a) bekezdésében az „átutalás megtagadásáról szóló határozat átvételét követő 15 napon belül” szövegrész helyébe az „átutalás megtagadásáról szóló határozat átvételét követő 15. napig” szöveg lép.
+### 31. §

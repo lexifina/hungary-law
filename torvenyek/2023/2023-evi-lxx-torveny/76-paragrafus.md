@@ -2,4 +2,4 @@
 
 a)
 
-b) 70. § (2b) bekezdése.
+b)

@@ -4,6 +4,6 @@ a)
 
 b)
 
-c) 74. § (3) bekezdése,
+c)
 
-d) 197. § (5) bekezdése.
+d)
