@@ -1,1 +1,3 @@
-1. § A termőföldnek nem minősülő ingatlanok hitelbiztosítéki értékének meghatározására vonatkozó módszertani elvekről szóló 25/1997. (VIII. 1.) PM rendelet 5. számú melléklet 2. pont f) alpontjában az „ingatlan hitelbiztosítéki értékének” szövegrész helyébe az „ingatlan piaci értékének” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
