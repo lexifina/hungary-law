@@ -1,1 +1,3 @@
-22. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 10. § (3) bekezdésében a „díjakkal járó” szövegrész helyébe a „díjhoz adott” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

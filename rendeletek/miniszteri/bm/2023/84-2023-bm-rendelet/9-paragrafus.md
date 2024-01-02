@@ -1,3 +1,3 @@
-9. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/I. § (5) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(5) Az Apáczai Csere János-díjhoz pénzjutalom adható. Az Apáczai Csere János-díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

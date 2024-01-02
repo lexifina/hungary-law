@@ -1,3 +1,3 @@
-16. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/P. § (5) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(5) A Szent Kristóf a Gyermekekért díjhoz pénzjutalom adható. A Szent Kristóf a Gyermekekért díjjal adható pénzjutalom mértéke kizárólag az illetményalap nyolcszorosának megfelelő összeg lehet.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

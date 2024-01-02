@@ -1,3 +1,3 @@
-18. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/R. § (5) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(5) A Szociális Munkáért díjhoz pénzjutalom adható. A Szociális Munkáért díjjal adható pénzjutalom mértéke kizárólag az illetményalap hatszorosának megfelelő összeg lehet.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

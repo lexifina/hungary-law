@@ -1,3 +1,3 @@
-13. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/M. § (5) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(5) A Pro Caritate díjhoz pénzjutalom adható. A Pro Caritate díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

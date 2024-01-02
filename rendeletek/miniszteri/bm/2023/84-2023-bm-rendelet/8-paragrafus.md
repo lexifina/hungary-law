@@ -1,3 +1,3 @@
-8. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/H. § (5) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(5) Az Eötvös József-díjhoz pénzjutalom adható. Az Eötvös József-díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

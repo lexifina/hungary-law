@@ -1,3 +1,3 @@
-14. § A belügyminiszter által alapított és adományozott előírásokról szóló 37/2012. (VIII. 2.) BM rendelet 9/N. § (5) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(5) Az Idősekért díjhoz pénzjutalom adható. Az Idősekért díjjal adható pénzjutalom mértéke kizárólag az illetményalap nyolcszorosának megfelelő összeg lehet.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
