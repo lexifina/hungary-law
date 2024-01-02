@@ -1,9 +1,3 @@
-## „31. a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény hatálya alá tartozó foglalkoztatónál, a Magyar Kutatási Hálózatnál, valamint minden olyan gazdasági társaság esetében, amelyik a TEÁOR’08 szerinti 72.11, 72.19 vagy 72.20 szám szerinti tevékenységet fő- vagy melléktevékenységként végzi és legalább 25%-ban a magyar állam a tulajdonosa, a harmadik országbeli állampolgár oktatói vagy kutatói munkakörének betöltésével együtt járó oktatási, kutatási tevékenységének elvégzéséhez.”
+23. §[^17]
 
-23. § (1) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet [a továbbiakban: 87/2015. (IV. 9.) Korm. rendelet] 4. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Működési engedéllyel rendelkező felsőoktatási intézménynek az Nftv. 14. § (2a) bekezdése szerinti új képzési helyen (a továbbiakban: képzési hely) történő működésének engedélyezését a felsőoktatási intézmény kérelmezi a Hivatalnál. A kérelemhez mellékelni kell az 1. és a 2. mellékletben előírt feltételek meglétének igazolását, a fenntartó által megfelelően módosított alapító okiratot, ennek hiányában az alapító okirat ilyen irányú módosításának szándékára vonatkozó fenntartói nyilatkozatot, valamint a szenátus által módosított szabályzatot. Az eljárás során a felsőoktatási intézmény új képzési helyén indítandó képzése indításának nyilvántartásba vételéről is döntést kell hozni. A magyar jogrendszer szerinti képzésnek a felsőoktatási intézmény külföldi, székhelyen kívüli képzési helyen történő indítása esetén mellékelni kell továbbá a felsőoktatásért felelős miniszter (a továbbiakban: miniszter) előzetes egyetértését. Új képzési helyen indítandó képzés meghirdetésére az adott helyen való működés engedélyezését követően kerülhet sor.”
-
-(2) A 87/2015. (IV. 9.) Korm. rendelet 4. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) A felsőoktatási intézmény átalakulásával kapcsolatos eljárás során az átalakulással érintett valamennyi felsőoktatási intézmény nyilvántartásba vételére, törlésére, továbbá működési engedélyének kiadására, módosítására vagy visszavonására, valamint az átalakulással összefüggő adatváltozásának átvezetésére egyetlen eljárás keretében kerül sor.”
+[^17]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

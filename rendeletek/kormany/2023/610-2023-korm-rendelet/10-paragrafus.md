@@ -1,1 +1,3 @@
-10. § A felsőoktatási minőségértékelés és -fejlesztés egyes kérdéseiről szóló 19/2012. (II. 22.) Korm. rendelet [a továbbiakban: 19/2012. (II. 22.) Korm. rendelet] 18/B. § (4) bekezdésében a „Magyarország hivatalos lapjában, továbbá a tudománypolitika koordinációjáért felelős miniszter által vezetett minisztérium és a minisztérium” szövegrész helyébe az „a (3) bekezdés szerint kijelölt szervezet” szöveg lép.
+10. §[^4]
+
+[^4]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

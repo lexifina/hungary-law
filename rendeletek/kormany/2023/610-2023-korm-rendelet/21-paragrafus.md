@@ -1,1 +1,3 @@
-21. § Hatályát veszti a 283/2012. (X. 4.) Korm. rendelet 5. § (2a) bekezdésében az „A 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás az adott tanárszaknak megfeleltethető nem tanári mesterszakon csak a mesterfokozat és szakképzettség megszerzésével teljesíthető.” szövegrész.
+21. §[^15]
+
+[^15]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

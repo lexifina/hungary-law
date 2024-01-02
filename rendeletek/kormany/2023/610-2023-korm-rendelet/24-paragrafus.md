@@ -1,3 +1,3 @@
-24. § A 87/2015. (IV. 9.) Korm. rendelet 4/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+24. §[^18]
 
-„(1) Az Nftv. 108. § 23a. pontjában meghatározott szervezetnek a közösségi felsőoktatási képzési központként való nyilvántartásba vételét és működésének engedélyezését a szervezet és a vele együttműködő felsőoktatási intézmény együttesen, az egymással kötött megállapodás aláírását követő harminc napon belül kérheti a Hivataltól. A közösségi felsőoktatási képzési központ működési engedélyezési eljárása során a vele együttműködő felsőoktatási intézmény működési engedélyezéséről vagy működési engedélye módosításáról is döntést kell hozni.”
+[^18]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

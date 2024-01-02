@@ -1,3 +1,3 @@
-32. § A 87/2015. (IV. 9.) Korm. rendelet 21/D. § (2) bekezdése helyébe a következő rendelkezés lép:
+32. §[^26]
 
-„(2) A 21/A. § (1) bekezdés c) pontjában meghatározott szakirányú továbbképzés neve, szakképzettségének megnevezése és képzési tartalma – a 22. § (12) bekezdésére is figyelemmel – a szakirány képzési és kimeneti követelményeihez igazodik.”
+[^26]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

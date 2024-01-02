@@ -1,3 +1,3 @@
-35. § A 87/2015. (IV. 9.) Korm. rendelet 9. alcíme a következő 22/A. §-sal egészül ki:
+35. §[^29]
 
-„22/A. § A 11. § (2) bekezdése szerint tárolt adat igazolását bárki kérelmezheti a Hivataltól. A kérelemben meg kell jelölni az igazolni kívánt adatot.”
+[^29]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

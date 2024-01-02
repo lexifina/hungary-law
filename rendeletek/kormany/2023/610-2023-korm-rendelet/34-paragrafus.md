@@ -1,3 +1,3 @@
-34. § A 87/2015. (IV. 9.) Korm. rendelet 22. §-a a következő (8a) bekezdéssel egészül ki:
+34. §[^28]
 
-„(8a) A Hivatal hivatalból törli azon szakirányú továbbképzés képzési és kimeneti követelményeit, amelynek indítását a nyilvántartásba vételtől számított három éven belül nem kezdeményezik. A Hivatal hivatalból törli a szakirányú továbbképzés képzési és kimeneti követelményeit akkor is, ha indításának törlése óta három év eltelt, feltéve hogy a szakirányú továbbképzést más felsőoktatási intézmény nem folytatja, vagy a szakirányú továbbképzés indításának nyilvántartásba vételére kérelmet nem nyújtott be.”
+[^28]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

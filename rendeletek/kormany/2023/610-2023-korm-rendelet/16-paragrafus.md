@@ -1,7 +1,3 @@
-16. § Hatályát veszti a 230/2012. (VIII. 28.) Korm. rendelet
+16. §[^10]
 
-a) 13. §-ában az „és a szakmailag illetékes kamara” szövegrész,
-
-b) 16. § (1) bekezdés c) pont cb) alpontja,
-
-c) 18/B. § (1) bekezdés a) pontjában a „költségvetési szerv” szövegrész.
+[^10]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

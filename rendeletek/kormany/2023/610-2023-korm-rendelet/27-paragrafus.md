@@ -1,3 +1,3 @@
-27. § A 87/2015. (IV. 9.) Korm. rendelet 15. §-a helyébe a következő rendelkezés lép:
+27. §[^21]
 
-„15. § A felsőoktatási intézmény duális képzési megállapodásainak, valamint a duális képzés egybefüggő szakmai gyakorlati részének megvalósítását szolgáló, a felsőoktatási szakképzésről és a felsőoktatási képzéshez kapcsolódó szakmai gyakorlat egyes kérdéseiről szóló 230/2012. (VIII. 28.) Korm. rendelet [a továbbiakban: 230/2012. (VIII. 28.) Korm. rendelet] szerinti belső gyakorlóhelyeinek nyilvántartásba vételét, a nyilvántartásba vett megállapodások és belső gyakorlóhelyek tekintetében bekövetkezett adatváltozásokat, a megszűnt megállapodások és belső gyakorlóhelyek törlését a felsőoktatási intézmény vezetője a Duális Képzési Tanácsnak az Nftv. 108. § 1b. pontja szerinti minősítési rendszerében meghatározott mellékletek benyújtásával kérelmezi.”
+[^21]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

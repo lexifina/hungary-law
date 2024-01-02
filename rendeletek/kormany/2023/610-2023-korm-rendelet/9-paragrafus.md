@@ -1,5 +1,3 @@
-9. § Hatályát veszti az 51/2007. (III. 26.) Korm. rendelet
+9. §[^3]
 
-a) 24/B. § (4) bekezdésében a „tagja és” szövegrész,
-
-b) 24/C. § (2) bekezdés a) pontja.
+[^3]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
