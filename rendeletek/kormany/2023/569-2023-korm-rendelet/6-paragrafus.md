@@ -1,1 +1,3 @@
-6. § Hatályát veszti a sportbeli dopping elleni nemzetközi egyezmény I. és II. melléklete módosításának kihirdetéséről szóló 542/2022. (XII. 22.) Korm. rendelet 2. § (1) bekezdése, 3. §-a, valamint 1. és 2. melléklete.
+6. §[^2]
+
+[^2]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

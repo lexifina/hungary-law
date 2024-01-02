@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-569-20-
 | --- | --- | --- |
 | 2023-12-19 | 2023-569-20-22.1 | 569/2023. (XII. 18.) Korm. rendelet |
 | 2024-01-01 | 2023-569-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2023-569-20-22.3 | 380/2024. (XII. 9.) Korm. rendelet |
