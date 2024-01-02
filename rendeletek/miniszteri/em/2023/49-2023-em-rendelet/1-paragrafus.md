@@ -1,1 +1,3 @@
-1. § A levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet 21. § (2) bekezdésében az „az Országos Meteorológiai Szolgálat” szövegrész helyébe az „a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
