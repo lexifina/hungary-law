@@ -1,1 +1,3 @@
-2. § A 489/2023. (XI. 2.) Korm. rendelet 1. §-a a „2. és 3. §-ban” szövegrész helyett a „2–3/A. §-ban” szöveggel lép hatályba.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
