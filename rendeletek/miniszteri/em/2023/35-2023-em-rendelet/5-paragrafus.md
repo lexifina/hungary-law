@@ -1,1 +1,3 @@
-5. § Hatályát veszti a Felajánlási rendelet 4. § (3) bekezdésében a „ , továbbá a rugalmassági szabályok alkalmazása” szövegrész.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

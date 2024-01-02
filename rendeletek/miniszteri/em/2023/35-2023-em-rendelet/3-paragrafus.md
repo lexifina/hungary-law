@@ -1,9 +1,3 @@
-3. § A Felajánlási rendelet
+3. §[^4]
 
-a) 1. melléklete helyébe az 1. melléklet,
-
-b) 2. melléklete helyébe a 2. melléklet,
-
-c) 4. melléklete helyébe a 3. melléklet
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
