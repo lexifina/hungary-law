@@ -1,7 +1,5 @@
 ## 9. A tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében foglalt eljárási szabályok megállapításáról szóló 198/2007. (VII. 30.) Korm. rendelet módosítása
 
-11. § A tagállamok és harmadik országok közötti légiközlekedési szolgáltatásokra vonatkozó megállapodások tárgyalásáról és végrehajtásáról szóló 2004. április 29-i 847/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében foglalt eljárási szabályok megállapításáról szóló 198/2007. (VII. 30.) Korm. rendelet 6. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+11. §[^11]
 
-„(2a) A közmeghallgatás a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján is megtartható.
-
-(2b) A közmeghallgatás az érintettek személyes megjelenése nélkül, honlapon való közzététel útján is megtartható. A közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek, és kérdéseket tehetnek fel. A légiközlekedési hatóság – szükség szerint az érintett egyéb szervek, illetve a kérelmező ügyfél bevonásával – a beérkezett észrevételekkel kapcsolatos tájékoztatását a honlapján közzéteszi. A kérelmet benyújtó légitársaságok a közzétételtől számított 3 napon belül a tájékoztatást véleményezhetik.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

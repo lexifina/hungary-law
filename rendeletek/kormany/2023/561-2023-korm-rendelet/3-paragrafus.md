@@ -1,1 +1,3 @@
-3. § Az R1. 2. § (7) bekezdés a) és f) pontjában a „telefon- és faxszámát” szövegrész helyébe a „telefonszámát” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

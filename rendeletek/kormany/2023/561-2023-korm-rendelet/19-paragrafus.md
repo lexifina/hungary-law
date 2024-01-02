@@ -1,1 +1,3 @@
-19. § Az R4. 21. § (2) bekezdésében a „munkaszerződésének” szövegrész helyébe a „munkaszerződésének vagy foglalkoztatására irányuló egyéb jogviszonyának” szöveg lép.
+19. §[^19]
+
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

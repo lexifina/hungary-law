@@ -1,5 +1,5 @@
 ## 4. A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet módosítása
 
-5. § A mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendelet a következő 3/A. §-sal egészül ki:
+5. §[^5]
 
-„3/A. § Ha az igazolvány kiadása iránti kérelem a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 10/B. §-a alapján került benyújtásra, a rehabilitációs hatóság továbbítja a benyújtott kérelmet a járási hivatalnak, illetve – döntését követően – tájékoztatja a járási hivatalt a közlekedőképesség vizsgálata kapcsán meghozott döntéséről.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 11. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet módosítása
 
-13. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet 13/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+13. §[^13]
 
-„(4) A hálózati engedélyes a kiválasztott nyomvonalra vonatkozó írásbeli vélemények figyelembevételével közmeghallgatást szervezhet a Hatóság felügyelete mellett a 13. § (1) bekezdése szerint, azzal az eltéréssel, hogy a közmeghallgatáson a Hatóság részt vesz. A közmeghallgatáson elhangzott észrevételek dokumentálásáról a hálózati engedélyes gondoskodik, amit a Hatóság hitelesít. A közmeghallgatás a különböző helyszínen jelen lévők között, egy időben, valós idejű kommunikációt lehetővé tévő, kép és hang egyidejű továbbítására alkalmas elektronikus hírközlő eszköz útján, illetve az érintettek személyes megjelenése nélkül, honlapon való közzététel útján is megtartható. A honlapon való közzététel tartalmazza azt a határidőt, amelyen belül az érintettek észrevételeket tehetnek, és kérdéseket tehetnek fel. A személyes megjelenés nélkül, honlap útján történő közmeghallgatás esetén a beérkezett észrevételekről és az azokra adott válaszokról a hálózati engedélyes a közmeghallgatást követő 15 napon belül tájékoztatja a Hatóságot.”
+[^13]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

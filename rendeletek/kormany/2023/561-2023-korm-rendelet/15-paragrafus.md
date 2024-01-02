@@ -1,5 +1,5 @@
 ## 13. Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény végrehajtásáról szóló 223/2010. (VII. 30.) Korm. rendelet módosítása
 
-15. § Az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény végrehajtásáról szóló 223/2010. (VII. 30.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(2) A bejelentés megkezdésekor az elektronikus ügyintézés részletszabályairól szóló 451/2016. (XII. 19.) Korm. rendelet 42. § b) pontja szerinti országos telefonos ügyfélszolgálat (a továbbiakban: ügyfélszolgálat) a bejelentőt nyilatkoztatja arról, hogy korábban tett-e már bejelentést.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-## „a) a honlapon történő közzététel napját,”
+43. §[^43]
 
-43. § Hatályát veszti az R12. 26. § (3) bekezdésében a „hirdetőtábláján, valamint” szövegrész.
+[^43]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

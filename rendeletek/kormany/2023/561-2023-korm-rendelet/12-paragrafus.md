@@ -1,5 +1,5 @@
 ## 10. A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet módosítása
 
-12. § A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet 3. §-a a következő (5a) bekezdéssel egészül ki:
+12. §[^12]
 
-„(5a) A kormányhivatal gondoskodik az (5) bekezdés b), g) és h) pontjában hivatkozott bizonyítvány, illetve engedély másolatának beszerzéséről, amennyiben azt a kérelmező az állandó menazséria működési engedélye iránti kérelméhez nem mellékelte.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

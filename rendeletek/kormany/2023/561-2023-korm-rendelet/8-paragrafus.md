@@ -1,1 +1,3 @@
-8. § Az R2. 20/A. § (14) bekezdésében az „együtt” szövegrész helyébe az „együtt kérelemre” szöveg lép.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

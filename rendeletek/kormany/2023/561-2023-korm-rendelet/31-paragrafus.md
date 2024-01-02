@@ -1,1 +1,3 @@
-31. § Hatályát veszti az R8. 12. § (1) bekezdés a) és b) pontja.
+31. §[^31]
+
+[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
