@@ -6,7 +6,7 @@ b)
 
 c)
 
-d) 6. § (3) bekezdés e) pontja,
+d)
 
 e)
 
