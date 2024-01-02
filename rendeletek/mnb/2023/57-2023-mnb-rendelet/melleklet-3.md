@@ -3005,3 +3005,9 @@ Az aj) Lakossági szerződések száma a tárgyidőszak végén oszlop 9FA20 sor
 A tábla sorai
 
 A 9FA táblázat a)-ah) oszlopában szükséges feltüntetni az egyes szolgáltatástípusokra a tárgyidőszakban érkeztetett panaszok számát panasztípusok szerinti megbontásban, míg az aj) oszlopban az egyes sorokban (9FA11-9FA20) feltüntetett szolgáltatástípusok igénybevétele érdekében fogyasztókkal kötött, a tárgyidőszak végén fennálló szerződések darabszámát kell szerepeltetni.
+
+A 9FA111 Folyószámlahitel sor, illetve a 9FA115 Hitelkártya sor aj) Lakossági szerződések száma a tárgyidőszak végén oszlopában minden folyószámlahitel-keretszerződés darabszámot szerepeltetni kell függetlenül attól, hogy a fogyasztó a tárgyidőszakban igénybe vette-e a hitelkeretet vagy sem.
+
+A 9FA13 Számlavezetéssel kapcsolatos sor aj) Lakossági szerződések száma a tárgyidőszak végén oszlopában azon számlák számát kell megadni, amelyek teljes egyenlegéhez szabadon hozzáférhet annak tulajdonosa úgy, hogy az egyenleg után az adatszolgáltató által fizetett időarányos kamat független az egyenleg változásának időpontjától. A sor tartalmazza azon látra szóló bankszámlaszerződések számát is, amelyek a negyedév végén nem rendelkeznek forrás oldali egyenleggel.
+
+A 9FA175 Lakossági ügyfél számára vezetett értékpapírszámla sor aj) Lakossági szerződések száma a tárgyidőszak végén oszlopában a Tpt. 5. § (1) bekezdés 46. pontja szerinti értékpapírszámlák számát kell megadni. Az aktív lakossági ügyfelek számára vezetett értékpapírszámlák számát a 9FA1751 sorban külön ki kell emelni. Aktív lakossági ügyfél alatt értendő az, aki a Bszt. értelmében lakossági befektetőnek minősül, és akinek ügyfélszámláján vagy értékpapírszámláján egyenleg szerepel, vagy aki az elmúlt egy évben valamilyen befektetési szolgáltatást (pl. befektetési tanácsadás) igénybe vett.

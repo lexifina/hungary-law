@@ -1,3 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+20. §[^2]
 
-20. § Hatályát veszti az 51/2022. (XI. 29.) MNB rendelet.
+[^2]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
