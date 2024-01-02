@@ -1,3 +1,3 @@
-44. §[^14]
+44. §[^15]
 
-[^14]: A 44. § a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.
+[^15]: A 44. § a 674/2023. (XII. 29.) Korm. rendelet 37. §-a alapján nem lép hatályba.

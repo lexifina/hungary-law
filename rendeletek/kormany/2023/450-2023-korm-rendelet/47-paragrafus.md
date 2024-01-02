@@ -1,1 +1,3 @@
-47. § Hatályát veszti a betétdíj alkalmazásának szabályairól szóló 209/2005. (X. 5.) Korm. rendelet.
+47. §[^18]
+
+[^18]: A 47. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

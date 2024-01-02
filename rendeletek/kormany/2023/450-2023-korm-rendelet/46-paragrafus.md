@@ -1,1 +1,3 @@
-46. § Hatályát veszti a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 7. §-ában a „Betétdíjas termék gyártója a kiterjesztett gyártói felelősségi kötelezettségeit egyénileg teljesítheti.” szövegrész.
+46. §[^17]
+
+[^17]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
