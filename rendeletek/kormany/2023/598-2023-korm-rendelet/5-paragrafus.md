@@ -1,3 +1,3 @@
-5. § Az R. 82. §-a a következő (5) bekezdéssel egészül ki:
+5. §[^6]
 
-„(5) Ha a vízminőség romlása a 79. § (4) bekezdésében foglalt kötelezettség megszegése miatt történt, a felhasználó viseli a víziközmű-szolgáltatónál felmerülő, a vízminőség vizsgálatával és a vízminőség-romlás okának felderítésével és elhárításával kapcsolatos igazolt költségeket.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

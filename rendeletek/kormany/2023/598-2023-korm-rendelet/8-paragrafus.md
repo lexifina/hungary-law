@@ -1,5 +1,3 @@
-8. § Hatályát veszti az R.
+8. §[^9]
 
-a) 85/A. § (6) bekezdése,
-
-b) 88/D. § (11) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
