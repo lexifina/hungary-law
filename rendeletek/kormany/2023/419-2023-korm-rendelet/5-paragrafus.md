@@ -1,3 +1,3 @@
-5. § Az R. 9. § (8) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(8) A DKÜ a vizsgálat alá vont beszerzési igény kézhezvételétől számított 5 munkanapon belül hiánypótlást vagy átdolgozást kérhet az érintett szervezettől, megjelölve a hiánypótlás vagy az átdolgozás kérésének okát, és ennek keretében – ha az indokolt – javaslatot tesz az érintett szervezet részére a beszerzési igény átdolgozásának szempontjaira. A DKÜ a beszerzési igény ismételt megküldésére 5 munkanapos határidőt állapít meg, azzal, hogy a beszerzési igény ismételt megküldéséig a DKÜ részére megállapított (3) bekezdés szerinti határidő nyugszik.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
