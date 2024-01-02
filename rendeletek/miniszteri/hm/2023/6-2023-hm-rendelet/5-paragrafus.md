@@ -1,3 +1,3 @@
-5. § A Hjt.vhr. a következő 117/A. § (6) bekezdése a következő h) ponttal egészül ki:
+5. §[^6]
 
-[A Hjt. 98. § (1) bekezdése szerinti katonai szakmai felkészítésnek minősül]
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

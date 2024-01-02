@@ -1,5 +1,3 @@
-## „h) az Összhaderőnemi Vezető Altiszti Tanfolyam.”
+6. §[^7]
 
-6. §[^4]
-
-[^4]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
