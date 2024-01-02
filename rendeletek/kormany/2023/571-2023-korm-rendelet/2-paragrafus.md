@@ -1,1 +1,3 @@
-2. § Az R. 11. § (5) bekezdés d) pontjában a „16 éven felüli” szövegrész helyébe a „18 éven felüli” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
