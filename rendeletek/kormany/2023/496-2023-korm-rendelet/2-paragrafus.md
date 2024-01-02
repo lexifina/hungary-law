@@ -1,1 +1,3 @@
-2. § Az R. 28. § (1) bekezdés c) pont ca) alpontjában a „személyek” szövegrész helyébe a „személyek és vallási közösségek egyházi személyei, illetve vallásos szertartást hivatásszerűen végző tagjai” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
