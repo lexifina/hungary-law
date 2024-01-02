@@ -1,3 +1,3 @@
-2. § A Vhr. 4. § (2a) bekezdés c) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(Az adatszolgáltatásban az útdíjszedő tételesen kimutatja)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

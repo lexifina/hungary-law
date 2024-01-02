@@ -1,5 +1,5 @@
 ## 2. Az úthasználati díjelszámolásról szóló 578/2022. (XII. 23.) Korm. rendelet módosítása
 
-12. § Az úthasználati díjelszámolásról szóló 578/2022. (XII. 23.) Korm. rendelet 1. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(Az adatszolgáltatásban a Kkt. 47. § 38. pontjában foglaltaknak megfelelően az útdíjszolgáltatási gazdasági társaság tételesen kimutatja)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
