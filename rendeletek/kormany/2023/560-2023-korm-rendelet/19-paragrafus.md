@@ -1,3 +1,3 @@
-19. § A Magyar Államkincstárról szóló 310/2017. (X. 31.) Korm. rendelet 10. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+19. §[^20]
 
-(A törzskönyvi nyilvántartás vezetése során)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
