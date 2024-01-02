@@ -1,3 +1,3 @@
-1. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 61/2017. (XII. 21.) FM rendelet [a továbbiakban: 61/2017. (XII. 21.) FM rendelet] 6. §-a a következő (1a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1a) Ha az erdészeti hatóság elvi engedélyezési eljárás keretében engedélyezte az erdő igénybevételét erdészeti magánút építése céljából, akkor az erdészeti magánút építésének engedélyezésére irányuló kérelemnek az (1) bekezdés szerinti kötelező mellékletei közül csak azokat kell a hatósághoz benyújtani, amelyek az elvi igénybevételi eljárás során még nem kerültek benyújtásra. A kérelmező egyúttal nyilatkozik arról, hogy az elvi engedélyezési eljárásban benyújtott dokumentumokkal megegyező tartalommal kívánja létesíteni a magánutat.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

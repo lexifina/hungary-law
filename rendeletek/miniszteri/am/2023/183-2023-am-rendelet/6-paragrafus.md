@@ -1,5 +1,3 @@
-6. § Hatályát veszti a 61/2017. (XII. 21.) FM rendelet
+6. §[^7]
 
-a) 4. § (1) bekezdésében a „korszerűsíteni,” szövegrész, valamint
-
-b) 65. § (2) bekezdése.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

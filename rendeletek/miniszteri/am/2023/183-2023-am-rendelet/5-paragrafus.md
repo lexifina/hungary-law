@@ -1,7 +1,3 @@
-5. § A 61/2017. (XII. 21.) FM rendelet
+5. §[^6]
 
-a) 13. § (1) bekezdés a) pontjában a „helyszíneléssel” szövegrész helyébe a „helyszíneléssel és távérzékeléssel” szöveg,
-
-b) 39. § (3) bekezdés nyitó szövegrészében a „SOE” szövegrész helyébe a „SOE és a NÉBIH” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

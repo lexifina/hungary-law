@@ -1,3 +1,3 @@
-2. § A 61/2017. (XII. 21.) FM rendelet 30. § (3) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(3) A nem elektronikus úton benyújtott erdőtelepítési-kivitelezési tervet két példányban kell a hatóság részére benyújtani.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
