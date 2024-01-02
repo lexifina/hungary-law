@@ -1,3 +1,3 @@
-1. § A vízügyi igazgatási szerveknél foglalkoztatottak közalkalmazotti jogviszonyának különös szabályairól szóló 391/2017. (XII. 13.) Korm. rendelet (a továbbiakban: R.) a következő 47. §-sal egészül ki:
+1. §[^2]
 
-„47. § E rendeletnek a vízügyi igazgatási szerveknél foglalkoztatottak közalkalmazotti jogviszonyának különös szabályairól szóló 391/2017. (XII. 13.) Korm. rendeletnek a foglalkoztatottak fizetési fokozatait és illetményét érintő módosításáról szóló 558/2023. (XII. 13.) Korm. rendelettel megállapított 3. mellékletét első alkalommal a 2023. december hónapra járó illetmények esetén kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
