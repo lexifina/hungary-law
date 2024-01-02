@@ -1,3 +1,3 @@
-1. § A jövedelemarányos törlesztőrészlet és a hitelfedezeti arányok szabályozásáról szóló 32/2014. (IX. 10.) MNB rendelet (a továbbiakban: Rendelet) 2. §-a a következő 17. ponttal egészül ki:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
