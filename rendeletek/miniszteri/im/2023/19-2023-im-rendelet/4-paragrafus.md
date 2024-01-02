@@ -1,1 +1,3 @@
-4. § A Cvhr. 6. számú melléklet VIII. pont 2. alpontja a következő szöveggel lép hatályba:
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
