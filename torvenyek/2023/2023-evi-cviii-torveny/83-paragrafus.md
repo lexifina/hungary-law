@@ -1,3 +1,1 @@
-83. § A Kkt. 68. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Amennyiben a harmadik országbeli illetőséggel rendelkező gazdálkodó (szervezet) átruházható értékpapírjainak kereskedelme engedélyezett Magyarország szabályozott piacán, az éves beszámolójáról és az összevont (konszolidált) éves beszámolójáról kiadott könyvvizsgálói jelentés és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyossági jelentés abban az esetben minősül a Magyarországon hatályos jogszabályoknak megfelelő könyvvizsgálói jelentésnek, illetve bizonyossági jelentésnek, ha a könyvvizsgálói jelentést és adott esetben a bizonyossági jelentést kibocsátó harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó rendelkezik a közfelügyeleti hatóság engedélyével és szerepel a kamara – e célból vezetett – jegyzékében.”
+### 83. §

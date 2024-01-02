@@ -1,5 +1,1 @@
-## „p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba, valamint annak feltüntetése, hogy az Európai Gazdasági Térség állama illetékes hatóságának nyilvántartása szerint jogosult-e fenntarthatósági jelentésre vonatkozó bizonyosság nyújtására,”
-
-74. § A Kkt. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A csoportkönyvvizsgáló felülvizsgálja és értékeli a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által a csoport könyvvizsgálata céljából végzett könyvvizsgálói munkát és adott esetben a fenntarthatósági jelentésre vonatkozó bizonyosság nyújtása céljából végzett bizonyossági munkát, dokumentálja a könyvvizsgálók által elvégzett munka jellegét, időzítését és mértékét, ideértve a könyvvizsgálók könyvvizsgálati dokumentációja és adott esetben a fenntarthatósági bizonyossági dokumentációja vonatkozó részeinek a csoportkönyvvizsgáló általi felülvizsgálatát.”
+### 74. §

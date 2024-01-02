@@ -1,3 +1,1 @@
-60. § Az Szt. 95/C. §-a helyébe a következő rendelkezés lép:
-
-„95/C. § A 95/E. § (1) bekezdésének hatálya alá tartozó vállalkozó üzleti jelentésében beszámol a kulcsfontosságú immateriális erőforrásokra vonatkozó információkról, valamint bemutatja, hogy üzleti modellje hogyan függ alapvető módon ezektől az erőforrásoktól, és hogy ezek az erőforrások hogyan jelentik számára az értékteremtés forrásait.”
+### 60. §
