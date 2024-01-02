@@ -1,3 +1,3 @@
-13. §[^23]
+13. §[^15]
 
-[^23]: A 13. § a 317/2023. (VII. 17.) Korm. rendelet 11. § b) pontja alapján nem lép hatályba.
+[^15]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
