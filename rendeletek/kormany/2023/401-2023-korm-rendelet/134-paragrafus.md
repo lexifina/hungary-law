@@ -1,1 +1,3 @@
-134. § A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 134. § (7) bekezdésében az „a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 6. mellékletét” szövegrész helyébe az „a pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 2. mellékletében” szöveg lép.
+134. §[^36]
+
+[^36]: A 134. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
