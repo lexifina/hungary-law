@@ -1,3 +1,3 @@
-4. § Az R2. a következő 7. §-sal egészül ki:
+4. §[^4]
 
-„7. § Az egyes egészségügyi és egészségbiztosítási tárgyú miniszteri rendeletek humánreprodukciós eljárásokkal összefüggő módosításáról szóló 70/2023. (XII. 23.) BM rendelettel (a továbbiakban: Módr1.) megállapított 2. § (1) bekezdés c) pont ca) alpontja szerinti stimulációkba beletartoznak a Módr1. hatálybalépését megelőzően az Egészségbiztosítási Alap terhére elvégzett stimulációk is, azzal, hogy aki a Módr1. hatálybalépését megelőzően hatályos 2. § (1) bekezdés c) pont ca)–cd) alpontja alapján a Módr1. hatálybalépésekor még jogosult lenne teljes, az embrió beültetésével végződő beavatkozásra, azonban a Módr1.-gyel megállapított szabályok szerint stimulációra már nem jogosult, esetében a stimulációk számától függetlenül a Módr1. hatálybalépésétől számított egy évig annyi beavatkozás elvégezhető az Egészségbiztosítási Alap terhére, amennyire a Módr1. hatálybalépését megelőző szabályok szerint jogosult volt.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

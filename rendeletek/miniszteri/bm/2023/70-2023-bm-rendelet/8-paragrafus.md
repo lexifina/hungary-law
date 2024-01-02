@@ -1,1 +1,3 @@
-8. § Az R3. 1. számú melléklete helyébe az 5. melléklet lép.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

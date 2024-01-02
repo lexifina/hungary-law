@@ -1,1 +1,3 @@
-18. § Az R9. 1. mellékletében foglalt táblázat B:15 és B:16 mezőjében az „Állami Egészségügyi Ellátó Központ” szövegrész helyébe az „Országos Kórházi Főigazgatóság” szöveg lép.
+18. §[^18]
+
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

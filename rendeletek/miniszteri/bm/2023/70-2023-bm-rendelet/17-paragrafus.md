@@ -1,3 +1,3 @@
-17. §[^2]
+17. §[^17]
 
-[^2]: A 17. § a 19. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^17]: A 17. § a 19. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
