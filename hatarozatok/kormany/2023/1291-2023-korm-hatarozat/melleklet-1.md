@@ -18,10 +18,11 @@
 
 ## 8. Hatályát veszti
 
-## a) a Nemzeti Bűnmegelőzési Stratégiáról (2013–2023) szóló 1744/2013. (X. 17.) Korm. határozat,
+## a)[^1]
 
-## b)[^1]
+## b)[^2]
 
 1. melléklet az 1291/2023. (VII. 19.) Korm. határozathoz
 
-[^1]: A 8. pont b) alpontja a 7. pont alapján 2026. január 1-jén lép hatályba.
+[^1]: A 8. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 8. pont b) alpontja a 7. pont alapján 2026. január 1-jén lép hatályba.

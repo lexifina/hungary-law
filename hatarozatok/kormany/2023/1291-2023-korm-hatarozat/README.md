@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1291-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-01-01 | 2023-1291-30-22.1 | 1291/2023. (VII. 19.) Korm. határozat |
+| 2024-01-02 | 2023-1291-30-22.2 | 2010: CXXX. törvény |
