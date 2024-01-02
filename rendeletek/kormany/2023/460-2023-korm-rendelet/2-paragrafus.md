@@ -1,1 +1,3 @@
-2. § Nem lép hatályba az egyes villamosenergetikai tárgyú kormányrendeletek módosításáról szóló 721/2020. (XII. 31.) Korm. rendelet 1. § (2) bekezdése.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

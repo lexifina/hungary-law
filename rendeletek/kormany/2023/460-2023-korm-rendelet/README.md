@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-460-20-
 | --- | --- | --- |
 | 2023-10-06 | 2023-460-20-22.1 | 460/2023. (X. 5.) Korm. rendelet |
 | 2023-10-07 | 2023-460-20-22.2 | 2010. évi CXXX. törvény |
+| 2024-01-02 | 2023-460-20-22.3 | 2010. évi CXXX. törvény |
