@@ -1,17 +1,6 @@
-8. § (1) A Hr.
+8. § (1)[^8]
 
-a) 1. §-ában az „az országos tisztifőorvos” szövegrész helyébe az „az Országos Kórházi Főigazgatóság (a továbbiakban OKFŐ)” szöveg, a „közvetlenül, elektronikus úton” szövegrész helyébe az „az Elektronikus Egészségügyi Szolgáltatási Tér felületén keresztül elérhető strukturált űrlapon” szöveg,
+(2)[^9]
 
-b) 2. § (1) bekezdésében az „országos tisztifőorvos” szövegrész helyébe az „OKFŐ” szöveg,
-
-c) 2. § (3) bekezdésében az „országos tisztifőorvos” szövegrészek helyébe az „OKFŐ” szöveg, az „az Adatbázis” szövegrész helyébe az „a Regiszter” szöveg,
-
-d) 3. § (1) bekezdésében az „Az Adatbázis” szövegrész helyébe az „A Regiszter” szöveg,
-
-e) 3. § (3) bekezdésében az „országos tisztifőorvos” szövegrészek helyébe az „OKFŐ” szöveg
-
-lép.
-
-(2)[^2]
-
-[^2]: A 8. § (2) bekezdése a 9. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^8]: A 8. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 8. § (2) bekezdése a 9. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.

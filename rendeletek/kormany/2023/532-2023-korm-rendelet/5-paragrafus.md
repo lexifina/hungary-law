@@ -1,3 +1,3 @@
-5. § A Hr. 4. §-a helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„4. § Az éves jelentésnek tartalmaznia kell az adott egészségügyi szolgáltató által végzett reprodukciós beavatkozások számát, típusát, eredményességi mutatóit korcsoport szerinti bontásban.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
