@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egyes állat-járványügyi intézkedésekről és az azokkal összefüggő állami kártalanításról szóló 74/2013. (VIII. 30.) VM rendelet 4. § (1) bekezdés nyitó szövegrészében a „ , két példányban” szövegrész.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
