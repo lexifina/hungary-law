@@ -1,1 +1,3 @@
-59. § A természetes személyek adósságrendezési eljárásában a méltányolható lakásigény, továbbá lakásbérleti vagy lakáshasználati díj meghatározásáról szóló 241/2015. (IX. 8.) Korm. rendelet 3. § (4) bekezdésében a „lakásépítési támogatással vagy a családok otthonteremtési kedvezményével” szövegrész helyébe a „lakásépítési támogatással, a családok otthonteremtési kedvezményével, a családi otthonteremtési kedvezménnyel vagy a családok otthonteremtési kamattámogatásával érintett kölcsönnel” szöveg lép.
+59. §[^1]
+
+[^1]: Az 59. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

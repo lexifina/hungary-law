@@ -1,3 +1,3 @@
-64. § A Nemzeti Adó- és Vámhivatal személyi állományát érintő egyes személyügyi kérdésekről szóló 672/2020. (XII. 28.) Korm. rendelet 57. § (1) bekezdése a következő e) és f) ponttal egészül ki:
+64. §[^6]
 
-[A NAV Szj. tv. 172. § (1) bekezdése alkalmazásában állami kamattámogatású kölcsönnek]
+[^6]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

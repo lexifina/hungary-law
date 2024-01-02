@@ -1,7 +1,3 @@
-60. § Az egészségbiztosítási szervekről szóló 386/2016. (XII. 2.) Korm. rendelet 7. § (5) bekezdés j) pontjában
+60. §[^2]
 
-a) a „családok otthonteremtési kedvezményének” szövegrész helyébe a „családi otthonteremtési kedvezmény” szöveg és
-
-b) a „kamattámogatás” szövegrész helyébe a „kamattámogatás, valamint a családok otthonteremtési kamattámogatásával érintett kölcsön” szöveg
-
-lép.
+[^2]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
