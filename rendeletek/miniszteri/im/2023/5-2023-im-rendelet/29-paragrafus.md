@@ -1,9 +1,3 @@
-29. § A
+29. §[^4]
 
-a) 16. § (1) bekezdésében a „hétezer” szövegrész helyébe a „kilencezer-száz” szöveg, a „tízezer” szövegrész helyébe a „tizenháromezer” szöveg,
-
-b) 16. § (2) bekezdésében a „háromezer” szövegrész helyébe a „háromezer-kilencszáz” szöveg,
-
-c) 18. § (3) bekezdésében az „ötszáz” szövegrész helyébe az „ezer” szöveg
-
-lép.
+[^4]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
