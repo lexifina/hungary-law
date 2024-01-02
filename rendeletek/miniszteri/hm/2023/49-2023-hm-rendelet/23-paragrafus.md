@@ -1,7 +1,3 @@
-23. § E rendelet
+23. §[^1]
 
-a) 1. melléklet címében a „2023. évi” szövegrész helyébe a „2024. évi” szöveg,
-
-b) 2. melléklet címében a „2023. évi” szövegrész helyébe a „2024. évi” szöveg
-
-lép.
+[^1]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
