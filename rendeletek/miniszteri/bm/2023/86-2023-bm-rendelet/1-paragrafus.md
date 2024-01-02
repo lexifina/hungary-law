@@ -1,3 +1,3 @@
-1. § Az Országgyűlési Őrség munkavédelmi feladatai és foglalkozás-egészségügyi tevékenysége ellátásának szabályairól szóló 23/2013. (VI. 11.) BM rendelet 1. § a) és b) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
