@@ -1,3 +1,3 @@
-2. § Az R. 25/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^2]
 
-„(1) Ha a járművezető rendelkezik a díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló kormányrendeletben meghatározott érvényes vezetői engedély kategóriához tartozó „Gépjárművezetői képesítési igazolvány”-nyal, a vezetői engedély kiadása, cseréje vagy honosítása során a részére kiadásra kerülő vezetői engedélyben a 95. harmonizált uniós kód feltüntetésre kerül a „Gépjárművezetői képesítési igazolvány” időbeli hatályával megegyező időtartammal.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
