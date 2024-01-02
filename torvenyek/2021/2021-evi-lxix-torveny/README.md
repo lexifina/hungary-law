@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-69-00-00
 | 2023-02-13 | 2022. évi LXIV. törvény | 2021-69-00-00.18 |
 | 2023-02-14 | 2010. évi CXXX. törvény | 2021-69-00-00.19 |
 | 2024-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-69-00-00.20 |
+| 2024-01-02 | 2010. évi CXXX. törvény | 2021-69-00-00.21 |
