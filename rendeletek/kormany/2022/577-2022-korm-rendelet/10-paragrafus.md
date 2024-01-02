@@ -1,1 +1,0 @@
-10. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendeletet (a továbbiakban: ITM rendelet) azzal az eltéréssel kell alkalmazni, hogy az útdíjfizetési-szolgáltatásért felelős miniszter látja el az ITM rendelet 6. §-a szerinti ellenőrzési feladatot.

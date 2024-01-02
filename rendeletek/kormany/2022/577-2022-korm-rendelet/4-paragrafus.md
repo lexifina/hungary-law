@@ -1,1 +1,0 @@
-4. § A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet 5. § (3) bekezdése szerinti rendelkezést 2023. július 31. napjáig kell alkalmazni.
