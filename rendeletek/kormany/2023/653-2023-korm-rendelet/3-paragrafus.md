@@ -1,3 +1,3 @@
-3. § A 410/2012. Korm. rendelet 24. § (1) bekezdése a következő e) ponttal egészül ki:
+3. §[^4]
 
-(Ez a rendelet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
