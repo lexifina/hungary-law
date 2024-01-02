@@ -1,5 +1,0 @@
-### 92/B. §
-
-12. CÍM
-
-EGYÉB ELJÁRÁSI SZABÁLYOK

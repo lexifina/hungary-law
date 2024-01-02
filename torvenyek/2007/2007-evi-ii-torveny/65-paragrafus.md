@@ -1,3 +1,0 @@
-## A kitoloncolás
-
-### 65. §

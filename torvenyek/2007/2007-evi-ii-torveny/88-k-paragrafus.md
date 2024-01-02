@@ -1,5 +1,0 @@
-### 88/K. §
-
-7. CÍM
-
-HATÓSÁGI INTÉZKEDÉSEK

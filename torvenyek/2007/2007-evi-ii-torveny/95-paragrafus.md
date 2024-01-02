@@ -1,3 +1,0 @@
-## Idegenrendészeti résznyilvántartások
-
-### 95. §

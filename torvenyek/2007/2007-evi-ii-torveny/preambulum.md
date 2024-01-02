@@ -1,1 +1,0 @@
-Az Országgyűlés a szabadságon, a biztonságon és a jog érvényesülésén alapuló európai térség fokozatos létrehozásában történő közreműködés, valamint az Európai Unió és az azon kívüli országok társadalmi és gazdasági fejlődésének előmozdítása érdekében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról a következő törvényt alkotja:

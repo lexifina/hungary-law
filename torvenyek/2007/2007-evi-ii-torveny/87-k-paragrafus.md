@@ -1,5 +1,0 @@
-### 87/K. §
-
-3. CÍM
-
-AZ IDEGENRENDÉSZETI HATÓSÁG DÖNTÉSEI

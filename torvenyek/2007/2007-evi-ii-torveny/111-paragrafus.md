@@ -1,3 +1,0 @@
-## Felhatalmazó rendelkezések
-
-### 111. §

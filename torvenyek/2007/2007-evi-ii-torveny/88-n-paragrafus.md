@@ -1,5 +1,0 @@
-### 88/N. §
-
-8. CÍM
-
-JOGORVOSLAT

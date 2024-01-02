@@ -1,3 +1,0 @@
-## Hatósági bizonyítvány
-
-### 88. §
