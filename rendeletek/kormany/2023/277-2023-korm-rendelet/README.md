@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-277-20-
 | 2023-07-31 | 2023-277-20-22.7 | 1/2023. (IX. 12.) EM határozat |
 | 2023-08-01 | 2023-277-20-22.8 | 2010: CXXX. törvény |
 | 2024-01-01 | 2023-277-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2023-277-20-22.4 | 2010: CXXX. törvény |
