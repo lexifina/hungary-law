@@ -1,5 +1,1 @@
-## „c) azt rendkívüli méltánylást érdemlő körülmények indokolják, különösen ha sérelmére az EGT-állampolgár házastárs a házasság fennállása alatt szándékos bűncselekményt követett el, vagy a házasságkötés előtt a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény (a továbbiakban: Btátv.) szerinti huzamos tartózkodási jogosultsággal rendelkezett, vagy”
-
-343. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény „A tartózkodási jog korlátozásának közös szabályai” alcíme a következő 62/A. §-sal egészül ki:
-
-„62/A. § Azt az EGT-állampolgárt vagy családtagot, akivel szemben a szabad mozgás és tartózkodás jogának közrendi, közbiztonsági, nemzetbiztonsági vagy közegészségügyi okból a 33. § alapján történő korlátozásának, illetve a bíróság jogerős ügydöntő határozatával elrendelt kiutasítás végrehajtásának van helye, vagy akit az idegenrendészeti hatóság értesítése alapján a továbbiakban nem illet meg a száznyolcvan napon belül kilencven napot meghaladó tartózkodás joga, az idegenrendészeti hatósághoz elő kell állítani.”
+### 343. §

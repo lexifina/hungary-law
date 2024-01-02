@@ -1,1 +1,1 @@
-299. § A közjegyzőkről szóló 1991. évi XLI. törvény 122. § (5) bekezdés b) pontjában a „menekült, bevándorolt, letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultságát, menekült” szöveg lép.
+### 299. §

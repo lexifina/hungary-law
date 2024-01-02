@@ -1,3 +1,1 @@
-302. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/E. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A huzamos tartózkodási jogosultsággal rendelkező személy állandó személyazonosító igazolványát az (1) és (1a) bekezdésben meghatározott érvényességi idővel, de legfeljebb a letelepedési engedélyébe, ideiglenes letelepedési engedélyébe, nemzeti letelepedési engedélyébe, EK letelepedési engedélyébe, ideiglenes tartózkodási kártyájába, nemzeti tartózkodási kártyájába, illetve EU tartózkodási kártyájába bejegyzett érvényességi idővel kell kiállítani.”
+### 302. §

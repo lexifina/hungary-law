@@ -1,3 +1,1 @@
-338. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény 41. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a jogi segítségnyújtó szolgálat a Btátv. 98. § (1), illetve (3) bekezdése alapján kiutasított személy véglegessé vált kiutasító határozat bíróság előtti megtámadásához szükséges jogi segítségnyújtás iránti kérelmének helyt ad, a peren kívüli támogatásról hozott határozattal egyidejűleg végzésben jogi segítőt és szükség szerint tolmácsot rendel ki, aki a kirendelés alapján a jogi szolgáltatás nyújtása során a jogi segítő és a fél között tolmácsol. A kérelemnek helyt adó határozattal szemben fellebbezésnek helye nincs.”
+### 338. §
