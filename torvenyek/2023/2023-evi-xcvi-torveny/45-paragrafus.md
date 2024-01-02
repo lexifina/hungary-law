@@ -1,5 +1,1 @@
-## „g) közvetítői tevékenységével kapcsolatos közleményeit „közlemények” megjelöléssel.”
-
-45. § A közvetítői tevékenységről szóló 2002. évi LV. törvény 9. §-a helyébe a következő rendelkezés lép:
-
-„9. § A miniszter hivatalból indult eljárásban a közvetítőt a névjegyzékbe történő felvételét követően közvetítői minőségének igazolására szolgáló arcképes közvetítői igazolvánnyal látja el. A miniszter a kiállított közvetítői igazolványt a közvetítőnek az átvétel igazolása mellett átadja, vagy azt postai úton, hivatalos iratként megküldi a közvetítő részére.”
+### 45. §

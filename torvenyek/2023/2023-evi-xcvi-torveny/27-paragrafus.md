@@ -1,5 +1,1 @@
-## „e) a Gazdasági Versenyhivatal, az Európai Bizottság, a tagállami versenyhatóságok, valamint az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok belső iratait, ideértve az 1/2003/EK tanácsi rendelet 11., 12., 14. és 22. cikke szerinti iratokat, a Gazdasági Versenyhivatal és az Európai Bizottság, illetve a más tagállami versenyhatóságok vagy az (EU) 2022/1925 európai parlamenti és tanácsi rendelet szerinti illetékes hatóságok közti, vagy ezek egymás közötti levelezését, valamint az (EU) 2022/2560 európai parlamenti és tanácsi rendelet alapján az Európai Bizottság és a Gazdasági Versenyhivatal közötti levelezést, kivéve azt az iratot vagy abban szereplő adatot, amely a tényállás megállapításakor bizonyítékként került felhasználására, ha az ilyen irat vagy adat megismerésének hiánya megakadályozná az ügyfél törvényben biztosított jogainak gyakorlását,”
-
-27. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 61. § (1a) bekezdése a következő e) ponttal egészül ki:
-
-[Az (1) bekezdés szerinti cselekmény, magatartás vagy kötelezettség magában foglalja különösen]
+### 27. §

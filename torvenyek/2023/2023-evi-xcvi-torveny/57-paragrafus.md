@@ -1,3 +1,1 @@
-57. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 36. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A cégbejegyzési (változásbejegyzési) eljárás során az elektronikus úton küldött okiratokat minősített elektronikus aláírással és minősített időbélyegzővel kell ellátni, oly módon, hogy az időbélyegző alapján a minősített elektronikus aláírás használatára való jogosultság – az okirat aláírásának időpontjában való – fennállása megállapítható legyen. A jogi képviselő e kötelezettséget úgy is teljesítheti, ha a cégbejegyzési (változásbejegyzési) kérelmet látja el minősített elektronikus aláírással és minősített időbélyegzővel. A cégbíróság által küldött elektronikus okirat közokiratnak minősül. Ügyvéd vagy kamarai jogtanácsos jogi képviselő esetén az ügyvédi tevékenységről szóló törvényben meghatározott elektronikus aláírás és elektronikus bélyegző is használható.”
+### 57. §
