@@ -1,7 +1,1 @@
-7. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 45/N. §-a helyébe a következő rendelkezés lép:
-
-„45/N. § (1) A 2024. január 1. előtt létesített, ötven méter talpmélységet meg nem haladó és az első vízzáró réteget el nem érő mezőgazdasági célú kút fennmaradásához nem szükséges vízjogi engedély és bejelentés.
-
-(2) Mentesül a 29. § (4) bekezdése szerinti vízgazdálkodási bírság megfizetése alól az (1) bekezdés szerinti mezőgazdasági célú kút üzemeltetője.
-
-(3) A mezőgazdasági célú kút üzemeltetője felelős azért, hogy a felszín alatti vizet – az e törvényben foglaltak figyelembevételével – csak olyan mértékben vegye igénybe, hogy a vízkivétel és a vízutánpótlódás mennyiségi egyensúlya minőségi károsodás nélkül megmaradjon, és teljesüljenek a vizek jó állapotára vonatkozó célkitűzések elérését biztosító követelmények. A vízügyi hatóság e kötelezettség betartását a felszín alatti vizek vagyonkezelőjének bevonásával ellenőrizheti. Ha a mezőgazdasági célú kút üzemeltetőjének vízhasználata veszélyezteti más engedélyezett vízhasználatok biztosítását vagy károsítja a felszín alatti vízkészleteket, a veszélyeztetés, károsítás megszüntetése érdekében a vízügyi hatóság hivatalból, vagy a felszín alatti vizek vagyonkezelőjének kezdeményezésére a mezőgazdasági célú kút üzemeltetőjét megelőző és kárelhárító intézkedésekre kötelezi.”
+### 7. §
