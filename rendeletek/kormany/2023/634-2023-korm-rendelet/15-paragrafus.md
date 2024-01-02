@@ -1,5 +1,3 @@
-15. § A kormányzati képzési és oktatási beszerzésekről szóló 396/2023. (VIII. 24.) Korm. rendelet 21. §-a a következő szöveggel lép hatályba:
+15. §[^18]
 
-„(1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2024. január 1-jén lép hatályba.
-
-(2) A 20. § 2024. július 1-jén lép hatályba.”
+[^18]: A 15. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

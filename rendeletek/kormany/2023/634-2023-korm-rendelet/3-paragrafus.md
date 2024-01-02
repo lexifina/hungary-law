@@ -1,1 +1,3 @@
-3. § Nem lép hatályba a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság szabályozott és központi elektronikus ügyintézési szolgáltatásokkal kapcsolatos feladatainak és tevékenységének az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság részére történő átadásához kapcsolódóan egyes kormányrendeletek módosításáról szóló 530/2023. (XII. 1.) Korm. rendelet 6. § b) pontja.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

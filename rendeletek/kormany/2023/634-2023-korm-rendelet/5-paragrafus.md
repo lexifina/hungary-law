@@ -1,9 +1,3 @@
-5. § (1) Az R. 3. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+5. §[^5]
 
-(A VBÜ)
-
-## „d) megvizsgálja az érintett szervezet nemzetközi együttműködési programhoz való csatlakozási szándékát, valamint megvizsgálja és minősíti az érintett szervezet beszerzési tervét, továbbá beszerzési igényét,”
-
-(2) Az R. 3. § (2) bekezdése a következő g) ponttal egészül ki:
-
-(A VBÜ)
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

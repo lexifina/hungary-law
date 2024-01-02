@@ -1,11 +1,14 @@
 13. § Hatályát veszti az R.
 
-a) 2. § b) pontja,
+a)[^13]
 
-b) 9. §-a,
+b)[^14]
 
-c) 11. § (15) bekezdése,
+c)[^15]
 
-d)[^3]
+d)[^16]
 
-[^3]: A 13. § d) pontja a 16. § (3) bekezdés alapján 2024. április 2-án lép hatályba.
+[^13]: A 13. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13. § d) pontja a 16. § (3) bekezdés alapján 2024. április 2-án lép hatályba.
