@@ -1,3 +1,3 @@
-11. § A megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 8/A. §-a helyébe a következő rendelkezés lép:
+11. §[^7]
 
-„8/A. § A 2023. december 31-ét követő kezdő időponttól megállapított rokkantsági vagy rehabilitációs ellátásra való jogosultság esetén az Mmtv. 9. és 12. §-a szerinti alapösszeg 137 655 forint.”
+[^7]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
