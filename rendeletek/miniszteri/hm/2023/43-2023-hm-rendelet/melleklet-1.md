@@ -14,15 +14,15 @@ A XIII. Honvédelmi Minisztérium fejezet költségvetési kiadási központi ke
 
 | 5. | 393184 |  |  |  | Védelmi ipari társaságok forrásjuttatásai | A Honvédelmi Minisztérium tulajdonosi joggyakorlása alá tartozó védelmi ipari társaságok és védelmi iparhoz közvetlenül kapcsolódó tevékenységet folytató társaságok részére történő tőkeemelés, pótbefizetés és tulajdonosi támogatás finanszírozása. | A Honvédelmi Minisztérium tulajdonosi joggyakorlása alá tartozó védelmi ipari társaságok és védelmi iparhoz közvetlenül kapcsolódó tevékenységet folytató társaságok. | Az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatói okirat vagy támogatási szerződés alapján | nyújtható | Tőkeemelés, pótbefizetés jogcímen tulajdonosi joggyakorlói határozat alapján. Tulajdonosi támogatás esetén egy összegben vagy részletekben, idő- vagy teljesítésarányosan. | Pótbefizetés esetén a szerződés szerint. Tulajdonosi támogatás esetén a támogatói okiratban vagy támogatási szerződésben foglaltaknak megfelelően. | Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 84. § (2) bekezdése szerinti lehetséges biztosítékok. |  |  |  |
 
-| 6.[^1] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6.[^2] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| 7.[^2] |  |  |  |
+| 7.[^3] |  |  |  |
 
-| 8.[^3] |  |  |  |  |
+| 8.[^4] |  |  |  |  |
 
-| 9.[^4] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 9.[^5] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. mellékletben foglalt táblázat 6. sorát a 3. § hatályon kívül helyezte.
-[^2]: Az 1. mellékletben foglalt táblázat 7. sorát a 3. § hatályon kívül helyezte.
-[^3]: Az 1. mellékletben foglalt táblázat 8. sorát a 3. § hatályon kívül helyezte.
-[^4]: Az 1. mellékletben foglalt táblázat 9. sorát a 3. § hatályon kívül helyezte.
+[^2]: Az 1. mellékletben foglalt táblázat 6. sorát a 3. § hatályon kívül helyezte.
+[^3]: Az 1. mellékletben foglalt táblázat 7. sorát a 3. § hatályon kívül helyezte.
+[^4]: Az 1. mellékletben foglalt táblázat 8. sorát a 3. § hatályon kívül helyezte.
+[^5]: Az 1. mellékletben foglalt táblázat 9. sorát a 3. § hatályon kívül helyezte.
