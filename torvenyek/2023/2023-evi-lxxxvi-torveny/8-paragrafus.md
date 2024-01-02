@@ -1,3 +1,1 @@
-8. § A 2018. évi CXXV. törvény 20. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Ha a Kormány eredeti jogalkotói hatáskörben kiadott rendelete alapján a (2) bekezdés szerinti, a miniszter feladatainak ellátását korábban segítő szerv helyett a miniszter feladatainak ellátását másik – a (2) bekezdés szerinti – szerv segíti, a miniszter változatlan feladat- és hatásköre tekintetében – az ellátásához kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a (2) bekezdés szerinti, a miniszter feladatainak ellátását korábban segítő szerv jogutódja a miniszter feladatainak ellátását újonnan segítő (2) bekezdés szerinti szerv.”
+### 8. §
