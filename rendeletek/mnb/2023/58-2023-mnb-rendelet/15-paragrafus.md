@@ -1,3 +1,5 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-15. § Hatályát veszti az 52/2022. (XI. 29.) MNB rendelet.
+15. §[^1]
+
+[^1]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
