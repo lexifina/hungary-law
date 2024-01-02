@@ -1,3 +1,3 @@
-2. § Az R1. 33. § (5) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(5) Az ingatlanon elhelyezett urnát az eltemettető vagy az eltemettető örököse kívánságára – az eltemettetési célú részleges adattartalmú halottvizsgálati bizonyítványhoz való elektronikus hozzáférés hiányában annak hiteles papíralapú másolatával vagy a halotti anyakönyvi kivonattal való igazolás mellett – az ingatlan helye szerinti köztemető tulajdonosa vagy üzemeltetője az irányadó használati időig köteles visszafogadni és elhelyezni, illetve az urna bármely más temetőben elhelyezhető.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

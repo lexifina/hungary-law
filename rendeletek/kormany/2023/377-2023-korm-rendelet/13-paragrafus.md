@@ -1,3 +1,3 @@
-13. § Az R2. 38. §-a a következő (2a) bekezdéssel egészül ki:
+13. §[^14]
 
-„(2a) A holttest 3/A. § (8) bekezdése szerinti, patológiai osztállyal rendelkező fekvőbeteg-gyógyintézetbe történő szállításának költségeit a Nemzeti Egészségbiztosítási Alapkezelő viseli.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

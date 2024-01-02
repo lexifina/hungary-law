@@ -1,3 +1,3 @@
-5. § Az R1. 53/A. § a) pontja helyébe a következő rendelkezés lép:
+5. §[^6]
 
-(A temetkezési szolgáltató az eltemettetésre kötelezett személy megbízása alapján az elhalálozással kapcsolatosan az egészségügyi intézmény, valamint az állami és önkormányzati szervek előtt az eltemettetésre kötelezett személy képviseletében a következő ügyekben járhat el:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

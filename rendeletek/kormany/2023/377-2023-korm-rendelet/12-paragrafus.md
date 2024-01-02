@@ -1,3 +1,3 @@
-12. § Az R2. 36. §-a a következő (2b) bekezdéssel egészül ki:
+12. §[^13]
 
-„(2b) Ha a helyszíni halottvizsgálatot végző mentőtiszt által végzett helyszíni halottvizsgálat alapján valószínűsíthető a természetes halál, és a kezelőorvos a 3/A. § (7) bekezdése szerint azt megerősíti, továbbá eltekint a kórboncolás szükségességétől, a holttest elszállítása az eltemetés vagy – hatósági engedélyezést követően – a hamvasztás helyszínére is történhet.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

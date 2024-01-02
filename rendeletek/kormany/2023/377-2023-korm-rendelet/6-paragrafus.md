@@ -1,7 +1,5 @@
-## „a) elektronikus kapcsolattartás keretében a halottvizsgálati bizonyítvány eltemettetési célú részleges adattartalmú változatához, illetve ennek papíralapú hiteles másolatához való hozzáférés,”
-
 ## 2. A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet módosítása
 
-6. § A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet (a továbbiakban: R2.) 1. §-a a következő 9. és 10. ponttal egészül ki:
+6. §[^7]
 
-(E rendelet alkalmazásában:)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

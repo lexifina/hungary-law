@@ -1,1 +1,3 @@
-19. § Hatályát veszti az R2. 28. § (3), (4) és (6) bekezdése.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
