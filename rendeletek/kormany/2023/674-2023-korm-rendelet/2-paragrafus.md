@@ -1,3 +1,3 @@
-2. § A 253/1997. (XII. 20.) Korm. rendelet 42. § (10) bekezdés b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A kereskedelemről szóló törvény szerinti napi fogyasztási cikket értékesítő, 300 m2-nél nagyobb bruttó alapterületű üzlet esetében:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

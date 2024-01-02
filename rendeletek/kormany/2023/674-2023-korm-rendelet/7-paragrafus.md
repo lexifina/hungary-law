@@ -1,3 +1,3 @@
-7. § Az 5/2015. (I. 29.) Korm. rendelet a következő 8. §-sal egészül ki:
+7. §[^8]
 
-„8. § E rendeletnek a kiterjesztett gyártói felelősségi rendszerrel, valamint a kötelező visszaváltási díjas rendszerrel összefüggő egyes kormányrendeletek módosításáról szóló 674/2023. (XII. 29.) Korm. rendelettel (a továbbiakban: MódR.) megállapított 1. §-át a MódR. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

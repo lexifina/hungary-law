@@ -1,3 +1,3 @@
-19. § A 80/2023. (III. 14.) Korm. rendelet 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(2) A 22. § (1) bekezdése és a 22/A. § (1) bekezdése szerinti esetben az (1) és az (1a) bekezdésben meghatározottak mellett a gyártó nyilvántartást vezet az egyes nyilatkozók felé történő forgalomba hozatalról is a 4. melléklet 1.1.4. pontja szerinti adattartalommal.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-16. § A 80/2023. (III. 14.) Korm. rendelet a következő 20/B. §-sal egészül ki:
+16. §[^17]
 
-„20/B. § A 20/A. §-ban foglaltaktól eltérően, ha a borászati termék üvegcsomagolásának gyártója a visszaváltási díj megállapításának és alkalmazásának, valamint a visszaváltási díjas termék forgalmazásának részletes szabályairól szóló 450/2023. (X. 4.) Korm. rendelet alapján csatlakozási és szolgáltatási díj megfizetésére kötelezett, úgy a díjátalány-fizetési jogosultság kizárólag a csatlakozási és szolgáltatási díjban figyelembe nem vett csomagolásrészek kiterjesztett gyártói felelősségi díjára kiterjedően illeti meg.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

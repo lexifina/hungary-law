@@ -1,3 +1,3 @@
-11. § A 80/2023. (III. 14.) Korm. rendelet 13. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-(A kiterjesztett gyártói felelősségi kötelezettség átvállalása esetén az átvállalási szerződés legalább)
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

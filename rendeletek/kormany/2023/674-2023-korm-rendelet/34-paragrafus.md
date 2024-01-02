@@ -1,1 +1,3 @@
-34. § A 450/2023. (X. 4.) Korm. rendelet 3. melléklete az 5. melléklet szerinti tartalommal lép hatályba.
+34. §[^35]
+
+[^35]: A 34. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-## „b) a körforgásos termék megnevezését, KF kódjának 1–6 karakterét,”
+12. §[^13]
 
-## (tartalmazza.)
-
-12. § A 80/2023. (III. 14.) Korm. rendelet 16. § (3) bekezdés a következő c) ponttal egészül ki:
-
-(A körforgásos termék első belföldi forgalomba hozatalának minősül)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

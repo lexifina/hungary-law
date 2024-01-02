@@ -1,1 +1,3 @@
-37. § Nem lép hatályba a 450/2023. (X. 4.) Korm. rendelet 44. §-a, 4. és 5. melléklete.
+37. §[^38]
+
+[^38]: A 37. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

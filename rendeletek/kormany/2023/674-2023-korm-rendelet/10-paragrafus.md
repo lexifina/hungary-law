@@ -1,5 +1,3 @@
-## „3. reklámhordozó papír: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben meghatározott gazdasági reklámot – ide nem értve kizárólag a gyártó nevének és elérhetőségeinek feltüntetését – tartalmazó, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 203. § 22. pont c) alpontja által meghatározott egyéb nyomtatott anyagok közül a grafikát, rajzot vagy fotót tartalmazó kiadvány, a térkép, a nyomtatott képeslap, a névjegykártya kivételével az üdvözlő- és más hasonló kártya, a nyomtatott naptár, a nyomtatott üzleti reklámanyag, a katalógus, a prospektus, a reklámposzter és hasonlók, a röplap és az egyéb szöveges kiadvány, ideértve azt is, ha más kiadvány mellékletét képezik;”
+10. §[^11]
 
-10. § A 80/2023. (III. 14.) Korm. rendelet 11. §-a a következő (6) bekezdéssel egészül ki:
-
-„(6) A kötelezően visszaváltási díjas termék részét képező záróelem és címke esetén a KF kódot a záróelem és címke anyagára vonatkozó, az 1. melléklet 2.3.1. pontjában foglalt táblázat szerinti anyagáram kód és az 1. melléklet 2.4.1. pontjában foglalt táblázat vagy az 1. melléklet 2.4.2. pontjában foglalt táblázat szerinti, a kötelezően visszaváltási díjas termék palack vagy doboz anyaga szerinti csoportkód figyelembevételével kell meghatározni.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-33. § A 450/2023. (X. 4.) Korm. rendelet a következő 41/A. §-sal egészül ki:
+33. §[^34]
 
-„41/A. § A 41. § (2) bekezdésében foglaltaktól eltérően a Nemzeti Élelmiszerlánc-biztonsági Hivatal által legkésőbb 2023. december 31-ig kiadott forgalomba hozatali azonosítóval rendelkező borászati termék csomagolása, amely kötelezően visszaváltási díjas terméknek minősülne, a forgalomba hozatali azonosító érvényességi ideje alatt az e rendelet hatálybalépése előtt hatályos rendelkezések alapján forgalomba hozható és forgalmazható, ha a borászati terméket 2023. december 31. napjáig közvetlen fogyasztói csomagolással ellátták.”
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
