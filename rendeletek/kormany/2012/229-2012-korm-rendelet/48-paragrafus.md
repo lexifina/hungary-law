@@ -1,3 +1,3 @@
-48. §[^273]
+48. §[^274]
 
-[^273]: A 48. §-t a 403/2023. (VIII. 30.) Korm. rendelet 15. § e) pontja hatályon kívül helyezte.
+[^274]: A 48. §-t a 403/2023. (VIII. 30.) Korm. rendelet 15. § e) pontja hatályon kívül helyezte.
