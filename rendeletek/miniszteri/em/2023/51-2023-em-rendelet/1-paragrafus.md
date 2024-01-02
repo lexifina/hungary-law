@@ -1,5 +1,3 @@
-1. § Hatályát veszti az egyes tevékenységek illékony szerves vegyület kibocsátásának korlátozásáról szóló 26/2014. (III. 25.) VM rendelet
+1. §[^2]
 
-a) 15. §-a,
-
-b) 19. §-a.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
