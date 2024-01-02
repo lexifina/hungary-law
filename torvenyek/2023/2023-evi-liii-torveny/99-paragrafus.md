@@ -1,5 +1,3 @@
 ## 28. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény módosítása
 
-99. § Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 26. §-a helyébe a következő rendelkezés lép:
-
-„26. § A miniszter az ÜHG-egységek állam általi, árverés útján történő értékesítéséből származó – az Európai Unió közös költségvetését az ÜHG-egységek értékesítésére tekintettel megillető saját forrás nagyságát meghaladó részéből – a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (4) bekezdésében és a 10. cikk (3) bekezdésében meghatározott céloknak megfelelő, a célhoz kötött felhasználásra vonatkozóan ott előírt minimális mértéket elérő részének felhasználásáról a Kormány által meghatározott prioritások alapján, az Energia- és klímapolitikai modernizációs rendszer előirányzat keretében, a fejezeti kezelésű előirányzatok felhasználásának szabályairól szóló miniszteri rendelet szerint gondoskodik.”
+### 99. §
