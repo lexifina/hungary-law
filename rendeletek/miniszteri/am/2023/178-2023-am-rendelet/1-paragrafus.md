@@ -1,1 +1,3 @@
-1. § A mezőgazdasági termékek és élelmiszerek ökológiai gazdálkodási követelmények szerinti tanúsításáról, előállításáról, forgalmazásáról, jelöléséről és ellenőrzésének eljárásrendjéről szóló 34/2013. (V. 14.) VM rendelet 17. § (4) bekezdésében az „elektronikus és postai úton tértivevényes szolgáltatással” szövegrész helyébe az „elektronikus úton” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
