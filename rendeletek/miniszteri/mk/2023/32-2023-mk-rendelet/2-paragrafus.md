@@ -1,7 +1,3 @@
-2. § A polgári nemzetbiztonsági szolgálatok rendvédelmi igazgatási alkalmazottaival szemben lefolytatható fegyelmi eljárásáról szóló 1/2023. (I. 17.) MK rendelet
+2. §[^3]
 
-a) 1. § 1. pontjában a „Szolgálat” szövegrész helyébe a „Szakszolgálat” szöveg,
-
-b) 2. §-ában a „felelősségének” szövegrész helyébe a „felelősségének vagy érdemtelenségének” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
