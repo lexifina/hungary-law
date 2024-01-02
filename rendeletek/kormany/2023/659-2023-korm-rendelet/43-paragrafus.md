@@ -1,3 +1,1 @@
-43. §[^44]
-
-[^44]: A 43. § a 63. § (3) bekezdés alapján 2024. január 2-án lép hatályba.
+43. § Hatályát veszti a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény végrehajtásáról szóló 145/1999. (X. 1.) Korm. rendelet, valamint az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 379/2013. (X. 25.) Korm. rendelet.
