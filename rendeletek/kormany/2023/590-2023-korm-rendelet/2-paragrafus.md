@@ -1,13 +1,5 @@
 ## 2. A villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet egyes rendelkezéseinek hatályon kívül helyezése
 
-2. § Hatályát veszti a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet
+2. §[^3]
 
-a) 126/A. §-a,
-
-b) 127/A. §-a,
-
-c) 128/A. §-a,
-
-d) 128/B. §-a,
-
-e) 128/D. §-a.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

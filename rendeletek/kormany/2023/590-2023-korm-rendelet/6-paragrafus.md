@@ -1,3 +1,5 @@
 ## 6. Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet módosítása
 
-6. § Az energiahatékonyságról szóló törvény végrehajtásáról szóló 122/2015. (V. 26.) Korm. rendelet 28/A. §-ában a „fővárosi és megyei kormányhivatalok, valamint járási” szövegrész helyébe a „fővárosi és vármegyei kormányhivatalok, valamint járási” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
