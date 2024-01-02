@@ -1,9 +1,9 @@
 12. § Hatályát veszti az Mvt.
 
-a) 63/D. § (2) bekezdés i) pontjában az „és” szövegrész,
+a)
 
-b) 63/I. §-a,
+b)
 
-c) 79. § (1) bekezdés f) pontja,
+c)
 
 d)
