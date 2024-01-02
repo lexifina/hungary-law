@@ -1,5 +1,3 @@
 ## 24. Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény módosítása
 
-89. § Az oktatási nyilvántartásról szóló 2018. évi LXXXIX. törvény 4. alcíme a következő 7/B. §-sal egészül ki:
-
-„7/B. § Az oktatási nyilvántartás működéséért felelős szerv a Magyar Diáksport Szövetség által, a részére az Nkt. 44/B. § (5) bekezdése alapján átadott, a Nemzeti Egységes Tanulói Fittségi Teszt adatait a tanulók célzott egészségfejlesztése, a fiatalkori egészségügyi állapot és a későbbi betegségek közötti kapcsolatok elemzése, az iskolaorvosi és védőnői szolgáltatások igénybevételének optimalizálása, továbbá a betegségek minél korábban történő felismerésének céljából az Elektronikus Egészségügyi Szolgáltatási Tér működtetője részére – az adatok Nkt. szerinti rendelkezésére állását követő 30 napon belül – TAJ számhoz rendelt módon átadja. Az oktatási nyilvántartás működéséért felelős szerv – kizárólag az adatátadás céljából és idejére – a tanuló mérési azonosítóját és TAJ számát egymásnak megfelelteti, majd az átadását követően az adatokat haladéktalanul törli a nyilvántartásából.”
+### 89. §

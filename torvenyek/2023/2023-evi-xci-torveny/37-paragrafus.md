@@ -1,11 +1,1 @@
-37. § (1) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 27. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az új, még nem támogatott hatástani csoport támogatási kategóriákba történő felvételét az új hatóanyagot tartalmazó gyógyszer forgalomba hozatali engedélyének jogosultja kezdeményezésére, az egészségbiztosítási szerv a hazai, valamint nemzetközi orvos- és gyógyszerészszakmai vélemények ismeretében, az egészségügyért felelős miniszter jóváhagyásával közleményben állapítja meg minden naptári negyedév 1. napjával.”
-
-(2) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 27. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) Ha az egészségbiztosítási szervhez olyan gyógyszer támogatása iránti kérelem érkezik, amelynek kiemelt, illetve emelt indikációhoz kötött támogatásba való befogadásához új betegségcsoport, illetve indikációs terület miniszteri rendeletben történő meghatározása szükséges, az egészségbiztosítási szerv javaslata alapján az egészségügyért felelős miniszter – az államháztartásért felelős miniszterrel egyetértésben – rendeletben állapítja meg az új kiemelt, illetve emelt támogatási csoportba tartozó betegségcsoportokat, indikációs területeket, valamint a támogatással történő felírásra jogosultak körét. Ezen döntés megszületéséig az egészségbiztosítási szerv a gyógyszer támogatásba való befogadásának eljárását az egészségbiztosításért felelős miniszter – az államháztartásért felelős miniszter egyetértésével meghozott – rendeletének hatálybalépéséig, legfeljebb azonban a kérelem beérkezésétől, illetve a hiánypótlás teljesítésétől számított 90 napig felfüggeszti.”
-
-(3) A biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény 27. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) Az (5) bekezdés alkalmazásában új indikáció alatt kizárólag az egészségbiztosításért felelős miniszter rendeletében szereplő indikációs pontban elfogadhatóként rögzített BNO kódtól vagy kódoktól eltérő BNO-kódot kell érteni.”
+### 37. §
