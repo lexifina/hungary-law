@@ -1,3 +1,3 @@
-1. § A növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet [a továbbiakban: 40/2004. (IV. 7.) FVM rendelet] 4. §-át megelőző, „Bejelentés állami elismerés céljából végzett fajtavizsgálatra” alcím címe helyébe a következő alcím cím lép:
+1. §[^2]
 
-„Állami elismerés iránti kérelem”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
