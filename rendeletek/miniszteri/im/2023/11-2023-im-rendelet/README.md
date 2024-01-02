@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-11-20-0
 | 2023-08-20 | 2023-11-20-06.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-08-21 | 2023-11-20-06.4 | 2010. évi CXXX. törvény |
 | 2024-01-01 | 2023-11-20-06.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2023-11-20-06.6 | 2010. évi CXXX. törvény |
