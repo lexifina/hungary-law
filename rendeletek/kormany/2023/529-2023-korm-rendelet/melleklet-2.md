@@ -1,7 +1,3 @@
-## „1. melléklet a 388/2017. (XII. 13.) Korm. rendelethez
+2. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^16]
 
-## 3X09373.pdf
-
-## ”
-
-2. melléklet az 529/2023. (XII. 1.) Korm. rendelethez
+[^16]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
