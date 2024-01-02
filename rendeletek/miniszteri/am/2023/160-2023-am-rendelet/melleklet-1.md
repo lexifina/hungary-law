@@ -1,7 +1,3 @@
-1. melléklet a 160/2023. (XII. 27.) AM rendelethez
+1. melléklet a 160/2023. (XII. 27.) AM rendelethez[^4]
 
-A 79/2004. (V. 4.) FVM rendelet 3. számú melléklet I. pontja a következő 1.4. alponttal egészül ki:
-
-(A kérelem tartalmazza:)
-
-„1.4. védett természeti terület vagy erdőterület esetében a környezetvédelmi engedély számát.”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
