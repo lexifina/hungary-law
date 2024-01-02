@@ -1,3 +1,3 @@
-5. § A távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet a következő 10/A. §-sal egészül ki:
+5. §[^6]
 
-„10/A. § A távhőszolgáltatásról szóló 2005. évi XVIII. törvény végrehajtásáról szóló 157/2005. (VIII. 15.) Korm. rendelet és a távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet módosításáról szóló 678/2023. (XII. 29.) Korm. rendelettel megállapított 2. § (7) bekezdés hatálybalépését megelőzően felszerelt, távolról nem leolvasható fogyasztásmérőt és hiteles hőmennyiségmérőt legkésőbb 2027. január 1-ig távolról leolvashatóvá kell tenni, vagy távolról leolvasható készülékekre kell cserélni.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

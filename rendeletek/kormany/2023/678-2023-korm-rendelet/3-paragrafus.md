@@ -1,3 +1,3 @@
-3. § A távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet 5. §-a a következő e) ponttal egészül ki:
+3. §[^4]
 
-(A távhűtési szolgáltatónak)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

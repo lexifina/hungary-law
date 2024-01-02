@@ -1,7 +1,3 @@
-7. § A távhűtési szolgáltatásról szóló 201/2016. (VII. 21.) Korm. rendelet:
+7. §[^8]
 
-a) 2. § (2) bekezdésében a „mennyiségmérőt” szövegrész helyébe a „hőmennyiségmérőt” szöveg,
-
-b) 4. § (2) bekezdésében a „mennyiségmérő” szövegrész helyébe a „hőmennyiségmérő” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
