@@ -1,1 +1,3 @@
-2. § A 4/2011. (I. 28.) Korm. rendelet 106. § (1) bekezdésében a „vagy tevékenységének segítésére kijelölt minisztérium, az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt” szövegrész helyébe a „minisztérium, az európai uniós források felhasználásáért felelős miniszter által vezetett” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

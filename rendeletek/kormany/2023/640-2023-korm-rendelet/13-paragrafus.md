@@ -1,1 +1,3 @@
-13. § A 256/2021. (V. 18.) Korm. rendelet 36. § (1) bekezdés a) pontjában a „tevékenységének segítésére kijelölt” szövegrész helyébe az „által vezetett” szöveg lép.
+13. §[^14]
+
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

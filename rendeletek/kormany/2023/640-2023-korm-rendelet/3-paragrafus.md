@@ -1,7 +1,3 @@
-3. § Hatályát veszti a 4/2011. (I. 28.) Korm. rendelet
+3. §[^4]
 
-a) 2. § (3) bekezdésében a „vagy tevékenységének segítésére kijelölt” szövegrész,
-
-b) 5/A. § (2) bekezdésében a „vagy tevékenységének segítésére kijelölt” szövegrész,
-
-c) 14. § (7) bekezdésében a „vagy tevékenységének segítésére kijelölt” szövegrész.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
