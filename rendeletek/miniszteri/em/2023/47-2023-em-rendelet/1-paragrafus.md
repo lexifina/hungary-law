@@ -1,1 +1,3 @@
-1. § Hatályát veszti a zajkibocsátási határértékek megállapításának, valamint a zaj- és rezgéskibocsátás ellenőrzésének módjáról szóló 93/2007. (XII. 18.) KvVM rendelet 7. §-a.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
