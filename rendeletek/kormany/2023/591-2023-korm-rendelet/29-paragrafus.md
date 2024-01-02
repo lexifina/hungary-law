@@ -1,1 +1,3 @@
-29. § Hatályát veszti az R4. 8. § (1) bekezdés d) pontja.
+29. §[^29]
+
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

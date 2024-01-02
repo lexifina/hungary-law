@@ -1,9 +1,5 @@
 ## 9. Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet módosítása
 
-10. § Az országos nukleárisbaleset-elhárítási rendszerről szóló 167/2010. (V. 11.) Korm. rendelet
+10. §[^10]
 
-a) 8. § (2) bekezdés g) pontjában az „az Országos Meteorológiai Szolgálat” szövegrész helyébe az „a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság” szöveg,
-
-b) 1. melléklet 2.7. pontjában az „az Országos Meteorológiai Szolgálat” szövegrész helyébe az „a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság” szöveg
-
-lép.
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
