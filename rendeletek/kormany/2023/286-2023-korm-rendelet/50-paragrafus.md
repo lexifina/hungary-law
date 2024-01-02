@@ -1,5 +1,5 @@
 ## 14. A halottvizsgálatról és a halottakkal kapcsolatos eljárásról szóló 351/2013. (X. 4.) Korm. rendelet módosítása
 
-50. §[^54]
+50. §[^51]
 
-[^54]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^51]: Az 50. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
