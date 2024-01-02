@@ -1,1 +1,3 @@
-10. § A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 18. § (1) bekezdés i) pontjában, 18/A. § (1) bekezdés e) pontjában, 29. § (4) bekezdés e) pontjában, 30. § (3) bekezdés e) pontjában és az 57. § (2) bekezdésében a „területfejlesztés stratégiai tervezéséért” szövegrész helyébe a „területfejlesztésért” szöveg lép.
+10. §[^8]
+
+[^8]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

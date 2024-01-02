@@ -1,1 +1,3 @@
-4. § Az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 1. § (1) bekezdésében a „források felhasználásáért” szövegrész helyébe az „ügyek koordinációjáért” szöveg lép.
+4. §[^2]
+
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

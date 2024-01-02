@@ -1,1 +1,3 @@
-44. § A 2021–2027 programozási időszakban az európai területi együttműködési célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok végrehajtásáról szóló 512/2022. (XII. 13.) Korm. rendelet 2. § (1) bekezdés 24a. pontjában, 45. § (4) bekezdésében, 1. mellékletében foglalt táblázat B:2, B:6, B:7, C:6, C:7, D:6, D:7, E:6, F:6, F:7 mezőjében a „területfejlesztés stratégiai tervezéséért” szövegrész helyébe a „területfejlesztésért” szöveg lép.
+44. §[^42]
+
+[^42]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

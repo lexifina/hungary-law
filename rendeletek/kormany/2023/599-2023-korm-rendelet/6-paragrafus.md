@@ -1,1 +1,3 @@
-6. § A kormányzati stratégiai irányításról szóló 38/2012. (III. 12.) Korm. rendelet 10. §-ának nyitó szövegrészében, 22. § (1) és (2) bekezdésében, 31. § e) pontjában a „közigazgatási minőségpolitikáért és személyzetpolitikáért” szövegrész helyébe a „kormányzati stratégiák kidolgozásának támogatásáért” szöveg lép.
+6. §[^4]
+
+[^4]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-15. § A Start Garancia Pénzügyi Szolgáltató Zrt. kezességvállalásaihoz kapcsolódó állami viszontgarancia részletszabályairól szóló 505/2021. (VIII. 19.) Korm. rendelet 4. § (1) bekezdésében a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg lép.
+15. §[^13]
+
+[^13]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

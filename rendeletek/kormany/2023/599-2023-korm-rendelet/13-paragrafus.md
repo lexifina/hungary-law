@@ -1,1 +1,3 @@
-13. § A Magyar Közigazgatási Ösztöndíjról szóló 52/2019. (III. 14.) Korm. rendelet 2. § (1) bekezdésében a „közigazgatási minőségpolitikáért és személyzetpolitikáért” szövegrész helyébe a „kormányzati stratégiák kidolgozásának támogatásáért” szöveg lép.
+13. §[^11]
+
+[^11]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

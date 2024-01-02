@@ -1,3 +1,3 @@
-31. § A 182/2022. (V. 24.) Korm. rendelet 147. §-a helyébe a következő rendelkezés lép:
+31. §[^29]
 
-„147. § A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében meghatározza, hogy melyik harmadik ország állampolgára foglalkoztatható Magyarországon foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.”
+[^29]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

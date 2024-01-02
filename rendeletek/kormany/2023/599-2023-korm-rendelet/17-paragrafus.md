@@ -1,3 +1,3 @@
-17. § A 182/2022. (V. 24.) Korm. rendelet 12. §-a a következő g) és h) ponttal egészül ki:
+17. §[^15]
 
-(A miniszter a kormányzati kommunikáció megvalósítása tekintetében)
+[^15]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-43. § A kormányzati igazgatási szervek, valamint meghatározott gazdasági társaságok egyes szerződéseinek miniszteri jóváhagyásáról szóló 330/2022. (IX. 5.) Korm. rendelet
+43. §[^41]
 
-a) 1. § (1) és (3) bekezdésében a „közigazgatás-fejlesztésért” szövegrész helyébe a „kormányzati stratégiák kidolgozásának támogatásáért” szöveg,
-
-b) 1. § (2) bekezdésében a „közigazgatás-fejlesztésért” szövegrészek helyébe a „kormányzati stratégiák kidolgozásának támogatásáért” szöveg
-
-lép.
+[^41]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

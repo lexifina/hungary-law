@@ -1,1 +1,3 @@
-11. § A 2014–2020 programozási időszakban az európai területi együttműködés célkitűzés keretében megvalósuló transznacionális és interregionális együttműködési programok végrehajtásáról szóló 396/2015. (XII. 12.) Korm. rendelet 1/A. § 22. pontjában, 1. mellékletben foglalt táblázat B:2, B:6, B:7, B:9, C:6, C:7, C:9, D:6, D:7, D:9, E:6, E:9, F:6, F:7, F:9 mezőjében a „területfejlesztés stratégiai tervezéséért” szövegrész helyébe „területfejlesztésért” szöveg lép.
+11. §[^9]
+
+[^9]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

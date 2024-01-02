@@ -1,1 +1,3 @@
-7. § Hatályát veszti a címzetes főjegyzői cím adományozásának, a címre való jogosultság megszűnésének, a cím visszavonásának eljárási szabályairól, valamint a címadományozási juttatás kifizetésére vonatkozó szabályokról szóló 143/2012. (VII. 3.) Korm. rendelet 1–4. §-a.
+7. §[^5]
+
+[^5]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

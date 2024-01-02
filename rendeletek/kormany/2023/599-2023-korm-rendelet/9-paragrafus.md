@@ -1,1 +1,3 @@
-9. § A Felsőbbfokú Tanulmányok Intézete létrehozásáról szóló 311/2015. (X. 28.) Korm. rendelet 1. §-ában a „kormányzati társadalmi kapcsolatok összehangolásáért” szövegrész helyébe a „területfejlesztésért” szöveg lép.
+9. §[^7]
+
+[^7]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-8. § A Nemzeti Kiberbiztonsági Koordinációs Tanács, valamint a Kiberbiztonsági Fórum és a kiberbiztonsági ágazati munkacsoportok létrehozásával, működtetésével kapcsolatos szabályokról, feladat- és hatáskörükről szóló 484/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdés k) pontjában a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg lép.
+8. §[^6]
+
+[^6]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

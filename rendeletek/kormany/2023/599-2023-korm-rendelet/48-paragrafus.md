@@ -1,1 +1,3 @@
-48. § A Közös Agrárpolitika pénzügyi alapjaiból és a nemzeti költségvetésből biztosított agrártámogatások pénzügyi, számviteli, lebonyolítási rendjéről szóló 481/2023. (X. 31.) Korm. rendelet 2. § (2) bekezdés d) pontjában a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg lép.
+48. §[^46]
+
+[^46]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

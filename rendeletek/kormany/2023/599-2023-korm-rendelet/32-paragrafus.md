@@ -1,3 +1,3 @@
-32. § A 182/2022. (V. 24.) Korm. rendelet 152. §-a a következő (3) bekezdéssel egészül ki:
+32. §[^30]
 
-„(3) A miniszter az államháztartásért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – költségvetési vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.”
+[^30]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

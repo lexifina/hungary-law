@@ -1,3 +1,3 @@
-20. § A 182/2022. (V. 24.) Korm. rendelet 55. § (2) bekezdés e) pontja helyébe a következő rendelkezés lép:
+20. §[^18]
 
-(A miniszter az agrárpolitikáért való felelőssége keretében)
+[^18]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

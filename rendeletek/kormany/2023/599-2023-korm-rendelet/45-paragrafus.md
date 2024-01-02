@@ -1,1 +1,3 @@
-45. § A Beruházásfejlesztési Magántőkealap alapkezelési feladatainak ellátásáról szóló 564/2022. (XII. 23.) Korm. rendelet 1. és 2. §-ában a „gazdaságfejlesztési” szövegrész helyébe a „nemzetgazdasági” szöveg lép.
+45. §[^43]
+
+[^43]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

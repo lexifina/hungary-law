@@ -1,3 +1,3 @@
-29. § A 182/2022. (V. 24.) Korm. rendelet 139. § 7. pontja helyébe a következő rendelkezés lép:
+29. §[^27]
 
-[A külgazdasági és külügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^27]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

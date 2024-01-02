@@ -1,3 +1,3 @@
-22. § A 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdése helyébe a következő rendelkezés lép:
+22. §[^20]
 
-„(1) A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+[^20]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

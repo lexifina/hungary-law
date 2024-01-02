@@ -1,3 +1,3 @@
-27. § A 182/2022. (V. 24.) Korm. rendelet 115. § k) pontja helyébe a következő rendelkezés lép:
+27. §[^25]
 
-(A miniszter a védelmi fejlesztésekért való felelőssége keretében)
+[^25]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

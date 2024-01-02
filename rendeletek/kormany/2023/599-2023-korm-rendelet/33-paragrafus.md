@@ -1,3 +1,3 @@
-33. § A 182/2022. (V. 24.) Korm. rendelet 178. §-a helyébe a következő rendelkezés lép:
+33. §[^31]
 
-„178. § A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+[^31]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
