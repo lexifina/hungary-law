@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-339-20-
 | 2023-09-01 | 2022-339-20-22.3 | 617/2022. (XII. 29.) Korm. rendelet |
 | 2023-09-02 | 2022-339-20-22.4 | 2010. évi CXXX. törvény |
 | 2024-01-01 | 2022-339-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-01-02 | 2022-339-20-22.10 | 2010. évi CXXX. törvény |
