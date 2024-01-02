@@ -1,3 +1,3 @@
-2. § A gépjármű-szavatossági károk 1971. január 1. előtti rendszere alapján fizetett baleseti kártérítési járadékokról szóló 12/1998. (III. 27.) PM rendelet 3/A. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„3/A. § Az 1. §-ban meghatározott keresetpótló baleseti kártérítési járadékok, valamint a költségpótló baleseti kártérítési járadékok 2024. január 1-jétől kezdődő jogosultsági időszakokra esedékes összegei – a 2023. december hónapra esedékes járadékösszeghez képest – 6,0 százalékkal emelkednek.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
