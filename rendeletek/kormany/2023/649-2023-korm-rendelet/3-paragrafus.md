@@ -1,3 +1,3 @@
-3. § Az R1. 12. § (3) bekezdés a) pontja a következő szöveggel lép hatályba:
+3. §[^4]
 
-[A 6. § (1) bekezdés b) pontja szerinti célokra igényelhető családi otthonteremtési kedvezmény legmagasabb összege]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

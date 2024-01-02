@@ -1,3 +1,3 @@
-9. § Az R1. 36. §-a a következő (5) bekezdéssel kiegészülve lép hatályba:
+9. §[^10]
 
-„(5) Nem minősül az (1) bekezdés c) pontjában foglalt, a lakáshasználat átengedésére vonatkozó tilalom megsértésének az, ha a 16. § h) pontja szerinti esetben a lakás használatát ingyenesen az egyik támogatott személy közeli hozzátartozója részére engedik át.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

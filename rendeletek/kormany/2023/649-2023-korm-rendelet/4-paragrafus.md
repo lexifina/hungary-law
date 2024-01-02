@@ -1,5 +1,3 @@
-## „a) egy gyermek esetén 600 000 Ft,”
+4. §[^5]
 
-4. § Az R1. 15. § (1) bekezdés c) pontja a következő szöveggel lép hatályba:
-
-(A családi otthonteremtési kedvezmény igénybevételének feltétele, hogy)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

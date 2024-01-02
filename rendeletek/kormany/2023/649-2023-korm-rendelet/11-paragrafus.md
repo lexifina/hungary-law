@@ -1,3 +1,3 @@
-11. § Az R1. 43. § (13) bekezdése a következő d) ponttal kiegészülve lép hatályba:
+11. §[^12]
 
-[A (11) bekezdés szerinti esetben a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének – a kisajátítás esete kivételével – feltétele, hogy]
+[^12]: A 11. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-10. § Az R1. 39. §-a a következő (3a) bekezdéssel kiegészülve lép hatályba:
+10. §[^11]
 
-„(3a) Az (1)–(3) bekezdéstől eltérően, amennyiben a fiatal házaspár az igénybe vett megelőlegezett családi otthonteremtési kedvezmény összegét a gyermekvállalási határidő lejártát megelőzően önként visszafizeti, a visszafizetendő összeget növelni kell a támogatás folyósításának napjától a visszafizetés napjáig számított Ptk. szerinti kamat 3 százalékponttal megemelt mértékének megfelelő kamattal.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

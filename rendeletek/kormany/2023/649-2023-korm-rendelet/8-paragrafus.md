@@ -1,3 +1,3 @@
-8. § Az R1. 31. § (1) bekezdése a következő szöveggel lép hatályba:
+8. §[^9]
 
-„(1) A hitelintézetnek a családi otthonteremtési kedvezmény igénybevételéhez a költségek igazolásaként bemutatott, papíralapon kibocsátott eredeti számla, valamint az elektronikusan kiállított és a hitelintézet részére elektronikusan benyújtott számla esetén a támogatott személy nyilatkozik arról, hogy azt melyik ingatlan vonatkozásában nyújtotta be az e rendelet szerinti lakáscél megvalósítása tekintetében, továbbá a 24. § (7) bekezdésében foglaltakra tekintettel nyilatkozik arról, hogy e számlát fel kívánja-e használni más hitelintézetnél is. Az elektronikusan kiállított, a támogatott személy részére elektronikusan megküldött és általa a hitelintézetnek elektronikusan benyújtott számlákat elektronikusan kell tárolni. A papíralapon kibocsátott számlát a hitelintézet a támogatott személynek visszaadja.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
