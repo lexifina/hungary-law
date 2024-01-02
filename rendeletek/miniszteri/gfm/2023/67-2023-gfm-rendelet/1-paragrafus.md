@@ -1,1 +1,3 @@
-1. § Az egyéni védőeszközök megfelelőségét értékelő szervezetek kijelölési eljárásért fizetendő igazgatási szolgáltatási díj mértékéről és a díj megfizetésére vonatkozó szabályokról szóló 4/2018. (II. 28.) NGM rendelet 1. § (3) bekezdésében az „10032000-01460658-00000000 számú” szövegrész helyébe az „Előirányzat felhasználási keretszámla elnevezésű 10032000-00005503-06010011 számú” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
