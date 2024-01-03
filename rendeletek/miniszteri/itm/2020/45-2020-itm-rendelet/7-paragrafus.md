@@ -1,5 +1,3 @@
-## 6. § A közlekedésért felelős miniszter folyamatosan ellenőrzi az úthasználati díjak beszedésének rendszerét annak átlátható és megkülönböztetésmentes működésének biztosítása érdekében.
-
 ## 3. A jogosultság gyakorlásának feltételei
 
 7. § (1) Az úthasználati jogosultságot a NÚSZ Zrt. központi rendszere elektronikusan rögzíti. Az úthasználati jogosultság akkor gyakorolható, ha a vásárló az úthasználati díj megfizetését követően az ellenőrző szelvény eladói példányát aláírta, és kézhez kapta az ellenőrző szelvény vásárlói példányát, a jogosultság elektronikus értékesítési csatornán történő megváltása esetén a nyugtázó értesítést megkapta. Az aláírás vagy az elektronikus értékesítési csatornák esetében a vásárlást nyugtázó értesítés igazolja, hogy a NÚSZ Zrt. központi rendszerében rögzített adatok a valóságnak és a vásárló akaratának megfelelőek.
@@ -8,6 +6,6 @@
 
 (3) Az elektronikus értékesítési csatornán történő vásárlást nyugtázó értesítés nem tartalmazza az értékesítés időpontjára és az értékesítő személyére vonatkozó adatokat.
 
-(4)[^3] A NÚSZ Zrt. a jogosultság érvényességének feltételeire vonatkozóan a vásárlóval az (1) bekezdésben foglaltaktól eltérő egyedi megállapodást köthet a jogosultság érvényességi idejének kezdetét megelőzően.
+(4)[^9] A NÚSZ Zrt. a jogosultság érvényességének feltételeire vonatkozóan a vásárlóval az (1) bekezdésben foglaltaktól eltérő egyedi megállapodást köthet a jogosultság érvényességi idejének kezdetét megelőzően.
 
-[^3]: A 7. § (4) bekezdése a 19/2022. (IX. 19.) TIM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^9]: A 7. § (4) bekezdése a 19/2022. (IX. 19.) TIM rendelet 3. § (1) bekezdésével megállapított szöveg.
