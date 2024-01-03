@@ -1,6 +1,6 @@
 ## 4. A Hálózati Üzletszabályzat közzététele és módosítása
 
-4. § (1) A Hálózati Üzletszabályzat tervezetének nyilvánosságra hozataláról a kapacitás-elosztó szervezet a kapacitásigénylőket elektronikus úton, haladéktalanul tájékoztatja. A kapacitásigénylők és a potenciális kapacitásigénylők a tervezet nyilvánosságra hozatalát követő 10 napon belül tehetik meg észrevételeiket. A kapacitás-elosztó szervezet az észrevételeket a Hálózati Üzletszabályzat véglegesítése során lehetőség szerint figyelembe veszi.
+4. § (1)[^11] A Hálózati Üzletszabályzat tervezetének nyilvánosságra hozataláról a kapacitás-elosztó szervezet a kapacitásigénylőket elektronikus úton, haladéktalanul tájékoztatja. A kapacitásigénylők és a potenciális kapacitásigénylők a tervezet nyilvánosságra hozatalát követő 10 napon belül tehetik meg észrevételeiket. A kapacitás-elosztó szervezet az észrevételeket a Hálózati Üzletszabályzat véglegesítése során figyelembe veszi.
 
 (2) A kapacitás-elosztó szervezet az adott menetrendi évre vonatkozó Hálózati Üzletszabályzatot az éves menetvonal-igények benyújtási határidejének lejárta előtt legalább négy hónappal a Vtv. 67/O. § (1) bekezdésében foglalt nyelveken közzéteszi.
 
@@ -11,3 +11,5 @@
 (5) Amennyiben a vasúti pályahálózat nyílt hozzáférésű minősítése megszűnik, a Hálózati Üzletszabályzatot hatályon kívül kell helyezni. A vasúti pályahálózat működtetésére vonatkozó bejelentés felfüggesztésének ideje alatt a Hálózati Üzletszabályzat rendelkezései nem alkalmazhatóak. A vasúti pályahálózat működtetésére vonatkozó bejelentés tudomásul vételének visszavonása esetén a Hálózati Üzletszabályzat hatályát veszti.
 
 (6) Ha több vasúti pályahálózat kapacitását ugyanazon kapacitás-elosztó szervezet osztja el, az e vasúti pályahálózatokra vonatkozó Hálózati Üzletszabályzatokat az érintett pályahálózat-működtetők egyetértése esetén a kapacitás-elosztó szervezet egyesíti.
+
+[^11]: A 4. § (1) bekezdése a 42/2023. (XII. 29.) ÉKM rendelet 2. § b) pontja szerint módosított szöveg.

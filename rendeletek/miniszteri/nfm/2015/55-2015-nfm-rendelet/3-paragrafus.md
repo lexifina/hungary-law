@@ -26,13 +26,13 @@ ba) a vasúti pályahálózat igénybevételére vonatkozó jogosultság feltét
 
 bb) a hálózat-hozzáférési szerződés általános szerződési feltételeit,
 
-bc) a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződést,
+bc)[^9] a vasúti pályahálózat-kapacitás foglalására vonatkozó keretszerződés mintáját,
 
 bd) a keretmegállapodás megkötésének szabályait és annak mintáját,
 
 be) a rendkívüli küldemények és a veszélyes áruk továbbítására vonatkozó szabályokat,
 
-bf) a pályahálózat-működtető vasúti pályahálózat igénybevételéhez kapcsolódó szakmai utasításainak felsorolását, elektronikus úton történő elérhetőségük helyét, valamint a közzétételükre és hatálybalépésükre vonatkozó szabályokat,
+bf)[^10] a pályahálózat-működtető vasúti pályahálózat igénybevételéhez kapcsolódó szakmai utasításainak felsorolását, elektronikus úton történő elérhetőségük helyét,
 
 bg) a vasúti járművekre és a személyzetre vonatkozó követelményeket,
 
@@ -119,3 +119,6 @@ g) teljesítményösztönző rendszer szabályait.
 (2) A kapacitás-elosztó szervezet az egyes vasúti pályaszakaszokra készült kapacitásbővítési tervek felsorolását – hozzáférhetőségük megjelölésével – a Hálózati Üzletszabályzat mellékleteként teszi közzé.
 
 (3) A pályahálózat-működtetők annak érdekében, hogy a jövőbeni bevételeiket és a vasúti pályahasználattal összefüggő terveiket biztosítani tudják, a kapacitásigénylők számára a Hálózati Üzletszabályzatban rögzítetten olyan követelményeket határozhatnak meg, amelyek minden piaci szereplő számára átláthatóak és megkülönböztetéstől mentesek. A pályahálózat-működtetők által meghatározott követelmények kizárólag a kapacitásigénylők vasúti pályahálózat-kapacitás igénybevételével összefüggő tevékenységével arányos pénzügyi garancia nyújtására vonatkozhatnak.
+
+[^9]: A 3. § (1) bekezdés b) pont bc) alpontja a 42/2023. (XII. 29.) ÉKM rendelet 1. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés b) pont bf) alpontja a 42/2023. (XII. 29.) ÉKM rendelet 2. § a) pontja szerint módosított szöveg.

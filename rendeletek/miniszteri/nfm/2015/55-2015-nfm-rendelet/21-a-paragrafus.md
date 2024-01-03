@@ -1,4 +1,4 @@
-21/A. §[^25] (1) A pályahálózat-működtető az éves üzemi menetrend tervezése során köteles az igénylőkkel egyeztetést tartani a tervezett jelentős vágányzárakról. Az egyeztetés eredményét és a tervezett jelentős vágányzár helyét és idejét a pályahálózat-működtető honlapján legalább huszonnégy hónappal az üzemi menetrend hatálybalépését megelőzően köteles közzétenni, és legalább tizenkét hónappal az üzemi menetrend hatálybalépését megelőzően frissíteni.
+21/A. §[^29] (1) A pályahálózat-működtető az éves üzemi menetrend tervezése során köteles az igénylőkkel egyeztetést tartani a tervezett jelentős vágányzárakról. Az egyeztetés eredményét és a tervezett jelentős vágányzár helyét és idejét a pályahálózat-működtető honlapján legalább huszonnégy hónappal az üzemi menetrend hatálybalépését megelőzően köteles közzétenni, és legalább tizenkét hónappal az üzemi menetrend hatálybalépését megelőzően frissíteni.
 
 (2) A több pályahálózat-működtető által üzemeltetett pályahálózatot érintő tervezett jelentős vágányzár esetén az érintett pályahálózat-működtetők kötelesek egyeztetni az érintett igénylőkkel és kiszolgálólétesítmény-üzemeltetőkkel legalább huszonnégy hónappal a vágányzárral érintett üzemi menetrend hatálybalépését megelőzően. Az egyeztetés eredményét jegyzőkönyvben rögzítik, amely a vágányzári technológia és a kapacitás-elosztás alapját képezi. Az egyeztetéstől csak abban az esetben lehet eltekinteni, ha az érintett pályahálózat-működtetők, igénylők és kiszolgálólétesítmény-üzemeltetők az egyeztetés elmaradásában előzetesen írásban megállapodtak. Ha az (1) bekezdés szerinti vágányzári információk közzétételének és frissítésének időpontja között a (3) bekezdés szerint egyeztetésre kerül sor, a pályahálózat-működtetőknek az egyeztetés lezárulása után és az (1) bekezdés szerinti vágányzári információk frissítése előtt ismételten egyeztetniük kell az igénylőkkel és az érintett kiszolgálólétesítmények üzemeltetőivel. Az egyeztetés eredményét jegyzőkönyvben rögzítik, amely a vágányzári technológia és a kapacitás-elosztás alapját képezi.
 
@@ -40,4 +40,4 @@ b) a vágányzár által érintett vonalszakaszt, valamint
 
 c) a kerülő útirányként szóba jöhető vasútvonalak kapacitását.
 
-[^25]: A 21/A. §-t a 13/2019. (V. 31.) ITM rendelet 4. §-a iktatta be.
+[^29]: A 21/A. §-t a 13/2019. (V. 31.) ITM rendelet 4. §-a iktatta be.

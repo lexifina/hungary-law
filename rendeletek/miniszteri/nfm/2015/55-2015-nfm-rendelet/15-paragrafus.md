@@ -2,7 +2,7 @@
 
 15. § (1) Ha az ütköző igények előnyben részesítési sorrendje a 18. § (3) bekezdés alapján nem állapítható meg, a kapacitás-elosztó szervezet az összehangolási eljárást írásban vagy elektronikus úton kezdeményezi – valamennyi érintett igénylő és a vasúti igazgatási szerv egyidejű értesítése mellett – a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközéséről szerzett tudomást követő két munkanapon belül.
 
-(2)[^21] Az összehangolási eljárásról szóló értesítésben a kapacitás-elosztó szervezet megjelöli
+(2)[^25] Az összehangolási eljárásról szóló értesítésben a kapacitás-elosztó szervezet megjelöli
 
 a) a vasúti pályahálózat-kapacitás iránt bejelentett igények ütközésével érintett – igényelt, valamint előzetesen kiosztott – kapacitást,
 
@@ -12,7 +12,7 @@ c) a kiosztás során alkalmazott kritériumokra vonatkozó részletes informác
 
 d) az összehangolási eljárás helyét, idejét, valamint az összehangolási eljáráson való részvétel elmulasztásának következményeit.
 
-(2a)[^22] A (2) bekezdés szerinti információkat a kérelmező kilétének felfedése nélkül kell megadni, kivéve, ha az érintett kérelmező hozzájárult a (2) bekezdés szerinti információk kiadásához.
+(2a)[^26] A (2) bekezdés szerinti információkat a kérelmező kilétének felfedése nélkül kell megadni, kivéve, ha az érintett kérelmező hozzájárult a (2) bekezdés szerinti információk kiadásához.
 
 (3) Az összehangolási eljárást a kapacitás-elosztó szervezet vezeti le. Az eljárásról jegyzőkönyvet kell felvenni, amelyet valamennyi, az összehangolási eljáráson részt vevő félnek alá kell írnia.
 
@@ -50,5 +50,5 @@ e) a korábban benyújtott igényeknek
 
 biztosít elsőbbséget.
 
-[^21]: A 15. § (2) bekezdése a 3/2023. (II. 23.) ÉKM rendelet 3. §-ával megállapított szöveg.
-[^22]: A 15. § (2a) bekezdését a 3/2023. (II. 23.) ÉKM rendelet 3. §-a iktatta be.
+[^25]: A 15. § (2) bekezdése a 3/2023. (II. 23.) ÉKM rendelet 3. §-ával megállapított szöveg.
+[^26]: A 15. § (2a) bekezdését a 3/2023. (II. 23.) ÉKM rendelet 3. §-a iktatta be.
