@@ -1,5 +1,3 @@
-## 5. §[^25]
-
 ## Működési engedélyhez nem kötött vasúti tevékenység és a pályahálózat-működtetés bejelentése[^26]
 
 ## 5/A. §[^27] E rendelet alkalmazásában bejelentéshez kötött vasúti tevékenységnek minősül:
@@ -46,6 +44,5 @@
 
 21. függővasút pályahálózat-működtetés.
 
-[^25]: Az 5. §-t az 59/2015. (IX. 30.) NFM rendelet 13. § a) pontja hatályon kívül helyezte.
 [^26]: Az 5/A. §-t megelőző alcímet az 5/2012. (II. 15.) NFM rendelet 1. §-a iktatta be, szövege az 59/2015. (IX. 30.) NFM rendelet 5. §-ával megállapított szöveg.
 [^27]: Az 5/A. §-t az 5/2012. (II. 15.) NFM rendelet 1. §-a iktatta be, szövege a 10/2019. (V. 29.) ITM rendelet 3. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-## 18. §[^83] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 18. §[^86] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-[^83]: A 18. § a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.
+[^86]: A 18. § a 8/2008. (VI. 30.) KHEM rendelet 6. § (2) bekezdésének a) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 14. §[^67] A vasúti igazgatási szerv a működési engedélyt hivatalból módosítja jogszabályváltozás esetén, a jogszabályban megjelölt átmeneti határidővel.
+## 14. §[^68] A vasúti igazgatási szerv a működési engedélyt hivatalból módosítja jogszabályváltozás esetén, a jogszabályban megjelölt átmeneti határidővel.
 
-[^67]: A 14. § a 23/2013. (V. 22.) NFM rendelet 6. §-ával megállapított szöveg.
+[^68]: A 14. § a 23/2013. (V. 22.) NFM rendelet 6. §-ával megállapított szöveg.

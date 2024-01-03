@@ -30,7 +30,7 @@ e) ha a bejelentő az általa fenntartott vasúti pályahálózathoz nem kíván
 
 (4) A bejelentéshez mellékelni kell a vasúti társaság felelősségi körébe tartozó baleseti károk megtérítésére való alkalmasságával kapcsolatos, a vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló jogszabályban meghatározott követelményeknek való megfelelésről szóló igazolást.
 
-(5)[^30] A bejelentő a bejelentésért külön jogszabályban előírt igazgatási-szolgáltatási díjat köteles fizetni.
+(5)[^30]
 
 (6)[^31]
 
@@ -38,6 +38,6 @@ e) ha a bejelentő az általa fenntartott vasúti pályahálózathoz nem kíván
 
 [^28]: Az 5/B. §-t az 59/2015. (IX. 30.) NFM rendelet 5. §-a iktatta be.
 [^29]: Az 5/B. § (3) bekezdés c) pont cc) alpontja a 10/2019. (V. 29.) ITM rendelet 7. § c) pontja szerint módosított szöveg.
-[^30]: Az 5/B. § (5) bekezdése a 15/2021. (IV. 9.) ITM rendelet 29. § a) pontja szerint módosított szöveg.
+[^30]: Az 5/B. § (5) bekezdését a 38/2023. (XII. 29.) ÉKM rendelet 2. § a) pontja hatályon kívül helyezte.
 [^31]: Az 5/B. § (6) bekezdését a 10/2019. (V. 29.) ITM rendelet 8. § b) pontja hatályon kívül helyezte.
 [^32]: Az 5/B. § (7) bekezdése a 15/2021. (IV. 9.) ITM rendelet 27. §-ával megállapított szöveg.

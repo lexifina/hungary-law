@@ -2,4 +2,7 @@
 
 ## A saját célú működési engedély kiadásának eltérő feltételei
 
+5. §[^25]
+
 [^24]: A 4/A. §-t az 59/2015. (IX. 30.) NFM rendelet 4. §-a iktatta be.
+[^25]: Az 5. §-t az 59/2015. (IX. 30.) NFM rendelet 13. § a) pontja hatályon kívül helyezte.

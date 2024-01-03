@@ -1,11 +1,8 @@
-## 7. §[^39]
-
 ## Kérelem
 
-8. § (1)[^40] A működési engedély iránti kérelmet a vasúti igazgatási szervhez kell a jelen rendeletben meghatározott tartalommal és módon, az előírt mellékletekkel együtt benyújtani. A működési engedélyt kérelmező vasúti társaság az egyes tevékenységekre vonatkozóan külön-külön nyújt be engedély iránti kérelmet.
+8. § (1)[^42] A működési engedély iránti kérelmet a vasúti igazgatási szervhez kell a jelen rendeletben meghatározott tartalommal és módon, az előírt mellékletekkel együtt benyújtani. A működési engedélyt kérelmező vasúti társaság az egyes tevékenységekre vonatkozóan külön-külön nyújt be engedély iránti kérelmet.
 
-(2)[^41]
+(2)[^43]
 
-[^39]: A 7. §-t az 59/2015. (IX. 30.) NFM rendelet 13. § b) pontja hatályon kívül helyezte.
-[^40]: A 8. § (1) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 4. §-a, a 48/2009. (IX. 30.) KHEM rendelet 48. § (2) bekezdése, a 15/2021. (IV. 9.) ITM rendelet 29. § b) pontja szerint módosított szöveg.
-[^41]: A 8. § (2) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^42]: A 8. § (1) bekezdése a 8/2008. (VI. 30.) KHEM rendelet 4. §-a, a 48/2009. (IX. 30.) KHEM rendelet 48. § (2) bekezdése, a 15/2021. (IV. 9.) ITM rendelet 29. § b) pontja szerint módosított szöveg.
+[^43]: A 8. § (2) bekezdését a 48/2009. (IX. 30.) KHEM rendelet 48. § (3) bekezdése hatályon kívül helyezte, e módosító rendelet 53. § (1) bekezdése alapján a 2009. október 1-jét követően indult vagy megismételt eljárásokban kell alkalmazni.
