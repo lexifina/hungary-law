@@ -10,7 +10,7 @@ c) a belvízi kedvtelési célú vízijármű vezetője tekintetében a gépjár
 
 d)[^14] a tengeri hajózási szolgálatot teljesítő személy, valamint az I. és II. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében – a hajózási hatóság által nyilvántartásba vett tengerész-orvosi vizsgálatokra jogosult orvos (a továbbiakban: tengerész-orvosi vizsgálatokra jogosult orvos),
 
-e)[^15] a III. és IV. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében első alkalommal a tengerész-orvosi vizsgálatokra jogosult orvos, az időszakos vizsgálatokat a tengerész-orvosi vizsgálatokra jogosult orvos vagy a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos
+e)[^15] a III. és IV. osztályú tengeri kedvtelési célú vízijármű-vezetők tekintetében a gépjármű-vezetői egészségi alkalmasság vizsgálatára jogosult orvos
 
 végzi.
 
@@ -23,6 +23,6 @@ végzi.
 [^12]: A 6. § (1) bekezdés a) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^13]: A 6. § (1) bekezdés b) pontját a 23/2015. (V. 8.) NFM rendelet 18. § b) pontja hatályon kívül helyezte.
 [^14]: A 6. § (1) bekezdés d) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^15]: A 6. § (1) bekezdés e) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^15]: A 6. § (1) bekezdés e) pontja a 23/2015. (V. 8.) NFM rendelet 11. § (2) bekezdésével megállapított, a 35/2023. (XII. 29.) ÉKM rendelet 1. §-a szerint módosított szöveg.
 [^16]: A 6. § (3) bekezdését a 23/2015. (V. 8.) NFM rendelet 18. § c) pontja hatályon kívül helyezte.
 [^17]: A 6. § (4) bekezdését a 23/2015. (V. 8.) NFM rendelet 11. § (3) bekezdése iktatta be.

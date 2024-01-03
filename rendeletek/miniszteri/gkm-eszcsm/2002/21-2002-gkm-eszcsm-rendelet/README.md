@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-21-20-0
 | 2021-09-28 | 2002-21-20-0L.11 | 46/2021. (IX. 13.) ITM rendelet |
 | 2022-04-19 | 2002-21-20-0L.12 | 13/2022. (IV. 14.) ITM rendelet |
 | 2023-11-28 | 2002-21-20-0L.13 | 21/2023. (XI. 23.) ÉKM rendelet |
+| 2024-01-03 | 2002-21-20-0L.14 | 23/2015. (V. 8.) NFM rendelet |
