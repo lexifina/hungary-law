@@ -4,6 +4,6 @@
 
 (2) E rendelet rendelkezéseit a hatálybalépését követően indult eljárásokban kell alkalmazni.
 
-(3)[^1]
+(3)[^7]
 
-[^1]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 9. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

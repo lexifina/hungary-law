@@ -1,10 +1,8 @@
-## 1X05749_0
-
 |  | A | B | C | D | E |
 
-| 1. | TEN-T hálózati besorolás | Távlati elnevezés | Jelenlegi nyomvonalvezetés |
+| 1. | Besorolás | Távlati elnevezés | Jelenlegi nyomvonalvezetés |
 
-| 2. | Út | km szelvény | Helyszín |
+| 2. | Út száma | km szelvény | Helyszín |
 
 | 3. | Törzshálózat | M0 | M0 | 0–77 | Budapest körgyűrű (meglévő szakasza) |
 
@@ -28,88 +26,94 @@
 
 | 13. | M43 | M43 | 0–58 | Szeged (M5 csomópont) – Csanádpalota, országhatár |
 
-| 14. | M7 | M7 | 13–234 | Budapest (M0 csomópont) – Letenye, országhatár |
+| 14. | M7 | M7 | 16–234 | Budapest (M0 csomópont) – Letenye oh. |
 
 | 15. | M70 | M70 | 0–21 | Letenye (M7 csomópont) – Tornyiszentmiklós, országhatár |
 
-| 16. | Átfogó hálózat | M30 | M30 | 0–30 | Emőd (M3 csomópont) – Miskolc |
+| 16. | Átfogó hálózat | M30 | M30 | 1–89 | Emőd (M3 csomópont) – Tornyosnémeti, országhatár |
 
-| 17. | 3. sz. főút | 190–247 | Miskolc – Tornyosnémeti, országhatár |
+| 17. | M34 | M34 kiépítetlen | 0–32 | Vásárosnamény – Záhony, országhatár (hiányzó szakasz) |
 
-| 18. | M34 | M34 kiépítetlen | 0–32 | Vásárosnamény – Záhony, országhatár (hiányzó szakasz) |
+| 18. | M35 | M35 | 0–68 | M3 csomópont – M4 csomópont |
 
-| 19. | M35 | M35 | 0–68 | M3 csomópont – M4 csomópont |
+| 19. | M6 | M6 | 14–190 | Budapest (M0 csomópont) – Bóly |
 
-| 20. | M6 | M6 | 14–190 | Budapest (M0 csomópont) – Bóly |
+| 20. | 57. sz. főút | 2–8 | Bóly – Mohács – Udvar, országhatár |
 
-| 21. | 57. sz. főút | 2–8 | Bóly – Mohács – Udvar, országhatár |
+| 21. | 56. sz. főút | 49–61 |
 
-| 22. | 56 sz. főút | 49–61 |
+| 22. | M8–M4 | 8. sz. főút | 189–191 | Rábafüzes, országhatár – Rábafüzes |
 
-| 23. | M8-M4 | 8. sz. főút | 0–190 | Rábafüzes, országhatár – Székesfehérvár |
+| 23. | M80 | 162–188 | Rábafüzes – Körmend |
 
-| 24. | M7 | 60–64 | Székesfehérvár |
+| 24. | 86. sz. főút | 55–56 | Körmend |
 
-| 25. | 62. sz. főút | 2–42 | Székesfehérvár – Dunaújváros |
+| 25. | 8. sz. főút | 0–162 | Körmend – Székesfehérvár |
 
-| 26. | M6 | 67–75 | Dunaújváros – Dunavecse |
+| 26. | 63. sz. főút | 89–90 | Székesfehérvár |
 
-| 27. | M8 | 74–83 |
+| 27. | M7 | 59–64 | Székesfehérvár |
 
-| 28. | 51. sz. főút | 75–85 | Dunavecse – Solt |
+| 28. | 62. sz. főút | 2–43 | Székesfehérvár – Dunaújváros |
 
-| 29. | 52. sz. főút | 5–54 | Solt – Kecskemét |
+| 29. | M6 | 67–75 | Dunaújváros – Dunavecse |
 
-| 30. | M5 | 80–85 |
+| 30. | M8 | 74–83 |
 
-| 31. | 445. sz. főút | 5–13 |
+| 31. | 51. sz. főút | 74–85 | Dunavecse – Solt |
 
-| 32. | 441. sz. főút | 0–28 | Kecskemét – Cegléd |
+| 32. | 52. sz. főút | 5–54 | Solt – Kecskemét |
 
-| 33. | 4. sz. főút | 70–71 |
+| 33. | M5 | 80–85 |
 
-| 34. | 311. sz. főút | 31–34 | Cegléd – Püspökladány |
+| 34. | 445. sz. főút | 5–14 |
 
-| 35. | M4 | 72–92 |
+| 35. | 441. sz. főút | 0–28 | Kecskemét – Cegléd |
 
-| 36. | 406. sz. főút | 0–4 |
+| 36. | 4. sz. főút | 70–71 |
 
-| 37. | 4. sz. főút | 93–175 |
+| 37. | 311. sz. főút | 31–34 | Cegléd – Püspökladány |
 
-| 38. | 42. sz. főút | 0–37 | Püspökladány – Berettyóújfalu – Ártánd, országhatár |
+| 38. | M4 | 72–117 |
 
-| 39. | 47. sz. főút | 30–34 |
+| 39. | 4. sz. főút | 113–175 |
 
-| 40. | M4 | 214–242 |
+| 40. | 42. sz. főút | 0–38 | Püspökladány – Berettyóújfalu – Ártánd oh. |
 
-| 41. | M86-M9 | M85 | 0–27 | Mosonmagyaróvár – Csorna – Szombathely – Körmend |
+| 41. | 47. sz. főút | 30–35 |
 
-| 42. | M86 | 81–143 |
+| 42. | M4 | 211–242 |
 
-| 43. | 87. sz. főút | 25–26 |
+| 43. | M86–M9 | M85 | 0–27 | Mosonmagyaróvár – Csorna – Szombathely – Körmend |
 
-| 44. | 86. sz. főút | 52–80 |
+| 44. | M86 | 81–143 |
 
-| 45. | 8. sz. főút | 147–162 | Körmend – Vasvár |
+| 45. | 87. sz. főút | 25–26 |
 
-| 46. | 74. sz. főút | 1–75 | Vasvár – Nagykanizsa |
+| 46. | 86. sz. főút | 55–84 |
 
-| 47. | M7 | 206–211 |
+| 47. | 8. sz. főút | 147–162 | Körmend – Vasvár |
 
-| 48. | 61. sz. főút | 57–194 | Nagykanizsa – Kaposvár – Tamási |
+| 48. | 74. sz. főút | 1–75 | Vasvár – Nagykanizsa |
 
-| 49. | 65. sz. főút | 0–45 | Tamási – Szekszárd |
+| 49. | M7 | 206–211 |
 
-| 50. | 6. sz. főút | 139–143 |
+| 50. | 61. sz. főút | 57–194 | Nagykanizsa – Kaposvár – Tamási |
 
-| 51. | M9 | 0–21 | Szekszárd – Baja |
+| 51. | 65. sz. főút | 0–45 | Tamási – Szekszárd |
 
-| 52. | 51. sz. főút | 139–156 |
+| 52. | 6. sz. főút | 139–143 |
 
-| 53. | 511. sz. főút | 0–4 |
+| 53. | M9 | 0–21 | Szekszárd – Baja |
 
-| 54. | 55. sz. főút | 8–98 | Baja – Szeged |
+| 54. | 51. sz. főút | 139–156 |
 
-3. melléklet a 26/2021. (VI. 28.) ITM rendelethez
+| 55. | 511. sz. főút | 0–4 |
 
-Az országos közúthálózat számozási rendszere és az utak számozása, szektorelv
+| 56. | 55. sz. főút | 8–98 | Baja – Szeged |
+
+## 3X12242A.pdf
+
+3. melléklet a 26/2021. (VI. 28.) ITM rendelethez[^10]
+
+[^10]: A 3. melléklet az 52/2023. (XII. 29.) ÉKM rendelet 5. §-ával megállapított szöveg.

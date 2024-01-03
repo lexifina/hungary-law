@@ -1,42 +1,14 @@
-## Országos közutak nem közlekedési célú igénybevétele esetén fizetendő díjak
+|  | A | B | C |
 
-## A. Területalapú díjtétel mértéke
+| 1. | útkategória | Igénybevétel célja (Ft/m2/nap) | Igénybevétel célja (Ft/km/nap) |
 
-## Gyorsforgalmi út: 1 000 Ft/m2/nap
+| 2. | kulturális rendezvény | vásár, egyéb | építési munkaterület | sportrendezvény |
 
-|  | A | B |
+| 3. | gyorsforgalmi út | 1 000 | 1 000 | 1 000 | 100 000 |
 
-| 1. |  | Főút Ft/m2/nap |
+| 4. | főút | 20 | 30 | 100 | 5 000 |
 
-| 2. | Átlagos napi forgalom (Egységjármű/nap) | kulturális rendezvény | vásár, egyéb | építési munkaterület |
-
-| 3. | 0–4000 | 5 | 10 | 25 |
-
-| 4. | 4001–8000 | 10 | 20 | 50 |
-
-| 5. | 8001–12 000 | 15 | 25 | 75 |
-
-| 6. | 12 000 felett | 20 | 30 | 100 |
-
-| 7. |  | Mellékút Ft/m2/nap |
-
-| 8. | Átlagos napi forgalom (Egységjármű/nap) | kulturális rendezvény | vásár, egyéb | építési munkaterület |
-
-| 9. | 0–4000 | 2 | 5 | 10 |
-
-| 10. | 4001–8000 | 5 | 10 | 20 |
-
-| 11. | 8001–12 000 | 8 | 12 | 40 |
-
-| 12. | 12 000 felett | 10 | 15 | 50 |
-
-## B. Sportrendezvény által érintett útszakasz hosszán alapuló díjtétel mértéke
-
-## • gyorsforgalmi út: 100 000 Ft/km/nap
-
-## • főút 5000 Ft/km/nap
-
-## • mellékút 1000 Ft/km/nap
+| 5. | egyéb közút | 10 | 15 | 50 | 1 000 |
 
 5. melléklet a 26/2021. (VI. 28.) ITM rendelethez
 
@@ -60,7 +32,7 @@ Az autópályák és autóutak csomópontjainak összekötőpályái, összeköt
 
 Vegyes járműforgalom céljára szolgálnak, de a lassú járműforgalom – állandó vagy időszakos kivételektől eltekintve – tiltott. Távolsági forgalmat bonyolítanak le országrészek, régiók között, illetve azok forgalmának gyűjtő és elosztó szerepét látják el. Minden keresztezése szabályozott, szintbeni vasúti keresztezés (iparvágány kivételével) nem létesíthető. Közúti csomópont létesítése – ha megengedett a balra kanyarodás – csak a járművek részére külön felálló sáv kialakításával történhet. Külterületen a tömegközlekedési járművek (autóbusz, trolibusz) részére megállóöblök állnak rendelkezésre, az út menti ingatlanokhoz nem létesíthető közvetlen csatlakozás, és csak a forgalmi csomópontokban lehet fel- és lehajtani.
 
-5.[^2] Másodrendű főutak
+5.[^12] Másodrendű főutak
 
 Vegyes járműforgalom céljára szolgálnak, de a lassú járműforgalom megtiltható. Régiók és vármegyék közötti távolsági forgalmat bonyolítanak le, illetve azok forgalmának gyűjtő és elosztó szerepét látják el. Minden keresztezése szabályozott, külterületen az út menti ingatlanokhoz – csak kivételes esetben – létesíthető közvetlen csatlakozás, csak a forgalmi csomópontokban lehet fel- és lehajtani.
 
@@ -128,4 +100,4 @@ Kerékpárosok közlekedésére szolgáló önálló utak (ideértve a gyalogoso
 
 A gyalogutak a gyalogosok közlekedésére szolgáló önálló utak. A járdák a közútnak a gyalogosok közlekedésére szolgáló, attól szintkülönbséggel, kiemelt szegéllyel vagy más módon elválasztott része.
 
-[^2]: Az 5. melléklet I. rész 5. pontja a 2/2023. (II. 20.) ÉKM rendelet 14. §-a szerint módosított szöveg.
+[^12]: Az 5. melléklet I. rész 5. pontja a 2/2023. (II. 20.) ÉKM rendelet 14. §-a szerint módosított szöveg.
