@@ -1,0 +1,1 @@
+1. § A Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokról szóló 5/2022. (II. 11.) ITM rendelet 3. § (3) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg és a „Kft.” szövegrész helyébe a „Korlátolt Felelősségű Társaság” szöveg lép.
