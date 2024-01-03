@@ -1,3 +1,3 @@
-3. melléklet a 659/2023. (XII. 28.) Korm. rendelethez[^70]
+3. melléklet a 659/2023. (XII. 28.) Korm. rendelethez[^71]
 
-[^70]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^71]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
