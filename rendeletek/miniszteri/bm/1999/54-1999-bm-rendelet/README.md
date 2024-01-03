@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-54-20-0
 | 2017-09-19 | 1999-54-20-0A.10 | 36/2017. (IX. 18.) NFM rendelet |
 | 2020-06-30 | 1999-54-20-0A.11 | 22/2020. (VI. 29.) ITM rendelet |
 | 2021-02-01 | 1999-54-20-0A.12 | 46/2003. (XII. 2.) BM rendelet |
+| 2024-01-03 | 1999-54-20-0A.13 | 33/2023. (XII. 29.) ÉKM rendelet |

@@ -1,6 +1,6 @@
 7. § Ez a rendelet 2000. január 1-jén lép hatályba.
 
-Melléklet az 54/1999. (XII. 25.) BM rendelethez[^12]
+Melléklet az 54/1999. (XII. 25.) BM rendelethez[^15]
 
 Az adatszolgáltatási eljárásért fizetendő díjak mértéke és megállapításának módja
 
@@ -12,7 +12,7 @@ a) egy eljárásban igényelt adatszolgáltatás díja: 550 Ft/tétel, de lega
 
 b) kapcsolatfelvétel céljából történő megkeresés, értesítés díja személyenként: 700 Ft, de legalább 1400 Ft.
 
-II. Csoportképző ismérvek alapján egy eljárásban történő adatszolgáltatás esetén [5. § (3) bekezdés] az előzetes tájékoztatás díja: 6750 Ft.
+II.[^16] Csoportos adatszolgáltatás esetén [5. § (3) bekezdés] az előzetes tájékoztatás díja: 6750 Ft.
 
 a) A tudományos, közvélemény- és piackutatás, valamint közvetlen üzletszerzés céljára történő adatszolgáltatás díja:
 
@@ -38,6 +38,8 @@ b) A csoportképző ismérvek alapján meghatározott személy vagy személyi 
 
 A fizetendő díj legkisebb mértéke: 15 000 Ft.
 
-III. Az okmánytárból szolgáltatott másolat kiadásának díja oldalanként 130 Ft, de legalább 260 Ft. A másolat hitelesítésének díja oldalanként 29 Ft.
+III.[^17] Az okirattárból szolgáltatott másolat kiadásának díja oldalanként 130 Ft, de legalább 260 Ft. A másolat hitelesítésének díja oldalanként 29 Ft.
 
-[^12]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^15]: A melléklet a 46/2009. (IX. 25.) IRM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 5. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napja után indult eljárásokban kell alkalmazni.
+[^16]: A Melléklet II. pontja a 33/2023. (XII. 29.) ÉKM rendelet 1. § e) pontja szerint módosított szöveg.
+[^17]: A Melléklet III. pontja a 33/2023. (XII. 29.) ÉKM rendelet 1. § f) pontja szerint módosított szöveg.
