@@ -8,7 +8,7 @@ c) UAS.STS-01.020 3. b),
 
 d) UAS.STS-02.020 10. b)
 
-## pontja szerinti tanfolyamokat, továbbá a drón pilóta tanfolyamot a légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet szervezi és folytatja le.
+pontja szerinti tanfolyamokat, továbbá a drón pilóta tanfolyamot a légiközlekedési hatóság által a légiközlekedési hatóság kiegészítő eljárásjogi szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező képző szervezet szervezi és folytatja le.
 
 (2) A távoli pilóták pilóta nélküli légijárművek irányításához szükséges az (EU) 2019/947 bizottsági végrehajtási rendelet
 
@@ -16,7 +16,7 @@ a) UAS.STS-01.020 1. e) ii.),
 
 b) UAS.STS-02.020 7. b)
 
-## pontjai szerinti tanfolyamok szervezését és lefolytatását a képző szervezet a képzési tevékenység megkezdése előtt legalább 10 nappal bejelenti a légiközlekedési hatóságnak, valamint az (EU) 2019/947. bizottsági végrehajtási rendelet 6. függelékében foglalt formanyomtatvány légiközlekedési hatóság részére történő benyújtásával nyilatkozik a követelményeknek való megfelelésről.
+pontjai szerinti tanfolyamok szervezését és lefolytatását a képző szervezet a képzési tevékenység megkezdése előtt legalább 10 nappal bejelenti a légiközlekedési hatóságnak, valamint az (EU) 2019/947. bizottsági végrehajtási rendelet 6. függelékében foglalt formanyomtatvány légiközlekedési hatóság részére történő benyújtásával nyilatkozik a követelményeknek való megfelelésről.
 
 (3) A légiközlekedési hatóság a (2) bekezdés szerinti képzés szervezésére és lefolytatására jogosult szervezeteket nyilvántartásba veszi, és a nyilvántartást a honlapján közzéteszi.
 

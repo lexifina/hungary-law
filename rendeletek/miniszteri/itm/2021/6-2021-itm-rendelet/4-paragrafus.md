@@ -8,7 +8,7 @@ c) UAS.STS-01.020 2. b),
 
 d) UAS.STS-02.020 9. b)
 
-## pontja szerinti vizsgákat, továbbá a drón pilóta vizsgát a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Kft. (a továbbiakban: vizsgaközpont) szervezi és folytatja le.
+pontja szerinti vizsgákat, továbbá a drón pilóta vizsgát a KAV Közlekedési Alkalmassági és Vizsgaközpont Nonprofit Kft. (a továbbiakban: vizsgaközpont) szervezi és folytatja le.
 
 (2) A távoli pilóta a vizsgán való részvételért díjat köteles fizetni, amelynek mértéke megegyezik a közúti járművezetők és a közúti közlekedési szakemberek képzésével, továbbképzésével, utánképzésével és vizsgáztatásával összefüggő díjakról szóló miniszteri rendeletben a számítógépes elméleti vizsga díjával.
 
