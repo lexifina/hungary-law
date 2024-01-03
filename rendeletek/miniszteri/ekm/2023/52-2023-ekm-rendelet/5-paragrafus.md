@@ -1,3 +1,1 @@
-5. §[^5]
-
-[^5]: Az 5. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
+5. § Az R. 3. melléklete helyébe a 4. melléklet lép.

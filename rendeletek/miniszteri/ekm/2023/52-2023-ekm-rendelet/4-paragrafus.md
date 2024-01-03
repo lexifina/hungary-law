@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 8. § (2) bekezdés alapján 2024. január 3-án lép hatályba.
+4. § Az R. 2. melléklete helyébe a 3. melléklet lép.
