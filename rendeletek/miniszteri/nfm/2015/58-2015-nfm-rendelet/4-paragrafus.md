@@ -36,26 +36,9 @@ ei) egyedi kedvezmény,
 
 ej) kiegyenlítő juttatás.
 
-(2) A díjképzési rendszer elemeinek kialakításában alapul vehető:
+(2)[^1]
 
-a) a kilométer-teljesítmény,
+(3)[^2]
 
-b) a tömeg,
-
-c) a vonat típusa,
-
-d) a pályahálózat paraméterei,
-
-e) a vonat összetétele,
-
-f) a sebesség,
-
-g) a tengelyterhelés,
-
-h) a vasúti pályahálózat igénybevételének mértéke,
-
-i) a vasúti pályahálózat igénybevételének időpontja, valamint
-
-j) a vasúti pályahálózat igénybevételének időtartama.
-
-(3) A (2) bekezdésben rögzítettek az alapszolgáltatás díjainak és a kiszolgáló létesítményekhez való hozzáférésért fizetendő díjak kialakítása során addig alkalmazhatóak, amíg a vasúti szolgáltatások működtetésével kapcsolatban közvetlenül felmerülő költségek kiszámításának módjairól szóló 2015. június 12-i 2015/909 bizottsági végrehajtási rendeletben rögzített szabályozás nem kerül alkalmazásra.
+[^1]: A 4. § (2) bekezdését a 43/2023. (XII. 29.) ÉKM rendelet 2. §-a hatályon kívül helyezte.
+[^2]: A 4. § (3) bekezdését a 43/2023. (XII. 29.) ÉKM rendelet 2. §-a hatályon kívül helyezte.
