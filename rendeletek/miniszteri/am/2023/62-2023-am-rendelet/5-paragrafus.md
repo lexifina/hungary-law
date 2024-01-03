@@ -1,1 +1,0 @@
-5. § E rendelet 1. §-a, valamint 2. § b), e)–h) és k) pontja a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2023. július 10-i (EU) 2023/1438 bizottsági végrehajtási irányelvnek való megfelelést szolgálja.
