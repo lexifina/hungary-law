@@ -47,3 +47,5 @@
 22. az oktatási nyilvántartásról szóló törvény szerinti oktatási nyilvántartás működéséért felelős szerv, valamint
 
 23. a magyar külképviseletek, továbbá amennyiben azt nemzetközi vagy kétoldalú megállapodás kötelezővé teszi, vagy az az eljárás eredményes lefolytatásához szükséges, vagy a kiutasítási döntéssekkel kapcsolatos eljárásokban az ügyfél kérelmére a Magyarországon működő, vagy Magyarországra akkreditált diplomáciai és hivatásos konzuli tisztviselő által vezetett konzuli képviseletek
+
+részére továbbíthat adatot.

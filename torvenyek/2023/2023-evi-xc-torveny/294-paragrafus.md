@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
-
 ## XXXIV. Fejezet
 
 ## EGYES TÖRVÉNYEKET MÓDOSÍTÓ RENDELKEZÉSEK
