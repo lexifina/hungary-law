@@ -8,6 +8,14 @@
 
 3. auditáló szerv: a vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló kormányrendelet (a továbbiakban: kormányrendelet) alapján az auditálási tevékenység végzésére kijelölt szervezet;
 
-4. auditált státusz: az auditáló szerv által az elvégzett eredményes auditálás során kiállított auditokmánnyal igazolt státusz;
+4.[^1] auditált státusz: az auditáló szerv által az elvégzett eredményes auditálás során kiállított audit jegyzőkönyvvel és tanúsítvánnyal igazolt státusz, amely a kiállításától számított 2 évig érvényes;
 
 5. vizsgálóállomás: a kormányrendelet szerint engedélyezett vizsgálóállomás, ide nem értve a kormányrendelet 1/A. § (3) bekezdése szerinti vizsgálóállomást.
+
+6.[^2] auditált státuszt érintő változás: a kormányrendelet 9. § (2) bekezdése szerinti változás, ide nem értve a kormányrendelet szerint a közlekedésért felelős miniszter engedélye alapján az új technológiát képviselő eszközök és berendezések valós körülmények közötti tesztelését szolgáló eltérő feltételek miatti változást;
+
+7.[^3] részleges audit: az auditált státusz érvényességi ideje alatt, a vizsgálóállomás korábban még nem auditált kiegészítő eljárásainak, valamint korábban auditált járműkategóriákon belül új, még nem auditált alkategóriáinak az auditálása, melynek érvényessége megegyezik a vizsgálóállomás részleges auditálásának idején érvényes auditált státusz érvényességével.
+
+[^1]: Az 1. § 4. pontja a 28/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 6. pontját a 28/2023. (XII. 29.) ÉKM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § 7. pontját a 28/2023. (XII. 29.) ÉKM rendelet 1. § (2) bekezdése iktatta be.

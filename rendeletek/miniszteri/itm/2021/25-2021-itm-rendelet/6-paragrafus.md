@@ -10,4 +10,13 @@ b) az auditáló szerv a jegyzőkönyvben az egyes szempontoknál enyhe fokú me
 
 a) az auditáló szerv a jegyzőkönyvben az egyes szempontoknál olyan enyhe fokú meg nem felelősséget állapít meg, amelyet a kérelmező az audit ideje alatt a helyszínen vagy a megadott határidőn belül nem javít ki, vagy
 
-b) az auditáló szerv a jegyzőkönyvben rögzített valamelyik szempont esetében az auditálási szabályzat szerinti súlyos meg nem felelősséget állapít meg.
+b)[^10] az auditáló szerv a jegyzőkönyvben rögzített valamelyik szempont esetében az auditálási szabályzat szerinti súlyos nem megfelelőséget állapít meg.
+
+(3)[^11] Az auditáló szerv abban az esetben szünteti meg az eljárást, ha
+
+a) az előzetes értékelési szakaszban hiányos vagy pontatlan kérelem esetén a kérelmező a megadott határidő alatt a hiányokat nem pótolja, a kérelmét nem egészíti ki,
+
+b) a kérelmező együttműködésének hiánya miatt az auditáló szerv helyszíni értékelést nem tud tartani.
+
+[^10]: A 6. § (2) bekezdés b) pontja a 28/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^11]: A 6. § (3) bekezdését a 28/2023. (XII. 29.) ÉKM rendelet 6. § (2) bekezdése iktatta be.

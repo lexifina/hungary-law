@@ -1,1 +1,3 @@
-## 10. § A vizsgálóállomás engedélyezésének részletes eljárási szabályairól szóló kormányrendelet alapján kiadott engedéllyel rendelkező vizsgálóállomások első auditálását az auditáló szerv a vizsgálóállomás auditált státuszának megszerzésére irányuló kérelmére, a kérelmek beérkezési sorrendjében a 4. §-ban meghatározott határidők figyelembevétele nélkül, programozottan, 2022. december 31. napjáig végzi el e rendelet alapján.
+11. §[^14]
+
+[^14]: A 11. §-t a 28/2023. (XII. 29.) ÉKM rendelet 8. §-a hatályon kívül helyezte.
