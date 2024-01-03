@@ -1,1 +1,0 @@
-17. § Ez a rendelet a gépjárművek és pótkocsijaik időszakos műszaki vizsgálatáról és a 2009/40/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 3-i 2014/45/EU európai parlamenti és tanácsi irányelv rendelkezéseinek való megfelelést szolgálja.
