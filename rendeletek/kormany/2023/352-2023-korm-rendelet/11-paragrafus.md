@@ -1,1 +1,0 @@
-11. § A 2. § a szociális biztonsági rendszerek koordinálásáról szóló, 2004. április 29-i 883/2004/EK európai parlamenti és tanácsi rendelet 76. cikk (7) bekezdésének végrehajtásához szükséges rendelkezést állapít meg.
