@@ -1,1 +1,0 @@
-7. § Ez a rendelet a 2003/87/EK irányelvnek a légi közlekedésnek az uniós gazdaság egészére vonatkozó kibocsátáscsökkentési célhoz való hozzájárulása és egy piaci alapú globális intézkedés megfelelő végrehajtása tekintetében történő módosításáról szóló, 2023. május 10-i (EU) 2023/958 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
