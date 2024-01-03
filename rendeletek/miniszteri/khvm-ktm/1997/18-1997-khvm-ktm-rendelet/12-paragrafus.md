@@ -1,6 +1,6 @@
 ## A környezeti zajterhelés csökkentését célzó repülőtér-használati eljárások
 
-12. §[^26] (1) A repülőtér üzemben tartójának és a légiközlekedési hatóságnak a kiegyensúlyozott megközelítést alkalmazva kell elérni
+12. §[^27] (1) A repülőtér üzemben tartójának és a légiközlekedési hatóságnak a kiegyensúlyozott megközelítést alkalmazva kell elérni
 
 a) a repülőtér környezetében a repülési zaj növekedésének megállítását és a zajjal érintett lakosság számának csökkentését;
 
@@ -12,7 +12,7 @@ c) a lehetséges intézkedések közül a költségek szempontjából leghatéko
 
 a) nem nyilvános repülőtér üzemben tartója a zajosabb légijárművek forgalmát kitilthatja vagy korlátozhatja,
 
-b)[^27] nyilvános repülőtéren a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló rendeletben meghatározott zajhatárértékek túllépése esetén a légiközlekedési hatóság elrendelhet a zajosabb repülőgépek működésére vonatkozó korlátozásokat, illetve a repülőtér üzemben tartója a légiközlekedési hatóságnál kezdeményezheti korlátozások elrendelését. Repülőgép típusokra vonatkozó korlátozás esetén a korlátozás sorrendjére vonatkozó döntést a repülőgépeknek a 16. függelék szerinti jóváhagyási eljárás során meghatározott zajteljesítménye alapján kell meghozni.
+b)[^28] nyilvános repülőtéren a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló rendeletben meghatározott zajhatárértékek túllépése esetén a légiközlekedési hatóság elrendelhet a zajosabb repülőgépek működésére vonatkozó korlátozásokat, illetve a repülőtér üzemben tartója a légiközlekedési hatóságnál kezdeményezheti korlátozások elrendelését. Repülőgép típusokra vonatkozó korlátozás esetén a korlátozás sorrendjére vonatkozó döntést a repülőgépeknek a 16. függelék szerinti jóváhagyási eljárás során meghatározott zajteljesítménye alapján kell meghozni.
 
 (3) A légiközlekedési zaj zavaró hatásának csökkentése, a repülőtér környezetében élők éjszakai pihenésének biztosítása érdekében
 
@@ -48,5 +48,5 @@ b) a repülőtéren, ahol ez szükséges, a légiközlekedési hatóság elrende
 
 (6) A (2) és (3) bekezdésben foglalt előírások nem vonatkoznak a közös felhasználású polgári és katonai repülőtéren végrehajtott állami repülésre.
 
-[^26]: A 12. § a 36/2004. (III. 31.) GKM–KvVM e. r. 8. §-ával megállapított szöveg.
-[^27]: A 12. § (2) bekezdés b) pontja a 17/2016. (VI. 10.) NFM rendelet 3. §-ával megállapított szöveg. [E módosító rendelet 6. § h) pontjával elrendelt módosítás, amely szerint a „16. függelék (3. kiadás, 1993)” szövegrész helyébe a „16. függelék” szöveg lép, nem vezethető át.]
+[^27]: A 12. § a 36/2004. (III. 31.) GKM–KvVM e. r. 8. §-ával megállapított szöveg.
+[^28]: A 12. § (2) bekezdés b) pontja a 17/2016. (VI. 10.) NFM rendelet 3. §-ával megállapított szöveg. [E módosító rendelet 6. § h) pontjával elrendelt módosítás, amely szerint a „16. függelék (3. kiadás, 1993)” szövegrész helyébe a „16. függelék” szöveg lép, nem vezethető át.]

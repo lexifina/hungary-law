@@ -1,16 +1,16 @@
-13/B. §[^49] (1) A zajvédelmi bizottság tagja (a továbbiakban: tag)
+13/B. §[^50] (1) A zajvédelmi bizottság tagja (a továbbiakban: tag)
 
 a) a repülőteret üzemben tartó szervezet,
 
 b) a repülőtér légiforgalmi szolgálatát ellátó szervezet, ha az a repülőtér üzembentartójától elkülönült szervezet,
 
-c)[^50] a területi környezetvédelmi hatóság,
+c)[^51] a területi környezetvédelmi hatóság,
 
-d)[^51] az illetékes népegészségügyi feladatokat ellátó szerv, valamint
+d)[^52] az illetékes népegészségügyi feladatokat ellátó szerv, valamint
 
 e) a légiközlekedési hatóság
 
-## egy-egy képviselője.
+egy-egy képviselője.
 
 (2) A zajvédelmi bizottságba képviselőt delegálhat
 
@@ -46,10 +46,10 @@ ba) az (1)–(4) bekezdés szerinti tag vonatkozásában a zajvédelmi bizottsá
 
 bb) a delegáló szervezet
 
-## javaslata alapján visszavonja.
+javaslata alapján visszavonja.
 
 (8) A zajvédelmi bizottsági tagság megszűnése esetén az új tag személyére a megszűnt tagsági jogviszonnyal érintett tagot delegáló szervezet tesz javaslatot.
 
-[^49]: A 13/B. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.
-[^50]: A 13/B. § (1) bekezdés c) pontja az 1/2017. (I. 3.) NFM rendelet 9. §-ával megállapított szöveg.
-[^51]: A 13/B. § (1) bekezdés d) pontja az 1/2017. (I. 3.) NFM rendelet 9. §-ával megállapított szöveg.
+[^50]: A 13/B. §-t a 24/2014. (IV. 29.) NFM rendelet 2. §-a iktatta be.
+[^51]: A 13/B. § (1) bekezdés c) pontja az 1/2017. (I. 3.) NFM rendelet 9. §-ával megállapított szöveg.
+[^52]: A 13/B. § (1) bekezdés d) pontja az 1/2017. (I. 3.) NFM rendelet 9. §-ával megállapított szöveg.

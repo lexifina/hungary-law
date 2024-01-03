@@ -40,7 +40,7 @@
 
 | A kategóriák – feltéve, hogy a légijárművet 1974 után építették – megfelelnek az ICAO Annex 16. I. kötet 2. fejezetének. |
 
-## 2. Az 1. pontban szereplő kategóriák oktávonkénti hangnyomásszintjét az alábbi táblázatok tartalmazzák (Az értékek gömbsugárzóra vonatkoznak):
+## 2.[^61] Az 1. pontban szereplő kategóriák oktávonkénti hangnyomásszintjét az alábbi táblázatok tartalmazzák (Az értékek gömbsugárzóra vonatkoznak):
 
 | Felszállás | Normatív spektrum adatok Dugattyús, és gázturbinás légcsavaros repülőgépek (motoros) |
 
@@ -160,7 +160,7 @@
 
 | referenciatávolság méterben | 150 | 150 | 150 | 150 |
 
-## Az LAmax hangnyomásszintek kiszámításához, amelyből a Közlekedéstudományi Intézet Rt. Környezetvédelmi és Akusztikai Tagozat által 1998-ban közzétett ,,Zajgátló védőövezet számítási módszere” alapján az egyenértékű zajszintek számíthatók, szükséges a fajlagos csillapítási tényező ismerete. A hivatkozott tanulmány 6. táblázata tartalmazza a szükséges oktávonkénti értékeket. Mivel a zajszámítás módszerei különbözőek lehetnek, esetleg tercenkénti szintekkel is rendelkezésre álló zajforrások esetén, az ICAO Annex 16. V. kötete 1. fejezetének a légijárművek zajkibocsátására vonatkozó táblázatai teljes mértékben felhasználhatók (például a doppler hatás is számítható nagy fel- és leszálló sebességek esetén). Ha szabványokon alapuló tényleges mérések rendelkezésre állnak, annak eredményeit kell alkalmazni minden egyéb számítási módszerrel szemben.
+## Az LAmax hangnyomásszintek kiszámításához, amelyből a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság által közzétett ,,Zajgátló védőövezet számítási módszere” alapján az egyenértékű zajszintek számíthatók, szükséges a fajlagos csillapítási tényező ismerete. A hivatkozott tanulmány 6. táblázata tartalmazza a szükséges oktávonkénti értékeket. Mivel a zajszámítás módszerei különbözőek lehetnek, esetleg tercenkénti szintekkel is rendelkezésre álló zajforrások esetén, az ICAO Annex 16. V. kötete 1. fejezetének a légijárművek zajkibocsátására vonatkozó táblázatai teljes mértékben felhasználhatók (például a doppler hatás is számítható nagy fel- és leszálló sebességek esetén). Ha szabványokon alapuló tényleges mérések rendelkezésre állnak, annak eredményeit kell alkalmazni minden egyéb számítási módszerrel szemben.
 
 ## Ezen zajnormatívák felhasználhatók esetleges nagyobb pontosságú, szimulációs módszernél is. Ebben az esetben már figyelembe vehető a gömbsugárzótól eltérő térbeli irányítottság is.
 
@@ -168,9 +168,9 @@
 
 3. számú melléklet a 18/1997. (X. 11.) KHVM–KTM
 
-együttes rendelethez[^60]
+együttes rendelethez[^62]
 
-## Üzemeltetési korlátozások előkészítése során figyelembe veendő információk[^61]
+Üzemeltetési korlátozások előkészítése során figyelembe veendő információk[^63]
 
 1. A repülőtér jelenlegi állapota:
 
@@ -180,23 +180,23 @@ együttes rendelethez[^60]
 
 1.3. az adott és a megelőző évek zajgörbéi, beleértve az érintett lakosságszámra vonatkozó becslést, valamint a számítási módszer leírását;
 
-1.4.[^62] a légiközlekedés zajának csökkentése érdekében a kiegyensúlyozott megközelítés keretében már bevezetett és tervezett intézkedések (pl. információk a területhasználat szabályozásáról és befolyásolásáról, passzív akusztikai védelem, repülési eljárások, mint a PANS-OPS /Procedures for Air Navigation Services-Operations/, üzemeltetési korlátozások, mint a zajhatárértékek, éjszakai határérték vagy repülési tilalom, zajdíjak, preferált pályahasználat, zaj szempontból előnybe részesített útvonal/nyomvonal tartás, és a zajmonitoring bemutatása).
+1.4.[^64] a légiközlekedés zajának csökkentése érdekében a kiegyensúlyozott megközelítés keretében már bevezetett és tervezett intézkedések (pl. információk a területhasználat szabályozásáról és befolyásolásáról, passzív akusztikai védelem, repülési eljárások, mint a PANS-OPS /Procedures for Air Navigation Services-Operations/, üzemeltetési korlátozások, mint a zajhatárértékek, éjszakai határérték vagy repülési tilalom, zajdíjak, preferált pályahasználat, zaj szempontból előnybe részesített útvonal/nyomvonal tartás, és a zajmonitoring bemutatása).
 
 2. Előrejelzés újabb intézkedések nélkül:
 
-2.1.[^63] a már jóváhagyott és tervezett repülőtér fejlesztések leírása, amennyiben vannak ilyenek (pl. kapacitásnövelés, futópálya és/vagy terminál bővítés, lehetséges megközelítési és felszállási útvonalak), valamint a várható jövőbeni forgalom összetétel és a forgalom becsült növekedési üteme, továbbá részletes elemzés az említett kapacitás-, futópálya- és terminálbővítések, illetve a megközelítési és felszállási útvonalak módosítása által a környéket érintő zajhatásokról;
+2.1.[^65] a már jóváhagyott és tervezett repülőtér fejlesztések leírása, amennyiben vannak ilyenek (pl. kapacitásnövelés, futópálya és/vagy terminál bővítés, lehetséges megközelítési és felszállási útvonalak), valamint a várható jövőbeni forgalom összetétel és a forgalom becsült növekedési üteme, továbbá részletes elemzés az említett kapacitás-, futópálya- és terminálbővítések, illetve a megközelítési és felszállási útvonalak módosítása által a környéket érintő zajhatásokról;
 
-2.2.[^64] a repülőtér kapacitásának növelése esetén a megnövelt kapacitás révén elérhető gazdasági haszon és előnyök a tágabb légi közlekedési hálózatban és a térségben;
+2.2.[^66] a repülőtér kapacitásának növelése esetén a megnövelt kapacitás révén elérhető gazdasági haszon és előnyök a tágabb légi közlekedési hálózatban és a térségben;
 
 2.3. azonos időszakokra vonatkozóan a zajterhelés változása további intézkedések nélkül és a zajhatás csökkentése érdekében már tervezett intézkedések;
 
-2.4.[^65] előrebecsült zajgörbék, beleértve a valószínűleg érintett lakosságszámra vonatkozó becslést – megkülönböztetve a már régebben meglévő és az újonnan kialakított lakóterületeket, valamint azon jövőben tervezett lakóterületeket, amelyeket az illetékes hatóságok már engedélyeztek;
+2.4.[^67] előrebecsült zajgörbék, beleértve a valószínűleg érintett lakosságszámra vonatkozó becslést – megkülönböztetve a már régebben meglévő és az újonnan kialakított lakóterületeket, valamint azon jövőben tervezett lakóterületeket, amelyeket az illetékes hatóságok már engedélyeztek;
 
 2.5. a zajhatás mérséklését szolgáló intézkedések elmaradásának következményei és várható költségei, ha várható, hogy ez történik.
 
-3.[^66] A kiegészítő intézkedések értékelése
+3.[^68] A kiegészítő intézkedések értékelése
 
-3.1.[^67] a kiegyensúlyozott megközelítés intézkedési köréből a lehetséges kiegészítő intézkedések vázlatos leírása, különösen a választásuk fő indokainak feltüntetésével. A közülük további elemzésre kiválasztott intézkedések leírása; információk bevezetésük költségéről, az időtávról és várhatóan kedvezően érintett lakosság számáról; az egyes intézkedések hatékonysági rangsora;
+3.1.[^69] a kiegyensúlyozott megközelítés intézkedési köréből a lehetséges kiegészítő intézkedések vázlatos leírása, különösen a választásuk fő indokainak feltüntetésével. A közülük további elemzésre kiválasztott intézkedések leírása; információk bevezetésük költségéről, az időtávról és várhatóan kedvezően érintett lakosság számáról; az egyes intézkedések hatékonysági rangsora;
 
 3.2. a választott intézkedések bevezetésének költség-hatékonyság vagy költség-haszon elemzése a repülőteret használókra (személy és áruszállítást végzők, utasok és a helyi közösségek) vonatkozó társadalmi-gazdasági hatások figyelembevételével;
 
@@ -210,14 +210,15 @@ együttes rendelethez[^60]
 
 4.1. amennyiben készült más jogszabály szerinti zajtérkép vagy cselekvési terv, azok használhatók a jelen melléklet szerinti információk szolgáltatásához;
 
-4.2.[^68] a zajterhelés értékeléséhez (azaz az izofon görbék és az érintett lakosság számának meghatározásához) az 1. számú függelékben meghatározott zajjellemzőket, az Lden és Lnight értéket kell használni. További olyan zajjellemzők is alkalmazhatók, amelyek objektív adatokon alapulnak.
+4.2.[^70] a zajterhelés értékeléséhez (azaz az izofon görbék és az érintett lakosság számának meghatározásához) az 1. számú függelékben meghatározott zajjellemzőket, az Lden és Lnight értéket kell használni. További olyan zajjellemzők is alkalmazhatók, amelyek objektív adatokon alapulnak.
 
-[^60]: A 3. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
-[^61]: A 3. számú melléklet címe a 17/2016. (VI. 10.) NFM rendelet 7. §-a szerint módosított szöveg.
-[^62]: A 3. számú melléklet 1.4. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
-[^63]: A 3. számú melléklet 2.1. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
-[^64]: A 3. számú melléklet 2.2. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
-[^65]: A 3. számú melléklet 2.4. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
-[^66]: A 3. számú melléklet 3. pont nyitó szövegrésze a 17/2016. (VI. 10.) NFM rendelet 6. § s) pontja szerint módosított szöveg.
-[^67]: A 3. számú melléklet 3.1. pontja a 17/2016. (VI. 10.) NFM rendelet 6. § s)–t) pontja szerint módosított szöveg.
-[^68]: A 3. számú melléklet 4.2. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
+[^61]: A 2. számú melléklet 2. pontja a 32/2023. (XII. 29.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.
+[^62]: A 3. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
+[^63]: A 3. számú melléklet címe a 17/2016. (VI. 10.) NFM rendelet 7. §-a szerint módosított szöveg.
+[^64]: A 3. számú melléklet 1.4. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
+[^65]: A 3. számú melléklet 2.1. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
+[^66]: A 3. számú melléklet 2.2. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
+[^67]: A 3. számú melléklet 2.4. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.
+[^68]: A 3. számú melléklet 3. pont nyitó szövegrésze a 17/2016. (VI. 10.) NFM rendelet 6. § s) pontja szerint módosított szöveg.
+[^69]: A 3. számú melléklet 3.1. pontja a 17/2016. (VI. 10.) NFM rendelet 6. § s)–t) pontja szerint módosított szöveg.
+[^70]: A 3. számú melléklet 4.2. pontja a 17/2016. (VI. 10.) NFM rendelet 7. §-ával megállapított szöveg.

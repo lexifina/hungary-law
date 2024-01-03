@@ -1,8 +1,8 @@
 4. számú melléklet a 18/1997. (X. 11.) KHVM–KTM
 
-együttes rendelethez[^69]
+együttes rendelethez[^71]
 
-## A stratégiai zajtérképezés minimális követelményei
+A stratégiai zajtérképezés minimális követelményei
 
 ## [az R. 4. §-ának (4) bekezdéséhez]
 
@@ -50,4 +50,4 @@ Kiegészítésül közölni kell – ahol van ilyen és a vonatkozó informáci�
 
 Az 55 és 65 dB-es izofon görbéket a falvak, városok agglomerációk elhelyezkedését bemutató egy vagy több térképen is fel kell tüntetni.
 
-[^69]: A 4. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
+[^71]: A 4. számú mellékletet a 36/2004. (III. 31.) GKM–KvVM e. r. 13. §-a iktatta be.
