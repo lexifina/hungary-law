@@ -18,7 +18,7 @@ f) a repülésbiztonság népszerűsítését és a szakmai szintű kommunikáci
 
 g) a méltányossági alapú légiközlekedés-biztonsági kultúra elvének (just culture) érvényesülési elemeire.
 
-(3) A KTI Közlekedéstudományi Intézet Nonprofit Kft. (a továbbiakban: KTI) a Programot az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 1. cikk (1)–(2) bekezdésében és 7. cikkében foglalt céloknak és előírásoknak megfelelően dolgozza ki és tartja fenn. A Programot a Globális Légiközlekedés-biztonsági Tervvel összhangban kell végrehajtani.
+(3)[^1] A KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: KTI) a Programot az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 1. cikk (1)–(2) bekezdésében és 7. cikkében foglalt céloknak és előírásoknak megfelelően dolgozza ki és tartja fenn. A Programot a Globális Légiközlekedés-biztonsági Tervvel összhangban kell végrehajtani.
 
 (4) A Program kidolgozása és fenntartása során
 
@@ -71,3 +71,5 @@ k) az általa esetileg felkért szakértővel.
 (8) A Program fenntartását és a Terv végrehajtását a légiközlekedésben részt vevő szervezetek támogatják, és megvalósulásukat elősegítik.
 
 (9) A közlekedésért felelős miniszter a Programról és a Tervről, valamint azok megvalósulásáról évente tájékoztatja a Légiközlekedés Védelmi Bizottságot.
+
+[^1]: A 3. § (3) bekezdése a 49/2023. (XII. 29.) ÉKM rendelet 1. §-a szerint módosított szöveg.
