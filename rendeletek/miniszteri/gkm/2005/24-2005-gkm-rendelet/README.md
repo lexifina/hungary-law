@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2023-02-21 | 2005-24-20-0L.40 | 1/2019. (I. 7.) ITM rendelet |
 | 2023-06-26 | 2005-24-20-0L.41 | 11/2023. (VI. 23.) ÉKM rendelet |
 | 2023-08-24 | 2005-24-20-0L.42 | 11/2023. (VI. 23.) ÉKM rendelet |
+| 2024-01-03 | 2005-24-20-0L.43 | 1/2019. (I. 7.) ITM rendelet |
