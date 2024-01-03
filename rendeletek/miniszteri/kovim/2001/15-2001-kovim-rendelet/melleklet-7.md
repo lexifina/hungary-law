@@ -108,15 +108,15 @@
 
 ## A tulajdonos aláírása / Unterschrift des Inhabers
 
-## 1.4.[^309]
+## 1.4.[^310]
 
-## 1.5.[^310]
+## 1.5.[^311]
 
-## 1.6.[^311]
+## 1.6.[^312]
 
-## 1.7.[^312]
+## 1.7.[^313]
 
-## 1.8.[^313]
+## 1.8.[^314]
 
 ## 2. Tengerészeti Munkaügyi Egyezmény alapján kiállított bizonyítvány
 
@@ -506,9 +506,9 @@
 
 ## 13. Feltételek – Conditions
 
-7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^314]
+7. számú melléklet a 15/2001. (IV. 27.) KöViM rendelethez[^315]
 
-Függelék a Vizsgaszabályzathoz[^315]
+Függelék a Vizsgaszabályzathoz[^316]
 
 A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek kijelölése
 
@@ -544,10 +544,10 @@ A gyakorlati vizsgához szükséges úszólétesítmények és a vizsgahelyek ki
 
 | – Radarhajós vizsga | – radarhajózásra alkalmas nagyhajó, kishajó vagy komp a képesítés korlátozásának megfelelően (rendelkeznie kell a radarhajózáshoz előírt üzemképes berendezésekkel (URH rádió-készülékkel, fordulásjelzővel, hangjelző berendezés stb.), valamint a hajó vezetésére jogosult radarhajós képesítésű vezetővel; – a hajó kormányállását a vizsga tartamára le kell függönyözni; | – a gyakorlati vizsga elemeiként előírt olyan nyílt folyami vagy tavi vízterület, ahol szűkület és legalább 8 db kitűző jel található, valamint veszteglő úszólétesítmények, továbbá közlekedő hajók várhatók; – legalább egy medencés kikötő, ahová a be- és kihajózás szabad. |
 
-[^309]: A 6. számú melléklet 1. pont 1.4. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
-[^310]: A 6. számú melléklet 1. pont 1.5. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
-[^311]: A 6. számú melléklet 1. pont 1.6. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
-[^312]: A 6. számú melléklet 1. pont 1.7. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
-[^313]: A 6. számú melléklet 1. pont 1.8. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
-[^314]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be, hatályon kívül helyezte a 15/2021. (IV. 9.) ITM rendelet 8. §-a.
-[^315]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.
+[^310]: A 6. számú melléklet 1. pont 1.4. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^311]: A 6. számú melléklet 1. pont 1.5. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^312]: A 6. számú melléklet 1. pont 1.6. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^313]: A 6. számú melléklet 1. pont 1.7. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^314]: A 6. számú melléklet 1. pont 1.8. alpontját a 13/2022. (IV. 14.) ITM rendelet 12. § j) pontja hatályon kívül helyezte.
+[^315]: A 7. számú mellékletet a 3/2008. (VI. 3.) KHEM rendelet 10. § (6) bekezdése iktatta be, hatályon kívül helyezte a 15/2021. (IV. 9.) ITM rendelet 8. §-a.
+[^316]: A 7. számú melléklet függeléke a 29/2014. (V. 5.) NFM rendelet 18. § (6) bekezdésével megállapított szöveg.

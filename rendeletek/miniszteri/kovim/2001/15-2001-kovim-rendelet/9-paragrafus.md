@@ -1,6 +1,6 @@
-## A képesítő okmányok elismerése[^66]
+## A képesítő okmányok elismerése[^67]
 
-9. §[^67] (1) EGT államban szerzett belvízi hajózási képesítés külön eljárás nélkül a képesítésben foglalt szolgálat ellátására jogosít, ha – vonalvizsgához kötött képesítés esetén – annak tulajdonosa az adott víziútszakaszra érvényes vonalvizsgával rendelkezik.
+9. §[^68] (1) EGT államban szerzett belvízi hajózási képesítés külön eljárás nélkül a képesítésben foglalt szolgálat ellátására jogosít, ha – vonalvizsgához kötött képesítés esetén – annak tulajdonosa az adott víziútszakaszra érvényes vonalvizsgával rendelkezik.
 
 (2) Magyar lobogó alatt közlekedő tengeri hajón, az IMO által az STCW Egyezmény Melléklete I/7. szabály 2–3. pontja szerint közzétett listán szereplő EGT államban szerzett, STCW Egyezmény szerinti képesítés jogi hatályát a Magyarországon megszerezhető képesítés jogi hatályával azonosnak ismeri el a hajózási hatóság.
 
@@ -10,5 +10,5 @@
 
 (5) A vezetői szintű szolgálatteljesítésre jogosító és a (2) bekezdés szerint vagy a 9/A. § (1) bekezdése szerint elismert képesítő okmánnyal rendelkező és vezetői beosztásban szolgálatot teljesíteni szándékozó tengerésznek, az érvényesítési eljárás során, a számára engedélyezett feladattal összefüggő tengerészeti és közigazgatási tárgyú magyar jogszabályok ismeretéből a vizsgaközpont által delegált vizsgabizottság előtt sikeres vizsgát kell tennie.
 
-[^66]: A 9. §-t megelőző alcím a 29/2014. (V. 5.) NFM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^67]: A 9. § a 46/2021. (IX. 13.) ITM rendelet 7. §-ával megállapított szöveg.
+[^67]: A 9. §-t megelőző alcím a 29/2014. (V. 5.) NFM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^68]: A 9. § a 46/2021. (IX. 13.) ITM rendelet 7. §-ával megállapított szöveg.
