@@ -1,1 +1,0 @@
-A Kormány a közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés a) pont 15. alpontjában, valamint a szabálysértésekről szóló 1999. évi LXIX. törvény 166. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
