@@ -1,1 +1,0 @@
-A Rendőrségről szóló 1994. évi XXXIV. törvény 101. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
