@@ -14,10 +14,12 @@ ba) gépkezelési gyakorlatot és
 
 bb) munka- és balesetvédelmi ismereteket
 
-## kell oktatni.
+kell oktatni.
 
 (2) A képzés
 
 a) elméleti oktatási részébe tartozó tantárgyat az oktathatja, aki legalább középfokú végzettséggel és az adott tantárgy szakmai tartalmához igazodó, a tantervi és vizsgakövetelményekben meghatározott szakképesítéssel rendelkezik, továbbá
 
-b) gyakorlati oktatási részébe tartozó tantárgyat az oktathatja, aki a gépcsoportba tartozó gép kezeléséhez szükséges gépkezelői jogosítvánnyal és legalább kétéves időtartamú gépkezelési gyakorlattal rendelkezik.
+b)[^2] gyakorlati oktatási részébe tartozó tantárgyat az oktathatja, aki legalább középfokú végzettséggel, továbbá az adott gépkategória (1–5) bármely gépcsoportjába tartozó gép kezeléséhez szükséges gépkezelői jogosítvánnyal vagy szakirányú OKJ szakképesítéssel és legalább kétéves időtartamú gépkezelési gyakorlattal rendelkezik.
+
+[^2]: A 4. § (2) bekezdés b) pontja a 48/2023. (XII. 29.) ÉKM rendelet 1. § b) pontja szerint módosított szöveg.

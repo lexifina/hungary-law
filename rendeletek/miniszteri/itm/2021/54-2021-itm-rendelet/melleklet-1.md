@@ -1,6 +1,6 @@
 ## 12. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^4]
+1. melléklet az 54/2021. (XI. 5.) ITM rendelethez[^6]
 
 Gépkezelői jogosítvány alapján kezelhető gépek
 
@@ -224,4 +224,4 @@ Gépkezelői jogosítvány alapján kezelhető gépek
 
 | 109. | 5681 |  |  | Útkorona átfúró berendezés |
 
-[^4]: Az 1. melléklet a 9/2022. (VIII. 1.) TIM rendelet 71. §-a szerint módosított szöveg.
+[^6]: Az 1. melléklet a 9/2022. (VIII. 1.) TIM rendelet 71. §-a szerint módosított szöveg.
