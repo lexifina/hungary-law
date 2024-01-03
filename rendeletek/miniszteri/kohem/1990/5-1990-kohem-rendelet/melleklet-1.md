@@ -1,5 +1,3 @@
-## végrehajtásához szükséges rendelkezéseket állapít meg.
+1. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^416]
 
-1. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^417]
-
-[^417]: Az 1. számú melléklet a 66/2009. (XI. 27.) KHEM rendelet 23. § (1) bekezdésével megállapított, a 62/2011. (XI. 29.) NFM rendelet 14. § (1) bekezdése, a 72/2015. (XII. 29.) NFM rendelet 7. §-a, 8. § b) pontja, a 28/2018. (XI. 15.) ITM rendelet 8. § h)–i) pontja szerint módosított szöveg.
+[^416]: Az 1. számú melléklet a 66/2009. (XI. 27.) KHEM rendelet 23. § (1) bekezdésével megállapított, a 62/2011. (XI. 29.) NFM rendelet 14. § (1) bekezdése, a 72/2015. (XII. 29.) NFM rendelet 7. §-a, 8. § b) pontja, a 28/2018. (XI. 15.) ITM rendelet 8. § h)–i) pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 (2)[^107] A forgalomba helyezés előtti vizsgálat elvégzését általános, sorozat, illetőleg egyedi forgalomba helyezési engedély alapján kell kérni a közlekedési hatóságtól. Az egyedi forgalomba helyezés engedélyezése és a forgalomba helyezés előtti vizsgálat elvégzése összevontan, egy eljárásban is lefolytatható.
 
-(3)[^108]
+(3)[^108] Muzeális jellegű jármű forgalomba helyezés előtti vizsgálatát – egyedi forgalomba helyezési engedély nélkül – a muzeális minősítését tanúsító muzeális jármű-igazolás alapján kell elvégezni.
 
 (4)[^109] A közlekedési hatóság engedélye alapján nem kell forgalomba helyezés előtti vizsgálatra bemutatni azt az új járművet, amelyet a teljes járműre kiadott EK típusjóváhagyás alapján a gyártója, vagy a gyártót képviselő hazai forgalmazó értékesít, ha
 
@@ -50,7 +50,7 @@ b) a megkülönböztető- és figyelmeztető jelzést adó készülékek felszer
 
 [^106]: A 10. § (1) bekezdése az 55/2017. (XII. 27.) NFM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^107]: A 10. § (2) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^108]: A 10. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § f) pontja hatályon kívül helyezte.
+[^108]: A 10. § (3) bekezdését az 55/2017. (XII. 27.) NFM rendelet 5. § f) pontja hatályon kívül helyezte, újonnan a 26/2023. (XII. 29.) ÉKM rendelet 1. §-a iktatta be.
 [^109]: A 10. § (4) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 9. §-ával megállapított szöveg.
 [^110]: A 10. § (4) bekezdés a) pontja a 10/2023. (VI. 2.) ÉKM rendelet 1. §-a szerint módosított szöveg.
 [^111]: A 10. § (4a) bekezdését a 18/2013. (V. 9.) NFM rendelet 5. §-a iktatta be, szövege a 72/2015. (XII. 29.) NFM rendelet 1. §-ával megállapított szöveg.

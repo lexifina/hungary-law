@@ -2,7 +2,7 @@
 
 ## A minősítő jel négyzetbe írt, nyomtatott, álló nagy H betű. A négyzet és a betű mérete arányos a jelzéssel ellátott pótalkatrész, illetőleg tartozék méretével, de a négyzet oldalhosszúsága 6 mm-nél kevesebb nem lehet. A minősítő jel mellett feltüntetendő a minősítő vizsgálatot végző intézmény megfelelőséget tanúsító vizsgálati jelentésének száma.
 
-5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^420]
+5. számú melléklet az 5/1990. (IV. 12.) KöHÉM rendelethez[^419]
 
 A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei, technológiája és ügyrendje
 
@@ -12,127 +12,23 @@ A forgalomba helyezés előtti és az időszakos vizsgálat tárgyi feltételei,
 
 1.0.1. A vizsgálatokra adott esetben mobil vizsgáló állomások is igénybe vehetők.
 
-1.0.2. A szükséges vizsgálóberendezések az 1. táblázatban foglaltak szerint, a vizsgált jármű járműkategóriájától és a jármű kialakításától függenek.
+1.0.2. A vizsgálóállomáson biztosítandó, szükséges vizsgálóberendezések az 1. táblázatban foglaltak szerint, e mellékletben foglalt eltérések figyelembevételével, a vizsgált jármű járműkategóriájától és a jármű egyedi kialakításától függenek.
 
 1.0.3. A fékvizsgálatra vonatkozó rendelkezéseket a 11. számú melléklet szerinti fékvizsgálati előírásoknak megfelelően kell elvégezni.
 
 1.0.4. A létesítményeknek és a berendezéseknek az 1.1–1.19. pontban meghatározott követelményeknek kell megfelelniük.
 
-1.0.5. Átmeneti rendelkezések: Az 1.2-1.19. pontban meghatározott létesítményekre és berendezésekre vonatkozó adott követelményt 2022. december 31-ig nem kell alkalmazni az esetben, ha teljesül az 1.0.5.1-1.0.5.20. pontban meghatározott minimum feltétel:
-
-1.0.5.1. Vizsgálóakna, amely rendelkezik:
-
-1.0.5.1.1. gépi működtetésű aknaperem-emelővel,
-
-1.0.5.1.2. kiegészítő eszközzel a független kerékfelfüggesztésű tengelyek terheletlen állapotú vizsgálatához, és
-
-1.0.5.1.3. a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mozgatópaddal).
-
-1.0.5.2. Görgős fékerőmérő berendezés
-
-1.0.5.3. Mérő-adatgyűjtő berendezés a jármű légfékrendszerének ellenőrzéséhez nyomásérzékelőkkel legyen ellátva, időkésedelem mérésre is alkalmas kivitelben, a mérési adatokat értékelő számítógépes programmal és tárolással.
-
-Az időszakos vizsgálathoz alkalmazható mérő-adatgyűjtő berendezésre vonatkozó további, részletes műszaki jellemzőket, a légfékrendszer vizsgálati technológiáját és a vizsgálati eredmények egységes értékelési módszerét a közlekedésért felelős miniszter állapítja meg, amelyet a közlekedési hatóság honlapján közzétesz.
-
-1.0.5.4. Fényszóró ellenőrző készülék
-
-1.0.5.5. Gázelemző műszer:
-
-1.0.5.5.1. a mérésügyi szerv által I. vagy 0 osztályba sorolt, az infravörös fényelnyelés elvén működő, a kipufogógáz legalább négy komponensét (CO, CH, O2, CO2) mérő és a lambda-értéket kijelző, motorolaj hőmérsékletmérővel szerelt műszer, nyomtatási és számítógépes csatlakozási lehetőséggel,
-
-1.0.5.5.2. infravörös fényelnyelés elvén működő CO (%) és CH (ppm) tartalmat mérő, a mérésügyi szerv által a II. osztályba sorolt műszer,
-
-1.0.5.5.3. infravörös fényelnyelés elvén működő kipufogógáz CO (%) tartalmat mérő műszer.
-
-Megjegyzés: Az 1.0.5.5.1. pontban meghatározott műszer biztosítása esetén az 1.0.5.5.2. pont szerinti gázelemző műszer biztosítása nem szükséges.
-
-1.0.5.6. Füstölésmérő berendezés
-
-A füstölésmérő berendezés jellemzői:
-
-1.0.5.6.1. a kipufogógázok fényátvilágítása elvén működik,
-
-1.0.5.6.2. a kipufogócsőből vett minta alapján mér (mintavételes elven működik),
-
-1.0.5.6.3. időállandója: T90 = 900 ms és 1100 ms közötti értékű,
-
-1.0.5.6.4. motorolaj hőmérsékletmérővel szerelt,
-
-1.0.5.6.5. nyomtatási és számítógépes csatlakozási lehetőséggel rendelkezik.
-
-1.0.5.7. Fordulatszámmérő
-
-A kipufogógáz szennyezőanyag tartalmának méréséhez, valamint a zajméréshez, a vizsgált gépkocsi motorjának működési rendszerétől függően külső gyújtású benzin- és/vagy kompressziós gyújtású (dízel) motorokhoz egyaránt.
-
-1.0.5.8. Zajmérő berendezés: Precíziós hangnyomásszint mérő készülék, amely rendelkezik beépített „A” súlyozó szűrővel.
-
-1.0.5.9. Lengéscsillapító vizsgáló próbapad
-
-1.0.5.10. Pótkocsi elektromos-csatlakozóaljzat ellenőrző készülék
-
-1.0.5.11. Pótkocsi fékvezérlő levegőnyomását ellenőrző műszer
-
-1.0.5.12. Etalon gömbfej
-
-1.0.5.13. Tolómérő. A tolómérő idomszerekkel helyettesíthető, amelyek a vizsgált járműkategóriákba tartozó járművekre szerelt vonógömb vagy a csapos vonóberendezés, vonószem, valamint a nyeregszerkezet ellenőrzéséhez készültek.
-
-1.0.5.14. Mélységmérő: A gumiabroncs-bordázat mélységének vizsgálatához szükséges kivitelben.
-
-1.0.5.15. Fénymérő: A fényelnyelő réteggel bevont, fóliázott üvegek vizsgálatához
-
-1.0.5.15.1. állvánnyal és fényforrással, vagy
-
-1.0.5.15.2. a fényáteresztő képesség közvetlen mérésére és kijelzésére gyártott - saját belső fényforrással rendelkező -
-
-hitelesített mérőberendezéssel.
-
-1.0.5.16. A vizsgálathoz szükséges egyéb eszközök:
-
-1.0.5.16.1. mérőszalag (2 m és 20 m hosszúságú), stopperóra, kézilámpa (szerelőlámpa és zseblámpa), nagyító, kézitükör, csiszolóvászon, drótkefe, tisztítórongy,
-
-1.0.5.16.2. gumiabroncs légnyomását ellenőrző- és töltő műszer,
-
-1.0.5.16.3. mechanikai vizsgáló eszközök: feszítővas, csavarhúzó, kalapács,
-
-1.0.5.16.4. UV-lámpa,
-
-1.0.5.16.5. kézi gázszivárgás-ellenőrző.
-
-1.0.5.17. Menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés: A menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés legyen alkalmas a járműbe épített berendezés működésének és beszabályozási jellemzőinek a járműből történő kiszerelés nélküli vizsgálatára
-
-1.0.5.18. A közlekedési hatóság informatikai rendszeréhez való csatlakozás feltételei
-
-1.0.5.18.1. telephelyenként különböző publikus internet felől fix IP cím,
-
-1.0.5.18.2. internet böngésző program (Internet Explorer 10.x.),
-
-1.0.5.18.3. Windows, vagy azzal egyenértékű rendszerek,
-
-1.0.5.18.4. Acrobat Reader 8.x.
-
-1.0.5.18.5. Számítógép (Win7 futtatására alkalmas legalább 2 Gb Ram, 100 Gb háttértár, 4 db USB 2.0 port, Operációs rendszer és környezete: Windows 7, JRE1.8_1x, Monitor 17" TFT - 1280*1024), 600 dpi lézernyomtató, 1200dpi scanner twain kompatibilis driverrel, billentyűzet, pufferes vonalkód olvasó, digitális fényképezőgép, vizsgasori fékpad szoftver által vezérelt digitális kép (640*480 jpeg) készítésére alkalmas eszköz.
-
-1.0.5.19. Az 1.0.5.2., az 1.0.5.9., az 1.0.5.5.1. pontban és az 1.0.5.6. pontban felsorolt műszereknek a közlekedési hatóság informatikai rendszeréhez való illesztését biztosítani kell.
-
-1.0.5.20. Kizárólag motorkerékpárok tanúsítását végző vizsgálóállomások esetén vizsgálóakna nem szükséges. A gépkocsi vizsgálata esetén a 1.0.5.1. pont szerinti vizsgálóakna helyettesíthető olyan gépi működtetésű emelőpaddal (oszlopos vagy ollós emelővel), amely rendelkezik:
-
-a) a vizsgálószemély részére szolgáló feljáróval,
-
-b) gépi működtetésű kiegészítő emelővel,
-
-c) kiegészítő eszközzel a független kerékfelfüggesztésű tengelyek terheletlen állapotú vizsgálatához, és
-
-d) a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mozgatópaddal).
+1.0.5.
 
 1.1. Vizsgálólétesítmény
 
-1.1.1. A forgalomba helyezés előtti és az időszakos vizsgálat végzéséhez az 1. táblázatban meghatározott tárgyi feltételekről a vizsgáló állomás üzemeltetője gondoskodik.
+1.1.1. A forgalomba helyezés előtti és az időszakos vizsgálat végzéséhez az 1. táblázatban, illetve e mellékletben meghatározott tárgyi feltételekről – az 1.0.2. pontban foglaltak figyelembevételével – a vizsgáló állomás üzemeltetője gondoskodik.
 
-1.1.2. A jármű forgalomba helyezés előtti és időszakos vizsgálata csak olyan vizsgáló állomáson végezhető, amely megfelel a külön jogszabályokban meghatározott (munkavédelmi, tűzvédelmi, közegészségügyi stb.) előírásoknak, továbbá rendelkezik az 1. táblázatban meghatározott, a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben meghatározott műszaki jellemzőkkel rendelkező vizsgáló eszközökkel.
+1.1.2. A jármű forgalomba helyezés előtti és időszakos vizsgálata csak olyan vizsgáló állomáson végezhető, amely megfelel a külön jogszabályokban meghatározott (munkavédelmi, tűzvédelmi, közegészségügyi, munkaegészségügyi) előírásoknak, továbbá rendelkezik az 1. táblázatban és az e rendeletben, valamint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendeletben meghatározott műszaki jellemzőkkel rendelkező vizsgáló eszközökkel.
 
-1.1.3. A vizsgáló állomáson az 1. táblázatban meghatározott vizsgáló eszközök közül csak az elvégzendő vizsgálat fajtájához (forgalomba helyezés előtti vagy időszakos vizsgálat), a meghatározott technológia szerinti vizsgálatához szükséges eszközzel (berendezéssel, műszerrel) kell rendelkezni.
+1.1.3. A vizsgáló állomáson az 1. táblázatban, illetve e mellékletben meghatározott vizsgáló eszközök közül csak az elvégzendő vizsgálati eljáráshoz (forgalomba helyezés előtti vagy időszakos vizsgálat), a vizsgált jármű egyedi kialakításától függő, a meghatározott technológia szerinti vizsgálatához és a közlekedési hatósági műszaki vizsgálatokhoz kapcsolódó egyéb eljárásokhoz szükséges eszközzel (berendezéssel, műszerrel) kell rendelkezni.
 
-1.1.4. A vizsgáló állomáson csak az 1. táblázatban meghatározott munkavédelmi, telepítési, valamint mérésügyi szempontból kifogástalan, a gyártó utasítása szerint rendszeresen karbantartott mérőeszköz használható.
+1.1.4. A vizsgáló állomáson csak az 1. táblázatban, illetve e mellékletben meghatározott munkavédelmi, telepítési, valamint mérésügyi szempontból kifogástalan, a gyártó utasítása szerint rendszeresen karbantartott mérőeszköz használható.
 
 1.1.5. A mérőeszközök hitelesítésének, kalibrálásának (pontosság ellenőrzésének) dokumentumait a helyszínen kell tárolni.
 
@@ -140,9 +36,9 @@ d) a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mo
 
 1.1.7. A vizsgáló állomáson biztosítani kell a vizsgabiztos számára a tevékenység végzéséhez, valamint az ügyfelek fogadásához a megfelelő, akadálymentesített körülményeket. Gondoskodni kell továbbá az adminisztrációs tevékenység végzéséhez szükséges informatikai eszközökről, megfelelően zárható helyiségről és a hatósági eszközök biztonságos tárolásáról.
 
-1.1.8. A vizsgáló állomás vizsgáló terének belső méreteit úgy kell kialakítani és a kiszolgáló berendezéseket (kipufogógáz-elszívó, szellőztető, fűtő) úgy kell telepíteni, hogy a teljes járművizsgálat (szükségessé váló menetpróba, sebesség- vagy lassulásmérés, illetve zajmérés kivételével) egész évben zárt térben (helyiségben) végrehajtható legyen. A túlméretes, illetve a hosszúsági méretükben a jogszabályi határértéket megközelítő járművek, járműszerelvények vizsgálata során a vizsgálat egyes műveletei – nyitott ajtók mellett, de a jármű közterületre kinyúlása nélkül is – elvégezhetők.
+1.1.8. A vizsgáló állomás vizsgáló terének belső méreteit úgy kell kialakítani és a kiszolgáló berendezéseket (kipufogógáz-elszívó, szellőztető, fűtő) úgy kell telepíteni, hogy a teljes járművizsgálat (szükségessé váló menetpróba, sebesség- vagy lassulásmérés, illetve zajmérés kivételével) egész évben zárt térben (helyiségben) végrehajtható legyen. A túlméretes, a hosszúsági méretükben a jogszabályi határértéket megközelítő, valamint 3,5 t megengedett legnagyobb össztömeget meghaladó járművek, járműszerelvények vizsgálata során a vizsgálat egyes műveletei nyitott ajtók mellett – a mérőműszerek megfelelő működéséhez szükséges hőmérséklet és csapadék elleni védelem biztosításával, de a jármű közterületre kinyúlása nélkül is – elvégezhetők.
 
-1.1.9. A járművek forgalomba helyezés előtti- és időszakos vizsgálata csak azon a vizsgáló állomáson végezhető, amely a közlekedési hatóság információs rendszerével való adatcseréhez rendelkezik legalább 1024 Kbit/sec sávszélességű internetkapcsolattal, publikus internet felől fix IP-címmel, valamint az adatcserét végző számítástechnikai eszközökkel.
+1.1.9. A járművek forgalomba helyezés előtti és időszakos vizsgálata csak azon a vizsgáló állomáson végezhető, amely a közlekedési hatóság információs rendszerével való adatcseréhez rendelkezik legalább 1024 Kbit/sec sávszélességű internetkapcsolattal, telephelyenként különböző publikus internet felől fix IP-címmel, valamint az adatcserét végző, a közlekedési hatóság honlapján közzétett minimális paramétereknek megfelelő számítástechnikai eszközökkel
 
 1.1.10. Az 1.3., az 1.4., az 1.7. pontban, az 1.10. pont a) alpontjában, az 1.11., 1.14., és az 1.16. pontban felsorolt műszereknek a közlekedési hatóság informatikai rendszeréhez való illesztését biztosítani kell.
 
@@ -160,7 +56,7 @@ e) az 1.18. pont g) alpontja szerinti tolómérőt, valamint
 
 f) a 1.13. pont szerinti mélységmérőt.
 
-1.1.12. Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2. b) alpontja, az 1.3. pont szerinti pótkocsi fékvezérlő levegőnyomásának ellenőrző mérésére való alkalmasság, az 1.6. pont szerinti mérő-adatgyűjtő berendezés, az 1.8., az 1.9–1.11., az 1.14–1.17. pontban, valamint az 1.18. pont d)–g) alpontjában meghatározottak teljesítése.
+1.1.12. Kizárólag trolibuszok tanúsítását végző vizsgálóállomások esetén nem szükséges az 1.2. b) alpontja, az 1.3. pont szerinti pótkocsi fékvezérlő levegőnyomásának ellenőrző mérésére való alkalmasság, az 1.6. pont szerinti mérő-adatgyűjtő berendezés, az 1.8., az 1.9–1.11., az 1.14–1.16. pontban, valamint az 1.18. pont d)–g) alpontjában meghatározottak teljesítése.
 
 1.1.13. A 1. pontban felsorolt vizsgáló eszközök megváltozását a vizsgálati technológiában történő alkalmazásba vétele előtt – jóváhagyás végett – a közlekedési hatóságnak be kell jelenteni.
 
@@ -172,7 +68,7 @@ b) az 1.3., illetve 1.4. pontban meghatározott görgős fékerőmérő berendez
 
 c) az 1.18. pont j) alpontjában meghatározott informatikai rendszerhez való csatlakozás feltételeit a közlekedési hatóság biztosítja,
 
-d) nem kell biztosítani az 1.6. pont szerinti mérő-adatgyűjtő, az 1.8–1.12., 1.14–1.17. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
+d) nem kell biztosítani az 1.6. pont szerinti mérő-adatgyűjtő, az 1.8–1.12., 1.14–1.16. pontban, az 1.18. pont f) és h) alpontjában meghatározott eszközöket.
 
 1.1.15. Bármely az 1.2–1.18. pontban meghatározott készülékek egy készülékké egyesíthetők, amennyiben ez nem befolyásolja az egyes készülékek mérési pontosságát.
 
@@ -194,9 +90,11 @@ c) kiegészítő eszközzel a független kerékfelfüggesztésű tengelyek terhe
 
 d) a vizsgáló által vezérelt, gépi működtetésű futómű mozgatóval (mozgatópaddal).
 
+1.2.1. A kizárólag motorkerékpárok vizsgálatát végző vizsgálóállomások esetén vizsgálóakna nem szükséges.
+
 1.3. A 3,5 tonna feletti megengedett legnagyobb össztömegű járművek fékrendszereinek vizsgálatára alkalmas görgős fékerőmérő berendezés, a görgős fékerőmérő próbapadok műszaki követelményeire vonatkozó 21069-1 ISO szabvány A. melléklete vagy ezzel egyenértékű műszaki megoldás szerinti, a fékerő, a légfékrendszerekben lévő légnyomás, és a pótkocsi fékvezérlő levegőnyomásának ellenőrző mérésére, kijelzésére és tárolására alkalmas görgős fékerőmérő próbapad (a vizsgált jármű tulajdonságaitól függően az álló helyzeti rögzítőfék méréshez szükséges, az összkerékhajtású, a hibrid és az elektromos járművek konstrukciós kialakításától függő kiegészítő eszközökkel).
 
-1.4. A 3,5 tonnát meg nem haladó össztömegű járművek esetében a fékerő és a pedálerő ellenőrző mérésére és tárolására szolgáló funkciókkal rendelkező görgős fékerőmérő próbapad (a vizsgált jármű tulajdonságaitól függően az álló helyzeti rögzítőfék méréshez szükséges, az összkerékhajtású, a hibrid és az elektromos járművek konstrukciós kialakításától függő kiegészítő eszközökkel).
+1.4. A 3,5 tonnát meg nem haladó össztömegű járművek esetében a fékerő és a pedálerő ellenőrző mérésére és tárolására szolgáló funkciókkal rendelkező görgős fékerőmérő próbapad (a vizsgált jármű tulajdonságaitól függően az álló helyzeti rögzítőfék méréshez szükséges, az összkerékhajtású, a hibrid és az elektromos járművek konstrukciós kialakításától függő kiegészítő eszközökkel). Személygépkocsi vizsgálatára (is) alkalmas próbapad helyett a motorkerékpár fékhatásossága vizsgálata kifejezetten erre a célra kialakított önálló próbapadon is elvégezhető. A próbapadnak L kategóriájú járművek vizsgálata esetén a biztonságos mérés végrehajtásához kiegészítő eszközökkel (görgő fedlap a vizsgálathoz nem szükséges görgőpárhoz, vezető görgő a fékezett kerékhez, nem fékezett kerék rögzítésére szolgáló berendezés) kell rendelkeznie. L kategóriájú járművek vizsgálatához használható olyan berendezés is, amely csak motorkerékpárok fékhatás mérésére alkalmas és rendelkezik az előzőekben felsorolt biztonsági elemekkel.
 
 1.5. Adattárolós, és adattovábbításra alkalmas – a pótkocsi fékkivezérlést is tároló – lassulásmérő berendezés az olyan vizsgáló állomáson ahol lassújármű, a mezőgazdasági vontató és pótkocsijaik, trolibusz, valamint olyan jármű vizsgálatát végzik, amelynél a jármű konstrukciós kialakítása nem teszi lehetővé a 1.3., illetve 1.4. pont szerinti berendezéssel történő mérést. (A nem folyamatosan mérő eszközöknek másodpercenként legalább tízszer kell feljegyeznie/tárolnia a mérési adatokat).
 
@@ -208,7 +106,7 @@ A légfékes, 3,5 tonna megengedett legnagyobb össztömeget meghaladó, nemzetk
 
 1.8. A tengelyfelfüggesztést a tengely megemelése nélkül vizsgáló készülék (Futómű-mozgató pad), amely megfelel az alábbi követelményeknek:
 
-a) a készüléknek rendelkeznie kell legalább két, hosszanti és keresztirányban oda-vissza mozgatható, gépi meghajtású, a felületén csúszásgátló bevonattal ellátott lappal;
+a) a készüléknek rendelkeznie kell legalább két, hosszanti és keresztirányban oda-vissza mozgatható, gépi meghajtású, a felületén csúszásgátló kivitelű lappal, ezzel egyenértékűnek elfogadható, ha az egyik oldal hosszanti és keresztirányban oda-vissza mozgatható, a másik oldal pedig forgatásra alkalmas;
 
 b) a lapok mozgását a kezelő vizsgálóállásból irányíthatja;
 
@@ -254,7 +152,7 @@ Fordulatszámmérő a kipufogógáz szennyezőanyag tartalmának méréséhez, a
 
 1.13. Mélységmérő
 
-A gumiabroncsok futófelületének gumiabroncs-bordázat mélységének vizsgálatához szükséges kivitelben.
+A gumiabroncsok futófelületének gumiabroncs-bordázat mélységének vizsgálatához szükséges kivitelben. A mélységmérő helyettesíthető mélységmérő funkcióval rendelkező tolómérővel.
 
 1.14. Az elektronikus jármű-interfészhez csatlakoztatható OBD kiolvasó eszköz. Amennyiben az OBD kiolvasó eszköz nem alkalmas a személygépkocsik és a könnyű haszongépjárművek szén-dioxid-kibocsátásával kapcsolatos adatok (EU) 2019/631 európai parlamenti és tanácsi rendelet szerinti nyomon követéséről és bejelentéséről, valamint az 1014/2010/EU, a 293/2012/EU, az (EU) 2017/1152 és az (EU) 2017/1153 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2021. március 4-i (EU) 2021/392 bizottsági végrehajtási rendelet által meghatározott adatok kiolvasására, a vizsgálóállomás a 2021. január 1-jét követően forgalomba helyezett, az (EU) 2021/392 bizottsági végrehajtási rendelet hatálya alá tartozó járművek vizsgálatát nem végezheti.
 
@@ -262,9 +160,7 @@ A gumiabroncsok futófelületének gumiabroncs-bordázat mélységének vizsgál
 
 1.16. Lengéscsillapító vizsgáló próbapad, amely a maradó talperő mérése alapján értékeli a lengéscsillapítást [csak a gépkocsik és az általuk vontatható lakópótkocsik vizsgálatát (is) végző vizsgáló állomáson kell biztosítani].
 
-1.17. Menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés
-
-A menetíró (tachográf) és sebességkorlátozó ellenőrző berendezés legyen alkalmas a járműbe épített berendezés működésének és beszabályozási jellemzőinek a járműből történő kiszerelés nélküli vizsgálatára. Az ellenőrző berendezésre vonatkozó részletes műszaki követelményeket a közlekedésért felelős miniszter szakmai iránymutatás keretében határozza meg. [A 3,5 t megengedett legnagyobb össztömeget, illetve járműszerelvény együttes össztömeget meghaladó tehergépkocsik és az autóbuszok – megengedett legnagyobb össztömegtől függetlenül – vizsgálatát (is) végző vizsgáló állomáson kell biztosítani.]
+1.17.
 
 1.18. A vizsgálathoz szükséges egyéb eszközök amennyiben a jármű vizsgálatához szükséges:
 
@@ -280,7 +176,7 @@ e) pótkocsi elektromos-csatlakozóaljzat ellenőrző készülék,
 
 f) etalon gömbfej,
 
-g) tolómérő,
+g) tolómérő, a tolómérő idomszerekkel helyettesíthető, amelyek a vizsgált járműkategóriákba tartozó járművekre szerelt vonógömb, vagy a csapos vonóberendezés, vonószem, valamint a nyeregszerkezet ellenőrzéséhez készültek,
 
 h) fénymérő a fényelnyelő réteggel bevont, fóliázott üvegek vizsgálatához állvánnyal és fényforrással, vagy a fényáteresztő képesség közvetlen mérésére és kijelzésére gyártott – saját belső fényforrással rendelkező mérőberendezéssel,
 
@@ -290,95 +186,99 @@ j) a közlekedési hatóság informatikai rendszeréhez való csatlakozáshoz sz
 
 k) a DOT 3, DOT 4, DOT 4 Plus és DOT 5.1. fékfolyadék pontos forráspontját °C-ban, ±5% pontossággal meghatározni képes fékfolyadék-forráspont ellenőrző,
 
-l) a hibrid és elektromos jármű villamos biztonságának vizsgálatára alkalmas készülék.
+l) a hibrid és elektromos jármű villamos biztonságának vizsgálatára alkalmas készülék, azokon a vizsgáló állomásokon, ahol hibrid vagy elektromos jármű forgalomba helyezés előtti műszaki vizsgálatát (is) végez a vizsgáló állomás,
 
 1.19. Mérésügyi előírások
 
-Az 1.1–1.6., 1.8. és 1.10–1.17. pontokban meghatározott egyes eszközök mérésügyi megfelelőségének ellenőrzése kapcsán követelmény, hogy két egymást követő ellenőrzés között nem telhet el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet a 7. számú mellékletében meghatározott időszak.
+Az 1.1–1.6., 1.8. és 1.10–1.16. pontban meghatározott egyes eszközök mérésügyi szempontból akkor tekinthető megfelelőnek, ha a legutóbbi ellenőrzés óta nem telt el több idő, mint a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet a 7. számú mellékletében meghatározott időszak.
 
-Az 1.7. pontban meghatározott kerék- vagy tengelyterhelést mérő készülék esetében 6 hónap, az 1.9. pontban meghatározott zajszintmérő készülék esetében 24 hónap.
+Az ellenőrzési periódus az 1.9. pontban meghatározott zajszintmérő készülék esetében 24 hónap.
 
-Az 1.18. pontban meghatározott mérőeszközök esetében – amennyiben a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet, a mérésügyről szóló törvény, vagy annak végrehajtásáról szóló kormányrendelet másképp nem rendelkezik – a vizsgáló állomás által meghatározott időszak.
+Az 1.18. pontban – ide nem értve a c), d), e) és j) alpontban szereplő eszközöket – meghatározott mérőeszközök esetében az ellenőrzési periódus – amennyiben a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló miniszteri rendelet, a mérésügyről szóló törvény, vagy annak végrehajtásáról szóló kormányrendelet másképp nem rendelkezik – a mérőeszköz gyártója által meghatározott, annak hiányában 60 hónap.
 
 1. táblázat
 
-|  |  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V |
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M | N | O | P | Q | R | S | T | U | V |
 
-|  | 1. | A műszaki vizsgálat elvégzése céljából minimálisan előírt berendezések |
+| 1. | A műszaki vizsgálat elvégzése céljából minimálisan előírt berendezések |
 
-|  | 2. | Járművek | Kategória | Előírt berendezések 1.1–1.18. pontban felsoroltak szerint |
+| 2. | Járművek | Kategória | Előírt berendezések 1.1–1.18. pontban felsoroltak szerint |
 
-|  | 3. |  | Maximális tömeg |  | 1.1. | 1.2. | 1.3. | 1.4. | 1.5. | 1.6. | 1.7. | 1.8. | 1.9. | 1.10. | 1.11. | 1.12. | 1.13. | 1.14. | 1.15. | 1.16. | 1.17. | 1.18. |
+| 3. |  | Maximális tömeg |  | 1.1. | 1.2. | 1.3. | 1.4. | 1.5. | 1.6. |  | 1.8. | 1.9. | 1.10. | 1.11. | 1.12. | 1.13. | 1.14. | 1.15. | 1.16. |  | 1.18. |
 
-|  | 4. | 1. Motor- kerékpárok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 4. | 1. Motorkerékpárok |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 5. |  |  | L1e | P | x |  |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 5. |  |  | L1e | P | x |  |  |  |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 6. |  |  | L3e, L4e | P | x |  |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 6. |  |  | L3e, L4e | P | x |  |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 7. |  |  | L3e, L4e | D | x |  |  |  |  |  |  |  | x |  | x | x | x | x |  |  |  | x |
+| 7. |  |  | L3e, L4e | D | x |  |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 8. |  |  | L2e | P | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 8. |  |  | L2e | P | x | x |  |  |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 9. |  |  | L2e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |  |  | x |
+| 9. |  |  | L2e | D | x | x |  |  |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 10. |  |  | L5e | P | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 10. |  |  | L5e | P | x | x |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 11. |  |  | L5e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |  |  | x |
+| 11. |  |  | L5e | D | x | x |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 12. |  |  | L6e | P | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 12. |  |  | L6e | P | x | x |  |  |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 13. |  |  | L6e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |  |  | x |
+| 13. |  |  | L6e | D | x | x |  |  |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 14. |  |  | L7e | P | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |  |  | x |
+| 14. |  |  | L7e | P | x | x |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 15. |  |  | L7e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |  |  | x |
+| 15. |  |  | L7e | D | x | x |  | x |  |  |  |  | x |  |  | x | x |  |  |  |  | x |
 
-|  | 16. | 2. Személy- gépjárművek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 16. | 2. Személygépjárművek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 17. |  | 3 500 kg-ig | M1, M2 | P | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x | x | x | x |
+| 17. |  | 3 500 kg-ig | M1, M2 | P | x | x |  | x |  |  |  | x | x | x |  | x | x | x | x | x |  | x |
 
-|  | 18. |  | 3 500 kg-ig | M1, M2 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x | x | x | x | x |
+| 18. |  | 3 500 kg-ig | M1, M2 | D | x | x |  | x |  |  |  | x | x |  | x | x | x | x | x | x |  | x |
 
-|  | 19. |  | > 3 500 kg | M2, M3 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  | x | x |
+| 19. |  | > 3 500 kg | M2, M3 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  |  | x |
 
-|  | 20. |  | > 3 500 kg | M2, M3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
+| 20. |  | > 3 500 kg | M2, M3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  |  | x |
 
-|  | 21. | 3. Teher-gépjárművek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 21. | 3. Tehergépjárművek |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 22. |  | 3 500 kg-ig | N1 | P | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x | x | x | x |
+| 22. |  | 3 500 kg-ig | N1 | P | x | x |  | x |  |  |  | x | x | x |  | x | x | x | x | x |  | x |
 
-|  | 23. |  | 3 500 kg-ig | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x | x | x | x | x |
+| 23. |  | 3 500 kg-ig | N1 | D | x | x |  | x |  |  |  | x | x |  | x | x | x | x | x | x |  | x |
 
-|  | 24. |  | > 3 500 kg | N2, N3 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  | x | x |
+| 24. |  | > 3 500 kg | N2, N3 | P | x | x | x |  | x |  | x | x | x | x |  | x | x | x | x |  |  | x |
 
-|  | 25. |  | > 3 500 kg | N2, N3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
+| 25. |  | > 3 500 kg | N2, N3 | D | x | x | x |  | x |  | x | x | x |  | x | x | x | x | x |  |  | x |
 
-|  | 26. | 4. Az N kategóriából származtatott különleges gépjárművek, valamint a T1b, T2b, T3b, T4.1b, T4.2b, T4.3b és T5 járműkategória |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 26. | 4. Az N kategóriából származtatott különleges gépjárművek, valamint a 40 km/h feletti tervezési sebességű mezőgazdasági vontatók |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-|  | 27. |  | 3 500 kg-ig | N1 | P | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x | x | x | x |
+| 27. |  | 3 500 kg-ig | N1 | P | x | x |  | x |  |  |  | x | x | x |  | x | x | x | x | x |  | x |
 
-|  | 28. |  | 3 500 kg-ig | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x | x | x | x | x |
+| 28. |  | 3 500 kg-ig | N1 | D | x | x |  | x |  |  |  | x | x |  | x | x | x | x | x | x |  | x |
 
-|  | 29. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | P | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |  | x | x |
+| 29. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | P | x | x | x |  | x |  | x | x | x | x |  | x | x | x | x |  |  | x |
 
-|  | 30. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x | x |  | x | x |
+| 30. |  | > 3 500 kg | N2, N3, T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 | D | x | x | x |  | x |  | x | x | x |  | x | x | x | x | x |  |  | x |
 
-|  | 31. | 5. Pótkocsik | 750 kg-ig | O1 |  | x |  |  |  |  |  |  |  |  |  |  |  | x |  |  | x |  | x |
+| 31. | 5. Pótkocsik | 750 kg-ig | O1 |  | x |  |  |  |  |  |  | x |  |  |  |  | x |  |  | x |  | x |
 
-|  | 32. |  | > 750–3 500 kg | O2 |  | x | x |  | x |  |  |  |  |  |  |  |  | x |  |  | x |  | x |
+| 32. |  | > 750– 3 500 kg | O2 R1, R2, S1, lassú jármű pótkocsija |  | x | x |  | x |  |  |  | x |  |  |  |  | x |  |  | x |  | x |
 
-|  | 33. |  | > 3 500 kg | O3, O4 |  | x | x | x |  |  | x | x | x |  |  |  |  | x |  |  |  |  | x |
+| 33. |  | > 3 500 kg | O3, O4 R3, R4, S2, lassú jármű pótkocsija |  | x | x | x |  |  | x | x | x |  |  |  |  | x |  |  |  |  | x |
 
-|  | 34. | 6. Mezőgazdasági vontatók és lassú járművek |  | T1-T4, lassú járművek | P | x | x | x | x | x | x | x | x | x |  |  | x | x |  | x |  |  | x |
+| 34. | 6. Mezőgazdasági vontatók legfeljebb 40 km/h tervezési sebességgel és lassú járművek |  | T1–T4, T1a, T2a, T3a, T4.1a, T4.2a, T4.3a, lassú járművek | P | x | x | x | x | x | x | x | x | x |  |  | x | x |  | x |  |  | x |
 
-|  | 35. |  |  | T1-T4, lassú járművek | D | x | x | x | x | x | x | x | x | x |  |  | x | x |  | x |  |  | x |
+| 35. |  |  | T1–T4, T1a, T2a, T3a, T4.1a, T4.2a, T4.3a, lassú járművek | D | x | x | x | x | x | x | x | x | x |  |  | x | x |  | x |  |  | x |
 
 Megjegyzések:
 
-1. P – benzinüzemű (pozitív gyújtás);
+1. P – benzinüzemű (pozitív gyújtás),
 
 2. D – dízelüzemű (kompressziós gyújtás).
+
+3. A tisztán elektromos meghajtású és a nulla emissziós gépkocsi vizsgálatához gázelemző műszer, füstölésmérő berendezés, hangnyomásszint mérő (zajszintmérő) készülék és fordulatszámmérő biztosítása nem szükséges.
+
+4. A táblázatban nem szereplő és a mellékletben nem részletezett, egyéb járművek vizsgálatához szükséges tárgyi eszközöket az engedélyező közlekedési hatóság határozza meg.
 
 2. Az általános technológia
 
@@ -399,6 +299,8 @@ Megjegyzések:
 2.4.4. A lengéscsillapító csillapítás hatékonyságának vizsgálatát a 3,5 t megengedett legnagyobb össztömegnél nem nagyobb gépkocsik és az általuk vontatható lakópótkocsik esetében kell elvégezni. Az ikerabroncsokkal, defekttűrő abroncsokkal vagy aktív kerékfelfüggesztéssel szerelt járműveken a mérést nem kell elvégezni.
 
 A keréken mért maradó talperő kormányzott kerekek esetében nem lehet kisebb, mint 40%, nem kormányzott kerekek esetében nem lehet kisebb, mint 20%. Tengelyenként a két oldal közti eltérés a kerekeken mért nagyobb talperő 50%-át nem haladhatja meg.
+
+2.4.5. A hibrid és elektromos jármű villamos biztonságának vizsgálatát a forgalomba helyezés előtti műszaki vizsgálat során akkor kell elvégezni, ha a jármű meghajtására szolgáló elektromos berendezéseinek és áramforrásának villamos biztonsága tekintetében kétség merül fel. Ebben az esetben a vizsgálatot a járműgyártó utasítása szerint, minden további vizsgálatot megelőzően kell elvégezni.
 
 2.5. Az időszakos vizsgálatok során 2023. május 20-tól kezdődően az (EU) 2021/392 bizottsági végrehajtási rendelet 10. cikk (1) bekezdésében meghatározottak szerint – a 2.5.1. és a 2.5.2. alpont kivételével – adatgyűjtést kell végezni.
 
@@ -450,4 +352,4 @@ c) Veszélyes hiba: a közúti biztonságra közvetlen és azonnali veszélyt je
 
 5.2. A vizsgálatok tartalmára és módszereire, a járművek hiányosságának értékelésére vonatkozó táblázat
 
-[^420]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^419]: Az 5. számú mellékletet a 14/1999. (IV. 28.) KHVM rendelet 3. §-a iktatta be, szövege a 2/2018. (II. 5.) NFM rendelet 10. § (1) bekezdésével megállapított, a 28/2018. (XI. 15.) ITM rendelet 7. § (1) bekezdése, 8. § j) pontja, 9. § b) pontja, a 29/2020. (VII. 17.) ITM rendelet 3. § (1) bekezdése és 4. § b)–c) pontja, a 42/2021. (IX. 8.) ITM rendelet 4. § d) pontja, az 1/2023. (I. 19.) ÉKM rendelet 3. § (1) bekezdése, a 6/2023. (IV. 5.) ÉKM rendelet 3. §-a, a 10/2023. (VI. 2.) ÉKM rendelet 2. §-a, a 26/2023. (XII. 29.) ÉKM rendelet 6. § (1) bekezdése szerint módosított szöveg.
