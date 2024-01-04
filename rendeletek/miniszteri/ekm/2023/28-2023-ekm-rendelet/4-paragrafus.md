@@ -1,3 +1,3 @@
-4. § Az R. 4. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(Az auditálás tárgya a vizsgálóállomás engedélyezéséhez szükséges feltételek meglétének megállapítása, vizsgálata és minősítése, mely az alábbiakra terjed ki:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
