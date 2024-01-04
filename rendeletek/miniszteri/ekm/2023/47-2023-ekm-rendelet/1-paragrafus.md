@@ -1,1 +1,3 @@
-1. § A távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló 6/2021. (II. 5.) ITM rendelet 8. §-ában a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg és a „Kft.” szövegrész helyébe a „Korlátolt Felelősségű Társaság” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
