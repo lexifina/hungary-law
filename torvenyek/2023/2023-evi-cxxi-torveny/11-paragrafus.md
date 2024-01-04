@@ -1,0 +1,3 @@
+11. § Az atomenergiáról szóló 1996. évi CXVI. törvény „Vegyes és hatályba léptető rendelkezések” alcíme a következő 66/K. §-sal egészül ki:
+
+„66/K. § A nemzeti akkreditálásról szóló törvény szerinti akkreditált státusszal rendelkező szervezet az Atvmód. hatálybalépését követő hatodik hónap utolsó napjáig végezhet az Atvmód.-dal megállapított 16/D. § szerinti nyilvántartásba vétele nélkül nukleáris biztonságot érintő, a Nemzeti Akkreditáló Hatóság által kiállított, az akkreditált státuszt igazoló részletező okiratban meghatározott akkreditált terület szerinti, az NBSZ. R.-ben meghatározott ellenőrző tevékenységet.”
