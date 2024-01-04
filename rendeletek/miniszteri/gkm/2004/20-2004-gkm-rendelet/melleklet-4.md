@@ -1,5 +1,3 @@
-## A kőolajtermékek minden hónap 15. napján érvényes fogyasztói árainak meghatározása
-
 ## A táblázat 1–7. sorában a kőolajtermékeknek az adott időpontban, az egyes fogyasztói csoportok esetében érvényes fogyasztói áraira vonatkozó információt kell feltüntetni.
 
 ## ,,Az egyes fogyasztói csoportok esetében érvényes árak'' a következők:
@@ -17,6 +15,8 @@
 ## A közölt adatokat nemzeti valutában és euróban teszik közzé az Olajjelentésben (Oil Bulletin).
 
 ## Az euróövezetbe tartozó országok esetében az 1998. december 31-én megállapított euróátváltási árfolyamokat; a többi ország esetében pedig az Európai Központi Bank által minden hónap 15-én közzétett árfolyamokat kell figyelembe venni.
+
+## 4M01855_0
 
 | Tagállam | KŐOLAJTERMÉKEK FOGYASZTÓI ÁRAI | Időszak: |
 
@@ -46,6 +46,8 @@
 
 | 7 | Fűtőolaj – kéntartalom ≤1% | tonna |  |  |  |
 
-4. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^16]
+4. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^17]
 
-[^16]: A 4. számú melléklet a 10/2013. (III. 27.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+A hétfőnként érvényes, vám- és adómentes árak meghatározása
+
+[^17]: A 4. számú melléklet a 10/2013. (III. 27.) NFM rendelet 3. § (1) bekezdése szerint módosított szöveg.

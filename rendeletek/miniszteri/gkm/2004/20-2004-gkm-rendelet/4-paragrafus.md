@@ -1,4 +1,4 @@
-4. §[^4] (1) A Bizottsághoz továbbítandó adatok, azok továbbításának határideje és az adatszolgáltatás formája a következő:
+4. §[^5] (1) A Bizottsághoz továbbítandó adatok, azok továbbításának határideje és az adatszolgáltatás formája a következő:
 
 a) a havi kőolaj-beszerzési költség; az adatszolgáltatás határideje: a tárgyhónapot követő hónap, formája a 2. számú melléklet szerint,
 
@@ -30,4 +30,4 @@ h) az egyes hónapok utolsó napján tárolt kereskedelmi kőolaj és kőolajter
 
 (4) A Hivatal – az (1) bekezdés f)–g) pontja szerinti adatokat az ott meghatározott rendszeres adatszolgáltatáson felül – a Bizottság megkeresése esetén a Bizottság részére haladéktalanul megküldi.
 
-[^4]: A 4. § a 10/2013. (III. 27.) NFM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 4. § a 10/2013. (III. 27.) NFM rendelet 1. §-ával megállapított szöveg.

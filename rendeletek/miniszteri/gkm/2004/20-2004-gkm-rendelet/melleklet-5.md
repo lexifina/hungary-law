@@ -1,5 +1,3 @@
-## A hétfőnként érvényes, vám- és adómentes árak meghatározása
-
 ## A Bizottságot legkésőbb kedd délig kell tájékoztatni a kőolajtermékek minden hétfőn érvényben levő, vám- és adómentes árairól.
 
 ## A ,,kőolajtermékek'' az alábbiak:
@@ -36,6 +34,6 @@
 
 ## A közölt adatokat a Bizottság hetente nemzeti valutában és euróban közzéteszi az Olajjelentésben (Oil Bulletin). Az euróövezetbe tartozó országok esetében az 1998. december 31-én megállapított euróátváltási árfolyamokat kell figyelembe venni; a többi ország esetében pedig az Európai Központi Bank által minden hétfőn14.15-kor közzétett árfolyamokat.
 
-5. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^17]
+5. számú melléklet a 20/2004. (II. 27.) GKM rendelethez[^18]
 
-[^17]: Az 5. számú mellékletet a 10/2013. (III. 27.) NFM rendelet 3. § (2) bekezdése hatályon kívül helyezte.
+[^18]: Az 5. számú mellékletet a 10/2013. (III. 27.) NFM rendelet 3. § (2) bekezdése hatályon kívül helyezte.

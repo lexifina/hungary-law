@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-20-20-0
 | 2013-10-01 | 2004-20-20-0L.5 | 56/2013. (IX. 27.) NFM rendelet |
 | 2015-07-01 | 2004-20-20-0L.6 | 83/2011. (XII. 29.) NFM rendelet |
 | 2017-08-24 | 2004-20-20-0L.7 | 56/2013. (IX. 27.) NFM rendelet |
+| 2024-01-04 | 2004-20-20-0L.8 | 26/2023. (XII. 27.) EM rendelet |
