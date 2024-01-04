@@ -24,7 +24,7 @@ f) az atomkárért való felelősséggel
 
 5. előkészíti a 4. pont a) és b) alpontjához kapcsolódó nemzetközi kötelezettség alapján teljesítendő nemzeti jelentéseket és gondoskodik a jelentéstételi kötelezettség teljesítéséről a Nemzetközi Atomenergia Ügynökséghez;
 
-6. előkészíti a 2009/71/Euratom tanácsi irányelv végrehajtásáról szóló jelentést;
+6.
 
 7. gondoskodik a nukleáris létesítmények nukleáris biztonsága folyamatos javítását szolgáló nemzetközi szakértői értékelés megkéréséről;
 
@@ -46,7 +46,7 @@ f) az atomkárért való felelősséggel
 
 16. indokolatlan késedelem nélkül nemzetközi szakértői felülvizsgálatot kér olyan balesetek esetében, amelyek a telephelyen kívüli veszélyhelyzeti intézkedéseket vagy a lakosságot érintő védelmi intézkedéseket tesznek szükségessé;
 
-17. együttműködik a Nemzeti Akkreditáló Hatósággal az NBSZ. R. szerinti, az engedélyestől független, jogszabály szerint feljogosított ellenőrző szervezet akkreditálási eljárásának értékelő csoportjába történő, a nukleáris területen szakértelemmel rendelkező szakértők kirendelése kapcsán.
+17. feladat- és hatáskörét érintően együttműködik a Nemzeti Akkreditáló Hatósággal, ha a Nemzeti Akkreditáló Hatóság akkreditálási eljárása értékelő csoportjába az atomenergia alkalmazási területén szakértelemmel rendelkező szakértő kirendelése szükséges.
 
 (2) Az atomenergia-felügyeleti szerv gondoskodik az (1) bekezdés 6. és 13. pontja szerinti, az Európai Bizottság részére történő jelentéstételi kötelezettség teljesítéséről.
 

@@ -6,4 +6,4 @@
 
 (4) Az 1. melléklet szerint meghatározott befizetési kötelezettség számításánál a radioaktív hulladék térfogatát a csomagolás névleges bruttó térfogatára, névleges térfogat hiányában a csomagolást befoglaló téglatest térfogatára kell vonatkoztatni, de a legkisebb elszámolható mennyiség hulladékcsomagonként 5 liter.
 
-(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1) és (4) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.
+(5) A Központi Nukleáris Pénzügyi Alap bevételi forrását a 63. § (1), (4) és (5) bekezdése, valamint az (1) és (2) bekezdés szerinti befizetések képezik.
