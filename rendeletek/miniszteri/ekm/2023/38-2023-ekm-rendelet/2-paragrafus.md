@@ -1,11 +1,3 @@
-2. § Hatályát veszti az R.
+2. §[^3]
 
-a) 5/B. § (5) bekezdése,
-
-b) 5/C. § (1) bekezdésében a „(2) bekezdés c) pontjában,” szövegrész,
-
-c) 5/C. § (3) bekezdés c) pontja,
-
-d) 13. § (1) bekezdésében az „– az (1a) bekezdésben foglalt esetek kivételével –” szövegrész,
-
-e) 13. § (1a) bekezdése.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
