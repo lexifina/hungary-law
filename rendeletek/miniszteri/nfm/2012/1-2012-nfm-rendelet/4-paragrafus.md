@@ -12,4 +12,7 @@ az összege.
 
 (3) A megújuló forrásokból előállított fűtési és hűtési célú energia bruttó végső fogyasztásának meghatározása során nem vehető figyelembe a passzív energiarendszerek által megtakarított olyan hőenergia, ahol az energiafogyasztást az épület szerkezetén keresztül vagy nem-megújuló forrásokból származó energiával termelt hő felhasználásával csökkentik.
 
+(4)[^14] A hűtésre használt megújuló energia mennyiségét az (EU) 2018/2001 európai parlamenti és tanácsi irányelv VII. mellékletének a hűtésre és távhűtésre használt megújuló energia mennyiségének kiszámítására szolgáló módszertan tekintetében történő módosításáról szóló, 2021. december 14-i (EU) 2022/759 felhatalmazáson alapuló bizottsági rendelet mellékletében meghatározottak szerint kell elszámolni.
+
 [^13]: A 4. § (2) bekezdése a 67/2021. (XII. 30.) ITM rendelet 3. §-ával megállapított szöveg.
+[^14]: A 4. § (4) bekezdését a 27/2023. (XII. 27.) EM rendelet 1. § (1) bekezdése iktatta be.
