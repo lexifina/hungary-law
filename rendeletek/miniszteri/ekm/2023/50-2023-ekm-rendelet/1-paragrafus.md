@@ -1,1 +1,3 @@
-1. § Hatályát veszti az országos közlekedésszervező kijelöléséről szóló 17/2022. (VIII. 25.) TIM rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
