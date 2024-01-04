@@ -1,3 +1,3 @@
-1. § A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: R1.) 10. §-a a következő (3) bekezdéssel egészül ki:
+1. §[^1]
 
-„(3) Muzeális jellegű jármű forgalomba helyezés előtti vizsgálatát – egyedi forgalomba helyezési engedély nélkül – a muzeális minősítését tanúsító muzeális jármű-igazolás alapján kell elvégezni.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
