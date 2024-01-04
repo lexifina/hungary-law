@@ -1,1 +1,3 @@
-1. § Az intelligens közlekedési rendszerek fejlesztésének és üzemeltetésének általános feltételeiről, valamint más közlekedési módokhoz való kapcsolódásáról szóló 48/2012. (VIII. 23.) NFM rendelet 3. § (2) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „KTI Magyar Közlekedéstudományi és Logisztikai” szöveg és a „Kft.” szövegrész helyébe a „Korlátolt Felelősségű Társaság” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
