@@ -1,6 +1,6 @@
 1. melléklet a 12/2022. (VIII. 11.) TIM rendelethez
 
-## Az ellentételezés kiszámításának módszertana
+Az ellentételezés kiszámításának módszertana
 
 1. Az ellentételezés kiszámítása során alkalmazandó elszámolási képlet:
 
