@@ -1,3 +1,3 @@
-1. § A meghatározott össztömeget, tengelyterhelést, tengelycsoport-terhelést és méretet meghaladó járművek közlekedéséről szóló 36/2017. (IX. 18.) NFM rendelet (a továbbiakban: R.) 11. §-a a következő (1b) bekezdéssel egészül ki:
+1. §[^2]
 
-„(1b) Az (1a) bekezdés szerinti megállapodás kiterjedhet a 8. § (4) bekezdése, valamint a 10. § (1) bekezdése szerinti hozzájárulás évenkénti automatikus megújítására is, ha a megállapodás tartalmazza az e rendelet szerinti túlsúlyos és túlméretes járművek 9. § (1) bekezdése szerinti adatait, azzal, hogy az adatokban bekövetkezett változásokról a fizetésre kötelezettnek a változás bekövetkeztétől számított 15 napon belül tájékoztatni kell az MK NZrt.-t.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
