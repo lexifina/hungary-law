@@ -1,3 +1,3 @@
-1. § A léginavigációs és a légiközlekedés biztonságát szolgáló egyéb földi berendezések engedélyezési eljárásáról és hatósági felügyeletéről szóló 68/2011. (XI. 30.) NFM rendelet 15. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(A rádióállomás kezelői engedélyt az a 18. életévét betöltött, legalább középfokú iskolai végzettséggel rendelkező személy szerezheti meg, aki)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
