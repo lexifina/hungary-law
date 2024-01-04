@@ -1,1 +1,3 @@
-1. § Hatályát veszti a hajózási egészségi alkalmasság feltételeiről és vizsgálati rendjéről szóló 21/2002. (XI. 8.) GKM–ESZCSM együttes rendelet 6. § (1) bekezdés e) pontjában az „első alkalommal a tengerész-orvosi vizsgálatokra jogosult orvos, az időszakos vizsgálatokat a tengerész-orvosi vizsgálatokra jogosult orvos vagy” szövegrész.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
