@@ -1,1 +1,3 @@
-1. § A légiközlekedés, a víziközlekedés és a vasúti közlekedés biztonságát, környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására kijelölt szervezetről és a közúti közlekedés biztonságát és környezetvédelmét szolgáló kutatási, fejlesztési és koordinációs feladatok végrehajtására kijelölt szervezetről szóló 58/2012. (X. 31.) NFM rendelet módosításáról szóló 24/2019. (VIII. 14.) ITM rendelet 1. § (1) bekezdésében a „Közlekedéstudományi” szövegrész helyébe a „Magyar Közlekedéstudományi és Logisztikai” szöveg és a „Kft.-t” szövegrész helyébe a „Korlátolt Felelősségű Társaságot” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
