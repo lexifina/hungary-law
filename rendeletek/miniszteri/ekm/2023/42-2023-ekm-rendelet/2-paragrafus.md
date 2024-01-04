@@ -1,7 +1,3 @@
-2. § Hatályát veszti az R.
+2. §[^3]
 
-a) 3. § (1) bekezdés b) pont bf) alpontjában a „valamint a közzétételükre és hatálybalépésükre vonatkozó szabályokat,” szövegrész,
-
-b) 4. § (1) bekezdésében a „lehetőség szerint” szövegrész,
-
-c) 8. § (10) bekezdésében a „legkésőbb” szövegrész.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
