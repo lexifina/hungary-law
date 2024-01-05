@@ -1,3 +1,3 @@
-1. § A kőolaj és kőolajtermékekre vonatkozó nemzetközi adatszolgáltatásról szóló 20/2004. (II. 27.) GKM rendelet 2. §-a a következő e) ponttal egészül ki:
+1. §[^2]
 
-(A rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
