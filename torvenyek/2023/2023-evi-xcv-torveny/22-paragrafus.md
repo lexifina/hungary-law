@@ -9,15 +9,3 @@
 (5) A 19. § d) pontja és a 20. § a) pontja az Alaptörvény 2. cikk (1) bekezdése alapján sarkalatosnak minősül.
 
 (6) A 19. § n) pontja az Alaptörvény XXIX. cikk (3) bekezdése alapján sarkalatosnak minősül.
-
-|
-
-Novák Katalin s. k.
-
-köztársasági elnök
-
-|
-
-,Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
