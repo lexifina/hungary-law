@@ -1,5 +1,7 @@
-307/K. § (1) A fővárosi kompenzációs lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – polgármesterjelöltjeinek számát kell figyelembe venni, kivéve azt a polgármesterjelöltet, akinek nyilvántartásba vételét a helyi választási bizottság elutasította.
+307/K. § (1) A fővárosi lista állításánál a jelölő szervezet – a lista nyilvántartásba vételéig bejelentett – polgármesterjelöltjeinek számát vagy főpolgármester-jelöltjét kell figyelembe venni, kivéve azt a polgármesterjelöltet vagy főpolgármester-jelöltet, akinek nyilvántartásba vételét a választási bizottság elutasította.
 
-(2) A területi választási iroda törli a nyilvántartásból a fővárosi kompenzációs listát, ha a jelölő szervezet jogerősen nyilvántartásba vett, valamint a bejelentett, de még jogerősen el nem bírált polgármesterjelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot.
+(2) A területi választási iroda törli a nyilvántartásból a fővárosi listát, ha
 
-(3) A területi választási iroda törli a nyilvántartásból a jogerősen nyilvántartásba vett fővárosi kompenzációs listát, ha polgármesterjelölt kiesése miatt a jelölő szervezet – közös fővárosi kompenzációs lista esetén a jelölő szervezetek – jogerősen nyilvántartásba vett polgármesterjelöltjeinek száma nem éri el a törvényben foglalt minimumot.
+a) a jelölő szervezet jogerősen nyilvántartásba vett és nem törölt, valamint bejelentett, de még jogerősen el nem bírált polgármesterjelöltjeinek száma együttesen nem éri el a törvényben foglalt minimumot, és
+
+b) a jelölő szervezetnek nincs jogerősen nyilvántartásba vett és nem törölt, vagy bejelentett, de még jogerősen el nem bírált főpolgármester-jelöltje.

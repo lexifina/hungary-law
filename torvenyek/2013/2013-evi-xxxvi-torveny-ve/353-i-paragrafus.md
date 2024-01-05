@@ -1,0 +1,1 @@
+353/I. § A Fővárosi Választási Iroda vezetőjének a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését követően kitűzött általános választásával összefüggésben a 306. § (2) bekezdése alapján hozott határozata hatályát veszti.

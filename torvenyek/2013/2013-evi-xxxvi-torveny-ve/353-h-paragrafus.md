@@ -1,0 +1,1 @@
+353/H. § E törvénynek az igazságosabb és arányosabb önkormányzati választások érdekében egyes választási tárgyú törvények módosításáról szóló 2023. évi XCV. törvénnyel (a továbbiakban: Módtv1.) által megállapított rendelkezéseit a helyi önkormányzati képviselők és polgármesterek Módtv1. hatálybalépését követően kitűzendő általános választásán kell először alkalmazni.
