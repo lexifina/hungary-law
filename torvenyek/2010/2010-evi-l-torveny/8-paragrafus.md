@@ -10,7 +10,7 @@
 
 a) a fővároson kívül legfeljebb egy egyéni választókerületi, egy kompenzációs és egy vármegyei listás jelöltséget,
 
-b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi kompenzációs listás jelöltséget fogadhat el,
+b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget fogadhat el,
 
 c)
 
@@ -18,11 +18,11 @@ c)
 
 a) a fővároson kívül egy egyéni választókerületi, egy kompenzációs és egy vármegyei listás jelöltséget,
 
-b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi kompenzációs listás jelöltséget
+b) a fővárosban egy egyéni választókerületi, egy kompenzációs listás és egy fővárosi listás jelöltséget
 
 fogadhat el.
 
-(5) A főpolgármester jelölt csak fővárosi kompenzációs listás jelöltséget fogadhat el.
+(5) A főpolgármester jelölt csak fővárosi listás jelöltséget fogadhat el.
 
 (6) A választópolgár vármegyei listán és megyei jogú városban egyidejűleg nem lehet jelölt. A választópolgár egyidejűleg nem lehet megyei listán jelölt és megyei jogú városban polgármesterjelölt.
 

@@ -18,4 +18,4 @@
 
 (6) Ha az önkormányzati képviselő-testületet feloszlatták vagy feloszlott, időközi választást kell tartani.
 
-(7) A fővárosi közgyűlés feloszlása esetén időközi választást kell kiírni valamennyi fővárosi kerület polgármesteri tisztségére.
+(7)

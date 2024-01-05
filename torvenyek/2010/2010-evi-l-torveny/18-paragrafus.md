@@ -1,7 +1,9 @@
-18. § (1) A fővárosi kompenzációs listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot.
+18. § (1) A fővárosi listáról a jelöltek a bejelentés sorrendjében kapnak mandátumot.
 
-(2) Ha a fővárosi kompenzációs lista jelöltjét főpolgármesternek vagy fővárosi kerület polgármesterének választották, a fővárosi kompenzációs listáról törölni kell, helyébe a sorrendben utána következő jelölt lép.
+(2) Ha a fővárosi lista jelöltjét főpolgármesternek választották, a fővárosi listáról törölni kell, helyébe a sorrendben utána következő jelölt lép.
 
-(3) Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és fővárosi kompenzációs listáról egyaránt mandátumot szerez, – a (2) bekezdésben foglalt kivétellel – a választást követő 3 napon belül nyilatkoznia kell, hogy melyiket fogadja el.
+(3) Nem kap mandátumot a jelölő szervezet vagy szervezetek közös fővárosi listája, ha a fővárosi listákra leadott érvényes szavazatok öt százalékát nem érte el.
 
-(4) Ha valamely mandátumszerzés későbbi időpontban következik be, a képviselőnek az újabb mandátumszerzés időpontját követő 3 napon belül nyilatkoznia kell, hogy lemond-e a betöltött képviselői mandátumáról vagy a később szerzett mandátumot nem fogadja el. Ha a képviselő lemond a betöltött képviselői mandátumáról, úgy arról a kompenzációs listáról – amelyről a betöltött képviselői mandátumot szerezte – törölni kell.
+(4) Ha Budapesten a jelölt fővárosi kerületi kompenzációs listáról és a fővárosi listáról egyaránt mandátumot szerez, úgy a fővárosi kerületi kompenzációs listás és fővárosi listás választás eredményének jogerőssé válásától számított 3 napon belül nyilatkoznia kell, hogy melyik mandátumáról mond le, és törölni kell arról a listáról, amelyen szerzett mandátumáról lemondott.
+
+(5) Ha valamely, a (4) bekezdés szerinti mandátumszerzés későbbi időpontban következik be, a képviselőnek az új mandátumszerzést megállapító határozat jogerőre emelkedését követő 3 napon belül nyilatkoznia kell, hogy lemond-e a betöltött képviselői mandátumáról vagy a később szerzett mandátumot nem fogadja el, és az érintett listáról törölni kell.
