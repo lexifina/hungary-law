@@ -1,6 +1,6 @@
 55. § (1) A képviselő-testület a megbízatásának lejárta előtt név szerinti szavazással, minősített többségű döntéssel kimondhatja a feloszlását.
 
-(1a) A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata, valamint a főváros lakosságszámának legalább négyötödét kitevő lakosságszámú fővárosi kerületek polgármestereinek igen szavazata szükséges.
+(1a) A fővárosi közgyűlés feloszlásának kimondásához az önkormányzati képviselők négyötödének igen szavazata szükséges.
 
 (2) A képviselő-testület feloszlása nem mondható ki a választást követő hat hónapon belül, valamint az általános választást megelőző év április 1. napját követően. A határidő megállapításkor a feloszlásra irányuló kezdeményezés időpontját kell figyelembe venni.
 

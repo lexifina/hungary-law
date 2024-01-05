@@ -32,4 +32,4 @@ i) médiatartalom-szolgáltató természetes személy, jogi személy, gazdasági
 
 (2) A települési önkormányzati képviselő nem lehet a vármegyei közgyűlés elnöke, alelnöke, főpolgármester, főpolgármester-helyettes.
 
-(3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek a fővárosi kompenzációs listáról mandátumot szerzett tagja is, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.
+(3) Fővárosi kerületi önkormányzati képviselő csak akkor lehet egyidejűleg a fővárosi közgyűlésnek is tagja, ha a kerületi önkormányzati képviselői mandátumát egyéni választókerületben szerezte.

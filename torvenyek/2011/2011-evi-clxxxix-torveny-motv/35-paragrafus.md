@@ -2,7 +2,7 @@
 
 35. § (1) A képviselő-testület az önkormányzati képviselőnek, a bizottsági elnöknek, a bizottság tagjának, a tanácsnoknak rendeletében meghatározott tiszteletdíjat, természetbeni juttatást állapíthat meg.
 
-(1a) A fővárosi közgyűlés fővárosi kerületi polgármester tagjai számára közgyűlési tagságukért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást nem állapíthat meg.
+(1a) A fővárosi közgyűlés fővárosi kerületi polgármesteri tisztséget is betöltő tagja számára közgyűlési tagságért tiszteletdíjat, költségtérítést, költségátalányt és egyéb juttatást állapíthat meg.
 
 (2) Ha az önkormányzati képviselő tanácsnok, önkormányzati bizottság elnöke vagy tagja, számára magasabb összegű tiszteletdíj is megállapítható. Az önkormányzati képviselő számára történő tiszteletdíj megállapítása nem veszélyeztetheti az önkormányzat kötelező feladatai ellátását.
 
