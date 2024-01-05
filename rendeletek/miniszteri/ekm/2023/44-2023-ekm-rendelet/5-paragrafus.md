@@ -1,1 +1,0 @@
-5. § Ez a rendelet a vasúti szolgáltatások működtetésével kapcsolatban közvetlenül felmerülő költségek kiszámításának módjairól szóló, 2015. június 12-i (EU) 2015/909 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
