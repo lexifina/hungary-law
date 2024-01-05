@@ -1,1 +1,0 @@
-A légiközlekedésről szóló 1995. évi XCVII. törvény 74. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 95. § 8. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
