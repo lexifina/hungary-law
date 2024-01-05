@@ -1,3 +1,3 @@
-3. § A Rendelet 8. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„8. § E rendeletnek a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet alapján a villamos energia szolgáltató részére járó ellentételezés kiszámításának módszertanáról szóló 12/2022. (VIII. 11.) TIM rendelet módosításáról szóló 28/2023. (XII. 27.) EM rendelettel módosított 2. § (2)–(4) bekezdése a 2023. évben biztosított rezsivédelmi szolgáltatás ellentételezésének kiszámítása során is alkalmazandó.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
