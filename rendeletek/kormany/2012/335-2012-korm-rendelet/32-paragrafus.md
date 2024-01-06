@@ -1,5 +1,5 @@
-32. § (1)[^58] Az egyetemes postai szolgáltató a címzett eltérő rendelkezése esetén is köteles a hivatalos iratot a címzett – utánküldés szolgáltatás igénybevétele alapján a nyilvántartásában szereplő – új belföldi címére továbbítani az utánküldés szolgáltatásra vonatkozó szerződés hatálya alatt.
+32. § (1)[^64] A hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését megelőzően az egyetemes postai szolgáltató a címzett eltérő rendelkezése esetén is köteles a hivatalos iratot a címzett – utánküldés szolgáltatás igénybevétele alapján a nyilvántartásában szereplő – új belföldi címére továbbítani az utánküldés szolgáltatásra vonatkozó szerződés hatálya alatt. Az utánküldési szerződés hatálya a címzett eltérő rendelkezése esetében sem terjed ki a hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését követő rendelkezésre tartási idő alatti továbbítására.
 
 (2) A postai szolgáltató abban az esetben is hátrahagyja a címzett számára a 31. § (1)–(2) bekezdése szerinti értesítőt, ha a hivatalos irat átvételétől a meghatalmazott zárkózik el.
 
-[^58]: A 32. § (1) bekezdése a 102/2014. (III. 25.) Korm. rendelet 3. § (12) bekezdés h) pontja szerint módosított szöveg.
+[^64]: A 32. § (1) bekezdése a 685/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 4. Levélszekrénybe történő kézbesítés feltételei és szabályai
 
-11. § (1)[^12] A személyes átadással történő kézbesítést nem igénylő küldemények kézbesítésére, valamint a személyes átadással történő kézbesítést igénylő küldeményekhez kapcsolódó értesítő elhelyezésére az ingatlan tulajdonosa vagy a címzett által biztosított, a címhelyhez tartozó levélszekrény abban az esetben felel meg a Postatv. 41. § (2) bekezdésében foglalt könnyű és biztonságos megközelíthetőség követelményének, ha a levélszekrény megközelítése közvetlenül biztosított és a postai küldemények kézbesítését végző személy testi épségét nem veszélyezteti, továbbá ha elhelyezése
+11. § (1)[^16] A személyes átadással történő kézbesítést nem igénylő küldemények kézbesítésére, valamint a személyes átadással történő kézbesítést igénylő küldeményekhez kapcsolódó értesítő elhelyezésére az ingatlan tulajdonosa vagy a címzett által biztosított, a címhelyhez tartozó levélszekrény abban az esetben felel meg a Postatv. 41. § (2) bekezdésében foglalt könnyű és biztonságos megközelíthetőség követelményének, ha a levélszekrény megközelítése közvetlenül biztosított és a postai küldemények kézbesítését végző személy testi épségét nem veszélyezteti, továbbá ha elhelyezése
 
 a) a közterületről közvetlenül meg nem közelíthető, csak közterületi címmel rendelkező címhely esetében a telek cím szerinti bejáratánál történt;
 
@@ -22,4 +22,4 @@ c) a levélszekrény kialakításának olyannak kell lennie, hogy alkalmas legye
 
 d) csoportos levélszekrény elhelyezése esetén a csoporton belül minden címhelyhez külön-külön kell levélszekrényt biztosítani oly módon, hogy azok mindegyikén szerepelnie kell a közelebbi címadatnak és a címzett vagy lehetséges címzettek nevének.
 
-[^12]: A 11. § (1) bekezdés nyitó szövegrésze a 256/2022. (VII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^16]: A 11. § (1) bekezdés nyitó szövegrésze a 256/2022. (VII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

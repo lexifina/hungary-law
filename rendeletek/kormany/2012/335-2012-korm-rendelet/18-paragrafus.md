@@ -1,8 +1,8 @@
 ## 17. § Amennyiben a könyvelt postai küldemény kézbesítésére a Postatv. 41. § (9) bekezdése szerinti eszközbe történő elhelyezéssel kerül sor, a kézbesítéssel kapcsolatos szabályokat a postai szolgáltató az általános szerződési feltételeiben állapítja meg.
 
-## 6. [^23] Postai küldemények kézbesítése a címtől eltérő helyen
+## 6. [^27] Postai küldemények kézbesítése a címtől eltérő helyen
 
-18. § (1)[^24] A postai szolgáltató a kézbesítési címként megjelölt helytől eltérően kézbesítési ponton kézbesíti
+18. § (1)[^28] A postai szolgáltató a kézbesítési címként megjelölt helytől eltérően kézbesítési ponton kézbesíti
 
 a) a küldeményt, ha a személyes átadással kézbesítendő küldemény kézbesítési címen történő kézbesítése a szolgáltatón kívülálló okból sikertelen volt, és a kézbesítési címen nem került sor az átvétel megtagadására,
 
@@ -14,5 +14,5 @@ d) a méretei miatt levélszekrénybe nem kézbesíthető azon küldeményt, ame
 
 (2) A kézbesítési ponton a címzett, a címzett meghatalmazottja és a cím szerinti lakóhellyel vagy tartózkodási hellyel rendelkező helyettes átvevő jogosult a küldemények átvételére.
 
-[^23]: A 6. alcím címe a 256/2022. (VII. 15.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
-[^24]: A 18. § (1) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^27]: A 6. alcím címe a 256/2022. (VII. 15.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^28]: A 18. § (1) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 4. §-ával megállapított szöveg.

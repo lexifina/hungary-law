@@ -4,9 +4,9 @@ a) a postai szolgáltatás vagy a postai szolgáltatáshoz kapcsolódó többlet
 
 b) a postai szolgáltatás keretében feladható vagy kézbesíthető küldemények méret- és tömeghatárai;
 
-c) a feltételesen vagy különleges előírások figyelembevételével szállított tartalmakkal kapcsolatos szabályok;
+c)[^2]
 
-d) külföldre szóló postai küldemény esetében a cím szerinti és a kezelésben részt vevő országban hatályos behozatali tilalommal (korlátozással) kapcsolatos szabályok;
+d)[^3]
 
 e) a cím adattartalmával és annak feltüntetésével kapcsolatos szabályok;
 
@@ -23,3 +23,6 @@ j) a szolgáltató adatkezelésének felhasználókat érintő szabályai;
 k) a szolgáltatással kapcsolatos felelősségi szabályok, a kártérítési igény érvényesítésével kapcsolatos jogok és kötelezettségek, valamint az igényérvényesítés módjának meghatározása;
 
 l) a postai szolgáltatásokról szóló 2012. évi CLIX. törvény (a továbbiakban: Postatv.) vagy e rendelet alapján az általános szerződési feltételekben megjelenítendő, a postai szolgáltatás nyújtásának és igénybevételének egyéb részletes feltételei.
+
+[^2]: A 2. § c) pontját a 685/2023. (XII. 29.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^3]: A 2. § d) pontját a 685/2023. (XII. 29.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
