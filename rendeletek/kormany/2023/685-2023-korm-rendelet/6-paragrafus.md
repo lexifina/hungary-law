@@ -1,0 +1,3 @@
+6. § A Korm. rendelet 32. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését megelőzően az egyetemes postai szolgáltató a címzett eltérő rendelkezése esetén is köteles a hivatalos iratot a címzett – utánküldés szolgáltatás igénybevétele alapján a nyilvántartásában szereplő – új belföldi címére továbbítani az utánküldés szolgáltatásra vonatkozó szerződés hatálya alatt. Az utánküldési szerződés hatálya a címzett eltérő rendelkezése esetében sem terjed ki a hivatalos irat 31. § (1) bekezdése szerinti újbóli kézbesítését követő rendelkezésre tartási idő alatti továbbítására.”
