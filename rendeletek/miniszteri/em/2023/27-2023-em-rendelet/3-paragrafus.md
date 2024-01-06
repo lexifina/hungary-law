@@ -1,1 +1,0 @@
-3. § Ez a rendelet az (EU) 2018/2001 európai parlamenti és tanácsi irányelv VII. mellékletének a hűtésre és távhűtésre használt megújuló energia mennyiségének kiszámítására szolgáló módszertan tekintetében történő módosításáról szóló, 2021. december 14-i (EU) 2022/759 felhatalmazáson alapuló bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
