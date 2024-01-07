@@ -1,3 +1,5 @@
-18. §[^19]
+18. § (1) Az R3. 1. melléklete a 2. melléklet szerint módosul.
 
-[^19]: A 18. § a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+(2) Az R3. 8. melléklete helyébe a 3. melléklet lép.
+
+(3) Az R3. 11/H. melléklete helyébe a 4. melléklet lép.

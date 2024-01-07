@@ -1,3 +1,1 @@
-11. §[^12]
-
-[^12]: A 11. § a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+11. § A 410/2007. (XII. 29.) Korm. rendelet 9. melléklete helyébe az 1. melléklet lép.

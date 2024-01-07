@@ -1,35 +1,27 @@
 19. § Az R3.
 
-a)[^20]
+a) 9/A. § (2) bekezdésében a „780 000” szövegrész helyébe az „1 200 000” szöveg és a „195 000” szövegrész helyébe a „300 000” szöveg,
 
-b)[^21]
+b) 1. mellékletében foglalt táblázat B:14 mezőjében a „Személyszállító vezetői igazolvány vagy azonosító lap nincs a járművön” szövegrész helyébe az „A járművezető nem tudja bemutatni az érvényes személyszállító vezetői igazolványt” szöveg,
 
-c)[^22]
+c) 1. mellékletében foglalt táblázat B:25 mezőjében a „hibás vagy” szövegrész helyébe a „hibás, valótlan adatokkal történő vagy” szöveg,
 
-d)[^23]
+d) 1. mellékletében foglalt táblázat B:30 mezőjében a „Járművezetői igazolvány hiánya” szövegrész helyébe az „Áruszállítás érvényes járművezetői igazolvány nélkül” szöveg,
 
-e)[^24]
+e) 1. mellékletében foglalt táblázat E:30 mezőjében a „járművezető” szövegrész helyébe a „járművezető, szállító” szöveg,
 
-f)[^25]
+f) 4. mellékletében foglalt táblázat D:8 mezőjében a „780 000” szövegrész helyébe a „800 000” szöveg,
 
-g)[^26]
+g) 4. mellékletében foglalt táblázat B:9 mezőjében a „kártya nélküli” szövegrész helyébe a „kártya (adatrögzítő lap behelyezése) nélküli” szöveg,
 
-h)[^27]
+h) 4. mellékletében foglalt táblázat E:9 mezőjében a „járművezető” szövegrész helyébe a „járművezető, szállító” szöveg,
 
-i)[^28]
+i) 4. mellékletében foglalt táblázat B:26 mezőjében a „megfelelő lap” szövegrész helyébe a „megfelelő adatrögzítő lap” szöveg,
 
-j)[^29]
+j)[^16]
 
-k)[^30]
+k) 14. mellékletében foglalt táblázat B:1 mezőjében a „Jogsértő magatartások” szövegrész helyébe a „Bírságolással érintett cselekmények, mulasztások” szöveg
 
-[^20]: A 19. § a) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^21]: A 19. § b) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^22]: A 19. § c) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^23]: A 19. § d) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^24]: A 19. § e) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^25]: A 19. § f) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^26]: A 19. § g) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^27]: A 19. § h) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^28]: A 19. § i) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
-[^29]: A 19. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^30]: A 19. § k) pontja a 66. § (3) bekezdés alapján 2024. január 7-én lép hatályba.
+lép.
+
+[^16]: A 19. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
