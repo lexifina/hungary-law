@@ -1,3 +1,3 @@
-9/A. §[^14]
+9/A. §[^12]
 
-[^14]: A 9/A. §-t a 48/2017. (XII. 29.) NGM rendelet 15. § (2) bekezdése iktatta be, a 10/2023. (XII. 23.) PM rendelet 9. §-a hatályon kívül helyezte.
+[^12]: A 9/A. §-t a 48/2017. (XII. 29.) NGM rendelet 15. § (2) bekezdése iktatta be. A 9/A. §-t a 10/2023. (XII. 23.) PM rendelet 9. §-a hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-16. §[^18]
+16. §[^16]
 
-[^18]: A 16–17. §-t a 48/2017. (XII. 29.) NGM rendelet 17. § d) pontja hatályon kívül helyezte.
+[^16]: A 16–17. §-t a 48/2017. (XII. 29.) NGM rendelet 17. § d) pontja hatályon kívül helyezte.
