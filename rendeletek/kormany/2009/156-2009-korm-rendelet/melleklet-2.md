@@ -26,7 +26,7 @@
 
 | 13 | 4/A. | A menetrend szerinti járatok megállói nem felelnek meg a kiadott engedélynek | SJ | 130 000 | szállító |
 
-| 14 | 5. | a) Személyszállító vezetői igazolvány vagy azonosító lap nincs a járművön | NSJ | 260 000 | járművezető |
+| 14 | 5. | a) A járművezető nem tudja bemutatni az érvényes személyszállító vezetői igazolványt | NSJ | 260 000 | járművezető |
 
 | 15 | b) Személyszállító engedélykivonat nincs a járművön | SJ | 65 000 | járművezető |
 
@@ -48,7 +48,7 @@
 
 | 24 | b) szabálytalan használata, vagy eltérés az engedélyben foglaltaktól | RSJ | 650 000 | szállító, járművezető |
 
-| 25 | c) a KR. 4/A. § (1)–(3) bekezdésében meghatározott előzetes elektronikus regisztrációs kötelezettség teljesítésének elmulasztása, hibás vagy hiányos teljesítése | RSJ | 1 040 000 | szállító, járművezető |
+| 25 | c) a KR. 4/A. § (1)–(3) bekezdésében meghatározott előzetes elektronikus regisztrációs kötelezettség teljesítésének elmulasztása, hibás, valótlan adatokkal történő vagy hiányos teljesítése | RSJ | 1 040 000 | szállító, járművezető |
 
 | 26 | d) a KR. 4/A. § (1)–(3) bekezdésében meghatározott előzetes elektronikus regisztrációs kötelezettség esemény- rögzítésének hiánya, elégtelensége | RSJ | 650 000 | szállító, járművezető |
 
@@ -58,7 +58,7 @@
 
 | 29 | 7/A. | A járművezető nem tudja a nemzeti jog előírásának megfelelően bemutatni érvényes gépjárművezetői képesítési igazolványát vagy vezetői engedélyét a bejegyzéssel (elvesztette, elfelejtette, sérült, olvashatatlan) | SJ | 65 000 | járművezető |
 
-| 30 | 8. | Járművezetői igazolvány hiánya | NSJ | 260 000 | járművezető |
+| 30 | 8. | Áruszállítás érvényes járművezetői igazolvány nélkül | NSJ | 260 000 | járművezető, szállító |
 
 | 31 | 8/A. | A járművezető vagy a szállító nem tudja bemutatni az érvényes járművezetői igazolványt vagy az érvényes járművezetői igazolvány hitelesített másolatát (elvesztette, elfelejtette, sérült, olvashatatlan) | SJ | 130 000 | járművezető szállító |
 
@@ -108,6 +108,6 @@
 
 | 54 | 27. | A szerződéses kötelezettségekre alkalmazandó jog megsértése | SJ | 260 000 | szállító |
 
-2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^87]
+2. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^88]
 
-[^87]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 574/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^88]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (2) bekezdésével megállapított, az 574/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.

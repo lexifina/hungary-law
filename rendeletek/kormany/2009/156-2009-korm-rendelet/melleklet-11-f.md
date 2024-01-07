@@ -4,6 +4,6 @@
 
 | 2 | 1. | Haladás a leálló sávon | 37. § (5) bekezdés | 130 000 | járművezető |
 
-11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
+11/F. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^107]
 
-[^102]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.
+[^107]: A 11/F. mellékletet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (10) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (17) bekezdésével megállapított szöveg.

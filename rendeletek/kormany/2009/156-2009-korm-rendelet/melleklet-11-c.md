@@ -50,6 +50,6 @@
 
 | 25 | g) 110 km/óra felett | g) 390 000 |
 
-11/C. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
+11/C. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^104]
 
-[^99]: A 11/C. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (14) bekezdésével megállapított szöveg.
+[^104]: A 11/C. számú mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (14) bekezdésével megállapított szöveg.

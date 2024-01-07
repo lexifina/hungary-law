@@ -6,6 +6,6 @@
 
 | 3 | 2. | Felmentés okára vagy mentességre vonatkozó okmány hiánya | EJ | 65 000 | megbízó, szállító, gépjárművezető |
 
-11/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^97]
+11/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^102]
 
-[^97]: A 11/A. mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.
+[^102]: A 11/A. mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (12) bekezdésével megállapított szöveg.

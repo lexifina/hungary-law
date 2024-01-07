@@ -8,6 +8,6 @@
 
 | 4 | 3. | A vasúti átjáróra történő ráhajtásra vonatkozó rendelkezések | 39. § (5) bekezdés a), b) pont | 78 000 | járművezető |
 
-11/D. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
+11/D. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^105]
 
-[^100]: A 11/D. mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (15) bekezdésével megállapított szöveg.
+[^105]: A 11/D. mellékletet a 99/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (15) bekezdésével megállapított szöveg.
