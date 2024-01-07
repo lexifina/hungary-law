@@ -18,8 +18,9 @@
 
 | 9 | 20% ≤ … 30% 30% ≤ … | 455 000 650 000 |
 
-| 10 | 3. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén. | 130 000 | a közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (1a) bekezdés | üzemben tartó |
+| 10 | 3. | A tengelysúlymérő rendszer keretében végzett mérés eredménye befolyásolásának tilalmára vonatkozó rendelkezések megsértése esetén. | 300 000[^62] | a közúti közlekedésről szóló 1988. évi I. törvény 21/K. § (1a) bekezdés | üzemben tartó |
 
-5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^62]
+5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^63]
 
-[^62]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § e) pontjával megállapított szöveg.
+[^62]: A 4. mellékletben foglalt táblázat C:10 mezője a 612/2023. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^63]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § e) pontjával megállapított szöveg.

@@ -4,6 +4,6 @@
 
 | 2 | 1. | Haladás a leálló sávon | 37. § (5) bekezdés | 130 000 |
 
-6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^63]
+6. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^64]
 
-[^63]: A 6. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § f) pontjával megállapított szöveg.
+[^64]: A 6. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § f) pontjával megállapított szöveg.

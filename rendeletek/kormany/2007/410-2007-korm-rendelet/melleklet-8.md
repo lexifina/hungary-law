@@ -6,6 +6,6 @@
 
 | 3 | 2. | Az engedélyezett közlekedési útról való letérés a védett vagy fokozottan védett természeti területen | 38. § (1) bekezdés j) pont | 130 000 |
 
-8. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^65]
+8. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^66]
 
-[^65]: A 8. mellékletet a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^66]: A 8. mellékletet a 69/2009. (IV. 2.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
