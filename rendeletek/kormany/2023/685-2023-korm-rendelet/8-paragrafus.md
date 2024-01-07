@@ -1,7 +1,3 @@
-8. § Hatályát veszti a Korm. rendelet
+8. §[^8]
 
-a) 2. § c) és d) pontja,
-
-b) 25. § (1) bekezdés b) pontjában a „nem egyértelműen azonosítható, vagy” szövegrész,
-
-c) 31. § (3) bekezdés k) pontjában az „olvasható nevét vagy a személyazonossága” szövegrész.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

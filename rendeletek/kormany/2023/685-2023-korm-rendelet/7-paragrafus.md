@@ -1,1 +1,3 @@
-7. § A Korm. rendelet 25. § (1) bekezdés c) pontjában a „nem jelentkezett” szövegrész helyébe a „nem jelentkezett, vagy nem vette át” szöveg lép.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
