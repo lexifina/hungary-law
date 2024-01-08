@@ -1,3 +1,3 @@
-1. melléklet a 10/2023. (XII. 23.) PM rendelethez[^20]
+1. melléklet a 10/2023. (XII. 23.) PM rendelethez[^21]
 
-[^20]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
