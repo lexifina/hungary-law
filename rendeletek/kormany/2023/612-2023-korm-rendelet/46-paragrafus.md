@@ -1,5 +1,5 @@
 ## 17. Az országos vasúti mellékvonalak felsorolásáról szóló 194/2016. (VII. 13.) Korm. rendelet módosítása
 
-46. §[^43]
+46. §[^47]
 
-[^43]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

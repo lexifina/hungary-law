@@ -1,1 +1,3 @@
-11. § A 410/2007. (XII. 29.) Korm. rendelet 9. melléklete helyébe az 1. melléklet lép.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
