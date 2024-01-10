@@ -1,4 +1,4 @@
-6/S. §[^147] (1) A 2. mellékletben foglalt táblázat B:73 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
+6/S. §[^153] (1) A 2. mellékletben foglalt táblázat B:73 mezőjében megjelölt telekre a beépítés egyedi szabályait a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(5) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -46,4 +46,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2)–(
 
 (5) A 2. mellékletben foglalt táblázat 73. sora szerinti beruházás esetében az OTÉK 86. § (1) bekezdését és 99. § (9) bekezdését nem kell alkalmazni.
 
-[^147]: A 6/S. §-t az 523/2021. (IX. 6.) Korm. rendelet 1. §-a iktatta be.
+[^153]: A 6/S. §-t az 523/2021. (IX. 6.) Korm. rendelet 1. §-a iktatta be.

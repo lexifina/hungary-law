@@ -28,9 +28,9 @@
 
 | 259472.42 | E19° 09’ 31,69” |
 
-| 6.[^431] |  |  |  |
+| 6.[^439] |  |  |  |
 
-| 7.[^432] |  |  |  |
+| 7.[^440] |  |  |  |
 
 | 8. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 051 helyrajzi számú ingatlan | 658192.43 | N47° 40’ 35,80” |
 
@@ -162,8 +162,8 @@
 
 | 36. | Göd közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 048/10 helyrajzi számú ingatlan | teljes terület |  |
 
-4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^433]
+4. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^441]
 
-[^431]: A 3. mellékletben foglalt táblázat 6. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^432]: A 3. mellékletben foglalt táblázat 7. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
-[^433]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 332/2023. (VII. 19.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.
+[^439]: A 3. mellékletben foglalt táblázat 6. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^440]: A 3. mellékletben foglalt táblázat 7. sorát a 332/2023. (VII. 19.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
+[^441]: A 4. mellékletet a 47/2021. (II. 5.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 332/2023. (VII. 19.) Korm. rendelet 4. § b) pontja hatályon kívül helyezte.

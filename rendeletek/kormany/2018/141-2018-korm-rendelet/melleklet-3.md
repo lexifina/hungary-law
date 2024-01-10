@@ -278,8 +278,8 @@
 
 | 129. | Autóipari gyártócsarnok létrehozására irányuló beruházás Miskolc város területén | Miskolc város belterületén fekvő, az ingatlan-nyilvántartás szerinti 47511/48 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^430]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^438]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^430]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^438]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
