@@ -1,0 +1,3 @@
+9. § A Vhr. 35. §-a helyébe a következő rendelkezés lép:
+
+„35. § Ez a rendelet az európai adatkormányzásról és az (EU) 2018/1724 rendelet módosításáról szóló, 2022. május 30-i 2022/868 (EU) európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
