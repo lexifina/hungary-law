@@ -1,6 +1,6 @@
 ## 12. A Nemzeti Adatvagyon Tanács támogató tevékenysége
 
-25. § (1)[^2] Az NVT működésével közreműködik a miniszter Statútum 18. § h) és k) pontja szerinti feladatai végrehajtásában.
+25. § (1)[^7] Az NVT működésével közreműködik a miniszter Statútum 18. § h) és k) pontja szerinti feladatai végrehajtásában.
 
 (2) Az NVT – a NAVÜ minden év március 1. napjáig megküldött adatszolgáltatása alapján – minden évben értékeli a nemzeti adatvagyon-gazdálkodás megvalósításának helyzetét.
 
@@ -12,4 +12,6 @@ b) a nemzeti adatvagyon-gazdálkodással összefüggő, adatalapú, adatelemzés
 
 c) a b) pontban foglalt fejlesztési irányok megvalósítására vonatkozó hazai és európai uniós fejlesztési források biztosítására
 
-[^2]: A 25. § (1) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.
+vonatkozó javaslattétel.
+
+[^7]: A 25. § (1) bekezdése a 239/2022. (VI. 30.) Korm. rendelet 49. § a) pontja szerint módosított szöveg.

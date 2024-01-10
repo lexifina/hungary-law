@@ -1,1 +1,0 @@
-## 1. § A nemzeti adatvagyonról szóló 2021. évi XCI. törvény (a továbbiakban: Natv.) szerinti Nemzeti Adatvagyon Ügynökség feladatait a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alatt álló, állami tulajdonú Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság (a továbbiakban: NAVÜ) látja el.

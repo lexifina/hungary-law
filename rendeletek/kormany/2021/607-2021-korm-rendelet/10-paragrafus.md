@@ -6,7 +6,7 @@ a) a közadatkataszter létrehozásával összefüggésben legfeljebb az (1) bek
 
 b) a közadatkataszter naprakészen tartásával összefüggésben legfeljebb az (1) bekezdés szerinti megkeresés kézhezvételétől számított 5 munkanapon belül
 
-## megadni, továbbá a NAVÜ-vel együttműködni köteles.
+megadni, továbbá a NAVÜ-vel együttműködni köteles.
 
 (3) A közfeladatot ellátó szerv a (2) bekezdés szerinti tájékoztatási, adatszolgáltatási, együttműködési kötelezettsége alól kizárólag abban az esetben mentesül, ha a megkeresésben kért információk megismerését törvény vagy kormányrendelet kizárja vagy olyan mértékben korlátozza, hogy az az e rendelet szerinti feladatok végrehajtása szempontjából az együttműködést kizárja. Az együttműködést kizáró körülmény fennállását a közfeladatot ellátó szervnek kell igazolnia.
 

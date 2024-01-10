@@ -16,7 +16,7 @@ c) az adatszolgáltatási, adatelemzési igények kiszolgálási körülményeit
 
 d) az egymás közötti költségelszámolás, illetve a díjbevételekből való részesedés elszámolása módját
 
-## rögzíteni kell.
+rögzíteni kell.
 
 (3) Az (1) és (2) bekezdés szerinti együttműködés létrehozható egy vagy több tájékoztatási szolgáltatás megvalósítására, egy vagy több együttműködő szerv bevonásával, meghatározott adat-, illetve igénytípusra, valamint határozott vagy határozatlan időre.
 
