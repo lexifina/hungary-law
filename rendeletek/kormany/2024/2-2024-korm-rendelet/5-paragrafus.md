@@ -1,5 +1,5 @@
 ## 2. A nemzeti adatvagyon hasznosításával összefüggő egyes részletszabályokról szóló 607/2021. (XI. 5.) Korm. rendelet módosítása
 
-5. § A nemzeti adatvagyon hasznosításával összefüggő egyes részletszabályokról szóló 607/2021. (XI. 5.) Korm. rendelet (a továbbiakban: Vhr.) 1. §-a helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„1. § A nemzeti adatvagyonról szóló 2021. évi XCI. törvény (a továbbiakban: Natv.) szerinti Nemzeti Adatvagyon Ügynökség feladatait a Nemzeti Adatvagyon Ügynökség Korlátolt Felelősségű Társaság (a továbbiakban: NAVÜ) látja el.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

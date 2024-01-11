@@ -1,7 +1,3 @@
-3. § Az R.
+3. §[^4]
 
-a) 5/V. § (1) bekezdésében a „(2)–(4)” szövegrészek helyébe a „(2)–(5)” szöveg,
-
-b) 5/X. § (2) bekezdés 4. pontjában az „alatti” szövegrész helyébe a „feletti” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
