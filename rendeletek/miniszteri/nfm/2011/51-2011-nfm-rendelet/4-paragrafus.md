@@ -1,6 +1,6 @@
 ## 3. A támogatás igénylése
 
-4. §[^9] (1)[^10] Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 12. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) szerinti átviteli rendszerirányítóhoz (a továbbiakban: rendszerirányító).
+4. §[^10] (1)[^11] Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 12. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a rendszerirányítóhoz.
 
 (2) A támogatási igénybejelentés tartalmazza
 
@@ -28,5 +28,5 @@ a javított támogatási igénybejelentő lap két eredeti példányának, valam
 
 (9) Az igénylő (7) és (8) bekezdés szerinti önellenőrzésre vonatkozó jogosultsága adott havi támogatási igénybejelentés alapján a késedelmi igénylési határnapot követően megszűnik. A késedelmi támogatási igénybejelentés önellenőrzéssel nem javítható. A rendszerirányító kifizetést önellenőrzésre való jogosultság alapján kizárólag a (7) bekezdés szerint hiánytalanul beérkezett iratok alapján teljesíthet.
 
-[^9]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
-[^10]: A 4. § (1) bekezdése a 27/2022. (XI. 21.) TIM rendelet 1. §-a szerint módosított szöveg.
+[^10]: A 4. § az 59/2012. (X. 31.) NFM rendelet 9. §-ával megállapított szöveg.
+[^11]: A 4. § (1) bekezdése az 1/2024. (I. 11.) EM rendelet 7. §-ával megállapított szöveg.
