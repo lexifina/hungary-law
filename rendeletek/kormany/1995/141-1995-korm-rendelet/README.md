@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-141-20-
 | 2022-05-04 | 1995-141-20-22.40 | 176/2022. (IV. 29.) Korm. rendelet |
 | 2023-04-10 | 1995-141-20-22.41 | 28/2019. (III. 1.) Korm. rendelet |
 | 2023-09-01 | 1995-141-20-22.42 | 410/2023. (VIII. 30.) Korm. rendelet |
+| 2024-01-12 | 1995-141-20-22.43 | 655/2023. (XII. 28.) Korm. rendelet |

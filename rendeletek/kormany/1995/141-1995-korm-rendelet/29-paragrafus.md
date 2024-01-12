@@ -12,6 +12,8 @@ e)[^96] a polgári légiközlekedéshez kapcsolódó műszaki követelményeknek
 
 f)[^97] a 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/373 rendeletnek a légiforgalmi szolgáltatásra/a léginavigációs szolgálatokra, a légtérszerkezet kialakítására, az adatminőségre és a futópálya biztonságára vonatkozó követelmények tekintetében történő módosításáról, valamint a 73/2010/EU rendelet hatályon kívül helyezéséről szóló, 2020. február 14-i (EU) 2020/469 bizottsági végrehajtási rendeletnek
 
+g)[^98] az (EU) 2017/373 végrehajtási rendeletnek a légiforgalmi adatkatalógusra és a légiforgalmi tájékoztató kiadványra vonatkozó követelmények tekintetében történő módosításáról szóló, 2022. július 26-i (EU) 2022/938 bizottsági végrehajtási rendeletnek
+
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 [^91]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -21,3 +23,4 @@ a végrehajtásához szükséges rendelkezéseket állapítja meg.
 [^95]: A Vhr. 29. § d) pontját a 402/2020. (VIII. 17.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^96]: A Vhr. 29. § e) pontját a 722/2020. (XII. 31.) Korm. rendelet 3. §-a iktatta be.
 [^97]: A Vhr. 29. § f) pontját a 176/2022. (IV. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^98]: A Vhr. 29. § g) pontját a 655/2023. (XII. 28.) Korm. rendelet 1. §-a iktatta be.

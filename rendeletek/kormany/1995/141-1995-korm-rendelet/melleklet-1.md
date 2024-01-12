@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^100]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^101]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -64,9 +64,9 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 9. | AD 1.1 | A repülőterek rendelkezésre állása és az igénybevétel feltételei | nem |  |
 
-| 10. | AD 1.2 | Mentő és tűzoltó szolgálatok, valamint a hóeltakarítási terv | nem |  |
+| 10. | AD 1.2 | Mentő és tűzoltó szolgálatok, a futópálya-felület viszonyaira vonatkozó értékelés és jelentéstétel, valamint a hóeltakarítási terv | nem |  |
 
-| 11. | AD 1.3 | A repülőterek neve és ICAO helységnév azonosítója, a repülőtéren engedélyezett forgalom típusa | nem |  |
+| 11. | AD 1.3, AD 2.1 | A repülőterek neve és ICAO helységnév azonosítója, a repülőtéren engedélyezett forgalom típusa | nem |  |
 
 | 12. | AD 1.4 | Repülőterek csoportosítása | nem |  |
 
@@ -142,7 +142,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 2. | GEN 4.1 | Repülőtereken fizetendő díjak | igen | A kereskedelmi repülőtér légijármű által történő igénybevételéért fizetendő díj megállapításának elveiről és módszereiről szóló miniszteri rendelet elvei szerint |
 
-| 3. | AD 2.2 | A repülőtér földrajzi és adminisztratív adatai | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 3. | AD 2.2 | A repülőtér földrajzi és üzemeltetési adatai | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
 | 4. | AD 2.3 | Üzemidő | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
@@ -152,7 +152,7 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 7. | AD 2.6 | Mentő és tűzoltó szolgálatok | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
-| 8. | AD 2.7 | Idényjellegű, időszakos használhatóság – hóeltakarítás | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 8. | AD 2.7 | A futópálya-felület állapotára vonatkozó értékeléssel és jelentéstétellel kapcsolatos információk, valamint a mozgási területek takarításához meghatározott berendezések és működési prioritások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
 | 9. | AD 2.8 | Előterek, gurulóutak és az ellenőrzőpontok adatai | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
@@ -176,17 +176,17 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 19. | AD 2.19 | Rádiónavigációs és leszállító berendezések | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
-| 20. | AD 2.20 | A repülőtérre vonatkozó helyi előírások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 20. |  |  |  |  |
 
 | 21. | AD 2.21 | Zajcsökkentő eljárások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
-| 22. | AD 2.22 | Repülési eljárások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 22. |  |  |  |  |
 
 | 23. | AD 2.23 | Kiegészítő tájékoztatások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
 
 | 24. | AD 2.24 | Adatok a következő ICAO térképek előállításához: repülőtér és helikopter-leszállóhely térképe, légijárművek parkolási térképe, repülőtéri földi mozgások térképe, repülőtéri akadályok A típusú térképe (minden egyes futópályára), precíziós megközelítés domborzati térképe (II-es és III-as kategóriás precíziós megközelítésű futópályákra), a repülőtér közvetlen környezetében található madárkolóniákat és élőhelyeket bemutató térkép | nem |  |
 
-| 25. | AD 2.25 | a csökkent látási viszonyok között követendő eljárások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+| 25. |  |  |  |  |
 
 7. A légiközlekedési balesetek kivizsgálását végző szervezet által megadandó tájékoztatások
 
@@ -322,6 +322,12 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 3. | AD 2.24 | Adatok a következő ICAO térképek előállításához: területi térkép, szabvány műszeres indulási eljárások térképe, szabvány műszeres érkezési eljárások térképe, radarvektorálásnál használható minimális tengerszint feletti magasságok térképe, műszeres megközelítési eljárások térképe (minden egyes futópályára és eljárástípusra), látással történő megközelítés térképe | nem |  |
 
+| 4. | AD 2.25 | A látható szakasz felszínére (VSS) behatoló akadályok | nem |  |
+
+| 5. | AD 2.22 | Repülési eljárások, köztük a csökkent látási viszonyok között követendő eljárások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+
+| 6. | AD 2.20 | A repülőtérre vonatkozó helyi előírások | igen | Repülőtér Rend / Repülőtéri Kézikönyv (AOM) jóváhagyás |
+
 19. Magyarország légiközlekedési terep és akadály adatbázisának kezelője
 
 |  | A | B | C | D |
@@ -382,4 +388,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^100]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a, a 116/2023. (IV. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^101]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a, a 116/2023. (IV. 5.) Korm. rendelet 1. §-a, a 655/2023. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
