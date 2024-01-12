@@ -1,6 +1,6 @@
 ## 18. A határozat tartalma
 
-## 41. §[^94] A leszállóhely létesítéséről rendelkező határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:
+## 41. §[^95] A leszállóhely létesítéséről rendelkező határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:
 
 a) a leszállóhely leírását, rendeltetését, osztályát,
 
@@ -12,7 +12,7 @@ d) a leszállóhely létesítési engedély hatályának lejártát követően s
 
 e) más jogszabályokban előírt engedélyek beszerzésének kötelezettségére történő figyelemfelhívást.
 
-f)[^95] „D” osztályú leszállóhely esetében a vízterület kezelőjének előírásait.
+f)[^96] „D” osztályú leszállóhely esetében a vízterület kezelőjének előírásait.
 
-[^94]: A 41. § a 207/2014. (VIII. 15.) Korm. rendelet 15. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 299. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^95]: A 41. § f) pontját a 116/2023. (IV. 5.) Korm. rendelet 11. §-a iktatta be.
+[^95]: A 41. § a 207/2014. (VIII. 15.) Korm. rendelet 15. §-ával megállapított, nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 299. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^96]: A 41. § f) pontját a 116/2023. (IV. 5.) Korm. rendelet 11. §-a iktatta be.

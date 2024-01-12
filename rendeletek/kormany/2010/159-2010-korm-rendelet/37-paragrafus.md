@@ -8,9 +8,9 @@
 
 a) a repülőtér fejlesztésének és megszüntetésének engedélyezése összhangban áll a magyar közlekedéspolitikával és a légiközlekedési politikával,
 
-b)[^80] megfelel-e az Országos Területfejlesztési Koncepcióban, az érintett területre vonatkozó területrendezési tervben, valamint településrendezési tervben foglaltaknak, és
+b)[^81] megfelel-e az Országos Területfejlesztési Koncepcióban, az érintett területre vonatkozó területrendezési tervben, valamint településrendezési tervben foglaltaknak, és
 
-c)[^81] a repülőtéren az állandó határátkelőhely, valamint a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek biztosítottak-e.
+c)[^82] a repülőtéren az állandó határátkelőhely, valamint a Nemzeti Adó- és Vámhivatalnak az Európai Unió külső vámhatárán működő szerve működéséhez szükséges feltételek biztosítottak-e.
 
-[^80]: A 37. § (3) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^81]: A 37. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.
+[^81]: A 37. § (3) bekezdés b) pontja a 420/2021. (VII. 15.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^82]: A 37. § (3) bekezdés c) pontja a 273/2010. (XII. 9.) Korm. rendelet 133. § (1) bekezdésével megállapított szöveg.

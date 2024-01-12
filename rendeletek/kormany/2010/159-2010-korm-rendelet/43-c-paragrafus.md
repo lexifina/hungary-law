@@ -1,4 +1,4 @@
-## 43/B. §[^108] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Kr.) megállapított rendelkezéseit a Kr. hatálybalépését[^109] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
+## 43/B. §[^109] E rendeletnek a környezeti hatások jelentőségének vizsgálatával összefüggésben egyes kormányrendeletek módosításáról szóló 82/2011. (V. 18.) Korm. rendelettel (a továbbiakban: Kr.) megállapított rendelkezéseit a Kr. hatálybalépését[^110] követően indult vagy megismételt ügyekben (eljárásokban) kell alkalmazni.
 
-[^108]: A 43/B. §-t a 82/2011. (V. 18.) Korm. rendelet 53. §-a iktatta be.
-[^109]: A hatálybalépés napja: 2011. szeptember 15.
+[^109]: A 43/B. §-t a 82/2011. (V. 18.) Korm. rendelet 53. §-a iktatta be.
+[^110]: A hatálybalépés napja: 2011. szeptember 15.

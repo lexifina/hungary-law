@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-159-20-
 | 2021-11-10 | 2010-159-20-22.24 | 309/2010. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2010-159-20-22.25 | 82/2011. (V. 18.) Korm. rendelet |
 | 2023-04-10 | 2010-159-20-22.26 | 116/2023. (IV. 5.) Korm. rendelet |
+| 2024-01-12 | 2010-159-20-22.27 | 85/2024. (IV. 17.) Korm. rendelet |

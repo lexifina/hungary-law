@@ -1,4 +1,4 @@
-## 3/A. §[^16] A hatósági engedéllyel rendelkező repülőterekről a légiközlekedési hatóság nyilvántartást vezet, amelyet a honlapján közzétesz. A nyilvántartás tartalmazza a repülőtér nevét, osztályát, helyét, az üzemben tartó nevét és elérhetőségét, továbbá a légiforgalmi szolgálatra és a futópályára vonatkozó adatokat.
+## 3/A. §[^17] A hatósági engedéllyel rendelkező repülőterekről a légiközlekedési hatóság nyilvántartást vezet, amelyet a honlapján közzétesz. A nyilvántartás tartalmazza a repülőtér nevét, osztályát, helyét, az üzemben tartó nevét és elérhetőségét, továbbá a légiforgalmi szolgálatra és a futópályára vonatkozó adatokat.
 
 ## II. Fejezet
 
@@ -10,7 +10,7 @@
 
 a) az egyes engedélyek esetén előírt mellékleteket,
 
-b)–c)[^17]
+b)–c)[^18]
 
-[^16]: A 3/A. §-t a 207/2014. (VIII. 15.) Korm. rendelet 4. §-a iktatta be.
-[^17]: A 4. § (2) bekezdés b)–c) pontját a 457/2017. (XII. 28.) Korm. rendelet 300. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^17]: A 3/A. §-t a 207/2014. (VIII. 15.) Korm. rendelet 4. §-a iktatta be.
+[^18]: A 4. § (2) bekezdés b)–c) pontját a 457/2017. (XII. 28.) Korm. rendelet 300. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

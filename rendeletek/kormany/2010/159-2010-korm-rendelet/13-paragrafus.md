@@ -6,6 +6,6 @@ a) a repülőtér megfelel-e a jogszabályokban előírt szakmai és műszaki k�
 
 b) a repülőtér elhelyezése, rendeltetése és a földrészlet kialakítása megfelelő-e, illetve alkalmas-e a rendeltetésszerű használatra, továbbá
 
-c)[^33] megfelel-e az Országos Területfejlesztési Koncepcióban, az érintett területre vonatkozó területrendezési tervben, valamint településrendezési tervben foglaltaknak.
+c)[^34] megfelel-e az Országos Területfejlesztési Koncepcióban, az érintett területre vonatkozó területrendezési tervben, valamint településrendezési tervben foglaltaknak.
 
-[^33]: A 13. § c) pontja a 420/2021. (VII. 15.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^34]: A 13. § c) pontja a 420/2021. (VII. 15.) Korm. rendelet 54. §-a szerint módosított szöveg.

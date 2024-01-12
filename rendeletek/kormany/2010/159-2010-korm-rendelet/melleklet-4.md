@@ -1,4 +1,4 @@
-4. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^129]
+4. melléklet a 159/2010. (V. 6.) Korm. rendelethez[^130]
 
 A „D” osztályú leszállóhely kijelölésével és használatával kapcsolatos előírások
 
@@ -20,10 +20,7 @@ végrehajtási rendelet és az 1265/2007/EK, az 1794/2006/EK, a 730/2006/EK, az 
 
 rendelet módosításáról szóló 923/2012/EU végrehajtási rendelete (SERA rendelet) 3. szakasz, 2. fejezet, 3230 a) 4. pontban előírtakat, továbbá a leszállás végrehajtása előtt, a kijelölt leszállóhely feletti alacsony magasságban történő átrepülés („áthúzás”) során a pilótának meg kell győződnie a leszállóhely akadálymentességéről.
 
-8. A „D” osztályú leszállóhely paraméterei légijármű típusonként:
+8.[^131]
 
-| Légijármű típusa | Leszállóhely hossza | Leszállóhely szélessége | Vízterület minimális mélysége |
-
-| 1. Cessna U206F | 1600 méter | 45 méter | 1 méter |
-
-[^129]: A 4. mellékletet a 116/2023. (IV. 5.) Korm. rendelet 13. §-a iktatta be.
+[^130]: A 4. mellékletet a 116/2023. (IV. 5.) Korm. rendelet 13. §-a iktatta be.
+[^131]: A 4. melléklet 8. pontját a 655/2023. (XII. 28.) Korm. rendelet 4. §-a hatályon kívül helyezte.
