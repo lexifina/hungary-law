@@ -5,4 +5,4 @@
 Környezeti hatásvizsgálat köteles tevékenységek
 
 [^266]: A 31. §-t a 477/2016. (XII. 27.) Korm. rendelet 33. § (1) bekezdése iktatta be.
-[^267]: Az 1. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (2) bekezdésével megállapított és a 441/2012. (XII. 29.) Korm. rendelet 10. § (2)–(3) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 29. §-a, a 277/2016. (IX. 15.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^267]: Az 1. számú melléklet a 145/2012. (VII. 3.) Korm. rendelet 40. § (2) bekezdésével megállapított és a 441/2012. (XII. 29.) Korm. rendelet 10. § (2)–(3) bekezdése, az 559/2013. (XII. 31.) Korm. rendelet 29. §-a, a 277/2016. (IX. 15.) Korm. rendelet 5. §-a, a 655/2023. (XII. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

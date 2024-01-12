@@ -134,6 +134,8 @@
 
 | 40. | Repülőtér | 2100 m alaphosszúságú futópályától |
 
+| 40a. | „D” osztályú leszállóhely | védett természeti területen, Natura 2000 területen |
+
 | 41. | Gáz-, kőolaj-, kőolajtermék- , vegyianyag- vagy geológiai tárolásra szánt szén-dioxid-áramokat szállító (beleértve a nyomásfokozó berendezéseket is) vezeték | 800 mm átmérőtől és 40 km hossztól |
 
 | 42. | Földgáztároló | 200 000 m3 össztároló-kapacitástól |
