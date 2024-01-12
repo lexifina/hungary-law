@@ -4,7 +4,7 @@
 
 | 0 | 2000 |
 
-4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^26]
+4. melléklet az 50/2011. (IX. 30.) NFM rendelethez[^33]
 
 A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
@@ -20,9 +20,9 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 5. | Almásfüzitő | ALFEN Almásfüzitői Energetikai és Szolgáltató Kft. | 13 839 |
 
-| 6. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 11 754[^27] |
+| 6. | Baj | T-Szol Tatabányai Szolgáltató Zrt. | 11 754[^34] |
 
-| 7. | Baja | Baja Energetika Kft. | 11 644[^28] |
+| 7. | Baja | Baja Energetika Kft. | 11 644[^35] |
 
 | 8. | Balatonfüred | Füredhő Távhőszolgáltatási Kft. | 10 780 |
 
@@ -114,7 +114,7 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 52. | Miskolc | MIHŐ Kft. | 9 400 |
 
-| 53. | Mohács | MOHÁCS-HŐ Kft. | 9 991[^29] |
+| 53. | Mohács | MOHÁCS-HŐ Kft. | 9 991[^36] |
 
 | 54. | Mór | MÓRHŐ Kft. | 13 773 |
 
@@ -210,7 +210,7 @@ A Külön Kezelt Intézményeknek értékesített távhő hődíja
 
 | 100. | Zirc | Veolia Energia Magyarország Zrt. | 14 725 |
 
-[^26]: A 4. melléklet a 20/2023. (IX. 29.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^27]: A 4. mellékletben foglalt táblázat C:6 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^28]: A 4. mellékletben foglalt táblázat C:7 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 4. mellékletben foglalt táblázat C:53 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^33]: A 4. melléklet a 20/2023. (IX. 29.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^34]: A 4. mellékletben foglalt táblázat C:6 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^35]: A 4. mellékletben foglalt táblázat C:7 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^36]: A 4. mellékletben foglalt táblázat C:53 mezője a 22/2023. (X. 13.) EM rendelet 3. § (2) bekezdés c) pontja szerint módosított szöveg.
