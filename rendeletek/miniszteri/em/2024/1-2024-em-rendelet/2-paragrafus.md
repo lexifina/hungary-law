@@ -1,0 +1,3 @@
+2. § Az Árrendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A külön kezelt intézmény a távhőszolgáltatásért a településen működő távhőszolgáltató az ellátási területen a korábbi távhőszolgáltató helyett működő új távhőszolgáltató vagy cégnevét a távhőszolgáltatói működési engedélyének az engedélyesi tevékenységet érintő tartalmának módosulása nélkül megváltoztató távhőszolgáltató részére a 4. melléklet szerinti – legmagasabb hatósági árnak minősülő fogyasztás alapú – önköltségi hődíjat fizeti. Az e bekezdés alapján fizetett önköltségi hődíj nem érinti a külön kezelt intézmény és a távhőszolgáltató szerződése alapján a nem fogyasztás alapján fizetett díjakat.”
