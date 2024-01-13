@@ -1,0 +1,3 @@
+1. § A magyarországi gazdasági társaságok gazdasági célú védelméhez szükséges egyes rendelkezések veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 561/2022. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 3. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) E rendelet rendelkezései nem alkalmazhatók, ha közvetlenül a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött, (1) bekezdés szerinti jogügylet egyidejűleg a külföldi székhelyű jogi személynek vagy egyéb szervezetnek olyan, a számvitelről szóló 2000. évi C. törvény szerinti alárendelt, kapcsolt vállalkozása tekintetében eredményezi közvetve a (2)–(4) bekezdésben foglaltakat, amely alárendelt kapcsolt vállalkozás stratégiai társaságnak minősül.”
