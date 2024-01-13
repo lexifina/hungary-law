@@ -1,5 +1,3 @@
-## 3–5. §[^5]
-
 ## Jelzálogjog bejegyzés
 
 6. § (1) A lajstromban szereplő légijárműre jelzálogjogot a légijármű egészére vagy közös tulajdonban álló légijárműveknek a tulajdonostársat megillető eszmei hányadára lehet bejegyezni.
@@ -10,10 +8,9 @@
 
 (4) Ha ugyanazon követelés biztosítására különböző lajstromjelű légijárművekre kell a jelzálogjogot bejegyezni (egyetemleges jelzálogjog), a bejegyzésben az egyetemlegességre mindegyik légijárműnél utalni kell.
 
-(5)[^6] A jelzálogjog alapítására, módosulására, illetve megszűnésére vonatkozó bejegyzésre a hitelbiztosítéki nyilvántartás részletes szabályainak megállapításáról szóló 18/2014. (III. 13.) KIM rendeletet kell alkalmazni.
+(5)[^10] A jelzálogjog alapítására, módosulására, illetve megszűnésére vonatkozó bejegyzésre a hitelbiztosítéki nyilvántartás részletes szabályainak megállapításáról szóló 18/2014. (III. 13.) KIM rendeletet kell alkalmazni.
 
-(6)[^7]
+(6)[^11]
 
-[^5]: A 3–5. §-t az 55/2017. (XII. 27.) NFM rendelet 14. § b) pontja hatályon kívül helyezte.
-[^6]: A 6. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 13. § b) pontja szerint módosított szöveg.
-[^7]: A 6. § (6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 14. § c) pontja hatályon kívül helyezte.
+[^10]: A 6. § (5) bekezdése az 55/2017. (XII. 27.) NFM rendelet 13. § b) pontja szerint módosított szöveg.
+[^11]: A 6. § (6) bekezdését az 55/2017. (XII. 27.) NFM rendelet 14. § c) pontja hatályon kívül helyezte.

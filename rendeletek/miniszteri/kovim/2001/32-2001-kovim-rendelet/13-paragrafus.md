@@ -1,5 +1,3 @@
-## 12. §[^11]
-
 ## II. Fejezet
 
 ## LÉGIJÁRMŰ FELSÉGJELE ÉS LAJSTROMJELE
@@ -16,7 +14,7 @@ b) gömb alakú ballonon a felség- és lajstromjeleket a ballon mindkét oldal�
 
 (3) Levegőnél nehezebb légijármű esetében:
 
-a)[^12] a felség- és lajstromjelet a szárnyszerkezet alsó felületének bal oldalán kell elhelyezni úgy, hogy a betűk, számok felső része a szárny belépőélének irányába essen. Amennyire csak lehetséges, a jeleket a be- és kilépőélektől egyenlő távolságra kell elhelyezni;
+a)[^16] a piros-fehér-zöld színjelzés nélküli felség- és lajstromjelet a szárnyszerkezet alsó felületének bal oldalán kell elhelyezni úgy, hogy a betűk, számok felső része a szárny belépőélének irányába essen, és a jeleket a be- és kilépőélektől egyenlő távolságra kell elhelyezni, kivéve, ha annak műszaki akadálya van;
 
 b) a felség- és lajstromjelet a törzs mindkét oldalán (vagy azzal egyenértékű szerkezetén) a szárnyak és a vezérsíkok között, vagy a függőleges vezérsík felső felületein kell feltüntetni. Osztott vezérsíkú felületek esetén a jeleket a szélső vezérsíkok külső oldalán kell elhelyezni.
 
@@ -24,5 +22,4 @@ b) a felség- és lajstromjelet a törzs mindkét oldalán (vagy azzal egyenért
 
 (5) Ha a jelzések nem felelnek meg jelen rendelet szabályainak, a légiközlekedési hatóság a légijármű üzemben tartóját [az Lt. 19. §-ának (2) bekezdésében foglalt esetben a légijármű tulajdonosát] kötelezi annak átfestésére vagy újbóli rögzítésére.
 
-[^11]: A 12. §-t az 55/2017. (XII. 27.) NFM rendelet 14. § e) pontja hatályon kívül helyezte.
-[^12]: A 13. § (3) bekezdésének a) pontja a 63/2001. (XII. 23.) KöViM rendelet 58. §-ának (2) bekezdésével megállapított szöveg.
+[^16]: A 13. § (3) bekezdés a) pontja a 29/2023. (XII. 29.) ÉKM rendelet 4. §-ával megállapított szöveg.
