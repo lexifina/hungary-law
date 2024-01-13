@@ -28,8 +28,6 @@ b) a 2. § 2. pont b) alpontja szerinti külföldi befektető a tulajdonszerzés
 
 (4) A miniszterhez tett bejelentés és a bejelentés tudomásulvétele szükséges a 2. § 3. pontjában megjelölt ágazatokba tartozó tevékenység folytatásához nélkülözhetetlen infrastruktúrák, berendezések és eszközök átruházása, használati vagy működtetési jogának átengedése vagy ilyen vagyontárgyak biztosítékba adása (a továbbiakban együtt: üzemeltetési jog) esetén is, ha az üzemeltetési jogot külföldi befektető vagy olyan jogi személy vagy szervezet szerzi meg, amelyben a külföldi befektető közvetlenül vagy közvetetten a Ptk. szerinti többségi befolyással rendelkezik.
 
-(5) E rendelet rendelkezései nem alkalmazhatók, ha a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött (1) bekezdés szerint jogügylet
+(5)[^1] E rendelet rendelkezései nem alkalmazhatók, ha közvetlenül a külföldi székhelyű jogi személy vagy egyéb szervezet tekintetében létrejött, (1) bekezdés szerinti jogügylet egyidejűleg a külföldi székhelyű jogi személynek vagy egyéb szervezetnek olyan, a számvitelről szóló 2000. évi C. törvény szerinti alárendelt, kapcsolt vállalkozása tekintetében eredményezi közvetve a (2)–(4) bekezdésben foglaltakat, amely alárendelt kapcsolt vállalkozás stratégiai társaságnak minősül.
 
-a) a külföldi székhelyű jogi személy vagy egyéb szervezet stratégiai társaságnak minősülő magyarországi székhelyű leányvállalata tekintetében eredményezi a (2)–(4) bekezdésben foglaltakat,vagy
-
-b) a számvitelről szóló 2000. évi C. törvény szerinti kapcsolt vállalkozások tekintetében jön létre.
+[^1]: A 3. § (5) bekezdése az 566/2023. (XII. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
