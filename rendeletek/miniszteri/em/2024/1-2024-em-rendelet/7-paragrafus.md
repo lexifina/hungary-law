@@ -1,3 +1,3 @@
-7. § A Rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(1) Az igénylő tárgyhavi támogatási igénybejelentésének a tárgyhót követő hónap 12. napját követő első munkanapig (a továbbiakban: igénylési határnap) be kell érkeznie a rendszerirányítóhoz.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

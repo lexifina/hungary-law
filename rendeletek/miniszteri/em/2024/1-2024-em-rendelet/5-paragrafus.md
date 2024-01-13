@@ -1,1 +1,3 @@
-5. § Az Árrendelet 1. mellékletében foglalt táblázat címében az „Az értékesítői díjak” szövegrész helyébe az „1. Az értékesítői díjak” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
