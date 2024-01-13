@@ -1,0 +1,1 @@
+5/D. § A már forgalomban lévő, de nem biztonsági okmányként kibocsátott irat vagy digitális okmány esetében a biztonsági okmánnyá történő minősítésre a Szakszolgálat is javaslatot tehet. Ilyen esetben az 5/C. § (4) és (5) bekezdésében előírtak szerint kell eljárni, azzal, hogy a kezdeményezéshez csatolni kell a kibocsátó írásos állásfoglalását.

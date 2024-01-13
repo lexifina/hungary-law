@@ -1,28 +1,25 @@
-## 6/D. §[^22] A személyazonosításra vagy határátlépésre jogosító, „A” okmányvédelmi kategóriába sorolt elektronikus biztonsági okmány adatfelvételezése és megszemélyesítése kizárólag zárt elektronikus informatikai rendszerben történhet, amely zárt, kormányzati elektronikus informatikai rendszer kivételével más elektronikus informatikai rendszerhez nem csatlakozhat.
+## Az előállítást, illetve a megszemélyesítést végző szervezet kiválasztása[^42]
 
-## A biztonsági okmány előállítójának kiválasztása
+7. § (1) A biztonsági okmány, illetve az annak előállításához szükséges okmányalkatrészek előállításával, továbbá a biztonsági okmány megszemélyesítésével csak olyan szervezet bízható meg, amely – a (2) bekezdésben foglalt kivétellel a kibocsátó ellenőrzése alapján – rendelkezik
 
-7. § (1)[^23] Biztonsági okmány, illetve az annak előállításához szükséges okmányalkatrészek előállításával csak olyan szervezet bízható meg, amely – a kibocsátó ellenőrzése alapján – rendelkezik
-
-a)[^24] az 1. számú melléklet I. része alatti biztonsági okmányok esetében az EU minősített specifikációban, az 1. számú melléklet II–III. része alatti biztonsági okmányok esetében pedig a Szakszolgálat által elkészített okmányvédelmi rendszertervben meghatározott előírások teljesítéséhez szükséges műszaki, technikai, technológiai feltételekkel,
+a) az 1. számú melléklet 1. pontja alatt felsorolt biztonsági okmányok esetében az EU minősített specifikációban, vagy az 1. számú melléklet 2. és 3. pontja alatt felsorolt biztonsági okmányok esetében a Szakszolgálat által elkészített okmányvédelmi rendszertervben meghatározott előírások teljesítéséhez szükséges műszaki, technikai, technológiai feltételekkel,
 
 b) zártrendszerű, a szigorú elszámolást lehetővé tevő technológiai-szervezeti rendszerrel és az azt szabályozó biztonsági szabályzattal,
 
-c) a tevékenységnek megfelelő belső ellenőrző apparátussal, őrző biztonsági személyzettel és technikai berendezésekkel,
+c) a tevékenységnek megfelelő belső ellenőrző szervezettel és eljárásrenddel,
 
-d) a selejt és hulladékanyagok zártrendszerű megsemmisítéséhez szükséges berendezéssel vagy eljárásrenddel, és
+d) őrzésvédelmet biztosító technikai berendezésekkel és – a (3) bekezdésben foglalt kivétellel – őrző biztonsági személyzettel, valamint
 
-e) vállalja, hogy eleget tesz az e rendeletben foglalt további okmányvédelmi előírásoknak és egyéb kötelezettségeknek.
+e) a selejt- és a hulladékanyagok zártrendszerű megsemmisítéséhez szükséges berendezéssel és eljárásrenddel.
 
-(2)[^25] Az „A” és „B” védelmi kategóriába tartozó biztonsági okmányt előállító szervezet kiválasztása során az (1) bekezdés a) pontja szerinti feltételek vizsgálatát a kibocsátó a Szakszolgálat bevonásával folytatja le.
+(2) Az „A” és a „B” okmányvédelmi kategóriába tartozó biztonsági okmány esetében az előállító, illetve a megszemélyesítést végző szervezet kiválasztása során az (1) bekezdés a) pontja szerinti feltételek vizsgálatát a kibocsátó a Szakszolgálat bevonásával folytatja le.
 
-(3)[^26] Az előállító személyében bekövetkező változás esetén az új okmányra meghatározott előállítási engedélyezési eljárást kell kezdeményezni.
+(3) Ha a „B” vagy a „C” okmányvédelmi kategóriába sorolt biztonsági okmány kibocsátója egyben a megszemélyesítést végző szervezet is, akkor az (1) bekezdés d) pontjában meghatározott őrző biztonsági személyzet fenntartására vonatkozó követelmény alkalmazásától el kell tekinteni.
 
-(4)[^27] A megszemélyesítést végző szervezetre az előállítóra vonatkozó szabályokat értelemszerűen kell alkalmazni.
+(4) A biztonsági okmány előállítására, illetve megszemélyesítésére vonatkozó engedélykérelemben a kibocsátó nyilatkozik arról, hogy az (1) bekezdés b)–e) pontjában, illetve a (3) bekezdésben meghatározott feltételek az előállítónál, illetve a megszemélyesítést végző szervezetnél fennállnak.
 
-[^22]: A 6/D. §-t a 312/2015. (X. 28.) Korm. rendelet 9. §-a iktatta be.
-[^23]: A 7. § (1) bekezdésének felvezető szövege a 299/2006. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^24]: A 7. § (1) bekezdés a) pontja a 145/2011. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^25]: A 7. § (2) bekezdése a 312/2015. (X. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^26]: A 7. § (3) bekezdését a 182/2003. (XI. 5.) Korm. rendelet 11. §-a hatályon kívül helyezte, újonnan a 312/2015. (X. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^27]: A 7. § (4) bekezdését a 312/2015. (X. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+(5) Az előállító, illetve az „A” okmányvédelmi kategóriába sorolt biztonsági okmány megszemélyesítését végző személyében bekövetkező változás esetén új engedélyezési eljárást kell kezdeményezni.
+
+(6) A Szakszolgálat kibocsátói vagy – okmánybiztonsági érdekből – saját kezdeményezésre saját hatáskörbe vonhatja az egyes biztonsági okmányok okmányvédelmi tervének elkészítését vagy az okmány kizárólagos előállítását. Ilyen esetben az előállítást a Szakszolgálat a kibocsátó megrendelése alapján térítési díj ellenében végzi, a térítési díj meghatározása önköltségszámítás alapján történik.
+
+[^42]: Az „Az előállítást, illetve a megszemélyesítést végző szervezet kiválasztása” alcím (7. §) az 563/2023. (XII. 14.) Korm. rendelet 8. §-ával megállapított szöveg.

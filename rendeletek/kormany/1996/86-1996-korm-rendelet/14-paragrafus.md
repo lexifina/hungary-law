@@ -1,89 +1,66 @@
-## Az Európai Unió jogának való megfelelés[^41]
+## Az Európai Unió jogának való megfelelés[^57]
 
-14. §[^42] (1) E rendelet 1. számú mellékletének I. része
+14. §[^58] (1) E rendelet 1. számú melléklet 1. pontja
 
-a) (a vízumbélyeg vonatkozásában) a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendelet, valamint az azt módosító 2002. február 18-i 334/2002/EK tanácsi rendelet és a 2008. július 24-i 856/2008/EK tanácsi rendelet,
+1. a vízumok egységes formátumának meghatározásáról szóló, 1995. május 29-i 1683/95/EK tanácsi rendelet és az azt módosító 2017. július 4-i (EU) 2017/1370 európai parlamenti és tanácsi rendelet;
 
-b) (a vízum elhelyezésére szolgáló különlap vonatkozásában) az érintett tagállam által el nem ismert úti okmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i 333/2002/EK tanácsi rendelet,
+2. az érintett tagállam által el nem ismert útiokmányok birtokosai részére a tagállamok által kiadott vízumok beillesztésére szolgáló űrlapok egységes formátumáról szóló, 2002. február 18-i 333/2002/EK tanácsi rendelet;
 
-c) (a tartózkodási engedély vonatkozásában) a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet és az azt módosító 380/2008/EK tanácsi rendelet,
+3. a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a 2017. október 25-i (EU) 2017/1954 európai parlamenti és tanácsi rendelet;
 
-d) (a vízumbélyeg vonatkozásában) a C(2010) 319 számú bizottsági határozat,
+4. a jogellenesen tartózkodó harmadik országbeli állampolgárok visszaküldéséhez kiállított európai úti okmány létrehozásáról, valamint az 1994. november 30-i tanácsi ajánlás hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/1953 európai parlamenti és tanácsi rendelet;
 
-e) (a vízum elhelyezésére szolgáló különlap vonatkozásában) a C(2002) 3012 számú bizottsági határozat,
+5. a C (2018) 674 bizottsági végrehajtási határozat az egységes vízumformátumra vonatkozó további műszaki előírásokról és a Bizottság (2010) 319 határozatának hatályon kívül helyezéséről;
 
-f) (a tartózkodási engedély vonatkozásában) a C(2002) 3069 számú bizottsági határozat,
+6. a harmadik országok állampolgárai tartózkodási engedélye egységes formátumára vonatkozó műszaki előírások megállapításáról és a C (2002)3069 határozat hatályon kívül helyezéséről szóló, 2018. november 30-i C (2018) 7767 bizottsági végrehajtási határozat;
 
-g) (a tartózkodási engedély vonatkozásában) a C(2009) 3770 számú bizottsági határozat
+7. az (EU) 2019/997 tanácsi irányelvvel létrehozott uniós ideiglenes úti okmányra vonatkozó további technikai előírások megállapításáról C(2022) 8938 bizottsági végrehajtási határozat
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
+## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(2) E rendelet 1. számú mellékletének II. része
+(2) E rendelet 1. számú melléklet 2. pontja
 
-a) (a vasúti járművezetői engedély, a kiegészítő tanúsítvány és a kiegészítő tanúsítvány hitelesített másolata vonatkozásában) a mozdonyvezetői engedélyeknek, a kiegészítő tanúsítványoknak, a kiegészítő tanúsítványok hitelesített másolatának, valamint a mozdonyvezetői engedély kérelmezésére szolgáló formanyomtatványnak a 2007/59/EK európai parlamenti és tanácsi irányelv szerinti közösségi mintájáról szóló, 2009. december 3-i 2010/36/EU bizottsági rendelet,
+1. a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelvnek és az azt módosító, 2003. december 23-i 2003/127/EK tanácsi irányelvnek, valamint 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek;
 
-b) (a nemzetközi közúti árufuvarozási engedély vonatkozásában) a tagállamok területére vagy területéről történő, illetve a tagállamok területén áthaladó, Közösségen belüli közúti árufuvarozási piacra való bejutásról szóló, 1992. március 26-i 881/92/EGK tanácsi rendelet,
+2. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK,a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek;
 
-c) (a járművezetői igazolvány – közösségi engedéllyel történő közúti árufuvarozáshoz – vonatkozásában) a 881/92/EGK és a 3118/93/EGK tanácsi rendeletnek a járművezetői igazolvány létrehozása érdekében történő módosításáról szóló, 2002. március 1-i 484/2002/EK európai parlamenti és tanácsi rendelet,
+3. a vezetői engedélyekről szóló, 2006. december 20-i 2006/126/EK európai parlamenti és tanácsi irányelvnek és az azt módosító, 2011. november 28-i 2011/94/EU bizottsági irányelvnek;
 
-d) (a magánútlevél vonatkozásában) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírások műszaki leírásainak megállapításáról szóló, 2006. június 28-i B(2006) 2909 bizottsági határozat,
+4. az uniós ideiglenes úti okmány létrehozásáról, valamint a 96/409/KKBP tanácsi határozat hatályon kívül helyezéséről szóló, 2019. június 18-i (EU) 2019/997 tanácsi irányelvnek;
 
-e) (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában)
+5. a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 2021. március 24-i (EU) 2021/555 európai parlamenti és tanácsi irányelvnek;
 
-ea) a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet és
+6. az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561 európai parlamenti és tanácsi irányelvnek;
 
-eb) a tagállamok által kiállított útlevelekben és úti okmányokban alkalmazott biztonsági jellemzők és biometrika szabványaira vonatkozó műszaki előírások megállapításáról szóló, 2005. február 28-i C(2005) 409 bizottsági határozat,
+7. a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i (EU) 2016/801 európai parlamenti és tanácsi irányelvnek;
 
-f) (a robbanóanyagok Közösségen belüli szállítási okmánya vonatkozásában) a robbanóanyagok Közösségen belüli szállítási okmányáról szóló, 2004. április 15-i 2004/388/EK bizottsági határozat,
+8. az egységes formátumú útlevél bevezetéséről szóló, 1981. június 23-i tanácsi állásfoglalásnak (81/C 241/01), valamint az annak módosításáról szóló 1982. június 30-i, 1986. július 14-i és 1995. július 10-i, valamint 2004. június 8-i tanácsi állásfoglalásoknak;
 
-g)[^43]
+9. az útlevelek és egyéb úti okmányok biztonsági jeleiről szóló, 2000. október 17-i tanácsi állásfoglalásnak (2000/C 310/01);
 
-h) (az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok vonatkozásában) az egy ideiglenes úti okmány létrehozásáról szóló, 1996. június 25-i 96/409/KKBP tanácsi határozat, valamint
+10. az európai lőfegyvertartási igazolványról szóló, 1993. február 25-i 93/216/EGK bizottsági ajánlásnak, valamint az azt kiegészítő 1996. január 12-i 96/129/EK bizottsági ajánlásnak és a 2004. december 28-i 2005/11/EK bizottsági ajánlásnak;
 
-i) (a meghívólevél – magyarországi beutazáshoz és tartózkodáshoz – vonatkozásában) a meghívólevél, a kötelezettségvállaló nyilatkozat és a szállás igazolására szolgáló harmonizált formanyomtatvány bevezetéséről szóló, 1998. december 16-i SCH/Com-ex(98)57 végrehajtó bizottsági határozat
-
-végrehajtásához szükséges rendelkezéseket állapít meg.
-
-(3) E rendelet 1. számú mellékletének II. része
-
-a) (az európai lőfegyvertartási engedély vonatkozásában) a fegyverek megszerzésének és tartásának ellenőrzéséről szóló, 1991. június 18-i 91/477/EGK tanácsi irányelvnek,
-
-b) (a vezetői engedély vonatkozásában) a vezetői engedélyekről szóló, 1991. július 29-i 91/439/EGK tanácsi irányelvnek,
-
-c)[^44] (a gépjárművezetői képesítési igazolvány vonatkozásában) az egyes közúti árufuvarozást vagy személyszállítást végző járművek vezetőinek alapképesítéséről és továbbképzéséről szóló, 2022. december 14-i (EU) 2022/2561 európai parlamenti és tanácsi irányelvnek,
-
-d) (a gépjármű forgalmi engedély vonatkozásában) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelvnek, valamint
-
-e)[^45] (az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgára [EGT-állampolgár] számára kiadott tartózkodási engedély, regisztrációs igazolás, az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagjának tartózkodási kártyája, az EGT-állampolgár és családtagja részére kiadott állandó tartózkodási kártya vonatkozásában) az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek
-
-f)[^46] (a vezetői engedély vonatkozásában) a vezetői engedélyekről szóló, 2006. december 20-i 2006/126/EK európai parlamenti és tanácsi irányelvnek,
-
-g)[^47] a mobilitási igazolás vonatkozásában a harmadik országbeli állampolgárok kutatás, tanulmányok folytatása, gyakorlat, önkéntes szolgálat, diákcsereprogramok vagy oktatási projektek, és au pair tevékenység céljából történő beutazásának és tartózkodásának feltételeiről szóló, 2016. május 11-i 2016/801/EU európai parlamenti és tanácsi irányelvnek
+11. a fogyatékossággal élő személyek parkolási kártyájáról szóló, 1998. június 4-i 98/376/EK tanácsi ajánlásnak és az azt kiigazító 2008. március 3-i 2008/205/EK tanácsi ajánlásnak
 
 ## való megfelelést szolgálja.
 
-(4) E rendelet 1. számú mellékletének II. része
+(3) E rendelet 1. számú melléklet 2. pontja
 
-a) (a magánútlevél, valamint a hivatalos útlevelek – diplomata-, külügyi szolgálati, hajós szolgálati, szolgálati – vonatkozásában) az egységes formátumú útlevél bevezetéséről szóló, 1981. június 23-i tanácsi állásfoglalással,
+1. a robbanóanyagok Közösségen belüli szállítási okmányáról szóló, 2004. április 15-i 2004/388/EK bizottsági határozat;
 
-b) (a hat hónapnál hosszabb érvényességi idejű, rövid lejáratú útlevelek, valamint az úti okmányként kiadott, útlevelet helyettesítő biztonsági okmányok és a személyazonosító igazolvány vonatkozásában) az útlevelek és egyéb úti okmányok biztonsági jeleiről szóló, 2000. október 17-i 2000/C 310/01 tanácsi állásfoglalással,
+2. a tagállamok által kiállított útlevelek és úti okmányok biztonsági jellemzőire és biometrikus elemeire vonatkozó előírásokról szóló, 2004. december 13-i 2252/2004/EK tanácsi rendelet és az azt módosító, 2009. május 28-i 444/2009/EK európai parlamenti és tanácsi rendelet;
 
-c) (az európai lőfegyvertartási engedély vonatkozásában) az európai fegyvertartási engedélyről szóló, 1993. február 25-i 93/216/EGK bizottsági ajánlással, valamint
+3. a Közösségi Vízumkódex létrehozásáról szóló, 2009. július 13-i 810/2009/EK európai parlamenti és tanácsi rendelet;
 
-d) (a mozgásában korlátozott személy parkolási igazolványa vonatkozásában) a mozgásában korlátozott személy parkolási igazolványáról szóló, 1998. június 4-i 98/376/EK tanácsi ajánlással
+4. a mozdonyvezetői engedélyeknek, a kiegészítő tanúsítványoknak, a kiegészítő tanúsítványok hitelesített másolatának, valamint a mozdonyvezetői engedély kérelmezésére szolgáló formanyomtatványnak a 2007/59/EK európai parlamenti és tanácsi irányelv szerinti közösségi mintájáról szóló, 2009. december 3-i 2010/36/EU bizottsági rendelet;
 
-## összeegyeztethető rendelkezéseket tartalmaz.
+5. a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i (EU) 2015/2403 bizottsági rendelet és az azt módosító 2018. március 5-i (EU) 2018/337 bizottsági végrehajtási rendelet;
 
-(5)[^48] E rendelet 1. számú melléklet III. rész 1.78/a. pontja a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+6. a tagállamok által kiállított útlevelek és úti okmányok biztonsági elemeire és biometrikus azonosítóira vonatkozó előírások műszaki leírásainak megállapításáról, valamint a C (2006) 2909 és a C (2008) 8657 határozat hatályon kívül helyezéséről szóló C (2018) 7774 bizottsági határozat;
 
-(6)[^49] Az 1. számú melléklet I. rész 3–5. pontja és II. rész 22. pontja az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i (EU) 2019/1157 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+7. az uniós polgárok személyazonosító igazolványai és a szabad mozgás jogával élő uniós polgárok és azok családtagjai részére kiállított tartózkodási okmányok biztonságának megerősítéséről szóló, 2019. június 20-i európai parlamenti és tanácsi (EU) 2019/1157 rendelet;
 
-[^41]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
-[^42]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2011. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^43]: A 14. § (2) bekezdés g) pontját a 617/2022. (XII. 29.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
-[^44]: A 14. § (3) bekezdés c) pontja a 141/2023. (IV. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^45]: A 14. § (3) bekezdés e) pontja a 411/2017. (XII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^46]: A 14. § (3) bekezdés f) pontját a 145/2011. (VII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^47]: A 14. § (3) bekezdés g) pontját a 411/2017. (XII. 15.) Korm. rendelet 1. §-a iktatta be.
-[^48]: A 14. § (5) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 23. §-a iktatta be.
-[^49]: A 14. § (6) bekezdését a 259/2021. (V. 20.) Korm. rendelet 1. §-a iktatta be.
+8. a belvízi hajózás szakmai képesítések tekintetében alkalmazott mintákról szóló (EU) 2020/182 bizottsági végrehajtási rendelet
+
+[^57]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
+[^58]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege az 563/2023. (XII. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
