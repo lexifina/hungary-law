@@ -2,7 +2,8 @@
 
 a)[^1]
 
-b)[^2]
+b) 1. számú melléklet 1. pont b) alpontjában „a külföldi vezetői engedély honosítása” szövegrész helyébe a „külföldi vezetői engedély honosítása, visszahonosítása” szöveg
+
+lép.
 
 [^1]: Az 1. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § b) pontja a 2. § (2) bekezdés alapján 2024. január 14-én lép hatályba.
