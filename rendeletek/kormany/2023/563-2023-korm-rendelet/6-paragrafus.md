@@ -1,3 +1,3 @@
-6. § Az R. 6. §-a a következő (1a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(1a) Az (1) bekezdéstől eltérően az előállító is kezdeményezheti a megújuló biztonsági okmány előállításának engedélyezését a Szakszolgálatnál abban az esetben, ha a biztonsági okmány érvényes engedély alapján történő előállításához gyártási vagy technológiai okból olyan okmányvédelmi tervet érintő engedélyköteles módosítás végrehajtása szükséges, amely nem eredményezi a biztonsági okmány vizuális megjelenésének a módosulását. Ebben az esetben az ezen alcímben a kibocsátóra meghatározott rendelkezéseket az előállítóra is megfelelően alkalmazni kell.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

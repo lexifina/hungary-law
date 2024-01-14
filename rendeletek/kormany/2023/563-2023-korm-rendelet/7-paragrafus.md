@@ -1,3 +1,3 @@
-7. § Az R. 6/C. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) A „Kiemelt” okmányinformatikai védelmi kategóriába sorolt informatikai adathordozót tartalmazó biztonsági okmányok esetében, ha az informatikai adathordozó biometrikus vagy jogszabályban meghatározott egyéb különleges adatot is tartalmaz, a biztonsági okmány hitelességének, az adatok integritásának biztosítása és a biztonsági okmány informatikai adathordozójából történő olvasáshoz szükséges jogosultságok biztosítása érdekében az adott biztonsági okmányra vonatkozó nemzetközi előírásokban vagy az Európai Unió kötelező jogi aktusában meghatározott, ezek hiányában az általános szabványoknak megfelelő nyilvános kulcsú infrastruktúrát, valamint adatstruktúrákat, kommunikációs protokollokat, illetve modelleket kell alkalmazni.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

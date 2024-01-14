@@ -1,3 +1,3 @@
-9. § Az R. 14. §-a helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„14. § (1) E rendelet 1. számú melléklet 1. pontja
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
