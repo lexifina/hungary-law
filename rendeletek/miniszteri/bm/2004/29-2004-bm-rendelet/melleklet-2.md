@@ -8,7 +8,7 @@
 
 | a) tanfolyammentes elméleti vagy gyakorlati vizsga engedélyezése, vizsgánként | 4 500 |
 
-| b) a külföldi vezetői engedély honosítása | 6 200 |
+| b) külföldi vezetői engedély honosítása, visszahonosítása | 6 200 |
 
 | c) |  |
 
