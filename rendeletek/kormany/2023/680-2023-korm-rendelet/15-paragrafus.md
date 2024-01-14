@@ -1,3 +1,11 @@
-15. §[^15]
+15. § A Vet. vhr. 91. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^15]: A 15. § a 23. § (2) bekezdés alapján 2024. január 14-én lép hatályba.
+„(2a) A VET 95. § (6) bekezdése szerinti bírság
+
+a) alsó határa az adott eljárásért fizetendő igazgatási szolgáltatási díj másfélszerese, de legalább ötvenezer forint;
+
+b) felső határa
+
+ba) az engedélyes esetén a (2) bekezdés szerinti összeg,
+
+bb) a befolyásszerző esetén százmillió forint.”
