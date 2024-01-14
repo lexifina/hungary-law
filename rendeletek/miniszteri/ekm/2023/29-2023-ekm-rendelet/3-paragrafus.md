@@ -1,3 +1,3 @@
-3. § Az R. „Légijármű törlése a lajstromból” című alcíme a következő 12. §-sal egészül ki:
+3. §[^4]
 
-„12. § A légijármű lajstromból történő törlésekor a légiközlekedési hatóság a 2. melléklet szerinti lajstromból törlési bizonyítványt állít ki.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

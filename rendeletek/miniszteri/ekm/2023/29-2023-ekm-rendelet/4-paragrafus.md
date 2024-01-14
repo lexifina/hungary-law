@@ -1,3 +1,3 @@
-4. § Az R. 13. § (3) bekezdés a) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(Levegőnél nehezebb légijármű esetében:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

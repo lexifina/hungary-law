@@ -1,7 +1,3 @@
-## „1. melléklet a 32/2001. (IX. 28.) KöViM rendelethez
+2. melléklet a 29/2023. (XII. 29.) ÉKM rendelethez[^12]
 
-## 3X12217.pdf
-
-## ”
-
-2. melléklet a 29/2023. (XII. 29.) ÉKM rendelethez
+[^12]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
