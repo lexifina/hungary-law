@@ -1,1 +1,3 @@
-1. § Az árfigyelő rendszerbe tartozó termékkategóriákról és termékekről szóló 11/2023. (VI. 22.) GFM rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
