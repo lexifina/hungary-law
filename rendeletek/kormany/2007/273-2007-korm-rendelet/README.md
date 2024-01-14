@@ -67,3 +67,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-273-20-
 | 2023-09-13 | 2007-273-20-22.72 | 427/2023. (IX. 13.) Korm. rendelet |
 | 2023-10-06 | 2007-273-20-22.73 | 460/2023. (X. 5.) Korm. rendelet |
 | 2024-01-01 | 2007-273-20-22.74 | 680/2023. (XII. 29.) Korm. rendelet |
+| 2024-01-14 | 2007-273-20-22.75 | 680/2023. (XII. 29.) Korm. rendelet |

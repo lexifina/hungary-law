@@ -14,9 +14,20 @@ c) átviteli rendszerirányító esetén a tevékenységéből származó, tárg
 
 d) vertikálisan integrált vállalkozás esetén a tevékenységéből származó, tárgyévet megelőző éves forgalmának 10%-a.
 
+(2a)[^410] A VET 95. § (6) bekezdése szerinti bírság
+
+a) alsó határa az adott eljárásért fizetendő igazgatási szolgáltatási díj másfélszerese, de legalább ötvenezer forint;
+
+b) felső határa
+
+ba) az engedélyes esetén a (2) bekezdés szerinti összeg,
+
+bb) a befolyásszerző esetén százmillió forint.
+
 (3) A bírság ismételten is kiszabható.
 
-(4)[^410] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
+(4)[^411] A bírságot készpénzátutalási megbízással vagy a Hivatal – a bírságot kiszabó határozatban megjelölt – pénzforgalmi számlájára történő átutalással lehet megfizetni.
 
 [^409]: A Vhr. 91. § (2) bekezdése a 112/2015. (IV. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^410]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^410]: A Vhr. 91. § (2a) bekezdését a 680/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^411]: A Vhr. 91. § (4) bekezdése a 314/2009. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
