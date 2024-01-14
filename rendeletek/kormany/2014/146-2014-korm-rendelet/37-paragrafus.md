@@ -1,3 +1,3 @@
-37. §[^86]
+37. §[^101]
 
-[^86]: A 32–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 32–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -18,7 +18,7 @@ a) felvonók:
 
 8. a meghajtás jellege (villamos vagy hidraulikus, felsőgépes, alsógépes stb.),
 
-9.[^27]
+9.[^32]
 
 b) mozgólépcsők, mozgójárdák:
 
@@ -32,7 +32,7 @@ b) mozgólépcsők, mozgójárdák:
 
 5. emelkedési szöge,
 
-6.[^28]
+6.[^33]
 
-[^27]: A 9. § a) pont 9. alpontját a 280/2015. (IX. 22.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
-[^28]: A 9. § b) pont 6. alpontját a 280/2015. (IX. 22.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^32]: A 9. § a) pont 9. alpontját a 280/2015. (IX. 22.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^33]: A 9. § b) pont 6. alpontját a 280/2015. (IX. 22.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.

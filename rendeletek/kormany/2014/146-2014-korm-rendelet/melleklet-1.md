@@ -1,4 +1,4 @@
-1. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^87]
+1. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^102]
 
 A berendezés kivitelezési dokumentációja
 
@@ -26,7 +26,7 @@ A kivitelezési dokumentációnak az engedélyezési terveken és adatokon túl 
 
 4. műszaki leírást, mely tartalmazza:
 
-a) a berendezés főbb műszaki adatait, megengedett óránkénti indításainak, illetve hidraulikus ciklusainak számát, névleges és indítási áramfelvételét és a berendezésből származó elvezetendő hőteljesítményt,
+a)[^103] a berendezés főbb műszaki adatait, gyártási számát vagy munkaszámát, megengedett óránkénti indításainak, illetve hidraulikus ciklusainak számát, névleges és indítási áramfelvételét és a berendezésből származó elvezetendő hőteljesítményt,
 
 b) a 24. § (3) bekezdésében meghatározott tevékenységi körök végzésére jogosultsággal rendelkező tervező nevét, címét, aláírását, az aláíró lapon a tervező névjegyzéki számát szakmagyakorlási jogosultságának igazolásaként, az általa tervezett dokumentáció(rész) megnevezését,
 
@@ -44,4 +44,5 @@ ce) műemléki védettség esetén az örökségvédelmi hatósági engedély re
 
 d) annak ismertetését, ha a létesítési dokumentációtól a kivitelezési dokumentáció eltér.
 
-[^87]: Az 1. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^102]: Az 1. melléklet a 80/2018. (IV. 20.) Korm. rendelet 17. § (1) bekezdése szerint módosított szöveg.
+[^103]: Az 1. melléklet 4. pont a) alpontja az 564/2023. (XII. 14.) Korm. rendelet 5. § l) pontja szerint módosított szöveg.
