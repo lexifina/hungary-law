@@ -33,3 +33,5 @@
 (17) E törvénynek a Módtv.7.-tel megállapított 11. § (5) bekezdésének hatálybalépése előtt beszerzett, a Hatóság elnökének a dohányboltban forgalmazható termékekről és nyújtható szolgáltatásokról szóló rendelete szerinti termék korlátlan ideig forgalmazható.
 
 (18) E törvénynek a Módtv.7.-tel megállapított 7. § (3a) bekezdését a Módtv.7. hatálybalépését követően kiírt bármely pályázat során alkalmazni kell.
+
+(19) E törvénynek a Módtv.7.-tel megállapított 23/C. §-a alkalmazása szempontjából első jogsértésnek a Módtv.7.-tel megállapított 23/C. § hatálybalépését követően első alkalommal megállapított jogsértést kell tekinteni.

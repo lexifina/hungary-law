@@ -10,4 +10,4 @@
 
 (6) A dohánytermék-kiskereskedő köteles az 1. § (1) bekezdésében meghatározott termék értékesítését megtagadni abban az esetben is, ha annak gyanúja merül fel benne, hogy a nem fiatalkorú fogyasztó az 1. § (1) bekezdésében meghatározott terméket fiatalkorú részére történő továbbadás céljából kívánja megvásárolni.
 
-(7) A dohánytermék-kiskereskedővel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.
+(7) A dohánytermék-kiskereskedelmi tevékenységet végző személlyel szemben az e §-ban szabályozott rendelkezések be nem tartásáért a Hatóság bírságot szabhat ki, továbbá vele szemben az e törvényben meghatározott más jogkövetkezmény alkalmazandó azzal, hogy az (1)–(3) bekezdésben foglalt rendelkezések megsértése esetén bírság kiszabása kötelező.

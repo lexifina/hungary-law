@@ -1,7 +1,3 @@
-23/C. § (1) Ha a dohánytermék-kiskereskedelmi tevékenységet végző személy az 1. § (2) bekezdésében meghatározott fogyasztóvédelmi rendelkezést három éven belül ismételten megsérti, a Hatóság elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc napos időtartamra történő ideiglenes bezárását.
+23/C. § (1) Ha a dohánytermék-kiskereskedelmi tevékenységet végző személy a fiatalkorúak különös védelmére vonatkozó, a 16. § (1) bekezdésben meghatározott rendelkezést ismételten megsérti, de a 23. § (2) bekezdés a) pontja alkalmazásának nincs helye, a Hatóság elrendeli a jogsértéssel érintett üzlet ideiglenes, 30 napra történő bezárását.
 
-(2) Az (1) bekezdés alkalmazása során a Hatóság különösen a következőket veszi figyelembe:
-
-a) a dohánytermék-kiskereskedelmi tevékenységet végző személy által három éven belül megvalósított e törvény szerinti korábbi jogsértést,
-
-b) a dohánytermék-kiskereskedelmi tevékenységet végző személy vonatkozásában a Hatóság elnökének a nyilvántartás-vezetésről és adatszolgáltatásról szóló rendeletében foglaltak szerint a Hatóság rendelkezésére álló, a tárgyévet megelőző év készlet- és forgalmi adatait.
+(2) A dohánytermék-kiskereskedelmi tevékenységet végző legkésőbb az (1) bekezdés szerinti intézkedés kezdőnapján köteles a dohánytermék értékesítési helyet bezárni és annak valamennyi bejáratán jól láthatóan feltüntetni a zárvatartást megalapozó jogsértést, a zárvatartás időtartamát, és azt, hogy az üzletet a Hatóság záratta be.
