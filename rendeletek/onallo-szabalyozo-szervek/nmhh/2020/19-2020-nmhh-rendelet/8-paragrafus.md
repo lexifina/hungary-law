@@ -6,7 +6,7 @@ b) az egyetemes szolgáltató kijelölése tárgyában hozott kijelölési hatá
 
 c) az egyetemes szolgáltató a 14. § (3) bekezdés szerinti bejelentést tett,
 
-## az Elnök e körülmény bekövetkezésétől számított 60 napon belül a 3. §-ban rögzített szempontok szerint megvizsgálja, hogy szükséges-e egyetemes szolgáltató kijelölése. Ha egyetemes szolgáltató kijelölése szükséges, az Elnök a 6. és 7. §-ban foglaltak szerint intézkedik az egyetemes szolgáltató kijelöléséről.
+az Elnök e körülmény bekövetkezésétől számított 60 napon belül a 3. §-ban rögzített szempontok szerint megvizsgálja, hogy szükséges-e egyetemes szolgáltató kijelölése. Ha egyetemes szolgáltató kijelölése szükséges, az Elnök a 6. és 7. §-ban foglaltak szerint intézkedik az egyetemes szolgáltató kijelöléséről.
 
 (2)[^10] Az (1) bekezdés c) pontja szerinti esetben – ha az egyetemes szolgáltató az egyetemes szolgáltatás tekintetében előfizetői szerződés alapján szolgáltatást nyújt – az egyetemes szolgáltató az előfizetői szerződésekben rögzített időpontig, de legkésőbb az (1) bekezdés szerinti kijelölési eljárás – ideértve a kijelölési határozat bírósági felülvizsgálata iránti eljárást is – lezárultáig köteles az egyetemes szolgáltatást a korábbi kijelölési eljárásban hozott kijelölési határozatban foglalt változatlan feltételekkel nyújtani.
 

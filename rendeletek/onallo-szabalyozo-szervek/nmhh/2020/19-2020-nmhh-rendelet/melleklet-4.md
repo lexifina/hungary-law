@@ -1,6 +1,6 @@
 4. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
 
-## Az alacsony jövedelmű fogyasztó és a különleges szociális helyzetű fogyasztó meghatározása
+Az alacsony jövedelmű fogyasztó és a különleges szociális helyzetű fogyasztó meghatározása
 
 1. Alacsony jövedelmű fogyasztónak azt a szociálisan rászoruló természetes személyt kell tekinteni, aki, vagy akinek háztartásában élő személy
 

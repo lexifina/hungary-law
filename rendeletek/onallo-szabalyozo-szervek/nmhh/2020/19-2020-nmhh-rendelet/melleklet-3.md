@@ -1,6 +1,6 @@
 3. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
 
-## A nettó költség meghatározásának számítása
+A nettó költség meghatározásának számítása
 
 1. Az Elnök a tárgyévi nettó költséget az Eht. 117. § (1) bekezdése szerinti egyetemes szolgáltatás és a 23. § (1) bekezdése szerinti egyetemes szolgáltatáselemek (a továbbiakban e melléklet alkalmazásában együttesen: egyetemes szolgáltatások) nyújtásához kapcsolódó, az egyetemes szolgáltatások nyújtásának hiányában fel nem merülő költségek és az egyetemes szolgáltatások nyújtásából származó bevételek és közvetett előnyök értékének különbségeként határozza meg.
 

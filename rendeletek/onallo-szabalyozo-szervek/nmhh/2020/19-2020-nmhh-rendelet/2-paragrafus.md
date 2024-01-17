@@ -1,5 +1,3 @@
-## terjed ki.
-
 ## 2. § E rendelet alkalmazásában
 
 1. ajánlat: az ajánlati felhívásra a szolgáltató által benyújtott, az egyetemes szolgáltatáselem nyújtásának önkéntes vállalására vonatkozó dokumentum;

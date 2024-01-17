@@ -4,9 +4,9 @@ a) az igénnyel érintett évet (a továbbiakban: tárgyév) követő év szepte
 
 b) ha a naptári évtől eltérő üzleti évet választott, szeptember 30-át követően annyi nappal, amennyi nappal üzleti évének vége a naptári év végétől eltér
 
-## nyújthatja be a Hatósághoz.
+nyújthatja be a Hatósághoz.
 
-## Az egyetemes szolgáltató a kérelmet kizárólag valamennyi általa nyújtott egyetemes szolgáltatáselemre vonatkozóan együttesen nyújthatja be.
+Az egyetemes szolgáltató a kérelmet kizárólag valamennyi általa nyújtott egyetemes szolgáltatáselemre vonatkozóan együttesen nyújthatja be.
 
 (2) Az egyetemes szolgáltató az (1) bekezdés szerinti kérelméhez mellékelten megküldi a 2. melléklet szerinti adatokat, dokumentumokat. A dokumentumokat olyan formában kell mellékelni, hogy azok a Microsoft Office Word és Excel 2016 verzióival olvashatóak és ellenőrizhetőek legyenek. A dokumentumok másolatát a társaság vezető tisztségviselője minősített elektronikus aláírással és időbélyegzővel látja el.
 

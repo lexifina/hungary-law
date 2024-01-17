@@ -8,7 +8,7 @@ c) megalapozatlansága miatt nem alkalmas az Eht.-ban vagy az ajánlati felhív�
 
 d) az e rendeletben és az ajánlati felhívásban meghatározott érvényességi követelményeknek nem felel meg,
 
-## érvénytelenné nyilvánítja az ajánlatot.
+érvénytelenné nyilvánítja az ajánlatot.
 
 (2) Az Elnök az ajánlat érvénytelenségét külön végzéssel nem állapítja meg, az ajánlat érvénytelenségét a kijelölési eljárást lezáró döntésébe foglalja.
 
@@ -18,6 +18,6 @@ a) a 23. § (1) bekezdés a) és c) pontjában szereplő szolgáltatáselem eset
 
 b) a 23. § (1) bekezdés b) pontjában szereplő szolgáltatáselem esetén az ország területén a helyhez kötött telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót
 
-## jelöli ki egyetemes szolgáltatóként.
+jelöli ki egyetemes szolgáltatóként.
 
 (4) A (3) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként jelöl ki, és a kijelölési határozatban rögzíti a vállalkozáscsoportba tartozó egyes szolgáltatók kötelezettségeit.

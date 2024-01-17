@@ -1,5 +1,3 @@
-## Az egyetemes szolgáltató által kötelezően benyújtandó adatok
-
 |  | Számozási körzet 1. | Számozási körzet 2. | … |
 
 | Alacsony jövedelmű fogyasztó vagy különleges szociális helyzetű fogyasztó | Többi végfelhasználó | Alacsony jövedelmű fogyasztó vagy különleges szociális helyzetű fogyasztó | Többi végfelhasználó | … |
@@ -40,7 +38,7 @@
 
 2. melléklet a 19/2020. (XII. 18.) NMHH rendelethez
 
-## A méltánytalan teher jóváhagyására irányuló kérelemhez kötelezően mellékelt adatok, dokumentumok
+A méltánytalan teher jóváhagyására irányuló kérelemhez kötelezően mellékelt adatok, dokumentumok
 
 1. Az egyetemes szolgáltató a kérelméhez mellékeli
 

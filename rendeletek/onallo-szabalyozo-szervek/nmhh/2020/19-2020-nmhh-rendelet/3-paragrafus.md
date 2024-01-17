@@ -6,7 +6,7 @@ a) rendes körülmények között elérhető letöltési sebessége legalább 8 
 
 b) rendes körülmények között elérhető feltöltési sebessége legalább 2 Mbit/s
 
-## kell, hogy legyen.
+kell, hogy legyen.
 
 (2) Az Elnök megvizsgálja a végfelhasználók számára elérhető szolgáltatásokat, és lefedetlen számozási körzetként azonosítja azokat a számozási körzeteket, ahol a végfelhasználók számára legalább az (1) bekezdés szerinti sávszélességű egyetemes szolgáltatás nem elérhető.
 
