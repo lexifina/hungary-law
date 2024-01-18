@@ -1,0 +1,223 @@
+# A külgazdasági és külügyminiszter 2/2024. (I. 18.) KKM rendelete
+
+Magyar Közlöny 2024. évi 5. szám, 2024. január 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/TFqcuf34lRRszHai3oMu6594263ec4868/dokumentumok/3cbaed189365674eb11f73447fa9c852375d6e47/letoltes)
+
+---
+
+A külgazdasági és külügyminiszter 2/2024. (I. 18.) KKM rendelete
+a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és
+költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet módosításáról
+A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 59. § (2) bekezdés e), f) és k) pontjában kapott
+felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 2. pontjában
+meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+A külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó deviza-alapilletmény és
+költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet (a továbbiakban:
+KKM rendelet) a következő 5. §-sal egészül ki:
+„5. § E rendeletnek a külképviseletek besorolásáról, valamint a tartós külszolgálaton lévőknek járó
+deviza-alapilletmény és költségtérítés kiszámításának részletes szabályairól szóló 3/2017. (II. 28.) KKM rendelet
+módosításáról szóló 2/2024. (I. 18.) KKM rendelettel (a továbbiakban: Mód. rendelet) megállapított 1. mellékletét
+2024. január 1. napjától kell alkalmazni azon kormánytisztviselők tekintetében, akiknek a Mód. rendelettel
+megállapított 1. melléklet alapján számított, Külszoltv. szerinti díjazása (a továbbiakban: Díjazás) meghaladja
+a Mód. rendelet hatálybalépése előtt az e rendelet 1. melléklete alapján számított Díjazás összegét.”
+2. §
+A KKM rendelet 2. § (1) bekezdés nyitó szövegrészében a „törvény szerinti” szövegrész helyébe a „törvény
+(a továbbiakban: Külszoltv.) szerinti”szöveg lép.
+3. §
+A KKM rendelet 1. melléklete helyébe az 1. melléklet lép.
+
+4. §
+Ez a rendelet 2024. február 1. napján lép hatályba.
+ Szijjártó Péter s. k.,
+ külgazdasági és külügyminiszter
+1. melléklet a 2/2024. (I. 18.) KKM rendelethez
+„1. melléklet a 3/2017. (II. 28.) KKM rendelethez
+A B C D E F
+Állomáshelyek
+Deviza-
+alapilletmény
+Külképviseleti
+besorolás
+Lakhatási
+költségtérítés
+szorzó
+Vegyes
+költségtérítés
+szorzó
+Gyermeknevelési
+költségtérítés
+szorzó
+Nagykövetség
+1. Abu Dhabi 497 260 Ft 5% 276% 36% 101%
+2. Abuja 490 820 Ft 40% 209% 39% 107%
+3. Accra 470 580 Ft 20% 234% 48% 185%
+4. Addisz-Abeba 509 040 Ft 20% 167% 40% 179%
+5. Algír 461 380 Ft 20% 157% 33% 65%
+6. Amman 521 180 Ft 30% 150% 32% 124%
+7. Ankara 396 060 Ft 45% 111% 26% 104%
+8. Asztana 434 240 Ft 30% 170% 37% 188%
+9. Athén 422 280 Ft 10% 122% 26% 65%
+10. Bagdad 479 780 Ft 40% 85% 38% 65%
+11. Baku 487 480 Ft 20% 189% 30% 118%
+12. Bangkok 473 340 Ft 10% 156% 38% 116%
+13. Bécs 512 440 Ft 30% 126% 24% 148%
+14. Bejrút 542 040 Ft 30% 204% 30% 96%
+15. Belgrád 446 660 Ft 35% 148% 25% 174%
+16. Berlin 467 360 Ft 30% 112% 25% 90%
+17. Bern 561 660 Ft 5% 241% 27% 165%
+18. Biskek 446 660 Ft 15% 94% 37% 188%
+19. Bogotá 439 300 Ft 15% 199% 48% 65%
+20. Brazíliaváros 450 800 Ft 30% 185% 43% 88%
+21. Brüsszel 475 180 Ft 10% 145% 26% 231%
+22. Buenos Aires 463 280 Ft 10% 191% 48% 183%
+23. Bukarest 433 320 Ft 45% 85% 26% 125%
+24. Canberra 458 160 Ft 5% 154% 51% 82%
+25. Damaszkusz 452 180 Ft 40% 98% 30% 96%
+26. Doha 511 520 Ft 5% 343% 34% 109%
+27. Dublin 443 440 Ft 0% 231% 26% 62%
+28. Hága 482 540 Ft 5% 155% 26% 109%
+29. Hanoi 453 100 Ft 10% 140% 44% 111%
+30. Havanna 506 460 Ft 20% 188% 40% 65%
+31. Helsinki 480 240 Ft 5% 133% 26% 93%
+32. Iszlámábád 473 800 Ft 40% 126% 34% 77%
+33. Jakarta 454 480 Ft 20% 192% 45% 129%
+
+34. Kairó 459 080 Ft 30% 140% 26% 102%
+35. Kijev 457 700 Ft 70% 202% 25% 166%
+36. Kisinyov 451 720 Ft 20% 135% 26% 93%
+37. Koppenhága 516 120 Ft 5% 222% 26% 89%
+38. Kuala Lumpur 486 680 Ft 10% 130% 40% 157%
+39. Kuvait 478 860 Ft 15% 153% 37% 65%
+40. Lima 459 080 Ft 15% 199% 48% 80%
+41. Lisszabon 451 260 Ft 0% 154% 29% 65%
+42. Ljubljana 444 820 Ft 30% 143% 25% 56%
+43. London 509 220 Ft 35% 290% 27% 193%
+44. Luanda 509 480 Ft 40% 373% 49% 174%
+45. Madrid 457 700 Ft 15% 153% 26% 128%
+46. Manila 490 820 Ft 20% 198% 48% 107%
+47. Maszkat 447 580 Ft 5% 171% 40% 130%
+48. Mexikóváros 478 400 Ft 30% 153% 42% 59%
+49. Minszk 487 600 Ft 20% 152% 27% 127%
+50. Moszkva 480 700 Ft 45% 195% 26% 198%
+51. Nairobi 476 560 Ft 20% 149% 38% 144%
+52. Nicosia 426 420 Ft 5% 100% 30% 65%
+53. Oslo 496 340 Ft 5% 153% 26% 78%
+54. Ottawa 495 880 Ft 10% 155% 42% 107%
+55. Párizs 491 740 Ft 30% 183% 26% 194%
+56. Peking 506 460 Ft 45% 271% 36% 207%
+57. Podgorica 424 120 Ft 5% 106% 25% 185%
+58. Pozsony 466 440 Ft 30% 90% 25% 107%
+59. Prága 478 860 Ft 30% 203% 26% 56%
+60. Pretoria 438 840 Ft 45% 149% 39% 95%
+61. Pristina 446 660 Ft 20% 148% 26% 174%
+62. Quito 459 080 Ft 15% 134% 48% 65%
+63. Rabat 444 820 Ft 20% 131% 33% 122%
+64. Riga 503 700 Ft 5% 85% 26% 84%
+65. Rijád 489 440 Ft 15% 224% 33% 116%
+66. Róma 468 740 Ft 15% 132% 26% 101%
+67. Santiago 472 420 Ft 15% 130% 48% 56%
+68. Stockholm 501 400 Ft 10% 183% 26% 68%
+69. Szarajevó 419 060 Ft 10% 111% 26% 129%
+70. Szingapúr 567 640 Ft 5% 287% 40% 161%
+71. Szkopje 435 620 Ft 10% 122% 26% 140%
+72. Szófia 455 860 Ft 10% 85% 26% 84%
+73. Szöul 551 540 Ft 20% 217% 38% 154%
+74. Tallinn 513 820 Ft 5% 115% 29% 131%
+75. Taskent 450 800 Ft 30% 161% 36% 171%
+76. Tbiliszi 423 660 Ft 20% 154% 29% 127%
+77. Teherán 460 920 Ft 20% 242% 33% 84%
+78. Tel-Aviv 534 980 Ft 55% 229% 26% 100%
+79. Tirana 441 600 Ft 10% 136% 26% 102%
+80. Tokió 508 760 Ft 30% 344% 39% 118%
+
+81. Tripoli 373 520 Ft 40% 109% 33% 86%
+82. Tunisz 454 480 Ft 15% 144% 26% 112%
+83. Új-Delhi 463 680 Ft 30% 150% 36% 114%
+84. Ulánbátor 464 140 Ft 15% 151% 39% 103%
+85. Varsó 419 980 Ft 45% 85% 26% 85%
+86. Vatikán 468 740 Ft 5% 132% 26% 101%
+87. Vientián 491 740 Ft 15% 118% 38% 120%
+88. Vilnius 486 220 Ft 5% 127% 26% 84%
+89. Washington 509 220 Ft 30% 235% 38% 189%
+90. Wellington 550 620 Ft 0% 180% 61% 85%
+91. Zágráb 455 860 Ft 30% 187% 25% 84%
+Nemzetközi szervezet mellett működő állandó képviselet, kereskedelmi iroda, képviseleti iroda
+92. Bécs ENSZ/EBESZ 512 440 Ft 15% 126% 24% 148%
+93. Brüsszel NATO 475 180 Ft 35% 145% 26% 231%
+94. Genf ENSZ/WTO 561 660 Ft 30% 278% 27% 165%
+95. New York ENSZ 544 640 Ft 30% 240% 37% 247%
+96. Párizs OECD/UNESCO 491 740 Ft 15% 183% 26% 194%
+97. Ramallah 534 980 Ft 40% 229% 26% 100%
+98. Strasbourg 491 740 Ft 20% 123% 25% 194%
+99. Tajpej 506 460 Ft 5% 271% 43% 207%
+Főkonzulátus, konzulátus
+100. Almati 434 240 Ft 20% 131% 37% 188%
+101. Barcelona 457 700 Ft 0% 153% 25% 128%
+102. Beregszász 457 700 Ft 55% 85% 25% 116%
+103. Chicago 509 220 Ft 5% 183% 29% 189%
+104. Csíkszereda 433 320 Ft 20% 85% 25% 125%
+105. Csungking 506 460 Ft 5% 233% 37% 207%
+106. Düsseldorf 467 360 Ft 15% 137% 25% 90%
+107. Edinburgh 509 220 Ft 0% 250% 30% 193%
+108. Erbíl 479 780 Ft 40% 153% 38% 65%
+109. Eszék 455 860 Ft 0% 101% 24% 84%
+110. Gdańsk 419 980 Ft 10% 85% 28% 85%
+111. Ho Si Minh-Város 453 100 Ft 5% 141% 44% 111%
+112. Hongkong 518 880 Ft 5% 568% 38% 185%
+113. Innsbruck 512 440 Ft 0% 126% 24% 148%
+114. Isztambul 396 060 Ft 30% 111% 26% 104%
+115. Jekatyerinburg 480 700 Ft 15% 160% 32% 198%
+116. Kassa 466 440 Ft 5% 90% 25% 84%
+117. Kazany 480 700 Ft 15% 160% 30% 198%
+118. Kuangcsou 506 460 Ft 10% 252% 38% 207%
+119. Kolozsvár 433 320 Ft 20% 85% 26% 125%
+120. Krakkó 419 980 Ft 10% 85% 26% 85%
+121. Lendva 444 820 Ft 0% 85% 25% 56%
+122. Los Angeles 509 220 Ft 5% 250% 40% 189%
+123. Manchester 509 220 Ft 0% 250% 29% 193%
+124. Milánó 468 740 Ft 0% 126% 26% 101%
+125. Montreál 495 880 Ft 5% 155% 42% 107%
+
+126. Mumbai 463 680 Ft 15% 503% 36% 114%
+127. München 467 360 Ft 30% 131% 26% 90%
+128. New York 544 640 Ft 15% 240% 37% 247%
+129. Sanghaj 506 460 Ft 10% 255% 36% 207%
+130. São Paulo 450 800 Ft 15% 161% 43% 88%
+131. Stuttgart 467 360 Ft 15% 184% 26% 90%
+132. Szabadka 446 660 Ft 15% 85% 25% 121%
+133. Szentpétervár 480 700 Ft 15% 160% 27% 198%
+134. Toronto 495 880 Ft 10% 164% 38% 107%
+135. Ungvár 457 700 Ft 55% 85% 25% 116%
+Nem önálló képviselet
+136. Abidjan 531 300 Ft 0% 133% 48% 185%
+137. Dakka 483 000 Ft 15% 127% 36% 204%
+138. Besztercebánya 466 440 Ft 0% 90% 27% 107%
+139. Dakar 461 380 Ft 0% 138% 48% 185%
+140. Genf 561 660 Ft 0% 278% 27% 165%
+141. Houston 509 220 Ft 0% 183% 37% 189%
+142. Jeruzsálem 534 980 Ft 40% 229% 26% 100%
+143. Kampala 453 560 Ft 15% 180% 38% 114%
+144. Kigali 459 080 Ft 20% 94% 49% 80%
+145. Kinshasa 530 840 Ft 20% 184% 38% 144%
+146. Lagos 490 820 Ft 0% 195% 39% 107%
+147. Lusaka 437 460 Ft 15% 122% 39% 125%
+148. Luxembourg 475 180 Ft 0% 185% 26% 231%
+149. Lyon 491 740 Ft 0% 183% 26% 194%
+150. Malaga 457 700 Ft 0% 153% 26% 128%
+151. Melbourne 458 160 Ft 0% 155% 51% 82%
+152. Miami 509 220 Ft 0% 202% 37% 247%
+153. Montevideo 461 380 Ft 5% 219% 48% 94%
+154. N’Djamena 497 260 Ft 40% 129% 33% 106%
+155. Nürnberg 467 360 Ft 0% 131% 26% 90%
+156. Oszaka 508 760 Ft 0% 344% 39% 118%
+157. Panamaváros 470 120 Ft 5% 215% 48% 74%
+158. Phnom Penh 477 480 Ft 15% 142% 38% 111%
+159. San Francisco 509 220 Ft 0% 375% 40% 189%
+160. Sepsiszentgyörgy 433 320 Ft 0% 85% 26% 125%
+161. Sydney 458 160 Ft 0% 232% 51% 82%
+162. Trieszt 468 740 Ft 0% 117% 26% 101%
+163. Valletta 443 900 Ft 0% 116% 26% 101%
+164. Vancouver 495 880 Ft 0% 202% 42% 107%
+165. Wrocław 419 980 Ft 5% 85% 26% 85%
+166. Xiamen 506 460 Ft 5% 255% 36% 207%
+”
