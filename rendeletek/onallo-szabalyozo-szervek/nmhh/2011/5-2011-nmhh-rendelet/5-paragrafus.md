@@ -1,5 +1,3 @@
-## 4. §[^4]
-
 ## Elektronikus hírközlési igazgatási eljárásokért fizetendő díjak
 
 5. §[^5] (1) A Hivatal építésügyi hatósági eljárásaiért az e §-ban meghatározott mértékű díjat kell fizetni.
@@ -60,7 +58,6 @@ c) 10 km felett: 295 000 Ft, és ezen felül arányosan a 10 km feletti rész ut
 
 (11)[^26]
 
-[^4]: A 4. §-t a 24/2020. (XII. 21.) NMHH rendelet 10. § 1. pontja hatályon kívül helyezte.
 [^5]: Az 5. § a 16/2013. (IX. 25.) NMHH rendelet 2. §-ával megállapított szöveg.
 [^6]: Az 5. § (2) bekezdését a 24/2020. (XII. 21.) NMHH rendelet 10. § 2. pontja hatályon kívül helyezte.
 [^7]: Az 5. § (3) bekezdése a 3/2015. (IV. 28.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
