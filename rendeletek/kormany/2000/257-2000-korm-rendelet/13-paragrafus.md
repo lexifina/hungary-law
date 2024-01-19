@@ -1,10 +1,10 @@
-## 12. §[^70] Az illetménynövekedésre jogosító szak-, illetve szakmai képesítéseket – a 13. §-ban foglaltak kivételével – a 3. számú melléklet tartalmazza.
+## 12. §[^72] Az illetménynövekedésre jogosító szak-, illetve szakmai képesítéseket – a 13. §-ban foglaltak kivételével – a 3. számú melléklet tartalmazza.
 
-## 13. §[^71] A 2/a. számú melléklet I. pontjában meghatározott pedagógus munkakörben foglalkoztatottat illetménynövekedés illeti meg, ha a besorolás alapjául szolgáló felsőfokú iskolai végzettsége és szakképzettsége mellett
+## 13. §[^73] A 2/a. számú melléklet I. pontjában meghatározott pedagógus munkakörben foglalkoztatottat illetménynövekedés illeti meg, ha a besorolás alapjául szolgáló felsőfokú iskolai végzettsége és szakképzettsége mellett
 
 a) a magasabb vezetői, vezetői megbízással rendelkező közalkalmazott óvodapedagógusi, tanítói, tanári, gyógypedagógiai tanári (gyógypedagógiai terapeuta), konduktori, gyógytestnevelő, felsőoktatási szakirányú továbbképzésben szerzett, a nevelő és oktató munkához kapcsolódó bármilyen szakképzettséggel, vagy számviteli, pénzügyi, jogi, közgazdasági, pszichológus vagy a b) pontban felsorolt további
 
-b)[^72] pedagógiai, pedagógia szakos előadói, szociálpedagógus, szociálpedagógiai, nevelőtanári, szociális munkás, általános szociális munkás, diakónus vagy
+b)[^74] pedagógiai, pedagógia szakos előadói, szociálpedagógus, szociálpedagógiai, nevelőtanári, szociális munkás, általános szociális munkás, diakónus vagy
 
 c) óvodapedagógusi, tanítói, tanári, pszichopedagógus vagy
 
@@ -12,6 +12,6 @@ d) – a pszichológusi feladatok ellátásához a pszichológusi szakképzetts�
 
 szakképzettséggel rendelkezik.
 
-[^70]: A 12. §-t követő alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1103. pontja hatályon kívül helyezte. A 12. § a 349/2012. (XII. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^71]: A 13. §-t a 173/2002. (VIII. 9.) Korm. rendelet 2. §-ának d) pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 26. §-a iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
-[^72]: A 13. § b) pontja a 349/2023. (VII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^72]: A 12. §-t követő alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1103. pontja hatályon kívül helyezte. A 12. § a 349/2012. (XII. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^73]: A 13. §-t a 173/2002. (VIII. 9.) Korm. rendelet 2. §-ának d) pontja hatályon kívül helyezte, újonnan a 349/2012. (XII. 12.) Korm. rendelet 26. §-a iktatta be, szövege a 418/2015. (XII. 23.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^74]: A 13. § b) pontja a 349/2023. (VII. 27.) Korm. rendelet 3. §-a szerint módosított szöveg.

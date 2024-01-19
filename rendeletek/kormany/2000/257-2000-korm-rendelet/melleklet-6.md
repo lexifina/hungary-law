@@ -102,8 +102,8 @@
 
 | 51. | 48 év felett | 46 000 | 70 000 | 70 000 | 86 000 | 88 000 | 227 000 | 227 000 | 307 058 | 307 058 | 281 712 |
 
-6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^131]
+6. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^134]
 
 Bölcsődei pótlék mértéke a bölcsődében, mini bölcsődében foglalkoztatott középfokú végzettséggel rendelkező kisgyermeknevelők, szaktanácsadók vonatkozásában
 
-[^131]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^134]: A 6. számú mellékletet újonnan a 318/2016. (X. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 628/2023. (XII. 23.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-9/E. §[^59] (1) A Gyvt. hatálya alá tartozó intézményben a Púétv. vhr. 42. § (1) bekezdésében foglaltakon kívül szakmai gyakorlatnak kell tekinteni az alábbi foglalkoztatási jogviszonyok keretében
+9/E. §[^61] (1) A Gyvt. hatálya alá tartozó intézményben a Púétv. vhr. 42. § (1) bekezdésében foglaltakon kívül szakmai gyakorlatnak kell tekinteni az alábbi foglalkoztatási jogviszonyok keretében
 
 a) a család-, gyermek- és ifjúságvédelem területén alapfokozathoz vagy mesterfokozathoz kötött szakmai munkakörben, vezető beosztásban,
 
@@ -20,4 +20,4 @@ kell sorolni.
 
 (3) Ha a pedagógus-munkakörben foglalkoztatott személy korábbi munkáltatója a besoroláskor szakmai gyakorlatként vette figyelembe az (1) bekezdésben szereplő időt, és a pedagógus-munkakörben foglalkoztatott személy ezt követően nem a Gyvt. hatálya alá tartozó intézményben létesít foglalkoztatási jogviszonyt, a korábban figyelembe vett szakmai gyakorlat időtartama emiatt utóbb nem csökkenthető.
 
-[^59]: A 9/E. §-t a 401/2023. (VIII. 30.) Korm. rendelet 133. §-a iktatta be.
+[^61]: A 9/E. §-t a 401/2023. (VIII. 30.) Korm. rendelet 133. §-a iktatta be.

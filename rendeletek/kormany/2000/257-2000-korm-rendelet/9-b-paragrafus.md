@@ -1,4 +1,4 @@
-9/B. §[^56] (1) A Gyvt. hatálya alá tartozó intézmény esetén a Púétv. vhr. 30. § (1) bekezdése szerinti szakértői, szaktanácsadói tevékenységet végző Mesterpedagógus fokozatba besorolt pedagógus neveléssel, fejlesztéssel és vizsgálattal lekötött heti munkaideje nem lehet több
+9/B. §[^58] (1) A Gyvt. hatálya alá tartozó intézmény esetén a Púétv. vhr. 30. § (1) bekezdése szerinti szakértői, szaktanácsadói tevékenységet végző Mesterpedagógus fokozatba besorolt pedagógus neveléssel, fejlesztéssel és vizsgálattal lekötött heti munkaideje nem lehet több
 
 a) a gyermekotthoni, utógondozó otthoni, javítóintézeti nevelő, pszichológus, javítóintézeti utógondozó, szakoktató, területi gyermekvédelmi szakszolgálati pszichológus, gyógypedagógus esetén huszonnégy óránál,
 
@@ -40,4 +40,4 @@ b) pszichológus a kötött munkaidőnek a neveléssel, fejlesztéssel és vizsg
 
 rögzíti a Gyermekeink védelmében elnevezésű informatikai rendszer örökbefogadási alrendszerében a Gyvt. 141/E. §-ában meghatározott adatot, véleményt, javaslatot.
 
-[^56]: A 9/B. §-t a 401/2023. (VIII. 30.) Korm. rendelet 133. §-a iktatta be.
+[^58]: A 9/B. §-t a 401/2023. (VIII. 30.) Korm. rendelet 133. §-a iktatta be.

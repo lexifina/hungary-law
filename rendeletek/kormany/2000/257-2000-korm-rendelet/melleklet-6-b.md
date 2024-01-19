@@ -38,8 +38,8 @@
 
 | 19. | 17 | 48 év felett | 30,00% | 41,36% | 46,82% | 65,91% |
 
-6/b. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^133]
+6/b. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^136]
 
 Bölcsődei pótlék mértéke a bölcsődében, mini bölcsődében pedagógus munkakörben foglalkoztatott felsőfokú végzettséggel rendelkező kisgyermeknevelők, szaktanácsadók vonatkozásában
 
-[^133]: A 6/b. mellékletet a 628/2023. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^136]: A 6/b. mellékletet a 628/2023. (XII. 23.) Korm. rendelet 8. § (3) bekezdése iktatta be.
