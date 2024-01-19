@@ -24,7 +24,7 @@ k) a külföldi állam Magyarországra akkreditált diplomáciai vagy hivatásos
 
 l) az az eljárás, melynek konzuli díj alóli mentességét jogszabály vagy nemzetközi szerződés írja elő;
 
-m)[^15] a konzulnak a hazai anyakönyvezési eljárásban teljesített közreműködői tevékenysége.
+m)[^18] a konzulnak a hazai anyakönyvezési eljárásban teljesített közreműködői tevékenysége.
 
 (2) A költségátalány jellegű konzuli díjak kivételével mentes a konzuli díj megfizetése alól az a konzulnál tett nyilatkozat, beleegyezés vagy hozzájárulás, amely
 
@@ -32,4 +32,4 @@ a) a hazai hatóságnál indított vagy ott indítani kívánt eljárásban a k�
 
 b) a már megtett apai elismerő nyilatkozat teljes hatályúvá válásához szükséges.
 
-[^15]: A 14. § (1) bekezdés m) pontját a 4/2013. (X. 30.) KüM rendelet 1. §-a iktatta be.
+[^18]: A 14. § (1) bekezdés m) pontját a 4/2013. (X. 30.) KüM rendelet 1. §-a iktatta be.

@@ -6,9 +6,9 @@
 
 a) a magyar költségvetési szerv hivatalos célú külföldi kiküldetésben lévő dolgozója és három hónapot meghaladó kiküldetés esetén a vele egy háztartásban, a kiküldetés teljesítésének helyén élő közeli hozzátartozója, ha a részükre végzett konzuli cselekményre külföldi tartózkodásuk miatt, vagy azzal összefüggésben kerül sor;
 
-b)[^13] az a magyar állampolgár, aki külföldön, az Európai Unió intézményeinél vagy olyan nemzetközi szervezetben tölt be tisztséget, amelynek Magyarország is tagja, valamint a vele egy háztartásban, a tisztség betöltésének helyén élő közeli hozzátartozója, ha a részükre végzett konzuli cselekményre külföldi tartózkodásuk miatt, vagy azzal összefüggésben kerül sor;
+b)[^16] az a magyar állampolgár, aki külföldön, az Európai Unió intézményeinél vagy olyan nemzetközi szervezetben tölt be tisztséget, amelynek Magyarország is tagja, valamint a vele egy háztartásban, a tisztség betöltésének helyén élő közeli hozzátartozója, ha a részükre végzett konzuli cselekményre külföldi tartózkodásuk miatt, vagy azzal összefüggésben kerül sor;
 
-c)[^14] Magyarország tiszteletbeli konzuli tisztviselője és a vele egy háztartásban élő közeli hozzátartozója.
+c)[^17] Magyarország tiszteletbeli konzuli tisztviselője és a vele egy háztartásban élő közeli hozzátartozója.
 
-[^13]: A 13. § (2) bekezdés b) pontja a 4/2013. (X. 30.) KüM rendelet 2. § a) pontja szerint módosított szöveg.
-[^14]: A 13. § (2) bekezdés c) pontja a 4/2013. (X. 30.) KüM rendelet 2. § a) pontja szerint módosított szöveg.
+[^16]: A 13. § (2) bekezdés b) pontja a 4/2013. (X. 30.) KüM rendelet 2. § a) pontja szerint módosított szöveg.
+[^17]: A 13. § (2) bekezdés c) pontja a 4/2013. (X. 30.) KüM rendelet 2. § a) pontja szerint módosított szöveg.

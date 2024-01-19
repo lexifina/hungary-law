@@ -10,7 +10,7 @@
 
 (5) E rendelet rendelkezéseit a hatálybalépésüket követően indított eljárásokban kell alkalmazni.
 
-Melléklet az 5/2010. (XII. 31.) KüM rendelethez[^20]
+Melléklet az 5/2010. (XII. 31.) KüM rendelethez[^23]
 
 Konzuli díjak
 
@@ -108,4 +108,4 @@ Konzuli díjak
 
 |  | e) nem a külképviselet székhelye szerinti államba történő szállításnál Európán kívül | 40 EUR |
 
-[^20]: A Melléklet a 4/2013. (X. 30.) KüM rendelet 2. § b) pontja szerint módosított szöveg.
+[^23]: A Melléklet a 4/2013. (X. 30.) KüM rendelet 2. § b) pontja szerint módosított szöveg.
