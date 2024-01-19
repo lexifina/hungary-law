@@ -1,7 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 9. §-ában a „3000 Ft” szövegrész helyébe a „6000 Ft” szöveg,
-
-b) 13. § (5) bekezdésében a „3000 Ft” szövegrész helyébe a „6000 Ft” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
