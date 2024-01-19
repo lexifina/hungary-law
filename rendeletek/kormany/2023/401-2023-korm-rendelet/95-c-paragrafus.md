@@ -1,0 +1,1 @@
+95/C. § A Púétv. 68. § (4) bekezdése alkalmazásakor a tankerületi központ munkáltató a kinevezési okmányban meghatározott munkavégzési helytől eltérő, de egy járáson belül más nevelési-oktatási intézmény feladatellátási helyén történő munkavégzésre irányuló utasítását köteles megindokolni.
