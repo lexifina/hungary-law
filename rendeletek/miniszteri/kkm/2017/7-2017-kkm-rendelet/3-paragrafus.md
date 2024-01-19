@@ -14,6 +14,7 @@ c) a regionális gazdasági igazgató kiküldetése esetében a külképviselete
 
 is elrendelhet.
 
-(3) Ideiglenes kiküldetés kizárólag kiküldetési rendelvény kitöltésével kezdeményezhető. A kiküldetési rendelvény formanyomtatványát az 1. melléklet tartalmazza.
+(3)[^3] A kiküldetési rendelvény formanyomtatványa a külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) belső honlapján érhető el.
 
 [^2]: A 3. § (2) bekezdése a 22/2022. (XII. 22.) KKM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdése a 3/2024. (I. 18.) KKM rendelet 1. §-ával megállapított szöveg.
