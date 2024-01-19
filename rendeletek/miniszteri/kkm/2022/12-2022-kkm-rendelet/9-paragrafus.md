@@ -8,6 +8,8 @@ b) a külképviselet által foglalkoztatott házastársi alkalmazás megszűnés
 
 c) az 1. § (1) bekezdés b) pontja szerinti személyek esetében a végleges hazatérést,
 
-d) az 1. § (1) bekezdés e) pontja szerinti személyek esetében a kirendelés megszűnését, illetve megszüntetését
+d)[^27] az 1. § (1) bekezdés e) pontja szerinti személyek esetében a nemzeti szakértői foglalkoztatás megszűnését, illetve megszüntetését
 
 követően.
+
+[^27]: A 9. § d) pontja a 4/2024. (I. 18.) KKM rendelet 9. § 17. pontja szerint módosított szöveg.

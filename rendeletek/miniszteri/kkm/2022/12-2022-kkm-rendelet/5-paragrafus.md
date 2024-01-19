@@ -1,9 +1,14 @@
-## 5. A pszichológiai felmérés
+## 5.[^16] Külszolgálati adaptációs felmérés
 
-5. § (1) A 3. § (7) bekezdése szerinti pszichológiai felmérés kiterjedhet az értékelt személy tekintetében az intelligencia, a személyiség, a figyelem és a koncentráció, a pszichés egyensúly, a stresszkezelési képesség, az önismeret és a devianciák vizsgálatára, valamint a pályamotivációra. A pszichológiai felmérés eredményét személyiség- és intelligenciatesztek, papíralapú és műszeres figyelemvizsgálatok és az exploráció komplex értékelése alapján, valamint – ha az érintett személy pszichológiai állapota indokolja – kiegészítő vizsgálatok elvégzésével a felmérést (elemzést) végző pszichológus szakvéleményben foglalja össze.
+5. § (1)[^17] A 3. § (7) bekezdése szerinti felmérés kiterjedhet az értékelt személy tekintetében – többek között – az intelligencia, a személyiség, a figyelem és a koncentráció, a pszichés egyensúly, a stresszkezelési képesség, az önismeret és a devianciák, valamint a pályamotiváció vizsgálatára. A felmérés eredményét a felmérést (elemzést) végző, 10. § (2) bekezdése szerinti személy személyiség- és intelligenciatesztek, egyéb papíralapú és műszeres figyelemvizsgálatok és az exploráció komplex értékelése alapján, valamint – ha az érintett személynek az érzelmi, mentálhigiénés állapota, élethelyzete vagy egyéb körülménye indokolja – egyéb kiegészítő vizsgálatok elvégzésével, írásbeli értékelésben foglalja össze.
 
-(2) A pszichológiai felmérés eredményeként elkészülő szakvéleményt – az egészségügyi adatok kezelésére vonatkozó jogszabályi rendelkezések biztosította keretek között – kizárólag a kihelyező vezető ismerheti meg.
+(2)[^18] A felmérés eredményeként elkészülő értékelést – az adatkezelésre vonatkozó jogszabályi rendelkezések biztosította keretek között – kizárólag a kihelyező vezető ismerheti meg.
 
-(3) Ha a pszichológiai felmérés során a felmérést végző szakpszichológus olyan rendellenességre utaló jelet tapasztal, amely az (1) bekezdésben meghatározott vizsgálatok segítségével nem tisztázható, akkor további célzott vizsgálat, illetve vizsgálatok elvégzését javasolhatja. Pszichiátriai megbetegedés gyanúja esetén további vizsgálatot kizárólag pszichiáter szakorvos végezhet.
+(3)[^19] Ha a felmérés során a felmérést végző olyan rendellenességre utaló jelet tapasztal, amely az (1) bekezdésben meghatározott vizsgálatok segítségével nem tisztázható, akkor további célzott vizsgálat, illetve elvégzését, illetve szakpszichológus vagy pszichiáter szakorvos bevonását javasolhatja. Pszichiátriai megbetegedés gyanúja esetén további vizsgálatot kizárólag pszichiáter szakorvos végezhet.
 
 (4) A pszichológiai felmérés a tartós külszolgálatra való alkalmassági vizsgálatnak nem része, és annak eredménye az egészségügyi alkalmasság megállapítását nem befolyásolhatja.
+
+[^16]: Az 5. alcím címe a 4/2024. (I. 18.) KKM rendelet 9. § 8. pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdése a 4/2024. (I. 18.) KKM rendelet 5. §-ával megállapított szöveg.
+[^18]: Az 5. § (2) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 9. pontja szerint módosított szöveg.
+[^19]: Az 5. § (3) bekezdése a 4/2024. (I. 18.) KKM rendelet 9. § 10. pontja szerint módosított szöveg.
