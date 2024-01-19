@@ -6,6 +6,16 @@
 
 Az Emberi Erőforrás Fejlesztési Operatív Program Plusz Éves fejlesztési kerete
 
+A Pedagógus életpálya modellről szóló 2. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) (uniós és nemzeti hozzájárulás összesen) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP Plusz-2.1.1-24 | Pedagógus életpálya modell | 762,60 (ESZA+) | kiemelt | 2024. I. negyedév |
+
+| 3. | EFOP Plusz-2.2.1-24 | Pedagógus életpálya modell – hátrányos helyzetű tanulókkal foglalkozó pedagógusokat érintően | 25,84 (ESZA+) | kiemelt | 2024. I. negyedév |
+
 Társadalmi felzárkózási fejlesztésekről szóló 3. prioritás
 
 |  | A | B | C | D | E |
@@ -68,4 +78,4 @@ Felzárkózó településekről szóló 7. prioritás
 
 | 3. | EFOP Plusz-7.2.1-23 | „Jelenlét a felzárkózó településeken” (ERFA) | 9,83 (ERFA) | kiemelt | 2023. IV. negyedév |
 
-[^1]: Az 1. melléklet az 1475/2023. (XI. 2.) Korm. határozat 3. pontjával megállapított szöveg.
+[^1]: Az 1. melléklet az 1007/2024. (I. 18.) Korm. határozat 3. pontjával megállapított szöveg.
