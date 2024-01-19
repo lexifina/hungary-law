@@ -6,4 +6,6 @@
 
 (4) A (3) bekezdés szerinti tanárbéremelésbe a Gyvt. hatálya alá tartozó intézményben pedagógus-munkakörben foglalkoztatott is beleértendő.
 
-(5) A munkáltató a Púétv. 158. § (3) bekezdése szerinti kinevezési okmányt, továbbá a Púétv. 158. § (7) bekezdése szerinti munkaszerződést 2024. január 22-ig állítja ki.
+(5)[^2] A munkáltató a Púétv. 158. § (3) bekezdése szerinti kinevezési okmányt, továbbá a Púétv. 158. § (7) bekezdése szerinti munkaszerződést 2024. január 30-ig állítja ki.
+
+[^2]: Az 1. § (5) bekezdése a 4/2024. (I. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
