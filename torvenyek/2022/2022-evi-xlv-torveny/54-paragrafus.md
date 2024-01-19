@@ -4,4 +4,6 @@
 
 (2)
 
-(3)
+(3) A Jöt. 3. § (2) bekezdés 20. pontja helyébe a következő rendelkezés lép:
+
+(E törvény alkalmazásában az energiatermékek adóztatására vonatkozóan)
