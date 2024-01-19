@@ -26,6 +26,8 @@ d) az utolsó három lezárt borpiaci év átlagos előállításának legfeljeb
 
 (5) Ha a kisüzemi bortermelő a 3. § (3) bekezdés 16. pontja szerinti feltételt nem teljesíti vagy a (4a)–(4d) bekezdésben foglalt szabályt megsérti, kisüzemi bortermelőként tevékenységét legfeljebb a feltétel nem teljesülésének bekövetkezését vagy a szabály megsértését követő hónap 15. napjáig előterjesztett egyszerűsített adóraktári engedély iránti kérelemről hozott hatósági döntésig folytathatja.
 
+(5) Ha a kisüzemi bortermelő törvényi meghatározásában foglalt feltételek közül valamelyik nem teljesül, a kisüzemi bortermelő a feltétel nem teljesülésének bekövetkezését követő hónap 15. napjáig egyszerűsített adóraktári engedély iránti kérelmet köteles előterjeszteni.
+
 (6) A kisüzemi bortermelőnek az általa előállítható és tárolható palackos erjesztésű habzóbor után nem kell jövedéki biztosítékot nyújtania. Ha a kisüzemi bortermelő az Art. szerinti kockázatos adózónak minősül, köteles haladéktalanul egyszerűsített adóraktári engedély iránti kérelmet előterjeszteni.
 
 (7) A kisüzemi bortermelő az előállított, tárolt, feladott palackos erjesztésű habzóbor utáni adóbevallást a (3) bekezdés szerinti elszámolással egyidejűleg készíti el és küldi meg az állami adó- és vámhatóságnak, valamint fizeti meg az adót.

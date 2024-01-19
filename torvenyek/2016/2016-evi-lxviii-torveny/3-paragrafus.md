@@ -256,7 +256,7 @@ történő felhasználásra állítanak elő vagy ilyenként kínálnak, érték
 
 19. hálózati engedélyes: a villamos energiáról szóló törvény szerinti hálózati engedélyes és a földgázellátásról szóló törvény szerinti földgázelosztó és szállítási rendszerüzemeltető;
 
-20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint Solvent Yellow 124 vagy ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
+20. jelölt gázolaj: a gázolaj és a kerozin közös adóügyi jelölőanyagának létrehozásáról szóló, 2022. január 17-i 2022/197/EU bizottsági végrehajtási határozata szerint ACCUTRACE™ PLUS jelölőanyaggal megjelölt gázolaj;
 
 21. kereskedelmi gázolaj: gázolaj, amelyet
 

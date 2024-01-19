@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2016-68-00-00.43 |
 | 2023-12-30 | 2023. évi LXXXIII. törvény | 2016-68-00-00.44 |
 | 2024-01-01 | 2023. évi LIX. törvény | 2016-68-00-00.42 |
+| 2024-01-19 | 2022. évi XLV. törvény | 2016-68-00-00.37 |
