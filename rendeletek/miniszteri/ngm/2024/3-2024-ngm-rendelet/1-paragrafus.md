@@ -1,0 +1,1 @@
+1. § A Humán Reprodukciós Intézet Korlátolt Felelősségű Társaság (székhely: 1138 Budapest, Madarász Viktor u. 47–49., cégjegyzékszám: 01-09-930335) részére az egészségügyről szóló 1997. évi CLIV. törvény 244/A. § (19) bekezdése alapján fizetendő állami kártalanítás mértékét 59 516 000 Ft összegben állapítom meg.

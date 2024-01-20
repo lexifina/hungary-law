@@ -1,0 +1,1 @@
+Az egészségügyről szóló 1997. évi CLIV. törvény 247. § (5) bekezdés j) pontjában kapott felhatalmazás alapján, az egészségügyről szóló 1997. évi CLIV. törvény 244/A. § (19) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
