@@ -1,0 +1,1 @@
+3. § A KAP-hálózat tevékenységét a KAP Stratégiai Terv Technikai Segítségnyújtás keretéből kell finanszírozni, amelynek felhasználására vonatkozó általános irányelveket a Nemzeti Irányító Hatóság határozza meg.

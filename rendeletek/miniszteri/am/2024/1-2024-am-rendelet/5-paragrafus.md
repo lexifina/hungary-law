@@ -1,0 +1,1 @@
+5. § A Magyar Nemzeti Vidéki Hálózat a KAP-hálózat részeként működik a Vidékfejlesztési Program és a Magyar Nemzeti Vidéki Hálózatról szóló 11/2016. (IV. 21.) MvM rendelet alapján, a Vidékfejlesztési Program zárásáig.
