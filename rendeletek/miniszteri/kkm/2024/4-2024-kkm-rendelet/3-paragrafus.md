@@ -1,5 +1,3 @@
-## „a) expozíció: a munkavégzés helyén, illetve az állomáshelyen jelen lévő és az e rendelet hatálya alá eső személyt érő kóroki tényező, illetve tényezőcsoport(ok) hatásának való kitettség;”
+3. §[^4]
 
-3. § A KKM rendelet 3. § (7) bekezdése helyébe a következő rendelkezés lép:
-
-„(7) A kihelyező vezető – egyedi döntése szerint – a Külszoltv. 1. melléklete szerinti külszolgálati munkakör betöltése, kiegészítő feladatkör ellátása vagy meghatározott állomáshelyre, illetve fogadó országba történő kihelyezés, illetve európai uniós vagy nemzetközi szervezetnél, annak munkavégzési helyén történő nemzeti szakértői foglalkoztatás céljából történő kirendelés esetén – azt megelőzően vagy annak időtartama alatt – vagy a külszolgálathoz, külföldi munkavégzéshez, illetve a külügyi feladatellátáshoz kapcsolódó adaptációs készség általános megállapítására pszichológiai szempontú megközelítést is magában foglaló, a külszolgálatra történő adaptációs készséget, rezilienciát, illetve a szükséges kompetenciákat felmérő és értékelő, egészségügyi vizsgálatnak nem minősülő munkáltatói felmérő-vizsgálat lefolytatását írhatja elő az 1. § (1) bekezdés a)–c) és e)–h) pontja szerinti személy számára. Elrendelés esetén a felmérésen való részvétele a kihelyező szervvel foglalkoztatásra irányuló jogviszonyban álló személy számára kötelező.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

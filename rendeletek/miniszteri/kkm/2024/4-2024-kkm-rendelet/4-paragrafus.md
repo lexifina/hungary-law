@@ -1,3 +1,3 @@
-4. § A KKM rendelet 4. § i) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(Az egészségügyi alkalmassági vizsgálat kiterjed)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

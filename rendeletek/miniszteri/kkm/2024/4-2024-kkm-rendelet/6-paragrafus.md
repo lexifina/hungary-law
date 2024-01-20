@@ -1,3 +1,3 @@
-6. § A KKM rendelet 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(Soron kívüli 4. § szerinti alkalmassági vizsgálatot kell végezni)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
