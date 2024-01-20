@@ -1,1 +1,3 @@
-2. § A KKM rendelet 8. § (1) bekezdésében az „elszámolásának formanyomtatványát a 2. melléklet tartalmazza” szövegrész helyébe az „elszámolás formanyomtatványa a minisztérium belső honlapján érhető el” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

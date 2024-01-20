@@ -1,3 +1,3 @@
-1. § A tartós külszolgálatra kihelyezettek ideiglenes kiküldetésének részletes szabályairól szóló 7/2017. (VIII. 3.) KKM rendelet (a továbbiakban: KKM rendelet) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(3) A kiküldetési rendelvény formanyomtatványa a külpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) belső honlapján érhető el.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
