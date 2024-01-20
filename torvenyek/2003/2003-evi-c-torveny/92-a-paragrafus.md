@@ -6,6 +6,6 @@
 
 (3) A bíróság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a büntetőeljárásról szóló törvényben meghatározott mértékű rendbírságot szabhat ki. A külön törvényben meghatározott hatóság a hozzáférést biztosító elektronikus hírközlési szolgáltatóval szemben a külön törvényben meghatározott mértékű bírságot szabhat ki.
 
-(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat, végzés számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
+(4) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles az elrendelő bíróság vagy a külön törvényben meghatározott elrendelő hatóság megnevezésével és az elrendelő határozat, végzés vagy az Szjtv. 36/K. § (1) bekezdése szerinti értesítés számának a megjelölésével tájékoztatni a felhasználókat a tartalomhoz való hozzáférés ideiglenes vagy végleges megakadályozásának a jogalapjáról.
 
 (5) A hozzáférést biztosító elektronikus hírközlési szolgáltató köteles a bíróság vagy a külön törvényben meghatározott hatóság által a szolgáltatás Magyarországon történő megkezdésének időpontja előtt elrendelt elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozását a szolgáltatás megkezdésétől a 159/C. § (1) bekezdése szerint teljesíteni.
