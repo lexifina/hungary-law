@@ -1,11 +1,3 @@
-12. § Hatályát veszti az R2.
+12. §[^12]
 
-a) 1. § 8a. pontjában a „vagy új gazdasági tevékenység végzésére irányuló induló beruházás” szövegrész,
-
-b) 1. § 11. pontja,
-
-c) 9/A. § (3) bekezdése,
-
-d) 9/A. § (6) bekezdése,
-
-e) 12. §-ában a „2–3. §-a” szövegrész.
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
