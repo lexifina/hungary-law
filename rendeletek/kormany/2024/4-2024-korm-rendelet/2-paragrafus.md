@@ -1,1 +1,3 @@
-2. § A tanárbéremeléshez szükséges központi költségvetési támogatás veszélyhelyzeti szabályairól szóló 662/2023. (XII. 29.) Korm. rendelet 1. § (5) bekezdésében a „január 22-ig” szövegrész helyébe a „január 30-ig” szöveg lép.
+2. §[^1]
+
+[^1]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
