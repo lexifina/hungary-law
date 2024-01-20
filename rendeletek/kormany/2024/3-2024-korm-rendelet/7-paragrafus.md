@@ -1,1 +1,3 @@
-7. § A 401/2023. (VIII. 30.) Korm. rendelet az 1. melléklet szerinti 5. melléklettel egészül ki.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
