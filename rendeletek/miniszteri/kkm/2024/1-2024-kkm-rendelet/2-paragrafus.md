@@ -1,7 +1,3 @@
-2. § A konzuli költségekről szóló 5/2010. (XII. 31.) KüM rendelet
+2. §[^3]
 
-a) 2. § (2) bekezdésében az „indul, a” szövegrész helyébe az „indul, akkor a” szöveg,
-
-b) 6. § (3) bekezdésében a „hitelesíthető, azt” szövegrész helyébe a „hitelesíthető, akkor azt” szöveg és az „amennyiben” szövegrész helyébe a „ha” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
