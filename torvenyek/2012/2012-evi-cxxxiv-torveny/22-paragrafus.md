@@ -24,6 +24,6 @@ terjedő bírsággal sújtja.
 
 (3a) Ha a Hatóság azt állapítja meg, hogy a jogosulatlan dohánytermék-kiskereskedelmi tevékenységet kiskorú folytatja, úgy – a (3) bekezdés a) pontjától eltérően – bírság kiszabására nem kerül sor, és a Hatóság erről a gyámhatóságot értesíti.
 
-(4) A bírság együttesen, illetve a 23. § és a 23/C. § rendelkezései szerint hozott intézkedés mellett is kiszabható.
+(4) A bírság együttesen, illetve a 23. §, a 23/C. § és a 23/E. § (1) bekezdésének rendelkezései szerinti döntés mellett is kiszabható.
 
 (5) Az e törvény szerinti bírságot a kötelezett a döntés véglegessé válásától számított 15 napon belül köteles megfizetni a Hatóság számlájára. A bírság megfizetésének módjára az adóigazgatási eljárás részletszabályairól szóló kormányrendeletnek az adófizetésre vonatkozó rendelkezései az irányadóak.

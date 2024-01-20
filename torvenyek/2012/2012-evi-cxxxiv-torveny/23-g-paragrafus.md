@@ -1,0 +1,1 @@
+23/G. § A Hatóság az elektronikus adat hozzáférhetetlenné tétele során jogszerűen megszerzett iratot, adatot vagy egyéb bizonyítási eszközt más, a 23/E. § (1) bekezdése szerinti eljárásában felhasználhatja.
