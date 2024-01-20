@@ -1,1 +1,0 @@
-A médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 206. § (1) bekezdés c) pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (5) és (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
