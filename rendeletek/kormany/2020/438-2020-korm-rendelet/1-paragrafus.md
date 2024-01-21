@@ -1,4 +1,4 @@
-## 1. § Az állami adóhatóság elektronikus úton hivatalból átadja a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó nyugellátások megállapítása érdekében a központi nyugdíjbiztosítási szervként eljáró Magyar Államkincstár (a továbbiakban: Kincstár) részére az adózás rendjéről szóló 2017. év CL. törvény (a továbbiakban: Art.) 50. §-a szerint bevallott, természetes személyekre vonatkozó, a foglalkoztatók, a foglalkoztatónak nem minősülő egyéni vállalkozók és az őstermelők által bevallott adatokkal megegyező adatok közül:
+1. §[^1] Az állami adó- és vámhatóság elektronikus úton hivatalból átadja a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó nyugellátások megállapítása érdekében a központi nyugdíjbiztosítási szervként eljáró Magyar Államkincstár (a továbbiakban: Kincstár) részére az adózás rendjéről szóló 2017. év CL. törvény (a továbbiakban: Art.) 50. §-a szerint bevallott, természetes személyekre vonatkozó, a foglalkoztatók, a foglalkoztatónak nem minősülő egyéni vállalkozók és az őstermelők által bevallott adatokkal megegyező adatok közül:
 
 a) a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 66. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát, jogelődjének adóazonosító számát, a természetes személy természetes személyazonosító adatait (ideértve az előző nevet és a titulust is), nemét, állampolgárságát, adóazonosító jelét, társadalombiztosítási azonosító jelét,
 
@@ -25,3 +25,5 @@ k) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napja
 l) a felszolgálási díj után fizetett társadalombiztosítási járulék alapját és összegét,
 
 m) a tagi munkavégzés esetén a szociális szövetkezet által a tagja után fizetendő nyugdíjjárulék alapját és összegét.
+
+[^1]: Az 1. § nyitó szövegrésze a 611/2023. (XII. 22.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.

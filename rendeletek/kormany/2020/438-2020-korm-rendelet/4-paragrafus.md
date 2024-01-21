@@ -1,4 +1,4 @@
-## 4. §[^1] Az állami adóhatóság átadja az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság részére az Art. 50. §-a szerint bevallott adatok közül:
+4. §[^4] Az állami adó- és vámhatóság átadja az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság részére az Art. 50. §-a szerint bevallott adatok közül:
 
 a) a Tbj. 66. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét és adóazonosító számát,
 
@@ -20,4 +20,4 @@ i) az adott hónapban történt egyszerűsített foglalkoztatás napjára (napja
 
 j) a felszolgálási díj után fizetett társadalombiztosítási járulék alapját és levont összegét.
 
-[^1]: A 4. § nyitó szövegrésze a 116/2021. (III. 10.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^4]: A 4. § nyitó szövegrésze a 116/2021. (III. 10.) Korm. rendelet 34. §-a, a 611/2023. (XII. 22.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.

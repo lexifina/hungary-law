@@ -1,4 +1,4 @@
-## 2. § Az állami adóhatóság átadja az egészségbiztosítási pénzbeli ellátások és a baleseti táppénz megállapítása érdekében a Kincstár mint egészségbiztosítási pénztári feladatkörben eljáró egészségbiztosítási szerv, valamint az egészségbiztosítási szervként eljáró Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére az Art. 50. §-a szerint bevallott adatok közül:
+2. §[^2] Az állami adó- és vámhatóság átadja az egészségbiztosítási pénzbeli ellátások és a baleseti táppénz megállapítása érdekében a Kincstár mint egészségbiztosítási pénztári feladatkörben eljáró egészségbiztosítási szerv, valamint az egészségbiztosítási szervként eljáró Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére az Art. 50. §-a szerint bevallott adatok közül:
 
 a) a Tbj. 66. § (1) bekezdése szerinti nyilvántartásra kötelezett nevét, székhelyét, adóazonosító számát,
 
@@ -23,3 +23,5 @@ j) a foglalkozás FEOR számát, a heti munkaidő tartamát,
 k) a társas vállalkozóként biztosított, egyidejűleg több gazdasági társaság személyesen közreműködő tagja Tbj. 42. § (4) bekezdése szerinti nyilatkozatában foglalt választását,
 
 l) a társas vállalkozóként is biztosított egyéni vállalkozó Tbj. 42. § (8) bekezdése szerinti nyilatkozatában foglalt választását.
+
+[^2]: A 2. § nyitó szövegrésze a 611/2023. (XII. 22.) Korm. rendelet 40. § 1. pontja szerint módosított szöveg.
