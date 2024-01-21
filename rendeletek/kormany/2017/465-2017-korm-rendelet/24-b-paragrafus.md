@@ -1,4 +1,4 @@
-## 10/B. [^36] Az adóigazolvány kiállítására vonatkozó részletszabályok
+## 10/B. [^39] Az adóigazolvány kiállítására vonatkozó részletszabályok
 
 24/B. § (1) Az Art. 33/A. §-ában meghatározottak alapján hivatalból kiadásra kerülő adóigazolványt az állandó személyazonosító igazolvány megszemélyesítését végző szervezet személyesíti meg, az állami adóhatóság adatot szolgáltat e szervezet részére a megszemélyesítéshez szükséges adatokról.
 
@@ -8,4 +8,4 @@
 
 (4) Az állandó személyazonosító igazolvány megszemélyesítését végző szervezet adatot szolgáltat az állami adó- és vámhatóság részére az adóigazolvány megszemélyesítésével és elküldésével kapcsolatos adatokról.
 
-[^36]: A 10/B. alcímet (24/B. §) az 572/2020. (XII. 9.) Korm. rendelet 113. §-a iktatta be.
+[^39]: A 10/B. alcímet (24/B. §) az 572/2020. (XII. 9.) Korm. rendelet 113. §-a iktatta be.

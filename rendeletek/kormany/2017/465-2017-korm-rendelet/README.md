@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-465-20-
 | 2023-01-01 | 2017-465-20-22.17 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-12-23 | 2017-465-20-22.19 | 611/2023. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 2017-465-20-22.18 | 611/2023. (XII. 22.) Korm. rendelet |
+| 2024-01-21 | 2017-465-20-22.20 | 611/2023. (XII. 22.) Korm. rendelet |

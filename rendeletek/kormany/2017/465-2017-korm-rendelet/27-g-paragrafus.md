@@ -1,6 +1,6 @@
 27/G. § (1) Teljes költségmentesség akkor engedélyezhető, ha az adózó
 
-a)[^46] és a vele közös háztartásban élő közeli hozzátartozó egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegét, és
+a)[^49] és a vele közös háztartásban élő közeli hozzátartozó egy főre jutó havi nettó jövedelme (nyugdíja) nem éri el a szociális vetítési alap összegét, és
 
 b) ingatlantulajdonnal nem, vagy kizárólag a lakóhelyéül szolgáló ingatlan tulajdonával rendelkezik.
 
@@ -14,4 +14,4 @@ c) hajléktalan vagy
 
 d) menekült, menedékes, illetve menekültkénti vagy oltalmazottkénti elismerését kérő vagy menedékeskénti elismerését kérő személy számára biztosított ellátásra és támogatásra jogosult.
 
-[^46]: A 27/G. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 52. §-a szerint módosított szöveg.
+[^49]: A 27/G. § (1) bekezdés a) pontja a 629/2022. (XII. 30.) Korm. rendelet 52. §-a szerint módosított szöveg.

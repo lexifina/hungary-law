@@ -1,4 +1,4 @@
-## 13/A. [^40] Az ügygondnok
+## 13/A. [^43] Az ügygondnok
 
 27/A. § (1) Az Air. alapján kirendelt ügygondnok – ha jogszabály másként nem rendelkezik – az eljáró adóhatóság felhatalmazása nélkül pénzt vagy dolgot nem vehet át, vitás jogot nem ismerhet el, illetve arról nem mondhat le, kivéve, ha ezzel az általa képviselt természetes személyt nyilvánvaló károsodástól óvja meg.
 
@@ -12,4 +12,4 @@
 
 (6) Az ügygondnok munkadíja annak az adóhatósági eljárásnak az eljárási költsége, amelyben az ügygondnok kirendelésére sor került.
 
-[^40]: A 13/A. alcímet (27/A. §-t) a 311/2018. (XII. 27.) Korm. rendelet 29. §-a iktatta be.
+[^43]: A 13/A. alcímet (27/A. §-t) a 311/2018. (XII. 27.) Korm. rendelet 29. §-a iktatta be.

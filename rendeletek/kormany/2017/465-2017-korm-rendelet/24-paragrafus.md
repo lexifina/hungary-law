@@ -1,6 +1,6 @@
 ## 10. Az adóhatósági igazolások kiállítása
 
-24. § (1)[^30] Az általános adóigazolás tartalmazza az adózónak az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon
+24. § (1)[^31] Az általános adóigazolás tartalmazza az adózónak az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon
 
 a) az adóhatóságnál fennálló adótartozását vagy az állami adó- és vámhatóságnál fennálló tartozását vagy annak hiányát,
 
@@ -12,13 +12,15 @@ c) a végrehajtásra vagy a visszatartásra átadott köztartozásokat.
 
 (3) Ha jogszabály adóigazolás benyújtását írja elő, e kötelezettség teljesítettnek minősül, ha az állami adó- és vámhatóság az adózót az adóigazolás benyújtását előíró jogszabályban meghatározott határidő utolsó napján vagy határnapon, egyéb esetekben a kérelem benyújtásakor a köztartozásmentes adózói adatbázisban nyilvántartja.
 
-(4)[^31] A köztartozásmentes adózói minőségről szóló igazolás tartalmazza az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon az Art. 260. § (1) bekezdés a)–g) pontjában előírt feltételeknek való megfelelést. A kiadott igazolás adóigazolásnak minősül.
+(4)[^32] A köztartozásmentes adózói minőségről szóló igazolás tartalmazza az igazolás kiadásának napján vagy az igazolás kiadása iránti kérelemben megjelölt napon az Art. 260. § (1) bekezdés a)–g) pontjában előírt feltételeknek való megfelelést. A kiadott igazolás adóigazolásnak minősül.
 
 (5) A jövedelemigazolás a kiállítás napján fennálló állapotnak megfelelően adóévenként tartalmazza az adózó által bevallott, illetve a munkáltatói, utólagos adómegállapítás, valamint a soron kívüli adómegállapítás útján megállapított, összevontan és elkülönülten adózó jövedelmet, valamint a jövedelem után keletkező személyi jövedelemadó, a különadóalap után a különadó, illetve az egyszerűsített közteherviselési hozzájárulás (a továbbiakban: ekho) szerint adózott bevétel összegét és az ekho-fizetési kötelezettséget. Arra az adóévre vonatkozóan, amelyben az adózó adónyilatkozatot nyújtott be, a jövedelemigazolás a családi kedvezménnyel nem csökkentett összevont adóalap és valamennyi bevallási kötelezettséggel járó külön adózó jövedelem együttes összegét, valamint az adózó személyi jövedelemadó-kötelezettségét tartalmazza.
 
 (6) Ha az adózó az egyszerűsített vállalkozói adó (a továbbiakban: eva) alanya, a jövedelemigazolás adóévenként tartalmazza az eva-alanyiság körében megszerzett összes bevételt és az ezután megállapított egyszerűsített vállalkozói adót, egyebekben az eva-alapot nem képező jövedelemről (bevételről) az egyébként irányadó szabályok szerint állítja ki az állami adó- és vámhatóság a jövedelemigazolást.
 
-(7)[^32] Ha az adózó személyi jövedelemadóról vagy egyszerűsített vállalkozói adóról nem nyújtott be bevallást, nyilatkozatban nem kérte a munkáltatói adómegállapítást, nem adható ki jövedelemigazolás, kivéve, ha
+(6a)[^33] Az (5) bekezdésben foglaltakon túl, ha az adózó átalányadózást választott – ide nem értve a tételes átalányadózás választását –, a jövedelemigazolás adóévenként tartalmazza az átalányadó alapjába, illetve az adóalapba beszámító bevételt, az alkalmazott költséghányad mértékét, az átalányban megállapított jövedelem összegét, az átalányban megállapított jövedelem adómentes részét, valamint az átalányban megállapított adóköteles jövedelem összegét.
+
+(7)[^34] Ha az adózó személyi jövedelemadóról vagy egyszerűsített vállalkozói adóról nem nyújtott be bevallást, nyilatkozatban nem kérte a munkáltatói adómegállapítást, nem adható ki jövedelemigazolás, kivéve, ha
 
 a) az adózó adóalapjának és adójának megállapítása utólagos, illetve soron kívüli adómegállapítás keretében történt,
 
@@ -30,14 +32,15 @@ b) a jövedelemigazolás kiállításának napján fennálló állapotnak megfel
 
 (10) Az adóhatóság az adóhatósági igazolást a külföldi hatóság által rendszeresített nyomtatványon is kiállítja, ha a kérelmező a nyomtatványhoz csatolja annak magyar nyelvű szakfordítását. Nincs szükség szakfordításra, ha a nyomtatvány angol nyelvű, vagy ha a két- vagy többnyelvű nyomtatvány teljes körű angol nyelvű szöveget is tartalmaz.
 
-(11)[^33]
+(11)[^35]
 
 (12) A kiadott adóhatósági igazoláson az állami adó- és vámhatóság véletlenszám-generátor használatával képzett, legalább huszonnégy karakteres azonosítót helyez el, amelynek segítségével az adózó, a képviselője és az igazolás felhasználója – elektronikus azonosítási szolgáltatás igénybevételét követően – az állami adó- és vámhatóság honlapján a kiadott igazolást megtekintheti, letöltheti.
 
-(13)[^34] A közbeszerzéshez kapcsolódó kifizetés céljából igényelt adóigazolás iránti kérelem tartalmazza a kifizetést teljesítő adózó nevét (elnevezését), székhelyét (címét), adóazonosító számát is.
+(13)[^36] A közbeszerzéshez kapcsolódó kifizetés céljából igényelt adóigazolás iránti kérelem tartalmazza a kifizetést teljesítő adózó nevét (elnevezését), székhelyét (címét), adóazonosító számát is.
 
-[^30]: A 24. § (1) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^31]: A 24. § (4) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
-[^32]: A 24. § (7) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^33]: A 24. § (11) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
-[^34]: A 24. § (13) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 28. §-a iktatta be.
+[^31]: A 24. § (1) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^32]: A 24. § (4) bekezdése a 260/2019. (XI. 7.) Korm. rendelet 14. § 1. pontja szerint módosított szöveg.
+[^33]: A 24. § (6a) bekezdését a 611/2023. (XII. 22.) Korm. rendelet 26. §-a iktatta be.
+[^34]: A 24. § (7) bekezdése a 439/2020. (IX. 23.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^35]: A 24. § (11) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 37. § e) pontja hatályon kívül helyezte.
+[^36]: A 24. § (13) bekezdését a 311/2018. (XII. 27.) Korm. rendelet 28. §-a iktatta be.
