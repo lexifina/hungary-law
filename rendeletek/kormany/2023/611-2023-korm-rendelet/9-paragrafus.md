@@ -1,3 +1,3 @@
-9. §[^9]
+9. § A NAV Korm. rendelet a következő 46. §-sal egészül ki:
 
-[^9]: A 9. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+„46. § A vármegyei igazgatóság folytatja le a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) alapján végzett ellenőrzése során felderített jogsértéssel kapcsolatos hatósági eljárást.”

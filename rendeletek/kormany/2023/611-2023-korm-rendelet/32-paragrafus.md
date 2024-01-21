@@ -1,3 +1,3 @@
-32. §[^60]
+32. § Az Adóig. vhr. 116. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^60]: A 32. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+„(2) Az ármegállapítási kérelem visszautasítása, az eljárás megszüntetése vagy a kérelem elutasítása esetén az adópolitikáért felelős miniszter a befizetett díj nyolcvanöt százalékát a döntés véglegessé válását követően haladéktalanul átutalja az adózó által az ármegállapítási kérelemben megjelölt fizetési számlára.”

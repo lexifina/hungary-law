@@ -1,5 +1,5 @@
 ## 3. A központi nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adó- és vámhatóság által teljesített adatátadás részletes szabályairól szóló 438/2020. (IX. 22.) Korm. rendelet módosítása
 
-38. §[^67]
+38. § A központi nyugdíjbiztosítási szerv, az egészségbiztosítási szerv, a rehabilitációs hatóság, az állami foglalkoztatási szerv és a munkaügyi hatóság részére az állami adó- és vámhatóság által teljesített adatátadás részletes szabályairól szóló 438/2020. (IX. 22.) Korm. rendelet [a továbbiakban: 438/2020. (IX. 22.) Korm. rendelet] 5. §-a helyébe a következő rendelkezés lép:
 
-[^67]: A 38. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+„5. § Az állami adó- és vámhatóság elektronikus úton hivatalból átadja a központi nyugdíjbiztosítási szervként eljáró Kincstár és a Kincstár mint egészségbiztosítási pénztári feladatkörben eljáró egészségbiztosítási szerv, valamint az egészségbiztosítási szervként eljáró NEAK részére kisadózó vállalkozónként – a kisadózó vállalkozó nevének és adószámának megjelölésével – a főfoglalkozású kisadózó biztosítotti jogállásának és a biztosítás szünetelésének időtartamára, valamint az ellátások alapjára vonatkozó adatot a kisadózó vállalkozók tételes adójáról szóló 2022. évi XIII. törvény (a továbbiakban: Kata tv.) 3. §-a, 5. § (3a) bekezdése és 7. § (10) bekezdése szerinti bejelentések adattartalma alapján.”

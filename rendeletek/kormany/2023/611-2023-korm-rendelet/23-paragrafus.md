@@ -1,5 +1,5 @@
 ## 2. Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet módosítása
 
-23. §[^51]
+23. § Az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet (a továbbiakban: Adóig. vhr.) 16. § (9) bekezdése helyébe a következő rendelkezés lép:
 
-[^51]: A 23. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+„(9) Azon szervezeteknél, amelyeknél a személyi juttatások kiemelt előirányzaton elszámolandó kiadásokkal kapcsolatos számfejtési és kifizetőhelyi feladatokhoz kapcsolódó, az állami adó- és vámhatóság felé teljesítendő bejelentési és bevallási kötelezettségek teljesítése a központosított illetményszámfejtés útján történik, az állami adó- és vámhatóság a Magyar Államkincstár (a továbbiakban: Kincstár) által átadott adatok alapján veszi nyilvántartásba az eljáró képviselő adatait és a képviseleti jogosultsága terjedelmét. E bekezdés alkalmazásában a képviseleti adatok és jogosultságok nyilvántartásba vételéhez szükséges adatokat a Kincstár – az állami adó- és vámhatósággal egyeztetett módon és időpontban – elektronikus formában átadja az állami adó- és vámhatóság részére. Az adatátadás tartalmazza a képviselőként eljáró személy nevét, adóazonosító jelét, képviseleti jogosultsága kezdő időpontját, terjedelmét, az általa képviselt adózó elnevezését, adószámát, valamint a kapcsolattartáshoz szükséges adatokat. A képviseleti jogosultság a Kincstár általi illetmény-számfejtési feladatellátáshoz kapcsolódó valamennyi adóhatósági adatszolgáltatásra, tájékoztatásra, visszaigazolásra kiterjed.”

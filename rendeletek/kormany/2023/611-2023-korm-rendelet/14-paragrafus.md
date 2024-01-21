@@ -1,3 +1,5 @@
-14. §[^14]
+## „h) a NAV elnökének, foglalkoztatottjainak, munkavállalóinak, valamint tisztjelöltjeinek adóügyében, kivéve a helyszíni ellenőrzéssel megvalósuló Jöt. szerinti ellenőrzést;”
 
-[^14]: A 14. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+14. § A NAV Korm. rendelet 25. alcím címe helyébe a következő rendelkezés lép:
+
+„25. A NAV bűnügyi és rendészeti elnökhelyettesének feladatai”

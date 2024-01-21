@@ -1,3 +1,3 @@
-24. §[^52]
+24. § Az Adóig. vhr. 20. §-a a következő (2a) bekezdéssel egészül ki:
 
-[^52]: A 24. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+„(2a) A fizetési kötelezettségnek az (1) és (2) bekezdés szerinti teljesítése során az adózó köteles megadni az adóazonosító számát a közlemény, illetve a befizető-azonosító rovatban.”

@@ -1,3 +1,9 @@
-11. §[^11]
+11. § (1) A NAV Korm. rendelet 61. § b) pontja helyébe a következő rendelkezés lép:
 
-[^11]: A 11. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+(A KAVIG kizárólagos hatáskörébe tartozik)
+
+## „b) a biztonsági papírok tekintetében a szabad forgalomba bocsátás, az aktív feldolgozási eljárás, a passzív feldolgozási eljárás, az ideiglenes behozatali eljárás, valamint a meghatározott célra történő felhasználási eljárás lefolytatása és az ahhoz kapcsolódó szállítási engedélyek ellenőrzése;”
+
+(2) A NAV Korm. rendelet 61. § l) pontja helyébe a következő rendelkezés lép:
+
+(A KAVIG kizárólagos hatáskörébe tartozik)

@@ -1,59 +1,57 @@
 20. § A NAV Korm. rendelet
 
-1. [^20]
+1. [^8]
 
-2. [^21]
+2. [^9]
 
-3. [^22]
+3. [^10]
 
-4. [^23]
+4. [^11]
 
-5. [^24]
+5. [^12]
 
-6. [^25]
+6. [^13]
 
-7. [^26]
+7. [^14]
 
-8. [^27]
+8. [^15]
 
-9. [^28]
+9. [^16]
 
-10. [^29]
+10. 57. § (3) bekezdésében a „lefolytatását,” szövegrész helyébe a „lefolytatását, a vámraktározás,” szöveg,
 
-11. [^30]
+11. [^17]
 
-12. [^31]
+12. [^18]
 
-13. [^32]
+13. [^19]
 
-14. [^33]
+14. [^20]
 
-15. [^34]
+15. [^21]
 
-16. [^35]
+16. [^22]
 
-17. [^36]
+17. [^23]
 
-18. [^37]
+18. 90. § (5) bekezdés c) pontjában a „közúti közlekedésről szóló 1988. évi I. törvény” szövegrész helyébe a „Kkt.” szöveg, valamint
 
-19. [^38]
+19. [^24]
 
-[^20]: A 20. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 20. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^22]: A 20. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 20. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 20. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 20. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 20. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 20. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 20. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^29]: A 20. § 10. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
-[^30]: A 20. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^31]: A 20. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: A 20. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^33]: A 20. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^34]: A 20. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^35]: A 20. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^36]: A 20. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^37]: A 20. § 18. pontja a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
-[^38]: A 20. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 20. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 20. § 2. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 20. § 3. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 20. § 4. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 20. § 5. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 20. § 6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 20. § 7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 20. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 20. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 20. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 20. § 12. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 20. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 20. § 14. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 20. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 20. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 20. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 20. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

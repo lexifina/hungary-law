@@ -1,3 +1,3 @@
-16. §[^16]
+16. § A NAV Korm. rendelet 90. § (1) bekezdése a következő f) és g) ponttal egészül ki:
 
-[^16]: A 16. § a 44. § (3) bekezdés alapján 2024. január 21-én lép hatályba.
+(A Bevetési Igazgatóság)
