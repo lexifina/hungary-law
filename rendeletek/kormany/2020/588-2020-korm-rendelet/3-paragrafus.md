@@ -16,7 +16,17 @@ e) a KKIGR működését támogató, egységesített – az OKFŐ honlapján kö
 
 (3)[^1] Az (1) bekezdés hatálya alá nem tartozó állami fenntartású fekvőbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és az 1. mellékletben meghatározott adatokat szolgáltatni.
 
-(3a)[^2] Az egyházi fenntartásban álló közfinanszírozott fekvőbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és a 2. mellékletben meghatározott adatokat szolgáltatni.
+(3a)[^2] Interfészen keresztül köteles a KKIGR-hez csatlakozni és a 2. mellékletben meghatározott adatokat szolgáltatni
+
+a) az egyházi fenntartásban álló közfinanszírozott fekvőbeteg-szakellátó intézmény, valamint
+
+b) a közfeladatot ellátó közérdekű vagyonkezelő alapítványi fenntartásban álló felsőoktatási intézmény klinikai központja és a felsőoktatási intézményhez tartozó egyéb fekvőbeteg-szakellátó intézmény
+
+[az a) és b) pont szerinti intézmény a továbbiakban együtt: egyéb egészségügyi szolgáltató].
+
+(3b)[^3] Az egyéb egészségügyi szolgáltató a (3a) bekezdés szerinti interfészen keresztül, a személyes adatok törvényben meghatározott védelme mellett a gazdálkodási adatairól – az OKFŐ-vel egyeztetett módon és tartalommal – önkéntesen további adatokat is szolgáltathat.
+
+(3c)[^4] Az interfészleírás tartalmát az OKFŐ az egyéb egészségügyi szolgáltató fenntartójával egyetértésben alakítja ki.
 
 (4) A közfinanszírozott járóbeteg-szakellátó intézmények interfészen keresztül kötelesek a KKIGR-hez csatlakozni és az 1. mellékletben meghatározott adatokat szolgáltatni.
 
@@ -26,10 +36,12 @@ a) az OKFŐ-n kívül egyéb szerv jóváhagyását vagy
 
 b) központi beszerző szervezet alkalmazását írja elő,
 
-## a fekvőbeteg-szakellátó intézménynek a 2. § (3) bekezdés c) pontja szerinti rendszerbe feltöltött és engedélyezett beszerzéseit a jóváhagyásra jogosult szerv részére vagy a központi beszerző szerv részére az OKFŐ továbbítja.
+a fekvőbeteg-szakellátó intézménynek a 2. § (3) bekezdés c) pontja szerinti rendszerbe feltöltött és engedélyezett beszerzéseit a jóváhagyásra jogosult szerv részére vagy a központi beszerző szerv részére az OKFŐ továbbítja.
 
-(6)[^3] A (3)–(4) bekezdés alapján szolgáltatott adatok kezelése az Egészségbiztosítási Alapból származó bevételek hatékony felhasználásának ellenőrzése és az egészségügyi költségvetés tervezése céljából történik.
+(6)[^5] A (3)–(4) bekezdés alapján szolgáltatott adatok kezelése az Egészségbiztosítási Alapból származó bevételek hatékony felhasználásának ellenőrzése és az egészségügyi költségvetés tervezése céljából történik.
 
 [^1]: A 3. § (3) bekezdése a 157/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § (3a) bekezdését a 157/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^3]: A 3. § (6) bekezdése a 157/2021. (III. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 3. § (3a) bekezdését a 157/2021. (III. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 624/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 3. § (3b) bekezdését a 624/2023. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 3. § (3c) bekezdését a 624/2023. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3. § (6) bekezdése a 157/2021. (III. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
