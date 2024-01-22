@@ -1,3 +1,3 @@
-16. § A NAV Korm. rendelet 90. § (1) bekezdése a következő f) és g) ponttal egészül ki:
+16. §[^16]
 
-(A Bevetési Igazgatóság)
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

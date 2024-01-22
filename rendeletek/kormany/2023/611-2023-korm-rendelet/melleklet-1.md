@@ -1,3 +1,3 @@
-1. melléklet a 611/2023. (XII. 22.) Korm. rendelethez[^46]
+1. melléklet a 611/2023. (XII. 22.) Korm. rendelethez[^55]
 
-[^46]: Az 1. melléklet a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^55]: Az 1. melléklet a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.

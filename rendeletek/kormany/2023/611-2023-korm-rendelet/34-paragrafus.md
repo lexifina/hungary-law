@@ -1,3 +1,3 @@
-34. § Az Adóig. vhr. a következő 128/C. §-sal egészül ki:
+34. §[^44]
 
-„128/C. § A Nemzeti Adó- és Vámhivatal tevékenységével, valamint egyes adózással összefüggő kormányrendeletek módosításáról szóló 611/2023. (XII. 22.) Korm. rendelettel megállapított 23. § (1) bekezdését a 2024. január 1-jén és az azt követően megszerzett, kifizetett jövedelmek tekintetében kell alkalmazni.”
+[^44]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

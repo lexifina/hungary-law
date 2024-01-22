@@ -1,3 +1,3 @@
-22. §[^34]
+22. §[^32]
 
-[^34]: A 22. § a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^32]: A 22. § a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
