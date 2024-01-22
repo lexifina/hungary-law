@@ -1,7 +1,3 @@
-2. § Az R. 6. §-a helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„6. § A központi kórházi integrált gazdálkodási rendszerrel kapcsolatos egyes szabályokról szóló 588/2020. (XII. 17.) Korm. rendelet módosításáról szóló 624/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 3. § (3a) bekezdése szerint kötelezett intézmények
-
-a) 2024. március 31-ig alakítják ki a KKIGR-rel való kapcsolatot biztosító interfészt és
-
-b) 2024. április 1-jétől szolgáltatják a 2. melléklet szerinti adatokat a KKIGR részére.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
