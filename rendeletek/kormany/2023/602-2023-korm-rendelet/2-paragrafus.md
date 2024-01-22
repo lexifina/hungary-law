@@ -1,0 +1,3 @@
+## 2. A klímavédelemért felelős hatóság kijelölése
+
+2. § A Kormány az importáruk karbonintenzitását ellensúlyozó mechanizmusról szóló 2023. évi CV. törvény (a továbbiakban: CBAM-törvény) 2. § szerinti klímavédelemért felelős hatóságként (a továbbiakban: CBAM-hatóság) országos illetékességgel a hatósági ügyek tekintetében nem utasítható, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet 1. § (1a) bekezdésében meghatározott klímavédelmi hatóságot jelöli ki.

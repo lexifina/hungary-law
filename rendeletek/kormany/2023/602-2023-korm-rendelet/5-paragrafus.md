@@ -1,0 +1,7 @@
+5. § (1) A CBAM kötelezettségszegési bírság – a (2) bekezdésben meghatározottakat kivéve – alsó határa a jelenteni elmulasztott kibocsátási értékek alapulvételével minden megkezdett 1 tonna kibocsátás után 10 eurónak megfelelő forintösszeg, felső határa a jelenteni elmulasztott kibocsátási értékek alapulvételével minden megkezdett 1 tonna kibocsátás után 50 eurónak megfelelő forintösszeg. A bírság mindenkori összege az Eurostat által meghatározott európai fogyasztói árindexszel összhangban növekszik.
+
+(2) A CBAM kötelezettségszegési bírság mértéke az (EU) 2023/1773 bizottsági végrehajtási rendelet 16. cikk (4) bekezdésében meghatározott esetekben a jelenteni elmulasztott kibocsátási értékek alapulvételével, minden megkezdett 1 tonna kibocsátás után a minimumbírság mértékének 110%-a. A bírság mindenkori összege az Eurostat által meghatározott európai fogyasztói árindexszel összhangban növekszik.
+
+(3) Az euróban kiszabott bírságösszegnek megfelelő forintösszeg megállapítása során a Magyar Nemzeti Bank által megállapított, a teljesítés napját megelőző napon közzétett hivatalos devizaárfolyamot kell figyelembe venni.
+
+(4) A CBAM kötelezettségszegési bírságot a határozat véglegessé válásától számított 45 napon belül kell átutalás vagy postai befizetés útján megfizetni. A CBAM kötelezettségszegési bírság kiszabásáról szóló határozatban rendelkezni kell arról a számlaszámról is, amelyre a CBAM kötelezettségszegési bírságot meg kell fizetni.

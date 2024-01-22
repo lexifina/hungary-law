@@ -1,0 +1,1 @@
+A Kormány az importáruk karbonintenzitását ellensúlyozó mechanizmusról szóló 2023. évi CV. törvény 11. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
