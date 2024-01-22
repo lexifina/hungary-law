@@ -5,15 +5,3 @@ a) az importáruk karbonintenzitását ellensúlyozó mechanizmus létrehozásá
 b) az (EU) 2023/956 európai parlamenti és tanácsi rendeletnek az átmeneti időszak alatt az importáruk karbonintenzitását ellensúlyozó mechanizmus alkalmazásában fennálló jelentéstételi kötelezettségek tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló (EU) 2023/1773 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Novák Katalin s. k.,
-
-köztársasági elnök
-
-|
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

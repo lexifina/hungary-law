@@ -2,4 +2,4 @@
 
 (2) A CBAM kötelezettségszegési bírságot kiszabó határozatot megtámadó keresetlevél benyújtásának a végrehajtásra halasztó hatálya van.
 
-(3) A CBAM-hatóság döntése elleni perre a Fővárosi Törvényszék kizárólagosan illetékes.
+(3)
