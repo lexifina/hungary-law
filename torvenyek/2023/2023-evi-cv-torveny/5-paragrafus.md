@@ -1,0 +1,1 @@
+5. § Az importőr, valamint közvetett vámjogi képviselő az (EU) 2023/1773 bizottsági végrehajtási rendelet 8. cikk (1) bekezdése szerinti, CBAM átmeneti nyilvántartásba vételét a CBAM-hatóság részére benyújtott kérelemmel kezdeményezi. Az importőrnek, valamint közvetett vámjogi képviselőnek a kérelemben nyilatkoznia kell arról, hogy rendelkezik EU Login-fiókkal.

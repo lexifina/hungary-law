@@ -1,0 +1,1 @@
+4. § Az állami adó- és vámhatóság legkésőbb az áruk szabad forgalomba bocsátásakor, vagy egyszerűsített eljárásban a kiegészítő árunyilatkozat feldolgozásakor tájékoztatja az importőrt vagy a közvetett vámjogi képviselőt a jelentéstételi kötelezettségről.
