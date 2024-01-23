@@ -1,0 +1,1 @@
+A számvitelről szóló 2000. évi C. törvény 178. § (7) bekezdésében és az adózás rendjéről szóló 2017. évi CL. törvény 269. § (12) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 148. § (1) bekezdés 1. és 4. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

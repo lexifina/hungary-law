@@ -1,0 +1,3 @@
+1. § (1) A mérlegképes könyvelői hatósági képzés szervezésére és lebonyolítására jogosító akkreditáció iránti eljárásért, valamint az adótanácsadói és az okleveles adószakértői hatósági képzés szervezésére és lebonyolítására jogosító akkreditáció iránti eljárásért 90 000 forint igazgatási szolgáltatási díjat kell fizetni.
+
+(2) A mérlegképes könyvelői hatósági vizsgáztatás szervezésére és lebonyolítására jogosító akkreditáció iránti eljárásért, valamint az adótanácsadói és az okleveles adószakértői hatósági vizsgáztatás szervezésére és lebonyolítására jogosító akkreditáció iránti eljárásért 90 000 forint igazgatási szolgáltatási díjat kell fizetni.
