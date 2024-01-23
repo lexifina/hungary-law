@@ -124,13 +124,13 @@
 
 | IV.4. | Természetes fürdőhely kijelölési eljárás | 48 000 Ft |
 
-| IV.5. | Ivóvíz-határérték alóli eltérési engedély, vízminőségi jellemző alóli felmentés | 38 400 Ft |
+| IV.5. | Ivóvíz-határérték alóli eltérési engedély, (derogáció), parametrikus értéktől való átmeneti eltérés engedélyezése, vizsgálati szám csökkentésének engedélyezése | 38 400 Ft |
 
 | IV.6. |  |  |
 
 | IV.7. |  |  |
 
-| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek nyilvántartásba vétele és a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyezése | 96 000 Ft/termék |
+| IV.8. | Ivó- és használati melegvíz-ellátásban, valamint a fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vétele, engedélyezése | 96 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
 | IV.9. |  |  |
 
@@ -142,29 +142,29 @@
 
 | IV.13. | Vízforgató berendezés telepítése alóli felmentés engedélyese adataiban bekövetkezett változás | 16 000 Ft |
 
-| IV.14. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyének módosítása | 48 000 Ft/termék |
+| IV.14. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének, engedélyének módosítása | 48 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
-| IV.15. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyesének adataiban bekövetkezett változás miatti módosítás | 16 000 Ft |
+| IV.15. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák bejelentőjének, engedélyesének adataiban bekövetkezett változás miatti módosítás | 16 000 Ft |
 
-| IV.16. | Ivó- és használati melegvíz-ellátásban, valamint a medencés közfürdőkben a vízzel közvetlenül érintkező anyagok, termékek nyilvántartásba vételének az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 8/A. § (4) bekezdése szerinti felülvizsgálata, valamint a víz kezelésére vonatkozó technológiák ivóvízbiztonsági engedélyének az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló 201/2001. (X. 25.) Korm. rendelet 8/B. § (5) bekezdése szerinti felülvizsgálata | 48 000 Ft/termék |
+| IV.16. | Ivó- és használati melegvíz-ellátásban, valamint fürdővíz-ellátásban a vízzel közvetlenül érintkező termékek, vegyszerek, szűrőanyagok, technológiák nyilvántartásba vételének megújítása, felülvizsgálata | 48 000 Ft/termék, vízkezelő vegyszer, szűrőanyag, technológia |
 
 | IV.17. | Ivóvízbiztonsági terv jóváhagyása | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 192 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 96 000 Ft |
 
 | IV.18. | Ivóvízbiztonsági terv felülvizsgálata | a) évi átlagban 50 000 főnél többet ellátó vízmű esetében 96 000 Ft, b) évi átlagban 50 000 főnél kevesebbet ellátó vízmű esetében 48 000 Ft |
 
-| V. | Veszélyes anyagokkal, veszélyes készítményekkel kapcsolatos igazgatási szolgáltatások |  |
+| V. | Veszélyes anyagokkal, veszélyes keverékekkel kapcsolatos igazgatási szolgáltatások |  |
 
 | V.1. | A veszélyes vegyi anyagok kiviteléről és behozataláról szóló európai parlamenti és tanácsi rendelet szerinti kiviteli bejelentés és hozzájárulás iránti kérelem | 19 100 Ft |
 
-| V.2. | Veszélyes anyaggal vagy veszélyes készítménnyel folytatott tevékenység (és a tevékenységben bekövetkezett változás) bejelentése | 7 800 Ft/telephely |
+| V.2. | Veszélyes anyaggal vagy veszélyes keverékkel folytatott tevékenység (és a tevékenységben bekövetkezett változás) bejelentése | 7 800 Ft/telephely |
 
-| V.3. | Veszélyes anyag vagy veszélyes készítmény bejelentése | 9 200 Ft/anyag vagy készítmény |
+| V.3. | Veszélyes keverék bejelentése | 9 200 Ft/keverék |
 
 | V.4. |  |  |
 
 | V.5. |  |  |
 
-| V.6. | ETTSZ szakvélemény | 4 070 Ft/anyag vagy készítmény |
+| V.6. | ETTSZ szakvélemény | 45 000 Ft/anyag vagy keverék |
 
 | V.7. | Méregközpontba történő bejelentés díjtételei |  |
 
@@ -416,7 +416,7 @@
 
 | XI.22. | Utak építésének, forgalomba helyezésének és megszüntetésének engedélyezési eljárásában szakhatósági közreműködés | 11 500 Ft |
 
-| XI.23. |  |  |
+| XI.23. | Elismert ásványvíz, gyógyvíz, gyógyhatású víz, gyógyiszap és egyéb természetes gyógytényezők megnevezés engedélyezésében szakhatósági közreműködés (a kitermelés körülményeinek közegészségügyi szempontú vizsgálata) | 31 500 Ft |
 
 | XII. | Orvostudományi kutatással kapcsolatos igazgatási szolgáltatások [nem kereskedelmi kutatás, valamint az Eütv. 159. § (5) bekezdése szerinti kutatás kivételével] |  |
 
