@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-10-20-5
 | 2023-12-25 | 2023-10-20-53.2 | 2010. évi CXXX. törvény |
 | 2024-01-07 | 2023-10-20-53.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-01-08 | 2023-10-20-53.4 | 2010. évi CXXX. törvény |
+| 2024-01-23 | 2023-10-20-53.5 | Nemzeti Jogszabálytár (egységes szerkezet) |

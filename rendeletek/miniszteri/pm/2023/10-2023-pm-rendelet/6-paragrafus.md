@@ -2,45 +2,34 @@
 
 a)[^6]
 
-b)[^7]
+b) 8. § (1) bekezdésében a „15 000 forint vizsgálati” szövegrész helyébe a „20 000 forint szolgáltatási” szöveg,
 
-c)[^8]
+c) 8. § (2) bekezdésében az „5 000” szövegrész helyébe a „7 000” szöveg,
 
-d)[^9]
+d) 8. § (4) bekezdés a) pontjában a „3 000” szövegrész helyébe az „5 000” szöveg,
 
-e)[^10]
+e) 8. § (4) bekezdés a) pont aa) alpontjában a „2 500” szövegrész helyébe a „3 500” szöveg,
 
-f)[^11]
+f) 8. § (4) bekezdés a) pont ab) alpontjában az „5 000” szövegrész helyébe a „7 000” szöveg,
 
-g)[^12]
+g) 8. § (4) bekezdés b) pontjában a „3 000” szövegrész helyébe a „4 000” szöveg,
 
-h)[^13]
+h) 8. § (4) bekezdés b) pont ba) alpontjában a „2 500” szövegrész helyébe a „3 500” szöveg,
 
-i)[^14]
+i) 8. § (4) bekezdés b) pont bb) alpontjában az „5 000” szövegrész helyébe a „7 000” szöveg,
 
-j)[^15]
+j) 8. § (10) bekezdésében a „6 000” szövegrész helyébe a „8 000” szöveg,
 
-k)[^16]
+k) 8. § (12) bekezdésében a „8 000” szövegrész helyébe a „11 000” szöveg,
 
-l)[^17]
+l) 9. § (1) bekezdésében a „200” szövegrész helyébe a „300” szöveg,
 
-m)[^18]
+m)[^7]
 
-n)[^19]
+n)[^8]
 
 lép.
 
 [^6]: A 6. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 6. § b) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^8]: A 6. § c) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^9]: A 6. § d) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^10]: A 6. § e) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^11]: A 6. § f) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^12]: A 6. § g) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^13]: A 6. § h) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^14]: A 6. § i) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^15]: A 6. § j) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^16]: A 6. § k) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^17]: A 6. § l) pontja a 7. § (3) bekezdés alapján 2024. január 23-án lép hatályba.
-[^18]: A 6. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 6. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. § m) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. § n) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
