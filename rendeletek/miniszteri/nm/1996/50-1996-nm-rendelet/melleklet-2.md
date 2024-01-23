@@ -1,4 +1,4 @@
-## 3X06645M.docx
+## 3X11512M.docx
 
 | I. | Kábítószerekkel és pszichotróp anyagokkal, illetve új pszichoaktív anyagokkal kapcsolatos igazgatási szolgáltatások |  |
 
@@ -44,7 +44,7 @@
 
 | II.9. |  |  |
 
-| II.10. | Eseti használatba vételi engedély kiállítása | 60 600 Ft |
+| II.10. | A megfelelőségértékelési eljárásoktól való eltéréssel érintett orvostechnikai vagy in vitro diagnosztikai eszköz forgalomba hozatalának vagy használatba vételének engedélyezése engedély kiállítása | 60 600 Ft |
 
 | II.11. | Orvostechnikai eszköz klinikai vizsgálatának és in vitro diagnosztikai orvostechnikai eszköz teljesítőképesség-vizsgálatának – ide nem értve az egészségügyről szóló 1997. évi CLIV. törvény 160/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatokat – engedélyezése, a vizsgálati terv jelentős módosításának engedélyezése | 180 000 Ft/kérelem |
 
