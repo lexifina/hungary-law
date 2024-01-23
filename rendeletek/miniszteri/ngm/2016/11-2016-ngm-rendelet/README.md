@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-11-20-2
 | 2020-12-31 | 2016-11-20-2X.11 | 18/2020. (XII. 30.) PM rendelet |
 | 2023-12-24 | 2016-11-20-2X.12 | 10/2023. (XII. 23.) PM rendelet |
 | 2024-01-07 | 2016-11-20-2X.13 | 10/2023. (XII. 23.) PM rendelet |
+| 2024-01-23 | 2016-11-20-2X.14 | 10/2023. (XII. 23.) PM rendelet |

@@ -1,4 +1,4 @@
-39. § (1)[^34] A vám-árunyilatkozat elektronikus adatfeldolgozási eljárás alkalmazásával (elektronikus vám-árunyilatkozat) történő benyújtása esetén a vám-árunyilatkozat elfogadásához, illetve az áru átengedéshez kapcsolódó dátumot és azonosítószámot elektronikus üzenet formájában adja meg az illetékes vámhivatal az elektronikus vám-árunyilatkozatot beküldő részére.
+39. § (1)[^44] A vám-árunyilatkozat elektronikus adatfeldolgozási eljárás alkalmazásával (elektronikus vám-árunyilatkozat) történő benyújtása esetén a vám-árunyilatkozat elfogadásához, illetve az áru átengedéshez kapcsolódó dátumot és azonosítószámot elektronikus üzenet formájában adja meg az illetékes vámhivatal az elektronikus vám-árunyilatkozatot beküldő részére.
 
 (2) Elektronikus vám-árunyilatkozatot az nyújthat be, aki bármely illetékes vámhivatalnál az elektronikus adatküldéssel összefüggő azonosíthatóság érdekében regisztráltatta magát. Az elektronikus vám-árunyilatkozatot a regisztrált személy a (4) bekezdés szerinti tájékoztatás szerint nyújtja be.
 
@@ -18,4 +18,4 @@ e) az elektronikus eljárásba vonható vámeljárások, illetve eljáráskódok
 
 f) az árutovábbítási és kiviteli vámeljárások, illetve a belépési és kilépési gyűjtő vámáru-nyilatkozat benyújtása tekintetében bekövetkező üzemszüneti eljárás rendjét.
 
-[^34]: A 39. § (1) bekezdése a 48/2017. (XII. 29.) NGM rendelet 15. § (5) bekezdésével megállapított szöveg.
+[^44]: A 39. § (1) bekezdése a 48/2017. (XII. 29.) NGM rendelet 15. § (5) bekezdésével megállapított szöveg.

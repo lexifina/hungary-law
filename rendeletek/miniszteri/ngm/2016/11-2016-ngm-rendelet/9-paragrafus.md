@@ -1,6 +1,6 @@
-9. § (1)[^9] A vámhatóság által raktározott áruk esetében a raktározásért fizetendő díj megkezdett 10 kg-onként és naponként 200 forint. Raktárdíjat csak akkor kell felszámítani, ha annak számított értéke meghaladja a 2000 forintot.
+9. § (1)[^19] A vámhatóság által raktározott áruk esetében a raktározásért fizetendő díj megkezdett 10 kg-onként és naponként 300 forint. Raktárdíjat csak akkor kell felszámítani, ha annak számított értéke meghaladja a 2000 forintot.
 
-(2)[^10] Mentesek a raktárdíj fizetési kötelezettség alól a kizárólag a vámhatóság által üzemeltetett raktárban raktározott alábbi áruk:
+(2)[^20] Mentesek a raktárdíj fizetési kötelezettség alól a kizárólag a vámhatóság által üzemeltetett raktárban raktározott alábbi áruk:
 
 a) az államnak ellenszolgáltatás nélkül felajánlott és elfogadott áruk a felajánlás napjától,
 
@@ -22,8 +22,8 @@ i) vámhatósági rendelkezés alá vont áruk, a vámhatósági rendelkezés al
 
 (3) A kötelező felvilágosítás kiadása ingyenes, a kérelmezőnek azonban meg kell téríteni a vámhatóság részére a határozat kiadásával kapcsolatos igazoltan felmerült költségeket, így különösen a laboratóriumi vizsgálattal, az árura vonatkozó szakértői véleménnyel és az áruminta visszaküldésével kapcsolatos költségeket.
 
-(4)[^11] A Vtv. 13. § (1) és (2) bekezdésében meghatározott célból a NAV által kezelt elektronikus adatbázisokban tárolt, közérdekű adatok és az ügyfél saját vámtevékenységéhez kapcsolódó forgalmi adatok költségtérítés, illetve az adatbázisok felépítését leíró műszaki információkat tartalmazó dokumentációk díjazás ellenében – figyelembe véve az adat- és titokvédelmi jogszabályok rendelkezéseit – hozzáférhetőek. Az eseti és rendszeres információszolgáltatás a NAV-val kötött külön szerződés alapján, díjazás ellenében lehetséges. A hozzáférhetővé tett adatok, valamint műszaki dokumentációk körét, illetve az eseti adat- és információszolgáltatás ellenértékét a NAV vezetője tájékoztatásban teszi közzé. Az adat- és információszolgáltatás esetén fizetendő ellenérték mértékét a vonatkozó „általános szerződési feltételek” határozza meg.
+(4)[^21] A Vtv. 13. § (1) és (2) bekezdésében meghatározott célból a NAV által kezelt elektronikus adatbázisokban tárolt, közérdekű adatok és az ügyfél saját vámtevékenységéhez kapcsolódó forgalmi adatok költségtérítés, illetve az adatbázisok felépítését leíró műszaki információkat tartalmazó dokumentációk díjazás ellenében – figyelembe véve az adat- és titokvédelmi jogszabályok rendelkezéseit – hozzáférhetőek. Az eseti és rendszeres információszolgáltatás a NAV-val kötött külön szerződés alapján, díjazás ellenében lehetséges. A hozzáférhetővé tett adatok, valamint műszaki dokumentációk körét, illetve az eseti adat- és információszolgáltatás ellenértékét a NAV vezetője tájékoztatásban teszi közzé. Az adat- és információszolgáltatás esetén fizetendő ellenérték mértékét a vonatkozó „általános szerződési feltételek” határozza meg.
 
-[^9]: A 9. § (1) bekezdése a 37/2017. (XI. 6.) NGM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^10]: A 9. § (2) bekezdése a 10/2023. (XII. 23.) PM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 9. § (4) bekezdése a 63/2016. (XII. 29.) NGM rendelet 33. §-ával megállapított szöveg.
+[^19]: A 9. § (1) bekezdése a 37/2017. (XI. 6.) NGM rendelet 7. § (1) bekezdésével megállapított, a 10/2023. (XII. 23.) PM rendelet 6. § l) pontja szerint módosított szöveg.
+[^20]: A 9. § (2) bekezdése a 10/2023. (XII. 23.) PM rendelet 1. §-ával megállapított szöveg.
+[^21]: A 9. § (4) bekezdése a 63/2016. (XII. 29.) NGM rendelet 33. §-ával megállapított szöveg.

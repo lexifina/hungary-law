@@ -56,7 +56,7 @@
 
 ## Az „Áru leírása kereskedelmi megnevezéssel” rovatban élő szarvasmarha és sertés esetében a darabszámot is fel kell tüntetni.
 
-7. melléklet a 11/2016. (IV. 29.) NGM rendelethez[^53]
+7. melléklet a 11/2016. (IV. 29.) NGM rendelethez[^63]
 
 Az árunyilatkozatokra és az értesítésekre vonatkozó közös adatszolgáltatási követelmények szerint, a tagállami döntés alapján kötelező adatelemek
 
@@ -146,4 +146,4 @@ Az árunyilatkozatokra és az értesítésekre vonatkozó közös adatszolgálta
 
 | 30 | 99 06 000 000 | Statisztikai érték |  | Ki kell tölteni |  |  |  |  |  |  |
 
-[^53]: A 7. mellékletet a 10/2023. (XII. 23.) PM rendelet 5. § (2) bekezdése iktatta be.
+[^63]: A 7. mellékletet a 10/2023. (XII. 23.) PM rendelet 5. § (2) bekezdése iktatta be.
