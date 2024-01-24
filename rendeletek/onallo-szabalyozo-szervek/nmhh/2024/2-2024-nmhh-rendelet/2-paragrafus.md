@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában a reklámfelület a reklámeszköz azon – egy vagy több fizikailag is önálló egységet képező – része, amely funkcióját tekintve egyidejűleg egyetlen reklám elhelyezését vagy digitális felület esetében egyetlen reklám megjelenítését teszi lehetővé.

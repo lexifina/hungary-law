@@ -1,0 +1,1 @@
+A településkép védelméről szóló 2016. évi LXXIV. törvény 12. § (1a) bekezdésében kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 109. § (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:

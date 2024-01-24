@@ -1,0 +1,1 @@
+6. § A Hivatal a nyilvántartásba vételi kérelemben megjelölt reklámeszköz adatainak, földrajzi elhelyezésének, fizikai jellemzőinek, továbbá a reklámeszköz reklámkataszterbe bejegyzett adatai hitelességének, valamint a reklámeszköz egyedi azonosító megfelelő elhelyezésének vizsgálata során külső vállalkozó közreműködését veheti igénybe.
