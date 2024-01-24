@@ -1,1 +1,3 @@
-1. § A népjóléti ágazatba tartozó egyes államigazgatási eljárásokért és igazgatási jellegű szolgáltatásokért fizetendő díjakról szóló 50/1996. (XII. 27.) NM rendelet 1. számú mellékletében foglalt táblázat II.10. sorában az „Eseti használatba vételi” szövegrész helyébe az „A megfelelőségértékelési eljárásoktól való eltéréssel érintett orvostechnikai vagy in vitro diagnosztikai eszköz forgalomba hozatalának vagy használatba vételének engedélyezése” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
