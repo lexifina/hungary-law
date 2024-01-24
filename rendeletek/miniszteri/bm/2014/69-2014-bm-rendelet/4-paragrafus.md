@@ -10,7 +10,7 @@
 
 (4) VÉD-IV. tanúsítással rendelkező védelmi ellenőr végzi a járművek átvizsgálását.
 
-(5)[^5] FEL tanúsítással a VÉD-I. képesítéssel rendelkezők hatósági ellenőrzését ellátó személynek, valamint e kategóriának a hatósági ellenőrzését és szakmai irányítását végző rendőröknek kell rendelkezniük.
+(5)[^5] FEL tanúsítással a VÉD-I. képesítéssel rendelkezők felügyeletét ellátó személynek, valamint e kategóriának a felügyeletét és szakmai irányítását végző rendőröknek kell rendelkezniük.
 
 (6) A 3. § (2) bekezdésben felsorolt kategóriák egyikében megszerzett kompetenciák a másik kategóriára vonatkozó képzés során beszámíthatók, amennyiben azok dokumentációval megfelelően és hitelesen igazoltak.
 
@@ -18,4 +18,4 @@
 
 [^3]: A 4. § (1a) bekezdését a 43/2017. (XII. 29.) BM rendelet 2. §-a iktatta be.
 [^4]: A 4. § (1b) bekezdését a 43/2017. (XII. 29.) BM rendelet 2. §-a iktatta be.
-[^5]: A 4. § (5) bekezdése a 44/2017. (XII. 29.) BM rendelet 104. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (5) bekezdése a 2/2024. (I. 23.) BM rendelet 4. § a) pontja szerint módosított szöveg.

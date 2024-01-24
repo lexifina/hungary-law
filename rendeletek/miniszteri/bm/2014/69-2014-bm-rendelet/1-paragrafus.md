@@ -10,7 +10,7 @@ c) a Rendőrségről szóló törvényben meghatározott általános rendőrség
 
 d) a védelmi ellenőri felkészítést és vizsgáztatást végző szervekre
 
-## terjed ki.
+terjed ki.
 
 (2) E rendelet alkalmazásában:
 
