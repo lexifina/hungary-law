@@ -1,3 +1,3 @@
-2. § A védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának rendjéről szóló 69/2014. (XII. 18.) BM rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) Aki az éves ismeretmegújító vizsgát az (1) bekezdés szerinti határidőn belül sikeresen nem teljesíti, annak a védelmi ellenőri jogosítása az (1) bekezdés szerinti határidő lejártával érvénytelenné válik. Indokolt esetben a rendőrség az éves ismeretmegújító vizsgának az (1) bekezdés szerinti határidőt követő teljesítését is biztosíthatja, ez esetben a védelmi ellenőri jogosítás érvényessége az (1) bekezdés szerinti határidőt követő három hónapig meghosszabbodik.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
