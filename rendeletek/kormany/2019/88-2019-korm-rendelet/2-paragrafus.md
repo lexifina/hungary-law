@@ -12,7 +12,7 @@
 
 5. kormányzati igazgatási szerv: a Kit. 2. § (1) bekezdésében meghatározott szerv;
 
-6. kormányzati személyügyi igazgatásra kijelölt szerv: a kormányzati személyügyi igazgatás központi feladatainak ellátására a Kormány tagjainak feladat- és hatásköréről szóló 94/2018. (V. 22.) Korm. rendeletben kijelölt szerv;
+6.[^4] kormányzati személyügyi igazgatásra kijelölt szerv: a kormányzati személyügyi igazgatás központi feladatainak ellátására a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben kijelölt szerv;
 
 7. lakásbővítés: a lakás hasznos alapterületének legalább egy lakószobával történő növelése érdekében végzett építési tevékenység (ideértve az építmény térfogatnövelésével nem járó tetőtér-beépítést is), feltéve, hogy a kormánytisztviselő a lakás (rész)tulajdonosa, vagy a bővítés révén azzá válik;
 
@@ -40,7 +40,7 @@ g) a korszerűsítéshez közvetlenül kapcsolódó helyreállítási munka, a k
 
 (2) Ha e rendelet valamely juttatás igénybevételének feltételéül vagy mérlegelési szempontjául a kormányzati igazgatási szervvel fennálló jogviszony időtartamát határozza meg, a jogviszonyban töltött időként vehető figyelembe
 
-a)[^4] a Kit., a közszolgálati tisztviselőkről szóló törvény, a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, adó- és vámhatósági és állami szolgálati jogviszonyban töltött idő,
+a)[^5] a Kit., a közszolgálati tisztviselőkről szóló törvény, a köztisztviselők jogállásáról szóló törvény, a kormánytisztviselők jogállásáról szóló törvény, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál munkaviszonyban, kormányzati szolgálati, közszolgálati, kormánytisztviselői, adó- és vámhatósági és állami szolgálati jogviszonyban töltött idő,
 
 b) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött idő,
 
@@ -58,4 +58,5 @@ h) az állami vezetői szolgálati jogviszonyban és a politikai szolgálati jog
 
 (3) Ahol e rendelet hatálya kiterjed rá, kormánytisztviselő alatt a Kit. 3. § (2) bekezdése szerinti politikai szolgálati jogviszonyban, illetve a munkaviszonyban foglalkoztatott személyt is érteni kell.
 
-[^4]: A 2. § (2) bekezdés a) pontja a 671/2020. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 6. pontja a 6/2024. (I. 25.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdés a) pontja a 671/2020. (XII. 28.) Korm. rendelet 39. §-a szerint módosított szöveg.

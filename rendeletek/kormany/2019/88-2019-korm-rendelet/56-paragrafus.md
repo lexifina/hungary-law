@@ -1,5 +1,3 @@
-## 55. § A szálló- vagy garzonelhelyezés igénylésével kapcsolatos szabályokat a közszolgálati szabályzat tartalmazza.
-
 ## XI. Fejezet
 
 ## A TANULMÁNYI JELLEGŰ TÁMOGATÁSOKRA VONATKOZÓ SZABÁLYOK

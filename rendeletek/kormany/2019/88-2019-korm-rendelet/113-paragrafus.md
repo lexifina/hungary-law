@@ -1,3 +1,3 @@
-113. §[^32]
+113. §[^36]
 
-[^32]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^36]: A 113. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
