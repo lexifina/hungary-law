@@ -1,6 +1,6 @@
 ## 13. A bányászatról szóló 1993. évi XLVIII. törvény szabályaitól való eltérés
 
-22. §[^77] (1) A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 20. § (3) bekezdés a), b) és c) pontjától eltérően a bányajáradék mértéke 2023. szeptember 1-jétől 2023. december 31-ig és a 2024. évben a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek
+22. §[^70] (1) A bányászatról szóló 1993. évi XLVIII. törvény (a továbbiakban: Bt.) 20. § (3) bekezdés a), b) és c) pontjától eltérően a bányajáradék mértéke 2023. szeptember 1-jétől 2023. december 31-ig és a 2024. évben a hatósági engedély alapján kitermelt ásványi nyersanyag mennyisége után keletkező értéknek
 
 a) a termelési műszaki üzemi terv alapján 2008. január 1. előtt üzemszerűen termelésbe állított szénhidrogén mezőkön kitermelt kőolaj és földgáz esetében – a Bt. 20. § (3) bekezdés d) és e) pontjában foglalt kivétellel –
 
@@ -58,4 +58,4 @@ b) a szerződésben vállalt kitermelési mennyiség és a tárgyévben tényleg
 
 (10) A bányavállalkozó a (8) bekezdésben foglalt fizetési kötelezettséget a tárgyévet követő év január 20. napjáig teljesíti.
 
-[^77]: A 22. § a 317/2023. (VII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^70]: A 22. § a 317/2023. (VII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.

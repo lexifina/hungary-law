@@ -1,30 +1,36 @@
-4/A. §[^31] (1)[^32] A gyógyszergyártó a 2022–2024. adóévekre vonatkozóan az e §-ban foglaltak szerinti különadó megállapítására, bevallására és megfizetésére kötelezett.
+4/A. §[^31] (1) A gyógyszergyártó a 2024. adóévre vonatkozóan az e §-ban foglaltak alapján gyógyszergyártói extraprofitadó és gyógyszergyártói különadó megállapítására, bevallására és megfizetésére kötelezett.
 
-(2)[^33] E § alkalmazásában gyógyszergyártó a TEÁOR 2110 (Gyógyszeralapanyag-gyártás) és a TEÁOR 2120 (Gyógyszerkészítmény gyártása) szakágazat szerinti tevékenységet végző, amennyiben a TEÁOR 2110 és a TEÁOR 2120 szakágazati tevékenységből származó összesített nettó árbevétele az adóév első napján rendelkezésre álló legutolsó éves beszámoló alapján meghaladja a teljes nettó árbevétele 33,33 százalékát.
+(2) E § alkalmazásában gyógyszergyártó a TEÁOR 2110 (Gyógyszeralapanyag-gyártás) és a TEÁOR 2120 (Gyógyszerkészítmény gyártása) szakágazat szerinti tevékenységet végző, amennyiben a TEÁOR 2110 és a TEÁOR 2120 szakágazati tevékenységből származó összesített nettó árbevétele az adóév első napján rendelkezésre álló legutolsó éves beszámoló alapján meghaladja a teljes nettó árbevétele 33,33 százalékát.
 
-(3) Az e § szerinti adó alapja a helyi adókról szóló 1990. évi C. törvény (e § alkalmazásában a továbbiakban: Htv.) szerinti, az adóévi éves beszámoló alapján meghatározott nettó árbevétel, azzal, hogy az egyedi beszámolóját a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany esetén nettó árbevételként a Htv. 40/C. §-a szerinti nettó árbevételt kell figyelembe venni.
+(3) A gyógyszergyártói extraprofitadó alapja a 2024. adóévben a helyi adókról szóló 1990. évi C. törvény (e § alkalmazásában a továbbiakban: Htv.) 39. §-a szerinti, 2024. adóévi adóalap, azzal, hogy az egyedi beszámolóját a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany a Htv. 40/B., 40/C., 40/F–40/M. §-ában foglaltak figyelembevételével állapítja meg az adóalapot.
 
-(4)[^34] Az e § szerinti adó mértéke 2023. december 31. napjáig a (3) bekezdés szerinti adóalap
+(4) A (3) bekezdés szerinti adóalap után fizetendő adó mértéke 2024. január 1. napjától a (3) bekezdés szerinti adóalap
 
-a) 50 milliárd forintot meg nem haladó része után 1 százalék,
+a) 50 milliárd forintot meg nem haladó része után 0,5 százalék,
 
-b) 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 3 százalék,
+b) 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 4 százalék,
 
-c) 150 milliárd forintot meghaladó része után 8 százalék.
+c) 150 milliárd forintot meghaladó része után 7 százalék.
 
-(4a)[^35] Az e § szerinti adó mértéke 2024. január 1. napjától a (3) bekezdés szerinti adóalap
+(5) Ha a (3) bekezdés szerinti adóalapot 12 hónapnál rövidebb adóév alapján határozták meg, akkor az extraprofitadó összege a (3) bekezdés szerinti adóalapnak naptári napi időarányosítással, 365 napos időszakra számított összege alapján a (4) bekezdés szerint megállapított adóösszegnek a naptári napokkal arányos része.
+
+(6) A gyógyszergyártói különadó alapja a 2024. adóévben a Htv. szerinti, az adóévi éves beszámoló alapján meghatározott nettó árbevétel, azzal, hogy az egyedi beszámolóját a számvitelről szóló 2000. évi C. törvény 3. § (10) bekezdés 2. pontjában meghatározott IFRS-ek szerint készítő adóalany esetén nettó árbevételként a Htv. 40/C. §-a szerinti nettó árbevételt kell figyelembe venni.
+
+(7) A gyógyszergyártói különadó mértéke 2024. január 1. napjától a (6) bekezdés szerinti adóalap
 
 a) 50 milliárd forintot meg nem haladó része után 0,5 százalék,
 
 b) 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 1,5 százalék,
 
-c) 150 milliárd forintot meghaladó része után 4 százalék.
+c) 150 milliárd forintot meghaladó része után 4 százalék,
 
-(5) Ha a (3) bekezdés szerinti adóalapot 12 hónapnál rövidebb adóév alapján határozták meg, akkor a különadó összege a (3) bekezdés szerinti adóalapnak naptári napi időarányosítással, 365 napos időszakra számított összege alapján a (4) bekezdés szerint megállapított adóösszegnek a naptári napokkal arányos része.
+azzal, hogy a gyógyszergyártó által az adóévre fizetendő gyógyszergyártói különadót – legfeljebb annak összegéig – csökkenti a gyógyszergyártót gyógyszergyártói extraprofitadó címén az adóévre terhelő összeg.
 
-(5a)[^36] A gyógyszergyártó a 2024. adóévi különadó fizetési kötelezettségét az (5b) és (5c) bekezdésben foglaltak szerint csökkenti.
+(8) Ha a (6) bekezdés szerinti adóalapot 12 hónapnál rövidebb adóév alapján határozták meg, akkor a különadó összege a (6) bekezdés szerinti adóalapnak naptári napi időarányosítással, 365 napos időszakra számított összege alapján a (7) bekezdés szerint megállapított adóösszegnek a naptári napokkal arányos része.
 
-(5b)[^37] A csökkentés adóévi összege egyenlő
+(9) A gyógyszergyártó a 2024. adóévi gyógyszergyártói különadó és extraprofitadó kötelezettségét a (10) és (11) bekezdésben foglaltak szerint csökkenti.
+
+(10) A csökkentés adóévi összege egyenlő
 
 a) az adóévi tárgyi eszköz beszerzésére, előállítására irányuló, Magyarország területén megvalósuló beruházás bekerülési értéke, csökkentve az ugyanazon beruházás vonatkozásában a b) pont szerint érvényesített csökkentés összegével,
 
@@ -34,31 +40,36 @@ c) az egészségügyi ágazatot érintő, a társasági adóról és az osztalé
 
 együttes összegével.
 
-(5c)[^38] Az (5b) bekezdés a)–c) pontja szerinti csökkentés együttes összege legfeljebb a csökkentés figyelembevétele nélkül számított, adóévre fizetendő, e § szerinti különadó összegének 50 százaléka.
+(11) A (10) bekezdés a)–c) pontja szerinti csökkentés együttes összege legfeljebb a csökkentés figyelembevétele nélkül számított, adóévre fizetendő, e § szerinti különadó, továbbá extraprofitadó összegének 50 százaléka, azzal, hogy valamely költség, ráfordítás, bekerülési érték alapján csökkentés csak egyszeresen érvényesíthető.
 
-(6) A gyógyszergyártó a 2022. adóévre vonatkozó különadót 2023. adóév ötödik hónapjának huszadik napjáig külön nyomtatványon megállapítja, bevallja és megfizeti.
+(12) A gyógyszergyártó a 2024. adóév vonatkozásában gyógyszergyártói extraprofitadó és gyógyszergyártói különadó előleg megállapítására, bevallására és megfizetésére köteles. A gyógyszergyártó a 2024. adóévre fizetendő előlegét a 2024. adóévre várható fizetendő gyógyszergyártói extraprofitadó és gyógyszergyártói különadó alapján önadózás útján állapítja meg, amelyet az állami adóhatóság által rendszeresített külön nyomtatványon a 2024. adóév tizenkettedik hónapjának huszadik napjáig bevall és megfizet.
 
-(7) A gyógyszergyártó a 2023. adóév vonatkozásában különadó előleg megállapítására, bevallására és megfizetésére köteles. A gyógyszergyártó a 2023. adóévre fizetendő adóelőlegét a 2023. adóévre várható fizetendő adó alapján önadózás útján állapítja meg, melyet az állami adóhatóság által rendszeresített külön nyomtatványon a 2023. adóév tizenegyedik hónapjának huszadik napjáig bevall és megfizet.
+(13) Az a gyógyszergyártó, amelynek a 2023. adóévben kezdődő adóéve az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet módosításáról szóló 7/2024. (I. 25.) Korm. rendelettel megállapított (1)–(11) bekezdés hatálybalépésekor még nem zárult le, a 2023. adóév vonatkozásában az (1)–(11) bekezdés szerinti rendelkezéseket választása szerint alkalmazza, figyelemmel a (14) és (15) bekezdésben foglaltakra.
 
-(8) A gyógyszergyártó a 2023. adóévre vonatkozó különadót a 2023. adóévet követő ötödik hónap huszadik napjáig külön nyomtatványon megállapítja, bevallja és az adóelőlegként a (7) bekezdés szerint még meg nem fizetett különadót megfizeti.
+(14) A (13) bekezdés szerinti választás esetén a 2023. adóévi extraprofitadó mértéke a (3) bekezdés szerinti adóalap
 
-(8a)[^39] A gyógyszergyártó a 2024. adóév vonatkozásában különadó előleg megállapítására, bevallására és megfizetésére köteles. A gyógyszergyártó a 2024. adóévre fizetendő adóelőlegét a 2024. adóévre várható fizetendő adó alapján önadózás útján állapítja meg, amelyet az állami adóhatóság által rendszeresített külön nyomtatványon a 2024. adóév tizenkettedik hónapjának huszadik napjáig bevall és megfizet.
+a) 50 milliárd forintot meg nem haladó része után 1 százalék,
 
-(8b)[^40] A gyógyszergyártó a 2024. adóévre vonatkozó különadó kötelezettségét a 2024. adóévet követő ötödik hónap huszadik napjáig külön nyomtatványon megállapítja, bevallja és azt adóelőlegként a (8a) bekezdés szerint még meg nem fizetett különadót megfizeti.
+b) 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 8 százalék,
 
-(9) A megszűnő vagy az e § szerinti különadó hatálya alól bármely egyéb okból az adóév közben kikerülő gyógyszergyártó vagy jogutódja az e § szerinti kötelezettségét a megszűnését vagy az e § szerinti különadó hatálya alól történő kikerülését követő 30. napig teljesíti, ha az annak teljesítésére előírt határidő korábban nem telt le.
+c) 150 milliárd forintot meghaladó része után 14 százalék.
 
-(10) Az e § szerinti különadó adónak minősül. Az e § szerinti különadó vonatkozásában az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
+(15) A (13) bekezdés szerinti választás esetén a 2023. adóévi különadó mértéke a (6) bekezdés szerinti adóalap
 
-(11) Az e § szerinti különadóból származó bevétel a központi költségvetés Rezsivédelmi Alapjának bevétele.
+a) 50 milliárd forintot meg nem haladó része után 1 százalék,
 
-[^31]: A 4/A. §-t az 582/2022. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^32]: A 4/A. § (1) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^33]: A 4/A. § (2) bekezdése a 62/2023. (II. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^34]: A 4/A. § (4) bekezdés nyitó szövegrésze a 206/2023. (V. 31.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^35]: A 4/A. § (4a) bekezdését a 206/2023. (V. 31.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^36]: A 4/A. § (5a) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^37]: A 4/A. § (5b) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^38]: A 4/A. § (5c) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 2. §-a iktatta be.
-[^39]: A 4/A. § (8a) bekezdését a 206/2023. (V. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^40]: A 4/A. § (8b) bekezdését a 206/2023. (V. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+b) 50 milliárd forintot meghaladó, de 150 milliárd forintot meg nem haladó része után 3 százalék,
+
+c) 150 milliárd forintot meghaladó része után 8 százalék,
+
+azzal, hogy a gyógyszergyártó által az adóévre fizetendő gyógyszergyártói különadót – legfeljebb annak összegéig – csökkenti a gyógyszergyártót a gyógyszergyártói extraprofitadó címén az adóévre terhelő összeg.
+
+(16) A gyógyszergyártó a 2024. adóévre vonatkozó gyógyszergyártói extraprofitadót és gyógyszergyártói különadót a 2024. adóévet követő ötödik hónap huszadik napjáig külön nyomtatványon megállapítja, bevallja, és az előlegként a (12) bekezdés szerint még meg nem fizetett extraprofitadót megfizeti.
+
+(17) A megszűnő vagy az e § szerinti különadó hatálya alól bármely egyéb okból az adóév közben kikerülő gyógyszergyártó vagy jogutódja az e § szerinti kötelezettségét a megszűnését vagy az e § szerinti különadó hatálya alól történő kikerülését követő 30. napig teljesíti, ha az annak teljesítésére előírt határidő korábban nem telt le.
+
+(18) Az e § szerinti gyógyszergyártói extraprofitadó és gyógyszergyártói különadó adónak minősül. Az e § szerinti gyógyszergyártói extraprofitadó és gyógyszergyártói különadó vonatkozásában az e §-ban nem szabályozott kérdésekben az adóigazgatási rendtartásról szóló törvény és az adózás rendjéről szóló törvény rendelkezései az irányadók.
+
+(19) Az e § szerinti gyógyszergyártói extraprofitadóból és gyógyszergyártói különadóból származó bevétel a központi költségvetés Rezsivédelmi Alapjának bevétele.
+
+[^31]: A 4/A. §-t az 582/2022. (XII. 23.) Korm. rendelet 1. §-a iktatta be, szövege a 7/2024. (I. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
