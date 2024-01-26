@@ -1,0 +1,3 @@
+2. § Az R. a következő 144. §-sal egészül ki:
+
+„144. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 10/2024. (I. 25.) Korm. rendelettel (a továbbiakban: Módr136.) módosított 4. § (1) és (2) bekezdését, megállapított 4/A. §-át és a 2. mellékletbenfoglalt táblázat 130. sorát a Módr136. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
