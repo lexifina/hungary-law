@@ -26,16 +26,6 @@
 
 | 12. | Európai Hálózatfinanszírozási Eszköz | CLEAN ATM 2 | HungaroControl Magyar Légiforgalmi Szolgálat Zrt. | – | 84 315 198 | 84 315 198 | 42 157 599 | 0 | 42 157 599 | A CLEAN ATM 2 projektben 20 uniós tagállam 41 operatív érdekelt fele (légitársaságok, repülőterek, légi-navigációs szolgáltatók, katonai hatóságok és a SESAR Deployment Manager – SDM) vesz részt. A CLEAN ATM 2 nemzetközi kezdeményezés az európai légiforgalmi szolgáltatási (ATM) főterv összehangolt végrehajtásával foglalkozik. A HungaroControl Zrt. a SESAR Deployment Manager (SDM) tagsága kapcsán csak projektmenedzseri feladatokban vesz részt, önálló projektmunkát nem végez. |
 
-2. melléklet az 1011/2024. (I. 25.) Korm. határozathoz
+2. melléklet az 1011/2024. (I. 25.) Korm. határozathoz[^2]
 
-A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2021. évi CEF2 Alternatív üzemanyagtöltő infrastruktúra fejlesztése ötödik körös pályázati kiírására történő benyújtásáról szóló 1469/2023. (X. 31.) Korm. határozat 1. melléklet 5. sora helyébe a következő sor lép:
-
-| [Sorszám | A | B | C | D | E | F | G | H |
-
-| 1. | Kapcsolódó program megnevezése | Projektjavaslat megnevezése | Kedvezményezett/ Társkedvezményezett | Projektjavaslat tervezett költsége (nettó, forint) | Európai Hálózatfinanszírozási Eszköz terhére biztosítandó támogatás tervezett összege (nettó, forint) | Hazai költségvetési támogatás tervezett összege (forint) | Saját erő (forint) | Projektjavaslat rövid bemutatása] |
-
-„
-
-| 5. | Európai Hálózatfinanszírozási Eszköz | Elektromos gépjárművek részére dedikált töltőhálózat létrehozása Magyarországon, nemzetközi konzorcium részeként | Allego BV / Emobility Solutions Korlátolt Felelősségű Társaság | 3 529 616 000 | 1 424 559 000 | 0 | 2 105 057 000 | A projekt összesen 23 magyar helyszínen kíván elektromos töltőállomásokat létesíteni. Ebből 3 helyszínen mind a személygépjárművek, mind a nehézgépjárművek részére telepítésre kerül töltőberendezés (12 darab 150 kW töltőpont és 6 darab 350 kW töltőpont helyszínenként). További 3 helyszínen kizárólag nehézgépjárművek részére kerül telepítésre töltőberendezés (4 darab 350 kW töltőpont helyszínenként), valamint 15 helyszínen kizárólag személygépjárművek töltésére alkalmas, 60 db töltő kerül telepítésre. |
-
-”
+[^2]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

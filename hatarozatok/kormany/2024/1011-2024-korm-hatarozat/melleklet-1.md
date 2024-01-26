@@ -20,6 +20,8 @@
 
 | Határidő: | 2024. január 30. |
 
-## 2. A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2021. évi CEF2 Alternatív üzemanyagtöltő infrastruktúra fejlesztése ötödik körös pályázati kiírására történő benyújtásáról szóló 1469/2023. (X. 31.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1011/2024. (I. 25.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
