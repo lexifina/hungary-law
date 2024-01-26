@@ -278,8 +278,10 @@
 
 | 129. | Autóipari gyártócsarnok létrehozására irányuló beruházás Miskolc város területén | Miskolc város belterületén fekvő, az ingatlan-nyilvántartás szerinti 47511/48 helyrajzi számú ingatlan | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^438]
+| 130. | Kamionparkoló és logisztikai központ létrehozása Kecskemét Megyei Jogú Város területén | Kecskemét Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0825/63, 0825/175, 0825/177, 0825/178, 0825/181, 0825/182, 0825/183, 0825/246, 0825/251, 0825/253, 0825/254 és 0825/261 helyrajzi számú ingatlanok | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
+
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^441]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^438]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^441]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

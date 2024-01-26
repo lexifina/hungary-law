@@ -1,4 +1,4 @@
-5/G. §[^40] (1) A 2. mellékletben foglalt táblázat 96. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+5/G. §[^41] (1) A 2. mellékletben foglalt táblázat 96. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -50,4 +50,4 @@ b) az OTÉK 7. számú melléklete szerint meghatározott számú kerékpár elh
 
 (4) A (2) bekezdés 10. pontjának alkalmazása során az épületmagasságot az e rendelkezés hatálybalépésekor hatályos OTÉK-ban foglalt követelmények szerint kell számítani.
 
-[^40]: Az 5/G. §-t a 153/2022. (IV. 14.) Korm. rendelet 2. §-a iktatta be.
+[^41]: Az 5/G. §-t a 153/2022. (IV. 14.) Korm. rendelet 2. §-a iktatta be.

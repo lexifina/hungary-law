@@ -1,4 +1,4 @@
-## 15. §[^180] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 320/2018. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 2. mellékletben foglalt táblázat 16. sorát a Módr7. hatálybalépésekor[^181] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 15. §[^181] Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 320/2018. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 2. mellékletben foglalt táblázat 16. sorát a Módr7. hatálybalépésekor[^182] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^180]: A 15. §-t a 320/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
-[^181]: A hatálybalépés időpontja 2018. december 28.
+[^181]: A 15. §-t a 320/2018. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
+[^182]: A hatálybalépés időpontja 2018. december 28.

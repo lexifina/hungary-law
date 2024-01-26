@@ -1,4 +1,4 @@
-5/U. §[^70] (1) A 2. mellékletben foglalt táblázat 121. sora szerinti beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány az adott beruházással érintett ingatlanokhoz vagy azok bármelyikéhez köthetően már rendelkezésre áll.
+5/U. §[^71] (1) A 2. mellékletben foglalt táblázat 121. sora szerinti beruházással összefüggésben előzetes régészeti dokumentáció készítése nem szükséges, ha a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 23/C. § (2) bekezdésében foglalt feltételeknek megfelelő örökségvédelmi hatástanulmány az adott beruházással érintett ingatlanokhoz vagy azok bármelyikéhez köthetően már rendelkezésre áll.
 
 (2) A 2. mellékletben foglalt táblázat 121. sora szerinti beruházással összefüggésben megvalósuló építmények használatbavétele akkor is engedélyezhető, ha az építmény rendeltetésszerű és biztonságos használhatóságához szükséges járulékos építményei telken belül ideiglenesen vagy a meglévő szomszédos, illetve a telephelyi telkeken helyezkednek el.
 
@@ -48,4 +48,4 @@
 
 (8) A 2. mellékletben foglalt táblázat B:121 mezőjében megjelölt ingatlanok esetében kerítés, valamint közlekedési és közműcélú építmények korlátozás nélkül helyezhetőek el, azzal, hogy a tereprendezés mértéke nem korlátozott.
 
-[^70]: Az 5/U. §-t a 423/2023. (IX. 5.) Korm. rendelet 1. §-a iktatta be.
+[^71]: Az 5/U. §-t a 423/2023. (IX. 5.) Korm. rendelet 1. §-a iktatta be.

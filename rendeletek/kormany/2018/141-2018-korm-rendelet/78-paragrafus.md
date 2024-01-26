@@ -1,4 +1,4 @@
-## 77. §[^304] E rendeletnek az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr69.) megállapított 2. mellékletében foglalt táblázat 7a. sorát a Módr69. hatálybalépésekor[^305] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 77. §[^305] E rendeletnek az egyes energetikai tárgyú jogszabályok módosításáról szóló 787/2021. (XII. 27.) Korm. rendelettel (a továbbiakban: Módr69.) megállapított 2. mellékletében foglalt táblázat 7a. sorát a Módr69. hatálybalépésekor[^306] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^304]: A 77. §-t a 787/2021. (XII. 27.) Korm. rendelet 74. §-a iktatta be.
-[^305]: A hatálybalépés időpontja 2022. január 1.
+[^305]: A 77. §-t a 787/2021. (XII. 27.) Korm. rendelet 74. §-a iktatta be.
+[^306]: A hatálybalépés időpontja 2022. január 1.
