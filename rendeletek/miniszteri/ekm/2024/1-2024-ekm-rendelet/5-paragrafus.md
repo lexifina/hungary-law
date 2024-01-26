@@ -1,0 +1,3 @@
+5. § (1) A 863-4/1953. FOM számú miniszteri döntéssel védetté nyilvánított, Naszály (Komárom-Esztergom vármegye) Billegpusztán található, a közhiteles nyilvántartásban 2620 törzsszámon és 6338 azonosító számon nyilvántartott Esterházy-kúria ingatlanának telekalakítás után kialakult ingatlanai közül a Naszály külterület 0218/1 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy telekalakítás következtében az adott telken védett érték nem található – megszüntetem.
+
+(2) A telekalakítás után létrejött, Naszály külterület 0218/2, 0218/3 és 0218/4 helyrajzi számú ingatlanok műemléki védettségét fenntartom, tekintettel a billegpusztai Esterházy-kúria fennálló műemléki értékeire.
