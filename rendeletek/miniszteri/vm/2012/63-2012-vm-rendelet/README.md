@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | 2021-08-01 | 2012-63-20-2Y.16 | 87/2013. (X. 1.) VM rendelet |
 | 2023-03-07 | 2012-63-20-2Y.17 | 87/2013. (X. 1.) VM rendelet |
 | 2023-11-16 | 2012-63-20-2Y.18 | 87/2013. (X. 1.) VM rendelet |
+| 2024-01-27 | 2012-63-20-2Y.19 | 87/2013. (X. 1.) VM rendelet |
