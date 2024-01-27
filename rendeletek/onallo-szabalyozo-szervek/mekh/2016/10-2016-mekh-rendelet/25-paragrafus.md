@@ -6,23 +6,23 @@
 
 ## A CSATLAKOZÁSI DÍJRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
 
-25. § (1)[^42] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
+25. § (1)[^43] E rendelet csatlakozási díjra vonatkozó rendelkezéseit – e rendeletben foglalt kivételekkel – csatlakozási pontonként önállóan kell alkalmazni.
 
 (2) A hálózati engedélyesek egymás hálózatára történő csatlakozásánál csatlakozási díjat nem fizetnek.
 
-(3)[^43] A csatlakozási díjat a csatlakozást igénylő a befogadó hálózati engedélyes részére fizeti meg.
+(3)[^44] A csatlakozási díjat a csatlakozást igénylő a befogadó hálózati engedélyes részére fizeti meg.
 
-(3a)[^44] Ha csatlakozási díj összege nem kizárólag a befogadó hálózati engedélyesnek a csatlakozáshoz szükséges beruházásai alapján kerül meghatározásra, a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyesek egymás között külön megállapodást kötnek az egyéb érintett hálózati engedélyes által megvalósított csatlakozási beruházás csatlakozási díjjal – a díj kiszámítására vonatkozó módszer szerint – fedezett költségeinek a befogadó hálózati engedélyes által kapott csatlakozási díjból történő megtérítéséről.
+(3a)[^45] Ha csatlakozási díj összege nem kizárólag a befogadó hálózati engedélyesnek a csatlakozáshoz szükséges beruházásai alapján kerül meghatározásra, a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyesek egymás között külön megállapodást kötnek az egyéb érintett hálózati engedélyes által megvalósított csatlakozási beruházás csatlakozási díjjal – a díj kiszámítására vonatkozó módszer szerint – fedezett költségeinek a befogadó hálózati engedélyes által kapott csatlakozási díjból történő megtérítéséről.
 
-(3b)[^45] A (3) bekezdésben foglaltaktól eltérően a csatlakozást igénylő az egyéb érintett hálózati engedélyes közvetett csatlakozási beruházása után fizetendő csatlakozási díjat közvetlenül az egyéb érintett hálózati engedélyesnek fizeti meg, ha erről
+(3b)[^46] A (3) bekezdésben foglaltaktól eltérően a csatlakozást igénylő az egyéb érintett hálózati engedélyes közvetett csatlakozási beruházása után fizetendő csatlakozási díjat közvetlenül az egyéb érintett hálózati engedélyesnek fizeti meg, ha erről
 
 a) a befogadó hálózati engedélyes és az egyéb érintett hálózati engedélyes kölcsönösen egyetértően nyilatkozik, és
 
 b) az egyéb érintett hálózati engedélyes és a csatlakozást igénylő közvetlenül megállapodnak.
 
-(3c)[^46] A (3b) bekezdés b) pontja szerinti megállapodásban rögzített kötelezettségek a csatlakozási szerződésben foglalt kötelezettségekkel esnek egy tekintet alá.
+(3c)[^47] A (3b) bekezdés b) pontja szerinti megállapodásban rögzített kötelezettségek a csatlakozási szerződésben foglalt kötelezettségekkel esnek egy tekintet alá.
 
-(3d)[^47] A (3a)–(3c) bekezdés nem alkalmazható a csatlakozási minimumdíj figyelembevételével meghatározott, a tételesen megállapított és az ideiglenes csatlakozást kérő által fizetendő csatlakozási díj esetén.
+(3d)[^48] A (3a)–(3c) bekezdés nem alkalmazható a csatlakozási minimumdíj figyelembevételével meghatározott, a tételesen megállapított és az ideiglenes csatlakozást kérő által fizetendő csatlakozási díj esetén.
 
 (4) A hálózati engedélyes a csatlakozást igénylőtől a közcélú hálózatra való új csatlakozáshoz igényelt villamos teljesítmény, illetve a közcélú hálózaton már rendelkezésre álló teljesítményen felüli többletteljesítmény nyújtásáért az e rendeletben foglaltakon kívüli díjat nem kérhet.
 
@@ -36,21 +36,21 @@ a csatlakozási pontig megépített és üzembe helyezett vezetékek, átalakít
 
 (6) Abban az esetben, ha a hálózati engedélyes igénye miatt van szükség a legkisebb költség elvének megfelelő – a jogszabályi előírásokat is figyelembe vevő – csatlakozásnál magasabb költséggel megvalósítható csatlakozásra, akkor a csatlakozást igénylővel szemben a legkisebb költség elvének megfelelően létesíthető csatlakozáshoz tartozó díjfizetési szabályokat kell alkalmazni.
 
-(7)[^48] A csatlakozást igénylő által megfizetett csatlakozási díjak összegét a hálózati engedélyes csatlakozási igényenként, továbbá a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdése és a 33. § (14) bekezdése szerinti visszafizetésekre és a (3a) bekezdés szerinti megtérítésre használhatja fel.
+(7)[^49] A csatlakozást igénylő által megfizetett csatlakozási díjak összegét a hálózati engedélyes csatlakozási igényenként, továbbá a csatlakozások érdekében megvalósított beruházásokhoz hozzárendelve tartja nyilván, és azt kizárólag hálózatfejlesztésre vagy a 26. § (2) bekezdése és a 33. § (14) bekezdése szerinti visszafizetésekre és a (3a) bekezdés szerinti megtérítésre használhatja fel.
 
-(7a)[^49] Az elosztók a honlapjukon naprakész tájékoztatást nyújtanak a működési területükön található elosztói tápponti körzetekről.
+(7a)[^50] Az elosztók a honlapjukon naprakész tájékoztatást nyújtanak a működési területükön található elosztói tápponti körzetekről.
 
-(7b)[^50] Az elosztói tápponti körzetek meghatározásának és nyilvántartásának részletszabályait az üzemi szabályzat tartalmazza.
+(7b)[^51] Az elosztói tápponti körzetek meghatározásának és nyilvántartásának részletszabályait az üzemi szabályzat tartalmazza.
 
-(8)[^51] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
+(8)[^52] A VET 9. § (1) bekezdésében foglaltak végrehajtása érdekében az elosztók minden naptári hónap első munkanapján honlapjukon tájékoztatást nyújtanak a működési területükön megvalósítható kiserőművi csatlakozási lehetőségekről. A tájékoztatás tartalmára, a jelentkezési eljárásra és a csatlakozási igények kielégítésére vonatkozó részletszabályokat a elosztói szabályzat tartalmazza.
 
-[^42]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
-[^43]: A 25. § (3) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^44]: A 25. § (3a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be.
-[^45]: A 25. § (3b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be, szövege a 10/2022. (X. 25.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^46]: A 25. § (3c) bekezdését a 10/2022. (X. 25.) MEKH rendelet 1. § (2) bekezdése iktatta be.
-[^47]: A 25. § (3d) bekezdését a 10/2022. (X. 25.) MEKH rendelet 1. § (2) bekezdése iktatta be.
-[^48]: A 25. § (7) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^49]: A 25. § (7a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
-[^50]: A 25. § (7b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
-[^51]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^43]: A 25. § (1) bekezdése a 6/2017. (VII. 13.) MEKH rendelet 8. § (4) bekezdése szerint módosított szöveg.
+[^44]: A 25. § (3) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^45]: A 25. § (3a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be.
+[^46]: A 25. § (3b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (2) bekezdése iktatta be, szövege a 10/2022. (X. 25.) MEKH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^47]: A 25. § (3c) bekezdését a 10/2022. (X. 25.) MEKH rendelet 1. § (2) bekezdése iktatta be.
+[^48]: A 25. § (3d) bekezdését a 10/2022. (X. 25.) MEKH rendelet 1. § (2) bekezdése iktatta be.
+[^49]: A 25. § (7) bekezdése az 1/2021. (II. 10.) MEKH rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^50]: A 25. § (7a) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
+[^51]: A 25. § (7b) bekezdését az 1/2021. (II. 10.) MEKH rendelet 3. § (4) bekezdése iktatta be.
+[^52]: A 25. § (8) bekezdése a 12/2018. (XII. 15.) MEKH rendelet 3. §-ával megállapított, a 16/2019. (XII. 14.) MEKH rendelet 3. § (2) bekezdése szerint módosított szöveg.

@@ -1,8 +1,8 @@
-## 8. [^33] Elosztói forgalmi díj
+## 8. [^34] Elosztói forgalmi díj
 
 18. § (1) Az elosztó hálózatra csatlakozó rendszerhasználó számára az elosztó által legalább havi gyakorisággal leolvasott, két mérőállás közötti villamosenergia-mennyiség (egész számú kWh-ban meghatározott) különbözete – ennek hiányában a legutolsó elszámoló számla alapján vagy a villamosenergia-ellátási szabályzatok szerint egy hónapra megállapított villamos energia (egész számú kWh-ban meghatározott) mennyisége – jelenti a díjfizetés alapját.
 
-(2)[^34] Az energiaforgalom mérésének hiányában az elosztó és a rendszerhasználó az elosztói forgalmi díj alapjául szolgáló átalány villamosenergia-mennyiségben is megállapodhat.
+(2)[^35] Az energiaforgalom mérésének hiányában az elosztó és a rendszerhasználó az elosztói forgalmi díj alapjául szolgáló átalány villamosenergia-mennyiségben is megállapodhat.
 
 (3) A villamos energiának az elosztó hálózatról történő kiszállításánál vagy az elosztó hálózatra történő beszállításánál a menetrend alapján megállapított villamosenergia-mennyiség vagy a mért energiaforgalom jelenti a díjfizetés alapját.
 
@@ -16,5 +16,5 @@ c) ha a közvilágítás fényáramszabályzóval van ellátva, akkor – méré
 
 jelenti a díjfizetés alapját.
 
-[^33]: A 8. alcím címe az 1/2021. (II. 10.) MEKH rendelet 10. § b) pontja szerint módosított szöveg.
-[^34]: A 18. § (2) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 3. § (1) bekezdése, az 1/2021. (II. 10.) MEKH rendelet 10. § c) pontja szerint módosított szöveg.
+[^34]: A 8. alcím címe az 1/2021. (II. 10.) MEKH rendelet 10. § b) pontja szerint módosított szöveg.
+[^35]: A 18. § (2) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 3. § (1) bekezdése, az 1/2021. (II. 10.) MEKH rendelet 10. § c) pontja szerint módosított szöveg.

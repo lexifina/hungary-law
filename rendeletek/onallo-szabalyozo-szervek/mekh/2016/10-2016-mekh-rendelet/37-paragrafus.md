@@ -4,7 +4,7 @@
 
 1. a 35. § (1) bekezdés 6. pontjában meghatározott, felhasználási helyenként felszámított rendkívüli leolvasásra vonatkozó szolgáltatás, ha arra a felhasználó személyében történő változással összefüggésben kerül sor, vagy ha arra fogyasztásmérő berendezés hibája vagy a számlázással kapcsolatos megalapozott panasz miatt kerül sor,
 
-2.[^91] a 35. § (1) bekezdés 6. pontjában meghatározott szolgáltatás, ha annak nyújtására kereskedőváltással összefüggésben került sor,
+2.[^92] a 35. § (1) bekezdés 6. pontjában meghatározott szolgáltatás, ha annak nyújtására kereskedőváltással összefüggésben került sor,
 
 3. a 35. § (1) bekezdés 8–11. pontjában foglalt szolgáltatások, ha azok elvégzését jogszabály az elosztó kötelezettségeként határozza meg,
 
@@ -12,7 +12,7 @@
 
 5. a közcélú hálózatra való új csatlakozást igénylő leendő rendszerhasználó csatlakozást igénylő részére előre fizetős fogyasztásmérő berendezés felszerelése egy felhasználási helyen,
 
-6.[^92] a szerződéses jogviszonnyal összefüggő, az interneten is elérhető dokumentumok részeinek 6 oldal terjedelmet nem meghaladó másolatának kiadása, valamint a szerződéses jogviszonnyal összefüggő ügy intézéséhez szükséges formanyomtatványok rendelkezésre bocsátása,
+6.[^93] a szerződéses jogviszonnyal összefüggő, az interneten is elérhető dokumentumok részeinek 6 oldal terjedelmet nem meghaladó másolatának kiadása, valamint a szerződéses jogviszonnyal összefüggő ügy intézéséhez szükséges formanyomtatványok rendelkezésre bocsátása,
 
 7. a 35. § (1) bekezdés 5., 7. és 12. pontja szerinti szolgáltatás első és második alkalommal történő igénybevétele,
 
@@ -28,8 +28,8 @@
 
 (3) Az elosztó a felhasználó kérésének megfelelő fizetési mód szerint – ennek hiányában a felhasználó számlafizetési módja szerinti módon – köteles teljesíteni a (2) bekezdés szerinti visszatérítést a felhasználó vagy a fizető számára.
 
-(4)[^93] Ha a felhasználó szociálisan rászoruló fogyasztónak minősül, akkor a 35. § (1) bekezdés 4. pontja szerinti visszakapcsolás szerinti villamosnergia ellátásból való kikapcsolás díjának megfizetését a hozzá felszerelt előre fizetős fogyasztásmérő berendezés igénybevételével törlesztve is teljesítheti.
+(4)[^94] Ha a felhasználó szociálisan rászoruló fogyasztónak minősül, akkor a 35. § (1) bekezdés 4. pontja szerinti visszakapcsolás szerinti villamosnergia ellátásból való kikapcsolás díjának megfizetését a hozzá felszerelt előre fizetős fogyasztásmérő berendezés igénybevételével törlesztve is teljesítheti.
 
-[^91]: A 37. § (1) bekezdés 2. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § l) pontja szerint módosított szöveg.
-[^92]: A 37. § (1) bekezdés 6. pontja az 1/2021. (II. 10.) MEKH rendelet 7. §-ával megállapított szöveg.
-[^93]: A 37. § (4) bekezdése az 1/2021. (II. 10.) MEKH rendelet 10. § f) pontja szerint módosított szöveg.
+[^92]: A 37. § (1) bekezdés 2. pontja az 1/2021. (II. 10.) MEKH rendelet 9. § l) pontja szerint módosított szöveg.
+[^93]: A 37. § (1) bekezdés 6. pontja az 1/2021. (II. 10.) MEKH rendelet 7. §-ával megállapított szöveg.
+[^94]: A 37. § (4) bekezdése az 1/2021. (II. 10.) MEKH rendelet 10. § f) pontja szerint módosított szöveg.
