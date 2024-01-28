@@ -1,1 +1,0 @@
-## 7. § Az üzemben tartó mentesül a meghibásodott központi hőellátó rendszer üzemképes állapotban tartásának és üzemeltetésének kötelezettsége alól, ha az nem, vagy gazdaságosan nem javítható, és – több épületet ellátó központi hőellátó rendszer esetén a szolgalom jogosultjával megkötött megállapodás szerint – más módon gondoskodik a fűtésről, illetőleg a melegvíz-ellátásról.

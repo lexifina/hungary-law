@@ -1,1 +1,0 @@
-## 8. § Az üzemben tartó az üzemképes központi hőellátó rendszert – az érdekelt fogyasztó jóváhagyása nélkül – kicserélheti, ha a levegő tisztaságát hatékonyabban védő, gazdaságosabb, korszerűbb hőellátó rendszerrel váltja fel. A szolgalom jogosultja köteles a kicserélés költségeit a hőszolgáltatás igénybevételével arányosan megfizetni.
