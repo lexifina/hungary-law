@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-175-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-01-27 | 2023-175-20-7R.1 | 175/2023. (XII. 27.) AM rendelet |
+| 2024-01-28 | 2023-175-20-7R.2 | 2010. évi CXXX. törvény |

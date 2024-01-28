@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 63/2012. (VII. 2.) VM rendelet 1. melléklet 4. pont 4.2. sora.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
