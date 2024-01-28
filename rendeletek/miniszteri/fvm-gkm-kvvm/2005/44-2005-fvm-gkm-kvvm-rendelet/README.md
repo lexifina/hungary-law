@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-44-20-8
 | 2022-02-23 | 2005-44-20-82.6 | 4/2022. (II. 8.) AM rendelet |
 | 2023-05-11 | 2005-44-20-82.7 | 4/2022. (II. 8.) AM rendelet |
 | 2023-05-15 | 2005-44-20-82.8 | 4/2022. (II. 8.) AM rendelet |
+| 2024-01-28 | 2005-44-20-82.9 | 2/2024. (I. 25.) AM rendelet |

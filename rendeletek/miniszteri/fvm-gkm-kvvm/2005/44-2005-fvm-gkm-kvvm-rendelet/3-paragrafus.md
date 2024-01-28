@@ -40,7 +40,9 @@ c) az e rendeletben foglalt előírásokat a mezőgazdasági repülés során me
 
 (8)[^20] Pilóta nélküli légijárművel történő mezőgazdasági repülést a pilóta nélküli légijárművel történő légi-mezőgazdasági munkavégzésre jogosultak nyilvántartásában (a továbbiakban: mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartás) szereplő személy végezhet.
 
-(9)[^21] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartás tartalmazza:
+(8a)[^21] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartást a NÉBIH vezeti, és honlapján közzéteszi azt.
+
+(9)[^22] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartás tartalmazza:
 
 a) a jogosult személynek az Éltv. 38. § (2) bekezdés c) pontja szerinti adatai közül a nevét és lakcímét,
 
@@ -48,11 +50,11 @@ b) a jogosult személy FELIR azonosítóját, tevékenység azonosítóját, és
 
 c) a nyilvántartásba vétel, valamint a nyilvántartásból való törlés időpontját.
 
-(10)[^22] Mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásba az jegyezhető be, aki a távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló miniszteri rendelet szerinti hatályos pilóta nélküli légijármű irányítói igazolvánnyal rendelkezik, valamint a NÉBIH által erre kijelölt szervezet által szervezett pilóta nélküli légijárműves növényvédelmi alapképzést elvégezte. A képzés szervezésére jóváhagyott intézmények listáját és a képzés tematikáját a NÉBIH honlapján teszi közzé.
+(10)[^23] Mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásba az jegyezhető be, aki a távoli pilóták képzését és vizsgáztatását végző szervezetek kijelöléséről, a távoli pilóták képzésének és vizsgáztatásának részletes szabályairól, valamint a vizsgán való részvétel díjáról szóló miniszteri rendelet szerinti hatályos pilóta nélküli légijármű irányítói igazolvánnyal rendelkezik, valamint a NÉBIH által erre kijelölt szervezet által szervezett pilóta nélküli légijárműves növényvédelmi alapképzést elvégezte. A képzés szervezésére jóváhagyott intézmények listáját és a képzés tematikáját a NÉBIH honlapján teszi közzé.
 
-(11)[^23] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásban szereplő személy kétévenként köteles részt venni a NÉBIH által erre kijelölt szervezet által szervezett növényvédelmi szakmai továbbképzésen. A továbbképzés tematikáját a NÉBIH a honlapján teszi közzé. A továbbképzés vizsgaköteles, arról a továbbképzést végző szervezet vagy intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzésen részt vett és eredményes vizsgát tett.
+(11)[^24] A mezőgazdasági pilóta nélküli légijármű irányítói nyilvántartásban szereplő személy kétévenként köteles részt venni a NÉBIH által erre kijelölt szervezet által szervezett növényvédelmi szakmai továbbképzésen. A képzés szervezésére kijelölt szervezetek listáját és a továbbképzés tematikáját a NÉBIH a honlapján teszi közzé. A továbbképzés vizsgaköteles, arról a továbbképzést végző szervezet vagy intézmény tanúsítványt állít ki, ha a kötelezett a továbbképzésen részt vett és eredményes vizsgát tett.
 
-(12)[^24] A NÉBIH a (9) bekezdés szerinti nyilvántartásból törli azt a személyt, aki
+(12)[^25] A NÉBIH a (9) bekezdés szerinti nyilvántartásból törli azt a személyt, aki
 
 a) a (11) bekezdés szerinti szakmai továbbképzési kötelezettségének nem tesz eleget, és ennek hiányában folytat légi permetezési tevékenységet,
 
@@ -70,7 +72,8 @@ c) nem rendelkezik érvényes pilóta nélküli légijármű irányítói igazol
 [^18]: A 3. § (6) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított, nyitó szövegrésze a 23/2023. (V. 10.) AM rendelet 6. § b) pontja szerint módosított szöveg.
 [^19]: A 3. § (7) bekezdése a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdésével megállapított szöveg.
 [^20]: A 3. § (8) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
-[^21]: A 3. § (9) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
-[^22]: A 3. § (10) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
-[^23]: A 3. § (11) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
-[^24]: A 3. § (12) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^21]: A 3. § (8a) bekezdését a 2/2024. (I. 25.) AM rendelet 1. §-a iktatta be.
+[^22]: A 3. § (9) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^23]: A 3. § (10) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.
+[^24]: A 3. § (11) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be, szövege a 2/2024. (I. 25.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^25]: A 3. § (12) bekezdését a 4/2022. (II. 8.) AM rendelet 3. § (4) bekezdése iktatta be.

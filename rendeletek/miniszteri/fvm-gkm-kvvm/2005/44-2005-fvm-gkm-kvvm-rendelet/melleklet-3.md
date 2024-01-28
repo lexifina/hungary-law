@@ -1,3 +1,3 @@
-3. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^94]
+3. melléklet a 44/2005. (V. 6.) FVM–GKM–KvVM együttes rendelethez[^99]
 
-[^94]: A 3. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.
+[^99]: A 3. mellékletet a 24/2013. (IV. 11.) VM rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 4/2022. (II. 8.) AM rendelet 16. § g) pontja.
