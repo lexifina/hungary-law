@@ -1,0 +1,1 @@
+23. § Az állam tulajdonában és a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében lévő épület központi hőellátó rendszerének üzemeltetési költségét a fűtött légtérfogat arányában kell felosztani.

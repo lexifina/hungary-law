@@ -1,0 +1,1 @@
+7. § Az üzembentartó mentesül a meghibásodott központi hőellátó rendszer üzemképes állapotban tartásának és üzemeltetésének kötelezettsége alól, ha az nem, vagy gazdaságosan nem javítható, és más módon gondoskodik a fűtésről és a melegvíz-ellátásról.

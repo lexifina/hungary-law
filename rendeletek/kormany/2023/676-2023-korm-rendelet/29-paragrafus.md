@@ -1,0 +1,1 @@
+29. § A költségvetés alapján előzetesen megállapított havi fűtési és melegvíz-díjat a fogyasztó előre, minden hónap 10. napjáig köteles megfizetni, ha a társasház alapító okirata vagy szervezeti és működési szabályzata, vagy a lakásszövetkezet alapszabálya másként nem rendelkezik.

@@ -1,0 +1,1 @@
+6. § Az üzembentartó jogosult a fűtőtesteket ellenőrizni. Az üzembentartó megtagadja a szolgáltatást, ha a fogyasztónál lévő fűtőtest az életet, testi épséget, egészséget vagy vagyonbiztonságot veszélyezteti, és megtagadhatja a szolgáltatást, ha az más fogyasztó hővételezését veszélyezteti.
