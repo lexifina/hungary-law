@@ -22,6 +22,22 @@
 
 10. zártrendszerű rakodás: az áru be- vagy kirakása abban az esetben, ha a küldemény átvételekor, kiszolgáltatásakor a fuvarozó nincs jelen, vagy a 6. § (1) bekezdés a) pontjában megjelölt adatokat nem tudja ellenőrizni.
 
+(1a)[^1] A minimális szolgáltatási alapdíjon e rendelet eltérő rendelkezésének hiányában a 3,5 tonna megengedett legnagyobb össztömeget el nem érő tehergépjárművek kivételével, amennyiben a felek a közöttük fennálló szerződés alapján megtett kilométerek alapján számolnak el, a fuvarozást teljesítő tehergépjárműre alkalmazandó díj, amelyen
+
+a) az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény szerint az adott fuvarfeladatra fizetendő útdíj háromszorosának, és
+
+b) a közúti gépjárművek, az egyes mezőgazdasági, erdészeti és halászati erőgépek üzemanyag- és kenőanyag- fogyasztásának igazolás nélkül elszámolható mértékéről szóló 60/1992. (IV. 1.) Korm. rendelet 1/A. és 2. számú mellékletei szerint, a Nemzeti Adó- és Vámhivatal weboldalán havonta közzétett, az üzemanyagköltség-elszámolással kapcsolatosan alkalmazható üzemanyagárakkal, az adott fuvarfeladatra kalkulált üzemanyagköltség:
+
+ba) J5, J4 járműkategóriában: egyszeresének,
+
+ba) J3 járműkategóriában: 1,3-szorosának,
+
+ba) J2 járműkategóriában: kétszeresének
+
+összegét kell érteni, az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet által meghatározott járműkategóriák figyelembevételével.
+
 (2) A feladón, a fuvarozón és a címzetten mindezek megbízottját, közreműködőjét, nevében eljáró személyt is érteni kell.
 
 (3) Ha a feladó nem a fuvarozó tulajdonában, üzemeltetésében levő üres vagy áruval megrakott pótkocsi továbbításával bízza meg a fuvarozót, akkor a pótkocsira az árura vonatkozó szabályokat kell alkalmazni.
+
+[^1]: A 2. § (1a) bekezdését a 686/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

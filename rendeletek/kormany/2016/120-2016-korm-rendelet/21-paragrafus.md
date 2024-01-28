@@ -14,7 +14,7 @@ e) a személyekben, üzemi felszerelésben, járműben vagy más vagyonában a s
 
 f) az utólagos rendelkezéssel
 
-## okozott kárért, költségért.
+okozott kárért, költségért.
 
 (2) A feladó részben vagy egészben mentesül a felelősség alól, ha a hiányosság nyilvánvaló vagy a fuvarozó előtt ismeretes volt az átvétel időpontjában.
 
