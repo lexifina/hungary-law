@@ -1,5 +1,3 @@
-## 2. §[^1]
-
 3. § (1)[^2]
 
 (2) A munkagép szerelése az 1. melléklet szerinti gázbiztonsági követelményeknek megfelelő műhelyben végezhető.
@@ -14,7 +12,6 @@
 
 (7)[^7]
 
-[^1]: A 2. §-t a 25/2019. (VIII. 26.) ITM rendelet 4. § a) pontja hatályon kívül helyezte.
 [^2]: A 3. § (1) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.
 [^3]: A 3. § (3) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.
 [^4]: A 3. § (4) bekezdését a 25/2019. (VIII. 26.) ITM rendelet 4. § b) pontja hatályon kívül helyezte.

@@ -2,7 +2,7 @@
 
 1. melléklet az 51/2007. (V. 17.) GKM rendelethez
 
-## Munkagépek gáz-üzemanyag ellátó berendezése szerelését végző műhelyek gázbiztonsági követelményei
+Munkagépek gáz-üzemanyag ellátó berendezése szerelését végző műhelyek gázbiztonsági követelményei
 
 I. Általános követelmények
 
