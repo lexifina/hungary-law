@@ -1,5 +1,3 @@
-## Az 1. §-ban meghatározott tevékenységekhez előírt képesítés és gyakorlati idő
-
 |  | A | B | C | D |
 
 | 1. | Végezhető tevékenység | Végzettség, képesítés | Kiegészítő szakma, képesítés | Gyakorlati idő a kiegészítő szakma, képesítés tekintetében |
@@ -26,7 +24,7 @@
 
 2. melléklet a 42/2017. (XII. 11.) NGM rendelethez
 
-## A gázszerelői bejelentés adattartalma
+A gázszerelői bejelentés adattartalma
 
 1. Tevékenység megnevezése
 
@@ -38,7 +36,7 @@
 
 2.3. anyja neve
 
-2.4. lakcíme (megye, irányítószám, helység, utca, házszám)
+2.4.[^9] lakcíme (vármegye, irányítószám, helység, utca, házszám vagy helyrajzi szám)
 
 2.5. értesítési címe
 
@@ -56,11 +54,11 @@
 
 6. A díjfizető adószáma vagy adóazonosító jele
 
-7.[^9] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+7.[^10] A bejelentő nyilatkozata arról, hogy az értesítési címének a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
-8.[^10] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
+8.[^11] A bejelentő nyilatkozata arról, hogy a telefonszámának, elektronikus levélcímének, faxszámának a nyilvántartásba vett gázszerelői jegyzékben, az MMK információs honlapján történő közzétételéhez hozzájárul-e.
 
-9.[^11]
+9.[^12]
 
 10. Képesítés megjelölése
 
@@ -136,6 +134,7 @@
 
 14. A legalább 10 óra személyes jelenléti továbbképzés teljesítését igazoló okirat
 
-[^9]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
-[^10]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
-[^11]: A 2. melléklet 9. pontját a 34/2021. (VII. 26.) ITM rendelet 12. § c) pontja hatályon kívül helyezte.
+[^9]: A 2. melléklet 2.4. pontja a 79/2023. (XII. 29.) GFM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. melléklet 7. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet 8. pontja a 22/2020. (VI. 29.) ITM rendelet 27. § c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet 9. pontját a 34/2021. (VII. 26.) ITM rendelet 12. § c) pontja hatályon kívül helyezte.

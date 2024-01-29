@@ -1,3 +1,6 @@
 ## 4. §[^3] Az 1. mellékletben meghatározott tevékenység végzésére irányuló szándékot a 2. mellékletben meghatározott adattartalmú, a Magyar Mérnöki Kamara (a továbbiakban: MMK) által rendszeresített nyomtatvánnyal kell bejelenteni. A bejelentéshez eredetiben be kell mutatni, vagy másolatban mellékelni kell az 1. mellékletben meghatározott képesítés és gyakorlati idő meglétét igazoló okiratokat. Amennyiben a bejelentés a végzettség, illetve képesítés megszerzésétől számított öt év után történik, a bejelentéshez a továbbképzési kötelezettség teljesítését igazoló okiratokat is be kell mutatni, vagy másolatban mellékelni kell.
 
+5. §[^4]
+
 [^3]: A 4. § a 22/2020. (VI. 29.) ITM rendelet 27. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. §-t a 12/2021. (III. 5.) ITM rendelet 25. §-a hatályon kívül helyezte.
