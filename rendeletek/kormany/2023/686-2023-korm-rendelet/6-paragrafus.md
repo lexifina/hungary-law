@@ -1,3 +1,3 @@
-6. § A Korm. rendelet 12. §-a a következő (4) bekezdéssel egészül ki:
+6. §[^7]
 
-„(4) Egymást követő fuvarozók által végzett fuvarozás esetén a feladó által igénybe vett fuvarozó további legfeljebb egy fuvarozó alvállalkozót vehet igénybe az adott fuvarmegbízás elvégzésére. A szerződő felek ettől eltérően megállapodhatnak.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-4. § A Korm. rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) Ha a fuvarozó az átvételre vagy kiszolgáltatásra a szerződésben meghatározott időre készen áll, azonban az áru rakodása az azt követő egy órán belül nem fejeződik be, az ezen felüli időtartam – a fuvarozó rakodásban és raklap válogatásban való 7. § (6) bekezdése szerinti részvételének esetét kivéve – állásidőnek minősül, amelyért a fuvarozó külön díjat számít fel. Az állásidő díja nem lehet kevesebb, mint óránként 8636 forint. Az állásidő meghatározásánál minden megkezdett óra egész órának számít. A fuvarozó részére az állásidő időtartamát az köteles írásban igazolni, akinek érdekkörében az állásidő bekövetkezett. Írásos igazolás hiányában a fuvarozó az állásidőt más hitelt érdemlő módon is igazolhatja, különösen, de nem kizárólag a GPS adatainak bemutatásával.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
