@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-153-00-00
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2017-153-00-00.27 |
 | 2023-12-30 | 2023. évi LXXXIII. törvény | 2017-153-00-00.28 |
 | 2024-01-01 | 2023. évi LXX. törvény | 2017-153-00-00.26 |
+| 2024-01-29 | 2023. évi LXXXIII. törvény | 2017-153-00-00.29 |

@@ -11,3 +11,5 @@
 (6) E törvénynek a Módtv.7. által megállapított 124/A. §-t a folyamatban lévő eljárásokban is alkalmazni kell.
 
 (7) E törvénynek a Módtv.7. által megállapított 123. § (12) bekezdését a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
+
+(8) E törvénynek a Módtv.7. által megállapított 21. §-t a hatálybalépését követően indult végrehajtási eljárásokban kell alkalmazni.
