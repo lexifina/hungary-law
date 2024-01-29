@@ -1,1 +1,3 @@
-35. § Hatályát veszti a központi fűtésről és melegvíz-szolgáltatásról szóló 189/1998. (XI. 23.) Korm. rendelet.
+35. §[^1]
+
+[^1]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
