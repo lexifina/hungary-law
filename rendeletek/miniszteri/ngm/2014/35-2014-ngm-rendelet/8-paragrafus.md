@@ -1,5 +1,3 @@
-## 7. §
-
 ## 5. Gázpalack töltése, kezelése, tárolása és szállítása
 
 8. §[^6] (1) Gázpalackot az a gazdálkodó szervezet tölthet, amely rendelkezik a nyomástartó berendezések, rendszerek és létesítmények műszaki-biztonsági hatósági felügyeletéről szóló kormányrendeletben vagy a cseppfolyós propán-, butángázok és ezek elegyei tartályban vagy palackban történő forgalmazásáról és átfejtéséről, valamint hatósági felügyeletéről szóló kormányrendeletben meghatározott, működő és erre akkreditált, független tanúsító szervezet által tanúsított minőségirányítási rendszerrel, és a töltőlétesítmény vagy a propán-butángáz palacktöltő üzem használatbavételére engedélyt kapott.

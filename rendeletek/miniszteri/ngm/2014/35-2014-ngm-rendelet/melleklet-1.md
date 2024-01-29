@@ -1,8 +1,6 @@
-## 31. §[^37]
-
 1. melléklet a 35/2014. (XI. 19.) NGM rendelethez[^38]
 
-## Gázpalack Biztonsági Szabályzat
+Gázpalack Biztonsági Szabályzat
 
 1. A Szabályzat alkalmazási területe
 
@@ -68,5 +66,4 @@ d) a menetek nincsenek-e elmaródva, a menetek méretei az előírásoknak megfe
 
 6.3. A nyilvántartási lapot a 17. § (1) bekezdésben megjelölt szervezet a 18. §-ban meghatározott ciklusidő lejártát követően legalább 10 évig megőrzi.
 
-[^37]: A 31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^38]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 17. §-ával megállapított szöveg.

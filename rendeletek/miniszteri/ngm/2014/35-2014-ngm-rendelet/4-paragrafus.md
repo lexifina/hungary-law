@@ -2,5 +2,7 @@
 
 ## 4.[^5]
 
+4. §
+
 [^4]: A 3. § a 27/2020. (VII. 16.) ITM rendelet 18. § a) pontja szerint módosított szöveg.
 [^5]: A 4. alcímet (4–7. §) a 25/2019. (VIII. 26.) ITM rendelet 12. §-a hatályon kívül helyezte.

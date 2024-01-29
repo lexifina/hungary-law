@@ -1,5 +1,3 @@
-## 24. §[^34]
-
 ## 13. [^35] A szakági műszaki szakbizottság működése és feladatai
 
 25. § (1) A rendelet hatálya alá tartozó gázpalackok, gázhordók és palackkötegek időszakos és rendkívüli biztonságtechnikai ellenőrzései tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter (a továbbiakban: miniszter) szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
@@ -30,5 +28,4 @@ h) a szakterületen működő egyéb, a miniszter által felkért civil szerveze
 
 (6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekinteni, hogy az megfelel az adott kor technikai színvonalának.
 
-[^34]: A 24. §-t a 25/2019. (VIII. 26.) ITM rendelet 12. §-a hatályon kívül helyezte.
 [^35]: A 13. alcím a 27/2020. (VII. 16.) ITM rendelet 16. §-ával megállapított szöveg.

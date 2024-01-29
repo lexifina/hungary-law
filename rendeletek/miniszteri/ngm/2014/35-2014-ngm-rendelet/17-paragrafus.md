@@ -1,6 +1,6 @@
 ## 8. Időszakos biztonságtechnikai ellenőrzés
 
-17. § (1)[^20] A gázhordóknak és a palackkötegeknek a Szabályzatban foglalt követelményeknek történő megfelelőségét, illetve nem megfelelőségét a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala állapítja meg meg. A gázpalackoknak és tartozékaiknak a Szabályzatban foglalt követelményeknek történő megfelelőségét, illetve nem megfelelőségét a biztonságtechnikai ellenőrzést végző szervezet állapítja meg.
+17. § (1)[^20] A gázhordóknak és a palackkötegeknek a Szabályzatban foglalt követelményeknek történő megfelelőségét, illetve nem megfelelőségét a műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatal állapítja meg meg. A gázpalackoknak és tartozékaiknak a Szabályzatban foglalt követelményeknek történő megfelelőségét, illetve nem megfelelőségét a biztonságtechnikai ellenőrzést végző szervezet állapítja meg.
 
 (2)[^21]
 
@@ -50,7 +50,7 @@ d) a szállítójárművet közlekedési baleset érte, vagy
 
 e) átalakítás nyomai észlelhetők rajta.
 
-[^20]: A 17. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 30. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^20]: A 17. § (1) bekezdése a 76/2023. (XII. 29.) GFM rendelet 1. §-a szerint módosított szöveg.
 [^21]: A 17. § (2) bekezdését a 27/2020. (VII. 16.) ITM rendelet 19. § d) pontja hatályon kívül helyezte.
 [^22]: A 17. § (3) bekezdése a 27/2020. (VII. 16.) ITM rendelet 18. § d) pontja szerint módosított szöveg.
 [^23]: A 17. § (4) bekezdés a) pontja a 27/2020. (VII. 16.) ITM rendelet 18. § e) pontja szerint módosított szöveg.
