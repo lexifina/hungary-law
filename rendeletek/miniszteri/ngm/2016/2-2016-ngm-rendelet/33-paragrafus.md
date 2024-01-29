@@ -1,5 +1,3 @@
-## 32. §[^46]
-
 ## 18. [^47] A szakági műszaki szakbizottság működése és feladatai
 
 33. § (1) Az e rendelet hatálya alá tartozó berendezések és rendszerek létesítési és üzemeltetési tapasztalatainak figyelembevételével a műszaki biztonságot növelő alkalmazások széles körű elterjedésének elősegítése céljából az iparügyekért felelős miniszter szakági műszaki szakbizottságot (a továbbiakban: Szakbizottság) hoz létre.
@@ -20,7 +18,11 @@ e) Magyar PB Gázipari Egyesület: 1 fő;
 
 f) Magyar Tartálytechnikai és Nyomástartó Berendezés Szövetség: 1 fő;
 
-g) a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
+g)[^48] Magyar Hidrogén és Tüzelőanyag-cella Egyesület: 1 fő,
+
+h)[^49] Magyar Hidrogéntechnológiai Szövetség: 1 fő,
+
+i)[^50] a szakterületen működő egyéb, a miniszter által felkért civil szervezetek: 1-1 fő.
 
 (4) A Szakbizottság tagjait az iparügyekért felelős miniszter 5 év időtartamra bízza meg.
 
@@ -28,5 +30,7 @@ g) a szakterületen működő egyéb, a miniszter által felkért civil szerveze
 
 (6) A Szakbizottság által elfogadott szakági műszaki előírásokat a kormányzati honlapon, valamint a termékinformációs pont honlapján közzé kell tenni. A szakági műszaki előírásokban foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának.
 
-[^46]: A 32. §-t a 213/2019. (VIII. 27.) Korm. rendelet 44. § h) pontja hatályon kívül helyezte.
 [^47]: A 18. alcím (33. §) a 28/2019. (VIII. 27.) ITM rendelet 2. §-ával megállapított szöveg.
+[^48]: A 33. § (3) bekezdés g) pontja a 80/2023. (XII. 29.) GFM rendelet 1. §-ával megállapított szöveg.
+[^49]: A 33. § (3) bekezdés h) pontját a 80/2023. (XII. 29.) GFM rendelet 1. §-a iktatta be.
+[^50]: A 33. § (3) bekezdés i) pontját a 80/2023. (XII. 29.) GFM rendelet 1. §-a iktatta be.

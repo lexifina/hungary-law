@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-2-20-2X
 | 2020-07-31 | 2016-2-20-2X.7 | 27/2020. (VII. 16.) ITM rendelet |
 | 2021-09-01 | 2016-2-20-2X.8 | 34/2021. (VII. 26.) ITM rendelet |
 | 2021-11-12 | 2016-2-20-2X.9 | 29/2021. (VI. 30.) ITM rendelet |
+| 2024-01-29 | 2016-2-20-2X.10 | 80/2023. (XII. 29.) GFM rendelet |

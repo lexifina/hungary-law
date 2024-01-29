@@ -4,6 +4,6 @@
 
 (2) A Hatóság által e rendelet hatálybalépését megelőzően kiadott hatósági engedélyekkel megszerzett jogosultság az e rendelet szerinti engedélyezési eljárás lefolytatása nélkül gyakorolható a hatósági engedélyben meghatározott időtartamig, és a határozatlan időre szóló engedélyek tekintetében e rendelet hatálybalépését követő négy évig. Az e rendelet hatálybelépését megelőzően kiadott használatbavételi engedélyek esetében nem kell új üzembevételi engedélyezési eljárást lefolytatni.
 
-(3)[^49]
+(3)[^52]
 
-[^49]: A 36. § (3) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 44. § i) pontja hatályon kívül helyezte.
+[^52]: A 36. § (3) bekezdését a 213/2019. (VIII. 27.) Korm. rendelet 44. § i) pontja hatályon kívül helyezte.

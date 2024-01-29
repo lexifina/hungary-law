@@ -1,5 +1,3 @@
-## 29. §
-
 ## 17. Műszaki biztonsági követelmények
 
 30. § (1) A rendelet hatálya alá tartozó berendezéseket, létesítményeket úgy kell megtervezni, létesíteni, telepíteni, üzembe helyezni, üzemeltetni és rendszeresen karbantartani, hogy az megfeleljen a Műszaki Biztonsági Szabályzatban meghatározott műszaki biztonsági követelményeknek.
