@@ -36,4 +36,7 @@ b) a potenciálisan robbanásveszélyes környezetben történő alkalmazásra s
 
 (5) Az e rendeletben foglaltakat a jogszabály alapján munkaeszköznek minősülő villamos berendezések időszakos ellenőrzésére jogszabály eltérő rendelkezése hiányában kell alkalmazni.
 
+(6)[^2] A felhasználói berendezésre vonatkozó követelményeket a Vet. 116. § (3) bekezdés a) és b) pontjában meghatározott kiserőműre jogszabály eltérő rendelkezése hiányában megfelelően alkalmazni kell.
+
 [^1]: Az 1. § (3) bekezdés k) pontját a 27/2020. (VII. 16.) ITM rendelet 28. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (6) bekezdését a 78/2023. (XII. 29.) GFM rendelet 1. §-a iktatta be.

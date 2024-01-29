@@ -1,8 +1,6 @@
-## 10–11. §[^7]
+1. melléklet a 40/2017. (XII. 4. ) NGM rendelethez[^11]
 
-1. melléklet a 40/2017. (XII. 4. ) NGM rendelethez[^8]
-
-## Villamos Műszaki Biztonsági Szabályzat
+Villamos Műszaki Biztonsági Szabályzat
 
 1. Villamos berendezések műszaki biztonsági követelményei
 
@@ -58,19 +56,21 @@ e) a gyártási számmal ellátott, alkalmazott villamossági termékek megfelel
 
 1.5. A villamos berendezésre vonatkozó kezelési utasítást az üzemeltető – a tervező vagy ennek hiányában a kivitelező által biztosított üzemeltetési útmutató alapján – dolgozza vagy dolgoztatja ki és adja át a kezelésre feljogosított személynek vagy személyeknek.
 
-1.6. A villamos berendezésnek az e rendeletben meghatározott műszaki biztonsági követelményeknek megfelelő állapotát ellenőrizni kell
+1.6.[^12] A villamos berendezésnek az e rendeletben meghatározott műszaki biztonsági követelményeknek megfelelő állapotát ellenőrizni kell
 
 a) a berendezés létesítésekor, az első üzembe helyezés előtt (első ellenőrzés);
 
 b) rendkívüli eseményt követően;
 
-c) átalakítás, javítás esetén annak üzembe helyezése előtt és
+c) átalakítás, javítás esetén annak üzembe helyezése előtt;
 
-d) időszakosan, az e berendezés fajtájára a jogszabályokban előírt gyakorisággal.
+d) időszakosan, az e berendezés fajtájára a jogszabályokban előírt gyakorisággal és
 
-1.7. Az 1.6. pont a) és d) alpontja szerinti esetben az ellenőrzésnek a teljes villamos berendezésre ki kell terjednie, míg a többi esetben elegendő a berendezésnek arra a részére elvégezni, amelynek biztonságos voltát a meghibásodás vagy a javítás, bővítés, átalakítás érintette.
+e) bérbeadáskor és tulajdonosváltáskor az 1. pont 1.13.2. alpont f) alpontjában meghatározott esetekben.
 
-1.8. Az ellenőrzés elvégeztetése az 1.6. pont a) és c) alpontjai szerinti esetben a kivitelező, a b), d) alpontok szerinti esetben az üzemeltető kötelezettsége, kivéve, ha szerződésben e kötelezettséget más vállalta.
+1.7.[^13] Az 1.6. pont a), d) és e) alpontja szerinti esetben az ellenőrzésnek a teljes villamos berendezésre ki kell terjednie, míg a többi esetben elegendő a berendezésnek arra a részére elvégezni, amelynek biztonságos voltát a meghibásodás vagy a javítás, bővítés, átalakítás érintette.
+
+1.8.[^14] Az ellenőrzés elvégeztetése az 1.6. pont a) és c) alpontjai szerinti esetben a kivitelező, a b), d) és e) alpontok szerinti esetben az üzemeltető kötelezettsége, kivéve, ha szerződésben e kötelezettséget más vállalta.
 
 1.9. Új berendezés kivitelezésekor, valamint a biztonságosság szempontjából lényeges bővítések, átalakítások alkalmával az érintett rész szabványos vagy azzal egyenértékű voltát kell ellenőrizni, és az 1.6. pontban meghatározott ellenőrzés eredményét, az 1.2. vagy 1.3. pontban meghatározott tartalmú nyilatkozattal, valamint az 1.4. pont szerinti mérési jegyzőkönyvekkel és bizonylatokkal kell igazolni. Kisfeszültségű berendezések esetében a kisfeszültségű villamos berendezések ellenőrzésére vonatkozó szabványban foglaltak az e rendeletben foglalt eltérésekkel alkalmazandók. Nagyfeszültségű berendezéseknél az 1 kV-nál nagyobb váltakozó feszültségű erősáramú berendezések tárgyú szabvány vagy azzal egyenértékű műszaki megoldás ellenőrzési követelményeit kell figyelembe venni.
 
@@ -84,9 +84,9 @@ d) időszakosan, az e berendezés fajtájára a jogszabályokban előírt gyakor
 
 1.13. A kisfeszültségű villamos berendezések villamos biztonsági felülvizsgálatát az 1.13.1–1.13.5. pontban meghatározott szempontok szerint kell elvégezni.
 
-1.13.1. A kisfeszültségű villamos berendezés szabványos állapotának első ellenőrzését a létesítéskor, az első üzembe helyezés előtt kell elvégezni.
+1.13.1.[^15] A kisfeszültségű villamos berendezés első ellenőrzését villamos biztonsági felülvizsgálattal létesítéskor, az első üzembe helyezés előtt kell elvégezni.
 
-1.13.2. A használatbavételt követően időszakos villamos biztonsági felülvizsgálat elvégzéséről az üzemeltető a következők szerint gondoskodik:
+1.13.2.[^16] A használatbavételt követően a villamos biztonsági felülvizsgálat elvégzéséről az üzemeltető a következők szerint gondoskodik:
 
 a) legalább 6 havonta részletes felülvizsgálat végzése azokon a potenciálisan robbanásveszélyes környezetben működő nem helyhez kötött, fokozott igénybevételnek kitett tokozásokon, amelyeket gyakran ki kell nyitni;
 
@@ -98,29 +98,25 @@ d) legalább 3 évenként villamos biztonsági felülvizsgálat végzése
 
 da) az épületnek nem minősülő műtárgy 50 kW-ot meghaladó csatlakozási teljesítményű villamos berendezésén,
 
-db) a fázisonként 32 A-nél nagyobb névleges áramerősségű túláramvédelemmel korlátozott villamos berendezésen,
+db) a fázisonként 32 A-nél nagyobb névleges áramerősségű túláramvédelemmel korlátozott általános célú villamos berendezésen, kivéve a lakóépületek villamos berendezését,
 
 dc) a Villamos Műszaki Biztonsági Szabályzat szerint lakóépület, kommunális épület, valamint egyéb épület villamos berendezésén, ha az munkahelynek minősül;
 
-e) legalább 6 évenként villamos biztonsági felülvizsgálat végzése a lakóépületek villamos berendezésén az 1.13.3. pontban meghatározott kivétellel;
+e) legalább 6 évenként villamos biztonsági felülvizsgálat végzése a lakóépületek villamos berendezésén az 1.13.3. alpontban meghatározott kivétellel;
 
-f) a lakóépületekben lévő lakások villamos berendezésén felülvizsgálat végzendő
+f) a lakóépületekben lévő lakások villamos berendezésén villamos biztonsági felülvizsgálat végzése bérbeadáskor és tulajdonosváltáskor, amennyiben a bérbeadás, illetve a tulajdonosváltás időpontjához képest 6 évnél nem régebben elvégzett felülvizsgálatot igazoló ellenőrzési dokumentum (minősítő irat) nem áll rendelkezésre;
 
-fa) bérbeadáskor és
+g) legalább 6 évenként villamos biztonsági felülvizsgálat végzése az a)–f) pontban fel nem sorolt esetekben az 1.13.3. alpontban meghatározott kivétellel.
 
-fb) tulajdonosváltáskor;
-
-g) legalább 6 évenként villamos biztonsági felülvizsgálat végzése az a)–f) pontban fel nem sorolt esetekben.
-
-1.13.3. Lakóépületekben lévő lakások villamos berendezésén a villamos biztonsági felülvizsgálat elhagyható, ha a következő két feltétel együttesen teljesül:
+1.13.3.[^17] Lakóépületekben lévő, bérleménynek nem minősülő lakások villamos berendezésén az időszakos villamos biztonsági felülvizsgálat elhagyható, ha a következő két feltétel együttesen teljesül:
 
 a) fázisonként 32 A-nél nem nagyobb névleges áramerősségű túláramvédelem van, és
 
 b) 30 mA-nél nem nagyobb érzékenységű áram-védőkapcsolóval védettek a felhasználói berendezések.
 
-1.13.4. A villamos berendezések felülvizsgálata a felülvizsgálat idején érvényes vonatkozó műszaki követelmények szerint történik. A villamos berendezések minősítése a létesítés idején érvényes vonatkozó műszaki követelmény szerint történik.
+1.13.4.[^18] A villamos berendezések villamos biztonsági felülvizsgálata a felülvizsgálat idején érvényes vonatkozó műszaki követelmények szerint történik. A villamos berendezések minősítése a létesítés idején érvényes vonatkozó műszaki követelmény szerint történik.
 
-1.13.5. Az e rendelet hatálybalépése előtt létesített – a vizsgálatkor érvényes műszaki előírásoknak meg nem felelő – berendezések esetében a felülvizsgálat során tapasztalt hiányosságok pótlása a villamos biztonsági felülvizsgálat végzője által a minősítő iratban meghatározott időpontban, ennek hiányában a villamos berendezés soron következő felújítása idején érvényes vonatkozó követelményeknek megfelelően végzendő el.
+1.13.5.[^19] Az e rendelet hatálybalépése előtt létesített – a vizsgálatkor érvényes műszaki előírásoknak meg nem felelő – berendezések esetében a villamos biztonsági felülvizsgálat során tapasztalt hiányosságok pótlása a villamos biztonsági felülvizsgálat végzője által a minősítő iratban meghatározott időpontig, ennek hiányában a villamos berendezés soron következő felújításakor, a felújítás idején érvényes vonatkozó követelményeknek megfelelően végzendő el.
 
 1.14. A biztonságot érintő javítás után az érintett berendezésrész csak akkor helyezhető újra üzembe, ha a javítást követő vizsgálat a meghibásodás és a veszélyes helyzet vagy állapot megszüntetését igazolja. Ennek során figyelembe kell venni az 1.14.1–1.14.2. pontban foglaltakat.
 
@@ -262,7 +258,7 @@ e) a hálózat berendezései ellenőrzésének és felülvizsgálatának előír
 
 4.8. A felhasználói berendezés üzemeltetőjének a 4.7. pont szerinti karbantartás keretében különös gondot kell fordítania a berendezés túláramvédelmi szerveinek működőképességére, azok beállításának megfelelőségére és olvadóbiztosítóinak épségére. Ha ezekre vonatkozóan az üzemeltető bármilyen rendellenességet észlel, berendezését haladéktalanul ellenőriztetnie kell erősáramú villamos szakképzettségű személlyel, aki a vizsgált berendezés állapotáról írásbeli igazolást ad.
 
-4.9. Ha a felhasználói berendezésben áram-védőkapcsoló van felszerelve, annak működőképességét legalább évente, építési felvonulási területen üzembe helyezéskor és havonta a felhasználói berendezés üzemeltetőjének a próbagomb megnyomásával ellenőriznie kell. Az áram-védőkapcsoló működőképességének ellenőrzéseit – kommunális, lakó- és egyéb épületekben üzemeltetett felhasználói berendezések kivételével – bizonylatolni kell, és a bizonylatokat az üzemeltető legalább a felhasználói berendezés következő időszakos ellenőrzéséig megőrzi, és úgy tárolja, hogy az hozzáférhető legyen.
+4.9.[^20]
 
 4.10. A felhasználói berendezés üzemeltetője az ellenőrzések, vizsgálatok során talált, az e rendeletben meghatározott műszaki biztonsági követelményeknek való nemmegfelelőségeket köteles kijavíttatni. A javítás elvégzéséig a veszélyesnek minősített berendezésrészeket le kell szereltetni, vagy ki kell kapcsolni, és használaton kívül kell helyezni. A feltárt hiányosságok megszüntetését dokumentálni kell, és a dokumentumokat az üzemeltető legalább a következő rendszeres – azonos szintű – ellenőrzésig megőrzi, és úgy tárolja, hogy az hozzáférhető legyen.
 
@@ -320,5 +316,13 @@ c) szigetelésvizsgálatok (szigetelésiellenállás-mérés, villamosszilárds�
 
 d) működési próbák.
 
-[^7]: A 10–11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 27. §-ával megállapított szöveg.
+[^11]: Az 1. melléklet a 27/2020. (VII. 16.) ITM rendelet 27. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet 1.6. pontja a 78/2023. (XII. 29.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^13]: Az 1. melléklet 1.7. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § első b) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 1.8. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § második b) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet 1.13.1. pontja a 78/2023. (XII. 29.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 1. melléklet 1.13.2. pontja a 78/2023. (XII. 29.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 1. melléklet 1.13.3. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 1.13.4. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § d) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 1.13.5. pontja a 78/2023. (XII. 29.) GFM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^20]: Az 1. melléklet 4.9. pontját a 78/2023. (XII. 29.) GFM rendelet 4. §-a hatályon kívül helyezte.

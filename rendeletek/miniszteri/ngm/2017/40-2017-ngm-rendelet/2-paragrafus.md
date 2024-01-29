@@ -1,6 +1,6 @@
 ## 2. Értelmező rendelkezések
 
-## 2. §[^2] E rendelet alkalmazásában:
+## 2. §[^3] E rendelet alkalmazásában:
 
 1. átalakítás: minden olyan beavatkozás, amely villamos berendezés eredeti funkciójának, műszaki kialakításának, technológiai paramétereinek megváltoztatását eredményezi;
 
@@ -66,7 +66,7 @@ d) olyan összekötő berendezések, amelyek az a)–c) pontok szerinti villamos
 
 28. üzemeltetési útmutató: a tervező vagy kivitelező által a villamos üzemi szabályzat kidolgozásának céljára készített műszaki összeállítás arról, hogy a tervek szerinti berendezés biztonságos kezeléséhez milyen szakképzettség, kioktatottság szükséges, továbbá milyen – a megkövetelt szakismereteken túlmenő – helyi követelményeknek kell megfelelni;
 
-29. üzemeltető: a villamos berendezés üzemeltetője, az a természetes személy vagy gazdasági társaság, aki vagy amely a villamos berendezéssel rendelkezni jogosult, vagy akit a villamos berendezéssel rendelkezni jogosult annak üzemeltetésére feljogosított;
+29.[^4] üzemeltető: a villamos berendezés üzemeltetője, az a természetes személy vagy gazdálkodó szervezet, aki vagy amely a villamos berendezéssel rendelkezni jogosult, vagy akit a villamos berendezéssel rendelkezni jogosult annak üzemeltetésére feljogosított;
 
 30. üzemviteli megállapodás: két, egymással műszakilag összekapcsolható villamos hálózat különböző üzemeltetőjének egymás közti megállapodása arról, hogy saját üzemeltetésű hálózatukon hogyan és milyen feltételekkel végezhetnek olyan tevékenységet, amely a másik hálózat üzemvitelére is kihat, továbbá hogyan igényelhetik azt, hogy a kapcsolódó hálózaton a saját hálózatukra kiható tevékenységet végezzenek;
 
@@ -80,4 +80,5 @@ d) olyan összekötő berendezések, amelyek az a)–c) pontok szerinti villamos
 
 35. villamos üzemi szabályzat: az általános, nem egy adott berendezés egyedi körülményeire kidolgozott, magatartási és kezelési szabályok gyűjteménye.
 
-[^2]: A 2. § a 27/2020. (VII. 16.) ITM rendelet 25. §-ával megállapított szöveg.
+[^3]: A 2. § a 27/2020. (VII. 16.) ITM rendelet 25. §-ával megállapított szöveg.
+[^4]: A 2. § 29. pontja a 78/2023. (XII. 29.) GFM rendelet 3. § a) pontja szerint módosított szöveg.
