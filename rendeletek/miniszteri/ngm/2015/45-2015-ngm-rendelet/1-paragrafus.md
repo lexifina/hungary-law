@@ -14,4 +14,13 @@
 
 (7) Több telephelyre kérelmezett akkreditálási eljárás esetén az 1. mellékletben meghatározott akkreditálási díjtétel telephelyenként 10%-kal nő.
 
+(8)[^2] A Nemzeti Adatvédelmi és Információszabadság Hatóság szakhatóságként való eljárásáért fizetendő igazgatási szolgáltatási díj az adatvédelmi tanúsító szervezet
+
+a) akkreditálási eljárásában 192 000 Ft,
+
+b) akkreditált státusza területének bővítési eljárásában 192 000 Ft,
+
+c) kérelmére indult felügyeleti vizsgálati eljárásban 76 800 Ft.
+
 [^1]: Az 1. § (5) bekezdése a 2/2017. (III. 22.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (8) bekezdését a 77/2023. (XII. 29.) GFM rendelet 1. §-a iktatta be.
