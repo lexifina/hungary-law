@@ -1,1 +1,3 @@
-1. § Hatályát veszti a gázüzemű munkagép gáz-üzemanyag ellátó berendezései beszerelésének, karbantartásának, javításának, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakításának műszaki-biztonsági követelményeiről szóló 51/2007. (V. 17.) GKM rendelet 4. § (1) bekezdése.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
