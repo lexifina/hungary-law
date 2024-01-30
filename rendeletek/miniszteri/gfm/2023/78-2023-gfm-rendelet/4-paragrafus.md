@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 40/2017. (XII. 4.) NGM rendelet 1. melléklet 4. pont 4.9. alpontja.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
