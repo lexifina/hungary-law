@@ -1,1 +1,3 @@
-1. § Az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló 35/2014. (XI. 19.) NGM rendelet 17. § (1) bekezdésében az „a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala” szövegrész helyébe az „a műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatal” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
