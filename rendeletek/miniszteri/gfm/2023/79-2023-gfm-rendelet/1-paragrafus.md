@@ -1,1 +1,3 @@
-1. § A gázszerelők és gázkészülék-javítók tevékenysége folytatásának részletes feltételeiről, az e tevékenységek bejelentésének és nyilvántartásának rendjéről, valamint az e tevékenységekre vonatkozó kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekről szóló 42/2017. (XII. 11.) NGM rendelet 2. melléklet „A gázszerelői bejelentés adattartalma” 2.4. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
