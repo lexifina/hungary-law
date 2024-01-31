@@ -6,7 +6,7 @@ b) a közművek által okozott súlyos veszélyhelyzet azonnali elhárítását 
 
 c)[^16] a 3. § (1) bekezdés b) pontja alá nem tartozó, a Nemzeti Adó- és Vámhivatal,
 
-d)[^17]
+d)[^17] a 3. § (1) bekezdés j) pontja alá nem tartozó, a koncessziós szerződésben foglaltak szerint a koncessziós utak üzemeltetésével megbízott üzemeltető társaság
 
 e) a nemzetbiztonsági szolgálatok,
 
@@ -30,7 +30,7 @@ j)[^20]
 
 [^15]: A 4. § (1) bekezdése az 1/2013. (I. 25.) BM rendelet 2. §-ával megállapított szöveg.
 [^16]: A 4. § (1) bekezdés c) pontja a 60/2016. (XII. 29.) BM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: A 4. § (1) bekezdés d) pontját a 16/2019. (V. 3.) BM rendelet 9. § b) pontja hatályon kívül helyezte.
+[^17]: A 4. § (1) bekezdés d) pontját a 16/2019. (V. 3.) BM rendelet 9. § b) pontja hatályon kívül helyezte, újonnan a 4/2024. (I. 30.) BM rendelet 1. § (1) bekezdése iktatta be.
 [^18]: A 4. § (1) bekezdés g) pontja a 2/2015. (II. 3.) BM rendelet 2. §-ával megállapított szöveg.
 [^19]: A 4. § (1) bekezdés h) pontja a 20/2018. (VI. 29.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^20]: A 4. § (1) bekezdés j) pontját a 60/2016. (XII. 29.) BM rendelet 4. §-a hatályon kívül helyezte.
