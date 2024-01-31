@@ -2,4 +2,4 @@
 
 53. §[^54]
 
-[^54]: Az 53. § az 56. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^54]: Az 53. § az 56. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
