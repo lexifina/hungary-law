@@ -1,3 +1,3 @@
-175. §[^13]
+175. §[^14]
 
-[^13]: A 175. § a 171. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^14]: A 175. § a 171. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.

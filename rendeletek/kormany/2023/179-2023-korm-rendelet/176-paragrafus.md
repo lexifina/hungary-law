@@ -1,3 +1,3 @@
-176. §[^14]
+176. §[^15]
 
-[^14]: A 176. § a 171. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^15]: A 176. § a 171. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
