@@ -22,6 +22,8 @@ g) ha azt import áru helyett hazai áru használatától teszik függővé, vag
 
 h) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
+(2a)[^5] Nem minősül exporttámogatásnak az olyan támogatás, amellyel a kereskedelmi vásárokon való részvétel költségeihez vagy olyan tanulmányok vagy tanácsadói szolgáltatások költségeihez járulnak hozzá, amelyek valamely új vagy már meglévő terméknek egy új piacra történő bevezetéséhez szükségesek.
+
 (3) Helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás csak akkor ítélhető meg, ha a kedvezményezett a 651/2014/EU bizottsági rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta.
 
 (4) Azonos vagy részben azonos azonosítható elszámolható költségek esetén az e rendelet szerinti támogatás abban az esetben halmozható más helyi, regionális, államháztartási vagy uniós forrásból származó állami támogatással, ha az nem vezet a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitás túllépéséhez.
@@ -34,6 +36,23 @@ h) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
 
 (8) A több részletben kifizetett támogatást a támogatási döntés időpontja szerinti értékre kell diszkontálni a diszkont kamatláb alkalmazásával.
 
-(9)[^5] E rendelet alapján a 4. § szerinti támogatások esetén 2024. június 30-ig lehet támogatási döntést hozni.
+(8a)[^6] Az általános forgalmi adó nem támogatható, kivéve, ha az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény szerint nem vonható le.
 
-[^5]: Az 5. § (9) bekezdése az 1/2023. (II. 15.) TNM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+(8b)[^7] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege a 651/2014/EU bizottsági rendelet szerinti
+
+a) a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 165 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja a 82,5 millió eurónak megfelelő forintösszeget,
+
+b) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetében meghaladja az egyazon infrastruktúra esetében 11 millió eurónak megfelelő forintösszeget vagy 22 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
+
+(9)[^8] E rendelet alapján
+
+a) a 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2027. június 30-ig,
+
+b) csekély összegű támogatás esetén 2024. június 30-ig
+
+lehet támogatási döntést hozni.
+
+[^5]: Az 5. § (2a) bekezdését az 1/2024. (I. 30.) TNM rendelet 1. § (1) bekezdése iktatta be.
+[^6]: Az 5. § (8a) bekezdését az 1/2024. (I. 30.) TNM rendelet 1. § (2) bekezdése iktatta be.
+[^7]: Az 5. § (8b) bekezdését az 1/2024. (I. 30.) TNM rendelet 1. § (2) bekezdése iktatta be.
+[^8]: Az 5. § (9) bekezdése az 1/2024. (I. 30.) TNM rendelet 1. § (3) bekezdésével megállapított szöveg.

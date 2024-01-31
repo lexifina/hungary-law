@@ -1,10 +1,8 @@
-## 6. § A támogatást nyújtó adatot szolgáltat az európai uniós források felhasználásáért felelős miniszternek a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a kultúra és a kulturális örökség megőrzését előmozdító támogatások, valamint a helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatások esetén, az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
-
 ## 4. Csekély összegű támogatás
 
 7. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(2)[^10] A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt, 2024. január 1-jétől bármely három évben odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
 (3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
@@ -15,3 +13,5 @@
 (6) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
 (7) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az abban meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+
+[^10]: A 7. § (2) bekezdése az 1/2024. (I. 30.) TNM rendelet 10. § a) pontja szerint módosított szöveg.

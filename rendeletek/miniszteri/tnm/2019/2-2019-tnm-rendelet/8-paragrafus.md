@@ -1,6 +1,12 @@
 ## 5. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
-8. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
+8. § (1)[^11] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
+
+a) beruházási támogatásként, ideértve az infrastruktúra építését, bővítését vagy korszerűsítését, valamint
+
+b) zenei és irodalmi alkotások kiadásához nyújtott támogatásként
+
+nyújtható.
 
 (2) A támogatás – a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével – a következőkhöz nyújtható:
 
@@ -15,3 +21,5 @@ d) művészeti vagy kulturális esemény, előadás, fesztivál, kiállítás é
 e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezésmódok sokfélesége védelmének és támogatásának jelentőségét tudatosító, oktatási és társadalmi célú, figyelemfelhívó programok, ideértve az új technológiák alkalmazását is ezen célokra,
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
+
+[^11]: A 8. § (1) bekezdése az 1/2024. (I. 30.) TNM rendelet 3. §-ával megállapított szöveg.
