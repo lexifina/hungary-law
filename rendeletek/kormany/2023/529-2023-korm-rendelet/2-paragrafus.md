@@ -20,7 +20,7 @@
 
 (11)[^12]
 
-(12)[^13]
+(12) Az R. 12. melléklete helyébe a 12. melléklet lép.
 
 [^2]: A 2. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 2. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -33,4 +33,3 @@
 [^10]: A 2. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^11]: A 2. § (10) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^12]: A 2. § (11) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 2. § (12) bekezdése a 4. § (3) bekezdés alapján 2024. január 31-én lép hatályba.
