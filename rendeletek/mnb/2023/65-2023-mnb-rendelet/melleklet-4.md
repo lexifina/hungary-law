@@ -1,3 +1,3 @@
-4. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^25]
+4. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^16]
 
-[^25]: A 4. melléklet a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^16]: A 4. melléklet a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.

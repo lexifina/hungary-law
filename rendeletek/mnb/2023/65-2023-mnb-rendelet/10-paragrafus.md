@@ -1,3 +1,3 @@
-10. §[^10]
+10. § A Rendelet 53. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép, és a Rendelet 53. § (1) bekezdése a következő c) ponttal egészül ki:
 
-[^10]: A 10. § a 14. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+[A készpénzátutalás olyan fizetési számla használata nélküli pénzátutalás, amelynek során a készpénzátutalás tárgyát képező összeget a pénzforgalmi szolgáltató]

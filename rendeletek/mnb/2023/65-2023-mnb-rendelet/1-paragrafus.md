@@ -1,3 +1,3 @@
-1. §[^1]
+1. § A pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet (a továbbiakban: Rendelet) 2. § (1) bekezdése a következő 6a. ponttal egészül ki:
 
-[^1]: Az 1. § a 14. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+(E rendelet alkalmazásában:)
