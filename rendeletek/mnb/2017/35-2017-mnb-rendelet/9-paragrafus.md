@@ -6,7 +6,7 @@
 
 (3) A pénzforgalmi szolgáltató – jogszabály eltérő rendelkezése hiányában vagy, ha a számlatulajdonossal a fizetési megbízás sorba állításában nem állapodik meg – a fizetési számlán pénzügyi fedezet hiánya miatt nem teljesíthető fizetési megbízásokat visszautasítja.
 
-(4)[^14] A pénzforgalmi szolgáltató a (3) bekezdés szerinti visszautasítást belföldi forint fizetési forgalomban – a (9) bekezdésben foglalt kivétellel – legkorábban a fizetési megbízás szerinti terhelési munkanapon 16 óra, illetve munkanapnak minősülő szombati napon 13 óra után teheti meg.
+(4)[^18] A pénzforgalmi szolgáltató a (3) bekezdés szerinti visszautasítást belföldi forint fizetési forgalomban – a (9) bekezdésben foglalt kivétellel – legkorábban a fizetési megbízás szerinti terhelési munkanapon 16 óra, illetve munkanapnak minősülő szombati napon 13 óra után teheti meg.
 
 (5) Jogszabály vagy a számlatulajdonossal történt megállapodás alapján sorba állított fizetési megbízást a sorba állítás időtartamának eredménytelen elteltét követően a pénzforgalmi szolgáltató visszautasítja.
 
@@ -28,7 +28,7 @@ követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A
 
 (10) Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a kedvezményezett felé a (7) és (8) bekezdésben foglaltaknak a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltató útján, a beszedési megbízás hozzá történt beérkezésével azonos módon tesz eleget.
 
-(11)[^15] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
+(11)[^19] Beszedés visszautasítása esetén a fizető fél pénzforgalmi szolgáltatója a fizető fél felé a (7) bekezdésben foglaltaknak legkésőbb a Pft. szerinti utólagos tájékoztatással egyidejűleg tesz eleget.
 
 (12) A (7) bekezdés szerint indokolt visszautasítás esetén a keretszerződés alapján a tényleges és közvetlenül felmerült költséggel arányos díj számítható fel.
 
@@ -36,5 +36,5 @@ követő munkanapon küldi meg vagy teszi elérhetővé az ügyfél számára. A
 
 (14) A visszautasított fizetési megbízást teljesítésre át nem vettnek kell tekinteni.
 
-[^14]: A 9. § (4) bekezdése az 57/2022. (XII. 22.) MNB rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^15]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.
+[^18]: A 9. § (4) bekezdése az 57/2022. (XII. 22.) MNB rendelet 10. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^19]: A 9. § (11) bekezdése az 59. §-sal megállapított szöveg.

@@ -1,4 +1,4 @@
-36. §[^38] (1) A kedvezményezett a pénzforgalmi szolgáltatóval történt megállapodás alapján, a pénzforgalmi szolgáltatóhoz való továbbítás céljából benyújtott fizetési kérelem formájában azonnali átutalást kezdeményezhet a fizető félnél.
+36. §[^42] (1) A kedvezményezett a pénzforgalmi szolgáltatóval történt megállapodás alapján, a pénzforgalmi szolgáltatóhoz való továbbítás céljából benyújtott fizetési kérelem formájában azonnali átutalást kezdeményezhet a fizető félnél.
 
 (2) A kedvezményezett meghatározza a fizetési kérelemben annak érvényességét, amely legfeljebb a fizetési kérelem benyújtását követő két hónap lehet, továbbá feltünteti az azonnali átutalási megbízás megadásához szükséges valamennyi adatot.
 
@@ -16,4 +16,4 @@
 
 (9) A fizető fél pénzforgalmi szolgáltatója a fizetési kérelemnek a fizető fél részére történő megküldéséről vagy annak visszautasításáról a fizetési kérelem beérkezésétől számított öt másodpercen belül értesíti a kedvezményezett fizetési kérelmét továbbító pénzforgalmi szolgáltatót, amely a visszautasításról haladéktalanul értesíti a kedvezményezettet.
 
-[^38]: A 36. § az 57/2022. (XII. 22.) MNB rendelet 7. §-ával megállapított szöveg.
+[^42]: A 36. § az 57/2022. (XII. 22.) MNB rendelet 7. §-ával megállapított szöveg.
