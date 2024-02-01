@@ -72,9 +72,9 @@ i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősí
 
 (3b) A látvány-csapatsportban működő országos sportági szakszövetség gondoskodik a sportágában a játékosügynökök és játékosügynökségek tekintetében az V/A. Fejezet szerinti feladatok ellátásáról.
 
-(4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa) és fb) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
+(4) A látvány-csapatsportban működő szakszövetség által a (2) bekezdés f) pont fa), fb) és fh) alpontja szerinti közigazgatási hatósági eljárásban hozott döntés ellen közigazgatási eljárás keretében fellebbezésnek helye nincs.
 
-(5) A (2) bekezdés f) pont fa) és fb) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(5) A (2) bekezdés f) pont fa), fb) és fh) alpontja alapján végzett közigazgatási hatósági eljárásokért és igazgatási jellegű szolgáltatások igénybevételéért jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
 
 (6) A sportág céljainak elérése érdekében – összhangban a sportág stratégiai fejlesztési koncepciójában foglaltakkal – a szakszövetség szponzorálási és más kereskedelmi szerződéseket köthet, ideértve – e törvény 36–37. §-ában meghatározott módon – a versenyrendszer (bajnokság) kiírásával, szervezésével, lebonyolításával, valamint a versenyrendszerben (bajnokságban) szervezett sportági sportrendezvényekkel kapcsolatos vagyoni értékű jogok hasznosítását is.
 
