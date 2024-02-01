@@ -1,4 +1,4 @@
-1. melléklet az 526/2022. (XII. 16.) Korm. rendelethez
+1. melléklet az 526/2022. (XII. 16.) Korm. rendelethez[^28]
 
 Fajlagos benchmark beruházási értékek
 
@@ -10,9 +10,9 @@ Fajlagos benchmark beruházási értékek
 
 | 3. | Hulladéklerakóból származó gáz | 525 |
 
-| 4. | Napelem[^24] | 325 |
+| 4. | Napelem | 325 |
 
-| 5. | Energia-tároló vagy földgáz üzemű gázmotoros erőmű[^25] | 375 |
+| 5. | Energia-tároló vagy földgáz üzemű gázmotoros erőmű | 375 |
 
 | 6. | Szilárd biomassza (vegyes tüzelés nélküli) | 1025 |
 
@@ -22,7 +22,8 @@ Fajlagos benchmark beruházási értékek
 
 | 9. | Vízerőmű | 1025 |
 
+| 10. | Szélerőmű | 406 |
+
 A fajlagos benchmark beruházási érték az itt fel nem sorolt technológiák esetén 1025 M Ft/MWe. A MWe értékek a névleges villamos teljesítőképességet jelölik, amit inverteres erőművek esetén az inverterek váltóáram (AC) oldali névleges aktív (wattos) teljesítőképessége alapján kell meghatározni.
 
-[^24]: Az 1. mellékletben foglalt táblázat A:4 mezője a 31/2023. (II. 8.) Korm. rendelet 7. § c) pontjával megállapított szöveg.
-[^25]: Az 1. mellékletben foglalt táblázat A:5 mezője a 31/2023. (II. 8.) Korm. rendelet 7. § d) pontjával megállapított szöveg.
+[^28]: Az 1. melléklet a 14/2024. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.

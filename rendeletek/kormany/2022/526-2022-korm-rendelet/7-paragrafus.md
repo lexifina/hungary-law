@@ -1,4 +1,4 @@
-7. § (1)[^5] Az 1. § (2) bekezdés a) pontja szerinti hálózati csatlakozási szerződésben és a b) és c) pont esetén megkötésre kerülő hálózati csatlakozási szerződésben (a továbbiakban együtt: hálózati csatlakozási szerződés) a csatlakozás igénybevételére – üzembe helyezésére – nyitva álló határidőnek a hálózati engedélyes 6. § (4) bekezdése szerinti tájékoztatójában – a 11. § (14) bekezdése szerinti esetben az 1. § (3) bekezdése szerinti nyilatkozatban – megjelölt naptári év utolsó napját követő harmincadik nap minősül.
+7. § (1)[^5] Az 1. § (2) bekezdés a) pontja szerinti hálózati csatlakozási szerződésben és a b) és c) pont esetén megkötésre kerülő hálózati csatlakozási szerződésben (a továbbiakban együtt: hálózati csatlakozási szerződés) a csatlakozás igénybevételére – üzembe helyezésére – nyitva álló határidőnek a hálózati engedélyes 6. § (4) bekezdése szerinti tájékoztatójában – a 11. § (14) bekezdése szerinti esetben az 1. § (3) bekezdése szerinti nyilatkozatban – megjelölt naptári év utolsó napját követő harmadik hónap harmincadik napja minősül.
 
 (2)[^6] A csatlakozás igénybevételére vonatkozó legkorábbi időpont a hálózati engedélyes 6. § (4) bekezdése szerinti tájékoztatójában – a 11. § (14) bekezdése szerinti esetben az 1. § (3) bekezdése szerinti nyilatkozatban – megjelölt naptári év első hónapjának 30. napja, amelyet megelőzően az igénybejelentő a csatlakozást nem jogosult igénybe venni.
 
@@ -12,5 +12,5 @@
 
 (7) Az igénybejelentő 1. § (4) bekezdés c) pontja szerinti nyilatkozata esetén – a pénzügyi biztosíték teljesítésével vagy a 6. § (6) bekezdése szerinti elfogadó nyilatkozat megtételével – a nyilatkozatban meghatározott csökkentett betáplálási teljesítmény szerinti csatlakozásra jogosult. Ha a csökkentett betáplálási teljesítmény miatt a hálózati csatlakozási szerződés műszaki tartalmának módosítása szükséges, úgy a felek kizárólag a műszaki tartalom tekintetében módosítják a hálózati csatlakozási szerződést.
 
-[^5]: A 7. § (1) bekezdése a 94/2023. (III. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: A 7. § (1) bekezdése a 94/2023. (III. 29.) Korm. rendelet 5. § a) pontja, a 14/2024. (I. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^6]: A 7. § (2) bekezdése a 94/2023. (III. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

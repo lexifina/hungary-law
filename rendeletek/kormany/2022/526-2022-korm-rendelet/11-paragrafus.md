@@ -46,6 +46,22 @@ cb) közvetlenül vagy aggregátoron keresztül aFRR kiegyenlítő szabályozás
 
 (17)[^23] Az 1. § (4) bekezdése szerinti nyilatkozattételtől függetlenül, e rendelet egyéb rendelkezéseinek alkalmazása nélkül jogosult a csatlakozás igénybevételére az államháztartási rendszerbe tartozó igénybejelentő, amennyiben az 1. § (4) bekezdés a) pontja szerinti körülmény fennállását a hálózati engedélyes felé az 1. § (5) bekezdésének megfelelően 2023. április 15. napjáig igazolja.
 
+(18)[^24] Ha a hálózati engedélyes 6. § (4) bekezdése szerinti tájékoztatójában – a 11. § (14) bekezdése szerinti esetben az 1. § (3) bekezdése szerinti nyilatkozatban – megjelölt naptári év 2023, akkor az igénybejelentő az érintett hálózati engedélyeshez intézett egyoldalú nyilatkozatával a csatlakozás igénybevételére vonatkozó, 7. § (1) bekezdése szerinti határidő egy évvel történő meghosszabbítását kérheti. A határidő meghosszabbítására irányuló kérelmet a hálózati engedélyes befogadja, ha
+
+a) az igénybejelentő a kérelmet legkésőbb 2024. február 5. napjáig igazolható módon megküldi a hálózati engedélyes számára, és
+
+b) az igénybejelentő rendelkezik elektronikus építési naplóval, amely szerint a munkaterület átadása már megtörtént.
+
+(19)[^25] A határidő (18) bekezdés szerinti meghosszabbítása esetén a hálózati engedélyes az 5. § (1) bekezdése és a 10. § (1) bekezdése szerinti pénzügyi biztosítéknak a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat meghaladó részét az 5. § (4) bekezdésétől és a 10. § (6) bekezdésétől eltérően nem téríti vissza, illetve a bankgarancia formájában nyújtott pénzügyi biztosítéknak a hálózati csatlakozási szerződés szerint elszámolható csatlakozási díjat meghaladó részét lehívja. Erre figyelemmel a határidő (18) bekezdés szerinti meghosszabbítása esetén a 10. § (4) bekezdése nem alkalmazható.
+
+(20)[^26] A (18) bekezdés szerint meghosszabbított határidő elmulasztása esetén
+
+a) az igénybejelentő csatlakozásra vonatkozó rendelkezési joga a csatlakozásra nyitva álló határidő leteltét követő napon megszűnik, és
+
+b) az igénybejelentő elveszíti az általa korábban az elosztói vagy üzemi szabályzat vagy az e rendelet alapján teljesített pénzügyi biztosítékot.
+
+(21)[^27] A (20) bekezdés szerinti esetben a hálózati engedélyes a csatlakozásra nyitva álló határidőt követő 45 napon belül a megfizetett csatlakozási díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel elszámolja.
+
 [^13]: A 11. § (6) bekezdése a 31/2023. (II. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^14]: A 11. § (10) bekezdése az 500/2023. (XI. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^15]: A 11. § (11) bekezdése a 94/2023. (III. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -57,3 +73,7 @@ cb) közvetlenül vagy aggregátoron keresztül aFRR kiegyenlítő szabályozás
 [^21]: A 11. § (15) bekezdését a 94/2023. (III. 29.) Korm. rendelet 4. §-a iktatta be.
 [^22]: A 11. § (16) bekezdését a 94/2023. (III. 29.) Korm. rendelet 4. §-a iktatta be.
 [^23]: A 11. § (17) bekezdését a 94/2023. (III. 29.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A 11. § (18) bekezdését a 14/2024. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^25]: A 11. § (19) bekezdését a 14/2024. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 11. § (20) bekezdését a 14/2024. (I. 31.) Korm. rendelet 1. §-a iktatta be.
+[^27]: A 11. § (21) bekezdését a 14/2024. (I. 31.) Korm. rendelet 1. §-a iktatta be.
