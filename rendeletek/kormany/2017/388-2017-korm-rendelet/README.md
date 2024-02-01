@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-388-20-
 | 2023-10-01 | 2017-388-20-22.21 | 6/2020. (I. 31.) Korm. rendelet |
 | 2024-01-01 | 2017-388-20-22.22 | 529/2023. (XII. 1.) Korm. rendelet |
 | 2024-01-31 | 2017-388-20-22.23 | 529/2023. (XII. 1.) Korm. rendelet |
+| 2024-02-01 | 2017-388-20-22.24 | 529/2023. (XII. 1.) Korm. rendelet |
