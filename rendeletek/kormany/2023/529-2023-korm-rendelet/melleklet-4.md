@@ -1,3 +1,3 @@
-4. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^17]
+4. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^8]
 
-[^17]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

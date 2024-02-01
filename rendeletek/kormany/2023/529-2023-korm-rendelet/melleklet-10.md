@@ -1,3 +1,3 @@
-10. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^23]
+10. melléklet az 529/2023. (XII. 1.) Korm. rendelethez[^14]
 
-[^23]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
