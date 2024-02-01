@@ -1,7 +1,3 @@
-## „a) előzetesen, megalapozott előrejelzések alapján vagy”
+9. §[^10]
 
-## (kell levonni az elszámolható költségekből.)
-
-9. § Az R. 18. § b) pontja helyébe a következő rendelkezés lép:
-
-(E rendelet)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1-20-6F
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-01-31 | 2024-1-20-6F.1 | 1/2024. (I. 30.) TNM rendelet |
+| 2024-02-01 | 2024-1-20-6F.2 | 2010. évi CXXX. törvény |

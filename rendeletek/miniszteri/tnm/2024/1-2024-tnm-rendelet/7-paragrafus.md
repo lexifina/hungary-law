@@ -1,7 +1,3 @@
-7. § Az R. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) Nem nyújtható támogatás
-
-a) olyan infrastruktúra fejlesztésre, amelyre – a regionális beruházási támogatás kivételével – a 651/2014/EU bizottsági rendelet egyéb cikke alapján támogatás nyújtható,
-
-b) dedikált infrastruktúra fejlesztéséhez.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
