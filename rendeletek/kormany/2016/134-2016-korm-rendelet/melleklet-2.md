@@ -112,8 +112,6 @@
 
 | Budapest VIII. kerület |
 
-| Budapest IX. kerület |
-
 | 18. | Észak-Pesti | Budapest XV. kerület |
 
 | Budapest XVI. kerület |
@@ -132,7 +130,9 @@
 
 | Budapest XX. kerület |
 
-| 22. | Dél-Pesti | Budapest XXI. kerület |
+| 22. | Dél-Pesti | Budapest IX. kerület |
+
+| Budapest XXI. kerület |
 
 | Budapest XXIII. kerület |
 
