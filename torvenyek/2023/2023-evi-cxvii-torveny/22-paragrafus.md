@@ -1,6 +1,6 @@
 22. § A Kbt.
 
-1. 37. § (4) bekezdésében a „három munkanapon belül” szövegrész helyébe a „húsz napon belül” szöveg,
+1.
 
 2. 65. § (11) bekezdésében a „fennáll” szövegrész helyébe az „a jogutódlás időpontjában fennállt és továbbra is fennáll” szöveg,
 
@@ -18,7 +18,7 @@
 
 9. 125. § (4) bekezdés nyitó szövegrészében a „szempontok vagy az azok keretében megadott alszempontok” szövegrész helyébe a „szempontok” szöveg,
 
-10. 127. § (1) bekezdésében az „az ajánlatok elbírálásának befejezését követően köteles olyan” szövegrész helyébe az „az ajánlatok elbírálásának befejezését követően – amennyiben az eljárásban több részre történő ajánlattételt tett lehetővé, az uniós értékhatárt elérő értékű koncessziónál választása szerint adott esetben részenként – köteles olyan” szöveg,
+10.
 
 11. 151. § (1) bekezdésében a „149. § (1)–(2)” szövegrész helyébe a „149. § (1)” szöveg,
 
