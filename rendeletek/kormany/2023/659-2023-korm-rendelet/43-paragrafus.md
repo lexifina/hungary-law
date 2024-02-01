@@ -1,3 +1,3 @@
-43. §[^49]
+43. §[^47]
 
-[^49]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 43. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
