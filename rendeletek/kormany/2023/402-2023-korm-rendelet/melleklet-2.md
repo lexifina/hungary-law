@@ -3250,6 +3250,27 @@
 
 | 1624 | Zala vármegye | Zebecke |
 
-2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez[^11]
+2. melléklet a 402/2023. (VIII. 30.) Korm. rendelethez
 
-[^11]: A 2. melléklet a 2. § (2) bekezdés alapján 2024. február 1-jén lép hatályba.
+1.[^10]
+
+2.[^11]
+
+3. A 134/2016. (VI. 10.) Korm. rendelet 1. mellékletében foglalt táblázat 22. sora helyébe a következő rendelkezés lép:
+
+|  | (A | B | C |
+
+| 1. | VÁRMEGYE | TANKERÜLETI KÖZPONT | TANKERÜLETI KÖZPONT FELADATELLÁTÁSI TERÜLETE) |
+
+„
+
+| 22. | (BUDAPEST) | Dél-Pesti | Budapest IX. kerület |
+
+| Budapest XXI. kerület |
+
+| Budapest XXIII. kerület |
+
+”
+
+[^10]: A 2. melléklet 1. pontja a 11/2024. (I. 25.) Korm. rendelet 8. §-a alapján nem lép hatályba.
+[^11]: A 2. melléklet 2. pontja a 11/2024. (I. 25.) Korm. rendelet 8. §-a alapján nem lép hatályba.
