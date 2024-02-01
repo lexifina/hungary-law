@@ -12,7 +12,7 @@
 
 6.
 
-7.
+7. 22. § (4) és (5) bekezdésében az „fa) és fb) alpontja” szövegrész helyébe az „fa), fb) és fh) alpontja” szöveg,
 
 8.
 
