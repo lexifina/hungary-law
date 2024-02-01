@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-53-00-00
 | 2023-12-31 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-53-00-00.17 |
 | 2024-01-01 | 2023. évi CVII. törvény | 2023-53-00-00.18 |
 | 2024-01-02 | 2010. évi CXXX. törvény | 2023-53-00-00.19 |
+| 2024-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-53-00-00.20 |
