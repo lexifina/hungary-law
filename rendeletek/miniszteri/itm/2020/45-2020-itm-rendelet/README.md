@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2023-12-10 | 2020-45-20-7Q.12 | 22/2023. (XII. 5.) ÉKM rendelet |
 | 2024-01-01 | 2020-45-20-7Q.13 | 22/2023. (XII. 5.) ÉKM rendelet |
 | 2024-01-03 | 2020-45-20-7Q.15 | 46/2023. (XII. 29.) ÉKM rendelet |
+| 2024-02-01 | 2020-45-20-7Q.14 | 22/2023. (XII. 5.) ÉKM rendelet |

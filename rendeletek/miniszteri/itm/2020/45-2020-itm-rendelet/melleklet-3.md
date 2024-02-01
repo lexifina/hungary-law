@@ -8,12 +8,10 @@
 
 | 4. | D2 | 8 000 | 12 600 | 69 830 | 11 450 |
 
-| 5. | B2 | 17 730 | 25 150 | 228 850 | 22 890 |
+| 5. | U | 5 500 | 8 900 | 49 190 | 5 720 |
 
-| 6. | U | 5 500 | 8 900 | 49 190 | 5 720 |
-
-3. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^50]
+3. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^53]
 
 A jogosulatlan úthasználat után fizetendő pótdíj és pótdíjkülönbözet mértékének alapja
 
-[^50]: A 3. melléklet az 52/2023. (XII. 29.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^53]: A 3. melléklet a 22/2023. (XII. 5.) ÉKM rendelet 3. § (8) bekezdésével megállapított szöveg.

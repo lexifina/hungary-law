@@ -14,8 +14,8 @@ b) külföldi rendszámmal rendelkező gépjárművek esetében – ha arra más
 
 közreműködő útján állapítja meg.
 
-(6)[^21] A pótdíj utólagos megfizetésére a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat időpontjában nyilvántartott – nem tulajdonos üzembentartója, ennek hiányában a gépjármű tulajdonosa (a továbbiakban együtt: üzembentartó) köteles. Járműszerelvény esetén, ha a vontatmány az U díjkategóriába tartozik, és a díjfizetés ellenőrzésére jogosult szervezet a vontatmány tekintetében jogosulatlan úthasználatot állapít meg, a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles.
+(6)[^24] A pótdíj utólagos megfizetésére a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat időpontjában nyilvántartott – nem tulajdonos üzembentartója, ennek hiányában a gépjármű tulajdonosa (a továbbiakban együtt: üzembentartó) köteles. Járműszerelvény esetén, ha a vontatmány az U díjkategóriába tartozik, és a díjfizetés ellenőrzésére jogosult szervezet a vontatmány tekintetében jogosulatlan úthasználatot állapít meg, a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles.
 
 (7) A pótdíjat a NÚSZ Zrt. szedi be, amelynek során a NÚSZ Zrt. vagy az általa igénybe vett közreműködő jogosult a pótdíj behajtásával kapcsolatban felmerülő igazolt költségét is érvényesíteni.
 
-[^21]: A 11. § (6) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 4. §-a szerint módosított szöveg.
+[^24]: A 11. § (6) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 4. §-a szerint módosított szöveg.
