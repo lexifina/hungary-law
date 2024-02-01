@@ -1,3 +1,3 @@
-21. § Az Inyvhr. 171. § (2) bekezdése helyébe a következő rendelkezés lép:
+21. §[^21]
 
-„(2) Az I–IX. Fejezet, a 172. §, a 173. § és a 175–179. § 2024. október 1-jén lép hatályba.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

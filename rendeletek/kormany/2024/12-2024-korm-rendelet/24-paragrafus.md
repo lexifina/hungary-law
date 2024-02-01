@@ -1,5 +1,5 @@
 ## 2. Az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet módosítása
 
-24. § Az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet 56. § (2) bekezdése helyébe a következő rendelkezés lép:
+24. §[^24]
 
-„(2) Az 53. § 2024. október 1-jén lép hatályba.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

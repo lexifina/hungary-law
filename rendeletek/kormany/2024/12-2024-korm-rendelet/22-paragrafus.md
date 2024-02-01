@@ -1,3 +1,3 @@
-22. §[^21]
+22. §[^22]
 
-[^21]: A 22. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^22]: A 22. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
