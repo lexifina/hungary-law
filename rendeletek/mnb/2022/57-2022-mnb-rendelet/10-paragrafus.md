@@ -1,9 +1,8 @@
-10. § (1)[^15]
+10. § (1)[^12]
 
-(2)[^16]
+(2)[^13]
 
-(3)[^17]
+(3) A Rendelet 14. § (6a) bekezdésében a „4. § (1) bekezdés második mondata” szövegrész helyébe a „4. § (2) bekezdése” szöveg lép.
 
-[^15]: A 10. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 10. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 10. § (3) bekezdése a 12. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^12]: A 10. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 10. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
