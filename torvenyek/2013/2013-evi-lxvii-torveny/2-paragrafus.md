@@ -42,7 +42,7 @@
 
 20. útdíjköteles elemi útszakasz: az útdíjfizetés ellenében használható közúthálózatnak a díjmeghatározás szempontjából két útszelvényében lehatárolt része;
 
-21. útdíjköteles gépjármű: a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
+21. útdíjköteles gépjármű: az autóbusz, a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény;
 
 22. útdíjszedés: az útdíj beszedésére irányuló cselekmények összessége;
 
