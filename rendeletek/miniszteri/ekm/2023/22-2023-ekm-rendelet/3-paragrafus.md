@@ -10,17 +10,15 @@
 
 (5)[^7]
 
-(6)[^8]
+(6) A Díjrendelet 2. melléklete helyébe a 4. melléklet lép.
 
-(7)[^9]
+(7)[^8]
 
-(8)[^10]
+(8) A Díjrendelet 3. melléklete helyébe a 6. melléklet lép.
 
 [^3]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 3. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^6]: A 3. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. § (6) bekezdése a 6. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
-[^9]: A 3. § (7) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 7. §-a alapján nem lép hatályba.
-[^10]: A 3. § (8) bekezdése a 6. § (3) bekezdés alapján 2024. február 1-jén lép hatályba.
+[^8]: A 3. § (7) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 7. §-a alapján nem lép hatályba.
