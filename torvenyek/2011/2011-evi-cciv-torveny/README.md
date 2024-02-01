@@ -96,3 +96,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-204-00-00
 | 2023-11-19 | 2023. évi XXXVIII. törvény | 2011-204-00-00.87 |
 | 2023-12-21 | 2023. évi LXXXV. törvény | 2011-204-00-00.91 |
 | 2024-01-01 | 2023. évi LXXXV. törvény | 2011-204-00-00.90 |
+| 2024-02-01 | 2023. évi LXXXV. törvény | 2011-204-00-00.92 |
