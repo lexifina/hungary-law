@@ -16,6 +16,6 @@ g) a közbeszerzési ügy lehetséges érdekeltjeinek a kérelmező által ismer
 
 h) az esetleges előzetes vitarendezés lefolytatását, továbbá annak eredményét, illetve az ajánlatkérő válaszát, amelyet csatolni is kell.
 
-(2) A kérelmet eggyel több példányban kell benyújtani, mint ahány – a kérelmező által ismert – ügyfél az eljárásban részt vesz.
+(2)
 
-(3) A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani, amit – elektronikus levél útján történő benyújtás esetén – a Közbeszerzési Döntőbizottság egy munkanapon belül visszaigazol.
+(3) A benyújtott kérelem informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani.

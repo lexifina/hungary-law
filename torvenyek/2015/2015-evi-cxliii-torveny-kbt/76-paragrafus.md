@@ -46,13 +46,13 @@ még akkor is, ha ezek érdemben nem határozzák meg az építési beruházás,
 
 a) a legalacsonyabb költséget vagy a legjobb ár-érték arányt megjelenítő értékelési szempontokat és az azok súlyát meghatározó – az értékelési szempont tényleges jelentőségével arányban álló – szorzószámokat (a továbbiakban: súlyszám),
 
-b) ha az értékelési szempont körében alszempontok is meghatározásra kerülnek, alszempontonként azok – tényleges jelentőségével arányban álló – súlyszámát,
+b)
 
 c) az ajánlatok értékelési szempontok szerinti tartalmi elemeinek értékelése során adható pontszám alsó és felső határát, amely minden értékelési szempont esetében azonos,
 
 d) azt a módszert (módszereket), amellyel megadja a ponthatárok [c) pont] közötti pontszámot.
 
-(10) A (9) bekezdésben foglaltakat az eljárást megindító felhívásban meg kell adni azzal, hogy a (9) bekezdés d) pontja szerinti módszer (módszerek) részletes ismertetése az egyéb közbeszerzési dokumentumokban is megadható. Kivételes esetben, ha a (9) bekezdés a) vagy b) pontja szerinti súlyszám meghatározása objektív okból nem lehetséges – és ezt az ajánlatkérő az eljárást megindító felhívásban egyértelműen alátámasztja –, az ajánlatkérőnek csökkenő fontossági sorrendben kell feltüntetnie a szempontokat. Ebben az esetben a 77. § (2) bekezdése nem alkalmazandó, az ajánlatkérőnek az értékelés során alkalmazott módszer leírását a közbeszerzési dokumentumokban kell meghatározni.
+(10) A (9) bekezdésben foglaltakat az eljárást megindító felhívásban meg kell adni azzal, hogy a (9) bekezdés d) pontja szerinti módszer (módszerek) részletes ismertetése az egyéb közbeszerzési dokumentumokban is megadható. Kivételes esetben, ha a (9) bekezdés a) pontja szerinti súlyszám meghatározása objektív okból nem lehetséges – és ezt az ajánlatkérő az eljárást megindító felhívásban egyértelműen alátámasztja –, az ajánlatkérőnek csökkenő fontossági sorrendben kell feltüntetnie a szempontokat. Ebben az esetben a 77. § (2) bekezdése nem alkalmazandó, az ajánlatkérőnek az értékelés során alkalmazott módszer leírását a közbeszerzési dokumentumokban kell meghatározni.
 
 (11) Ha az ajánlatkérő az áru, szolgáltatás vagy építési beruházás értékeléskor figyelembe vett költségét életciklusköltség-számítási módszer alkalmazásával határozza meg, a (9) és (10) bekezdéstől eltérően a 78. §-ban foglaltak szerint adja meg az eljárást megindító felhívásban és a közbeszerzési dokumentumokban az erre vonatkozó információkat.
 

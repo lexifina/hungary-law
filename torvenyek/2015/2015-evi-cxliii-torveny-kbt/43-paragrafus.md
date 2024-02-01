@@ -34,6 +34,8 @@ ea) az alvállalkozó megnevezését, adószámát, a közbeszerzésnek azt a r�
 
 eb) az alvállalkozói teljesítés tényleges százalékos arányát az ajánlattevői teljesítésen belül, az ellenszolgáltatás teljesítésének időpontját és a kifizetett ellenszolgáltatás értékét az (1) bekezdés c) pontja szerinti adatok rögzítésével egy időben.
 
+f) a szerződés megszüntetésének, felbontásának vagy érvénytelensége megállapításának tényét, a 135. § (12) bekezdése alkalmazásával megkötött szerződés hatályba nem lépése esetén ennek tényét, azon időpontot követő harminc napon belül, amikor a szerződés megszűnt, felbontották, érvénytelenségét megállapították, illetve hatálybalépése meghiúsult.
+
 (3) Az (1)–(2) bekezdés szerinti adatok közérdekből nyilvános adatok, azok nyilvánosságra hozatala üzleti titokra hivatkozással nem tagadható meg. Ettől eltérően amennyiben a felek az ajánlatot a szerződés mellékletévé teszik, az ajánlat nyilvánosságára a 44. § alkalmazandó.
 
 (4) A (2) bekezdés a) pontja szerinti közbeszerzési tervnek a tárgyévet követő évre vonatkozó közbeszerzési terv EKR-ben történő közzétételéig kell elérhetőnek lennie.

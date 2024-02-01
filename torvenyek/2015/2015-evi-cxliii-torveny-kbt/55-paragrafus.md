@@ -12,7 +12,7 @@
 
 (5) A meghívásos eljárás ajánlattételi szakaszában nem módosítható az ajánlattételi felhívás vagy a közbeszerzési dokumentumok olyan eleme, amely a részvételi felhívásban is szerepelt.
 
-(6) A felhívás és az egyéb közbeszerzési dokumentumok módosítása nem eredményezheti a beszerzés tárgyára vagy a szerződés feltételeire vonatkozó feltételek olyan jelentőségű módosítását, ahol az új feltételek ismerete alapvetően befolyásolhatta volna az érdekelt gazdasági szereplők arra vonatkozó döntését, hogy a közbeszerzési eljárásban tudnak-e részvételre jelentkezni vagy ajánlatot tenni, vagy a változást figyelembe véve az ajánlatkérőnek az alkalmassági követelményeket úgy kellett volna meghatároznia, hogy az eljárásban több gazdasági szereplő is részt vehetett volna.
+(6) A felhívás és az egyéb közbeszerzési dokumentumok módosítása nem eredményezheti a közbeszerzési eljárással vagy a megkötendő szerződéssel összefüggő feltételek olyan módosítását, ahol az új feltételek ismerete alapvetően befolyásolhatta volna az adott közbeszerzési eljárás iránt érdeklődő gazdasági szereplők körét.
 
 (7) Az ajánlattevő és a részvételre jelentkező az ajánlattételi, illetve részvételi határidő lejártáig új ajánlat, illetve részvételi jelentkezés benyújtásával módosíthatja az ajánlatát, illetve részvételi jelentkezését. Ebben az esetben az elsőként benyújtott ajánlatot vagy részvételi jelentkezést az új ajánlat vagy részvételi jelentkezés megtétele előtt vissza kell vonnia.
 

@@ -32,7 +32,7 @@ d) bírságot szabhat ki a jogsértő szervezettel vagy személlyel, valamint a 
 
 (4) A (3) bekezdés d) pontja szerinti bírság összege – a (11) bekezdésben foglaltak figyelembevételével – a közbeszerzési eljárás becsült értékének, illetve részajánlattétel esetében a jogorvoslattal érintett rész értékének legfeljebb 10%-a.
 
-(5) Ha a kérelemmel érintett jogsértéssel összefüggésben előzetes vitarendezést kérelmeztek és az ajánlatkérő a jogsértéssel kapcsolatban álláspontját megküldte, de egyéb intézkedést nem tett, ezen jogsértés tekintetében a (3) bekezdés d) pontja szerinti bírság összege – a (11) bekezdésben foglaltak figyelembevételével – a közbeszerzési eljárás becsült értékének, illetve részajánlattétel esetében a jogorvoslattal érintett rész értékének legfeljebb 15%-a.
+(5) Ha a kérelemmel érintett jogsértéssel összefüggésben előzetes vitarendezést kérelmeztek és az ajánlatkérő a jogsértés orvoslása érdekében intézkedést nem tett, ezen jogsértés tekintetében a (3) bekezdés d) pontja szerinti bírság összege – a (11) bekezdésben foglaltak figyelembevételével – a közbeszerzési eljárás becsült értékének, illetve részajánlattétel esetében a jogorvoslattal érintett rész értékének legfeljebb 15%-a.
 
 (6) A Közbeszerzési Döntőbizottság a jogsértés megállapítása mellett bírságot szab ki, ha
 

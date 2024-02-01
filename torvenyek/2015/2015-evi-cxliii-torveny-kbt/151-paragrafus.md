@@ -1,4 +1,4 @@
-151. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 148. § (1)–(9) bekezdésének, a 149. § (1)–(2) bekezdésének, valamint a 150. § (1)–(2) bekezdésének megfelelő kérelem beérkezését követő munkanapon indítja meg.
+151. § (1) A Közbeszerzési Döntőbizottság a jogorvoslati eljárást legkésőbb a 148. § (1)–(9) bekezdésének, a 149. § (1) bekezdésének, valamint a 150. § (1)–(2) bekezdésének megfelelő kérelem beérkezését követő munkanapon indítja meg.
 
 (2) A Közbeszerzési Döntőbizottság öt napos határidő tűzésével hiánypótlási felhívást bocsát ki, ha
 
@@ -26,4 +26,4 @@ Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a
 
 (9) Ha a jogorvoslati ügyet lezáró érdemi határozatban a Közbeszerzési Döntőbizottság a Kbt. 165. § (2) bekezdés c)–f) pontja szerinti döntést hoz, a befizetett igazgatási szolgáltatási díj háromszázezer forintot meghaladó része a kérelmezőnek a Közbeszerzési Döntőbizottság érdemi határozatának megküldését követő 8 napon belül visszajár. Az igazgatási szolgáltatási díj összegéből háromszázezer forint ilyenkor is a Közbeszerzési Hatóság saját bevétele, amelynek viseléséről a Közbeszerzési Döntőbizottság az Ákr. szerint az eljárási költségekre vonatkozó általános szabályok szerint rendelkezik. Az alaptalan kérelem esetében a díj nem kerül visszatérítésre, a kérelmező viseli az igazgatási szolgáltatási díj teljes összegét.
 
-(10) Ha a kérelmező jogorvoslati kérelmében több jogsértés megállapítását is kérte, de a Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában a kérelemnek csak részben ad helyt, az igazgatási szolgáltatási díjnak a Közbeszerzési Hatóság (2) bekezdés szerinti saját bevételével csökkentett részét az alapos és alaptalan kérelmek arányának figyelembevételével téríti vissza a kérelmezőnek.
+(10) Ha a kérelmező jogorvoslati kérelme több kérelmi elemet tartalmaz, de a Közbeszerzési Döntőbizottság az ügy érdemében hozott határozatában csak ezek egy részének ad helyt, az igazgatási szolgáltatási díjnak a Közbeszerzési Hatóság (9) bekezdés szerinti saját bevételével csökkentett részét az alapos és alaptalan kérelmek arányának figyelembevételével téríti vissza a kérelmezőnek.

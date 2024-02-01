@@ -55,3 +55,5 @@ b) aki, illetve amely az ajánlatkérő által folytatott előzetes piaci konzul
 c) akitől, illetve amelytől az ajánlatkérő a támogatásra irányuló igény (pályázat) benyújtásához szükséges árajánlatot kapott,
 
 feltéve, hogy az a), b) vagy a c) pont alkalmazása kapcsán az ajánlatkérő nem közölt vele a közbeszerzési eljárás során az összes ajánlattevő vagy részvételre jelentkező részére rendelkezésre bocsátott adatok körét meghaladó információt, valamint az ajánlattételi határidő meghatározása biztosítja az egyenlő bánásmód elvének érvényesülését.
+
+(10) Az ajánlatkérő az e § szerinti kötelezettségeinek teljesítéséhez kért nyilatkozatokban vagy egyéb dokumentumokban foglalt, egyes személyek összeférhetetlenségének vizsgálata szempontjából releváns, e személyek vagy hozzátartozóik pénzügyi, gazdasági és személyi viszonyaira vonatkozó adatok kezelésére a 46. § (2) bekezdése szerinti iratmegőrzési kötelezettség lejártáig jogosult.

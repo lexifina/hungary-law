@@ -60,12 +60,12 @@
 
 a) a hirdetmények és a közbeszerzési terv megküldésének, feladásának és közzétételének szabályait, a hirdetmények ellenőrzésének rendjét és – az adópolitikáért felelős miniszter egyetértésével – díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat, továbbá a Közbeszerzési Értesítőben, illetve a Közbeszerzési Hatóság honlapján történő közzététel rendjét, valamint – az adópolitikáért felelős miniszter egyetértésével – a hirdetmény nélküli tárgyalásos eljárások 103. § szerinti, Közbeszerzési Hatóság által végzett törvényességi ellenőrzése díjának mértékét, és a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
-b) a hirdetmények, és a bírálati összegezések mintáját, a hirdetmények egyes tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
+b) a hirdetmények mintáját, a hirdetmények és a bírálati összegezések tartalmi elemeit, a közbeszerzési terv minimális adattartalmát;
 
 c) az állami közbeszerzési szaktanácsadók névjegyzékbe vételéért fizetendő – az adópolitikáért felelős miniszter egyetértésével megállapított – igazgatási szolgáltatási díj mértékére, a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére, valamint a névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért fizetendő igazgatási szolgáltatási díj mértékére, kezelésére, nyilvántartására, visszatérítésére vonatkozó szabályokat;
 
 d) az EKR használatáért fizetendő szolgáltatási díjjal, az EKR használatáért fizetendő díj befizetésének elmulasztása esetén a rendszer üzemeltetője által alkalmazható intézkedésekkel, az EKR fenntartásával és működtetésével kapcsolatos sajátos szabályokat;
 
-e) a Közbeszerzési Döntőbizottság eljárásáért fizetendő igazgatási szolgáltatási díj – az adópolitikáért felelős miniszter egyetértésével megállapított – mértékét, megfizetésének módját, továbbá megfizetésének, valamint viselésének szabályait;
+e)
 
 f)

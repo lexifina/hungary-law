@@ -38,7 +38,7 @@ b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidő
 
 c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3)
+(3) A (2) bekezdésben foglaltak mellett a támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű szolgáltatásmegrendelését közvetlenül – a Helyreállítási és Rezilienciaépítési Eszköz kivételével – az Európai Unióból származó forrásból finanszírozzák.
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
 
