@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-41-20-0
 | 2020-01-20 | 2004-41-20-0L.15 | 37/2005. (VI. 11.) GKM rendelet |
 | 2022-08-06 | 2004-41-20-0L.16 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2022-09-01 | 2004-41-20-0L.17 | 9/2022. (VIII. 1.) TIM rendelet |
+| 2024-02-02 | 2004-41-20-0L.18 | 4/2024. (I. 18.) ÉKM rendelet |
