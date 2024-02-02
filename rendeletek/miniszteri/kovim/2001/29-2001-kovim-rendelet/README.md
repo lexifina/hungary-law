@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-29-20-9
 | 2021-04-14 | 2001-29-20-93.20 | 45/2019. (XII. 20.) ITM rendelet |
 | 2022-04-19 | 2001-29-20-93.21 | 13/2022. (IV. 14.) ITM rendelet |
 | 2023-06-26 | 2001-29-20-93.22 | 45/2019. (XII. 20.) ITM rendelet |
+| 2024-02-02 | 2001-29-20-93.23 | 45/2019. (XII. 20.) ITM rendelet |

@@ -1,4 +1,4 @@
-## 2X02532M_0
+## 4X00115N.docx
 
 |  | A | B |
 
@@ -8,27 +8,27 @@
 
 | 1. | egyes vizsgaelemek díjai: |  |
 
-|  | a) teszt elem | 7 000 |
+|  | a) |  |
 
-|  | b) írásbeli vagy szóbeli elem | 8 000 |
+|  | b) |  |
 
-|  | c) gyakorlati elem | 18 000 |
+|  | c) |  |
 
-|  | d) számítógépes vizsgaelem | 6 000 |
+|  | d) |  |
 
-|  | e) eset tanulmány | 15 000 |
+|  | e) |  |
 
 | 2. | egyéb eljárások |  |
 
-|  | a) képesítő okmány kiállításának díja | 3 000 |
+|  | a) |  |
 
-|  | b) kártya formátumú biztonsági okmányok kiállításának díja | 13 000 |
+|  | b) |  |
 
-|  | c) szolgálati idő igazolása szolgálati könyvben hajónként | 2 000 |
+|  | c) |  |
 
-|  | d) a hajózási hatóság nyilvántartásában szereplő adatok módosítása, igazolása | 7 000 |
+|  | d) személyi nyilvántartásba vétel, a hajózási hatóság nyilvántartásában, névjegyzékeiben szereplő adatok módosítása, igazolása | 7 000 |
 
-|  | e) képesítés bejegyzése a szolgálati könyvbe | 1 000 |
+|  | e) |  |
 
 |  | f) oktatási napló kiadása | 3 000 |
 
@@ -48,12 +48,12 @@
 
 |  | továbbá minden megkezdett Megabájt | 3 000 |
 
-| II. | ha a vizsgát a kérelmező a hajózási hatóság által meghirdetett helyeken és időpontokon kívül kívánja, akkor a hajózási hatóság emiatt felmerülő költségeit megtéríteni köteles |  |
+| II. |  |  |
 
-| III. | a gyakorlati vizsgák díja a vizsgához szükséges hajó költségeit nem tartalmazza |  |
+| III. |  |  |
 
-| IV. | a felmentési kérelem eljárási díja megegyezik a vizsga elemenkénti díjával |  |
+| IV. |  |  |
 
-4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^26]
+4. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^28]
 
-[^26]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^28]: A 4. számú mellékletet a 33/2014. (VII. 15.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.

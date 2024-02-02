@@ -1,18 +1,18 @@
-2. § (1)[^2] Az eljárás díját az eljárás kezdeményezőjének – az (1a) bekezdésben foglaltak kivételével – az Építési és Közlekedési Minisztérium Magyar Államkincstárnál vezetett 10032000-00003582-06020015 számú számlájára az eljárás kezdeményezésével, illetve a vizsgára jelentkezéssel egyidejűleg kell befizetni. A díj az Építési és Közlekedési Minisztérium bevétele. A díjak beszedésére, kezelésére, nyilvántartására, elszámolására és visszatérítésére az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségeinek sajátosságairól szóló kormányrendelet előírásait kell alkalmazni.
+2. § (1)[^4] Az eljárás díját az eljárás kezdeményezőjének – az (1a) bekezdésben foglaltak kivételével – az Építési és Közlekedési Minisztérium Magyar Államkincstárnál vezetett 10032000-00003582-06020015 számú számlájára az eljárás kezdeményezésével egyidejűleg kell befizetni. A díj az Építési és Közlekedési Minisztérium bevétele. A díjak beszedésére, kezelésére, nyilvántartására, elszámolására és visszatérítésére az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségeinek sajátosságairól szóló kormányrendelet előírásait kell alkalmazni.
 
-(1a)[^3] Az 1. számú mellékletben foglalt táblázat 26. h) sorában és a 3. számú mellékletben foglalt táblázat I.1. sorában és I. 2. a)–c) és e) sorában, valamint II. és IV. sorában foglalt díjakat a víziközlekedésről szóló 2000. évi XLII. törvényben meghatározott, a hajózási vizsgaközpont kijelöléséről szóló 247/2019. (X. 24.) Korm. rendelettel kijelölt hajózási vizsgaközpont (a továbbiakban: vizsgaközpont) OTP Bank Nyrt.-nél vezetett 11711003-21463062 számú számlájára történő átutalással kell megfizetni. A díj átutaláson kívül csekken, valamint a vizsgaközpont által működtetett pénzkezelő helyen készpénzben is megfizethető. Az e bekezdésben foglaltaknak megfelelően megfizetett díjak a vizsgaközpont bevételét képezik.
+(1a)[^5]
 
-(1b)[^4] A vizsgaközpont számlájára, a hajózási vizsgáztatási tevékenységgel összefüggésben befizetett díj 53%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont a (2a) bekezdésben nevesített számlára történő átutalással teljesíti.
+(1b)[^6]
 
-(2)[^5] A hajózási hatósági eljárásokért fizetett díj az Építési és Közlekedési Minisztérium bevétele. A díjak beszedésére, kezelésére, nyilvántartására, elszámolására és visszatérítésére az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségeinek sajátosságairól szóló kormányrendelet[^6] előírásait kell alkalmazni.
+(2)[^7] A hajózási hatósági eljárásokért fizetett díj az Építési és Közlekedési Minisztérium bevétele. A díjak beszedésére, kezelésére, nyilvántartására, elszámolására és visszatérítésére az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségeinek sajátosságairól szóló kormányrendelet[^8] előírásait kell alkalmazni.
 
 (3) A díjak általános forgalmi adót nem tartalmaznak. A díjak számlázásánál az általános forgalmi adóról szóló törvény előírásait kell alkalmazni.
 
-(4)[^7]
+(4)[^9]
 
-[^2]: A 2. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 11. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 13. § (4) bekezdés a) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 4. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1a) bekezdését a 45/2019. (XII. 20.) ITM rendelet 11. §-a iktatta be, szövege a 13/2022. (IV. 14.) ITM rendelet 13. §-ával megállapított szöveg.
-[^4]: A 2. § (1b) bekezdését a 45/2019. (XII. 20.) ITM rendelet 11. §-a iktatta be, szövege a 11/2023. (VI. 23.) ÉKM rendelet 4. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdése a 22/2020. (VI. 29.) ITM rendelet 13. § (3) bekezdése, a 11/2023. (VI. 23.) ÉKM rendelet 4. § b) pontja szerint módosított szöveg.
-[^6]: Az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet.
-[^7]: A 2. § (4) bekezdését a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének e) pontja hatályon kívül helyezte.
+[^4]: A 2. § (1) bekezdése a 45/2019. (XII. 20.) ITM rendelet 11. §-ával megállapított, a 22/2020. (VI. 29.) ITM rendelet 13. § (4) bekezdés a) pontja, a 11/2023. (VI. 23.) ÉKM rendelet 4. § a) pontja, a 2/2024. (I. 18.) ÉKM rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1a) bekezdését a 45/2019. (XII. 20.) ITM rendelet 11. §-a iktatta be, a 2/2024. (I. 18.) ÉKM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^6]: A 2. § (1b) bekezdését a 45/2019. (XII. 20.) ITM rendelet 11. §-a iktatta be, a 2/2024. (I. 18.) ÉKM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^7]: A 2. § (2) bekezdése a 22/2020. (VI. 29.) ITM rendelet 13. § (3) bekezdése, a 11/2023. (VI. 23.) ÉKM rendelet 4. § b) pontja szerint módosított szöveg.
+[^8]: Az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet.
+[^9]: A 2. § (4) bekezdését a 97/2006. (XII. 28.) GKM rendelet 17. § (2) bekezdésének e) pontja hatályon kívül helyezte.

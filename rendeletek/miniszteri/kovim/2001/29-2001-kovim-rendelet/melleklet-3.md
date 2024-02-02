@@ -32,8 +32,8 @@
 
 | 6. | a lajstrom adataiban igazolt változás miatti módosítás, lajstromból és ideiglenes lajstromból történő törlés és a változás bejegyzésének tanúsítása | 17 000 |
 
-3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^25]
+3. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^27]
 
 Hajózási képesítő vizsgák vizsgadíjai
 
-[^25]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (3) bekezdése, a 13/2022. (IV. 14.) ITM rendelet 15. §-a szerint módosított szöveg.
+[^27]: A 3. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (3) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (3) bekezdése, a 13/2022. (IV. 14.) ITM rendelet 15. §-a, a 2/2024. (I. 18.) ÉKM rendelet 2. § b) pontja és 3. § e) pontja szerint módosított szöveg.

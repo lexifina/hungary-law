@@ -1,5 +1,5 @@
-1. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^23]
+1. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^25]
 
 A hajózási hatósági eljárások (szolgáltatások) díjai
 
-[^23]: Az 1. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (1) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (1) bekezdése és 2. §-a, az 1/2015. (I. 16.) NFM rendelet 1. §-a, a 23/2015. (V. 8.) NFM rendelet 8. §-a, a 13/2020. (V. 8.) ITM rendelet 4. §-a szerint módosított szöveg.
+[^25]: Az 1. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (1) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (1) bekezdése és 2. §-a, az 1/2015. (I. 16.) NFM rendelet 1. §-a, a 23/2015. (V. 8.) NFM rendelet 8. §-a, a 13/2020. (V. 8.) ITM rendelet 4. §-a, a 2/2024. (I. 18.) ÉKM rendelet 3. § d) pontja szerint módosított szöveg.

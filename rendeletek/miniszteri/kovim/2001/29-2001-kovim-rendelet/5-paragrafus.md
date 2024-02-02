@@ -1,4 +1,4 @@
-## 5. §[^17] Az e rendeletben meghatározott igazgatási szolgáltatási díjak tekintetében
+## 5. §[^19] Az e rendeletben meghatározott igazgatási szolgáltatási díjak tekintetében
 
 a) a díjfizetési kötelezettségre az Itv. 28. § (2)–(3) bekezdésében foglaltakat,
 
@@ -8,4 +8,4 @@ c) a mulasztási bírságra az Itv. 82. §-ában foglaltakat
 
 kell alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon e jogszabály tekintetében díjat kell érteni.
 
-[^17]: Az 5. § a 27/2012. (V. 25.) NFM rendelet 3. §-ával megállapított, a 45/2019. (XII. 20.) ITM rendelet 14. §-a szerint módosított szöveg.
+[^19]: Az 5. § a 27/2012. (V. 25.) NFM rendelet 3. §-ával megállapított, a 45/2019. (XII. 20.) ITM rendelet 14. §-a szerint módosított szöveg.

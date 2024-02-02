@@ -1,4 +1,4 @@
-## 0X02494N_0
+## 4X00115M.docx
 
 |  | A | B |
 
@@ -194,7 +194,7 @@
 
 |  | g) kártya formátumú biztonsági okmány kiállítása esetén | 8 000 |
 
-|  | h) szolgálati könyv kiállítása esetén | 7 000 |
+|  | h) |  |
 
 |  | i) fáradtolaj-, motor, tengeri olaj és hulladékkezelési napló kiadása esetén | 7 000 |
 
@@ -266,8 +266,8 @@
 
 | 52. | A hajózási egészségi alkalmasság vizsgálatára jogosult orvos nyilvántartásba vétele | 74 650 |
 
-2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^24]
+2. számú melléklet a 29/2001. (IX. 1.) KöViM rendelethez[^26]
 
 Úszólétesítmények lajstromozásával kapcsolatos hatósági eljárások (szolgáltatások) díjai
 
-[^24]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^26]: A 2. számú melléklet a 27/2012. (V. 25.) NFM rendelet 5. § (2) bekezdésével megállapított, a 33/2014. (VII. 15.) NFM rendelet 1. § (2) bekezdése szerint módosított szöveg.
