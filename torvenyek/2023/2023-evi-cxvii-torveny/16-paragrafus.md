@@ -1,3 +1,1 @@
-16. § A Kbt. 152. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A Közbeszerzési Döntőbizottság hivatalból való eljárását kezdeményező iratban meg kell jelölni a 149. § (1) bekezdés a)–d) és g) pontjában szereplő adatokat – a tudomásszerzés időpontját akkor, ha az a 197. § (26) bekezdése szerint releváns – és javaslat tehető a 149. § (1) bekezdés e) és f) pontjában foglaltakra. A kezdeményező irathoz csatolni kell a jogsértéssel érintett beszerzéssel vagy közbeszerzéssel kapcsolatban rendelkezésre álló iratok másolatát. A benyújtott kezdeményező irat informatikai eszköz alkalmazásával megszerkesztett, szerkeszthető formátumú változatát a Közbeszerzési Döntőbizottság rendelkezésére kell bocsátani.”
+### 16. §

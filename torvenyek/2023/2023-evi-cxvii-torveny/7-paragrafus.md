@@ -1,3 +1,1 @@
-7. § A Kbt. 70. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) Ha az ajánlatkérő az ajánlatok bírálatát az ajánlati kötöttség (2) bekezdés szerint meghatározható legfeljebb kilencven-, illetve százhúsz napos időtartama alatt sem tudja elvégezni, az 54. § (7) bekezdésében foglaltakra figyelemmel kérheti fel az ajánlattevőket ajánlataiknak meghatározott időpontig történő további fenntartására. Ha az ajánlattevő az ajánlatkérő által megadott határidőben nem nyilatkozik, úgy kell tekinteni, hogy ajánlatát az ajánlatkérő által megjelölt időpontig fenntartja. Ha az ajánlattevők eljárást lezáró döntésről való értesítését megelőzően az ajánlati kötöttség a százötven napot meghaladná, az ajánlatkérő az eljárást lezáró döntést a 75. § (1) bekezdés c) pontjára figyelemmel hozhatja meg.”
+### 7. §

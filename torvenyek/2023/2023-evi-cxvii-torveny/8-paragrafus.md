@@ -1,3 +1,1 @@
-8. § A Kbt. 77. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az ajánlatkérő az ellenszolgáltatást vagy költséget tartalmazó értékelési szemponton kívüli értékelési szempontokkal összefüggő ajánlati elemmel kapcsolatban az eljárást megindító felhívásban jogosult meghatározni az adott ajánlati elem azon legkedvezőbb szintjét, amelyre és az annál még kedvezőbb vállalásokra egyaránt az értékelési ponthatár felső határával azonos számú pontot ad. Az ajánlatkérő bármely szempont tekintetében, valamint – az átalánydíjas szerződések kivételével – az önállóan nem értékelt, de az ajánlattevő ajánlatában foglalt, az ajánlatkérő által a szerződés alapján fizetendő ellenszolgáltatást rögzítő egységár vagy költség tekintetében, jogosult meghatározni olyan elvárást, amelynél kedvezőtlenebb az adott ajánlati elem nem lehet.”
+### 8. §
