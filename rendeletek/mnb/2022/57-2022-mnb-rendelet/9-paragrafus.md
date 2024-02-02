@@ -1,3 +1,3 @@
-9. §[^11]
+9. §[^14]
 
-[^11]: A 9. § a 65/2023. (XII. 15.) MNB rendelet 13. § (4) bekezdése alapján nem lép hatályba.
+[^14]: A 9. § a 65/2023. (XII. 15.) MNB rendelet 13. § (4) bekezdése alapján nem lép hatályba.
