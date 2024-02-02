@@ -1,24 +1,5 @@
 ## 2. A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet módosítása
 
-3. § (1)[^3]
+3. §[^4]
 
-(2)[^4]
-
-(3)[^5]
-
-(4)[^6]
-
-(5)[^7]
-
-(6) A Díjrendelet 2. melléklete helyébe a 4. melléklet lép.
-
-(7)[^8]
-
-(8) A Díjrendelet 3. melléklete helyébe a 6. melléklet lép.
-
-[^3]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. § (7) bekezdése az 52/2023. (XII. 29.) ÉKM rendelet 7. §-a alapján nem lép hatályba.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

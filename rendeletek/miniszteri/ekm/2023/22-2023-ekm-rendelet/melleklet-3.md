@@ -1,3 +1,3 @@
-3. melléklet a 22/2023. (XII. 5.) ÉKM rendelethez[^13]
+3. melléklet a 22/2023. (XII. 5.) ÉKM rendelethez[^9]
 
-[^13]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
