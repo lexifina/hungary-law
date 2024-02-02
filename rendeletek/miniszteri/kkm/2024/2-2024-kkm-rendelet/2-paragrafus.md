@@ -1,1 +1,3 @@
-2. § A KKM rendelet 2. § (1) bekezdés nyitó szövegrészében a „törvény szerinti” szövegrész helyébe a „törvény (a továbbiakban: Külszoltv.) szerinti” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
