@@ -1,4 +1,4 @@
-40. § (1)[^99] Az igénybe vett térítésmentes jelnyelvi tolmácsolási eseteket és azok munkalapok szerinti óraszámát a tolmácsszolgálat legkésőbb a tolmácsolási eset napját követő munkanapon 12.00 óráig rögzíti a módszertani központ által működtetett adatrögzítő rendszerben.
+40. § (1)[^105] Az igénybe vett térítésmentes jelnyelvi tolmácsolási eseteket és azok munkalapok szerinti óraszámát a tolmácsszolgálat legkésőbb a tolmácsolási eset napját követő munkanapon 12.00 óráig rögzíti a módszertani központ által működtetett adatrögzítő rendszerben.
 
 (2) Az általános, illetve a speciális órakeretek állásáról a módszertani központ a tolmácsszolgálatoktól érkező adatok alapján naprakész nyilvántartást vezet, amelybe a tolmácsszolgálatok számára folyamatos betekintést biztosít.
 
@@ -18,4 +18,4 @@ még rendelkezésre álló idő nem éri el a 10 órát, vagy az órakeret kimer
 
 (7) A (4)–(6) bekezdésben foglalt eseteken túl a tolmácsszolgálat az igénybe vevő kérésére ad tájékoztatást a rendelkezésére álló órakeretekről.
 
-[^99]: A 40. § (1) bekezdése a 17/2021. (V. 18.) EMMI rendelet 25. § 17. pontja szerint módosított szöveg.
+[^105]: A 40. § (1) bekezdése a 17/2021. (V. 18.) EMMI rendelet 25. § 17. pontja szerint módosított szöveg.

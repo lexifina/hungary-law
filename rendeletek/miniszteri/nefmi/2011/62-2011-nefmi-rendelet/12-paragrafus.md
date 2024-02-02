@@ -6,4 +6,6 @@
 
 (4) A bíráló bizottságot a módszertani központ működteti.
 
-(5) A bíráló bizottság tagja jogosult a pályázatok véleményezésében való részvételért a módszertani központ által előre meghatározott, de pályázatonként legfeljebb a kötelező legkisebb munkabér 10%-ának megfelelő összegű tiszteletdíjra, kivéve, ha a bíráló bizottsági tagsággal kapcsolatos feladatokat munkakörében látja el.
+(5)[^30] A bíráló bizottság tagja jogosult a pályázatok véleményezésében való részvételért a módszertani központ által előre meghatározott összegű tiszteletdíjra, kivéve, ha a bíráló bizottsági tagsággal kapcsolatos feladatokat munkakörében látja el.
+
+[^30]: A 12. § (5) bekezdése az 5/2024. (I. 30.) BM rendelet 3. §-ával megállapított szöveg.

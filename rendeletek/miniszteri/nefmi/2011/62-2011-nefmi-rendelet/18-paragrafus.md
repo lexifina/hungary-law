@@ -1,4 +1,4 @@
-18. §[^45] (1) Amennyiben a 16. § (6) bekezdés 1., 2. és 9. pontja szerinti valamely adat vagy a fenntartó számlavezető pénzforgalmi szolgáltatója megváltozik, azt a fenntartó az Ávr. 97. § (1) bekezdésében foglalt határidőn belül köteles bejelenteni a módszertani központnak.
+18. §[^50] (1) Amennyiben a 16. § (6) bekezdés 1., 2. és 9. pontja szerinti valamely adat vagy a fenntartó számlavezető pénzforgalmi szolgáltatója megváltozik, azt a fenntartó az Ávr. 97. § (1) bekezdésében foglalt határidőn belül köteles bejelenteni a módszertani központnak.
 
 (2) A bejelentéssel egyidejűleg meg kell küldeni
 
@@ -8,4 +8,4 @@ b) a fenntartó számlaszámának, számlaszerződésének vagy számlavezető p
 
 c) a fenntartó képviseletére jogosult személy változása esetén a változást igazoló közhiteles dokumentumokat, illetve a közjegyző vagy pénzforgalmi szolgáltató által hitelesített aláírási címpéldányt.
 
-[^45]: A 18. § a 17/2021. (V. 18.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^50]: A 18. § a 17/2021. (V. 18.) EMMI rendelet 8. §-ával megállapított szöveg.

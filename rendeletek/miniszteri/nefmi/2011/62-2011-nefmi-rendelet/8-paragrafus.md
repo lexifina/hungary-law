@@ -1,12 +1,12 @@
 8. § (1) Jelnyelvi tolmácsként csak olyan személy alkalmazható vagy foglalkoztatható, aki szerepel a Jelnyelvi Tolmácsok Országos Névjegyzékén.
 
-(2)[^19] A diszpécsernek – a (2a) bekezdésben meghatározott kivétellel – magyar jelnyelvből legalább középfokú kommunikációs tanfolyami vagy legalább A2 szintű jelnyelvi tanfolyami tanúsítvánnyal kell rendelkeznie.
+(2)[^22] A diszpécsernek – a (2a) bekezdésben meghatározott kivétellel – magyar jelnyelvből legalább középfokú kommunikációs tanfolyami vagy legalább A2 szintű jelnyelvi tanfolyami tanúsítvánnyal kell rendelkeznie.
 
-(2a)[^20] Diszpécserként a Jtv. szerinti anyanyelvi jelnyelvhasználó személy is alkalmazható.
+(2a)[^23] Diszpécserként a Jtv. szerinti anyanyelvi jelnyelvhasználó személy is alkalmazható.
 
 (3) 2001. december 31-ét követően kiadott középfokú kommunikációs tanfolyami tanúsítvány akkor fogadható el, ha azt a felnőttképzést folytató intézmények nyilvántartásában, vagy – a felnőttképzésről szóló 2001. évi CI. törvény 30. § (4) bekezdése szerint, az ott meghatározott időtartamig – az azzal egyenértékűnek minősített nyilvántartásban szereplő intézmény bocsátotta ki.
 
 (4) 1998. március 1-je és 2001. december 31-e között kiadott középfokú kommunikációs tanfolyami tanúsítvány akkor fogadható el, ha azt az iskolarendszeren kívüli szakképzést folytató intézmények nyilvántartásában szereplő intézmény bocsátotta ki.
 
-[^19]: A 8. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 4. §-ával megállapított szöveg.
-[^20]: A 8. § (2a) bekezdését a 17/2021. (V. 18.) EMMI rendelet 4. §-a iktatta be.
+[^22]: A 8. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^23]: A 8. § (2a) bekezdését a 17/2021. (V. 18.) EMMI rendelet 4. §-a iktatta be.

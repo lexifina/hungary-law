@@ -1,20 +1,20 @@
 ## 6. A finanszírozási szerződés megkötése
 
-16. § (1)[^38] A módszertani központ a nyertes pályázatot benyújtó fenntartóval – a nyertes pályázatok számától függetlenül – egy finanszírozási szerződést köt, amelyben
+16. § (1)[^43] A módszertani központ a nyertes pályázatot benyújtó fenntartóval – a nyertes pályázatok számától függetlenül – egy finanszírozási szerződést köt, amelyben
 
 a) a módszertani központ kötelezettséget vállal arra, hogy a fenntartónak a jelnyelvi tolmácsszolgáltatás biztosításához és a tolmácsszolgálat működtetéséhez alaptámogatást biztosít,
 
 b) a fenntartó kötelezettséget vállal arra, hogy a jogszabályokban és a finanszírozási szerződésben meghatározottaknak megfelelően biztosítja a jelnyelvi tolmácsszolgáltatást és működteti a tolmácsszolgálatot.
 
-(2)[^39] A finanszírozási szerződés megkötésének feltétele a jogszabályban és a pályázati kiírásban meghatározott dokumentumok benyújtása. A dokumentumokat a nyertes pályázónak a pályázati döntésről szóló értesítés kézhezvételétől számított 10 napon belül kell megküldenie a módszertani központ részére.
+(2)[^44] A finanszírozási szerződés megkötésének feltétele a jogszabályban és a pályázati kiírásban meghatározott dokumentumok benyújtása. A dokumentumokat a nyertes pályázónak a pályázati döntésről szóló értesítés kézhezvételétől számított 10 napon belül kell megküldenie a módszertani központ részére.
 
 (3) A finanszírozási szerződést általános pályázat esetén a teljes finanszírozási időszakra, időközi pályázat esetén a pályázati kiírásban meghatározott időponttól a finanszírozási időszak végéig terjedő időszakra kell megkötni.
 
-(4)[^40]
+(4)[^45]
 
-(5)[^41]
+(5)[^46]
 
-(6)[^42] A finanszírozási szerződés tartalmazza különösen:
+(6)[^47] A finanszírozási szerződés tartalmazza különösen:
 
 1. a fenntartó nevét, székhelyét, adószámát és azon számlaszámát, amelyre a támogatás folyósítását kéri,
 
@@ -48,8 +48,8 @@ b) a fenntartó kötelezettséget vállal arra, hogy a jogszabályokban és a fi
 
 16. a finanszírozási szerződés kezdetének és megszűnésének időpontját.
 
-[^38]: A 16. § (1) bekezdés nyitó szövegrésze a 17/2021. (V. 18.) EMMI rendelet 25. § 4. pontja szerint módosított szöveg.
-[^39]: A 16. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^40]: A 16. § (4) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
-[^41]: A 16. § (5) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
-[^42]: A 16. § (6) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^43]: A 16. § (1) bekezdés nyitó szövegrésze a 17/2021. (V. 18.) EMMI rendelet 25. § 4. pontja szerint módosított szöveg.
+[^44]: A 16. § (2) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^45]: A 16. § (4) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
+[^46]: A 16. § (5) bekezdését a 17/2021. (V. 18.) EMMI rendelet 26. § a) pontja hatályon kívül helyezte.
+[^47]: A 16. § (6) bekezdése a 17/2021. (V. 18.) EMMI rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -48,6 +48,12 @@ c) a Jtv. 5. § (2) bekezdés b) pontja szerinti hallgatói jogviszonnyal össze
 
 d) a Jtv. 5. § (2) bekezdés c) pontja szerinti felnőttképzéssel összefüggésben biztosított speciális órakeretének
 
+e)[^7] a Jtv. 5. § (2) bekezdés d) pontja szerinti speciális kommunikációs rendszerek használatával kommunikáló hallássérült, valamint siketvak személy órakeretének,
+
+f)[^8] a Jtv. 5. § (2) bekezdés e) pontja szerinti, a foglalkoztatásra irányuló jogviszonyban álló hallássérült személy órakeretének,
+
+g)[^9] a Jtv. 5. § (2) bekezdés f) pontja szerinti, a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló törvény szerinti egyéni vagy társas vállalkozó hallássérült személy órakeretének
+
 terhére végzett jelnyelvi tolmácsszolgáltatás;
 
 13. tolmácsolási mód: az alábbi kommunikációs rendszerek valamelyike:
@@ -56,7 +62,7 @@ a) magyar jelnyelv,
 
 b) a Jtv. mellékletében foglalt valamely speciális kommunikációs rendszer;
 
-14.[^7] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
+14.[^10] tolmácsszolgálat: a Magyarország területén támogatással működő jelnyelvi tolmácsszolgálat;
 
 15. tolmácsszolgáltatási fajta: az alábbi tolmácsszolgáltatások valamelyike:
 
@@ -70,7 +76,7 @@ d) a Jtv. 10. § (4) bekezdése szerinti, oktatás, képzés kapcsán szervezett
 
 e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgáltatás.
 
-(2)[^8] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
+(2)[^11] Ha a fenntartó önkormányzati társulás, akkor az e rendelet szerinti jogok és kötelezettségek a társulási megállapodásban meghatározott, ennek hiányában a társulás székhelye szerinti helyi önkormányzatot illetik, illetve terhelik.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés 2. pontja a 45/2022. (XII. 20.) BM rendelet 60. § a) pontja szerint módosított szöveg.
@@ -78,5 +84,8 @@ e) a Jtv.-ben nem szabályozott, térítésköteles jelnyelvi tolmácsszolgálta
 [^4]: Az 1. § (1) bekezdés 4. pont d) alpontja a 19/2014. (III. 13.) EMMI rendelet 52. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § (1) bekezdés 5. pontja a 17/2021. (V. 18.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § (1) bekezdés 9a. pontját a 11/2015. (II. 25.) EMMI rendelet 1. §-a iktatta be, szövege a 17/2021. (V. 18.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
-[^8]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (1) bekezdés 12. pont e) alpontját az 5/2024. (I. 30.) BM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § (1) bekezdés 12. pont f) alpontját az 5/2024. (I. 30.) BM rendelet 1. §-a iktatta be.
+[^9]: Az 1. § (1) bekezdés 12. pont g) alpontját az 5/2024. (I. 30.) BM rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (1) bekezdés 14. pontja a 78/2011. (XII. 30.) NEFMI rendelet 15. § a) pontja, a 11/2021. (III. 5.) EMMI rendelet 3. §-a szerint módosított szöveg.
+[^11]: Az 1. § (2) bekezdése a 19/2014. (III. 13.) EMMI rendelet 52. § (2) bekezdésével megállapított szöveg.
