@@ -650,19 +650,19 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 291. | SPL megkérés, kiadás, változtatás | 5 000 |
 
-| 292. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+| 292. |  |  |
 
 | 293. | PPL jártassági vizsga, pótvizsga | 14 000 |
 
-| 294. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 294. |  |  |
 
 | 295. | CPL jártassági vizsga, pótvizsga | 30 000 |
 
-| 296. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 296. |  |  |
 
 | 297. | IR jártassági vizsga, pótvizsga | 26 000 |
 
-| 298. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 5 000 |
+| 298. |  |  |
 
 | 299. | ATPL jártassági vizsga, pótvizsga | 39 000 |
 
@@ -822,15 +822,15 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 376. | SPL megkérés, kiadás, változtatás | 5 000 |
 
-| 377. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+| 377. |  |  |
 
 | 378. | PPL jártassági vizsga, pótvizsga | 14 000 |
 
-| 379. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 379. |  |  |
 
 | 380. | CPL jártassági vizsga, pótvizsga | 29 000 |
 
-| 381. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 381. |  |  |
 
 | 382. | IR jártassági vizsga, pótvizsga | 26 000 |
 
@@ -838,7 +838,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 384. | IR adminisztratív meghosszabbítása | 4 000 |
 
-| 385. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 385. |  |  |
 
 | 386. | ATPL jártassági vizsga, pótvizsga | 29 000 |
 
@@ -896,7 +896,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 412. | SBPL megkérés, kiadás, változtatás | 3 000 |
 
-| 413. | BR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 1 000 |
+| 413. |  |  |
 
 | 414. | BR jártassági vizsga, pótvizsga | 7 000 |
 
@@ -920,15 +920,15 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 423. | SPL megkérés, kiadás, változtatás | 5 000 |
 
-| 424. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+| 424. |  |  |
 
 | 425. | PPL jártassági vizsga, pótvizsga | 14 000 |
 
-| 426. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+| 426. |  |  |
 
 | 427. | CPL jártassági vizsga, pótvizsga | 29 000 |
 
-| 428. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+| 428. |  |  |
 
 | 429. | IR jártassági vizsga, pótvizsga | 26 000 |
 
@@ -960,7 +960,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 442. | SGPL megkérés, kiadás, változtatás | 2 000 |
 
-| 443. | GR elméleti vizsga, pótvizsga | 3 000 |
+| 443. |  |  |
 
 | 444. | GR jártassági vizsga, pótvizsga | 7 000 |
 
@@ -982,15 +982,15 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 452. | SPL megkérés, kiadás, változtatás | 5 000 |
 
-| 453. | PPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 2 000 |
+| 453. |  |  |
 
 | 454. | PPL jártassági vizsga, pótvizsga | 14 000 |
 
-| 455. | CPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 4 000 |
+| 455. |  |  |
 
 | 456. | CPL jártassági vizsga, pótvizsga | 29 000 |
 
-| 457. | IR elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 3 000 |
+| 457. |  |  |
 
 | 458. | IR jártassági vizsga, pótvizsga | 26 000 |
 
@@ -998,7 +998,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 460. | IR adminisztratív meghosszabbítása | 4 000 |
 
-| 461. | ATPL elméleti vizsga tantárgyanként, pótvizsga tantárgyanként | 5 000 |
+| 461. |  |  |
 
 | 462. | ATPL jártassági vizsga, pótvizsga | 29 000 |
 
@@ -1026,7 +1026,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 473. | SULPL megkérés, kiadás, változtatás | 2 000 |
 
-| 474. | ULR elméleti vizsga, pótvizsga | 3 000 |
+| 474. |  |  |
 
 | 475. | ULR jártassági vizsga, pótvizsga | 7 000 |
 
@@ -1056,7 +1056,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 487. | SAGPL megkérés, kiadás, változtatás | 2 000 |
 
-| 488. | AGR elméleti vizsga, pótvizsga | 3 000 |
+| 488. |  |  |
 
 | 489. | AGR jártassági vizsga, pótvizsga | 7 000 |
 
@@ -1076,7 +1076,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | Hajózó mérnök szakszolgálati engedély |
 
-| 497. | F/E elméleti vizsga, pótvizsga | 16 000 |
+| 497. |  |  |
 
 | 498. | F/E jártassági vizsga, pótvizsga | 20 000 |
 
@@ -1090,7 +1090,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | Hajózó navigátor szakszolgálati engedély |
 
-| 503. | F/N elméleti vizsga, pótvizsga | 16 000 |
+| 503. |  |  |
 
 | 504. | F/N jártassági vizsga, pótvizsga | 20 000 |
 
@@ -1142,7 +1142,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | Repülési szakszolgálat 5/2001. (II. 6.) KöViM rendelet 5. számú melléklet |
 
-| 525. | Repülésüzemi tiszti szakszolgálati engedély megszerző vizsga | 21 000 |
+| 525. |  |  |
 
 | 526. | Repülésüzemi tiszti szakszolgálati engedély meghosszabbító vizsga | 18 000 |
 
@@ -1174,7 +1174,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 538. | Légijármű-karbantartás oktató szervezet fentiekben nem részletezett változásainak jóváhagyása | 46 000 |
 
-| 539. | Hatósági légijármű-karbantartó vizsgáztatás vizsgadíja alapképzési modulonként, illetve légijárműtípusonként | 24 000 |
+| 539. |  |  |
 
 | 540. | Part-66 szerinti típustanfolyam egyszeri lebonyolításának engedélyezése típus tanfolyamonként | 64 000 |
 
@@ -1316,4 +1316,4 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 [^19]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^20]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a szerint módosított szöveg.
+[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 2. § f) pontja szerint módosított szöveg.
