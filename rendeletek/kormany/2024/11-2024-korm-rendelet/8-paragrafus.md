@@ -1,1 +1,3 @@
-8. § Nem lép hatályba a pedagógusok új életpályájáról szóló törvény szerinti felzárkózó és kedvezményezett települések listájáról, valamint egyes közneveléssel összefüggő kormányrendeletek módosításáról szóló 402/2023. (VIII. 30.) Korm. rendelet 2. melléklet 1. és 2. pontja.
+8. §[^3]
+
+[^3]: A 8. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.

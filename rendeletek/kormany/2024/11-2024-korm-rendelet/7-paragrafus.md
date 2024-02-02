@@ -1,1 +1,3 @@
-7. § Az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet 7. mellékletében foglalt táblázat címében a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
+7. §[^2]
+
+[^2]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
