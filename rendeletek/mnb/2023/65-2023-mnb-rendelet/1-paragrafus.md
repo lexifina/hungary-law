@@ -1,3 +1,3 @@
-1. § A pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet (a továbbiakban: Rendelet) 2. § (1) bekezdése a következő 6a. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet alkalmazásában:)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

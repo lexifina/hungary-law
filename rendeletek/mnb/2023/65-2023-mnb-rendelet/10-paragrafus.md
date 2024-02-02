@@ -1,3 +1,3 @@
-10. § A Rendelet 53. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép, és a Rendelet 53. § (1) bekezdése a következő c) ponttal egészül ki:
+10. §[^10]
 
-[A készpénzátutalás olyan fizetési számla használata nélküli pénzátutalás, amelynek során a készpénzátutalás tárgyát képező összeget a pénzforgalmi szolgáltató]
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. §[^2]
+6. §[^6]
 
-[^2]: A 6. § a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^6]: A 6. § a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
