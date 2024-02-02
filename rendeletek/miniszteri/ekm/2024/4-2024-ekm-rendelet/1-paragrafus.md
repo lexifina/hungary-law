@@ -1,0 +1,1 @@
+1. § A közúti járművezetők pályaalkalmassági vizsgálatáról szóló 41/2004. (IV. 7.) GKM rendelet (a továbbiakban: R.) 10. § (1a) bekezdésében az „a 2. számú mellékletben meghatározott díjnak az (1) bekezdésben meghatározott számlára történő” szövegrész helyébe az „az általa meghatározott szabályzat szerinti díj” szöveg lép.
