@@ -14,7 +14,7 @@ c) a 23. § szerinti előzetes ellenőrzésre, illetve
 
 d) a jogszerű földhasználat vizsgálat során tett nyilatkozat megtételére is.
 
-(3a)[^9] A kamarai meghatalmazott eljárása esetén a (3) bekezdés b) pontja szerinti egyeztetés eljárásban irányadó határidőt a Kincstár hivatalból egy alkalommal meghosszabbíthatja.
+(3a)[^10] A kamarai meghatalmazott eljárása esetén a (3) bekezdés b) pontja szerinti egyeztetés eljárásban irányadó határidőt a Kincstár hivatalból egy alkalommal meghosszabbíthatja.
 
 (4) Az Eljárási törvény 52. § (6) bekezdése szerinti, a mezőgazdasági termelőre nézve terhelő megállapításokat tartalmazó jegyzőkönyvre vonatkozó észrevétel a 2. § (1) bekezdés a)–f) pontjában és 2. § (3) bekezdésében meghatározott támogatások, a kölcsönös megfeleltetés és a feltételesség vonatkozásában kizárólag elektronikus úton, ügyfélkapus azonosítással elérhető elektronikus felületen keresztül nyújtható be.
 
@@ -26,4 +26,4 @@ d) a jogszerű földhasználat vizsgálat során tett nyilatkozat megtételére 
 
 (8) Állatalapú támogatások esetén – jogszabály vagy pályázati felhívás eltérő rendelkezése hiányában – közvetlen támogatásra jogosult a tárgyév tekintetében az a mezőgazdasági termelő, aki vagy amely a tárgyévben az egységes kérelem beadására nyitva álló határidő utolsó napján nem rendelkezik a (7) bekezdés szerinti minimális területnagysággal, de az adott naptári évben igényelt vagy kapott állatokra vonatkozó, létszámalapú, termeléshez kötött közvetlen támogatásainak összege – a különböző levonások alkalmazását megelőzően – legalább száz eurónak megfelelő forintösszeget.
 
-[^9]: A 11. § (3a) bekezdését az 56/2023. (IX. 27.) AM rendelet 13. §-a iktatta be.
+[^10]: A 11. § (3a) bekezdését az 56/2023. (IX. 27.) AM rendelet 13. §-a iktatta be.
