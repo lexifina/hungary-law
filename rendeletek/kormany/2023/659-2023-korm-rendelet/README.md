@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-659-20-
 | 2024-01-02 | 2023-659-20-22.4 | 2010. évi CXXX. törvény |
 | 2024-01-03 | 2023-659-20-22.5 | 2010. évi CXXX. törvény |
 | 2024-02-01 | 2023-659-20-22.6 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-02-02 | 2023-659-20-22.7 | 2010. évi CXXX. törvény |
