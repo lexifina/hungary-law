@@ -1,3 +1,3 @@
-3. § A Rendelet 12. § (5) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(5) A bíráló bizottság tagja jogosult a pályázatok véleményezésében való részvételért a módszertani központ által előre meghatározott összegű tiszteletdíjra, kivéve, ha a bíráló bizottsági tagsággal kapcsolatos feladatokat munkakörében látja el.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

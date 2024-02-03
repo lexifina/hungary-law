@@ -1,3 +1,3 @@
-2. § A Rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) A tolmácsszolgálat heti három munkanapon legalább napi 4 órányi ügyfélfogadást, egyébként folyamatos készenlétet biztosít. Az ügyfélfogadás a tolmácsszolgálat ellátási területén történik.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
