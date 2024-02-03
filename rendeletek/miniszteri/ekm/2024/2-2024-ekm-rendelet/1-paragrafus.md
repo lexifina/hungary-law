@@ -1,3 +1,3 @@
-1. § A hajózási hatósági eljárások díjairól szóló 29/2001. (IX. 1.) KöViM rendelet (a továbbiakban: R.) 1. § c) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-[A hajózási hatóság eljárásáért]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,11 +1,3 @@
-## „c) hajózási képesítések megszerzésére irányuló képzésekkel és hajózási hatósági személyi nyilvántartásokkal kapcsolatos eljárások esetében e rendelet 3. számú mellékletében”
+2. §[^3]
 
-## [megállapított hatósági eljárási díjat (a továbbiakban: díj) kell fizetni.]
-
-2. § Az R.
-
-a) 3. § (2a) bekezdésében a „vizsgaközpont” szövegrész helyébe a „hajózási hatóság” szöveg,
-
-b) 3. számú mellékletében foglalt táblázat 2. sor d) pontjában az „a hajózási hatóság nyilvántartásában” szövegrész helyébe a „személyi nyilvántartásba vétel, a hajózási hatóság nyilvántartásában, névjegyzékeiben” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
