@@ -1,1 +1,3 @@
-3. § A 13/2023. (IV. 19.) AM rendelet 26. § (4) bekezdésében a „január 31-ig” szövegrész helyébe a „február 15-ig” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
