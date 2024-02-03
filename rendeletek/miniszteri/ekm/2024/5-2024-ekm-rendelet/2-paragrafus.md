@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. Melléklet I. és II. része, III. rész 16., 17. és 18. pontja, valamint IV. része.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
