@@ -20,7 +20,7 @@
 
 ## külgazdasági és külügyminiszter
 
-## Határidő: 2022. december 31., az Agrárminisztérium fejezet javára biztosított 500 000 000 forint tekintetében 2023. december 31.
+## Határidő: 2022. december 31., az Agrárminisztérium fejezet javára biztosított 500 000 000 forint tekintetében 2024. december 31.
 
 ## 3. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 19 050 705 689 forint egyszeri átcsoportosítását rendeli el, a 2. melléklet szerint;
 
@@ -44,4 +44,4 @@
 
 1. melléklet az 1099/2022. (III. 2.) Korm. határozathoz
 
-[^1]: A 2. pont az 1515/2022. (X. 26.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1515/2022. (X. 26.) Korm. határozat 2. pontja, az 1014/2024. (II. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
