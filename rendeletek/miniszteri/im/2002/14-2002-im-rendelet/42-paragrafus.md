@@ -2,9 +2,9 @@
 
 ## 42. § Ezen alcím alkalmazásában
 
-a)[^97] zárt adat: a tanúnak a Be. 178. § (2) bekezdése szerinti személyes adatai, valamint az olyan adatok, amelyekből a Be. 92. § (9) bekezdése szerinti személyes adatokra lehet következtetni,
+a)[^99] zárt adat: a tanúnak a Be. 178. § (2) bekezdése szerinti személyes adatai, valamint az olyan adatok, amelyekből a Be. 92. § (9) bekezdése szerinti személyes adatokra lehet következtetni,
 
-b)[^98] zárt adat-kezelés: a személyes adatok felvétele, tárolása, felhasználása,
+b)[^100] zárt adat-kezelés: a személyes adatok felvétele, tárolása, felhasználása,
 
 c) zárt adat-kezelő: a b) pontban meghatározott tevékenységet végző, erre a feladatra kijelölt személy,
 
@@ -14,5 +14,5 @@ e) kivonatos irat: a zárt adatot magában foglaló eredeti iratról készült o
 
 f) kísérőjegyzék: a zárt adatokat tartalmazó eredeti iratok felsorolását és a kivonatos irat feltalálási helyét rögzítő jegyzék.
 
-[^97]: A 42. § a) pontja a 17/2018. (VI. 27.) IM rendelet 4. § (11) bekezdésével megállapított szöveg.
-[^98]: A 42. § b) pontja a 17/2018. (VI. 27.) IM rendelet 5. § 17. pontja szerint módosított szöveg.
+[^99]: A 42. § a) pontja a 17/2018. (VI. 27.) IM rendelet 4. § (11) bekezdésével megállapított szöveg.
+[^100]: A 42. § b) pontja a 17/2018. (VI. 27.) IM rendelet 5. § 17. pontja szerint módosított szöveg.
