@@ -24,7 +24,7 @@
 
 | Felelős: | belügyminiszter külgazdasági és külügyminiszter a miniszterelnök általános helyettese |
 
-| Határidő: | 2023. december 31., a Belügyminisztérium fejezet javára biztosított 6 164 411 444 forint tekintetében 2024. december 31., a Bethlen Gábor Alap fejezet javára biztosított 498 993 000 forint tekintetében 2025. június 30. |
+| Határidő: | 2023. december 31., a Belügyminisztérium fejezet javára biztosított 6 164 411 444 forint tekintetében 2024. december 31., a Bethlen Gábor Alap fejezet javára biztosított 498 993 000 forint tekintetében 2025. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 10 502 718 397 forint tekintetében 2025. december 31. |
 
 ## 3. az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva – 2023. január 1-jei fordulónappal – Magyarország 2023. évi központi költségvetésének címrendjét a 2. melléklet szerint módosítja;
 
@@ -52,4 +52,4 @@
 
 1. melléklet az 1100/2023. (III. 22.) Korm. határozathoz
 
-[^1]: A 2. pont az 1471/2023. (X. 31.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1471/2023. (X. 31.) Korm. határozat 10. pontja, az 1014/2024. (II. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
