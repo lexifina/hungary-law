@@ -2,13 +2,21 @@
 
 ## 2. egyetért azzal, hogy a 2019. évben – a program első szakaszára az 1. pont szerinti komplex mutató alapján kiválasztott, az 1. mellékletben felsorolt – 30 településen induljon el a program;
 
-## 3. egyetért azzal, hogy az 1. pontban ismertetett program módszertani támogatását a Magyar Máltai Szeretetszolgálat Egyesület valósítsa meg;
+## 3.[^1] egyetért azzal, hogy a program átfogó megvalósítását és szakmai koordinálását a Magyar Máltai Szeretetszolgálat Egyesület lássa el, azzal, hogy a megvalósítást
 
-## 4.[^1]
+## a) a Magyar Máltai Szeretetszolgálat Alapítvány,
 
-## 5.[^2]
+## b) – a programhoz kapcsolódó szakfeladatok tekintetében – a Magyar Máltai Szeretetszolgálat Iskola Alapítvány és a Máltai Manufaktúra Nonprofit Korlátolt Felelősségű Társaság és
 
-## 6.[^3]
+## c) – a települési szintű programok megvalósítása tekintetében – az a) és b) alpontban foglaltak mellett más egyházi és civil szervezet
+
+## bevonásával végezze;
+
+## 4.[^2]
+
+## 5.[^3]
+
+## 6.[^4]
 
 ## 7. egyetért azzal, hogy a 6. pont a) alpontja alapján biztosított forrás terhére a Magyar Máltai Szeretetszolgálat Egyesület részére a belügyminiszter 2 000 000 000 forint támogatást nyújtson, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat alapján;
 
@@ -106,6 +114,7 @@
 
 30. Zemplénagárd
 
-[^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^3]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^1]: A 3. pont az 1016/2024. (II. 6.) Korm. határozattal megállapított szöveg.
+[^2]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^3]: Az 5. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 6. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
