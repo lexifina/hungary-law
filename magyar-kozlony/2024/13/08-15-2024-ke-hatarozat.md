@@ -1,0 +1,19 @@
+# A köztársasági elnök 15/2024. (II. 6.) KE határozata
+
+Magyar Közlöny 2024. évi 13. szám, 2024. február 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/qtPaLHUmLjcwNpMwd0Im65b3d8343a7c8/dokumentumok/01ce9c0633f3f7831678a156f0793df00626027a/letoltes)
+
+---
+
+A köztársasági elnök 15/2024. (II. 6.) KE határozata
+magyarországi rendkívüli és meghatalmazott nagykövet kinevezéséhez való hozzájárulásról
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére –
+hozzájárulok Morteza Moradian rendkívüli és meghatalmazott nagykövetnek az Iráni Iszlám Köztársaság
+magyarországi rendkívüli és meghatalmazott nagykövetévé történő kinevezéséhez, budapesti székhellyel.
+Budapest, 2023. június 21.
+ Novák Katalin s. k.,
+ köztársasági elnök
+Ellenjegyzem:
+Budapest, 2023. július 3.
+ Szijjártó Péter s. k.,
+ külgazdasági és külügyminiszter
+KEH ügyszám: KEH/3724-2/2023.
