@@ -82,10 +82,14 @@
 
 | Határidő: | 2024. február 7. |
 
-## 2. A címrendi kiegészítésről, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alap előirányzatból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1099/2022. (III. 2.) Korm. határozat 2. pontjában a „2023. december 31.” szövegrész helyébe a „2024. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból történő, fejezeten belüli előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1050/2023. (II. 23.) Korm. határozat 1. pont b) alpontjában a „2024. június 30.” szövegrész helyébe a „2024. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 2 000 000 000 forint tekintetében 2026. június 30.” szöveg lép.
+## 3.[^2]
 
-## 4. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alap előirányzatból történő és fejezetek közötti előirányzat-átcsoportosításról szóló 1100/2023. (III. 22.) Korm. határozat 2. pontjában a „2025. június 30.” szövegrész helyébe a „2025. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 10 502 718 397 forint tekintetében 2025. december 31.” szöveg lép.
+## 4.[^3]
 
 1. melléklet az 1014/2024. (II. 6.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
