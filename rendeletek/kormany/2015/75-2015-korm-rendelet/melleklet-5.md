@@ -1,4 +1,4 @@
-5. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^41]
+5. melléklet a 75/2015. (III. 30.) Korm. rendelethez[^45]
 
 A beruházás megvalósításához kapcsolódó, építési joggal érintett ingatlanrészek területi lehatárolása a terület határpontjainak EOV-ban megadott koordinátáival
 
@@ -696,4 +696,4 @@ A beruházás megvalósításához kapcsolódó, építési joggal érintett ing
 
 | 5. | 238096.960 | 844335.200 |
 
-[^41]: Az 5. mellékletet a 63/2023. (II. 28.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan az 517/2023. (XI. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^45]: Az 5. mellékletet a 63/2023. (II. 28.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan az 517/2023. (XI. 22.) Korm. rendelet 4. § (1) bekezdése iktatta be.
