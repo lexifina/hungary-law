@@ -1,0 +1,1 @@
+2. § A Rendelet 2. § (14) bekezdésében az „illetve a” szövegrész helyébe az „a fenntartható pénzügyekért, digitális felügyelésért és felügyeleti koordinációért felelős ügyvezető igazgató, illetve a” szöveg lép.
