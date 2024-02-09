@@ -1,0 +1,1 @@
+5. § A 4. § szerint közzétett általános oktatási tematikát a munkáltatónak szükség szerint ki kell egészítenie a kockázatértékelésben szereplő kockázatokkal kapcsolatos információkra épülő ismeretanyaggal is.
