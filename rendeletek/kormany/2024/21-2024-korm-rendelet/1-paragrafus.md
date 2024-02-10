@@ -1,5 +1,3 @@
-1. § Hatályát veszti
+1. §[^2]
 
-a) a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló 1994. évi XLII. törvény veszélyhelyzetben történő eltérő alkalmazásáról szóló 393/2022. (X. 19.) Korm. rendelet, valamint
-
-b) a Magyar Export-Import Bankot érintő egyes veszélyhelyzeti szabályokról szóló 59/2023. (II. 28.) Korm. rendelet.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
