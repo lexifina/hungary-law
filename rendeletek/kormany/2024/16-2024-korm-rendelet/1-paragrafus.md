@@ -1,3 +1,3 @@
-1. § A Debrecenben megvalósuló ipari telephely kialakításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 75/2015. (III. 30.) Korm. rendelet (a továbbiakban: R.) 3. § (6) bekezdése a következő h) ponttal egészül ki:
+1. §[^2]
 
-(A 3. melléklet 2. pontjában foglalt táblázatban felsorolt EOV koordináták által határolt területek ipari tevékenységhez köthető általános gazdasági területek, amelyeken az ipari tevékenységhez kapcsolódó épületek, logisztikai épületek, igazgatási épületek, közművek és közműpótló műtárgyak, hírközlési, raktározási, rekreációs és gazdasági rendeltetésű építmények, valamint ezek kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

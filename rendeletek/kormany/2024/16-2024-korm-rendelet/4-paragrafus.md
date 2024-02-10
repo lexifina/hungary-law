@@ -1,1 +1,3 @@
-4. § Az R. 2. melléklet 1. pontjában a „14990/1” szövegrész helyébe a „4562/41, 14990/1” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
