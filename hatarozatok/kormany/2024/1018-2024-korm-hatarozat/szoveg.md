@@ -2,4 +2,6 @@
 
 2. Ez a határozat 2024. február 9-én lép hatályba.
 
-3. Hatályát veszti a Nemzeti Kulturális Tanács elnökének kinevezéséről szóló 1108/2020. (III. 15.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
