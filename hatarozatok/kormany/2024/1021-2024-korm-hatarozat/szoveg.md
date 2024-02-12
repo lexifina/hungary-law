@@ -1,0 +1,1 @@
+A Kormány – a Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény 5. § (2) bekezdése alapján – Turi Attilát 2024. február 9-ei hatállyal a Nemzeti Kulturális Tanács elnökévé nevezi ki.
