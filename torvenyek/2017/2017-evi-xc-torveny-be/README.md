@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-90-00-00
 | 2023-09-01 | 2023. évi XXXI. törvény | 2017-90-00-00.22 |
 | 2023-12-14 | 2023. évi LXXXV. törvény | 2017-90-00-00.23 |
 | 2024-01-01 | 2023. évi XC. törvény | 2017-90-00-00.25 |
+| 2024-02-13 | 2023. évi LXXXV. törvény | 2017-90-00-00.24 |
