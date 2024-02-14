@@ -1,0 +1,439 @@
+# A Kormány 1025/2024. (II. 14.) Korm. határozata
+
+Magyar Közlöny 2024. évi 16. szám, 2024. február 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/aJleByC2nZy2fivn5dyO65ba9ccc656ee/dokumentumok/2be1409b568bdb1f1452b34dfbad64e40fea06b3/letoltes)
+
+---
+
+A Kormány 1025/2024. (II. 14.) Korm. határozata
+a 2024–2025 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia, valamint az annak
+végrehajtására vonatkozó intézkedési terv elfogadásáról
+1. A Kormány elfogadja a 2024–2025 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégiát
+(a továbbiakban: Stratégia), valamint a Nemzeti Korrupcióellenes Stratégia végrehajtására vonatkozó intézkedési
+tervet, az 1. melléklet szerint, és felhívja a belügyminisztert, hogy gondoskodjon a Stratégia kormányzati portálon
+való közzétételéről.
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1025/2024. (II. 14.) Korm. határozathoz
+A 2024–2025 közötti időszakra szóló középtávú Nemzeti Korrupcióellenes Stratégia végrehajtására
+vonatkozó intézkedési terv
+1. Átláthatóság
+1.1. A Kormány felhívja az igazságügyért felelős minisztert, hogy a Nemzeti Adatvédelmi és Információszabadság
+Hatóság bevonásával vizsgálja meg a KÖFOP-2.2.6-VEKOP-18-2019-00001 azonosító számú,
+„Az információszabadság hazai gyakorlatának feltérképezése és hatékonyságának növelése” című kiemelt projekt
+keretében végzett kutatások eredményei alapján az információs önrendelkezési jogról és az információszabadságról
+szóló 2011. évi CXII. törvény módosítási irányait.
+Felelős: igazságügyi miniszter
+Határidő: 2024. március 31.
+1.2. A Kormány felhívja az igazságügyi minisztert, hogy vizsgálja meg
+a) a hazai politikai pártok finanszírozási szabályainak érvényesülését a külföldi befolyásolással szemben;
+Felelős: igazságügyi miniszter
+Határidő: 2024. április 30.
+b) a politikai szervezetek – ideértve minden, a politikai hatalom megszerzésének és megtartásának
+befolyásolását célzó tevékenységet folytató szervezetet – működési gyakorlatát a nemzetközi és európai
+uniós jogi szabályoknak való megfelelőség érdekében.
+Felelős: igazságügyi miniszter
+Határidő: 2024. április 30.
+1.3. A Kormány felhívja az igazságügyi minisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával
+– teremtse meg a vagyonnyilatkozatok elektronikusan, digitális formában történő kitöltésének és kezelésének
+lehetőségét a teljes közszférában.
+Felelős: igazságügyi miniszter
+Miniszterelnöki Kabinetirodát vezető miniszter
+Határidő: 2024. május 31.
+1.4. A Kormány felhívja az igazságügyi minisztert, hogy a köztestületek vezető tisztségviselői, egyes kiemelt munkakörei
+tekintetében vizsgálja meg a vagyonnyilatkozat-tételi kötelezettség kiterjesztésének lehetőségét.
+Felelős: igazságügyi miniszter
+Miniszterelnöki Kabinetirodát vezető miniszter
+Határidő: 2025. november 30.
+
+1.5. A Kormány felhívja az igazságügyi minisztert, hogy hatékony, arányos és visszatartó erejű, a vagyonnyilatkozati
+rendszer alapján fennálló kötelezettségek súlyos megsértésére vonatkozó közigazgatási és büntetőjogi szankció
+rendszer bevezetésére vonatkozóan tegyen javaslatot.
+Felelős: igazságügyi miniszter
+Határidő: 2024. április 30.
+2. Törvényhozási integritás
+2.1. A Kormány felhívja az igazságügyi minisztert, hogy
+a) készítsen javaslatot olyan jogszabályi környezetre – figyelemmel az Európai Unió szerveinek ilyen magatartási
+szabályaira –, amely a politikai és szakmai felsővezetőkre, tanácsadóikra, a miniszterelnöki megbízottakra
+és az országgyűlési képviselőkre, valamint az Országgyűlés Hivatala dolgozóira vonatkozó érvényesítési
+mechanizmusok eljárási szabályaira is kiterjedő magatartási kódexek elkészítésére lehetőséget ad;
+Felelős: igazságügyi miniszter
+Határidő: 2024. április 30.
+b) tegyen jelentést a Kormány számára az a) alpont alapján meghozott jogszabály-módosítások gyakorlatban
+történő érvényesüléséről.
+Felelős: igazságügyi miniszter
+Határidő: 2025. március 31.
+2.2. A Kormány felkéri az érintett szerveket, hogy a legfelső szintű vezető tisztségekkel felruházott személyek,
+tanácsadóik és az országgyűlési képviselők, valamint az Országgyűlés Hivatala dolgozói számára – különösen
+az összeférhetetlenségi kérdésekben, az ajándékok és egyéb juttatások elfogadásában, a foglalkoztatási jogviszony
+megszűnése utáni korlátozásokra (forgóajtó-jelenség), a lobbistákkal való kapcsolattartás szabályaira, valamint
+a hozzátartozóik foglalkoztatása és foglalkoztatási célú beajánlása, az érvényesítési mechanizmusok eljárási
+szabályaira kiterjedő, integritás-tudatosság növelése érdekében –
+a) alkossanak etikai kódexeket; és
+Felelős: érintett szervek
+Határidő: 2024. december 31.
+b) tartsanak képzéseket az integritás-tudatosság témakörében, figyelemmel az a) alpont szerint megalkotott
+etikai kódex tartalmi elemeire.
+Felelős: érintett szervek
+Határidő: 2025. november 30.
+3. Igazságügyi integritás
+3.1. A Kormány felkéri a legfőbb ügyészt, hogy etika és integritás témakörben biztosítson rendszeres képzést
+valamennyi ügyész számára.
+3.2. A Kormány felkéri az Országos Bírói Tanácsot, hogy – az érvényesítési mechanizmusok eljárási szabályaira is
+kiterjedően – vizsgálja felül a bírói etikai kódexet, különösen az ajándékok elfogadásával kapcsolatban.
+3.3. A Kormány felhívja az igazságügyi minisztert, hogy vizsgálja felül a bírói álláspályázatok elbírálásához szükséges
+szempontrendszert és az ahhoz kapcsolódó pontrendszert a szakmai tapasztalatok fokozottabb érvényesülése
+érdekében.
+Felelős: igazságügyi miniszter
+Határidő: 2024. június 30.
+3.4. A Kormány felkéri az Országos Bírói Tanácsot a 3.3. pontban meghatározott feladatban való közreműködésre.
+3.5. A Kormány felkéri az Országos Bírósági Hivatalt, hogy biztosítson rendszeres képzéseket a bírák számára a bírói
+etikai kódexben megfogalmazott magatartási szabályok érvényesülése érdekében, továbbá az ülnökök számára
+az etika és integritás témakörében.
+3.6. A Kormány felhívja a belügyminisztert és az igazságügyi minisztert, hogy – az Országos Bírósági Hivatal elnökét
+és az Országos Bírói Tanácsot, valamint a legfőbb ügyészt felkérve a közreműködésre – évente gondoskodjanak
+antikorrupciós közös képzés megtartásáról a bírák, ügyészek és a rendőrség állománya részére.
+Felelős: belügyminiszter
+igazságügyi miniszter
+Határidő: 2025. november 30.
+
+3.7. A Kormány felhívja a belügyminisztert, hogy legalább évente szervezze meg a korrupció elleni közös nyilatkozatot
+aláíró szervek – és a velük együttműködni kívánó szervek – tapasztalatcseréjét és együttműködését az egyéni és
+szervezeti integritás fejlesztése témakörében.
+Felelős: belügyminiszter
+Határidő: 2025. november 30.
+3.8. A Kormány felhívja a belügyminisztert, hogy a rendőri állomány egyéni integritásának erősítése érdekében
+– a Magyar Rendvédelmi Kar bevonásával – gondoskodjon a Rendőri Hivatás Etikai Kódexének kiegészítéséről,
+annak érdekében, hogy az részletesebb, gyakorlatiasabb útmutatásokkal tudja támogatni az állományt a követendő
+magatartásban.
+Felelős: belügyminiszter
+Határidő: 2024. december 31.
+3.9. A Kormány felhívja az igazságügyi minisztert, hogy a belügyminiszter, a pénzügyminiszter, az európai uniós
+ügyekért felelős miniszter, a legfőbb ügyész, az Országos Bírósági Hivatal elnöke, az Országos Bírói Tanács, a Magyar
+Ügyvédi Kamara elnöke, valamint az Integritás Hatóság elnökének bevonásával
+a) vizsgálja meg a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) CV/A. Fejezetében
+szereplő, a közhatalom gyakorlásával vagy a közvagyon kezelésével kapcsolatos kiemelt bűncselekmény
+esetén folytatandó külön eljárás működését és hatékonyságát;
+Felelős: igazságügyi miniszter
+belügyminiszter
+pénzügyminiszter
+európai uniós ügyekért felelős miniszter
+Határidő: 2024. február 29.
+b) az a) alpontban meghatározott vizsgálat alapján – az európai uniós ügyekért felelős miniszterrel egyeztetve
+– készítsen jelentést a Kormány részére a Be. CV/A. Fejezetének hatályosulásáról, továbbá – ha ez indokolt –
+a Be. módosítására tegyen javaslatot;
+Felelős: igazságügyi miniszter
+belügyminiszter
+pénzügyminiszter
+európai uniós ügyekért felelős miniszter
+Határidő: 2024. február 29.
+c) amennyiben a b) alpont szerinti jelentés a Be. CV/A. Fejezetének módosítására irányuló javaslatot tartalmaz,
+a jogszabályok előkészítésében való társadalmi részvételről szóló 2010. évi CXXXI. törvény szerinti társadalmi
+egyeztetést és az Európai Bizottsággal való egyeztetést követően dolgozza ki a Be. módosítása iránti
+tervezetet, és nyújtsa be az Országgyűlésnek;
+Felelős: igazságügyi miniszter
+Határidő: 2024. május 15.
+d) amennyiben a b) alpont szerinti jelentés a Be. CV/A. Fejezetéhez kapcsolódó kormányrendeleti, illetve
+igazságügyi miniszteri rendeleti szabályozás módosítására irányuló javaslatot tartalmaz, a jogszabályok
+előkészítésében való társadalmi részvételről szóló 2010. évi CXXXI. törvény szerinti társadalmi egyeztetést
+követően intézkedjen a vonatkozó kormányrendelet, illetve igazságügyi miniszteri rendelet módosítása iránt.
+Felelős: igazságügyi miniszter
+Határidő: 2024. június 30.
+3.10. A Kormány felkéri a legfőbb ügyészt, az Országos Bírósági Hivatal elnökét, az Országos Bírói Tanácsot, a Magyar
+Ügyvédi Kamara elnökét, valamint az Integritás Hatóság elnökét a 3.9. pont a) alpontjában meghatározott
+vizsgálatban való közreműködésre.
+4. A közszféra szerveinek integritása
+4.1. A Kormány felhívja
+a) a belügyminisztert, hogy nyújtson módszertani támogatást az érintett minisztereknek az álláshely-, illetve
+munkaköralapú kockázatelemzéshez;
+Felelős: belügyminiszter
+Határidő: 2024. június 30.
+
+b) az érintett minisztereket, hogy gondoskodjanak az általuk irányított államigazgatási szervek teljes állománya
+tekintetében álláshely-, illetve munkaköralapú kockázatelemzés végrehajtásáról.
+Felelős: érintett miniszterek
+Határidő: 2025. november 30.
+4.2. A Kormány felkéri a Nemzeti Közszolgálati Egyetem rektorát a 4.1. pontban meghatározott feladatban való
+közreműködésre.
+4.3. A Kormány felhívja az érintett minisztereket, hogy az irányításuk, illetve felügyeletük alá tartozó, közérdekű
+bejelentéseket fogadó szervek tekintetében gondoskodjanak az új bejelentővédelmi szabályozásról szóló képzések
+megtartásáról.
+Felelős: érintett miniszterek
+Határidő: 2025. november 30.
+4.4. A Kormány felhívja az igazságügyi minisztert, hogy az Alapvető Jogok Biztosával a 4.3. pontban meghatározott
+képzések tananyagát és módszertanát dolgozza ki.
+Felelős: igazságügyi miniszter
+Határidő: 2024. június 30.
+4.5. A Kormány felkéri az Alapvető Jogok Biztosát, hogy az igazságügyi miniszterrel együtt dolgozza ki a 4.3. pontban
+meghatározott képzés tananyagát és módszertanát, és a képzések megtartásában működjön közre.
+4.6. A Kormány felkéri az igazságügyi minisztert, hogy gondoskodjon az új lobbitörvény megalkotásáról, figyelemmel
+a forgóajtó-jelenség visszaszorítására vonatkozó nemzetközi ajánlásokra is.
+Felelős: igazságügyi miniszter
+Határidő: 2025. november 30.
+4.7. A Kormány felkéri a Magyar Kormánytisztviselői Kart, hogy Hivatásetikai Kódexét egészítse ki
+az összeférhetetlenségi esetek elkerülése, kezelése, valamint az érdekérvényesítőkkel való kapcsolattartásra,
+a forgóajtó-jelenségre vonatkozó részletes szabályokkal, az integritási tanácsadók feladatellátására építve, az Európa
+Tanács Miniszteri Bizottságának a köztisztviselői etikai kódexekre vonatkozó ajánlásának megfelelően.
+4.8. A Kormány felhívja a közigazgatási és területfejlesztési minisztert, hogy készítsen módszertani útmutatót az érintett
+miniszterek bevonásával az önkormányzatok lobbistákkal való kapcsolattartásáról, a forgóajtó-jelenségről és
+az összeférhetetlenségi esetek elkerülésének gyakorlatáról a legjobb megoldások azonosítása és elősegítése
+érdekében.
+Felelős: közigazgatási és területfejlesztési miniszter
+érintett miniszterek
+Határidő: 2024. december 31.
+4.9. A Kormány felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy – a belügyminiszter, a közigazgatási és
+területfejlesztési miniszter és az igazságügyi miniszter bevonásával –
+a) mérje fel, mely ügycsoportok – beleértve az európai uniós támogatások felhasználásával kapcsolatos
+ügyintézési folyamatokat – tekintetében van lehetőség az automatizálás, elektronikus ügyintézés szélesebb
+körű alkalmazására annak érdekében, hogy az ügyintézési folyamatokban tovább csökkenjenek a korrupciós
+kockázatok, és erről készítsen előterjesztést a Kormány számára;
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+belügyminiszter
+közigazgatási és területfejlesztési miniszter
+igazságügyi miniszter
+Határidő: 2024. december 31.
+b) a gondoskodjon a Kormány által az a) alpont szerinti előterjesztés elfogadásával kijelölt ügyintézési
+folyamatok automatizálásáról, és erről tegyen jelentést a Kormány számára.
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+belügyminiszter
+közigazgatási és területfejlesztési miniszter
+igazságügyi miniszter
+Határidő: 2025. november 30.
+4.10. A Kormány felkéri a Nemzeti Közszolgálati Egyetem rektorát, hogy
+a) az egyetem által kidolgozott, a nemzeti sajátosságokat figyelembe vevő, a Jó Állam Mutató rendszeréhez
+igazodó módszertan alapján – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával és a Központi
+
+Statisztikai Hivatal közreműködésével – kétévente gondoskodjon a korrupció érzékelés kutatás lefolytatásáról
+Magyarországon;
+Határidő: 2025. november 30.
+b) a közszféra körében, az ott előforduló korrupciós cselekmények és etikátlan magatartások típusai,
+gyakorisága tekintetében, a további kockázatok azonosítása érdekében végezzen egy kombinált – észlelési
+és tapasztalati – megközelítésű kutatást.
+Határidő: 2025. november 30.
+4.11. A Kormány felkéri az Állami Számvevőszéket, hogy az ellenőrzései során különös hangsúlyt fordítson az európai
+uniós és a nemzeti támogatások kapcsán a források kihelyezésének szabályszerű, gazdaságos és eredményes
+módjára, a kihelyezett források felhasználásának szabályszerűségére, különösképpen a beruházások kivitelezésére,
+a hatósági jogalkalmazást és közszolgáltatást nyújtó költségvetési szervek, köztulajdonban álló gazdasági
+társaságok feladatellátásának esetében.
+4.12. A Kormány felhívja a közigazgatási és területfejlesztési minisztert, hogy innovatív tudásmenedzsment eszközökkel
+biztosítsa a fejlesztéspolitikai döntések meghozatalában érintett politikai és szakmai felsővezetők számára
+a feladatkörükhöz szükséges integritási tudáselemeket, és a bevált jó gyakorlatokat tegye elérhetővé a teljes
+kormányzati szervezetrendszerben.
+Felelős: közigazgatási és területfejlesztési miniszter
+Határidő: 2025. november 30.
+4.13. A Kormány felhívja a belügyminisztert, hogy a megbízhatósági vizsgálatok végrehajtásának eddigi tapasztalatai
+alapján mérje fel a jogintézmény alkalmazása kiterjesztésének további lehetőségeit.
+Felelős: belügyminiszter
+Határidő: 2024. december 31.
+5. A közbeszerzési és gazdasági verseny tisztasága
+5.1. A Kormány felkéri a Közbeszerzési Hatóságot, hogy
+a) fokozza az ellenőrzési tevékenységét az ajánlatkérő részajánlattétel biztosításával összefüggő indokolási
+kötelezettségének vizsgálatát érintően, valamint a konkrét gyártmányjelzések, túlspecifikált alkalmassági
+követelmények és értékelési szempontok előírása tekintetében;
+b) adjon tájékoztatást a gazdasági verseny tisztasága érdekében kötött együttműködési megállapodásainak
+eredményességéről az éves beszámolójában;
+c) a nyilvánosság biztosítása érdekében tegye közzé az öntisztázással felmerülő feladataival összefüggésben,
+a megbízhatóság megállapítása iránti kérelmet elutasító döntéseit és a közérdekű bejelentések
+kivizsgálásának lezárását követően, a bejelentő anonimitásának szükség szerinti biztosításával,
+a bejelentésekkel kapcsolatos főbb információkat.
+Határidő: 2025. november 30.
+5.2. A Kormány felkéri az Integritás Hatóságot, hogy az 5.1. pont c) alpontjában meghatározott feladatot végezze el.
+Határidő: 2025. november 30.
+5.3. A Kormány felkéri az érintett szakmai kamarákat, hogy vizsgálják meg annak lehetőségeit, hogy milyen
+módon, illetve eszközök igénybevételével tudják tagjaikat széles körben arra ösztönözni, hogy az előzetes piaci
+konzultációkon részt vegyenek, és az ajánlatkérő által konzultációra bocsátott dokumentumok vonatkozásában
+olyan érdemi, szakmai észrevételt tegyenek, amely az adott közbeszerzési eljárás eredményességét, a közbeszerzési
+szerződés teljesíthetőségét, a verseny növelését, valamint a megfelelő ajánlattételt segíti elő.
+Határidő: 2025. november 30.
+5.4. A Kormány felhívja a pénzügyminisztert, hogy
+a) az érintett szervek bevonásával vizsgálja meg, hogy a pályázati feltételek meghatározása, a támogatási
+kérelmek vizsgálata (értékelése) és a támogatások odaítélése szempontjából mely ellenőrzési
+mechanizmusok építhetők be az európai uniós alapokból származó támogatások felhasználásának
+rendjét érintő szabályozásból a hazai forrásból megvalósuló támogatási rendszerbe oly módon, hogy
+az eredményesen és hatékonyan hozzájáruljon a közpénzek felhasználásának fokozott védelméhez és
+a korrupciós kockázatok csökkentéséhez;
+Felelős: pénzügyminiszter
+Határidő: 2024. június 30.
+
+b) intézkedjen az a) alpontban meghatározott vizsgálat eredményének gyakorlatba történő átültetéséről.
+Felelős: pénzügyminiszter
+Határidő: 2025. június 30.
+5.5. A Kormány felhívja a pénzügyminisztert, hogy
+a) a hazai forrásokból biztosított támogatások körére kiterjedően vizsgálja felül az államháztartási
+jogszabályokat a költségvetési támogatások lebonyolításában és kezelésében részt vevő szervek
+többszintűségének felülvizsgálata és esetleges megszüntetése érdekében, valamint az eljárási szabályokat
+a jelenleginél nagyobb körben történő egységesítési lehetőségekre kiterjedően;
+Felelős: pénzügyminiszter
+Határidő: 2024. június 30.
+b) tegyen jelentést a Kormány részére az a) alpont szerinti felülvizsgálat eredményéről, tapasztalatairól, és
+készítsen előterjesztést a szükséges jogszabály-módosításokra.
+Felelős: pénzügyminiszter
+Határidő: 2025. június 30.
+5.6. A Kormány felhívja a pénzügyminisztert, hogy
+a) a pályázati felhívások körére kiterjedően vizsgálja felül az államháztartási szabályokat a Támogatásokat
+Vizsgáló Iroda részére való bejelentési kötelezettség teljesítésére és a beruházásokra specifikált képzési
+rendszer kialakítása szempontjából, valamint biztosítsa mindennek az informatikai nyomon követését;
+Felelős: pénzügyminiszter
+európai uniós ügyekért felelős miniszter
+Határidő: 2024. szeptember 30.
+b) készítsen javaslatot olyan jogszabályi környezetre, amely az a) alpont szerinti felülvizsgálat eredményei
+alapján a fejezeti kezelésű előirányzatok terhére nyújtott támogatások esetében lehetőséget ad
+a támogatáshalmozódás vizsgálatára és módszertan alapján történő kockázatelemzésére.
+Felelős: pénzügyminiszter
+európai uniós ügyekért felelős miniszter
+Határidő: 2025. június 30.
+5.7. A Kormány felhívja a pénzügyminisztert, hogy hozzon intézkedést a Támogatásokat Vizsgáló Iroda részére történő
+bejelentési kötelezettség teljesítésére.
+Felelős: pénzügyminiszter
+európai uniós ügyekért felelős miniszter
+Határidő: 2025. június 30.
+5.8. A Kormány felhívja a pénzügyminisztert, hogy – az igazságügyi miniszter bevonásával – a Nemzeti Adó- és
+Vámhivatal hatáskörébe tartozó ügyek tekintetében
+a) mérje fel az adó- és büntetőjogi eljárások közötti párhuzamosságokat és az eljárások eredményeként
+jelentkező kétszeres értékelés megszüntetésének lehetőségét az eljárási rendszerek átláthatóbbá tétele
+céljából;
+Felelős: pénzügyminiszter
+igazságügyi miniszter
+Határidő: 2024. december 31.
+b) az a) alpont szerinti felülvizsgálat eredményétől függően készítsen előterjesztést a Kormány számára
+a szükséges intézkedésekre.
+Felelős: pénzügyminiszter
+igazságügyi miniszter
+Határidő: 2025. május 31.
+5.9. A Kormány felhívja a pénzügyminisztert, hogy a tulajdonosi jogokat gyakorló miniszterek bevonásával
+a) szakmai szervezetekkel egyeztetve, Magyarország versenyképességének további erősítése érdekében,
+a nemzetközi jó gyakorlatok alapján készítsen szabályozási koncepciót a hazai nagyvállalatok belső
+kontrollrendszerének fejlesztésére;
+Felelős: pénzügyminiszter
+érintett miniszterek
+Határidő: 2024. március 31.
+
+b) tegyen javaslatot a Kormány számára a bevezethető intézkedések ütemezéséről.
+Felelős: pénzügyminiszter
+Határidő: 2024. június 30.
+6. Társadalmi integritás
+6.1. A Kormány felhívja a kultúráért és innovációért felelős minisztert, hogy a belügyminiszter bevonásával
+a) dolgozzon ki ajánlást a fiatal generáció szemléletformálása érdekében a korrupciómegelőzési ismeretek
+felsőoktatási tananyagba történő integrálására;
+Felelős: kultúráért és innovációért felelős miniszter
+belügyminiszter
+Határidő: 2024. június 30.
+b) tegyen jelentést a Kormánynak az ajánlásnak a felsőoktatási intézmények általi gyakorlatba ültetésére.
+Felelős: kultúráért és innovációért felelős miniszter
+belügyminiszter
+Határidő: 2025. június 30.
+6.2. A Kormány felkéri a Nemzeti Közszolgálati Egyetem rektorát a 6.1. pontban meghatározott feladatokban való
+közreműködésre.
+6.3. A Kormány felhívja a belügyminisztert, hogy gondoskodjon az etika és integritás témakörben tájékoztató anyag
+megküldéséről a köznevelési intézmények részére.
+Felelős: belügyminiszter
+Határidő: 2024. december 31.
+6.4. A Kormány felhívja a belügyminisztert, hogy – az érintett miniszterek bevonásával –
+a) gondoskodjon a közszféra tervezett mentorálási rendszereiben a mentorok felkészítéséről a korrupcióval
+kapcsolatos ismeretátadásra;
+Felelős: belügyminiszter
+érintett miniszterek
+Határidő: 2024. december 31.
+b) tegyen jelentést a Kormány számára az a) alpont szerinti intézkedések tapasztalatairól.
+Felelős: belügyminiszter
+érintett miniszterek
+Határidő: 2025. november 30.
+6.5. A Kormány felhívja a belügyminisztert, hogy
+a) vizsgálja meg a korrupciós kockázatok csökkentésének további lehetőségeit a köznevelés, az egészségügy és
+a szociális ellátás területén, és a szükséges intézkedésekről készítsen előterjesztést;
+Felelős: belügyminiszter
+Határidő: 2024. december 31.
+b) tegyen jelentést a Kormány számára az a) alpont szerinti intézkedések eredményéről és végrehajtási
+tapasztalatairól.
+Felelős: belügyminiszter
+Határidő: 2025. november 30.
+6.6. A Kormány felhívja az igazságügyi minisztert, hogy
+a) vizsgálja meg a köztestületek és az állami közszolgáltatást nyújtó szervek tekintetében a közszféra
+intézményeinél már alkalmazott integritástudatosságot támogató intézkedések bevezetésének lehetőségét,
+és erről készítsen előterjesztést;
+Felelős: igazságügyi miniszter
+Határidő: 2024. június 30.
+b) tegyen javaslatot a Kormány számára a bevezethető intézkedések ütemezéséről;
+Felelős: igazságügyi miniszter
+Határidő: 2024. december 31.
+c) tegyen jelentést a Kormány számára a b) alpont szerint bevezetett intézkedések gyakorlati tapasztalatairól.
+Felelős: igazságügyi miniszter
+Határidő: 2025. november 30.
+
+6.7. A Kormány felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy – az igazságügyi miniszter,
+a külgazdasági és külügyminiszter, illetve a belügyminiszter bevonásával – gondoskodjon tájékoztató kampányok
+lefolytatásáról
+a) a párhuzamosan működő bejelentőrendszerek funkcióiról, a bejelentés folyamatáról, hasznosságáról,
+a bejelentő személyének védelméről, a közérdeket veszélyeztető visszaélések bejelentéséért való
+állampolgári felelősségről, beleértve a külföldi vesztegetés gyanújának bejelentését;
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+igazságügyi miniszter
+külgazdasági és külügyminiszter
+belügyminiszter
+Határidő: 2024. június 30.
+b) az egészségügyben jelentkező hálapénz kivezetéséről.
+Felelős: Miniszterelnöki Kabinetirodát vezető miniszter
+belügyminiszter
+Határidő: 2024. június 30.
+6.8. A Kormány felkéri az Alapvető Jogok Biztosát, hogy a 6.7. alpont a) alpontja megvalósításában működjön közre,
+támogatva, hogy a bejelentővédelmi rendszer a civil korrupció elleni fellépés hatékony eszköze legyen.
+6.9. A Kormány felhívja a belügyminisztert, hogy gondoskodjon a szociális ellátásban dolgozó szakemberek részére
+olyan képzés megtartásáról, amely a csalással és korrupcióval szembeni ellenállóképességüket növeli.
+Felelős: belügyminiszter
+Határidő: 2025. november 30.
+7. A külföldi vesztegetés elleni fellépés
+7.1. A Kormány felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon képzések megtartásáról a magyar
+vállalatokkal együttműködő ügynökségek, a külképviseletek dolgozói, valamint az exporttevékenységet folytató
+üzleti élet szereplői számára a nemzetközi korrupciós kockázatok azonosítása és elkerülése érdekében, valamint
+az általuk észlelt külföldi vesztegetés bűncselekmény gyanújára vonatkozó jelentési kötelezettség teljesítésére.
+Felelős: külgazdasági és külügyminiszter
+Határidő: 2025. november 30.
+7.2. A Kormány felhívja a pénzügyminisztert, hogy gondoskodjon rendszeresen speciális képzések megtartásáról
+a könyvvizsgálói szakma részére, és ösztönözze azt a számviteli szakma és az adószakértők, adótanácsadók részére
+a külföldi vesztegetés kockázatai tárgyában.
+Felelős: pénzügyminiszter
+Határidő: 2025. november 30.
+7.3. A Kormány felhívja a külgazdasági és külügyminisztert, hogy
+a) gazdasági ágazatonként mérje fel a nemzetközi érdekeltségű magyar gazdasági társaságok és egyéb
+vállalkozások külföldi vesztegetésnek való kitettségét, és készítsen előterjesztést a szükséges intézkedésekről;
+Felelős: külgazdasági és külügyminiszter
+Határidő: 2024. december 31.
+b) tegyen jelentést a Kormány részére az a) alpont szerinti intézkedések eredményéről és a végrehajtás
+tapasztalatairól.
+Felelős: külgazdasági és külügyminiszter
+Határidő: 2025. november 30.
+7.4. A Kormány felhívja a pénzügyminisztert, hogy
+a) alakítsa ki a Nemzeti Adó- és Vámhivatal, valamint a Legfőbb Ügyészség külföldi vesztegetés tárgyában
+való együttműködés keretrendszerét, a született ítéletek megismerése, valamint az adóhatóság által észlelt
+bűncselekmény esetében a bejelentés küldésének és fogadásának hatékonysága fokozása érdekében;
+Felelős: pénzügyminiszter
+Határidő: 2024. december 31.
+b) tegyen jelentést a Kormány részére az a) alpont alapján tett intézkedéseknek a bejelentés küldésének és
+fogadásának hatékonyságára gyakorolt hatásáról.
+Felelős: pénzügyminiszter
+Határidő: 2025. november 30.
+
+7.5. A Kormány felhívja az igazságügyi minisztert, hogy a legfőbb ügyésszel együttműködést kezdeményezve
+a) folytasson nemzetközi tapasztalatcserére irányuló programot a külföldi vesztegetés tárgyú ügyek ügyészségi
+nyomozásának, vádképviseletének, valamint az ezekhez kapcsolódó kodifikációs feladatok hatékony ellátása
+érdekében;
+Felelős: igazságügyi miniszter
+Határidő: 2024. december 31.
+b) tegyen jelentést a Kormány részére az a) alpont szerinti tapasztalatcsere programnak a külföldi vesztegetés
+tárgyú ügyek ügyészségi nyomozásának, vádképviseletének, valamint az ezekhez kapcsolódó kodifikációs
+feladatoknak a hatékonyságára gyakorolt hatásáról.
+Felelős: igazságügyi miniszter
+Határidő: 2025. november 30.
+8. A Kormány felhívja a közigazgatási és területfejlesztési minisztert, hogy folyamatosan vizsgálja az uniós pénzügyi
+érdekeket sértő csalás és korrupció elleni és a nemzeti korrupcióellenes stratégia intézkedései végrehajtásának
+összhangját.
+Felelős: közigazgatási és területfejlesztési miniszter
+Határidő: 2024. december 31. és 2025. november 30.
+9. A Kormány felhívja a belügyminisztert, hogy gondoskodjon a 2024–2025 közötti időszakra szóló középtávú
+Nemzeti Korrupcióellenes Stratégia
+a) hatásosságának független, professzionális külső értékelő szervezet általi értékeléséről;
+Felelős: belügyminiszter
+Határidő: 2026. február 28.
+b) az a) alpont szerinti értékelése alapján készült beszámoló Kormány általi elfogadásáról.
+Felelős: belügyminiszter
+Határidő: 2026. március 31.
