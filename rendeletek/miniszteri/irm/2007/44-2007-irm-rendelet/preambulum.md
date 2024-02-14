@@ -1,1 +1,0 @@
-A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 35. § (2) bekezdés d) pontjában kapott felhatalmazás alapján, az igazságügyi és rendészeti miniszter feladat- és hatásköréről szóló 164/2006. (VII. 28.) Korm. rendelet 1. § e) pontjában foglalt feladatkörömben eljárva a következőket rendelem el:
