@@ -1,0 +1,1 @@
+9. § A nem a fogvatartottak elhelyezésére, foglalkoztatására kijelölt bv. szerv személyi állományának tagja az adott bv. szerv területére történő belépés alkalmával nem köteles a személyazonosságát igazolni, és a belépés indokát közölni, ha a beléptetés egyedi azonosításra alkalmas elektronikus beléptetőrendszerrel történik.

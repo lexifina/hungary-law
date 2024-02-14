@@ -1,0 +1,1 @@
+12. § Az állandó személyvédelemben részesülő személy és a védelmét ellátó személy beléptetése, a védelemhez szükséges eszközök bevitele a bv. szerv vezetője és a védelmet ellátó szervezet képviselője közötti előzetes egyeztetés szerint történik.
