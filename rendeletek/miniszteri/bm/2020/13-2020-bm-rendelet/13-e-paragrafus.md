@@ -1,4 +1,4 @@
-## 5/C.[^38] A 651/2014/EU bizottsági rendet 33. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás
+## 5/C.[^41] A 651/2014/EU bizottsági rendet 33. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás
 
 13/E. § (1) A megváltozott munkaképességű munkavállaló foglalkoztatásához bértámogatás formájában nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 75%-át.
 
@@ -10,4 +10,4 @@
 
 (5) A megváltozott munkaképességű munkavállaló – a kötelességszegés miatti jogszerű elbocsátás esetét kivéve – az alkalmazandó nemzeti jogszabályoknak, a munkaszerződésnek vagy a vállalkozásra nézve kötelező kollektív szerződésnek megfelelő minimális időtartamon keresztül folyamatos foglalkoztatásra jogosult.
 
-[^38]: Az 5/C. alcímet (13/E. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^41]: Az 5/C. alcímet (13/E. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.

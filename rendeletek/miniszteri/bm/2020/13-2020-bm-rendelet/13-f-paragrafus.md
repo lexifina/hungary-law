@@ -1,6 +1,6 @@
-## 5/D.[^39] A 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás
+## 5/D.[^42] A 651/2014/EU bizottsági rendelet 34. cikke szerinti, a megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás
 
-13/F. §[^40] (1) A megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
+13/F. §[^43] (1) A megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az elszámolható költségek 100%-áig nyújtható.
 
 (2) A támogatás keretében elszámolható
 
@@ -18,5 +18,5 @@ e) a megváltozott munkaképességű munkavállaló által rehabilitációra for
 
 (4) Ezen alcím keretében védett foglalkoztatásnak olyan vállalkozásnál történő foglalkoztatás minősül, ahol a munkavállalók legalább 30%-a megváltozott munkaképességű.
 
-[^39]: Az 5/D. alcímet (13/F. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
-[^40]: A 13/F. § a 39/2023. (IX. 14.) BM rendelet 5. §-ával megállapított szöveg.
+[^42]: Az 5/D. alcímet (13/F. §) a 33/2022. (IX. 22.) BM rendelet 2. §-a iktatta be.
+[^43]: A 13/F. § a 39/2023. (IX. 14.) BM rendelet 5. §-ával megállapított szöveg.

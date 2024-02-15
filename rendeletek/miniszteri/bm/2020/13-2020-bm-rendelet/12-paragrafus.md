@@ -1,4 +1,4 @@
-12. §[^34] (1) A 8. § (2) bekezdés f) pontja szerinti támogatás esetén
+12. §[^37] (1) A 8. § (2) bekezdés f) pontja szerinti támogatás esetén
 
 a) a támogatási intenzitás nem haladhatja meg az elszámolható költségek 70%-át, vagy
 
@@ -18,4 +18,4 @@ e) az elrendezés és nyomdai előkészítés költsége és
 
 f) a nyomtatás vagy elektronikus közzététel költsége.
 
-[^34]: A 12. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
+[^37]: A 12. § a 39/2023. (IX. 14.) BM rendelet 4. §-ával megállapított szöveg.
