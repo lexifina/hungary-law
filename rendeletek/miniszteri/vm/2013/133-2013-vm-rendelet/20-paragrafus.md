@@ -1,18 +1,19 @@
-20. §[^99] (1) A horgászszövetség a honlapján az állami horgászjegy forgalmazási pontok címeit és elérhetőségi adatait, valamint azok nyitvatartási idejét köteles közzétenni.
+20. §[^87] (1) Az állami horgászvizsgát a horgászszövetségi szakrendszer biztosítja. E vizsgával egyenértékűnek minősül az Európai Unió más tagállamában, az Európai Gazdasági Térségről szóló megállapodásban részes más államban, továbbá az olyan államban tett vizsga, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
-(2) A forgalmazással megbízott horgászszervezet a Hhvtv. 42. § (1) bekezdésében foglalt nyilvántartási kötelezettségének teljesítése érdekében, az állami horgászjegy kiadását megelőzően a Hhvtv. 42. § (2) bekezdés a)–c) pontjaiban felsorolt adatokat a megbízási szerződésben foglaltak szerint, haladéktalanul rögzíti a horgászszövetség a nyilvántartásában. Kivételt képeznek az előre nem látott és a forgalmazással megbízott horgászszervezetnek fel nem róható helyzetek, amelyekről a horgászszövetséget haladéktalanul értesítenie kell.
+(2) A horgászszövetségi szakrendszer működésének akadályozottsága alatt horgászvizsgáztatás nem végezhető.
 
-(3) A horgászszövetség, illetve forgalmazási pontja köteles az általa kiadott vagy az állami horgászjegy váltásakor hozzá leadott fogási naplók gyűjtéséről és adatfeldolgozásáról gondoskodni, az előző évi fogási naplók leadásának tényét nyilvántartani, továbbá az előző évi fogási naplók összesített fogási adatait az informatikai rendszerében rögzíteni minden év május 1-jéig nyilvántartott halgazdálkodási vízterületenként faj szerinti bontásban.
+(3) Állami horgászvizsgát a horgászszövetség, illetve az általa vizsgáztatásra feljogosított horgászszervezet által meghirdetett vizsganapon lehet tenni. A vizsgáztatásra feljogosított horgászszervezet gondoskodik havonta legalább egy állami horgászvizsga megtartásáról.
 
-(4) Ha a (3) bekezdés szerinti forgalmazói feladat végrehajtása nem történik meg, akkor a horgászszövetség 30 napon belül köteles a fogási naplók adatainak feldolgozására, és jogosult a feldolgozás megbízási szerződésben meghatározott költségeinek megtéríttetésére.
+(4) A vizsgáztatásra feljogosított horgászszervezet és a horgászszövetség az általa meghirdetett horgászvizsgák pontos helyszínét és időpontját a vizsgák megtartása előtt legkevesebb 3 nappal a horgászszövetségi szakrendszerben közzéteszi. A horgászszövetség olyan horgászszervezetet vonhat be a horgászvizsgáztatásban való közreműködésre, amely legalább három, horgászati és halgazdálkodási ismeretekkel rendelkező tagból álló horgászvizsga bizottságot (a továbbiakban: horgászvizsga bizottság) hoz létre. A horgászvizsga bizottság tagjainak halgazdálkodási ismereteit a 32. § (1) bekezdése szerinti végzettséggel vagy halőri vizsgával kell igazolni.
 
-(5) Azzal a horgászszervezettel, amely az állami horgászjegy, fogási napló forgalmazásával e rendeletben előírt kötelezettségének nem tesz eleget, az állami horgászjegy és a horgász fogási napló forgalmazásával összefüggésben a horgászszövetség további forgalmazási szerződést a tárgyévet követő 3 évig nem köthet.
+(5) A (4) bekezdés szerinti feltételeknek való megfelelést igazoló dokumentumokat a horgászszövetség szakrendszerében rögzíti.
 
-(6) A forgalmazással megbízott horgászszervezet az általa gyűjtött és feldolgozott fogási naplókat köteles az adatfeldolgozást követő év utolsó napjáig megőrizni és azokba a halgazdálkodási hatóság, illetve a horgászszövetség számára betekintést biztosítani.
+(6) A horgászvizsgáztatás részletes szabályzatának elkészítéséről és a horgászvizsga felkészítő anyagáról a horgászszövetség gondoskodik. Az állami horgászvizsga követelményrendszerét és a horgászvizsgáztatás szabályzatát a horgászszövetség a honlapján és a szakrendszerében közzéteszi.
 
-(7)[^100]
+(7) Az (1) bekezdés szerinti egyenértékűséget és a horgászvizsga letétele alóli, a Hhvtv. 38/C. § (6) bekezdése szerinti mentességet a horgászvizsga bizottság számára hitelt érdemlő módon, az egyenértékűséget vagy a mentességet igazoló okmány vagy igazolás bemutatásával kell igazolni. Az okmányt vagy igazolást annak bemutatásával egyidejűleg a horgászszövetség a szakrendszerébe feltölti.
 
-(8) Állami horgászjegy forgalmazására csak a 22. § (1) bekezdés szerinti regisztrációt is biztosítani tudó horgászszervezetek jogosultak.
+(8) Az állami horgászvizsgáztatás során a vizsga igazolását, a sikeres állami horgászvizsgát követően az állami horgászvizsga bizonyítvány kiadását, pótlását a horgászszövetség a szakrendszerén keresztül, elektronikus úton biztosítja. Az állami horgászvizsga bizonyítványt a horgászvizsga bizottság erre irányuló igény esetén a helyszínen papír alapon is átadja a vizsgázónak.
 
-[^99]: A 20. § a 45/2018. (XII. 28.) AM rendelet 14. §-ával megállapított szöveg.
-[^100]: A 20. § (7) bekezdését az 5/2021. (II. 23.) AM rendelet 18. § c) pontja hatályon kívül helyezte.
+(9) Az állami horgászvizsga – érvényes nyilvántartásba vétel esetén – a horgászszövetségi applikáció használatával is igazolható.
+
+[^87]: A 20. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

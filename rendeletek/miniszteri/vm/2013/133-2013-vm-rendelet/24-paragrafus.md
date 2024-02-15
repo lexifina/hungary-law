@@ -1,5 +1,11 @@
-24. § (1)[^116] A Hhvtv. 40. § (3) bekezdésében foglalt esetekben az állami horgászjegy birtokában egy darab, egy – legfeljebb háromágú – horoggal felszerelt horgászkészség, valamint egyidejűleg egy darab, 1 m2-nél nem nagyobb csalihalfogó emelőháló használható.
+24. §[^91] (1) A Magyar Horgászkártya a kiváltása napjától kezdve a kiváltást követő ötödik év január hó 31. napjáig érvényes.
 
-(2) A Hhvtv. 40. § (3) bekezdése alapján kiadott állami horgászjeggyel és az ahhoz kiadott területi jeggyel rendelkező gyermek horgász kizárólag nagykorú személy felügyelete mellett horgászhat.
+(2) A plasztikalapú horgászkártyát a horgászszövetség az igénylő által a horgászszövetségi szakrendszerben megjelölt címre kézbesíti. A kártya a regisztrációhoz tartozó QR kód mellett a horgászszövetségi azonosító számot is tartalmazza.
 
-[^116]: A 24. § (1) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 22. pontja, a 45/2018. (XII. 28.) AM rendelet 34. § n) pontja szerint módosított szöveg.
+(3) A Magyar Horgászkártya horgászszövetségi applikáció alkalmazásból is elérhető.
+
+(4) A Magyar Horgászkártya 12. melléklet szerinti díját a horgászszövetség részére kell befizetni.
+
+(5) A Magyar Horgászkártya kötelező adattartalmát a halgazdálkodási hatóság honlapján közzéteszi.
+
+[^91]: A 24. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

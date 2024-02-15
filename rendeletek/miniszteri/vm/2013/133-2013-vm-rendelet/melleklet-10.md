@@ -8,7 +8,7 @@
 
 | 4. | sügér | 03. 01. – 04. 30. | legalább 15 cm | 3 kg |
 
-| 5. | fogassüllő | 03. 01. – 04. 30. | legalább 30 cm | 3 db |
+| 5. | süllő | 03. 01. – 04. 30. | legalább 30 cm | 3 db |
 
 | 6. | kősüllő | 03. 01. – 06. 30. | legalább 25 cm | 3 db |
 
@@ -34,6 +34,6 @@
 
 | 17. | menyhal | – | legalább 25 cm | 3 kg |
 
-10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^252]
+10. melléklet a 133/2013. (XII. 29.) VM rendelethez[^234]
 
-[^252]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.
+[^234]: A 10. mellékletet a 45/2018. (XII. 28.) AM rendelet 35. § e) pontja hatályon kívül helyezte.

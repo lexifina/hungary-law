@@ -1,18 +1,11 @@
-22. §[^112] (1) A horgászok és a rekreációs halászok nyilvántartásának vezetését, valamint a nyilvántartást biztosító regisztrációt a horgászszövetség végzi.
+22. §[^89] (1) Állami horgászokmányt a horgászszövetség, valamint a horgászszövetségi közfeladat-ellátásban közreműködő, kizárólagos horgászszövetségi tulajdonú gazdasági társasága, továbbá a regisztrációs és nyilvántartási feladatokat ellátó horgászszervezet vagy értékesítési pont forgalmazhat.
 
-(2) A horgászszövetség a regisztrációval kapcsolatos feladatokat az állami horgászjegy forgalmazással megbízott horgászszervezeteken keresztül biztosítja.
+(2) Az állami horgászokmányok díját a 12. melléklet tartalmazza. Az elektronikusan előállított okmányok díja megegyezik a papír alapon kiadott okmányok díjával.
 
-(3) A regisztrációt és a nyilvántartást támogató informatikai rendszer fenntartása és üzemeltetése – az online regisztráció lehetőségének biztosítása mellett – a horgászszövetség feladata.
+(3) A horgászszövetség az állami horgászjegyet vagy horgász fogási naplót, valamint az állami halászjegyet vagy halász fogási naplót elvesztése vagy megsemmisülése esetén a 12. mellékletben szereplő díj megfizetése ellenében pótolja.
 
-(4) A nyilvántartásba vétel az állami horgászjegy, a turista állami horgászjegy, valamint az állami halászjegy kiadásának feltétele.
+(4) A Hhvtv. 40. § (4) bekezdése alapján díjmentes állami horgászjegyre és a Hhvtv. 41. § (3) bekezdése alapján díjmentes állami halászjegyre jogosult részére az okmány pótlása is díjmentes.
 
-(5) A nyilvántartásba vétel során a Hhvtv. szerinti kötelező horgászszervezeti tagság is rögzítésre kerül.
+(5) A (3) és (4) bekezdés szerinti pótláskor, az új állami jegy vagy fogási napló kiadásával a 28. § (12a) bekezdésében megállapított éves kifogási mennyiségek időarányosan értelmezendők.
 
-(6) A regisztrációt követően kerül sor a nyilvántartásba vételre és a Magyar Horgászkártya kiadására.
-
-(7)[^113] A Magyar Horgászkártya kötelező adattartalmát és díját a halgazdálkodási hatóság honlapján teszi közzé.
-
-(8) A Magyar Horgászkártya érvényességi ideje öt év, az érvényességi időn belül – a nyilvántartott személynek felróható okok miatt – történő csere díjköteles.
-
-[^112]: A 22. § szövege a 45/2018. (XII. 28.) AM rendelet 16. §-a alapján került beiktatásra.
-[^113]: A 22. § (7) bekezdése a 62/2019. (XII. 18.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^89]: A 22. § a 45/2018. (XII. 28.) AM rendelet 16. §-a alapján került beiktatásra, szövege a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.

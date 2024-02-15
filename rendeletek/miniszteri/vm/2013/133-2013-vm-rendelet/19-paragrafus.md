@@ -1,20 +1,9 @@
-19. § (1)[^85] Az állami horgászjegy kötelező adattartalmát a halgazdálkodási hatóság honlapján teszi közzé.
+19. §[^85] (1) A Hhvtv. 38/B. §-a szerinti nyilvántartásba vétel érdekében a horgászok és a gondviselők, valamint a rekreációs halászok regisztrációját a horgászszövetségi szakrendszerben a horgászszövetség biztosítja.
 
-(2) Állami horgászjeggyel rendelkező személy legfeljebb kettő – egyenként legfeljebb három, darabonként legfeljebb háromágú, horoggal felszerelt – horgászkészséget, valamint egyidejűleg egy darab, 1 m2-nél nem nagyobb csalihalfogó emelőhálót használhat.
+(2) A horgászszövetség a regisztrációval kapcsolatos feladatok elvégzésével az állami horgászokmány forgalmazásával megbízott horgászszervezetet, valamint horgászszervezetnek nem minősülő forgalmazási pontot is megbízhat.
 
-(2a)[^86] A halgazdálkodásra jogosult, illetve horgászatra hasznosított haltermelési létesítményen az üzemeltető a (2) bekezdésben foglaltaktól eltérően a helyi horgászrendben engedélyezheti legfeljebb három – egyenként egy darab egyágú horoggal felszerelt – horgászkészség használatát.
+(3) A regisztrációt követően a horgászszövetségi szakrendszerben automatikusan sor kerül a nyilvántartásba vételre, a horgászszövetségi azonosító szám kiadására és a Hhvtv. 39/A. § (1) bekezdése szerinti Magyar Horgászkártya feltöltésére.
 
-(2b)[^87] A horgászszövetség haszonbérletében lévő nyilvántartott halgazdálkodási vízterületeken a (2a) bekezdés szerinti engedély csak a horgászszövetség jóváhagyása esetén adható ki azzal, hogy az engedély megadása esetén az őshonos halfaj egyede nem fogható ki, azok minden esetben visszahelyezendők.
+(4) A horgászszövetség a forgalmazási pontok címét és elérhetőségi adatait, azok nyitvatartási idejét, valamint a megbízott horgászszervezet nevét, címét és elérhetőségi adatait a honlapján vagy a szakrendszerében közzéteszi, továbbá az Országos Halgazdálkodási Adattárat kezelő szervezetnek adatszolgáltatás keretében átadja.
 
-(3)[^88] Az állami horgászjegy kiadásának napjától kezdve a következő év január 31. napjáig érvényes.
-
-(4)[^89]
-
-(5)[^90]
-
-[^85]: A 19. § (1) bekezdése a 45/2018. (XII. 28.) AM rendelet 34. § m) pontja szerint módosított szöveg.
-[^86]: A 19. § (2a) bekezdését a 45/2018. (XII. 28.) AM rendelet 12. §-a iktatta be.
-[^87]: A 19. § (2b) bekezdését a 45/2018. (XII. 28.) AM rendelet 12. §-a iktatta be.
-[^88]: A 19. § (3) bekezdése a 87/2015. (XII. 21.) FM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 9. §-a alapján a 2015. évben kiadott vagy meghosszabbított érvényességű állami horgászjegy, valamint a 2015. évben kiállított horgász fogási napló 2016. január 31-ig érvényes.
-[^89]: A 19. § (4) bekezdését a 87/2015. (XII. 21.) FM rendelet 5. § (1) bekezdése hatályon kívül helyezte.
-[^90]: A 19. § (5) bekezését a 62/2019. (XII. 18.) AM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^85]: A 19. § a 4/2024. (II. 14.) AM rendelet 5. §-ával megállapított szöveg.

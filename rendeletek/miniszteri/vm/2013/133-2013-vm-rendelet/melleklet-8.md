@@ -1,4 +1,4 @@
-8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^250]
+8. melléklet a 133/2013. (XII. 29.) VM rendelethez[^232]
 
 I. rész
 
@@ -20,7 +20,7 @@ I. rész
 
 | balin | Leuciscus aspius / Aspius aspius | X |  | X |  |
 
-| szélhajtó küsz | Alburnus alburnus | X |  |  |  |
+| küsz | Alburnus alburnus | X |  |  |  |
 
 | karikakeszeg | Blicca bjoerkna | X |  |  |  |
 
@@ -56,10 +56,10 @@ I. rész
 
 | vágó durbincs | Gymnocephalus cernua |  | X |  |  |
 
-| fogassüllő | Sander lucioperca | X |  |  |  |
+| süllő | Sander lucioperca | X |  |  |  |
 
 | kősüllő | Sander volgensis | X |  |  | X |
 
 II. rész
 
-[^250]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja szerint módosított, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése, a 3/2023. (I. 27.) AM rendelet 7. § d)-e) pontja szerint módosított szöveg.
+[^232]: A 8. melléklet a 44/2014. (IV. 14.) VM rendelet 25. § f) pontja, a 45/2018. (XII. 28.) AM rendelet 33. § (2) bekezdése, a 3/2023. (I. 27.) AM rendelet 7. § d)–e) pontja, a 4/2024. (II. 14.) AM rendelet 13. § h) pont ha) és hb) alpontja szerint módosított szöveg.

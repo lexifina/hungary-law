@@ -1,8 +1,8 @@
-30/A. §[^171] (1) A horgászszövetség a különféle horgászmódszerekhez igazodó országos versenyszabályzatait a halgazdálkodási hatóság honlapján közzétett adattartalommal alakítja ki.
+30/A. §[^150] (1) A horgászszövetség a különféle horgászmódszerekhez igazodó országos versenyszabályzatait a halgazdálkodási hatóság honlapján közzétett adattartalommal alakítja ki.
 
 (2) A halgazdálkodási hatóság az országos versenyszabályzatot abban az esetben hagyja jóvá, ha az országos versenyszabályzatban foglalt előírások alapján megállapítható, hogy az annak alapján tartandó rendezvények előreláthatólag nem veszélyeztetik a hal élőhelyét és az őshonos halállományt.
 
-(3)[^172] A jóváhagyott országos versenyszabályzat alapján megtartani kívánt sporteseményt írásban, elektronikus úton vagy elektronikus levélben kell a halgazdálkodási hatóság részére bejelenteni a horgászverseny kezdő időpontját megelőzően legalább 8 nappal. A bejelentést a horgászszövetség a vele alhaszonbérleti jogviszonyban álló horgászszervezetek nyilvántartott halgazdálkodási vízterületeire vonatkozóan meghatalmazás csatolása nélkül is megteheti.
+(3)[^151] A jóváhagyott országos versenyszabályzat alapján megtartani kívánt sporteseményt írásban, elektronikus úton vagy elektronikus levélben kell a halgazdálkodási hatóság részére bejelenteni a horgászverseny kezdő időpontját megelőzően legalább 8 nappal. A bejelentést a horgászszövetség a vele alhaszonbérleti jogviszonyban álló horgászszervezetek nyilvántartott halgazdálkodási vízterületeire vonatkozóan meghatalmazás csatolása nélkül is megteheti.
 
 (4) A bejelentésnek tartalmaznia kell:
 
@@ -16,5 +16,5 @@ d) a horgászverseny pontos helyét, kezdő és befejező időpontját.
 
 (5) A horgászszövetség a 30/A. § szerinti versenyszabályzatok szerinti horgászversenyekről nyilvántartást vezet.
 
-[^171]: A 30/A. §-t a 45/2018. (XII. 28.) AM rendelet 26. §-a iktatta be.
-[^172]: A 30/A. § (3) bekezdése az 5/2021. (II. 23.) AM rendelet 17. § o) pontja, a 3/2023. (I. 27.) AM rendelet 7. § c) pontja szerint módosított szöveg.
+[^150]: A 30/A. §-t a 45/2018. (XII. 28.) AM rendelet 26. §-a iktatta be.
+[^151]: A 30/A. § (3) bekezdése az 5/2021. (II. 23.) AM rendelet 17. § o) pontja, a 3/2023. (I. 27.) AM rendelet 7. § c) pontja szerint módosított szöveg.

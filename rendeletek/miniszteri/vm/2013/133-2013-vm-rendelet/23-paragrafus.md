@@ -1,12 +1,7 @@
-23. §[^114] (1) A turista állami horgászjegy adattartalmát a halgazdálkodási hatóság honlapján teszi közzé.
+23. §[^90] (1) A horgászszervezet és a forgalmazási pont köteles az állami horgászjegy váltásakor hozzá leadott papíralapú fogási naplók gyűjtéséről és adatfeldolgozásáról gondoskodni, az előző évi fogási naplók leadásának tényét nyilvántartani, továbbá a horgászszövetségi szakrendszerben az előző évi fogási naplók összesített horgásznapi és fogási adatait minden év május 1-jéig, a fogási adatok esetében nyilvántartott halgazdálkodási vízterületenként, a naplóban meghatározott faj-, illetve gyűjtőkategória szerinti bontásban rögzíteni.
 
-(2) A turista állami horgászjeggyel rendelkező személy egy – legfeljebb kettő, darabonként legfeljebb háromágú, horoggal felszerelt – horgászkészséget, valamint egyidejűleg egy darab, 1 m2-nél nem nagyobb csalihalfogó emelőhálót használhat.
+(2) A forgalmazással megbízott horgászszervezet az általa, valamint forgalmazási pontja által gyűjtött és feldolgozott papíralapú fogási naplókat köteles az adatfeldolgozást követő év utolsó napjáig megőrizni és azokba a halgazdálkodási hatóság, valamint a horgászszövetség számára betekintést biztosítani.
 
-(3) A turista állami horgászjegy kizárólag az alapvető szabály- és fajismeret igazolását is lehetővé tévő online horgászszövetségi értékesítési rendszerben értékesíthető.
+(3) A horgászszövetség gondoskodik a lezárt elektronikus fogási naplók automatikus adatfeldolgozásáról, nyilvántartja az előző évi fogási naplók lezárásának tényét, továbbá a horgászszövetségi szakrendszerben előállítja az előző évi fogási naplók összesített horgásznapi és fogási adatait minden év május 1-jéig, a fogási adatok esetében nyilvántartott halgazdálkodási vízterületenként, a naplóban meghatározott faj-, illetve gyűjtőkategória szerinti bontásban.
 
-(4) A turista állami horgászjegy és a hozzá tartozó fogási napló a váltás időpontjától számítva a 90. nap végéig érvényes. A turista állami horgászjegy és a hozzá tartozó fogási napló nyilvántartott halgazdálkodási vízterületen az érvényességi időtartamán belül érvényes területi jeggyel együtt jogosít horgászatra.
-
-(5)[^115]
-
-[^114]: A 23. § a 45/2018. (XII. 28.) AM rendelet 17. §-ával megállapított szöveg.
-[^115]: A 23. § (5) bekezését a 62/2019. (XII. 18.) AM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^90]: A 23. § a 4/2024. (II. 14.) AM rendelet 6. §-ával megállapított szöveg.
