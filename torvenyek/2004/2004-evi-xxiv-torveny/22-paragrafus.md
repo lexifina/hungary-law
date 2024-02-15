@@ -18,11 +18,13 @@ a) a lőfegyver, lőszer hatósági tárolásának, leadásának, értékesíté
 
 b) a fegyver tartásához, illetve jogszerű használatához, valamint a házilagos lőszerszereléshez és -újratöltéshez szükséges elméleti és jártassági követelményeket és számonkérésük rendjét, továbbá a lőterek működtetésére és a lövészetvezetői vizsgára vonatkozó szabályokat.
 
+c) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítési követelményeket, a képesítés megszerzésének feltételeit és az ehhez kapcsolódó képzési tevékenység szabályait, továbbá a képesítés ellenőrzésének és a képzési tevékenység hatósági felügyeletének a rendjét;
+
 (3) Felhatalmazást kap a rendészetért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben meghatározza:
 
 a) a fegyverekkel kapcsolatos tevékenységek engedélyezése igazgatási szolgáltatási és vizsgadíjának mértékét, a díjak beszedésének, kezelésének, nyilvántartásának, a fegyverek, lőszerek rendőrségi tárolása és megsemmisítése során felmerült költségek megállapításának szabályait,
 
-b) a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási szolgáltatási díjának mértékét, a díjak beszedésének és kezelésének szabályait.
+b) a polgári célú pirotechnikai tevékenység feltételeként előírt képesítés megszerzéséhez kapcsolódó képzési tevékenység költségeire és az ezek megtérítésére vonatkozó szabályokat, valamint a polgári célú pirotechnikai tevékenységek engedélyezése igazgatási szolgáltatási díjának mértékét, a díjak beszedésének és kezelésének szabályait.
 
 (4) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az érdekelt miniszterekkel egyetértésben rendeletben meghatározza a fegyvertartáshoz, illetve a fegyver jogszerű használatához szükséges egészségi alkalmasság feltételeit és vizsgálatának szabályait.
 

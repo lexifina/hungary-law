@@ -42,6 +42,6 @@ d) az engedély számát és a tevékenység megkezdésének vagy folytatásána
 
 (9) A polgári célú pirotechnikai tevékenységnek meg kell felelnie a polgári célú pirotechnikai termékek felhasználásával, valamint a felhasználáshoz szükséges segédeszközök használatával kapcsolatos biztonsági szabályzat előírásait szabályozó kormányrendeletnek.
 
-(10) Az engedély olyan vállalkozásnak adható, amelynek a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy az e címben meghatározott követelménynek megfelelő pirotechnikus.
+(10) Az engedély olyan vállalkozásnak adható, amelynek a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy legalább egy foglalkoztatottja, illetve a vállalkozással kötött polgári jogi szerződés alapján a vállalkozás javára tevékenykedő személy rendelkezik a polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel.
 
 (11) Az engedélyezési eljárásokért igazgatási szolgáltatási díjat kell fizetni.

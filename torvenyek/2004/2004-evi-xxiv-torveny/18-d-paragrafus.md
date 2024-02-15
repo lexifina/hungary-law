@@ -6,7 +6,7 @@ b) a vállalkozásnak, amelynek tagja vagy tulajdonosa olyan vállalkozásnak vo
 
 c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a robbanóanyaggal vagy pirotechnikai termékkel kapcsolatos tevékenység gyakorlásától eltiltott.
 
-(2) Nem foglalkoztatható pirotechnikusként, valamint nem gyakorolhat polgári célú pirotechnikai tevékenységet, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
+(2) Nem végezhet polgári célú pirotechnikai tevékenységet, nem lehet a vállalkozásnak a polgári célú pirotechnikai tevékenység végzésében, illetve irányításában személyesen közreműködő tagja, munkavállalója vagy foglalkoztatottja, továbbá nem végezheti polgári célú pirotechnikai tevékenység irányítását az, aki
 
 a) büntetett előéletű, vagy a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott, a polgári célú pirotechnikai tevékenységgel, illetve a polgári célú pirotechnikai termékkel összefüggő szabálysértés elkövetése miatt két éven belül ismételten elmarasztalták, az elmarasztaló döntésre vonatkozó adatnak a központi szabálysértési nyilvántartásból történt törléséig,
 

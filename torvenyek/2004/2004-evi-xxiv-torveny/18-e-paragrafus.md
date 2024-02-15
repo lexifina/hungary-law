@@ -6,7 +6,7 @@
 
 a) engedély hiányában folytatja,
 
-b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő pirotechnikussal, vagy pirotechnikusi végzettséggel nem rendelkező személlyel végezteti.
+b) engedéllyel nem rendelkező vállalkozással vagy a biztonsági követelményeknek nem megfelelő, illetve az adott polgári célú pirotechnikai tevékenység feltételeként a jogszabályban előírt képesítéssel nem rendelkező személlyel végezteti.
 
 (4)
 
