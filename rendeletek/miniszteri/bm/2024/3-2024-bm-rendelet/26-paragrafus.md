@@ -1,1 +1,3 @@
-26. § Hatályát veszti a büntetés-végrehajtási szervek területére történő be- és kilépés, valamint a büntetés-végrehajtási szervek területén tartózkodás részletes szabályairól szóló 44/2007. (IX. 19.) IRM rendelet.
+26. §[^1]
+
+[^1]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
