@@ -18,19 +18,9 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 
 (4c)[^149]
 
-(4d)[^150] Azon támogatott szervezet, amely ingatlan-fejlesztésre irányuló tárgyi eszköz beruházás, felújítás jogcímen jóváhagyott sportfejlesztési programmal rendelkezik, ha a sportfejlesztési program szerinti kivitelezés készültségi foka indokolja, az adott támogatási időszak vonatkozásában − a jóváhagyást végző szervezet értékelési elveiben és benchmarkjában meghatározott szempontrendszert is figyelembe véve − a (4b) és (4c) bekezdés szerinti hosszabbításon felül kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program további egy támogatási időszakkal történő meghosszabbítását az alábbi körülmények együttes fennállása esetében:
+(4d)[^150]
 
-a) a támogatott szervezet rendelkezik hatályos kivitelezői vállalkozói szerződéssel,
-
-b) az érintett beruházás érvényes kiviteli tervekkel rendelkezik,
-
-c) az érintett beruházás rendelkezik jogerős, végleges építési engedéllyel,
-
-d) az érintett beruházás legkésőbb a 2022. évben elektronikus építési napló alapján igazolható módon megindult, és
-
-e) az eredeti sportfejlesztési programmal jóváhagyott támogatási összeg 60 százaléka igazolhatóan lehívásra került.
-
-(4e)[^151] A sportfejlesztési program (4d) bekezdés szerinti meghosszabbítása iránti kérelemről a jóváhagyást végző szervezet a sportpolitikáért felelős miniszter véleményének figyelembevételével dönt.
+(4e)[^151]
 
 (5)[^152] Ha a jóváhagyást végző szervezet a szakszövetség, a támogatott szervezet a (4) bekezdés szerinti kérelem 1 példányát az 2. § (1) bekezdés 1. pontja szerint illetékes ellenőrző szervezet részére is megküldi.
 
@@ -69,8 +59,8 @@ e) az eredeti sportfejlesztési programmal jóváhagyott támogatási összeg 60
 [^147]: A 14. § (4a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
 [^148]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 631/2023. (XII. 23.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 631/2023. (XII. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
 [^149]: A 14. § (4c) bekezdését a 89/2022. (III. 7.) Korm. rendelet 2. § (1) bekezdése iktatta be, a 631/2023. (XII. 23.) Korm. rendelet 9. § (2) bekezdés b) pontja hatályon kívül helyezte.
-[^150]: A 14. § (4d) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^151]: A 14. § (4e) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^150]: A 14. § (4d) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdése iktatta be, a 631/2023. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^151]: A 14. § (4e) bekezdését a 631/2023. (XII. 23.) Korm. rendelet 5. § (3) bekezdése iktatta be, a 631/2023. (XII. 23.) Korm. rendelet 9. § (2) bekezdés c) pontja hatályon kívül helyezte.
 [^152]: A 14. § (5) bekezdése a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
 [^153]: A 14. § (6) bekezdése a 96/2016. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 164/2017. (VI. 28.) Korm. rendelet 10. § 8. pontja, a 89/2022. (III. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^154]: A 14. § (6a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 164/2017. (VI. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.

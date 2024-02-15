@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-107-20-
 | 2022-03-10 | 2011-107-20-22.32 | 89/2022. (III. 7.) Korm. rendelet |
 | 2023-12-26 | 2011-107-20-22.33 | 631/2023. (XII. 23.) Korm. rendelet |
 | 2024-01-01 | 2011-107-20-22.34 | 631/2023. (XII. 23.) Korm. rendelet |
+| 2024-02-15 | 2011-107-20-22.35 | 631/2023. (XII. 23.) Korm. rendelet |
