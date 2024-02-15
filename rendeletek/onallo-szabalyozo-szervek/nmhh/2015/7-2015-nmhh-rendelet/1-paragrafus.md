@@ -4,7 +4,7 @@
 
 a) a 3000 GHz-ig terjedő rádióspektrumon belüli frekvenciasávok
 
-aa)[^1] frekvenciafelosztására (a továbbiakban: felosztás) rádiószolgálatok számára, valamint polgári, nem polgári és együttes célú használatára,
+aa)[^1] frekvenciafelosztására (a továbbiakban: felosztás) rádiószolgálatok számára, valamint polgári, nem polgári és együttes célú használatra,
 
 ab)[^2] rádiószolgálatok, rádióalkalmazások számára történő használatának előkészítésére, megnyitására, korlátozására,
 
@@ -18,7 +18,7 @@ c) a Nemzeti Média- és Hírközlési Hatóságra (a továbbiakban: NMHH) és a
 
 (2) E rendelet hatálya nem terjed ki a műsorszórási célú frekvenciák frekvenciaelosztási módjára.
 
-[^1]: Az 1. § (1) bekezdés a) pont aa) alpontja a 18/2020. (XII. 17.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés a) pont aa) alpontja a 18/2020. (XII. 17.) NMHH rendelet 1. §-ával megállapított, a 3/2024. (I. 29.) NMHH rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pont ab) alpontja a 18/2020. (XII. 17.) NMHH rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1. § (1) bekezdés a) pont ac) alpontja a 18/2020. (XII. 17.) NMHH rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (1) bekezdés a) pont ad) alpontja a 2/2017. (I. 17.) NMHH rendelet 26. § (7) bekezdés a) pontja szerint módosított szöveg.
