@@ -1,3 +1,3 @@
-10. § A Vhr. 10. alcíme a következő 37. §-sal egészül ki:
+10. §[^10]
 
-„37. § A horgászszövetség szakrendszeréhez a halgazdálkodási hatóság részére adatlekérdezési jogosultságú hozzáférést biztosít.”
+[^10]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

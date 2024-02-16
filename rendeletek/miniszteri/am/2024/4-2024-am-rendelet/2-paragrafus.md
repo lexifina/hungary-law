@@ -1,3 +1,3 @@
-2. § A Vhr. 14/A. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^2]
 
-„(4) A nyilvántartott halgazdálkodási vízterület átlagos vízállást meghaladó mederteltsége esetén az időszakos vízterület a halgazdálkodásra való jogosultság szempontjából az érintett nyilvántartott halgazdálkodási vízterület részének minősül.”
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-11. § A Vhr. 39. § (1) bekezdése helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„(1) Halőrként nem alkalmazható olyan személy, akivel szemben három éven belül halvédelmi bírságot szabtak ki.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A Vhr. 16. § (2) bekezdése a következő e) ponttal egészül ki:
+3. §[^3]
 
-(Halászati képzettségnek és vizsgának minősül)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
