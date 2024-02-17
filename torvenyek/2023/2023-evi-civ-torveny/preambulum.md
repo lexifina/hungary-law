@@ -1,0 +1,1 @@
+Az Országgyűlés az online tér biztonsága, a közvetítő szolgáltatók felelősségének szabályozása, a fogyasztók online térben gyakorolható jogainak kiemelt védelme, az elektronikus kereskedelem előmozdítása, az európai uniós testületek és szabályozó hatóságok hatékony együttműködése, valamint az Európai Unió jogszabályainak való megfelelés céljából az alábbi törvényt alkotja:

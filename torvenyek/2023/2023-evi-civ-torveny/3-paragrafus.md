@@ -1,0 +1,11 @@
+## 2. A közvetítő szolgáltatókra vonatkozó egyes szabályok
+
+3. § (1) Ha a közvetítő szolgáltató a Rendelet 9. cikke szerinti végzés alapján, illetve a Magyarországon letelepedett tárhelyszolgáltató a Rendelet 16. cikke alapján tudomást szerez arról, hogy jogellenes tartalom érhető el a szolgáltatásán keresztül, e tartalmat indokolatlan késedelem nélkül köteles eltávolítani vagy az ahhoz való hozzáférést megszüntetni.
+
+(2) A Rendelet 54. cikkében foglalt kártérítési rendelkezésekre a Polgári Törvénykönyvről szóló 2013. évi V. törvénynek a szerződésszegéssel okozott károkért való felelősségre vonatkozó szabályai irányadók.
+
+(3) A szolgáltatás igénybe vevője a szolgáltatással összefüggő jogviták rendezése érdekében polgári peres eljárást indíthat a közvetítő szolgáltató ellen, így különösen a Rendelet 14. cikke szerinti szerződési feltételek (a továbbiakban: szerződési feltételek) közvetítő szolgáltató általi megsértése, valamint a szolgáltatás igénybe vevőit megillető, a Rendelet 14. cikk (4) bekezdésében említett alapvető jogok megsértése esetén, továbbá a közvetítő szolgáltató Rendelet 16. cikk (5) bekezdése és 17. cikk (1) bekezdése szerinti döntésével, illetve intézkedésével szemben, és a belső panaszkezelési rendszerben benyújtott panasz tárgyában – az online platformot üzemeltető szolgáltató által – hozott döntéssel szemben.
+
+(4) Ha az érintett közvetítő szolgáltató nem Magyarországon, hanem az Európai Unió más tagállamában letelepedett szolgáltató és a szolgáltatás igénybe vevője fogyasztó, akkor a fogyasztó a szerződéssel kapcsolatos jogának, jogos érdekének sérelme esetén a saját lakóhelye szerint illetékes bíróság előtt indíthat eljárást, ha a felek a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet 19. cikkének megfelelő megállapodásban eltérően nem állapodtak meg.
+
+(5) Ha a Magyarországon letelepedett közvetítő szolgáltató szerződési feltételei, továbbá a Rendelet 16. cikk (5) bekezdése és 17. cikk (1) bekezdése szerinti döntése, illetve intézkedése nem felel meg a Rendelet szabályainak, a szolgáltatás igénybe vevője a 10. § szerinti általános hatósági felügyeleti eljárást kezdeményezhet.
