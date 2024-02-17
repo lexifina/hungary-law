@@ -12,7 +12,7 @@ c) a szolgáltatást igényjogosultként és hozzátartozójaként, valamint bel
 
 (2) E rendelet hatálya nem terjed ki
 
-a)[^3] az 5. § (4) bekezdésében foglaltak kivételével a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 1. számú melléklet 8.6. pont f) pontja szerinti munkásszállásnak minősülő elhelyezésre,
+a)[^3]
 
 b)[^4]
 
@@ -36,7 +36,7 @@ b)[^11] a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 8. § (6
 
 [^1]: A 2. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 306. § (1) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^2]: A 2. § (1) bekezdésének b) pontja a 218/2007. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 11. § (3)–(4) bekezdését.
-[^3]: A 2. § (2) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 308. §-a hatályon kívül helyezte, újonnan a 353/2019. (XII. 23.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^3]: A 2. § (2) bekezdés a) pontját az 5/2024. (I. 18.) Korm. rendelet 3. §-a újból hatályon kívül helyezte.
 [^4]: A 2. § (2) bekezdésének b) pontját a 182/2009. (IX. 10.) Korm. rendelet 308. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^5]: A 2. § (2) bekezdés c) pontját a 102/2019. (V. 6.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
 [^6]: A 2. § (2) bekezdésének e) pontját a 218/2007. (VIII. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 308. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

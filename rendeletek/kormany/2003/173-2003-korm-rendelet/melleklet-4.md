@@ -30,18 +30,50 @@
 
 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-## 9K10374N_1
+## 4X00107M.docx
 
-| 1 | B = bejelentkezés a nyilvántartásba, M = adatmódosítás, T = törlés a nyilvántartásból. |  |  | Jelzőszám |
+## 1B = bejelentkezés a nyilvántartásba, M = adatmódosítás, T = törlés a nyilvántartásból.
 
-|  |  | 3 | Üdülő Gyermeküdülő Villa Gyermek- és ifjúsági tábor Telepített sátortábor Turistaház Kulcsosház Matracszállás Bivakszállás Téliesített bivakszállás Vendégszállás Diákotthon, kollégium | 911 912 913 921 922 941 942 943 951 952 962 970 |
+## 2AF = állandó felügyelettel üzemelő szálláshely, FN = állandó felügyelet nélkül üzemelő szálláshely, FO = főtevékenységként végzett szálláshely-szolgáltatás, KI = kiegészítő melléktevékenységként végzett szálláshely-szolgáltatás.
 
-| 2 | AF = állandó felügyelettel üzemelő szálláshely, FN = állandó felügyelet nélkül üzemelő szálláshely, FO = főtevékenységként végzett szálláshely szolgáltatás, KI = kiegészítő melléktevékenységként végzett szálláshely szolgátlatás. |  |
+|  | Jelzőszám |
 
-| 4 | ,,A”, „B”, vagy ,,C” kategória |  |
+| 3Üdülő | 911 |
 
-| 5 | 1 = állandó jelleggel nyitva tartó szálláshely 2 = idényjelleggel nyitva tartó szálláshely 3 = eseti jelleggel nyitva tartó szálláshely |  | (A Nomád táborhelyeket nem kell nyilvántartásba venni!) |
+| Gyermeküdülő | 912 |
 
-4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^113]
+| Villa | 913 |
 
-[^113]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+| Gyermek- és ifjúsági tábor | 921 |
+
+| Telepített sátortábor | 922 |
+
+| Turistaház | 941 |
+
+| Kulcsosház | 942 |
+
+| Matracszállás | 943 |
+
+| Bivakszállás | 951 |
+
+| Téliesített bivakszállás | 952 |
+
+| Munkásszállás | 961 |
+
+| Vendégszállás | 962 |
+
+| Diákotthon, kollégium | 970 |
+
+## (A Nomád táborhelyeket nem kell nyilvántartásba venni!)
+
+## 4 „A”, „B” vagy „C” kategória
+
+## 51 = állandó jelleggel nyitva tartó szálláshely
+
+## 2 = idényjelleggel nyitva tartó szálláshely
+
+## 3 = eseti jelleggel nyitva tartó szálláshely
+
+4. számú melléklet a 173/2003. (X. 28.) Korm. rendelethez[^112]
+
+[^112]: A 4. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 306. § (5) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján rendelkezéseit a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
