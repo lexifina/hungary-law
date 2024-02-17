@@ -1,1 +1,1 @@
-57/D. § A tartalommegosztó szolgáltató által az 57/B. § szerint végzett felhasználás tekintetében nem alkalmazható az Ektv. 10. §-ában meghatározott felelősségkorlátozás.
+57/D. § A tartalommegosztó szolgáltató által az 57/B. § szerint végzett felhasználás tekintetében nem alkalmazható az a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló, 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet 6. cikkében meghatározott felelősségkorlátozás.

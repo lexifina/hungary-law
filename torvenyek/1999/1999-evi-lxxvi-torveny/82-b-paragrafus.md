@@ -4,7 +4,7 @@ a) vezeték útján vagy bármely más eszközzel vagy módon úgy tegyék a nyi
 
 b) az a) pont szerinti célból elektronikus úton többszörözzék,
 
-amennyiben a felhasználást az Ektv. 2. § k) pontja szerinti szolgáltató valósítja meg.
+amennyiben a felhasználást az Ektv. 2. § 20. pontja szerinti szolgáltató valósítja meg.
 
 (2) A sajtókiadvány kiadóját az (1) bekezdésben meghatározott felhasználásokért – ha a törvény eltérően nem rendelkezik – díjazás illeti meg.
 
