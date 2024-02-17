@@ -1,6 +1,6 @@
 ## A videómegosztóplatform-szolgáltatásokra vonatkozó különös szabályok
 
-15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f)–h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
+15/C. § (1) A videómegosztóplatform-szolgáltatás nyújtásának megkezdésére irányuló szándékot a videómegosztóplatform-szolgáltatónak nyilvántartásba vétel céljából be kell jelentenie a Hivatalhoz, amely a videómegosztóplatform-szolgáltatásokról közhiteles nyilvántartást vezet. A nyilvántartás a (2) bekezdés f) és h) pontja szerinti adatok vonatkozásában minősül közhiteles hatósági nyilvántartásnak. A nyilvántartásba vétel nem feltétele a szolgáltatásnyújtás megkezdésének.
 
 (2) A videómegosztóplatform-szolgáltatás Hivatalhoz történő bejelentésében meg kell jelölni
 
@@ -32,11 +32,13 @@ a) az (5) bekezdés alapján a nyilvántartásba vétel visszavonásának lenne 
 
 b) a videómegosztóplatform-szolgáltató kérte a nyilvántartásból való törlését,
 
-c) a videómegosztóplatform-szolgáltatást a nyilvántartásba vételtől számított egy éven belül nem kezdik meg, vagy a megkezdett szolgáltatást egy évnél hosszabb időre megszakítják,
+c) a videómegosztóplatform-szolgáltatást a nyilvántartásba vételtől számított hat hónapon belül nem kezdik meg, vagy a megkezdett szolgáltatást hat hónapnál hosszabb időre megszakítják,
 
-d) a 15/D–15/G. §-ban foglalt követelmények megsértése miatt a Hivatal a videómegosztóplatform-szolgáltatás törlését rendelte el, vagy
+d) a 15/D–15/G. §-ban foglalt követelmények megsértése miatt a Hivatal a videómegosztóplatform-szolgáltatás törlését rendelte el,
 
-e) bíróság jogerős határozata elrendelte a videómegosztóplatform-szolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől.
+e) bíróság jogerős határozata elrendelte a videómegosztóplatform-szolgáltatás elnevezése által elkövetett védjegybitorlás abbahagyását és a bitorló eltiltását a további jogsértéstől, vagy
+
+f) a videómegosztóplatform-szolgáltató jogutód nélkül megszűnt.
 
 (7) A videómegosztóplatform-szolgáltatónak tizenöt napon belül be kell jelentenie a Hivatalhoz, ha a nyilvántartásban szereplő adataiban változás következett be.
 

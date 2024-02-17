@@ -16,4 +16,4 @@ d) videómegosztóplatform-szolgáltatás igénybe vevője által közzétett ke
 
 (5) Ha a videómegosztóplatform-szolgáltató által a nyilvánossághoz eljuttatott tartalom a 13. § (13) bekezdése szerinti kiskorú jogosult ott meghatározott jogát sérti, a kiskorú jogosult vagy cselekvőképtelen kiskorú jogosult esetében a törvényes képviselője felhívhatja a videómegosztóplatform-szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalom eltávolítására. Az értesítésre és az eljárásra a 13. § (13)–(15) bekezdését kell alkalmazni.
 
-(6) A 7. § alkalmazása során a videómegosztóplatform-szolgáltatóra a 10. §-ban szabályozott, a 2. § l) pont lc) alpontjában meghatározott közvetítő szolgáltatóra vonatkozó szabályokat kell alkalmazni. E rendelkezés nem érinti a videómegosztóplatform-szolgáltató 15/D–15/G. §-ban foglalt kötelezettségeit.
+(6) A 7. § alkalmazása során a videómegosztóplatform-szolgáltatóra a DSA rendelet 6. cikkben szabályozott, a 2. § 13. pont c) alpontjában meghatározott közvetítő szolgáltatóra vonatkozó szabályokat kell alkalmazni. E rendelkezés nem érinti a videómegosztóplatform-szolgáltató 15/D–15/G. §-ban foglalt kötelezettségeit.

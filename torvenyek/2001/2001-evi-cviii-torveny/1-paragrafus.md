@@ -28,4 +28,4 @@ b) ha a vállalatcsoporthoz tartozó vállalatok mindegyike más tagállamban te
 
 (3) E törvény hatálya nem terjed ki a bírósági, illetőleg egyéb hatósági eljárásban nyújtott és felhasznált információs társadalommal összefüggő szolgáltatásra és nem érinti a személyes adatok védelmére vonatkozó jogszabályok alkalmazását.
 
-(4) E törvény hatálya – a 2. § m) pont, 3/B. §, 4/A. § valamint 13/B. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződéses nyilatkozatokat is.
+(4) E törvény hatálya – a 2. § 1. pont, 3/B. §, 4/A. § valamint 13/B. § kivételével – nem terjed ki az olyan közlésekre, amelyet gazdasági vagy szakmai tevékenység, vagy közfeladat körén kívül eső célból eljáró személy tesz információs társadalommal összefüggő szolgáltatás igénybevételével, ideértve az ilyen módon tett szerződéses nyilatkozatokat is.

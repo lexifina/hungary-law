@@ -2,6 +2,8 @@
 
 (2) A Kerekasztal a hozzá beérkezett bejelentések alapján jogosult egyedi ügyeket is megvizsgálni és azok általánosított tapasztalatai alapján ajánlást vagy állásfoglalást kiadni.
 
+(2a) Amennyiben a (2) bekezdés szerinti bejelentés az internetes közvetítő szolgáltatások egyes szabályairól szóló 2023. évi CIV. törvény (a továbbiakban: Iszt.) hatálya alá tartozó szolgáltatással kapcsolatos, a Kerekasztal tájékoztatja a bejelentőt arról, hogy bejelentése az Iszt. szerinti peren kívüli vitarendezési testületeknél is előterjeszthető.
+
 (3) Ha a szolgáltató a Kerekasztal ajánlásában vagy állásfoglalásában foglaltakat figyelmen kívül hagyja, vagy azoknak nem tesz eleget, a Kerekasztal
 
 a) a szolgáltatót felhívja az ajánlásában vagy állásfoglalásában foglaltaknak megfelelő magatartás tanúsítására,

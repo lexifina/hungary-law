@@ -6,7 +6,7 @@ b) megtilthatja a jogsértő magatartás további folytatását,
 
 c) a jogsértés megszüntetése érdekében határozathozatal helyett hatósági szerződést köthet azzal az ügyféllel, aki vállalja, hogy felhagy a jogsértő magatartással és magatartását a hatósági szerződésben meghatározott módon hozza összhangba a kéretlen elektronikus hirdetésre vonatkozó rendelkezésekkel, vagy
 
-d) felhívhatja a 2. § l) pont la) alpont szerinti közvetítő szolgáltató figyelmét arra, hogy az elektronikus hirdető, az elektronikus hirdetési szolgáltató vagy az elektronikus hirdetés közzétevője a közvetítő szolgáltató által nyújtott előfizetői vagy hálózati szolgáltatást jogszabálysértő elektronikus hirdetés küldésére használja.
+d) felhívhatja a 2. § 13. pont a) alpontjában szerinti közvetítő szolgáltató figyelmét arra, hogy az elektronikus hirdető, az elektronikus hirdetési szolgáltató vagy az elektronikus hirdetés közzétevője a közvetítő szolgáltató által nyújtott előfizetői vagy hálózati szolgáltatást jogszabálysértő elektronikus hirdetés küldésére használja.
 
 (2) A Hatóság eljárása során ötvenezer forinttól ötszázezer forintig terjedő összegű elektronikus kereskedelmi bírságot szabhat ki. A bírság ismételt jogsértés esetén többször kiszabható.
 
