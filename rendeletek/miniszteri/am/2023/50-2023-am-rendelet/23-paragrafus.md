@@ -2,7 +2,7 @@
 
 23. § (1) A termelői szervezetnek és a termelői szervezetek társulásának – a 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosítóval vagy külföldi tag esetében az érintett tagállam által megállapított azonosítóval rendelkező – tagjai által termelt terméknek az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 32. cikkében hivatkozott referencia-időszakban forgalmazott értékét kell alapul venni a KAP I rendelet 52. cikk (2) bekezdésében és 53. cikk (1) bekezdésében hivatkozott felső korlátjának a kiszámítása során.
 
-(2) Az operatív programot végrehajtó termelői szervezet
+(2)[^5] Az operatív programot végrehajtó termelői szervezet
 
 a) a működési alapokhoz nyújtott európai uniós pénzügyi támogatás,
 
@@ -10,7 +10,7 @@ b) a nemzeti pénzügyi támogatás és
 
 c) a termelői szervezet és tagjai hozzájárulása
 
-következő évre vonatkozó becsült összegét megküldi a miniszter részére.
+következő évre vonatkozó becsült összegét megküldi a Nemzeti Irányító Hatóság részére.
 
 (3) Az operatív programot végrehajtó termelői szervezet a (2) bekezdésben meghatározott kötelezettségnek
 
@@ -26,7 +26,7 @@ a) az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 32. cikke sze
 
 b) a termelői szervezet vagy tagjai által megtermelt az elismeréssel érintett termékek értékesítésének során felmerült, főkönyvi kivonat és analitikus kimutatás alapján igazolt – a szervezet tulajdonában álló fuvareszköz esetén a szállítóeszköz amortizációját is magában foglaló – szállítási költséget.
 
-(5) Ha a működési alapokhoz nyújtott európai uniós pénzügyi támogatás, a nemzeti támogatás, tagjai és a termelői szervezet hozzájárulása következő évre vonatkozó becsült összegének bejelentése nem felel meg az e §-ban foglalt feltételeknek, vagy az operatív programot végrehajtó termelői szervezet a (3) bekezdésben meghatározott határidőig nem küldi meg bejelentését, a miniszter a termelői szervezetet megfelelő határidő tűzésével hiánypótlásra szólítja fel.
+(5)[^6] Ha a működési alapokhoz nyújtott európai uniós pénzügyi támogatás, a nemzeti támogatás, tagjai és a termelői szervezet hozzájárulása következő évre vonatkozó becsült összegének bejelentése nem felel meg az e §-ban foglalt feltételeknek, vagy az operatív programot végrehajtó termelői szervezet a (3) bekezdésben meghatározott határidőig nem küldi meg bejelentését, a Nemzeti Irányító Hatóság a termelői szervezetet megfelelő határidő tűzésével hiánypótlásra szólítja fel.
 
 (6) Ha az operatív programot végrehajtó termelői szervezet
 
@@ -35,3 +35,6 @@ a) a (2) bekezdés szerinti bejelentését elmulasztja, vagy
 b) a (2) bekezdés szerinti bejelentését a minisztérium elutasítja,
 
 részére az érintett évre támogatás nem fizethető.
+
+[^5]: A 23. § (2) bekezdés záró szövegrésze az 5/2024. (II. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: A 23. § (5) bekezdése az 5/2024. (II. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.

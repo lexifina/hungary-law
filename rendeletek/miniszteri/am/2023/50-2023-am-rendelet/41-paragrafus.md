@@ -1,5 +1,5 @@
 ## 39. Módosító rendelkezések
 
-41. §[^2]
+41. §[^12]
 
-[^2]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

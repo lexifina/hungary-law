@@ -22,10 +22,12 @@ ec) a területen adott évben termesztett, tagsági viszonnyal érintett, az eli
 
 ed) az érintett földhasználónak a 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosítóját.
 
-(3) A Nemzeti Kifizető Ügynökség a benyújtott részleges kifizetési kérelemről a benyújtást megelőzően kiadott, az operatív program vagy módosítása jóváhagyásáról szóló döntés alapján jóváhagyott vagy részleges kifizetés iránti kérelem benyújtását megelőzően 45 nappal benyújtott, a 4. § (8) bekezdése szerinti bejelentéssel módosított operatív programra figyelemmel dönt. Részleges kifizetés keretében a nemzeti pénzügyi támogatás összege a (4) bekezdésben foglalt arány mértékéig fizethető ki.
+(3)[^7] A Nemzeti Kifizető Ügynökség a benyújtott részleges kifizetési kérelemről a benyújtást megelőzően kiadott, az operatív program vagy módosítása jóváhagyásáról szóló döntés alapján jóváhagyott vagy részleges kifizetés iránti kérelem benyújtását megelőzően 45 nappal benyújtott, a 4. § (9) bekezdése szerinti bejelentéssel módosított operatív programra figyelemmel dönt. Részleges kifizetés keretében a nemzeti pénzügyi támogatás összege a (4) bekezdésben foglalt arány mértékéig fizethető ki.
 
 (4) A támogatás egyes részeire vonatkozó kérelmek alapján összesen kifizetett összeg nem haladhatja meg a támogatás azon részének 80%-át, amely az operatív program keretében az érintett időszakban már elköltött összegeknek felel meg.
 
 (5) A támogatásról szóló döntés meghozatalának határideje 70 nap, amely az ügy összes iratának a Nemzeti Kifizető Ügynökséghez megérkezését követő munkanapon kezdődik.
 
 (6) A részleges kifizetési kérelem benyújtását követően a kérelem módosításának nincs helye. A részleges kifizetési kérelem a kérelem tárgyában hozott döntés közléséig részben vagy egészben visszavonható.
+
+[^7]: A 26. § (3) bekezdése az 5/2024. (II. 14.) AM rendelet 3. § c) pontja szerint módosított szöveg.

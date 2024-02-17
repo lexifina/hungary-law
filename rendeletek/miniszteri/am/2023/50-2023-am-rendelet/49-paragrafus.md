@@ -1,5 +1,5 @@
 ## 40. Hatályon kívül helyező rendelkezések
 
-49. §[^10]
+49. §[^20]
 
-[^10]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

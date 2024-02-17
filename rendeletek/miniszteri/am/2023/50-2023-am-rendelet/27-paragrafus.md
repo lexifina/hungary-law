@@ -1,6 +1,6 @@
 ## 27. Éves kifizetési kérelem
 
-27. § (1) A termelői szervezet a működési alap KAP I rendelet 52. és 53. cikke szerinti támogatására vonatkozó kérelmet a Nemzeti Kifizető Ügynökség által Közleményben meghatározott, honlapján közzétett formában évente egyszer a végrehajtás évét követő év február 15-éig nyújtja be a Nemzeti Kifizető Ügynökség részére.
+27. § (1)[^8] A termelői szervezet a működési alap KAP I rendelet 52. és 53. cikke szerinti támogatására vonatkozó kérelmet a Nemzeti Kifizető Ügynökség által Közleményben meghatározott, honlapján közzétett formában évente egyszer a végrehajtás évét követő év március 20-áig nyújtja be a Nemzeti Kifizető Ügynökség részére.
 
 (2) Az éves kifizetési kérelemhez meg kell adni az alábbi adatokat, és mellékelendő adott esetben az azokat igazoló dokumentumok:
 
@@ -35,3 +35,5 @@ c) a működési alapban a termelői szervezettől származó, azonos értékű 
 (7) A Nemzeti Kifizető Ügynökség az operatív program végrehajtása évét követő év október 15-éig folyósítja a támogatást.
 
 (8) Az éves kifizetési kérelem a benyújtását követő 10. napig módosítható. Az éves kifizetési kérelem a kérelem tárgyában hozott döntés közléséig részben vagy egészben visszavonható.
+
+[^8]: A 27. § (1) bekezdése az 5/2024. (II. 14.) AM rendelet 3. § d) pontja szerint módosított szöveg.
