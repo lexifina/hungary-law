@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-49-20-0
 | 2011-04-13 | 2007-49-20-0L.4 | 15/2011. (IV. 12.) NGM rendelet |
 | 2016-06-08 | 2007-49-20-0L.5 | 15/2011. (IV. 12.) NGM rendelet |
 | 2017-01-01 | 2007-49-20-0L.6 | 62/2016. (XII. 29.) NGM rendelet |
+| 2024-02-18 | 2007-49-20-0L.7 | 1/2024. (I. 18.) NGM rendelet |

@@ -10,7 +10,7 @@ b) mágneses adathordozón vagy optikai adathordozón,
 
 c) elektronikus úton, vezetékes vagy vezeték nélküli adatátviteli vonalon
 
-## történhet.
+történhet.
 
 (4) Az adatok továbbításáért (átviteléért), átvételéért, kezeléséért, tárolásáért, célhoz kötött felhasználásáért, védelméért és az őrzési időt követő megsemmisítéséért felelős szervezeti egység és személy adatkezelési jogosultságát, valamint a munkaterületet és a munkakört az érintett hatóság vezetője, illetve – rendvédelmi szerv esetében – a központi szerv vezetője határozza meg.
 
