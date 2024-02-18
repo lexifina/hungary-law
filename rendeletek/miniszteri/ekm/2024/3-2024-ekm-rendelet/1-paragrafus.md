@@ -1,3 +1,1 @@
-1. §[^1]
-
-[^1]: Az 1. § a 3. § (2) bekezdés alapján 2024. február 18-án lép hatályba.
+1. § A légiközlekedéssel kapcsolatos hatósági eljárások díjairól szóló 3/2002. (VI. 20.) GKM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
