@@ -420,4966 +420,3202 @@
 
 | 211 | Zirci | második |
 
-2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^8]
+2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^11]
 
 A települések becslőjárások, illetve osztályozási vidékek szerinti besorolása
 
-Baranya vármegye
+1. Baranya vármegye
 
-| Település | Becslőjárás |
+|  | A | B |
 
-| Abaliget | 097 |
+| 1. | Település | Becslőjárás |
 
-| Adorjás | 141 |
+| 2. | Abaliget | 097 |
 
-| Almamellék | 165 |
+| 3. | Adorjás | 141 |
 
-| Almáskeresztúr | 165 |
+| 4. | Almamellék | 165 |
 
-| Alsómocsolád | 097 |
+| 5. | Almáskeresztúr | 165 |
 
-| Alsószentmárton | 141 |
+| 6. | Alsómocsolád | 097 |
 
-| Apátvarasd | 108 |
+| 7. | Alsószentmárton | 141 |
 
-| Aranyosgadány | 126 |
+| 8. | Apátvarasd | 108 |
 
-| Ág | 097 |
+| 9. | Aranyosgadány | 126 |
 
-| Áta | 126 |
+| 10. | Ág | 097 |
 
-| Babarc | 107 |
+| 11. | Áta | 126 |
 
-| Babarcszőlős | 161 |
+| 12. | Babarc | 107 |
 
-| Bakóca | 097 |
+| 13. | Babarcszőlős | 161 |
 
-| Bakonya | 161 |
+| 14. | Bakóca | 097 |
 
-| Baksa | 161 |
+| 15. | Bakonya | 161 |
 
-| Baranyahídvég | 141 |
+| 16. | Baksa | 161 |
 
-| Baranyajenő | 097 |
+| 17. | Baranyahídvég | 141 |
 
-| Baranyaszentgyörgy | 097 |
+| 18. | Baranyajenő | 097 |
 
-| Basal | 165 |
+| 19. | Baranyaszentgyörgy | 097 |
 
-| Bánfa | 161 |
+| 20. | Basal | 165 |
 
-| Bár | 108 |
+| 21. | Bánfa | 161 |
 
-| Belvárdgyula | 126 |
+| 22. | Bár | 108 |
 
-| Beremend | 141 |
+| 23. | Belvárdgyula | 126 |
 
-| Berkesd | 108 |
+| 24. | Beremend | 141 |
 
-| Besence | 141 |
+| 25. | Berkesd | 108 |
 
-| Bezedek | 107 |
+| 26. | Besence | 141 |
 
-| Bicsérd | 161 |
+| 27. | Bezedek | 107 |
 
-| Bikal | 097 |
+| 28. | Bicsérd | 161 |
 
-| Birján | 126 |
+| 29. | Bikal | 097 |
 
-| Bisse | 142 |
+| 30. | Birján | 126 |
 
-| Boda | 161 |
+| 31. | Bisse | 142 |
 
-| Bodolyabér | 097 |
+| 32. | Boda | 161 |
 
-| Bogád | 126 |
+| 33. | Bodolyabér | 097 |
 
-| Bogádmindszent | 161 |
+| 34. | Bogád | 126 |
 
-| Bogdása | 161 |
+| 35. | Bogádmindszent | 161 |
 
-| Boldogasszonyfa | 165 |
+| 36. | Bogdása | 161 |
 
-| Bóly | 107 |
+| 37. | Boldogasszonyfa | 165 |
 
-| Borjád | 107 |
+| 38. | Bóly | 107 |
 
-| Bosta | 126 |
+| 39. | Borjád | 107 |
 
-| Botykapeterd | 161 |
+| 40. | Bosta | 126 |
 
-| Bükkösd | 162 |
+| 41. | Botykapeterd | 161 |
 
-| Bürüs | 166 |
+| 42. | Bükkösd | 162 |
 
-| Cún | 141 |
+| 43. | Bürüs | 166 |
 
-| Csarnóta | 142 |
+| 44. | Cún | 141 |
 
-| Csányoszró | 141 |
+| 45. | Csarnóta | 142 |
 
-| Csebény | 162 |
+| 46. | Csányoszró | 141 |
 
-| Cserdi | 161 |
+| 47. | Csebény | 162 |
 
-| Cserkút | 127 |
+| 48. | Cserdi | 161 |
 
-| Csertő | 165 |
+| 49. | Cserkút | 127 |
 
-| Csonkamindszent | 161 |
+| 50. | Csertő | 165 |
 
-| Dencsháza | 161 |
+| 51. | Csonkamindszent | 161 |
 
-| Dinnyeberki | 162 |
+| 52. | Dencsháza | 161 |
 
-| Diósviszló | 140 |
+| 53. | Dinnyeberki | 162 |
 
-| Drávacsehi | 141 |
+| 54. | Diósviszló | 140 |
 
-| Drávacsepely | 141 |
+| 55. | Drávacsehi | 141 |
 
-| Drávafok | 166 |
+| 56. | Drávacsepely | 141 |
 
-| Drávaiványi | 161 |
+| 57. | Drávafok | 166 |
 
-| Drávakeresztúr | 166 |
+| 58. | Drávaiványi | 161 |
 
-| Drávapalkonya | 141 |
+| 59. | Drávakeresztúr | 166 |
 
-| Drávapiski | 141 |
+| 60. | Drávapalkonya | 141 |
 
-| Drávaszabolcs | 141 |
+| 61. | Drávapiski | 141 |
 
-| Drávaszerdahely | 141 |
+| 62. | Drávaszabolcs | 141 |
 
-| Drávasztára | 166 |
+| 63. | Drávaszerdahely | 141 |
 
-| Dunaszekcső | 108 |
+| 64. | Drávasztára | 166 |
 
-| Egerág | 126 |
+| 65. | Dunaszekcső | 108 |
 
-| Egyházasharaszti | 141 |
+| 66. | Egerág | 126 |
 
-| Egyházaskozár | 097 |
+| 67. | Egyházasharaszti | 141 |
 
-| Ellend | 108 |
+| 68. | Egyházaskozár | 097 |
 
-| Endrőc | 166 |
+| 69. | Ellend | 108 |
 
-| Erdősmárok | 108 |
+| 70. | Endrőc | 166 |
 
-| Erdősmecske | 108 |
+| 71. | Erdősmárok | 108 |
 
-| Erzsébet | 108 |
+| 72. | Erdősmecske | 108 |
 
-| Fazekasboda | 108 |
+| 73. | Erzsébet | 108 |
 
-| Feked | 108 |
+| 74. | Fazekasboda | 108 |
 
-| Felsőegerszeg | 097 |
+| 75. | Feked | 108 |
 
-| Felsőszentmárton | 166 |
+| 76. | Felsőegerszeg | 097 |
 
-| Garé | 126 |
+| 77. | Felsőszentmárton | 166 |
 
-| Gerde | 161 |
+| 78. | Garé | 126 |
 
-| Geresdlak | 108 |
+| 79. | Gerde | 161 |
 
-| Gerényes | 097 |
+| 80. | Geresdlak | 108 |
 
-| Gilvánfa | 161 |
+| 81. | Gerényes | 097 |
 
-| Gordisa | 141 |
+| 82. | Gilvánfa | 161 |
 
-| Gödre | 097 |
+| 83. | Gordisa | 141 |
 
-| Görcsöny | 126 |
+| 84. | Gödre | 097 |
 
-| Görcsönydoboka | 108 |
+| 85. | Görcsöny | 126 |
 
-| Gyód | 126 |
+| 86. | Görcsönydoboka | 108 |
 
-| Gyöngyfa | 161 |
+| 87. | Gyód | 126 |
 
-| Gyöngyösmellék | 166 |
+| 88. | Gyöngyfa | 161 |
 
-| Harkány | 140 |
+| 89. | Gyöngyösmellék | 166 |
 
-| Hásságy | 126 |
+| 90. | Harkány | 140 |
 
-| Hegyhátmaróc | 097 |
+| 91. | Hásságy | 126 |
 
-| Hegyszentmárton | 161 |
+| 92. | Hegyhátmaróc | 097 |
 
-| Helesfa | 162 |
+| 93. | Hegyszentmárton | 161 |
 
-| Hetvehely | 097 |
+| 94. | Helesfa | 162 |
 
-| Hidas | 155 |
+| 95. | Hetvehely | 097 |
 
-| Himesháza | 108 |
+| 96. | Hidas | 155 |
 
-| Hirics | 141 |
+| 97. | Himesháza | 108 |
 
-| Hobol | 165 |
+| 98. | Hirics | 141 |
 
-| Homorúd | 107 |
+| 99. | Hobol | 165 |
 
-| Horváthertelend | 162 |
+| 100. | Homorúd | 107 |
 
-| Hosszúhetény | 127 |
+| 101. | Horváthertelend | 162 |
 
-| Husztót | 097 |
+| 102. | Hosszúhetény | 127 |
 
-| Ibafa | 162 |
+| 103. | Husztót | 097 |
 
-| Illocska | 107 |
+| 104. | Ibafa | 162 |
 
-| Ipacsfa | 140 |
+| 105. | Illocska | 107 |
 
-| Ivánbattyán | 142 |
+| 106. | Ipacsfa | 140 |
 
-| Ivándárda | 107 |
+| 107. | Ivánbattyán | 142 |
 
-| Kacsóta | 161 |
+| 108. | Ivándárda | 107 |
 
-| Katádfa | 161 |
+| 109. | Kacsóta | 161 |
 
-| Kákics | 161 |
+| 110. | Katádfa | 161 |
 
-| Kárász | 097 |
+| 111. | Kákics | 161 |
 
-| Kásád | 141 |
+| 112. | Kárász | 097 |
 
-| Kátoly | 108 |
+| 113. | Kásád | 141 |
 
-| Kemse | 141 |
+| 114. | Kátoly | 108 |
 
-| Keszü | 126 |
+| 115. | Kemse | 141 |
 
-| Kékesd | 108 |
+| 116. | Keszü | 126 |
 
-| Kémes | 141 |
+| 117. | Kékesd | 108 |
 
-| Kétújfalu | 166 |
+| 118. | Kémes | 141 |
 
-| Királyegyháza | 161 |
+| 119. | Kétújfalu | 166 |
 
-| Kisasszonyfa | 161 |
+| 120. | Királyegyháza | 161 |
 
-| Kisbeszterce | 097 |
+| 121. | Kisasszonyfa | 161 |
 
-| Kisbudmér | 126 |
+| 122. | Kisbeszterce | 097 |
 
-| Kisdér | 161 |
+| 123. | Kisbudmér | 126 |
 
-| Kisdobsza | 165 |
+| 124. | Kisdér | 161 |
 
-| Kishajmás | 097 |
+| 125. | Kisdobsza | 165 |
 
-| Kisharsány | 141 |
+| 126. | Kishajmás | 097 |
 
-| Kisherend | 126 |
+| 127. | Kisharsány | 140 |
 
-| Kisjakabfalva | 142 |
+| 128. | Kisherend | 126 |
 
-| Kiskassa | 126 |
+| 129. | Kisjakabfalva | 142 |
 
-| Kislippó | 107 |
+| 130. | Kiskassa | 126 |
 
-| Kisnyárád | 108 |
+| 131. | Kislippó | 107 |
 
-| Kisszentmárton | 141 |
+| 132. | Kisnyárád | 108 |
 
-| Kistamási | 166 |
+| 133. | Kisszentmárton | 141 |
 
-| Kistapolca | 140 |
+| 134. | Kistamási | 166 |
 
-| Kistótfalu | 142 |
+| 135. | Kistapolca | 140 |
 
-| Kisvaszar | 097 |
+| 136. | Kistótfalu | 142 |
 
-| Komló | 097 |
+| 137. | Kisvaszar | 097 |
 
-| Kórós | 141 |
+| 138. | Komló | 097 |
 
-| Kovácshida | 141 |
+| 139. | Kórós | 141 |
 
-| Kovácsszénája | 097 |
+| 140. | Kovácshida | 141 |
 
-| Kozármisleny | 126 |
+| 141. | Kovácsszénája | 097 |
 
-| Köblény | 097 |
+| 142. | Kozármisleny | 126 |
 
-| Kökény | 126 |
+| 143. | Köblény | 097 |
 
-| Kölked | 107 |
+| 144. | Kökény | 126 |
 
-| Kővágószőlős | 127 |
+| 145. | Kölked | 107 |
 
-| Kővágótöttös | 127 |
+| 146. | Kővágószőlős | 127 |
 
-| Lapáncsa | 107 |
+| 147. | Kővágótöttös | 127 |
 
-| Lánycsók | 107 |
+| 148. | Lapáncsa | 107 |
 
-| Liget | 097 |
+| 149. | Lánycsók | 107 |
 
-| Lippó | 107 |
+| 150. | Liget | 097 |
 
-| Liptód | 108 |
+| 151. | Lippó | 107 |
 
-| Lothárd | 126 |
+| 152. | Liptód | 108 |
 
-| Lovászhetény | 108 |
+| 153. | Lothárd | 126 |
 
-| Lúzsok | 141 |
+| 154. | Lovászhetény | 108 |
 
-| Magyarbóly | 107 |
+| 155. | Lúzsok | 141 |
 
-| Magyaregregy | 097 |
+| 156. | Magyarbóly | 107 |
 
-| Magyarhertelend | 097 |
+| 157. | Magyaregregy | 097 |
 
-| Magyarlukafa | 165 |
+| 158. | Magyarhertelend | 097 |
 
-| Magyarmecske | 161 |
+| 159. | Magyarlukafa | 165 |
 
-| Magyarsarlós | 126 |
+| 160. | Magyarmecske | 161 |
 
-| Magyarszék | 097 |
+| 161. | Magyarsarlós | 126 |
 
-| Magyartelek | 161 |
+| 162. | Magyarszék | 097 |
 
-| Majs | 107 |
+| 163. | Magyartelek | 161 |
 
-| Maráza | 108 |
+| 164. | Majs | 107 |
 
-| Markóc | 166 |
+| 165. | Maráza | 108 |
 
-| Marócsa | 161 |
+| 166. | Markóc | 166 |
 
-| Martonfa | 126 |
+| 167. | Marócsa | 161 |
 
-| Matty | 141 |
+| 168. | Martonfa | 126 |
 
-| Mágocs | 096 |
+| 169. | Matty | 141 |
 
-| Mánfa | 097 |
+| 170. | Mágocs | 096 |
 
-| Márfa | 140 |
+| 171. | Mánfa | 097 |
 
-| Máriakéménd | 108 |
+| 172. | Márfa | 140 |
 
-| Márok | 107 |
+| 173. | Máriakéménd | 108 |
 
-| Máza | 097 |
+| 174. | Márok | 107 |
 
-| Mecseknádasd | 108 |
+| 175. | Máza | 097 |
 
-| Mecsekpölöske | 097 |
+| 176. | Mecseknádasd | 108 |
 
-| Mekényes | 097 |
+| 177. | Mecsekpölöske | 097 |
 
-| Merenye | 165 |
+| 178. | Mekényes | 097 |
 
-| Meződ | 097 |
+| 179. | Merenye | 165 |
 
-| Mindszentgodisa | 097 |
+| 180. | Meződ | 097 |
 
-| Mohács | 107 |
+| 181. | Mindszentgodisa | 097 |
 
-| Molvány | 166 |
+| 182. | Mohács | 107 |
 
-| Monyoród | 108 |
+| 183. | Molvány | 166 |
 
-| Mozsgó | 165 |
+| 184. | Monyoród | 108 |
 
-| Nagybudmér | 126 |
+| 185. | Mozsgó | 165 |
 
-| Nagycsány | 141 |
+| 186. | Nagybudmér | 126 |
 
-| Nagydobsza | 165 |
+| 187. | Nagycsány | 141 |
 
-| Nagyhajmás | 097 |
+| 188. | Nagydobsza | 165 |
 
-| Nagyharsány | 140 |
+| 189. | Nagyhajmás | 097 |
 
-| Nagykozár | 126 |
+| 190. | Nagyharsány | 140 |
 
-| Nagynyárád | 107 |
+| 191. | Nagykozár | 126 |
 
-| Nagypall | 108 |
+| 192. | Nagynyárád | 107 |
 
-| Nagypeterd | 161 |
+| 193. | Nagypall | 108 |
 
-| Nagytótfalu | 140 |
+| 194. | Nagypeterd | 161 |
 
-| Nagyváty | 161 |
+| 195. | Nagytótfalu | 140 |
 
-| Nemeske | 166 |
+| 196. | Nagyváty | 161 |
 
-| Nyugotszenterzsébet | 162 |
+| 197. | Nemeske | 166 |
 
-| Óbánya | 108 |
+| 198. | Nyugotszenterzsébet | 162 |
 
-| Ócsárd | 126 |
+| 199. | Óbánya | 108 |
 
-| Ófalu | 108 |
+| 200. | Ócsárd | 126 |
 
-| Okorág | 161 |
+| 201. | Ófalu | 108 |
 
-| Okorvölgy | 097 |
+| 202. | Okorág | 161 |
 
-| Olasz | 126 |
+| 203. | Okorvölgy | 097 |
 
-| Old | 141 |
+| 204. | Olasz | 126 |
 
-| Orfű | 097 |
+| 205. | Old | 141 |
 
-| Oroszló | 097 |
+| 206. | Orfű | 097 |
 
-| Ózdfalu | 161 |
+| 207. | Oroszló | 097 |
 
-| Palé | 097 |
+| 208. | Ózdfalu | 161 |
 
-| Palkonya | 142 |
+| 209. | Palé | 097 |
 
-| Palotabozsok | 108 |
+| 210. | Palkonya | 142 |
 
-| Patapoklosi | 165 |
+| 211. | Palotabozsok | 108 |
 
-| Páprád | 141 |
+| 212. | Patapoklosi | 165 |
 
-| Pellérd | 126 |
+| 213. | Páprád | 141 |
 
-| Pereked | 108 |
+| 214. | Pellérd | 126 |
 
-| Peterd | 126 |
+| 215. | Pereked | 108 |
 
-| Pettend | 166 |
+| 216. | Peterd | 126 |
 
-| Pécs | 126 |
+| 217. | Pettend | 166 |
 
-| Pécsbagota | 161 |
+| 218. | Pécs | 126 |
 
-| Pécsdevecser | 126 |
+| 219. | Pécsbagota | 161 |
 
-| Pécsudvard | 126 |
+| 220. | Pécsdevecser | 126 |
 
-| Pécsvárad | 108 |
+| 221. | Pécsudvard | 126 |
 
-| Piskó | 141 |
+| 222. | Pécsvárad | 108 |
 
-| Pócsa | 107 |
+| 223. | Piskó | 141 |
 
-| Pogány | 126 |
+| 224. | Pócsa | 107 |
 
-| Rádfalva | 141 |
+| 225. | Pogány | 126 |
 
-| Regenye | 126 |
+| 226. | Rádfalva | 141 |
 
-| Romonya | 126 |
+| 227. | Regenye | 126 |
 
-| Rózsafa | 161 |
+| 228. | Romonya | 126 |
 
-| Sámod | 141 |
+| 229. | Rózsafa | 161 |
 
-| Sárok | 022 |
+| 230. | Sámod | 141 |
 
-| Sásd | 097 |
+| 231. | Sárok | 022 |
 
-| Sátorhely | 107 |
+| 232. | Sásd | 097 |
 
-| Sellye | 161 |
+| 233. | Sátorhely | 107 |
 
-| Siklós | 140 |
+| 234. | Sellye | 161 |
 
-| Siklósbodony | 161 |
+| 235. | Siklós | 140 |
 
-| Siklósnagyfalu | 140 |
+| 236. | Siklósbodony | 161 |
 
-| Somberek | 108 |
+| 237. | Siklósnagyfalu | 140 |
 
-| Somogyapáti | 165 |
+| 238. | Somberek | 108 |
 
-| Somogyhatvan | 165 |
+| 239. | Somogyapáti | 165 |
 
-| Somogyhárságy | 165 |
+| 240. | Somogyhatvan | 165 |
 
-| Somogyviszló | 165 |
+| 241. | Somogyhárságy | 165 |
 
-| Sósvertike | 161 |
+| 242. | Somogyviszló | 165 |
 
-| Sumony | 161 |
+| 243. | Sósvertike | 161 |
 
-| Szabadszentkirály | 161 |
+| 244. | Sumony | 161 |
 
-| Szajk | 107 |
+| 245. | Szabadszentkirály | 161 |
 
-| Szalatnak | 097 |
+| 246. | Szajk | 107 |
 
-| Szalánta | 126 |
+| 247. | Szalatnak | 097 |
 
-| Szaporca | 141 |
+| 248. | Szalánta | 126 |
 
-| Szava | 142 |
+| 249. | Szaporca | 141 |
 
-| Szágy | 097 |
+| 250. | Szava | 142 |
 
-| Szárász | 097 |
+| 251. | Szágy | 097 |
 
-| Szászvár | 097 |
+| 252. | Szárász | 097 |
 
-| Szebény | 108 |
+| 253. | Szászvár | 097 |
 
-| Szederkény | 107 |
+| 254. | Szebény | 108 |
 
-| Szellő | 108 |
+| 255. | Szederkény | 107 |
 
-| Szemely | 126 |
+| 256. | Szellő | 108 |
 
-| Szentdénes | 161 |
+| 257. | Szemely | 126 |
 
-| Szentegát | 161 |
+| 258. | Szentdénes | 161 |
 
-| Szentkatalin | 097 |
+| 259. | Szentegát | 161 |
 
-| Szentlászló | 165 |
+| 260. | Szentkatalin | 097 |
 
-| Szentlőrinc | 161 |
+| 261. | Szentlászló | 165 |
 
-| Székelyszabar | 108 |
+| 262. | Szentlőrinc | 161 |
 
-| Szigetvár | 165 |
+| 263. | Székelyszabar | 108 |
 
-| Szilágy | 108 |
+| 264. | Szigetvár | 165 |
 
-| Szilvás | 126 |
+| 265. | Szilágy | 108 |
 
-| Szőke | 126 |
+| 266. | Szilvás | 126 |
 
-| Szőkéd | 126 |
+| 267. | Szőke | 126 |
 
-| Szörény | 166 |
+| 268. | Szőkéd | 126 |
 
-| Szulimán | 165 |
+| 269. | Szörény | 166 |
 
-| Szűr | 108 |
+| 270. | Szulimán | 165 |
 
-| Tarrós | 097 |
+| 271. | Szűr | 108 |
 
-| Teklafalu | 166 |
+| 272. | Tarrós | 097 |
 
-| Tengeri | 161 |
+| 273. | Teklafalu | 166 |
 
-| Tékes | 097 |
+| 274. | Tengeri | 161 |
 
-| Tésenfa | 141 |
+| 275. | Tékes | 097 |
 
-| Téseny | 161 |
+| 276. | Tésenfa | 141 |
 
-| Tófű | 097 |
+| 277. | Téseny | 161 |
 
-| Tormás | 097 |
+| 278. | Tófű | 097 |
 
-| Tótszentgyörgy | 165 |
+| 279. | Tormás | 097 |
 
-| Töttös | 107 |
+| 280. | Tótszentgyörgy | 165 |
 
-| Túrony | 142 |
+| 281. | Töttös | 107 |
 
-| Udvar | 107 |
+| 282. | Túrony | 142 |
 
-| Újpetre | 126 |
+| 283. | Udvar | 107 |
 
-| Vajszló | 141 |
+| 284. | Újpetre | 126 |
 
-| Varga | 097 |
+| 285. | Vajszló | 141 |
 
-| Várad | 166 |
+| 286. | Varga | 097 |
 
-| Vásárosbéc | 165 |
+| 287. | Várad | 166 |
 
-| Vásárosdombó | 096 |
+| 288. | Vásárosbéc | 165 |
 
-| Vázsnok | 097 |
+| 289. | Vásárosdombó | 096 |
 
-| Vejti | 141 |
+| 290. | Vázsnok | 097 |
 
-| Velény | 161 |
+| 291. | Vejti | 141 |
 
-| Versend | 107 |
+| 292. | Velény | 161 |
 
-| Vékény | 097 |
+| 293. | Versend | 107 |
 
-| Véménd | 108 |
+| 294. | Vékény | 097 |
 
-| Villány | 107 |
+| 295. | Véménd | 108 |
 
-| Villánykövesd | 142 |
+| 296. | Villány | 107 |
 
-| Vokány | 142 |
+| 297. | Villánykövesd | 142 |
 
-| Zaláta | 141 |
+| 298. | Vokány | 142 |
 
-| Zádor | 166 |
+| 299. | Zaláta | 141 |
 
-| Zengővárkony | 108 |
+| 300. | Zádor | 166 |
 
-| Zók | 161 |
+| 301. | Zengővárkony | 108 |
 
-Bács-Kiskun vármegye
+| 302. | Zók | 161 |
 
-| Település | Becslőjárás |
+2. Bács-Kiskun vármegye
 
-| Akasztó | 081 |
+|  | A | B |
 
-| Apostag | 088 |
+| 1. | Település | Becslőjárás |
 
-| Ágasegyháza | 075 |
+| 2. | Akasztó | 081 |
 
-| Baja | 005 |
+| 3. | Apostag | 088 |
 
-| Ballószög | 075 |
+| 4. | Ágasegyháza | 075 |
 
-| Balotaszállás | 037 |
+| 5. | Baja | 005 |
 
-| Bácsalmás | 149 |
+| 6. | Ballószög | 075 |
 
-| Bácsbokod | 004 |
+| 7. | Balotaszállás | 037 |
 
-| Bácsborsód | 004 |
+| 8. | Bácsalmás | 149 |
 
-| Bácsszentgyörgy | 004 |
+| 9. | Bácsbokod | 004 |
 
-| Bácsszőlős | 149 |
+| 10. | Bácsborsód | 004 |
 
-| Bátmonostor | 004 |
+| 11. | Bácsszentgyörgy | 004 |
 
-| Bátya | 061 |
+| 12. | Bácsszőlős | 149 |
 
-| Bócsa | 081 |
+| 13. | Bátmonostor | 004 |
 
-| Borota | 005 |
+| 14. | Bátya | 061 |
 
-| Bugac | 081 |
+| 15. | Bócsa | 081 |
 
-| Bugacpusztaháza | 081 |
+| 16. | Borota | 005 |
 
-| Császártöltés | 081 |
+| 17. | Bugac | 081 |
 
-| Csátalja | 004 |
+| 18. | Bugacpusztaháza | 081 |
 
-| Csávoly | 004 |
+| 19. | Császártöltés | 081 |
 
-| Csengőd | 081 |
+| 20. | Csátalja | 004 |
 
-| Csikéria | 149 |
+| 21. | Csávoly | 004 |
 
-| Csólyospálos | 036 |
+| 22. | Csengőd | 081 |
 
-| Dávod | 004 |
+| 23. | Csikéria | 149 |
 
-| Drágszél | 061 |
+| 24. | Csólyospálos | 036 |
 
-| Dunaegyháza | 088 |
+| 25. | Dávod | 004 |
 
-| Dunafalva | 108 |
+| 26. | Drágszél | 061 |
 
-| Dunapataj | 061 |
+| 27. | Dunaegyháza | 088 |
 
-| Dunaszentbenedek | 061 |
+| 28. | Dunafalva | 108 |
 
-| Dunatetétlen | 088 |
+| 29. | Dunapataj | 061 |
 
-| Dunavecse | 088 |
+| 30. | Dunaszentbenedek | 061 |
 
-| Dusnok | 061 |
+| 31. | Dunatetétlen | 088 |
 
-| Érsekcsanád | 061 |
+| 32. | Dunavecse | 088 |
 
-| Érsekhalma | 061 |
+| 33. | Dusnok | 061 |
 
-| Fajsz | 061 |
+| 34. | Érsekcsanád | 061 |
 
-| Felsőlajos | 075 |
+| 35. | Érsekhalma | 061 |
 
-| Felsőszentiván | 004 |
+| 36. | Fajsz | 061 |
 
-| Foktő | 061 |
+| 37. | Felsőlajos | 075 |
 
-| Fülöpháza | 089 |
+| 38. | Felsőszentiván | 004 |
 
-| Fülöpjakab | 036 |
+| 39. | Foktő | 061 |
 
-| Fülöpszállás | 089 |
+| 40. | Fülöpháza | 089 |
 
-| Gara | 004 |
+| 41. | Fülöpjakab | 036 |
 
-| Gátér | 036 |
+| 42. | Fülöpszállás | 089 |
 
-| Géderlak | 061 |
+| 43. | Gara | 004 |
 
-| Hajós | 061 |
+| 44. | Gátér | 036 |
 
-| Harkakötöny | 081 |
+| 45. | Géderlak | 061 |
 
-| Harta | 088 |
+| 46. | Hajós | 061 |
 
-| Helvécia | 075 |
+| 47. | Harkakötöny | 081 |
 
-| Hercegszántó | 004 |
+| 48. | Harta | 088 |
 
-| Homokmégy | 061 |
+| 49. | Helvécia | 075 |
 
-| Imrehegy | 081 |
+| 50. | Hercegszántó | 004 |
 
-| Izsák | 081 |
+| 51. | Homokmégy | 061 |
 
-| Jakabszállás | 081 |
+| 52. | Imrehegy | 081 |
 
-| Jánoshalma | 005 |
+| 53. | Izsák | 081 |
 
-| Jászszentlászló | 036 |
+| 54. | Jakabszállás | 081 |
 
-| Kalocsa | 061 |
+| 55. | Jánoshalma | 005 |
 
-| Kaskantyú | 081 |
+| 56. | Jászszentlászló | 036 |
 
-| Katymár | 004 |
+| 57. | Kalocsa | 061 |
 
-| Kecel | 081 |
+| 58. | Kaskantyú | 081 |
 
-| Kecskemét | 075 |
+| 59. | Katymár | 004 |
 
-| Kelebia | 149 |
+| 60. | Kecel | 081 |
 
-| Kerekegyháza | 075 |
+| 61. | Kecskemét | 075 |
 
-| Kéleshalom | 005 |
+| 62. | Kelebia | 149 |
 
-| Kiskőrös | 081 |
+| 63. | Kerekegyháza | 075 |
 
-| Kiskunfélegyháza | 036 |
+| 64. | Kéleshalom | 005 |
 
-| Kiskunhalas | 037 |
+| 65. | Kiskőrös | 081 |
 
-| Kiskunmajsa | 036 |
+| 66. | Kiskunfélegyháza | 036 |
 
-| Kisszállás | 005 |
+| 67. | Kiskunhalas | 037 |
 
-| Kömpöc | 036 |
+| 68. | Kiskunmajsa | 036 |
 
-| Kunadacs | 145 |
+| 69. | Kisszállás | 005 |
 
-| Kunbaja | 149 |
+| 70. | Kömpöc | 036 |
 
-| Kunbaracs | 145 |
+| 71. | Kunadacs | 145 |
 
-| Kunfehértó | 037 |
+| 72. | Kunbaja | 149 |
 
-| Kunpeszér | 145 |
+| 73. | Kunbaracs | 145 |
 
-| Kunszállás | 036 |
+| 74. | Kunfehértó | 037 |
 
-| Kunszentmiklós | 089 |
+| 75. | Kunpeszér | 145 |
 
-| Ladánybene | 075 |
+| 76. | Kunszállás | 036 |
 
-| Lajosmizse | 075 |
+| 77. | Kunszentmiklós | 089 |
 
-| Lakitelek | 075 |
+| 78. | Ladánybene | 075 |
 
-| Madaras | 004 |
+| 79. | Lajosmizse | 075 |
 
-| Mátételke | 004 |
+| 80. | Lakitelek | 075 |
 
-| Mélykút | 004 |
+| 81. | Madaras | 004 |
 
-| Miske | 061 |
+| 82. | Mátételke | 004 |
 
-| Móricgát | 036 |
+| 83. | Mélykút | 004 |
 
-| Nagybaracska | 004 |
+| 84. | Miske | 061 |
 
-| Nemesnádudvar | 061 |
+| 85. | Móricgát | 036 |
 
-| Nyárlőrinc | 075 |
+| 86. | Nagybaracska | 004 |
 
-| Ordas | 061 |
+| 87. | Nemesnádudvar | 061 |
 
-| Orgovány | 081 |
+| 88. | Nyárlőrinc | 075 |
 
-| Öregcsertő | 061 |
+| 89. | Ordas | 061 |
 
-| Páhi | 081 |
+| 90. | Orgovány | 081 |
 
-| Pálmonostora | 036 |
+| 91. | Öregcsertő | 061 |
 
-| Petőfiszállás | 036 |
+| 92. | Páhi | 081 |
 
-| Pirtó | 037 |
+| 93. | Pálmonostora | 036 |
 
-| Rém | 005 |
+| 94. | Petőfiszállás | 036 |
 
-| Solt | 088 |
+| 95. | Pirtó | 037 |
 
-| Soltszentimre | 081 |
+| 96. | Rém | 005 |
 
-| Soltvadkert | 081 |
+| 97. | Solt | 088 |
 
-| Sükösd | 061 |
+| 98. | Soltszentimre | 081 |
 
-| Szabadszállás | 089 |
+| 99. | Soltvadkert | 081 |
 
-| Szakmár | 061 |
+| 100. | Sükösd | 061 |
 
-| Szalkszentmárton | 088 |
+| 101. | Szabadszállás | 089 |
 
-| Szank | 036 |
+| 102. | Szakmár | 061 |
 
-| Szentkirály | 075 |
+| 103. | Szalkszentmárton | 088 |
 
-| Szeremle | 004 |
+| 104. | Szank | 036 |
 
-| Tabdi | 081 |
+| 105. | Szentkirály | 075 |
 
-| Tass | 088 |
+| 106. | Szeremle | 004 |
 
-| Tataháza | 004 |
+| 107. | Tabdi | 081 |
 
-| Tázlár | 081 |
+| 108. | Tass | 088 |
 
-| Tiszaalpár | 075 |
+| 109. | Tataháza | 004 |
 
-| Tiszakécske | 075 |
+| 110. | Tázlár | 081 |
 
-| Tiszaug | 104 |
+| 111. | Tiszaalpár | 075 |
 
-| Tompa | 149 |
+| 112. | Tiszakécske | 075 |
 
-| Újsolt | 088 |
+| 113. | Tiszaug | 104 |
 
-| Újtelek | 061 |
+| 114. | Tompa | 149 |
 
-| Uszód | 061 |
+| 115. | Újsolt | 088 |
 
-| Vaskút | 005 |
+| 116. | Újtelek | 061 |
 
-| Városföld | 075 |
+| 117. | Uszód | 061 |
 
-| Zsana | 037 |
+| 118. | Vaskút | 005 |
 
-Békés vármegye
+| 119. | Városföld | 075 |
 
-| Település | Becslőjárás |
+| 120. | Zsana | 037 |
 
-| Almáskamarás | 003 |
+3. Békés vármegye
 
-| Battonya | 009 |
+|  | A | B |
 
-| Békés | 010 |
+| 1. | Település | Becslőjárás |
 
-| Békéscsaba | 011 |
+| 2. | Almáskamarás | 003 |
 
-| Békéssámson | 011 |
+| 3. | Battonya | 009 |
 
-| Békésszentandrás | 150 |
+| 4. | Békés | 010 |
 
-| Bélmegyer | 010 |
+| 5. | Békéscsaba | 011 |
 
-| Biharugra | 119 |
+| 6. | Békéssámson | 011 |
 
-| Bucsa | 010 |
+| 7. | Békésszentandrás | 150 |
 
-| Csabacsűd | 150 |
+| 8. | Bélmegyer | 010 |
 
-| Csabaszabadi | 011 |
+| 9. | Biharugra | 119 |
 
-| Csanádapáca | 009 |
+| 10. | Bucsa | 010 |
 
-| Csárdaszállás | 010 |
+| 11. | Csabacsűd | 150 |
 
-| Csorvás | 011 |
+| 12. | Csabaszabadi | 011 |
 
-| Dévaványa | 071 |
+| 13. | Csanádapáca | 009 |
 
-| Doboz | 011 |
+| 14. | Csárdaszállás | 010 |
 
-| Dombegyház | 009 |
+| 15. | Csorvás | 011 |
 
-| Dombiratos | 009 |
+| 16. | Dévaványa | 071 |
 
-| Ecsegfalva | 071 |
+| 17. | Doboz | 011 |
 
-| Elek | 003 |
+| 18. | Dombegyház | 009 |
 
-| Füzesgyarmat | 010 |
+| 19. | Dombiratos | 009 |
 
-| Gádoros | 011 |
+| 20. | Ecsegfalva | 071 |
 
-| Gerendás | 011 |
+| 21. | Elek | 003 |
 
-| Geszt | 117 |
+| 22. | Füzesgyarmat | 010 |
 
-| Gyomaendrőd | 150 |
+| 23. | Gádoros | 011 |
 
-| Gyula | 011 |
+| 24. | Gerendás | 011 |
 
-| Hunya | 150 |
+| 25. | Geszt | 117 |
 
-| Kamut | 010 |
+| 26. | Gyomaendrőd | 150 |
 
-| Kardos | 150 |
+| 27. | Gyula | 011 |
 
-| Kardoskút | 053 |
+| 28. | Hunya | 150 |
 
-| Kaszaper | 009 |
+| 29. | Kamut | 010 |
 
-| Kertészsziget | 010 |
+| 30. | Kardos | 150 |
 
-| Kevermes | 009 |
+| 31. | Kardoskút | 053 |
 
-| Kétegyháza | 011 |
+| 32. | Kaszaper | 009 |
 
-| Kétsoprony | 011 |
+| 33. | Kertészsziget | 010 |
 
-| Kisdombegyház | 009 |
+| 34. | Kevermes | 009 |
 
-| Kondoros | 150 |
+| 35. | Kétegyháza | 011 |
 
-| Körösladány | 010 |
+| 36. | Kétsoprony | 011 |
 
-| Körösnagyharsány | 119 |
+| 37. | Kisdombegyház | 009 |
 
-| Köröstarcsa | 010 |
+| 38. | Kondoros | 150 |
 
-| Körösújfalu | 010 |
+| 39. | Körösladány | 010 |
 
-| Kötegyán | 117 |
+| 40. | Körösnagyharsány | 119 |
 
-| Kunágota | 009 |
+| 41. | Köröstarcsa | 010 |
 
-| Lőkösháza | 003 |
+| 42. | Körösújfalu | 010 |
 
-| Magyarbánhegyes | 009 |
+| 43. | Kötegyán | 117 |
 
-| Magyardombegyház | 009 |
+| 44. | Kunágota | 009 |
 
-| Medgyesbodzás | 003 |
+| 45. | Lőkösháza | 003 |
 
-| Medgyesegyháza | 003 |
+| 46. | Magyarbánhegyes | 009 |
 
-| Mezőberény | 010 |
+| 47. | Magyardombegyház | 009 |
 
-| Mezőgyán | 117 |
+| 48. | Medgyesbodzás | 003 |
 
-| Mezőhegyes | 009 |
+| 49. | Medgyesegyháza | 003 |
 
-| Mezőkovácsháza | 009 |
+| 50. | Mezőberény | 010 |
 
-| Méhkerék | 117 |
+| 51. | Mezőgyán | 117 |
 
-| Murony | 010 |
+| 52. | Mezőhegyes | 009 |
 
-| Nagybánhegyes | 009 |
+| 53. | Mezőkovácsháza | 009 |
 
-| Nagykamarás | 003 |
+| 54. | Méhkerék | 117 |
 
-| Nagyszénás | 011 |
+| 55. | Murony | 010 |
 
-| Okány | 117 |
+| 56. | Nagybánhegyes | 009 |
 
-| Orosháza | 011 |
+| 57. | Nagykamarás | 003 |
 
-| Örménykút | 150 |
+| 58. | Nagyszénás | 011 |
 
-| Pusztaföldvár | 011 |
+| 59. | Okány | 117 |
 
-| Pusztaottlaka | 003 |
+| 60. | Orosháza | 011 |
 
-| Sarkad | 117 |
+| 61. | Örménykút | 150 |
 
-| Sarkadkeresztúr | 117 |
+| 62. | Pusztaföldvár | 011 |
 
-| Szabadkígyós | 011 |
+| 63. | Pusztaottlaka | 003 |
 
-| Szarvas | 150 |
+| 64. | Sarkad | 117 |
 
-| Szeghalom | 010 |
+| 65. | Sarkadkeresztúr | 117 |
 
-| Tarhos | 010 |
+| 66. | Szabadkígyós | 011 |
 
-| Telekgerendás | 011 |
+| 67. | Szarvas | 150 |
 
-| Tótkomlós | 011 |
+| 68. | Szeghalom | 010 |
 
-| Újkígyós | 011 |
+| 69. | Tarhos | 010 |
 
-| Újszalonta | 117 |
+| 70. | Telekgerendás | 011 |
 
-| Végegyháza | 009 |
+| 71. | Tótkomlós | 011 |
 
-| Vésztő | 010 |
+| 72. | Újkígyós | 011 |
 
-| Zsadány | 117 |
+| 73. | Újszalonta | 117 |
 
-Borsod-Abaúj-Zemplén vármegye
+| 74. | Végegyháza | 009 |
 
-| Település | Becslőjárás |
+| 75. | Vésztő | 010 |
 
-| Abaújalpár | 167 |
+| 76. | Zsadány | 117 |
 
-| Abaújkér | 167 |
+4. Borsod-Abaúj-Zemplén vármegye
 
-| Abaújlak | 167 |
+|  | A | B |
 
-| Abaújszántó | 167 |
+| 1. | Település | Becslőjárás |
 
-| Abaújszolnok | 167 |
+| 2. | Abaújalpár | 167 |
 
-| Abaújvár | 073 |
+| 3. | Abaújkér | 167 |
 
-| Abod | 029 |
+| 4. | Abaújlak | 167 |
 
-| Aggtelek | 132 |
+| 5. | Abaújszántó | 167 |
 
-| Alacska | 133 |
+| 6. | Abaújszolnok | 167 |
 
-| Alsóberecki | 079 |
+| 7. | Abaújvár | 073 |
 
-| Alsódobsza | 186 |
+| 8. | Abod | 029 |
 
-| Alsógagy | 139 |
+| 9. | Aggtelek | 132 |
 
-| Alsóregmec | 074 |
+| 10. | Alacska | 133 |
 
-| Alsószuha | 132 |
+| 11. | Alsóberecki | 079 |
 
-| Alsótelekes | 029 |
+| 12. | Alsódobsza | 186 |
 
-| Alsóvadász | 167 |
+| 13. | Alsógagy | 139 |
 
-| Alsózsolca | 106 |
+| 14. | Alsóregmec | 074 |
 
-| Arka | 167 |
+| 15. | Alsószuha | 132 |
 
-| Arló | 134 |
+| 16. | Alsótelekes | 029 |
 
-| Arnót | 029 |
+| 17. | Alsóvadász | 167 |
 
-| Aszaló | 167 |
+| 18. | Alsózsolca | 106 |
 
-| Ároktő | 106 |
+| 19. | Arka | 167 |
 
-| Baktakék | 167 |
+| 20. | Arló | 134 |
 
-| Balajt | 029 |
+| 21. | Arnót | 029 |
 
-| Baskó | 168 |
+| 22. | Aszaló | 167 |
 
-| Bánhorváti | 134 |
+| 23. | Ároktő | 106 |
 
-| Bánréve | 131 |
+| 24. | Baktakék | 167 |
 
-| Becskeháza | 188 |
+| 25. | Balajt | 029 |
 
-| Bekecs | 186 |
+| 26. | Baskó | 168 |
 
-| Berente | 133 |
+| 27. | Bánhorváti | 134 |
 
-| Beret | 167 |
+| 28. | Bánréve | 131 |
 
-| Berzék | 186 |
+| 29. | Becskeháza | 188 |
 
-| Bodroghalom | 079 |
+| 30. | Bekecs | 186 |
 
-| Bodrogkeresztúr | 185 |
+| 31. | Berente | 133 |
 
-| Bodrogkisfalud | 185 |
+| 32. | Beret | 167 |
 
-| Bodrogolaszi | 184 |
+| 33. | Berzék | 186 |
 
-| Bódvalenke | 188 |
+| 34. | Bodroghalom | 079 |
 
-| Bódvarákó | 188 |
+| 35. | Bodrogkeresztúr | 185 |
 
-| Bódvaszilas | 187 |
+| 36. | Bodrogkisfalud | 185 |
 
-| Bogács | 102 |
+| 37. | Bodrogolaszi | 184 |
 
-| Boldogkőújfalu | 167 |
+| 38. | Bódvalenke | 188 |
 
-| Boldogkőváralja | 167 |
+| 39. | Bódvarákó | 188 |
 
-| Boldva | 029 |
+| 40. | Bódvaszilas | 187 |
 
-| Borsodbóta | 134 |
+| 41. | Bogács | 102 |
 
-| Borsodgeszt | 102 |
+| 42. | Boldogkőújfalu | 167 |
 
-| Borsodivánka | 101 |
+| 43. | Boldogkőváralja | 167 |
 
-| Borsodnádasd | 134 |
+| 44. | Boldva | 029 |
 
-| Borsodszentgyörgy | 134 |
+| 45. | Borsodbóta | 134 |
 
-| Borsodszirák | 029 |
+| 46. | Borsodgeszt | 102 |
 
-| Bózsva | 074 |
+| 47. | Borsodivánka | 101 |
 
-| Bőcs | 106 |
+| 48. | Borsodnádasd | 134 |
 
-| Bükkaranyos | 102 |
+| 49. | Borsodszentgyörgy | 134 |
 
-| Bükkábrány | 100 |
+| 50. | Borsodszirák | 029 |
 
-| Bükkmogyorósd | 134 |
+| 51. | Bózsva | 074 |
 
-| Bükkszentkereszt | 106 |
+| 52. | Bőcs | 106 |
 
-| Bükkzsérc | 102 |
+| 53. | Bükkaranyos | 102 |
 
-| Büttös | 139 |
+| 54. | Bükkábrány | 100 |
 
-| Cigánd | 079 |
+| 55. | Bükkmogyorósd | 134 |
 
-| Csenyéte | 139 |
+| 56. | Bükkszentkereszt | 106 |
 
-| Cserépfalu | 102 |
+| 57. | Bükkzsérc | 102 |
 
-| Cserépváralja | 102 |
+| 58. | Büttös | 139 |
 
-| Csernely | 134 |
+| 59. | Cigánd | 079 |
 
-| Csincse | 100 |
+| 60. | Csenyéte | 139 |
 
-| Csobaj | 122 |
+| 61. | Cserépfalu | 102 |
 
-| Csobád | 167 |
+| 62. | Cserépváralja | 102 |
 
-| Csokvaomány | 134 |
+| 63. | Csernely | 134 |
 
-| Damak | 029 |
+| 64. | Csincse | 100 |
 
-| Dámóc | 079 |
+| 65. | Csobaj | 122 |
 
-| Debréte | 029 |
+| 66. | Csobád | 167 |
 
-| Detek | 167 |
+| 67. | Csokvaomány | 134 |
 
-| Dédestapolcsány | 134 |
+| 68. | Damak | 029 |
 
-| Domaháza | 134 |
+| 69. | Dámóc | 079 |
 
-| Dövény | 029 |
+| 70. | Debréte | 029 |
 
-| Dubicsány | 029 |
+| 71. | Detek | 167 |
 
-| Edelény | 029 |
+| 72. | Dédestapolcsány | 134 |
 
-| Egerlövő | 101 |
+| 73. | Domaháza | 134 |
 
-| Emőd | 100 |
+| 74. | Dövény | 029 |
 
-| Encs | 167 |
+| 75. | Dubicsány | 029 |
 
-| Erdőbénye | 184 |
+| 76. | Edelény | 029 |
 
-| Erdőhorváti | 168 |
+| 77. | Egerlövő | 101 |
 
-| Égerszög | 189 |
+| 78. | Emőd | 100 |
 
-| Fancsal | 167 |
+| 79. | Encs | 167 |
 
-| Farkaslyuk | 134 |
+| 80. | Erdőbénye | 184 |
 
-| Fáj | 139 |
+| 81. | Erdőhorváti | 168 |
 
-| Felsőberecki | 079 |
+| 82. | Égerszög | 189 |
 
-| Felsődobsza | 167 |
+| 83. | Fancsal | 167 |
 
-| Felsőgagy | 139 |
+| 84. | Farkaslyuk | 134 |
 
-| Felsőkelecsény | 029 |
+| 85. | Fáj | 139 |
 
-| Felsőnyárád | 029 |
+| 86. | Felsőberecki | 079 |
 
-| Felsőregmec | 074 |
+| 87. | Felsődobsza | 167 |
 
-| Felsőtelekes | 029 |
+| 88. | Felsőgagy | 139 |
 
-| Felsővadász | 167 |
+| 89. | Felsőkelecsény | 029 |
 
-| Felsőzsolca | 106 |
+| 90. | Felsőnyárád | 029 |
 
-| Filkeháza | 074 |
+| 91. | Felsőregmec | 074 |
 
-| Fony | 167 |
+| 92. | Felsőtelekes | 029 |
 
-| Forró | 167 |
+| 93. | Felsővadász | 167 |
 
-| Fulókércs | 139 |
+| 94. | Felsőzsolca | 106 |
 
-| Füzér | 074 |
+| 95. | Filkeháza | 074 |
 
-| Füzérkajata | 074 |
+| 96. | Fony | 167 |
 
-| Füzérkomlós | 074 |
+| 97. | Forró | 167 |
 
-| Füzérradvány | 074 |
+| 98. | Fulókércs | 139 |
 
-| Gadna | 167 |
+| 99. | Füzér | 074 |
 
-| Gagyapáti | 139 |
+| 100. | Füzérkajata | 074 |
 
-| Gagybátor | 139 |
+| 101. | Füzérkomlós | 074 |
 
-| Gagyvendégi | 139 |
+| 102. | Füzérradvány | 074 |
 
-| Galvács | 029 |
+| 103. | Gadna | 167 |
 
-| Garadna | 167 |
+| 104. | Gagyapáti | 139 |
 
-| Gelej | 101 |
+| 105. | Gagybátor | 139 |
 
-| Gesztely | 186 |
+| 106. | Gagyvendégi | 139 |
 
-| Girincs | 186 |
+| 107. | Galvács | 029 |
 
-| Golop | 185 |
+| 108. | Garadna | 167 |
 
-| Gömörszőlős | 132 |
+| 109. | Gelej | 101 |
 
-| Gönc | 167 |
+| 110. | Gesztely | 186 |
 
-| Göncruszka | 167 |
+| 111. | Gibárt | 167 |
 
-| Györgytarló | 184 |
+| 112. | Girincs | 186 |
 
-| Halmaj | 167 |
+| 113. | Golop | 185 |
 
-| Hangács | 029 |
+| 114. | Gömörszőlős | 132 |
 
-| Hangony | 130 |
+| 115. | Gönc | 167 |
 
-| Harsány | 102 |
+| 116. | Göncruszka | 167 |
 
-| Háromhuta | 168 |
+| 117. | Györgytarló | 184 |
 
-| Hegymeg | 029 |
+| 118. | Halmaj | 167 |
 
-| Hejce | 167 |
+| 119. | Hangács | 029 |
 
-| Hejőbába | 106 |
+| 120. | Hangony | 130 |
 
-| Hejőkeresztúr | 106 |
+| 121. | Harsány | 102 |
 
-| Hejőkürt | 106 |
+| 122. | Háromhuta | 168 |
 
-| Hejőpapi | 106 |
+| 123. | Hegymeg | 029 |
 
-| Hejőszalonta | 106 |
+| 124. | Hejce | 167 |
 
-| Hercegkút | 184 |
+| 125. | Hejőbába | 106 |
 
-| Hernádbűd | 167 |
+| 126. | Hejőkeresztúr | 106 |
 
-| Hernádcéce | 167 |
+| 127. | Hejőkürt | 106 |
 
-| Hernádkak | 186 |
+| 128. | Hejőpapi | 106 |
 
-| Hernádkércs | 167 |
+| 129. | Hejőszalonta | 106 |
 
-| Hernádnémeti | 186 |
+| 130. | Hercegkút | 184 |
 
-| Hernádpetri | 139 |
+| 131. | Hernádbűd | 167 |
 
-| Hernádszentandrás | 167 |
+| 132. | Hernádcéce | 167 |
 
-| Hernádszurdok | 139 |
+| 133. | Hernádkak | 186 |
 
-| Hernádvécse | 139 |
+| 134. | Hernádkércs | 167 |
 
-| Hét | 131 |
+| 135. | Hernádnémeti | 186 |
 
-| Hidasnémeti | 072 |
+| 136. | Hernádpetri | 139 |
 
-| Hidvégardó | 187 |
+| 137. | Hernádszentandrás | 167 |
 
-| Hollóháza | 074 |
+| 138. | Hernádszurdok | 139 |
 
-| Homrogd | 167 |
+| 139. | Hernádvécse | 139 |
 
-| Igrici | 106 |
+| 140. | Hét | 131 |
 
-| Imola | 132 |
+| 141. | Hidasnémeti | 072 |
 
-| Ináncs | 167 |
+| 142. | Hidvégardó | 187 |
 
-| Irota | 029 |
+| 143. | Hollóháza | 074 |
 
-| Izsófalva | 029 |
+| 144. | Homrogd | 167 |
 
-| Jákfalva | 029 |
+| 145. | Igrici | 106 |
 
-| Járdánháza | 134 |
+| 146. | Imola | 132 |
 
-| Jósvafő | 189 |
+| 147. | Ináncs | 167 |
 
-| Karcsa | 079 |
+| 148. | Irota | 029 |
 
-| Karos | 079 |
+| 149. | Izsófalva | 029 |
 
-| Kazincbarcika | 133 |
+| 150. | Jákfalva | 029 |
 
-| Kács | 102 |
+| 151. | Járdánháza | 134 |
 
-| Kánó | 132 |
+| 152. | Jósvafő | 189 |
 
-| Kány | 139 |
+| 153. | Karcsa | 079 |
 
-| Kázsmárk | 167 |
+| 154. | Karos | 079 |
 
-| Kelemér | 132 |
+| 155. | Kazincbarcika | 133 |
 
-| Kenézlő | 121 |
+| 156. | Kács | 102 |
 
-| Keresztéte | 139 |
+| 157. | Kánó | 132 |
 
-| Kesznyéten | 186 |
+| 158. | Kány | 139 |
 
-| Kéked | 073 |
+| 159. | Kázsmárk | 167 |
 
-| Királd | 134 |
+| 160. | Kelemér | 132 |
 
-| Kiscsécs | 186 |
+| 161. | Kenézlő | 121 |
 
-| Kisgyőr | 102 |
+| 162. | Keresztéte | 139 |
 
-| Kishuta | 074 |
+| 163. | Kesznyéten | 186 |
 
-| Kiskinizs | 167 |
+| 164. | Kéked | 073 |
 
-| Kisrozvágy | 079 |
+| 165. | Királd | 134 |
 
-| Kissikátor | 134 |
+| 166. | Kiscsécs | 186 |
 
-| Kistokaj | 106 |
+| 167. | Kisgyőr | 102 |
 
-| Komjáti | 187 |
+| 168. | Kishuta | 074 |
 
-| Komlóska | 168 |
+| 169. | Kiskinizs | 167 |
 
-| Kondó | 133 |
+| 170. | Kisrozvágy | 079 |
 
-| Korlát | 167 |
+| 171. | Kissikátor | 134 |
 
-| Kovácsvágás | 074 |
+| 172. | Kistokaj | 106 |
 
-| Köröm | 186 |
+| 173. | Komjáti | 187 |
 
-| Krasznokvajda | 139 |
+| 174. | Komlóska | 168 |
 
-| Kupa | 167 |
+| 175. | Kondó | 133 |
 
-| Kurityán | 029 |
+| 176. | Korlát | 167 |
 
-| Lak | 029 |
+| 177. | Kovácsvágás | 074 |
 
-| Lácacséke | 079 |
+| 178. | Köröm | 186 |
 
-| Ládbesenyő | 029 |
+| 179. | Krasznokvajda | 139 |
 
-| Legyesbénye | 186 |
+| 180. | Kupa | 167 |
 
-| Léh | 167 |
+| 181. | Kurityán | 029 |
 
-| Lénárddaróc | 134 |
+| 182. | Lak | 029 |
 
-| Litka | 139 |
+| 183. | Lácacséke | 079 |
 
-| Makkoshotyka | 138 |
+| 184. | Ládbesenyő | 029 |
 
-| Martonyi | 029 |
+| 185. | Legyesbénye | 186 |
 
-| Mád | 185 |
+| 186. | Léh | 167 |
 
-| Mályi | 106 |
+| 187. | Lénárddaróc | 134 |
 
-| Mályinka | 134 |
+| 188. | Litka | 139 |
 
-| Megyaszó | 186 |
+| 189. | Makkoshotyka | 138 |
 
-| Meszes | 029 |
+| 190. | Martonyi | 029 |
 
-| Mezőcsát | 106 |
+| 191. | Mád | 185 |
 
-| Mezőkeresztes | 100 |
+| 192. | Mályi | 106 |
 
-| Mezőkövesd | 100 |
+| 193. | Mályinka | 134 |
 
-| Mezőnagymihály | 101 |
+| 194. | Megyaszó | 186 |
 
-| Mezőnyárád | 100 |
+| 195. | Meszes | 029 |
 
-| Mezőzombor | 185 |
+| 196. | Mezőcsát | 106 |
 
-| Méra | 167 |
+| 197. | Mezőkeresztes | 100 |
 
-| Mikóháza | 074 |
+| 198. | Mezőkövesd | 100 |
 
-| Miskolc | 106 |
+| 199. | Mezőnagymihály | 101 |
 
-| Mogyoróska | 168 |
+| 200. | Mezőnyárád | 100 |
 
-| Monaj | 167 |
+| 201. | Mezőzombor | 185 |
 
-| Monok | 186 |
+| 202. | Méra | 167 |
 
-| Múcsony | 029 |
+| 203. | Mikóháza | 074 |
 
-| Muhi | 106 |
+| 204. | Miskolc | 106 |
 
-| Nagybarca | 134 |
+| 205. | Mogyoróska | 168 |
 
-| Nagycsécs | 106 |
+| 206. | Monaj | 167 |
 
-| Nagyhuta | 074 |
+| 207. | Monok | 186 |
 
-| Nagykinizs | 167 |
+| 208. | Múcsony | 029 |
 
-| Nagyrozvágy | 079 |
+| 209. | Muhi | 106 |
 
-| Nekézseny | 134 |
+| 210. | Nagybarca | 134 |
 
-| Nemesbikk | 106 |
+| 211. | Nagycsécs | 106 |
 
-| Négyes | 101 |
+| 212. | Nagyhuta | 074 |
 
-| Novajidrány | 167 |
+| 213. | Nagykinizs | 167 |
 
-| Nyékládháza | 106 |
+| 214. | Nagyrozvágy | 079 |
 
-| Nyésta | 167 |
+| 215. | Nekézseny | 134 |
 
-| Nyíri | 074 |
+| 216. | Nemesbikk | 106 |
 
-| Nyomár | 029 |
+| 217. | Négyes | 101 |
 
-| Olaszliszka | 184 |
+| 218. | Novajidrány | 167 |
 
-| Onga | 167 |
+| 219. | Nyékládháza | 106 |
 
-| Onód | 106 |
+| 220. | Nyésta | 167 |
 
-| Ormosbánya | 029 |
+| 221. | Nyíri | 074 |
 
-| Oszlár | 106 |
+| 222. | Nyomár | 029 |
 
-| Ózd | 134 |
+| 223. | Olaszliszka | 184 |
 
-| Pamlény | 139 |
+| 224. | Onga | 167 |
 
-| Parasznya | 133 |
+| 225. | Ónod | 106 |
 
-| Pácin | 079 |
+| 226. | Ormosbánya | 029 |
 
-| Pálháza | 074 |
+| 227. | Oszlár | 106 |
 
-| Pányok | 073 |
+| 228. | Ózd | 134 |
 
-| Pere | 167 |
+| 229. | Pamlény | 139 |
 
-| Perecse | 139 |
+| 230. | Parasznya | 133 |
 
-| Perkupa | 189 |
+| 231. | Pácin | 079 |
 
-| Prügy | 122 |
+| 232. | Pálháza | 074 |
 
-| Pusztafalu | 074 |
+| 233. | Pányok | 073 |
 
-| Pusztaradvány | 139 |
+| 234. | Pere | 167 |
 
-| Putnok | 131 |
+| 235. | Perecse | 139 |
 
-| Radostyán | 133 |
+| 236. | Perkupa | 189 |
 
-| Ragály | 132 |
+| 237. | Prügy | 122 |
 
-| Rakaca | 029 |
+| 238. | Pusztafalu | 074 |
 
-| Rakacaszend | 029 |
+| 239. | Pusztaradvány | 139 |
 
-| Rásonysápberencs | 167 |
+| 240. | Putnok | 131 |
 
-| Rátka | 185 |
+| 241. | Radostyán | 133 |
 
-| Regéc | 168 |
+| 242. | Ragály | 132 |
 
-| Répáshuta | 106 |
+| 243. | Rakaca | 029 |
 
-| Révleányvár | 079 |
+| 244. | Rakacaszend | 029 |
 
-| Ricse | 079 |
+| 245. | Rásonysápberencs | 167 |
 
-| Rudabánya | 029 |
+| 246. | Rátka | 185 |
 
-| Rudolftelep | 029 |
+| 247. | Regéc | 168 |
 
-| Sajóbábony | 106 |
+| 248. | Répáshuta | 106 |
 
-| Sajóecseg | 106 |
+| 249. | Révleányvár | 079 |
 
-| Sajógalgóc | 029 |
+| 250. | Ricse | 079 |
 
-| Sajóhidvég | 186 |
+| 251. | Rudabánya | 029 |
 
-| Sajóivánka | 133 |
+| 252. | Rudolftelep | 029 |
 
-| Sajókaza | 029 |
+| 253. | Sajóbábony | 106 |
 
-| Sajókápolna | 133 |
+| 254. | Sajóecseg | 106 |
 
-| Sajókeresztúr | 106 |
+| 255. | Sajógalgóc | 029 |
 
-| Sajólád | 106 |
+| 256. | Sajóhídvég | 186 |
 
-| Sajólászlófalva | 133 |
+| 257. | Sajóivánka | 133 |
 
-| Sajómercse | 134 |
+| 258. | Sajókaza | 029 |
 
-| Sajónémeti | 133 |
+| 259. | Sajókápolna | 133 |
 
-| Sajóörös | 106 |
+| 260. | Sajókeresztúr | 106 |
 
-| Sajópálfala | 029 |
+| 261. | Sajólád | 106 |
 
-| Sajópetri | 106 |
+| 262. | Sajólászlófalva | 133 |
 
-| Sajópüspöki | 131 |
+| 263. | Sajómercse | 134 |
 
-| Sajósenye | 029 |
+| 264. | Sajónémeti | 133 |
 
-| Sajószentpéter | 133 |
+| 265. | Sajóörös | 106 |
 
-| Sajószöged | 106 |
+| 266. | Sajópálfala | 029 |
 
-| Sajóvámos | 029 |
+| 267. | Sajópetri | 106 |
 
-| Sajóvelezd | 133 |
+| 268. | Sajópüspöki | 131 |
 
-| Sály | 102 |
+| 269. | Sajósenye | 029 |
 
-| Sárazsadány | 184 |
+| 270. | Sajószentpéter | 133 |
 
-| Sárospatak | 184 |
+| 271. | Sajószöged | 106 |
 
-| Sáta | 134 |
+| 272. | Sajóvámos | 029 |
 
-| Sátoraljaújhely | 138 |
+| 273. | Sajóvelezd | 133 |
 
-| Selyeb | 167 |
+| 274. | Sály | 102 |
 
-| Semjén | 079 |
+| 275. | Sárazsadány | 184 |
 
-| Serényfalva | 131 |
+| 276. | Sárospatak | 184 |
 
-| Sima | 168 |
+| 277. | Sáta | 134 |
 
-| Sóstófalva | 186 |
+| 278. | Sátoraljaújhely | 138 |
 
-| Szakácsi | 029 |
+| 279. | Selyeb | 167 |
 
-| Szakáld | 106 |
+| 280. | Semjén | 079 |
 
-| Szalaszend | 139 |
+| 281. | Serényfalva | 131 |
 
-| Szalonna | 029 |
+| 282. | Sima | 168 |
 
-| Szászfa | 139 |
+| 283. | Sóstófalva | 186 |
 
-| Szegi | 185 |
+| 284. | Szakácsi | 029 |
 
-| Szegilong | 185 |
+| 285. | Szakáld | 106 |
 
-| Szemere | 139 |
+| 286. | Szalaszend | 139 |
 
-| Szendrő | 029 |
+| 287. | Szalonna | 029 |
 
-| Szendrőlád | 029 |
+| 288. | Szászfa | 139 |
 
-| Szentistván | 101 |
+| 289. | Szegi | 185 |
 
-| Szentistvánbaksa | 167 |
+| 290. | Szegilong | 185 |
 
-| Szerencs | 185 |
+| 291. | Szemere | 139 |
 
-| Szikszó | 167 |
+| 292. | Szendrő | 029 |
 
-| Szin | 189 |
+| 293. | Szendrőlád | 029 |
 
-| Szinpetri | 189 |
+| 294. | Szentistván | 101 |
 
-| Szirmabesenyő | 106 |
+| 295. | Szentistvánbaksa | 167 |
 
-| Szomolya | 102 |
+| 296. | Szerencs | 185 |
 
-| Szögliget | 187 |
+| 297. | Szikszó | 167 |
 
-| Szőlősardó | 189 |
+| 298. | Szin | 189 |
 
-| Szuhafő | 132 |
+| 299. | Szinpetri | 189 |
 
-| Szuhakálló | 029 |
+| 300. | Szirmabesenyő | 106 |
 
-| Szuhogy | 029 |
+| 301. | Szomolya | 102 |
 
-| Taktabáj | 122 |
+| 302. | Szögliget | 187 |
 
-| Taktaharkány | 186 |
+| 303. | Szőlősardó | 189 |
 
-| Taktakenéz | 122 |
+| 304. | Szuhafő | 132 |
 
-| Taktaszada | 186 |
+| 305. | Szuhakálló | 029 |
 
-| Tarcal | 185 |
+| 306. | Szuhogy | 029 |
 
-| Tard | 102 |
+| 307. | Taktabáj | 122 |
 
-| Tardona | 134 |
+| 308. | Taktaharkány | 186 |
 
-| Tállya | 185 |
+| 309. | Taktakenéz | 122 |
 
-| Telkibánya | 168 |
+| 310. | Taktaszada | 186 |
 
-| Teresztenye | 189 |
+| 311. | Tarcal | 185 |
 
-| Tibolddaróc | 102 |
+| 312. | Tard | 102 |
 
-| Tiszabábolna | 103 |
+| 313. | Tardona | 134 |
 
-| Tiszacsermely | 079 |
+| 314. | Tállya | 185 |
 
-| Tiszadorogma | 103 |
+| 315. | Telkibánya | 168 |
 
-| Tiszakarád | 079 |
+| 316. | Teresztenye | 189 |
 
-| Tiszakeszi | 106 |
+| 317. | Tibolddaróc | 102 |
 
-| Tiszaladány | 122 |
+| 318. | Tiszabábolna | 103 |
 
-| Tiszalúc | 186 |
+| 319. | Tiszacsermely | 079 |
 
-| Tiszapalkonya | 106 |
+| 320. | Tiszadorogma | 103 |
 
-| Tiszatardos | 122 |
+| 321. | Tiszakarád | 079 |
 
-| Tiszatarján | 106 |
+| 322. | Tiszakeszi | 106 |
 
-| Tiszaújváros | 106 |
+| 323. | Tiszaladány | 122 |
 
-| Tiszavalk | 103 |
+| 324. | Tiszalúc | 186 |
 
-| Tokaj | 185 |
+| 325. | Tiszapalkonya | 106 |
 
-| Tolcsva | 184 |
+| 326. | Tiszatardos | 122 |
 
-| Tomor | 167 |
+| 327. | Tiszatarján | 106 |
 
-| Tornabarakony | 188 |
+| 328. | Tiszaújváros | 106 |
 
-| Tornakápolna | 189 |
+| 329. | Tiszavalk | 103 |
 
-| Tornanádaska | 187 |
+| 330. | Tokaj | 185 |
 
-| Tornaszentandrás | 188 |
+| 331. | Tolcsva | 184 |
 
-| Tornaszentjakab | 029 |
+| 332. | Tomor | 167 |
 
-| Tornyosnémeti | 072 |
+| 333. | Tornabarakony | 188 |
 
-| Trizs | 132 |
+| 334. | Tornakápolna | 189 |
 
-| Újcsanálos | 186 |
+| 335. | Tornanádaska | 187 |
 
-| Uppony | 134 |
+| 336. | Tornaszentandrás | 188 |
 
-| Vadna | 133 |
+| 337. | Tornaszentjakab | 029 |
 
-| Vajdácska | 079 |
+| 338. | Tornyosnémeti | 072 |
 
-| Varbó | 133 |
+| 339. | Trizs | 132 |
 
-| Varbóc | 189 |
+| 340. | Újcsanálos | 186 |
 
-| Vatta | 100 |
+| 341. | Uppony | 134 |
 
-| Vágáshuta | 074 |
+| 342. | Vadna | 133 |
 
-| Vámosújfalu | 184 |
+| 343. | Vajdácska | 079 |
 
-| Vilmány | 167 |
+| 344. | Varbó | 133 |
 
-| Vilyvitány | 074 |
+| 345. | Varbóc | 189 |
 
-| Viss | 121 |
+| 346. | Vatta | 100 |
 
-| Viszló | 029 |
+| 347. | Vágáshuta | 074 |
 
-| Vizsoly | 167 |
+| 348. | Vámosújfalu | 184 |
 
-| Zalkod | 121 |
+| 349. | Vilmány | 167 |
 
-| Zádorfalva | 132 |
+| 350. | Vilyvitány | 074 |
 
-| Zemplénagárd | 079 |
+| 351. | Viss | 121 |
 
-| Ziliz | 029 |
+| 352. | Viszló | 029 |
 
-| Zubogy | 132 |
+| 353. | Vizsoly | 167 |
 
-| Zsujta | 167 |
+| 354. | Zalkod | 121 |
 
-Csongrád-Csanád vármegye
+| 355. | Zádorfalva | 132 |
 
-| Település | Becslőjárás |
+| 356. | Zemplénagárd | 079 |
 
-| Algyő | 152 |
+| 357. | Ziliz | 029 |
 
-| Ambrózfalva | 009 |
+| 358. | Zubogy | 132 |
 
-| Apátfalva | 092 |
+| 359. | Zsujta | 167 |
 
-| Árpádhalom | 053 |
+5. Csongrád-Csanád vármegye
 
-| Ásotthalom | 151 |
+|  | A | B |
 
-| Baks | 152 |
+| 1. | Település | Becslőjárás |
 
-| Balástya | 151 |
+| 2. | Algyő | 152 |
 
-| Bordány | 151 |
+| 3. | Ambrózfalva | 009 |
 
-| Csanádalberti | 009 |
+| 4. | Apátfalva | 092 |
 
-| Csanádpalota | 092 |
+| 5. | Árpádhalom | 053 |
 
-| Csanytelek | 152 |
+| 6. | Ásotthalom | 151 |
 
-| Csengele | 151 |
+| 7. | Baks | 152 |
 
-| Csongrád | 152 |
+| 8. | Balástya | 151 |
 
-| Derekegyház | 053 |
+| 9. | Bordány | 151 |
 
-| Deszk | 190 |
+| 10. | Csanádalberti | 009 |
 
-| Dóc | 152 |
+| 11. | Csanádpalota | 092 |
 
-| Domaszék | 151 |
+| 12. | Csanytelek | 152 |
 
-| Eperjes | 053 |
+| 13. | Csengele | 151 |
 
-| Fábiánsebestyén | 054 |
+| 14. | Csongrád | 152 |
 
-| Felgyő | 152 |
+| 15. | Derekegyház | 053 |
 
-| Ferencszállás | 190 |
+| 16. | Deszk | 190 |
 
-| Forráskút | 151 |
+| 17. | Dóc | 152 |
 
-| Földeák | 092 |
+| 18. | Domaszék | 151 |
 
-| Hódmezővásárhely | 053 |
+| 19. | Eperjes | 053 |
 
-| Királyhegyes | 092 |
+| 20. | Fábiánsebestyén | 054 |
 
-| Kistelek | 151 |
+| 21. | Felgyő | 152 |
 
-| Kiszombor | 118 |
+| 22. | Ferencszállás | 190 |
 
-| Klárafalva | 190 |
+| 23. | Forráskút | 151 |
 
-| Kövegy | 092 |
+| 24. | Földeák | 092 |
 
-| Kübekháza | 190 |
+| 25. | Hódmezővásárhely | 053 |
 
-| Magyarcsanád | 092 |
+| 26. | Királyhegyes | 092 |
 
-| Makó | 092 |
+| 27. | Kistelek | 151 |
 
-| Maroslele | 092 |
+| 28. | Kiszombor | 118 |
 
-| Mártély | 053 |
+| 29. | Klárafalva | 190 |
 
-| Mindszent | 054 |
+| 30. | Kövegy | 092 |
 
-| Mórahalom | 151 |
+| 31. | Kübekháza | 190 |
 
-| Nagyér | 009 |
+| 32. | Magyarcsanád | 092 |
 
-| Nagylak | 092 |
+| 33. | Makó | 092 |
 
-| Nagymágocs | 053 |
+| 34. | Maroslele | 092 |
 
-| Nagytőke | 054 |
+| 35. | Mártély | 053 |
 
-| Óföldeák | 092 |
+| 36. | Mindszent | 054 |
 
-| Ópusztaszer | 152 |
+| 37. | Mórahalom | 151 |
 
-| Öttömös | 151 |
+| 38. | Nagyér | 009 |
 
-| Pitvaros | 009 |
+| 39. | Nagylak | 092 |
 
-| Pusztamérges | 036 |
+| 40. | Nagymágocs | 053 |
 
-| Pusztaszer | 152 |
+| 41. | Nagytőke | 054 |
 
-| Röszke | 151 |
+| 42. | Óföldeák | 092 |
 
-| Ruzsa | 151 |
+| 43. | Ópusztaszer | 152 |
 
-| Sándorfalva | 152 |
+| 44. | Öttömös | 151 |
 
-| Szatymaz | 151 |
+| 45. | Pitvaros | 009 |
 
-| Szeged I. kerület | 151 |
+| 46. | Pusztamérges | 036 |
 
-| I. kerület | Szőreg 190 |
+| 47. | Pusztaszer | 152 |
 
-| II. kerület | 151 |
+| 48. | Röszke | 151 |
 
-| II. kerület | Tápé 152 |
+| 49. | Ruzsa | 151 |
 
-| III. kerület | 151 |
+| 50. | Sándorfalva | 152 |
 
-| III. kerület | Gyála 190 |
+| 51. | Szatymaz | 151 |
 
-| III. kerület | Kiskundorozsma 151 |
+| 52. | Szeged I. kerület | 151 |
 
-| Szegvár | 054 |
+| 53. | I. kerület | Szőreg 190 |
 
-| Székkutas | 053 |
+| 54. | II. kerület | 151 |
 
-| Szentes | 054 |
+| 55. | II. kerület | Tápé 152 |
 
-| Tiszasziget | 190 |
+| 56. | III. kerület | 151 |
 
-| Tömörkény | 152 |
+| 57. | III. kerület | Gyála 190 |
 
-| Újszentiván | 190 |
+| 58. | III. kerület | Kiskundorozsma 151 |
 
-| Üllés | 151 |
+| 59. | Szegvár | 054 |
 
-| Zákányszék | 151 |
+| 60. | Székkutas | 053 |
 
-| Zsombó | 151 |
+| 61. | Szentes | 054 |
 
-Fejér vármegye
+| 62. | Tiszasziget | 190 |
 
-| Település | Becslőjárás |
+| 63. | Tömörkény | 152 |
 
-| Aba | 164 |
+| 64. | Újszentiván | 190 |
 
-| Adony | 137 |
+| 65. | Üllés | 151 |
 
-| Alap | 137 |
+| 66. | Zákányszék | 151 |
 
-| Alcsútdoboz | 196 |
+| 67. | Zsombó | 151 |
 
-| Alsószentiván | 137 |
+6. Fejér vármegye
 
-| Bakonycsernye | 210 |
+|  | A | B |
 
-| Bakonykúti | 111 |
+| 1. | Település | Becslőjárás |
 
-| Balinka | 111 |
+| 2. | Aba | 164 |
 
-| Baracs | 137 |
+| 3. | Adony | 137 |
 
-| Baracska | 195 |
+| 4. | Alap | 137 |
 
-| Beloiannisz | 195 |
+| 5. | Alcsútdoboz | 196 |
 
-| Besnyő | 195 |
+| 6. | Alsószentiván | 137 |
 
-| Bicske | 196 |
+| 7. | Bakonycsernye | 210 |
 
-| Bodajk | 111 |
+| 8. | Bakonykúti | 111 |
 
-| Bodmér | 196 |
+| 9. | Balinka | 111 |
 
-| Cece | 137 |
+| 10. | Baracs | 137 |
 
-| Csabdi | 196 |
+| 11. | Baracska | 195 |
 
-| Csákberény | 111 |
+| 12. | Beloiannisz | 195 |
 
-| Csákvár | 111 |
+| 13. | Besnyő | 195 |
 
-| Csókakő | 111 |
+| 14. | Bicske | 196 |
 
-| Csór | 111 |
+| 15. | Bodajk | 111 |
 
-| Csősz | 164 |
+| 16. | Bodmér | 196 |
 
-| Dég | 200 |
+| 17. | Cece | 137 |
 
-| Dunaújváros | 137 |
+| 18. | Csabdi | 196 |
 
-| Előszállás | 137 |
+| 19. | Csákberény | 111 |
 
-| Enying | 200 |
+| 20. | Csákvár | 111 |
 
-| Ercsi | 195 |
+| 21. | Csókakő | 111 |
 
-| Etyek | 196 |
+| 22. | Csór | 111 |
 
-| Fehérvárcsurgó | 111 |
+| 23. | Csősz | 164 |
 
-| Felcsút | 196 |
+| 24. | Daruszentmiklós | 137 |
 
-| Füle | 164 |
+| 25. | Dég | 200 |
 
-| Gánt | 111 |
+| 26. | Dunaújváros | 137 |
 
-| Gárdony | 164 |
+| 27. | Előszállás | 137 |
 
-| Gyúró | 196 |
+| 28. | Enying | 200 |
 
-| Hantos | 137 |
+| 29. | Ercsi | 195 |
 
-| Igar | 137 |
+| 30. | Etyek | 196 |
 
-| Iszkaszentgyörgy | 111 |
+| 31. | Fehérvárcsurgó | 111 |
 
-| Isztimér | 111 |
+| 32. | Felcsút | 196 |
 
-| Iváncsa | 195 |
+| 33. | Füle | 164 |
 
-| Jenő | 164 |
+| 34. | Gánt | 111 |
 
-| Kajászó | 195 |
+| 35. | Gárdony | 164 |
 
-| Kálóz | 137 |
+| 36. | Gyúró | 196 |
 
-| Kápolnásnyék | 164 |
+| 37. | Hantos | 137 |
 
-| Kincsesbánya | 111 |
+| 38. | Igar | 137 |
 
-| Kisapostag | 137 |
+| 39. | Iszkaszentgyörgy | 111 |
 
-| Kisláng | 164 |
+| 40. | Isztimér | 111 |
 
-| Kőszárhegy | 164 |
+| 41. | Iváncsa | 195 |
 
-| Kulcs | 137 |
+| 42. | Jenő | 164 |
 
-| Lajoskomárom | 200 |
+| 43. | Kajászó | 195 |
 
-| Lepsény | 200 |
+| 44. | Káloz | 137 |
 
-| Lovasberény | 164 |
+| 45. | Kápolnásnyék | 164 |
 
-| Magyaralmás | 111 |
+| 46. | Kincsesbánya | 111 |
 
-| Martonvásár | 195 |
+| 47. | Kisapostag | 137 |
 
-| Mány | 196 |
+| 48. | Kisláng | 164 |
 
-| Mátyásdomb | 200 |
+| 49. | Kőszárhegy | 164 |
 
-| Mezőfalva | 137 |
+| 50. | Kulcs | 137 |
 
-| Mezőkomárom | 200 |
+| 51. | Lajoskomárom | 200 |
 
-| Mezőszentgyörgy | 200 |
+| 52. | Lepsény | 200 |
 
-| Mezőszilas | 200 |
+| 53. | Lovasberény | 164 |
 
-| Moha | 164 |
+| 54. | Magyaralmás | 111 |
 
-| Mór | 111 |
+| 55. | Martonvásár | 195 |
 
-| Nadap | 164 |
+| 56. | Mány | 196 |
 
-| Nagykarácsony | 137 |
+| 57. | Mátyásdomb | 200 |
 
-| Nagylók | 137 |
+| 58. | Mezőfalva | 137 |
 
-| Nagyveleg | 111 |
+| 59. | Mezőkomárom | 200 |
 
-| Nagyvenyim | 137 |
+| 60. | Mezőszentgyörgy | 200 |
 
-| Nádasdladány | 164 |
+| 61. | Mezőszilas | 200 |
 
-| Óbarok | 196 |
+| 62. | Moha | 164 |
 
-| Pákozd | 164 |
+| 63. | Mór | 111 |
 
-| Pátka | 164 |
+| 64. | Nadap | 164 |
 
-| Pázmánd | 164 |
+| 65. | Nagykarácsony | 137 |
 
-| Perkáta | 137 |
+| 66. | Nagylók | 137 |
 
-| Polgárdi | 164 |
+| 67. | Nagyveleg | 111 |
 
-| Pusztaszabolcs | 137 |
+| 68. | Nagyvenyim | 137 |
 
-| Pusztavám | 111 |
+| 69. | Nádasdladány | 164 |
 
-| Rácalmás | 137 |
+| 70. | Óbarok | 196 |
 
-| Ráckeresztúr | 195 |
+| 71. | Pákozd | 164 |
 
-| Sárbogárd | 137 |
+| 72. | Pátka | 164 |
 
-| Sáregres | 137 |
+| 73. | Pázmánd | 164 |
 
-| Sárkeresztes | 164 |
+| 74. | Perkáta | 137 |
 
-| Sárkeresztúr | 137 |
+| 75. | Polgárdi | 164 |
 
-| Sárkeszi | 164 |
+| 76. | Pusztaszabolcs | 137 |
 
-| Sárosd | 137 |
+| 77. | Pusztavám | 111 |
 
-| Sárszentágota | 137 |
+| 78. | Rácalmás | 137 |
 
-| Sárszentmihály | 164 |
+| 79. | Ráckeresztúr | 195 |
 
-| Seregélyes | 164 |
+| 80. | Sárbogárd | 137 |
 
-| Soponya | 164 |
+| 81. | Sáregres | 137 |
 
-| Söréd | 111 |
+| 82. | Sárkeresztes | 164 |
 
-| Sukoró | 164 |
+| 83. | Sárkeresztúr | 137 |
 
-| Szabadbattyán | 164 |
+| 84. | Sárkeszi | 164 |
 
-| Szabadegyháza | 137 |
+| 85. | Sárosd | 137 |
 
-| Szabadhidvég | 067 |
+| 86. | Sárszentágota | 137 |
 
-| Szár | 196 |
+| 87. | Sárszentmihály | 164 |
 
-| Székesfehérvár | 164 |
+| 88. | Seregélyes | 164 |
 
-| Tabajd | 196 |
+| 89. | Soponya | 164 |
 
-| Tác | 164 |
+| 90. | Söréd | 111 |
 
-| Tordas | 195 |
+| 91. | Sukoró | 164 |
 
-| Újbarok | 196 |
+| 92. | Szabadbattyán | 164 |
 
-| Úrhida | 164 |
+| 93. | Szabadegyháza | 137 |
 
-| Vajta | 137 |
+| 94. | Szabadhídvég | 067 |
 
-| Vál | 196 |
+| 95. | Szár | 196 |
 
-| Velence | 164 |
+| 96. | Székesfehérvár | 164 |
 
-| Vereb | 164 |
+| 97. | Tabajd | 196 |
 
-| Vértesacsa | 196 |
+| 98. | Tác | 164 |
 
-| Vértesboglár | 111 |
+| 99. | Tordas | 195 |
 
-| Zámoly | 164 |
+| 100. | Újbarok | 196 |
 
-| Zichyújfalu | 164 |
+| 101. | Úrhida | 164 |
 
-Győr-Moson-Sopron vármegye
+| 102. | Vajta | 137 |
 
-| Település | Becslőjárás |
+| 103. | Vál | 196 |
 
-| Abda | 047 |
+| 104. | Velence | 164 |
 
-| Acsalag | 065 |
+| 105. | Vereb | 164 |
 
-| Agyagosszergény | 113 |
+| 106. | Vértesacsa | 196 |
 
-| Ágfalva | 143 |
+| 107. | Vértesboglár | 111 |
 
-| Árpás | 066 |
+| 108. | Zámoly | 164 |
 
-| Ásványráró | 047 |
+| 109. | Zichyújfalu | 164 |
 
-| Babót | 064 |
+7. Győr-Moson-Sopron vármegye
 
-| Bakonypéterd | 210 |
+|  | A | B |
 
-| Barbacs | 065 |
+| 1. | Település | Becslőjárás |
 
-| Bágyogszovát | 066 |
+| 2. | Abda | 047 |
 
-| Beled | 064 |
+| 3. | Acsalag | 065 |
 
-| Bezenye | 120 |
+| 4. | Agyagosszergény | 113 |
 
-| Bezi | 045 |
+| 5. | Ágfalva | 143 |
 
-| Bodonhely | 066 |
+| 6. | Árpás | 066 |
 
-| Bogyoszló | 065 |
+| 7. | Ásványráró | 047 |
 
-| Bőny | 048 |
+| 8. | Babót | 064 |
 
-| Börcs | 047 |
+| 9. | Bakonypéterd | 210 |
 
-| Bősárkány | 065 |
+| 10. | Barbacs | 065 |
 
-| Cakóháza | 045 |
+| 11. | Bágyogszovát | 066 |
 
-| Cirák | 064 |
+| 12. | Beled | 064 |
 
-| Csapod | 064 |
+| 13. | Bezenye | 120 |
 
-| Csáfordjánosfa | 018 |
+| 14. | Bezi | 045 |
 
-| Csér | 018 |
+| 15. | Bodonhely | 066 |
 
-| Csikvánd | 046 |
+| 16. | Bogyoszló | 065 |
 
-| Csorna | 065 |
+| 17. | Bőny | 048 |
 
-| Darnózseli | 095 |
+| 18. | Börcs | 047 |
 
-| Dénesfa | 064 |
+| 19. | Bősárkány | 065 |
 
-| Dör | 066 |
+| 20. | Cakóháza | 045 |
 
-| Dunakiliti | 120 |
+| 21. | Cirák | 064 |
 
-| Dunaremete | 095 |
+| 22. | Csapod | 064 |
 
-| Dunaszeg | 047 |
+| 23. | Csáfordjánosfa | 018 |
 
-| Dunaszentpál | 047 |
+| 24. | Csér | 018 |
 
-| Dunasziget | 120 |
+| 25. | Csikvánd | 046 |
 
-| Ebergőc | 113 |
+| 26. | Csorna | 065 |
 
-| Edve | 066 |
+| 27. | Darnózseli | 095 |
 
-| Egyed | 066 |
+| 28. | Dénesfa | 064 |
 
-| Egyházasfalu | 018 |
+| 29. | Dör | 066 |
 
-| Enese | 045 |
+| 30. | Dunakiliti | 120 |
 
-| Écs | 048 |
+| 31. | Dunaremete | 095 |
 
-| Farád | 065 |
+| 32. | Dunaszeg | 047 |
 
-| Fehértó | 045 |
+| 33. | Dunaszentpál | 047 |
 
-| Feketeerdő | 095 |
+| 34. | Dunasziget | 120 |
 
-| Felpéc | 048 |
+| 35. | Ebergőc | 113 |
 
-| Fertőboz | 112 |
+| 36. | Edve | 066 |
 
-| Fertőd | 113 |
+| 37. | Egyed | 066 |
 
-| Fertőendréd | 113 |
+| 38. | Egyházasfalu | 018 |
 
-| Fertőhomok | 113 |
+| 39. | Enese | 045 |
 
-| Fertőrákos | 143 |
+| 40. | Écs | 048 |
 
-| Fertőszentmiklós | 113 |
+| 41. | Farád | 065 |
 
-| Fertőszéplak | 113 |
+| 42. | Fehértó | 045 |
 
-| Gönyű | 048 |
+| 43. | Feketeerdő | 095 |
 
-| Gyalóka | 018 |
+| 44. | Felpéc | 048 |
 
-| Gyarmat | 048 |
+| 45. | Fertőboz | 112 |
 
-| Gyóró | 064 |
+| 46. | Fertőd | 113 |
 
-| Gyömöre | 048 |
+| 47. | Fertőendréd | 113 |
 
-| Győr | 048 |
+| 48. | Fertőhomok | 113 |
 
-| Győrasszonyfa | 048 |
+| 49. | Fertőrákos | 143 |
 
-| Győrladamér | 047 |
+| 50. | Fertőszentmiklós | 113 |
 
-| Győrság | 048 |
+| 51. | Fertőszéplak | 113 |
 
-| Győrsövényház | 045 |
+| 52. | Gönyű | 048 |
 
-| Győrszemere | 048 |
+| 53. | Gyalóka | 018 |
 
-| Győrújbarát | 048 |
+| 54. | Gyarmat | 048 |
 
-| Győrújfalu | 047 |
+| 55. | Gyóró | 064 |
 
-| Győrzámoly | 047 |
+| 56. | Gyömöre | 048 |
 
-| Halászi | 095 |
+| 57. | Győr | 048 |
 
-| Harka | 112 |
+| 58. | Győrasszonyfa | 048 |
 
-| Hegyeshalom | 120 |
+| 59. | Győrladamér | 047 |
 
-| Hegykő | 113 |
+| 60. | Győrság | 048 |
 
-| Hédervár | 047 |
+| 61. | Győrsövényház | 045 |
 
-| Hidegség | 112 |
+| 62. | Győrszemere | 048 |
 
-| Himód | 064 |
+| 63. | Győrújbarát | 048 |
 
-| Hövej | 064 |
+| 64. | Győrújfalu | 047 |
 
-| Ikrény | 045 |
+| 65. | Győrzámoly | 047 |
 
-| Iván | 018 |
+| 66. | Halászi | 095 |
 
-| Jánossomorja | 095 |
+| 67. | Harka | 112 |
 
-| Jobaháza | 045 |
+| 68. | Hegyeshalom | 120 |
 
-| Kajárpéc | 048 |
+| 69. | Hegykő | 113 |
 
-| Kapuvár | 064 |
+| 70. | Hédervár | 047 |
 
-| Kimle | 095 |
+| 71. | Hidegség | 112 |
 
-| Kisbabot | 046 |
+| 72. | Himod | 064 |
 
-| Kisbajcs | 047 |
+| 73. | Hövej | 064 |
 
-| Kisbodak | 095 |
+| 74. | Ikrény | 045 |
 
-| Kisfalud | 065 |
+| 75. | Iván | 018 |
 
-| Kóny | 045 |
+| 76. | Jánossomorja | 095 |
 
-| Kópháza | 112 |
+| 77. | Jobaháza | 065 |
 
-| Koroncó | 046 |
+| 78. | Kajárpéc | 048 |
 
-| Kunsziget | 047 |
+| 79. | Kapuvár | 064 |
 
-| Lázi | 210 |
+| 80. | Károlyháza | 095 |
 
-| Levél | 120 |
+| 81. | Kimle | 095 |
 
-| Lébény | 095 |
+| 82. | Kisbabot | 046 |
 
-| Lipót | 095 |
+| 83. | Kisbajcs | 047 |
 
-| Lövő | 112 |
+| 84. | Kisbodak | 095 |
 
-| Maglóca | 065 |
+| 85. | Kisfalud | 065 |
 
-| Magyarkeresztúr | 065 |
+| 86. | Kóny | 045 |
 
-| Markotabödöge | 045 |
+| 87. | Kópháza | 112 |
 
-| Máriakálnok | 095 |
+| 88. | Koroncó | 046 |
 
-| Mecsér | 095 |
+| 89. | Kunsziget | 047 |
 
-| Mezőörs | 048 |
+| 90. | Lázi | 210 |
 
-| Mérges | 046 |
+| 91. | Levél | 120 |
 
-| Mihályi | 065 |
+| 92. | Lébény | 095 |
 
-| Mórichida | 046 |
+| 93. | Lipót | 095 |
 
-| Mosonmagyaróvár | 095 |
+| 94. | Lövő | 112 |
 
-| Mosonszentmiklós | 095 |
+| 95. | Maglóca | 065 |
 
-| Mosonszolnok | 095 |
+| 96. | Magyarkeresztúr | 065 |
 
-| Nagybajcs | 047 |
+| 97. | Markotabödöge | 045 |
 
-| Nagycenk | 112 |
+| 98. | Máriakálnok | 095 |
 
-| Nagylózs | 113 |
+| 99. | Mecsér | 095 |
 
-| Nagyszentjános | 048 |
+| 100. | Mezőörs | 048 |
 
-| Nemeskér | 112 |
+| 101. | Mérges | 046 |
 
-| Nyalka | 048 |
+| 102. | Mihályi | 065 |
 
-| Nyúl | 048 |
+| 103. | Mórichida | 046 |
 
-| Osli | 064 |
+| 104. | Mosonmagyaróvár | 095 |
 
-| Öttevény | 047 |
+| 105. | Mosonszentmiklós | 095 |
 
-| Pannonhalma | 048 |
+| 106. | Mosonszolnok | 095 |
 
-| Páli | 066 |
+| 107. | Mosonudvar | 095 |
 
-| Pásztori | 066 |
+| 108. | Nagybajcs | 047 |
 
-| Pázmándfalu | 048 |
+| 109. | Nagycenk | 112 |
 
-| Pereszteg | 113 |
+| 110. | Nagylózs | 113 |
 
-| Petőháza | 113 |
+| 111. | Nagyszentjános | 048 |
 
-| Pér | 048 |
+| 112. | Nemeskér | 112 |
 
-| Pinnye | 113 |
+| 113. | Nyalka | 048 |
 
-| Potyond | 065 |
+| 114. | Nyúl | 048 |
 
-| Pusztacsalád | 064 |
+| 115. | Osli | 064 |
 
-| Püski | 095 |
+| 116. | Öttevény | 047 |
 
-| Rajka | 120 |
+| 117. | Pannonhalma | 048 |
 
-| Ravazd | 048 |
+| 118. | Páli | 066 |
 
-| Rábacsanak | 066 |
+| 119. | Pásztori | 066 |
 
-| Rábacsécsény | 045 |
+| 120. | Pázmándfalu | 048 |
 
-| Rábakecöl | 066 |
+| 121. | Pereszteg | 113 |
 
-| Rábapatona | 045 |
+| 122. | Petőháza | 113 |
 
-| Rábapordány | 066 |
+| 123. | Pér | 048 |
 
-| Rábasebes | 066 |
+| 124. | Pinnye | 113 |
 
-| Rábaszentandrás | 066 |
+| 125. | Potyond | 065 |
 
-| Rábaszentmihály | 046 |
+| 126. | Pusztacsalád | 064 |
 
-| Rábaszentmiklós | 046 |
+| 127. | Püski | 095 |
 
-| Rábatamási | 065 |
+| 128. | Rajka | 120 |
 
-| Rábcakapi | 045 |
+| 129. | Ravazd | 048 |
 
-| Répceszemere | 018 |
+| 130. | Rábacsanak | 066 |
 
-| Répcevis | 018 |
+| 131. | Rábacsécsény | 045 |
 
-| Rétalap | 048 |
+| 132. | Rábakecöl | 066 |
 
-| Röjtökmuzsaj | 113 |
+| 133. | Rábapatona | 045 |
 
-| Sarród | 113 |
+| 134. | Rábapordány | 066 |
 
-| Sobor | 066 |
+| 135. | Rábasebes | 066 |
 
-| Sokorópátka | 048 |
+| 136. | Rábaszentandrás | 066 |
 
-| Sopron | 143 |
+| 137. | Rábaszentmihály | 046 |
 
-| Sopronhorpács | 018 |
+| 138. | Rábaszentmiklós | 046 |
 
-| Sopronkövesd | 112 |
+| 139. | Rábatamási | 065 |
 
-| Sopronnémeti | 065 |
+| 140. | Rábcakapi | 045 |
 
-| Szakony | 018 |
+| 141. | Répceszemere | 018 |
 
-| Szany | 066 |
+| 142. | Répcevis | 018 |
 
-| Szárföld | 064 |
+| 143. | Rétalap | 048 |
 
-| Szerecseny | 048 |
+| 144. | Röjtökmuzsaj | 113 |
 
-| Szil | 066 |
+| 145. | Sarród | 113 |
 
-| Szilsárkány | 065 |
+| 146. | Sobor | 066 |
 
-| Tarjánpuszta | 048 |
+| 147. | Sokorópátka | 048 |
 
-| Táp | 048 |
+| 148. | Sopron | 143 |
 
-| Tápszentmiklós | 048 |
+| 149. | Sopronhorpács | 018 |
 
-| Tárnokréti | 045 |
+| 150. | Sopronkövesd | 112 |
 
-| Tényő | 048 |
+| 151. | Sopronnémeti | 065 |
 
-| Tét | 046 |
+| 152. | Szakony | 018 |
 
-| Töltéstava | 048 |
+| 153. | Szany | 066 |
 
-| Újkér | 018 |
+| 154. | Szárföld | 064 |
 
-| Újrónafő | 095 |
+| 155. | Szerecseny | 048 |
 
-| Und | 018 |
+| 156. | Szil | 066 |
 
-| Vadosfa | 065 |
+| 157. | Szilsárkány | 065 |
 
-| Vág | 066 |
+| 158. | Tarjánpuszta | 048 |
 
-| Vámosszabadi | 047 |
+| 159. | Táp | 048 |
 
-| Várbalog | 095 |
+| 160. | Tápszentmiklós | 048 |
 
-| Vásárosfalu | 066 |
+| 161. | Tárnokréti | 045 |
 
-| Veszkény | 064 |
+| 162. | Tényő | 048 |
 
-| Vének | 047 |
+| 163. | Tét | 046 |
 
-| Vitnyéd | 064 |
+| 164. | Töltéstava | 048 |
 
-| Völcsej | 112 |
+| 165. | Újkér | 018 |
 
-| Zsebeháza | 066 |
+| 166. | Újrónafő | 095 |
 
-| Zsira | 018 |
+| 167. | Und | 018 |
 
-Hajdú-Bihar vármegye
+| 168. | Vadosfa | 065 |
 
-| Település | Becslőjárás |
+| 169. | Vág | 066 |
 
-| Álmosd | 163 |
+| 170. | Vámosszabadi | 047 |
 
-| Ártánd | 119 |
+| 171. | Várbalog | 095 |
 
-| Bagamér | 163 |
+| 172. | Vásárosfalu | 066 |
 
-| Bakonszeg | 014 |
+| 173. | Veszkény | 064 |
 
-| Balmazújváros | 049 |
+| 174. | Vének | 047 |
 
-| Báránd | 014 |
+| 175. | Vitnyéd | 064 |
 
-| Bedő | 119 |
+| 176. | Völcsej | 112 |
 
-| Berekböszörmény | 119 |
+| 177. | Zsebeháza | 066 |
 
-| Berettyóújfalu | 013 |
+| 178. | Zsira | 018 |
 
-| Bihardancsháza | 014 |
+8. Hajdú-Bihar vármegye
 
-| Biharkeresztes | 014 |
+|  | A | B |
 
-| Biharnagybajom | 014 |
+| 1. | Település | Becslőjárás |
 
-| Bihartorda | 014 |
+| 2. | Álmosd | 163 |
 
-| Bocskaikert | 050 |
+| 3. | Ártánd | 119 |
 
-| Bojt | 119 |
+| 4. | Bagamér | 163 |
 
-| Csökmő | 014 |
+| 5. | Bakonszeg | 014 |
 
-| Darvas | 014 |
+| 6. | Balmazújváros | 049 |
 
-| Debrecen I. kerület | 023 |
+| 7. | Báránd | 014 |
 
-| II. kerület | 023 |
+| 8. | Bedő | 119 |
 
-| III. kerület | 023 |
+| 9. | Berekböszörmény | 119 |
 
-| IV. kerület | 024 |
+| 10. | Berettyóújfalu | 013 |
 
-| Derecske | 013 |
+| 11. | Bihardancsháza | 014 |
 
-| Ebes | 023 |
+| 12. | Biharkeresztes | 014 |
 
-| Egyek | 024 |
+| 13. | Biharnagybajom | 014 |
 
-| Esztár | 013 |
+| 14. | Bihartorda | 014 |
 
-| Folyás | 049 |
+| 15. | Bocskaikert | 050 |
 
-| Földes | 024 |
+| 16. | Bojt | 119 |
 
-| Furta | 014 |
+| 17. | Csökmő | 014 |
 
-| Fülöp | 115 |
+| 18. | Darvas | 014 |
 
-| Gáborján | 013 |
+| 19. | Debrecen I. kerület | 023 |
 
-| Görbeháza | 049 |
+| 20. | II. kerület | 023 |
 
-| Hajdúbagos | 013 |
+| 21. | III. kerület | 023 |
 
-| Hajdúböszörmény | 049 |
+| 22. | IV. kerület | 024 |
 
-| Hajdúdorog | 050 |
+| 23. | Derecske | 013 |
 
-| Hajdúhadház | 050 |
+| 24. | Ebes | 023 |
 
-| Hajdúnánás | 049 |
+| 25. | Egyek | 024 |
 
-| Hajdúsámson | 050 |
+| 26. | Esztár | 013 |
 
-| Hajdúszoboszló | 024 |
+| 27. | Folyás | 049 |
 
-| Hajdúszovát | 024 |
+| 28. | Földes | 024 |
 
-| Hencida | 013 |
+| 29. | Furta | 014 |
 
-| Hortobágy | 049 |
+| 30. | Fülöp | 115 |
 
-| Hosszúpályi | 163 |
+| 31. | Gáborján | 013 |
 
-| Kaba | 024 |
+| 32. | Görbeháza | 049 |
 
-| Kismarja | 119 |
+| 33. | Hajdúbagos | 013 |
 
-| Kokad | 163 |
+| 34. | Hajdúböszörmény | 049 |
 
-| Komádi | 014 |
+| 35. | Hajdúdorog | 050 |
 
-| Konyár | 013 |
+| 36. | Hajdúhadház | 050 |
 
-| Körösszakál | 014 |
+| 37. | Hajdúnánás | 049 |
 
-| Körösszegapáti | 014 |
+| 38. | Hajdúsámson | 050 |
 
-| Létavértes | 163 |
+| 39. | Hajdúszoboszló | 024 |
 
-| Magyarhomorog | 014 |
+| 40. | Hajdúszovát | 024 |
 
-| Mezőpeterd | 014 |
+| 41. | Hencida | 013 |
 
-| Mezősas | 014 |
+| 42. | Hortobágy | 049 |
 
-| Mikepércs | 024 |
+| 43. | Hosszúpályi | 163 |
 
-| Monostorpályi | 163 |
+| 44. | Kaba | 024 |
 
-| Nagyhegyes | 023 |
+| 45. | Kismarja | 119 |
 
-| Nagykereki | 119 |
+| 46. | Kokad | 163 |
 
-| Nagyrábé | 014 |
+| 47. | Komádi | 014 |
 
-| Nádudvar | 024 |
+| 48. | Konyár | 013 |
 
-| Nyíracsád | 115 |
+| 49. | Körösszakál | 014 |
 
-| Nyíradony | 115 |
+| 50. | Körösszegapáti | 014 |
 
-| Nyírábrány | 115 |
+| 51. | Létavértes | 163 |
 
-| Nyírmártonfalva | 115 |
+| 52. | Magyarhomorog | 014 |
 
-| Pocsaj | 163 |
+| 53. | Mezőpeterd | 014 |
 
-| Polgár | 049 |
+| 54. | Mezősas | 014 |
 
-| Püspökladány | 024 |
+| 55. | Mikepércs | 024 |
 
-| Sáp | 014 |
+| 56. | Monostorpályi | 163 |
 
-| Sáránd | 013 |
+| 57. | Nagyhegyes | 023 |
 
-| Sárrétudvari | 014 |
+| 58. | Nagykereki | 119 |
 
-| Szentpéterszeg | 013 |
+| 59. | Nagyrábé | 014 |
 
-| Szerep | 014 |
+| 60. | Nádudvar | 024 |
 
-| Tetétlen | 024 |
+| 61. | Nyíracsád | 115 |
 
-| Téglás | 050 |
+| 62. | Nyíradony | 115 |
 
-| Tépe | 013 |
+| 63. | Nyírábrány | 115 |
 
-| Tiszacsege | 049 |
+| 64. | Nyírmártonfalva | 115 |
 
-| Tiszagyulaháza | 106 |
+| 65. | Pocsaj | 163 |
 
-| Told | 014 |
+| 66. | Polgár | 049 |
 
-| Újiráz | 014 |
+| 67. | Püspökladány | 024 |
 
-| Újléta | 163 |
+| 68. | Sáp | 014 |
 
-| Újszentmargita | 049 |
+| 69. | Sáránd | 013 |
 
-| Újtikos | 049 |
+| 70. | Sárrétudvari | 014 |
 
-| Vámospércs | 024 |
+| 71. | Szentpéterszeg | 013 |
 
-| Váncsod | 013 |
+| 72. | Szerep | 014 |
 
-| Vekerd | 014 |
+| 73. | Tetétlen | 024 |
 
-| Zsáka | 014 |
+| 74. | Téglás | 050 |
 
-Heves vármegye
+| 75. | Tépe | 013 |
 
-| Település | Becslőjárás |
+| 76. | Tiszacsege | 049 |
 
-| Abasár | 044 |
+| 77. | Tiszagyulaháza | 106 |
 
-| Adács | 043 |
+| 78. | Told | 014 |
 
-| Aldebrő | 030 |
+| 79. | Újiráz | 014 |
 
-| Andornaktálya | 102 |
+| 80. | Újléta | 163 |
 
-| Apc | 044 |
+| 81. | Újszentmargita | 049 |
 
-| Atkár | 043 |
+| 82. | Újtikos | 049 |
 
-| Átány | 051 |
+| 83. | Vámospércs | 024 |
 
-| Balaton | 134 |
+| 84. | Váncsod | 013 |
 
-| Bátor | 128 |
+| 85. | Vekerd | 014 |
 
-| Bekölce | 128 |
+| 86. | Zsáka | 014 |
 
-| Besenyőtelek | 051 |
+9. Heves vármegye
 
-| Bélapátfalva | 134 |
+|  | A | B |
 
-| Boconád | 051 |
+| 1. | Település | Becslőjárás |
 
-| Bodony | 128 |
+| 2. | Abasár | 044 |
 
-| Boldog | 041 |
+| 3. | Adács | 043 |
 
-| Bükkszenterzsébet | 128 |
+| 4. | Aldebrő | 030 |
 
-| Bükkszentmárton | 134 |
+| 5. | Andornaktálya | 102 |
 
-| Bükkszék | 128 |
+| 6. | Apc | 044 |
 
-| Csány | 043 |
+| 7. | Atkár | 043 |
 
-| Demjén | 032 |
+| 8. | Átány | 051 |
 
-| Detk | 043 |
+| 9. | Balaton | 134 |
 
-| Domoszló | 044 |
+| 10. | Bátor | 128 |
 
-| Dormánd | 030 |
+| 11. | Bekölce | 128 |
 
-| Ecséd | 044 |
+| 12. | Besenyőtelek | 051 |
 
-| Eger | 031 |
+| 13. | Bélapátfalva | 134 |
 
-| Egerbakta | 032 |
+| 14. | Boconád | 051 |
 
-| Egerbocs | 128 |
+| 15. | Bodony | 128 |
 
-| Egercsehi | 128 |
+| 16. | Boldog | 041 |
 
-| Egerfarmos | 101 |
+| 17. | Bükkszenterzsébet | 128 |
 
-| Egerszalók | 032 |
+| 18. | Bükkszentmárton | 134 |
 
-| Egerszólát | 032 |
+| 19. | Bükkszék | 128 |
 
-| Erdőkövesd | 128 |
+| 20. | Csány | 043 |
 
-| Erdőtelek | 051 |
+| 21. | Demjén | 032 |
 
-| Erk | 051 |
+| 22. | Detk | 043 |
 
-| Fedémes | 128 |
+| 23. | Domoszló | 044 |
 
-| Feldebrő | 031 |
+| 24. | Dormánd | 030 |
 
-| Felsőtárkány | 102 |
+| 25. | Ecséd | 044 |
 
-| Füzesabony | 030 |
+| 26. | Eger | 031 |
 
-| Gyöngyös | 044 |
+| 27. | Egerbakta | 032 |
 
-| Gyöngyöshalász | 043 |
+| 28. | Egerbocs | 128 |
 
-| Gyöngyösoroszi | 044 |
+| 29. | Egercsehi | 128 |
 
-| Gyöngyöspata | 044 |
+| 30. | Egerfarmos | 101 |
 
-| Gyöngyössolymos | 044 |
+| 31. | Egerszalók | 032 |
 
-| Gyöngyöstarján | 044 |
+| 32. | Egerszólát | 032 |
 
-| Halmajugra | 044 |
+| 33. | Erdőkövesd | 128 |
 
-| Hatvan | 043 |
+| 34. | Erdőtelek | 051 |
 
-| Heréd | 169 |
+| 35. | Erk | 051 |
 
-| Heves | 051 |
+| 36. | Fedémes | 128 |
 
-| Hevesaranyos | 128 |
+| 37. | Feldebrő | 031 |
 
-| Hevesvezekény | 052 |
+| 38. | Felsőtárkány | 102 |
 
-| Hort | 043 |
+| 39. | Füzesabony | 030 |
 
-| Istenmezeje | 128 |
+| 40. | Gyöngyös | 044 |
 
-| Ivád | 128 |
+| 41. | Gyöngyöshalász | 043 |
 
-| Karácsond | 043 |
+| 42. | Gyöngyösoroszi | 044 |
 
-| Kál | 030 |
+| 43. | Gyöngyöspata | 044 |
 
-| Kápolna | 030 |
+| 44. | Gyöngyössolymos | 044 |
 
-| Kerecsend | 031 |
+| 45. | Gyöngyöstarján | 044 |
 
-| Kisfüzes | 128 |
+| 46. | Halmajugra | 044 |
 
-| Kisköre | 052 |
+| 47. | Hatvan | 043 |
 
-| Kisnána | 044 |
+| 48. | Heréd | 169 |
 
-| Kompolt | 030 |
+| 49. | Heves | 051 |
 
-| Kömlő | 051 |
+| 50. | Hevesaranyos | 128 |
 
-| Lőrinci | 169 |
+| 51. | Hevesvezekény | 052 |
 
-| Ludas | 043 |
+| 52. | Hort | 043 |
 
-| Maklár | 031 |
+| 53. | Istenmezeje | 128 |
 
-| Markaz | 044 |
+| 54. | Ivád | 128 |
 
-| Mátraballa | 128 |
+| 55. | Karácsond | 043 |
 
-| Mátraderecske | 128 |
+| 56. | Kál | 030 |
 
-| Mátraszentimre | 044 |
+| 57. | Kápolna | 030 |
 
-| Mezőszemere | 100 |
+| 58. | Kerecsend | 031 |
 
-| Mezőtárkány | 030 |
+| 59. | Kerekharaszt | 043 |
 
-| Mikófalva | 128 |
+| 60. | Kisfüzes | 128 |
 
-| Mónosbél | 134 |
+| 61. | Kisköre | 052 |
 
-| Nagyfüged | 043 |
+| 62. | Kisnána | 044 |
 
-| Nagykökényes | 169 |
+| 63. | Kompolt | 030 |
 
-| Nagyréde | 044 |
+| 64. | Kömlő | 051 |
 
-| Nagytálya | 031 |
+| 65. | Lőrinci | 169 |
 
-| Nagyút | 030 |
+| 66. | Ludas | 043 |
 
-| Nagyvisnyó | 134 |
+| 67. | Maklár | 031 |
 
-| Noszvaj | 102 |
+| 68. | Markaz | 044 |
 
-| Novaj | 102 |
+| 69. | Mátraballa | 128 |
 
-| Ostoros | 102 |
+| 70. | Mátraderecske | 128 |
 
-| Parád | 128 |
+| 71. | Mátraszentimre | 044 |
 
-| Parádsasvár | 128 |
+| 72. | Mezőszemere | 100 |
 
-| Petőfibánya | 169 |
+| 73. | Mezőtárkány | 030 |
 
-| Pély | 052 |
+| 74. | Mikófalva | 128 |
 
-| Pétervására | 128 |
+| 75. | Mónosbél | 134 |
 
-| Poroszló | 052 |
+| 76. | Nagyfüged | 043 |
 
-| Recsk | 128 |
+| 77. | Nagykökényes | 169 |
 
-| Rózsaszentmárton | 044 |
+| 78. | Nagyréde | 044 |
 
-| Sarud | 052 |
+| 79. | Nagytálya | 031 |
 
-| Sirok | 128 |
+| 80. | Nagyút | 030 |
 
-| Szajla | 128 |
+| 81. | Nagyvisnyó | 134 |
 
-| Szentdomonkos | 128 |
+| 82. | Noszvaj | 102 |
 
-| Szihalom | 100 |
+| 83. | Novaj | 102 |
 
-| Szilvásvárad | 134 |
+| 84. | Ostoros | 102 |
 
-| Szúcs | 128 |
+| 85. | Parád | 128 |
 
-| Szücsi | 044 |
+| 86. | Parádsasvár | 128 |
 
-| Tarnabod | 030 |
+| 87. | Pálosvörösmart | 044 |
 
-| Tarnalelesz | 128 |
+| 88. | Petőfibánya | 169 |
 
-| Tarnaméra | 051 |
+| 89. | Pély | 052 |
 
-| Tarnaörs | 051 |
+| 90. | Pétervására | 128 |
 
-| Tarnaszentmária | 032 |
+| 91. | Poroszló | 052 |
 
-| Tarnaszentmiklós | 052 |
+| 92. | Recsk | 128 |
 
-| Tarnazsadány | 043 |
+| 93. | Rózsaszentmárton | 044 |
 
-| Tenk | 051 |
+| 94. | Sarud | 052 |
 
-| Terpes | 128 |
+| 95. | Sirok | 128 |
 
-| Tiszanána | 052 |
+| 96. | Szajla | 128 |
 
-| Tófalu | 030 |
+| 97. | Szarvaskő | 032 |
 
-| Újlőrincfalva | 052 |
+| 98. | Szentdomonkos | 128 |
 
-| Vámosgyörk | 043 |
+| 99. | Szihalom | 100 |
 
-| Váraszó | 128 |
+| 100. | Szilvásvárad | 134 |
 
-| Verpelét | 031 |
+| 101. | Szúcs | 128 |
 
-| Vécs | 031 |
+| 102. | Szűcsi | 044 |
 
-| Visonta | 044 |
+| 103. | Tarnabod | 030 |
 
-| Visznek | 043 |
+| 104. | Tarnalelesz | 128 |
 
-| Zagyvaszántó | 169 |
+| 105. | Tarnaméra | 051 |
 
-| Zaránk | 051 |
+| 106. | Tarnaörs | 051 |
 
-Jász-Nagykun-Szolnok vármegye
+| 107. | Tarnaszentmária | 032 |
 
-| Település | Becslőjárás |
+| 108. | Tarnaszentmiklós | 052 |
 
-| Abádszalók | 183 |
+| 109. | Tarnazsadány | 043 |
 
-| Alattyán | 059 |
+| 110. | Tenk | 051 |
 
-| Berekfürdő | 070 |
+| 111. | Terpes | 128 |
 
-| Besenyszög | 172 |
+| 112. | Tiszanána | 052 |
 
-| Cibakháza | 104 |
+| 113. | Tófalu | 030 |
 
-| Csataszög | 172 |
+| 114. | Újlőrincfalva | 052 |
 
-| Cserkeszőlő | 104 |
+| 115. | Vámosgyörk | 043 |
 
-| Csépa | 104 |
+| 116. | Váraszó | 128 |
 
-| Fegyvernek | 172 |
+| 117. | Verpelét | 031 |
 
-| Hunyadfalva | 172 |
+| 118. | Vécs | 031 |
 
-| Jánoshida | 059 |
+| 119. | Visonta | 044 |
 
-| Jászalsószentgyörgy | 059 |
+| 120. | Visznek | 043 |
 
-| Jászapáti | 059 |
+| 121. | Zagyvaszántó | 169 |
 
-| Jászágó | 059 |
+| 122. | Zaránk | 051 |
 
-| Jászárokszállás | 059 |
+10. Jász-Nagykun-Szolnok vármegye
 
-| Jászberény | 059 |
+|  | A | B |
 
-| Jászboldogháza | 059 |
+| 1. | Település | Becslőjárás |
 
-| Jászdózsa | 059 |
+| 2. | Abádszalók | 183 |
 
-| Jászfelsőszentgyörgy | 060 |
+| 3. | Alattyán | 059 |
 
-| Jászfényszaru | 060 |
+| 4. | Berekfürdő | 070 |
 
-| Jászivány | 059 |
+| 5. | Besenyszög | 172 |
 
-| Jászjákóhalma | 059 |
+| 6. | Cibakháza | 104 |
 
-| Jászkisér | 059 |
+| 7. | Csataszög | 172 |
 
-| Jászladány | 059 |
+| 8. | Cserkeszőlő | 104 |
 
-| Jászszentandrás | 060 |
+| 9. | Csépa | 104 |
 
-| Jásztelek | 059 |
+| 10. | Fegyvernek | 172 |
 
-| Karcag | 070 |
+| 11. | Hunyadfalva | 172 |
 
-| Kenderes | 069 |
+| 12. | Jánoshida | 059 |
 
-| Kengyel | 172 |
+| 13. | Jászalsószentgyörgy | 059 |
 
-| Kétpó | 105 |
+| 14. | Jászapáti | 059 |
 
-| Kisújszállás | 069 |
+| 15. | Jászágó | 059 |
 
-| Kőtelek | 172 |
+| 16. | Jászárokszállás | 059 |
 
-| Kuncsorba | 069 |
+| 17. | Jászberény | 059 |
 
-| Kunhegyes | 070 |
+| 18. | Jászboldogháza | 059 |
 
-| Kunmadaras | 070 |
+| 19. | Jászdózsa | 059 |
 
-| Kunszentmárton | 105 |
+| 20. | Jászfelsőszentgyörgy | 060 |
 
-| Martfű | 105 |
+| 21. | Jászfényszaru | 060 |
 
-| Mesterszállás | 105 |
+| 22. | Jászivány | 059 |
 
-| Mezőhék | 105 |
+| 23. | Jászjákóhalma | 059 |
 
-| Mezőtúr | 105 |
+| 24. | Jászkisér | 059 |
 
-| Nagyiván | 183 |
+| 25. | Jászladány | 059 |
 
-| Nagykörű | 172 |
+| 26. | Jászszentandrás | 060 |
 
-| Nagyrév | 104 |
+| 27. | Jásztelek | 059 |
 
-| Öcsöd | 105 |
+| 28. | Karcag | 070 |
 
-| Örményes | 172 |
+| 29. | Kenderes | 069 |
 
-| Pusztamonostor | 060 |
+| 30. | Kengyel | 172 |
 
-| Rákóczifalva | 172 |
+| 31. | Kétpó | 105 |
 
-| Rákócziújfalu | 172 |
+| 32. | Kisújszállás | 069 |
 
-| Szajol | 172 |
+| 33. | Kőtelek | 172 |
 
-| Szászberek | 172 |
+| 34. | Kuncsorba | 069 |
 
-| Szelevény | 105 |
+| 35. | Kunhegyes | 070 |
 
-| Szolnok | 172 |
+| 36. | Kunmadaras | 070 |
 
-| Tiszabő | 183 |
+| 37. | Kunszentmárton | 105 |
 
-| Tiszabura | 183 |
+| 38. | Martfű | 105 |
 
-| Tiszaderzs | 183 |
+| 39. | Mesterszállás | 105 |
 
-| Tiszaföldvár | 105 |
+| 40. | Mezőhék | 105 |
 
-| Tiszafüred | 183 |
+| 41. | Mezőtúr | 105 |
 
-| Tiszagyenda | 183 |
+| 42. | Nagyiván | 183 |
 
-| Tiszaigar | 183 |
+| 43. | Nagykörű | 172 |
 
-| Tiszainoka | 104 |
+| 44. | Nagyrév | 104 |
 
-| Tiszajenő | 172 |
+| 45. | Öcsöd | 105 |
 
-| Tiszakürt | 104 |
+| 46. | Örményes | 172 |
 
-| Tiszaörs | 183 |
+| 47. | Pusztamonostor | 060 |
 
-| Tiszapüspöki | 172 |
+| 48. | Rákóczifalva | 172 |
 
-| Tiszaroff | 183 |
+| 49. | Rákócziújfalu | 172 |
 
-| Tiszasas | 104 |
+| 50. | Szajol | 172 |
 
-| Tiszasüly | 172 |
+| 51. | Szászberek | 172 |
 
-| Tiszaszentimre | 183 |
+| 52. | Szelevény | 105 |
 
-| Tiszatenyő | 172 |
+| 53. | Szolnok | 172 |
 
-| Tiszavárkony | 172 |
+| 54. | Tiszabő | 183 |
 
-| Tomajmonostora | 183 |
+| 55. | Tiszabura | 183 |
 
-| Tószeg | 172 |
+| 56. | Tiszaderzs | 183 |
 
-| Törökszentmiklós | 172 |
+| 57. | Tiszaföldvár | 105 |
 
-| Túrkeve | 069 |
+| 58. | Tiszafüred | 183 |
 
-| Újszász | 016 |
+| 59. | Tiszagyenda | 183 |
 
-| Vezseny | 172 |
+| 60. | Tiszaigar | 183 |
 
-| Zagyvarékas | 016 |
+| 61. | Tiszainoka | 104 |
 
-Komárom-Esztergom vármegye
+| 62. | Tiszajenő | 172 |
 
-| Település | Becslőjárás |
+| 63. | Tiszakürt | 104 |
 
-| Aka | 210 |
+| 64. | Tiszaörs | 183 |
 
-| Almásfüzitő | 080 |
+| 65. | Tiszapüspöki | 172 |
 
-| Annavölgy | 033 |
+| 66. | Tiszaroff | 183 |
 
-| Ács | 080 |
+| 67. | Tiszasas | 104 |
 
-| Ácsteszér | 210 |
+| 68. | Tiszasüly | 172 |
 
-| Baj | 182 |
+| 69. | Tiszaszentimre | 183 |
 
-| Bajna | 033 |
+| 70. | Tiszaszőlős | 183 |
 
-| Bajót | 033 |
+| 71. | Tiszatenyő | 172 |
 
-| Bakonybánk | 210 |
+| 72. | Tiszavárkony | 172 |
 
-| Bakonysárkány | 111 |
+| 73. | Tomajmonostora | 183 |
 
-| Bakonyszombathely | 210 |
+| 74. | Tószeg | 172 |
 
-| Bana | 080 |
+| 75. | Törökszentmiklós | 172 |
 
-| Bábolna | 080 |
+| 76. | Túrkeve | 069 |
 
-| Bársonyos | 210 |
+| 77. | Újszász | 016 |
 
-| Bokod | 080 |
+| 78. | Vezseny | 172 |
 
-| Csatka | 210 |
+| 79. | Zagyvarékas | 016 |
 
-| Császár | 080 |
+11. Komárom-Esztergom vármegye
 
-| Csém | 080 |
+|  | A | B |
 
-| Csép | 080 |
+| 1. | Település | Becslőjárás |
 
-| Csolnok | 033 |
+| 2. | Aka | 210 |
 
-| Dad | 080 |
+| 3. | Almásfüzitő | 080 |
 
-| Dág | 033 |
+| 4. | Annavölgy | 033 |
 
-| Dorog | 033 |
+| 5. | Ács | 080 |
 
-| Dömös | 033 |
+| 6. | Ácsteszér | 210 |
 
-| Dunaalmás | 182 |
+| 7. | Ászár | 080 |
 
-| Dunaszentmiklós | 182 |
+| 8. | Baj | 182 |
 
-| Epöl | 033 |
+| 9. | Bajna | 033 |
 
-| Esztergom | 033 |
+| 10. | Bajót | 033 |
 
-| Ete | 080 |
+| 11. | Bakonybánk | 210 |
 
-| Gyermely | 182 |
+| 12. | Bakonysárkány | 111 |
 
-| Héreg | 182 |
+| 13. | Bakonyszombathely | 210 |
 
-| Kecskéd | 182 |
+| 14. | Bana | 080 |
 
-| Kerékteleki | 210 |
+| 15. | Bábolna | 080 |
 
-| Kesztölc | 033 |
+| 16. | Bársonyos | 210 |
 
-| Kisbér | 080 |
+| 17. | Bokod | 080 |
 
-| Kisigmánd | 080 |
+| 18. | Csatka | 210 |
 
-| Kocs | 080 |
+| 19. | Császár | 080 |
 
-| Komárom | 080 |
+| 20. | Csém | 080 |
 
-| Kömlőd | 080 |
+| 21. | Csép | 080 |
 
-| Környe | 182 |
+| 22. | Csolnok | 033 |
 
-| Lábatlan | 033 |
+| 23. | Dad | 080 |
 
-| Leányvár | 033 |
+| 24. | Dág | 033 |
 
-| Máriahalom | 033 |
+| 25. | Dorog | 033 |
 
-| Mocsa | 080 |
+| 26. | Dömös | 033 |
 
-| Mogyorósbánya | 033 |
+| 27. | Dunaalmás | 182 |
 
-| Nagyigmánd | 080 |
+| 28. | Dunaszentmiklós | 182 |
 
-| Nagysáp | 033 |
+| 29. | Epöl | 033 |
 
-| Naszály | 182 |
+| 30. | Esztergom | 033 |
 
-| Neszmély | 182 |
+| 31. | Ete | 080 |
 
-| Nyergesújfalu | 033 |
+| 32. | Gyermely | 182 |
 
-| Oroszlány | 182 |
+| 33. | Héreg | 182 |
 
-| Piliscsév | 033 |
+| 34. | Kecskéd | 182 |
 
-| Pilismarót | 033 |
+| 35. | Kerékteleki | 210 |
 
-| Réde | 210 |
+| 36. | Kesztölc | 033 |
 
-| Sárisáp | 033 |
+| 37. | Kisbér | 080 |
 
-| Súr | 210 |
+| 38. | Kisigmánd | 080 |
 
-| Süttő | 033 |
+| 39. | Kocs | 080 |
 
-| Szákszend | 080 |
+| 40. | Komárom | 080 |
 
-| Szárliget | 196 |
+| 41. | Kömlőd | 080 |
 
-| Szomód | 182 |
+| 42. | Környe | 182 |
 
-| Szomor | 182 |
+| 43. | Lábatlan | 033 |
 
-| Tardos | 182 |
+| 44. | Leányvár | 033 |
 
-| Tarján | 182 |
+| 45. | Máriahalom | 033 |
 
-| Tata | 182 |
+| 46. | Mocsa | 080 |
 
-| Tatabánya | 182 |
+| 47. | Mogyorósbánya | 033 |
 
-| Tárkány | 080 |
+| 48. | Nagyigmánd | 080 |
 
-| Tát | 033 |
+| 49. | Nagysáp | 033 |
 
-| Tokod | 033 |
+| 50. | Naszály | 182 |
 
-| Tokodaltáró | 033 |
+| 51. | Neszmély | 182 |
 
-| Úny | 033 |
+| 52. | Nyergesújfalu | 033 |
 
-| Várgesztes | 182 |
+| 53. | Oroszlány | 182 |
 
-| Vérteskethely | 080 |
+| 54. | Piliscsév | 033 |
 
-| Vértessomló | 182 |
+| 55. | Pilismarót | 033 |
 
-| Vértesszőlős | 182 |
+| 56. | Réde | 210 |
 
-| Vértestolna | 182 |
+| 57. | Sárisáp | 033 |
 
-Nógrád vármegye
+| 58. | Súr | 210 |
 
-| Település | Becslőjárás |
+| 59. | Süttő | 033 |
 
-| Alsópetény | 007 |
+| 60. | Szákszend | 080 |
 
-| Alsótold | 171 |
+| 61. | Szárliget | 196 |
 
-| Balassagyarmat | 008 |
+| 62. | Szomód | 182 |
 
-| Bánk | 006 |
+| 63. | Szomor | 182 |
 
-| Bárna | 040 |
+| 64. | Tardos | 182 |
 
-| Bátonyterenye | 129 |
+| 65. | Tarján | 182 |
 
-| Becske | 171 |
+| 66. | Tata | 182 |
 
-| Bercel | 170 |
+| 67. | Tatabánya | 182 |
 
-| Berkenye | 006 |
+| 68. | Tárkány | 080 |
 
-| Bér | 170 |
+| 69. | Tát | 033 |
 
-| Bokor | 171 |
+| 70. | Tokod | 033 |
 
-| Borsosberény | 006 |
+| 71. | Tokodaltáró | 033 |
 
-| Buják | 170 |
+| 72. | Úny | 033 |
 
-| Cered | 040 |
+| 73. | Várgesztes | 182 |
 
-| Cserháthaláp | 007 |
+| 74. | Vérteskethely | 080 |
 
-| Cserhátsurány | 007 |
+| 75. | Vértessomló | 182 |
 
-| Cserhátszentiván | 171 |
+| 76. | Vértesszőlős | 182 |
 
-| Csesztve | 008 |
+| 77. | Vértestolna | 182 |
 
-| Csécse | 170 |
-
-| Csitár | 007 |
-
-| Debercsény | 007 |
-
-| Dejtár | 006 |
-
-| Diósjenő | 006 |
-
-| Dorogháza | 129 |
-
-| Drégelypalánk | 006 |
-
-| Ecseg | 170 |
-
-| Egyházasdengeleg | 169 |
-
-| Egyházasgerge | 039 |
-
-| Endrefalva | 038 |
-
-| Erdőkürt | 170 |
-
-| Erdőtarcsa | 169 |
-
-| Etes | 039 |
-
-| Érsekvadkert | 006 |
-
-| Felsőpetény | 007 |
-
-| Felsőtold | 171 |
-
-| Galgaguta | 170 |
-
-| Garáb | 171 |
-
-| Herencsény | 007 |
-
-| Héhalom | 169 |
-
-| Hollókő | 039 |
-
-| Hont | 006 |
-
-| Horpács | 006 |
-
-| Hugyag | 007 |
-
-| Iliny | 007 |
-
-| Ipolytarnóc | 038 |
-
-| Ipolyvece | 006 |
-
-| Jobbágyi | 169 |
-
-| Karancsalja | 039 |
-
-| Karancsberény | 039 |
-
-| Karancskeszi | 039 |
-
-| Karancslapujtő | 039 |
-
-| Karancsság | 039 |
-
-| Kazár | 040 |
-
-| Kálló | 170 |
-
-| Keszeg | 007 |
-
-| Kétbodony | 007 |
-
-| Kisbágyon | 169 |
-
-| Kisbárkány | 039 |
-
-| Kisecset | 007 |
-
-| Kishartyán | 039 |
-
-| Kozárd | 171 |
-
-| Kutasó | 171 |
-
-| Legénd | 007 |
-
-| Litke | 038 |
-
-| Lucfalva | 039 |
-
-| Ludányhalászi | 038 |
-
-| Magyargéc | 039 |
-
-| Magyarnándor | 007 |
-
-| Márkháza | 039 |
-
-| Mátramindszent | 128 |
-
-| Mátranovák | 040 |
-
-| Mátraszele | 040 |
-
-| Mátraszőlős | 171 |
-
-| Mátraterenye | 128 |
-
-| Mátraverebély | 039 |
-
-| Mihálygerge | 039 |
-
-| Mohora | 007 |
-
-| Nagybárkány | 039 |
-
-| Nagylóc | 039 |
-
-| Nagyoroszi | 006 |
-
-| Nemti | 040 |
-
-| Nézsa | 006 |
-
-| Nógrád | 006 |
-
-| Nógrádkövesd | 170 |
-
-| Nógrádmarcal | 007 |
-
-| Nógrádmegyer | 039 |
-
-| Nógrádsáp | 006 |
-
-| Nógrádsipek | 039 |
-
-| Nógrádszakál | 038 |
-
-| Nőtincs | 006 |
-
-| Őrhalom | 007 |
-
-| Ősagárd | 007 |
-
-| Palotás | 169 |
-
-| Patak | 006 |
-
-| Patvarc | 008 |
-
-| Pásztó | 044 |
-
-| Piliny | 039 |
-
-| Pusztaberki | 006 |
-
-| Rétság | 006 |
-
-| Rimóc | 039 |
-
-| Romhány | 006 |
-
-| Salgótarján | 039 |
-
-| Ságújfalu | 039 |
-
-| Sámsonháza | 039 |
-
-| Sóshartyán | 039 |
-
-| Szalmatercs | 039 |
-
-| Szanda | 171 |
-
-| Szarvasgede | 169 |
-
-| Szátok | 006 |
-
-| Szendehely | 006 |
-
-| Szente | 007 |
-
-| Szécsénke | 007 |
-
-| Szécsény | 038 |
-
-| Szécsényfelfalu | 039 |
-
-| Szilaspogony | 040 |
-
-| Szirák | 170 |
-
-| Szuha | 128 |
-
-| Szurdokpüspöki | 044 |
-
-| Szügy | 008 |
-
-| Tar | 044 |
-
-| Tereske | 006 |
-
-| Terény | 171 |
-
-| Tolmács | 006 |
-
-| Vanyarc | 170 |
-
-| Varsány | 038 |
-
-| Vizslás | 040 |
-
-| Zabar | 040 |
-
-Pest vármegye
-
-| Település | Becslőjárás |
-
-| Abony | 016 |
-
-| Acsa | 015 |
-
-| Albertirsa | 109 |
-
-| Alsónémedi | 145 |
-
-| Apaj | 088 |
-
-| Aszód | 041 |
-
-| Áporka | 088 |
-
-| Bag | 041 |
-
-| Bernecebaráti | 198 |
-
-| Bénye | 109 |
-
-| Biatorbágy | 156 |
-
-| Budajenő | 156 |
-
-| Budakalász | 156 |
-
-| Budakeszi | 015 |
-
-| Budaörs | 015 |
-
-| Bugyi | 145 |
-
-| Cegléd | 016 |
-
-| Ceglédbercel | 016 |
-
-| Csemő | 075 |
-
-| Csévharaszt | 145 |
-
-| Csobánka | 157 |
-
-| Csomád | 015 |
-
-| Csömör | 042 |
-
-| Csővár | 015 |
-
-| Dabas | 145 |
-
-| Dánszentmiklós | 110 |
-
-| Dány | 041 |
-
-| Délegyháza | 145 |
-
-| Diósd | 195 |
-
-| Domony | 041 |
-
-| Dömsöd | 088 |
-
-| Dunabogdány | 156 |
-
-| Dunaharaszti | 145 |
-
-| Dunakeszi | 015 |
-
-| Dunavarsány | 145 |
-
-| Ecser | 109 |
-
-| Erdőkertes | 042 |
-
-| Érd | 195 |
-
-| Farmos | 016 |
-
-| Felsőpakony | 145 |
-
-| Fót | 015 |
-
-| Galgagyörk | 015 |
-
-| Galgahévíz | 041 |
-
-| Galgamácsa | 041 |
-
-| Gomba | 109 |
-
-| Göd | 015 |
-
-| Gödöllő | 042 |
-
-| Gyál | 145 |
-
-| Gyömrő | 109 |
-
-| Halásztelek | 087 |
-
-| Herceghalom | 156 |
-
-| Hernád | 145 |
-
-| Hévízgyörk | 041 |
-
-| Iklad | 041 |
-
-| Inárcs | 145 |
-
-| Ipolydamásd | 197 |
-
-| Ipolytölgyes | 197 |
-
-| Isaszeg | 042 |
-
-| Jászkarajenő | 173 |
-
-| Kakucs | 145 |
-
-| Kartal | 041 |
-
-| Káva | 109 |
-
-| Kemence | 198 |
-
-| Kerepes | 042 |
-
-| Kiskunlacháza | 088 |
-
-| Kismaros | 006 |
-
-| Kisnémedi | 015 |
-
-| Kisoroszi | 006 |
-
-| Kistarcsa | 042 |
-
-| Kocsér | 173 |
-
-| Kóka | 017 |
-
-| Kosd | 006 |
-
-| Kóspallag | 199 |
-
-| Kőröstetétlen | 075 |
-
-| Leányfalu | 156 |
-
-| Letkés | 197 |
-
-| Lórév | 087 |
-
-| Maglód | 109 |
-
-| Majosháza | 088 |
-
-| Makád | 087 |
-
-| Márianosztra | 199 |
-
-| Mende | 109 |
-
-| Mikebuda | 110 |
-
-| Mogyoród | 042 |
-
-| Monor | 109 |
-
-| Nagybörzsöny | 198 |
-
-| Nagykáta | 017 |
-
-| Nagykovácsi | 157 |
-
-| Nagykőrös | 075 |
-
-| Nagymaros | 199 |
-
-| Nagytarcsa | 042 |
-
-| Nyáregyháza | 110 |
-
-| Nyársapát | 075 |
-
-| Ócsa | 145 |
-
-| Őrbottyán | 015 |
-
-| Örkény | 145 |
-
-| Pánd | 109 |
-
-| Páty | 156 |
-
-| Penc | 006 |
-
-| Perbál | 156 |
-
-| Perőcsény | 198 |
-
-| Pécel | 042 |
-
-| Péteri | 109 |
-
-| Pilis | 109 |
-
-| Pilisborosjenő | 156 |
-
-| Piliscsaba | 157 |
-
-| Pilisjászfalu | 157 |
-
-| Pilisszántó | 157 |
-
-| Pilisszentiván | 157 |
-
-| Pilisszentkereszt | 157 |
-
-| Pilisszentlászló | 157 |
-
-| Pilisvörösvár | 156 |
-
-| Pócsmegyer | 156 |
-
-| Pomáz | 156 |
-
-| Pusztavacs | 110 |
-
-| Pusztazámor | 196 |
-
-| Püspökhatvan | 015 |
-
-| Püspökszilágy | 015 |
-
-| Ráckeve | 087 |
-
-| Rád | 006 |
-
-| Solymár | 156 |
-
-| Sóskút | 196 |
-
-| Sülysáp | 109 |
-
-| Szada | 042 |
-
-| Százhalombatta | 195 |
-
-| Szentendre | 156 |
-
-| Szentlőrinckáta | 017 |
-
-| Szentmártonkáta | 017 |
-
-| Szigetbecse | 087 |
-
-| Szigetcsép | 087 |
-
-| Szigethalom | 087 |
-
-| Szigetmonostor | 156 |
-
-| Szigetszentmárton | 087 |
-
-| Szigetszentmiklós | 145 |
-
-| Szigetújfalu | 087 |
-
-| Szob | 197 |
-
-| Szokolya | 199 |
-
-| Sződ | 015 |
-
-| Sződliget | 015 |
-
-| Tahitótfalu | 156 |
-
-| Taksony | 145 |
-
-| Tatárszentgyörgy | 145 |
-
-| Táborfalva | 145 |
-
-| Tápióbicske | 109 |
-
-| Tápiógyörgye | 016 |
-
-| Tápióság | 017 |
-
-| Tápiószecső | 017 |
-
-| Tápiószele | 016 |
-
-| Tápiószentmárton | 017 |
-
-| Tápiószőlős | 016 |
-
-| Tárnok | 195 |
-
-| Telki | 156 |
-
-| Tésa | 198 |
-
-| Tinnye | 157 |
-
-| Tóalmás | 017 |
-
-| Tök | 156 |
-
-| Tököl | 087 |
-
-| Törökbálint | 015 |
-
-| Törtel | 016 |
-
-| Tura | 041 |
-
-| Újhartyán | 145 |
-
-| Újlengyel | 145 |
-
-| Újszilvás | 016 |
-
-| Úri | 109 |
-
-| Üllő | 109 |
-
-| Üröm | 156 |
-
-| Valkó | 041 |
-
-| Vasad | 110 |
-
-| Vác | 015 |
-
-| Vácduka | 015 |
-
-| Vácegres | 041 |
-
-| Váchartyán | 015 |
-
-| Váckisújfalu | 041 |
-
-| Vácrátót | 015 |
-
-| Vácszentlászló | 041 |
-
-| Vámosmikola | 197 |
-
-| Vecsés | 109 |
-
-| Veresegyház | 042 |
-
-| Verőce | 006 |
-
-| Verseg | 041 |
-
-| Visegrád | 157 |
-
-| Zebegény | 199 |
-
-| Zsámbék | 156 |
-
-| Zsámbok | 041 |
-
-Somogy vármegye
-
-| Település | Becslőjárás |
-
-| Alsóbogát | 057 |
-
-| Andocs | 068 |
-
-| Ádánd | 067 |
-
-| Babócsa | 021 |
-
-| Bakháza | 021 |
-
-| Balatonberény | 093 |
-
-| Balatonboglár | 067 |
-
-| Balatonendréd | 067 |
-
-| Balatonfenyves | 094 |
-
-| Balatonföldvár | 067 |
-
-| Balatonkeresztúr | 093 |
-
-| Balatonlelle | 067 |
-
-| Balatonmáriafürdő | 093 |
-
-| Balatonőszöd | 067 |
-
-| Balatonszabadi | 200 |
-
-| Balatonszárszó | 067 |
-
-| Balatonszemes | 067 |
-
-| Balatonszentgyörgy | 093 |
-
-| Balatonújlak | 093 |
-
-| Barcs | 166 |
-
-| Baté | 055 |
-
-| Bábonymegyer | 068 |
-
-| Bálványos | 068 |
-
-| Bárdudvarnok | 063 |
-
-| Bedegkér | 177 |
-
-| Beleg | 021 |
-
-| Berzence | 021 |
-
-| Bélavár | 021 |
-
-| Bodrog | 057 |
-
-| Bolhás | 021 |
-
-| Bolhó | 021 |
-
-| Bonnya | 068 |
-
-| Böhönye | 094 |
-
-| Bőszénfa | 063 |
-
-| Buzsák | 094 |
-
-| Büssü | 056 |
-
-| Csákány | 094 |
-
-| Cserénfa | 063 |
-
-| Csokonyavisonta | 165 |
-
-| Csoma | 055 |
-
-| Csombárd | 057 |
-
-| Csököly | 063 |
-
-| Csömend | 094 |
-
-| Csurgó | 021 |
-
-| Csurgónagymarton | 020 |
-
-| Darány | 066 |
-
-| Drávagárdony | 166 |
-
-| Drávatamási | 166 |
-
-| Ecseny | 057 |
-
-| Edde | 057 |
-
-| Felsőmocsolád | 057 |
-
-| Fiad | 068 |
-
-| Fonó | 055 |
-
-| Fonyód | 094 |
-
-| Főnyed | 093 |
-
-| Gadács | 056 |
-
-| Gadány | 093 |
-
-| Gamás | 068 |
-
-| Gálosfa | 063 |
-
-| Gige | 063 |
-
-| Gölle | 055 |
-
-| Görgeteg | 165 |
-
-| Gyékényes | 021 |
-
-| Gyugy | 094 |
-
-| Hajmás | 063 |
-
-| Hács | 094 |
-
-| Háromfa | 021 |
-
-| Hedrehely | 063 |
-
-| Hencse | 063 |
-
-| Heresznye | 021 |
-
-| Hetes | 055 |
-
-| Hollád | 093 |
-
-| Homokszentgyörgy | 165 |
-
-| Hosszúvíz | 094 |
-
-| Igal | 056 |
-
-| Iharos | 021 |
-
-| Iharosberény | 021 |
-
-| Inke | 021 |
-
-| Istvándi | 165 |
-
-| Jákó | 063 |
-
-| Juta | 055 |
-
-| Kadarkút | 063 |
-
-| Kapoly | 068 |
-
-| Kaposfő | 062 |
-
-| Kaposgyarmat | 063 |
-
-| Kaposhomok | 062 |
-
-| Kaposkeresztúr | 062 |
-
-| Kaposmérő | 062 |
-
-| Kaposszerdahely | 063 |
-
-| Kaposújlak | 062 |
-
-| Kaposvár | 062 |
-
-| Karád | 068 |
-
-| Kastélyosdombó | 166 |
-
-| Kaszó | 021 |
-
-| Kazsok | 056 |
-
-| Kálmáncsa | 165 |
-
-| Kánya | 177 |
-
-| Kára | 068 |
-
-| Kelevíz | 094 |
-
-| Kercseliget | 058 |
-
-| Kereki | 068 |
-
-| Kéthely | 093 |
-
-| Kisasszond | 063 |
-
-| Kisbajom | 063 |
-
-| Kisbárapáti | 068 |
-
-| Kisberény | 094 |
-
-| Kisgyalán | 055 |
-
-| Kiskorpád | 063 |
-
-| Komlósd | 165 |
-
-| Kőkút | 063 |
-
-| Kőröshegy | 067 |
-
-| Kötcse | 068 |
-
-| Kutas | 063 |
-
-| Lad | 165 |
-
-| Lakócsa | 166 |
-
-| Lábod | 021 |
-
-| Látrány | 068 |
-
-| Lengyeltóti | 094 |
-
-| Libickozma | 094 |
-
-| Lulla | 068 |
-
-| Magyaratád | 056 |
-
-| Magyaregres | 056 |
-
-| Marcali | 093 |
-
-| Mernye | 056 |
-
-| Mesztegnyő | 094 |
-
-| Mezőcsokonya | 057 |
-
-| Mike | 063 |
-
-| Miklósi | 068 |
-
-| Mosdós | 055 |
-
-| Nagyatád | 021 |
-
-| Nagybajom | 062 |
-
-| Nagyberény | 067 |
-
-| Nagyberki | 055 |
-
-| Nagycsepely | 068 |
-
-| Nagykorpád | 063 |
-
-| Nagyszakácsi | 093 |
-
-| Nágocs | 068 |
-
-| Nemesdéd | 094 |
-
-| Nemeskisfalud | 093 |
-
-| Nemesvid | 094 |
-
-| Nikla | 094 |
-
-| Nyim | 068 |
-
-| Orci | 055 |
-
-| Ordacsehi | 067 |
-
-| Osztopán | 057 |
-
-| Öreglak | 094 |
-
-| Őrtilos | 020 |
-
-| Ötvöskónyi | 021 |
-
-| Pamuk | 094 |
-
-| Patalom | 056 |
-
-| Patca | 063 |
-
-| Patosfa | 165 |
-
-| Pálmajor | 062 |
-
-| Péterhida | 165 |
-
-| Pogányszentpéter | 020 |
-
-| Polány | 057 |
-
-| Porrog | 020 |
-
-| Porrogszentkirály | 020 |
-
-| Porrogszentpál | 020 |
-
-| Potony | 166 |
-
-| Pusztakovácsi | 094 |
-
-| Pusztaszemes | 068 |
-
-| Ráksi | 056 |
-
-| Rinyabesenyő | 165 |
-
-| Rinyakovácsi | 063 |
-
-| Rinyaszentkirály | 021 |
-
-| Rinyaújlak | 165 |
-
-| Rinyaújnép | 021 |
-
-| Ságvár | 067 |
-
-| Sántos | 062 |
-
-| Sávoly | 093 |
-
-| Segesd | 021 |
-
-| Sérsekszőlős | 068 |
-
-| Simonfa | 063 |
-
-| Siófok | 200 |
-
-| Siójut | 067 |
-
-| Som | 067 |
-
-| Somodor | 055 |
-
-| Somogyacsa | 068 |
-
-| Somogyaracs | 165 |
-
-| Somogyaszaló | 056 |
-
-| Somogybabod | 068 |
-
-| Somogybükkösd | 020 |
-
-| Somogycsicsó | 021 |
-
-| Somogydöröcske | 068 |
-
-| Somogyegres | 068 |
-
-| Somogyfajsz | 094 |
-
-| Somogygeszti | 057 |
-
-| Somogyjád | 057 |
-
-| Somogymeggyes | 068 |
-
-| Somogysámson | 093 |
-
-| Somogysárd | 062 |
-
-| Somogysimonyi | 094 |
-
-| Somogyszentpál | 094 |
-
-| Somogyszil | 056 |
-
-| Somogyszob | 021 |
-
-| Somogytúr | 068 |
-
-| Somogyudvarhely | 021 |
-
-| Somogyvámos | 094 |
-
-| Somogyvár | 094 |
-
-| Somogyzsitfa | 093 |
-
-| Szabadi | 055 |
-
-| Szabás | 063 |
-
-| Szántód | 067 |
-
-| Szegerdő | 093 |
-
-| Szenna | 063 |
-
-| Szenta | 021 |
-
-| Szentbalázs | 062 |
-
-| Szentborbás | 166 |
-
-| Szentgáloskér | 056 |
-
-| Szenyér | 093 |
-
-| Szilvásszentmárton | 063 |
-
-| Szólád | 068 |
-
-| Szorosad | 068 |
-
-| Szőkedencs | 094 |
-
-| Szőlősgyörök | 068 |
-
-| Szulok | 165 |
-
-| Tab | 068 |
-
-| Tapsony | 093 |
-
-| Tarany | 021 |
-
-| Taszár | 055 |
-
-| Táska | 094 |
-
-| Teleki | 068 |
-
-| Tengőd | 177 |
-
-| Tikos | 093 |
-
-| Torvaj | 068 |
-
-| Tótújfalu | 166 |
-
-| Törökkoppány | 068 |
-
-| Újvárfalva | 062 |
-
-| Varászló | 094 |
-
-| Várda | 055 |
-
-| Vése | 094 |
-
-| Visnye | 063 |
-
-| Visz | 068 |
-
-| Vízvár | 021 |
-
-| Vörs | 093 |
-
-| Zala | 068 |
-
-| Zamárdi | 067 |
-
-| Zákány | 020 |
-
-| Zics | 068 |
-
-| Zimány | 055 |
-
-| Zselickisfalud | 063 |
-
-| Zselickislak | 063 |
-
-| Zselicszentpál | 063 |
-
-Szabolcs-Szatmár-Bereg vármegye
-
-| Település | Becslőjárás |
-
-| Ajak | 082 |
-
-| Anarcs | 083 |
-
-| Apagy | 115 |
-
-| Aranyosapáti | 082 |
-
-| Baktalórántháza | 083 |
-
-| Balkány | 115 |
-
-| Balsa | 121 |
-
-| Barabás | 012 |
-
-| Bátorliget | 115 |
-
-| Benk | 082 |
-
-| Beregdaróc | 012 |
-
-| Beregsurány | 012 |
-
-| Berkesz | 121 |
-
-| Besenyőd | 115 |
-
-| Beszterec | 121 |
-
-| Biri | 115 |
-
-| Botpalád | 035 |
-
-| Bököny | 115 |
-
-| Buj | 121 |
-
-| Cégénydányád | 034 |
-
-| Csaholc | 035 |
-
-| Csaroda | 012 |
-
-| Császló | 035 |
-
-| Csegöld | 034 |
-
-| Csenger | 098 |
-
-| Csengersima | 035 |
-
-| Csengerújfalu | 098 |
-
-| Darnó | 035 |
-
-| Demecser | 121 |
-
-| Dombrád | 082 |
-
-| Döge | 082 |
-
-| Encsencs | 115 |
-
-| Eperjeske | 083 |
-
-| Érpatak | 115 |
-
-| Fábiánháza | 116 |
-
-| Fehérgyarmat | 034 |
-
-| Fényeslitke | 082 |
-
-| Fülesd | 035 |
-
-| Fülpösdaróc | 034 |
-
-| Gacsály | 035 |
-
-| Garbolc | 035 |
-
-| Gávavencsellő | 121 |
-
-| Gelénes | 012 |
-
-| Gemzse | 083 |
-
-| Geszteréd | 115 |
-
-| Géberjén | 034 |
-
-| Gégény | 121 |
-
-| Gulács | 012 |
-
-| Győröcske | 191 |
-
-| Győrtelek | 098 |
-
-| Gyulaháza | 083 |
-
-| Gyügye | 034 |
-
-| Gyüre | 082 |
-
-| Hermánszeg | 034 |
-
-| Hetefejércse | 012 |
-
-| Hodász | 099 |
-
-| Ibrány | 121 |
-
-| Ilk | 099 |
-
-| Jánd | 012 |
-
-| Jánkmajtis | 034 |
-
-| Jármi | 099 |
-
-| Jéke | 083 |
-
-| Kállósemjén | 115 |
-
-| Kálmánháza | 115 |
-
-| Kántorjánosi | 099 |
-
-| Kemecse | 121 |
-
-| Kék | 121 |
-
-| Kékcse | 082 |
-
-| Kérsemjén | 034 |
-
-| Kisar | 034 |
-
-| Kishódos | 035 |
-
-| Kisléta | 115 |
-
-| Kisnamény | 035 |
-
-| Kispalád | 035 |
-
-| Kisszekeres | 035 |
-
-| Kisvarsány | 082 |
-
-| Kisvárda | 082 |
-
-| Kocsord | 098 |
-
-| Komlódtótfalu | 034 |
-
-| Komoró | 082 |
-
-| Kótaj | 121 |
-
-| Kölcse | 035 |
-
-| Kömörő | 035 |
-
-| Laskod | 083 |
-
-| Levelek | 115 |
-
-| Lónya | 012 |
-
-| Lövőpetri | 083 |
-
-| Magosliget | 035 |
-
-| Magy | 115 |
-
-| Mánd | 035 |
-
-| Mándok | 083 |
-
-| Máriapócs | 115 |
-
-| Márokpapi | 012 |
-
-| Mátészalka | 099 |
-
-| Mátyus | 012 |
-
-| Mezőladány | 082 |
-
-| Méhtelek | 035 |
-
-| Mérk | 116 |
-
-| Milota | 034 |
-
-| Nagyar | 034 |
-
-| Nagycserkesz | 121 |
-
-| Nagydobos | 099 |
-
-| Nagyecsed | 116 |
-
-| Nagyhalász | 121 |
-
-| Nagyhódos | 035 |
-
-| Nagykálló | 115 |
-
-| Nagyszekeres | 035 |
-
-| Nagyvarsány | 082 |
-
-| Napkor | 115 |
-
-| Nábrád | 034 |
-
-| Nemesborzova | 035 |
-
-| Nyírbátor | 115 |
-
-| Nyírbéltek | 115 |
-
-| Nyírbogát | 115 |
-
-| Nyírbogdány | 121 |
-
-| Nyírcsaholy | 099 |
-
-| Nyírcsászári | 099 |
-
-| Nyírderzs | 099 |
-
-| Nyíregyháza | 121 |
-
-| Nyírgelse | 115 |
-
-| Nyírgyulaj | 115 |
-
-| Nyíribrony | 115 |
-
-| Nyírjákó | 083 |
-
-| Nyírkarász | 083 |
-
-| Nyírkáta | 099 |
-
-| Nyírkércs | 115 |
-
-| Nyírlövő | 083 |
-
-| Nyírlugos | 115 |
-
-| Nyírmada | 083 |
-
-| Nyírmeggyes | 099 |
-
-| Nyírmihálydi | 115 |
-
-| Nyírparasznya | 099 |
-
-| Nyírpazony | 121 |
-
-| Nyírpilis | 115 |
-
-| Nyírtass | 083 |
-
-| Nyírtelek | 121 |
-
-| Nyírtét | 121 |
-
-| Nyírtura | 121 |
-
-| Nyírvasvári | 116 |
-
-| Ófehértó | 115 |
-
-| Olcsva | 098 |
-
-| Olcsvaapáti | 034 |
-
-| Ópályi | 099 |
-
-| Ököritófülpös | 098 |
-
-| Ömböly | 116 |
-
-| Őr | 115 |
-
-| Panyola | 034 |
-
-| Pap | 083 |
-
-| Papos | 099 |
-
-| Paszab | 121 |
-
-| Pátroha | 082 |
-
-| Pátyod | 098 |
-
-| Penészlek | 116 |
-
-| Penyige | 035 |
-
-| Petneháza | 083 |
-
-| Piricse | 115 |
-
-| Pócspetri | 115 |
-
-| Porcsalma | 098 |
-
-| Pusztadobos | 083 |
-
-| Rakamaz | 121 |
-
-| Ramocsaháza | 115 |
-
-| Rápolt | 098 |
-
-| Rétközberencs | 082 |
-
-| Rohod | 083 |
-
-| Rozsály | 035 |
-
-| Sényő | 121 |
-
-| Sonkád | 035 |
-
-| Szabolcs | 121 |
-
-| Szabolcsbáka | 083 |
-
-| Szabolcsveresmart | 082 |
-
-| Szakoly | 115 |
-
-| Szamosangyalos | 098 |
-
-| Szamosbecs | 034 |
-
-| Szamoskér | 098 |
-
-| Szamossályi | 098 |
-
-| Szamosszeg | 098 |
-
-| Szamostatárfalva | 034 |
-
-| Szamosújlak | 034 |
-
-| Szatmárcseke | 034 |
-
-| Székely | 121 |
-
-| Tarpa | 012 |
-
-| Tákos | 012 |
-
-| Terem | 116 |
-
-| Tiborszállás | 116 |
-
-| Timár | 121 |
-
-| Tiszaadony | 012 |
-
-| Tiszabecs | 034 |
-
-| Tiszabercel | 121 |
-
-| Tiszabezdéd | 082 |
-
-| Tiszacsécse | 034 |
-
-| Tiszadada | 122 |
-
-| Tiszadob | 122 |
-
-| Tiszaeszlár | 122 |
-
-| Tiszakanyár | 082 |
-
-| Tiszakerecseny | 012 |
-
-| Tiszakóród | 034 |
-
-| Tiszalök | 122 |
-
-| Tiszamogyorós | 082 |
-
-| Tiszanagyfalu | 121 |
-
-| Tiszarád | 121 |
-
-| Tiszaszalka | 012 |
-
-| Tiszaszentmárton | 082 |
-
-| Tiszatelek | 121 |
-
-| Tiszavasvári | 122 |
-
-| Tiszavid | 012 |
-
-| Tisztaberek | 035 |
-
-| Tivadar | 012 |
-
-| Tornyospálca | 083 |
-
-| Tunyogmatolcs | 098 |
-
-| Túristvándi | 034 |
-
-| Túrricse | 035 |
-
-| Tuzsér | 082 |
-
-| Tyukod | 098 |
-
-| Újdombrád | 082 |
-
-| Újfehértó | 115 |
-
-| Újkenéz | 082 |
-
-| Ura | 098 |
-
-| Uszka | 035 |
-
-| Vaja | 083 |
-
-| Vasmegyer | 121 |
-
-| Vállaj | 116 |
-
-| Vámosatya | 012 |
-
-| Vámosoroszi | 035 |
-
-| Vásárosnamény | 012 |
-
-| Zajta | 035 |
-
-| Záhony | 191 |
-
-| Zsarolyán | 034 |
-
-| Zsurk | 082 |
-
-Tolna vármegye
-
-| Település | Becslőjárás |
-
-| Alsónána | 155 |
-
-| Alsónyék | 154 |
-
-| Aparhant | 153 |
-
-| Attala | 055 |
-
-| Báta | 154 |
-
-| Bátaapáti | 155 |
-
-| Bátaszék | 154 |
-
-| Belecska | 027 |
-
-| Bikács | 028 |
-
-| Bogyiszló | 061 |
-
-| Bonyhád | 153 |
-
-| Bonyhádvarasd | 153 |
-
-| Bölcske | 028 |
-
-| Cikó | 155 |
-
-| Csibrák | 027 |
-
-| Csikóstőttős | 096 |
-
-| Dalmand | 177 |
-
-| Decs | 154 |
-
-| Diósberény | 027 |
-
-| Dombóvár | 177 |
-
-| Döbrököz | 177 |
-
-| Dunaföldvár | 028 |
-
-| Dunaszentgyörgy | 154 |
-
-| Dúzs | 027 |
-
-| Értény | 177 |
-
-| Fadd | 154 |
-
-| Fácánkert | 154 |
-
-| Felsőnána | 027 |
-
-| Felsőnyék | 177 |
-
-| Fürged | 177 |
-
-| Gerjen | 154 |
-
-| Grábóc | 155 |
-
-| Gyönk | 027 |
-
-| Györe | 155 |
-
-| Györköny | 028 |
-
-| Gyulaj | 177 |
-
-| Harc | 154 |
-
-| Hőgyész | 027 |
-
-| Iregszemcse | 177 |
-
-| Izmény | 153 |
-
-| Jágónak | 096 |
-
-| Kajdacs | 028 |
-
-| Kakasd | 153 |
-
-| Kalaznó | 027 |
-
-| Kapospula | 055 |
-
-| Kaposszekcső | 096 |
-
-| Keszőhidegkút | 027 |
-
-| Kéty | 153 |
-
-| Kisdorog | 153 |
-
-| Kismányok | 155 |
-
-| Kisszékely | 027 |
-
-| Kistormás | 027 |
-
-| Kisvejke | 155 |
-
-| Kocsola | 177 |
-
-| Koppányszántó | 177 |
-
-| Kölesd | 027 |
-
-| Kurd | 177 |
-
-| Lápafő | 177 |
-
-| Lengyel | 155 |
-
-| Madocsa | 028 |
-
-| Magyarkeszi | 177 |
-
-| Medina | 154 |
-
-| Miszla | 027 |
-
-| Mórágy | 155 |
-
-| Mőcsény | 155 |
-
-| Mucsfa | 155 |
-
-| Mucsi | 027 |
-
-| Murga | 027 |
-
-| Nagydorog | 028 |
-
-| Nagykónyi | 177 |
-
-| Nagymányok | 153 |
-
-| Nagyszékely | 027 |
-
-| Nagyszokoly | 177 |
-
-| Nagyvejke | 155 |
-
-| Nak | 177 |
-
-| Németkér | 028 |
-
-| Ozora | 177 |
-
-| Őcsény | 154 |
-
-| Paks | 028 |
-
-| Pálfa | 027 |
-
-| Pincehely | 177 |
-
-| Pörböly | 154 |
-
-| Pusztahencse | 028 |
-
-| Regöly | 177 |
-
-| Sárpilis | 154 |
-
-| Sárszentlőrinc | 027 |
-
-| Simontornya | 027 |
-
-| Sióagárd | 154 |
-
-| Szakadát | 027 |
-
-| Szakály | 177 |
-
-| Szakcs | 177 |
-
-| Szálka | 155 |
-
-| Szárazd | 027 |
-
-| Szedres | 154 |
-
-| Szekszárd | 154 |
-
-| Tamási | 177 |
-
-| Tengelic | 154 |
-
-| Tevel | 153 |
-
-| Tolna | 154 |
-
-| Tolnanémedi | 027 |
-
-| Udvari | 027 |
-
-| Újireg | 177 |
-
-| Varsád | 027 |
-
-| Váralja | 155 |
-
-| Várdomb | 154 |
-
-| Várong | 177 |
-
-| Závod | 155 |
-
-| Zomba | 153 |
-
-Vas vármegye
-
-[^8]: A 2. melléklet a 67/2017. (XII. 27.) FM rendelet 8. §-a, a 147/2022. (XII. 27.) AM rendelet 2. § a) b) pontja szerint módosított szöveg.
+[^11]: A 2. melléklet a 6/2024. (II. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.

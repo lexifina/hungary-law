@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-47-20-1
 | 2019-04-06 | 2017-47-20-11.4 | 13/2019. (IV. 5.) AM rendelet |
 | 2020-12-21 | 2017-47-20-11.5 | 63/2020. (XII. 16.) AM rendelet |
 | 2023-01-01 | 2017-47-20-11.6 | 147/2022. (XII. 27.) AM rendelet |
+| 2024-02-18 | 2017-47-20-11.7 | 6/2024. (II. 15.) AM rendelet |
