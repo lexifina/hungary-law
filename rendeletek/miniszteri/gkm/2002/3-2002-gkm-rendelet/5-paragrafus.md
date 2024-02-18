@@ -1314,6 +1314,10 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 596. | Igazolás kiállítása nyilvántartásba vételről | 4 090 |
 
+| XV. Légiközlekedési védelmi háttérellenőrzési eljárás |
+
+| 597. | Légiközlekedés védelmi háttérellenőrzési eljárás | 30 100 |
+
 [^19]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^20]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 2. § f) pontja szerint módosított szöveg.
+[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 1. §-a és 2. § f) pontja szerint módosított szöveg.

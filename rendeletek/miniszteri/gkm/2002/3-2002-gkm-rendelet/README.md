@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-0L
 | 2021-03-08 | 2002-3-20-0L.14 | 20/2012. (IV. 26.) NFM rendelet |
 | 2023-06-26 | 2002-3-20-0L.15 | 11/2023. (VI. 23.) ÉKM rendelet |
 | 2024-02-02 | 2002-3-20-0L.16 | 11/2023. (VI. 23.) ÉKM rendelet |
+| 2024-02-18 | 2002-3-20-0L.17 | 20/2012. (IV. 26.) NFM rendelet |
