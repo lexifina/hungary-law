@@ -62,7 +62,7 @@ fc) a szakirányú szakképzettséggel rendelkezők szakmai gyakorlatát, valami
 
 fd) nyilvántartási számát,
 
-g) a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
+g) a felszámoló ügyvezetőjének, illetve a felszámoló gazdasági társaságnál foglalkoztatott felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek – kizárólag az adott felszámolónál használt – elektronikus levelezési címét.
 
 h) azt a tényt, ha a felszámoló gazdasági társaság szerkezetátalakítási szakértői tevékenység végzésére is jogosult,
 
