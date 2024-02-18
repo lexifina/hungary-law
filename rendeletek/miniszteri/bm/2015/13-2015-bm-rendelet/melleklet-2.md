@@ -178,4 +178,4 @@
 
 Az igazgatási szolgáltatási díjköteles vízügyi és vízvédelmi szakhatósági eljárások, illetve az igazgatási szolgáltatási díj mértéke
 
-[^6]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése, az 1/2024. (I. 18.) BM rendelet 1. §-a szerint módosított szöveg.

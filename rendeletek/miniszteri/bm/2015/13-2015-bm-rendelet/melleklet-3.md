@@ -42,6 +42,12 @@
 
 | 19. | Erdészeti hatósági eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 19. táblázat 19–20. sor] | 14 000 |
 
+| 20. | A geotermikusenergia-kutatás engedélyezésére irányuló eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 1. táblázat 104. sor] | 23 000 |
+
+| 21. | Geotermikus védőidom megállapítására irányuló eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 1. táblázat 110. sor] | 23 000 |
+
+| 22. | Geotermikus energia kinyerését és energetikai hasznosítását szolgáló építményre vonatkozó bányafelügyeleti építésügyi hatósági eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 1. táblázat 12. sor] | 1. melléklet 2. pont 2.3. alpontjában és 2.4. alpont 2.4.2. pontjában megállapított díjtétel |
+
 3. melléklet a 13/2015. (III. 31.) BM rendelethez[^7]
 
 Az eljáró hatóságok számlaszámai
