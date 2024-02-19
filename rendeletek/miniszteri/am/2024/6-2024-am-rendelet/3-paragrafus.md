@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 47/2017. (IX. 29.) FM rendelet 2. § (5) bekezdése.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
