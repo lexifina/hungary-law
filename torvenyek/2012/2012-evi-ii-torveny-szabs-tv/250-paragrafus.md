@@ -35,19 +35,3 @@ d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért fele
 e)
 
 f) az igazságügyért felelős miniszter az államháztartásért felelős miniszter egyetértésével – ide nem értve az előállítás és elővezetés költsége mértékének megállapítását – a szabálysértési eljárásban elrendelt előállítás, valamint elővezetés végrehajtásával felmerült költség megtérítésének,
-
-g) az államháztartásért felelős miniszter egyetértésével a szabálysértési eljárás során lefoglalt és elkobzott dolgok kezelésének és értékesítésének,
-
-h) a szabálysértési statisztikai adatgyűjtés, adatfeldolgozás és adatszolgáltatás,
-
-i) a szabálysértési hatóságok és a helyszíni bírság kiszabására jogosult szervek és személyek részére a jogkövetkezmények alkalmazása során értékelendő szempontok,
-
-j) az igazságügyért felelős miniszter egyetértésével a szabálysértési ügyekben alkalmazható közvetítői eljárás, a lefolytatott közvetítői megbeszélés, valamint a közvetítői eljárás befejezéséhez, a teljesítés ellenőrzéséhez kapcsolódó közvetítői tevékenység
-
-részletes szabályait rendeletben szabályozza.
-
-(3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a pénzügyi és kereskedelmi szabálysértések eljárási szabályait, valamint felderítése és elbírálása végrehajtásának részletes szabályait rendeletben szabályozza.
-
-(3a)
-
-(4)
