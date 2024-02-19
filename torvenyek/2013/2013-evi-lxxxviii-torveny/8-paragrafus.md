@@ -6,13 +6,15 @@
 
 (2a) A kulturális javakra elrendelt körözés esetén – a (2) bekezdésben foglaltak kivételével – a 4. § (2) bekezdés a) pont aa), ab), ad) alpontjában és c) pont ca) alpontjában meghatározott adat közérdekből nyilvános adat.
 
+(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.
+
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 
-a) az eltűnt személy 3. § (2) bekezdés a) pont aa)–ad) és aj) alpontjában, b) pont bc) alpontjában, j) pontjában, k) pont ka)–kc) alpontjában,
+a) az eltűnt személy 3. § (2) bekezdés a) pont aa)–ad) és aj) alpontjában, b) pont bc) alpontjában, j) pontjában,
 
 b) az 5. § (2) bekezdés a) pont aa), ac) és ad) alpontjában, b) és c) pontjában,
 
-c) a 6. § (2) bekezdés a) és b) pontjában
+c)
 
 meghatározott adat.
 

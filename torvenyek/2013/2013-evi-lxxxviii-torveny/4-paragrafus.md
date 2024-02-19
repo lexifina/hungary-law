@@ -64,7 +64,7 @@ hd) tartalmi leírását.
 
 a) a közúti közlekedési nyilvántartás engedély- és jármű-nyilvántartás adataival,
 
-b) a talált dolgok nyilvántartásának adataival,
+b)
 
 c) az útiokmány-nyilvántartás adataival, valamint
 

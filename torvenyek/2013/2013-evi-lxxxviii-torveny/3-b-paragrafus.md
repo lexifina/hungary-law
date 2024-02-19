@@ -1,4 +1,4 @@
-3/B. § (1) A nyilvántartó a 3. § (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomonkövetése céljából – a 3. § (2) bekezdés a)–l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
+3/B. § (1) A nyilvántartó a 3. § (2) bekezdés a) pontjában szereplő adatokat – azok változásának nyomonkövetése céljából – a 3. § (2) bekezdés a)–j) és l) pontjában meghatározott adatok rögzítésekor, módosításakor vagy javításakor, valamint a nyilvántartásból való adatigénylést vagy adattovábbítást megelőzően elektronikus úton összehasonlítja
 
 a) a személyiadat- és lakcímnyilvántartás hatálya alá tartozó személyek esetében a személyiadat- és lakcímnyilvántartást kezelő szerv által kezelt adatokkal,
 

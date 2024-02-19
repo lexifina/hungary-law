@@ -20,7 +20,7 @@ b) nemzetközi körözést rendelhet el.
 
 (4) A körözési eljárást lefolytató szerv a bírósági végrehajtásról szóló 1994. évi LIII. törvény 180/A. § (6) bekezdése alapján elrendelt körözés végrehajtása során
 
-a) az Rtv. 29–30. §-a, 32. §-a, 35/A. §-a, 39–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
+a) az Rtv. 29–30. §-a, 32. §-a, 33. §-a, 35/A. §-a, 39–41. §-a, 42. § (1) bekezdése, valamint 91/C. § (1) és (2) bekezdése szerinti intézkedést alkalmazhatja, illetve
 
 b) nemzetközi körözést rendelhet el.
 

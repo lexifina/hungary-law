@@ -8,9 +8,9 @@ c) a szakértő, illetve a tolmács díjának megállapításáról,
 
 d) a szakértő kizárásáról,
 
-e) az eljárási bírság kiszabásáról, valamint
+e) az eljárási bírság kiszabásáról.
 
-f) az eltűntté nyilvánításról.
+f)
 
 (2) A határozatnak tartalmaznia kell
 

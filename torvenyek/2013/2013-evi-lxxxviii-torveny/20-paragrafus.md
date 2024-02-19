@@ -1,4 +1,4 @@
-## 20. Az eltűnt személyekre, illetve az ismeretlen személyazonosságú holttestekre, holttestrészekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
+## 20. Az eltűnt személyekre, illetve az ismeretlen személyazonosságú holttestekre, holttestrészekre, a bírósági végrehajtásban a kötelezettre vagy a kiadni rendelt gyermekre, továbbá gyermek tartása iránt indított perekben, a szülői felügyelettel kapcsolatos perekben, valamint a származási és a gondnoksági perekben az alperesre, az anyára, illetve a gyermekre vonatkozó különös körözési eljárási szabályok, a mintavételi eljárás rendje az ujj- és tenyérnyomat, valamint a DNS-profil nyilvántartásba vétele céljából
 
 20. § (1) A rendőrség a körözését rendelheti, valamint – eltűnt személy, azonosítandó holttest vagy holttestrész esetén – rendeli el
 
@@ -45,3 +45,7 @@ f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 g) honvéd,
 
 haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.
+
+(7) A rendőrség – a bírósági végrehajtó felhívására és erre vonatkozó, a körözés elrendelését tartalmazó intézkedésére – lefolytatja a körözési eljárást a bírósági végrehajtásban kötelezett vagy a kiadni rendelt gyermek tartózkodási helyének megállapítása érdekében.
+
+(8) A rendőrség – a bíróság felhívására és erre vonatkozó, a tartózkodási hely megállapítását kérő rendelkezésére – lefolytatja a körözési eljárást a gyermek tartása iránt indított perekben, a szülői felügyelettel kapcsolatos perekben, valamint a származási és a gondnoksági perekben az alperes, az anya, illetve a gyermek tartózkodási helyének megállapítása érdekében.

@@ -14,7 +14,7 @@ b) a körözött dolgok nyilvántartásából,
 
 c) az ismeretlen holttestek, holttestrészek nyilvántartásából,
 
-d) a talált tárgyak nyilvántartásából,
+d)
 
 e) a nyilvántartás használatára jogosultak nyilvántartásából
 

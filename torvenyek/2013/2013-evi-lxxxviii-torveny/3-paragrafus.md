@@ -78,15 +78,7 @@ jc) határozatának számát, valamint eljárásának iktatószámát,
 
 jd) kapcsolattartójának elérhetőségeit,
 
-k) az eltűntnek
-
-ka) nyilvánítás időpontját,
-
-kb) nyilvánító szerv megnevezését,
-
-kc) nyilvánító határozat számát, iktatószámát,
-
-kd) nyilvánítást követően az eltűntnek az adatai továbbítására vonatkozó korlátozásokat,
+k)
 
 l) a körözési eljárás során megtett intézkedés
 
@@ -106,13 +98,13 @@ o) az eltűnés miatt, a büntetőeljárásban, az európai és nemzetközi elfo
 
 p) eltűnés miatti körözés esetén a belső azonosító kódot, a körözés azonosítására szolgáló kapcsolati kódot, valamint a szakrendszeri azonosító kódot.
 
-(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, valamint a (2) bekezdés b), d)–j), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
+(3) A körözött személyek nyilvántartásába a (2) bekezdés a) pont aa)–ai) alpontjában, a (2) bekezdés b), d)–j), o), valamint p) pontjában meghatározott adatokat a körözést elrendelő rögzíti.
 
 (4) A körözött személyek nyilvántartásába a (2) bekezdés c) pontjában meghatározott adatokat a körözést elrendelő rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 
-(5) A körözött személyek nyilvántartásába a körözési eljárás során ismertté vált, a (2) bekezdés b) pontjában, d)–h) pontjában, j) pontjában valamint l) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv, vagy az intézkedést végrehajtó szerv rögzíti. A körözött személyek nyilvántartásába a körözési eljárás során ismertté vált, a (2) bekezdés c) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
+(5) A körözött személyek nyilvántartásába a körözési eljárás során ismertté vált, a (2) bekezdés b) pontjában, d)–h) pontjában, j) pontjában, l) pontjában, valamint o) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv, vagy az intézkedést végrehajtó szerv rögzíti. A körözött személyek nyilvántartásába a körözési eljárás során ismertté vált, a (2) bekezdés c) pontjában meghatározott adatokat a körözési eljárást lefolytató szerv vagy az intézkedést végrehajtó szerv rögzíti, ha az adat a körözés alapjául szolgáló bűncselekmény tényállási eleme.
 
-(6) A körözött személyek nyilvántartásába a (2) bekezdés k) pontjában meghatározott adatokat az eltűntnek nyilvánító rendőri szerv rögzíti.
+(6)
 
 (7) A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény 14. alcímében meghatározott eljárás esetén rögzítendő – az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 62. cikk (3) bekezdése szerinti – adatokat a körözési nyilvántartási rendszerben a 3. § (2) bekezdés h) pontjában meghatározott adatok között kell rögzíteni.
 
