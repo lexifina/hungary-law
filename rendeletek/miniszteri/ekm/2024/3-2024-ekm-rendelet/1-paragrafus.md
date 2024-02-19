@@ -1,1 +1,3 @@
-1. § A légiközlekedéssel kapcsolatos hatósági eljárások díjairól szóló 3/2002. (VI. 20.) GKM rendelet (a továbbiakban: R.) Melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
