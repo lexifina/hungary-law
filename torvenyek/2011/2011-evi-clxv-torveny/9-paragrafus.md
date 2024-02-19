@@ -12,7 +12,7 @@ d) az országos baleset-megelőzési bizottság tagjaként közvetlenül is rés
 
 a) gondoskodik a polgárőrök szakmai felkészítéséről, képzéséről, továbbképzéséről,
 
-b) a polgárőr szolgálat ellátását meghatározó szolgálati és etikai szabályzat megalkotásával biztosítja a polgárőr szolgálat rendeltetésszerű és szakszerű ellátását,
+b) a polgárőr szolgálat ellátását meghatározó szolgálati szabályzat és etikai szabályzat megalkotásával biztosítja a polgárőr szolgálat rendeltetésszerű és szakszerű ellátását,
 
 c) meghatározza a polgárőrség bűnmegelőzési, közlekedésbiztonsági tevékenységének irányait, folyamatos szakmai koordinációval segíti a területi polgárőr szövetségek és polgárőr egyesületek tevékenységét,
 

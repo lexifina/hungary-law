@@ -14,7 +14,7 @@ b) a kiegészítő feladata ellátásával összefüggésben a székhelye szerin
 
 is kiterjedhet.
 
-(3a) A polgárőr egyesület működési területe a lovas járőrszolgálat ellátása tekintetében – a (3) bekezdésben meghatározott területen túl – a polgárőrség székhelyeként megjelölt településsel, fővárosi kerülettel közvetlenül határos erdőterület lovas járőrszolgálat elől el nem zárt területére is kiterjed.
+(3a) A polgárőr egyesület működési területe a lovas járőrszolgálat ellátása tekintetében – a (3) bekezdésben meghatározott területen túl – a polgárőrség székhelyeként megjelölt településsel, fővárosi kerülettel közvetlenül határos, a területszervezési eljárásról szóló kormányrendelet szerinti külterület (a továbbiakban: külterület) lovas járőrszolgálat elől el nem zárt területére is kiterjed.
 
 (4) A polgárőr egyesület a 3. § (2) bekezdés j) pontjában meghatározott feladat ellátását akkor kezdheti meg, valamint végezheti, ha a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást köt.
 

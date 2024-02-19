@@ -2,7 +2,7 @@
 
 9/A. § (1) A polgárőr egyesület a (2) bekezdésben meghatározott kiegészítő feladatának ellátásában a polgárőr egyesület
 
-a) a Polgári Törvénykönyv 2:11. §-a szerinti személy,
+a) a Polgári Törvénykönyv 2:11. §-a szerinti,
 
 b) e tevékenység végzéséhez írásbeli törvényes képviselői hozzájárulással bíró,
 
@@ -16,15 +16,15 @@ tagja (a továbbiakban: ifjú polgárőr) is közreműködhet.
 
 a) a polgárőr feladatkörét érintően az állampolgárok tájékoztatásában,
 
-b) a polgárőr tevékenységgel kapcsolatos jegyzőkönyvek és más iratok előkészítésében,
+b)
 
 c) a katasztrófákra való felkészülésben, a katasztrófák elleni védekezésben és helyreállításban, valamint a polgári védelmi szervezetek tevékenységében,
 
-d) dolog ideiglenes elvétele esetén az elvett dolog őrzésében és szállításában,
+d) az arra jogosult hatóság által lefoglalt, elvett dolog őrzésében és szállításában,
 
 e) a baleset-megelőzési, az áldozatvédelmi, a közlekedésbiztonsági, állat-, környezet- és természetvédelmi tevékenység támogatásában, a lakosság és az önkormányzatok közötti kapcsolat erősítésében,
 
-f) az otthonában élő fogyatékos személy védelmében, a polgárok és javaik védelmében, az állami és önkormányzati vagyon megóvásában,
+f) az otthonában élő rászoruló személy védelmében, a polgárok és javaik védelmében, az állami és önkormányzati vagyon megóvásában,
 
 g) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben.
 

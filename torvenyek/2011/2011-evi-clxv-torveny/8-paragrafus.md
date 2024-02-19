@@ -12,7 +12,7 @@ a) az Országos Polgárőr Szövetség alapszabályát magára nézve kötelező
 
 b) a területi polgárőr szövetség tagja.
 
-(4a) A polgárőr egyesület a 7. § (4) bekezdésében meghatározott területi polgárőr szövetség útján kezdeményezheti felvételét az Országos Polgárőr Szövetségbe. A tagfelvételi kérelmet a területi polgárőr szövetség a javaslatával együtt annak beérkezését követő 30 napon belül felterjeszti az Országos Polgárőr Szövetség részére. A tagfelvételi kérelemről annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség dönt.
+(4a) A polgárőr egyesület a 7. § (4) bekezdésében meghatározott területi polgárőr szövetség útján kezdeményezheti felvételét az Országos Polgárőr Szövetségbe. A tagfelvételi kérelmet a területi polgárőr szövetség a javaslatával együtt annak beérkezését követő 30 napon belül felterjeszti az Országos Polgárőr Szövetség elnöksége részére. A tagfelvételi kérelemről annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség elnöksége dönt.
 
 (4b) A területi polgárőr szövetség felvétele az Országos Polgárőr Szövetségbe nem tagadható meg, ha a területi polgárőr szövetség magára nézve kötelezőnek fogadja el az Országos Polgárőr Szövetség alapszabályát. A tagfelvételi kérelemről annak beérkezését követő 30 napon belül az Országos Polgárőr Szövetség dönt.
 
