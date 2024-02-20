@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-17-20-5
 | 2023-04-15 | 2020-17-20-5Z.8 | 1/2023. (IV. 5.) MEKH rendelet |
 | 2023-05-17 | 2020-17-20-5Z.9 | 8/2023. (V. 12.) MEKH rendelet |
 | 2023-08-23 | 2020-17-20-5Z.10 | 12/2023. (VIII. 18.) MEKH rendelet |
+| 2024-02-20 | 2020-17-20-5Z.11 | 1/2024. (II. 15.) MEKH rendelet |

@@ -4,17 +4,7 @@
 
 a) a megvalósított energiahatékonysági intézkedés vagy beruházás megnevezése és típusa,
 
-b)[^10] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja, ami
-
-ba) az energiahatékonysági intézkedés végrehajtása, a beruházás kivitelezése megrendelésének időpontja,
-
-bb) az energiahatékonysági intézkedés végrehajtása, a beruházás kivitelezése megkezdésének időpontja,
-
-bc) az intézkedés, beruházás célját szolgáló első tárgyi eszköz megrendelésének időpontja és
-
-bd) az intézkedés végrehajtásához, a beruházáshoz szükséges hatósági engedély megszerzésének időpontja
-
-közül a legkorábbi időpont,
+b)[^10] az energiahatékonysági intézkedés vagy beruházás megkezdésének időpontja,
 
 c)[^11] az energiahatékonysági intézkedés vagy az energiahatékonysági beruházás helyszíne (cím, helyrajzi szám), ingóságon megvalósuló intézkedés esetén az érintett ingóság gyári száma, gépjármű esetén alvázszáma, – olyan szemléletformáló energiahatékonysági intézkedések kivételével, amelyek esetében nem határozható meg pontosan az elért végső felhasználó személye – a végső felhasználó szervezet neve, adószáma, természetes személy esetén neve, lakóhelye,
 
@@ -45,7 +35,7 @@ m) az energiahatékonysági intézkedésből vagy beruházásból elszámolható
 (4) A kötelezett fél dönthet akként, hogy a bejelentés részeként az adott évre vonatkozóan saját maga határozza meg az (1) és (2) bekezdés szerint bejelentett, saját nevén szereplő energiamegtakarítások elszámolási sorrendjét az EKR adatgyűjtő rendszer útján. Az elszámolási sorrend egyéni meghatározására kizárólag a kötelezettséggel érintett év december 1-től a kötelezettséggel érintett évre vonatkozó elszámolási határidő lejártáig és csak akkor van lehetőség, ha az egyénileg sorrendbe rendezett megtakarítások mértéke eléri az adott évre vonatkozó kötelezettség mértékét.
 
 [^9]: A 3. § a 4/2022. (VI. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
-[^10]: A 3. § (1) bekezdés b) pontja a 11/2022. (XI. 4.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontja az 1/2024. (II. 15.) MEKH rendelet 2. §-ával megállapított szöveg. [E módosító rendelet 5. §-a által elrendelt módosítás, amely szerint hatályát veszti a 3. § (1) bekezdés b) pont ba)–bd) alpontja, nem vezethető át.]
 [^11]: A 3. § (1) bekezdés c) pontja a 8/2023. (V. 12.) MEKH rendelet 1. §-ával megállapított, a 12/2023. (VIII. 18.) MEKH rendelet 5. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § (1) bekezdés d) pontja a 12/2023. (VIII. 18.) MEKH rendelet 5. § b) pontja szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés g) pontja a 8/2023. (V. 12.) MEKH rendelet 3. § a) pontja szerint módosított szöveg.
