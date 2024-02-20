@@ -1,3 +1,1 @@
-66. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 8. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.”
+### 66. §
