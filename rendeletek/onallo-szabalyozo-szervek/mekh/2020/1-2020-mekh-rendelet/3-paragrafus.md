@@ -14,8 +14,14 @@ a) a beépített teljesítménynél alacsonyabb teljesítményszinten is üzemsz
 
 b) működésüket képesek leállítani, amit üzemóra-számláló nem rögzít.
 
+(5)[^7] Az egy betáplálási ponton legalább 10 MW rendelkezésre álló teljesítménnyel rendelkező felhasználási helyen – a technológiai sor (2) bekezdés szerinti mérése mellett – a technológiai sorba állított, (1) bekezdés szerinti berendezésekre nem kell almérőt felszerelni, ha a felhasználó rendelkezik az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszerrel.
+
+(6)[^8] A bányászatról szóló törvény hatálya alá tartozó létesítményben – a technológiai sor (2) bekezdés szerinti mérése mellett – a technológiai sorba állított, (1) bekezdés szerinti berendezésekre nem kell almérőt felszerelni, ha a felhasználó rendelkezik az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszerrel, valamint e berendezések fogyasztási adatai származtatott formában, negyedóránkénti bontásban adatgyűjtő rendszerbe tárolva rendelkezésre állnak.
+
 [^2]: A 3. § (1) bekezdése a 6/2020. (VI. 29.) MEKH rendelet 9. §-ával megállapított szöveg.
 [^3]: A 3. § (1) bekezdés a) pontja a 7. § a) pontja szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés b) pontja a 7. § b) pontja szerint módosított szöveg.
 [^5]: A 3. § (2) bekezdését a 6/2020. (VI. 29.) MEKH rendelet 11. §-a iktatta be.
 [^6]: A 3. § (3) bekezdése a 7. § d) pontja szerint módosított szöveg.
+[^7]: A 3. § (5) bekezdését az 1/2024. (II. 15.) MEKH rendelet 1. §-a iktatta be.
+[^8]: A 3. § (6) bekezdését az 1/2024. (II. 15.) MEKH rendelet 1. §-a iktatta be.
