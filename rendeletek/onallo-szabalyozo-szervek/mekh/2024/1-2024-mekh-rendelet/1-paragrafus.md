@@ -1,0 +1,7 @@
+## 1. Az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontjainak, valamint az almérők alkalmazásával történő mérés minimális követelményeinek meghatározásáról szóló 1/2020. (I. 16.) MEKH rendelet módosítása
+
+1. § Az energetikai szakreferens igénybevételére köteles gazdálkodó szervezetek által telepítendő almérők telepítési pontjainak, valamint az almérők alkalmazásával történő mérés minimális követelményeinek meghatározásáról szóló 1/2020. (I. 16.) MEKH rendelet 3. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+„(5) Az egy betáplálási ponton legalább 10 MW rendelkezésre álló teljesítménnyel rendelkező felhasználási helyen – a technológiai sor (2) bekezdés szerinti mérése mellett – a technológiai sorba állított, (1) bekezdés szerinti berendezésekre nem kell almérőt felszerelni, ha a felhasználó rendelkezik az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszerrel.
+
+(6) A bányászatról szóló törvény hatálya alá tartozó létesítményben – a technológiai sor (2) bekezdés szerinti mérése mellett – a technológiai sorba állított, (1) bekezdés szerinti berendezésekre nem kell almérőt felszerelni, ha a felhasználó rendelkezik az EN ISO 50001 szabványnak megfelelő, akkreditált tanúsító szervezet által tanúsított energiagazdálkodási rendszerrel, valamint e berendezések fogyasztási adatai származtatott formában, negyedóránkénti bontásban adatgyűjtő rendszerbe tárolva rendelkezésre állnak.”
