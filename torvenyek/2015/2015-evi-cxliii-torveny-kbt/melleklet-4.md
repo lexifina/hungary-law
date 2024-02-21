@@ -13,5 +13,3 @@ A 73. § (4) bekezdésében hivatkozott környezetvédelmi, szociális és munka
 – 138. számú ILO-egyezmény a foglalkoztatás alsó korhatáráról
 
 – 111. számú ILO-egyezmény a foglalkoztatásból és a foglalkozásból eredő hátrányos megkülönböztetésről
-
-– 100. számú ILO-egyezmény a férfi és a női munkaerőnek egyenlő értékű munka esetén járó egyenlő díjazásáról
