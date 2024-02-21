@@ -1,7 +1,3 @@
-1. melléklet az 1/2024. (II. 15.) MEKH rendelethez
+1. melléklet az 1/2024. (II. 15.) MEKH rendelethez[^7]
 
-„1. melléklet a 17/2020. (XII. 21.) MEKH rendelethez
-
-4X00604.pdf
-
-”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
