@@ -1,1 +1,3 @@
-1. § Hatályát veszti az Ukrajnából származó egyes mezőgazdasági termékek fuvarozásával kapcsolatos intézkedésekről szóló 130/2023. (IV. 18.) Korm. rendelet 1. mellékletében foglalt táblázat 8. sora.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
