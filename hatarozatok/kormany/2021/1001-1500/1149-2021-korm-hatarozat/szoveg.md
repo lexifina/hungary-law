@@ -1,6 +1,10 @@
 A Kormány
 
-1. egyetért azzal, hogy Magyarország hozzájáruljon a Beregszász városát ért környezeti károk kezelését célzó helyi infrastruktúra-fejlesztési törekvésekhez;
+1.[^1] egyetért azzal, hogy Magyarország hozzájáruljon
+
+a) a Beregszász városát ért környezeti károk kezelését célzó helyi infrastruktúra-fejlesztési törekvésekhez,
+
+b) Kárpátalján, Beregszász és Korláthelmec településeken infrastrukturális és humanitárius tevékenységek végrehajtásához;
 
 2. felhívja a külgazdasági és külügyminisztert, hogy gondoskodjon az 1. pont szerinti célkitűzéssel kapcsolatos kormányzati feladatok összehangolásáról, teljes körű előkészítéséről és koordinálásáról, valamint megvalósításáról;
 
@@ -13,3 +17,5 @@ Határidő: folyamatos
 Felelős: pénzügyminiszter
 
 Határidő: azonnal
+
+[^1]: Az 1. pont az 1035/2024. (II. 22.) Korm. határozat szövegével megállapított szöveg.
