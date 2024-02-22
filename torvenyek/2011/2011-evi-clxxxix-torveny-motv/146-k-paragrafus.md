@@ -1,0 +1,3 @@
+146/K. § (1) E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel (a továbbiakban: Módtv1.) megállapított 111. § (4a)–(4k) bekezdését első alkalommal a 2024. évi önkormányzati költségvetési rendelet megalkotása, módosítása során kell alkalmazni.
+
+(2) A Módtv1.-gyel megállapított 111. § (4a)–(4k) bekezdését akkor is alkalmazni kell, ha a képviselő-testület a Módtv1. hatályba lépését megelőzően elfogadott 2024. évi költségvetési rendeletét az államháztartásról szóló 2011. évi CXCV. törvény 25. § (1) bekezdés szerinti határidőig az államháztartásról szóló 2011. évi CXCV. törvény 23. § (2a) és (2b) bekezdés szerinti tartalommal nem módosítja.
