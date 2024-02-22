@@ -1,0 +1,1 @@
+A Kormány Magyarország Észak-atlanti Szerződés Szervezetében (a továbbiakban: NATO) viselt tagságából eredő segítségnyújtási kötelezettségének teljesítése, valamint a koronavírus-járvány okozta nemzetközi egészségügyi helyzet kockázatainak enyhítése érdekében
