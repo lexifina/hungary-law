@@ -321,27 +321,3 @@ Az eljáró hatóság egészeként kizárt járási (fővárosi kerületi) hivat
 | 7. | Heves | Gyöngyös |
 
 | 8. | Pétervására | Heves |
-
-11. Jász-Nagykun-Szolnok vármegye
-
-|  | A | B |
-
-| 1. | Járási hivatal | Helyettesítő járási hivatal |
-
-| 2. | Jászapáti | Jászberény |
-
-| 3. | Jászberény | Jászapáti |
-
-| 4. | Karcag | Kunhegyes |
-
-| 5. | Kunhegyes | Tiszafüred |
-
-| 6. | Kunszentmárton | Mezőtúr |
-
-| 7. | Mezőtúr | Kunszentmárton |
-
-| 8. | Tiszafüred | Kunhegyes |
-
-| 9. | Törökszentmiklós | Szolnok |
-
-| 10. | Szolnok | Törökszentmiklós |
