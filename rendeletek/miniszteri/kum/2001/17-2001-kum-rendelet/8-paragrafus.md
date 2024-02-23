@@ -2,9 +2,10 @@
 
 (2) A segítségnyújtás formáját, módját és terjedelmét az azt igénylő magyar állampolgár rászorultságának, valamint a fogadó ország viszonyainak mérlegelésével a konzuli tisztviselő határozza meg.
 
-(3) A kiskorú gyermek vagy várandós anya Magyarországra történő hazatérése esetén, a 149/1997. (IX. 10.) Korm. rendelet 167. §-ának rendelkezései szerint, fokozott gondossággal kell eljárni.
+(3)[^17] A kiskorú gyermek vagy várandós anya Magyarországra történő hazatérése esetén, a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 167. §-ának rendelkezései szerint, fokozott gondossággal kell eljárni.
 
-(4)[^17] A Tv. 5. § (7) bekezdése szerinti vissza nem térítendő anyagi támogatás a hazautazással közvetlenül összefüggő kiadások fedezésére, a hazautazás módjának igazolása esetén adható a bajbajutottnak. A vissza nem térítendő anyagi támogatás a hazatérési kölcsönnel egyidejűleg, illetve annak hiányában is nyújtható.
+(4)[^18] A Tv. 5. § (7) bekezdése szerinti vissza nem térítendő anyagi támogatás a hazautazással közvetlenül összefüggő kiadások fedezésére, a hazautazás módjának igazolása esetén adható a bajbajutottnak. A vissza nem térítendő anyagi támogatás a hazatérési kölcsönnel egyidejűleg, illetve annak hiányában is nyújtható.
 
 [^16]: A 8. § (1) bekezdése a 2/2016. (IV. 15.) KKM rendelet 14. § b) pontja szerint módosított szöveg.
-[^17]: A 8. § (4) bekezdését a 6/2018. (XII. 19.) KKM rendelet 4. §-a iktatta be.
+[^17]: A 8. § (3) bekezdése az 5/2024. (II. 22.) KKM rendelet 1. § e) pontja szerint módosított szöveg.
+[^18]: A 8. § (4) bekezdését a 6/2018. (XII. 19.) KKM rendelet 4. §-a iktatta be.
