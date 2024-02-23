@@ -2,6 +2,6 @@
 
 ## (Az Ebtv. 57–60. §-ához)
 
-34. §[^539]
+34. §[^538]
 
-[^539]: A Vhr. 34. §-át az 520/2013. (XII. 30.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
+[^538]: A Vhr. 34. §-át az 520/2013. (XII. 30.) Korm. rendelet 20. § e) pontja hatályon kívül helyezte.
