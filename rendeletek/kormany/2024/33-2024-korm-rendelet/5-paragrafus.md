@@ -1,0 +1,3 @@
+5. § (1) A projekttársaság felügyeli az 1. § (1) bekezdése szerinti feladatoknak a 4. § (3) bekezdése szerinti egészségügyi szolgáltató útján történő ellátását, valamint az egységes intézeti gyógyszertári szolgáltatás keretében beszerzett gyógyszerek kezelését és felhasználását.
+
+(2) Az (1) bekezdés szerinti jogkörében a projekttársaság az állami fenntartású fekvőbeteg-ellátást végző intézmény székhelyére és telephelyére beléphet, az egységes intézeti gyógyszertári szolgáltatáshoz kapcsolódó nyilvántartásokba és iratokba betekinthet, valamint az érintett egészségügyi dolgozóktól tájékoztatást kérhet.
