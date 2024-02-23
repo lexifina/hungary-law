@@ -30,6 +30,8 @@
 
 | Határidő: | azonnal |
 
-## 5. visszavonja a Startup Campus Budapest megvalósításáról a Millenáris Parkban című 1488/2017. (VII. 31.) Korm. határozatot.
+## 5.[^1]
 
 1. melléklet az 1036/2024. (II. 22.) Korm. határozathoz
+
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
