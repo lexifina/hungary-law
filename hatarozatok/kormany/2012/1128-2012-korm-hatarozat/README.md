@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-1128-30
 | 2015-10-13 | 2012-1128-30-22.3 | 1742/2015. (X. 13.) Korm. határozat |
 | 2022-11-03 | 2012-1128-30-22.4 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2024-01-01 | 2012-1128-30-22.5 | 1597/2023. (XII. 22.) Korm. határozat |
+| 2024-02-23 | 2012-1128-30-22.6 | 1597/2023. (XII. 22.) Korm. határozat |
