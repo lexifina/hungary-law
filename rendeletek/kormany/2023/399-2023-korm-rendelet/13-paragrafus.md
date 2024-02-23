@@ -12,7 +12,7 @@ a) 1. kivétel: azon fennmaradó földgázteljesítmények, amelyek a technológ
 
 b) 2. kivétel: a Hivatal által hatósági bizonyítvánnyal igazolt, nemzetgazdasági szempontból stratégiai jelentőségű felhasználói teljesítmények a kijelölést megalapozó tevékenység ellátásának fenntartásához szükséges mértékig,
 
-c)[^10] 3. kivétel: védett felhasználók közül az oktatási és a közigazgatási szolgáltatók, azaz a Get. 3. § 75. pont f)–i) alpontja szerinti felhasználási hely teljesítményei, beleértve a távhőtermelő oktatási és a közigazgatási szolgáltatók részére termelt teljesítményeit is, amelyek nem tartoznak az 5. kivételbe, továbbá az Alkotmánybíróság, a bíróságok szervezetéről és igazgatásáról 2011. évi CLXI. törvény 16. § (1) bekezdés a)–c) pontja szerinti bíróságok és az Országos Bírósági Hivatal,
+c)[^10] 3. kivétel: védett felhasználók közül az oktatási és a közigazgatási szolgáltatók, azaz a Get. 3. § 75. pont f)–i) alpontja szerinti felhasználási hely teljesítményei, beleértve a távhőtermelő oktatási és a közigazgatási szolgáltatók részére termelt teljesítményeit is, amelyek nem tartoznak az 5. kivételbe, továbbá az Alkotmánybíróság, a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 16. § (1) bekezdése szerinti bíróságok, az Országos Bírósági Hivatal és az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdése szerinti ügyészi szervek,
 
 d) 4. kivétel: olyan földgázteljesítmények, amelyek korlátozása jelentős környezeti károkozással vagy egészségügyi kockázattal járna, továbbá a környezetet súlyosan veszélyeztető anyagnak a szabadba kerülését eredményezné, a veszélyeztetettség elkerüléséhez szükséges földgázvételezés mértékéig, továbbá az alapvető országos energiainfrastruktúrák üzemeltetéséhez kapcsolódó rendszerüzemeltetők földgázteljesítményei, a közellátást biztosító felhasználók földgázteljesítményei a rendszerüzemeltetéshez, illetve a közellátáshoz szükséges mértékig, valamint veszélyhelyzetben alapvető szolgáltatásokat végző felhasználók és a különleges jogrendben kijelölt vagy honvédelmi feladatok ellátására kijelölt felhasználók földgázteljesítményei,
 
@@ -51,6 +51,6 @@ kiadott, egy évnél nem régebbi hatósági bizonyítvánnyal igazolja, amely, 
 [^7]: A 13. § (1) bekezdés nyitó szövegrésze a 679/2023. (XII. 29.) Korm. rendelet 4. § 7. pontja szerint módosított szöveg.
 [^8]: A 13. § (1) bekezdés a) pontja a 679/2023. (XII. 29.) Korm. rendelet 4. § 8. pontja szerint módosított szöveg.
 [^9]: A 13. § (1) bekezdés b) pontja a 679/2023. (XII. 29.) Korm. rendelet 4. § 8. pontja szerint módosított szöveg.
-[^10]: A 13. § (2) bekezdés c) pontja a 679/2023. (XII. 29.) Korm. rendelet 4. § 9. pontja szerint módosított szöveg.
+[^10]: A 13. § (2) bekezdés c) pontja a 28/2024. (II. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: [A 13. § (4) bekezdésében a 679/2023. (XII. 29.) Korm. rendelet 4. § 10. pontja által elrendelt módosítás, amely szerint a „károkozással” szövegrész helyett a „károsodással” szöveggel lép hatályba, nem vezethető át.]
 [^12]: A 13. § (5) bekezdés a) pontja a 679/2023. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
