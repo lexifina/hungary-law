@@ -1,0 +1,1 @@
+Az élelmiszer-infláció csökkentése érdekében szükséges intézkedésekről szóló 1/2024. (I. 9.) Korm. rendelet 6. §-ában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 18. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
