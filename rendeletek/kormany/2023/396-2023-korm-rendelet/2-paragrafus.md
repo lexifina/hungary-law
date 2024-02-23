@@ -23,3 +23,13 @@ c) nemzetközi szervezet által, illetve nemzetközi szerződés vagy megállapo
 (9) E rendelet hatálya nem terjed ki a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet szerinti minősített beszerzésekre, valamint az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 225/2016. (VII. 29.) Korm. rendelet szerinti beszerzésekre.
 
 (10) E rendelet hatálya – a 20. § és a 22. § (2) bekezdése kivételével – nem terjed ki a közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaságokra.
+
+(11)[^2] E rendelet hatálya nem terjed ki
+
+a) a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, átképzéséről, valamint a közigazgatási vezetőképzéséről szóló 338/2019. (XII. 23.) Korm. rendelet 14/A. §-a szerinti, valamint
+
+b) a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 568/2022. (XII. 23.) Korm. rendelet 26/A. §-a szerinti
+
+képzésre.
+
+[^2]: A 2. § (11) bekezdését a 29/2024. (II. 22.) Korm. rendelet 8. §-a iktatta be.
