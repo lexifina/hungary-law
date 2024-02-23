@@ -1,0 +1,3 @@
+## „c) 3. kivétel: védett felhasználók közül az oktatási és a közigazgatási szolgáltatók, azaz a Get. 3. § 75. pont f)–i) alpontja szerinti felhasználási hely teljesítményei, beleértve a távhőtermelő oktatási és a közigazgatási szolgáltatók részére termelt teljesítményeit is, amelyek nem tartoznak az 5. kivételbe, továbbá az Alkotmánybíróság, a bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 16. § (1) bekezdése szerinti bíróságok, az Országos Bírósági Hivatal és az ügyészségről szóló 2011. évi CLXIII. törvény 8. § (1) bekezdése szerinti ügyészi szervek,”
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
