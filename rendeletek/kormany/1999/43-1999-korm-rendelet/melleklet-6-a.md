@@ -34,11 +34,11 @@
 
 |  | Fogászati ellátás |  |
 
-|  | Praxisfinanszírozás | 38 950,7 |
+|  |  | Praxisfinanszírozás | 38 950,7 |
 
-|  | Indikátorrendszer finanszírozás | 3 543,4 |
+|  |  | Indikátorrendszer finanszírozás | 3 543,4 |
 
-|  | Fogorvosi, szakdolgozói bértámogatás | 45 469,1 |
+|  |  | Fogorvosi, szakdolgozói bértámogatás | 45 469,1 |
 
 | 3. | Fogászati ellátás összesen | 87 963,2 |
 
@@ -70,7 +70,7 @@
 
 | 8. | Mentés | 45 560,5 |
 
-| 9. | Laboratóriumi ellátás | 24 266,1 |
+| 9. | Laboratóriumi ellátás | 24 716,1 |
 
 |  | Összevont szakellátás |  |
 
@@ -82,32 +82,32 @@
 
 |  |  | Molekuláris diagnosztikai (PCR) ellátás | 7 661,9 |
 
-|  |  | Fekvőbeteg-szakellátás | 644 249,6 |
+|  |  | Fekvőbeteg-szakellátás | 644 795,1 |
 
-|  |  | aktív fekvőbeteg-szakellátás | 551 341,0 |
+|  |  |  | aktív fekvőbeteg-szakellátás | 551 886,5 |
 
-|  |  | krónikus fekvőbeteg-szakellátás | 85 981,0 |
+|  |  |  | krónikus fekvőbeteg-szakellátás | 85 981,0 |
 
-|  |  | fogvatartottak egészségügyi ellátása | 1 927,6 |
+|  |  |  | fogvatartottak egészségügyi ellátása | 1 927,6 |
 
-|  |  | várólista csökkentés | 5 000,0 |
+|  |  |  | várólista csökkentés | 5 000,0 |
 
 |  |  | Extrafinanszírozás | 1 000,0 |
 
 |  |  | Speciális finanszírozású szakellátás | 49 893,4 |
 
-| 10. | Összevont szakellátás összesen | 903 608,3 |
+| 10. | Összevont szakellátás összesen | 904 153,8 |
 
-| 12. | Gyógyító-megelőző ellátás céltartalék | 7 281,1 |
+| 12. | Gyógyító-megelőző ellátás céltartalék | 6 735,6 |
 
-| 13. | Finanszírozási rendszer támogatása | 31 000,0 |
+| 13. | Finanszírozási rendszer támogatása | 30 550,0 |
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 129 659,8 |
 
 | ÖSSZESEN | 2 552 909,8 |
 
-6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^628]
+6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^629]
 
 Ambuláns adatlap
 
-[^628]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, az 507/2017. (XII. 29.) Korm. rendelet 22. § (2) bekezdése, az 557/2020. (XII. 4.) Korm. rendelet 6. § (2) bekezdése, a 277/2021. V. 26.) Korm. rendelet 16. § (2) bekezdése, a 286/2023. (VI. 30.) Korm. rendelet 13. § (1) bekezdése, a 395/2023. (VIII. 24.) Korm. rendelet 2. § (1) bekezdése, a 659/2023. (XII. 28.) Korm. rendelet 19. § (1) bekezdése és 21. § a) és b) pontja szerint módosított szöveg.
+[^629]: A 6/A. számú melléklet a 318/2006. (XII. 23.) Korm. rendelet 24. § (1) bekezdésével megállapított, a 4/2007. (I. 22.) Korm. rendelet 7. §-a, a 120/2007. (V. 31.) Korm. rendelet 5. § (1) bekezdése, a 364/2007. (XII. 23.) Korm. rendelet 16. § (14) bekezdése, a 16/2008. (I. 31.) Korm. rendelet 4. § (7) bekezdése, a 65/2008. (III. 29.) Korm. rendelet 3. § d) pontja, a 79/2008. (IV. 3.) Korm. rendelet 5. § (6) bekezdése, a 234/2008. (IX. 23.) Korm. rendelet 3. § (2) bekezdés a) pontja, a 360/2008. (XII. 31.) Korm. rendelet 16. § (6) bekezdésének f) pontja, az 58/2009. (III. 18.) Korm. rendelet 16. § (2) bekezdése, a 141/2009. (VII. 3.) Korm. rendelet 2. §-a, a 166/2010. (V. 11.) Korm. rendelet 7. § (2) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 13. § (2) bekezdése és 19. § (1) bekezdés e) pontja, a 73/2011. (IV. 29.) Korm. rendelet 6. § (1) bekezdése, a 106/2011. (VI. 30.) Korm. rendelet 7. § (1) bekezdése, a 139/2011. (VII. 21.) Korm. rendelet 19. § (1) bekezdése, a 325/2011. (XII. 28.) Korm. rendelet 26. § (1) bekezdés i) pontja, a 447/2012. (XII. 29.) Korm. rendelet 27. § (2) bekezdése, a 339/2013. (IX. 25.) Korm. rendelet 12. § (1) bekezdése, az 519/2013. (XII. 20.) Korm. rendelet 10. § (2) bekezdése, a 124/2015. (V. 26.) Korm. rendelet 8. § a) pontja, a 413/2015. (XII. 23.) Korm. rendelet 19. § g) pontja és 20. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 19. § (1) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 34. § 3. pontja, az 507/2017. (XII. 29.) Korm. rendelet 22. § (2) bekezdése, az 557/2020. (XII. 4.) Korm. rendelet 6. § (2) bekezdése, a 277/2021. V. 26.) Korm. rendelet 16. § (2) bekezdése, a 286/2023. (VI. 30.) Korm. rendelet 13. § (1) bekezdése, a 395/2023. (VIII. 24.) Korm. rendelet 2. § (1) bekezdése, a 659/2023. (XII. 28.) Korm. rendelet 19. § (1) bekezdése és 21. § a) és b) pontja szerint módosított szöveg.
