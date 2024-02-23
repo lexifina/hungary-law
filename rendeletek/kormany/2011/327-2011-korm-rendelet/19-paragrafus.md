@@ -1,6 +1,6 @@
 ## 9. A rehabilitációs szolgáltatások
 
-19. §[^88] (1) A rehabilitációs szolgáltatások a megváltozott munkaképességű személyeknek nyújtott rehabilitációs célú orvosi és szociális szolgáltatások, valamint a megváltozott munkaképességű személyeknek nyújtott foglalkozási rehabilitációs szolgáltatások.
+19. §[^91] (1) A rehabilitációs szolgáltatások a megváltozott munkaképességű személyeknek nyújtott rehabilitációs célú orvosi és szociális szolgáltatások, valamint a megváltozott munkaképességű személyeknek nyújtott foglalkozási rehabilitációs szolgáltatások.
 
 (2) Az orvosi rehabilitációs szolgáltatások az egészségügyről szóló 1997. évi CLIV. törvény 100. § (4) és (5) bekezdésében foglalt szolgáltatások, figyelembe véve az Ebtv. által előírt, az orvosi rehabilitáció keretében nyújtható szolgáltatásokat.
 
@@ -10,7 +10,7 @@
 
 (5) A foglalkozási rehabilitációs szolgáltatások formáit a 2. melléklet tartalmazza.
 
-(6)[^89] A foglalkozási rehabilitációs szolgáltatások koordinációjával, fejlesztésével kapcsolatos feladatokat az NSZI látja el, ennek keretében a foglalkozási rehabilitációval összefüggő oktatási – ide nem értve az 1. § (7) bekezdése szerinti tevékenységet –, innovációs, tárolási, logisztikai, nyilvántartási és informatikai tevékenységet is végez.
+(6)[^92] A foglalkozási rehabilitációs szolgáltatások koordinációjával, fejlesztésével kapcsolatos feladatokat az NSZI látja el, ennek keretében a foglalkozási rehabilitációval összefüggő oktatási – ide nem értve az 1. § (7) bekezdése szerinti tevékenységet –, innovációs, tárolási, logisztikai, nyilvántartási és informatikai tevékenységet is végez.
 
-[^88]: A 19. § a 117/2016. (VI. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^89]: A 19. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (8) bekezdése iktatta be, szövege a 610/2020. (XII. 18.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^91]: A 19. § a 117/2016. (VI. 6.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^92]: A 19. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 187. § (8) bekezdése iktatta be, szövege a 610/2020. (XII. 18.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.

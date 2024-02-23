@@ -1,10 +1,10 @@
-7/B. §[^50] (1)[^51] A kivételes rokkantsági ellátás megállapítására rendelkezésre álló keretösszeg megosztásáról a szociálpolitikáért felelős miniszter dönt.
+7/B. §[^53] (1)[^54] A kivételes rokkantsági ellátás megállapítására rendelkezésre álló keretösszeg megosztásáról a szociálpolitikáért felelős miniszter dönt.
 
-(2)[^52] A szociálpolitikáért felelős miniszter az (1) bekezdésben meghatározott döntéséről a tárgyévet megelőző év november 30-áig tájékoztatja a rehabilitációs hatóság vezetőjét. A rehabilitációs hatóság a szociálpolitikáért felelős miniszter által meghatározott összeget nem lépheti túl.
+(2)[^55] A szociálpolitikáért felelős miniszter az (1) bekezdésben meghatározott döntéséről a tárgyévet megelőző év november 30-áig tájékoztatja a rehabilitációs hatóság vezetőjét. A rehabilitációs hatóság a szociálpolitikáért felelős miniszter által meghatározott összeget nem lépheti túl.
 
-(3)[^53] A kivételes rokkantsági ellátás megállapítására rendelkezésre álló keretösszeg felhasználásának figyelemmel kísérése céljából a rehabilitációs hatóság vezetője minden naptári negyedévet követő hónap 10-éig beszámolót készít az adott időszakban hozott végleges döntésekről a szociálpolitikáért felelős miniszter részére.
+(3)[^56] A kivételes rokkantsági ellátás megállapítására rendelkezésre álló keretösszeg felhasználásának figyelemmel kísérése céljából a rehabilitációs hatóság vezetője minden naptári negyedévet követő hónap 10-éig beszámolót készít az adott időszakban hozott végleges döntésekről a szociálpolitikáért felelős miniszter részére.
 
-[^50]: A 7/B. §-t a 402/2017. (XII. 15.) Korm. rendelet 10. §-a iktatta be.
-[^51]: A 7/B. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
-[^52]: A 7/B. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
-[^53]: A 7/B. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^53]: A 7/B. §-t a 402/2017. (XII. 15.) Korm. rendelet 10. §-a iktatta be.
+[^54]: A 7/B. § (1) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
+[^55]: A 7/B. § (2) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
+[^56]: A 7/B. § (3) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
