@@ -1,10 +1,10 @@
-## 29/D. [^111] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
+## 29/D. [^112] Az egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetmény
 
 48/D. § (1) Az állomány tagja egészségügyi dolgozók honvédségi bérkompenzációja miatti kiegészítő illetményre jogosult, ha
 
 a) az egészségügyi munkakörcsaládba tartozó munkaköri azonosító kódú szolgálati beosztást tölt be,
 
-b)[^112] nem tartozik a 48. § (1) bekezdése, a 48/B. § (1) bekezdése vagy a 62/A. § (1) bekezdése hatálya alá, és
+b)[^113] nem tartozik a 48. § (1) bekezdése, a 48/B. § (1) bekezdése vagy a 62/A. § (1) bekezdése hatálya alá, és
 
 c) szolgálati beosztásából eredő feladatvégzése során egészségügyi tevékenységet végez.
 
@@ -16,33 +16,33 @@ b) a Hjt. 65. és 66. §-a szerinti felmentési időre, vagy
 
 c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
 
-(3)[^113] Az (1) bekezdés alapján megállapítandó kiegészítő illetmény havi összegét
+(3)[^114] Az (1) bekezdés alapján megállapítandó kiegészítő illetmény havi összegét
 
 a) a betöltött szolgálati beosztás rendszeresített rendfokozatának alapulvételével, egészségügyi munkakör-csoportok szerinti bontásban a 6. mellékletben foglalt táblázat B–E oszlopa szerinti összeg,
 
-b)[^114] a Korm. R. 2016. december 31-én hatályos 3. melléklete szerinti – a betöltött szolgálati beosztás beazonosított közalkalmazotti besorolása alapján figyelembe vett – bérkiegészítés,
+b)[^115] a Korm. R. 2016. december 31-én hatályos 3. melléklete szerinti – a betöltött szolgálati beosztás beazonosított közalkalmazotti besorolása alapján figyelembe vett – bérkiegészítés,
 
-c)[^115] a Korm. R. 4–8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2017. november 1-jei változásából eredő növekmény,
+c)[^116] a Korm. R. 4–8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2017. november 1-jei változásából eredő növekmény,
 
-d)[^116] a Korm. R.
+d)[^117] a Korm. R.
 
 da) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdés hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2019. július 1-jei változásából eredő növekmény,
 
-db)[^117] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2019. július 1-jei változásából eredő növekmény,
+db)[^118] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2019. július 1-jei változásából eredő növekmény,
 
-e)[^118] a Korm. R.
+e)[^119] a Korm. R.
 
 ea) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdése hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2020. január 1-jei változásából eredő növekmény,
 
-eb)[^119] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekménytábla szerinti összeg 2020. január 1-jei változásából eredő növekmény,
+eb)[^120] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekménytábla szerinti összeg 2020. január 1-jei változásából eredő növekmény,
 
-f)[^120] a Korm. R.
+f)[^121] a Korm. R.
 
 fa) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdése hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2020. november 1-jei változásából eredő növekmény,
 
-fb)[^121] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2020. november 1-jei változásából eredő növekmény és
+fb)[^122] 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány esetében a Korm. R. 8. melléklete szerinti garantált illetmény- vagy bérnövekmény-tábla szerinti összeg 2020. november 1-jei változásából eredő növekmény és
 
-g)[^122] a Korm. R.
+g)[^123] a Korm. R.
 
 ga) 2/A. § (4) bekezdése szerinti egészségügyi munkakör-csoportba sorolt beosztást betöltő, az (1) bekezdés hatálya alá tartozó állomány és a Korm. R. 2. § (1b) bekezdése hatálya alá nem tartozó védőnők esetében a Korm. R. 7. melléklete szerinti garantált illetmény- vagy bértábla szerinti összeg 2022. január 1-jei változásából eredő növekmény,
 
@@ -50,15 +50,15 @@ gb) 2/A. § (5) bekezdése szerinti egészségügyi munkakör-csoportba sorolt b
 
 együttes összege határozza meg.
 
-(3a)[^123] A (3) bekezdés c) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
+(3a)[^124] A (3) bekezdés c) pontjának végrehajtása során 2017. november 1-jei illetmény-növekményként az orvosok és fogorvosok esetében havi bruttó 50 000 Ft-ot, a gyógyszerészek esetében a Korm. R. 5. mellékletében a H fizetési osztályhoz tartozó összegeket kell figyelembe venni.
 
-(4)[^124] A (3) bekezdés alkalmazásakor a 48. § (1a) bekezdése, valamint a Korm. R. 1. §-a figyelembevételével kell eljárni.
+(4)[^125] A (3) bekezdés alkalmazásakor a 48. § (1a) bekezdése, valamint a Korm. R. 1. §-a figyelembevételével kell eljárni.
 
 (5) Ha az állomány (1) bekezdés szerinti tagjának beazonosított közalkalmazotti besorolása változik, a részére korábban az (1) bekezdés alapján kiegészítő illetmény címén megállapított összeget a változás napjával felül kell vizsgálni.
 
 (6) Ha az állomány (1) bekezdés szerinti tagja kikerül az (1) bekezdés hatálya alá tartozó személyi körből, akkor az (1) bekezdés szerinti kiegészítő illetményre a továbbiakban már nem lesz jogosult.
 
-(7)[^125] A (3) bekezdés 2020. december 31-ét követő végrehajtása során a Korm. R.
+(7)[^126] A (3) bekezdés 2020. december 31-ét követő végrehajtása során a Korm. R.
 
 a) 2/A. § (4) bekezdése szerinti állomány alatt a Korm. R. 2/B. § d) pontja szerinti egészségügyi szakdolgozót,
 
@@ -68,18 +68,18 @@ c) 2/A. § (5) bekezdése szerinti állomány alatt a Korm. R. 2/B. § e) pontja
 
 kell érteni.
 
-[^111]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
-[^112]: A 48/D. § (1) bekezdés b) pontja a 13/2021. (VII. 15.) HM rendelet 30. § d) pontja szerint módosított szöveg.
-[^113]: A 48/D. § (3) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^114]: A 48/D. § (3) bekezdés b) pontja a 10/2019. (X. 4.) HM rendelet 4. § c) pontja szerint módosított szöveg.
-[^115]: A 48/D. § (3) bekezdés c) pontja az 1/2020. (I. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
-[^116]: A 48/D. § (3) bekezdés d) pontját a 10/2019. (X. 4.) HM rendelet 2. §-a iktatta be.
-[^117]: A 48/D. § (3) bekezdés d) pont db) alpontja az 1/2020. (I. 17.) HM rendelet 9. § c) pontja, a 7/2021. (I. 29.) HM rendelet 6. § a) pontja szerint módosított szöveg.
-[^118]: A 48/D. § (3) bekezdés e) pontját az 1/2020. (I. 17.) HM rendelet 2. §-a iktatta be.
-[^119]: A 48/D. § (3) bekezdés e) pont eb) alpontja a 4/2022. (II. 17.) HM rendelet 22. § d) pontja szerint módosított szöveg.
-[^120]: A 48/D. § (3) bekezdés f) pontját a 7/2021. (I. 29.) HM rendelet 2. §-a iktatta be.
-[^121]: A 48/D. § (3) bekezdés f) pont fb) alpontja a 4/2022. (II. 17.) HM rendelet 22. § e) pontja szerint módosított szöveg.
-[^122]: A 48/D. § (3) bekezdés g) pontját a 4/2022. (II. 17.) HM rendelet 18. §-a iktatta be.
-[^123]: A 48/D. § (3a) bekezdését a 17/2017. (XII. 18.) HM rendelet 4. § (2) bekezdése iktatta be.
-[^124]: A 48/D. § (4) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^125]: A 48/D. § (7) bekezdését a 13/2021. (VII. 15.) HM rendelet 24. §-a iktatta be.
+[^112]: A 29/D. alcímet (48/D. §) a 25/2016. (XII. 22.) HM rendelet 83. §-a iktatta be.
+[^113]: A 48/D. § (1) bekezdés b) pontja a 13/2021. (VII. 15.) HM rendelet 30. § d) pontja szerint módosított szöveg.
+[^114]: A 48/D. § (3) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^115]: A 48/D. § (3) bekezdés b) pontja a 10/2019. (X. 4.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^116]: A 48/D. § (3) bekezdés c) pontja az 1/2020. (I. 17.) HM rendelet 9. § b) pontja szerint módosított szöveg.
+[^117]: A 48/D. § (3) bekezdés d) pontját a 10/2019. (X. 4.) HM rendelet 2. §-a iktatta be.
+[^118]: A 48/D. § (3) bekezdés d) pont db) alpontja az 1/2020. (I. 17.) HM rendelet 9. § c) pontja, a 7/2021. (I. 29.) HM rendelet 6. § a) pontja szerint módosított szöveg.
+[^119]: A 48/D. § (3) bekezdés e) pontját az 1/2020. (I. 17.) HM rendelet 2. §-a iktatta be.
+[^120]: A 48/D. § (3) bekezdés e) pont eb) alpontja a 4/2022. (II. 17.) HM rendelet 22. § d) pontja szerint módosított szöveg.
+[^121]: A 48/D. § (3) bekezdés f) pontját a 7/2021. (I. 29.) HM rendelet 2. §-a iktatta be.
+[^122]: A 48/D. § (3) bekezdés f) pont fb) alpontja a 4/2022. (II. 17.) HM rendelet 22. § e) pontja szerint módosított szöveg.
+[^123]: A 48/D. § (3) bekezdés g) pontját a 4/2022. (II. 17.) HM rendelet 18. §-a iktatta be.
+[^124]: A 48/D. § (3a) bekezdését a 17/2017. (XII. 18.) HM rendelet 4. § (2) bekezdése iktatta be.
+[^125]: A 48/D. § (4) bekezdése a 17/2017. (XII. 18.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^126]: A 48/D. § (7) bekezdését a 13/2021. (VII. 15.) HM rendelet 24. §-a iktatta be.

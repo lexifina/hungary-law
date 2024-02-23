@@ -6,21 +6,21 @@
 
 (3) Az alapilletmény szorzószáma
 
-a)[^204] az első évfolyamon 7,45,
+a)[^210] az első évfolyamon 8,27,
 
-b)[^205] a második évfolyamon 7,82,
+b)[^211] a második évfolyamon 8,68,
 
-c)[^206] a harmadik évfolyamon 8,21,
+c)[^212] a harmadik évfolyamon 9,11,
 
-d)[^207] a negyedik évfolyamon 8,58.
+d)[^213] a negyedik évfolyamon 9,52.
 
 (4) A honvéd tisztjelölt Hjt. 230. § (1) bekezdésében meghatározott tanulmányi díjának összege – az első évfolyam első szemesztere kivételével – megegyezik a honvédelmi illetményalap és az (5) bekezdés szerinti szorzószám szorzatával. Az első évfolyamot megkezdő honvéd tisztjelölt az első szemeszterben tanulmányi díjra nem jogosult.
 
 (5) A tanulmányi díj szorzószáma az előző szemeszterben elért – nem a korrigált kreditindex szerint meghatározott – tanulmányi átlag figyelembevételével
 
-a)[^208] 3,51–4,50 tanulmányi átlag esetén 0,44,
+a)[^214] 3,51–4,50 tanulmányi átlag esetén 0,49,
 
-b)[^209] 4,50 tanulmányi átlag fölött 0,89.
+b)[^215] 4,50 tanulmányi átlag fölött 0,99.
 
 (6) A honvéd tisztjelölt
 
@@ -32,9 +32,9 @@ megkezdését megelőző napig jogosult.
 
 (7) A (6) bekezdés b) pontjától eltérően a honvéd tisztjelölt tanulmányi díjra a nyolcadik szemeszter esetén a Hjt. 225. § (1) bekezdése szerinti szerződéses szolgálati viszonya megszűnésének napjáig jogosult.
 
-[^204]: A 74. § (3) bekezdés a) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § f) pontja szerint módosított szöveg.
-[^205]: A 74. § (3) bekezdés b) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § g) pontja szerint módosított szöveg.
-[^206]: A 74. § (3) bekezdés c) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § h) pontja szerint módosított szöveg.
-[^207]: A 74. § (3) bekezdés d) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § i) pontja szerint módosított szöveg.
-[^208]: A 74. § (5) bekezdés a) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § j) pontja szerint módosított szöveg.
-[^209]: A 74. § (5) bekezdés b) pontja a 12/2022. (VIII. 31.) HM rendelet 5. § k) pontja szerint módosított szöveg.
+[^210]: A 76. § (3) bekezdés a) pontja az 1/2024. (II. 22.) HM rendelet 4. § f) pontja szerint módosított szöveg.
+[^211]: A 76. § (3) bekezdés b) pontja az 1/2024. (II. 22.) HM rendelet 4. § g) pontja szerint módosított szöveg.
+[^212]: A 76. § (3) bekezdés c) pontja az 1/2024. (II. 22.) HM rendelet 4. § h) pontja szerint módosított szöveg.
+[^213]: A 76. § (3) bekezdés d) pontja az 1/2024. (II. 22.) HM rendelet 4. § i) pontja szerint módosított szöveg.
+[^214]: A 76. § (5) bekezdés a) pontja az 1/2024. (II. 22.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^215]: A 76. § (5) bekezdés b) pontja az 1/2024. (II. 22.) HM rendelet 4. § k) pontja szerint módosított szöveg.

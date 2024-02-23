@@ -1,6 +1,6 @@
-112. §[^258] (1) E rendeletnek a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 20/2023. (IX. 12.) HM rendelettel (a továbbiakban: Módr15.) megállapított 48/B. § (1a) bekezdés h) pontját 2023. július 1-jétől kell alkalmazni.
+112. §[^264] (1) E rendeletnek a honvédek illetményéről és illetményjellegű juttatásairól szóló 7/2015. (VI. 22.) HM rendelet módosításáról szóló 20/2023. (IX. 12.) HM rendelettel (a továbbiakban: Módr15.) megállapított 48/B. § (1a) bekezdés h) pontját 2023. július 1-jétől kell alkalmazni.
 
-(2) A Módr15.-tel megállapított 48/B. § (1a) bekezdés h) pontja alapján 2023. július 1. és a Módr15. hatálybalépése közötti időszakra járó illetménynövekményt legkésőbb a Módr15. hatálybalépését[^259] követő hónapra járó illetménnyel együtt kell a jogosultak részére folyósítani.
+(2) A Módr15.-tel megállapított 48/B. § (1a) bekezdés h) pontja alapján 2023. július 1. és a Módr15. hatálybalépése közötti időszakra járó illetménynövekményt legkésőbb a Módr15. hatálybalépését[^265] követő hónapra járó illetménnyel együtt kell a jogosultak részére folyósítani.
 
-[^258]: A 112. §-t a 20/2023. (IX. 12.) HM rendelet 2. §-a iktatta be.
-[^259]: A hatálybalépés időpontja 2023. szeptember 13.
+[^264]: A 112. §-t a 20/2023. (IX. 12.) HM rendelet 2. §-a iktatta be.
+[^265]: A hatálybalépés időpontja 2023. szeptember 13.

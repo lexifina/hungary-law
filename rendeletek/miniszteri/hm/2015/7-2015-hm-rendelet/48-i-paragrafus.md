@@ -1,8 +1,8 @@
-## 29/I. [^132] Szolgálati kiegészítő illetmény
+## 29/I. [^133] Szolgálati kiegészítő illetmény
 
 48/I. § (1) Az állomány tagja szolgálati viszonyának ideje alatt havonta szolgálati kiegészítő illetményre jogosult.
 
-(2) A szolgálati kiegészítő illetmény összege – a szolgálati kiegészítő illetmény kivételével – a távolléti díjba tartozó illetményelemek együttes összegének
+(2)[^134] A szolgálati kiegészítő illetmény összege – a szolgálati kiegészítő illetmény és a haderőfejlesztési kiegészítő illetmény kivételével – a távolléti díjba tartozó illetményelemek együttes összegének
 
 a) tiszt állománycsoportba tartozó esetében: 25%-a,
 
@@ -10,22 +10,11 @@ b) altiszt állománycsoportba tartozó esetében: 26,5%-a,
 
 c) legénységi állománycsoportba tartozó esetében: 28%-a.
 
-(3) Ha a (2) bekezdés alapján számított kiegészítő illetményt is figyelembe véve a távolléti díj összege nem éri el
+(3)[^135]
 
-a) a tiszt állománycsoportba tartozó esetében az 567 858 forintot,
+(4)[^136]
 
-b) az altiszt állománycsoportba tartozó esetében a 474 456 forintot,
-
-c) a legénységi állománycsoportba tartozó esetében a 399 180 forintot,
-
-a szolgálati kiegészítő illetmény összege a különbözettel növelt összegben jár.
-
-(4) Nem alkalmazható a (3) bekezdés
-
-a) a Hjt. 61. § (1) bekezdése szerinti időtartamra,
-
-b) a Hjt. 65. és 66. §-a szerinti felmentési időre vagy
-
-c) a Hjt. 147. § (1) bekezdés d) pontja szerinti fenyítés időtartamára.
-
-[^132]: A 29/I. alcímet (48/I. §) a 12/2022. (VIII. 31.) HM rendelet 2. §-a iktatta be.
+[^133]: A 29/I. alcímet (48/I. §) a 12/2022. (VIII. 31.) HM rendelet 2. §-a iktatta be.
+[^134]: A 48/I. § (2) bekezdés nyitó szövegrésze az 1/2024. (II. 22.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^135]: A 48/I. § (3) bekezdését az 1/2024. (II. 22.) HM rendelet 5. §-a hatályon kívül helyezte.
+[^136]: A 48/I. § (4) bekezdését az 1/2024. (II. 22.) HM rendelet 5. §-a hatályon kívül helyezte.
