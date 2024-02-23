@@ -19,3 +19,7 @@ f) a mentori és tehetséggondozási rendszer működtetése.
 (4) A személyügyi központ a (2) bekezdésben meghatározott feladat ellátása során a módszertani és rendszerhasználati felhasználói támogatás érdekében szakrendszerenként útmutatót és felhasználói kézikönyvet ad ki.
 
 (5) A személyügyi központ vezetője adatvédelmi szabályzatban határozza meg az iratok, adatok kezelésének adatvédelmi, adatbiztonsági szabályait.
+
+(6)[^2] A személyügyi központ a kormányzati igazgatási szervek foglalkoztatottai számára képzéseket, továbbképzéseket szervezhet.
+
+[^2]: A 4. § (6) bekezdését a 29/2024. (II. 22.) Korm. rendelet 4. §-a iktatta be.
