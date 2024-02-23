@@ -1,4 +1,4 @@
-## 9/D. [^58] A 2022. évi bérintézkedésekhez kapcsolódó támogatás
+## 9/D. [^59] A 2022. évi bérintézkedésekhez kapcsolódó támogatás
 
 29/C. § (1) 2022. január–december hónapokra a 2022. évi minimálbér és garantált bérminimum kompenzációja, a bölcsőde, mini bölcsőde esetében a minimálbér és garantált bérminimum emelés mellett a 20%-os béremelés ellentételezése céljából kiegészítő támogatásra (a továbbiakban: 2022. évi bérkompenzáció) az a fenntartó jogosult, amelynek a 2022. évre a 4. melléklet szerinti szolgáltatás után a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv4.) alapján támogatást állapítottak meg.
 
@@ -30,4 +30,4 @@ kell alkalmazni.
 
 (9) A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka és a Biztos Kezdet Gyerekházak esetében a bérkompenzáció biztosítására a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendeletben foglaltaknak megfelelően került sor.
 
-[^58]: A 9/D. alcímet (29/C. §) a 11/2022. (I. 14.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A 9/D. alcímet (29/C. §) a 11/2022. (I. 14.) Korm. rendelet 1. §-a iktatta be.

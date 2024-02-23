@@ -1,4 +1,4 @@
-## 9/E.[^59] A 2022. évi rezsikompenzáció
+## 9/E.[^60] A 2022. évi rezsikompenzáció
 
 29/D. § (1) A 2022. évben – a villamos energia és a földgáz nagykereskedelmi árának jelentős mértékű emelkedése miatt, a költségnövekedés ellentételezése céljából – kiegészítő támogatásra (a továbbiakban: 2022. évi rezsikompenzáció) jogosult az az egyházi fenntartó, amelynek a 2022. évre a (2) bekezdés a)–d) pontja szerinti szolgáltatások után, a Kvtv4. alapján működési támogatást állapítottak meg.
 
@@ -22,4 +22,4 @@ d) a Kvtv4. 9. melléklet II. rész 2.5. pontjában foglalt táblázat 1–25., 
 
 (7) A 2022. évi rezsikompenzációra az (1)–(6) bekezdésben nem szabályozott kérdésekben a jogosultság alapjául szolgáló támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^59]: A 9/E. alcímet (29/D. §-t) az 538/2022. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^60]: A 9/E. alcímet (29/D. §-t) az 538/2022. (XII. 21.) Korm. rendelet 1. §-a iktatta be.

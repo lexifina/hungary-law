@@ -1,4 +1,4 @@
-## 9/G.[^61] A 2023. évi bérintézkedésekhez kapcsolódó támogatás
+## 9/G.[^62] A 2023. évi bérintézkedésekhez kapcsolódó támogatás
 
 29/F. § (1) 2023. január–december hónapokra a 2023. évi minimálbér és garantált bérminimum kompenzációja céljából, továbbá a pedagógusok bérfejlesztéséhez nyújtott 2023. évi kiegészítő támogatásra (a továbbiakban: 2023. évi bérkompenzáció) az a fenntartó jogosult, amelynek a 2023. évre az 5. melléklet szerinti szolgáltatás után a Kvtv2023. alapján támogatást állapítottak meg.
 
@@ -30,4 +30,4 @@ kell alkalmazni.
 
 (9) A szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás, az utcai szociális munka és a Biztos Kezdet Gyerekházak esetében a bérkompenzáció biztosítására a támogató szolgáltatás és a közösségi ellátások finanszírozásának rendjéről szóló 191/2008. (VII. 30.) Korm. rendeletben foglaltaknak megfelelően került sor.
 
-[^61]: A 9/G. alcímet (29/F. §-t) a 74/2023. (III. 10.) Korm. rendelet 1. §-a iktatta be.
+[^62]: A 9/G. alcímet (29/F. §-t) a 74/2023. (III. 10.) Korm. rendelet 1. §-a iktatta be.

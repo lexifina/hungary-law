@@ -1,4 +1,4 @@
-## 9/J.[^64] A nevelési ellátmány 2024. évi kompenzációja
+## 9/J.[^65] A nevelési ellátmány 2024. évi kompenzációja
 
 29/I. § (1) A 2024. évben a Gyvt. 56. § (1) és (2) bekezdése, a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 68. § (2) bekezdés szerinti nevelési ellátmány biztosításához kompenzáció illeti meg azt a fenntartót, amelynek a 2024. évre a Kvtv2024. 8. melléklet II. alcím 2.5. pontjában foglalt táblázat 26–29. vagy 45. sorában meghatározott szolgáltatás után – a Kvtv2024. alapján – támogatást állapítanak meg. A kompenzáció éves összege
 
@@ -12,4 +12,4 @@ c) a Kvtv2024. 8. melléklet II. alcím 2.5. pontjában foglalt táblázat 28. �
 
 (3) Az (1) és (2) bekezdésben nem szabályozott kérdésekben az (1) bekezdés szerinti kompenzációra a jogosultság alapjául szolgáló, a Kvtv2024. szerinti támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^64]: A 9/J. alcímet (29/I. §-t) az 560/2023. (XII. 14.) Korm. rendelet 17. §-a iktatta be.
+[^65]: A 9/J. alcímet (29/I. §-t) az 560/2023. (XII. 14.) Korm. rendelet 17. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 9/H.[^62] A 2023. évi rezsikompenzáció
+## 9/H.[^63] A 2023. évi rezsikompenzáció
 
 29/G. § (1) A 2023. évben – a villamos energia és a földgáz nagykereskedelmi árának jelentős mértékű emelkedése miatt, a költségnövekedés ellentételezése céljából – kiegészítő támogatásra (a továbbiakban: 2023. évi rezsikompenzáció) jogosult az az egyházi fenntartó, amelynek – a 2023. évi rezsikompenzáció (3) bekezdés szerinti megállapításának időpontjában – a 2023. évre a (2) bekezdés a)–d) pontja szerinti szolgáltatások után a Kvtv2023. alapján működési támogatást állapítottak meg.
 
@@ -20,4 +20,4 @@ d) a Kvtv2023. 9. melléklet II. rész 2.5. pontjában foglalt táblázat 1–25
 
 (6) A 2023. évi rezsikompenzációra az (1)–(5) bekezdésben nem szabályozott kérdésekben a jogosultság alapjául szolgáló támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^62]: A 9/H. alcímet (29/G. §-t) a 173/2023. (V. 12.) Korm. rendelet 1. §-a iktatta be.
+[^63]: A 9/H. alcímet (29/G. §-t) a 173/2023. (V. 12.) Korm. rendelet 1. §-a iktatta be.

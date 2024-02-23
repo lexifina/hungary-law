@@ -1,4 +1,4 @@
-## 9/B. [^56] Támogatás a 2019. évi egészségügyi kiegészítő pótlékhoz
+## 9/B. [^57] Támogatás a 2019. évi egészségügyi kiegészítő pótlékhoz
 
 29/A. § (1) A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet (a továbbiakban: Kjt. vhr.) 15/C. §-a szerinti, 2018. december – 2019. december hónapokra számfejtésre kerülő egészségügyi kiegészítő pótlékhoz (a továbbiakban: egészségügyi kiegészítő pótlék) és annak szociális hozzájárulási adójához támogatásra jogosult a fenntartó annak az engedélyesének a (2) bekezdés szerinti foglalkoztatottjaira tekintettel, amely után 2019. december hónapra működési támogatásra jogosult.
 
@@ -16,4 +16,4 @@
 
 (8) Az (1) bekezdés szerinti támogatás ellenőrzésére és visszafizetésére a működési támogatás szabályait kell alkalmazni.
 
-[^56]: A 9/B. alcímet (29/A. §) a 277/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^57]: A 9/B. alcímet (29/A. §) a 277/2019. (XI. 21.) Korm. rendelet 3. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 9/C. [^57] A 2020. évi minimálbér és garantált bérminimum kompenzációja
+## 9/C. [^58] A 2020. évi minimálbér és garantált bérminimum kompenzációja
 
 29/B. § (1) 2020. január–december hónapokra a 2020. évi minimálbér és garantált bérminimum kompenzációja céljából kiegészítő támogatásra (a továbbiakban: 2020. évi bérkompenzáció) az a fenntartó jogosult, amelynek a 2020. évre a 3. melléklet szerinti szolgáltatás után a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv3.) alapján támogatást állapítottak meg.
 
@@ -28,4 +28,4 @@ b) elszámolására, ellenőrzésére és visszafizetésére e rendelet szabály
 
 kell alkalmazni.
 
-[^57]: A 9/C. alcímet (29/B. §) a 309/2020. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^58]: A 9/C. alcímet (29/B. §) a 309/2020. (VI. 30.) Korm. rendelet 3. §-a iktatta be.

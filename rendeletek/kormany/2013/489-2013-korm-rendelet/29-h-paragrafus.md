@@ -1,4 +1,4 @@
-## 9/I.[^63] A 2023. évi rezsikompenzáció a nem állami fenntartású intézmények részére
+## 9/I.[^64] A 2023. évi rezsikompenzáció a nem állami fenntartású intézmények részére
 
 29/H. § (1) A 2023. évben – a villamos energia és a földgáz nagykereskedelmi árának jelentős mértékű emelkedése miatt, a költségnövekedés ellentételezése céljából – kiegészítő támogatásra (a továbbiakban: 2023. évi nem állami rezsikompenzáció) jogosult az a nem állami fenntartó, amelynek – a 2023. évi rezsikompenzáció (3) bekezdés szerinti megállapításának időpontjában – a 2023. évre a (2) bekezdés szerinti szolgáltatások után a Kvtv2023. alapján működési támogatást állapítottak meg.
 
@@ -20,4 +20,4 @@ cb) a Kvtv2023. 9. melléklet II. rész 2.5. pontjában foglalt táblázat 16. s
 
 (5) A 2023. évi nem állami rezsikompenzációra az (1)–(4) bekezdésben nem szabályozott kérdésekben a jogosultság alapjául szolgáló támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^63]: A 9/I. alcímet (29/H. §-t) a 358/2023. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
+[^64]: A 9/I. alcímet (29/H. §-t) a 358/2023. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
