@@ -1,0 +1,1 @@
+2. § Az Ebtv.vhr. 11/E. § (1j) bekezdésében az „eszközfajta” szövegrész helyébe a „hatóanyag, indikáció vagy eszközfajta” szöveg, a „gyógyászati segédeszköz” szövegrész helyébe a „gyógyszer vagy gyógyászati segédeszköz” szöveg lép.
