@@ -1,1 +1,3 @@
-3. § Hatályát veszti az Ebtv.vhr. 11/E. § (1a)–(1i) bekezdése.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

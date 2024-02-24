@@ -1,1 +1,3 @@
-5. § A Kr. 5. számú melléklete helyébe az 1. melléklet lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

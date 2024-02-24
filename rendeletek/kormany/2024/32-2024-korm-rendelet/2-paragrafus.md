@@ -1,1 +1,3 @@
-2. § Az Ebtv.vhr. 11/E. § (1j) bekezdésében az „eszközfajta” szövegrész helyébe a „hatóanyag, indikáció vagy eszközfajta” szöveg, a „gyógyászati segédeszköz” szövegrész helyébe a „gyógyszer vagy gyógyászati segédeszköz” szöveg lép.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
