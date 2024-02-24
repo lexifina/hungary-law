@@ -22,16 +22,11 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Önkormányzatok Nemzeti Együttműködési Tanácsáról szóló 1128/2012. (IV. 26.) Korm. határozat (a továbbiakban: Korm. határozat) 1.5. pontja helyébe a következő rendelkezés lép:
+## 3.[^1]
 
-## „1.5. A Kormány
-
-## a) az országos önkormányzati érdekszövetségeket felkéri,
-
-## b) az a) pontba nem tartozó érdekszövetségeket felkérheti
-
-## a Tanács munkájában való részvételre.”
-
-## 4. A Korm. határozat 1.2. pontjában az „a Miniszterelnökség” szövegrész helyébe az „és a” szöveg lép.
+## 4.[^2]
 
 1. melléklet az 1037/2024. (II. 22.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
