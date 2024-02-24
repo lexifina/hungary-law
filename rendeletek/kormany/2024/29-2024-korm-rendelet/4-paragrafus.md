@@ -1,5 +1,5 @@
 ## 2. A személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet módosítása
 
-4. § A személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet 4. §-a a következő (6) bekezdéssel egészül ki:
+4. §[^5]
 
-„(6) A személyügyi központ a kormányzati igazgatási szervek foglalkoztatottai számára képzéseket, továbbképzéseket szervezhet.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
