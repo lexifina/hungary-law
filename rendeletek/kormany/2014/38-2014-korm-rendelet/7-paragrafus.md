@@ -1,4 +1,4 @@
-7. §[^19] (1) A szervezet újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében
+7. §[^14] (1) A szervezet újonnan alapított mezőgazdasági termelőszervezetként való nyilvántartásba vétele iránti kérelmében
 
 a) igazolja a 6. § (3) bekezdés b) és c), illetve d) pontjában foglaltakat,
 
@@ -10,4 +10,4 @@ bb) nem különválással, kiválással, szervezeti formaváltással, egyéb jog
 
 (2) Az állam, önkormányzat vagy költségvetési szerv 100%-os tulajdonában álló szervezet esetében a 6. § (3) bekezdés b) pontjában foglaltak helyett igazolni kell, hogy az adott szervezet az állam, az önkormányzat, illetve a költségvetési szerv 100%-os tulajdonában áll, ezért a Földforgalmi tv. 5. § 26. pont c) pontja szerinti feltételt nem kell vizsgálni. A 6. § (3) bekezdés c) pontja vagy a 6. § (3) bekezdés d) pontja szerinti igazolással a szervezet valamely vezető tisztségviselőjének vagy a cégvezetőjének kell rendelkeznie.
 
-[^19]: A 7. § a 103/2018. (VI. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^14]: A 7. § a 103/2018. (VI. 11.) Korm. rendelet 12. §-ával megállapított szöveg.
