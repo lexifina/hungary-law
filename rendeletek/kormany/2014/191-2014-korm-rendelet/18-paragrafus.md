@@ -1,6 +1,6 @@
-## 17. §[^49] A megkereső a becsérték megállapításakor az azt tartalmazó döntését megküldi az NFK részére is.
+## 17. §[^50] A megkereső a becsérték megállapításakor az azt tartalmazó döntését megküldi az NFK részére is.
 
-18. §[^50] (1) Végrehajtási eljárás esetén a végrehajtó a részére megküldött záradékolt árverési jegyzőkönyv másolatát kézbesíti az adósnak, egyidejűleg felhívja a földrészlettel együtt nyilvántartott épület, építmény 15 napon belül történő elhagyására. Amennyiben a felhívásban foglalt időpontig erre nem került sor, az árverési vevő a Vht. alapján kérelmezheti annak kiürítését.
+18. §[^51] (1) Végrehajtási eljárás esetén a végrehajtó a részére megküldött záradékolt árverési jegyzőkönyv másolatát kézbesíti az adósnak, egyidejűleg felhívja a földrészlettel együtt nyilvántartott épület, építmény 15 napon belül történő elhagyására. Amennyiben a felhívásban foglalt időpontig erre nem került sor, az árverési vevő a Vht. alapján kérelmezheti annak kiürítését.
 
 (2) A végrehajtó a Vht. alapján intézkedik a földrészlettel együtt nyilvántartott épületnek, építménynek az árverési vevő részére történő birtokbaadásáról.
 
@@ -8,5 +8,5 @@
 
 (4) Ha a (3) bekezdés szerinti ismételt megkeresést követően az árverés sikertelen, a mezőgazdasági igazgatási szerv a Földforgalmi törvény 35. § (7) bekezdésének megfelelően megkeresi a végrehajtót a (3) bekezdésben foglalt intézkedések megtétele végett.
 
-[^49]: A 17. § az 523/2017. (XII. 29.) Korm. rendelet 13. § d) pontja, a 159/2019. (VI. 28.) Korm. rendelet 47. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^50]: A 18. § a 186/2018. (X. 9.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^50]: A 17. § az 523/2017. (XII. 29.) Korm. rendelet 13. § d) pontja, a 159/2019. (VI. 28.) Korm. rendelet 47. § c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^51]: A 18. § a 186/2018. (X. 9.) Korm. rendelet 10. §-ával megállapított szöveg.

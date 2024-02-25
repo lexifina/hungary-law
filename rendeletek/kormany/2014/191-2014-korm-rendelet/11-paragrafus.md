@@ -1,6 +1,6 @@
 11. § (1) A kikiáltó az árverésről jegyzőkönyvet (a továbbiakban: árverési jegyzőkönyv) vesz fel, amely magában foglaltan tartalmazza az árverésen hozott döntéseket, továbbá tartalmazza:
 
-a)[^33] a mezőgazdasági igazgatási szerv megnevezését, címét, telefonszámát, számlájának számát,
+a)[^34] a mezőgazdasági igazgatási szerv megnevezését, címét, telefonszámát, számlájának számát,
 
 b) az árverés helyét, kezdetének és befejezésének időpontját,
 
@@ -22,7 +22,7 @@ ee) a földhasználati nyilvántartásba, illetve erdőgazdálkodói nyilvántar
 
 f) a föld becsértékét és a minimálárat,
 
-g)[^34] a felajánlott 3 legmagasabb vételi ajánlat összegét,
+g)[^35] a felajánlott 3 legmagasabb vételi ajánlat összegét,
 
 h) az árverési vevő nevét, állampolgárságát, természetes személyazonosító adatait, lakcímét, ha a vétel elővásárlási jogon alapul az elővásárlási jogosultság mely törvényen és az ott meghatározott sorrend mely ranghelyén áll fenn,
 
@@ -34,9 +34,9 @@ k) a jelen levők kérelmét és észrevételét, az észrevételekre adott vál
 
 l) a jogszabályban meghatározott egyéb adatokat és körülményeket.
 
-(2)[^35] Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket a mezőgazdasági igazgatási szerv határozattal állapítja meg.
+(2)[^36] Az (1) bekezdés g) és h) pontjában megjelölt adatokat, valamint az árverésen hozott döntéseket a mezőgazdasági igazgatási szerv határozattal állapítja meg.
 
-(3)[^36] Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
+(3)[^37] Az árverési jegyzőkönyvet az árverési vevő is aláírásával látja el.
 
 (4) Az árverési jegyzőkönyvet kézbesítés útján kell közölni:
 
@@ -50,17 +50,17 @@ d) a végrehajtást kérővel és az adóssal,
 
 e) azokkal, akiknek a földre vonatkozólag az ingatlan-nyilvántartásba bejegyzett joguk van,
 
-f)[^37] az NFK-val.
+f)[^38] az NFK-val.
 
-(5)[^38] A mezőgazdasági igazgatási szervnek az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
+(5)[^39] A mezőgazdasági igazgatási szervnek az árverési jegyzőkönyv – (4) bekezdés szerinti személyeknek történő – kézbesítését, annak lezárásától számított három napon belül meg kell kezdenie.
 
 (6) A (4) bekezdés c) pontja szerinti személyek számára olyan jegyzőkönyv másolatot kell kézbesíteni, amely az árverezők nevén kívül az árverezők további személyes adatait nem tartalmazza.
 
 (7) Ahol jogszabály a megkereső további eljárásával kapcsolatban árverési jegyzőkönyvet vagy árverési hirdetményt említ, azon az e rendelet szerinti árverési jegyzőkönyvet kell érteni.
 
-[^33]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^34]: A 11. § (1) bekezdés g) pontja az 523/2017. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^35]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 502. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^36]: A 11. § (3) bekezdése a 186/2018. (X. 9.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^37]: A 11. § (4) bekezdés f) pontját az 523/2017. (XII. 29.) Korm. rendelet 10. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 47. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
-[^38]: A 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^34]: A 11. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^35]: A 11. § (1) bekezdés g) pontja az 523/2017. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 11. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 502. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^37]: A 11. § (3) bekezdése a 186/2018. (X. 9.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^38]: A 11. § (4) bekezdés f) pontját az 523/2017. (XII. 29.) Korm. rendelet 10. §-a iktatta be, szövege a 159/2019. (VI. 28.) Korm. rendelet 47. § b) pontjával megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.
+[^39]: A 11. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés j) pontja szerint módosított szöveg.

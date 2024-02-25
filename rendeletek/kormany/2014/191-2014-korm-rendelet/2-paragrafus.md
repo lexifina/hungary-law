@@ -48,7 +48,8 @@ p) a földrészlettel együtt nyilvántartott épület, építmény árverezők 
 
 q) az árverezőket érintő egyéb tudnivalókat.
 
-(3) Az árverést a föld fekvése szerinti járási hivatal hivatali helyiségében kell megtartani. Az árverés időpontját úgy kell meghatározni, hogy az nem lehet korábbi az árverés kitűzésének napjától számított 60. napnál, de nem lehet későbbi az árverés kitűzésétől számított 90. napnál. E határidők számításába az árverés kitűzésének napja nem számít bele.
+(3)[^7] Az árverést a kormányhivatal hivatali helyiségében kell megtartani. Az árverés időpontját úgy kell meghatározni, hogy az nem lehet korábbi az árverés kitűzésének napjától számított 60. napnál, de nem lehet későbbi az árverés kitűzésétől számított 90. napnál. E határidők számításába az árverés kitűzésének napja nem számít bele.
 
 [^5]: A 2. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, az 523/2017. (XII. 29.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^7]: A 2. § (3) bekezdése a 31/2024. (II. 22.) Korm. rendelet 19. §-a szerint módosított szöveg.

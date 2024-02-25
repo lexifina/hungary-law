@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-191-20-
 | 2023-03-01 | 2014-191-20-22.15 | 60/2023. (II. 28.) Korm. rendelet |
 | 2023-05-15 | 2014-191-20-22.16 | 12/2022. (VI. 2.) AB határozat |
 | 2024-01-01 | 2014-191-20-22.17 | 561/2023. (XII. 14.) Korm. rendelet |
+| 2024-02-25 | 2014-191-20-22.18 | 31/2024. (II. 22.) Korm. rendelet |
