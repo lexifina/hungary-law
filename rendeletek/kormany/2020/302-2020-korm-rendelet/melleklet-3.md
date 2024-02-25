@@ -1,12 +1,10 @@
-## Az öntözési közösségek elismerése iránti kérelemhez szükséges adatok
-
 ## I. Általános adatok
 
 ## A) Kérelmező adatai és elérhetősége
 
-## 1. Öntözési közösség neve
+## 1.[^21] Fenntartható vízgazdálkodási közösség neve
 
-## 2. Öntözési közösség formája (gazdasági társaság, szövetkezet, termelői csoport)
+## 2.[^22] Fenntartható vízgazdálkodási közösség formája (gazdasági társaság, szövetkezet, termelői csoport)
 
 ## 3. Székhely
 
@@ -22,7 +20,7 @@
 
 ## 3. Címe, telefonszáma, e-mail-címe
 
-## C) Gazdálkodási szervezetben (öntözési közösségben) részt vevő gazdálkodók
+## C)[^23] Gazdálkodási szervezetben (fenntartható vízgazdálkodási közösségben) részt vevő gazdálkodók
 
 ## 1. Mezőgazdasági termelő neve és ügyfél-azonosítója
 
@@ -32,11 +30,25 @@
 
 ## A) Öntözni kívánt terület pontos megjelölése
 
-## 1. Érintett összes terület (ha)
+## 1.[^24] Érintett összes terület (ha)
 
-## 2. Érintett terület elhelyezkedése (település, helyrajzi szám, EOV koordináták)
+## 1.1. Az érintett összes területből a fenntartható vízgazdálkodási közösség tagjainak a használatában álló összterület (ha)
 
-## 3. Öntözési közösség együttműködésének célja (például: közös vízkivétel, vízhasználat, öntözőberendezés beruházása, vízbiztosító létesítmények építése, rekonstrukciója)
+## 1.2. A fenntartható vízgazdálkodási közösség tagjainak a használatában álló ingatlanok jegyzéke (település, helyrajzi szám, alrészlet jele, használat jogcíme, földrészlet/alrészlet művelési ága, földrészlet/alrészlet területe hektárban, földrészlet/alrészlet aranykorona értéke, földrészlet/alrészlet öntözött területének kiterjedése hektárban, földrészlet/alrészlet öntözéses gazdálkodásba vonni tervezett területének kiterjedése hektárban)
+
+## 1.3. A fenntartható vízgazdálkodási közösség használatában álló ingatlanok jegyzéke (település, helyrajzi szám, alrészlet jele, használat jogcíme, földrészlet/alrészlet művelési ága, földrészlet/alrészlet területe hektárban, földrészlet/alrészlet aranykorona értéke, földrészlet/alrészlet öntözött területének kiterjedése hektárban, földrészlet/alrészlet öntözéses gazdálkodásba vonni tervezett területének kiterjedése hektárban)
+
+## 2.[^25] Érintett terület elhelyezkedése (település, helyrajzi szám, EOV koordináták)
+
+## 2.1. Az érintett összes területből öntözéses gazdálkodásba vont terület (ha)
+
+## 2.2. Az érintett összes területből az öntözéses gazdálkodásba vonni tervezett terület (ha)
+
+## 2.3. Az érintett terület vízellátását biztosító útvonal (település, helyrajzi szám, alrészlet jele, VOR azonosító)
+
+## 2.4. Tervezett és meglévő vízvisszatartást szolgáló létesítmények (megnevezés, helyrajzi szám, a vízilétesítmények, valamint a szolgalommal érintett területek töréspontjainak EOV koordinátái)
+
+## 3.[^26] Fenntartható vízgazdálkodási közösség együttműködésének célja (például: közös vízkivétel, vízhasználat, öntözőberendezés beruházása, vízbiztosító létesítmények építése, rekonstrukciója)
 
 ## 4. Megvalósítás tervezett kezdése és időtartama
 
@@ -52,7 +64,9 @@
 
 ## 2. Öntözőberendezések üzemeltetése
 
-## 3. Engedélyezési folyamatok
+## 3.[^27] Engedélyezési folyamatok (például vagyonkezelői hozzájárulás, vízjogi engedély, vízügyi állásfoglalás
+
+## a VGT III. szerint elfogadott és minősített víztest feltüntetésével)
 
 ## 4. Birtokrendezési, földhasználati jogi munkák koordinációja
 
@@ -67,3 +81,13 @@
 ## 3. Lejárt vízjogi engedély megléte és adatai (megnevezésük, hatósági határozat száma, hatósági határozat kelte)
 
 3. melléklet a 302/2020. (VI. 29.) Korm. rendelethez
+
+Környezeti körzeti tervhez szükséges adatok
+
+[^21]: A 2. melléklet I. A) pont 1. alpontja a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet I. A) pont 2. alpontja a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet I. C) pontja a 31/2024. (II. 22.) Korm. rendelet 25. § e) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet II. A) pont 1. alpontja a 31/2024. (II. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^25]: A 2. melléklet II. A) pont 2. alpontja a 31/2024. (II. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^26]: A 2. melléklet II. A) pont 3. alpontja a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^27]: A 2. melléklet III. pont 3. alpontja a 31/2024. (II. 22.) Korm. rendelet 26. §-ával megállapított szöveg.

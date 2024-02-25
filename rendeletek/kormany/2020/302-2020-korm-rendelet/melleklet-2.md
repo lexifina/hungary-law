@@ -17,3 +17,7 @@
 ## b) az erdők kivételével a földfelszín alatti öntözési beruházásoknál igénybeveendő területek esetén G = 0,3
 
 2. melléklet a 302/2020. (VI. 29.) Korm. rendelethez
+
+A fenntartható vízgazdálkodási közösségek elismerése iránti kérelemhez szükséges adatok[^20]
+
+[^20]: A 2. melléklet címe a 31/2024. (II. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.

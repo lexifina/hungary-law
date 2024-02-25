@@ -8,7 +8,7 @@ a) tulajdonos alatt az állami tulajdonban álló ingatlan felett jogszabály va
 
 b) használó alatt az ingatlan-nyilvántartásba bejegyzett vagyonkezelői jog fennállása esetén a vagyonkezelőt, vagyonkezelői jog fennállása hiányában a tulajdonosi joggyakorló szervezetet
 
-## kell érteni.
+kell érteni.
 
 (3) Az egyeztetésen a kérelmezőnek meg kell kísérelnie a kivitelezés időpontjáról, tervezett nyomvonaláról és az érintett ingatlanok tulajdonosai és használói kárenyhítő kötelezettségeiről való megállapodás létrehozását. Az egyeztetésen az érintett ingatlanok tulajdonosai kérhetik a vízilétesítményhez történő csatlakozás biztosítását.
 

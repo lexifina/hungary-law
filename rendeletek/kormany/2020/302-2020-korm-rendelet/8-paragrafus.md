@@ -1,6 +1,8 @@
-8. § (1) Az öntözési közösség az öntözési körzet területén szántóföldi növénytermesztést, ipari növénytermesztést és kertészeti zöldség-gyümölcs termesztést egyidejűleg is végezhet.
+8. § (1)[^4] A fenntartható vízgazdálkodási közösség az öntözési körzet területén szántóföldi növénytermesztést, ipari növénytermesztést, ültetvényes (gyümölcs, szőlő) növénytermesztést, kertészeti zöldség és aromás-, gyógy- és fűszernövény-termesztést egyidejűleg is végezhet.
 
-(2) Az (1) bekezdésben meghatározott esetben az öntözött területek meghatározása során a kertészeti zöldség-gyümölcs termesztéssel érintett területek nagyságát tízszeres szorzóval kell érvényesíteni, és egybeszámítással hozzáadni a szántóföldi területek nagyságához.
+(2)[^5] Az (1) bekezdés szerinti esetben az öntözött területek meghatározása során az ültetvényes (gyümölcs, szőlő) növénytermesztéssel, a kertészeti zöldségtermesztéssel, valamint az aromás-, gyógy- és fűszernövény-termesztéssel érintett területek nagyságát tízszeres szorzóval kell érvényesíteni, és egybeszámítással hozzáadni a szántóföldi területek nagyságához.
+
+(2a)[^6] Az öntözési körzet területének meghatározásakor a szántó, rét, legelő, szőlő, kert és gyümölcsös művelési ágú, külterületi ingatlanok vehetőek figyelembe.
 
 (3) Az öntözési körzet határvonalát a következő szempontok figyelembevételével kell meghatározni:
 
@@ -24,4 +26,12 @@ i) a domborzat és a vízkészlet alapján az öntözési technológiák alkalma
 
 (4) Az öntözési igazgatási szerv a kérelemben foglalt vállalások megvalósíthatóságáról alkotott véleményét és az általa meghatározott öntözési körzetet a kérelemhez szükséges adatok hiánytalan benyújtását követően 21 napon belül döntés céljából elektronikus úton megküldi az agrárpolitikáért felelős miniszternek (a továbbiakban: miniszter).
 
-(5) Ha a miniszter a döntésében elismeri az öntözési közösséget, akkor kijelöli az öntözési körzetet, és tájékoztatja az öntözési közösséget az igénybe venni kívánt víztestek állapotáról, továbbá a víztestek állapotával kapcsolatos információk nyilvános elektronikus elérhetőségéről.
+(5)[^7] Ha a miniszter a döntésében elismeri a fenntartható vízgazdálkodási közösséget, akkor kijelöli a fenntartható vízgazdálkodási körzetet, és tájékoztatja a fenntartható vízgazdálkodási közösséget az igénybe venni kívánt víztestek állapotáról, továbbá a víztestek állapotával kapcsolatos információk nyilvános elektronikus elérhetőségéről.
+
+(6)[^8] A fenntartható vízgazdálkodási közösség elismeréséről szóló döntés tartalmazza a tagok által öntözni kívánt ingatlanok felsorolását, amennyiben szükséges, az érintett alrészletek megjelölésével.
+
+[^4]: A 8. § (1) bekezdése a 31/2024. (II. 22.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^5]: A 8. § (2) bekezdése a 31/2024. (II. 22.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^6]: A 8. § (2a) bekezdését a 31/2024. (II. 22.) Korm. rendelet 22. § (1) bekezdése iktatta be.
+[^7]: A 8. § (5) bekezdése a 31/2024. (II. 22.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^8]: A 8. § (6) bekezdését a 31/2024. (II. 22.) Korm. rendelet 22. § (2) bekezdése iktatta be.
