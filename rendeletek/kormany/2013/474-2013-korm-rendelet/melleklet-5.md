@@ -1,4 +1,4 @@
-5. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^66]
+5. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^67]
 
 A haszonbérleti szerződés hatósági jóváhagyására irányuló kérelem tartalma
 
@@ -50,4 +50,4 @@ A haszonbérleti szerződés hatósági jóváhagyására irányuló kérelem ta
 
 6. A kérelmező aláírása, gazdálkodó vagy egyéb szervezet kérelmező esetében a bélyegzőlenyomata és az aláírás dátuma.
 
-[^66]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (2) bekezdése iktatta be.
+[^67]: Az 5. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (2) bekezdése iktatta be.

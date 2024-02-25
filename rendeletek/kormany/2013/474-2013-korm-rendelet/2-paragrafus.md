@@ -22,10 +22,11 @@ c) az átruházással érintett tulajdoni hányadot.
 
 (5) Ha az adásvételi szerződés nem tartozik a mezőgazdasági igazgatási szerv jóváhagyásához kötött szerződések közé, a tulajdonosnak mint eladónak a föld fekvése szerint illetékes települési önkormányzat, a fővárosban a fővárosi kerületi önkormányzat (a továbbiakban együtt: települési önkormányzat) jegyzője részére a Földforgalmi tv. 21. § (1c) bekezdése szerinti határidőn belül kérelmet (a továbbiakban: közzétételi kérelem) kell benyújtania a Fétv.-ben meghatározott egységes okiratba foglalt adásvételi szerződés hirdetményi úton történő közlése iránt. A közzétételi kérelmet a földügyért felelős miniszter által vezetett minisztérium honlapján közzétett formanyomtatványon kell benyújtani. A közzétételi kérelem adattartalmát az 1. melléklet tartalmazza. A közzétételi kérelemhez csatolni kell az egységes okiratba foglalt adásvételi szerződés egy eredeti, nem biztonsági okmányon szerkesztett példányát.
 
-(6) Az eladó benyújthatja az adásvételi szerződésben szereplő földek fekvése szerinti bármelyik illetékes
+(6)[^5] Ha az adásvételi szerződés több, földnek minősülő ingatlant tartalmaz, az eladó benyújthatja az adásvételi szerződésben szereplő bármelyik föld fekvése szerint illetékes
 
-a) mezőgazdasági igazgatási szerv részére a hatósági jóváhagyás iránti kérelmet a Földforgalmi tv. 19. § (5) bekezdésében meghatározott esetben és
+a) mezőgazdasági igazgatási szervnél a hatósági jóváhagyás iránti kérelmet, vagy
 
-b) települési önkormányzat jegyzője részére a közzétételi kérelmet az (5) bekezdésben és a Földforgalmi tv. 19. § (5) bekezdésében meghatározottak együttes fennállása esetén.
+b) települési önkormányzat jegyzőjénél a közzétételi kérelmet az (5) bekezdésben meghatározott esetben.
 
 [^4]: A 2. § a 170/2023. (V. 12.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (6) bekezdése a 31/2024. (II. 22.) Korm. rendelet 12. §-ával megállapított szöveg.

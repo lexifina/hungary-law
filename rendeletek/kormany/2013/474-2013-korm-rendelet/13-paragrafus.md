@@ -1,6 +1,6 @@
 ## 4. Elektronikus tájékoztató
 
-13. §[^48] (1) Az elővásárlásra, valamint az előhaszonbérletre jogosultak tájékoztatása céljából elektronikus tájékoztatót kell közzétenni a kormányzati portálon. Az elektronikus tájékoztató közzététele iránt a jegyzőnek az adásvételi vagy a haszonbérleti szerződés, illetve a közzétételi közlemény (e §-ban a továbbiakban együtt: szerződés) kormányzati portálon való közzététel céljából történő megküldésével egyidejűleg kell intézkednie, és a működtető szervezet részére megküldenie.
+13. §[^49] (1) Az elővásárlásra, valamint az előhaszonbérletre jogosultak tájékoztatása céljából elektronikus tájékoztatót kell közzétenni a kormányzati portálon. Az elektronikus tájékoztató közzététele iránt a jegyzőnek az adásvételi vagy a haszonbérleti szerződés, illetve a közzétételi közlemény (e §-ban a továbbiakban együtt: szerződés) kormányzati portálon való közzététel céljából történő megküldésével egyidejűleg kell intézkednie, és a működtető szervezet részére megküldenie.
 
 (2) Az (1) bekezdés szerinti elektronikus tájékoztató a következő adatokat tartalmazza:
 
@@ -24,4 +24,4 @@ db) ellenszolgáltatásként megjelölt vételár vagy haszonbér megjelölése.
 
 (6) Az elektronikus tájékoztató közzétételéhez szükséges elektronikus űrlap kitöltéséért, valamint a szerződés anonimizálásáért és a szerződésre rávezetett adatokért a jegyző, az elektronikus adatlap, valamint a szerződés közzétételéért a működtető szervezet felelős.
 
-[^48]: A 13. § az 593/2020. (XII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^49]: A 13. § az 593/2020. (XII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

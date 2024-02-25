@@ -1,4 +1,4 @@
-4. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^65]
+4. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^66]
 
 Az adásvételi szerződés hatósági jóváhagyására irányuló kérelem tartalma
 
@@ -40,4 +40,4 @@ Az adásvételi szerződés hatósági jóváhagyására irányuló kérelem tar
 
 6. A kérelmező aláírása, gazdálkodó szervezet, egyéb szervezet kérelmező esetében a bélyegzőlenyomata és az aláírás dátuma.
 
-[^65]: A 4. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (1) bekezdése iktatta be.
+[^66]: A 4. mellékletet a 170/2023. (V. 12.) Korm. rendelet 30. § (1) bekezdése iktatta be.
