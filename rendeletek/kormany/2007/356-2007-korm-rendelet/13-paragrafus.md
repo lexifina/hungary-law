@@ -10,7 +10,15 @@
 
 (5)[^66] Az ingatlanügyi hatóság a (3) bekezdés szerinti bejelentés hiányában a földhasználati nyilvántartásban hivatalból átvezeti a földrészletnek az 5. § (1) bekezdés c) és e)–g) pontja szerinti adataiban bekövetkezett és az ingatlan-nyilvántartásban már átvezetett változásokat (a továbbiakban: adatváltozás), ha a földrészletnek az adatváltozást megelőzően bejegyzett földhasználója és az általa használt terület elhelyezkedése és mértéke az adatváltozást követően nem változik.
 
-(6)[^67] Az ingatlanügyi hatóság a változások átvezetéséről szóló döntését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval, valamint családi gazdálkodó esetében a családi gazdálkodók nyilvántartását végző hatósággal.
+(5a)[^67] Az ingatlanügyi hatóság hivatalból indított eljárás keretében a földhasználati nyilvántartásban átvezeti a részleges kisajátítással érintett földrészletnek az 5. § (1) bekezdés c)–g) pontja szerinti adataiban bekövetkezett és az ingatlan-nyilvántartásban már átvezetett változásokat, ha
+
+a) a változás az ingatlan-nyilvántartási eljáráshoz benyújtott kisajátítási vázrajz és kisajátítási határozat alapján egyértelműen megállapítható,
+
+b) a használattal érintett területnek egy földhasználója van, vagy a részleges kisajátítás után visszamaradó földrészlet használatának arányai nem változnak, és
+
+c) a földrészletnek az adatváltozást megelőzően bejegyzett földhasználója vagy földhasználói nem változnak.
+
+(6)[^68] Az ingatlanügyi hatóság a változások átvezetéséről szóló döntését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval, valamint családi gazdálkodó esetében a családi gazdálkodók nyilvántartását végző hatósággal.
 
 [^61]: A 13. § a 429/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^62]: A 13. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 14. § (1) bekezdés f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -18,4 +26,5 @@
 [^64]: A 13. § (3) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 9. §-ával megállapított, a 441/2015. (XII. 28.) Korm. rendelet 98. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^65]: A 13. § (4) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 14. § g) pontja, a 45/2016. (III. 10.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
 [^66]: A 13. § (5) bekezdése a 170/2023. (V. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^67]: A 13. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^67]: A 13. § (5a) bekezdését a 31/2024. (II. 22.) Korm. rendelet 1. §-a iktatta be.
+[^68]: A 13. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
