@@ -6,13 +6,13 @@
 
 (2)[^148] Az árverés lebonyolításában a kormányhivatal az e Fejezetben foglaltak szerint közreműködik.
 
-(3)[^149] Az árverési eljárásban árverezőként a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti helyben lakó, földművesnek minősülő természetes személy vehet részt.
+(3)[^149] Az árverési eljárásban árverezőként a Földforgalmi tv. 18. § (1) bekezdés e) pontja szerinti feltételeknek megfelelő természetes személy vehet részt.
 
 (4)[^150] Az Evt. szerint erdőnek minősülő és az Evt. 8. § (1), illetve (4) bekezdésének hatálya alá tartozó alrészletet is tartalmazó földnek a hirdetményben megjelölt, ezen alrészletet nem érintő részére is lehet árverést folytatni. A földrészlet megosztását ebben az esetben az eredményes árverést követően az NFK kezdeményezi, megelőlegezve az eljárás költségeit. Az adásvételi szerződés megkötésére a megosztást és az eljárás költségeinek a nyertes árverező által az NFK részére történő megtérítését követően kerülhet sor.
 
 (5)[^151] Az elővásárlási jog gyakorlása esetén a (4) bekezdés szerinti költséget az elővásárlási jogával élő jogosult viseli. A nyertes árverező részére az általa megfizetett eljárási költséget a 32/A. § (7) bekezdésében meghatározott határidőben vissza kell téríteni.
 
-(6)[^152] Az árverésen értékesítésre kerülő földrészlet vonatkozásában az államot a szerződés megkötésétől számított 20 éves időtartamra – a szerződés szerinti vételáron – visszavásárlási jog illeti meg. A visszavásárlási jog biztosítására a földrészletet 20 éves időtartamra elidegenítési és terhelési tilalom terheli. A visszavásárlási jogot, valamint az elidegenítési és terhelési tilalmat az adásvételi szerződésben is rögzíteni kell. A földrészletek tulajdoni lapjára az állam javára – a vevő költségviselése mellett – a visszavásárlási jogot be kell jegyeztetni, valamint az elidegenítési és terhelési tilalmat fel kell jegyeztetni. Az elidegenítési és terhelési tilalom törléséhez az NFK – a földrészlet törvényes vagy végrendeleti örökös általi elidegenítésnek az esetét kivéve – a 20 éves időtartam lejárata előtt nem járulhat hozzá. Az elidegenítési tilalom fenntartása mellett a terhelési tilalom törléséhez a 20 éves időtartam lejárata előtt csak abban az esetben járulhat hozzá, ha a földrészlet vételárának kiegyenlítése nem pénzügyi intézmény által nyújtott kölcsön felhasználásával történt, és a földrészletre pénzügyi intézmény javára kíván a tulajdonos terhet alapítani.
+(6)[^152] Az árverésen értékesítésre kerülő földrészlet vonatkozásában az államot a szerződés megkötésétől számított 20 éves időtartamra – a szerződés szerinti vételáron – visszavásárlási jog illeti meg. A visszavásárlási jog biztosítására a földrészletet 20 éves időtartamra elidegenítési és terhelési tilalom terheli. A visszavásárlási jogot, valamint az elidegenítési és terhelési tilalmat az adásvételi szerződésben is rögzíteni kell. A földrészletek tulajdoni lapjára az állam javára – a vevő költségviselése mellett – a visszavásárlási jogot be kell jegyeztetni, valamint az elidegenítési és terhelési tilalmat fel kell jegyeztetni. A visszavásárlási jog, valamint az elidegenítési és terhelési tilalom törléséhez az NFK – a földrészlet törvényes vagy végrendeleti örökös általi elidegenítésnek az esetét kivéve – a 20 éves időtartam lejárata előtt nem járulhat hozzá. Az elidegenítési tilalom fenntartása mellett a terhelési tilalom törléséhez a 20 éves időtartam lejárata előtt csak abban az esetben járulhat hozzá, ha a földrészlet vételárának kiegyenlítése nem pénzügyi intézmény által nyújtott kölcsön felhasználásával történt, és a földrészletre pénzügyi intézmény javára kíván a tulajdonos terhet alapítani.
 
 (7)[^153] Abban az esetben, ha a földrészlet vételárának kiegyenlítése nem pénzügyi intézmény által nyújtott kölcsön felhasználásával történt, az NFK kizárólag akkor él a visszavásárlási joggal, ha tudomást szerez arról, hogy a tulajdonos a földrészlet elidegenítése vagy megterhelése érdekében intézkedést tett.
 
@@ -27,10 +27,10 @@
 [^146]: A 29. § a 285/2015. (X. 5.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^147]: A 29. § (1) bekezdését a 111/2020. (IV. 14.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^148]: A 29. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 16. §-a szerint módosított szöveg.
-[^149]: A 29. § (3) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^149]: A 29. § (3) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 6. § b) pontja, a 31/2024. (II. 22.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
 [^150]: A 29. § (4) bekezdése a 170/2023. (V. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^151]: A 29. § (5) bekezdése a 170/2023. (V. 12.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^152]: A 29. § (6) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 1. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja, a 170/2023. (V. 12.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^152]: A 29. § (6) bekezdése a 325/2015. (XI. 10.) Korm. rendelet 1. §-ával megállapított, a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja, a 170/2023. (V. 12.) Korm. rendelet 15. § f) pontja, a 31/2024. (II. 22.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
 [^153]: A 29. § (7) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^154]: A 29. § (8) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 28. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^155]: A 29. § (9) bekezdését a 73/2022. (III. 2.) Korm. rendelet 1. §-a iktatta be.

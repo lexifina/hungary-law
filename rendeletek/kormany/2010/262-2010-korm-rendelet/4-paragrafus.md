@@ -20,7 +20,7 @@ b) az ingatlan a helyi építési szabályzat alapján nem mezőgazdasági övez
 
 (2g)[^30] Amennyiben a kérelmező a (2b) bekezdés alapján készült értékbecslésben megállapított forgalmi értéket kifogásolja, úgy kötelező az értékbecslés felülvizsgálata helyszíni szemle lefolytatásával. Amennyiben a felülvizsgálat alapján az eredeti értékbecslésben foglalt forgalmi érték megváltoztatásra kerül, úgy a felülvizsgálat díját az NFK viseli. Amennyiben a felülvizsgálat az eredeti értékbecslésben foglalt forgalmi értéket megerősíti, úgy a felülvizsgálat díját a kérelmező viseli.
 
-(2h)[^31] Az 1 hektár térmértéket meg nem haladó ingatlanok eladás útján történő hasznosítása esetén az értékbecslési díjat az NFK viseli.
+(2h)[^31]
 
 (2i)[^32] A földeken fennálló osztatlan közös tulajdon felszámolásáról és a földnek minősülő ingatlanok jogosultjai adatainak ingatlan-nyilvántartási rendezéséről szóló 2020. évi LXXI. törvény 12. és 16. §-ában szabályozott bekebelezés esetén a földrészlet ellenértéke az e §-okban rögzített értékbecslési ajánlat alapján is megállapítható.
 
@@ -36,6 +36,6 @@ b) az ingatlan a helyi építési szabályzat alapján nem mezőgazdasági övez
 [^28]: A 4. § (2e) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^29]: A 4. § (2f) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^30]: A 4. § (2g) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^31]: A 4. § (2h) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^31]: A 4. § (2h) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 9. § (2) bekezdése iktatta be, a 31/2024. (II. 22.) Korm. rendelet 11. § a) pontja hatályon kívül helyezte.
 [^32]: A 4. § (2i) bekezdését a 647/2020. (XII. 23.) Korm. rendelet 41. § (2) bekezdése iktatta be.
 [^33]: A 4. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § d) pontja, a 170/2023. (V. 12.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

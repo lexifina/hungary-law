@@ -1,18 +1,20 @@
-43/D. § (1)[^229] Az igazgatóság az általa vagyonkezelt területet nyilvános pályáztatás útján, vagy annak mellőzésével adhatja haszonbérbe. A pályáztatás mellőzésével történő haszonbérbe adás során az igazgatóság köteles a szerződő fél nyilatkozatát beszerezni a 11. § (5) bekezdés b)–e) pontjában foglaltakról. Az igazgatóság vezetője dönthet úgy, hogy a pályáztatási eljárásra az elektronikus pályáztatási rendszer mellőzésével kerül sor.
+43/D. § (1)[^243] Az igazgatóság az általa vagyonkezelt területet nyilvános pályáztatás útján, vagy annak mellőzésével adhatja haszonbérbe. A pályáztatás mellőzésével történő haszonbérbe adás során az igazgatóság köteles a szerződő fél nyilatkozatát beszerezni a 11. § (5) bekezdés b)–e) pontjában foglaltakról. Az igazgatóság vezetője dönthet úgy, hogy a pályáztatási eljárásra az elektronikus pályáztatási rendszer mellőzésével kerül sor.
 
-(2)[^230] Nem kell pályáztatási eljárást lefolytatni
+(2)[^244] Nem kell pályáztatási eljárást lefolytatni
 
-a) természetvédelmi kijelölés útján történő haszonbérbe adás esetén, vagy
+a) természetvédelmi kijelölés útján történő haszonbérbe adás esetén,
 
-b) ha a haszonbérbe adandó területek együttes térmértéke nem haladja meg az 5 hektárt.
+b) ha a haszonbérbe adandó területek együttes térmértéke nem haladja meg az 5 hektárt, vagy
 
-(3)[^231] A pályázati felhívást az igazgatóság székhelyén és a honlapján kell közzétenni.
+c) mintagazdasági földhasználati szerződés megkötése esetén.
 
-(4)[^232] A 7. § (2) bekezdésében foglaltakon túl a pályázati kiírásnak tartalmaznia kell a védett természeti területek és Natura 2000 területek, a vízvédelmi területek, a védetté nyilvánított régészeti lelőhelyek, a régészeti védőövezettel, műemlékkel vagy parti sávval érintett területek használatára vonatkozó természetvédelmi követelmény- és feltételrendszert.
+(3)[^245] A pályázati felhívást az igazgatóság székhelyén és a honlapján kell közzétenni.
+
+(4)[^246] A 7. § (2) bekezdésében foglaltakon túl a pályázati kiírásnak tartalmaznia kell a védett természeti területek és Natura 2000 területek, a vízvédelmi területek, a védetté nyilvánított régészeti lelőhelyek, a régészeti védőövezettel, műemlékkel vagy parti sávval érintett területek használatára vonatkozó természetvédelmi követelmény- és feltételrendszert.
 
 (5) A pályázati eljárásban résztvevő pályázókra vonatkozó előírások kapcsán a 26. § (2) bekezdés b) pontját nem kell alkalmazni.
 
-(6)[^233] A pályázó a pályázatát a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével – az igazgatóság vezetőjének az (1) bekezdés szerinti eltérő döntése hiányában – elektronikus úton nyújthatja be.
+(6)[^247] A pályázó a pályázatát a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével – az igazgatóság vezetőjének az (1) bekezdés szerinti eltérő döntése hiányában – elektronikus úton nyújthatja be.
 
 (7) A 14. § (1) bekezdésében foglaltakon túl érvénytelen az a pályázat is, ha a pályázati eljárás kezdő napját megelőző
 
@@ -28,16 +30,16 @@ c) 7 éven belül a pályázónak természetkárosítás bűntette miatti bünte
 
 (10) A pályázatok értékelése során előnyben kell részesíteni azt a pályázót, aki vagy amely
 
-a)[^234] a Földforgalmi tv. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
+a)[^248] a Földforgalmi tv. szerinti helyben lakónak minősül és az adott tájegységre jellemző hagyományos gazdálkodást folytat,
 
-b)[^235]
+b)[^249]
 
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
 
-[^229]: A 43/D. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^230]: A 43/D. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^231]: A 43/D. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^232]: A 43/D. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^233]: A 43/D. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^234]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
-[^235]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
+[^243]: A 43/D. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^244]: A 43/D. § (2) bekezdése a 31/2024. (II. 22.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^245]: A 43/D. § (3) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^246]: A 43/D. § (4) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^247]: A 43/D. § (6) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^248]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
+[^249]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

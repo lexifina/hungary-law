@@ -1,3 +1,3 @@
-50/B. §[^262]
+50/B. §[^276]
 
-[^262]: Az 50/B. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 285/2015. (X. 5.) Korm. rendelet 18. § f) pontja.
+[^276]: Az 50/B. §-t a 153/2013. (V. 24.) Korm. rendelet 17. §-a iktatta be, hatályon kívül helyezte a 285/2015. (X. 5.) Korm. rendelet 18. § f) pontja.

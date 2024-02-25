@@ -1,6 +1,6 @@
-50/E. §[^271] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
+50/E. §[^285] (1) A haszonbérlő és a vagyonkezelő a földhasználati jogviszonyának megszűnésekor, vagy a szerződésben meghatározott esetben köteles a földrészlet értékének az átvételkor fennálló állapothoz viszonyított, a gazdálkodási tevékenységével összefüggésben keletkezett értékkülönbözetével (értékcsökkenésével vagy értéknövekedésével) a szerződés és e rendelet előírásai szerint elszámolni.
 
-(2)[^272] Ha azonos földrészletre az elszámolási kötelezettséggel járó szerződés megszűnését követően a haszonbérlő vagy a vagyonkezelő földhasználati jogosultsága azonos vagy más jogcímen változatlanul fennáll, a haszonbérlő és a vagyonkezelő az újabb földhasználati jogviszonyának megszűnésekor elszámol egymással. Az elszámolásra legkésőbb az utolsó használati szerződés megszűnését követő év december 31-ig van lehetőség, amely határidő elmulasztása jogvesztő.
+(2)[^286] Ha azonos földrészletre az elszámolási kötelezettséggel járó szerződés megszűnését követően a haszonbérlő vagy a vagyonkezelő földhasználati jogosultsága azonos vagy más jogcímen változatlanul fennáll, a haszonbérlő és a vagyonkezelő az újabb földhasználati jogviszonyának megszűnésekor számol el. Az elszámolásra legkésőbb az utolsó használati szerződés megszűnését követő év december 31-ig van lehetőség, amely határidő elmulasztása jogvesztő.
 
 (3) Ültetvény vagy halastó értékesítése esetén – az (1) és (2) bekezdésben foglaltaktól eltérően – korábbi haszonbérleti szerződésből fennálló elszámolási igény esetén az új tulajdonos a használóval a tulajdonjoga bejegyzésétől számított 1 éven belül elszámolásra köteles.
 
@@ -26,5 +26,5 @@
 
 (14) Az e rendeletben foglalt értéknövelő beruházásokkal kapcsolatos elszámolási szabályok megfelelően vonatkoznak az egyéb jogcímen földhasználatra jogosultak értéknövelő beruházásokkal kapcsolatos elszámolási igényére.
 
-[^271]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
-[^272]: Az 50/E. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^285]: Az 50/E. §-t a 159/2019. (VI. 28.) Korm. rendelet 36. §-a iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^286]: Az 50/E. § (2) bekezdése a 170/2023. (V. 12.) Korm. rendelet 13. §-ával megállapított, a 31/2024. (II. 22.) Korm. rendelet 10. § m) pontja szerint módosított szöveg.
