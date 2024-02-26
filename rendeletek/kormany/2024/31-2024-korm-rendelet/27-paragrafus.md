@@ -1,1 +1,3 @@
-27. § A 302/2020. (VI. 29.) Korm. rendelet 3. melléklete a 3. melléklet szerint módosul.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

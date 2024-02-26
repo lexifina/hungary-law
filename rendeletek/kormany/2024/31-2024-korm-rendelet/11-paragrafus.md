@@ -1,7 +1,3 @@
-11. § Hatályát veszti a 262/2010. (XI. 17.) Korm. rendelet
+11. §[^12]
 
-a) 4. § (2h) bekezdése,
-
-b) 31. § (3) bekezdés 18. pontjában és 32. § (4) bekezdésében a „meghatalmazott” szövegrész, valamint
-
-c) 43. § (1) bekezdés c) pontja.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-14. § A 38/2014. (II. 24.) Korm. rendelet a következő 10. §-sal egészül ki:
+14. §[^15]
 
-„10. § A földműves nyilvántartásba vételi eljárás során az ingatlanügyi hatóságnak vizsgálnia kell, hogy a kérelmező korábban gazdaságátadóként kötött-e az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény szerinti gazdaságátadási szerződést. A nyilvántartásba nem jegyezhető be földművesként, aki korábban gazdaságátadóként gazdaságátadási szerződést kötött, kivéve, ha a gazdaságátadási szerződés az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvény 5. §-ában vagy 11. §-ában foglaltak alapján megszűnt, vagy a gazdaságátvevő halálát követően a gazdaságátadó a gazdaságátvevő örököseként a gazdaság részét képező mező- és erdőgazdasági hasznosítású föld tulajdonjogát vagy földhasználati jogosultságát megszerezte.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

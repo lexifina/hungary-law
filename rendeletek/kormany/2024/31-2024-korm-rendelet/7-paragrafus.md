@@ -1,11 +1,3 @@
-7. § (1) A 262/2010. (XI. 17.) Korm. rendelet 43. §-a a következő (1a) bekezdéssel egészül ki:
+7. §[^8]
 
-„(1a) Ha a Nemzeti Földalapba tartozó, vagyonkezelésben lévő földrészlet kikerül az Nfatv. hatálya alól, az Nfatv. 31. §-ában foglalt átadás-átvételi eljárás lefolytatására akkor kerülhet sor, ha a vagyonkezelői jog, illetve a vagyonkezelési szerződés megszüntetésre kerül, és a felek a 41. § (2) bekezdése szerint elszámoltak egymással.”
-
-(2) A 262/2010. (XI. 17.) Korm. rendelet 43. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Azon központi költségvetési szerv vagyonkezelésében álló földrészlet tekintetében, melynek állami tulajdonból történő kikerülését a Tanács az Nfatv. 8. § (1) bekezdés d), f) és h) pontjában foglalt jogkörében eljárva jóváhagyta, a vagyonkezelésbe adó a vagyonkezelési szerződést azonnali hatállyal felmondhatja. A felmondás írásban történő közlését követően az NFK intézkedik annak érdekében, hogy az ingatlanügyi hatóság a bejegyzett vagyonkezelői jogot törölje az ingatlan-nyilvántartásból. A vagyonkezelői jog megszűnésének időpontjától a központi költségvetési szervet az érintett ingatlan vonatkozásában ingyenes használati jog illeti meg e rendelet erejénél fogva a vevő részére történő birtokátruházás napjáig, azzal, hogy a tulajdonosi joggyakorló az ingyenes használati jog megszűnésének napját egyoldalú nyilatkozatában ettől eltérő, korábbi időpont megjelölésével is meghatározhatja. E bekezdés szerinti azonnali hatályú felmondás esetén a (3) bekezdés nem alkalmazható.”
-
-(3) A 262/2010. (XI. 17.) Korm. rendelet 43. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A felek a határozatlan időre kötött vagyonkezelési szerződést írásban, indokolás nélkül, 90 napos felmondási idővel a gazdasági év végére szüntethetik meg. A rendes felmondási időt a felek ettől eltérően oly módon is meghatározhatják, hogy az NFK a termőföld védelméről szóló 2007. évi CXXIX. törvényben (a továbbiakban: Tfvt.) előírtak szerint, az ott meghatározott föld hasznosítási kötelezettségének teljesítéséről, illetve a művelés alól kivett területekkel összefüggő gazdálkodási feladatok ellátásáról gondoskodni tudjon. A határozott időre kötött vagyonkezelési szerződés rendes felmondással a szerződésben meghatározott esetekben szüntethető meg.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

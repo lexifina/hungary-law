@@ -1,1 +1,3 @@
-18. § A 38/2014. (II. 24.) Korm. rendelet 2. melléklete helyébe az 1. melléklet lép.
+18. §[^19]
+
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

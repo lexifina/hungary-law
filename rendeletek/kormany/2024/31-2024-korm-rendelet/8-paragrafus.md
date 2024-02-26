@@ -1,9 +1,3 @@
-8. § A 262/2010. (XI. 17.) Korm. rendelet 43/D. § (2) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(2) Nem kell pályáztatási eljárást lefolytatni
-
-a) természetvédelmi kijelölés útján történő haszonbérbe adás esetén,
-
-b) ha a haszonbérbe adandó területek együttes térmértéke nem haladja meg az 5 hektárt, vagy
-
-c) mintagazdasági földhasználati szerződés megkötése esetén.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

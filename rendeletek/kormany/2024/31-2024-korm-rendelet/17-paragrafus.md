@@ -1,5 +1,3 @@
-17. § Hatályát veszti a 38/2014. (II. 24.) Korm. rendelet
+17. §[^18]
 
-a) 14. § (4) bekezdés a) és b) pontjában a „vagy” szövegrész,
-
-b) 19. § (1) bekezdésében a „hivatalból” szövegrész.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
