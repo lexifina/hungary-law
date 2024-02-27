@@ -1,0 +1,1 @@
+4. § Hatályát veszti a számvitelről szóló 2000. évi C. törvény, valamint az adózás rendjéről szóló 2017. évi CL. törvény veszélyhelyzet idején történő eltérő alkalmazásáról szóló 18/2024. (II. 8.) Korm. rendelet.
