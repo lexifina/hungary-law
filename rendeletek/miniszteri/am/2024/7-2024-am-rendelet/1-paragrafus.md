@@ -1,0 +1,3 @@
+1. § A mezőgazdasági krízisbiztosítási rendszer működésének részletes szabályairól szóló 68/2020. (XII. 23.) AM rendelet [a továbbiakban: 68/2020. (XII. 23.) AM rendelet] 1. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A tagsági jogviszony a (8) bekezdésben foglalt kivétellel a csatlakozási kérelem benyújtása évének első napjától számított harmadik év december 31-éig áll fenn, a 2. §-ban meghatározott kötelezettségek nemteljesítése esetén is. A tagsági jogviszony a hároméves időszak leteltét követően további három évre meghosszabbodik, amelyről a krízisbiztosítási szerv a krízisbiztosítási rendszerben tag mezőgazdasági termelőt elektronikus úton tájékoztatja a hároméves időszak leteltét követő év február 28-áig.”
