@@ -156,13 +156,13 @@ d) a Posta Elszámoló Központot működtető intézmény (a továbbiakban: pos
 
 e) a postai szolgáltatásokról szóló törvény szerinti nemzetközi postautalvány-szolgáltatást nyújtó postai szolgáltató;
 
-29. pénztár: a pénzforgalmazó fiókjában a 23. pont a) alpont aa), ae), af) pontja és a 23. pont b) alpont ba), be), bf) pontja szerinti készpénzforgalmazási művelet lebonyolítására szolgáló, az ügyféltérrel egy légtérben kialakított munkaterület vagy az ügyféltértől elkülönített helyiség;
+29. [^1] pénztár: a pénzforgalmazó fiókjában a 25. pont a) alpont aa), ae), af) pontja és a 25. pont b) alpont ba), be), bf) pontja szerinti készpénzforgalmazási művelet lebonyolítására szolgáló, az ügyféltérrel egy légtérben kialakított munkaterület vagy az ügyféltértől elkülönített helyiség;
 
-30. pénztáros: a pénzforgalmazónak a 23. pont a) alpont aa), ae), af) pontja és a 23. pont b) alpont ba), be), bf) pontja szerinti készpénzforgalmazási műveletet végrehajtó alkalmazottja;
+30. [^2] pénztáros: a pénzforgalmazónak a 25. pont a) alpont aa), ae), af) pontja és a 25. pont b) alpont ba), be), bf) pontja szerinti készpénzforgalmazási műveletet végrehajtó alkalmazottja;
 
-31. számlatulajdonos: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek, illetve amelynek a fizetési számláján az ügyfél által kezelt gépen befizetett, illetve felvett készpénz összege jóváírásra, illetve terhelésre kerül;
+31. [^3] rendelkezésre állás: az az időszak, amikor az ATM, ügyfél által kezelt gép képes – legalább részlegesen – az ügyfél bankjegykifizetési és -befizetési igényének teljesítésére;
 
-32. rendelkezésre állás: az az időszak, amikor az ATM, ügyfél által kezelt gép képes – legalább részlegesen – az ügyfél bankjegykifizetési igényének teljesítésére;
+32. [^4] számlatulajdonos: az a természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet, akinek, illetve amelynek a fizetési számláján az ügyfél által kezelt gépen befizetett, illetve felvett készpénz összege jóváírásra, illetve terhelésre kerül;
 
 33. törvényes fizetőeszköz: az MNB tv. 4. § (2) bekezdése szerinti, illetve a pénzkibocsátásra jogosult külföldi intézmény jogi aktusában vagy hivatalos közleményében ilyenként meghatározott bankjegy és érme;
 
@@ -171,3 +171,8 @@ e) a postai szolgáltatásokról szóló törvény szerinti nemzetközi postauta
 35. ügyfél: a készpénzforgalmazás keretében a pénzfeldolgozó, a pénzforgalmazó, az ügyfél által kezelt gép, valamint az automata bankjegykiadó gép szolgáltatását igénybe vevő természetes vagy jogi személy, valamint jogi személyiséggel nem rendelkező szervezet;
 
 36. vis maior: minden, a pénzfeldolgozót, a pénzforgalmazót és az egyéb gazdasági szereplőt befolyásoló, elháríthatatlan, a bankjegyellátásban komoly fennakadást okozó természeti, infrastrukturális vagy társadalmi körülmény, amely az e rendeletben foglaltak teljesítését befolyásolja, illetve gátolja, így különösen a természeti katasztrófa, a terrorcselekmény, a sztrájk, a háború és a polgárháború.
+
+[^1]: A 2. § 29. pontja a 4/2024. (II. 27.) MNB rendelet 8. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 30. pontja a 4/2024. (II. 27.) MNB rendelet 8. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 31. pontja a 4/2024. (II. 27.) MNB rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § 32. pontja a 4/2024. (II. 27.) MNB rendelet 1. §-ával megállapított szöveg.

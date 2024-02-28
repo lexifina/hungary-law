@@ -14,7 +14,7 @@ e) a gyártó, forgalmazó cég megnevezése, székhelye,
 
 f) a karbantartást, javítást végző cég megnevezése, székhelye, a karbantartás gyakorisága.
 
-(3) A (2) bekezdés szerinti adatok változását a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő legkésőbb a változás életbe lépését követő 5 munkanapon belül, a változó adatoknak a (2) bekezdésben meghatározott módon történő rögzítésével köteles bejelenteni az MNB-nek.
+(3)[^5] A (2) bekezdés szerinti adatok változását – ideértve a bankjegyvizsgáló gép üzemeltetési helyszínről történő, 5 munkanapot meghaladó javítás, karbantartás miatti elszállításának tényét is – a pénzfeldolgozó, a pénzforgalmazó és az egyéb gazdasági szereplő legkésőbb a változás életbe lépését követő 5 munkanapon belül, a változó adatoknak a (2) bekezdésben meghatározott módon történő rögzítésével köteles bejelenteni az MNB-nek.
 
 (4) Az (1) bekezdés szerinti üzembe helyezésről a magyarországi székhellyel rendelkező gyártó, ennek hiányában a forgalmazó köteles negyedévente – a tárgynegyedévet követő hónap 5. munkanapjáig – tájékoztatni az MNB-t, a (2) bekezdésben meghatározott módon megadva az alábbi adatokat:
 
@@ -33,3 +33,5 @@ d) kapcsolattartó szervezeti egység megnevezése, elérhetősége.
 (7) A gyártó és a forgalmazó már üzembe helyezett bankjegyvizsgáló gépen a forintbankjegyek valódiságvizsgálatára szolgáló szoftver frissítését csak az MNB jegyzékben szereplő, a 21. § (3) bekezdése szerinti záradék nélküli szoftververzióval hajthatja végre, és arról köteles – legkésőbb a szoftverfrissítés végrehajtását követő 5 munkanapon belül, a (2) bekezdésben meghatározott módon – értesíteni az MNB-t.
 
 (8) Az üzemeltető köteles gondoskodni a bankjegyvizsgáló gép e rendeletben meghatározott követelményeknek megfelelő működéséről, valamint a gyártó által előírt, ennek hiányában a forgalmazó által előírt karbantartásnak – a gyártó, illetve a forgalmazó által meghatározott gyakorisággal történő – elvégzéséről és annak dokumentálásáról.
+
+[^5]: Az 5. § (3) bekezdése a 4/2024. (II. 27.) MNB rendelet 8. § b) pontja szerint módosított szöveg.

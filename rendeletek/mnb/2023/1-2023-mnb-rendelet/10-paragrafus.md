@@ -1,8 +1,8 @@
 10. § (1) A hitelintézetnek a készpénzesautomata-hálózatába tartozó, készpénzfelvételi funkcióval rendelkező készpénzes automaták minimális darabszámát elsődlegesen a következő, területi alapú feltételek alapján kell megállapítania:
 
-a) a hitelintézet által üzemeltetendő, készpénzfelvételi funkcióval rendelkező készpénzes automaták mennyisége a hitelintézet által kibocsátott, készpénzfelvételi funkcióval rendelkező fizetési kártyák mennyiségének függvényében:
+a) [^7] a hitelintézet által üzemeltetendő, készpénzfelvételi funkcióval rendelkező készpénzes automaták mennyisége a hitelintézet által kibocsátott, készpénzfelvételi funkcióval rendelkező fizetési kártyák mennyiségének függvényében:
 
-|  | Készpénzfelvételi funkcióval rendelkező betéti típusú fizetési kártyák teljes kibocsátott mennyisége, valamint a hitel típusú fizetési kártyák 50%-kal csökkentett kibocsátott mennyisége a felmérés évét megelőző év utolsó napján (db) | A hitelintézet által üzemeltetendő, készpénzfelvételi funkcióval rendelkező készpénzes automaták átlagos darabszáma (db) | Összesen |
+|  | Készpénzfelvételi funkcióval rendelkező betéti típusú fizetési kártyák teljes kibocsátott mennyisége, valamint a hitel típusú fizetési kártyák 50%-kal csökkentett kibocsátott mennyisége a felmérés évét megelőző naptári év, illetve a (7a) bekezdés szerinti esetben a felméréssel érintett naptári negyedév utolsó napján (db) | A hitelintézet által üzemeltetendő, készpénzfelvételi funkcióval rendelkező készpénzes automaták átlagos darabszáma (db) | Összesen |
 
 | fővárosi kerületben | vármegye-székhelyen | vármegye egyéb településein |
 
@@ -21,6 +21,8 @@ b) amennyiben a hitelintézet az a) pontban foglalt táblázat bármelyik 2 ter�
 c) az a) pontban foglalt táblázat A:2 mezőjében meghatározott mennyiségű készpénzfelvételi funkcióval rendelkező fizetési kártyát kibocsátó hitelintézet a vármegyeszékhelyen kívüli városok legalább 65%-ában köteles készpénzfelvételi funkcióval rendelkező készpénzes automatát üzemeltetni;
 
 d) az a) pontban foglalt táblázat A:3, illetve A:4 mezőjében meghatározott mennyiségű készpénzfelvételi funkcióval rendelkező fizetési kártyát kibocsátó hitelintézet a vármegyeszékhelyen kívüli városok legalább 80%-ában köteles készpénzfelvételi funkcióval rendelkező készpénzes automatát üzemeltetni.
+
+e) [^8] a c), illetve d) pontban foglaltaktól eltérve nem városi rangú településen készpénzes automata abban az esetben üzemeltethető, amennyiben azt az ügyféligény, a forgalmi adatok vagy a lakosságszám indokolja.
 
 (2) Amennyiben a készpénzfelvételi funkcióval rendelkező készpénzes automaták területi alapú feltételek alapján számított minimális darabszáma magasabb, mint a hitelintézet által üzemeltett készpénzes automaták aktuális darabszáma, a hitelintézet a készpénzesautomata-hálózata bővítését a következő határidőn belül köteles elvégezni:
 
@@ -44,4 +46,15 @@ b) a befizetési funkcióval rendelkező készpénzes automatákra eső éves á
 
 (7) A hitelintézet köteles a készpénzesautomata-hálózatának területi és forgalmi alapú feltételeknek való megfelelését háromévente felmérni, és a felmérés eredményét a felmérés évének május 10. napjáig az ERA rendszeren keresztül megküldeni az MNB részére.
 
-(8) Az MNB a (7) bekezdés szerinti felmérés alapján hatósági határozatban minősíti a hitelintézet készpénzesautomata-hálózatát az (1)–(5) bekezdésben meghatározott követelményeknek való megfelelés szempontjából, és a minősítés alapján, amennyiben a hitelintézet készpénzesautomata-hálózata az (1)–(5) bekezdésben foglalt követelményeknek nem felel meg, kötelezi a hitelintézetet a követelményeknek megfelelő készpénzesautomata-hálózat kialakítására.
+(7a) [^9] A működését 2024. március 15-ét követően megkezdő hitelintézet a készpénzesautomata-hálózatának felmérését első alkalommal
+
+a) a területi alapú feltételeknek való megfelelés tekintetében az MNB által kiadott tevékenységi engedélyről szóló határozat véglegessé válása napját, illetve az Európai Unió másik tagállamában vagy az Európai Gazdasági Térségről szóló Megállapodásban részes más államban székhellyel rendelkező hitelintézet magyarországi fióktelepe (a továbbiakban: EGT-fióktelep) esetében a működése megkezdése napját követő naptári negyedévre vonatkozóan köteles elvégezni, és a felmérés eredményét a pénzforgalmi infrastruktúrák ezen naptári negyedévi statisztikai adatainak a 9. § (2) bekezdés b) pont bb) alpontja szerinti közzétételét követő 3 hónapon belül az ERA rendszeren keresztül köteles megküldeni az MNB részére;
+
+b) a forgalmi alapú feltételeknek való megfelelés tekintetében az MNB által kiadott tevékenységi engedélyről szóló határozat véglegessé válása napja, illetve EGT-fióktelep esetében a működése megkezdése napja utáni – a (7) bekezdést és a 36. § (1) bekezdését figyelembe véve – soron következő felmérés keretében köteles elvégezni, és a felmérés eredményét a (7) bekezdés szerinti határidőben és módon köteles megküldeni az MNB részére.
+
+(8) [^10] Az MNB a (7), illetve (7a) bekezdés szerinti felmérés alapján hatósági határozatban minősíti a hitelintézet készpénzesautomata-hálózatát az (1)–(5) bekezdésben meghatározott követelményeknek való megfelelés szempontjából, és a minősítés alapján, amennyiben a hitelintézet készpénzesautomata-hálózata az (1)–(5) bekezdésben foglalt követelményeknek nem felel meg, kötelezi a hitelintézetet a követelményeknek megfelelő készpénzesautomata-hálózat kialakítására.
+
+[^7]: A 10. § (1) bekezdés a) pontja a 4/2024. (II. 27.) MNB rendelet 8. § c) pontja szerint módosított szöveg.
+[^8]: A 10. § (1) bekezdés e) pontját a 4/2024. (II. 27.) MNB rendelet 3. § (1) bekezdése iktatta be.
+[^9]: A 10. § (7a) bekezdését a 4/2024. (II. 27.) MNB rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 10. § (8) bekezdése a 4/2024. (II. 27.) MNB rendelet 8. § d) pontja szerint módosított szöveg.

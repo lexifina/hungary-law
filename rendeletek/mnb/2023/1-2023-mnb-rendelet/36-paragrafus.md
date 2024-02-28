@@ -7,3 +7,7 @@
 (4) A pénzfeldolgozó a 33. § szerinti rendszeres elemzést első alkalommal 2023. június 30-ig köteles elkészíteni.
 
 (5) A pénzfeldolgozó üzletmenetfolytonossági tervét a 34. § (1)–(4) bekezdése alapján első alkalommal 2023. június 30-ig köteles elkészíteni és megküldeni az MNB részére.
+
+(6)[^14] A hitelintézet a 10. § (1) bekezdésébe a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 1/2023. (I. 17.) MNB rendelet módosításáról szóló 4/2024. (II. 27.) MNB rendelettel [a továbbiakban: 4/2024. (II. 27.) MNB rendelet] beiktatott e) pont szerinti területi alapú feltételt az MNB-nek a 10. § (8) bekezdése szerinti, a 4/2024. (II. 27.) MNB rendelet hatálybalépése előtt meghozott hatósági határozatában foglaltaknak való megfelelés érdekében is alkalmazhatja.
+
+[^14]: A 36. § (6) bekezdését a 4/2024. (II. 27.) MNB rendelet 6. §-a iktatta be.

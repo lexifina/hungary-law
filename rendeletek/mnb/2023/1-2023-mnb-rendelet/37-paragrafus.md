@@ -3,3 +3,5 @@
 1. az euró pénzhamisítás elleni védelméhez szükséges intézkedések megállapításáról szóló, 2001. június 28-i 1338/2001/EK tanácsi rendelet és az azt módosító 44/2009/EK tanácsi rendelet,
 
 2. az euró pénzhamisítás elleni védelméhez szükséges intézkedések megállapításáról szóló 1338/2001/EK rendelet hatásainak az eurót közös valutaként el nem fogadó tagállamokra történő kiterjesztéséről szóló, 2001. június 28-i 1339/2001/EK tanácsi rendelet és az azt módosító 45/2009/EK tanácsi rendelet
+
+végrehajtásához szükséges rendelkezéseket állapítja meg.
