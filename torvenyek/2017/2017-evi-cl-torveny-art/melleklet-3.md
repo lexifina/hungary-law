@@ -225,7 +225,3 @@
 ## 3.1.1. Az adózó, ha a Tao tv. szerint havonta fizet adóelőleget, akkor az adóelőleget minden hónap huszadik napjáig, ha a Tao tv. szerint negyedévenként fizet adóelőleget, akkor az adóelőleget a negyedévet követő hó huszadik napjáig fizeti meg.
 
 ## 3.1.2.
-
-## 3.2. A társasági adó
-
-## 3.2.1. Az adózó a társasági adót, a megfizetett adóelőleg és az adóévre megállapított társasági adó különbözetét az adóévet követő év ötödik hónap utolsó napjáig fizeti meg, illetve ettől az időponttól igényelheti vissza.
