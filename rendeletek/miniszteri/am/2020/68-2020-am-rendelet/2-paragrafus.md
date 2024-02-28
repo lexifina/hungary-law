@@ -18,7 +18,7 @@ ba) az egységes kérelemben bejelentett területre vonatkozó, (2) bekezdés a)
 
 bb) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területre vonatkozó, (2) bekezdés a)–c) pontja szerinti adatokat.
 
-c)[^3] az őstermelők családi gazdaságának nyilvántartási számát, tagjainak családi és utónevét, születési családi és utónevét, ügyfél-azonosítóját és az élelmiszerlánc-felügyeleti információs rendszerben (FELIR) nyilvántartott azonosítóját.
+c)[^5] az őstermelők családi gazdaságának nyilvántartási számát, tagjainak családi és utónevét, születési családi és utónevét, ügyfél-azonosítóját és az élelmiszerlánc-felügyeleti információs rendszerben (FELIR) nyilvántartott azonosítóját.
 
 (2) A mezőgazdasági termelőnek az (1) bekezdés a) pont aa)–ac) alpontjában, valamint b) pontjában foglaltak alapján az alábbi gazdálkodási adatokat kell megadnia:
 
@@ -72,7 +72,7 @@ c) a mezőgazdasági haszonállat éves átlaglétszáma korcsoport szerinti bon
 
 (8) A (6) bekezdés b) pontja szerint igazolt éves átlagos állatállományi létszám – 1. melléklet 2. pontja szerinti – meghatározása során a takarmányozási napokat kell figyelembe venni. Erre vonatkozó termelői adat hiányában az állatállományi létszámot úgy kell meghatározni, hogy a kibocsátott (megtermelt) darabszámot el kell osztani az üzemben jellemző termelési ciklusok mennyiségével.
 
-(9)[^4] A mezőgazdasági termelő az (1) bekezdés a) pont ab), ac) alpontja és b) pont bb) alpontja, c) pontja, a (4) bekezdés a) pontja és az (5) bekezdés b) pontja szerinti adatszolgáltatás teljesítésével egyidejűleg csatolja
+(9)[^6] A mezőgazdasági termelő az (1) bekezdés a) pont ab), ac) alpontja és b) pont bb) alpontja, c) pontja, a (4) bekezdés a) pontja és az (5) bekezdés b) pontja szerinti adatszolgáltatás teljesítésével egyidejűleg csatolja
 
 a) az egységes kérelemben be nem jelentett, termesztőberendezésben folytatott mezőgazdasági tevékenységgel érintett területek (2) bekezdés a) és b) pontja szerinti adataira vonatkozó, a Nemzeti Agrárgazdasági Kamara (a továbbiakban: NAK) – (10) bekezdés szerint kiállított – igazolását,
 
@@ -92,8 +92,8 @@ c) a (3) bekezdés szerinti adatokat tartalmazó készletnyilvántartást vezet.
 
 (12) A mezőgazdasági termelőnek a csatlakozás évét megelőző három lezárt év vonatkozásában is rendelkeznie kell a (11) bekezdés szerinti adatok alátámasztására és ellenőrzésére alkalmas kimutatásokkal.
 
-(13)[^5] Ha a mezőgazdasági termelő az (1)–(5) bekezdésben foglalt adatszolgáltatási kötelezettségét hiányosan teljesíti, akkor a krízisbiztosítási szerv hiánypótlásra szólítja fel.
+(13)[^7] Ha a mezőgazdasági termelő az (1)–(5) bekezdésben foglalt adatszolgáltatási kötelezettségét hiányosan teljesíti, akkor a krízisbiztosítási szerv hiánypótlásra szólítja fel.
 
-[^3]: A 2. § (1) bekezdés c) pontját a 3/2022. (I. 28.) AM rendelet 2. § (1) bekezdése iktatta be.
-[^4]: A 2. § (9) bekezdése a 3/2022. (I. 28.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § (13) bekezdése a 3/2022. (I. 28.) AM rendelet 4. §-a szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés c) pontját a 3/2022. (I. 28.) AM rendelet 2. § (1) bekezdése iktatta be.
+[^6]: A 2. § (9) bekezdése a 3/2022. (I. 28.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (13) bekezdése a 3/2022. (I. 28.) AM rendelet 4. §-a szerint módosított szöveg.

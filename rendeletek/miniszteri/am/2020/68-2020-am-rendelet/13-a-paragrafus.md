@@ -1,6 +1,6 @@
 ## 13. § A tárgyévet követő év január 31-éig a krízisbiztosítási szerv összefoglaló jelentést készít, amely a tárgyévre vonatkozóan tartalmazza a krízisbiztosítási rendszer taglétszámát, saját forrásának összegét, valamint a kifizetett kompenzáció összegét mezőgazdasági tevékenységenkénti bontásban.
 
-## 5/A.[^7] Krízisbiztosítási pótbefizetés és pótlólagos kompenzáció kifizetése
+## 5/A.[^9] Krízisbiztosítási pótbefizetés és pótlólagos kompenzáció kifizetése
 
 13/A. § (1) Azon mezőgazdasági termelő jogosult pótlólagos kompenzációra, aki
 
@@ -18,4 +18,4 @@ b) a pótbefizetés összegét maradéktalanul megfizeti az (5) bekezdés szerin
 
 (6) A 2021. év vonatkozásában a pótbefizetés összege a 2021. évben befizetett krízisbiztosítási hozzájárulás 3,5-szerese.
 
-[^7]: Az 5/A. alcímet (13/A-13/B. §-t) a 26/2023. (VI. 30.) AM rendelet 1. §-a iktatta be.
+[^9]: Az 5/A. alcímet (13/A-13/B. §-t) a 26/2023. (VI. 30.) AM rendelet 1. §-a iktatta be.
