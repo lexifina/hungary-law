@@ -8,6 +8,8 @@ a) adóellenőrzés és ismételt ellenőrzés esetében kilencven nap, a legnag
 
 b) jogkövetési vizsgálat esetében harminc nap.
 
+(1a) A jogutód adózónál lefolytatandó, a jogelőd adókötelezettségeire is kiterjedő adóellenőrzés határideje százhúsz nap, ha a vizsgált időszakban, illetve annak egy részében valamelyik jogelőd a legnagyobb adóteljesítménnyel rendelkező adózók körébe tartozott.
+
 (2) Az (1) bekezdésben meghatározott határidőnél hosszabb határidőt törvény, rövidebb határidőt jogszabály állapíthat meg.
 
 (3) Az állami adó- és vámhatóság által végzett adóellenőrzés időtartama az Áfa tv. szerinti csoportos adóalany és a Tao. tv. szerinti csoportos társasági adóalany, valamint az áfa-regisztrált adóalany kivételével a cégbejegyzésre nem kötelezett adózó és a megbízható adózó esetén – feltéve, hogy az adózó az ellenőrzést nem akadályozza – nem haladhatja meg a száznyolcvan napot.
