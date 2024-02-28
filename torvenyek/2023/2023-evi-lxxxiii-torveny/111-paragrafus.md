@@ -1,1 +1,5 @@
-### 111. §
+111. § Az Art. 159. §-a helyébe a következő rendelkezés lép:
+
+„159. § [Az ellenőrzési határidő kockázatos adózónál]
+
+Ha az adózó az állami adó- és vámhatóság által ellenőrzés alá vont időszakban, illetve annak egy részében, vagy az ellenőrzés időtartama alatt, illetve annak egy részében kockázatos adózónak minősül, az ellenőrzés határideje hatvan nappal meghosszabbodik. Ha a kockázatos minősítésű adózónál a folyamatban lévő ellenőrzés során felszámolási, végelszámolási eljárás indul, vagy folyamatban lévő ellenőrzésnél a felszámolási, végelszámolási eljárás az adózó továbbműködésével zárul, az ellenőrzési határidőt az ellenőrzés kezdetekor alkalmazandó szabályok szerint kell számítani.”
