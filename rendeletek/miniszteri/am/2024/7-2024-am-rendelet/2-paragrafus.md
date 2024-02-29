@@ -1,3 +1,3 @@
-2. § A 68/2020. (XII. 23.) AM rendelet 1. § (8) bekezdés b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A tagsági jogviszony megszűnik)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
