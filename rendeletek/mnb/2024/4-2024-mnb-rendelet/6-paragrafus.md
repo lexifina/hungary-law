@@ -1,3 +1,3 @@
-6. § A Rendelet 36. §-a a következő (6) bekezdéssel egészül ki:
+6. §[^7]
 
-„(6) A hitelintézet a 10. § (1) bekezdésébe a bankjegyek feldolgozásáról, forgalmazásáról, valamint hamisítás elleni védelmével kapcsolatos technikai feladatokról szóló 1/2023. (I. 17.) MNB rendelet módosításáról szóló 4/2024. (II. 27.) MNB rendelettel [a továbbiakban: 4/2024. (II. 27.) MNB rendelet] beiktatott e) pont szerinti területi alapú feltételt az MNB-nek a 10. § (8) bekezdése szerinti, a 4/2024. (II. 27.) MNB rendelet hatálybalépése előtt meghozott hatósági határozatában foglaltaknak való megfelelés érdekében is alkalmazhatja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
