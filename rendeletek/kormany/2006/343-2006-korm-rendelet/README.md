@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-343-20-
 | 2022-08-12 | 2006-343-20-22.52 | 322/2012. (XI. 16.) Korm. rendelet |
 | 2022-11-03 | 2006-343-20-22.53 | 438/2022. (XI. 2.) Korm. rendelet |
 | 2023-01-01 | 2006-343-20-22.54 | 322/2012. (XI. 16.) Korm. rendelet |
+| 2024-03-01 | 2006-343-20-22.55 | 237/2024. (VIII. 8.) Korm. rendelet |
