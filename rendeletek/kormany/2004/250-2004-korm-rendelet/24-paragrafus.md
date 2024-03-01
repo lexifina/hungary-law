@@ -10,7 +10,7 @@ b) katonai igazolvánnyal,
 
 c) tartózkodási engedéllyel,
 
-d)[^46] letelepedett jogállást igazoló okmánnyal,
+d)[^46] huzamos tartózkodási jogosultságot igazoló okmánnyal,
 
 e) ideiglenes tartózkodásra jogosító igazolással,
 
@@ -34,6 +34,6 @@ b) egyéb szervezet esetén létesítő okirattal, illetve kinevezési okirattal
 
 (6)[^48] A végrehajtó az e §-ban említett okiratok valódiságát nem vizsgálja, a bírósági iratot annak felmutatása ellenében átadja. Ha a végrehajtónak kétsége támad a bemutatott okiratok valódiságát illetően, úgy intézkedik a bírósági iratnak a címzett részére, a hivatalos iratok kézbesítésére vonatkozó szabályok szerinti kézbesítése iránt is.
 
-[^46]: A 24. § (1) bekezdésének d) pontja a 115/2007. (V. 24.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^46]: A 24. § (1) bekezdés d) pontja a 115/2007. (V. 24.) Korm. rendelet 23. §-ával megállapított, a 35/2024. (II. 29.) Korm. rendelet 278. §-a szerint módosított szöveg.
 [^47]: A 24. § (2) bekezdés a) pontja a 163/2009. (VIII. 6.) Korm. rendelet 40. § (8) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 18. § f) pontja szerint módosított szöveg.
 [^48]: A 24. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés b) pontja szerint módosított szöveg.
