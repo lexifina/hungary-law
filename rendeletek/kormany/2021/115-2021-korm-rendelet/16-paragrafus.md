@@ -12,8 +12,12 @@ b) a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges törv
 
 c) harmadik országbeli állampolgár foglalkoztatásának engedélyezésével kapcsolatos szabályok megsértése
 
+d)[^7] határokon átnyúló szolgáltatásnyújtás keretében Magyarországra küldött foglalkoztatott jogsértő kiküldetésének 26. § (1) bekezdése szerinti megállapítása
+
 esetén.
 
 (2) A foglalkoztatás-felügyeleti hatóság a jogszabálysértés megszüntetéséig megtiltja a jogszabálysértéssel érintett foglalkoztatott további foglalkoztatását, ha az a jogszabálysértés vagy várható következményeinek súlyossága miatt nem tartható fenn, és a sérelem rövid időn belül nem orvosolható.
 
 (3) A foglalkoztatottnak az ellenértékhez való jogát nem érinti, ha a további foglalkoztatás megtiltására azért került sor, mert a foglalkoztató megsértette a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozatok alakszerűségére vagy a jogviszony bejelentésére vonatkozó rendelkezéseket.
+
+[^7]: A 16. § (1) bekezdés d) pontját a 24/2024. (II. 14.) Korm. rendelet 5. §-a iktatta be.

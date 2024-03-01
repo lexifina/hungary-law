@@ -2,7 +2,7 @@
 
 15. § (1) Ha a foglalkoztatás-felügyeleti hatóság a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogszabály megsértését állapítja meg, a véglegessé vált határozatát megküldi az idegenrendészeti hatóságnak.
 
-(2) Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy keresőtevékenység folytatására jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
+(2)[^6] Ha a harmadik országbeli állampolgár foglalkoztatására érvényes tartózkodási engedély vagy munkavégzésre jogosító engedély hiányában került sor, és az ellenőrzés megállapítja annak valószínűségét, hogy
 
 a) a jogszabálysértés súlyosságára tekintettel a jogszabálysértés során igénybe vett létesítmények átmeneti vagy végleges bezárása, a szóban forgó gazdasági tevékenység végzésére kiadott engedély visszavonása lehet indokolt, vagy
 
@@ -11,3 +11,5 @@ b) a harmadik országbeli állampolgár foglalkoztatása vagy magyarországi tar
 a foglalkoztatás-felügyeleti hatóság a szükséges intézkedések megtétele céljából megkeresi a hatáskörrel rendelkező hatóságot.
 
 (3) A foglalkoztatás-felügyeleti hatóság a (2) bekezdés szerint intézkedik, ha a külföldi foglalkoztató által harmadik személlyel kötött megállapodás alapján Magyarországra küldött foglalkoztatott számára biztosított szállás feltételeire vonatkozó ellenőrzés valószínűsíti a hatáskörrel rendelkező hatóság eljárásának szükségességét.
+
+[^6]: A 15. § (2) bekezdés nyitó szövegrésze a 24/2024. (II. 14.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.

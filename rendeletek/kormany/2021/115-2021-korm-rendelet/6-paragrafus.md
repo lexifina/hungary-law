@@ -6,8 +6,10 @@ b) a külföldi foglalkoztató által harmadik személlyel kötött megállapod�
 
 c) a külföldi állampolgár magyarországi foglalkoztatásának bejelentésére vonatkozó szabályok,
 
-d) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott, az érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély meglétére és másolatának megőrzésére vonatkozó kötelezettségek, valamint
+d)[^4] a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott, az érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély meglétére és másolatának megőrzésére vonatkozó kötelezettségek, valamint
 
 e) az Mt. hatálya alá nem tartozó foglalkoztató esetében a nemzetközi magánjog szabályai szerinti imperatív rendelkezések és az Mt. megállapodás útján eltérést nem engedő szabályainak
 
 megtartására terjed ki.
+
+[^4]: A 6. § d) pontja a 35/2024. (II. 29.) Korm. rendelet 336. § a) pontja szerint módosított szöveg.

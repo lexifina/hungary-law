@@ -14,15 +14,15 @@ ba) a foglalkoztatásra irányuló jogviszony létesítésével kapcsolatos éle
 
 bb) a foglalkoztatási jogviszonyt szabályozó jogszabályban a munka díjazására vonatkozó rendelkezések megsértése,
 
-bc)[^8] a munkaerő-kölcsönzési tevékenység nyilvántartásba vételével kapcsolatos szabályainak megsértése,
+bc)[^23] a munkaerő-kölcsönzési tevékenység nyilvántartásba vételével kapcsolatos szabályainak megsértése,
 
-bd)[^9] a minősített kölcsönbeadó nyilvántartásba vételével kapcsolatos szabályainak megsértése, vagy
+bd)[^24] a minősített kölcsönbeadó nyilvántartásba vételével kapcsolatos szabályainak megsértése, vagy
 
 c) az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló törvény alapján az egyenlő bánásmód követelményének megsértése
 
 miatt a költségvetési támogatás igénylésének időpontját megelőző két éven belül végleges – közigazgatási per esetén a bíróság jogerős ítéletével elbírált – és végrehajtható, nyilvánosságra hozott közigazgatási határozatban bírsággal sújtott.
 
-(2) Nem felel meg a rendezett munkaügyi kapcsolatok követelményének az, akit harmadik országbeli állampolgár munkavállalási engedély vagy a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti keresőtevékenység folytatása céljából összevont engedélyezési eljárás keretében kiadott összevont engedély nélkül történő foglalkoztatása miatt a hatóság a költségvetési támogatás igénylésének időpontját megelőző két éven belül végleges – közigazgatási per esetén a bíróság jogerős ítéletével elbírált – és végrehajtható, nyilvánosságra hozott közigazgatási határozatban bírsággal sújtott.
+(2)[^25] Nem felel meg a rendezett munkaügyi kapcsolatok követelményének az, akit harmadik országbeli állampolgár munkavégzésre jogosító engedély nélkül történő foglalkoztatása miatt a hatóság a költségvetési támogatás igénylésének időpontját megelőző két éven belül végleges – közigazgatási per esetén a bíróság jogerős ítéletével elbírált – és végrehajtható, nyilvánosságra hozott közigazgatási határozatban bírsággal sújtott.
 
 (3) A rendezett munkaügyi kapcsolatok feltételei teljesülésének megállapítása alapjául a következő dokumentumok szolgálnak:
 
@@ -36,5 +36,6 @@ c) az (1) bekezdés c) pontjában meghatározott feltétel tekintetében az egye
 
 (4) A (3) bekezdésben meghatározott dokumentumok helyett a rendezett munkaügyi kapcsolatok megállapításának alapjául az Fftv. felhatalmazása alapján kiadott kormányrendeletben meghatározott szervek esetében a különös hatáskörű foglalkoztatás-felügyeleti hatóság által kiállított igazolás szolgál.
 
-[^8]: A 20. § (1) bekezdés b) pont bc) alpontja a 227/2022. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^9]: A 20. § (1) bekezdés b) pont bd) alpontját a 227/2022. (VI. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^23]: A 20. § (1) bekezdés b) pont bc) alpontja a 227/2022. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^24]: A 20. § (1) bekezdés b) pont bd) alpontját a 227/2022. (VI. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^25]: A 20. § (2) bekezdése a 35/2024. (II. 29.) Korm. rendelet 335. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 29. § E rendelet rendelkezéseit a hatálybalépését követően megkezdett hatósági ellenőrzés vagy benyújtott kérelem alapján indult eljárásokban kell alkalmazni.
-
 ## 22. Az Európai Unió jogának való megfelelés
 
 30. § (1) Ez a rendelet az Európai Munkaügyi Hatóság létrehozásáról, a 883/2004/EK, a 492/2011/EU és az (EU) 2016/589 rendelet módosításáról, valamint az (EU) 2016/344 határozat hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1149 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
