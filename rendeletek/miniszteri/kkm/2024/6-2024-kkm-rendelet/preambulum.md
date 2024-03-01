@@ -1,0 +1,1 @@
+A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 284. § (10) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 139. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
