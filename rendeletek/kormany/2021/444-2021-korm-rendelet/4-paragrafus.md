@@ -9,3 +9,5 @@ b) a lakás értékesítéséről kiállított,
 c) az Áfatv. 82. § (2) bekezdése alapján 5%-os általános forgalmi adó mértékkel kiállított és
 
 d) az adásvételi szerződés szerinti, a szerződéskötés időpontjában és a számla kiállításának időpontjában a működő adóalanyok állami adóhatóságnál vezetett nyilvántartásában szereplő belföldi adóalany vállalkozó által kiállított
+
+számla fogadható el.

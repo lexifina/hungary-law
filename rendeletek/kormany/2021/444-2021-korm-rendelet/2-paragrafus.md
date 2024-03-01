@@ -6,9 +6,9 @@ a) magyar állampolgár és az a személy, akit a magyar állampolgárságról s
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja,
 
-c) harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
+c)[^1] harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
 
-d) hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el
+d)[^2] hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el
 
 (a továbbiakban együtt: igénylő) igényelheti.
 
@@ -23,3 +23,6 @@ b) a lakás az ingatlan-nyilvántartásban lakás megnevezéssel feltüntetésre
 c) az igénylő tulajdonjogának ingatlan-nyilvántartásba való bejegyzése megtörtént.
 
 (4) A támogatás olyan lakás vásárlása esetén igényelhető, amelyet gazdálkodó szervezet természetes személy részére való értékesítés céljára épített vagy építtetett, és az igénylő részére értékesített.
+
+[^1]: A 2. § (1) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § b) pontja szerint módosított szöveg.

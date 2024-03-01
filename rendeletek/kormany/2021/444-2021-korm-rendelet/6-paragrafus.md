@@ -6,7 +6,7 @@ b) postai úton vagy
 
 c) személyesen a kormányablaknál
 
-## nyújtható be.
+nyújtható be.
 
 (2) A kérelemhez mellékelni kell a következő dokumentumokat:
 
@@ -26,6 +26,6 @@ b) postára adásának vagy
 
 c) a kormányablak általi átvételének
 
-## napja minősül.
+napja minősül.
 
 (4) Elektronikus benyújtás esetén a kérelem beérkezéséről és a beérkezett mellékletek számáról elektronikus úton visszaigazolást kell küldeni az igénylő részére. A visszaigazolás tartalmazza az elbíráláshoz szükséges, feltöltött mellékletek számát is. Kormányablaknál történő benyújtás esetén a kormányablak a kérelem és annak mellékletei átvételéről az igénylő részére igazolást állít ki.
