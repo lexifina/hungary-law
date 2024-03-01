@@ -1,1 +1,0 @@
-19. § Ez a rendelet 2002. január 1. napján lép hatályba. Egyidejűleg hatályát veszíti a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló 1/1994. (V. 13.) KüM rendelet.

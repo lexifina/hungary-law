@@ -1,1 +1,0 @@
-A külföldiek beutazásáról és tartózkodásáról szóló 2001. évi XXXIX. törvény (a továbbiakban: Tv.) 94. § (3) bekezdésében kapott felhatalmazás alapján – a belügyminiszterrel egyetértésben – az alábbiakat rendelem el:
