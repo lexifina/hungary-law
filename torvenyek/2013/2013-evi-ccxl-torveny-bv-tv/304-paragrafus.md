@@ -19,3 +19,5 @@ a) azt a szabadságvesztést tölti, amelynek alapján a bíróság a közügyek
 b) olyan összbüntetésbe foglalt szabadságvesztést tölt, amelyhez kapcsolódóan közügyektől eltiltást is végre kell hajtani,
 
 c) az a)–b) pontban megjelölt szabadságvesztés végrehajtása alól kivonja magát.
+
+(3) A szabadságvesztés végrehajtásának kegyelemből történő felfüggesztése esetén, ha a kegyelmi elhatározás a közügyektől eltiltást nem érintette, a próbaidő tartama a közügyektől eltiltás tartamába beszámít, kivéve, ha a szabadságvesztés végrehajtását rendelik el.

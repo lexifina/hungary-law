@@ -7,3 +7,5 @@
 (3) Ha a kegyelmi jogkör gyakorlója ettől eltérően nem dönt, a kegyelem gyakorlása esetén azok a büntetőjogi jogkövetkezmények, amelyeket a Büntető Törvénykönyvről szóló törvény a korábbi elítéléshez fűz, az ügydöntő határozatban kiszabott büntetéshez, illetve alkalmazott intézkedéshez igazodnak.
 
 (4) Ha a köztársasági elnök a büntetés végrehajtását kegyelemből próbaidőre felfüggeszti, a próbaidő és a mentesítés hatályának beálltához szükséges időtartam a kegyelmi elhatározás keltének napján kezdődik.
+
+(5) Ha a szabadságvesztés végrehajtásának a kegyelmi eljárás lefolytatásáig történő félbeszakítására nem került sor, a (4) bekezdésben meghatározottaktól eltérően, a próbaidő és a mentesítés hatályának beálltához szükséges időtartam a szabadítást követő nappal kezdődik.

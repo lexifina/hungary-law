@@ -12,11 +12,11 @@
 
 a) a döntés-előkészítés során készült tervezetre,
 
-b) a kockázatértékelési összefoglaló jelentésre, a záró kockázatértékelési jelentésre,
+b) a kockázatelemzési vizsgálat irataira és a kockázatértékelési jelentésre,
 
 c) a bv. szerv előterjesztésének a döntésre vonatkozó javaslatát tartalmazó részére,
 
-d) a biztonsági kockázati besorolással, a biztonsági zárkába vagy részlegre helyezéssel kapcsolatos olyan iratra, amelynek ismertté válása valamely más személy jogait vagy érdekeit sértené,
+d) a biztonsági intézkedések alkalmazásával, az egyedi biztonsági előírással, valamint a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezéssel kapcsolatos olyan iratra, amelynek ismertté válása valamely más személy jogait vagy érdekeit sértené,
 
 e) a végrehajtásért felelős szerv szakterületi véleményére,
 

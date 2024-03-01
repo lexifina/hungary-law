@@ -12,7 +12,7 @@ c) öttől tíz évig terjedő szabadságvesztés esetén egy évvel,
 
 d) tíz évnél hosszabb szabadságvesztés esetén két évvel,
 
-e) a társadalmi kötődés programba bevont elítélt esetén a behelyezést követő nyolc napon belül
+e)
 
 kezdi meg.
 

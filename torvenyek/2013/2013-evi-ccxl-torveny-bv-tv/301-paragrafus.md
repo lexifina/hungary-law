@@ -8,9 +8,9 @@
 
 (3) A kiutasítást,
 
-a) ha azt végrehajtandó szabadságvesztés vagy elzárás mellett szabták ki, a szabadságvesztés vagy elzárás kiállása után,
+a) ha azt végrehajtandó szabadságvesztés vagy elzárás mellett szabták ki, annak kitöltését vagy a szabadságvesztésből történő feltételes szabadságra bocsátást követően,
 
-b) ha az elítélttel szemben más büntetőügyben szabadságvesztést szabtak ki, annak kiállása után,
+b) ha az elítélttel szemben más büntetőügyben szabadságvesztést szabtak ki, annak kitöltését vagy az abból történő feltételes szabadságra bocsátást követően,
 
 c) egyéb esetben az ügydöntő határozat jogerőre emelkedése után
 

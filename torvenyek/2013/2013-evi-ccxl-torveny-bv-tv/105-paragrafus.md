@@ -4,7 +4,7 @@
 
 (2) A HSR alkalmazására és megszüntetésére a BFB döntése alapján kerülhet sor, melyet háromhavonta felül kell vizsgálni, illetve haladéktalanul meg kell szüntetni, ha feltételei már nem állnak fenn. A HSR alkalmazásáról való döntés, illetve az elhelyezés felülvizsgálata során az elítéltet meg kell hallgatni, a döntésről az elítéltet írásban tájékoztatni kell.
 
-(3) A szabadságvesztés végrehajtási fokozatára vonatkozó általános szabályok a HSR alkalmazása esetén annak végrehajtási rendjéhez igazodnak.
+(3) Az egyes kategóriákra vonatkozó szabályok a HSR alkalmazása esetén annak végrehajtási rendjéhez igazodnak. Az elítélt a kategória-besorolásának megfelelően jogosult a kapcsolattartásra azzal, hogy az intézet elhagyásával járó kapcsolattartási formákat nem gyakorolhatja, kivéve, ha a bv. intézet parancsnoka azt kivételesen egyedileg engedélyezi.
 
 (4) A HSR alkalmazása esetén az elítélt
 

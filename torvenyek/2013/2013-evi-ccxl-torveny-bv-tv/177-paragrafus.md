@@ -1,6 +1,8 @@
 ## Látogató fogadása
 
-177. § (1) Az elítélt a rezsimszabályokhoz igazodóan havonta legalább egyszer, alkalmanként legalább hatvan, de legfeljebb százhúsz percben, egyidejűleg legfeljebb négy fő látogatót fogadhat. Az elítélt vagy a kapcsolattartó kérésére a látogatási idő legfeljebb harminc perccel meghosszabbítható.
+177. § (1) Az elítélt az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de havonta legalább egyszer, alkalmanként legalább egy, de legfeljebb két órában, egyidejűleg legfeljebb négy fő látogatót fogadhat. Az elítélt vagy a kapcsolattartó kérésére a látogatási idő legfeljebb harminc perccel meghosszabbítható.
+
+(1a) Ha az elítéltnek kiskorú gyermeke van – kivéve, ha a bíróság a gyermekkel való kapcsolattartástól eltiltotta vagy az elítélt látogatót csak biztonsági fülkében vagy rácson keresztül fogadhat – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább félévente egy alkalommal, legalább egy, de legfeljebb két órában családi beszélőn fogadhatja kiskorú gyermekeit egy felnőtt kíséretével. A családi beszélő a látogatófogadás alkalmába beszámít.
 
 (2) Az elítélt és a látogató beszélgetése ellenőrizhető, amelynek lehetőségéről az elítéltet és a látogatót tájékoztatni kell.
 

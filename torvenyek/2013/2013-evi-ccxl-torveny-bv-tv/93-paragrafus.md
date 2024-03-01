@@ -1,17 +1,5 @@
-93. § (1) A KKMI elvégzi az elítélt újbóli kockázati csoportba sorolását a kiemelkedően magas kockázattal bíró elítéltek rezsimváltását megelőzően és a fogvatartásra különös veszélyt jelentő események bekövetkezésében részt vevő elítéltek esetében.
+93. § (1) A KKMI vagy az agglomerációs szervezeti egysége jogszabályban meghatározott esetben a bv. intézet kezdeményezésére elvégzi az elítélt kockázatelemzési vizsgálatát, és ha ezt szükségesnek tartja, az elítéltnek a vizsgálatra történő átszállítása iránt intézkedhet.
 
-(2) E törvény eltérő rendelkezése hiányában az elítéltet szabadulása előtt legalább hat hónapon belül záró kockázatelemzési vizsgálatnak kell alávetni a KKMI-ben, amelynek időtartama húsz napig terjedhet, amelyet a KKMI főigazgatója további tíz nappal meghosszabbíthat. A záró kockázatértékelési jelentésben kell rögzíteni az elítélt szabadulásakor mért visszaesési kockázatát.
+(2) A KKMI vagy az agglomerációs szervezeti egysége a vizsgálatot a kezdeményezéstől, vagy ha az elítélt átszállítására került sor, az átszállítástól számított tizenöt napon belül folytatja le.
 
-(3) A bv. intézeti szakterületi véleményezést megelőzően az (1) bekezdésben foglaltak szerint kell eljárni a feltételes szabadságra és reintegrációs őrizetre bocsátáshoz készítendő előterjesztés megalapozása érdekében azzal, hogy a vizsgálatot az előterjesztés benyújtásának esedékességét megelőző két hónapon belül meg kell kezdeni.
-
-(4) Nem kell elvégezni annak az elítéltnek a záró kockázatértékelését,
-
-a) aki nem tartozik a 92. § (2) bekezdés alá,
-
-b) aki az anya-gyermek részlegen van elhelyezve,
-
-c) aki a társadalmi kötődés programban vesz részt,
-
-d) aki a reintegrációs őrizetben van, vagy
-
-e) akinél a fogva tartó bv. intézet ezt nem javasolja.
+(3) A 97/A. § (4) és (5) bekezdése alapján lefolytatott újabb kockázatelemzési vizsgálat eredményeként a KKMI vagy az agglomerációs szervezeti egysége az elítélt aktuális kategória-besorolásához képest eggyel szigorúbb kategóriába történő visszasorolásáról dönthet, illetve a 97/A. § (4) bekezdés b) pontja és (5) bekezdés b) pontja szerinti esetben az I. kategóriába sorolt elítéltet a III. kategóriába visszasorolhatja. Ezekben az esetekben a határozattal szemben bírósági felülvizsgálati kérelem nyújtható be.

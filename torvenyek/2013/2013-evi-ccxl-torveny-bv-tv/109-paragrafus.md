@@ -1,9 +1,17 @@
-109. § (1) Az alacsony biztonsági kockázatú részlegen az az elítélt helyezhető el, akinek biztonsági kockázati besorolása alapján a fogvatartása nem igényli magas szintű biztonsági védelmi eszközök alkalmazását.
+109. § (1) A fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére (e § alkalmazásában a továbbiakban: részleg) az az V. kategóriába sorolt elítélt helyezhető, akinek az intézet rendjéhez és biztonságához való viszonya kirívóan elutasító, nyíltan vagy rejtetten agresszív viselkedésű, és
 
-(2) Az alacsony biztonsági kockázatú részlegen csökkenthető az életrend meghatározottsága, az elítélt a reintegrációs programokon kívüli szabad idejét belátása szerint használhatja fel és a bv. intézet kijelölt területén szabadon mozoghat.
+a) a végrehajtás rendjét és a fogvatartás biztonságát súlyosan sértő cselekményt készített elő, kísérelt meg vagy követett el, vagy
 
-(3) Az alacsony biztonsági kockázatú részlegre helyezés megszüntethető, ha az elítélt a büntetés-végrehajtás rendjét súlyosan megsérti.
+b) a saját vagy mások életét, testi épségét, illetve vagyontárgyakat súlyosan sértő vagy veszélyeztető magatartást tanúsított, vagy
 
-(4)
+c) a végrehajtás rendjének megtartására vonatkozó utasítással nyíltan szembehelyezkedik és ezzel a magatartásával a rövid időn belül kiszabott többszöri fegyelmi fenyítés ellenére sem hagy fel.
 
-(5)
+(2) A bv. orvos – szükség esetén pszichológus bevonásával – a részlegre helyezés alatt jogszabályban meghatározott rendszerességgel megvizsgálja az elítéltet. A bv. orvos vagy a pszichológus az elítélt egészségi állapotára tekintettel kezdeményezheti a bv. intézet parancsnokánál a részlegre helyezés felfüggesztését. Az ön- vagy közveszélyes magatartást tanúsító elítélt esetén a 146. § (6) bekezdését alkalmazni kell.
+
+(3) A részleg végrehajtási rendje az V. kategória-besorolásra vonatkozó szabályokhoz igazodik azzal, hogy
+
+a) egyedi biztonsági előírás a részlegre helyezett elítéltekre vonatkozóan együttesen is meghatározható,
+
+b) a részlegre helyezés tartama alatt az elítéltet a fogvatartási kockázatát csökkentő programba kell bevonni.
+
+(4) A részlegre helyezés szükségességét a BFB hathavonta felülvizsgálja, és annak fenntartásáról határozattal dönt.

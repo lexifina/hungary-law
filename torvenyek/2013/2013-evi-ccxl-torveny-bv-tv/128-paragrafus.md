@@ -1,6 +1,6 @@
 128. § (1) A várandós és a kisgyermekes elítélt nőnek az egészségét védő és a gyermek fejlődését szolgáló, e törvényben nem szabályozott jogai nem korlátozhatók.
 
-(2) Ha a szülésre a szabadságvesztés végrehajtása alatt kerül sor, és az együttes elhelyezést kizáró ok nem áll fenn, a gyermeket egy éves koráig az anyjával együtt kell elhelyezni.
+(2) Ha a szülésre a szabadságvesztés végrehajtása alatt kerül sor, és az együttes elhelyezést kizáró ok nem áll fenn, a gyermeket egy éves koráig az anyjával együtt kell elhelyezni. Az anya-gyermek részlegen a végrehajtás rendje a II. kategória-besorolás szabályaihoz igazodik és arra az időszakra, amíg az anya a gyermekét gondozza, kreditpont megilleti.
 
 (3) Az anya és a gyermek együttesen nem helyezhető el, ha
 

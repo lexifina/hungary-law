@@ -20,6 +20,8 @@
 
 5. reintegrációs program: az elítélt munkaerő-piaci integrációjának elősegítését, a befogadást megelőző életkörülményeiből, életviteléből eredő hátrányok csökkentését, személyisége és szociális készségei fejlesztését célzó reintegrációs programok, foglalkozások,
 
-6. rezsim: az egyéniesítés alapelvéhez igazodó, az elítéltre vonatkozó reintegrációs célok megvalósítását biztosító végrehajtási környezet, amelyet e törvény vagy annak céljaival összhangban a bv. szervek vezetői hoznak létre.
+6. kategória: az egyéniesítés alapelve alapján működtetett végrehajtási környezet, amely igazodik az elítélt visszaesési és fogvatartási kockázatához, magatartásához, együttműködési készségéhez, és amely az elítélt szükségleteihez igazodó reintegrációs programok biztosításával szolgálja az egyéni bűnmegelőzési célok megvalósítását,
 
-7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése esetén élni kíván, továbbá ahol az elítélt az enyhébb végrehajtási szabályok elrendelése vagy a társadalmi kötődés programba történő bevonása esetén az eltávozáskor tartózkodna.
+7. befogadó környezet: a társadalmi kötődés mértékének megítélése szempontjából vizsgálandó szociális közeg, amelyben az elítélt szabadulását követően vagy reintegrációs őrizetének elrendelése, valamint reintegrációs eltávozása esetén élni kíván, továbbá ahol az átmeneti részlegre helyezése esetén az eltávozáskor tartózkodna,
+
+8. kreditrendszer: az elítélt magatartása, együttműködési készsége és a reintegrációs tevékenység keretében nyújtott teljesítménye alapján számított kreditértékeken alapuló előmeneteli rendszer, amelyben a szabadságvesztés tartamához igazodóan rögzítésre kerül azon kreditpontok száma, amelynek összegyűjtése esetén az elítélt a kezdeti besoroláshoz képest átkerülhet egy kedvezőbb kategóriába, és amelyhez mérten az elítélt által megszerzett és a tőle levont kreditpontok számértéke határozza meg a kategóriák közötti előre- vagy visszasorolását.

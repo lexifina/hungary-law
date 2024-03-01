@@ -8,7 +8,13 @@
 
 (2) Az elzárást a külön jogszabályban kijelölt bv. intézetben hajtják végre.
 
-(3) Az elzárás végrehajtására az V. Fejezetben foglaltakat kell alkalmazni azzal, hogyha e fejezet valamely kérdésben nem tartalmaz rendelkezést, az elzárás végrehajtására a szabadságvesztés fogház fokozatára irányadó szabályokat kell alkalmazni, és az elzárásra ítéltet megfelelően megilletik a szabadságvesztésre ítélt részére biztosított jogosultságok.
+(3) Az elzárás végrehajtására az V. Fejezetben foglaltakat kell alkalmazni azzal, hogy ha e fejezet valamely kérdésben nem tartalmaz rendelkezést, az elzárás végrehajtási rendjére,
+
+a) ha az elzárást az elítélttel szemben első ízben szabták ki – kivéve, ha az elítélten ezt megelőzően már foganatba vettek szabadságvesztést –, az I. kategória,
+
+b) az a) pontban meghatározottakon kívül a II. kategória
+
+szabályai vonatkoznak azzal, hogy a kreditrendszer nem alkalmazandó. Az elzárásra ítéltet továbbá megilletik a szabadságvesztésre ítélt részére biztosított jogosultságok.
 
 (4) Az elzárásra ítéltek és a szabálysértési elzárást töltő elkövetők együtt helyezhetők el.
 
@@ -26,4 +32,4 @@ e) a fertőző betegeket a nem fertőző betegektől.
 
 (6) Az elzárásra ítélt befogadását – jogszabály eltérő rendelkezése hiányában – a bv. szerv hivatali munkarendjében kell végrehajtani.
 
-(7) Az elzárásra ítélttel szemben biztonsági intézkedésként nem rendelhető el biztonsági zárkába, vagy részlegre helyezés.
+(7)

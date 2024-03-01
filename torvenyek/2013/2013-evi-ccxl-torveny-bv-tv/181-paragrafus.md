@@ -1,6 +1,6 @@
 ## Az elítéltek oktatása és képzése
 
-181. § (1) Az oktatásban, szakképzésben vagy felnőttképzésben való részvétel nem helyettesíti az elítélt munkában való részvételi kötelezettségét.
+181. § (1) Az oktatásban, szakképzésben vagy felnőttképzésben való részvétel nem helyettesíti az elítélt munkában való részvételi kötelezettségét. Az oktatásban, szakképzésben vagy felnőttképzésben való részvétel az egyes kategóriákra vonatkozó jogszabályi rendelkezések alapján eltérhet.
 
 (2) A köznevelésben, a szakképzésben vagy a felnőttképzésben részt vevő elítéltet – ha bv. intézet működési körében felmerült okból nem állították munkába, illetve nem rendelkezik nyugellátással, szolgálati járadékkal, korhatár előtti ellátással, bányászok egészségkárosodási járadékával, átmeneti bányászjáradékkal – az oktatás, képzés ideje alatt az alapmunkadíj egynegyedének megfelelő pénzbeli térítés (a továbbiakban: ösztöndíj) illeti meg.
 

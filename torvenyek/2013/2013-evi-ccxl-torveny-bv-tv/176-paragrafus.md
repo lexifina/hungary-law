@@ -2,7 +2,7 @@
 
 176. § (1) Az elítélt jogszabályban meghatározott módon csomagot fogadhat és küldhet. A csomagküldés lehetőségéről, módjáról és a költségek viseléséről a bv. intézet az elítélt útján küld értesítést.
 
-(2) Az elítélt havonta fogadhat és küldhet csomagot.
+(2) Az elítélt az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább havonta fogadhat és küldhet csomagot.
 
 (3) A csomag a bv. intézet, valamint a fogvatartás biztonsága érdekében ellenőrizhető, ennek lehetőségéről az elítéltet tájékoztatni kell.
 

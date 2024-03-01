@@ -1,4 +1,4 @@
-109/B. § (1) A fogvatartási körülményekhez való sikeres alkalmazkodás és a társadalomba való visszailleszkedés elősegítése érdekében az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegére helyezhető – az elkülönítési szabályok megtartásával – az az első alkalommal végrehajtandó szabadságvesztésre ítélt, akinél a társadalmi kötődés programba helyezés feltételi nem állnak fenn, azonban egyéni kockázatelemzése alapján különleges kezelése és elhelyezése indokolt, és
+109/B. § (1) A fogvatartási körülményekhez való sikeres alkalmazkodás és a társadalomba való visszailleszkedés elősegítése érdekében az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegére helyezhető – az elkülönítési szabályok megtartásával – az az első alkalommal végrehajtandó szabadságvesztésre ítélt, akinek egyéni kockázatelemzése alapján különleges kezelése és elhelyezése indokolt, és
 
 a) akit gondatlan bűncselekmény miatt ítéltek el,
 
@@ -12,21 +12,15 @@ c) akivel szemben az a) vagy b) pont szerint kiszabott szabadságvesztés mellet
 
 (2) Nem helyezhető az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegére az az elítélt,
 
-a) akivel szemben a Btk. 459. § (1) bekezdés 26. pontjában megjelölt személy elleni erőszakos bűncselekmény miatt új büntetőeljárás van folyamatban,
+a) akivel szemben a Btk. 459. § (1) bekezdés 26. pontjában megjelölt személy elleni erőszakos bűncselekmény miatt új büntetőeljárás van folyamatban, vagy
 
-b) akit szigorúbb rezsimszabályok alá soroltak, vagy
+b) akit a IV. vagy az V. kategóriába soroltak.
 
-c) akinek a biztonsági kockázati besorolása magas, kivéve, ha erre azért került sor, mert korábban öngyilkosságot kísérelt meg vagy a saját testi épsége elleni önkárosító cselekményt követett el.
-
-(3) Az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegén elhelyezett elítélt
+(3) Az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegén a végrehajtás rendje II. kategória-besorolás szabályaihoz igazodik azzal, hogy az elítélt
 
 a) igény szerint segítséget kaphat a családi kapcsolatainak helyreállításához,
 
-b) részére a kapcsolattartás gyakorisága növelhető,
-
-c) életrendjének meghatározottsága csökkenthető és a reintegrációs programokon kívüli szabad idejét belátása szerint használhatja fel,
-
-d) a büntetés-végrehajtási pártfogó felügyelővel rendszeresen tarthat kapcsolatot a 185. § (2) bekezdés a) és b) pontjában meghatározott időtartamot megelőzően is.
+b) részére a kapcsolattartás gyakorisága a kategória-besorolásához tartozó mértéket meghaladóan is növelhető.
 
 (4) Az elítélt első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegre helyezését meg kell szüntetni, ha
 

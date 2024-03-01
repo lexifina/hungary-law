@@ -2,7 +2,7 @@
 
 180/A. § (1) Nem engedélyezhető kimaradás, eltávozás és látogató bv. intézeten kívüli fogadása, ha
 
-a) a 178. § (2) bekezdésében, 179. § (1) bekezdésében, illetve 180. § (1) bekezdésében meghatározott időtartam még nem telt el, vagy az elítélt rezsimbe sorolása annak lehetőségét kizárja,
+a) a 178. § (2) bekezdésében, 179. § (1) bekezdésében, illetve 180. § (1) bekezdésében meghatározott időtartam még nem telt el, vagy az elítélt kategória-besorolása annak lehetőségét kizárja,
 
 b) a rendelkezési jogkör gyakorlója a folyamatban lévő büntetőeljárás eredményessége érdekében a kapcsolattartást korlátozta, továbbá ha a 172. § (3) bekezdése alapján a rendelkezési jogkör gyakorlójának korábban meghozott intézkedését alkalmazni kell,
 
@@ -10,7 +10,7 @@ c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt ú
 
 d) az elítélt erőszakos többszörös visszaeső,
 
-e) az elítélt kockázatértékelése alapján a visszaesés kockázata vagy biztonsági kockázati besorolása magas,
+e) az elítélt kockázatértékelése alapján a visszaesési vagy fogvatartási kockázata magas,
 
 f) az elítéltet a korábbi távolléte alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték, az ügydöntő határozat jogerőre emelkedésétől számított legalább három évig,
 

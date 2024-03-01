@@ -1,1 +1,1 @@
-153. § A bv. intézet parancsnoka biztonsági okból, rendkívüli esemény bekövetkezésének a megelőzése, megszakítása vagy felszámolása érdekében – a kiváltó ok megszűnéséig, a végrehajtási fokozattól függetlenül – elrendelheti az elítéltek elhelyezési részlegén az ajtók zárva tartását.
+153. § A bv. intézet parancsnoka biztonsági okból, rendkívüli esemény bekövetkezésének a megelőzése, megszakítása vagy felszámolása érdekében – a kiváltó ok megszűnéséig, a kategória-besorolástól függetlenül – elrendelheti az elítéltek elhelyezési részlegén az ajtók zárva tartását.

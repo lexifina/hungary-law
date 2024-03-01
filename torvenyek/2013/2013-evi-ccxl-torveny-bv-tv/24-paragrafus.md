@@ -8,7 +8,7 @@
 
 (4) A bírósági felülvizsgálati kérelem benyújtására nyitva álló határidő lejártát követően a végrehajtásért felelős szerv, illetve szervezeti egység vezetője – az ügyészség útján – haladéktalanul felterjeszti az iratokat a bírósághoz. Az ügyészség öt munkanapon belül – szükség szerint vélemény megtételével – továbbítja az iratokat a bírósághoz.
 
-(5) A bírósági felülvizsgálati kérelmet a határozatot hozó végrehajtásért felelős szerv, illetve szervezeti egység székhelye szerint illetékes büntetés-végrehajtási bíró – a 73. és 75. §-ban írt eljárások kivételével – iratok alapján bírálja el. Ezekben az ügyekben bírósági titkár nem járhat el.
+(5) A bírósági felülvizsgálati kérelmet a határozatot hozó végrehajtásért felelős szerv, illetve szervezeti egység székhelye szerint illetékes büntetés-végrehajtási bíró – a 75. §-ban írt eljárás kivételével – iratok alapján bírálja el. Ezekben az ügyekben bírósági titkár nem járhat el.
 
 (5a) A büntetés-végrehajtási bíró a felülvizsgálati kérelem 72. § (1) bekezdés a) pontja szerinti elutasításáról az iratok alapján határoz. A határozattal szemben az általános szabályok szerint van helye jogorvoslatnak.
 

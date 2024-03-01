@@ -12,9 +12,9 @@ d) pihenésre, szabadidőre,
 
 e) testi és szellemi állapotának fenntartása, illetve fejlesztése érdekében
 
-ea) naponta – a szabadságvesztés végrehajtási rezsimjeinél megállapított rendelkezések szerint, de legalább egy óra – szabad levegőn tartózkodásra,
+ea) naponta – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, de legalább egy óra – szabad levegőn tartózkodásra,
 
-eb) önképzésre, sajtótermékek megrendelésére, a bv. intézet művelődési és sportolási lehetőségeinek – a szabadságvesztés végrehajtási rezsimjeinél megállapított rendelkezések szerinti – igénybevételére,
+eb) önképzésre, sajtótermékek megrendelésére, a bv. intézet művelődési és sportolási lehetőségeinek – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerinti – igénybevételére,
 
 ec) tanuláshoz való jogát e törvényben meghatározottak szerint gyakorolni; általános iskolai, középfokú, valamint felsőfokú tanulmányok megkezdésére, illetve folytatására, a vizsgákra való felkészüléshez tanulmányi és vizsgaszabadságra,
 
@@ -28,12 +28,12 @@ i) a szabadságvesztés végrehajtása során keletkezett kárának megtéríté
 
 j) sajátos védelemre a nők, fiatalkorúak és a fogyatékkal élők a rájuk vonatkozó eltérésekkel,
 
-k) jogszabályban meghatározottak szerint saját ruha viselésére, illetve használati tárgyak tartására; az elítélt magánál tartható tárgyainak köre a bv. intézet rendjére és biztonságára figyelemmel, valamint az egyes rezsimszabályok szerint korlátozható,
+k) jogszabályban meghatározottak szerint saját ruha viselésére, illetve használati tárgyak tartására; az elítélt magánál tartható tárgyainak köre a bv. intézet rendjére és biztonságára figyelemmel, valamint az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint korlátozható, azonban a korlátozás – a biztonsági elkülönítés és a magánelzárás fenyítés végrehajtását kivéve – a tankönyvekre és tanszerekre, a könyvtári könyvekre, a családi fényképekre és levelekre, valamint az engedélyezett kegytárgyakra és imakönyvre nem terjedhet ki,
 
 l) a már megállapított, a szociális igazgatásról és szociális ellátásokról szóló törvényben meghatározott valamely rendszeres pénzellátásának (e fejezetben a továbbiakban: rendszeres pénzellátás) a meghatalmazott személy kezéhez vagy a bv. intézethez történő folyósítására, továbbá a saját jogon járó családi pótléknak a letéti számláján való elhelyezésére,
 
 m) a szabadulást követő társadalomba való visszailleszkedés érdekében az ehhez szükséges szociális feltételek megteremtésének segítségére,
 
-n) önkéntes vállalása alapján – a szabadságvesztés fokozatának és a rezsimre vonatkozó szabályok szerint – oktatási, képzési, valamint reintegrációt elősegítő személyes fejlődését biztosító programokon való részvételre,
+n) önkéntes vállalása alapján – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint – oktatási, képzési, valamint reintegrációt elősegítő személyes fejlődését biztosító programokon való részvételre,
 
 o) büntetés-végrehajtási szervezeten belüli fogvatartotti fórumon való véleménynyilvánításra.

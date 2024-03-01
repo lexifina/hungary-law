@@ -1,6 +1,6 @@
 ## Telefonbeszélgetés
 
-175. § (1) Az elítélt a szabadságvesztés végrehajtási fokozataira és rezsimjeire vonatkozó rendelkezések szerinti gyakoriságban és időtartamban telefonhívást kezdeményezhet.
+175. § (1) Az elítélt az adott kategóriára vonatkozó jogszabályi rendelkezések szerinti gyakoriságban és időtartamban, de hetente legalább egy alkalommal húsz perc időtartamban telefonhívást kezdeményezhet.
 
 (2) Az elítélt a házirend előírásainak megfelelően kizárólag a bv. intézet által kijelölt telefont használhatja.
 

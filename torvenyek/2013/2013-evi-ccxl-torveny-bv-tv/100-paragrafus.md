@@ -1,29 +1,31 @@
-100. § (1) A fegyház fokozat a szabadságvesztés legszigorúbb végrehajtási módja.
+100. § (1) Az elítélt által a végrehajtás alatt megszerzendő, előmenetelt biztosító kreditpontok számát és a kategória-előresorolás lehetséges időpontját, valamint az időpont megjelölésével a szerzett, a levont, illetve a 99. § (6) bekezdése alapján felfüggesztett kreditpontok számát a fogvatartotti nyilvántartásban rögzíteni kell.
 
-(2) A fegyházban az elítélt
+(2) A bv. intézetnek biztosítania kell, hogy az elítélt
 
-a) eltávozása – a tényleges életfogytig tartó szabadságvesztésre ítéltek kivételével – kivételesen engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít,
+a) megismerhesse a számára lehetséges kategória-előresorolás időbeli ütemezését,
 
-b) életrendje részleteiben is meghatározott, állandó irányítás és ellenőrzés alatt áll,
+b) információval rendelkezzen az aktuális kreditpontjairól,
 
-c) a bv. intézeten belül a számára kijelölt területen biztonsági és rezsim besorolása alapján
+c) a kreditpontjaiban bekövetkező változást nyomon követhesse,
 
-ca) engedéllyel és felügyelet mellett,
+d) számára megállapítható legyen, hogy hány kreditpont
 
-cb) felügyelet mellett, vagy
+da) megszerzése szükséges a kategória szerinti előresorolásához,
 
-cc) felügyelet mellett, a kijelölt részlegen ellenőrzéssel
+db) elvesztése eredményez kategória szerinti visszasorolást.
 
-mozoghat,
+(3) Az egyes kreditpontok tekintetében egyedi panasz benyújtásának nincs helye, de az elítélt
 
-d) zárkája ajtaját éjszaka zárva kell tartani, nappal engedélyezhető a rezsimszabályokhoz igazodó időszakos nyitva tartás,
+a) a kreditpont-összesítési időszakot,
 
-e) számára a rezsimszabályokhoz igazodóan engedélyezhető, hogy részt vegyen az elítéltek csoportos kulturális és sportprogramjainak eltöltésében, illetve a bv. intézet által szervezett, bv. intézeten belüli programokon,
+b) a kategória-előresorolás lehetséges időpontját,
 
-f) magánál tartható tárgyainak köre korlátozott, ami a rezsimszabályokhoz igazodóan bővíthető, azonban a korlátozás a könyvtári és tankönyvekre, tanszerekre, valamint az engedélyezett kegytárgyakra, családi fényképekre nem terjedhet ki,
+c) a kategória-visszasorolását
 
-g) kapcsolattartásának gyakorisága, illetve tartama a rezsimszabályok szerint bővíthető, azonban az e törvényben az egyes kapcsolattartási formákra meghatározott alsó határt biztosítani kell,
+követő tizenöt napon belül kérelmet nyújthat be a BFB-hez, hogy vizsgálja meg, hogy az általa megszerezhető kreditpont meg nem adása vagy a tőle való kreditpontlevonás, illetve annak mértéke megalapozott-e.
 
-h) a személyes szükségleteire fordítható összeg mértéke a rezsimszabályokhoz igazodóan változik,
+(4) A vizsgálat során a BFB az elítélt magatartása, együttműködési készsége és a reintegrációs tevékenység keretében nyújtott teljesítménye alapján a vizsgálattal érintett időszak tekintetében kreditpontlevonást törölhet, illetve kreditpont megszerzéséről dönthet.
 
-i) külső munkáltatásban kivételesen részt vehet, ha a külvilágtól a munkavégzés alatt is elkülöníthető.
+(5) A vizsgálat eredményéről – és szükség szerint az elítélt kategória-előresorolásáról vagy a kategória-visszasorolása törléséről – a BFB határozattal dönt.
+
+(6) A (3) bekezdés b) pontja szerinti esetben az elítélt a BFB kreditpontszámítás vizsgálatáról hozott, kérelmet elutasító vagy annak részben helyt adó határozatával szemben bírósági felülvizsgálati kérelmet nyújthat be.

@@ -1,6 +1,6 @@
 ## Látogató bv. intézeten kívüli fogadása
 
-178. § (1) Az elítélt számára – a szabadságvesztés végrehajtási fokozataira és rezsimjeire vonatkozó rendelkezések szerint – engedélyezhető látogató bv. intézeten kívüli fogadása, amelynek tartama alkalmanként legalább két óra.
+178. § (1) Az elítélt számára – az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint – engedélyezhető látogató bv. intézeten kívüli fogadása, amelynek tartama alkalmanként legalább két, de legfeljebb nyolc óra.
 
 (2) Látogató bv. intézeten kívüli fogadása annak az elítéltnek engedélyezhető, aki a szabadságvesztésből a büntetés egyharmadát letöltötte, vagy akit átmeneti részlegre helyeztek.
 

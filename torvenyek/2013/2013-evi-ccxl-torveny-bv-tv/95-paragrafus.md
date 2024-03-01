@@ -6,16 +6,32 @@
 
 a) a befogadást követően, vagy
 
-b) a 92. § (2) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
+b) a 92. § (1) bekezdésében meghatározott kivizsgálást követően a kijelölt bv. intézetben
 
 a befogadó részlegen kell elhelyezni, ahol legfeljebb tizenöt napig tartózkodhat. A befogadó részlegen való elhelyezés időtartamába nem számít be az IMEI-ben, a BVEK-ban vagy a más bv. intézetben megőrzésen töltött idő.
 
-(3) A bv. intézeti befogadást követően a kockázatértékelési összefoglaló jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt rezsimbe sorolásáról és a bv. intézetben működő reintegrációs programokon való részvételéről.
+(3) A bv. intézeti befogadást követően a kockázatértékelési jelentés alapján a befogadó részleg vezetője az elítélt együttműködésével kialakítja és rögzíti az egyéniesített fogvatartási programtervet, majd a BFB az elítélt személyes meghallgatását követő nyolc napon belül dönt az elítélt bv. intézetben működő reintegrációs programokon való részvételéről.
 
-(4) Ha az elítélt KKMI-ben elvégzett vizsgálatára és értékelésére e törvény szerint nem kerül sor, az elítéltet a KKMI által kiadott módszertan alapján a BFB sorolja be az adott fokozathoz tartozó megfelelő rezsimszabály alá.
+(4) A BFB végzi – a KKMI által kiadott módszertan alapján – az elítélt kockázatelemzési vizsgálatát, és dönt az elítélt adott végrehajtási fokozathoz tartozó kezdeti kategória-besorolásáról, ha
 
-(5) Az elítélt egyéniesítéséhez igazodó rezsimbe sorolásáról és annak megváltoztatásáról, valamint a magas szintű biztonsági kockázati besorolásáról – a 26. § (4) bekezdésében foglaltak figyelembevételével – a BFB határozattal dönt.
+a) a 92. § (3) bekezdésében meghatározott feltételek nem állnak fenn,
 
-(6) Halaszthatatlan esetekben az elítélt rezsimkategóriájának, illetve elhelyezésének módosításáról a bv. intézet parancsnoka is határozhat. Halaszthatatlan az eset, ha terrorcselekmény, fogolyzendülés, fogolyszökés, támadás, tömeges ellenállás, önkárosítás, vagy bármilyen, az intézet biztonságára veszélyt jelentő más körülményről bejelentés érkezik, valamint ha rendkívüli esemény bekövetkezésétől tartani lehet.
+b) az elítéltet az anya-gyermek részlegre helyezték,
 
-(7) A fogvatartásért felelős szakterületek bevonásával a bv. intézetnél kell elvégezni – legalább hathavonta – az elítéltek kötelező felülvizsgálatát a rezsimbe helyezés vonatkozásában, amelyről a BFB dönt.
+c) az elítélttel szemben újabb vagy összbüntetésként megállapított szabadságvesztést kell végrehajtani, és a 92. § (4) bekezdésében meghatározott feltétel nem áll fenn.
+
+(5) A (4) bekezdésben meghatározott esetben a BFB az elítélt kezdeti kategória-besorolásáról és a kategóriaváltásról a 97. § (3) vagy (4) bekezdése alapján – a 26. § (4) bekezdésében foglaltak figyelembevételével – határozattal dönt.
+
+(6) Ha a kategóriaváltás szükségessé teszi, a bv. intézet haladéktalanul kezdeményezi a BVOP-nál a szabadságvesztés végrehajtására másik bv. intézet kijelölését.
+
+(7) Kiemelkedően súlyos fegyelemsértés esetén a bv. intézet parancsnoka a fegyelmi eljárás elrendelésétől – a kreditpontoktól függetlenül – az elítélt legfeljebb két kategóriára terjedő azonnali visszasorolásáról határozhat, amely határozattal szemben bírósági felülvizsgálati kérelem nyújtható be.
+
+(8) A (7) bekezdés alkalmazásában kiemelkedően súlyos fegyelemsértés:
+
+a) terrorcselekményt, fogolyzendülést, fogolyszökést, támadást, tömeges ellenállást, előnyök szerzése érdekében elkövetett önkárosítást, tiltott tárgyként kábítószer, új pszichoaktív anyag, más pszichoaktív szer, elektronikus hírközlő eszköz vagy információs rendszer birtoklását, illetve kereskedelmét megvalósító rendkívüli eseményben való részvétel, vagy
+
+b) bűncselekményt megvalósító, személy elleni erőszakos vagy súlyos sérülést okozó fegyelemsértés.
+
+(9) Azonnali visszasorolás esetén az elítélt a visszasorolt kategóriában nulla kreditponttal rendelkezik, és a kategória-előresorolásához szükséges kreditpont a kezdeti besorolásakor megállapított megszerezhető kreditpontjainak a húsz százaléka, de legfeljebb tizenkét kreditpont mindaddig, amíg az elítélt el nem éri az azonnali visszasorolás előtti kategória-besorolását. Ezt követően az eredeti kategória-előresorolás szerinti ütemezés érvényesül.
+
+(10) Ha az azonnali visszasorolást megalapozó kiemelkedően súlyos fegyelemsértésben az elítélt felelősségét nem állapítják meg, vagy vele szemben a magánelzárás fenyítésnél enyhébb fegyelmi büntetést szabnak ki, a bv. intézet parancsnoka az azonnali visszasorolásról hozott határozatát hatályon kívül helyezi és haladéktalanul intézkedik az elítélt korábbi kategória-besorolásba történő visszahelyezése iránt.

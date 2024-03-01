@@ -10,7 +10,7 @@
 
 (3) A kártalanítás megfizetésére az állam köteles.
 
-(4) Az (1) bekezdésben meghatározott jogcímen további kártérítésnek vagy sérelemdíjnak helye nincs, de az elítélt jogosult az ezt meghaladó igényét polgári bíróság előtt érvényesíteni.
+(4) Az (1) bekezdésben meghatározott jogcímen további kártérítésnek vagy sérelemdíjnak, illetve egyéb személyiségi jogi igényérvényesítésnek helye nincs, de az elítélt jogosult az ezt meghaladó igényét polgári bíróság előtt érvényesíteni.
 
 (5) A kártalanítási kérelem attól a naptól számított hat hónapon belül terjeszthető elő, amelyen az alapvető jogokat sértő elhelyezési körülmények megszűntek. E határidő elmulasztása jogvesztő. Nem tekinthető az alapvető jogokat sértő elhelyezési körülmény megszűnésének, ha e körülmény fennállása legfeljebb harminc napra azért szakad meg, mert az elítélt elhelyezése során a jogszabályban előírt élettér biztosítva volt.
 

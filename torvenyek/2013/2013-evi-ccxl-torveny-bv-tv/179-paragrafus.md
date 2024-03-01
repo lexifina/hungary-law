@@ -1,6 +1,6 @@
 ## Kimaradás
 
-179. § (1) Kimaradás annak az elítéltnek engedélyezhető, aki a szabadságvesztésből a büntetés egyharmadát letöltötte, vagy akit átmeneti részlegre helyeztek.
+179. § (1) Kimaradás az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint annak az elítéltnek engedélyezhető, aki a szabadságvesztésből a büntetés egyharmadát letöltötte, vagy akit átmeneti részlegre helyeztek.
 
 (2) A kimaradás tartama a huszonnégy órát nem haladhatja meg. A kimaradás idejére a bv. intézet parancsnoka – az elítélt letétben lévő pénze terhére – költőpénz kiadását engedélyezheti.
 

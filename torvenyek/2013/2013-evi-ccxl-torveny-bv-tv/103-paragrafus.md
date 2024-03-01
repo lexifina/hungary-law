@@ -1,22 +1,26 @@
 ## Az átmeneti részleg végrehajtási rendje
 
-103. § (1) Azt az elítéltet, aki büntetését fegyház- vagy börtönfokozatban tölti és a szabadságvesztésből legalább öt évet kitöltött, a társadalomba való beilleszkedés elősegítése érdekében, a várható szabadulása előtt legfeljebb két évvel átmeneti részlegre lehet helyezni.
+103. § (1) Azt az elítéltet, aki büntetését a IV. kategória-besorolásban tölti és a szabadságvesztésből legalább öt évet kitöltött, a társadalomba való beilleszkedés elősegítése érdekében, a várható szabadulása előtt legfeljebb egy évvel átmeneti részlegre lehet helyezni. Az elítélt átmeneti részlegre helyezhetőségéről a BFB javaslatára a bv. intézet parancsnoka határozattal dönt.
 
-(1a) A bv. intézet a döntés megalapozása érdekében az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés készítése céljából megkeresheti az elítélt által az eltávozásra megjelölt lakcím, illetve tényleges tartózkodási hely szerint illetékes rendőrkapitányságot. Az elítélt átmeneti részlegre helyezhetőségéről a BFB javaslatára a bv. intézet parancsnoka határozattal dönt. Az átmeneti részlegre helyezésről való nemleges döntés esetén a határozat meghozatalától számított hat hónap elteltével az elítélt vagy a védője – egy alkalommal – kérelmet nyújthat be az átmeneti részlegre helyezés érdekében.
+(1a)
 
-(2) Az átmeneti részlegen az elítéltre irányadó büntetés-végrehajtási szabályok enyhíthetők, így különösen az elítélt
+(2) A bv. intézet a döntés megalapozása érdekében az elítélt által az eltávozásra megjelölt lakcím, illetve tényleges tartózkodási hely szerint illetékes
 
-a) kimaradása, továbbá jutalomként eltávozása engedélyezhető,
+a) büntetés-végrehajtási pártfogó felügyelő útján környezettanulmány elkészítését rendelheti el, vagy
 
-b) részt vehet a bv. intézeten kívüli munkáltatásban,
+b) rendőri szervet az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentés készítése céljából megkeresheti.
+
+(3) Az átmeneti részlegen az elítéltre irányadó büntetés-végrehajtási szabályok enyhíthetők, így különösen az elítélt
+
+a) látogató intézeten kívüli fogadása vagy kimaradása, továbbá kivételesen eltávozása engedélyezhető,
+
+b) külső munkáltatásban kivételesen részt vehet, ha a külvilágtól a munkavégzés alatt is elkülöníthető,
 
 c) életrendjének a meghatározottsága csökkenthető,
 
-d) a bv. intézet kijelölt területén szabadon mozoghat,
+d) egyéni kockázatértékelése alapján a bv. intézet kijelölt területén szabadon mozoghat,
 
 e) a büntetés-végrehajtási pártfogó felügyelővel rendszeresen tarthat kapcsolatot a 185. § (2) bekezdés c) és d) pontjában meghatározott időtartamot megelőzően is.
-
-(3) Az eltávozás időtartama a szabadságvesztésbe beszámít.
 
 (4) Az átmeneti részlegre helyezés megszüntethető, ha az elítélt a büntetés-végrehajtás rendjét súlyosan megsérti.
 

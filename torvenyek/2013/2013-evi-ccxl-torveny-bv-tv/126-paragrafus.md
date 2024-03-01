@@ -8,6 +8,6 @@
 
 (5) Az elítélt eltiltható az istentiszteleten való részvételtől, ha az a bv. intézet rendjét vagy a biztonságot veszélyezteti.
 
-(6) Az istentiszteletre önként jelentkezők részvétele – az (5) bekezdés alapján eltiltottakat, valamint a magánelzárást töltő elítélteket kivéve – nem korlátozható. A (2) bekezdésben meghatározott személlyel való ellenőrzés nélküli találkozás lehetősége azonban az istentisztelet látogatástól eltiltott, a magánelzárást töltő, illetve biztonsági zárkában vagy részlegen elhelyezett elítélttől sem tagadható meg.
+(6) Az istentiszteletre önként jelentkezők részvétele – az (5) bekezdés alapján eltiltottakat, valamint a magánelzárást töltő elítélteket kivéve – nem korlátozható. A (2) bekezdésben meghatározott személlyel való ellenőrzés nélküli találkozás lehetősége azonban az istentisztelet látogatástól eltiltott, a magánelzárást töltő, illetve fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegén elhelyezett elítélttől sem tagadható meg.
 
 (7) A bv. intézet elősegíti a vallási közösségek szociális, karitatív, gondozói tevékenységét és az elítéltnek a szabadulásra való felkészítéséhez nyújtott szolgálatait.

@@ -4,7 +4,7 @@
 
 a) biztonsági elkülönítés,
 
-b) biztonsági zárkába vagy részlegre helyezés,
+b)
 
 c) mozgáskorlátozó eszközök alkalmazása,
 

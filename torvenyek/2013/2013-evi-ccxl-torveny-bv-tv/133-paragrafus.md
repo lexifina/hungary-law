@@ -18,7 +18,7 @@ f) alávetni magát a jogszabályban előírt kötelező vagy egészségi állap
 
 g) vizsgálati anyagot szolgáltatni az alkohol-, bódítószer-, illetve kábítószer-fogyasztás hiteles mérőeszközzel vagy vizelet-mintavétellel történő, szúrópróbaszerű ellenőrzéséhez, fegyelemsértés, illetve bűncselekmény gyanúja esetén ezt meghaladóan szükség szerint a vérmintavételhez,
 
-h) a végrehajtási fokozatnak és rezsimszabályoknak megfelelően előírt forma- és egyéb ruházatot viselni,
+h) az egyes kategóriákra vonatkozó jogszabályi rendelkezéseknek megfelelően előírt forma- és egyéb ruházatot viselni,
 
 i) a tartására fordított költséghez hozzájárulni, kivéve ha önhibáján kívüli okból nem dolgozik és nem részesül rendszeres pénzellátásban, illetve nem rendelkezik letéti pénzzel,
 

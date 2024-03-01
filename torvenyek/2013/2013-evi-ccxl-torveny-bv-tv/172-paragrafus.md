@@ -1,6 +1,6 @@
 ## A kapcsolattartás szabályai
 
-172. § (1) A szabadságvesztés végrehajtása során a bv. intézet az e fejezetben, valamint a végrehajtási fokozatokra és rezsimekre vonatkozó szabályok szerint, a társadalomba való beilleszkedés érdekében elősegíti, hogy az elítélt fenntarthassa és fejleszthesse hozzátartozóival, más személyekkel, valamint a reintegrációs célkitűzéseket elősegítő külső szervezetekkel való kapcsolatát.
+172. § (1) A szabadságvesztés végrehajtása során a bv. intézet az e fejezetben, valamint az egyes kategóriákra vonatkozó jogszabályi rendelkezések szerint, a társadalomba való beilleszkedés érdekében elősegíti, hogy az elítélt fenntarthassa és fejleszthesse hozzátartozóival, más személyekkel, valamint a reintegrációs célkitűzéseket elősegítő külső szervezetekkel való kapcsolatát.
 
 (2) Az elítélt kapcsolattartása az e törvényben meghatározottak szerint, a bv. intézet rendje és a fogvatartás biztonsága érdekében ellenőrizhető. A bv. intézet rendje és a fogvatartás biztonsága érdekében, vagy egészségügyi okból a kapcsolattartás korlátozásának is helye lehet.
 

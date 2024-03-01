@@ -1,5 +1,7 @@
 109/C. § (1) Időskorúak részlegére helyezhető az az elítélt, aki betöltötte a hatvanadik életévét és nyilatkozattal vállalja a részleg működésére vonatkozó szabályok betartását.
 
+(1a) Az időskorúak részlegén a végrehajtás rendje a III. kategória-besorolás szabályaihoz igazodik azzal, hogy az elítélt a kategória-besorolásának megfelelően jogosult a kapcsolattartásra.
+
 (2) Az időskorúak részlegére helyezett elítélt részére
 
 a) különös gondoskodást kell nyújtani egészségi, ideértve mentális állapotának megőrzése érdekében,

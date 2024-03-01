@@ -1,25 +1,85 @@
-102. § (1) A fogház fokozat a szabadságvesztés legenyhébb végrehajtási módja.
+102. § (1) Az elítélt V. kategóriába sorolása esetén
 
-(2) A fogházban az elítélt
+a) eltávozás, látogató intézeten kívüli fogadása és kimaradás nem engedélyezhető,
 
-a) eltávozása engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít, külső munkáltatásban részt vehet,
+b) az elítélt munkát a zárkájában vagy a bv. intézet kijelölt területén végezhet,
 
-b) életrendje részben meghatározott, a reintegrációs programokon kívüli szabad idejét belátása szerint használhatja fel,
+c) az elítélt életrendje részleteiben is meghatározott, állandó irányítás és ellenőrzés alatt áll,
 
-c) a bv. intézeten belül a számára kijelölt területen biztonsági és rezsim besorolása alapján
+d) a bv. intézeten belül a számára kijelölt területen egyéni kockázatértékelése alapján
 
-ca) felügyelettel,
+da) engedéllyel és felügyelet mellett,
 
-cb) ellenőrzéssel, vagy
+db) felügyelet mellett, vagy
 
-cc) szabadon járhat,
+dc) kivételesen felügyelet mellett, a kijelölt részlegen ellenőrzéssel
 
-d) zárkája vagy lakóhelyisége ajtaját éjszaka zárva, kivéve, ha a tisztálkodáshoz szükséges folyó vizet, illetve illemhelyet részlegenként biztosítják, nappal nyitva kell tartani,
+mozoghat,
 
-e) számára a rezsimszabályokhoz igazodóan engedélyezhető, hogy részt vegyen az elítéltek csoportos kulturális és sportprogramjainak eltöltésében, illetve a bv. intézet által szervezett, bv. intézeten belüli programokon,
+e) zárkája ajtaját zárva kell tartani.
 
-f) magánál tartható tárgyainak köre korlátozott, ami a rezsimszabályokhoz igazodóan bővíthető, azonban a korlátozás a könyvtári- és tankönyvekre, tanszerekre, valamint az engedélyezett kegytárgyakra, családi fényképekre nem terjedhet ki,
+(2) Az elítélt IV. kategóriába sorolása esetén
 
-g) kapcsolattartásának gyakorisága, illetve tartama a rezsimszabályok szerint bővíthető, azonban az e törvényben az egyes kapcsolattartási formákra meghatározott alsó határt biztosítani kell,
+a) eltávozás nem engedélyezhető,
 
-h) a személyes szükségleteire fordítható összeg mértéke a rezsimszabályokhoz igazodóan változik.
+b) látogató intézeten kívüli fogadása vagy kimaradás kivételesen engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít,
+
+c) az elítélt munkáltatása a bv. intézeten belül történhet, külső munkáltatásban kivételesen részt vehet, ha a külvilágtól a munkavégzés alatt is elkülöníthető,
+
+d) az elítélt életrendje részleteiben is meghatározott, állandó irányítás és ellenőrzés alatt áll,
+
+e) a bv. intézeten belül a számára kijelölt területen egyéni kockázatértékelése alapján
+
+ea) engedéllyel és felügyelet mellett,
+
+eb) felügyelet mellett, vagy
+
+ec) kivételesen felügyelet mellett, a kijelölt részlegen ellenőrzéssel
+
+mozoghat,
+
+f) nappal a kategóriára vonatkozó jogszabályi rendelkezések szerint engedélyezhető zárkájának időszakos nyitva tartása.
+
+(3) A III. kategóriában az elítélt
+
+a) eltávozása kivételesen engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít,
+
+b) látogató intézeten kívüli fogadása vagy kimaradás engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít,
+
+c) munkáltatása a bv. intézeten belül történhet, továbbá külső munkáltatásban részt vehet, ha a külvilágtól a munkavégzés alatt is elkülöníthető,
+
+d) életrendje meghatározott, irányítás és ellenőrzés alatt áll, a reintegrációs programokon kívüli szabad idejéből meghatározott időt belátása szerint használhatja fel,
+
+e) a bv. intézeten belül a számára kijelölt területen egyéni kockázatértékelése alapján
+
+ea) csak engedéllyel és felügyelet mellett,
+
+eb) felügyelet mellett, a bv. intézet kijelölt területén ellenőrzéssel, vagy
+
+ec) felügyelet mellett, a bv. intézet meghatározott területén ellenőrzéssel, illetve meghatározott szervezett programokon szabadon
+
+mozoghat,
+
+f) zárkája vagy lakóhelyisége ajtaját éjszaka zárva kell tartani, kivéve, ha a tisztálkodáshoz szükséges folyó vizet, illetve illemhelyet részlegenként biztosítják, nappal a kategóriára vonatkozó jogszabályi rendelkezések szerint engedélyezhető az időszakos nyitva tartás.
+
+(4) Az I. és a II. kategóriában az elítélt
+
+a) eltávozása engedélyezhető, amelynek időtartama a szabadságvesztésbe beszámít,
+
+b) látogató intézeten kívüli fogadása vagy kimaradás engedélyezhető,
+
+c) munkáltatása a bv. intézeten belül történhet, továbbá külső munkáltatásban részt vehet,
+
+d) életrendje részben meghatározott, a reintegrációs programokon kívüli szabad idejét belátása szerinthasználhatja fel,
+
+e) a bv. intézeten belül a számára kijelölt területen egyéni kockázatértékelése alapján
+
+ea) felügyelettel,
+
+eb) ellenőrzéssel, vagy
+
+ec) szabadon
+
+mozoghat,
+
+f) zárkája vagy lakóhelyisége ajtaját éjszaka zárva kell tartani, kivéve, ha a tisztálkodáshoz szükséges folyó vizet, illetve illemhelyet részlegenként biztosítják, nappal nyitva kell tartani.

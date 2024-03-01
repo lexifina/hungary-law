@@ -12,7 +12,9 @@ c) a reintegrációs tiszt – a börtönlelkész véleményének kikérésével
 
 a) folyamatos lelki gondozásban részesül, és
 
-b) a bv. intézet által rendszeres időközönként biztosított vallási alkalmakon a hozzátartozóival vagy engedélyezett kapcsolattartójával közösen vehet részt, ami nem számítható be a rezsimszabályokhoz igazodó látogatófogadásként.
+b) a bv. intézet által rendszeres időközönként biztosított vallási alkalmakon a hozzátartozóival vagy engedélyezett kapcsolattartójával közösen vehet részt, ami nem számítható be az egyes kategóriákhoz igazodó látogatófogadásként.
+
+(3a) A vallási részlegen a végrehajtás rendje a III. kategória-besorolás szabályaihoz igazodik azzal, hogy az elítélt a kategória-besorolásának megfelelően jogosult a kapcsolattartásra.
 
 (4) Az elítélt vallási részlegen történő elhelyezését meg kell szüntetni, ha
 

@@ -18,4 +18,6 @@ f) magánelzárás.
 
 (3) Az bv. intézetnél programoktól, rendezvényektől történő eltiltás, vagy a művelődési, szabadidős és sportprogramokon való részvétel korlátozása, meghatározott alkalmakra, de legfeljebb három hónapig tarthat.
 
-(4) A többletszolgáltatások megvonása legalább egy hónaptól, legfeljebb három hónapig terjedhet.
+(4) A többletszolgáltatások megvonása legalább egy hónaptól, legfeljebb hat hónapig terjedhet.
+
+(5) Az (1) bekezdés b)–e) pontjában meghatározott fegyelmi fenyítések legfeljebb három hónapig tartó időtartamra együttesen is kiszabhatók.
