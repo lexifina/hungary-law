@@ -4,9 +4,9 @@
 
 (3) A fegyelmi elkülönítést hivatali időn túl, a fegyelmi jogkör gyakorlójának akadályoztatása esetén vagy halaszthatatlan esetben a biztonsági tiszt is elrendelheti.
 
-(4)[^7] Fegyelmi elkülönítés esetén, ha az egyszemélyes elkülönítéssel jár, el kell végezni a fogvatartott Bv. tv. 146. § (5) szerinti vizsgálatát, és azt az elkülönítés tartama alatt legalább hetente meg kell ismételni. A Bv. tv. 150. § (3) bekezdésében foglalt feltételek fennállása esetén továbbá biztosítani kell a fogvatartott viselkedésének elektronikus megfigyelési eszközzel történő nyomonkövetését.
+(4)[^8] Fegyelmi elkülönítés esetén, ha az egyszemélyes elkülönítéssel jár, el kell végezni a fogvatartott Bv. tv. 146. § (5) szerinti vizsgálatát, és azt az elkülönítés tartama alatt legalább hetente meg kell ismételni. A Bv. tv. 150. § (3) bekezdésében foglalt feltételek fennállása esetén továbbá biztosítani kell a fogvatartott viselkedésének elektronikus megfigyelési eszközzel történő nyomonkövetését.
 
-(5)[^8] Az elkülönítést meg kell szüntetni, ha
+(5)[^9] Az elkülönítést meg kell szüntetni, ha
 
 a) a határideje lejárt,
 
@@ -14,5 +14,5 @@ b) a bv. orvos vagy a pszichológus az egyszemélyes fegyelmi elkülönítés fo
 
 c) az elkülönítés indoka már nem áll fenn, a fegyelmi jogkör gyakorlójának rendelkezésére.
 
-[^7]: A 13. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 64. § (1) bekezdésével megállapított szöveg.
-[^8]: A 13. § (5) bekezdését a 20/2020. (XII. 30.) IM rendelet 64. § (2) bekezdése iktatta be.
+[^8]: A 13. § (4) bekezdése a 20/2020. (XII. 30.) IM rendelet 64. § (1) bekezdésével megállapított szöveg.
+[^9]: A 13. § (5) bekezdését a 20/2020. (XII. 30.) IM rendelet 64. § (2) bekezdése iktatta be.

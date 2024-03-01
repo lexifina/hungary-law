@@ -16,7 +16,7 @@ f) rendbírság helyébe lépő elzárást töltő és
 
 g) szabálysértési elzárást töltő
 
-## (a továbbiakban együtt: fogvatartott) fegyelmi felelősségének az elbírálását szabályozza.
+(a továbbiakban együtt: fogvatartott) fegyelmi felelősségének az elbírálását szabályozza.
 
 (2) A szándékosságra, a kísérletre, a felbujtóra, a bűnsegédre, valamint a büntethetőséget kizáró okokra a Büntető Törvénykönyvről szóló törvény által meghatározottakat a fegyelmi felelősségre vonatkozóan is alkalmazni kell.
 
