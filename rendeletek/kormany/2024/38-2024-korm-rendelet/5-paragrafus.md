@@ -1,0 +1,1 @@
+5. § Az 1. mellékletben meghatározott utazási kedvezmény igénybevételére jogosult – a járási hivatal igazolása szerint – az a személy, aki aktív korúak ellátására jogosult, ha munkaviszonyban nem áll.

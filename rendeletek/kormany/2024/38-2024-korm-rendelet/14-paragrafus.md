@@ -1,0 +1,5 @@
+14. § (1) A kormányzati igazgatási létszámgazdálkodásról, valamint a kormányzati igazgatási szerveket és azok foglalkoztatottjait érintő egyes személyügyi kérdésekről szóló 88/2019. (IV. 23.) Korm. rendelet 83/C. §-ában az „a közforgalmú személyszállítási utazási kedvezményről szóló 85/2007. (IV. 25.) Korm. rendeletben” szövegrész helyébe az „a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendeletben” szöveg lép.
+
+(2) A szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 123/B. §-ában az „a közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet 7. §-a szerinti” szövegrész helyébe az „a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerinti” szöveg lép.
+
+(3) A pedagógusok új életpályájáról szóló 2023. évi LII. törvény végrehajtásáról szóló 401/2023. (VIII. 30.) Korm. rendelet 96. § (2) bekezdés c) pontjában az „a közforgalmú személyszállítási utazási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet szerint” szövegrész helyébe az „a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerint” szöveg lép.
