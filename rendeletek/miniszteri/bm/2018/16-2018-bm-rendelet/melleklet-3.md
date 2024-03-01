@@ -1,22 +1,20 @@
 |  | A | B |
 
-| 1 | Büntetés-végrehajtási intézet és székhelye | Végrehajtási fokozat |
+| 1 | Kockázatelemzési vizsgálatot végző szerv | Büntetés-végrehajtási intézet |
 
-| 2 | A fiatalkorú férfi szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
+| 2 | Központi Kivizsgáló és Módszertani Intézet | Budapesti Fegyház és Börtön Tököli Országos Büntetés-végrehajtási Intézet (fiatalkorú férfiak) Fővárosi Büntetés-végrehajtási Intézet (nők) Bács-Kiskun Vármegyei Büntetés-végrehajtási Intézet (fiatalkorú nők) |
 
-| 3 | Baranya Vármegyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Pécs[^7] | börtön, fogház |
+| 3 | Központi Kivizsgáló és Módszertani Intézet I. agglomerációs egysége | Szombathelyi Országos Büntetés-végrehajtási Intézet |
 
-| 4 | Bács-Kiskun Vármegyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét[^8] | börtön, fogház |
+| 4 | Központi Kivizsgáló és Módszertani Intézet II. agglomerációs egysége | Budapesti Fegyház és Börtön |
 
-| 5 | Borsod-Abaúj-Zemplén Vármegyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Szirmabesenyő[^9] | börtön, fogház |
+| 5 | Központi Kivizsgáló és Módszertani Intézet III. agglomerációs egysége | Szegedi Fegyház és Börtön |
 
-| 6 | Fiatalkorúak Büntetés-végrehajtási Intézete (Tököl) | börtön, fogház |
+| 6 | Központi Kivizsgáló és Módszertani Intézet IV. agglomerációs egysége | Fővárosi Büntetés-végrehajtási Intézet Váci Fegyház és Börtön |
 
-| 7 | A fiatalkorú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
+| 7 | Központi Kivizsgáló és Módszertani Intézet V. agglomerációs egysége | Tiszalöki Országos Büntetés-végrehajtási Intézet |
 
-| 8 | Bács-Kiskun Vármegyei Büntetés-végrehajtási Intézet telephelyeként működő Fiatalkorúak Regionális Büntetés-végrehajtási Intézete – Kecskemét[^10] | börtön, fogház |
-
-3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^11]
+3. melléklet a 16/2018. (VI. 7.) BM rendelethez[^15]
 
 I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek
 
@@ -60,6 +58,8 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 
 |  | 17b | Veszprém Vármegyei Büntetés-végrehajtási Intézet | börtön, fogház |
 
+|  | 17c[^16] | Csengeri Országos Büntetés-végrehajtási Intézet | fegyház, börtön, fogház |
+
 |  | 18 | A felnőtt korú női szabadságvesztésre ítéltek részére kijelölhető büntetés-végrehajtási intézetek |
 
 |  | 19 | Heves Vármegyei Büntetés-végrehajtási Intézet | börtön |
@@ -78,16 +78,14 @@ I. A felnőtt korú szabadságvesztésre ítéltek részére kijelölhető bünt
 
 |  | 26 | Veszprém Vármegyei Büntetés-végrehajtási Intézet | börtön, fogház |
 
-II. Azon büntetés-végrehajtási intézetek, amelyekben olyan enyhébb rezsimkategóriába sorolt
+II. Azon büntetés-végrehajtási intézetek, amelyekben olyan III. kategóriába sorolt
 
 fegyház fokozatú szabadságvesztésre ítélt is elhelyezhető, akinek engedélyezett
 
-a büntetés-végrehajtási intézeten kívüli munkavégzés
+a büntetés-végrehajtási intézeten kívüli munkavégzés[^17]
 
 1. Az I. pontban foglalt táblázat A:3, A:8, A:10 és A:16 mezője szerinti büntetés-végrehajtási intézet.
 
-[^7]: A 2. mellékletben foglalt táblázat A:3 mezője az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
-[^8]: A 2. mellékletben foglalt táblázat A:4 mezője az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
-[^9]: A 2. mellékletben foglalt táblázat A:5 mezője az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
-[^10]: A 2. mellékletben foglalt táblázat A:8 mezője az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
-[^11]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a, az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
+[^15]: A 3. melléklet a 2/2019. (I. 22.) BM rendelet 1. §-ával megállapított, a 25/2020. (VII. 15.) BM rendelet 1. §-a, az 50/2022. (XII. 27.) BM rendelet 12. § 6. pontja szerint módosított szöveg.
+[^16]: A 3. melléklet I. pontjában foglalt táblázat 17c sorát a 11/2024. (II. 29.) BM rendelet 35. § b) pontja iktatta be.
+[^17]: A 3. melléklet II. pont címe a 11/2024. (II. 29.) BM rendelet 36. § b) pontja szerint módosított szöveg.

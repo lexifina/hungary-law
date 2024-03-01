@@ -1,1 +1,0 @@
-## 2. § A letartóztatott a nem jogerős ítélet meghozatala után – a bíróság előzetes hozzájárulásával – az ítéletben megállapított végrehajtási fokozatnak megfelelő büntetés-végrehajtási intézetben is elhelyezhető.
