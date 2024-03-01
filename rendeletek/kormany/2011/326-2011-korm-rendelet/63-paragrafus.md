@@ -2,18 +2,18 @@
 
 63. § (1) Az ideiglenes rendszámtáblát önjáró munkagépre és azon járművekre kell kiadni, amelyet Magyarországon forgalomba még nem helyeztek, vagy a forgalomból végleg kivonták, vagy amelynek az állandó rendszámmal történő közlekedése bármely okból átmenetileg nem lehetséges. Az ideiglenes rendszámtábla leírását a 14. melléklet tartalmazza.
 
-(2)[^327]
+(2)[^325]
 
-(3)[^328]
+(3)[^326]
 
-(4)[^329]
+(4)[^327]
 
-(5)[^330]
+(5)[^328]
 
-(6)[^331]
+(6)[^329]
 
-[^327]: A 63. § (2) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
-[^328]: A 63. § (3) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
-[^329]: A 63. § (4) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
-[^330]: A 63. § (5) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
-[^331]: A 63. § (6) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (4) bekezdése iktatta be, hatályon kívül helyezte a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja.
+[^325]: A 63. § (2) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^326]: A 63. § (3) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^327]: A 63. § (4) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^328]: A 63. § (5) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^329]: A 63. § (6) bekezdését a 228/2012. (VIII. 23.) Korm. rendelet 7. § (4) bekezdése iktatta be, hatályon kívül helyezte a 303/2021. (VI. 1.) Korm. rendelet 29. § c) pontja.

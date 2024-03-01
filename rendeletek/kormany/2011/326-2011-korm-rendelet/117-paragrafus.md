@@ -1,10 +1,10 @@
 ## 26. Különleges járműigazgatási szabályok
 
-117. § (1)[^559] A statisztikai számjele alapján főtevékenységként gépjármű, jármű, pótkocsi, illetve mezőgazdasági gépek forgalmazására jogosult járműkereskedő a Magyarországon már forgalomba helyezett használt jármű értékesítési céllal történt megvásárlása esetén, a vásárlástól számított 15 napon belül köteles a közlekedési igazgatási hatóságnál az átírást kezdeményezni.
+117. § (1)[^557] A statisztikai számjele alapján főtevékenységként gépjármű, jármű, pótkocsi, illetve mezőgazdasági gépek forgalmazására jogosult járműkereskedő a Magyarországon már forgalomba helyezett használt jármű értékesítési céllal történt megvásárlása esetén, a vásárlástól számított 15 napon belül köteles a közlekedési igazgatási hatóságnál az átírást kezdeményezni.
 
 (2) Az (1) bekezdés rendelkezéseit kell alkalmazni abban az esetben is, ha a járműkereskedők a használt járműveket egymás között értékesítik.
 
-(3)[^560] A járműkereskedő belföldi, kereskedelmi célú tulajdonszerzését a közlekedési igazgatási hatóság átírja, azonban forgalmi engedélyt nem állít ki, és a törzskönyvet visszavonja. A forgalmi engedély „Hivatalos feljegyzések” rovatában a tulajdonjog változását jelölni kell. A rendelkezés többszöri kereskedői tulajdonváltásra is vonatkozik.
+(3)[^558] A járműkereskedő belföldi, kereskedelmi célú tulajdonszerzését a közlekedési igazgatási hatóság átírja, azonban forgalmi engedélyt nem állít ki, és a törzskönyvet visszavonja. A forgalmi engedély „Hivatalos feljegyzések” rovatában a tulajdonjog változását jelölni kell. A rendelkezés többszöri kereskedői tulajdonváltásra is vonatkozik.
 
-[^559]: A 117. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 38. pontja szerint módosított szöveg.
-[^560]: A 117. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 39. pontja szerint módosított szöveg.
+[^557]: A 117. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 38. pontja szerint módosított szöveg.
+[^558]: A 117. § (3) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 39. pontja szerint módosított szöveg.
