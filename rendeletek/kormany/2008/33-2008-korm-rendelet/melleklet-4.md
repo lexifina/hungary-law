@@ -12,7 +12,7 @@
 
 | 6. | Az Etv. 55. § (4) bekezdése szerinti közokirat-hamisítással érintett képesítés | Oktatási Hivatal | köznevelésért felelős miniszter hatáskörébe tartozó iskolai bizonyítványok ügyében a köznevelésért felelős miniszter, a felsőoktatásért felelős miniszter hatáskörébe tartozó oklevelek esetén a felsőoktatásért felelős miniszter |
 
-4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^85]
+4. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^87]
 
 Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
@@ -30,4 +30,4 @@ Az Etv. XI/A. Fejezete szerinti európai szakmai kártya
 
 | 6. | ingatlanközvetítő | Oktatási Hivatal |
 
-[^85]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított, a 403/2020. (VIII. 17.) Korm. rendelet 4. §-a, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^87]: A 4. számú mellékletet a 345/2015. (XI. 19.) Korm. rendelet 3. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (10) bekezdés b) pontjával megállapított, a 403/2020. (VIII. 17.) Korm. rendelet 4. §-a, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-5/J. §[^67] (1) Amennyiben a képesítés birtokosának képviselőjeként a munkáltató vagy a beruházó jár el, a képviselőt az ügyfél jogai illetik meg, amennyiben a keresőtevékenység folytatása céljából a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló kormányrendeletben meghatározott kiemelt foglalkoztató által előterjesztett tartózkodási engedély iránti kérelmet a munkáltató vagy a beruházó nyújtotta be.
+5/J. §[^68] (1)[^69] Amennyiben a képesítés birtokosának képviselőjeként a munkáltató vagy a beruházó jár el, a képviselőt az ügyfél jogai illetik meg, amennyiben a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti kedvezményes foglalkoztató vagy minősített kölcsönbeadó által előterjesztett tartózkodási engedély iránti kérelmet a munkáltató vagy a beruházó nyújtotta be.
 
 (2) Az Etv. 9. § (2) bekezdésétől eltérően az eljáró hatóság az Etv. IV. és az V. Fejezete szerinti eljárásban a kérelem megérkezését követő naptól számított negyvenöt napon belül dönt.
 
@@ -10,4 +10,5 @@
 
 (6) Ha az (5) bekezdés szerinti munkáltató a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) szerinti Fővállalkozó vagy Alvállalkozó, a (4) bekezdés alkalmazásához, illetve az (5) bekezdés szerinti kérelemhez mellékelni kell a 2015. évi VII. törvény szerinti Megrendelő egyetértő nyilatkozatát.
 
-[^67]: Az 5/J. §-t a 331/2023. (VII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^68]: Az 5/J. §-t a 331/2023. (VII. 19.) Korm. rendelet 5. §-a iktatta be.
+[^69]: Az 5/J. § (1) bekezdése a 35/2024. (II. 29.) Korm. rendelet 287. §-ával megállapított szöveg.

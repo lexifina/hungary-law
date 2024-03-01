@@ -82,8 +82,8 @@
 
 | 41. | Okleveles meteorológus | HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság |
 
-2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^83]
+2. számú melléklet a 33/2008. (II. 21.) Korm. rendelethez[^85]
 
 Az Etv. 41. § (1) bekezdése szerinti előzetes ellenőrzés alá tartozó szabályozott szakmák
 
-[^83]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a, a 345/2015. (XI. 19.) Korm. rendelet 5. § 5. pontja, a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés d) és f) pontja valamint (11) bekezdés a)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 59. § (1) bekezdés b) pontja, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^85]: A 2. számú melléklet a 282/2011. (XII. 21.) Korm. rendelet 27. §-ával megállapított, a 74/2012. (IV. 13.) Korm. rendelet 6. §-a, a 115/2012. (VI. 15.) Korm. rendelet 12. § (2) bekezdése, a 314/2012. (XI. 8.) Korm. rendelet 59. § c) pontja, a 221/2014. (IX. 4.) Korm. rendelet 420. § h) pontja, a 70/2015. (III. 30.) Korm. rendelet 118. §-a, a 345/2015. (XI. 19.) Korm. rendelet 5. § 5. pontja, a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés d) és f) pontja valamint (11) bekezdés a)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 59. § (1) bekezdés b) pontja, a 70/2021. (II. 19.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
