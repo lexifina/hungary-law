@@ -17,3 +17,7 @@ d) a gyógyszerfelhasználás monitoringrendszer,
 e) a központi szerződéstár és
 
 f) a központi gép-, műszer- és orvostechnikai nyilvántartás.
+
+g)[^3] a digitális járóbeteg-irányítási monitoring rendszer.
+
+[^3]: A 2. § (3) bekezdés g) pontját a 42/2024. (II. 29.) Korm. rendelet 8. §-a iktatta be.

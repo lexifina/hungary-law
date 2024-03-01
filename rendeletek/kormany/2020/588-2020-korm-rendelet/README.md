@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-588-20-
 | 2021-03-30 | 2020-588-20-22.4 | 157/2021. (III. 29.) Korm. rendelet |
 | 2022-01-01 | 2020-588-20-22.5 | 696/2021. (XII. 13.) Korm. rendelet |
 | 2024-01-21 | 2020-588-20-22.6 | 624/2023. (XII. 22.) Korm. rendelet |
+| 2024-03-01 | 2020-588-20-22.7 | 42/2024. (II. 29.) Korm. rendelet |

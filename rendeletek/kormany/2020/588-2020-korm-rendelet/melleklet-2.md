@@ -12,7 +12,7 @@
 
 | 4. | Tárgyi eszközökre és készletekre vonatkozó adatok | Az interfész leírásban meghatározottak szerint. | folyamatos |
 
-2. melléklet az 588/2020. (XII. 17.) Korm. rendelethez[^10]
+2. melléklet az 588/2020. (XII. 17.) Korm. rendelethez[^13]
 
 Az egyéb egészségügyi szolgáltató által szolgáltatandó adatok köre
 
@@ -28,4 +28,4 @@ Az egyéb egészségügyi szolgáltató által szolgáltatandó adatok köre
 
 | 5. | A közfinanszírozásból megvalósított egészségügyi ellátás adatai | Az interfészleírásban meghatározottak szerint. | folyamatos |
 
-[^10]: A 2. mellékletet a 157/2021. (III. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 624/2023. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 2. mellékletet a 157/2021. (III. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 624/2023. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
