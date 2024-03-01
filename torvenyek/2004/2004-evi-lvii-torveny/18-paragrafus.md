@@ -2,4 +2,4 @@
 
 ## MÓDOSULÓ JOGSZABÁLYOK
 
-18–21. §
+### 18. §
