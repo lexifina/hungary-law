@@ -4,7 +4,7 @@
 
 1. egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs vagy az, akinek a házassága, bejegyzett élettársi kapcsolata megszűnt és nincs élettársa;
 
-1a.[^22] életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+1a.[^22] életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
 2. fiatal házaspár: házastársak, akik közül legalább az egyik fél a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában még nem töltötte be a 40. életévét;
 
@@ -80,7 +80,7 @@ b) ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvez
 
 (2)[^34] Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az OTÉK-ban, valamint az épített környezet alakításáról és védelméről szóló törvényben meghatározottak szerint kell értelmezni.
 
-[^22]: Az 5. § (1) bekezdés 1a. pontját a 169/2023. (V. 12.) Korm. rendelet 18. §-a iktatta be.
+[^22]: Az 5. § (1) bekezdés 1a. pontját a 169/2023. (V. 12.) Korm. rendelet 18. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 324. §-a szerint módosított szöveg.
 [^23]: Az 5. § (1) bekezdés 3. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
 [^24]: Az 5. § (1) bekezdés 3. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 18. §-ával megállapított, a 686/2020. (XII. 29.) Korm. rendelet 26. § a) pont aa) alpontja szerint módosított szöveg.
 [^25]: Az 5. § (1) bekezdés 3. pont b) alpont bb) pontja a 686/2020. (XII. 29.) Korm. rendelet 26. § a) pont ab) alpontja szerint módosított szöveg.
