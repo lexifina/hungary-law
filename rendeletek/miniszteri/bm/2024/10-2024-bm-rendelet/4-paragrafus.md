@@ -1,0 +1,1 @@
+4. § A vízumdíj, illetve az igazgatási szolgáltatási díj összegének valutáról forintra, illetve forintról valutára történő átszámításánál belföldön a Magyar Nemzeti Bank hivatalos devizaárfolyamát, külföldön a megfelelő helyi árfolyamot kell alkalmazni.

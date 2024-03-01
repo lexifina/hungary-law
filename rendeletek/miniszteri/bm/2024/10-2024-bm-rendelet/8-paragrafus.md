@@ -1,0 +1,1 @@
+8. § Az 1. mellékletben meghatározott vízumdíj, illetve igazgatási szolgáltatási díj tekintetében egy eljárásban csak egy kedvezmény adható. Ha a kérelmező több eltérő mértékű kedvezményre is jogosult lenne, azt a kedvezményt kell biztosítani, amely számára kedvezőbb.
