@@ -1,8 +1,8 @@
 ## Eljárási szabályok
 
-6/A. §[^45] (1)[^46] A 4. §-ban meghatározott támogatások kérelemre nyújthatók.
+6/A. §[^47] (1)[^48] A 4. §-ban meghatározott támogatások kérelemre nyújthatók.
 
-(2)[^47] A kérelmet a tervezett közfoglalkoztatás helye, több járási hivatal illetékességi területén megvalósuló közfoglalkoztatás, illetve foglalkoztatás esetén a közfoglalkoztató székhelye szerint illetékes járási hivatalhoz kell benyújtani.
+(2)[^49] A kérelmet a tervezett közfoglalkoztatás helye, több járási hivatal illetékességi területén megvalósuló közfoglalkoztatás, illetve foglalkoztatás esetén a közfoglalkoztató székhelye szerint illetékes járási hivatalhoz kell benyújtani.
 
 (3) A támogatásról a járási hivatal mérlegelési jogkörében dönt, és egységes szerződéses feltételrendszer alapján hatósági szerződést köt a támogatottal.
 
@@ -24,6 +24,6 @@ f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
 
 (6) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható a közfoglalkoztatási program végéig.
 
-[^45]: A 6/A. §-t a 472/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
-[^46]: A 6/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^47]: A 6/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^47]: A 6/A. §-t a 472/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^48]: A 6/A. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^49]: A 6/A. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
