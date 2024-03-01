@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-12-20-2
 | 2022-01-11 | 2001-12-20-22.77 | 455/2015. (XII. 29.) Korm. rendelet |
 | 2022-07-01 | 2001-12-20-22.78 | 74/2011. (V. 2.) Korm. rendelet |
 | 2023-01-01 | 2001-12-20-22.79 | 74/2011. (V. 2.) Korm. rendelet |
+| 2024-03-01 | 2001-12-20-22.80 | 35/2024. (II. 29.) Korm. rendelet |
