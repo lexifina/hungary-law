@@ -2,39 +2,39 @@
 
 15. § (1) Az otthonteremtési kamattámogatásra való jogosultság megállapítását, az otthonteremtési kamattámogatással érintett kölcsönök nyújtását, folyósítását és a törlesztés megállapítását, valamint az otthonteremtési kamattámogatásnak a központi költségvetéssel való elszámolását hitelintézet végzi.
 
-(2)[^139]
+(2)[^143]
 
-(2a)[^140]
+(2a)[^144]
 
-(2b)[^141]
+(2b)[^145]
 
-(3)[^142]
+(3)[^146]
 
-(4)[^143]
+(4)[^147]
 
-(5)[^144]
+(5)[^148]
 
-(6)[^145]
+(6)[^149]
 
-(6a)[^146]
+(6a)[^150]
 
-(7)[^147]
+(7)[^151]
 
-(8)[^148]
+(8)[^152]
 
-(9)[^149]
+(9)[^153]
 
-(10)[^150]
+(10)[^154]
 
-[^139]: A 15. § (2) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^140]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
-[^141]: A 15. § (2b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
-[^142]: A 15. § (3) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^143]: A 15. § (4) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^144]: A 15. § (5) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^145]: A 15. § (6) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^146]: A 15. § (6a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (5) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
-[^147]: A 15. § (7) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^148]: A 15. § (8) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^149]: A 15. § (9) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
-[^150]: A 15. § (10) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^143]: A 15. § (2) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^144]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
+[^145]: A 15. § (2b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (4) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
+[^146]: A 15. § (3) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^147]: A 15. § (4) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^148]: A 15. § (5) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^149]: A 15. § (6) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^150]: A 15. § (6a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 187. § (5) bekezdése iktatta be, hatályon kívül helyezte a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja.
+[^151]: A 15. § (7) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^152]: A 15. § (8) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^153]: A 15. § (9) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
+[^154]: A 15. § (10) bekezdését a 101/2019. (V. 2.) Korm. rendelet 3. § (3) bekezdés f) pontja hatályon kívül helyezte.
