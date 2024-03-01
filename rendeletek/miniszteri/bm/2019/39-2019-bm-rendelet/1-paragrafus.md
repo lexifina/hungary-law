@@ -24,7 +24,7 @@
 
 11. őrizetes: az a személy, akinek kiutasítást előkészítő, illetve idegenrendészeti őrizetét vagy kitoloncolási őrizetét az arra jogosult hatóság elrendelte, továbbá akinek az ilyen őrizetét a bíróság meghosszabbította,
 
-12. őrzött szállás: az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 27/2007. (V. 31.) IRM rendelet 1. § (1) bekezdésében meghatározott, az idegenrendészeti őrizet végrehajtására szolgáló intézmény,
+12.[^1] őrzött szállás: az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 11/2024. (II. 29.) BM rendelet 1. § (1) bekezdésében meghatározott, az idegenrendészeti őrizet végrehajtására szolgáló intézmény,
 
 13. őrzött szállás orvosa: az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség) személyi állományába tartozó vagy szerződéses jogviszonyban foglalkoztatott, az egészségügyi államigazgatási szerv által kiadott működési engedély alapján az őrzött szálláson elhelyezettek részére egészségügyi szolgáltatást nyújtó orvos,
 
@@ -39,3 +39,5 @@
 18. rendvédelmi tisztifőorvos: a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló 4/2014. (I. 10.) Korm. rendelet [a továbbiakban: 4/2014. (I. 10.) Korm. rendelet] 1. § b) pontjában meghatározott személy,
 
 19. rendvédelmi tisztiorvos: a Rendőrségnek a 4/2014. (I. 10.) Korm. rendelet 1. § c) pontja szerinti rendvédelmi tisztiorvosa.
+
+[^1]: Az 1. § 12. pontja a 13/2024. (II. 29.) BM rendelet 6. §-a szerint módosított szöveg.

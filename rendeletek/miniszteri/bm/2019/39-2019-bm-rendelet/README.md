@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-39-20-0
 | 2019-11-16 | 2019-39-20-0A.1 | 39/2019. (XI. 15.) BM rendelet |
 | 2019-11-17 | 2019-39-20-0A.2 | 2010: CXXX. törvény |
 | 2023-01-01 | 2019-39-20-0A.3 | 45/2022. (XII. 20.) BM rendelet |
+| 2024-03-01 | 2019-39-20-0A.4 | 13/2024. (II. 29.) BM rendelet |
