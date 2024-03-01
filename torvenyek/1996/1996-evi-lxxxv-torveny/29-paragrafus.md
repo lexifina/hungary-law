@@ -1,6 +1,6 @@
 29. § (1) A díjat, valamint az elektronikus adatszolgáltatási díjat annak kell megfizetnie, aki a tulajdonilap-másolat szolgáltatását kéri, illetve amely szerv az erre irányuló megkeresést előterjeszti.
 
-(2) A 28. § (1) bekezdése szerinti díjfizetési kötelezettség az ingatlanügyi hatóság pénztárába történő készpénzbefizetéssel, amennyiben az ingatlanügyi hatóság hivatali helyiségében erre lehetőség van, a kérelem előterjesztésével egyidejűleg bankkártyával vagy az ingatlanügyi hatóság előirányzat-felhasználási keret számlája javára történő készpénz-átutalási megbízással vagy átutalási megbízással teljesíthető.
+(2)
 
 (3) A díj készpénz-átutalási megbízással vagy átutalási megbízással történő megfizetése esetén a tulajdonilap-másolat kiállítása iránti kérelem, megkeresés előterjesztésekor mellékelni kell a díj megfizetését igazoló bizonylatot vagy annak másolatát.
 

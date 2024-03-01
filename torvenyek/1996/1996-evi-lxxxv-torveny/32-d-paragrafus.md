@@ -1,1 +1,1 @@
-32/D. § Ha az ingatlanügyi hatóságnál ugyanazon ingatlanra vonatkozóan a kérelmező többféle, egymástól különböző típusú jog vagy tény keletkezésének, módosulásának vagy megszüntetésének a bejegyzését, feljegyzését, vagy a bejegyzett ilyen jog vagy feljegyzett ilyen tény törlését egy eljárásban kéri, a díjat csak egyszer, a legmagasabb díjtételnek megfelelő összegben kell megfizetni.
+### 32/D. §
