@@ -1,3 +1,3 @@
-32. §[^104]
+32. §[^105]
 
-[^104]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^105]: A 32. §-t a 290/2010. (XII. 21.) Korm. rendelet 126. § (1) bekezdés a) pontja hatályon kívül helyezte.
