@@ -1,4 +1,4 @@
-70. §[^222] (1) Az elektronikus ügyintézési ponton 2022. december 31-ig benyújtott kérelem esetében az állandó személyazonosító igazolványon
+70. §[^228] (1) Az elektronikus ügyintézési ponton 2022. december 31-ig benyújtott kérelem esetében az állandó személyazonosító igazolványon
 
 a) a név nemzetiségi nyelven,
 
@@ -12,4 +12,4 @@ feltüntetésére nincs lehetőség.
 
 (3) 2022. december 31-ig az elektronikus ügyintézési ponton nem igényelhető az Nytv. 29/E. § (2) bekezdése szerinti állandó személyazonosító igazolvány.
 
-[^222]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 717/2021. (XII. 20.) Korm. rendelet 16. § (15) bekezdése iktatta be.
+[^228]: A 70. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 717/2021. (XII. 20.) Korm. rendelet 16. § (15) bekezdése iktatta be.
