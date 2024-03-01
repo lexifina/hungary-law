@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-47-00-00
 | 2023-03-07 | 2021. évi CXX. törvény | 2009-47-00-00.57 |
 | 2023-08-04 | 17/2023. (VIII. 3.) AB határozat | 2009-47-00-00.59 |
 | 2023-11-01 | 2023. évi XXXVIII. törvény | 2009-47-00-00.58 |
+| 2024-03-01 | 2023. évi XCVII. törvény | 2009-47-00-00.61 |
