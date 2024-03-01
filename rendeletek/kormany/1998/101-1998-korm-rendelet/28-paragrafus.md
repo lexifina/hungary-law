@@ -1,0 +1,3 @@
+28. §[^174] A menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmányát, a huzamos tartózkodási jogosultsággal rendelkező személynek és hontalanként elismert személynek egyszeri visszautazásra kiadott úti okmányát, a menedékesek úti okmányát a Magyarország területére való visszatéréskor le kell adni, amit a rendőrség elismervény ellenében elvesz és azt az Országos Idegenrendészeti Főigazgatóságnak haladéktalanul megküldi.
+
+[^174]: A 28. § a 134/2017. (VI. 9.) Korm. rendelet 1. § (5) bekezdésével megállapított, a 126/2019. (V. 30.) Korm. rendelet 9. § a) pontja, a 35/2024. (II. 29.) Korm. rendelet 272. § g) pontja szerint módosított szöveg.

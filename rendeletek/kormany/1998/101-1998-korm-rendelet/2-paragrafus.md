@@ -10,7 +10,7 @@ c)[^4] az oltalmazottként elismert személyek úti okmánya;
 
 d)[^5] a menedékesek úti okmánya;
 
-e)[^6] a bevándorolt és a letelepedett jogállású személy, valamint a hontalan úti okmánya és egyszeri visszautazásra jogosító okmánya;
+e)[^6] a huzamos tartózkodási jogosultsággal rendelkező személy, valamint a hontalan úti okmánya és egyszeri visszautazásra jogosító okmánya;
 
 f)[^7] a menekültként elismert személy, az oltalmazottként elismert személy és a menedékes egyszeri visszautazásra jogosító úti okmánya.
 
@@ -19,5 +19,5 @@ f)[^7] a menekültként elismert személy, az oltalmazottként elismert személy
 [^3]: A 2. § a 197/2006. (IX. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdésének új c) pontját a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése iktatta be, egyidejűleg az eredeti c)–d) pont jelölését d)–e) pontra változtatva.
 [^5]: A 2. § (1) bekezdése eredeti c) pontjának jelölését a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése d) pontra változtatta.
-[^6]: A 2. § (1) bekezdés d) pontja a 115/2007. (V. 24.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg. A 2. § (1) bekezdése eredeti d) pontjának jelölését a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése e) pontra változtatta, szövege a 134/2017. (VI. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdése eredeti d) pontjának jelölését a 301/2007. (XI. 9.) Korm. rendelet 111. § (1) bekezdése e) pontra változtatta. A 2. § (1) bekezdés e) pontja a 35/2024. (II. 29.) Korm. rendelet 272. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdésének f) pontját a 301/2007. (XI. 9.) Korm. rendelet 111. § (2) bekezdése iktatta be.

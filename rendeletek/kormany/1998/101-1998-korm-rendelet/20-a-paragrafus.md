@@ -1,8 +1,8 @@
-## A diplomata- és a külügyi szolgálati útlevél[^116]
+## A diplomata- és a külügyi szolgálati útlevél[^118]
 
-20/A. §[^117] (1)[^118] Az Utv. 12. § (1) bekezdése és 13. § (1) bekezdése szerinti jogosultak a diplomata- és külügyi szolgálati útlevél iránti kérelmüket a külpolitikáért felelős miniszternél a jogosultságot megalapozó megbízatás vagy jogviszony igazolásával együtt nyújtják be.
+20/A. §[^119] (1)[^120] Az Utv. 12. § (1) bekezdése és 13. § (1) bekezdése szerinti jogosultak a diplomata- és külügyi szolgálati útlevél iránti kérelmüket a külpolitikáért felelős miniszternél a jogosultságot megalapozó megbízatás vagy jogviszony igazolásával együtt nyújtják be.
 
-(2)[^119] Az (1) bekezdés szerinti igazolás tartalmazza:
+(2)[^121] Az (1) bekezdés szerinti igazolás tartalmazza:
 
 a) a jogosult családi és utónevét, természetes személyazonosító adatait,
 
@@ -12,9 +12,9 @@ c) a diplomata- és külügyi szolgálati útlevélre jogosult hozzátartozójá
 
 d) második diplomata- és külügyi szolgálati útlevél kérelmezése esetén a kérelem előterjesztésének indokát.
 
-(3)[^120] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külpolitikáért felelős miniszter engedélyezési hatáskörébe tartozik, az erre irányuló javaslatot a külpolitikáért felelős miniszterhez kell előzetesen megküldeni. A diplomata- és külügyi szolgálati útlevél iránti kérelem a javaslat engedélyezéséről hozott döntést követően nyújtható be.
+(3)[^122] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külpolitikáért felelős miniszter engedélyezési hatáskörébe tartozik, az erre irányuló javaslatot a külpolitikáért felelős miniszterhez kell előzetesen megküldeni. A diplomata- és külügyi szolgálati útlevél iránti kérelem a javaslat engedélyezéséről hozott döntést követően nyújtható be.
 
-(4)[^121] Az (3) bekezdés szerinti javaslatnak tartalmaznia kell:
+(4)[^123] Az (3) bekezdés szerinti javaslatnak tartalmaznia kell:
 
 a) a kérelmet benyújtó természetes személyazonosító adatait,
 
@@ -22,18 +22,18 @@ b) a javaslatot alátámasztó indokolást,
 
 c) második diplomata- vagy külügyi szolgálati útlevél kiadásának kérelmezése esetén, a második okmány igénylésének külön indokolását.
 
-(5)[^122]
+(5)[^124]
 
-(6)[^123]
+(6)[^125]
 
-(7)[^124] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor, vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a Külgazdasági és Külügyminisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
+(7)[^126] Ha az útlevél kiadásának engedélyezése az Utv. 12. § (2) bekezdése vagy 13. § (2) bekezdése alapján a külügyminiszter engedélyezési hatáskörébe tartozik, az útlevelet az érvényességének lejártakor, vagy a külpolitikáért felelős miniszter engedélyében meghatározottak szerint a Külgazdasági és Külügyminisztérium konzuli szolgálat irányításáért felelős szervezeti egységénél le kell adni.
 
-[^116]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
-[^117]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^118]: A 20/A. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^119]: A 20/A. § (2) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^120]: A 20/A. § (3) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^121]: A 20/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^122]: A 20/A. § (5) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^123]: A 20/A. § (6) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
-[^124]: A 20/A. § (7) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^118]: A 20/A. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be.
+[^119]: A 20/A. §-t újonnan a 457/2017. (XII. 28.) Korm. rendelet 58. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^120]: A 20/A. § (1) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^121]: A 20/A. § (2) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^122]: A 20/A. § (3) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^123]: A 20/A. § (4) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^124]: A 20/A. § (5) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^125]: A 20/A. § (6) bekezdését a 628/2022. (XII. 30.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^126]: A 20/A. § (7) bekezdése a 628/2022. (XII. 30.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

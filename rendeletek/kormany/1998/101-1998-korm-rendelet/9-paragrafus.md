@@ -1,3 +1,3 @@
-9. §[^38]
+9. §[^39]
 
-[^38]: A 9–10. §-t és az azokat megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^39]: A 9–10. §-t és az azokat megelőző alcímet a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
