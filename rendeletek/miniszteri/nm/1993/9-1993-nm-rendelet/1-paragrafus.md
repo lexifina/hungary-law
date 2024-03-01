@@ -1,6 +1,6 @@
 1. §[^2] (1)[^3] Az egészségügyi intézmény (a továbbiakban: intézmény) az aktív minősítésű osztályain nyújtott ellátás esetében a 3. számú mellékletben foglalt homogén betegségcsoportokhoz (a továbbiakban: HBCs) rendelt súlyszám alapján részesül díjazásban.[^4]
 
-(1a)[^5] Az aktív fekvőbeteg-szakellátás 1002 traumatológia szakma osztályain S vagy T betűvel kezdődő fődiagnózissal jelentett traumatológiai indikációjú ellátások esetén a 3/A. melléklet szerinti ellátások elszámolása 1,45-ös szorzó alkalmazásával történik.
+(1a)[^5] Az aktív fekvőbeteg-szakellátás 1002 traumatológia szakma, 1005 gyermektraumatológia szakma, 0506 gyermeksebészet szakma osztályain S vagy T betűvel kezdődő fődiagnózissal jelentett traumatológiai indikációjú ellátások esetén a 3/A. melléklet szerinti ellátások elszámolása 1,45-ös szorzó alkalmazásával történik.
 
 (2)[^6] Az ellátott eset HBCs-jének meghatározásában a besorolási tényezőket a (3)–(4) bekezdésekben meghatározott sorrendben kell a csoportosításnál figyelembe venni.
 
@@ -93,7 +93,7 @@ f)[^16] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^2]: Az 1. § (1) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg. Az 1. §-t megelőző alcímet ugyanezen rendelet 7. §-a (2) bekezdésének a) pontja hatályon kívül helyezte. Az 1. § (1) bekezdése a 48/2005. (XI. 8.) EüM rendelet 7. § (2) bekezdése szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdése a 29/2010. (XII. 30.) NEFMI rendelet 6. § a) pontja, a 9/2012. (II. 28.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
 [^4]: Lásd a Népjóléti Közlöny 1993. évi 7. számát, a 8003/2005. (EüK. 6.) EüM tájékozatót, a 8005/2005. (EüK. 13.) EüM tájékozatót, a 8007/2005. (EüK. 14.) EüM tájékozatót, a 8009/2005. (EüK. 18.) EüM tájékozatót, a 8010/2005. (EüK. 18.) EüM tájékozatót, a 8012/2005. (EüK. 20.) EüM tájékozatót, a 8014/2005. (EüK. 22.) EüM tájékozatót, a 8002/2006. (EüK. 3.) EüM tájékozatót, a 8006/2006. (EüK. 5.) EüM tájékozatót, a 8008/2006. (EüK. 15.) EüM tájékozatót, a 8010/2006. (EüK. 22.) EüM tájékozatót, a 8003/2007. (EüK. 8.) EüM tájékozatót, a 8004/2007. (EüK. 11.) EüM tájékozatót, a 8005/2007. (EüK. 11.) EüM tájékozatót, a 8009/2007. (EüK. 13.) EüM tájékozatót, a 8011/2007. (EüK. 16.) EüM tájékozatót, a 8012/2007. (EüK. 17.) EüM tájékozatót, a 8015/2007. (EüK. 21.) EüM tájékozatót, a 8001/2008. (EüK. 4.) EüM tájékozatót, a 8003/2008. (EüK. 7.) EüM tájékozatót, a 8005/2008. (EüK. 12.) EüM tájékozatót, a 8008/2008. (HÉ 40.) EüM tájékozatót, a 8009/2008. (HÉ 43.) EüM tájékozatót, a 2/2009. (II. 6.) EüM tájékozatót, a 4/2009. (VIII. 28.) EüM tájékozatót, a 7/2009. (XII. 11.) EüM tájékozatót.
-[^5]: Az 1. § (1a) bekezdését a 30/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (1a) bekezdését a 30/2019. (XII. 14.) EMMI rendelet 1. §-a iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § (2) bekezdése a 7/1999. (IV. 7.) EüM rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (3) bekezdése a 3/1997. (II. 13.) Korm. rendelet 1. §-ának (1) bekezdésével megállapított szöveg.
 [^8]: Az 1. § (3) bekezdésének g) pontját a 13/2000. (V. 12.) EüM rendelet 1. §-ának (1) bekezdése iktatta be.
