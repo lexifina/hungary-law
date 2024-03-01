@@ -12,9 +12,13 @@ d) Magyarországon nem engedélyezett gyógyszert vagy állatgyógyászati kész
 
 e) gyógyszerhez vagy állatgyógyászati készítményhez kapcsolódó eredeti dokumentumot kereskedelmi céllal rendeltetésétől eltérően felhasznál,
 
+f) olyan gyógyszert, állatgyógyászati készítményt, amelynél a gyógyszerellátásra vonatkozó szabályok megszegése miatt az ellátási lánc folytonossága nem igazolható, a jogszerű ellátási láncban forgalomba hoz vagy azzal kereskedik,
+
 bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) Ha az (1) bekezdésben meghatározott bűncselekményt az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet [a továbbiakban: 78/2022. (XII. 28.) BM rendelet] 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+(2) Ha az (1) bekezdésben meghatározott bűncselekményt az ellenőrzött anyagokról szóló 78/2022. (XII. 28.) BM rendelet [a továbbiakban: 78/2022. (XII. 28.) BM rendelet] 2. mellékletében a pszichotróp anyagok 3. vagy 4. jegyzékén szereplő pszichotróp anyag tartalmú gyógyszerre vagy állatgyógyászati készítményre, illetve a bejelentési kötelezettség megsértésével, engedély nélkül vagy az engedély kereteit túllépve ilyen gyógyszer vagy állatgyógyászati készítmény hatóanyagára követik el, a büntetés egy évtől öt évig terjedő szabadságvesztés.
+
+(2a) A (2) bekezdés szerint büntetendő, aki a (2) bekezdésben meghatározott tartalmú gyógyszert, gyógyszer hatóanyagot, állatgyógyászati készítményt jogosulatlanul forgalomba hoz vagy azzal kereskedik.
 
 (3) A büntetés az (1) bekezdés a) és b) pontjában meghatározott esetekben
 
@@ -34,15 +38,17 @@ okoz.
 
 (5) Aki a bűncselekményt
 
-a) egészségügyi dolgozóként,
+a) az (1) bekezdés a)–e) pontjában, a (2) és a (2a) bekezdésben meghatározott esetben
 
-b) gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy
+aa) egészségügyi dolgozóként,
 
-c) bűnszövetségben
+ab) gyártásra, nagykereskedelemre, közvetlen lakossági ellátás végzésére engedéllyel rendelkező szervezet alkalmazottjaként, vagy
 
-követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+b) bűnszövetségben
 
-(6) Az (5) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett gyógyszer vagy állatgyógyászati készítmény a felhasználók számára széles körben válik hozzáférhetővé.
+követi el, az (1) bekezdésben meghatározott esetben egy évtől öt évig terjedő szabadságvesztéssel, a (2) és a (2a) bekezdésben meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+
+(6) Az (5) bekezdés szerint büntetendő, ha az (1) bekezdés b) vagy f) pontjában, illetve a (2a) bekezdésben meghatározott gyógyszer vagy állatgyógyászati készítmény sajtótermék, médiaszolgáltatás vagy elektronikus hírközlő hálózaton való közzététel útján válik a nagy nyilvánosság számára hozzáférhetővé.
 
 (7) Aki az (1)–(6) bekezdésben meghatározott gyógyszerhamisításra irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 

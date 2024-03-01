@@ -26,6 +26,8 @@ h) – beleegyezése esetén – meghatározott gyógykezelésnek vagy gyógyít
 
 i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a pártfogó felügyelői szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.
 
+j) meghatározott, az internet elérésével végezhető tevékenységtől tartózkodjon vagy azt korlátozottan végezzen.
+
 (3) A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
 
 (4) A 69. § (2) bekezdés c) és d) pontja szerinti elkövetővel szemben a (2) bekezdés b) pontja szerinti külön magatartási szabályt a sértett vagy a sértettre tekintettel annak hozzátartozója védelme érdekében el kell rendelni. A 69. § (2) bekezdés c) pontja szerinti esetben a bíróság e szabály megtartásának ellenőrzésére – kivéve, ha alkalmazásának műszaki feltételei nem adottak – a kötelezett mozgását nyomon követő technikai eszköz alkalmazását rendeli el.
@@ -33,3 +35,13 @@ i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkoz�
 (5) A bíróság a (4) bekezdés alkalmazásától a 69. § (2) bekezdés d) pontja szerinti elkövetővel szemben az elkövetés körülményeire, az elkövető személyében rejlő társadalomra veszélyesség fokára, az elkövető és a bűncselekmény sértettje, illetve más, a bűncselekménnyel összefüggésben veszélyeztetett személy közötti kapcsolatra vagy egyéb büntetéskiszabási körülményre figyelemmel eltérhet.
 
 (6) A (2) bekezdés b) pontja szerinti távoltartás elrendelése nem zárja ki, hogy az elkövető – ha kapcsolattartásra jogosult – a kiskorú gyermekével felügyelt kapcsolattartás keretében kapcsolatot tartson.
+
+(7) A (2) bekezdés j) pontja szerinti magtartási szabály esetén a bíróság vagy az ügyészség az elkövetett bűncselekménnyel összefüggésben meghatározza, hogy az elkövető az interneten végezhető mely tevékenységektől köteles tartózkodni, továbbá meghatározhatja, hogy az elkövető
+
+a) az internetet mely eszközén keresztül érheti el,
+
+b) az internet elérésével végzett tevékenységét hogyan szükséges igazolnia,
+
+c) az internet elérésével végzett tevékenységének ellenőrzése érdekében – ha annak műszaki feltételei fennállnak – milyen információs rendszert képező berendezést vagy alkalmazást használhat, illetve
+
+d) ha a technikai feltételek fennállnak, az internet elérésével végzett tevékenységének ellenőrzését a párfogó felügyelőnek az előre be nem jelentett felhívására folyamatos kép- és hangfelvétel továbbításával köteles biztosítani.

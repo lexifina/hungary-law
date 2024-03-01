@@ -32,7 +32,7 @@ c) bűnszövetségben
 
 követi el, egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
 
-(4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék a felhasználók számára széles körben válik hozzáférhetővé.
+(4) A (3) bekezdés szerint büntetendő, ha a hamis, meghamisított vagy Magyarországon nem engedélyezett egészségügyi termék sajtótermék, médiaszolgáltatás, vagy elektronikus hírközlő hálózaton való közzététel útján válik a nagy nyilvánosság számára hozzáférhetővé.
 
 (4a) Aki az (1)–(4) bekezdésben meghatározott egészségügyi termék hamisítására irányuló előkészületet követ el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
