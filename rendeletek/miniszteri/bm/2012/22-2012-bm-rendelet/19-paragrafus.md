@@ -1,3 +1,3 @@
-19. §[^29]
+19. §[^30]
 
-[^29]: A 19. §-t a 35/2023. (VIII. 31.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
+[^30]: A 19. §-t a 35/2023. (VIII. 31.) BM rendelet 3. § a) pontja hatályon kívül helyezte.
