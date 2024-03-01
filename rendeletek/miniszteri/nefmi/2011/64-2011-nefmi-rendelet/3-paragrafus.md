@@ -26,7 +26,9 @@ szervezik és bonyolítják le.
 
 (8)[^9] A továbbképzésre kötelezettnek a továbbképzési időszak alatt egy kötelező szintentartó továbbképzésen történő részvétel térítésmentes, amelyre vonatkozó költségvetési támogatás a (3) bekezdés szerinti intézmény számára utólag kerül biztosításra.
 
-(9)[^10] Az (5a) és (5b) bekezdés szerinti esetben a továbbképzésre kötelezett a továbbképzés részvételi díjának utólagos befizetését követően jelentkezhet be ismételten a (8) bekezdés alapján térítésmentes kötelező szintentartó továbbképzésre.
+(8a)[^10] A (8) bekezdés szerinti költségvetési támogatás koordinációs feladatait az OKFŐ látja el.
+
+(9)[^11] Az (5a) és (5b) bekezdés szerinti esetben a továbbképzésre kötelezett a továbbképzés részvételi díjának utólagos befizetését követően jelentkezhet be ismételten a (8) bekezdés alapján térítésmentes kötelező szintentartó továbbképzésre.
 
 [^4]: A 3. § (3) bekezdése a 6/2021. (II. 9.) EMMI rendelet 3. §-ával megállapított szöveg.
 [^5]: A 3. § (4) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
@@ -34,4 +36,5 @@ szervezik és bonyolítják le.
 [^7]: A 3. § (5a) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
 [^8]: A 3. § (5b) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (2) bekezdése iktatta be.
 [^9]: A 3. § (8) bekezdése a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdésével megállapított szöveg.
-[^10]: A 3. § (9) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdése iktatta be.
+[^10]: A 3. § (8a) bekezdését a 7/2024. (II. 12.) BM rendelet 17. §-a iktatta be.
+[^11]: A 3. § (9) bekezdését a 2/2013. (I. 2.) EMMI rendelet 27. § (3) bekezdése iktatta be.
