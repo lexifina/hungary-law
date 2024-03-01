@@ -1,3 +1,9 @@
-10. §[^10]
+10. § A 79/2004. (V. 4.) FVM rendelet 47. §-a helyébe a következő rendelkezés lép:
 
-[^10]: A 10. § a 46. § (5) bekezdés alapján 2024. március 1-jén lép hatályba.
+„47. § (1) Az egyéni, illetve a társas vadászati naplót és terítéknyilvántartást a 13. számú mellékletben meghatározottak szerint kell vezetni. Minden egyéni vadászatot új sorszámon, annak megkezdése előtt a vadászat várható befejezésének megjelölésével együtt kell naplózni, és a bejegyzést aláírással kell hitelesíteni. Egyéni vadászat esetén a vadászat a vadászati naplóban feltüntetett időpontban veszi kezdetét. A vadászati naplóba bejegyzett befejezési időponton túl a vadász vadászati tevékenységet nem folytathat.
+
+(2) Ha az egyéni bér- vagy vendégvadászathoz a vadászatra jogosult kísérővadászt állított, akkor a vadászatot a vadászati naplóba a kísérővadász jegyzi be. Társas vadászat esetén a vadászatot a vadászati naplóba a vadászatvezető jegyzi be.
+
+(3) Ha a vadászaton vadelejtés, sebzés, hibázás vagy bármilyen rendkívüli esemény történt, akkor ennek tényét – egyéni vadászat esetén a vadász, társas vadászat esetén a vadászatvezető, bér- és vendégvadászat esetén a kísérővadász – a vadászat befejezését követően haladéktalanul, de legkésőbb 6 órán belül a vadászati napló megfelelő rovatába bejegyzi, és a bejegyzést aláírásával hitelesíti.
+
+(4) A vadászjegyet, az egyéni vagy társas vadászati napló- és teríték-nyilvántartást, valamint a vadászatra jogosult által vezetett dokumentumokat a vadász, illetve a vadászatra jogosult – az eredeti bejegyzésekkel – az utolsó bejegyzést követő öt évig megőrzi. A vadász vagy a vadászatra jogosult nyolc napon belül köteles bejelenteni a vadászati hatóságnak, ha a felsorolt dokumentumok közül bármelyik elveszik, megsemmisül, vagy azt tőle eltulajdonítják.”

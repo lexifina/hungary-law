@@ -1,3 +1,3 @@
-10. melléklet az 57/2023. (X. 16.) AM rendelethez[^65]
+10. melléklet az 57/2023. (X. 16.) AM rendelethez[^62]
 
-[^65]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^62]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
