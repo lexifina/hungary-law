@@ -1,12 +1,12 @@
-12/A. §[^18] (1) Szakorvos jelölt ügyeleti tevékenységet felügyelet biztosítása nélkül nem láthat el.
+12/A. §[^19] (1) Szakorvos jelölt ügyeleti tevékenységet felügyelet biztosítása nélkül nem láthat el.
 
-(2)[^19] Szakorvos jelölt ügyeleti ellátásba a választott szakmájának megfelelő szakterületen
+(2)[^20] Szakorvos jelölt ügyeleti ellátásba a választott szakmájának megfelelő szakterületen
 
 a) a választott szakmában eltöltött legalább 3 hónap gyakorlatot követően, tutora javaslata alapján, szakorvos személyes felügyelete mellett vonható be, vagy
 
 b) amennyiben az ügyeleti feladatellátás megkezdéséhez a jelölt által választott szakterületen miniszteri rendeletben részvizsga előírására került sor, a részvizsga sikeres teljesítését követően, a telefonos elérhetőség melletti felügyelet vagy behívásos rendszer keretében megvalósított felügyelet mellett is bevonható.
 
-(3)[^20] Szakorvos jelölt ügyeleti ellátásba a választott szakmájától eltérő szakterületen
+(3)[^21] Szakorvos jelölt ügyeleti ellátásba a választott szakmájától eltérő szakterületen
 
 a) legalább 2 hónap sürgősségi betegellátó osztályon töltött gyakorlat teljesítését,
 
@@ -18,17 +18,17 @@ d) a választott szakmájának megfelelő szakterületen eltöltött legalább 3
 
 követően osztható be személyes szakorvosi felügyelet mellett.
 
-(3a)[^21] Ha az első részvizsga teljesítésére a szakképzés 18. hónapját követően kerül sor, a szakorvosjelölt a szakképzés 18. hónapjának teljesítését követően, tutora javaslata alapján telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható az ügyeleti ellátásba.
+(3a)[^22] Ha az első részvizsga teljesítésére a szakképzés 18. hónapját követően kerül sor, a szakorvosjelölt a szakképzés 18. hónapjának teljesítését követően, tutora javaslata alapján telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható az ügyeleti ellátásba.
 
-(3b)[^22] A bőr-, nemigyógyászat és kozmetológia, geriátria, reumatológia és szemészet szakképzésben részt vevők saját szakmában a (3) bekezdés szerinti elemek teljesítését követően telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonhatók az ügyeleti ellátásba.
+(3b)[^23] A bőr-, nemigyógyászat és kozmetológia, geriátria, reumatológia és szemészet szakképzésben részt vevők saját szakmában a (3) bekezdés szerinti elemek teljesítését követően telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonhatók az ügyeleti ellátásba.
 
-(3c)[^23] A háziorvostan szakképzésben részt vevő szakorvos jelölt saját szakmában a (3) bekezdés a), c) és d) pontja szerinti elemek teljesítését követően, telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható az ügyeleti ellátásba.
+(3c)[^24] A háziorvostan szakképzésben részt vevő szakorvos jelölt saját szakmában a (3) bekezdés a), c) és d) pontja szerinti elemek teljesítését követően, telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható az ügyeleti ellátásba.
 
-(3d)[^24] A szakorvos jelölt a választott szakmájától eltérő háziorvosi ügyeleti ellátásba a (3) bekezdésben foglaltak teljesítését követően telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható.
+(3d)[^25] A szakorvos jelölt a választott szakmájától eltérő háziorvosi ügyeleti ellátásba a (3) bekezdésben foglaltak teljesítését követően telefonos elérhetőség melletti felügyelet vagy behívásos rendszerben megvalósított felügyelet mellett is bevonható.
 
 (4) A (2) és (3) bekezdésben foglaltakat nem kell alkalmazni a szakfogorvos képzésben részt vevőkre.
 
-(5)[^25] A szakorvos jelölt felügyeletét a 10. § (1) bekezdés a) pontja szerinti módon kell biztosítani a szakképzés teljes időtartama alatt az alábbi szervezeti egységekben végzett gyakorlatok idején:
+(5)[^26] A szakorvos jelölt felügyeletét a 10. § (1) bekezdés a) pontja szerinti módon kell biztosítani a szakképzés teljes időtartama alatt az alábbi szervezeti egységekben végzett gyakorlatok idején:
 
 a) az intenzív osztályon a progresszivitás második szintjétől,
 
@@ -36,14 +36,14 @@ b) a traumatológiai osztályon a progresszivitás második szintjétől és
 
 c) a perinatális intenzív centrumokban.
 
-(6)[^26] A szakfogorvos jelöltek szakmai felügyelete ügyeleti ellátás tekintetében a szakképzés teljes időtartama alatt a 10. § (1) bekezdése szerinti bármely módon megvalósítható.
+(6)[^27] A szakfogorvos jelöltek szakmai felügyelete ügyeleti ellátás tekintetében a szakképzés teljes időtartama alatt a 10. § (1) bekezdése szerinti bármely módon megvalósítható.
 
-[^18]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 2. §-a iktatta be.
-[^19]: A 12/A. § (2) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^20]: A 12/A. § (3) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^21]: A 12/A. § (3a) bekezdését a 28/2022. (VIII. 25.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^22]: A 12/A. § (3b) bekezdését a 28/2022. (VIII. 25.) BM rendelet 1. § (2) bekezdése iktatta be.
-[^23]: A 12/A. § (3c) bekezdését a 23/2023. (VI. 30.) BM rendelet 17. §-a iktatta be.
-[^24]: A 12/A. § (3d) bekezdését a 23/2023. (VI. 30.) BM rendelet 17. §-a iktatta be.
-[^25]: A 12/A. § (5) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^26]: A 12/A. § (6) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^19]: A 12/A. §-t a 2/2013. (I. 2.) EMMI rendelet 2. §-a iktatta be.
+[^20]: A 12/A. § (2) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^21]: A 12/A. § (3) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^22]: A 12/A. § (3a) bekezdését a 28/2022. (VIII. 25.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^23]: A 12/A. § (3b) bekezdését a 28/2022. (VIII. 25.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 12/A. § (3c) bekezdését a 23/2023. (VI. 30.) BM rendelet 17. §-a iktatta be.
+[^25]: A 12/A. § (3d) bekezdését a 23/2023. (VI. 30.) BM rendelet 17. §-a iktatta be.
+[^26]: A 12/A. § (5) bekezdése a 28/2022. (VIII. 25.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^27]: A 12/A. § (6) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 1. § (2) bekezdése iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.

@@ -1,14 +1,14 @@
 ## A folyamatos egészségügyi ellátás szervezésének elvei
 
-## I.[^78] Megszakítás nélküli munkarend kialakítása során műszak szervezése az alábbi esetekben kötelező:
+## I.[^79] Megszakítás nélküli munkarend kialakítása során műszak szervezése az alábbi esetekben kötelező:
 
 ## 1. sürgősségi betegellátó osztályon, sürgősségi centrumban,
 
 ## 2. mentés.
 
-## II–V.[^79]
+## II–V.[^80]
 
-2. melléklet a 47/2004. (V. 11.) ESZCSM rendelethez[^80]
+2. melléklet a 47/2004. (V. 11.) ESZCSM rendelethez[^81]
 
 Az orvosi látlelet és vélemény adattartalma
 
@@ -40,6 +40,6 @@ Az orvosi látlelet és vélemény adattartalma
 
 14. Az igazolás kiállításának dátuma, az orvosi pecsétszám, az orvos aláírása.
 
-[^78]: A melléklet I. pontja a 12/2005. (IV. 19.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
-[^79]: A melléklet II–V. pontját a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének c) pontja hatályon kívül helyezte.
-[^80]: A 2. mellékletet a 81/2023. (XII. 28.) BM rendelet 2. §-a iktatta be.
+[^79]: A melléklet I. pontja a 12/2005. (IV. 19.) EüM rendelet 3. §-ának (1) bekezdésével megállapított szöveg.
+[^80]: A melléklet II–V. pontját a 34/2007. (VI. 29.) EüM rendelet 3. § (1) bekezdésének c) pontja hatályon kívül helyezte.
+[^81]: A 2. mellékletet a 81/2023. (XII. 28.) BM rendelet 2. §-a iktatta be.

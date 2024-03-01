@@ -6,6 +6,6 @@
 
 (3) A rendelet 5. §-ának (2) bekezdése, 6. §-ának (2) bekezdése, 19. §-ának (1), (6) és (7) bekezdése, valamint 20. §-ának (3) bekezdése 2006. január 1-jén lép hatályba.
 
-(4)–(7)[^75]
+(4)–(7)[^76]
 
-[^75]: A 23. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 30. pontja hatályon kívül helyezte.
+[^76]: A 23. § (4)–(7) bekezdését a 118/2008. (V. 8.) Korm. rendelet 4. § 30. pontja hatályon kívül helyezte.
