@@ -6,6 +6,6 @@ a) a reintegrációs őrizetbe helyezés és a krónikus betegségben szenvedő 
 
 b) az elítéltek vagy az egyéb jogcímen fogvatartottak – ide nem értve a kényszergyógykezelteket és az előzetes kényszergyógykezeltek – birtokában tartható elektronikai eszközök birtokban tartása korlátozásának
 
-különös szabályait.[^1]
+különös szabályait.[^4]
 
-[^1]: Lásd a 6/2023. (II. 21.) BM rendeletet.
+[^4]: Lásd a 6/2023. (II. 21.) BM rendeletet.
