@@ -1,3 +1,3 @@
-74. §[^298]
+74. §[^300]
 
-[^298]: A 74. §-t a 169/2023. (V. 12.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^300]: A 74. §-t a 169/2023. (V. 12.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.

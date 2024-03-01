@@ -38,7 +38,7 @@ k)[^11] a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság 
 
 2. egyedülálló: az a személy, aki hajadon, nőtlen, özvegy, özvegy bejegyzett élettárs, elvált, elvált bejegyzett élettárs vagy az, akinek a házassága, bejegyzett élettársi kapcsolata megszűnt és nincs élettársa;
 
-2a.[^12] életvitelszerű bentlakás: a támogatással érintett új lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+2a.[^12] életvitelszerű bentlakás: a támogatással érintett új lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
 3. fiatal házaspár: házastársak, akik közül az e rendelet szerinti lakáscélú állami támogatás iránti kérelem benyújtásának időpontjában legalább az egyik fél még nem töltötte be a 40. életévét;
 
@@ -112,7 +112,7 @@ b) ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvez
 
 [^10]: A 3. § (1) bekezdés 1. pont j) alpontját a 686/2020. (XII. 29.) Korm. rendelet 7. § (1) bekezdése iktatta be.
 [^11]: A 3. § (1) bekezdés 1. pont k) alpontját a 183/2021. (IV. 16.) Korm. rendelet 2. §-a iktatta be.
-[^12]: A 3. § (1) bekezdés 2a. pontját a 169/2023. (V. 12.) Korm. rendelet 9. §-a iktatta be.
+[^12]: A 3. § (1) bekezdés 2a. pontját a 169/2023. (V. 12.) Korm. rendelet 9. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 321. §-a szerint módosított szöveg.
 [^13]: A 3. § (1) bekezdés 4. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^14]: A 3. § (1) bekezdés 4. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 1. §-ával megállapított, nyitó szövegrésze a 686/2020. (XII. 29.) Korm. rendelet 18. § a) pont aa) alpontja szerint módosított szöveg.
 [^15]: [A 3. § (1) bekezdés 4. pont b) alpont bb) pontjában a 686/2020. (XII. 29.) Korm. rendelet 18. § a) pont aa) alpontja szerint elrendelt módosítás, amely szerint a „megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg” szövegrész helyébe a „megváltozott munkaképességű személy” szöveg lép, nem vezethető át.]

@@ -1,10 +1,10 @@
-87. §[^319] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^320] követően a Módr3. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.
+87. §[^321] (1) Az e rendelet szerinti adatszolgáltatásokat és elszámolásokat a lakáscélú állami támogatások elszámolási rendszerének egyszerűsítéséről szóló 101/2019. (V. 2.) Korm. rendelet (a továbbiakban: Módr3.) hatálybalépését[^322] követően a Módr3. által megállapított 9. és 10. alcímben foglaltak szerint kell teljesíteni.
 
-(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr3. hatálybalépésének[^321] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
+(2) A hitelintézet 2020. június 30. napjáig az e rendelet szerinti kamattámogatás 2019. évre vonatkozó, a Módr3. hatálybalépésének[^323] napjáig a központi költségvetés által megtérített összegéről az eAdaton található útmutató szerinti formában adatot szolgáltat a Kincstárnak.
 
-(3) A 256/2011. (XII. 6.) Korm. rendelet alapján folyósított támogatások központi költségvetéssel történő elszámolására és adatszolgáltatására a Módr3. hatálybalépését[^322] követően a Módr3. által megállapított 9. és 10. alcímben foglaltakat kell alkalmazni.
+(3) A 256/2011. (XII. 6.) Korm. rendelet alapján folyósított támogatások központi költségvetéssel történő elszámolására és adatszolgáltatására a Módr3. hatálybalépését[^324] követően a Módr3. által megállapított 9. és 10. alcímben foglaltakat kell alkalmazni.
 
-[^319]: A 87. §-t a 101/2019. (V. 2.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^320]: A hatálybalépés időpontja 2019. október 1.
-[^321]: A hatálybalépés időpontja 2019. október 1.
+[^321]: A 87. §-t a 101/2019. (V. 2.) Korm. rendelet 6. § (2) bekezdése iktatta be.
 [^322]: A hatálybalépés időpontja 2019. október 1.
+[^323]: A hatálybalépés időpontja 2019. október 1.
+[^324]: A hatálybalépés időpontja 2019. október 1.
