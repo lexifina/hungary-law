@@ -1,6 +1,6 @@
 ## A határrendészeti kirendeltségek elnevezése és székhelye
 
-## 1. Bács-Kiskun vármegye[^225]
+## 1. Bács-Kiskun vármegye[^227]
 
 ## 1.1. Határrendészeti Kirendeltség Hercegszántó, Hercegszántó
 
@@ -10,7 +10,7 @@
 
 ## 1.4. Határrendészeti Kirendeltség Kelebia, Kelebia
 
-## 2. Békés vármegye[^226]
+## 2. Békés vármegye[^228]
 
 ## 2.1. Határrendészeti Kirendeltség Battonya, Battonya
 
@@ -22,7 +22,7 @@
 
 ## 2.5. Határrendészeti Kirendeltség Biharugra, Biharugra
 
-## 3.[^227] Csongrád-Csanád vármegye[^228]
+## 3.[^229] Csongrád-Csanád vármegye[^230]
 
 ## 3.1. Határrendészeti Kirendeltség Szeged, Szeged
 
@@ -30,7 +30,7 @@
 
 ## 3.3. Határrendészeti Kirendeltség Nagylak, Nagylak
 
-## 4. Hajdú-Bihar vármegye[^229]
+## 4. Hajdú-Bihar vármegye[^231]
 
 ## 4.1. Határrendészeti Kirendeltség Biharkeresztes, Biharkeresztes
 
@@ -38,7 +38,7 @@
 
 ## 4.3. Határrendészeti Kirendeltség Nyírábrány, Nyírábrány
 
-## 5. Szabolcs-Szatmár-Bereg vármegye[^230]
+## 5. Szabolcs-Szatmár-Bereg vármegye[^232]
 
 ## 5.1. Határrendészeti Kirendeltség Nyírbátor, Nyírbátor
 
@@ -52,7 +52,7 @@
 
 ## 5.6. Határrendészeti Kirendeltség Záhony, Záhony
 
-4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^231]
+4. melléklet a 329/2007. (XII. 13.) Korm. rendelethez[^233]
 
 1. Az ORFK
 
@@ -76,10 +76,10 @@
 
 1.8. ellenőrző hatóságként jár el a harmadik országbeli állampolgár, vagy hontalan személy által a tagállamok egyikében benyújtott nemzetközi védelem iránti kérelem megvizsgálásáért felelős tagállam meghatározására vonatkozó feltételek és eljárási szabályok megállapításáról szóló 604/2013/EU rendelet hatékony alkalmazása érdekében az ujjlenyomatok összehasonlítását szolgáló Eurodac létrehozásáról, továbbá a tagállamok bűnüldöző hatóságai és az Europol által az Eurodac-adatokkal való, bűnüldözési célú összehasonlítások kérelmezéséről, valamint a szabadságon, a biztonságon és a jog érvényesülésén alapuló térség nagyméretű IT-rendszereinek üzemeltetési igazgatását végző ügynökség létrehozásáról szóló 1077/2011/EU rendelet módosításáról szóló, 2013. június 26-i 603/2013/EU európai parlamenti és tanácsi rendelet alapján.
 
-[^225]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^226]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^227]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
-[^228]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^229]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^230]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
-[^231]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^227]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^228]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^229]: A 3. melléklet 3. pont nyitó szövegrésze a 371/2020. (VII. 30.) Korm. rendelet 13. § c) pontjával megállapított szöveg, szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg..
+[^230]: A 3. melléklet szövege a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^231]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^232]: A 3. melléklet 5. pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^233]: A 4. mellékletet újonnan a 276/2021. (V. 26.) Korm. rendelet 6. § (1) bekezdése iktatta be.

@@ -48,7 +48,7 @@ a) ellátja a fegyverekkel, lőszerekkel, lőterekkel, pirotechnikai termékekke
 
 b)[^127] – a 10. § (2) bekezdés b) pontját és a 11. § (3) bekezdés i) pontját kivéve – ellátja a közúti közlekedési bírság kiszabásával kapcsolatos hatósági feladatokat,
 
-c)[^128] első fokon ellátja a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység esetében a működési engedéllyel, valamint az igazolványok kiállításával, bevonásával és visszavonásával kapcsolatos hatósági feladatokat,
+c)[^128] első fokon ellátja a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység esetében a működési engedéllyel, tanúsítvánnyal, valamint az igazolványok kiállításával, bevonásával és visszavonásával kapcsolatos hatósági feladatokat,
 
 d)[^129] lefolytatja a figyelmeztető jelzés felszerelésére vonatkozó eljárást,
 
@@ -110,11 +110,15 @@ e)[^145] a Szekszárdi Rendőrkapitányság illetékességi területén a Tolna 
 
 f)[^146] a Miskolci Rendőrkapitányság illetékességi területén – a helyszínelői tevékenység kivételével – a Borsod-Abaúj-Zemplén Vármegyei Rendőr-főkapitányság
 
+g)[^147] a Budapesti Rendőr-főkapitányság illetékességi területén a Budapesti Rendőr-főkapitányság,
+
+h)[^148] a Szolnoki Rendőrkapitányság illetékességi területén – a helyszínelői tevékenység kivételével – a Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság
+
 végzi.
 
-(8)[^147] A Budapesti Rendőr-főkapitányság VIII. Kerületi Rendőrkapitánysága jár el rendőrkapitányságok hatáskörébe tartozó, Budapest közigazgatási területén, ismeretlen személy által elkövetett közúti közlekedési szabályok kisebb fokú megsértése szabálysértésének minősülő szabálytalan parkolással összefüggő ügyekben, ha a feljelentést Budapest közigazgatási területén belül illetékes közterület-felügyelet tette.
+(8)[^149] A Budapesti Rendőr-főkapitányság VIII. Kerületi Rendőrkapitánysága jár el rendőrkapitányságok hatáskörébe tartozó, Budapest közigazgatási területén, ismeretlen személy által elkövetett közúti közlekedési szabályok kisebb fokú megsértése szabálysértésének minősülő szabálytalan parkolással összefüggő ügyekben, ha a feljelentést Budapest közigazgatási területén belül illetékes közterület-felügyelet tette.
 
-(9)[^148] A Budapesti Rendőr-főkapitányság VIII. Kerületi Rendőrkapitánysága folytatja – a gyorsított bírósági eljárás alkalmazása esetén lefolytatott előkészítő eljárás kivételével – a Budapest közigazgatási területén elkövetett szabálysértési elzárással is büntethető szabálysértés esetén a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott előkészítő eljárást.
+(9)[^150] A Budapesti Rendőr-főkapitányság VIII. Kerületi Rendőrkapitánysága folytatja – a gyorsított bírósági eljárás alkalmazása esetén lefolytatott előkészítő eljárás kivételével – a Budapest közigazgatási területén elkövetett szabálysértési elzárással is büntethető szabálysértés esetén a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló törvényben meghatározott előkészítő eljárást.
 
 [^118]: A 12. § (1) bekezdés a) pontja a 77/2018. (IV. 20.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^119]: A 12. § (1) bekezdés b) pontja a 447/2013. (XI. 28.) Korm. rendelet 4. § (9) bekezdésével megállapított szöveg.
@@ -126,7 +130,7 @@ végzi.
 [^125]: A 12. § (2) bekezdés o) pontját a 441/2016. (XII. 16.) Korm. rendelet 17. §-a iktatta be.
 [^126]: A 12. § (2) bekezdés p) pontját a 267/2019. (XI. 19.) Korm. rendelet 15. §-a iktatta be.
 [^127]: A 12. § (3) bekezdés b) pontja a 247/2009. (XI. 10.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^128]: A 12. § (3) bekezdés c) pontja a 457/2017. (XII. 28.) Korm. rendelet 205. § (9) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^128]: A 12. § (3) bekezdés c) pontja a 43/2024. (II. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^129]: A 12. § (3) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^130]: A 12. § (3) bekezdés e) pontját újonnan a 457/2017. (XII. 28.) Korm. rendelet 205. § (10) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^131]: A 12. § (3) bekezdés új f) pontját a 334/2009. (XII. 29.) Korm. rendelet 4. § (1) bekezdése iktatta be, egyidejűleg az eredeti f)–g) pont megjelölését g)–h) pontra változtatta.
@@ -145,5 +149,7 @@ végzi.
 [^144]: A 12. § (7) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
 [^145]: A 12. § (7) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
 [^146]: A 12. § (7) bekezdés f) pontja a 616/2022. (XII. 29.) Korm. rendelet 86. § d) pontja szerint módosított szöveg.
-[^147]: A 12. § (8) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.
-[^148]: A 12. § (9) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^147]: A 12. § (7) bekezdés g) pontját a 43/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
+[^148]: A 12. § (7) bekezdés h) pontját a 43/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
+[^149]: A 12. § (8) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.
+[^150]: A 12. § (9) bekezdését az 569/2022. (XII. 23.) Korm. rendelet 22. § (2) bekezdése iktatta be.
