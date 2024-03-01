@@ -6,7 +6,7 @@ a) a 6. § a) pontjában meghatározott esetben az őrizetbe vétel napjához va
 
 b) a 6. § b)–k) pontja és a 7. § szerinti esetekben a szabadságvesztés kezdő napjához
 
-## kell hozzáadni a szabadságvesztés kitöltetlen tartamát.
+kell hozzáadni a szabadságvesztés kitöltetlen tartamát.
 
 (2) A szabadságvesztés végrehajtásának a félbeszakítása vagy a bv. intézetből való engedély nélküli távollét esetén a tényleges távollét idejét a szabadságvesztés utolsó napját követő naphoz kell hozzáadni, és a számítás eredményéül kapott napot megelőző nap lesz a szabadságvesztés utolsó napja.
 

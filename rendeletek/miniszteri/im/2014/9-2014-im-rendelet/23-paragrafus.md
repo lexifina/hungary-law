@@ -12,7 +12,7 @@ c) a látogató intézeten kívüli fogadása esetén a látogatást követő na
 
 d) a súlyos beteg közeli hozzátartozó meglátogatása vagy a hozzátartozó temetésén való részvétel esetén a jelentkezésre előírt napot követő nap;
 
-e) a társadalmi kötődés programban résztvevő esetében a bv. intézetben jelentkezésre előírt napot követő nap.
+e)[^17]
 
 (2) Engedély nélkül van távol a bv. intézettől az az elítélt, aki
 
@@ -22,6 +22,9 @@ b) fogolyszökésnek nem minősülő módon a számára kijelölt helyet engedé
 
 c) engedélyezett távollétről nem tért vissza;
 
-d) a társadalmi kötődés program kapcsán engedélyezett intézetelhagyásról a megadott időre nem tért vissza.
+d)[^18]
 
 (3) A közérdekű munka helyébe lépő szabadságvesztés vagy a pénzbüntetés helyébe lépő szabadságvesztés esetén az engedély nélkül távol töltött idő tartamát napokban kell megállapítani.
+
+[^17]: A 23. § (1) bekezdés e) pontját az 1/2024. (II. 29.) IM rendelet 2. § 1. pontja hatályon kívül helyezte.
+[^18]: A 23. § (2) bekezdés d) pontját az 1/2024. (II. 29.) IM rendelet 2. § 2. pontja hatályon kívül helyezte.
