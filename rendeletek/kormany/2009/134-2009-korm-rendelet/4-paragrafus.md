@@ -12,7 +12,7 @@ meg nem haladó – a telekár nélkül számított – összegű, az áfa össz
 
 b) a nagykorú támogatott személy építési költséghatár nélkül településtípustól függetlenül lakás korszerűsítésére.
 
-(2)[^40] Az építési költség, a vételár vagy a korszerűsítés költsége kiegyenlítéséhez felvett kamattámogatott hitelintézeti kölcsön összege
+(2)[^42] Az építési költség, a vételár vagy a korszerűsítés költsége kiegyenlítéséhez felvett kamattámogatott hitelintézeti kölcsön összege
 
 a) lakás építése, új lakás vásárlása esetén
 
@@ -26,7 +26,7 @@ lehet, azonban a kölcsönösszeg nem haladhatja meg az igénylő, annak házast
 
 (3) A (2) bekezdés szerinti kölcsön kamatainak megfizetéséhez az állam – ha e rendelet eltérően nem rendelkezik – a kölcsön futamidejének lejártáig, de legfeljebb húsz évig nyújt támogatást.
 
-(4)[^41] A kamattámogatott kölcsön hitelcéljaként szolgáló lakást – amennyiben a kölcsön fedezete másik lakás, akkor a kamattámogatott kölcsön fedezeteként szolgáló lakást – a kamattámogatott kölcsön összegének erejéig, a (3) bekezdés szerinti időtartamra, a kamattámogatással érintett kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
+(4)[^43] A kamattámogatott kölcsön hitelcéljaként szolgáló lakást – amennyiben a kölcsön fedezete másik lakás, akkor a kamattámogatott kölcsön fedezeteként szolgáló lakást – a kamattámogatott kölcsön összegének erejéig, a (3) bekezdés szerinti időtartamra, a kamattámogatással érintett kölcsönszerződés alapján a hitelintézet javára jelzálogjog, valamint annak biztosítására elidegenítési és terhelési tilalom terheli.
 
-[^40]: A 4. § (2) bekezdés nyitó szövegrésze a 46/2015. (III. 12.) Korm. rendelet 8. § b) pont bb) alpontja szerint módosított szöveg.
-[^41]: A 4. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 136. § (2) bekezdésével megállapított szöveg.
+[^42]: A 4. § (2) bekezdés nyitó szövegrésze a 46/2015. (III. 12.) Korm. rendelet 8. § b) pont bb) alpontja szerint módosított szöveg.
+[^43]: A 4. § (4) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 136. § (2) bekezdésével megállapított szöveg.

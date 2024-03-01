@@ -176,13 +176,13 @@ a) a magyar állampolgár,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel rendelkezik,
 
-c) a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak szerint bevándorolt vagy letelepedett jogállással rendelkezik,
+c)[^24] a harmadik országbeli állampolgár, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak szerint huzamos tartózkodási jogosultsággal rendelkezik,
 
-d) a hontalan, ha a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, vagy
+d)[^25] a hontalan, ha a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján ilyen jogállásúnak ismerték el, vagy
 
 e) menekült vagy oltalmazott, ha a menedékjogról szóló törvényben foglaltak szerint menekült vagy oltalmazott jogállással rendelkezik.
 
-(7)[^24] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
+(7)[^26] Nem támogatott személy hiteladós az e rendelet szerinti kamattámogatással érintett kölcsönben adóstársként abban az esetben szerepelhet, ha teljes bizonyító erejű magánokiratban
 
 a) nyilatkozik és vállalja az 5. § (1) bekezdésben foglaltakat és
 
@@ -192,7 +192,7 @@ ba) a kölcsönszerződés lejártáig nem támogatott személy hiteladósként 
 
 bb) az e rendelet szerinti kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
-c)[^25] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a kormányhivatal és a Magyar Államkincstár (a továbbiakban: Kincstár) részére
+c)[^27] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a kormányhivatal és a Magyar Államkincstár (a továbbiakban: Kincstár) részére
 
 [^1]: Az 1. § (1) bekezdése a 144/2012. (VII. 3.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés 1. pont a) alpontja a 128/2013. (IV. 30.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
@@ -217,5 +217,7 @@ c)[^25] hozzájárul ahhoz, hogy természetes személyazonosító adatait, adóa
 [^21]: Az 1. § (4) bekezdés a) pontja a 475/2017. (XII. 28.) Korm. rendelet 33. §-a szerint módosított szöveg.
 [^22]: Az 1. § (4) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 69. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^23]: Az 1. § (6) bekezdését a 128/2013. (IV. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^24]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
-[^25]: Az 1. § (7) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^24]: Az 1. § (6) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 289. §-ával megállapított szöveg.
+[^25]: Az 1. § (6) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 289. §-ával megállapított szöveg.
+[^26]: Az 1. § (7) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 46. § (2) bekezdése iktatta be.
+[^27]: Az 1. § (7) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 69. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
