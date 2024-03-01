@@ -2,11 +2,11 @@
 
 a) élettárs: a családok támogatásáról szóló 1998. évi LXXXIV. törvény (a továbbiakban: Cst.) szerint a nevelési ellátásra jogosultság szempontjából élettársként figyelembe vehető személy;
 
-b)[^1] megfelelő befogadóképességű személygépkocsi: a kérelem benyújtásának időpontjában a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet értelmében személyszállítás céljára készült és jóváhagyott, M1 járműkategóriába sorolt olyan járműkísérő lappal rendelkező gépkocsi – a lakóautó jellegű jármű kivételével –, amelyben a vezető ülését is beleértve legalább hét állandó ülőhely van, továbbá új járműnek minősül, ideértve a belföldi kereskedelmi forgalomban személygépkocsik értékesítésével üzletszerűen foglalkozó, adószámmal rendelkező szervezet vagy – a nagycsaládostól vagy a támogatással érintett személytől eltérő – személy (a továbbiakban: autókereskedő) által a nagycsaládos általi megszerzése előtt legfeljebb egy évvel forgalomba helyezett és legfeljebb 2000 kilométert futott személygépkocsit is, amelyet az autókereskedő továbbértékesítési céllal szerzett be, és amelyet a forgalomba helyezése és a nagycsaládos általi megszerzése közti időszakban nem használtak vagy kizárólag értékesítés előtti bemutatás céljára használtak;
+b)[^2] megfelelő befogadóképességű személygépkocsi: a kérelem benyújtásának időpontjában a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet értelmében személyszállítás céljára készült és jóváhagyott, M1 járműkategóriába sorolt olyan járműkísérő lappal rendelkező gépkocsi – a lakóautó jellegű jármű kivételével –, amelyben a vezető ülését is beleértve legalább hét állandó ülőhely van, továbbá új járműnek minősül, ideértve a belföldi kereskedelmi forgalomban személygépkocsik értékesítésével üzletszerűen foglalkozó, adószámmal rendelkező szervezet vagy – a nagycsaládostól vagy a támogatással érintett személytől eltérő – személy (a továbbiakban: autókereskedő) által a nagycsaládos általi megszerzése előtt legfeljebb egy évvel forgalomba helyezett és legfeljebb 2000 kilométert futott személygépkocsit is, amelyet az autókereskedő továbbértékesítési céllal szerzett be, és amelyet a forgalomba helyezése és a nagycsaládos általi megszerzése közti időszakban nem használtak vagy kizárólag értékesítés előtti bemutatás céljára használtak;
 
 c) megfelelő befogadóképességű személygépkocsival rendelkező személy: aki a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti járműnyilvántartásban a b) pont szerinti személygépkocsi tulajdonosaként vagy üzemben tartójaként szerepel;
 
-d)[^2] nagycsaládos: a Cst. szerint
+d)[^3] nagycsaládos: a Cst. szerint
 
 da) legalább három gyermek után családi pótlékra jogosult, a Cst. 7. § (1) bekezdés a) pontja szerinti szülő, ide nem értve a saját háztartásában nevelt gyermeket örökbefogadni kívánó személyt,
 
@@ -20,8 +20,8 @@ e) támogatással érintett személy: a nagycsaládos házastársa vagy élettá
 
 f) zártvégű pénzügyi lízingszerződés: olyan, a Polgári Törvénykönyvről szóló 2013. évi V. törvényben meghatározott pénzügyi lízingszerződés, amelynél a lízingbevevő a szerződésben meghatározott lízingdíj összegének megfizetésével a lízingtárgy tulajdonjogát megszerzi;
 
-g)[^3] casco biztosítás: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pont a) alpontja szerinti biztosítási ágazatba tartozó kárbiztosítási szerződés.
+g)[^4] casco biztosítás: a biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény 1. melléklet A) rész 3. pont a) alpontja szerinti biztosítási ágazatba tartozó kárbiztosítási szerződés.
 
-[^1]: A 3. § b) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^2]: A 3. § d) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított, záró szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
-[^3]: A 3. § g) pontját a 151/2019. (VI. 26.) Korm. rendelet 7. § (3) bekezdése iktatta be.
+[^2]: A 3. § b) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § d) pontja a 151/2019. (VI. 26.) Korm. rendelet 7. § (2) bekezdésével megállapított, záró szövegrésze a 406/2023. (VIII. 30.) Korm. rendelet 47. § a) pontja szerint módosított szöveg.
+[^4]: A 3. § g) pontját a 151/2019. (VI. 26.) Korm. rendelet 7. § (3) bekezdése iktatta be.

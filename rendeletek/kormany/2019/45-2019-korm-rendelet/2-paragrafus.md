@@ -6,4 +6,6 @@ a) a magyar állampolgárra és arra a személyre, akit a magyar állampolgárs�
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyre, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, vagy
 
-c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján hontalanként elismert személyre.
+c)[^1] a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján hontalanként elismert személyre.
+
+[^1]: A 2. § c) pontja a 35/2024. (II. 29.) Korm. rendelet 331. §-a szerint módosított szöveg.

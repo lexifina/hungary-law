@@ -1,14 +1,14 @@
 ## 8. Adatigénylés
 
-## 13. §[^18] A Kincstár a szerzési támogatásra való jogosultsági feltételek fennállásának az elidegenítési tilalom 9. § (1) bekezdésében foglaltak szerinti időtartama alatti ellenőrzése céljából adatszolgáltatást igényelhet
+## 13. §[^19] A Kincstár a szerzési támogatásra való jogosultsági feltételek fennállásának az elidegenítési tilalom 9. § (1) bekezdésében foglaltak szerinti időtartama alatti ellenőrzése céljából adatszolgáltatást igényelhet
 
-a)[^19] a közúti közlekedési nyilvántartás engedély-nyilvántartásából az igénylő, ennek hiányában a támogatással érintett személy vezetői engedélyének száma alapján
+a)[^20] a közúti közlekedési nyilvántartás engedély-nyilvántartásából az igénylő, ennek hiányában a támogatással érintett személy vezetői engedélyének száma alapján
 
 aa) a természetes személy vezetői engedélyének kategóriájára, valamint
 
 ab) a vezetői engedély érvényességének és visszavonásának tényére,
 
-ac)[^20] a természetes személyazonosító adataira.
+ac)[^21] a természetes személyazonosító adataira.
 
 b) a közúti közlekedési nyilvántartás járműnyilvántartásából az igénylő, házastársa vagy élettársa
 
@@ -20,14 +20,14 @@ bc) bizalmi vagyonkezelés alapján fennálló kezelt vagyonba tartozó tulajdon
 
 bd) a tulajdonába tartozó és az általa a szerzési támogatás felhasználásával megszerezni kívánt jármű azonosító és műszaki adataira, a műszaki érvényessége időtartamának végére vagy a műszaki alkalmatlanságának tényére, valamint motorkódjára,
 
-be)[^21] természetes személyazonosító adatára, lakcímére, egyéni vállalkozó esetében, amennyiben a járműnyilvántartás tartalmazza, székhelyére, telephelyére,
+be)[^22] természetes személyazonosító adatára, lakcímére, egyéni vállalkozó esetében, amennyiben a járműnyilvántartás tartalmazza, székhelyére, telephelyére,
 
-c)[^22] a közúti közlekedési nyilvántartás járműnyilvántartásából az elidegenítési tilalom állam javára történő bejegyzésének ellenőrzése céljából az elidegenítési és terhelési tilalom jogosultjára, kezdetére és végére
+c)[^23] a közúti közlekedési nyilvántartás járműnyilvántartásából az elidegenítési tilalom állam javára történő bejegyzésének ellenőrzése céljából az elidegenítési és terhelési tilalom jogosultjára, kezdetére és végére
 
 vonatkozóan.
 
-[^18]: A 13. § nyitó szövegrésze a 151/2019. (VI. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^19]: A 13. § a) pontja a 151/2019. (VI. 26.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^20]: A 13. § a) pont ac) alpontját az 572/2020. (XII. 9.) Korm. rendelet 123. § (1) bekezdése iktatta be.
-[^21]: A 13. § b) pont be) alpontját az 572/2020. (XII. 9.) Korm. rendelet 123. § (2) bekezdése iktatta be.
-[^22]: A 13. § c) pontja az 572/2020. (XII. 9.) Korm. rendelet 123. § (3) bekezdésével megállapított szöveg.
+[^19]: A 13. § nyitó szövegrésze a 151/2019. (VI. 26.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^20]: A 13. § a) pontja a 151/2019. (VI. 26.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^21]: A 13. § a) pont ac) alpontját az 572/2020. (XII. 9.) Korm. rendelet 123. § (1) bekezdése iktatta be.
+[^22]: A 13. § b) pont be) alpontját az 572/2020. (XII. 9.) Korm. rendelet 123. § (2) bekezdése iktatta be.
+[^23]: A 13. § c) pontja az 572/2020. (XII. 9.) Korm. rendelet 123. § (3) bekezdésével megállapított szöveg.
