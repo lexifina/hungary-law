@@ -88,15 +88,17 @@ a) az Ebtv. 70. § c) pontja szerinti feladatot, valamint
 
 b) az Eütv. 207. § (2) bekezdése szerinti feladatot.
 
-(5)[^21] A kormányhivatal az egészségbiztosítási feladatai keretében ellátja
+c)[^21] az Ebtv. 70. § (1) bekezdés b) pontja szerinti megtérítésre kötelező fizetési meghagyás kibocsátásából eredő feladatokat, ha az érvényesített megtérítési igény az Ebtv. 18. § (8) bekezdés b) pontján alapul.
 
-a)[^22] a pénzbeli ellátásokkal, valamint a baleseti táppénzzel, a baleset üzemiségének elbírálásával, az utazási költségtérítési támogatással, a keresőképtelenség és keresőképesség felülvéleményezésével kapcsolatos feladatokat,
+(5)[^22] A kormányhivatal az egészségbiztosítási feladatai keretében ellátja
+
+a)[^23] a pénzbeli ellátásokkal, valamint a baleseti táppénzzel, a baleset üzemiségének elbírálásával, az utazási költségtérítési támogatással, a keresőképtelenség és keresőképesség felülvéleményezésével kapcsolatos feladatokat,
 
 b) az üzemi balesetből vagy foglalkozási megbetegedésből eredő egészségkárosodás miatt igénybe vett gyógyszer, gyógyászati segédeszköz és gyógyászati ellátás térítési díjának utólagos megtérítésével kapcsolatos feladatokat,
 
 c) a közgyógyellátással kapcsolatban hatáskörébe utalt feladatokat,
 
-d)[^23] a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat, továbbá az egészségbiztosítási nyilvántartások vezetésével, így különösen
+d)[^24] a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya kibocsátásával kapcsolatosan a hatáskörébe tartozó feladatokat, továbbá az egészségbiztosítási nyilvántartások vezetésével, így különösen
 
 da) a TAJ-jal rendelkező személyek azonosító adatainak nyilvántartásával kapcsolatos feladatokat,
 
@@ -106,7 +108,7 @@ dc) a TAJ-t igazoló hatósági igazolvány, a nemzetközi egyezmények, illetve
 
 dd) az egészségbiztosítási nyilvántartáshoz kapcsolódó adatkezelési, és adatszolgáltatási feladatokat,
 
-de)[^24] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 69. §-a szerinti okirati bizonyítási eljárásokkal kapcsolatos feladatokat,
+de)[^25] a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 2019. évi CXXII. törvény (a továbbiakban: Tbj.) 69. §-a szerinti okirati bizonyítási eljárásokkal kapcsolatos feladatokat,
 
 e) az anyatej-elszámolások fogadásával, ellenőrzésével, feldolgozásával kapcsolatos feladatokat,
 
@@ -118,7 +120,7 @@ h) egészségügyi szolgáltatással kapcsolatos megállapodáskötéssel kapcso
 
 i) a kötelező egészségbiztosítás ellátásairól szóló törvényben meghatározott bejelentési, nyilvántartási, adatszolgáltatási kötelezettséget nem, vagy késedelmesen teljesítő természetes személy, foglalkoztató bírságolásával kapcsolatos feladatokat,
 
-j)[^25] a hatósági bizonyítvány kiállítását a családi otthonteremtési kedvezmény, illetve otthonteremtési kamattámogatás, valamint a családok otthonteremtési kamattámogatásával érintett kölcsön igénybevételéhez,
+j)[^26] a hatósági bizonyítvány kiállítását a családi otthonteremtési kedvezmény, illetve otthonteremtési kamattámogatás, valamint a családok otthonteremtési kamattámogatásával érintett kölcsön igénybevételéhez,
 
 k) a hatósági bizonyítvány kiállítását a fennálló tartozásról,
 
@@ -126,15 +128,15 @@ l) az a)–k) ponthoz kapcsolódó adatkezelési és adatszolgáltatási feladat
 
 m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a hatáskörébe utal.
 
-(5a)[^26] A kormányhivatal az egészségbiztosítási feladatai keretében ellátja az Ebtv. 27. § (1), (2), (5), (7) és (11) bekezdése szerinti feladatokat.
+(5a)[^27] A kormányhivatal az egészségbiztosítási feladatai keretében ellátja az Ebtv. 27. § (1), (2), (5), (7) és (11) bekezdése szerinti feladatokat.
 
-(6)[^27] A NEAK, a Központ és a kormányhivatalok a szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
+(6)[^28] A NEAK, a Központ és a kormányhivatalok a szakfeladataik költségtakarékos és hatékony ellátása érdekében egymással elektronikus levélben is tarthatnak kapcsolatot.
 
-(7)[^28] A nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya és a TAJ kártya kibocsátásával kapcsolatosan a kormányhivatalok és a kormányablakok felügyeleti szerve a NEAK.
+(7)[^29] A nemzetközi egyezmények, illetve a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek szerinti formanyomtatvány, továbbá az Európai Egészségbiztosítási Kártya és a TAJ kártya kibocsátásával kapcsolatosan a kormányhivatalok és a kormányablakok felügyeleti szerve a NEAK.
 
-(8)[^29] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7b) bekezdése szerinti, az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő, TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
+(8)[^30] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7b) bekezdése szerinti, az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő, TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
 
-(9)[^30] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7c) bekezdése szerinti, magyar állampolgár Magyarországon létrejött házasságkötése nyomán megváltozó nevével kiállított TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
+(9)[^31] A Kormány országos illetékességgel Budapest Főváros Kormányhivatalát jelöli ki a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 21. § (7c) bekezdése szerinti, magyar állampolgár Magyarországon létrejött házasságkötése nyomán megváltozó nevével kiállított TAJ számot tartalmazó hatósági igazolvány hivatalbóli kibocsátására. A TAJ számot igazoló hatósági igazolvány megszemélyesítését végző szerv részére történő adatszolgáltatásra a Kormány országos illetékességgel a NEAK-ot jelöli ki.
 
 [^13]: A 7. § (1) bekezdés e) pont ea) alpontját a 147/2019. (VI. 25.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
 [^14]: A 7. § (1) bekezdés e) pont eb) alpontja a 147/2019. (VI. 25.) Korm. rendelet 3. §-ával megállapított szöveg.
@@ -144,13 +146,14 @@ m) mindazon további feladatot, amelyet jogszabály vagy az alapító okirat a h
 [^18]: A 7. § (3) bekezdés d) pontját a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^19]: A 7. § (3) bekezdés e) pontját a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^20]: A 7. § (3) bekezdés f) pontját a 360/2019. (XII. 30.) Korm. rendelet 162. § (2) bekezdés e) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^21]: A 7. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^22]: A 7. § (5) bekezdés a) pontja a 807/2021. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^23]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^24]: A 7. § (5) bekezdés d) pont de) alpontja a 155/2018. (IX. 3.) Korm. rendelet 6. § b) pontja, a 316/2020. (VII. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^25]: A 7. § (5) bekezdés j) pontja az 518/2023. (XI. 30.) Korm. rendelet 60. § a) és b) pontja szerint módosított szöveg.
-[^26]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^27]: A 7. § (6) bekezdése a 311/2017. (X. 31.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
-[^28]: A 7. § (7) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^29]: A 7. § (8) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
-[^30]: A 7. § (9) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
+[^21]: A 7. § (4) bekezdés c) pontját a 41/2024. (II. 29.) Korm. rendelet 6. §-a iktatta be.
+[^22]: A 7. § (5) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^23]: A 7. § (5) bekezdés a) pontja a 807/2021. (XII. 28.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^24]: A 7. § (5) bekezdés d) pontja a 20/2017. (II. 2.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^25]: A 7. § (5) bekezdés d) pont de) alpontja a 155/2018. (IX. 3.) Korm. rendelet 6. § b) pontja, a 316/2020. (VII. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^26]: A 7. § (5) bekezdés j) pontja az 518/2023. (XI. 30.) Korm. rendelet 60. § a) és b) pontja szerint módosított szöveg.
+[^27]: A 7. § (5a) bekezdését a 20/2017. (II. 2.) Korm. rendelet 18. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^28]: A 7. § (6) bekezdése a 311/2017. (X. 31.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^29]: A 7. § (7) bekezdése a 147/2019. (VI. 25.) Korm. rendelet 5. § b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 162. § (1) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^30]: A 7. § (8) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
+[^31]: A 7. § (9) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 86. §-a iktatta be.
