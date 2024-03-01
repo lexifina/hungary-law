@@ -8,25 +8,25 @@ b)
 
 c)
 
-d)
+d) 92/A. § (4) bekezdésében a „bekezdése” szövegrész helyébe a „bekezdése vagy az Fgytv. 48/E. §-a” szöveg,
 
 e)
 
 f)
 
-g)
+g) 159/B. § (3) bekezdésében a „bekezdése” szövegrész helyébe a „bekezdése vagy az Fgytv. 48/E. §-a” szöveg,
 
 h)
 
 i)
 
-j)
+j) 159/B. § (4) bekezdés a) pontjában a „bekezdése” szövegrész helyébe a „bekezdése vagy az Fgytv. 48/E. §-a” szöveg,
 
 k)
 
 l)
 
-m)
+m) 159/C. § (1) bekezdésében a „bekezdése” szövegrész helyébe a „bekezdése vagy az Fgytv. 48/E. §-a” szöveg,
 
 n)
 
@@ -34,4 +34,6 @@ o)
 
 p)
 
-q)
+q) 159/C. § (4) bekezdésében a „bekezdése” szövegrész helyébe a „bekezdése vagy az Fgytv. 48/E. §-a” szöveg
+
+lép.

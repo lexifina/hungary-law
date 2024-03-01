@@ -1,1 +1,1 @@
-### 85. §
+85. § A bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény 12. § (3) bekezdésében az „a feladatkörében érintett” szövegrész helyébe az „az igazságügyért felelős” szöveg lép.
