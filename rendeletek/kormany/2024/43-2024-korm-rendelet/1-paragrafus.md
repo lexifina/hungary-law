@@ -1,0 +1,11 @@
+1. § E rendelet alkalmazásában
+
+a) kockázatelemzési, kockázatértékelési rendszer: a robbanóanyag, robbantószer, robbanószerkezet, pirotechnikai termék, kábítószer, illetve egyéb, közbiztonságra veszélyt jelentő tárgy felkutatásával kapcsolatos kockázatok feltárására, azonosítására, a kockázatok kezelésére, csökkentésére vonatkozó intézkedések kiválasztására és végrehajtására vonatkozó folyamatok leírása;
+
+b) minőségirányítási rendszer: a minőségirányítás megvalósításához szükséges szervezeti felépítés, feladatkörök, eljárások, folyamatok és erőforrások összessége, amely magában foglalja a minőségi követelmények meghatározását, ezek teljesítésének ellenőrzését, értékelését, tanúsítását és a folyamatos minőségfejlesztést;
+
+c) robbanóanyag, robbantószer, robbanószerkezet, pirotechnikai termék, kábítószer, valamint egyéb, közbiztonságra veszélyt jelentő tárgy felkutatásával kapcsolatos képzési program: a rendezvény-, illetve létesítménybiztosítási tevékenység során végzett robbanóanyag, robbantószer, robbanószerkezet, pirotechnikai termék, kábítószer, valamint egyéb, közbiztonságra veszélyt jelentő tárgy azonosítása, felkutatása érdekében a tevékenységet végző személyi állományra és keresőkutyákra vonatkozó képzési terv;
+
+d) technológiai utasítás: a védelmi terv elveinek, szabályainak figyelembevételével készült azon – a rendezvény-, illetve létesítménybiztosítási tevékenység keretében a robbanóanyag, robbantószer, robbanószerkezet, pirotechnikai termék, kábítószer, valamint egyéb, közbiztonságra veszélyt jelentő tárgy hatékony felkutatására, azonosítására szolgáló – részletes tevékenységi, cselekvési terv, amely az egyes munkafolyamatok, krízishelyzetek – különösen a robbanóanyag, robbantószer, robbanószerkezet, pirotechnikai termék, kábítószer felkutatásával kapcsolatos krízishelyzet – kezelésére is kiterjedő eljárási rendet tartalmazza;
+
+e) védelmi terv: azon dokumentum, amely meghatározza a rendezvény-, illetve létesítménybiztosítási tevékenység végzése keretében követendő módszereket, eljárásokat, megelőző és védelmi intézkedéseket, valamint azon minőségbiztosítási rendelkezéseket, melyek rögzítik az e módszereknek és eljárásoknak való megfelelés ellenőrzésének szempontrendszerét.
