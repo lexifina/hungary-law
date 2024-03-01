@@ -2,9 +2,9 @@
 
 ## AZ ÖRÖKSÉGVÉDELEMMEL KAPCSOLATOS NEM HATÓSÁGI FELADATOK ELLÁTÁSA
 
-## 43. [^252] A településfejlesztési terv és a településrendezési terv egyeztetési eljárásában adott szakmai vélemény örökségvédelmi szempontjai
+## 43. [^253] A településfejlesztési terv és a településrendezési terv egyeztetési eljárásában adott szakmai vélemény örökségvédelmi szempontjai
 
-91. § (1)[^253] A településfejlesztési terv és a településrendezési terv jogszabályban meghatározott egyeztetési eljárás keretében kialakított szakmai vélemény során figyelemmel kell lenni a védett régészeti örökség és a műemléki értékek helyben történő megőrzésének alapvető követelményére.
+91. § (1)[^254] A településfejlesztési terv és a településrendezési terv jogszabályban meghatározott egyeztetési eljárás keretében kialakított szakmai vélemény során figyelemmel kell lenni a védett régészeti örökség és a műemléki értékek helyben történő megőrzésének alapvető követelményére.
 
 (2) A szakmai véleményezés során az 57. § (7) bekezdésében meghatározottakon túl a következő szempontokat kell különösen érvényesíteni:
 
@@ -22,15 +22,15 @@ db) a terület, a táj hagyományos jellegét torzító és túlterhelő, a term
 
 e) az önkormányzati településképi rendelet hatálybalépését követően az azzal való összhang.
 
-(3)[^254] A hatóság a településfejlesztési terv és a településrendezési terv egyeztetési eljárásában adott szakmai véleményhez kikérheti
+(3)[^255] A hatóság a településfejlesztési terv és a településrendezési terv egyeztetési eljárásában adott szakmai véleményhez kikérheti
 
 a) nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet és védőövezetét érintő esetben az Ásatási Bizottság,
 
-b)[^255] műemléket, műemléki környezetet, műemléki jelentőségű területet, történeti tájat és világörökségi területet érintő esetben az Országos Építészeti Tervtanács
+b)[^256] műemléket, műemléki környezetet, műemléki jelentőségű területet, történeti tájat és világörökségi területet érintő esetben az Országos Építészeti Tervtanács
 
 szakvéleményét.
 
-[^252]: A 43. alcím címe a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
-[^253]: A 91. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 76. pontja, a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
-[^254]: A 91. § (3) bekezdés nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
-[^255]: A 91. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 75. pontja és a 84. § 27. pontja, a 776/2021. (XII. 23.) Korm. rendelet 17. § 15. és 16. pontja szerint módosított szöveg.
+[^253]: A 43. alcím címe a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^254]: A 91. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 76. pontja, a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^255]: A 91. § (3) bekezdés nyitó szövegrésze a 420/2021. (VII. 15.) Korm. rendelet 98. § a) pontja szerint módosított szöveg.
+[^256]: A 91. § (3) bekezdés b) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 75. pontja és a 84. § 27. pontja, a 776/2021. (XII. 23.) Korm. rendelet 17. § 15. és 16. pontja szerint módosított szöveg.

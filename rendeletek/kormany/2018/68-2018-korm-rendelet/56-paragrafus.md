@@ -28,7 +28,7 @@ b) időszaki kulturális rendezvény vagy program hirdetményét.
 
 (8)[^106] Műemlékhez történő hozzáépítés, ráépítés, vagy műemlék telkén új építmény, építményrész építése a műemléki érték fennmaradását, érvényesülését, hitelességét, kortörténeti jellegét nem sértheti.
 
-(9) A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.
+(9)[^107] A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.
 
 [^99]: A 19. alcím címe a 677/2020. (XII. 28.) Korm. rendelet 84. § 7. pontja szerint módosított szöveg.
 [^100]: Az 56. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 26–27. pontja és a 84. § 7. pontja szerint módosított szöveg.
@@ -38,3 +38,4 @@ b) időszaki kulturális rendezvény vagy program hirdetményét.
 [^104]: Az 56. § (4b) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 68. §-a iktatta be.
 [^105]: Az 56. § (6) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 28. pontja szerint módosított szöveg.
 [^106]: Az 56. § (8) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 29. pontja és a 84. § 7. pontja szerint módosított szöveg.
+[^107]: Az 56. § (9) bekezdése a 35/2024. (II. 29.) Korm. rendelet 327. §-a szerint módosított szöveg.
