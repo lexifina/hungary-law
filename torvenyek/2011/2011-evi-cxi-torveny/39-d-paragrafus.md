@@ -1,6 +1,6 @@
 39/D. § (1) A nemzeti megelőző mechanizmus feladatainak teljesítése körében az alapvető jogok biztosa személyesen és a nemzeti megelőző mechanizmus feladatainak teljesítésére általa felhatalmazott munkatársai útján is eljárhat. A 21., 22. és a 26. §, valamint a 27. § (1) bekezdése és a 39/B. § szerinti jogosultságok az alapvető jogok biztosának a felhatalmazása alapján eljáró munkatársait is megilletik, illetve a 25. § szerinti együttműködési kötelezettség velük szemben is fennáll.
 
-(2) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére felhatalmazott munkatársa e feladatok teljesítése körében – ha megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik – a minősített adatot a minősített adat védelméről szóló törvényben meghatározott felhasználói engedély nélkül is megismerheti.
+(2)
 
 (3) Az alapvető jogok biztosának a nemzeti megelőző mechanizmus feladatainak teljesítésére legalább tizenegy munkatársát fel kell hatalmaznia. A felhatalmazott munkatársak a szabadságuktól megfosztott személyekkel való bánásmódot érintő szakterületen kiemelkedő elméleti tudással vagy legalább ötéves szakmai gyakorlattal rendelkező, felsőfokú végzettségű szakértők lehetnek. A nemzeti megelőző mechanizmus feladatainak teljesítésében való közreműködésre az alapvető jogok biztosa eseti vagy állandó jelleggel más szakértőket is felhatalmazhat.
 
