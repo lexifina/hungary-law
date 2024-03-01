@@ -1,3 +1,3 @@
-## 7/C. [^36] Általános adójogi tájékoztatási tevékenység
+## 7/C.[^37]
 
-[^36]: A 7/C. alcímet (10/C. §) a 481/2016. (XII. 28.) Korm. rendelet 9. §-a iktatta be.
+[^37]: A 7/C. alcím címét a 611/2023. (XII. 22.) Korm. rendelet 21. § 2. pontja hatályon kívül helyezte.

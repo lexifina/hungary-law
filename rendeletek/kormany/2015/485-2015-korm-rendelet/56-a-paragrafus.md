@@ -1,10 +1,10 @@
-## 21/A. [^190] A mögöttes felelősség érvényesítésével kapcsolatos különös illetékességi szabályok
+## 21/A. [^191] A mögöttes felelősség érvényesítésével kapcsolatos különös illetékességi szabályok
 
-56/A. §[^191] (1)[^192] Az Art. 59. § (1) bekezdés b)–g) pontja, valamint 60. §-a alapján, kizárólag az adó megfizetésére kötelezett személlyel szembeni határozatot, valamint az Avt. 48. § (4) bekezdése, 65. § (9) bekezdése, 70. § (8) bekezdése, 82. § (5) bekezdése, 90. § (3) bekezdése, 91. § (7) bekezdése, 102. §-a, 112. §-a, valamint 113. § (3) bekezdése szerinti döntést – figyelemmel a 81/A. §-ban foglaltakra – az a vármegyei igazgatóság hozza meg, amely az eredeti adós-adózó adóügyeiben hatáskörrel és illetékességgel rendelkezik, kivéve a törvényi kezesség esetét.
+56/A. §[^192] (1)[^193] Az Art. 59. § (1) bekezdés b)–g) pontja, valamint 60. §-a alapján, kizárólag az adó megfizetésére kötelezett személlyel szembeni határozatot, valamint az Avt. 48. § (4) bekezdése, 65. § (9) bekezdése, 70. § (8) bekezdése, 82. § (5) bekezdése, 90. § (3) bekezdése, 91. § (7) bekezdése, 102. §-a, 112. §-a, valamint 113. § (3) bekezdése szerinti döntést – figyelemmel a 81/A. §-ban foglaltakra – az a vármegyei igazgatóság hozza meg, amely az eredeti adós-adózó adóügyeiben hatáskörrel és illetékességgel rendelkezik, kivéve a törvényi kezesség esetét.
 
-(2)[^193] A 81/A. §-ban foglaltakra is figyelemmel az Art. 59. § (1) bekezdés a), h) és i) pontja szerinti határozatot a kizárólag az adó megfizetésére kötelezett személy, az Art. 59. § (3) bekezdése szerinti határozatot a fióktelep, az Avt. 90. § (4) bekezdése szerinti határozatot az árverés nyertese, az Áfa törvény 150. §-a szerinti határozatot a kezes adóügyeiben hatáskörrel és illetékességgel rendelkező vármegyei igazgatóság hozza meg.
+(2)[^194] A 81/A. §-ban foglaltakra is figyelemmel az Art. 59. § (1) bekezdés a), h) és i) pontja szerinti határozatot a kizárólag az adó megfizetésére kötelezett személy, az Art. 59. § (3) bekezdése szerinti határozatot a fióktelep, az Avt. 90. § (4) bekezdése szerinti határozatot az árverés nyertese, az Áfa törvény 150. §-a szerinti határozatot a kezes adóügyeiben hatáskörrel és illetékességgel rendelkező vármegyei igazgatóság hozza meg.
 
-[^190]: A 21/A. alcímet (56/A. §) a 481/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
-[^191]: Az 56/A. § a 475/2017. (XII. 28.) Korm. rendelet 72. §-ával megállapított szöveg.
-[^192]: Az 56/A. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 17. § m) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
-[^193]: Az 56/A. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^191]: A 21/A. alcímet (56/A. §) a 481/2016. (XII. 28.) Korm. rendelet 14. §-a iktatta be.
+[^192]: Az 56/A. § a 475/2017. (XII. 28.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^193]: Az 56/A. § (1) bekezdése a 670/2020. (XII. 28.) Korm. rendelet 17. § m) pontja, a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.
+[^194]: Az 56/A. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 228. § b) pontja szerint módosított szöveg.

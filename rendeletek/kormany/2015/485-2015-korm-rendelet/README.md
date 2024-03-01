@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-485-20-
 | 2023-01-01 | 2015-485-20-22.21 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-12-23 | 2015-485-20-22.22 | 611/2023. (XII. 22.) Korm. rendelet |
 | 2024-01-21 | 2015-485-20-22.23 | 611/2023. (XII. 22.) Korm. rendelet |
+| 2024-03-01 | 2015-485-20-22.24 | 611/2023. (XII. 22.) Korm. rendelet |

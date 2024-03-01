@@ -1,4 +1,4 @@
-14. §[^42] A vármegyei igazgatóságok ellátják
+14. §[^43] A vármegyei igazgatóságok ellátják
 
 a) a NAV szervezetén belül behajtási jogsegéllyel kapcsolatos, az Aktv. 4. § (4) bekezdés 5. pontjában megjelölt kapcsolattartó szerv részére meghatározott feladatokat,
 
@@ -10,4 +10,4 @@ d) az európai uniós csatlakozással összefüggő egyes törvénymódosításo
 
 e) a 92/83/EGK tanácsi irányelvnek az alkoholtartalmú italok független kisüzemi termelőinek a jövedéki adó szempontjából történő tanúsítása és öntanúsítása tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló 2021. december 17-i (EU) 2021/2266 bizottsági végrehajtási rendelet szerinti feladatokat.
 
-[^42]: A 14. § a 611/2023. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^43]: A 14. § a 611/2023. (XII. 22.) Korm. rendelet 3. §-ával megállapított szöveg.

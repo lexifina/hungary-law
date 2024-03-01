@@ -1,4 +1,4 @@
-## I/B. Fejezet[^10]
+## I/B. Fejezet[^11]
 
 ## FENNTARTHATÓ GAZDASÁGFEHÉREDÉSÉRT FELELŐS BIZOTTSÁG
 
@@ -8,7 +8,7 @@
 
 a) hat tagot az adóügyekért felelős államtitkár,
 
-b)[^11] egy tagot a NAV elnöke
+b)[^12] egy tagot a NAV elnöke
 
 jelöl.
 
@@ -18,5 +18,5 @@ jelöl.
 
 (5) A Bizottság önálló munkaszervezettel nem rendelkezik, a titkársági feladatait a NAV látja el.
 
-[^10]: Az I/B. fejezetet (3/B. §) a 670/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^11]: A 3/B. § (2) bekezdés b) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 2. pontja szerint módosított szöveg.
+[^11]: Az I/B. fejezetet (3/B. §) a 670/2020. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 3/B. § (2) bekezdés b) pontja a 611/2023. (XII. 22.) Korm. rendelet 20. § 2. pontja szerint módosított szöveg.

@@ -1,5 +1,11 @@
-## X. Fejezet[^294]
+## X. Fejezet[^295]
 
-93. §
+## A TÁJÉKOZTATÁSI IGAZGATÓSÁG HATÁSKÖRE
 
-[^294]: A X. fejezetet (93. §) a 183/2017. (VII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+93. § A Tájékoztatási Igazgatóság
+
+a) a telefonos ügyféltájékoztató és ügyintéző rendszeren keresztül tájékoztatást ad az adó- és vámjogszabályok értelmezésével és alkalmazásával kapcsolatos kérdésekben,
+
+b) ellátja a NAV írásbeli tájékoztatási tevékenységét, melynek keretében megválaszolja az írásban vagy elektronikus úton érkezett, az adójogszabályok értelmezésével és alkalmazásával kapcsolatos kérdéseket.
+
+[^295]: A X. Fejezetet (93. §-t) a 183/2017. (VII. 5.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte, újonnan a 611/2023. (XII. 22.) Korm. rendelet 18. §-a iktatta be.
