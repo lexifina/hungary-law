@@ -100,6 +100,12 @@ k) a 6. § (20) bekezdése alapján a honvédelem térképészeti támogatásá�
 
 rendeletben állapítsa meg.
 
-(5) Felhatalmazást kap a miniszter, hogy a honvédelemért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján igazgatási szolgáltatási díjköteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját.
+(5) Felhatalmazást kap a honvédelemért felelős miniszter, hogy
 
-(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza a geodéziai tervezői és geodéziai szakértői minősítéssel kapcsolatos eljárásért fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
+a) az adópolitikáért felelős miniszterrel egyetértésben, az e törvény alapján a felelősségi körébe tartozó igazgatási szolgáltatásidíj-köteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját,
+
+b) a 6. § (21) bekezdése alapján a honvédelem térképészeti támogatásáért felelős szerv által a honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény részére hálózaton keresztül történő adatszolgáltatás rendjét
+
+rendeletben állapítsa meg.
+
+(6) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben, rendeletben szabályozza az e törvény alapján a felelősségi körébe tartozó igazgatási szolgáltatásidíj-köteles adatszolgáltatásokért, eljárásokért fizetendő igazgatási szolgáltatási díj mértékét, megfizetésének szabályait, valamint felhasználásának módját.

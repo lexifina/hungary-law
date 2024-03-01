@@ -86,12 +86,12 @@ d) földmérő igazolvány, illetve minősítés érvényességi ideje.
 
 (8b) A földmérési és térinformatikai államigazgatási szerv által a (8) bekezdés alapján vezetett nyilvántartás a (8) bekezdés b) és g) pontjában meghatározott adatok vonatkozásában közhiteles hatósági nyilvántartásnak minősül.
 
-(8c) A nyilvántartásban szereplő személy a nyilvántartást vezető szervnél írásban kezdeményezheti a (8) bekezdés d)–f) pontjaiban szereplő adatainak feltüntetését is.
+(8c)
 
 (9) Aki földmérési munkát jogosulatlanul végez, kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
 
 (10) Jogosulatlan földmérési tevékenységet végez az, aki az (1), (3) és (4) bekezdésben meghatározott jogosultság hiányában, a 23. § (1)–(3) bekezdésében felsorolt földmérési tevékenységet végez.
 
-(11) A földmérési és térképészeti állami alapadat-adatbázisok jogosulatlan adatfelhasználásáért az adatot felhasználó kormányrendeletben meghatározott mértékű bírságot köteles fizetni.
+(11)
 
-(12) A (9) és (11) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.
+(12) A (9) bekezdés szerinti közigazgatási szabályszegés esetén figyelmeztetés szankció alkalmazásának nincs helye.

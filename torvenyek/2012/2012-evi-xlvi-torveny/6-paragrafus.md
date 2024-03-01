@@ -26,19 +26,11 @@ i) a c) és h) pontban foglalt minősítések meghosszabbításáért,
 
 j) a 25/A. § szerinti nyilvántartásba történő felvétel iránti eljárásért.
 
-(4) A (3) bekezdés f) pontjában meghatározott soron kívüli eljárásért
-
-a) 1–5 ingatlan esetén ingatlanonként 10 000 Ft,
-
-b) 6–15 ingatlan esetén 50 000 Ft, valamit a hatodik ingatlantól ingatlanonként további 5 000 Ft,
-
-c) 16, vagy több ingatlan esetén 100 000 Ft, valamit a tizenhatodik ingatlantól ingatlanonként további 500 Ft
-
-összegű igazgatási szolgáltatási díjat kell fizetni.
+(4)
 
 (4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
 
-(5) Az (4) bekezdés szerinti eljárási díj a fővárosi és vármegyei kormányhivatalok bevételét képezi, a megfizetés és felhasználás módjára az illetékekről szóló 1990. évi XCIII. törvény módosításáról, valamint a hiteles tulajdonilap-másolat igazgatási szolgáltatási díjáról szóló 1996. évi LXXXV. törvény 32/A. § (10) bekezdés rendelkezéseit kell alkalmazni.
+(5)
 
 (6) Szakirányú iskolarendszerű oktatási vagy tudományos kutatási célra a miniszter, illetve a honvédelemért felelős miniszter a hatáskörébe tartozó földmérési és térképészeti adatok vonatkozásában díjmentességet engedélyezhet, amennyiben az adatszolgáltatás mértéke nem haladja meg
 
@@ -68,7 +60,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei – hitelesítés nélkül – díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
 
-(9) A (8) bekezdés alapján átadott állami alapadatokat a veszélyhelyzet vagy katasztrófaveszély megszűnése után – a megszűnéstől számított 30 napon belül – az adatigénylőnek vissza kell szolgáltatnia az adatszolgáltató részére.
+(9)
 
 (10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
 
