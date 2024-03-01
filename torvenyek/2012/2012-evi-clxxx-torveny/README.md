@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-180-00-00
 | 2022-03-01 | 2021. évi CXXXIV. törvény | 2012-180-00-00.24 |
 | 2023-01-01 | 2022. évi LX. törvény | 2012-180-00-00.25 |
 | 2023-09-01 | 2023. évi XXXI. törvény | 2012-180-00-00.26 |
+| 2024-03-01 | 2023. évi CIX. törvény | 2012-180-00-00.27 |
