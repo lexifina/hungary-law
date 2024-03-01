@@ -16,7 +16,7 @@
 
 5. a szakképzés területén működő szakszervezetek és érdekképviseleti szervezetek összesen négy képviselőjéből,
 
-6.[^391] a nagyvállalkozások összesen hat képviselőjéből,
+6.[^393] a nagyvállalkozások összesen hat képviselőjéből,
 
 7. az együttműködési megállapodással rendelkező bevett egyházak összesen négy képviselőjéből,
 
@@ -30,9 +30,9 @@
 
 áll.
 
-(2)[^392] A Szakképzési Innovációs Tanács elnökét – a tagok közül – és tagjait a szakképzésért felelős miniszter kéri fel. Az elnök és a tagok névsorát a szakképzésért felelős miniszter a szakképzési tájékoztatási és információs központ keretében működtetett honlapon teszi közzé.
+(2)[^394] A Szakképzési Innovációs Tanács elnökét – a tagok közül – és tagjait a szakképzésért felelős miniszter kéri fel. Az elnök és a tagok névsorát a szakképzésért felelős miniszter a szakképzési tájékoztatási és információs központ keretében működtetett honlapon teszi közzé.
 
 (3) A Szakképzési Innovációs Tanács tagjainak megbízatása hároméves időtartamra szól.
 
-[^391]: A 308. § (1) bekezdés 6. pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 68. pontja szerint módosított szöveg.
-[^392]: A 308. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 85. pontja szerint módosított szöveg.
+[^393]: A 308. § (1) bekezdés 6. pontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 68. pontja szerint módosított szöveg.
+[^394]: A 308. § (2) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 58. § 85. pontja szerint módosított szöveg.

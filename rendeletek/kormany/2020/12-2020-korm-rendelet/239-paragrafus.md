@@ -1,4 +1,4 @@
-239. § (1)[^306] Munkahelyi körülmények között szakirányú oktatás akkor folytatható, ha
+239. § (1)[^308] Munkahelyi körülmények között szakirányú oktatás akkor folytatható, ha
 
 a) a munkahely felszereltsége,
 
@@ -12,4 +12,4 @@ lehetővé teszi a szakmai vizsgára való felkészülést.
 
 (3) Ha a gazdálkodó szervezet több tanuló, illetve a képzésben részt vevő személy szakirányú oktatását szervezi meg munkahelyi körülmények között, köteles felelős személyt megbízni a tanuló, illetve a képzésben részt vevő személy szakirányú oktatásának figyelemmel kísérésére, aki ezt a tevékenységet munkája mellett is elláthatja.
 
-[^306]: A 239. § (1) bekezdés záró szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 47. § 55. pontja szerint módosított szöveg.
+[^308]: A 239. § (1) bekezdés záró szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 47. § 55. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-177/B. §[^265] (1)[^266] Az elhunyt hivatásos, szerződéses, a jogszabály szerinti honvédelmi szolgálati juttatásban részesülő vagy nyugállományú katona árvája (a továbbiakban: pályázó) árvák ösztöndíjára pályázhat, ha
+177/B. §[^267] (1)[^268] Az elhunyt hivatásos, szerződéses, a jogszabály szerinti honvédelmi szolgálati juttatásban részesülő vagy nyugállományú katona árvája (a továbbiakban: pályázó) árvák ösztöndíjára pályázhat, ha
 
 a) a társadalombiztosítási nyugdíjrendszer keretében megállapított árvaellátásra jogosult,
 
@@ -6,7 +6,7 @@ b) magyarországi székhellyel rendelkező szakképző intézmény vagy külföl
 
 c) – a tanulmányait első félévben megkezdő pályázó kivételével – a pályázat benyújtását megelőző félévben legalább 3,00 tanulmányi átlageredményt ért el.
 
-(2)[^267] A pályázat az árvaellátásra való jogosultság megállapításától kezdve folyamatosan benyújtható a Honvéd Vezérkar (a továbbiakban: HVK) részére.
+(2)[^269] A pályázat az árvaellátásra való jogosultság megállapításától kezdve folyamatosan benyújtható a Honvéd Vezérkar (a továbbiakban: HVK) részére.
 
 (3) A pályázónak a pályázathoz csatolnia kell
 
@@ -16,9 +16,9 @@ b) – kiskorú pályázó esetén – a pályázó törvényes képviselőjéne
 
 (4) A pályázat elbírálási határideje a pályázat beérkezését követő naptól számított 30 nap.
 
-(5)[^268] Az árvák ösztöndíjának havonkénti összege hatvankilencezer-hatszáz forint.
+(5)[^270] Az árvák ösztöndíjának havonkénti összege hatvankilencezer-hatszáz forint.
 
-(6)[^269] Az árvák ösztöndíjának folyósítása a félév teljes időszakában – a tanulmányi szüneteket is ideértve – egy összegben és havonta történik a kedvezményezett fizetési számlájára, ha
+(6)[^271] Az árvák ösztöndíjának folyósítása a félév teljes időszakában – a tanulmányi szüneteket is ideértve – egy összegben és havonta történik a kedvezményezett fizetési számlájára, ha
 
 a) – a (7) bekezdésben meghatározott kivétellel – az előző félév tanulmányi teljesítményét igazoló okmány másolatát és
 
@@ -28,8 +28,8 @@ az a) pont tekintetében a félév megkezdését követő harminc napon belül, 
 
 (7) A külföldön nappali rendszerű szakmai oktatásban részt vevő pályázó tekintetében a (2) és (6) bekezdést a külföldi oktatási rendszer sajátosságaira figyelemmel kell alkalmazni.
 
-[^265]: A 177/B. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
-[^266]: A 177/B. § (1) bekezdés nyitó szövegrésze a 40/2023. (II. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^267]: A 177/B. § (2) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^268]: A 177/B. § (5) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^269]: A 177/B. § (6) bekezdése a 212/2023. (VI. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^267]: A 177/B. §-t a 461/2021. (VIII. 5.) Korm. rendelet 1. §-a iktatta be.
+[^268]: A 177/B. § (1) bekezdés nyitó szövegrésze a 40/2023. (II. 20.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^269]: A 177/B. § (2) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^270]: A 177/B. § (5) bekezdése a 391/2023. (VIII. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^271]: A 177/B. § (6) bekezdése a 212/2023. (VI. 1.) Korm. rendelet 11. §-ával megállapított szöveg.

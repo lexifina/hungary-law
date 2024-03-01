@@ -62,11 +62,11 @@ f) a vizsgázó szakmai vizsgán elért eredményét százalékkal és osztályz
 
 g) az akkreditált vizsgaközpont határozatát és a záradékokat, valamint
 
-h)[^354] a kiállított oklevél, illetve szakmai bizonyítvány sorozatjelét és sorszámát,
+h)[^356] a kiállított oklevél, illetve szakmai bizonyítvány sorozatjelét és sorszámát,
 
-i)[^355] a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.
+i)[^357] a szakmai vizsga alapját képező képzési és kimeneti követelmények alkalmazásának kezdő dátumát.
 
 (4) A vizsgatörzslapra az adatokat eredeti okiratok alapján kell bejegyezni.
 
-[^354]: A 269. § (3) bekezdés h) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 75. pontja szerint módosított szöveg.
-[^355]: A 269. § (3) bekezdés i) pontját a 380/2021. (VI. 30.) Korm. rendelet 42. §-a iktatta be.
+[^356]: A 269. § (3) bekezdés h) pontja a 380/2021. (VI. 30.) Korm. rendelet 58. § 75. pontja szerint módosított szöveg.
+[^357]: A 269. § (3) bekezdés i) pontját a 380/2021. (VI. 30.) Korm. rendelet 42. §-a iktatta be.

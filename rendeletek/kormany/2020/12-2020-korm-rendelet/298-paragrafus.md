@@ -8,11 +8,11 @@
 
 ## 98. Az Szkt. 96. §-ához
 
-298. § (1)[^372] A szakképzésért felelős miniszter
+298. § (1)[^374] A szakképzésért felelős miniszter
 
 a) a szakképzés szakmai és módszertani fejlesztése keretében
 
-aa)[^373] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
+aa)[^375] meghatározza a képzési és kimeneti követelmények elkészítésének és módosításának egységes alapelveit,
 
 ab) a szakképzéssel összefüggő regionális és országos kutatásokat végez, valamint elemzési és értékelési feladatokat lát el,
 
@@ -38,17 +38,17 @@ c) az oktatók továbbképzésével összefüggésben kidolgozza a továbbképz�
 
 d) a szakképzés együttműködési rendszerével összefüggésben fejleszti az Európai Unió tagállamainak szakképzésben részt vevő intézményeivel történő együttműködését, részt vesz hazai és nemzetközi szakképzési kutatásokban, közreműködik nemzetközi fejlesztési projektek lebonyolításában.
 
-(2)[^374]
+(2)[^376]
 
-(3)[^375] A szakképzésért felelős miniszter az Szkt.
+(3)[^377] A szakképzésért felelős miniszter az Szkt.
 
-a)[^376] 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
+a)[^378] 96. § (1) bekezdés e) pont eb) alpontjában és azzal összefüggésben
 
 aa) az (1) bekezdés b) pont ba) alpontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
 ab) az (1) bekezdés b) pont bb)–be) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-b)[^377] 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
+b)[^379] 96. § (1) bekezdés e) pont ec) alpontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
 c) 96. § (1) bekezdés g) pontjában meghatározott feladatot az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság,
 
@@ -56,14 +56,14 @@ d) 96. § (1) bekezdés h) pontjában és azzal összefüggésben az (1) bekezd�
 
 e) 96. § (1) bekezdés i) pontjában meghatározott feladatot a Nemzeti Szakképzési és Felnőttképzési Hivatal,
 
-f)[^378]
+f)[^380]
 
 útján végzi. E feladatok ellátásában a Nemzeti Szakképzési és Felnőttképzési Hivatal és az IKK Innovatív Képzéstámogató Központ Zártkörűen Működő Részvénytársaság a szakképzésért felelős miniszter megbízása alapján és utasításai szerint kizárólagos joggal vesz részt.
 
-[^372]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^373]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
-[^374]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
-[^375]: A 298. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
-[^376]: A 298. § (3) bekezdés a) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 41. pontja szerint módosított szöveg.
-[^377]: A 298. § (3) bekezdés b) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.
-[^378]: A 298. § (3) bekezdés f) pontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 57. pontja hatályon kívül helyezte.
+[^374]: A 298. § (1) bekezdése a 319/2020. (VII. 1.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^375]: A 298. § (1) bekezdés a) pont aa) alpontja a 292/2023. (VII. 6.) Korm. rendelet 47. § 66. pontja szerint módosított szöveg.
+[^376]: A 298. § (2) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 56. pontja hatályon kívül helyezte.
+[^377]: A 298. § (3) bekezdése a 380/2021. (VI. 30.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^378]: A 298. § (3) bekezdés a) pont nyitó szövegrésze a 800/2021. (XII. 28.) Korm. rendelet 13. § 41. pontja szerint módosított szöveg.
+[^379]: A 298. § (3) bekezdés b) pontja a 800/2021. (XII. 28.) Korm. rendelet 13. § 42. pontja szerint módosított szöveg.
+[^380]: A 298. § (3) bekezdés f) pontját a 292/2023. (VII. 6.) Korm. rendelet 48. § 57. pontja hatályon kívül helyezte.

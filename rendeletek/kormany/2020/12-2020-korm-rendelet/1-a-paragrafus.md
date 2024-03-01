@@ -10,7 +10,7 @@ a) a magyar állampolgárt,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyt,
 
-c) a Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, bevándoroltat, letelepedettet,
+c)[^2] a Magyarország területén élő hontalant, menekültet, oltalmazottat, menedékest, befogadottat, huzamos tartózkodási jogosultsággal rendelkező személyt,
 
 d) a nemzetközi megállapodás alapján a magyar állampolgárokkal azonos elbírálás alá eső külföldit,
 
@@ -18,10 +18,12 @@ e) azoknak az országoknak az állampolgárait, amelyekben a magyar állampolgá
 
 f) a szomszédos államokban élő magyarokról szóló törvény (a továbbiakban: kedvezménytörvény) hatálya alá tartozó, de magyar állampolgársággal vagy a szabad mozgás és tartózkodás jogával nem rendelkező személyt,
 
-g) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt, és magyar állampolgársággal sem rendelkezik,
+g)[^3] a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott – magát magyar nemzetiségűnek valló – harmadik országbeli állampolgárt, feltéve, hogy nem áll a kedvezménytörvény hatálya alatt, és magyar állampolgársággal sem rendelkezik,
 
 h) a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel rendelkező harmadik országbeli állampolgárt,
 
 i) az összevont engedéllyel rendelkező harmadik országbeli állampolgárt.
 
 [^1]: Az 1/A. §-t a 380/2021. (VI. 30.) Korm. rendelet – 461/2021. (VIII. 5.) Korm. rendelet 4. § a) pontja szerint módosított – 11. §-a iktatta be.
+[^2]: Az 1/A. § c) pontja a 35/2024. (II. 29.) Korm. rendelet 332. § a) pontja szerint módosított szöveg.
+[^3]: Az 1/A. § g) pontja a 35/2024. (II. 29.) Korm. rendelet 332. § b) pontja szerint módosított szöveg.
