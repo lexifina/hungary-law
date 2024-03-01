@@ -12,6 +12,8 @@ d) a NAV kezelésében lévő létesítménybe be- és kilépő személyek, ille
 
 e) a felügyeleti és adatszolgáltató rendszer törvényben vagy kormányrendeletben meghatározott adatait.
 
+f) a Központi Bűnjelnyilvántartó Rendszer működtetése során a bűnjelnyilvántartásban szereplő személyes adatokat.
+
 (1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.

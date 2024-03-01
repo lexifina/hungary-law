@@ -120,7 +120,7 @@ a) külön jogszabályban szabályozott, nemzetközileg ellenőrzött termékek 
 
 b) a nemesfémforgalommal és fémjelzéssel kapcsolatos ellenőrzési feladatokat,
 
-c) a vám-, a jövedéki, a szabálysértési és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
+c) a vám-, a jövedéki, a szabálysértési, a Központi Bűnjelnyilvántartó Rendszer működtetése és egyéb eljárások során keletkezett, a feladat- és hatáskörébe tartozó adatok kezelését,
 
 d) a fémkereskedelmi hatósági feladatokat,
 
