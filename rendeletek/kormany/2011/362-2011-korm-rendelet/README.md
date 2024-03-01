@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-362-20-
 | 2021-09-01 | 2011-362-20-22.25 | 13/2020. (II. 7.) Korm. rendelet |
 | 2022-07-01 | 2011-362-20-22.26 | 790/2021. (XII. 27.) Korm. rendelet |
 | 2024-01-01 | 2011-362-20-22.27 | 403/2023. (VIII. 30.) Korm. rendelet |
+| 2024-03-01 | 2011-362-20-22.28 | 380/2021. (VI. 30.) Korm. rendelet |
