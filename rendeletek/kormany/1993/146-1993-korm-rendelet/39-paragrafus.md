@@ -1,16 +1,16 @@
-39. §[^287] (1)[^288] A jegyző, illetve a járási hivatal átvezeti a nyilvántartáson a lakcímbejelentés adatait. A járási hivatal megküldi a lakcímbejelentő lapot és a 9. § (2) bekezdése szerint átvett lakcímbejelentő lapot a nyilvántartást kezelő szervnek. A járási hivatal gondoskodik a leadott, valamint a 9. § (2) bekezdése szerint továbbított hatósági igazolványnak az iratkezelésre irányadó jogszabályok szerinti selejtezéséről.
+39. §[^291] (1)[^292] A jegyző, illetve a járási hivatal átvezeti a nyilvántartáson a lakcímbejelentés adatait. A járási hivatal megküldi a lakcímbejelentő lapot és a 9. § (2) bekezdése szerint átvett lakcímbejelentő lapot a nyilvántartást kezelő szervnek. A járási hivatal gondoskodik a leadott, valamint a 9. § (2) bekezdése szerint továbbított hatósági igazolványnak az iratkezelésre irányadó jogszabályok szerinti selejtezéséről.
 
-(1a)[^289] A lakcímbejelentés során eljáró szerv gondoskodik a 33. § (4) bekezdése szerinti hozzájáruló nyilatkozat (alapirat) megőrzéséről.
+(1a)[^293] A lakcímbejelentés során eljáró szerv gondoskodik a 33. § (4) bekezdése szerinti hozzájáruló nyilatkozat (alapirat) megőrzéséről.
 
-(2)[^290]
+(2)[^294]
 
-(3)[^291]
+(3)[^295]
 
-(4)[^292]
+(4)[^296]
 
-[^287]: Az R. 39. § a 417/2012. (XII. 29.) Korm. rendelet 35. §-ával megállapított szöveg.
-[^288]: Az R. 39. § (1) bekezdése a 60/2017. (III. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^289]: Az R. 39. § (1a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 8. § (4) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^290]: Az R. 39. § (2) bekezését a 375/2021. (VI. 30.) Korm. rendelet 4. § 13. pontja hatályon kívül helyezte.
-[^291]: Az R. 39. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (17) bekezdése iktatta be, hatályon kívül helyezte a 317/2020. (VII. 1.) Korm. rendelet 5. §-a.
-[^292]: Az R. 39. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (17) bekezdése iktatta be, az 569/2022. (XII. 23.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^291]: Az R. 39. § a 417/2012. (XII. 29.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^292]: Az R. 39. § (1) bekezdése a 60/2017. (III. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^293]: Az R. 39. § (1a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 8. § (4) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^294]: Az R. 39. § (2) bekezését a 375/2021. (VI. 30.) Korm. rendelet 4. § 13. pontja hatályon kívül helyezte.
+[^295]: Az R. 39. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (17) bekezdése iktatta be, hatályon kívül helyezte a 317/2020. (VII. 1.) Korm. rendelet 5. §-a.
+[^296]: Az R. 39. § (4) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 11. § (17) bekezdése iktatta be, az 569/2022. (XII. 23.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.

@@ -46,7 +46,7 @@
 
 ## 6. A feldolgozáshoz szükséges technikai jellegű adatok.
 
-3a. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^335]
+3a. számú melléklet a 146/1993. (X. 26.) Korm. rendelethez[^339]
 
 Az elektronikus azonosítást követően elektronikus kapcsolattartás útján kezdeményezett lakcímbejelentés adattartalma
 
@@ -92,4 +92,4 @@ Az elektronikus azonosítást követően elektronikus kapcsolattartás útján k
 
 5. A feldolgozáshoz szükséges technikai jellegű adatok.
 
-[^335]: Az R. 3a. számú mellékletét a 317/2020. (VII. 1.) Korm. rendelet 3. §-a iktatta be.
+[^339]: Az R. 3a. számú mellékletét a 317/2020. (VII. 1.) Korm. rendelet 3. §-a iktatta be.
