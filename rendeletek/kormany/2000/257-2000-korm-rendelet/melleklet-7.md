@@ -10,7 +10,7 @@
 
 | 5 | Mesterpedagógus | 17 év vagy annál kevesebb közalkalmazotti jogviszonyban töltött idő esetén 28% 18–32 év közalkalmazotti jogviszonyban töltött idő esetén 29% 33 év vagy több közalkalmazotti jogviszonyban töltött idő esetén 37% |
 
-7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^137]
+7. számú melléklet a 257/2000. (XII. 26.) Korm. rendelethez[^140]
 
 Az egészségügyi kiegészítő pótlék összege
 
@@ -224,4 +224,4 @@ II. Orvosok egészségügyi kiegészítő pótlékának összege (Ft)
 
 | 49. | 48 év felett | – | 189 945 | 219 527 |
 
-[^137]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^140]: A 7. számú mellékletet a 351/2017. (XI. 23.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 2/2018. (II. 1.) Korm. rendelet 10. §-a, a 277/2019. (XI. 21.) Korm. rendelet 2. § (2) bekezdése, a 309/2020. (VI. 30.) Korm. rendelet 2. § (1) és (2) bekezdése, az 598/2022. (XII. 28.) Korm. rendelet 2. §-a, a 364/2023. (VIII. 3.) Korm. rendelet 2. § (2) bekezdése szerint módosított szöveg.
