@@ -1,5 +1,5 @@
 ## 4. A külföldi kiküldetéshez kapcsolódó elismert költségekről szóló 285/2011. (XII. 22.) Korm. rendelet módosítása
 
-41. §[^52]
+41. §[^48]
 
-[^52]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

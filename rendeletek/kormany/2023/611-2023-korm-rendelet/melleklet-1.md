@@ -1,3 +1,7 @@
-1. melléklet a 611/2023. (XII. 22.) Korm. rendelethez[^55]
+1. melléklet a 611/2023. (XII. 22.) Korm. rendelethez
 
-[^55]: Az 1. melléklet a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+A NAV Korm. rendelet 1. melléklet B) pontja a következő 11. alponttal egészül ki:
+
+(A Nemzeti Adó- és Vámhivatal területi szervei)
+
+„11. A Nemzeti Adó- és Vámhivatal Tájékoztatási Igazgatósága, székhelye Budapest, illetékességi területe Magyarország területe.”

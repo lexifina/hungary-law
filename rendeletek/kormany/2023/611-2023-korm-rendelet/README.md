@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-611-20-
 | 2024-01-02 | 2023-611-20-22.4 | 2010. évi CXXX. törvény |
 | 2024-01-21 | 2023-611-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-01-22 | 2023-611-20-22.6 | 2010. évi CXXX. törvény |
+| 2024-03-01 | 2023-611-20-22.7 | Nemzeti Jogszabálytár (egységes szerkezet) |

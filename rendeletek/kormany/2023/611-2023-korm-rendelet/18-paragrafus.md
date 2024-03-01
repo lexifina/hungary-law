@@ -1,3 +1,11 @@
-18. §[^18]
+18. § A NAV Korm. rendelet a következő X. Fejezettel egészül ki:
 
-[^18]: A 18. § a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+„X. Fejezet
+
+A TÁJÉKOZTATÁSI IGAZGATÓSÁG HATÁSKÖRE
+
+93. § A Tájékoztatási Igazgatóság
+
+a) a telefonos ügyféltájékoztató és ügyintéző rendszeren keresztül tájékoztatást ad az adó- és vámjogszabályok értelmezésével és alkalmazásával kapcsolatos kérdésekben,
+
+b) ellátja a NAV írásbeli tájékoztatási tevékenységét, melynek keretében megválaszolja az írásban vagy elektronikus úton érkezett, az adójogszabályok értelmezésével és alkalmazásával kapcsolatos kérdéseket.”

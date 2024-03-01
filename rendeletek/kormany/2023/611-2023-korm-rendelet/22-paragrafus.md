@@ -1,3 +1,1 @@
-22. §[^32]
-
-[^32]: A 22. § a 44. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+22. § A NAV Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
