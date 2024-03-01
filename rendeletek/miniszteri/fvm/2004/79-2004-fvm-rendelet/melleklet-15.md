@@ -1,8 +1,8 @@
 ## I. A VADÁSZJEGY ADATTARTALMA
 
-## 1.[^308] Családi név
+## 1.[^306] Családi név
 
-## 2.[^309] Utónév
+## 2.[^307] Utónév
 
 ## 3. Születési név
 
@@ -16,7 +16,7 @@
 
 ## 8. A vadászjegy ellenőrzéshez szükséges QR kód
 
-## II.[^310] A VADÁSZATI ENGEDÉLY ADATTARTALMA
+## II.[^308] A VADÁSZATI ENGEDÉLY ADATTARTALMA
 
 ## 1. Családi név
 
@@ -38,9 +38,9 @@
 
 ## 10. A vadászati engedély ellenőrzéshez szükséges QR-kód
 
-15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^311]
+15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^309]
 
-[^308]: A Vhr. 14. számú melléklet I. pont 1. alpontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
-[^309]: A Vhr. 14. számú melléklet I. pont 2. alpontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
-[^310]: A Vhr. 14. számú melléklet II. pontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
-[^311]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
+[^306]: A Vhr. 14. számú melléklet I. pont 1. alpontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
+[^307]: A Vhr. 14. számú melléklet I. pont 2. alpontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
+[^308]: A Vhr. 14. számú melléklet II. pontja az 57/2023. (X. 16.) AM rendelet 27. § (9) bekezdésével megállapított szöveg.
+[^309]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
