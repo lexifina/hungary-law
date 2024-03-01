@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-18-20-0
 | 2021-06-09 | 2007-18-20-0B.18 | 57/2011. (IX. 29.) NEFMI rendelet |
 | 2023-01-01 | 2007-18-20-0B.19 | 54/2016. (XII. 30.) EMMI rendelet |
 | 2023-07-01 | 2007-18-20-0B.20 | 22/2023. (VI. 30.) BM rendelet |
+| 2024-03-01 | 2007-18-20-0B.21 | 57/2011. (IX. 29.) NEFMI rendelet |

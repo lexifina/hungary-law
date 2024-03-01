@@ -16,7 +16,7 @@ eb) honvédelmi munkakötelezettség teljesítése.
 
 (2) Ha a működési nyilvántartás tartama alatt az egészségügyi dolgozó az Eütv. 113. § (4) bekezdése szerint közfeladat ellátására tekintettel szünetelteti egészségügyi tevékenységét, a közfeladat-ellátással nem érintett időszak tekintetében az (1) bekezdés alapján is kérheti egy alkalommal a működési nyilvántartása meghosszabbítását.
 
-(3)[^43] Az a személy, akinek a működési nyilvántartása közfeladat ellátására tekintettel került meghosszabbításra, a közfeladat ellátásának megszűnését – az egészségügyi tevékenységvégzés megkezdéséig – bejelenti az ÁEEK-nek, ha az egészségügyi tevékenységet ezen a jogcímen több mint három évig szüneteltette.
+(3)[^43] Az a személy, akinek a működési nyilvántartása közfeladat ellátására tekintettel került meghosszabbításra, a közfeladat ellátásának megszűnését – az egészségügyi tevékenységvégzés megkezdéséig – bejelenti az OKFŐ-nek, ha az egészségügyi tevékenységet ezen a jogcímen több mint három évig szüneteltette.
 
 (4) A meghosszabbítás iránti kérelmet a szünetelésre okot adó tény, körülmény igazolásával együtt legkésőbb a működési nyilvántartás lejártának napjáig kell benyújtani.
 
@@ -25,4 +25,4 @@ eb) honvédelmi munkakötelezettség teljesítése.
 [^40]: A 8/A. § (1) bekezdés b) pontja a 2/2013. (I. 2.) EMMI rendelet 5. §-ával megállapított, a 4/2015. (I. 20.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
 [^41]: A 8/A. § (1) bekezdés c) pontja a 28/2018. (VIII. 29.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^42]: A 8/A. § (1) bekezdés d) pontja a 28/2018. (VIII. 29.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^43]: A 8/A. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^43]: A 8/A. § (3) bekezdése a 7/2024. (II. 12.) BM rendelet 8. § d) pontja szerint módosított szöveg.

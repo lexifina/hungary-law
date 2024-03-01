@@ -14,7 +14,7 @@
 
 (8) Az e rendelet hatályalépését megelőzően kiadott alap- és működési nyilvántartási számok a továbbiakban is érvényesek.
 
-(9)[^71] A (8) bekezdésben foglalt rendelkezések nem érintik azt az esetet, amikor az ÁEEK hivatalból történő eljárása során az alap- vagy a működési nyilvántartás tekintetében új nyilvántartási számot határoz meg és ezzel egyidejűleg a korábban kiadott alap- vagy működési nyilvántartási számot törli az alap- és a működési nyilvántartásból.
+(9)[^71] A (8) bekezdésben foglalt rendelkezések nem érintik azt az esetet, amikor az OKFŐ hivatalból történő eljárása során az alap- vagy a működési nyilvántartás tekintetében új nyilvántartási számot határoz meg és ezzel egyidejűleg a korábban kiadott alap- vagy működési nyilvántartási számot törli az alap- és a működési nyilvántartásból.
 
 [^65]: A 13. § (1) bekezdés az 54/2016. (XII. 30.) EMMI rendelet 54. § (3) bekezdése szerint módosított szöveg.
 [^66]: A Magyar Közlöny 2007. évi 49. számában megjelent helyesbítésnek megfelelő szöveg.
@@ -22,4 +22,4 @@
 [^68]: A 13. § (3) bekezdése az 57/2011. (IX. 29.) NEFMI rendelet 13. § (1) bekezdésével megállapított szöveg.
 [^69]: A 13. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte, újonnan a 4/2015. (I. 20.) EMMI rendelet 3. §-a iktatta be.
 [^70]: A 13. § (5)–(6) bekezdését a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 18. pontja hatályon kívül helyezte.
-[^71]: A 13. § (9) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 13. § (2) bekezdése iktatta be, szövege az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^71]: A 13. § (9) bekezdését az 57/2011. (IX. 29.) NEFMI rendelet 13. § (2) bekezdése iktatta be, szövege a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.

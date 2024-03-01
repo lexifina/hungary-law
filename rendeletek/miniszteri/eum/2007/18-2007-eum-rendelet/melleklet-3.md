@@ -152,7 +152,7 @@ A 12. pontban foglaltakat csak a nyilvántartás meghosszabbítására vonatkoz�
 
 A 17. pontban foglalt nyilatkozatot a nyilvántartásba vételi és az újrafelvételi kérelem esetén kell feltüntetni.
 
-1.[^89] Kifejezett kérelem arra vonatkozóan, hogy az ÁEEK a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
+1.[^89] Kifejezett kérelem arra vonatkozóan, hogy az OKFŐ a kérelemben, valamint a mellékelt okiratokban és igazolásokban foglaltak alapján
 
 1.1. a kérelmezőt működési nyilvántartásba vegye
 
@@ -286,11 +286,11 @@ Az egészségügyi tevékenység szüneteltetésének
 
 15. A kérelmező nyilatkozata arról, hogy a kérelemben feltüntetett adatok a valóságnak megfelelnek.
 
-16.[^91] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az ÁEEK általi ellenőrzéséhez.
+16.[^91] A kérelmező nyilatkozata arról, hogy hozzájárul a kérelemben feltüntetett, valamint a munkáltatója által kezelt és e rendelet alapján szolgáltatandó adatainak az OKFŐ általi ellenőrzéséhez.
 
-17.[^92] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az ÁEEK az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
+17.[^92] A kérelmező nyilatkozata arról, hogy hozzájárul ahhoz, hogy az OKFŐ az Eütv. 112/A. § (3) bekezdése szerinti hatósági ellenőrzést végezze az ott meghatározottak szerint.
 
-18.[^93] Kifejezett kérelem az ÁEEK-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
+18.[^93] Kifejezett kérelem az OKFŐ-nek az Eütv. 112/A. § (1) bekezdése szerinti adatigénylésére vonatkozóan.
 
 19. A kérelemhez az alábbi dokumentumokat kell csatolni:
 
@@ -321,8 +321,8 @@ Az egészségügyi tevékenység szüneteltetésének
 [^86]: A 2. melléklet IV. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § b) pontjával megállapított szöveg.
 [^87]: A 2. számú melléklet VIII. pontjának nyitó szövegrésze az 57/2011. (IX. 29.) NEFMI rendelet 15. § c) pontja szerint módosított szöveg.
 [^88]: Az eredeti 3. számú melléklet megjelölését 3. mellékletre változtatta az 51/2008. (XII. 31.) EüM rendelet 10. § (3) bekezdése. A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^89]: A 3. melléklet 1. pont nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^89]: A 3. melléklet 1. pont nyitó szövegrésze a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
 [^90]: A 3. melléklet 8. pontja a 14/2014. (III. 10.) EMMI rendelet 3. § c) pontjával megállapított szöveg.
-[^91]: A 3. melléklet 16. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^92]: A 3. melléklet 17. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^93]: A 3. melléklet 18. pontja az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^91]: A 3. melléklet 16. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^92]: A 3. melléklet 17. pontja a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^93]: A 3. melléklet 18. pontja a 7/2024. (II. 12.) BM rendelet 8. § d) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (3) A 3. § (2) bekezdése és a 7. § (5) bekezdése szerinti kivonatért az illetékekről szóló 1990. évi XCIII. törvény mellékletének IV. 1. pontja szerinti illetéket kell megfizetni.
 
-(4)[^61] Az (1) és (2) bekezdés szerinti összeget az ÁEEK 10032000-01490576-00000000 számú bankszámlájára kell a kérelmezőnek megfizetnie.
+(4)[^61] Az (1) és (2) bekezdés szerinti összeget az OKFŐ 10032000-00362241-00000000 számú bankszámlájára kell a kérelmezőnek megfizetnie.
 
 [^60]: A 11. § a 11/2009. (IV. 10.) EüM rendelet 5. §-ával megállapított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a 2009. április 25. napján folyamatban lévő ügyekben is alkalmazni kell.
-[^61]: A 11. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés c) és k) pontja szerint módosított szöveg.
+[^61]: A 11. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 54. § (2) bekezdés k) pontja, a 7/2024. (II. 12.) BM rendelet 8. § g) pontja szerint módosított szöveg.

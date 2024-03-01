@@ -1,0 +1,3 @@
+9. §[^57] Az OKFŐ a külföldi bizonyítványok és oklevelek elismerését, illetve az egészségügyi tevékenység gyakorlására irányuló jogosultság ellenőrzését végző, külön jogszabályban meghatározott szervtől származó, az Eütv. 110. § (16) bekezdése b) pontja szerinti adatokat rögzíti a működési nyilvántartásban szereplő személy adatlapján.
+
+[^57]: A 9. §-t megelőző alcímet az 51/2008. (XII. 31.) EüM rendelet 10. § (2) bekezdésének d) pontja hatályon kívül helyezte. A 9. § az 51/2008. (XII. 31.) EüM rendelet 8. §-ával megállapított, a 7/2024. (II. 12.) BM rendelet 8. § b) pontja szerint módosított szöveg.
