@@ -1,4 +1,4 @@
-31/A. §[^84] A családok otthonteremtésével összefüggő egyes kormányrendeletek módosításáról szóló 183/2021. (IV. 16.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését a Módr3. hatálybalépését[^85] megelőzően keletkezett tényekre és jogviszonyokra, illetve megkezdett eljárási cselekményekre is alkalmazni kell.
+31/A. §[^86] A családok otthonteremtésével összefüggő egyes kormányrendeletek módosításáról szóló 183/2021. (IV. 16.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését a Módr3. hatálybalépését[^87] megelőzően keletkezett tényekre és jogviszonyokra, illetve megkezdett eljárási cselekményekre is alkalmazni kell.
 
-[^84]: A 31/A. §-t a 183/2021. (IV. 16.) Korm. rendelet 22. §-a iktatta be.
-[^85]: A hatálybalépés időpontja 2021. április 21.
+[^86]: A 31/A. §-t a 183/2021. (IV. 16.) Korm. rendelet 22. §-a iktatta be.
+[^87]: A hatálybalépés időpontja 2021. április 21.
