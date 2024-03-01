@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-30-20-0
 | 2017-05-21 | 2008-30-20-0B.9 | 5/2017. (IV. 20.) EMMI rendelet |
 | 2018-02-14 | 2008-30-20-0B.10 | 8/2018. (II. 13.) EMMI rendelet |
 | 2018-09-01 | 2008-30-20-0B.11 | 28/2018. (VIII. 29.) EMMI rendelet |
+| 2024-03-01 | 2008-30-20-0B.12 | 7/2024. (II. 12.) BM rendelet |

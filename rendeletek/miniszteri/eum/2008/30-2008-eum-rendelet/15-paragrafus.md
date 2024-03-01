@@ -34,5 +34,7 @@ h) 31. pontjával módosított 41. cikk (1) bekezdésének és
 
 i) 33. pontjával módosított 44. cikk (2) bekezdésének
 
+való megfelelést szolgálja.
+
 [^42]: A 15. § (4) bekezdése az 56/2015. (XII. 17.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^43]: A 15. § (5) bekezdését az 56/2015. (XII. 17.) EMMI rendelet 4. § (2) bekezdése iktatta be.
