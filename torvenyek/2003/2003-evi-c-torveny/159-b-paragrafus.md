@@ -6,7 +6,7 @@
 
 (2a) A bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
 
-(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
+(3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
 a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
 
@@ -16,7 +16,7 @@ tekinthetnek be.
 
 (4) A bíróság, illetve a külön törvényben meghatározott hatóság elektronikus úton megküldött értesítése alapján a Hatóság a KEHTA-ban rögzíti
 
-a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat, végzés és az Szjtv. 36/K. § (1) bekezdése szerinti értesítés számát,
+a) az eljáró bíróság, a külön törvényben meghatározott hatóság megnevezését és a határozat, végzés és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítés számát,
 
 b) az elektronikus adathoz való hozzáférés megakadályozásáról, illetve a megakadályozás megszüntetéséről szóló rendelkezést,
 
