@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-2-00-00
 | 2023-11-01 | 2023. évi XXXVIII. törvény | 2012-2-00-00.69 |
 | 2024-01-01 | 2023. évi XC. törvény | 2012-2-00-00.72 |
 | 2024-02-19 | 2023. évi XCI. törvény | 2012-2-00-00.73 |
+| 2024-03-01 | 2023. évi XCVII. törvény | 2012-2-00-00.74 |
