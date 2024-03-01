@@ -1,4 +1,4 @@
-## 2/G. §[^41] A kivezetésre szánt állami vagyon értékesítése során a Vtv. 42/I. § (1) bekezdés a) pontja szerinti, a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló elektronikus árverési rendszerként – a Vtv. 42/J. § (3) bekezdése szerint – az MNV Zrt. által működtetett elektronikus árverési rendszer is igénybe vehető. Ebben az esetben az MVH a kikiáltási árat a korrigált forgalmi értéken vagy azt meghaladó értéken állapítja meg, a 2/F. § (4) bekezdése szerinti esetben az értékesítés forgalmi értéken, egyebekben a VII. Fejezet elektronikus árverésre vonatkozó szabályai szerint történik, azzal, hogy az eredménytelen árverést követően nem kell megismételt árverést tartani.
+## 2/G. §[^42] A kivezetésre szánt állami vagyon értékesítése során a Vtv. 42/I. § (1) bekezdés a) pontja szerinti, a kivezetésre szánt állami vagyon tulajdonjogának átruházását szolgáló elektronikus árverési rendszerként – a Vtv. 42/J. § (3) bekezdése szerint – az MNV Zrt. által működtetett elektronikus árverési rendszer is igénybe vehető. Ebben az esetben az MVH a kikiáltási árat a korrigált forgalmi értéken vagy azt meghaladó értéken állapítja meg, a 2/F. § (4) bekezdése szerinti esetben az értékesítés forgalmi értéken, egyebekben a VII. Fejezet elektronikus árverésre vonatkozó szabályai szerint történik, azzal, hogy az eredménytelen árverést követően nem kell megismételt árverést tartani.
 
 ## Egyszerűsített pályázat
 
@@ -36,4 +36,4 @@ f) az MVH azon jogának fenntartását, hogy a nyertes ajánlattevő visszalép�
 
 (8) Az MVH jogosult a pályázati felhívást az ajánlattételi határidő letelte előtt visszavonni. Erről a pályázati felhívás közlésével megegyező helyeken és módon az ajánlattételi határidő lejárta előtt köteles tájékoztatást közzétenni, zártkörű felhívás esetén a visszavonásról az érdekelt pályázókat értesíteni.
 
-[^41]: A 2/G. § a 604/2022. (XII. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^42]: A 2/G. § a 604/2022. (XII. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

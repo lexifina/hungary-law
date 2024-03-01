@@ -2,13 +2,13 @@
 
 ## 53/J. § Ezen alcím alkalmazásában
 
-a) állami elhelyezési célú ingatlan: a Vtv. 28/A. § (9) bekezdése szerinti ingatlan;
+a)[^318] állami elhelyezési célú ingatlan: a Vtv. 27/B. § b) pontja szerinti ingatlan;
 
 b) állami elhelyezési célú ingatlanhasználati jogviszony: a Vtv. 28/A. § (3) bekezdése szerinti jogviszony;
 
 c) beruházás: a számvitelről szóló törvény 3. § (4) bekezdés 7. pontjában meghatározott beruházás;
 
-d) elhelyezési célú ingatlan: a Vtv. 28/A. § (9) bekezdés a) pontja szerinti ingatlan;
+d)[^319] elhelyezési célú ingatlan: a Vtv. 27/B. § a) pont aa) alpontja szerinti ingatlan;
 
 e) felújítás: a számvitelről szóló törvény 3. § (4) bekezdés 8. pontjában meghatározott felújítás;
 
@@ -18,7 +18,7 @@ g) kijelölő okirat: a Vtv. 28/A. § (2) bekezdése szerinti okirat;
 
 h) kijelölt használó: a Vtv. 28/A. § (3) bekezdése szerinti központi költségvetési szerv;
 
-i) rekreációs célú ingatlan: a Vtv. 28/A. § (9) bekezdés b) pontja szerinti ingatlan;
+i)[^320]
 
 j) üzemeltetés: az állami elhelyezési célú ingatlanok rendeltetésszerű használatához szükséges alábbi műszaki, infrastrukturális és ingatlangazdálkodási feladatok ellátása:
 
@@ -43,3 +43,7 @@ ji) parkolóhelyek biztosítása, ügyintézése,
 jj) televíziós műsorszolgáltatások előfizetése, belső elosztóhálózat karbantartása,
 
 jk) rovarirtás, rágcsálóirtás.
+
+[^318]: Az 53/J. § a) pontja a 27/2024. (II. 22.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^319]: Az 53/J. § d) pontja a 27/2024. (II. 22.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^320]: Az 53/J. § i) pontját a 27/2024. (II. 22.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.

@@ -2,9 +2,9 @@
 
 a) a Vtv. 42/O. § (2) bekezdés a)–c) pontja szerinti esetben
 
-aa)[^42] Budapesten, Pest vármegyében, vármegyeszékhelyen vagy megyei jogú városban fekvő ingatlan esetén 1 000 000 forint,
+aa)[^44] Budapesten, Pest vármegyében, vármegyeszékhelyen vagy megyei jogú városban fekvő ingatlan esetén 2 000 000 forint,
 
-ab) az aa) alpontba nem tartozó egyéb ingatlan esetén 750 000 forint,
+ab)[^45] az aa) alpontba nem tartozó egyéb ingatlan esetén 1 500 000 forint,
 
 b) a Vtv. 42/O. § (2) bekezdés d) pontja szerinti esetben 300 000 forint,
 
@@ -24,4 +24,5 @@ c) a Vtv. 42/O. § (2) bekezdés e) pontja szerinti esetben az ingatlan címére
 
 (4) Ha a Vtv. 42/O. § (2) bekezdése alapján a kivezetésre szánt állami vagyon tulajdonjogának ingyenes átadását több jogosult együttesen kezdeményezi, akkor a kivezetésre szánt állami vagyon a jogosultak megállapodása szerint közös tulajdonba adható.
 
-[^42]: A 2/T. § (1) bekezdés a) pont aa) alpontja a 410/2022. (X. 24.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^44]: A 2/T. § (1) bekezdés a) pont aa) alpontja a 410/2022. (X. 24.) Korm. rendelet 6. §-a, a 27/2024. (II. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^45]: A 2/T. § (1) bekezdés a) pont ab) alpontja a 27/2024. (II. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

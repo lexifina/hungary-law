@@ -1,3 +1,3 @@
-5. §[^50]
+5. §[^53]
 
-[^50]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
+[^53]: Az 5. §-t a 348/2010. (XII. 28.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.

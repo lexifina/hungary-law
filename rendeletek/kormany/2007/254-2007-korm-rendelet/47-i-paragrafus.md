@@ -28,8 +28,8 @@ ge) az árverési biztosítékon felüli vételár befizetésére szolgáló fiz
 
 (3) Az elektronikus árverési hirdetményben az MNV Zrt. felhívja a figyelmet arra, hogy az árverésre kerülő vagyontárgyra kizárólag elektronikus úton lehetséges árverezni, továbbá tájékoztatja az árverezőket arról, hogy az MNV Zrt. jogosult az árverést érvényes vételi ajánlat esetén is eredménytelenné nyilvánítani.
 
-(4)[^264] Az elektronikus árverési hirdetmény közzétételének legalább tíz munkanappal meg kell előznie az árverés befejezésének a hirdetményben megjelölt időpontját. Csomagban történő ingatlanértékesítés esetén az elektronikus árverési hirdetmény közzétételének 11 munkanappal kell megelőznie az árverés befejezésének a hirdetményben megjelölt időpontját, azzal, hogy ez az időtartam – amennyiben az árverési tétel részét képező ingatlanok száma a kettőt meghaladja – ingatlanonként további 1-1 munkanappal, de összességében nem több mint 9 munkanappal meghosszabbodik.
+(4)[^269] Az elektronikus árverési hirdetmény közzétételének legalább hat munkanappal meg kell előznie az árverés befejezésének a hirdetményben megjelölt időpontját. Csomagban történő ingatlanértékesítés esetén az elektronikus árverési hirdetmény közzétételének 8 munkanappal kell megelőznie az árverés befejezésének a hirdetményben megjelölt időpontját, azzal, hogy ez az időtartam – amennyiben az árverési tétel részét képező ingatlanok száma a kettőt meghaladja – ingatlanonként további 1-1 munkanappal, de összességében nem több mint 9 munkanappal meghosszabbodik.
 
 (5) Az elektronikus árverési hirdetmények nyilvántartása nyilvános, bárki számára regisztráció nélkül megtekinthető.
 
-[^264]: A 47/I. § (4) bekezdése a 192/2021. (IV. 23.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^269]: A 47/I. § (4) bekezdése a 192/2021. (IV. 23.) Korm. rendelet 3. §-ával megállapított, a 27/2024. (II. 22.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.

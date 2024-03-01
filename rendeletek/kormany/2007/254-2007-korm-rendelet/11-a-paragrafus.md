@@ -1,12 +1,12 @@
-## A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége[^105]
+## A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége[^108]
 
 11/A. § (1) A központi költségvetési szerv vagyonkezelő évente – a tárgyévet követő év január 31-ig – adatot szolgáltat az MNV Zrt. részére az elhelyezését szolgáló, valamint az általa ellátandó állami feladathoz használt épületek, épületrészek, helyiségek (a továbbiakban e szakasz alkalmazásában: adatszolgáltatással érintett ingatlanok) vonatkozásában, a Melléklet III. pontja szerint.
 
 (2) A központi költségvetési szerv vagyonkezelő félévente – július 31-ig, valamint a tárgyévet követő év január 31-ig – adatot szolgáltat az MNV Zrt. részére az elhelyezését szolgáló, valamint az általa ellátandó állami feladathoz használt adatszolgáltatással érintett ingatlanokról, a Melléklet IV. pontja szerint.
 
-(3)[^106] A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére, továbbá a honvédelmi, katonai, valamint a terrorizmust elhárító szerv által kezelt, használt nemzetbiztonsági célú, illetve rendeltetésű ingatlanokra vonatkozó adatok körére.
+(3)[^109] A központi költségvetési szervek (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettsége nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti minősített adatok körére, továbbá a honvédelmi, katonai, valamint a terrorizmust elhárító szerv által kezelt, használt nemzetbiztonsági célú, illetve rendeltetésű ingatlanokra vonatkozó adatok körére.
 
-(4)[^107] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezetek személyi állományának és szervezetének elhelyezésére rendelt ingatlanok tekintetében az adatszolgáltatási kötelezettség kizárólag az ingatlan helyrajzi számára terjed ki.
+(4)[^110] A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pontja szerinti honvédelmi szervezetek személyi állományának és szervezetének elhelyezésére rendelt ingatlanok tekintetében az adatszolgáltatási kötelezettség kizárólag az ingatlan helyrajzi számára terjed ki.
 
 (5) Az adatszolgáltatásra kötelezett az (1) és (2) bekezdés szerinti adatszolgáltatási kötelezettségét elektronikus úton, a tulajdonosi joggyakorló által e célra kialakított, interneten elérhető alkalmazáson keresztül történő adatfeltöltéssel teljesíti, az ott megjelölt bontásban.
 
@@ -22,6 +22,6 @@
 
 (11) A harmadik személy a tulajdonosi joggyakorló hasznosítási szerződésbe lépéséről szóló értesítést követően hatvan napon belül gyakorolhatja a felmondás jogát.
 
-[^105]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
-[^106]: A 11/A. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^107]: A 11/A. § (4) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 410/2022. (X. 24.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^108]: Az „A vagyonkezelők ingatlanhasználatra és ingatlanhasznosításra vonatkozó adatszolgáltatási kötelezettsége” alcímet (11/A. §) a 138/2020. (IV. 21.) Korm. rendelet 5. §-a iktatta be.
+[^109]: A 11/A. § (3) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^110]: A 11/A. § (4) bekezdése a 315/2022. (VIII. 16.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 410/2022. (X. 24.) Korm. rendelet 7. §-a szerint módosított szöveg.

@@ -20,6 +20,8 @@ d) helyszíni szemle biztosítására nem kerül sor.
 
 (7) A követelés Vtv. 42/G. § (3) bekezdés b) pontja szerinti elengedésére kizárólag azoknak a követeléseknek a vonatkozásában van lehetőség, amelyek érvényesítését a jogosult igazolhatóan megkísérelte.
 
-(8) A (6) bekezdés szerinti teljes elengedésére legfeljebb az 1 millió forint tőkeösszeget meg nem haladó követelések esetén kerülhet sor.
+(8)[^43] A (6) bekezdés szerint meghatározott követeléselengedés mértéke nem haladhatja meg a 2 millió forintot, amely tartalmazza a tőkeösszeget és a kamat összegét is. A követelés teljes elengedésére legfeljebb az 1 millió forint tőkeösszeget meg nem haladó követelések esetén kerülhet sor.
 
 (9) Az MVH engedménypolitikáját is tartalmazó követeléskezelési szabályzatát az MVH igazgatósága fogadja el és a miniszter hagyja jóvá.
+
+[^43]: A 2/Q. § (8) bekezdése a 27/2024. (II. 22.) Korm. rendelet 2. §-ával megállapított szöveg.

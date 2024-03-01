@@ -1,4 +1,4 @@
-51/A. §[^298] (1) A Vtv. 36 § (6)–(8) bekezdése szerinti ingyenes tulajdonba adásra az 50–51. §-ban foglalt eljárási szabályokat kell alkalmazni, a (2) bekezdés szerinti eltérések figyelembevételével.
+51/A. §[^305] (1) A Vtv. 36 § (6)–(8) bekezdése szerinti ingyenes tulajdonba adásra az 50–51. §-ban foglalt eljárási szabályokat kell alkalmazni, a (2) bekezdés szerinti eltérések figyelembevételével.
 
 (2) A Vtv. 36. § (8) bekezdése szerinti kezdeményezés esetén a benyújtott dokumentumoknak az alábbiakat kell tartalmazniuk:
 
@@ -10,4 +10,4 @@ c) a karitatív tevékenység ellátására vonatkozó nyilatkozatot,
 
 d) az igényelt vagyonelemek tervezett felhasználásának célját.
 
-[^298]: Az 51/A. §-t a 331/2019. (XII. 20.) Korm. rendelet 6. §-a iktatta be.
+[^305]: Az 51/A. §-t a 331/2019. (XII. 20.) Korm. rendelet 6. §-a iktatta be.

@@ -1,3 +1,3 @@
-53/C. §[^308] A miniszter az állami elhelyezési célú ingatlanok állományáról, annak változásáról, az ingatlanállomány állapotáról, az állomány bővítésére, átszervezésére, az ingatlan portfólió racionalizálására vonatkozó javaslatairól, a tárgyévben megvalósított értéknövelő beruházásokról, felújításokról, az állami elhelyezési célú ingatlanhasználati jogviszonnyal összefüggő üzemeltetési feladatok megvalósításáról, a beruházási, felújítási, karbantartási és üzemeltetési feladatok ellátásához szükséges forrásigényekről, a központi költségvetési szervek tárgyévi elhelyezési terveiben jelzett igényekről, azok teljesítéséről évente, a tárgyévet követő év május 31. napjáig beszámol a Kormány részére.
+53/C. §[^315]
 
-[^308]: Az 53/C. § a 191/2023. (V. 22.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^315]: Az 53/C. §-t a 27/2024. (II. 22.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.

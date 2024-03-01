@@ -2,15 +2,15 @@
 
 ## ÁLLAMI VAGYON KELETKEZÉSÉVEL ÖSSZEFÜGGŐ SZABÁLYOK
 
-2. §[^26] (1)[^27] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására – az (1a) bekezdés szerinti kivétellel – a tulajdonosi joggyakorló előzetes hozzájárulását követően kerülhet sor. A kiadott előzetes hozzájárulás alapján az előzetes hozzájárulás jogosultja az állam nevében történő tulajdonszerzésre és a jogügylet állam nevében történő megkötésére jogosult.
+2. §[^27] (1)[^28] A tulajdonjognak az állam javára történő megszerzésére irányuló jogügylet megkötésére, az állam javára vételi jog szerződéssel történő alapítására – az (1a) bekezdés szerinti kivétellel – a tulajdonosi joggyakorló előzetes hozzájárulását követően kerülhet sor. A kiadott előzetes hozzájárulás alapján az előzetes hozzájárulás jogosultja az állam nevében történő tulajdonszerzésre és a jogügylet állam nevében történő megkötésére jogosult.
 
-(1a)[^28] Az (1) bekezdésben meghatározott hozzájárulást nem kell beszerezni, ha
+(1a)[^29] Az (1) bekezdésben meghatározott hozzájárulást nem kell beszerezni, ha
 
-a)[^29] az államot megillető elővásárlási jog vagy vételi jog gyakorlásának, illetve a tulajdonszerzést eredményező jogügylet megkötésének jogosultját vagy kötelezettjét jogszabály állapítja meg,
+a)[^30] az államot megillető elővásárlási jog vagy vételi jog gyakorlásának, illetve a tulajdonszerzést eredményező jogügylet megkötésének jogosultját vagy kötelezettjét jogszabály állapítja meg,
 
 b) a tulajdonjog megszerzésére törvényben előírt kötelezettség áll fenn,
 
-c)[^30] a beszerzés
+c)[^31] a beszerzés
 
 ca) a kulturális örökség védelméért felelős miniszter (e § alkalmazásában a továbbiakban: miniszter) által, vagy
 
@@ -20,30 +20,30 @@ a miniszter által jóváhagyott vásárlási szabályzat alapján történik,
 
 d) a tulajdonjog megszerzésére nem a c) pont cb) alpontja szerinti szervezet beszerzése útján, közgyűjteményben történő elhelyezés céljából kerül sor.
 
-e)[^31] a beszerzés az Országgyűlés Hivatala által történik, vagy
+e)[^32] a beszerzés az Országgyűlés Hivatala által történik, vagy
 
-f)[^32] a beszerzés a szakképzésialapfeladat-ellátással vagy a szakképző intézmény által szervezett szakmai képzéssel összefüggésben az állami szakképző intézmény, illetve szakképzési centrum részeként működő állami szakképző intézmény tekintetében a szakképzési centrum által történik.
+f)[^33] a beszerzés a szakképzésialapfeladat-ellátással vagy a szakképző intézmény által szervezett szakmai képzéssel összefüggésben az állami szakképző intézmény, illetve szakképzési centrum részeként működő állami szakképző intézmény tekintetében a szakképzési centrum által történik.
 
-(2)[^33] Az (1) bekezdésre figyelemmel a döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő húsz napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
+(2)[^34] Az (1) bekezdésre figyelemmel a döntést az erre vonatkozó megkeresésnek a tulajdonosi joggyakorlóhoz történő beérkezését követő húsz napon belül kell meghozni és a kérelmező részére kiadni. A határidőbe nem számít bele a kérelmezőhöz intézett hiánypótlási felhívás kiadása (kiegészítő tájékoztatás kérése) és annak teljesítése között eltelt idő.
 
-(3)[^34] Amennyiben központi költségvetési szerv vagy más személy jogügylete a Vtv. 1. § (2) bekezdése szerinti állami vagyon létrejöttét eredményezte, a jogügyletben szerző félként részt vevő személy (a továbbiakban: bejelentő) a 14. § (1) bekezdésében meghatározott adatszolgáltatás során tájékoztatni köteles a tulajdonosi joggyakorlót az állami vagyon keletkezéséről. Amennyiben az érintett vagyon ingatlan, a jogügyletről az abban eljáró személy harminc napon belül köteles a tulajdonosi joggyakorlót tájékoztatni, az állam tulajdonjogának ingatlan-nyilvántartási bejegyzését követően pedig az erről szóló jogerős határozat másolatát a tulajdonosi joggyakorlónak haladéktalanul megküldeni.
+(3)[^35] Amennyiben központi költségvetési szerv vagy más személy jogügylete a Vtv. 1. § (2) bekezdése szerinti állami vagyon létrejöttét eredményezte, a jogügyletben szerző félként részt vevő személy (a továbbiakban: bejelentő) a 14. § (1) bekezdésében meghatározott adatszolgáltatás során tájékoztatni köteles a tulajdonosi joggyakorlót az állami vagyon keletkezéséről. Amennyiben az érintett vagyon ingatlan, a jogügyletről az abban eljáró személy harminc napon belül köteles a tulajdonosi joggyakorlót tájékoztatni, az állam tulajdonjogának ingatlan-nyilvántartási bejegyzését követően pedig az erről szóló jogerős határozat másolatát a tulajdonosi joggyakorlónak haladéktalanul megküldeni.
 
-(4)[^35] A bejelentő a bejelentésben kezdeményezheti az adott vagyonra vonatkozóan haszonélvezeti jogot alapító szerződés, a Vtv. 27. § (1) bekezdés szerinti vagyonkezelési vagy a vagyon Vtv. 24. § (1) bekezdés szerinti használatát más jogcímen biztosító szerződés megkötését. Amennyiben a vagyonkezelési vagy a haszonélvezeti jogot alapító szerződés kezdeményezésével a tulajdonosi joggyakorló egyetért, a bejelentést követő hatvan napon belül megköti – meglévő szerződés esetén módosítja – a szerződést a bejelentővel. Amennyiben az állami vagyon használatát más jogcímen biztosító szerződés kezdeményezésével a tulajdonosi joggyakorló egyetért, és a Vtv. 24. § (2) bekezdése szerinti feltétel teljesül, a bejelentést követő hatvan napon belül versenyeztetés mellőzésével megköti – meglévő szerződés esetén módosítja – a vagyon hasznosítására irányuló szerződést a bejelentővel. Amennyiben a versenyeztetés mellőzésének törvényi feltételei nem állnak fenn, erről a tulajdonosi joggyakorló a bejelentést követő hatvan napon belül a bejelentőt értesíti, egyúttal a 4. § (1) bekezdésnek megfelelően kiírja az állami vagyon hasznosítására irányuló pályázati felhívást. A haszonélvezeti jogot alapító, a vagyonkezelési, vagy más jogcímen a vagyon használatát biztosító szerződés megkötése nem tagadható meg, ha a bejelentő központi költségvetési szervnek a tulajdonszerzést eredményező jogügylet megkötését, vagy a vagyon bejelentőnek történő átengedését jogszabály írja elő, vagy a jogügyletet a bejelentő valamely jogszabályi rendelkezésen alapuló elővásárlási joga alapján kötötte.
+(4)[^36] A bejelentő a bejelentésben kezdeményezheti az adott vagyonra vonatkozóan haszonélvezeti jogot alapító szerződés, a Vtv. 27. § (1) bekezdés szerinti vagyonkezelési vagy a vagyon Vtv. 24. § (1) bekezdés szerinti használatát más jogcímen biztosító szerződés megkötését. Amennyiben a vagyonkezelési vagy a haszonélvezeti jogot alapító szerződés kezdeményezésével a tulajdonosi joggyakorló egyetért, a bejelentést követő hatvan napon belül megköti – meglévő szerződés esetén módosítja – a szerződést a bejelentővel. Amennyiben az állami vagyon használatát más jogcímen biztosító szerződés kezdeményezésével a tulajdonosi joggyakorló egyetért, és a Vtv. 24. § (2) bekezdése szerinti feltétel teljesül, a bejelentést követő hatvan napon belül versenyeztetés mellőzésével megköti – meglévő szerződés esetén módosítja – a vagyon hasznosítására irányuló szerződést a bejelentővel. Amennyiben a versenyeztetés mellőzésének törvényi feltételei nem állnak fenn, erről a tulajdonosi joggyakorló a bejelentést követő hatvan napon belül a bejelentőt értesíti, egyúttal a 4. § (1) bekezdésnek megfelelően kiírja az állami vagyon hasznosítására irányuló pályázati felhívást. A haszonélvezeti jogot alapító, a vagyonkezelési, vagy más jogcímen a vagyon használatát biztosító szerződés megkötése nem tagadható meg, ha a bejelentő központi költségvetési szervnek a tulajdonszerzést eredményező jogügylet megkötését, vagy a vagyon bejelentőnek történő átengedését jogszabály írja elő, vagy a jogügyletet a bejelentő valamely jogszabályi rendelkezésen alapuló elővásárlási joga alapján kötötte.
 
 (5) A (4) bekezdés szerinti szerződés megkötéséig a vagyon nyilvántartásáról, állagmegóvásáról, őrzéséről, valamint védelméről a bejelentő gondoskodik, azt birtokolhatja és használhatja, viseli továbbá a vagyontárggyal kapcsolatos közterheket.
 
 (6) A (3)–(5) bekezdésben foglaltakat értelemszerűen alkalmazni kell akkor is, ha az állami tulajdonjog nem átruházás útján keletkezik.
 
-(7)[^36] E szakasz (1) és (2) bekezdését az Nvtv. 11. § (6) bekezdésében megjelölt vagyon vonatkozásában – a 2/A–2/C. § szerinti kivétellel – nem kell alkalmazni.
+(7)[^37] E szakasz (1) és (2) bekezdését az Nvtv. 11. § (6) bekezdésében megjelölt vagyon vonatkozásában – a 2/A–2/C. § szerinti kivétellel – nem kell alkalmazni.
 
-[^26]: A 2. § a 348/2010. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^27]: A 2. § (1) bekezdése a 30/2022. (II. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^28]: a 2. § (1a) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^29]: A 2. § (1a) bekezdés a) pontja a 827/2021. (XII. 28.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
-[^30]: A 2. § (1a) bekezdés c) pont záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^31]: A 2. § (1a) bekezdés e) pontját az 59/2021. (II. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 380/2021. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^32]: A 2. § (1a) bekezdés f) pontját a 380/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^33]: A 2. § (2) bekezdése a 604/2022. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^34]: A 2. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § b) és g) pontja szerint módosított szöveg.
-[^35]: A 2. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
-[^36]: A 2. § (7) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § a) pontja, a 178/2014. (VII. 18.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+[^27]: A 2. § a 348/2010. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^28]: A 2. § (1) bekezdése a 30/2022. (II. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^29]: a 2. § (1a) bekezdését az 592/2020. (XII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^30]: A 2. § (1a) bekezdés a) pontja a 827/2021. (XII. 28.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
+[^31]: A 2. § (1a) bekezdés c) pont záró szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^32]: A 2. § (1a) bekezdés e) pontját az 59/2021. (II. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 380/2021. (VI. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^33]: A 2. § (1a) bekezdés f) pontját a 380/2021. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^34]: A 2. § (2) bekezdése a 604/2022. (XII. 28.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^35]: A 2. § (3) bekezdése a 77/2014. (III. 14.) Korm. rendelet 26. § b) és g) pontja szerint módosított szöveg.
+[^36]: A 2. § (4) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^37]: A 2. § (7) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § a) pontja, a 178/2014. (VII. 18.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

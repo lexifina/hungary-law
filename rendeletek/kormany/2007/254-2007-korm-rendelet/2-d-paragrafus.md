@@ -1,4 +1,4 @@
-## II/A. Fejezet[^40]
+## II/A. Fejezet[^41]
 
 ## A KIVEZETÉSRE SZÁNT ÁLLAMI VAGYONRA VONATKOZÓ SZABÁLYOK
 
@@ -14,4 +14,4 @@ c) hulladékgyűjtő helyen történő elhelyezéséről vagy hulladékként tö
 
 d) megsemmisítéséről vagy megszüntetéséről.
 
-[^40]: A II/A. fejezetet (2/D–2/Y. §) a 827/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^41]: A II/A. fejezetet (2/D–2/Y. §) a 827/2021. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
