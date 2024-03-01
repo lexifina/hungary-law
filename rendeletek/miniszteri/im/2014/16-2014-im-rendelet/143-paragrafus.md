@@ -4,9 +4,9 @@
 
 a) a szabaduló elítélt természetes személyazonosító adatait,
 
-b)[^218] a szabadulás utáni lakcímét vagy tényleges tartózkodási helyét,
+b)[^222] a szabadulás utáni lakcímét vagy tényleges tartózkodási helyét,
 
-c)[^219] a bírósági ügydöntő határozat adatait,
+c)[^223] a bírósági ügydöntő határozat adatait,
 
 d) a szabadítás jogcímét és időpontját,
 
@@ -20,10 +20,10 @@ h) a szabadságvesztés végrehajtásának idejét,
 
 i) a szabadságvesztés végrehajtása alatt a munkáltatásban részt vett elítélt által betöltött munkaköröket, azok időtartamát, és az évenkénti munkadíjat öt évre visszamenőleg.
 
-j)[^220] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/E. § (6) bekezdésére történő utalással azt, hogy az elítéltnek a fogvatartás ideje alatt lejárt, valamint a szabadulást követő tizenöt napon belül lejáró személyazonosító igazolványa a szabadulást követő kilencven napig érvényes.
+j)[^224] a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/E. § (6) bekezdésére történő utalással azt, hogy az elítéltnek a fogvatartás ideje alatt lejárt, valamint a szabadulást követő tizenöt napon belül lejáró személyazonosító igazolványa a szabadulást követő kilencven napig érvényes.
 
 (2) A szabadulási igazolás kiadása és a szabadítás megtörténtéről előírt értesítések elküldése a szabadító bv. intézet feladata.
 
-[^218]: A 143. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 41. pontja szerint módosított szöveg.
-[^219]: A 143. § (1) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 42. pontja szerint módosított szöveg.
-[^220]: A 143. § (1) bekezdés j) pontját az 1/2023. (I. 12.) IM rendelet 13. §-a iktatta be.
+[^222]: A 143. § (1) bekezdés b) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 41. pontja szerint módosított szöveg.
+[^223]: A 143. § (1) bekezdés c) pontja a 14/2018. (VI. 15.) IM rendelet 19. § 42. pontja szerint módosított szöveg.
+[^224]: A 143. § (1) bekezdés j) pontját az 1/2023. (I. 12.) IM rendelet 13. §-a iktatta be.

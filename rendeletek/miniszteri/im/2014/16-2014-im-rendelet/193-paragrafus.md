@@ -1,4 +1,4 @@
-193. §[^292] (1) Ha a letartóztatott a büntető ügyiratokról készült másolatot terjedelme miatt nem tarthatja magánál, vagy a büntető ügyiratok elektronikus eszközön rendelkezésre álló másolatának megismerése számítástechnikai eszközt igényel, a bv. intézetnek a betekintést
+193. §[^305] (1) Ha a letartóztatott a büntető ügyiratokról készült másolatot terjedelme miatt nem tarthatja magánál, vagy a büntető ügyiratok elektronikus eszközön rendelkezésre álló másolatának megismerése számítástechnikai eszközt igényel, a bv. intézetnek a betekintést
 
 a) az erre irányuló kérelem benyújtását követő munkanapon,
 
@@ -18,4 +18,4 @@ b) az elektronikus ügyirat biztonságos kezelését, tartalmába való beavatko
 
 (4) A bv. intézet a büntető ügyiratok megismerésének biztosításáról – annak időpontja, időtartama megjelölésével – és az esetlegesen beavatkozást igénylő eseményekről jegyzőkönyvet készít. A jegyzőkönyvet a letartóztatott is aláírja és azt a visszaküldendő ügyiratokhoz kell csatolni.
 
-[^292]: Az 193. § a 14/2018. (VI. 15.) IM rendelet 17. §-ával megállapított szöveg.
+[^305]: Az 193. § a 14/2018. (VI. 15.) IM rendelet 17. §-ával megállapított szöveg.

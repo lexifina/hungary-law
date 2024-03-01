@@ -8,7 +8,7 @@
 
 a) az elítélt kockázatelemzését és értékelését,
 
-b) az elítélt rezsimbe sorolását és biztonsági kockázati besorolását, valamint a besorolás felülvizsgálatának eredményét, illetve azok megváltoztatását,
+b)[^107] az elítélt kategóriabesorolását és annak megváltoztatását,
 
 c) az elítélt egyéniesített fogvatartási programtervét és a reintegrációs tisztnek az elítélt előmenetelével kapcsolatos bejegyzéseit,
 
@@ -22,7 +22,7 @@ g) az elítélt által benyújtott kérelmekkel, panaszokkal és a jogorvoslatok
 
 h) az elítéltről készített értékelő véleményeket, előterjesztéseket és bv. bírói döntéseket,
 
-i) az elítélt társadalmi kötődés programban való részvételére és értékelésére vonatkozó adatokat,
+i)[^108] az elítélt sajátos kezelési igényű részlegre helyezésére és az onnan történő kihelyezésére vonatkozó adatokat,
 
 j) a szabadulásra való felkészítés érdekében tett intézkedéseket,
 
@@ -31,3 +31,6 @@ k) a reintegrációs őrizetre vonatkozó adatokat,
 l) a feltételes szabadságra vonatkozó adatokat.
 
 (4) Az egyéniesített fogvatartási programterv elkészítése során az elítéltet a bv. intézet támogatja a bűncselekmény elkövetéséhez vezető okok felismerésében, a bűncselekmény következményeinek és az okozott sérelmek tudatosításában, valamint a lehetséges helyreállítási-, jóvátételi cselekmények megtervezésében és kivitelezésében.
+
+[^107]: A 89. § (3) bekezdés b) pontja az 1/2024. (II. 29.) IM rendelet 22. § (1) bekezdésével megállapított szöveg.
+[^108]: A 89. § (3) bekezdés i) pontja az 1/2024. (II. 29.) IM rendelet 22. § (2) bekezdésével megállapított szöveg.

@@ -1,62 +1,18 @@
-41. § (1) A fogház végrehajtási fokozaton belül a szigorúbb rezsimbe sorolt elítélt
+## 20/D.[^62] A kategória és kreditrendszer alkalmazása szempontjából jelentős adatok rögzítése a fogvatartotti nyilvántartásban
 
-a) látogatót havonta egy alkalommal, kilencven perc időtartamban fogadhat,
+41. §[^63] (1) A kategória és kreditrendszer adatainak a nyilvántartása a fogvatartotti nyilvántartás része és az elítéltre vonatkozóan – a Bv. tv. 100. § (2) bekezdésében foglaltak figyelembevételével – a következő adatokat tartalmazza:
 
-b)[^65] kapcsolattartójával hetente negyven perc időtartamban telefonálhat,
+a) az elítélt kockázatelemzését, és ha készült, a kockázatértékelési jelentést,
 
-c) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 70%-os mértékig elköltheti,
+b) az elítélt jelenlegi kategóriabesorolását, továbbá minden korábbi kategória-előresorolást vagy -visszasorolást az időpont és a jogalap megjelölésével,
 
-d) kimaradása nem engedélyezhető,
+c) az elítélt által megszerzett kreditpontokat – ideértve a BFB által a méltányosság gyakorlásakor jóváírt kreditpontokat – és plusz kreditpontokat, valamint a levont kreditpontokat, az időpont megjelölésével, oly módon, hogy az adott szabadságvesztés végrehajtása során megszerzett összes kreditpontszám is feltüntetésre kerüljön,
 
-e) eltávozásra nem engedhető,
+d) több szabadságvesztés folyamatos végrehajtása esetén az egyes szabadságvesztések alatt megszerzett kreditpontok számát külön-külön,
 
-f) birtokában tartható tárgyak köre kizárólag az e rendeletben meghatározottakra terjedhet ki, továbbá a birtokában tartható tárgyak mennyisége csökkenthető.
+e) annak tényét, ha a BFB az összesítés felülvizsgálata vagy a büntetés-végrehajtási bíró a BFB határozatával szembeni felülvizsgálata alapján kreditpont került jóváírásra, kreditpontlevonás került mérséklésre vagy törlésre,
 
-g)[^66] telekommunikációs eszköz útján történő kapcsolattartása havonta két alkalommal, hatvan perc időtartamban engedhető.
+f) annak tényét, ha a végrehajtás alatt Bv. tv. 14. § (3) bekezdése alapján történő foganatba vétel vagy a Bv. tv. 93. § (3) bekezdése alapján újabb kezdeti kategóriabesorolásra került sor, vagy a 97. § (3) bekezdése alapján a kategória- előresorolás ütemezését újra kellett számítani az időpont megjelölésével úgy, hogy az addigi kreditpontszerzés és kreditpontlevonás is nyomon követhető maradjon.
 
-(2) A fogház végrehajtási fokozaton belül az általános rezsimbe sorolt elítélt
-
-a) látogatót havonta két alkalommal, alkalmanként kilencven perc időtartamban fogadhat,
-
-b)[^67] számára látogató bv. intézeten kívüli fogadása évente három alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
-
-c)[^68] kapcsolattartójával hetente hatvan perc időtartamban telefonálhat,
-
-d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 90%-os mértékig elköltheti,
-
-e) kimaradása évente két alkalommal, alkalmanként huszonnégy óra időtartamban engedélyezhető,
-
-f)[^69] eltávozásra évente összesen nyolc nap időtartamra engedhető,
-
-g) birtokában tartható tárgyak köre kizárólag az e rendeletben meghatározottakra terjedhet ki.
-
-h)[^70] telekommunikációs eszköz útján történő kapcsolattartása havonta három alkalommal, hatvan perc időtartamban engedhető.
-
-(3) A fogház végrehajtási fokozaton belül az enyhébb rezsimbe sorolt elítélt
-
-a) látogatót havonta két alkalommal, alkalmanként kilencven perc időtartamban, továbbá negyedévente további egy alkalommal kilencven percben fogadhat,
-
-b)[^71] számára látogató bv. intézeten kívüli fogadása évente öt alkalommal, alkalmanként legalább négy óra, legfeljebb nyolc óra időtartamban engedélyezhető,
-
-c)[^72] kapcsolattartójával hetente százhúsz perc időtartamban telefonálhat,
-
-d) a személyes szükségleteire fordítható összeget alkalmanként – a jogszabályban meghatározott levonásokat követően – 100%-os mértékig elköltheti,
-
-e) kimaradása évente négy alkalommal, alkalmanként huszonnégy óra időtartamban engedélyezhető,
-
-f)[^73] eltávozásra évente összesen tizenöt nap időtartamra engedhető,
-
-g) birtokában tartható tárgyak köre és mennyisége bővíthető.
-
-h)[^74] telekommunikációs eszköz útján történő kapcsolattartása havonta négy alkalommal, hatvan perc időtartamban engedhető.
-
-[^65]: A 41. § (1) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 19. §-ával megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 7. pontja szerint módosított szöveg.
-[^66]: A 41. § (1) bekezdés g) pontját az 1/2023. (I. 12.) IM rendelet 9. § (1) bekezdése iktatta be.
-[^67]: A 41. § (2) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^68]: A 41. § (2) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 8. pontja szerint módosított szöveg.
-[^69]: A 41. § (2) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^70]: A 41. § (2) bekezdés h) pontját a 20/2020. (XII. 30.) IM rendelet 83. § (1) bekezdése iktatta be, szövege az 1/2023. (I. 12.) IM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^71]: A 41. § (3) bekezdés b) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^72]: A 41. § (3) bekezdés c) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (1) bekezdésével megállapított, a 20/2020. (XII. 30.) IM rendelet 104. § 9. pontja szerint módosított szöveg.
-[^73]: A 41. § (3) bekezdés f) pontja a 24/2016. (XII. 23.) IM rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^74]: A 41. § (3) bekezdés h) pontját a 20/2020. (XII. 30.) IM rendelet 83. § (2) bekezdése iktatta be, szövege az 1/2023. (I. 12.) IM rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^62]: A 20/D. alcím címét az 1/2024. (II. 29.) IM rendelet 16. § (1) bekezdése iktatta be.
+[^63]: A 41. § az 1/2024. (II. 29.) IM rendelet 16. § (2) bekezdésével megállapított szöveg.

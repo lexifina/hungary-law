@@ -32,8 +32,10 @@ m) a dohányzással kapcsolatos rendelkezéseket,
 
 n) a többletszolgáltatások igénybevételére vonatkozó rendelkezéseket,
 
-o) a biztonsági zárkában vagy részlegen elhelyezett elítéltre vonatkozó végrehajtási szabályokat.
+o)[^65] a bv. intézetben működő sajátos kezelési igényű részlegek végrehajtási szabályait.
 
 (3) A házirendtől csak a bv. intézet parancsnokának engedélyével lehet eltérni.
 
 (4) Az elítéltet a házirend megszegésének következményeire figyelmeztetni kell.
+
+[^65]: A 44. § (2) bekezdés o) pontja az 1/2024. (II. 29.) IM rendelet 18. §-ával megállapított szöveg.

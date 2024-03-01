@@ -6,13 +6,14 @@ a) a lakóhelye szerint illetékes gyámhatóságot,
 
 b) a fiatalkorú szülőjét vagy más törvényes képviselőjét, gyámság esetén a gyámot,
 
-c)[^233] nevelésbe vett fiatalkorú esetén az illetékes területi gyermekvédelmi szakszolgálatot, továbbá
+c)[^237] nevelésbe vett fiatalkorú esetén az illetékes területi gyermekvédelmi szakszolgálatot, továbbá
 
-d)[^234] ha a bv. intézetnek tudomása van arról, hogy a fiatalkorúval szemben közérdekű munka vagy pártfogó felügyelet végrehajtása van folyamatban, a fiatalkorú lakcíme vagy tényleges tartózkodási helye szerint illetékes, pártfogó felügyelői feladatkörben eljáró vármegyei (fővárosi) kormányhivatalt.
+d)[^238] ha a bv. intézetnek tudomása van arról, hogy a fiatalkorúval szemben közérdekű munka vagy pártfogó felügyelet végrehajtása van folyamatban, a fiatalkorú lakcíme vagy tényleges tartózkodási helye szerint illetékes, pártfogó felügyelői feladatkörben eljáró vármegyei (fővárosi) kormányhivatalt.
 
-(2) A fiatalkorúak életrendjére, az elhelyezési részlegük belső rendjére, a bv. intézeten belüli mozgásukra vonatkozó előírásokat, továbbá a személyes szükségletekre fordítható összeget – a szabadságvesztés végrehajtási fokozatára figyelemmel – a jogszabályok keretei között a bv. intézet parancsnoka határozza meg. Ezen rendelkezések meghozatalánál figyelembe kell venni a korosztályoknak megfelelő sajátos szükségleteket, törekedni kell a fiatalkorút érhető káros hatások elkerülésére.
+(2)[^239] A fiatalkorúak életrendjére, az elhelyezési részlegük belső rendjére, a bv. intézeten belüli mozgásukra vonatkozó előírásokat, továbbá a személyes szükségletekre fordítható összeget – a kategória-besorolására figyelemmel – a jogszabályok keretei között a bv. intézet parancsnoka határozza meg. Ezen rendelkezések meghozatalánál figyelembe kell venni a korosztályoknak megfelelő sajátos szükségleteket, törekedni kell a fiatalkorút érhető káros hatások elkerülésére.
 
 (3) A fiatalkorúak öntevékeny szervezetei felügyelet mellett működhetnek.
 
-[^233]: A 149. § (1) bekezdés c) pontja a 33/2015. (XI. 6.) IM rendelet 21. § b) pontja szerint módosított szöveg.
-[^234]: A 149. § (1) bekezdés d) pontja 8/2015. (IV. 14.) IM rendelet 24. § a) pontja, a 14/2018. (VI. 15.) IM rendelet 19. § 44. pontja, a 35/2022. (XII. 27.) IM rendelet 3. § h) pontja szerint módosított szöveg.
+[^237]: A 149. § (1) bekezdés c) pontja a 33/2015. (XI. 6.) IM rendelet 21. § b) pontja szerint módosított szöveg.
+[^238]: A 149. § (1) bekezdés d) pontja 8/2015. (IV. 14.) IM rendelet 24. § a) pontja, a 14/2018. (VI. 15.) IM rendelet 19. § 44. pontja, a 35/2022. (XII. 27.) IM rendelet 3. § h) pontja szerint módosított szöveg.
+[^239]: A 149. § (2) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 22. pontja szerint módosított szöveg.

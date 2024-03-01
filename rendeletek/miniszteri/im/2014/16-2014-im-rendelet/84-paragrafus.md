@@ -1,4 +1,4 @@
-## 51.[^109] Az elítélt által térítési díj ellenében igénybe vehető többletszolgáltatások
+## 51.[^99] Az elítélt által térítési díj ellenében igénybe vehető többletszolgáltatások
 
 84. § (1) Az elítélt által térítési díj ellenében igénybe vehető többletszolgáltatásokat a 9. melléklet tartalmazza.
 
@@ -6,4 +6,4 @@
 
 (3) Nem számítható fel térítési díj az elítélt részére kézbesítendő hivatalos irat nyomtatásáért.
 
-[^109]: Az 51. alcímet (84. §) a 14/2018. (VI. 15.) IM rendelet 20. § b) pontja hatályon kívül helyezte, újonnan az 1/2023. (I. 12.) IM rendelet 10. §-a iktatta be.
+[^99]: Az 51. alcímet (84. §) a 14/2018. (VI. 15.) IM rendelet 20. § b) pontja hatályon kívül helyezte, újonnan az 1/2023. (I. 12.) IM rendelet 10. §-a iktatta be.

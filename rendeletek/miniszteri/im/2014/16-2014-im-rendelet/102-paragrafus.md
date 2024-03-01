@@ -1,4 +1,4 @@
-102. § (1) A látogatások számát, időpontját és a látogatás alkalmankénti időtartamát a rezsimszabályoknak megfelelően a bv. intézet parancsnoka határozza meg.
+102. § (1)[^129] A látogatások számát, időpontját és a látogatás alkalmankénti időtartamát a kategóriaszabályoknak megfelelően a bv. intézet parancsnoka határozza meg.
 
 (2) A látogatást az erre kijelölt helyiségben kell lebonyolítani.
 
@@ -15,3 +15,5 @@
 (8) Az elítélt kérelmére – kivételesen – a két bv. intézet parancsnokának együttes engedélyével a látogató lakóhelyéhez közelebbi bv. intézetbe szállítható a látogatás elősegítése érdekében.
 
 (9) A (7) és a (8) bekezdésben foglalt látogatás költségei az átszállított elítéltet terhelik, kivéve, ha az utazásra a bv. intézetek közötti heti rendszeres szállítás keretében kerül sor.
+
+[^129]: A 102. § (1) bekezdése az 1/2024. (II. 29.) IM rendelet 31. § 10. pontja szerint módosított szöveg.

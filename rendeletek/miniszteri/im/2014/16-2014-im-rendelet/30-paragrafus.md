@@ -1,6 +1,40 @@
-30. § (1) A Központi Kivizsgáló és Módszertani Intézetben (a továbbiakban: KKMI) az elítélteket a végrehajtási fokozatok szerint elkülönítetten kell elhelyezni, de az ott elhelyezett elítélt vonatkozásában a progresszív rezsimszabályokat nem kell alkalmazni.
+## 19/A.[^43] A kockázatelemzési vizsgálat és a kategóriabesorolás szempontrendszere
 
-(2) A KKMI a Bv. tv. 92. § (1) bekezdésében meghatározott feladatai végrehajtása során az alábbi vizsgálati eljárásokat alkalmazza:
+30. §[^44] (1) A kockázatelemzési vizsgálat során a Bv. tv. 92. § (2) bekezdésének alkalmazásában kiemelt jelentőségű körülmények különösen a következők:
+
+a) az elítélt által elkövetett bűncselekmény jellemzői közül az, hogy az ítélet alapjául szolgáló bűncselekmény – több szabadságvesztés folyamatos végrehajtása esetén a még végrehajtásra váró ítélettel elbírált bűncselekmény is – személy elleni erőszakos vagy kiemelt tárgyi súlyú-e, a visszaesői minőség, a bűnszervezetben vagy bűnszövetségben való elkövetés, korábbi elítélések során az elítélt hasonló cselekményeket követett-e el,
+
+b) a szabadságvesztés büntetés tartama, illetve annak hátralévő része és végrehajtási fokozata, több szabadságvesztés folyamatos végrehajtása esetén a még végrehajtásra váró össztartam, és az, hogy az elítélt egy-egy végrehajtási fokozatban mennyi időt tölt,
+
+c) az elítélt kriminológiai jellemzői körében az elítélt kriminális életútja, az elítélt kriminológiai értelemben vett visszaesése, a korábbi bűncselekményeinek jellege és az elítélt kriminalitásának kiterjedtsége, azaz az elítélt által elkövetett bűncselekmények által sértett egy vagy több jogtárgy jellemzői,
+
+d) az elítélt visszaesési és fogvatartási kockázata körében a (2) bekezdésben meghatározottak,
+
+e) az elítélt korábbi fogvatartása – ideértve a letartóztatás időszakát is – során tanúsított magatartása körében a jutalmazások és fenyítések aránya, fegyelemsértéseinek jellege, együttműködési hajlandósága,
+
+f) az elítélt kockázatelemzési vizsgálat során tanúsított magatartása körében a befogadás során tanúsított együttműködési hajlandósága, a befogadó részlegen eltöltött ideje alatt elkövetett fegyelemsértései, erőszakos cselekményei vagy jutalomszerzése.
+
+(2) A kockázatelemzési vizsgálat részeként a Bv. tv. 92. § (2) bekezdés d) pontjában meghatározott visszaesési és fogvatartási kockázat felmérését az alábbi kockázatcsoportokra nézve kell elvégezni:
+
+a) fogolyszökés és annak kísérlete,
+
+b) öngyilkosságra irányuló magatartás, önkárosítás,
+
+c) bármely személy elleni erőszakos cselekmény vagy annak kísérlete,
+
+d) a bűnözői, illetve a fogvatartotti szubkultúrában betöltött vezetői, szervezői, végrehajtói szerep, tevékenység,
+
+e) a bűnözői, illetve a fogvatartotti szubkultúrában és hierarchiában betöltött alacsony, kiszolgáltatott, veszélyeztetett szerep, sérülékenység,
+
+f) pszichoaktív szerrel való visszaélés,
+
+g) visszaesési kockázat.
+
+(3) A (2) bekezdésben meghatározott kockázatcsoportok felmérési eredményét külön-külön és összességében is értékelni kell, amelynek alapján meg kell állapítani az elítélt visszaesési és fogvatartási kockázati értékét, amely magas, közepes vagy alacsony lehet.
+
+(4) A kockázatelemzés részeként a reintegrációs célú programok kiválasztását elősegítő vizsgálat körében fel kell tárni az elítélt azon készségeit, szokásait, magatartását jellemző tényezőket, amelyek a sikeres társadalmi reintegrációja érdekében fejlesztésre szorulnak, és ez alapján azt is vizsgálni szükséges, hogy milyen programok segítenék az elítélt visszaesési kockázatának csökkentését és a reintegrációját, továbbá, hogy fennáll-e az elítélt sajátos kezelési igénye.
+
+(5) A kockázatelemzési vizsgálat során az alábbi vizsgálati eljárások alkalmazhatók:
 
 a) személyes interjúk,
 
@@ -10,18 +44,13 @@ c) pszichodiagnosztikai tesztek,
 
 d) egészségügyi vizsgálati módszerek.
 
-(3) Az (1) bekezdésben meghatározottak alkalmazásával a KKMI a kockázatértékelési összefoglaló jelentésben megállapítja az elítélt:
+(6) A kockázatelemzési vizsgálat során az elítéltről a fogvatartotti nyilvántartásban szereplő, korábbi fogvatartása során tanúsított magatartására, a jutalmazásra, az elkövetett fegyelemsértésekre és fenyítésekre, a vele szemben alkalmazott biztonsági intézkedésekre, együttműködési készségére, reintegrációs programokon való részvételére és motiváltságára vonatkozó adatok is felhasználhatók.
 
-a) a visszaesési és fogvatartási kockázatba sorolását,
+(7) Az elítélt kockázatelemzési vizsgálatának eredménye a kategóriabesorolás mellett a sajátos kezelési igényű részlegre helyezés, a reintegrációs programok és a biztonsági szükségletek aktuális meghatározását is megalapozza.
 
-b) a foglalkoztatásba, kiemelten a munkáltatásba, az oktatásba és képzésbe történő bevonásának lehetőségét,
+(8) Az elítélt köteles együttműködni a kockázatelemzési és reintegrációs célú programok kiválasztását elősegítő vizsgálat során.
 
-c) a visszaesési kockázatot csökkentő és a reintegrációját elősegítő programokat.
+(9) A Bv. tv. 14. § (3) bekezdésének alkalmazásával foganatba vett újabb szabadságvesztés esetén a kockázatelemzési vizsgálat ideje alatt, valamint a Bv. tv. 96. § (1) bekezdés l) pontja és 97/A. § (4) vagy (5) bekezdése alapján lefolytatott újabb kockázatelemzési vizsgálat ideje alatt a BFB ilyen irányú döntése alapján az elítélt megtartja a kategóriabesorolását, ennek hiányában a végrehajtás rendjére a Bv. tv. 92. § (5) bekezdését kell alkalmazni.
 
-(4) A (2) bekezdésben foglaltak figyelembevételével a KKMI javaslatot tesz az elítélt progresszív rezsimszabályok szerinti besorolására, a sajátos kezelési igényű elítélt számára kialakított részlegben történő elhelyezésére és a szabadságvesztést végrehajtó bv. intézet kijelölésére.
-
-(5) A KKMI a bv. intézet kijelölésére vonatkozó javaslatáról a vizsgálat befejezését követő három napon belül, de legkésőbb a kivizsgálás lefolytatására rendelkezésre álló időtartamig tájékoztatja a BVOP-nak a bv. intézet kijelölése tekintetében döntésre jogosult szervezeti egységét, és az elbírálást követően intézkedik az elítélt kijelölt bv. intézetbe történő szállítása iránt.
-
-(6) A bv. intézet soron kívül írásban tájékoztatja a KKMI parancsnokát a bv. intézetben működő részlegeket és reintegrációs programokat érintő változásokról.
-
-(7) A Bv. tv. 94. § (2) bekezdésében meghatározott tevékenysége során a KKMI külső szakértőket vonhat be, munkacsoportot hozhat létre és együttműködik a kapcsolódó tudományágak képviselőivel.
+[^43]: A 19/A. alcím címét az 1/2024. (II. 29.) IM rendelet 11. § (1) bekezdése iktatta be.
+[^44]: A 30. § az 1/2024. (II. 29.) IM rendelet 11. § (2) bekezdésével megállapított szöveg.

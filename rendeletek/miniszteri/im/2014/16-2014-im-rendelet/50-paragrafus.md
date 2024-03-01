@@ -1,24 +1,15 @@
-## 24. Az elítéltek biztonsági kockázatának elemzése és besorolása
+## 24.[^67] Az egyedi biztonsági előírás
 
-50. § (1) A Bv. tv. 97. § (5) bekezdésében meghatározott feladatok biztonságos végrehajtása érdekében minden elítélt esetében – a kockázatelemzés és értékelés részeként – el kell végezni a biztonsági kockázati besorolását, amely magas, közepes vagy alacsony szintű lehet. A kockázatelemzés során az elítéltről a fogvatartotti nyilvántartásban szereplő korábbi fogvatartása során megállapított biztonsági csoportba sorolására, az elkövetett fegyelemsértésekre és fenyítésekre vonatkozó adatok is felhasználhatók.
+50. § (1) A Bv. tv. 98. § (4) bekezdésében meghatározott feladatok biztonságos végrehajtása érdekében minden elítélt esetében
 
-(2) Magas szintű a biztonsági kockázata annak az elítéltnek, akinél az elkövetett bűncselekmény jellege, a kiszabott büntetés tartama, bűnszervezetben vagy a fogvatartotti szubkultúrában betöltött szerepe, a bv. intézet rendjéhez és biztonságához való viszonya, korábbi fogvatartása során tanúsított magatartása vagy más személyi körülménye alapján megalapozottan feltehető, hogy adott helyzetben a bv. intézet rendjét súlyosan sértő cselekményt, szökést, a saját vagy mások életét, testi épségét sértő vagy veszélyeztető magatartást tanúsítana, és így a biztonságos fogvatartása csak őrzéssel biztosítható.
+a) a kockázatelemzési vizsgálat részeként megállapított visszaesési és fogvatartási kockázati értéke és
 
-(3) Közepes szintű a biztonsági kockázata annak az elítéltnek, akinél megalapozottan feltehető, illetve magatartása alapján megállapítható, hogy a bv. intézet rendjével tudatosan szembe helyezkedik, az azzal kapcsolatos magatartási szabályokat megszegi, és így a biztonságos fogvatartása csak felügyelettel vagy őrzéssel biztosítható.
+b) az elítéltről a fogvatartotti nyilvántartásban szereplő korábbi fogvatartása során megállapított biztonsági csoportba sorolására, az elkövetett fegyelemsértésekre és fenyítésekre, a vele szemben alkalmazott biztonsági intézkedésekre vonatkozó adatok felhasználásával
 
-(4) Alacsony szintű a biztonsági kockázata annak az elítéltnek, aki a bv. intézet rendjét várhatóan betartja, szökésétől vagy más bűncselekmény elkövetésétől nem kell tartani, és így a biztonságos fogvatartása általában ellenőrzéssel is biztosítható.
+fel kell mérni a végrehajtás rendjét és a fogvatartás biztonságát veszélyeztető kockázati tényezőket, és meg kell vizsgálni azt, hogy a kategóriaszabályokon kívül szükséges-e egyedi biztonsági előírás meghatározása.
 
-(5)[^84] Az elítélt biztonsági kockázati besorolását a BFB
+(2) Az egyedi biztonsági előírás szükségességét hathavonta felül kell vizsgálni.
 
-a) az alacsony szintű biztonsági kockázati besorolású elítélt esetében legalább évente,
+(3) Az egyedi biztonsági előírást a biztonsági szakterület vezetője készíti elő, és a parancsnok hagyja jóvá. A hathavonta esedékes felülvizsgálatot a biztonsági szakterület vezetője végzi el, és ennek során a biztonsági előírás fenntartásáról, megváltoztatásáról vagy megszüntetéséről dönt, azzal, hogy a megszüntetéshez a parancsnok jóváhagyása szükséges.
 
-b) a közepes szintű biztonsági kockázati besorolású elítélt esetében legalább hathavonta,
-
-c) a magas szintű biztonsági kockázati besorolású elítélt esetében legalább háromhavonta
-
-felülvizsgálja.
-
-(6)[^85] A besorolás alapjául szolgáló körülmények változása esetén a BFB – halaszthatatlan esetben a bv. intézet parancsnoka – az elítélt biztonsági kockázati besorolását az (5) bekezdés szerinti határidőktől függetlenül is köteles megváltoztatni.
-
-[^84]: Az 50. § (5) bekezdését a 22/2017. (XII. 22.) IM rendelet 39. §-a iktatta be.
-[^85]: Az 50. § (6) bekezdését a 22/2017. (XII. 22.) IM rendelet 39. §-a iktatta be.
+[^67]: A 24. alcím (50. §) az 1/2024. (II. 29.) IM rendelet 19. §-ával megállapított szöveg.

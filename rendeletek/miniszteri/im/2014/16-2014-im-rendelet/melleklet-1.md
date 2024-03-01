@@ -26,7 +26,7 @@ Az elítélt birtokában tartható tárgyak
 
 1.11. toalettpapír,
 
-1.12.[^327] hajápolási eszközök (hajszárító legfeljebb 1200 W teljesítményig, hajsütővas, csavarók és csipeszek, hajháló, zuhanysapka),
+1.12.[^342] hajápolási eszközök (hajszárító legfeljebb 1200 W teljesítményig, hajsütővas, csavarók és csipeszek, hajháló, zuhanysapka),
 
 1.13. engedélyezett egyéb tisztasági felszerelések.
 
@@ -36,7 +36,7 @@ Az elítélt birtokában tartható tárgyak
 
 2.2. sportruházat,
 
-2.3.[^328] a letartóztatottnál és az elzárásra ítéltnél saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
+2.3.[^343] a letartóztatottnál és az elzárásra ítéltnél saját tulajdonú alsó- és felsőruházat, lábbeli és papucs.
 
 3. Élelmiszerek, étkezési eszközök:
 
@@ -54,7 +54,7 @@ Az elítélt birtokában tartható tárgyak
 
 3.7. palackfedél nyitó, konzervnyitó,
 
-3.8.[^329] az érintésvédelmi szabványnak megfelelő vízforraló 1000 W teljesítményig,
+3.8.[^344] az érintésvédelmi szabványnak megfelelő vízforraló 1000 W teljesítményig,
 
 3.9. pohár, bögre.
 
@@ -86,7 +86,7 @@ Az elítélt birtokában tartható tárgyak
 
 6.1. elemmel működtethető zsebrádió, fülhallgató,
 
-6.2.[^330] engedéllyel legfeljebb 40“–43“ (100–109 cm) képátló méretű televízió készülék,
+6.2.[^345] engedéllyel legfeljebb 40“–43“ (100–109 cm) képátló méretű televízió készülék,
 
 6.3. karóra,
 
@@ -104,7 +104,7 @@ Az elítélt birtokában tartható tárgyak
 
 8. A bv. orvos által engedélyezett gyógyszerek, gyógyászati- vagy orvosi segédeszközök, vitaminok és tápszerek.
 
-[^327]: Az 1. melléklet 1.12. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.
-[^328]: Az 1. melléklet 2.3. pontja a 14/2018. (VI. 15.) IM rendelet 19. § 65. pontja szerint módosított szöveg.
-[^329]: Az 1. melléklet 3.8. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.
-[^330]: Az 1. melléklet 6.2. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.
+[^342]: Az 1. melléklet 1.12. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.
+[^343]: Az 1. melléklet 2.3. pontja a 14/2018. (VI. 15.) IM rendelet 19. § 65. pontja szerint módosított szöveg.
+[^344]: Az 1. melléklet 3.8. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.
+[^345]: Az 1. melléklet 6.2. pontja a 20/2020. (XII. 30.) IM rendelet 103. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
-## 35. § Általános rezsimbe kell sorolni az elítéltet, ha
+35. §[^53] (1) A szabadságvesztés során az azonos kategóriába sorolt elítélteket lehetőség szerint együttesen kell elhelyezni.
 
-a) a fogvatartás rendjét és biztonságát nem veszélyezteti, vagy
+(2) A megőrzés időtartama alatt az elítélt megtartja a kategóriabesorolását, és ennek megfelelően kell elhelyezni.
 
-b) a részére meghatározott egyéniesített fogvatartási programtervben foglaltak megtartása, abban való együttműködése fejlesztésre szorul.
+[^53]: A 35. § az 1/2024. (II. 29.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
