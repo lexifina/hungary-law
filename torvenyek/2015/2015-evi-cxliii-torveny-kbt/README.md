@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2024-01-01 | 2023. évi LX. törvény | 2015-143-00-00.63 |
 | 2024-02-01 | 2023. évi CXVII. törvény | 2015-143-00-00.67 |
 | 2024-02-21 | 2023. évi CXVII. törvény | 2015-143-00-00.68 |
+| 2024-03-01 | 2023. évi CIX. törvény | 2015-143-00-00.65 |
