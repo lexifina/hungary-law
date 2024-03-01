@@ -14,9 +14,9 @@ d) kábítószert nem orvosi rendelvény alapján intravénásan alkalmazó szem
 
 e)[^10] a kötelező szűrővizsgálat elvégzését indokolttá nem tevő bűncselekmény elkövetése miatt büntetés-végrehajtási intézetben, illetve rendőrségi fogdában előzetes letartóztatásban lévő, illetve szabadságvesztés vagy elzárás büntetésüket, szabálysértési elzárásukat, valamint javítóintézeti nevelésüket töltő személyek,
 
-f)[^11] a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti őrzött szálláson elhelyezett személyek.
+f)[^11] a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti őrzött szálláson elhelyezett személyek.
 
 (4) A mesterséges megtermékenyítés céljára donortól vett sperma, illetőleg reprodukciós eljárás céljából más testébe történő beültetéshez emberi embrió csak akkor használható fel, ha a donor a sperma adományozásakor és ismételten az azt követő 6 hónap elteltével, illetőleg az adományozott embriót létrehozó személyek mindegyike az embrió beültetését megelőzően két alkalommal, 6 hónapos időközzel aláveti magát a szűrővizsgálatnak és mindkét vizsgálat negatív eredménnyel zárul.
 
 [^10]: A 9. § (3) bekezdés e) pontja a 68/2013. (XI. 15.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^11]: A 9. § (3) bekezdés f) pontját a 68/2013. (XI. 15.) EMMI rendelet 8. §-a iktatta be.
+[^11]: A 9. § (3) bekezdés f) pontját a 68/2013. (XI. 15.) EMMI rendelet 8. §-a iktatta be, szövege a 13/2024. (II. 29.) BM rendelet 3. §-a szerint módosított szöveg.
