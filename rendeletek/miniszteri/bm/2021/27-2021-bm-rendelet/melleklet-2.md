@@ -1,4 +1,4 @@
-2. melléklet a 27/2021. (VIII. 9.) BM rendelethez[^6]
+2. melléklet a 27/2021. (VIII. 9.) BM rendelethez[^7]
 
 1. Az egészségügyi szakdolgozói pótlék mértéke a hivatásos állomány tagja esetében
 
@@ -14,18 +14,19 @@
 
 | 5 | 40– | 250% | 300% | 400% |
 
-2. Az egészségügyi szakdolgozói pótlék mértéke a rendvédelmi igazgatási alkalmazott esetében
+2.[^8] Az egészségügyi szakdolgozói pótlék mértéke a rendvédelmi igazgatási alkalmazott esetében
 
 |  | A | B | C | D |
 
-| 1. | Gyakorlati idő (év) | Középfokú végzettséghez kötött munkakör | Emeltszintű szakmai végzettséghez kötött munkakör | Felsőfokú végzettséghez kötött munkakör |
+| 1. | Gyakorlati idő (év) | Középfokú végzettséghez kötött munkakör | Emelt szintű szakmai végzettséghez kötött munkakör | Felsőfokú végzettséghez kötött munkakör |
 
-| 2. | 0–12 | 300% | 325% | 350% |
+| 2. | 0–12 | 500% | 600% | 625% |
 
-| 3. | 13–24 | 325% | 350% | 400% |
+| 3. | 13–24 | 525% | 625% | 675% |
 
-| 4. | 25–39 | 350% | 400% | 450% |
+| 4. | 25–39 | 550% | 675% | 725% |
 
-| 5. | 40– | 400% | 450% | 550% |
+| 5. | 40– | 600% | 725% | 825% |
 
-[^6]: A 2. melléklet a 19/2023. (VI. 26.) BM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 2. melléklet a 19/2023. (VI. 26.) BM rendelet 3. §-ával megállapított szöveg.
+[^8]: A 2. melléklet 2. pontjában foglalt táblázat a 14/2024. (II. 29.) BM rendelet 4. §-ával megállapított szöveg.

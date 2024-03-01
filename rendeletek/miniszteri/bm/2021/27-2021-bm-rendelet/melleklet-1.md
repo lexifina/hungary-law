@@ -46,7 +46,7 @@ Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztások �
 
 1.21. gyógymasszőr
 
-1.22.[^5]
+1.22.[^6]
 
 2. Szakdolgozói munkakörök
 
@@ -88,4 +88,4 @@ Az egészségügyi szakdolgozói pótlékra jogosító szolgálati beosztások �
 
 2.19. gyógymasszőr
 
-[^5]: Az 1. melléklet 1. pont 1.22. alpontját a 14/2023. (VI. 30.) MK rendelet 7. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^6]: Az 1. melléklet 1. pont 1.22. alpontját a 14/2023. (VI. 30.) MK rendelet 7. § a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 6. §-át.
