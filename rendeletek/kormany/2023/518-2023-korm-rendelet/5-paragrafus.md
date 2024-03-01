@@ -44,7 +44,7 @@ b) olyan ikerház, sorház vagy láncház, amelyben a kölcsönnel érintett lak
 
 3. első közös lakásszerzők: azok a házastársak, akik a lakás építésére vagy vásárlására irányuló kölcsönkérelmük benyújtásakor vagy azt megelőzően Magyarország területén nem rendelkeztek ugyanabban a lakásban mindketten tulajdonjoggal, és erről nyilatkozatot tesznek;
 
-4. életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+4.[^1] életvitelszerű bentlakás: a kölcsönnel érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
 5. házaspár: házastársak, akik közül a feleség a kölcsön iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
 
@@ -109,3 +109,5 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 14. ügyleti kamat: a kölcsön szerződésszerű törlesztése során a hitelező által érvényesített, a kölcsönösszeg éves százalékos mértékében meghatározott ellenszolgáltatás.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, az OTÉK-ban, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVII. törvényben meghatározottak szerint kell értelmezni.
+
+[^1]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 347. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-63. §[^5]
+63. §[^9]
 
-[^5]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

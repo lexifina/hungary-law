@@ -6,7 +6,7 @@
 
 3. a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-4. a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
+4.[^4] a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,
 
 5. a saját adóazonosító jelüket adóigazolvánnyal, ideiglenes adóigazolvánnyal vagy az adóazonosító jel igazolására szolgáló hatósági bizonyítvánnyal,
 
@@ -87,3 +87,5 @@ ic) bírósági határozattal,
 j) a gyámság vagy gondnokság fennállását és a törvényes képviseletre való jogosultságot a gyámhatóság által kiállított tanúsítvánnyal.
 
 (8) A 6. § (7) bekezdése szerinti esetben az abban foglaltakat, valamint a 15. § (5) bekezdés d) pont df) és dg) alpontja, a 19. § (4) bekezdése, a 24. § (1) bekezdés b)–d) pontja, valamint a 31. § (1) és (2) bekezdése szerinti tényeket a hitelintézet a 8. § (1) bekezdése szerinti helyszíni szemle útján ellenőrzi.
+
+[^4]: A 28. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 346. §-ával megállapított szöveg.
