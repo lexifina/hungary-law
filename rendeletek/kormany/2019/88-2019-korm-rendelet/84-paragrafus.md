@@ -14,9 +14,9 @@ c) az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú t�
 
 d) a használt lakás vásárlásához, bővítéséhez igényelhető családi otthonteremtési kedvezményről szóló 17/2016. (II. 10.) Korm. rendelet
 
-e)[^27] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
+e)[^28] a kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet, valamint
 
-f)[^28] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
+f)[^29] a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet
 
 szerinti kölcsön minősül.
 
@@ -30,5 +30,5 @@ b) a Kit. 149. § (3) bekezdés e) pontja szerinti, a hitelfelvevő, illetve a v
 
 alapján.
 
-[^27]: A 84. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
-[^28]: A 84. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^28]: A 84. § (1) bekezdés e) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
+[^29]: A 84. § (1) bekezdés f) pontját az 518/2023. (XI. 30.) Korm. rendelet 63. § (1) bekezdése iktatta be.
