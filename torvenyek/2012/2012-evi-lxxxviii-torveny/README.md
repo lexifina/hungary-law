@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-88-00-00
 | 2022-12-27 | 2022. évi LXI. törvény | 2012-88-00-00.12 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2012-88-00-00.11 |
 | 2023-06-25 | 2023. évi XX. törvény | 2012-88-00-00.14 |
+| 2024-03-01 | 2023. évi XCVI. törvény | 2012-88-00-00.15 |

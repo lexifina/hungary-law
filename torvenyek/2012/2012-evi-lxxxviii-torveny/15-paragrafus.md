@@ -60,7 +60,7 @@ h) bírságot kiszabni.
 
 (11) A (9) és (10) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatóak.
 
-(12) A (9) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
+(12) A (9) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a piacfelügyeleti hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő gazdasági szereplőt, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
 (13) A piacfelügyeleti hatóság minden esetben ellenőrzi a gazdasági szereplők által végrehajtandó korrekciós intézkedések megtételét.
 
