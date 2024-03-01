@@ -69,3 +69,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-36-00-00
 | 2023-07-07 | 2023. évi LIII. törvény | 2012-36-00-00.63 |
 | 2023-12-22 | 2023. évi LXXXVIII. törvény | 2012-36-00-00.65 |
 | 2024-01-01 | 2023. évi LII. törvény | 2012-36-00-00.64 |
+| 2024-03-01 | 2023. évi CIX. törvény | 2012-36-00-00.66 |
