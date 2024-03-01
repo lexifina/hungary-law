@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-4-20-22
 | 2013-03-14 | 1995-4-20-22.8 | 76/2013. (III. 13.) Korm. rendelet |
 | 2016-07-23 | 1995-4-20-22.9 | 76/2013. (III. 13.) Korm. rendelet |
 | 2018-01-01 | 1995-4-20-22.10 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2024-03-01 | 1995-4-20-22.11 | 76/2013. (III. 13.) Korm. rendelet |
