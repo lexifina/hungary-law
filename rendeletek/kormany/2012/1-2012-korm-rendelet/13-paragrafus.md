@@ -1,14 +1,14 @@
 ## 7. A hallgatói hitelszerződés alapján történő folyósítás
 
-13. § (1)[^46] A hallgatói hitelszerződés alapján a hallgatói hitel folyósítása – tekintettel az 5. § (3) bekezdésében foglaltakra is – a folyósítás időszakában havonta részletekben, vagy tanulmányi félévenként egy összegben, az üzletszabályzatban meghatározottak szerint történik.
+13. § (1)[^47] A hallgatói hitelszerződés alapján a hallgatói hitel folyósítása – tekintettel az 5. § (3) bekezdésében foglaltakra is – a folyósítás időszakában havonta részletekben, vagy tanulmányi félévenként egy összegben, az üzletszabályzatban meghatározottak szerint történik.
 
 (2) A Diákhitel szervezet a hallgatói hitelt forintban utalja az alábbiak szerint:
 
-a)[^47] a szabad felhasználású hitelt a hitelfelvevő rendelkezése szerinti megosztásban, a hitelfelvevőnek a Diákhitel szervezet által lefolytatott nyílt pályázati eljárás keretében kiválasztott pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja,
+a)[^48] a szabad felhasználású hitelt a hitelfelvevő rendelkezése szerinti megosztásban, a hitelfelvevőnek a Diákhitel szervezet által lefolytatott nyílt pályázati eljárás keretében kiválasztott pénzforgalmi szolgáltatónál vezetett fizetési számlájára utalja,
 
 b) a kötött felhasználású hitelt az 5. § (3) bekezdésében foglaltak alapján közvetlenül a felsőoktatási intézmény számára utalja. Amennyiben az igényelt kötött felhasználású hitelt jogszerűen folyósították, de a hallgatói jogviszony bármely ok miatt mégsem jött létre, a felsőoktatási intézmény a Diákhitel szervezet által az adott tanulmányi félévre folyósított kötött felhasználású hitelt a Diákhitel szervezet részére haladéktalanul visszautalja. Amennyiben az igényelt kötött felhasználású hitelt a Diákhitel szervezet jogszerűen folyósította, de a hallgató a hallgatói jogviszonyból eredő kötelezettségeinek szülés, továbbá baleset, betegség, vagy önhibáján kívüli egyéb okból nem tud eleget tenni és emiatt hallgatói jogviszonyát kénytelen a tanulmányi félév során megszakítani a felsőoktatási intézmény a hallgatói jogviszony az ilyen okból történő szüneteltetésének engedélyezését követően a Diákhitel szervezet által az adott tanulmányi félévre folyósított kötött felhasználású hitelt a Diákhitel szervezet részére haladéktalanul visszautalja. A visszautalt összegeket a Diákhitel szervezet előtörlesztésként számolja el.
 
-(3)[^48] A Diákhitel szervezet a folyósítási feltételek fennállásának ellenőrzése céljából jogosult a hitelfelvevő képzését folytató felsőoktatási intézménnyel, valamint az Onytv. alapján a felsőoktatási információs rendszerrel adategyeztetést lefolytatni.
+(3)[^49] A Diákhitel szervezet a folyósítási feltételek fennállásának ellenőrzése céljából jogosult a hitelfelvevő képzését folytató felsőoktatási intézménnyel, valamint az Onytv. alapján a felsőoktatási információs rendszerrel adategyeztetést lefolytatni.
 
 (4) A Diákhitel szervezet és a felsőoktatási intézmény között egyeztetendő adatok:
 
@@ -24,26 +24,26 @@ e) a hallgató által fizetendő önköltségi, költségtérítési díj össze
 
 f) a hallgató adóazonosító jele,
 
-g)[^49] a hallgató abszolutóriumának záró időpontja,
+g)[^50] a hallgató abszolutóriumának záró időpontja,
 
-h)[^50]
+h)[^51]
 
-(5)[^51] A hallgatói hitel folyósításának jogszerűsége és jogszerű igénybevétele érdekében a Diákhitel szervezet a felsőoktatási információs rendszerből a hallgatói hitelszerződés alapján a hallgatói hitel folyósítását kérelmező hallgatóról személyazonosító és tanulmányi adatokat szerezhet be. Az adatszolgáltatásra az Onytv.-ben meghatározott adatkörben, elektronikus adatkapcsolat útján kerül sor a hitelfelvevő hallgatói hitelre való jogosultsága megszűnéséig oly módon, hogy a felsőoktatási információs rendszer ezen adatokról, illetve ezen adatok módosulásáról automatikusan tájékoztatja a Diákhitel szervezetet.
+(5)[^52] A hallgatói hitel folyósításának jogszerűsége és jogszerű igénybevétele érdekében a Diákhitel szervezet a felsőoktatási információs rendszerből a hallgatói hitelszerződés alapján a hallgatói hitel folyósítását kérelmező hallgatóról személyazonosító és tanulmányi adatokat szerezhet be. Az adatszolgáltatásra az Onytv.-ben meghatározott adatkörben, elektronikus adatkapcsolat útján kerül sor a hitelfelvevő hallgatói hitelre való jogosultsága megszűnéséig oly módon, hogy a felsőoktatási információs rendszer ezen adatokról, illetve ezen adatok módosulásáról automatikusan tájékoztatja a Diákhitel szervezetet.
 
 (6) A Diákhitel szervezet a hitelfelvevő hallgatói hitel folyósítására vonatkozó jogosultságának – (3) vagy (5) bekezdésben foglaltak szerinti – ellenőrzését követően az üzletszabályzatában rögzített feltételek szerint, visszamenőlegesen a tanulmányi félév kezdetére megkezdi, illetve folytatja a hallgatói hitel folyósítását.
 
-(6a)[^52] Ha a hitelfelvevőnek a felsőoktatási információs rendszer adatszolgáltatása alapján a hiteligényléskor megjelölttől eltérő képzésben vagy eltérő felsőoktatási intézménnyel áll fenn hallgatói jogviszonya, vagy ha a hitelfelvevő új hallgatói jogviszonyt létesít, a jogosultság egyéb feltételeinek fennállása esetén a Diákhitel szervezet a szabad felhasználású hitelt a hitelfelvevő eltérő kérelme hiányában az adatszolgáltatás alapján folyósítja.
+(6a)[^53] Ha a hitelfelvevőnek a felsőoktatási információs rendszer adatszolgáltatása alapján a hiteligényléskor megjelölttől eltérő képzésben vagy eltérő felsőoktatási intézménnyel áll fenn hallgatói jogviszonya, vagy ha a hitelfelvevő új hallgatói jogviszonyt létesít, a jogosultság egyéb feltételeinek fennállása esetén a Diákhitel szervezet a szabad felhasználású hitelt a hitelfelvevő eltérő kérelme hiányában az adatszolgáltatás alapján folyósítja.
 
-(7)[^53] A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti.
+(7)[^54] A hitelfelvevő a hallgatói hitel folyósításának szüneteltetését és újraindítását a Diákhitel szervezettől bármikor írásban vagy a Diákhitel szervezet erre rendszeresített elektronikus felületén kérheti.
 
-(8)[^54]
+(8)[^55]
 
-[^46]: A 13. § (1) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^47]: A 13. § (2) bekezdés a) pontja a 435/2022. (XI. 2.) Korm. rendelet - az 51/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított - 2. §-ával megállapított szöveg.
-[^48]: A 13. § (3) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^49]: A 13. § (4) bekezdés g) pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^50]: A 13. § (4) bekezdés h) pontja a 224/2012. (VIII. 15.) Korm. rendelet 14. § b) pontja alapján nem lép hatályba.
-[^51]: A 13. § (5) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^52]: A 13. § (6a) bekezdését a 156/2021. (III. 29.) Korm. rendelet 4. § (5) bekezdése iktatta be.
-[^53]: A 13. § (7) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
-[^54]: A 13. § (8) bekezdését a 156/2021. (III. 29.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^47]: A 13. § (1) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^48]: A 13. § (2) bekezdés a) pontja a 435/2022. (XI. 2.) Korm. rendelet - az 51/2023. (II. 23.) Korm. rendelet 1. §-a szerint módosított - 2. §-ával megállapított szöveg.
+[^49]: A 13. § (3) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^50]: A 13. § (4) bekezdés g) pontja a 224/2012. (VIII. 15.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
+[^51]: A 13. § (4) bekezdés h) pontja a 224/2012. (VIII. 15.) Korm. rendelet 14. § b) pontja alapján nem lép hatályba.
+[^52]: A 13. § (5) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^53]: A 13. § (6a) bekezdését a 156/2021. (III. 29.) Korm. rendelet 4. § (5) bekezdése iktatta be.
+[^54]: A 13. § (7) bekezdése a 156/2021. (III. 29.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^55]: A 13. § (8) bekezdését a 156/2021. (III. 29.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
