@@ -1,9 +1,0 @@
-4. § (1)[^7] Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél az e rendeletben meghatározott mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni. A visszatérítést hivatalból a többletbefizetés megállapítását követően haladéktalanul, de legfeljebb 8 napon belül, amennyiben pedig a többletbefizetést a kérelmező jelzi a kormányhivatalnak, a visszatérítésre vonatkozó kérelem beérkezését követően haladéktalanul, de legfeljebb 8 napon belül kell elrendelni, és a visszatérítés teljesítése iránt a visszatérítés elrendelését követő 30 napon belül intézkedni kell.
-
-(2)[^8] A jogorvoslati eljárásban megfizetett díjat az ügyfélnek vissza kell téríteni, ha a közigazgatási hatóság vagy a bíróság által felülvizsgált döntés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult. A visszatérítést 8 napon belül hivatalból kell elrendelni, és annak teljesítéséről 30 napon belül intézkedni kell.
-
-(3)[^9] Ha megfizetett igazgatási szolgáltatási díj – részleges vagy teljes – visszatérítése válik szükségessé, a kormányhivatal a vonatkozó bizonylatot megküldi az ügyfélnek és egyidejűleg felhívja annak a bankszámlaszámnak a megadására, melyre az ügyfél a visszatérítést kéri. Ha az ügyfél bankszámlaszámot nem ad meg, a visszatérítés készpénz-átutalási megbízással történik.
-
-[^7]: A 4. § (1) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (39) bekezdése, a 8/2023. (II. 15.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^8]: A 4. § (2) bekezdése az 1/2011. (I. 11.) VM rendelet 1. § (39) bekezdése szerint módosított szöveg. E módosító rendelet 3. §-a alapján a 2011. január 14-ét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^9]: A 4. § (3) bekezdése a 8/2023. (II. 15.) AM rendelet 1. § a) pontja szerint módosított szöveg.
