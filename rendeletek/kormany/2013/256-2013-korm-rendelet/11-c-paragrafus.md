@@ -1,3 +1,3 @@
-11/C. §[^57]
+11/C. §[^74]
 
-[^57]: A 11/C. §-t a 461/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.
+[^74]: A 11/C. §-t a 461/2016. (XII. 23.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja.

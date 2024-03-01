@@ -442,7 +442,7 @@
 
 | 221. | Törökszentmiklós Városi Önkormányzat Egyesített Gyógyító – Megelőző Intézet | Törökszentmiklós |
 
-| 222. | Tüdőgyógyintézet Törökbálint | Törökbálint |
+| 222. | Református Pulmonológiai Centrum | Törökbálint |
 
 | 223. | Újpesti Egészségügyi Szolgáltató Nonprofit Kft. | Budapest |
 
@@ -574,7 +574,7 @@
 
 | 287. | Nyíregyházi Szociális Gondozási és Egészségügyi Alapellátási Központ | Nyíregyháza |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^116]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^133]
 
 Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
 
@@ -654,4 +654,4 @@ kötött; valamint
 
 10. „J” fizetési osztályba kell sorolni a 8. MKKR szintű végzettséggel betölthető munkakört, amelynek ellátásához egyetemi (MSc) végzettségre és tudományos fokozatra van szükség.
 
-[^116]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^133]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.

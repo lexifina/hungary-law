@@ -1,4 +1,4 @@
-## 2/B. §[^12] Az Eszjtv. hatálya alá nem tartozó, azonban az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
+## 2/B. §[^16] Az Eszjtv. hatálya alá nem tartozó, azonban az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó
 
 a) orvos, szakorvos, fogorvos, szakfogorvos havi alapbére (garantált illetménye) nem lehet kevesebb, mint a 4. melléklet szerinti,
 
@@ -12,4 +12,4 @@ e) az 1. melléklet szerinti munkakörben foglalkoztatott, egyéb, nem egészsé
 
 összeg.
 
-[^12]: A 2/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^16]: A 2/B. §-t a 359/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be, szövege az 529/2020. (XI. 28.) Korm. rendelet 8. §-ával megállapított szöveg.

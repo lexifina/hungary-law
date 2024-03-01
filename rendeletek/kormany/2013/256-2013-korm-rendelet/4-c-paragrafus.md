@@ -1,3 +1,3 @@
-4/C. §[^39]
+4/C. §[^56]
 
-[^39]: A 4/C. §-t a 2/2018. (II. 1.) Korm. rendelet 2. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
+[^56]: A 4/C. §-t a 2/2018. (II. 1.) Korm. rendelet 2. §-a iktatta be, a 757/2021. (XII. 22.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.

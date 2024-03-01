@@ -1,3 +1,3 @@
-11. §[^54]
+11. §[^71]
 
-[^54]: A 11. §-t az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
+[^71]: A 11. §-t az 529/2020. (XI. 28.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-21. §[^93]
+21. §[^110]
 
-[^93]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^110]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

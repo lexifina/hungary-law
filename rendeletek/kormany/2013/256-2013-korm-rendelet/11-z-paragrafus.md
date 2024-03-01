@@ -1,4 +1,4 @@
-11/Z. §[^82] (1) A 2. mellékletben foglalt táblázat A:286 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. március 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2023. július 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
+11/Z. §[^99] (1) A 2. mellékletben foglalt táblázat A:286 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. március 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2023. július 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
 (2) A 2. mellékletben foglalt táblázat A:287 mezőjében meghatározott egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, 2024. március 1. napján jogviszonyban álló foglalkoztatottja az illetmény- vagy bérnövelésre 2023. szeptember 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának kezdő időpontjától jogosult.
 
@@ -8,4 +8,4 @@
 
 (5) Az (1) és (2) bekezdés szerinti munkáltató bértámogatási igényének kérelmére a 4. § rendelkezéseit kell megfelelően alkalmazni.
 
-[^82]: A 11/Z. §-t a 663/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^99]: A 11/Z. §-t a 663/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
