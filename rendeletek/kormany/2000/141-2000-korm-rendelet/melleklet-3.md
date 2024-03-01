@@ -26,7 +26,7 @@
 
 ## 1.2.6 Társadalombiztosítási Azonosító Jele
 
-## 1.2.7 állampolgársága (bevándorolt, letelepedett vagy menekült jogállása);
+## 1.2.7 állampolgársága (huzamos tartózkodási jogosultsága vagy menekült jogállása);
 
 ## 1.3 arra vonatkozó adat, hogy a kérelmező gondnokság alatt áll-e, valamint a gondnokának neve és lakcíme;
 
