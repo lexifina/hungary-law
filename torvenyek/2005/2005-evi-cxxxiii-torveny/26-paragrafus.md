@@ -10,7 +10,7 @@ d) a jogsértő személyt magatartása abbahagyására felhívni;
 
 e) elektronikai vagyonvédelmi rendszert alkalmazni;
 
-f) a területre belépők ellenőrzésére fegyver-, illetve robbanóanyag-kutató műszert alkalmazni és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
+f) a területre belépők ellenőrzésére fegyver-, pirotechnikai eszköz-, és robbanóanyag-kutató műszert, valamint kábítószer-kereső kutyát alkalmazni, és a közbiztonságra különösen veszélyes eszközök bevitelét megtiltani.
 
 (2) A vagyonőr a szerződésben megjelölt ingóságot – a szerződés keretei között – az őrzött területen (létesítményen) kívül is védheti, ennek során az (1) bekezdésben meghatározott jogok illetik meg, kivéve, hogy elektronikus megfigyelőrendszert közterületen ilyenkor sem alkalmazhat.
 

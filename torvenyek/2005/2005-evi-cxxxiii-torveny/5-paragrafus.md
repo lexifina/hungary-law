@@ -17,3 +17,5 @@ a) az egyéni vállalkozónak, aki, vagy annak az egyéni cégnek, illetve gazda
 b) az egyéni vállalkozónak, akivel, vagy annak az egyéni cégnek, illetve gazdasági társaságnak, amelynek természetes személy tagja, tulajdonosa olyan vállalkozásnak volt tagja vagy tulajdonosa, amellyel szemben a rendőrség két éven belül felügyeleti bírságot szabott ki, és azt nem fizették meg, és
 
 c) a jogi személyiséggel rendelkező gazdasági társaságnak, amelyet jogerős ügydöntő határozat a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvényben foglaltak szerint a személy- és vagyonvédelmi tevékenység gyakorlásától eltiltott.
+
+(5) A rendőrség tanúsítványt ad ki a rendezvény-, illetve létesítménybiztosítás során a rendezvény helyszínére, létesítménybe, vagy egyéb zárt területre belépő személyekre, illetve az általuk birtokolt dolgokra kiterjedő robbanóanyag, pirotechnikai termék, kábítószer, illetve egyéb tiltott tárgy kiszűrését célzó, az általános személy- és vagyonvédelmi tevékenységhez képest magasabb biztonsági szintű ellenőrzést biztosító vállalkozásnak.
