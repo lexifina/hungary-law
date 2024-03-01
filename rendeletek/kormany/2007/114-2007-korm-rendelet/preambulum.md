@@ -1,1 +1,0 @@
-A Kormány a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény (a továbbiakban: Tv.) 111. § (1) bekezdés a)–c), valamint e)–q) pontjaiban kapott felhatalmazás alapján a következőket rendeli el:
