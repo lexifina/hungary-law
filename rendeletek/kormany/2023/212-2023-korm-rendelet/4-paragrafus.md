@@ -1,25 +1,23 @@
 4. § Az R2.
 
-a)[^15]
+a)[^13]
 
-b)[^16]
+b)[^14]
 
-c)[^17]
+c) 39. § (6) bekezdésében a „három” szövegrészek helyébe a „négy” szöveg,
 
-d)[^18]
+d) 39. § (9) bekezdésében a „meghosszabbított hatály lejártáig sem” szövegrész helyébe a „határozat hatályának lejártáig nem” szöveg,
 
-e)[^19]
+e)[^15]
 
-f)[^20]
+f)[^16]
 
-g)[^21]
+g)[^17]
 
 lép.
 
-[^15]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 4. § c) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^18]: A 4. § d) pontja a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^19]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 4. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 4. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 4. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 4. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 4. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

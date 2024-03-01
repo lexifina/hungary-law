@@ -6,33 +6,37 @@
 
 (3)[^5]
 
-(4)[^6]
+(4) Az R2. 39. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-(5)[^7]
+„(8) Ha a határozat hatályvesztésekor folyamatban van az örökbefogadási eljárás, annak végleges döntéssel történő befejezéséig a határozat hatálya meghosszabbodik.”
 
-(6)[^8]
+(5)[^6]
 
-(7)[^9]
+(6)[^7]
 
-(8)[^10]
+(7)[^8]
 
-(9)[^11]
+(8)[^9]
 
-(10)[^12]
+(9)[^10]
 
-(11)[^13]
+(10)[^11]
 
-(12)[^14]
+(11)[^12]
+
+(12) Az R2. XXIV. Fejezet „Átmeneti rendelkezések” alcíme a következő 199/F. §-sal egészül ki:
+
+„199/F. § (1) A családok ügyintézésének egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 212/2023. (VI. 1.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 39. § (6), (8) és (9) bekezdését a 2024. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+
+(2) A 2024. március 1-jén érvényes alkalmassági határozattal rendelkező örökbe fogadni szándékozók – a határozat hatályának meghosszabbítás helyett – az örökbefogadásra való alkalmasságuk négy évre történő ismételt megállapítását kérhetik.”
 
 [^3]: A 3. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 3. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 3. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 3. § (4) bekezdése a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
-[^7]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 3. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 3. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 3. § (8) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 3. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 3. § (10) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 3. § (11) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 3. § (12) bekezdése a 17. § (4) bekezdés alapján 2024. március 1-jén lép hatályba.
+[^6]: A 3. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 3. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 3. § (8) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 3. § (9) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 3. § (10) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 3. § (11) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

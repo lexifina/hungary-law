@@ -1,5 +1,5 @@
 ## 11. Egyes kormányrendeletek hatályon kívül helyezése
 
-15. §[^38]
+15. §[^34]
 
-[^38]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^34]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
