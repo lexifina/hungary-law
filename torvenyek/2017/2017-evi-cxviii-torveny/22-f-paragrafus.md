@@ -9,3 +9,5 @@
 (4) A figyelmeztető jelzés elhelyezése iránti eljárásra kizárólagosan a gyermek lakóhelye vagy ennek hiányában tartózkodási helye szerint illetékes törvényszék székhelyén működő járásbíróság – ha a gyermek lakóhelye vagy ennek hiányában tartózkodási helye a fővárosban van, a Pesti Központi Kerületi Bíróság – illetékes.
 
 (5) Ha az illetékes bíróság a (4) bekezdés alapján nem állapítható meg, a figyelmeztető jelzés elhelyezése iránti eljárásra a Pesti Központi Kerületi Bíróság illetékes.
+
+(6) A figyelmeztető jelzés elhelyezése iránti eljárásban bírósági titkár nem járhat el.

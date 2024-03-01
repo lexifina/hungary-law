@@ -4,7 +4,7 @@
 
 (2) A halál tényének bírósági megállapítása határidő nélkül kérhető.
 
-(3) Hirdetményt nem kell kibocsátani, ha a halál közveszély, köztudott baleset vagy más súlyos szerencsétlenség folytán következett be. Ennek fennállását a bíróság megkeresésére a feladatkörében érintett miniszter közli.
+(3) Hirdetményt nem kell kibocsátani, ha a halál közveszély, köztudott baleset vagy más súlyos szerencsétlenség folytán következett be. Ennek fennállását a bíróság megkeresésére az igazságügyért felelős miniszter közli.
 
 (4) Ha hirdetmény kibocsátásának van helye, abban közölni kell a halál idejére és helyére vonatkozó adatokat is.
 
