@@ -1,3 +1,1 @@
-4. §[^2]
-
-[^2]: A 4. § a 2. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+4. § A 256/2013. (VII. 5.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.

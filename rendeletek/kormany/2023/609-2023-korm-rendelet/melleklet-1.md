@@ -1,3 +1,11 @@
-1. melléklet a 609/2023. (XII. 22.) Korm. rendelethez[^4]
+1. melléklet a 609/2023. (XII. 22.) Korm. rendelethez
 
-[^4]: Az 1. melléklet a 2. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+A 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat 222. sora helyébe a következő rendelkezés lép:
+
+| (1. | Egészségügyi szolgáltató neve | Település) |
+
+„
+
+| 222. | Református Pulmonológiai Centrum | Törökbálint |
+
+”

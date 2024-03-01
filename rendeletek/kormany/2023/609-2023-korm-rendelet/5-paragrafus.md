@@ -1,3 +1,1 @@
-5. §[^3]
-
-[^3]: Az 5. § a 2. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+5. § Hatályát veszti az egészségügyi intézmények irányításának egyes szabályairól szóló 285/2023. (VI. 30.) Korm. rendelet 5. melléklet 2. pont 2.2.1. alpontja.
