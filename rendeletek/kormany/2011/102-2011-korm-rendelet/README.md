@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-102-20-
 | 2023-07-28 | 2011-102-20-22.28 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-11-19 | 2011-102-20-22.27 | 280/2023. (VI. 29.) Korm. rendelet |
 | 2024-01-01 | 2011-102-20-22.29 | 616/2023. (XII. 22.) Korm. rendelet |
+| 2024-03-01 | 2011-102-20-22.30 | 35/2024. (II. 29.) Korm. rendelet |
