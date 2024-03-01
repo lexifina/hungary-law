@@ -6,6 +6,6 @@
 
 (3) A bv. bíró az elítéltet a meghallgatáson nyilatkoztatja arról, hogy a pártfogó felügyelet végrehajtását a tényleges tartózkodási helye szerint kéri.
 
-(4)[^84] A bv. bíró a feltételes szabadságra bocsátás mellett pártfogó felügyelet elrendelésről vagy megállapításáról szóló határozatát és a Bv. tv. 68. § (8) bekezdése alapján hozott határozatát a végrehajtásra illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak vagy a büntetés-végrehajtási pártfogó felügyelőnek küldi meg.
+(4)[^88] A bv. bíró a feltételes szabadságra bocsátás mellett pártfogó felügyelet elrendelésről vagy megállapításáról szóló határozatát és a Bv. tv. 68. § (8) bekezdése alapján hozott határozatát a végrehajtásra illetékes pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak vagy a büntetés-végrehajtási pártfogó felügyelőnek küldi meg.
 
-[^84]: A 121. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 27. pontja szerint módosított szöveg.
+[^88]: A 121. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 27. pontja szerint módosított szöveg.

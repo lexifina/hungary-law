@@ -4,7 +4,7 @@
 
 ## 30. A járművezetéstől eltiltásról, a kitiltásról és a sportrendezvények látogatásától való eltiltásról kiállított értesítőlap tartalma és továbbítása
 
-59. § (1)[^36] A bíróság a járművezetéstől eltiltás végrehajtása érdekében a 7. melléklet szerinti adattartalommal kiállított értesítőlap megküldésével intézkedik az elítélt lakcíme szerint illetékes közlekedési igazgatási feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalánál. Ha az elítélt magyarországi bejelentett lakcímmel nem rendelkezik, a bíróság az értesítőlapot az elítélt utolsó ismert magyarországi lakcíme, ennek hiányában a cselekmény elkövetési helye szerint illetékes közlekedési igazgatási feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának küldi meg.
+59. § (1)[^38] A bíróság a járművezetéstől eltiltás végrehajtása érdekében a 7. melléklet szerinti adattartalommal kiállított értesítőlap megküldésével intézkedik az elítélt lakcíme szerint illetékes közlekedési igazgatási feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalánál. Ha az elítélt magyarországi bejelentett lakcímmel nem rendelkezik, a bíróság az értesítőlapot az elítélt utolsó ismert magyarországi lakcíme, ennek hiányában a cselekmény elkövetési helye szerint illetékes közlekedési igazgatási feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának küldi meg.
 
 (2) A bíróság a kitiltás végrehajtása érdekében a 8. melléklet szerinti adattartalommal kiállított értesítőlap megküldésével intézkedik a kitiltás helye szerint illetékes rendőrkapitányságnál.
 
@@ -28,4 +28,4 @@ c) önálló büntetésként alkalmazta.
 
 (9) Ha a bíróság az összbüntetési ítéletében a Btk. 96. § (1) bekezdése alapján rendelkezett a végrehajtandó járművezetéstől eltiltásról, a kitiltásról vagy a sportrendezvények látogatásától való eltiltásról, és a bv. intézet az adott büntetésről az értesítőlapot már továbbította, az összbüntetési ítélet kiadmányát megküldi az (1)–(3) bekezdésben meghatározott valamennyi érintett hatóságnak.
 
-[^36]: Az 59. § (1) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 18. pontja szerint módosított szöveg.
+[^38]: Az 59. § (1) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 18. pontja szerint módosított szöveg.

@@ -10,8 +10,8 @@ b) a megadott kézbesítési címén vagy biztonságos elektronikus kapcsolattar
 
 a bv. bíró a továbbiakban a Bv. tv. 19. §-a szerint jár el.
 
-(4)[^23] A bv. bíró az elfogatóparancsban úgy rendelkezik, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő, és erről egyidejűleg értesíti a bv. csoport székhelyén működő vármegyei (fővárosi) bv. intézetet.
+(4)[^25] A bv. bíró az elfogatóparancsban úgy rendelkezik, hogy az elítéltet a legközelebbi bv. intézetbe állítsák elő, és erről egyidejűleg értesíti a bv. csoport székhelyén működő vármegyei (fővárosi) bv. intézetet.
 
 (5) A bv. bíró legalább háromhavonta ellenőrzi az elfogatóparancsok elektronikus nyilvántartásának szabályszerű vezetését, és azt, hogy az elfogatóparancs kibocsátását, illetve visszavonását átvezették-e.
 
-[^23]: A 42. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 10. pontja szerint módosított szöveg.
+[^25]: A 42. § (4) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 10. pontja szerint módosított szöveg.

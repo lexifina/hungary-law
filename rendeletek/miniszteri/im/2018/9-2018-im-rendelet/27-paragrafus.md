@@ -8,4 +8,6 @@ b) rendkívüli jogorvoslati eljárásban a szabadságvesztés végrehajtásána
 
 döntött, a bv. csoport a határozat kiadmányát mellékeli a BVOP-nak küldendő értesítőlap másolatához.
 
-(3) Ha a fiatalkorú elítélt a szabadságvesztést kiszabó ítélet jogerőre emelkedése után, de a szabadságvesztés végrehajtásának megkezdése előtt betölti a huszonegyedik életévet, a bv. bíró a végrehajtási fokozatot megállapító határozatát mellékeli a BVOP-nak küldendő értesítőlap másolatához.
+(3)[^18]
+
+[^18]: A 27. § (3) bekezdését az 1/2024. (II. 29.) IM rendelet 35. § 1. pontja hatályon kívül helyezte.

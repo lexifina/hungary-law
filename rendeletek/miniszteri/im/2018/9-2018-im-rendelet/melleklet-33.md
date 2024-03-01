@@ -1,6 +1,6 @@
 ## Az elítélt felhívása a szabadságvesztés megkezdésére.
 
-33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^124]
+33. melléklet a 9/2018. (VI. 11.) IM rendelethez[^128]
 
 JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
@@ -50,4 +50,4 @@ JELENTKEZÉSKOR VIGYE MAGÁVAL!
 
 8. Felhívom a figyelmét, hogy a szabadságvesztés büntetés megkezdésével összefüggésben előterjesztett halasztás iránti kérelemnek, illetve az ilyen kérelmet elutasító végzés ellen bejelentett fellebbezésnek nincs halasztó hatálya. Jogerős halasztást engedélyező határozat meghozataláig a felhívásban megjelölt időpontban és helyen meg kell jelennie.
 
-[^124]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított szöveg.
+[^128]: A 33. melléklet a 15/2023. (X. 24.) IM rendelet 8. § b) pontjával megállapított szöveg.

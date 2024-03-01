@@ -10,7 +10,7 @@ b) más ügyben javítóintézetben foganatosított letartóztatásban van, vagy
 
 c) szabadlábon van, a 37. melléklet szerinti felhívással intézkedik a szabadságvesztés végrehajtásának megkezdése iránt.
 
-(3)[^19] A (2) bekezdés b) pontjában a végrehajtásra kijelölt és a (2) bekezdés c) pontja szerinti felhívásban kijelölt bv. intézeten elsősorban a bv. csoport működési területén lévő vármegyei, illetve jogszabályban kijelölt, vármegyei jellegű feladatot is ellátó bv. intézetet kell érteni.
+(3)[^21] A (2) bekezdés b) pontjában a végrehajtásra kijelölt és a (2) bekezdés c) pontja szerinti felhívásban kijelölt bv. intézeten elsősorban a bv. csoport működési területén lévő vármegyei, illetve jogszabályban kijelölt, vármegyei jellegű feladatot is ellátó bv. intézetet kell érteni.
 
 (4) Ha az elítélt más törvényszék területén, olyan távoli helyen lakik vagy tartózkodik, ahonnan a távolság miatt megjelenése, illetőleg az elővezetése jelentős költséggel járna, a bv. csoport a szabadságvesztést előírja, de a jelentkezésre felhívást mellőzi. Ebben az esetben az értesítőlapot, a rendelkezésére álló határozatkiadmányokat és az egyéb iratokat az elítélt átváltoztatott szabadságvesztésének megkezdésére való felhívása végett megküldi az elítélt lakcíme, ennek hiányában tényleges tartózkodási helye szerint illetékes bv. csoportnak.
 
@@ -22,4 +22,4 @@ c) szabadlábon van, a 37. melléklet szerinti felhívással intézkedik a szaba
 
 (8) A bv. tisztviselő közli – a bv. intézet, illetve a javítóintézet tájékoztatása és a fogvatartotti nyilvántartás adatai alapján – a GH-val a szabadságvesztés megkezdésének és kitöltésének napját.
 
-[^19]: A 37. § (3) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 6. pontja szerint módosított szöveg.
+[^21]: A 37. § (3) bekezdése a 35/2022. (XII. 27.) IM rendelet 5. § 6. pontja szerint módosított szöveg.

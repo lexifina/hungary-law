@@ -4,7 +4,7 @@ a) szabadságvesztés esetén a bv. csoport útján a végrehajtásra kijelölt 
 
 b) elzárás esetén a bv. csoport útján a végrehajtásra kijelölt bv. intézetnek,
 
-c)[^9] közérdekű munka és pártfogó felügyelet esetén a pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak,
+c)[^10] közérdekű munka és pártfogó felügyelet esetén a pártfogó felügyelői feladatkörében eljáró fővárosi és vármegyei kormányhivatalnak,
 
 d) kényszergyógykezelés esetén az IMEI-nek,
 
@@ -24,4 +24,4 @@ küldi meg.
 
 (4) A bíróság a vádemelés után a letartóztatás és az előzetes kényszergyógykezelés tárgyában hozott határozat kiadmányát a fogvatartást foganatosító szervnek küldi meg.
 
-[^9]: A 9. § (1) bekezdés c) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 1. pontja szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdés c) pontja a 35/2022. (XII. 27.) IM rendelet 5. § 1. pontja szerint módosított szöveg.

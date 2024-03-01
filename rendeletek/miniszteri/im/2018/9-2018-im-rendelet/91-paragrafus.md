@@ -1,4 +1,4 @@
-91. §[^68] (1) A bíróság a büntetőeljárásban elrendelt elővezetéssel, továbbá a Bv. tv. alapján elrendelt elővezetéssel és az elfogatóparancs alapján történő előállítással felmerült költségről és annak viseléséről a határozatot az igazolás kézbesítésétől számított egy hónapon belül hozza meg.
+91. §[^70] (1) A bíróság a büntetőeljárásban elrendelt elővezetéssel, továbbá a Bv. tv. alapján elrendelt elővezetéssel és az elfogatóparancs alapján történő előállítással felmerült költségről és annak viseléséről a határozatot az igazolás kézbesítésétől számított egy hónapon belül hozza meg.
 
 (2) A bíróság az (1) bekezdés szerinti határozatában felhívja a kötelezettet arra, hogy a megállapított fizetési kötelezettséget a határozat véglegessé, illetve jogerőssé válásától számított tizenöt napon belül a jogosult szerv előirányzat-felhasználási keretszámlájára, a megjelölt befizetést azonosító adatokra hivatkozással fizesse be.
 
@@ -12,4 +12,4 @@ részére.
 
 (4) Az (1)–(3) bekezdésben foglaltakat alkalmazni kell a BVOP által elrendelt elővezetéssel felmerült költségekre, azzal, hogy a bv. bíró intézkedik a végrehajthatóvá vált határozat (3) bekezdés szerinti megküldéséről abban az esetben, ha a határozattal szemben bírósági felülvizsgálati kérelmet nyújtottak be.
 
-[^68]: A 91. § a 15/2023. (X. 24.) IM rendelet 7. §-ával megállapított szöveg.
+[^70]: A 91. § a 15/2023. (X. 24.) IM rendelet 7. §-ával megállapított szöveg.

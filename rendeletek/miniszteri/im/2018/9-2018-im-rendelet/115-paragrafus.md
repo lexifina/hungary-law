@@ -1,5 +1,3 @@
-## 114. § Ha a bv. bíró a fiatalkorú feltételes szabadságát a huszonegyedik életévének betöltése után megszünteti, a szabadságvesztés új végrehajtási fokozatáról is határoz.
-
 ## 60. A reintegrációs őrizet elrendelése, megváltoztatása és megszüntetése
 
 115. § (1) A reintegrációs őrizet elrendeléséről szóló határozatban a bv. bíró megjelöli a reintegrációs őrizet lejártának napját is.
