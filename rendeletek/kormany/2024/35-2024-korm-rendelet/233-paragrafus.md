@@ -1,0 +1,1 @@
+233. § A harmadik országbeli állampolgár az érvénytelen tartózkodási engedély okmányát – az érvénytelenségre okot adó körülmény bekövetkezésétől számított 8 napon belül – köteles leadni az okmányt kiállító hatóságnak.

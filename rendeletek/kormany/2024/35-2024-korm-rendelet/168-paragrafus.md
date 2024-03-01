@@ -1,0 +1,1 @@
+168. § A harmadik országbeli állampolgár tartózkodási engedély kiadása vagy meghosszabbítása iránti kérelméről (a továbbiakban együtt: tartózkodási engedély kiadása iránti kérelem) – a 169. §-ban foglalt kivétellel – a regionális igazgatóság dönt.

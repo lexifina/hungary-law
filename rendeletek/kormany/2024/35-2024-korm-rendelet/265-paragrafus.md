@@ -1,0 +1,3 @@
+## 117. A Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló 4/1995. (I. 20.) Korm. rendelet módosítása
+
+265. § A Magyar Tudományos Akadémia hazai tagjai és a Magyar Tudományos Akadémia Doktora címmel rendelkező személyek tiszteletdíjáról, illetve az akadémikus elhalálozása esetén megállapítható hozzátartozói ellátásokról szóló 4/1995. (I. 20.) Korm. rendelet 13. § (3) bekezdésében a „letelepedett vagy itt letelepedési szándékkal” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkezik, vagy itt huzamos tartózkodási szándékkal” szöveg lép.

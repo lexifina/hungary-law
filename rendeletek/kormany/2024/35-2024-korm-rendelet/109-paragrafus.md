@@ -1,0 +1,1 @@
+109. § A Tv. 117. § (2) bekezdése alapján a menetjegy megvásárlásához, valamint az úti okmány beszerzéséhez szükséges pénzösszeg zár alá vételét a kérelmező Tv. 119. §-a szerinti visszaadását megelőzően meg kell szüntetni, és a pénzösszeget a kérelmező részére haladéktalanul vissza kell adni.

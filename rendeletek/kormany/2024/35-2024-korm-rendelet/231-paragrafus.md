@@ -1,0 +1,1 @@
+231. § A tartózkodási engedély iránti kérelemnek helyt adó határozat esetén a harmadik országbeli állampolgár részére a tartózkodási engedélyt az 1. melléklet 2. pontja szerinti formában és adattartalommal kell kiállítani.

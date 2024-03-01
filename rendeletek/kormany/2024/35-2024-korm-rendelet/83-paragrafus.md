@@ -1,0 +1,5 @@
+83. § (1) A regionális igazgatóság a nemzeti tartózkodási kártya kiadása esetén az 1. melléklet 2. pontjában meghatározott formában és adattartalommal tartózkodási okmányt állít ki.
+
+(2) Az (1) bekezdésben meghatározott okmány érvényességi ideje tíz év, amelyet – a 176. § (1) bekezdésében foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére további tíz évvel meghosszabbít.
+
+(3) Ha a bevándorlási engedély vagy a letelepedési engedély vagy tartózkodási kártya okmány érvényességi ideje lejárt vagy az okmányt ki kell cserélni vagy pótolni, illetve ha a bevándorolt új úti okmányt kapott, – a 176. § (1) bekezdésében foglalt kivétellel – a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság a harmadik országbeli állampolgár jogszabályban meghatározott formanyomtatványon előterjesztett kérelmére az (1) bekezdésben meghatározott okmányt a (2) bekezdésben meghatározott érvényességgel állítja ki.

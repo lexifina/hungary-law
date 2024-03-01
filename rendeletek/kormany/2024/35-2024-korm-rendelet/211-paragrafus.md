@@ -1,0 +1,1 @@
+211. § A kilencven napot meghaladó tartózkodásra jogosító vízum iránti kérelem benyújtásakor a vízumkiadó hatóság – a diplomata, szolgálati vagy egyéb hivatalos célból kiállított útlevéllel rendelkező kérelmező kivételével – az útlevélbe bejegyzi a vízum kérelmezésének tényét, helyét és idejét, a kért vízum kódját, valamint a vízumkérelmet átvevő hatóság nevét.

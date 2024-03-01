@@ -1,0 +1,1 @@
+32. § A kutatói hosszú távú mobilitási tartózkodási engedély iránti kérelemhez a kérelem előterjesztésekor a kérelmezőnek be kell mutatnia érvényes úti okmányát és az első tagállam által kiállított érvényes kutatási tartózkodási engedélyét.

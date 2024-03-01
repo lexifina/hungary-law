@@ -1,0 +1,9 @@
+# 35/2024. (II. 29.) Korm. rendelet
+
+a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-35-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-03-01 | 2024-35-20-22.1 | 35/2024. (II. 29.) Korm. rendelet |

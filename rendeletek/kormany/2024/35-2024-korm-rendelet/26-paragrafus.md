@@ -1,0 +1,3 @@
+26. § (1) Az Európai Unió tagállama által magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár az EU Kék Kártya iránti kérelmet az abban meghatározott feltételeket igazoló okiratok csatolásával egyidejűleg legkésőbb a beutazástól számított harminc napon belül nyújthatja be.
+
+(2) Az (1) bekezdés szerinti kérelem tárgyában indult eljárásban hozott érdemi döntésről az idegenrendészeti hatóság értesíti az Európai Unió azon tagállamának kijelölt hatóságát, amely a magas szintű képzettséget igénylő munkavállalás céljából kiadott tartózkodási engedélyt kiállította.

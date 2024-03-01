@@ -1,0 +1,1 @@
+51. § A 48–50. §-ban meghatározottakon túl az ideiglenes tartózkodási engedély kiállítására a 8. §-t, a 187. §-t, a 193. §-t, a 216. §-t, a 224. és 225. §-t, valamint a 232. és 233. §-t kell megfelelően alkalmazni.

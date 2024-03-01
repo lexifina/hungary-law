@@ -1,0 +1,3 @@
+## 143. A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet módosítása
+
+316. § A közbeszerzési eljárásokban az alkalmasság és a kizáró okok igazolásának, valamint a közbeszerzési műszaki leírás meghatározásának módjáról szóló 321/2015. (X. 30.) Korm. rendelet 16. § (4) bekezdésében a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.

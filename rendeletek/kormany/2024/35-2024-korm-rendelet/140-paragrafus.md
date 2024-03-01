@@ -1,0 +1,1 @@
+140. § A közrendvédelmi bírság kiszabására a regionális igazgatóságnak a Tv. 145. § (1)–(5), valamint (11) bekezdésében meghatározott mulasztásról történt tudomásszerzésétől számított egy éven túl nincs lehetősége.

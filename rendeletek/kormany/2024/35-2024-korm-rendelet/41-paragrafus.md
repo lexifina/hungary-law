@@ -1,0 +1,1 @@
+41. § A hallgatói mobilitási tartózkodási engedély iránti kérelemhez a kérelem előterjesztésekor a kérelmezőnek be kell mutatnia érvényes úti okmányát és az első tagállam által kiállított érvényes tanulmányi célú tartózkodási engedélyét.

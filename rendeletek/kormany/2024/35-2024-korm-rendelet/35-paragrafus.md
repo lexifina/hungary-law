@@ -1,0 +1,5 @@
+35. § (1) A kutatók és családtagjaik Európai Unión belüli mobilitásának engedélyezésére, illetve igazolására vonatkozó idegenrendészeti eljárásokkal kapcsolatban az érintett tagállamok illetékes hatóságainak tájékoztatását és az ilyen ügyekben történő együttműködést nemzeti kapcsolattartóként a Főigazgatóság végzi.
+
+(2) A regionális igazgatóság az általa a kutató, illetve a kutató családtagja által előterjesztett rövid távú mobilitási értesítés vonatkozásában emelt kifogásról az értesítést előterjesztő harmadik országbeli állampolgár tájékoztatásával egyidejűleg írásban tájékoztatja az (1) bekezdés szerinti nemzeti kapcsolattartó pontot.
+
+(3) A nemzeti kapcsolattartó pont a mobilitási értesítésekkel szemben emelt kifogásról az (1) bekezdés szerinti tájékoztatását követően írásban, elektronikus úton, haladéktalanul értesíti a tartózkodási engedélyt kiadó tagállam nemzeti kapcsolattartó pontját, illetve továbbítja az ilyen kifogást emelő tagállam nemzeti kapcsolattartójától erre vonatkozóan kapott értesítést a tartózkodási engedélyt kiadó regionális igazgatóságnak.

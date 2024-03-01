@@ -1,0 +1,1 @@
+25. § A Tv. 38. §-a szerinti esetben az EU Kék Kártya kérelemre vonatkozó idegenrendészeti eljárással kapcsolatban az Európai Unió érintett tagállamai illetékes hatóságainak tájékoztatását és az ilyen ügyekben történő együttműködést nemzeti kapcsolattartóként a Főigazgatóság végzi.

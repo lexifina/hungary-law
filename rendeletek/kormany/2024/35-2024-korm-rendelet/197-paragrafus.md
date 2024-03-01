@@ -1,0 +1,5 @@
+197. § (1) A rövid időtartamú, tervezett tartózkodásra jogosító vízum iránti kérelmet elutasító döntés elleni fellebbezést írásban, nyolc napon belül lehet az illetékes konzuli tisztviselőnél előterjeszteni. A konzuli tisztviselő előtt személyesen megjelenő írástudatlan kérelmező fellebbezését a konzuli tisztviselő jegyzőkönyvbe foglalja, és a kérelmező annak valamennyi oldalát kézjegyével látja el.
+
+(2) A fellebbezést a külpolitikáért felelős miniszter tizenöt napon belül bírálja el.
+
+(3) Ha a vízum elutasítására a Tv. 223. § (1) bekezdése alapján került sor, a másodfokú eljárásban a Tv. 223. § (1) bekezdése szerinti hozzájárulás érdekében a külpolitikáért felelős miniszter a Főigazgatóságot megkeresi. A hozzájárulás megadásáról vagy megtagadásáról a Főigazgatóság a megkeresés megérkezésétől számított hét napon belül értesíti a külpolitikáért felelős minisztert. Ha a Főigazgatóság a másodfokú eljárásban a hozzájárulást nem adja meg, a rövid időtartamú, tervezett tartózkodásra jogosító vízum kiadása nem engedélyezhető.

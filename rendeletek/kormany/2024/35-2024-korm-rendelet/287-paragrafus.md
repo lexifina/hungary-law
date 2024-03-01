@@ -1,0 +1,5 @@
+## 133. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
+
+287. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet 5/J. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Amennyiben a képesítés birtokosának képviselőjeként a munkáltató vagy a beruházó jár el, a képviselőt az ügyfél jogai illetik meg, amennyiben a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti kedvezményes foglalkoztató vagy minősített kölcsönbeadó által előterjesztett tartózkodási engedély iránti kérelmet a munkáltató vagy a beruházó nyújtotta be.”

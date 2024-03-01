@@ -1,0 +1,3 @@
+203. § (1) Ha a központi vízumhatóság a vízumkérelem felterjesztését követően megállapítja, hogy a rövid időtartamú, tervezett tartózkodásra jogosító vízum iránti kérelmet el kell utasítani, akkor a Tv. 223. § (2) bekezdése szerinti egyeztetéstől eltekinthet.
+
+(2) Ha a központi vízumhatóság úgy ítéli meg, hogy a rövid időtartamú, tervezett tartózkodásra jogosító vízum iránti kérelem elutasítására okot adó körülmény nem áll fenn, a vízumkérelem felterjesztését követően megkeresi az egyeztetést kérő schengeni államok központi hatóságait, nyilatkozzanak arra nézve, hogy a rövid időtartamú, tervezett tartózkodásra jogosító vízum kiadásához hozzájárulnak-e.

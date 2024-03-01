@@ -1,0 +1,3 @@
+## „4. a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,”
+
+344. § A kistelepüléseken nyújtható otthonteremtési támogatásokról szóló 302/2023. (VII. 11.) Korm. rendelet 5. § (1) bekezdés 4. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.

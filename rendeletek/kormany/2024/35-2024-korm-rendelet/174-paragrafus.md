@@ -1,0 +1,1 @@
+174. § A konzuli tisztviselő a 223. § (2)–(4) bekezdése alapján átvett nemzeti tartózkodási kártya kiadása iránti kérelmet a kérelem benyújtását követően haladéktalanul megküldi a szálláshely szerint illetékes regionális igazgatósághoz.

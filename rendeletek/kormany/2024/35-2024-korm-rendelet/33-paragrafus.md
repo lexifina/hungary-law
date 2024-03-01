@@ -1,0 +1,3 @@
+33. § (1) A kutatói rövid távú mobilitási értesítést előterjesztő harmadik országbeli állampolgár kutató első tagállam által családtagi jogállására tekintettel kiállított érvényes tartózkodási engedéllyel rendelkező családtagjának a kutatói rövid távú mobilitási értesítés benyújtásakor be kell mutatnia az első tagállam által kiállított érvényes tartózkodási engedélyét.
+
+(2) A kutatói rövid távú mobilitási értesítést előterjesztő harmadik országbeli állampolgár kutató első tagállam által családtagi jogállására tekintettel kiállított érvényes tartózkodási engedéllyel rendelkező családtagjának a kutatói rövid távú mobilitási értesítésének elfogadásáról a regionális igazgatóság a 4. melléklet szerinti kutatói rövid távú mobilitási igazolást állít ki.

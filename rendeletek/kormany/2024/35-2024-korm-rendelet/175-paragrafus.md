@@ -1,0 +1,3 @@
+175. § (1) A harmadik országbeli állampolgár bevándorlási engedélyét, letelepedési engedélyét, ideiglenes letelepedési engedélyét, nemzeti letelepedési engedélyét, EK letelepedési engedélyét, valamint az ideiglenes tartózkodási kártyáját, nemzeti tartózkodási kártyáját, EU tartózkodási kártyáját a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság vonhatja vissza.
+
+(2) A harmadik országbeli állampolgárnak a Harmtv. alapján nemzetgazdasági érdekből kiadott nemzeti letelepedési engedélyét, illetve nemzeti tartózkodási kártyáját a harmadik országbeli állampolgár lakóhelye szerint illetékes regionális igazgatóság vonhatja vissza.
