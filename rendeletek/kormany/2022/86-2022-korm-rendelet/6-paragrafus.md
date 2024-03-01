@@ -10,18 +10,21 @@ c) a Metvhr. 49. §-a szerinti okmány fordítási költségeinek megtérítése
 
 illeti meg.
 
+(2a)[^11] A Metvhr. 15. § (2) bekezdés d) pontja szerinti támogatást a menedékesnek is biztosítani kell.
+
 (3) Ha a menedékes vagy a menedékesként elismerését kérő nem befogadó állomáson kerül elhelyezésre, a Metvhr. 59. §-ának alkalmazásában befogadó állomás alatt a számára e célra kijelölt egyéb szálláshelyet is érteni kell.
 
-(4)[^11] A menedékes vagy a menedékesként elismerését kérő Magyarország területén engedélymentesen jogosult munkát vállalni, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+(4)[^12] A menedékes vagy a menedékesként elismerését kérő Magyarország területén engedélymentesen jogosult munkát vállalni, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
 
-(5)[^12]
+(5)[^13]
 
-(6)[^13] A menedékes vagy a menedékesként elismerését kérő foglalkoztatásának bejelentésére a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 71. §-ának rendelkezései megfelelően alkalmazandók.
+(6)[^14] A menedékes vagy a menedékesként elismerését kérő foglalkoztatásának bejelentésére a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 88. alcímének rendelkezései megfelelően alkalmazandók.
 
-(7)[^14]
+(7)[^15]
 
 [^10]: A 6. § (2) bekezdés b) pontja a 97/2022. (III. 10.) Korm. rendelet 1. §-a szerint módosított szöveg.
-[^11]: A 6. § (4) bekezdése a 175/2022. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^12]: A 6. § (5) bekezdését a 175/2022. (IV. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^13]: A 6. § (6) bekezdése a 116/2022. (III. 22.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^14]: A 6. § (7) bekezdését a 98/2022. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^11]: A 6. § (2a) bekezdését a 30/2024. (II. 22.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 6. § (4) bekezdése a 175/2022. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 6. § (5) bekezdését a 175/2022. (IV. 29.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^14]: A 6. § (6) bekezdése a 116/2022. (III. 22.) Korm. rendelet 2. § a) pontja, a 36/2024. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^15]: A 6. § (7) bekezdését a 98/2022. (III. 10.) Korm. rendelet 4. §-a hatályon kívül helyezte.
