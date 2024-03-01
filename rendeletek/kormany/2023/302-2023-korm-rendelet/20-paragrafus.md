@@ -4,19 +4,19 @@
 
 (2) A hitelintézet a megelőlegezett családi otthonteremtési kedvezmény iránti kérelmet elutasítja, ha a gyermekvállalást nyilvánvalóan lehetetlennek minősíti.
 
-(3)[^42] A fiatal házaspár gyermekvállalásának teljesítésére előírt határidő – a (8) és (9) bekezdésben foglalt eltérésekkel – egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év, három gyermek vállalása esetén 10 év.
+(3)[^45] A fiatal házaspár gyermekvállalásának teljesítésére előírt határidő – a (8) és (9) bekezdésben foglalt eltérésekkel – egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év, három gyermek vállalása esetén 10 év.
 
 (4) A vállalt gyermek megszületésére vonatkozó határidőt lakás
 
 a) vásárlása esetén a támogatási szerződés megkötésének időpontjától,
 
-b)[^43] építésiengedély-köteles bővítésénél a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány véglegessé válásának napjától,
+b)[^46] építésiengedély-köteles bővítésénél a használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány véglegessé válásának napjától,
 
-c)[^44] egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány véglegessé válásának napjától,
+c)[^47] egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány véglegessé válásának napjától,
 
 d) korszerűsítésénél a korszerűsítési munkák elvégzésének hitelintézet által történő megállapításától,
 
-e)[^45] építésénél a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány véglegessé válása vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány véglegessé válása napjától
+e)[^48] építésénél a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány véglegessé válása vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány véglegessé válása napjától
 
 kell számítani.
 
@@ -42,7 +42,7 @@ kell igazolni.
 
 (12) A Kincstár a (3) bekezdésben meghatározott, a gyermekvállalás teljesítésére vonatkozó határidő alatt, illetve annak leteltét követő 6 hónapon belül adategyeztetésre hívhatja fel a fiatal házaspárt.
 
-[^42]: A 20. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 23. pontja szerint módosított szöveg.
-[^43]: A 20. § (4) bekezdés b) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
-[^44]: A 20. § (4) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
-[^45]: A 20. § (4) bekezdés e) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 25. pontja, 17. § g) pontja szerint módosított szöveg.
+[^45]: A 20. § (3) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 23. pontja szerint módosított szöveg.
+[^46]: A 20. § (4) bekezdés b) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
+[^47]: A 20. § (4) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 24. pontja szerint módosított szöveg.
+[^48]: A 20. § (4) bekezdés e) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 25. pontja, 17. § g) pontja szerint módosított szöveg.

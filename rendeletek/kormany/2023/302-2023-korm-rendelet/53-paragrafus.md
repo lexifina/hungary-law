@@ -1,4 +1,4 @@
-53. § (1)[^95] A 12. § (1) bekezdés b) vagy c) pontja vagy (3) bekezdés b) vagy c) pontja szerinti összegű családi otthonteremtési kedvezményt igénybe vevő személy a Magyarország területén lévő
+53. § (1)[^99] A 12. § (1) bekezdés b) vagy c) pontja vagy (3) bekezdés b) vagy c) pontja szerinti összegű családi otthonteremtési kedvezményt igénybe vevő személy a Magyarország területén lévő
 
 1. új egylakásos lakóépület építéséhez vagy vásárlásához,
 
@@ -20,13 +20,13 @@ a) első alkalommal a kölcsönszerződés megkötésének napját követő egy 
 
 b) második alkalommal az a) pont szerinti időpontot követő egy év elteltével, a kölcsönszerződés szerinti fordulónapon,
 
-c)[^96] harmadik alkalommal a b) pont szerinti időpontot követő öt év elteltével, a kölcsönszerződés szerinti fordulónapon, majd
+c)[^100] harmadik alkalommal a b) pont szerinti időpontot követő öt év elteltével, a kölcsönszerződés szerinti fordulónapon, majd
 
-d)[^97] a c) pontban foglaltakat követően ötévente
+d)[^101] a c) pontban foglaltakat követően ötévente
 
 változtatható meg.
 
-(5)[^98] A kölcsön otthonteremtési kamattámogatással érintett összege nem haladhatja meg
+(5)[^102] A kölcsön otthonteremtési kamattámogatással érintett összege nem haladhatja meg
 
 a) két gyermek esetén a 10 000 000 forintot,
 
@@ -54,13 +54,13 @@ c) lejárt tőketartozás esetén.
 
 (13) A hitelintézet az igénybe vett kamattámogatás éves összegét évente egyszer, az éves elszámolás keretében közli a támogatott személlyel.
 
-(14)[^99] Az otthonteremtési kamattámogatás akkor igényelhető, ha az igénylőnek az otthonteremtési kamattámogatás igénylésének időpontjában nincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 11. § (1) bekezdése szerinti nyilvántartott tartozása a központi hitelinformációs rendszerben (a továbbiakban: KHR), ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
+(14)[^103] Az otthonteremtési kamattámogatás akkor igényelhető, ha az igénylőnek az otthonteremtési kamattámogatás igénylésének időpontjában nincs a központi hitelinformációs rendszerről szóló 2011. évi CXXII. törvény 11. § (1) bekezdése szerinti nyilvántartott tartozása a központi hitelinformációs rendszerben (a továbbiakban: KHR), ide nem értve azt az esetet, amikor a késedelmes tartozás teljesítése már megtörtént, azonban a teljesítésre a kölcsönkérelem benyújtását megelőző egy éven belül került sor, és a 2011. évi CXXII. törvény 8. § (4) bekezdése alapján a hiteladósra vonatkozó referenciaadatot a KHR-ből még nem törölték.
 
-(15)[^100] Nem jogosult az e rendelet szerinti kamattámogatásra az, aki a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti kölcsönt vett igénybe.
+(15)[^104] Nem jogosult az e rendelet szerinti kamattámogatásra az, aki a családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet szerinti kölcsönt vett igénybe.
 
-[^95]: Az 53. § (1) bekezdés nyitó szövegrésze az 518/2023. (XI. 30.) Korm. rendelet 66. § (4) bekezdés d) pontja szerint módosított szöveg.
-[^96]: Az 53. § (4) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 62. pontja szerint módosított szöveg.
-[^97]: Az 53. § (4) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 63. pontja szerint módosított szöveg.
-[^98]: Az 53. § (5) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^99]: Az 53. § (14) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 64. pontja szerint módosított szöveg.
-[^100]: Az 53. § (15) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 66. § (3) bekezdése iktatta be.
+[^99]: Az 53. § (1) bekezdés nyitó szövegrésze az 518/2023. (XI. 30.) Korm. rendelet 66. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^100]: Az 53. § (4) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 62. pontja szerint módosított szöveg.
+[^101]: Az 53. § (4) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 63. pontja szerint módosított szöveg.
+[^102]: Az 53. § (5) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^103]: Az 53. § (14) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 64. pontja szerint módosított szöveg.
+[^104]: Az 53. § (15) bekezdését az 518/2023. (XI. 30.) Korm. rendelet 66. § (3) bekezdése iktatta be.

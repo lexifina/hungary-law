@@ -1,4 +1,4 @@
-17. § (1)[^40] A családi otthonteremtési kedvezmény igénybevételével
+17. § (1)[^43] A családi otthonteremtési kedvezmény igénybevételével
 
 a) vásárolt lakásra a családi otthonteremtési kedvezmény igénybevételéről szóló szerződés megkötését,
 
@@ -30,4 +30,4 @@ b) a lakásban öröklés révén harmadik személy tulajdonjogot vagy haszonél
 
 c) a lakásra közérdekű használati jogot alapítanak.
 
-[^40]: A 17. § (1) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.
+[^43]: A 17. § (1) bekezdés záró szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 22. pontja szerint módosított szöveg.

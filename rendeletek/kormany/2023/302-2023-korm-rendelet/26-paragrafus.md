@@ -6,7 +6,7 @@ b) lakás építésiengedély-köteles bővítése esetén a használatbavételi
 
 c) lakás egyszerű bejelentéshez kötött bővítése esetén a felépítés megtörténtét tanúsító hatósági bizonyítvány kiállítását megelőzően,
 
-d)[^54] új lakás építése esetén a használatbavételi engedélyről szóló határozat vagy a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött új lakóépület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását, valamint a 6. § (10) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
+d)[^57] új lakás építése esetén a használatbavételi engedélyről szóló határozat vagy a használatbavétel tudomásulvételét igazoló hatósági dokumentum vagy az egyszerű bejelentéshez kötött új lakóépület felépítésének megtörténtét igazoló hatósági bizonyítvány kiállítását, valamint a 6. § (10) bekezdése szerinti esetben az építési tevékenység befejezését megelőzően
 
 kell kérni a hitelintézettől.
 
@@ -48,11 +48,11 @@ a) a kettőt, akkor a lakás hasznos alapterületének a 8. § (1) vagy (2) beke
 
 b) a hármat, akkor
 
-ba)[^55]
+ba)[^58]
 
 bb) a lakás hasznos alapterületének a 8. § (1) vagy (2) bekezdés c) pontjában foglaltaknak meg kell felelnie.
 
 (16) A (11)–(15) bekezdésben foglalt feltételek teljesülése esetén a hitelintézet és a támogatott személy a már megkötött támogatási szerződést a kiegészített támogatási kérelemnek megfelelően módosítja.
 
-[^54]: A 26. § (1) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 31. pontja szerint módosított szöveg.
-[^55]: A 26. § (15) bekezdés b) pont ba) alpontja a 649/2023. (XII. 28.) Korm. rendelet 17. § i) pontja alapján nem lép hatályba.
+[^57]: A 26. § (1) bekezdés d) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 31. pontja szerint módosított szöveg.
+[^58]: A 26. § (15) bekezdés b) pont ba) alpontja a 649/2023. (XII. 28.) Korm. rendelet 17. § i) pontja alapján nem lép hatályba.

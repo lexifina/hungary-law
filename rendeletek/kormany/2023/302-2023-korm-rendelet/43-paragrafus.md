@@ -16,7 +16,7 @@ d) a kisajátítás esete kivételével a lakásigény kielégítését szolgál
 
 (5) A (3) bekezdés d) pontja szerinti újabb lakás megszerzésének hitelt érdemlő igazolása esetén a felfüggesztés megszüntetéséről a kormányhivatal határozatban intézkedik, és megállapítja a kincstári letéti számláról a támogatott személynek kifizethető összeget, intézkedik a terhek másik lakásra történő bejegyeztetése iránt. A kormányhivatal a felfüggesztés megszüntetéséről szóló végleges határozatát annak véglegessé válását követő 10 napon belül megküldi a Kincstárnak, amely a kormányhivatali értesítés kézhezvételétől számított 5 napon belül átutalja a jogosultnak a határozatban megállapított összeget a jogosult határozatban megjelölt bankszámlájára.
 
-(6)[^80] Ha a támogatott személy a (3) bekezdés d) pontja szerinti újabb lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy – a kisajátítás esete kivételével – kisebb értékű, illetve hasznos alapterületű lakás megszerzését igazolja, úgy a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár (ideértve a bekerülési költséget is) vagy a hasznos alapterületek különbözetével arányos része visszafizetett családi otthonteremtési kedvezménynek minősül, amelynek központi költségvetés javára történő átvezetéséről a kormányhivatal intézkedik.
+(6)[^84] Ha a támogatott személy a (3) bekezdés d) pontja szerinti újabb lakás megszerzését a felfüggesztés időtartama alatt nem igazolja, vagy – a kisajátítás esete kivételével – kisebb értékű, illetve hasznos alapterületű lakás megszerzését igazolja, úgy a kincstári letéti számlán elhelyezett összeg, illetve annak az eladási és a vételár (ideértve a bekerülési költséget is) vagy a hasznos alapterületek különbözetével arányos része visszafizetett családi otthonteremtési kedvezménynek minősül, amelynek központi költségvetés javára történő átvezetéséről a kormányhivatal intézkedik.
 
 (7) Ha – a kisajátítás esete kivételével – a megszerzett újabb lakás értéke és hasznos alapterülete egyaránt kisebb a családi otthonteremtési kedvezménnyel épített, vásárolt, illetve bővített lakás értékénél és hasznos alapterületénél, a családi otthonteremtési kedvezmény (6) bekezdés szerinti visszafizetési kötelezettséggel érintett összege az érték vagy a hasznos alapterület alapján számított, nagyobb eltéréssel arányos összeg.
 
@@ -60,16 +60,16 @@ b) az újabb lakás megszerzését adásvételi szerződés, használatbavételi
 
 (13) A (11) bekezdés szerinti esetben a visszafizetési kötelezettség alá nem eső családi otthonteremtési kedvezmény összegének megfelelő jelzálogjog, valamint elidegenítési és terhelési tilalom újabb lakásra való átjegyzésének – a kisajátítás esete kivételével – feltétele, hogy
 
-a)[^81] az újabb lakás vételára vagy építési költsége az elidegenített lakás vételárát – a 44. § (7) bekezdésében foglaltak figyelembevételével – elérje, vagy
+a)[^85] az újabb lakás vételára vagy építési költsége az elidegenített lakás vételárát – a 44. § (7) bekezdésében foglaltak figyelembevételével – elérje, vagy
 
-b)[^82] a támogatott személy a családi otthonteremtési kedvezmény összegének a – 44. § (7) bekezdése szerint csökkentett – eladási ár, és a vételár vagy építési költség különbözetével arányos részét visszafizesse, és
+b)[^86] a támogatott személy a családi otthonteremtési kedvezmény összegének a – 44. § (7) bekezdése szerint csökkentett – eladási ár, és a vételár vagy építési költség különbözetével arányos részét visszafizesse, és
 
-c)[^83] az újabb lakás hasznos alapterülete – a (6) és a (7) bekezdésben foglaltak figyelembevételével – meghaladja az elidegenített lakás hasznos alapterületét, vagy
+c)[^87] az újabb lakás hasznos alapterülete – a (6) és a (7) bekezdésben foglaltak figyelembevételével – meghaladja az elidegenített lakás hasznos alapterületét, vagy
 
-d)[^84] a támogatott személy a családi otthonteremtési kedvezmény összegének a hasznos alapterületek különbözetével arányos részét visszafizesse.
+d)[^88] a támogatott személy a családi otthonteremtési kedvezmény összegének a hasznos alapterületek különbözetével arányos részét visszafizesse.
 
-[^80]: A 43. § (6) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 50. pontja szerint módosított szöveg.
-[^81]: A 43. § (13) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 51. pontja szerint módosított szöveg.
-[^82]: A 43. § (13) bekezdés b) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 52. pontja szerint módosított szöveg.
-[^83]: A 43. § (13) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 53. pontja szerint módosított szöveg.
-[^84]: A 43. § (13) bekezdés d) pontját a 649/2023. (XII. 28.) Korm. rendelet 11. §-a iktatta be.
+[^84]: A 43. § (6) bekezdése a 649/2023. (XII. 28.) Korm. rendelet 16. § 50. pontja szerint módosított szöveg.
+[^85]: A 43. § (13) bekezdés a) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 51. pontja szerint módosított szöveg.
+[^86]: A 43. § (13) bekezdés b) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 52. pontja szerint módosított szöveg.
+[^87]: A 43. § (13) bekezdés c) pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 53. pontja szerint módosított szöveg.
+[^88]: A 43. § (13) bekezdés d) pontját a 649/2023. (XII. 28.) Korm. rendelet 11. §-a iktatta be.

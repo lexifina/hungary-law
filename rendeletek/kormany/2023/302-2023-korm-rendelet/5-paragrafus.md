@@ -42,9 +42,9 @@ a) olyan szabadon álló, oldalhatáron álló, zártsorú beépítési móddal 
 
 b) – használt lakás esetében – olyan ikerház, sorház vagy láncház, amelyben a családi otthonteremtési kedvezménnyel érintett lakás önálló tető- és épületszerkezettel és a terepszintről közvetlen bejárattal rendelkezik;
 
-4. életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
+4. [^6] életvitelszerű bentlakás: a támogatással érintett lakásnak a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti bejelentett lakóhelyként – hontalan esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény szerinti szálláshelyként – történő életvitelszerű használata;
 
-5. [^6] fiatal házaspár: házastársak, akik közül a feleség a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
+5. [^7] fiatal házaspár: házastársak, akik közül a feleség a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában még nem töltötte be a 41. életévét;
 
 6. gyermek:
 
@@ -88,7 +88,7 @@ b) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi
 
 10. külterületi lakás: a település külterületén, az ingatlan-nyilvántartásban tanya vagy birtokközpont megnevezéssel nyilvántartott ingatlan, ha azon a 11. pontnak megfelelő lakóingatlan van;
 
-11. [^7] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei a hozzá tartozó földrészlettel, amely rendelkezik legalább:
+11. [^8] lakás: a lakhatás feltételeinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás fő rendeltetés szerinti jelleggel nyilvántartott ingatlan, valamint tanya, vagy birtokközpont jogi jelleggel nyilvántartott ingatlan lakáscélú épületei a hozzá tartozó földrészlettel, amely rendelkezik legalább:
 
 a) 12 négyzetmétert meghaladó alapterületű lakószobával és főzőhelyiséggel – ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel –, továbbá fürdőhelyiséggel és WC-vel,
 
@@ -104,7 +104,7 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 
 13. preferált kistelepülés: a 2. melléklet szerinti település;
 
-14. [^8] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel, a használatbavétel tudomásulvétele megtörténtének igazolásával vagy a felépítésének megtörténtét tanúsító hatósági bizonyítvánnyal igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
+14. [^9] új lakás: a meglévő épület vagy épületrész átalakítása kivételével az alapozási munkáktól kezdődően – kivéve, ha a meglévő alap szakértői vélemény alapján felhasználható – újonnan épített egylakásos lakóépület, amelynek az elkészülte használatbavételi engedéllyel, a használatbavétel tudomásulvétele megtörténtének igazolásával vagy a felépítésének megtörténtét tanúsító hatósági bizonyítvánnyal igazolható, ideértve a tanyán vagy birtokközpontban található lakóépületet is.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló 2013. évi V. törvényben (a továbbiakban: Ptk.), a Hpt.-ben, az OTÉK-ban, valamint az épített környezet alakításáról és védelméről szóló 1997. évi LXXVII. törvényben meghatározottak szerint kell értelmezni.
 
@@ -115,6 +115,7 @@ e) közműves ivóvíz-szolgáltatással, vagy ha a településen (településr�
 (5) A (3) és (4) bekezdés rendelkezéseit a 6. § (2) bekezdése szerinti kérelem esetén is alkalmazni kell, azzal, hogy építési engedélyköteles vagy egyszerű bejelentéshez kötött építési tevékenység esetén az építési engedélyt vagy a 30. § (1) bekezdés 9. pontja szerinti dokumentumokat a korszerűsítési, illetve bővítési munkálatokhoz kapcsolódó első részfolyósítást megelőzően kell benyújtani.
 
 [^5]: Az 5. § (1) bekezdés 1. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^6]: Az 5. § (1) bekezdés 5. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
-[^7]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
-[^8]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.
+[^6]: Az 5. § (1) bekezdés 4. pontja a 35/2024. (II. 29.) Korm. rendelet 344. §-a szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés 5. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés 11. pont nyitó szövegrésze a 649/2023. (XII. 28.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^9]: Az 5. § (1) bekezdés 14. pontja a 649/2023. (XII. 28.) Korm. rendelet 16. § 4. pontja szerint módosított szöveg.
