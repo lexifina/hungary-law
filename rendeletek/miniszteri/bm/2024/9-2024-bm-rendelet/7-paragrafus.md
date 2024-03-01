@@ -1,0 +1,1 @@
+7. § A harmadik ország állampolgárságával rendelkező családtag a tartózkodási kártyát és a kijelölt kormányhivatal által kiadott, a személyi azonosítóról és a lakcímről szóló hatósági igazolványt köteles magánál tartani, és az arra feljogosított hatóságnak bemutatni. Erről a harmadik ország állampolgárságával rendelkező családtagot az okmány kiadásakor tájékoztatni kell.

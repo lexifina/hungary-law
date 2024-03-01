@@ -1,0 +1,1 @@
+4. § A tartózkodási kártyát annak a harmadik ország állampolgárságával rendelkező kiskorúnak is külön kell kiadni, aki a tizennegyedik életévét nem töltötte be, és önálló úti okmánnyal nem rendelkezik, de személyes adatait a tartózkodási jogot igazoló okmánnyal rendelkező szülő úti okmánya tartalmazza.
