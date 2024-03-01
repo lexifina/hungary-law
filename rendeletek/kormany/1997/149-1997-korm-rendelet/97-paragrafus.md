@@ -28,7 +28,7 @@ vonatkozó döntést.
 
 (1a)[^806] A gyámhivatal által elrendelt ideiglenes hatályú elhelyezés esetén, ha a gyermek megelőző pártfogás alatt áll, a határozat tartalmazza a megelőző pártfogás fennállásának megállapítását is.
 
-(1b)[^807] Ha a gyámhivatal a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény vagy a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek (a továbbiakban: kísérő nélküli kiskorú) ideiglenes hatályú elhelyezését rendeli el, a határozat az (1) bekezdés i) pont ia) alpontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
+(1b)[^807] Ha a gyámhivatal a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény vagy a menedékjogról szóló törvény szerint kísérő nélküli kiskorúnak minősülő gyermek (a továbbiakban: kísérő nélküli kiskorú) ideiglenes hatályú elhelyezését rendeli el, a határozat az (1) bekezdés i) pont ia) alpontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
 
 (2)[^808] Az ideiglenes hatályú elhelyezést elrendelő határozatot közölni kell a gyermekétől külön élő szülővel és a gondozási helyen működő gyermekjogi képviselővel.
 
@@ -67,7 +67,7 @@ e)[^813] az azonnali végrehajthatóság kimondását.
 [^804]: A 97. § (1) bekezdés i) pont ia) alpontja a 60/2017. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^805]: A 97. § (1) bekezdés i) pont ib) alpontja a 448/2016. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^806]: A 97. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^807]: A 97. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 1. §-a iktatta be.
+[^807]: A 97. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 1. §-a iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 269. §-a szerint módosított szöveg.
 [^808]: A 97. § (2) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított szöveg.
 [^809]: A 97. § (3) bekezdése a 97/2013. (III. 29.) Korm. rendelet 28. §-ával megállapított, nyitó szövegrésze a 393/2017. (XII. 13.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
 [^810]: A 97. § (3) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 41. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
