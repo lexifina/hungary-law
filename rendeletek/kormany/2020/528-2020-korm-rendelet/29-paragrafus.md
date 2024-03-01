@@ -1,5 +1,3 @@
-## 28. § Az illetménynövekedés feltételeit a 2. melléklet tartalmazza azokban az esetekben, ahol a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg.
-
 29. § (1) Az egészségügyi szolgálati jogviszonyban álló személy végkielégítésének mértéke, ha az egészségügyi szolgálati jogviszonyban töltött idő legalább
 
 a) három év: egyhavi,

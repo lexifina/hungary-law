@@ -1,8 +1,8 @@
 ## 8. Az egészségügyi szolgálati jogviszonyban álló személy illetménye, juttatásai és egyéb támogatások
 
-24. § (1)[^29] Az Eszjtv. 8. § (3) bekezdésében foglaltakon túl az
+24. § (1)[^31] Az Eszjtv. 8. § (3) bekezdésében foglaltakon túl az
 
-a)[^30] országos és a vármegyei fekvőbeteg-ellátó egészségügyi szolgáltató, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ vezetőjét,
+a)[^32] országos és a vármegyei fekvőbeteg-ellátó egészségügyi szolgáltató, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ vezetőjét,
 
 b) városi fekvőbeteg-ellátó egészségügyi szolgáltató vezetőjét,
 
@@ -10,24 +10,25 @@ c) járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetőjét
 
 d) egészségügyi szolgáltató 5. § (1) bekezdés b) és c) pontja szerinti magasabb vezetőjét, valamint
 
-e) egészségügyi szolgáltató 5. § (2) bekezdése szerinti vezetőjét
+e)[^33] egészségügyi szolgáltató 5. § (2) és (2a) bekezdése szerinti vezetőjét
 
 vezetői juttatás illeti meg, melynek felső határát az országos kórház-főigazgató állapítja meg.
 
-(1a)[^31] Az Eszjtv. 8. § (3) bekezdésében foglaltakon túl az állami fenntartású mentőszolgálat és vérellátó-szolgálat vezetőjét vezetői juttatás illeti meg, melynek felső határát az egészségügyért felelős miniszter állapítja meg.
+(1a)[^34] Az Eszjtv. 8. § (3) bekezdésében foglaltakon túl az állami fenntartású mentőszolgálat és vérellátó-szolgálat vezetőjét vezetői juttatás illeti meg, melynek felső határát az egészségügyért felelős miniszter állapítja meg.
 
 (2) Az (1) bekezdés szerinti vezetői juttatás mértékét
 
-a)[^32] az országos és a vármegyei fekvőbeteg-ellátó egészségügyi szolgáltató, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ vezetője esetében az országos kórház-főigazgató,
+a)[^35] az országos és a vármegyei fekvőbeteg-ellátó egészségügyi szolgáltató, valamint az irányító vármegyei intézményi feladatokat ellátó klinikai központ vezetője esetében az országos kórház-főigazgató,
 
-b)[^33] a városi fekvőbeteg-ellátó egészségügyi szolgáltató vezetője, a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetője, az 5. § (1) bekezdés b) és c) pontja szerinti magasabb vezető, valamint az 5. § (2) bekezdése szerinti vezető esetében az irányító vármegyei intézmény főigazgatója
+b)[^36] a városi fekvőbeteg-ellátó egészségügyi szolgáltató vezetője, a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató vezetője, az 5. § (1) bekezdés b) és c) pontja szerinti magasabb vezető, valamint az 5. § (2) és (2a) bekezdése szerinti vezető esetében az irányító vármegyei intézmény főigazgatója
 
 állapítja meg.
 
 (3) Az (1) bekezdés alá nem tartozó egészségügyi szolgáltatónál a vezetői juttatások mértékét az egészségügyi szolgáltató fenntartója, illetve tulajdonosa állapítja meg.
 
-[^29]: A 24. § (1) bekezdés nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.
-[^30]: A 24. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
-[^31]: A 24. § (1a) bekezdését a 70/2021. (II. 19.) Korm. rendelet 23. §-a iktatta be.
-[^32]: A 24. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
-[^33]: A 24. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja szerint módosított szöveg.
+[^31]: A 24. § (1) bekezdés nyitó szövegrésze a 286/2023. (VI. 30.) Korm. rendelet 58. § c) pontja szerint módosított szöveg.
+[^32]: A 24. § (1) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
+[^33]: A 24. § (1) bekezdés e) pontja a 32/2024. (II. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^34]: A 24. § (1a) bekezdését a 70/2021. (II. 19.) Korm. rendelet 23. §-a iktatta be.
+[^35]: A 24. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § b) pontja szerint módosított szöveg.
+[^36]: A 24. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 310. § a) pontja, a 32/2024. (II. 22.) Korm. rendelet 14. §-a szerint módosított szöveg.

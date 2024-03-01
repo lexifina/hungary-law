@@ -1,4 +1,4 @@
-36. §[^37] Ez a rendelet
+36. §[^41] Ez a rendelet
 
 a) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -8,4 +8,4 @@ c) a szülők és a gondozók vonatkozásában a munka és a magánélet közöt
 
 való megfelelést szolgálja.
 
-[^37]: A 36. § a 630/2022. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^41]: A 36. § a 630/2022. (XII. 30.) Korm. rendelet 27. §-ával megállapított szöveg.
