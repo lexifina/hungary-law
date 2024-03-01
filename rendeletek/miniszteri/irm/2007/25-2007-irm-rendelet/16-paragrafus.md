@@ -1,6 +1,0 @@
-## 15. §[^30] Az érvénytelen tartózkodási engedélyt, EU Kék Kártyát, illetve bevándorolt vagy letelepedett státuszt igazoló okmányt, a tartózkodási engedélyt, az EU Kék Kártyát, illetve a bevándorolt vagy letelepedett státuszt visszavonó, az okmány cseréjét vagy pótlását végző regionális igazgatóság matrica formátumú okmány esetén „ÉRVÉNYTELEN” szövegű, nedves bélyegzőlenyomat elhelyezésével, kártya formátumú okmány esetén kilyukasztással érvényteleníti, és gondoskodik az érvénytelenség tényének, okának és időpontjának a központi idegenrendészeti nyilvántartásba történő bejegyzéséről.
-
-16. §[^31]
-
-[^30]: A 15. § a 27/2011. (VIII. 24.) BM rendelet 7. §-a szerint módosított szöveg.
-[^31]: A 16. §-t a 61/2022. (XII. 27.) BM rendelet 2. § a) pontja hatályon kívül helyezte.

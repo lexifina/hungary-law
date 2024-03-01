@@ -1,3 +1,0 @@
-37. melléklet a 25/2007. (V. 31.) IRM rendelethez[^97]
-
-[^97]: A 37. mellékletet a 23/2016. (VI. 29.) BM rendelet 10. § (2) bekezdés b) pontja iktatta be, hatályon kívül helyezte a 38/2017. (XII. 27.) BM rendelet 8. § d) pontja.
