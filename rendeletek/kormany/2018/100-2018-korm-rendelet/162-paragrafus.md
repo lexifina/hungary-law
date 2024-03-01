@@ -14,7 +14,7 @@ b) a személyi szabadságot érintő bírói engedélyes kényszerintézkedésre
 
 c) az esetleges enyhébb kényszerintézkedés alkalmazását kizáró indokokat,
 
-d)[^50] a védő adatait az ügyvédi irodája vagy székhelye címének és a telefonos elérhetőségének feltüntetésével, és azzal, hogy a gyanúsított védelmét kirendelés vagy meghatalmazás alapján látja el,
+d)[^51] a védő adatait az ügyvédi irodája vagy székhelye címének és a telefonos elérhetőségének feltüntetésével, és azzal, hogy a gyanúsított védelmét kirendelés vagy meghatalmazás alapján látja el,
 
 e) a fogva tartás helyét,
 
@@ -24,10 +24,10 @@ g) az ügyiratok megismerésének biztosításával kapcsolatos adatokat, és az
 
 h) annak tényét, ha a terhelt óvadék megállapítására irányuló indítványt tett.
 
-(3)[^51] Ha az őrizet elrendelésére elfogatóparancs alapján került sor, és az elfogott személy jelenlétének telekommunikációs eszköz útján történő biztosítása indokolt vagy célszerű, haladéktalanul tisztázni kell, hogy a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hozzájárul-e ahhoz, hogy az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság, ügyészség vagy nyomozó hatóság előtt telekommunikációs eszköz útján biztosítsák a jelenlétét.
+(3)[^52] Ha az őrizet elrendelésére elfogatóparancs alapján került sor, és az elfogott személy jelenlétének telekommunikációs eszköz útján történő biztosítása indokolt vagy célszerű, haladéktalanul tisztázni kell, hogy a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hozzájárul-e ahhoz, hogy az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság, ügyészség vagy nyomozó hatóság előtt telekommunikációs eszköz útján biztosítsák a jelenlétét.
 
-(4)[^52] A terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek a (3) bekezdés szerinti nyilatkozatáról feljegyzést kell készíteni, vagy a nyilatkozatát az őrizet elrendelésével kapcsolatos jogorvoslati nyilatkozatát tartalmazó ügyiratba kell foglalni, és a feljegyzést vagy az ügyiratot haladéktalanul meg kell küldeni az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság, ügyészség vagy nyomozó hatóság részére.
+(4)[^53] A terheltnek vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személynek a (3) bekezdés szerinti nyilatkozatáról feljegyzést kell készíteni, vagy a nyilatkozatát az őrizet elrendelésével kapcsolatos jogorvoslati nyilatkozatát tartalmazó ügyiratba kell foglalni, és a feljegyzést vagy az ügyiratot haladéktalanul meg kell küldeni az elfogatóparancsot kibocsátó vagy az abban megjelölt más bíróság, ügyészség vagy nyomozó hatóság részére.
 
-[^50]: A 162. § (2) bekezdés d) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^51]: A 162. § (3) bekezdését a 635/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
-[^52]: A 162. § (4) bekezdését a 635/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^51]: A 162. § (2) bekezdés d) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^52]: A 162. § (3) bekezdését a 635/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^53]: A 162. § (4) bekezdését a 635/2022. (XII. 30.) Korm. rendelet 3. §-a iktatta be.

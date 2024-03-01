@@ -10,7 +10,7 @@ b) a nyomozás befejezésére, illetve az eljárás felfüggesztésére tesz el�
 
 a) az eljárásban fennálló kényszerintézkedéseket és azok határidejét,
 
-b)[^37] a gyanúsított, a védő és a sértett nevét, illetve elérhetőségét, ideértve a telefonos elérhetőségét, az elektronikus levelezési címét, illetve más elektronikus elérhetőségét is,
+b)[^38] a gyanúsított, a védő és a sértett nevét, illetve elérhetőségét, ideértve a telefonos elérhetőségét, az elektronikus levelezési címét, illetve más elektronikus elérhetőségét is,
 
 c) az eljárásban részt vevő különleges bánásmódot igénylő személy nevét, illetve – azonosításra alkalmas – megjelölését,
 
@@ -20,4 +20,4 @@ e) a vizsgálat során szükségesnek tartott eljárási cselekményekre vonatko
 
 (4) A nyomozó hatóságnak a nyomozás befejezésére, illetve az eljárás felfüggesztésére tett előterjesztése a (3) bekezdésben foglaltak mellett tartalmazza a javasolt határozat törvényi feltételeinek fennállásával összefüggésben a bizonyítási eszközök megjelölését, lényegi tartalmát és értékelését is.
 
-[^37]: A 147. § (3) bekezdés b) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^38]: A 147. § (3) bekezdés b) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.

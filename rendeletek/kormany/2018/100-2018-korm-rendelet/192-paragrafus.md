@@ -8,7 +8,7 @@ a) ha az alkalmazó szerv a fizetési művelet felfüggesztéséről is rendelke
 
 b) az adatok továbbításának módját és határidejét és
 
-c)[^63] az alkalmazó szerv kapcsolattartásra kijelölt tagjának adatait, elérhetőségét, ideértve a telefonos elérhetőségét is.
+c)[^64] az alkalmazó szerv kapcsolattartásra kijelölt tagjának adatait, elérhetőségét, ideértve a telefonos elérhetőségét is.
 
 (3) Az alkalmazó szerv a (2) bekezdés b) pontja szerint az adattovábbítás módjaként elektronikus kapcsolattartást határoz meg, kivéve, ha az ügy körülményei alapján – különösen a minősített adat kezelésére figyelemmel – más kapcsolattartási mód meghatározása indokolt.
 
@@ -26,4 +26,4 @@ a) a meghosszabbítás iránti indítványt az alkalmazó szerv a határidő lej
 
 b) az indítvány tartalmazza a fizetési műveletek megfigyelésének határidejére vonatkozó adatot, valamint a fizetési műveletek megfigyelése végrehajtása során beszerzett adatok összefoglalását is.
 
-[^63]: A 192. § (2) bekezdés c) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.
+[^64]: A 192. § (2) bekezdés c) pontja a 635/2022. (XII. 30.) Korm. rendelet 4. § h) pontja szerint módosított szöveg.

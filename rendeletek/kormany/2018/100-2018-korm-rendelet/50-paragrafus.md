@@ -1,5 +1,3 @@
-## 49. § Ha a nyomozó hatóság a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerint az idegenrendészeti hatóságnál a harmadik országbeli állampolgárnak, illetve rá tekintettel más személynek a humanitárius célból történő tartózkodási engedéllyel való ellátását indítványozza, erről az indítvány megküldésével tájékoztatja az ügyészséget.
-
 ## 29. Eljárási cselekmény elvégzése határozat nélkül
 
 50. § (1) A halaszthatatlan eljárási cselekményről készült jegyzőkönyvnek tartalmaznia kell az alábbiakat is:
