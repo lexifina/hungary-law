@@ -1,0 +1,1 @@
+12. § Hatályát veszti a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló 23/2001. (XII. 27.) KüM rendelet.
