@@ -58,7 +58,7 @@ e)[^37] az adóazonosító jelet adóigazolvánnyal, ideiglenes adóigazolvánny
 
 f) a három hónapot meghaladó tartózkodás jogát a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerinti regisztrációs igazolással, érvényes tartózkodási kártyával vagy állandó tartózkodási kártyával,
 
-g)[^38] a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással; a bevándorolt jogállást bevándorlási engedéllyel, a letelepedett jogállást letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel vagy EK letelepedési engedéllyel,
+g)[^38] a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással, a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával,
 
 h)[^39] az Ebtv. 42/E. §-a alapján megállapított gyermekgondozási díj folyósításának időtartamát az ellátást megállapító szerv által kiállított igazolással
 
@@ -83,7 +83,7 @@ kell igazolni.
 [^35]: Az 5. § (5) bekezdés c) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.
 [^36]: Az 5. § (5) bekezdés d) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított, az 530/2021. (IX. 14.) Korm. rendelet 29. § d) pontja, a 616/2022. (XII. 29.) Korm. rendelet 292. § b) pontja, a 406/2023. (VIII. 30.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
 [^37]: Az 5. § (5) bekezdés e) pontja a 252/2020. (V. 29.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^38]: Az 5. § (5) bekezdés g) pontja az 530/2021. (IX. 14.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 5. § (5) bekezdés g) pontja a 35/2024. (II. 29.) Korm. rendelet 330. §-ával megállapított szöveg.
 [^39]: Az 5. § (5) bekezdés h) pontját a 252/2020. (V. 29.) Korm. rendelet 19. § (2) bekezdése iktatta be.
 [^40]: Az 5. § (5) bekezdés i) pontját az 530/2021. (IX. 14.) Korm. rendelet 26. § (2) bekezdése iktatta be.
 [^41]: Az 5. § (5) bekezdés j) pontját a 649/2023. (XII. 28.) Korm. rendelet 22. § (1) bekezdése iktatta be.

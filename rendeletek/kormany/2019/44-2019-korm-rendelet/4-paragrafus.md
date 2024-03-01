@@ -30,7 +30,7 @@ fa) magyar állampolgár vagy olyan személy, akit a magyar állampolgárságró
 
 fb) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személy, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát Magyarország területén gyakorolja, vagy
 
-fc)[^17] a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben foglaltak alapján hontalan jogállásúnak ismerték el, vagy bevándorolt vagy letelepedett jogállással rendelkezik,
+fc)[^17] a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben foglaltak alapján hontalan jogállásúnak ismerték el, vagy huzamos tartózkodási jogosultsággal rendelkezik,
 
 g)[^18]
 
@@ -89,7 +89,7 @@ b) a 16. § (6) bekezdése szerinti újabb házasságkötés esetét, ha a támo
 [^14]: A 4. § (1) bekezdés c) pont ca) alpontja a 252/2020. (V. 29.) Korm. rendelet 32. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^15]: A 4. § (1) bekezdés c) pont cb) alpontja az 530/2021. (IX. 14.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
 [^16]: A 4. § (1) bekezdés e) pontja az 530/2021. (IX. 14.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
-[^17]: A 4. § (1) bekezdés f) pont fc) alpontja az 530/2021. (IX. 14.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (1) bekezdés f) pont fc) alpontja a 35/2024. (II. 29.) Korm. rendelet 329. §-ával megállapított szöveg.
 [^18]: A 4. § (1) bekezdés g) pontját a 252/2020. (V. 29.) Korm. rendelet 33. § a) pontja hatályon kívül helyezte.
 [^19]: A 4. § (1) bekezdés h) pontja a 151/2019. (VI. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: A 4. § (1) bekezdés j) pontja a 151/2019. (VI. 26.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
