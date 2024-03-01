@@ -1179,3 +1179,63 @@ BUDAPEST
 |
 
 Kivett lakóház, udvar
+
+|
+
+59.
+
+|
+
+Budapest
+
+|
+
+10886/43
+
+|
+
+1/1
+
+|
+
+kivett kórház
+
+|
+
+60.
+
+|
+
+Budapest
+
+|
+
+31571/2
+
+|
+
+1/1
+
+|
+
+kivett kórház
+
+|
+
+61.
+
+|
+
+Budapest
+
+|
+
+31567
+
+|
+
+1/1
+
+|
+
+kivett lakóház, udvar
