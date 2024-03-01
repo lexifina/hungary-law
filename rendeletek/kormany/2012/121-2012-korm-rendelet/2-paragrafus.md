@@ -7,3 +7,5 @@
 a) készpénzfizetés esetében, illetve ha a közlekedési szolgáltató a számvitelről szóló törvény alapján könyvvezetési kötelezettségének a pénzforgalmi könyvvitel szerint tesz eleget vagy csak a bevételeiről vezet nyilvántartást, az ellenérték kiegyenlítésének napját követően,
 
 b) – az a) ponttól eltérő fizetési mód esetében – a személyszállítási közszolgáltatásról kiállított számlán a teljesítés időpontjaként feltüntetett napot követően
+
+a tárgyhónapot követő hónap 20. napjától igényelheti az állami adóhatóságtól.

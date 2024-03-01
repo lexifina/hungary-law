@@ -1,5 +1,3 @@
-## a tárgyhónapot követő hónap 20. napjától igényelheti az állami adóhatóságtól.
-
 3. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2012. július 1-jén lép hatályba.
 
 (2) A 4. § b) pontja 2012. július 2-án lép hatályba.

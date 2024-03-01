@@ -6,7 +6,7 @@ a) országos, regionális és elővárosi személyszállítási közszolgáltat�
 
 b) helyi közszolgáltatást nyújtó és az ilyen szolgáltatás igénybevételére jogosító összekapcsolt vagy integrált bérletben megállapodás szerint díjrészesedéssel rendelkező társaság esetén a tárgyhónapban eladott, összekapcsolt vagy integrált kedvezményes árú bérlet darabszámát
 
-## kell figyelembe venni.
+kell figyelembe venni.
 
 (3) A díjmentes utazásokhoz kapcsolódóan az igénybe vehető támogatás összegét
 
@@ -14,7 +14,7 @@ a) országos, regionális és elővárosi személyszállítási közszolgáltat�
 
 b) a helyi személyszállítási közszolgáltatási tevékenység esetében a Központi Statisztikai Hivatal által az adott település az igénylés időpontjában közzétett lakosságszámának és az 1. mellékletben meghatározott fajlagos támogatási összeg szorzata
 
-## alapján kell meghatározni.
+alapján kell meghatározni.
 
 (4) A személyszállítási közszolgáltatás keretében alkalmazott kedvezményes félhavi, negyedéves, féléves és éves vagy eltérő érvényességi idejű bérletek esetében a támogatás 1. melléklet szerinti mértékét a 2. mellékletben meghatározott számítási módszerrel kell meghatározni.
 

@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-121-20-
 | 2013-11-01 | 2012-121-20-22.4 | 370/2013. (X. 24.) Korm. rendelet |
 | 2020-12-01 | 2012-121-20-22.5 | 445/2020. (X. 1.) Korm. rendelet |
 | 2022-04-12 | 2012-121-20-22.6 | 134/2022. (IV. 7.) Korm. rendelet |
+| 2024-03-01 | 2012-121-20-22.7 | 37/2024. (II. 29.) Korm. rendelet |
