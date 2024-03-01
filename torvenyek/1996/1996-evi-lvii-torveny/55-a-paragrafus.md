@@ -8,7 +8,7 @@ ba) ügyfél iratbetekintése esetén, vagy
 
 bb) ha az érintett adat védelmét szabályozó külön törvényben az adat megismerésére meghatározott különös feltételek fennállnak,
 
-c) felhasználói vagy megismerési engedély hiányában a minősített adatot,
+c) személyi biztonsági feltételek megléte vagy megismerési engedély hiányában a minősített adatot,
 
 d) az egyéb védett adatot, kivéve, ha
 
