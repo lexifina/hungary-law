@@ -1,13 +1,13 @@
-15. §[^76] (1)[^77] Az R.3. 12. § b) és d) pontjával hatályon kívül helyezett Konzerváló fogászat és fogpótlástan alap szakképzésben részt vevők 2022. december 31-éig tehetnek szakvizsgát.
+15. §[^77] (1)[^78] Az R.3. 12. § b) és d) pontjával hatályon kívül helyezett Konzerváló fogászat és fogpótlástan alap szakképzésben részt vevők 2022. december 31-éig tehetnek szakvizsgát.
 
-(2)[^78] Az OKFŐ a 8. § (17) bekezdése szerinti, az egyetemek által egységesen meghatározott részvizsgával kapcsolatos eljárásrendet és jogorvoslati szabályokat legkésőbb 2022. október 31-ig a honlapján közzéteszi.
+(2)[^79] Az OKFŐ a 8. § (17) bekezdése szerinti, az egyetemek által egységesen meghatározott részvizsgával kapcsolatos eljárásrendet és jogorvoslati szabályokat legkésőbb 2022. október 31-ig a honlapján közzéteszi.
 
-(3)[^79] A részvizsgák témaköreit és kérdéseit az egyetemek legkésőbb 2022. október 31-ig határozzák meg, és honlapjukon a jelöltek számára hozzáférhetővé teszik.
+(3)[^80] A részvizsgák témaköreit és kérdéseit az egyetemek legkésőbb 2022. október 31-ig határozzák meg, és honlapjukon a jelöltek számára hozzáférhetővé teszik.
 
-(4)[^80] A BM rendelettel megállapított bőr-, nemigyógyászat és kozmetológia szakképesítés megfeleltethető a BM rendelet hatálybalépését megelőzően megkezdhető bőrgyógyászat szakképesítésnek.
+(4)[^81] A BM rendelettel megállapított bőr-, nemigyógyászat és kozmetológia szakképesítés megfeleltethető a BM rendelet hatálybalépését megelőzően megkezdhető bőrgyógyászat szakképesítésnek.
 
-[^76]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 28/2018. (VIII. 29.) EMMI rendelet 9. §-a iktatta be.
-[^77]: A 15. § (1) bekezdése a 6/2021. (II. 9.) EMMI rendelet 7. §-a, a 28/2022. (VIII. 25.) BM rendelet 28. § e) pontja szerint módosított szöveg.
-[^78]: A 15. § (2) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 4. § c) pontja hatályon kívül helyezte, újonnan a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.
-[^79]: A 15. § (3) bekezdését a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.
-[^80]: A 15. § (4) bekezdését a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.
+[^77]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 28/2018. (VIII. 29.) EMMI rendelet 9. §-a iktatta be.
+[^78]: A 15. § (1) bekezdése a 6/2021. (II. 9.) EMMI rendelet 7. §-a, a 28/2022. (VIII. 25.) BM rendelet 28. § e) pontja szerint módosított szöveg.
+[^79]: A 15. § (2) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 4. § c) pontja hatályon kívül helyezte, újonnan a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.
+[^80]: A 15. § (3) bekezdését a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.
+[^81]: A 15. § (4) bekezdését a 28/2022. (VIII. 25.) BM rendelet 26. §-a iktatta be.

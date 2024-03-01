@@ -28,7 +28,7 @@
 
 | 13. | Infekciókontroll intenzív osztályos és műtői környezetben | x |  |  |  |  |  |  |
 
-2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^87]
+2. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^88]
 
 Szakorvosi alap szakképzési programok
 
@@ -1898,7 +1898,7 @@ c) A vizsgafeladat értékelésének szempontjai: Az elméleti tudásszint megí
 
 6.3.2.2. A részvizsgára bocsátás feltételei: összesen 36 hónap teljesítése a képzésből
 
-6.3.2.3.[^88] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
+6.3.2.3.[^89] A 2. részvizsgával rendelkező által ellátható feladatok (kompetenciák):
 
-[^87]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
-[^88]: A 2. melléklet 6. alcím 6.3. pont 6.3.2.3. alpontjában foglalt táblázat a 40/2023. (IX. 21.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
+[^88]: A 2. melléklet a 28/2022. (VIII. 25.) BM rendelet 27. § (4) bekezdésével megállapított szöveg.
+[^89]: A 2. melléklet 6. alcím 6.3. pont 6.3.2.3. alpontjában foglalt táblázat a 40/2023. (IX. 21.) BM rendelet 6. § (2) bekezdése szerint módosított szöveg.
