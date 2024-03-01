@@ -28,7 +28,7 @@ m) a cég elektronikus kézbesítési címét,
 
 n) a cégnek az E-ügyintézési tv. szerinti hivatalos elérhetőségét
 
-(2)
+(2) Az (1) bekezdés d) pontjában meghatározott adat bejegyzésével egyidejűleg a cégbíróság az adat bejegyzésének alapjául szolgáló, a cégbejegyzési (változásbejegyzési) kérelemhez csatolt létesítő okiratot minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással és minősített időbélyegzővel látja el és intézkedik a létesítő okiratnak a cégjegyzék útján való megismerhetőségéről.
 
 (3) Az (1) bekezdés f) pontjában szereplő jegyzett tőkeként kell feltüntetni az európai gazdasági egyesülés, a külföldiek magyarországi fióktelepe vagy kereskedelmi képviselete esetén a tulajdonos, illetve a külföldi vállalkozás által a működéshez rendelkezésre bocsátott összeget. A jegyzett tőkét – a számviteli törvény felhatalmazása alapján devizakönyvvezetést alkalmazó társaság, az európai részvénytársaság, az európai gazdasági egyesülés kivételével – forintban kell meghatározni. Az európai szövetkezet a jegyzett tőkéjét euróban is meghatározhatja.
 
