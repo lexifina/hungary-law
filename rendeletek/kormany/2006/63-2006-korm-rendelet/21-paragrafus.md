@@ -10,7 +10,7 @@ b) a (8) bekezdés szerinti szakorvosi szakmai vélemény
 
 (3) Az (1) bekezdés szerinti vizsgálatot végző személy az ápolás helyszínén történő vizsgálat időpontjáról az ápolást végző személyt a vizsgálat lefolytatását legalább öt nappal megelőzően értesíti.
 
-(4)[^142] Az (1) bekezdés szerinti vizsgálatot végző személy az önellátásra való képesség hiányának tényét az ápolás helyszínén végzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg és az erről szóló szakmai véleményét a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
+(4)[^143] Az (1) bekezdés szerinti vizsgálatot végző személy az önellátásra való képesség hiányának tényét az ápolás helyszínén végzett vizsgálat megállapításaira, valamint az ápolt személy önkiszolgáló képességére vonatkozó hivatalos iratra – így különösen a kórházi zárójelentésre – alapozva állapítja meg és az erről szóló szakmai véleményét a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon küldi meg a járási hivatalnak. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
 
 (5) A (4) bekezdés szerinti szakmai vélemény tartalmazza
 
@@ -32,26 +32,26 @@ h) a szakmai vélemény érvényességi idejére vonatkozó adatot és
 
 i) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
 
-(6)[^143] A (4) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, vagy határozatlan idejű abban az esetben, ha a súlyosan fogyatékos ápolt gyermek állapota végleges, és abban változás nem várható. Határozatlan érvényességi idejű szakmai vélemény csak abban az esetben állítható ki, ha az orvostudomány jelenlegi állása szerint az önellátási képességben javulás sem műtéttel, sem gyógykezeléssel, sem rehabilitációval nem érhető el, és abban a gyermek életkorából adódó változás sem várható.
+(6)[^144] A (4) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, vagy határozatlan idejű abban az esetben, ha a súlyosan fogyatékos ápolt gyermek állapota végleges, és abban változás nem várható. Határozatlan érvényességi idejű szakmai vélemény csak abban az esetben állítható ki, ha az orvostudomány jelenlegi állása szerint az önellátási képességben javulás sem műtéttel, sem gyógykezeléssel, sem rehabilitációval nem érhető el, és abban a gyermek életkorából adódó változás sem várható.
 
-(6a)[^144] A gyermekek otthongondozási díját megállapító szerv a (4) bekezdés szerinti szakvélemény hatálya alatt kezdeményezheti a gyermekek otthongondozási díjára való jogosultság felülvizsgálatát, ha olyan tényről vagy körülményről szerez tudomást, amely valószínűsíti, hogy a korábbi szakmai véleményben megállapított körülmény nem áll fent. A felülvizsgálati eljárás során új szakértőt kell kirendelni. A szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
+(6a)[^145] A gyermekek otthongondozási díját megállapító szerv a (4) bekezdés szerinti szakvélemény hatálya alatt kezdeményezheti a gyermekek otthongondozási díjára való jogosultság felülvizsgálatát, ha olyan tényről vagy körülményről szerez tudomást, amely valószínűsíti, hogy a korábbi szakmai véleményben megállapított körülmény nem áll fent. A felülvizsgálati eljárás során új szakértőt kell kirendelni. A szakmai vélemény elkészítésére felsőfokú egészségügyi vagy szociális végzettségű, a fogyatékos személyek szociális ellátásában dolgozó, vagy a fogyatékos személyek szociális ellátása témakörben szakvizsgával rendelkező személy kérhető fel.
 
 (7) A (4) bekezdés szerinti szakmai vélemény hatálya alatt a háziorvosi igazolást is hatályosnak kell tekinteni.
 
 (8) Hat év alatti ápolt gyermek esetében az önellátási képesség mértékét és az önellátásra való képtelenség tényét a magasabb összegű családi pótlékra jogosító betegségek és fogyatékosságok igazolására miniszteri rendelet alapján jogosult szakorvos igazolja az (5) bekezdésben meghatározott adattartalommal rendelkező formanyomtatványon. A szakmai vélemény elkészítése során az önellátásra való képesség hiányának megállapítására irányuló vizsgálatot az 1. mellékletben meghatározott értékelési szempont- és pontozási rendszer alapján kell elvégezni.
 
-(8a)[^145] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
+(8a)[^146] A (8) bekezdés szerinti szakmai vélemény érvényességi ideje legfeljebb 5 év, azzal, hogy a szakvélemény érvényességi ideje legfeljebb a gyermek 7. életévének betöltéséig terjedhet.
 
-(8b)[^146] A gyermekek otthongondozási díját megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
+(8b)[^147] A gyermekek otthongondozási díját megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
 
-(9)[^147] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+(9)[^148] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
 
-(10)[^148] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+(10)[^149] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
 
-[^142]: A 21. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
-[^143]: A 21. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
-[^144]: A 21. § (6a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
-[^145]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^146]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^147]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^148]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^143]: A 21. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^144]: A 21. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
+[^145]: A 21. § (6a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
+[^146]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^147]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^148]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^149]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.

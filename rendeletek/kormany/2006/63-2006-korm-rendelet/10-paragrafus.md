@@ -1,3 +1,3 @@
-10. §[^80]
+10. §[^81]
 
-[^80]: A 10. §-t a 440/2016. (XII. 16.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
+[^81]: A 10. §-t a 440/2016. (XII. 16.) Korm. rendelet 10. § c) pontja hatályon kívül helyezte.
