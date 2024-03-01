@@ -8,6 +8,6 @@ b) az ítélőtábla hozta, a fellebbezést a Kúria
 
 tanácsülésen bírálja el.
 
-(2) A fellebbezés nem vonható vissza.
+(2)
 
 (3) Nincs helye fellebbezésnek, ha a hatályon kívül helyező végzést a Kúria hozta.

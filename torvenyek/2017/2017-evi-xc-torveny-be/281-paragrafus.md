@@ -10,6 +10,6 @@ b) meghatározott jellegű nyilvános helyeket, nyilvános rendezvényeket vagy 
 
 c) meghatározott időközönként és módon a rendőrség általános rendőrségi feladatok ellátására létrehozott szervénél jelentkezzen.
 
-(3) A bíróság a bűnügyi felügyelettel elérni kívánt célt biztosító további magatartási szabályokat is előírhat.
+(3) A bíróság a bűnügyi felügyelettel elérni kívánt célt biztosító további magatartási szabályokat is előírhat, ideértve a pártfogó felügyelet külön magatartási szabályaként meghatározható olyan magatartási szabályokat is, amelyek célja a bűnismétlés lehetőségének a megakadályozása.
 
 (4) A (2) bekezdés a) pontjának alkalmazása esetén a bíróság magatartási szabályként meghatározza, hogy a terhelt a kijelölt területet, helyet milyen célból, különösen a mindennapi élet szokásos szükségleteinek biztosítása, munkavégzés vagy gyógykezelés céljából, milyen feltételek szerint hagyhatja el.

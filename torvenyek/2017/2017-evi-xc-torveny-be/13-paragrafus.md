@@ -4,7 +4,7 @@
 
 (2) Az elsőfokú bíróság három hivatásos bíróból álló tanácsban jár el, ha az egyesbíró az ügyet a bíróság tanácsa elé utalta. A bíróság tanácsa elé utalt ügyben később egyesbíró nem járhat el.
 
-(3) Az elsőfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt három hivatásos bíróból álló tanácsban jár el, a tanács egy tagja a törvényszék gazdasági ügyszakának, ennek hiányában a törvényszék polgári ügyszakának bírája.
+(3) Ha az elsőfokú bíróság a gazdálkodással összefüggő kiemelt bűncselekmény miatt három hivatásos bíróból álló tanácsban jár el, akkor a tanács egy tagjának a törvényszék gazdasági ügyszakának, a törvényszék polgári ügyszakának, vagy a törvényszék közigazgatási ügyszakának bírája is kijelölhető.
 
 (4) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el.
 

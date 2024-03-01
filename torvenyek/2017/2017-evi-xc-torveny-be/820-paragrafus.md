@@ -22,6 +22,8 @@ b) ha az elkobzás, a vagyonelkobzás vagy az elektronikus adat végleges hozzá
 
 és feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
 
+(2a) Az ötmillió forintot nem meghaladó összegű pénzösszegben kifejezett vagyonelkobzás esetén a (2) bekezdés a) pontja szerinti vagyonkutatást csak akkor kell elrendelni, ha a rendelkezésre álló adatok, illetve bizonyítási eszközök alapján megalapozottan feltehető, hogy a vagyonelvonásra irányuló eljárás célja elérhető.
+
 (3) Az ügyészség a (2) bekezdés a) pont aa) alpontja esetén a vagyonkutatás elrendeléséről tájékoztatja az állami adó- és vámhatóságot.
 
 (4) A vagyonkutatást az (1) bekezdés esetén a nyomozó hatóság vagy az ügyészség, a (2) bekezdés esetén a nyomozó hatóság vagyonvisszaszerzési szerve folytatja le.

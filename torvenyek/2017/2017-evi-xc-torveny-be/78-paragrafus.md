@@ -2,7 +2,7 @@
 
 78. § (1) Ha a büntetőeljárásban részt vevő személy a nem magyar anyanyelvét, nemzetiségi anyanyelvét vagy törvénnyel kihirdetett nemzetközi szerződésben meghatározott egyéb anyanyelvét kívánja használni, – lehetőleg a jogi szaknyelv megfelelő ismeretével rendelkező – tolmácsot kell igénybe venni.
 
-(2) Ha az anyanyelv használata aránytalan nehézségbe ütközne, a magyar nyelvet nem ismerő személy által ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
+(2) Ha az anyanyelv használata aránytalan nehézségbe ütközne, vagy a magyar nyelvet nem ismerő személy ahhoz hozzájárul, akkor az általa ismertként megjelölt más nyelv használatát kell tolmács útján biztosítani.
 
 (3) Ha a büntetőeljárásban részt vevő személy hallássérült, kérésére jelnyelvi tolmács közreműködésével kell kihallgatni, vagy a kihallgatás helyett írásbeli vallomást is tehet.
 

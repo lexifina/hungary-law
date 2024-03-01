@@ -22,4 +22,4 @@ b) a 742. § és a 744. §-ban foglaltakra való figyelmeztetést.
 
 (4) A büntetővégzés indokolása a megállapított tényállást, a vádra és a büntetővégzés feltételeinek fennállására való utalást, valamint az alkalmazott jogszabályok megjelölését tartalmazza.
 
-(5) Ha a büntetővégzés meghozatalát az ügyészség indítványozta, a büntetővégzést bírósági titkár is meghozhatja.
+(5) Ha a büntetővégzés meghozatalát az ügyészség indítványozta, a büntetővégzést – a 740. § (4) bekezdésében foglalt esetet kivéve – bírósági titkár is meghozhatja.

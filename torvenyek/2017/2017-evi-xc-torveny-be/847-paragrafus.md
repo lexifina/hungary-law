@@ -1,4 +1,4 @@
-847. § (1) Ha a kártalanítást a 845. § (1) bekezdésében meghatározott ok miatt igénylik, nem jár kártalanítás, ha az ügyészség vagy a nyomozó hatóság által megszüntetett eljárás folytatását utóbb elrendelik, feltéve, hogy ennek eredményeként az eljárást nem szüntetik meg a 845. § (1) bekezdésében meghatározott ok miatt.
+847. § (1) Ha a kártalanítást a 845. § (1) bekezdésében meghatározott ok miatt igénylik, és az ügyészség vagy a nyomozó hatóság által megszüntetett eljárást utóbb akár közvádas, akár magánvádas eljárásban lefolytatják, az eljárás újabb befejezéséről rendelkező határozat alapján a 845. §-ban vagy a 846. §-ban meghatározottak szerint járhat kártalanítás.
 
 (2) Ha a kártalanítást a 845. § (3) bekezdés a) pontjában vagy a (4) bekezdés b) pontjában meghatározott ok miatt igénylik, nem jár kártalanítás, ha a szabadságvesztés végrehajtásának felfüggesztése esetén utóbb a felfüggesztett szabadságvesztést végre kell hajtani.
 

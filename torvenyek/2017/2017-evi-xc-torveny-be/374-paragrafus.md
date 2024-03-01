@@ -6,7 +6,7 @@ a) a távoltartás, illetve a bűnügyi felügyelet magatartási szabályainak r
 
 b) az elkobzás, illetve a vagyonelkobzás biztosítása érdekében alkalmazott lefoglalás elrendelése ellen,
 
-c) a zár alá vétel elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
+c) a zár alá vétel elrendelése ellen, ha – a 327. § (5) bekezdése kivételével – azt az ügyészség vagy a nyomozó hatóság rendelte el,
 
 d) a lefoglalt dolog értékesítésének elrendelése ellen, ha azt az ügyészség vagy a nyomozó hatóság rendelte el,
 

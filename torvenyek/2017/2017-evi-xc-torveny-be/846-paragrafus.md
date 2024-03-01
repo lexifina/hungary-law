@@ -8,6 +8,6 @@ c) a bíróság, az ügyészség vagy a nyomozó hatóság megtévesztésére t�
 
 d) letartóztatását vagy a 845. § (1) bekezdésében meghatározott bűnügyi felügyeletét a 293. § (3) vagy (4) bekezdése alapján rendelték el,
 
-e) perújítás során való felmentése, enyhébb büntetésre ítélése, próbára bocsátása, számára jóvátételi munka végzésének előírása vagy megrovásban részesítése, illetve az eljárás vele szemben való megszüntetése megtörtént, de az alapügyben elhallgatta azokat a tényeket vagy bizonyítékokat, amelyeken a perújítás során hozott ítélet alapul.
+e) perújítás során való felmentése, a 845. § (4) bekezdés b) pontja szerinti büntetésre ítélése, próbára bocsátása, számára jóvátételi munka végzésének előírása vagy megrovásban részesítése, illetve az eljárás vele szemben való megszüntetése megtörtént, de az alapügyben elhallgatta azokat a tényeket vagy bizonyítékokat, amelyeken a perújítás során hozott ítélet alapul.
 
 (2) A vallomástétel megtagadása önmagában nem zárja ki a kártalanítást.

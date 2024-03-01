@@ -6,7 +6,9 @@
 
 a) a 608. § (1) bekezdésében meghatározott valamely eljárási szabálysértéssel,
 
-b) a súlyosítási tilalom megsértésével
+b) a súlyosítási tilalom megsértésével,
+
+c) a 607. § (1) bekezdés b) pontjában meghatározott ok törvénysértő megállapításával
 
 hozta meg.
 

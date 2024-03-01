@@ -2,7 +2,7 @@
 
 413. § (1) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, vagy ehhez hozzájárul, de a közvetítői eljárás e törvényben foglalt feltételei nem állnak fenn, az ügyészség az eljárás közvetítői eljárás céljából történő felfüggesztését határozat hozatalával megtagadja.
 
-(2) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, az ügyészség gondoskodik a gyanúsított vagy a sértett hozzájárulásával kapcsolatos nyilatkozat beszerzéséről. Az ügyészség a nyilatkozat beszerzését követően határoz az eljárás közvetítői eljárás céljából történő felfüggesztéséről vagy annak megtagadásáról.
+(2) Ha a gyanúsított vagy a sértett a közvetítői eljárás lefolytatását indítványozza, az ügyészség gondoskodik a gyanúsított vagy a sértett hozzájárulásával kapcsolatos nyilatkozat beszerzéséről, feltéve, hogy a közvetítői eljárás e törvényben foglalt feltételei egyébként fennállnak. Az ügyészség a nyilatkozat beszerzését követően határoz az eljárás közvetítői eljárás céljából történő felfüggesztéséről vagy annak megtagadásáról.
 
 (3) Ha a sértett a gyanúsított kihallgatását megelőzően indítványozza a közvetítői eljárás lefolytatását, az ügyészség a gyanúsítotti kihallgatást követően gondoskodik a hozzájárulással kapcsolatos nyilatkozat beszerzéséről és
 

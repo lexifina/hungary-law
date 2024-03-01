@@ -26,7 +26,7 @@ b) a magánindítvány, a feljelentés, vagy a legfőbb ügyésznek a 4. § (9) 
 
 c) nem az arra jogosult által emelt vád alapján,
 
-d) a 608. § (1) bekezdésében meghatározott eljárási szabálysértéssel,
+d) a 607. § (1) bekezdés b) pontjában, vagy a 608. § (1) bekezdésében meghatározott eljárási szabálysértéssel,
 
 e) a súlyosítási tilalom megsértésével,
 

@@ -36,7 +36,7 @@ b) a kiszabott büntetés vagy alkalmazott intézkedés törvénysértő.
 
 (9) Ha az elsőfokú bíróság ítélete több vádlottról rendelkezett, a másodfokú bíróság – a (4)–(8) bekezdés keretei között – az ítéletnek csak a fellebbezéssel érintett vádlottra vonatkozó rendelkezését, illetve részét bírálja felül.
 
-(10) Ha ugyanazon bűncselekmény vonatkozásában több fellebbezésre jogosult jelentett be fellebbezést, és legalább egy fellebbezés az elsőfokú bíróság ítéletének a bűnösség megállapítására vonatkozó rendelkezését sérelmezi, a másodfokú bíróság a fellebbezéssel sérelmezett ítéletet és az azt megelőző bírósági eljárást a (2) bekezdés szerint bírálja felül.
+(10) Ha ugyanazon bűncselekmény vonatkozásában több fellebbezésre jogosult jelentett be fellebbezést, és legalább egy fellebbezés az elsőfokú bíróság ítéletének a bűnösség megállapítására vonatkozó rendelkezését sérelmezi, a másodfokú bíróság a fellebbezéssel sérelmezett ítéletet és az azt megelőző bírósági eljárást a (2) bekezdés szerint – ha az elsőfokú bíróság ítélete több bűncselekményről rendelkezett, a (4) bekezdés alkalmazásával – bírálja felül.
 
 (11) A másodfokú bíróság a fellebbezéssel nem érintett vádlottat felmenti, a bűncselekményének enyhébb minősítése folytán törvénysértően súlyos büntetését, illetve a vele szemben büntetés helyett alkalmazott intézkedést enyhíti, vagy az elsőfokú bíróság ítéletének rá vonatkozó rendelkezését hatályon kívül helyezi, és vele szemben az eljárást megszünteti vagy az elsőfokú bíróságot új eljárásra utasítja, ha a fellebbezéssel érintett vádlott tekintetében is ugyanígy határoz.
 

@@ -21,3 +21,5 @@ c) jóvátételi munkát, próbára bocsátást vagy megrovást alkalmazhat.
 a) az (1) bekezdés a)–c) pontjában írt feltételek fennállnak és
 
 b) a vádlott a bűncselekmény elkövetését beismerte.
+
+(4) A bíróság az ügyészség indítványára a nyolc évi szabadságvesztésnél nem súlyosabban büntetendő bűncselekmény esetén is büntetővégzést hoz, ha annak a (3) bekezdésben írt egyéb feltételei fennállnak.

@@ -22,7 +22,7 @@ c) az egyszerűsített kártalanítási eljárás keretében kifizethető össze
 
 4. a büntetőeljárás ügyiratai megismerésének szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 
-5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
+5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt elfogatóparancs alapján történő előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 
 6.
 

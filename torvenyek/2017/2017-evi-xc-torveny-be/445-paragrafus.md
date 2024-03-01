@@ -38,13 +38,13 @@ g) az ügydöntő határozat szóbeli indokolását.
 
 (3) A jegyzőkönyvbe lehet foglalni az eljárás során hozott végzéseket is.
 
-(4) Ha kizárólag írásbeli jegyzőkönyv készül, a (2) bekezdésben foglaltakat röviden, a szükséges részletességgel kell leírni. Ha valamely kérdés, kifejezés vagy kijelentés pontos szövege jelentős, azt szó szerint kell az írásbeli jegyzőkönyvbe venni.
+(4) Ha írásbeli jegyzőkönyv készül, a (2) bekezdésben foglaltakat röviden, a szükséges részletességgel kell leírni. Ha valamely kérdés, kifejezés vagy kijelentés pontos szövege jelentős, azt szó szerint kell az írásbeli jegyzőkönyvbe venni.
 
-(5) Ha kizárólag írásbeli jegyzőkönyv készül, bizonyítási eszköz ismertetése, valamint tárgyi bizonyítási eszköz csatolása esetében a jegyzőkönyvben csupán ennek megtörténtére kell utalni.
+(5) Ha írásbeli jegyzőkönyv készül, bizonyítási eszköz ismertetése, valamint tárgyi bizonyítási eszköz csatolása esetében a jegyzőkönyvben csupán ennek megtörténtére kell utalni.
 
-(6) Ha kizárólag írásbeli jegyzőkönyv készül, és az eljárási cselekményen jelenlévők bármelyike az eljárás során felmerült valamely körülménynek vagy ott elhangzott nyilatkozatnak jegyzőkönyvbe vételét indítványozza, ezt csak abban az esetben lehet mellőzni, ha a bíróságnak az illető körülmény vagy nyilatkozat megtörténtéről nincs tudomása.
+(6) Ha írásbeli jegyzőkönyv készül, és az eljárási cselekményen jelenlévők bármelyike az eljárás során felmerült valamely körülménynek vagy ott elhangzott nyilatkozatnak jegyzőkönyvbe vételét indítványozza, ezt csak abban az esetben lehet mellőzni, ha a bíróságnak az illető körülmény vagy nyilatkozat megtörténtéről nincs tudomása.
 
-(7) Ha kizárólag írásbeli jegyzőkönyv készül, nem kell jegyzőkönyvbe venni a vallomásnak vagy a szakvéleménynek azt a részét, amely a bíróság eljárásában korábban készült jegyzőkönyv tartalmával megegyezik, ehelyett a korábbi jegyzőkönyvre kell utalni.
+(7) Ha írásbeli jegyzőkönyv készül, nem kell jegyzőkönyvbe venni a vallomásnak vagy a szakvéleménynek azt a részét, amely a bíróság eljárásában korábban készült jegyzőkönyv tartalmával megegyezik, ehelyett a korábbi jegyzőkönyvre kell utalni.
 
 (8) Ha a bíróság ügydöntő határozata elsőfokon vagy másodfokon jogerőre emelkedik, rövidített jegyzőkönyvet lehet készíteni. A rövidített jegyzőkönyvnek csak az (1) bekezdésben meghatározott adatokat, valamint a bírósági eljárásnak a (2) bekezdés a) pontjának megfelelő leírását kell tartalmaznia.
 

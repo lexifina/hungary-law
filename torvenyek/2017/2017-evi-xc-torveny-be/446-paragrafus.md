@@ -1,8 +1,10 @@
 ## A jegyzőkönyv elkészítése, kiegészítése, kijavítása
 
-446. § (1) Ha az eljárási cselekményről jegyzőkönyvnek minősülő kép- és hangfelvétel készül, a jegyzőkönyvvezető jelenléte az eljárási cselekményen nem kötelező.
+446. § (1) Ha az eljárási cselekményről egyidejűleg végzett jegyzőkönyvezés helyett folyamatos hangfelvétel, vagy kép- és hangfelvétel készül, a jegyzőkönyvvezető jelenléte az eljárási cselekményen nem kötelező.
 
 (2) Az eljárási cselekményről az írásbeli jegyzőkönyvet rendszerint azzal egyidejűleg, de legkésőbb az eljárási cselekmény időpontjától számított nyolc napon belül a jegyzőkönyvvezető készíti el.
+
+(2a) Az egyidejűleg végzett jegyzőkönyvezés helyett rögzített folyamatos hangfelvétel, vagy a jegyzőkönyvnek nem minősülő kép- és hangfelvétel alapján készülő írásbeli jegyzőkönyvet az eljárási cselekmény időpontjától számított nyolc napon belül kell elkészíteni.
 
 (3) Ha az eljárási cselekményről jegyzőkönyvvezető mellőzésével jegyzőkönyvnek minősülő kép- és hangfelvétel készül, a jegyzőkönyv írásbeli kivonatát utóbb e felvétel alapján a (2) bekezdésben meghatározott határidőn belül kell elkészíteni.
 

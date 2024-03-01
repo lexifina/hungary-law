@@ -24,6 +24,8 @@ b) a törvényes képviselő érdekei az általa képviselt személy érdekeivel
 
 (6) A vádemelés előtt az (5) bekezdés a) pontjában meghatározott esetben a törvényes képviselőt a nyomozó hatóság is kizárhatja az eljárásból.
 
+(6a) A nyomozó hatóság a vádemelés előtt az (5) bekezdés b) pontjában meghatározott esetben a törvényes képviselőt kizárhatja az eljárásból, ha az ügyészség döntésének beszerzése olyan késedelemmel járna, amely az eljárási cselekmény eredményességét veszélyeztetné. Ebben az esetben a nyomozó hatóság nyolc napon belül kezdeményezi az ügyészségnél a törvényes képviselő kizárását. Ha az ügyészség a törvényes képviselő kizárását nem rendeli el, a törvényes képviselő távollétében az általa képviselt tanú vagy terhelt vallomása bizonyítékként nem használható fel, kivéve, ha a tanú vagy a terhelt a törvényes képviselő távollétében tett vallomását a törvényes képviselő jelenlétében is fenntartja.
+
 (7) Ha az ügygondnok kirendelésére okot adó körülmény az eljárás folyamán megszűnik, a bíróság, az ügyészség, illetve a nyomozó hatóság az ügygondnokot a kirendelés alól felmenti.
 
 (8) Az ügygondnokot a büntetőeljárásban a törvényes képviselő jogállása illeti meg. Az ügygondnok kizárására a törvényes képviselő kizárására vonatkozó szabályokat kell alkalmazni. A terheltet vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt képviselő ügygondnok kizárására a 43. § (1) bekezdését is megfelelően alkalmazni kell.
