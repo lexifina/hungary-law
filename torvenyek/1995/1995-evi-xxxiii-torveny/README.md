@@ -41,3 +41,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2023-07-01 | 2023. évi XXXI. törvény | 1995-33-00-00.54 |
 | 2023-09-01 | 2023. évi XLI. törvény | 1995-33-00-00.55 |
 | 2024-01-01 | 2023. évi XLI. törvény | 1995-33-00-00.56 |
+| 2024-03-01 | 2023. évi CIX. törvény | 1995-33-00-00.57 |
