@@ -14,7 +14,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 | 2. | Az anya (képzelt, vagy hatósági döntéssel megállapított) személyi adatai: |  |
 
@@ -24,7 +24,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -38,7 +38,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -52,7 +52,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -132,7 +132,7 @@
 
 | 2.2. | Születési hely, idő: | ......................................................................................................................... |
 
-| 2.3. | Állampolgárság (menekült, bevándorolt, letelepedett): | ......................................................................................................................... |
+| 2.3. | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező): | ......................................................................................................................... |
 
 | 2.4. | Anyja neve: | ......................................................................................................................... |
 
@@ -146,7 +146,7 @@
 
 | 3.2. | Születési hely, idő: | ......................................................................................................................... |
 
-| 3.3. | Állampolgárság (menekült, bevándorolt, letelepedett): | ......................................................................................................................... |
+| 3.3. | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező): | ......................................................................................................................... |
 
 | 3.4. | Anyja neve: | ......................................................................................................................... |
 
@@ -160,7 +160,7 @@
 
 | 4.2. | Születési hely, idő: | ......................................................................................................................... |
 
-| 4.3. | Állampolgárság (menekült, bevándorolt, letelepedett) | ......................................................................................................................... |
+| 4.3. | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) | ......................................................................................................................... |
 
 | 4.4. | Anyja neve: | ......................................................................................................................... |
 
@@ -172,7 +172,7 @@
 
 | 4.8. | Születési hely, idő: | ......................................................................................................................... |
 
-| 4.9. | Állampolgárság (menekült, bevándorolt, letelepedett) | ......................................................................................................................... |
+| 4.9. | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) | ......................................................................................................................... |
 
 | 4.10. | Anyja neve: | ......................................................................................................................... |
 
@@ -350,7 +350,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -364,7 +364,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -470,7 +470,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -502,7 +502,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -514,7 +514,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -834,7 +834,7 @@
 
 ## Születési hely, idő:
 
-## Állampolgárság (menekült, bevándorolt, letelepedett):
+## Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező):
 
 ## Anyja neve:
 
@@ -848,7 +848,7 @@
 
 ## Születési hely, idő:
 
-## Állampolgárság (menekült, bevándorolt, letelepedett):
+## Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező):
 
 ## Anyja neve:
 
@@ -980,7 +980,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -988,7 +988,7 @@
 
 |  | Tartózkodási hely: |  |
 
-| 2. | A törvényes képviselő (gyám vagy gondnok) személyi adatai: Hozzátartozói minőség (családbafogadó gyám, nem hivatásos gondnok) megjelölése: Név: Születési hely, idő: Állampolgárság (menekült, bevándorolt, letelepedett): Anyja neve: Lakóhely: Tartózkodási hely: Gyermekvédelmi gyám vagy hivatásos gondnok: |
+| 2. | A törvényes képviselő (gyám vagy gondnok) személyi adatai: Hozzátartozói minőség (családbafogadó gyám, nem hivatásos gondnok) megjelölése: Név: Születési hely, idő: Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező): Anyja neve: Lakóhely: Tartózkodási hely: Gyermekvédelmi gyám vagy hivatásos gondnok: |
 
 | 3. | A gyámság alatt állók esetén a szülők személyi adatai: |
 
@@ -1114,7 +1114,7 @@
 
 ## (Gyámhivatal tölti ki.)
 
-## 1X02685M_12
+## 4X01119M.docx
 
 | A nyilvántartásba vétel időpontja: |  |
 
@@ -1124,7 +1124,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -1140,7 +1140,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
@@ -1154,7 +1154,7 @@
 
 |  | Születési hely, idő: |  |
 
-|  | Állampolgárság (menekült, bevándorolt, letelepedett) |  |
+|  | Állampolgárság (menekült, huzamos tartózkodási jogosultsággal rendelkező) |  |
 
 |  | Anyja neve: |  |
 
