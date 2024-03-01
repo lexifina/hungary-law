@@ -1,0 +1,1 @@
+4. § A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél alkalmazandó egészségügyi szakdolgozói pótlékról szóló 27/2021. (VIII. 9.) BM rendelet 2. melléklete a 2. melléklet szerint módosul.
