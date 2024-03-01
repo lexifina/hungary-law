@@ -115,7 +115,7 @@ d) egyéb szervezetekkel.
 [^23]: A 4. § (1) bekezdés k) pontja a 70/2015. (III. 30.) Korm. rendelet 258. § (5) bekezdésével megállapított, a 356/2021. (VI. 24.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
 [^24]: A 4. § (1) bekezdés l) pont la) alpontját a 273/2018. (XII. 20.) Korm. rendelet 24. §-a hatályon kívül helyezte.
 [^25]: A 4. § (1) bekezdés l) pont lc) alpontját a 379/2016. (XII. 2.) Korm. rendelet 283. § (11) bekezdés a) pontja hatályon kívül helyezte, újonnan a 130/2018. (VII. 23.) Korm. rendelet 13. §-a iktatta be.
-[^26]: A 4. § (1) bekezdés l) pont ld) alpontját a 227/2022. (VI. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^26]: A 4. § (1) bekezdés l) pont ld) alpontját a 227/2022. (VI. 28.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte. [A 4. § (1) bekezdés l) pont ld) alpontjában a 35/2024. (II. 29.) Korm. rendelet 313. §-a által elrendelt módosítás nem vezethető át.]
 [^27]: A 4. § (1) bekezdés m) pont mc) alpontja a 227/2022. (VI. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^28]: A 4. § (1) bekezdés n) pont na) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (7) bekezdésével megállapított szöveg.
 [^29]: A 4. § (1) bekezdés n) pont nc) alpontja a 70/2015. (III. 30.) Korm. rendelet 258. § (8) bekezdésével megállapított szöveg.

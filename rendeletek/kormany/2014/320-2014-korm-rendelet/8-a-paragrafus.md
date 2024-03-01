@@ -1,4 +1,4 @@
-## 6/A. [^60] A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter feladat- és hatásköre
+## 6/A. [^62] A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter feladat- és hatásköre
 
 ## 8/A. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter
 
@@ -8,4 +8,4 @@ b) eljárási rendek, módszertani útmutatók, szakmai ajánlások készítés�
 
 c) adatokat gyűjt és elemez a harmadik országbeli állampolgárok magyarországi foglalkoztatásáról és a minősített kölcsönbeadók éves tevékenységéről.
 
-[^60]: A 6/A. alcímet (8/A. §) a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^62]: A 6/A. alcímet (8/A. §) a 227/2022. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
