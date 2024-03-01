@@ -1,3 +1,3 @@
-28/D. §[^333]
+28/D. §[^335]
 
-[^333]: A 28/D. §-t a 287/2018. (XII. 21.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § c) pontja.
+[^335]: A 28/D. §-t a 287/2018. (XII. 21.) Korm. rendelet 14. §-a iktatta be, hatályon kívül helyezte a 277/2021. (V. 26.) Korm. rendelet 18. § c) pontja.
