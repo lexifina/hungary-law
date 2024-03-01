@@ -1,0 +1,1 @@
+23. § Az őrizetesnek az őrizet időtartamának meghosszabbítása, illetve felülvizsgálata céljából történő bíróság elé állítása érdekében, az őrizetesnek a diplomáciai vagy konzuli képviseleten történő meghallgatása céljából, továbbá a 22. § (1) bekezdésében foglalt esetekben történő szállítása a Rendőrség feladata.

@@ -1,0 +1,1 @@
+31. § E rendelet 4. §-a, 7. §-a, 9. §-a, 10. § (1) bekezdése, valamint 19. §-a a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

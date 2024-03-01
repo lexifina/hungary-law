@@ -1,0 +1,3 @@
+11. § (1) Távbeszélőn történő kapcsolattartásra csak az őrzött szállás által biztosított készüléken, az őrizetes költségére kerülhet sor. Távbeszélőn történő beszélgetés időbeli korlátozása kizárólag az őrzött szállás biztonságának és az őrizet végrehajtásának veszélyeztetése esetén, valamint a pihenőidő alatt lehetséges.
+
+(2) A telefonbeszélgetés – a 10. § (1) bekezdésében meghatározott személyekkel folytatott beszélgetés kivételével – biztonsági okból ellenőrizhető. Ha a telefonbeszélgetés az őrzött szállás biztonságát, illetve az őrizet végrehajtását veszélyezteti, az erre vonatkozó figyelmeztetés után megszakítható. Az ellenőrzés lehetőségéről az őrizetest tájékoztatni kell.

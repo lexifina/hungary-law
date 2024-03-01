@@ -1,0 +1,1 @@
+8. § Az őrizetesek – ide nem értve a 16. életévüket betöltött kísérő nélküli kiskorú őrizeteseket – elkülönített elhelyezését szolgáló lakrészeken kívül lévő közösségi és étkezésre szolgáló helyiséget, a szabad levegőn tartózkodás céljából kialakított udvart az őrizetesek nemüktől függetlenül egy időben használhatják, a szervezett közösségi programokon közösen részt vehetnek.
