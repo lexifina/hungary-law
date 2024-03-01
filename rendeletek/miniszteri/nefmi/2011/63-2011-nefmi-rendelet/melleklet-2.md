@@ -1,6 +1,6 @@
 2. melléklet a 63/2011. (XI. 29.) NEFMI rendelethez
 
-## Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
+Folyamatos továbbképzés alapján megszerezhető legmagasabb pontértékek (továbbképzési pontok)
 
 1. Elméleti továbbképzési tanfolyamok
 

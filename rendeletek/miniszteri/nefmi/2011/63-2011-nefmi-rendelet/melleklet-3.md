@@ -1,6 +1,6 @@
 3. melléklet a 63/2011. (XI. 29.) NEFMI rendelethez
 
-## Az elméleti továbbképzés minősítéséhez szükséges adatok
+Az elméleti továbbképzés minősítéséhez szükséges adatok
 
 1. A továbbképzés címe
 

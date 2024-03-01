@@ -1,4 +1,4 @@
-8. § (1)[^26] A 6. § (1) bekezdés b) pontja szerinti továbbképzési forma esetén a továbbképzést szervező, a 6. § (1) bekezdés c)–d) pontja szerinti továbbképzési forma esetén az egészségügyi szakdolgozó juttatja el a minősítéshez szükséges adatokat az ÁEEK-hez.
+8. § (1)[^26] A 6. § (1) bekezdés b) pontja szerinti továbbképzési forma esetén a továbbképzést szervező, a 6. § (1) bekezdés c)–d) pontja szerinti továbbképzési forma esetén az egészségügyi szakdolgozó juttatja el a minősítéshez szükséges adatokat az OKFŐ-höz.
 
 (2)[^27]
 
@@ -16,8 +16,8 @@ ba) a továbbképzés a szakmai képzés biztosításához szükséges személyi
 
 bb) a továbbképzésről kiállított írásos igazolás annak tematikáját is tartalmazza.
 
-(4)[^28] A 6. § (1) bekezdés c) és d) pontja szerinti továbbképzések vonatkozásában az egészségügyi dolgozó által adott továbbképzés teljesítésével megszerzett pontértékről az ÁEEK főigazgatója dönt és arról az egészségügyi szakdolgozót a döntést követő 5 napon belül tájékoztatja.
+(4)[^28] A 6. § (1) bekezdés c) és d) pontja szerinti továbbképzések vonatkozásában az egészségügyi dolgozó által adott továbbképzés teljesítésével megszerzett pontértékről az OKFŐ főigazgatója dönt és arról az egészségügyi szakdolgozót a döntést követő 5 napon belül tájékoztatja.
 
-[^26]: A 8. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 79. § f) pontja szerint módosított szöveg.
+[^26]: A 8. § (1) bekezdése a 7/2024. (II. 12.) BM rendelet 16. § d) pontja szerint módosított szöveg.
 [^27]: A 8. § (2) bekezdését a 14/2014. (III. 10.) EMMI rendelet 20. § b) pontja hatályon kívül helyezte.
-[^28]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 129. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 79. § d) pontja szerint módosított szöveg.
+[^28]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 129. §-ával megállapított, a 7/2024. (II. 12.) BM rendelet 16. § b) pontja szerint módosított szöveg.
