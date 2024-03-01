@@ -1,0 +1,1 @@
+4. § Az Ebtv. Vhr. 49. § (5) bekezdés b) pontjában a „68. §-án alapuló követelés esetén az ellátásban” szövegrész helyébe a „68. §-án alapuló követelés esetén – az (5a) bekezdésben foglalt kivétellel – az ellátásban” szöveg lép.
