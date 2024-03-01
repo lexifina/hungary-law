@@ -1,6 +1,6 @@
 ## Életkorhoz kötötten kötelező védőoltások
 
-5. § (1)[^10] A magyar állampolgárt, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó azon személyt, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát a Magyar Köztársaság területén gyakorolja, a tartózkodási engedéllyel rendelkező, bevándorolt, letelepedett vagy befogadott harmadik országbeli állampolgárt, továbbá a menekültet és menedékest életkorhoz kötötten
+5. § (1)[^10] A magyar állampolgárt, a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó azon személyt, aki a szabad mozgás és a három hónapot meghaladó tartózkodás jogát a Magyar Köztársaság területén gyakorolja, a tartózkodási engedéllyel vagy huzamos tartózkodási jogosultsággal rendelkező, illetve befogadott harmadik országbeli állampolgárt, továbbá a menekültet és menedékest életkorhoz kötötten
 
 a) gümőkór (tuberculosis),
 
@@ -86,7 +86,7 @@ betöltéséig áll fenn.
 
 (10)[^33]
 
-[^10]: Az 5. § (1) bekezdése a 13/2008. (IV. 8.) EüM rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 5. § (1) bekezdése a 13/2008. (IV. 8.) EüM rendelet 2. §-ával megállapított, nyitó szövegrésze a 13/2024. (II. 29.) BM rendelet 2. §-a szerint módosított szöveg.
 [^11]: Az 5. § (1) bekezdés k) pontját a 23/2014. (III. 27.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^12]: Az 5. § (1) bekezdés l) pontját a 12/2019. (VII. 3.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^13]: Az 5. § (2) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
