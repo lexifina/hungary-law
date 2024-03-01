@@ -16,7 +16,7 @@ b) a 43/A. § (1) bekezdés a)–c), e) és f), valamint h)–k) pontjában eml�
 
 (4) A fogyasztóvédelmi hatóság a termék biztonságosságával és megfelelőségével kapcsolatos piacfelügyeleti feladat- és hatáskörét e törvény, a termékek piacfelügyeletéről szóló törvény, valamint külön jogszabály alapján gyakorolja.
 
-(5) A fogyasztóvédelmi hatóság közszolgáltatással kapcsolatos eljárásában az ügyintézési határidő 60 nap.
+(5)
 
 (6)
 

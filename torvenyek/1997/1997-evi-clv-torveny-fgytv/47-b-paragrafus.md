@@ -4,7 +4,7 @@ a) az értékesítésre szánt áru tárolására vagy gyártására szolgáló 
 
 b) az eljárásához szükséges vizsgálatok elvégzése céljából térítésmentesen mintát venni.
 
-(2) A fogyasztóvédelmi hatóság a fogyasztók széles körének testi épségét, egészségét sértő vagy veszélyeztető helyzet, továbbá a fogyasztók széles körének jelentős vagyoni hátránnyal fenyegető veszélyeztetése fennállása esetén – az ügyész előzetes jóváhagyásával – az ellenőrzést a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is lefolytathatja.
+(2) A fogyasztóvédelmi hatóság a fogyasztók széles körének testi épségét vagy egészségét sértő vagy veszélyeztető helyzet, vagy a fogyasztók széles körének jelentős vagyoni hátránnyal fenyegető veszélyeztetése fennállása esetén – az ügyész előzetes jóváhagyásával – az ellenőrzést a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére is lefolytathatja.
 
 (3) A fogyasztóvédelmi hatóság a (2) bekezdés szerinti ellenőrzés során:
 

@@ -18,7 +18,7 @@ e) a panaszok közlése érdekében a vállalkozás vagy a vállalkozás 17/B. �
 
 (1a) A tájékoztatásnak fogyasztói jogvita esetén ki kell terjednie a fogyasztó lakóhelye vagy tartózkodási helye szerint illetékes békéltető testületekhez való fordulás lehetőségére, valamint tartalmaznia kell a békéltető testület székhelyét, telefonos elérhetőségét, internetes elérhetőségét és levelezési címét. A békéltető testületekről történő tájékoztatási kötelezettséget világosan, érthetően és könnyen elérhető módon kell teljesíteni, internetes honlappal rendelkező vállalkozás esetén a honlapon, honlap hiányában az általános szerződési feltételekben, általános szerződési feltételek hiányában pedig külön formanyomtatványon. Üzlettel rendelkező vállalkozás esetén az e bekezdés és az (1) bekezdés szerinti tájékoztatást jól láthatóan és olvashatóan kell megadni.
 
-(2) A fogyasztó a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, illetve értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó panaszát szóban vagy írásban közölheti a vállalkozással.
+(2) A fogyasztó szóban vagy írásban közölheti panaszát a vállalkozással.
 
 (3) A szóbeli panaszt azonnal meg kell vizsgálni, és szükség szerint orvosolni kell. Ha a fogyasztó a panasz kezelésével nem ért egyet, vagy a panasz azonnali kivizsgálása nem lehetséges, a vállalkozás a panaszról és az azzal kapcsolatos álláspontjáról haladéktalanul köteles jegyzőkönyvet felvenni, és annak egy másolati példányát
 

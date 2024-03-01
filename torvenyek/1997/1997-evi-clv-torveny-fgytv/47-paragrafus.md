@@ -10,13 +10,17 @@ d) a jogszerű állapot helyreállításáig feltételhez kötheti, vagy megtilt
 
 illetve értékesítését,
 
-e) a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
+e) a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvényben (a továbbiakban: Szankció tv.) meghatározottak szerinti dolgot jogosult elkobozni, és azt a jogsértést elkövető vállalkozás költségére megsemmisíteni,
 
-f)
+f) elrendelheti az (1a) bekezdés szerinti jogkövetkezmény alkalmazását, vagy az elektronikus adat ideiglenes hozzáférhetetlenné tételét a 48/A–48/C. § szerint,
 
-g) a jogszerű állapot helyreállításáig terjedő időtartamra elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását, ha az a fogyasztók életének, testi épségének, egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges,
+g) elrendelheti a jogsértéssel érintett üzlet ideiglenes bezárását
 
-h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
+ga) a jogszerű állapot helyreállításáig, ha az a fogyasztók életének, testi épségének vagy egészségének védelme vagy a fogyasztók széles körét érintő kárral fenyegető veszély elhárítása érdekében szükséges, vagy
+
+gb) legfeljebb 30 napra, ha a jogsértés a fogyasztók széles körének jelentős vagyoni hátrányt okoz,
+
+h) a 16/A. § (1)–(3) bekezdésében foglalt rendelkezések megsértése esetén a jogsértés megállapításától számított legfeljebb egy évig megtilthatja az alkoholtartalmú ital, a dohánytermék, illetve a szexuális termék forgalmazását, e rendelkezések 3 éven belüli ismételt megsértése esetén pedig elrendelheti a jogsértéssel érintett üzlet legfeljebb harminc nap időtartamra történő ideiglenes bezárását,
 
 i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
@@ -30,15 +34,17 @@ c) elrendelheti, hogy a domainszolgáltatók és domainnyilvántartók egy telje
 
 ideértve a harmadik fél vagy más hatóság felkérését ilyen intézkedések megtételére.
 
-(1b) A fogyasztóvédelmi hatóság (1a) bekezdés szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
+(1b) A fogyasztóvédelmi hatóság (1a) bekezdés b) vagy c) pontja szerinti határozatának kötelezettje – annak határozatban történő megjelölése nélkül – valamennyi elektronikus hírközlési szolgáltató.
 
-(1c) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
+(1c) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének elektronikus hírközlési szolgáltatóval való közlését és végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
 (2) Az (1) bekezdésben foglalt jogkövetkezmények alkalmazása esetén a fogyasztóvédelmi hatóság – amennyiben azt az eset körülményeire tekintettel szükségesnek tartja – határidő tűzésével kötelezheti a jogsértő vállalkozást, hogy a hibák, hiányosságok, illetve a jogsértés megszüntetése érdekében tett intézkedésekről a hatóságot értesítse.
 
+(2a) Az (1) bekezdés g) és h) pontja szerinti jogkövetkezmény alkalmazása esetén a fogyasztóvédelmi hatóság elrendeli az üzlet bezárásáról szóló – a megállapított jogsértést és az üzletbezárás időtartamát is tartalmazó – jól látható tájékoztatás elhelyezését az üzlet vásárlók által használható összes bejáratánál, a vállalkozás által működtetett vagy alkalmazott valamennyi online felületen legalább 10 másodpercig megjelenő, át nem ugorható módon, valamint – amennyiben a vállalkozás ilyennel rendelkezik – az adott üzletre vonatkozó reklámújságban.
+
 (3) Jogszabály az abban meghatározott fogyasztóvédelmi rendelkezés megsértése esetére további jogkövetkezményeket határozhat meg.
 
-(4) Az (1) és (3) bekezdés szerinti jogkövetkezmények együttesen is megállapíthatók.
+(4) A fogyasztóvédelmi hatóság által alkalmazható jogkövetkezmények együttesen is megállapíthatók.
 
 (5) Az (1) bekezdés alkalmazásában a jogkövetkezmények meghatározásakor a következő szempontokat kell figyelembe venni:
 
@@ -66,11 +72,11 @@ g) az eset egyéb enyhítő vagy súlyosító körülményei.
 
 (9a) Az ügyfélszolgálati ügyintéző élőhangos bejelentkezésére vonatkozó, a 17/B. § (3) bekezdésében előírt kötelezettség ellenőrzése érdekében az az elektronikus hírközlési szolgáltató, akinek hálózatából a hívást kezdeményezték, a fogyasztóvédelmi hatóság felhívására köteles közölni a hívás kezdő időpontjára és időtartamára vonatkozó, általa kezelt adatokat.
 
-(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult minta és ellenminta vételére a termék, minőségének vagy összetételének vizsgálata céljából. A minta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
+(10) A fogyasztóvédelmi hatóság – jegyzőkönyv felvétele mellett – jogosult térítésmentesen minta és ellenminta vételére a termék minőségének, mennyiségének vagy összetételének vizsgálata céljából. A minta és az ellenminta költségét is tartalmazó mintavételi költség, továbbá a laboratóriumi vagy az egyéb vizsgálatok költsége eljárási költség.
 
 (11) A (10) bekezdés szerinti eljárási költséget a jogsértésért felelős vállalkozás viseli, ha a minta az előírt követelményeknek nem felel meg.
 
-(12)
+(12) Ha a minta az előírt követelményeknek megfelel, jogszabály vagy a vállalkozás eltérő rendelkezése hiányában a fogyasztóvédelmi hatóság a mintát és ellenmintát a minta vizsgálatának helyén visszaadja a vállalkozásnak. A mintát és ellenmintát a vállalkozás legkésőbb a döntés véglegessé válásától számított 8, élelmiszer vagy takarmány esetén 1 napon belül veheti át.
 
 (13) A fogyasztóvédelmi hatóság termék vagy szolgáltatás tekintetében próbavásárlást végezhet.
 

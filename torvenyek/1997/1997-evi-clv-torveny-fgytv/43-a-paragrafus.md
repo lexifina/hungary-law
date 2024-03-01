@@ -24,7 +24,7 @@ j) az utazási csomagokról és az utazási szolgáltatásegyüttesekről, valam
 
 k) a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések egyes vonatkozásairól szóló, 2019. május 20-i (EU) 2019/770 európai parlamenti és tanácsi irányelv.
 
-(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a visszautasított beszállás és légijáratok törlése vagy hosszú késése esetén az utasoknak nyújtandó kártalanítás és segítség közös szabályainak megállapításáról és a 295/91/EGK rendelet hatályon kívül helyezéséről szóló, 2004. február 11-i 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
+(2) A fogyasztóvédelmi hatóság látja el – szükség szerint a légiközlekedési hatóság megkeresésével – az (EU) 2017/2394 rendelet végrehajtását a 261/2004/EK európai parlamenti és tanácsi rendelet rendelkezéseibe ütköző Európai Unión belüli jogsértések tekintetében.
 
 (3) A fogyasztóvédelmi hatóság végzi Magyarországon – összekötő hivatalként – az (EU) 2017/2394 rendelet végrehajtásának összehangolását.
 

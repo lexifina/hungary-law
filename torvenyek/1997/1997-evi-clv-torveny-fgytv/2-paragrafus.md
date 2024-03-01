@@ -58,6 +58,8 @@
 
 28. online felület: a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 3. cikk 15. pontjában meghatározott fogalom,
 
+28a. panasz: a fogyasztó vállalkozással szemben előterjesztett, a vállalkozásnak, vagy a vállalkozás érdekében vagy javára eljáró személynek az áru fogyasztók részére történő forgalmazásával, értékesítésével közvetlen kapcsolatban álló magatartására, tevékenységére vagy mulasztására vonatkozó, egyéni jog- vagy érdeksérelem megszüntetésére irányuló kifogása, a kellékszavatossági, termékszavatossági vagy jótállási igény kivételével,
+
 29. szexuális termék: olyan birtokba vehető forgalomképes dolog, amelynek elsődleges célja a szexuális ingerkeltés, különösen amely nemi aktust vagy egyéb szexuális cselekményt nyíltan ábrázol, illetve emberi testet, testrészt szexuális ingerkeltésre alkalmas módon vagy szexuális ingerkeltés céljából ábrázol, ideértve a – rendeltetése szerint – szexuális ingerkeltésre szolgáló, nemi aktus vagy egyéb szexuális cselekmény során alkalmazható eszközt is, a fogamzásgátlás céljából alkalmazható eszköz kivételével,
 
 30. szolgáltatás: termék, ingatlan vagy vagyoni értékű jog értékesítésén kívül minden olyan – ellenszolgáltatás fejében végzett – tevékenység, amely a megrendelő, illetve megbízó igényének kielégítésére valamely eredmény létrehozását, teljesítmény nyújtását vagy más magatartás tanúsítását foglalja magában,
