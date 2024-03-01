@@ -8,7 +8,7 @@ b) az egészségügyi szakmai kollégium (a továbbiakban: szakmai kollégium) v
 
 c) az egészségügy területén működő egyesület
 
-## terjeszthet elő.
+terjeszthet elő.
 
 (2)[^7] Az (1) bekezdés szerinti kezdeményezést az egészségügyért felelős miniszternek (a továbbiakban: miniszter) kell benyújtani.
 

@@ -6,7 +6,7 @@
 
 (1b)[^15] A halottvizsgálati szaktanácsadó licenc elméleti képzése az egyetem által szervezett vizsgával zárul. Ha a licenc vizsga letételére az elméleti képzést lezáró vizsga letételét követő egy éven belül nem kerül sor, a szakorvosnak az elméleti képzést lezáró vizsgát ismételten teljesítenie kell.
 
-(2)[^16] A licenc képzés teljesítését követően a szakorvos részére az egyetem a licenc képzés teljesítéséről igazolást állít ki, amely tartalmazza:
+(2)[^16] A licenc képzés teljesítését követően a szakorvos részére az egyetem a licenc képzés teljesítéséről abszolutóriumot állít ki, amely tartalmazza:
 
 a) a szakorvos természetes személyazonosító adatait és működési nyilvántartási számát,
 
@@ -22,5 +22,5 @@ e) a licenc képzés lebonyolításának helyét.
 
 [^14]: A 6. § (1a) bekezdését a 69/2013. (XI. 19.) EMMI rendelet 16. §-a iktatta be.
 [^15]: A 6. § (1b) bekezdését a 14/2014. (III. 10.) EMMI rendelet 26. § (1) bekezdése iktatta be.
-[^16]: A 6. § (2) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 49. §-ával megállapított szöveg.
+[^16]: A 6. § (2) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 49. §-ával megállapított, nyitó szövegrésze a 7/2024. (II. 12.) BM rendelet 25. § a) pontja szerint módosított szöveg.
 [^17]: A 6. § (3) bekezdését a 14/2014. (III. 10.) EMMI rendelet 26. § (2) bekezdése iktatta be.
