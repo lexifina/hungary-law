@@ -112,7 +112,7 @@
 
 | E 180 | Litolrubin BK |  |
 
-4. számú melléklet az 52/2005. (XI. 18.) EüM rendelethez[^180]
+4. számú melléklet az 52/2005. (XI. 18.) EüM rendelethez[^181]
 
 Gyógyszertáron kívül is forgalmazható gyógyszerek
 
@@ -186,4 +186,4 @@ Gyógyszertáron kívül is forgalmazható gyógyszerek
 
 35. Paracetamol tartalmú végbélkúpok 125 mg, 250 mg, 500 mg hatáserősségben, legfeljebb 6 x kiszerelésben
 
-[^180]: A 4. számú mellékletet a 44/2006. (XII. 27.) EüM rendelet 2. §-a iktatta be, szövege a 41/2007. (IX. 19.) EüM rendelet 38. § (3) bekezdésével megállapított szöveg.
+[^181]: A 4. számú mellékletet a 44/2006. (XII. 27.) EüM rendelet 2. §-a iktatta be, szövege a 41/2007. (IX. 19.) EüM rendelet 38. § (3) bekezdésével megállapított szöveg.

@@ -22,12 +22,15 @@ követően akkor engedélyezi, ha meggyőződött róla, hogy az a gyógyszer bi
 
 (4)[^104] A jogosult kérelmére az NNGYK egyes gyártási tételek felhasználhatósági időtartamát legfeljebb egy alkalommal, legfeljebb egy évvel meghosszabbíthatja. A kérelemhez mellékelni kell a gyógyszer megfelelő minőséget bizonyító vizsgálati dokumentációt. Kétség esetén az NNGYK a vizsgálatokat megismételtetheti, illetve azokat maga is elvégezheti. A kérelemben indokolni kell, hogy milyen előny várható a meghosszabbítástól.
 
-(5)[^105] A lejárati idő meghosszabbításáról szóló határozatot az NNGYK a honlapján közzéteszi. A közzététel nem érinti a jogosultnak – a készítmény forgalmazásában, alkalmazásában résztvevők tekintetében fennálló – külön jogszabályban meghatározott tájékoztatási kötelezettségét. A felhasználhatósági határidő meghoszszabbítását a gyógyszer csomagolásán is fel kell tüntetni.
+(4a)[^105] A (4) bekezdéstől eltérően a gyógyszerek Állami Egészségügyi Tartalékban vagy honvédelmi, illetve katasztrófa-elhárítási célú tartalékban kezelt gyártási tételei felhasználhatósági időtartamának meghosszabbítását a tartalék kezelője is kérelmezheti az NNGYK-nál. E bekezdés alapján az NNGYK a gyártási tételek felhasználhatósági időtartamát a gyógyszer stabilitási adatainak értékelése alapján több alkalommal, egy évet meghaladó időtartammal is meghosszabbíthatja.
 
-(6)[^106]
+(5)[^106] A lejárati idő meghosszabbításáról szóló határozatot az NNGYK a honlapján közzéteszi. A közzététel nem érinti a jogosultnak – a készítmény forgalmazásában, alkalmazásában résztvevők tekintetében fennálló – külön jogszabályban meghatározott tájékoztatási kötelezettségét. A felhasználhatósági határidő meghoszszabbítását a gyógyszer csomagolásán is fel kell tüntetni.
+
+(6)[^107]
 
 [^102]: A 35. § (2) bekezdése az 52/2012. (XII. 27.) EMMI rendelet 25. §-ával megállapított, nyitó szövegrésze a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
 [^103]: A 35. § (2a) bekezdését az 56/2013. (VII. 31.) EMMI rendelet 28. §-a iktatta be, szövege a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
 [^104]: A 35. § (4) bekezdése a 28/2023. (VIII. 10.) BM rendelet 37. § e) pontja szerint módosított szöveg.
-[^105]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja, a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
-[^106]: A 35. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^105]: A 35. § (4a) bekezdését a 14/2024. (II. 29.) BM rendelet 1. §-a iktatta be.
+[^106]: A 35. § (5) bekezdése a 20/2010. (IV. 29.) EüM rendelet 4. § (1) bekezdés k) pontja, a 28/2023. (VIII. 10.) BM rendelet 37. § b) pontja szerint módosított szöveg.
+[^107]: A 35. § (6) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 44. § (2) bekezdés 23. pontja hatályon kívül helyezte. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
