@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-16-20-0
 | 2022-09-01 | 2010-16-20-0B.24 | 28/2022. (VIII. 25.) BM rendelet |
 | 2023-01-01 | 2010-16-20-0B.25 | 34/2015. (VI. 30.) EMMI rendelet |
 | 2023-09-22 | 2010-16-20-0B.26 | 40/2023. (IX. 21.) BM rendelet |
+| 2024-03-01 | 2010-16-20-0B.27 | 7/2024. (II. 12.) BM rendelet |

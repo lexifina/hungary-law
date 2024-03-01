@@ -4,6 +4,6 @@
 
 22. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő 30. napon lép hatályba.
 
-(2)[^133]
+(2)[^137]
 
-[^133]: A 22. § (2) bekezdését a 28/2022. (VIII. 25.) BM rendelet 18. § c) pontja hatályon kívül helyezte.
+[^137]: A 22. § (2) bekezdését a 28/2022. (VIII. 25.) BM rendelet 18. § c) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^141]
+4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^145]
 
 A támogatott szakképzés szakképzési grémiumai
 
@@ -96,10 +96,34 @@ A támogatott szakképzés szakképzési grémiumai
 
 | 46. | Urológia | 2 |
 
-| 47. | Szakfogorvos | 2 |
+| 47.[^146] | Dento-alveolaris sebészet | 2 |
 
-| 48. | Szakgyógyszerész | 2 |
+| 48.[^147] | Fogszabályozás | 2 |
 
-| 49. | Szakpszichológus | 2 |
+| 49.[^148] | Gyermekfogászat | 2 |
 
-[^141]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 16. §-ával megállapított szöveg.
+| 50.[^149] | Parodontológia | 2 |
+
+| 51.[^150] | Endodontia | 2 |
+
+| 52.[^151] | Fogpótlástan | 2 |
+
+| 53.[^152] | Gyógyszerellátási szakgyógyszerészet | 2 |
+
+| 54.[^153] | Kórházi-klinikai szakgyógyszerészet | 2 |
+
+| 55.[^154] | Ipari és gyógyszerkutatási szakgyógyszerészet | 2 |
+
+| 56.[^155] | Szakpszichológus | 2 |
+
+[^145]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2022. (VIII. 25.) BM rendelet 16. §-ával megállapított szöveg.
+[^146]: A 4. mellékletben foglalt táblázat 47. sora a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^147]: A 4. mellékletben foglalt táblázat 48. sora a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^148]: A 4. mellékletben foglalt táblázat 49. sora a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^149]: A 4. mellékletben foglalt táblázat 50. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^150]: A 4. mellékletben foglalt táblázat 51. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^151]: A 4. mellékletben foglalt táblázat 52. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^152]: A 4. mellékletben foglalt táblázat 53. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^153]: A 4. mellékletben foglalt táblázat 54. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^154]: A 4. mellékletben foglalt táblázat 55. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
+[^155]: A 4. mellékletben foglalt táblázat 56. sorát a 7/2024. (II. 12.) BM rendelet 14. § (2) bekezdése iktatta be.
