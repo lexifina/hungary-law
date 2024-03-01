@@ -2,13 +2,13 @@
 
 (2) Az (1) bekezdés szerinti jogi segítő hiányában a területi hivatal
 
-a)[^17] a bíróság székhelyéhez közeli, azonos vármegyén belüli településen működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
+a)[^19] a bíróság székhelyéhez közeli, azonos vármegyén belüli településen működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
 
-b)[^18] kivételesen indokolt esetben a bíróság székhelye szerinti vármegyén kívül működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
+b)[^20] kivételesen indokolt esetben a bíróság székhelye szerinti vármegyén kívül működő, a szolgáltatási szerződésben polgári és közigazgatási szakterületet vállalt jogi segítőt,
 
 c) ha a bíróság székhelyéhez legközelebbi jogi segítő is aránytalanul messze működik, a bíróság székhelyén működő, az ügyvédi kamara nyilvántartása szerint kirendelhető ügyvédet, ügyvédi irodát
 
 rendel ki.
 
-[^17]: A 39. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
-[^18]: A 39. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^19]: A 39. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.
+[^20]: A 39. § (2) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 271. § b) pontja szerint módosított szöveg.

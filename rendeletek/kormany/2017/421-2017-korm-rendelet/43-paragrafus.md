@@ -1,14 +1,14 @@
-## XI. Fejezet[^19]
+## XI. Fejezet[^21]
 
 ## A PÁRTFOGÓ ÜGYVÉDI DÍJ ÉS AZ ELJÁRÁSI ELŐLEG MEGÁLLAPÍTÁSA ÉS KIFIZETÉSE
 
-## 23.[^20] A pártfogó ügyvédi díj és a pártfogó ügyvédi díj eljárási előlege iránti kérelem
+## 23.[^22] A pártfogó ügyvédi díj és a pártfogó ügyvédi díj eljárási előlege iránti kérelem
 
 43. § (1) A pártfogó ügyvédi díjat a pártfogó ügyvéd kérelmére a jogi segítségnyújtó szolgálat e rendeletben és a pártfogó ügyvéd részére megállapítható díjról és költségekről szóló rendeletben foglaltak szerint állapítja meg. A pártfogó ügyvédnek díjigényét – a támogatás megvonásának esetét kivéve – az eljárást jogerősen befejező határozat kézhezvételét követően kell írásban bejelentenie a területi hivatalnak. Bejelentésében meg kell jelölni azt, hogy mely időszakban képviselte a felet, indítványt tehet a készkiadásai megállapítására és igazolnia kell az időarányostól eltérő munkadíjmegosztás iránti igényének alaposságát.
 
-(2)[^21] A pernyertes felet képviselő pártfogó ügyvéd részére, kérelmére a jogi segítségnyújtó szolgálat az állam által kifizetendő pártfogó ügyvédi díjnak megfelelő összegű díjelőleget fizet, ebben az esetben a pártfogó ügyvéd a jogi segítségnyújtó szolgálat által megállapított díjnak a díjelőlegen felüli részét követelheti az ellenérdekű féltől. A díjelőleg megállapítására az (1) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
+(2)[^23] A pernyertes felet képviselő pártfogó ügyvéd részére, kérelmére a jogi segítségnyújtó szolgálat az állam által kifizetendő pártfogó ügyvédi díjnak megfelelő összegű díjelőleget fizet, ebben az esetben a pártfogó ügyvéd a jogi segítségnyújtó szolgálat által megállapított díjnak a díjelőlegen felüli részét követelheti az ellenérdekű féltől. A díjelőleg megállapítására az (1) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell.
 
-(3)[^22] A felet
+(3)[^24] A felet
 
 a) a perben
 
@@ -20,7 +20,7 @@ b) határon átnyúló tartási ügyekben a végrehajtás elrendelése esetén a
 
 képviselő pártfogó ügyvéd az addig végzett pártfogó ügyvédi tevékenységéért kérelmére a pártfogó ügyvédi díj eljárási előlegére (a továbbiakban: eljárási előleg) jogosult.
 
-(4)[^23] A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg
+(4)[^25] A pártfogó ügyvéd az eljárási előleg iránti kérelmével egyidejűleg
 
 a) a (3) bekezdés a) pont aa) alpontja esetén a fellebbezés benyújtását igazoló okiratot,
 
@@ -30,11 +30,11 @@ c) a (3) bekezdés b) pontja esetén a végrehajtás elrendeléséről szóló o
 
 megküldi a jogi segítségnyújtó szolgálatnak.
 
-(5)[^24] A területi hivatal a pártfogó ügyvéd kérelmére határozatban állapítja meg az eljárási előleg összegét. Az eljárási előleg megállapítására az (1) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
+(5)[^26] A területi hivatal a pártfogó ügyvéd kérelmére határozatban állapítja meg az eljárási előleg összegét. Az eljárási előleg megállapítására az (1) bekezdésben foglalt rendelkezéseket kell megfelelően alkalmazni.
 
-[^19]: A XI. fejezet címe a 347/2020. (VII. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^20]: A 23. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^21]: A 43. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^22]: A 43. § (3) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 764/2021. (XII. 23.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^23]: A 43. § (4) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
-[^24]: A 43. § (5) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^21]: A XI. fejezet címe a 347/2020. (VII. 15.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^22]: A 23. alcím címe a 347/2020. (VII. 15.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^23]: A 43. § (2) bekezdése a 347/2020. (VII. 15.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^24]: A 43. § (3) bekezdését a 347/2020. (VII. 15.) Korm. rendelet 1. §-a iktatta be, szövege a 764/2021. (XII. 23.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^25]: A 43. § (4) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
+[^26]: A 43. § (5) bekezdését a 764/2021. (XII. 23.) Korm. rendelet 30. §-a iktatta be.
