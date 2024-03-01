@@ -1,4 +1,4 @@
-## Utazási költségtérítési támogatás[^237]
+## Utazási költségtérítési támogatás[^226]
 
 ## (Az Ebtv. 22. §-ához)
 
@@ -6,7 +6,7 @@
 
 (2) Közforgalmú személyszállítási eszközzel történő utazás esetén az utazási költségtérítési támogatás összege a 2. mellékletben foglaltak szerint kerül megállapításra, azzal, hogy annak összegét csökkenteni kell a biztosítottat és kísérőjét megillető, jogszabály szerinti közforgalmú személyszállítási utazási kedvezmény mértékével. Az utazás során igénybe vett utazási kedvezményről a kérelem benyújtása során nyilatkozni kell, a biztosítottat megillető kedvezményeket az egészségbiztosítási szerv a rendelkezésére álló nyilvántartások alapján ellenőrzi. Ha a nyilvántartásban szereplő adatok és a biztosított nyilatkozata egymásnak ellentmond, az egészségbiztosítási szerv azt a magasabb kedvezménymértéket veszi figyelembe, amelyre a biztosított jogszabály rendelkezései szerint jogosult lenne. Nem jár utazási költségtérítési támogatás annak, aki jogszabály alapján díjmentes utazásra jogosult. Ha az utazás közforgalmú személyszállítási eszközzel történik, az Ebtv. 22. § (6) bekezdése szerinti esetben az utazási költségtérítési támogatás a biztosítottat és a kísérőt külön-külön illeti meg.
 
-(3)[^238] Azt a biztosítottat, aki a (7) bekezdés szerint kijelölt személy véleménye alapján betegsége, egészségi állapota miatt közforgalmú személyszállítási eszközön utazni nem képes, utazási költségtérítési támogatásként kilométerenként 21 forint illeti meg. Ha az utazás nem közforgalmú személyszállítási eszközzel történik, az Ebtv. 22. § (6) bekezdése szerinti esetben az utazási költségtérítési támogatás együttesen illeti meg a biztosítottat és kísérőjét. Több biztosított nem közforgalmú személyszállítási eszközzel történő együttes utazása esetén csak az egyik – választásuk szerinti – biztosított jogosult utazási költségtérítési támogatásra.
+(3)[^227] Azt a biztosítottat, aki a (7) bekezdés szerint kijelölt személy véleménye alapján betegsége, egészségi állapota miatt közforgalmú személyszállítási eszközön utazni nem képes, utazási költségtérítési támogatásként kilométerenként 21 forint illeti meg. Ha az utazás nem közforgalmú személyszállítási eszközzel történik, az Ebtv. 22. § (6) bekezdése szerinti esetben az utazási költségtérítési támogatás együttesen illeti meg a biztosítottat és kísérőjét. Több biztosított nem közforgalmú személyszállítási eszközzel történő együttes utazása esetén csak az egyik – választásuk szerinti – biztosított jogosult utazási költségtérítési támogatásra.
 
 (4) A kísérőt a kísért biztosított nélküli hazautazása, illetve a kísért biztosítottért történő visszautazása tekintetében utazási költségtérítési támogatás illeti meg, ha a kísért biztosított egészségi állapota, illetve elhúzódó kezelése miatt rövid időn belül nem tud lakóhelyére vagy tartózkodási helyére, illetve szállására távozni. A kísérő biztosított nélküli utazásának szükségességéről a biztosítottnak nyilatkozatot kell tennie. Nyilatkozat nélkül, valamint valótlan tények közlése esetén támogatás nem állapítható meg. A kísérő részére – a kísért biztosított nélküli utazás esetén – ugyanazon napra legfeljebb 2 út (1 oda és 1 vissza) számolható el. A kísérő részére nem állapítható meg ugyanazon napra vonatkozóan 2 útra – a kísért biztosított nélküli utazására tekintettel – utazási költségtérítési támogatás, ha az egészségügyi szolgáltató telephelye és a biztosított lakóhelye vagy tartózkodási helye, illetve szállása egymástól való távolsága a 100 kilométert meghaladja. Ha a kísérő a kísért biztosított nélkül utazik, közforgalmú személyszállítási eszköz igénybevétele esetén a 2. melléklet szerinti támogatás utazási kedvezménnyel csökkentett mértékű összegére, ha pedig a biztosított közforgalmú személyszállítási eszközön utazni nem képes, kilométerenként 18 forintra jogosult.
 
@@ -18,9 +18,9 @@ b) az ellátás típusát,
 
 c) az arra vonatkozó véleményét, hogy a biztosított betegsége, egészségi állapota alapján közforgalmú személyszállítási eszközön utazni képes-e,
 
-d)[^239] 18 éven felüli biztosított esetében, hogy egészségi állapota miatt kísérőre szüksége van-e,
+d)[^228] 18 éven felüli biztosított esetében, hogy egészségi állapota miatt kísérőre szüksége van-e,
 
-e)[^240] az arra vonatkozó információt, hogy a biztosított az ellátást a lakóhelye szerinti területi ellátásra kötelezett szolgáltatónál vette-e igénybe.
+e)[^229] az arra vonatkozó információt, hogy a biztosított az ellátást a lakóhelye szerinti területi ellátásra kötelezett szolgáltatónál vette-e igénybe.
 
 (6) Az utazási költségtérítési támogatás (5) bekezdés szerinti igénylésének a NEAK által üzemeltetett informatikai rendszerben történő rögzítése megtörténtéről az egészségügyi szolgáltató az ambuláns lapon, zárójelentésen vagy a szolgáltatás igénybevétele során keletkező egyéb dokumentumon tájékoztató szöveget köteles elhelyezni.
 
@@ -44,7 +44,7 @@ a) egészségügyi szolgáltató alatt a korai fejlesztést és gondozást, ille
 
 b) egészségügyi szolgáltató által kijelölt személy alatt a nemzeti köznevelésről szóló 2011. évi CXC. törvény 18. § (2) bekezdés b) pontja szerinti tevékenységet végző szakértői bizottság vezetőjét kell érteni.
 
-(15)[^241] A (14) bekezdés szerinti utazási költségtérítési támogatás a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti nappali rendszerű iskolai oktatás keretein belül tanulmányokat folytató tanulónak a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével, továbbá a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti korai fejlesztésben és gondozásban, fejlesztő felkészítésben, valamint gyógypedagógiai nevelésben, oktatásban egyéb intézményben részesülő gyermeknek jár, a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével. Az utazási költségtérítési támogatás igényléséhez utazási utalvány kiállítása szükséges, amelyre a nemzeti köznevelésről szóló 2011. évi CXC. törvény 18. § (2) bekezdés b) pontja szerinti tevékenységet végző szakértői bizottság vezetője jogosult. Az utazási utalvány kiállításakor fel kell tüntetni azt az időpontot, amikortól az utazási utalványon megnevezett intézmény által nyújtott szolgáltatás igénybevétele indokolt. A támogatás iránti igény az intézményben történt megjelenés napjától számított hatodik hónap utolsó napjáig érvényesíthető, azzal, hogy abban az esetben, ha a kérelem benyújtására az utazási utalvány kiállításától számított 6. hónap utolsó napjáig kerül sor, akkor az utazási költségtérítési támogatás az utazási utalványon feltüntetett, a szolgáltatás igénybevételének indokolt kezdő időpontjaként meghatározott naptól állapítható meg.
+(15)[^230] A (14) bekezdés szerinti utazási költségtérítési támogatás a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti nappali rendszerű iskolai oktatás keretein belül tanulmányokat folytató tanulónak a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével, továbbá a nemzeti köznevelésről szóló 2011. évi CXC. törvény szerinti korai fejlesztésben és gondozásban, fejlesztő felkészítésben, valamint gyógypedagógiai nevelésben, oktatásban egyéb intézményben részesülő gyermeknek jár, a tanulói jogviszony fennállása alatt, a tanítási év rendjének figyelembevételével. Az utazási költségtérítési támogatás igényléséhez utazási utalvány kiállítása szükséges, amelyre a nemzeti köznevelésről szóló 2011. évi CXC. törvény 18. § (2) bekezdés b) pontja szerinti tevékenységet végző szakértői bizottság vezetője jogosult. Az utazási utalvány kiállításakor fel kell tüntetni azt az időpontot, amikortól az utazási utalványon megnevezett intézmény által nyújtott szolgáltatás igénybevétele indokolt. A támogatás iránti igény az intézményben történt megjelenés napjától számított hatodik hónap utolsó napjáig érvényesíthető, azzal, hogy abban az esetben, ha a kérelem benyújtására az utazási utalvány kiállításától számított 6. hónap utolsó napjáig kerül sor, akkor az utazási költségtérítési támogatás az utazási utalványon feltüntetett, a szolgáltatás igénybevételének indokolt kezdő időpontjaként meghatározott naptól állapítható meg.
 
 (16) A (14) bekezdés szerinti szolgáltatások igénybevételét a szolgáltatást nyújtó intézmény vezetője az erre a célra rendszeresített nyomtatványon – a (15) bekezdés szerinti utazási utalvány betétlapján – igazolja.
 
@@ -78,8 +78,8 @@ kivéve, ha a biztosított díjmentes utazásra jogosult.
 
 (27) Az utazási költségtérítési utalványok elszámolása a közlekedési társaságok és az egészségbiztosító között létrejött szerződés alapján történik.
 
-[^237]: A Vhr. 11. §-át megelőző alcímet a 319/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, az „Utazási költségtérítési támogatás” alcím (Vhr. 11. §) a 807/2021. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^238]: A Vhr. 11. § (3) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^239]: A 11. § (5) bekezdés d) pontja az 571/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^240]: A Vhr. 11. § (5) bekezdés e) pontja a 231/2022. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^241]: A Vhr. 11. § (15) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^226]: A Vhr. 11. §-át megelőző alcímet a 319/2006. (XII. 23.) Korm. rendelet 6. §-a iktatta be, az „Utazási költségtérítési támogatás” alcím (Vhr. 11. §) a 807/2021. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^227]: A Vhr. 11. § (3) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^228]: A 11. § (5) bekezdés d) pontja az 571/2023. (XII. 18.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^229]: A Vhr. 11. § (5) bekezdés e) pontja a 231/2022. (VI. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^230]: A Vhr. 11. § (15) bekezdése a 231/2022. (VI. 28.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.

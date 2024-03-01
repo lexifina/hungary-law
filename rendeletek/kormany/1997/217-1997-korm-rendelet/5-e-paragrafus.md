@@ -1,3 +1,20 @@
-5/E. §[^123]
+## Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai[^125]
 
-[^123]: A Vhr. 5/E. §-át a 4/2007. (I. 22.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének b) pontja. Ez utóbbi módosító rendelet 12. § (1)–(2) bekezdése alapján az 5/F. § (1) bekezdése szerinti egészségügyi szolgáltató, illetve (2) bekezdése szerinti jogi személy által a 2008. évre kibocsátott vizitbérlet 2008. március 31-én érvényét veszti. A kibocsátó a vizitbérletet az érvényessége lejártát követő 60 napon belül visszaváltja és a fel nem használt összeget visszatéríti. A kibocsátó az egészségügyi szolgáltatatás helyén a visszaváltás feltételeiről tájékoztatást ad. A módosító rendelet 12. § (3)–(4) bekezdése alapján a krónikus fekvőbeteg-szakellátás igénybevétele esetén a kórházi napidíjat a biztosított által napidíjfizetés ellenében igénybe vehető utolsó ellátási nap igénybevételét követően, de legkésőbb a 2008. április 1-jétől számított 15 napon belül kell befizetni. Az egészségügyi szolgáltató az előre beszedett vizitdíjat vagy kórházi napidíjat a 2008. március 31-én hatályos 5/C. § (7) bekezdése szerint 2008. július 1-jéig téríti vissza a biztosítottnak.
+5/E. §[^126] (1) Az állam az EESZT digitális időpontfoglalási rendszer szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) útján biztosítja, hogy a járóbeteg-szakellátást nyújtó, közfinanszírozott egészségügyi szolgáltatók (ezen alcím alkalmazásában a továbbiakban: járóbeteg-szakellátást nyújtó egészségügyi szolgáltató) az EESZT útján közzétegyék és folyamatosan frissítsék az e rendelet szerinti beutalóval és beutaló nélkül igénybe vehető szolgáltatásaikra nyitva álló időpontokat.
+
+(2) A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknál történő ellátások igénybevétele során az e rendeletben foglaltakat ezen alcím szerinti eltérésekkel kell alkalmazni.
+
+(3) A digitális időpontfoglalási rendszerben a beutalóval igénybe vehető ellátások esetén a személyesen jelen lévő beteg kérésére a beutaló orvos végzi az időpontfoglalást.
+
+(4) A beteg a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra – a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által meghatározott módon – időpontot foglalhat a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál, amelyet a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a digitális időpontfoglalási rendszerben rögzít.
+
+(5) A beutaló nélkül igénybe vehető ellátások esetén a beteg háziorvosa vagy kezelőorvosa vállalhatja, hogy a beteg kérésére a digitális időpontfoglalási rendszerben a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál időpontot foglal, ha az orvosszakmailag indokolt.
+
+(6) A háziorvos vagy kezelőorvos nem köteles a beteg (5) bekezdés szerinti időpontfoglalásra vonatkozó kérését fogadni.
+
+(7) A (4) és (5) bekezdés szerinti egészségügyi szolgáltató vagy orvos a beteg időpontfoglalásra vonatkozó kérését – az egészségügyi szolgáltató vagy az orvos döntése alapján, ha a beteg állapota személyes megjelenést nem igényel – rövid úton, a beteg személyes megjelenése nélkül is fogadhatja.
+
+(8) Ezen alcím rendelkezései nem érintik a nem a digitális időpontfoglalási rendszerben történő időpontfoglalás lehetőségeit.
+
+[^125]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^126]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.

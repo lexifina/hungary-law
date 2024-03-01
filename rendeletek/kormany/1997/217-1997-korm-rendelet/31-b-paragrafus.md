@@ -1,10 +1,10 @@
-31/B. §[^507] (1)[^508]
+31/B. §[^496] (1)[^497]
 
-(2)[^509] A táppénz folyósításának időtartama a méltányosságból engedélyezett ellátás folyósításának időtartamával együtt sem haladhatja meg az egy évet.
+(2)[^498] A táppénz folyósításának időtartama a méltányosságból engedélyezett ellátás folyósításának időtartamával együtt sem haladhatja meg az egy évet.
 
-(3)[^510] Nem engedélyezhető méltányosságból táppénz, ha a biztosított jogszabály alapján egyéb ellátásra szerzett jogosultságot, illetve ellátásban részesül, kivéve, ha a gyermekgondozási támogatás mellett munkavégzési kötelezettsége van, valamint ha az ápolási díj mellett munkát végző biztosított a gyermeke betegségére tekintettel igényel táppénzt.
+(3)[^499] Nem engedélyezhető méltányosságból táppénz, ha a biztosított jogszabály alapján egyéb ellátásra szerzett jogosultságot, illetve ellátásban részesül, kivéve, ha a gyermekgondozási támogatás mellett munkavégzési kötelezettsége van, valamint ha az ápolási díj mellett munkát végző biztosított a gyermeke betegségére tekintettel igényel táppénzt.
 
-[^507]: A Vhr. 31/B. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
-[^508]: A Vhr. 31/B. § (1) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
-[^509]: A Vhr. 31/B. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
-[^510]: A Vhr. 31/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^496]: A Vhr. 31/B. §-át a 130/2003. (VIII. 22.) Korm. rendelet 3. §-a iktatta be, e módosító rendelet 4. §-a alapján a rendelkezést a 2003. augusztus 30. napját követően benyújtott kérelmekre kell alkalmazni.
+[^497]: A Vhr. 31/B. § (1) bekezdését a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése hatályon kívül helyezte.
+[^498]: A Vhr. 31/B. § (2) bekezdése a 165/2009. (VIII. 14.) Korm. rendelet 11. § (4) bekezdése szerint módosított szöveg.
+[^499]: A Vhr. 31/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 8. §-ával megállapított szöveg.
