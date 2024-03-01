@@ -20,19 +20,19 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 
 4. minősített adatot kezelő szerv: állami vagy közfeladat ellátása érdekében minősített adat kezelését végző szerv, szervezet vagy szervezeti egység, továbbá a gazdálkodó szervezet;
 
-5. felhasználó: az a személy, akinek állami vagy közfeladat végrehajtása céljából a felhasználói engedély kiadására jogosult vezető a minősített adatra vonatkozóan a felhasználói engedélyben rendelkezési jogosultságokat biztosít;
+5. felhasználó: az a személy, aki – állami vagy közfeladat végrehajtása céljából – a minősített adathoz hozzáférhet;
 
 6. közreműködő: az a természetes személy, aki az állami vagy közfeladatot ellátó szerv feladat- és hatáskörébe tartozó ügyben segítséget nyújt, és ehhez minősített adat felhasználása is szükséges;
 
-7. felhasználás: állami vagy közfeladat végrehajtása érdekében a felhasználói engedély kiadására jogosult vezető által, a felhasználói engedélyben meghatározott, a minősített adatra vonatkozó rendelkezési jogosultságok gyakorlása;
+7. felhasználás: állami vagy közfeladat végrehajtása érdekében minősített adat kezelése;
 
-8. felhasználói engedély: állami vagy közfeladat végrehajtása érdekében a minősítő, illetve a felhasználói engedély kiadására jogosult vezető által, a minősített adat felhasználására jogosult személy részére írásban adott felhatalmazás, a minősített adattal kapcsolatos egyes rendelkezési jogosultságok meghatározásával;
+8.
 
-9. megismerési engedély: a minősítő által az érintett személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos rendelkezési jogosultságok megjelölésével, az érintett személyes adatait tartalmazó nemzeti minősített adat megismerésére írásban adott felhatalmazás;
+9. megismerési engedély: a minősítő által az érintett személyazonosító adatainak feltüntetésével, a nemzeti minősített adattal kapcsolatos jogosultságok megjelölésével, az érintett személyes adatait tartalmazó nemzeti minősített adat megismerésére írásban adott felhatalmazás;
 
 10. titoktartási nyilatkozat: a minősített adatot felhasználó vagy megismerő személy nyilatkozata arról, hogy a minősített adat védelmére vonatkozó szabályokat megismerte, és az őt terhelő titoktartási kötelezettséget tudomásul vette;
 
-11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adat felhasználására kaphat felhasználói engedélyt;
+11. személyi biztonsági tanúsítvány: az a tanúsítvány, amely érvényességi idejének lejártáig meghatározza, hogy valamely természetes személy milyen legmagasabb minősítési szintű adatot használhat fel;
 
 12. elektronikus adatkezelő rendszer: minősített adat elektronikus, elektromagnetikus vagy optikai úton történő kezelésére alkalmas berendezés, módszer és eljárás együttese;
 
@@ -47,3 +47,5 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 17. egyszerűsített telephely biztonsági tanúsítvány: a minősített adat védelmének fizikai, adminisztratív és elektronikus biztonsági feltételeinek nem megfelelő gazdálkodó szervezet részére kiadott olyan tanúsítvány, amely meghatározza, hogy a gazdálkodó szervezet milyen legmagasabb minősítési szintű minősített adat kezelésére alkalmas.
 
 18. iparbiztonsági ellenőrzés: a gazdálkodó szervezet cégellenőrzése, az iparbiztonsági ellenőrzés és a telephely biztonsági tanúsítvány kiadásának részletes szabályairól szóló kormányrendelet alapján nemzetbiztonsági ellenőrzésre kötelezett személyek, valamint a minősített adatot felhasználó személyek nemzetbiztonsági ellenőrzése.
+
+19. minősített szerződés: minősített adat keletkeztetését, felhasználását, valamint átadását igénylő vagy minősített adatokat tartalmazó szerződés.

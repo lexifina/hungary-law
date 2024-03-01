@@ -4,11 +4,11 @@
 
 a) érvényes és a felhasználni kívánt adat minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal,
 
-b) titoktartási nyilatkozattal, valamint
+b) titoktartási nyilatkozattal
 
-c) felhasználói engedéllyel.
+c)
 
-(2) A „Korlátozott terjesztésű!” minősítési szintű minősített adat állami vagy közfeladat ellátásához szükséges felhasználása esetén a felhasználó titoktartási nyilatkozatot tesz, és felhasználói engedéllyel kell rendelkeznie.
+(2) A „Korlátozott terjesztésű!” minősítési szintű minősített adat állami vagy közfeladat ellátásához szükséges felhasználása esetén a felhasználó titoktartási nyilatkozatot tesz.
 
 (3) Állami vagy közfeladata ellátásához
 
@@ -24,20 +24,20 @@ e) a Kúria elnöke, az Országos Bírósági Hivatal elnöke,
 
 f) a legfőbb ügyész,
 
-g) az alapvető jogok biztosa
+g) az alapvető jogok biztosa,
 
 h) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
 i) az Állami Számvevőszék elnöke
 
-nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adatra vonatkozó – a 18. § (2) bekezdés a), illetve b) pontjában meghatározott – rendelkezési jogosultságok gyakorlására.
+– a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzés (a továbbiakban: nemzetbiztonsági ellenőrzés), személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó állami vagy közfeladat végrehajtása érdekében történő ügyintézésre, feldolgozásra, valamint a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre.
 
-(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat, illetve felhasználói engedély nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
+(3a) Törvényben meghatározott feladatai ellátásához a Szuverenitásvédelmi Hivatal elnöke és elnökhelyettese személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül jogosultak a feladat- és hatáskörükbe tartozó minősített adat felhasználására.
 
-(4) A minősített adatot kezelő szerv vezetője, valamint a biztonsági vezető felhasználói engedély nélkül jogosult a feladat- és hatáskörébe tartozó minősített adatra vonatkozó – a 18. §-ban meghatározott – rendelkezési jogosultságok gyakorlására.
+(4)
 
-(5) A bírót – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül megilleti az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges rendelkezési jogosultságok gyakorlása.
+(5) A bíró az ügyelosztási rend szerint kiosztott ügyek elbírálásához szükséges minősített adatot – ha törvény másként nem rendelkezik – nemzetbiztonsági ellenőrzés, személyi biztonsági tanúsítvány és titoktartási nyilatkozat nélkül használhatja fel.
 
 (6) Állami vagy közfeladat ellátása során külön engedély nélkül jogosult a minősített adat felhasználására az, akit erre törvény kifejezetten felhatalmaz.
 
-(7) Minősített adatnak az állami vagy közfeladat ellátásához szükséges felhasználása esetén a minősített adatot kezelő szerv vezetője határozza meg a szerven belül azokat a vezetői beosztásokat, amelyet betöltő személyek felhasználói engedély kiadására jogosultak. Részükre a felhasználói engedélyt a minősített adatot kezelő szerv vezetője adja ki.
+(7)

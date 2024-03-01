@@ -1,6 +1,6 @@
 ## A Nemzeti Biztonsági Felügyelet adatkezelése
 
-22. § (1) A nemzeti biztonsági felügyelet a személyi biztonsági tanúsítvány kiadásához a következő adatokat kezeli:
+22. § (1) A Nemzeti Biztonsági Felügyelet a személyi biztonsági tanúsítvány kiadásához a következő adatokat kezeli:
 
 a) az érintett személy
 
@@ -28,4 +28,4 @@ b) a kiadott személyi biztonsági tanúsítvány száma, kelte, érvényességi
 
 (7) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a biztonsági vezetői, valamint a helyettes biztonsági vezetői kinevezés megszűnéséig kezeli.
 
-(8) A Nemzeti Biztonsági Felügyelet a (6) bekezdése szerinti adatokat a minősített adatot kezelő szervek részére továbbíthatja.
+(8) A Nemzeti Biztonsági Felügyelet az általa vezetett nyilvántartásokból adatot a minősített adatot kezelő szervek részére továbbíthat.

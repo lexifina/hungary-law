@@ -19,3 +19,9 @@ c) minősítését megszünteti, ha minősítésének feltételei a továbbiakba
 (5) A legfőbb ügyész az ügyészség vezetője, a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnöki biztos és a kormánybiztos, a Kormány tagja – felügyeleti jogkörében – a kormányzati főhivatal vezetője minősítését a minősítés felülvizsgálatára vonatkozó szabályok szerint felülbírálhatja, ennek eredményeként megszüntetheti a minősítést, módosíthatja a minősítési szintet, illetve a minősítés érvényességi idejét.
 
 (6) A felülvizsgálat és a felülbírálat során a minősítési eljárás szabályai szerint kell eljárni.
+
+(7) Megkeresésre a Nemzeti Biztonsági Felügyelet gondoskodik a felülvizsgálat elvégzéséről
+
+a) az e törvény hatálybalépése után jogutód nélkül megszűnő szervek által keletkeztetett nemzeti minősített adatok esetében, vagy
+
+b) ha a nemzeti minősített adat felülvizsgálatára jogosult minősítő valamilyen okból nem állapítható meg.

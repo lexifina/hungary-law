@@ -65,3 +65,17 @@ b) „Titkos!”, „Bizalmas!” és „Korlátozott terjesztésű!” minősí
 átruházhatják.
 
 (3) A honvédelemért felelős miniszter, a minősített adatok védelmének szakmai felügyeletéért felelős miniszter, a külpolitikáért felelős miniszter, a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint az (1) bekezdés p)–s) pontjában meghatározott vezető a honvédelmi, a nemzetbiztonsági, a külügyi és a nemzetközi kapcsolatokkal összefüggő, a minősített adat védelmének szakmai felügyeletével kapcsolatos, továbbá a bűnüldözési feladatok körében minősítési jogkörét belső szabályzatban az alárendeltségébe tartozó, vezetői megbízással rendelkező, illetve vezetői beosztásba kinevezett más személyre és a minősített adat felülvizsgálatába bevont felülvizsgálati szakértőre írásban átruházhatja. A bűnüldözési feladatok körében ez a jogosítvány a legfőbb ügyészt és az ügyészség vezetőjét is megilleti.
+
+(4) A minősítő a feladat- és hatáskörébe tartozó minősített adat esetén jogosult:
+
+a) a megismerési engedély kiadására,
+
+b) a nemzeti minősített adat felülvizsgálatára,
+
+c) a minősített adat külföldi személy vagy külföldi szerv részére hozzáférhetővé tételének engedélyezésére,
+
+d) a minősített adat külföldre vitelének vagy külföldről való behozatalának engedélyezésére,
+
+e) a titoktartási kötelezettség alóli felmentésre,
+
+f) a minősítési jelölés megismétlésének megtiltására.

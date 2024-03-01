@@ -6,9 +6,9 @@
 
 10. § (1) Minősített adatot kezelni csak a Nemzeti Biztonsági Felügyelet által kiadott engedély alapján lehet, akkor, ha az állami vagy közfeladat ellátásához nélkülözhetetlen.
 
-(2) A minősített adathoz – törvényben meghatározott kivételekkel – személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező felhasználó kizárólag a számára kiadott felhasználói engedélyben meghatározott rendelkezési jogosultságokkal férhet hozzá.
+(2) A minősített adathoz – törvényben meghatározott kivételekkel – személyi biztonsági tanúsítvánnyal és titoktartási nyilatkozattal rendelkező felhasználó férhet hozzá.
 
-(3) A személyi biztonsági tanúsítvány kiadásához az érintett – a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott – nemzetbiztonsági ellenőrzésének (a továbbiakban: nemzetbiztonsági ellenőrzés) lefolytatása szükséges. A minősített adat felhasználásához szükséges személyi biztonsági tanúsítvány nem adható ki, illetve a már kiadott tanúsítványt vissza kell vonni, ha a nemzetbiztonsági ellenőrzés kockázati tényezőt tár fel. A személyi biztonsági tanúsítvány a nemzetbiztonsági ellenőrzésről készült kockázatmentes biztonsági szakvélemény kiállításától számított 5 évig érvényes. A gazdálkodó szervezetnél a minősített adatot felhasználó külföldi állampolgárságú személy részére a személyi biztonsági tanúsítvány – törvényben kihirdetett nemzetközi szerződés alapján – abban az esetben is kiadható, ha rendelkezik az állampolgársága szerinti ország nemzeti feladat- és hatáskörrel rendelkező hatósága által kiállított érvényes személyi biztonsági tanúsítvánnyal.
+(3)
 
 (4) Minden olyan szervnél, ahol minősített adatot kezelnek, meg kell teremteni a minősített adat védelméhez szükséges, az adat minősítési szintjének megfelelő,
 

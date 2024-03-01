@@ -1,12 +1,12 @@
 16. § (1) Gazdálkodó szervezet
 
-a) „Bizalmas!” vagy annál magasabb minősítési szintű minősített szerződés végrehajtásában, valamint
+a) „Bizalmas!” vagy annál magasabb minősítési szintű minősített szerződés végrehajtásában, vagy
 
-b) a „Bizalmas!” vagy annál magasabb minősítési szintű adat felhasználásával járó, és
+b) a „Bizalmas!” vagy annál magasabb minősítési szintű adat felhasználásával járó és a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés a) és b) pontja szerinti, minősített adat átadásával járó beszerzési eljáráson
 
-c) a közbeszerzésekről szóló 2015. évi CXLIII. törvény 9. § (1) bekezdés a)–b) pontja szerinti, minősített adat átadásával járó beszerzési eljáráson
+csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt részére kiállította.
 
-csak akkor vehet részt, ha a Nemzeti Biztonsági Felügyelet a megfelelő szintű telephely biztonsági tanúsítványt vagy egyszerűsített telephely biztonsági tanúsítványt részére kiállította. A telephely biztonsági tanúsítvány, illetve az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
+(1a) A telephely biztonsági tanúsítvány, illetve az egyszerűsített telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását a minősített adatot kezelő szerv vagy a gazdálkodó szervezet a Nemzeti Biztonsági Felügyeletnél kezdeményezi.
 
 (2) Ha az iparbiztonsági ellenőrzés nem állapított meg kockázati tényezőt, a Nemzeti Biztonsági Felügyelet a gazdálkodó szervezet részére
 

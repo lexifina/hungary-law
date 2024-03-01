@@ -18,7 +18,7 @@ d) nyilvántartja a minősített adatot kezelő szervek biztonsági vezetőinek,
 
 e) ellátja a rejtjeltevékenység hatósági engedélyezését és felügyeletét,
 
-f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban,
+f) egyetértési jogot gyakorol a minősített adatot kezelő szervek biztonsági vezetőinek kinevezésével kapcsolatban, jogosult a kiadott egyetértés visszavonására,
 
 g) ellenőrzi a minősítők minősítési gyakorlatát, ennek eredményeként egyedi vagy általános ajánlást bocsáthat ki az egységes minősítési gyakorlat kialakítása érdekében, illetve kezdeményezheti a minősítés felülvizsgálatát,
 
@@ -28,7 +28,7 @@ i) az arra jogosult gazdálkodó szervezetek részére telephely biztonsági tan
 
 j) kivizsgálja a minősített adatok védelmét érintő, a 19. § (1) bekezdésében meghatározott eseményeket,
 
-k) a minősített adatot kezelő szervnél kivizsgálja a minősített adatok elvesztésével, illetéktelen személy tudomására jutásával, valamint a biztonság megsértésével kapcsolatos eseményeket,
+k) a minősített adatot kezelő szerv bejelentése alapján kivizsgálja a 19. § (2) bekezdésében meghatározott eseményeket,
 
 l) gondoskodik a jogutód nélkül megszűnt szervek által keletkeztetett minősített adatok felülvizsgálatának elvégzéséről,
 
@@ -44,11 +44,11 @@ q) gondoskodik a biztonsági vezetők részére tartandó képzésről és tová
 
 r) együttműködik a Nemzeti Adatvédelmi és Információszabadság Hatósággal a közérdekű adatok megismeréséhez fűződő alkotmányos jog tiszteletben tartása és az információszabadság érvényesülése érdekében,
 
-s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza azok zónabesorolását,
+s) végzi az elektronikus adatkezelő rendszerek vagy azok elemeinek elektromágneses kompromittáló kisugárzásának méréseit és ezek alapján meghatározza az elektronikus adatkezelő rendszerek telepítési helyének zónabesorolását,
 
 t) végzi a helyiségek elektromágneses kompromittáló kisugárzásának védelmével összefüggő méréseket, ezek alapján meghatározza azok zónabesorolását,
 
-u)
+u) nyilvántartja az a) és b) pont szerinti engedélyeket, valamint az i) pont szerinti tanúsítványokat.
 
 (3) A Nemzeti Biztonsági Felügyelet eljárásáért, ha azt a minősített adatok védelmének szakmai felügyeletéért felelős miniszter az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben megállapítja, igazgatási szolgáltatási díjat kell fizetni.
 
