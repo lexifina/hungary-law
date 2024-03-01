@@ -10,26 +10,26 @@
 
 (5) A titkos információgyűjtés tényét és a titkos információgyűjtés során beszerzett adatot törvényben meghatározott feladataik ellátása érdekében a nemzetbiztonsági szolgálatok is megismerhetik.
 
-(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat és felhasználói engedély nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett, illetve rendelkezésére bocsátott minősített adatot.
+(6) A (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy személyi biztonsági tanúsítvány, valamint titoktartási nyilatkozat nélkül használhatja fel a titkos információgyűjtéssel összefüggésben keletkezett és a rendelkezésére bocsátott minősített adatot.
 
-(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy rendelkezési jogosultsága az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben kiterjed
+(7) A minősített adat felhasználása során a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy az e törvényben meghatározott feladatának végrehajtása céljából, az ahhoz elengedhetetlenül szükséges mértékben az alábbiak szerint kezelhet minősített adatot:
 
-a) a minősített adattal kapcsolatos ügyintézésre, a minősített adat feldolgozására,
+a) a minősített adattal kapcsolatos ügyintézés, a minősített adat feldolgozása,
 
-b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenységre,
+b) a minősített adat nyilvántartásával kapcsolatos valamennyi tevékenység,
 
-c) a minősítés megismétlésére,
+c) a minősítés megismétlése,
 
-d) a minősített adat birtokban tartására,
+d) a minősített adat birtokban tartása,
 
-e) a minősített adat másolására, sokszorosítására,
+e) a minősített adat másolása, sokszorosítása,
 
-f) kivonat készítésére,
+f) kivonat készítése,
 
-g) a minősített adat fordítására,
+g) a minősített adat fordítása,
 
-h) a minősített adat szerven belüli átadására,
+h) a minősített adat szerven belüli átadása,
 
-i) a minősített adat szerven kívülre történő továbbítására, szállítására.
+i) a minősített adat szerven kívülre történő továbbítása, szállítása.
 
-(8) A felhasználói engedély kiadására jogosult a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére további, a minősített adat védelméről szóló törvényben meghatározott rendelkezési jogosultságot is biztosíthat.
+(8) A rendőrséget alkotó szerv vezetője vagy az általa írásban meghatározott vezető beosztású személy a (3)–(5) bekezdésben meghatározottak szerint a minősített adat megismerésére, illetve felhasználására jogosult személy részére a (7) bekezdésben meghatározottakon túl további jogosultságot is biztosíthat.
