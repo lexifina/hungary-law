@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-118-20-
 | --- | --- | --- |
 | 2021-03-11 | 2021-118-20-22.1 | 118/2021. (III. 10.) Korm. rendelet |
 | 2021-03-12 | 2021-118-20-22.2 | 2010: CXXX. törvény |
+| 2024-03-01 | 2021-118-20-22.3 | 24/2024. (II. 14.) Korm. rendelet |
