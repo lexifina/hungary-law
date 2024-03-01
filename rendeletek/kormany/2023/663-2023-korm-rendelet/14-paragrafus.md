@@ -1,3 +1,5 @@
-14. §[^21]
+14. § Hatályát veszti az 528/2020. (XI. 28.) Korm. rendelet
 
-[^21]: A 14. § a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+a) 28. §-a és
+
+b) 2. melléklete.

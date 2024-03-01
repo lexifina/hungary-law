@@ -1,3 +1,3 @@
-4. §[^4]
+4. § A 256/2013. (VII. 5.) Korm. rendelet 2/C. §-a a következő (1b) bekezdéssel egészül ki:
 
-[^4]: A 4. § a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+„(1b) Az egészségügyi szakdolgozók esetében mozgóbér elemek alatt az (1) bekezdésben foglaltakon túl az Eszjtv. 8. § (14) bekezdése szerinti helyettesítési díjat, és az országos kórházi főigazgató által megállapított kirendelési díjat, valamint a Hjt. 237/L. § (14) bekezdése szerinti helyettesítési díjat, a Haj. tv. 89/D. § (14) bekezdése szerinti helyettesítési díjat és az egészségügyi honvédelmi alkalmazottak részére a Haj. tv. 89/F. §-a szerinti kirendelés idejére járó kirendelési díjat is érteni kell.”

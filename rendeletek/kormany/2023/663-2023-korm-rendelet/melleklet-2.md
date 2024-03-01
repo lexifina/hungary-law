@@ -1,3 +1,1 @@
-2. melléklet a 663/2023. (XII. 29.) Korm. rendelethez[^23]
-
-[^23]: A 2. melléklet a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+2. melléklet a 663/2023. (XII. 29.) Korm. rendelethez

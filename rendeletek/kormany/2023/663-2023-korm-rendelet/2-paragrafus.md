@@ -1,3 +1,7 @@
-2. §[^2]
+2. § A 43/1999. (III. 3.) Korm. rendelet
 
-[^2]: A 2. § a 15. § (2) bekezdés alapján 2024. március 1-jén lép hatályba.
+a) 16. § (3) bekezdésében és 16/A. § (4) bekezdésében az „az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény” szövegrészek helyébe az „az Eszjtv.” szöveg,
+
+b) 16/A. § (1) bekezdésében az „az egészségügyi szolgálati jogviszonyról szóló törvény” szövegrész helyébe az „az Eszjtv.” szöveg
+
+lép.
