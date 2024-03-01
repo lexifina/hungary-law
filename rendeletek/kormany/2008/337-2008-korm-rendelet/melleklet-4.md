@@ -86,6 +86,8 @@
 
 | 40. | traumatológia |
 
+| 40/a. | gyermektraumatológia |
+
 | 41. | kézsebészet |
 
 | 42. | urológia |
@@ -296,6 +298,6 @@
 
 | 145. | nem humán-asszisztált terápiák |
 
-4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^315]
+4. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^317]
 
-[^315]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.
+[^317]: A 4. számú mellékletet a 325/2011. (XII. 28.) Korm. rendelet 71. § (1) bekezdése iktatta be, szövege a 447/2012. (XII. 29.) Korm. rendelet 55. § (3) bekezdésével megállapított, a 371/2020. (VII. 30.) Korm. rendelet 16. §-a, a 616/2022. (XII. 29.) Korm. rendelet 96. § b) és c) pontja szerint módosított szöveg.

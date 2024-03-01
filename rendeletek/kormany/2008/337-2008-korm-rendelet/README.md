@@ -54,3 +54,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-337-20-
 | 2023-01-01 | 2008-337-20-22.52 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-07-01 | 2008-337-20-22.53 | 286/2023. (VI. 30.) Korm. rendelet |
 | 2024-01-01 | 2008-337-20-22.54 | 532/2023. (XII. 5.) Korm. rendelet |
+| 2024-03-01 | 2008-337-20-22.55 | 41/2024. (II. 29.) Korm. rendelet |
