@@ -1,8 +1,8 @@
-1. melléklet a 36/2011. (XII. 23.) KIM rendelethez[^5]
+1. melléklet a 36/2011. (XII. 23.) KIM rendelethez[^6]
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-| ÖVTJ-kód 2022 | ÖVTJ 2022 megnevezés |
+| ÖVTJ-kód 2024 | ÖVTJ 2024 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -556,7 +556,7 @@
 
 | 1102 | Szőlőbor termelése |
 
-| 110201 | Bortemelés (nem saját termelésű alapanyagól) m.n.s. |
+| 110201 | Bortermelés (nem saját termelésű alapanyagól) m.n.s. |
 
 | 110202 | Pezsgőtermelés (nem saját termelésű alapanyagból) |
 
@@ -572,7 +572,7 @@
 
 | 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
 
-| 110401 | Egyéb nem desztilált, erjeszett ital gyártása (nem saját termelésű alapanyagból) |
+| 110401 | Egyéb nem desztillált, erjesztett ital gyártása (nem saját termelésű alapanyagból) |
 
 | 110402 | Egyéb nem desztillált, erjesztett ital gyártása (saját termelésű alapanyagból) |
 
@@ -1812,7 +1812,7 @@
 
 | 329914 | Preparátori tevékenység (állatkitömés) |
 
-| 329916 | Dekorációs szolgáltatás |
+| 329916 | Termék gyártási folyamattól elkülönült dekorálása |
 
 | 329917 | Címfestés |
 
@@ -2053,6 +2053,8 @@
 | 351401 | Ügyfélszerzés villamosenergia-szolgáltató részére |
 
 | 351402 | Villamosenergia ügynöki kiskereskedelme |
+
+| 351403 | Elektromos járművek töltési szolgáltatása |
 
 | 352 | Gázellátás |
 
@@ -2356,7 +2358,7 @@
 
 | 433901 | Egyéb befejező építés m.n.s. |
 
-| 433902 | Sírkő felállítása, javítása, felújítása, tisztítása, bontása helyszínen |
+| 433902 | Sírkő felállítása, javítása, felújítása, bontása a helyszínen |
 
 | 433903 | Betonfúrás és -vágás, szögbelövés |
 
@@ -2502,7 +2504,7 @@
 
 | 4613 | Fa-, építési anyag ügynöki nagykereskedelme |
 
-| 461301 | Fa, építési anyag ügynöki nagykereskedelme |
+| 461301 | Fa-, építési anyag ügynöki nagykereskedelme |
 
 | 4614 | Gép, hajó, repülőgép ügynöki nagykereskedelme |
 
@@ -2754,11 +2756,11 @@
 
 | 4669 | Egyéb m.n.s. gép, berendezés nagykereskedelme |
 
-| 466901 | Egyéb m.n.s. gép-, berendezés nagykereskedelme |
+| 466901 | Egyéb m.n.s. gép, berendezés nagykereskedelme |
 
 | 466902 | Egyéb ipari, kereskedelmi, navigációs gép nagykereskedelme |
 
-| 466903 | Egyéb m.n.s. gép-, berendezés külkereskedelme |
+| 466903 | Egyéb m.n.s. gép, berendezés külkereskedelme |
 
 | 466904 | Egyéb ipari, kereskedelmi, navigációs gép külkereskedelme |
 
@@ -3168,7 +3170,7 @@
 
 | 479903 | Értékesítés automatán keresztül |
 
-| 479904 | Üzleten kivüli kiskereskedelem |
+| 479904 | Üzleten kívüli kiskereskedelem |
 
 | 479906 | Tüzelőanyag üzleten kívüli kiskereskedelme |
 
@@ -3190,6 +3192,8 @@
 
 | 493206 | Önálló diszpécser szolgálat |
 
+| 493207 | Személygépkocsival nem menetrendszerű személyszállításként végzett személygépkocsis személyszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
+
 | 4939 | M.n.s. egyéb szárazföldi személyszállítás |
 
 | 493901 | Egyéb m.n.s. szárazföldi személyszállítás |
@@ -3203,8 +3207,6 @@
 | 493906 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
 | 493907 | Autóbusszal nem menetrendszerű személyszállításként végzett gépjárművezetői szolgáltatás nem engedélyes közúti közlekedési szolgáltató részére |
-
-| 493908 | Személygépkocsival nem menetrendszerű személyszállításként végzett személygépkocsis személyszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
 | 493909 | Sofőrszolgálat |
 
@@ -3378,8 +3380,6 @@
 
 | 552003 | Üdülőháztelep szolgáltatás |
 
-| 552004 | Gyermeküdültetés (nem utazási csomagként) |
-
 | 552006 | Szálláshely-szolgáltatás m.n.s. |
 
 | 552007 | Közösségi, szabadidős szálláshely-szolgáltatás: üdülő |
@@ -3391,8 +3391,6 @@
 | 552010 | Közösségi, szabadidős szálláshely-szolgáltatás: vendégszállás |
 
 | 552011 | Falusi szálláshely-szolgáltatás |
-
-| 552012 | Közösségi, szabadidős szálláshely-szolgáltatás: munkásszállás |
 
 | 552013 | Közösségi, szabadidős szálláshely-szolgáltatás: diákotthon, kollégium |
 
@@ -3443,6 +3441,8 @@
 | 561010 | Cukrászda, fagylaltozó |
 
 | 561011 | Kürtőskalács sütés |
+
+| 561012 | Főzőkonyha működtetése / Főzőkonyha szolgáltatás |
 
 | 562 | Rendezvényi étkeztetés és egyéb vendéglátás |
 
@@ -3650,7 +3650,7 @@
 
 | 631104 | Adatfeldolgozási szolgáltatás |
 
-| 631105 | Weboldal üzemeltetés (webhosting) |
+| 631105 | Weboldal üzemeltetés (webhoszting) |
 
 | 6312 | Világháló-portál szolgáltatás |
 
@@ -3772,13 +3772,15 @@
 
 | 692003 | Könyvelés |
 
-| 692006 | Egyéb számviteli szolgáltatás, bérszámfejtés |
-
 | 692007 | Pénzügyi ellenőr |
 
 | 692008 | Jövedéki ügyintézés |
 
 | 692009 | Termékdíj ügyintézés |
+
+| 692010 | Bérszámfejtés |
+
+| 692011 | Egyéb számviteli szolgáltatás |
 
 | 70 | Üzletvezetési, vezetői tanácsadás |
 
@@ -4066,6 +4068,8 @@
 
 | 750001 | Állatorvosi tevékenység |
 
+| 750003 | Egyéb állategészségügyi ellátás |
+
 | 77 | Kölcsönzés, operatív lízing |
 
 | 771 | Gépjárműkölcsönzés |
@@ -4240,7 +4244,7 @@
 
 | 812902 | Egyéb tisztítás |
 
-| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóírtás) |
+| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóirtás) |
 
 | 812905 | Köz- és egyéb területek tisztítása, hó- és jégmentesítése |
 
@@ -4308,7 +4312,7 @@
 
 | 8424 | Közbiztonság, közrend |
 
-| 842401 | Trafipax működtetése |
+| 842401 | Traffipax működtetése |
 
 | 85 | Oktatás |
 
@@ -4356,7 +4360,7 @@
 
 | 8542 | Felsőfokú oktatás |
 
-| 854201 | Főiskolai és egyetemi oktatás, alapképzés és mesterképzés |
+| 854201 | Főiskolai és egyetemi oktatás, alapképzés, mesterképzés és doktori képzés |
 
 | 854203 | Egyéb felsőfokú továbbképzés |
 
@@ -4368,7 +4372,7 @@
 
 | 8552 | Kulturális képzés |
 
-| 855201 | Iskolarendszeren kívüli alapfokú művészetoktatás |
+| 855201 | Iskolarendszeren kívüli művészetoktatás |
 
 | 855202 | Kulturális képzés szakkör keretében |
 
@@ -4442,7 +4446,7 @@
 
 | 862301 | Fogorvosi járóbeteg-ellátás m.n.s. |
 
-| 862302 | Szabad foglalkozású egészségügyi tevékenység fogorvosi szakellátásban |
+| 862302 | Szabadfoglalkozású egészségügyi tevékenység fogorvosi szakellátásban |
 
 | 869 | Egyéb humán-egészségügyi ellátás |
 
@@ -4469,6 +4473,8 @@
 | 869011 | Humánkineziológiai szolgáltatás |
 
 | 869012 | Dúlai szolgáltatás |
+
+| 869013 | Doppingellenőrzési célú mintavételi tevékenység |
 
 | 87 | Bentlakásos, nem kórházi ápolás |
 
@@ -4760,7 +4766,7 @@
 
 | 952901 | Egyéb háztartási és közszükségleti cikkek javítása |
 
-| 952902 | Gravírozás hozott anyagra nem a gyártás során |
+| 952902 | Gyártástól elkülönült gravírozási szolgáltatás |
 
 | 952903 | Kulcsmásolás |
 
@@ -4900,4 +4906,4 @@
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^5]: Az 1. melléklet a 16/2022. (XI. 30.) MK rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet az 1/2024. (II. 29.) MK rendelet 1. §-ával megállapított szöveg.

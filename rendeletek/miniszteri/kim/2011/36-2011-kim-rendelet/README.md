@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-36-20-2
 | 2019-11-01 | 2011-36-20-2T.9 | 34/2017. (XII. 19.) MvM rendelet |
 | 2021-06-01 | 2011-36-20-2T.10 | 34/2017. (XII. 19.) MvM rendelet |
 | 2022-12-01 | 2011-36-20-2T.11 | 16/2022. (XI. 30.) MK rendelet |
+| 2024-03-01 | 2011-36-20-2T.12 | 1/2024. (II. 29.) MK rendelet |
