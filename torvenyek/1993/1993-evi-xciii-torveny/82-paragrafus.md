@@ -28,7 +28,7 @@ j) a rákkeltő expozícióval járó tevékenység esetére a külön jogszabá
 
 k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technológiai folyamatban végzett munka esetére a munkavédelemre vonatkozó szabályban előírtnál kevesebb munkavállalói létszám foglalkoztatása.
 
-(3) A munkavédelmi bírság összege 50 000 Ft-tól 10 000 000 Ft-ig terjedhet.
+(3)
 
 (4) A munkavédelmi hatóság a munkavédelmi bírságot telephelyenként szabja ki, amennyiben az azonos időben lefolytatott eljárás során megállapítást nyer, hogy az (1) bekezdésben leírt veszélyeztetést ugyanazon jogszabályi rendelkezést megsértve a munkáltató több telephelyén valósítja meg.
 
