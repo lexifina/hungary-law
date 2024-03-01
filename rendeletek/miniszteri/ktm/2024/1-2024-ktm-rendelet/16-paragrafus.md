@@ -1,0 +1,1 @@
+16. § Egy vagy több földrészletet érintő, egymással összefüggő jog bejegyzéséhez vagy tény feljegyzéséhez készített változási vázrajz vizsgálatáért az első földrészlet után 500 forint, minden további földrészlet után 150 forint összegű igazgatási szolgáltatási díjat kell fizetni.

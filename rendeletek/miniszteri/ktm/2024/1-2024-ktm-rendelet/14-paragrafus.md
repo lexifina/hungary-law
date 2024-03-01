@@ -1,0 +1,1 @@
+14. § Művelési ág változásával kapcsolatos változási vázrajz vizsgálatának igazgatási szolgáltatási díja 5 új alrészletig alrészletenként 400 forint, minden további új alrészlet után alrészletenként 100 forint.
