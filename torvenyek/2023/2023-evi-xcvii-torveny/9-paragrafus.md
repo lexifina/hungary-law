@@ -1,1 +1,1 @@
-9. § A Szabs. tv. 56/A. § (2) bekezdésében a „kiemelt közlekedési szabálysértések és a közlekedéssel kapcsolatos egyéb szabálysértések elkövetése” szövegrész helyébe a „kiemelt közlekedési szabálysértések, a közlekedéssel kapcsolatos egyéb szabálysértések és a szellemi tulajdon elleni szabálysértések elkövetése” szöveg lép.
+### 9. §

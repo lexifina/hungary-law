@@ -1,5 +1,3 @@
 ## 2. Az állami vagyonról szóló 2007. évi CVI. törvény módosítása
 
-2. § Az állami vagyonról szóló 2007. évi CVI. törvény 1. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) Az (5) bekezdés szerinti vagyon hasznosítása, értékesítése során e törvény rendelkezéseit kell alkalmazni, azzal, hogy az államot megillető tulajdonosi jogokat az az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) szerinti központi költségvetési szerv – ide nem értve az állami adó- és vámhatóságot –, továbbá az a 100%-ban állami tulajdonban álló gazdasági társaság gyakorolja, amely az állami tulajdonjogot keletkeztető hatósági határozatot hozta, illetve amely szervezetet megillető követelés fejében került sor a vagyonnak az állam általi elfogadására. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 318. § (4a) és (4b) bekezdésében, valamint az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény 125/C. § (2d) bekezdésében meghatározott esetben a tulajdonosi jogokat a tulajdonjogot az állam javára megszerző rendvédelmi feladatot ellátó költségvetési szerv gyakorolja.”
+### 2. §
