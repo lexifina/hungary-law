@@ -1,3 +1,3 @@
-24. § (1) A 23/2012. (IX. 14.) EMMI rendelet 1. melléklete a 11. melléklet szerint módosul.
+24. §[^25]
 
-(2) A 23/2012. (IX. 14.) EMMI rendelet 2. melléklete a 12. melléklet szerint módosul.
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

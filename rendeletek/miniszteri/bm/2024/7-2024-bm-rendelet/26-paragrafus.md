@@ -1,1 +1,3 @@
-26. § Hatályát veszti a 23/2012. (IX. 14.) EMMI rendelet 9. § (3) bekezdés f) és g) pontja.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

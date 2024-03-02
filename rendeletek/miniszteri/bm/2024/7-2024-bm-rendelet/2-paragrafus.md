@@ -1,1 +1,3 @@
-2. § A 9/1993. (IV. 2.) NM rendelet 16. számú melléklete az 1. melléklet szerint módosul.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-14. § (1) A 16/2010. (IV. 15.) EüM rendelet 3. melléklete helyébe a 6. melléklet lép.
+14. §[^15]
 
-(2) A 16/2010. (IV. 15.) EüM rendelet 4. melléklete a 7. melléklet szerint módosul.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 10. Az orvosok, fogorvosok, gyógyszerészek és az egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezők folyamatos továbbképzéséről szóló 64/2011. (XI. 29.) NEFMI rendelet módosítása
 
-17. § Az orvosok, fogorvosok, gyógyszerészek és az egészségügyi felsőfokú szakirányú szakképesítéssel rendelkezők folyamatos továbbképzéséről szóló 64/2011. (XI. 29.) NEFMI rendelet 3. §-a a következő (8a) bekezdéssel egészül ki:
+17. §[^18]
 
-„(8a) A (8) bekezdés szerinti költségvetési támogatás koordinációs feladatait az OKFŐ látja el.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

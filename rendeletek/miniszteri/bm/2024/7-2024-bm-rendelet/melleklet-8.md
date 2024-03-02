@@ -1,19 +1,3 @@
-## „
+8. melléklet a 7/2024. (II. 12.) BM rendelethez[^36]
 
-| 50. | Parodontológia | 2 |
-
-| 51. | Endodontia | 2 |
-
-| 52. | Fogpótlástan | 2 |
-
-| 53. | Gyógyszerellátási szakgyógyszerészet | 2 |
-
-| 54. | Kórházi-klinikai szakgyógyszerészet | 2 |
-
-| 55. | Ipari és gyógyszerkutatási szakgyógyszerészet | 2 |
-
-| 56. | Szakpszichológus | 2 |
-
-## ”
-
-8. melléklet a 7/2024. (II. 12.) BM rendelethez
+[^36]: A 8. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
