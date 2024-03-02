@@ -1,1 +1,3 @@
-14. § Az 528/2020. (XI. 28.) Korm. rendelet 24. § (1) bekezdés e) pontjában és (2) bekezdés b) pontjában az „5. § (2) bekezdése” szövegrész helyébe az „5. § (2) és (2a) bekezdése” szöveg lép.
+14. §[^17]
+
+[^17]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
