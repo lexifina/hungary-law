@@ -1,3 +1,5 @@
 ## 2. Az elektronikus hírközlésről szóló 2003. évi C. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 88/2022. (III. 7.) Korm. rendelet módosítása
 
-2. § Az elektronikus hírközlésről szóló 2003. évi C. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 88/2022. (III. 7.) Korm. rendelet 2. § (3) bekezdésében az „a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény” szövegrész helyébe az „a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

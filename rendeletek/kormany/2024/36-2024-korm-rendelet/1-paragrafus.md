@@ -1,3 +1,5 @@
 ## 1. Az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.) Korm. rendelet módosítása
 
-1. § Az ideiglenes védelemre jogosultként elismert személyekkel kapcsolatos veszélyhelyzeti szabályokról, továbbá a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló 2011. évi CVI. törvény szabályainak eltérő alkalmazásáról szóló 86/2022. (III. 7.) Korm. rendelet 6. § (6) bekezdésében az „a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 71. §-ának” szövegrész helyébe az „a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 88. alcímének” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
