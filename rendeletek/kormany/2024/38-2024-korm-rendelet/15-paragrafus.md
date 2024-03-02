@@ -1,1 +1,3 @@
-15. § Hatályát veszti a közforgalmú személyszállítási kedvezményekről szóló 85/2007. (IV. 25.) Korm. rendelet.
+15. §[^4]
+
+[^4]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
