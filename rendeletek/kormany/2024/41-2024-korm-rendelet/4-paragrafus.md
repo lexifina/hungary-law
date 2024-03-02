@@ -1,1 +1,3 @@
-4. § Az Ebtv. Vhr. 49. § (5) bekezdés b) pontjában a „68. §-án alapuló követelés esetén az ellátásban” szövegrész helyébe a „68. §-án alapuló követelés esetén – az (5a) bekezdésben foglalt kivétellel – az ellátásban” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

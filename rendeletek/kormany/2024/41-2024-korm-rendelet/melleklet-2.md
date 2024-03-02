@@ -1,3 +1,3 @@
-## „57/a. sürgősségi betegellátó egységben szervezett gyermek szakellátás”
+2. melléklet a 41/2024. (II. 29.) Korm. rendelethez[^10]
 
-2. melléklet a 41/2024. (II. 29.) Korm. rendelethez
+[^10]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
