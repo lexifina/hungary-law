@@ -1,1 +1,3 @@
-4. § A 256/2013. (VII. 5.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+4. §[^2]
+
+[^2]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

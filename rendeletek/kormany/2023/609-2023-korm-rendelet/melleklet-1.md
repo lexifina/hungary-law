@@ -1,11 +1,3 @@
-1. melléklet a 609/2023. (XII. 22.) Korm. rendelethez
+1. melléklet a 609/2023. (XII. 22.) Korm. rendelethez[^4]
 
-A 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat 222. sora helyébe a következő rendelkezés lép:
-
-| (1. | Egészségügyi szolgáltató neve | Település) |
-
-„
-
-| 222. | Református Pulmonológiai Centrum | Törökbálint |
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
