@@ -1,3 +1,1 @@
-4. § Az 1997. évi CXLI. törvény 90. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben rendeletben állapítsa meg az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjára, az ingatlan-nyilvántartási adatok szolgáltatására, az ingatlan-nyilvántartási adatok szolgáltatásának igazgatási szolgáltatási díja mértékére, kezelésére, megfizetésének módjára, valamint az ingatlan-nyilvántartási adatbázishoz adatátviteli vonalon való csatlakozásra és a számítógépes hálózaton keresztül történő adatszolgáltatásra vonatkozó részletes szabályokat.”
+### 4. §

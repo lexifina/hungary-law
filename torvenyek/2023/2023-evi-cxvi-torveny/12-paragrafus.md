@@ -8,12 +8,12 @@ c)
 
 d)
 
-e) 6. § (4) bekezdése,
+e)
 
-f) 6. § (5) és (9) bekezdése,
+f)
 
 g)
 
-h) 28. § (8c) és (11) bekezdése,
+h)
 
-i) 28. § (12) bekezdésében az „és (11)” szövegrész.
+i)
