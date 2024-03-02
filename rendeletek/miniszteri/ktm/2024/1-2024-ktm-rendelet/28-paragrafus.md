@@ -1,9 +1,11 @@
 28. § Hatályát veszti
 
-a) a számítógépes ingatlan-nyilvántartási rendszerből lekérdezés útján szolgáltatható egyes ingatlan-nyilvántartási adatok szolgáltatásáról és igazgatási szolgáltatási díjáról, valamint az ingatlan-nyilvántartási eljárás igazgatási szolgáltatási díjának megállapításáról és a díjak megfizetésének részletes szabályairól szóló 176/2009. (XII. 28.) FVM rendelet,
+a)[^3]
 
-b) a telekalakítási engedélyezési eljárás igazgatási szolgáltatási díjáról szóló 166/2009. (XII. 9.) FVM rendelet,
+b)[^4]
 
-c)[^3]
+c)[^5]
 
-[^3]: A 28. § c) pontja a 25. § (3) bekezdés alapján 2024. december 4-én lép hatályba.
+[^3]: A 28. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 28. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 28. § c) pontja a 25. § (3) bekezdés alapján 2024. december 4-én lép hatályba.
