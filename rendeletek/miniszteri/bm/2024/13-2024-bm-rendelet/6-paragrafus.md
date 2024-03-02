@@ -1,3 +1,5 @@
 ## 6. Az idegenrendészeti szerv által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményekről, a közegészségügyi ellenőrzésekről, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjéről szóló 39/2019. (XI. 15.) BM rendelet módosítása
 
-6. § Az idegenrendészeti szerv által fenntartott, a menekültügyi őrizet végrehajtására szolgáló intézményre, a befogadó állomásra és a közösségi szállásra, valamint a rendőrség által fenntartott, az idegenrendészeti eljárásban elrendelt őrizet végrehajtására szolgáló őrzött szállásra vonatkozó közegészségügyi követelményekről, a közegészségügyi ellenőrzésekről, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjéről szóló 39/2019. (XI. 15.) BM rendelet 1. § 12. pontjában az „az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 27/2007. (V. 31.) IRM rendelet” szövegrész helyébe az „az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 11/2024. (II. 29.) BM rendelet” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
