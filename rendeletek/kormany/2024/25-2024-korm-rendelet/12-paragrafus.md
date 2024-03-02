@@ -1,1 +1,3 @@
-12. § Hatályát veszti a munkavédelmi bírság mértékére és kiszabására vonatkozó részletes szabályokról szóló 273/2011. (XII. 20.) Korm. rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
