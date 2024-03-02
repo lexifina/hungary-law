@@ -1,1 +1,3 @@
-3. § Az R1. 5. § (3) bekezdésében a „2024” szövegrész helyébe a „2025” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
