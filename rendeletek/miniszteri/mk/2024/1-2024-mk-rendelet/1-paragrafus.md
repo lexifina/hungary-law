@@ -1,1 +1,3 @@
-1. § Az Önálló vállalkozók tevékenységi jegyzéke bevezetéséről és alkalmazásáról szóló 36/2011. (XII. 23.) KIM rendelet (a továbbiakban: R.) 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
