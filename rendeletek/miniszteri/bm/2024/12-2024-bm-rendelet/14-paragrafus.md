@@ -1,1 +1,3 @@
-14. § Hatályát veszti a kitoloncolás végrehajtásának szabályairól szóló 26/2007. (V. 31.) IRM rendelet.
+14. §[^1]
+
+[^1]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
