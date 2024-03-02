@@ -1,1 +1,3 @@
-12. § Hatályát veszti a szabad mozgás és tartózkodás jogával rendelkező személyek, valamint a harmadik országbeli állampolgárok beutazásával és tartózkodásával kapcsolatos eljárások díjáról szóló 28/2007. (V. 31.) IRM rendelet.
+12. §[^3]
+
+[^3]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
