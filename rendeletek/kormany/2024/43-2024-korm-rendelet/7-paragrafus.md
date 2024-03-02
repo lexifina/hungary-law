@@ -1,7 +1,3 @@
-## „g) a Budapesti Rendőr-főkapitányság illetékességi területén a Budapesti Rendőr-főkapitányság,
+7. §[^3]
 
-## h) a Szolnoki Rendőrkapitányság illetékességi területén – a helyszínelői tevékenység kivételével – a Jász-Nagykun-Szolnok Vármegyei Rendőr-főkapitányság”
-
-## (végzi.)
-
-7. § Az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló 531/2017. (XII. 29.) Korm. rendelet 1. melléklete az 1. melléklet szerint módosul.
+[^3]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
