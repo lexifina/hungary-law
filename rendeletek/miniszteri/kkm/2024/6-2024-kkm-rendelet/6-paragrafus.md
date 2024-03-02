@@ -1,1 +1,3 @@
-6. § Hatályát veszti a Magyarországon működő diplomáciai és konzuli képviseletek, nemzetközi szervezetek, valamint azok magyarországi kirendeltsége, telephelye, irodája, továbbá a nemzetközi szerződésben biztosított kiváltságokkal és mentességekkel törvény alapján rendelkező szervezetek vagy mindezek nemzetközi szerződés alapján mentességre jogosult tagjai és családtagjaik adatait és jogosultságait tanúsító igazolványokról szóló 15/2017. (X. 31.) KKM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
