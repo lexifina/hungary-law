@@ -1,5 +1,3 @@
-14. § Hatályát veszti az 528/2020. (XI. 28.) Korm. rendelet
+14. §[^15]
 
-a) 28. §-a és
-
-b) 2. melléklete.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A 256/2013. (VII. 5.) Korm. rendelet a következő 3/G. §-sal egészül ki:
+5. §[^6]
 
-„3/G. § Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi szakdolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató a 2/A. § (2) bekezdése szerint meghatározott alapbérben (garantált illetményben) részesülő dolgozójának 2024. március hónaptól számfejtésre kerülő alapbéréhez (garantált illetményéhez) és annak szociális hozzájárulási adójához, valamint a béremelésre eső mozgóbér elemek biztosításához és annak szociális hozzájárulási adójához kapcsolódóan a 3/A. § (2)–(4) bekezdése szerinti támogatásra jogosult.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
