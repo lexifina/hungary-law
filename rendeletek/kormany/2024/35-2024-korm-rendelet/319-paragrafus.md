@@ -1,5 +1,5 @@
 ## 146. Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet módosítása
 
-319. § Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 5. § c) és d) pontja helyébe a következő rendelkezések lépnek:
+319. §[^63]
 
-(A családi otthonteremtési kedvezményt igényelheti:)
+[^63]: A 319. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-315. § Az állami foglalkoztatási szerv, a munkavédelmi és munkaügyi hatóság kijelöléséről, valamint e szervek hatósági és más feladatainak ellátásáról szóló 320/2014. (XII. 13.) Korm. rendelet 10. § (8) bekezdés b) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg lép.
+315. §[^59]
+
+[^59]: A 315. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 139. Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosítása
 
-298. § Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet 13. § (1) bekezdés d) pontjában a „bevándorolt vagy letelepedett” szövegrész helyébe a „huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+298. §[^42]
+
+[^42]: A 298. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

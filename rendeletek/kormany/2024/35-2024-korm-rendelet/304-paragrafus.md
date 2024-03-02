@@ -1,9 +1,3 @@
-## „18. olyan harmadik országbeli állampolgár előadóművész foglalkoztatásához, aki Magyar Kártyát kaphat.”
+304. §[^48]
 
-304. § (1) A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 14. §-a a következő (2b) bekezdéssel egészül ki:
-
-„(2b) A foglalkoztató köteles az engedély iránti kérelemhez csatolni a kérelem benyújtását megelőző két negyedévben a Központi Statisztikai Hivatal felé benyújtott, az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendelet 1. melléklete által meghatározott 2009-es nyilvántartási számú negyedéves munkaügyi jelentést.”
-
-(2) A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 14. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) A kormányhivatal az engedélyt visszavonhatja, ha a foglalkoztató a tartósan munkaviszonyban álló magyar munkavállaló helyett, jogszerű indok nélkül harmadik országbeli állampolgárt kíván foglalkoztatni.”
+[^48]: A 304. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

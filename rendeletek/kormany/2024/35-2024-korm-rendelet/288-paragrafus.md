@@ -1,1 +1,3 @@
-288. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet 5/D. § (2) bekezdés c) pontjában a „bevándorlási engedély, illetve a letelepedett jogállást” szövegrész helyébe a „huzamos tartózkodási jogosultságot” szöveg lép.
+288. §[^32]
+
+[^32]: A 288. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

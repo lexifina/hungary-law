@@ -1,5 +1,5 @@
 ## 138. Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet módosítása
 
-295. § Az otthonteremtési kamattámogatásról szóló 341/2011. (XII. 29.) Korm. rendelet 2. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+295. §[^39]
 
-(Az e rendeletben meghatározott feltételekkel a központi költségvetésből otthonteremtési kamattámogatást igényelhet:)
+[^39]: A 295. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

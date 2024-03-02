@@ -1,3 +1,5 @@
 ## 145. A Nemzeti Akkreditáló Hatóságról és az akkreditálási eljárásról szóló 424/2015. (XII. 23.) Korm. rendelet módosítása
 
-318. § A Nemzeti Akkreditáló Hatóságról és az akkreditálási eljárásról szóló 424/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés b) pontjában a „szabad mozgás és tartózkodás jogával rendelkező személy vagy letelepedett, illetve bevándorolt jogállású” szövegrész helyébe a „szabad mozgás és tartózkodás jogával vagy huzamos tartózkodási jogosultsággal rendelkező” szöveg lép.
+318. §[^62]
+
+[^62]: A 318. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

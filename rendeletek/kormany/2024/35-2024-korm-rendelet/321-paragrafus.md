@@ -1,3 +1,3 @@
-## „d) huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával vagy EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,”
+321. §[^65]
 
-321. § Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet 3. § (1) bekezdés 2a. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+[^65]: A 321. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

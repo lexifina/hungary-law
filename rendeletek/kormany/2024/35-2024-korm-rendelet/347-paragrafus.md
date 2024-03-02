@@ -1,3 +1,3 @@
-## „4. a huzamos tartózkodási jogosultságot bevándorlási engedéllyel, letelepedési engedéllyel, ideiglenes letelepedési engedéllyel, nemzeti letelepedési engedéllyel, EK letelepedési engedéllyel, ideiglenes tartózkodási kártyával, nemzeti tartózkodási kártyával, EU tartózkodási kártyával, a hontalan jogállást a hontalankénti elismerésről szóló határozattal vagy a jogállást igazoló hatósági igazolással,”
+347. §[^89]
 
-347. § A családok otthonteremtését támogató kedvezményes CSOK Plusz hitelprogramról szóló 518/2023. (XI. 30.) Korm. rendelet 5. § (1) bekezdés 4. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvény” szöveg lép.
+[^89]: A 347. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

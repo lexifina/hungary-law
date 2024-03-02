@@ -1,7 +1,3 @@
-336. § A foglalkoztatás-felügyeleti hatóság tevékenységéről szóló 115/2021. (III. 10.) Korm. rendelet
+336. §[^80]
 
-a) 6. § d) pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg,
-
-b) 1. melléklet 1. pont 1.1. alpont 1.1.3. pontjában a „harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben” szövegrész helyébe a „harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben” szöveg
-
-lép.
+[^80]: A 336. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
