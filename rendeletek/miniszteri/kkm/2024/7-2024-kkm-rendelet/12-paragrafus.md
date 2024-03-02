@@ -1,1 +1,3 @@
-12. § Hatályát veszti a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló 23/2001. (XII. 27.) KüM rendelet.
+12. §[^1]
+
+[^1]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
