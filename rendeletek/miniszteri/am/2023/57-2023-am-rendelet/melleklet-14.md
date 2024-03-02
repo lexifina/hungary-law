@@ -1,3 +1,3 @@
-14. melléklet az 57/2023. (X. 16.) AM rendelethez[^66]
+14. melléklet az 57/2023. (X. 16.) AM rendelethez[^60]
 
-[^66]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^60]: A 14. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
