@@ -1,5 +1,5 @@
 ## 9. A honvédelemmel összefüggő köznevelési ösztöndíjakról szóló 462/2021. (VIII. 5.) Korm. rendelet módosítása
 
-13. §[^32]
+13. §[^19]
 
-[^32]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
