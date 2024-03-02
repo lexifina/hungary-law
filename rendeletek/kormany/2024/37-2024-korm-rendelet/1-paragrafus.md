@@ -1,1 +1,3 @@
-1. § A szociálpolitikai menetdíj-támogatás megállapításának és igénybevételének szabályairól szóló 121/2012. (VI. 26.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
