@@ -1,3 +1,3 @@
-3. §[^1]
+3. §[^3]
 
-[^1]: A 3. § a 13. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.
+[^3]: A 3. § a 13. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.

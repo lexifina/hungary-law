@@ -1,5 +1,3 @@
-11. § Hatályát veszti az Ffvr.
+11. §[^11]
 
-a) 18. § (6) bekezdése,
-
-b) 19. § (3) bekezdése.
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
