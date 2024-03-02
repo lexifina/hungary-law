@@ -1,3 +1,3 @@
-## „g) a digitális járóbeteg-irányítási monitoring rendszer.”
+9. §[^10]
 
-9. § A KKIGR r. 1. § 3. pontjában a „gazdálkodási” szövegrész helyébe a „gazdálkodási, ellátásszervezési” szöveg lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

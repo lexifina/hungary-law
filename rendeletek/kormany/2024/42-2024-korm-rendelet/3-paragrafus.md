@@ -1,7 +1,3 @@
-3. § A Vhr.
+3. §[^4]
 
-a) 2. § (1a) bekezdésében az „az (1b) bekezdésben” szövegrész helyébe az „az (1b) bekezdésben és 5/G. §-ban” szöveg,
-
-b) 4/A. § (4) bekezdésében a „szolgáltatóhoz időpontot” szövegrész helyébe a „szolgáltatóhoz – ha a szolgáltatónál a technikai feltételek adottak – időpontot” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

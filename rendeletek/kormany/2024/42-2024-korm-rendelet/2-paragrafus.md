@@ -1,3 +1,3 @@
-2. § A Vhr. „Átmeneti rendelkezések” alcíme a következő 50/D. §-sal egészül ki:
+2. §[^3]
 
-„50/D. § 2024. július 1-jétől a közfinanszírozott, heti 300 vagy ezt meghaladó órát legalább 5 szakmában működtető járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknak digitális időpontfoglalási rendszert kell használniuk.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
