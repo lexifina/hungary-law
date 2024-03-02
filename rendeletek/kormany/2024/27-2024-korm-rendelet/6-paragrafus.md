@@ -1,7 +1,3 @@
-6. § Hatályát veszti a Vhr.
+6. §[^7]
 
-a) 53/C. §-a,
-
-b) 53/D. §-ában és 53/E. § (1) bekezdésében a „vagy rekreációs célú” szövegrész,
-
-c) 53/J. § i) pontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
