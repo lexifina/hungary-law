@@ -1,15 +1,3 @@
-10. § A 16/2014. (XII. 19.) IM rendelet 29. §-a helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„29. § (1) A bv. szervezet az elítélt visszaesési és fogvatartási kockázatainak felmérésére, annak mérséklése, illetve a sikeres társadalmi reintegráció elősegítése érdekében a Bv. tv. 82. § 3. pontjában meghatározott Kockázatelemzési és Kezelési Rendszert (a továbbiakban: KEK rendszer) alakít ki és működtet.
-
-(2) A KEK rendszer elemei:
-
-a) a kockázatelemzési vizsgálat,
-
-b) a szabadságvesztés végrehajtása során alkalmazott kategória- és kreditrendszer,
-
-c) a fogvatartási és visszaesési kockázatok csökkentésére irányuló és reintegrációs célú programok.
-
-(3) A kockázatelemzés olyan büntetés-végrehajtási szakmai tevékenység, amelynek során az elítélt vonatkozásában felmérésre és értékelésre kerülnek a Bv. tv. 92. § (2) bekezdésében meghatározott szempontok szerint a végrehajtás rendjére vagy a fogvatartás biztonságára veszélyt jelentő kockázati tényezők.
-
-(4) A kockázatkezelés olyan büntetés-végrehajtási szakmai tevékenység, amely során a kockázatelemzési vizsgálat alapján – figyelembe véve az elítélt reintegrációs szükségleteit és társadalmi helyzetét, valamint a végrehajtás rendjét és a fogvatartás biztonságát veszélyeztető kockázati tényezőket – az egyéniesített fogvatartási programtervben foglaltak teljesítését biztosítják és nyomon követik. A kockázatkezelés a szabadságvesztés teljes tartamára kiterjed, annak egyes elemei az elítélt teljesítményétől és eredményeitől függően módosulhatnak.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-28. § A 16/2014. (XII. 19.) IM rendelet 180. § (2) bekezdése helyébe a következő rendelkezés lép:
+28. §[^29]
 
-„(2) A közérdekű munka helyébe lépő szabadságvesztést és a pénzbüntetés helyébe lépő szabadságvesztést töltő elítéltre – a Bv. tv. X. Fejezetében foglalt eltérő rendelkezés hiányában – a Bv. tv. 294. § (2) bekezdésében meghatározott kategóriabesorolásnak megfelelően kell a 34. § (4) és (5) bekezdését alkalmazni.”
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

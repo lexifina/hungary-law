@@ -1,3 +1,3 @@
-4. § A 14/2014. (XII. 17.) IM rendelet 14. §-a a következő (4) bekezdéssel egészül ki:
+4. §[^5]
 
-„(4) Szemle keretei között a tiltott tárgyként elvett információs rendszer, illetve adathordozó átvizsgálására is sor kerülhet.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-35. § Hatályát veszti a 9/2018. (VI. 11.) IM rendelet
+35. §[^36]
 
-1. 27. § (3) bekezdése,
-
-2. 59. alcíme.
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
