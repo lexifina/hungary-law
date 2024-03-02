@@ -1,1 +1,3 @@
-32. § Hatályát veszti az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 27/2007. (V. 31.) IRM rendelet.
+32. §[^1]
+
+[^1]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

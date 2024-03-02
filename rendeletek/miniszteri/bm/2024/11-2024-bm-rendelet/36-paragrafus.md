@@ -1,7 +1,3 @@
-36. § A 16/2018. (VI. 7.) BM rendelet
+36. §[^5]
 
-a) 5. § (2) bekezdésében az „enyhébb rezsimkategóriába” szövegrész helyébe a „III. kategóriába” szöveg,
-
-b) 3. melléklet II. pontja címében az „enyhébb rezsimkategóriába” szövegrész helyébe a „III. kategóriába” szöveg
-
-lép.
+[^5]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
