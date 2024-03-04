@@ -12,7 +12,7 @@ bb) 665 600 000 forint rendelkezésre állásáról a 2023. évi központi költ
 
 bc) 455 600 000 forint rendelkezésre állásáról a 2024. évi központi költségvetés XII. Agrárminisztérium fejezetében,
 
-bd) 277 800 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XII. Agrárminisztérium fejezetében,
+bd)[^1] 477 800 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XII. Agrárminisztérium fejezetében,
 
 Felelős: pénzügyminiszter
 
@@ -37,3 +37,5 @@ c) a 2023. évre 665 600 000 forintban,
 d) a 2025. évre 277 800 000 forintban
 
 állapítja meg.
+
+[^1]: Az 1. pont b) pont bd) alpontja az 1040/2024. (III. 4.) Korm. határozat 2. pontja szerint módosított szöveg.
