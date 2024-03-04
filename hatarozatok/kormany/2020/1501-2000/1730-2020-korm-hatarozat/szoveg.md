@@ -43,3 +43,7 @@ Határidő: az 5. pont szerinti forrás rendelkezésre állását követően azo
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a 2. pont szerinti épületeket érintő beruházások megvalósítására vonatkozó feltételes közbeszerzési eljárás lefolytatását követő 60 napon belül
+
+8.[^1] az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdésében biztosított jogkörében eljárva – az építési beruházás gyors lefolytatása érdekében – a 2. pont szerinti épületeket érintő beruházást, ideértve a 7. pont szerinti feltételes közbeszerzési eljárást is – az ahhoz fűződő kiemelt nemzeti érdekre tekintettel – mentesíti az Ábtv. alkalmazása alól.
+
+[^1]: A 8. pontot az 1043/2024. (III. 4.) Korm. határozat iktatta be.
