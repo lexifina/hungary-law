@@ -1,3 +1,3 @@
-33. §[^20]
+33. §[^44]
 
-[^20]: A 33. §-t a 339/2023. (VII. 25.) Korm. rendelet 57. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^44]: A 33. §-t a 339/2023. (VII. 25.) Korm. rendelet 57. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.

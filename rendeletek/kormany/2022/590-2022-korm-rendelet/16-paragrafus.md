@@ -1,19 +1,21 @@
 ## 7. Az alapok alapja előirányzatainak felhasználási szabályai
 
-16. § (1) A pénzügyi eszközök végrehajtása az alapok alapján keresztül történik.
+16. §[^25] (1) A pénzügyi eszközök végrehajtása az alapok alapján keresztül történik.
 
-(2) Az alapok alapja előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) az operatív programokból lehívott források terhére pénzügyi eszközből történő támogatásnyújtásra szolgál.
+(2) Az alapok alapja előirányzatai (ezen alcím alkalmazásában a továbbiakban: előirányzatok) az operatív programokból és a Helyreállítási és Ellenállóképességi (Rezilienciaépítési) Eszközből lehívott források terhére pénzügyi eszközből történő támogatásnyújtásra szolgálnak.
 
-(3) Az előirányzat a 272/2014. (XI. 5.) Korm. rendelet és a 256/2021. (V. 18.) Korm. rendelet szabályai szerint használható fel.
+(3) Az előirányzatok a 272/2014. (XI. 5.) Korm. rendelet, a 256/2021. (V. 18.) Korm. rendelet és a 373/2022. (IX. 30.) Korm. rendelet szabályai szerint használhatók fel.
 
-(4) Az alapok alapját végrehajtó szervezet az operatív programokból az előirányzat számára rendelkezésre bocsátott összeget az érintett irányító hatóság által jóváhagyott program szerinti finanszírozás céljából, a finanszírozási megállapodás rendelkezései szerint használhatja fel.
+(4) Az alapok alapját végrehajtó szervezet az operatív programokból és a Helyreállítási és Ellenállóképességi (Rezilienciaépítési) Eszközből az előirányzatok számára rendelkezésre bocsátott összeget az érintett irányító hatóság vagy nemzeti hatóság által jóváhagyott program vagy intézkedés szerinti finanszírozás céljából, a finanszírozási megállapodás rendelkezései szerint használhatja fel.
 
-(5) Az előirányzaton
+(5) Az előirányzatokon
 
-a) bevételként az alapok alapját végrehajtó szervezet által összeállított, az irányító hatóság által jóváhagyott és átutalt lehívási értesítések összege, valamint a visszafizetett források teljesítése történik,
+a) bevételként a visszafizetett források, valamint az alapok alapját végrehajtó szervezet által összeállított, az irányító hatóság vagy a nemzeti hatóság által jóváhagyott és átutalt lehívási értesítések összege,
 
-b) kiadásként a végső kedvezményezett és a pénzügyi közvetítők felé történő kifizetések teljesítése, valamint a többlet-kötelezettségvállalás és a díjazás fedezetéül szolgáló visszafizetett forrás átutalása a központi költségvetés közvetlen bevétele megfelelő számlájára történik.
+b) kiadásként a végső kedvezményezett és a pénzügyi közvetítők felé történő kifizetések teljesítése, az a) pont szerint az irányító hatóság vagy a nemzeti hatóság által átutalt, de fel nem használt forrás visszafizetésének rendezése, valamint a többlet-kötelezettségvállalásnak és a díjazás fedezetéül szolgáló visszafizetett forrásnak a 16/A. § szerinti fejezeti kezelésű előirányzatok vagy a központi költségvetés megfelelő számlájára történő átutalása jelenik meg.
 
-(6) A felszabadított vagy visszafizetett forrásokat az alapok alapját végrehajtó szervezet az irányító hatóság előzetes írásbeli jóváhagyásával, az előirányzat céljának megfelelően használhatja fel.
+(6) A felszabadított vagy visszafizetett forrásokat az alapok alapját végrehajtó szervezet az irányító hatóság vagy a nemzeti hatóság előzetes írásbeli jóváhagyásával, az előirányzatok céljának megfelelően használhatja fel.
 
 (7) Nem minősül jogosulatlan forrásfelhasználásnak vagy szabálytalanságnak, ha a kedvezményezett a pénzügyi közvetítővel szemben fennálló fizetési kötelezettségének gazdasági tevékenysége körében felmerülő üzleti kockázatból eredő fizetési nehézség révén nem képes eleget tenni, vagy ha a pénzügyi közvetítő egy adott pénzügyi eszköz hitelkockázatának révén realizált hitelezési vagy befektetési veszteséget szenved el.
+
+[^25]: A 16. § az 51/2024. (III. 4.) Korm. rendelet 4. §-ával megállapított szöveg.

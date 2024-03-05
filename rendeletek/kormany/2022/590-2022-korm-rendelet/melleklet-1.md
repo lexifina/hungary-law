@@ -1,4 +1,4 @@
-1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez
+1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez[^70]
 
 Kezelő szervi kijelölés
 
@@ -12,70 +12,84 @@ Kezelő szervi kijelölés
 
 | 4. | Közvetlen uniós programok támogatása | európai uniós források felhasználásáért felelős miniszter |
 
-| 5. | Alapok alapja GINOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 5. | Az alapok alapját végrehajtó szervezet díjazása (GINOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 6. | Alapok alapja VEKOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 6. | Az alapok alapját végrehajtó szervezet díjazása (VEKOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 7. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 7. | Az alapok alapját végrehajtó szervezet díjazása (EFOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 8. | Alapok alapja GINOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 8. | Alapok alapja GINOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 9. | Alapok alapja DIMOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 9. | Alapok alapja VEKOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 10. | Alapok alapja KEHOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
+| 10. | Alapok alapja EFOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 11. | Gazdaságfejlesztési és Innovációs OP (GINOP) | európai uniós források felhasználásáért felelős miniszter |
+| 11. | Alapok alapja GINOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 12. | Versenyképes Közép-Magyarország OP (VEKOP) | európai uniós források felhasználásáért felelős miniszter |
+| 12. | Alapok alapja DIMOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 13. | Terület- és Településfejlesztési OP (TOP) | európai uniós források felhasználásáért felelős miniszter |
+| 13. | Alapok alapja KEHOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 14. | Integrált Közlekedésfejlesztési OP (IKOP) | európai uniós források felhasználásáért felelős miniszter |
+| 14. | Alapok alapja TOP Plusz pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 15. | Környezeti és Energiahatékonysági Operatív Program (KEHOP) | európai uniós források felhasználásáért felelős miniszter |
+| 15. | Alapok alapja RRF pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-| 16. | Emberi Erőforrás Fejlesztési OP (EFOP) | európai uniós források felhasználásáért felelős miniszter |
+| 16. | Gazdaságfejlesztési és Innovációs OP (GINOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 17. | Közigazgatás- és Közszolgáltatás Fejlesztési OP (KÖFOP) | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
+| 17. | Versenyképes Közép-Magyarország OP (VEKOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 18. | Rászoruló Személyeket Támogató OP (RSZTOP) | európai uniós források felhasználásáért felelős miniszter |
+| 18. | Terület- és Településfejlesztési OP (TOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 19. | Európai Területi Együttműködés (2014–2020) | külgazdasági ügyekért felelős miniszter |
+| 19. | Integrált Közlekedésfejlesztési OP (IKOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 20. | Európai Területi Együttműködés (2021–2027) | külgazdasági ügyekért felelős miniszter |
+| 20. | Környezeti és Energiahatékonysági Operatív Program (KEHOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 21. | EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 | európai uniós források felhasználásáért felelős miniszter |
+| 21. | Emberi Erőforrás Fejlesztési OP (EFOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 22. | Svájci–Magyar Együttműködési Program II. | európai uniós források felhasználásáért felelős miniszter |
+| 22. | Közigazgatás- és Közszolgáltatás Fejlesztési OP (KÖFOP) | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
 
-| 23. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 | közlekedésért felelős miniszter |
+| 23. | Rászoruló Személyeket Támogató OP (RSZTOP) | európai uniós források felhasználásáért felelős miniszter |
 
-| 24. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 | közlekedésért felelős miniszter |
+| 24. | Európai Területi Együttműködés (2014–2020) | külgazdasági ügyekért felelős miniszter |
 
-| 25. | Vidékfejlesztési Program | kifizető ügynökség |
+| 25. | Európai Területi Együttműködés (2021–2027) | külgazdasági ügyekért felelős miniszter |
 
-| 26. | Magyar Halgazdálkodási Operatív Program | agrárpolitikáért felelős miniszter |
+| 26. | EGT és Norvég Finanszírozási Mechanizmusok 2014–2021 | európai uniós források felhasználásáért felelős miniszter |
 
-| 27. | Magyar Halgazdálkodási Operatív Program Plusz | agrárpolitikáért felelős miniszter |
+| 27. | Svájci–Magyar Együttműködési Program II. | európai uniós források felhasználásáért felelős miniszter |
 
-| 28. | KAP Stratégiai Terv Vidékfejlesztési Intézkedései | kifizető ügynökség |
+| 28. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2014–2020 | közlekedésért felelős miniszter |
 
-| 29. | Gazdaságfejlesztési és Innovációs OP Plusz (GINOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 29. | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021–2027 | közlekedésért felelős miniszter |
 
-| 30. | Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 30. | Vidékfejlesztési Program | kifizető ügynökség |
 
-| 31. | Emberi Erőforrás Fejlesztési OP Plusz (EFOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 31. | Magyar Halgazdálkodási Operatív Program | agrárpolitikáért felelős miniszter |
 
-| 32. | Terület- és Településfejlesztési OP Plusz (TOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 32. | Magyar Halgazdálkodási Operatív Program Plusz | agrárpolitikáért felelős miniszter |
 
-| 33. | Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 33. | KAP Stratégiai Terv Vidékfejlesztési Intézkedései | kifizető ügynökség |
 
-| 34. | Digitális Megújulás OP Plusz (DIMOP Plusz) | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
+| 34. | Gazdaságfejlesztési és Innovációs OP Plusz (GINOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
 
-| 35. | Végrehajtás OP Plusz (VOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+| 35. | Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
 
-| 36. | Helyreállítási és Ellenállóképességi Eszköz (RRF) | európai uniós források felhasználásáért felelős miniszter |
+| 36. | Emberi Erőforrás Fejlesztési OP Plusz (EFOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
 
-| 37. | Transznacionális és Interregionális Együttműködés (2014–2020) | európai uniós források felhasználásáért felelős miniszter |
+| 37. | Terület- és Településfejlesztési OP Plusz (TOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
 
-| 38. | Transznacionális és Interregionális Együttműködés (2021–2027) | európai uniós források felhasználásáért felelős miniszter |
+| 38. | Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+
+| 39. | Digitális Megújulás OP Plusz (DIMOP Plusz) | e-közigazgatási és informatikai fejlesztések egységesítéséért felelős miniszter |
+
+| 40. | Végrehajtás OP Plusz (VOP Plusz) | európai uniós források felhasználásáért felelős miniszter |
+
+| 41. | Helyreállítási és Ellenállóképességi Eszköz (RRF) | európai uniós források felhasználásáért felelős miniszter |
+
+| 42. | Transznacionális és Interregionális Együttműködés (2014–2020) | európai uniós források felhasználásáért felelős miniszter |
+
+| 43. | Transznacionális és Interregionális Együttműködés (2021–2027) | európai uniós források felhasználásáért felelős miniszter |
+
+| 44. | Helyreállítási és Ellenállóképességi Eszköz (RRF) hitel intézkedései | európai uniós források felhasználásáért felelős miniszter |
+
+[^70]: Az 1. melléklet az 51/2024. (III. 4.) Korm. rendelet 14. §-ával megállapított szöveg.

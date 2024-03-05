@@ -8,6 +8,6 @@
 
 (2) A Svájci–Magyar Együttműködési Program II. előirányzat az 563/2022. (XII. 23.) Korm. rendelet szerint használható fel.
 
-(3)[^15] A 237/2008. (IX. 26.) Korm. rendelet 2. § (1) bekezdés 23. pontja szerinti Projekt Megállapodásban történő kijelölés esetén a 237/2008. (IX. 26.) Korm. rendelet 2. § (1) bekezdés 15. pontja szerinti Nemzeti Koordinációs Egység vezetőjének döntése alapján használhatóak fel a kedvezményezettek részéről visszafizetett források.
+(3)[^35] A 237/2008. (IX. 26.) Korm. rendelet 2. § (1) bekezdés 23. pontja szerinti Projekt Megállapodásban történő kijelölés esetén a 237/2008. (IX. 26.) Korm. rendelet 2. § (1) bekezdés 15. pontja szerinti Nemzeti Koordinációs Egység vezetőjének döntése alapján használhatóak fel a kedvezményezettek részéről visszafizetett források.
 
-[^15]: A 22. § (3) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 48. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^35]: A 22. § (3) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 48. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.

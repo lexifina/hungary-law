@@ -1,6 +1,6 @@
 ## 8. A Közvetlen uniós programok támogatása előirányzat felhasználási szabályai
 
-17. § (1) A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja támogatás biztosítása
+17. § (1)[^27] A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja projekt-előkészítési támogatás és projekt önerő-támogatás (ezen alcím alkalmazásában a továbbiakban együtt: támogatás) biztosítása
 
 1. – a CEF projektek kivételével – az Európai Hálózatfinanszírozási Eszköz,
 
@@ -34,15 +34,21 @@
 
 16. az Európai Űrprogram,
 
-17. a Fúziósenergia-fejlesztés (ITER) vagy
+17. a Fúziósenergia-fejlesztés (ITER),
 
-18. az Innovációs Alap
+18. az Innovációs Alap vagy
 
-## programok keretében megvalósuló projektek előkészítési és önerőköltségeinek finanszírozására.
+19. az Európai Városfejlesztési Kezdeményezés (EUI)
+
+programok keretében megvalósuló projektek előkészítési és önerőköltségeinek finanszírozására.
 
 (2) Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjai kapcsán már benyújtott pályázatok támogatására is.
 
-(3) Az előirányzat – legfeljebb az eredeti előirányzat 4%-ának erejéig – fedezetet biztosít továbbá lebonyolítói díj kifizetésére az arra kötött megállapodásban foglaltak szerint.
+(3)[^28] Az előirányzat fedezetet biztosít
+
+a) lebonyolítói díj kifizetésére az arra kötött megállapodásban foglaltak szerint legfeljebb az eredeti előirányzat 4%-ának erejéig, továbbá
+
+b) az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladat ellátásáról szóló 368/2023. (VIII. 7.) Korm. rendelet 1. § (2) bekezdése szerinti gazdasági társaság részére az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladatok ellátására a tárgyévet megelőző évben elnyert pályázatok magyar jogalanyaira jutó uniós támogatási összeg 6,25%-ának összegében.
 
 (4) A kezelő szerv feladatai ellátása érdekében lebonyolító szervet vehet igénybe.
 
@@ -51,3 +57,6 @@
 (6) A fejezetet irányító szerv vezetője az előirányzat kezelésére elkülönített előirányzat-felhasználási keretszámlát nyit a Kincstárnál.
 
 (7) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlához kapcsolódó alszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
+
+[^27]: A 17. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^28]: A 17. § (3) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
