@@ -1,0 +1,3 @@
+14. § (1) Az 563/2022. (XII. 23.) Korm. rendelet 132. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kutatás-fejlesztési projekthez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatás-fejlesztési projekthez nyújtható, beleértve a Horizont 2020 keretprogram vagy a Horizont Európa keretprogram keretében kiválósági pecsét minőségi védjegyben részesült kutatás-fejlesztési projekteket, továbbá a társfinanszírozott kutatás-fejlesztési projekteket és a társfinanszírozott partnerség létrehozására irányuló projekteket is.”
