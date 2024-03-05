@@ -1,25 +1,29 @@
 ## 58. A képzési támogatás
 
-141. § (1) A képzési támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+141. § (1)[^239] A képzési támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez nem nyújtható.
 
-(2) A támogatási intenzitás
-
-a) megváltozott munkaképességű munkavállaló vagy hátrányos helyzetű munkavállaló részére nyújtott képzés esetén 10 százalékponttal,
-
-b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal, és
-
-c) kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal növelhető.
-
-(3) A támogatási intenzitás legfeljebb az elszámolható költségek 70%-áig növelhető.
-
-(4) A támogatás keretében elszámolható
+(2)[^240] A támogatás keretében elszámolható
 
 a) az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
+b) az oktatók és a képzésben részt vevők közvetlenül a képzési projekttel összefüggésben felmerülő költségei, különösen közvetlenül a projekthez kapcsolódó útiköltség és szállásköltség, anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése, kizárólag a képzési projekt keretében történő használatuk mértékéig,
 
-c) a képzési projekthez kapcsolódó tanácsadás költsége és
+c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
-d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (pl. adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen.
+d) a képzésben részt vevők személyi jellegű ráfordításai és az általános közvetett költségek, különösen az adminisztrációs költségek, bérleti díj, rezsiköltségek, azokra az órákra vonatkozóan, amikor a képzésben részt vevők részt vesznek a képzésen.
 
-(5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+(3)[^241] A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át, amely legfeljebb az elszámolható költségek 70%-áig növelhető
+
+a) megváltozott munkaképességű munkavállaló vagy hátrányos helyzetű munkavállaló részére nyújtott képzés esetén 10 százalékponttal,
+
+b) középvállalkozásnak nyújtott támogatás esetén 10 százalékponttal, kisvállalkozásnak nyújtott támogatás esetén 20 százalékponttal.
+
+(4)[^242]
+
+(5)[^243]
+
+[^239]: A 141. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^240]: A 141. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^241]: A 141. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^242]: A 141. § (4) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 8. pontja hatályon kívül helyezte.
+[^243]: A 141. § (5) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 8. pontja hatályon kívül helyezte.

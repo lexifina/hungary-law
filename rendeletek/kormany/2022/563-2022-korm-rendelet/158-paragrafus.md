@@ -1,9 +1,3 @@
-158. § (1) Elosztó hálózat esetén a támogatási összeg nem haladhatja meg az elszámolható költségek és a támogatott elosztó hálózat működési eredménye közötti különbséget.
+158. §[^277]
 
-(2) A működési eredmény mértékét
-
-a) előzetesen, vagy
-
-b) visszafizetési mechanizmus alkalmazásával utólag kell levonni az elszámolható költségből.
-
-(3) A támogatás keretében a beruházási költség számolható el.
+[^277]: A 158. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 19. pontja hatályon kívül helyezte.

@@ -1,21 +1,41 @@
-## 67. A hulladék-újrafeldolgozáshoz és -újrahasználathoz nyújtott beruházási támogatás
+## 67.[^278] Erőforrás-hatékonyságra és körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatás
 
-159. § (1) A hulladék-újrafeldolgozáshoz és -újrahasználathoz nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) más vállalkozás által termelt hulladék újrafeldolgozáshoz és újrahasználatához nyújtható, ha a támogatott beruházás technológiája meghaladja az általánosan elterjedt, nyereségesen alkalmazható technológiát.
+159. § (1)[^279] Az erőforrás-hatékonyságra és körforgásos gazdaságra való átállásra irányuló beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2)–(5) bekezdés szerinti beruházásokhoz nyújtható.
 
-(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 35%-át.
+(2)[^280] Támogatás nyújtható erőforrás-hatékonyságot javító beruházáshoz, amennyiben
 
-(3) A támogatási intenzitás a 145. § (2) és (3) bekezdése szerint növelhető.
+a) a beruházás adott mértékű termelés érdekében felhasznált erőforrások nettó csökkenését eredményezi a kedvezményezett által alkalmazott korábbi termelési folyamathoz vagy a 159/B. § (2) bekezdésében foglalt alternatív forgatókönyv szerinti projektekhez vagy tevékenységekhez képest, vagy
 
-(4) A támogatás keretében a támogatott beruházás beruházási költsége és a támogatás hiányában megvalósítható, azonos kapacitású, hagyományos eljárást alkalmazó hulladék-újrahasznosító vagy -újrafelhasználó létesítmény megvalósításához szükséges beruházási költség különbsége számolható el.
+b) a beruházás az elsődleges nyersanyagok vagy alapanyagok másodlagos – újrahasznált, hasznosított vagy újrafeldolgozott – nyersanyagokkal vagy alapanyagokkal történő helyettesítésére irányul.
 
-(5) A támogathatóság feltétele, hogy a beruházás hiányában a beruházás eredményeként újrafeldolgozott vagy újrahasznált anyagok ártalmatlanításra kerülnének vagy kevésbé környezetbarát módon kerülnének hasznosításra.
+(3)[^281] Támogatás nyújtható a kedvezményezett által termelt olyan hulladék megelőzésére, csökkentésére vagy a kedvezményezett vagy harmadik fél által termelt olyan hulladék újrahasználatra való előkészítésére, szennyeződésmentesítésére és újrafeldolgozására irányuló beruházáshoz, amennyiben a beruházás hiányában
 
-(6) Nem nyújtható támogatás
+a) a hulladékot egyébként nem használnák fel, ártalmatlanítanák,
 
-a) az újrafeldolgozástól eltérő hulladékhasznosítási tevékenységekre, és
+b) a hulladékot a 2008/98/EK irányelv 4. cikk (1) bekezdésében említett hulladékhierarchia elsőbbségi sorrendjében hátrébb elhelyezkedő kezelési művelettel vagy kevésbé erőforrás-hatékony módon kezelnék, vagy
 
-b) a kedvezményezett saját hulladékának újrafeldolgozását és újrahasználatát szolgáló beruházásokra.
+c) az újrafeldolgozás alacsonyabb minőségű termékhez vezetne.
 
-(7) A támogatás közvetetten sem mentesítheti a szennyezőt az uniós környezetvédelmi felelősségi szabályok alapján viselendő terhek és a normál üzletvitel körébe tartozó költségek viselése alól.
+(4)[^282] Támogatás nyújtható a kedvezményezett vagy harmadik fél által termelt olyan egyéb termékek vagy anyagok összegyűjtésére, válogatására, szennyeződésmentesítésére, előkezelésére és kezelésére irányuló beruházáshoz, amennyiben ezen termékeket vagy anyagokat egyébként nem használnák fel, vagy kevésbé erőforrás-hatékony módon hasznosítanák.
 
-(8) A beruházás nem eredményezheti az újrafeldolgozandó anyagok iránti kereslet emelkedését a gyűjtési tevékenység növelése nélkül.
+(5)[^283] Támogatás nyújtható hulladék elkülönített gyűjtésére és válogatására irányuló beruházáshoz újrahasználatra való előkészítés vagy újrafeldolgozás érdekében.
+
+(6)[^284] A (2) bekezdés a) pontja esetén
+
+a) a felhasznált erőforrások magukban foglalnak minden felhasznált nyersanyag-erőforrást, kivéve az energiát,
+
+b) a felhasznált erőforrások nettó csökkenését a támogatási intézkedés végrehajtása előtti és utáni fogyasztás mérése vagy becslése alapján kell meghatározni, figyelemmel az erőforrás felhasználását befolyásoló külső körülmények alapján történő kiigazításra is.
+
+(7)[^285]
+
+(8)[^286]
+
+[^278]: A 67. alcím címe az 50/2024. (III. 4.) Korm. rendelet 39. § 35. pontja szerint módosított szöveg.
+[^279]: A 159. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^280]: A 159. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^281]: A 159. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^282]: A 159. § (4) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^283]: A 159. § (5) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^284]: A 159. § (6) bekezdése az 50/2024. (III. 4.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^285]: A 159. § (7) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 20. pontja hatályon kívül helyezte.
+[^286]: A 159. § (8) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 20. pontja hatályon kívül helyezte.

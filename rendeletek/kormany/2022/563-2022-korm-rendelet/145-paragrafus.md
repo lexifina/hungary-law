@@ -1,5 +1,3 @@
-145. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 40%-át.
+145. §[^259]
 
-(2) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
-
-(3) A támogatási intenzitás – a (2) bekezdésben meghatározott mértéken túl – az Atr. 25. § (1) bekezdése szerinti régióban megvalósuló beruházás esetén 15 százalékponttal növelhető.
+[^259]: A 145. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 12. pontja hatályon kívül helyezte.

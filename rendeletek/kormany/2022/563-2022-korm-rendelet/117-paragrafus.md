@@ -1,3 +1,5 @@
-117. § (1) A támogatást nyújtó a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 49–71. alcím hatálya alá tartozó, az Atr. 2. § 6c. pontja szerinti halászati állami támogatás esetén a 30 000 eurónak, elsődleges mezőgazdasági termelés támogatása esetén a 60 000 eurónak, egyéb esetben pedig az 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásról adatot szolgáltat.
+117. § (1)[^174] A támogatást nyújtó köteles adatot szolgáltatni a Támogatásokat Vizsgáló Iroda részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 49–71. és 74. alcím hatálya alá tartozó, halászati állami támogatás és elsődleges mezőgazdasági termelés támogatása esetén a 10 000 eurónak, egyéb esetben a 100 000 eurónak megfelelő forintösszeget meghaladó támogatásokról.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
+
+[^174]: A 117. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -1,9 +1,3 @@
-154. § (1) Nem nyújtható támogatás
+154. §[^273]
 
-a) ellátási vagy bekeverési kötelezettség hatálya alatt álló bioüzemanyagokhoz, és
-
-b) a 2000/60/EK európai parlamenti és tanácsi irányelvben meghatározott feltételeket nem teljesítő vízerőművekhez.
-
-(2) Nem ítélhető meg és nem fizethető ki támogatás a létesítmény működésének megkezdését követően és a támogatás nem függhet a termelés eredményétől.
-
-(3) Támogatás nem ítélhető meg működési célra.
+[^273]: A 154. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 18. pontja hatályon kívül helyezte.

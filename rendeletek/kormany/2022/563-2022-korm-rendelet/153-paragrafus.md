@@ -1,11 +1,21 @@
-153. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
+153. §[^272] (1) A támogatás keretében a teljes beruházási költség számolható el, és a támogatás nem függhet a termelés eredményétől.
 
-a) 45%-át a 155. § (2) és (3) bekezdése esetén, vagy
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
-b) 30%-át a 155. § (4) bekezdése esetén.
+a) 45%-át a megújulóenergia-termelésre – ideértve az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat –, a megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelésre és a megújuló hidrogén termelésre irányuló beruházások esetében,
 
-(2) A támogatási intenzitás a 145. § (2) és (3) bekezdése szerint növelhető.
+b) 30%-át minden egyéb esetben.
 
-(3) Ha a támogatást egyértelmű, átlátható és megkülönböztetésmentes kritériumok alapján kidolgozott valódi versenyeztetésen alapuló, megkülönböztetésmentes, valamennyi érdekelt vállalkozás részvételét lehetővé tevő ajánlattételi eljárás keretében nyújtják, a támogatás az elszámolható költségek 100%-áig nyújtható.
+(3) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
-(4) Ha az ajánlattételi eljárás korlátozott költségvetése miatt nem részesülhet valamennyi ajánlattevő támogatásban, a támogatás kizárólag az ajánlattevők ajánlatának megfelelően nyújtható, a későbbi tárgyalás lehetőségének kizárásával.
+(4) A támogatás az elszámolható költségek 100%-áig nyújtható, ha a támogatást olyan, a 2. § (2) bekezdés 119. pontja szerinti versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
+
+a) az eljárást objektív, világos, átlátható és megkülönböztetésmentes, a tényleges verseny lehetővé tétele érdekében előzetesen meghatározott és az ajánlatok benyújtásának határideje előtt legalább 6 héttel közzétett kritériumok alapján dolgozzák ki,
+
+b) amennyiben a támogatási program végrehajtása során valamennyi ajánlattevő támogatásban részesül, és újabb ajánlattételi eljárás kiírására kerül sor, az eredeti ajánlattételi eljárást a tényleges verseny helyreállítása céljából az újabb ajánlattételi eljárásban igazítják ki, többek között a költségvetés vagy a mennyiség csökkentésével,
+
+c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítása, így különösen az ajánlatok eredményével kapcsolatos utólagos tárgyalás, és
+
+d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg.
+
+[^272]: A 153. § az 50/2024. (III. 4.) Korm. rendelet 27. §-ával megállapított szöveg.

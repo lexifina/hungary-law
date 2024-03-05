@@ -14,7 +14,7 @@
 
 6. közreműködik a támogatási szerződések módosításában,
 
-7.[^9] kockázatelemzés alapján éves helyszíni ellenőrzési tervet készít, és annak megfelelően lefolytatja a helyszíni ellenőrzéseket,
+7.[^130] kockázatelemzés alapján éves helyszíni ellenőrzési tervet készít, és annak megfelelően lefolytatja a helyszíni ellenőrzéseket,
 
 8. tájékoztatást nyújt a kedvezményezetteknek a támogatási intézkedések lebonyolítására vonatkozó szabályokról,
 
@@ -42,4 +42,4 @@
 
 20. közreműködik a támogatási intézkedésekre vonatkozó fenntartási feladatok ellátásában.
 
-[^9]: A 11. § 7. pontja a 346/2023. (VII. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
+[^130]: A 11. § 7. pontja a 346/2023. (VII. 27.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.

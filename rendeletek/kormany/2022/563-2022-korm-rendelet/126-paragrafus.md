@@ -1,5 +1,7 @@
 ## 51. A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás
 
-126. § (1) A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+126. §[^208] (1) A kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében a vállalkozásnak valamely kiállításon vagy vásáron való részvételekor felmerülő, a kiállítóhelyiség bérletével, felállításával és működtetésével kapcsolatos költsége számolható el.
 
-(2) A támogatás keretében a vállalkozásnak valamely kiállításon vagy vásáron való részvételekor felmerülő, a kiállító helyiség bérletével, felállításával és működtetésével kapcsolatos költség számolható el.
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 50%-át.
+
+[^208]: A 126. § az 50/2024. (III. 4.) Korm. rendelet 11. §-ával megállapított szöveg.

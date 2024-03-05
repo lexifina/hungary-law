@@ -1,19 +1,30 @@
 ## 68. Az energetikai célú infrastruktúrához nyújtott beruházási támogatás
 
-160. § (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
+160. § (1)[^289] Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
 
-(2) A támogatás összege nem haladhatja meg az elszámolható költségek és a támogatott infrastruktúra működési eredménye közötti különbséget.
+(2)[^290] Nem nyújtható támogatás
 
-(3) A működési eredmény mértékét
+a) a belső energiapiacra vonatkozó jogszabályok szerint harmadik felek hozzáférésére vagy díjakra vonatkozó szabályozás alól részben vagy egészében mentesülő energetikai infrastruktúrához,
 
-a) megalapozott előrejelzések alapján kell meghatározni és előzetesen, vagy
+b) villamosenergia-tároló és gáztározó projektekhez kapcsolódó beruházáshoz.
 
-b) visszafizetési mechanizmus alkalmazásával utólag
+(3)[^291] A gázinfrastruktúrára irányuló támogatás abban az esetben nyújtható, amennyiben a támogatás következtében
 
-kell levonni az elszámolható költségekből.
+a) az infrastruktúra kizárólag hidrogén vagy megújuló gázok használatára alkalmas,
 
-(4) A támogatás keretében a beruházás költsége számolható el.
+b) az infrastruktúra kizárólag hidrogén és megújuló gázok használatára alkalmas, vagy
 
-(5) Az energetikai célú infrastruktúrának a belső energiapiaci szabályozással összhangban lévő teljes körű tarifa- és hozzáférési szabályozás hatálya alá kell tartoznia.
+c) az infrastruktúrát 50%-ot meghaladó mértékben hidrogén és megújuló gázok szállítására használják.
 
-(6) Nem nyújtható támogatás villamosenergia- és gáztározó projektekhez, valamint kőolaj-infrastruktúrához kapcsolódó beruházáshoz.
+(4)[^292]
+
+(5)[^293]
+
+(6)[^294]
+
+[^289]: A 160. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 40. § 21. pontja szerint módosított szöveg.
+[^290]: A 160. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^291]: A 160. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^292]: A 160. § (4) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 22. pontja hatályon kívül helyezte.
+[^293]: A 160. § (5) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 22. pontja hatályon kívül helyezte.
+[^294]: A 160. § (6) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 22. pontja hatályon kívül helyezte.

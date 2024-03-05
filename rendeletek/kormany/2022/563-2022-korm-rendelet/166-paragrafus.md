@@ -1,17 +1,26 @@
 ## 72. A csekély összegű támogatás
 
-166. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 200 000 eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a 100 000 eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+166. § (1)[^299] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 300 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(2)[^300] A támogatás odaítélése során bármely három évben odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-(3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(3)[^301] Az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az 1407/2013/EU bizottsági rendelet 4. cikk (3) bekezdés a) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+(4)[^302] Az (EU) 2023/2831 bizottsági rendelet alapján nyújtott általános csekély összegű támogatás más csekély összegű támogatással az adott bizottsági rendeletben alkalmazandó legmagasabb felső határig halmozható.
 
-(5) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
+(5)[^303] A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés alkalmazásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(6) A támogatás a csekély összegű közszolgáltatási támogatással a 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+(6)[^304] A kedvezményezettnek az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+(7)[^305]
 
-(8) A kedvezményezettnek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+(8)[^306]
+
+[^299]: A 166. § (1) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^300]: A 166. § (2) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^301]: A 166. § (3) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^302]: A 166. § (4) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^303]: A 166. § (5) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^304]: A 166. § (6) bekezdése az 50/2024. (III. 4.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^305]: A 166. § (7) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 24. pontja hatályon kívül helyezte.
+[^306]: A 166. § (8) bekezdését az 50/2024. (III. 4.) Korm. rendelet 40. § 24. pontja hatályon kívül helyezte.
