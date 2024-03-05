@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-102-20-
 | 2022-06-01 | 1995-102-20-22.22 | 195/2022. (V. 27.) Korm. rendelet |
 | 2023-01-01 | 1995-102-20-22.23 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-12-29 | 1995-102-20-22.24 | 252/2003. (XII. 23.) Korm. rendelet |
+| 2024-03-05 | 1995-102-20-22.25 | 237/2020. (V. 26.) Korm. rendelet |

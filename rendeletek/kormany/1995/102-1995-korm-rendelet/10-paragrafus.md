@@ -1,4 +1,4 @@
-10. §[^44] (1)[^45] A keresőképtelenség okát a 2. § (1) bekezdés a) pontjában megjelölt orvos a biztosított dokumentációjában rögzíti, továbbá kiállítja az 5. számú melléklet szerinti „Orvosi Igazolás keresőképtelen állományról” elnevezésű nyomtatványt. Ha a keresőképtelenségi állomány a 2 hetet meghaladja, a nyomtatványt legalább 2 hetenként kell kiállítani és a biztosított részére átadni. Az 5. számú melléklet szerinti igazolást az orvos munkahelyi és személyi orvosi bélyegzője olvasható lenyomatával, valamint aláírásával ellátva és a rendelő címét feltüntetve kell a beteg részére átadni.
+10. §[^44] (1)[^45] A keresőképtelenség okát a 2. § (1) bekezdés a)–c) pontjában megjelölt orvos a biztosított dokumentációjában rögzíti, továbbá kiállítja az 5. számú melléklet szerinti „Orvosi Igazolás keresőképtelen állományról” elnevezésű nyomtatványt. Ha a keresőképtelenségi állomány a 2 hetet meghaladja, a nyomtatványt legalább 2 hetenként kell kiállítani és a biztosított részére átadni. Az 5. számú melléklet szerinti igazolást az orvos munkahelyi és személyi orvosi bélyegzője olvasható lenyomatával, valamint aláírásával ellátva és a rendelő címét feltüntetve kell a beteg részére átadni.
 
 (1a)[^46] A veszélyhelyzet megszűnésével összefüggő szabályozási kérdésekről szóló 2022. évi V. törvény 4. §-a alkalmazásában a keresőképtelenség igazolásához szükséges adatoknak az Elektronikus Egészségügyi Szolgáltatási Térbe történő integrálásáig az 5. számú melléklet szerinti nyomtatványt nem kell átadni a biztosított részére, hanem az orvos elektronikus úton – így különösen e-mailben – továbbíthatja a biztosított részére.
 
@@ -15,7 +15,7 @@
 (7)[^49] A keresőképtelenség visszamenőleges igazolására szolgáló kérelmet a 9. számú melléklet szerinti adattartalommal kell kitölteni.
 
 [^44]: A 10. § a 252/2003. (XII. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^45]: A 10. § (1) bekezdése a 237/2020. (V. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 659/2023. (XII. 28.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
+[^45]: A 10. § (1) bekezdése a 237/2020. (V. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 659/2023. (XII. 28.) Korm. rendelet 4. § f) pontja, a 46/2024. (III. 4.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^46]: A 10. § (1a) bekezdését a 195/2022. (V. 27.) Korm. rendelet 16. §-a iktatta be.
 [^47]: A 10. § (5) bekezdését a 287/2018. (XII. 21.) Korm. rendelet 1. §-a iktatta be, szövege a 659/2023. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^48]: A 10. § (6) bekezdését a 237/2020. (V. 26.) Korm. rendelet 1. § (2) bekezdése iktatta be.
