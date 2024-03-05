@@ -1,4 +1,4 @@
-232. §[^195] Az egyes állami támogatási kategóriák vonatkozásában támogatás a 2021–2027 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 638/2023. (XII. 28.) Korm. rendelet [a továbbiakban: 638/2023. (XII. 28.) Korm. rendelet] 2. alcíme, 3. § (3) bekezdése, 4–5. §-a, III. fejezete, valamint
+232. §[^217] Az egyes állami támogatási kategóriák vonatkozásában támogatás a 2021–2027 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 638/2023. (XII. 28.) Korm. rendelet [a továbbiakban: 638/2023. (XII. 28.) Korm. rendelet] 2. alcíme, 3. § (3) bekezdése, 4–5. §-a, III. fejezete, valamint
 
 1. regionális beruházási támogatás esetén a 638/2023. (XII. 28.) Korm. rendelet 14. alcíme,
 
@@ -64,4 +64,6 @@
 
 32. válságtámogatás esetén a 638/2023. (XII. 28.) Korm. rendelet 58. alcíme
 
-[^195]: A 232. § a 639/2023. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.
+szerint nyújtható.
+
+[^217]: A 232. § a 639/2023. (XII. 28.) Korm. rendelet 32. §-ával megállapított szöveg.

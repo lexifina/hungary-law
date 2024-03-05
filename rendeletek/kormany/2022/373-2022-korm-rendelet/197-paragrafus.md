@@ -4,6 +4,6 @@
 
 (3) A szabálytalanságfelelős a kézhezvételtől számított nyolc napon belül a szabálytalanság gyanúját rögzíti a monitoring és információs rendszerben, és megküldi a nemzeti hatóság vezetőjének a szabálytalansági gyanúról kapott tájékoztatást, a kapcsolódó dokumentumokat és véleményét, javaslatot téve az ügy kivizsgálására vagy annak mellőzésére.
 
-(4)[^117] Rendszerszintű szabálytalanság gyanújáról a nemzeti hatóság haladéktalanul értesíti az európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium belső ellenőrzésekért felelős szervezeti egységét, az európai uniós források felhasználásáért felelős minisztert, a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.
+(4)[^132] Rendszerszintű szabálytalanság gyanújáról a nemzeti hatóság haladéktalanul értesíti az európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium belső ellenőrzésekért felelős szervezeti egységét, az európai uniós források felhasználásáért felelős minisztert, a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.
 
-[^117]: A 197. § (4) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.
+[^132]: A 197. § (4) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 6. pontja szerint módosított szöveg.

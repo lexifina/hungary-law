@@ -24,7 +24,7 @@
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^222]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^247]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -156,4 +156,4 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^222]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^247]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.

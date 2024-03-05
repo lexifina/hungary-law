@@ -1,4 +1,4 @@
-## 51/A.[^112] Fenntartási kötelezettség és pénzügyi zárás
+## 51/A.[^127] Fenntartási kötelezettség és pénzügyi zárás
 
 188/A. § (1) A projektmegvalósítás akkor tekinthető befejezettnek, ha a projekt pénzügyi befejezését követően a projekt keretében támogatott tevékenységek végrehajtását igazoló záró kifizetési igénylést és beszámolót a nemzeti hatóság jóváhagyta és a támogatást kifizette.
 
@@ -28,4 +28,4 @@ c) aránytalan nehézség árán
 
 állítható helyre, a nemzeti hatóság a támogatási szerződés szerinti jogkövetkezményt alkalmazza.
 
-[^112]: Az 51/A. alcímet (188/A-188/E. §-t) a 154/2023. (IV. 27.) Korm. rendelet 13. §-a iktatta be.
+[^127]: Az 51/A. alcímet (188/A-188/E. §-t) a 154/2023. (IV. 27.) Korm. rendelet 13. §-a iktatta be.

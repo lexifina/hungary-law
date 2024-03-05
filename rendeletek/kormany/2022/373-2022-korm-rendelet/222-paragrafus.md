@@ -32,7 +32,7 @@ f) a 154. § szerinti esetben,
 
 g) ha a támogatási szerződés módosítása – így különösen támogatási intenzitás megváltozása, műszaki tartalom csökkentése miatti az elszámolható költség, valamint a támogatás csökkentése, vagy a szállítói finanszírozású elszámoló bizonylatok összegének növekedése – miatt a kifizethető előleg összege csökken, és a korábban kifizetett előleg ezt az összeget meghaladta, a különbözetre vagy annak érintett részére, ha azzal a végső kedvezményezett a projektben már nem tud elszámolni,
 
-h) ha a végső kedvezményezett a fel nem használt előleget önként visszafizeti,
+h)[^168] ha a végső kedvezményezett a fel nem használt előleget vagy a jogosulatlanul igénybe vett támogatást önként visszafizeti,
 
 i) ha a szállító a szállítói előleget jogosulatlanul használta fel, valamint a 164. § szerinti esetben,
 
@@ -52,9 +52,10 @@ k) projektátadás esetén, előleg jogcímen, ha a projektátadó végső kedve
 
 (8) Ha a követelés a kompenzálással nem teljesül, a további kompenzálás a végső kedvezményezett értesítése után vagy az Ávr. 99. §-ában foglaltak szerint részletfizetés engedélyezése esetén a futamidő alatt is lehetséges.
 
-(9)[^148] Amennyiben a követelés a 163. § (1) bekezdés a) pontja alapján került előírásra, a követelés törlésre kerül, ha a végső kedvezményezett a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül a 162. § szerinti határidőknek nem megfelelő szállítói előlegről szóló záradékolt számlát a nemzeti hatóság részére megküldi.
+(9)[^169] Amennyiben a követelés a 163. § (1) bekezdés a) pontja alapján került előírásra, a követelés törlésre kerül, ha a végső kedvezményezett a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül a 162. § szerinti határidőknek nem megfelelő szállítói előlegről szóló záradékolt számlát a nemzeti hatóság részére megküldi.
 
-(10)[^149] A követeléskezelést meg kell szüntetni, ha az előírás a 222. § (2) bekezdés i) pontja alapján történt, és a végső kedvezményezett a 162. § szerinti határidőknek nem megfelelő előlegszámlát határidőn túl, de a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül megküldi.
+(10)[^170] A követeléskezelést meg kell szüntetni, ha az előírás a 222. § (2) bekezdés i) pontja alapján történt, és a végső kedvezményezett a 162. § szerinti határidőknek nem megfelelő előlegszámlát határidőn túl, de a nemzeti hatóság által kiküldött felszólító levélben foglalt határidőn belül megküldi.
 
-[^148]: A 222. § (9) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
-[^149]: A 222. § (10) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^168]: A 222. § (2) bekezdés h) pontja a 49/2024. (III. 4.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
+[^169]: A 222. § (9) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.
+[^170]: A 222. § (10) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 5. §-a iktatta be.

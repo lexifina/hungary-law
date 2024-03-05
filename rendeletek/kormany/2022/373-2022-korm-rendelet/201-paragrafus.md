@@ -14,9 +14,9 @@ c) a végső kedvezményezettet meghallgathatja.
 
 (5) A szabálytalansági eljárás felfüggesztésének időtartama a 203. § (2) bekezdése szerinti határidőbe nem számít be.
 
-(6)[^119] A nemzeti hatóság a szabálytalansági eljárás felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül értesíti a végső kedvezményezettet.
+(6)[^134] A nemzeti hatóság a szabálytalansági eljárás felfüggesztéséről és a felfüggesztés megszüntetéséről öt napon belül értesíti a végső kedvezményezettet.
 
-(7)[^120] Ha a szabálytalansági eljárás során a szabálytalansági gyanú megítéléséhez szükséges, műszaki szempontú vizsgálatot igénylő kérdés merül fel, a szabálytalansági eljárás vezetője kezdeményezi a nemzeti hatóság 110. § (2) bekezdése szerinti eljárását.
+(7)[^135] Ha a szabálytalansági eljárás során a szabálytalansági gyanú megítéléséhez szükséges, műszaki szempontú vizsgálatot igénylő kérdés merül fel, a szabálytalansági eljárás vezetője kezdeményezi a nemzeti hatóság 110. § (2) bekezdése szerinti eljárását.
 
-[^119]: A 201. § (6) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^120]: A 201. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 14. §-a iktatta be.
+[^134]: A 201. § (6) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés i) pontja szerint módosított szöveg.
+[^135]: A 201. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 14. §-a iktatta be.

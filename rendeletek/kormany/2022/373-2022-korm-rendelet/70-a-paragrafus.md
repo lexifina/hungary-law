@@ -1,4 +1,4 @@
-70/A. §[^61] (1) A nemzeti hatóság az értékelés esetén az értékelés lezárását követő öt napon belül elvégzi az értékelés minőségellenőrzését.
+70/A. §[^62] (1) A nemzeti hatóság az értékelés esetén az értékelés lezárását követő öt napon belül elvégzi az értékelés minőségellenőrzését.
 
 (2) Ha az értékelőlap hiányos vagy hibás, a nemzeti hatóság az értékelőt – határidő tűzésével – egy alkalommal hiánypótlásra, valamint a hiba javítására hívja fel.
 
@@ -8,4 +8,4 @@
 
 (5) A nemzeti hatóság nem rendeli el az újraértékelést, ha az értékelők által adott pontszámok nem érik el a támogathatósághoz a felhívásban meghatározott minimális pontszámot.
 
-[^61]: A 70/A. §-t a 154/2023. (IV. 27.) Korm. rendelet 4. §-a iktatta be.
+[^62]: A 70/A. §-t a 154/2023. (IV. 27.) Korm. rendelet 4. §-a iktatta be.

@@ -4,8 +4,12 @@
 
 (2) Ha a támogatás felhasználására központosított közbeszerzési rendszer alkalmazásával kerül sor vagy más keretmegállapodás esetén a támogathatósági és elszámolhatósági ellenőrzés nem végezhető el, az (1) bekezdés szerinti szabályokat azzal az eltéréssel kell alkalmazni, hogy a nemzeti hatóság az e fejezet szerinti ellenőrzése során a közbeszerzési dokumentumokat csak műszaki szempontból ellenőrzi.
 
+(2a)[^99] Lebonyolító szerv bevonása estén a (2) bekezdés szerinti nemzeti hatósági ellenőrzést a keretmegállapodás fő tárgyának megfelelő lebonyolító szerv végzi el. Ha a keretmegállapodás tárgya több tárgyat is magában foglal, a keretmegállapodás fő tárgyát a legmagasabb értékű tárgy jelenti. Ha a keretmegállapodás fő tárgyának megfelelő lebonyolító szerv nem állapítható meg egyértelműen, akkor az eljáró lebonyolító szervet a nemzeti hatóság jelöli ki.
+
 (3) A keretmegállapodás alkalmazásával létrejövő, a konkrét beszerzési igény kielégítésére szolgáló közbeszerzés ellenőrzésére – annak értékétől függetlenül – a 30. alcímet kell alkalmazni.
 
 (4) E fejezetet nem kell alkalmazni a keretmegállapodás alapján megvalósított közbeszerzés esetén, ha arra a Kbt. szerinti közvetlen megrendelés útján kerül sor. Ilyen esetben a támogathatósági, elszámolhatósági és műszaki szempontú ellenőrzésre a kifizetési igénylés ellenőrzése során kerül sor.
 
 (5) Ha a keretmegállapodás alapján megvalósított közbeszerzés a Kbt. 19. § (3) bekezdésének alkalmazása nélkül számított becsült értéke az uniós értékhatárt – építési beruházás, építési koncesszió esetén a háromszázmillió forintot – eléri vagy meghaladja, és a keretmegállapodás ezt lehetővé teszi, a végső kedvezményezett köteles beszerzési igényét a Kbt. szerinti verseny újranyitása útján kielégíteni.
+
+[^99]: A 127. § (2a) bekezdését a 49/2024. (III. 4.) Korm. rendelet 3. §-a iktatta be.

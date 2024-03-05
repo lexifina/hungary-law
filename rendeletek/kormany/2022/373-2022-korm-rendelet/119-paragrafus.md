@@ -2,9 +2,9 @@
 
 (2) A közbeszerzésekért felelős miniszter a szerződésmódosítással összefüggésben további dokumentumok benyújtását is kérheti.
 
-(3)[^85] A közbeszerzésekért felelős miniszter a dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését és megküldi a végső kedvezményezett, valamint a nemzeti hatóság részére az ellenőrzés eredményéről szóló jelentést.
+(3)[^90] A közbeszerzésekért felelős miniszter a dokumentumok kézhezvételét követő tizenkét munkanapon belül elvégzi azok közbeszerzési elszámolhatósági ellenőrzését és megküldi a végső kedvezményezett, valamint a nemzeti hatóság részére az ellenőrzés eredményéről szóló jelentést.
 
-(3a)[^86] Nem támogató tartalmú jelentés esetén a közbeszerzésekért felelős miniszter a közbeszerzésre irányadó jogszabályokra való hivatkozással megállapítja a jelentésben a közbeszerzési elszámolhatósági akadályokat.
+(3a)[^91] Nem támogató tartalmú jelentés esetén a közbeszerzésekért felelős miniszter a közbeszerzésre irányadó jogszabályokra való hivatkozással megállapítja a jelentésben a közbeszerzési elszámolhatósági akadályokat.
 
 (4) Ha a végső kedvezményezett a jelentéssel nem ért egyet, annak kézhezvételétől számított két munkanapon belül megküldi észrevételeit a közbeszerzésekért felelős miniszter részére.
 
@@ -16,5 +16,5 @@ b) egyet nem értése esetén a jelentésben foglaltakat fenntartja.
 
 (6) A közbeszerzésekért felelős miniszter haladéktalanul tájékoztatja a végső kedvezményezettet az (5) bekezdés szerinti döntéséről.
 
-[^85]: A 119. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 76. § d) pontja szerint módosított szöveg.
-[^86]: A 119. § (3a) bekezdését a 123/2023. (IV. 12.) Korm. rendelet 25. §-a iktatta be.
+[^90]: A 119. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 76. § d) pontja szerint módosított szöveg.
+[^91]: A 119. § (3a) bekezdését a 123/2023. (IV. 12.) Korm. rendelet 25. §-a iktatta be.

@@ -1,3 +1,3 @@
-6. §[^12]
+6. §[^13]
 
-[^12]: A 6. §-t a 154/2023. (IV. 27.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^13]: A 6. §-t a 154/2023. (IV. 27.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
