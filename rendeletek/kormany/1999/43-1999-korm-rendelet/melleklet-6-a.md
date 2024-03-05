@@ -1,46 +1,18 @@
-|  |  |  |  | Millió forint |
+## Millió forint
 
 | Megnevezés | 2024. évi előirányzat |
 
-|  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
+|  | Háziorvosi, háziorvosi ügyeleti ellátás Praxisfinanszírozás Praxistámogatás Háziorvosi, szakdolgozói bértámogatás Indikátorrendszer finanszírozás és teljesítményfinanszírozás Eseti ellátás díjazása Ügyeleti szolgálat | 99 790,7 12 447,7 118 149,6 27 105,3 649,3 13 106,2 |
 
-|  |  | Praxisfinanszírozás | 99 790,7 |
+| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 271 248,8 |
 
-|  |  | Háziorvosi, szakdolgozói bértámogatás | 118 149,6 |
-
-|  |  | Indikátorrendszer finanszírozás és teljesítményfinanszírozás | 27 105,3 |
-
-|  |  | Eseti ellátás díjazása | 649,3 |
-
-|  |  | Ügyeleti szolgálat | 13 106,2 |
-
-| 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 258 801,1 |
-
-|  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
-
-|  |  | Iskolaegészségügyi ellátás | 2 317,1 |
-
-|  |  | Iskolaegészségügyi ellátás bértámogatás | 255,1 |
-
-|  |  | Védőnői ellátás | 24 009,8 |
-
-|  |  | Anya-, gyermek- és csecsemővédelem | 483,4 |
-
-|  |  | MSZSZ: gyermekgyógyászat | 121,6 |
-
-|  |  | MSZSZ: nőgyógyászat | 96,3 |
+|  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem Iskolaegészségügyi ellátás Iskolaegészségügyi ellátás bértámogatás Védőnői ellátás Anya-, gyermek- és csecsemővédelem MSZSZ: gyermekgyógyászat MSZSZ: nőgyógyászat | 2 317,1 255,1 24 009,8 483,4 121,6 96,3 |
 
 | 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 27 283,3 |
 
-|  | Fogászati ellátás |  |
+|  | Fogászati ellátás Praxisfinanszírozás Praxistámogatás Indikátorrendszer finanszírozás Fogorvosi, szakdolgozói bértámogatás | 38 950,7 4 383,3 3 543,4 45 469,1 |
 
-|  |  | Praxisfinanszírozás | 38 950,7 |
-
-|  |  | Indikátorrendszer finanszírozás | 3 543,4 |
-
-|  |  | Fogorvosi, szakdolgozói bértámogatás | 45 469,1 |
-
-| 3. | Fogászati ellátás összesen | 87 963,2 |
+| 3. | Fogászati ellátás összesen | 92 346,5 |
 
 | 4. | Otthoni szakápolás | 8 980,8 |
 
@@ -48,57 +20,19 @@
 
 | 6. | Művesekezelés | 38 771,1 |
 
-|  | Célelőirányzatok |  |
+|  | Célelőirányzatok Méltányossági alapon történő térítések Alapellátási vállalkozás támogatási átalánydíj Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi és fogorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása Tervezett külföldi ellátások orvosi felülvizsgálata Egészségügyi dolgozók 2018–2024. évi béremelésének fedezete Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése Fiatal szakorvosok támogatása | 3 911,3 55,0 1 250,0 20,0 912 236,8 3 830,1 38 482,6 320,8 |
 
-|  |  | Méltányossági alapon történő térítések | 3 911,3 |
-
-|  |  | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
-
-|  |  | Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 250,0 |
-
-|  |  | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
-
-|  |  | Egészségügyi dolgozók 2018–2024. évi béremelésének fedezete | 929 067,8 |
-
-|  |  | Egészségügyi dolgozók fix összegű bérkiegészítésének, béremelésének fedezete | 3 830,1 |
-
-|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése | 38 482,6 |
-
-|  |  | Fiatal szakorvosok támogatása | 320,8 |
-
-| 7. | Célelőirányzatok összesen | 976 937,6 |
+| 7. | Célelőirányzatok összesen | 960 106,6 |
 
 | 8. | Mentés | 45 560,5 |
 
 | 9. | Laboratóriumi ellátás | 24 716,1 |
 
-|  | Összevont szakellátás |  |
+|  | Összevont szakellátás Járóbeteg-szakellátás Népegészségügy fejlesztése Működési költségelőleg Molekuláris diagnosztikai (PCR) ellátás Fekvőbeteg-szakellátás aktív fekvőbeteg-szakellátás krónikus fekvőbeteg-szakellátás fogvatartottak egészségügyi ellátása várólista csökkentés Extrafinanszírozás Speciális finanszírozású szakellátás | 196 085,9 2 717,5 6 000,0 7 661,9 644 795,1 551 886,5 85 981,0 1 927,6 5 000,0 1 000,0 49 893,4 |
 
-|  |  | Járóbeteg-szakellátás | 196 085,9 |
+| 10. | Összevont szakellátás összesen | 908 153,8 |
 
-|  |  | Népegészségügy fejlesztése | 2 717,5 |
-
-|  |  | Működési költségelőleg | 2 000,0 |
-
-|  |  | Molekuláris diagnosztikai (PCR) ellátás | 7 661,9 |
-
-|  |  | Fekvőbeteg-szakellátás | 644 795,1 |
-
-|  |  |  | aktív fekvőbeteg-szakellátás | 551 886,5 |
-
-|  |  |  | krónikus fekvőbeteg-szakellátás | 85 981,0 |
-
-|  |  |  | fogvatartottak egészségügyi ellátása | 1 927,6 |
-
-|  |  |  | várólista csökkentés | 5 000,0 |
-
-|  |  | Extrafinanszírozás | 1 000,0 |
-
-|  |  | Speciális finanszírozású szakellátás | 49 893,4 |
-
-| 10. | Összevont szakellátás összesen | 904 153,8 |
-
-| 12. | Gyógyító-megelőző ellátás céltartalék | 6 735,6 |
+| 12. | Gyógyító-megelőző ellátás céltartalék | 2 735,6 |
 
 | 13. | Finanszírozási rendszer támogatása | 30 550,0 |
 
