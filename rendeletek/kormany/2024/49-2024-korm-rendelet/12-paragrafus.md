@@ -1,1 +1,3 @@
-12. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet 121. § (2) bekezdésében az „és a közbeszerzésért felelős miniszter” szövegrész.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
