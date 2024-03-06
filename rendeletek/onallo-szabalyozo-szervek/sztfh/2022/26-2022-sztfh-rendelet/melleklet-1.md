@@ -18,9 +18,9 @@ I. FEJEZET
 
 6. A szállítóvezeték biztonsági övezete
 
-6.1. A szállítóvezeték és a tartozékát képező létesítmények és azok környezetének védelmére, valamint a szállítóvezeték zavartalan üzemeltetésére (ellenőrzésére, karbantartására, javítására és üzemzavar-elhárítására) minimálisan a következő táblázatok szerinti biztonsági övezetet kell biztosítani. Amennyiben a vezeték nyomvonala vagy a vezeték tartozékát képező létesítmény tartós emberi tartózkodásra szolgáló építmények, és 50 millió forint értéket meghaladó létesítmények (a továbbiakban: nagy értékű létesítmények) 100 m-es távolságán belül helyezkedik el, abban az esetben a táblázatokban megadottnál nagyobb méretű biztonsági övezet is meghatározható az üzemeltető kérésére.
+6.1.[^4] A szállítóvezeték és a tartozékát képező létesítmény biztonsági övezetének mértékét a 6.1.1–6.1.3. alpontban foglalt táblázatok szerint kell meghatározni. Ha műszakilag indokolt, így különösen, ha a szállítóvezeték vagy a szállítóvezeték tartozékát képező létesítmény huzamos emberi tartózkodásra szolgáló létesítménytől 100 m-es távolságon belül helyezkedik el, a 6.1.1–6.1.3. alpontban foglalt táblázatokban szereplő értéknél nagyobb mértékű biztonsági övezet is meghatározható.
 
-1. táblázat: Atmoszférikus állapotban stabil folyadék esetén:
+6.1.1. A biztonsági övezet mértéke atmoszférikus állapotban stabil folyadék esetén
 
 |  | A | B | C | D | E |
 
@@ -36,13 +36,13 @@ I. FEJEZET
 
 | 6. | 800– | 22 | 18 | 14 | 7 |
 
-2. táblázat: Atmoszférikusan nem stabil folyadék és gáz esetén:
+6.1.2. A biztonsági övezet mértéke atmoszférikusan nem stabil folyadék és gáz esetén
 
 |  | A | B | C | D | E |
 
-| 1. | Vezeték névleges átmérője (DN) | Üzemi nyomás (MOP) | A biztonsági övezet mértéke a tervezési tényező (f0) függvényében méterben |
+| 1. | Vezeték névleges átmérője (DN) | Üzemi nyomás (MOP) [bar] | A biztonsági övezet mértéke a tervezési tényező (f0) függvényében méterben [m] |
 
-| 2. |  | bar | f0 ≤0,72 | f0 ≤0,59 | f0 ≤0,5 |
+| 2. |  |  | f0 ≤0,72 | f0 ≤0,59 | f0 ≤0,5 |
 
 | 3. | 50–200 | <40 ≤ 100 | 8 10 | 6 8 | 5 5 |
 
@@ -54,21 +54,21 @@ I. FEJEZET
 
 | 7. | 1000 felett | <40 ≤ 100 | 18 24 | 15 20 | 10 10 |
 
-3. táblázat: A vezeték tartozékait képező létesítmények, fáklya esetén:
+6.1.3. A szállítóvezeték tartozékát képező létesítmények biztonsági övezete
 
 |  | A | B |
 
 | 1. | Létesítmények | A biztonsági övezet mértéke méterben |
 
-| 2. | Csomópontok, átadó-, mérőállomások | 10 m |
+| 2. | Csomópontok, átadó-, mérőállomások | 10 |
 
-| 3. | Szakaszoló tolózárállomások, csőgörény indító-, fogadó-, váltó állomások | 10 m |
+| 3. | Szakaszoló tolózárállomások, csőgörényindító-, -fogadó, -váltó állomások | 10 |
 
-| 4. | Szivattyúállomások, kompresszorállomások | 20 m |
+| 4. | Szivattyúállomások, kompresszorállomások | 20 |
 
-6.1.1. 100 bart meghaladó maximális üzemi nyomású vezetékek esetében a <40–≤100 barra megadott biztonsági övezet mértékek alkalmazhatók, de a tényleges nyomvonalvezetés ismeretében, kockázatvizsgálat alapján kell meghatározni a biztonsági övezet méretének vagy a tervezési tényező változtatásnak a mértékét, különös figyelemmel a tartós emberi tartózkodásra szolgáló építmények és nagy értékű létesítmények 100 m-es távolságán belüli nyomvonal esetében.
+6.1.4. 100 bart meghaladó maximális üzemi nyomású vezetékek esetében a biztonsági övezet mértékét a 6.1.2. alpontban foglalt táblázat 7. sora szerint kell meghatározni, figyelemmel a 6.1. pontban foglaltakra.
 
-6.2. A biztonsági övezet szélességét a szállítóvezeték mindkét oldalán, a szállítóvezeték tengelyének talajfelszíni vetületétől merőleges irányban, a talajszinten kell mérni. A vezeték tartozékait képező állomások esetén a biztonsági övezetet az állomási befoglaló zóna2 határától kell mérni. Az állomások villamos tápkábelének biztonsági övezete a kábel nyomvonalára merőlegesen mért 1-1 m távolságban lévő függőleges síkokig terjed.
+6.2.[^5] A biztonsági övezet szélességét a szállítóvezeték mindkét oldalán, a szállítóvezeték tengelyének talajfelszíni vetületétől merőleges irányban, a talajszinten kell mérni. A vezeték tartozékait képező állomások esetén a biztonsági övezetet az állomási befoglaló robbanásveszélyes zóna (zóna2) határától kell mérni. Az állomások villamos tápkábelének biztonsági övezete a kábel nyomvonalára merőlegesen mért 1-1 m távolságban lévő függőleges síkokig terjed.
 
 6.3. A szabályzat előírásai szerint elhelyezett párhuzamos szállítóvezetékek biztonsági övezete átfedheti egymást.
 
@@ -76,7 +76,7 @@ I. FEJEZET
 
 6.5. A szállítóvezetékek lefúvatására szolgáló fáklya biztonsági övezetének nagysága megegyezik az adott fáklya hőhatásövezetének méretével. A fáklya hőhatásövezetének méretét a szállítóvezeték üzemeltetője az elégetni kívánt maximális földgázhozam alapulvételével, számításokkal határozza meg. A számításokat az üzemeltetési dokumentációkhoz csatolni kell. Az üzemeltetőnek megfelelő mennyiségkorlátozó eszközökkel biztosítania kell, hogy csak a maximális méretezési hozamnál kevesebb földgáz legyen elégethető.
 
-6.6. A létesítmények technológiai egységeit úgy kell elhelyezni, hogy a robbanásveszélyes zóna (zóna2) határa a létesítmény kerítésén túl nem nyúlhat. Meglévő létesítmények hatósági építési engedélyhez kötött felújítását, átalakítását, korszerűsítését úgy kell elvégezni, hogy az átalakítással érintett egységek robbanásveszélyes zóna (zóna2) határa a létesítmény kerítésén ne nyúljon túl. Szükség esetén a kerítés vonalát módosítani kell.
+6.6.[^6] A létesítmények technológiai egységeit úgy kell elhelyezni, hogy a zóna2 határa a létesítmény kerítésén túl nem nyúlhat. Meglévő létesítmények hatósági építési engedélyhez kötött felújítását, átalakítását, korszerűsítését úgy kell elvégezni, hogy az átalakítással érintett egységek zóna2 határa a létesítmény kerítésén ne nyúljon túl. Szükség esetén a kerítés vonalát módosítani kell.
 
 6.7. A létesítmények biztonsági övezetét úgy kell kijelölni, hogy a felszíni technológiai egységeket olyan derékszögű négyszögbe kell foglalni, amelynek oldalain nem nyúlhat túl egyetlen állomási elem zóna2 határa sem. A biztonsági övezet határvonalát ennek a befoglaló derékszögű négyszögnek az oldalaitól kell mérni.
 
@@ -92,13 +92,25 @@ TERVEZÉS
 
 1.1.2. A nyomvonal kiválasztásánál különös figyelmet kell fordítani a nyomvonal által érintett terület környezeti tényezőire, a földrajzi és talajviszonyokra (pl. korrozív természetű talaj, mocsaras vagy sziklás talaj).
 
-1.1.3. A szállítóvezetéket lehetőleg a föld felszíne alatt kell elhelyezni, a cső felső alkotójától mért legalább 1 m-es takarással. A takarás vastagságát úgy kell megtervezni, hogy az előre látható környezeti hatások a szállítóvezeték üzembiztonságát ne veszélyeztessék.
+1.1.3.[^7] A szállítóvezetéket a föld felszíne alatt kell elhelyezni – kivéve, ha a föld alatti elhelyezés nem kivitelezhető –, a cső felső alkotójától mért legalább 1 m-es takarással. A takarás vastagságát úgy kell megtervezni, hogy az előre látható környezeti hatások a szállítóvezeték üzembiztonságát ne veszélyeztessék.
 
 1.1.4. A szállítóvezetéket úgy kell elhelyezni, hogy káros vagy veszélyes mértékű elmozdulás ne következhessen be (felúszás, kimosás, lecsúszás stb.).
 
 1.1.5. Két vagy több párhuzamos szállítóvezeték esetén – ha a szállítóvezetékek különböző időpontban épülnek és a korábban épült vezeték(ek) üzemel(nek) – az építési körülmények figyelembevételével, a csővezetékeket egymástól, de legalább a csőtengelytől 5 m távolságra kell elhelyezni.
 
 Egyidejűleg létesülő szállítóvezetékek esetében a csőalkotók közötti távolság legalább 0,6 m legyen.
+
+1.1.6.[^8] Szállítóvezetéket tilos elhelyezni
+
+a) – a keresztezés kivételével – nyomvonalas létesítmény alatt,
+
+b) közlekedési célt szolgáló alagútban és hídon,
+
+c) más közművel közös árokban vagy alagútban,
+
+d) építmény és létesítmény alatt, valamint bányaművelés okozta rétegmozgásos területen, továbbá
+
+e) építmény és létesítmény védett területén vagy biztonsági övezetében, kivéve, ha a szállítóvezeték az építmény, létesítmény rendeltetésszerű használatához szükséges.
 
 1.2. Nyomvonal megjelölése
 
@@ -112,7 +124,7 @@ Egyidejűleg létesülő szállítóvezetékek esetében a csőalkotók között
 
 1.3.2. A szállítóvezeték és más nyomvonalas létesítmény keresztezési szöge 30–150° között legyen.
 
-1.3.3. Keresztezéseknél általában a védőcső beépítését kerülni kell. A szállítóvezeték védelmére acél védőcső beépítése tilos.
+1.3.3.[^9] Keresztezéseknél védőcső beépítését akkor kell alkalmazni, ha azt jogszabály vagy a keresztezéssel érintett közmű üzemeltetője előírja. A szállítóvezeték védelmére acél védőcső beépítése tilos.
 
 1.3.4. Folyók keresztezésénél a csővezetéket a vonatkozó vízügyi jogszabályok figyelembevételével úgy kell elhelyezni, hogy felső alkotója a szabályozási fenékszint alatt legalább 1,5 méterrel legyen. Hajózható folyók esetében a szállítóvezetékkel való keresztezést irányított vízszintes-fúrási technológiára vagy más feltárást nem igénylő kivitelezési technológiára (pl. microtunneling, Directpipe) kell tervezni és kivitelezni úgy, hogy a csővezeték felső alkotóját legalább a szabályozási fenékszint alatt 2,5 m-re kell elhelyezni.
 
@@ -145,6 +157,10 @@ Az előző pontokban meghatározottakon túl egyéb légvezetékek a szállító
 1.3.12. Toronyszerű építmények (antennák, szélerőművek) elhelyezése:
 
 A szállító vezeték biztonsági övezet határától számított legalább egyszeres dőlés távolsággal helyezhetők el.
+
+1.3.13.[^10] A 120 kV és attól nagyobb feszültségű földkábel a szállító vezeték biztonsági övezetén kívül helyezhető el, különösen a fokozott biztonság, érintésvédelmi követelmények betartása mellett.
+
+A 120 kV alatti földkábel a szállító vezeték tengelyétől legalább 10 m-es távolságra helyezhető el, különösen a fokozott biztonság, érintésvédelmi követelmények betartása mellett.
 
 2. Szakaszolás
 
@@ -196,7 +212,7 @@ f) tervezési tényező.
 
 5.3. A telepítési távolságok meghatározásakor figyelemmel kell lenni a szállítóvezetékek és az állomások biztonsági övezetére, a robbanásveszélyes zóna terjedelmére és a megközelített létesítmény, a sajátos műszaki építmények védőtávolságára.
 
-5.4. A szállítóvezeték tartozékát képező fáklya telepítésénél a fentieken túl a fáklya hőhatás övezetére is figyelemmel kell lenni.
+5.4.[^11] A szállítóvezeték tartozékát képező fáklya telepítésénél a fáklya hőhatás övezetére is figyelemmel kell lenni.
 
 5.5. A szállítóvezetéki létesítményeken belüli építmények elhelyezési távolságának megállapításakor a tűzvédelmi előírások, a robbanásveszélyes zóna kiterjedése és a fáklya hőhatás övezetének a kiterjedése az irányadó.
 
@@ -230,7 +246,13 @@ A mérő- és regisztráló berendezéseknek folyamatosan, a villamosenergia-ell
 
 7.1. Szállítóvezetékbe szükség esetén be kell építeni olyan berendezéseket, amelyek a meg nem engedhető hőmérsékletek kialakulását megakadályozzák.
 
-7.2. Azokon a helyeken (gépekben, berendezésekben, csővezetékekben stb.), ahol ez indokolt, folyamatosan mérni és önműködően regisztrálni kell az üzemi hőmérsékleteket is.
+7.2.[^12] Folyamatosan mérni és önműködően regisztrálni kell az üzemi hőmérsékletet,
+
+a) ahol a károsodás veszélye fennáll, különösen kompresszornál és szivattyúnál,
+
+b) ahol a technológiai folyamatok szabályozásához szükséges, vagy
+
+c) ha a mért hőmérséklet az átadott gázmennyiség meghatározásához, elszámolásához szükséges.
 
 8. Korrózió elleni védelem
 
@@ -298,7 +320,7 @@ d) az illetéktelen beavatkozások, behatolások ténye.
 
 11.4. A szállítóvezeték létesítményeiben elhelyezendő tűzoltó készülékek számát jelen előírások szerint kell megállapítani.
 
-11.5. Szakaszoló állomásokon, illetve felügyelet nélküli, zárt technológiájú berendezéseknél, ahol csak meghibásodás következtében fordulhat elő robbanásveszély, tűzoltó készülékek készenlétben tartása csak karbantartás végzése során szükséges.
+11.5.[^13] Szakaszoló állomásokon, illetve felügyelet nélküli, zárt technológiájú berendezéseknél, ahol csak meghibásodás következtében fordulhat elő robbanásveszély, V. FEJEZET 2. pont 2.2. alpont d) pontja szerinti utasításban meghatározott mennyiségű tűzoltó készülék készenlétben tartása csak karbantartás végzése során szükséges.
 
 11.6. Gázátadó állomásokon és gázszállító-vezetéki csomópontokon, függetlenül azok kapacitásától és típusától, a következő töltetű és típusú tűzoltó készülékeket kell elhelyezni:
 
@@ -524,7 +546,7 @@ NYOMÁSPRÓBÁK
 
 1.4. Föld feletti szállítóvezeték szilárdsági nyomáspróbáját és tömörségi vizsgálatát minden esetben a hegesztési varratok festése, szigetelése előtt kell elvégezni.
 
-1.5. A nyomáspróbák alatt, a nyomásfokozás megkezdésétől a nyomásmentességig a csővezeték és a csővezetékbe beépített szerelvények, valamint a nyomáspróbához alkalmazott vezetékrendszer 20 m-es körzetében munkát végezni tilos és ott csak a nyomáspróbát végzők tartózkodhatnak. A nyomáspróba idejét és ezzel összefüggő tilalmakat kellő időben az érintettek tudomására kell hozni.
+1.5.[^14] A nyomáspróbák alatt, a nyomásfokozás megkezdésétől a nyomásmentességig a csővezeték és a csővezetékbe beépített szerelvények, valamint a nyomáspróbához alkalmazott vezetékrendszer 20 m-es körzetében munkát végezni tilos és ott csak a nyomáspróbát végzők tartózkodhatnak. A nyomáspróba idejét és ezzel összefüggő tilalmakat a nyomáspróba megkezdését megelőzően dokumentáltan a munkavégzésben érintettek tudomására kell hozni.
 
 1.6. A nyomáspróbát úgy kell végezni, hogy a nyomáspróba nyomás értékénél nagyobb nyomás ne keletkezhessen a vizsgált rendszerben. A védelem módját a technológiai utasításban, illetve nyomáspróbatervben rögzíteni kell.
 
@@ -534,9 +556,9 @@ NYOMÁSPRÓBÁK
 
 2.1. A szilárdsági nyomáspróbához semleges kémhatású (6 ≤ pH ≤ 8) szilárd szennyeződésektől mentes, tiszta vizet kell használni. Ha a nyomáspróba vizének hőmérséklete +4 °C alá csökkenhet, a várható legalacsonyabb vízhőmérséklet kialakulását figyelembe véve, fagyáspontcsökkentő adalékot lehet alkalmazni. Fagyáspontcsökkentőként csak olyan anyag alkalmazható, ami nem korrodálja a csővezeték vagy a tartozékok anyagát.
 
-2.2. Különleges esetekben (pl. csőhídon haladó gázvezetékeknél vagy olyan nagynyomású gázvezetékeknél, amelyeket nem lehet vízteleníteni) a bányafelügyelet engedélyével, a víz helyett levegőt vagy nitrogént is lehet használni. Az ilyen esetekre külön technológiai utasítást és nyomáspróbatervet kell készíteni.
+2.2.[^15] A szilárdsági nyomáspróba közegeként a gravitációsan vagy csőgörénnyel nem vízteleníthető szállító vezetéknél, vagy ahol a bent maradó víz meghibásodást okozhat, levegőt vagy nitrogént is lehet használni. Az alkalmazott műszaki megoldás műszaki biztonságának egyenértékűségét a tervezőnek igazolnia kell. Az ilyen esetekre külön technológiai utasítást és nyomáspróbatervet kell készíteni.
 
-2.3. Egyes esetekben (például bekötéseknél) a szilárdsági nyomáspróba közegeként a szállítani tervezett anyag is használható a megfelelő biztonsági intézkedések mellett. Az ilyen esetekre külön technológiai utasítást és nyomáspróbatervet kell készíteni.
+2.3.[^16] A bekötéseknél, leágazások készítésénél a szilárdsági nyomáspróba közegeként a szállítani tervezett anyag is használható a megfelelő biztonsági intézkedések mellett. Az ilyen esetekre külön technológiai utasítást és nyomáspróbatervet kell készíteni.
 
 2.4. A szilárdsági nyomáspróba értéke a nyomáspróbázott szállítóvezeték és a vonali szakaszoló állomások minden egyes pontján érje el legalább a tervezési nyomás (DP) 1,25-szörösét.
 
@@ -544,7 +566,7 @@ NYOMÁSPRÓBÁK
 
 2.6. A szilárdsági nyomáspróba szakaszok hosszát a vizsgált szállítóvezeték szintkülönbségeit (tengerszint feletti magasságkülönbségeit) és a nyomáspróba közegének sűrűségét figyelembe véve, a nyomáspróbatervben kell meghatározni.
 
-2.7. A szilárdsági nyomáspróba alatt a szállítóvezeték igénybevétele egyetlen ponton sem haladhatja meg a csőacél anyagának szabványa szerinti folyáshatárát.
+2.7.[^17] A szilárdsági nyomáspróba alatt a szállítóvezeték igénybevétele egyetlen ponton sem haladhatja meg a beépítésre kerülő csőszálak és idomok gyártási szabványában előírt minimális folyáshatárt.
 
 2.8. A szállítóvezeték és a vele együtt nyomáspróbázott vonali szakaszolóállomások nyomáspróbájának időtartama, az eredményes levegőmentességi vizsgálat befejezésétől számítva legalább 1 óra legyen.
 
@@ -566,19 +588,19 @@ NYOMÁSPRÓBÁK
 
 3.2. Tömörségi nyomáspróbát csak eredményes szilárdsági nyomáspróbát követően, üzemelésre kész állapotra szerelt szállítóvezetéken és tartozékain szabad végezni.
 
-3.3. A tömörségi nyomáspróba előtt a szállítóvezetékből a szilárdsági nyomáspróba közegét (vizet) a lehető legnagyobb mértékben el kell távolítani a csővezetékből, és a csővezeték belső terét megfelelően ki kell szárítani. A szárítás mértékét az üzemeltető határozza meg.
+3.3.[^18] A tömörségi nyomáspróba előtt a szállítóvezetékből a szilárdsági nyomáspróba közegét el kell távolítani, és a csővezeték belső terét ki kell szárítani. A szárítás mértékét és módját az üzemeltető a Műszaki Biztonsági Irányítási Rendszerében határozza meg.
 
-3.4. A tömörségi nyomáspróba közegeként általában levegőt kell használni. Különleges esetekben, a bányafelügyelet engedélyével, szagosított földgáz is használható tömörségi nyomáspróba közegeként.
+3.4.[^19] A tömörségi nyomáspróba közegeként levegőt kell használni.
 
 3.5. A tömörségi nyomáspróbához csak olyan levegő vagy szagosított földgáz használható, amelyek vízharmatpontja a tömörségi próba nyomásán nem nagyobb, mint az üzemszerűen szállítani tervezett gáz vízharmatpontja, maximális üzemnyomáson.
 
 3.6. Ha a tömörségi nyomáspróbát levegővel végezték, akkor a levegő eltávolítását és a gáz alá helyezést úgy kell végrehajtani, hogy a szállítóvezetékben robbanóképes gázelegy ne maradjon vissza.
 
-3.7. A tömörségi nyomáspróba nyomása a vizsgálat kezdetén ne legyen kisebb, mint a maximális üzemi nyomás (MOP). Egyes esetekben (pl. vezetékcserék alkalmával, átalakítások, javítások után, továbbépítések esetén) az üzemeltető írásbeli hozzájárulásával megengedett, hogy a tömörségi nyomáspróba nyomása akkora legyen, mint a tömörségi nyomáspróbázott vezetékben, a nyomáspróba időpontjában elérhető legmagasabb üzemi nyomás (OP).
+3.7.[^20] A tömörségi nyomáspróba nyomása a vizsgálat kezdetén nem lehet kisebb, mint a maximális üzemi nyomás (MOP). Rövid vezetékszakasz cserék esetében, üzemelő technológia átalakításakor vagy vezetékszakasz-cserével nem járó vezetékjavításokat követően az üzemeltető írásbeli hozzájárulásával megengedett, hogy a tömörségi nyomáspróba nyomása akkora legyen, mint a tömörségi nyomáspróbázott vezetékben a nyomáspróba időpontjában elérhető legmagasabb üzemi nyomás (OP).
 
-3.8. A tömörségi nyomáspróba időtartama általában 24 óra. Technológiai állomásokon a tömörségi nyomáspróba időtartama legalább 2 óra legyen.
+3.8.[^21] A szállítóvezetéken és annak tartozékán a tömörségi nyomáspróba időtartama 24 óra. A technológiai állomáson végzett tömörségi nyomáspróba időtartama 2 óra.
 
-3.9. A tömörségi nyomáspróba alatt minden vezetékcsatlakozást, szerelvényt, karimás kötést és minden bontható csatlakozást habképző anyaggal ellenőrizni kell. A nyomáspróbát a 3.8. alpont előírásaitól függetlenül ezen ellenőrzések teljes körű befejezéséig szükség esetén folytatni kell.
+3.9.[^22] A tömörségi nyomáspróba alatt minden vezetékcsatlakozást, szerelvényt, karimás kötést és minden bontható csatlakozást habképző anyaggal ellenőrizni kell. A nyomáspróbát a 3.8. alpont előírásaitól függetlenül ezen ellenőrzések teljes körű befejezéséig folytatni kell.
 
 4. A nyomáspróbák dokumentálása, bizonylatok
 
@@ -630,17 +652,17 @@ f) a felügyeleti személyek a lényeges üzemi folyamatokról naplót vezetnek,
 
 g) a felügyeleti személy a csővezeték biztonságát érintő bejelentésekről és a megtett intézkedésekről írásos naplót vezet.
 
-2.2. Az üzemeltető minden létesítményéhez írásos utasítás formájában köteles elkészíteni legalább az alábbiakat:
+2.2.[^23] A létesítményhez az üzemeltető írásban elkészíti
 
-a) üzemeltetési utasítás,
+a) az üzemeltetési utasítást,
 
-b) a létesítmény karbantartásához szükséges üzemfenntartási utasításokat,
+b) a létesítmény karbantartásához szükséges üzemfenntartási utasítást,
 
-c) az üzemzavar és havária (vészhelyzet) elhárítási utasításokat, beleértve a készenléti szolgálat működésének utasítását is,
+c) az üzemzavar és haváriaelhárítási utasítást, ideértve a készenléti szolgálat működésének utasítását is,
 
-d) biztonságtechnikai, tűz- és környezetvédelmi utasításokat,
+d) a biztonságtechnikai, tűz- és környezetvédelmi utasítást,
 
-e) robbanásvédelmi dokumentációt, valamint
+e) a robbanásvédelmi dokumentációt, valamint
 
 f) a munkavégzési engedély kiadásának feltételeit.
 
@@ -666,7 +688,7 @@ f) a munkavégzési engedély kiadásának feltételeit.
 
 5.2. A tisztító szerszámmal tisztítható vezetékeket az üzemeltető által meghatározott gyakorisággal tisztítani kell.
 
-5.3. A földgázt vagy más gáznemű anyagot szállító vezetéket, ahol veszélyes mértékű hidrátképződéssel kell számolni, az üzembe helyezés előtt, a vízzel végzett nyomáspróba után, megfelelő eljárással (pl. száraz levegővel, metanol átmosással; száraz, semleges gázzal való átfúvatással; vákuummal) ki kell szárítani. A szárítási fokot a várható üzemi körülmények (pl. a szállítandó gáz üzemi tulajdonságai, hőmérséklete, üzemi nyomása) alapján az üzemeltető határozza meg.
+5.3.[^24] A földgázt vagy más gáznemű anyagot szállító vezetéket, ahol veszélyes mértékű hidrátképződéssel kell számolni, az üzembe helyezés előtt, a vízzel végzett nyomáspróba után ki kell szárítani. A szárítási fokot a várható üzemi körülmények alapján az üzemeltető határozza meg.
 
 6. A szállítóvezeték üzem közbeni ellenőrzése, felülvizsgálatok
 
@@ -676,11 +698,9 @@ f) a munkavégzési engedély kiadásának feltételeit.
 
 6.3. Az üzemeltetőnek belső utasításban kell rögzítenie a felülvizsgálat tartalmára, formájára, gyakoriságára vonatkozó előírásokat.
 
-6.4. Az időszakos felülvizsgálatra vonatkozó utasításnak tartalmaznia kell mindazon módszerek alkalmazását, konkrét vizsgálatokat, adatgyűjtő rendszereket és az adatok értékelési szempontjait, amelyek alapján az üzemeltető az üzemeltetett rendszer műszaki állapotát felelősséggel tudja minősíteni. A minősítés eredményét dokumentálni kell.
+6.4.[^25] Az időszakos felülvizsgálatra vonatkozó utasítás tartalmazza azokat a módszereket, vizsgálatokat és azok ütemezését, továbbá az értékelési szempontokat, amelyek alapján az üzemeltető az üzemeltetett rendszer műszaki állapotát és annak üzemeltetésre való alkalmasságát felelősséggel értékelheti. Az üzemeletető az értékelés eredményét, valamint a biztonságos üzemeltetés biztosításához elvégzendő beavatkozásokat dokumentálja.
 
-6.5. Amennyiben az időszakos felülvizsgálat során az üzemeltető megállapítja, hogy a létesítmény az engedélyezési paraméterekhez képest biztonságosan csak korlátozott paraméterekkel üzemeltethető, haladéktalanul köteles intézkedni a korlátozás érvényesítésére vagy az engedélyezett állapot helyreállítására.
-
-Ha a korlátozás nem ideiglenes jellegű – tehát az üzemeltető nem kívánja helyreállítani az eredeti műszaki állapotot, illetve arra intézkedést nem tesz –, akkor az üzemeltetőnek az engedélyező hatóságtól kérnie kell a szállítóvezeték használati feltételeinek és engedélyeinek módosítását.
+6.5.[^26] Ha az üzemeltető az időszakos felülvizsgálat során megállapítja, hogy a létesítmény az engedélyezési paraméterekhez képest biztonságosan csak korlátozott paraméterekkel üzemeltethető, haladéktalanul intézkedik a korlátozás érvényesítése vagy az engedélyezett állapot helyreállítása iránt. Ha az üzemeltető nem állítja helyre az eredeti műszaki állapotot, akkor – a korlátozott paraméterekkel történő üzemeltetés fenntartása mellett – a szállítóvezeték használatbavételi engedélyének módosítását kérelmezi.
 
 6.6. Túlnyomás ellen védő szerelvények, berendezések esetében biztosítani kell a beállított határértékeket illetéktelen beavatkozás vagy véletlen elállítás ellen.
 
@@ -694,7 +714,13 @@ Ha a korlátozás nem ideiglenes jellegű – tehát az üzemeltető nem kíván
 
 7.2. A szállítóvezeték ismételt üzembe helyezése előtt felül kell vizsgálni a létesítményt, hogy az alkalmas-e a meghatározott paraméterek szerinti üzemeltetésre.
 
-7.3. Elbontani csak üzemen kívül helyezett vezetéket szabad. Szállítóvezeték és alkotórészeinek felhagyására, bontására műszaki tervet kell készíteni, és engedélyeztetni kell.
+7.3.[^27] Elbontani csak üzemen kívül helyezett vezetéket lehet. Ha a szállítóvezetéket nem bontják el, akkor a felhagyást az alábbiak szerint kell dokumentáltan elvégezni:
+
+a) az üzemelő és a felhagyott szállítóvezeték kapcsolatát legalább 1 méter hosszban meg kell szakítani,
+
+b) a felhagyott szállítóvezetéket gázmentesíteni kell, és levegővel vagy inert gázzal át kell öblíteni, és végeit gáztömören le kell zárni, továbbá
+
+c) a felszíni tartozékokat és jelzéseket meg kell szüntetni.
 
 8. Karbantartás
 
@@ -706,7 +732,7 @@ Ha a korlátozás nem ideiglenes jellegű – tehát az üzemeltető nem kíván
 
 8.4. Kivitelezés, munkavégzés, üzemelő (nyomás alatt lévő) szállítóvezetékek és alkotórészeinek biztonsági övezetében
 
-8.4.1. A biztonsági övezetben idegen létesítmény építéséhez, átalakításához vagy korlátozás alá eső tevékenység végzéséhez be kell szerezni az üzemeltető előzetes egyetértését is. Az üzemeltető feltételekhez kötheti az egyetértését.
+8.4.1.[^28]
 
 8.4.2. Az üzemeltető megbízottja köteles tájékoztatást adni a kivitelező helyszíni munkairányítója részére a munkaterületen előforduló speciális veszélyforrásokról.
 
@@ -729,3 +755,29 @@ Ha a korlátozás nem ideiglenes jellegű – tehát az üzemeltető nem kíván
 9.1. Az üzemzavar jelentésével, kivizsgálásával és dokumentálásával kapcsolatos szabályokat a szállítóvezetéket üzemeltető szervezet belső utasításában köteles rögzíteni.
 
 9.2. A szállítóvezeték súlyos üzemzavar elhárításának részletkérdéseit az üzemeltető szervezet belső utasításban köteles szabályozni, rögzítve az elhárítással kapcsolatos személyi és tárgyi feltételeket. Az elhárítás helyszíni irányítását csak megfelelő szakirányú műszaki felsőfokú képzettségű és 5 év szállítóvezetéki üzemeltetési gyakorlati idővel rendelkező műszaki vezető végezheti.
+
+[^4]: Az 1. melléklet I. FEJEZET 6. pont 6.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet I. FEJEZET 6. pont 6.2. alpontja az 1/2024. (II. 27.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet I. FEJEZET 6. pont 6.6. alpontja az 1/2024. (II. 27.) SZTFH rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet II. FEJEZET 1. pont 1.1. alpont 1.1.3. pontja az 1/2024. (II. 27.) SZTFH rendelet 8. § c) pontja szerint módosított szöveg.
+[^8]: Az 1. melléklet II. FEJEZET 1. pont 1.1. alpont 1.1.6. pontját az 1/2024. (II. 27.) SZTFH rendelet 7. §-a iktatta be.
+[^9]: Az 1. melléklet II. FEJEZET 1. pont 1.3. alpont 1.3.3. pontja az 1/2024. (II. 27.) SZTFH rendelet 8. § d) pontja szerint módosított szöveg.
+[^10]: Az 1. melléklet II. FEJEZET 1. pont 1.3. alpont 1.3.13. pontját az 1/2024. (II. 27.) SZTFH rendelet 7. §-a iktatta be.
+[^11]: Az 1. melléklet II. FEJEZET 5. pont 5.4. alpontja az 1/2024. (II. 27.) SZTFH rendelet 9. § b) pontja szerint módosított szöveg.
+[^12]: Az 1. melléklet II. FEJEZET 7. pont 7.2. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet II. FEJEZET 11. pont 11.5. alpontja az 1/2024. (II. 27.) SZTFH rendelet 8. § e) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet IV. FEJEZET 1. pont 1.5. alpontja az 1/2024. (II. 27.) SZTFH rendelet 8. § f) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet IV. FEJEZET 2. pont 2.2. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^16]: Az 1. melléklet IV. FEJEZET 2. pont 2.3. alpontja az 1/2024. (II. 27.) SZTFH rendelet 8. § g) pontja szerint módosított szöveg.
+[^17]: Az 1. melléklet IV. FEJEZET 2. pont 2.7. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet IV. FEJEZET 3. pont 3.3. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet IV. FEJEZET 3. pont 3.4. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet IV. FEJEZET 3. pont 3.7. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet IV. FEJEZET 3. pont 3.8. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet IV. FEJEZET 3. pont 3.9. alpontja az 1/2024. (II. 27.) SZTFH rendelet 9. § c) pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet V. FEJEZET 2. pont 2.2. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet V. FEJEZET 5. pont 5.3. alpontja az 1/2024. (II. 27.) SZTFH rendelet 9. § d) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet V. FEJEZET 6. pont 6.4. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^26]: Az 1. melléklet V. FEJEZET 6. pont 6.5. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet V. FEJEZET 7. pont 7.3. alpontja az 1/2024. (II. 27.) SZTFH rendelet 7. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet V. FEJEZET 8. pont 8.4. alpont 8.4.1. pontját az 1/2024. (II. 27.) SZTFH rendelet 9. § e) pontja hatályon kívül helyezte.

@@ -10,8 +10,11 @@ b) Szakági Műszaki Követelmények (a továbbiakban: SZMK) formájában a Szab
 
 (3) A Műszaki Bizottság 10 tagból áll, akiknek tagsági jogviszonya a bányafelügyelet elnöke általi megbízással jön létre. A megbízás időtartama öt év.
 
-(4) A bányafelügyelet elnökének felkérésére a Műszaki Bizottság tagjaira az energiapolitikáért felelős miniszter, a szakági, szakmai köztestületek (Magyar Mérnöki Kamara Gáz és Olajipari Tagozat, Országos Magyar Bányászati és Kohászati Egyesület Kőolaj, Földgáz és Víz Szakosztály), a Magyar Bányászati Szövetség, valamint a szakági tudományos és felsőoktatási intézmények tesznek javaslatot. A Műszaki Bizottság további egy tagja a bányafelügyelettel közszolgálati jogviszonyban álló személy.
+(4)[^1] A bányafelügyelet elnökének felkérésére a Műszaki Bizottság egy tagjára az energiapolitikáért felelős miniszter, két-két tagjára a Magyar Mérnöki Kamara Gáz- és Olajipari Tagozata, az Országos Magyar Bányászati és Kohászati Egyesület Kőolaj-, Földgáz- és Vízbányászati szakosztálya és a Magyar Bányászati Szövetség, egy-egy tagjára a Miskolci Egyetem és a Budapesti Műszaki és Gazdaságtudományi Egyetem tesz javaslatot. A Műszaki Bizottság további egy tagja a bányafelügyelettel közszolgálati jogviszonyban álló személy.
 
-(5) A Műszaki Bizottság megalkotja a működési szabályzatát, és tagjai közül 5 év időtartamra megválasztja a Műszaki Bizottság elnökét. A Műszaki Bizottság titkársági feladatainak ellátásáról, valamint a működés egyéb feltételeinek biztosításáról a bányafelügyelet gondoskodik.
+(5)[^2] A Műszaki Bizottság tagjai közül 5 év időtartamra megválasztja a Műszaki Bizottság elnökét. A Műszaki Bizottság titkársági feladatainak ellátásáról, valamint a működés egyéb feltételeinek biztosításáról a bányafelügyelet gondoskodik.
 
 (6) A Műszaki Bizottság által elfogadott SZMK a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a bányafelügyelet honlapján közzétételre kerül. Az SZMK-ban foglalt műszaki megoldást úgy kell tekintetni, hogy az megfelel az adott kor technikai színvonalának, és kielégíti a Szabályzatban az általános biztonsági szinttel kapcsolatban meghatározott követelményeket.
+
+[^1]: A 3. § (4) bekezdése az 1/2024. (II. 27.) SZTFH rendelet 5. §-ával megállapított szöveg.
+[^2]: A 3. § (5) bekezdése az 1/2024. (II. 27.) SZTFH rendelet 9. § a) pontja szerint módosított szöveg.
