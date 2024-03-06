@@ -2,7 +2,7 @@
 
 1. melléklet a 18/2022. (I. 28.) SZTFH rendelethez
 
-## A Gázelosztó Vezetékek Biztonsági Szabályzata
+A Gázelosztó Vezetékek Biztonsági Szabályzata
 
 I. FEJEZET
 
@@ -74,13 +74,13 @@ b) nyomásszabályozó állomások, illetve szabadon szerelt vezetékek esetén:
 
 | 2 | legnagyobb üzemi nyomás |
 
-| 3 | SDR 17,6* | 4 bar | 6 bar |
+| 3 | SDR 17*[^4] | 4 bar | 6 bar |
 
 | 4 | SDR 11* | 8 bar | 10 bar |
 
 | * Megjegyzés: a falvastagság nem lehet kisebb 3 mm-nél. |
 
-2.11. Az SDR 17,6 méretarányú cső 90 mm és ennél kisebb külső átmérő esetén nem alkalmazható.
+2.11.[^5] Az SDR 17 méretarányú cső 90 mm és ennél kisebb külső átmérő esetén nem alkalmazható.
 
 II. FEJEZET
 
@@ -126,17 +126,17 @@ a) építmény és létesítmény alatt, kivéve az út alatti elhelyezést vagy
 
 b) közúti vagy vasúti közlekedés céljára szolgáló alagútban,
 
-c) lápos, ingoványos területen,
+c)[^6] lápos, ingoványos területen, és,
 
-d) árterületen,
+d)[^7]
 
-e) rétegmozgásos területen és
+e)[^8]
 
 f) repülőtér védett és építési tilalom alatt álló területén.
 
 1.5. Polietilén anyagú gázelosztó vezeték az 1.4. pontban leírtakon túl nem helyezhető el
 
-a) a leágazások acél védőcsöves felszíni kivitelezései esetében, kivéve légvezetékként,
+a)[^9] légvezetékként, kivéve a leágazások acél védőcsöves felszíni kivitelezéseit,
 
 b) közúti és vasúti hídon,
 
@@ -146,27 +146,21 @@ d) 30 °C-nál magasabb hőmérsékletű talajban és
 
 e) közműalagútban.
 
-2. A nyomvonal megjelölése
+1.6.[^10] Felszínmozgás-veszélyes területen gázelosztó vezeték többletbiztonsági intézkedés megtétele esetén helyezhető el. Többletbiztonsági intézkedésnek minősül különösen kompenzátor, gázstop beépítése, figyelőakna kialakítása.
 
-2.1. Külterületen
+2.[^11] A nyomvonal megjelölése
 
-2.1.1. A föld alatt elhelyezett gázelosztó vezeték nyomvonalát a talajszintből kiemelkedő jelzőoszloppal vagy táblával meg kell jelölni, ha a földgázelosztó nem rendelkezik a nyomvonal azonosítására alkalmas egyéb, a műszaki-biztonsági irányítási rendszerben (a továbbiakban: MBIR) jóváhagyott módszerrel.
+2.1. A gázelosztó vezeték felett – a feltárás nélkül épülő vezeték kivételével – a csővezeték felső alkotójától 50 centiméterre gázveszélyre figyelmeztető sárga színű műanyag jelzőszalagot kell elhelyezni. Belterületen szilárd útburkolat esetén közvetlenül az útburkolat alatt kell a jelzőszalagot elhelyezni.
 
-2.1.2. A gázelosztó vezeték felett – kivéve a feltárás nélkül épülő vezetéket – a cső felső alkotójától 50 cm-re gázveszélyre figyelmeztető sárga színű műanyag jelzőszalagot kell elhelyezni.
+2.2. A térszint feletti gázelosztó vezeték korrózióvédelme során utolsó bevonatként sárga színű réteget kell felvinni, vagy a vezetéket a benne lévő gázra utaló jelöléssel kell ellátni.
 
-2.1.3. A térszint feletti gázelosztó vezeték korrózióvédelme során utolsó bevonatként sárga színű réteget kell felvinni, vagy a vezetéket a benne levő gázra utaló jelöléssel kell ellátni.
+2.3. Belterületen a gázelosztó vezeték nyomvonalát nem kell megjelölni.
 
-2.2. Belterületen
+2.4. Külterületen a föld alatt elhelyezett gázelosztó vezeték nyomvonalát a talajszintből kiemelkedő jelzőoszloppal vagy táblával vagy a földgázelosztó műszaki-biztonsági irányítási rendszerében (a továbbiakban: MBIR) meghatározott módon kell megjelölni.
 
-2.2.1. Belterületen a nyomvonalat nem kell megjelölni.
+3.[^12] A tartozékok jelölése
 
-2.2.2. A gázelosztó vezeték felett közvetlenül a szilárd útburkolat alatt – kivéve a feltárás nélkül épülő vezetéket –, nem szilárd útburkolat esetén a csővezeték felső alkotójától 50 cm-re gázveszélyre figyelmeztető sárga színű műanyag jelzőszalagot kell elhelyezni.
-
-2.2.3. A térszint feletti gázelosztó vezeték korrózióvédelme során utolsó bevonatként sárga színű réteget kell felvinni, vagy a vezetéket a benne levő gázra utaló jelöléssel kell ellátni.
-
-3. A tartozékok jelölése
-
-3. A gázelosztó vezetékbe épített, térszint alatt elhelyezett szakaszoló elzáró szerelvények felszíni kivezetései belterületen jelzőtáblával, külterületen jelzőoszloppal jelölhetők meg. A jelzőtáblán vagy jelzőoszlopon a műtárgy jelképét és a jelzőtáblától vagy jelzőoszloptól mért távolságát is fel kell tüntetni.
+3.1. A gázelosztó vezetékbe épített, térszint alatt elhelyezett, a vezeték szakaszokra bontását biztosító elzáró szerelvények felszíni kivezetését belterületen jelzőtáblával, külterületen jelzőoszloppal kell megjelölni. A jelzőtáblán vagy jelzőoszlopon a műtárgy jelképét és a jelzőtáblától vagy jelzőoszloptól mért távolságát is fel kell tüntetni.
 
 4. A gázelosztó vezeték elhelyezése
 
@@ -202,13 +196,13 @@ IV. FEJEZET
 
 1.1.2. Az 1.1.1. pont szerinti táblázat zárójelben lévő védőtávolságai alkalmazhatók, ha:
 
-a) az épületet megközelítő vezetéknek a zárójel nélküli védőtávolságon belül az e fejezet 4.1–4.3. pontja szerinti védelme biztosított,
+a)[^13] az épületet megközelítő vezetéknek a zárójel nélküli védőtávolságon belül az e fejezet 4.1. pontja szerinti védelme biztosított,
 
-b) a vasutat vagy a villamosvágányt megközelítő vezetéknek a zárójel nélküli védőtávolságon belül az e fejezet 4.5. pontja szerinti mechanikai védelme biztosított, továbbá
+b)[^14] a vasutat vagy a villamosvágányt megközelítő vezetéknek a zárójel nélküli védőtávolságon belül az e fejezet 4.3. pontja szerinti mechanikai védelme biztosított, továbbá
 
 c) a villamos vontatású vasutat vagy a villamosvágányt megközelítő vezetéknek aktív korrózióvédelmi berendezései vannak, amennyiben azok acél anyagúak.
 
-1.1.3. Ha a gázelosztó vezetékkel érintett területen nincs épület, akkor a védőtávolságot nyomásfokozattól függően legalább az 1.1.1. pont szerinti táblázat épülettől előírt (B oszlop) zárójelben lévő védőtávolságaiként kell meghatározni.
+1.1.3.[^15]
 
 1.1.4. A védőtávolságot a gázelosztó vezeték mindkét oldalán, annak szélső alkotóinak felszíni vetületétől merőleges irányban, a talajszinten kell mérni. Az e Szabályzat előírásai szerint elhelyezett párhuzamos elosztóvezetékek védőtávolságai átfedhetik egymást.
 
@@ -288,27 +282,29 @@ b) DN > 400 0,6 m.
 
 2.3. A védőzónát a tűz- és robbanásveszélyre utaló tiltó és figyelmeztető táblákkal jelölni kell.
 
-3. Biztonsági övezet
+3.[^16] Biztonsági övezet
 
-3.1. A biztonsági övezet mértéke a gázelosztó vezetéknél az e fejezet 1.2. pontja szerinti épülettől előírt védőtávolság, felszíni berendezéseknél az e fejezet 2.1. pontja szerinti védőzónával megegyező.
+3.1. A gázelosztó vezeték biztonsági övezete a vezeték mindkét oldalán – a 3.2. alpont kivételével – a tengelyétől mért 2 méteres távolság. Ha ez műszakilag indokolt, a bányafelügyelet a biztonsági övezetet nagyobb mértékben is megállapíthatja, de az a 8 méteres távolságot nem haladhatja meg.
 
-3.2. Nyomásszabályozó állomások biztonsági övezetét a IX. fejezet 3.4. pontjában épülettől előírt értékek figyelembevételével kell meghatározni.
+3.2. Védendő létesítmény esetén a biztonsági övezet nem lehet nagyobb, mint az 1. pont 1.1. alpont 1.1.1–1.1.4. pontja szerinti védőtávolság.
 
-4. Védelmek
+3.3. A fáklya biztonsági övezete megegyezik a hőhatás övezetének nagyságával.
 
-4. Amennyiben az e fejezet 1.2. és 1.3. pontjaiban előírt védőtávolságok nem tarthatók, vagy a gázelosztó vezeték állagának megóvása indokolja, védelmet kell kialakítani az alábbiak szerint:
+3.4. Nyomásszabályozó állomások és szabadban elhelyezett felszíni berendezések esetében a biztonsági övezet meghatározásához, ha gázkiáramlással kell számolni – különösen oldható kötések, túlnyomás-határoló szerelvények esetén –, a robbanásveszélyes zónák besorolását el kell végezni.
 
-4.1. Ha a keresztezett vagy megközelített létesítmény jellege indokolja, annak védelmét a gázelosztó vezetékből esetlegesen kiáramló földgáztól úgy kell kialakítani, hogy az meggátolja a kiáramló földgáznak a védendő létesítménybe jutását. Ilyen védelem lehet a gázelosztó vezetéken elhelyezett védőcső, amelynek tervezett élettartama megegyezik a gázelosztó vezeték tervezett élettartamával, és amely megakadályozza, hogy a gázelosztó vezetékből esetlegesen kikerülő gáz a védendő létesítménybe kerüljön, ennek érdekében végeit időtálló módon le kell zárni, légterét a szabadba ki kell szellőztetni. A védőcső végének a keresztezett, megközelített létesítmény szélső vonalán 1,0 m-re túl kell nyúlnia, légterének ellenőrizhetőnek kell lennie.
+3.5. A biztonsági lefúvató kivezetés körül kialakuló, a robbanásveszélyes zónabesorolásban meghatározott alakú és kiterjedésű zónába épület vagy gyújtóforrás nem eshet.
 
-4.2. Amennyiben a gázelosztó vezeték és a védőcső gyártásuk során a tervezett élettartam végéig szétválaszthatatlan módon összeépítésre kerülnek, akkor nem szükséges az e fejezet 4.1. pontja szerinti kiszellőztetés.
+3.6. Felszínen és szabadban elhelyezett, valamint földbe süllyesztett és aknás kivitelű nyomásszabályozó állomások esetében a biztonsági övezet az állomás határolófalától, földbe süllyesztett és aknás állomás esetén annak peremétől mért 2 méteres távolság. Ha ez műszakilag indokolt, a bányafelügyelet a biztonsági övezetet nagyobb mértékben is megállapíthatja, de az nem haladhatja meg a IX. fejezet 3. pont 3.4. alpontjában meghatározott védőtávolságot.
 
-4.3. A védőcső olyan műszaki megoldással helyettesíthető, amely az esetlegesen kiáramló földgázt a szabadba juttatja.
+4.[^17] Védelmek
 
-4.4. Amennyiben üreges állandó túlnyomás nélküli közmű utólag felülről keresztezi a gázelosztó vezetéket, az e fejezet 4.1–4.3. pontja szerinti védelmet az utólagosan épített közművön kell kialakítani. Nem tekintendő üreges állandó túlnyomás nélküli közműnek az a védőműtárgyban elhelyezett közmű, amelynek a védőműtárgya meggátolja, hogy az abba esetlegesen kerülő gáz a közműre vagy a környezetre veszélyt jelentsen.
+4.1. Ha a keresztezett vagy megközelített létesítmény jellege indokolja, annak védelmét a gázelosztó vezetékből kiáramló földgáztól védőcső alkalmazásával kell biztosítani. A védőcső végeit időtálló módon le kell zárni, légterét a szabadba ki kell szellőztetni. A védőcső végének a keresztezett, megközelített létesítmény szélső vonalán 1,0 m-re túl kell nyúlnia, légterének ellenőrizhetőnek kell lenni. Ha a gázelosztó vezeték és a védőcső közötti tér zárása hegesztéssel szétválaszthatatlan módon történik, akkor nem szükséges a kiszellőztetés.
 
-4.5. Ha a gázelosztó vezetéket kell védeni a külső környezeti behatásoktól, mechanikai védelmet kell kialakítani, amely a gázelosztó vezetéket a károsító hatásoktól megvédi. Mechanikai védelem céljára védőcső is alkalmazható, ilyenkor a kiszellőztetésről nem kell gondoskodni.
+4.2. Ha üreges állandó túlnyomás nélküli közmű utólag felülről keresztezi a gázelosztó vezetéket, a 4.1. pont szerinti védelmet az utólagosan épített közművön kell kialakítani. Nem tekintendő üreges állandó túlnyomás nélküli közműnek az a védőműtárgyban elhelyezett közmű, amelynek a védőműtárgya meggátolja, hogy az abba kerülő földgáz a közműre vagy a környezetre veszélyt jelentsen.
 
-4.6. Ha a gázelosztó vezetéket védőcső védi, az anyagában, jelölésében megkülönböztethetőnek kell lennie a gázelosztó vezetéktől, és a csőközpontosításnak biztosítottnak kell lennie.
+4.3. A gázelosztó vezeték védelmét külső környezeti behatástól mechanikai védelemmel kell biztosítani. Védőcső alkalmazása esetén a kiszellőztetésről nem kell gondoskodni.
+
+4.4. A védőcsőnek anyagában, jelölésében megkülönböztethetőnek kell lennie a gázelosztó vezetéktől, és a csőközpontosításnak biztosítottnak kell lenni.
 
 V. FEJEZET
 
@@ -318,7 +314,7 @@ V. FEJEZET
 
 1.1. A gázelosztó vezetékbe a vezeték szakaszokra bontását biztosító elzáró szerelvényeket kell beépíteni. Az elzáró szerelvények helyét és egymástól való távolságát a helyi viszonyok és az ellátás igényeinek figyelembevételével a földgázelosztónak – a kisnyomású elosztóvezeték kivételével – úgy kell meghatározni, hogy hurkolt hálózat esetén a terület maximum 6 darab elzáró szerelvény működtetésével legyen kiszakaszolható.
 
-1.2. A gázelosztó vezetékbe az ellátandó ingatlan telekhatárán vagy annak közelében elzáró szerelvényt kell beépíteni.
+1.2.[^18]
 
 2. Túlnyomás elleni védelem
 
@@ -466,7 +462,7 @@ h) a védőcsőbe kerülő varraton,
 
 i) a fokozott igénybevételnek kitett hegesztési varraton és
 
-j) a bányafelügyelet vagy a földgázelosztó által kijelölt varraton.
+j)[^19] a földgázelosztó által kijelölt varraton.
 
 1.2.3. Az 1.2.2. pontban felsoroltakon túl a tompahegesztéssel készült varratok radiográfiai vizsgálatát hegesztőnként a hegesztési varratok legalább 10%-án kell elvégezni, de legalább 1 varratot ellenőrizni kell. A vizsgálandó varratokat a földgázelosztó jelöli ki.
 
@@ -506,9 +502,9 @@ ab) a szakaszokban épített vezetékek összekötő varratait, amennyiben kül�
 
 ac) a szilárdsági nyomáspróbával nem ellenőrzött varratokat,
 
-ad) az SDR 17,6 méretarányú, e ≤ 10 mm falvastagságú és tompahegesztéssel épülő PE vezetékek varratait,
+ad)[^20] az SDR 17 méretarányú, e ≤ 10 mm falvastagságú és tompahegesztéssel épülő PE vezetékek varratait,
 
-ae) a bányafelügyelet, a földgázelosztó vagy az építtető által kijelölt varratokat,
+ae)[^21] a földgázelosztó vagy az építtető által kijelölt varratokat,
 
 b) az a) pontban fel nem sorolt varratok esetén, megfelelő állapotú és érvényes felülvizsgálattal rendelkező hegesztőgéppel rendszeresen végzett hegesztés esetén elegendő létesítményenként egy, a földgázelosztó által véletlenszerűen kiválasztott varrat roncsolásmentes vizsgálata.
 
@@ -516,7 +512,7 @@ b) az a) pontban fel nem sorolt varratok esetén, megfelelő állapotú és érv
 
 1.3.5. A hibás varratokat ki kell vágni, és amennyiben az adott hegesztőgéppel készült varratok legalább 10%-a hibásnak bizonyult, akkor a hegesztőgéppel a további munkavégzést meg kell tiltani, és a gépet felülvizsgálatra kell küldeni.
 
-1.3.6. A gázelosztó vezeték tokos vagy nyereghegesztéssel készült varratait szemrevételezéssel 100%-ban, továbbá létesítményenként roncsolásmentes vizsgálattal 1 db, a bányafelügyelet, a földgázelosztó vagy az építtető által kiválasztott varratot kell ellenőrizni. Az utólagosan épült leágazó elosztó vezetékek tokos vagy nyereghegesztéssel készült varratait szemrevételezéssel 100%-ban, roncsolásmentes vizsgálatát csak indokolt, a földgázelosztó által meghatározott esetekben kell elvégezni.
+1.3.6.[^22] A gázelosztó vezeték tokos vagy nyereghegesztéssel készült varratait szemrevételezéssel 100%-ban, továbbá létesítményenként roncsolásmentes vizsgálattal 1 db, a földgázelosztó vagy az építtető által kiválasztott varratot kell ellenőrizni. Az utólagosan épült leágazó elosztó vezetékek tokos vagy nyereghegesztéssel készült varratait szemrevételezéssel 100%-ban, roncsolásmentes vizsgálatát csak indokolt, a földgázelosztó által meghatározott esetekben kell elvégezni.
 
 1.3.7. Ha a szemrevételezéssel vizsgált varratok közül valamelyik hibásnak bizonyult, a hibás kötés javítását, esetleges kivágását és újrahegesztését követően a varratokat ismételten szemrevételezéssel kell ellenőrizni.
 
@@ -600,7 +596,7 @@ e) az üzembe helyezést megelőző minősítő műveleteket és
 
 f) a gáz alá helyezést követő ellenőrzéseket.
 
-4.2. Feltárás nélkül csak az a kivitelező építhet gázelosztó vezetéket, amely a megfelelő terméktechnológiai alkalmazására vonatkozó jogosultságát igazolni tudja.
+4.2.[^23]
 
 5. Korrózióvédelem
 
@@ -656,7 +652,7 @@ VII. FEJEZET
 
 1. Műszaki felülvizsgálat
 
-1.1. Az elkészült vezetékszakaszon – lehetőség szerint a nyomáspróbával együtt – nyíltárkos műszaki felülvizsgálatot kell tartani. A műszaki felülvizsgálatra az építtetőnek hat munkanappal előtte meg kell hívnia a kivitelezőt, az érintett közművek üzemeltetőit, a földgázelosztó üzemeltetési képviselőjét és a bányafelügyeletet, szakhatóságokat, amennyiben ezt a kötelezettségét az építési engedély tartalmazza.
+1.1.[^24] Az elkészült vezetékszakaszon – lehetőség szerint a nyomáspróbával együtt – nyíltárkos műszaki felülvizsgálatot kell tartani. A műszaki felülvizsgálatra az építtetőnek hat munkanappal előtte meg kell hívnia a kivitelezőt, az érintett közművek üzemeltetőit és a földgázelosztó üzemeltetési képviselőjét.
 
 1.2. A műszaki felülvizsgálatról jegyzőkönyvet kell készíteni. A jegyzőkönyvhöz csatolni kell azoknak a meghívottaknak a nyilatkozatait, akik a felülvizsgálaton nem jelentek meg, de az észrevételüket írásban közölték.
 
@@ -794,11 +790,7 @@ Tpt: a nyomáspróba időtartama órában.
 
 2.4.4. A nyomáspróba minősítését a földgázelosztó üzemeltetési képviselője végzi el.
 
-3. Végellenőrzés
-
-3.1. A gáz alá helyezés megkezdése előtt a megépített gázelosztó vezetéken végellenőrzést kell tartani, amelynek alapján a gázelosztó vezeték műszaki-biztonsági szempontból üzemelésre alkalmas minősítése a kijelölt földgázelosztó gázüzemi vezetőjének feladata. A végellenőrzést a földgázelosztó MBIR-jében meghatározott módon kell lefolytatni.
-
-3.2. A végellenőrzés akkor minősül sikeresnek, ha a műszaki felülvizsgálat és a nyomáspróba során előírt intézkedéseket teljesítették, és a megvalósulási dokumentációban a megépült gázelosztó vezeték műszaki-biztonsági megfelelőségét bizonyító dokumentumok hiánytalanul rendelkezésre állnak.
+3.[^25]
 
 4. Megvalósulási dokumentáció
 
@@ -856,11 +848,11 @@ Tpt: a nyomáspróba időtartama órában.
 
 4.2.25. a felelős műszaki vezető jogosultságát igazoló okmányának másolata,
 
-4.2.26. az építési munkahelyeken és az építési folyamatok során megvalósítandó minimális munkavédelmi követelményekről szóló jogszabály szerinti munkavédelmi koordinátor nyilatkozata,
+4.2.26.[^26]
 
 4.2.27. a geodéziai bemérés nyomvonal adatszolgáltatási minősítéssel (D-terv),
 
-4.2.28. használatbavételi (végellenőrzési) jegyzőkönyv,
+4.2.28.[^27] használatbavételi jegyzőkönyv,
 
 4.2.29. használatbavételi engedély kérelem,
 
@@ -872,9 +864,9 @@ Tpt: a nyomáspróba időtartama órában.
 
 4.3. A geodéziai bemérést, nyomvonal kitűzést a földgázelosztó MBIR-e szerint megfelelőnek minősített, földmérési tevékenység végzésére jogosult szervezettel vagy szakemberrel végezteti.
 
-4.4. A megvalósulási tervnek és a geodéziai bemérés adatainak a nyilvántartási rendszerbe beilleszthetőnek kell lenniük.
+4.4.[^28]
 
-4.5. A földgázelosztónak a gázelosztó vezeték adatait a szakági nyilvántartási helyszínrajzon az üzembe helyezéstől számított 30 napon belül fel kell tüntetnie.
+4.5.[^29] A földgázelosztónak a gázelosztó vezeték adatait a szakági nyilvántartásban az üzembe helyezéstől számított 30 napon belül fel kell tüntetnie.
 
 VIII. FEJEZET
 
@@ -882,7 +874,7 @@ VIII. FEJEZET
 
 1. Gáz alá helyezés
 
-1.1. Építési engedélyköteles gázelosztó vezetéknél a gáz alá helyezés a próbaüzemi engedély alapján végezhető el, ha ezt a földgázelosztó az építési engedély iránti kérelmében kérte. Ebben az esetben a gáz alá helyezés megelőzi az üzembe helyezést.
+1.1.[^30] Építésiengedély-köteles gázelosztó vezetéknél a gáz alá helyezés a próbaüzem keretében végezhető el, ha ezt az építési engedélyben engedélyezték.
 
 1.2. Nem építési engedélyköteles gázelosztó vezetékek esetén a gáz alá helyezés a földgázelosztó által MBIR-ben szabályozott eljárása után végezhető el.
 
@@ -890,7 +882,7 @@ VIII. FEJEZET
 
 2. Üzembe helyezés
 
-2.1. A gázelosztó vezeték üzembe helyezése a földgázelosztó a végellenőrzési nyilatkozatában vagy a használatbavételi engedélyben előírt feltételek teljesülése esetén, a kijelölt földgázelosztó MBIR-ben meghatározott feltételekkel kezdhető meg.
+2.1.[^31] A gázelosztó vezeték üzembe helyezése a műszaki felülvizsgálati jegyzőkönyvben vagy a használatbavételi engedélyben előírt feltételek teljesülése esetén, a földgázelosztó MBIR-ében meghatározott feltételekkel kezdhető meg.
 
 2.2. Üzembe helyezni csak a földgázelosztó MBIR-ben meghatározott módon kitisztított – nedvességet, szilárd és egyéb szennyeződést nem tartalmazó -, tömör gázelosztó vezetéket lehet.
 
@@ -942,7 +934,7 @@ l) mérő- és jelzőműszereinek működőképességét, kalibrált vagy hitele
 
 5. Javítások
 
-5.1. Az alkalmazható javítási módszereket technológiai utasításban kell szabályozni. A végleges javítással biztosítani kell azt, hogy a gázelosztó vezeték a rendeltetés szerinti állapotú legyen.
+5.1.[^32] Az alkalmazható javítási módszereket technológiai utasításban kell szabályozni. A gázelosztó vezeték üzemeltetése során kialakuló hibák azonnali elhárítása az MBIR-ben szabályozott ideiglenes javítással is történhet. Az ideiglenes javítást követően el kell végezni a végleges javítást, amely biztosítja azt, hogy a gázelosztó vezeték a rendeltetés szerinti állapotú legyen.
 
 5.2. Az acél anyagú gázelosztó vezeték javítása
 
@@ -952,7 +944,7 @@ l) mérő- és jelzőműszereinek működőképességét, kalibrált vagy hitele
 
 5.3. Műanyag csőből épült gázelosztó vezeték javítása
 
-5.3.1. Ha a javítási munkák idején a csővezeték folytonosságát megszüntetik, a csőszakasz kivágásának megkezdése előtt a vágási élek közelében mindkét oldalon földelést kell alkalmazni a sztatikus feltöltődés megakadályozására.
+5.3.1.[^33] Ha a javítási munkák idején a csővezeték folytonosságát megszüntetik, a csőszakasz kivágásának megkezdése előtt gondoskodni kell annak földeléséről a sztatikus feltöltődés megakadályozása érdekében.
 
 5.3.2. Polietilén cső és csőkötés javítása
 
@@ -986,19 +978,7 @@ e) kettős karmantyú és áttoló karmantyú alkalmazásával vagy
 
 f) speciális csőjavító mandzsettával.
 
-5.4. Gázveszélyes munkák [a munkavégzés terében földgáz jelenlétével kell számolni, és a gázkoncentráció elérheti az alsó robbanási határ (a továbbiakban: ARH) 5%-át]
-
-5.4.1. Ha a gázelosztó vezeték megbontása előtt, a nyomásmentesítés után nem történt meg annak gáztalanítása (inert gázzal átöblítése), vagy a nyomás alatt levő vezetéken olyan munkálatokat végeznek, amelyek földgáz kiáramlásával járhatnak, gondoskodni kell a munkavégzés terének folyamatos gázkoncentráció ellenőrzéséről.
-
-5.4.2. A munkavégzés jellege az alábbiak szerinti lehet:
-
-a) ARH 5%-ig szennyezett légtérben, ha egyértelmű, hogy a munkavégzés során ez nem változhat, akkor tűzveszélyes munka végezhető;
-
-b) ARH 5%–10%-ig szennyezett légtérben tűzveszélyes munka (nyílt láng, szikrát adó szerszámok, gyújtóforrás stb. bevitele, használata) nem végezhető;
-
-c) ARH 10%–20%-ig szennyezett légtérben csak vizsgálat, ellenőrzés, tisztítás céljából engedélyezhető a munkavégzés;
-
-d) ARH 20% felett munka nem végezhető.
+5.4.[^34]
 
 6. Rekonstrukció
 
@@ -1038,9 +1018,9 @@ c) az új vezeték át-, illetve rákötése, üzembe, gáz alá helyezése.
 
 7. Karbantartás, üzemzavar-elhárítás
 
-7.1. Az üzemeltető a biztonsági szint megőrzése érdekében karbantartást végez. Az időszakos felülvizsgálatokat a gyártói vagy forgalmazói utasításokat is figyelembe vevő, MBIR-ben előírt időközökben, éves karbantartási terv alapján kell elvégezni és eredményeit dokumentálni. A dokumentumokat a gázelosztó vezeték élettartama végéig meg kell őrizni.
+7.1.[^35] Az üzemeltető a biztonsági szint megőrzése érdekében karbantartást végez. A karbantartást a gyártói vagy forgalmazói utasításokat is figyelembe vevő, MBIR-ben előírt időközökben, éves karbantartási terv alapján kell elvégezni és eredményeit dokumentálni. A dokumentumokat a gázelosztó vezeték élettartama végéig meg kell őrizni.
 
-7.2. A földgázelosztónak szervezetén belül a veszélyhelyzet gyors elhárítására és az üzemzavar megszüntetésére alkalmas szervezetet kell létrehozni és fenntartani, amelynek rendelkeznie kell
+7.2.[^36] A földgázelosztó szervezetén belül a veszélyhelyzet gyors elhárítására és az üzemzavar megszüntetésére alkalmas szervezetet hoz létre és tart fenn, amely rendelkezik
 
 a) a szükséges személyi és tárgyi feltételekkel,
 
@@ -1083,6 +1063,24 @@ c) a felszíni tartozékokat és jelzéseket meg kell szüntetni.
 9.4. Az építés helyszínén anyagot, alkatrészt vagy csövet tárolni csak a szükséges legrövidebb ideig szabad.
 
 9.5. A beépített anyagok, szerelvények, alkatrészek megfelelőségét igazoló dokumentumnak a földgázelosztónál mindig rendelkezésre kell állnia.
+
+10.[^37] Gázveszélyes munkák általános robbanásvédelmi szabályai
+
+10.1. Ha munkavégzés terében földgáz jelenlétével kell számolni, és a gázkoncentráció elérheti az alsó robbanási határ (a továbbiakban: ARH) 5%-át (a továbbiakban: gázveszélyes munka), a földgázelosztó a gázveszélyes munka időtartama alatt gondoskodik a munkavégzés légterének folyamatos gázkoncentráció-ellenőrzéséről.
+
+10.2. Ha a gázkoncentráció
+
+a) az ARH 5%-át nem haladja meg, és a munkavégzés időtartama alatt ez nem változhat, tűzveszélyes munka is végezhető,
+
+b) az ARH 5%-át meghaladja, tűzveszélyes munka nem végezhető,
+
+c) az ARH 20%-át nem haladja meg, vizsgálat, ellenőrzés, tisztítás céljából munka végezhető,
+
+d) az ARH 20%-át meghaladja, munka nem végezhető
+
+## a szennyezett légtérben.
+
+10.3. Gázveszélyes munka végzésére legalább két munkavállalót kell kijelölni.
 
 IX. FEJEZET
 
@@ -1242,7 +1240,7 @@ f) épületben, szabadtéren, részben nyitott térben elhelyezett és lemezszek
 
 11. Épületgépészeti követelmények
 
-11.1. Szükség esetén a gáznyomás-szabályozó állomást fűteni kell. Aknás kivitelű nyomásszabályozó állomáson csak a hőntartást igénylő gépészeti berendezéseket közvetlenül melegítő fűtőelemeket lehet beépíteni.
+11.1.[^38] Az MBIR-ben meghatározott esetben a gáznyomás-szabályozó állomást fűteni kell. Aknás kivitelű nyomásszabályozó állomáson csak a hőntartást igénylő gépészeti berendezéseket közvetlenül melegítő fűtőelemeket lehet beépíteni.
 
 11.2. A fűtőberendezés felületi hőmérséklete legfeljebb 300 °C lehet.
 
@@ -1300,15 +1298,7 @@ g) elzáró szerelvény.
 
 15.3. Az üzembe helyezés során beszabályozási adatlapon kell rögzíteni a nyomásszabályozó állomás működését jellemző valamennyi műszaki-biztonsági jellemzőt. A beállítási értékeket a IV. fejezet 2.2. pontja szerint kell megválasztani.
 
-16. Tűzvédelem
-
-16.1. Gázberendezést csak akkor szabad üzembe helyezni, ha legalább B tűzvédelmi osztályba tartozó anyagból készült.
-
-16.2. Az éghető gáz építményeit A1, A2 vagy B tűzvédelmi osztályba tartozó anyagból lehet építeni.
-
-16.3. Tűz esetén a berendezéseket a meg nem engedhető túlmelegedés ellen védeni kell.
-
-16.4. Nyomásszabályozót csak olyan mértékben szabad melegíteni, hogy a megengedett üzemi nyomás túllépésére ne kerüljön sor. A melegítés alatt a nyomást és a hőmérsékletet ellenőrizni kell.
+16.[^39]
 
 17. Nyomástartó berendezések és nyomástartó tartozékok
 
@@ -1318,17 +1308,9 @@ X. FEJEZET
 
 ## MUNKAVÉDELMI ELŐÍRÁSOK
 
-1. Általános követelmények
+1.[^40]
 
-1.1. Gázelosztó vezeték építésére, üzemeltetésére, ellenőrzésére az építőipari kivitelezési, valamint a felelős műszaki vezetői, építési műszaki ellenőri tevékenységek gyakorlására kiadott jogszabályok előírásait, valamint a 4. § (3) bekezdésében foglaltakat kell alkalmazni. A földgáz és PB-gáz eltérő fizikai és kémiai tulajdonságait a gázelosztó vezetéket tervező, építtető, kivitelező, üzemeltető, valamint a gázelosztó vezeték átalakítását, felújítását és felhagyását, elbontását végzőnek egyaránt figyelembe kell venniük.
-
-2. A munkavállalókra vonatkozó szabályok
-
-2.1. Csak olyan munkavállaló foglalkoztatható, aki a munkavégzéshez előírt szakképesítéssel rendelkezik, a berendezéseket és az eljárásokat, továbbá a szállított gáz tulajdonságait és a veszélyek elleni védekezési módszereket ismeri.
-
-2.2. Gázveszélyes munka végzésekor az egyidejűleg foglalkoztatott munkavállalók száma kettőnél kevesebb nem lehet.
-
-2.3. A munkafolyamatokban részt vevő személyzet számát és szakképzettségét technológiai utasításban kell meghatározni.
+2.[^41]
 
 3. Üzemi utasítások
 
@@ -1364,48 +1346,53 @@ c) a gázveszélyes munkák.
 
 3.3. A 3.2. alpont szerinti munkákat a földgázelosztó gázüzemi vezetője vagy megbízottja engedélyezheti.
 
-3.4. Az üzemi utasításokat a munkavállalókkal meg kell ismertetni. Azok elsajátítását visszaellenőrzést követően dokumentálni kell. Az üzemi utasításoknak a munkahelyen mindig rendelkezésre kell állniuk, vagy aláírás ellenében ki kell adni azokat az érintett munkavállalóknak.
+3.4.[^42]
 
-4. Oktatás, képzés, továbbképzés
+4.[^43]
 
-4.1. A munkáltatónak a munkavállalót foglalkoztatásának megkezdése előtt, majd az üzemi utasításban meghatározott időközönként és az utasítások lényegi változásakor, szóban ki kell oktatni, továbbá legalább 5 évenként gondoskodnia kell a munkavállaló vizsgáztatásáról:
+5.[^44]
 
-a) a munkahelyére vonatkozó üzemi utasításokból,
+6.[^45]
 
-b) a gázüzemi tevékenységek veszélyeiből,
-
-c) a biztonsági követelményekből,
-
-d) a balesetek és üzemzavarok során teendő intézkedésekből és
-
-e) az egyéni védőeszközök használatából.
-
-4.2. Az oktatások tartalmát és időpontját írásban kell meghatározni. Az oktatás megtörténtét a munkavállalónak az aláírásával kell igazolnia.
-
-5. Egyéni védőeszközök
-
-5.1. A rendelkezésére bocsátott védőeszközöket az üzemi utasításokban előírt módon, minden munkavállaló használja. A munkavállaló felettese köteles megkövetelni az egyéni védőeszközök használatát, illetve azok használatáról köteles rendszeresen meggyőződni.
-
-5.2. Gázüzemi tevékenység végzésére olyan munkavállaló alkalmazható, aki orvosilag alkalmas, egészségi állapota alkalmassá teszi a megnövekedett fizikai terhelés elviselésére és az egyéni védőfelszerelések használatára.
-
-5.3. A védőeszközök használata tekintetében az alábbiakat kell betartani:
-
-a) a munkáltatónak biztosítania kell a kockázatértékelésben megállapított védőeszközöket,
-
-b) a beazonosított veszélyekhez és tevékenységekhez rendelt védőeszközök fajtáját, típusát, alkalmazásuk módját üzemi utasításban kell szabályozni,
-
-c) a védőeszközök időszakos felülvizsgálatát, szükség esetén cseréjét a munkáltatónak kell biztosítani,
-
-d) a rendelkezésére bocsátott védőeszközöket az üzemi utasításokban előírt módon, minden munkavállaló köteles használni, valamint
-
-e) a védőeszköz alapvető funkcionális alkalmasságának ellenőrzését a munkavállalónak a munkavégzés előtt el kell végeznie.
-
-6. A berendezések üzemeltetése
-
-6.1. A munkáltató köteles a Szabályzat hatálya alá tartozó berendezések üzeméhez szükséges biztonsági feltételeket meghatározni.
-
-6.2. A berendezéseket szabályszerűen, a gyártói kezelési és üzemeltetési utasításoknak megfelelően kell üzemeltetni és felügyelni. A munkáltató a gázüzem adottságainak megfelelően további követelményeket határozhat meg az üzemi utasításokban a berendezések üzemeltetésére.
-
-6.3. A berendezések megfelelő műszaki-biztonsági állapotának biztosítása, az időszakos felülvizsgálatok és a rendszeres karbantartások elvégeztetése a munkáltató feladata.
-
-6.4. A felülvizsgálati és a karbantartási időközöket a jogszabályokban, valamint a munkáltató által választott szabványokban előírtak alapján a munkáltató az MBIR-ben szabályozza. A karbantartásokat és a felülvizsgálatokat határidőben el kell végezni, a megfelelő állapotot haladéktalanul helyre kell állítani. A munkavállaló köteles a munkavégzésre alkalmas állapotot ellenőrizni a munka megkezdése előtt.
+[^4]: Az 1. melléklet I. FEJEZET 2. pont 2.10. alpontjában foglalt táblázat A:3 mezője az 1/2024. (II. 27.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet I. FEJEZET 2. pont 2.11. alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet III. FEJEZET 1. pont 1.4. alpont c) pontja az 1/2024. (II. 27.) SZTFH rendelet 3. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet III. FEJEZET 1. pont 1.4. alpont d) pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 3. pontja hatályon kívül helyezte.
+[^8]: Az 1. melléklet III. FEJEZET 1. pont 1.4. alpont e) pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 3. pontja hatályon kívül helyezte.
+[^9]: Az 1. melléklet III. FEJEZET 1. pont 1.5. alpont a) pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^10]: Az 1. melléklet III. FEJEZET 1. pont 1.6. alpontját az 1/2024. (II. 27.) SZTFH rendelet 2. §-a iktatta be.
+[^11]: Az 1. melléklet III. FEJEZET 2. pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^12]: Az 1. melléklet III. FEJEZET 3. pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet IV. FEJEZET 1. pont 1.1. alpont 1.1.2. pont a) alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § c) pontja szerint módosított szöveg.
+[^14]: Az 1. melléklet IV. FEJEZET 1. pont 1.1. alpont 1.1.2. pont b) alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § d) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet IV. FEJEZET 1. pont 1.1. alpont 1.1.3. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 4. pontja hatályon kívül helyezte.
+[^16]: Az 1. melléklet IV. FEJEZET 3. pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^17]: Az 1. melléklet IV. FEJEZET 4. pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^18]: Az 1. melléklet V. FEJEZET 1. pont 1.2. alpontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 5. pontja hatályon kívül helyezte.
+[^19]: Az 1. melléklet VI. FEJEZET 1. pont 1.2. alpont 1.2.2. pont j) alpontja az 1/2024. (II. 27.) SZTFH rendelet 4. § 6. pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet VI. FEJEZET 1. pont 1.3. alpont 1.3.3. pont a) alpont ad) pontja az 1/2024. (II. 27.) SZTFH rendelet 3. § a) pontja szerint módosított szöveg.
+[^21]: Az 1. melléklet VI. FEJEZET 1. pont 1.3. alpont 1.3.3. pont a) alpont ae) pontja az 1/2024. (II. 27.) SZTFH rendelet 4. § 7. pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet VI. FEJEZET 1. pont 1.3. alpont 1.3.6. pontja az 1/2024. (II. 27.) SZTFH rendelet 4. § 8. pontja szerint módosított szöveg.
+[^23]: Az 1. melléklet VI. FEJEZET 4. pont 4.2. alpontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 9. pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet VII. FEJEZET 1.1. pontja az 1/2024. (II. 27.) SZTFH rendelet 3. § e) pontja szerint módosított szöveg.
+[^25]: Az 1. melléklet VII. FEJEZET 3. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 10. pontja hatályon kívül helyezte.
+[^26]: Az 1. melléklet VII. FEJEZET 4. pont 4.2. alpont 4.2.26. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 11. pontja hatályon kívül helyezte.
+[^27]: Az 1. melléklet VII. FEJEZET 4. pont 4.2. alpont 4.2.28. pontja az 1/2024. (II. 27.) SZTFH rendelet 4. § 12. pontja szerint módosított szöveg.
+[^28]: Az 1. melléklet VII. FEJEZET 4. pont 4.4. alpontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 13. pontja hatályon kívül helyezte.
+[^29]: Az 1. melléklet VII. FEJEZET 4. pont 4.5. alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § f) pontja szerint módosított szöveg.
+[^30]: Az 1. melléklet VIII. FEJEZET 1. pont 1.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^31]: Az 1. melléklet VIII. FEJEZET 2. pont 2.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^32]: Az 1. melléklet VIII. FEJEZET 5. pont 5.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^33]: Az 1. melléklet VIII. FEJEZET 5. pont 5.3. alpont 5.3.1. pontja az 1/2024. (II. 27.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^34]: Az 1. melléklet VIII. FEJEZET 5. pont 5.4. alpontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 14. pontja hatályon kívül helyezte.
+[^35]: Az 1. melléklet VIII. FEJEZET 7. pont 7.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § g) pontja szerint módosított szöveg.
+[^36]: Az 1. melléklet VIII. FEJEZET 7. pont 7.2. alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § h) pontja szerint módosított szöveg.
+[^37]: Az 1. melléklet VIII. FEJEZET 10. pontját az 1/2024. (II. 27.) SZTFH rendelet 2. §-a iktatta be.
+[^38]: Az 1. melléklet IX. FEJEZET 11. pont 11.1. alpontja az 1/2024. (II. 27.) SZTFH rendelet 3. § i) pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet IX. FEJEZET 16. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 15. pontja hatályon kívül helyezte.
+[^40]: Az 1. melléklet X. FEJEZET 1. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
+[^41]: Az 1. melléklet X. FEJEZET 2. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
+[^42]: Az 1. melléklet X. FEJEZET 3. pont 3.4. alpontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
+[^43]: Az 1. melléklet X. FEJEZET 4. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
+[^44]: Az 1. melléklet X. FEJEZET 5. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
+[^45]: Az 1. melléklet X. FEJEZET 6. pontját az 1/2024. (II. 27.) SZTFH rendelet 4. § 16. pontja hatályon kívül helyezte.
