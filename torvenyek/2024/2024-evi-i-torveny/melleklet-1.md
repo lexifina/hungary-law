@@ -1,0 +1,3 @@
+1. melléklet a 2024. évi I. törvényhez
+
+JEGYZŐKÖNYV A SVÉD KIRÁLYSÁGNAK AZ ÉSZAK-ATLANTI SZERZŐDÉSHEZ VALÓ CSATLAKOZÁSÁRÓL
