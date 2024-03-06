@@ -54,26 +54,12 @@ Nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 1.25. az integritás tanácsadói feladatok ellátásának támogatására kijelölt valamennyi álláshely.
 
-2. A fővárosi és megyei kormányhivatalokban
+2.[^4]
 
-2.1. a járási hivatalvezető,
+3.[^5]
 
-2.2. az igazgató,
+4.[^6]
 
-2.3. a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 28. §-ában meghatározott védelmi igazgatási munkában részt vevő álláshely,
-
-2.4. az agrár- és vidékfejlesztést támogató főosztály vezetője.
-
-3. Budapest Főváros Kormányhivatala
-
-3.1. Kereskedelmi, Haditechnikai Exportellenőrzési és Nemesfémhitelesítési Főosztály valamennyi vezetője,
-
-3.2. Állampolgársági és Anyakönyvi Főosztály valamennyi vezetője,
-
-3.3. Országos Közúti és Hajózási Hatósági Főosztály valamennyi vezetője,
-
-3.4. Rehabilitációs Főosztály vezetője.
-
-4. Pest Megyei Kormányhivatal
-
-4.1. Szakképzési és Felnőttképzési Főosztály vezetője.
+[^4]: Az 1. melléklet 2. pontját a 2/2024. (III. 5.) KTM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^5]: Az 1. melléklet 3. pontját a 2/2024. (III. 5.) KTM rendelet 8. § b) pontja hatályon kívül helyezte.
+[^6]: Az 1. melléklet 4. pontját a 2/2024. (III. 5.) KTM rendelet 8. § b) pontja hatályon kívül helyezte.
