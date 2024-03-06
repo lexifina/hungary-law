@@ -1,3 +1,3 @@
-17. §[^15]
+17. §[^16]
 
-[^15]: A 17. §-t a 14/2022. (X. 3.) MVM rendelet 6. § c) pontja hatályon kívül helyezte.
+[^16]: A 17. §-t a 14/2022. (X. 3.) MVM rendelet 6. § c) pontja hatályon kívül helyezte.

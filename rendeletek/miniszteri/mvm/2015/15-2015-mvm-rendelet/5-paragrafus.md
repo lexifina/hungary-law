@@ -1,4 +1,4 @@
-5. §[^3] (1) Az Aktív Magyarországért díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
+5. §[^4] (1) Az Aktív Magyarországért díj adományozására vonatkozó javaslatokat szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
 
 (2) A bíráló bizottság tagjai:
 
@@ -14,4 +14,4 @@ c) az aktív Magyarországért felelős államtitkár által felkért személyek
 
 (5) A bíráló bizottság tagjai e tevékenységükért díjazásban nem részesülnek. A bíráló bizottság melletti titkársági feladatok ellátásáról az aktív Magyarországért felelős államtitkár gondoskodik.
 
-[^3]: Az 5. § a 14/2022. (X. 3.) MVM rendelet 2. §-ával megállapított szöveg.
+[^4]: Az 5. § a 14/2022. (X. 3.) MVM rendelet 2. §-ával megállapított szöveg.

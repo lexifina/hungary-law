@@ -1,4 +1,4 @@
-13. §[^10] (1) Aktív Magyarországért díj (e § alkalmazásában a továbbiakban: díj) az aktív életmód és kikapcsolódás elősegítése érdekében végzett kiemelkedő tevékenység elismeréseként adományozható.
+13. §[^11] (1) Aktív Magyarországért díj (e § alkalmazásában a továbbiakban: díj) az aktív életmód és kikapcsolódás elősegítése érdekében végzett kiemelkedő tevékenység elismeréseként adományozható.
 
 (2) A díj természetes és jogi személyek részére adományozható.
 
@@ -12,4 +12,4 @@
 
 (7) A díjhoz 1 000 000 forint összegű pénzjutalom jár.
 
-[^10]: A 13. § a 14/2022. (X. 3.) MVM rendelet 3. §-ával megállapított szöveg.
+[^11]: A 13. § a 14/2022. (X. 3.) MVM rendelet 3. §-ával megállapított szöveg.
