@@ -1,0 +1,141 @@
+# A Kormány 54/2024. (III. 6.) Korm. rendelete
+
+Magyar Közlöny 2024. évi 26. szám, 2024. március 6. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/IFpUuLgPPgisrSIfsxDt65de426add934/dokumentumok/66f310041b66f1730a7a441704b8302ea582bb1a/letoltes)
+
+---
+
+A Kormány 54/2024. (III. 6.) Korm. rendelete
+a villamos energiáról szóló 2007. évi LXXXVI. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról
+A Kormány az Alaptörvény 53. cikk (1) bekezdésében meghatározott eredeti jogalkotói hatáskörében, figyelemmel a védelmi
+és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 80. és 81. §-ára, az Alaptörvény 15. cikk
+(1) bekezdésében meghatározott feladatkörében eljárva a Magyarország 2018/1999/EU európai parlamenti és bizottsági rendelet
+alapján elfogadott nemzeti energia- és klímatervében, valamint a villamos energiáról szóló 2007. évi LXXXVI. törvény 38. §
+(5) bekezdésében meghatározott célok teljesítése érdekében a következőket rendeli el:
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek
+magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes
+veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a villamos
+energiáról szóló 2007. évi LXXXVI. törvényt (a továbbiakban: Vet.) a 7. §-ban, a 27. § (1) és (2) bekezdésében,
+(3)–(3a) bekezdésében és (4) bekezdésében, 35. § (8) bekezdésében foglaltaktól eltérően, valamint a villamos
+energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.)
+Korm. rendelet 9/D. § (3) bekezdését az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2) E rendelet hatálya a Vet. 35. § (8) bekezdése szerinti, 2023. november 30-án indult, a szabad hálózati kapacitások
+kiosztására irányuló egyedi eljárásban hálózati csatlakozási igény igénybejelentőjére terjed ki.
+(3) A (2) bekezdés szerinti eljárásban a hálózati engedélyesek az üzemi és elosztói szabályzatban meghatározott
+műszaki gazdasági tájékoztatót és megvalósíthatósági tanulmány készítésére vonatkozó felhívást az e rendelet
+hatálybalépését követő 60. napig adják ki.
+(4) A hálózati engedélyes a Magyarország 2018/1999/EU európai parlamenti és bizottsági rendelet alapján elfogadott
+nemzeti energia- és klímatervében meghatározott célkitűzésekkel összhangban a Vet. 27. § (2) bekezdésétől és
+a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.)
+Korm. rendelet 9/D. § (3) bekezdésétől eltérően
+a) a (8) bekezdés a)–c) pontjában meghatározott, betáplálási igényt tartalmazó csatlakozási igénybejelentést
+az e rendelet hatálybalépését követő 60 napig,
+b) a (8) bekezdés a)–c) pontjában meghatározottól eltérő, betáplálási igényt tartalmazó csatlakozási
+igénybejelentést az e rendelet hatálybalépését követő 15 napig
+elutasítja, ha az igénybejelentő számára a (2) bekezdés szerinti eljárásban meghatározható legkorábbi tényleges
+csatlakozási időpont a 2030-at követő év.
+(5) A (4) bekezdés nem alkalmazandó a (8) bekezdés c) pontjában meghatározott esetben.
+(6) A (8) bekezdés a)–c) pontja szerinti igénybejelentő a benyújtott igényét módosíthatja vagy visszavonhatja.
+A módosításra vagy a visszavonásra vonatkozó egyoldalú nyilatkozatot az igénybejelentő az e rendelet
+hatálybalépését követő tizenöt napig juttatja el az érintett hálózati engedélyes számára. A benyújtott igény
+módosítása kizárólag a benyújtott igényben megjelölt erőmű beépített teljesítményének csökkentésére
+vonatkozhat. A módosítás esetén a csökkentett beépített teljesítménnyel arányos igénybejelentési biztosíték,
+visszavonás esetén az igénybejelentési biztosíték teljes összegét a visszavonásra vagy módosításra irányuló
+egyoldalú nyilatkozat érintett hálózati engedélyes általi kézhezvételét követő tizenöt napig visszafizeti vagy
+bankgarancia esetén felszabadítja az igénybejelentő számára.
+(7) A hálózati engedélyes az igénybejelentés (4) bekezdés szerinti elutasítása esetén a megfizetett igénybejelentési
+biztosítékot az igénybejelentés elutasításról szóló tájékoztató kiküldését követő 15 napon belül visszafizeti vagy
+bankgarancia esetén felszabadítja az igénybejelentő számára.
+(8) A (2) bekezdés szerinti eljárásban benyújtott csatlakozási igénybejelentésre vonatkozó, az üzemi és elosztói
+szabályzatban meghatározott műszaki gazdasági tájékoztató és megvalósíthatósági tanulmány készítésére
+vonatkozó felhívás kiadása során a hálózati engedélyes a villamosenergia-rendszer üzembiztonsága, így
+különösen a villamosenergia-rendszer teljesítmény-egyensúlyának és a kiegyenlítő szabályozási kapacitásoknak
+a biztosíthatósága szempontja alapján, valamint a Nemzeti Energia- és Klímatervben meghatározott célokra
+
+figyelemmel a csatlakozás tényleges időpontját – a villamos energiáról szóló 2007. évi LXXXVI. törvény
+veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 526/2022. (XII. 16.) Korm. rendelet (a továbbiakban:
+Korm. rendelet) 4. § (2) bekezdésétől, 5. § (5) bekezdéstől és 9. §-ától eltérően – úgy határozza meg, hogy
+a) legkorábban a Korm. rendelet 4. § (2) bekezdése és 5. § (5) bekezdése szerinti igénybejelentőnek a legfeljebb
+középfeszültségre csatlakozó berendezése,
+b) az a) pont hatálya alá tartozó berendezést követően az átviteli hálózatra 400 kV feszültségszinten
+csatlakoztatható, Vet. 3. § 54. pontja szerinti szélerőmű vagy 55. pontja szerinti szélerőműpark,
+c) a b) pont hatálya alá tartozó berendezést követően a Korm. rendelet 4. § (2) bekezdése és 5. § (5) bekezdése
+szerinti igénybejelentőnek a nagyfeszültségre csatlakozó berendezése
+csatlakozhat.
+(9) A (8) bekezdés b) pontja esetén a műszaki gazdasági tájékoztató és megvalósíthatósági tanulmány
+készítésére vonatkozó felhívás olyan szélerőművekre vagy szélerőműparkokra adható ki, amelyek különböző
+igénybejelentésekhez kapcsolódnak, együttesen legalább 670 MW névleges teljesítőképességet tesznek ki, és
+a közcélú hálózathoz történő csatlakozásuk legfeljebb egyetlen új – közcélú transzformáció nélküli – azonos hálózati
+csomópontban valósul meg.
+2. §
+A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) a honlapján közzéteszi azokat
+a közép- és nagyfeszültségű, legalább 0,5 MW beépített teljesítményű időjárásfüggő termelőberendezések számára
+rendelkezésre álló betáplálási irányú csatlakozásokat, melyek már üzembe helyezésre kerültek, és azokat, amelyek
+üzemi és elosztói szabályzatban meghatározott érvényes és hatályos műszaki gazdasági tájékoztatóval vagy hálózati
+csatlakozási szerződéssel rendelkeznek. A közzététel tartalmazza
+a) a csatlakozási ponttal rendelkező rendszerhasználó megnevezését,
+b) a csatlakozási pont földrajzi azonosítóit,
+c) a csatlakozási ponton rendelkezésre álló betáplálási irányú csatlakozási teljesítményt,
+d) a betáplálási csatlakozást igénybe vevő berendezés típusát, erőmű esetén elsődleges energiaforrását,
+e) üzembe helyezés előtt álló csatlakozási pont esetén a hálózati csatlakozás legkorábbi igénybevételi
+időpontját, a Korm. rendelet 1. § (2) bekezdés a)–c) pontja szerinti igénybejelentő esetén a hálózati
+engedélyes Korm. rendelet 6. § (4) bekezdése szerinti tájékoztatójában meghatározott naptári évét, valamint
+f) azt, hogy az üzembe helyezés előtt álló csatlakozási pont esetén a Hivatal elnökének a Vet. 146/A. §
+(2) bekezdése szerint kiadott rendelete alapján milyen mértékű csatlakozási díj tartozik a csatlakozási pont
+létesítéséhez.
+3. § (1) Az igénybejelentő, aki az 1. § (3) bekezdése szerinti műszaki gazdasági tájékoztató vagy megvalósíthatósági
+tanulmány készítésére vonatkozó felhívást követően kapacitáslekötési pénzügyi biztosítékot fizetett, az üzemi
+szabályzatban meghatározott igénybejelentési és kapacitáslekötési pénzügyi biztosítékon túl kiegészítő pénzügyi
+biztosítékot fizet, vagy bankgarancia formájában biztosítja. A kiegészítő pénzügyi biztosíték mértéke az igényelt
+csatlakozási kapacitásnak és a Korm. rendelet 1. mellékletében meghatározott fajlagos benchmark beruházási
+értéknek a szorzata alapján számolt benchmark beruházási összeg 5%-a.
+(2) Az igénybejelentő az (1) bekezdés szerinti kiegészítő pénzügyi biztosítékot úgy fizeti meg, hogy ha a hálózati
+engedélyes által kiadott műszaki-gazdasági tájékoztatóban a csatlakozás tényleges időpontjára meghatározott év
+a) a 2028. naptári év, akkor a benchmark beruházási összeg 1%-át 2024-ben, további 1%-át 2025-ben, további
+1%-át 2026-ban, további 1%-át 2027-ben és további 1%-át 2028-ban,
+b) a 2029. naptári év, akkor a benchmark beruházási összeg 1%-át 2025-ben, további 1%-át 2026-ban, további
+1%-át 2027-ben, további 1%-át 2028-ban és további 1%-át 2029-ben,
+c) a 2030. naptári év, akkor a benchmark beruházási összeg 1%-át 2026-ban, további 1%-át 2027-ben, további
+1%-át 2028-ban, további 1%-át 2029-ben és további 1%-át 2030-ban
+fizeti meg.
+(3) Ha a csatlakozás tényleges időpontja a 2030. naptári évet követő, az igénybejelentő a kiegészítő pénzügyi
+biztosítékot úgy fizeti meg, hogy a csatlakozás tényleges időpontjával érintett naptári évben és az azt megelőző
+négy évben évente fizeti meg a benchmark beruházási összeg 1%-át.
+(4) Az igénybejelentő a kereskedelmi üzem megkezdésének igazolása előtt az erőműegységre vonatkozó építési
+engedély meglétének hálózati engedélyes számára történő igazolása esetén a kiegészítő pénzügyi biztosíték
+50%-át a hálózati engedélyes az igazolást követő 45 napon belül visszafizeti az igénybejelentő számára, vagy a már
+igazolt bankgarancia 50%-át felszabadítja.
+
+(5) Az igénybejelentő a bankgaranciát a hálózati engedélyes által történő felszabadításig rendelkezésre tartja.
+(6) A bankgarancia formájában biztosított kiegészítő pénzügyi biztosítékot a hálózati engedélyes az igénybejelentőnek
+a csatlakozásiigény-bejelentéssel vagy a csatlakozási szerződéssel összefüggő, lejárt esedékességű fizetési
+kötelezettségének nemteljesítése esetén lehívja, vagy a bankgaranciaként biztosított kiegészítő pénzügyi
+biztosítékot a hálózati engedélyes a hálózati csatlakozási szerződés szerinti csatlakozási díj maradéktalan teljesítése
+esetén a hálózati csatlakozási szerződés szerinti névleges teljesítőképességnek megfelelő erőmű és csatlakozási
+pont üzembe helyezését követő 15 napon belül felszabadítja.
+(7) A kiegészítő pénzügyi biztosíték összegének a határidő utolsó napjáig a hálózati engedélyes bankszámláján
+jóváírásra kell kerülnie.
+(8) A kiegészítő pénzügyi biztosíték határidőn belüli megfizetésének elmulasztása esetén az igénybejelentő csatlakozás
+igénybevételére vonatkozó rendelkezési joga a határidő lejártát követő napon megszűnik. A hálózati engedélyes
+a nyilatkozattételi határidőt követő 45 napon belül az igénybejelentő által korábban az elosztói vagy üzemi
+szabályzat alapján teljesített pénzügyi biztosítékot az igénybejelentőnek visszatéríti, és a megfizetett csatlakozási
+díjat – a hálózati csatlakozási szerződésben meghatározott elszámolási szabályok mellett – az igénybejelentővel
+elszámolja.
+(9) Nem fizet e rendelet szerinti kiegészítő pénzügyi biztosítékot az az igénybejelentő, aki a Korm. rendelet 10. §-a
+szerinti kiegészítő pénzügyi biztosítékot megfizette vagy megfizeti.
+4. § (1) A Vet. 35. § (8) bekezdésétől eltérően a hálózati engedélyesek nem tesznek közzé a nagyfeszültségű és a nagy-/
+középfeszültségű transzformátorállomásokhoz rendelt, az aktuális szabad kapacitásokról és a csatlakozás műszaki
+és várható gazdasági feltételeiről szóló részletes tájékoztatót. A hálózati szabad kapacitások meghatározására és
+kiosztására vonatkozó részletes szabályokat a Kormány rendeletben állapítja meg. A Kormány a hálózati szabad
+kapacitások meghatározására és kiosztására vonatkozó új szabályokat 2024. december 31. napjáig határozza meg.
+(2) A Hivatal a 2. § szerinti kötelezettségét először legkésőbb az e rendelet hatálybalépését követő 30 nappal teszi meg,
+majd a közzétett adatokat minden harmadik hónap utolsó napjáig frissíti.
+(3) A hálózati engedélyesek a 2. § szerinti adatszolgáltatáshoz szükséges adatokat legkésőbb az e rendelet
+hatálybalépését követő 15 nappal megküldik a Hivatal számára.
+(4) A hálózati engedélyesek a (2) bekezdés szerinti frissítéshez szükséges adatokat minden harmadik hónap 15. napjáig
+megküldik a Hivatal számára.
+5. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+IX. Határozatok Tára
