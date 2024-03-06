@@ -1,0 +1,1 @@
+A Kormány a geszti Tisza-kastély és környezetének rekonstrukciójához, valamint hosszú távú működtetéséhez szükséges intézkedésekről szóló 1347/2017. (VI. 9.) Korm. határozatban foglaltak végrehajtása érdekében
