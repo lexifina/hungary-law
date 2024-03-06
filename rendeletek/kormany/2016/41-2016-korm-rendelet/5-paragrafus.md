@@ -4,6 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2)[^2] Ez a rendelet 2024. március 7-én hatályát veszti.
+(2)[^2] Ez a rendelet 2024. szeptember 7-én hatályát veszti.
 
-[^2]: Az 5. § (2) bekezdése a 425/2023. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 5. § (2) bekezdése a 47/2024. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
