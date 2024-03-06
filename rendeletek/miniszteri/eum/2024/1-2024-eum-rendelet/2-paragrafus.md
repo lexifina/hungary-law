@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában ideiglenes kiküldetés a tartós külszolgálat időtartama alatt az állomáshelyen kívül, a fogadó országban vagy harmadik országban teljesített, legfeljebb kilencven nap időtartamú munkavégzési célú tartózkodás.
