@@ -1,1 +1,3 @@
-14. § Az 590/2022. (XII. 28.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

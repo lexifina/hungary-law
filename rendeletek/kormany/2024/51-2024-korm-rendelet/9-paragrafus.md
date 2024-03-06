@@ -1,3 +1,3 @@
-9. § Az 590/2022. (XII. 28.) Korm. rendelet 13. alcím címe helyébe a következő alcím cím lép:
+9. §[^10]
 
-„13. A Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat, valamint a Helyreállítási és Ellenállóképességi Eszköz (RRF) hitel intézkedései előirányzat felhasználási szabályai”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

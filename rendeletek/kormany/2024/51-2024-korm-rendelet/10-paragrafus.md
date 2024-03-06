@@ -1,5 +1,3 @@
-10. § Az 590/2022. (XII. 28.) Korm. rendelet 27. §-a helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„27. § (1) A Helyreállítási és Ellenállóképességi Eszköz (RRF) előirányzat, valamint a Helyreállítási és Ellenállóképességi Eszköz (RRF) hitel intézkedései előirányzat (ezen alcím alkalmazásában a továbbiakban együtt: előirányzatok) a HET-ben meghatározott és a Kormány intézkedési listát elfogadó határozatával jóváhagyott reformok, mérföldkövek, célértékek elérését és megvalósítását szolgáló projektek finanszírozására szolgál.
-
-(2) Az előirányzatok a 373/2022. (IX. 30.) Korm. rendelet szabályai szerint használhatók fel.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
