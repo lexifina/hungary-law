@@ -1,3 +1,3 @@
-7. § Az 563/2022. (XII. 23.) Korm. rendelet 121. § d)–f) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(Nem nyújtható támogatás)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
