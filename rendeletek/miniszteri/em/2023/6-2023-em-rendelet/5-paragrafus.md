@@ -1,4 +1,4 @@
-5. § (1) Elismerés adományozására a következő alkalmakból kerül sor:
+5. § (1)[^3] Elismerés adományozására a következő alkalmakból kerül sor:
 
 a) március 15-i nemzeti ünnep,
 
@@ -8,17 +8,19 @@ c) Föld Napja (április 22.),
 
 d) Környezetvédelmi Világnap (június 5.),
 
-e) augusztus 20-i állami ünnep,
+e) Víziközművek Napja (június 12.),
 
-f) Bányásznap (minden év szeptember hónap első vasárnapja),
+f) augusztus 20-i állami ünnep,
 
-g) október 23-i nemzeti ünnep,
+g) Bányásznap (minden év szeptember hónap első vasárnapja),
 
-h) Éghajlatvédelmi világnap (október 24.),
+h) október 23-i nemzeti ünnep,
 
-i) Borbála-nap (december 4.),
+i) Éghajlatvédelmi világnap (október 24.),
 
-j) kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter által kijelölt időpont.
+j) Borbála-nap (december 4.),
+
+k) kiemelkedő szakmai alkalom, esemény, évforduló, továbbá a miniszter által kijelölt időpont.
 
 (2) Az elismeréseket a miniszter vagy az általa megbízott személy ünnepélyes keretek között adja át. A miniszter által megbízott személy az adományozást nem delegálhatja tovább.
 
@@ -35,3 +37,5 @@ j) kiemelkedő szakmai alkalom, esemény, évforduló, illetve a miniszter álta
 (8) Az elismerések adományozásáról, illetve visszavonásáról rendelkező miniszteri közleményt a minisztérium honlapján, valamint a Hivatalos Értesítőben közzé kell tenni.
 
 (9) A szakmai díjakhoz, valamint a Miniszteri Elismeréshez járó pénzjutalom összegét az Energiaügyi Minisztérium (a továbbiakban: minisztérium) biztosítja a költségvetéséből.
+
+[^3]: Az 5. § (1) bekezdése a 2/2024. (III. 5.) EM rendelet 2. §-ával megállapított szöveg.

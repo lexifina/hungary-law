@@ -10,6 +10,8 @@ d) Schenzl Guidó-díj,
 
 e) Környezetünkért díj.
 
+f)[^2] Dr. Öllős Géza-díj.
+
 (2) A miniszter által adományozható szakmai érmek a következők:
 
 a) Szent Borbála-érem,
@@ -33,3 +35,5 @@ a) Miniszteri Elismerés,
 b) Kiváló Bányász kitüntető cím,
 
 c) Miniszteri Elismerő Oklevél.
+
+[^2]: A 2. § (1) bekezdés f) pontját a 2/2024. (III. 5.) EM rendelet 1. §-a iktatta be.
