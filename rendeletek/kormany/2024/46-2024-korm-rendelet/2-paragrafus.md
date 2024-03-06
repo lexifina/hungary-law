@@ -1,1 +1,3 @@
-2. § A Kr. 18/A. § (2) és (5) bekezdésében a „háziorvosi tevékenység” szövegrész helyébe a „háziorvosi és fogorvosi tevékenység” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
