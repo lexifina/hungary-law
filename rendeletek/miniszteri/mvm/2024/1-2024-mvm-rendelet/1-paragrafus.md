@@ -1,5 +1,3 @@
-1. § Hatályát veszti a Miniszterelnökséget vezető miniszter által adományozható elismerésekről szóló 15/2015. (III. 11.) MvM rendelet
+1. §[^2]
 
-a) 3. § c) pontja,
-
-b) 14. §-a.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
