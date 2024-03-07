@@ -1,0 +1,3 @@
+22. § A 256/2021. (V. 18.) Korm. rendelet 385. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdéstől eltérően a kedvezményezettel szemben nem kell szabálytalansági eljárást indítani, ha a központi beszerző szerv által kötött keretmegállapodás vagy dinamikus beszerzési rendszer alapján megvalósított közbeszerzési eljárás eredményeként kötött szállítói szerződés végrehajtása során keletkezett elszámoló bizonylat a keretmegállapodás megkötésére vagy dinamikus beszerzési rendszer létrehozására irányuló közbeszerzési eljárásra visszavezethető okból nem számolható el teljeskörűen az Európai Bizottsággal.”
