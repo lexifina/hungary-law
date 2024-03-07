@@ -1,1 +1,3 @@
-9. § Hatályát veszti a Magyarország Európai Unió melletti Állandó Képviseletére tartós külszolgálatra kihelyezettek ideiglenes kiküldetésének részletes szabályairól szóló 14/2022. (V. 26.) IM rendelet.
+9. §[^1]
+
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
