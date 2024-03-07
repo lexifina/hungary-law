@@ -1,4 +1,4 @@
-408. § (1)[^285] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, ha
+408. § (1)[^346] A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelmet érdemi vizsgálat nélkül elutasítja, ha
 
 a) a kedvezményezett a jogorvoslati kérelmet határidőn túl nyújtotta be,
 
@@ -12,7 +12,7 @@ e) a jogorvoslati kérelem nem tartalmazza a megsértett jogszabályban, felhív
 
 f) a kedvezményezett a jogorvoslati kérelmet a 414. § (1) bekezdés c) pontja alapján lefolytatott szabálytalansági eljárásban hozott szabálytalansági döntés ellen nyújtja be, kivéve, ha a jogorvoslati kérelemben új, a korábbi eljárás során nem vizsgált tényre, adatra, körülményre hivatkozik.
 
-(2)[^286] Az (1) bekezdés a) pontja szerinti esetben a jogorvoslati kérelem nem utasítható el, ha a kedvezményezett a jogorvoslati kérelem benyújtására nyitva álló határidőben a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóságnál nyújtotta be.
+(2)[^347] Az (1) bekezdés a) pontja szerinti esetben a jogorvoslati kérelem nem utasítható el, ha a kedvezményezett a jogorvoslati kérelem benyújtására nyitva álló határidőben a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóságnál nyújtotta be.
 
-[^285]: A 408. § (1) bekezdés nyitó szövegrésze a 123/2023. (IV. 12.) Korm. rendelet 20. § 23. pontja szerint módosított szöveg.
-[^286]: A 408. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 24. pontja szerint módosított szöveg.
+[^346]: A 408. § (1) bekezdés nyitó szövegrésze a 123/2023. (IV. 12.) Korm. rendelet 20. § 23. pontja szerint módosított szöveg.
+[^347]: A 408. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 24. pontja szerint módosított szöveg.

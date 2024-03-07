@@ -28,8 +28,8 @@ f) szakmai elvárásait
 
 egyedi kormányhatározat állapítja meg.
 
-(4)[^115]
+(4)[^117]
 
 (5) Területi kiválasztási eljárásrend esetén a (2) bekezdés szerinti kormányhatározat a tématerületeket és az azok keretében meghirdetni tervezett felhívások keretösszegét határozza meg.
 
-[^115]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
+[^117]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.

@@ -20,11 +20,13 @@
 
 8. jogszerű állapot helyreállítása: a kifogásnak helyt adó döntés nyomán a jogsértő eljárási cselekmény jogszabálynak, a felhívásnak, a támogatási szerződésnek és a kifogás tárgyában hozott döntésnek megfelelő megismétlése,
 
+8a.[^3] kis támogatási összegű bizonylat: szállítói szerződéshez kapcsolódó, a felhívásban meghatározott támogatási összeget meg nem haladó összegű, összesítőn el nem számolható bizonylat,
+
 9. kitöltőprogram: a www.palyazat.gov.hu oldalon elérhető, a támogatási kérelem kitöltését és beadását támogató felület,
 
 10. konzorcium: több kedvezményezett támogatásával megvalósuló projekt esetén a tagok polgári jogi szerződésben szabályozott munkamegosztásán alapuló együttműködése a projekt közös megvalósítása, valamint ennek érdekében közös gazdasági érdekeik előmozdítása és erre irányuló tevékenységük összehangolása céljából,
 
-11.[^3] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
+11.[^4] közszféra szervezet: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése alapján ajánlatkérőnek minősülő szervezet, a nevelési-oktatási, kulturális, felsőoktatási, szociális, egészségügyi, gyermek- és ifjúságvédelmi intézményt érintő projektje vonatkozásában az egyházi jogi személy, továbbá a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 38/A. §-a szerinti szervezet,
 
 12. négy szem elve: valamely személy munkájának egy másik személy általi, ugyanazon szempontok szerint történő, teljes körű ellenőrzése,
 
@@ -34,15 +36,17 @@
 
 15. projekt fizikai befejezése: a projekt keretében támogatott tevékenységnek a felhívás és a támogatási szerződés szerinti végrehajtása,
 
-16.[^4] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló jóváhagyását követően a záró kifizetési kérelem jóváhagyása és a támogatás kifizetése az irányító hatóság által,
+16.[^5] projektmegvalósítás irányító hatóság általi befejezése: a projekt keretében támogatott tevékenységek végrehajtását igazoló záró beszámoló jóváhagyását követően a záró kifizetési kérelem jóváhagyása és a támogatás kifizetése az irányító hatóság által,
 
 17. projekt pénzügyi befejezése: a projekt fizikai befejezését követően a projekt végrehajtása során keletkezett bizonylatok kiegyenlítése,
 
-18.[^5] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
+18.[^6] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában ekként meghatározottak, továbbá nemzeti jogszabály vagy támogatási szerződés, pénzügyi eszköz esetén végső kedvezményezettel vagy a pénzügyi közvetítővel kötött szerződés alapján a kedvezményezettet vagy a végső kedvezményezettet terhelő kötelezettségek megsértése, amely alapján Magyarország pénzügyi érdekei sérülnek vagy sérülhetnek,
 
 19. szabálytalansági gyanú: szabálytalanság elkövetésére utaló tények, körülmények vagy dokumentumok, amelyek alapján megalapozottan lehet következtetni a szabálytalanság tényállási elemeinek fennállására,
 
 20. szakaszolt projekt: több programozási időszak forrásaiból finanszírozott projekt,
+
+20a.[^7] szállítói szerződés: a kedvezményezett és a szállító között létrejött, a projekt megvalósítása érdekében kötött szerződés, közbeszerzés esetén a közbeszerzési eljárás eredményeként kötött szerződés, keretmegállapodás alkalmazása esetén az ajánlatkérő általi közvetlen megrendelés, továbbá a visszaigazolt írásbeli megrendelés,
 
 21. teljesítmény-keretrendszer: indikátorokon alapuló, prioritásszintű mérési rendszer, amelynek célja, hogy az egyes prioritásokban kitűzött célok megvalósuljanak,
 
@@ -50,6 +54,8 @@
 
 [^1]: A 3. § 5. pontja az 562/2021. (X. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^2]: A 3. § 6. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
-[^3]: A 3. § 11. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
-[^4]: A 3. § 16. pontja a 195/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^5]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
+[^3]: A 3. § 8a. pontját a 48/2024. (III. 4.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^4]: A 3. § 11. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^5]: A 3. § 16. pontja a 195/2023. (V. 22.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^6]: A 3. § 18. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 2. pontja szerint módosított szöveg.
+[^7]: A 3. § 20a. pontját a 48/2024. (III. 4.) Korm. rendelet 4. § (2) bekezdése iktatta be.

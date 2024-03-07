@@ -1,11 +1,14 @@
-## 50. A közbeszerzési eljárás eredményeként megkötött szerződés módosításának ellenőrzése
+## 50.[^178] A közbeszerzési eljárás eredményeként megkötött szállítói szerződés módosításának ellenőrzése
 
-196. § (1) Az uniós értékhatárokat el nem érő becsült értékű, valamint építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő becsült értékű közbeszerzési eljárás eredményeként megkötött szerződés módosítása esetén az irányító hatóság utóellenőrzést folytat le.
+196. § (1)[^179] Az uniós értékhatárokat el nem érő becsült értékű, valamint építési beruházás, építési koncesszió esetén a háromszázmillió forintot el nem érő becsült értékű közbeszerzési eljárás eredményeként megkötött szállítói szerződés módosítása esetén – ide nem értve a Kbt. 141. § (4) bekezdés a) pontja szerinti szerződésmódosítást – az irányító hatóság utóellenőrzést folytat le.
 
-(2)[^163] A kedvezményezett a szerződést, a szerződésmódosítást és a szerződésmódosítás jogszerűségét alátámasztó dokumentumokat a szerződésmódosítást követő tizenöt munkanapon belül megküldi az irányító hatóság részére.
+(2)[^180] A kedvezményezett a szállítói szerződést, a szállítói szerződés módosítását és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a szállítói szerződés módosítását követő tizenöt munkanapon belül megküldi az irányító hatóság részére.
 
 (3) Az irányító hatóság a (2) bekezdés szerinti dokumentumokat a 180. § (2) és (3) bekezdése szerint ellenőrzi.
 
-(4) Ha a kedvezményezett a szerződésmódosítás utóellenőrzését nem vagy nem határidőben kezdeményezte, az irányító hatóság a dokumentumokat az (1)–(3) bekezdés szerint ellenőrzi, a 179. § (1)–(4) bekezdése alkalmazása mellett.
+(4)[^181] Ha a kedvezményezett a szállítói szerződés módosítása utóellenőrzését nem vagy nem határidőben kezdeményezte, az irányító hatóság a dokumentumokat az (1)–(3) bekezdés szerint ellenőrzi, a 179. § (1)–(4) bekezdése alkalmazása mellett.
 
-[^163]: A 196. § (2) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^178]: Az 50. alcím címe a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^179]: A 196. § (1) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^180]: A 196. § (2) bekezdése a 48/2024. (III. 4.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^181]: A 196. § (4) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 20. pontja szerint módosított szöveg.

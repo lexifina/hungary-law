@@ -24,8 +24,8 @@ h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költsége
 
 i) az elszámolásra benyújtott költségek szokásos piaci árnak való megfelelését, azzal, hogy az irányító hatóság köteles az ellenőrzést alátámasztó dokumentumot a monitoring és információs rendszerben rögzíteni.
 
-(3)[^229] Az irányító hatóság a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a horizontális követelmények érvényesítését folyamatosan, de legkésőbb a záró kifizetési kérelem jóváhagyásáig ellenőrzi.
+(3)[^281] Az irányító hatóság a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a horizontális követelmények érvényesítését folyamatosan, de legkésőbb a záró kifizetési kérelem jóváhagyásáig ellenőrzi.
 
 (4) A folyamatba épített ellenőrzést dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzés eredményét, valamint szabálytalansági gyanú és hiányosság feltárása esetén a megtett intézkedéseket.
 
-[^229]: A 301. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^281]: A 301. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 22. pontja szerint módosított szöveg.

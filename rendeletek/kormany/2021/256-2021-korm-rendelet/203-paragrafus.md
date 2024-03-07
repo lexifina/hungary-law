@@ -4,8 +4,11 @@
 
 (3) A kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat, vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi a közbeszerzésekért felelős miniszter részére.
 
-(4) A közbeszerzésekért felelős miniszter az (1) bekezdés szerinti határidőben a kedvezményezett részére a szerződésmódosítás ellenőrzéséről tanúsítványt állít ki.
+(4)[^193] A közbeszerzésekért felelős miniszter az (1) bekezdés szerinti határidőben a kedvezményezett részére a szállítói szerződés módosítása ellenőrzéséről tanúsítványt állít ki.
 
 (5) Ha a tanúsítvány alapján a dokumentumok módosítása szükséges, a kedvezményezett a módosított dokumentumokat a tanúsítvány kézhezvételét követő három munkanapon belül megküldi a közbeszerzésekért felelős miniszter részére.
 
-(6) A kedvezményezett a szerződésmódosítást az aláírását követő három munkanapon belül megküldi az irányító hatóság és a közbeszerzésekért felelős miniszter részére.
+(6)[^194] A kedvezményezett a szállítói szerződés módosítását az aláírását követő három munkanapon belül megküldi az irányító hatóság és a közbeszerzésekért felelős miniszter részére.
+
+[^193]: A 203. § (4) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 27. pontja szerint módosított szöveg.
+[^194]: A 203. § (6) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 28. pontja szerint módosított szöveg.

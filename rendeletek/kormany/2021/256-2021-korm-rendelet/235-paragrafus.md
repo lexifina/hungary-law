@@ -1,4 +1,4 @@
-235. § (1)[^184] A projekt keretében valós költség alapon
+235. § (1)[^220] A projekt keretében valós költség alapon
 
 a) projekt-előkészítésre, tervezésre az összes elszámolható költség legfeljebb 7%-a,
 
@@ -16,7 +16,7 @@ g) tájékoztatásra, a nyilvánosság biztosítására az összes elszámolhat�
 
 h) könyvvizsgálatra az összes elszámolható költség legfeljebb 0,5%-a,
 
-i)[^185] általános költségekre az összes elszámolható költség legfeljebb 2%-a
+i)[^221] általános költségekre az összes elszámolható költség legfeljebb 2%-a
 
 számolható el.
 
@@ -24,12 +24,12 @@ számolható el.
 
 (3) Az irányító hatóság az (1) bekezdés szerinti százalékos mértékeket szűkítheti a felhívás céljának figyelembevételével.
 
-(4)[^186] Az (1) bekezdés szerinti százalékos mérték a projektmegvalósítás irányító hatóság általi befejezésekor – a műszaki-szakmai tartalom csökkenésével nem járó – projektszintű megtakarítás eredményeként átléphető, azzal, hogy az egyes költségtípusokra megállapított összeg nem növekedhet. Közösségi jogszabályban vagy az (1) bekezdésben nem szabályozott százalékos mérték túllépését az irányító hatóság engedélyezi.
+(4)[^222] Az (1) bekezdés szerinti százalékos mérték a projektmegvalósítás irányító hatóság általi befejezésekor – a műszaki-szakmai tartalom csökkenésével nem járó – projektszintű megtakarítás eredményeként átléphető, azzal, hogy az egyes költségtípusokra megállapított összeg nem növekedhet. Közösségi jogszabályban vagy az (1) bekezdésben nem szabályozott százalékos mérték túllépését az irányító hatóság engedélyezi.
 
 (5) Ha a projekt fő célja az (1) bekezdés szerinti költségtípusok valamelyikének elszámolása, az adott költségtípus elszámolhatósága vonatkozásában megállapított százalékos korlátot nem kell alkalmazni.
 
 (6) Tőkebefektetés esetén a céltársaságba befektetett összegre az (1) és (2) bekezdés szerinti százalékos korlátokat nem kell alkalmazni.
 
-[^184]: A 235. § (1) bekezdés nyitó szövegrésze az 562/2021. (X. 1.) Korm. rendelet 36. § 18. pontja szerint módosított szöveg.
-[^185]: A 235. § (1) bekezdés i) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 15. pontja szerint módosított szöveg.
-[^186]: A 235. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^220]: A 235. § (1) bekezdés nyitó szövegrésze az 562/2021. (X. 1.) Korm. rendelet 36. § 18. pontja szerint módosított szöveg.
+[^221]: A 235. § (1) bekezdés i) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 15. pontja szerint módosított szöveg.
+[^222]: A 235. § (4) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 16. pontja szerint módosított szöveg.

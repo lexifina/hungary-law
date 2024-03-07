@@ -4,15 +4,15 @@ a) 25%-a, azzal, hogy természetes személy, mikro-, kis- és középvállalkoz�
 
 b) 50%-a kutatás-fejlesztés esetén,
 
-c)[^197] 50%-a a 88. § szerinti felhívás esetén,
+c)[^236] 50%-a a 88. § szerinti felhívás esetén,
 
-d)[^198] 100%-a a 251. § (1) bekezdése szerinti esetben.
+d)[^237] 100%-a a 251. § (1) bekezdése szerinti esetben.
 
-(2)[^199] A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja az államháztartásért felelős miniszter egyetértésével az (1) bekezdés a) és b) pontja szerinti százalékos mértéket, illetve összeghatárt megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projekt esetén az irányító hatóság – a magasabb mértékű, illetve összegű támogatási előleg szükségességét megalapozottan indokolja, a támogatási előleg kifizetése ütemezését alátámasztó likviditási tervet készít, valamint az európai uniós forrásból nyújtott költségvetési támogatás kezelésére a kincstárnál külön fizetési számlával rendelkezik.
+(2)[^238] A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja az államháztartásért felelős miniszter egyetértésével az (1) bekezdés a) és b) pontja szerinti százalékos mértéket, illetve összeghatárt megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projekt esetén az irányító hatóság – a magasabb mértékű, illetve összegű támogatási előleg szükségességét megalapozottan indokolja, a támogatási előleg kifizetése ütemezését alátámasztó likviditási tervet készít, valamint az európai uniós forrásból nyújtott költségvetési támogatás kezelésére a kincstárnál külön fizetési számlával rendelkezik.
 
-(3)[^200] Az irányító hatóság az (1) bekezdés c) pontja szerinti esetben a kedvezményezett részére – annak indokolt kérelme alapján – további támogatási előleget adhat.
+(3)[^239] Az irányító hatóság az (1) bekezdés c) pontja szerinti esetben a kedvezményezett részére – annak indokolt kérelme alapján – további támogatási előleget adhat.
 
-[^197]: A 253. § (1) bekezdés c) pontja a 195/2023. (V. 22.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^198]: A 253. § (1) bekezdés d) pontját a 195/2023. (V. 22.) Korm. rendelet 53. § (1) bekezdése iktatta be, szövege a 416/2023. (VIII. 31.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^199]: A 253. § (2) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^200]: A 253. § (3) bekezdését a 195/2023. (V. 22.) Korm. rendelet 53. § (2) bekezdése iktatta be.
+[^236]: A 253. § (1) bekezdés c) pontja a 195/2023. (V. 22.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^237]: A 253. § (1) bekezdés d) pontját a 195/2023. (V. 22.) Korm. rendelet 53. § (1) bekezdése iktatta be, szövege a 416/2023. (VIII. 31.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^238]: A 253. § (2) bekezdése a 416/2023. (VIII. 31.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^239]: A 253. § (3) bekezdését a 195/2023. (V. 22.) Korm. rendelet 53. § (2) bekezdése iktatta be.

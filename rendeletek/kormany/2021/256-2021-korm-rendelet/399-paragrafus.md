@@ -1,8 +1,8 @@
 399. § (1) Az irányító hatóság a szabálytalansági döntésről öt napon belül értesíti a kedvezményezettet.
 
-(2)[^277] Rendszerszintű szabálytalanság esetén az irányító hatóság haladéktalanul értesíti az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium belső ellenőrzésekért felelős szervezeti egységét, a minisztert, a Belső Ellenőrzési és Integritási Igazgatóságot, az audit hatóságot és az igazoló hatóságot.
+(2)[^338] Rendszerszintű szabálytalanság esetén az irányító hatóság haladéktalanul értesíti az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium belső ellenőrzésekért felelős szervezeti egységét, a minisztert, a Belső Ellenőrzési és Integritási Igazgatóságot, az audit hatóságot és az igazoló hatóságot.
 
-(3)[^278] Az egyezmény 1. cikk (1) bekezdése szerinti szabálytalanság esetén az irányító hatóság az ügyet csalás gyanújaként minősíti, feljelentést tesz, erről a minisztert, valamint a Belső Ellenőrzési és Integritási Igazgatóságot tájékoztatja és az OLAF-jelentést megküldi.
+(3)[^339] Az egyezmény 1. cikk (1) bekezdése szerinti szabálytalanság esetén az irányító hatóság az ügyet csalás gyanújaként minősíti, feljelentést tesz, erről a minisztert, valamint a Belső Ellenőrzési és Integritási Igazgatóságot tájékoztatja és az OLAF-jelentést megküldi.
 
-[^277]: A 399. § (2) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 28. pontja, a 123/2023. (IV. 12.) Korm. rendelet 20. § 15. pontja, a 640/2023. (XII. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^278]: A 399. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^338]: A 399. § (2) bekezdése a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 28. pontja, a 123/2023. (IV. 12.) Korm. rendelet 20. § 15. pontja, a 640/2023. (XII. 28.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^339]: A 399. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 11. §[^19] A miniszter pénzügyi feladatai keretében
+## 11. §[^21] A miniszter pénzügyi feladatai keretében
 
 a) forrást biztosít a programok központi kezelésű előirányzat-felhasználási keretszámláin,
 
@@ -8,7 +8,7 @@ c) gondoskodik a közreműködő szervezetek által ellátott feladatok finansz�
 
 d) biztosítja a fejlesztéspolitikai intézményrendszer működéséhez szükséges finanszírozási forrásokat, ideértve a technikai segítségnyújtást is, valamint biztosítja azok egységes felhasználását, a teljesítménymérést,
 
-e)[^20]
+e)[^22]
 
-[^19]: A 11. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^20]: A 11. § e) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 1. pontja hatályon kívül helyezte.
+[^21]: A 11. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^22]: A 11. § e) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 1. pontja hatályon kívül helyezte.

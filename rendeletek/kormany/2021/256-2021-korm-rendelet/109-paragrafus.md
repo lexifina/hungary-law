@@ -2,9 +2,9 @@
 
 (2) Az értékelő az értékelésre vonatkozóan nem utasítható.
 
-(3)[^128]
+(3)[^130]
 
-(4)[^129]
+(4)[^131]
 
-[^128]: A 109. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
-[^129]: A 109. § (4) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^130]: A 109. § (3) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
+[^131]: A 109. § (4) bekezdését a 75/2022. (III. 3.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.

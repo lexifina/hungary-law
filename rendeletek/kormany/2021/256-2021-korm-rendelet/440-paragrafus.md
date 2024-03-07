@@ -10,8 +10,10 @@
 
 (2) A helyszíni ellenőrzés a támogatási szerződés megkötése után rendelhető el.
 
-(3) Projektfejlesztés esetén a projektfejlesztést lezáró szerződésmódosítás hatálybalépéséig nem kötelező a helyszíni ellenőrzés lefolytatása.
+(3)[^371] Projektfejlesztés esetén a támogatási szerződés projektfejlesztést lezáró módosítása hatálybalépéséig nem kötelező a helyszíni ellenőrzés lefolytatása.
 
 (4) Az első helyszíni ellenőrzésnek az elszámolhatóság felhívás szerinti kezdetétől, egyéb esetben az előző helyszíni ellenőrzés által vizsgált időszak végétől számított időszakot kell lefednie.
 
 (5) A kedvezményezett vonatkozásában több intézkedés keretében felmerülő helyszíni ellenőrzéseket egy időpontban is le lehet folytatni.
+
+[^371]: A 440. § (3) bekezdése a 48/2024. (III. 4.) Korm. rendelet 24. §-ával megállapított szöveg.
