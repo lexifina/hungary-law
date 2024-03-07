@@ -1,5 +1,3 @@
-8. § Hatályát veszti a Miniszterelnökséget érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 18/2022. (XI. 9.) MVM rendelet
+8. §[^2]
 
-a) 1. § c) pontja,
-
-b) 1. melléklet 2–4. pontja.
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
