@@ -1,4 +1,4 @@
-100. § (1)[^657] A támogatást igénylő, illetve a kedvezményezett a szerződésmódosítást, valamint a szerződésmódosítást alátámasztó valamennyi dokumentumot a szerződésmódosítást követő tizenöt munkanapon belül utóellenőrzés céljából megküldi az irányító hatóság részére. Az irányító hatóság a dokumentumok beérkezését követő tizenöt munkanapon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
+100. § (1)[^657] A támogatást igénylő, illetve a kedvezményezett – a Kbt. 141. § (4) bekezdés a) pontja szerinti szerződésmódosítás kivételével – a szerződésmódosítást, valamint a szerződésmódosítást alátámasztó valamennyi dokumentumot a szerződésmódosítást követő tizenöt munkanapon belül utóellenőrzés céljából megküldi az irányító hatóság részére. Az irányító hatóság a dokumentumok beérkezését követő tizenöt munkanapon belül elvégzi a közbeszerzési-jogi és elszámolhatósági szempontú ellenőrzést.
 
 (2) Ha a kedvezményezett a szerződésmódosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja az irányító hatóságot, az irányító hatóság az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
@@ -10,7 +10,7 @@
 
 (6)[^660] Szabálytalansági eljárás lefolytatásának kezdeményezése esetén a szabálytalansági gyanú elutasításáról szóló vagy a szabálytalansági eljárást lezáró döntés tartalma az irányadó a támogatás folyósítása tekintetében.
 
-[^657]: A 100. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 115. pontja, a 195/2023. (V. 22.) Korm. rendelet 16. § (1) bekezdés 13. pontja szerint módosított szöveg.
+[^657]: A 100. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 115. pontja, a 195/2023. (V. 22.) Korm. rendelet 16. § (1) bekezdés 13. pontja, a 48/2024. (III. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^658]: A 100. § (3) bekezdése a 182/2019. (VII. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^659]: A 100. § (5) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 23. pontja szerint módosított szöveg.
 [^660]: A 100. § (6) bekezdése a 153/2019. (VI. 26.) Korm. rendelet 16. §-ával megállapított szöveg.

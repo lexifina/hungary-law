@@ -103,3 +103,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-272-20-
 | 2023-11-25 | 2014-272-20-22.97 | 513/2023. (XI. 22.) Korm. rendelet |
 | 2023-12-17 | 2014-272-20-22.98 | 565/2023. (XII. 14.) Korm. rendelet |
 | 2024-01-01 | 2014-272-20-22.99 | 599/2023. (XII. 22.) Korm. rendelet |
+| 2024-03-07 | 2014-272-20-22.100 | 416/2023. (VIII. 31.) Korm. rendelet |

@@ -1,4 +1,4 @@
-108. § (1)[^709] A támogatást igénylő, illetve a kedvezményezett az uniós értékhatárokat elérő vagy meghaladó becsült értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó becsült értékű közbeszerzési eljárás alapján megkötött szerződés módosításával kapcsolatban – a módosításra vonatkozó megállapodás megkötését megelőzően – az irányító hatóság és azt követően a közbeszerzésekért felelős miniszter írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi az irányító hatóság részére.
+108. § (1)[^709] A támogatást igénylő, illetve a kedvezményezett – a Kbt. 141. § (4) bekezdés a) pontja szerinti szerződésmódosítás kivételével – az uniós értékhatárokat elérő vagy meghaladó becsült értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a háromszázmillió forintot elérő vagy meghaladó becsült értékű közbeszerzési eljárás alapján megkötött szerződés módosításával kapcsolatban – a módosításra vonatkozó megállapodás megkötését megelőzően – az irányító hatóság és azt követően a közbeszerzésekért felelős miniszter írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi az irányító hatóság részére.
 
 (1a)[^710] Ha a közbeszerzési eljárás alapján megkötött szerződés módosítása azért válik szükségessé, mert a támogatási szerződésben módosult a szerződéssel érintett projektelem finanszírozási módja, akkor a közbeszerzési eljárás alapján megkötött szerződésnek kizárólag a finanszírozási módra vonatkozó, a támogatási szerződésnek megfelelő módosítására az (1) bekezdést nem kell alkalmazni. A kedvezményezett a szerződésmódosításról 15 napon belül tájékoztatja az irányító hatóságot az alátámasztó dokumentumok megküldésével.
 
@@ -34,7 +34,7 @@ c) az a) és b) pontban foglaltakra együttesen
 
 irányul.
 
-[^709]: A 108. § (1) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 36. pontja szerint módosított szöveg.
+[^709]: A 108. § (1) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 36. pontja, a 48/2024. (III. 4.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^710]: A 108. § (1a) bekezdését a 24/2017. (II. 3.) Korm. rendelet 15. §-a iktatta be, szövege a 153/2019. (VI. 26.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^711]: A 108. § (1b) bekezdését a 24/2017. (II. 3.) Korm. rendelet 15. §-a iktatta be.
 [^712]: A 108. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 125. pontja szerint módosított szöveg.
