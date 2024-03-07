@@ -1,3 +1,3 @@
-3. § A Rendelet I. Fejezete a következő 5/A. §-sal egészül ki:
+3. §[^4]
 
-„5/A. § Az elismerési javaslatokat a Közigazgatási Államtitkár szakmai irányításával működő Kitüntetési Bizottság is véleményezi, amelynek a működését ügyrend szabályozza.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

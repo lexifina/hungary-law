@@ -1,7 +1,3 @@
-5. § A Rendelet
+5. §[^6]
 
-a) 1. § (2) bekezdésében az „e) pontjában,” szövegrész helyébe az „e) és f) pontjában,” szöveg,
-
-b) 19. § (2) bekezdésében a „220” szövegrész helyébe a „235” szöveg
-
-lép.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
