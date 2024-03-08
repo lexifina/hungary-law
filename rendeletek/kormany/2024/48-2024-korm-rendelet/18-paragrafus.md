@@ -1,5 +1,3 @@
-18. § A 256/2021. (V. 18.) Korm. rendelet a következő 289/A. §-sal egészül ki:
+18. §[^19]
 
-„289/A. § (1) Ha a kedvezményezett a záró kifizetési kérelemben kifizethető támogatást vagy előlegelszámolást tartalmazó bizonylatot nyújt be, az irányító hatóság e bizonylatot – a monitoring és információs rendszerben szükséges módosításokat követően – az időközi kifizetési kérelemre irányadó rendelkezések szerint dolgozza fel.
-
-(2) Az irányító hatóság a záró kifizetési kérelem ellenőrzését az (1) bekezdés szerinti időközi kérelem ellenőrzésének és jóváhagyásának időtartamára felfüggeszti.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

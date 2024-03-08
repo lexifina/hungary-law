@@ -1,3 +1,3 @@
-24. § A 256/2021. (V. 18.) Korm. rendelet 440. § (3) bekezdése helyébe a következő rendelkezés lép:
+24. §[^25]
 
-„(3) Projektfejlesztés esetén a támogatási szerződés projektfejlesztést lezáró módosítása hatálybalépéséig nem kötelező a helyszíni ellenőrzés lefolytatása.”
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

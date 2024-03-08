@@ -1,3 +1,3 @@
-8. § A 256/2021. (V. 18.) Korm. rendelet 198. § (1) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(1) A kedvezményezett a szállítói szerződést, a szállítói szerződés módosítását és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a szállítói szerződés módosítását követő öt munkanapon belül megküldi az irányító hatóság részére utóellenőrzés céljából.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-32. § Hatályát veszti a 256/2021. (V. 18.) Korm. rendelet
+32. §[^33]
 
-a) 236. § (4) bekezdése,
-
-b) 291. §-ában a „vagy annak egy része” szövegrész.
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

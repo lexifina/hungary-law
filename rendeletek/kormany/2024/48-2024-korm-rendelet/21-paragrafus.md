@@ -1,5 +1,3 @@
-21. § A 256/2021. (V. 18.) Korm. rendelet 330. § (1) bekezdés a) pont ac) alpontja helyébe a következő rendelkezés lép:
+21. §[^22]
 
-(Pénzügyi zárás akkor végezhető, ha a projekttel összefüggésben nincs folyamatban)
-
-„ac) a támogatási szerződés módosítása,”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

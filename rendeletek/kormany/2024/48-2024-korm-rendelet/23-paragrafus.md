@@ -1,3 +1,3 @@
-23. § A 256/2021. (V. 18.) Korm. rendelet 437. §-a a következő (1a) bekezdéssel egészül ki:
+23. §[^24]
 
-„(1a) Az irányító hatóság a követelést behajthatatlannak minősíti, ha a követelés elévült.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
