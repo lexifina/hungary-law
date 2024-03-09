@@ -10,4 +10,6 @@
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Csontos László szobrászművész alkotása, egyoldalas, Károli Gáspár domború arcképét ábrázolja születési és halálozási dátummal (1529k.–1591), és azon „KÁROLI GÁSPÁR-DÍJ” felirat található.
 
-(5) A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom az elismerés adományozásának időpontjában irányadó, a Magyarország központi költségvetéséről szóló törvényben meghatározott közszolgálati tisztviselői illetményalap (a továbbiakban: illetményalap) tizenkétszeresének megfelelő összeg.
+(5)[^1] A díjhoz 1 000 000 forint összegű pénzjutalom jár.
+
+[^1]: A 10. § (5) bekezdése a 2/2024. (III. 8.) TNM rendelet 1. §-ával megállapított szöveg.

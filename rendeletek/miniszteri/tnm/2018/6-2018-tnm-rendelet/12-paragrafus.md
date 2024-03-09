@@ -6,4 +6,6 @@
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Gáti Gábor szobrászművész alkotása, kétoldalas, előlapja Scheiber Sándor domború arcképét ábrázolja születési és halálozási dátummal (1913–1985), és azon „SCHEIBER SÁNDOR-DÍJ” felirat található, hátlapját magyarul és héberül az „EMLÉKEZZ” szó díszíti.
 
-(5) A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom az illetményalap tizenkétszeresének megfelelő összeg.
+(5)[^3] A díjhoz 1 000 000 forint összegű pénzjutalom jár.
+
+[^3]: A 12. § (5) bekezdése a 2/2024. (III. 8.) TNM rendelet 3. §-ával megállapított szöveg.

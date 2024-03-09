@@ -6,4 +6,6 @@
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap. Az emlékérem kerek alakú, bronzból készült, átmérője 80 mm, vastagsága 8 mm. Az emlékérem Király Vilmos szobrászművész alkotása, egyoldalas, Fraknói Vilmos domború arcképét ábrázolja születési és halálozási dátummal (1843–1924), és azon „FRAKNÓI VILMOS-DÍJ” felirat található.
 
-(5) A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom az illetményalap tizenkétszeresének megfelelő összeg.
+(5)[^2] A díjhoz 1 000 000 forint összegű pénzjutalom jár.
+
+[^2]: A 11. § (5) bekezdése a 2/2024. (III. 8.) TNM rendelet 2. §-ával megállapított szöveg.

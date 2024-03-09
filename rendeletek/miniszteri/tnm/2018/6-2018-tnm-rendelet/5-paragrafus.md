@@ -12,6 +12,6 @@ c) a korábbi elismeréseivel összefüggő és
 
 d) az elismerés elfogadásáról szóló
 
-## nyilatkozatot tesz.
+nyilatkozatot tesz.
 
 (4) Az elismerések posztumusz nem adományozhatóak.
