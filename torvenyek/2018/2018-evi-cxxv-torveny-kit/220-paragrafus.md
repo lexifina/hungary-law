@@ -2,7 +2,7 @@
 
 (1) Miniszterelnöki biztossá
 
-a) miniszter, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
+a) miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár vagy helyettes államtitkár, továbbá
 
 b) az a) pont hatálya alá nem tartozó személy
 

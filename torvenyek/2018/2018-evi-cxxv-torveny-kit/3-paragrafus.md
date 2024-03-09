@@ -24,9 +24,11 @@ a) a miniszterelnök,
 
 b) a miniszter,
 
-c) a miniszterelnök politikai igazgatója és
+c) a miniszterelnök politikai igazgatója,
 
-d) az államtitkár.
+d) a miniszterelnök nemzetbiztonsági főtanácsadója és
+
+e) az államtitkár.
 
 (4) Politikai vezető a főispán.
 

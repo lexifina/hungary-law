@@ -16,13 +16,15 @@ d) az államtitkári kabinetben vagy – ennek hiányában – az államtitkári
 
 e) a politikai igazgatói kabineten és a Politikai Igazgatói Irodán a miniszterelnök politikai igazgatójának tevékenységéhez
 
+f) a nemzetbiztonsági főtanácsadói kabinetben és titkárságon, valamint a Nemzetbiztonsági Irodán a miniszterelnök nemzetbiztonsági főtanácsadójának tevékenységéhez
+
 közvetlenül kapcsolódó feladatok ellátására teljesíthet szolgálatot.
 
-(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója vagy az államtitkár hatáskörgyakorlása idejére szól.
+(2) A politikai tanácsadó kinevezése a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója vagy az államtitkár megbízatásának idejére, vagy a megbízatás megszűnése esetén a miniszterelnök, a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója vagy az államtitkár hatáskörgyakorlása idejére szól.
 
 (2a) A 104. § (1) bekezdés c) pontjában meghatározott életkori korlát alól a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter felmentést adhat a politikai tanácsadó tekintetében.
 
-(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon, a politikai igazgatói kabinetben és a Politikai Igazgatói Irodán legfeljebb 8 politikai tanácsadói álláshely létesíthető.
+(3) A miniszteri kabinetben legfeljebb 15, az államtitkári kabinetben vagy – ennek hiányában – az államtitkári titkárságon, a politikai igazgatói kabinetben és a Politikai Igazgatói Irodán, valamint a nemzetbiztonsági főtanácsadói kabinetben és a Nemzetbiztonsági Irodán legfeljebb 8 politikai tanácsadói álláshely létesíthető.
 
 (4) A politikai tanácsadó politikai szolgálati jogviszonyára a jelen fejezetben foglalt eltérésekkel e törvénynek a kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell alkalmazni.
 

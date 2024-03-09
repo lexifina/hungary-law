@@ -10,4 +10,4 @@
 
 (5) Az államtitkári cím használata során utalni kell az államtitkárnak a minisztérium szervezeti és működési szabályzata szerinti feladatkörére.
 
-(6) A Kormány az eredeti jogalkotói hatáskörben kiadott rendeletében a nemzetbiztonsági főtanácsadói feladatok ellátására kijelölhet egy államtitkárt.
+(6)
