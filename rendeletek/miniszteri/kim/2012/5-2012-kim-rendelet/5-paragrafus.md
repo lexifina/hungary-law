@@ -18,7 +18,7 @@
 
 (9) A kedvezményezettnek az Alap terhére kifizetés
 
-a)[^55] a Civil tv. 56. § (1) bekezdés c) és h) pontjában meghatározott tevékenységéhez nyújtott támogatás, ha e tevékenysége európai uniós versenyjogi értelemben gazdasági tevékenységnek minősül az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet rendelkezéseivel
+a)[^55] a Civil tv. 56. § (1) bekezdés c) és h) pontjában meghatározott tevékenységéhez nyújtott támogatás, ha e tevékenysége európai uniós versenyjogi értelemben gazdasági tevékenységnek minősül az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet rendelkezéseivel
 
 b)[^56] a Civil tv. 56. § (1) bekezdés c) és h) pontjában meghatározott tevékenységéhez nyújtott támogatás az Európai Bizottság SA.34770 (2012/N-2) számú határozatával meghosszabbított N 357/2007. számú bizottsági határozat szabályaival összhangban biztosítható.
 
@@ -29,5 +29,5 @@ b)[^56] a Civil tv. 56. § (1) bekezdés c) és h) pontjában meghatározott tev
 [^52]: Az 5. § (6) bekezdése a 31/2014. (IV. 14.) EMMI rendelet 2. § (1) bekezdésével megállapított, az 52/2015. (XI. 18.) EMMI rendelet 10. § 10. pontja, a 35/2016. (XI. 30.) EMMI rendelet 13. § d) pontja szerint módosított szöveg.
 [^53]: Az 5. § (7) bekezdését a 31/2014. (IV. 14.) EMMI rendelet 6. § a) pontja hatályon kívül helyezte.
 [^54]: Az 5. § (8) bekezdését a 18/2019. (XII. 17.) MvM rendelet 3. § e) pontja hatályon kívül helyezte.
-[^55]: Az 5. § (9) bekezdés a) pontja a 31/2014. (IV. 14.) EMMI rendelet 2. § (2) bekezdésével megállapított, az 5/2023. (VIII. 30.) MVM rendelet 9. § d) pontja szerint módosított szöveg.
+[^55]: Az 5. § (9) bekezdés a) pontja a 31/2014. (IV. 14.) EMMI rendelet 2. § (2) bekezdésével megállapított, az 5/2023. (VIII. 30.) MVM rendelet 9. § d) pontja, a 2/2024. (III. 8.) MVM rendelet 1. § a) pontja szerint módosított szöveg.
 [^56]: Az 5. § (9) bekezdés b) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § e) pontja szerint módosított szöveg.

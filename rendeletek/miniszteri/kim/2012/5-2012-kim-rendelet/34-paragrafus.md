@@ -18,7 +18,7 @@
 
 (7)[^181] Az olyan pályázatot, amelyre vonatkozó támogatási döntés meghozatalára a Módr. hatálybalépésekor[^182] még nem került sor, a Módr. hatálybalépését megelőző napon hatályos 11. § (5) bekezdése alapján akkor lehet elutasítani, ha annak a Módr.-rel megállapított 11. § (4) bekezdése szerinti esetben helye van, a támogatási szerződés pedig csak akkor köthető meg az igényelt támogatás legalább ötven százalékának megfelelő támogatási összeggel, ha a támogatás igénylője vállalja, hogy a támogatás célját ekként is megvalósítja vagy legalább a megítélt támogatás és az igényelt támogatás kétharmada közötti különbözetet önrész formájában biztosítja.
 
-(8)[^183] A 2020. évi elektori választáson a mandátumigazolásra, a szavazatok rögzítésére és az eredmények összesítésére a 22–23. §-ban foglaltaktól eltérően papíralapú eljárást is lehet alkalmazni.
+(8)[^183] A 2020. évi és az azt követő elektori választáson a mandátumigazolásra, a szavazatok rögzítésére és az eredmények összesítésére a 22–23. §-ban foglaltaktól eltérően papíralapú eljárást is lehet alkalmazni.
 
 [^174]: A 34. § (3) bekezdését a 28/2012. (IX. 18.) EMMI rendelet 6. §-a iktatta be.
 [^175]: A 34. § (4) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 19. §-a iktatta be.
@@ -29,4 +29,4 @@
 [^180]: A hatálybalépés időpontja 2013. december 3.
 [^181]: A 34. § (7) bekezdését a 7/2014. (I. 29.) EMMI rendelet 12. §-a ikatta be.
 [^182]: A hatálybalépés időpontja 2014. január 30.
-[^183]: A 34. § (8) bekezdését a 3/2020. (II. 28.) MvM rendelet 1. §-a iktatta be.
+[^183]: A 34. § (8) bekezdését a 3/2020. (II. 28.) MvM rendelet 1. §-a iktatta be, szövege a 2/2024. (III. 8.) MVM rendelet 1. § b) pontja szerint módosított szöveg.
