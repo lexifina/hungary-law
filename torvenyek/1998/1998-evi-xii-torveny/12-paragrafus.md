@@ -6,7 +6,7 @@ b) az országgyűlési képviselő, a nemzetiségi szószóló és az Európai P
 
 c) az alapvető jogok biztosa és helyettese, a Kúria elnökhelyettese, a legfőbb ügyész és helyettesei, az Alkotmánybíróság tagja, a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke és elnökhelyettese, a Nemzeti Média- és Hírközlési Hatóság elnöke és elnökhelyettese, az Állami Számvevőszék elnöke és alelnökei, a Magyar Nemzeti Bank elnöke és alelnökei;
 
-d) a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
+d) a miniszterelnök, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a miniszter, az államtitkár, a közigazgatási államtitkár és a helyettes államtitkár;
 
 e) a külpolitikáért felelős miniszter által vezetett minisztérium diplomáciai vagy konzuli ranggal rendelkező munkatársa, az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium – európai uniós feladatokat ellátó – diplomáciai ranggal rendelkező munkatársa, Magyarország diplomáciai képviselete diplomáciai személyzetének tagja, Magyarország hivatásos konzuli képviselete konzuli tisztviselője, nemzetközi jogon alapuló diplomáciai kiváltságot és mentességet élvező egyéb személy, diplomáciai és konzuli futár;
 

@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-12-00-00
 | 2023-07-01 | 2023. évi XXVII. törvény | 1998-12-00-00.68 |
 | 2024-01-01 | 2023. évi XC. törvény | 1998-12-00-00.69 |
 | 2024-03-01 | 2023. évi XCVII. törvény | 1998-12-00-00.70 |
+| 2024-03-09 | 2024. évi II. törvény | 1998-12-00-00.71 |
