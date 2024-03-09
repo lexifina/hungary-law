@@ -4,11 +4,11 @@
 
 a) a miniszterelnök e tisztségét legalább két évig betöltötte, és megbízatása az Alaptörvény 20. cikk (2) bekezdés a)–c) pontjában meghatározott okból szűnik meg,
 
-b) a miniszter, a miniszterelnök politikai igazgatója és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
+b) a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg,
 
 a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén pedig háromhavi – illetményével megegyező összegű juttatásra jogosult.
 
-(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter, a miniszterelnök politikai igazgatója és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter, a miniszterelnök politikai igazgatója és az államtitkár özvegyét – özvegy hiányában a miniszter, a miniszterelnök politikai igazgatója és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
+(3) A miniszterelnök halála esetén házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában örökösét, több örökös esetén örököseit – egy összegben a miniszterelnök hathavi illetményének megfelelő összegű juttatás illeti meg. A miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár halála esetén a (2) és (4) bekezdés szerinti juttatás a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár özvegyét – özvegy hiányában a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója és az államtitkár örökösét, több örökös esetén örököseit – illeti meg.
 
 (3a) A miniszterelnök halála esetén a rá tekintettel járó hozzátartozói nyugellátás megállapítása szempontjából a mindenkori miniszterelnöki illetmény havi összegét kell a miniszterelnök öregségi nyugdíjaként figyelembe venni.
 
@@ -16,7 +16,7 @@ a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy �
 
 a) miniszterelnök esetében két évnél,
 
-b) miniszter, a miniszterelnök politikai igazgatója, államtitkár esetén három évnél
+b) miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár esetén három évnél
 
 hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) bekezdésben megjelölt juttatás felére jogosult.
 

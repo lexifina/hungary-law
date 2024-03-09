@@ -4,7 +4,7 @@
 
 ## A törvény hatálya
 
-1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, a miniszterelnök politikai igazgatójára, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
+1. § (1) E törvény hatálya a központi államigazgatási szervekre, a Kormány tagjaira, a miniszterelnök politikai igazgatójára, a miniszterelnök nemzetbiztonsági főtanácsadójára, az államtitkárokra, valamint a biztosi jogviszonyban álló személyekre terjed ki.
 
 (2) Központi államigazgatási szerv
 
