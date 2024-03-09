@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-155-00-00
 | 2023-12-22 | 2023. évi LXXXVIII. törvény | 2009-155-00-00.41 |
 | 2023-12-23 | 2023. évi CIX. törvény | 2009-155-00-00.43 |
 | 2024-03-01 | 2023. évi CIX. törvény | 2009-155-00-00.42 |
+| 2024-03-09 | 2024. évi II. törvény | 2009-155-00-00.44 |
