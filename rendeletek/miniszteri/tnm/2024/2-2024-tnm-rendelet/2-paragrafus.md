@@ -1,3 +1,3 @@
-2. § Az R. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(5) A díjhoz 1 000 000 forint összegű pénzjutalom jár.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
