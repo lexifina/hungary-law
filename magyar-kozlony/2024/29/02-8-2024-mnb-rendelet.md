@@ -1,0 +1,37 @@
+# A Magyar Nemzeti Bank elnökének 8/2024. (III. 11.) MNB rendelete
+
+Magyar Közlöny 2024. évi 29. szám, 2024. március 11. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/8KTalS3esGS1j4PgUHCD65e778d2ea8a6/dokumentumok/e8c7db55bedca6aaf4a2fe9c8cca417c7e8e83af/letoltes)
+
+---
+
+A Magyar Nemzeti Bank elnökének 8/2024. (III. 11.) MNB rendelete
+a„Kincsem”ezüst emlékérme kibocsátásáról
+A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 171. § (1) bekezdés d) pontjában kapott felhatalmazás alapján,
+a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (2) bekezdésében meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. § (1) A Magyar Nemzeti Bank – Kincsem, a magyar versenyló születésének 150. évfordulója alkalmából – „Kincsem”
+megnevezéssel 15 000 forintos címletű ezüst emlékérmét bocsát ki.
+(2) A kibocsátás időpontja: 2024. március 12.
+2. § (1) Az emlékérme fekvő téglalap alakú, 925 ezrelék finomságú ezüstből készült, súlya 31,46 gramm, mérete
+26,4 × 39,6 mm, széle sima.
+(2) Az emlékérme előlapján Kincsem négyéveskori – Emil Adam festőművész pontos méretekkel ellátott rajza
+alapján készült – portréja látható, nyakában babérkoszorúval. A babérkoszorú szalagos bokrétáján, köriratban
+az „54 futamon 54 győzelem”, középen az „54” felirat olvasható. Az előlap szélén, fent, bal oldalon
+a „MAGYARORSZÁG” felirat, alatta, két sorban a „2024” verési évszám és a „BP.” verdejel olvasható, jobb oldalon
+Kereszthury Gábor tervezőművész mesterjegye látható, lent a „15000” értékjelzés és a „FORINT” felirat olvasható.
+Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+(3) Az emlékérme hátlapján Kincsem négyéveskori – Emil Adam festőművész 1878-as festménye alapján készült – teljes
+alakos ábrázolása látható, gazdájával, Blaskovich Ernővel és Kincsemet a versenyekre elkísérő macskával. A hátlap
+szélén, bal oldalon, függőlegesen a„KINCSEM”felirat, jobb oldalon, fent, két vízszintes sorban a„150 ÉVE SZÜLETETT
+A MAGYAR CSODAKANCA”felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
+3. §
+Az emlékérméből 5000 darab készíthető, különleges – ún. proof – technológiával.
+4. §
+Ez a rendelet 2024. március 12-én lép hatályba.
+ Dr. Matolcsy György s. k.,
+ a Magyar Nemzeti Bank elnöke
+
+1. melléklet a 8/2024. (III. 11.) MNB rendelethez
+Az emlékérme előlapjának képe:
+2. melléklet a 8/2024. (III. 11.) MNB rendelethez
+Az emlékérme hátlapjának képe:
