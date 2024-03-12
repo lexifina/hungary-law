@@ -1,3 +1,0 @@
-## V. Fejezet
-
-## IDŐKÖZI VÁLASZTÁS
