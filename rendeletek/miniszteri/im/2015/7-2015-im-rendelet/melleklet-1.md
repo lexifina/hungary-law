@@ -1,6 +1,6 @@
 ## 6. § Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
 
-1. melléklet a 7/2015. (IV. 10.) IM rendelethez[^3]
+1. melléklet a 7/2015. (IV. 10.) IM rendelethez[^4]
 
 A nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
@@ -58,4 +58,7 @@ A nemzetbiztonsági ellenőrzés alá eső személyek meghatározása
 
 1.26. a kormánybiztos, valamint a miniszteri biztos titkárságának valamennyi álláshelye.
 
-[^3]: Az 1. melléklet a 19/2022. (IX. 26.) IM rendelet 7. §-ával megállapított szöveg.
+1.27.[^5] a kormányzati koordinációs feladatokat ellátó szervezeti egység valamennyi álláshelye.
+
+[^4]: Az 1. melléklet a 19/2022. (IX. 26.) IM rendelet 7. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 1. pont 1.27. alpontját a 4/2024. (III. 11.) IM rendelet 1. §-a iktatta be.
