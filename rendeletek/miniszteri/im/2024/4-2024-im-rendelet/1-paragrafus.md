@@ -1,1 +1,3 @@
-1. § Az igazságügyi miniszter feladat- és hatáskörét érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 7/2015. (IV. 10.) IM rendelet 1. melléklete a következő 1.27. ponttal egészül ki:
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
