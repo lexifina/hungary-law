@@ -1,0 +1,1 @@
+44. § Braille-írással ellátott szavazósablont abban a szavazóhelyiségben kell biztosítani, amelynek szavazóköri névjegyzékében olyan választópolgár szerepel, aki legkésőbb 2024. május 31-én 16.00 óráig a Ve. 88. § c) pontja szerinti segítséget igényelte. [Ve. 167. § (5) bekezdés]

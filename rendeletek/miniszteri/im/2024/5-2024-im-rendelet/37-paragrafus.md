@@ -1,0 +1,1 @@
+37. § A Ve. 147/A–147/E. §-a szabályozása alá nem tartozó, országosan – ideértve a kizárólag interneten – elérhető lineáris médiaszolgáltatást nyújtó médiaszolgáltató választásonként legkésőbb 2024. április 20-án 16.00 óráig közli a Nemzeti Választási Bizottsággal, ha biztosítani kívánja politikai reklám közzétételének lehetőségét. [Ve. 147/F. § (1) bekezdés]

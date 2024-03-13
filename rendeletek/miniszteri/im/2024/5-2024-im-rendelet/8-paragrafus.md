@@ -1,0 +1,1 @@
+8. § Amennyiben a helyi választási iroda vezetője a névjegyzéket a Ve. 257/A. §-a szerint több részre osztotta, az érintett szavazatszámláló bizottságba tagot megbízó jelölő szervezet, illetve független jelölt 2024. június 7-én 16.00 óráig további tagokat bízhat meg. [Ve. 245. § (4) bekezdés]

@@ -1,0 +1,1 @@
+7. § A Ve. 78. §-a szerint kijelölt szavazókör szavazatszámláló bizottságát a helyi választási iroda vezetője legkésőbb 2024. június 6-án a szükséges számban további tagokkal egészíti ki, ha a választópolgárok száma meghaladja az ezerötszázat. [Ve. 24. § (6) bekezdés]

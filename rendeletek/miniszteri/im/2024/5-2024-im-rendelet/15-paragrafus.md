@@ -1,0 +1,1 @@
+15. § A nemzetiségi szavazóköri névjegyzékbe azt a választópolgárt kell felvenni, aki legkésőbb 2024. május 31-én 16.00 óráig benyújtott kérelme alapján szerepel nemzetiségi választópolgárként a központi névjegyzékben. [Ve. 314. § (1) bekezdés, 315. §]

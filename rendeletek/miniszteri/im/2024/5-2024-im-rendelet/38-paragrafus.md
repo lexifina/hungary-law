@@ -1,0 +1,1 @@
+38. § 2024. június 8-án a közszolgálati médiaszolgáltató lineáris audiovizuális és rádiós médiaszolgáltatásában az országos nemzetiségi önkormányzati választáson listát állító jelölő szervezetek politikai reklámjait egy-egy alkalommal köteles közzétenni. [Ve. 147/D. §]

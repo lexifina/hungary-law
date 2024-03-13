@@ -1,0 +1,1 @@
+18. § A szavazóköri névjegyzékkel kapcsolatos kérelmet 2024. április 4-től lehet benyújtani. A 2024. április 4. előtt levélben benyújtott mozgóurna iránti kérelmet 2024. április 4-én kell elbírálni. [Ve. 110. § (2) bekezdés]
