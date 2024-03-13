@@ -1,1 +1,0 @@
-## 31. § 2019. október 13-án a közvélemény-kutatást végző személy abba az épületbe, amelyben a szavazóhelyiség van, nem léphet be. Az épületből kilépők megkérdezésével készített közvélemény-kutatás eredményét (exit poll) csak 2019. október 13-án 19.00 óra után szabad nyilvánosságra hozni. [Ve. 150. §]

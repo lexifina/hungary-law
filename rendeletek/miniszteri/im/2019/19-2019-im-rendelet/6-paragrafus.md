@@ -1,1 +1,0 @@
-## 5. § A szavazatszámláló bizottságot a helyi választási iroda vezetője legkésőbb 2019. október 10-én a póttagok közül a szükséges számban további tagokkal egészíti ki, ha az átjelentkező választópolgárok vagy a mozgóurnát igénylő választópolgárok száma azt indokolja. [Ve. 24. § (3) bekezdés]
