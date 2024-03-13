@@ -1,3 +1,3 @@
-26. § (1) Hatályát veszti az Európai Parlament tagjainak 2019. évi választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól, a választási eredmény országosan összesített adatai körének megállapításáról, valamint a választási eljárásban használandó nyomtatványokról, valamint egyes választási tárgyú rendeletek módosításáról szóló 3/2019. (II. 27.) IM rendelet.
+26. §[^2]
 
-(2) Hatályát veszti a helyi önkormányzati képviselők és polgármesterek választásán, valamint a nemzetiségi önkormányzati képviselők választásán a választási irodák hatáskörébe tartozó feladatok végrehajtásának részletes szabályairól és a választási eljárásban használandó nyomtatványokról szóló 20/2019. (VII. 30.) IM rendelet.
+[^2]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
