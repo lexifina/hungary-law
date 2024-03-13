@@ -1,0 +1,3 @@
+1. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet [a továbbiakban: 79/2004. (V. 4.) FVM rendelet] 50. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A vadászjegy nem váltható vissza. A megsemmisült, eltulajdonított vagy elveszett érvényes vadászjegyet a vadászkamara a pótlólagos kiállítás időpontjában érvényes – az Országos Magyar Vadászkamaráról szóló 1997. évi XLVI. törvény 2/A. § (1b) és (1c) bekezdésében meghatározott szabályok alapján megállapított – díj felének megfizetése ellenében pótolja.”
