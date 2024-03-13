@@ -1,9 +1,9 @@
-64. § (1)[^174] Vadászterületen vadászkutya vadászati alkalmassági vizsgája továbbá a külön jogszabály szerinti teljesítményvizsgálata és minősítése céljából – a képesség- és tenyészvizsga, illetve a mezei verseny kivételével – verseny, illetve vizsga augusztus 1.–február 28. között rendezhető. A február 28.–augusztus 1. közötti időszakban tartott rendezvényekhez vagy vadászeb gyakoroltatásához kizárólag tenyésztésből kihelyezett apróvad használható.
+64. § (1)[^172] Vadászterületen vadászkutya vadászati alkalmassági vizsgája továbbá a külön jogszabály szerinti teljesítményvizsgálata és minősítése céljából – a képesség- és tenyészvizsga, illetve a mezei verseny kivételével – verseny, illetve vizsga augusztus 1.–február 28. között rendezhető. A február 28.–augusztus 1. közötti időszakban tartott rendezvényekhez vagy vadászeb gyakoroltatásához kizárólag tenyésztésből kihelyezett apróvad használható.
 
-(2)[^175] A vadászterületen az (1) bekezdés szerinti rendezvények lebonyolításához, illetve a vadászeb gyakoroltatásához a vadászatra jogosult előzetes hozzájárulása is szükséges. A vadászeb gyakoroltatásához a vadászterületen külön területrész is kijelölhető.
+(2)[^173] A vadászterületen az (1) bekezdés szerinti rendezvények lebonyolításához, illetve a vadászeb gyakoroltatásához a vadászatra jogosult előzetes hozzájárulása is szükséges. A vadászeb gyakoroltatásához a vadászterületen külön területrész is kijelölhető.
 
-(3)[^176] Vérebversenyhez a vad szándékos sebzése tilos. Vérebverseny kizárólag előre meghatározott időpontban lefolytatott nagyvad társas vadászata után rendezhető meg.
+(3)[^174] Vérebversenyhez a vad szándékos sebzése tilos. Vérebverseny kizárólag előre meghatározott időpontban lefolytatott nagyvad társas vadászata után rendezhető meg.
 
-[^174]: A Vhr. 64. § (1) bekezdése az 56/2005. (VI. 25.) FVM rendelet 22. §-ával megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^175]: A Vhr. 64. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 1. pontja szerint módosított szöveg.
-[^176]: A Vhr. 64. § (3) bekezdése az 57/2023. (X. 16.) AM rendelet 28. § 23. pontja szerint módosított szöveg.
+[^172]: A Vhr. 64. § (1) bekezdése az 56/2005. (VI. 25.) FVM rendelet 22. §-ával megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^173]: A Vhr. 64. § (2) bekezdése a 24/2017. (V. 17.) FM rendelet 34. § 1. pontja szerint módosított szöveg.
+[^174]: A Vhr. 64. § (3) bekezdése az 57/2023. (X. 16.) AM rendelet 28. § 23. pontja szerint módosított szöveg.
