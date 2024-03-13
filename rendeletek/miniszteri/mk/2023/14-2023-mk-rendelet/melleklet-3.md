@@ -10,6 +10,8 @@
 
 | 5. | 40– | 250% | 300% | 400% |
 
-3. melléklet a 14/2023. (VI. 30.) MK rendelethez
+3. melléklet a 14/2023. (VI. 30.) MK rendelethez[^3]
 
 Az egészségügyi szakdolgozói pótlék mértéke a rendvédelmi igazgatási alkalmazott esetében
+
+[^3]: A 3. mellékletben foglalt táblázat a 2/2024. (III. 12.) MK rendelet 1. §-ával megállapított szöveg.

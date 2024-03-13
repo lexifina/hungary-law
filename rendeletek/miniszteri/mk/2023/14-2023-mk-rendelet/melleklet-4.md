@@ -2,13 +2,13 @@
 
 | 1. | Gyakorlati idő (év) | Középfokú végzettséghez kötött munkakör | Emelt szintű szakmai végzettséghez kötött munkakör | Felsőfokú végzettséghez kötött munkakör |
 
-| 2. | 0–12 | 300% | 325% | 350% |
+| 2. | 0–12 | 500% | 600% | 625% |
 
-| 3. | 13–24 | 325% | 350% | 400% |
+| 3. | 13–24 | 525% | 625% | 675% |
 
-| 4. | 25–39 | 350% | 400% | 450% |
+| 4. | 25–39 | 550% | 675% | 725% |
 
-| 5. | 40– | 400% | 450% | 550% |
+| 5. | 40– | 600% | 725% | 825% |
 
 4. melléklet a 14/2023. (VI. 30.) MK rendelethez
 
