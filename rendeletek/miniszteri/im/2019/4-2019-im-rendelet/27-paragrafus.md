@@ -1,1 +1,0 @@
-## 26. § A Nemzeti Választási Iroda az igénylését követően haladéktalanul, de legkorábban 2019. április 6-án adja át az igénylő részére az általa igényelt mennyiségű ajánlóívet. [Ve. 121. § (2) bekezdés]

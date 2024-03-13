@@ -1,1 +1,0 @@
-## 48. § A magyarországi lakcímmel nem rendelkező választópolgárok levélben leadott szavazatainak megszámlálását 2019. május 26-án 19.00 órát megelőzően nem lehet megkezdeni. [Ve. 293. § (1) bekezdés]

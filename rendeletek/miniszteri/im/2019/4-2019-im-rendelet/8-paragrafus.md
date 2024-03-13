@@ -1,1 +1,0 @@
-## 7. § A magyarországi lakcímmel nem rendelkező választópolgár az Európai Parlament tagjainak 2019. május 26. napjára kitűzött választásán való részvétele érdekében névjegyzékbe vételét, illetve a névjegyzékben szereplő adatainak módosítását 2019. május 2-án 16.00 óráig kérheti. [Ve. 11. § (2) bekezdés, Ve. 84. § (1) bekezdés]

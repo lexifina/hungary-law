@@ -1,1 +1,0 @@
-## 21. § A Nemzeti Választási Iroda a levélben szavazók névjegyzékébe azt a magyarországi lakcímmel nem rendelkező választópolgárt veszi fel, aki a legkésőbb 2019. május 2-án 16.00 óráig benyújtott kérelme alapján szerepel a központi névjegyzékben. [Ve. 11. § (2) bekezdés, Ve. 266. §]
