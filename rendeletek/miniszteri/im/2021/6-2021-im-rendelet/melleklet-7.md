@@ -134,8 +134,8 @@
 
 | 68. | 43102 | A TVB választott és megbízott tagjainak választási ellátási kiadásai. | 1 | 60 000 |
 
-7. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^13]
+7. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^15]
 
 Tételek és normatívák a települési szintű helyi népszavazás megismételt szavazásán
 
-[^13]: A 7. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 40. és 41. pontja szerint módosított szöveg.
+[^15]: A 7. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 40. és 41. pontja szerint módosított szöveg.

@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-6-20-06
 | 2022-10-25 | 2021-6-20-06.3 | 22/2022. (X. 24.) IM rendelet |
 | 2023-01-01 | 2021-6-20-06.5 | 22/2022. (X. 24.) IM rendelet |
 | 2023-02-28 | 2021-6-20-06.4 | 22/2022. (X. 24.) IM rendelet |
+| 2024-03-13 | 2021-6-20-06.6 | 6/2024. (III. 12.) IM rendelet |

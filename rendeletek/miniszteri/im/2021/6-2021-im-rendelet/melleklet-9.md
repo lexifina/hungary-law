@@ -126,7 +126,7 @@
 
 | 64. | 43102 | A TVB választott és megbízott tagjainak választási ellátási kiadásai. | 1 | 39 000 |
 
-9. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^15]
+9. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^17]
 
 A helyi önkormányzati képviselők és polgármesterek időközi választására, a nemzetiségi önkormányzati képviselők időközi választására, valamint a helyi népszavazásra központilag biztosított kellékek és szolgáltatások normatívái
 
@@ -168,4 +168,4 @@ A helyi önkormányzati képviselők és polgármesterek időközi választásá
 
 | 19. | Braille-írással ellátott szavazósablon és tájékoztató szavazáshoz. | 1 | 3 927,00 |
 
-[^15]: A 9. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 9. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított szöveg.

@@ -186,8 +186,8 @@
 
 | 94. | 43201 | A TVB választott és megbízott tagjainak választási ellátási kiadásai települési önkormányzati választás esetén. | 1 | 60 000 |
 
-2. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^8]
+2. melléklet a 6/2021. (VIII. 30.) IM rendelethez[^10]
 
 Tételek és normatívák a nemzetiségi önkormányzati képviselők időközi választásán
 
-[^8]: A 2. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 19-20. pontja szerint módosított szöveg.
+[^10]: A 2. melléklet a 22/2022. (X. 24.) IM rendelet 3. §-ával megállapított, a 42/2022. (XII. 28.) IM rendelet 15. § 19-20. pontja szerint módosított szöveg.
