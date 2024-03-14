@@ -34,10 +34,10 @@
 
 | 17. | DAM block ajánlatok piaci szereplőnként | V825 | Napi | Az adatokat naponta, a tárgynapot követő 5. napig kell megadni. |
 
-| 18.[^26] | Származási garancia aukciók | V826 | Havi | Az adatokat a tárgyidőszakot követő hónap 1. napjáig kell megadni. |
+| 18.[^35] | Származási garancia aukciók | V826 | Havi | Az adatokat a tárgyidőszakot követő hónap 1. napjáig kell megadni. |
 
 10. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A közvilágítás üzemeltetői engedélyes adatszolgáltatási kötelezettsége
 
-[^26]: A 9. mellékletben foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § e) pontja iktatta be.
+[^35]: A 9. mellékletben foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § e) pontja iktatta be.

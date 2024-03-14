@@ -12,7 +12,7 @@
 
 5. nem engedélyköteles kiserőmű – fosszilis és nem nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozóan a 4. melléklet II. pontja,
 
-6. [^4] nem engedélyköteles, mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőmű a 4. melléklet III. pontja,
+6.[^9] nem engedélyköteles, mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőmű a 4. melléklet III. pontja,
 
 7. nem engedélyköteles, biomassza energiahordozót felhasználó kiserőmű a 4. melléklet IV. pontja,
 
@@ -20,7 +20,7 @@
 
 9. kiserőművi összevont engedélyes – fosszilis és nem nap-, szél-, víz- és geotermikus energia alapú villamosenergia-termelésre vonatkozóan a 4. melléklet VI. pontja,
 
-10. [^5] mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőművi összevont engedélyes a 4. melléklet VII. pontja,
+10.[^10] mezőgazdasági és élelmiszeripari eredetű biogáz energiahordozót felhasználó kiserőművi összevont engedélyes a 4. melléklet VII. pontja,
 
 11. biomassza energiahordozót felhasználó kiserőművi összevont engedélyes a 4. melléklet VIII. pontja,
 
@@ -52,5 +52,10 @@ b) a 6. melléklet II. pontja,
 
 23. aggregátor a 14. melléklet
 
-[^4]: A 10. § 6. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^5]: A 10. § 10. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
+24.[^11] a Rendszerirányítói Lokális Piacon (a továbbiakban: RIR piac) akkreditált szabályozási alegység üzemeltetője, a 24. melléklet alapján.
+
+alapján.
+
+[^9]: A 10. § 6. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^10]: A 10. § 10. pontja a 9/2023. (VI. 23.) MEKH rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^11]: A 10. § 24. pontját a 2/2024. (III. 12.) MEKH rendelet 3. §-a iktatta be.

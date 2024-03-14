@@ -1,5 +1,3 @@
-## alapján.
-
 11. § A GET szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:
 
 1. vezetékes PB-gáz szolgáltatói engedélyes a 15. melléklet,
@@ -25,3 +23,5 @@
 11. földgáz egyetemes szolgáltatói engedélyes a 20. melléklet,
 
 12. szervezett földgázpiaci engedélyes a 21. melléklet
+
+alapján.

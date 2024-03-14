@@ -48,9 +48,9 @@
 
 | 15. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 16.[^22] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 16.[^31] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 17.[^23] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^32] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
 ## III. A Hivatal által kiadott, „Egyedi felhasználókat érintő minimális minőségi követelmények meghatározása” tárgyú határozattal rendelkező villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
 
@@ -88,15 +88,15 @@
 
 | 16. | Hátralékos fogyasztók adatai | V680 | Havi | Az adatokat havonta, a tárgyidőszakot követő hó 25-ig kell megadni. |
 
-| 17.[^24] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 17.[^33] | Tárgyévre vonatkozó nem ESZ szerződések tételes adatai | V619t | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
-| 18.[^25] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
+| 18.[^34] | Következő évre vonatkozó nem ESZ szerződések tételes adatai | V619e | Negyedéves | A tárgyidőszakot megelőző hónap utolsó napjáig. |
 
 8. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 A villamosenergia egyetemes szolgáltatói engedélyes adatszolgáltatási kötelezettsége
 
-[^22]: A 7. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^23]: A 7. melléklet II. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^24]: A 7. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
-[^25]: A 7. melléklet III. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^31]: A 7. melléklet II. pontjában foglalt táblázat 16. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^32]: A 7. melléklet II. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^33]: A 7. melléklet III. pontjában foglalt táblázat 17. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.
+[^34]: A 7. melléklet III. pontjában foglalt táblázat 18. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § d) pontja iktatta be.

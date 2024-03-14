@@ -1,5 +1,3 @@
-## alapján.
-
 ## 5. Rendkívüli adatszolgáltatás
 
 13. § (1) Rendkívüli adatszolgáltatási kötelezettségnek minősül, ha az adatszolgáltató

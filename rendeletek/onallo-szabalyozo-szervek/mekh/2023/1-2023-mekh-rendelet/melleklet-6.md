@@ -148,13 +148,16 @@
 
 | 74. | Kapacitásár információ a kiegyenlítő szabályozási szolgáltatások tender eredményeiről – LE | V490B | Napi | Az adatokat naponta, a tárgyidőszakot követő második nap 17:00-ig kell megadni. |
 
-| 75.[^20] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként POZITÍV (FEL) irányba | V486E | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+| 75.[^27] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként POZITÍV (FEL) irányba | V486E | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
 
-| 76.[^21] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként NEGATÍV (LE) irányba | V486F | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+| 76.[^28] | Rendszerszintű szolgáltatások – Beadott – utolsó érvényes – energia ajánlati adatok piaci szereplőnként NEGATÍV (LE) irányba | V486F | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
+
+| 77.[^29] | Rendszerszintű szolgáltatások – Beadott RIR ajánlati és indítási adatok piaci szereplőnként pozitív és negatív irányba | V486G | Napi | Az adatokat a tárgyidőszakot követő 3. nap 17:00-ig kell megadni. |
 
 6. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A villamos energia elosztói engedélyes EIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
 
-[^20]: Az 5. mellékletben foglalt táblázat 75. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
-[^21]: Az 5. mellékletben foglalt táblázat 76. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^27]: Az 5. mellékletben foglalt táblázat 75. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^28]: Az 5. mellékletben foglalt táblázat 76. sorát a 9/2023. (VI. 23.) MEKH rendelet 5. § c) pontja iktatta be.
+[^29]: Az 5. mellékletben foglalt táblázat 77. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (2) bekezdése iktatta be.

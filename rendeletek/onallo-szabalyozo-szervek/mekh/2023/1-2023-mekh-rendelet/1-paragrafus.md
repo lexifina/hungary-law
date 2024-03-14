@@ -4,7 +4,7 @@
 
 a) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 3. § 13. pontja szerinti engedélyesre,
 
-b) a VET szerint nem engedélyköteles kiserőművek üzemeltetőjére, kivéve a VET 3. § 24. pontja szerinti háztartási méretű kiserőművek, valamint a visszatáplálás elleni védelemmel ellátott nem engedélyköteles kiserőművek üzemeltetőjét,
+b)[^1] a VET szerint nem engedélyköteles kiserőművek – kivéve a VET 3. § 24. pontja szerinti háztartási méretű kiserőműveket, valamint a visszatáplálás elleni védelemmel ellátott nem engedélyköteles kiserőműveket – üzemeltetőjére, valamint a VET szerint nem engedélyköteles, 500 kW-ot meg nem haladó teljesítőképességű villamosenergia-tároló üzemeltetőjére,
 
 c) a pályázati eljárás keretében megállapított zöld prémium típusú támogatási jogosultság jogosultjára (a továbbiakban: zöld prémium támogatási jogosult),
 
@@ -23,3 +23,5 @@ i) a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiak
 j) az a)–i) pontban meghatározottak jogutódjára, felszámolójára és végelszámolójára
 
 [a továbbiakban az a)–j) pont együtt: adatszolgáltató] terjed ki.
+
+[^1]: Az 1. § b) pontja a 2/2024. (III. 12.) MEKH rendelet 1. §-ával megállapított szöveg.

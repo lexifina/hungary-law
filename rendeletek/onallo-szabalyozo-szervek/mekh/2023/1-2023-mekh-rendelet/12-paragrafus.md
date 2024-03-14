@@ -1,5 +1,3 @@
-## alapján.
-
 12. § A Tszt. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:
 
 1. nukleáris, fosszilis (földgáz kivételével), időjárásfüggő és nem időjárásfüggő (biomassza kivételével) megújuló energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői működési engedélyes a 22. melléklet I. pontja,
@@ -19,3 +17,5 @@
 8. biomassza energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes a 23. melléklet IV. pontja,
 
 9. az Európai Unió Kibocsátás-kereskedelmi Rendszerén (EU ETS) belüli létesítmények részére térítésmentesen kiosztásra került kibocsátási egységekkel összefüggésben földgáz energiahordozó alapú távhőtermelő berendezést üzemeltető távhőtermelői és -szolgáltatói működési engedéllyel is rendelkező engedélyes a 23. melléklet V. pontja
+
+alapján.

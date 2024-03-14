@@ -88,6 +88,8 @@
 
 | 44. | Kikapcsolt fogyasztók száma | V580 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
 
+| 45.[^30] | Településenként átadott havi villamosenergia mennyiség | V517 | Havi | Az adatokat a tárgyidőszakot követő hónap 25. napjáig kell megadni. |
+
 ## II. A villamos energia elosztói engedélyes HVIA adatgyűjtő alrendszer útján teljesítendő adatszolgáltatási kötelezettsége
 
 |  | A | B | C | D |
@@ -127,3 +129,5 @@
 7. melléklet az 1/2023. (IV. 5.) MEKH rendelethez
 
 I. A korlátozott villamosenergia-kereskedelmi működési engedélyes adatszolgáltatási kötelezettsége
+
+[^30]: A 6. melléklet I. pontjában foglalt táblázat 45. sorát a 2/2024. (III. 12.) MEKH rendelet 4. § (3) bekezdése iktatta be.
