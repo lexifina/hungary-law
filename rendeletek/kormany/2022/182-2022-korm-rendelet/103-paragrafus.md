@@ -1,6 +1,6 @@
-## 9.[^50] A nemzetgazdasági miniszter feladat- és hatásköre
+## 9.[^53] A nemzetgazdasági miniszter feladat- és hatásköre
 
-103. § (1)[^51] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+103. § (1)[^54] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
@@ -42,11 +42,11 @@
 
 felelős tagja.
 
-(2)[^52] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(2)[^55] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-(3)[^53]
+(3)[^56]
 
-[^50]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^51]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^52]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^53]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^53]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^54]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^55]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^56]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

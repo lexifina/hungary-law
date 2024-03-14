@@ -46,7 +46,7 @@ g) ellátja a szakfordító és tolmácstevékenység ágazati irányítását,
 
 h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működését, és kialakítja az igazságügyi statisztika rendszerét.
 
-(9)[^78] A miniszter az igazságügyért való felelőssége keretében
+(9)[^81] A miniszter az igazságügyért való felelőssége keretében
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
@@ -74,7 +74,7 @@ f) koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi m
 
 (10) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
 
-(11)[^79] A miniszter az igazságügyért való felelőssége keretében gondoskodik a hazai jogszabályoknak az észszerű működés szempontjából történő tartalmi felülvizsgálatáról, ezzel összefüggésben
+(11)[^82] A miniszter az igazságügyért való felelőssége keretében gondoskodik a hazai jogszabályoknak az észszerű működés szempontjából történő tartalmi felülvizsgálatáról, ezzel összefüggésben
 
 a) ágazati és egyedi javaslatot tesz a Kormánynak
 
@@ -88,8 +88,8 @@ b) közvetlen kapcsolatot tart a hazai szabályozásokat előkészítő és alka
 
 c) figyelemmel kíséri az állam működésének észszerűsítését elősegítő nemzetközi megoldásokat és gyakorlatokat.
 
-(12)[^80] A miniszter az igazságügyért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – jogi vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
+(12)[^83] A miniszter az igazságügyért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – jogi vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
 
-[^78]: A 122. § (9) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^79]: A 122. § (11) bekezdését a 314/2023. (VII. 17.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^80]: A 122. § (12) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.
+[^81]: A 122. § (9) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^82]: A 122. § (11) bekezdését a 314/2023. (VII. 17.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^83]: A 122. § (12) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.

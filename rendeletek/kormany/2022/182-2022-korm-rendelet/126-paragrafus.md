@@ -1,3 +1,3 @@
-126. §[^81]
+126. §[^84]
 
-[^81]: A 126. §-t a 314/2023. (VII. 17.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
+[^84]: A 126. §-t a 314/2023. (VII. 17.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
