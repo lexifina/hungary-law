@@ -1,28 +1,28 @@
-1. A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 30. § (1) bekezdése alapján, az egységes határellenőrzési, valamint határátkelőhely-fejlesztéssel kapcsolatos feladatok összehangolására – javaslattevő, véleményező és tanácsadó testületként – Határellenőrzési Munkacsoportot (a továbbiakban: Munkacsoport) hoz létre.
+1.[^1] A Kormány a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 10. § (1) bekezdése szerinti, az egységes határellenőrzési, valamint határátkelőhely-fejlesztéssel kapcsolatos feladatok összehangolására – javaslattevő, véleményező és tanácsadó testületként – Határellenőrzési Munkacsoportot (a továbbiakban: Munkacsoport) működtet.
 
-2. A Munkacsoport vezetője a belügyminiszter által kijelölt államtitkár, akit az általa kijelölt állami vezető helyettesíthet. A Munkacsoport tagjai:
+2.[^2] A Munkacsoport vezetője a belügyminiszter által kijelölt államtitkár, akit az általa kijelölt szakmai felsővezető helyettesíthet. A Munkacsoport tagjai:
 
-a) a külgazdasági és külügyminiszter által kijelölt állami vezető,
+a) a külgazdasági és külügyminiszter által kijelölt szakmai felsővezető,
 
-b) a nemzetgazdasági miniszter által kijelölt állami vezető,
+b) a nemzetgazdasági miniszter által kijelölt szakmai felsővezető,
 
-c) az emberi erőforrások minisztere által kijelölt állami vezető,
+c) az építési és közlekedési miniszter által kijelölt szakmai felsővezető,
 
-d) a nemzeti fejlesztési miniszter által kijelölt állami vezető,
+d) a közigazgatási és területfejlesztési miniszter által kijelölt szakmai felsővezető,
 
-e) a Miniszterelnökséget vezető miniszter által kijelölt állami vezető,
+e) a honvédelmi miniszter által kijelölt szakmai felsővezető,
 
-f) a honvédelmi miniszter által kijelölt állami vezető,
+f) az agrárminiszter által kijelölt szakmai felsővezető,
 
-g) a földművelésügyi miniszter által kijelölt állami vezető,
+g) a miniszterelnök nemzetbiztonsági főtanácsadója által kijelölt személy,
 
 h) az országos rendőrfőkapitány vagy az általa kijelölt helyettese,
 
 i) az Alkotmányvédelmi Hivatal vezetője vagy az általa kijelölt helyettese,
 
-j) a BM Országos Katasztrófavédelmi Főigazgatóság vezetője vagy általa kijelölt helyettese,
+j) a BM Országos Katasztrófavédelmi Főigazgatóság vezetője vagy az általa kijelölt helyettese,
 
-k)[^1] az Országos Idegenrendészeti Főigazgatóság vezetője vagy az általa kijelölt helyettese,
+k) az Országos Idegenrendészeti Főigazgatóság vezetője vagy az általa kijelölt helyettese,
 
 l) a Nemzeti Adó- és Vámhivatal vezetője vagy az általa kijelölt helyettese,
 
@@ -48,10 +48,12 @@ f) figyelemmel kíséri, hogy a meglévő határátkelőhelyek működése megfe
 
 g) javaslattevő, véleményező szervként segíti a költségvetési tervezést, ennek keretében elősegíti a központi költségvetés, az európai uniós források, a nemzetközi források és az egyes költségvetési fejezetek határátkelőhely létesítéséhez, a fejlesztésekhez, illetve a határellenőrzési rendszerhez kapcsolódó előirányzatainak összehangolását.
 
-6. A Munkacsoport az ügyrendjét és a munkatervét maga állapítja meg azzal, hogy a Munkacsoportot évente legalább három alkalommal össze kell hívni.
+6.[^3] A Munkacsoport az ügyrendjét és a munkatervét maga állapítja meg, azzal, hogy a Munkacsoportot évente legalább két alkalommal össze kell hívni.
 
 7. A Munkacsoport működési feltételeiről a belügyminiszter gondoskodik. A Munkacsoport tagjai díjazásban nem részesülnek.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 2. pont k) alpontja az 1405/2019. (VII. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1056/2024. (III. 13.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1056/2024. (III. 13.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1056/2024. (III. 13.) Korm. határozat 3. pontjával megállapított szöveg.
