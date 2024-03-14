@@ -1,6 +1,6 @@
 ## 6. Személygépkocsival kapcsolatos juttatások
 
-8. §[^28] (1)[^29] A miniszter, a politikai igazgató, az államtitkár, a közigazgatási államtitkár, valamint a 2. melléklet szerint államtitkári juttatásra jogosult személy – ide nem értve a központi hivatal vezetőjét – személyes gépjárműhasználatra jogosult és számára gépjárművezetőt kell biztosítani.
+8. §[^30] (1)[^31] A miniszter, a politikai igazgató, a nemzetbiztonsági főtanácsadó, az államtitkár, a közigazgatási államtitkár, valamint a 2. melléklet szerint államtitkári juttatásra jogosult személy – ide nem értve a központi hivatal vezetőjét – személyes gépjárműhasználatra jogosult és számára gépjárművezetőt kell biztosítani.
 
 (2) A helyettes államtitkár, a miniszteri biztos, valamint a miniszteri kabinetet vezető kabinetfőnök a Miniszterelnöki Kormányiroda közigazgatási államtitkárának előzetes engedélye alapján – a kérelmében megjelölt választása szerint –
 
@@ -22,8 +22,8 @@ jogosult.
 
 (8) Ha a KEF rendelkezésre álló járműállományából az (1) bekezdésben és a (2) bekezdés b) pontjában meghatározott juttatás nem biztosítható, a személyes gépjárműhasználatra jogosult személy számára – ideiglenesen – eltérő kategóriájú személygépjármű is kiadható. A használt személygépjárművet, annak műszaki, esztétikai állapota, kora, illetve futásteljesítménye alapján – indokolt esetben – a KEF főigazgatója egy kategóriával alacsonyabb kategóriába sorolhatja.
 
-(9)[^30] A központi hivatal vezetője, a kormányzati főhivatal vezetőjének helyettese és a főispán a (2) bekezdés szerint nyújthat be kérelmet azzal az eltéréssel, hogy – figyelemmel a 9/A. § (5) bekezdésére – kizárólag a (2) bekezdés b) pontja szerinti juttatást igényelhet.
+(9)[^32] A központi hivatal vezetője, a kormányzati főhivatal vezetőjének helyettese és a főispán a (2) bekezdés szerint nyújthat be kérelmet azzal az eltéréssel, hogy – figyelemmel a 9/A. § (5) bekezdésére – kizárólag a (2) bekezdés b) pontja szerinti juttatást igényelhet.
 
-[^28]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg.
-[^29]: A 8. § (1) bekezdése a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^30]: A 8. § (9) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^30]: A 8. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (9) bekezdésével megállapított szöveg.
+[^31]: A 8. § (1) bekezdése a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja, az 57/2024. (III. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^32]: A 8. § (9) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

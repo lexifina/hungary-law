@@ -1,3 +1,0 @@
-## 3. §[^7] A kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a főispán, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, a központi hivatal vezetője a 2. melléklet szerinti juttatásokra jogosultak.
-
-[^7]: A 3. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (3) bekezdésével megállapított, a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

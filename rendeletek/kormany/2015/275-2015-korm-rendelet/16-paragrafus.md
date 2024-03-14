@@ -1,3 +1,3 @@
-16. §[^45]
+16. §[^47]
 
-[^45]: A 16. §-t a 183/2022. (V. 24.) Korm. rendelet 6. § (5) bekezdése újból hatályon kívül helyezte.
+[^47]: A 16. §-t a 183/2022. (V. 24.) Korm. rendelet 6. § (5) bekezdése újból hatályon kívül helyezte.

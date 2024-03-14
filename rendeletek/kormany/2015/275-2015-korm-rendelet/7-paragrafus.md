@@ -1,8 +1,8 @@
 ## 5. Kiemelt egészségügyi ellátás
 
-7. § (1)[^25] A miniszter, a politikai igazgató, az államtitkár, a közigazgatási államtitkár és az ilyen juttatásra jogosult térítésmentes kiemelt egészségügyi ellátást vehet igénybe, amelyet a választásának megfelelő, e rendelet szerinti egészségügyi szolgáltató biztosít.
+7. § (1)[^27] A miniszter, a politikai igazgató, a nemzetbiztonsági főtanácsadó, az államtitkár, a közigazgatási államtitkár és az ilyen juttatásra jogosult térítésmentes kiemelt egészségügyi ellátást vehet igénybe, amelyet a választásának megfelelő, e rendelet szerinti egészségügyi szolgáltató biztosít.
 
-(2)[^26] A jogosult személy részére az (1) bekezdés szerint biztosított szolgáltatások tartalmát a Miniszterelnöki Kormányiroda közigazgatási államtitkára és az egészségügyi szolgáltató megállapodásban rögzíti, melyben meg kell határozni különösen
+(2)[^28] A jogosult személy részére az (1) bekezdés szerint biztosított szolgáltatások tartalmát a Miniszterelnöki Kormányiroda közigazgatási államtitkára és az egészségügyi szolgáltató megállapodásban rögzíti, melyben meg kell határozni különösen
 
 a) az igénybe vehető ellátások körét, pontos tartalmát és igénybevételük feltételeit,
 
@@ -18,8 +18,8 @@ f) a szolgáltatás díját, valamint
 
 g) a díj átutalásának és az elszámolásnak a rendjét.
 
-(3)[^27] A kiemelt egészségügyi ellátás költségvetési fedezetét a Miniszterelnöki Kormányiroda költségvetési fejezetében kell tervezni.
+(3)[^29] A kiemelt egészségügyi ellátás költségvetési fedezetét a Miniszterelnöki Kormányiroda költségvetési fejezetében kell tervezni.
 
-[^25]: A 7. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (8) bekezdésével megállapított, a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^26]: A 7. § (2) bekezdés nyitó szövegrésze a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^27]: A 7. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^27]: A 7. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 146. § (8) bekezdésével megállapított, a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés c) pontja, az 57/2024. (III. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^28]: A 7. § (2) bekezdés nyitó szövegrésze a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 7. § (2) bekezdése a 101/2018. (VI. 11.) Korm. rendelet 31. § (4) bekezdés d) pontja szerint módosított szöveg.

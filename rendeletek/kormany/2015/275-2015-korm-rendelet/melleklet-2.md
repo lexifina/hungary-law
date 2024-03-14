@@ -36,7 +36,7 @@
 
 | 18. | 6. Számítástechnikai eszközök és rádiótelefon használata | jogosult | jogosult | jogosult | jogosult |
 
-2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^48]
+2. melléklet a 275/2015. (IX. 21.) Korm. rendelethez[^50]
 
 Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket megillető juttatások
 
@@ -52,6 +52,8 @@ Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket me
 
 | 5. | központi hivatal vezetője | munkáltató szerv | a) kiemelt egészségügyi ellátást nem vehet igénybe, b) személygépkocsival kapcsolatban a helyettes államtitkárt megillető juttatásokra jogosult azzal, hogy az e rendelet szerinti költségátalány nem illeti meg, valamint c) az utazással kapcsolatos juttatások tekintetében helyettes államtitkárt megillető juttatásokra jogosult azzal, hogy hivatalos külföldi utazása során nem veheti igénybe a repülőtéri kormányváró helyiségeket; |
 
+| 5/A. | a Stratégiai Tanácsadó Testület tagjai – a Stratégiai Tanácsadó Testület elnöke kivételével – | KEF | államtitkári | – |
+
 | 6. | miniszterelnöki megbízott | KEF* | legfeljebb államtitkári | - |
 
 | 7. | miniszteri biztos | KEF* | helyettes államtitkári | - |
@@ -66,4 +68,4 @@ Az állami vezetőnek nem minősülő, a 3. és 3/A. § szerinti személyeket me
 
 (X. 2.) Korm. rendelet szerinti ellátotti körbe tartozik a munkáltató szerv.
 
-[^48]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^50]: A 2. mellékletet a 360/2019. (XII. 30.) Korm. rendelet 146. § (15) bekezdése iktatta be, szövege a 309/2022. (VIII. 11.) Korm. rendelet 8. § a) pontja, az 57/2024. (III. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.

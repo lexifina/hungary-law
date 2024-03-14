@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1.[^1] állami vezető: miniszter, a miniszterelnök politikai igazgatója (a továbbiakban: politikai igazgató), államtitkár, közigazgatási államtitkár, helyettes államtitkár,
+1.[^1] állami vezető: miniszter, a miniszterelnök politikai igazgatója (a továbbiakban: politikai igazgató), a miniszterelnök nemzetbiztonsági főtanácsadója (a továbbiakban: nemzetbiztonsági főtanácsadó), államtitkár, közigazgatási államtitkár, helyettes államtitkár,
 
 2.[^2] egészségügyi szolgáltató: a kiemelt egészségügyi ellátásra jogosult személy részére az Észak-Pesti Centrum Kórház – Honvédkórház és az Észak-Közép-budai Centrum, Új Szent János Kórház és Szakrendelő,
 
@@ -16,7 +16,7 @@
 
 6.[^5]
 
-[^1]: Az 1. § 1. pontja a 183/2022. (V. 24.) Korm. rendelet 6. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 1. pontja az 57/2024. (III. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^2]: Az 1. § 2. pontja a 360/2019. (XII. 30.) Korm. rendelet 146. § (16) bekezdése a) pontja, az 570/2022. (XII. 23.) Korm. rendelet 9. §-a szerint módosított szöveg.
 [^3]: Az 1. § 4a. pontját a 360/2019. (XII. 30.) Korm. rendelet 146. § (1) bekezdése iktatta be.
 [^4]: Az 1. § 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 146. § (1) bekezdésével megállapított szöveg.

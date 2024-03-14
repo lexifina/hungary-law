@@ -28,4 +28,7 @@ f) számítástechnikai eszközök (hordozható személyi számítógép, tábla
 
 (2) Az állami vezetők juttatásainak mértékét az 1. melléklet tartalmazza.
 
+(3)[^7] A nemzetbiztonsági főtanácsadó az 1. melléklet szerinti minisztert megillető mértékű juttatásokra jogosult.
+
 [^6]: A 2. § a 360/2019. (XII. 30.) Korm. rendelet 146. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. § (3) bekezdését az 57/2024. (III. 13.) Korm. rendelet 6. §-a iktatta be.
