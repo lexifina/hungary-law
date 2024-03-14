@@ -1,0 +1,5 @@
+1. § (1) A hulladékgazdálkodási hatóság a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 36a. pontja szerinti bírságösszeg elérésével megvalósuló kiemelt hulladékjogi szabályszegés tényét a közigazgatási szankciót megállapító döntésével egyidejűleg a Közigazgatási Szankciók Nyilvántartásába bejegyzi.
+
+(2) Az (1) bekezdés szerinti kiemelt hulladékjogi szabályszegés tényének megállapítása során az országos hulladékgazdálkodási hatóság és a területi hulladékgazdálkodási hatóságok (a továbbiakban együtt: hulladékgazdálkodási hatóság) által egy költségvetési évben kiszabott hulladékgazdálkodási bírságok együttes összegét kell figyelembe venni.
+
+(3) Az országos hulladékgazdálkodási hatóság a honlapján – bárki számára korlátozásmentes hozzáférést biztosítva – közzéteszi a kiemelt hulladékjogi szabályszegést elkövető jogi személynek és jogi személyiséggel nem rendelkező szervezetnek a Ht. 78/C. § (10a) bekezdése szerinti adatait és a honlapon való közzététel időpontját.
