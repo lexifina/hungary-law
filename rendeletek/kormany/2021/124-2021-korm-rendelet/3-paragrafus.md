@@ -22,9 +22,11 @@ j)[^10] az egyes műanyagtermékek környezetre gyakorolt hatásának csökkent�
 
 k)[^11] a Ht. 2. § (1) bekezdés 36h. pontja szerinti nyilvántartást vezető hatóságként,
 
-l)[^12] a Ht. 78/C. § (9) bekezdésében meghatározott hulladékgazdálkodási hatóságként.
+l)[^12]
 
-(2)[^13]
+(2)[^13] A Ht. 78/C. § (9) bekezdésében meghatározott hulladékgazdálkodási hatóságként hatásköréhez kapcsolódóan az országos hulladékgazdálkodási hatóság és a területi hulladékgazdálkodási hatóság jár el.
+
+(2a)[^14] A Ht. 78/C. § (10a) bekezdése szerinti adatok nyilvános hozzáférését az országos hulladékgazdálkodási hatóság biztosítja.
 
 (3) A területi hulladékgazdálkodási hatóság, illetve az országos hulladékgazdálkodási hatóság a piacfelügyeletre, a tanúsításra, a megfelelőségre és a minőségbiztosításra vonatkozó végrehajtási jogszabályokban meghatározott hatáskörébe tartozó kérdéseket vizsgálja a Ht. 78/B. § (2) bekezdés 7., 8., 19. pontja szerinti feladatkörében.
 
@@ -34,5 +36,6 @@ l)[^12] a Ht. 78/C. § (9) bekezdésében meghatározott hulladékgazdálkodási
 [^9]: A 3. § (1) bekezdés h) pontja a 349/2021. (VI. 22.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés j) pontját a 349/2021. (VI. 22.) Korm. rendelet 24. § (2) bekezdése iktatta be.
 [^11]: A 3. § (1) bekezdés k) pontját a 298/2023. (VII. 6.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^12]: A 3. § (1) bekezdés l) pontját a 298/2023. (VII. 6.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^13]: A 3. § (2) bekezdését a 298/2023. (VII. 6.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^12]: A 3. § (1) bekezdés l) pontját a 298/2023. (VII. 6.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 23/2024. (II. 12.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^13]: A 3. § (2) bekezdését a 298/2023. (VII. 6.) Korm. rendelet 4. §-a hatályon kívül helyezte, újonnan a 23/2024. (II. 12.) Korm. rendelet 4. §-a iktatta be.
+[^14]: A 3. § (2a) bekezdését a 23/2024. (II. 12.) Korm. rendelet 4. §-a iktatta be.
