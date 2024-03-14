@@ -2,6 +2,9 @@
 
 55. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti az Európai Parlament tagjainak 2019. május 26. napjára kitűzött választása eljárási határidőinek és határnapjainak megállapításáról szóló 4/2019. (III. 1.) IM rendelet.
+(2)[^2]
 
-(3) Hatályát veszti a helyi önkormányzati képviselők és polgármesterek 2019. október 13. napjára kitűzött választása eljárási határidőinek és határnapjainak megállapításáról szóló 19/2019. (VII. 29.) IM rendelet.
+(3)[^3]
+
+[^2]: Az 55. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 55. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
