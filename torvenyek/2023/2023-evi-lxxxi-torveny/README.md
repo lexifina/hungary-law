@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-81-00-00
 | --- | --- | --- |
 | 2023-11-30 | 2023. évi LXXXI. törvény | 2023-81-00-00.0 (közlönyállapot) |
 | 2023-11-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-81-00-00.1 |
+| 2024-03-14 | Nemzeti Jogszabálytár (egységes szerkezet) | 2023-81-00-00.2 |
