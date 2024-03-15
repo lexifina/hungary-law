@@ -8,7 +8,7 @@
 
 (4) A 8. §-tól eltérően az egyajánlatos közbeszerzésekről szóló elemzést a miniszter első alkalommal 2022. április 30-ig teszi közzé.
 
-(5)[^11] A miniszter az 5. § (4) bekezdése szerinti adatokat az érintett ajánlatkérők 2023. január 31. napjáig történt értesítésével megegyező tartalommal első alkalommal az 5. § (4) bekezdését megállapító, közbeszerzési tárgyú kormányrendeletek módosításáról szóló 54/2023. (II. 27.) Korm. rendelet hatálybalépését[^12] követő napon teszi közzé.
+(5)[^21] A miniszter az 5. § (4) bekezdése szerinti adatokat az érintett ajánlatkérők 2023. január 31. napjáig történt értesítésével megegyező tartalommal első alkalommal az 5. § (4) bekezdését megállapító, közbeszerzési tárgyú kormányrendeletek módosításáról szóló 54/2023. (II. 27.) Korm. rendelet hatálybalépését[^22] követő napon teszi közzé.
 
-[^11]: A 10. § (5) bekezdését az 54/2023. (II. 27.) Korm. rendelet 21. §-a iktatta be.
-[^12]: A hatálybalépés időpontja 2023. február 28.
+[^21]: A 10. § (5) bekezdését az 54/2023. (II. 27.) Korm. rendelet 21. §-a iktatta be.
+[^22]: A hatálybalépés időpontja 2023. február 28.

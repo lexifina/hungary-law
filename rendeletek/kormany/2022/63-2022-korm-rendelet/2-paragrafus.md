@@ -1,11 +1,14 @@
-2. § (1) Az 1. § (1) bekezdés b) pontja szerinti beszerzési tárgyak és a (2) bekezdés b) pontja szerinti ajánlatkérők meghatározásához minden év február 1-je és december 31-e között a közbeszerzési eljárás megindítását megelőző naptári év adatait, minden év január 1-je és január 31-e között a közbeszerzési eljárás megindítását megelőző második naptári év adatait kell figyelembe venni.
+2. § (1)[^8]
 
-(2) Az 1. § (1) bekezdés b) pontja által érintett beszerzési tárgyak listáját CPV főcsoport szerinti bontásban a közbeszerzésekért felelős miniszter (a továbbiakban: miniszter) legkésőbb minden év január 31-ig az EKR honlapján közzéteszi.
+(2)[^9]
 
-(3) Az 1. § (1) bekezdés b) pontja tekintetében a beszerzési tárgyaknak a közbeszerzési eljárás megindításának – előzetes piaci konzultáció alkalmazása esetén a konzultáció meghirdetésének – időpontjában hatályos listáját kell alapul venni.
+(3)[^10]
 
-(4)[^4] Az 1. § (2) bekezdés b) pontja hatálya alá tartozást az ajánlatkérő a miniszter 5. § (4) bekezdése szerint közzétett adatok alapján állapítja meg.
+(4)[^11]
 
 (5) A miniszter 2022. március 15-ig módszertani iránymutatást tesz közzé az EKR honlapján az előzetes piaci konzultáció alkalmazásáról. Az iránymutatás tervezetét a miniszter a Közbeszerzési Hatóság és a Gazdasági Versenyhivatal részére véleményezés céljából megküldi.
 
-[^4]: A 2. § (4) bekezdése az 54/2023. (II. 27.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^9]: A 2. § (2) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^10]: A 2. § (3) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
+[^11]: A 2. § (4) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.

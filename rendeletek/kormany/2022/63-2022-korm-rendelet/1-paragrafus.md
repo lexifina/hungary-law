@@ -1,22 +1,14 @@
 ## 1. Az előzetes piaci konzultáció kötelező alkalmazásának esetei és feltételei
 
-1. § (1) A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti, az uniós értékhatárt elérő becsült értékű, nyílt vagy meghívásos közbeszerzési eljárás megindítása előtt az ajánlatkérő köteles a Kbt. 28. § (4) bekezdése szerinti előzetes piaci konzultációt alkalmazni, ha
+1. § (1)[^1] A közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti nyílt, meghívásos és tárgyalásos közbeszerzési eljárás, a versenypárbeszéd, valamint a Kbt. 117. §-a szerinti közbeszerzési eljárás megindítása előtt az ajánlatkérő köteles a Kbt. 28. § (4) bekezdése szerinti előzetes piaci konzultációt alkalmazni, ha a közbeszerzési eljárást megindító felhívásban nem írja elő a Kbt. 75. § (2) bekezdés e) pontja szerinti eredménytelenségi indokot.
 
-a) a közbeszerzési eljárást megindító felhívásban nem írja elő a Kbt. 75. § (2) bekezdés e) pontja szerinti eredménytelenségi indokot, és
+(2)[^2]
 
-b) a közbeszerzési eljárás tárgya olyan beszerzés, amelynek tekintetében – az uniós értékhatárt elérő becsült értékű közbeszerzések körében – az egyajánlatos közbeszerzések közös közbeszerzési szójegyzék (a továbbiakban: CPV) főcsoport szerinti aránya a 2. § (1) bekezdésében meghatározott naptári évben a 30%-ot meghaladta, és az adott CPV főcsoportba tartozó közbeszerzések aránya az összes eredményes közbeszerzés 2%-át meghaladta.
+(3)[^3] Az (1) bekezdés szerint kötelező előzetes piaci konzultációt az elektronikus közbeszerzési rendszer (a továbbiakban: EKR) funkciójának használatával kell meghirdetni. Központi beszerző szerv által lebonyolított közbeszerzési eljárás esetén az előzetes piaci konzultáció az általa használt egyéb informatikai rendszerben is meghirdethető.
 
-(2) Az (1) bekezdésben foglaltakon túl az uniós értékhatárt elérő becsült értékű, nyílt vagy meghívásos közbeszerzési eljárás megindítása előtt minden esetben köteles a Kbt. 28. § (4) bekezdése szerinti előzetes piaci konzultációt alkalmazni a Kormány irányítása vagy felügyelete alá tartozó költségvetési szerv, az állam 100%-os tulajdonában lévő gazdasági társaság vagy ezen gazdasági társaság 100%-os tulajdonában lévő gazdasági társaság ajánlatkérő, ha:
+(4)[^4] Az előzetes piaci konzultáció (3) bekezdés szerinti kötelező meghirdetésének határideje a közbeszerzési eljárást megindító felhívás Közbeszerzési Hatóság részére történő megküldését – a Kbt. 51. § (1) bekezdésének alkalmazása esetén a részvételi felhívás gazdasági szereplők részére történő közvetlen megküldését – megelőző legalább tizennegyedik nap, amelynek során az (5) bekezdés a) pontja szerinti dokumentumok elérhetőségét folyamatosan biztosítani kell. Az előzetes piaci konzultációba történő bekapcsolódás lehetőségét a meghirdetéstől számított legalább nyolc napig kell biztosítani. Amennyiben a rendelkezésre álló határidőben egyetlen gazdasági szereplő sem kapcsolódik be az előzetes piaci konzultációba, az ajánlatkérő a közbeszerzési eljárást megindító felhívást az előzetes piaci konzultáció meghirdetését követő tizennegyedik napnál hamarabb is megküldheti a Közbeszerzési Hatóság vagy a Kbt. 51. § (1) bekezdésének alkalmazása esetén a gazdasági szereplők részére.
 
-a) a közbeszerzési eljárást megindító felhívásában nem írja elő a Kbt. 75. § (2) bekezdés e) pontja szerinti eredménytelenségi indokot, és
-
-b) esetében az egyajánlatos közbeszerzések aránya – az uniós értékhatárt elérő becsült értékű közbeszerzések körében – a 2. § (1) bekezdésében meghatározott naptári évben a 20%-ot meghaladta, és ebben az időszakban legalább tíz, az uniós értékhatárt elérő becsült értékű közbeszerzést folytatott le.
-
-(3) Az (1) és (2) bekezdés szerint kötelező előzetes piaci konzultációt az elektronikus közbeszerzési rendszer (a továbbiakban: EKR) funkciójának használatával kell meghirdetni. Központi beszerző szerv által lebonyolított közbeszerzési eljárás esetén az előzetes piaci konzultáció az általa használt egyéb informatikai rendszerben is meghirdethető.
-
-(4)[^1] Az előzetes piaci konzultáció (3) bekezdés szerinti kötelező meghirdetésének határideje a közbeszerzési eljárást megindító felhívás Közbeszerzési Hatóság részére történő megküldését – a Kbt. 51. § (1) bekezdésének alkalmazása esetén a részvételi felhívás gazdasági szereplők részére történő közvetlen megküldését – megelőző legalább tizennegyedik nap, amelynek során az (5) bekezdés a) pontja szerinti dokumentumok elérhetőségét folyamatosan biztosítani kell. Az előzetes piaci konzultációba történő bekapcsolódás lehetőségét a meghirdetéstől számított legalább nyolc napig kell biztosítani. Amennyiben a rendelkezésre álló határidőben egyetlen gazdasági szereplő sem kapcsolódik be az előzetes piaci konzultációba, az ajánlatkérő a közbeszerzési eljárást megindító felhívást az előzetes piaci konzultáció meghirdetését követő tizennegyedik napnál hamarabb is megküldheti a Közbeszerzési Hatóság vagy a Kbt. 51. § (1) bekezdésének alkalmazása esetén a gazdasági szereplők részére.
-
-(5)[^2] Az előzetes piaci konzultáció során az ajánlatkérő köteles legalább
+(5)[^5] Az előzetes piaci konzultáció során az ajánlatkérő köteles legalább
 
 a) a közbeszerzés tárgyát, a műszaki leírás, az alkalmassági követelmények és az értékelési szempontok tervezetét, valamint a szerződéstervezetet vagy a főbb szerződéses feltételeket a konzultáció meghirdetésekor közzétenni,
 
@@ -30,10 +22,14 @@ c) a beérkezett véleményekről, a véleményekkel kapcsolatos álláspontjár
 
 (8) Ha az előzetes piaci konzultáció során egyetlen gazdasági szereplő sem ad véleményt, az ajánlatkérő az (5) bekezdés c) pontja szerinti összefoglalóban ennek tényét köteles rögzíteni. A beérkezett vélemények hiánya nem befolyásolja a közbeszerzési eljárás megindíthatóságát.
 
-(9) A Kbt. 61. § (5) bekezdése szerinti részajánlattételi lehetőség biztosítása esetén az (1) bekezdés szerinti kötelezettséget azon közbeszerzési eljárási rész vagy részek vonatkozásában kell teljesíteni, amelyhez kapcsolódó beszerzési tárgy az (1) bekezdés b) pontja szerinti valamely CPV főcsoportba tartozik. Ha a közbeszerzés többféle, eltérő CPV főcsoportokba tartozó beszerzési tárgyat foglal magában, az (1) bekezdés szerinti kötelezettség megállapításakor a beszerzés fő tárgyát kell alapul venni.
+(9)[^6]
 
-(10)[^3] A közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdekképviseleti szervezet értesítheti a tagjait a tevékenységükkel összefüggő előzetes piaci konzultáció indításának tényéről.
+(10)[^7] A közbeszerzés tárgyával összefüggő tevékenységű kamara vagy érdekképviseleti szervezet értesítheti a tagjait a tevékenységükkel összefüggő előzetes piaci konzultáció indításának tényéről.
 
-[^1]: Az 1. § (4) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (5) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (10) bekezdését a 411/2023. (VIII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^1]: Az 1. § (1) bekezdése az 53/2024. (III. 4.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: Az 1. § (2) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (3) bekezdése az 53/2024. (III. 4.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (5) bekezdése a 411/2023. (VIII. 30.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (9) bekezdését az 53/2024. (III. 4.) Korm. rendelet 9. § c) pontja hatályon kívül helyezte.
+[^7]: Az 1. § (10) bekezdését a 411/2023. (VIII. 30.) Korm. rendelet 7. § (2) bekezdése iktatta be.
