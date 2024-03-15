@@ -10,6 +10,6 @@ b) a gazdasági szereplő megfeleljen a kamara által meghirdetett minősítési
 
 (4) A minősítési szempontok meghatározása során nem lehet különbséget tenni az ajánlattevők között sem letelepedési helyük szerint, sem más módon.
 
-(5)[^95] A Kbt. 65. § (7) bekezdésének alkalmazásakor a kapacitásait rendelkezésre bocsátó szervezet (személy) olyan – szerződésben, előszerződésben vagy más formában vállalt – kötelezettségvállalását tartalmazó okiratot kell csatolni, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások a kamarai jegyzékben szereplés teljes időtartama alatt az ajánlattevő rendelkezésére fognak állni.
+(5)[^96] A Kbt. 65. § (7) bekezdésének alkalmazásakor a kapacitásait rendelkezésre bocsátó szervezet (személy) olyan – szerződésben, előszerződésben vagy más formában vállalt – kötelezettségvállalását tartalmazó okiratot kell csatolni, amely alátámasztja, hogy a szerződés teljesítéséhez szükséges erőforrások a kamarai jegyzékben szereplés teljes időtartama alatt az ajánlattevő rendelkezésére fognak állni.
 
-[^95]: A 37. § (5) bekezdése a 9/2020. (I. 31.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^96]: A 37. § (5) bekezdése a 9/2020. (I. 31.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
