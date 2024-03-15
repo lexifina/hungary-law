@@ -2,7 +2,7 @@
 
 a) a Kbt. 37. § (1) bekezdés h)–i) pontja szerinti eljárás eredményéről szóló tájékoztatót – az erre szolgáló űrlap alkalmazásával – a közbeszerzésekért felelős miniszter által üzemeltetett egységes elektronikus közbeszerzési rendszeren (a továbbiakban: EKR) keresztül nyilvánosan közzétenni,
 
-b)[^3] az EKR útján nyilvánosan közzétenni a Kbt. 43. § (1) bekezdés a)–c) pontja szerinti adatokat – a 7. § (3) bekezdése szerint –, valamint a Kbt. 43. § (2) bekezdés a)–e) pontja szerinti adatokat,
+b)[^3] az EKR útján nyilvánosan közzétenni a Kbt. 43. § (1) bekezdés a)–c) pontja szerinti adatokat – a 7. § (3) bekezdése szerint –, valamint a Kbt. 43. § (2) bekezdés a)–f) pontja szerinti adatokat,
 
 c) az EKR-ben az erre szolgáló űrlapon rögzíteni a 8. § szerinti adatokat,
 
@@ -12,7 +12,7 @@ d) az EKR-ben az erre szolgáló felületen az eljárás teljes iratanyagát ut�
 
 a) rendelkezik külső, független rendszervizsgáló által folyamatosan ellenőrzött minőségirányítási és információbiztonsági irányítási rendszerrel;
 
-b) tevékenysége ellátásához felelős akkreditált közbeszerzési szaktanácsadót vesz igénybe;
+b)[^4] tevékenysége ellátásához állami közbeszerzési szaktanácsadót vagy felelős akkreditált közbeszerzési szaktanácsadót vesz igénybe;
 
 c) a közbeszerzések elektronikus támogatásában felhasznált informatikai rendszer üzemzavarával kapcsolatos telefonhívások fogadását e célra fenntartott hívószámon folyamatosan biztosítja;
 
@@ -37,4 +37,5 @@ a) az EKR-en kívüli más informatikai rendszer alkalmazása esetén, kivéve, 
 b) ha az ajánlatok, több szakaszból álló eljárásban a részvételi jelentkezések benyújtása során nem kötelező az elektronikus úton történő kommunikáció.
 
 [^2]: A 2. § a 66/2019. (III. 27.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^3]: A 2. § (1) bekezdés b) pontja az 54/2023. (II. 27.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § (1) bekezdés b) pontja az 54/2023. (II. 27.) Korm. rendelet 17. § a) pontja, az 53/2024. (III. 4.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdés b) pontja az 53/2024. (III. 4.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

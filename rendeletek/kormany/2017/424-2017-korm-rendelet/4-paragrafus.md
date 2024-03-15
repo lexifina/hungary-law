@@ -1,4 +1,4 @@
-## 3. §[^4] Az ajánlatkérő a Kbt. 43. § (1) bekezdés b) pontja szerinti kötelezettségének megfelel, ha az ott említett szerződéseket és szerződésmódosításokat legkésőbb a Kbt. 37. § (1) bekezdés h), illetve j) pontja szerinti hirdetmény megjelenését követő öt munkanapon belül a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban és az EKR-ben közzéteszi.
+## 3. §[^5] Az ajánlatkérő a Kbt. 43. § (1) bekezdés b) pontja szerinti kötelezettségének megfelel, ha az ott említett szerződéseket és szerződésmódosításokat legkésőbb a Kbt. 37. § (1) bekezdés h), illetve j) pontja szerinti hirdetmény megjelenését követő öt munkanapon belül a Közbeszerzési Hatóság által működtetett nyilvános elektronikus szerződéstárban és az EKR-ben közzéteszi.
 
 ## 2. Általános követelmények
 
@@ -20,4 +20,4 @@ g) a továbbított adatokhoz hozzáférési jogosultságot csak az arra jogosult
 
 h) az e § szerinti követelmények megsértése felderíthető legyen.
 
-[^4]: A 3. §-t újonnan a 40/2021. (II. 2.) Korm. rendelet 14. §-a iktatta be.
+[^5]: A 3. §-t újonnan a 40/2021. (II. 2.) Korm. rendelet 14. §-a iktatta be.

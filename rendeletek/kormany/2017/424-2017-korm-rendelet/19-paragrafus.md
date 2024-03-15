@@ -1,5 +1,5 @@
-## 11.[^44]
+## 11.[^46]
 
 19. §
 
-[^44]: A 11. alcímet (19. §) a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés i) pontja hatályon kívül helyezte.
+[^46]: A 11. alcímet (19. §) a 66/2019. (III. 27.) Korm. rendelet 38. § (1) bekezdés i) pontja hatályon kívül helyezte.
