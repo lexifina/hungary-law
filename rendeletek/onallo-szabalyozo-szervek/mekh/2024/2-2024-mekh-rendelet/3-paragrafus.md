@@ -1,3 +1,3 @@
-3. § Az R. 10. §-a a következő 24. ponttal egészül ki:
+3. §[^4]
 
-(A VET és a Kkt. szerinti adatszolgáltató adatszolgáltatási kötelezettségének a következő adatlapok Hivatal részére történő megküldésével tesz eleget:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
