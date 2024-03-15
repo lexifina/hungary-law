@@ -1,4 +1,4 @@
-## V/A. Fejezet[^43]
+## V/A. Fejezet[^49]
 
 ## AZ ÜVEGKAPU HASZNÁLATÁRA KÖTELEZETT ÉPÍTÉSI BERUHÁZÁSOKRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
@@ -8,4 +8,4 @@
 
 (3) Az (1) bekezdésben meghatározott építési beruházás esetén a közbeszerzési dokumentumokban is rögzíteni kell a szerződés teljesítésére vonatkozó feltételként, hogy a nyertes ajánlattevő biztosítani köteles az Üvegkapu alkalmazását.
 
-[^43]: Az V/A. fejezetet (34/A. §) a 707/2021. (XII. 15.) Korm. rendelet 14. §-a iktatta be.
+[^49]: Az V/A. fejezetet (34/A. §) a 707/2021. (XII. 15.) Korm. rendelet 14. §-a iktatta be.

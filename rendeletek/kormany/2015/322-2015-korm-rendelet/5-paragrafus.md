@@ -24,4 +24,6 @@ h) a tervezői művezetés szükségességének meghatározásáról;
 
 i) az elkészült építési beruházás átadás-átvételi eljárásának koordinálásáról.
 
-(4) A beruházás-lebonyolító feladatköre – felelős akkreditált közbeszerzési szaktanácsadó alkalmazása esetén – a felelős akkreditált közbeszerzési szaktanácsadó által ellátott feladatokra nem terjed ki, a beruházás-lebonyolító a felelős akkreditált közbeszerzési szaktanácsadóval szükség szerint együttműködhet.
+(4)[^3] A beruházás-lebonyolító feladatköre – állami közbeszerzési szaktanácsadó vagy felelős akkreditált közbeszerzési szaktanácsadó alkalmazása esetén – az állami közbeszerzési szaktanácsadó vagy a felelős akkreditált közbeszerzési szaktanácsadó által ellátott feladatokra nem terjed ki, a beruházás-lebonyolító az állami közbeszerzési szaktanácsadóval vagy a felelős akkreditált közbeszerzési szaktanácsadóval szükség szerint együttműködhet.
+
+[^3]: Az 5. § (4) bekezdése az 53/2024. (III. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
