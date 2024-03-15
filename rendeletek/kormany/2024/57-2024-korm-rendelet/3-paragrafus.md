@@ -1,1 +1,3 @@
-3. § A 182/2022. (V. 24.) Korm. rendelet 3. § (2) bekezdés c) pontjában az „igazgatója” szövegrész helyébe az „igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

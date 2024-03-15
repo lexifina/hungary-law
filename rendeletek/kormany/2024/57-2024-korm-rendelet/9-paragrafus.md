@@ -1,5 +1,3 @@
-## „a) miniszter, a politikai igazgató, a nemzetbiztonsági főtanácsadó esetében – a Miniszterelnöki Kormányiroda közigazgatási államtitkára útján –,”
+9. §[^10]
 
-## [a miniszterelnök engedélyezi.]
-
-9. § A 275/2015. (IX. 21.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

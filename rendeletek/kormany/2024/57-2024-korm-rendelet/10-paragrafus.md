@@ -1,1 +1,3 @@
-10. § A 275/2015. (IX. 21.) Korm. rendelet 4. § (1) bekezdésében, 5/A. § (1) bekezdésében, 6. § (1) bekezdés nyitó szövegrészében, 6. § (1) bekezdés b) pontjában, 7. § (1) bekezdésében, 8. § (1) bekezdésében, 10. § (1) bekezdés a) pontjában, 11. § (5) bekezdésében az „igazgató” szövegrész helyébe az „igazgató, a nemzetbiztonsági főtanácsadó” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 182/2022. (V. 24.) Korm. rendelet 29. §-a.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
