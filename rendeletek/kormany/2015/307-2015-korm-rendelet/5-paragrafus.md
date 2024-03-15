@@ -8,6 +8,8 @@ a) azonosnak minősül az előnyben részesítendő ajánlat, ha az árkülönb�
 
 b) az elektronikus hírközlő hálózati berendezésekben használt szoftvereket árunak kell tekinteni.
 
-(4) A (2) bekezdés szerinti esetben az eljárás nyertese az előnyben részesített ajánlatot tevő, ha pedig több előnyben részesítendő ajánlat van, az az ajánlattevő, amelynek ajánlata alacsonyabb árat tartalmaz. Azonos árajánlat esetében – a Kbt. 77. § (5) bekezdésének megfelelően – az eljárás nyertese az az ajánlattevő, akinek az ajánlata a nem egyenlő értékelési pontszámot kapott részszempontok közül a legmagasabb súlyszámú részszempontra nagyobb értékelési pontszámot kapott.
+(4)[^5] A (2) bekezdés szerinti esetben az eljárás nyertese az előnyben részesített ajánlatot tevő, ha pedig több előnyben részesítendő ajánlat van, az az ajánlattevő, amelynek ajánlata alacsonyabb árat tartalmaz. Azonos árajánlat esetében – a Kbt. 77. § (5) bekezdésének megfelelően – az eljárás nyertese az az ajánlattevő, akinek az ajánlata a nem egyenlő értékelési pontszámot kapott szempontok közül a legmagasabb súlyszámú szempontra nagyobb értékelési pontszámot kapott.
 
 (5) Az ajánlatkérőnek nem kell alkalmaznia a (2) bekezdést, ha az ajánlat előnyben részesítése azzal a következménnyel járna, hogy műszaki-technikai szempontból eltérő és nem illeszkedő dolgokat kellene beszerezni, vagy az ilyen beszerzés aránytalan műszaki-technikai nehézséget eredményezne a működtetésben és a fenntartásban vagy aránytalan költségtöbblettel járna.
+
+[^5]: Az 5. § (4) bekezdése az 53/2024. (III. 4.) Korm. rendelet 1. §-a szerint módosított szöveg.
