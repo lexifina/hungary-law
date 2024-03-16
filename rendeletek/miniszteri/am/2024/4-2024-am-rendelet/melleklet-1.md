@@ -1,3 +1,7 @@
-1. melléklet a 4/2024. (II. 14.) AM rendelethez[^16]
+1. melléklet a 4/2024. (II. 14.) AM rendelethez
 
-[^16]: Az 1. melléklet a 16. § (2) bekezdés alapján 2024. március 16-án lép hatályba.
+A Vhr. 12. melléklete a következő 7. ponttal egészül ki:
+
+(Horgászati, halászati tevékenységekhez kapcsolódó díjak)
+
+„7. Magyar Horgászkártya díja 2200 Ft”
