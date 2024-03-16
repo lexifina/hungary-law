@@ -1,4 +1,4 @@
-14. melléklet a 133/2013. (XII. 29.) VM rendelethez[^242]
+14. melléklet a 133/2013. (XII. 29.) VM rendelethez[^243]
 
 A halgazdálkodási terv szerkezete és kötelező tartalmi elemei
 
@@ -70,4 +70,4 @@ III. rész
 
 A támogatási javaslat, a jóváhagyás és záradékolás elektronikus formában történik.
 
-[^242]: A 14. mellékletet az 5/2021. (II. 23.) AM rendelet 16. §-a iktatta be.
+[^243]: A 14. mellékletet az 5/2021. (II. 23.) AM rendelet 16. §-a iktatta be.
