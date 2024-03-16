@@ -1,11 +1,3 @@
-9. § Hatályát veszti a 63/2022. (II. 28.) Korm. rendelet
+9. §[^9]
 
-a) 1. § (2) bekezdése,
-
-b) 1. § (3) bekezdésében az „és (2)” szövegrész,
-
-c) 1. § (9) bekezdése,
-
-d) 2. § (1)–(4) bekezdése,
-
-e) 7. §-a.
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
