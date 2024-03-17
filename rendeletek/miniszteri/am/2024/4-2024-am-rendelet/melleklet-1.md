@@ -1,7 +1,3 @@
-1. melléklet a 4/2024. (II. 14.) AM rendelethez
+1. melléklet a 4/2024. (II. 14.) AM rendelethez[^17]
 
-A Vhr. 12. melléklete a következő 7. ponttal egészül ki:
-
-(Horgászati, halászati tevékenységekhez kapcsolódó díjak)
-
-„7. Magyar Horgászkártya díja 2200 Ft”
+[^17]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
