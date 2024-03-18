@@ -1,4 +1,4 @@
-9/A. §[^8] (1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 630/2022. (XII. 30.) Korm. rendelet (a továbbiakban: Mód. R.) által megállapított 5/A. § szerinti feladatok alapján az egészségügyért felelős miniszterhez átkerülő feladat- és hatáskörök tekintetében az OKFŐ jogutódja a Belügyminisztérium, – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a jogutódlás a Kit. 20. § (5) bekezdése szerint történik.
+9/A. §[^10] (1) Az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 630/2022. (XII. 30.) Korm. rendelet (a továbbiakban: Mód. R.) által megállapított 5/A. § szerinti feladatok alapján az egészségügyért felelős miniszterhez átkerülő feladat- és hatáskörök tekintetében az OKFŐ jogutódja a Belügyminisztérium, – az ellátásukhoz kapcsolódó egyéb feladatokra, jogosultságokra és kötelezettségekre kiterjedően – a jogutódlás a Kit. 20. § (5) bekezdése szerint történik.
 
 (2) Az (1) bekezdés szerinti jogutódlás kiterjed a következőkre:
 
@@ -12,4 +12,4 @@ d) a c) pontban megjelölt kormánytisztviselőkkel, más kormányzati szolgála
 
 (3) Az (1) és (2) bekezdéstől eltérően az EFOP-1.9.6-16-2017-00001 azonosító számú „Elektronikus egészségügyi ágazati fejlesztések” projekt keretében végrehajtott Ápolástámogatási rendszer és Járóbeteg-irányítási rendszer fejlesztések tekintetében fennálló szerződések és vagyoni elemek nem szállnak át a Szolgáltatóközpontra, azzal, hogy a megvalósítás szakmai irányítását a belügyminiszter végzi.
 
-[^8]: A 9/A. §-t a 630/2022. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
+[^10]: A 9/A. §-t a 630/2022. (XII. 30.) Korm. rendelet 34. §-a iktatta be.
