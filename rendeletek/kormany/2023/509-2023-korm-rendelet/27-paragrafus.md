@@ -1,0 +1,3 @@
+27. § (1) Az e rendelet hatálybalépése előtt kiadott természetes gyógytényező elnevezés használatára irányuló engedélyek felülvizsgálata esetében a 6. § (1) bekezdése, a 13. § (1) bekezdése, a 16. § (3) bekezdése, a 17. § (3) bekezdése, a 18. § (2) bekezdése és a 21. § (4) bekezdése szerinti határidőket az engedélyek véglegessé válásától kell számítani.
+
+(2) Az e rendelet hatálybalépése előtt kiadott azon szűrő-forgató rendszer üzemeltetése alóli felmentési engedélyek felülvizsgálatát, ahol nem került érvényességi vagy felülvizsgálati határidő megállapításra, az e rendelet hatálybalépését követő 2 éven belül kezdeményezni kell.
