@@ -1,5 +1,15 @@
 ## 6. A közhasználatú fürdő üzemeltetésére vonatkozó szabályok
 
-7. §[^7]
+7. § (1) A közhasználatú fürdő üzemeltetésének előfeltétele, hogy a közhasználatú fürdő rendelkezzen a 3. § szerinti, a 2. melléklet 1. pontjának megfelelő tartalmú, egészségügyi államigazgatási szerv által határozatban jóváhagyott és az üzemeltetésnek megfelelően aktualizált közegészségügyi-technológiai szabályzattal, és sor kerüljön sikeres terhelés nélküli próbaüzemi időszak lefolytatására.
 
-[^7]: A 7. § a 19. § (2) bekezdés alapján 2024. március 19-én lép hatályba.
+(2) Az 1-es típusú közhasználatú fürdőknél az egyidejű legnagyobb terhelhetőségre vonatkozó követelményeket a 7. melléklet tartalmazza.
+
+(3) A fürdési célú létesítmények létesítését követően az üzemeltetés megfelelőségét az egészségügyi államigazgatási szerv hatósági mintavétellel legalább egy, de maximum két hónap elteltével ellenőrzi.
+
+(4) Az egészségügyi államigazgatási szerv megteszi a 18. § szerinti intézkedéseket, ha
+
+a) a közhasználatú fürdő üzemeltetője a közegészségügyi-technológiai szabályzatot nem nyújtotta be e rendelet előírásai szerint,
+
+b) a közegészségügyi szabályzat tartalma nem aktualizált, a tényleges állapottól eltérő vagy
+
+c) a közegészségügyi-technológiai szabályzat szerinti üzemeltetés mellett nem biztosítható a közhasználatú fürdő közegészségügyi előírásoknak megfelelő üzemeltetése.

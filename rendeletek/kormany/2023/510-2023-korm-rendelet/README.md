@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-510-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2023-11-21 | 2023-510-20-22.1 | 510/2023. (XI. 20.) Korm. rendelet |
+| 2024-03-19 | 2023-510-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |

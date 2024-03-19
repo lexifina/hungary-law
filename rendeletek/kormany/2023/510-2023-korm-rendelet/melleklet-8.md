@@ -1,3 +1,13 @@
+## N = Ne * 0,35 * NyI,
+
+## ahol:
+
+## N = napi megengedett terhelhetőség
+
+## Ne = egyidejű megengedett terhelhetőség
+
+## NyI = nyitvatartási idő (óra)
+
 8. melléklet az 510/2023. (XI. 20.) Korm. rendelethez
 
 1. Fürdővízellátásban a vízzel közvetlenül érintkező anyagok, termékek nyilvántartásba vételének és a technológiák fürdővízbiztonsági engedélyezésének feltételei

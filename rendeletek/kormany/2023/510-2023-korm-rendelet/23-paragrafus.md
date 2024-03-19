@@ -1,3 +1,5 @@
-23. §[^19]
+23. § Hatályát veszti
 
-[^19]: A 23. § a 19. § (2) bekezdés alapján 2024. március 19-én lép hatályba.
+a) a közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet,
+
+b) a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet.

@@ -1,5 +1,5 @@
 ## 9. Közhasználatú fürdők közegészségügyi előírásai
 
-10. §[^10]
+10. § (1) A közhasználatú fürdő üzemeltetője köteles az 5. mellékletben foglalt közegészségügyi szabályok együttes betartásával üzemeltetni a közhasználatú fürdőt.
 
-[^10]: A 10. § a 19. § (2) bekezdés alapján 2024. március 19-én lép hatályba.
+(2) Az 1-es és a 2/a típusú közhasználatú fürdők légterében a 6. mellékletben meghatározott levegőminőségi határértékeket be kell tartani.
