@@ -1,3 +1,0 @@
-3. § (1) Az üzemeltető olyan munkarendről gondoskodik, amelynek keretében a közfürdő üzemeltetésében keletkezett hibát, üzemzavart a nyitvatartási időben a fürdővendégek testi épségének és egészségének veszélyeztetése nélkül el lehet hárítani, vagy a hibás egységet biztonságosan üzemen kívül lehet helyezni.
-
-(2) A közfürdőn belüli szennyvízcsatornák működésében keletkezett hiba elhárítása során, illetve a karbantartási munkák alatt a szennyvíz elvezetését olyan módon kell megoldani, amely a fürdővíz és a közfürdő területének szennyezését kizárja. Amennyiben erre nincs lehetőség, a közfürdőt (közfürdőrészleget) ideiglenesen be kell zárni.

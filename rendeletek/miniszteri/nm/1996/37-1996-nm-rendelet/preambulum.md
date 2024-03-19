@@ -1,1 +1,0 @@
-A közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet 6. §-ának (6) bekezdésében kapott felhatalmazás alapján – az érintett miniszterekkel egyetértésben – a következőket rendelem el:
