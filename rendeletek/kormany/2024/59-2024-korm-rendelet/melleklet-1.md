@@ -1,5 +1,3 @@
-1. melléklet az 59/2024. (III. 13.) Korm. rendelethez
+1. melléklet az 59/2024. (III. 13.) Korm. rendelethez[^5]
 
-Az R. 1. melléklete a következő 4. ponttal egészül ki:
-
-„4. EgészségAblak keretrendszer és mobilalkalmazás”
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
