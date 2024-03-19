@@ -1,3 +1,3 @@
-16. §[^109]
+16. §[^112]
 
-[^109]: A 15–17. §-t a 88/2013. (X. 2.) VM rendelet 43. § d) pontja hatályon kívül helyezte.
+[^112]: A 15–17. §-t a 88/2013. (X. 2.) VM rendelet 43. § d) pontja hatályon kívül helyezte.
