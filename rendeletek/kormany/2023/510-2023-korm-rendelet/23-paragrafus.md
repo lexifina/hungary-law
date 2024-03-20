@@ -1,5 +1,3 @@
-23. § Hatályát veszti
+23. §[^1]
 
-a) a közfürdők létesítéséről és működéséről szóló 121/1996. (VII. 24.) Korm. rendelet,
-
-b) a közfürdők létesítésének és üzemeltetésének közegészségügyi feltételeiről szóló 37/1996. (X. 18.) NM rendelet.
+[^1]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
