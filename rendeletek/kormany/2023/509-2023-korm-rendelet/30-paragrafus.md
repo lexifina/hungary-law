@@ -1,1 +1,3 @@
-30. § Hatályát veszti a természetes gyógytényezőkről szóló 74/1999. (XII. 25.) EüM rendelet.
+30. §[^1]
+
+[^1]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
