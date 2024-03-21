@@ -1,8 +1,8 @@
 A Kormány
 
-1. egyetért a törökországi földrengés következtében megrongálódott
+1.[^1] egyetért a törökországi földrengés következményeként humanitárius segítségnyújtás keretében
 
-a) az Adiyaman-i Szent Péter és Pál szír ortodox templom újjáépítésének és az Antióchiai Szír Ortodox Egyház további törökországi humanitárius feladatai ellátásának,
+a) az Antióchiai Szír Ortodox Egyház törökországi humanitárius feladatai ellátásának,
 
 b) az Osmaniyei Művelődési Központ (Cebeli Bereket Kültür Merkezi) újjáépítésének
 
@@ -10,15 +10,21 @@ Hungary Helps Program keretében történő támogatásával;
 
 2. egyetért a szíriai földrengés következtében kialakult humanitárius segítségnyújtás keretében az Antióchiai Szír Ortodox Egyház, a szíriai Melkita Görögkatolikus Egyház és az Antióchiai Görög Ortodox Egyház részére adomány nyújtásával;
 
-3. felhívja a pénzügyminisztert, hogy gondoskodjon
+3.[^2] felhívja a pénzügyminisztert, hogy gondoskodjon
 
-a) az 1. pont a) alpontja szerinti cél megvalósítása érdekében 562 837 500 forint,
+a) az 1. pont a) alpontja szerinti cél megvalósítása érdekében 18 000 000 forint,
 
 b) az 1. pont b) alpontja szerinti cél megvalósítása érdekében 187 612 500 forint,
 
-c) a 2. pont szerinti cél megvalósítása érdekében 375 225 000 forint,
+c) a 2. pont szerinti cél megvalósítása érdekében
 
-mindösszesen 1 125 675 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 9. Hungary Helps Programhoz kapcsolódó feladatok alcím, 1. Hungary Helps Programhoz kapcsolódó támogatások jogcímcsoport javára;
+ca) az Antióchiai Szír Ortodox Egyház projektjeinek megvalósítására 670 062 500 forint,
+
+cb) a szíriai Melkita Görögkatolikus Egyház projektjeinek megvalósítására 125 000 000 forint,
+
+cc) az Antióchiai Görög Ortodox Egyház projektjeinek megvalósítására 125 000 000 forint,
+
+mindösszesen 1 125 675 000 forint többletforrás biztosításáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 9. Hungary Helps Programhoz kapcsolódó feladatok alcím, 1. Hungary Helps Programhoz kapcsolódó támogatások jogcímcsoport javára;
 
 | Felelős: | pénzügyminiszter |
 
@@ -35,3 +41,6 @@ mindösszesen 1 125 675 000 forint többletforrás biztosításáról a Magyaror
 | Felelős: | külgazdasági és külügyminiszter |
 
 | Határidő: | a 3. pont a) és c) alpontja szerinti forrás rendelkezésre állását követően haladéktalanul |
+
+[^1]: Az 1. pont az 1063/2024. (III. 21.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 3. pont az 1063/2024. (III. 21.) Korm. határozat 2. pontjával megállapított szöveg.
