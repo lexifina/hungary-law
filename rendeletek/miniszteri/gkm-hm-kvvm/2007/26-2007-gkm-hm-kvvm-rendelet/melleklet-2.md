@@ -1080,31 +1080,17 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465211N | 0164912E |
 
-| 15. | Szeged TIZ | 4000’ (1200 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
+| 15. | Szeged TIZ1 | GND - 9500’- AMSL | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 462300N | 0200000E |
+| 462227N 462338N 462200N 461330N 461035N országhatár 460927N | 0201815E 0195959E 0195400E 0195430E 0195606E 0202351E |
 
-| 462300N | 0201300E |
+| 16. | Szeged TIZ2 | 2000’- 9500’- AMSL | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 461500N | 0201300E |
+| 462354N 463250N 462743N 460927N országhatár 460756N | 0194931E 0195950E 0201557E 0202351E 0194931E |
 
-| 461217N | 0200526E |
+| 17. | Tököl TIZ | 3500’ (1050 m)- AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 461500N | 0200000E |
-
-| 462300N | 0200000E |
-
-| 16. | Tököl TIZ | 3500’ (1050 m) AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
-
-| 472257N | 0185724E |
-
-| 472140N | 0190505E |
-
-| 471556N | 0185907E |
-
-| 472014N | 0185339E |
-
-| 472257N | 0185724E |
+| 472257N 472140N 471556N 472014N 472257N | 0185724E 0190505E 0185907E 0185339E 0185724E |
 
 | 2. Műrepülő légterek |
 
@@ -1488,7 +1474,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 4. Drop Zone légterek
 
-## 2X05311N_7
+## 3X12220M.docx
 
 |  | A | B | C |
 
@@ -1512,15 +1498,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 6. | LHSDZLHKV/Kaposújlak | FL165 (5050 m)/GND |  |
 
-| 463100N | 0173400E |
-
-| 463100N | 0174700E |
-
-| 461800N | 0174700E |
-
-| 461800N | 0173400E |
-
-| 463100N | 0173400E |
+| 463100N 463100N 461800N 461800N 463100N | 0173400E 0174700E 0174700E 0173400E 0173400E |
 
 | 7. | LHSDZLHMP/Matkópuszta | FL145 (4400 m)/GND |  |
 
@@ -1528,55 +1506,21 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 8. | LHSDZLHKH/Kiskunfélegyháza | FL135 (4100 m STD)/GND |  |
 
-| 464600N | 0194546E |
-
-| 464800N | 0195100E |
-
-| 464558N | 0195533E |
-
-| 464200N | 0195600E |
-
-| 464600N | 0194546E |
+| 464600N 464800N 464558N 464200N 464600N | 0194546E 0195100E 0195533E 0195600E 0194546E |
 
 | 9. | LHSDZLHBD/Börgönd | FL155 (4700 m STD)/GND |  |
 
-| 471037N | 0182857E |
-
-| 470619N | 0182317E |
-
-| 470145N | 0182636E |
-
-| 470237N | 0183147E |
-
-| 470840N | 0183425E |
-
-| 471037N | 0182857E |
+| 471037N 470619N 470145N 470237N 470840N 471037N | 0182857E 0182317E 0182636E 0183147E 0183425E 0182857E |
 
 | LHB24 Velencei tó, Dinnyés környezetvédelmi szempontból korlátozott légtér átfedő részének kizárásával |
 
 | 10. | LHSDZLHGD/Gödöllő | 6500’ (2000 m) AMSL/GND | LHSDZLHTL/Tököl légtérrel egyidejűleg nem működhet. |
 
-| 473646N |  | 0191900E |
-
-| 473439N |  | 0191741E |
-
-| 473336N |  | 0192243E |
-
-| 473548N |  | 0192352E |
-
-| 473646N |  | 0191900E |
+| 473646N 473439N 473336N 473548N 473646N | 0191900E 0191741E 0192243E 0192352E 0191900E |
 
 | 11. | LHSDZLHKA/Kalocsa | FL135 (4100 m STD)/GND |  |
 
-| 463356N | 0185419E |
-
-| 463435N | 0185817E |
-
-| 463118N | 0190123E |
-
-| 463000N | 0185519E |
-
-| 463356N | 0185419E |
+| 463356N 463435N 463118N 463000N 463356N | 0185419E 0185817E 0190123E 0185519E 0185419E |
 
 | 12. | LHSDZLHBC/Békéscsaba | FL155 (4700 m STD)/4000’ (1200 m) AMSL | Csak Békéscsaba TIZ légtérrel együtt működhet. |
 
@@ -1584,31 +1528,13 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 13. | LHSDZLHHO/Hajdúszoboszló | FL145 (4400 m STD)/GND |  |
 
-| 472810N | 0212450E |
-
-| 472228N | 0211500E |
-
-| 472733N | 0211500E |
-
-| 472942N | 0211839E |
-
-| 472810N | 0212450E |
+| 472810N 472228N 472733N 472942N 472810N | 0212450E 0211500E 0211500E 0211839E 0212450E |
 
 | 14. | LHSDZLHKI/Kiskőrös | 3500’ (1050 m) AMSL/GND |  |
 
-| 463939N | 0191442E |
+| 463939N 463914N 463854N 463919N 463939N | 0191442E 0191511E 0191434E 0191403E 0191442E |
 
-| 463914N | 0191511E |
-
-| 463854N | 0191434E |
-
-| 463919N | 0191403E |
-
-| 463939N | 0191442E |
-
-| 15. | LHSDZLHSZ/Szentes | FL115 (3500 m STD)/GND |  |
-
-| 2 km (1 NM) sugarú kör a 463642N 0201700E középpont körül |
+| 15. |  |  |  |
 
 | 16. | LHSDZLHPR/Pér | FL125 (3800 m STD)/9500’ (2900 m STD) AMSL | Csak Pér TIZ légtérrel együtt működhet. |
 
@@ -1622,27 +1548,11 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 19. | LHSDZLHGR1/Gyúró1 | 5500’ (1700 m) AMSL / GND | Csak LHSDZLHGR2/Gyúró2 légtérrel együtt működhet |
 
-| 472642N | 0184505E |
-
-| 472409N | 0184140E |
-
-| 472115N | 0184623E |
-
-| 472347N | 0184948E |
-
-| 472642N | 0184505E |
+| 472642N 472409N 472115N 472347N 472642N | 0184505E 0184140E 0184623E 0184948E 0184505E |
 
 | 20. | LHSDZLHGR2/Gyúró2 | 6500’ (2000 m) AMSL / GND | Csak LHSDZLHGR1/Gyúró1 légtérrel együtt működhet |
 
-| 472409N | 0184140E |
-
-| 472304N | 0184012E |
-
-| 472009N | 0184455E |
-
-| 472115N | 0184623E |
-
-| 472409N | 0184140E |
+| 472409N 472304N 472009N 472115N 472409N | 0184140E 0184012E 0184455E 0184623E 0184140E |
 
 | 21. | LHSDZLHOY/Őcsény | FL145 (4400 m STD) / GND |  |
 
@@ -1651,6 +1561,10 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 | 22. | LHSDZLHFM / Fertőszentmiklós | FL 125 ( 3800 m STD)/GND |  |
 
 | 473557N 473416N 473322N 473339N 473441N 473556N 473557N | 0165122E 0165217E 0165009E 0164820E 0164625E 0164532E 0165122E |
+
+| 23. | LHSDZLHUD/Szeged | 9500’ AMSL – FL135 STD |  |
+
+| 461500N 461217N 461718N 461721N | 0200000E 0200526E 0200722E 0200000E |
 
 5. RMZ-k és TMZ-k
 
@@ -1818,4 +1732,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^107]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^107]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.

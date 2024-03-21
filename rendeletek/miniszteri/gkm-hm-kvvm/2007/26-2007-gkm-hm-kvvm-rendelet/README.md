@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-26-20-0
 | 2023-04-19 | 2007-26-20-0L.36 | 45/2017. (XII. 4.) NFM rendelet |
 | 2023-05-27 | 2007-26-20-0L.37 | 8/2023. (V. 22.) ÉKM rendelet |
 | 2023-11-18 | 2007-26-20-0L.38 | 8/2023. (V. 22.) ÉKM rendelet |
+| 2024-03-21 | 2007-26-20-0L.39 | 45/2017. (XII. 4.) NFM rendelet |
