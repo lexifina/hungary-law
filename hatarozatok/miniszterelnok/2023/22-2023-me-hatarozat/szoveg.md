@@ -4,7 +4,7 @@ a) Lóga Mátét, a Gazdaságfejlesztési Minisztérium államtitkárát a Gazda
 
 b) Nagy Bálintot, az Építési és Közlekedési Minisztérium államtitkárát az Integrált Közlekedésfejlesztési Operatív Program Plusz monitoring bizottsága,
 
-c) dr. Kutnyánszky Zsolt Krisztiánt, az Energiaügyi Minisztérium miniszteri biztosát a Környezeti és Energiahatékonysági Operatív Program Plusz monitoring bizottsága,
+c)[^1]
 
 d) dr. Rétvári Bencét, a Belügyminisztérium államtitkárát az Emberi Erőforrás Fejlesztési Operatív Program Plusz monitoring bizottsága,
 
@@ -34,6 +34,7 @@ bb) Lóga Mátét, a Gazdaságfejlesztési Minisztérium államtitkárát a Gazd
 
 elnökévé kinevezem.
 
-3.[^1]
+3.[^2]
 
-[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpontját a 20/2024. (III. 21.) ME határozat 2. pontja visszavonta.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
