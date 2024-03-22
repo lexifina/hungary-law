@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 3. melléklet, Tiltott, korlátozott és veszélyes légterek, 2. Korlátozott légterek pontban foglalt táblázat 10. sora.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
