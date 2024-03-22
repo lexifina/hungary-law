@@ -1,0 +1,3 @@
+24. § (1) Az eljáró tanács elnökét hatvanezer forint, az eljáró tanács tagját negyvenötezer forint díjazás illeti meg felek közötti egyezség eljáró tanács általi jóváhagyása, továbbá az eljáró tanács Iszt. 19. § (2) bekezdése szerinti döntése esetén. A kérelem érdemi vizsgálat nélkül történő elutasítása vagy – a felek közötti egyezség eljáró tanács általi jóváhagyása kivételével – az eljárás megszüntetése esetén az eljáró tanács elnökét és tagját külön díjazás nem illeti meg.
+
+(2) Az eljáró tanács elnöke és tagja havonta az (1) bekezdés szerinti elintézett ügyek alapján legalább százezer, de legfeljebb ötszázezer forint összegű díjazásra jogosult.

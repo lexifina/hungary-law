@@ -1,0 +1,3 @@
+15. § (1) A felek a vitarendezéssel kapcsolatban felmerült költségeiket maguk előlegezik.
+
+(2) A kérelmező a Rendelet 21. cikk (5) bekezdése alapján a vitarendezéssel kapcsolatban felmerült észszerű költségei megtérítését kérheti az igényelt költség összegének megjelölésével és indokoltságának – szükség szerint – okirattal történő alátámasztásával. Észszerű költségnek tekinthető különösen az előzetes tudakozódás, egyeztetés és levelezés költsége, a felek személyes megjelenésével összefüggő útiköltség és keresetkiesés. A képviselettel összefüggésben felmerülő költség nem tekinthető az eljárás költségének, és a szolgáltató nem kötelezhető a kérelmező képviseletével összefüggésben felmerülő költség megtérítésére.
