@@ -10,7 +10,7 @@ a) tárgyév első félévére vonatkozó teljesítményértékelési elemeket j
 
 b) tárgyév második félévére, valamint egész tárgyévre vonatkozó teljesítményértékelési elemeket tárgyévet követő év január 1-je és január 31-e között
 
-## kell mérnie, illetve értékelnie.
+kell mérnie, illetve értékelnie.
 
 (2) Az (1) bekezdéstől eltérően a kompetenciák szintjeit évente egyszer, az egész tárgyév vonatkozásában kell az értékelő lapon értékelni, tárgyévet követő év január 1-je és január 31-e között.
 

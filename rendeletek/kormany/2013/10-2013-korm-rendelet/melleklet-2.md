@@ -1,4 +1,4 @@
-## Értékelő lap az egyéni teljesítménykövetelmények meghatározásáról és méréséről
+## 5K26141M_0
 
 | s.sz. | Teljesítménykövetelmények | A mérés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -26,6 +26,8 @@
 
 |  | értékelő vezető |
 
-2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^26]
+2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^27]
 
-[^26]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+Értékelő lap az egyéni teljesítménykövetelmények meghatározásáról és értékeléséről
+
+[^27]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.

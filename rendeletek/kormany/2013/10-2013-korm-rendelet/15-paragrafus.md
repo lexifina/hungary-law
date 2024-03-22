@@ -12,7 +12,7 @@ b) az értékelt közszolgálati tisztviselőt tárgyév január 1-je és januá
 
 c) az értékelt hivatásos állomány tagját tárgyév február 15-e és március 15-e között
 
-## tájékoztatnia kell a részére meghatározott, valamint előírt kötelező, illetve – a közszolgálati tisztviselők vonatkozásában – ajánlott teljesítményértékelési elemekről.
+tájékoztatnia kell a részére meghatározott, valamint előírt kötelező, illetve – a közszolgálati tisztviselők vonatkozásában – ajánlott teljesítményértékelési elemekről.
 
 (2) Az (1) bekezdés szerinti tájékoztatás során az értékelő vezető ismerteti a teljesítményértékelés, illetve – a közszolgálati tisztviselők vonatkozásában – a minősítés célját, alapelveit, a mérés és az értékelés szempontjait, a mérés és az értékelés folyamatát.
 

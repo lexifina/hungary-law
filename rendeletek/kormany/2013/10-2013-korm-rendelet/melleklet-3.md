@@ -1,4 +1,4 @@
-## Értékelő lap az egyéni teljesítménykövetelmények meghatározásáról és értékeléséről
+## 5K26141N_0
 
 | s.sz. | Teljesítménykövetelmények | Az értékelés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -26,6 +26,8 @@
 
 ## értékelő vezető
 
-3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^27]
+3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^28]
 
-[^27]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+A kompetencia alapú munkamagatartás értékelő lap
+
+[^28]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
