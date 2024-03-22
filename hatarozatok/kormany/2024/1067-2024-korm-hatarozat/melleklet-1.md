@@ -46,36 +46,20 @@
 
 ## g) engedélyezi – a Kvtv. 27. § (1) bekezdése alapján – a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 7. Turisztikai fejlesztési feladatok alcím kiadási előirányzatának megnövelését 6 141 910 981 forinttal.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1522/2023. (XI. 30.) Korm. határozatban a „2024. június 30.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat [a továbbiakban: 1256/2023. (VI. 28.) Korm. határozat] 1. pont a) alpont nyitó szövegrésze helyébe a következő rendelkezés lép:
+## 3.[^2]
 
-## (A Kormány)
+## 4.[^3]
 
-## „egyetért a makói ipari park megfelelő ivó- és iparivíz-ellátásához, a szennyvízelvezetéshez és -tisztításhoz, illetve a hozzájuk kapcsolódó műtárgyak, tartozékok, berendezések, egyéb kiegészítő elemek hazai költségvetési támogatásból történő előkészítésével és megvalósításával – 2025. június 30. napjáig történő kivitelezési véghatáridővel, az alábbi műszaki tartalommal:”
+## 5.[^4]
 
-## 4. Az 1256/2023. (VI. 28.) Korm. határozat 1. pont o) alpontja helyébe a következő rendelkezés lép, és a pont a következő p)–r) alponttal egészül ki:
-
-## (A Kormány)
-
-## „o) az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az a) alpontban meghatározott feladat megvalósítása érdekében a 2024. évben a szabad előirányzatot meghaladóan, legfeljebb 2 410 000 000 forint összegben kötelezettséget vállaljon a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére;
-
-## p) felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter kezdeményezésére az a) alpontban meghatározott feladat megvalósítása érdekében gondoskodjon a 2024. évben egyszeri jelleggel 2 410 000 000 forint rendelkezésre állásáról a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím javára;
-
-| Felelős: | pénzügyminiszter külgazdasági és külügyminiszter építési és közlekedési miniszter |
-
-| Határidő: | a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
-
-## q) az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az a) alpontban foglalt feladat megvalósításához a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére vállalható kötelezettségek felső korlátját a 2025. évben 2 931 938 680 forintban állapítja meg;
-
-## r) felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter kezdeményezésére az a) alpontban meghatározott feladat megvalósítása érdekében gondoskodjon a 2025. évben egyszeri jelleggel 2 931 938 680 forint rendelkezésre állásáról az adott évi központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím javára.
-
-| Felelős: | pénzügyminiszter külgazdasági és külügyminiszter építési és közlekedési miniszter |
-
-| Határidő: | a 2025. évi központi költségvetés tervezése során |
-
-## 5. Az 1256/2023 (VI. 28.) Korm. határozat 1. pont l) alpontjában az „Áht.” szövegrész helyébe az „államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.)” szöveg lép.
-
-## 6. A Kormány visszavonja az 1256/2023 (VI. 28.) Korm. határozat 1. pont e) alpontját.
+## 6.[^5]
 
 1. melléklet az 1067/2024. (III. 21.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
