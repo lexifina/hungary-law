@@ -1,5 +1,5 @@
 ## 31. Hatályon kívül helyező rendelkezés
 
-48. §[^1]
+48. §[^2]
 
-[^1]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

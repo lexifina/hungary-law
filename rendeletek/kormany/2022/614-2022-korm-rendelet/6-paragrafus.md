@@ -42,7 +42,7 @@ d) a kormánybiztos,
 
 e) a Kormány egyedi döntésével rendkívül indokolt esetben kijelölt személy,
 
-f) az a)–d) pontban meghatározott személy általi igénybevétel esetén az a)–d) pontban meghatározott személy házas- vagy élettársa és gyermeke
+f)[^1] az a)–d) pontban meghatározott személy általi igénybevétel esetén az a)–d) pontban meghatározott személy Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozója vagy az a)–d) pontban meghatározott személy által kijelölt közreműködő
 
 részére biztosítja a Honvédségnek a felkészített erőkkel védett személyek személykísérésében való részvételéhez szükséges személyi és technikai feltételeket.
 
@@ -53,3 +53,5 @@ részére biztosítja a Honvédségnek a felkészített erőkkel védett személ
 (8) Az (5) bekezdés szerinti feltételek (5) bekezdés f) pontja szerinti személyek általi igénybevételének (a továbbiakban: egyéb kísérési feladat) végrehajtása költségét az (5) bekezdés a)–e) pontjában meghatározott személyek foglalkoztatását biztosító költségvetési szerv (a továbbiakban: indító szervezet) a „XIII. Honvédelmi Minisztérium” fejezetnek megtéríti.
 
 (9) Az indító szervezet gondoskodik az egyéb kísérési feladat végrehajtási költségének megtérítéséről az azt igénybe vevő személlyel szemben a saját belső szabályai szerint.
+
+[^1]: A 6. § (5) bekezdés f) pontja a 63/2024. (III. 21.) Korm. rendelet 2. §-a szerint módosított szöveg.
