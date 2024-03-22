@@ -4,4 +4,6 @@ a) dr. Kutnyánszky Zsolt Krisztiánt a Környezeti és Energiahatékonysági Op
 
 b) Steiner Attilát, az Energiaügyi Minisztérium államtitkárát a Környezeti és Energiahatékonysági Operatív Program Plusz monitoring bizottsága elnökévé – 2024. március 1-jei hatállyal – kinevezem.
 
-2. Visszavonom a monitoring bizottságok elnökeinek kinevezéséről és monitoring bizottságok elnökeinek felmentéséről szóló 22/2023. (III. 13.) ME határozat 1. pont c) alpontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
