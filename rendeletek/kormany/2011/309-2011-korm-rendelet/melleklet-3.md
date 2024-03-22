@@ -86,7 +86,7 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 
 42. Központi Certifikáció és tanúsítvány generáló rendszer
 
-43.[^54]
+43.[^54] az európai segélyhívószámra épülő új Egységes Segélyhívó Rendszer
 
 44. Központi Időpontfoglaló Alkalmazás
 
@@ -257,7 +257,7 @@ Az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság által kö
 [^51]: A 3. mellékletet a 257/2016. (VIII. 31.) Korm. rendelet 18. § (4) bekezdése iktatta be, szövege a 81/2019. (IV. 18.) Korm. rendelet 5. § b) pontjával megállapított szöveg.
 [^52]: A 3. melléklet 1. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^53]: A 3. melléklet 5. pontja a 680/2020. (XII. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^54]: A 3. melléklet 43. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^54]: A 3. melléklet 43. pontját a 680/2020. (XII. 28.) Korm. rendelet 2. §-a hatályon kívül helyezte, újonnan a 62/2024. (III. 21.) Korm. rendelet 1. §-a iktatta be.
 [^55]: A 3. melléklet 45. pontját a 72/2023. (III. 10.) Korm. rendelet 2. §-a hatályon kívül helyezte.
 [^56]: A 3. melléklet 63. pontját a 477/2021. (VIII. 9.) Korm. rendelet 7. §-a hatályon kívül helyezte.
 [^57]: A 3. melléklet 97. pontja a 717/2021. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 338/2023. (VII. 25.) Korm. rendelet 3. § (3) bekezdés e) pontja szerint módosított szöveg.
