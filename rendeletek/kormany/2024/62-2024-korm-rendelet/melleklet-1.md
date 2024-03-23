@@ -1,5 +1,3 @@
-1. melléklet a 62/2024. (III. 21.) Korm. rendelethez
+1. melléklet a 62/2024. (III. 21.) Korm. rendelethez[^4]
 
-A 309/2011. (XII. 23.) Korm. rendelet 3. melléklete a következő 43. ponttal egészül ki:
-
-„43. az európai segélyhívószámra épülő új Egységes Segélyhívó Rendszer”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
