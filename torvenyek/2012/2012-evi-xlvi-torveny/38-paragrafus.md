@@ -28,6 +28,8 @@ j) jelölje ki a geodéziai tervezői és geodéziai szakértői minősítő és
 
 k) állapítsa meg a honvédelmi térképészeti hatósági feladatokért felelős szerv hatáskörébe tartozó hatósági eljárások részletes szabályait.
 
+l) állapítsa meg a földmérési és térképészeti tevékenységgel kapcsolatos hatósági eljárások, valamint az ingatlan-nyilvántartási térképi adatbázisból történő adatszolgáltatás részletes szabályait.
+
 (1a) Felhatalmazást kap a Kormány, hogy rendeletben a 6. § (8a) bekezdése szerinti intézkedéseket összehangolt védelmi tevékenység elrendelése esetén bevezesse.
 
 (2) Felhatalmazást kap a miniszter, hogy

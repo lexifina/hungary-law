@@ -62,7 +62,7 @@ b) a felsőfokú szakirányú végzettség igazolása, vagy annak igazolása, ho
 
 a) természetes személyazonosító adatait,
 
-b) a földmérő igazolvány illetve a minősítés számát,
+b) a földmérő igazolvány illetve az ingatlanrendező földmérő minősítés számát,
 
 c) szakképzettségét,
 
@@ -72,9 +72,9 @@ e) lakcímét,
 
 f) elérhetőségeit,
 
-g) a földmérő igazolvány, illetve a minősítés érvényességi idejét.
+g) a földmérő igazolvány, illetve az ingatlanrendező földmérő minősítés érvényességi idejét.
 
-(8a) A (8) bekezdés szerinti nyilvántartásban szereplő természetes személy adatait a nyilvántartást vezető szerv saját honlapján közéteszi a következő adattartalommal:
+(8a) A (8) bekezdés szerinti nyilvántartásban szereplő természetes személy adatait a nyilvántartást vezető szerv a földügyi szakigazgatás hivatalos honlapján közéteszi a következő adattartalommal:
 
 a) családi és utónév,
 

@@ -6,4 +6,4 @@
 
 (3) A honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatokat és adatbázisokat a honvédelem térképészeti támogatásáért felelős szerv kezeli.
 
-(4) Az illetékességi területére vonatkozó állami alapadatokat és adatbázisokat az ingatlanügyi hatóság kezeli.
+(4) A 3. § (1) bekezdés b)–d) és i) pontjaiban meghatározott adatbázisok esetében, az illetékességi területére vonatkozó állami alapadatokat és adatbázisokat az ingatlanügyi hatóságként eljáró kormányhivatal kezeli.

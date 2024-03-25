@@ -1,8 +1,14 @@
-6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő, e törvény hatálya alá tartozó állami alapfeladataik és alapmunkáik ellátásához az állami alapadatok adatbázisaiból egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
+6. § (1) Az ingatlanügyi hatóság, valamint a honvédelem térképészeti támogatásáért felelős szerv a vállalkozási tevékenységnek nem minősülő, e törvény hatálya alá tartozó állami alapfeladataik és alapmunkáik, valamint a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény 3. § 14. pont szerinti honvédelmi szervezetek (a továbbiakban: honvédelmi szervezet), és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény honvédelmi, továbbá hatósági, szakhatósági és államigazgatási feladatainak ellátásához az állami alapadatok adatbázisaiból, valamint az ország legújabb évjárat szerinti domborzat- és felületmodell adatbázisából egymásnak díj-, költség- és térítésmentesen szolgáltatnak adatot.
 
 (1a) Az (1) bekezdésben meghatározott adatátadás kiterjed a 32. § (6) bekezdés szerinti adatokra.
 
+(1b) A földmérési és térinformatikai államigazgatási szerv a 3. § (1) bekezdés f) pontja szerinti adatbázisok esetén az állami átvételi eljárás megindításáról, az eljárás megindítását követő 15 napon belül tájékoztatja a honvédelem térképészeti támogatásáért felelős szervet.
+
+(1c) A honvédelem térképészeti támogatásáért felelős szerv a 3. § (1) bekezdés e)–g) pontja szerinti adatbázisok esetén az állami átvételi eljárás megindításáról, az eljárás megindítását követő 15 napon belül tájékoztatja a földmérési és térinformatikai államigazgatási szervet.
+
 (2) A 4. § (2) és (3) bekezdésében meghatározott szervek az általuk kezelt állami alapadatok adatbázisaiból az adatszolgáltatást hálózati szolgáltatón keresztül is végezhetik.
+
+(2a) Az e §-ban foglalt díjmentes adathozzáféréseket a földmérési és térinformatikai államigazgatási szerv az adatok átadásával köteles biztosítani. A folyamatos hálózati kapcsolatot igénylő hozzáférések esetén – egyedi megállapodás alapján – a földmérési és térinformatikai államigazgatási szerv jogosult az üzemeltetési költségeinek megtérítését kérni az adatszolgáltatást igénybe vevőtől.
 
 (3) Igazgatási szolgáltatási díjat kell fizetni
 
@@ -10,7 +16,7 @@ a) a 3. § (1) bekezdésében foglalt adatbázisokból – ide nem értve az i) 
 
 b) az ingatlan-nyilvántartási célú földmérési munkarészek hatósági vizsgálatára és záradékolására irányuló eljárásért,
 
-c) az ingatlanrendező földmérő minősítési eljárásáért,
+c) az ingatlanrendező földmérő minősítés kiadása iránti eljárásáért,
 
 d) a földmérő igazolvány kiadása iránti eljárásért,
 
@@ -28,7 +34,7 @@ j) a 25/A. § szerinti nyilvántartásba történő felvétel iránti eljárás�
 
 (4)
 
-(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését írásban engedélyezheti.
+(4a) A vizsgálat és záradékolási eljárást soron kívül kell lefolytatni, ha arról törvény rendelkezik. Törvényi rendelkezés hiányában az ingatlanügyi hatóság az ügyfél kérelmére, indokolt esetben a beadvány soron kívüli elintézését engedélyezheti. Az eljárás soron kívüli ügyintézési határideje az eljárás ügyintézési határidejének fele.
 
 (5)
 
@@ -56,13 +62,13 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (7) Az ingyenes adatszolgáltatást az oktatási vagy kutatási szervezet vezetőjének kell kérelmeznie.
 
-(8) A katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározott veszélyhelyzet és katasztrófaveszély elhárítása és az arra való felkészülés esetén a hivatásos katasztrófavédelmi szervek részére – hitelesítés nélkül – díjmentesen igényelheti a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket a veszélyhelyzet és katasztrófaveszély elhárítást irányító szervezet a katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározottak szerint adhatja át.
+(8) A katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározott veszélyhelyzet és katasztrófaveszély elhárítása és az arra való felkészülés esetén a hivatásos katasztrófavédelmi szervek részére díjmentesen igényelheti a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől. Az átadott állami alapadatokat, vagy azok alapján készült termékeket a veszélyhelyzet és katasztrófaveszély elhárítást irányító szervezet a katasztrófavédelemről szóló törvényben és a végrehajtására kiadott kormányrendeletben meghatározottak szerint adhatja át.
 
-(8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei – hitelesítés nélkül – díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
+(8a) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a védelmi és biztonsági igazgatás központi szerve, területi és helyi szervei díjmentesen igényelhetik a 3. § (1) bekezdés a)–g) pontjában meghatározott adatbázisok adatait a miniszter felelősségi körébe tartozó adatok esetén az adatszolgáltatótól, a honvédelemért felelős miniszter felelősségi körébe tartozó adatok esetén a honvédelem térképészeti támogatásáért felelős szervtől.
 
 (9)
 
-(10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó – hitelesítés nélkül – díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
+(10) Az Országos Statisztikai Adatfelvételi Programba tartozó adatfelvétel keretében meghatározott adatokat az adatfelvételt végrehajtó díjmentesen igényelheti a földmérési és térinformatikai államigazgatási szervtől.
 
 (11) Az adatszolgáltató díjmentesen szolgáltatja a 2. § (2) bekezdésében meghatározott állami alapmunkák végzéséhez szükséges adatokat. Az adatszolgáltatás hálózati szolgáltatón keresztüli adathozzáféréssel is biztosítható.
 
@@ -72,7 +78,19 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (13) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a Magyar Honvédség szervezetei és a Katonai Nemzetbiztonsági Szolgálat feladataik ellátásához, valamint szakirányú fejlesztéséhez a honvédelem térképészeti támogatásáért felelős szervtől a szakmai ellátási normák alapján díjmentesen igényelhetnek adatot.
 
-(14) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a honvédelmi miniszter fenntartói irányítása alá tartozó köznevelési intézmény a hazafias honvédelmi nevelési feladatok, a Nemzeti Közszolgálati Egyetem Hadtudományi és Honvédtisztképző Kara és a katonai légügyi hatósági feladatokat ellátó szervezet az ország védelmi feladatainak ellátásával összefüggő feladataik ellátásához a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
+(14) A honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény
+
+a) a honvédelmi feladatai ellátásához a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból
+
+b) a hatósági, szakhatósági és államigazgatási feladatai ellátásához
+
+ba) a 3. § (1) bekezdés a), b), d)–g) és i) pontjában meghatározott állami alapadatok, valamint
+
+bb) az ország legújabb évjárat szerinti domborzat- és felületmodell
+
+adatbázisából
+
+a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § (3) bekezdése szerinti továbbfelhasználási engedély nélkül – díjmentesen igényelhet adatot.
 
 (15) A honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott állami alapadatok adatbázisaiból a rendvédelmi és a védelmi igazgatási szervek, valamint a különleges jogrend alatti feladatellátásban és az országmozgósítás feladataiban részt vevő egyéb központi államigazgatási szervek és azok területi szervei minősített időszakra való felkészülésre a honvédelem térképészeti támogatásáért felelős szervtől díjmentesen igényelhetnek adatot.
 
@@ -92,7 +110,7 @@ g) a 3. § (1) bekezdés i) pontja esetében az öt szelvény méretet.
 
 (20) A költségvetési szerv jogszabályban meghatározott területrendezési, településrendezési, területfejlesztési és településfejlesztési feladatai ellátásához, továbbá a településterv, a települési arculati kézikönyv és a településképi rendelet véleményezéséhez a Magyar Építész Kamara, az érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat és az érintett kiemelt térségi fejlesztési tanács díj-, költség- és térítésmentesen hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
 
-(21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a 3. § (1) bekezdés e)–g) pontjában meghatározott, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a Magyar Honvédségnek a honvédelemért felelős miniszter által rendeletben kijelölt szervezetei és a Katonai Nemzetbiztonsági Szolgálat részére, a jogszabályban meghatározott feladataik végrehajtásához, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltat adatot.
+(21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a (14) bekezdésben meghatározott adatbázisokból, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény részére, honvédelmi, továbbá hatósági, szakhatósági és államigazgatási feladatai végrehajtásához, ha azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül, díjmentesen szolgáltat adatot.
 
 (22) Az élelmiszerlánc-felügyeleti szerv a 3. § (1) bekezdés d) pontjában foglalt adatbázisból alrészlet határig, az f) pontjában foglalt adatbázisok közül pedig a 1306/2013/EU rendelet szerinti támogatások eljárásainak kizárólagos, országos azonosító rendszeréhez készült ortofotó adatbázisokból évente egy alkalommal térítésmentesen jogosult az élelmiszerlánc-felügyeleti rendszer működéséhez szükséges adatok igénylésére.
 

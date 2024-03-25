@@ -1,4 +1,4 @@
-14. § (1) Az állami ingatlan-nyilvántartási térképi adatbázis kezelése, tárolása, a változások vezetése, valamint az adatok szolgáltatása az adatbázisokat kezelő szervek feladata.
+14. § (1) Az állami ingatlan-nyilvántartási térképi adatbázis kezelése, tárolása, a változások vezetése, valamint az adatok szolgáltatása az ingatlanügyi hatóságok feladata.
 
 (2) Az állami ingatlan-nyilvántartási térképi adatbázis tartalmát érintő változásokat, az (5) bekezdésben foglaltak kivételével, a földrészlet tulajdonosa, illetve a tulajdonosi jogok gyakorlója (a továbbiakban: kötelezett), a változás bekövetkeztétől számított harminc napon belül, az ingatlan-nyilvántartási jogszabályok előírásainak megfelelően köteles bejelenteni az ingatlanügyi hatóságnak. Közös tulajdon esetén, a bejelentési kötelezettség elmulasztásából eredő felelősség a tulajdonostársakat egyetemlegesen terheli.
 

@@ -4,7 +4,7 @@
 
 (2) A miniszter felelősségi körébe tartozó földmérési térképészeti tevékenység végzése során előállított állami alapadatok szolgáltatását az ingatlanügyi hatóságok végzik.
 
-(2a) Az integrált ügyfélszolgálat (kormányablak) a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból papír alapú hiteles térképmásolatot adhat ki.
+(2a) Térképmásolatot központi azonosítási ügynök útján történő azonosítást követően a földügyi szakigazgatás hivatalos honlapján lehet igényelni. Természetes személy térképmásolatot kormányablakban és ingatlanügyi hatóság ügyfélszolgálatán, földmérési és térképészeti adatokat az érintett ingatlan helye szerint illetékes ingatlanügyi hatóság ügyfélszolgálatán személyesen is igényelhet.
 
 (3)
 
@@ -12,22 +12,38 @@
 
 (5) Az állami alapadatok adatbázisából külön megállapodás szerint aktualizált adatok szolgáltatásáért díjat kell fizetni.
 
-(6) Az ingatlan-nyilvántartási térképi adatbázisból papír alapon kizárólag hitelesített másolat szolgáltatható. Elektronikus dokumentumként hitelesített és hitelesítés nélküli másolat közvetlenül, illetve a Kormány által biztosított azonosítási szolgáltatáson keresztül a számítógépes ingatlan-nyilvántartási térképi adatbázisból szolgáltatható.
+(5a) Az ingatlan-nyilvántartási térképi adatbázisból kizárólag hitelesített másolat szolgáltatható.
 
-(6a) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papír alapú térképmásolatot a miniszter által rendeletben meghatározott tartalommal kell kiadni. Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
+(5b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papíralapú térképmásolatot az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott tartalommal kell kiadni.
+
+(6) Az elektronikus térképmásolatot a földmérési és térinformatikai államigazgatási szerv
+
+a) kormányrendeletben meghatározott szervezeteknek a nemzeti távközlési hálózaton keresztül, a földmérési és térinformatikai államigazgatási szervvel megkötött adatszolgáltatási szerződés alapján,
+
+b) az a) pont alá nem tartozó szervezeteknek tevékenységük ellátása céljából, a földmérési és térinformatikai államigazgatási szervvel megkötött adatszolgáltatási szerződés alapján, az adatlekérdezést végzők megfelelő azonosítása mellett,
+
+c) természetes személyeknek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatás segítségével a személyre szabott ügyintézési felületen keresztül
+
+biztosítja.
+
+(6a) Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
 (6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített térképmásolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
 
-(6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
+(6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadás időpontjában az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
 
-(6d) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesítés nélküli térképmásolat a (6c) bekezdés szerinti tanúsító erővel nem rendelkezik, hivatalos célra nem használható, kizárólag tájékoztatásul szolgál.
+(6d)
 
 (7)
 
-(8) Nem hatósági eljárásban történő felhasználásra a 3. § (1) bekezdés d) pontjában meghatározott adatbázisból kizárólag a földmérési és térinformatikai államigazgatási szerv szolgáltathat adatot az alábbiak szerint:
+(8) Állami alapadatot
 
-a) egy vagy több települést vagy fekvést érintő térképi kivágatot,
+a) helyi térképtárban vagy adattárban tárolt állami alapadatok esetében a térképtárat vagy adattárat fenntartó ingatlanügyi hatóság,
 
-b) szelektív vagy csökkentett pontosságú digitális térképi adattartalmat az a) pont szerinti területekre,
+b) ingatlan-nyilvántartási, valamint egyéb célú földmérési és térképészeti tevékenység végzéséhez szükséges állami alapadatok tekintetében az ingatlanügyi hatóságként eljáró területileg illetékes kormányhivatal,
 
-c) térinformatikai adatokkal kiegészített komplex értéknövelt digitális térképi adattartalmat.
+c) az a) és b) pont alá nem tartozó állami alapadatok esetében az ingatlanügyi hatóságként eljáró földmérési és térinformatikai államigazgatási szerv,
+
+d) a honvédelemért felelős miniszter felelősségi körébe tartozó földmérési és térképészeti tevékenység végzése során előállított állami alapadatok esetében a honvédelem térképészeti támogatásáért felelős szerv
+
+szolgáltat.

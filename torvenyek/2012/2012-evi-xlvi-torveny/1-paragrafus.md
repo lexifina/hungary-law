@@ -34,7 +34,7 @@ végzése;
 
 9. földi, légi és űrtávérzékelés: mérések végrehajtására, illetve térképkészítésre alkalmas földi, légi és űr távérzékelési adatgyűjtés, amelynek célja és eredménye geodéziai, térképészeti, geofizikai, geológiai és navigációs adatok gyűjtése;
 
-10. minősítés: a földmérési munkák és azok dokumentációi – az érvényben lévő szakmai szabályozások szerint történő – elkészítésének vizsgálata és minőségének tanúsítása;
+10.
 
 11. nemzeti téradat-infrastruktúra: azon téradatok és térinformatikai rendszerek összessége, amelyek közfeladatok ellátását szolgálják;
 
