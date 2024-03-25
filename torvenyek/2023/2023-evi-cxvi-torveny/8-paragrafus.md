@@ -1,1 +1,3 @@
-### 8. §
+8. § Az Fttv. 19. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Minden, az adatállománnyal rendelkezni jogosult köteles átadni – a megrendelőnek történő átadását követő tizenöt napon belül – a földmérési és térinformatikai államigazgatási szervnek a részben vagy egészében közpénzből előállított, az állami távérzékelési adatbázis adattartalmát érintő adatnak egy, az eredetivel megegyező példányát, a honvédelmi célokra készült távérzékelési adatok kivételével. A földmérési és térinformatikai államigazgatási szerv köteles a NAVÜ-t és a honvédelem térképészeti támogatásáért felelős szervet az adatállomány kézhezvételét követő 15 napon belül a kézhezvételről értesíteni. A NAVÜ és a honvédelem térképészeti támogatásáért felelős szerv a tájékoztatástól számított 30 napon belül jogosult az adatállomány átadását kérni.”
