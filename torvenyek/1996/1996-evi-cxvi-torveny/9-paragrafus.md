@@ -10,7 +10,7 @@ megfelel a kockázat elfogadható mértéke alapján meghatározott követelmén
 
 (2) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló folyamatos hatósági felügyelet alatt áll. Az atomenergia-felügyeleti szerv folyamatos hatósági felügyeleti tevékenysége a következő módon valósul meg:
 
-a) egyedi hatósági eljárás keretében engedélyezési és jóváhagyási döntésekkel,
+a) egyedi hatósági eljárás keretében engedélyezési, bejelentés-tudomásulvételi, eltérésbejelentés-tudomásulvételi és jóváhagyási döntésekkel,
 
 b) az engedélyes tevékenységének, valamint a nukleáris létesítmény, a radioaktívhulladék-tároló biztonsági helyzetének rendszeres elemzésével és értékelésével,
 

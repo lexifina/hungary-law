@@ -16,7 +16,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 3. a nukleáris létesítménnyel és a radioaktív-hulladék tárolóval összefüggő építmények hatósági engedélyezése és ellenőrzése, továbbá az építmények felvonóinak hatósági engedélyezése;
 
-4. a nukleáris létesítmény rendszere, rendszereleme tekintetében az átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését), a tervezéssel, gyártással, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, beszerzéssel, üzemen kívül helyezéssel, leszereléssel, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
+4. a nukleáris létesítmény rendszere, rendszereleme tekintetében a tervezéssel, gyártással, beszerzéssel, szereléssel (beépítéssel), üzembe helyezéssel, üzemeltetéssel, átalakítással (atomerőmű esetén ideértve az eltérő fűtőelemkötegek alkalmazásának bevezetését is), üzemen kívül helyezéssel, leszereléssel kapcsolatos tevékenységek nukleáris biztonsági engedélyezése és ellenőrzése, továbbá radioaktívhulladék-tároló rendszere és rendszereleme tekintetében az átalakítással, leszereléssel és lezárással kapcsolatos tevékenységek engedélyezése és ellenőrzése;
 
 5. a nukleáris létesítmény és a radioaktívhulladék-tároló átalakításához szükséges engedélyezés és ellenőrzés;
 
@@ -98,6 +98,10 @@ szükséges nukleáris biztonsági engedélyezés;
 
 44. a nukleáris létesítmények és a radioaktívhulladék-tárolók létesítmény szintű Munkahelyi Sugárvédelmi Szabályzatának jóváhagyása.
 
+45. az e törvény végrehajtására kiadott elnöki rendeletben meghatározott, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek gyártását, beszerzését érintő bejelentés tudomásulvétele és eltérésbejelentés tudomásulvétele;
+
+46. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vétele, nyilvántartásának felfüggesztése és a nyilvántartásból való törlése, valamint az akkreditálás során érvényesítendő követelmények megállapítása.
+
 (2a) A nukleáris létesítmény, valamint a radioaktívhulladék-tároló telephelyének vizsgálatához és értékeléséhez szükséges földtani kutatás célját szolgáló kutatólétesítményekkel kapcsolatos engedélyezési eljárásokra a bányászatról szóló törvényt és annak végrehajtására kiadott elnöki rendeletet kell alkalmazni.
 
 (2b) A nukleáris létesítménnyel és a radioaktívhulladék-tárolóval összefüggő építési engedélyezési eljárásokban építésügyi hatóságként az atomenergia-felügyeleti szerv jár el, eljárására az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény, valamint a végrehajtására kiadott jogszabály és önkormányzati rendelet rendelkezéseit az e törvényben, valamint a végrehajtására kiadott jogszabályban foglalt eltérésekkel kell alkalmazni.
@@ -112,7 +116,7 @@ szükséges nukleáris biztonsági engedélyezés;
 
 (6) Jogszabályban meghatározott átalakítások esetén kérelmezni kell az atomenergia-felügyeleti szervnél a nukleáris létesítmény és a radioaktív-hulladék tároló üzemeltetési engedélyének módosítását.
 
-(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve – a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban kell benyújtani. A kérelmet megalapozó dokumentációt elektronikus adathordozón is mellékelni kell. A műszaki sajátosságokat figyelembe véve, az A3 méretűnél nagyobb dokumentumokat papír alapon is be kell nyújtani.
+(7) A (2) bekezdés 1., 3–10., 12. és 15. pontja szerinti engedélyezési eljárás – a nukleáris létesítmény telephelyének vizsgálatához és értékeléséhez szükséges eljárást kivéve –, a létesítmény engedélyesének kérelmére indul. A kérelmet és az azt megalapozó dokumentációt írásban, elektronikus úton kell benyújtani.
 
 (8) A nukleáris létesítmény létesítési engedélyezési eljárásának tervezett megindítását megelőzően, a nukleáris létesítmény engedélyese elnöki rendeletben foglaltak szerint előzetes biztonsági tájékoztató benyújtásával tájékoztathatja az atomenergia-felügyeleti szervet a tervezett nukleáris létesítmény biztonsági követelményeknek való előzetes megfeleléséről (előzetes biztonsági tájékoztató).
 

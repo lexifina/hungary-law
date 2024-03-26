@@ -138,6 +138,8 @@ g) a nukleáris létesítményekkel összefüggő építmények körét, a nukle
 
 h) a létesítés alatt álló nukleáris létesítmény engedélymódosításának eljárási szabályait;
 
+i) a bejelentés-tudomásulvételi eljárásban és az eltérésbejelentés-tudomásulvételi eljárásban a bejelentés mellékleteire, a bejelentésköteles tevékenység során felmerülő eltérések kezelésére vonatkozó részletes szabályokat, valamint a bejelentés-tudomásulvételi eljárás és az eltérésbejelentés-tudomásulvételi eljárás alá vonható, a 2. és 3. biztonsági osztályba sorolt rendszerek, rendszerelemek körét.
+
 10. a radioaktívhulladék-tárolók biztonsági követelményeit és az ezzel összefüggő hatósági követelmények részletes szabályait, valamint a létesítés alatt álló radioaktívhulladék-tároló engedélymódosításának eljárási szabályait.
 
 11. az atomenergia alkalmazása körében a munkavállalók speciális szakmai képzését, továbbképzését és az atomenergia alkalmazásával összefüggő tevékenységek folytatására jogosultak körét;
@@ -157,3 +159,5 @@ h) a létesítés alatt álló nukleáris létesítmény engedélymódosításá
 18. a radioaktívhulladék-tároló és a felszín alatti vizsgálat céljára szolgáló laboratórium telephelyének műszaki megtervezésénél figyelembe veendő földtani követelményrendszert, a földtani alkalmasság megállapítását célzó kutatás engedélyezésére és a kutatás eredményének jóváhagyására vonatkozó eljárási szabályokat, valamint a létesítéssel és az üzemeltetéssel kapcsolatos bányaműszaki és bányabiztonsági követelményeket.
 
 19. a hatósági feladatot ellátó személy részére biztosítandó szolgálati igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
+
+20. a jogszabály alapján feljogosított független ellenőrző szervezet nyilvántartásba vételének, nyilvántartása felfüggesztésének, nyilvántartásból való törlésének részletes szabályait, valamint az akkreditálás során érvényesítendő követelményeket.
