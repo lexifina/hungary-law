@@ -4,17 +4,29 @@
 
 a) tenyészkos- vagy tenyészbaknevelő központi telepről, illetve származási okmányon szereplő tenyésztőtől – támogatási időszakban – történő megvásárlása és tenyésztésbe állítása, illetve
 
-b)[^6] állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása a (2) bekezdés b) pontja szerinti, „A” törzskönyvben nyilvántartott tenyészkos és tenyészbak
+b)[^7] állattartó általi, saját állományból – támogatási időszakban – történő tenyésztésbe állítása a (2) bekezdés b) pontja szerinti, „A” törzskönyvben nyilvántartott tenyészkos és tenyészbak
 
 esetén az állattartó vissza nem térítendő mezőgazdasági csekély összegű támogatás (a továbbiakban: támogatás) igénybevételére jogosult.
 
-(2)[^7] A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén a b) pontban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
+(2)[^8] A támogatás összege a saját állományból származó és a támogatási időszakban tenyésztésbe állított apaállat esetén az a)–c) pontban foglaltak szerint kerül megállapításra, míg a támogatási időszakban megvásárolt és tenyésztésbe állított apaállat esetén az apaállat ellenértékének 75%-a, de legfeljebb
 
-a)[^8] apaállattá minősített növendék bakonként 45 000 forint,
+a) az apaállattá minősített növendék bakonként az
 
-b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyészbakonként 120 000 forint,
+aa) 1. § 9. pont a) alpontja szerinti időszakban 75 000 forint,
 
-c) a „K” köztenyésztésre használható besorolást kapott tenyészkosonként, illetve tenyészbakonként 90 000 forint
+ab) 1. § 9. pont b) alpontja szerinti időszakban 45 000 forint,
+
+b) az „A” törzskönyvben nyilvántartott tenyészkosonként, illetve tenyészbakonként az
+
+ba) 1. § 9. pont a) alpontja szerinti időszakban 160 000 forint,
+
+bb) 1. § 9. pont b) alpontja szerinti időszakban 120 000 forint,
+
+c) a „K” köztenyésztésre használható besorolást kapott tenyészkosonként, illetve tenyészbakonként az
+
+ca) 1. § 9. pont a) alpontja szerinti időszakban 120 000 forint,
+
+cb) 1. § 9. pont b) alpontja szerinti időszakban 90 000 forint,
 
 azzal, hogy a támogatás nem haladhatja meg az állattartó és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretet.
 
@@ -36,7 +48,6 @@ kerül figyelembevételre.
 
 (8) A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletekben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^6]: A 2. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 18. §-ával megállapított szöveg.
-[^7]: A 2. § (2) bekezdés nyitó szövegrésze a 22/2023. (V. 9.) AM rendelet 20. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (2) bekezdés a) pontja a 22/2023. (V. 9.) AM rendelet 20. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés b) pontja a 22/2023. (V. 9.) AM rendelet 18. §-ával megállapított szöveg.
+[^8]: A 2. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 15. §-ával megállapított szöveg.
 [^9]: A 2. § (4) bekezdése a 14/2019. (IV. 10.) AM rendelet 40. §-ával megállapított szöveg.

@@ -18,28 +18,31 @@
 
 8. számviteli bizonylat: a számvitelről szóló 2000. évi C. törvény 166. § (1) bekezdésében meghatározott feltételeknek megfelelő okmány, így különösen a számla, felvásárlási jegy, tenyészállat-vásárlási jegyzőkönyv;
 
-9. támogatási időszak:
+9.[^2] támogatási időszak:
 
-a) a tárgyév április 1-jétől április 30-áig tartó időszakban benyújtott támogatási kérelem vonatkozásában a tárgyévet megelőző év október 1-jétől tárgyév március 31-éig terjedő időszak,
+a) a tárgyévet megelőző év június 1-jétől tárgyév május 31-éig,
 
-b) a tárgyév október 1-jétől október 31-éig tartó időszakban benyújtott támogatási kérelem vonatkozásában a tárgyév április 1-jétől szeptember 30-áig terjedő időszak;
+b) a 2023. évben a 2023. április 1-jétől 2023. május 31-éig
+
+tartó időszak;
 
 10. tárgyév: a támogatási kérelem benyújtásának naptári éve;
 
-11.[^2] tenyészbak: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú kecske;
+11.[^3] tenyészbak: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú kecske;
 
-12.[^3] tenyészet: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] 2. § 17. pontja szerinti, az állattartóhoz tartozó valamennyi tenyészet;
+12.[^4] tenyészet: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet [a továbbiakban: 119/2007. (X. 18.) FVM rendelet] 2. § 17. pontja szerinti, az állattartóhoz tartozó valamennyi tenyészet;
 
-13.[^4] tenyészkos: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú juh;
+13.[^5] tenyészkos: a 188/2019. (VII. 30.) Korm. rendelet 2. § 15. pontjában meghatározott feltételeknek megfelelő hímivarú juh;
 
 14. tenyésztésbe állítás: az állattartó által elvégzett azon tevékenység, amelynek eredményeképp
 
-a)[^5] a vásárlásból származó tenyészkos vagy tenyészbak az állattartó valamely tenyészetének állományába kerül, vagy
+a)[^6] a vásárlásból származó tenyészkos vagy tenyészbak az állattartó valamely tenyészetének állományába kerül, vagy
 
 b) a saját állományból származó hímivarú juh, illetve hímivarú kecske apaállattá történő minősítése megvalósul.
 
 [^1]: Az 1. § 1. pontja a 10/2020. (IV. 3.) AM rendelet 26. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § 11. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
-[^3]: Az 1. § 12. pontja a 22/2023. (V. 9.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 13. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
-[^5]: Az 1. § 14. pont a) alpontja a 22/2023. (V. 9.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 9. pontja a 11/2024. (III. 25.) AM rendelet 14. §-ával megállapított szöveg.
+[^3]: Az 1. § 11. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
+[^4]: Az 1. § 12. pontja a 22/2023. (V. 9.) AM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 13. pontja a 10/2020. (IV. 3.) AM rendelet 26. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. § 14. pont a) alpontja a 22/2023. (V. 9.) AM rendelet 17. § (2) bekezdésével megállapított szöveg.

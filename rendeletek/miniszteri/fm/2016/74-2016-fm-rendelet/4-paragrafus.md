@@ -26,9 +26,9 @@ ea) az apaállat megvásárlását, illetve a tenyésztésbe állítást igazol�
 
 eb) a 119/2007. (X. 18.) FVM rendelet szerint bejelentett tenyészettel.
 
-(2) Egy tenyészkos vagy tenyészbak után csak a tenyésztésbe állítást követő első támogatási kérelem benyújtási időszakban és csak egy alkalommal igényelhető támogatás.
+(2)[^12] Egy tenyészkos vagy tenyészbak után csak egy alkalommal igényelhető támogatás.
 
-(3)[^12] Az állattartó a tenyészetében lévő
+(3)[^13] Az állattartó a tenyészetében lévő
 
 a) anyajuh minden megkezdett ötven egyedszáma után egy tenyészkos,
 
@@ -40,7 +40,9 @@ tenyésztésbe állításához igényelhet támogatást.
 
 (5) A támogatás tárgyévi igénybevétele szempontjából a tárgyévi, illetve a tárgyévet megelőző évi, az apaállat megvásárlását – saját állományból történő tenyésztésbe állítás esetén a tenyésztésbe állítást – igazoló, állattartó nevére kiállított számviteli bizonylat használható fel.
 
-(6) Egy állattartó egy támogatási időszakban egy támogatási kérelmet nyújthat be.
+(6)[^14] Adott tárgyévben egy állattartó egy támogatási kérelmet nyújthat be.
 
 [^11]: A 4. § (1) bekezdés b) pont ba) alpontját a 43/2017. (IX. 5.) FM rendelet 21. §-a hatályon kívül helyezte.
-[^12]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
+[^12]: A 4. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^13]: A 4. § (3) bekezdése a 43/2017. (IX. 5.) FM rendelet 19. §-ával megállapított szöveg.
+[^14]: A 4. § (6) bekezdése a 11/2024. (III. 25.) AM rendelet 16. § (2) bekezdésével megállapított szöveg.
