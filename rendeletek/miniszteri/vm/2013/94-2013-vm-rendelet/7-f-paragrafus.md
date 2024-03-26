@@ -1,6 +1,6 @@
-7/F. §[^64] (1)[^65] Figyelemmel a 3. § (1) bekezdésében foglaltakra, az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^66] napja és 2023. december 31. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
+7/F. §[^63] (1)[^64] Figyelemmel a 3. § (1) bekezdésében foglaltakra, az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének[^65] napja és 2024. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
 
-(2) A kezességi díjtámogatás – figyelemmel a 3. § (1) bekezdésében foglaltakra – válságtámogatásként történő igénylése esetén nem kell alkalmazni a 3. § (7) bekezdésében, az 5. § (1) bekezdés c) pont ca) alpontjában, e) pont ea), eb), ed) alpontjában és a 7/A–7/E. §-ban foglaltakat.
+(2)[^66] A kezességi díjtámogatás – figyelemmel a 3. § (1) bekezdésében foglaltakra – válságtámogatásként történő igénylése esetén nem kell alkalmazni a 3. § (7) bekezdésében, az 5. § (1) bekezdés c) pont ca) alpontjában, e) pont ea), eb), ed) alpontjában és a 7/A–7/C. §-ban foglaltakat.
 
 (3) A kezességi díjtámogatás válságtámogatásként történő igénybevételére az a kedvezményezett jogosult, aki
 
@@ -32,6 +32,7 @@ c) nyilatkozik arról, hogy a gazdasági nehézsége összefüggésben áll az O
 
 (8) Az (1) bekezdésben meghatározott kezességi szerződéshez kapcsolódóan de minimis támogatás csak abban az esetben igényelhető, ha a válságtámogatás nyújtásának feltételei nem állnak fenn.
 
-[^64]: A 7/F. §-t a 26/2022. (VIII. 31.) AM rendelet 6. §-a iktatta be.
-[^65]: A 7/F. § (1) bekezdése a 158/2022. (XII. 27.) AM rendelet 4. §-a szerint módosított szöveg.
-[^66]: A hatálybalépés időpontja 2022. szeptember 1.
+[^63]: A 7/F. §-t a 26/2022. (VIII. 31.) AM rendelet 6. §-a iktatta be.
+[^64]: A 7/F. § (1) bekezdése a 11/2024. (III. 25.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^65]: A hatálybalépés időpontja 2022. szeptember 1.
+[^66]: A 7/F. § (2) bekezdése a 11/2024. (III. 25.) AM rendelet 4. § b) pontja szerint módosított szöveg.
