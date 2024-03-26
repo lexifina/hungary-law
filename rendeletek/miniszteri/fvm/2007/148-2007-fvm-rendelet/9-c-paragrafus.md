@@ -1,3 +1,3 @@
-9/C. §[^90]
+9/C. §[^93]
 
-[^90]: A 9/C. §-t a 28/2013. (IV. 30.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.
+[^93]: A 9/C. §-t a 28/2013. (IV. 30.) VM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.

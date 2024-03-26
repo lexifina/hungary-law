@@ -68,7 +68,7 @@
 
 ## 4. Házinyúl esetében az átlagos állatsűrűség megállapításának szabályairól szóló 57/2014. (IV. 30.) VM rendelet 1. melléklete alapján 0,002 ÁE.
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^115]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^120]
 
 Jóváhagyási kérelem adattartalma
 
@@ -80,7 +80,7 @@ Jóváhagyási kérelem adattartalma
 
 1.3. adóazonosító jel,
 
-1.4.[^116] őstermelői nyilvántartásban szereplő FELIR azonosítója,
+1.4.[^121] őstermelői nyilvántartásban szereplő FELIR azonosítója,
 
 1.5. felelős vezető neve és telefonszáma,
 
@@ -120,37 +120,37 @@ Jóváhagyási kérelem adattartalma
 
 4.2. arról, hogy a kérelmezőnek lejárt köztartozása nem áll fenn;
 
-4.3.[^117] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
+4.3.[^122] arról, hogy valamennyi állat-egészségügyi és nyilvántartásba vételi, nyilvántartás vezetési, továbbá adatszolgáltatási kötelezettségnek eleget tett;
 
-4.4.[^118] arról, hogy a mentesítési programok esetében az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
+4.4.[^123] arról, hogy a mentesítési programok esetében az állatállományára a vármegyei kormányhivatal által jóváhagyott mentesítési programtól nem tér el;
 
 4.5. arról, hogy az állat-egészségügyi szolgáltatást az arra engedéllyel, illetve akkreditációval, valamint ügyfél-azonosítóval rendelkező személlyel, szervvel, illetve intézménnyel végezteti el;
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^119] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^124] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^120] arról, hogy a támogatást olyan állatokra veszi igénybe, amelyeket olyan létesítményben tart, amely nem kizárólag az (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 49. pontja szerinti összegyűjtést végez;
+4.8.[^125] arról, hogy a támogatást olyan állatokra veszi igénybe, amelyeket olyan létesítményben tart, amely nem kizárólag az (EU) 2016/429 európai parlamenti és tanácsi rendelet 4. cikk 49. pontja szerinti összegyűjtést végez;
 
-4.9.[^121] arról, hogy ha a 3. pont 3. és 4. alpontjában a D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^126] arról, hogy ha a 3. pont 3. és 4. alpontjában a D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
 b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
 
-5.[^122] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
+5.[^127] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
-6.[^123] Keltezés, az ügyfél aláírása
+6.[^128] Keltezés, az ügyfél aláírása
 
-7.[^124]
+7.[^129]
 
-[^115]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^116]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
-[^117]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^118]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
-[^119]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^120]: A 2. melléklet 4. pont 4.8. alpontját újonnan a 159/2022. (XII. 27.) AM rendelet 7. § (2) bekezdése iktatta be, szövege a 30/2023. (VII. 14.) AM rendelet 7. §-ával megállapított szöveg.
-[^121]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, nyitó szövegrésze a 30/2023. (VII. 14.) AM rendelet 8. § e) pontja szerint módosított szöveg.
-[^122]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
-[^123]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
-[^124]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^120]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^121]: A 2. számú melléklet 1.4. pontja a 28/2021. (VIII. 18.) AM rendelet 7. §-a szerint módosított szöveg.
+[^122]: A 2. számú melléklet 4. pont 4.3. alpontja a 30/2018. (X. 11.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^123]: A 2. számú melléklet 4.4. pontja a 13/2017. (III. 17.) FM rendelet 2. § c) pontja, a 159/2022. (XII. 27.) AM rendelet 8. § d) pontja szerint módosított szöveg.
+[^124]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^125]: A 2. melléklet 4. pont 4.8. alpontját újonnan a 159/2022. (XII. 27.) AM rendelet 7. § (2) bekezdése iktatta be, szövege a 30/2023. (VII. 14.) AM rendelet 7. §-ával megállapított szöveg.
+[^126]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, nyitó szövegrésze a 30/2023. (VII. 14.) AM rendelet 8. § e) pontja szerint módosított szöveg.
+[^127]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
+[^128]: A 2. számú melléklet 6. pontja a 30/2018. (X. 11.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^129]: A 2. számú melléklet 7. pontját a 30/2018. (X. 11.) AM rendelet 3. § b) pontja hatályon kívül helyezte.

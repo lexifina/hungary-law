@@ -52,3 +52,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-148-20-
 | 2022-12-30 | 2007-148-20-82.50 | 159/2022. (XII. 27.) AM rendelet |
 | 2023-01-01 | 2007-148-20-82.51 | 40/2015. (VII. 13.) FM rendelet |
 | 2023-07-15 | 2007-148-20-82.52 | 30/2023. (VII. 14.) AM rendelet |
+| 2024-03-26 | 2007-148-20-82.53 | 11/2024. (III. 25.) AM rendelet |
