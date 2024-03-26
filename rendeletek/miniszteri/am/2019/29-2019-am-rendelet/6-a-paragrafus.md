@@ -10,14 +10,16 @@ a) a 25/2022. (VIII. 31.) AM rendelet hatálya alá nem tartozó támogatási pr
 
 b) arról, hogy a vállalkozása kapcsolt vállalkozásnak minősül-e,
 
-c) a kapcsolt vállalkozások nevéről, adóazonosító számáról és ügyfél-azonosítójáról, valamint
+c)[^10] a kapcsolt vállalkozások nevéről, adóazonosító számáról és támogatási azonosítójáról, valamint
 
 d) arról, hogy a gazdasági nehézsége összefüggésben áll az Oroszország és Ukrajna közötti konfliktussal.
 
 (4) Az állattartó (1) bekezdés alapján benyújtott válságtámogatás iránti kérelme – az 5. § (3) bekezdésében foglaltaktól eltérően – tartalmazza
 
-a) az állattartó azonosító adatait (név, ügyfél-azonosító) és
+a)[^11] az állattartó azonosító adatait (név, támogatási azonosító) és
 
 b) a (3) bekezdésben foglalt nyilatkozatokat.
 
 [^9]: A 6a. alcím (6/A-6/B. §) a 158/2022. (XII. 27.) AM rendelet 19. §-ával megállapított szöveg.
+[^10]: A 6/A. § (3) bekezdés c) pontja a 11/2024. (III. 25.) AM rendelet 30. § a) pontja szerint módosított szöveg.
+[^11]: A 6/A. § (4) bekezdés a) pontja a 11/2024. (III. 25.) AM rendelet 30. § b) pontja szerint módosított szöveg.
