@@ -18,7 +18,7 @@ c) a 4. § (1) bekezdés a) pont aa) alpontja szerinti, a 11. § (1) bekezdés b
 
 d) a 4. § (1) bekezdés b) pont ba)–bc) alpontja, valamint a 31. § (1) bekezdés b) alpontja szerinti albeavatkozások esetén a számla teljesítési dátumát követő hónap utolsó napjáig, azzal, ha a kérelemhez több számla kapcsolódik, a legkésőbbi számla teljesítési dátumát kell figyelembe venni,
 
-e) a 4. § (1) bekezdés b) pont bd) alpontja szerinti albeavatkozás esetén – kivéve a 31. § (1) bekezdés b) pontja szerinti támogatások –, a 2023. január 1. napja és a 2023. július 31-e közötti teljesítési időponttal kiállított számlák esetén 2023. augusztus 1-ig, a 2023. augusztus 1. napja és a 2023. december 31-e közötti teljesítési időponttal kiállított számlákat a 2024. január 1-jétől kiállított számlákkal együtt 2024. április 6-ig, valamint
+e)[^1] a 4. § (1) bekezdés b) pont bd) alpontja szerinti albeavatkozás esetén – kivéve a 31. § (1) bekezdés b) pontja szerinti támogatások –, a 2023. január 1. napja és a 2023. július 31-e közötti teljesítési időponttal kiállított számlák esetén 2023. augusztus 1-ig, a 2023. augusztus 1. napja és a 2023. december 31-e közötti teljesítési időponttal kiállított számlákat a 2024. január 1-jétől kiállított számlákkal együtt 2024. május 6-ig, valamint
 
 f) a 4. § (1) bekezdés b) pont be) alpontja szerinti albeavatkozás esetén, a 2023. január 1. napja és a 2023. július 31-e közötti teljesítési időponttal kiállított számlák esetén 2023. augusztus 3-ig, a 2023. augusztus 1. napja és a 2023. december 31-e közötti teljesítési időponttal kiállított számlákat a 2024. január 1-jétől kiállított számlákkal együtt 2024. augusztus 3-ig.
 
@@ -39,3 +39,5 @@ f) a 4. § (1) bekezdés b) pont be) alpontja szerinti albeavatkozás esetén, a
 (13) A 6. § (9) bekezdése szerinti keretátcsoportosítás engedélyezése után, az adott albeavatkozásra meghatározott támogatási keret kimerülését követően beérkezett kérelmek visszautasításáról a Kincstár dönt. Ha a 6. § (9) bekezdése szerinti keretátcsoportosítás engedélyezését követően rendelkezésre álló forrás figyelembevételével a 31. § (1) bekezdés a) és c) pontja szerinti támogatások, továbbá a 4. § (1) bekezdés b) pont be) alpontja szerinti albeavatkozás esetén a jóváhagyható támogatási igény meghaladja az elkülönített keretösszeget, akkor az egyes kérelmek alapján jóváhagyható támogatási összegeket arányosan csökkenteni kell. A támogatási összegek arányos csökkentéséről a Kincstár dönt.
 
 (14) A forráskimerülést az Agrárminisztérium közleményben teszi közzé.
+
+[^1]: Az 5. § (5) bekezdés e) pontja a 10/2024. (III. 25.) AM rendelet 38. §-a szerint módosított szöveg.
