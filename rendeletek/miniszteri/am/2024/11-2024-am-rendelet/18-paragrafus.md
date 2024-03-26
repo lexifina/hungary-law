@@ -1,0 +1,3 @@
+18. § A 74/2016. (XI. 29.) FM rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Kincstár – az állattartó és a vele egy és ugyanazon vállalkozás részére rendelkezésre álló szabad csekély összegű támogatási keretének figyelembevételével, az adott támogatási időszakra vonatkozó összes jogos támogatási igény ismeretében – döntést hoz, és a támogatást a forrás rendelkezésre állása esetén a döntés kibocsátását követő tizenöt napon belül folyósítja a támogatásban részesülő állattartó részére. Ha a tárgyévi jogos igények együttesen meghaladják a 3. §-ban meghatározott keretösszeget, akkor az állattartók részére megállapítható jogos támogatás összege a túllépés mértékével arányosan csökken.”
