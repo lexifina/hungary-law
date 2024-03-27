@@ -1,1 +1,3 @@
-26. § Hatályát veszti a 39/2018. (XII. 13.) AM rendelet 16/E. § (2) bekezdése.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-28. § A 11/2019. (IV. 1.) AM rendelet 2. melléklete az 1. melléklet szerint módosul.
+28. §[^29]
+
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

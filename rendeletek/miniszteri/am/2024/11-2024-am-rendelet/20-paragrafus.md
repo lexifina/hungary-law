@@ -1,1 +1,3 @@
-20. § Hatályát veszti a 74/2016. (XI. 29.) FM rendelet 6a. alcíme.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

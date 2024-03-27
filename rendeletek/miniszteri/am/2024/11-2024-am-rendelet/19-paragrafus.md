@@ -1,1 +1,3 @@
-19. § A 74/2016. (XI. 29.) FM rendelet 3. §-ában a „350 millió forint” szövegrész helyébe a „700 millió forint” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

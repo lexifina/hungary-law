@@ -1,1 +1,3 @@
-39. § Hatályát veszti a 11/2022. (III. 25.) AM rendelet 6. § (6) bekezdése.
+39. §[^40]
+
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

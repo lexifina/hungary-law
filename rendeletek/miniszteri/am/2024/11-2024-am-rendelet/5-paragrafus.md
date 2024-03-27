@@ -1,9 +1,3 @@
-5. § Hatályát veszti a 94/2013. (X. 10.) VM rendelet
+5. §[^6]
 
-a) 1. § 14. pontja,
-
-b) 7/D. §-a,
-
-c) 7/E. §-a és
-
-d) 9. § e) pontja.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
