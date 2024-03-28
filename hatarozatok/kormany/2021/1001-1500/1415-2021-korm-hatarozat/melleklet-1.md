@@ -60,18 +60,32 @@
 
 ## g) egyetért a Makovecz Imre Bástyája projekt keretében a piliscsabai Iosephinum területén megvalósuló beruházásokkal összefüggő további intézkedésekről szóló 1816/2019. (XII. 30.) Korm. határozat [a továbbiakban: 1816/2019. (XII. 30.) Korm. határozat] 2. pontjában meghatározott kutatóliget II. üteme keretében a Magyar Nemzeti Levéltár Kárpát-medencei Archívumok Módszertani Központjának megvalósításával.
 
-## 2.[^1]
+## h)[^1] a b) pont megvalósítása érdekében felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter és az építési és közlekedési miniszter kezdeményezése alapján – a központi energiaellátó épület befejezéséhez gondoskodjon 254 000 000 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 5. Közgyűjteményi, közművelődési szakmai feladatok jogcímcsoport javára;
 
-## 3.[^2]
+| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter építési és közlekedési miniszter |
 
-## 4.[^3]
+| Határidő: | azonnal |
 
-## 5.[^4]
+## i) [^2] az e) pont megvalósítása érdekében felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter és a kultúráért és innovációért felelős miniszter kezdeményezése alapján – a Iosephinum Fejlesztéséért Alapítvány közfeladat ellátásával összefüggő kéthavi költségeinek biztosítása érdekében, központi költségvetési támogatás keretében gondoskodjon 70 000 000 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 5. Közgyűjteményi, közművelődési szakmai feladatok jogcímcsoport javára.
 
-1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^5]
+| Felelős: | pénzügyminiszter építési és közlekedési miniszter kultúráért és innovációért felelős miniszter |
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+| Határidő: | azonnal |
+
+## 2.[^3]
+
+## 3.[^4]
+
+## 4.[^5]
+
+## 5.[^6]
+
+1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^7]
+
+[^1]: Az 1. pont h) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
+[^2]: Az 1. pont i) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
