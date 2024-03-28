@@ -12,11 +12,7 @@
 
 | Határidő: | azonnal |
 
-## 4. felhívja a pénzügyminisztert, hogy – az energiaügyi miniszter kezdeményezésére – gondoskodjon az 1. pont szerinti cél érdekében a 2024. évben legfeljebb 6 000 000 000 forint 2. pont szerinti jogcímcsoport javára történő biztosításáról;
-
-| Felelős: | pénzügyminiszter energiaügyi miniszter |
-
-| Határidő: | 2024. január 20. |
+## 4.[^1]
 
 ## 5. felhívja az energiaügyi minisztert, hogy a 3. pont szerinti forrás terhére gondoskodjon a Szövetség részére, a Korm. rendelet 5/C. § (3) bekezdése alapján megkötött szerződés szerinti ellentételezés teljesítéséről, a következő ütemezés szerint:
 
@@ -26,16 +22,20 @@
 
 ## c) 2023. szeptember 15-ig további 8 000 000 000 forint,
 
-## d) 2024. január 30-ig további legfeljebb 6 000 000 000 forint;
+## d)[^2]
 
 | Felelős: | energiaügyi miniszter |
 
 | Határidő: | folyamatos |
 
-## 6. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1. pontban foglalt feladat végrehajtása érdekében legfeljebb 37 000 000 000 forint összegben kötelezettséget vállaljon;
+## 6.[^3]
 
 ## 7. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva az 1. pontban foglalt feladat végrehajtása érdekében a Kvtv. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 20. Rezsivédelmi készletezési szolgáltatás ellentételezése alcím, 1. Rezsivédelmi készletezési szolgáltatás ellentételezésével összefüggő kiadások jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját a 2024. évben legfeljebb 6 000 000 000 forint összegben állapítja meg.
 
 1. melléklet az 1141/2023. (IV. 17.) Korm. határozathoz
 
 3X02122.pdf
+
+[^1]: A 4. pontot az 1076/2024. (III. 28.) Korm. határozat 2. pontja visszavonta.
+[^2]: Az 5. pont d) alpontját az 1076/2024. (III. 28.) Korm. határozat 2. pontja visszavonta.
+[^3]: A 6. pontot az 1076/2024. (III. 28.) Korm. határozat 2. pontja visszavonta.
