@@ -6,7 +6,7 @@
 
 (4) Amennyiben a 11. § (1) bekezdés b)–d) pontjában meghatározott ingatlanon vagy épületben erre a célra kialakított és a küldemények biztonságos őrzését lehetővé tévő postázó helyiség működik, akkor a levélszekrénybe kézbesíthető küldemények kézbesítése a postázóban e célból foglalkoztatott személy részére történő átadással vagy a levelek elhelyezésére kialakított, levélszekrénynek nem minősülő eszközbe történő elhelyezéssel is megtörténhet.
 
-(4a)[^17] A 324 × 229 × 24 mm-t meghaladó méretű
+(4a)[^18] A 324 × 229 × 24 mm-t meghaladó méretű
 
 a) nem könyvelt küldemények, valamint
 
@@ -14,4 +14,4 @@ b) rögzített ajánlott levélküldemények
 
 kézbesítésének címhelyen történő megkísérlését a postai szolgáltató – a (3) bekezdés szerinti értesítő kézbesítési címhelyen történő hátrahagyása mellett – mellőzi, ha a küldemény fizikai adottságaira tekintettel annak sérülésmentes elhelyezése a levélszekrényben nem lehetséges.
 
-[^17]: A 12. § (4a) bekezdését a 81/2017. (IV. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 256/2022. (VII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^18]: A 12. § (4a) bekezdését a 81/2017. (IV. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 256/2022. (VII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.

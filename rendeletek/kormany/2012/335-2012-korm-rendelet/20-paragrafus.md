@@ -12,7 +12,7 @@ d) szálloda, diákszálló, munkásszálló, üdülő.
 
 (2) A több címzett által használt vagy nem a használó által üzemeltetett irodaház, üzletház, ipari park, gyártelep vagy más hasonló létesítmény esetében az ezen létesítményeket üzemeltető szervezet köteles közvetett kézbesítőként eljárni, ha a postai szolgáltatónak az épületben vagy az ingatlan területén működő címzetthez történő eljutása bármilyen módon korlátozott, nem biztonságos, vagy a címzettek elérési helye nem egyértelműen beazonosítható.
 
-(3)[^31] A közvetett kézbesítő az ingatlan bejárata közelében postázó helyiséget vagy egyéb, a biztonságos kézbesítést lehetővé tévő teret alakít ki. A közvetett kézbesítő a nem könyvelt küldemények, valamint a rögzített ajánlott levélküldemények kézbesítéséről a postai szolgáltatótól történő átvétellel vagy a küldemények kézbesítését lehetővé tévő csoportos levélszekrény vagy egyéb kézbesítési lehetőség biztosításával, a személyes átadással kézbesítendő könyvelt küldemények átvétele érdekében pedig erre felhatalmazott személy kijelölésével gondoskodik.
+(3)[^32] A közvetett kézbesítő az ingatlan bejárata közelében postázó helyiséget vagy egyéb, a biztonságos kézbesítést lehetővé tévő teret alakít ki. A közvetett kézbesítő a nem könyvelt küldemények, valamint a rögzített ajánlott levélküldemények kézbesítéséről a postai szolgáltatótól történő átvétellel vagy a küldemények kézbesítését lehetővé tévő csoportos levélszekrény vagy egyéb kézbesítési lehetőség biztosításával, a személyes átadással kézbesítendő könyvelt küldemények átvétele érdekében pedig erre felhatalmazott személy kijelölésével gondoskodik.
 
 (4) A közvetett kézbesítő – az (5)–(6) bekezdésben foglaltak kivételével – a postai küldeményt köteles átvenni és köteles gondoskodni arról, hogy a küldemények és a küldemények érkezéséről szóló értesítők – a címzettel történt eltérő megállapodás vagy az (1) bekezdés a)–c) pontja szerinti létesítményeket üzemeltető szervezet esetében jogszabály eltérő rendelkezése hiányában – legkésőbb az átvételt követő munkanap végéig a címzettnek átadásra kerüljenek. A közvetett kézbesítő részére történő átadással a postai küldeményt kézbesítettnek kell tekinteni.
 
@@ -20,7 +20,7 @@ d) szálloda, diákszálló, munkásszálló, üdülő.
 
 (6) Közvetett kézbesítőnek nem kézbesíthető
 
-a)[^32] a sérült állapotban lévő személyes átadással kézbesítendő könyvelt küldemény;
+a)[^33] a sérült állapotban lévő személyes átadással kézbesítendő könyvelt küldemény;
 
 b) a vámdíjjal terhelt küldemény;
 
@@ -36,8 +36,8 @@ d) az olyan postai küldemény, amelynek közvetett kézbesítő útján való k
 
 (10) A közvetett kézbesítő képviseleti joggal rendelkező vezetője vagy ilyen joggal felruházott munkavállalója a küldemények átvételére feljogosított személy részére köteles névre szóló igazolást kiállítani az átvételi jogosultságról, melyen fel kell tüntetni a közvetett kézbesítést ellátó szervezet elnevezését (cégnevét) is, valamint köteles az átvételre feljogosított személyekről nyilvántartást vezetni oly módon, hogy a küldeményt átvevő személy személyazonossága legalább az átvételt követő két évig megállapítható és visszakereshető legyen.
 
-(11)[^33] A közvetett kézbesítő által a küldemények átvételére feljogosított személy az átvételi jogosultságát a névre szóló igazolással köteles igazolni a postai szolgáltató előtt. Az átvételre feljogosított személy a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön a postai szolgáltató által történő adatrögzítés biztosítása érdekében köteles közölni a közvetett kézbesítő szervezet nevét, a közvetett kézbesítői minőségét és a küldeményt átvevő személy nevét, továbbá az átvevő köteles a postai szolgáltató számára bemutatni a személyazonossága igazolására alkalmas okmányát is.
+(11)[^34] A közvetett kézbesítő által a küldemények átvételére feljogosított személy az átvételi jogosultságát a névre szóló igazolással köteles igazolni a postai szolgáltató előtt. Az átvételre feljogosított személy a küldemények kézbesítését igazoló okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön a postai szolgáltató által történő adatrögzítés biztosítása érdekében köteles közölni a közvetett kézbesítő szervezet nevét, a közvetett kézbesítői minőségét és a küldeményt átvevő személy nevét, továbbá az átvevő köteles a postai szolgáltató számára bemutatni a személyazonossága igazolására alkalmas okmányát is.
 
-[^31]: A 20. § (3) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^32]: A 20. § (6) bekezdés a) pontja a 256/2022. (VII. 15.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
-[^33]: A 20. § (11) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^32]: A 20. § (3) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^33]: A 20. § (6) bekezdés a) pontja a 256/2022. (VII. 15.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^34]: A 20. § (11) bekezdése a 256/2022. (VII. 15.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## 6. § A postai szolgáltató köteles a feladó figyelmét felhívni a külföldre szóló postai küldemény esetében arra, hogy a küldemény tartalmával kapcsolatban a cím szerinti és a küldemény kezelésében részt vevő országban felmerülhet behozatali tilalom (korlátozás).
 
-7. § (1)[^6] A postai szolgáltató a könyvelt küldeményre vonatkozó postai szolgáltatási szerződés létrejöttének igazolásául köteles a feladó részére a feladást igazoló okiratot papíralapú vagy elektronikus formában rendelkezésre bocsátani. Az okiratnak tartalmaznia kell legalább
+7. § (1)[^7] A postai szolgáltató a könyvelt küldeményre vonatkozó postai szolgáltatási szerződés létrejöttének igazolásául köteles a feladó részére a feladást igazoló okiratot papíralapú vagy elektronikus formában rendelkezésre bocsátani. Az okiratnak tartalmaznia kell legalább
 
 a) a postai szolgáltató nevét és a felvétel napját, időgarantált szolgáltatás esetében az időpontját is;
 
@@ -16,12 +16,12 @@ f) az általános szerződési feltételek elérhetőségéről szóló tájéko
 
 (2) A feladást igazoló okiraton tájékoztatást kell adni arról, hogy a szerződésre a Postatv. és e rendelet rendelkezései az irányadók.
 
-(3)[^7] A postai szolgáltató és a feladó egyedi szerződésben az (1) és a (2) bekezdésben foglaltaktól eltérő tartalmú feladást igazoló okirat alkalmazásában is megállapodhatnak.
+(3)[^8] A postai szolgáltató és a feladó egyedi szerződésben az (1) és a (2) bekezdésben foglaltaktól eltérő tartalmú feladást igazoló okirat alkalmazásában is megállapodhatnak.
 
 (4) A feladónak a könyvelt postai küldeményen, annak csomagolásán vagy az ahhoz tartozó listán – kivéve, ha jelzése alapján a küldemény pályázatot vagy versenytárgyalási ajánlatot tartalmaz – fel kell tüntetnie az (1) bekezdés b) pontjában meghatározott adatokat, amelyeket a postai szolgáltató a küldemény esetleges visszakézbesítése során köteles figyelembe venni.
 
-(5)[^8] A feladó – ha a feladást igazoló okiratként mind a postai szolgáltató, mind a feladó által elektronikusan visszakereshető, olyan elektronikus formában rögzített adatbázist alkalmaz, mely tartalmazza a postai küldemény címzésében szereplő adatokat – a postai küldeményen annak címzéseként az ezen adatbázisban szereplő, a küldemény egyedi azonosító jelzéséhez rendelt címadatokat tünteti fel.
+(5)[^9] A feladó – ha a feladást igazoló okiratként mind a postai szolgáltató, mind a feladó által elektronikusan visszakereshető, olyan elektronikus formában rögzített adatbázist alkalmaz, mely tartalmazza a postai küldemény címzésében szereplő adatokat – a postai küldeményen annak címzéseként az ezen adatbázisban szereplő, a küldemény egyedi azonosító jelzéséhez rendelt címadatokat tünteti fel.
 
-[^6]: A 7. § (1) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^7]: A 7. § (3) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A 7. § (5) bekezdését a 685/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 7. § (1) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^8]: A 7. § (3) bekezdése a 332/2019. (XII. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 7. § (5) bekezdését a 685/2023. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 10. A postai küldemény átvételének megtagadása
 
-24. §[^45] (1) A postai küldemény átvételének megtagadására vonatkozó – a Postatv. 41. § (3a) bekezdése szerinti – nyilatkozatot a címzett vagy a meghatalmazott tehet. Szervezet esetében a címzett általi megtagadásnak minősül, ha a 15. § (2)–(3) bekezdésében meghatározott személy tagadja meg az átvételt.
+24. §[^46] (1) A postai küldemény átvételének megtagadására vonatkozó – a Postatv. 41. § (3a) bekezdése szerinti – nyilatkozatot a címzett vagy a meghatalmazott tehet. Szervezet esetében a címzett általi megtagadásnak minősül, ha a 15. § (2)–(3) bekezdésében meghatározott személy tagadja meg az átvételt.
 
 (2) A postai szolgáltató az átvétel megtagadása esetén ennek tényét mint kézbesíthetetlenségi okot a kézbesítési okiraton vagy a kézbesítés tényét rögzítő egyéb technikai eszközön, valamint a küldeményen vagy a kísérőokiraton feltünteti, és a postai küldeményt – értesítő hátrahagyása és rendelkezésre tartási idő biztosítása nélkül – a feladó részére visszakézbesíti.
 
@@ -16,4 +16,4 @@ b) a címzetten és meghatalmazotton kívüli egyéb jogosult átvevő nem kív�
 
 (4) A postai szolgáltató a (3) bekezdés szerinti esetekben a címzett részére a küldemény érkezéséről értesítőt hagy hátra.
 
-[^45]: A 24. § a 256/2022. (VII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^46]: A 24. § a 256/2022. (VII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
