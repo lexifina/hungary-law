@@ -1,3 +1,3 @@
-2. § A Korm. rendelet a következő 3/A. §-sal egészül ki:
+2. §[^3]
 
-„3/A. § A fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet szerinti távollévők között kötött szerződés alapján értékesített áru kézbesítése érdekében az egyetemes postai szolgáltató által nyújtott postai szolgáltatás igénybevételének lehetőségét a kereskedelmi célú internetes honlappal rendelkező vállalkozás a honlapján biztosítja, feltéve, hogy az értékesített áru postai szolgáltatási szerződés keretében történő kézbesítését az egyetemes postai szolgáltató az általános szerződési feltételeiben lehetővé teszi.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
