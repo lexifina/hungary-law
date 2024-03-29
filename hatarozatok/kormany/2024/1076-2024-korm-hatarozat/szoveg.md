@@ -24,4 +24,6 @@ b) 2025. január 20-ig további 4 500 000 000 forint.
 
 | Határidő: | folyamatos |
 
-2. A Kormány visszavonja a veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet szerinti rezsivédelmi készletezési szolgáltatás ellentételezéséhez szükséges intézkedésekről szóló 1141/2023. (IV. 17.) Korm. határozat 4. pontját, 5. pont d) alpontját és 6. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
