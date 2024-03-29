@@ -1,0 +1,3 @@
+2. § Az R. a következő 70. §-sal egészül ki:
+
+„70. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 71/2024. (III. 28.) Korm. rendelettel (a továbbiakban: Módr62.) módosított 3. § (2) és (3) bekezdését, valamint megállapított 5/B. §-át és 2. mellékletébenfoglalt táblázat 102. sorát a Módr62. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
