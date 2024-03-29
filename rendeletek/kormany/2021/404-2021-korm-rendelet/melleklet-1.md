@@ -1,6 +1,4 @@
-## 4. § E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
-
-1. melléklet[^17]
+1. melléklet[^18]
 
 |  | A | B |
 
@@ -20,4 +18,4 @@
 
 | 8. | Kerámia falburkolat | 1,38 |
 
-[^17]: Az 1. mellékletet a 39/2023. (II. 16.) Korm. rendelet 3. §-a iktatta be.
+[^18]: Az 1. mellékletet a 39/2023. (II. 16.) Korm. rendelet 3. §-a iktatta be.
