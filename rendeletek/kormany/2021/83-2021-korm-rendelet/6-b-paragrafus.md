@@ -1,4 +1,4 @@
-6/B. §[^25] (1) A 2. mellékletben foglalt táblázat 58. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/B. §[^26] (1) A 2. mellékletben foglalt táblázat 58. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -28,4 +28,4 @@ b) amennyiben a hatályos településrendezési tervek vagy az OTÉK a beépít�
 
 (3) A 2. mellékletben foglalt táblázat 58. sora szerinti beruházással összefüggésben az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet 6. melléklet IV. rész 1. pontját azzal az eltéréssel kell alkalmazni, hogy az egyéb rendeltetésű épületeknél a minimálisan alkalmazandó megújulóenergia-részaránynak nem kell meghaladnia a 10 kWh/m2-évet.
 
-[^25]: A 6/B. §-t a 622/2021. (XI. 9.) Korm. rendelet 1. §-a iktatta be.
+[^26]: A 6/B. §-t a 622/2021. (XI. 9.) Korm. rendelet 1. §-a iktatta be.

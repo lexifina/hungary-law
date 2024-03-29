@@ -1,4 +1,4 @@
-67. §[^192] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról, valamint kormányzati igazgatási tárgyú intézkedésről szóló 476/2023. (X. 26.) Korm. rendelettel (a továbbiakban: Módr59.) módosított 2. mellékletében foglalt táblázat B:93 mezőjét, valamint megállapított 7. mellékletét a Módr59. hatálybalépésekor[^193] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+67. §[^193] E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról, valamint kormányzati igazgatási tárgyú intézkedésről szóló 476/2023. (X. 26.) Korm. rendelettel (a továbbiakban: Módr59.) módosított 2. mellékletében foglalt táblázat B:93 mezőjét, valamint megállapított 7. mellékletét a Módr59. hatálybalépésekor[^194] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^192]: A 67. §-t a 476/2023. (X. 26.) Korm. rendelet 1. §-a iktatta be.
-[^193]: A hatálybalépés időpontja 2023. október 27.
+[^193]: A 67. §-t a 476/2023. (X. 26.) Korm. rendelet 1. §-a iktatta be.
+[^194]: A hatálybalépés időpontja 2023. október 27.

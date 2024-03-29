@@ -1,4 +1,4 @@
-6/Y. §[^49] (1) A 2. mellékletben foglalt táblázat 94. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
+6/Y. §[^50] (1) A 2. mellékletben foglalt táblázat 94. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek, településképi rendelet, egyéb önkormányzati rendelet és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -56,4 +56,4 @@ b) a telken belül az érkezési oldalon 1 db autóbusz elhelyezését
 
 kell biztosítani.
 
-[^49]: A 6/Y. §-t a 220/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
+[^50]: A 6/Y. §-t a 220/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
