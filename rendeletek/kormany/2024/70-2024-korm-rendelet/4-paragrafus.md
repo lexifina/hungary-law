@@ -1,0 +1,3 @@
+4. § Az R. a következő 145. §-sal egészül ki:
+
+„145. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 70/2024. (III. 28.) Korm. rendelettel (a továbbiakban: Módr137.) módosított 4. § (7) bekezdését, 5/Q. § (1) bekezdését, 2. mellékletébenfoglalt táblázat 21. sorát, valamint megállapított 4. § (8a) bekezdését, 5/Q. § (2) és (8)–(11) bekezdését a Módr137. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
