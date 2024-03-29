@@ -1,6 +1,6 @@
 ## 5. A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
-8. § (1)[^11] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
+8. § (1)[^17] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
 a) beruházási támogatásként, ideértve az infrastruktúra építését, bővítését vagy korszerűsítését, valamint
 
@@ -22,4 +22,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^11]: A 8. § (1) bekezdése az 1/2024. (I. 30.) TNM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 8. § (1) bekezdése az 1/2024. (I. 30.) TNM rendelet 3. §-ával megállapított szöveg.

@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-2-20-6F
 | 2023-02-16 | 2019-2-20-6F.10 | 1/2023. (II. 15.) TNM rendelet |
 | 2023-04-28 | 2019-2-20-6F.11 | 2/2023. (IV. 27.) TNM rendelet |
 | 2024-01-31 | 2019-2-20-6F.12 | 1/2024. (I. 30.) TNM rendelet |
+| 2024-03-29 | 2019-2-20-6F.13 | 3/2024. (III. 28.) TNM rendelet |

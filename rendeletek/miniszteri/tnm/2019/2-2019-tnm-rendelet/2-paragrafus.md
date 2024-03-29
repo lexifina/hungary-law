@@ -8,7 +8,7 @@ c) dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghat
 
 d) diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-e) egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+e)[^2] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
 f) elsődleges mezőgazdasági termelés: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet,
 
@@ -35,3 +35,5 @@ p) támogatási intenzitás: az Atr. 2. § 15. pontja szerinti intenzitás,
 q) támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
 r) tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz.
+
+[^2]: A 2. § e) pontja a 3/2024. (III. 28.) TNM rendelet 3. § a) pontja szerint módosított szöveg.
