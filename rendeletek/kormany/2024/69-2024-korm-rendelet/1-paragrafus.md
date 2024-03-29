@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya kiterjed minden katonai célú beruházás megvalósítása érdekében a közbeszerzésekről szóló 2015. évi CXLIII. törvény, a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.), a Polgári Törvénykönyvről szóló 2013. évi V. törvény vagy a NATO Biztonsági Beruházási Program keretében megvalósuló beszerzésekre vonatkozó részletes szabályokról szóló 109/2012. (VI. 1.) Korm. rendelet szabályai alapján indított beszerzési eljárásra.
+
+(2) E rendelet hatálya a központi költségvetés XIII. Honvédelmi Minisztérium fejezet és az LI. Honvédelmi Alap fejezet terhére megvalósított katonai célú beruházásokra terjed ki.

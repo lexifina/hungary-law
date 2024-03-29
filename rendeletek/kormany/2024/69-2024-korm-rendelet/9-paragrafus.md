@@ -1,0 +1,1 @@
+9. § Az e rendelet hatálya alá tartozó beruházások tekintetében a költségszakértői feladatok ellátásáról, amennyiben költségszakértő alkalmazására sor kerül, az állami beruházásokért felelős miniszter által vezetett minisztérium vagy az általa irányított költségvetési szerv vagy a tulajdonosi joggyakorlása alatt álló gazdasági társaság útján gondoskodik.

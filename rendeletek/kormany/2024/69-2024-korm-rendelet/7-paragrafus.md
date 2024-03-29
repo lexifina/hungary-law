@@ -1,0 +1,1 @@
+7. § Az e rendelet hatálya alá tartozó beruházás esetén az Ábtv. 15. és 16. alcímében foglaltakat azzal az eltéréssel kell alkalmazni, hogy a minősített adatok felhasználására és a nemzetbiztonsági szempontokra vonatkozó szabályok be nem tartása esetén az ellenőrzéshez és a minőségbiztosításhoz szükséges adatok kiadása megtagadható.
