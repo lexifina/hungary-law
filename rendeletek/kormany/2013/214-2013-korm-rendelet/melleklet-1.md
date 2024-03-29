@@ -1,4 +1,4 @@
-1. melléklet a 214/2013. (VI. 21.) Korm. rendelethez[^8]
+1. melléklet a 214/2013. (VI. 21.) Korm. rendelethez[^11]
 
 A Központi Nukleáris Pénzügyi Alapból a társulások részére nyújtott támogatás felosztásának számítási módja
 
@@ -14,24 +14,24 @@ Pi= Aix Ti/ hi
 
 1. táblázat: a radioaktív hulladék és a tároló jellemzőitől függő paraméterek:
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | 1. | A tárolt hulladék jellemzői és mennyisége (A) | 10 000 m3-nél kevesebb kis és közepes aktivitású radioaktív hulladék tíz éven belül, vagy | 4 |
+| 1. | A tárolt radioaktív anyag jellemzői és mennyisége (A) | A jóváhagyott, a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú tervében a következő 10 évre beszállításra ütemezett kis és közepes aktivitású radioaktív hulladék mennyiség a már átvett mennyiséggel együtt nem haladja meg a 10 000 m3-t, vagy | 4 |
 
-|  | 10 000 m3 feletti kis és közepes aktivitású radioaktív hulladék tíz éven belül, vagy | 12 |
+| A jóváhagyott, a Központi Nukleáris Pénzügyi Alapból finanszírozandó tevékenységek közép- és hosszú távú tervében a következő 10 évre beszállításra ütemezett kis és közepes aktivitású radioaktív hulladék mennyiség a már átvett mennyiséggel együtt meghaladja a 10 000 m3-t, vagy | 12 |
 
-|  | kiégett üzemanyag, vagy | 5,6 |
+| kiégett üzemanyag, vagy | 5,6 |
 
-|  | tíz éven belül nem várható radioaktív hulladék elhelyezése | 1 |
+| tíz éven belül nem várható radioaktív hulladék elhelyezése | 1 |
 
-|  | 2. | A létesítmény élettartama (T) | Átmeneti tárolás, vagy | 4 |
+| 2. | A létesítmény élettartama (T) | Átmeneti tárolás, vagy | 4 |
 
-|  | kis és közepes aktivitású radioaktív hulladék végleges elhelyezése, vagy | 4 |
+| kis és közepes aktivitású radioaktív hulladék végleges elhelyezése, vagy | 4 |
 
-|  | nagy aktivitású radioaktív hulladék végleges elhelyezése | 19,75 |
+| nagy aktivitású radioaktív hulladék végleges elhelyezése | 19,75 |
 
-|  | 3. | A létesítmény elhelyezése (h) | Felszíni tároló, vagy | 1 |
+| 3. | A létesítmény elhelyezése (h) | Felszíni tároló, vagy | 1 |
 
-|  | felszín alatti tároló | 1,5 |
+| felszín alatti tároló | 1,5 |
 
-[^8]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet a 70/2018. (IV. 9.) Korm. rendelet 4. §-a, a 68/2024. (III. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

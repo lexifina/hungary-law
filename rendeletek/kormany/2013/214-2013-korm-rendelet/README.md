@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-214-20-
 | 2015-07-08 | 2013-214-20-22.2 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2018-04-10 | 2013-214-20-22.3 | 70/2018. (IV. 9.) Korm. rendelet |
 | 2023-02-12 | 2013-214-20-22.4 | 33/2023. (II. 9.) Korm. rendelet |
+| 2024-03-29 | 2013-214-20-22.5 | 68/2024. (III. 28.) Korm. rendelet |
