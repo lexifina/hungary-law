@@ -1,4 +1,4 @@
-6/V. §[^157] (1) A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:80 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg azzal, hogy
+6/V. §[^163] (1) A 2. mellékletben foglalt táblázat 80. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:80 mezőjében megjelölt telkekre és ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(10) bekezdés állapítja meg azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(10) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -108,4 +108,4 @@ e) a zöldfelület megengedett legkisebb mértéke 30%.
 
 (10) A 2. mellékletben foglalt táblázat 80. sora szerinti beruházással érintett ingatlanokon munkásszállás elhelyezhető.
 
-[^157]: A 6/V. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^163]: A 6/V. §-t a 752/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
