@@ -1,0 +1,1 @@
+1. § Hatályát veszti a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény alapján nyújtható egyes támogatások kötelezettségvállalási szabályainak veszélyhelyzet ideje alatti eltérő alkalmazásáról szóló 260/2023. (VI. 28.) Korm. rendelet.
