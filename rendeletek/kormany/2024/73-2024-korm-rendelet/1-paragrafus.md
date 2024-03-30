@@ -1,1 +1,3 @@
-1. § Hatályát veszti a gazdaság újraindítása érdekében fizetendő kiegészítő bányajáradékról szóló 404/2021. (VII. 8.) Korm. rendelet 4. §-a.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
