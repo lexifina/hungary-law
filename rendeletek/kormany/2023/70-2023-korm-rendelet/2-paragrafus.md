@@ -1,1 +1,0 @@
-2. § A kiegészítő támogatás folyósítására, elszámolására, ellenőrzésére és visszafizetésére a Vhr. szabályait, valamint a jogosultság alapjául szolgáló támogatásra vonatkozó, a Kvtv. 2. és 8. melléklete szerinti szabályokat kell megfelelően alkalmazni.
