@@ -4,10 +4,10 @@
 
 a) a borászati üzem által biztosított személy, vagy
 
-b)[^8] a NÉBIH vagy a borászati hatáskörben eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) által biztosított borászati felügyelő
+b)[^16] a NÉBIH vagy a borászati hatáskörben eljáró vármegyei kormányhivatal (a továbbiakban: kormányhivatal) által biztosított borászati felügyelő
 
 jelenlétében hajtható végre.
 
 (2) Az (1) bekezdésben meghatározott személy felel a Kormányrendelet 39. § (2) bekezdésében meghatározott eljárás szabályszerű végrehajtásáért.
 
-[^8]: A 26. § (1) bekezdés b) pontja a 27/2022. (VIII. 31.) AM rendelet 19. § a) pontja szerint módosított szöveg.
+[^16]: A 26. § (1) bekezdés b) pontja a 27/2022. (VIII. 31.) AM rendelet 19. § a) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 2. pontja szerint módosított szöveg.

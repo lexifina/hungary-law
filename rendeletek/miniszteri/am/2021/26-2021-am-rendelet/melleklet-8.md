@@ -48,7 +48,7 @@
 
 | 24. | A nem borvidéki területekre érvényes pontérték | 274 |
 
-8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^31]
+8. melléklet a 26/2021. (VII. 29.) AM rendelethez[^53]
 
 Szabályozott kifejezések listája
 
@@ -68,7 +68,7 @@ Szabályozott kifejezések listája
 
 | 1. | Kifejezés (nyelv) | Eredetvédelmi kategóriák, amelyeken feltüntethető | Termékkategóriák, amelyeken feltüntethető | A kifejezés használatának feltétele |
 
-| 2. | „Bikavér” | Eger, Szekszárd (OEM) | bor | Vörösbor, amely legalább háromféle szőlőfajtából készül, és amelyet fahordóban érlelnek. |
+| 2. | „Bikavér” | Eger, Egri Bikavér, Szekszárd (OEM) | bor | Vörösbor, amely legalább háromféle szőlőfajtából készül, és amelyet fahordóban érlelnek. |
 
 | 3. | „Főbor” | OEM | bor | Olyan bor, – amely legfeljebb 45 hektoliter/ha hozamú ültetvényről származik, – amelynek természetes alkoholtartalma legalább 15,12 térfogatszázalék, – amelynek tényleges alkoholtartalma legalább 11 térfogatszázalék, – amelyet forgalomba hozatal előtt legalább két évig érleltek (ebből egy évig fahordóban), és – amely termelésének további részletes szabályait a használatát lehetővé tevő termékleírás határozza meg. |
 
@@ -92,9 +92,9 @@ Szabályozott kifejezések listája
 
 | 3. | „barrique” | bármelyik | bor | Olyan bor, – amelyet 350 liternél nem nagyobb térfogatú tölgyfahordóban erjesztettek, illetve minimum 6 hónapon át érleltek, – amely esetében az (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet I. melléklet A. rész 1. táblázat 11. sorában szereplő eljárást nem alkalmazták, valamint – a kistölgyfahordóban való érlelésre jellemző érzékszervi tulajdonosságokkal rendelkezik. |
 
-| 4. | „blanc de blanc” | bármelyik | minőségi pezsgő | Olyan minőségi pezsgő, amely 100% fehér szőlőből készült. |
+| 4. | „blanc de blanc vagy blanc de blancs” | bármelyik | pezsgő, minőségi pezsgő | Olyan pezsgő, minőségi pezsgő, amely 100% fehér szőlőből készült. |
 
-| 5. | „blanc de noir” | bármelyik | minőségi pezsgő | Olyan minőségi pezsgő, amely kékszőlőből készült, de színben fehérborra jellemző, szalmasárga, citromsárga és hasonló árnyalatai. |
+| 5. | „blanc de noir vagy blanc de noirs” | bármelyik | pezsgő, minőségi pezsgő | Olyan pezsgő, minőségi pezsgő, amely kékszőlőből készült, de színben fehérborra jellemző, szalmasárga, citromsárga és hasonló árnyalatai. |
 
 | 6. | „cuvée” (francia) vagy „küvé” (magyar) | bármelyik | bármelyik | Pezsgő, minőségi pezsgő vagy illatos minőségi pezsgő kivételével legalább két szőlőfajta borából készült borászati termék. |
 
@@ -104,7 +104,7 @@ Szabályozott kifejezések listája
 
 | 9. | „muskotály” (magyar, vagy az Európai Unió bármely hivatalos nyelvének fordításában) | bármelyik | bármelyik | Legalább 85%-ban a következő szőlőfajták közül egynek vagy többnek a terméséből készülnek: – Aletta, – Csaba gyöngye, – cserszegi fűszeres, – generosa, – hamburgi muskotály, – Irsai Olivér, – mátrai muskotály, – nektár, – ottonel muskotály, – pölöskei muskotály, – sárga muskotály, – szirén, – trilla, – zefír. |
 
-| 10. | „narancsbor” | bármelyik | bor | Legalább 204,5 g/l cukortartalmú fehér szőlőből legalább 7 napig tartó héjon erjesztéssel készült bor, amelynek színe a mélysárgától a borostyán színig terjedhet. A címkén fel kell tüntetni a „fehér szőlő héjon erjesztésével készült bor” feliratot. |
+| 10. | „narancsbor” | bármelyik | bor | A 9. sorban felsorolt szőlőfajták esetében legalább 178,3 g/l, egyéb esetben legalább 204,5 g/l cukortartalmú fehér szőlőből legalább 7 napig tartó héjon erjesztéssel készült bor, amelynek színe a mélysárgától a borostyán színig terjedhet. A címkén fel kell tüntetni a „fehér szőlő héjon erjesztésével készült bor” feliratot. |
 
 | 11. | „natúr (kiegészítve a termékkategória nevével)” (magyar) | bármelyik | bor, gyöngyözőbor, pezsgő | Olyan bor, gyöngyözőbor vagy pezsgő, a) amely előállításához felhasznált szőlő aa) ökológiai gazdálkodási követelmények tanúsítására elismert, akkreditált tanúsító szervezet (a továbbiakban: tanúsító szervezet) által kiadott ökológiai tanúsítvánnyal rendelkezik, és ab) kizárólag kézi szüretelésű; b) amelyet tanúsító szervezet által kiadott, ökológiai feldolgozási tevékenységre vonatkozó tanúsítvánnyal rendelkező borászati üzemben állítottak elő; c) amely előállítása során kizárólag a következő borászati eljárásokat lehet alkalmazni: ca) levegőztetés vagy gáz-halmazállapotú oxigén hozzáadása, cb) szén-dioxid, argon vagy nitrogén alkalmazása, akár önmagában, akár kombináltan, semleges atmoszféra létrehozása és a termék levegőtől védett kezelése érdekében, cc) kén-dioxid felhasználása legfeljebb 40 mg/l összes kén-dioxid tartalomig; d) amely kizárólag üvegpalackba, bag-in-boxba vagy KEG hordóba töltve hozható forgalomba; és e) amely rendelkezik tanúsító szervezet ökológiai tanúsítványával. |
 
@@ -128,4 +128,4 @@ Szabályozott kifejezések listája
 
 | 21. | „újbor” (magyar) | bármelyik | bármelyik | A szüret évében palackozott bor. |
 
-[^31]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja szerint módosított szöveg.
+[^53]: A 8. melléklet a 27/2022. (VIII. 31.) AM rendelet 19. § e) pontja, a 12/2024. (III. 28.) AM rendelet 11. § 14–18. pontja szerint módosított szöveg.

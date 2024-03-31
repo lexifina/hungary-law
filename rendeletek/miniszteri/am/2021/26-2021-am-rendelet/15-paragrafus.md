@@ -24,7 +24,7 @@ d) a topográfiai fedvényt, valamint
 
 e) a magyar közigazgatási határok fedvényét.
 
-(4)[^1] Az NFK az adatot szolgáltató által megküldött adatokat az azok beérkezését követő 30 napon belül átvezeti a VINGIS adatbázisába, és továbbítja az LTK részére a VINGIS internetes felületén történő közzététel érdekében.
+(4)[^4] Az NFK az adatot szolgáltató által megküldött adatokat az azok beérkezését követő 30 napon belül átvezeti a VINGIS adatbázisába, és továbbítja az LTK részére a VINGIS internetes felületén történő közzététel érdekében.
 
 (5) Ha az NFK az adatok VINGIS-ben történő átvezetése során adateltérést tapasztal, az adateltérés tényéről haladéktalanul tájékoztatja az adatot szolgáltató szervet.
 
@@ -40,7 +40,7 @@ b) a NÉBIH,
 
 c) a Magyar Államkincstár,
 
-d)[^2] a borászati hatáskörben, erdészeti hatáskörben, valamint növénytermesztési hatáskörben eljáró megyei kormányhivatalok, továbbá az ingatlanügyi hatóságként eljáró fővárosi és megyei kormányhivatalok,
+d)[^5] a borászati hatáskörben, erdészeti hatáskörben, valamint növénytermesztési hatáskörben eljáró vármegyei kormányhivatalok, továbbá az ingatlanügyi hatóságként eljáró fővárosi és vármegyei kormányhivatalok,
 
 e) a HNT,
 
@@ -52,5 +52,5 @@ h) a MATE SZBI
 
 számára a jogszabályban meghatározott feladataik ellátása céljából, az ahhoz szükséges mértékben.
 
-[^1]: A 15. § (4) bekezdése a 27/2022. (VIII. 31.) AM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^2]: A 15. § (8) bekezdés d) pontja a 27/2022. (VIII. 31.) AM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^4]: A 15. § (4) bekezdése a 27/2022. (VIII. 31.) AM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^5]: A 15. § (8) bekezdés d) pontja a 27/2022. (VIII. 31.) AM rendelet 14. § (2) bekezdésével megállapított, a 12/2024. (III. 28.) AM rendelet 11. § 3. pontja szerint módosított szöveg.

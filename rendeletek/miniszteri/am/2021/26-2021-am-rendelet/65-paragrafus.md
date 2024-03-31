@@ -2,6 +2,6 @@
 
 a) a 45. § a) pontjában foglaltaktól eltérően e rendelet hatálybalépését megelőzően hatályos előírások által megkövetelt végzettséggel kell rendelkeznie,
 
-b)[^21] a 45. § b) pontjában meghatározott kötelezettségnek legkésőbb 2023. július 31-éig kell eleget tennie.
+b)[^42] a 45. § b) pontjában meghatározott kötelezettségnek legkésőbb 2024. július 31-éig kell eleget tennie.
 
-[^21]: A 65. § b) pontja a 27/2022. (VIII. 31.) AM rendelet 19. § c) pontja szerint módosított szöveg.
+[^42]: A 65. § b) pontja a 12/2024. (III. 28.) AM rendelet 11. § 13. pontja szerint módosított szöveg.

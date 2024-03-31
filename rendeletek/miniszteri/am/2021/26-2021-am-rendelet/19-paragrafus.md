@@ -42,11 +42,11 @@ h) ha a kérelmező nem a helyi ivóvíz szolgáltató által szolgáltatott viz
 
 i) a kiszerelési tevékenységet végző borászati üzem, valamint a nem kisüzemi bortermelőként előállítást végző borászati üzem által elkészített
 
-ia)[^4]
+ia)[^7]
 
 ib) technológiai elrendezési rajzot,
 
-ic)[^5]
+ic)[^8]
 
 id) műszaki-technológiai leírást,
 
@@ -56,14 +56,18 @@ if) tisztítási, takarítási utasítást,
 
 ig) hulladékkezelési utasítást,
 
-ih)[^6]
+ih)[^9]
 
 j) kisüzemi bortermelő borászati terméket legalább 100 hektoliter/év mennyiségben előállító borászati üzeme esetén az egyszerűsített személyi higiéniai utasítást;
 
-k) a helyszínrajzot; valamint
+k)[^10] a helyszínrajzot;
 
 l) a használt víz tekintetében annak igazolását, hogy a szennyvíz a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendeletben foglaltaknak megfelel.
 
-[^4]: A 19. § i) pont ia) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
-[^5]: A 19. § i) pont ic) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
-[^6]: A 19. § i) pont ih) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+m)[^11] a borászati üzemengedély iránti kérelemmel érintett ingatlanban tárolandó, adómentes fogyasztásra szánt borászati terméktétel mennyiségét hektoliterben, két tizedesjegy pontossággal.
+
+[^7]: A 19. § i) pont ia) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^8]: A 19. § i) pont ic) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^9]: A 19. § i) pont ih) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^10]: A 19. § k) pontja a 12/2024. (III. 28.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^11]: A 19. § m) pontját a 12/2024. (III. 28.) AM rendelet 2. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 13. A szüret és a szüreti bejegyzés
 
-18. §[^3] (1) A Kormányrendelet 28. § (3) bekezdése és 30. § (2) bekezdése szerinti szüret bejelentő lapon, valamint a Kormányrendelet 28. § (4) bekezdése szerinti felvásárlási űrlapon a hegybíró megadja az Ákr.-ben meghatározott adatokon túlmenően
+18. §[^6] (1) A Kormányrendelet 28. § (3) bekezdése és 30. § (2) bekezdése szerinti szüret bejelentő lapon, valamint a Kormányrendelet 28. § (4) bekezdése szerinti felvásárlási űrlapon a hegybíró megadja az Ákr.-ben meghatározott adatokon túlmenően
 
 a) az ültetvény használójának
 
@@ -144,4 +144,4 @@ ed) arra vonatkozó jelölését, hogy a szőlőszemek aszú készítésére alk
 
 (8) A Kormányrendelet 28. § (5) bekezdése szerinti bejelentésben nem kell megadni az alkalmazott kompenzációs felár mértékét és az áthárított kompenzációs felárat, ha nem kerül sor kompenzációs felár áthárítására.
 
-[^3]: A 18. § a 70. § (1) bekezdésével megállapított szöveg.
+[^6]: A 18. § a 70. § (1) bekezdésével megállapított szöveg.

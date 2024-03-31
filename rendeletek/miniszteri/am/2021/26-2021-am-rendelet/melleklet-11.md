@@ -26,9 +26,9 @@
 
 11. melléklet a 26/2021. (VII. 29.) AM rendelethez
 
-Szőlő és borászati termék kísérőokmány adattartalma
+A borászati borászati kísérőokmány adattartalma[^54]
 
-1. Kísérőokmány hitelesítés, azonosító.
+1.[^55] Borászati borászati kísérőokmány hitelesítés, azonosító.
 
 2. Az eladó (feladó) és a vevő (címzett)
 
@@ -50,33 +50,33 @@ Szőlő és borászati termék kísérőokmány adattartalma
 
 7. A szállításra történő átvétel igazolása.
 
-8. A szállítmány adatai
+8.[^56] A szállítmány adatai
 
-8.1. Borászati termékek borászati üzemek közötti belföldi áttárolása, valamint szőlőtörköly, borseprő, szőlő, zúzott cefre szállítása esetén
+8.1. Bármely termék esetén (általános szabályok)
 
-8.1.1. a tétel megnevezése, azonosítása:
+8.1.1. a tétel kiszerelésének vagy szállítóedényének típusa, amely kóddal is megadható [P: üvegpalack; BIB: bag-in-box; MP: műanyag palack; K: műanyag kanna; EK: egyéb anyagú kanna; TO: erjesztőkád, hordó; WB: fonatos palack; CK: hordó fából; BU: sörös/boros hordó (KEG); BM: tartály, EE: egyéb];
 
-8.1.1.1. végső származási bizonyítvánnyal nem rendelkező borászati termék esetében a szakmai jövedéki nyilvántartás szerinti megnevezés,
+8.1.2. a kiszerelési egység űrtartalma (literben kifejezve vagy tartályos kiszerelés esetén a tartály névleges űrtartalma);
 
-8.1.1.2. borászati melléktermék esetében a melléktermék fajtájának (szőlőtörköly, borseprő) megjelölése,
+8.1.3.[^57] a mennyiség egysége, az alábbi mértékegységek használatával:
 
-8.1.1.3. a szőlő esetében: szőlő,
+8.1.3.1. kiszerelt termékek esetében: „db”,
 
-8.1.1.4. a zúzott cefre (zúzott szőlő) esetében: zúzott cefre,
+8.1.3.2. nem kiszerelt (60 litert meghaladó űrtartalmú tárolóedényben tárolt) termékek esetében:
 
-8.1.1.5. a végső származási bizonyítvánnyal rendelkező borászati termék esetében legalább a forgalombahozatali azonosító;
+8.1.3.2.1. szőlőtörköly esetében: mázsa (q) (elégséges a becsült mennyiség feltüntetése),
 
-8.1.2. a tétel mennyisége: szőlő és szőlőtörköly esetében mázsában, minden más esetben hektoliterben megadva;
+8.1.3.2.2. szőlő esetében: mázsa (q),
 
-8.1.3. a tétel nettó egységára (megadása nem kötelező a kísérőokmány azon példányán, amely a terméket fizikailag is kíséri);
+8.1.3.2.3. minden más esetben: hektoliter (hl);
 
-8.1.4. a tételen elvégzett borászati műveletek kódjai a 14. melléklet szerint;
+8.1.4. a tétel mennyisége
 
-8.1.5. a tétel előállításához felhasznált szüreti bejegyzés, must származási bizonyítvány, első származási bizonyítvány vagy végső származási bizonyítvány száma és az azokból a tétel előállításakor felhasznált mennyiség;
+8.1.4.1. a kiszerelési egységek számának megadásával, ha kiszerelt tételekről van szó (például 6 db 0,75 literes üvegpalack esetén: 6),
 
-8.1.6. a tétel előállítása során keletkezett veszteség térfogatszázalékban (%vol) megadva;
+8.1.4.2. az adott sorban szereplő tételnek a „mennyiség egysége” rovatban jelzett mértékegységben kifejezett mennyisége megadásával, ha lédig tételekről van szó;
 
-8.1.7. melléktermék szállítása esetén a melléktermék alkoholtartalma térfogatszázalékban (%vol) megadva, ha az eltér az átalány alkoholtartalomtól.
+8.1.5. a tétel nettó egységára (megadása nem kötelező a kísérőokmány azon példányán, amely a terméket fizikailag is kíséri).
 
 8.2. Nem borászati üzembe történő szállítás esetén
 
@@ -84,48 +84,45 @@ Szőlő és borászati termék kísérőokmány adattartalma
 
 8.2.1.1. végső származási bizonyítvánnyal nem rendelkező borászati termék esetében a szakmai jövedéki nyilvántartás szerinti megnevezés,
 
-8.2.1.2. borászati melléktermék esetében a melléktermék fajtájának (szőlőtörköly, borseprő) megjelölése,
+8.2.1.2. a végső származási bizonyítvánnyal rendelkező borászati termék esetében legalább a forgalombahozatali azonosító (annak hiányában a végső származási bizonyítvány száma).
 
-8.2.1.3. a szőlő esetében: szőlő,
+8.3. Borászati termékek borászati üzemek közötti belföldi áttárolása, valamint szőlőtörköly, borseprő, szőlő, zúzott cefre szállítása esetén
 
-8.2.1.4. a zúzott cefre (zúzott szőlő) esetében: zúzott cefre,
+8.3.1. a tétel megnevezése, azonosítása:
 
-8.2.1.5. a végső származási bizonyítvánnyal rendelkező borászati termék esetében legalább a forgalombahozatali azonosító;
+8.3.1.1. végső származási bizonyítvánnyal nem rendelkező borászati termék esetében a szakmai jövedéki nyilvántartás szerinti megnevezés,
 
-8.2.2. a tétel kiszerelésének típusa [például kanna, palack, tartály, amely kóddal is megadható (P: palack,
+8.3.1.2. borászati melléktermék esetében a melléktermék fajtájának (szőlőtörköly, borseprő) megjelölése,
 
-K: kanna, T: tartály)];
+8.3.1.3. szőlő esetében: szőlő,
 
-8.2.3. a kiszerelési egység űrtartalma (literben kifejezve vagy tartályos kiszerelés esetén a tartály névleges űrtartalma);
+8.3.1.4. zúzott cefre (zúzott szőlő) esetében: zúzott cefre,
 
-8.2.4. a mennyiség egysége, az alábbi mértékegységek használatával:
+8.3.1.5. végső származási bizonyítvánnyal rendelkező borászati termék esetében legalább a forgalombahozatali azonosító;
 
-8.2.4.1. „db”, ha a 8.2.2. és a 8.2.3. pontokat kitöltötték,
+8.3.2. a tételen elvégzett borászati eljárások kódjai a 14. melléklet szerint;
 
-8.2.4.2. ha a 8.2.2. és a 8.2.3. pontok nem értelmezhetőek:
+8.3.3. a tétel előállításához felhasznált szüreti bejegyzés, must származási bizonyítvány, első származási bizonyítvány vagy végső származási bizonyítvány száma és az azokból a tétel előállításakor felhasznált mennyiség;
 
-8.2.4.2.1. szőlőtörköly esetében: mázsa (q) (elégséges a becsült mennyiség feltüntetése),
+8.3.4. a tétel előállítása során keletkezett veszteség térfogatszázalékban (%vol) megadva;
 
-8.2.4.2.2. borseprő esetében: hektoliter (hl),
-
-8.2.4.2.3. szőlő esetében: mázsa (q);
-
-8.2.5. a tétel mennyisége
-
-8.2.5.1. a kiszerelési egységek számának megadásával, ha a 8.2.2. és a 8.2.3. pontokat kitöltötték (például 6 db 0,75 literes palack esetén: 6),
-
-8.2.5.2. az adott sorban szereplő tételnek a „mennyiség egysége” rovatban jelzett mértékegységben kifejezett mennyisége megadásával, ha a 8.2.2. és a 8.2.3. pontok nem értelmezhetőek;
-
-8.2.6. a tétel nettó egységára (megadása nem kötelező a kísérőokmány azon példányán, amely a terméket fizikailag is kíséri).
+8.3.5. melléktermék szállítása esetén a melléktermék alkoholtartalma térfogatszázalékban (%vol) megadva, ha az eltér az átalány alkoholtartalomtól.
 
 9. A szállítmány teljes mennyisége (több tétel szállítása esetén)
 
 9.1. a 8. pontban megadott mértékegységben kifejezve; ha több terméktípus (például: szőlőtörköly és borseprő) szállítására kerül sor, az összegzést terméktípus szerinti bontásban kell megadni,
 
-9.2. azon tételek esetében, amelyeknél a 8.2.2. és a 8.2.3. pontokat kitöltötték, a hektoliterben kifejezett összes mennyiséget kell megadni,
+9.2.[^58] kiszerelt tételek esetében a hektoliterben kifejezett összes mennyiséget kell megadni,
 
-9.3. azon tételek esetében, amelyeknél a 8.2.2. és a 8.2.3. pontok nem értelmezhetőek, a 8.2.4. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
+9.3.[^59] lédig tételek esetében a 8.1.3. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
 
 10. A feladó igazolása a feladásról (keltezés, név, aláírás).
 
 11. A címzett igazolása az átvételről (keltezés, név, aláírás).
+
+[^54]: A 11. melléklet címe a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^55]: A 11. melléklet 1. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^56]: A 11. melléklet 8. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a 11. melléklet 8. pont 8.2.6. alpontjában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^57]: [A 11. melléklet 8. pont 8.1.3. alpontjában a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^58]: A 11. melléklet 9. pont 9.2. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^59]: A 11. melléklet 9. pont 9.3. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.

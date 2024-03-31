@@ -20,7 +20,7 @@ cc) mennyiségét és a készletváltozásokat,
 
 cd) minőségi jellemzőjét, mértékegységét,
 
-ce) ki- és betárolása esetén annak dátumát, jogcímét, valamint a számla vagy kísérőokmány számát;
+ce)[^18] ki- és betárolása esetén annak dátumát, jogcímét, valamint a számla vagy borászati kísérőokmány számát;
 
 d) az előállított vagy betárolt, forgalombahozatali azonosítóval nem rendelkező borászati termék
 
@@ -42,7 +42,7 @@ dh) adómentes fogyasztása esetén annak dátumát és mennyiségét,
 
 di) műveleti, tárolási, szállítási vagy palackozási veszteségeinek mennyiségét és jogcímét,
 
-dj) ki- és betárolása esetén annak dátumát, jogcímét, valamint a kísérőokmány számát,
+dj)[^19] ki- és betárolása esetén annak dátumát, jogcímét, valamint a borászati kísérőokmány számát,
 
 dk) első származási bizonyítványának vagy bizonyítványainak számát,
 
@@ -79,3 +79,6 @@ h) a jövedéki adóról szóló 2016. évi LXVIII. törvény 138. §-a szerinti
 (3) A tárolóedény javításra történő átadásáról, átvételéről bizonylatot kell kiállítani, amelyen a tárolóedényt egyértelműen beazonosítható módon kell feltüntetni. A javításra átadott tárolóedényeket az online bortermelői regiszterben nem kell átvezetni.
 
 (4) A szacharóz, a savtartalom növelésére, valamint a savtompításra használt termékek, továbbá az adalékanyagok megnevezése az (1) bekezdés c) pont ca) alpontjától eltérően helyettesíthető a szakmai-jövedéki nyilvántartásban meghatározott kóddal.
+
+[^18]: A 30. § (1) bekezdés c) pont ce) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.
+[^19]: A 30. § (1) bekezdés d) pont dj) alpontja a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja szerint módosított szöveg.
