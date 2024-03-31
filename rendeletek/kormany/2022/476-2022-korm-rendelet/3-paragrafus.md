@@ -1,1 +1,0 @@
-3. § A kiegészítő támogatás folyósítására, elszámolására, ellenőrzésére és visszafizetésére a Vhr. szabályait, valamint a jogosultság alapjául szolgáló támogatásra vonatkozó, a 2023. évi Kvtv. 8. melléklete szerinti szabályokat kell megfelelően alkalmazni.
