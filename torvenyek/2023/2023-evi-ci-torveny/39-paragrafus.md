@@ -1,1 +1,1 @@
-### 39. §
+39. § Ha a rendelkezésre bocsátáshoz a közfeladatot ellátó szerv részéről az adat átalakítása szükséges, ennek díját a közfeladatot ellátó szerv a 36. alcím rendelkezéseinek figyelembevételével felszámíthatja. Az átalakítással járó munkateher nem akadályozhatja a közfeladatot ellátó szerv alaprendeltetése szerinti feladatainak ellátását.

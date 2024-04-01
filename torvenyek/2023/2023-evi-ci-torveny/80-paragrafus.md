@@ -1,1 +1,5 @@
-### 80. §
+80. § (1) Az adatelemzési szolgáltatás nyújtására vonatkozó igény teljesítése során, ideértve a közcélú és piaci tájékoztatási szolgáltatás nyújtása érdekében végzett adatelemzést is, az adatelemzési szolgáltatás nyújtója az adatigény teljesítésének eredményét csak az igénylő részére küldi meg azzal, hogy a létrejött eredmény felhasználási joga – ha megfelel az Szjt. szerinti szerzői műre vonatkozó követelményeknek – az igénylőt illeti meg, ezért annak felhasználására a szolgáltató csak akkor jogosult, ha ahhoz az igénylő előzetesen megtett írásbeli nyilatkozatában kifejezetten hozzájárult.
+
+(2) Az adatelemzési szolgáltatás nyújtója az általa végzett vagy közreműködő útján elvégeztetett adatelemzés eredményét az igénylő kifejezett írásbeli hozzájárulása esetén őrizheti meg, amelyet az igénylő hozzájárulástól függően tehet nyilvánosan vagy korlátozott körben hozzáférhetővé.
+
+(3) A (2) bekezdést az adatelemzés eredményének további elemzések során történő felhasználására is alkalmazni kell.

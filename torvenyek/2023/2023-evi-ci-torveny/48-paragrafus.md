@@ -1,1 +1,3 @@
-### 48. §
+48. § (1) A szolgáltató idősoros elemzéshez kapcsolódó igény esetén a személytelenítéshez alkalmazott paramétereket, valamint algoritmust védett módon, a jogosultalan hozzáférést kizárva akkor tárolja, majd további személytelenítési igények esetén a személytelenítéshez az első alkalommal eltárolt algoritmust és paramétereket akkor használja, ha a személytelenítéshez nem vesz igénybe kulcsszolgáltatást, egyébként a Kulcsszolgáltató által tárolt kulccsal, illetve algoritmussal dolgozik.
+
+(2) A felhasználó értesíti a szolgáltatót, ha az idősoros elemzési időszak véget ér. Ebben az esetben a szolgáltató törli az idősoros elemzés során a személytelenítéshez használt algoritmust és paramétereket mindazon információval együtt, amely alkalmas azonos személyt azonosító adatot helyettesítő adat létrehozásához.

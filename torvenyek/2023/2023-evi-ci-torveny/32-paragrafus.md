@@ -1,1 +1,3 @@
-### 32. §
+32. § (1) Ha valamely adathasznosítás-támogatási szolgáltatás iránti igény teljesítéséhez szükséges személyes adatok kezelése során a közfeladatot ellátó szervek eltérő azonosító kódokat alkalmaznak, de az azonosító kódok összerendelése szerepel a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz tv.) 10/A. §-a szerinti összerendelési nyilvántartásban, az adatokat a szolgáltató az összerendelési nyilvántartást vezető szerv bevonásával kapcsolja össze.
+
+(2) Ha valamely adathasznosítás-támogatási szolgáltatás iránti igény teljesítéséhez szükséges személyes adatok összekapcsolásához a természetes személyazonosító adatokat szükséges felhasználni, az összekapcsolás a személyiadat- és lakcímnyilvántartást kezelő szerv bevonásával is történhet.
