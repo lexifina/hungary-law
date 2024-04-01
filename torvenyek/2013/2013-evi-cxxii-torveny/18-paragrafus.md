@@ -36,6 +36,12 @@ e) a szántó, kert, szőlő, gyümölcsös művelési ágban nyilvántartott f�
 
 (3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányada egészének vagy egy részének eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megszüntetése esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte.
 
+(3a) Rizstelephez tartozó földrészlet eladása esetén az (1) bekezdés c)–e) pontjában, valamit a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – az alábbi sorrendben megelőzi
+
+a) az a földműves, aki a földet a földhasználati nyilvántartás alapján legalább 3 éve használó mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, illetve annak közeli hozzátartozója,
+
+b) az a földműves, akinek az életvitelszerű lakáshasználata helye vagy a mezőgazdasági üzemközpontja legalább 3 éve olyan településen van, amelynek közigazgatási határa az adásvétel tárgyát képező föld fekvése szerinti település közigazgatási határától közúton vagy közforgalom elől el nem zárt magánúton legfeljebb 20 km távolságra van, és a legalább egy éve tulajdonában lévő föld ugyanannak a rizstelepnek a része, mint az adásvételi szerződés tárgyát képező földrészlet.
+
 (4) Az (1) bekezdés c)–e) pontjában, valamint a (2) és (3) bekezdésben meghatározott jogosulti csoportokon belül az elővásárlásra jogosultak sorrendje a következő:
 
 a) legalább egy éve családi mezőgazdasági társaság tagja vagy őstermelők családi gazdaságának tagja,

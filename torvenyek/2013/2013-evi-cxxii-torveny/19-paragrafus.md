@@ -14,4 +14,6 @@ b) legalább három éve a vevő, vagy a vevő legalább 25%-ban tulajdonában, 
 
 (5a) Több föld egybefoglalt vételáron történő eladása esetén a földműves tulajdonostársat a 18. § (3) bekezdése alapján megillető elővásárlási jog csak akkor gyakorolható, ha ezen elővásárlási jogosultság valamennyi érintett ingatlan vonatkozásában fennáll.
 
+(5b) Rizstelephez tartozó földrészlet értékesítésére csak akkor kerülhet sor, ha az adásvételi szerződés a rizstelephez tartozó valamennyi ingatlan tulajdonjogának egybefoglalt vételáron történő átruházásáról rendelkezik, ide nem értve azt az esetet, ha a vevő a rizstelephez tartozó földrészletnek legalább egy éve tulajdonosa vagy olyan földműves, aki a földet a földhasználati nyilvántartás alapján legalább 3 éve használó mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa, illetve annak közeli hozzátartozója.
+
 (6) Egy adásvételi szerződésben vagy elfogadó jognyilatkozatban több elővásárlásra jogosult közösen is gyakorolhatja e jogosultságát. Az elővásárlásra jogosultak sorrendjének megállapítása során az elővásárlási jogot közösen gyakorló jogosultak ranghelyének meghatározásakor azt a jogosultat kell figyelembe venni, aki közülük a jogosulti rangsor szerint az utolsó helyen áll.
