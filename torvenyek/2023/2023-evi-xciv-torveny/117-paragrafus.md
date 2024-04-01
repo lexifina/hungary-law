@@ -2,7 +2,7 @@
 
 a)
 
-b)
+b) 13. § (2) bekezdés e) pontjában a „használatot.” szövegrész helyébe a „használatot, vagy” szöveg,
 
 c)
 
