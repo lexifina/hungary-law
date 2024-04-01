@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-4301-02-00
 | 2023-01-01 | Magyarország Alaptörvényének tizenegyedik módosítása | 2011-4301-02-00.15 |
 | 2023-12-22 | Magyarország Alaptörvényének tizenkettedik módosítása | 2011-4301-02-00.16 |
 | 2024-01-01 | Magyarország Alaptörvényének tizenkettedik módosítása | 2011-4301-02-00.17 |
+| 2024-04-01 | Magyarország Alaptörvényének tizenkettedik módosítása | 2011-4301-02-00.18 |
