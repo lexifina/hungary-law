@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-209-20-
 | 2023-09-07 | 2013-209-20-22.25 | 409/2023. (VIII. 30.) Korm. rendelet |
 | 2023-11-05 | 2013-209-20-22.26 | 490/2023. (XI. 2.) Korm. rendelet |
 | 2024-01-01 | 2013-209-20-22.24 | 336/2023. (VII. 24.) Korm. rendelet |
+| 2024-04-01 | 2013-209-20-22.27 | 336/2023. (VII. 24.) Korm. rendelet |
