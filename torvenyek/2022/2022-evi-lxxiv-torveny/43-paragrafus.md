@@ -6,4 +6,4 @@ b)
 
 c)
 
-d)
+d) 63/A. § (3) bekezdésében a „ha a munkavállaló munkahelyén rákkeltő hatású anyagoknak van kitéve, ötven évig” szövegrész.
