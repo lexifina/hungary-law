@@ -1,4 +1,4 @@
-15/B. §[^122] (1) Az Fftv. 11. § (1) bekezdése, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. § (2)–(3) bekezdése szerinti adatokat tartalmazó nyilvántartást a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a miniszter által létrehozott szakmai informatikai rendszerben (a továbbiakban: szakmai informatikai rendszer) kezeli.
+15/B. §[^123] (1) Az Fftv. 11. § (1) bekezdése, valamint a munkavédelemről szóló 1993. évi XCIII. törvény 83/B. § (2)–(3) bekezdése szerinti adatokat tartalmazó nyilvántartást a foglalkoztatás-felügyeleti hatóság és a munkavédelmi hatóság a miniszter által létrehozott szakmai informatikai rendszerben (a továbbiakban: szakmai informatikai rendszer) kezeli.
 
 (2) A nyilvántartások az egyes szabályszegések vonatkozásában a végleges és végrehajtható közigazgatási döntéseknek a jogszabályokban meghatározott adatait tartalmazzák, a jogszabályokban meghatározott időtartamig.
 
@@ -12,4 +12,4 @@
 
 (7) A szakmai informatikai rendszer kezelésével, valamint a munkaügyi nyilvántartásokhoz való hozzáférésre vonatkozó részletes feladatokat a miniszter felhasználói kézikönyvben állapítja meg.
 
-[^122]: A 15/B. §-t a 116/2021. (III. 10.) Korm. rendelet 29. §-a iktatta be.
+[^123]: A 15/B. §-t a 116/2021. (III. 10.) Korm. rendelet 29. §-a iktatta be.
