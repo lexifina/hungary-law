@@ -1,3 +1,1 @@
-3. §[^3]
-
-[^3]: A 3. § a 13. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.
+3. § A 320/2014. Korm. rendelet 14. § (1) bekezdés b) pontjában a „rákkeltő anyagok” szövegrész helyébe a „rákkeltő, mutagén vagy reprodukciót károsító anyagok” szöveg lép.
