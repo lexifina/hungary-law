@@ -6,11 +6,11 @@
 
 | 3 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | RSJ | 260 000 |  |
 
-14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^112]
+14. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^113]
 
 |  | A | B | C | D | E | F | G |
 
-| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások[^113] | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban L1e–L7e, M1, O1 kategóriájú jármű, mezőgazdasági vontató és lassú jármű, valamint azok pótkocsija esetén | A bírság összege forintban N1, O2 kategóriájú jármű esetén | A bírság összege forintban N2, N3, O3, O4 kategóriájú jármű esetén | A bírság összege forintban M2, M3 kategóriájú jármű esetén |
+| 1 | Sor- szám | Bírságolással érintett cselekmények, mulasztások[^114] | A súlyosság foka (RSJ = rendkívül súlyos jogsértés, SJ = súlyos jogsértés) | A bírság összege forintban L1e–L7e, M1, O1 kategóriájú jármű, mezőgazdasági vontató és lassú jármű, valamint azok pótkocsija esetén | A bírság összege forintban N1, O2 kategóriájú jármű esetén | A bírság összege forintban N2, N3, O3, O4 kategóriájú jármű esetén | A bírság összege forintban M2, M3 kategóriájú jármű esetén |
 
 | 2 | 1. | A jármű alvázát, futóművét, kerekét, gumiabroncsát, fékberendezését vagy kormány- berendezését érintő komoly hiányosság | SJ | hiányosságonként 26 000 | hiányosságonként 52 000 | hiányosságonként 130 000 | hiányosságonként 195 000 |
 
@@ -28,5 +28,5 @@
 
 | 9 | 8. | A gépjármű esetében a gyártó által felszerelt károsanyag-kibocsátást csökkentő berendezés hiányzik, átalakították, működését befolyásolták, vagy nyilvánvalóan meghibásodott | RSJ | 52 000 | 65 000 | 780 000 | 780 000 |
 
-[^112]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
-[^113]: A 14. mellékletben foglalt táblázat fejléc 3. mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
+[^113]: A 14. mellékletet a 289/2018. (XII. 21.) Korm. rendelet 8. § (3) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (20) bekezdésével megállapított szöveg.
+[^114]: A 14. mellékletben foglalt táblázat fejléc 3. mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § k) pontjával megállapított szöveg.
