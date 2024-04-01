@@ -1,3 +1,3 @@
-2. §[^2]
+2. § Az 5/2020. ITM rendelet 23. §-a a következő l) ponttal egészül ki:
 
-[^2]: A 2. § az 5. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.
+(Ez a rendelet)
