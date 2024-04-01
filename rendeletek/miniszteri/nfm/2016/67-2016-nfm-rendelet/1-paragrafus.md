@@ -6,7 +6,7 @@
 
 (3a)[^4] A GET 141/A. § szerinti földgáz-értékesítés esetén az egyetemes szolgáltatót ellátó földgázkereskedő a szállítói vezeték kiadási pontján felmerülő kapacitás-túllépési pótdíjat az egyetemes szolgáltatóval szemben nem érvényesíthet.
 
-(4)[^5] Az 1. mellékletben szereplő, az egyetemes szolgáltatót ellátó földgázkereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége az egyetemes szolgáltató által a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben előírt, a hazai tárolókban elhelyezett földgázkészlet mennyisége és az egyetemes szolgáltató forrásigény-bejelentése alapján kerül meghatározásra.
+(4)[^5] Az 1. mellékletben szereplő, az egyetemes szolgáltatót ellátó földgázkereskedő által értékesítendő, földgáztárolóból származó földgázforrás legmagasabb hatósági ára és mennyisége az egyetemes szolgáltató által a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendeletben (a továbbiakban: GET. Vhr.) előírt, a hazai tárolókban elhelyezett földgázkészlet mennyisége és az egyetemes szolgáltató forrásigény-bejelentése alapján kerül meghatározásra.
 
 (5)[^6] A GET 141/A. §-a szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles az egyetemes szolgáltatót ellátó földgázkereskedőnek és a Magyar Energetikai és Közmű-szabályozási Hivatalnak (a továbbiakban: Hivatal) megküldeni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
 
@@ -16,6 +16,6 @@
 [^2]: Az 1. § (2) bekezdése a 48/2021. (IX. 30.) ITM rendelet 3. § (1) bekezdés a) pontja, az 5/2022. (VI. 30.) TIM rendelet 2. § a) pontja, a 21/2022. (IX. 30.) TIM rendelet 1. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3a) bekezdését a 19/2018. (IX. 27.) ITM rendelet 4. §-a iktatta be, szövege a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.
-[^5]: Az 1. § (4) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja, a 3/2024. (III. 28.) EM rendelet 3. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (5) bekezdését a 23/2017. (VI. 30.) NFM rendelet 1. §-a iktatta be, szövege a 10/2022. (III. 31.) ITM rendelet 2. § b) pontja szerint módosított szöveg.
 [^7]: Az 1. § (6) bekezdését a 8/2018. (III. 28.) NFM rendelet 3. §-a iktatta be, szövege a 10/2022. (III. 31.) ITM rendelet 2. § a) pontja szerint módosított szöveg.

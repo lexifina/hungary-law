@@ -1,5 +1,5 @@
 ## 2X07625.pdf
 
-8. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^62]
+8. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^63]
 
-[^62]: A 8. mellékletet a 25/2022. (XI. 15.) TIM rendelet 1. § (3) bekezdése iktatta be.
+[^63]: A 8. mellékletet a 25/2022. (XI. 15.) TIM rendelet 1. § (3) bekezdése iktatta be.

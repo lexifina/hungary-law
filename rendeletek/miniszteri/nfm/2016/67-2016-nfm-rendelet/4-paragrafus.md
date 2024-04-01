@@ -14,7 +14,7 @@
 
 (8)[^27] A termelő a (7) bekezdés szerinti előrejelzést minden év július 31-ig felülvizsgálja és megküldi a hazai termelésű földgáz tervezett mennyiségét a következő gázévre vonatkozóan negyedéves bontásban, valamint a gázévet követő két év tekintetében éves bontásban – egy maximálisan elérhető és egy minimálisan elérhető termelési várakozást feltételezve – a Hivatal és az egyetemes szolgáltatót ellátó földgázkereskedő részére.
 
-(9)[^28] A 4. mellékletben meghatározott földgázmennyiségek adott gázévre vonatkozó összege maximum 3%-os rugalmasság alkalmazásával adható át, az átadott földgázmennyiség tekintetében az adott negyedévben a 4. mellékletben meghatározott hatósági árat kell alkalmazni.
+(9)[^28] A 4. mellékletben meghatározott földgázmennyiségek adott gázévre vonatkozó összege kötelezően átadandó, míg ezen összmennyiség felett maximum 3%-os rugalmasság alkalmazásával adható át, az átadott földgázmennyiség tekintetében az adott negyedévben a 4. mellékletben meghatározott hatósági árat kell alkalmazni.
 
 (10)[^29] A GET 103. § (2) bekezdés f) pontja szerint hatósági áras földgázmennyiségnek minősül az a földgázmennyiség is, amely a 4. mellékletben meghatározott, adott gázévre vonatkozó összmennyiség felett kerül átadásra a (9) bekezdés szerinti rugalmassági szabály alkalmazásával.
 
@@ -25,5 +25,5 @@
 [^25]: A 4. § (6) bekezdése a 10/2022. (III. 31.) ITM rendelet 2. § d) pontja szerint módosított szöveg.
 [^26]: A 4. § (7) bekezdését a 3/2023. (III. 31.) EM rendelet 3. §-a iktatta be, szövege a 35/2023. (XII. 29.) EM rendelet 4. § b) pontja szerint módosított szöveg.
 [^27]: A 4. § (8) bekezdését a 35/2023. (XII. 29.) EM rendelet 2. §-a iktatta be.
-[^28]: A 4. § (9) bekezdését a 35/2023. (XII. 29.) EM rendelet 2. §-a iktatta be.
+[^28]: A 4. § (9) bekezdését a 35/2023. (XII. 29.) EM rendelet 2. §-a iktatta be, szövege a 3/2024. (III. 28.) EM rendelet 1. §-ával megállapított szöveg.
 [^29]: A 4. § (10) bekezdését a 35/2023. (XII. 29.) EM rendelet 2. §-a iktatta be.

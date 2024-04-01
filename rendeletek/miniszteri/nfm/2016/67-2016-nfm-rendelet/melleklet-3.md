@@ -1,3 +1,3 @@
-3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^58]
+3. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^59]
 
-[^58]: A 3. melléklet a 19/2023. (IX. 29.) EM rendelet 2. § (1) bekezdés c) pontjával megállapított szöveg.
+[^59]: A 3. melléklet a 3/2024. (III. 28.) EM rendelet 2. § (3) bekezdésével megállapított szöveg.
