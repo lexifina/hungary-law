@@ -1,0 +1,7 @@
+## 2. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
+
+3. § (1) A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet [a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet] 12/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A Kkt. 20. § (1) bekezdés m) pontjához kapcsolódóan – ha jogszabály eltérően nem rendelkezik – a 11/H. mellékletben foglalt jogszabályi rendelkezés megsértése esetén járműkategória, a 11/I. mellékletben meghatározott jogszabályi rendelkezés megsértése esetén járműkategória és a gépjárműszerelvény tengelyszáma és az UD rendszer észlelése által a 11/H. mellékletben vagy a 11/I. mellékletben meghatározott időszakban megállapított jogosulatlan úthasználat száma, illetve időbelisége alapján meghatározott bírságot köteles fizetni, aki az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben (a továbbiakban: ED törvény) meghatározottak szerint szabályszegést követ el.”
+
+(2) A 156/2009. (VII. 29.) Korm. rendelet a 2. melléklet szerinti 11/I. melléklettel egészül ki.
