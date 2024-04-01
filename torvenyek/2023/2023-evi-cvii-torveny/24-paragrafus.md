@@ -1,11 +1,13 @@
+## lép.
+
 24. § Hatályát veszti a légiközlekedésről szóló 1995. évi XCVII. törvény
 
 a)
 
 b)
 
-c)
+c) 37/A. §-a,
 
-d)
+d) 39. § (4) bekezdése,
 
-e)
+e) 50/A. § (2d) bekezdése.
