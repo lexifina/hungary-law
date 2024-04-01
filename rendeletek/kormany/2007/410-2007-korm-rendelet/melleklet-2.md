@@ -50,6 +50,6 @@
 
 | 25 | 3.7. | g) 110 km/óra felett | g) 390 000 |  |
 
-2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^59]
+2. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^60]
 
-[^59]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^60]: A 2. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
