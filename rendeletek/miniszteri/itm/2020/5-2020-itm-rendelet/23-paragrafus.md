@@ -24,7 +24,10 @@ j)[^16] a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos k
 
 k)[^17] a 98/24/EK tanácsi irányelv alapján meghatározott indikatív foglalkozási expozíciós határértékek ötödik listájának létrehozásáról és a 2000/39/EK bizottsági irányelv módosításáról szóló, 2019. október 24-i 2019/1831 bizottsági irányelvnek
 
+l)[^18] a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 [^16]: A 23. § j) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
 [^17]: A 23. § k) pontját a 32/2021. (VII. 26.) ITM rendelet 20. §-a iktatta be.
+[^18]: A 23. § l) pontját a 68/2023. (XII. 28.) GFM rendelet 2. §-a iktatta be.
