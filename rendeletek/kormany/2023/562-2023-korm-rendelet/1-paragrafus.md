@@ -12,9 +12,9 @@ d) a MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság,
 
 e) a MAHART-Szabadkikötő Zrt.,
 
-f)[^1]
+f) a NÖF Nemzeti Örökségvédelmi Fejlesztési Nonprofit Korlátolt Felelősségű Társaság és
 
-g)[^2]
+g) az Eszterháza Kulturális, Kutató- és Fesztiválközpont Közhasznú Nonprofit Korlátolt Felelősségű Társaság
 
 az (1) bekezdés szerint köteles igénybe venni.
 
@@ -33,6 +33,3 @@ e) beszerzés, közbeszerzés lebonyolítása; eszközgazdálkodás; cikkszám- 
 f) általános és szakanyagellátáshoz szükséges raktárak működtetése és az optimális készletek biztosításához szükséges készletgazdálkodási tevékenység ellátása; idegen tulajdonú készletek kezelése és
 
 g) ügykezelési és dokumentációs szolgáltatások nyújtása; különösen a bejövő küldemények kezelése, átvétele, érkeztetése, szkennelése, a kimenő küldemények kezelése, átvétele, egyetemes postai szolgáltatón keresztüli feladása, a cégkapun beérkező küldemények továbbítása; iratanyagok irattározása; közreműködés az iratanyagokkal kapcsolatos selejtezési eljárásban; dokumentum-menedzsment rendszerek szakmai felügyelete.
-
-[^1]: Az 1. § (2) bekezdés f) pontja a 2. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.
-[^2]: Az 1. § (2) bekezdés g) pontja a 2. § (2) bekezdés alapján 2024. április 1-jén lép hatályba.
