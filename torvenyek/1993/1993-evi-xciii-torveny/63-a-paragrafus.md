@@ -18,7 +18,7 @@ cb) az expozíciós koncentráció mért adatait anyagonként.
 
 d)
 
-(3) A munkáltató a nyilvántartásban szereplő adatokat a munkaviszony megszűnését követő tíz évig, ha a munkavállaló munkahelyén rákkeltő hatású anyagoknak van kitéve, ötven évig megőrzi.
+(3) A munkáltató a nyilvántartásban szereplő adatokat a munkaviszony megszűnését követő tíz évig, megőrzi.
 
 (4) Amennyiben a munkáltató jogutód nélkül megszűnik, a (2) bekezdés szerint nyilvántartott adatokat a munkavégzés helye szerint illetékes munkavédelmi hatóságnak átadja az (1) bekezdésben meghatározott célból.
 

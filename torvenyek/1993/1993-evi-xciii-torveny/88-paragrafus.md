@@ -158,6 +158,8 @@ m) a munkájuk során rákkeltő, illetve mutagén anyagokkal kapcsolatos kocká
 
 n) az Európai Unió Mezőgazdasági Szövetkezeteinek Általános Szövetsége (COGECA), az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) és az Európai Uniós Halászati Vállalkozások Nemzeti Szervezeteinek Szövetsége (Europêche) között 2012. május 21-én megkötött, a Nemzetközi Munkaügyi Szervezet 2007. évi, a halászati ágazat munkafeltételeiről szóló egyezményének végrehajtásáról szóló megállapodás végrehajtásáról szóló, 2016. december 19-i (EU) 2017/159 tanácsi irányelv.
 
+o) a munkájuk során rákkeltő anyagokkal és mutagénekkel kapcsolatos kockázatoknak kitett munkavállalók védelméről szóló 2004/37/EK irányelv módosításáról szóló, 2022. március 9-i (EU) 2022/431 európai parlamenti és tanácsi irányelv.
+
 (7)
 
 (8)
