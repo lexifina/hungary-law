@@ -4,7 +4,7 @@
 
 104. § (1) Felhatalmazást kap a Kormány, hogy
 
-a)
+a) a rizsteleppé minősítéssel kapcsolatos eljárás részletes szabályait,
 
 b) a földhasználati nyilvántartás részletes szabályait,
 
