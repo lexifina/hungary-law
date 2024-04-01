@@ -1,1 +1,0 @@
-2. § Az Útdíjtv. 2. § 21. pontjában foglaltaktól eltérően az Útdíjtv. alkalmazásában útdíjköteles gépjármű a nehéz tehergépjármű és a lakóautó, valamint az ilyen gépjárműből és az általa vontatott pótkocsiból, félpótkocsiból vagy másik útdíjköteles gépjárműből álló járműszerelvény.
