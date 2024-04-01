@@ -1,6 +1,6 @@
 ## 7. A jogosultság módosítása, az ellenőrző szelvény vagy a nyugtázó értesítés pótlása
 
-18. § (1)[^34] Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a jogosultság érvényességi ideje alatt, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
+18. § (1)[^39] Ha a gépjármű tulajdonjogát a tulajdonosa év közben átruházza, vagy az annak használatát lehetővé tévő jogviszony megszűnik, a jogosultság érvényességi ideje alatt, a 20. § szerinti ügyintézési díj ellenében kérhető a jogosultság érvényesítése más, azonos díjkategóriába vagy azonos árú díjkategóriába tartozó gépjárműre (a továbbiakban: átírás). Az átírásból eredő forgalmirendszám-változás átvezetéséhez
 
 a) a NÚSZ Zrt. részére le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést,
 
@@ -22,4 +22,7 @@ c) be kell mutatni a korábbi jogosultsággal rendelkező gépjármű eladását
 
 (8) Téves felségjel feltüntetése miatt kiküldött pótdíjfizetési felszólítás kézhezvételét követő 60 napon belül a felségjel módosítható. Az eljárás során be kell mutatni a gépjármű forgalmi engedélyét és a jogosultság megvásárlását igazoló ellenőrző szelvényt vagy a nyugtázó értesítést. A módosításért a 20. §-ban meghatározott ügyintézési díjat kell megfizetni. Ebben az esetben a jogosultság a módosított felségjellel érvényes a teljes érvényességi időn belül.
 
-[^34]: A 18. § (1) bekezdés nyitó szövegrésze a 19/2022. (IX. 19.) TIM rendelet 4. § i) pontja szerint módosított szöveg.
+(9)[^40] A 3. § (2) bekezdés a) pontjában meghatározott jogosultság tekintetében az (1)–(6) bekezdés alkalmazásának nincs helye.
+
+[^39]: A 18. § (1) bekezdés nyitó szövegrésze a 19/2022. (IX. 19.) TIM rendelet 4. § i) pontja szerint módosított szöveg.
+[^40]: A 18. § (9) bekezdését a 7/2024. (III. 28.) ÉKM rendelet 1. § (5) bekezdése iktatta be.
