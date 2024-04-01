@@ -1,1 +1,3 @@
-### 9. §
+9. § A Kbt. 79. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az ajánlatkérő az ajánlatok és a részvételi jelentkezések elbírálásának lezárásaként az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott adattartalom szerint írásbeli összegezést köteles készíteni az ajánlatokról, illetve a részvételi jelentkezésekről. Ha az ajánlatkérő az eljárásban lehetővé tette a részekre történő ajánlattételt, az ajánlatkérő az ajánlatok elbírálásáról szóló összegezést – az egyes részekben az ajánlatok bírálatának lezárásaként – részenként is elkészítheti. Az ajánlatkérő az (1) bekezdés szerinti tájékoztatást az írásbeli összegezésnek minden ajánlattevő, a részvételi szakasz lezárása esetén minden részvételre jelentkező részére egyidejűleg történő megküldésével teljesíti.”
