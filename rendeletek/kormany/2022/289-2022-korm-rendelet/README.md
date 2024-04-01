@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-289-20-
 | 2022-11-01 | 2022-289-20-22.3 | 2022. évi VI. törvény |
 | 2023-04-18 | 2022-289-20-22.4 | 127/2023. (IV. 17.) Korm. rendelet |
 | 2023-04-28 | 2022-289-20-22.5 | 157/2023. (IV. 27.) Korm. rendelet |
+| 2024-04-01 | 2022-289-20-22.6 | 65/2024. (III. 28.) Korm. rendelet |
