@@ -1,5 +1,3 @@
-4. § A 26/2021. (VII. 29.) AM rendelet a következő 16a. alcímmel egészül ki:
+4. §[^5]
 
-„16a. A szőlővíz megsemmisítése
-
-22/B. § A sűrített szőlőmust, valamint a finomított szőlőmustsűrítmény előállítása során keletkező szőlővíz megsemmisítéséről a borászati üzem gondoskodik.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

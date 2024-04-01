@@ -1,5 +1,3 @@
-12. § Hatályát veszti a 26/2021. (VII. 29.) AM rendelet
+12. §[^13]
 
-a) 9. § (1) bekezdés h) pontjában az „ , egy évnél nem régebbi” szövegrész,
-
-b) 19. § k) pontjában a „valamint” szövegrész.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
