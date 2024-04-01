@@ -1,0 +1,3 @@
+1. § Az egyetemes szolgáltatók részére vételre felajánlott földgázforrás és a hazai termelésű földgáz mennyiségéről és áráról, valamint az igénybevételre jogosultak és kötelezettek köréről szóló 67/2016. (XII. 29.) NFM rendelet [a továbbiakban: 67/2016. (XII. 29.) NFM rendelet] 4. § (9) bekezdése helyébe a következő rendelkezés lép:
+
+„(9) A 4. mellékletben meghatározott földgázmennyiségek adott gázévre vonatkozó összege kötelezően átadandó, míg ezen összmennyiség felett maximum 3%-os rugalmasság alkalmazásával adható át, az átadott földgázmennyiség tekintetében az adott negyedévben a 4. mellékletben meghatározott hatósági árat kell alkalmazni.”
