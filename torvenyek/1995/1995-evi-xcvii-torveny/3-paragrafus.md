@@ -88,7 +88,7 @@ hatósági eljárásokban.
 
 (2e) Az ügyintézési határidő 55 nap
 
-a) a kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban,
+a) nemzetközi kereskedelmi és kereskedelmi repülőtér díjszabályzatának elfogadására, valamint a díjszabályzat módosításának jóváhagyására irányuló hatósági eljárásban,
 
 b) a légijármű-lajstromozási bizonyítvány kiállítására, módosítására irányuló,
 

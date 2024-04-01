@@ -24,7 +24,7 @@ j) országos repülésmeteorológiai szolgálat fenntartása;
 
 k) a bajba jutott vagy eltűnt légijárművek megsegítésére, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenység elősegítésére a nemzetközi követelményeknek megfelelő légi kutató-mentő szolgálat fenntartása;
 
-l) az állami tulajdonú kereskedelmi repülőterek és a nem állami tulajdonú repülőterek létesítésének engedélyezése és szakmai felügyelete;
+l) az állami tulajdonú nemzetközi kereskedelmi és kereskedelmi repülőterek és a nem állami tulajdonú repülőterek létesítésének engedélyezése és szakmai felügyelete;
 
 m) a légiforgalmi irányító szakszemélyzet képzéséről való gondoskodás;
 

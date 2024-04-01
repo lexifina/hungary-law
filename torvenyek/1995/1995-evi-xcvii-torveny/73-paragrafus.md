@@ -74,7 +74,7 @@ f) a légiközlekedési vizsgaközpontot.
 
 (3) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
-a) a légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételének, valamint a nyilvános repülőtér üzemben tartója részére történő visszaadásának és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének részletes szabályait,
+a) a légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételének, valamint a közforgalom számára nyitva álló repülőtér üzemben tartója részére történő visszaadásának és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének részletes szabályait,
 
 b) a repülőtér légiközlekedés-védelme céljából szedett díjak tervezése, jóváhagyása és felhasználása ellenőrzésének szabályait,
 

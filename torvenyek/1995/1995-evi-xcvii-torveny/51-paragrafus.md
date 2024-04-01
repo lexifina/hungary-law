@@ -1,4 +1,4 @@
-51. § (1) A nyilvános repülőterek és azon polgári célú nem nyilvános repülőterek körzetében, valamint külön jogszabályban meghatározott egyéb térségekben lévő olyan létesítményeket, berendezéseket és vezetékeket, amelyek helyzetüknél vagy magasságuknál fogva kiemelkednek a környezetükből és a légiközlekedés biztonságát veszélyeztethetik, – az e törvény végrehajtási rendeletében meghatározott kivétellel – akadályjelzéssel kell ellátni. Az ilyen jelzéseket
+51. § (1) A közforgalom számára nyitva álló repülőterek és azon közforgalom számára nyitva nem álló repülőterek – ide értve az állami repülések céljára szolgáló és közös felhasználású repülőtereket – körzetében, valamint külön jogszabályban meghatározott egyéb térségekben lévő olyan létesítményeket, berendezéseket és vezetékeket, amelyek helyzetüknél vagy magasságuknál fogva kiemelkednek a környezetükből és a légiközlekedés biztonságát veszélyeztethetik, – az e törvény végrehajtási rendeletében meghatározott kivétellel – akadályjelzéssel kell ellátni. Az ilyen jelzéseket
 
 a) a repülőtér létesítése után épített épületek, vezetékek és létesítmények tekintetében ezek tulajdonosa,
 
@@ -10,7 +10,7 @@ köteles elhelyezni és karbantartani.
 
 (3) A repülésbiztonság fenntartása és növelése érdekében állami téradatbázisként létre kell hozni és adattartalmának rendszeres aktualizálásával fenn kell tartani Magyarország légiközlekedési terep és akadály adatbázisát. A légiközlekedési terep és akadály adatbázis a következő részadatbázisokból áll:
 
-a) a honvédelmi célú repülések céljára szolgáló repülőterek 10 km sugarú környezetében és kormányrendeletben meghatározott további területre vonatkozóan a helyi átlagos terepszinthez viszonyítva legalább 25 m magasságú tereptárgyak adatait tartalmazó REP-25 adatbázis,
+a) az állami repülések céljára szolgáló repülőterek 10 km sugarú környezetében és kormányrendeletben meghatározott további területre vonatkozóan a helyi átlagos terepszinthez viszonyítva legalább 25 m magasságú tereptárgyak adatait tartalmazó REP-25 adatbázis,
 
 b) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthez viszonyítva legalább 60 m magasságú tereptárgyak adatait tartalmazó REP-60 adatbázis,
 
@@ -18,9 +18,9 @@ c) a Magyarország teljes területére vonatkozó, a helyi átlagos terepszinthe
 
 d) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 2 Terület adatbázis,
 
-e) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 3 Terület adatbázis,
+e) az állami repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 3 Terület adatbázis,
 
-f) a honvédelmi célú repülések céljára szolgáló repülőterek és a nyilvános és polgári célú nem nyilvános, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 4 Terület adatbázis,
+f) az állami repülések céljára szolgáló repülőterek és a közforgalom számára nyitva álló és a közforgalom számára nyitva nem álló, műszeres repülési vagy különleges látvarepülési eljárásokat közzétevő repülőterek akadály adatgyűjtési felületeire vonatkozóan kormányrendeletben meghatározott adattartalmú 4 Terület adatbázis,
 
 g) a Magyarország teljes területére vonatkozó, legalább 10x10 méteres rácsháló méretű digitális domborzatmodell.
 

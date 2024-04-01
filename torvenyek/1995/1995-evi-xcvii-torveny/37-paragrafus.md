@@ -1,26 +1,36 @@
 ## A repülőtér és a leszállóhely
 
-37. § (1) A repülőtér lehet
+37. § (1) A repülőtér
 
-a) nyilvános repülőtér: amelyet azonos feltételekkel bárki igénybe vehet:
+a) közforgalom számára nyitva álló repülőtér, amelyet azonos feltételekkel bárki igénybe vehet, és amely lehet:
 
-aa) kereskedelmi repülőtér: a rendszeres utas, poggyász, áru és posta továbbítását végző légiforgalom céljaira létesített nyilvános repülőtér,
+aa) nemzetközi kereskedelmi repülőtér,
 
-ab) nem kereskedelmi repülőtér: az aa) alpontban meghatározottakon kívül minden más nyilvános repülőtér,
+ab) kereskedelmi repülőtér, vagy
 
-ac)
+ac) üzleti célú repülőtér,
 
-ad)
+b) közforgalom számára nyitva nem álló repülőtér, amely – a 41. § (6)–(7) bekezdésében meghatározott esetek kivételével – az üzemben tartó engedélye alapján vehető igénybe, és amely lehet:
 
-b) nem nyilvános repülőtér: amely — a 41. § (6)—(7) bekezdésében meghatározott esetek kivételével — a az üzemben tartó engedélye alapján vehető igénybe, és amely lehet
-
-ba) polgári célú nem nyilvános repülőtér,
+ba) polgári célú speciális repülőtér,
 
 bb) állami repülések céljára szolgáló repülőtér,
 
-bc) közös felhasználású repülőtér.
+bc) közös felhasználású repülőtér,
 
-(2) A kereskedelmi repülőteret a miniszter határozatával nemzetközi repülőtérnek nyilváníthatja (nemzetközi kereskedelmi repülőtér).
+bd) feltöltőhely, vagy
+
+be) mentőhelikopter leszállóhely.
+
+(1a) A leszállóhely közforgalom számára nyitva nem álló, a légijármű fel- és leszállására meghatározott ideig szolgáló terület, amelynek részletes szabályait a Kormány rendeletben határozza meg, és amely lehet
+
+a) rendezvények céljából létesített leszállóhely,
+
+b) mezőgazdasági vagy munkavégzési célú leszállóhely, valamint
+
+c) vízfelszínen létesített leszállóhely.
+
+(2) Állandó határátkelővel rendelkező, menetrend szerinti nemzetközi forgalmat bonyolító kereskedelmi repülőteret a miniszter határozatával nemzetközi repülőtérnek nyilváníthatja (a továbbiakban: nemzetközi kereskedelmi repülőtér).
 
 (3) Nemzetközi kereskedelmi repülőtér fejlesztésére és megszüntetésére a miniszter a repülőtér hatásterületén lévő települési (a fővárosban a fővárosi és az érintett kerületi) önkormányzat véleményének figyelembevételével ad engedélyt. A települési önkormányzat véleményét a megkeresés kézbesítésétől számított 30 napon belül adja meg. A határidő eredménytelen eltelte esetén úgy kell tekinteni, hogy az önkormányzat a megkeresésben foglaltakkal egyetért.
 

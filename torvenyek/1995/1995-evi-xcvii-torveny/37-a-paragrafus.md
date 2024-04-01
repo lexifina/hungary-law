@@ -1,1 +1,1 @@
-37/A. § A leszállóhely nem nyilvános, a légijármű fel- és leszállására meghatározott ideig szolgáló terület, amelynek létesítésének engedélyezésére vonatkozó szabályokat a Kormány rendeletben állapítja meg.
+### 37/A. §

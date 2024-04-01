@@ -56,7 +56,7 @@ b) a légijármű bérbeadása,
 
 c) a légiközlekedési szakszemélyzet szakirányú földi képzése,
 
-d) a repülőtér és a légiközlekedést kiszolgáló földi létesítmények létesítése, fenntartása, üzemben tartása,
+d) a repülőtér, a leszállóhely, és a légiközlekedést kiszolgáló földi létesítmények létesítése, fenntartása, üzemben tartása,
 
 e) a léginavigációs szolgálat és légiforgalmi szolgáltatások ellátása,
 
@@ -76,13 +76,13 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 18. repülés tartama: az az időtartam, amely akkor kezdődik, amikor az első személy a repülés megkezdésének szándékával a légijármű fedélzetére lép és akkor végződik, amikor a légijármű fedélzetét az utolsó ilyen személy elhagyta;
 
-19. repülőtér: bármely olyan kijelölt terület – beleértve mindenfajta a területhez tartozó épületet, berendezést és felszerelést – a földön, vagy a vízen, illetve rögzített, parthoz rögzített vagy úszó építmény felületén, amelyet részben vagy teljes egészében légijárművek leszállásához, felszállásához és földi mozgásához használnak;
+19. repülőtér: bármely olyan – nem ideiglenesen – kijelölt terület – beleértve mindenfajta a területhez tartozó épületet, berendezést és felszerelést – a földön, vagy a vízen, illetve rögzített, parthoz rögzített vagy úszó építmény felületén, amelyet részben vagy teljes egészében légijárművek leszállásához, felszállásához és földi mozgásához használnak;
 
 20. üzemben tartó: légijármű, illetőleg légiközlekedéssel kapcsolatos eszköz vagy repülőtér működését szervező, fenntartó felelős természetes vagy jogi személy;
 
 21. vállalati célú légiközlekedés: gazdálkodó szervezet tulajdonát képező, általa bérelt, lízingelt légijármű nem közvetlenül gazdasági célból folytatott légiközlekedési tevékenysége.
 
-22. repülőtéri munkaterület: légijárművek fel- és leszállására, gurulására kialakított terület, az előterek kivételével.
+22. repülőtéri munkaterület: a 139/2014/EU bizottsági rendelet 1. melléklet 28. pontja szerinti fogalom;
 
 23. földi kiszolgálás: a repülőtéren a repülőtér-használóknak nyújtott, külön jogszabályban meghatározott tevékenység;
 
@@ -120,7 +120,7 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő;
 
-41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló nem nyilvános repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
+41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló közforgalom számára nyitva nem álló repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
 
 42. pilóta nélküli állami légijármű: honvédelmi, vám, rendvédelmi vagy rendvédelmi feladatot ellátó szervek céljára szolgáló, a honvédelemért felelős miniszter rendeletében meghatározott nyilvántartásba felvett légijármű, továbbá a pilóta nélküli állami légijárművek repüléséről szóló kormányrendeletben meghatározott üzembentartó által üzemben tartott pilóta nélküli légijármű;
 
@@ -153,3 +153,25 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 56. szabadidős célú UAS-művelet: pilóta nélküli légijármű kedvtelési célú, gazdasági célú használattal össze nem függő, és nem állami szerv feladatának végrehajtása érdekében végzett használata.
 
 57. légiközlekedés védelmében közreműködő szervezet: a 300/2008/EK európai parlamenti és tanácsi rendelet 3. cikk 3–6. pontjában felsorolt olyan vállalkozás vagy jogalany, amely a védelmi háttérellenőrzésre kötelezett személyt foglalkoztatja, illetve repülőtér esetében az állandó belépési engedélyt kibocsátja.
+
+58. kereskedelmi repülőtér: határátkelővel rendelkező, nem menetrend szerinti rendszeres utas, poggyász, áru és posta továbbítását végző légi forgalom céljaira létesített közforgalom számára nyitva álló repülőtér;
+
+59. üzleti célú repülőtér: határátkelővel rendelkező, nem menetrend szerinti nemzetközi forgalmat bonyolító közforgalom számára nyitva álló olyan repülőtér, amely nem tartozik a 2018/1139 EU európai parlamenti és tanácsi rendelet hatálya alá;
+
+60. polgári célú speciális repülőtér: olyan közforgalom számára nyitva nem álló repülőtér, amely elsődlegesen szabadidős célú repülésre szolgál;
+
+61. feltöltőhely: elsősorban az egészségügyi mentőrepülés légijárművei, és az üzemben tartási engedélyben meghatározott más légijárművek tüzelőanyaggal történő feltöltése céljából létesített közforgalom számára nyitva nem álló repülőtér;
+
+62. mentőhelikopter leszállóhely: kizárólag egészségügyi mentőrepülés céljából létesített, közforgalom számára nyitva nem álló repülőtér;
+
+63. rendezvények céljából létesített leszállóhely: országos vagy helyi jelentőségű rendezvényen részt vevő polgári légijárművek le- és felszállására meghatározott ideig szolgáló kijelölt terület;
+
+64. mezőgazdasági vagy munkavégzési célú leszállóhely: feltöltőhely kivételével polgári légijárművel folytatott munkavégzés céljára szolgáló, le- és felszállásra meghatározott ideig szolgáló kijelölt terület;
+
+65. vízfelszínen létesített leszállóhely: úszótalpas vagy úszótestes polgári légijárművek vízfelszínen történő le- és felszállására meghatározott ideig szolgáló a hajózási hatóság által engedélyezett vízterület;
+
+66. általános légiforgalom: a 2018/1139 EU európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott forgalom;
+
+67. szabadidős célú repülés: sport, vagy rekreációs céllal végzett, nem gazdasági célú repülés;
+
+68. sétarepülés: olyan gazdasági célú, légijárművel végzett személyszállítás, amikor a fel- és a leszállás ugyanazon a helyen történik.
