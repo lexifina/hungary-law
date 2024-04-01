@@ -19,11 +19,3 @@ g) a megújuló energiaforrásokból előállított energia használatának elő
 (2) Ez a törvény a földgázszállító-hálózatokhoz való hozzáférés feltételeiről és az 1775/2003/EK rendelet hatályon kívül helyezéséről szóló 2009. július 13-i 715/2009/EK európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 (3) Ez a törvény a földgázellátás biztonságának megőrzését szolgáló intézkedésekről és a 994/2010/EU rendelet hatályon kívül helyezéséről szóló, 2017. október 25-i (EU) 2017/1938 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(4) Ez a törvény a nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló, 2011. október 25-i 1227/2011/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(5) Ez a törvény a tagállamok és harmadik országok által kötött kormányközi energiaügyi megállapodásokra és nem kötelező erejű jogi eszközökre vonatkozó információcsere-mechanizmus létrehozásáról és a 994/2012/EU határozat hatályon kívül helyezéséről szóló, 2017. április 5-i 2017/684/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(6) Ez a törvény a földgázszállító rendszerekben alkalmazott kapacitásallokációs mechanizmusokat szabályozó üzemi és kereskedelmi szabályzat létrehozásáról és a 984/2013/EU rendelet hatályon kívül helyezéséről szóló, 2017. március 16-i 2017/459/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
-
-(7) Ez a törvény a gázszállításirendszer-üzemeltetők közötti rendszeregyensúlyozásra vonatkozó üzemi és kereskedelmi szabályzat létrehozásáról szóló, 2014. március 26-i 312/2014/EU bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.

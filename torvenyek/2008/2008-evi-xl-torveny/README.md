@@ -98,3 +98,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2023-01-01 | 2022. évi LXX. törvény | 2008-40-00-00.96 |
 | 2023-09-01 | 2023. évi LVI. törvény | 2008-40-00-00.98 |
 | 2024-01-01 | 2023. évi XCIX. törvény | 2008-40-00-00.99 |
+| 2024-04-01 | 2023. évi XCIX. törvény | 2008-40-00-00.100 |
