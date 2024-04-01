@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-53-00-00
 | 2022-07-01 | 2021. évi XLIII. törvény | 2017-53-00-00.21 |
 | 2024-01-01 | 2023. évi CXI. törvény | 2017-53-00-00.22 |
 | 2024-01-07 | 2023. évi CXI. törvény | 2017-53-00-00.23 |
+| 2024-04-01 | 2023. évi CXI. törvény | 2017-53-00-00.24 |
