@@ -1,7 +1,3 @@
-3. melléklet a 65/2023. (XII. 15.) MNB rendelethez
+3. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^22]
 
-1. A Rendelet 5. melléklete a következő 1a. ponttal egészül ki:
-
-„1a. A fizetési kérelem szolgáltatás nyújtásakor a kedvezményezett pénzforgalmi szolgáltatója egyértelműen jelöli a fizetési kérelem kezdeményezésének lehetőségét.”
-
-2. A Rendelet 5. melléklet 2. pontjában a „logójának” szövegrész helyébe a „logójának, valamint az 1a. pont szerinti követelménynek” szöveg lép.
+[^22]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

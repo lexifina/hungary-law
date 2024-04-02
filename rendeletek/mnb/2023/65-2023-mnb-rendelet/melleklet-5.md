@@ -1,3 +1,3 @@
-5. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^21]
+5. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^24]
 
-[^21]: Az 5. melléklet a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^24]: Az 5. melléklet a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.

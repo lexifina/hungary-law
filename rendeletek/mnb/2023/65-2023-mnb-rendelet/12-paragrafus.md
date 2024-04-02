@@ -1,11 +1,12 @@
-12. § (1)[^11]
+12. § (1)[^12]
 
-(2) A Rendelet 5. melléklete a 3. melléklet szerint módosul.
+(2)[^13]
 
-(3)[^12]
+(3)[^14]
 
-(4)[^13]
+(4)[^15]
 
-[^11]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 12. § (3) bekezdése a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
-[^13]: A 12. § (4) bekezdése a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^12]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § (3) bekezdése a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^15]: A 12. § (4) bekezdése a 14. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
