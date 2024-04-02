@@ -1,9 +1,5 @@
 ## 2. A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet módosítása
 
-2. § A veszélyhelyzet idején a villamos energia és földgáz egyetemes szolgáltatás változatlan feltételek szerinti nyújtását biztosító rezsivédelmi szolgáltatásról szóló 289/2022. (VIII. 5.) Korm. rendelet
+2. §[^3]
 
-a) 5/C. § (2) bekezdésében a „2024” szövegrész helyébe a „2025” szöveg,
-
-b) 5/D. § (2) bekezdésében a „négy” szövegrész helyébe a „több” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
