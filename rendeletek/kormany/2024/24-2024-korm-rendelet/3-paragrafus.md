@@ -1,1 +1,3 @@
-3. § A 320/2014. Korm. rendelet 14. § (1) bekezdés b) pontjában a „rákkeltő anyagok” szövegrész helyébe a „rákkeltő, mutagén vagy reprodukciót károsító anyagok” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
