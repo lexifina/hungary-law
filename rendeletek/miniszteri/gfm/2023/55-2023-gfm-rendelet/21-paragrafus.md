@@ -1,1 +1,3 @@
-21. § Hatályát veszti a foglalkozási eredetű rákkeltő anyagok elleni védekezésről és az általuk okozott egészségkárosodások megelőzéséről szóló 26/2000. (IX. 30.) EüM rendelet.
+21. §[^1]
+
+[^1]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
