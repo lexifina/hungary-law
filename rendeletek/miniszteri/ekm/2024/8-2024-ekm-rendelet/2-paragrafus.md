@@ -1,1 +1,3 @@
-2. § Az Útdíjrendelet 1. § (5) bekezdésében a „(2)–(4a)” szövegrész helyébe a „(2)–(4c)” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
