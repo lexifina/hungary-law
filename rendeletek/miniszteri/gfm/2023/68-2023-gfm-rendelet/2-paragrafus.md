@@ -1,3 +1,3 @@
-2. § Az 5/2020. ITM rendelet 23. §-a a következő l) ponttal egészül ki:
+2. §[^2]
 
-(Ez a rendelet)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
