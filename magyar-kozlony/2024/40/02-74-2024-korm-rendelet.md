@@ -1,0 +1,130 @@
+# A Kormány 74/2024. (IV. 3.) Korm. rendelete
+
+Magyar Közlöny 2024. évi 40. szám, 2024. április 3. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/QrcO963oUEXg5JgUKcyC6601dfc4838b8/dokumentumok/7e95508612d20b094a96cfd5361970a0036b461b/letoltes)
+
+---
+
+A Kormány 74/2024. (IV. 3.) Korm. rendelete
+a Deák Ferenc Ösztöndíjról
+A Kormány a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 110. § (1) bekezdés 21. pontjában kapott felhatalmazás
+alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A Deák Ferenc Ösztöndíj célja és működési rendje
+1. § (1) A Kormány a jogász osztatlan képzésben részt vevő hallgatók részére Deák Ferenc Ösztöndíjat (a továbbiakban:
+ösztöndíj) alapít.
+(2) Az ösztöndíj célja a joghallgatók tanulmányi és szakmai fejlődésének elősegítése és támogatása, a joghallgatók
+anyagi megbecsülése, valamint a közigazgatás személyi állományának utánpótlása.
+(3) Az ösztöndíj adományozásának rendjét és a pályázati eljárást (a továbbiakban együtt: ösztöndíjrendszer)
+az igazságügyért felelős miniszter (a továbbiakban: miniszter) működteti.
+(4) A pályázat szakmai irányítója a miniszter, a pályázat kezelő szerve a miniszter által vezetett minisztérium
+(a továbbiakban: minisztérium).
+(5) Az ösztöndíjrendszer működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni.
+2. §
+Az ösztöndíjrendszer részeként, valamint a jogász osztatlan képzésben részt vevő hallgatók jogi és tudományos
+fórumaként a miniszter Deák Jogászképzési Fórumot működtet.
+3. § (1) A miniszter
+a) nyílt pályázatot hirdet az ösztöndíjra,
+b) kijelöli a kiválasztási bizottság (a továbbiakban: Bizottság) tagjait,
+c) jóváhagyja
+ca) a pályázati felhívást,
+cb) a minisztériumnak az ösztöndíj végrehajtásával kapcsolatos beszámolóját,
+cc) az ösztöndíjra jogosult hallgató (a továbbiakban: ösztöndíjas) által készített szakmai beszámolót,
+cd) a Bizottság működési rendjét,
+ce) az ösztöndíj működési szabályzatát (a továbbiakban: működési szabályzat),
+d) megállapítja
+da) az ösztöndíj havi összegének alsó és felső határát,
+db) az ösztöndíjra jogosultak számát,
+e) dönt
+ea) a benyújtott pályázatokról és
+eb) a pályázat eredményéről.
+(2) A működési szabályzat tartalmazza
+a) a pályázati kiválasztás alapelveit,
+b) az ösztöndíj megállapítási rendszerét,
+c) az ösztöndíj folyósításának a gyakoriságát és formáját,
+d) az ösztöndíjas jogviszonyból eredő jogokat és kötelezettségeket,
+e) az ösztöndíjas jogviszony szünetelésének, megszűnésének és megszüntetésének eljárásrendjét,
+f) a pályázók személyes adatainak kezelésére vonatkozó hozzájáruláshoz szükséges szabályokat.
+
+2. A pályázati eljárás
+4. § (1) A pályázati felhívást a minisztérium honlapján közzé kell tenni.
+(2) A pályázati felhívás tartalmazza
+a) a hallgatói pályázati feltételeket,
+b) a pályázat benyújtásának határidejét és rendjét,
+c) a pályázati dokumentáció kötelező tartalmi elemeit,
+d) az értékelés szempontrendszerét,
+e) a hallgatóknak biztosított ösztöndíj aktuális mértékét és a folyósítás tartamát,
+f) az ösztöndíj kifizetési időpontját és módját,
+g) a pályázattal összefüggő személyes adatok kezelésére vonatkozó hozzájáruló nyilatkozat mintáját,
+h) a hiánypótlás rendjét és
+i) az érvénytelen pályázat jogkövetkezményeit.
+(3) Pályázat benyújtására és az ösztöndíj elnyerésére az jogosult,
+a) aki Magyarországon működő államilag elismert felsőoktatási intézmény osztatlan jogász képzésén
+tanulmányokat folytat,
+b) aki a pályázat benyújtásának időpontjában aktív tanulmányi félévre bejelentkezett,
+c) akinek a tanulmányi átlaga eléri vagy meghaladja a pályázati felhívásban rögzített értéket,
+d) aki a szak elvégzéséhez a kötelező tantárgyakból összegyűjteni szükséges kreditpontok legalább 60%-át
+teljesítette,
+e) aki vállalja, hogy ösztöndíjszerződést köt, továbbá
+f) aki vállalja, hogy a pályázati felhívásban és az ösztöndíjszerződésben meghatározott beszámolót készít.
+(4) A pályázat benyújtásakor a pályázónak csatolnia kell a (2) bekezdés g) pontja szerinti nyilatkozatminta kitöltésével
+a nyilatkozatát arra vonatkozóan, hogy hozzájárul a személyes adatainak a pályázati eljárás során és az ösztöndíjas
+jogviszony időtartama alatt, azzal összefüggésben történő kezeléséhez.
+3. A Bizottság működése
+5. § (1) A Bizottság a működésének szabályait a miniszter által jóváhagyott működési rendben maga állapítja meg.
+(2) A benyújtott pályázatokat a Bizottság pontozással értékeli.
+(3) A pályázati feltételeknek megfelelő kiválasztási eljárást a Bizottság folytatja le, amely alapján rangsorolja az értékelt
+pályázatokat.
+(4) A pályázati feltételeknek megfelelő pályázókat a Bizottság szóbeli elbeszélgetés során meghallgatja, és ennek
+eredménye alapján javaslatot tesz a miniszternek az ösztöndíjak odaítélésére vonatkozóan. Az ösztöndíjat
+a pályázati feltételek és az értékelési szempontok alapján, a Bizottság javaslatának figyelembevételével a miniszter
+ítéli oda.
+(5) A miniszter döntéséről a pályázót a Bizottság írásban értesíti, egyben tájékoztatást ad az ösztöndíjszerződés
+megkötéséről.
+(6) A pályázat elbírálásában nem vehet részt
+a) a pályázó Polgári Törvénykönyvről szóló törvény szerinti hozzátartozója, valamint
+b) olyan személy, akitől a pályázat elfogulatlan megítélése egyéb okból nem várható el.
+(7) A Bizottság tagja a (6) bekezdésben meghatározott összeférhetetlenség fennállását az arról történő
+tudomásszerzést követően haladéktalanul bejelenti a miniszternek. Ha az összeférhetetlenség fennállását
+a Bizottság tagja bejelentette, vagy a tag az összeférhetetlenség fennállására figyelemmel egyébként kizárásra
+került, a miniszter haladéktalanul új tagot jelöl ki a Bizottságba.
+(8) Az ösztöndíjjal kapcsolatos koordinációs, kapcsolattartási, információs feladatokat a Bizottság látja el, ennek során
+a) a miniszter iránymutatása alapján kidolgozza a pályázati felhívást, valamint a működési szabályzatot,
+b) lefolytatja a pályázati eljárást,
+c) gondoskodik az ösztöndíj részét képező egyéb programok megszervezéséről és lebonyolításáról, valamint
+d) minősíti az ösztöndíjasok beszámolóit, és felterjeszti azokat a miniszter részére.
+
+4. Az ösztöndíjas jogviszony létrejötte
+6. § (1) Az ösztöndíjas jogviszony a minisztérium és az ösztöndíjas között ösztöndíjszerződés megkötésével jön létre.
+(2) Az ösztöndíjjal kapcsolatos jogokat és kötelezettségeket az ösztöndíjszerződés határozza meg.
+(3) Az ösztöndíjszerződésnek tartalmaznia kell
+a) az ösztöndíj havi összegét és kifizetési időpontját, módját és tartamát,
+b) az ösztöndíjas személyes adatainak a minisztérium által történő kezeléséhez való hozzájárulást,
+c) az ösztöndíjasnak a minisztérium számára adott engedélyét az általa az ösztöndíjas jogviszony keretében
+benyújtott szakmai beszámoló felhasználására, továbbá
+d) az ösztöndíjas jogait és kötelezettségeit.
+5. Az ösztöndíjas jogviszony szünetelése, megszűnése és megszüntetése
+7. §
+Az ösztöndíjas köteles az ösztöndíjas jogviszony fennállása alatt hallgatói jogviszonyát fenntartani.
+8. § (1) Az ösztöndíjas jogviszony szünetel, ha az ösztöndíjas
+a) az ösztöndíjas jogviszony szempontjából releváns tanulmányait szünetelteti,
+b) neki fel nem róható okból az ösztöndíjas jogviszony szempontjából releváns tanulmányainak folytatására
+képtelenné válik.
+(2) A minisztert az ösztöndíjas jogviszony szüneteléséről haladéktalanul, írásban értesíteni kell.
+(3) A szünetelés időtartama alatt az ösztöndíjast ösztöndíj nem illeti meg.
+(4) Az ösztöndíj folyósításának szüneteléséről az ösztöndíjast írásban értesíteni kell.
+9. §
+Az ösztöndíjszerződés és ezzel az ösztöndíjas jogviszony megszűnik
+a) az ösztöndíjas hallgatói jogviszonyának megszűnésével, valamint
+b) ha az ösztöndíjas jogviszony szünetelésének időtartama a két tanulmányi félévet meghaladja.
+10. § (1) A miniszter az ösztöndíjszerződést azonnali hatállyal felmondja, és egyúttal az ösztöndíj folyósítását azonnali
+hatállyal egyoldalúan megszünteti, ha az ösztöndíjas
+a) a pályázati felhívásban foglalt kötelezettségét nem teljesítette,
+b) az ösztöndíjszerződésben vállalt tanulmányi kötelezettségét neki felróható okból nem teljesítette.
+(2) Az ösztöndíj folyósításának megszüntetéséről az ösztöndíjast írásban értesíteni kell.
+(3) Az (1) bekezdés a) és b) pontja szerinti esetben az ösztöndíjast az államháztartásról szóló törvény végrehajtásáról
+szóló kormányrendelet szerint visszafizetési kötelezettség terheli. Az ösztöndíjas köteles a részére folyósított
+ösztöndíj teljes összegét a minisztérium részére kilencven napon belül visszafizetni.
+6. Záró rendelkezések
+11. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
