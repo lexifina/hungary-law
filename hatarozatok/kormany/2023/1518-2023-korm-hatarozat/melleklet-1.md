@@ -4,7 +4,7 @@
 
 ## b) a sportlétesítmény-beruházás műszaki átadás-átvételének lebonyolítását követően, a munkaterületnek a kivitelező által az építtető részére történő visszaadását követő nappal a 2. melléklet szerinti, a magyar állam tulajdonában álló ingatlanokat, ingatlan tulajdoni hányadokat,
 
-## c) a magyar állam által történő tulajdonszerzést követő nappal a 3. melléklet szerinti ingatlanokat, ingatlan tulajdoni hányadokat vagy az ezekből telekalakítási eljárás során létrejövő ingatlanokat;
+## c)[^1] a magyar állam által történő tulajdonszerzés napjával a 3. melléklet szerinti ingatlanokat, ingatlan tulajdoni hányadokat vagy az ezekből telekalakítási eljárás során létrejövő ingatlanokat;
 
 ## 2. felhívja a gazdaságfejlesztési minisztert és a honvédelmi minisztert, hogy gondoskodjanak a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság és a Nemzeti Sportinfrastruktúra Ügynökség (a továbbiakban: Ügynökség) útján az 1. pont a) és c) alpontja szerinti sportingatlanoknak az Ügynökség tulajdonosi joggyakorlása alá kerüléséhez kapcsolódó szükséges intézkedések megtételéről;
 
@@ -35,3 +35,5 @@
 | Határidő: | a felmerülés ütemében |
 
 1. melléklet az 1518/2023. (XI. 29.) Korm. határozathoz
+
+[^1]: Az 1. pont c) alpontja az 1089/2024. (IV. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
