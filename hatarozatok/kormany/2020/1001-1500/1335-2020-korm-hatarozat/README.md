@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1335-30
 | 2022-03-09 | 2020-1335-30-22.3 | 1133/2022. (III. 8.) Korm. határozat |
 | 2023-06-05 | 2020-1335-30-22.5 | 1133/2022. (III. 8.) Korm. határozat |
 | 2024-01-01 | 2020-1335-30-22.4 | 2011: CXCV. törvény |
+| 2024-04-03 | 2020-1335-30-22.6 | 1087/2024. (IV. 3.) Korm. határozat |
