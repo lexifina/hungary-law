@@ -120,7 +120,7 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 
 | 16. | 1256/2023. (VI. 28.) Korm. határozat | 0 | 0 | 518 532 346 | 0 | 0 | 0 | 0 | 0 | 518 532 346 |
 
-| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 14 233 679 741 | 24 193 553 628 | 37 458 739 549 | 32 412 582 577 | 0 | 0 | 108 298 555 495 |
+| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 14 233 679 741 | 22 731 146 082 | 37 458 739 549 | 32 412 582 577 | 0 | 0 | 106 836 147 949 |
 
 | 18. | 1592/2018. (XI. 22.) Korm. határozat | 0 | 0 | 10 975 559 784 | 0 | 315 000 000 | 6 017 000 000 | 6 795 290 516 | 0 | 24 102 850 300 |
 
@@ -154,4 +154,4 @@ A kötelezettségvállalás mértéke a Térségi fejlesztési feladatok előir�
 [^24]: A 4. pont g) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
 [^25]: A 4. pont h) alpontját az 1302/2023. (VII. 19.) Korm. határozat 5. pontja iktatta be.
 [^26]: Az 5. pontot az 1302/2022. (VI. 22.) Korm. határozat 25. pontja iktatta be, az 1302/2023. (VII. 19.) Korm. határozat 8. pontja visszavonta.
-[^27]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja, az 1604/2023. (XII. 22.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^27]: Az 1. melléklet az 1052/2023. (II. 23.) Korm. határozat 5. pontjával megállapított, az 1065/2023. (III. 8.) Korm. határozat 2. pontja, az 1068/2023. (III. 8.) Korm. határozat 3. pontja, az 1119/2023. (III. 31.) Korm. határozat 4. pontja, az 1257/2023. (VI. 28.) Korm. határozat 4. pontja, az 1256/2023. (VI. 28.) Korm. határozat 4. pontja, az 1289/2023. (VII. 17.) Korm. határozat 6. pontja, az 1302/2023. (VII. 19.) Korm. határozat 6. pontja, az 1595/2023. (XII. 21.) Korm. határozat 6. pontja, az 1604/2023. (XII. 22.) Korm. határozat 5. pontja, az 1090/2024. (IV. 3.) Korm. határozat 1. pontja szerint módosított szöveg.
