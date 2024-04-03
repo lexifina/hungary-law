@@ -48,13 +48,13 @@
 
 ## k) [^5]
 
-## l) [^6] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az a) alpontban foglalt feladatok elvégzése érdekében a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére legfeljebb 5 341 938 680 forint kötelezettséget vállaljon;
+## l) [^6] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az a) alpontban foglalt feladatok elvégzése érdekében a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére legfeljebb 5 341 938 680 forint kötelezettséget vállaljon;
 
 ## m) [^7]
 
 ## n) [^8] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva, a d) alpontban foglalt feladat 2024. évi finanszírozása érdekében a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére vállalható éven túli kötelezettség felső korlátját 5 341 938 680 forint összegben állapítja meg;
 
-## o) [^9]
+## o) [^9] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont a) alpontjában meghatározott feladat megvalósítása érdekében a 2024. évben a szabad előirányzatot meghaladóan, legfeljebb 2 410 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére;
 
 ## p) [^10] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter kezdeményezésére az a) alpontban meghatározott feladat megvalósítása érdekében gondoskodjon a 2024. évben egyszeri jelleggel 2 410 000 000 forint rendelkezésre állásáról a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím javára;
 
@@ -83,10 +83,10 @@
 [^3]: Az 1. pont e) alpontját az 1067/2024. (III. 21.) Korm. határozat 6. pontja visszavonta.
 [^4]: Az 1. pont g) alpontja az 1351/2023. (VII. 31.) Korm. határozat 2. pontjával megállapított szöveg.
 [^5]: Az 1. pont k) alpontját az 1496/2023. (XI. 15.) Korm. határozat 5. pontja visszavonta.
-[^6]: Az 1. pont l) alpontja az 1496/2023. (XI. 15.) Korm. határozat 3. pontjával megállapított, az 1067/2024. (III. 21.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^6]: Az 1. pont l) alpontja az 1496/2023. (XI. 15.) Korm. határozat 3. pontjával megállapított, az 1067/2024. (III. 21.) Korm. határozat 5. pontja, az 1085/2024. (IV. 3.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^7]: Az 1. pont m) alpontját az 1496/2023. (XI. 15.) Korm. határozat 5. pontja visszavonta.
 [^8]: Az 1. pont n) alpontját az 1351/2023. (VII. 31.) Korm. határozat 4. pontja iktatta be, szövege az 1496/2023. (XI. 15.) Korm. határozat 4. pontjával megállapított szöveg.
-[^9]: Az 1. pont o) alpontját az 1351/2023. (VII. 31.) Korm. határozat 4. pontja iktatta be, az 1496/2023. (XI. 15.) Korm. határozat 5. pontja visszavonta. [Az 1067/2024. (III. 21.) Korm. határozat 4. pontjával elrendelt módosítás nem vezethető át.]
+[^9]: Az 1. pont o) alpontját az 1496/2023. (XI. 15.) Korm. határozat 5. pontja visszavonta, újonnan az 1085/2024. (IV. 3.) Korm. határozat 3. pontja iktatta be.
 [^10]: Az 1. pont p) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
 [^11]: Az 1. pont q) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
 [^12]: Az 1. pont r) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
