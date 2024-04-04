@@ -1,6 +1,6 @@
-## 48/C. §[^517] A krónikus obstruktív tüdőbetegség esetfinanszírozási programban (a továbbiakban: CKF program) a Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, a Petz Aladár Egyetemi Oktató Kórház, a Fejér Megyei Szent György Egyetemi Oktató Kórház és az Országos Korányi Pulmonológiai Intézet (a továbbiakban együtt: ellátásszervező koordinátorok) vesz részt. A CKF program szerinti kezeléssorozat szakmai vezetője az Országos Korányi Pulmonológiai Intézet (a továbbiakban: OKPI).
+## 48/C. §[^518] A krónikus obstruktív tüdőbetegség esetfinanszírozási programban (a továbbiakban: CKF program) a Jász-Nagykun-Szolnok Megyei Hetényi Géza Kórház-Rendelőintézet, a Petz Aladár Egyetemi Oktató Kórház, a Fejér Megyei Szent György Egyetemi Oktató Kórház és az Országos Korányi Pulmonológiai Intézet (a továbbiakban együtt: ellátásszervező koordinátorok) vesz részt. A CKF program szerinti kezeléssorozat szakmai vezetője az Országos Korányi Pulmonológiai Intézet (a továbbiakban: OKPI).
 
-48/D. §[^518] (1) A CKF program egy bevonási és egy követési időszakot foglal magában. A bevonási időszak 2021. november 1-től 2022. október 31-ig tart, amely időszak alatt bármikor bevonásra kerülhet a beteg a jelentett esemény függvényében. A követési időszak 2022. november 1-től 2023. október 31-ig tart, mely során a bevont betegek ellátásának monitorozása és szükség szerinti kezelése történik.
+48/D. §[^519] (1) A CKF program egy bevonási és egy követési időszakot foglal magában. A bevonási időszak 2021. november 1-től 2022. október 31-ig tart, amely időszak alatt bármikor bevonásra kerülhet a beteg a jelentett esemény függvényében. A követési időszak 2022. november 1-től 2023. október 31-ig tart, mely során a bevont betegek ellátásának monitorozása és szükség szerinti kezelése történik.
 
 (2) A CKF programban a bevonás időszakában a NEAK a 40. számú melléklet szerinti tüdőgondozókból, pulmonológiai szakrendelésekről és tüdőosztályokról beérkező finanszírozási jelentések alapján kiválogatja a COPD fődiagnózissal (BNO J41–44) jelentett eseteket, és ezeket a betegeket lakóhelyük alapján a területi ellátási kötelezettséggel bíró tüdőgondozóhoz rendeli. A CKF programba valamennyi ily módon kiválogatott beteg bevonásra kerül, egyéb szempontok figyelembevétele nélkül.
 
@@ -20,5 +20,5 @@
 
 (10) A CKF program lezárulta után a beteg záró kontrolljáról és értékeléséről a program szakmai vezetője szakmai összefoglalót küld a finanszírozó számára a követési időszakot követő hónap 30. napjáig.
 
-[^517]: A 48/C. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
-[^518]: A 48/D. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
+[^518]: A 48/C. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
+[^519]: A 48/D. §-t újonnan a 601/2021. (X. 29.) Korm. rendelet 2. §-a iktatta be.
