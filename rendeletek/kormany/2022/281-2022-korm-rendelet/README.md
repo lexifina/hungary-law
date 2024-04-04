@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-281-20-
 | 2022-11-01 | 2022-281-20-22.4 | 2022. évi VI. törvény |
 | 2022-11-08 | 2022-281-20-22.5 | 443/2022. (XI. 7.) Korm. rendelet |
 | 2022-12-29 | 2022-281-20-22.6 | 584/2022. (XII. 28.) Korm. rendelet |
+| 2024-04-04 | 2022-281-20-22.7 | 76/2024. (IV. 3.) Korm. rendelet |

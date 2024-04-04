@@ -1,4 +1,4 @@
-6. § (1)[^6] A tárgyhónap végéig, de legkésőbb 2022. október 31-ig beérkező nyilatkozatok tekintetében az ESZ-rendelet 3. §-a, illetve az ESZ-rendelet 8. §-a rendelkezéseit a következő eltérésekkel kell alkalmazni:
+6. § (1)[^7] A tárgyhónap végéig, de legkésőbb 2022. október 31-ig beérkező nyilatkozatok tekintetében az ESZ-rendelet 3. §-a, illetve az ESZ-rendelet 8. §-a rendelkezéseit a következő eltérésekkel kell alkalmazni:
 
 a) a végső menedékes ellátás biztosításának feltétele, hogy a felhasználó a tárgyhónapot követő hónap utolsó napján a villamos energiát, illetve a földgázt egyetemes szolgáltatótól vásárolja;
 
@@ -24,4 +24,4 @@ fb) elosztóhálózat-használati szerződését, akkor a tárgyhónapot követ�
 
 (2) A 2022. december 1-jével végső menedékes ellátásba kerülő felhasználó az ESZ-rendelet 4. § (1) bekezdése, illetve az ESZ-rendelet 9. § (1) bekezdése szerinti tájékoztatást az egyetemes szolgáltatónak adja meg, amely haladéktalanul értesíti erről a végső villamosenergia-menedékest, illetve a végső földgázmenedékest.
 
-[^6]: A 6. § (1) bekezdés nyitó szövegrésze a 443/2022. (XI. 7.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés nyitó szövegrésze a 443/2022. (XI. 7.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
