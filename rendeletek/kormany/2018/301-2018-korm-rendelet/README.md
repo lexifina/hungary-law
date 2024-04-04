@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-301-20-
 | 2023-09-01 | 2018-301-20-22.19 | 419/2023. (VIII. 31.) Korm. rendelet |
 | 2023-12-28 | 2018-301-20-22.21 | 644/2023. (XII. 28.) Korm. rendelet |
 | 2024-01-01 | 2018-301-20-22.20 | 419/2023. (VIII. 31.) Korm. rendelet |
+| 2024-04-04 | 2018-301-20-22.22 | 75/2024. (IV. 3.) Korm. rendelet |
