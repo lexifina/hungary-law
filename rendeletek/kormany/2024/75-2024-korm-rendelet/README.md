@@ -1,0 +1,9 @@
+# 75/2024. (IV. 3.) Korm. rendelet
+
+a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet és a Nemzeti Adó- és Vámhivatal személyi állományát érintő egyes személyügyi kérdésekről szóló 672/2020. (XII. 28.) Korm. rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-75-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-04-04 | 2024-75-20-22.1 | 75/2024. (IV. 3.) Korm. rendelet |
