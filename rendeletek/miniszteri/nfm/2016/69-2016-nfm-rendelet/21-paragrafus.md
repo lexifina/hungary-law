@@ -6,9 +6,9 @@
 
 (3) Az egyetemes szolgáltató köteles lehetővé tenni, hogy a földgázellátásba bekapcsolt település önkormányzata, valamint a fogyasztóvédelmi társadalmi szervezetek az (1)–(2) bekezdés szerinti méréseket és számításokat ellenőrizhessék vagy ellenőriztethessék.
 
-(4)[^12]
+(4)[^14]
 
-(5)[^13] Ha a felhasználó a szolgáltatott földgáz ellenértékét előre fizeti meg, akkor átlagos fűtőértéknek a felhasználási helyre vonatkozóan a vásárlás napját megelőző hat naptári hónap tényleges fűtőértékének kéttized MJ/ m3 értékre kerekített számtani átlagát kell tekinteni, és a gázdíjat
+(5)[^15] Ha a felhasználó a szolgáltatott földgáz ellenértékét előre fizeti meg, akkor átlagos fűtőértéknek a felhasználási helyre vonatkozóan a vásárlás napját megelőző hat naptári hónap tényleges fűtőértékének kéttized MJ/ m3 értékre kerekített számtani átlagát kell tekinteni, és a gázdíjat
 
 a) az így számított átlagos fűtőértéknek,
 
@@ -20,5 +20,5 @@ a szorzataként kell meghatározni. Az alapdíj fizetése a következő vásárl
 
 (6) Az egyetemes szolgáltató által alkalmazandó díjak változása esetén az egyetemes szolgáltató köteles az új díjak hatálybalépését követő időszakra előzetesen kibocsátott számlákat a díjak hatálybalépését követő 30 napon belül helyesbíteni az új díjak alkalmazásával.
 
-[^12]: A 21. § (4) bekezdését a 36/2023. (XII. 29.) EM rendelet 1. §-a hatályon kívül helyezte.
-[^13]: A 21. § (5) bekezdés záró szövegrésze a 8/2018. (III. 28.) NFM rendelet 9. §-a szerint módosított szöveg.
+[^14]: A 21. § (4) bekezdését a 36/2023. (XII. 29.) EM rendelet 1. §-a hatályon kívül helyezte.
+[^15]: A 21. § (5) bekezdés záró szövegrésze a 8/2018. (III. 28.) NFM rendelet 9. §-a szerint módosított szöveg.

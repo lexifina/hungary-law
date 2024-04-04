@@ -1,9 +1,9 @@
-11. § (1) Az egyetemes szolgáltató az elszámolási időszakon belül azonos mennyiségről kiállított részszámlák esetében a napok vagy a számlázási hónapok számának arányában (az üzletszabályzatnak megfelelően), egyéb számlákban a fogyasztási jelleggörbe alkalmazásával érvényesíti az I., illetve II. árkategória szerinti díjszabásokat.
+11. §[^11] (1) Az egyetemes szolgáltató – a (2) bekezdésben foglalt kivétellel – a fogyasztási jelleggörbe alkalmazásával érvényesíti az I., illetve a II. árkategória szerinti díjszabásokat.
 
-(2)[^10] A 3. § (1) bekezdés a) és b) pontja szerinti felhasználók számára, az adott felhasználási helyre, és az adott naptári évre I. árkategória szerint elszámolt mennyiség csak akkor lehet kevesebb – a 10. § (3) bekezdése szerint – az I. árkategóriában maximálisan vételezhető éves mennyiségnél, ha a felhasználó adott felhasználási helyre és adott naptári évre elszámolt teljes fogyasztása is kevesebb annál. A 10. § (4) bekezdése szerinti esetekben a töredék naptári évre elszámolt mennyiség esetében a jelleggörbe szerint arra az időszakra jutó maximálisan vételezhető mennyiség az irányadó.
+(2) Azonos földgázmennyiségről kiállított részszámlák esetében az I. árkategória szerinti díjszabásokat naparányosan kell érvényesíteni úgy, hogy az I. árkategória szerint az adott számlázási időszakra maximálisan érvényesíthető mennyiséget az I. árkategória szerint a naptári évre maximálisan kiosztható mennyiség arányosításával kell meghatározni, függetlenül az elszámoló számlában az I. árkategória szerint már elszámolt földgázmennyiségtől.
 
-(3) Az egyetemes szolgáltató a naptári év záró napját és a következő naptári év kezdőnapját magában foglaló fogyasztási időszakra vonatkozó számlában a két naptári év között a fogyasztási jelleggörbe alkalmazásával osztja meg a számlázott mennyiséget.
+(3) A 3. § (1) bekezdés a) és b) pontja szerinti felhasználók számára, az adott felhasználási helyre és az adott naptári évre az I. árkategória szerint elszámolt mennyiség csak akkor lehet kevesebb – a 10. § (3)–(5) bekezdése szerint – az I. árkategóriában maximálisan vételezhető éves mennyiségnél, ha a felhasználó adott felhasználási helyre és adott naptári évre elszámolt teljes fogyasztása is kevesebb annál.
 
-(4) Az egyetemes szolgáltató a 30 napot nem meghaladó időszakra vonatkozó számla kiállítása során az (1)–(3) bekezdés mellett lineáris megosztást is alkalmazhat.
+(4) Az egyetemes szolgáltató a naptári év zárónapját és a következő naptári év kezdőnapját magában foglaló időszakra vonatkozó számlában a két naptári év között az (1) vagy a (2) bekezdésben foglaltakra figyelemmel osztja meg a számlázott mennyiséget.
 
-[^10]: A 11. § (2) bekezdése az 52/2017. (XII. 22.) NFM rendelet 39. § c) pontja szerint módosított szöveg.
+[^11]: A 11. § az 5/2024. (IV. 3.) EM rendelet 2. §-ával megállapított szöveg.
