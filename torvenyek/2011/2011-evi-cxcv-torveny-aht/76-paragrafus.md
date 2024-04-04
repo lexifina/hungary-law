@@ -1,6 +1,6 @@
 76. § (1) A kincstár
 
-a) közreműködik a Kincstári Egységes Számla likviditásának kezelésében az ÁKK Zrt.-vel kötött megállapodás alapján, és
+a) közreműködik a kincstári egységes számlák likviditásának kezelésében az ÁKK Zrt.-vel kötött megállapodás alapján, és
 
 b) előrejelzi a 79. § alapján vezetett számlák kiadásai és bevételei összesített egyenlegének alakulását, amelyhez az adósságkezeléssel összefüggő napi adatokat az ÁKK Zrt. bocsátja rendelkezésre.
 
