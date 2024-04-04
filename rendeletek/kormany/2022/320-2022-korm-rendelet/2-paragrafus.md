@@ -1,22 +1,17 @@
 ## 2. A harmadik országbeli állampolgárok foglalkoztatásával összefüggő szabályok
 
-2. § (1)[^3] Az R1. 72/H. § (2) és (3) bekezdése szerinti kormányhivatal az R1. 72/H. § (3a) bekezdésében foglaltakon túl nem működik közre szakhatóságként az összevont kérelmezési eljárásban abban az esetben sem, ha a harmadik országbeli állampolgár
+2. §[^4] (1) A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelem benyújtásakor a Btátv. 24. § (1) bekezdés b) pontjától eltérően a megállapodást meglévőnek kell tekinteni.
 
-a) a Paks II. beruházással összefüggésben a 2015. évi VII. törvény alapján meghatározott fővállalkozó vagy annak a 2015. évi VII. törvény szerinti alvállalkozója,
+(2) A Magyarország területén tartózkodó, érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár a Btátv. 25. § (1) bekezdésétől eltérően – ha az előzetes csoportos munkavállalási jóváhagyás a 3. § (2) bekezdés d) pontja szerint meghosszabbításra kerül – beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet nyújthat be, ha eleget tesz a Btátv.-ben és az e rendeletben foglalt feltételeknek. A beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély érvényességére a Btátv. 25. § (1) és (2) bekezdésében foglaltak az irányadóak, azzal, hogy az legfeljebb öt év tartózkodási időre jogosít Magyarország területén.
 
-b) a Budapest–Belgrád beruházással összefüggésben a 2020. évi XXIX. törvény alapján meghatározott fővállalkozó vagy annak a 2020. évi XXIX. törvény szerinti alvállalkozója
+(3) A Magyarország területén tartózkodó harmadik országbeli állampolgár beruházás megvalósítása céljából kiállított tartózkodási engedély iránti kérelme abban az esetben engedélyezhető, ha eleget tesz a Btátv. 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek, és a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet az érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedélye birtokában – amivel a Btátv. által engedett tartózkodási idő lejárna –, a tartózkodási engedély érvényességi idejének lejártát megelőzően legfeljebb negyven nappal nyújtja be.
 
-által kerül foglalkoztatásra, ideértve – a beruházásokkal összefüggésben – az R1. szerinti munkaerő-kölcsönzés útján történő foglalkoztatást is.
+(4) A beruházás esetén az összevont kérelmezési eljárásban a fővárosi és vármegyei kormányhivatal, valamint a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter nem működik közre szakhatóságként, ha a harmadik országbeli állampolgár Magyar Kártya, EU Kék Kártya vagy vállalaton belül áthelyezett személy számára szóló tartózkodási engedély kiadását vagy meghosszabbítását kérelmezi.
 
-(2)[^4] Az R1. 72/H. § (10) bekezdésében foglaltakon túl
+(5) A beruházás esetén a Magyar Kártya kiadására és meghosszabbítására irányuló kérelem a foglalkoztató útján is előterjeszthető a Btátv. 168. §-ában foglaltaknak megfelelően.
 
-a) az (1) bekezdés a) pontja szerinti fővállalkozót és alvállalkozót a Paks II. beruházás,
+(6) A beruházás esetén az R1. 15. § (3) bekezdés b) pontja nem alkalmazandó.
 
-b) az (1) bekezdés b) pontja szerinti fővállalkozót és alvállalkozót a Budapest–Belgrád beruházás
+(7) A beruházás esetén a harmadik országbeli állampolgár a Btátv. 71. § (4) bekezdésétől eltérően családi együttélés biztosítása céljából tartózkodási engedélyt kaphat, ha a családegyesítő foglalkoztatója az e rendelet szerinti foglalkoztató.
 
-tekintetében kiemelt foglalkoztatónak kell tekinteni.
-
-(3) A (2) bekezdés alapján kiemelt foglalkoztatónak minősülő foglalkoztatónál történő foglalkoztatáshoz kapcsolódó összevont kérelmezési eljárásban a kérelemhez csatolni kell a foglalkoztató törvényes képviselőjének nyilatkozatát az (1) és (2) bekezdésnek való megfelelésről.
-
-[^3]: A 2. § (1) bekezdése a 182/2023. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (2) bekezdése a 182/2023. (V. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § a 78/2024. (IV. 3.) Korm. rendelet 3. §-ával megállapított szöveg.

@@ -1,11 +1,19 @@
-3. §[^5] (1) Az R2. 15. § (1) bekezdés 26. pontjában foglaltakon túl a harmadik országbeli állampolgár Magyarország területén
+3. §[^5] (1) A beruházás esetén az R2. 15/A. § (1) bekezdése szerinti kérelmet az 1/A. § 2. pontja szerinti fővállalkozó is benyújthatja.
 
-a) a Paks II. beruházással összefüggésben a 2. § (1) bekezdés a) pontja szerinti fővállalkozó és alvállalkozó,
+(2) A beruházás esetén
 
-b) a Budapest–Belgrád beruházással összefüggésben a 2. § (1) bekezdés b) pontja szerinti fővállalkozó és alvállalkozó
+a) az R2. 15/A. § (3) bekezdés a), b) és e) pontja, az R2. 15/A. § (5) bekezdés c) pontja nem alkalmazandó,
 
-által, foglalkoztatásra irányuló jogviszony keretében történő magyarországi foglalkoztatásához nincs szükség engedélyre, ideértve – a beruházásokkal összefüggésben – az R2. szerinti munkaerő-kölcsönzés útján történő foglalkoztatást is.
+b) az R2. 15/A. § (3) bekezdés c) pontját azzal az eltéréssel kell alkalmazni, hogy az 1/A. § 2. pontja szerinti fővállalkozó a foglalkoztatni tervezett létszámról nyilatkozik,
 
-(2) A 2. § (1) bekezdése és az (1) bekezdés szerinti esetben a harmadik országbeli állampolgárnak a tevékenység ellátásához szükséges szakképzettségét, iskolai végzettségét hitelt érdemlő módon kell igazolnia.
+c) az R2. 15/A. § (3) bekezdés d) pontját azzal az eltéréssel kell alkalmazni, hogy az 1/A. § 2. pontja szerinti fővállalkozó nyilatkozik arról, hogy az engedélyezni kért létszámot milyen arányban kívánja megosztani maga és alvállalkozói között,
 
-[^5]: A 3. § a 182/2023. (V. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
+d) az R2. 15/A. § (4) bekezdésében meghatározott hároméves időtartam további legfeljebb öt évvel meghosszabbítható.
+
+(3) A beruházás esetén
+
+a) az R2. 15/B. § (2) bekezdése, az R2. 15/B. § (5) bekezdés f) pontja és az R2. 15/B. § (7) bekezdése nem alkalmazandó,
+
+b) az R2. 15/B. § (5) bekezdés e) pontja azzal az eltéréssel alkalmazandó, hogy a nyilvántartás a beruházás megvalósításában részt vevő alvállalkozók megnevezését, cégjegyzékszámát tartalmazza.
+
+[^5]: A 3. § a 78/2024. (IV. 3.) Korm. rendelet 4. §-ával megállapított szöveg.
