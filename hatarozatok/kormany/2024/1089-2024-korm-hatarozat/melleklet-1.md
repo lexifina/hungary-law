@@ -24,6 +24,8 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 2. Az egyes ingatlanok és ingatlan tulajdoni hányadok sportcélú ingatlanná, valamint sportingatlanná minősítéséről szóló 1518/2023. (XI. 29.) Korm. határozat 1. pont c) alpontjában a „tulajdonszerzést követő nappal” szövegrész helyébe a „tulajdonszerzés napjával” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1089/2024. (IV. 3.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
