@@ -48,7 +48,21 @@
 
 | Határidő: | a 10. pontban meghatározott forrás rendelkezésre állását követően azonnal |
 
-1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^7]
+## 12.[^7] egyetért a szomszédos országokban felmerülő – Magyarország területét közvetlenül érintő – humanitárius katasztrófa kezelése érdekében a záhonyi és beregsurányi határátkelők melletti segítségpontok üzemeltetésének 2024. évi támogatásával;
+
+## 13.[^8] felhívja a pénzügyminisztert, hogy – a miniszterelnök általános helyettese bevonásával – gondoskodjon a 12. pontban meghatározott cél megvalósítása érdekében 120 072 000 forint forrás rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport, 1. Egyházi közfeladatellátáshoz kapcsolódó céltámogatások és karitatív feladatok támogatása jogcím javára;
+
+| Felelős: | pénzügyminiszter a miniszterelnök általános helyettese |
+
+| Határidő: | azonnal |
+
+## 14.[^9] felhívja a miniszterelnök általános helyettesét, hogy a 12. pontban foglalt cél megvalósítása érdekében, a 13. pontban meghatározott forrás terhére segítségpontonként 60 000 000 forint támogatási összegben létesítsen támogatási jogviszonyt.
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a 13. pontban meghatározott forrás rendelkezésre állását követően azonnal |
+
+1. melléklet az 1119/2022. (III. 5.) Korm. határozathoz[^10]
 
 2X01608M_0
 
@@ -130,4 +144,7 @@
 [^4]: A 9. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
 [^5]: A 10. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
 [^6]: A 11. pontot az 1509/2023. (XI. 22.) Korm. határozat szövege iktatta be.
-[^7]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
+[^7]: A 12. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^8]: A 13. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^9]: A 14. pontot az 1093/2024. (IV. 4.) Korm. határozat szövege iktatta be.
+[^10]: Az 1. melléklet az 1121/2022. (III. 7.) Korm. határozat 10. pontja szerint módosított szöveg.
