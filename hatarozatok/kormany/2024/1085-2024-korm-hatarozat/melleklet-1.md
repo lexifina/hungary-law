@@ -12,14 +12,14 @@
 
 | Határidő: | 2024. december 31. |
 
-## 2. A Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciójával kapcsolatos intézkedésekről szóló 1002/2021. (I. 7.) Korm. határozat 1. pont c) alpontjában a „2023. december 31.” szövegrész helyébe a „2025. december 31.” szöveg lép.
+## 2.[^1]
 
-## 3. A makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat 1. pontja a következő o) alponttal egészül ki:
+## 3.[^2]
 
-## (A Kormány)
-
-## „o) az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont a) alpontjában meghatározott feladat megvalósítása érdekében a 2024. évben a szabad előirányzatot meghaladóan, legfeljebb 2 410 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházások cím terhére;”
-
-## 4. A makói ipari park infrastrukturális fejlesztésének előkészítéséhez és egyes elemek ütemezett megvalósításához szükséges intézkedésekről szóló 1256/2023. (VI. 28.) Korm. határozat 1. pont l) alpontjában a „Kvtv2024.” szövegrész helyébe a „Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.)” szöveg lép.
+## 4.[^3]
 
 1. melléklet az 1085/2024. (IV. 3.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
