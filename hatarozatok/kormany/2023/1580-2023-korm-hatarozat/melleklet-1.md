@@ -128,7 +128,7 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 53 | RAMSTEIN FLAG 2024 | MH LEP | légierő/harcászati szintű gyakorlat/LIVEX/AIREX | Görögország | IV. | 70 |  |  |
 
-| 54 | Sampling and Identification of Biological Chemical and Radiological Agents (SIBCRA) gyakorlat | MH SZFP | SIBCRA gyakorlat | Olaszország, Hollandia | I–IV. | 20 |  |  |
+| 54[^2] | Sampling and Identification of Biological, Chemical and Radiological Agents (SIBCRA) gyakorlat | MH SZFP | SIBCRA gyakorlat | Olaszország, Hollandia, Csehország | I–IV. | 20 | – | – |
 
 | 55 | SMART DEFENCE | MH SZFP | CBRN gyakorlat | Lengyelország, Szlovákia, Olaszország, Csehország | I–IV. | 10 |  |  |
 
@@ -153,6 +153,8 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 65 | UNG/VMI | NKE | harcászati szintű gyakorlat | USA, Magyarország | III. | 5 | 5 |  |
 
 | 66 | UNIFIED VISION | KNBSZ | többnemzeti, többszintű, számítógéppel támogatott gyakorlat | NATO- és EU-tagállamok, Magyarország | I. és IV. | 5 | 10 |  |
+
+| 67[^3] | NRF erők kiképzésen és gyakorlaton való részvétele | HVK ÖMVIK | törzsvezetési / harcászati szintű gyakorlat | NATO- és EU-tagállamok | I–IV. | 250 | 1000 | 1000 |
 
 2. A Magyar Honvédség és külföldi fegyveres erők részvételével tervezett, két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések, amelyek külföldi fegyveres erők átvonulásával is járhatnak
 
@@ -242,7 +244,7 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 41 | INTERCEPTOR Air Policing gyakorlat | MH LEP | légierő/harcászati szintű gyakorlat/ LIVEX/AIREX | Magyarország, Románia | I–IV. | 15 | 15 |  |
 
-| 42 | IRON CAT szerb–magyar közös flottilla gyakorlat | MH SZFP | harcászati gyakorlat | Szerbia, Magyarország | III. | 55 | 40 |  |
+| 42[^4] | IRON CAT szerb–magyar közös flottilla gyakorlat | MH SZFP | harcászati gyakorlat | Szerbia, Magyarország | III. | 80 | 40 | – |
 
 | 43 | JOLLY VIHAR magyar–amerikai közös helikopter fedélzetéről negyedévente végrehajtott éleslövészet és CSAR gyakorlat | MH LEP | légierő/harcászati szintű gyakorlat/ LIVEX/AIREX | Magyarország | I–IV. |  | 150 |  |
 
@@ -258,7 +260,7 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 49 | MAGLITE | NKE | többnemzeti logisztikai kiképzés | Nagy-Britannia, Magyarország | II. és IV. | 30 | 30 |  |
 
-| 50 | Magyar–Belga KM/RL közös kiképzés és felkészítés | MH ÖKMP | különleges műveleti kiképzés | NATO- és EU-tagállamok | I–IV. | 50 | 250 |  |
+| 50[^5] | Magyar–Belga KM/RL közös kiképzés és felkészítés | MH ÖKMP | különleges műveleti kiképzés | NATO- és EU- tagállamok | I–IV. | 50 | 850 | – |
 
 | 51 | MH hajózó állomány magashegyi kondicionáló és túlélő kiképzése | MH LEP | túlélő kiképzés | Bulgária | I–II. | 60 |  |  |
 
@@ -266,7 +268,7 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 53 | NATO-GEORGIA (AGILE SPIRIT) | HVK KIKCSF | többnemzeti számítógéppel támogatott parancsnoki és törzsvezetési gyakorlat | Georgia | II–III. | 20 |  |  |
 
-| 54 | NEIGHBOURS | MH SZFP | magyar–szerb–amerikai szakasz szintű cserekiképzés | Szerbia, Magyarország | II. | 50 | 50 |  |
+| 54[^6] | NEIGHBOURS | MH SZFP | magyar–szerb–amerikai szakasz szintű cserekiképzés | Szerbia, Magyarország | II. | 80 | 50 | 50 |
 
 | 55 | Nemzetközi logisztikai törzsfelkészítések és gyakorlatok logisztikai előkészítése | HVK LCSF | logisztikai gyakorlat | Belgium, Hollandia, Törökország, Németország, Lengyelország | I–IV. | 50 | 200 |  |
 
@@ -334,7 +336,7 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 87 | US OHNG Erők Védelme (FP) felkészítés | HVK HDMCSF | harcászati kiképzés | Amerikai Egyesült Államok | II–IV. | 25 |  |  |
 
-| 88 | US Ridge Runner / Northern Strike | MH ÖKMP | SOFEX | Amerikai Egyesült Államok | II–IV. | 30 |  |  |
+| 88[^7] | US Ridge Runner / Northern Strike | MH ÖKMP | SOFEX | Amerikai Egyesült Államok | II–IV. | 80 | – | – |
 
 | 89 | VALIANT LYNX | HQ MND-C | számítógéppel támogatott törzsvezetési gyakorlat | Spanyolország | IV. | 80 |  |  |
 
@@ -347,6 +349,8 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 93 | VIGOROUS WARRIOR / CLEAN CARE 24 | MH EK | NATO egészségügyi/ ABV gyakorlat | Magyarország, NATO- és EU-tagállamok | I–II. | 20 | 2000 |  |
 
 | 94 | WISE FORESIGHT román–magyar békefenntartó zászlóalj gyakorlata | MH SZFP | harcászati gyakorlat | Magyarország és Románia | III–IV. | 300 | 100 |  |
+
+| 95[^8] | FOURLOG 2024 Logisztikai Kiképzés | NKE | a katonai logisztika alapképzésben tanuló honvéd tisztjelöltek által többnemzeti környezetben történő logisztikai feladatok végrehajtásának gyakorlása | Ausztria, Magyarország, Csehország | II. | 16 | 55 | 55 |
 
 3. Külföldi fegyveres erők átvonulásával járó műveletek, gyakorlatok és kiképzések
 
@@ -423,3 +427,10 @@ A 2024. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 8 | HQ MND-C által szervezett magyarországi gyakorlatok | I–IV. | 500 |
 
 [^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat 54. sora az 1083/2024. (IV. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat 67. sorát az 1083/2024. (IV. 3.) Korm. határozat 1. pontja iktatta be.
+[^4]: Az 1. melléklet 2. pontjában foglalt táblázat 42. sora az 1083/2024. (IV. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 2. pontjában foglalt táblázat 50. sora az 1083/2024. (IV. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 2. pontjában foglalt táblázat 54. sora az 1083/2024. (IV. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat 88. sora az 1083/2024. (IV. 3.) Korm. határozat 1. pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat 95. sorát az 1083/2024. (IV. 3.) Korm. határozat 1. pontja iktatta be.
