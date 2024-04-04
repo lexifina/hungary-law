@@ -1,0 +1,7 @@
+## 1. Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet módosítása
+
+1. § Az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet [a továbbiakban: 259/2022. (VII. 21.) Korm. rendelet] 9. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a) bekezdéssel egészül ki:
+
+„(1) A lakossági fogyasztó az e rendelet szerinti kedvezményes mennyiségeket időarányosan jogosult igénybe venni. Ennek érdekében az egyetemes szolgáltató naparányos elszámolást alkalmaz, amelynek alapján a felhasználó számára kiállított számlában a kedvezményes mennyiség 1/365-öd, szökőévben 1/366-od részének és a számlázási időszak napjainak szorzatát érvényesíti, és az e feletti rész számlázása történik lakossági piaci áron vagy versenypiaci költségeket tükröző áron. Egyetemes földgázszolgáltatás esetén – az (1a) bekezdésben foglalt kivétellel – az egyetemes szolgáltató üzletszabályzata szerinti fogyasztási jelleggörbe alapú kedvezménymeghatározást kell alkalmazni.
+
+(1a) Azonos földgázmennyiségről kiállított részszámlák esetében a kedvezményes mennyiséget naparányosan kell érvényesíteni úgy, hogy az adott számlázási időszakra maximálisan érvényesíthető kedvezményes mennyiséget az 5. § (1) bekezdése és a 8. § alapján a kedvezményes évre maximálisan kiosztható kedvezményes mennyiség arányosításával kell meghatározni, függetlenül az elszámoló számlában már elszámolt kedvezményes mennyiségtől.”
