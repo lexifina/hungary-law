@@ -11,7 +11,3 @@
 ## 1. nyilvános, nyílt végű, harmonizációja szerint ÁÉKBV értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására, valamint a letétkezelői szerződés hatálybalépésének jóváhagyására,
 
 ## 2. nyilvános, nyílt végű, harmonizációja szerint ABA értékpapíralap tájékoztatója, hirdetménye, kezelési szabályzata, kiemelt befektetői információja jóváhagyására,
-
-## 3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
-
-## 4. nyilvános, zárt végű értékpapíralap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
