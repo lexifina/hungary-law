@@ -6,7 +6,7 @@
 
 2. átlátható formában nyújtott támogatás: olyan támogatás, amelynél előzetesen, kockázatértékelés nélkül kiszámítható a bruttó támogatástartalom,
 
-3. átutalás igénylési dokumentáció: az igazoló hatóság által kiállított átutalási kérelem, költségnyilatkozat és költségigazoló nyilatkozat,
+3.[^2] átutalás igénylési dokumentáció: az igazoló hatóság által kiállított átutalási kérelem és költségigazoló nyilatkozat,
 
 4. audit hatóság: az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 48. cikke szerinti feladatokat ellátó szervezet,
 
@@ -14,11 +14,13 @@
 
 6. csalás: az Európai Unióról szóló Szerződés K.3. cikke alapján létrejött, az Európai Közösségek pénzügyi érdekeinek védelméről szóló Egyezmény és az azt kiegészítő jegyzőkönyvek, valamint az Európai Unióról szóló Szerződés 35. Cikkének (2) bekezdése alapján megtett nyilatkozat kihirdetéséről szóló 2009. évi CLIX. törvénnyel kihirdetett, az Európai Közösségek pénzügyi érdekeinek védelméről szóló egyezmény 1. cikk (1) bekezdése szerinti, az Európai Közösségek pénzügyi érdekeit sértő csalás, valamint a Büntető Törvénykönyvről szóló 2012. évi C. törvény 396. §-a szerinti költségvetési csalás,
 
-7. dedikált infrastruktúra: olyan infrastruktúra, amely ex-ante módon meghatározhatóan az érintett vállalkozás igényeihez igazítottan jön létre,
+7.[^3] dedikált infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 33. pontja szerinti infrastruktúra,
 
 8. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-9. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+9.[^4] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+
+9a.[^5] egyedi támogatás: az Atr. 2. § 4. pontja szerinti támogatás,
 
 10. el nem számolható költség: a hitelesítési tevékenység során a hitelesítésre kijelölt szervezet által levont költség,
 
@@ -28,9 +30,13 @@
 
 13. elszámolható költség: olyan költség, amely megfelel az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 37–44. cikkének, a programszintű és nemzeti szintű elszámolhatósági szabályoknak, valamint állami támogatások vonatkozásában az Atr. 2. § 6. pontja szerinti fogalomnak,
 
+13a.[^6] energiahatékonyság: a 651/2014/EU bizottsági rendelet 2. cikk 103. pontja szerint megtakarított energiamennyiség,
+
 14. észszerű nyereség: a 651/2014/EU bizottsági rendelet 2. cikk 142. pontja szerinti nyereség,
 
-15. hazai partner: a határon átnyúló Interreg programok keretében, több jogi személy által közösen megvalósítandó projekt esetén az adott projektrész megvalósításáért a projektben részt vevő partnerek által aláírt partnerségi megállapodásban meghatározott kötelezettséget viselő és uniós támogatásban részesülő hazai fél vagy hazai székhelyű európai területi társulás,
+14a.[^7] halászati és akvakultúra-termékek: a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk a) és b) pontjában meghatározott termékek,
+
+15.[^8] hazai partner: a határon átnyúló Interreg programok keretében, több jogi személy által közösen megvalósítandó projekt esetén az adott projektrész megvalósításáért a projektben részt vevő partnerek által aláírt partnerségi megállapodásban meghatározott kötelezettséget viselő és uniós támogatásban részesülő hazai fél vagy hazai székhelyű európai területi társulás, ideértve a 31. pontban meghatározott kisprojekt hazai partnerét is,
 
 16. hazai társfinanszírozás: az uniós támogatásban részesülő hazai partner részére nyújtott vissza nem térítendő hazai támogatás,
 
@@ -56,7 +62,7 @@
 
 27. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak,
 
-28. INTERREG+ rendszer: az 1. § (1) bekezdés a)–c) pontjában meghatározott határon átnyúló Interreg programok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló, az e programok végrehajtási folyamatait támogató informatikai rendszer, ide nem értve a NAHU rendszer által kezelt nemzeti feladatokat,
+28.[^9] INTERREG+ rendszer: az 1. § (1) bekezdés a)–c) és g) pontjában meghatározott határon átnyúló Interreg programok keretében megvalósuló projektek adatainak gyűjtésére, rendszerezésére szolgáló, az e programok végrehajtási folyamatait támogató informatikai rendszer, ide nem értve a NAHU rendszer által kezelt nemzeti feladatokat,
 
 29. irányító hatóság: az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 45. cikk (1) bekezdése szerinti szervezet,
 
@@ -126,13 +132,13 @@
 
 62. rendszerszintű szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 33. pontja szerinti szabálytalanság,
 
-63. szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában meghatározott fogalom, valamint a nemzeti jogszabályok által meghatározott, továbbá a hazai társfinanszírozási támogatói okiratban a hazai partner által vállalt kötelezettségek megsértése abban az esetben, ha az érintett költséget az Európai Bizottságnak benyújtott kifizetési kérelem már tartalmazza,
+63.[^10] szabálytalanság: az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 2. cikk 31. pontjában meghatározott fogalom, az uniós támogatási szerződésben, a hazai társfinanszírozási támogatói okiratban, a nemzeti jogszabályok, a programszabályok és nemzeti szintű szabályok által meghatározott, továbbá a hazai partner által vállalt kötelezettségek megsértése abban az esetben, ha az érintett költséget az Európai Bizottságnak benyújtott kifizetési kérelem már tartalmazza,
 
 64. szakaszolt projekt: több programozási időszak forrásaiból finanszírozott projekt,
 
-65. tagállami helytállás: olyan, hazai költségvetésből finanszírozott, az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 52. cikk (3) bekezdése szerinti visszafizetési kötelezettség, amelyet az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén a hazai irányító hatóság, az 1. § (1) bekezdés d)–f) pontja szerinti programok esetén a külföldi irányító hatóság részére szükséges biztosítani, ha valamely projektben részt vevő hazai partner az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését a vezető partner részére elmulasztja, vagy a hazai vezető partner a jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését az irányító hatóság részére elmulasztja,
+65.[^11] tagállami helytállás: olyan, hazai költségvetésből finanszírozott, az (EU) 2021/1059 európai parlamenti és tanácsi rendelet 52. cikk (3) bekezdése szerinti visszafizetési kötelezettség, amelyet az 1. § (1) bekezdés a)–c) pontja szerinti programok esetén a hazai irányító hatóság, az 1. § (1) bekezdés d)–g) pontja szerinti programok esetén a külföldi irányító hatóság részére szükséges biztosítani, ha valamely projektben részt vevő hazai partner az általa jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését a vezető partner részére elmulasztja, vagy a hazai vezető partner a jogosulatlanul felhasznált uniós támogatás határidőben történő visszafizetését az irányító hatóság részére elmulasztja,
 
-66. tagállami hozzájárulás: olyan, hazai költségvetésből finanszírozott összeg, amelyet az 1. § (1) bekezdés d)–f) pontja szerinti programok esetén a nemzeti hatóság külön megállapodás alapján évente folyósít a külföldi irányító hatóság részére a közös finanszírozású külföldi TA projektek hazai társfinanszírozásának fedezeteként,
+66.[^12] tagállami hozzájárulás: olyan, hazai költségvetésből finanszírozott összeg, amelyet az 1. § (1) bekezdés d)–g) pontja szerinti programok esetén a nemzeti hatóság külön megállapodás alapján évente folyósít a külföldi irányító hatóság részére a közös finanszírozású külföldi TA projektek hazai társfinanszírozásának fedezeteként,
 
 67. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom,
 
@@ -144,7 +150,9 @@
 
 71. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-72. TA támogatási szerződés: a hazai TA partnerrel kötött, a teljes programozási időszakot lefedő, a programban részt vevő országok által külön megállapodásban elfogadott, euróban meghatározott pénzügyi kereten alapuló, forint devizanemű támogatási szerződés,
+72.[^13] TA támogatási szerződés: a nem központi költségvetési szerv hazai TA partnerrel kötött, a teljes programozási időszakot lefedő, a programban részt vevő országok által külön megállapodásban elfogadott, euróban meghatározott pénzügyi kereten alapuló, forint devizanemű támogatási szerződés,
+
+72a.[^14] TA forráskezelési támogatási szerződés: a nem központi költségvetési szerv hazai TA partnerrel kötött, a teljes programozási időszakot lefedő, a programban részt vevő országok által külön megállapodásban elfogadott, euróban meghatározott pénzügyi kereten alapuló euró devizanemű támogatási szerződés az 1. § (1) bekezdés c) pontja szerinti programban, melynek keretében a hazai TA partner a külföldi TA partnerekre jutó uniós források kezelését látja el.
 
 73. uniós támogatási szerződés: a határon átnyúló Interreg program irányító hatósága és a vezető partner között létrejött, költségvetési támogatásnak nem minősülő uniós támogatás nyújtásának és felhasználásának részletes szabályait tartalmazó szerződés, amelynek formai és tartalmi követelményeit az adott program monitoring bizottsága hagyja jóvá,
 
@@ -153,3 +161,17 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az (EU) 2021/1059 európai parlamenti és tanácsi rendelet, az (EU) 2021/1060 európai parlamenti és tanácsi rendelet, az (EU) 2021/1058 európai parlamenti és tanácsi rendelet, az (EU) 2021/1529 európai parlamenti és tanácsi rendelet, valamint az (EU) 2021/947 európai parlamenti és tanácsi rendelet szerint kell értelmezni.
 
 (3) A szakaszolt projekt e rendelet szerinti programozási időszakra eső szakasza vonatkozásában az e rendelet rendelkezéseit kell alkalmazni.
+
+[^2]: A 3. § (1) bekezdés 3. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés 7. pontja a 66/2024. (III. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (1) bekezdés 9. pontja a 66/2024. (III. 28.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (1) bekezdés 9a. pontját a 66/2024. (III. 28.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdés 13a. pontját a 66/2024. (III. 28.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^7]: A 3. § (1) bekezdés 14a. pontját a 66/2024. (III. 28.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés 15. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 2. pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdés 28. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 3. pontja szerint módosított szöveg.
+[^10]: A 3. § (1) bekezdés 63. pontja a 66/2024. (III. 28.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés 65. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdés 66. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^13]: A 3. § (1) bekezdés 72. pontja a 66/2024. (III. 28.) Korm. rendelet 20. § 5. pontja szerint módosított szöveg.
+[^14]: A 3. § (1) bekezdés 72a. pontját a 66/2024. (III. 28.) Korm. rendelet 2. § (7) bekezdése iktatta be.

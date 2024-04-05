@@ -2,13 +2,13 @@
 
 12. § (1) Az 1. § (1) bekezdése szerinti programok keretében uniós támogatásra jóváhagyott projektek hazai partnerei számára a nemzeti hatóság kérelemre megelőlegezést biztosít.
 
-(2) Nem biztosítható az (1) bekezdés szerinti megelőlegezés az 1. § (1) bekezdés a) pontja szerinti program Kisprojekt Alapjából finanszírozott kisprojektek partnerei számára.
+(2)[^19] Nem biztosítható az (1) bekezdés szerinti megelőlegezés az 1. § (1) bekezdés a) pontja szerinti program Kisprojekt Alapjából finanszírozott kisprojektek hazai partnerei számára.
 
 (3) A megelőlegezés iránti kérelmet a támogatási döntést követően lehet benyújtani. A megelőlegezési támogatói okiratot az uniós támogatási szerződés hatálybalépését követően, a nemzeti hatóság megbízásából, a hitelesítési tevékenységre kijelölt szervezet állítja ki.
 
-(4) A megelőlegezés mértéke a hazai partner projektrészére a támogatási döntésben megítélt összes elszámolható költségének legfeljebb
+(4)[^20] A megelőlegezés mértéke a hazai partner projektrészére az uniós támogatási szerződésben meghatározott összes elszámolható költségének legfeljebb
 
-a) 50%-a az 1. § (1) bekezdés a), d), e) és f) pontja,
+a) 50%-a az 1. § (1) bekezdés a), d), e), f) és g) pontja,
 
 b) 40%-a az 1. § (1) bekezdés b) pontja, valamint
 
@@ -16,7 +16,7 @@ c) 30%-a az 1. § (1) bekezdés c) pontja
 
 szerinti program esetében.
 
-(5) Amennyiben a megelőlegezés mértékének megállapításáig a hazai partner már rendelkezik az irányító hatóság által elfogadott jelentéssel, a megelőlegezés összegét a hazai partnernek a megelőlegezési támogatási okirat kiállítását megelőzően, utófinanszírozásként kifizetett uniós támogatás összegével csökkenteni kell.
+(5)[^21] Ha a megelőlegezés mértékének megállapításáig a hazai partner már rendelkezik az irányító hatóság által elfogadott jelentéssel, a megelőlegezés összegét ennek figyelembevételével kell megállapítani. A hazai partnernek a megelőlegezési támogatási okirat kiállítását megelőzően, utófinanszírozásként kifizetett uniós támogatás összegével csökkenteni kell a (4) bekezdés szerinti összes elszámolható költséget.
 
 (6) A hazai partner a megelőlegezés fogadására, kezelésére és abból történő kifizetés teljesítésére a Kincstárnál vezetett, projektrészenként elkülönített, forint devizanemű pénzforgalmi számlát nyit. A megelőlegezés kezelése céljából nyitott pénzforgalmi számla betétlekötés és készpénztranzakció teljesítésére nem használható.
 
@@ -45,3 +45,7 @@ a) a hazai partner valamennyi – jogszabály alapján beszedési megbízással 
 b) bankgarancia.
 
 (11) A biztosítéki értéknek fedeznie kell a megelőlegezés összegét.
+
+[^19]: A 12. § (2) bekezdése a 66/2024. (III. 28.) Korm. rendelet 20. § 8. pontja szerint módosított szöveg.
+[^20]: A 12. § (4) bekezdése a 66/2024. (III. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: A 12. § (5) bekezdése a 66/2024. (III. 28.) Korm. rendelet 3. §-ával megállapított szöveg.

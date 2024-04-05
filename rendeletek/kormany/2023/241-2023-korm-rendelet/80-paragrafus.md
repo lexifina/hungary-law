@@ -5,3 +5,5 @@
 2. a vállalkozásoknak az európai területi együttműködési projektekben való részvételéhez korlátozott összegű támogatásként, valamint
 
 3. csekély összegű támogatásként
+
+nyújtható.

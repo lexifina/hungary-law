@@ -18,6 +18,10 @@ e) az Interreg VI-A Románia–Magyarország Program és
 
 f) az Interreg VI-A Szlovénia–Magyarország Program
 
+g)[^1] az Interreg VI-A Magyarország–Horvátország Program
+
 (a továbbiakban együtt: határon átnyúló Interreg programok) végrehajtására, valamint a határon átnyúló Interreg programok uniós támogatása, hazai társfinanszírozása és a kapcsolódó megelőlegezés felhasználásának lebonyolítására és ellenőrzésére.
 
 (2) Az e rendelet hatálya alá tartozó források felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
+
+[^1]: Az 1. § (1) bekezdés g) pontját a 66/2024. (III. 28.) Korm. rendelet 1. §-a iktatta be.

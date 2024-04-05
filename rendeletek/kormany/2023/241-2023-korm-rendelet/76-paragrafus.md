@@ -11,3 +11,5 @@
 5. 1., 3., 4., 6. és 7. pontja alapján helyi infrastruktúrára irányuló támogatásként, valamint
 
 6. 1–7. pontja alapján csekély összegű támogatásként
+
+nyújtható.

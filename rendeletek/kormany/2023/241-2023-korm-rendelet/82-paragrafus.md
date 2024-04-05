@@ -7,3 +7,5 @@
 3. 5. pontja alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatásként, valamint
 
 4. 1–8. pontja alapján csekély összegű támogatásként
+
+nyújtható.
