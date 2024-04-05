@@ -1,1 +1,3 @@
-3. § A 301/2018. (XII. 27.) Korm. rendelet 4. § (2a) bekezdés c) pontjában az „a 11. § (1) bekezdésében és a 12. § (1) bekezdésében” szövegrész helyébe az „a 10. § (1) bekezdésében és a 11. § (1) bekezdésében” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
