@@ -2,14 +2,34 @@
 
 a) a közszolgáltatási résztevékenység keretében országos szinten gyűjtött hulladék mennyiségét természetes személy és nem természetes személy ingatlanhasználók szerinti bontásban és ezeken belül összes, vegyes, valamint elkülönítetten gyűjtött hulladékmennyiség szerinti csoportosításban,
 
-b) a közszolgáltatási résztevékenység keretében gyűjtött hulladék hulladékkezelő létesítménybe, ezen belül előkezelésre, anyagában történő hasznosításra, egyéb hasznosításra és ártalmatlanító létesítménybe, kiemelten lerakóba szállított mennyiségét, hulladék anyagáramonként,
+b)[^1] a közszolgáltatási résztevékenység keretében országos szinten gyűjtött hulladék hulladékkezelő létesítménybe, ezen belül előkezelésre, anyagában történő, energetikai, egyéb hasznosításra és ártalmatlanító létesítménybe, ezen belül lerakóba szállított mennyiségét
 
-c) a Ht. 47/A. § (1) bekezdése szerint megállapított hulladékgazdálkodási közszolgáltatási díjakat településenkénti bontásban, a Ht. 46. § (2) bekezdése szerinti díjalapot csökkentő tételek feltüntetésével, valamint ezen tételek díjmegállapításba történő számításba vételének módszertani meghatározását,
+ba) vegyes hulladék,
+
+bb) elkülönítetten gyűjtött papír-, műanyag-, fém-, üveghulladék,
+
+bc) elkülönítetten gyűjtött bio- és zöldhulladék-mennyiségek együttesen,
+
+bd) lomhulladék,
+
+be) egyéb hulladék, valamint
+
+bf) összes gyűjtésre kerülő hulladék
+
+bontásban,
+
+c)[^2] a Ht. 47/A. § (1) bekezdése szerint megállapított hulladékgazdálkodási közszolgáltatási díjakat településenkénti bontásban, valamint a közszolgáltatási díj díjalapját csökkentő, a Ht. 46. § (2) bekezdése szerinti tételkategóriákat,
 
 d) a hulladékgazdálkodási közszolgáltatási díjat meghatározó jogszabályok felsorolását,
 
-e) az indokolt költségekre vonatkozó, a Magyar Energetikai és Közmű-szabályozási Hivatal által a Ht. 53/N. § (2) bekezdése közzétett árképzési módszertani útmutató elektronikus elérhetőségét,
+e)[^3] az indokolt költségekre vonatkozó, a Magyar Energetikai és Közmű-szabályozási Hivatal által a Ht. 53/N. § (2) bekezdése alapján közzétett módszertani útmutató elektronikus elérhetőségét,
 
-f) a hulladékgazdálkodási közszolgáltatási résztevékenységhez kapcsolódó költségeket, bevételeket és kiadásokat,
+f)[^4] a hulladékgazdálkodási közszolgáltatási résztevékenységhez kapcsolódó költség-, bevétel- és kiadáskategóriákat,
 
-g) a tárgyévet megelőző évben a hulladékgazdálkodási közszolgáltatási résztevékenység körében megvalósított 500 millió forintot meghaladó beruházási értékű létesítményfejlesztéseket, a százmillió forintot meghaladó értékű eszközbeszerzéseket és azok műszaki jellemzőit.
+g)[^5] a tárgyévet megelőző évben a hulladékgazdálkodási közszolgáltatási résztevékenység körében megvalósított 500 millió forintot meghaladó beruházási értékű létesítményfejlesztéseket, a százmillió forintot meghaladó értékű eszközbeszerzéseket és az azokkal kapcsolatos hulladékgazdálkodási kapacitásadatokat.
+
+[^1]: Az 1. § b) pontja a 4/2024. (III. 28.) EM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § c) pontja a 4/2024. (III. 28.) EM rendelet 1. §-ával megállapított szöveg.
+[^3]: Az 1. § e) pontja a 4/2024. (III. 28.) EM rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § f) pontja a 4/2024. (III. 28.) EM rendelet 3. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § g) pontja a 4/2024. (III. 28.) EM rendelet 3. § c) pontja szerint módosított szöveg.
