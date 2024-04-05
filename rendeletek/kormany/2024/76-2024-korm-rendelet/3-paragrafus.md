@@ -1,5 +1,5 @@
 ## 2. A veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet módosítása
 
-3. § A veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet [a továbbiakban: 281/2022. (VIII. 1.) Korm. rendelet] a következő 15. §-sal egészül ki:
+3. §[^4]
 
-„15. § E rendeletnek az egyes egyetemes szolgáltatási árszabások meghatározásáról szóló 259/2022. (VII. 21.) Korm. rendelet és a veszélyhelyzet ideje alatt az egyetemes szolgáltatásra jogosultak körének meghatározásáról szóló 217/2022. (VI. 17.) Korm. rendelettel kapcsolatos egyes rendelkezésekről szóló 281/2022. (VIII. 1.) Korm. rendelet módosításáról szóló 76/2024. (IV. 3.) Korm. rendelettel módosított 2. § (2) bekezdését a folyamatban lévő ügyekre is alkalmazni kell.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

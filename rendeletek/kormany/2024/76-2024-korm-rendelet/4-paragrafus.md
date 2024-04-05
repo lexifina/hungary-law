@@ -1,1 +1,3 @@
-4. § A 281/2022. (VIII. 1.) Korm. rendelet 2. § (2) bekezdésében az „1/365-öd részének” szövegrész helyébe az „1/365-öd, szökőévben 1/366-od részének” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
