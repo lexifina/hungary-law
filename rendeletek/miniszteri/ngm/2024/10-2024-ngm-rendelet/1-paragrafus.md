@@ -1,1 +1,3 @@
-1. § A Beruházásfejlesztési Magántőkealap alapkezelési feladatait kizárólagos joggal ellátó szervezet kijelöléséről szóló 19/2022. (XII. 23.) GFM rendelet 1. §-ában a „Hiventures Kockázati Tőkealap-kezelő Zártkörűen Működő Részvénytársaságot (cégjegyzékszám: 01-10-044176; székhely: 1027 Budapest, Kapás utca 6–12.)” szövegrész helyébe a „FOCUS VENTURES Befektetési Alapkezelő Zártkörűen Működő Részvénytársaságot (cégjegyzékszám: 01-10-049495; székhely: 1027 Budapest, Kapás utca 6–12.)” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
