@@ -1,0 +1,1 @@
+5. § Az 1. § c) pontjában meghatározott foglalkoztató szervezet vezetője és a helyettesítésére jogosult személy munkakörének betöltésére irányuló foglalkoztatási jogviszony vagy szerződéses jogviszony az Nbtv. 74. § i) pont in) alpontja szerinti jogviszonynak minősül.
