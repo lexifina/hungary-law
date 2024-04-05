@@ -1,5 +1,3 @@
-2. § A Kr. a következő 77/I. §-sal egészül ki:
+2. §[^3]
 
-„77/I. § (1) Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 77/2024. (IV. 3.) Korm. rendelettel (a továbbiakban: Módr.14.) megállapított 10/A. § szerinti díjazásra az ott meghatározott egészségügyi szolgáltató 2024. március hónaptól jogosult.
-
-(2) Az az egészségügyi szolgáltató, amely a 2024. évben már igényelt működési költségelőleget, ezen kérelméhez kapcsolódva kérheti a működési költségelőleg kiegészítését a Módr.14.-gyel megállapított 6/A. § (3) bekezdése szerinti összeg erejéig.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

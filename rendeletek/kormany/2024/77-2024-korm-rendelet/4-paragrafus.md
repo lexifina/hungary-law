@@ -1,1 +1,3 @@
-4. § A Kr. 6/A. § (3) bekezdésében a „30 százaléka” szövegrész helyébe a „80 százaléka” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
