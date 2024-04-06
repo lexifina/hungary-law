@@ -1,5 +1,3 @@
-8. § Hatályát veszti
+8. §[^2]
 
-a) a fontos és bizalmas munkakörökről, valamint a nemzetbiztonsági ellenőrzés szintjéről szóló 2/2009. (VII. 10.) TM rendelet, valamint
-
-b) a Miniszterelnökséget érintően a nemzetbiztonsági ellenőrzés alá eső személyek meghatározásáról szóló 18/2022. (XI. 9.) MvM rendelet.
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
