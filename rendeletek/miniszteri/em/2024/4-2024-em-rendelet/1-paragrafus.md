@@ -1,3 +1,3 @@
-1. § A hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság által közérdekből közzéteendő adatok köréről és a közzététel módjáról szóló 13/2023. (VI. 30.) EM rendelet [a továbbiakban: 13/2023. (VI. 30.) EM rendelet] 1. § b) és c) pontja helyébe a következő rendelkezések lépnek:
+1. §[^2]
 
-[A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. § (1) bekezdés 26c. pontja szerinti hulladékgazdálkodási közszolgáltatási résztevékenységre vonatkozó díjképzés átláthatóságának biztosítása érdekében mindenki számára hozzáférhető módon a hulladékgazdálkodási közszolgáltatási résztevékenységet ellátó koncessziós társaság a honlapján az információs önrendelkezési jogról és az információszabadságról szóló törvény szerint különös közzétételi listaként közzéteszi az alábbi adatokat:]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
