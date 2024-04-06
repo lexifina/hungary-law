@@ -1,3 +1,3 @@
-13. § A Rendelet 95. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-(A támogatás − a nyomtatott vagy elektronikus formában közzétett sajtótermék és magazin kivételével − a következőkhöz nyújtható:)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-1. § A 2021–2027 programozási időszakban megvalósuló határon átnyúló Interreg programok végrehajtásáról szóló 241/2023. (VI. 20.) Korm. rendelet (a továbbiakban: Rendelet) 1. § (1) bekezdése a következő g) ponttal egészül ki:
+1. §[^2]
 
-[E rendeletet kell alkalmazni a 2021–2027 programozási időszakban megvalósuló határon átnyúló Interreg programok közül]
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

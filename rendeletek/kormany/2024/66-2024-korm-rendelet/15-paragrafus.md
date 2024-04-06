@@ -1,15 +1,3 @@
-15. § A Rendelet 99. § (2) bekezdése helyébe a következő rendelkezés lép:
+15. §[^16]
 
-„(2) A zenei és irodalmi alkotások kiadásához nyújtott támogatás keretében a zenei és irodalmi kiadói költségek számolhatók el, különösen
-
-a) a szerző díjazása, ideértve a szerzői joggal kapcsolatos költséget is,
-
-b) a fordító díjazása,
-
-c) a szerkesztő díjazása,
-
-d) az egyéb szerkesztési költség, ideértve korrektúrázás, javítás, lektorálás költségét is,
-
-e) az elrendezés és nyomdai előkészítés költsége és
-
-f) a nyomtatás vagy elektronikus közzététel költsége.”
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

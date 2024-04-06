@@ -1,3 +1,3 @@
-7. § A Rendelet 77. §-a a következő 6. ponttal egészül ki:
+7. §[^8]
 
-(Az Interreg VI-A NEXT Magyarország–Szlovákia–Románia–Ukrajna Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek, támogatható tevékenységek:)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

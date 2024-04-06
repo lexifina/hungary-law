@@ -1,3 +1,3 @@
-4. § A Rendelet 23. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A szabálytalanság-felelős)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
