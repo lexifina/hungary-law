@@ -35,3 +35,8 @@ h) az új üzemeltetési hely szerint illetékes hegybíró nevét és elérhet�
 a) az új üzemeltetési hely szerinti üzemre vonatkozó, az adott borászati gép, technológiai berendezés szabályszerű működtetését lehetővé tevő, a kérelmező nevére kiállított működési engedély másolatát és
 
 b) a borászati gép, technológiai berendezés nem saját tulajdonú vagy más személy rendelkezési jogával terhelt ingatlanon történő üzemeltetése esetén a Kincstár által rendszeresített és a honlapján közzétett, a 4. § (4) bekezdése szerinti adatokat tartalmazó, teljes bizonyító erejű magánokiratba foglalt nyilatkozatot.
+
+(4)[^34] Nem minősül az üzemeltetési hely megváltoztatásának, és nem kell alkalmazni az (1) bekezdést, ha a kérelmező az Európai Mezőgazdasági Garancia Alapból a szőlő- és borágazatban hasznosított gépek, technológiai berendezések és informatikai eszközök beszerzéséhez 2024-től igényelhető támogatásról szóló 13/2024. (IV. 4.) AM rendelet hatálybalépését[^35] követően további üzemeltetési helyet jelent be a (2) bekezdés szerint a Kincstárnak, és a támogatási döntésben jóváhagyott, illetve a bejelentett helyek között mozgatja a borászati gépet, technológiai berendezést. Új üzemeltetési helyként Budapest közigazgatási területén fekvő borászati üzem csak abban az esetben jelölhető meg, ha az adott eszköz tekintetében a támogatást igénylő a támogatási kérelemben megjelölt budapesti borászati üzemet.
+
+[^34]: A 12. § (4) bekezdését a 13/2024. (IV. 4.) AM rendelet 20. § (1) bekezdése iktatta be.
+[^35]: A hatálybalépés időpontja 2024. április 7.

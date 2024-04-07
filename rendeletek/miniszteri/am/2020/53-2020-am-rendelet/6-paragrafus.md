@@ -26,7 +26,7 @@ cb)[^13] 2023. április 10. és május 2. között vagy;
 
 cc)[^14] 2023. november 15. és december 21. között;
 
-d)[^15] a 4. § (1) bekezdés c) pontjában meghatározott határidőben a 2023. évben benyújtott támogatási kérelmekre vonatkozóan a támogatási kérelem benyújtását követő pénzügyi év november 15. és december 21., továbbá április 10. és május 2. között
+d)[^15]
 
 elektronikus úton nyújtható be a Kincstárhoz a Kormány által biztosított elektronikus azonosítási szolgáltatással elérhető, elektronikus űrlapkitöltő felületen keresztül, a Kincstár honlapján közzétett közleményben foglaltak szerint.
 
@@ -108,7 +108,7 @@ g)[^24] a támogatási kérelemmel jóváhagyott beruházást teljes egészében
 [^12]: A 6. § (1) bekezdés c) pont ca) alpontja az 51/2023. (IX. 6.) AM rendelet 10. § b) pontja szerint módosított szöveg.
 [^13]: A 6. § (1) bekezdés c) pont cb) alpontja az 51/2023. (IX. 6.) AM rendelet 10. § c) pontja szerint módosított szöveg.
 [^14]: A 6. § (1) bekezdés c) pont cc) alpontját az 51/2023. (IX. 6.) AM rendelet 3. § (1) bekezdése iktatta be.
-[^15]: A 6. § (1) bekezdés d) pontja az 51/2023. (IX. 6.) AM rendelet 10. § d) pontja, a 152/2023. (XII. 21.) AM rendelet 29. § b) pontja szerint módosított szöveg.
+[^15]: A 6. § (1) bekezdés d) pontját a 13/2024. (IV. 4.) AM rendelet 20. § (2) bekezdése hatályon kívül helyezte.
 [^16]: A 6. § (1a) bekezdését a 22/2021. (VI. 3.) AM rendelet 5. § (2) bekezdése iktatta be.
 [^17]: A 6. § (3) bekezdése a 22/2021. (VI. 3.) AM rendelet 5. § (3) bekezdésével megállapított szöveg.
 [^18]: A 6. § (4) bekezdés g) pontját az 51/2023. (IX. 6.) AM rendelet 3. § (2) bekezdése iktatta be.
