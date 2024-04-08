@@ -12,13 +12,13 @@ c) a 2023–2027 közötti időszakban szükséges forrás tervezéséről a kö
 
 ca) a 2023. évben 5 900 000 euró,
 
-cb) a 2024. évben 7 700 000 euró,
+cb)[^1] a 2024. évben 32 100 000 euró,
 
-cc) a 2025. évben 8 500 000 euró,
+cc)[^2] a 2025. évben 28 000 000 euró,
 
-cd) a 2026. évben 8 700 000 euró,
+cd)[^3] a 2026. évben 28 500 000 euró,
 
-ce) a 2027. évben 10 000 000 euró;
+ce)[^4] a 2027. évben 29 200 000 euró;
 
 Felelős: pénzügyminiszter
 
@@ -67,3 +67,8 @@ Felelős: külgazdasági és külügyminiszter
 honvédelmi miniszter
 
 Határidő: az e határozat közzétételét követő 30. nap
+
+[^1]: A 2. pont c) pont cb) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 2. pont c) pont cc) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^3]: A 2. pont c) pont cd) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
+[^4]: A 2. pont c) pont ce) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
