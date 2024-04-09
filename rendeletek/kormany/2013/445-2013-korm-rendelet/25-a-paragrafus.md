@@ -1,3 +1,3 @@
-25/A. §[^156]
+25/A. §[^157] E rendeletnek a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosításáról szóló 79/2024. (IV. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2/B. §-a nem érinti a Módr. hatálybalépése előtt létrehozott foglalkoztatásra irányuló jogviszonyokat.
 
-[^156]: A 25/A. §-t a 113/2016. (V. 30.) Korm. rendelet 88. §-a iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 136. § (2) bekezdés b) pontja.
+[^157]: A 25/A. §-t a 113/2016. (V. 30.) Korm. rendelet 88. §-a iktatta be, hatályon kívül helyezte a 238/2022. (VI. 30.) Korm. rendelet 136. § (2) bekezdés b) pontja, újonnan a 79/2024. (IV. 8.) Korm. rendelet 2. §-a iktatta be.

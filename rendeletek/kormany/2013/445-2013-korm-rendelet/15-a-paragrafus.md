@@ -1,4 +1,4 @@
-## 6.[^102] Előzetes csoportos munkavállalási jóváhagyás
+## 6.[^103] Előzetes csoportos munkavállalási jóváhagyás
 
 15/A. § (1) Előzetes csoportos munkavállalási jóváhagyás (a továbbiakban: munkavállalási jóváhagyás) iránti kérelmet nyújthat be a beruházó, ha a beruházására vonatkozó megállapodás teljesítése érdekében több harmadik országbeli állampolgár foglalkoztatása szükséges.
 
@@ -32,4 +32,4 @@ c) a FEOR alcsoportok (3. szint) szerint foglalkoztatható harmadik országbeli 
 
 (8) Munkavállalási jóváhagyás alapján a harmadik országbeli állampolgár foglalkoztatásához összevont engedély szükséges.
 
-[^102]: A 6. alcímet (15/A–15/B. §-t) a 35/2024. (II. 29.) Korm. rendelet 306. §-a iktatta be.
+[^103]: A 6. alcímet (15/A–15/B. §-t) a 35/2024. (II. 29.) Korm. rendelet 306. §-a iktatta be.
