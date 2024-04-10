@@ -16,6 +16,7 @@ b) a pótbefizetés összegét maradéktalanul megfizeti az (5) bekezdés szerin
 
 (5) A mezőgazdasági termelő a pótbefizetést a befizető azonosítására alkalmas módon, az ügyfél-azonosító megadásával a kompenzáció kifizetését követő év július 31-éig megfizeti, azzal, hogy határidőben történő befizetésnek kizárólag a krízisbiztosítási szerv számláján a kompenzáció kifizetését követő év július 31-éig jóváírt összeg tekinthető.
 
-(6) A 2021. év vonatkozásában a pótbefizetés összege a 2021. évben befizetett krízisbiztosítási hozzájárulás 3,5-szerese.
+(6)[^10] A 2022. év vonatkozásában a pótbefizetés összege a 2022. évben befizetett krízisbiztosítási hozzájárulás 2,5-szerese.
 
 [^9]: Az 5/A. alcímet (13/A-13/B. §-t) a 26/2023. (VI. 30.) AM rendelet 1. §-a iktatta be.
+[^10]: A 13/A. § (6) bekezdése a 25/2024. (IV. 9.) AM rendelet 16. §-ával megállapított szöveg.
