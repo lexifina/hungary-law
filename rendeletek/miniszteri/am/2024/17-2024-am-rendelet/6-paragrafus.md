@@ -1,0 +1,1 @@
+6. § Nem nyújtható támogatás, ha a mezőgazdasági termelő egynél több földhasználati kategória területén – ide nem értve a gyakorlat teljesítése alól mentesített területeket – nem teljesíti a 2. § (1) bekezdés d) pontja szerinti minimum 2 pontot.
