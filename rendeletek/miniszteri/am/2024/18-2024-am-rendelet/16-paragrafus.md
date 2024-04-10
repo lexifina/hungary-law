@@ -1,0 +1,1 @@
+16. § A mezőgazdasági termelőnek a támogatásra bejelentett állatokra vonatkozóan legalább hat hónapos birtokon tartási kötelezettséget kell vállalnia, amelynek az egységes kérelem benyújtásának napját követő naptól kezdődően folyamatosan fenn kell állnia.
