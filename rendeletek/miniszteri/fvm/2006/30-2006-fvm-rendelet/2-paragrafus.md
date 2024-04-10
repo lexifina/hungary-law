@@ -8,7 +8,7 @@ c) az a) és b) kategóriákba nem sorolható
 
 mezőgazdasági termelők.
 
-(2) Az országos tartaléknak az (1) bekezdés a) pontja szerinti igények kielégítését követően fennmaradó része egyenlő arányban kerül szétosztásra az (1) bekezdés b) és c) pontja szerinti igények között. Amennyiben a fenti igények kielégítését követően marad kiosztható támogatási jogosultság, úgy azokat a d) pont szerinti igénnyel rendelkezők között kell felosztani. Az a) pont szerinti igények kielégítése során is figyelemmel kell lenni a b)–d) pontok szerinti sorrendre.
+(2)[^4] Az országos tartalék egyenlő arányban kerül szétosztásra az (1) bekezdés a) és b) pontja szerinti igények között. Amennyiben az (1) bekezdés a) és b) pontja szerinti igények kielégítését követően marad kiosztható támogatási jogosultság, úgy azokat a c) pont szerinti igénnyel rendelkezők között kell felosztani.
 
 (3) Az igényelhető támogatási jogosultság legmagasabb mértéke abban az esetben, ha a felsőhatár kihasználtsága az adott évben legalább kilencvenöt százalékos:
 
@@ -16,7 +16,7 @@ a) anyajuhtartás esetén háromszáz támogatási jogosultság;
 
 b) anyatehéntartás esetén az országos tartalék 5 %-a.
 
-(4)[^4] Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
+(4)[^5] Támogatási jogosultságot az a természetes személy, jogi személy, illetve jogi személyiséggel nem rendelkező szervezet (a továbbiakban együtt: termelő) is igényelhet, valamint jogosultság annak a termelőnek is kiosztásra kerülhet, aki (amely) felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll.
 
 (5) A termelő:
 
@@ -28,4 +28,5 @@ a rendelkezésére álló támogatási jogosultságot nem ruházhatja át, illet
 
 [^2]: A 2. § a 117/2011. (XII. 15.) VM rendelet 8. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdése a 20/2023. (IV. 19.) AM rendelet 8. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdése a 22/2014. (III. 14.) VM rendelet 34. §-a szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 25/2024. (IV. 9.) AM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (4) bekezdése a 22/2014. (III. 14.) VM rendelet 34. §-a szerint módosított szöveg.
