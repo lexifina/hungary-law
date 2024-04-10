@@ -1,0 +1,13 @@
+3. § (1) A mezőgazdasági termelő a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló 2011. évi CLXVIII. törvény (a továbbiakban: Mkk tv.) alapján az egységes kérelemben igényelheti az Mkk tv. 16. § (1) bekezdése szerinti mezőgazdasági biztosítási szerződés díjához nyújtott támogatást.
+
+(2) Az Mkk tv. 6. § (1)–(2) bekezdése, 16. § (1) bekezdése szerinti mezőgazdasági termelőnek az egységes kérelemben nyilatkozatot kell tennie az Mkk tv. 18. § (3) bekezdésében foglalt évet megelőző négy év vonatkozásában a használatában lévő összes termőterület nagyságának, valamint e termőterületen megtermelt összes termény mennyiségének hiányzó adatairól.
+
+(3) A (2) bekezdés, valamint az Mkk tv. 18. § (3) bekezdése szerinti nyilatkozat kizárólag azon év vagy évek vonatkozásában tehető meg, amelyre vagy amelyekre vonatkozóan a mezőgazdasági termelő valamely korábbi évben nem szolgáltatott az egységes kérelmében, az elektronikusan benyújtott kárenyhítő juttatás iránti kérelmében vagy az elektronikusan benyújtott biztosítási szerződés területösszesítő mellékletében hozamadatot. A mezőgazdasági termelő által a tárgyévi egységes kérelem benyújtása előtt megadott termésmennyiségi adatok nem módosíthatók vagy javíthatók. A mezőgazdasági termelő a tárgyévi egységes kérelemben megadott termésmennyiségi adatokat – az egységes kérelemben – tárgyév július 15. napjáig kijavíthatja.
+
+(4) A szőlőültetvényekben végzett zöldszüretre igényelhető támogatásról szóló 22/2019. (V. 31.) AM rendelet 1. § b) pontja szerinti intézkedésbe vont, zöldszürettel érintett területen termesztett minőségi és egyéb borszőlőültetvény-kultúrára vonatkozóan
+
+a) ha a mezőgazdasági termelő a zöldszürettel érintett kárenyhítési évben nem igényelt kárenyhítő juttatást, akkor a zöldszürettel érintett kárenyhítési év hozamát az Agrárközgazdasági Intézet Nonprofit Korlátolt Felelősségű Társaság által meghatározott, zöldszürettel érintett kárenyhítési év országos átlaghozama alapján a Magyar Államkincstár mint agrárkár-enyhítési szerv állapítja meg,
+
+b) ha a mezőgazdasági termelő a zöldszürettel érintett kárenyhítési évben igényelt kárenyhítő juttatást, akkor a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet [a továbbiakban: 27/2014. (XI. 25.) FM rendelet] 7. § (5) és (6) bekezdésében foglaltak szerint a kárenyhítő juttatás iránti kérelemben már kiszámított, zöldszürettel érintett kárenyhítési év hozamát kell figyelembe venni.
+
+(5) A termőterületen megtermelt összes termésmennyiséget tonnában kell megadni az egységes kérelmen.

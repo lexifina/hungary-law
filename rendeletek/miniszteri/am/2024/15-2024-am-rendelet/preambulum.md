@@ -1,0 +1,1 @@
+A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 48. § (3) bekezdés 1., 2., 10., 11., 15., 16., 18. pontja alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

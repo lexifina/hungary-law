@@ -1,0 +1,9 @@
+## 2. Az egységes kérelem tartalma
+
+4. § (1) A mezőgazdasági termelőnek az egységes kérelemben meg kell jelölnie, hogy mely, a 2. § (1)–(4) bekezdése szerinti támogatásra vonatkozik a kérelme, ki kell töltenie a megfelelő mezőket, és meg kell adnia a támogatásra való jogosultság megállapításához szükséges adatokat. Az egységes kérelemhez csatolni kell a 2. § (1)–(4) bekezdése szerinti támogatások szabályait megállapító rendeletekben vagy pályázati felhívásokban meghatározott tartalommal és időpontig előírt, a támogatási feltételek igazolását szolgáló mellékleteket.
+
+(2) Az egységes kérelemben területalapú támogatások esetében a területadatokat a mezőgazdasági termelőnek a MePAR szerinti fizikai blokk alfanumerikus, továbbá a bejelentett területi elem numerikus és grafikus azonosításával, termesztő berendezés esetén annak jelölésével, valamint a bejelentett területi elem hasznosítására vonatkozó adatok megjelölésével kell megadnia. A bejelentett táblák esetén a mezőgazdasági termelőnek meg kell jelölnie, mely táblán milyen típusú nem termelő területet vagy tájképi elemet kíván elszámolni.
+
+(3) A bejelentett területi elem területe – a 2. § (1) bekezdés a) pontja, (2) bekezdés b) pontja, (3) bekezdés 10. és 11. pontja, valamint (4) bekezdés 1. és 4. pontja szerinti támogatások kivételével – a grafikus azonosítás alapján, négy tizedesjegy pontossággal, hektárban kerül megállapításra. A 2. § (1) bekezdés a) pontja, (2) bekezdés b) pontja, (3) bekezdés 9., 11. és 12. pontja, valamint (4) bekezdés 3. pontja szerinti támogatások esetén a területet a mezőgazdasági termelő négy tizedesjegy pontossággal adja meg.
+
+(4) Az állatalapú támogatások esetében az egységes kérelem tartalmazza az érintett állatok számát, továbbá az állatok azonosítására vonatkozó adatokat, méhcsaládok számát, illetve állatállományt, továbbá az (EU) 2022/1173 rendelet 9. cikkében foglalt adatokat.
