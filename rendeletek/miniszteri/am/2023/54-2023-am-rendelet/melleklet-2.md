@@ -1,15 +1,3 @@
-|  | A | B |
+2. melléklet az 54/2023. (IX. 13.) AM rendelethez[^128]
 
-| 1. | Magyar név | Tudományos (latin) név |
-
-| 2. | Aranka fajok | Cuscuta spp. |
-
-| 3. | Parlagfű | Ambrosia artemisiifolia |
-
-| 4. | Selyemkóró | Asclepias syriaca |
-
-2. melléklet az 54/2023. (IX. 13.) AM rendelethez
-
-Az inváziós növények listája
-
-I. Nem termelő tájképi elemekre és egyéb tájképi elemekre vonatkozó inváziós fajok
+[^128]: A 2. mellékletet a 24/2024. (IV. 9.) AM rendelet 34. § 21. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 35. §-át.

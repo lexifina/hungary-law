@@ -9,3 +9,5 @@
 3. az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer, valamint a feltételességhez kapcsolódó közigazgatási szankciók alkalmazása és kiszámítása tekintetében történő kiegészítéséről szóló, 2022. május 4-i (EU) 2022/1172 felhatalmazáson alapuló bizottsági rendelet, valamint
 
 4. az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.

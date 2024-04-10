@@ -6,7 +6,7 @@ a) a támogató megnevezését, a döntés iratazonosító számát,
 
 b) a kedvezményezett nevét, címét (lakóhelyét vagy székhelyét) és – ha rendelkezik vele – támogatási azonosítóját,
 
-c) a kérelem tárgyában hozott támogatói rendelkezést,
+c)[^55] a kérelem tárgyában vagy a saját hatáskörben indított eljárásban hozott támogatói rendelkezést,
 
 d) a jogorvoslati kérelem benyújtásával kapcsolatos tájékoztatást,
 
@@ -18,13 +18,13 @@ g) a kiadmányozó nevét, beosztását és aláírását, valamint
 
 h) az európai uniós állami támogatási szabályokat, amennyiben
 
-ha) a támogatáshoz nem kapcsolódik EMVA társfinanszírozás, vagy
+ha)[^56] a támogatáshoz nem kapcsolódik társfinanszírozás, vagy
 
-hb) kapcsolódik hozzá EMVA társfinanszírozás, és a támogatás nem az Európai Unió működéséről szóló szerződés 42. cikke hatálya alá tartozó mezőgazdasági tevékenységhez kapcsolódik.
+hb)[^57] kapcsolódik hozzá társfinanszírozás, és a támogatás nem az Európai Unió működéséről szóló szerződés 42. cikke hatálya alá tartozó mezőgazdasági tevékenységhez kapcsolódik.
 
 (2) Az agrártámogatási jogviszony létrejötténél – jogszabály eltérő rendelkezése hiányában – a támogató a támogatási kérelemre hozott jóváhagyó döntést támogatási okiratba, kifizetés engedélyezésére hozott döntést kifizetési okiratba foglalja. A 11. § (2) bekezdés a) pontja szerinti esetben a támogatási okirat tartalmazza a kifizetésre vonatkozó rendelkezéseket is.
 
-(3) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát az erre irányuló kérelemre vagy saját hatáskörben kijavítja, ha az érdemben nem hat ki az agrártámogatási jogviszonyra.
+(3)[^58] Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát az erre irányuló kérelemre vagy saját hatáskörben kijavítja, ha az érdemben nem hat ki az agrártámogatási jogviszonyra. Az így kijavított döntéssel szemben jogorvoslati kérelem benyújtásának nincs helye.
 
 (4) A döntés véglegessé válik,
 
@@ -38,4 +38,10 @@ d) a miniszter jogorvoslati kérelem tárgyában hozott döntése közlésének 
 
 (5) Több döntés foglalható egy okiratba (a továbbiakban: egybefoglalt döntés). Az egybefoglalt döntésben a támogatói rendelkezést és annak indokolását úgy kell megszövegezni, hogy elkülöníthetőek legyenek az egyes rendelkezésekre vonatkozó részek. Az egybefoglalás az egyes döntések meghozatalára vonatkozó határidőket és a jogorvoslati szabályok alkalmazását nem érinti.
 
-(6) Nem minősül döntésnek a kedvezményezett részére megküldött hiánypótlásra, adategyeztetésre, valamint egyeztetésre való felhívás.
+(6)[^59] Nem minősül döntésnek a kedvezményezett részére megküldött hiánypótlásra, adategyeztetésre, valamint egyeztetésre való felhívás, a helyszíni vizsgálatról készült jegyzőkönyv, a támogató kedvezményezett részére szóló tájékoztatása, értesítése.
+
+[^55]: A 30. § (1) bekezdés c) pontja a 24/2024. (IV. 9.) AM rendelet 11. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^56]: A 30. § (1) bekezdés h) pont ha) alpontja a 24/2024. (IV. 9.) AM rendelet 34. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^57]: A 30. § (1) bekezdés h) pont hb) alpontja a 24/2024. (IV. 9.) AM rendelet 34. § 11. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^58]: A 30. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 11. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^59]: A 30. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 17. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

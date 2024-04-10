@@ -4,4 +4,6 @@
 
 (2) Közvetlenül alkalmazandó európai uniós jogi aktus vagy jogszabály eltérő rendelkezése hiányában az adategyeztetés vagy egyeztetés teljesítésének időtartama, annak közlésétől számítva legalább három, legfeljebb tizenöt nap lehet.
 
-(3) Ha a kedvezményezett az adategyeztetést hibásan, hiányosan vagy határidőn túl teljesíti, a támogató a rendelkezésre álló adatok alapján dönt, vagy – ha a rendelkezésre álló adatok nem elégségesek – megszünteti az eljárást.
+(3)[^49] Ha a kedvezményezett az adategyeztetést vagy egyeztetést nem, hibásan, hiányosan vagy határidőn túl teljesíti, a támogató a rendelkezésre álló adatok alapján dönt, vagy – ha a rendelkezésre álló adatok nem elégségesek – megszünteti az eljárást.
+
+[^49]: A 27. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 14. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

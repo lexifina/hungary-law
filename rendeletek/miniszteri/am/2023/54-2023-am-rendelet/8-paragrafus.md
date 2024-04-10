@@ -1,9 +1,16 @@
 8. § (1) Az egyes intézkedésekben való részvétel feltételeként előírt vagy értékelési szempontból figyelembe vehető képzettséget igazoló dokumentumok nyilvántartására és az azokban szereplő képzettségre vonatkozó adatok, tények kezelésére, ellenőrzésére a Nemzeti Kifizető Ügynökség képzettségi nyilvántartást vezet.
 
-(2) A képzettségre vonatkozó adat, tény a kedvezményezett által benyújtott, jogszabályban vagy pályázati felhívásban jogosultsági feltételként rögzített vagy értékelési szempontból figyelembe vehető képzettség, végzettség igazolására szolgáló dokumentum (a továbbiakban: végzettségi igazolás) alapján kerül nyilvántartásba vételre. A végzettségi igazolást egyszer kell benyújtani az (1) bekezdés szerinti nyilvántartásba vétel céljából.
+(2)[^12] A képzettségre vonatkozó adat, tény a kedvezményezett által benyújtott, jogszabályban vagy pályázati felhívásban jogosultsági feltételként rögzített vagy értékelési szempontból figyelembe vehető képzettség, végzettség igazolására szolgáló dokumentum (a továbbiakban: képzettségi igazolás) alapján kerül nyilvántartásba vételre. A képzettségi igazolást – nyilvántartásba vétele esetén – egyszer kell benyújtani.
 
 (3) A képzettségi nyilvántartásban szereplő adatot, tényt valamennyi, e rendelet hatálya alá tartozó eljárás során felhasználhatja a támogató.
 
-(4) A képzettségi nyilvántartásba a Nemzeti Kifizető Ügynökségnél már rendelkezésre álló adatok feltöltésre kerülnek, amelynek helytállóságát a kedvezményezett a Nemzeti Kifizető Ügynökség évente történő felhívása alapján ellenőrzi.
+(4)[^13] A képzettségi nyilvántartásban szereplő adatok, tények helytállóságát a kedvezményezett ellenőrizheti.
 
-(5) Ha a kedvezményezett végzettsége nem vagy nem megfelelően szerepel a képzettségi nyilvántartásban, azt a kedvezményezett legkésőbb a támogatási kérelem benyújtásig bejelenti.
+(5)[^14] Ha a képzettség nem vagy nem megfelelően szerepel a képzettségi nyilvántartásban, azt a kedvezményezettnek vagy rá tekintettel a képzettséggel rendelkező természetes személynek legkésőbb a támogatási kérelem benyújtásával egyidejűleg kell bejelentenie.
+
+(6)[^15] Ha a képzettség bejelentése nem felel meg a rendeletben foglaltnak, a támogató a képzettség nyilvántartásba vételére irányuló eljárását megszünteti.
+
+[^12]: A 8. § (2) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 3. pontja és 34. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^13]: A 8. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^14]: A 8. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^15]: A 8. § (6) bekezdését a 24/2024. (IV. 9.) AM rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 35. §-át.

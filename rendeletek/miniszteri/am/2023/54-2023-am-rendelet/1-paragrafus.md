@@ -22,4 +22,6 @@ b) 11. § (3) és (4) bekezdésében meghatározott eljárásokra.
 
 (3) Ha a támogatás részletes feltételeit megállapító jogszabály vagy pályázati felhívás másként nem rendelkezik, akkor a támogatás vissza nem térítendő jellegű.
 
-(4) E rendeletet abban az esetben kell alkalmazni, ha a KAP törvény végrehajtására kiadott miniszteri rendelet vagy e rendelet alapján pályázati felhívás eltérően nem rendelkezik.
+(4)[^1] E rendeletet abban az esetben kell alkalmazni, ha a KAP törvény végrehajtására kiadott miniszteri rendelet vagy e rendelet alapján meghirdetett pályázati felhívás eltérően nem rendelkezik.
+
+[^1]: Az 1. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 1. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

@@ -1,4 +1,4 @@
-43. § (1) Az ellenőr a helyszíni vizsgálat során fényképet készíthet, a vizsgált dokumentumokról másolatot kérhet. A helyszíni vizsgálat során keletkezett másolat, fénykép a jegyzőkönyv részének minősül. A kedvezményezett a fényképeket a 22. §-ban foglaltak szerint megismerheti.
+43. § (1)[^81] Az ellenőr a helyszíni vizsgálat során fényképet készíthet, a vizsgált dokumentumokról másolatot kérhet. A helyszíni vizsgálat során keletkezett másolat, fénykép a jegyzőkönyv részének minősül. A kedvezményezett a fényképeket a 20. §-ban foglaltak szerint megismerheti.
 
 (2) A jegyzőkönyv tartalmazza
 
@@ -14,7 +14,7 @@ e) a helyszíni vizsgálatra vonatkozó lényeges nyilatkozatokat és megállap�
 
 f) a jegyzőkönyv készítésének helyét és időpontját,
 
-g) a 44. § (1) bekezdése szerinti pótlásra történő kötelezést és
+g)[^82] a 42. § (1) bekezdése szerinti pótlásra történő kötelezést és
 
 h) az ellenőr és a kedvezményezett vagy a kedvezményezett képviseletében eljáró személy aláírását.
 
@@ -25,3 +25,6 @@ h) az ellenőr és a kedvezményezett vagy a kedvezményezett képviseletében e
 (5) A támogató a kedvezményezettel szerződéses kapcsolatban álló harmadik személynél a kérelemmel összefüggésben kapcsolódó ellenőrzést végezhet.
 
 (6) A támogató a helyszíni vizsgálat lefolytatásához szakértői tevékenységre kötött megállapodás alapján külső szakértőt vonhat be.
+
+[^81]: A 43. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 30. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^82]: A 43. § (2) bekezdés g) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 31. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

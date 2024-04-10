@@ -8,9 +8,9 @@ b) megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamel
 
 (2) A támogatás az adott intézkedésre vonatkozó feltételeket megállapító
 
-a) EMGA-ból, a KAP I rendelet 69. cikk a)–c) és f) pontja szerint EMVA-ból, az Európai Unió általános költségvetéséből, valamint a kizárólag nemzeti hatáskörben nyújtott támogatások esetében jogszabályban, valamint
+a)[^9] EMGA-ból, az Európai Unió általános költségvetéséből, valamint a kizárólag nemzeti hatáskörben nyújtott támogatások esetében jogszabályban, valamint
 
-b) az a) pontban foglaltak kivételével EMVA-ból nyújtott támogatások esetén pályázati felhívásban
+b)[^10] az EMVA-ból nyújtott támogatások esetén pályázati felhívásban
 
 foglaltak szerint, kérelemmel igényelhető.
 
@@ -29,3 +29,6 @@ b) elektronikuskérelem-benyújtó felületet vagy elektronikus űrlapot (a tov�
 (7) A támogató a KAP Stratégiai Terv végrehajtásának ellenőrzése és értékelése céljából a KAP törvény 13. § (1) bekezdés e) pontja szerinti monitoringadat-nyilvántartási rendszert működtet, amelybe a támogató felhívására a kedvezményezett – az általa igénybe vett támogatással összefüggésben – adatot szolgáltat.
 
 (8) A miniszter – az éven túli kötelezettségvállalásokra vonatkozó szabályokra is figyelemmel – keretkimerülésről közleményt ad ki.
+
+[^9]: A 3. § (2) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 2. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^10]: A 3. § (2) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

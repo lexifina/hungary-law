@@ -228,61 +228,61 @@
 
 | 111. | 5.1.5. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
 
-| 112. | 5.1.6. | Agrár-Vállalkozási Hitelgarancia Alapítvány készfizető kezességvállalás |  |  |
+| 112.[^129] | 5.2. | Agrár-Vállalkozási Hitelgarancia Alapítvány készfizető kezességvállalás |  |  |
 
-| 113. | 5.1.7. | Igazolás a kiszámlázott és megfizetett kezességvállalás díjáról | A költség felmerülésekor |  |
+| 113.[^130] | 5.2.1. | Igazolás a kiszámlázott és megfizetett kezességvállalás díjáról | A költség felmerülésekor |  |
 
-| 114. | 5.2. | Könyvvizsgálat |  |  |
+| 114.[^131] | 5.3. | Könyvvizsgálat |  |  |
 
-| 115. | 5.2.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
+| 115.[^132] | 5.3.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
 
-| 116. | 5.2.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
+| 116.[^133] | 5.3.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
 
-| 117. | 5.2.3. | Könyvvizsgálói igazolás/jelentés | A költség felmerülésekor |  |
+| 117.[^134] | 5.3.3. | Könyvvizsgálói igazolás/jelentés | A költség felmerülésekor |  |
 
-| 118. | 5.2.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
+| 118.[^135] | 5.3.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
 
-| 119. | 5.3. | Tájékoztatás, nyilvánosság biztosítás |  |  |
+| 119.[^136] | 5.4. | Tájékoztatás, nyilvánosság biztosítás |  |  |
 
-| 120. | 5.3.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
+| 120.[^137] | 5.4.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
 
-| 121. | 5.3.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
+| 121.[^138] | 5.4.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
 
-| 122. | 5.3.3. | A kedvezményezett igazolása a tájékoztatás, nyilvánosság biztosítás teljesítéséről / minta a tárgyiasult szolgáltatásról elektronikus adathordozón dokumentáltan (fotó, audio, videó) | A költség felmerülésekor |  |
+| 122.[^139] | 5.4.3. | A kedvezményezett igazolása a tájékoztatás, nyilvánosság biztosítás teljesítéséről / minta a tárgyiasult szolgáltatásról elektronikus adathordozón dokumentáltan (fotó, audió, videó) | A költség felmerülésekor |  |
 
-| 123. | 5.3.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
+| 123.[^140] | 5.4.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
 
-| 124. | 5.4. | Projektmenedzsment |  |  |
+| 124.[^141] | 5.5. | Projektmenedzsment |  |  |
 
-| 125. | 5.4.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
+| 125.[^142] | 5.5.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
 
-| 126. | 5.4.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
+| 126.[^143] | 5.5.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
 
-| 127. | 5.4.3. | Kizárólag technikai segítségnyújtás keretében támogatott, személyi jellegű ráfordítások finanszírozását szolgáló projektek esetén a 4.1.1–4.1.3. azonosító szerint |  |  |
+| 127.[^144] | 5.5.3. | Kizárólag technikai segítségnyújtás keretében támogatott, személyi jellegű ráfordítások finanszírozását szolgáló projektek esetén a 4.1.1–4.1.3. azonosító szerint |  |  |
 
-| 128. | 5.4.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
+| 128.[^145] | 5.5.4. | Szerződés vagy szerződés hiányában visszaigazolt írásos megrendelő, szerződés és visszaigazolt írásos megrendelő hiányában nyilatkozat arról, hogy írásbeli szerződés nem történt | Egyszer, a költség első elszámolásakor, illetve változás esetén |  |
 
-| 129. | 5.4.5. | Teljesítésigazolás | A költség felmerülésekor |  |
+| 129.[^146] | 5.5.5. | Teljesítésigazolás | A költség felmerülésekor |  |
 
-| 130. | 5.5. | Általános (rezsi-) költségek |  |  |
+| 130.[^147] | 5.6. | Általános (rezsi-) költségek |  |  |
 
-| 131. | 5.5.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
+| 131.[^148] | 5.6.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
 
-| 132. | 5.5.2. | Kifizetés bizonylata | A költség felmerülésekor | – |
+| 132.[^149] | 5.6.2. | Kifizetés bizonylata | A költség felmerülésekor | – |
 
-| 133. | 5.6. | Hatósági díjak, illetékek, közjegyzői költségek |  |  |
+| 133.[^150] | 5.7. | Hatósági díjak, illetékek, közjegyzői költségek |  |  |
 
-| 134. | 5.6.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
+| 134.[^151] | 5.7.1. | Számla vagy azzal egyenértékű bizonylat | A költség felmerülésekor | X |
 
-| 135. | 5.6.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
+| 135.[^152] | 5.7.2. | Kifizetés bizonylata | A költség felmerülésekor |  |
 
-| 136. | 5.6.3. | Hatósági határozat, engedély, végzés | Ha korábban más költség elszámolásához nem került benyújtásra |  |
+| 136.[^153] | 5.7.3. | Hatósági határozat, engedély, végzés | Ha korábban más költség elszámolásához nem került benyújtásra |  |
 
-| 137. | 5.7. | Megindított építési beruházás és szolgáltatás megrendelése esetén a Kbt. 135. § (3)–(4) bekezdése szerinti kifizetés esetében benyújtandó dokumentumok |  |  |
+| 137.[^154] | 5.8. | Megindított építési beruházás és szolgáltatás megrendelése esetén a Kbt. 135. § (3)–(4) bekezdése szerinti kifizetés esetében benyújtandó dokumentumok |  |  |
 
-| 138. | 5.7.1. | Nyilatkozat alvállalkozói teljesítés mértékéről | A költség felmerülésekor |  |
+| 138.[^155] | 5.8.1. | Nyilatkozat alvállalkozói teljesítés mértékéről | A költség felmerülésekor |  |
 
-| 139. | 5.7.2. | Megelőzően megindított építési beruházás és szolgáltatás megrendelése esetén a Kbt. 135. § (3) bekezdés c) pontja szerinti igazolás | Amennyiben releváns, a költség felmerülésekor |  |
+| 139.[^156] | 5.8.2. | Megelőzően megindított építési beruházás és szolgáltatás megrendelése esetén a Kbt. 135. § (3) bekezdés c) pontja szerinti igazolás | Ha releváns, a költség felmerülésekor |  |
 
 | 140. | 6. | Bármely költségtípus esetén benyújtandó dokumentumok |  |  |
 
@@ -612,6 +612,8 @@ bb) mozgásszervi fogyatékos vagy közlekedőképességében súlyosan akadály
 
 3.4.3.14. a fejlesztés tárgyára vonatkozó, az üzembe helyezést követően felmerülő vagyonbiztosítás (pl. a projekt keretében beszerzett és használt nagy értékű eszközök külön biztosítása) díja a megvalósítási időszak végéig számolható el, az üzembe helyezést megelőzően felmerülő, a beszerzett tárgyi eszközhöz kötődő, a bekerülési érték részét képező biztosítási díj az eszközbeszerzések között számolandó el.
 
+3.4.3.15.[^157] a beruházás megvalósításához felvett hitelhez az Agrár-Vállalkozási Hitelgarancia Alapítvány által nyújtott készfizető kezességvállalás díja.
+
 3.4.4. A projekt megvalósításával kapcsolatban közvetve felmerülő, általános szolgáltatások:
 
 3.4.4.1. a felhívás által előírt nyilvánosság biztosításának költsége, amelynek az összes elszámolható költséghez viszonyított aránya nem lehet több, mint 0,5%,
@@ -929,3 +931,33 @@ bb) mozgásszervi fogyatékos vagy közlekedőképességében súlyosan akadály
 5.1.6. a pénzügyi, finanszírozási tranzakciókon realizált árfolyamveszteség,
 
 5.1.7. a bírságok, kedvezményezett által fizetett kötbérek és a polgári perrendtartásról szóló törvény szerinti perköltség, függetlenül attól, hogy bíróság által megítélésre került-e.
+
+[^129]: A 4. mellékletben foglalt táblázat 112. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^130]: A 4. mellékletben foglalt táblázat 113. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^131]: A 4. mellékletben foglalt táblázat 114. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^132]: A 4. mellékletben foglalt táblázat 115. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^133]: A 4. mellékletben foglalt táblázat 116. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^134]: A 4. mellékletben foglalt táblázat 117. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^135]: A 4. mellékletben foglalt táblázat 118. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^136]: A 4. mellékletben foglalt táblázat 119. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^137]: A 4. mellékletben foglalt táblázat 120. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^138]: A 4. mellékletben foglalt táblázat 121. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^139]: A 4. mellékletben foglalt táblázat 122. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^140]: A 4. mellékletben foglalt táblázat 123. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^141]: A 4. mellékletben foglalt táblázat 124. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^142]: A 4. mellékletben foglalt táblázat 125. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^143]: A 4. mellékletben foglalt táblázat 126. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^144]: A 4. mellékletben foglalt táblázat 127. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^145]: A 4. mellékletben foglalt táblázat 128. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^146]: A 4. mellékletben foglalt táblázat 129. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^147]: A 4. mellékletben foglalt táblázat 130. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^148]: A 4. mellékletben foglalt táblázat 131. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^149]: A 4. mellékletben foglalt táblázat 132. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^150]: A 4. mellékletben foglalt táblázat 133. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^151]: A 4. mellékletben foglalt táblázat 134. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^152]: A 4. mellékletben foglalt táblázat 135. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^153]: A 4. mellékletben foglalt táblázat 136. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^154]: A 4. mellékletben foglalt táblázat 137. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^155]: A 4. mellékletben foglalt táblázat 138. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^156]: A 4. mellékletben foglalt táblázat 139. sora a 24/2024. (IV. 9.) AM rendelet 32. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^157]: Az 5. melléklet 3.4.3.15. pontját a 24/2024. (IV. 9.) AM rendelet 32. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 35. §-át.

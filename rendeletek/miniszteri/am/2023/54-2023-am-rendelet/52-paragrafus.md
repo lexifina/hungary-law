@@ -1,19 +1,15 @@
 ## 26. Kamatfizetési kötelezettség
 
-52. § (1) A kedvezményezett
-
-a) késedelmi kamatot fizet a KAP törvény 37. § (5) bekezdése szerint, és
-
-b) kamatot fizet, ha intézkedésben való jogosulatlan részvétel megállapítása miatt a támogatás visszafizetésére való kötelezettség terheli.
+52. § (1)[^98] A kedvezményezett a KAP törvény 37. § (4) és (5) bekezdése szerint késedelmi kamatot fizet.
 
 (2) A kamat mértéke a kamatszámítás időszakának minden napjára a mindenkori jegybanki alapkamat kétszeresének 365-öd része.
 
-(3) A kamatszámítás kezdő időpontja – ha az Európai Unió kötelezően alkalmazandó jogi aktusa másként nem rendelkezik – az (1) bekezdés a) pontja szerinti esetben a teljesítési határidő utolsó napját követő nap – részleges teljesítés esetén a hátralékra számítva –, az (1) bekezdés b) pontja szerinti esetben a jogosulatlanul igénybe vett támogatásnak a kedvezményezett fizetési számláján történő jóváírás napja.
+(3)[^99] A kamatszámítás kezdő időpontja a teljesítési határidő utolsó napját követő nap, részleges teljesítés esetén a hátralékra számítva.
 
-(4) A kamatszámítás záró időpontja
-
-a) az (1) bekezdés a) pontja szerinti esetben a visszafizetés napja,
-
-b) az (1) bekezdés b) pontja szerinti esetben az intézkedésben való jogosulatlan részvételt megállapító döntés kelte előtt visszafizetett támogatás tekintetében a visszafizetés napja, egyéb esetekben az intézkedésben való jogosulatlan részvételt megállapító döntés kelte.
+(4)[^100] A kamatszámítás záró időpontja a visszafizetés napja.
 
 (5) Késedelmi kamat felszámítása esetén a késedelmi kamat alapját támogatásonként külön-külön kell figyelembe venni. Utólagos ellenőrzés során megállapított késedelmi kamat legfeljebb három évre számítható fel. A kedvezményezett a késedelmi kamatot saját számítása szerint, az értesítéstől függetlenül is megfizetheti.
+
+[^98]: Az 52. § (1) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^99]: Az 52. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^100]: Az 52. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 22. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
