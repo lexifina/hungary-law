@@ -1,0 +1,5 @@
+6. § (1) A 9. § (1) bekezdés d) pontja esetében a Kincstár a helyszíni vizsgálatra kijelölt mezőgazdasági termelők esetében vizsgálja, hogy az állattartó tejtermelő tevékenységének keretében nem folytat-e az 5. § (1) bekezdése szerinti engedélyekben foglaltaktól lényegesen eltérő gyakorlatot, és ez a tevékenysége nem jelent-e súlyos kockázatot a víz minőségére.
+
+(2) Ha a Kincstár a helyszíni vizsgálat során az 5. § (1) bekezdése szerinti engedélyben foglaltaktól lényegesen eltérő és ezáltal a víz minőségére súlyos kockázatot jelentő gyakorlatot állapít meg, az érintett mezőgazdasági termelő tárgyévben az adott támogatásra nem jogosult. Ha a mezőgazdasági termelő tevékenysége az 5. § (1) bekezdése szerinti engedélyhez kötött, de nem rendelkezik azzal az engedéllyel, akkor a Kincstár az általa folytatott helyszíni vizsgálat keretében állapítja meg, hogy a gyakorlat súlyos kockázatot jelent-e a víz minőségére.
+
+(3) Ha a mezőgazdasági termelő tevékenységét az 5. § (1) bekezdése szerinti engedély nélkül jogosult folytatni, akkor úgy kell tekinteni, hogy tevékenysége nem jelent súlyos kockázatot a víz minőségére.
