@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazásában
 
-a)[^1] mezőgazdasági termelő: az Európai Mezőgazdasági Garanciaalapból, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból és a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 13/2023. (IV. 19.) AM rendelet 1. § 44. pontja szerinti termelő;
+a)[^1] mezőgazdasági termelő: az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet 1. § 43. pontja szerinti termelő;
 
 b)[^2] történelmi bázis: a referencia időszakra vonatkozóan meghatározott termelési egység (állatlétszám, terület, tonna, kg) mértéke;
 
@@ -26,7 +26,7 @@ i) átírás: átruházás, ideiglenes átengedés, öröklés, jogutódlás, le
 
 j)[^5] teljes gazdaság:
 
-ja)[^6] a mezőgazdasági termelő által hasznosított, Magyarország területén fekvő, és az Európai Mezőgazdasági Garancia Alapból finanszírozott egységes területalapú támogatás, valamint az ahhoz kapcsolódó átmeneti nemzeti támogatás igénybevételével kapcsolatos egyes kérdésekről szóló 5/2015. (II. 19.) FM rendelet 2. §-a alapján bejelentett mezőgazdasági területek összessége,
+ja)[^6] a mezőgazdasági termelő által hasznosított, Magyarország területén fekvő és a Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet [a továbbiakban: 18/2024. (IV. 9.) AM rendelet] 3. §-a alapján bejelentett mezőgazdasági területek összessége,
 
 jb) a mezőgazdasági termelő rendelkezésére álló egyéni támogatási jogosultság és kvóta összessége, valamint
 
@@ -34,10 +34,10 @@ jc) minden olyan magyarországi tenyészet, amelynek a mezőgazdasági termelő 
 
 k)[^7] ENAR nyilvántartás: a szarvasmarha-fajok egyedeinek jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 99/2002. (XI. 5.) FVM rendeletben, illetve a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 182/2009. (XII. 30.) FVM rendeletben szereplő nyilvántartás.
 
-[^1]: Az 1. § a) pontja a 20/2023. (IV. 19.) AM rendelet 11. §-ával megállapított szöveg.
+[^1]: Az 1. § a) pontja a 25/2024. (IV. 9.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § b) pontja a 20/2023. (IV. 19.) AM rendelet 11. §-ával megállapított szöveg.
 [^3]: Az 1. § c) pontja az 52/2015. (IX. 7.) FM rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § d) pontja a 10/2020. (IV. 3.) AM rendelet 1. §-a szerint módosított szöveg.
 [^5]: Az 1. § j) pontja a 37/2009. (IV. 3.) FVM rendelet 54. § (2) bekezdésével megállapított szöveg.
-[^6]: Az 1. § j) pont ja) alpontja az 5/2012. (II. 10.) VM rendelet 32. §-a, az 52/2015. (IX. 7.) FM rendelet 5. §-a szerint módosított szöveg.
+[^6]: Az 1. § j) pont ja) alpontja a 25/2024. (IV. 9.) AM rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § k) pontja a 20/2023. (IV. 19.) AM rendelet 15. § a) pontja szerint módosított szöveg.

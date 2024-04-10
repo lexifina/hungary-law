@@ -1,3 +1,3 @@
-7. §[^33]
+7. §[^35]
 
-[^33]: A 7. §-t a 27/2013. (IV. 26.) VM rendelet 5. §-a hatályon kívül helyezte.
+[^35]: A 7. §-t a 27/2013. (IV. 26.) VM rendelet 5. §-a hatályon kívül helyezte.
