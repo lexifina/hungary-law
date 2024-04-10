@@ -1,4 +1,4 @@
-## 17.[^70] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 17.[^64] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 27. § (1) Az épületek energiahatékonyságának kivételével energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiamegtakarítást eredményező beruházáshoz nyújtható.
 
@@ -36,4 +36,4 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátáskeresked
 
 (9) A (4)–(8) bekezdés esetén nem számolható el a magasabb szintű energiahatékonyság eléréséhez közvetlenül nem kapcsolódó költség.
 
-[^70]: A 17. alcím (27–27/A. §) a 8/2023. (XII. 28.) MVM rendelet 16. §-ával megállapított szöveg.
+[^64]: A 17. alcím (27–27/A. §) a 8/2023. (XII. 28.) MVM rendelet 16. §-ával megállapított szöveg.

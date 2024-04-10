@@ -1,18 +1,15 @@
 ## 5. A csekély összegű közszolgáltatási támogatás
 
-9. § (1)[^48] Egy vállalkozás részére odaítélt, a 2023/2832/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 750 000 eurónak megfelelő forintösszeget.
+9. §[^42] (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére a 2023/2832/EU bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve a 2023/2832/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2)[^49] Nem lehet kedvezményezett az a vállalkozás, amely a támogatást a 2023/2832/EU bizottsági rendelet 1. cikk (2) bekezdésében meghatározott kivételek szerint használná fel.
+(2) A kedvezményezettnek a 2023/2832/EU bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(3) A támogatás nem halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+(3) A támogatást nyújtó a kedvezményezett részére a 2023/2832/EU bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva a 2023/2832/EU bizottsági rendeletre.
 
-(4) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
+(4) A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a vonatkozó bizottsági rendeletekben foglalt felső támogatási határok közül a legmagasabb felső határig halmozható.
 
-(5) Az (1) bekezdés szerinti felső határ tekintetében a támogatás odaítélésekor az adott pénzügyi évben, valamint az azt megelőző két pénzügyi évben odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(5) A támogatás halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(6) A támogatás más csekély összegű támogatásokról szóló bizottsági rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+(6) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-(7) A támogatás kedvezményezettjének a (4)–(6) bekezdésben meghatározott feltételek teljesítésének megállapítására alkalmas módon nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
-
-[^48]: A 9. § (1) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 7. és 8. pontja szerint módosított szöveg.
-[^49]: A 9. § (2) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 7. pontja szerint módosított szöveg.
+[^42]: A 9. § a 4/2024. (IV. 9.) MVM rendelet 3. §-ával megállapított szöveg.

@@ -14,6 +14,6 @@ kell levonni az elszámolható költségekből.
 
 (5) A (3) bekezdésben meghatározottak teljesítése – a (4) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
-(6)[^80] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
+(6)[^74] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege az (1)–(5) bekezdésben meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.
 
-[^80]: A 37. § (6) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 17. pontja szerint módosított szöveg.
+[^74]: A 37. § (6) bekezdése a 8/2023. (XII. 28.) MVM rendelet 24. § 17. pontja szerint módosított szöveg.

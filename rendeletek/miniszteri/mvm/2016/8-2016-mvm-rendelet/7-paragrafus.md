@@ -1,4 +1,4 @@
-7. §[^40] E rendelet alapján
+7. §[^39] E rendelet alapján
 
 a) az e rendeletben szereplő, a 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2027. június 30-ig,
 
@@ -10,4 +10,4 @@ d) a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben
 
 lehet támogatási döntést hozni.
 
-[^40]: A 7. § a 8/2023. (XII. 28.) MVM rendelet 6. §-ával megállapított szöveg.
+[^39]: A 7. § a 8/2023. (XII. 28.) MVM rendelet 6. §-ával megállapított szöveg.

@@ -58,7 +58,7 @@
 
 (28)[^130] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2023. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 1/2023. (II. 20.) MvM rendelettel (a továbbiakban: Módr26.) megállapított rendelkezéseit a Módr26. hatálybalépése[^131] napján folyamatban lévő ügyekben is alkalmazni kell.
 
-(29)[^132] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2023. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 3/2023. (VI. 2.) MvM rendelettel (a továbbiakban: Módr27.) megállapított 2/A. §-át, 2/B. § 9. pontját, 40/A. § (1) bekezdését, 40/B. § (1) bekezdését, 40/F. § (4) bekezdését, 43. § f) pontját, valamint 1. melléklet 16. és 22. sorát a Módr27. hatálybalépése[^133] napján folyamatban lévő ügyekben is alkalmazni kell.
+(29)[^132] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a 2023. évi felhasználási szabályok megállapítására irányuló módosításáról szóló 3/2023. (VI. 2.) MvM rendelettel (a továbbiakban: Módr27.) megállapított 2/A. §-át, 2/B. § 9. pontját, 40/A. § (1) bekezdését, 40/B. § (1) bekezdését, 40/F. § (4) bekezdését, 43. § f) pontját a Módr27. hatálybalépése[^133] napján folyamatban lévő ügyekben is alkalmazni kell.
 
 (30)[^134] E rendeletnek a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendeletnek a népegészségügyi termékadó felajánlásokkal összefüggő módosításáról szóló 7/2023. (XII. 12.) MvM rendelettel (a továbbiakban: Módr28.) megállapított 2/B. § 1. pontját a Módr28. hatálybalépése[^135] napján folyamatban lévő ügyekben is alkalmazni kell.
 
@@ -111,7 +111,7 @@
 [^129]: A hatálybalépés időpontja 2022. október 19.
 [^130]: A 42. § (28) bekezdését az 1/2023. (II. 20.) MVM rendelet 4. §-a iktatta be.
 [^131]: A hatálybalépés időpontja 2023. február 21.
-[^132]: A 42. § (29) bekezdését a 3/2023. (VI. 2.) MVM rendelet 1. §-a iktatta be.
+[^132]: A 42. § (29) bekezdését a 3/2023. (VI. 2.) MVM rendelet 1. §-a iktatta be, szövege a 4/2024. (IV. 9.) MVM rendelet 7. § b) pontja szerint módosított szöveg.
 [^133]: A hatálybalépés időpontja 2023. június 3.
 [^134]: A 42. § (30) bekezdését a 7/2023. (XII. 12.) MVM rendelet 1. §-a iktatta be.
 [^135]: A hatálybalépés időpontja 2023. december 13.

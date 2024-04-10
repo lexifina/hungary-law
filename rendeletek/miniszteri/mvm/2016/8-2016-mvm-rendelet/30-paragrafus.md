@@ -1,6 +1,6 @@
 ## 20. Környezetvédelmi tanulmányhoz nyújtott támogatás
 
-30. §[^75] (1) A környezetvédelmi tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a 651/2014/EU bizottsági rendelet 7. szakasza szerint támogatható beruházásokhoz közvetlenül kapcsolódó tanulmányhoz vagy tanácsadási szolgáltatáshoz – ideértve az energetikai auditot is – nyújtható.
+30. §[^69] (1) A környezetvédelmi tanulmányhoz és tanácsadási szolgáltatáshoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a 651/2014/EU bizottsági rendelet 7. szakasza szerint támogatható beruházásokhoz közvetlenül kapcsolódó tanulmányhoz vagy tanácsadási szolgáltatáshoz – ideértve az energetikai auditot is – nyújtható.
 
 (2) Nem nyújtható támogatás a 2012/27/EU európai parlamenti és tanácsi irányelv szerinti, kötelezően előírt energiaaudithoz, ide nem értve a kötelezően előírt energiaauditon felül végrehajtott energiaauditot.
 
@@ -20,4 +20,4 @@ a) középvállalkozás részére készített tanulmány és nyújtott tanácsad
 
 b) kisvállalkozás részére készített tanulmány és nyújtott tanácsadási szolgáltatás esetén 20 százalékponttal növelhető.
 
-[^75]: A 30. § a 8/2023. (XII. 28.) MVM rendelet 20. §-ával megállapított szöveg.
+[^69]: A 30. § a 8/2023. (XII. 28.) MVM rendelet 20. §-ával megállapított szöveg.

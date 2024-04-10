@@ -1,6 +1,6 @@
 2/B. §[^5] Az Európai Unió működéséről szóló szerződés 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
-1.[^6] 5., 6., 7., 7a., 8., 8aa., 8b., 9., 10., 12., 13., 14., 15., 17., 19., 19a., 20. és 21. sora alapján a 2023/2831/EU bizottsági rendelet szerinti csekély összegű támogatás,
+1.[^6] 5., 6., 7., 7a., 8., 8aa., 8b., 9., 10., 12., 13., 15., 19., 19a., 20. és 21. sora alapján a 2023/2831/EU bizottsági rendelet szerinti csekély összegű támogatás,
 
 2. 5., 6., 7., 9., 10., 14., 15., 19a. és 21. sora alapján a 651/2014/EU bizottsági rendelet 53. cikke szerinti, a kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
@@ -21,6 +21,6 @@
 nyújtható.
 
 [^5]: A 2/B. §-t a 2/2022. (I. 21.) MvM rendelet 1. §-a iktatta be, szövege az 1/2023. (II. 20.) MVM rendelet 2. §-ával megállapított szöveg.
-[^6]: A 2/B. § 1. pontja a 7/2023. (XII. 12.) MVM rendelet 3. §-a, a 8/2023. (XII. 28.) MVM rendelet 24. § 1. pontja szerint módosított szöveg.
+[^6]: A 2/B. § 1. pontja a 7/2023. (XII. 12.) MVM rendelet 3. §-a, a 8/2023. (XII. 28.) MVM rendelet 24. § 1. pontja, a 4/2024. (IV. 9.) MVM rendelet 7. § a) pontja szerint módosított szöveg.
 [^7]: A 2/B. § 7. pontja a 8/2023. (XII. 28.) MVM rendelet 1. §-ával megállapított szöveg.
 [^8]: A 2/B. § 9. pontja a 3/2023. (VI. 2.) MvM rendelet 3. § a) pontja szerint módosított szöveg.

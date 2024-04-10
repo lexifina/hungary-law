@@ -18,15 +18,15 @@ növelhető.
 
 a) az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
-b)[^66] az oktatók és a képzésben részt vevők közvetlenül a képzési projekthez kapcsolódó működési költsége (különösen a közvetlenül a projekthez kapcsolódó útiköltség, szállásköltség, anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
+b)[^60] az oktatók és a képzésben részt vevők közvetlenül a képzési projekthez kapcsolódó működési költsége (különösen a közvetlenül a projekthez kapcsolódó útiköltség, szállásköltség, anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
 c) a képzési projekthez kapcsolódó tanácsadás költsége,
 
 d) a képzésben résztvevők személyi jellegű ráfordításai és az általános közvetett költségek (például adminisztrációs költségek, bérleti díj, rezsi költségek) azokra az órákra vonatkozóan, amikor a képzésben résztvevők részt vesznek a képzésen,
 
-e)[^67]
+e)[^61]
 
 (5) Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^66]: A 22. § (4) bekezdés b) pontja a 17/2022. (X. 18.) MVM rendelet 8. §-ával megállapított szöveg.
-[^67]: A 22. § (4) bekezdés e) pontját a 17/2022. (X. 18.) MVM rendelet 13. §-a hatályon kívül helyezte.
+[^60]: A 22. § (4) bekezdés b) pontja a 17/2022. (X. 18.) MVM rendelet 8. §-ával megállapított szöveg.
+[^61]: A 22. § (4) bekezdés e) pontját a 17/2022. (X. 18.) MVM rendelet 13. §-a hatályon kívül helyezte.

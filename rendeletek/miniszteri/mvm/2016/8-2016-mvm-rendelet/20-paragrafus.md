@@ -1,6 +1,6 @@
 ## 12. A kis- és középvállalkozásnak nyújtott innovációs támogatás
 
-20. §[^64] (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében elszámolható
+20. §[^58] (1) A kis- és középvállalkozásnak nyújtott innovációs támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében elszámolható
 
 a) a szabadalmak és egyéb immateriális javak megszerzésének, érvényesítésének és védelmének költsége,
 
@@ -12,4 +12,4 @@ c) innovációs tanácsadás és innovációs támogató szolgáltatás költsé
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-áig növelhető, ha az innovációs tanácsadáshoz és innovációs támogató szolgáltatáshoz nyújtott támogatás összege nem haladja meg három év alatt a 220 000 eurónak megfelelő forintösszeget.
 
-[^64]: A 20. § a 8/2023. (XII. 28.) MVM rendelet 15. §-ával megállapított szöveg.
+[^58]: A 20. § a 8/2023. (XII. 28.) MVM rendelet 15. §-ával megállapított szöveg.
