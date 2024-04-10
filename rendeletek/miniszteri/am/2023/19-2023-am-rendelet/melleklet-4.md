@@ -134,16 +134,18 @@
 
 | 67 | 032201 | Édesvízihal-gazdálkodás |
 
-4. melléklet a 19/2023. (IV. 19.) AM rendelethez
+4. melléklet a 19/2023. (IV. 19.) AM rendelethez[^6]
 
-A fiatal mezőgazdasági termelői támogatásra vonatkozó 2023–2027. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
+A fiatal mezőgazdasági termelői támogatásra vonatkozó 2023. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
 
-|  | A | B | C | D | E | F |
+|  | A | B |
 
-| 1. | Igénylés éve | 2023 | 2024 | 2025 | 2026 | 2027 |
+| 1. | Igénylés éve | 2023 |
 
-| 2. | Támogatási keretösszeg | 18 690 804 | 18 690 804 | 18 690 804 | 18 690 804 | 18 690 804 |
+| 2. | Támogatási keretösszeg | 18 690 804 |
 
-| 3. | Fajlagos támogatási minimum | 78,67 | 78,67 | 78,67 | 78,67 | 78,67 |
+| 3. | Fajlagos támogatási minimum | 78,67 |
 
-| 4. | Fajlagos támogatási maximum | 236,00 | 236,00 | 236,00 | 236,00 | 236,00 |
+| 4. | Fajlagos támogatási maximum | 236,00 |
+
+[^6]: A 4. melléklet a 25/2024. (IV. 9.) AM rendelet 13. §-ával megállapított szöveg.
