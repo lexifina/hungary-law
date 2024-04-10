@@ -1,3 +1,3 @@
-2. § A Korm. rendelet a következő 25/A. §-sal egészül ki:
+2. §[^3]
 
-„25/A. § E rendeletnek a harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosításáról szóló 79/2024. (IV. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 2/B. §-a nem érinti a Módr. hatálybalépése előtt létrehozott foglalkoztatásra irányuló jogviszonyokat.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
