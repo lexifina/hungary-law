@@ -1,0 +1,3 @@
+9. § (1) A Kincstár jogosult felülvizsgálni a 4. § (1) bekezdés a), c), g) és i) pontja szerinti adatok helytállóságát, és szükség szerint a földmérési és térinformatikai államigazgatási szervnél kezdeményezni azok módosítását.
+
+(2) A földmérési és térinformatikai államigazgatási szerv a 4. § (1) bekezdés a)–d) és g)–j) pontja szerinti adatok helytállósága tekintetében hivatalból indított felülvizsgálatot jogosult kezdeményezni a Kincstárnál. A felülvizsgálat eredményeként szükségessé váló adatmódosítás Kincstár általi jóváhagyását követően az adatok MePAR-ba történő átvezetéséről a földmérési és térinformatikai államigazgatási szerv gondoskodik.
