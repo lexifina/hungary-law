@@ -1,0 +1,3 @@
+29. § A KAP vhr. 92. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A beruházási támogatás összegét a kettős könyvvezetésre kötelezett kedvezményezettnek tőketartalékba (lekötött tartalékba) kell helyezni, nem kettős könyvvezetésre kötelezett kedvezményezettnek az egyéb bevételek között kell elszámolni saját könyvelésében. Ha a tőketartalékba helyezett támogatás tekintetében a kedvezményezettnek támogatás jogosulatlan igénybevétele miatt visszafizetési kötelezettsége keletkezik, a visszafizetett támogatás összegét a tőketartalék terhére – a lekötött tartalék megszüntetése után – kell elszámolni.”
