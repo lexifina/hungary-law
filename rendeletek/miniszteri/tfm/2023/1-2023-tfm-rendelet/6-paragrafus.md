@@ -1,1 +1,0 @@
-6. § Méltatlanná válik a miniszter által adományozott elismerésre az, akit szándékos bűncselekmény elkövetése miatt jogerősen szabadságvesztésre ítéltek. A méltatlanná vált személytől a miniszter az elismerést visszavonja.
