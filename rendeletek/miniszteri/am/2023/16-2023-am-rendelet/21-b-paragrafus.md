@@ -1,4 +1,4 @@
-## 9/B.[^9] Burley-dohány termesztés támogatása
+## 9/B.[^10] Burley-dohány termesztés támogatása
 
 21/B. § (1) A Burley-dohány termesztés támogatása termeléstől elválasztva, történelmi bázisjogosultság és a szerkezetátalakítási program teljesítése alapján kerül megállapításra.
 
@@ -6,4 +6,4 @@
 
 (3) A Burley-dohány termesztés támogatásra is alkalmazni kell a 21/A. § (3)–(5) bekezdésében foglaltakat.
 
-[^9]: A 9/B. alcímet (21/B. §-t) a 3/2024. (I. 30.) AM rendelet 7. §-a iktatta be.
+[^10]: A 9/B. alcímet (21/B. §-t) a 3/2024. (I. 30.) AM rendelet 7. §-a iktatta be.

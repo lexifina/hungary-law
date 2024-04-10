@@ -1,14 +1,14 @@
-|  | A | B | C | D | E |
+|  | A | B | C |
 
-| 1. | Igénylés éve | 2023–2026 | 2027 |
+| 1. | Igénylés éve | 2023 |
 
-| 2. | Támogatási keretösszeg | 189 176 282,80 | 174 571 684,92 |
+| 2. | Támogatási keretösszeg | 189 176 282,80 |
 
-| 3. | A támogatható terület közötti sáv (hektár) | 1,0000–10,0000 | 10,0001–150,0000 | 1,0000–10,0000 | 10,0001–150,0000 |
+| 3. | A támogatható terület közötti sáv (hektár) | 1,0000–10,0000 | 10,0001–150,0000 |
 
-| 4. | Fajlagos támogatási összeg minimuma | 55,99 | 28,00 | 51,67 | 25,84 |
+| 4. | Fajlagos támogatási összeg minimuma | 55,99 | 28,00 |
 
-| 5. | Fajlagos támogatási összeg maximuma | 103,99 | 52,00 | 95,97 | 47,98 |
+| 5. | Fajlagos támogatási összeg maximuma | 103,99 | 52,00 |
 
 3. melléklet a 16/2023. (IV. 19.) AM rendelethez
 
