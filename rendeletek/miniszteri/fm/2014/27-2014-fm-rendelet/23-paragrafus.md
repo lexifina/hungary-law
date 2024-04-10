@@ -1,6 +1,6 @@
-## 22. §[^102] E rendeletnek a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosításáról szóló 60/2020. (XII. 9.) AM rendelettel [a továbbiakban: 60/2020. (XII. 9.) AM rendelet] megállapított 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet hatálybalépésekor[^103] folyamatban lévő eljárásokban is alkalmazni kell.
+## 22. §[^103] E rendeletnek a kárenyhítési hozzájárulás megfizetésével, valamint a kárenyhítő juttatás igénybevételével kapcsolatos egyes kérdésekről szóló 27/2014. (XI. 25.) FM rendelet módosításáról szóló 60/2020. (XII. 9.) AM rendelettel [a továbbiakban: 60/2020. (XII. 9.) AM rendelet] megállapított 9. § (4a) bekezdését a 60/2020. (XII. 9.) AM rendelet hatálybalépésekor[^104] folyamatban lévő eljárásokban is alkalmazni kell.
 
-23. §[^104] A 2023. évben a 2022. kárenyhítési év tekintetében
+23. §[^105] A 2023. évben a 2022. kárenyhítési év tekintetében
 
 a) a 10. § (4) bekezdésétől eltérően
 
@@ -16,6 +16,6 @@ c) az agrárkár-enyhítési szervhez a 13. § (1) bekezdése szerinti adatoknak
 
 d) a 13. § (2) bekezdésétől eltérően az agrárkár-enyhítési szerv a kifizetési tervet 2023. március 7-ig küldi meg a miniszter részére.
 
-[^102]: A 22. §-t a 60/2020. (XII. 9.) AM rendelet 7. §-a iktatta be.
-[^103]: A hatálybalépés időpontja 2020. december 17.
-[^104]: A 23. §-t a 158/2022. (XII. 27.) AM rendelet 9. §-a iktatta be.
+[^103]: A 22. §-t a 60/2020. (XII. 9.) AM rendelet 7. §-a iktatta be.
+[^104]: A hatálybalépés időpontja 2020. december 17.
+[^105]: A 23. §-t a 158/2022. (XII. 27.) AM rendelet 9. §-a iktatta be.

@@ -72,19 +72,21 @@ b) aszály, belvíz, felhőszakadás, jégeső, mezőgazdasági árvíz, őszi f
 
 a) a nagyvízi mederben fekvő terület vonatkozásában mezőgazdasági árvízkárra és belvízkárra,
 
-b)[^27] a mezőgazdasági termelő által az egységes kérelem felületen a tárgyév július 15-ét követően bejelentett kijavítással, részleges vagy teljes visszavonással érintett területre, növénykultúra módosításából adódó területváltozásra, valamint a tárgyév július 15-ét követően ténylegesen elvetett másodvetett növénykultúrára.
+b)[^27] a mezőgazdasági termelő által az egységes kérelem felületen a tárgyév július 15-ét követően bejelentett kijavítással, részleges vagy teljes visszavonással érintett területre, növénykultúra módosításából adódó területváltozásra, valamint a tárgyév július 15-ét követően ténylegesen elvetett és bejelentett másodvetett növénykultúrára.
 
-(9)[^28] A (8) és (8a) bekezdésben meghatározott károk nem keletkeztetnek kárenyhítő juttatás igénybevételére vonatkozó jogosultságot.
+c)[^28] a mezőgazdasági termelő által az egységes kérelem felületen, parlagon hagyott területként bejelentett főnövény növénykultúrára.
 
-(10)[^29] A tárgyévet megelőzően elvetett őszi vetésű szántóföldi növénykultúrák esetében a kárbejelentést legkésőbb tárgyév augusztus 31-éig kell megtenni. A tárgyévben elvetett őszi vetésű szántóföldi növénykultúrák vonatkozásában – a tárgyévi kárenyhítő juttatás összegének meghatározásánál – a tárgyév október 31-éig bekövetkezett mezőgazdasági káreseményt tárgyév november 1. napján bekövetkezettnek kell tekinteni.
+(9)[^29] A (8) és (8a) bekezdésben meghatározott károk nem keletkeztetnek kárenyhítő juttatás igénybevételére vonatkozó jogosultságot.
 
-(11)[^30] A mezőgazdasági termelő a kárbejelentést a kárbejelentéssel érintett terület egy részére vagy egészére vonatkozóan a kárbejelentés tárgyában hozott döntés meghozataláig szankciómentesen visszavonhatja az agrárkár-megállapító szervnél az agrárkár-megállapító szerv által a honlapján közzétett nyomtatványon.
+(10)[^30] A tárgyévet megelőzően elvetett őszi vetésű szántóföldi növénykultúrák esetében a kárbejelentést legkésőbb tárgyév augusztus 31-éig kell megtenni. A tárgyévben elvetett őszi vetésű szántóföldi növénykultúrák vonatkozásában – a tárgyévi kárenyhítő juttatás összegének meghatározásánál – a tárgyév október 31-éig bekövetkezett mezőgazdasági káreseményt tárgyév november 1. napján bekövetkezettnek kell tekinteni.
 
-(12)[^31] A mezőgazdasági termelő az (1)–(1c) bekezdés szerinti kárbejelentést a ültetvény esetében kizárólag a termőre fordult, a káresemény bekövetkezésének időpontjában még termő, vármegyei referenciahozam leadására képes és szakszerűen művelt területen termesztett ültetvényre jogosult megtenni.
+(11)[^31] A mezőgazdasági termelő a kárbejelentést a kárbejelentéssel érintett terület egy részére vagy egészére vonatkozóan a kárbejelentés tárgyában hozott döntés meghozataláig szankciómentesen visszavonhatja az agrárkár-megállapító szervnél az agrárkár-megállapító szerv által a honlapján közzétett nyomtatványon.
 
-(13)[^32] Termőre fordult ültetvénynek minősül az az ültetvény, amelyben a termés hozatalára képes azonos fajhoz tartozó egyedek aránya eléri a 70%-ot a kárbejelentéssel érintett területen alkalmazott termesztéstechnológia alapján elvi szinten megállapítható legmagasabb egyedszámhoz képest.
+(12)[^32] A mezőgazdasági termelő az (1)–(1c) bekezdés szerinti kárbejelentést a ültetvény esetében kizárólag a termőre fordult, a káresemény bekövetkezésének időpontjában még termő, vármegyei referenciahozam leadására képes és szakszerűen művelt területen termesztett ültetvényre jogosult megtenni.
 
-(14)[^33] Szakszerűen művelt területnek minősül az a terület, amelyen a vegetációs időszaknak megfelelő növényápolási, növényvédelmi és gyomszabályozási munkákat megfelelően elvégezték, ideértve az adott növénykultúra művelésmódjának megfelelő metszést is.
+(13)[^33] Termőre fordult ültetvénynek minősül az az ültetvény, amelyben a termés hozatalára képes azonos fajhoz tartozó egyedek aránya eléri a 70%-ot a kárbejelentéssel érintett területen alkalmazott termesztéstechnológia alapján elvi szinten megállapítható legmagasabb egyedszámhoz képest.
+
+(14)[^34] Szakszerűen művelt területnek minősül az a terület, amelyen a vegetációs időszaknak megfelelő növényápolási, növényvédelmi és gyomszabályozási munkákat megfelelően elvégezték, ideértve az adott növénykultúra művelésmódjának megfelelő metszést is.
 
 [^11]: A 4. § (1) bekezdése a 60/2020. (XII. 9.) AM rendelet 8. § a) pontja szerint módosított szöveg.
 [^12]: A 4. § (1a) bekezdését a 36/2016. (V. 13.) Fm rendelet 1. §-a iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § b) pontja szerint módosított szöveg.
@@ -102,10 +104,11 @@ b)[^27] a mezőgazdasági termelő által az egységes kérelem felületen a tá
 [^24]: A 4. § (7) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § a) pontja szerint módosított szöveg.
 [^25]: A 4. § (8) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^26]: A 4. § (8a) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (4) bekezdése iktatta be.
-[^27]: A 4. § (8a) bekezdés b) pontja a 31/2023. (VII. 14.) AM rendelet 2. §-ával megállapított szöveg.
-[^28]: A 4. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § c) pontja szerint módosított szöveg.
-[^29]: A 4. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 1. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^30]: A 4. § (11) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdése iktatta be.
-[^31]: A 4. § (12) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be, szövege a 43/2021. (XI. 29.) AM rendelet 6. § a) pontja, a 138/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
-[^32]: A 4. § (13) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
-[^33]: A 4. § (14) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
+[^27]: A 4. § (8a) bekezdés b) pontja a 31/2023. (VII. 14.) AM rendelet 2. §-ával megállapított, a 25/2024. (IV. 9.) AM rendelet 15. §-a szerint módosított szöveg.
+[^28]: A 4. § (8a) bekezdés c) pontját a 25/2024. (IV. 9.) AM rendelet 14. §-a iktatta be.
+[^29]: A 4. § (9) bekezdését az 54/2015. (IX. 16.) FM rendelet 6. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 8. § c) pontja szerint módosított szöveg.
+[^30]: A 4. § (10) bekezdését a 10/2019. (IV. 1.) AM rendelet 1. § (2) bekezdése iktatta be, szövege a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^31]: A 4. § (11) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (5) bekezdése iktatta be.
+[^32]: A 4. § (12) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be, szövege a 43/2021. (XI. 29.) AM rendelet 6. § a) pontja, a 138/2022. (XII. 27.) AM rendelet 1. § a) pontja szerint módosított szöveg.
+[^33]: A 4. § (13) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
+[^34]: A 4. § (14) bekezdését a 60/2020. (XII. 9.) AM rendelet 2. § (6) bekezdése iktatta be.
