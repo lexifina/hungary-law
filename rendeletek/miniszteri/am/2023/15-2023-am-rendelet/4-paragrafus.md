@@ -1,6 +1,6 @@
 ## 3. A támogatás mértéke, a támogatási döntés
 
-4. § (1) A támogatásra vonatkozó 2023–2027. évi támogatási keretösszegeket, valamint a legkisebb és legmagasabb fajlagos támogatási összegeket a 2. melléklet tartalmazza.
+4. § (1)[^3] A támogatásra vonatkozó 2023. évi támogatási keretösszegeket, valamint a legkisebb és legmagasabb fajlagos támogatási összegeket a 2. melléklet tartalmazza.
 
 (2) A közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról, valamint az 1306/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2116 európai parlamenti és tanácsi rendelet 94. cikke szerinti árfolyamon forintban kifejezett pénzügyi keretek összege és az előleg maximálisan kifizethető fajlagos összege az e rendelet szerinti támogatáshoz kapcsolódó támogatási összegekről szóló Nemzeti Irányító Hatóság által kiadott közleményben kerül meghatározásra.
 
@@ -16,9 +16,10 @@ c) a mezőgazdasági termelőt megillető támogatás összegét és
 
 d) az esetlegesen alkalmazandó jogkövetkezményekről szóló tájékoztatást.
 
-(5)[^3] A mezőgazdasági termelő teljes támogatásra a vállalt gyakorlat teljesítésével érintett földterület után akkor jogosult, ha a mezőgazdasági üzem minden földhasználati kategóriájában teljesít összesen legalább 2 pont értékű, egységes kérelemben vállalt gyakorlatot.
+(5)[^4] A mezőgazdasági termelő teljes támogatásra a vállalt gyakorlat teljesítésével érintett földterület után akkor jogosult, ha a mezőgazdasági üzem minden földhasználati kategóriájában teljesít összesen legalább 2 pont értékű, egységes kérelemben vállalt gyakorlatot.
 
-(6)[^4] Az (5) bekezdéstől eltérően, ha kizárólag a gyakorlat alól mentesített területek vonatkozásában nem kerül sor a vállalt gyakorlatok teljesítésére, úgy a támogatás a mezőgazdasági üzem fennmaradó részére teljes összegében kifizethető.
+(6)[^5] Az (5) bekezdéstől eltérően, ha kizárólag a gyakorlat alól mentesített területek vonatkozásában nem kerül sor a vállalt gyakorlatok teljesítésére, úgy a támogatás a mezőgazdasági üzem fennmaradó részére teljes összegében kifizethető.
 
-[^3]: A 4. § (5) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § a) pontja szerint módosított szöveg.
-[^4]: A 4. § (6) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § b) pontja szerint módosított szöveg.
+[^3]: A 4. § (1) bekezdése a 25/2024. (IV. 9.) AM rendelet 6. §-a szerint módosított szöveg.
+[^4]: A 4. § (5) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 4. § (6) bekezdése az 58/2023. (X. 30.) AM rendelet 10. § b) pontja szerint módosított szöveg.

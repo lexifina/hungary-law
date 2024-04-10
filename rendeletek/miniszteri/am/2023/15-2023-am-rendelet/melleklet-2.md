@@ -48,6 +48,8 @@
 
 | 24. | Karbamid műtrágya környezetbarát használata ültetvényekben | 1 |
 
-2. melléklet a 15/2023. (IV. 19.) AM rendelethez
+2. melléklet a 15/2023. (IV. 19.) AM rendelethez[^22]
 
-2023–2027. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
+2023. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
+
+[^22]: A 2. melléklet a 25/2024. (IV. 9.) AM rendelet 7. §-ával megállapított szöveg.

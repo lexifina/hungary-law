@@ -18,6 +18,6 @@ b) a tárgyévet megelőző évben állandó gyepterületként hasznosított ter
 
 c) a vállalásba bevont területek Natura 2000 fedvényen helyezkednek el.
 
-d)[^10] a kérelmező nem rendelkezik legalább egy, állandó gyeppel hasznosított, egységes kérelemben bejelentett táblával.
+d)[^11] a kérelmező nem rendelkezik legalább egy, állandó gyeppel hasznosított, egységes kérelemben bejelentett táblával.
 
-[^10]: A 18. § (6) bekezdés d) pontját az 56/2023. (IX. 27.) AM rendelet 25. §-a iktatta be.
+[^11]: A 18. § (6) bekezdés d) pontját az 56/2023. (IX. 27.) AM rendelet 25. §-a iktatta be.

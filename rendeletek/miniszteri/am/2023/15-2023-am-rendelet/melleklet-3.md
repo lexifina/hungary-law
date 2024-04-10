@@ -1,12 +1,12 @@
-|  | A | B | C |
+|  | A | B |
 
-| 1. | Igénylés éve | 2023–2026 | 2027 |
+| 1. | Igénylés éve | 2023 |
 
-| 2. | Támogatási keretösszeg | 202 125 000 | 186 500 000 |
+| 2. | Támogatási keretösszeg | 246 226 481 |
 
-| 3. | Fajlagos támogatási összeg minimuma | 60,64 | 55,95 |
+| 3. | Fajlagos támogatási összeg minimuma | 60,64 |
 
-| 4. | Fajlagos támogatási összeg maximuma | 105,10 | 96,98 |
+| 4. | Fajlagos támogatási összeg maximuma | 105,10 |
 
 3. melléklet a 15/2023. (IV. 19.) AM rendelethez
 

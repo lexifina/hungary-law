@@ -1,6 +1,6 @@
 ## 17. Pásztoroló, illetve szakaszos legeltetés
 
-19. § (1)[^11] A pásztoroló, illetve szakaszos legeltetésgyakorlat (a továbbiakban: gyakorlat11) keretében a mezőgazdasági termelőnek tárgyév április 24-től október 30-áig (a továbbiakban: legeltetési időszak) folyamatosan pásztoroló, illetve szakaszos legeltetést kell folytatnia saját állatállománnyal a mezőgazdasági üzem adott földhasználati kategóriába tartozó gyepterülete legalább 50%-án, legeltetési terv készítése mellett.
+19. § (1)[^12] A pásztoroló, illetve szakaszos legeltetésgyakorlat (a továbbiakban: gyakorlat11) keretében a mezőgazdasági termelőnek tárgyév április 24-től október 30-áig (a továbbiakban: legeltetési időszak) folyamatosan pásztoroló, illetve szakaszos legeltetést kell folytatnia saját állatállománnyal a mezőgazdasági üzem adott földhasználati kategóriába tartozó gyepterülete legalább 50%-án, legeltetési terv készítése mellett.
 
 (2) A gyakorlat11 Natura 2000 gyep és egyéb gyep terület tekintetében is választható.
 
@@ -20,4 +20,4 @@ a) a gyakorlat11 teljesítésébe bevont táblákat és
 
 b) a gyakorlat11 teljesítésébe bevont táblánként a legeltetés tervezett típusát, valamint a legeltetni tervezett állatfajt.
 
-[^11]: A 19. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § d) pontja szerint módosított szöveg.
+[^12]: A 19. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § d) pontja szerint módosított szöveg.
