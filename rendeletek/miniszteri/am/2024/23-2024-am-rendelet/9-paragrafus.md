@@ -1,5 +1,3 @@
-9. § Hatályát veszti
+9. §[^1]
 
-a) az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról és a vis maiorral összefüggő egyes miniszteri rendeletek módosításáról szóló 94/2015. (XII. 23.) FM rendelet, továbbá
-
-b) az Európai Mezőgazdasági Vidékfejlesztési Alapból, valamint az Európai Tengerügyi és Halászati Alapból finanszírozott intézkedések megvalósulásának időtartama alatt, elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról szóló 57/2015. (XII. 23.) MvM rendelet.
+[^1]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
