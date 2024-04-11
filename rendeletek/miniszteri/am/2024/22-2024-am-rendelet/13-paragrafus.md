@@ -1,1 +1,3 @@
-13. § Hatályát veszti a Mezőgazdasági Parcella Azonosító Rendszerről szóló 71/2015. (XI. 3.) FM rendelet.
+13. §[^4]
+
+[^4]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
