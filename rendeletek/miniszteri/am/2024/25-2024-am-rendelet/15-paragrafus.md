@@ -1,3 +1,3 @@
-## „c) a mezőgazdasági termelő által az egységes kérelem felületen, parlagon hagyott területként bejelentett főnövény növénykultúrára.”
+15. §[^16]
 
-15. § A 27/2014. (XI. 25.) FM rendelet 4. § (8a) bekezdés b) pontjában az „elvetett” szövegrész helyébe az „elvetett és bejelentett” szöveg lép.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

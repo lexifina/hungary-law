@@ -1,1 +1,3 @@
-7. § Az Agro-ökológiai Programhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 15/2023. (IV. 19.) AM rendelet 2. melléklete helyébe az 1. melléklet lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

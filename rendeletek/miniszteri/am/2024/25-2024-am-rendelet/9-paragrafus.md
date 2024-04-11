@@ -1,3 +1,3 @@
-9. § (1) A 16/2023. (IV. 19.) AM rendelet 1. melléklete helyébe a 2. melléklet lép.
+9. §[^10]
 
-(2) A 16/2023. (IV. 19.) AM rendelet 2. melléklete helyébe a 3. melléklet lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-5. § Hatályát veszti a 106/2007. (IX. 24.) FVM rendelet
+5. §[^6]
 
-a) 5. § (1) bekezdésében az „és kedvezőtlen adottságú területeken történő anyajuhtartás” szövegrész, valamint
-
-b) 5. § (4) bekezdés b) pont bd) alpontja.
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A 106/2007. (IX. 24.) FVM rendelet 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(3) Az 5. § (4) bekezdés a) pontja szerinti esetben a történelmi bázis jogosultság átruházása, illetve ideiglenes átengedése esetén benyújtott átírási kérelem alapján a Kincstár csak abban az esetben és olyan mértékben vezeti át a nyilvántartásában a kérelemben szereplő mennyiségű történelmi bázist, ha az átvevőnek a történelmi bázis jogosultság átruházásával, illetve ideiglenes átengedésével rendelkezésére álló történelmi bázisa nem haladja meg az átruházási kérelem benyújtásakor az ENAR nyilvántartás szerint az összes tenyészetében található, a Közös Agrárpolitika Stratégiai Terv termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 19/2024. (IV. 9.) AM rendelet 1. § 15. pontja szerinti tejhasznú tehenenként számított 7809 litert.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

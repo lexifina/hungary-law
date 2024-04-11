@@ -1,3 +1,5 @@
 ## 5. A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 17/2023. (IV. 19.) AM rendelet módosítása
 
-10. § A termeléshez kötött közvetlen támogatások igénybevételének szabályairól szóló 17/2023. (IV. 19.) AM rendelet 2. § (2) bekezdésében a „2023–2027.” szövegrész helyébe a „2023.” szöveg lép.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
