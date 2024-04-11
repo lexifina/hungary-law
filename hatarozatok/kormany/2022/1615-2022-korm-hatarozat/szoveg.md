@@ -24,15 +24,7 @@ A Kormány az Agrár Széchenyi Kártya gazdaságban és ezen belül az agráriu
 
 | Határidő: | 2022. december 31. |
 
-5. felhívja a pénzügyminisztert, hogy a gazdaságfejlesztési miniszter kezdeményezése alapján a Program kamat-, kezességi díj-, kezelési költség- és egyéb kapcsolódó költségek biztosítása érdekében gondoskodjon
-
-a) a 2023. évben 2 580 000 000 forint forrás rendelkezésre állásáról a Gazdaságfejlesztési Minisztérium fejezet javára, valamint
-
-b) a 2024. évben 2 880 000 000 forint, a 2025. évben 2 880 000 000 forint, a 2026. évben 720 000 000 forint forrás rendelkezésre állásáról a Gazdaságfejlesztési Minisztérium fejezet javára;
-
-| Felelős: | pénzügyminiszter |
-
-| Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében, a b) alpont tekintetében az adott évi központi költségvetés tervezése során |
+5.[^2]
 
 6. felhívja a gazdaságfejlesztési minisztert, hogy a Program feltételeit az agrárgazdasági szempontok folyamatos érvényesülése érdekében az agrárpolitikáért felelős miniszter együttműködésével dolgozza ki, valamint a Program működéséről az agrárpolitikáért felelős minisztert folyamatosan tájékoztassa;
 
@@ -40,7 +32,8 @@ b) a 2024. évben 2 880 000 000 forint, a 2025. évben 2 880 000 000 forint, a 2
 
 | Határidő: | folyamatos |
 
-7.[^2]
+7.[^3]
 
 [^1]: A 3. pont az 1255/2023. (VI. 28.) Korm. határozat szerint módosított szöveg.
-[^2]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pontot az 1099/2024. (IV. 11.) Korm. határozat 4. pont a) alpontja visszavonta.
+[^3]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
