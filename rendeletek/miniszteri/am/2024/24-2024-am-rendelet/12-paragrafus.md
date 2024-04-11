@@ -1,3 +1,3 @@
-12. § A KAP vhr. 31. § (7) bekezdése helyébe a következő rendelkezés lép:
+12. §[^12]
 
-„(7) A közlés szabályai szempontjából önmagában a georeferált fénykép nem minősül iratnak.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

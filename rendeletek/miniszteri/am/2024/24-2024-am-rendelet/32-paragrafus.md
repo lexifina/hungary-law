@@ -1,3 +1,3 @@
-32. § (1) A KAP vhr. 4. melléklete az 1. melléklet szerint módosul.
+32. §[^32]
 
-(2) A KAP vhr. 5. melléklete a 2. melléklet szerint módosul.
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

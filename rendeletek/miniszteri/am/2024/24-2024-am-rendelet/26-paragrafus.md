@@ -1,7 +1,3 @@
-26. § A KAP vhr. 73. § (1) bekezdése helyébe a következő rendelkezés lép:
+26. §[^26]
 
-„(1) Kiemelt kiválasztási eljárásrendben kell dönteni a támogatási kérelemről a következő feltételek fennállása esetén:
-
-a) a Kormány döntött a kedvezményezettről, a megvalósítandó műveletről, azzal kapcsolatos szakmai elvárásokról, a támogatás összegéről és a megvalósítási határidőről, illetve
-
-b) a támogatás közfeladat megvalósítására vagy általános közérdekű feladat ellátására irányul, és nemzetgazdasági érdeket szolgál.”
+[^26]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

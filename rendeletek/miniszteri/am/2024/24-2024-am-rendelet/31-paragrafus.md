@@ -1,3 +1,3 @@
-31. § A KAP vhr. 101. §-a helyébe a következő rendelkezés lép:
+31. §[^31]
 
-„101. § Ha a beérkező helyi támogatási kérelmek száma meghaladja a tervezettet, az ügyintézési határidő egy alkalommal, legfeljebb harminc nappal meghosszabbíthat.”
+[^31]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

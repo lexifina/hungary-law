@@ -1,3 +1,3 @@
-21. § A KAP vhr. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
+21. §[^21]
 
-„(1) Ha az e rendeletben meghatározott valamely megszűnési ok bekövetkezik, a támogató megállapítja az intézkedésben való jogosulatlan részvételt, egyúttal visszavonja az agrártámogatási jogviszonyt keletkeztető döntését, és rendelkezik a már folyósított támogatás tekintetében a kedvezményezett visszafizetési kötelezettségéről.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

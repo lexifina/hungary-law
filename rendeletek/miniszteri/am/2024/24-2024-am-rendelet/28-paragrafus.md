@@ -1,3 +1,3 @@
-28. § A KAP vhr. 80. § (2) bekezdése helyébe a következő rendelkezés lép:
+28. §[^28]
 
-„(2) Az előleget kizárólag a művelet megvalósítására lehet felhasználni, és – a HACS működési költségeire nyújtott előleg kivételével – az igénylését követően benyújtott első kifizetési kérelemben annak teljes összegével el kell számolni.”
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

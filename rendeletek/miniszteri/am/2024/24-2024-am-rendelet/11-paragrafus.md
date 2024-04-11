@@ -1,9 +1,3 @@
-11. § (1) A KAP vhr. 30. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+11. §[^11]
 
-(A döntés tartalmazza legalább)
-
-## „c) a kérelem tárgyában vagy a saját hatáskörben indított eljárásban hozott támogatói rendelkezést,”
-
-(2) A KAP vhr. 30. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Ha a döntésben név-, szám- vagy más elírás, illetve számítási hiba van, a támogató a hibát az erre irányuló kérelemre vagy saját hatáskörben kijavítja, ha az érdemben nem hat ki az agrártámogatási jogviszonyra. Az így kijavított döntéssel szemben jogorvoslati kérelem benyújtásának nincs helye.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

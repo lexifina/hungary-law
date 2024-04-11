@@ -1,3 +1,3 @@
-9. § A KAP vhr. 24. §-a a következő n) ponttal egészül ki:
+9. §[^9]
 
-(A támogató a kérelmet visszautasítja, ha)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

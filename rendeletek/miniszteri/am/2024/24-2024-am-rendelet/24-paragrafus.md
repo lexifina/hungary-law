@@ -1,3 +1,3 @@
-24. § A KAP vhr. 59. §-a helyébe a következő rendelkezés lép:
+24. §[^24]
 
-„59. § Ha a jogorvoslati kérelem elbírálása során a miniszter megállapítja, hogy a jogorvoslati kérelemmel érintett döntés alapját képező másik támogatói döntés jogszabálysértő, akkor a 33. § (1) bekezdése szerinti eljárás lefolytatására hívja fel a támogatót, és annak befejezéséig a jogorvoslati kérelem elbírálására irányuló eljárást felfüggeszti.”
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

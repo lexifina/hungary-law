@@ -1,3 +1,3 @@
-27. § A KAP vhr. 78. § (1) bekezdése helyébe a következő rendelkezés lép:
+27. §[^27]
 
-„(1) Ha a kedvezményezettnek a véglegessé vált támogatási döntésben rögzített vagy bármely, az eljárás során szolgáltatott adatában változás következik be, vagy a döntésben foglalt egyéb feltételek változnak, a kedvezményezett – jogszabály vagy felhívás eltérő rendelkezése hiányában – azt a tudomására jutástól számított nyolc napon belül bejelenti a támogatónak. Ha a művelet esetében a kifizetési kérelmet az egységes kérelemben kell benyújtani, akkor a tárgyévi egységes kérelem rendeletben meghatározottak szerint kell a változásra vonatkozó bejelentéseket megtenni.”
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
