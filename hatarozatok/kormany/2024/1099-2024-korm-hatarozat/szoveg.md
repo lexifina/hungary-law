@@ -18,8 +18,6 @@ A Kormány a Széchenyi Kártya Program részét képező Agrár Széchenyi Kár
 
 | Határidő: | az adott évi központi költségvetés tervezése során |
 
-4. visszavonja
+4.[^1]
 
-a) az Agrár Széchenyi Kártyával kapcsolatos kormányzati intézkedésekről szóló 1615/2022. (XII. 13.) Korm. határozat 5. pontját,
-
-b) az agrárhitelezés kapcsán szükséges intézkedésekről szóló 1384/2023. (VIII. 30.) Korm. határozat 4. és 5. pontját.
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
