@@ -1,0 +1,15 @@
+## 7. Mezőgazdasági csekély összegű támogatás
+
+12. § (1) A kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 25 ezer eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (3a) bekezdés a) és b) pontját, (8) és (9) bekezdését, valamint 5. cikkét.
+
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+
+(3) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+
+(4) A támogatás az (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatással az (EU) 2023/2831/EU bizottsági rendelet 3. cikk (2) bekezdésében meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági termeléshez nem ítélhető meg az (EU) 2023/2831 bizottsági rendelet alapján nyújtott csekély összegű támogatás.
+
+(5) A támogatás a 717/2014/EU bizottsági rendelet szerinti halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatással a 717/2014/EU bizottsági rendeletben meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági termeléshez nem ítélhető meg a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatás.
+
+(6) A támogatás halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+
+(7) A támogatás vonatkozásában a támogatást nyújtó az Atr. 11. és 11/A. §-ában meghatározottak szerint biztosítja az (1), (5) és (6) bekezdésben foglaltak betartását.
