@@ -1,4 +1,4 @@
-1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^229]
+1. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^228]
 
 Az egyes támogatási kategóriák
 
@@ -78,6 +78,8 @@ Az egyes támogatási kategóriák
 
 4.3. Halászati csekély összegű (de minimis) támogatás (717/2014/EU bizottsági rendelet)
 
+4.4.[^229] Általános csekély összegű (de minimis) támogatás [(EU) 2023/2831 bizottsági rendelet]
+
 5. Az EUMSz 107. cikk (2) bekezdése alapján nyújtott támogatás
 
 5.1. Az EUMSz 107. cikk (2) bekezdés a) pontja alapján magánszemély fogyasztónak nyújtott szociális jellegű támogatás
@@ -86,7 +88,13 @@ Az egyes támogatási kategóriák
 
 6. Az EUMSz 107. cikk (3) bekezdés b) pontja alapján egy tagállam gazdaságában bekövetkezett komoly zavar megszüntetésére nyújtott támogatás
 
-7. Az EUMSz 107. cikk (3) bekezdés e) pontja alapján történő mentesítés
+7.[^230] Az EUMSz 107. cikk (3) bekezdése alapján nyújtott támogatás
+
+7.1. Az EUMSz 107. cikk (3) bekezdés c) pontja alapján egyes gazdasági tevékenységek vagy gazdasági területek fejlődését előmozdító támogatás
+
+7.2. Az EUMSz 107. cikk (3) bekezdés d) pontja alapján a kultúrát és a kulturális örökség megőrzését előmozdító támogatás
+
+7.3. Az EUMSz 107. cikk (3) bekezdés e) pontja alapján mentesített támogatás
 
 8. Az EUMSz 108. cikk (2) bekezdés harmadik albekezdése alapján történő rendkívüli mentesítés
 
@@ -99,6 +107,8 @@ Az egyes támogatási kategóriák
 9.3. Egyéb, a 2012/21/EU bizottsági határozat vagy az 1370/2007/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó állami támogatás
 
 9.4. A 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás
+
+9.5.[^231] Az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás
 
 10. A 800/2008/EK bizottsági rendelet alapján nyújtott támogatás
 
@@ -268,7 +278,7 @@ Az egyes támogatási kategóriák
 
 14.2.4.3. Adómentességek vagy -kedvezmények a 2003/96/EK irányelvvel összhangban (1388/2014/EU bizottsági rendelet 45. cikk)
 
-14.3.[^230] Az (EU) 2022/2473 bizottsági rendelet alapján nyújtott támogatás
+14.3.[^232] Az (EU) 2022/2473 bizottsági rendelet alapján nyújtott támogatás
 
 14.3.1. A fenntartható halászat támogatása és a vízi biológiai erőforrások helyreállításának és védelmének előmozdítása
 
@@ -360,7 +370,7 @@ Az egyes támogatási kategóriák
 
 14.3.4.10. Adómentességek vagy -kedvezmények a 2003/96/EK irányelvvel összhangban ((EU) 2022/2473 bizottsági rendelet 56. cikk)
 
-15.[^231] A 651/2014/EU bizottsági rendelet alapján 2023. december 31-ig nyújtott támogatás
+15.[^233] A 651/2014/EU bizottsági rendelet alapján 2023. december 31-ig nyújtott támogatás
 
 15.1. Regionális támogatás
 
@@ -690,7 +700,7 @@ Az egyes támogatási kategóriák
 
 16.1.3.11. Kölcsönös kockázatkezelési alapok létrehozásához nyújtott támogatás (3.11. pont)
 
-16.2.[^232] A mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2023
+16.2.[^234] A mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott állami támogatásokról szóló európai uniós iránymutatások, 2023
 
 16.2.1. Mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások részére nyújtott támogatások (1. fejezet)
 
@@ -834,7 +844,7 @@ Az egyes támogatási kategóriák
 
 16.2.3.7. kölcsönös kockázatkezelési alapok létrehozásához nyújtott támogatás (634. pont g) alpont)
 
-16.3.[^233] Az (EU) 2022/2472 bizottsági rendelet alapján nyújtott támogatás
+16.3.[^235] Az (EU) 2022/2472 bizottsági rendelet alapján nyújtott támogatás
 
 16.3.1. Az elsődleges mezőgazdasági termeléssel, a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával foglalkozó kkv-k részére nyújtott támogatások
 
@@ -1042,7 +1052,7 @@ Az egyes támogatási kategóriák
 
 18. Nem állami támogatás
 
-19.[^234] A 651/2014/EU bizottsági rendelet alapján 2024. január 1. után nyújtott támogatás
+19.[^236] A 651/2014/EU bizottsági rendelet alapján 2024. január 1. után nyújtott támogatás
 
 19.1. Regionális támogatás
 
@@ -1232,9 +1242,12 @@ Az egyes támogatási kategóriák
 
 19.16.2. Az InvestEU Alap által támogatott, üzleti alapon kínált közvetített pénzügyi termékekben foglalt támogatás (651/2014/EU 56d. és 56f. cikk)
 
-[^229]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..
-[^230]: Az 1. melléklet 14.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^231]: Az 1. melléklet 15. pontja a 639/2023. (XII. 28.) Korm. rendelet 9. § a) pontjával megállapított szöveg.
-[^232]: Az 1. melléklet 16.2. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^233]: Az 1. melléklet 16.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
-[^234]: Az 1. melléklet 19. pontját a 639/2023. (XII. 28.) Korm. rendelet 9. § a) pontja iktatta be.
+[^228]: Az 1. melléklet a 38/2016. (III. 3.) Korm. rendelet 11. § (1) bekezdés a) pontjával megállapított, a 483/2017. (XII. 28.) Korm. rendelet 2. § (1) bekezdése, a 679/2021. (XII. 3.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg..
+[^229]: Az 1. melléklet 4. pont 4.4. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
+[^230]: Az 1. melléklet 7. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^231]: Az 1. melléklet 9. pont 9.5. alpontját a 82/2024. (IV. 11.) Korm. rendelet 8. §-a iktatta be.
+[^232]: Az 1. melléklet 14.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^233]: Az 1. melléklet 15. pontja a 82/2024. (IV. 11.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^234]: Az 1. melléklet 16.2. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^235]: Az 1. melléklet 16.3. pontját a 365/2023. (VIII. 3.) Korm. rendelet 6. § a) pontja iktatta be.
+[^236]: Az 1. melléklet 19. pontját a 639/2023. (XII. 28.) Korm. rendelet 9. § a) pontja iktatta be.

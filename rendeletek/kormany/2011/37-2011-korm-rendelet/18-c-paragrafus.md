@@ -1,4 +1,4 @@
-18/C. §[^168] (1) A támogatást nyújtó a 18/A. § (1) bekezdés c) pontja, (2) bekezdés c) pontja, (3) bekezdés c) pontja és (4) bekezdés c) pontja szerinti közzétételi kötelezettség teljesítése érdekében köteles
+18/C. §[^165] (1) A támogatást nyújtó a 18/A. § (1) bekezdés c) pontja, (2) bekezdés c) pontja, (3) bekezdés c) pontja és (4) bekezdés c) pontja szerinti közzétételi kötelezettség teljesítése érdekében köteles
 
 a) megküldeni a miniszter részére a 18/D. § (1) bekezdése szerinti adatokat minden év
 
@@ -38,4 +38,4 @@ a támogatást nyújtó az adott támogatás vonatkozásában fennálló, 18/A. 
 
 (8) A 651/2014/EU bizottsági rendelet, az (EU) 2022/2472 bizottsági rendelet és az (EU) 2022/2473 bizottsági rendelet hatálya alá tartozó, adózó által érvényesített kedvezmény formájában megvalósuló támogatási programok tekintetében az állami adó- és vámhatóság a 18/A. § (1)–(4) bekezdésében említett közzétételi kötelezettség teljesítése érdekében az adózás rendjéről szóló törvény 132. §-a szerinti tartalommal és határidőben szolgáltat adatot a miniszternek.
 
-[^168]: A 18/C. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^165]: A 18/C. § a 639/2023. (XII. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
