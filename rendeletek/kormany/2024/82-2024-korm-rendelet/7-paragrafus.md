@@ -1,3 +1,3 @@
-7. § A 37/2011. (III. 22.) Korm. rendelet 38. §-a a következő i) és j) ponttal egészül ki:
+7. §[^8]
 
-(Ez a rendelet)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-5. § A 37/2011. (III. 22.) Korm. rendelet 11/A. § (10) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(10) Az 1407/2013/EU bizottsági rendelet, az 1408/2013/EU bizottsági rendelet, a 717/2014/EU bizottsági rendelet és az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó agrár- és vidékfejlesztési állami támogatás igénylésekor a kedvezményezett nyilatkozik a támogatást nyújtó szerv részére az általa, valamint a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás által a támogatás igénylését megelőző három évben igénybe vett, az 1407/2013/EU bizottsági rendelet és az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó csekély összegű támogatás mértékéről.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

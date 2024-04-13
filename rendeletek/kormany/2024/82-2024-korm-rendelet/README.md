@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-82-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-04-12 | 2024-82-20-22.1 | 82/2024. (IV. 11.) Korm. rendelet |
+| 2024-04-13 | 2024-82-20-22.2 | 2010. évi CXXX. törvény |

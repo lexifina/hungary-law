@@ -1,3 +1,3 @@
-4. § A 37/2011. (III. 22.) Korm. rendelet 11/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(3) A (2) bekezdés szerinti nyilatkozatot elektronikus úton a kifizető ügynökség által kiadott közleményben meghatározott módon kell megtenni.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
