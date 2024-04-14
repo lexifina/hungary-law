@@ -1,0 +1,1 @@
+1. § A villamos energia rendszerhasználati díjak, csatlakozási díjak és külön díjak alkalmazási szabályairól szóló 10/2016. (XI. 14.) MEKH rendelet 20. § (4) bekezdésében az „a központi fűtésről és melegvíz-szolgáltatásról szóló kormányrendelet szerinti fűtési idény alatti” szövegrész helyébe az „az október 15. és április 15. közötti időszak szerinti” szöveg lép.
