@@ -6,17 +6,17 @@
 
 2. többfázisú fogyasztásmérő berendezés,
 
-3. [^95]
+3.[^95]
 
-4. [^96]
+4.[^96]
 
-5. [^97]
+5.[^97]
 
-6. [^98]
+6.[^98]
 
-## külső behatásból eredő sérülés, rongálódás miatti cseréjéért, amennyiben az a felhasználó kizárólagos őrizetében van, vagy annak felszerelése, felhasználó részére történt átadása során az elosztó mindenben jogszabályban és az üzletszabályzatban foglaltak szerint járt el. A külön díj nem tartalmazza a cserélni szükséges berendezés utánpótlási árát, amely árat a felhasználó – a külön díjjal együtt – szintén köteles megtéríteni.
+külső behatásból eredő sérülés, rongálódás miatti cseréjéért, amennyiben az a felhasználó kizárólagos őrizetében van, vagy annak felszerelése, felhasználó részére történt átadása során az elosztó mindenben jogszabályban és az üzletszabályzatban foglaltak szerint járt el. A külön díj nem tartalmazza a cserélni szükséges berendezés utánpótlási árát, amely árat a felhasználó – a külön díjjal együtt – szintén köteles megtéríteni.
 
-(2) [^99]
+(2)[^99]
 
 [^95]: A 38. § (1) bekezdés 3. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.
 [^96]: A 38. § (1) bekezdés 4. pontját az 1/2021. (II. 10.) MEKH rendelet 10. § g) pontja hatályon kívül helyezte.

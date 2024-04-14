@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-10-20-5
 | 2023-12-17 | 2016-10-20-5Z.16 | 20/2023. (XII. 1.) MEKH rendelet |
 | 2024-01-01 | 2016-10-20-5Z.18 | 6/2017. (VII. 13.) MEKH rendelet |
 | 2024-01-27 | 2016-10-20-5Z.19 | 21/2023. (XII. 13.) MEKH rendelet |
+| 2024-04-14 | 2016-10-20-5Z.21 | 16/2019. (XII. 14.) MEKH rendelet |

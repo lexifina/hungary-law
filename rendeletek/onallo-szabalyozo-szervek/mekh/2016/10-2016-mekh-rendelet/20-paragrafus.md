@@ -26,4 +26,4 @@ után.
 
 (7) A közvilágítási elosztási díj fizetésének alapját a közvilágítási elosztó hálózatról vételezett, 16. § (4) bekezdése szerint meghatározott villamosenergia-mennyiség képezi.
 
-[^40]: A 20. § (4) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^40]: A 20. § (4) bekezdése a 16/2019. (XII. 14.) MEKH rendelet 2. §-ával megállapított szöveg. [A 20. § (4) bekezdésében a 3/2024. (IV. 11.) MEKH rendelet 1. §-a által elrendelt módosítás, amely szerint az „a központi fűtésről és melegvíz-szolgáltatásról szóló kormányrendelet szerinti fűtési idény alatti” szövegrész helyébe az „az október 15. és április 15. közötti időszak szerinti” szöveg lép, nem vezethető át.]
