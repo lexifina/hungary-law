@@ -1,0 +1,15 @@
+## 1. A Kormány a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv.) 13. § (2) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 7. Gyógyító-megelőző ellátás alcím, 7. Célelőirányzatok jogcímcsoport 63 439 700 000 forinttal történő megemelését, az 1. melléklet szerint;
+
+| Felelős: | pénzügyminiszter belügyminiszter |
+
+| Határidő: | azonnal |
+
+## 2. a Kormány felhívja a belügyminisztert, hogy a pénzügyminiszter bevonásával készítsen előterjesztést a Kormány részére a fekvőbeteg-ellátó intézményeknek az év fennmaradó részében felmerülő feladatai ellátásának biztosításához szükséges intézkedésekről.
+
+| Felelős: | belügyminiszter pénzügyminiszter |
+
+| Határidő: | 2024. május 15. |
+
+1. melléklet az 1110/2024. (IV. 17.) Korm. határozathoz
+
+4X02702.pdf
