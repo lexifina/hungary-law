@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és a Vietnámi Szocialista Köztársaság Kormánya között a nemzetközi és szervezett bűnözés elleni küzdelemben és megelőzésben való együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
