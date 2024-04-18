@@ -1,7 +1,8 @@
 ## 8. A támogatás mértéke és összege
 
-11. § (1) A 2. § (1) bekezdés a)–d) és f)–g) pontja szerinti támogatás esetén a támogatási intenzitás maximuma 50%, azzal, hogy a támogatás mértéke nem haladhatja meg az általános csoportmentességi rendelet 14., 17., 22. és 41. cikkében foglalt maximális mértéket.
+11. § (1)[^67] A 2. § (1) bekezdés c)–d) és f)–g) pontja szerinti támogatás esetén a támogatási intenzitás maximuma 50%, azzal, hogy a támogatás mértéke nem haladhatja meg az általános csoportmentességi rendelet 22. és 41. cikkében, a de minimis rendelet 3. cikkében, valamint az ideiglenes válság- és átállási keretről szóló közlemény 2.1. szakaszában foglalt maximális mértéket.
 
-(2)[^15] Az általános csoportmentességi rendelet hatálya alá nem tartozó országok esetében a HEPA honlapján közzétett információ szerinti maximális támogatási intenzitás nyújtható.
+(2)[^68] A 2. § (1) bekezdés b) pontja szerinti támogatásra vonatkozó támogatási intenzitás nem haladhatja meg kisvállalkozás esetén az elszámolható költségek 20%-át, középvállalkozás esetén az elszámolható költségek 10%-át.
 
-[^15]: A 11. § (2) bekezdése a 47/2021. (XII. 22.) KKM rendelet 5. §-ával megállapított szöveg.
+[^67]: A 11. § (1) bekezdése a 8/2024. (IV. 17.) KKM rendelet 22. § c) pontja szerint módosított szöveg.
+[^68]: A 11. § (2) bekezdése a 8/2024. (IV. 17.) KKM rendelet 9. §-ával megállapított szöveg.

@@ -2,10 +2,34 @@
 
 19. § (1) A beruházás keretében kizárólag a támogatási kérelem benyújtásának napját követően felmerült költségek számolhatóak el.
 
-(2)[^25] A 2. § (1) bekezdés a)–d) pontja szerinti támogatás esetén a beruházás elszámolható költsége kizárólag a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége lehet.
+(2)[^101] A 2. § (1) bekezdés a)–d) pontja szerinti támogatás esetén a beruházás elszámolható költsége kizárólag a beruházás érdekében felmerült tárgyi eszközök és immateriális javak költsége lehet.
 
-(3) A 2. § (1) bekezdés e) pontja szerinti támogatás esetén a kutatás-fejlesztési projekt elszámolható költsége a beruházó – választása szerint – az első támogatásban részesülő kutatás-fejlesztési projekt megkezdésétől számított legkevesebb egy, de legfeljebb három év alatt felmerült, a támogatási kérelemben feltüntetett kutatás-fejlesztési projektjéhez kapcsolódó, a kutató-fejlesztőkre tekintettel elszámolt költségei. Ezen felül elszámolható költségek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 80. § (2) bekezdése kivételével – az Sztv. 52. §-ában meghatározott értékcsökkenési leírás, a támogatandó kutatás-fejlesztési projekt teljes elszámolható költségének legfeljebb huszonöt százalékáig az igazolhatóan felhasznált anyagköltség – amennyiben az megfelel az általános csoportmentességi rendelet 25. cikk (3) bekezdés a)–c), valamint e) pontjának, valamint az olyan szerződéses kutatási költségek, amelyek kizárólag a kutatás-fejlesztési projekt célját szolgálják. E támogatások esetében a 18–20. §-t – a 20. § (2) bekezdése kivételével – nem kell alkalmazni.
+(3)[^102] A 2. § (1) bekezdés e) pontja szerinti támogatás esetén az elszámolható költségeket a kutatás-fejlesztési projekt valamely meghatározott kategóriájához kell rendelni. A 16/F. § (1) bekezdés a) és b) pontja esetén a támogatás keretében elszámolható
 
-(4) A 2. § (1) bekezdés f) pontja szerinti támogatás esetén elszámolhatók a projekt menedzsment, könyvvizsgálat, jogi szolgáltatás, tervezés és engedélyeztetés költségei.
+a) a kutatók, technikusok és egyéb kisegítő személyzet személyi jellegű ráfordítása a projektben való foglalkoztatásuk mértékéig,
 
-[^25]: A 19. § (2) bekezdése a 47/2021. (XII. 22.) KKM rendelet 11. § i) pontja szerint módosított szöveg.
+b) az eszközök, berendezések költsége a projekt céljaira való használatuk mértékéig és idejére, azzal, hogy ahol ezeket az eszközöket és felszereléseket nem a teljes élettartamuk alatt használják a projekthez, csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek számolhatóak el,
+
+c) az épületek és a földterület költsége a projekt céljaira való használatuk mértékéig és idejére, azzal, hogy az épületek esetén csak az általános számviteli elvek alapján elfogadott, a projekt idejére számított amortizációs költségek, földterület esetén a kereskedelmi, illetve a ténylegesen felmerülő beruházási költségek számolhatóak el,
+
+d) a szerződéses kutatás, a külső forrásokból szokásos piaci feltételek mellett megvásárolt vagy licencia tárgyát képező műszaki ismeretek és szabadalmak költsége, valamint a tanácsadás és hasonló szolgáltatások költsége, ha azokat kizárólag a projekthez veszik igénybe,
+
+e) a további általános és egyéb működési költségek közül az anyagok, a fogyóeszközök és hasonló termékek költségeit, amelyek közvetlenül a projekt folyamán merülnek fel, és amelyek összes költsége nem haladja meg a kutatás-fejlesztési projekt elszámolható költségének 25%-át.
+
+(4)[^103] A 2. § (1) bekezdés f) és g) pontja szerinti támogatás esetén elszámolhatók a projekt menedzsment, könyvvizsgálat, jogi szolgáltatás, tervezés és engedélyeztetés költségei.
+
+(5)[^104] A 2. § (1) bekezdés a) és b) pontja szerinti támogatás esetén az elszámolható költség a következők szerint határozható meg:
+
+a) a tárgyi eszközöknek az Sztv. 47. § (1) bekezdése és 51. § (1) bekezdése szerinti költsége,
+
+b) immateriális javak esetén az Sztv. 47. § (1) bekezdése és 51. § (1) bekezdése szerinti költsége,
+
+c) létesítmény felvásárlása esetén a tárgyi eszközök és az immateriális javak vételára.
+
+(6)[^105] Az (5) bekezdés c) pontja szerinti esetben, ha a tárgyi eszközök és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszközök és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszközöknek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+
+[^101]: A 19. § (2) bekezdése a 47/2021. (XII. 22.) KKM rendelet 11. § i) pontja szerint módosított szöveg.
+[^102]: A 19. § (3) bekezdése a 8/2024. (IV. 17.) KKM rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^103]: A 19. § (4) bekezdése a 8/2024. (IV. 17.) KKM rendelet 22. § e) pontja szerint módosított szöveg.
+[^104]: A 19. § (5) bekezdését a 8/2024. (IV. 17.) KKM rendelet 17. § (2) bekezdése iktatta be.
+[^105]: A 19. § (6) bekezdését a 8/2024. (IV. 17.) KKM rendelet 17. § (2) bekezdése iktatta be.

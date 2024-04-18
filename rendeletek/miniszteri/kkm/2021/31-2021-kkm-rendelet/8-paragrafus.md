@@ -1,52 +1,56 @@
-8. § (1) E rendelet alapján nem nyújtható támogatás
+8. § (1)[^58] E rendelet alapján nem nyújtható támogatás
 
-1. acélipari tevékenységhez;
+a) a 2. § (1) bekezdés b)–g) pontjában meghatározott támogatás kivételével
 
-2. a hajógyártásban folytatott tevékenységhez;
+aa) acélipari tevékenységhez,
 
-3. a széniparban folytatott tevékenységhez;
+ab) energiatermelési, -tárolási, -átviteli, -elosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-4. szintetikusszál-ipari tevékenységhez;
+ac) széniparban folytatott tevékenységhez,
 
-5. az ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához;
+ad) lignitiparban folytatott tevékenységhez,
 
-6. elsődleges mezőgazdasági termeléshez;
+ae) szélessávú ágazatban végzett tevékenységhez,
 
-7. mezőgazdasági termék feldolgozásához, ha
+af) ellenszolgáltatás fejében végzett légi, tengeri, közúti, vasúti és belvízi úton történő személy- vagy áruszállítási szolgáltatás nyújtásához vagy a kapcsolódó infrastruktúrához;
 
-7.1. a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján rögzített,
+b) a 2. § (1) bekezdés c) és e) pontjában meghatározott támogatás kivételével elsődleges mezőgazdasági termeléshez;
 
-7.2. a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ;
+c) mezőgazdasági termék feldolgozásához, ha
 
-8. az 1379/2013/EU rendelet hatálya alá tartozó halászati és akvakultúra-ágazatban történő beruházáshoz;
+ca) a támogatás összege az elsődleges termelőktől beszerzett vagy érintett vállalkozások által forgalmazott ilyen termékek ára vagy mennyisége alapján rögzített,
 
-9.[^7] megújuló energia kivételével az energiatermelést, energiaszolgáltatást, valamint az energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz a 20. § (2)–(6) bekezdésében foglaltak figyelembevételével;
+cb) a támogatás az elsődleges termelőknek történő teljes vagy részleges továbbítástól függ;
 
-10.[^8] saját értékesítési hálózat kialakításához és működtetéséhez;
+d) a 2. § (1) bekezdés d) és e) pontjában meghatározott támogatás kivételével halászati és akvakultúra-termékek termeléséhez;
 
-11.[^9]
+e) a 2. § (1) bekezdés d) és e) pontjában meghatározott támogatás, valamint – ha a támogatás összegét nem a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg – a 2. § (1) bekezdés f) pontjában meghatározott támogatás kivételével halászati és akvakultúra-termékek feldolgozásához és forgalmazásához;
 
-12. szélessávú infrastruktúra kiépítését szolgáló beruházáshoz;
+f) saját értékesítési hálózat kialakításához és működtetéséhez;
 
-13. kutatási infrastruktúrához;
+g) exporttal kapcsolatos tevékenységekhez, különösen az exportált mennyiségekhez közvetlenül kapcsolódóan;
 
-14. exporttal kapcsolatos tevékenységekhez, különösen az exportált mennyiségekhez közvetlenül kapcsolódóan;
+h) értékesítési hálózat kialakításával és működtetésével vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokkal kapcsolatban;
 
-15. értékesítési hálózat kialakításával és működtetésével vagy az exporttevékenységgel összefüggésben felmerülő egyéb folyó kiadásokkal kapcsolatban;
+i) az import áruk és szolgáltatások helyett hazai áru vagy szolgáltatás használatától függő támogatásként;
 
-16. az import áruk és szolgáltatások helyett hazai áru vagy szolgáltatás használatától függő támogatásként;
+j) olyan támogatásként, amelynek feltétele, hogy a beruházó belföldön előállított termékeket, illetve belföldi szolgáltatásokat vegyen igénybe;
 
-17. olyan támogatásként, amelynek feltétele, hogy a beruházó belföldön előállított termékeket, illetve belföldi szolgáltatásokat vegyen igénybe;
+k) olyan támogatásként, amely korlátozza a beruházó azon lehetőségét, hogy a kutatás-fejlesztés és innováció eredményeit az Európai Unió más tagállamában hasznosítsa;
 
-18. olyan támogatásként, amely korlátozza a beruházó azon lehetőségét, hogy a kutatás-fejlesztés és innováció eredményeit az Európai Unió más tagállamában hasznosítsa;
+l) alapkutatáshoz;
 
-19. alapkutatáshoz;
+m) az általános csoportmentességi rendelet 1. cikke (3) bekezdés d) pontjában kizárt ágazathoz és olyan feltétellel, amely az általános csoportmentességi rendelet 1. cikk (5) bekezdésébe ütközik;
 
-20. az általános csoportmentességi rendelet 1. cikke (3) bekezdés d) pontjában kizárt ágazathoz és olyan feltétellel, amely az általános csoportmentességi rendelet 1. cikk (5) bekezdésébe ütközik.
+n) a 2. § (1) bekezdés f) pontjában meghatározott támogatás kivételével atomenergia-termeléshez;
+
+o) olyan feltétellel, amely az európai uniós jog megsértését eredményezi.
+
+(1a)[^59] Amennyiben a kedvezményezett az (1) bekezdés b)–e) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, a 2. § (1) bekezdés f) pontjában meghatározott támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – úgymint a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy az (1) bekezdés b)–e) pontjában említett kizárt ágazatokban végzett tevékenységek ne részesüljenek a 2. § (1) bekezdés f) pontjában meghatározott támogatásban.
 
 (2) E rendelet alapján nem nyújtható támogatás
 
-a) nehéz helyzetben lévő vállalkozás részére, kivéve azt a vállalkozást, amely 2019. december 31-én nem volt nehéz helyzetben, de 2020. január 1. és 2021. június 30. között nehéz helyzetbe került;
+a)[^60] nehéz helyzetben lévő vállalkozás részére;
 
 b) azon vállalkozás részére, amely nem szerepel a köztartozásmentes adózói adatbázisban legkésőbb a támogatási szerződés megkötésének napján;
 
@@ -64,6 +68,6 @@ f) olyan vállalkozásnak vagy olyan vállalkozás kapcsolt vállalkozásának, 
 
 g) olyan beruházáshoz, amely bármely más vissza nem térítendő költségvetési támogatásban részesül, kivéve, ha az adott támogatás nyújtásának feltétele az e rendelet alapján nyújtott támogatás.
 
-[^7]: A 8. § (1) bekezdés 9. pontja a 47/2021. (XII. 22.) KKM rendelet 3. §-ával megállapított szöveg.
-[^8]: A 8. § (1) bekezdés 10. pontja a 47/2021. (XII. 22.) KKM rendelet 11. § d) pontja szerint módosított szöveg.
-[^9]: A 8. § (1) bekezdés 11. pontját a 47/2021. (XII. 22.) KKM rendelet 12. § a) pontja hatályon kívül helyezte.
+[^58]: A 8. § (1) bekezdése a 8/2024. (IV. 17.) KKM rendelet 5. §-ával megállapított szöveg.
+[^59]: A 8. § (1a) bekezdését a 8/2024. (IV. 17.) KKM rendelet 5. §-a iktatta be.
+[^60]: A 8. § (2) bekezdés a) pontja a 8/2024. (IV. 17.) KKM rendelet 6. §-ával megállapított szöveg.

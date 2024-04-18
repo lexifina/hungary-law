@@ -16,7 +16,7 @@
 
 7. olyan tárgyi eszköz bekerülési értéke, amelyet a beruházó csődeljárás vagy felszámolás alatt álló társaságtól vagy végrehajtási eljárás alatt álló magánszemélytől szerzett be,
 
-8. azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a kétszázezer forint vagy annál kisebb bekerülési értékű tárgyi eszközök,
+8.[^106] azon eszközök, berendezések, amelyek a támogatási kérelem benyújtása előtt bérleti vagy egyéb hasonló konstrukció keretében, továbbá tesztelési, próbaüzemi céllal a beruházónál bármely telephelyen már használatban voltak, továbbá a kétszázezer forint vagy annál kisebb számlaértékű tárgyi eszközök,
 
 9. készletek beszerzésének költségei,
 
@@ -30,7 +30,7 @@
 
 14. az elhasználódott tárgyi eszköz eredeti állaga helyreállítását szolgáló, szinten tartó felújítási munka költségei és az üzemszerű működést szolgáló költségek,
 
-15. azok az eszközök, amelyek a beruházó által már használt tárgyi eszközöket, támogatható immateriális javakat váltják ki anélkül, hogy a kiváltás a meglévő létesítmény kapacitásának bővítését, a létesítmény termékpalettájának a létesítményben addig nem gyártott termékekkel, szolgáltatással történő bővítését vagy a termelési, szolgáltatási folyamat alapvető változását eredményezi,
+15.[^107] a szinten tartást szolgáló tárgyi eszközök és immateriális javak költsége,
 
 16. visszlízingelt eszközök költségei,
 
@@ -54,7 +54,7 @@
 
 26. cégközi profit,
 
-27. energiatermeléshez kapcsolódó eszközök, a (6) bekezdésben meghatározott kivételekkel,
+27.[^108] energiatermeléshez kapcsolódó eszközök,
 
 28. létesítmény felvásárlása, amennyiben arra nem piaci áron kerül sor,
 
@@ -76,6 +76,8 @@
 
 37. bérelt ingatlanon történő megvalósítás esetén a földterület, a telek és épületek bérleti díja.
 
+38.[^109] a támogatási kérelem benyújtásának napja előtt felmerült költségek.
+
 (3) A földterület, a telek, az épületek és az egyéb eszközök lízingbe vételével kapcsolatos költségek abban az esetben számolhatók el, ha a lízingügylet zártvégű pénzügyi lízing formájában valósul meg, és a lízingszerződés tartalmazza az eszköznek a lízing időtartam lejárta utáni megvásárlására vonatkozó kötelezettségét, amely határidő nem lehet későbbi, mint a beruházás befejezésének dátuma.
 
 (4) Az immateriális javaknak az alábbi feltételeknek kell megfelelniük:
@@ -88,22 +90,22 @@ c) piaci feltételek mellett, a vevőtől független harmadik féltől kell megv
 
 d) a nagyvállalkozások részére nyújtott támogatás esetén legalább öt évig, kis- és középvállalkozások esetén legalább három évig a beruházó eszközei között kell szerepelniük, és ahhoz a beruházáshoz kell kapcsolódniuk, amelyre a támogatást nyújtották, és
 
-e) az immateriális javak az elszámolható költségek maximum 20%-a lehet.
+e)[^110] a beruházó a beruházás eredményeképpen létrejövő kapacitások révén történő termék-előállítás esetén az elszámolható költségek maximum 20%-áig, szolgáltatásnyújtás esetén annak maximum 50%-áig számolhatja el az immateriális javak költségeit.
 
 (5) A támogatható tárgyi eszközöknek az alábbi feltételeknek kell megfelelniük:
 
-a) a beszállító a támogatásban részesült telephelyen működő vállalkozásnál, a beruházóval kötött beszállítói szerződés birtokában használhatja fel azokat,
+a)[^111]
 
 b) a beszerzett tárgyi eszközöknek tartósan, legalább a fenntartási időszak végéig szolgálniuk kell a támogatott tevékenységet, és
 
 c) az egy vállalatcsoporton belülről beszerzett új eszközök esetén az elszámolható költség nem haladhatja meg az eladó könyveiben nyilvántartott összeget.
 
-(6)[^26] A megújuló energia termeléséhez kapcsolódó eszközök költségei elszámolható költségeknek minősülnek a 2. § (1) bekezdés a)–b) és d)–g) pontja szerinti támogatás esetén, amennyiben az alábbi feltételek együttesen teljesülnek:
+(6)[^112]
 
-a) a beruházás elsődleges célja nem az energiatermelés,
-
-b) az energiatermeléshez kapcsolódó eszközök költsége a beruházás összköltségének legfeljebb 50%-át teszi ki, és
-
-c) a beruházó előzetes elemzés bemutatásával hitelesen igazolja, hogy az energiatermelési kapacitás nem haladja meg a beruházás működtetéséhez szükséges mennyiséget, valamint az előzetes elemzésből hitelt érdemlően kitűnik, hogy a megtermelt energia legfeljebb 20%-át értékesítik.
-
-[^26]: A 20. § (6) bekezdés nyitó szövegrésze a 47/2021. (XII. 22.) KKM rendelet 11. § j) pontja szerint módosított szöveg.
+[^106]: A 20. § (2) bekezdés 8. pontja a 8/2024. (IV. 17.) KKM rendelet 22. § f) pontja szerint módosított szöveg.
+[^107]: A 20. § (2) bekezdés 15. pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^108]: A 20. § (2) bekezdés 27. pontja a 8/2024. (IV. 17.) KKM rendelet 23. § g) pontja szerint módosított szöveg.
+[^109]: A 20. § (2) bekezdés 38. pontját a 8/2024. (IV. 17.) KKM rendelet 18. § (2) bekezdése iktatta be.
+[^110]: A 20. § (4) bekezdés e) pontja a 8/2024. (IV. 17.) KKM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^111]: A 20. § (5) bekezdés a) pontját a 8/2024. (IV. 17.) KKM rendelet 23. § h) pontja hatályon kívül helyezte.
+[^112]: A 20. § (6) bekezdését a 8/2024. (IV. 17.) KKM rendelet 23. § i) pontja hatályon kívül helyezte.
