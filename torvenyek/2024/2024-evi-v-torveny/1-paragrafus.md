@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Hagyományos Fegyveres Erőkről szóló Szerződés és kiegészítő dokumentumainak együttes kihirdetéséről szóló 1999. évi VI. törvény által kihirdetett, az Európai Hagyományos Fegyveres Erőkről szóló Szerződés és kiegészítő dokumentumai alkalmazásának felfüggesztésére.
