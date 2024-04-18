@@ -2,7 +2,7 @@ Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló 2011.
 
 1. Az Alkotmánybíróságon három öttagú állandó tanács működik.
 
-2. Az öttagú állandó tanácsok tanácsvezetői és tagjai:
+2.[^1] Az öttagú állandó tanácsok tanácsvezetői és tagjai:
 
 Az 1. öttagú tanács tagjai:
 
@@ -12,7 +12,7 @@ Dr. Juhász Imre alkotmánybíró,
 
 Dr. Juhász Miklós alkotmánybíró,
 
-Dr. Sulyok Tamás alkotmánybíró,
+Dr. Szabó Marcel alkotmánybíró,
 
 Dr. Varga Réka alkotmánybíró.
 
@@ -42,10 +42,11 @@ Dr. Szabó Marcel alkotmánybíró.
 
 3. A tanácsvezetők megbízatása 2024. szeptember 30-ig tart.
 
-4.[^1] Ez a határozat a közzététele napján lép hatályba,
+4.[^2] Ez a határozat a közzététele napján lép hatályba,
 
 5. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1886/2023.
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
+[^1]: A 2. pont az 1001/2024. (IV. 17.) AB Tü. határozat 1. pontja szerint módosított szöveg. Az 1001/2024. (IV. 17.) AB Tü. határozat 2. pontja alapján előadó alkotmánybíróként dr. Szabó Marcel alkotmánybíró a 3. öttagú tanácsban jár el.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján módosított szöveg.
