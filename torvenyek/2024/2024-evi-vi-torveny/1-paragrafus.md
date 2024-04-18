@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Újjáépítési és Fejlesztési Bank létrehozásáról szóló Megállapodást (a továbbiakban: Megállapodás) módosító, a Bank Kormányzótanácsa által 2023. május 18-án meghozott, és a tagállamok által elfogadott 259. és 260. számú határozatok (a továbbiakban: Módosítás) kötelező hatályának elismerésére.
