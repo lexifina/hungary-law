@@ -1,0 +1,3 @@
+1. § A Külpiaci Növekedési Támogatási Program szerinti támogatások szabályairól szóló 31/2021. (VIII. 31.) KKM rendelet (a továbbiakban: Rendelet) 1. §-a helyébe a következő rendelkezés lép:
+
+„1. § E rendelet hatálya a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2019. (VI. 14.) KKM rendelet 3. § (1) bekezdés b) pontjára, 41. § 41. pontjára, valamint 1. mellékletébenfoglalt táblázat 3c. sorára figyelemmel nyújtott, a Külpiaci Növekedési Támogatási Program (a továbbiakban: KNTP) szerinti támogatások igénylésének, döntési rendszerének, folyósításának, felhasználásának, elszámolásának és ellenőrzésének részletes szabályaira terjed ki.”
