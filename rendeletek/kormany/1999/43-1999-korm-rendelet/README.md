@@ -136,3 +136,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2024-03-01 | 1999-43-20-22.207 | 663/2023. (XII. 29.) Korm. rendelet |
 | 2024-03-05 | 1999-43-20-22.209 | 192/2015. (VII. 21.) Korm. rendelet |
 | 2024-04-04 | 1999-43-20-22.210 | 77/2024. (IV. 3.) Korm. rendelet |
+| 2024-04-18 | 1999-43-20-22.211 | 7/2008. (I. 23.) Korm. rendelet |

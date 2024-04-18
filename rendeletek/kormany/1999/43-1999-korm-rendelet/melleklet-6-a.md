@@ -1,10 +1,10 @@
-| Millió forint |
+|  | Millió forint |
 
 | Megnevezés | 2024. évi előirányzat |
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-|  | Praxisfinanszírozás | 99 790,7 |
+| Praxisfinanszírozás | 99 790,7 |
 
 | Praxistámogatás | 12 447,7 |
 
@@ -20,7 +20,7 @@
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás | 2 317,1 |
+| Iskolaegészségügyi ellátás | 2 317,1 |
 
 | Iskolaegészségügyi ellátás bértámogatás | 255,1 |
 
@@ -36,7 +36,7 @@
 
 |  | Fogászati ellátás |  |
 
-|  | Praxisfinanszírozás | 38 970,3 |
+| Praxisfinanszírozás | 38 970,3 |
 
 | Praxistámogatás | 4 383,3 |
 
@@ -54,11 +54,11 @@
 
 |  | Célelőirányzatok |  |
 
-|  | Méltányossági alapon történő térítések | 3 911,3 |
+| Méltányossági alapon történő térítések | 3 911,3 |
 
 | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
-| Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi és fogorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 250,0 |
+| Tartósan betöltetlen háziorvosi és fogorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 1 250,0 |
 
 | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
@@ -72,7 +72,9 @@
 
 | Mozgó Egészségügyi Központok működtetése | 1 673,5 |
 
-| 7. | Célelőirányzatok összesen | 961 780,1 |
+| Működési támogatás | 63 439,7 |
+
+| 7. | Célelőirányzatok összesen | 1 025 219,8 |
 
 | 8. | Mentés | 45 560,5 |
 
@@ -80,7 +82,7 @@
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg-szakellátás | 198 122,7 |
+| Járóbeteg-szakellátás | 198 122,7 |
 
 | Népegészségügy fejlesztése | 2 717,5 |
 
@@ -110,7 +112,7 @@
 
 | 14. | Nagyértékű gyógyszerfinanszírozás | 129 659,8 |
 
-| ÖSSZESEN | 2 552 909,8 |
+| ÖSSZESEN | 2 616 349,5 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^633]
 
