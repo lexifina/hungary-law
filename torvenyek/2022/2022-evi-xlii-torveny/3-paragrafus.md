@@ -213,3 +213,5 @@
 106. a veszélyhelyzet ideje alatt egyes államháztartási szabályok eltérő alkalmazásáról szóló 420/2022. (X. 27.) Korm. rendeletet,
 
 107. a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény szerinti díjazás kifizetésének veszélyhelyzeti szabályairól szóló 422/2022. (X. 27.) Korm. rendeletet
+
+a 2022. október 31-én hatályos szöveggel, a KR2.-ben foglalt eltérésekkel újból hatályba léptette, ezáltal az 1–107. pont szerinti kormányrendeletek hatályvesztéséhez köthető joghatások nem álltak be, és az 1–107. pont szerinti kormányrendeletek folytonosan alkalmazandóak tovább.
