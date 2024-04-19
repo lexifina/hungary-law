@@ -1,3 +1,3 @@
-15. § A Rendelet 17. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+15. §[^16]
 
-(E rendelet alapján támogatás csak akkor nyújtható, ha)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

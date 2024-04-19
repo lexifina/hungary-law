@@ -1,3 +1,3 @@
-6. § A Rendelet 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(E rendelet alapján nem nyújtható támogatás)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „a) ösztönző hatással bír, azaz a kedvezményezett – a 2. § (1) bekezdés f) és g) pontjában meghatározott támogatások kivételével – az általános csoportmentességi rendelet 6. cikk (2) bekezdésében meghatározott kötelező tartalmi elemeket tartalmazó támogatási kérelmét a projekt megkezdése előtt írásban benyújtotta, és”
+16. §[^17]
 
-16. § A Rendelet 18. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A 2. § (1) bekezdés a) pontja szerinti támogatás abban az esetben nyújtható, ha a kedvezményezett a támogatási kérelem benyújtásával egyidejűleg, a támogatás visszafizetésének terhe mellett nyilatkozik arról, hogy a támogatási kérelem benyújtását megelőző két évben nem valósított meg áttelepítést abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást vagy új gazdasági tevékenység végzésére irányuló induló beruházást meg kívánja valósítani, és kötelezettséget vállal arra, hogy a támogatási kérelem tárgyát képező induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás üzembe helyezését követő legalább két évig nem kerül sor áttelepítésre abba a létesítménybe, amelyben a támogatási kérelem tárgyát képező induló beruházást vagy új gazdasági tevékenység végzésére irányuló induló beruházást meg kívánja valósítani.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

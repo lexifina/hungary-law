@@ -1,3 +1,3 @@
-21. § A Rendelet 32. § b)–d) pontja helyébe a következő rendelkezés lép:
+21. §[^22]
 
-(E rendelet)
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
