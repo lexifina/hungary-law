@@ -1,44 +1,49 @@
 ## Értelmező rendelkezések
 
-## 2. § E rendelet alkalmazásában
+2. §[^5] (1) Az e rendeletben használt fogalmakra – ha e rendelet eltérően nem rendelkezik – a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló 18/1998. (VI. 3.) NM rendeletben meghatározott fogalmakat kell alkalmazni.
 
-a) egészségügyi ellátással összefüggő fertőzés: a betegnél, az egészségügyi dolgozónál, valamint az egészségügyi ellátással kapcsolatba kerülő más személynél (például önkéntes segítő, látogató) az egészségügyi ellátás során kialakult fertőzés;
+(2) E rendelet alkalmazásában
 
-b) infekciókontroll: az egészségügyi ellátással összefüggő fertőző betegségek kialakulásában szerepet játszó tényezők ismeretén, elemzésén alapuló fertőzések megelőzésére irányuló intervenciós tevékenység;
+1. antibiotikum felügyeleti rendszer: a fertőzések megelőzésére és gyógyítására alkalmazott antibiotikumok észszerű és költséghatékony felhasználásának tervezése, elemzése, ellenőrzése, illetve az antibiotikumokkal szembeni rezisztencia kialakulása és terjedése ellen alkalmazott módszerek összessége;
 
-c) surveillance: olyan folyamatosan működő információs rendszer, amely standardizált definíciók és módszertan alapján validált kritériumok szerinti adatgyűjtést, elemzést, értelmezést, visszacsatolást és intervenciót tesz lehetővé;
+2. antibiotikum rezisztencia surveillance: a kórokozók antibiotikum-érzékenység/-rezisztencia változásaira irányuló, célzott surveillance;
 
-d) célzott surveillance: egy-egy meghatározott fertőzés, rizikótényező, kórokozó, antibiotikum érzékenység/rezisztencia, profilaktikus vagy terápiás célú gyógyszer felhasználás monitorozására irányuló tevékenység;
+3. antimikrobiális szerek felhasználásának és hasznosításának surveillance-a: az egészségügyi intézmény által profilaktikus vagy terápiás célból felhasznált antimikróbás szerek fogyasztására és megfelelő felhasználására irányuló célzott surveillance;
 
-e) nosocomialis (kórházi) fertőzés: azon egészségügyi ellátással összefüggő fertőzés, melyet a beteg, az egészségügyi dolgozó, valamint az egészségügyi ellátással kapcsolatba kerülő más személy a fekvőbeteg-szakellátás során szerez és amely az intézményi felvételkor lappangó formában sem volt jelen;
+4. betegellátási pont: a betegzónán belül olyan hely, ahol egyidejűleg együttesen jelen van a beteg, az egészségügyi dolgozó és a beteg érintésével járó ápolás, betegellátás, gyógyítás;
 
-f) nosocomiális surveillance: a nosocomiális fertőzések megjelenésére, gyakoriságára és részletes vizsgálatára irányuló, illetve a fertőzések kialakulásának kockázati tényezőire vonatkozó surveillance;
+5. betegzóna: az egészségügyi ellátás olyan területe, amelynek része a beteg és az őt körülvevő azon élettelen környezet, amelyet a beteg maga megérinthet, vagy direkt módon a beteggel fizikai kontaktusba kerülhet;
 
-g)[^3] mikrobiológiai surveillance: kórokozók előfordulása és rezisztenciájának nyomon követése, a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerinti, bejelentésre kötelezett kórokozók előfordulásának azonosítására irányuló célzott surveillance;
+6. célzott surveillance: egy-egy meghatározott fertőzés, rizikótényező, kórokozó, antibiotikum-érzékenység/-rezisztencia, profilaktikus vagy terápiás célú gyógyszerfelhasználás monitorozására irányuló tevékenység;
 
-h) antibiotikum rezisztencia surveillance: a kórokozók antibiotikum érzékenység/rezisztencia változásaira irányuló, célzott surveillance;
+7. egészségügyi ellátással összefüggő fertőzés: az egészségügyi ellátásban részesülő személynél, az egészségügyi dolgozónál, valamint az egészségügyi ellátással kapcsolatba kerülő más személynél az egészségügyi ellátás során kialakult fertőzés;
 
-i)[^4] antimikrobiális szerek felhasználásának és hasznosításának surveillance-a: az egészségügyi intézmény által felhasznált antimikróbás szerek fogyasztására és megfelelő felhasználására irányuló célzott surveillance;
+8. egészségügyi ellátással összefüggő fertőzések surveillance-a: az egészségügyi ellátással összefüggő fertőzések megjelenésére, gyakoriságára és részletes vizsgálatára irányuló, illetve a fertőzések kialakulásának kockázati tényezőire vonatkozó surveillance;
 
-j) antibiotikum politika: a fertőzések megelőzésére és gyógyítására alkalmazott antibiotikumok ésszerű és költséghatékony felhasználásának tervezése, elemzése, ellenőrzése, illetve az antibiotikumokkal szembeni rezisztencia kialakulása és terjedése ellen alkalmazott módszerek összessége;
+9. egészségügyi ellátással összefüggő járvány: legalább két összefüggő eset – akár tünetekkel járó fertőzés, akár kolonizáció –, amelyeknél az összefüggés, illetve az egészségügyi ellátórendszeren belüli terjedés epidemiológiai vagy mikrobiológiai vagy mind epidemiológiai, mind mikrobiológiai bizonyítékkal alátámasztható;
 
-k) Infekciókontroll és Antibiotikum Bizottság: az infekciókontroll tevékenységet – beleértve az antibiotikumok alkalmazásának területét is – irányító és felügyelő multidiszciplináris bizottság;
+10. fertőtlenítés: a fertőzés terjedését megakadályozó azon eljárás, amely során a környezetbe (így például felületekre, eszközökre, tárgyakra, kézre, bőrre) kikerült, fertőzések kialakulásában szerepet játszó kórokozók számának csökkentése (szanációja) vagy kiirtása történik fizikai, illetve kémiai módszerekkel;
 
-l) izoláció: a fertőzés terjedését megakadályozó eljárások, illetve szabályok összessége;
+11. Infekciókontroll és Antibiotikum Bizottság: az infekciókontroll tevékenységet – beleértve az antibiotikumok alkalmazásának területét is – irányító és felügyelő multidiszciplináris bizottság;
 
-m) fertőtlenítés: a fertőzés terjedését megakadályozó azon eljárás, mely során a környezetbe (felületek, eszközök, tárgyak, kéz, bőr stb.) kikerült, fertőzések kialakulásában szerepet játszó kórokozók számának csökkentése (szanációja) vagy kiirtása történik különböző módszerekkel (fizikai, kémiai);
+12. infekciókontroll óvó-védő szabályok (izoláció): a kórokozók és fertőzések terjedésének megakadályozása céljából végzett, az egészségügyi ellátás során az egészségügyi dolgozó által alkalmazandó eljárások, illetve szabályok összessége, beleértve a bármely személy egészségügyi ellátása során alkalmazandó alapvető (standard) óvó-védő szabályokat, valamint ezek kiegészítésére a gyanított/igazolt kórokozó függvényében alkalmazandó, terjedésalapú óvó-védő szabályokat;
 
-n) steril anyag-eszköz ellátás: az egészségügyi szolgáltatás nyújtása során sterilen alkalmazandó orvostechnikai eszközök biztosításának rendszere, beleértve a vonatkozó honosított harmonizált szabványok és irányelvek alapján, a felhasználás helyén végzett sterilanyag/eszköz előállítást is;
+13. infekciókontroll: az egészségügyi ellátással összefüggő fertőző betegségek kialakulásában szerepet játszó tényezők ismeretén, elemzésén alapuló fertőzések megelőzésére irányuló intervenciós tevékenység;
 
-o) járványügyi intézkedés: az egészségügyi ellátással összefüggő fertőzések átvitelének, szóródásának (járvány, járványveszély) megakadályozását célzó kötelezés;
+14. járványügyi intézkedés: az egészségügyi ellátással összefüggő fertőzések átvitelének, szóródásának, így a járvány vagy járványveszély megakadályozását célzó kötelezés;
 
-p) környezeti infekciókontroll: az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből (levegő, víz, felületek) eredő rizikótényezők csökkentése révén;
+15. kolonizáció: kórokozó jelenléte a bőrön, nyálkahártyán vagy egyéb, normálisan nem steril szövetben vagy testváladékban klinikai tünetek megléte nélkül;
 
-q)[^5] betegzóna: az egészségügyi ellátás olyan területe, melynek része a beteg és az őt körülvevő azon élettelen környezet, melyet a beteg maga megérinthet, vagy direkt módon a beteggel fizikai kontaktusba kerülhet;
+16. környezeti infekciókontroll: az egészségügyi ellátással összefüggő fertőzések megelőzése az egészségügyi intézmény mikrokörnyezetéből – levegő, víz, felületek – eredő rizikótényezők csökkentése révén;
 
-r)[^6] betegellátási pont: a betegzónán belül olyan hely, ahol egyidejűleg együttesen jelen van a beteg, az egészségügyi dolgozó és a beteg érintésével járó ápolás, betegellátás, gyógyítás.
+17. környezeti surveillance: az egészségügyi ellátással összefüggő fertőzéseket okozó kórokozók nyomon követése az egészségügyi ellátókörnyezetben, kiemelten a betegzónában, a víz, levegő, helyiségek, felszínek, bútorok, tárgyak, eszközök stb. célhoz kötött mintavételezése és laboratóriumi vizsgálata útján;
 
-[^3]: A 2. § g) pontja a 12/2012. (III. 6.) NEFMI rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § i) pontja a 12/2012. (III. 6.) NEFMI rendelet 11. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § q) pontját a 32/2018. (IX. 28.) EMMI rendelet 1. §-a iktatta be.
-[^6]: A 2. § r) pontját a 32/2018. (IX. 28.) EMMI rendelet 1. §-a iktatta be.
+18. mikrobiológiai surveillance: kórokozók előfordulása és rezisztenciájának nyomon követése, a fertőző betegségek jelentésének rendjéről szóló miniszteri rendelet szerinti, bejelentésre kötelezett kórokozók előfordulásának azonosítására irányuló, célzott surveillance, amely magában foglalja a mikrobiológiai tipizáló vizsgálatokat, illetve eredményeket is;
+
+19. perioperatív antibiotikum profilaxis: antibiotikumok alkalmazása a műtét során a posztoperatív sebfertőzés kockázatának csökkentése érdekében;
+
+20. steril anyag-eszköz ellátás: az egészségügyi szolgáltatás nyújtása során sterilen alkalmazandó orvostechnikai eszközök biztosításának rendszere, beleértve a vonatkozó honosított harmonizált szabványok és irányelvek alapján, a felhasználás helyén végzett steril anyag-eszköz előállítást is;
+
+21. surveillance: olyan folyamatosan működő információs rendszer, amely standardizált definíciók és módszertan alapján, validált kritériumok szerinti adatgyűjtést, elemzést, értelmezést, visszacsatolást és intervenciót tesz lehetővé.
+
+[^5]: A 2. § a 20/2024. (IV. 17.) BM rendelet 2. §-ával megállapított szöveg.

@@ -1,95 +1,130 @@
-1. Melléklet a 20/2009. (VI. 18.) EüM rendelethez[^41]
+1. melléklet a 20/2009. (VI. 18.) EüM rendelethez[^74]
 
-1. Járóbeteg-szakellátást nyújtó önálló rendelőintézet
+1. Járóbeteg-szakellátást nyújtó önálló rendelőintézet[^75]
+
+1.1. A járóbeteg-szakellátást nyújtó önálló rendelőintézetre vonatkozó személyi minimumfeltételek
 
 |  | A | B | C |
 
-| 1. | Egészségügyi szolgáltatóra vonatkozó minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+| 1. | Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
 
-| 2. | Személyi feltételek: | 1 fő szakdolgozó szakápoló vagy diplomás ápoló munkakörben | – epidemiológiai szakápoló, – diplomás ápoló |
+| 2. | Munkatárs | 1 fő szakápoló vagy diplomás ápoló munkakörben | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – diplomás ápoló |
 
-| 3. |  | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+| 3. |  | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
 
-| 4. | Tárgyi feltételek: | OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása |  |
+1.2. A járóbeteg-szakellátást nyújtó önálló rendelőintézetre vonatkozó egyéb minimumfeltételek
 
-| 5. | Infekciókontroll minimálisan foglalja magába: | – surveillance1: 3. § (1) bekezdés a) pont aa) és ad) alpontja, valamint b) pontja szerinti tevékenység – megelőző tevékenység: 3. § (1) bekezdés c) és g) pontja, valamint 3. § (2) bekezdése szerinti tevékenység – képzés: 3. § (1) bekezdés i) pontja |  |
+|  | A | B |
 
-## 1 Csak egynapos sebészeti ellátás, valamint dialízis ellátás nyújtása esetén.
+| 1. | Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek | Leírás |
+
+| 2. | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása. |
+
+| 3. | Infekciókontroll minimálisan foglalja magába | – surveillance (csak egynapos sebészeti ellátás, valamint dialízis ellátás nyújtása esetén): 3. § (1) bekezdés a) pont aa) alpontja, valamint b) pontja szerinti tevékenység, – megelőző tevékenység: 3. § (1) bekezdés c), d), e) és g) pontja, valamint 3. § (2) bekezdése szerinti tevékenység, – képzés: 3. § (1) bekezdés i) pontja |
 
 2. Fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltatók
 
-a) fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató 400 ágy alatt és a krónikus ellátást nyújtó hosszú ápolási idejű intézmények, valamint a rehabilitációs intézetek/kórházak, kivéve a c) pont szerinti egészségügyi szolgáltatókat
+2.1. Első szintű (primer, PRIM) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények
+
+2.1.1. Az első szintű (primer, PRIM) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézményekre vonatkozó személyi minimumfeltételek
 
 |  | A | B | C |
 
-| 1. | Egészségügyi szolgáltatóra vonatkozó minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+| 1. | Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
 
-| 2. | Személyi feltételek: Vezető: | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos; – megelőző orvostan és népegészségtan szakorvos; – legalább 5 éves fekvőbeteg szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező:* – az orvostudomány, illetve más egészségtudományi területen szerzett egyetemi diplomával rendelkező szakember, – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+| 2. | Kórházhigiénés szervezeti egység vezető[^76] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = közegészségügyi-járványügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = népegészségügyi ellenőr, okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia – közegészségügyi-járványügyi felügyelő specializációval |
 
-| 3. | Munkatárs: | 1 fő infektológus | – infektológus szakorvos – fertőző betegségek szakorvosa |
+| 3. | Munkatárs | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi felügyelő, – közegészségügyi-járványügyi ellenőr, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember epidemiológia szakon, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
 
-| 4. |  | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+| 4. |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
 
-| 5. |  | 2 fő főállású epidemiológiai szakápoló | – klinikai epidemiológiai szakápoló, – epidemiológiai szakápoló, – diplomás ápoló |
+2.1.2. Az első szintű (primer, PRIM) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézményekre vonatkozó egyéb minimumfeltételek
 
-| 6. | Tárgyi feltételek: | irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása | az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a to- vábbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi beteg adatbázisba és a mikrobiológiai leletekbe, ha az külön van |
+|  | A | B |
 
-| 7. | Infekciókontroll minimálisan foglalja magába: | – éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek2 – OSZIR NNSR – kötelező jelentés alrendszerbe történő adatszolgáltatás a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló és a fertőző betegségek jelentésének rendjéről szóló miniszteri rendeletekben foglaltak szerint – Részvétel az Európai Pont Prevalencia Vizsgálatban az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának felmérésére |  |
+| 1. | Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek | Leírás |
 
-b) fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató 400 ágy felett, kivéve a c) pont szerinti egészségügyi szolgáltatókat
+| 2. | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
 
-|  | A | B | C |
+| 3. | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
 
-| 1. | Egészségügyi szolgáltatóra vonatkozó minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+| 4. | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
 
-| 2. | Személyi feltételek: Vezető: | 1 fő kórházi epidemiológus főállásban | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában |
+| 5. | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^77] |
 
-| 3. | Munkatárs | 1 fő kórházi epidemiológus (800 ágy felett főállásban) | – közegészségtan-járványtan szakorvos;* – megelőző orvostan és népegészségtan szakorvos;* – legalább 5 éves fekvőbeteg szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező:* – az orvostudomány, illetve más egészségtudományi területen szerzett egyetemi diplomával rendelkező szakember, – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+2.2. Második szintű (secunder, SEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények
 
-| 4. |  | 1 fő infektológus | – infektológus szakorvos, – fertőző betegségek szakorvosa |
-
-| 5. |  | 1 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
-
-| 6. |  | minimum 2, illetve további 300 ágyanként 1 fő főállású epidemiológiai szakápoló | – klinikai epidemiológiai szakápoló, – epidemiológiai szakápoló, – diplomás ápoló |
-
-| 7. | Tárgyi feltételek: | irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása | az Eüak.-ban foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi beteg adatbázisba és a mikrobiológiai leletekbe, ha az külön van |
-
-| 8. | Infekciókontroll minimálisan foglalja magába: | – éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek, mely tartalmazzon legalább 1 hat hónapos vagy 2 három hónapos cél surveillance programot az OSZIR NNSR önkéntes moduljaiból (sebfertőzés, ITO, PIC surveillance)* – OSZIR NNSR –kötelező jelentés alrendszerbe történő adatszolgáltatás a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló és a fertőző betegségek jelentésének rendjéről szóló miniszteri rendeletekben foglaltak szerint – Részvétel az Európai Pont Prevalencia Vizsgálatban az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának felmérésére |  |
-
-* a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező
-
-** az adott szakvizsga vonatkozásában érvényes működési nyilvántartással rendelkező
-
-*** a közegészségügyi és népegészségügyi szakmacsoport tekintetében érvényes működési nyilvántartással rendelkező, és kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában
-
-2 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
-
-c) azok az egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét az ellátás progresszivitási szintjének figyelembevételével:
-
-0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.),
-
-1502 szakmakód: intenzív terápia II. vagy III. ellátási szint,
-
-0200 szakmakód: sebészet III. ellátási szint.
+2.2.1. A második szintű (secunder, SEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézményekre vonatkozó személyi minimumfeltételek
 
 |  | A | B | C |
 
-| 1. | Egészségügyi szolgáltatóra vonatkozó minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+| 1. | Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
 
-| 2. | Személyi feltételek: Vezető: | 1 fő kórházi epidemiológus főállásban | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában |
+| 2. | Kórházhigiénés szervezeti egység vezető[^78] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia specializációval |
 
-| 3. | Munkatárs | 1 fő kórházi epidemiológus (800 ágy felett főállásban) | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában |
+| 3. |  | 1 fő infektológus[^79] | – infektológus szakorvos |
 
-| 4. |  | 1 fő infektológus | – infektológus szakorvos, – fertőző betegségek szakorvosa, |
+| 4. | Munkatárs | 1 fő főállású közegészségügyi-járványügyi ellenőr | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember epidemiológia szakon, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
 
-| 5. |  | 1 fő, egyetemeken 2 fő közegészségügyi-járványügyi ellenőr vagy közegészségügyi-járványügyi felügyelő | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – okleveles népegészségügyi szakember epidemiológia szakon |
+| 5. |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
 
-| 6. |  | minimum 2, illetve további 300 ágyanként 1 fő főállású epidemiológiai szakápoló | – klinikai epidemiológiai szakápoló, – epidemiológiai szakápoló, – diplomás ápoló |
+2.2.2. A második szintű (secunder, SEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézményekre vonatkozó egyéb minimumfeltételek
 
-| 7. | Tárgyi feltételek: | irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása | az Eüak.-ban foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi beteg adatbázisba és a mikrobiológiai leletekbe, ha az külön van |
+|  | A | B |
 
-| 8. | Infekciókontroll minimálisan foglalja magába: | – éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek, mely tartalmazzon legalább 1 hat hónapos vagy 2 három hónapos cél surveillance programot az OSZIR NNSR önkéntes moduljaiból (sebfertőzés, ITO, PIC surveillance)* – OSZIR NNSR –kötelező jelentés alrendszerbe történő adatszolgáltatás a fertőző betegségek és a járványok megelőzése érdekében szükséges járványügyi intézkedésekről szóló és a fertőző betegségek jelentésének rendjéről szóló miniszteri rendeletekben foglaltak szerint – Részvétel az Európai Pont Prevalencia Vizsgálatban az egészségügyi ellátással összefüggő fertőzések gyakoriságának és az antimikrobiális szerek alkalmazásának felmérésére |  |
+| 1. | Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek | Leírás |
 
-3 Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laborhátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat.
+| 2. | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
 
-[^41]: Az 1. melléklet a 12/2012. (III. 6.) NEFMI rendelet 10. § (1) bekezdésével megállapított, a 44/2016. (XII. 28.) EMMI rendelet 52. §-a, a 32/2018. (IX. 28.) EMMI rendelet 13. §-a szerint módosított szöveg.
+| 3. | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
+
+| 4. | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
+
+| 5. | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^80] |
+
+2.3. Harmadik szintű (tercier, TERC) fekvőbeteg-ellátást nyújtó egészségügyi szolgáltató intézmények
+
+2.3.1. A harmadik szintű (tercier, TERC) fekvőbeteg-ellátást nyújtó egészségügyi szolgáltató intézményekre vonatkozó személyi minimumfeltételek
+
+|  | A | B | C |
+
+| 1. | Egészségügyi szolgáltatóra vonatkozó személyi minimumfeltételek | Munkakör | A munkakör betöltéséhez szükséges végzettség vagy szakképesítés |
+
+| 2. | Kórházhigiénés szervezeti egység vezető[^81] | 1 fő kórházi epidemiológus | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal és okleveles népegészségügyi szakember epidemiológia specializációval végzettséggel rendelkező orvos |
+
+| 3. | Munkatárs | 1 fő kórházi epidemiológus (1000 aktív ágy felett főállásban) | – közegészségtan-járványtan szakorvos, – megelőző orvostan és népegészségtan szakorvos, – egyéb szakorvos kórházhigiénés és infekciókontroll szakirányú továbbképzés birtokában, – legalább 5 éves, fekvőbeteg-szakellátásban szerzett infekciókontroll szakmai gyakorlattal rendelkező, = orvostudományi diplomával vagy más, egészségtudományi területen szerzett, egyetemi végzettségnek megfelelő diplomával rendelkező szakember, = közegészségügyi-járványügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = népegészségügyi ellenőr, = közegészségügyi-járványügyi felügyelő, = okleveles népegészségügyi szakember népegészségügyi felügyelő specializációval, = okleveles népegészségügyi szakember epidemiológia specializációval |
+
+| 4. |  | 1 fő főállású infektológus[^82] | – infektológus szakorvos |
+
+| 5. |  | 1 fő egyetemeken és 1500 aktív ágy felett 2 fő főállású közegészségügyi-járványügyi ellenőr | – közegészségügyi-járványügyi ellenőr, – közegészségügyi-járványügyi felügyelő, – népegészségügyi ellenőr, – okleveles népegészségügyi szakember epidemiológia szakon, – népegészségügyi felügyelő, – okleveles népegészségügyi szakember népegészségügyi felügyelő szakon, – egyéb, az infekciókontroll szempontjából releváns MSc-képzéssel rendelkező szakember |
+
+| 6. |  | 500 ágyig 2 fő főállású epidemiológiai szakápoló, a fölött minden további megkezdett 250 ágyhoz újabb 1-1 fő epidemiológiai szakápoló | – epidemiológiai szakápoló, – ápoló OKJ (54, 55), – ápoló (BSc, MSc) |
+
+2.3.2. A harmadik szintű (tercier, TERC) fekvőbeteg-ellátást nyújtó egészségügyi szolgáltató intézményekre vonatkozó egyéb minimumfeltételek
+
+|  | A | B |
+
+| 1. | Egészségügyi szolgáltatóra vonatkozó egyéb minimumfeltételek | Leírás |
+
+| 2. | Tárgyi feltételek | Irodahelyiség telefonnal, OSZIR NNSR-be történő online adatszolgáltatáshoz internetkapcsolat és a szoftver futtatására alkalmas számítógép biztosítása; valamint az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvényben (a továbbiakban: Eüak.) foglalt célok érdekében és a szükséges mértékben betekintési jog a kórházi betegdokumentációs (medikai) rendszerbe és a mikrobiológiai leletekbe. |
+
+| 3. | OSZIR NNSR rendszerbe történő kötelező jelentések | Halmozódás/járványgyanú/járvány jelentése, MRK, CDI, VÁF modulok, alkoholos kézfertőtlenítő szer felhasználási adatok, Európai Pont Prevalencia Vizsgálat. |
+
+| 4. | OSZIR NNSR rendszerbe történő kötelezően választható jelentések | Azon egészségügyi szolgáltatók, amelyeknek a működési engedélye az általuk végezhető szakmák között tartalmazza az alábbi egészségügyi szakmakódok valamelyikét, az ellátás progresszivitási szintjének figyelembevételével: – 0502 szakmakód: intenzív neonatológiai osztály (PIC II.), perinatalis (neonatalis) intenzív centrum (PIC III.), – 1502 szakmakód: intenzív terápia II. vagy III. ellátási szint, – 0200 szakmakód: sebészet III. ellátási szint, kötelesek egy alkalommal három hónapos országosan irányított, és legalább egy alkalommal három hónapos szabadon választott surveillance programot végezni az OSZIR NNSR kötelezően választható moduljaiból (műtéti sebfertőzés, ITO, PIC surveillance). |
+
+| 5. | Infekciókontroll minimálisan foglalja magába | Éves infekciókontroll program terv szerint a 3. § (1) és (2) bekezdésében részletezett tevékenységek.[^83] |
+
+2.4. Specializált, aktív ellátást nyújtó kórházak (SPEC) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények: személyi és tárgyi minimumfeltételeik azonosak a 2.2. pont szerinti második szintű fekvőbeteg-szakellátást nyújtó egészségügyi intézményekével.
+
+2.5. Krónikus ellátást nyújtó kórházak (KRÓN) besorolású fekvőbeteg-szakellátást nyújtó egészségügyi intézmények: személyi és tárgyi minimumfeltételeik azonosak a 2.1. pont szerinti első szintű fekvőbeteg-szakellátást nyújtó egészségügyi intézményekével.
+
+[^74]: Az 1. melléklet a 20/2024. (IV. 17.) BM rendelet 14. §-ával megállapított szöveg.
+[^75]: Idetartoznak fenntartótól függetlenül a járóbeteg-szakellátás keretében dialízis ellátást nyújtó egészségügyi szolgáltatók is. Amennyiben ezen egészségügyi szolgáltató több önálló telephellyel rendelkezik, akkor az 1. pont 1.1–1.2. alpontja szerinti infekciókontroll személyi és egyéb minimumfeltételeket legalább székhelyén/főtelephelyén köteles biztosítani és felügyelni az egészségügyi szolgáltató valamennyi telephelyének infekciókontroll tevékenységét.
+[^76]: Vezetői munkakört csak főállású szakember láthat el.
+[^77]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (vagy ennek hiányában szerződött) (fő)gyógyszerész végzi.
+[^78]: Mind a kórházi epidemiológus, mind az infekciókontroll feladatokat ellátó infektológus vezetői kinevezése megfelelő; illetve vezetői munkakört csak főállású szakember láthat el.
+[^79]: Infekciókontroll feladatok ellátására.
+[^80]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (fő)gyógyszerész végzi.
+[^81]: Vezetői munkakört csak főállású szakember láthat el.
+[^82]: Infekciókontroll feladatok ellátására.
+[^83]: Amennyiben a fekvőbeteg-szakellátást nyújtó egészségügyi szolgáltató a mikrobiológiai laboratóriumi hátteret közreműködő által biztosítja, úgy a közreműködő egészségügyi szolgáltató végzi a 3. § (1) bekezdés a) pont ab) és ac) alpontjában előírtakat. A 3. § (1) bekezdés a) pont ad) alpontjában előírtakat az intézményi (fő)gyógyszerész végzi.
