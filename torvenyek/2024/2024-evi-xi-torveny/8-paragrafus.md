@@ -1,1 +1,1 @@
-8. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 3. § (1) bekezdésében az „a Nemzeti Földügyi Központ” szövegrész helyébe az „az általa vezetett minisztérium mint a Nemzeti Földalap kezeléséért felelős szerv” szöveg lép.
+### 8. §

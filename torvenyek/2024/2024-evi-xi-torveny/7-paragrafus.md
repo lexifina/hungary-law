@@ -1,5 +1,3 @@
-## „A Nemzeti Földalap ellenőrzése”
-
 7. § A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény a következő 34/B. §-sal egészül ki:
 
 „34/B. § (1) A Nemzeti Földügyi Központ 2024. május 31. napjával beolvadásos különválással megszűnik. A Nemzeti Földügyi Központ általános jogutódja – a (2) bekezdésben meghatározott kivétellel – a miniszter által vezetett minisztérium.
