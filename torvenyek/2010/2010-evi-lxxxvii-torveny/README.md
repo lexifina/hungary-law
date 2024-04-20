@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-87-00-00
 | 2023-01-01 | 2022. évi LXVII. törvény | 2010-87-00-00.49 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2010-87-00-00.50 |
 | 2024-01-01 | 2023. évi XCIV. törvény | 2010-87-00-00.51 |
+| 2024-04-20 | 2024. évi XI. törvény | 2010-87-00-00.52 |
