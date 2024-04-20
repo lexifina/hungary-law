@@ -1,0 +1,1 @@
+19. § Az agrártermékek eredetvédelméről szóló 2022. évi LXVI. törvény 8. § (2) bekezdésében a „Nemzeti Földügyi Központot” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szervet” szöveg lép.
