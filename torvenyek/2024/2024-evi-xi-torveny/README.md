@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-11-00-00
 | --- | --- | --- |
 | 2024-04-20 | 2024. évi XI. törvény | 2024-11-00-00.0 (közlönyállapot) |
 | 2024-04-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-11-00-00.1 |
+| 2024-04-21 | 2010. évi CXXX. törvény | 2024-11-00-00.2 |
