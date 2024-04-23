@@ -1,20 +1,18 @@
 ## 1. egyetért Debrecen gazdasági övezeteinek megközelítését szolgáló közúti infrastruktúra-fejlesztésekkel, az 1. melléklet szerinti indikatív projektlistának megfelelően;
 
-## 2. felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatok megvalósítása érdekében gondoskodjon összesen legfeljebb 26 520 000 000 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 2.[^1] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére, az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatok megvalósítása érdekében gondoskodjon összesen legfeljebb 26 520 000 000 forint forrás biztosításáról, a következő ütemezés szerint:
 
-## a) a 2023. évben legfeljebb 300 000 000 forint a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami Közútfejlesztési beruházások jogcímcsoport javára,
+## a) a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára 4 000 000 000 forint,
 
-## b) a 2024. évben legfeljebb 13 170 000 000 forint,
+## b) a 2025. évben 13 500 000 000 forint az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára,
 
-## c) a 2025. évben legfeljebb 6 960 000 000 forint,
+## c) a 2026. évben 3 000 000 000 forint az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára,
 
-## d) a 2026. évben legfeljebb 6 040 000 000 forint és
-
-## e) a 2027. évben legfeljebb 50 000 000 forint az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára;
+## d) a 2027. évben 6 020 000 000 forint az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
-| Határidő: | az a) alpont tekintetében a felmerülés ütemében a b) alpont tekintetében a 2024. évi költségvetés végrehajtása során, a felmerülés ütemében a c)–e) alpont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | az a) alpont tekintetében a felmerülés ütemében, legkésőbb 2024. december 31-ig a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 3. felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére az 1. mellékletben foglalt táblázat 12. sorában meghatározott feladatok megvalósítása érdekében gondoskodjon legfeljebb 2 042 224 600 forint forrás biztosításáról a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím javára;
 
@@ -28,9 +26,9 @@
 
 | Határidő: | a forrás rendelkezésre állását követően |
 
-## 5. az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatok 2024–2027. évi finanszírozása érdekében a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami Közútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját összesen 26 220 000 000 forint összegben állapítja meg;
+## 5.[^2] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva a 2025–2027. években az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatokkal összefüggésben a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami Közútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettségvállalás felső korlátját összesen 22 520 000 000 forint összegben állapítja meg;
 
-## 6. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatok megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 300 000 000 forint összegben kötelezettséget vállaljon a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére;
+## 6.[^3] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt táblázat 2–11. sorában meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 4 000 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére;
 
 ## 7. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt táblázat 12. sorában meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 2 041 000 000 forint összegben kötelezettséget vállaljon a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím terhére;
 
@@ -75,3 +73,7 @@ Debrecen gazdasági övezeteinek megközelítését szolgáló közúti infrastr
 | 12. | DEBKÖZÚT-13 | 2023–2024 | Debrecen Megyei Jogú Város Önkormányzata | Mandolás utca hiányzó szakaszának megépítése |
 
 | 13. | DEBKÖZÚT-14 | 2023–2024 | Építési és Közlekedési Minisztérium | 4. számú főút és a 49101. jelű út közötti közúti kapcsolat előkészítése |
+
+[^1]: A 2. pont az 1118/2024. (IV. 23.) Korm. határozat 7. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1118/2024. (IV. 23.) Korm. határozat 8. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1118/2024. (IV. 23.) Korm. határozat 8. pontjával megállapított szöveg.
