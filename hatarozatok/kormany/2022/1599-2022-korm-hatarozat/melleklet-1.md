@@ -36,15 +36,15 @@
 
 | Határidő: | 2023. március 31. |
 
-## i) felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az a) alpont szerinti vasúti feladatok 2023–2026. évi megvalósítása érdekében
+## i) [^2] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezésére gondoskodjon az a) alpont szerinti vasúti feladatok 2024–2026. évi megvalósítása érdekében
 
-## ia) [^2] a 2023. évben legfeljebb 1 000 000 000 forint biztosításáról a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára,
+## ia) a 2024. évben legfeljebb 500 000 000 forint biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: 2024. évi Kvtv.) 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára,
 
-## ib) [^3] a 2024. évben legfeljebb 15 500 000 000 forint, a 2025. évben legfeljebb 15 500 000 000 forint, a 2026. évben legfeljebb 11 500 000 000 forint rendelkezésre állásáról az éves központi költségvetés vasúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
+## ib) a 2025. évben legfeljebb 18 000 000 000 forint, a 2026. évben legfeljebb 25 000 000 000 forint rendelkezésre állásáról az éves központi költségvetés vasúti infrastruktúra-fejlesztéseket finanszírozó előirányzata javára;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
-| Határidő: | az ia) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az ib) pont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | a 2024. évben a felmerülés ütemében, legkésőbb 2024. december 31-ig, a 2025. évben a központi költségvetés tervezése során |
 
 ## j) felhívja az építési és közlekedési minisztert, hogy – a megadott kötelezettségvállalási engedélyek alapján – a Beruházás előkészítése és megvalósítása érdekében létesítsen támogatási jogviszonyt a NIF Zrt.-vel.
 
@@ -52,24 +52,23 @@
 
 | Határidő: | azonnal |
 
-## 2.[^4]
+## 2.[^3]
 
-## 3.[^5]
+## 3.[^4]
 
-## 4.[^6]
+## 4.[^5]
 
-## 5.[^7]
+## 5.[^6]
 
-## 6.[^8]
+## 6.[^7]
 
-1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^9]
+1. melléklet az 1599/2022. (XII. 1.) Korm. határozathoz[^8]
 
 [^1]: Az 1. pont c) alpontja az 1468/2023. (X. 30.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
-[^2]: Az 1. pont i) alpont ia) pontja az 1468/2023. (X. 30.) Korm. határozat 4. pont a) alpontjával megállapított szöveg.
-[^3]: Az 1. pont i) alpont ib) pontja az 1468/2023. (X. 30.) Korm. határozat 4. pont c) alpontja szerint módosított szöveg.
-[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont i) alpontja az 1118/2024. (IV. 23.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
