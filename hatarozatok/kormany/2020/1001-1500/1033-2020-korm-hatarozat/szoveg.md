@@ -24,25 +24,39 @@ c) a 2023. évben 3 500 000 USD-nek megfelelő forintösszeg,
 
 d) a 2024. évben 3 500 000 USD-nek megfelelő forintösszeg,
 
-e) a 2025. évben 3 600 000 USD-nek megfelelő forintösszeg,
+e)[^2]
 
-f) a 2026. évben 9 100 000 USD-nek megfelelő forintösszeg,
+f)[^3]
 
-g) a 2027. évben 7 050 000 USD-nek megfelelő forintösszeg;
+g)[^4]
 
 Felelős: pénzügyminiszter
 
 Miniszterelnökséget vezető miniszter
 
-Határidő: a 2021–2027. évekre, az adott évi központi költségvetés tervezése során
+Határidő: a 2021–2024. évekre, az adott évi központi költségvetés tervezése során
 
-4.[^2] felhívja a kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztost, hogy – az emberi erőforrások minisztere bevonásával – készítsen előterjesztést a Kormány részére a Világbajnokság megrendezésével kapcsolatos további intézkedésekről, egyéb költségekről és a szükséges költségvetési forrás biztosításáról.
+4.[^5] felhívja a pénzügyminisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával – gondoskodjon – a Szerződés rendelkezéseivel összhangban és az abban rögzített ütemezés szerint – a Világbajnokság megrendezése érdekében a Nemzetközi Úszó Szövetség részére fizetendő világbajnoksági díj, valamint a producer szolgáltatásaival és a hazai közvetítővel kapcsolatos költségek fedezésére szolgáló központi költségvetési támogatás biztosításáról a XXI. Miniszterelnöki Kabinetiroda fejezet javára, az alábbi bontás szerint:
 
-Felelős: kiemelt budapesti fejlesztésekért és nemzetközi sporteseményekért felelős kormánybiztos
+a) a 2025. évben 4 572 000 USD-nek megfelelő forintösszeg,
 
-emberi erőforrások minisztere
+b) a 2026. évben 11 557 000 USD-nek megfelelő forintösszeg,
 
-Határidő: 2022. március 31.
+c) a 2027. évben 8 953 500 USD-nek megfelelő forintösszeg;
 
-[^1]: A 3. pont az 1169/2021. (IV. 9.) Korm. határozat 9. pontjával megállapított szöveg.
-[^2]: A 4. pont az 1169/2021. (IV. 9.) Korm. határozat 9. pontjával megállapított szöveg.
+| Felelős: | pénzügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter |
+
+| Határidő: | az adott évi központi költségvetés tervezése során |
+
+5.[^6] felhívja a honvédelmi minisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával, a Nemzeti Kommunikációs Hivatal és a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság útján – készítsen előterjesztést a Kormány részére a Világbajnokság megrendezésével kapcsolatos további intézkedésekről, egyéb költségekről és a szükséges költségvetési forrás biztosításáról.
+
+| Felelős: | honvédelmi miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
+
+| Határidő: | 2024. szeptember 30. |
+
+[^1]: A 3. pont az 1169/2021. (IV. 9.) Korm. határozat 9. pontjával megállapított, záró szövegrésze az 1113/2024. (IV. 23.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont e) alpontot az 1113/2024. (IV. 23.) Korm. határozat 5. pontja visszavonta.
+[^3]: A 3. pont f) alpontot az 1113/2024. (IV. 23.) Korm. határozat 5. pontja visszavonta.
+[^4]: A 3. pont g) alpontot az 1113/2024. (IV. 23.) Korm. határozat 5. pontja visszavonta.
+[^5]: A 4. pont az 1113/2024. (IV. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: Az 5. pontot az 1113/2024. (IV. 23.) Korm. határozat 3. pontja iktatta be.
