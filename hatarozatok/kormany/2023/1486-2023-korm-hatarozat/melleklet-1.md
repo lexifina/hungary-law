@@ -30,4 +30,6 @@
 
 | Határidő: | a 3. pont szerinti forrás rendelkezésre állását követően azonnal |
 
-1. melléklet az 1486/2023. (XI. 9.) Korm. határozathoz
+1. melléklet az 1486/2023. (XI. 9.) Korm. határozathoz[^1]
+
+[^1]: Az 1. melléklet az 1118/2024. (IV. 23.) Korm. határozat 16. pontja szerint módosított szöveg.
