@@ -4,7 +4,7 @@ a)
 
 b)
 
-c)
+c) 51. § (10) bekezdése,
 
 d)
 
