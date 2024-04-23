@@ -2,4 +2,4 @@ Az Alaptörvény 9. cikk (3) bekezdés k) pontja, valamint a bírák jogállás�
 
 KEH ügyszám: KEH/01802-15/2018.
 
-[^1]: A 204/2021. (V. 6.) KE határozat alapján a köztársasági elnök dr. Mizsák Georgina Mária bírói kinevezését a 2021. május 1. napjától 2024. április 30. napjáig terjedő időtartamra meghosszabbíta.
+[^1]: A 83/2024. (IV. 23.) KE határozat alapján a köztársasági elnök dr. Mizsák Georgina Mária bírói kinevezését a 2024. május 1. napjától 2027. április 30. napjáig terjedő időtartamra meghosszabbította.
