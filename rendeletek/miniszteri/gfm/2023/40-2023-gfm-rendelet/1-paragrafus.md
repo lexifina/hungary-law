@@ -1,0 +1,1 @@
+1. § A bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 21/2011. (VI. 10.) NGM rendelet 8. §-ában az „51. § (10)” szövegrész helyébe az „51/A. § (1)” szöveg lép.
