@@ -116,33 +116,33 @@
 
 | Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében a 2024. évi költségvetés végrehajtása során, a felmerülés ütemében |
 
-## 15.[^6] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján – az 1. melléklet 2. pontjában foglalt táblázat 9. sorában meghatározott projektelem (a továbbiakban: Vasútfejlesztési Projektelem) megvalósítása érdekében – gondoskodjon többletforrás biztosításáról az alábbi ütemezés szerint:
+## 15.[^6] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján – az 1. melléklet 2. pontjában foglalt táblázat 9. sorában meghatározott projektelem (a továbbiakban: Vasútfejlesztési Projektelem) megvalósítása érdekében – gondoskodjon többletforrás biztosításáról, a következő ütemezés szerint:
 
-## a) a 2023. évben legfeljebb 10 000 000 forint a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami vasútfejlesztési beruházások jogcímcsoport javára,
+## a) a 2024. évben legfeljebb 500 000 000 forint a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport javára,
 
-## b) a 2024. évben legfeljebb 3 440 000 000 forint a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet állami vasútfejlesztési beruházásokat szolgáló előirányzata javára és
+## b) a 2025. évben legfeljebb 2 000 000 000 forint a 2025. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami vasútfejlesztési beruházások finanszírozását szolgáló előirányzata javára,
 
-## c) a 2025. évben legfeljebb 1 150 000 000 forint a 2025. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami vasútfejlesztési beruházásokat szolgáló előirányzata javára;
+## c) a 2026. évben legfeljebb 1 300 000 000 forint a 2026. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami vasútfejlesztési beruházások finanszírozását szolgáló előirányzata javára,
 
-| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
-
-| Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében a 2024. évi költségvetés végrehajtása során, a felmerülés ütemében a c) alpont tekintetében a 2025. évi központi költségvetés tervezése során |
-
-## 16.[^7] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján az 1. melléklet 2. pontjában foglalt táblázat 10–14. sorában meghatározott közútfejlesztések (a továbbiakban: ÉKM Közútfejlesztési Projektelemek) megvalósítása érdekében gondoskodjon többletforrás biztosításáról az alábbi ütemezés szerint:
-
-## a) a 2023. évben legfeljebb 150 000 000 forint a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára,
-
-## b) a 2024. évben legfeljebb 740 000 000 forinta 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára,
-
-## c) a 2025. évben legfeljebb 1 320 000 000 forinta 2025. évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára,
-
-## d) a 2026. évben legfeljebb 1 500 000 000 forint a 2026. évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára és
-
-## e) a 2027. évben legfeljebb 2 000 000 000 forint az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzata javára;
+## d) a 2027. évben legfeljebb 800 000 000 forint a 2027. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami vasútfejlesztési beruházások finanszírozását szolgáló előirányzata javára;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
-| Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében a 2024. évi költségvetés végrehajtása során, a felmerülés ütemében a c)–e) alpont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | az a) alpont tekintetében a felmerülés ütemében, legkésőbb 2024. december 31-ig a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
+
+## 16.[^7] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján az 1. melléklet 2. pontjában foglalt táblázat 10–14. sorában meghatározott közútfejlesztések (a továbbiakban: ÉKM Közútfejlesztési Projektelemek) megvalósítása érdekében gondoskodjon összesen legfeljebb 5 710 000 000 forint biztosításáról, a következő ütemezés szerint:
+
+## a) a 2024. évben 50 000 000 forint a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára,
+
+## b) a 2025. évben 1 200 000 000 forint a 2025. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami közútfejlesztési beruházások finanszírozását szolgáló előirányzata javára,
+
+## c) a 2026. évben 1 960 000 000 forint a 2026. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami közútfejlesztési beruházások finanszírozását szolgáló előirányzata javára,
+
+## d) a 2027. évben 2 500 000 000 forint a 2027. évi központi költségvetési törvény XLV. Állami beruházások fejezet állami közútfejlesztési beruházások finanszírozását szolgáló előirányzata javára;
+
+| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
+
+| Határidő: | az a) alpont tekintetében a felmerülés ütemében, legkésőbb 2024. december 31-ig a b)–d) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 17.[^8] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter kezdeményezése alapján az 1. melléklet 2. pontjában foglalt táblázat 7. sorában meghatározott projektelem (a továbbiakban: DLKT) megvalósítása érdekében gondoskodjon többletforrás biztosításáról az alábbi ütemezés szerint:
 
@@ -188,25 +188,25 @@
 
 ## 24.[^15] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter az Energetikai Projektelem megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 1 206 000 000 forint összegben kötelezettséget vállaljon a 2023. évi Kvtv. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére;
 
-## 25.[^16] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az ÉKM Közútfejlesztési Projektelemek megvalósításához a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2024–2027. évekre az alábbiak szerint állapítja meg:
+## 25.[^16] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az ÉKM Közútfejlesztési Projektelemek megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 50 000 000 forint összegben kötelezettséget vállaljon a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére;
 
-## a) a 2024. évben 740 000 000 forint,
+## 26.[^17] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az ÉKM Közútfejlesztési Projektelemek megvalósítása érdekében a 2024. évi Kvtv. 1 melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházásokat finanszírozó előirányzat terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2025–2027. évekre az alábbiak szerint állapítja meg:
 
-## b) a 2025. évben 1 320 000 000 forint,
+## a) a 2025. évben 1 200 000 000 forint,
 
-## c) a 2026. évben 1 500 000 000 forint,
+## b) a 2026. évben 1 960 000 000 forint,
 
-## d) a 2027. évben 2 000 000 000 forint;
+## c) a 2027. évben 2 500 000 000 forint;
 
-## 26.[^17] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az ÉKM Közútfejlesztési Projektelemek megvalósítása érdekében 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 150 000 000 forint összegben kötelezettséget vállaljon a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére;
+## 27.[^18] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a Vasútfejlesztési Projektelem megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 500 000 000 forint összegben kötelezettséget vállaljon a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére;
 
-## 27.[^18] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Vasútfejlesztési Projektelem előkészítéséhez a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2024–2025. években az alábbiak szerint állapítja meg:
+## 28.[^19] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a Vasútfejlesztési Projektelem megvalósítása érdekében a 2024. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2025–2027. évekre az alábbiak szerint állapítja meg:
 
-## a) a 2024. évben 3 440 000 000 forint,
+## a) a 2025. évben 2 000 000 000 forint,
 
-## b) a 2025. évben 1 150 000 000 forint;
+## b) a 2026. évben 1 300 000 000 forint,
 
-## 28.[^19] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter a Vasútfejlesztési Projektelem megvalósítása érdekében 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 10 000 000 forint összegben kötelezettséget vállaljon a 2023. évi Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 1. Állami vasútfejlesztési beruházások jogcímcsoport terhére;
+## c) a 2027. évben 800 000 000 forint;
 
 ## 29.[^20] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a DLKT megvalósításához a 2023. évi Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím terhére vállalható éven túli kötelezettségvállalás felső korlátját a 2024–2025. években az alábbiak szerint állapítja meg:
 
@@ -311,8 +311,8 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 [^3]: A 12. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^4]: A 13. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^5]: A 14. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^6]: A 15. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^7]: A 16. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^6]: A 15. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 16. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 1. pontjával megállapított szöveg.
 [^8]: A 17. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^9]: A 18. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^10]: A 19. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
@@ -321,10 +321,10 @@ A debreceni Déli Gazdasági Övezet infrastrukturális fejlesztéseinek indikat
 [^13]: A 22. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^14]: A 23. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^15]: A 24. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^16]: A 25. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^17]: A 26. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^18]: A 27. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
-[^19]: A 28. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
+[^16]: A 25. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^17]: A 26. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^18]: A 27. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^19]: A 28. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be, szövege az 1118/2024. (IV. 23.) Korm. határozat 2. pontjával megállapított szöveg.
 [^20]: A 29. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^21]: A 30. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
 [^22]: A 31. pontot az 1305/2023. (VII. 19.) Korm. határozat 1. pontja iktatta be.
