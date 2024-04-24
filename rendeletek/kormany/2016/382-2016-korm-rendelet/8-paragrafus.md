@@ -1,6 +1,6 @@
 ## 6. A hajózási hatóságok kijelölése
 
-8. § (1)[^90] Hajózási hatóságként a Kormány
+8. § (1)[^92] Hajózási hatóságként a Kormány
 
 a) a (2) és (3) bekezdés szerinti ügyekben a minisztert,
 
@@ -14,15 +14,15 @@ jelöli ki.
 
 (2) Hajózási hatóságként a miniszter jár el:
 
-1. [^91]
+1.[^93]
 
-2. [^92] hajózásbiztonsági ellenőri képesítéssel,
+2.[^94] hajózásbiztonsági ellenőri képesítéssel,
 
 3. a révkalauzok és hajózási szakértők nyilvántartásának vezetésével,
 
 4. a vizsgabiztosok névjegyzékének vezetésével,
 
-5. [^93] a hajózási képesítések megszerzésére felkészítő képzések jóváhagyásával, és ellenőrzésével, továbbá a hajózási üzemeltetési vezetői képesítések, hajózási képesítések és képesítő okmányok közhiteles nyilvántartásával, a vizsgák részletes szabályait és feltételeit, valamint a vizsgabizottság működési rendjét megállapító vizsgaszabályzat jóváhagyásával, valamint a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján számonkérhető ismeretanyag, a vizsgafeladatok és a vizsgatárgyak számonkérésének módjának meghatározásával,
+5.[^95] a hajózási képesítések megszerzésére felkészítő képzések jóváhagyásával, és ellenőrzésével, továbbá a hajózási üzemeltetési vezetői képesítések, hajózási képesítések és képesítő okmányok közhiteles nyilvántartásával, a vizsgák részletes szabályait és feltételeit, valamint a vizsgabizottság működési rendjét megállapító vizsgaszabályzat jóváhagyásával, valamint a vizsgakövetelményekre vagy a képesítés megszerzésére vonatkozó előírások alapján számonkérhető ismeretanyag, a vizsgafeladatok és a vizsgatárgyak számonkérésének módjának meghatározásával,
 
 6. a hajózási gyakorlati idő mérséklésének engedélyezésével,
 
@@ -52,13 +52,13 @@ jelöli ki.
 
 19. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-20. [^94] a településfejlesztési terv és a településrendezési terv víziúttal érintett település esetében történő egyeztetési eljárásaival
+20.[^96] a településfejlesztési terv és a településrendezési terv víziúttal érintett település esetében történő egyeztetési eljárásaival
 
-21. [^95] a hajós és tengerész szolgálati könyv nyilvántartásával,
+21.[^97] a hajós és tengerész szolgálati könyv nyilvántartásával,
 
-22. [^96] a szimulátorok jóváhagyásával
+22.[^98] a szimulátorok jóváhagyásával
 
-## kapcsolatos ügyekben.
+kapcsolatos ügyekben.
 
 (3) A Vkt. 48/B. § (1) bekezdésében meghatározott folyami információs szolgáltatás működtetéséhez, ellenőrzéséhez kapcsolódó feladatokat a miniszter látja el.
 
@@ -72,7 +72,7 @@ jelöli ki.
 
 4. az úszólétesítmények építési (átépítési) terveinek felülvizsgálatával és jóváhagyásával,
 
-5. [^97] a (6) bekezdésben foglaltak kivételével az úszólétesítmény üzemképességének megállapításával és tanúsításával,
+5.[^99] a (6) bekezdésben foglaltak kivételével az úszólétesítmény üzemképességének megállapításával és tanúsításával,
 
 6. a szállítótartályok (konténerek) műszaki felügyeletével, gyártó, javító üzemeinek jóváhagyásával,
 
@@ -104,17 +104,17 @@ jelöli ki.
 
 20. a rajnai hajózásban való részvételi jogosultságot igazoló okmány kiadásával,
 
-21. [^98] a vízi repülőtér kivételével az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásával,
+21.[^100] a vízi repülőtér kivételével az úszólétesítményen hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírásával,
 
-22. [^99] a vízi repülőtér kivételével vízi sportpálya kijelölésével,
+22.[^101] a vízi repülőtér kivételével vízi sportpálya kijelölésével,
 
-23. [^100] az európai hajóazonosító szám kiadásával, a Vkt. 48/C. § (1) bekezdése szerinti adatrögzítéssel, az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendeletben meghatározott adatkezeléssel és annak 5. cikkében az egyedüli kapcsolattartó pont számára meghatározott feladatok ellátásával,
+23.[^102] az európai hajóazonosító szám kiadásával, a Vkt. 48/C. § (1) bekezdése szerinti adatrögzítéssel, az európai hajóadatbázisról szóló, 2020. január 20-i (EU) 2020/474 felhatalmazáson alapuló bizottsági rendeletben meghatározott adatkezeléssel és annak 5. cikkében az egyedüli kapcsolattartó pont számára meghatározott feladatok ellátásával,
 
 24. a magyar lobogójú tengeri hajók tengeri kikötő szerinti állam hatósága által folytatott ellenőrzése adatainak (ellenőrző hatóság, ellenőrzés ideje, eredménye) nyilvántartásával, a hajó feltartóztatása esetén az üzemképesség helyreállításának ellenőrzésével,
 
 25. a Vkt. 20. §-a szerinti megfelelőség tanúsításával összefüggő kötelezettségek teljesítésének piacfelügyeleti ellenőrzésével,
 
-26. [^101] a hajós és tengerész szolgálati könyv ellenőrzésével,
+26.[^103] a hajós és tengerész szolgálati könyv ellenőrzésével,
 
 27. a tengeri kedvtelési célú kishajók jachtnaplójának és személyzeti jegyzékének kiadásával és hitelesítésével,
 
@@ -130,32 +130,32 @@ jelöli ki.
 
 33. a hatáskörébe tartozó hajózási bírság kiszabásával,
 
-34. [^102] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
+34.[^104] jogszabály által más szerv hatáskörébe nem utalt hajózási hatósági hatáskörrel
 
-## kapcsolatos eljárásokban.
+kapcsolatos eljárásokban.
 
-(5) [^103] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
+(5)[^105] Budapest Főváros Kormányhivatala a (4) bekezdés 2–3., 8. és 15–16. pontjában foglalt feladataival összefüggésben, a miniszter a (2) bekezdés 18. pontja alapján az általa kiadott tengerészeti munkaügyi bizonyítványokról közhiteles nyilvántartást vezet.
 
-(6) [^104] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
+(6)[^106] Budapest Főváros Kormányhivatala a tengeri hajókkal kapcsolatos, a lobogó szerinti állam kötelezettségein alapuló hatósági feladatai operatív ellátásával összefüggésben – a vonatkozó nemzetközi minőségügyi szabványok szerinti és tanúsítvánnyal igazolt – hatékony minőségbiztosítási rendszert hoz létre és működtet.
 
-(7) [^105] A Kormány hajózási hatóságként első fokon a minisztert jelöli ki a víziközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
+(7)[^107] A Kormány hajózási hatóságként első fokon a minisztert jelöli ki a víziközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
 
-(8) [^106] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
+(8)[^108] A kizárólag edzésre és versenyzésre szolgáló vitorlás kishajók időközi üzemképességének megállapításával és tanúsításával kapcsolatos feladatokat a Magyar Vitorlás Szövetség látja el.
 
-[^90]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^91]: A 8. § (2) bekezdés 1. pontját a 247/2019. (X. 24.) Korm. rendelet 6. §-a hatályon kívül helyezte. [A 248/2019. (X. 24.) Korm. rendelet 15. § b) pontjával elrendelet módosítás, amely szerint hatályát veszti 8. § (2) bekezdés 1. pontja, nem vezethető át.]
-[^92]: A 8. § (2) bekezdés 2. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
-[^93]: A 8. § (2) bekezdés 5. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
-[^94]: A 8. § (2) bekezdés 20. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
-[^95]: A 8. § (2) bekezdés 21. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^96]: A 8. § (2) bekezdés 22. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^97]: A 8. § (4) bekezdés 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^98]: A 8. § (4) bekezdés 21. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^99]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^100]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
-[^101]: A 8. § (4) bekezdés 26. pontja a 66/2022. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
-[^102]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
-[^103]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^104]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be.
-[^106]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^92]: A 8. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (5) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^93]: A 8. § (2) bekezdés 1. pontját a 247/2019. (X. 24.) Korm. rendelet 6. §-a hatályon kívül helyezte. [A 248/2019. (X. 24.) Korm. rendelet 15. § b) pontjával elrendelet módosítás, amely szerint hatályát veszti 8. § (2) bekezdés 1. pontja, nem vezethető át.]
+[^94]: A 8. § (2) bekezdés 2. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (1) bekezdésével megállapított szöveg.
+[^95]: A 8. § (2) bekezdés 5. pontja a 789/2021. (XII. 27.) Korm. rendelet 56. § (2) bekezdésével megállapított szöveg.
+[^96]: A 8. § (2) bekezdés 20. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^97]: A 8. § (2) bekezdés 21. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^98]: A 8. § (2) bekezdés 22. pontját a 66/2022. (II. 28.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^99]: A 8. § (4) bekezdés 5. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (6) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^100]: A 8. § (4) bekezdés 21. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^101]: A 8. § (4) bekezdés 22. pontja a 360/2019. (XII. 30.) Korm. rendelet 158. § (7) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^102]: A 8. § (4) bekezdés 23. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés g) pontja hatályon kívül helyezte, újonnan az 534/2020. (XI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^103]: A 8. § (4) bekezdés 26. pontja a 66/2022. (II. 28.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^104]: A 8. § (4) bekezdés 34. pontját a 473/2016. (XII. 27.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^105]: A 8. § (5) bekezdése a 267/2018. (XII. 20.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^106]: A 8. § (6) bekezdését a 267/2018. (XII. 20.) Korm. rendelet 1. §-a iktatta be.
+[^107]: A 8. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^108]: A 8. § (8) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (8) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.

@@ -20,6 +20,12 @@ b) – a létfontosságú rendszerelem vasúti kapcsolata esetén – a logiszti
 
 tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként.
 
+(8)[^90] A vasúti közlekedési hatóság jár el az (EU) 2023/1695 bizottsági végrehajtási rendelet 3. cikk (2) bekezdés c) pontja, valamint 4. cikk (2) bekezdés c) pontja szerinti tagállami feladatok tekintetében.
+
+(9)[^91] Az (EU) 2023/1695 bizottsági végrehajtási rendelet 5. cikk (4) bekezdése szerinti tagállami feladatok tekintetében a miniszter jár el.
+
 [^87]: A 6. § a 473/2016. (XII. 27.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
 [^88]: A 6. § (5) bekezdése a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
 [^89]: A 6. § (7) bekezdését a 161/2019. (VII. 4.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^90]: A 6. § (8) bekezdését a 91/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^91]: A 6. § (9) bekezdését a 91/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.

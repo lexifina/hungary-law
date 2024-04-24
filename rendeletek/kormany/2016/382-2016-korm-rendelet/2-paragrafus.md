@@ -36,19 +36,19 @@ jelöli ki.
 
 10. vasúti átjáró – az ideiglenesen létesített vasúti átjáró kivételével – létesítésének, áthelyezésének és megszüntetésének, valamint a létesítés és az áthelyezés során a vasúti átjáró biztosítási módjának és forgalmi rendjének engedélyezése,
 
-11. [^8] a vasúti átjárók, a vasúti gyalogos átkelőhelyek forgalmi rendjére és a kijelölt gyalogos átkelőhelyek létesítésére vonatkozó, a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatalok által vezetett nyilvántartások alapján országos összesítő nyilvántartás vezetése,
+11.[^8] a vasúti átjárók, a vasúti gyalogos átkelőhelyek forgalmi rendjére és a kijelölt gyalogos átkelőhelyek létesítésére vonatkozó, a közlekedési hatóságként eljáró fővárosi és vármegyei kormányhivatalok által vezetett nyilvántartások alapján országos összesítő nyilvántartás vezetése,
 
 12. a gyorsforgalmi utakat és közúti határátkelőhelyeket érintően – ha az út kezelője forgalomszabályozási intézkedésével vagy annak megtagadásával mások érdekeit sérti, vagy az út kezelőjének előírásai betartására, jelek, jelzések vagy berendezések eltávolítására vonatkozó felszólításának nem tesznek eleget – az érdekeltek kérelmére indított eljárás,
 
 13. a gyorsforgalmi utak, valamint a közúti határátkelőhelyek útjai tekintetében az országos közút helyi közúttá vagy magánúttá, a helyi közút országos közúttá vagy magánúttá, a magánút helyi közúttá vagy országos közúttá nyilvánításával kapcsolatos ügyek,
 
-14. [^9] a településfejlesztési terv és a településrendezési terv a gyorsforgalmi úttal, a közúti határátkelőhellyel érintett település esetében történő egyeztetési eljárásai
+14.[^9] a településfejlesztési terv és a településrendezési terv a gyorsforgalmi úttal, a közúti határátkelőhellyel érintett település esetében történő egyeztetési eljárásai
 
-## során.
+során.
 
-(3) [^10] Útügyi közlekedési hatóságként a fővárosi és vármegyei kormányhivatal jár el
+(3)[^10] Útügyi közlekedési hatóságként a fővárosi és vármegyei kormányhivatal jár el
 
-1. [^11] a (2) bekezdés 1–3. pontjában meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
+1.[^11] a (2) bekezdés 1–3. pontjában meghatározottak kivételével az út és műtárgyai, továbbá az út építésével, korszerűsítésével összefüggő járda, valamint önálló beruházásában megvalósuló 30 m szabadnyílást meg nem haladó gyalogos felüljárók és hidak építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezésével vagy bejelentésével összefüggő ügyek,
 
 2. az engedélyezési hatáskörébe tartozó utak 30 m szabadnyílást meg nem haladó hídjai kiviteli tervének jóváhagyása,
 
@@ -104,29 +104,29 @@ jelöli ki.
 
 28. az engedélyezési hatáskörébe tartozó utak tekintetében elektronikus közúti ellenőrző rendszer, illetve ellenőrző berendezés elhelyezéséhez szükséges hozzájárulás kiadása,
 
-29. [^12] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
+29.[^12] a közlekedés biztonságát veszélyeztető helyzet megszüntetése érdekében az útkereszteződés beláthatóságát akadályozó fa, vagy egyéb növényzet eltávolításának elrendelése,
 
-30. [^13] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
+30.[^13] a vasúti átjáró rálátási háromszögének területén lévő fa, vagy egyéb növényzet kivágásának elrendelése
 
-31. [^14] a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése
+31.[^14] a járdák, gyalogutak és azok műtárgyai építésének, korszerűsítésének, forgalomba helyezésének, fennmaradásának és megszüntetésének (elbontásának) engedélyezése vagy bejelentése, valamint ezek nem közlekedési célú igénybevételének engedélyezése
 
-## során.
+során.
 
-(4) [^15] Útügyi közlekedési hatóságként a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala jár el:
+(4)[^15] Útügyi közlekedési hatóságként a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala jár el:
 
 1. az elhelyezési tilalom alá eső jel, jelzés, reklámtábla, reklámhordozó, reklámcélú berendezés vagy egyéb tárgy eltávolításával kapcsolatos ügyek,
 
-2. [^16]
+2.[^16]
 
-3. [^17]
+3.[^17]
 
 4. a közlekedés biztonsága, az út állagának védelme érdekében az út melletti ingatlan tulajdonosának kötelezése
 
-## során.
+során.
 
-(5) [^18]
+(5)[^18]
 
-(6) [^19]
+(6)[^19]
 
 [^3]: A 2. § (1) bekezdése a 236/2020. (V. 26.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^4]: A 2. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 241. §-a szerint módosított szöveg.

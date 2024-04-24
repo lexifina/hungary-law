@@ -8,10 +8,10 @@
 
 a) a Kkt. 16/A. §-a szerinti szakértői tevékenységgel,
 
-b)[^157]
+b)[^160]
 
 c) a Kkt. 16/B. § (5) bekezdése szerinti auditori tevékenységgel
 
 kapcsolatos szolgáltatási tevékenység tekintetében Budapest Főváros Kormányhivatalát jelöli ki.
 
-[^157]: A 13. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+[^160]: A 13. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 34. §-a hatályon kívül helyezte.
