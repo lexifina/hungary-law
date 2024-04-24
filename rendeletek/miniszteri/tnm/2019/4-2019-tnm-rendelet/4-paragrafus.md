@@ -16,10 +16,12 @@ b) az ösztöndíjas nem teljesíti a szerződésben vállalt bármely köteleze
 
 c) az ösztöndíjas az ösztöndíjról lemond,
 
-d) az ösztöndíjas tanulmányi eredménye a tanulói jogviszony alatt tett érettségi megszerzésére irányuló képzés utolsó két évfolyama bármelyikének a végén a 4,0 átlagot nem éri el, illetve az ösztöndíjjal érintett időszak féléves átlageredménye a 3,5 átlag alá csökken, vagy
+d)[^4] az ösztöndíjas tanulmányi eredménye a tanulói jogviszony alatt tett érettségi megszerzésére irányuló képzés utolsó két évfolyama bármelyikének a végén a 4,0 átlagot nem éri el, illetve az ösztöndíjjal érintett időszak féléves átlageredménye a 4,0 átlag alá csökken, vagy
 
 e) az ösztöndíjas olyan magatartást tanúsított, amely az ösztöndíjas jogviszonyhoz méltatlan, különösen, ha az ösztöndíjas iskolája fegyelmi büntetést szab ki rá.
 
 (7) Az ösztöndíjas jogviszony megszűnése esetén – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet szerint – a miniszter az ösztöndíjszerződést felmondja.
 
 (8) A megüresedett ösztöndíjas helyre pályázat nem írható ki.
+
+[^4]: A 4. § (6) bekezdés d) pontja a 4/2024. (IV. 23.) TNM rendelet 1. §-a szerint módosított szöveg.
