@@ -42,32 +42,15 @@ f) felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy a Nemzet
 
 | Határidő: | a d) alpont szerinti forrás biztosítását követő 30 napon belül |
 
-2. A FINA 2027. évi 22. Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság és Masters Világbajnokság megrendezésével kapcsolatos egyes intézkedésekről szóló 1033/2020. (II. 13.) Korm. határozat [a továbbiakban: 1033/2020. (II. 13.) Korm. határozat] 4. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
+3.[^2]
 
-„4. felhívja a pénzügyminisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával – gondoskodjon – a Szerződés rendelkezéseivel összhangban és az abban rögzített ütemezés szerint – a Világbajnokság megrendezése érdekében a Nemzetközi Úszó Szövetség részére fizetendő világbajnoksági díj, valamint a producer szolgáltatásaival és a hazai közvetítővel kapcsolatos költségek fedezésére szolgáló központi költségvetési támogatás biztosításáról a XXI. Miniszterelnöki Kabinetiroda fejezet javára, az alábbi bontás szerint:
+4.[^3]
 
-a) a 2025. évben 4 572 000 USD-nek megfelelő forintösszeg,
+5.[^4]
 
-b) a 2026. évben 11 557 000 USD-nek megfelelő forintösszeg,
-
-c) a 2027. évben 8 953 500 USD-nek megfelelő forintösszeg;
-
-| Felelős: | pénzügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter |
-
-| Határidő: | az adott évi központi költségvetés tervezése során |
-
-3. Az 1033/2020. (II. 13.) Korm. határozat a következő 5. ponttal egészül ki:
-
-(A Kormány)
-
-„5. felhívja a honvédelmi minisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával, a Nemzeti Kommunikációs Hivatal és a Nemzeti Rendezvényszervező Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság útján – készítsen előterjesztést a Kormány részére a Világbajnokság megrendezésével kapcsolatos további intézkedésekről, egyéb költségekről és a szükséges költségvetési forrás biztosításáról.
-
-| Felelős: | honvédelmi miniszter Miniszterelnöki Kabinetirodát vezető miniszter |
-
-| Határidő: | 2024. szeptember 30. |
-
-4. Az 1033/2020. (II. 13.) Korm. határozat 3. pontjában a „2021–2027. évekre” szövegrész helyébe a „2021–2024. évekre” szöveg lép.
-
-5. A Kormány visszavonja az 1033/2020. (II. 13.) Korm. határozat 3. pont e)–g) alpontját.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
