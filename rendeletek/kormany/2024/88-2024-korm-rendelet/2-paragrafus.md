@@ -1,0 +1,3 @@
+2. §[^2]
+
+[^2]: A 2. § a 3. § (2) bekezdése alapján 2024. május 1-jén lép hatályba.

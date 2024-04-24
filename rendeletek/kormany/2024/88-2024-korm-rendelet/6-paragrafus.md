@@ -1,0 +1,3 @@
+6. § A kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 9. alcíme a következő 31/A. §-sal egészül ki:
+
+„31/A. § Az elkülönült hírközlési tevékenység végzésére jogosult vagy az általa feljogosított szerv számára a kormányzati célú elkülönült hírközlő hálózata vonatkozásában – kormányzati célú hírközlési szolgáltatás nyújtása érdekében – az elektronikus hírközlő hálózatok azonosítóinak nemzeti felosztási tervéről és az azonosítógazdálkodás rendjéről szóló NMHH rendelet rendelkezéseinek alkalmazásával, a kormányzati célokra figyelemmel, mobil hálózati kód jelölhető ki. A kijelöléshez más mobil rádiótelefon szolgáltatást nyújtó szolgáltató hálózati együttműködésről szóló nyilatkozata nem szükséges.”
