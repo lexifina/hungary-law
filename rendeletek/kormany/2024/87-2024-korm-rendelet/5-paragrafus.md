@@ -1,0 +1,5 @@
+5. § (1) Az engedélyezett e-CODEX hozzáférési pontot működtető szervezet köteles az engedélyben meghatározottak szerinti működtetésre, és felel az engedélyezett e-CODEX hozzáférési pont folyamatos, biztonságos és megbízható működéséért, továbbá a polgári jog szabályai szerint felel az engedélyezett e-CODEX hozzáférési pont és bármely kapcsolt rendszer működtetéséből eredő károkért.
+
+(2) A kapcsolt rendszert működtető szervezet felel a kapcsolt rendszer folyamatos, biztonságos és megbízható működéséért. Az engedélyezett e-CODEX hozzáférési pontot működtető szervezetet a kapcsolt rendszer működtetéséből eredő, általa harmadik személynek megtérített kár mértékéig megtérítési igény illeti meg a kapcsolt rendszert működtető szervezettel szemben.
+
+(3) Ha az engedélyezett e-CODEX hozzáférési pontot működtető szervezet és a kapcsolt rendszert működtető szervezet nem azonos, a szervezetek írásbeli megállapodásban rendezik az üzemeltetés részletszabályait és az azzal összefüggésben felmerülő további felelősségi kérdéseket.

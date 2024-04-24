@@ -1,0 +1,1 @@
+9. § E rendelet a polgári és büntetőügyekben folytatott igazságügyi együttműködés területén történő, határokon átnyúló elektronikus adatcserére szolgáló számítógépes rendszerről (e-CODEX-rendszer) és az (EU) 2018/1726 rendelet módosításáról szóló, 2022. május 30-i (EU) 2022/850 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.

@@ -1,0 +1,3 @@
+4. § (1) A miniszter felügyeli az engedélyezett e-CODEX hozzáférési pontok működését és az engedélyezés alapjául szolgáló, 2. §-ban meghatározott feltételek folyamatos teljesülését.
+
+(2) A miniszter az (1) bekezdés szerinti feladatkörében eljárva a 2. § (5) bekezdése szerinti megújított nyilatkozat hiányában, illetve a 2. § (6) bekezdése szerinti értesítés esetén az engedélyezett e-CODEX hozzáférési pont engedélyét felfüggeszti. Ha a 2. § (3) bekezdése szerinti nyilatkozat a felfüggesztést követő 180 napon belül megfelelő tartalommal nem kerül ismételt benyújtásra, a miniszter az engedélyezett e-CODEX hozzáférési pont engedélyét visszavonja.
