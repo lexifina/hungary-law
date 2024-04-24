@@ -1,4 +1,4 @@
-1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^164]
+1. melléklet a 182/2022. (V. 24.) Korm. rendelethez[^165]
 
 A Kormány tagja által irányított vagy felügyelt központi államigazgatási szervek, valamint területi kormányzati igazgatási szervek
 
@@ -150,4 +150,4 @@ L) Nemzetgazdasági miniszter
 
 | 2 | Nemzeti Akkreditáló Hatóság | irányítás |
 
-[^164]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a, a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja, a 615/2022. (XII. 29.) Korm. rendelet 20. §-a, a 334/2023. (VII. 20.) Korm. rendelet 69. és 70. §-a, az 591/2023. (XII. 20.) Korm. rendelet 26. §-a, az 599/2023. (XII. 22.) Korm. rendelet 41. § e) és f) pontja szerint módosított szöveg.
+[^165]: Az 1. melléklet a 238/2022. (VI. 30.) Korm. rendelet 221. § (1) bekezdése és (3) bekezdés d) pontja, a 337/2022. (IX. 7.) Korm. rendelet 9. §-a, a 410/2022. (X. 24.) Korm. rendelet 18. § a) pontja, a 615/2022. (XII. 29.) Korm. rendelet 20. §-a, a 334/2023. (VII. 20.) Korm. rendelet 69. és 70. §-a, az 591/2023. (XII. 20.) Korm. rendelet 26. §-a, az 599/2023. (XII. 22.) Korm. rendelet 41. § e) és f) pontja szerint módosított szöveg.

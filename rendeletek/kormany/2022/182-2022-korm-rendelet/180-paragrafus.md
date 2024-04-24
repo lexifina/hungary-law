@@ -1,3 +1,3 @@
-180. §[^117]
+180. §[^118]
 
-[^117]: A 180. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § l) pontja hatályon kívül helyezte.
+[^118]: A 180. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § l) pontja hatályon kívül helyezte.

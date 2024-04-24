@@ -16,9 +16,9 @@ vonatkozó jogszabályokat.
 
 (2) A miniszter az energiapolitikáért való felelőssége keretében gondoskodik a fenntartható gazdasági fejlődés, az energiahatékonyság és energiagazdálkodás stratégiai feltételeinek megteremtéséről – így különösen az energiapolitikai, energiahatékonysági, épületenergetikai és épület-energiatakarékossági programok kidolgozásáról és végrehajtásáról –, valamint vezeti a felújítandó központi kormányzati épületek nyilvántartását.
 
-(3)[^101] A miniszter az energiapolitikáért való felelőssége keretében összehangolja az energetikai rendszert érintő állami infrastruktúra-beruházások előkészítését és megvalósítását.
+(3)[^102] A miniszter az energiapolitikáért való felelőssége keretében összehangolja az energetikai rendszert érintő állami infrastruktúra-beruházások előkészítését és megvalósítását.
 
-(4)[^102] A miniszter az energiapolitikáért való felelőssége keretében
+(4)[^103] A miniszter az energiapolitikáért való felelőssége keretében
 
 a) ellátja
 
@@ -28,5 +28,5 @@ ab) az uniós jogszabályok és a Kiotói Jegyzőkönyv szerinti kibocsátási j
 
 b) felel a fenntartható fejlődésre és a fenntartható fejlesztésekre vonatkozó stratégiaalkotásért és annak végrehajtásáért.
 
-[^101]: A 164. § (3) bekezdését a 467/2022. (XI. 21.) Korm. rendelet 11. §-a iktatta be.
-[^102]: A 164. § (4) bekezdését a 467/2022. (XI. 21.) Korm. rendelet 11. §-a iktatta be.
+[^102]: A 164. § (3) bekezdését a 467/2022. (XI. 21.) Korm. rendelet 11. §-a iktatta be.
+[^103]: A 164. § (4) bekezdését a 467/2022. (XI. 21.) Korm. rendelet 11. §-a iktatta be.

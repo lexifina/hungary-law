@@ -18,8 +18,8 @@
 
 8. kulturális diplomáciáért és a külföldi magyar kulturális intézetekért,
 
-9.[^85] felnőttképzésért
+9.[^86] felnőttképzésért
 
 felelős tagja.
 
-[^85]: A 128. § 9. pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^86]: A 128. § 9. pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg.

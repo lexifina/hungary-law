@@ -1,6 +1,6 @@
-## 16.[^109] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
+## 16.[^110] A közigazgatási és területfejlesztési miniszter feladat- és hatásköre
 
-178. §[^110] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+178. §[^111] A közigazgatási és területfejlesztési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. területfejlesztésért,
 
@@ -30,5 +30,5 @@
 
 felelős tagja.
 
-[^109]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
-[^110]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^110]: A 16. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^111]: A 178. § az 599/2023. (XII. 22.) Korm. rendelet 33. §-ával megállapított szöveg.
