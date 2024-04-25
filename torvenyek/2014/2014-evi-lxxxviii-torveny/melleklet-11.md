@@ -53,11 +53,3 @@
 ## (ro) «Invitaţie de a prezenta o creanţă; termene ce trebuie respectate»
 
 ## (sk) «Výzva na prihlásenie pohľadávky. Je potrebné dodržať stanovené termíny»
-
-## (sl) «Poziv k prijavi terjatve. Roki, ki jih je treba upoštevati!»
-
-## (fi) «Kehotus saatavan ilmoittamiseen. Noudatettavat määräajat»
-
-## (sv) «Anmodan att anmäla fordran. Tidsfrister att iaktta»
-
-## C) Rész

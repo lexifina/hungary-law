@@ -24,7 +24,7 @@ g) a nyilvántartásba vétel időpontját.
 
 (5) Ha a Felügyelet a képző szerv nyilvántartásból történő törléséről döntést hozott, a (3) bekezdésben foglalt adatok mellett, a törlés időpontját, a törlésről szóló döntés ügyiratszámát, a döntés tényét, okát és a döntés véglegessé válásának időpontját is nyilvántartja.
 
-(6) Az aláíró személyekről, az oktatókról, a hatósági vizsgára jelentkező személyekről és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
+(6) Az aláíró személyekről, az oktatókról és a vizsgabiztosokról vezetett nyilvántartás tartalmazza az adott személy
 
 a) nevét és születési nevét,
 
@@ -38,7 +38,9 @@ e) személyi kódját és
 
 f) – amennyiben vizsgabiztosi tevékenységet lát el – nyilvántartási számát, valamint a nyilvántartásból való törlése esetén a törlés tényét és időpontját.
 
-(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
+(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.
+
+(7) A Felügyelet a nyilvántartásba vételről szóló döntésben a (6) és (6a) bekezdésben meghatározott személyek számára személyi kódot állapít meg.
 
 (8) A hatósági vizsga letételét igazoló, elveszett vagy megsemmisült hatósági bizonyítvány pótlására – erre irányuló kérelem esetén – a Felügyelet a nyilvántartásában szereplő adatai alapján (időközbeni névváltozás esetén a névváltozás figyelembevételével) másodlatot állít ki, amit a kérelmező a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendelet szerinti hatósági vizsgára történő jelentkezési lapban meghatározott – vizsgaidőpontban érvényes – adatainak megadásával igényelhet.
 
