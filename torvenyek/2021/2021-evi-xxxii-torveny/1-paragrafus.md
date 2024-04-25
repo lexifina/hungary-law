@@ -36,4 +36,4 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (4) A Hatóság fejezetet irányító szervi jogállással bíró központi költségvetési szerv, amelynek költségvetése az Országgyűlés költségvetési fejezetén belül önálló címet képez. A Hatóság költségvetésének kiadási és bevételi főösszegei kizárólag az Országgyűlés által csökkenthetők.
 
-(5) A Hatóság a koncessziós eljárásokkal, koncessziós szerződésekkel összefüggő jogviták rendezése érdekében, a választottbíráskodásról szóló 2017. évi LX. törvény (a továbbiakban: Vbt.) rendelkezéseivel összhangban működteti a Koncessziós Állandó Választottbíróságot (a továbbiakban: Választottbíróság).
+(5)

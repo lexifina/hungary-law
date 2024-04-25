@@ -28,9 +28,9 @@ alakul át.
 
 (12) Az érintett részére a 2021. december 31-én meglévő szabadságát 2021. december 31-ét követően – a (15) bekezdésben meghatározott kivétellel – nem lehet kiadni.
 
-(13) Az érintett 2021. december 31-én meglévő, ki nem adott szabadságát 40 napon belül meg kell váltani.
+(13)
 
-(14) A (13) bekezdés szerinti megváltás során az érintettet 2021. december 1. napján megillető illetménnyel kell számolni.
+(14)
 
 (15) A 2021. december 31-én szülési szabadságon, vagy a gyermek ápolása, gondozása céljából igénybe vett fizetés nélküli szabadságon lévő érintett azon szabadságát, amelyre 2021. december 31-ig jogosultságot szerzett, az érintett döntése szerint távollétének megszűnését követő
 
