@@ -1,6 +1,6 @@
 8. § (1) Közraktárban minősített befolyás megszerzésére irányuló, illetve azt eredményező vagy ahhoz kapcsolódó, jelentős előnyt biztosító megállapodáshoz a felügyelet előzetes engedélye szükséges.
 
-(2) A közraktárban minősített befolyással csak olyan természetes személy vagy gazdasági társaság rendelkezhet,
+(2) A közraktárban minősített befolyással csak olyan természetes személy vagy jogi személy rendelkezhet,
 
 a) aki a közraktár óvatos, körültekintő és megbízható működését veszélyeztető befolyástól mentes, és biztosítani képes a közraktár megbízható, gondos tulajdonosi irányítását és ellenőrzést, valamint
 
@@ -20,20 +20,26 @@ b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosí
 
 (5) A felügyelet a minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából adatot igényel a (4) bekezdés b) pontjában meghatározott adatokról nyilvántartást vezető hatóságtól.
 
-(6) Ha a közraktárban gazdasági társaság szerez az (1) bekezdés szerint minősített befolyást, az előzetes engedély iránti kérelemhez mellékelni kell:
+(6) Ha a közraktárban jogi személy szerez az (1) bekezdés szerint minősített befolyást, az előzetes engedély iránti kérelemhez mellékelni kell:
 
-a) külföldi gazdasági társaság esetében cégkivonatának magyar nyelvű fordítását, vagy igazolást arról, hogy a társaságot a külföldi vállalati nyilvántartásba bejegyezték,
+a) külföldi illetőségű
 
-b) a gazdasági társaságnak az előző három üzleti évre vonatkozó, könyvvizsgáló által hitelesített éves beszámolóját,
+aa) jogi személy esetén létesítő okiratának magyar nyelvű fordítását vagy igazolást arról, hogy az adott ország jogrendje szerinti nyilvántartásba bejegyezték,
 
-c) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak.
+ab) gazdasági társaság esetében cégkivonatának magyar nyelvű fordítását vagy igazolást arról, hogy a társaságot a külföldi vállalati nyilvántartásba bejegyezték,
 
-(7) Ha a kérelmező gazdasági társaság, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha
+b) a számviteli törvény szerint beszámoló készítésére kötelezetteknek az előző három üzleti évre vonatkozó, könyvvizsgáló által hitelesített éves beszámolóját,
 
-a) nyilatkozatban igazolja cégjegyzékszámát, adószámát és
+c) nyilatkozatot arról, hogy milyen – a számviteli törvény szerinti – függő és jövőbeni kötelezettségei vannak, valamint
+
+d) cégnek nem minősülő jogi személy esetében a jogi személyt nyilvántartó bíróság vagy hatóság által kiállított, a jogi személy nyilvántartásba bejegyzett, fennálló adatait tartalmazó kivonatot.
+
+(7) Ha a kérelmező jogi személy, a közraktárban történő minősített befolyás szerzéséhez szükséges előzetes engedélyt akkor kaphat, ha
+
+a) nyilatkozatban megadja nyilvántartási számát vagy cégjegyzékszámát, adószámát és
 
 b) végleges határozattal megállapított adó-, vám- vagy társadalombiztosítási tartozása nincs.
 
-(8) A felügyelet a kérelmező cégkivonatát a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg. A minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából a felügyelet adatot igényel az adatokról nyilvántartást vezető hatóságtól.
+(8) Ha a kérelmező belföldi jogi személy, a felügyelet hivatalból szerzi be a jogi személy közhiteles nyilvántartásban szereplő létesítő okiratát vagy a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg a gazdasági társaság cégkivonatát. A minősített befolyás szerzéséhez szükséges előzetes engedély iránti kérelem elbírálása céljából a felügyelet adatot igényel az adatokról nyilvántartást vezető hatóságtól.
 
 (9) A felügyelet a minősített befolyás megszerzését eredményező megállapodáshoz szükséges előzetes engedély iránti kérelmet a beérkezését követő naptól számított tizenöt napon belül elbírálja. A felügyelet a kérelmet elutasíthatja, ha a befolyást megszerezni kívánó fél tevékenysége vagy a közraktárra gyakorolt befolyása a biztonságos működést, illetve a kötelezettségek teljesítését veszélyeztetné. A minősített befolyásra, valamint a közvetett tulajdonra vonatkozóan a hitelintézetekről és pénzügyi vállalkozásokról szóló törvény fogalmai irányadóak.
