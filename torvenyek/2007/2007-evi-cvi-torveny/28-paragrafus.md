@@ -6,4 +6,10 @@
 
 (4)
 
-(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más hasonló jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, az elfogadott vagyon állami tulajdonba kerül azzal, hogy az MNV Zrt. az adott költségvetési szervvel köt rá – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – nem visszterhes vagyonkezelési szerződést, vagy – ha a hagyaték tárgya gazdasági társaságban fennálló társasági részesedés – az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést. Ha a későbbiekben az ilyen vagyontárgy értékesítésére kerül sor, annak bevétele a kedvezményezett központi költségvetési szervet illeti meg.
+(5) Amennyiben ajándékozás, végrendeleti örökösnevezés, illetve tulajdonjog átruházására irányuló más jogügylet kedvezményezettjeként valamely központi költségvetési szervet jelölnek meg, a költségvetési szerv által elfogadott vagyon állami tulajdonba kerül azzal, hogy amennyiben a költségvetési szerv alaptevékenységének ellátásához szükséges, az MNV Zrt.
+
+a) az érintett vagyonelemekre – az Nvtv. 11. § (6) bekezdésében meghatározott vagyontárgyak kivételével – a költségvetési szerv kezdeményezésére nem visszterhes vagyonkezelési szerződést köt,
+
+b) az állami elhelyezési célú ingatlant egyoldalú nyilatkozatával a 28/A. § (2) bekezdése szerinti állami elhelyezési célú ingatlanhasználati jogviszony keretében a központi költségvetési szerv használatába adja, vagy
+
+c) a hagyaték részét képező gazdasági társaságban fennálló társasági részesedésre az adott költségvetési szervvel az Nvtv. 8. § (7) bekezdése szerinti megbízási szerződést köt.

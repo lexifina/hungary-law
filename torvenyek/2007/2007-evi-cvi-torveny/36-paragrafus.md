@@ -33,3 +33,5 @@ h) az e törvény 1. § (2) bekezdés f) pontja szerinti állami vagyon tekintet
 (8) Az Nvtv. 13. § (3) bekezdése szerinti, az állami feladat ellátásához nem szükséges és leselejtezett tárgyi eszközt az MNV Zrt. a legalább két éve folyamatosan, igazoltan közhasznú, karitatív tevékenységet folytató civil szervezet kezdeményezésére ingyenesen a civil szervezet tulajdonába adhatja. Az MNV Zrt. Igazgatósága köteles az ingyenes tulajdonba adásról szóló döntését az MNV Zrt. honlapján nyilvánosságra hozni.
 
 (9) A (2) bekezdés h) pontja szerinti mű vagy teljesítmény, különösen kép-, illetve hangfelvétel vonatkozásában az 1. § (2) bekezdés f) pontja szerinti képviselő részére vagy a választási eljárásról szóló 2013. évi XXXVI. törvény szerinti jelölő szervezete vagy pártja részére felhasználási szerződés útján ingyenes, korlátozás nélküli felhasználási engedély adható.
+
+(11) A (10) bekezdés szerint átruházott állami tulajdonú ingóság tekintetében nem kell alkalmazni az Nvtv. 13. § (4) bekezdését.

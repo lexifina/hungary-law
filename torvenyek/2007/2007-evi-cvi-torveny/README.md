@@ -62,3 +62,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-106-00-00
 | 2023-12-28 | 2023. évi LXXXVII. törvény | 2007-106-00-00.63 |
 | 2024-01-01 | 2023. évi LXXXVII. törvény | 2007-106-00-00.64 |
 | 2024-03-01 | 2023. évi XCVII. törvény | 2007-106-00-00.65 |
+| 2024-04-25 | 2024. évi IX. törvény | 2007-106-00-00.66 |

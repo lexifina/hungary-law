@@ -43,5 +43,3 @@ c) a 33. § (4) bekezdése alapján értékesítésre kijelölt ingatlant.
 (3)
 
 (4)
-
-## Melléklet a 2007. évi CVI. törvényhez
