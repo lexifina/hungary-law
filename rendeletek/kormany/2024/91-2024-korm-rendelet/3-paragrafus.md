@@ -1,5 +1,3 @@
-## „91. ellátja az (EU) 2023/2405 európai parlamenti és tanácsi rendeletben meghatározott illetékes hatósági feladatokat.”
+3. §[^4]
 
-3. § Az R. 26. § (1) bekezdése a következő g) és h) ponttal egészül ki:
-
-(Ez a rendelet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

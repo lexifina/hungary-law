@@ -1,3 +1,3 @@
-2. § Az R. 9. § (4) bekezdése a következő 91. ponttal egészül ki:
+2. §[^3]
 
-(A légiközlekedési hatóság hatósági feladatai a következők:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
