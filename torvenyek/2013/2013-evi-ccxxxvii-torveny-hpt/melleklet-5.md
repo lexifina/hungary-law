@@ -86,7 +86,9 @@ m) a 2014/59/EU irányelvnek a fedezetlen, hitelviszonyt megtestesítő instrume
 
 n) a pénzügyi rendszerek pénzmosás vagy terrorizmusfinanszírozás céljára való felhasználásának megelőzéséről szóló (EU) 2015/849 irányelv, valamint a 2009/138/EK és a 2013/36/EU irányelv módosításáról szóló, 2018. május 30-i (EU) 2018/843 európai parlamenti és tanácsi irányelvnek
 
-való megfelelést szolgálja.
+o) a 537/2014/EU rendeletnek, a 2004/109/EK irányelvnek, a 2006/43/EK irányelvnek és 2013/34/EU irányelvnek a fenntarthatósággal kapcsolatos vállalati beszámolás tekintetében történő módosításáról szóló, 2022. december 14-i (EU) 2022/2464 európai parlamenti és tanácsi irányelvnek,
+
+## való megfelelést szolgálja.
 
 2. Ez a törvény a 185. § (1) bekezdésében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet 9. cikk (6)–(7) bekezdés végrehajtásához szükséges rendelkezéseket állapít meg a Felügyelet eljárásában.
 
