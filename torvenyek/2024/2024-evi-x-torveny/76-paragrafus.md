@@ -17,15 +17,3 @@ b) a pénzügyi ágazat digitális működési rezilienciájáról, valamint az 
 c) az (EU) 2016/97 európai parlamenti és tanácsi irányelvnek a biztosítás- és a viszontbiztosítás-közvetítők, valamint a kiegészítő biztosításközvetítői tevékenységet végző személyek szakmai felelősségbiztosítására és pénzügyi teljesítőképességére vonatkozó, euróban megállapított alapösszegeket kiigazító szabályozástechnikai standardok tekintetében történő módosításáról szóló, 2023. december 5-i (EU) 2024/896 felhatalmazáson alapuló bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
