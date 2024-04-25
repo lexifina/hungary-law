@@ -12,7 +12,7 @@ b) a társaság jogutód nélküli megszűnik,
 
 c) a KMRP-ben résztvevők száma egy fő alá csökken, és ezt a létszámot a 24/N. § (7) bekezdése szerinti határidőn belül sem éri el újra, vagy
 
-d) a KMRP szervezet tulajdonában álló összes vagyonrész értéke bármikor nem éri el a KMRP szervezet teljes vagyonának értékéhez viszonyított hetven százalékot a KMRP szervezet megalakulása utáni fél évet követően.
+d) a KMRP szervezet tulajdonában álló összes vagyonrész és a 24/O. § b) pontja szerint megvásárolt értékpapírok együttes értéke bármikor nem éri el a KMRP szervezet teljes vagyonának értékéhez viszonyított hetven százalékot a KMRP szervezet megalakulása utáni fél évet követően.
 
 (5) A vagyonrész értékét a számviteli törvény szerinti valós értéken kell megállapítani.
 

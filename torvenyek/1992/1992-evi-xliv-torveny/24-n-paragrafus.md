@@ -48,7 +48,9 @@ j) a 24/R. § (7) bekezdés b) pontja szerint megszerezhető vagyonrészeknek a 
 
 (11) A közgyűlés határozatait – az alapszabály eltérő rendelkezése hiányában – egyszerű szótöbbséggel hozza. Ha az alapszabály eltérően nem rendelkezik, a résztvevőt befizetése arányában – befizetés hiányában egyenlő arányban – illeti meg a szavazati jog.
 
-(12) A résztvevők számára abban az esetben, ha a társaság hozzájárulást fizet, a KMRP által beszedett hasznokból csak a hozzájárulás mértékét meghaladó rész fizethető ki, kivéve a 24/R. § (4) bekezdése szerinti vagyonfelosztás alapján történő kifizetést.
+(12) A társasági hozzájárulásból – a (12a) bekezdésben foglalt eset kivételével – a résztvevőknek kifizetés nem teljesíthető.
+
+(12a) A társasági hozzájárulást folyósító társaság és a KMRP megállapodhat úgy, hogy a KMRP által beszedett hasznokból a hozzájárulás mértékét meghaladó rész kifizethető a résztvevők számára.
 
 (13) A résztvevő hozzájárulása nélkül nem írható elő számára befizetési kötelezettség. A résztvevő nem teljesített befizetési kötelezettségéért az örökös vagy haláleseti kedvezményezett – erre vonatkozó kötelezettségvállalása kivételével – nem tartozik felelősséggel.
 
