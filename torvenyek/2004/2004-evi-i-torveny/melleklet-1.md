@@ -460,11 +460,7 @@ Ferencvárosi Torna Club
 
 |
 
-Győr, belterület 5761/7
-
 |
-
-ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.)
 
 |
 
@@ -472,11 +468,7 @@ ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társasá
 
 |
 
-Győr, belterület 5761/7/A
-
 |
-
-ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.)
 
 |
 
@@ -484,11 +476,7 @@ ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társasá
 
 |
 
-Győr, belterület 5761/7/B
-
 |
-
-ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.)
 
 |
 
@@ -496,11 +484,7 @@ ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társasá
 
 |
 
-Győr, belterület 5761/7/C
-
 |
-
-ETO Futball Sportszervező és Szolgáltató Korlátolt Felelősségű Társaság (Cg. 08-09-020296, 9027 Győr, Nagysándor József utca 31.)
 
 |
 
@@ -536,9 +520,9 @@ Veszprémi Építők Sportegyesület
 
 |
 
-Budapest, belterület 25992/1 hrsz
+Budapest, belterület 25992/1
 
-(10940/1683450 tulajdoni hányad arányában)
+(93330/1683450 tulajdoni hányad arányában)
 
 |
 
@@ -561,3 +545,17 @@ Budapest belterület 23800/6 hrsz
 Budapesti Honvéd Sportegyesület
 
 (székhely: Budapest 1134, Dózsa György út 53.)
+
+|
+
+40.
+
+|
+
+Budapest belterület 38440/23
+
+|
+
+Ferencvárosi Torna Club
+
+(székhely: Budapest 1091, Üllői út 129.)

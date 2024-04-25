@@ -77,3 +77,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 2004-1-00-00.83 |
 | 2024-01-01 | 2023. évi CVI. törvény | 2004-1-00-00.85 |
 | 2024-02-01 | 2023. évi CVI. törvény | 2004-1-00-00.86 |
+| 2024-04-25 | 2024. évi IX. törvény | 2004-1-00-00.88 |
