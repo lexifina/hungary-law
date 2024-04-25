@@ -4,4 +4,4 @@
 
 (2) A vállalkozás a panaszkezelési rendszer kialakítására vonatkozó kötelezettségét a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény alapján létrehozott belső visszaélés-bejelentési rendszer útján is teljesítheti.
 
-(3) A vállalkozás a belső vagy külső panaszkezelési rendszer keretében beérkezett bejelentések panaszkezelési eljárásának lezárultát követő 15 napon belül értesíti a Hatóságot a panaszkezelés eredményéről.
+(3) A vállalkozás a belső és külső panaszkezelési rendszer keretében beérkezett bejelentések panaszkezelési eljárásának lezárultát követő 5 évig köteles megőrizni a panaszkezelés eredményét.

@@ -8,9 +8,13 @@ b) ha az ESG tanúsító nem az Európai Unióban letelepedett szervezet, de Mag
 
 c) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatokat.
 
+(1a) A Hatóság a honlapján közzéteszi az ESG tanúsítói tevékenység végzésére jogosult ESG tanúsítók (1) bekezdés a) pontja szerinti adatait.
+
+(1b) Az (1) bekezdés szerinti adatok kezelésének célja az ESG tanúsítókra vonatkozó információk naprakészen tartása, valamint a Hatóság hatósági ellenőrzési feladatainak ellátása.
+
 (2) A Tanúsítók Névjegyzékébe történő nyilvántartásba vétel feltétele
 
-a) az, hogy az ESG tanúsító által használt információs és kommunikációs technológia megfeleljen a technológiára vonatkozóan kiadott nemzeti kiberbiztonsági tanúsítási rendszer biztonsági követelményeinek,
+a)
 
 b) annak igazolása, hogy az ESG tanúsítónak nincs köztartozása;
 
@@ -18,9 +22,9 @@ c) az, hogy az ESG tanúsító nem áll csődeljárás, végelszámolás, kénys
 
 d) annak igazolása, hogy az ESG tanúsító Magyarország területén bejegyzett vállalkozások esetén magyar nyelven végez tanúsítást.
 
-(3) Az ESG tanúsító a működése megkezdését követő 30 napon belül az (1) bekezdés szerinti adatokat bejelenti a Hatóság részére a nyilvántartásba vétel érdekében.
+(3)
 
-(4) Az ESG tanúsító az (1) bekezdés szerinti adatainak bejelentésekor teljes bizonyító erejű magánokiratban nyilatkozik arról, hogy
+(4) Az ESG tanúsító a (2) bekezdés c) és d) pontja szerinti feltételek igazolásaként teljes bizonyító erejű magánokiratban nyilatkozik arról, hogy
 
 a) nem áll csődeljárás, végelszámolás, kényszertörlési, illetve felszámolási eljárás hatálya alatt, és
 
@@ -28,7 +32,7 @@ b) magyar nyelven végez tanúsítást.
 
 (5) A Tanúsítók Névjegyzékébe való nyilvántartásba vételhez az ESG tanúsítónak
 
-a) a (2) bekezdés a) pontja szerinti megfelelőséget az IKT-termékek, az IKT-szolgáltatások vagy az IKT-folyamatok gyártója által rendelkezésre bocsátott, Kibertantv. szerinti megfelelőségi nyilatkozattal,
+a)
 
 b) a köztartozásmentességet – ha az ESG tanúsító nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges vagy az adóigazgatási eljárás részletszabályairól szóló 465/2017. (XII. 28.) Korm. rendelet 22. § (1) bekezdés a) pontja szerinti összeget meg nem haladó adótartozásról szóló adóigazolással
 
@@ -36,6 +40,6 @@ kell igazolnia.
 
 (6) Az ESG tanúsító az (1) bekezdés szerinti adatokban bekövetkező változást annak bekövetkezésétől számított 15 napon belül bejelenti a Hatóság részére.
 
-(7) Ha az ESG tanúsító e törvény hatálya alá tartozó tevékenységet már nem végez, akkor az (1) bekezdés szerinti adatokat a Hatóság a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
+(7) Ha az ESG tanúsító ESG tanúsítói tevékenységet már nem végez, akkor az (1) bekezdés szerinti adatokat a Hatóság a tevékenység befejezésének bejelentését követő öt év elteltével köteles a nyilvántartásból törölni.
 
-(8) Ha az (1) bekezdés szerinti adatok változását az ESG tanúsító bejelenti, a megváltozott adatokat a Hatóság az adat változása bejelentését követő öt év elteltével a nyilvántartásból törli.
+(8) Ha az (1) bekezdés szerinti adatok változását az ESG tanúsító bejelenti, a nyilvántartásban a változás bejegyzését megelőzően szereplő adatot a Hatóság az adat változása bejegyzését követő öt év elteltével a nyilvántartásból törli.

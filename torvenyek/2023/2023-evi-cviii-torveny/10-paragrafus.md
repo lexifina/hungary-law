@@ -2,6 +2,8 @@
 
 (2) A Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) elnöke kikéri a Tanács állásfoglalását az ESG beszámoló minimumkövetelményeinek meghatározása során.
 
+(2a) A Tanács – a 27. § (5) bekezdése szerinti adatszolgáltatásra igényt tartó megkeresésére – szakmai véleményt ad az adatszolgáltatás tárgyában.
+
 (3) A Tanács szakmai tanácsadó testületként
 
 a) a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a fenntartható fejlődési feladatok összehangolásáért felelős miniszter,
@@ -16,9 +18,13 @@ e) a Magyar Kereskedelmi és Iparkamara elnöke,
 
 f) a Hatóság elnöke,
 
-g) a társadalompolitika összehangolásáért felelős miniszter és
+g) a társadalompolitika összehangolásáért felelős miniszter,
 
-h) a Vállalkozók és Munkáltatók Országos Szövetségének elnöke
+h) a Vállalkozók és Munkáltatók Országos Szövetségének elnöke,
+
+i) a vállalkozásfejlesztési ügynökség ügyvezetője, és
+
+j) a miniszterelnök politikai igazgatója
 
 által kijelölt személy részvételével működik.
 

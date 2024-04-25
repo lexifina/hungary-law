@@ -26,21 +26,27 @@ c) közérdeklődésre számot tartó gazdálkodónak minősülő kis- és köz�
 
 (a továbbiakban együtt: vállalkozás).
 
-(2) E törvény hatálya kiterjed a vállalkozás befektetésére, kitettségére, ha annak nagyságrendje, célja vagy aránya okán a vállalkozás stratégiája, politikája vagy szabályzatai alapján a fenntarthatóság szerepe vagy megközelítése meghatározó.
+(2) E törvény hatálya kiterjed a vállalkozás befektetésére, kitettségére, ha annak nagyságrendje, célja vagy aránya okán a vállalkozás stratégiája, politikája vagy szabályzatai alapján a fenntarthatóság szerepe vagy megközelítése meghatározó, vagy az adott befektetés vagy kitettség kapcsán igazolható, hogy a vállalkozásnak jelentős pénzügyi vagy működési befolyása van.
 
 (3) E törvény rendelkezéseit köteles betartani az (1) és (2) bekezdés hatálya alá nem tartozó szervezet, amely az e törvény szerinti ESG adatszolgáltatást önként vagy szerződésben vállalja, vagy számára jogszabály az ESG adatszolgáltatást kötelezővé teszi.
 
-(4) E törvény hatálya kiterjed a Magyarország területén
+(3a) E törvény hatálya kiterjed arra – a vállalkozásnak vagy a (3) bekezdés szerinti szervezetnek nem minősülő – szervezetre is, amely a vállalkozástól vagy a (3) bekezdés szerinti szervezettől tartalmát tekintve e törvény hatálya alá tartozó ESG adatszolgáltatásra tart igényt.
 
-a) ESG beszámoló vizsgálatát végző ESG tanúsítókra;
+(3b) A (3a) bekezdés szerinti szervezetre a 11. § (2) bekezdés j) pontját, a 11. § (3) és (4) bekezdését, a 27. § (4)–(6) bekezdését, valamint a IX. Fejezetet kell alkalmazni.
 
-b) fenntarthatósági tanácsadási szolgáltatást nyújtó természetes és jogi személyekre (a továbbiakban: ESG tanácsadó);
+(4) E törvény hatálya kiterjed
 
-c) ESG szoftvereket forgalmazó és gyártó vállalatokra;
+a) a Magyarország területén ESG beszámoló vizsgálatát végző ESG tanúsítókra;
 
-d) ESG tanácsadókat oktató intézményekre;
+b) a Magyarország területén fenntarthatósági tanácsadási szolgáltatást nyújtó természetes és jogi személyekre (a továbbiakban: ESG tanácsadó);
 
-e) vállalkozások minősítését végző ESG minősítőkre.
+c) a Magyarország területén ESG szoftvereket forgalmazó vagy gyártó vállalatokra;
+
+d) a Magyarország területén ESG tanácsadókat oktató intézményekre;
+
+e) az ESG minősítőre, illetve az ESG minősítőnek nem minősülő, de tartalmát tekintve e törvény hatálya alá tartozó ESG minősítést az 1. § (1) bekezdés szerinti vállalkozás vagy az 1. § (3) bekezdés szerinti szervezet tekintetében végző szervezetre.
+
+(4a) E törvény hatálya kiterjed az – e törvény szerinti – ESG közreműködői tevékenység jogosulatlan végzésére.
 
 (5) E törvény hatálya nem terjed ki
 

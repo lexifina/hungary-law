@@ -2,7 +2,7 @@
 
 7. § E törvény alkalmazásában
 
-1. anyavállalat: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 3. § (2) bekezdés 1. pontja szerinti fogalom;
+1. anyavállalat: az az e törvény szerinti vállalkozás, amely a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.) 3. § (2) bekezdés 1. pontja alapján anyavállalatnak minősül;
 
 2. csoport: egy anyavállalat és annak konszolidálásba bevont leányvállalata;
 
@@ -14,23 +14,43 @@
 
 6. ESG beszámoló minimumkövetelményei: azon információk, amelyeket a vállalkozás akkor közöl, amikor politikáiról, intézkedéseiről, mérőszámairól vagy céljairól számol be;
 
-7. ESG minősítő: a Ptk. szerinti gazdálkodó szervezet, a külföldi székhelyű vállalkozás magyarországi fióktelepe és az a személy, amely Magyarország területén egy vállalkozás ESG jellemzőire, illetve a fenntarthatósági kérdések körében felmerülő kockázataira vonatkozó véleményt, pontszámot vagy ezek kombinációját készít, illetve szolgáltatás keretében harmadik felek számára biztosít;
+6a. ESG közreműködő: az ESG tanúsító, az ESG tanácsadó és az ESG minősítő;
 
-8. ESG szoftver: olyan IKT-termék, -folyamat, vagy -szolgáltatás, amely támogatja a vállalatot vagy az általa megbízott jogi vagy természetes személyt az ESG adatszolgáltatási kötelezettségnek való megfelelésben, az adatgyűjtésben és adatkezelésben, a teljesítményértékelés elvégzésében;
+7. ESG minősítő: a polgári perrendtartásról szóló 2016. évi CXXX. törvény (a továbbiakban: Pp.) szerinti gazdálkodó szervezet, és az a külföldi jogi személy, amely Magyarország területén működő bármely szervezet ESG jellemzőire, az ESG beszámoló mellékletét képező kérdőív vagy a 27. § (5) bekezdése szerinti további, e törvény hatálya alá tartozó adatszolgáltatás tartalmára, illetve a fenntarthatósági kérdések körében felmerülő kockázataira vonatkozó véleményt, pontszámot vagy ezek kombinációját készíti, illetve szolgáltatás keretében harmadik felek számára biztosít;
 
-9. ESG tanácsadó: a Ptk. szerinti gazdálkodó szervezet, a külföldi székhelyű vállalkozás magyarországi fióktelepe és az a személy, amely Magyarország területén ESG célú vállalatirányítási szakértői és ESG adatszolgáltatáshoz kapcsolódó tájékoztató és tanácsadói szolgáltató tevékenységet folytat, közreműködik a vállalkozás fenntarthatósági célú átvilágítási kötelezettségeinek sikeres és megfelelő időben történő teljesítésében, részt vesz a fenntarthatósági kérdésekkel kapcsolatos adatok összegyűjtésében és elemzésében, a társadalmi felelősségvállalási stratégia elkészítésében, valamint a kockázatkezelésre, a kockázatelemzésre és a megelőző intézkedésekre vonatkozó szabályok végrehajtásában;
+8. ESG szoftver: olyan IKT-termék, amely támogatja a vállalatot vagy az általa megbízott jogi vagy természetes személyt az ESG adatszolgáltatási kötelezettségnek való megfelelésben, az adatgyűjtésben és adatkezelésben, a teljesítményértékelés elvégzésében;
 
-10. ESG tanúsító: az ESG beszámolót tanúsító, akkreditált megfelelőségértékelő szervezet;
+9. ESG tanácsadó: a Pp. szerinti gazdálkodó szervezet, és az a személy, amely Magyarország területén ESG célú vállalatirányítási szakértői és ESG adatszolgáltatáshoz kapcsolódó tájékoztató és tanácsadói szolgáltató tevékenységet folytat, közreműködik a vállalkozás fenntarthatósági célú átvilágítási kötelezettségeinek sikeres és megfelelő időben történő teljesítésében, részt vesz a fenntarthatósági kérdésekkel kapcsolatos adatok összegyűjtésében és elemzésében, a társadalmi felelősségvállalási stratégia elkészítésében, valamint a kockázatkezelésre, a kockázatelemzésre és a megelőző intézkedésekre vonatkozó szabályok végrehajtásában;
+
+10. ESG tanúsító: az ESG beszámolót tanúsító, akkreditált, jogi személyiséggel rendelkező megfelelőségértékelő szervezet;
 
 11. fenntarthatósági kérdések: az Szt. 95/D. § (1) bekezdés 2. pontja szerinti forgalom;
 
 12. fióktelep: a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény 7. § (2) bekezdése szerinti fióktelep;
 
-13. IKT-folyamat: az (EU) 2019/881 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+13.
 
-14. IKT-szolgáltatás: az (EU) 2019/881 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+14.
 
 15. IKT-termék: az (EU) 2019/881 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
+
+15a. kapcsolódó személy:
+
+a) az a személy, amelyben az ESG közreműködő – a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással rendelkezik,
+
+b) az a személy, amely az ESG közreműködőben – a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással rendelkezik,
+
+c) az a személy, akiben olyan harmadik személy rendelkezik a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással, aki az ESG közreműködőben is – a Ptk. rendelkezéseinek megfelelő alkalmazásával – közvetlenül vagy közvetve többségi befolyással rendelkezik azzal, hogy azokat a közeli hozzátartozókat, akik az ESG közreműködőben és a másik személyben többségi befolyással rendelkeznek, harmadik személynek kell tekinteni,
+
+d) az a külföldi jogi személy, amely az ESG közreműködővel az a)–c) alpontban meghatározott viszonyban áll,
+
+e) az ESG közreműködő külföldi fióktelepe, és az a személy, amely a külföldi székhelyű ESG közreműködővel az a)–c) alpontban meghatározott viszonyban áll,
+
+f) az a személy, akire nézve az ESG közreműködő vonatkozásában az ügyvezetés egyezőségére tekintettel az üzleti és pénzügyi politikára vonatkozó döntő befolyásgyakorlás valósul meg,
+
+g) az a személy, akinek az ESG közreműködő, az ESG közreműködő külföldi fióktelepének vagy magyarországi fióktelepének a munkavállalója vagy munkaviszony jellegű egyéb jogviszonyban foglalkoztatottja a tagja, a munkavállalója vagy munkaviszony jellegű egyéb jogviszonyban foglalkoztatottja,
+
+h) az a személy, aki olyan, a Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény 2. § 17. pontja szerinti könyvvizsgálói hálózatnak a tagja, amelynek az ESG közreműködő, az ESG közreműködő külföldi fióktelepe vagy magyarországi fióktelepe is a tagja.
 
 16. káros hatás: a tevékenység, vagy mulasztás környezetre vagy az emberi jogokra gyakorolt olyan közvetlenül vagy közvetve bekövetkező befolyása, amely jellegénél fogva különösen fontos, jelentős számú személyt, illetve jelentős területet érint, visszafordíthatatlan, vagy a hatás jelentkezése előtt fennálló helyzet helyreállításához szükséges intézkedésekre tekintettel különösen nehezen orvosolható;
 

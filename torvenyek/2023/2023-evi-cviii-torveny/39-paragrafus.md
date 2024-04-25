@@ -9,3 +9,5 @@ b) a vállalkozás által készített ESG beszámoló;
 c) az ESG beszámoló ESG tanúsítványának kelte, érvényességi ideje;
 
 d) az ESG tanúsítványt kiállító ESG tanúsító neve, elérhetősége.
+
+e) a Hatóság elnökének rendeletében előírt további, személyes adatnak nem minősülő adatok.

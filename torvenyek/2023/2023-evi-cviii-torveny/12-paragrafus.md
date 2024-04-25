@@ -10,9 +10,11 @@ b) a körforgásos gazdasághoz és a hulladékgazdálkodáshoz kapcsolódóan a
 
 c) az informatikáért felelős miniszter,
 
-d) a családpolitikáért felelős miniszter és
+d) a családpolitikáért felelős miniszter,
 
-e) a Hatóság elnöke
+e) a Hatóság elnöke, és
+
+f) a vállalkozásfejlesztési ügynökség ügyvezetője
 
 által kijelölt személy részvételével működik.
 
