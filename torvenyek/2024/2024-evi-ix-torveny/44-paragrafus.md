@@ -1,0 +1,5 @@
+## „7/A. Egyházakat és egyházi jogi személyeket érintő vagyonátadásra vonatkozó rendelkezések”
+
+44. § A 2021. évi CI. törvény 7/A. alcíme a következő 9/J. §-sal egészül ki:
+
+„9/J. § Az Nvtv. 13. § (5) bekezdése alapján a magyar állam javára bejegyzett elidegenítési és terhelési tilalom alatt álló Göd belterület 263 helyrajzi számú, természetben a 2131 Göd, Bartók Béla utca 8–10. szám alatti ingatlan tulajdonjogát a tulajdonos Piarista Rend Magyar Tartománya átruházhatja, mely esetben nem kell alkalmazni az Nvtv. 13. § (4)–(8) bekezdésében foglaltakat. A magyar állam javára bejegyzett elidegenítési és terhelési tilalmat az ingatlan-nyilvántartásból e § rendelkezése alapján a tulajdonos Piarista Rend Magyar Tartománya kérelmére törölni kell.”

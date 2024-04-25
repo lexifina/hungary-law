@@ -1,0 +1,3 @@
+16. § A Vtv. 28/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az MNV Zrt. az (1) bekezdés szerinti költségvetési szervek elhelyezése érdekében kijelölő okirattal – az (1) bekezdés szerinti költségvetési szervek igényeinek kielégítésére alkalmas, az MNV Zrt. által megfelelőnek ítélt ingatlanra vonatkozóan – állami elhelyezési célú ingatlanhasználati jogviszonyt létesít, amely jogviszony nem minősül az Nvtv. 3. § (1) bekezdés 4. pontja szerinti hasznosításnak. A kijelölő okirat alapján az (1) bekezdés szerinti költségvetési szerv köteles az MNV Zrt. által választott, a kijelölő okiratban számára megjelölt ingatlant az abban megjelölt határidőben birtokba venni.”
