@@ -1,5 +1,3 @@
-1. melléklet a 88/2024. (IV. 23.) Korm. rendelethez
+1. melléklet a 88/2024. (IV. 23.) Korm. rendelethez[^7]
 
-Az R. 2. melléklet c) pontja helyébe a következő rendelkezés lép:
-
-„c) A Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózat esetében a honvédelemért felelős miniszter.”
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
