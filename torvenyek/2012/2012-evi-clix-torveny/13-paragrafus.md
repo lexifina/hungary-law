@@ -16,7 +16,7 @@ b) a postai szolgáltató megszűnése esetén pedig újabb postai szolgáltatá
 
 szerződést nem köthet. A postai szolgáltató a már megkötött szerződésekből eredő kötelezettségeit köteles teljesíteni. A kezelésében lévő postai küldeményeket kézbesíteni, valamint a postai szolgáltatásból származó kártérítési és egyéb igényeket köteles e törvény szabályai szerint teljesíteni.
 
-(6) A Hatóság törli nyilvántartásából a postai szolgáltatást, ha annak nyújtását a postai szolgáltató a nyilvántartásba vételtől számított kilencven napon belül nem kezdi meg, vagy ha a jogszabályban foglaltak szerinti – véglegessé vált és végrehajtható – határozatával a postai szolgáltató engedélyét visszavonta, a postai szolgáltató felhagy az engedélyköteles szolgáltatás nyújtásával, vagy ha a Hatóság megtiltotta bejelentésköteles szolgáltatás nyújtását.
+(6) A Hatóság törli nyilvántartásából a postai szolgáltatást, ha annak nyújtását a postai szolgáltató a nyilvántartásba vételtől számított 90 napon belül nem kezdi meg, vagy ha a jogszabályban foglaltak szerinti – véglegessé vált és végrehajtható – határozatával a postai szolgáltató engedélyét visszavonta, a postai szolgáltató felhagy az engedélyköteles szolgáltatás nyújtásával, vagy ha a Hatóság megtiltotta bejelentésköteles szolgáltatás nyújtását.
 
 (7) A Hatóság a postai szolgáltató engedélyét visszavonja és törli a nyilvántartásból az engedélyköteles szolgáltatást nyújtót, amennyiben
 

@@ -30,6 +30,6 @@ kezeli.
 
 (7) A postai szolgáltatási engedély határozatlan időre szól.
 
-(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély véglegessé válását követő kilencven napon belül nem kezdi meg.
+(8) A szolgáltató köteles tájékoztatni a Hatóságot, ha a postai szolgáltatás nyújtását az engedély véglegessé válását követő 90 napon belül nem kezdi meg.
 
 (9) A kérelmező engedélyköteles szolgáltatás nyújtására jogosult postai szolgáltatónak minősül, ha a Hatóság a szolgáltatási engedély iránti kérelem elbírálására nyitva álló ügyintézési határidőn belül mellőzi a határozathozatalt.
