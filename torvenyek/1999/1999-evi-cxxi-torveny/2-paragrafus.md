@@ -1,10 +1,6 @@
 2. § E törvény alkalmazásában
 
-a) gazdálkodó szervezet:
-
-aa) a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely nem minősül a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 2. § c) pontja alapján az agrárkamara tagjának;
-
-ab) az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott és az agrárgazdasági tevékenységet nem főtevékenységként folytató gazdálkodó szervezet is, az egyéni vállalkozót is beleértve;
+a) gazdálkodó szervezet: a gazdasági társaság, az egyéni cég, az egyesülés, az egyes jogi személyek vállalata, a leányvállalat, a külföldi székhelyű vállalkozás magyarországi fióktelepe, a lakásszövetkezet kivételével a szövetkezet, az egyéni vállalkozó, amely főtevékenységként nem a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 1. és 2. mellékletében meghatározott tevékenységet folytat;
 
 b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
 
@@ -16,6 +12,6 @@ e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képvis
 
 f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 
-g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei, továbbá az agrárkamara;
+g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei;
 
 h) területi gazdasági kamaraterületi gazdasági kamara>: a vármegyei (fővárosi) és a vármegyeszékhelyen kívüli megyei jogú városi kamara.

@@ -30,7 +30,7 @@ b) a gazdasági kamara titkára;
 
 c) a gazdasági kamara ügyintéző szervezetében dolgozó, a kamarával munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy;
 
-d) az a)–c) pontokban említett személyek közeli hozzátartozója Ptk. 685. § b) pont és élettársa.
+d) az a)–c) pontokban említett személyek közeli hozzátartozója és élettársa.
 
 (4) Az ellenőrző bizottság tagjának – a kamara tagján kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható. Az országos gazdasági kamara ellenőrző bizottsága tagjának – a gazdasági kamara küldöttén kívül – megfelelő szakértelemmel rendelkező más személy is megválasztható.
 
