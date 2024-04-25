@@ -1,3 +1,3 @@
 ## 11. A 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény hatályon kívül helyezése
 
-35. § Hatályát veszti a 2020. évi Dubaji Világkiállításon történő magyar megjelenés sikeres megvalósításához, továbbá egyes nemzetközi nagyeseményekhez kapcsolódó rendelkezésekről szóló 2019. évi XIV. törvény.
+### 35. §
