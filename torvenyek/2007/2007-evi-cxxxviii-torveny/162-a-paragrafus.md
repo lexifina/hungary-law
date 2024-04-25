@@ -4,7 +4,7 @@ a) a befektetési vállalkozás olyan kockázatoknak vagy kockázati elemeknek v
 
 b) a befektetési vállalkozás nem felel meg az irányítási és kockázatkezelési rendszerére, valamint a 106. § szerinti belső tőkemegfelelés értékelési folyamatára vonatkozó meghatározott követelményeknek, és egyéb felügyeleti intézkedések megfelelő időtartamon belül valószínűleg nem javítanak elegendő mértékben a rendszereken, az eljárásokon, a mechanizmusokon és a stratégiákon,
 
-c) a 162. § (8) bekezdése alapján nem lehetséges a pozíciók rövid időn – legfeljebb harminc napon – belüli, jelentős veszteségek nélküli lezárása vagy fedezése normális piaci körülmények között,
+c) nem lehetséges a pozíciók rövid időn – legfeljebb harminc napon – belüli, jelentős veszteségek nélküli lezárása vagy fedezése normális piaci körülmények között,
 
 d) a 163/A. § alapján elvégzett felülvizsgálat megállapítja, hogy az engedélyezett belső modellek alkalmazására vonatkozó követelmények nemteljesítése várhatóan nem megfelelő tőkeszinteket eredményez,
 

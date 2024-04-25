@@ -2,7 +2,7 @@
 
 a) a befektetési vállalkozás üzleti modelljét,
 
-b) a 101. § (1) bekezdés f) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat,
+b) a 101. § (1) bekezdés d) pontjában meghatározott rendszereket, eljárásokat és mechanizmusokat,
 
 c) a felügyeleti felülvizsgálat és értékelés eredményét, és
 

@@ -1,6 +1,6 @@
 ## Felügyeleti felülvizsgálat és értékelés
 
-162. § (1) A Felügyelet felülvizsgálja és értékeli azokat a szabályzatokat, stratégiákat, eljárásokat és módszereket, amelyeket a befektetési vállalkozás az e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet betartása érdekében hoz.
+162. § (1) A Felügyelet a befektetési vállalkozás méretét, kockázati profilját és üzleti modelljét is figyelembe véve felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet összes követelményének való megfelelését.
 
 (2) A Felügyelet felülvizsgálja és értékeli a befektetési vállalkozás e törvény, továbbá a prudens működésre vonatkozó szabályok és az (EU) 2019/2033 rendelet összes követelményének való megfelelését.
 
@@ -24,7 +24,7 @@ f) a befektetési vállalkozás vállalatirányítási rendszereit, a vezető te
 
 g) a befektetési vállalkozásnak a nem kereskedési könyvben nyilvántartott kitettségének a kamatkockázatát.
 
-(6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (6) bekezdés szerinti szakmai felelősségbiztosítással.
+(6) Az (5) bekezdés alkalmazása során a Felügyelet figyelembe veszi, hogy a befektetési vállalkozás rendelkezik-e a 101. § (3) bekezdés szerinti szakmai felelősségbiztosítással.
 
 (7)
 

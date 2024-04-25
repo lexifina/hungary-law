@@ -83,3 +83,47 @@ bb) leírhatóak az említett tőkeelemekből, és
 amelyek folyamatosan tükrözik a befektetési vállalkozás kitettségeinek minőségét azzal, hogy ezekre az eszközökre a visszatartási politika megfelelően vonatkozik. A visszatartási politika célja az egyéni ösztönzők összhangba hozatala a befektetési vállalkozás, annak hitelezői és ügyfelei hosszú távú érdekeivel.
 
 18a. Ha a befektetési vállalkozás nem bocsát ki a 18. pont szerinti instrumentumokat, a Felügyelet az ugyanazon célkitűzéseknek megfelelő alternatív megoldások alkalmazását is jóváhagyhatja. A Felügyelet korlátozásokat vezethet be az említett instrumentumok típusaira és azok kialakítására vagy megtilthatja bizonyos instrumentumok teljesítményjavadalmazáshoz való használatát.
+
+19. Ha a befektetési vállalkozás pénzügyi teljesítménye a belső szabályzatban meghatározottak szerinti mértékben azért romlik, mert az adott vezető állású személy, munkavállaló túlzott kockázatot vállalt, a vezető állású személy, munkavállaló kifizetendő teljesítményjavadalmazását csökkenteni kell.
+
+20. A teljesítményjavadalmazás legalább 40 százalékát – a belső szabályzatban meghatározott küszöbértéknél magasabb összegű teljesítményjavadalmazás esetén legalább 60 százalékát – halasztva, az üzleti tevékenység természetétől, kockázataitól és az adott vezető állású személy, munkavállaló tevékenységeitől függően legalább 3–5 éves időszak alatt időarányosan elosztva kell kifizetni. A halasztási időszak hosszát az üzleti ciklusnak, az üzlet jellegének, kockázatainak és az érintett munkavállaló tevékenységeinek megfelelően kell megállapítani.
+
+20a. A teljesítményjavadalmazást csökkenteni kell, ha a befektetési vállalkozás pénzügyi teljesítménye jelentősen visszaesik vagy negatív, figyelembe véve az aktuális javadalmazást és a csökkentési vagy visszakövetelési szabályokat.
+
+21. A teljesítményjavadalmazás 100 százalékára csökkentési lehetőség vagy visszakövetelési szabályok alkalmazhatóak. A befektetési vállalkozás a belső szabályzatában konkrét kritériumokat határoz meg a csökkentési vagy a visszakövetelési szabályok alkalmazására, amelyben tekintettel van arra, hogy a vezető állású személy vagy a munkavállaló
+
+a) olyan magatartás részese volt-e, amely jelentős veszteséget okozott a befektetési vállalkozásnak, vagy felelős volt-e a befektetési vállalkozás számára bekövetkezett jelentős veszteségért, és
+
+b) megfelel-e az alkalmasságra és megfelelőségre vonatkozó sztenderdeknek.
+
+22. A teljesítményjavadalmazás kifizetése nem eredményezheti azt, hogy a befektetési vállalkozás nem tudja a szükséges mértékben megerősíteni a tőkéjét, és kifizetéskor a befektetési vállalkozás nem alkalmazhat olyan módszereket, amelyek nem állnak összhangban a javadalmazási politika elveinek teljesülésével.
+
+23. A teljesítményjavadalmazás kifizetése nem eredményezheti az e törvényben, továbbá a prudens működésre vonatkozó jogszabályokban és az (EU) 2019/2033 rendeletben meghatározott követelmények nem teljesítését.
+
+24. A munkaviszony megszűnéséhez kapcsolódó kifizetések az eltelt időszakban elért teljesítményt tükrözik, az el nem ért eredményhez kifizetés nem kapcsolódhat.
+
+25. Az előző munkaviszony alapján fennálló, szerződésből következő teljes javadalmazás átvállalásával vagy az előző teljes javadalmazásból következő kompenzáció révén adott újabb teljes javadalmazásnak összhangban kell lennie a befektetési vállalkozás hosszú távú érdekeivel, ideértve a visszatartási, a halasztási, a teljesítmény- és a visszakövetelési megállapodásokat is.
+
+26. Ha a befektetési vállalkozás a nyugdíjpolitikára vonatkozó szabályzattal rendelkezik, annak összhangban kell állnia a befektetési vállalkozás üzleti stratégiájával, célkitűzéseivel, értékeivel és hosszú távú érdekeivel. Ha a nyugdíjpolitikára vonatkozó szabályzat alapján a vezető állású személy, munkavállaló részére teljesítményjavadalmazása részeként nem kötelező nyugdíjjuttatás jár és a vezető állású személy, munkavállaló
+
+a) a nyugdíjazása előtt távozik a befektetési vállalkozástól, akkor a befektetési vállalkozásnak a 18. pontban meghatározott eszközök formájában öt évig vissza kell tartania a nem kötelező nyugdíjjuttatásokat,
+
+b) eléri a nyugdíjazását, akkor a befektetési vállalkozásnak a munkaviszony megszűnése után ötéves visszatartási időszak figyelembevételével kell kifizetnie ezen juttatásokat a 18. pontban meghatározott eszközök formájában.
+
+26a. A 18., 20. és 26. pont nem alkalmazandó
+
+a) arra a befektetési vállalkozásra, amelynek mérleg szerinti és mérlegen kívüli eszközeinek értéke az adott pénzügyi évet közvetlenül megelőző négyéves időszakban átlagosan legfeljebb százmillió euró,
+
+b) arra a személyre, akinek éves teljesítményjavadalmazása legfeljebb ötvenezer euró, és nem teszi ki ezen személy teljes éves javadalmazásának több mint egynegyedét.
+
+27. A befektetési vállalkozás ellenőrzési feladatokat végző munkavállalói javadalmazása független az általuk felügyelt szervezeti egységek teljesítményétől, az a feladatkörükhöz kapcsolódó célkitűzések elérésén alapul.
+
+28. Az ellenőrzési feladatokat (ideértve a belső kontroll funkciót is) és a kockázatkezelési feladatokat végző munkavállalóknak a javadalmazását – a 29. pontban meghatározott eltéréssel – a felügyelő bizottság felügyeli, kivéve, ha a befektetési vállalkozás javadalmazási bizottságot állít fel.
+
+29. Ha a befektetési vállalkozás javadalmazási bizottságot állít fel, akkor a javadalmazási bizottság a felelős az érintett munkavállalók javadalmazásának felügyeletéért.
+
+30. A befektetési vállalkozás vezető állású személye, munkavállalója nem köthet olyan fedezeti ügyletet, amely a javadalmazására vonatkozó szerződésben foglalt kockázatvállalás hatásait kiküszöbölné.
+
+31. Másik EGT-államban székhellyel rendelkező befektetési vállalkozás magyarországi fióktelepe a befektetési vállalkozás székhelye szerinti állam javadalmazásra vonatkozó jogszabályban foglalt szabályait alkalmazza.
+
+32. Ha a befektetési vállalkozás a Szantv. 3. § 53. pontja szerinti rendkívüli állami pénzügyi támogatásban részesül, nem fizet teljesítményjavadalmazást a vezető testület tagjainak, és ha a vezető testület tagjain kívüli munkavállalóinak fizetett teljesítményjavadalmazás nem lenne összeegyeztethető a befektetési vállalkozás stabil tőkealapjának fenntartásával, valamint a rendkívüli állami pénzügyi támogatás időben történő megszüntetésével, akkor a teljesítményjavadalmazásnak a nettó bevétel meghatározott hányadára kell korlátozódnia.

@@ -1,4 +1,4 @@
-3/B. § (1) A kis méretű és össze nem kapcsolt befektetési vállalkozásra – a 17. §-ban, a 19/A. §-ban, a 20/A. §-ban, a 21/A. § (2)–(4) bekezdésében, a 101. § (2), (4)–(9) bekezdésében, a 123/A. § (1) és (2) bekezdésében, valamint a 4. mellékletben meghatározott rendelkezések kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
+3/B. § (1) A kis méretű és össze nem kapcsolt befektetési vállalkozásra – a 17. §-ban, a 19/A. §-ban, a 20/A. §-ban, a 21/A. § (2)–(4) bekezdésében, a 101. § (1) bekezdés b) pontjában, a 101. § (2)–(6) bekezdésében, a 123/A. § (1) és (2) bekezdésében, valamint a 4. mellékletben meghatározott rendelkezések kivételével – a befektetési vállalkozásra előírt rendelkezéseket kell alkalmazni.
 
 (2) A 162. §-ban a befektetési vállalkozásra előírt rendelkezések kis méretű és össze nem kapcsolt befektetési vállalkozásra való alkalmazásáról a Felügyelet eseti alapon, az arányosság elve (a befektetési vállalkozás mérete, tevékenységeinek jellege, nagyságrendje, összetettsége) alapján dönt.
 
