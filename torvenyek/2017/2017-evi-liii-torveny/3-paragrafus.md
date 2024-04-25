@@ -56,7 +56,7 @@ d) a befolyással rendelkező személy tőkekapcsolat nélkül gyakorol jelentő
 
 18. jogi személyiséggel nem rendelkező szervezet: nem jogi személy és nem természetes személy jogalany;
 
-18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
+18a. kijelölt felelős vezető: az irányítási funkciót betöltő testület azon tagja, illetve irányítási funkciót betöltő testület hiányában a szolgáltató azon felsővezetője, valamint a felügyeleti útmutatóban meghatározott feltételeknek megfelelő más személy, aki a szolgáltató 65. §-ban meghatározott belső szabályzatában került kijelölésre, és aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelmények és elvárások szolgáltató általi végrehajtásáért felel;
 
 19. kockázatérzékenységi megközelítés: az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél körülményei alapján a 65. §-ban meghatározott belső szabályzatban a belső kockázatértékelés alapján rögzített, a pénzmosás és a terrorizmus finanszírozása megelőzésére és megakadályozására irányuló eljárás;
 

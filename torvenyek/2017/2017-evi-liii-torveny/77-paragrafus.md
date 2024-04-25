@@ -14,7 +14,7 @@ d) az auditált elektronikus hírközlő eszköz és működtetésének, belső 
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
-f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 
 g) a képzési programra,
 
@@ -36,7 +36,7 @@ d) az auditált elektronikus hírközlő eszköz és működtetésének, belső 
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
-f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 
 g) a képzési programra,
 
@@ -62,7 +62,7 @@ d) az auditált elektronikus hírközlő eszköz és működtetésének minimumk
 
 e) a megerősített eljárás esetköreire és feltételrendszerére,
 
-f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez vezetői döntést igénylő esetek meghatározására,
+f) a kockázatérzékenységi megközelítés alapján üzleti kapcsolat létesítéséhez vagy ügyleti megbízás teljesítéséhez a kijelölt felelős vezető döntését igénylő esetek meghatározására és e döntések meghozatalára,
 
 g) a képzési programra,
 
