@@ -1,5 +1,5 @@
-## 10.[^42]
+## 10.[^43]
 
 37. §
 
-[^42]: A 10. alcím a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^43]: A 10. alcím a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
