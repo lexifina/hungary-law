@@ -1,3 +1,3 @@
-118. §[^49]
+118. §[^54]
 
-[^49]: A 118. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 118. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

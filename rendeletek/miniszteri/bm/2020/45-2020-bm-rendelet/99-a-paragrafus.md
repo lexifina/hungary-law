@@ -1,4 +1,4 @@
-## III/A. Fejezet[^40]
+## III/A. Fejezet[^45]
 
 ## A RENDVÉDELMI OKTATÁSI INTÉZMÉNY TANULÓJÁNAK, TISZTJELÖLTJÉNEK SORON KÍVÜLI ALKALMASSÁGVIZSGÁLATA
 
@@ -10,4 +10,4 @@ b) a tanuló egészségi vagy pszichológiai alkalmatlanságát, valamint a tisz
 
 (2) A tanuló (1) bekezdés szerint elrendelt, soron kívüli egészségi vagy pszichológiai alkalmasságvizsgálatára, valamint a tisztjelölt soron kívül elrendelt egészségi, pszichológiai vagy fizikai alkalmasságvizsgálatára a III. Fejezetet kell alkalmazni.
 
-[^40]: A III/A. fejezetet (99/A. §) a 4/2022. (III. 25.) BM rendelet 24. §-a iktatta be.
+[^45]: A III/A. fejezetet (99/A. §) a 4/2022. (III. 25.) BM rendelet 24. §-a iktatta be.
