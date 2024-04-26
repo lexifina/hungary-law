@@ -1,0 +1,3 @@
+24. § A 68/2012. (XII. 14.) BM rendelet 10. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az egyes rendészeti feladatokat ellátók, valamint a személy- és vagyonőrök képzésének egy főre eső díja a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 25%-a, a kiegészítő képzés egy főre eső díja a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 12,5%-a, a segédfelügyelő képzés egy főre eső díja a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 7,5%-a, az utánképzés egy főre eső díja a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 132. §-a szerinti illetményalap 65%-a.”

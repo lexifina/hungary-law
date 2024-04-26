@@ -1,0 +1,7 @@
+A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 13. pont a), h) alpontjában és 341. § (1) bekezdés 18. pont b)–e) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 2., 7. és 16. pontjában meghatározott feladatkörömben eljárva,
+
+a 2. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 13. pont a), h) alpontjában és 341. § (1) bekezdés 18. pont e) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 2., 7. és 16. pontjában meghatározott feladatkörömben eljárva,
+
+a 3. alcím, valamint az 1. és a 2. melléklet tekintetében az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 25. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. és 29. pontjában meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 54. § 1., 5., 7., 9. és 11. pontjában meghatározott feladatkörében eljáró agrárminiszterrel egyetértésben –
+
+a következőket rendelem el:

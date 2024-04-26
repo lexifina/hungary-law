@@ -1,0 +1,5 @@
+## 2. A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló 45/2020. (XII. 16.) BM rendelet módosítása
+
+10. § A belügyminiszter irányítása alatt álló egyes rendvédelmi feladatokat ellátó szerveknél foglalkoztatott hivatásos állomány és rendvédelmi igazgatási alkalmazotti állomány alkalmasságvizsgálatáról szóló 45/2020. (XII. 16.) BM rendelet [a továbbiakban: 45/2020. (XII. 16.) BM rendelet] 58. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a vezetői beosztásba tervezett személyről nem állnak rendelkezésre a (2) bekezdés szerinti kompetenciaprofil adatok, vagy a kinevezésre jogosult vezető a vezetői beosztásba tervezett személy beleegyezésével úgy dönt, az alkalmasságvizsgálat elrendelésére jogosult állományilletékes parancsnok kérésére a 2/2013. (I. 30.) BM rendeletben foglaltak alapján a vezetői kompetenciafelmérést negyvenöt napon belül el kell végezni.”
