@@ -146,7 +146,7 @@ Hajóműszaki fogalmak
 
 61. Vízkiszorítási tömeg (Δ) – a hajó teljes tömege, beleértve a rakományt, t;
 
-62. Hasábos teltség (CB) – a vízkiszorítási térfogat és az LWL hossz, a BWL szélesség és a T merülés szorzatának viszonyszáma;
+62. Hasábos teltség (CB) – a vízkiszorítási térfogat és az LWLhossz, a BWLszélesség és a T merülés szorzatának viszonyszáma;
 
 63. Szélnek kitett felület (Av) – a hajó merülésvonal feletti részének vetülete, m2;
 

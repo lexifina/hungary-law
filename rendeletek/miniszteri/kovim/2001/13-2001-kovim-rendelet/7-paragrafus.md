@@ -1,4 +1,4 @@
-7. §[^27] (1) A 3. § szerinti uniós belvízi utakon közlekedő vízi járműveknek a következő dokumentumok eredeti példányával kell rendelkezniük:
+7. §[^26] (1) A 3. § szerinti uniós belvízi utakon közlekedő vízi járműveknek a következő dokumentumok eredeti példányával kell rendelkezniük:
 
 a) az R zónába tartozó vízi úton történő közlekedéskor:
 
@@ -16,4 +16,4 @@ b) egyéb vízi utakon való közlekedéskor uniós belvízi hajóbizonyítvány
 
 (4) A hajóbizonyítvány elvesztését vagy megrongálódását be kell jelenteni, és pótbizonyítvány kérhető, továbbá a megrongálódott bizonyítványt vissza kell szolgáltatni. A pótbizonyítványon fel kell tüntetni, hogy az az eredetivel mindenben megegyezik.
 
-[^27]: A 7. § a 42/2019. (XI. 21.) ITM rendelet 2. §-ával megállapított szöveg.
+[^26]: A 7. § a 42/2019. (XI. 21.) ITM rendelet 2. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-6. § (1)[^19] Az úszólétesítmény üzemeltetése során a hajózási hatóság az üzemképességet
+6. § (1)[^18] Az úszólétesítmény üzemeltetése során a hajózási hatóság az üzemképességet
 
 a) kompnál és díj ellenében történő személyszállításra szolgáló – de személyhajónak nem minősülő – belvízi kishajónál háromévenként,
 
@@ -8,17 +8,17 @@ c) minden egyéb úszólétesítménynél tízévenként
 
 vizsgálja meg (időszakos vizsgálat).
 
-(2)[^20] Az időszakos vizsgálatot az úszólétesítmény vízből kiemelt, vagy partra húzott állapotában tízévenként kell elvégezni. A kiemelésről, valamint a partra húzásról az úszólétesítmény üzemben tartója köteles gondoskodni.
+(2)[^19] Az időszakos vizsgálatot az úszólétesítmény vízből kiemelt, vagy partra húzott állapotában tízévenként kell elvégezni. A kiemelésről, valamint a partra húzásról az úszólétesítmény üzemben tartója köteles gondoskodni.
 
-(3)[^21] A hajózási hatóság az úszólétesítmény üzemképességét az (1) és a (2) bekezdéstől eltérően – az úszólétesítmény műszaki állapotától, korától és üzemeltetési körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésnek megfelelően – gyakrabban is ellenőrizheti.
+(3)[^20] A hajózási hatóság az úszólétesítmény üzemképességét az (1) és a (2) bekezdéstől eltérően – az úszólétesítmény műszaki állapotától, korától és üzemeltetési körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésnek megfelelően – gyakrabban is ellenőrizheti.
 
-(4)[^22] A hajózási hatóság kizárólag Magyarország belvizein üzemelő, az (1) bekezdés c) pontja szerinti úszólétesítmények parti szemléje közötti időszakot – az úszólétesítmények építési anyagától, szerkezeti kialakításától és az üzemeltetés körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésének megfelelően – legfeljebb 20%-kal növelheti meg.
+(4)[^21] A hajózási hatóság kizárólag Magyarország belvizein üzemelő, az (1) bekezdés c) pontja szerinti úszólétesítmények parti szemléje közötti időszakot – az úszólétesítmények építési anyagától, szerkezeti kialakításától és az üzemeltetés körülményeitől függően, az úszólétesítmény bizonyítványába tett bejegyzésének megfelelően – legfeljebb 20%-kal növelheti meg.
 
-(5)[^23] Kizárólag Magyarország víziútjain vagy víziútnak nem minősülő vízterületein üzemelő úszólétesítmények esetében a parti szemlét a parti ellenőrzéssel egyenértékű, tervjóváhagyásban elfogadott vizsgálati módszer helyettesítheti.
+(5)[^22] Kizárólag Magyarország víziútjain vagy víziútnak nem minősülő vízterületein üzemelő úszólétesítmények esetében a parti szemlét a parti ellenőrzéssel egyenértékű, tervjóváhagyásban elfogadott vizsgálati módszer helyettesítheti.
 
-(6)[^24] Az időszakos vizsgálat során az üzembentartó köteles a hajózási hatóságnak az úszólétesítmény összes okmányát bemutatni.
+(6)[^23] Az időszakos vizsgálat során az üzembentartó köteles a hajózási hatóságnak az úszólétesítmény összes okmányát bemutatni.
 
-(7)[^25] Az időszakos vizsgálat kiterjed:
+(7)[^24] Az időszakos vizsgálat kiterjed:
 
 a) az úszólétesítmény testszerkezetére,
 
@@ -38,13 +38,13 @@ h) a hajózási jelző eszközökre és navigációs berendezésekre (jelzőlám
 
 i) arra, hogy az úszólétesítmény megfelel-e a munka-, a tűz-, az egészségvédelmi, a környezetvédelmi, valamint egyéb előírásoknak.
 
-(8)[^26] A hajózási hatóság az időszakos vizsgálat alkalmával – az üzembe helyezés előtti vizsgálat során meghatározott legkisebb létszám figyelembevételével – ellenőrzi az úszólétesítmény személyzetének létszámát.
+(8)[^25] A hajózási hatóság az időszakos vizsgálat alkalmával – az üzembe helyezés előtti vizsgálat során meghatározott legkisebb létszám figyelembevételével – ellenőrzi az úszólétesítmény személyzetének létszámát.
 
-[^19]: A 6. § (1) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
-[^20]: A 6. § (2) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
-[^21]: A 6. § (3) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
-[^22]: A 6. § (4) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
-[^23]: A 6. § új (5) bekezdését a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése iktatta be, hatályon kívül helyezte a 9/2008. (III. 21.) GKM rendelet 13. § (3) bekezdése, újonnan a 29/2014. (V. 5.) NFM rendelet 7. §-a iktatta be.
-[^24]: A 6. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
-[^25]: A 6. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
-[^26]: A 6. § eredeti (6) bekezdésének számozását (8) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^18]: A 6. § (1) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^19]: A 6. § (2) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^20]: A 6. § (3) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^21]: A 6. § (4) bekezdése a 29/2014. (V. 5.) NFM rendelet 7. §-ával megállapított szöveg.
+[^22]: A 6. § új (5) bekezdését a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése iktatta be, hatályon kívül helyezte a 9/2008. (III. 21.) GKM rendelet 13. § (3) bekezdése, újonnan a 29/2014. (V. 5.) NFM rendelet 7. §-a iktatta be.
+[^23]: A 6. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^24]: A 6. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.
+[^25]: A 6. § eredeti (6) bekezdésének számozását (8) bekezdésre változtatta a 16/2006. (IV. 6.) GKM rendelet 4. § (4) bekezdése.

@@ -1,4 +1,4 @@
-4. §[^10] (1)–(2)[^11]
+4. §[^9] (1)–(2)[^10]
 
 (3) Nem kell benyújtani a
 
@@ -10,7 +10,7 @@ ba) a kishajó árufuvarozást vagy közforgalmú személyszállítást végez,
 
 bb) szolgálati célú kishajó épül,
 
-bc)[^12] a nagyhajók vagy úszómunkagépek vontatására, tolására vagy mellévett alakzatban való továbbítására szolgáló hajókra terjed ki
+bc)[^11] a nagyhajók vagy úszómunkagépek vontatására, tolására vagy mellévett alakzatban való továbbítására szolgáló hajókra terjed ki
 
 (4) A jóváhagyásra benyújtott tervnek – ha jogszabály eltérően nem rendelkezik – tartalmaznia kell:
 
@@ -60,7 +60,7 @@ v) személyhajóknál az utaselhelyezési rajzot.
 
 (5) Azoknál a gépeknél, berendezéseknél és felszereléseknél, amelyek megfelelőséget vizsgáló és tanúsító szervezet megfelelőséget tanúsító bizonylatával rendelkeznek, elegendő az általános elrendezési rajz benyújtása.
 
-(6)[^13] A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.
+(6)[^12] A főösszefüggési- és rendszertervek áttekintésének elősegítése céljából az összetett szerkezetű tervrajzokat a megismerést elősegítő részlettervekkel kell alátámasztani. A részlettervek elektronikus adathordozón is benyújthatóak.
 
 (7) Átépítés esetében a hajótestnek, a felépítménynek, illetőleg a gépi vagy egyéb berendezéseknek azokról a részeiről kell a (4) bekezdés szerinti rajzokat és számításokat benyújtani, amelyeket átépítenek. Amennyiben az átépítés a stabilitásra vagy a hajótest szilárdságára kihat, az erre vonatkozó számításokat is be kell nyújtani.
 
@@ -82,10 +82,10 @@ e) hatósági ellenőrzés bejegyzésére alkalmas naplórész,
 
 f) az építtető és a műszaki vezető aláírása az építés, illetve átépítés megkezdésének oldalán, valamint minden oldalon az ott bejegyzett munkafázis vezetője.
 
-(11)[^14]
+(11)[^13]
 
-[^10]: A 4. § a 16/2006. (IV. 6.) GKM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^11]: A 4. § (1)–(2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
-[^12]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^13]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte, újonnan a 29/2014. (V. 5.) NFM rendelet 5. § (2) bekezdése iktatta be.
-[^14]: A 4. § (11) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^9]: A 4. § a 16/2006. (IV. 6.) GKM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^10]: A 4. § (1)–(2) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdés b) pont bc) alpontja a 29/2014. (V. 5.) NFM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^12]: A 4. § (6) bekezdését az 1/2010. (I. 8.) KHEM rendelet 15. § (2) bekezdése hatályon kívül helyezte, újonnan a 29/2014. (V. 5.) NFM rendelet 5. § (2) bekezdése iktatta be.
+[^13]: A 4. § (11) bekezdését az 55/2017. (XII. 27.) NFM rendelet 11. § a) pontja hatályon kívül helyezte.
