@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-68-20-0
 | 2019-05-28 | 2012-68-20-0A.12 | 22/2019. (V. 27.) BM rendelet |
 | 2021-11-26 | 2012-68-20-0A.13 | 37/2021. (X. 27.) BM rendelet |
 | 2023-07-01 | 2012-68-20-0A.14 | 18/2023. (VI. 26.) BM rendelet |
+| 2024-04-26 | 2012-68-20-0A.15 | 19/2024. (IV. 11.) BM rendelet |

@@ -1,4 +1,4 @@
-1. melléklet a 68/2012. (XII. 14.) BM rendelethez
+1. melléklet a 68/2012. (XII. 14.) BM rendelethez[^32]
 
 Jelentkezési lap képzésre/kiegészítő képzésre/segédfelügyelői képzésre
 
@@ -8,7 +8,7 @@ Jelentkezési lap képzésre/kiegészítő képzésre/segédfelügyelői képzé
 
 2. A választott képzés helye:
 
-A beiskolázott
+A képzésben részt vevő
 
 3. Neve:
 
@@ -39,3 +39,5 @@ Kelt: ............................................, ............... év ........
 .......................................................
 
 olvasható aláírása
+
+[^32]: Az 1. melléklet a 19/2024. (IV. 11.) BM rendelet 29. § g) pontja szerint módosított szöveg.

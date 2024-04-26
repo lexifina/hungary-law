@@ -1,6 +1,6 @@
 ## Vizsgaszabályzat
 
-## I. A képzés, a segédfelügyelői képzés – vizsga részei:
+## I.[^34] A képzés vizsgaszabályzata:
 
 ## 1. vizsgarész: gyakorlati vizsgatevékenység
 
@@ -18,7 +18,7 @@
 
 ## c) a vizsgafeladat aránya: 50%.
 
-## II. A kiegészítő képzés – vizsga részei:
+## II. A kiegészítő képzés vizsgaszabályzata:[^35]
 
 ## 1. vizsgarész: gyakorlati vizsgatevékenység
 
@@ -56,9 +56,9 @@
 
 ## f) a vizsgán elért eredményeket.
 
-## 4.[^20] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
+## 4.[^36] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi az országos rendőrfőkapitány részére. A vizsgajegyzőkönyv nem selejtezhető.
 
-4. melléklet a 68/2012. (XII. 14.) BM rendelethez[^21]
+4. melléklet a 68/2012. (XII. 14.) BM rendelethez[^37]
 
 1. A rendészeti feladatokat ellátó személyek és a személy- és vagyonőrök képzéséről kiállított tanúsítvány adattartalma
 
@@ -126,5 +126,30 @@
 
 3.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
 
-[^20]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
-[^21]: A 4. melléklet a 37/2021. (X. 27.) BM rendelet 2. §-ával megállapított szöveg.
+4.[^38] Az utánképzésről kiállított tanúsítvány adattartalma
+
+4.1. a tanúsítvány száma
+
+4.2. Magyarország címere többszínnyomással
+
+4.3. a „TANÚSÍTVÁNY” megjelölés
+
+4.4. a vizsgázó családi és utóneve
+
+4.5. a vizsgázó születési helye és ideje
+
+4.6. a vizsgázó anyja születési családi és utóneve
+
+4.7. a vizsgaszervező megnevezése
+
+4.8. a „vizsgaszervező előtt a személy- és vagyonvédelmi tevékenység keretében végezhető speciális ellenőrzést igazoló tanúsítványról szóló kormányrendeletben meghatározottak alapján a létesítmény és rendezvényvédelmi ellenőrök utánképzését követően megfelelt minősítéssel VIZSGÁT tett” szövegrész
+
+4.9. a tanúsítvány kiállításának helye és kelte
+
+4.10. a vizsgaszervező vezetőjének és a vizsgabizottság elnökének aláírása
+
+[^34]: A 3. melléklet I. pontja a 19/2024. (IV. 11.) BM rendelet 29. § h) pontja szerint módosított szöveg.
+[^35]: A 3. melléklet II. pontja a 19/2024. (IV. 11.) BM rendelet 29. § i) pontja szerint módosított szöveg.
+[^36]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított, a 19/2024. (IV. 11.) BM rendelet 29. § a) pontja szerint módosított szöveg.
+[^37]: A 4. melléklet a 37/2021. (X. 27.) BM rendelet 2. §-ával megállapított szöveg.
+[^38]: A 4. melléklet 4. pontját a 19/2024. (IV. 11.) BM rendelet 28. §-a iktatta be.
