@@ -1,3 +1,1 @@
-62. § Az ESG törvény 16. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A vállalkozás megfelelő és hatékony kockázatkezelési rendszert hoz létre a fenntarthatósági célú átvilágítási kötelezettségeknek való megfelelés biztosítása érdekében. Hatékonynak tekinthetőek azok az intézkedések, amelyek lehetővé teszik a lényeges, káros hatással járó társadalmi felelősségvállalási és környezeti kockázatok azonosítását és kezelését, valamint a társadalmi felelősségvállalással vagy környezetvédelemmel kapcsolatos kötelezettségszegések megelőzését, megszüntetését vagy mértékének minimalizálását, ha a vállalkozás ezeket maga okozta, vagy hozzájárult azokhoz az ellátási láncon belül. Az ellátási lánc átvilágítására és kockázataik elemzésére és minősítésére kizárólag az e törvényben meghatározott, e törvény szerint nyilvántartásba vett ESG szoftver vehető igénybe.”
+### 62. §
