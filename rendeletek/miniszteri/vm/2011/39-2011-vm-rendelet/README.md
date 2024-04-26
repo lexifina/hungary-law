@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-39-20-2
 | 2023-07-07 | 2011-39-20-2Y.33 | 34/2022. (X. 28.) AM rendelet |
 | 2023-09-29 | 2011-39-20-2Y.34 | 25/2023. (IX. 28.) GFM rendelet |
 | 2023-12-28 | 2011-39-20-2Y.35 | 25/2023. (IX. 28.) GFM rendelet |
+| 2024-04-26 | 2011-39-20-2Y.36 | 14/2024. (IV. 25.) NGM rendelet |

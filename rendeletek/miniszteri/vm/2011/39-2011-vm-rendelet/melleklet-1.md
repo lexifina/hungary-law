@@ -1,4 +1,4 @@
-1. melléklet a 39/2011. (V. 18.) VM rendelethez[^113]
+1. melléklet a 39/2011. (V. 18.) VM rendelethez[^124]
 
 A sertéstenyészetekben megállapítható átlagos állategység számítási módszertana
 
@@ -12,4 +12,4 @@ K: a sertés ENAR-ba hiánytalan adatszolgáltatással bejelentett és élőkén
 
 Vizsgált időszak: 2020. október 1. és 2021. szeptember 30. közötti időszak (i = 1–12)
 
-[^113]: Az 1. mellékletet a 49/2021. (XII. 28.) AM rendelet 5. §-a iktatta be.
+[^124]: Az 1. mellékletet a 49/2021. (XII. 28.) AM rendelet 5. §-a iktatta be.
