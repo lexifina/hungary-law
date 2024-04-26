@@ -1,11 +1,11 @@
-45. §[^153] (1) A rendészeti mestervezetővé képző tanfolyamon történő részvételre
+45. §[^150] (1) A rendészeti mestervezetővé képző tanfolyamon történő részvételre
 
 a) az állományilletékes parancsnok kezdeményezése alapján, vagy
 
 b) önkéntes jelentkezés alapján
 
-## kerülhet sor.
+kerülhet sor.
 
 (2) A rendészeti mestervezetővé képző tanfolyamon a hivatásos állomány azon tagja vehet részt, aki a rendészeti vezetővé képző tanfolyam követelményeinek eleget tett vagy annak teljesítése alól mentesül.
 
-[^153]: A 45. § a 35/2017. (XII. 21.) BM rendelet 19. §-ával megállapított szöveg.
+[^150]: A 45. § a 35/2017. (XII. 21.) BM rendelet 19. §-ával megállapított szöveg.

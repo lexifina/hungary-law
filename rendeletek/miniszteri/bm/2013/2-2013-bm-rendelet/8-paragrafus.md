@@ -1,10 +1,10 @@
-8. § (1)[^53] A hivatásos állomány tagja által teljesített továbbképzésről a minisztérium tanúsítványt állít ki. A tanúsítvány az RVTV-ről letölthető elektronikus formában kerül kiállításra. A tanúsítvány legalább fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel történő hitelesítéssel állítható ki.
+8. § (1)[^51] A hivatásos állomány tagja által teljesített továbbképzésről a minisztérium tanúsítványt állít ki. A tanúsítvány az RVTV-ről letölthető elektronikus formában kerül kiállításra. A tanúsítvány legalább fokozott biztonságú elektronikus aláírással vagy elektronikus bélyegzővel történő hitelesítéssel állítható ki.
 
-(2)[^54] A tanúsítványnak tartalmaznia kell
+(2)[^52] A tanúsítványnak tartalmaznia kell
 
 a) a továbbképzést teljesítő nevét, születési nevét, születési idejét és helyét,
 
-b)[^55] a továbbképzési program megnevezését, valamint a továbbképzési programot végrehajtó szerv megnevezését,
+b)[^53] a továbbképzési program megnevezését, valamint a továbbképzési programot végrehajtó szerv megnevezését,
 
 c) a megszerzett továbbképzési pontok számát,
 
@@ -18,9 +18,9 @@ g) a képzés számát.
 
 (3) A továbbképzési pont igazolására akkor kerülhet sor, ha a résztvevő maradéktalanul teljesítette a továbbképzési programban előírt követelményeket.
 
-(4)[^56] A belügyi szerv a továbbképzési pontokat az RVTV igénybevételével tartja nyilván.
+(4)[^54] A belügyi szerv a továbbképzési pontokat az RVTV igénybevételével tartja nyilván.
 
-[^53]: A 8. § (1) bekezdése a 37/2021. (X. 27.) BM rendelet 4. §-ával megállapított szöveg.
-[^54]: A 8. § (2) bekezdése a 35/2017. (XII. 21.) BM rendelet 7. §-ával megállapított szöveg.
-[^55]: A 8. § (2) bekezdés b) pontja a 37/2021. (X. 27.) BM rendelet 12. § a) pontja szerint módosított szöveg.
-[^56]: A 8. § (4) bekezdése a 35/2017. (XII. 21.) BM rendelet 27. § 11. pontja szerint módosított szöveg.
+[^51]: A 8. § (1) bekezdése a 37/2021. (X. 27.) BM rendelet 4. §-ával megállapított szöveg.
+[^52]: A 8. § (2) bekezdése a 35/2017. (XII. 21.) BM rendelet 7. §-ával megállapított szöveg.
+[^53]: A 8. § (2) bekezdés b) pontja a 37/2021. (X. 27.) BM rendelet 12. § a) pontja szerint módosított szöveg.
+[^54]: A 8. § (4) bekezdése a 35/2017. (XII. 21.) BM rendelet 27. § 11. pontja szerint módosított szöveg.

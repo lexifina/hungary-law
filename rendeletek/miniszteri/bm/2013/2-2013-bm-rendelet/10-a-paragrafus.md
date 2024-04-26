@@ -1,4 +1,4 @@
-10/A. §[^68] (1) Ha a hivatásos állomány tagjának továbbképzési időszaka négy évtől eltérő időtartamú, a 7. § (3) bekezdésében – a négyéves időtartamhoz viszonyítva – meghatározott továbbképzési pontokat időarányosan kell teljesíteni.
+10/A. §[^66] (1) Ha a hivatásos állomány tagjának továbbképzési időszaka négy évtől eltérő időtartamú, a 7. § (3) bekezdésében – a négyéves időtartamhoz viszonyítva – meghatározott továbbképzési pontokat időarányosan kell teljesíteni.
 
 (2) Az (1) bekezdéstől foglaltaktól eltérően ha a hivatásos állomány tagjának fizetési fokozatban való előresorolására a Hszt. 121. § (1) bekezdésében meghatározott feltétel hiányában nem kerül sor, a továbbképzési időszak időtartama a hivatásos állomány tagjának fizetési fokozatban való előresorolásának napjáig meghosszabbodik, azzal, hogy a hivatásos állomány tagja által a továbbképzési időszakban megszerzendő továbbképzési pontok mennyisége nem emelkedik a 7. § (3) bekezdésében meghatározott pontmennyiséghez képest.
 
@@ -10,7 +10,7 @@ b) három hónapot meghaladó külföldre vezénylése,
 
 c) rendelkezési állományba nem helyezett, de három hónapot meghaladó egészségügyi szabadságon lévő tagja
 
-## esetén a továbbképzési időszakban szerzendő továbbképzési pontokat az a)–c) pont szerinti időszakon kívüli időtartammal időarányosan kell teljesíteni, azonban a továbbképzési időszak tartama nem változik.
+esetén a továbbképzési időszakban szerzendő továbbképzési pontokat az a)–c) pont szerinti időszakon kívüli időtartammal időarányosan kell teljesíteni, azonban a továbbképzési időszak tartama nem változik.
 
 (4) A Hszt. 117. § (6) bekezdés a) pontjában foglaltakra figyelemmel – a (3) bekezdés b) pontjában foglalt kivétellel – a hivatásos állomány Hszt. 77. § (1) bekezdés a) pontja szerinti rendelkezési állományban lévő tagja esetében a rendelkezési állományba helyezés a továbbképzési időszakot nem szakítja meg.
 
@@ -22,7 +22,7 @@ c) rendelkezési állományba nem helyezett, de három hónapot meghaladó egés
 
 (8) A Hszt. 281. § (1) bekezdésében meghatározott időtartamra a továbbképzési időszak megszakad és kizárólag ezen időtartam befejeződését követően folytatódik. A megszerzendő pontok mennyisége nem változik.
 
-(9)[^69] A Hszt. 73–75. §-a szerinti szünetelés időtartamára a továbbképzési időszak megszakad, és kizárólag ezen időtartam befejeződését követően folytatódik, a megszerzendő pontok mennyisége nem változik.
+(9)[^67] A Hszt. 73–75. §-a szerinti szünetelés időtartamára a továbbképzési időszak megszakad, és kizárólag ezen időtartam befejeződését követően folytatódik, a megszerzendő pontok mennyisége nem változik.
 
-[^68]: A 10/A. §-t a 35/2017. (XII. 21.) BM rendelet 11. §-a iktatta be.
-[^69]: A 10/A. § (9) bekezdését a 37/2021. (X. 27.) BM rendelet 5. §-a iktatta be.
+[^66]: A 10/A. §-t a 35/2017. (XII. 21.) BM rendelet 11. §-a iktatta be.
+[^67]: A 10/A. § (9) bekezdését a 37/2021. (X. 27.) BM rendelet 5. §-a iktatta be.

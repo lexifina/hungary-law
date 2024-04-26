@@ -1,3 +1,5 @@
-## 14.[^158]
+## 14.[^155]
 
-[^158]: A 14. alcímet (48–51. §) a 35/2017. (XII. 21.) BM rendelet 28. § (2) bekezdés e) pontja hatályon kívül helyezte.
+48. §
+
+[^155]: A 14. alcímet (48–51. §) a 35/2017. (XII. 21.) BM rendelet 28. § (2) bekezdés e) pontja hatályon kívül helyezte.
