@@ -1,3 +1,1 @@
-51. § A Hpt. 204/A. §-a a következő (6a) bekezdéssel egészül ki:
-
-„(6a) A hatósági vizsgára jelentkező személyekről vezetett nyilvántartás az adott személy (6) bekezdés a), b), c) és e) pontjában meghatározott adatait tartalmazza.”
+### 51. §

@@ -6,6 +6,6 @@ b)
 
 c)
 
-d) 430. § (6) bekezdésében az „ , a hatósági vizsgára jelentkező személyekről” szövegrész,
+d)
 
 e)
