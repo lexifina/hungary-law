@@ -1,7 +1,3 @@
-7. § Hatályát veszti a 39/2011. (V. 18.) VM rendelet
+7. §[^8]
 
-a) 7/A. § (3) bekezdés f) pontja,
-
-b) 7/D. §-a,
-
-c) 9. § d) pontja.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
