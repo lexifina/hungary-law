@@ -1,1 +1,3 @@
-27. § A 68/2012. (XII. 14.) BM rendelet 2. melléklete helyébe az 1. melléklet lép.
+27. §[^28]
+
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

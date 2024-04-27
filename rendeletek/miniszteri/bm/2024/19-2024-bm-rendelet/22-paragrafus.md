@@ -1,3 +1,3 @@
-22. § A 68/2012. (XII. 14.) BM rendelet 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+22. §[^23]
 
-„(2) Az országos rendőrfőkapitány háromtagú vizsgabizottságot jelöl ki a leadott névjegyzékből.”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

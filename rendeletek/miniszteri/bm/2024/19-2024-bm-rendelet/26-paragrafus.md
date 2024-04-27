@@ -1,3 +1,3 @@
-26. § A 68/2012. (XII. 14.) BM rendelet a következő 15. §-sal egészül ki:
+26. §[^27]
 
-„15. § A 7/A. alcím tervezetének a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

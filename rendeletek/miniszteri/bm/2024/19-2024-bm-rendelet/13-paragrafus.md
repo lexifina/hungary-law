@@ -1,3 +1,3 @@
-13. § A 45/2020. (XII. 16.) BM rendelet 71. § (3) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(3) A kompetenciavizsgálat végrehajtása a rendvédelmi alapellátó pszichológus feladata.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-14. § Hatályát veszti a 45/2020. (XII. 16.) BM rendelet
+14. §[^15]
 
-a) 58. § (2) bekezdésében a „minisztérium által végrehajtott” szövegrész,
-
-b) 58. § (5) bekezdés a) pontjában a „vagy középvetői” szövegrész.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

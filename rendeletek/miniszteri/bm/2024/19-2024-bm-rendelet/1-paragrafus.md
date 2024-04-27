@@ -1,5 +1,5 @@
 ## 1. A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet módosítása
 
-1. § A belügyminiszter irányítása alá tartozó szervek hivatásos állományú tagjainak továbbképzési és vezetőképzési rendszeréről, valamint a rendészeti utánpótlási és vezetői adatbankról szóló 2/2013. (I. 30.) BM rendelet [a továbbiakban: 2/2013. (I. 30.) BM rendelet] 1. § 3. pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(E rendelet alkalmazásában:)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

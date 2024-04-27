@@ -1,3 +1,3 @@
-12. § A 45/2020. (XII. 16.) BM rendelet 58. § (6) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(6) A kinevezésre jogosult vezetőt döntésében az illeszkedésvizsgálat alapján felállított rangsor nem köti. A kinevezésre jogosult vezető a vezetői beosztásba való kinevezéskor a rangsortól szolgálati elöljárójának írásbeli egyetértésével térhet el.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

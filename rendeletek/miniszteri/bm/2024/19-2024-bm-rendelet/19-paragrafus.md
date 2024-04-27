@@ -1,3 +1,3 @@
-19. § A 68/2012. (XII. 14.) BM rendelet 4. §-a a következő (4) bekezdéssel egészül ki:
+19. §[^20]
 
-„(4) Az utánképzés időtartama 100 óra, amely 50% elméleti, 50% gyakorlati részből áll.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
