@@ -1,10 +1,12 @@
-7. §[^21] (1) A távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély módosítása vagy visszavonása iránti kérelemnek – az Ákr.-ben meghatározottakon túl – tartalmaznia kell:
+7. §[^26] (1) A távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély módosítása vagy visszavonása iránti kérelemnek – az Ákr.-ben meghatározottakon túl – tartalmaznia kell:
 
 a) ha a kérelmező cégjegyzékben nyilvántartott cég, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
 b) a kérelmező kapcsolattartójának nevét, telefonszámát, elektronikus elérhetőségét és
 
 c) a módosítás okát és tárgyát, vagy a tevékenység megszüntetésének okát.
+
+(1a)[^27] A távhőtermelői létesítési, a távhőtermelői működési és a távhőszolgáltatói működési engedély módosítása iránti kérelemnek tartalmaznia kell – az (1) bekezdésben meghatározottakon túl – az eredeti engedély kiadása iránti kérelem benyújtása alkalmával a 3–5. §-ban felsorolt benyújtandó dokumentumok és igazolandó adatok közül mindazok aktualizált változatát, amelyekben változás következett be a módosítási ok következtében.
 
 (2) A távhőtermelői működési engedély visszavonására irányuló kérelem esetén a kérelemhez mellékelni kell:
 
@@ -36,4 +38,5 @@ g) a távhővel ellátott területek felsorolását felhasználói típusonként
 
 h) a tevékenység átadásáról és a folyamatos és biztonságos ellátás biztosításáról szóló megállapodást.
 
-[^21]: A Vhr. 7. §-a a 401/2020. (VIII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A Vhr. 7. §-a a 401/2020. (VIII. 17.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^27]: A Vhr. 7. § (1a) bekezdését a 81/2024. (IV. 11.) Korm. rendelet 6. §-a iktatta be.

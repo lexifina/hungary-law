@@ -1,4 +1,4 @@
-17/G. §[^68] (1) A felhasználási helyen a használati melegvíz készítéséhez igénybe vett hőmennyiség és díjának épületrészek közötti megosztására szolgáló díjmegosztási arányok (a továbbiakban: melegvíz-díjmegosztási arányok) meghatározása a felhasználási hely tulajdonosi közösségének – társasház esetében a szervezeti-működési szabályzat, lakásszövetkezetnél az alapszabály rendelkezéseivel összhangban meghozott – döntése alapján a következő módokon történhet:
+17/G. §[^77] (1) A felhasználási helyen a használati melegvíz készítéséhez igénybe vett hőmennyiség és díjának épületrészek közötti megosztására szolgáló díjmegosztási arányok (a továbbiakban: melegvíz-díjmegosztási arányok) meghatározása a felhasználási hely tulajdonosi közösségének – társasház esetében a szervezeti-működési szabályzat, lakásszövetkezetnél az alapszabály rendelkezéseivel összhangban meghozott – döntése alapján a következő módokon történhet:
 
 a) használati melegvíz-költségmegosztók alkalmazásával a használati melegvíz-költségmegosztókon mért fogyasztási adatok alapulvételével a (2) bekezdésben meghatározottak szerint, vagy
 
@@ -30,7 +30,7 @@ akkor a tulajdonosi közösség az adott épületrészre alkalmazandó használa
 
 (6) Az (1) bekezdés a) pontja szerinti esetben a tulajdonosi közösség képviselője vagy a megbízott
 
-a)[^69] leolvasást megelőzően 15 nappal írásban, figyelemfelkeltő és a díjfizetők által jól látható módon elhelyezett hirdetmény útján tájékoztatja a díjfizetőket az épületrészekben felszerelt, távolról nem leolvasható használati melegvíz-költségmegosztók leolvasásának és javasolt pótleolvasásának időpontjáról, minden, az épületrészekben felszerelt használati melegvíz-költségmegosztó esetén a plomba sértetlensége és a költségmegosztó működőképessége ellenőrzésének időpontjairól, az (5) bekezdésben foglalt jogkövetkezményeiről, valamint az időpont-egyeztetésre szolgáló elérhetőségekről,
+a)[^78] leolvasást megelőzően 15 nappal írásban, figyelemfelkeltő és a díjfizetők által jól látható módon elhelyezett hirdetmény útján tájékoztatja a díjfizetőket az épületrészekben felszerelt, távolról nem leolvasható használati melegvíz-költségmegosztók leolvasásának és javasolt pótleolvasásának időpontjáról, minden, az épületrészekben felszerelt használati melegvíz-költségmegosztó esetén a plomba sértetlensége és a költségmegosztó működőképessége ellenőrzésének időpontjairól, az (5) bekezdésben foglalt jogkövetkezményeiről, valamint az időpont-egyeztetésre szolgáló elérhetőségekről,
 
 b) legkésőbb a használati melegvíz-költségmegosztók leolvasását követő 1 hónapon belül írásban, figyelemfelkeltő és a díjfizetők által jól látható módon elhelyezett hirdetmény útján tájékoztatja a díjfizetőket a leolvasás eredményeként az egyes épületrészekre megállapított használati melegvíz-díjmegosztási arányról.
 
@@ -40,5 +40,5 @@ b) legkésőbb a használati melegvíz-költségmegosztók leolvasását követ�
 
 (9) A helyszínen végzett leolvasásról vagy pótleolvasásról, valamint a plomba működőképessége és a költségmegosztó sértetlensége helyszíni ellenőrzéséről a leolvasást, ellenőrzést végző, valamint a díjfizető által aláírt – a díjfizető esetleges véleményeltérését is tartalmazó – jegyzőkönyvet kell készíteni. A jegyzőkönyv egy példányát a leolvasást, ellenőrzést végző a díjfizető részére átadja. Ha a díjfizető nem teszi lehetővé a leolvasást, pótleolvasást vagy az ellenőrzést, továbbá ha a jegyzőkönyvet nem írja alá, a leolvasást, ellenőrzést végző ennek tényét a jegyzőkönyvben rögzíti és a jegyzőkönyv egy példányát a díjfizető részére, valamint a tulajdonosi közösség képviselőjének adja át.
 
-[^68]: A Vhr. 17/G. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^69]: A Vhr. 17/G. § (6) bekezdés a) pontja a 677/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^77]: A Vhr. 17/G. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^78]: A Vhr. 17/G. § (6) bekezdés a) pontja a 677/2023. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.

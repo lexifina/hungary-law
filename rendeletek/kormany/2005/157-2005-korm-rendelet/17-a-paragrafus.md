@@ -1,14 +1,14 @@
-## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^45]
+## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^54]
 
 ## [a Tszt. 44. § (1) bekezdéséhez]
 
-17/A. §[^46] E rendelet 17/B–17/H. §-ának alkalmazásában:
+17/A. §[^55] E rendelet 17/B–17/H. §-ának alkalmazásában:
 
 1. elszámolási időszak: azon legfeljebb 12 hónap hosszúságú időszak, amelyre vonatkozóan a felhasználási helyen igénybe vett fűtési hőmennyiség és ennek díja az épületrészek között megosztásra kerül;
 
-2.[^47] felhasználási hely fajlagos fűtési hőfelhasználása: a felhasználási helyen egy elszámolási időszakban igénybe vett fűtési hőmennyiségnek és a felhasználási hely épületrészeinek távhőrendszerről fűtött – a számlázás alapjául szolgáló – légtérfogatának a hányadosa (GJ/légköbméter);
+2.[^56] felhasználási hely fajlagos fűtési hőfelhasználása: a felhasználási helyen egy elszámolási időszakban igénybe vett fűtési hőmennyiségnek és a felhasználási hely épületrészeinek távhőrendszerről fűtött – a számlázás alapjául szolgáló – légtérfogatának a hányadosa (GJ/légköbméter);
 
-2a.[^48] épületrész fajlagos fűtési hőfelhasználása: az épületrészen egy elszámolási időszakban igénybe vett összes fűtési hőmennyiségnek és az épületrész légtérfogatának a hányadosa (GJ/légköbméter);
+2a.[^57] épületrész fajlagos fűtési hőfelhasználása: az épületrészen egy elszámolási időszakban igénybe vett összes fűtési hőmennyiségnek és az épületrész légtérfogatának a hányadosa (GJ/légköbméter);
 
 3. költségmegosztó: a felhasználási helyen igénybe vett hőmennyiségnek az épületrészek közötti fogyasztásarányos megosztására alkalmas eszköz vagy műszer;
 
@@ -30,16 +30,16 @@ c) fűtési költségmegosztás céljára alkalmazott hőfogyasztásmérő, ha t
 
 9. megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat, elvégzi a költségmegosztók időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók adatait és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz- díjmegosztási arányokat.
 
-10.[^49] távolról leolvasható fogyasztásmérő készülék: olyan fogyasztásmérő készülék, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
+10.[^58] távolról leolvasható fogyasztásmérő készülék: olyan fogyasztásmérő készülék, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
 
-11.[^50] távolról leolvasható költségmegosztó: olyan költségmegosztó, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
+11.[^59] távolról leolvasható költségmegosztó: olyan költségmegosztó, amelynek leolvasása, adatainak rögzítése – az erre szolgáló technikai eszközökkel – az azt magába foglaló épületbe történő bejutás nélkül is lehetséges;
 
-12.[^51] költségmegosztási rendszer: azonos típusú, egységes értékelési rendszerű, fűtési költségmegosztók vagy használati melegvíz-költségmegosztók rendszere.
+12.[^60] költségmegosztási rendszer: azonos típusú, egységes értékelési rendszerű, fűtési költségmegosztók vagy használati melegvíz-költségmegosztók rendszere.
 
-[^45]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^46]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^47]: A Vhr. 17/A. § 2. pontja a 281/2016. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^48]: A Vhr. 17/A. § 2a. pontját a 281/2016. (IX. 21.) Korm. rendelet 2. §-a iktatta be.
-[^49]: A Vhr. 17/A. § 10. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^50]: A Vhr. 17/A. § 11. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
-[^51]: A Vhr. 17/A. § 12. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^54]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^55]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^56]: A Vhr. 17/A. § 2. pontja a 281/2016. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^57]: A Vhr. 17/A. § 2a. pontját a 281/2016. (IX. 21.) Korm. rendelet 2. §-a iktatta be.
+[^58]: A Vhr. 17/A. § 10. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^59]: A Vhr. 17/A. § 11. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^60]: A Vhr. 17/A. § 12. pontját a 677/2023. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

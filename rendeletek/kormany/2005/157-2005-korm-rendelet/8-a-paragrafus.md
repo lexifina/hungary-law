@@ -1,4 +1,4 @@
-8/A. §[^26] (1) A telephelyen 50 MW beépített összes hőteljesítménynél kisebb névleges teljesítményű távhőtermelő berendezés esetében a Tszt. 12. § (5) bekezdése szerinti egyszerűsített engedélyezési eljárásban
+8/A. §[^32] (1) A telephelyen 50 MW beépített összes hőteljesítménynél kisebb névleges teljesítményű távhőtermelő berendezés esetében a Tszt. 12. § (5) bekezdése szerinti egyszerűsített engedélyezési eljárásban
 
 a) a létesítési engedély kérelmezőjének nem kell a 3. § (2) bekezdés b) pontjában,
 
@@ -8,4 +8,4 @@ foglaltakat teljesítenie.
 
 (2) Az 5 MW-nál kisebb névleges hőteljesítményű létesítményre csak távhőtermelői működési engedélyt kell kérni és kiadni.
 
-[^26]: A Vhr. 8/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A Vhr. 8/A. §-át a 281/2016. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
