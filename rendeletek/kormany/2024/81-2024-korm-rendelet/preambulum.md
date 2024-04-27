@@ -1,0 +1,1 @@
+A Kormány a távhőszolgáltatásról szóló 2005. évi XVIII. törvény 60. § (1) bekezdés a), b), e) és p) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
