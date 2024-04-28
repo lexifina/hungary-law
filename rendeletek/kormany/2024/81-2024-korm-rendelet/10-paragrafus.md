@@ -1,3 +1,3 @@
-10. § (1) A Tszt. Vhr. 1. melléklete helyébe az 1. melléklet lép.
+10. §[^11]
 
-(2) A Tszt. Vhr. 3. melléklete a 2. melléklet szerint módosul.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § A Tszt. Vhr. 4. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(A távhőtermelői működési engedély iránti kérelemnek – az Ákr.-ben meghatározottakon túl – tartalmaznia kell:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
