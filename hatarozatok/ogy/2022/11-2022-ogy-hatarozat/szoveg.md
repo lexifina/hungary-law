@@ -4,7 +4,7 @@ a) Európai ügyek bizottsága (9 fő)
 
 A bizottság feladatköre: az európai uniós intézményrendszerrel és a közösségi joggal összefüggő kérdések, szubszidiaritás vizsgálata, európai uniós alapok lehívásának stratégiai irányai.
 
-Tagok: Illés Boglárka (Fidesz)[^2]
+Tagok: Menczer Tamás (Fidesz)[^2]
 
 dr. Hörcsik Richárd (Fidesz)
 
@@ -312,7 +312,7 @@ Dócs Dávid (Mi Hazánk)[^32]
 
 Pánczél Károly (Fidesz)
 
-Zsigó Róbert (Fidesz)[^33]
+dr. Fazekas Sándor (Fidesz)[^33]
 
 Szászfalvi László (KDNP)
 
@@ -474,7 +474,7 @@ a) Európai ügyek bizottsága
 
 Elnök: Tessely Zoltán (Fidesz)[^52]
 
-Alelnök: Illés Boglárka (Fidesz)[^53]
+Alelnök: Menczer Tamás (Fidesz)[^53]
 
 Balassa Péter (Jobbik)
 
@@ -666,7 +666,7 @@ Varga Szimeon (nemzetiségi szószóló)[^78]
 
 7.[^79]
 
-[^2]: A 29/2022. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
+[^2]: A 12/2024. (IV. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 19/2023. (VII. 5.) OGY határozat 1. pontjával megállapított szöveg.
 [^4]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
 [^5]: A 38/2022. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
@@ -697,7 +697,7 @@ Varga Szimeon (nemzetiségi szószóló)[^78]
 [^30]: Az 1/2023. (II. 28.) OGY határozat 1. pontjával megállapított szöveg.
 [^31]: A 21/2022. (VI. 14.) OGY határozat 1. pontjával megállapított szöveg.
 [^32]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
-[^33]: A 20/2023. (IX. 26.) OGY határozat 1. pontjával megállapított szöveg.
+[^33]: A 12/2024. (IV. 30.) OGY határozat 1. pontjával megállapított szöveg.
 [^34]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^35]: A 17/2022. (VI. 8.) OGY határozat 1. pontjával megállapított szöveg.
 [^36]: A 34/2022. (VII. 19.) OGY határozat 1. pontjával megállapított szöveg.
@@ -717,7 +717,7 @@ Varga Szimeon (nemzetiségi szószóló)[^78]
 [^50]: A 38/2022. (IX. 27.) OGY határozat 2. pontjával megállapított szöveg.
 [^51]: A 15/2022. (V. 18.) OGY határozat 1. pontjával megállapított szöveg.
 [^52]: A 7/2024. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
-[^53]: A 7/2024. (III. 19.) OGY határozat 1. pontjával megállapított szöveg.
+[^53]: A 12/2024. (IV. 30.) OGY határozat 2. pontjával megállapított szöveg.
 [^54]: A 34/2022. (VII. 19.) OGY határozat 3. pontjával megállapított szöveg.
 [^55]: A 29/2023. (XII. 14.) OGY határozat 2. pontjával megállapított szöveg.
 [^56]: A 17/2022. (VI. 8.) OGY határozat 3. pontjával megállapított szöveg.
