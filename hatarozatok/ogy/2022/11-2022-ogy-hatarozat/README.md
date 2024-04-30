@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-11-30-4
 | 2024-02-26 | 2022-11-30-41.22 | 5/2024. (II. 26.) OGY határozat |
 | 2024-03-19 | 2022-11-30-41.23 | 7/2024. (III. 19.) OGY határozat |
 | 2024-04-29 | 2022-11-30-41.24 | 12/2024. (IV. 30.) OGY határozat |
+| 2024-04-30 | 2022-11-30-41.25 | 13/2024. (IV. 30.) OGY határozat |
