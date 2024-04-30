@@ -12,7 +12,7 @@ I. Tulajdonosi joggyakorló: a Nemzetgazdasági Minisztérium
 
 | 2. | Corvinus Nemzetközi Befektetési Zártkörűen Működő Részvénytársaság | 01-10-043547 | 2026. december 31. |
 
-| 3. | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság | 13-09-176128 | 2026. december 31. |
+| 3. |  |  |  |
 
 | 4. | START Garancia Pénzügyi Szolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045508 | 2026. december 31. |
 
@@ -132,7 +132,7 @@ VI. Tulajdonosi joggyakorló: az Építési és Közlekedési Minisztérium
 
 |  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége |
 
-| 1. |  |  |  |
+| 1. | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság | 13-09-176128 | 2026. december 31. |
 
 | 2. | Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-046265 | 2026. december 31. |
 
@@ -156,7 +156,7 @@ VI. Tulajdonosi joggyakorló: az Építési és Közlekedési Minisztérium
 
 | 12. | KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Korlátolt Felelősségű Társaság | 01-09-890710 | 2026. december 31. |
 
-| 13. | MAHART - PassNave Személyhajózási Korlátolt Felelősségű Társaság | 01-09-268781 | 2026. december 31. |
+| 13. |  |  |  |
 
 | 14. | MAHART Magyar Hajózási Zártkörűen Működő Részvénytársaság | 01-10-040095 | 2026. december 31. |
 
@@ -358,4 +358,4 @@ XII. Tulajdonosi joggyakorló: az Energiaügyi Minisztérium
 
 XIV. Tulajdonosi joggyakorló: a nemzetpolitikáért, nemzetiségpolitikáért, egyházpolitikáért és egyházdiplomáciáért felelős miniszter
 
-[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a, a 42/2023. (XII. 27.) GFM rendelet 1. §-a, a 43/2023. (XII. 27.) GFM rendelet 1. §-a, a 44/2023. (XII. 27.) GFM rendelet 1. §-a, a 45/2023. (XII. 27.) GFM rendelet 1. §-a, a 46/2023. (XII. 27.) GFM rendelet 1. §-a, a 47/2023. (XII. 27.) GFM rendelet 1. §-a, a 48/2023. (XII. 27.) GFM rendelet 1. §-a, a 49/2023. (XII. 27.) GFM rendelet 1. §-a, az 50/2023. (XII. 27.) GFM rendelet 1. §-a, az 51/2023. (XII. 27.) GFM rendelet 1. §-a, az 52/2023. (XII. 27.) GFM rendelet 1. §-a, az 53/2023. (XII. 27.) GFM rendelet 1. §-a, az 54/2023. (XII. 27.) GFM rendelet 1. §-a, a 70/2023. (XII. 29.) GFM rendelet 1. §-a, a 71/2023. (XII. 29.) GFM rendelet 1–3. §-a, a 73/2023. (XII. 29.) GFM rendelet 1. §-a, a 2/2024. (I. 18.) NGM rendelet 1. §-a, az 5/2024. (II. 6.) NGM rendelet 1. §-a, a 9/2024. (III. 21.) NGM rendelet 1. §-a és 2. §-a, a 13/2024. (IV. 9.) NGM rendelet 2. § (1) és (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. melléklet a 7. §, a 2/2022. (VI. 20.) GFM rendelet 1. §-a és 3. §-a, a 3/2022. (VII. 13.) GFM rendelet 1–2. §-a, az 5/2022. (VII. 27.) GFM rendelet 1. § (1) és (2) bekezdése és 2. §-a, a 7/2022. (VIII. 11.) GFM rendelet 1. §-a, a 8/2022. (VIII. 31.) GFM rendelet 1. és 3. §-a, a 10/2022. (X. 5.) GFM rendelet 1. §-a, a 14/2022. (XI. 21.) GFM rendelet 1. § a) pontja és a 3. §-a, a 16/2022. (XII. 6.) GFM rendelet 1. §-a, a 18/2022. (XII. 20.) GFM rendelet 1. és 2. §-a, a 20/2022. (XII. 27.) GFM rendelet 1. §-a, az 1/2023. (I. 9.) GFM rendelet 1. §-a, a 3/2023. (III. 30.) GFM rendelet 1. §-a, a 4/2023. (IV. 11.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 2. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § a)-b) pontja és 2. §-a, a 7/2023. (V. 16.) GFM rendelet 1. §-a és 3. §-a, a 10/2023. (VI. 16.) GFM rendelet 1. §-a és 3. § (2) bekezdése, a 18/2023. (VIII. 18.) GFM rendelet 1. §-a és 2. §-a, a 19/2023. (VIII. 24.) GFM rendelet 1. §-a, a 23/2023. (VIII. 30.) GFM rendelet 1. §-a, a 27/2023. (IX. 29.) GFM rendelet 1. §-a, a 28/2023. (XI. 6.) GFM rendelet 1. §-a, a 29/2023. (XI. 29.) GFM rendelet 1. és 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 1. §-a és 3. §-a, a 33/2023. (XII. 15.) GFM rendelet 1. §-a, a 34/2023. (XII. 20.) GFM rendelet 1. §-a, a 35/2023. (XII. 20.) GFM rendelet 1. §-a, a 42/2023. (XII. 27.) GFM rendelet 1. §-a, a 43/2023. (XII. 27.) GFM rendelet 1. §-a, a 44/2023. (XII. 27.) GFM rendelet 1. §-a, a 45/2023. (XII. 27.) GFM rendelet 1. §-a, a 46/2023. (XII. 27.) GFM rendelet 1. §-a, a 47/2023. (XII. 27.) GFM rendelet 1. §-a, a 48/2023. (XII. 27.) GFM rendelet 1. §-a, a 49/2023. (XII. 27.) GFM rendelet 1. §-a, az 50/2023. (XII. 27.) GFM rendelet 1. §-a, az 51/2023. (XII. 27.) GFM rendelet 1. §-a, az 52/2023. (XII. 27.) GFM rendelet 1. §-a, az 53/2023. (XII. 27.) GFM rendelet 1. §-a, az 54/2023. (XII. 27.) GFM rendelet 1. §-a, a 70/2023. (XII. 29.) GFM rendelet 1. §-a, a 71/2023. (XII. 29.) GFM rendelet 1–3. §-a, a 73/2023. (XII. 29.) GFM rendelet 1. §-a, a 2/2024. (I. 18.) NGM rendelet 1. §-a, az 5/2024. (II. 6.) NGM rendelet 1. §-a, a 9/2024. (III. 21.) NGM rendelet 1. §-a és 2. §-a, a 12/2024. (IV. 8.) NGM rendelet 1. és 3. §-a, a 13/2024. (IV. 9.) NGM rendelet 2. § (1) és (2) bekezdése szerint módosított szöveg.
