@@ -1,6 +1,6 @@
 50. § (1) Az erdészeti hatóság letéti számlájára helyezett erdőfelújítási biztosítékra a bírósági letétre vonatkozó szabályokat kell alkalmazni.
 
-(2)[^62] Az erdőfelújítási biztosíték hatósági letéti számlára, banki átutalással történő megfizetése esetén az átutalás közleményében fel kell tüntetni
+(2)[^80] Az erdőfelújítási biztosíték hatósági letéti számlára, banki átutalással történő megfizetése esetén az átutalás közleményében fel kell tüntetni
 
 a) a letét fajtáját (erdőfelújítási biztosíték) és
 
@@ -12,4 +12,4 @@ b) az erdőfelújítási biztosítékot megállapító határozat ügyiratszám�
 
 (5) Ha az átutalt összeg az erdőfelújítási biztosítékként megállapított összeget meghaladja, a letétkezelő a többletösszeget – a visszautalással kapcsolatos költségekkel csökkentett összegben – az erdőgazdálkodó részére visszautalja.
 
-[^62]: Az 50. § (2) bekezdése a 183/2023. (XII. 27.) AM rendelet 4. §-ával megállapított szöveg.
+[^80]: Az 50. § (2) bekezdése a 183/2023. (XII. 27.) AM rendelet 4. §-ával megállapított szöveg.

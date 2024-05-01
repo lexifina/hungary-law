@@ -1,6 +1,6 @@
 ## 14. A fakitermelés szabályai
 
-43. § (1)[^53] Erdőben és az erdőgazdálkodási tevékenységet közvetlenül szolgáló területen jogszerűen végezhető fakitermelés megkezdése előtt az alkalmazott jogosult erdészeti szakszemélyzet az erdőgazdálkodót, erdő engedélyezett igénybevételekor az engedély jogosultját vagy annak megbízottját tájékoztatja az elvégzendő munkafolyamatról, valamint erről erdőrészletenkénti bontásban műveleti lapot állít ki.
+43. § (1)[^70] Erdőben és az erdőgazdálkodási tevékenységet közvetlenül szolgáló területen jogszerűen végezhető fakitermelés megkezdése előtt az alkalmazott jogosult erdészeti szakszemélyzet az erdőgazdálkodót, erdő engedélyezett igénybevételekor az engedély jogosultját vagy annak megbízottját tájékoztatja az elvégzendő munkafolyamatról, valamint erről erdőrészletenkénti bontásban műveleti lapot állít ki.
 
 (2) Az (1) bekezdésben meghatározott műveleti lap a következő adatokat tartalmazza:
 
@@ -26,7 +26,7 @@ j) az erdőgazdálkodó aláírása, valamint
 
 k) a jogosult erdészeti szakszemélyzet ellenjegyzése.
 
-(3)[^54] A műveleti lapon az alkalmazott jogosult erdészeti szakszemélyzet tájékoztatást ad a tervezett munka céljairól, szakmai előírásairól, a követendő technológiáról és a kialakítandó közelítő nyom hálózatról.
+(3)[^71] A műveleti lapon az alkalmazott jogosult erdészeti szakszemélyzet tájékoztatást ad a tervezett munka céljairól, szakmai előírásairól, a követendő technológiáról és a kialakítandó közelítő nyom hálózatról.
 
 (4) A műveleti lap saját példányának megsemmisülését, megrongálódását, elvesztését vagy eltulajdonítását – az érintett nyomtatvány sorszámának megjelölésével – a jogosult erdészeti szakszemélyzet haladéktalanul bejelenti az erdészeti hatóságnak.
 
@@ -46,7 +46,7 @@ d) a fahasználat időtartamára – attól eltérő hatósági engedély hiány
 
 e) ha a műveleti lapon fokozatos felújítóvágással vagy szálalóvágással érintett erdőben bontóvágást jelölt meg, a fahasználat eredményeként a visszamaradó állomány záródása megfelel a jogszabályban előírt mértéknek,
 
-f)[^55] természetes erdő, természetszerű erdő és származék erdő természetességi állapotra vonatkozó alapelvárású erdőben a használandó közelítő nyomokat jól látható módon kijelölte,
+f)[^72] természetes erdő, természetszerű erdő és származék erdő természetességi állapotra vonatkozó alapelvárású erdőben a használandó közelítő nyomokat jól látható módon kijelölte,
 
 g) az erdőgazdálkodási tevékenységgel érintett terület és az erdőrészlet határait kijelölte, és
 
@@ -54,6 +54,6 @@ h) az ápoló- és tisztítóvágás, a felújítóvágás végvágása és a sz
 
 (8) Ha az erdőfelújítás érdekében végzett vágástakarítás során erdei faválaszték felkészítése történik az (1) bekezdés szerinti műveleti lapot kell kiállítani, azzal, hogy fakitermelés alatt a vágástakarítást kell érteni.
 
-[^53]: A 43. § (1) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^54]: A 43. § (3) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^55]: A 43. § (7) bekezdés f) pontja a 13/2020. (IV. 8.) AM rendelet 9. § a) pontja szerint módosított szöveg.
+[^70]: A 43. § (1) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^71]: A 43. § (3) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^72]: A 43. § (7) bekezdés f) pontja a 13/2020. (IV. 8.) AM rendelet 9. § a) pontja szerint módosított szöveg.

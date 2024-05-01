@@ -1,4 +1,4 @@
-5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^71]
+5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^90]
 
 Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó helységek (név, erdészeti azonosító) listája az erdészeti hatóságként eljáró vármegyei kormányhivatalok illetékességi területe szerint
 
@@ -1292,39 +1292,95 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 3.1. Alpokaljai erdőtervezési körzet
 
-3.1.1. Bozsok (8000)
+3.1.1. Acsád (8017)
 
-3.1.2. Cák (8001)
+3.1.2. Bozsok (8000)
 
-3.1.3. Csepreg (8002)
+3.1.3. Bucsu (8020)
 
-3.1.4. Gyöngyösfalu (8003)
+3.1.4. Cák (8001)
 
-3.1.5. Horvátzsidány (8004)
+3.1.5. Csepreg (8002)
 
-3.1.6. Kiszsidány (8005)
+3.1.6. Dozmat (8022)
 
-3.1.7. Kőszeg (8006)
+3.1.7. Felsőcsatár (8024)
 
-3.1.8. Kőszegdoroszló (8007)
+3.1.8. Gencsapáti (8025)
 
-3.1.9. Kőszegpaty (8008)
+3.1.9. Gór (8026)
 
-3.1.10. Kőszegszerdahely (8009)
+3.1.10. Gyöngyösfalu (8003)
 
-3.1.11. Lukácsháza (8010)
+3.1.11. Horvátlövő (8027)
 
-3.1.12. Nemescsó (8011)
+3.1.12. Horvátzsidány (8004)
 
-3.1.13. Ólmod (8012)
+3.1.13. Ják (8028)
 
-3.1.14. Peresznye (8013)
+3.1.14. Kiszsidány (8005)
 
-3.1.15. Pusztacsó (8014)
+3.1.15. Kőszeg (8006)
 
-3.1.16. Tömörd (8015)
+3.1.16. Kőszegdoroszló (8007)
 
-3.1.17. Velem (8016)
+3.1.17. Kőszegpaty (8008)
+
+3.1.18. Kőszegszerdahely (8009)
+
+3.1.19. Lukácsháza (8010)
+
+3.1.20. Meszlen (8030)
+
+3.1.21. Nagykölked (8031)
+
+3.1.22. Nárai (8033)
+
+3.1.23. Narda (8032)
+
+3.1.24. Nemesbőd (8034)
+
+3.1.25. Nemescsó (8011)
+
+3.1.26. Ólmod (8012)
+
+3.1.27. Perenye (8035)
+
+3.1.28. Peresznye (8013)
+
+3.1.29. Pornóapáti (8036)
+
+3.1.30. Pusztacsó (8014)
+
+3.1.31. Salköveskút (8038)
+
+3.1.32. Sé (8039)
+
+3.1.33. Söpte (8041)
+
+3.1.34. Szeleste (8042)
+
+3.1.35. Szentpéterfa (8043)
+
+3.1.36. Szombathely (8402)
+
+3.1.37. Tanakajd (8045)
+
+3.1.38. Táplánszentkereszt (8046)
+
+3.1.39. Torony (8047)
+
+3.1.40. Tömörd (8015)
+
+3.1.41. Vasasszonyfa (8048)
+
+3.1.42. Vaskeresztes (8049)
+
+3.1.43. Vassurány (8050)
+
+3.1.44. Vasszilvágy (8051)
+
+3.1.45. Velem (8016)
 
 3.2. Alsó-Őrségi erdőtervezési körzet
 
@@ -1360,47 +1416,105 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 3.2.16. Viszák (8227)
 
-3.3. Dél-Hansági erdőtervezési körzet
+3.3. Dél-Hansági és Győri erdőtervezési körzet
 
-3.3.1. Acsalag (3082)
+3.3.1. Abda (3035)
 
-3.3.2. Agyagosszergény (3103)
+3.3.2. Acsalag (3082)
 
-3.3.3. Barbacs (3083)
+3.3.3. Agyagosszergény (3103)
 
-3.3.4. Bezi (3084)
+3.3.4. Ásványráró (3037)
 
-3.3.5. Bősárkány (3085)
+3.3.5. Barbacs (3083)
 
-3.3.6. Cakóháza (3086)
+3.3.6. Bezi (3084)
 
-3.3.7. Csorna (3087)
+3.3.7. Bőny (3408)
 
-3.3.8. Farád (3088)
+3.3.8. Börcs (3040)
 
-3.3.9. Fehértó (3089)
+3.3.9. Bősárkány (3085)
 
-3.3.10. Fertőd (3090)
+3.3.10. Cakóháza (3086)
 
-3.3.11. Győrsövényház (3092)
+3.3.11. Csorna (3087)
 
-3.3.12. Kapuvár (3093)
+3.3.12. Darnózseli (3041)
 
-3.3.13. Maglóca (3094)
+3.3.13. Dunaszeg (3042)
 
-3.3.14. Markotabödöge (3095)
+3.3.14. Dunaszentpál (3043)
 
-3.3.15. Osli (3096)
+3.3.15. Enese (3044)
 
-3.3.16. Rábatamási (3097)
+3.3.16. Farád (3088)
 
-3.3.17. Rábcakapi (3098)
+3.3.17. Fehértó (3089)
 
-3.3.18. Szárföld (3100)
+3.3.18. Fertőd (3090)
 
-3.3.19. Tárnokréti (3101)
+3.3.19. Gönyű (3018)
 
-3.3.20. Veszkény (3102)
+3.3.20. Győr (3401)
+
+3.3.21. Győrladamér (3045)
+
+3.3.22. Győrsövényház (3092)
+
+3.3.23. Győrújfalu (3046)
+
+3.3.24. Győrzámoly (3047)
+
+3.3.25. Hédervár (3048)
+
+3.3.26. Ikrény (3049)
+
+3.3.27. Kapuvár (3093)
+
+3.3.28. Kisbajcs (3051)
+
+3.3.29. Kóny (3052)
+
+3.3.30. Kunsziget (3053)
+
+3.3.31. Lipót (3054)
+
+3.3.32. Maglóca (3094)
+
+3.3.33. Markotabödöge (3095)
+
+3.3.34. Mecsér (3055)
+
+3.3.35. Nagybajcs (3056)
+
+3.3.36. Nagyszentjános (3403)
+
+3.3.37. Osli (3096)
+
+3.3.38. Öttevény (3057)
+
+3.3.39. Pér (3010)
+
+3.3.40. Rábapatona (3031)
+
+3.3.41. Rábatamási (3097)
+
+3.3.42. Rábcakapi (3098)
+
+3.3.43. Rétalap (3409)
+
+3.3.44. Szárföld (3100)
+
+3.3.45. Tárnokréti (3101)
+
+3.3.46. Töltéstava (3016)
+
+3.3.47. Vámosszabadi (3059)
+
+3.3.48. Vének (3060)
+
+3.3.49. Veszkény (3102)
 
 3.4. Észak-Hanság és Szigetközi erdőtervezési körzet
 
@@ -1584,123 +1698,9 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 3.6.28. Vasszentmihály (8213)
 
-3.7. Gyöngyös-Pinka-menti erdőtervezési körzet
+3.7.
 
-3.7.1. Acsád (8017)
-
-3.7.2. Bucsu (8020)
-
-3.7.3. Dozmat (8022)
-
-3.7.4. Felsőcsatár (8024)
-
-3.7.5. Gencsapáti (8025)
-
-3.7.6. Gór (8026)
-
-3.7.7. Horvátlövő (8027)
-
-3.7.8. Ják (8028)
-
-3.7.9. Meszlen (8030)
-
-3.7.10. Nagykölked (8031)
-
-3.7.11. Nárai (8033)
-
-3.7.12. Narda (8032)
-
-3.7.13. Nemesbőd (8034)
-
-3.7.14. Perenye (8035)
-
-3.7.15. Pornóapáti (8036)
-
-3.7.16. Salköveskút (8038)
-
-3.7.17. Sé (8039)
-
-3.7.18. Söpte (8041)
-
-3.7.19. Szeleste (8042)
-
-3.7.20. Szentpéterfa (8043)
-
-3.7.21. Szombathely (8402)
-
-3.7.22. Tanakajd (8045)
-
-3.7.23. Táplánszentkereszt (8046)
-
-3.7.24. Torony (8047)
-
-3.7.25. Vasasszonyfa (8048)
-
-3.7.26. Vaskeresztes (8049)
-
-3.7.27. Vassurány (8050)
-
-3.7.28. Vasszilvágy (8051)
-
-3.8. Győri erdőtervezési körzet
-
-3.8.1. Abda (3035)
-
-3.8.2. Ásványráró (3037)
-
-3.8.3. Bőny (3408)
-
-3.8.4. Börcs (3040)
-
-3.8.5. Darnózseli (3041)
-
-3.8.6. Dunaszeg (3042)
-
-3.8.7. Dunaszentpál (3043)
-
-3.8.8. Enese (3044)
-
-3.8.9. Gönyű (3018)
-
-3.8.10. Győr (3401)
-
-3.8.11. Győrladamér (3045)
-
-3.8.12. Győrújfalu (3046)
-
-3.8.13. Győrzámoly (3047)
-
-3.8.14. Hédervár (3048)
-
-3.8.15. Ikrény (3049)
-
-3.8.16. Kisbajcs (3051)
-
-3.8.17. Kóny (3052)
-
-3.8.18. Kunsziget (3053)
-
-3.8.19. Lipót (3054)
-
-3.8.20. Mecsér (3055)
-
-3.8.21. Nagybajcs (3056)
-
-3.8.22. Nagyszentjános (3403)
-
-3.8.23. Öttevény (3057)
-
-3.8.24. Pér (3010)
-
-3.8.25. Rábapatona (3031)
-
-3.8.26. Rétalap (3409)
-
-3.8.27. Töltéstava (3016)
-
-3.8.28. Vámosszabadi (3059)
-
-3.8.29. Vének (3060)
+3.8.
 
 3.9. Kemenesi cser erdőtervezési körzet
 
@@ -2678,56 +2678,36 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 5.1.14. Komlósd (6182)
 
-5.1.15. Péterhida (6183)
+5.1.15. Lakócsa (6247)
 
-5.1.16. Szulok (6187)
+5.1.16. Péterhida (6183)
 
-5.2. Igali erdőtervezési körzet
+5.1.17. Potony (6248)
 
-5.2.1. Bonnya (6092)
+5.1.18. Szentborbás (6249)
 
-5.2.2. Büssü (6219)
+5.1.19. Szulok (6187)
 
-5.2.3. Ecseny (6093)
+5.1.20. Tótújfalu (6250)
 
-5.2.4. Felsőmocsolád (6094)
+5.2. Kelet-Zselic-Igali erdőtervezési körzet
 
-5.2.5. Fiad (6095)
+5.2.1. Baté (6218)
 
-5.2.6. Fonó (6222)
+5.2.2. Bonnya (6092)
 
-5.2.7. Gadács (6096)
+5.2.3. Büssü (6219)
 
-5.2.8. Gölle (6223)
+5.2.4. Cserénfa (6220)
 
-5.2.9. Igal (6097)
+5.2.5. Csoma (6221)
 
-5.2.10. Kazsok (6098)
+5.2.6. Ecseny (6093)
 
-5.2.11. Kisbárapáti (6100)
+5.2.7. Felsőmocsolád (6094)
 
-5.2.12. Kisgyalán (6230)
+5.2.8. Fiad (6095)
 
-5.2.13. Magyaratád (6101)
+5.2.9. Fonó (6222)
 
-5.2.14. Orci (6233)
-
-5.2.15. Patalom (6234)
-
-5.2.16. Ráksi (6104)
-
-5.2.17. Somodor (6105)
-
-5.2.18. Somogyacsa (6106)
-
-5.2.19. Somogydöröcske (6107)
-
-5.2.20. Somogyszil (6108)
-
-5.2.21. Szentgáloskér (6109)
-
-5.2.22. Szorosad (6110)
-
-5.2.23. Törökkoppány (6111)
-
-[^71]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja szerint módosított szöveg.
+[^90]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja, a 28/2024. (IV. 23.) AM rendelet 6. § a) pontja, 7. § j) pontja és a 8. § d) pontja szerint módosított szöveg.

@@ -18,6 +18,6 @@ e) honlapon megjelenített erdőtérkép.
 
 (4) Az erdészeti átnézeti térkép az erdészeti térkép tartalmának kiválogatásával, generalizálásával EOTR szerint szelvényezetten vagy annak meghatározott területére készített térképmásolat.
 
-(5)[^64] A honlapon megjelenített erdőtérkép az NFK által készített, csökkentett térképi tartalmú és pontosságú az NFK honlapján megjelenített generalizált erdőtérkép.
+(5)[^83] A honlapon megjelenített erdőtérkép az NFK által készített, csökkentett térképi tartalmú és pontosságú az NFK honlapján megjelenített generalizált erdőtérkép.
 
-[^64]: Az 59. § (5) bekezdése a 63/2020. (XII. 16.) AM rendelet 14. § 6. pontja szerint módosított szöveg.
+[^83]: Az 59. § (5) bekezdése a 63/2020. (XII. 16.) AM rendelet 14. § 6. pontja szerint módosított szöveg.

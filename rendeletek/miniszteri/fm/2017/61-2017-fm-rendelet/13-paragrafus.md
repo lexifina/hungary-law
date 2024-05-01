@@ -1,6 +1,6 @@
 13. § (1) Az erdészeti hatóság az Evt 33. § (1) bekezdés a) pont szerinti igazgatási tevékenység keretében
 
-a)[^18] a terepi helyszíneléssel és távérzékeléssel nyert adatok,
+a)[^21] a terepi helyszíneléssel és távérzékeléssel nyert adatok,
 
 b) az erdőgazdálkodó által benyújtott adatok, javaslatok,
 
@@ -26,4 +26,4 @@ c) az állami topográfiai térképi adatbázis,
 
 d) az állami távérzékelési adatbázisok és ortofotók.
 
-[^18]: A 13. § (1) bekezdés a) pontja a 183/2023. (XII. 27.) AM rendelet 5. § a) pontja szerint módosított szöveg.
+[^21]: A 13. § (1) bekezdés a) pontja a 183/2023. (XII. 27.) AM rendelet 5. § a) pontja szerint módosított szöveg.

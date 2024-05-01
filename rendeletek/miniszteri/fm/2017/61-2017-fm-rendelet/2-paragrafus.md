@@ -8,8 +8,10 @@
 
 a) termőhelyén természetes módon elegyetlenül is előforduló faállományok kivételével az erdőrészletben az elegyfafajok aránya nem éri el a 10%-ot,
 
-b) a tuskósarj eredetű fafajok elegyaránya 50%-nál nagyobb, vagy
+b)[^12] a vágásérettségi kor felénél idősebb állományokban a tuskósarj eredetű fafajok elegyaránya 50%-nál nagyobb, vagy
 
 c) az erdő cserjeszintjének átlagos záródása meghaladja a 30%-ot, és a cserjeszinten belül az erdészeti tájidegen és idegenhonos fa- és cserjefajok térfoglalása 50%-nál nagyobb.
 
 (4) Azon erdő természetességi állapotát, melynek faállománya átmenetileg hiányzik, az erdőfelújítás megkezdéséig a véghasználat előtti, illetve a kipusztult faállomány jellemzői alapján kell megállapítani.
+
+[^12]: A 2. § (3) bekezdés b) pontja a 28/2024. (IV. 23.) AM rendelet 7. § a) pontja szerint módosított szöveg.

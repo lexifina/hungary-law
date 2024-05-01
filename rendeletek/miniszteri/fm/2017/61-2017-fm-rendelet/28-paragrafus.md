@@ -14,7 +14,7 @@ bb) a pótlás.
 
 a) az erdőgazdálkodó – erdő engedélyezett igénybevétele esetén az engedély jogosultjának – neve, erdőgazdálkodói kódszáma,
 
-b)[^24] az alkalmazott jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
+b)[^34] az alkalmazott jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
 
 c) a bejelentéssel érintett részlet erdészeti területazonosító adatai (helység, tagszám, részlet jel, alrészlet szám),
 
@@ -30,15 +30,15 @@ h) keltezés,
 
 i) az erdőgazdálkodó aláírása, valamint
 
-j)[^25] az alkalmazott jogosult erdészeti szakszemélyzet ellenjegyzése.
+j)[^35] az alkalmazott jogosult erdészeti szakszemélyzet ellenjegyzése.
 
 (3) Ha a bejelentett tevékenység nem a teljes erdőrészletet érinti, – örökerdő üzemmód esetének kivételével – a bejelentéshez csatolni kell a tervezett tevékenységgel érintett részterületet ábrázoló erdészeti térképi mellékletet.
 
-(4)[^26] A bejelentés papír alapon három példányban készül. Ebből egy példány az erdőgazdálkodónál, egy példány az alkalmazott jogosult erdészeti szakszemélyzetnél marad – melyet a végrehajtási jogosultság Evt. 41. § (8) bekezdésében foglaltak szerinti lejártáig meg kell őrizniük –, a fennmaradó példányt pedig az erdészeti hatósághoz kell benyújtani.
+(4)[^36] A bejelentés papír alapon három példányban készül. Ebből egy példány az erdőgazdálkodónál, egy példány az alkalmazott jogosult erdészeti szakszemélyzetnél marad – melyet a végrehajtási jogosultság Evt. 41. § (8) bekezdésében foglaltak szerinti lejártáig meg kell őrizniük –, a fennmaradó példányt pedig az erdészeti hatósághoz kell benyújtani.
 
 (5) A bejelentés időpontjának az erdészeti hatósághoz történő beérkezés napja számít.
 
-(6)[^27] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
+(6)[^37] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
 
 a) a tervezett erdőgazdálkodási tevékenységek módja és területi mértéke összhangban van-e az erdőtervben foglaltakkal,
 
@@ -52,7 +52,7 @@ da) a természet védelméről szóló 1996. LIII. törvény 33. § (5) és (6) 
 
 db) erdészeti hatóság által előírt, az Adattárban szereplő feltételeknek.
 
-[^24]: A 28. § (2) bekezdés b) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^25]: A 28. § (2) bekezdés j) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^26]: A 28. § (4) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § e) pontja szerint módosított szöveg.
-[^27]: A 28. § (6) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^34]: A 28. § (2) bekezdés b) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^35]: A 28. § (2) bekezdés j) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^36]: A 28. § (4) bekezdése az 51/2020. (X. 16.) AM rendelet 2. § e) pontja szerint módosított szöveg.
+[^37]: A 28. § (6) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.

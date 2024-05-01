@@ -1,5 +1,3 @@
-## 20. § Körzeti erdőtervezéskor a már a természetben meglévő, fátlan állapotban lévő – az erdőfelújítási kötelezettség alatt álló terület kivételével – vonalas létesítményhez tartozó nyiladék, erdei vízfolyás, erdei tó és terméketlen egyéb részlet alakítható ki.
-
 21. § (1) Vágásérettségi kort csak a vágásos és az átmeneti üzemmódú erdők faállományára kell meghatározni az adott erdőre vonatkozóan, meghatározott vágásérettségi szakasz határértékei között, az erdő termőhelyi viszonyai, fafajösszetétele, eredete, egészségi állapota és felújulóképessége figyelembevételével.
 
 (2) A vágásérettségi szakasz felső határértékénél magasabb vágásérettségi kort meghatározni csak az erdőgazdálkodó egyetértésével vagy az adott határértéknél idősebb erdőben, vagy hagyásfa csoportokra lehet. A vágásérettségi szakasz felső határértékénél magasabb vágásérettségi kort az adott határértéknél idősebb erdőben csak az erdőgazdálkodó egyetértésével lehet meghatározni akkor, ha a vágásérettségi kor a körzeti erdőtervezés ciklusán túlmutat.
