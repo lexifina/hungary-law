@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 3. § (2) bekezdése alapján 2024. május 1-jén lép hatályba.
+2. § Az MVM NET Távközlési Szolgáltató Zártkörűen Működő Részvénytársaság jogutódja a HM Elektronikai, Logisztikai és Vagyonkezelő Zártkörűen Működő Részvénytársaság az LTE 450 MHz-es mobil adatkommunikációs hálózat üzemeltetéséhez szükséges, 2024. április 30-án fennálló bérleti szerződésekből fakadó jogosultságok és kötelezettségek tekintetében.
