@@ -1807,27 +1807,3 @@ F-A-3. ábra: Érzékelt zajosság a hangnyomásszint függvényében
 5.2.4. Jelenteni kell a helyi topográfiáról, a felszín jellegzetességekről és olyan eseményekről szóló megjegyzéseket, amelyek a zajrögzítést befolyásolhatják.
 
 5.2.5. A légijárműre vonatkozó következő adatokat jelenteni kell:
-
-(a) a légijármű, a hajtómű, légcsavar vagy forgószárny (alkalmazás szerint) típusa, modell- és széria száma (ha ilyen létezik);
-
-(b) a légijármű befoglaló méretei, a hajtóművek és forgószárnyak (ha van) beépítési helye;
-
-(c) a légijármű bruttó tömege az egyes vizsgálatok alatt és súlypont helyzetének tartománya az egyes vizsgálatsorozatok folyamán;
-
-(d) a légijármű konfigurációja, mint például a fékszárny, az aerodinamikai fékezőeszközök és a futóművek helyzete, valamint a légcsavarok állásszöge (ha állítható);
-
-(e) a fedélzeti segédhajtómű (APU) működési állapota, ha ilyet létesítettek;
-
-(f) a hajtómű levegőelvétel és teljesítmény elvétel aktuális körülményei;
-
-(g) a javasolt áramlási levegősebesság km/h értékben (csomóban); (h) a repülőgép fajtájától függően
-
-(1) sugárhajtóműves repülőgépekre: a hajtómű teljesítmény a következőkkel kifejezve: eredő tolóerő, hajtómű nyomásviszony, kilépő gázhőmérséklet, ventilátor fokozat vagy kompresszor fokozat fordulatszám a repülőgép műszerei alapján, vagy a gyártó cég adatai alapján;
-
-(2) légcsavar hajtású repülőgépekre: hajtómű teljesítmény az alábbiakkal kifejezve: fékpadom mért teljesítmény és másodlagos tolóerő, vagy tengelyen mért teljesítmény egyenértéke, vagy motor forgatónyomatékkal arányos mennyiség és légcsavar forgássebesség a repülőgép műszerei alapján, vagy a gyártó cég adataiból megállapítva;
-
-(3) helikopterekre: hajtómű teljesítmény jellemző és forgószárny fordulatszám fordulat/perc-ben az egyes vizsgálatok során; (i) a légijármű repülési pályája és föld feletti sebessége az egyes vizsgálatok során;
-
-(j) a légijármű zaj jellemzőit valószínűleg befolyásoló bármiféle átalakítás vagy nem szabvány felszerelés.
-
-F-A-2. táblázat: A noy értékek matematikai képleteihez alkalmazott állandók

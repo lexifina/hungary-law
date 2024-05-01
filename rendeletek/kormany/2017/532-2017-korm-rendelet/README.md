@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-532-20-
 | 2022-01-27 | 2017-532-20-22.10 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2023-05-27 | 2017-532-20-22.11 | 199/2023. (V. 22.) Korm. rendelet |
 | 2023-12-27 | 2017-532-20-22.12 | 612/2023. (XII. 22.) Korm. rendelet |
+| 2024-05-01 | 2017-532-20-22.13 | 84/2024. (IV. 17.) Korm. rendelet |

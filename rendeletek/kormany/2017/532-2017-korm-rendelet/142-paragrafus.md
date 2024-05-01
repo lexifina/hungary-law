@@ -10,6 +10,6 @@ c) a módosítás során alkalmazandó alkalmassági előírás (előírások) m
 
 (3) Az amatőr építésű légijárműre kiadott egyedi repülési engedély módosítására irányuló kérelem benyújtásával egyidejűleg igazolni kell a légijármű biztonságos repülésre alkalmas állapotát. Az igazolásra alkalmas különösen a kell a műszaki felügyelő nyilatkozata.
 
-(4)[^59] A légiközlekedési hatóság az amatőr építésű légijárműre kiadott egyedi repülési engedélyt felfüggeszti a hatóság által előírt követelmények teljesítéséig, ha a légijármű súlyosan veszélyezteti a repülés biztonságát.
+(4)[^79] A légiközlekedési hatóság az amatőr építésű légijárműre kiadott egyedi repülési engedélyt felfüggeszti a hatóság által előírt követelmények teljesítéséig, ha a légijármű súlyosan veszélyezteti a repülés biztonságát.
 
-[^59]: A 142. § (4) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 58. § (9) bekezdése iktatta be.
+[^79]: A 142. § (4) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 58. § (9) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-5/C. §[^8] (1) A tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét a légiközlekedési hatóság adja ki.
+5/C. §[^9] (1) A tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét a légiközlekedési hatóság adja ki.
 
 (2) Az (1) bekezdés szerinti engedély iránti kérelemhez a következő dokumentumokat kell csatolni:
 
@@ -8,7 +8,7 @@ b) a koordinációhoz használt földi rádióállomás, valamint a hozzá tarto
 
 c) a koordinációhoz használt földi rádióállomás karbantartási utasítása és a karbantartást igazoló dokumentumok;
 
-d) a koordinációs feladatokat ellátó személy légiforgalmi földi rádióállomás használatához szükséges kezelői engedély;
+d)[^10] a koordinációs feladatokat ellátó személy koordinációs feladatok ellátására szolgáló földi rádióállomás használatához szükséges kezelői engedély;
 
 e) a repülőtér üzembentartójával kötött hatóság által jóváhagyott együttműködési megállapodás, ha a tanúsítási célú veszélyes légtér valamely
 
@@ -30,4 +30,5 @@ fc) határai és az fa) vagy fb) alpontban meghatározott légtér magassági ha
 
 fd) az fa) vagy fb) alpontban meghatározott légterek oldalhatárától kevesebb mint 2,5 NM-re (4,6 km) helyezkedik el.
 
-[^8]: Az 5/C. §-t a 199/2023. (V. 22.) Korm. rendelet 6. §-a iktatta be.
+[^9]: Az 5/C. §-t a 199/2023. (V. 22.) Korm. rendelet 6. §-a iktatta be.
+[^10]: Az 5/C. § (2) bekezdés d) pontja a 84/2024. (IV. 17.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

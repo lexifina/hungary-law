@@ -1,12 +1,12 @@
-16. § (1)[^27] Az ATM/ANS-rendszer üzembe helyezéséhez a léginavigációs szolgáltatónak, egyéb földi berendezés üzembe helyezéséhez az üzemben tartónak üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
+16. § (1)[^45] Az ATM/ANS-rendszer üzembe helyezéséhez a léginavigációs szolgáltatónak, egyéb földi berendezés üzembe helyezéséhez az üzemben tartónak üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
 
 (2) Az üzemben tartási engedély iránti kérelemnek tartalmaznia kell
 
 a) telepítési engedélyhez kötött egyéb földi berendezés esetében a telepítési engedély számát;
 
-b)[^28] ATM/ANS-rendszer esetében az Európai Légiforgalmi Szolgáltatási Hálózat átjárhatóságáról szóló 2004. március 10-i 552/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 552/2004/EK európai parlamenti és tanácsi rendelet) 6. cikkében meghatározott EK-ellenőrzési nyilatkozatot és az ahhoz kapcsolódó műszaki dokumentációt;
+b)[^46] ATM/ANS-rendszer esetében az Európai Légiforgalmi Szolgáltatási Hálózat átjárhatóságáról szóló 2004. március 10-i 552/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 552/2004/EK európai parlamenti és tanácsi rendelet) 6. cikkében meghatározott EK-ellenőrzési nyilatkozatot és az ahhoz kapcsolódó műszaki dokumentációt;
 
-c)[^29] a kapcsolódó ATM/ANS-rendszerelem esetében a gyártó által kiadott 552/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében meghatározott EK-megfelelőségi vagy alkalmazhatósági nyilatkozatot, egyéb földi berendezés esetében a gyártó vagy a forgalomba hozatalért felelős személy által kibocsátott megfelelőségi nyilatkozatot;
+c)[^47] a kapcsolódó ATM/ANS-rendszerelem esetében a gyártó által kiadott 552/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében meghatározott EK-megfelelőségi vagy alkalmazhatósági nyilatkozatot, egyéb földi berendezés esetében a gyártó vagy a forgalomba hozatalért felelős személy által kibocsátott megfelelőségi nyilatkozatot;
 
 d) egyéb földi berendezés esetében:
 
@@ -22,12 +22,12 @@ e) telepítési engedélyhez nem kötött egyéb földi berendezés esetében a 
 
 a) a létesítmény érintésvédelmi, valamint – ahol indokolt – villámvédelmi megfelelőségét,
 
-b)[^30] egyéb berendezéssel összefüggésben működő vagy arra hatással lévő ATM/ANS-rendszer, illetve egyéb földi berendezés esetében az együttműködtethetőség vizsgálatát.
+b)[^48] egyéb berendezéssel összefüggésben működő vagy arra hatással lévő ATM/ANS-rendszer, illetve egyéb földi berendezés esetében az együttműködtethetőség vizsgálatát.
 
-(4)[^31] További szervezet kinevezése vagy a kinevezés visszavonása esetén a légiközlekedési hatóság a kijelölést követő 30 napon belül tájékoztatja a közlekedésért felelős minisztert (a továbbiakban: miniszter). A légiközlekedési hatóság értesítése alapján a miniszter végrehajtja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 69. cikk (5) bekezdésében foglalt tájékoztatási feladatokat.
+(4)[^49] További szervezet kinevezése vagy a kinevezés visszavonása esetén a légiközlekedési hatóság a kijelölést követő 30 napon belül tájékoztatja a közlekedésért felelős minisztert (a továbbiakban: miniszter). A légiközlekedési hatóság értesítése alapján a miniszter végrehajtja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 69. cikk (5) bekezdésében foglalt tájékoztatási feladatokat.
 
-[^27]: A 16. § (1) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^28]: A 16. § (2) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^29]: A 16. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^30]: A 16. § (3) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^31]: A 16. § (4) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^45]: A 16. § (1) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^46]: A 16. § (2) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^47]: A 16. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
+[^48]: A 16. § (3) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^49]: A 16. § (4) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
