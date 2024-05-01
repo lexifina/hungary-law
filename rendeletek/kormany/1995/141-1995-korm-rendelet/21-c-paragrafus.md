@@ -1,4 +1,4 @@
-21/C. §[^49] (1) A repülőtér térképészeti adatait a repülőtér üzembentartója elektronikus úton elérhető repülőtéri térképészeti adatbázisba rendezi.
+21/C. §[^54] (1) A repülőtér térképészeti adatait a repülőtér üzembentartója elektronikus úton elérhető repülőtéri térképészeti adatbázisba rendezi.
 
 (2) A repülőtér térképészeti adatai közül azokat az adatokat, amelyek szerepelnek Magyarország légiközlekedési terep és akadály adatbázisának az adatgyűjtési területként kijelölt 3-as számú Területre vonatkozó részadatbázisában, a repülőtér üzembentartója Magyarország légiközlekedési terep és akadály adatbázisában szereplő adatokkal azonos minőségben a repülőtéri térképészeti adatbázisban rögzíti.
 
@@ -36,4 +36,4 @@ l) metaadatok.
 
 (7) A repülőtéri térképészeti metaadatok megfelelnek az ISO 19115 szabványnak vagy azzal egyenértékű műszaki megoldásnak.
 
-[^49]: A Vhr. 21/C. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A Vhr. 21/C. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.

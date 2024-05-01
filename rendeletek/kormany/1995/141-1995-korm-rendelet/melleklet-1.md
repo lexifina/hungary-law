@@ -1,4 +1,4 @@
-1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^101]
+1. melléklet a 141/1995. (XI. 30.) Korm. rendelethez[^102]
 
 Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és közigazgatási szervek, valamint az egyes szervezetek által nyújtandó tájékoztatások
 
@@ -388,4 +388,4 @@ Az AIP egyes pontjaihoz adatszolgáltatást nyújtó gazdasági szervezetek és 
 
 | 23. | AD 2.24 | A repülőtérrel kapcsolatos navigációs térképek | nem |  |
 
-[^101]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a, a 116/2023. (IV. 5.) Korm. rendelet 1. §-a, a 655/2023. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^102]: A Vhr. 1. mellékletét a 28/2019. (III. 1.) Korm. rendelet 3. §-a iktatta be, szövege a 609/2021. (XI. 5.) Korm. rendelet 3. §-a, a 176/2022. (IV. 29.) Korm. rendelet 5. §-a, a 116/2023. (IV. 5.) Korm. rendelet 1. §-a, a 655/2023. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.

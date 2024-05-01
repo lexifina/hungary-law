@@ -1,4 +1,4 @@
-21/F. §[^52] (1) Minden, az akadálykorlátozási felület oldalhatárain belül vagy kívül található, rögzített légiközlekedési akadályt az Lt. 51. § (1) bekezdésében meghatározott kötelezett akadályjelöléssel látja el a légiközlekedési hatóság honlapján közzétettek szerint. Ha ez nem lehetséges, akkor a kötelezett a légiközlekedési akadályon vagy a légiközlekedési akadály körül egyéb jelölést vagy jelző zászlót helyez el.
+21/F. §[^58] (1) Minden, az akadálykorlátozási felület oldalhatárain belül vagy kívül található, rögzített légiközlekedési akadályt az Lt. 51. § (1) bekezdésében meghatározott kötelezett akadályjelöléssel látja el a légiközlekedési hatóság honlapján közzétettek szerint. Ha ez nem lehetséges, akkor a kötelezett a légiközlekedési akadályon vagy a légiközlekedési akadály körül egyéb jelölést vagy jelző zászlót helyez el.
 
 (2) Az akadálykorlátozási felületek oldalhatárain belül elhelyezkedő minden mozgó légiközlekedési akadályt az akadály tulajdonosa festett színjelöléssel vagy jelző zászlóval lát el.
 
@@ -12,4 +12,4 @@
 
 (7) Az alacsony intenzitású akadályfény „A”, „B”, „C” vagy „D” típusú, a közepes intenzitású akadályfény „A”, „B” vagy „C” típusú, a nagy intenzitású akadályfény „A” vagy „B” típusú lehet. Az egyes akadályfény típusok leírását a légiközlekedési hatóság honlapján teszi közzé.
 
-[^52]: A Vhr. 21/F. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
+[^58]: A Vhr. 21/F. §-t a 167/2019. (VII. 9.) Korm. rendelet 2. §-a iktatta be.
