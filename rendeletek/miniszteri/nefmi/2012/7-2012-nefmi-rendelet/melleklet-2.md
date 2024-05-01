@@ -342,7 +342,7 @@
 
 | 0-9% | 10-29% | 30-49% | 50-79% |
 
-| Kórtörténet Ott stádium | Nincs elcsontosodás (0.) | Egy gerincrégió elcsontosodása (I-II.) ** | Két gerincrégió elcsontosodása (II.) ** | Jelentős ízületi mozgáskorlátozottság is van a gerinc elcsontosodása mellett (III-IV.) |
+| Kórtörténet Ott stádium | Nincs elcsontosodás (0.) | Egy gerincrégió elcsontosodása (I-II.)** | Két gerincrégió elcsontosodása (II.)** | Jelentős ízületi mozgáskorlátozottság is van a gerinc elcsontosodása mellett (III-IV.) |
 
 | Gyógykezelés | Nem szed gyógyszert/optimális kezelés eredményes | Időszakosan szed gyógyszert/optimális kezelés eredményes | Tartós NSAID | Tartós bázisterápia, NSAID |
 
@@ -391,6 +391,8 @@
 ## 3.5. táblázat A vállöv be- és kifelé történő rotatios mozgásainak értékelése
 
 ## (Normál mozgástartomány befelé forgatás 0/90°, kifelé forgatás 0/90° (mérés 90°-ban hajlított könyök mellett), illetve befelé forgatás 70° adducált vállal mérve. 0° = a sagittalis síkban előre mutató alkar.)
+
+## 5K19902M_20
 
 | Berotatios | Kirotatios |
 
@@ -496,6 +498,8 @@
 
 ## 3.11. táblázat Az ujjak értékrendje*
 
+## 5K19902M_26
+
 | 1. Hüvelykujj |
 
 | 2. Mutatóujj |
@@ -509,6 +513,8 @@
 | * Az első 3 ujj a kéz fogókészségében, a kisujj a kéz megtámasztásában játszik szerepet. |
 
 ## 3.12. táblázat A hosszú ujjak flexios mozgásainak értékelése*
+
+## 5K19902M_27
 
 |  | II.-III. ujj | IV.-V. ujj |
 
@@ -584,6 +590,8 @@
 
 ## 3.16. táblázat Kéz amputáció okozta egészségkárosodás (szervezeti egészségkárosodás mértéke százalékosan, a százalékok numerikusan összeadhatók)
 
+## 5K19902M_31
+
 |  | Amputáció magassága: |
 
 | MCP* | PIP** | DIP*** |
@@ -645,6 +653,8 @@
 | * Metacarpofalangelális ízület ** Interfalangeális ízület |
 
 ## 3.18. táblázat A medence törésés ficam utáni maradványállapot értékelése (ÖEK %)
+
+## 5K19902M_33
 
 |  | Medence | Acetabulum |
 
@@ -970,6 +980,8 @@
 
 ## 3.31. táblázat Az össz-szervezeti egészségkárosodás fokozatai értékelés „háti porckorong károsodás” betegcsoportban
 
+## 5K19902M_50
+
 |  | Az össz-szervezeti egészségkárosodás mértéke |
 
 | 0 | 2–6% | 7–14% | 15–22% | 23–30% |
@@ -1048,7 +1060,7 @@
 
 | A károsodás foka | 1. Jelentéktelen | 2. Enyhe | 3. Középsúlyos | 4. Súlyos | 5. Igen súlyos |
 
-| A károsodás kritériuma | FEV1**>70% VC***>80% PaO2>k. é. PaCo2<45 Hgmm FVC>80% FEV1/FVC>80% COPD**** 0 | FEV1 60-70% VC 70-80% PaO2>k. é. -5 Hgmm PaCO2 45-60 Hgmm FVC 60-79% FEV1/FVC 60-79% COPD I. | FEV1 50-59% VC 50-70% PaO2 k. é.-5-10 Hgmm PaCO2 50-60 Hgmm FVC 50-59% FEV1/FVC 40-59% COPD II. és/vagy Pulmonális hypertonia I. | FEV1 30-50% VC<50% PaO2<k. é.-10 Hgmm vagy PaO2<60 Hgmm (<8kPa) PaCO2>60 Hgmm FVC<50% FEV1/FVC<40% Koch pozitív TBC* COPD III. és/vagy Pulmonális hypertonia II-III. | FEV1 <30% VC<50% PaO2<k. é.-10 Hgmm vagy PaO2<60 Hgmm (<8kPa) PaCO2>60 Hgmm COPD IV. Pulmonális hypertonia III. Asthma IV-V. st. Légzési elégtelenség |
+| A károsodás kritériuma | FEV1**>70% VC***>80% PaO2>k. é. PaCo2<45 Hgmm FVC>80% FEV1/FVC>80% COPD**** 0 | FEV160-70% VC 70-80% PaO2>k. é. -5 Hgmm PaCO2 45-60 Hgmm FVC 60-79% FEV1/FVC 60-79% COPD I. | FEV150-59% VC 50-70% PaO2k. é.-5-10 Hgmm PaCO2 50-60 Hgmm FVC 50-59% FEV1/FVC 40-59% COPD II. és/vagy Pulmonális hypertonia I. | FEV1 30-50% VC<50% PaO2<k. é.-10 Hgmm vagy PaO2<60 Hgmm (<8kPa) PaCO2>60 Hgmm FVC<50% FEV1/FVC<40% Koch pozitív TBC* COPD III. és/vagy Pulmonális hypertonia II-III. | FEV1 <30% VC<50% PaO2<k. é.-10 Hgmm vagy PaO2<60 Hgmm (<8kPa) PaCO2>60 Hgmm COPD IV. Pulmonális hypertonia III. Asthma IV-V. st. Légzési elégtelenség |
 
 | * Koch pozitív tüdőtuberculosis esetén az össz-szervezeti egészségkárosodás a fertőzés tartama alatt 51-80%, majd a gyógyulás folyamatától függően változik. Az extrapulmonális TBC esetén a károsodásoknak megfelelő táblázat szerint egyéb értékelésre kerül sor. Daganatok a kemo és/vagy sugárkezelés alatt, recidiva és metastasis esetén és utána 1 évig az adott értékelési érték legalább 80%, ezután 2-3 évig 51-79%, majd 3 év után a residuális tünetek alapján. |
 
@@ -1067,6 +1079,8 @@
 | Foglalkoztathatóság | 50 évnél fiatalabb beteg silicosisveszéllyel járó munkahelyen nem foglalkoztatható, egyéb korlátozás nincs | A beteg olyan munkát végezhet, ami nem silicosisveszélyes és MET-igénye 5-nél kisebb | A beteg olyan munkát végezhet, ami nem silicosisveszélyes és MET-igénye 2,5-3-nál nem több. 50% feletti foglalkozási károsodás esetén rokkantság is megállapítható | Foglalkozási eredetű rokkantság állapítható meg, emellett a beteg legfeljebb olyan rehabilitációs munkakörben foglalkoztatható, melynek MET-igénye 2-nél kisebb |
 
 ## 4.3. táblázat Az asthma egészségkárosodásként való értékelése
+
+## 5K19902M_57
 
 | Az össz-szervezeti egészségkárosodás %-os értékelése |
 
@@ -1239,6 +1253,8 @@
 | * Boka feletti amputáció esetén az értékelés a csonkolási tábla szerint. |
 
 ## 5.8. táblázat Az össz-szervezeti egészségkárosodás értékelése a felső végtag perifériás verőérbetegségeiben
+
+## 5K19902M_65
 
 |  | Össz-szervezeti egészségkárosodás %-a |
 
@@ -1452,6 +1468,8 @@
 
 ## 8.1. táblázat Túltápláltsági állapotok értékelése
 
+## 5K19902M_80
+
 |  | Egészségkárosodás fokozatai és %-os értékelése |
 
 |  | 0% | 1-5% | 6-10% |
@@ -1566,9 +1584,9 @@
 
 | Kórelőzmény | Az anamnézisben laboratóriumilag igazolt, azóta azonban megszűnt IGT (kóros cukortolerancia) vagy DM, ami jelenleg sem diétás, sem gyógyszeres kezelést nem igényel | Laboratóriumilag igazolt DM, ami egyetlen per os gyógyszerrel és/vagy diétával kezelhető | Laboratóriumilag igazolt DM, ami az előírt diéta betartása mellett napi 2-3 x adott per os gyógyszerrel és/vagy napi 1-2 x adott inzulinnal egyensúlyban tartható | Laboratóriumilag igazolt DM, ami jelentős diétás megszorítások mellett > 4 per os antidiabetikum, vagy oralis antidiabetikum mellett intenzifikált inzulin-kezelést tesz szükségessé, összességében jól kontrollált | Laboratóriumilag igazolt DM, amit az előírt szigorú diéta betartása mellett a különböző kezelési rendszerek egyikével sem lehetett jól beállítani |
 
-| HbA1c (%) | < 6,0 | 6,0-6,5 | 6,6-8,0 | 8,1-10 | >10 |
+| HbA1c(%) | < 6,0 | 6,0-6,5 | 6,6-8,0 | 8,1-10 | >10 |
 
-| HbA1c (mmol/mol) | < 42 | 43-48 | 49-65 | 66-85 | >85 |
+| HbA1c(mmol/mol) | < 42 | 43-48 | 49-65 | 66-85 | >85 |
 
 | * A diabetes mellitus szövődményeiből származó egészségkárosodás a megfelelő szervrendszereknél értékelendő. Visus és látótérkárosodás nélkül fennálló retinopathia esetén a fenti értékek 10%-kal emelendők. |
 
@@ -1654,6 +1672,8 @@
 
 ## 11.1. táblázat A nőgyógyászati károsodok értékelése
 
+## 5K19902M_94
+
 |  | Az össz-szervezeti egészségkárosodás értéke (%) |
 
 | 1-10% | 11-15% | 16-20% |
@@ -1723,6 +1743,8 @@
 | * Szövődmény kialakulása esetén az adott szervrendszer funkcionális állapota értékelendő. ** Veleszületett bőrbetegségek: Epidermolysis bullosa hereditaria, M. Darier, Hailey-Hailey betegség, Xeroderma pigmentosum. Krónikus gyulladásos bőrbetegség: Allergiás vagy irritativ kontakt dermatitis, Atopiás dermatitis, Psoriasis, Autoimmun hólyagos bőrbetegség. *** BSA: Body surface area = testfelszín százaléka. |
 
 ## 13.2. táblázat Rosszindulatú bőrdaganatok értékelése*
+
+## 5K19902M_98
 
 |  | Az össz-szervezeti egészségkárosodás %-os értékelése |
 
@@ -2108,306 +2130,6 @@
 
 ## 11.3. Rehabilitációs ellátás javaslata esetén az eljáró szakértők meghatározzák a rehabilitációhoz szükséges időtartamot. Orvosszakértői szempontból a kórlefolyás és a várható prognózis alapján a szakvélemény érvényességének időpontját is meg kell határozni.
 
-2. melléklet a 7/2012. (II. 14.) NEFMI rendelethez
+2. melléklet a 7/2012. (II. 14.) NEFMI rendelethez[^25]
 
-| Szervezeti egység: …………………… Iktatószám:………………………….. Szakértő:………………………….. |
-
-| A rehabilitálhatóság minősítésének foglalkozási szempontjai |
-
-| Név: …………………..………….… születési idő:……………….anyja neve:……………………………… |
-
-| A foglalkozási rehabilitálhatóság alábbi, személyre vonatkozó szempontjai az ellátás iránti igénybejelentés során kitöltött benyújtott iratokban foglaltak, valamint a személyes interjú során elmondottak alapján kerülnek minősítésre. Megjegyzés, észrevétel, bemutatott, benyújtott iratok1: …………….…201.. …….hó…….nap. ………………………………………. ……..……………………. foglalkozási rehabilitációs szakértő ügyfél |
-
-|  | A rehabilitálhatóság minősítésének foglalkozási szempontjai | Foglalkozási rehabilitációra gyakorolt hatás |
-
-| 1. | Foglalkoztatási előzmények |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 2. | Képzettségi, tanulmányi előzmények |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 3. | Személyes érdeklődésének összhangja a foglalkoztatási lehetőségekkel |  |
-
-|  | 3 | 2 | 1 | pont |  |
-
-| 4. | Életpálya karaktere, munkára szocializáltsága, életútja |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 5. | Életkora |  |
-
-|  | 3 | 2 | 1 | pont |  |
-
-| 6. | Mobilitási képessége, lehetősége, lakóhely-munkahely |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 7. | Speciális foglalkoztatási feltételek szükségessége |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 8. | Munkahelyi terhelhetősége |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 9. | Egyéb hátrányos helyzetű csoporthoz tartozás |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 10. | Életmód |  |
-
-|  | 3 | 2 | 1 | pont |  |
-
-| 11. | Egyéb akadályozó korlátozó tényezők |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 12. | Meglévő, felajánlható foglalkozás munkaerőpiaci pozíciója |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 13. | Foglalkoztatási lehetőségek, munkáltatók |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 14. | Térség foglalkoztatási helyzete, perspektívák |  |
-
-|  | 3 | 2 | 1 | pont | x |
-
-| 15. | Foglalkoztatása esetén igénybe vehető kedvezmények, támogatások |  |
-
-|  | 3 | 2 | 1 | pont |  |
-
-| 16. | A foglalkozási rehabilitálhatóság minősítése | A foglalkozási rehabilitáció: |  |
-
-1 A táblázat mérete szükség szerint növelhető, külön lapon is elkészíthető.
-
-Alkalmazási szabályok
-
-a foglalkozási rehabilitálhatóság minősítéséhez
-
-A foglalkozási rehabilitálhatóság minősítése a táblázatba foglalt szempontrendszer segítségével történik, az 1-15. sorszám alatt felsorolt szempontokra adott 1, 2, 3 pontszámok, illetve X segítségével, az alábbiak szerint:
-
-Amennyiben az adott szempont a foglalkozási rehabilitációt nem korlátozza: 3 pont.
-
-Előreláthatóan nem akadályozza a foglalkozási rehabilitáció folyamatának sikeres lebonyolítását. Ezen szemponttal kapcsolatban nincs szükség segítésre, támogatásra, szolgáltatás igénybevételére.
-
-Amennyiben az adott szempont alapján a foglalkozási rehabilitációhoz kevés segítség, támogatás szükséges: 2 pont.
-
-Előreláthatóan a foglalkozási rehabilitáció sikeres lebonyolításához egy szolgáltatás és/vagy egy támogatás igénybevétele szükséges és elégséges.
-
-Amennyiben az adott szempont alapján a foglalkozási rehabilitációhoz jelentős segítség, több szolgáltatás és/vagy támogatás igénybevétele szükséges: 1 pont.
-
-Előreláthatóan a foglalkozási rehabilitáció sikeres lebonyolításához több szolgáltatás és támogatás igénybevétele szükséges.
-
-Amennyiben az adott szempont a foglalkozási rehabilitációt megakadályozza: X.
-
-Előreláthatóan a foglalkozási rehabilitáció sikeres lebonyolítása segítéssel, szolgáltatások, támogatások nyújtásával sem valósítható meg. FIGYELEM! Amennyiben egyetlen szempontnál is az értékelés során X kerül jelölésre, akkor a foglalkozási rehabilitáció nem javasolható! A 3.; 5.; 10.; 15. szempontok nem értékelhetőek kizáró tényezőként.
-
-A 15 szempontra legfeljebb 45 pont adható. Amennyiben a pontszámok összege eléri vagy meghaladja a 17 pontot, akkor a foglalkozási rehabilitáció javasolt, amennyiben 17 pontnál kevesebb az összeadott pontszám, vagy egy szempontnál kizáró tényező (X) került megjelölésre, akkor a foglalkozási rehabilitáció nem javasolt.
-
-A 16. sorban kell összesíteni a pontokat és ennek megfelelően minősíteni a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdése szerint, hogy a foglalkozási rehabilitáció JAVASOLT vagy NEM JAVASOLT.
-
-A megjegyzés, észrevétel táblázat szükség szerint növelhető és külön lapon is elkészíthető, ide az ügyfél is és a foglalkozási rehabilitációs szakértő is tehet megjegyzést, észrevételt, de minden esetben alá kell írniuk.
-
-Az ügyfél figyelmét előre fel kell hívni arra, hogy az általa elmondottak, rendelkezésre bocsátott adatok alapján történik meg a foglalkoztathatóságának minősítése és ezzel kapcsolatosan minden, a megítéléshez szükséges tájékoztatást a valóságnak megfelelően kell megadnia.
-
-A rehabilitálhatóság minősítésének foglalkozási szempontjainál figyelembe veendő körülmények, feltételek:
-
-1. Foglalkoztatási előzmények értékeléséhez:
-
-a) statikusak – ugyanazt, vagy ugyanazt a néhány készséget terhelő tevékenységet végzett (ez piacképes / nem piacképes),
-
-b) dinamikusak – változatos, összefüggő, egymásra épülő tevékenységek, sokrétű terhelés (vannak benne piacképes elemek),
-
-c) dinamikus, összefüggéstelen – többféle, egymástól független tevékenység (vannak benne piacképes elemek),
-
-d) átlagostól eltérő munkaszervezési, illetve munkakörülmények (önkéntes munka, változó munkahely, több műszakos munkarend),
-
-e) nincs mértékadó munkaerő-piaci előzmény,
-
-f) közösségi (alkalmazotti) munkaerő-piaci tapasztalata van / csak családi vállalkozásban dolgozott / önállóan dolgozott,
-
-g) személyes közreműködés nélküli jövedelemszerzési lehetősége van,
-
-h) legalább 1 évig ellátott munkatevékenységek (nem munkaviszonyok is!).
-
-2. Képzettségi, tanulmányi előzmények értékeléséhez:
-
-a) iskolai végzettség szintje,
-
-b) szakképzettség(ek),
-
-c) szakmaváltások száma eddigi élete során,
-
-d) felnőtt életében szerzett képzettségek szintje, száma,
-
-e) felnőtt életében elért végzettség szintje,
-
-f) jártasságok (hobby is).
-
-3. Személyes érdeklődésének összhangja a foglalkoztatási lehetőségekkel:
-
-a) érdeklődési körök feltérképezése,
-
-b) szabadidős tevékenységek megismerése,
-
-c) önismeret szintjének felmérése,
-
-d) jövőkép meglétének vizsgálata,
-
-e) munkavállaláshoz kapcsolódó elvárások, attitűdök tisztázása,
-
-f) motiváltság felmérése.
-
-4. Életpálya karaktere, munkára szocializáltsága, életútjának értékeléséhez:
-
-a) általában: van-e aktuális képe, ismerete a munka világáról, illetve reális önértékelése,
-
-b) folyamatos munka, rövid távollét a munkaerőpiactól,
-
-c) folyamatos munka, utoljára hosszú távollét a munka világától (több mint 2 év),
-
-d) instabil foglalkoztatási helyzet, sok munkahely, hosszabb-rövidebb idővel tarkítva, vagy többségében támogatott előzmények (alkalmi munka is),
-
-e) még nem dolgozott.
-
-5. Életkora:
-
-a) 45 év feletti életkor – az előző feltételek negatív elemeinek túlsúlya esetén – akadálynak tekinthető,
-
-b) 50 éves kor felett idősödő – akadályozó tényező,
-
-c) 25 év alatti (felsőfokú végzettség: 30 év alatti) életkor – gyakorlat hiányában – hátrány.
-
-6. Mobilitási képessége, lehetősége, lakóhely-munkahely:
-
-a) tömegközlekedési lehetőség – objektív – megléte,
-
-b) tömegközlekedési lehetőség igénybevételének képessége (fizikai, anyagi),
-
-c) személygépkocsi van / nincs,
-
-d) ha van: munkába járásra használható, finanszírozása gondot okoz / nem okoz gondot, költségtérítéssel, támogatással megoldható-e?
-
-7. Speciális foglalkoztatási feltételek szükségessége:
-
-a) foglalkoztatása során speciális feltételeket igényel-e (környezet, segítő, munkaszervezés akadálymentesítés, vagy egyénre szabott segédeszközzel is megoldható stb.),
-
-b) egyszeri megoldást igényel vagy folyamatosat.
-
-8. Munkahelyi terhelhetősége:
-
-a) átlagos, felkészítést, segítést nem igényel,
-
-b) felkészítéssel átlagos,
-
-c) csak részmunkaidőben,
-
-d) csak távmunka, bedolgozói jogviszony keretében,
-
-e) az elérhető foglalkozásokhoz szükséges készségek egyike vagy többsége miatt csak időlegesen terhelhető (napi 4 órát el nem érően),
-
-f) piaci viszonyok között / szociális foglalkoztatás keretében foglalkoztatható,
-
-g) csak akkreditált foglalkoztatónál lehetséges a foglalkoztatása,
-
-h) csak különleges körülmények és egyéni erőfeszítések árán foglalkoztatható.
-
-9. Egyéb hátrányos helyzetű csoporthoz tartozás:
-
-a) pályakezdő,
-
-b) nemzeti kisebbséghez tartozó,
-
-c) kisgyermekes (különösen, ha gyermekeit egyedül neveli),
-
-d) alulképzett,
-
-e) tartós munkanélküli,
-
-f) régóta (legalább 2 éve) inaktív,
-
-g) kereső tevékenységet soha sem folytatott.
-
-10. Életmód:
-
-a) összességében támogató / nem támogató,
-
-b) sport, más rendszeres hobby tevékenység,
-
-c) káros szenvedélyek,
-
-d) társadalmi kapcsolatok (valamilyen csoport tevékeny tagja, résztvevője).
-
-11. Egyéb akadályozó korlátozó tényezők:
-
-a) Van / nincs.
-
-Az egyéni, személyes élethelyzet feltárása során olyan sajátos, egyedi körülmények, élethelyzetek vehetőek figyelembe, amelyek a többi szempontban nem jeleníthetőek meg, vagy nem kellő súllyal. Itt kell figyelembe venni a cselekvőképességet korlátozó gondnokság tényét is. A figyelembe vett körülmények, szempontok tételes felsorolása szükséges!
-
-.
-
-12. Meglévő, felajánlható foglalkozás munkaerőpiaci pozíciója:
-
-a) a rehabilitációt követően egyetlen munkakör, kevés munkakörben gyakorolható szakma, vagy széles körben, többféle foglalkozásban hasznosítható képzettség, kompetencia segíti / nem akadályozza az elhelyezkedést,
-
-b) az adott foglalkozás(ok), munkakör(ök) egy éven belüli forgalmi adatai az érintett kirendeltségen, illetve a közlekedéssel elérhető térségekben,
-
-c) a foglalkozás gyakorlásának a lehetőségei
-
-ca) munkavállalóként,
-
-cb) vállalkozásban (a vállalkozás tőkeigényes, kevésbé, egyáltalán nem az),
-
-cc) közszférában és a gazdasági szférában, közfoglalkoztatásban egyaránt,
-
-cd) közszférában és a nonprofit szférában,
-
-ce) csak közfoglalkoztatásban.
-
-13. Foglalkoztatási lehetőségek, munkáltatók:
-
-a) nyílt munkaerőpiacra való bekerülés lehetősége, közvetlen elérhetőség lehetősége adott, szolgáltatással biztosítható,
-
-b) csak akkreditált – védett – munkáltatónál,
-
-c) közfoglalkoztatásban történő foglalkoztatással.
-
-14. Térség foglalkoztatási helyzete, perspektívák:
-
-a) a piac jellegzetességei: dinamikus, megújulni képes, vagy statikus, függő (jellemzően betanított munka és bérmunka),
-
-b) van-e a térségnek saját növekedési potenciálja,
-
-c) a munkanélküliségi ráta aktuálisan és az előző évben (tendencia),
-
-d) adott pozíciójú munkanélküli (álláskereső) elhelyezési esélyei (átlagos idő),
-
-e) a helyi munkaerő-prognózisok jelzései, a foglalkoztatók száma, jellege,
-
-f) van-e a térségben húzó ágazathoz tartozó tevékenység (munkaerőigények jellemzője),
-
-g) van-e folyamatban az adott személy számára potenciális munkakínálatot jelentő beruházás (mérete, munkaerőigény összetétele),
-
-h) van-e ismert projekt, aminek következménye jelentős foglalkoztatás-bővüléssel jár,
-
-i) lehet-e a térség foglalkoztatási szerkezetében jelentős kedvezőtlen változásra számítani,
-
-j) közfoglalkoztatási lehetőségek (folyamatban lévő, induló, országos, térségi, helyi közmunkák).
-
-15. Foglalkoztatása esetén igénybe vehető kedvezmények, támogatások:
-
-a) Javíthatják munkaerőpiaci pozícióját / nem relevánsak az adott személy vonatkozásában a térség munkáltatóinál
-
-aa) foglalkoztatási támogatások igénybe vehetőek,
-
-ab) adókedvezmények igénybe vehetőek,
-
-ac) rehabilitációs hozzájárulás fizetése alól mentesítés,
-
-ad) rehabilitációs kártya nyújtotta kedvezmények igénybevétele.
-
-b) Munkaerőpiaci programba történő bevonás és azon belüli támogatás lehetősége.
+[^25]: A 2. mellékletet a 17/2024. (III. 13.) BM rendelet 4. § f) pontja hatályon kívül helyezte.
