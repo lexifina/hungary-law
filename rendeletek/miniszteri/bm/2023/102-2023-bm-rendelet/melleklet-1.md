@@ -1,3 +1,3 @@
-1. melléklet a 102/2023. (XII. 29.) BM rendelethez[^11]
+1. melléklet a 102/2023. (XII. 29.) BM rendelethez[^9]
 
-[^11]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
