@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-0
 | 2021-05-01 | 2015-10-20-06.12 | 3/2021. (IV. 30.) IM rendelet |
 | 2022-01-01 | 2015-10-20-06.13 | 19/2021. (XII. 27.) IM rendelet |
 | 2023-05-23 | 2015-10-20-06.14 | 3/2023. (V. 22.) IM rendelet |
+| 2024-05-01 | 2015-10-20-06.15 | 7/2024. (IV. 30.) IM rendelet |
