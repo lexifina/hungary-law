@@ -1,0 +1,1 @@
+17. § Ha a használatbavételi eljárást megelőzően a repülőtér vagy egyes berendezései, építményrészei műszaki átadásra kerülnek, akkor erről a Hatóságot 8 nappal azt megelőzően értesíteni kell. A Hatóság a műszaki átadáson – szükség esetén – részt vesz és megállapításait közli, amelyeket a használatbavételi engedély kiadásakor figyelembe kell venni.

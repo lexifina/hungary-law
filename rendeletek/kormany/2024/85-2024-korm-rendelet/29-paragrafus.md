@@ -1,0 +1,1 @@
+29. § A leszállóhely létesítésének engedélyezéséről szóló határozatban rögzített határnap, időtartam elteltével, a leszállóhelyhez kapcsolódó minden jogosultság megszűnik. A jogosultság e szakasz szerinti megszűnése az ezen rendelet 28. § d) pontjában meghatározott kötelezettséget nem érinti.

@@ -1,0 +1,1 @@
+19. § A kérelem elbírálása során a Hatóság meggyőződik arról is, hogy az építészeti-műszaki tervdokumentációban foglaltak megfelelnek-e a vonatkozó előírásoknak, vagy az azoktól eltérő, tervezett műszaki megoldás engedélyezett vagy engedélyezhető-e, továbbá az Lt. 37. § (1) bekezdés a) pont ac) alpontjába tartozó repülőtér esetében megfelelnek-e a vonatkozó ICAO előírásoknak.
