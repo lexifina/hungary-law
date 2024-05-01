@@ -40,11 +40,11 @@ d) diphtheria-tetanus-sejtmentes pertussis és inaktivált poliovírus tartalmú
 
 e)[^14] pneumococcus elleni oltás harmadik részlete és a bárányhimlő elleni oltás első részlete betöltött 12 hónapos korban,
 
-f)[^15] bárányhimlő elleni oltás első részlete betöltött 13 hónapos korban,
+f)[^15]
 
 g)[^16] morbilli-mumpsz-rubeola elleni trivalens oltóanyaggal végzett oltás és a bárányhimlő elleni oltás második részlete betöltött 15 hónapos korban,
 
-h)[^17] bárányhimlő elleni oltás második részlete betöltött 16 hónapos korban,
+h)[^17]
 
 i)[^18] diphtheria-tetanus-sejtmentes pertussis és inaktivált poliovírus tartalmú oltóanyaggal végzett, valamint a Hib elleni oltás negyedik részlete betöltött 18 hónapos korban,
 
@@ -91,9 +91,9 @@ betöltéséig áll fenn.
 [^12]: Az 5. § (1) bekezdés l) pontját a 12/2019. (VII. 3.) EMMI rendelet 1. § (1) bekezdése iktatta be.
 [^13]: Az 5. § (2) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^14]: Az 5. § (2) bekezdés e) pontja a 102/2023. (XII. 29.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^15]: Az 5. § (2) bekezdés f) pontja a 12/2019. (VII. 3.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (2) bekezdés f) pontját a 102/2023. (XII. 29.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
 [^16]: Az 5. § (2) bekezdés g) pontja a 102/2023. (XII. 29.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (2) bekezdés h) pontja a 12/2019. (VII. 3.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (2) bekezdés h) pontját a 102/2023. (XII. 29.) BM rendelet 8. § a) pontja hatályon kívül helyezte.
 [^18]: Az 5. § (2) bekezdés i) pontját a 12/2019. (VII. 3.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^19]: Az 5. § (2) bekezdés j) pontját a 12/2019. (VII. 3.) EMMI rendelet 1. § (3) bekezdése iktatta be.
 [^20]: Az 5. § új (3) bekezdését a 33/2005. (VIII. 24.) EüM rendelet 1. § (3) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. Az 5. § (3) bekezdése a 23/2014. (III. 27.) EMMI rendelet 1. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 8. § (2) bekezdés 2. pontja szerint módosított szöveg.
