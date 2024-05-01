@@ -6,7 +6,7 @@
 
 (3) A Millenáris Alapítvány kuratóriumának elnökét és tagjait a miniszter jelöli ki.
 
-(4) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVAtv.) 1. mellékletében meghatározott közfeladatainak és közérdekű céljának megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett. A kártalanítás mértéke megegyezik a határozott idejű bérleti jogviszonyból még hátralévő évek és a Millenáris Tudományos Kulturális Nonprofit Kft.-vel szerződéses jogviszonyban álló fél e törvény hatálybalépését megelőző három üzleti évének adózott eredménye átlagának szorzatával.
+(4) A közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény (a továbbiakban: KEKVAtv.) 1. mellékletében meghatározott közfeladatainak és közérdekű céljának megvalósítása érdekében a Millenáris Tudományos Kulturális Nonprofit Korlátolt Felelősségű Társaság (a továbbiakban: Millenáris Tudományos Kulturális Nonprofit Kft.) valamennyi egy évet meghaladó időtartamú, határozott időre szóló bérleti jogviszonya e törvény erejénél fogva e törvény hatálybalépésének napjával megszűnik, a bérlők azonnali és teljes kártalanítása mellett.
 
 (5)
 
