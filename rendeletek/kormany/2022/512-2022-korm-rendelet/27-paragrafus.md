@@ -10,6 +10,6 @@ c) a szabálytalansági döntést megsemmisíti, és – a szabálytalansági gy
 
 (3) A nemzeti hatóság tájékoztatja az érintetteket a jogorvoslati döntésről.
 
-(4)[^35] A jogorvoslati eljárást a jogorvoslati kérelem beérkezésétől számított negyvenöt napon belül le kell folytatni.
+(4)[^47] A jogorvoslati eljárást a jogorvoslati kérelem beérkezésétől számított negyvenöt napon belül le kell folytatni.
 
-[^35]: A 27. § (4) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^47]: A 27. § (4) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § d) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

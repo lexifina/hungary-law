@@ -1,3 +1,3 @@
-68. §[^57] Az 58/A. és 59/A. § az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24.) hatálya alá tartozó támogatást tartalmaz.
+68. §[^86] Az 58/A. és 59/A. § az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet (HL L 2023.12.15.) hatálya alá tartozó támogatást tartalmaz.
 
-[^57]: A 68. § a 339/2023. (VII. 25.) Korm. rendelet 42. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^86]: A 68. § a 339/2023. (VII. 25.) Korm. rendelet 42. §-ával megállapított, a 90/2024. (IV. 23.) Korm. rendelet 15. § o) pontja szerint módosított szöveg.

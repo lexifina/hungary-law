@@ -2,7 +2,7 @@
 
 ## A TRANSZNACIONÁLIS ÉS INTERREGIONÁLIS EGYÜTTMŰKÖDÉSI PROGRAMOK HAZAI SZINTŰ LEBONYOLÍTÁSÁNAK RÉSZLETES SZABÁLYAI
 
-## 3/A.[^22] A Transznacionális és Interregionális Együttműködés (2021–2027) előirányzat felhasználási szabályai
+## 3/A.[^28] A Transznacionális és Interregionális Együttműködés (2021–2027) előirányzat felhasználási szabályai
 
 4/A. § (1) Az európai területi együttműködési célkitűzés keretében megvalósuló 2021–2027 közötti transznacionális és − az URBACT program kivételével − az interregionális együttműködési programok esetében a hazai végrehajtáshoz kapcsolódóan felmerülő kiadások és támogatások fedezetét a központi költségvetés XIX. Uniós fejlesztések fejezet, 3. Központi kezelésű előirányzatok cím, 12. Transznacionális és Interregionális Együttműködés (2021–2027) alcíme (a továbbiakban: előirányzat) biztosítja.
 
@@ -22,7 +22,7 @@ d) a hitelesítési tevékenységre kijelölt szervezetnek (ezen alcím alkalmaz
 
 e) a DRP irányító hatóságának e rendeletben meghatározott feladatai kapcsán az európai uniós hozzájárulás visszatérítendő támogatásként történő megelőlegezése, valamint
 
-f) a DRP audit hatóságának e rendeletben meghatározott feladatai kapcsán az európai uniós hozzájárulás visszatérítendő támogatásként történő megelőlegezése
+f)[^29]
 
 finanszírozására szolgál.
 
@@ -30,4 +30,5 @@ finanszírozására szolgál.
 
 (4) Az előirányzat-felhasználási keretszámla vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
 
-[^22]: A 3/A. alcímet (4/A-4/H. §-t) a 339/2023. (VII. 25.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^28]: A 3/A. alcímet (4/A-4/H. §-t) a 339/2023. (VII. 25.) Korm. rendelet 27. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^29]: A 4/A. § (2) bekezdés f) pontját a 90/2024. (IV. 23.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.

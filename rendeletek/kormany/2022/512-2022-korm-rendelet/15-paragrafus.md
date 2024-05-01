@@ -2,4 +2,6 @@
 
 (2) A szabálytalanság-felelős megvizsgálhat bármely dokumentumot, körülményt, tényt, amely a szabálytalanság gyanújával kapcsolatos tényállás tisztázásához szükséges.
 
-(3) Ha a szabálytalanság megállapításához a Közbeszerzési Döntőbizottság, más hatóság vagy bíróság előzetes döntése vagy szakértői vizsgálat szükséges, a szabálytalansági vizsgálatot külön döntés nélkül fel kell függeszteni a Közbeszerzési Döntőbizottság, a hatáskörrel rendelkező hatóság vagy bíróság döntésének közléséig vagy a szakvélemény kézhezvételéig. A felfüggesztés időtartama az ügyintézési határidőbe nem számít bele.
+(3)[^39] Ha a szabálytalanság megállapításához a Közbeszerzési Döntőbizottság, más hatóság vagy bíróság előzetes döntése vagy szakértői vizsgálat szükséges, a szabálytalansági vizsgálatot a szabálytalanság-felelős külön döntés nélkül felfüggeszti a Közbeszerzési Döntőbizottság, a hatáskörrel rendelkező hatóság vagy bíróság döntésének közléséig vagy a szakvélemény kézhezvételéig. A felfüggesztés időtartama az ügyintézési határidőbe nem számít bele.
+
+[^39]: A 15. § (3) bekezdése a 90/2024. (IV. 23.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.

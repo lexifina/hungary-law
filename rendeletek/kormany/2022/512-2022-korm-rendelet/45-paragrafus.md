@@ -6,6 +6,6 @@
 
 (3) A DRP irányító hatóság vezetője és munkatársai alkalmazásának általános feltételeit, így a finanszírozott álláshelyek számát és a javadalmazási rendszer általános kereteit (a fizetési kategóriákat, az illetményen vagy munkabéren felüli juttatást, indexálást) a monitoring bizottság határozza meg.
 
-(4)[^43] A DRP irányító hatóság vezetője kinevezésekor és felmentésekor, valamint munkatársai munkaviszonyának létesítésekor és megszüntetésekor a területfejlesztésért felelős miniszter által vezetett minisztérium előzetesen egyeztet a program monitoring bizottságával.
+(4)[^62] A DRP irányító hatóság vezetője kinevezésekor és felmentésekor, valamint munkatársai munkaviszonyának létesítésekor és megszüntetésekor a területfejlesztésért felelős miniszter által vezetett minisztérium előzetesen egyeztet a program monitoring bizottságával.
 
-[^43]: A 45. § (4) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 44. §-a szerint módosított szöveg.
+[^62]: A 45. § (4) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 44. §-a szerint módosított szöveg.

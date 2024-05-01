@@ -10,4 +10,6 @@
 
 (5) Az audit hatóság az első éves kontrolljelentésnek és auditvéleménynek a Bizottság részére való megküldését követően, évente felülvizsgálja az auditstratégiát.
 
-(6) Az audit hatóság az auditstratégiában foglaltaknak megfelelően minden év május 31. napjáig elkészíti az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld az államháztartásért felelős miniszter, valamint a DRP irányító hatóság részére.
+(6)[^63] Az audit hatóság az auditstratégiában foglaltaknak megfelelően elkészíti az éves ellenőrzési tervét, melyet tájékoztatás céljából megküld a DRP irányító hatóság részére.
+
+[^63]: Az 52. § (6) bekezdése a 90/2024. (IV. 23.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.

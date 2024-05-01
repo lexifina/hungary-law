@@ -4,4 +4,6 @@
 
 (3) A hitelesítési tevékenységre kijelölt szervezet vezetője a (2) bekezdés szerinti javaslat alapján dönt a szabálytalansági vizsgálat megindításáról, mellőzéséről vagy elutasításáról, a kifizetések felfüggesztéséről.
 
-(4) Szabálytalansági vizsgálat az Európai Bizottságnak az együttműködési program lezárásáról szóló döntése kiadásától számított 3. év végéig indítható meg.
+(4)[^38]
+
+[^38]: A 14. § (4) bekezdését a 90/2024. (IV. 23.) Korm. rendelet 16. § b) pontja hatályon kívül helyezte.

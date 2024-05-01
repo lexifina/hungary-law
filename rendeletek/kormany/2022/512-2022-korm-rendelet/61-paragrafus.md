@@ -1,24 +1,15 @@
 ## 28. A csekély összegű támogatás
 
-61. § (1)[^52] Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1407/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a kétszázezer eurónak, közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző, egy és ugyanazon vállalkozásnak minősülő vállalkozások esetén a százezer eurónak megfelelő forintösszeget, figyelembe véve az 1407/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését.
+61. §[^84] (1) A partner vállalkozás és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó, bármely három év során Magyarországon odaítélt csekély összegű támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a háromszázezer eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2831 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt Magyarországon odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(2) A partnernek az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év (háromszor háromszázhatvanöt nap) során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(3) Az 1407/2013/EU bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet partner az a vállalkozás, amely az igényelt támogatást az 1407/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
+(3) A támogatást nyújtó a partner részére az (EU) 2023/2831 bizottsági rendelet 7. cikk (4) bekezdésével összhangban igazolást állít ki a támogatás összegéről bruttó támogatási egyenértékben kifejezve, és annak csekély összegű jellegéről, közvetlenül utalva az (EU) 2023/2831 bizottsági rendeletre.
 
-(4) Nem nyújtható támogatás a közúti kereskedelmi árufuvarozást ellenszolgáltatásért végző vállalkozás részére teherszállító jármű vásárlására.
+(4) Az (EU) 2023/2831 bizottsági rendelet 1. cikk (2) bekezdésében foglaltak kivételével nem lehet partner az a vállalkozás, amely az igényelt támogatást az (EU) 2023/2831 bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-(5) A támogatás a csekély összegű közszolgáltatási támogatással az EUMSz 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
+(5) A támogatás a csekély összegű közszolgáltatási támogatással az EUMSz 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendeletben meghatározott felső határig halmozható. A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az adott bizottsági rendeletben alkalmazandó legmagasabb felső határig halmozható.
 
-(6) A támogatás nem halmozható azonos elszámolható költségek vagy azonos célú kockázatfinanszírozási intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+(6) A támogatás halmozható azonos elszámolható költségek vagy azonos célú kockázatfinanszírozási intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(7)[^53] A partnernek az 1407/2013/EU bizottsági rendelet 5. cikk (1) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
-
-(8)[^54]
-
-(9)[^55]
-
-[^52]: A 61. § (1) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 43. § l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^53]: A 61. § (7) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 44. § (1) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^54]: A 61. § (8) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 44. § (1) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^55]: A 61. § (9) bekezdését a 339/2023. (VII. 25.) Korm. rendelet 44. § (1) bekezdés d) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^84]: A 61. § a 90/2024. (IV. 23.) Korm. rendelet 13. §-ával megállapított szöveg.
