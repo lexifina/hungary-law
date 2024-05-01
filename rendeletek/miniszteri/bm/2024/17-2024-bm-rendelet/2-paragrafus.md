@@ -1,0 +1,3 @@
+2. § Az Nr. 2. alcíme a következő 8. §-sal egészül ki:
+
+„8. § A komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet módosításáról szóló 17/2024. (III. 13.) BM rendelet (a továbbiakban: Módr.) által megállapított, illetve hatályát vesztett 3. § (2) bekezdés b) és d) pontját, 4. § (1) bekezdés b) és c) pontját, (1a), (1b) és (2) bekezdését, 5. § (1) bekezdés c) pontját, 5. § (2) bekezdés c) pontját, 6/C. § (2) bekezdését, valamint 2. és 3. mellékletét a Módr. hatálybalépésének napján folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.”
