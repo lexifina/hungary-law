@@ -30,7 +30,7 @@
 
 14. hazai társfinanszírozás: az uniós támogatás hazai kedvezményezettje részére nyújtott vissza nem térítendő hazai támogatás, amelyre a hazai kedvezményezett a hitelesítési tevékenységre kijelölt szervezettel támogatási szerződést köt,
 
-15. hiba: az Interreg programra vonatkozó közösségi és nemzeti jogszabályok által meghatározott, valamint a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségek megsértése abban az esetben, ha a hazai társfinanszírozás még nem tekinthető elszámoltnak,
+15.[^3] hiba: a transznacionális és interregionális programra vonatkozó uniós és nemzeti jogszabályok által meghatározott, valamint a hazai társfinanszírozási szerződésben a felek által vállalt kötelezettségek megsértése abban az esetben, ha a hazai társfinanszírozás még nem tekinthető elszámoltnak,
 
 16. hitelesítés: az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikk (4) bekezdése szerinti, a hitelesítési tevékenységre kijelölt szervezet által végzett mindazon folyamatba épített adminisztratív, pénzügyi, szakmai és helyszíni ellenőrzés, amely annak megállapítására irányul, hogy a hazai kedvezményezett a támogatási, valamint a hazai társfinanszírozási szerződésben rögzített kötelezettségeit a vonatkozó uniós és hazai jogszabályokkal összhangban teljesítette,
 
@@ -44,7 +44,7 @@
 
 21. irányító hatóság: az 1303/2013/EU európai parlamenti és tanácsi rendelet 123. cikk (1) bekezdése szerinti szervezet,
 
-22.[^3] irányító hatóság és közös titkárság: a Duna Transznacionális Programban részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztésért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke alapján az 1303/2013/EU rendelet 125. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
+22.[^4] irányító hatóság és közös titkárság: a Duna Transznacionális Programban részt vevő partnerországok által kijelölt integrált menedzsment szervezet, amely a területfejlesztésért felelős miniszter által vezetett minisztérium funkcionálisan önálló szervezeti egységeként az 1299/2013/EU európai parlamenti és tanácsi rendelet 23. cikke alapján az 1303/2013/EU rendelet 125. cikkében meghatározott, valamint a Programdokumentumban és a Programkiegészítő Dokumentumban lefektetett feladatokat látja el,
 
 23. kis összegű követelés: a kettőszázötven eurót meg nem haladó hazai társfinanszírozásra vonatkozó követelés, valamint a százezer forintot meg nem haladó uniós támogatás megelőlegezésre vonatkozó követelés,
 
@@ -95,4 +95,5 @@
 (2) Az (1) bekezdésben nem értelmezett fogalmakat az 1303/2013/EU európai parlamenti és tanácsi rendelet, valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet szerint kell értelmezni.
 
 [^2]: Az 1/A. alcímet (1/A. §-t) a 339/2023. (VII. 25.) Korm. rendelet 6. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^3]: Az 1/A. § (1) bekezdés 22. pontja az 599/2023. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^3]: Az 1/A. § (1) bekezdés 15. pontja a 90/2024. (IV. 23.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^4]: Az 1/A. § (1) bekezdés 22. pontja az 599/2023. (XII. 22.) Korm. rendelet 11. §-a szerint módosított szöveg.

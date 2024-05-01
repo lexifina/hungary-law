@@ -1,10 +1,10 @@
-## 2/A. §[^4] A Magyar Államkincstár látja el a DTP eMS rendszer szoftverfejlesztését és alkalmazás-, illetve infrastruktúra-üzemeltetését.
+## 2/A. §[^5] A Magyar Államkincstár látja el a DTP eMS rendszer szoftverfejlesztését és alkalmazás-, illetve infrastruktúra-üzemeltetését.
 
 ## II. Fejezet
 
 ## A TRANSZNACIONÁLIS ÉS INTERREGIONÁLIS EGYÜTTMŰKÖDÉSI PROGRAMOK HAZAI SZINTŰ LEBONYOLÍTÁSÁNAK RÉSZLETES SZABÁLYAI
 
-## 2/A.[^5] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat felhasználási szabályai
+## 2/A.[^6] A Transznacionális és Interregionális Együttműködés (2014–2020) előirányzat felhasználási szabályai
 
 2/B. § (1) Az európai területi együttműködési célkitűzés keretében megvalósuló 2014–2020 közötti transznacionális és – az URBACT program kivételével – az interregionális együttműködési programok esetében a hazai végrehajtáshoz kapcsolódóan felmerülő kiadások és támogatások fedezetét a központi költségvetés XIX. Uniós fejlesztések fejezet, 3. Központi kezelésű előirányzatok cím, 11. Transznacionális és Interregionális Együttműködés (2014–2020) alcíme (a továbbiakban: előirányzat) biztosítja.
 
@@ -32,5 +32,5 @@ finanszírozására szolgál.
 
 (4) Az előirányzat-felhasználási keretszámla vezetésével és forgalmával kapcsolatban felmerült költség elszámolása a központi költségvetésből történik.
 
-[^4]: A 2/A. §-t a 255/2016. (VIII. 24.) Korm. rendelet 1. §-a iktatta be, szövege a 92/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^5]: A 2/A. alcímet (2/B-2/I. §-t) a 339/2023. (VII. 25.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^5]: A 2/A. §-t a 255/2016. (VIII. 24.) Korm. rendelet 1. §-a iktatta be, szövege a 92/2019. (IV. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2/A. alcímet (2/B-2/I. §-t) a 339/2023. (VII. 25.) Korm. rendelet 7. §-a iktatta be. Alkalmazására lásd e módosító rendelet 59. §-át.
