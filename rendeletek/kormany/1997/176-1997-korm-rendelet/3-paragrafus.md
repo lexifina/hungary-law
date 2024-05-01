@@ -34,9 +34,9 @@ E jelű övezet:
 
 (3) D jelű övezetet csak olyan területeken szabad kijelölni, ahol a közlekedési zaj nappali terhelési határértéke 65 dB-nél, éjszakai határértéke 55 dB-nél kisebb.
 
-(4)[^4] Az (1) bekezdéstől eltérően a légiközlekedési hatóság E jelű övezetet jelöl ki olyan területen is, ahol a közlekedési zaj nappali határértéke 55 dB-nél, éjszakai határértéke 45 dB-nél kisebb, és a terület olyan, a településrendezési terv szerinti különleges terület, amely egészségügyi intézmény épületének elhelyezésére szolgál.
+(4)[^5] Az (1) bekezdéstől eltérően a légiközlekedési hatóság E jelű övezetet jelöl ki olyan területen is, ahol a közlekedési zaj nappali határértéke 55 dB-nél, éjszakai határértéke 45 dB-nél kisebb, és a terület olyan, a településrendezési terv szerinti különleges terület, amely egészségügyi intézmény épületének elhelyezésére szolgál.
 
-(5)[^5] A légiközlekedési hatóságnak D, valamint E jelű övezet kijelölése előtt különös gonddal kell vizsgálnia a repülőtér működtetésének módosításával elérhető zajcsökkentési lehetőségeket. Ilyen övezetek csak akkor jelölhetők ki, ha a repülőtér működésének ellehetetlenítése nélkül a környezeti zajterhelés nem csökkenthető határérték alá.
+(5)[^6] A légiközlekedési hatóságnak D, valamint E jelű övezet kijelölése előtt különös gonddal kell vizsgálnia a repülőtér működtetésének módosításával elérhető zajcsökkentési lehetőségeket. Ilyen övezetek csak akkor jelölhetők ki, ha a repülőtér működésének ellehetetlenítése nélkül a környezeti zajterhelés nem csökkenthető határérték alá.
 
-[^4]: A 3. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^5]: A 3. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 3. § (4) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: A 3. § (5) bekezdése a 168/2007. (VI. 28.) Korm. rendelet 5. § (1) bekezdése szerint módosított szöveg.

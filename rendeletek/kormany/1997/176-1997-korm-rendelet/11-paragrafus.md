@@ -8,7 +8,7 @@
 
 (4) A D és az E jelű övezetekben lakóépület, lakás a repülési zaj területre jellemző speciális tulajdonságainak figyelembevételével létesíthető (pl. a szobák megfelelő tájolása).
 
-(5)[^24] Az (1)–(3) bekezdés szerinti korlátozások nem vonatkoznak az e rendelet hatálybalépését megelőzően már működő repülőterek zajgátló védőövezetében korábban létesített lakóépületek bővítésére és a külön jogszabály[^25] szerint lakóterület besorolású területen e rendelet hatálybalépését megelőzően lakóépületek elhelyezésére kialakított építési telkek beépítésére.
+(5)[^25] Az (1)–(3) bekezdés szerinti korlátozások nem vonatkoznak az e rendelet hatálybalépését megelőzően már működő repülőterek zajgátló védőövezetében korábban létesített lakóépületek bővítésére és a külön jogszabály[^26] szerint lakóterület besorolású területen e rendelet hatálybalépését megelőzően lakóépületek elhelyezésére kialakított építési telkek beépítésére.
 
-[^24]: A 11. § (5) bekezdése az 53/2004. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^25]: Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 6. §-a (3) bekezdésének a) pontja.
+[^25]: A 11. § (5) bekezdése az 53/2004. (III. 31.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^26]: Az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 6. §-a (3) bekezdésének a) pontja.

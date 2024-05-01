@@ -1,8 +1,8 @@
-## 30. §[^53] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
+## 30. §[^54] Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-31. §[^54] Ez a rendelet az Unió repülőterein a zajvédelemmel összefüggő üzemeltetési korlátozások bevezetésére vonatkozó szabályok és eljárások megállapításáról a kiegyensúlyozott megközelítés jegyében, valamint a 2002/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i, 598/2014/EU európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
+31. §[^55] Ez a rendelet az Unió repülőterein a zajvédelemmel összefüggő üzemeltetési korlátozások bevezetésére vonatkozó szabályok és eljárások megállapításáról a kiegyensúlyozott megközelítés jegyében, valamint a 2002/30/EK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i, 598/2014/EU európai parlamenti és tanácsi rendelet végrehajtását szolgálja.
 
-Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^55]
+Melléklet a 176/1997. (X. 11.) Korm. rendelethez[^56]
 
 A Budapest Liszt Ferenc Nemzetközi Repülőtéren zajgátló védőövezet hiányában betartandó előírások
 
@@ -40,6 +40,6 @@ A Budapest Liszt Ferenc Nemzetközi Repülőtéren zajgátló védőövezet hiá
 
 6. A repülőtér üzemben tartója negyedévenként köteles tájékoztatni a légiközlekedési hatóságot a forgalommegoszlás alakulásáról.
 
-[^53]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
-[^54]: A 31. §-t a 135/2016. (VI. 10.) Korm. rendelet 5. §-a iktatta be.
-[^55]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be, szövege a 135/2016. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^54]: A 30. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 1. § 1320. pontja hatályon kívül helyezte.
+[^55]: A 31. §-t a 135/2016. (VI. 10.) Korm. rendelet 5. §-a iktatta be.
+[^56]: A mellékletet az 53/2004. (III. 31.) Korm. rendelet 16. §-a iktatta be, szövege a 135/2016. (VI. 10.) Korm. rendelet 6. §-ával megállapított szöveg.

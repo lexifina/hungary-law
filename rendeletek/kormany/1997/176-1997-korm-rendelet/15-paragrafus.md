@@ -2,8 +2,8 @@
 
 a) az A jelű övezetben az ingatlan megvásárlását vagy a b) pont szerinti intézkedések végrehajtását;
 
-b)[^27] az A és a B jelű övezetben a teljes épület megfelelő passzív akusztikai védelmét, beleértve a belsőtéri határértékek teljesüléséhez szükséges, a fal- és födémszerkezetre vonatkozó módosításokat és védelmet is;
+b)[^28] az A és a B jelű övezetben a teljes épület megfelelő passzív akusztikai védelmét, beleértve a belsőtéri határértékek teljesüléséhez szükséges, a fal- és födémszerkezetre vonatkozó módosításokat és védelmet is;
 
 c) a C jelű övezetben a lakó- és hálóhelyiségek nyílászáró szerkezeteinek megfelelő passzív akusztikai védelmét.
 
-[^27]: A 15. § b) pontja az 53/2004. (III. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^28]: A 15. § b) pontja az 53/2004. (III. 31.) Korm. rendelet 9. §-ával megállapított szöveg.
