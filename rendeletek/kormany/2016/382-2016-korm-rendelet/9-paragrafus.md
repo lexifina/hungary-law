@@ -166,57 +166,57 @@ d) a polgári célú légiközlekedés földi létesítményeire és a polgári 
 
 70.[^124] a településfejlesztési terv és a településrendezési terv légiközlekedéssel érintett település esetében történő egyeztetési eljárásai,
 
-71. eljár az állami repülések céljára szolgáló és a közös felhasználású repülőterek kivételével a repülőtér elvi létesítésének engedélyezésére, létesítésének engedélyezésére, használatbavételének engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban,
+71.[^125] eljár az állami repülések céljára szolgáló és a közös felhasználású repülőterek kivételével a repülőtér létesítésének engedélyezésére, megszüntetésére és fejlesztésére irányuló eljárásban,
 
 72. eljár a leszállóhely létesítésére irányuló eljárásban és a létesítés megtiltásában,
 
 73. építésügyi hatóságként eljár a repülőtér területén lévő, a repülőtér létesítésének, fejlesztésének és megszüntetésének szabályairól szóló kormányrendelet hatálya alá tartozó általános építményekkel kapcsolatos eljárásokban,
 
-74.[^125] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
+74.[^126] a légiközlekedés alágazatba tartozó létfontosságú rendszerek és létesítmények azonosítása, kijelölése, kijelölésének visszavonása és védelme tekintetében ágazati kijelölő hatóságként és helyszíni ellenőrzést lefolytató szervként jár el,
 
-75.[^126] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
+75.[^127] vízi repülőtéren hajózási szolgálatot teljesítő személy egészségügyi alkalmassága soron kívüli vizsgálatának előírása,
 
-76.[^127] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
+76.[^128] közreműködés a vízi repülőteret is érintő vízi sportpálya kijelölésében.
 
-77.[^128] Ellátja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 70. és 71. cikkében a tagállamok számára meghatározott feladatokat.
+77.[^129] Ellátja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 70. és 71. cikkében a tagállamok számára meghatározott feladatokat.
 
-78.[^129] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
+78.[^130] az (EU) 2020/723 bizottsági felhatalmazáson alapuló rendelettel összhangban elfogadhatja a harmadik országok jogszabályaival összhangban kibocsátott pilóta-szakszolgálati engedélyeket és a kapcsolódó jogosításokat, jogosultságokat vagy tanúsítványokat, valamint a kapcsolódó orvosi minősítéseket.
 
-79.[^130] ellátja az (EU) 2019/945 felhatalmazáson alapuló bizottsági rendeletben meghatározott bejelentő hatóságra, valamint piacfelügyeleti hatóságra vonatkozó feladatokat,
+79.[^131] ellátja az (EU) 2019/945 felhatalmazáson alapuló bizottsági rendeletben meghatározott bejelentő hatóságra, valamint piacfelügyeleti hatóságra vonatkozó feladatokat,
 
-80.[^131] ellátja az (EU) 2019/947 bizottsági végrehajtási rendelet 18. cikkében – ide nem értve annak c) pontját – meghatározott, az illetékes hatóságnak címzett feladatokat,
+80.[^132] ellátja az (EU) 2019/947 bizottsági végrehajtási rendelet 18. cikkében – ide nem értve annak c) pontját – meghatározott, az illetékes hatóságnak címzett feladatokat,
 
-81.[^132] közzéteszi a honlapján a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. melléklet 2. számú Korlátozott légterek táblázatban szereplő légtereket, valamint az adott légtérben pilóta nélküli légijárművekkel hozzájárulással végrehajtható műveletekhez hozzájárulást adni jogosult szervezet nevét, valamint a kapcsolattartást biztosító elérhetőségeit,
+81.[^133] közzéteszi a honlapján a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 3. melléklet 2. számú Korlátozott légterek táblázatban szereplő légtereket, valamint az adott légtérben pilóta nélküli légijárművekkel hozzájárulással végrehajtható műveletekhez hozzájárulást adni jogosult szervezet nevét, valamint a kapcsolattartást biztosító elérhetőségeit,
 
-82.[^133] jóváhagyja a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 8/D. §-ában meghatározott háromoldalú koordinációs együttműködési megállapodást,
+82.[^134] jóváhagyja a magyar légtér igénybevételéről szóló 4/1998. (I. 16.) Korm. rendelet 8/D. §-ában meghatározott háromoldalú koordinációs együttműködési megállapodást,
 
-83.[^134] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
+83.[^135] ellátja a távoli pilóták képzését végző képzőszervek felügyeletét.
 
-84.[^135] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a koordinált légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást,
+84.[^136] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a koordinált légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást,
 
-85.[^136] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, Drop Zone légtér koordinációs feladatait ellátó szervezet és az ejtőernyős ugrást vagy műrepülést végrehajtó szervezet vagy szervezetek közötti együttműködési megállapodást,
+85.[^137] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, Drop Zone légtér koordinációs feladatait ellátó szervezet és az ejtőernyős ugrást vagy műrepülést végrehajtó szervezet vagy szervezetek közötti együttműködési megállapodást,
 
-86.[^137] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a Drop Zone légtérben koordinációs feladatokat ellátó szervezet közötti együttműködési megállapodást,
+86.[^138] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat és a Drop Zone légtérben koordinációs feladatokat ellátó szervezet közötti együttműködési megállapodást,
 
-86a.[^138] jóváhagyja a 139/2014/EU bizottsági rendelet IV. melléklet B. ALRÉSZ – REPÜLŐTÉRI MŰKÖDÉSI SZOLGÁLTATÁSOK, FELSZERELÉSEK ÉS BERENDEZÉSEK (ADR.OPS.B) ADR.OPS.B.005. pontjában meghatározott repülőtéri kényszerhelyzeti tervet, továbbá vizsgálja a repülőtéri kényszerhelyzeti terv alapján végrehajtott kényszerhelyzeti gyakorlat megfelelőségét,
+86a.[^139] jóváhagyja a 139/2014/EU bizottsági rendelet IV. melléklet B. ALRÉSZ – REPÜLŐTÉRI MŰKÖDÉSI SZOLGÁLTATÁSOK, FELSZERELÉSEK ÉS BERENDEZÉSEK (ADR.OPS.B) ADR.OPS.B.005. pontjában meghatározott repülőtéri kényszerhelyzeti tervet, továbbá vizsgálja a repülőtéri kényszerhelyzeti terv alapján végrehajtott kényszerhelyzeti gyakorlat megfelelőségét,
 
-86b.[^139] jóváhagyja a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló 159/2010. (V. 6.) Korm. rendelet 2. mellékletében foglalt Kényszerhelyzeti Tervet,
+86b.[^140] jóváhagyja a repülőtér létesítésének, fejlesztésének, megszüntetésének, valamint a leszállóhely létesítésének és megszűnésének szabályairól szóló 85/2024. (IV. 17.) Korm. rendeletben meghatározott kényszerhelyzeti tervet vagy kényszerhelyzet esetén alkalmazandó riasztási tervet,
 
-86c.[^140] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér koordinációs feladatait ellátó szervezet engedélyét, Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét,
+86c.[^141] kiadja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendelet szerinti koordinált légtér koordinációs feladatait ellátó szervezet engedélyét, Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét,
 
-86d.[^141] jóváhagyja a léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 1. számú és 4. számú mellékletében jóváhagyáshoz kötött dokumentumokat.
+86d.[^142] jóváhagyja a léginavigációs szolgálatot és légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 1. számú és 4. számú mellékletében jóváhagyáshoz kötött dokumentumokat.
 
-87.[^142] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat, versenylégtér koordinációs feladatait ellátó szervezet, állami repülések céljára kijelölt légterekben illetékes légiforgalmi szolgálat és légvédelmi irányító egység, valamint az MH Légi Műveleti Vezetési és Irányítási Központ közötti együttműködési megállapodást.
+87.[^143] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló jogszabályban meghatározott, légiforgalmi szolgálat, versenylégtér koordinációs feladatait ellátó szervezet, állami repülések céljára kijelölt légterekben illetékes légiforgalmi szolgálat és légvédelmi irányító egység, valamint az MH Légi Műveleti Vezetési és Irányítási Központ közötti együttműködési megállapodást.
 
-88.[^143] jóváhagyja a repülőtereken a kockázatértékelés alapján a megfigyelés és az őrjárat ellátásának gyakoriságát és módját,
+88.[^144] jóváhagyja a repülőtereken a kockázatértékelés alapján a megfigyelés és az őrjárat ellátásának gyakoriságát és módját,
 
-88.[^144] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendeletben meghatározott, a légiforgalmi szolgálat és a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást.
+88.[^145] jóváhagyja a magyar légtér légiközlekedés céljára történő kijelöléséről szóló miniszteri rendeletben meghatározott, a légiforgalmi szolgálat és a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet közötti együttműködési megállapodást.
 
-89.[^145] jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket,
+89.[^146] jóváhagyja a repülőtereken vagy a repülőterek elkülönített területein alkalmazott alternatív légiközlekedés védelmi intézkedéseket,
 
-90.[^146] lefolytatja az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. b) és d) pontja, valamint 11.1.4. b) pontja szerinti védelmi háttérellenőrzési eljárást.
+90.[^147] lefolytatja az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.3. b) és d) pontja, valamint 11.1.4. b) pontja szerinti védelmi háttérellenőrzési eljárást.
 
-91.[^147] ellátja az (EU) 2023/2405 európai parlamenti és tanácsi rendeletben meghatározott illetékes hatósági feladatokat.
+91.[^148] ellátja az (EU) 2023/2405 európai parlamenti és tanácsi rendeletben meghatározott illetékes hatósági feladatokat.
 
 (5) A (4) bekezdés 7. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
@@ -248,26 +248,27 @@ eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközle
 [^122]: A 9. § (4) bekezdés 59. pontját újonnan a 609/2021. (XI. 5.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^123]: A 9. § (4) bekezdés 61. pontja a 76/2023. (III. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^124]: A 9. § (4) bekezdés 70. pontja a 420/2021. (VII. 15.) Korm. rendelet 84. §-a szerint módosított szöveg.
-[^125]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
-[^126]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^127]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
-[^128]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
-[^129]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^130]: A 9. § (4) bekezdés 79. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^131]: A 9. § (4) bekezdés 80. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^132]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^133]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^134]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
-[^135]: A 9. § (4) bekezdés 84. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^136]: A 9. § (4) bekezdés 85. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^137]: A 9. § (4) bekezdés 86. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^138]: A 9. § (4) bekezdés 86a. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
-[^139]: A 9. § (4) bekezdés 86b. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 76/2023. (III. 10.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^140]: A 9. § (4) bekezdés 86c. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 199/2023. (V. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^141]: A 9. § (4) bekezdés 86d. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
-[^142]: A 9. § (4) bekezdés 87. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^143]: A 9. § (4) bekezdés 88. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^144]: A 9. § (4) bekezdés újabb 88. pontját a 199/2023. (V. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^145]: A 9. § (4) bekezdés 89. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^146]: A 9. § (4) bekezdés 90. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^147]: A 9. § (4) bekezdés 91. pontját a 91/2024. (IV. 23.) Korm. rendelet 2. §-a iktatta be.
+[^125]: A 9. § (4) bekezdés 71. pontja a 84/2024. (IV. 17.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^126]: A 9. § (4) bekezdés 74. pontját a 161/2019. (VII. 4.) Korm. rendelet 23. § (4) bekezdése iktatta be.
+[^127]: A 9. § (4) bekezdés 75. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^128]: A 9. § (4) bekezdés 76. pontját a 360/2019. (XII. 30.) Korm. rendelet 158. § (9) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 203. §-át.
+[^129]: A 9. § (4) bekezdés 77. pontját a 722/2020. (XII. 31.) Korm. rendelet 31. §-a iktatta be.
+[^130]: A 9. § (4) bekezdés 78. pontját a 9/2021. (I. 18.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^131]: A 9. § (4) bekezdés 79. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^132]: A 9. § (4) bekezdés 80. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^133]: A 9. § (4) bekezdés 81. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^134]: A 9. § (4) bekezdés 82. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^135]: A 9. § (4) bekezdés 83. pontját a 39/2021. (II. 2.) Korm. rendelet 17. §-a iktatta be.
+[^136]: A 9. § (4) bekezdés 84. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^137]: A 9. § (4) bekezdés 85. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^138]: A 9. § (4) bekezdés 86. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^139]: A 9. § (4) bekezdés 86a. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
+[^140]: A 9. § (4) bekezdés 86b. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 84/2024. (IV. 17.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^141]: A 9. § (4) bekezdés 86c. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be, szövege a 199/2023. (V. 22.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^142]: A 9. § (4) bekezdés 86d. pontját a 789/2021. (XII. 27.) Korm. rendelet 57. §-a iktatta be.
+[^143]: A 9. § (4) bekezdés 87. pontját a 609/2021. (XI. 5.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^144]: A 9. § (4) bekezdés 88. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^145]: A 9. § (4) bekezdés újabb 88. pontját a 199/2023. (V. 22.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^146]: A 9. § (4) bekezdés 89. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^147]: A 9. § (4) bekezdés 90. pontját a 76/2023. (III. 10.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^148]: A 9. § (4) bekezdés 91. pontját a 91/2024. (IV. 23.) Korm. rendelet 2. §-a iktatta be.

@@ -1,5 +1,5 @@
-## 14.[^164]
+## 14.[^165]
 
 18. §
 
-[^164]: A 14. alcímet (18. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^165]: A 14. alcímet (18. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

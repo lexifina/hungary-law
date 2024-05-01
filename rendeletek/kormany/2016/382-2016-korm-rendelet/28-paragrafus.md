@@ -1,3 +1,3 @@
-28. §[^200]
+28. §[^201]
 
-[^200]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^201]: A 28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
