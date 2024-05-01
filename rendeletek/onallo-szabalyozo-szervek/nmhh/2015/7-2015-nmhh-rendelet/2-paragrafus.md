@@ -196,7 +196,7 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 80. hajóállomás: a tengeri mozgószolgálat nem állandó jelleggel kikötött hajó fedélzetén elhelyezett mozgóállomása, a mentőjármű állomás kivételével;
 
-81.[^45] hajó-bázisállomás: hajón elhelyezett olyan mobil pikocella, amely támogatja a GSM-, LTE- vagy UMTS-szolgáltatásokat;
+81.[^45] hajó-bázisállomás: hajón elhelyezett olyan mobil pikocella, amely támogatja a GSM, UMTS, nem-AAS LTE vagy nem-AAS NR mobilrendszert;
 
 82. hajó földi állomás: a műholdas tengeri mozgószolgálat hajó fedélzetén elhelyezett mozgó földi állomása;
 
@@ -330,7 +330,7 @@ b) egy vagy több ugyanolyan állomással, egy vagy több reflektáló műhold v
 
 136. MCA-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás bocsát a légiutasok rendelkezésére nyilvános elektronikus hírközlő hálózatok repülés közben, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül történő igénybevételére;
 
-137.[^69] MCV-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás nyújt a hajón levő személyek részére GSM, LTE vagy UMTS rendszert használó nyilvános elektronikus hírközlő hálózaton történő kommunikáció céljából, a földi mobilhálózatokkal való közvetlen kapcsolatteremtés nélkül;
+137.[^69] MCV-szolgáltatás: olyan elektronikus hírközlési szolgáltatás, amelyet valamely vállalkozás nyújt a hajón tartózkodó személyek részére GSM, UMTS, nem-AAS LTE vagy nem-AAS NR rendszert használó nyilvános elektronikus hírközlő hálózaton történő kommunikáció céljából, a földi mobilhálózatokkal való közvetlen kapcsolat létrehozása nélkül;
 
 138.[^70] megengedhető zavarás: olyan megfigyelt vagy előre jelzett zavarás, amely eleget tesz az RR-ben, az ITU-R-ajánlásokban vagy az RR rendelkezéseinek megfelelően megkötött különmegállapodásokban foglalt kvantitatív zavarási és megosztási kritériumoknak;
 
@@ -753,7 +753,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 [^42]: A 2. § (1) bekezdés 71. pontját a 8/2017. (VII. 28.) NMHH rendelet 22. § a) pontja hatályon kívül helyezte.
 [^43]: A 2. § (1) bekezdés 77. pontja a 6/2019. (XII. 23.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^44]: A 2. § (1) bekezdés 78. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^45]: A 2. § (1) bekezdés 81. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^45]: A 2. § (1) bekezdés 81. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (1) bekezdésével megállapított, az 5/2024. (IV. 23.) NMHH rendelet 4. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^46]: A 2. § (1) bekezdés 85. pontja az 1/2019. (I. 22.) NMHH rendelet 2. § (5) bekezdésével megállapított, a 18/2020. (XII. 17.) NMHH rendelet 6. § (2) bekezdés 5. pontja szerint módosított szöveg.
 [^47]: A 2. § (1) bekezdés 85a. pontját a 2/2019. (III. 22.) NMHH rendelet 7. § (3) bekezdése iktatta be. A 2. § (1) bekezdés 85a. pontját a 7/2022. (IX. 22.) NMHH rendelet 7. § a) pontja hatályon kívül helyezte.
 [^48]: A 2. § (1) bekezdés 86a. pontját a 2/2017. (I. 17.) NMHH rendelet 26. § (2) bekezdése iktatta be, szövege a 18/2020. (XII. 17.) NMHH rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -777,7 +777,7 @@ ez a szolgálat tartalmazhatja az üzemeltetéséhez szükséges modulációs ö
 [^66]: A 2. § (1) bekezdés 128. pontját a 3/2024. (I. 29.) NMHH rendelet 5. § a) pontja hatályon kívül helyezte.
 [^67]: A 2. § (1) bekezdés 131. pontját az 1/2019. (I. 22.) NMHH rendelet 8. § a) pontja hatályon kívül helyezte.
 [^68]: A 2. § (1) bekezdés 135a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (3) bekezdése iktatta be, szövege a 3/2020. (X. 5.) NMHH rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^69]: A 2. § (1) bekezdés 137. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^69]: A 2. § (1) bekezdés 137. pontja a 11/2017. (IX. 25.) NMHH rendelet 1. § (2) bekezdésével megállapított, az 5/2024. (IV. 23.) NMHH rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^70]: A 2. § (1) bekezdés 138. pontja a 2/2016. (II. 26.) NMHH rendelet 37. § (1) bekezdés 4. pontja szerint módosított szöveg.
 [^71]: A 2. § (1) bekezdés 138a. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.
 [^72]: A 2. § (1) bekezdés 138b. pontját az 1/2018. (V. 29.) NMHH rendelet 1. § (4) bekezdése iktatta be.

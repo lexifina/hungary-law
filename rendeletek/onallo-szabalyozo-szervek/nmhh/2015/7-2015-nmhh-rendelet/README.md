@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-7-20-3H
 | 2022-07-01 | 2015-7-20-3H.14 | 2/2016. (II. 26.) NMHH rendelet |
 | 2022-10-07 | 2015-7-20-3H.15 | 7/2022. (IX. 22.) NMHH rendelet |
 | 2024-02-15 | 2015-7-20-3H.16 | 3/2024. (I. 29.) NMHH rendelet |
+| 2024-05-01 | 2015-7-20-3H.17 | 5/2024. (IV. 23.) NMHH rendelet |
