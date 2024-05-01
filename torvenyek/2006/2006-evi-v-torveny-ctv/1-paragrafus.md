@@ -30,4 +30,6 @@ e)
 
 (3) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer adatkezelője a céginformációs szolgálat.
 
+(3a) A cégbíróság a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer útján, elektronikusan tartja nyilván a cégadatokat, a cégiratokat, valamint a cégbíróság által lefolytatandó nemperes eljárások és egyéb ügyek elbírálása során keletkezett iratokat.
+
 (4) A cégnyilvántartás és a (2) bekezdés b) pontja szerinti elektronikus ügyintézést támogató rendszer a Kormányzati Adatközpont szolgáltatásait kormányrendeletben meghatározottak szerint igénybe vevő szakrendszer.
