@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-154-00-00
 | --- | --- | --- |
 | 2013-10-11 | 2013. évi CLIV. törvény | 2013-154-00-00.0 (közlönyállapot) |
 | 2013-10-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-154-00-00.1 |
+| 2024-05-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2013-154-00-00.2 |
