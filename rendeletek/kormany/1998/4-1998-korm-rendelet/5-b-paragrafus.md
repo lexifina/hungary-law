@@ -1,10 +1,10 @@
-## A korlátozott légtér igénybevétele[^71]
+## A korlátozott légtér igénybevétele[^74]
 
-5/B. §[^72] (1)[^73] A légiközlekedési hatóság engedélyezi az Együttes rendelet 3. mellékletében meghatározott, LH-R1 és LH-R1A korlátozott légterek igénybevételét a (7) bekezdés b) pont bf) alpontjában, valamint az Lt. 71. § 10. pont a)–d) és f)–h) alpontjában meghatározott tevékenység végzése céljából.
+5/B. §[^75] (1)[^76] A légiközlekedési hatóság engedélyezi az Együttes rendelet 3. mellékletében meghatározott, LH-R1 és LH-R1A korlátozott légterek igénybevételét a (7) bekezdés b) pont bf) alpontjában, valamint az Lt. 71. § 10. pont a)–d) és f)–h) alpontjában meghatározott tevékenység végzése céljából.
 
-(1a)[^74] Az Együttes rendelet 3. mellékletében meghatározott korlátozott légterek – ide nem értve az (1) bekezdésben meghatározott korlátozott légtereket, valamint az Együttes rendelet 3. mellékletében a polgári légijárművek számára korlátozott légtereket – pilóta nélküli légijárművek által a védett objektum zavartalan és biztonságos működésének biztosításáért felelős szervezet hozzájárulásával a légiközlekedési hatósághoz az UAS művelet végrehajtása előtt legalább három nappal tett előzetes bejelentés mellett vehetők igénybe.
+(1a)[^77] Az Együttes rendelet 3. mellékletében meghatározott korlátozott légterek – ide nem értve az (1) bekezdésben meghatározott korlátozott légtereket, valamint az Együttes rendelet 3. mellékletében a polgári légijárművek számára korlátozott légtereket – pilóta nélküli légijárművek által a védett objektum zavartalan és biztonságos működésének biztosításáért felelős szervezet hozzájárulásával a légiközlekedési hatósághoz az UAS művelet végrehajtása előtt legalább három nappal tett előzetes bejelentés mellett vehetők igénybe.
 
-(1b)[^75] Az (1a) bekezdésben meghatározott bejelentéshez csatolni kell az (1a) bekezdésben meghatározott hozzájárulást.
+(1b)[^78] Az (1a) bekezdésben meghatározott bejelentéshez csatolni kell az (1a) bekezdésben meghatározott hozzájárulást.
 
 (2) A korlátozott légtér igénybevétele iránti kérelemnek tartalmaznia kell:
 
@@ -18,11 +18,11 @@ d) a légtér igénybevételének tervezett kezdő dátumát és időpontját UT
 
 e) környezetvédelmi szempontból korlátozott légtér esetében az a)–d) pontban foglaltakon túl, ha ismert, a repülés útvonalát és magasságát, vagy ha a tervezett repülési útvonalra és magasságra vonatkozó információk nem állnak rendelkezésre a kérelmezés időpontjában, az igénybe venni kívánt légtérrész oldalhatárait WGS-84 rendszerű földrajzi koordináták szerint, valamint alsó és felső határát a földfelszíntől számítva, méterben.
 
-f)[^76] a 4/B. § (4) bekezdésében meghatározott hozzájárulást.
+f)[^79] a 4/B. § (4) bekezdésében meghatározott hozzájárulást.
 
-(2a)[^77] A légiközlekedési hatóság az LH-R1 és LH-R1A korlátozott légterek igénybevételére vonatkozó engedély kiadását megelőzően beszerzi a belügyminiszter által kijelölt szervnek a védett létesítmények védelme tekintetében kialakított véleményét.
+(2a)[^80] A légiközlekedési hatóság az LH-R1 és LH-R1A korlátozott légterek igénybevételére vonatkozó engedély kiadását megelőzően beszerzi a belügyminiszter által kijelölt szervnek a védett létesítmények védelme tekintetében kialakított véleményét.
 
-(2b)[^78] A (2a) bekezdés végrehajtása érdekében a (2a) bekezdésben meghatározott, a belügyminiszter által kijelölésre kerülő szerv és a légiközlekedési hatóság együttműködési megállapodást köt a vélemény beszerzésének eljárási kérdéseiről.
+(2b)[^81] A (2a) bekezdés végrehajtása érdekében a (2a) bekezdésben meghatározott, a belügyminiszter által kijelölésre kerülő szerv és a légiközlekedési hatóság együttműködési megállapodást köt a vélemény beszerzésének eljárási kérdéseiről.
 
 (3) A korlátozott légtér igénybevételét a légiközlekedési hatóság legfeljebb harminc napra engedélyezheti. A határozatnak – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túl – a (2) bekezdésben meghatározott adatokat kell tartalmaznia.
 
@@ -34,9 +34,9 @@ f)[^76] a 4/B. § (4) bekezdésében meghatározott hozzájárulást.
 
 (7) Környezetvédelmi szempontból korlátozott légtérben
 
-a) nem létesíthető repülőtér vagy leszállóhely, kivéve a mező- és erdőgazdasági légi munkavégzéshez szükséges „B” osztályú leszállóhelyet;
+a)[^82] nem létesíthető repülőtér vagy leszállóhely, kivéve a mezőgazdasági vagy munkavégzési célú leszállóhelyet;
 
-b)[^79] nem végezhető hajtóművel felszerelt és a hajtóművét használó légijárművel – ideértve a pilóta nélküli légijárművet és a pilóta nélküli állami légijárművet is –, valamint hőlégballonnal történő repülés, kivéve a (4) bekezdésben meghatározott, előzetes engedélyhez nem kötött, továbbá a következő célból végzett engedélyezett repüléseket:
+b)[^83] nem végezhető hajtóművel felszerelt és a hajtóművét használó légijárművel – ideértve a pilóta nélküli légijárművet és a pilóta nélküli állami légijárművet is –, valamint hőlégballonnal történő repülés, kivéve a (4) bekezdésben meghatározott, előzetes engedélyhez nem kötött, továbbá a következő célból végzett engedélyezett repüléseket:
 
 ba) térképezés céljából történő repülés,
 
@@ -50,12 +50,13 @@ be) polgári célú légi felderítés és megfigyelés (például vezetékellen
 
 bf) egyéb, közérdekű célból – így különösen a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek hivatalos látogatása céljából – végzett repülés.
 
-[^71]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
-[^72]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^73]: Az 5/B. § (1) bekezdése a 39/2021. (II. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^74]: Az 5/B. § (1a) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^75]: Az 5/B. § (1b) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^76]: Az 5/B. § (2) bekezdés f) pontját a 789/2021. (XII. 27.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^77]: Az 5/B. § (2a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^78]: Az 5/B. § (2b) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^79]: Az 5. § (7) bekezdés b) pont nyitó szövegrésze a 39/2021. (II. 2.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^74]: Az 5/B. §-t megelőző alcímet a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be.
+[^75]: Az 5/B. §-t a 457/2017. (XII. 28.) Korm. rendelet 55. § (6) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: Az 5/B. § (1) bekezdése a 39/2021. (II. 2.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^77]: Az 5/B. § (1a) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^78]: Az 5/B. § (1b) bekezdését a 39/2021. (II. 2.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^79]: Az 5/B. § (2) bekezdés f) pontját a 789/2021. (XII. 27.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^80]: Az 5/B. § (2a) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^81]: Az 5/B. § (2b) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^82]: Az 5/B. § (7) bekezdés a) pontja a 84/2024. (IV. 17.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
+[^83]: Az 5. § (7) bekezdés b) pont nyitó szövegrésze a 39/2021. (II. 2.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.

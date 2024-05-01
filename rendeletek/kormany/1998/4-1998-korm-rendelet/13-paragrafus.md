@@ -1,4 +1,4 @@
-## Értelmező rendelkezések[^121]
+## Értelmező rendelkezések[^125]
 
 ## 13. § E rendelet alkalmazásában
 
@@ -20,4 +20,7 @@
 
 9. távoli pilóta: a pilóta nélküli légijármű-rendszerekről és a pilóta nélküli légijármű-rendszerek harmadik országbeli üzembentartóiról szóló, 2019. március 12-i (EU) 2019/945 felhatalmazáson alapuló bizottsági rendelet 3. cikk 27. pontja szerinti fogalom.
 
-[^121]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
+10.[^126] ATZ (Aerodrome Traffic Zone): repülőtéri forgalmi körzet, a repülőtér körül a repülőtéri forgalom védelme érdekében kijelölt, meghatározott kiterjedésű légtér.
+
+[^125]: Az „Értelmező rendelkezések” alcímet (13. §) a 39/2021. (II. 2.) Korm. rendelet 12. §-a iktatta be.
+[^126]: A 13. § 10. pontját a 84/2024. (IV. 17.) Korm. rendelet 9. §-a iktatta be.
