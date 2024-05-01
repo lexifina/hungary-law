@@ -1,3 +1,7 @@
-9. §[^9]
+9. § Az Mmr.
 
-[^9]: A 9. § a 15. § (3) bekezdés alapján 2024. május 1-jén lép hatályba.
+a) 10/A. §-ában a „vagy szociális” szövegrész helyébe az „és szociális” szöveg,
+
+b) 13. § (3) bekezdésében a „négy” szövegrész helyébe a „három” szöveg
+
+lép.
