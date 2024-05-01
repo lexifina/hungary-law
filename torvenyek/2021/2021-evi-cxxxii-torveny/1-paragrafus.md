@@ -22,8 +22,8 @@
 
 (11) Az (1) bekezdés szerinti vagyonjuttatás során nem kell alkalmazni az Nvtv. 13. § (4), (5), (7) és (8) bekezdését.
 
-(12) Az (1) bekezdés szerinti vagyonjuttatás során – a Kormány (1) bekezdés szerinti határozatában szereplő védett ingatlanok tekintetében – nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 44. § (1) bekezdés a) pontját és (4) bekezdését, a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdését.
+(12) Az (1) bekezdés szerinti vagyonjuttatás során – a Kormány (1) bekezdés szerinti határozatában szereplő védett ingatlanok tekintetében – nem kell alkalmazni a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 44. § (1) bekezdés a) pontját és (4) bekezdését, a természet védelméről szóló 1996. évi LIII. törvény 68. § (8) bekezdését.
 
-(13) Az (1) bekezdés szerinti vagyonjuttatás során a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 64. § (3) bekezdése szerint miniszteri egyetértést megadottnak kell tekinteni, valamint nem kell alkalmazni a Sporttv. 64. § (4) bekezdését és a vízgazdálkodásról szóló 1995. évi LVII. törvény 23. § (1) bekezdését.
+(13) Az (1) bekezdés szerinti vagyonjuttatás során a sportról szóló 2004. évi I. törvény (a továbbiakban: Sporttv.) 64. § (3) bekezdése szerint miniszteri egyetértést megadottnak kell tekinteni, valamint nem kell alkalmazni a Sporttv. 64. § (4) bekezdését és a vízgazdálkodásról szóló 1995. évi LVII. törvény (továbbiakban: Vgtv.) 23. § (1) bekezdését.
 
-(14) A vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
+(14) A vagyonjuttatást úgy kell tekinteni, hogy az az általános forgalmi adóról szóló 2007. évi CXXVII. törvény a (továbbiakban: Áfa tv.) 17. § (1) bekezdésében meghatározott feltételek szerinti juttatással esik egy tekintet alá.
