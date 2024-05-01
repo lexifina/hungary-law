@@ -2,7 +2,7 @@
 
 a) az Adattár a tervezett igénybevétel engedélyezése kapcsán felmerülő módosításához szükséges 18. § (1) és (2) bekezdése szerinti dokumentumokat,
 
-b)[^25] az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló 8/2018. (VI. 29.) AM rendelet (a továbbiakban: Ftr.) szerint elkészített változási vázrajzot és területkimutatást, illetve abban az esetben, ha az igénybevétel teljes földrészletet vagy teljes alrészletet érint, a tervezett igénybevétel határainak és föld-, illetve alrészletenkénti területének megjelölését, az állami ingatlan-nyilvántartási térképi adatbázisból kiadott 30 napnál nem régebbi másolaton feltüntetve,
+b)[^25] az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendelet (a továbbiakban: Ftr.) szerint elkészített változási vázrajzot és területkimutatást, illetve abban az esetben, ha az igénybevétel teljes földrészletet vagy teljes alrészletet érint, a tervezett igénybevétel határainak és föld-, illetve alrészletenkénti területének megjelölését, az állami ingatlan-nyilvántartási térképi adatbázisból kiadott 30 napnál nem régebbi másolaton feltüntetve,
 
 c) az erdőtalaj 400 m2-t meghaladó beépítése esetén
 
@@ -28,7 +28,11 @@ b) – az Evt. 41. § (2) bekezdés c) pontjának figyelembevételével – meg 
 
 a)[^26] nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő, a Kormány által rendeletben meghatározott erdő-igénybevételi ügyek, valamint az országos vagy térségi jelentőségű műszaki infrastruktúra-hálózatok és egyedi építmények megvalósításával összefüggő erdő-igénybevételi ügyek esetében az ország területén belül,
 
-b) az a) pontba nem tartozó esetekben az erdőtervezési körzet területén
+b)[^27] az a) pontba nem tartozó esetekben
+
+ba) az adott erdő fekvése szerinti vagy az azzal szomszédos településen vagy
+
+bb) az erdőtervezési körzet területén
 
 bármely arra alkalmas földterületen végre lehet hajtani.
 
@@ -38,11 +42,12 @@ a) a létesítmény létesítési engedélyét,
 
 b) az igénybevétellel érintett ingatlan tulajdonosának közokiratba vagy teljes bizonyító erejű magánokiratba foglalt, az igénybevételhez való hozzájárulását és
 
-c)[^27] az Ftr. szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
+c)[^28] az Ftr. szerint elkészített változási vázrajzot és terület-kimutatást, vagy közművek esetén közműtérképet.
 
-(7)[^28] Az Evt. hatálybalépése előtt legalább 20 évvel korábban elhelyezett burkolt út, villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, illetve műemlék esetében – engedély hiányában – a (6) bekezdés b) és c) pontja szerinti dokumentumokat elegendő csatolni.
+(7)[^29] Az Evt. hatálybalépése előtt legalább 20 évvel korábban elhelyezett burkolt út, villamos vezeték, gázvezeték, távközlő- vagy más közművezeték, illetve műemlék esetében – engedély hiányában – a (6) bekezdés b) és c) pontja szerinti dokumentumokat elegendő csatolni.
 
-[^25]: A 11. § (1) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^25]: A 11. § (1) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § b) pontja, a 89/2024. (IV. 23.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^26]: A 11. § (5) bekezdés a) pontja a 208/2021. (IV. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^27]: A 11. § (6) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^28]: A 11. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^27]: A 11. § (5) bekezdés b) pontja a 89/2024. (IV. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^28]: A 11. § (6) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^29]: A 11. § (7) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 49. §-a szerint módosított szöveg.

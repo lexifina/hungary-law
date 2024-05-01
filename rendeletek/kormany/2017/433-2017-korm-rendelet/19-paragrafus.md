@@ -18,6 +18,6 @@ g) l) pontjában foglalt adatait a tárgyban hozott előző döntése alapján, 
 
 (2) Az Adattárba való bejegyzés közvetlenül csak az Evt. 38. § (2) bekezdés d) pontjában foglalt adatok tekintetében kezdeményezhető bejelentés útján.
 
-(3)[^37] Az erdészeti hatóság az Evt. 38. § (7) bekezdésében foglaltak érvényesítése érdekében az erdő, szabad rendelkezésű erdő Adatárba történő nyilvántartásba vételének és nyilvántartásból való törlésének véglegessé vált döntését megküldi ingatlanügyi hatóságnak.
+(3)[^38] Az erdészeti hatóság az Evt. 38. § (7) bekezdésében foglaltak érvényesítése érdekében az erdő, szabad rendelkezésű erdő Adatárba történő nyilvántartásba vételének és nyilvántartásból való törlésének véglegessé vált döntését megküldi ingatlanügyi hatóságnak.
 
-[^37]: A 19. § (3) bekezdése a 30. § (1) bekezdése szerint módosított szöveg.
+[^38]: A 19. § (3) bekezdése a 30. § (1) bekezdése szerint módosított szöveg.

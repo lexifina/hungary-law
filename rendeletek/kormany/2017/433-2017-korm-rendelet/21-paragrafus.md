@@ -24,18 +24,18 @@ e) a használatra jogosult kérelmező aláírása.
 
 (2) Közös tulajdonban álló földre létrejött használati megosztásról szóló megállapodáson alapuló használat esetén az önálló erdőgazdálkodási egységre vonatkozó erdőgazdálkodói nyilvántartásba vételi kérelemhez csatolni kell
 
-a)[^39] a használati megosztásról szóló megállapodás eredeti vagy közjegyző által hitelesített, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett példányát,
+a)[^40] a használati megosztásról szóló megállapodás eredeti vagy közjegyző által hitelesített, vagy ügyvéd vagy kamarai jogtanácsos által ellenjegyzett példányát,
 
 b) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) 71. § (3) bekezdésében foglaltak igazolására szolgáló dokumentumok másolatát, valamint
 
-c)[^40] a megállapodáshoz készített az Fétv. 71. § (9a) bekezdés szerinti térképi kimutatást.
+c)[^41] a megállapodáshoz készített az Fétv. 71. § (9a) bekezdés szerinti térképi kimutatást.
 
 (3) A nyilvántartásba vételt el kell utasítani, ha
 
 a) a nyilvántartásba vétel alapjául szolgáló okirat nyilvánvalóan érvénytelen, vagy
 
-b)[^41] az érintett erdőrészlet az ingatlan-nyilvántartásban nem erdő művelési ágban van nyilvántartva, vagy az ingatlanra nincs feljegyezve az erdő jogi jelleg.
+b)[^42] az érintett erdőrészlet az ingatlan-nyilvántartásban nem erdő művelési ágban van nyilvántartva, vagy az ingatlanra nincs feljegyezve az erdő jogi jelleg.
 
-[^39]: A 21. § (2) bekezdés a) pontja a 30. § (2) bekezdése szerint módosított szöveg.
-[^40]: A 21. § (2) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
-[^41]: A 21. § (3) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^40]: A 21. § (2) bekezdés a) pontja a 30. § (2) bekezdése szerint módosított szöveg.
+[^41]: A 21. § (2) bekezdés c) pontja a 77/2020. (III. 31.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^42]: A 21. § (3) bekezdés b) pontja a 77/2020. (III. 31.) Korm. rendelet 4. §-ával megállapított szöveg.
