@@ -47,3 +47,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2023-05-15 | 2016-383-20-22.39 | 170/2023. (V. 12.) Korm. rendelet |
 | 2023-06-02 | 2016-383-20-22.40 | 219/2023. (VI. 1.) Korm. rendelet |
 | 2024-01-01 | 2016-383-20-22.41 | 596/2023. (XII. 21.) Korm. rendelet |
+| 2024-05-01 | 2016-383-20-22.42 | 89/2024. (IV. 23.) Korm. rendelet |

@@ -1,6 +1,6 @@
 ## 31. A talajvédelmi hatósági eljárásokban vizsgálandó szakkérdések
 
-75. § (1)[^291] A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban szakkérdésként kell vizsgálni
+75. § (1)[^299] A szennyvíz és szennyvíziszap mezőgazdasági felhasználásának engedélyezése továbbá a nem mezőgazdasági eredetű nem veszélyes hulladék mezőgazdasági felhasználásának engedélyezési és az engedély meghosszabbítása iránti eljárásban szakkérdésként kell vizsgálni
 
 a) a vizek minőségét, egészségkárosítás nélküli fogyaszthatóságát, valamint a vizek felhasználhatóságát befolyásoló körülményeket, tényezőket,
 
@@ -12,7 +12,7 @@ a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállí
 
 b) ásványi nyersanyag kitermeléssel jár, szakkérdésként kell vizsgálni a kitermelni tervezett ásványi nyersanyag mennyiségét, fajtáját, felhasználását, a hasznosítás módjának meghatározását, az ásványvagyon-védelmi szempontok érvényesítését, valamint a bányajáradék-fizetési kötelezettséget.
 
-(3)[^292] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró vármegyei kormányhivatalt kell szakértőként kirendelni.
+(3)[^300] A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban a bányászati hatáskörben eljáró vármegyei kormányhivatalt kell szakértőként kirendelni.
 
-[^291]: A 75. § (1) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
-[^292]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^299]: A 75. § (1) bekezdés nyitó szövegrésze az 561/2023. (XII. 14.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^300]: A 75. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (42) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

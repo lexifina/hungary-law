@@ -2,7 +2,7 @@
 
 a)[^95] 4. §-ában, 16. § (2) bekezdésében, 28. § l) pontjában, 29. § c) pontjában, 30. § (2) bekezdésében, 33. § d) pontjában, 35. § (3) bekezdés a) és c)–f) pontjában, 35. § (7) bekezdésében az 1169/2011/EU rendeletben foglaltak ellenőrzése vonatkozásában, 38/A. § (2) bekezdés d) pontjában, 38/C. § (1) bekezdésében, 44. § (1), (2)–(6a), (8) és (9) bekezdésében, 53/B. §-ában, 56. §-ában, 57. § a)–u) és y) pontjában, 58. §-ában, 58/A. § (1)–(4), (6) és (7) bekezdésében, 59. § (6) bekezdésében, 59/A. § (1) bekezdésében, 63. § (1) bekezdés a)–d) pontjában, 64. § (7) bekezdésében, 72. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal,
 
-b)[^96] 34. § (2) bekezdés b)–l) pontjában, a közcélú igénybevétel kivételével a 34. § (3) bekezdés a) pontjában, 34. § (4) bekezdés k) pontjában, 53. § (3) és (4) bekezdésében, 61. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal,
+b)[^96] 8. § (2) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 34. § (2) bekezdés b)–l) pontjában, a közcélú igénybevétel kivételével 34. § (3) bekezdés a) pontjában, 34. § (4) bekezdés k) pontjában, 35. § (2) bekezdésében, (4) bekezdés a) pontjában a harmadik országba exportáló élelmiszer-előállító létesítmények tekintetében, b) és c) pontjában, 36. § (3) bekezdésében, 44/B. § (1) bekezdésében, 53. § (3) és (4) bekezdésében, 61. §-ában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal,
 
 c)[^97] 60. §-ában foglaltak tekintetében a NÉBIH, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal,
 
@@ -18,13 +18,13 @@ a)[^100] 32. § (1) bekezdés h) pontjában az ökológiai gazdálkodás és int
 
 b)[^101] 32. § (1) bekezdés h) pontjában a géntechnológiával módosított szervezetekkel, szaporítóanyagokkal, élelmiszerekkel és takarmányokkal kapcsolatos feladatok tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal és járási hivatal, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal,
 
-c)[^102] 26. § (1) bekezdés e) pontjában, 32. § (2) bekezdés b) és c) pontjában, 34. § (4) bekezdés h) pontjában az irányítás tekintetében, 38. § (1) bekezdés 1., 3–7., 10., 12., 16. és 26. pont a) és b) alpontjában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal,
+c)[^102] 26. § (1) bekezdés e) pontjában, 32. § (2) bekezdés b) és c) pontjában, 34. § (4) bekezdés h) pontjában az irányítás tekintetében, 35. § (3) bekezdés b) pontjában, 38. § (1) bekezdés 1., 3–7., 10., 12., 16. és 26. pont a) és b) alpontjában foglaltak tekintetében a NÉBIH, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal,
 
 d)[^103] 32. § (1) bekezdés a), b), e)–g), i)–m), s) pontjában, 38. § (1) bekezdés b) pontjában foglaltak tekintetében a NÉBIH, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatal
 
 a kijelölt élelmiszerlánc-felügyeleti szerv.
 
-(3)[^104] Az Éltv. 8. § (2) bekezdésében, 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 26. § (1) bekezdés c) és d) pontjában, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (3) bekezdés b) és c) pontjában, 34. § (4) bekezdés b), f), g) pontjában, h) pontjában az ellenőrzés tekintetében és i) pontjában, 35. § (2) bekezdésében, (4) bekezdés a) pontjában a harmadik országba exportáló élelmiszer-előállító létesítmények tekintetében, b) és c) pontjában, 36. § (3) bekezdésében, 38. § (1) bekezdés 11., 24. és 28. pontjában, 51. § (3) bekezdés a)–d), h)–k) és m)–p) pontjában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a kijelölt élelmiszerlánc-felügyeleti szerv.
+(3)[^104] Az Éltv. 18. § (1) bekezdés g) pontjában, 19. § (4) bekezdésében, 32. § (2) bekezdés a) pontjában, 33. § c) pontjában, 34. § (3) bekezdés b) és c) pontjában, 34. § (4) bekezdés b), f), g) pontjában, h) pontjában az ellenőrzés tekintetében és i) pontjában, 38. § (1) bekezdés 11., 24. és 28. pontjában, 51. § (3) bekezdés a)–d), h)–k) és m)–p) pontjában foglaltak tekintetében a NÉBIH és az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal a kijelölt élelmiszerlánc-felügyeleti szerv.
 
 (3a)[^105]
 
@@ -61,15 +61,15 @@ tekintetében az élelmiszerlánc-biztonsági és állategészségügyi hatásk�
 (11)[^116]
 
 [^95]: A 18. § (1) bekezdés a) pontja a 425/2020. (IX. 10.) Korm. rendelet 10. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
-[^96]: A 18. § (1) bekezdés b) pontja a 23/2022. (I. 27.) Korm. rendelet 2. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja, a 60/2023. (II. 28.) Korm. rendelet 36. §-a szerint módosított szöveg.
+[^96]: A 18. § (1) bekezdés b) pontja a 89/2024. (IV. 23.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^97]: A 18. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, (45) bekezdés 9. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^98]: A 18. § (1) bekezdés d) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 425/2020. (IX. 10.) Korm. rendelet 10. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^99]: A 18. § (1) bekezdés e) pontját a 171/2017. (VI. 29.) Korm. rendelet 24. § (3) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
 [^100]: A 18. § (2) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, (45) bekezdés 10. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^101]: A 18. § (2) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 6. pontja, (45) bekezdés 10. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
-[^102]: A 18. § (2) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (16) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^102]: A 18. § (2) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (16) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja, a 89/2024. (IV. 23.) Korm. rendelet 8. § c) pontja szerint módosított szöveg.
 [^103]: A 18. § (2) bekezdés d) pontja a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 7. pontja, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) pontja szerint módosított szöveg.
-[^104]: A 18. § (3) bekezdése a 425/2020. (IX. 10.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^104]: A 18. § (3) bekezdése a 89/2024. (IV. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^105]: A 18. § (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (17) bekezdése iktatta be, hatályon kívül helyezte a 425/2020. (IX. 10.) Korm. rendelet 12. § a) pontja.
 [^106]: A 18. § újabb (3a) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (18) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
 [^107]: A 18. § (4) bekezdés nyitó szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

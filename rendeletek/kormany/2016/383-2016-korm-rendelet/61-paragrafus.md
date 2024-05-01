@@ -1,4 +1,4 @@
-61. § (1)[^273] A Vtv.
+61. § (1)[^281] A Vtv.
 
 a) 66. § (1a) bekezdésében,
 
@@ -6,7 +6,7 @@ b) 66/A. § (2)–(4) bekezdésében
 
 meghatározott vadászati hatóság a miniszter.
 
-(2)[^274] A Vtv.
+(2)[^282] A Vtv.
 
 a) 26. § d) pontjában,
 
@@ -26,8 +26,8 @@ h) 38/A. § (4) bekezdésében
 
 meghatározott vadászati hatóság a Pest Vármegyei Kormányhivatal.
 
-(3)[^275] A Kormány a 2012. évi CXX. törvény 9. § (3) bekezdés d) pontja tekintetében vadászati hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
+(3)[^283] A Kormány a 2012. évi CXX. törvény 9. § (3) bekezdés d) pontja tekintetében vadászati hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
 
-[^273]: A 61. § (1) bekezdése a 316/2022. (VIII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^274]: A 61. § (2) bekezdés záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^275]: A 61. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^281]: A 61. § (1) bekezdése a 316/2022. (VIII. 16.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^282]: A 61. § (2) bekezdés záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^283]: A 61. § (3) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.

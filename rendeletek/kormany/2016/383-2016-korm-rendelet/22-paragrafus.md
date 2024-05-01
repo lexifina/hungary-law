@@ -2,11 +2,11 @@
 
 a) ötmillió forint összeghatárig az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal,
 
-b)[^130] ötmillió forintot meghaladóan az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal
+b)[^133] ötmillió forintot meghaladóan az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal
 
 dönt.
 
-(2)[^131] Az Éltv. 32. § (3) bekezdése alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal nyilvántartja a bejelentett és kivizsgált élelmiszer-mérgezéseket és -fertőzéseket, azok adatait a NÉBIH részére – értékelés és közzététel céljából – megküldi.
+(2)[^134] Az Éltv. 32. § (3) bekezdése alapján az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró vármegyei kormányhivatal, valamint az élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatal nyilvántartja a bejelentett és kivizsgált élelmiszer-mérgezéseket és -fertőzéseket, azok adatait a NÉBIH részére – értékelés és közzététel céljából – megküldi.
 
-[^130]: A 22. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
-[^131]: A 22. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^133]: A 22. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.
+[^134]: A 22. § (2) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § b) pontja szerint módosított szöveg.

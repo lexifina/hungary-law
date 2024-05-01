@@ -1,3 +1,5 @@
-## 12. Az őstermelői nyilvántartást vezető szerv kijelölése
+## 12.[^255]
 
-49. § A Kormány az Szja tv. 81/A. § (1), (4), (5) és (7) bekezdése szerinti őstermelői nyilvántartást vezető szervként a NÉBIH-et jelöli ki.
+49. §
+
+[^255]: A 12. alcímet (49. §-t) a 89/2024. (IV. 23.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
