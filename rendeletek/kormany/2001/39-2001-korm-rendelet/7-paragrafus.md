@@ -1,8 +1,8 @@
-## 6. §[^14] Az e rendeletben előírt biztosítási kötelezettségeknek – a 2/A. §-ban szabályozott esetek kivételével – ki kell terjedniük az esetleges erőszakos cselekmények által okozott károk (háborús kockázatok) fedezésére is.
+## 6. §[^20] Az e rendeletben előírt biztosítási kötelezettségeknek – a 2/A. §-ban szabályozott esetek kivételével – ki kell terjedniük az esetleges erőszakos cselekmények által okozott károk (háborús kockázatok) fedezésére is.
 
 ## A biztosítási igazolás
 
-7. § (1)[^15] A biztosítási fedezet fennállását a biztosító által kiállított igazolás tanúsítja.
+7. § (1)[^21] A biztosítási fedezet fennállását a biztosító által kiállított igazolás tanúsítja.
 
 (2) Az igazolásnak a következő adatokat kell tartalmaznia:
 
@@ -24,15 +24,16 @@ h) az önrészesedés összege;
 
 i) a háborús kockázati kiterjesztés.
 
-(3) A nyilvános repülőtér üzemeltetőjének biztosítási igazolása nem tartalmazza a c) és az f) pontban megjelölt adatokat, kiegészül azonban a működési területét képező repülőtér megjelölésével.
+(3)[^22] A közforgalom számára nyitva álló repülőtér üzemeltetőjének biztosítási igazolása nem tartalmazza a c) és az f) pontban megjelölt adatokat, kiegészül azonban a működési területét képező repülőtér megjelölésével.
 
 (4) A biztosított köteles a biztosítót és a légiközlekedési hatóságot a biztosítási igazolás bármely adatának változásáról azonnal értesíteni. A bejelentés alapján kiállított igazolást a biztosított köteles a légiközlekedési hatóságnak haladéktalanul bemutatni.
 
-(5)[^16] A biztosítási igazolást magyar vagy angol nyelven kell kiállítani.
+(5)[^23] A biztosítási igazolást magyar vagy angol nyelven kell kiállítani.
 
-(6)[^17] A légijármű üzemben tartója köteles az előírt hatályos biztosítás fennállásáról szóló, az adott légijárműre vonatkozó igazolást a légijármű fedélzetén tartani és az ellenőrzésre jogosult személynek felszólításra bemutatni. Érvényes igazolás hiányában a légijármű a légiközlekedésben nem vehet részt.
+(6)[^24] A légijármű üzemben tartója köteles az előírt hatályos biztosítás fennállásáról szóló, az adott légijárműre vonatkozó igazolást a légijármű fedélzetén tartani és az ellenőrzésre jogosult személynek felszólításra bemutatni. Érvényes igazolás hiányában a légijármű a légiközlekedésben nem vehet részt.
 
-[^14]: A 6. § a 39/2021. (II. 2.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^15]: A 7. § (1) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^16]: A 7. § (5) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^17]: A 7. § (6) bekezdését a 4/2006. (I. 13.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^20]: A 6. § a 39/2021. (II. 2.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^21]: A 7. § (1) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^22]: A 7. § (3) bekezdése a 84/2024. (IV. 17.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^23]: A 7. § (5) bekezdése a 4/2006. (I. 13.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^24]: A 7. § (6) bekezdését a 4/2006. (I. 13.) Korm. rendelet 6. § (3) bekezdése iktatta be.
