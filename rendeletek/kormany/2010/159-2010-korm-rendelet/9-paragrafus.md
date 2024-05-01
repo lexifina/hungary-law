@@ -1,1 +1,0 @@
-## 8. § A légiközlekedési hatóság környezetvédelmi vagy egységes környezethasználati engedély-köteles repülőtér esetében a létesítési engedély iránti kérelemre indult eljárásában a környezetvédelmi hatóságot a kérelem másolatának megküldésével értesíti az eljárás megindításáról.
