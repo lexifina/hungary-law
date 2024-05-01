@@ -1,0 +1,3 @@
+10/A. §[^64] Az Mmtv. 7. § (6) bekezdése alapján a rehabilitációs ellátás akkor állapítható meg ismételten, ha a komplex minősítés során megállapítják, hogy a rehabilitáció lehetséges irányában vagy az orvosi, foglalkozási és szociális rehabilitációs szükségletek tekintetében a korábbi rehabilitációs ellátás megállapítását megalapozó komplex minősítésben foglaltakhoz képest változás következett be.
+
+[^64]: A 10/A. §-t a 402/2017. (XII. 15.) Korm. rendelet 11. §-a iktatta be, szövege a 304/2018. (XII. 27.) Korm. rendelet 4. § c) pontja, a 32/2024. (II. 22.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

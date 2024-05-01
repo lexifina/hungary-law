@@ -1,6 +1,6 @@
-21/G. § (1)[^139] Az NSZI a rehabilitációs szolgáltatásban részesülő személynek képzési célú támogatást nyújthat
+21/G. § (1)[^142] Az NSZI a rehabilitációs szolgáltatásban részesülő személynek képzési célú támogatást nyújthat
 
-a)[^140] szakma megszerzéséhez,
+a)[^143] szakma megszerzéséhez,
 
 b) államilag elismert nyelvvizsga megszerzésére irányuló képzéshez,
 
@@ -18,5 +18,5 @@ a) az egyetemi, főiskolai továbbtanulásra felkészítő képzéshez, valamint
 
 b) az olyan iskolarendszerű képzéshez, amelyhez a központi költségvetési törvény normatív állami hozzájárulást állapít meg.
 
-[^139]: A 21/G. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
-[^140]: A 21/G. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 60. §-ával megállapított szöveg.
+[^142]: A 21/G. § (1) bekezdés nyitó szövegrésze a 610/2020. (XII. 18.) Korm. rendelet 13. § 13. pontja szerint módosított szöveg.
+[^143]: A 21/G. § (1) bekezdés a) pontja a 13/2020. (II. 7.) Korm. rendelet 60. §-ával megállapított szöveg.

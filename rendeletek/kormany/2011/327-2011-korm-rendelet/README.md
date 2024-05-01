@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-327-20-
 | 2023-07-28 | 2011-327-20-22.35 | 349/2023. (VII. 27.) Korm. rendelet |
 | 2024-01-01 | 2011-327-20-22.36 | 561/2023. (XII. 14.) Korm. rendelet |
 | 2024-02-23 | 2011-327-20-22.37 | 32/2024. (II. 22.) Korm. rendelet |
+| 2024-05-01 | 2011-327-20-22.38 | 32/2024. (II. 22.) Korm. rendelet |
