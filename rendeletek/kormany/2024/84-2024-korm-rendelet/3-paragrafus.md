@@ -1,21 +1,3 @@
-3. § Az R1. 22. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„22. § (1) Légijárművel le- és felszállni – a (2) bekezdésben foglalt kivétellel – repülőtéren vagy leszállóhelyen szabad.
-
-(2) A le- és felszállás nem repülőtéren vagy leszállóhelyen is történhet a következő esetekben:
-
-a) állami légijármű és pilóta nélküli állami légijármű le- és felszállása,
-
-b) baleseti segélynyújtás érdekében szükséges le- és felszállás,
-
-c) ha a légijármű tulajdonoságai miatt a leszállás helye előzetesen nem határozható meg, a leszállás és az onnan történő további felszállás,
-
-d) ha a leszállás a biztonság érdekében, veszélyhelyzetben szükséges,
-
-e) helikopter le- és felszállása a 22/A. §-ban meghatározott feltételek szerint,
-
-f) pilóta nélküli légijárművel történő fel- és leszállás,
-
-g) mezőgazdasági munkavégzés céljából végzett fel- és leszállás.
-
-(3) A (2) bekezdés szerinti le- és felszállással okozott kárt és személyiségi jogi jogsértésért járó sérelemdíjat meg kell téríteni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

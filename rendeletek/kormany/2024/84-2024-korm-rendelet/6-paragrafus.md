@@ -1,3 +1,3 @@
-6. § Az R2. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(4) Új repülőtér létesítése vagy meglévő repülőtér forgalmi viszonyainak fejlesztés miatti jelentős mértékű változás esetén a zajgátló védőövezet kijelölésére vonatkozó kérelmet legkésőbb a létesítési, fejlesztési engedély iránti kérelem benyújtásával egyidejűleg kell a légiközlekedési hatósághoz benyújtani.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

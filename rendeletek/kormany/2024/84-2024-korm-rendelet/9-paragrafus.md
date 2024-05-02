@@ -1,3 +1,3 @@
-9. § Az R3. 13. §-a a következő 10. ponttal egészül ki:
+9. §[^10]
 
-(E rendelet alkalmazásában)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

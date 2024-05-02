@@ -1,1 +1,3 @@
-7. § Az R2. 22. §-ában a „nyilvános” szövegrész helyébe a „közforgalom számára nyitva álló” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

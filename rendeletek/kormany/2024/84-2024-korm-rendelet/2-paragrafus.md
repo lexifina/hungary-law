@@ -1,3 +1,3 @@
-2. § Az R1. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(1) Az akadálykorlátozási felületek kijelölésére vonatkozó rendelkezések a közforgalom számára nyitva álló repülőterek esetén és az Lt. 37. § (1) bekezdés b) pont ba), bd) és be) alpontjában meghatározott azon repülőterek esetén alkalmazandóak, amelyeken műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé (a 21–21/H. § vonatkozásában a továbbiakban együtt: repülőtér).”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
