@@ -1,1 +1,3 @@
-40. § Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 9/2018. (X. 19.) PM rendelet.
+40. §[^2]
+
+[^2]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
