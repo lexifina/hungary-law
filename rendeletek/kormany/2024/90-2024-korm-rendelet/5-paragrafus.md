@@ -1,3 +1,3 @@
-5. § Az 512/2022. (XII. 13.) Korm. rendelet 2. § (1) bekezdése a következő 10a. alponttal egészül ki:
+5. §[^6]
 
-(E rendelet alkalmazásában)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
