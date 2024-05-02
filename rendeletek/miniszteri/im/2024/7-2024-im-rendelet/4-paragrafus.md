@@ -1,1 +1,3 @@
-4. § Az IM rendelet 13. § c) pontjában a „2024. június 30-ig” szövegrész helyébe a „2027. június 30-ig” szöveg lép.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
