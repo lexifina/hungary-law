@@ -1,5 +1,3 @@
-6. § A 61/2017. (XII. 21.) FM rendelet
+6. §[^7]
 
-a) 5. melléklete az 1. melléklet szerint módosul,
-
-b) 6. melléklete a 2. melléklet szerint módosul.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
