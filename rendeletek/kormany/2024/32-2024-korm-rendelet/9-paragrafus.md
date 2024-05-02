@@ -1,7 +1,3 @@
-9. § Az Mmr.
+9. §[^10]
 
-a) 10/A. §-ában a „vagy szociális” szövegrész helyébe az „és szociális” szöveg,
-
-b) 13. § (3) bekezdésében a „négy” szövegrész helyébe a „három” szöveg
-
-lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
