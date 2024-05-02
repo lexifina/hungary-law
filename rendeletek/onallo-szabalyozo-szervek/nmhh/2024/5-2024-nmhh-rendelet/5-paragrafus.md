@@ -1,13 +1,6 @@
-5. § (1) Hatályát veszti az R.
+5. § (1)[^7]
 
-a) 13. § (1) bekezdés 38. pontja,
+(2)[^8]
 
-b) 8. melléklet
-
-ba) 2.3. pontjában foglalt táblázat 33. és 50. sora,
-
-bb) 7.2. pontjában foglalt táblázat 18. és 24. sora.
-
-(2)[^3]
-
-[^3]: Az 5. § (2) bekezdése a 6. § (2) bekezdés alapján 2027. január 1-jén lép hatályba.
+[^7]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (2) bekezdése a 6. § (2) bekezdés alapján 2027. január 1-jén lép hatályba.
