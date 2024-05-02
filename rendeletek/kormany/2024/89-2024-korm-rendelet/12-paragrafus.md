@@ -1,1 +1,3 @@
-12. § A 433/2017. (XII. 21.) Korm. rendelet 11. § (1) bekezdés b) pontjában a „8/2018. (VI. 29.) AM” szövegrész helyébe a „miniszteri” szöveg lép.
+12. §[^18]
+
+[^18]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

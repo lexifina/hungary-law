@@ -1,26 +1,23 @@
 9. § Hatályát veszti a 383/2016. (XII. 2.) Korm. rendelet
 
-a) 17. § (1) bekezdés d) pontjában a „35. § (3) bekezdés b) pontjában,” szövegrész,
+a)[^9]
 
-b) 12. alcíme,
+b)[^10]
 
-c)[^3]
+c)[^11]
 
-d)[^4]
+d)[^12]
 
-e)[^5]
+e)[^13]
 
-f)[^6]
+f)[^14]
 
-g) 2. melléklet
+g)[^15]
 
-ga) 3. Vas Vármegyei Kormányhivatal pont 7. és 8. alpontja,
-
-gb) 5. Somogy Vármegyei Kormányhivatal pont 5. és 10. alpontja, valamint
-
-gc) 10. Heves Vármegyei Kormányhivatal pont 9. alpontja.
-
-[^3]: A 9. § c) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
-[^4]: A 9. § d) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
-[^5]: A 9. § e) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
-[^6]: A 9. § f) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
+[^9]: A 9. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 9. § c) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
+[^12]: A 9. § d) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
+[^13]: A 9. § e) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
+[^14]: A 9. § f) pontja a 13. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
+[^15]: A 9. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

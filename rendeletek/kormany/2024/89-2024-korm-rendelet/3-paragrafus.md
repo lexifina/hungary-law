@@ -1,3 +1,3 @@
-3. § A 383/2016. (XII. 2.) Korm. rendelet 20. § (1) bekezdése a következő g) és h) ponttal egészül ki:
+3. §[^3]
 
-(A kijelölt élelmiszerlánc-felügyeleti szerv)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

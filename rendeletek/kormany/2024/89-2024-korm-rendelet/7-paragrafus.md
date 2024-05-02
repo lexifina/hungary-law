@@ -1,1 +1,3 @@
-7. § A 383/2016. (XII. 2.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
