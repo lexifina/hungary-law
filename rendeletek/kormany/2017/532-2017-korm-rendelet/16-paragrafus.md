@@ -1,33 +1,27 @@
-16. § (1)[^45] Az ATM/ANS-rendszer üzembe helyezéséhez a léginavigációs szolgáltatónak, egyéb földi berendezés üzembe helyezéséhez az üzemben tartónak üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
+16. §[^45] (1) A légiforgalmi földi rádióberendezés üzemben tartójának üzemben tartási engedély iránti kérelmet kell benyújtania a légiközlekedési hatósághoz.
 
 (2) Az üzemben tartási engedély iránti kérelemnek tartalmaznia kell
 
-a) telepítési engedélyhez kötött egyéb földi berendezés esetében a telepítési engedély számát;
+a) az üzemben tartó nevét és lakcímét vagy székhelyét, telephelyét,
 
-b)[^46] ATM/ANS-rendszer esetében az Európai Légiforgalmi Szolgáltatási Hálózat átjárhatóságáról szóló 2004. március 10-i 552/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 552/2004/EK európai parlamenti és tanácsi rendelet) 6. cikkében meghatározott EK-ellenőrzési nyilatkozatot és az ahhoz kapcsolódó műszaki dokumentációt;
+b) az üzemben tartó elérhetőségét,
 
-c)[^47] a kapcsolódó ATM/ANS-rendszerelem esetében a gyártó által kiadott 552/2004/EK európai parlamenti és tanácsi rendelet 5. cikkében meghatározott EK-megfelelőségi vagy alkalmazhatósági nyilatkozatot, egyéb földi berendezés esetében a gyártó vagy a forgalomba hozatalért felelős személy által kibocsátott megfelelőségi nyilatkozatot;
+c) a kérelmezett berendezés és annak adatrögzítését biztosító berendezés megnevezését,
 
-d) egyéb földi berendezés esetében:
+d) a kérelmezett berendezés telepítésének helyét, hogy mely repülőtéren vagy leszállóhelyen telepítik.
 
-da) az üzemben tartó megnevezését,
+(3) A kérelemhez csatolni kell
 
-db) a berendezésnek a telepítő által a telepítés helyén végzett földi és – ha szükséges – légi ellenőrzéséről szóló, valamint a próbaüzemelés során felvett jegyzőkönyveket,
+a) az NMHH engedélyező határozatát a rádióhoz,
 
-dc) a berendezés karbantartási utasítását,
+b) gyártói megfelelőségi tanúsítványt,
 
-e) telepítési engedélyhez nem kötött egyéb földi berendezés esetében a berendezés tanulmánytervét.
+c) kezelési útmutatót, törzskönyvet,
 
-(3) A kérelem benyújtásakor igazolni kell
+d) karbantartási szerződést,
 
-a) a létesítmény érintésvédelmi, valamint – ahol indokolt – villámvédelmi megfelelőségét,
+e) – ha szoftveresen történik a hangrögzítés – az alkalmazott szoftver eredetiségét igazoló dokumentumot,
 
-b)[^48] egyéb berendezéssel összefüggésben működő vagy arra hatással lévő ATM/ANS-rendszer, illetve egyéb földi berendezés esetében az együttműködtethetőség vizsgálatát.
+f) díjfizetési igazolást.
 
-(4)[^49] További szervezet kinevezése vagy a kinevezés visszavonása esetén a légiközlekedési hatóság a kijelölést követő 30 napon belül tájékoztatja a közlekedésért felelős minisztert (a továbbiakban: miniszter). A légiközlekedési hatóság értesítése alapján a miniszter végrehajtja az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 69. cikk (5) bekezdésében foglalt tájékoztatási feladatokat.
-
-[^45]: A 16. § (1) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^46]: A 16. § (2) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^47]: A 16. § (2) bekezdés c) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § e) pontja szerint módosított szöveg.
-[^48]: A 16. § (3) bekezdés b) pontja a 348/2019. (XII. 23.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^49]: A 16. § (4) bekezdése a 348/2019. (XII. 23.) Korm. rendelet 17. § f) pontja szerint módosított szöveg.
+[^45]: A 16. § a 94/2024. (IV. 25.) Korm. rendelet 8. §-ával megállapított szöveg.

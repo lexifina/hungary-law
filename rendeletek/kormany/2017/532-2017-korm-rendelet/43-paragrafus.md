@@ -1,6 +1,6 @@
 43. § (1) A 3. § (1) bekezdésében meghatározott kérelmet – a gazdasági célú légiközlekedési tevékenység tervezett megkezdése előtt legalább 2 hónappal – írásban kell a légiközlekedési hatósághoz benyújtani.
 
-(2)[^65] A tevékenységi engedély iránti kérelemnek az Ákr.-ben foglaltakon túl tartalmaznia kell
+(2)[^56] A tevékenységi engedély iránti kérelemnek az Ákr.-ben foglaltakon túl tartalmaznia kell
 
 a) a kérelmező központi ügyintézésének helyét, telefonszámát, cégjegyzékben nyilvántartott kérelmező esetében továbbá a cégnevét, a székhelyét, a cégjegyzékszámát,
 
@@ -18,4 +18,4 @@ b) a pénzügyi teljesítőképességet,
 
 c) a biztosítási kötelezettségre vonatkozóan az 1008/2008/EK európai parlamenti és tanácsi rendelet 11. cikkében, valamint a légifuvarozókra és légi járművek üzemben tartóira vonatkozó biztosítási követelményekről szóló 2004. április 21-i 785/2004/EK európai parlamenti és tanácsi rendeletben meghatározott felelősségbiztosítás fennállását.
 
-[^65]: A 43. § (2) bekezdés nyitó szövegrésze a 84/2024. (IV. 17.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^56]: A 43. § (2) bekezdés nyitó szövegrésze a 84/2024. (IV. 17.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-19. §[^57]
+19. §[^48]
 
-[^57]: A 19. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^48]: A 19. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.

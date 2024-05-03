@@ -10,17 +10,17 @@ b) AME: a 27/2014. (IV. 30.) NFM rendelet 2. § 3. pontjában meghatározott fog
 
 c) ANS szolgáltató: az egységes európai égbolt létrehozására vonatkozó keret megállapításáról szóló, 2004. március 10-i 549/2004/EK európai parlamenti és a tanácsi rendelet (a továbbiakban: 549/2004/EK európai parlamenti és a tanácsi rendelet) 2. cikk 5. pontjában meghatározott léginavigációs szolgáltató (Air Navigation Service Provider);
 
-d) ATS felderítő rendszer: légijárművek azonosítására alkalmas rendszerekre használt gyűjtőfogalom, amely érzékelő eszközöket, adatátviteli kapcsolatokat, adatfeldolgozó rendszert, helyzetképernyőt tartalmaz (ATS surveillance system);
+d)[^1]
 
-e) ATS felderítő szolgálat: a légiforgalmi felderítő rendszer közvetlen felhasználásával nyújtott szolgáltatás (ATS surveillance service);
+e)[^2]
 
-f)[^1] ATM/ANS-rendszer és -rendszerelem: a polgári légiközlekedés területén alkalmazandó közös szabályokról és az Európai Unió Repülésbiztonsági Ügynökségének létrehozásáról és a 2111/2005/EK, az 1008/2008/EK, a 996/2010/EU, a 376/2014/EU európai parlamenti és tanácsi rendelet és a 2014/30/EU és a 2014/53/EU európai parlamenti és tanácsi irányelv módosításáról, valamint az 552/2004/EK és a 216/2008/EK európai parlamenti és tanácsi rendelet és a 3922/91/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. július 4-i 2018/1139 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2018/1139 európai parlamenti és tanácsi rendelet] meghatározott fogalom;
+f)[^3]
 
 g) éves minőségbiztosítási ellenőrzési program: egy adott naptári évben végrehajtani tervezett légiközlekedés védelmi minőségbiztosítási ellenőrzéseket tartalmazó dokumentum;
 
 h) földi kiszolgálás: a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 71. § 23. pontjában említett tevékenység;
 
-i) GAT: a légiforgalmi szolgálatok ellátásának és eljárásainak szabályairól szóló 57/2016. (XII. 22.) NFM rendelet [a továbbiakban: 57/2016. (XII. 22.) NFM rendelet] 3. § 47. pontjában meghatározott fogalom;
+i)[^4] GAT: az (EU) 2018/1139 európai parlamenti és tanácsi rendelet 3. cikk 21. pontjában meghatározott fogalom;
 
 j) lábról induló sárkányrepülő eszköz: a légijármű és a repülőeszköz személyzet, valamint a repülésüzemi tiszt képzéséről, vizsgáztatásáról, engedélyeiről és a képzésükben részt vevő képző szervezetek engedélyezéséről szóló 53/2016. (XII. 16.) NFM rendelet [a továbbiakban: 53/2016. (XII. 16.) NFM rendelet] 2. § 19. pontjában meghatározott fogalom;
 
@@ -28,13 +28,13 @@ k) minőségbiztosítási ellenőrzési terv: meghatározott légiközlekedés v
 
 l) motoros légijármű: a hangsebesség alatti, sugárhajtású repülőgép, kivéve a STOL repülőgép; a 9000 kg-nál nagyobb maximális engedélyezett felszálló tömegű légcsavaros repülőgép; a 9000 kg, vagy ennél kisebb maximális engedélyezett felszálló tömegű légcsavaros repülőgép, kivéve a kizárólag tűzoltásra, mezőgazdasági vagy erdőgazdasági szóró tevékenységre használt és a muzeális értéket képviselő repülőgép; a helikopter, kivéve a kizárólag tűzoltásra, mezőgazdasági vagy erdőgazdasági szóró tevékenységre, külső teher emelésre és szállításra használt helikoptert; a 450 kg, vagy ennél kisebb maximális engedélyezett felszálló tömegű motoros légijármű és a lajstromozásra nem kötelezett légijármű;
 
-m) OAT: az 57/2016. (XII. 22.) NFM rendelet 3. § 127. pontjában meghatározott fogalom;
+m)[^5]
 
 n) STOL (Short take-off and landing) repülőgép: olyan hangsebesség alatti, sugárhajtású repülőgép, amelynek a felszállásához szükséges futópálya hossza 610 méternél rövidebb;
 
 o) szakmai irányító: a külön jogszabályban meghatározott légi és földi üzemeltetésért, a szakszemélyzet képzéséért, a légijármű karbantartásért és a minőségbiztosításért felelős vezető személy;
 
-p) TMA: az 57/2016. (XII. 22.) NFM rendelet 3. § 172. pontjában meghatározott fogalom;
+p)[^6] TMA: az (EU) 2017/373 bizottsági végrehajtási rendelet I. Melléklet 239. pontjában meghatározott fogalom (Terminal Control Area);
 
 q) vezető: a gazdasági társaság vezetője, vezető tisztségviselője, az egyéni vállalkozó;
 
@@ -42,4 +42,9 @@ r) WGS–84: a léginavigációs és a légiközlekedés biztonságát szolgál�
 
 s) KIT: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló 21/2015. (V. 4.) NFM rendelet 2. § 10. pontjában meghatározott fogalom.
 
-[^1]: Az 1. § f) pontja a 348/2019. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^1]: Az 1. § d) pontját a 94/2024. (IV. 25.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § e) pontját a 94/2024. (IV. 25.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § f) pontját a 94/2024. (IV. 25.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § i) pontja a 94/2024. (IV. 25.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § m) pontját a 94/2024. (IV. 25.) Korm. rendelet 12. § a) pontja hatályon kívül helyezte.
+[^6]: Az 1. § p) pontja a 94/2024. (IV. 25.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

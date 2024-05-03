@@ -1,4 +1,4 @@
-171/A. §[^86] (1)[^87] A távoli pilóták pilóta nélküli légijárművek vezetéséhez szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet Melléklet A. rész
+171/A. §[^77] (1)[^78] A távoli pilóták pilóta nélküli légijárművek vezetéséhez szükséges, az (EU) 2019/947 bizottsági végrehajtási rendelet Melléklet A. rész
 
 a) UAS.OPEN.020 4. pont b) alpontja,
 
@@ -16,5 +16,5 @@ a) a képzőszerv erre irányuló kérelme esetén,
 
 b) amennyiben megállapítja, hogy a képzőszerv nem teljesíti az engedély kiadásának feltételeit.
 
-[^86]: A 171/A. §-t a 39/2021. (II. 2.) Korm. rendelet 22. §-a iktatta be.
-[^87]: A 171/A. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 57. §-ával megállapított szöveg.
+[^77]: A 171/A. §-t a 39/2021. (II. 2.) Korm. rendelet 22. §-a iktatta be.
+[^78]: A 171/A. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 57. §-ával megállapított szöveg.

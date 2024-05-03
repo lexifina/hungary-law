@@ -1,8 +1,8 @@
-## 9. [^37] Telepítési és üzemben tartási engedéllyel összefüggő eljárási szabályok
+## 9. [^41] Üzemben tartási engedéllyel összefüggő eljárási szabályok
 
-13. § (1)[^38] A légiközlekedési hatóság az ATM/ANS-rendszer vagy -rendszerelem felügyeletét az (EU) 2017/373 bizottsági végrehajtási rendeletnek megfelelően látja el.
+13. §[^42] (1) A légiközlekedési hatóság a funkcionális rendszerek felügyeletét az (EU) 2017/373 bizottsági végrehajtási rendeletnek megfelelően látja el.
 
-(2) Az egyéb földi berendezés felügyeletét a légiközlekedési hatóság végzi.
+(2) A légiforgalmi földi rádióberendezések üzemben tartási engedélyezését és a berendezéseknek a gyártói előírásoknak megfelelő működtetésének és karbantartásának felügyeletét a légiközlekedési hatóság végzi.
 
-[^37]: A 9. alcím címe a 348/2019. (XII. 23.) Korm. rendelet 17. § c) pontja szerint módosított szöveg.
-[^38]: A 13. § (1) bekezdése a 402/2020. (VIII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^41]: A 9. alcím címe a 348/2019. (XII. 23.) Korm. rendelet 17. § c) pontja, a 94/2024. (IV. 25.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^42]: A 13. § a 94/2024. (IV. 25.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
 ## 21. A szakszemélyzetek képzésével, valamint a repüléstájékoztatók, a gyakornok légiforgalmi irányítók és a légiforgalmi irányítók nyelvismereti követelményével összefüggő közigazgatási hatósági eljárási szabályok
 
-60. §[^69]
+60. §[^60]
 
-[^69]: A 60. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.
+[^60]: A 60. §-t a 348/2019. (XII. 23.) Korm. rendelet 18. §-a hatályon kívül helyezte.

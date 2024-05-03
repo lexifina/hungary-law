@@ -1,4 +1,4 @@
-7/A. §[^23] (1) A repülőtér üzemben tartási engedélyét az üzemeltetni kívánt repülőtér egészére kell kérni.
+7/A. §[^25] (1) A repülőtér üzemben tartási engedélyét az üzemeltetni kívánt repülőtér egészére kell kérni.
 
 (2) Az üzemben tartási engedély iránti kérelemhez mellékelni kell
 
@@ -82,4 +82,4 @@ j) a repülőtér mentő és tűzoltó kategóriája,
 
 k) kérelmező személy neve, aláírása, az aláírás helye, időpontja.
 
-[^23]: A 7/A. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.
+[^25]: A 7/A. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.

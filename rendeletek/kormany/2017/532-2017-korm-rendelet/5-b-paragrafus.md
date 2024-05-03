@@ -1,6 +1,6 @@
-## 4/B. [^7] Koordinációs szervezetekre vonatkozó kiegészítő eljárási szabályok
+## 4/B. [^12] Koordinációs szervezetekre vonatkozó kiegészítő eljárási szabályok
 
-5/B. § (1)[^8] A koordinált légtér koordinációs feladatait ellátó szervezet engedélyét, a Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, a versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét a légiközlekedési hatóság – kérelemre – 2 éves időtartamra adja ki.
+5/B. § (1)[^13] A koordinált légtér koordinációs feladatait ellátó szervezet engedélyét, a Drop Zone légtér koordinációs feladatait ellátó szervezet engedélyét, a versenylégtér koordinációs feladatait ellátó szervezet engedélyét, valamint a tanúsítási célú veszélyes légtér koordinációs feladatait ellátó szervezet engedélyét a légiközlekedési hatóság – kérelemre – 2 éves időtartamra adja ki.
 
 (2) Az (1) bekezdés szerinti engedélyt a légiközlekedési hatóság
 
@@ -10,5 +10,5 @@ b) ha a jogszabálysértés vagy az engedélyben foglaltak megsértése a légik
 
 (3) A légiközlekedési hatóság a koordinációs feladatokat ellátó szervezet tevékenységét rendszeresen ellenőrzi.
 
-[^7]: A 4/B. alcímet (5/B. §) a 713/2020. (XII. 30.) Korm. rendelet 58. § (2) bekezdése iktatta be.
-[^8]: Az 5/B. § (1) bekezdése a 199/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^12]: A 4/B. alcímet (5/B. §) a 713/2020. (XII. 30.) Korm. rendelet 58. § (2) bekezdése iktatta be.
+[^13]: Az 5/B. § (1) bekezdése a 199/2023. (V. 22.) Korm. rendelet 5. §-ával megállapított szöveg.
