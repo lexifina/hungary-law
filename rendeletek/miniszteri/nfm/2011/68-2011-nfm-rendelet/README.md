@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-68-20-2
 | 2022-08-01 | 2011-68-20-2W.6 | 7/2022. (VII. 27.) TIM rendelet |
 | 2022-08-06 | 2011-68-20-2W.7 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2024-01-03 | 2011-68-20-2W.8 | 40/2023. (XII. 29.) ÉKM rendelet |
+| 2024-05-03 | 2011-68-20-2W.9 | 9/2024. (IV. 25.) ÉKM rendelet |

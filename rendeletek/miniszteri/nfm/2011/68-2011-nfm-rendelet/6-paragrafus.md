@@ -1,5 +1,6 @@
-6. § (1)–(4)[^9]
+6. § (1)–(4)[^7]
 
-(5) A 262/2009/EK bizottsági rendelet 1. cikk (2) bekezdésében meghatározott rendszerek és kapcsolódó eljárások módosítása és ezen új rendszerek és eljárások bevezetését megelőzően veszélyazonosítást, kockázatértékelést és -mérsékelést magában foglaló biztonságértékelést kell végezni. A biztonságértékelés vonatkozásában a 262/2009/EK bizottsági rendelet 4–8. és 12. cikkében meghatározott követelményeket egyben minimális biztonsági követelménynek kell tekinteni.
+(5)[^8]
 
-[^9]: A 6. § (1)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 55. § c) pontja hatályon kívül helyezte.
+[^7]: A 6. § (1)–(4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 55. § c) pontja hatályon kívül helyezte.
+[^8]: A 6. § (5) bekezdését a 9/2024. (IV. 25.) ÉKM rendelet 5. § b) pontja hatályon kívül helyezte.

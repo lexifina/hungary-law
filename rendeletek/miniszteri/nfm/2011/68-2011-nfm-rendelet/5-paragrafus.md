@@ -1,3 +1,3 @@
-5. §[^8]
+5. §[^6]
 
-[^8]: Az 5. §-t az 55/2017. (XII. 27.) NFM rendelet 55. § b) pontja hatályon kívül helyezte.
+[^6]: Az 5. §-t az 55/2017. (XII. 27.) NFM rendelet 55. § b) pontja hatályon kívül helyezte.
