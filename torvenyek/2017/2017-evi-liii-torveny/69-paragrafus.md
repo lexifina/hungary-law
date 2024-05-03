@@ -24,9 +24,9 @@ g) kezdeményezi a szolgáltató vezetője vezetői jogkörének a jogsértés m
 
 h) az a)–g) és i)–l) pontban felsorolt intézkedések mellett vagy önállóan
 
-ha) az 1. § (1) bekezdés a)–c) és e) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a jóváhagyásra jogosult testület által elfogadott éves beszámoló vagy az összevont (konszolidált) éves beszámoló szerinti éves nettó árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel 10%-ának megfelelő összegig, legfeljebb kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
+ha) az 1. § (1) bekezdés a)–c) és e) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a jóváhagyásra jogosult testület által elfogadott éves beszámoló vagy az összevont (konszolidált) éves beszámoló szerinti éves nettó árbevétel vagy a számviteli jogszabályok szerinti, annak megfelelő bevétel 10%-ának megfelelő összegig, vagy kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
 
-hb) az 1. § (1) bekezdés d) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a tárgyévet megelőző év tagdíjbevételei és támogatásai együttes összege 10%-ának megfelelő összegig, legfeljebb kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
+hb) az 1. § (1) bekezdés d) pontjában meghatározott szolgáltató esetében négyszázezer forinttól a tárgyévet megelőző év tagdíjbevételei és támogatásai együttes összege 10%-ának megfelelő összegig, vagy kettőmilliárd forintig terjedő pénzbírságot szabhat ki,
 
 hc) az 1. § (1) bekezdés f)–k) és m)–r) pontjában meghatározott szolgáltató esetében százezer forinttól legfeljebb négyszázmillió forintig terjedő pénzbírságot szabhat ki;
 
@@ -43,6 +43,8 @@ l) az 1. § (1) bekezdés a)–e), n) és o) pontjában meghatározott szolgált
 la) figyelmeztetheti,
 
 lb) vezető állású személy esetében százezer forinttól legfeljebb ötszázmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal, foglalkoztatott, segítő családtag esetében pedig húszezer forinttól legfeljebb húszmillió forintig terjedő, a szolgáltató által át nem vállalható pénzbírsággal sújthatja.
+
+(1a) A bírság mértékét az (1) bekezdés h) pont ha), hb) és hd) alpont szerint meghatározott magasabb összegű bírsághatárra figyelemmel kell megállapítani.
 
 (2) Az 1. § (1) bekezdés a)–e) és m) pontja szerinti szolgáltatók felett e törvény szerint felügyeletet ellátó szerv eljárásában – az MNBtv.-ben meghatározott esetkörökön túlmenően – a döntés meghozataláig terjedő időtartamra önálló jogorvoslattal meg nem támadható végzésben az (1) bekezdésben felsorolt, általa megtehető intézkedéseket – a h) és l) pont kivételével – kivételes intézkedésként is alkalmazza, ha erre – a pénzmosás és a terrorizmus finanszírozása tilalmának hatékony érvényesítéséhez fűződő társadalmi érdek védelme miatt – halaszthatatlanul szükség van.
 
