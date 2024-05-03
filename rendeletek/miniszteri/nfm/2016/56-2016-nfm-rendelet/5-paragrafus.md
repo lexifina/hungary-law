@@ -6,7 +6,7 @@ a) ellenőrzött légtérben az illetékes légiforgalmi irányító egység eng
 
 b) nem ellenőrzött légtérben az illetékes repüléstájékoztató egység tájékoztatásával
 
-## lehet.
+lehet.
 
 (2) Ha egy légijármű kényszerhelyzetben vagy egyéb sürgős intézkedést kívánó helyzetben, a biztonságos leszállás érdekében tömegének a legnagyobb leszállási tömegre történő csökkentése céljából üzemanyag-kibocsátásra kényszerül, azt lehetőség szerint 10 000 láb (3050 m) tengerszint feletti magasságon, egyenes vonalú repüléssel,
 
@@ -14,6 +14,6 @@ a) ellenőrzött légtérben az illetékes légiforgalmi irányító egység eng
 
 b) nem ellenőrzött légtérben az illetékes repüléstájékoztató egység tájékoztatásával
 
-## kell végeznie.
+kell végeznie.
 
 (3) 10 000 láb (3050 m) tengerszint feletti magasság alatt történő kibocsátás esetén sem végezhető üzemanyag-kibocsátás téli időszakban 8000 láb (2450 m), nyári időszakban 6000 láb (1850 m) tengerszint feletti magasság alatt.

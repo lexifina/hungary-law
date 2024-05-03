@@ -1,5 +1,3 @@
-## A REPÜLÉSI TERV ŰRLAP KITÖLTÉSE
-
 ## 1. A repülési terv űrlap
 
 ## 1.1. Az egyedi repülési tervek írásban történő benyújtására szolgáló repülési terv űrlap három részből áll:

@@ -1,5 +1,3 @@
-## MÉRTÉKEGYSÉGEK
-
 |  | A | B | C |
 
 | 1 | Megnevezés | Mértékegység |
@@ -32,7 +30,7 @@
 
 5. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^173]
 
-## FEDÉLZETI VÁLASZJELADÓ (TRANSZPONDER) ÜZEMELTETÉSÉNEK SZABÁLYAI
+FEDÉLZETI VÁLASZJELADÓ (TRANSZPONDER) ÜZEMELTETÉSÉNEK SZABÁLYAI
 
 1. Az S módú transzpondert minden esetben ilyen módban kell üzemeltetni, kivéve, ha az ATS egység egyéb utasítást ad.
 

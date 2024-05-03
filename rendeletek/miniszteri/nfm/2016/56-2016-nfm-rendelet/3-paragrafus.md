@@ -1,5 +1,3 @@
-## összhangban kell alkalmazni.
-
 ## 2. Értelmező rendelkezések
 
 3. § (1) E rendelet alkalmazásában:

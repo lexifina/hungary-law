@@ -18,7 +18,7 @@ ae) a rendeltetési repülőtér által előírt vagy a légijármű vezetője �
 
 b)[^90] nemzetközi, IFR vagy vegyes (IFR/VFR, VFR/IFR) repülés repülési tervét a Légiforgalmi Szolgálatok Bejelentő Irodája (LHBPZPZX)
 
-## számára kell továbbítania.
+számára kell továbbítania.
 
 (3)[^91] Az AFIS egységgel rendelkező repülőtéren benyújtott repülési tervet az AFIS-nak, ha a feladó AFIS egységnél AFTN terminál nem áll rendelkezésre, elsődlegesen elektronikus formában, ennek hiányában telefonon,
 
@@ -26,13 +26,15 @@ a) belföldi VFR repülés esetén a Budapest ATS Központ,
 
 b) nemzetközi, IFR vagy vegyes (IFR/VFR, VFR/IFR) repülés esetén a Légiforgalmi Szolgálatok Bejelentő Irodája
 
-## számára kell továbbítania.
+számára kell továbbítania.
 
 (4) Ha a rendeltetési repülőtéren ATS egység nincs, a légijármű vezetőjének a repülőteret:
 
 a) ha az indulási és a rendeltetési repülőtéren rendelkezésre áll AFTN terminál, AFTN-en, vagy
 
 b) ha az indulási vagy a rendeltetési repülőtéren nem áll rendelkezésre AFTN terminál, telefonon
+
+kell tájékoztatnia.
 
 [^87]: A 19. alcím címe a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés e) pontja szerint módosított szöveg.
 [^88]: A 31. § (1) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés i) pontja szerint módosított szöveg.

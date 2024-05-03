@@ -1,5 +1,3 @@
-## A RÁDIÓÖSSZEKÖTTETÉS FELVÉTELEKOR HASZNÁLANDÓ HÍVÓJELEK
-
 |  | A | B | C |
 
 | 1 | Kifejezés | Kiejtés | Jelentése |

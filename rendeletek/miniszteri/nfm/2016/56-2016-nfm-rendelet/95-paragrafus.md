@@ -24,6 +24,8 @@ j)[^167] légiforgalmi szolgáltatást/léginavigációs szolgálatokat és más
 
 k)[^168] a 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/373 rendeletnek a légiforgalmi szolgáltatásra/a léginavigációs szolgálatokra, a légtérszerkezet kialakítására, az adatminőségre és a futópálya biztonságára vonatkozó követelmények tekintetében történő módosításáról, valamint a 73/2010/EU rendelet hatályon kívül helyezéséről szóló, 2020. február 14-i (EU) 2020/469 bizottsági végrehajtási rendelet
 
+végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^163]: A 95. § e) pontja a 7/2021. (II. 5.) ITM rendelet 7. § b) pontja szerint módosított szöveg.
 [^164]: A 95. § g) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.
 [^165]: A 95. § h) pontját a 33/2020. (X. 5.) ITM rendelet 31. §-a iktatta be.

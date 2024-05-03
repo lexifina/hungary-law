@@ -1,5 +1,3 @@
-## 50. §
-
 ## 34. Légiforgalmi esemény jelentése
 
 51. § (1) A légijárműnek a légiforgalmi eseményt jelentenie kell az érintett ATS egység részére a légiforgalmi szolgálatok ellátásával kapcsolatos különleges események – különösen légijárművek meg nem engedett közelsége, akadály a futópályán, futópálya-sértés, hibás eljárások, be nem tartott eljárások vagy a földi berendezések üzemzavara által okozott, a légijárműre veszélyt jelentő egyéb komoly nehézségek – észlelése esetén.

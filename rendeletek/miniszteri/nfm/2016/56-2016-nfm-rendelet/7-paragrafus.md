@@ -18,11 +18,11 @@ aa)[^46] az (1) bekezdés a) és b) alpontja esetében,
 
 ab) a Drop Zone légtérben végrehajtott ejtőernyős ugrások esetében az illetékes légiforgalmi irányító egységgel megkötött együttműködési megállapodásban meghatározott esetben
 
-## az illetékes légiforgalmi irányító egység engedélye,
+az illetékes légiforgalmi irányító egység engedélye,
 
 b)[^47] nem ellenőrzött légtérben az (1) bekezdés a) alpontjában meghatározott esetben az illetékes repüléstájékoztató egység tájékoztatása
 
-## alapján hajtható végre.
+alapján hajtható végre.
 
 (4) IFR szerint működő légijármű által végzett megközelítés, leszállás vagy indulás végrehajtásakor az ellenőrzött vagy AFIS egységgel rendelkező repülőtéren ejtőernyős ugrás nem hajtható végre.
 

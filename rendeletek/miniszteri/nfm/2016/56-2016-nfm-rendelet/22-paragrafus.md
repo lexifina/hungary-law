@@ -1,5 +1,3 @@
-## 21. §
-
 ## 15. [^60] A repülési terv benyújtása
 
 22. § (1)[^61] A repülési tervet – az AFIL kivételével – a légijármű személyzete vagy üzembentartója nyújtja be a következő átvételre kijelölt egységeken keresztül a Légiforgalmi Szolgálatok Bejelentő Irodájához:

@@ -6,4 +6,6 @@ b) a közös repülési szabályok és a léginavigációs szolgáltatásokra é
 
 c) az (EU) 2017/373 bizottsági végrehajtási rendelettel
 
+összhangban kell alkalmazni.
+
 [^2]: A 2. § a 7/2022. (VII. 27.) TIM rendelet 6. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 3. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^172]
 
-## LÉGIFORGALMI ESEMÉNY JELENTÉS ŰRLAP
+LÉGIFORGALMI ESEMÉNY JELENTÉS ŰRLAP
 
 1. Az űrlap képe
 

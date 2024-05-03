@@ -14,7 +14,7 @@ e) a hajtómű nélküli légijármű kivételével a 4000 láb (1200 m) és 950
 
 f) a TIZ-t el nem hagyó, rádióberendezéssel fel nem szerelt, hajtómű nélküli légijármű kivételével a kijelölt TIZ-ekben üzemeltetett
 
-## légijárművet.
+légijárművet.
 
 (2) A SERA rendelet melléklet 13. szakasz SERA.13001 pont a) pontjában meghatározottak figyelembevételével – a (3) bekezdésben meghatározott kivétellel – „A” módú, 4096 kódbeállítási lehetőséggel rendelkező transzponderrel kell felszerelni azt a légijárművet, amely VFR szerint az államhatárt keresztező repülést hajt végre.
 

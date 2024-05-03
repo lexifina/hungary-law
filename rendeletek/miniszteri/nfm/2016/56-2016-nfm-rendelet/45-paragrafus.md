@@ -1,5 +1,3 @@
-## 44. §[^118]
-
 ## V. Fejezet
 
 ## LÉGIFORGALMI TANÁCSADÓ ÉS REPÜLÉSTÁJÉKOZTATÓ SZOLGÁLATOK
@@ -24,5 +22,4 @@
 
 (10) Az ellenőrzött légtéren kívül, VFR szerint működő légijármű csak a felderítő berendezések által észlelt légijárműről kaphat ATS felderítő berendezésen alapuló forgalmi tájékoztatást.
 
-[^118]: A 44. §-t a 33/2020. (X. 5.) ITM rendelet 34. § i) pontja hatályon kívül helyezte.
 [^119]: A 45. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés y) pontja szerint módosított szöveg.

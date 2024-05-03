@@ -1,5 +1,3 @@
-## kell tájékoztatnia.
-
 ## 21. Elérhetőségek közzététele
 
 ## 32. §[^92] A HungaroControl Magyar Légiforgalmi Szolgálat Zrt. az AIP-ben és honlapján közzéteszi a következők telefon- és telefaxszámait, elektronikus elérhetőségeit:
