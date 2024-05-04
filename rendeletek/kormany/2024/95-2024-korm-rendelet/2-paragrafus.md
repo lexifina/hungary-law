@@ -1,0 +1,1 @@
+2. § A Jöt. 117. § (1) bekezdésétől eltérően a mezőgazdaságban felhasznált gázolaj után a Jöt. 110. § (1) bekezdés c) pont ca) alpontja szerinti esetben a megfizetett adó 90 százaléka, a Jöt. 110. § (1) bekezdés c) pont cb) alpontja szerinti esetben a megfizetett adó 90,5 százaléka igényelhető vissza.
