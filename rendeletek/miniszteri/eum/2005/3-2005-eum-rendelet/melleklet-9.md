@@ -18,7 +18,7 @@
 
 ## – a külföldről behozott, illetve a külföldre kivitt vérkészítmények száma.
 
-9. melléklet a 3/2005. (II. 10.) EüM rendelethez[^85]
+9. melléklet a 3/2005. (II. 10.) EüM rendelethez[^86]
 
 1. Az ipari célú vérmintavétel feltételei
 
@@ -80,4 +80,4 @@
 
 4.2. Ha a vérmintaadó hemoglobintszint-mértéke nem megfelelő (azaz a hemoglobinszint nők esetén 12,5 g/dl-nél, férfiak esetén 13,5 g/dl-nél alacsonyabb), vérmintaadásra nem kerülhet sor.
 
-[^85]: A 9. mellékletet a 2/2019. (I. 16.) EMMI rendelet 4. §-a iktatta be.
+[^86]: A 9. mellékletet a 2/2019. (I. 16.) EMMI rendelet 4. §-a iktatta be.

@@ -6,19 +6,21 @@
 
 ## b) Rh(D) vércsoport meghatározás,
 
-## c) A donorok vizsgálata az alábbi fertőzésekre nézve:
+## c)[^84] A donorok vizsgálata az alábbi fertőzésekre nézve:
 
-## – Hepatitis-B (HBs antigén, illetve a donor első véradása esetén HBs antigén és HBc antitest),
+## ca) Hepatitis-B (HBs antigén, illetve a donor első véradása esetén HBs antigén és HBc antitest),
 
-## – Hepatitis-C antitest,
+## cb) Hepatitis-C antitest,
 
-## – HIV 1–2 antitest,
+## cc) HIV 1–2 antitest,
 
-## – Luesz (treponema antitest).
+## cd) Luesz (treponema antitest),
+
+## ce) WNV ID-NAT (a Nemzeti Népegészségügyi és Gyógyszerészeti Központ által meghatározott szezonalitás szerinti időszakban).
 
 ## További vizsgálatokra is szükség lehet speciális komponensek vagy donorok esetén, illetve epidemiológiai helyzetekben.
 
-6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^84]
+6. számú melléklet a 3/2005. (II. 10.) EüM rendelethez[^85]
 
 A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmények
 
@@ -196,4 +198,5 @@ A vérre és vérkomponensekre vonatkozó minőségi és biztonsági követelmé
 
 | Granulocita-tartalom | Több, mint 1×1010 granulocita egységenként |
 
-[^84]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.
+[^84]: Az 5. melléklet c) pontja a 21/2024. (V. 3.) BM rendelet 1. §-ával megállapított szöveg.
+[^85]: A 6. számú melléklet a 45/2011. (VII. 7.) NEFMI rendelet 4. §-a, a 44/2016. (XII. 28.) EMMI rendelet 48. § b) és j) pontja szerint módosított szöveg.
