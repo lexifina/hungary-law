@@ -1,4 +1,4 @@
-## 9/M.[^42] Pro Caritate díj
+## 9/M.[^44] Pro Caritate díj
 
 9/M. § (1) A Pro Caritate díj a szociális ellátás fejlesztéséhez való hozzájárulásért, a szociális szakmák területén végzett kiemelkedő tevékenység elismerésére, a gyermekvédelem, a fogyatékossággal élő és megváltozott munkaképességű emberek rehabilitációja érdekében, illetve az ezzel foglalkozó intézményekben végzett, továbbá a belügyminiszter feladatkörébe tartozóan az esélyteremtés előmozdítása területén végzett kiemelkedő szakmai, közszolgálati, karitatív tevékenységért adományozható.
 
@@ -8,7 +8,7 @@
 
 (4) A Pro Caritate díjjal díjazott emlékérmet és az adományozást igazoló oklevelet kap. A díj kerek alakú, bronzból készült emlékérem, amelynek átmérője 97 milliméter. Az emlékérem Kampfl József szobrászművész alkotása, egyoldalas, egészalakos figurákat ábrázol: földön ülő férfialaknak fiatal nő bögrében vizet ad, a köriratban a „PRO CARITATE” felirat található.
 
-(5)[^43] A Pro Caritate díjhoz pénzjutalom adható. A Pro Caritate díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
+(5)[^45] A Pro Caritate díjhoz pénzjutalom adható. A Pro Caritate díjjal adható pénzjutalom mértéke kizárólag az illetményalap tízszeresének megfelelő összeg lehet.
 
-[^42]: A 9/M. alcímet (9/M. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
-[^43]: A 9/M. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 13. §-ával megállapított szöveg.
+[^44]: A 9/M. alcímet (9/M. §-t) a 39/2022. (XI. 22.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^45]: A 9/M. § (5) bekezdése a 84/2023. (XII. 28.) BM rendelet 13. §-ával megállapított szöveg.

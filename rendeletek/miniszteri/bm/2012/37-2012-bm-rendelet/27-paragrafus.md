@@ -2,17 +2,17 @@
 
 ## SZOLGÁLATI JEL
 
-27. § (1)[^96] Szolgálati Jel adományozandó kitüntető címként a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél huzamos időn át szolgálati jogviszonyban álló személyek elismerésére a rendvédelmi feladatokat ellátó szerveknél eltöltött 10, 20, 30 és 40 év szolgálati idő után.
+27. § (1)[^99] Szolgálati Jel adományozandó kitüntető címként a belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szerveknél huzamos időn át szolgálati jogviszonyban álló személyek elismerésére a rendvédelmi feladatokat ellátó szerveknél eltöltött 10, 20, 30 és 40 év szolgálati idő után.
 
-(2)[^97] A szolgálati idő számítása szempontjából kizárólagosan az ugyanazon rendvédelmi feladatokat ellátó szervnél eltöltött szolgálati idő vehető figyelembe.
+(2)[^100] A szolgálati idő számítása szempontjából kizárólagosan az ugyanazon rendvédelmi feladatokat ellátó szervnél eltöltött szolgálati idő vehető figyelembe.
 
 (3) A Rendőrségi Szolgálati Jel, a Katasztrófavédelmi Szolgálati Jel és a Büntetés-végrehajtási Szolgálati Jel leírását és viselésének rendjét a 21. melléklet tartalmazza.
 
-(4)[^98]
+(4)[^101]
 
-(5)[^99] Szolgálati Jel adományozására a belügyminiszter jogosult. A Szolgálati Jel adományázására irányuló munkáltatói intézkedések tervezetét a rendvédelmi feladatokat ellátó szerv készíti elő és terjeszti fel a belügyminiszter részére kiadmányozásra.
+(5)[^102] Szolgálati Jel adományozására a belügyminiszter jogosult. A Szolgálati Jel adományázására irányuló munkáltatói intézkedések tervezetét a rendvédelmi feladatokat ellátó szerv készíti elő és terjeszti fel a belügyminiszter részére kiadmányozásra.
 
-[^96]: A 27. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § e) pontja, a 37/2015. (VI. 16.) BM rendelet 61. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^97]: A 27. § (2) bekezdése a 39/2022. (XI. 22.) BM rendelet 5. §-ával megállapított szöveg.
-[^98]: A 27. § (4) bekezdését a 2/2023. (II. 3.) MK rendelet 42. § b) pont be) alpontja hatályon kívül helyezte.
-[^99]: A 27. § (5) bekezdését a 34/2018. (XII. 20.) BM rendelet 3. §-a iktatta be.
+[^99]: A 27. § (1) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § e) pontja, a 37/2015. (VI. 16.) BM rendelet 61. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^100]: A 27. § (2) bekezdése a 39/2022. (XI. 22.) BM rendelet 5. §-ával megállapított szöveg.
+[^101]: A 27. § (4) bekezdését a 2/2023. (II. 3.) MK rendelet 42. § b) pont be) alpontja hatályon kívül helyezte.
+[^102]: A 27. § (5) bekezdését a 34/2018. (XII. 20.) BM rendelet 3. §-a iktatta be.
