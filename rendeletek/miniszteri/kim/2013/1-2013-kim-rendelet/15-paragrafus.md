@@ -1,3 +1,3 @@
-15. §[^53]
+15. §[^58]
 
-[^53]: A 15–18. §-t az 5/2014. (I. 27.) KIM rendelet 7. § (2) bekezdése hatályon kívül helyezte.
+[^58]: A 15–18. §-t az 5/2014. (I. 27.) KIM rendelet 7. § (2) bekezdése hatályon kívül helyezte.

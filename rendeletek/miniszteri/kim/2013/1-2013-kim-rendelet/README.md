@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1-20-2T
 | 2021-02-13 | 2013-1-20-2T.14 | 2/2021. (II. 12.) MvM rendelet |
 | 2022-02-02 | 2013-1-20-2T.15 | 3/2022. (II. 1.) MvM rendelet |
 | 2022-12-23 | 2013-1-20-2T.16 | 19/2022. (XII. 22.) MVM rendelet |
+| 2024-05-04 | 2013-1-20-2T.17 | 5/2024. (V. 3.) MVM rendelet |
