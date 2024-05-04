@@ -1,3 +1,3 @@
-3. § A 68/2011. (XI. 30.) NFM rendelet 17. §-a a következő (4) bekezdéssel egészül ki:
+3. §[^4]
 
-„(4) Az egyes légiközlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 9/2024. (IV. 25.) ÉKM rendelet hatálybalépése napján az 1. mellékletben meghatározott berendezésekre kiadott üzemben tartási engedélyek hatályukat vesztik.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

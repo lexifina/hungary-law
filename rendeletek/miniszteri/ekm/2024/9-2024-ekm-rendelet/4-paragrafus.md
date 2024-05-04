@@ -1,3 +1,3 @@
-4. § A 68/2011. (XI. 30.) NFM rendelet 18. §-a a következő f)–j) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
