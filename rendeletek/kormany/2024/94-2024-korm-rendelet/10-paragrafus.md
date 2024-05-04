@@ -1,3 +1,3 @@
-10. § Az 532/2017. (XII. 29.) Korm. rendelet 172. § (2) bekezdése a következő l)–p) ponttal egészül ki:
+10. §[^11]
 
-(Ez a rendelet)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

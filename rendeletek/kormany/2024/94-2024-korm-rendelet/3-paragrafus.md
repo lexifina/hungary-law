@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 382/2016. (XII. 2.) Korm. rendelet 26. § (2) és (3) bekezdése.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
