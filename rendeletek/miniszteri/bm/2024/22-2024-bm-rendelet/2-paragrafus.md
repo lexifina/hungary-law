@@ -1,3 +1,3 @@
-2. § A Rendelet 9/E. § (2) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(2) A Pro Sanitate díj átadására minden évben Batthyány-Strattmann László születése napja (október 28.) vagy a díjazott nyugdíjba vonulása alkalmából kerül sor.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
