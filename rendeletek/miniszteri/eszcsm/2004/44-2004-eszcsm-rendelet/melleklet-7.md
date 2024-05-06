@@ -1,5 +1,5 @@
 ## 3X06666.pdf
 
-7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^152]
+7. számú melléklet a 44/2004. (IV. 28.) ESZCSM rendelethez[^154]
 
-[^152]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.
+[^154]: A 7. számú mellékletet a 2/2012. (I. 3.) NEFMI rendelet 14. §-a iktatta be.

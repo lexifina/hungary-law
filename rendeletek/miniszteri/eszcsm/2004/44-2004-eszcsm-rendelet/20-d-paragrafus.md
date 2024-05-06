@@ -1,6 +1,6 @@
-## 20/C. §[^114] Az adatok rögzítésére vonatkozó kötelezettségeket az EESZT bármilyen okból történő elérhetetlensége esetén a hozzáférés helyreállítását követően, soron kívül kell teljesíteni.
+## 20/C. §[^115] Az adatok rögzítésére vonatkozó kötelezettségeket az EESZT bármilyen okból történő elérhetetlensége esetén a hozzáférés helyreállítását követően, soron kívül kell teljesíteni.
 
-20/D. §[^115]
+20/D. §[^116]
 
-[^114]: A 20/C. §-t a 29/2017. (X. 31.) EMMI rendelet 13. §-a iktatta be, szövege a 8/2020. (III. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^115]: A 20/D. §-t a 8/2020. (III. 12.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 37/2020. (X. 30.) EMMI rendelet 2. § (8) bekezdés b) pontja.
+[^115]: A 20/C. §-t a 29/2017. (X. 31.) EMMI rendelet 13. §-a iktatta be, szövege a 8/2020. (III. 12.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^116]: A 20/D. §-t a 8/2020. (III. 12.) EMMI rendelet 3. §-a iktatta be, hatályon kívül helyezte a 37/2020. (X. 30.) EMMI rendelet 2. § (8) bekezdés b) pontja.

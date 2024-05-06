@@ -1,4 +1,4 @@
-## 11/A. §[^63] Az orvosnak papíralapú vényt kell kiállítania
+## 11/A. §[^64] Az orvosnak papíralapú vényt kell kiállítania
 
 a) ha az elektronikus vény kiállítása nem lehetséges,
 
@@ -12,4 +12,4 @@ e) a 2. § (3) bekezdése szerinti „pro familia” jelzéssel történő gyóg
 
 f) ha a beteg a 7. § (3a) bekezdése szerint jelzi, hogy a gyógyszert nem Magyarországon kívánja kiváltani.
 
-[^63]: A 11/A. §-t a 29/2017. (X. 31.) EMMI rendelet 8. §-a iktatta be.
+[^64]: A 11/A. §-t a 29/2017. (X. 31.) EMMI rendelet 8. §-a iktatta be.
