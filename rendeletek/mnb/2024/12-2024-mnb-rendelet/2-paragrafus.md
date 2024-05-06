@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 24 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján hosszabb-rövidebb vízszintes vonalakból álló ábrázolás látható, amely a középpont felé sűrűsödve négy sportoló – kalapácsvető, úszó, kerekesszékes asztaliteniszező, kenus – absztrakt képét jeleníti meg. Az előlap szélén, köriratban, fent a „MAGYARORSZÁG” felirat, jobb oldalon a „15000” értékjelzés és a „FORINT” felirat, vízszintesen, lent a „2024” verési évszám, bal oldalon a „BP.” verdejel olvasható. Az előlap jobb oldali szélén, a kenulapát ábrázolása alatt Endrődy Zoltán tervezőművész mesterjegye látható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben egy stadion absztrakt, felülnézeti ábrázolása látható, a Magyar Olimpiai Csapat és a Magyar Paralimpiai Csapat logójával. A hátlap szélétől a stadion ábrázolásáig egyre sűrűsödő hosszabb-rövidebb vízszintes vonalak láthatók. A hátlap szélén, köriratban, fent a „MAGYAR OLIMPIAI ÉS PARALIMPIAI CSAPAT”, lent a „PÁRIZS” felirat olvasható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
