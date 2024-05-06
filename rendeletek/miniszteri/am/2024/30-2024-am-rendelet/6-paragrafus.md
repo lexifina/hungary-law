@@ -1,0 +1,1 @@
+6. § A 40/2004. (IV. 7.) FVM rendelet 5. § (5) bekezdésében a „(2) és (3) bekezdésében” szövegrész helyébe a „(2) és (3) bekezdésében, valamint Kárpát-medencei szőlőfajta esetében a 4. § (4a) bekezdésében” szöveg lép.
