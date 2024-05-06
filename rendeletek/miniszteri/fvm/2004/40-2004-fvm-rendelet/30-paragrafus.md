@@ -1,8 +1,10 @@
-## 30. §[^131] Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
+## 30. §[^134] Ez a rendelet a következő irányelveknek való megfelelést szolgálja:
 
 1. a Tanács 66/401/EGK irányelve (1966. június 14.) a takarmánynövény-vetőmagok forgalmazásáról,
 
 2. a Tanács 66/402/EGK irányelve (1966. június 14.) a gabonavetőmagok forgalmazásáról,
+
+2a.[^135] a Tanács 68/193/EGK irányelve (1968. április 9.) a vegetatív szőlő-szaporítóanyagok forgalmazásáról,
 
 3. a Tanács 92/33/EGK irányelve (1992. április 28.) a vetőmagokon kívüli zöldségszaporító és -ültetési anyagok forgalmazásáról,
 
@@ -52,43 +54,44 @@
 
 26. a Bizottság 2012/8/EU végrehajtási irányelve (2012. március 2.) a 2002/53/EK tanácsi irányelv 7. cikkének alkalmazásában egyes mezőgazdasági növényfajok fajtái esetében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei vonatkozásában a végrehajtási intézkedések meghatározásáról szóló 2003/90/EK irányelv módosításáról,
 
-27.[^132] a Bizottság 2012/44/EU végrehajtási irányelve (2012. november 26.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+27.[^136] a Bizottság 2012/44/EU végrehajtási irányelve (2012. november 26.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-28.[^133] a Bizottság 2013/57/EU végrehajtási irányelve (2013. november 20.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+28.[^137] a Bizottság 2013/57/EU végrehajtási irányelve (2013. november 20.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-29.[^134] a Bizottság 2014/105/EU végrehajtási irányelve (2014. december 4.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+29.[^138] a Bizottság 2014/105/EU végrehajtási irányelve (2014. december 4.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-30.[^135] a Bizottság 2015/1168/EU végrehajtási irányelve (2015. július 15.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+30.[^139] a Bizottság 2015/1168/EU végrehajtási irányelve (2015. július 15.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-31.[^136] a Bizottság 2014/1914/EU végrehajtási irányelve (2016. október 31.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+31.[^140] a Bizottság 2014/1914/EU végrehajtási irányelve (2016. október 31.) a 2002/53/EK és 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket előíró 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-32.[^137] a Bizottság 2018/100/EU végrehajtási irányelve (2018. január 22.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
+32.[^141] a Bizottság 2018/100/EU végrehajtási irányelve (2018. január 22.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
-33.[^138] a Bizottság 2019/114/EU végrehajtási irányelve (2019. január 24.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
+33.[^142] a Bizottság 2019/114/EU végrehajtási irányelve (2019. január 24.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról,
 
-34.[^139] a Bizottság 2019/1985/EU végrehajtási irányelve (2019. november 28.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
+34.[^143] a Bizottság 2019/1985/EU végrehajtási irányelve (2019. november 28.) a 2002/53/EK tanácsi irányelv 7. cikkéhez és a 2002/55/EK tanácsi irányelv 7. cikkéhez végrehajtási intézkedéseket megállapító 2003/90/EK és 2003/91/EK irányelvnek az egyes mezőgazdasági növényfajok és zöldségfajok fajtáinak vizsgálata keretében minimálisan vizsgálandó jellemzők és a vizsgálat minimumfeltételei tekintetében történő módosításáról.
 
-35.[^140] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások, valamint a 2003/90/EK irányelvnek egyes növények botanikai nevei tekintetében történő módosításáról szóló, 2021. május 6-i (EU) 2021/746 bizottsági végrehajtási irányelv
+35.[^144] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások, valamint a 2003/90/EK irányelvnek egyes növények botanikai nevei tekintetében történő módosításáról szóló, 2021. május 6-i (EU) 2021/746 bizottsági végrehajtási irányelv
 
-36.[^141] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2022. június 9-i (EU) 2022/905 bizottsági végrehajtási irányelv.
+36.[^145] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2022. június 9-i (EU) 2022/905 bizottsági végrehajtási irányelv.
 
-37.[^142] a 2003/90/EK irányelvnek az ökológiai termelésre alkalmas mezőgazdasági növényfajok ökológiai fajtáira vonatkozó eltérés tekintetében történő módosításáról szóló, 2022. szeptember 23-i (EU) 2022/1647 bizottsági végrehajtási irányelv,
+37.[^146] a 2003/90/EK irányelvnek az ökológiai termelésre alkalmas mezőgazdasági növényfajok ökológiai fajtáira vonatkozó eltérés tekintetében történő módosításáról szóló, 2022. szeptember 23-i (EU) 2022/1647 bizottsági végrehajtási irányelv,
 
-38.[^143] a 2003/91/EK irányelvnek az ökológiai termelésre alkalmas zöldségfajok ökológiai fajtáira vonatkozó eltérés tekintetében történő módosításáról szóló, 2022. szeptember 23-i (EU) 2022/1648 bizottsági végrehajtási irányelv.
+38.[^147] a 2003/91/EK irányelvnek az ökológiai termelésre alkalmas zöldségfajok ökológiai fajtáira vonatkozó eltérés tekintetében történő módosításáról szóló, 2022. szeptember 23-i (EU) 2022/1648 bizottsági végrehajtási irányelv.
 
-39.[^144] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2023. július 10-i (EU) 2023/1438 bizottsági végrehajtási irányelv.
+39.[^148] a 2003/90/EK és a 2003/91/EK irányelvnek a mezőgazdasági növényfajok és a zöldségfajok egyes fajtáinak vizsgálatára vonatkozó előírások tekintetében történő módosításáról szóló, 2023. július 10-i (EU) 2023/1438 bizottsági végrehajtási irányelv.
 
-[^131]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
-[^132]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
-[^133]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
-[^134]: A 30. § 29. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (1) bekezdése iktatta be.
-[^135]: A 30. § 30. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^136]: A 30. § 31. pontját a 38/2017. (VII. 11.) FM rendelet 1. §-a iktatta be.
-[^137]: A 30. § 32. pontját a 24/2018. (VIII. 31.) AM rendelet 1. §-a iktatta be.
-[^138]: A 30. § 33. pontját a 44/2019. (IX. 20.) AM rendelet 1. §-a iktatta be.
-[^139]: A 30. § 34. pontját a 36/2020. (VI. 29.) AM rendelet 1. §-a iktatta be.
-[^140]: A 30. § 35. pontját a 48/2021. (XII. 21.) AM rendelet 1. §-a iktatta be
-[^141]: A 30. § 36. pontját a 37/2022. (XII. 6.) AM rendelet 1. §-a iktatta be.
-[^142]: A 30. § 37. pontját a 36/2023. (VII. 19.) AM rendelet 3. §-a iktatta be.
-[^143]: A 30. § 38. pontját a 36/2023. (VII. 19.) AM rendelet 3. §-a iktatta be.
-[^144]: A 30. § 39. pontját a 62/2023. (XI. 22.) AM rendelet 1. §-a iktatta be.
+[^134]: A 30. § a 105/2012. (X. 11.) VM rendelet 3. §-ával megállapított szöveg.
+[^135]: A 30. § 2a. pontját a 30/2024. (V. 3.) AM rendelet 4. §-a iktatta be.
+[^136]: A 30. § 27. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
+[^137]: A 30. § 28. pontját a 9/2014. (II. 7.) VM rendelet 1. §-a iktatta be.
+[^138]: A 30. § 29. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (1) bekezdése iktatta be.
+[^139]: A 30. § 30. pontját a 24/2016. (IV. 8.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^140]: A 30. § 31. pontját a 38/2017. (VII. 11.) FM rendelet 1. §-a iktatta be.
+[^141]: A 30. § 32. pontját a 24/2018. (VIII. 31.) AM rendelet 1. §-a iktatta be.
+[^142]: A 30. § 33. pontját a 44/2019. (IX. 20.) AM rendelet 1. §-a iktatta be.
+[^143]: A 30. § 34. pontját a 36/2020. (VI. 29.) AM rendelet 1. §-a iktatta be.
+[^144]: A 30. § 35. pontját a 48/2021. (XII. 21.) AM rendelet 1. §-a iktatta be
+[^145]: A 30. § 36. pontját a 37/2022. (XII. 6.) AM rendelet 1. §-a iktatta be.
+[^146]: A 30. § 37. pontját a 36/2023. (VII. 19.) AM rendelet 3. §-a iktatta be.
+[^147]: A 30. § 38. pontját a 36/2023. (VII. 19.) AM rendelet 3. §-a iktatta be.
+[^148]: A 30. § 39. pontját a 62/2023. (XI. 22.) AM rendelet 1. §-a iktatta be.

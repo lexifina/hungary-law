@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-12. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^156]
+12. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^161]
 
 Egyes ökológiai termelésre alkalmas ökológiai fajták egyöntetűségére és gazdasági érzékvizsgálatára vonatkozó előírások
 
@@ -186,4 +186,4 @@ Egyes ökológiai termelésre alkalmas ökológiai fajták egyöntetűségére �
 
 3.3. Az NÉBIH-nek az ökológiai gazdálkodás sajátos igényeihez igazított különböző vizsgálati feltételeket kell előírnia, és a kérelmező kérésére a NÉBIH – amennyiben erre lehetősége van – specifikus tulajdonságokat és jellemzőket is vizsgál, ha megismételhető módszerek állnak rendelkezésre.
 
-[^156]: A 12. mellékletet a 36/2023. (VII. 19.) AM rendelet 4. §-a iktatta be.
+[^161]: A 12. mellékletet a 36/2023. (VII. 19.) AM rendelet 4. §-a iktatta be.
