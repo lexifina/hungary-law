@@ -30,7 +30,7 @@
 
 | Felelős: | érintett miniszterek |
 
-| Határidő: | 2023. december 31., a Bethlen Gábor Alap fejezet javára biztosított 3 206 924 155 forint tekintetében és a Miniszterelnöki Kabinetiroda fejezet javára biztosított 1 120 011 103 forint tekintetében 2024. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 2 000 000 000 forint tekintetében 2026. június 30. |
+| Határidő: | 2023. december 31., a Miniszterelnöki Kabinetiroda fejezet javára biztosított 1 120 011 103 forint tekintetében 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 924 155 forint tekintetében 2025. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 2 000 000 000 forint tekintetében 2026. június 30. |
 
 ## a Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása előirányzat javára biztosított 1 650 000 000 forint tekintetében 2024. augusztus 31.
 
@@ -68,6 +68,6 @@
 
 1. melléklet az 1050/2023. (II. 23.) Korm. határozathoz
 
-[^1]: Az 1. pont b) alpontja az 1471/2023. (X. 31.) Korm. határozat 9. pontja, az 1504/2023. (XI. 16.) Korm. határozat 2. pontja, az 1611/2023. (XII. 28.) Korm. határozat 6. pontja, az 1014/2024. (II. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^1]: Az 1. pont b) alpontja az 1504/2023. (XI. 16.) Korm. határozat 2. pontja, az 1611/2023. (XII. 28.) Korm. határozat 6. pontja, az 1014/2024. (II. 6.) Korm. határozat 3. pontja, az 1127/2024. (V. 7.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
