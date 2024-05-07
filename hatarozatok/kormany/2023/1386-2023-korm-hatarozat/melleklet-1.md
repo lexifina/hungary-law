@@ -16,7 +16,7 @@
 
 | Határidő: | azonnal |
 
-## 3. az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 30 798 752 745 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
+## 3.[^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 30 798 752 745 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 2. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -28,7 +28,7 @@
 
 | Felelős: | Sándor-palota hivatalvezetője igazságügyi miniszter Miniszterelnökséget vezető miniszter honvédelmi miniszter belügyminiszter energiaügyi miniszter külgazdasági és külügyminiszter kultúráért és innovációért felelős miniszter gazdaságfejlesztési miniszter európai uniós ügyekért felelős miniszter a miniszterelnök általános helyettese |
 
-| Határidő: | 2024. június 30. |
+| Határidő: | 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 875 845 forint tekintetében 2025. június 30. |
 
 ## 4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 82 230 095 829 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet terhére, a 3. melléklet szerint;
 
@@ -69,3 +69,5 @@
 | Határidő: | azonnal |
 
 1. melléklet az 1386/2023. (VIII. 31.) Korm. határozathoz
+
+[^1]: A 3. pont az 1127/2024. (V. 7.) Korm. határozat 5. pontja szerint módosított szöveg.
