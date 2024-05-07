@@ -1,7 +1,3 @@
-3. § Az R1.
+3. §[^4]
 
-a) 15. § (1) bekezdésében a „gyógyszerész” szövegrész helyébe a „gyógyszert kiadó személy – szükség esetén a gyógyszerész bevonásával –” szöveg,
-
-b) 15. § (2) bekezdésében a „gyógyszerésznek” szövegrész helyébe a „gyógyszert kiadó személynek” szöveg
-
-lép.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

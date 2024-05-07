@@ -1,3 +1,3 @@
-6. § Az R2. 13/A. §-a a következő (8) bekezdéssel egészül ki:
+6. §[^7]
 
-„(8) A távfelügyelet időtartamát az e § szerinti munkaidőbe be kell számítani.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
