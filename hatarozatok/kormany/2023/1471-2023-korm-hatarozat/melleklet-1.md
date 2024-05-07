@@ -44,7 +44,7 @@
 
 | Határidő: | azonnal |
 
-## g) az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 22 867 567 564 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
+## g) [^1] az Áht. 21. § (1) bekezdésében és 33. § (2) bekezdésében biztosított jogkörében eljárva 22 867 567 564 forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszafizetési kötelezettséggel a Kvtv. 1. melléklet XV. Pénzügyminisztérium fejezet, 26. Központi kezelésű előirányzatok cím, 2. Központi tartalékok alcím, 7. Rendkívüli kormányzati intézkedések jogcímcsoport terhére, a 4. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -56,7 +56,7 @@
 
 | Felelős: | honvédelmi miniszter energiaügyi miniszter kultúráért és innovációért felelős miniszter Miniszterelnöki Kabinetirodát vezető miniszter a miniszterelnök általános helyettese |
 
-| Határidő: | 2024. június 30. |
+| Határidő: | 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 007 367 363 forint tekintetében 2026. június 30. |
 
 ## h) az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva 251 541 381 729 forint egyszeri átcsoportosítását rendeli el a Kvtv. 1. melléklet L. Rezsivédelmi Alap fejezet terhére, az 5. melléklet szerint;
 
@@ -66,37 +66,38 @@
 
 ## i) az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi a Miniszterelnökséget vezető miniszter számára, hogy a Magyar Falu Program keretében a 2024. költségvetési év kiadási előirányzata terhére legfeljebb 10 000 000 000 forint összeg mértékéig pályázatot írjon ki a Kvtv1. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 41. Magyar Falu Program megvalósításához kapcsolódó támogatások jogcímcsoport, 2. Magyar Falu program jogcím terhére.
 
-## 2.[^1]
+## 2.[^2]
 
-## 3.[^2]
+## 3.[^3]
 
-## 4.[^3]
+## 4.[^4]
 
-## 5.[^4]
+## 5.[^5]
 
-## 6.[^5]
+## 6.[^6]
 
-## 7.[^6]
+## 7.[^7]
 
-## 8.[^7]
+## 8.[^8]
 
-## 9.[^8]
+## 9.[^9]
 
-## 10.[^9]
+## 10.[^10]
 
-## 11.[^10]
+## 11.[^11]
 
 1. melléklet az 1471/2023. (X. 31.) Korm. határozathoz
 
 Eredeti előirányzattal rendelkező, megosztásra nem kerülő intézményi előirányzatok címrendi módosítása
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont g) alpontja az 1127/2024. (V. 7.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
