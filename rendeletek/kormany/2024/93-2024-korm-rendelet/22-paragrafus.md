@@ -1,3 +1,3 @@
-22. §[^20]
+22. §[^24]
 
-[^20]: A 22. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^24]: A 22. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.

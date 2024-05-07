@@ -1,23 +1,23 @@
 35. § Az R7.
 
-a)[^35]
+a)[^39]
 
-b)[^36]
+b)[^40]
 
-c)[^37]
+c)[^41]
 
-d)[^38]
+d)[^42]
 
-e)[^39]
+e)[^43]
 
-f)[^40]
+f)[^44]
 
-g)[^41]
+g)[^45]
 
-[^35]: A 35. § a) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^36]: A 35. § b) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^37]: A 35. § c) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^38]: A 35. § d) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^39]: A 35. § e) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^40]: A 35. § f) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^41]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^39]: A 35. § a) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^40]: A 35. § b) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^41]: A 35. § c) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^42]: A 35. § d) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^43]: A 35. § e) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^44]: A 35. § f) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^45]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.

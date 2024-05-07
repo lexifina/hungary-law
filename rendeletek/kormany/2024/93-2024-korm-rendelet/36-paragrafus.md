@@ -1,3 +1,3 @@
-36. §[^42]
+36. §[^46]
 
-[^42]: A 36. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^46]: A 36. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.

@@ -1,3 +1,3 @@
-1. melléklet a 93/2024. (IV. 23.) Korm. rendelethez[^45]
+1. melléklet a 93/2024. (IV. 23.) Korm. rendelethez[^55]
 
-[^45]: Az 1. melléklet a 38. § (3) bekezdés alapján 2024. május 24-én lép hatályba.
+[^55]: Az 1. melléklet a 38. § (3) bekezdés alapján 2024. május 24-én lép hatályba.

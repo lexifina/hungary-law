@@ -1,3 +1,3 @@
-19. §[^17]
+19. §[^21]
 
-[^17]: A 19. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^21]: A 19. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.

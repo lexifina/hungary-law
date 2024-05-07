@@ -1,3 +1,3 @@
-6. §[^3]
+6. §[^7]
 
-[^3]: A 6. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+[^7]: A 6. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
