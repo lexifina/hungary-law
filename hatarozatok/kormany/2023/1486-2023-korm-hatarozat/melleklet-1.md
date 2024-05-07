@@ -32,4 +32,4 @@
 
 1. melléklet az 1486/2023. (XI. 9.) Korm. határozathoz[^1]
 
-[^1]: Az 1. melléklet az 1118/2024. (IV. 23.) Korm. határozat 16. pontja szerint módosított szöveg.
+[^1]: Az 1. melléklet az 1118/2024. (IV. 23.) Korm. határozat 16. pontja, az 1127/2024. (V. 7.) Korm. határozat 7. pontja szerint módosított szöveg.
