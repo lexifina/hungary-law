@@ -10,7 +10,7 @@
 
 ## Felelős: a miniszterelnök általános helyettese
 
-## Határidő: 2024. június 30.
+## Határidő: 2025. december 31.
 
 ## 2. felhívja a pénzügyminisztert, hogy a nemzeti jelentőségű vajdasági magyar intézmények programjai és megkezdett beruházásai finanszírozása érdekében gondoskodjon
 
@@ -98,4 +98,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1643/2022. (XII. 21.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1127/2024. (V. 7.) Korm. határozat 2. pontja szerint módosított szöveg.
