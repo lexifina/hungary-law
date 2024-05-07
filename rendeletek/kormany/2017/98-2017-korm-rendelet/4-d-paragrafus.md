@@ -1,4 +1,4 @@
-4/D. §[^12] (1) A 2. mellékletben foglalt táblázat 37. sora szerinti Budapest, IX. kerület, belterület 37414 és 37348/2 helyrajzi számú ingatlanokon megvalósuló beruházással (e § alkalmazásában a továbbiakban: Beruházás) érintett ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy a hatályos településrendezési terv, településkép védelméről szóló rendelet és a tervezett építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
+4/D. §[^19] (1) A 2. mellékletben foglalt táblázat 37. sora szerinti Budapest, IX. kerület, belterület 37414 és 37348/2 helyrajzi számú ingatlanokon megvalósuló beruházással (e § alkalmazásában a továbbiakban: Beruházás) érintett ingatlanokra a beépítés szabályait és az egyedi építési követelményeket a (2)–(4) bekezdés állapítja meg, azzal, hogy a hatályos településrendezési terv, településkép védelméről szóló rendelet és a tervezett építmények, önálló rendeltetési egységek rendeltetésszerű használatához szükséges, az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni.
 
 (2) A Beruházás során az OTÉK 42. §-a szerint elhelyezendő személygépkocsi és kerékpártárolók számát az alábbi eltérésekkel kell meghatározni:
 
@@ -34,4 +34,4 @@ k) a homlokzati elemeknek a Szentágothai János tér közterülete felé való 
 
 (5) A Kormány a Beruházás során építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület használatának feltétlenül szükséges időtartamát a 3. melléklet szerint határozza meg.
 
-[^12]: A 4/D. §-t a 617/2022. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^19]: A 4/D. §-t a 617/2022. (XII. 29.) Korm. rendelet 21. §-a iktatta be.

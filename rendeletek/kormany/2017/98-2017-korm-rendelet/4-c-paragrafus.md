@@ -1,4 +1,4 @@
-4/C. §[^10] (1) A 2. mellékletben foglalt táblázat 46. sorában megjelölt ingatlanon megvalósuló beruházásra (e § alkalmazásában a továbbiakban: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
+4/C. §[^17] (1) A 2. mellékletben foglalt táblázat 46. sorában megjelölt ingatlanon megvalósuló beruházásra (e § alkalmazásában a továbbiakban: Beruházás) irányuló közbeszerzési eljárásoknál az építtető – a 322/2015. (X. 30.) Korm. rendelet 14. § (2) bekezdés b) pontja alapján – indokolási kötelezettség nélkül dönthet a 322/2015. (X. 30.) Korm. rendelet 14. § (1) bekezdés b) pontja szerinti eljárási forma alkalmazása mellett.
 
 (2) A Beruházás során érintett Budapest, belterület 36771/14 helyrajzi számú ingatlanra meghatározott sajátos beépítési szabályok:
 
@@ -30,9 +30,9 @@ e) egy kerékpár elhelyezését kell biztosítani igazgatási, ellátó, szolg�
 
 f) új épület vagy meglévő épület bővítésének építési helyén a meglévő gépjárművárakozó-helyek megszüntethetők, azzal, hogy azok eltérő helyen történő biztosítása nem szükséges.
 
-(6a)[^11] A Beruházással érintett ingatlan vonatkozásában személygépjármű-tárolás épületen kívül is megengedett.
+(6a)[^18] A Beruházással érintett ingatlan vonatkozásában személygépjármű-tárolás épületen kívül is megengedett.
 
 (7) Bővítés, átalakítás és rendeltetésmódosítás esetén a parkolóférőhelyek száma meghatározásának alapját a teljes ellátandó rendeltetés képezi, de csak a keletkező többlet személygépjármű elhelyezési kötelezettséget kell – a (6) bekezdésben meghatározott mértékben – biztosítani.
 
-[^10]: A 4/C. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
-[^11]: A 4/C. § (6a) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^17]: A 4/C. §-t az 521/2021. (IX. 6.) Korm. rendelet 2. §-a iktatta be.
+[^18]: A 4/C. § (6a) bekezdését a 617/2022. (XII. 29.) Korm. rendelet 20. §-a iktatta be.

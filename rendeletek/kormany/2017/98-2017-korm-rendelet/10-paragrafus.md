@@ -1,4 +1,4 @@
-## 9. §[^18] E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 357/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését a Módr3. hatálybalépésekor[^19] folyamatban lévő ügyekben is alkalmazni kell.
+## 9. §[^26] E rendeletnek az egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 357/2020. (VII. 23.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 4. § (3) bekezdését a Módr3. hatálybalépésekor[^27] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^18]: A 9. §-t a 357/2020. (VII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^19]: A hatálybalépés időpontja 2020. július 24.
+[^26]: A 9. §-t a 357/2020. (VII. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^27]: A hatálybalépés időpontja 2020. július 24.
