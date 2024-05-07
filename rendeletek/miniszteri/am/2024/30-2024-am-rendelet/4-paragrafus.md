@@ -1,3 +1,3 @@
-4. § A 40/2004. (IV. 7.) FVM rendelet 30. §-a a következő 2a. ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet a következő irányelveknek való megfelelést szolgálja:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

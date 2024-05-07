@@ -1,1 +1,3 @@
-6. § A 40/2004. (IV. 7.) FVM rendelet 5. § (5) bekezdésében a „(2) és (3) bekezdésében” szövegrész helyébe a „(2) és (3) bekezdésében, valamint Kárpát-medencei szőlőfajta esetében a 4. § (4a) bekezdésében” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## „2a. a Tanács 68/193/EGK irányelve (1968. április 9.) a vegetatív szőlő-szaporítóanyagok forgalmazásáról,”
+5. §[^6]
 
-5. § A 40/2004. (IV. 7.) FVM rendelet a következő 31. §-sal egészül ki:
-
-„31. § E rendeletnek a növényfajták állami elismeréséről szóló 40/2004. (IV. 7.) FVM rendelet módosításáról szóló 30/2024. (V. 3.) AM rendelettel megállapított 4. § (4a) bekezdésének, 5. § (5) bekezdésének, 12/B. §-ának és 17. § (3b) és (3c) bekezdésének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
