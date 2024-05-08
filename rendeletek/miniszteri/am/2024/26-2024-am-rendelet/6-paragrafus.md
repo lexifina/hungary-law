@@ -1,0 +1,1 @@
+6. § Ez a rendelet a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 10. cikkének és V. mellékletének való megfelelést szolgálja.
