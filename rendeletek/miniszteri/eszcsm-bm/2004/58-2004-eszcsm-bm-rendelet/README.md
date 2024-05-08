@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-58-20-0
 | 2021-02-24 | 2004-58-20-0M.8 | 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet |
 | 2022-02-24 | 2004-58-20-0M.9 | 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet |
 | 2022-09-02 | 2004-58-20-0M.10 | 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet |
+| 2024-05-08 | 2004-58-20-0M.11 | 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet |

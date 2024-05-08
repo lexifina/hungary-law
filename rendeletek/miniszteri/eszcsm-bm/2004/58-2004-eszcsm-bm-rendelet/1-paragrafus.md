@@ -1,0 +1,3 @@
+1. §[^1] A családpolitikáért felelős miniszter, valamint a helyi önkormányzatokért felelős miniszter (a továbbiakban együtt: miniszterek) az idős emberek gondozásában, életvitelük megkönnyítésében, nyugdíjas éveik tartalommal való megtöltésében, a részükre történő kulturális és szabadidős programok szervezésében kiemelkedő szerepet vállaló helyi önkormányzatok munkájának, tevékenységének elismerésére Idősbarát Önkormányzat Díjat (a továbbiakban: Díj) alapítanak.
+
+[^1]: Az 1. § a 4/2005. (V. 13.) ICSSZEM–BM együttes rendelet 1. §-ával megállapított, az 1/2024. (V. 7.) KIM rendelet 1. § a) és b) pontja szerint módosított szöveg.
