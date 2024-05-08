@@ -46,18 +46,26 @@
 
 ## i) az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva a Nemzeti Sportinfrastruktúra Ügynökség létesítményeinek üzemeletetésével kapcsolatos feladatok ellátása érdekében 2024. évben a 2024. évi törvényi előirányzaton felül további 13 685 600 000 forint összegben szabad előirányzatot meghaladó mértékű tárgyévi kötelezettségvállalást engedélyez a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 22. Sport feladatokhoz kapcsolódó központi kezelésű előirányzatok cím, 1. A Nemzeti Sportinfrastruktúra Ügynökség tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások alcím, 2. A Nemzeti Sportinfrastruktúra Ügynökség tulajdonosi joggyakorlásával kapcsolatos kiadások jogcímcsoport, 2. Ingatlanok fenntartása és üzemeltetése jogcím előirányzata terhére;
 
-## j) visszavonja a Pázmány Péter Katolikus Egyetem oktatási célú tevékenységének végzéséhez szükséges intézkedésekről szóló 1509/2020. (VIII. 12.) Korm. határozatot.
+## j) [^1]
 
-## 2. A vajdasági magyarság nemzeti jelentőségű fejlesztései és programjai támogatásához szükséges forrás biztosításáról szóló 1406/2019. (VII. 8.) Korm. határozat 1. pontjában a „2024. június 30.” szövegrész helyébe a „2025. december 31.” szöveg lép.
+## 2.[^2]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2024. május 31.” szövegrész helyébe a „2026. május 31.” szöveg lép.
+## 3.[^3]
 
-## 4. A címrendi módosításról és kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap központi kiadása előirányzatból történő, fejezeten belüli előirányzat-átcsoportosításról, valamint kormányhatározat módosításáról szóló 1050/2023. (II. 23.) Korm. határozat 1. pont b) alpontjában az „a Bethlen Gábor Alap fejezet javára biztosított 3 206 924 155 forint tekintetében és a Miniszterelnöki Kabinetiroda fejezet javára biztosított 1 120 011 103 forint tekintetében 2024. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 2 000 000 000 forint tekintetében 2026. június 30.” szövegrész helyébe az „a Miniszterelnöki Kabinetiroda fejezet javára biztosított 1 120 011 103 forint tekintetében 2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 924 155 forint tekintetében 2025. június 30., a Külügyi fejlesztési és kutatási programok előirányzat javára biztosított 2 000 000 000 forint tekintetében 2026. június 30.” szöveg lép.
+## 4.[^4]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Rezsivédelmi Alap fejezet terhére történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, kötelezettségvállalás engedélyezéséről, továbbá címrendi kiegészítésről és módosításról szóló 1386/2023. (VIII. 31.) Korm. határozat 3. pontjában a „2024. június 30.” szövegrész helyébe a „2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 3 206 875 845 forint tekintetében 2025. június 30.” szöveg lép.
+## 5.[^5]
 
-## 6. A címrendi kiegészítésről, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alap előirányzatból, a Rezsivédelmi Alap fejezet terhére történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kötelezettségvállalás engedélyezéséről és egyes kormányhatározatok módosításáról szóló 1471/2023. (X. 31.) Korm. határozat 1. pont g) alpontjában a „2024. június 30.” szövegrész helyébe a „2024. június 30., a Bethlen Gábor Alap fejezet javára biztosított 4 007 367 363 forint tekintetében 2026. június 30.” szöveg lép.
+## 6.[^6]
 
-## 7. Az egyes folyamatban lévő egyházi célú fejlesztések megvalósításához szükséges többletforrás biztosításáról szóló 1486/2023. (XI. 9.) Korm. határozat 1. mellékletében foglalt táblázat A:6 mezőjében a „Tiszáninneni Református Egyházkerület” szövegrész helyébe a „Mályinkai Református Egyházközség” szöveg lép.
+## 7.[^7]
 
 1. melléklet az 1127/2024. (V. 7.) Korm. határozathoz
+
+[^1]: Az 1. pont j) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
