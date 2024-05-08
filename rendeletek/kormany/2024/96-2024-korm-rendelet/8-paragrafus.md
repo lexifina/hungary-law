@@ -1,0 +1,1 @@
+8. § A honvédelmi és katonai, továbbá nemzetbiztonsági célú és rendeltetésű építményeket érintő állami építési beruházásokra vonatkozó eltérő rendelkezéseket meghatározó kormányrendelet hatálya alá is tartozó energetikai rendszereket érintő állami építési beruházásokra e rendelet nem alkalmazható.

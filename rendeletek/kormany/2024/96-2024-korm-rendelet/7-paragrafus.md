@@ -1,0 +1,1 @@
+7. § Az energetikai rendszereket érintő beruházások esetében az Ábtv. 38. § (1) bekezdésének alkalmazása mindaddig nem kötelező, ameddig az építményinformációs modell (BIM) alapú műszaki megvalósítás rendszere használatának infrastrukturális feltétele az építtetőnél nem áll rendelkezésre.
