@@ -1,5 +1,5 @@
 8. § (1) Ez a rendelet a kihirdetését követő 60. napon lép hatályba; rendelkezéseit a hatálybalépését követően kötött fogyasztói szerződésekre kell alkalmazni.
 
-(2)[^28]
+(2)[^29]
 
-[^28]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 837. pontja hatályon kívül helyezte.
+[^29]: A 8. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 837. pontja hatályon kívül helyezte.

@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-151-20-
 | 2023-01-01 | 2003-151-20-22.13 | 270/2020. (VI. 12.) Korm. rendelet |
 | 2023-03-01 | 2003-151-20-22.14 | 97/2014. (III. 25.) Korm. rendelet |
 | 2023-06-25 | 2003-151-20-22.12 | 531/2022. (XII. 19.) Korm. rendelet |
+| 2024-05-08 | 2003-151-20-22.15 | 270/2020. (VI. 12.) Korm. rendelet |
