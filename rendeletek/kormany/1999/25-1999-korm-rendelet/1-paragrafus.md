@@ -13,3 +13,5 @@
 a) maga teljesíti: a légi személyszállítás valamennyi szakaszára,
 
 b) közúti, vasúti, vízi közlekedési szolgáltatóval együttesen teljesíti (összetett légi személyszállítás): a felek eltérő rendelkezésének hiányában a légitársaság által végzett légi személyszállításra
+
+e rendelet előírásait kell alkalmazni.

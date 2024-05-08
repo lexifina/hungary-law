@@ -1,5 +1,3 @@
-## 23–24. §[^11]
-
 ## A légi személyszállítási szerződés megszűnése
 
 25. § (1) A légitársaság a légi személyszállítási szerződéstől – a viteldíj visszatérítése mellett – azonnali hatállyal elállhat, ha az utas
@@ -19,5 +17,3 @@ f) a repülőtéren vagy a légijármű fedélzetén olyan magatartást tanúsí
 g) megtagadja, illetve nem hajlandó alávetni magát és kézipoggyászát a biztonsági ellenőrzésnek.
 
 (2) A légi személyszállítási szerződéstől az (1) bekezdés szerinti elállás esetén a légitársaság az üzletszabályzatban rendelkezik a visszatérítendő összegből levonandó – gazdaságossági szempontból indokolt, ésszerű mértékű – kezelési és egyéb költség megfizetéséről is.
-
-[^11]: A 23–24. §-t a 33/2005. (II. 18.) Korm. rendelet 3. §-a hatályon kívül helyezte.

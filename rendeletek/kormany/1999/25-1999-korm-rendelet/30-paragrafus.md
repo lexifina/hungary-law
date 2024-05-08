@@ -1,3 +1,3 @@
-30. §[^16]
+30. §[^18]
 
-[^16]: A 30. §-t a 268/2003. (XII. 24.) Korm. rendelet 6. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.
+[^18]: A 30. §-t a 268/2003. (XII. 24.) Korm. rendelet 6. §-a (2) bekezdésének b) pontja hatályon kívül helyezte.

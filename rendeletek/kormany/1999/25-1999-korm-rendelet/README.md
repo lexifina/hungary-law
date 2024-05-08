@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-25-20-2
 | 2012-04-27 | 1999-25-20-22.10 | 88/2012. (IV. 26.) Korm. rendelet |
 | 2014-03-15 | 1999-25-20-22.11 | 53/2014. (III. 3.) Korm. rendelet |
 | 2018-01-01 | 1999-25-20-22.12 | 457/2017. (XII. 28.) Korm. rendelet |
+| 2024-05-08 | 1999-25-20-22.13 | 93/2024. (IV. 23.) Korm. rendelet |
