@@ -14,6 +14,6 @@
 
 6. talajvédelmi terv: a külön jogszabály szerint talaj- és vízvédelmi követelmények meghatározásához készített szakanyag;
 
-7.[^3] téli legeltetés: minden év november 30. és február 15. között történő legeltetés.
+7.[^2] téli legeltetés: minden év november 30. és február 15. között történő legeltetés.
 
-[^3]: A 2. § 7. pontja a 32/2021. (IX. 22.) AM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 7. pontja a 32/2021. (IX. 22.) AM rendelet 1. §-ával megállapított szöveg.

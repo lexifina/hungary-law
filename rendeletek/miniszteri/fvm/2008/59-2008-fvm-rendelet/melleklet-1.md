@@ -1,6 +1,4 @@
-## 12. §[^28] Ez a rendelet a vizek mezőgazdasági eredetű nitrátszennyezéssel szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 5. cikk (1), (2), (4), (6) és (7) bekezdésének, valamint II. és III. mellékletének való megfelelést szolgálja.
-
-1. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^29]
+1. számú melléklet az 59/2008. (IV. 29.) FVM rendelethez[^23]
 
 Trágyák átlagos beltartalmi értékei keletkezéskor és kijuttatáskor
 
@@ -26,5 +24,4 @@ Trágyák átlagos beltartalmi értékei keletkezéskor és kijuttatáskor
 
 (2) Mélyalmos tartástechnológia során keletkező istállótrágya
 
-[^28]: A 12. § a 32/2021. (IX. 22.) AM rendelet 4. §-ával megállapított szöveg.
-[^29]: Az 1. melléklet a 147/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet a 147/2012. (XII. 27.) VM rendelet 3. §-ával megállapított szöveg.
