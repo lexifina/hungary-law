@@ -1,4 +1,4 @@
-## 4/C. [^23] A szállítható nyomástartó berendezésekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
+## 4/C. [^24] A szállítható nyomástartó berendezésekkel kapcsolatos piacfelügyeleti tevékenységre vonatkozó különös szabályok
 
 6/F. § (1) Ha a piacfelügyeleti hatóság megállapítja vagy feltételezi, hogy a szállítható nyomástartó berendezések biztonsági követelményeiről és megfelelőség-tanúsításáról szóló miniszteri rendelet (a továbbiakban: R2.) hatálya alá tartozó, megfelelőségi jelöléssel ellátott szállítható nyomástartó berendezés előírás szerint karbantartva és rendeltetésszerűen használva veszélyeztetheti emberek és állatok életét, egészségét vagy anyagi javak biztonságát, akkor elvégzik a szállítható nyomástartó berendezés értékelését, amely kiterjed az R2.-ben megállapított valamennyi követelményre.
 
@@ -46,4 +46,4 @@ kötelezi az érintett gazdasági szereplőt a jogsértés megszüntetésére é
 
 (11) Ha a jelölést jogosulatlanul feltüntető érintett gazdasági szereplő határidőben nem tesz eleget a kötelezésnek, a piacfelügyeleti hatóság megtiltja vagy korlátozza a szállítható nyomástartó berendezés forgalomba hozatalát, szállítását, üzembe helyezését vagy használatát, illetve intézkedik a visszahívás, vagy a forgalomból történő kivonás iránt.
 
-[^23]: A 4/C. alcímet (6/F. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^24]: A 4/C. alcímet (6/F. §) a 198/2019. (VIII. 1.) Korm. rendelet 6. §-a iktatta be.
