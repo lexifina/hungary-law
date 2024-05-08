@@ -56,7 +56,7 @@ b) amelyre vonatkozóan a fogyasztó tett ajánlatot a vállalkozásnak az a) po
 
 c) amelyet a vállalkozás üzlethelyiségében vagy távollévők közötti kommunikációt lehetővé tévő eszköz alkalmazásával közvetlenül azt követően kötöttek meg, hogy a vállalkozás – a felek egyidejű fizikai jelenléte mellett – személyesen és egyénileg kapcsolatba lépett a fogyasztóval a vállalkozás üzlethelyiségétől eltérő helyen; vagy
 
-d)[^13] amelyet a vállalkozás által szervezett olyan út során kötöttek meg, amelynek célja a áruk vagy szolgáltatások fogyasztó számára történő értékesítése vagy népszerűsítése;
+d)[^13] amelyet a vállalkozás által szervezett olyan út során kötöttek meg, amelynek célja az áruk vagy szolgáltatások fogyasztó számára történő értékesítése vagy népszerűsítése;
 
 15. vállalkozás: a Polgári Törvénykönyvben meghatározott vállalkozás.
 
@@ -85,7 +85,7 @@ b) olyan szolgáltatás, amely lehetővé teszi a fogyasztó és a szolgáltatá
 [^10]: A 4. § 8. pontja a 712/2020. (XII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^11]: A 4. § 10. pontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 2. pontja szerint módosított szöveg.
 [^12]: A 4. § 12. pontja a 712/2020. (XII. 30.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^13]: A 4. § 14. pont d) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 3. pontja szerint módosított szöveg.
+[^13]: A 4. § 14. pont d) alpontja a 712/2020. (XII. 30.) Korm. rendelet 16. § 3. pontja, a 93/2024. (IV. 23.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^14]: A 4. § 16. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^15]: A 4. § 17. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
 [^16]: A 4. § 18. pontját a 712/2020. (XII. 30.) Korm. rendelet 4. § (4) bekezdése iktatta be.
