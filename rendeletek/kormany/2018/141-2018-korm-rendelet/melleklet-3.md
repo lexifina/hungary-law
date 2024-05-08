@@ -252,7 +252,7 @@
 
 | 116. | Okos logisztikai park létrehozására irányuló beruházás Felsőpakony területén | Felsőpakony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 016/20 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-| 117. | Makó város területén megvalósítandó infrastruktúra- és gazdaság-fejlesztésre irányuló beruházások | Makó közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3983/1, 3983/2, 3983/3, 4146/2, 10404/13, 10405/36, 10405/38, 10433/2, 12205, 23723 és külterület 0548/3 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
+| 117.[^451] | Makó város területén megvalósítandó infrastruktúra- és gazdaság-fejlesztésre irányuló beruházások | Makó közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 3983/1, 3983/2, 3983/3, 4146/2, 10404/13, 10433/2, 10672/6, 10673, 10674/1, 10674/2, 10675/1, 10675/2, 12205, 12206, 12207, zártkert 23018, 23029, 23030, 23075, 23076, 23085, 23092, 23093, 23150, 23151, 23152, 23156, 23157, 23158, 23159, 23224, 23723 és külterület 0548/3, 0657/6, 0657/7, 0657/9, 0663/3, 0663/4, 0663/5, 0664, 0665/6, 0665/10, 0665/15, 0665/24, 0665/26, 0665/47, 0665/54, 0665/55, 0665/56, 0665/57, 0665/58, 0665/59, 0665/60, 0665/61, 0665/62, 0665/63 helyrajzi számú ingatlanok | Csongrád-Csanád Vármegyei Kormányhivatalt vezető főispán |
 
 | 118. | Nyíradonyi Technológiai Park területi bővítése és infrastrukturális fejlesztése | Nyíradony közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti Nyíradony külterület 013, 0190/23, 0190/26, 0190/29, 0190/30, 0190/31, 0190/32, 0190/36, 0285/10, 0285/12, 0287/4, 0291/2, 0298, 0299/29, 0299/30, 0299/31, 0300, 0301/1, 0301/2, 0301/3, 0301/6, 0302/1, 0302/2, 0304/10, 0304/13, 0304/21, 0304/24, 0304/25, 0304/26, 0304/27, 0304/3, 0304/47, 0304/48, 0304/49, 0304/50, 0304/51, 0304/7, 0306, 031, 0314, 0315/11, 0315/7, 0329/11, 0333/4, 0333/5, 0336/13, 0336/18, 0336/35, 034/13, 034/17, 034/18, 034/19, 045, 048, 05/102, 05/108, 05/110, 05/112, 05/116, 05/36, 05/44, 05/45, 05/50, 05/82, 05/85, 05/87, 05/89, 05/91, 05/93, 05/95, 05/97, 05/98, 068, 07, 070, 072, 08, 087, 089, 09, Nyíradony belterület 1288/21, 5801/3, 6512, 6517/4, Nyíradony zártkert 3001, 3137, 3401/5 helyrajzi számú ingatlanok | Hajdú-Bihar Vármegyei Kormányhivatalt vezető főispán |
 
@@ -280,8 +280,9 @@
 
 | 130. | Kamionparkoló és logisztikai központ létrehozása Kecskemét Megyei Jogú Város területén | Kecskemét Megyei Jogú Város közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti külterület 0825/63, 0825/175, 0825/177, 0825/178, 0825/181, 0825/182, 0825/183, 0825/246, 0825/251, 0825/253, 0825/254 és 0825/261 helyrajzi számú ingatlanok | Bács-Kiskun Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^449]
+3. melléklet a 141/2018. (VII. 27.) Korm. rendelethez[^452]
 
 A 2. mellékletben foglalt táblázat 7 és 7a sora szerinti beruházások közlekedési kapacitásbővítéssel összefüggő útszélesítései
 
-[^449]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^451]: A 2. mellékletben foglalt táblázat 117. sora a 99/2024. (V. 7.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^452]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 160/2019. (VI. 28.) Korm. rendelet 3. § (2) bekezdése iktatta be.

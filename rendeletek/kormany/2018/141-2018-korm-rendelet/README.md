@@ -138,3 +138,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-141-20-
 | 2024-01-10 | 2018-141-20-22.130 | 2/2024. (I. 9.) Korm. rendelet |
 | 2024-01-26 | 2018-141-20-22.131 | 10/2024. (I. 25.) Korm. rendelet |
 | 2024-03-29 | 2018-141-20-22.132 | 70/2024. (III. 28.) Korm. rendelet |
+| 2024-05-08 | 2018-141-20-22.133 | 99/2024. (V. 7.) Korm. rendelet |
