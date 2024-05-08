@@ -1,5 +1,7 @@
-## 13/A.[^66]
+## 13/A.[^66] Eljáró hatóság
 
-32/A. §
+32/A. § (1) A 3/A. §-ban foglalt rendelkezés megsértése esetén a fogyasztóvédelmi hatóság jár el a fogyasztóvédelemről szóló törvényben meghatározott szabályok szerint.
 
-[^66]: A 13/A. alcímet (32/A. §) a 284/2020. (VI. 17.) Korm. rendelet 61. §-a iktatta be, a 256/2022. (VII. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+(2) Az (1) bekezdésben említett rendelkezés a fogyasztóvédelemről szóló törvény alkalmazásában fogyasztóvédelmi rendelkezésnek minősül.
+
+[^66]: A 13/A. alcímet (32/A. §-t) újonnan a 93/2024. (IV. 23.) Korm. rendelet 12. §-a iktatta be.
