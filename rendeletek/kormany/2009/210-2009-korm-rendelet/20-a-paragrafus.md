@@ -1,7 +1,13 @@
-20/A. §[^53] (1) Születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, a szexualitást öncélúan ábrázoló, valamint a homoszexualitást megjelenítő, illetve népszerűsítő, gyermekeknek szóló terméket kirakatban elhelyezni, közszemlére tenni tilos.
+20/A. §[^54] (1) Azt a gyermekeknek szóló terméket, amelynek meghatározó eleme a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának vagy a homoszexualitásnak a megjelenítése vagy népszerűsítése vagy a szexualitás közvetlen, naturális vagy öncélú ábrázolása, kirakatban elhelyezni, közszemlére tenni tilos.
 
-(2) Nevelési-oktatási, gyermek- és ifjúságvédelmi intézmény, valamint templom és vallásgyakorlásra rendelt más hely bármely bejáratától számított 200 méteres távolságon belül születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, a szexualitást öncélúan ábrázoló, valamint a homoszexualitást megjelenítő, illetve népszerűsítő termék nem forgalmazható.
+(2) Az olyan terméket, amelynek kialakítása, külseje vagy csomagolása jól látható módon a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását vagy a homoszexualitást jeleníti meg vagy a szexualitást közvetlenül, naturálisan vagy öncélúan ábrázolja, kirakatban elhelyezni, közszemlére tenni tilos.
 
-(3) Születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, a szexualitást öncélúan ábrázoló, valamint a homoszexualitást megjelenítő, illetve népszerűsítő, gyermekeknek szóló termék a többi terméktől elkülönítve csak zárt csomagolásban forgalmazható.
+(3) Nevelési-oktatási, gyermek- és ifjúságvédelmi intézmény, valamint templom és vallásgyakorlásra rendelt más hely bármely bejáratától számított 200 méteres közúti (közterületi) távolságon belül nem forgalmazható olyan termék, amelynek meghatározó eleme a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának vagy a homoszexualitásnak a népszerűsítése vagy a szexualitás öncélú ábrázolása, megjelenítése.
 
-[^53]: A 20/A. §-t a 473/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be.
+(4) A gyermekeknek szóló olyan termék, amelynek meghatározó eleme a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának vagy a homoszexualitásnak a megjelenítése vagy népszerűsítése vagy a szexualitás közvetlen, naturális vagy öncélú ábrázolása, a többi, gyermekeknek szóló terméktől elkülönítve, zárt csomagolásban forgalmazható.
+
+(5) Könyv forgalmazása esetén a kiadó köteles tájékoztatni a kereskedőt arról, ha a könyv meghatározó eleme a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának vagy a homoszexualitásnak a megjelenítése vagy népszerűsítése vagy a szexualitás közvetlen, naturális vagy öncélú ábrázolása. Ez a szabály nem érinti a kereskedőnek a kiadóval szemben érvényesíthető visszkereseti igényét.
+
+(6) A kereskedő a fogyasztóvédelmi hatóság vagy a fogyasztó erre irányuló kifejezett kérése esetén köteles biztosítani a (4) bekezdés értelmében zárt csomagolásban forgalmazott termék zárt csomagolás nélküli megvizsgálásának lehetőségét.
+
+[^54]: A 20/A. §-t a 473/2021. (VIII. 6.) Korm. rendelet 1. §-a iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 11. §-ával megállapított szöveg.

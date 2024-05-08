@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-210-20-
 | 2022-12-27 | 2009-210-20-22.41 | 531/2022. (XII. 19.) Korm. rendelet |
 | 2023-01-01 | 2009-210-20-22.42 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-03-01 | 2009-210-20-22.43 | 60/2023. (II. 28.) Korm. rendelet |
+| 2024-05-08 | 2009-210-20-22.44 | 93/2024. (IV. 23.) Korm. rendelet |

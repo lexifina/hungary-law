@@ -1,4 +1,4 @@
-15. §[^46] (1) Az alkalmi rendezvényen történő árusítás a termékre vonatkozó jogszabály által előírt feltételek teljesítése mellett történhet, továbbá a kereskedő jól látható módon köteles feltüntetni nevét, székhelyét az értékesítés helyszínén.
+15. §[^47] (1) Az alkalmi rendezvényen történő árusítás a termékre vonatkozó jogszabály által előírt feltételek teljesítése mellett történhet, továbbá a kereskedő jól látható módon köteles feltüntetni nevét, székhelyét az értékesítés helyszínén.
 
 (2) A jegyző
 
@@ -8,4 +8,4 @@ b) – a gyülekezési jogról szóló törvény hatálya alá tartozó rendezv�
 
 olyan alkalmi rendezvényről, amelyen szeszes ital forgalmazása történik, a rendezvény megkezdését megelőző napig tájékoztatja az állami adó- és vámhatóságot.
 
-[^46]: A 15. § a 634/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^47]: A 15. § a 634/2020. (XII. 22.) Korm. rendelet 1. §-ával megállapított szöveg.

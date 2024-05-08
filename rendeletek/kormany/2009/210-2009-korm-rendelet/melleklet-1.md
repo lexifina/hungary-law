@@ -1,4 +1,4 @@
-1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^77]
+1. melléklet a 210/2009. (IX. 29.) Korm. rendelethez[^78]
 
 A) A bejelentésköteles kereskedelmi tevékenység folytatásáról szóló bejelentés adattartalma
 
@@ -102,4 +102,4 @@ I. A kereskedő és az üzlet adatai
 
 II. Keltezés, a kérelmező (bejelentő) aláírása (bélyegzője).
 
-[^77]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja, az 501/2021. (VIII. 18.) Korm. rendelet 4. §-a, a 239/2022. (VI. 30.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 103. § c) és d) pontja szerint módosított szöveg.
+[^78]: Az 1. melléklet a 457/2017. (XII. 28.) Korm. rendelet 265. §-ával megállapított, a 634/2020. (XII. 22.) Korm. rendelet 3. § (1) bekezdés a) pontja, az 501/2021. (VIII. 18.) Korm. rendelet 4. §-a, a 239/2022. (VI. 30.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 103. § c) és d) pontja szerint módosított szöveg.
