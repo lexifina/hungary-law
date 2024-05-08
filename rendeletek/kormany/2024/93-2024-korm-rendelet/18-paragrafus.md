@@ -1,3 +1,1 @@
-18. §[^20]
-
-[^20]: A 18. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+18. § Az R5. 3. melléklete a 2. melléklet szerint módosul.

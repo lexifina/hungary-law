@@ -1,3 +1,3 @@
-30. §[^34]
+30. §[^16]
 
-[^34]: A 30. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+[^16]: A 30. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.

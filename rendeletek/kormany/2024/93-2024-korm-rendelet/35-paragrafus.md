@@ -1,23 +1,17 @@
 35. § Az R7.
 
-a)[^39]
+a) 1. § 4. pontjában a „törvény” szövegrész helyébe a „törvény (a továbbiakban: Fgytv.)” szöveg és a „b)” szövegrész helyébe a „33.” szöveg,
 
-b)[^40]
+b) 4. § (1) bekezdésében a „7. §” szövegrész helyébe a „7. § és a 14. § (5) bekezdése” szöveg,
 
-c)[^41]
+c) 4. § (2) bekezdésében az „adatszolgáltatástól” szövegrész helyébe az „adatszolgáltatástól vagy a 14. § (5) bekezdése szerinti átadástól” szöveg,
 
-d)[^42]
+d) 9/A. §-ában a „másolata” szövegrész helyébe a „másolata vagy az adásvételi szerződés létrejöttéről szóló, 8. § (3) bekezdése szerinti értesítés” szöveg,
 
-e)[^43]
+e) 13. § (2) bekezdésében a „2023. december 31-ig” szövegrész helyébe az „e rendelet alapján” szöveg,
 
-f)[^44]
+f) 16. §-ában az „a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény” szövegrész helyébe az „az Mttv.” szöveg,
 
-g)[^45]
+g)[^21]
 
-[^39]: A 35. § a) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^40]: A 35. § b) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^41]: A 35. § c) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^42]: A 35. § d) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^43]: A 35. § e) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^44]: A 35. § f) pontja a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
-[^45]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^21]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.

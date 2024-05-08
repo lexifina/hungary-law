@@ -1,3 +1,3 @@
-34. §[^38]
+34. §[^20]
 
-[^38]: A 34. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+[^20]: A 34. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.

@@ -1,3 +1,1 @@
-15. §[^17]
-
-[^17]: A 15. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+15. § Hatályát veszti az R4. 6/E. § (1) bekezdése.

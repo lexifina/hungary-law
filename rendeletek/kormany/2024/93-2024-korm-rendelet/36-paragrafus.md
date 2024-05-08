@@ -1,3 +1,1 @@
-36. §[^46]
-
-[^46]: A 36. § a 38. § (2) bekezdés alapján 2024. május 8-án lép hatályba.
+36. § Hatályát veszti az R7. 1. § 2. pontjában a „fogyasztóvédelemről szóló 1997. évi CLV. törvény 2. § a) pontja szerinti” szövegrész.
