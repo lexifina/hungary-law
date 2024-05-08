@@ -6,11 +6,11 @@
 
 a) a tag nem adta át a 3. és 4. melléklet szerinti nyilatkozatait;
 
-b)[^138] a tag nem nyilatkozott az igénybe venni kívánt költségátalányról;
+b)[^141] a tag nem nyilatkozott az igénybe venni kívánt költségátalányról;
 
 c) a tag nem teljesítette egyéb jogszabályban, vagy belső szabályzatban a megbízáshoz kapcsolódóan rögzített kötelezettségét.
 
-(3)[^139] A testületi tagnak kötelessége megbízása kezdő dátumától a testület feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adatokkal kapcsolatban az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (5) bekezdés alapján eljárni.
+(3)[^142] A testületi tagnak kötelessége megbízása kezdő dátumától a testület feladat- és hatáskörébe tartozó döntés meghozatalára irányuló eljárás során készített vagy rögzített, a döntés megalapozását szolgáló adatokkal kapcsolatban az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (5) bekezdés alapján eljárni.
 
-[^138]: A 25. § (2) bekezdés b) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § n) pontja szerint módosított szöveg.
-[^139]: A 25. § (3) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 13. §-a iktatta be.
+[^141]: A 25. § (2) bekezdés b) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § n) pontja szerint módosított szöveg.
+[^142]: A 25. § (3) bekezdését az 56/2012. (XII. 29.) EMMI rendelet 13. §-a iktatta be.

@@ -2,23 +2,23 @@
 
 29. § (1) Az Alap pénzeszközeinek elkülönített kezelését önálló előirányzat-felhasználási keretszámla szolgálja.
 
-(2)[^154] A 28. § (1) bekezdés a)–o) pontjában foglalt feladatok ellátására fordítható forrás mértéke a tárgyévre vonatkozó költségvetési törvényben az Alap támogatásaként meghatározott összeg legfeljebb hat százaléka.
+(2)[^157] A 28. § (1) bekezdés a)–o) pontjában foglalt feladatok ellátására fordítható forrás mértéke a tárgyévre vonatkozó költségvetési törvényben az Alap támogatásaként meghatározott összeg legfeljebb hat százaléka.
 
-(3)[^155] Az Alapkezelő az internetes támogatáskezelő rendszer működtetéséből származó bevételből finanszírozza a 28. § (1) bekezdés a) pontja és a 28. § (2) bekezdése szerinti feladatok ellátásához kapcsolódó költségeket. Az internetes támogatáskezelő rendszerbe regisztrált szervezeteknek regisztráláskor, vagy a regisztrációt követő években a regisztráció megerősítésekor nem írható elő fizetési kötelezettség. A támogatást igénylő civil szervezet a pályázat benyújtásához kapcsolódóan legfeljebb kettőezer forint pályázati díjat fizet az Alapkezelő részére. A pályázati díj a hozzá kapcsolódóan benyújtott pályázattal összefüggésben valamennyi elektronikus szolgáltatás igénybevételét biztosítja. A pályázó számára más fizetési kötelezettség az internetes támogatáskezelő rendszer szolgáltatásainak igénybevételéhez kapcsolódóan nem írható elő.
+(3)[^158] Az Alapkezelő az internetes támogatáskezelő rendszer működtetéséből származó bevételből finanszírozza a 28. § (1) bekezdés a) pontja és a 28. § (2) bekezdése szerinti feladatok ellátásához kapcsolódó költségeket. Az internetes támogatáskezelő rendszerbe regisztrált szervezeteknek regisztráláskor, vagy a regisztrációt követő években a regisztráció megerősítésekor nem írható elő fizetési kötelezettség. A támogatást igénylő civil szervezet a pályázat benyújtásához kapcsolódóan legfeljebb kettőezer forint pályázati díjat fizet az Alapkezelő részére. A pályázati díj a hozzá kapcsolódóan benyújtott pályázattal összefüggésben valamennyi elektronikus szolgáltatás igénybevételét biztosítja. A pályázó számára más fizetési kötelezettség az internetes támogatáskezelő rendszer szolgáltatásainak igénybevételéhez kapcsolódóan nem írható elő.
 
 (4) A 28. § (1) bekezdés f) pontja szerinti feladat költsége tartalmazza a Magyar Államkincstár által a pénzforgalmi szolgáltatások nyújtásáért felszámolt díjat is.
 
-(5)[^156] A visszatérítendő támogatásokból, valamint a vissza nem térítendő támogatásokból bármely jogcímen az Alapkezelőhöz visszautalt összegeket minden negyedév vonatkozásában a negyedévet követő harmincadik napig összesíteni kell és a befolyt bevételek összegét, a befizetés jogcímét, a befizetőre vonatkozó azonosító adatokat is tartalmazó részletező tételes és előzőek szerint összesített kimutatást a negyedévet követő negyvenötödik napig az Alapkezelő eljuttatja a miniszternek. A visszautalt összegek összesítését követően a visszautalt összeg további felhasználásáról az a döntéshozó jogosult dönteni, amely a visszatérített összeghez kapcsolódó támogatási szerződés vagy támogatói okirat alapjául szolgáló döntést meghozta.
+(5)[^159] A visszatérítendő támogatásokból, valamint a vissza nem térítendő támogatásokból bármely jogcímen az Alapkezelőhöz visszautalt összegeket minden negyedév vonatkozásában a negyedévet követő harmincadik napig összesíteni kell és a befolyt bevételek összegét, a befizetés jogcímét, a befizetőre vonatkozó azonosító adatokat is tartalmazó részletező tételes és előzőek szerint összesített kimutatást a negyedévet követő negyvenötödik napig az Alapkezelő eljuttatja a miniszternek. A visszautalt összegek összesítését követően a visszautalt összeg további felhasználásáról az a döntéshozó jogosult dönteni, amely a visszatérített összeghez kapcsolódó támogatási szerződés vagy támogatói okirat alapjául szolgáló döntést meghozta.
 
-(6)[^157]
+(6)[^160]
 
-(7)[^158] A miniszter és az Alapkezelő kezelői megállapodást köt, amelyben rögzíteni kell – a 28. § (1) bekezdés a)–o) pontjában foglaltakra figyelemmel – az átvett pénzeszközök felhasználásáról szóló elszámolás elfogadásának módjára vonatkozó rendelkezéseket is. A fel nem használt, kötelezettségvállalással nem terhelt maradványt a civil szervezetek támogatására kell fordítani a Civil tv. 56. § (2) bekezdés b) pontjában meghatározottak szerint.
+(7)[^161] A miniszter és az Alapkezelő kezelői megállapodást köt, amelyben rögzíteni kell – a 28. § (1) bekezdés a)–o) pontjában foglaltakra figyelemmel – az átvett pénzeszközök felhasználásáról szóló elszámolás elfogadásának módjára vonatkozó rendelkezéseket is. A fel nem használt, kötelezettségvállalással nem terhelt maradványt a civil szervezetek támogatására kell fordítani a Civil tv. 56. § (2) bekezdés b) pontjában meghatározottak szerint.
 
-(8)[^159]
+(8)[^162]
 
-[^154]: A 29. § (2) bekezdése a 20/2018. (XII. 20.) MvM rendelet 3. §-ával megállapított, a 11/2022. (VIII. 1.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
-[^155]: A 29. § (3) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^156]: A 29. § (5) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 16. § (2) bekezdésével megállapított, a 35/2016. (XI. 30.) EMMI rendelet a 13. § m) pontja szerint módosított szöveg.
-[^157]: A 29. § (6) bekezdését a 20/2018. (XII. 20.) MvM rendelet 6. §-a hatályon kívül helyezte.
-[^158]: A 29. § (7) bekezdése a 11/2022. (VIII. 1.) MvM rendelet 4. §-ával megállapított szöveg.
-[^159]: A 29. § (8) bekezdését a 23/2017. (X. 3.) EMMI rendelet 13. § e) pontja hatályon kívül helyezte.
+[^157]: A 29. § (2) bekezdése a 20/2018. (XII. 20.) MvM rendelet 3. §-ával megállapított, a 11/2022. (VIII. 1.) MvM rendelet 5. § b) pontja szerint módosított szöveg.
+[^158]: A 29. § (3) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^159]: A 29. § (5) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 16. § (2) bekezdésével megállapított, a 35/2016. (XI. 30.) EMMI rendelet a 13. § m) pontja szerint módosított szöveg.
+[^160]: A 29. § (6) bekezdését a 20/2018. (XII. 20.) MvM rendelet 6. §-a hatályon kívül helyezte.
+[^161]: A 29. § (7) bekezdése a 11/2022. (VIII. 1.) MvM rendelet 4. §-ával megállapított szöveg.
+[^162]: A 29. § (8) bekezdését a 23/2017. (X. 3.) EMMI rendelet 13. § e) pontja hatályon kívül helyezte.

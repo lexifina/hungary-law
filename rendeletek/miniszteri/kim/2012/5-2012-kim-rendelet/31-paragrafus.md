@@ -4,9 +4,9 @@
 
 ## 20. A kollégiumi beszámoló tartalmi elemei
 
-31. § (1)[^162] Az Alapkezelő az e § szerinti összefoglaló adatokat február 28-ig megküldi a kollégiumoknak és a Tanácsnak. A kollégium a Tanácsnak szóló Civil tv. 70. § (1) bekezdés szerinti beszámolót az alábbi szerkezetben és szempontok szerint készíti el:
+31. § (1)[^165] Az Alapkezelő az e § szerinti összefoglaló adatokat február 28-ig megküldi a kollégiumoknak és a Tanácsnak. A kollégium a Tanácsnak szóló Civil tv. 70. § (1) bekezdés szerinti beszámolót az alábbi szerkezetben és szempontok szerint készíti el:
 
-a)[^163] a kollégiumi ülések és az elektronikus szavazások száma, a testület működésének tapasztalatai, különös tekintettel a tárgyévet megelőző évi költségvetési előirányzatok felhasználásról szóló jogszabályban foglalt határidők tartására, a tagok testületi üléseken, határozathozatalban való részvételi arányára;
+a)[^166] a kollégiumi ülések és az elektronikus szavazások száma, a testület működésének tapasztalatai, különös tekintettel a tárgyévet megelőző évi költségvetési előirányzatok felhasználásról szóló jogszabályban foglalt határidők tartására, a tagok testületi üléseken, határozathozatalban való részvételi arányára;
 
 b) együttműködés a Tanáccsal, Alapkezelővel, a kollégiumokkal, az Alap működése felett a Civil tv. 55. §-a szerinti rendelkezési jogot gyakorló miniszterrel;
 
@@ -18,7 +18,7 @@ e) a támogatási célok megvalósulása, a megvalósítás szakmai és hatékon
 
 f) a támogatási elvek, módok, arányok érvényesítése, javaslat a változtatásukat illetően;
 
-g)[^164] az tárgyévet megelőző évi költségvetési keretösszeg terhére kiírt pályázati kiírások célrendszere, értékelése az előző évhez viszonyított változás alapján (kategóriánként és összesen), a támogatások formája (részben vagy egészben visszatérítendő, vissza nem térítendő) és annak indoka, a szerződésmódosítással kapcsolatos kérelmek száma, indokai;
+g)[^167] az tárgyévet megelőző évi költségvetési keretösszeg terhére kiírt pályázati kiírások célrendszere, értékelése az előző évhez viszonyított változás alapján (kategóriánként és összesen), a támogatások formája (részben vagy egészben visszatérítendő, vissza nem térítendő) és annak indoka, a szerződésmódosítással kapcsolatos kérelmek száma, indokai;
 
 h) a benyújtott, az érvényes, a hiánypótlás nélkül érvényes, az érvénytelen pályázatok száma és százalékos arányuk az összes pályázathoz képest;
 
@@ -34,7 +34,7 @@ m) azon pályázatok aránya az összes nyertes pályázathoz képest, amelyek a
 
 n) azon pályázatok aránya az összes nyertes pályázathoz képest, amelyek az általuk igényelt támogatás felét vagy annál kevesebb összeget nyertek;
 
-o)[^165] az összes beérkezett és a nyertes pályázatok számának vármegyei megoszlása;
+o)[^168] az összes beérkezett és a nyertes pályázatok számának vármegyei megoszlása;
 
 p) az elfogadott, az elutasított, a részben elutasított szakmai és pénzügyi beszámolók száma és aránya az adott pályázati kiírás alapján támogatott pályázatok összes beszámolójához képest;
 
@@ -46,21 +46,21 @@ s) a pályázatok, szakmai beszámolók értékelése, az azokból levonható k�
 
 t) a támogatások segítségével megvalósult projektek hatása, eredményessége a civil szektor fejlődését illetően.
 
-(2)[^166] A Civil tv. 56. § (1) bekezdés c), h) és j) pontjában foglalt célok megvalósítására kiírt pályázat esetén a kollégium éves beszámolója az (1) bekezdésben foglaltakon túlmenően az alábbi szempontok szerinti tartalmi elemeket is magában foglalja:
+(2)[^169] A Civil tv. 56. § (1) bekezdés c), h) és j) pontjában foglalt célok megvalósítására kiírt pályázat esetén a kollégium éves beszámolója az (1) bekezdésben foglaltakon túlmenően az alábbi szempontok szerinti tartalmi elemeket is magában foglalja:
 
-a)[^167] a Civil tv. 56. § (1) bekezdés c), h) és j) pontjában foglalt pályázati célok, kategóriák meghatározásának indoklása, az ezt alátámasztó pályázói igények elemzése;
+a)[^170] a Civil tv. 56. § (1) bekezdés c), h) és j) pontjában foglalt pályázati célok, kategóriák meghatározásának indoklása, az ezt alátámasztó pályázói igények elemzése;
 
-b)[^168] a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó támogatási stratégia bemutatása, értékelése, tapasztalatai az a) pontban meghatározott célok figyelembevételével;
+b)[^171] a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó támogatási stratégia bemutatása, értékelése, tapasztalatai az a) pontban meghatározott célok figyelembevételével;
 
 c) a támogatott szervezetek által megküldött szakmai beszámolók alapján a megvalósított projektek – képzések, tanulmányok, előadások, publikációk – értékelése, a résztvevők száma, a megvalósítás hatékonysága a civil szervezetek fejlődése, szerepvállalásának segítése érdekében;
 
-d)[^169] az egyes szakmai célok jövőbeni fenntartásának, módosításának, elvetésének indokolása a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tapasztalatok alapján.
+d)[^172] az egyes szakmai célok jövőbeni fenntartásának, módosításának, elvetésének indokolása a tárgyévet megelőző évi költségvetési előirányzathoz kapcsolódó tapasztalatok alapján.
 
-[^162]: A 31. § (1) bekezdés nyitó szövegrésze az 56/2012. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
-[^163]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § i) pontja szerint módosított szöveg.
-[^164]: A 31. § (1) bekezdés g) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § j) pontja szerint módosított szöveg.
-[^165]: A 31. § (1) bekezdés o) pontja a 21/2022. (XII. 28.) MVM rendelet 1. §-a szerint módosított szöveg.
-[^166]: A 31. § (2) bekezdés nyitó szövegrésze az 5/2023. (VIII. 30.) MVM rendelet 9. § b) pontja szerint módosított szöveg.
-[^167]: A 31. § (2) bekezdés a) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § b) pontja szerint módosított szöveg.
-[^168]: A 31. § (2) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
-[^169]: A 31. § (2) bekezdés d) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
+[^165]: A 31. § (1) bekezdés nyitó szövegrésze az 56/2012. (XII. 29.) EMMI rendelet 17. §-ával megállapított szöveg.
+[^166]: A 31. § (1) bekezdés a) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § i) pontja szerint módosított szöveg.
+[^167]: A 31. § (1) bekezdés g) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § j) pontja szerint módosított szöveg.
+[^168]: A 31. § (1) bekezdés o) pontja a 21/2022. (XII. 28.) MVM rendelet 1. §-a szerint módosított szöveg.
+[^169]: A 31. § (2) bekezdés nyitó szövegrésze az 5/2023. (VIII. 30.) MVM rendelet 9. § b) pontja szerint módosított szöveg.
+[^170]: A 31. § (2) bekezdés a) pontja az 5/2023. (VIII. 30.) MVM rendelet 9. § b) pontja szerint módosított szöveg.
+[^171]: A 31. § (2) bekezdés b) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
+[^172]: A 31. § (2) bekezdés d) pontja a 20/2018. (XII. 20.) MvM rendelet 5. § k) pontja szerint módosított szöveg.
