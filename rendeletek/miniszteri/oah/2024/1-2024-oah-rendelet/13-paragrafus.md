@@ -1,0 +1,1 @@
+13. § Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 27-i 2006/123/EK európai parlamenti és tanácsi irányelv 9–11. cikkének, 13. cikkének, 16. cikk (2) bekezdés b) pontjának, valamint 22. cikk (1) bekezdés b) pontjának való megfelelést szolgálja.

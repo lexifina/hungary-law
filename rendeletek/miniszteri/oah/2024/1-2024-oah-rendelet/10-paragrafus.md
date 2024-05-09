@@ -1,0 +1,1 @@
+10. § Az atomenergia-felügyeleti szerv a jogszabály alapján feljogosított független ellenőrző szervezet ellenőrző tevékenységre való alkalmasságát és ellenőrző tevékenységének eredményét a nyilvántartás felfüggesztése és a nyilvántartásból való törlés céljából vizsgálja.
