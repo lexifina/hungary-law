@@ -1,1 +1,3 @@
-3. § Az FVM rendelet 12. §-ában a „bekezdésének, valamint II. és III.” szövegrész helyébe a „bekezdésének, 10. cikkének, valamint II., III. és V.” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
