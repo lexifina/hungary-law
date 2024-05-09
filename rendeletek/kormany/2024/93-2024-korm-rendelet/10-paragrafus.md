@@ -1,5 +1,5 @@
 ## 4. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet módosítása
 
-10. § A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban: R3.) 2/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+10. §[^11]
 
-„(2) Az e rendeletben szabályozott hatósági eljárásokban – a fogyasztóvédelmi hatóság eljárásának kivételével – az ügyintézési határidő 25 nap.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

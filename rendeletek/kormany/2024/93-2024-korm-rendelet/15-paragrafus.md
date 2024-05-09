@@ -1,1 +1,3 @@
-15. § Hatályát veszti az R4. 6/E. § (1) bekezdése.
+15. §[^18]
+
+[^18]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

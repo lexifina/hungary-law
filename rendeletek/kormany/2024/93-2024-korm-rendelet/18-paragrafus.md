@@ -1,1 +1,3 @@
-18. § Az R5. 3. melléklete a 2. melléklet szerint módosul.
+18. §[^21]
+
+[^21]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

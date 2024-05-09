@@ -1,1 +1,3 @@
-36. § Hatályát veszti az R7. 1. § 2. pontjában a „fogyasztóvédelemről szóló 1997. évi CLV. törvény 2. § a) pontja szerinti” szövegrész.
+36. §[^47]
+
+[^47]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

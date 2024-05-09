@@ -1,17 +1,23 @@
 35. § Az R7.
 
-a) 1. § 4. pontjában a „törvény” szövegrész helyébe a „törvény (a továbbiakban: Fgytv.)” szöveg és a „b)” szövegrész helyébe a „33.” szöveg,
+a)[^40]
 
-b) 4. § (1) bekezdésében a „7. §” szövegrész helyébe a „7. § és a 14. § (5) bekezdése” szöveg,
+b)[^41]
 
-c) 4. § (2) bekezdésében az „adatszolgáltatástól” szövegrész helyébe az „adatszolgáltatástól vagy a 14. § (5) bekezdése szerinti átadástól” szöveg,
+c)[^42]
 
-d) 9/A. §-ában a „másolata” szövegrész helyébe a „másolata vagy az adásvételi szerződés létrejöttéről szóló, 8. § (3) bekezdése szerinti értesítés” szöveg,
+d)[^43]
 
-e) 13. § (2) bekezdésében a „2023. december 31-ig” szövegrész helyébe az „e rendelet alapján” szöveg,
+e)[^44]
 
-f) 16. §-ában az „a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény” szövegrész helyébe az „az Mttv.” szöveg,
+f)[^45]
 
-g)[^21]
+g)[^46]
 
-[^21]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^40]: A 35. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^41]: A 35. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^42]: A 35. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^43]: A 35. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 35. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 35. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^46]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
