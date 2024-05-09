@@ -1,3 +1,3 @@
-1. § Az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet [a továbbiakban: 323/2020. (VII. 1.) Korm. rendelet] a következő 18. §-sal egészül ki:
+1. §[^2]
 
-„18. § E rendeletnek az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 100/2024. (V. 7.) Korm. rendelettel (a továbbiakban: Módr11.) módosított 3. mellékletébenfoglalt táblázat 6. sorát a Módr11. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
