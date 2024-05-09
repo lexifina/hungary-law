@@ -1,3 +1,3 @@
-2. § Az R. 2/A. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^3]
 
-„(4) A beruházás megvalósításával összefüggő közigazgatási szakhatósági eljárásokban az ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – öt nap.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
