@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya
 
-1. § (1) E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11. és 40–41. pontjaiban meghatározottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre – beleértve a sugárvédelmet, a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából – terjed ki, így
+1. § (1)[^1] E rendelet hatálya az atomenergiáról szóló 1996. évi CXVI. törvény (a továbbiakban: Atv.) 17. § (2) bekezdés 1–11., 40–41. és 45. pontjaiban meghatározottak szerint Magyarország területén létesíteni kívánt, valamint a már üzemelő nukleáris létesítményekre, azok rendszereire és rendszerelemeire, a nukleáris létesítménnyel kapcsolatos tevékenységekre és az e tevékenységet végzőkre – beleértve a sugárvédelmet, a nukleáris létesítményeken belüli radioaktív anyag szállítást és a radioaktív hulladékok átmeneti tárolását biztosító rendszereket, rendszerelemeket, a nukleáris létesítmény biztonsági osztályba sorolt nyomástartó berendezéseit és csővezetékeit, továbbá a tűzvédelmet, ha azok a nukleáris biztonságra hatást gyakorolnak, kizárólag ezen hatásuk szempontjából – terjed ki, így
 
 a) a nukleáris létesítmény
 
@@ -70,7 +70,7 @@ h) a nukleáris létesítmény nukleárisbaleset-elhárítási tevékenységére
 
 (2) E rendelet hatálya alá tartozik a nukleáris létesítmény az Országgyűlés – Atv. 7. § (2) bekezdése szerinti – előzetes, elvi hozzájárulásának megszerzésétől kezdődően a nukleáris létesítmény megszüntetéséig, vagy – a nukleáris biztonsági kockázatok megszűnésére tekintettel – az Országos Atomenergia Hivatal (a továbbiakban: nukleáris biztonsági hatóság) által a felügyeleti hatáskörének megszűnéséről hozott határozata véglegessé válásának időpontjáig.
 
-(3) A nukleáris biztonsági követelmények és rendelkezések betartása mindazok számára kötelező, akik az Atv. szerinti, valamint e rendeletben előírt hatósági engedélyhez kötött tevékenységet folytatnak, ilyen tevékenységben közreműködnek, vagy ilyen tevékenység folytatásához engedély iránti kérelmet nyújtanak be.
+(3)[^2] A nukleáris biztonsági követelmények és rendelkezések betartása mindazok számára kötelező, akik az Atv. szerinti, valamint e rendeletben előírt hatósági engedélyhez, bejelentés-tudomásulvételhez kötött tevékenységet folytatnak, ilyen tevékenységben közreműködnek, vagy ilyen tevékenység folytatásához engedély iránti kérelmet nyújtanak be, vagy bejelentést tesznek.
 
 (4) E rendelet hatálya nem terjed ki a fizikai védelemmel kapcsolatos nukleáris biztonsági követelményekre.
 
@@ -81,3 +81,6 @@ a) a nukleáris létesítmény telephely vizsgálati és értékelési engedély
 b) kutatóreaktor, oktatóreaktor és nukleáris üzemanyagot vizsgáló laboratórium esetében a nukleáris létesítmény tervezett telephelyének határától számított száz méteres távolságon belüli vagy azzal érintett ingatlan, valamint
 
 c) a b) pontban meghatározott nukleáris létesítmények kivételével a nukleáris létesítmény tervezett telephelyének határától számított ötszáz méteres távolságon belüli vagy azzal érintett ingatlan.
+
+[^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 2/2024. (IV. 8.) OAH rendelet 10. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 2/2024. (IV. 8.) OAH rendelet 1. §-ával megállapított szöveg.

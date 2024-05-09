@@ -1,5 +1,3 @@
-## 17. § Minden nukleáris létesítménynek és a nukleáris biztonsággal összefüggő tevékenységnek engedéllyel, jóváhagyással vagy felmentéssel kell rendelkeznie.
-
 18. § (1) A nukleáris biztonsági hatóság engedélye szükséges az mellékletekben részletezettek szerint a nukleáris létesítmény
 
 a) telephelyének vizsgálatához és értékeléséhez (telephely vizsgálati és értékelési engedély),
@@ -22,7 +20,7 @@ i) atomerőmű blokk esetében a főjavítását követő újraindításához (i
 
 j) építményeinek és épületszerkezeteinek, valamint az építmények felvonóinak építéséhez, bontásához, használatbavételéhez.
 
-(2) A nukleáris létesítmények létesítési életciklus szakasza során a nukleáris biztonsági hatóság 1. melléklet 1.3.1.0200., 1.3.2., 1.3.3., 1.3.4., 1.3.5. pont szerinti engedélye, vagy az 1. melléklet 1.3.1.0300. pont szerinti esetben típusengedélye szükséges a nukleáris rendszer, rendszerelem
+(2)[^7] Ha e rendelet eltérően nem rendelkezik, a nukleáris létesítmények létesítési életciklus szakasza során a nukleáris biztonsági hatóság 1. melléklet 1.3.1.0200., 1.3.2., 1.3.3., 1.3.4. és 1.3.5. pontja szerinti engedélye – az 1. melléklet 1.3.1.0300. pontja szerinti esetben típusengedélye – szükséges a nukleáris rendszer, rendszerelem
 
 a) gyártásához (gyártási engedély),
 
@@ -49,3 +47,5 @@ d) üzemeltetéséhez (üzemeltetési engedély).
 (10) A (9) bekezdéstől eltérően az e rendelet hatálya alá tartozó nukleáris létesítmények építésügyi hatósági, valamint építésfelügyeleti hatósági ügyeiben az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet II–XVIII. fejezete nem alkalmazható.
 
 (11) Az Atv. 17. § (2) bekezdése szerinti, az engedélyes kérelmére induló eljárásban az elektronikus adathordozón is mellékelt dokumentáció nukleáris biztonsági hatóság által alkalmazott fájlformátumait a nukleáris biztonsági hatóság megnevezheti.
+
+[^7]: A 18. § (2) bekezdése a 2/2024. (IV. 8.) OAH rendelet 4. §-ával megállapított szöveg.

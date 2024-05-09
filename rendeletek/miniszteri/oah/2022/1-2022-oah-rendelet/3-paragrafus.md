@@ -4,7 +4,7 @@
 
 3. § (1) A nukleáris létesítmények nukleáris biztonságára vonatkozó hatósági eljárásokra, a nukleáris létesítmények irányítási rendszereire, valamint a nukleáris létesítmények életciklusa szerinti tevékenységek végrehajtására és azok felügyeletére vonatkozó nukleáris biztonsági követelményeket magukba foglaló Nukleáris Biztonsági Szabályzatokat az 1–10. mellékletek tartalmazzák.
 
-(2) Nukleáris biztonsággal összefüggő hatósági engedély megadásának feltétele a Nukleáris Biztonsági Szabályzatokban foglalt követelmények teljesítése.
+(2)[^3] Nukleáris biztonsággal összefüggő hatósági engedély megadásának, a bejelentés tudomásulvételének feltétele a Nukleáris Biztonsági Szabályzatokban foglalt követelmények teljesítése.
 
 (3) Az e rendeletben rögzített követelmények teljesítésének módszerére vonatkozó ajánlásokat a nukleáris biztonsági hatóság által kiadott útmutatók tartalmazzák. Az útmutatókat a nukleáris biztonsági hatóság a honlapján közzéteszi.
 
@@ -15,3 +15,5 @@
 (6) A nukleáris biztonsági hatóság – ha ez a nukleáris létesítmény nukleáris biztonságának biztosítása érdekében szükséges – a határozatában feltételeket és kötelezettségeket határozhat meg.
 
 (7) A Nukleáris Biztonsági Szabályzatokat – a tudomány eredményeinek és a hazai és nemzetközi tapasztalatoknak a figyelembevételével – legalább ötévente felül kell vizsgálni, és szükség szerint korszerűsíteni kell. Az útmutatók felülvizsgálatára a nukleáris biztonsági hatóság által meghatározott időszakonként, vagy az engedélyesek javaslatára soron kívül kerül sor.
+
+[^3]: A 3. § (2) bekezdése a 2/2024. (IV. 8.) OAH rendelet 10. § 2. pontja szerint módosított szöveg.
