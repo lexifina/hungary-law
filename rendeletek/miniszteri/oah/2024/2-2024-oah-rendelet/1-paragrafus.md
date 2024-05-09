@@ -1,0 +1,3 @@
+1. § A nukleáris létesítmények nukleáris biztonsági követelményeiről és az ezzel összefüggő hatósági tevékenységről szóló 1/2022. (IV. 29.) OAH rendelet (a továbbiakban: NBSZ. R.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A nukleáris biztonsági követelmények és rendelkezések betartása mindazok számára kötelező, akik az Atv. szerinti, valamint e rendeletben előírt hatósági engedélyhez, bejelentés-tudomásulvételhez kötött tevékenységet folytatnak, ilyen tevékenységben közreműködnek, vagy ilyen tevékenység folytatásához engedély iránti kérelmet nyújtanak be, vagy bejelentést tesznek.”
