@@ -2,4 +2,4 @@
 
 (2) A tanúsítvány, ha a képzéshez jogszabályban meghatározottak szerint vizsga kapcsolódik, a vizsgára jelentkezés feltétele.
 
-(3) A tanúsítványt magyar és angol nyelven, vagy magyar és német nyelven kell kiállítani a képzésben résztvevő választása szerint.
+(3) A tanúsítvány a magyar nyelv mellett kiállítható magyar és angol vagy magyar és német nyelven is a képzésben résztvevő választása szerint.

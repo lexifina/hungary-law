@@ -2,7 +2,7 @@
 
 a) aki rendelkezik az általa folytatott felnőttképzési tevékenységre vonatkozóan kidolgozott minőségirányítási rendszerrel és ügyfélszolgálati és panaszkezelési rendszer működtetéséhez szükséges feltételekkel,
 
-b) – a költségvetési szervként működő felnőttképző kivételével – aki vagyoni biztosítékkal rendelkezik a Kormány rendeletében meghatározottak szerint,
+b) – a költségvetési szervként működő felnőttképző, valamint felsőoktatási intézmény kivételével – aki vagyoni biztosítékkal rendelkezik a Kormány rendeletében meghatározottak szerint,
 
 c) akinek a létesítő okiratában, működési engedélyében vagy az egyéni vállalkozói nyilvántartásban a tevékenységei között az oktatás vagy képzés szerepel.
 

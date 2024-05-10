@@ -16,4 +16,4 @@ c) mikrotanúsítványt adó képzést
 
 szervez, e felnőttképzési tevékenységét a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti engedély alapján végezheti.
 
-(3) A szakképző intézmény és a felsőoktatási intézmény a (2) bekezdés szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet.
+(3) A szakképző intézmény a (2) bekezdés a) pontja szerinti felnőttképzési tevékenységeket engedély nélkül is végezhet.
