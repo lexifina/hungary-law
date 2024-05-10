@@ -1,3 +1,3 @@
-6. § Az NBSZ. R. 20. §-a a következő (1a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(1a) A bejelentés-tudomásulvételi eljárásban a bejelentést és mellékleteit – az 1. mellékletben meghatározott kivételekkel – magyar nyelven, a változtatások könnyű kezelését és követhetőségét biztosító formában kell benyújtani. A bejelentést és mellékleteit úgy kell összeállítani, hogy az részleteiben és összességében is egyértelműen és ellenőrizhető módon igazolja, hogy a benyújtott dokumentáció minden részét arra jogosult személyek vagy szervezetek készítették, azokat az engedélyes erre kijelölt szervezeti egysége a benyújtást megelőzően felülvizsgálta és jóváhagyta.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

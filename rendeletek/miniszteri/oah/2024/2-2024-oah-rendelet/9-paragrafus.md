@@ -1,5 +1,3 @@
-9. § (1) Az NBSZ. R. 1. melléklete az 1. melléklet szerint módosul.
+9. §[^10]
 
-(2) Az NBSZ. R. 9. melléklete a 2. melléklet szerint módosul.
-
-(3) Az NBSZ. R. 10. melléklete a 3. melléklet szerint módosul.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

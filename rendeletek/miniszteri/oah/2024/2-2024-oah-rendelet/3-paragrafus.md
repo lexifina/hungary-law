@@ -1,3 +1,3 @@
-3. § Az NBSZ. R. 17. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„17. § Minden nukleáris létesítménynek és nukleáris biztonsággal összefüggő tevékenységnek az e rendeletben meghatározottak szerinti engedéllyel, jóváhagyással, tudomásulvétellel vagy felmentéssel kell rendelkeznie.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

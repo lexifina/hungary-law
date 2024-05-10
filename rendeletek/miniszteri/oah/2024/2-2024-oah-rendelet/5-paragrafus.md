@@ -1,3 +1,3 @@
-5. § Az NBSZ. R. 19. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) A nukleáris biztonságot befolyásoló, a hatósági engedélyezési eljárások megalapozására benyújtott dokumentumokban nem szereplő, 1. és 2. biztonsági osztályba tartozó rendszerelemekkel összefüggő szerelési, kivitelezési technológiák, mérési, számítási, műszaki vizsgálati és értékelési módszerek közül a nukleáris biztonsági hatóság által kijelöltek, valamint a 2. és 3. biztonsági osztályba tartozó rendszerekre, rendszerelemekre vonatkozó, bejelentési és tájékoztatási kötelezettség megállapítására szolgáló kockázatszempontú fontossági elemzés módszertanának és eredményének alkalmazására a nukleáris biztonsági hatóság előzetes jóváhagyása alapján kerülhet sor. A nukleáris biztonsági hatóság a módszert rögzítő magyar vagy angol nyelvű dokumentumot a felhasználási körülményeket megvizsgálva, a felhasználás körülményeire tett előírások mellett hagyja jóvá, ha az kielégíti az Atv. és e rendelet biztonságra vonatkozó követelményeit.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
