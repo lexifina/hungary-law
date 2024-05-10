@@ -10,4 +10,6 @@ bb) a kormányhatározat alapján kiadott végleges más célú hasznosítás t�
 
 bc) az ingatlan művelési ága tekintetében a beruházás rendeltetésének megfelelő kivett megnevezés az ingatlan-nyilvántartásban átvezetésre került, de a megvalósítást követően fennmaradnak olyan ingatlanok, amelyekre a beruházáshoz mégsem volt szükség, és természetbeni állapotuk alapján termőföldnek minősülnek.
 
-2. A Kormány visszavonja a Sátoraljaújhely város közigazgatási területén fekvő földrészletek beruházási célterületté nyilvánításáról szóló 1289/2020. (VI. 4.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
