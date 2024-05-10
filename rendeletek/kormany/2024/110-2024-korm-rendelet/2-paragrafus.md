@@ -1,0 +1,1 @@
+2. § A Kormány megállapítja, hogy az 1. §-ban meghatározott Társaság mint stratégiailag kiemelt jelentőségű felszámolási és csődeljárásban érintett gazdálkodó szervezet vonatkozásában a Cstv. 65–67. §-át kell alkalmazni.
