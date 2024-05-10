@@ -4,7 +4,7 @@
 
 a) országgyűlési képviselő, valamint aki olyan tisztséget tölt be, olyan feladatot lát el, amelyre kinevezését, megbízatását az Országgyűléstől, köztársasági elnöktől, Kormánytól, Kormány tagjától vagy az Országgyűlés, Kormány alárendeltségébe tartozó szervtől (vezetőjétől) kapta, kivéve
 
-aa) ha ezen megbízatás keretében tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként ellátott tevékenységet is –, illetve ha nevelőszülői foglalkoztatási jogviszonyban áll;
+aa) ha ezen megbízatás keretében karitatív, tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet lát el – ideértve a közfeladatot ellátó közérdekű vagyonkezelő alapítvány kuratóriumának vagy felügyelőbizottságának tagjaként vagy vagyonellenőreként ellátott tevékenységet is –, illetve ha nevelőszülői foglalkoztatási jogviszonyban áll;
 
 ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, egészségügyi dolgozó, köznevelési intézmény vezetője, foglalkoztatottja, szakképző intézmény vezetője, foglalkoztatottja vagy a szakképző intézmény tekintetében fenntartói irányítási hatáskört gyakorló szerv vezetője, foglalkoztatottja, felsőoktatási intézmény vezetője, foglalkoztatottja, szociális intézmény vezetője, foglalkoztatottja, gyermekjóléti és gyermekvédelmi intézmény vezetője, foglalkoztatottja;
 
