@@ -1,6 +1,6 @@
 41. § (1)
 
-(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás tekintetében az adott évben felvehető hallgatói létszámkeretet.
+(2) Kormányhatározat állapítja meg a felügyeletet gyakorló miniszterek közös javaslatára az államtudományi képzési terület tekintetében az alap-, osztatlan és mesterképzésekre az adott évben felvehető hallgatói létszámkeretet.
 
 (3)
 

@@ -1,4 +1,4 @@
-36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – az ösztöndíjszerződést kötő, illetve beiskolázó szerv éves költségvetésében kell biztosítani.
+36. § (1) A rendészeti ösztöndíjas hallgató, valamint a 21/A. § (1) bekezdés b) pontja szerinti hallgató pénzbeli juttatásának fedezetét – a (4) bekezdés a) pontjában meghatározott eltéréssel – a beiskolázó szerv éves költségvetésében kell biztosítani.
 
 (2) A katonai képzést folytató kar működésének dologi feltételeit a honvédelemért felelős miniszter biztosítja.
 
@@ -6,7 +6,7 @@
 
 (4) Az Egyetem költségvetésében kell biztosítani
 
-a) az (1) bekezdés kivételével, valamint a rendészeti igazgatási alapképzési szak biztonsági szakirányán a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
+a) az (1) bekezdés kivételével, valamint a rendészeti igazgatási alapképzési szak biztonsági szakirányán, valamint a magánbiztonsági alapképzési szakon a hallgatói juttatások és a doktori képzésben részt vevők támogatásának fedezetét,
 
 b) az Egyetem engedélyezett költségvetési létszámának személyi juttatásait,
 

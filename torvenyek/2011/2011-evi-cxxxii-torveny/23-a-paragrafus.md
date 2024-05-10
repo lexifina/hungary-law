@@ -1,4 +1,4 @@
-23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vagy a képzés sajátosságaira figyelemmel –
+23/A. § Az Egyetemre történő felvétel, illetve hallgatói jogviszony létesítésének feltétele lehet – az államtudományi képzési terület vagy a képzés sajátosságaira figyelemmel –
 
 a) meghatározott nyelv meghatározott típusú és szintű tudása,
 

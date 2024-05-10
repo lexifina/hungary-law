@@ -1,0 +1,1 @@
+57. § A Módtv.4.-gyel megállapított 16/J. § (2) bekezdésének hatálybelépésekor közalkalmazotti jogviszonyban állók a 16/J. § (2) bekezdésében foglalt kötelezettségüket a Módtv.4. hatálybalépését követő 15 napon belül kötelesek teljesíteni.

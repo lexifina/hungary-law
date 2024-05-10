@@ -12,13 +12,13 @@ b) az Egyetem gazdálkodásának, finanszírozásának különös szabályait, v
 
 c) az Egyetem hallgatóinak juttatásaival és az általuk fizetendő egyes térítésekkel kapcsolatos szabályokat,
 
-d) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait
+d) az államtudományi képzési terület alap-, osztatlan és mesterképzései vonatkozásában a szaklétesítés és a szakindítás sajátos szabályait
 
-e) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az alap- és mesterképzés szakjait és a szakok, valamint az államtudományi doktori cím használatára jogosító osztatlan szak képzési és kimeneti követelményeit, továbbá az oklevéllel tanúsított szakképzettséget, és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását.
+e) az államtudományi képzési terület vonatkozásában az alap-, osztatlan és mesterképzési szakokat, az oklevéllel tanúsított végzettséget, szakképzettséget és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását, az államtudományi képzési terület, valamint annak részterületei közös szakmai kompetenciáit, továbbá a szakok képzési és kimeneti követelményeit,
 
 (2) Felhatalmazást kap a közigazgatás-fejlesztésért felelős miniszter, hogy – az igazságügyért felelős miniszter, a honvédelemért felelős miniszter és a rendészetért felelős miniszter egyetértésével – rendeletben határozza meg
 
-a) az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági, valamint nemzetközi és európai közszolgálati felsőoktatás vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
+a) az államtudományi képzési terület alap-, osztatlan és mesterképzései vonatkozásában az évenként felvehető hallgatói létszám megállapításával és elosztásával kapcsolatos eljárás részletes szabályait,
 
 b) az Egyetemre történő felvétel különös feltételeit, valamint
 
