@@ -1,1 +1,1 @@
-75. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény 6. § (2) bekezdés h) pont ha) alpontjában a „házasságkötéssel” szövegrész helyébe a „házasságkötéssel és a bejegyzett élettársi kapcsolat létesítésével” szöveg lép.
+### 75. §

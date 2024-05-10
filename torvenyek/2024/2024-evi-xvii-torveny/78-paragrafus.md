@@ -1,5 +1,3 @@
-## 27. A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény módosítása
+## 27.
 
-78. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 8. §-a helyébe a következő rendelkezés lép:
-
-„8. § A 11. §-ban foglalt eset kivételével a szerzői mű vagy kapcsolódó jogi teljesítmény tekintetében közös jogkezelést végző szervezeten kívül más személynek vagy szervezetnek történő díjfizetés, vagy más személlyel vagy szervezettel történő megállapodás a közös jogkezelő és az általa képviselt érintett jogosult irányában nem hatályos, és nem mentesít a szerzői jogok és kapcsolódó jogok megsértésének jogkövetkezményei alól, feltéve, hogy a közös jogkezelő szervezetnek van olyan hatályos díjszabása, amelynek alkalmazása az adott felhasználás jogszerű megvalósítását lehetővé teszi.”
+### 78. §

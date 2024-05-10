@@ -13,15 +13,3 @@ e) 87. §-a a szerzői és szomszédos jogokra vonatkozó közös jogkezelésrő
 való megfelelést szolgálja.
 
 (2) E törvény 95. §-a a határokon átnyúló polgári, kereskedelmi és büntetőügyekben folytatott igazságügyi együttműködés és az igazságszolgáltatáshoz való hozzáférés digitalizációjáról, valamint az igazságügyi együttműködés területén egyes jogi aktusok módosításáról szóló 2023. december 13-i (EU) 2023/2844 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

@@ -1,13 +1,3 @@
-## 15. A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény módosítása
+## 15.
 
-53. § (1) A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 76. § (8) bekezdése a következő g) ponttal egészül ki:
-
-(Az OBH elnöke a tájékoztatással kapcsolatos feladatkörében)
-
-## „g) az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából személyazonosításra alkalmatlanná tett formában az igazságügyért felelős miniszter rendelkezésére bocsátja a megkeresésben meghatározott tárgykörben hozott, jogerős vagy véglegessé vált bírósági határozatokat, valamint mindazon bírósági és más hatósági vagy egyéb szerv által hozott határozatot, amelyet a jogerős vagy véglegessé vált bírósági határozattal felülbíráltak vagy felülvizsgáltak.”
-
-(2) A bíróságok szervezetéről és igazgatásáról szóló 2011. évi CLXI. törvény 76. §-a a következő (12) és (13) bekezdéssel egészül ki:
-
-„(12) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva, az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából egyedi, meghatározott célú statisztikai adatgyűjtés keretében tájékoztatja az igazságügyért felelős minisztert azokról az adatokról, amelyekből megállapítható a bíróságon folyamatban lévő és befejezett eljárás teljes időtartama az eljárás megindításától annak jogerős befejeződéséig, ideértve a bírósági eljárást megelőző, más szerv által lefolytatott hatósági vagy egyéb közhatalmi eljárás (a továbbiakban: megelőző eljárás), a rendes és a rendkívüli jogorvoslati eljárás, valamint a jogorvoslati eljárás alapján megismételt eljárás időtartamát is. Ezen adatgyűjtés alapján az eljárás teljes időtartama mellett annak is megállapíthatónak kell lennie, hogy annak kezdetétől a jogerős vagy végleges befejeződéséig meddig tartott a megelőző eljárás, illetve a bírósági eljárás.
-
-(13) A (8) bekezdés g) pontja szerinti esetben, ha a megkeresésben kért határozatot a Bírósági Határozatok Gyűjteményében már közzétették, az így közzétett határozatot kell rendelkezésre bocsátani. Más esetben a személyazonosításra alkalmatlanná tételre alkalmazni kell a 166. § (1) bekezdésében, (2) bekezdés a), c), d) és e) pontjában, valamint (5) bekezdésében meghatározott rendelkezéseket. Az OBH elnöke a megkeresés teljesítése során egyeztetést kezdeményezhet az igazságügyért felelős miniszterrel annak érdekében, hogy a megkeresés teljesítése ne eredményezzen a bíróságok számára aránytalan ügyterhet.”
+### 53. §
