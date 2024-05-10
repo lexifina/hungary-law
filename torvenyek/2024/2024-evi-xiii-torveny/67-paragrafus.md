@@ -1,5 +1,3 @@
-## „10a. videótartalom-kezelő: a felnőttképzésről szóló 2013. évi LXXVII. törvényben (a továbbiakban: Fktv.) ekként meghatározott fogalom,”
-
 67. § A szakképzésről szóló 2019. évi LXXX. törvény 12. §-a helyébe a következő rendelkezés lép:
 
 „12. § [A szakmai program]

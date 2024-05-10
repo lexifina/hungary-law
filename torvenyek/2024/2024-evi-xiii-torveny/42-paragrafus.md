@@ -20,9 +20,9 @@
 
 10. 16/B. § (1) bekezdés c) pontjában az „1,25-ös” szövegrész helyébe az „1,10-es” szöveg,
 
-11. 16/J. § (1) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.)” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.)” szöveg,
+11.
 
-12. 16/J. § (2) bekezdésében az „az E-ügyintézési tv.” szövegrész helyébe az „a Dáptv.” szöveg,
+12.
 
 13. 23/A. § nyitó szövegrészében az „és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás” szövegrész helyébe a „képzési terület” szöveg,
 

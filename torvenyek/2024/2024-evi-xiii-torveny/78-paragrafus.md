@@ -1,3 +1,3 @@
-## 18. A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény módosítása
+## 18.
 
-78. § A Pázmány Péter Katolikus Egyetem által ellátott oktatási feladatok elősegítése céljából, a Magyar Katolikus Püspöki Konferencia részére történő ingyenes vagyonjuttatásról szóló 2020. évi XVI. törvény 1/B. § (1) bekezdésében az „A Magyar Nemzeti Múzeum” szövegrész helyébe az „A Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK)” szöveg és az „a Magyar Nemzeti Múzeum részére” szövegrész helyébe az „az MNM KK részére” szöveg lép.
+### 78. §

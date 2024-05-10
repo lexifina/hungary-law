@@ -14,7 +14,7 @@ f) 53. § (4) bekezdésében a „félév lehet” szövegrész helyébe a „f�
 
 g) 53. § (7) bekezdésében az „a „DLA” vagy a „Dr.” rövidítést.” szövegrész helyébe az „a „DLA” vagy a „Dr.” rövidítést, továbbá DBA-fokozattal rendelkezők a „DBA” vagy a Dr. rövidítést.” szöveg,
 
-h) 80/A. § (1) bekezdésében az „a technikusképzésben” szövegrész helyébe az „az okleveles technikusképzésben” szöveg,
+h)
 
 i) 81. § (1) bekezdés f) pontjában az „amennyiben” szövegrész helyébe a „ha” szöveg,
 
