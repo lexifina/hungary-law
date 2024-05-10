@@ -8,7 +8,7 @@
 
 (4) Ha az Alapítvány a tulajdonába adott részvényeket elidegeníti, az elidegenítésből származó bevételnek az elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a közérdekű céljainak megvalósítására és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátására köteles fordítani.
 
-(5) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az 1. mellékletben foglalt táblázat 3. sorában meghatározott állami tulajdonban álló részesedéseket (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+(5) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése, valamint a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az 1. mellékletben foglalt táblázat 3. sorában meghatározott állami tulajdonban álló részesedéseket (a továbbiakban: üzletrészek) ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
 
 (6) Az (5) bekezdésben meghatározott intézkedések végrehajtása során az állam képviseletében a miniszter jár el, aki az üzletrészek felett e törvény erejénél fogva gyakorolja a tulajdonosi jogokat.
 
