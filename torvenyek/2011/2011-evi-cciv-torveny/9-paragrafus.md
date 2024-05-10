@@ -38,6 +38,6 @@ b) tudományos diákkört működtethet.
 
 (5)
 
-(6) Az egyetem és a főiskola felsőfokú végzettségi szintet nem biztosító képzést – felsőoktatási szakképzést, szakirányú továbbképzést, részismereti képzést – is folytathat.
+(6) Az egyetem, az alkalmazott tudományok egyeteme és a főiskola felsőfokú végzettségi szintet nem biztosító képzést – felsőoktatási szakképzést, szakirányú továbbképzést, részismereti képzést – is folytathat.
 
 (7) Ha a felsőoktatási intézmény hivatalos neve megváltozik, az erről szóló bejelentést az oktatási hivatal tudomásul veszi, és kezdeményezi a miniszter útján e törvény 1. mellékletének módosítását.

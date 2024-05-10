@@ -22,6 +22,8 @@ c) a fenntartó a munkáltatói jogok gyakorlásában, a vagyoni, gazdálkodási
 
 d) nem kell alkalmazni a 38. § (2) bekezdésének rendelkezéseit.
 
+e) a szervezeti és működési szabályzat vagy az oktatóval létrejött megállapodás a 26. § (1) bekezdésében és a 34. § (2) bekezdésében foglalt rendelkezésekről eltérhet.
+
 (4) Hitéleti képzést folytató felsőoktatási intézmény – a 6. § (2) bekezdésben, a 9. § (3) bekezdésben foglaltaktól eltérően – az egyetem elnevezést akkor is használhatja, ha egy képzési területen jogosult mesterképzés folytatására, valamint legalább egy tudományterületen vagy művészeti területen doktori képzésre és doktori fokozat odaítélésére.
 
 (5) A hitéleti képzést folytató felsőoktatási intézmény – a 6. § (2) bekezdésben foglaltaktól eltérően – állami elismerést kaphat és a főiskola elnevezést akkor is használhatja, ha egy képzési területen egy szakon jogosult alapképzés folytatására.

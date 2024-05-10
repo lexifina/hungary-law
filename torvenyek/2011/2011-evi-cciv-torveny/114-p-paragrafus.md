@@ -1,0 +1,1 @@
+114/P. § A felsőoktatási intézmények 2024. szeptember 1-jéig felülvizsgálják tanterveiket abból a célból, hogy külföldi részképzés, külföldi szakmai gyakorlat, szakdolgozat vagy diplomamunka készítése céljából nemzetközi mobilitásra felhasználható, tantervbe épített mobilitási időszakot biztosítsanak a hallgatók számára.

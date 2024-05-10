@@ -32,6 +32,8 @@ fa) a hallgatói tanácsadás rendszerét,
 
 fb) az oktatói munka hallgatói véleményezési rendszerét;
 
+fc) a szakmai gyakorlóhelyek véleményezési rendszerét,
+
 g) a fenntartó egyetértésével dönt
 
 ga)

@@ -10,7 +10,7 @@ b) a képzési programhoz nem kapcsolódóan, a felsőoktatási intézmény alap
 
 (3) A hallgatót a hallgatói munkaszerződésben részletezett módon
 
-a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve a hat hét időtartamot elérő egybefüggő gyakorlat ideje alatt, valamint a duális képzés képzési ideje alatt díjazás illeti, amelynek mértéke legalább a kötelező legkisebb munkabér (minimálbér) hatvanöt százaléka, a díjat – eltérő megállapodás hiányában – a szakmai gyakorlóhely fizeti,
+a) az (1) bekezdés a) pontja szerinti esetben díjazás illetheti, illetve a gyakorlatigényes szak szakmai gyakorlatának ideje alatt, valamint a duális képzés képzési ideje alatt díjazás illeti, amelynek mértéke legalább a kötelező legkisebb munkabér (minimálbér) hatvanöt százaléka, a díjat – eltérő megállapodás hiányában – a szakmai gyakorlóhely fizeti,
 
 b)
 

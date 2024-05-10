@@ -12,7 +12,7 @@
 
 (3a) A doktori képzésbe olyan módon is bekapcsolódhat a hallgató, hogy mesterképzési szakon folytatott tanulmányai utolsó tanévének tanulmányaival párhuzamosan doktori képzés részét képező felkészülésben is részt vesz, feltéve, hogy a hallgató a mesterszakos oklevele megszerzését követően teljesíti a felvétel követelményeit is. A felvételi döntéssel egyidejűleg – a felsőoktatási intézmény doktori szabályzata alapján – a mesterképzésben felvett kreditek elismerésre kerülnek.
 
-(4) A doktorandusznak a komplex vizsgát követő három tanéven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy tanévvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév lehet.
+(4) A doktorandusznak a komplex vizsgát követő három tanéven belül a doktori szabályzatban meghatározottak szerinti doktori értekezést kell benyújtania. Ez a határidő különös méltányolást érdemlő esetekben legfeljebb egy tanévvel a doktori szabályzatban meghatározottak szerint meghosszabbítható. A fokozatszerzési eljárásban a hallgatói jogviszony szünetelése legfeljebb két félév, a doktorandusz szülésére tekintettel és a doktori szabályzatban meghatározottak szerint legfeljebb hat félév lehet.
 
 (4a) A felsőoktatási intézmény annak a doktorandusznak, aki a doktori képzésben az előírt krediteket megszerezte, végbizonyítványt (abszolutórium) állít ki.
 
@@ -28,4 +28,4 @@ d) a fokozat követelményeihez mért tudományos, illetve művészeti feladat �
 
 (6) Az odaítélt doktori fokozatokról központi nyilvántartást kell vezetni, amelybe bárki betekinthet. Biztosítani kell a nyilvántartás internetes hozzáférhetőségét. A doktori képzés és a fokozat odaítélésének részletes szabályait a felsőoktatási intézmény doktori szabályzata állapítja meg.
 
-(7) A PhD-fokozattal rendelkező személyek nevük mellett feltüntethetik a „PhD” vagy a „Dr.” rövidítést, a DLA-fokozattal rendelkezők pedig a „DLA” vagy a „Dr.” rövidítést.
+(7) A PhD-fokozattal rendelkező személyek nevük mellett feltüntethetik a „PhD” vagy a „Dr.” rövidítést, a DLA-fokozattal rendelkezők pedig a „DLA” vagy a „Dr.” rövidítést, továbbá DBA-fokozattal rendelkezők a „DBA” vagy a Dr. rövidítést.

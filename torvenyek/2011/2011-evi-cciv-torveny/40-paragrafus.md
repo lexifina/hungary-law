@@ -24,8 +24,10 @@ b) azon alapszakok és osztatlan mesterképzések körét, amelyek esetében gya
 
 (5) Szakirányú továbbképzésre az vehető fel, aki alapképzésben vagy mesterképzésben szerzett fokozattal és szakképzettséggel rendelkezik. Szakirányú továbbképzés esetében felvételi előfeltételként meghatározott munkakör betöltése, meghatározott időtartamú szakmai gyakorlat, további szakképzettség megléte is kiköthető.
 
-(6) Doktori képzésre az vehető fel, aki a mesterképzésben szerzett fokozattal és szakképzettséggel, valamint a doktori iskola szabályzatában meghatározott, a tudományterület műveléséhez szükséges idegen nyelvismerettel rendelkezik.
+(6) Doktori képzésre az vehető fel, aki a mesterképzésben szerzett fokozattal és szakképzettséggel, valamint a doktori iskola szabályzatában meghatározott, a tudományterület műveléséhez szükséges idegen nyelvismerettel rendelkezik. A DBA-képzésre történő felvétel feltétele a gazdálkodás és szervezéstudományok területen magyar és angol, vagy kizárólag angol nyelven PhD képzést folytató doktori iskolák mellett működő DBA programokba a mesterképzésben szerzett fokozat birtokában szerzett legalább 5 éves magas szintű üzleti vezetői gyakorlat.
 
 (6a) A felsőoktatási intézmény a (6) bekezdéstől eltérően a kivételes tehetségű jelentkezőt alapképzésben szerzett fokozattal és szakképzettséggel – párhuzamosan a mesterképzéssel – felveheti doktori képzésre is. A felsőoktatási intézmény az ilyen felvételi döntés feltételéül előírja, hogy a jelentkező tegyen sikeres felvételi vizsgát, és emellett igazolja, hogy kiemelkedő tanulmányi, tudományos és nyelvi ismeretekkel rendelkezik.
+
+(6b) A (6a) bekezdésben foglalt módon a hallgató az osztatlan mesterképzési szakon folytatott tanulmányai utolsó két tanévének tanulmányaival párhuzamosan is felvehető doktori képzésre.
 
 (7) A mesterképzésre, a szakirányú továbbképzésre és a doktori képzésre történő felvétel további feltételeit a felsőoktatási intézmény határozhatja meg, azzal a megkötéssel, hogy azonos felvételi követelményeket köteles alkalmazni, függetlenül attól, hogy a jelentkező mely felsőoktatási intézményben szerezte az oklevelét.

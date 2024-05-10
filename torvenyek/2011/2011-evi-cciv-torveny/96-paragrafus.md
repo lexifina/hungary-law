@@ -8,7 +8,7 @@
 
 (2) A felsőoktatási intézmény – ha közhasznú szervezetként történő nyilvántartásba vételét kéri – alapító okiratában közhasznú (cél szerinti) tevékenységként a 2. § (1) és (3) bekezdés szerinti tevékenységet, illetve tevékenységeket jelölheti meg.
 
-(3) A felsőoktatási intézmény alapító okiratában kötelezően feltüntetendő alaptevékenysége a közhasznú szervezetként működő felsőoktatási intézmény esetében megegyezik közhasznú (cél szerinti) tevékenységével. A közhasznú szervezetként működő felsőoktatási intézmény vállalkozási tevékenységet is folytathat. A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 36. § (2) bekezdés meghatároz.
+(3) A felsőoktatási intézmény alapító okiratában kötelezően feltüntetendő alaptevékenysége a közhasznú szervezetként működő felsőoktatási intézmény esetében megegyezik közhasznú (cél szerinti) tevékenységével. A közhasznú szervezetként működő felsőoktatási intézmény vállalkozási tevékenységet is folytathat. A cél szerinti tevékenység és a vállalkozási tevékenység tekintetében a közhasznú szervezetként működő felsőoktatási intézményt megilletik mindazok a kedvezmények, amelyet az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény (a továbbiakban: Civil tv.) 36. § (2) bekezdése meghatároz.
 
 (4) Közhasznú szervezetként működő felsőoktatási intézmények esetében e törvény 12. § (7) bekezdés f)–i) pontját nem kell alkalmazni.
 
