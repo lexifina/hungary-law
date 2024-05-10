@@ -1,1 +1,3 @@
-3. § Az OAH rendelet 1. mellékletének címében a „Korm. rendelet” szövegrész helyébe az „OAH rendelet” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
