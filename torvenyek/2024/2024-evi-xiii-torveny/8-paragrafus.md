@@ -1,0 +1,1 @@
+8. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 4. § (2) bekezdés g) pontjában a „megtérítése érdekében,” szövegrész helyébe a „megtérítése érdekében, orvostudományi kutatás hatékonysága és eredményes elvégzése érdekében,” szöveg lép.

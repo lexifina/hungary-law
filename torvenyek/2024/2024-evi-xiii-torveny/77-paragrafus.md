@@ -1,0 +1,1 @@
+77. § Hatályát veszti a Nemzeti Kulturális Tanácsról, a kultúrstratégiai intézményekről, valamint egyes kulturális vonatkozású törvények módosításáról szóló 2019. évi CXXIV. törvény 4. § (1) bekezdés c) pont cc) alpontja.
