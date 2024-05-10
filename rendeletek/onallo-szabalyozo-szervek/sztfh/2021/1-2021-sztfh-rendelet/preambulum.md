@@ -1,1 +1,0 @@
-A Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 29. § a) pontjában kapott felhatalmazás alapján, a 13. § n) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
