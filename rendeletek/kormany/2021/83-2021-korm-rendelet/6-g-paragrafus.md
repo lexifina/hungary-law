@@ -1,4 +1,4 @@
-6/G. §[^32] (1) A 2. mellékletben foglalt táblázat 67. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
+6/G. §[^33] (1) A 2. mellékletben foglalt táblázat 67. sora szerinti beruházással érintett ingatlanokon a beépítés szabályait és az egyedi építési követelményeket a (2) és (3) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek, településképi rendelet és az OTÉK előírásait a (2) és (3) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -14,4 +14,4 @@ c) az épületmagasság megengedett legnagyobb mértéke 30 méter.
 
 (3) A 2. mellékletben foglalt táblázat 67. sora szerinti, Csenger belterület 911/2, 911/3 és 912 helyrajzi számú ingatlanokon megvalósuló beruházásokra vonatkozóan a beépítés módja szabadon álló.
 
-[^32]: A 6/G. §-t a 812/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege az 597/2023. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^33]: A 6/G. §-t a 812/2021. (XII. 28.) Korm. rendelet 1. §-a iktatta be, szövege az 597/2023. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.

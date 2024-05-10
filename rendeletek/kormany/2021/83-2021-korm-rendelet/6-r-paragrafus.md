@@ -1,4 +1,4 @@
-6/R. §[^43] (1) A 2. mellékletben foglalt táblázat 86. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/R. §[^44] (1) A 2. mellékletben foglalt táblázat 86. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -36,4 +36,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 15. a helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem feltétele.
 
-[^43]: A 6/R. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^44]: A 6/R. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.

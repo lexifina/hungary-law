@@ -1,4 +1,4 @@
-6/F. §[^30] (1)[^31] A 2. mellékletben foglalt táblázat 66. sora szerinti beruházással érintett ingatlanon intézményi, rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató, kereskedelmi szállásszolgáltató és azokat kiegészítő egyéb rendeltetésű építmények, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
+6/F. §[^31] (1)[^32] A 2. mellékletben foglalt táblázat 66. sora szerinti beruházással érintett ingatlanon intézményi, rekreációs, kulturális, művelődési, kereskedelmi, vendéglátó, szolgáltató, kereskedelmi szállásszolgáltató és azokat kiegészítő egyéb rendeltetésű építmények, oktatási, igazgatási és egyéb közösségi szórakoztató funkciójú épület, irodaépület, kutatás-fejlesztés építménye, sportépítmény, valamint parkoló, parkolóház rendeltetésű épületek és építmények, továbbá azok kiszolgáló építményei helyezhetők el, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával, azzal, hogy
 
 a) a hatályos településrendezési tervek, településképi rendelet, egyéb önkormányzati rendelet és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, és
 
@@ -44,5 +44,5 @@ b) ha a hatályos településrendezési terv, településképi rendelet, egyéb 
 
 (5) A 2. mellékletben foglalt táblázat 66. sora szerinti beruházással érintett ingatlanon a kulturális örökség védelméről szóló 2001. évi LXIV. törvény 43. § (5c) bekezdésében foglaltakon kívül a műemlék részlegesen lebontható akkor is, ha az ingatlan közcélú rendeltetéséhez, az ingatlan méltó és fenntartható használatához, valamint hasznosításához szükséges átalakítások érdekében szükséges, és ezek az átalakítások a műemléki értékek aránytalan sérelme nélkül, a műemléki jelleg megtartása és a védelmet megalapozó általános műemléki érték érvényesülése mellett elvégezhetők.
 
-[^30]: A 6/F. §-t a 792/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
-[^31]: A 6/F. § (1) bekezdése a 132/2022. (IV. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^31]: A 6/F. §-t a 792/2021. (XII. 27.) Korm. rendelet 8. §-a iktatta be.
+[^32]: A 6/F. § (1) bekezdése a 132/2022. (IV. 5.) Korm. rendelet 3. §-ával megállapított szöveg.
