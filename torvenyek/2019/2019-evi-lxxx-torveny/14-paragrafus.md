@@ -9,3 +9,5 @@ a) olyan akkreditált vizsgaközpont, amely az adott szakma vagy szakképesíté
 b) az akkreditált vizsgaközpont által a szakmai oktatás, illetve a szakmai képzés befejezésének időpontját követő harmadik hónap utolsó napjáig meghirdetett szakmai vizsga vagy képesítő vizsga,
 
 a szakmai vizsga és a képesítő vizsga megszervezéséről az országos központi akkreditált vizsgaközpont gondoskodik.
+
+(3) A szakképző intézménynek a szakképzésért felelős miniszter engedélyével az Európai Unió valamely tagállamában lévő helyszínre kihelyezett szakmai oktatása vagy szakmai képzése lezárásaként a szakmai, illetve képesítő vizsga vagy e vizsga egyes vizsgatevékenységei a kihelyezett helyszínen is megszervezhetőek.

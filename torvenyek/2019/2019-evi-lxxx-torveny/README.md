@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-80-00-00
 | 2023-09-01 | 2023. évi XXVIII. törvény | 2019-80-00-00.14 |
 | 2023-11-19 | 2023. évi XXXVIII. törvény | 2019-80-00-00.17 |
 | 2024-01-01 | 2023. évi LII. törvény | 2019-80-00-00.18 |
+| 2024-05-10 | 2024. évi XIII. törvény | 2019-80-00-00.20 |
