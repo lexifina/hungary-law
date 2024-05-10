@@ -1,0 +1,3 @@
+1. § (1) Az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében veszélyhelyzet kihirdetéséről és egyes veszélyhelyzeti szabályokról szóló 424/2022. (X. 28.) Korm. rendelet szerinti veszélyhelyzet ideje alatt a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: Tv.) 82. § (27) bekezdését a (2) bekezdésben foglalt eltérésekkel kell alkalmazni.
+
+(2) Az egészségügyi szolgáltató a Tv. 82. § (26) bekezdése szerinti kérelmét 2024. július 1-jéig nyújthatja be az egészségbiztosításért felelős miniszterhez. Az ellátási érdek fennállásáról az egészségbiztosításért felelős miniszter 2024. augusztus 31-éig dönt.
