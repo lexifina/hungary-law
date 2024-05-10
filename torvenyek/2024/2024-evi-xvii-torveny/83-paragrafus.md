@@ -1,0 +1,5 @@
+83. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 149. §-a helyébe a következő rendelkezés lép:
+
+„149. § (1) A díjszabás jóváhagyására irányuló eljárásban a kultúráért felelős miniszter, a kereskedelemért felelős miniszter, a turizmusért felelős miniszter és a vendéglátásért felelős miniszter, az igazságügyért felelős miniszter, az SZTNH és az eljárás többi résztvevője elektronikus úton kötelesek kapcsolatot tartani egymással. Az SZTNH a reprezentatív közös jogkezelő szervezetekkel, valamint a felhasználókkal és a felhasználói érdek-képviseleti szervezetekkel elektronikus úton tart kapcsolatot.
+
+(2) A 148. § (2) bekezdés a) pontja szerinti hatásvizsgálat elkészítéséhez kötődő egyeztetések során az SZTNH, a reprezentatív közös jogkezelő szervezetek valamint a felhasználók és a felhasználói érdek-képviseleti szervezetek elektronikus úton tartanak kapcsolatot egymással.”

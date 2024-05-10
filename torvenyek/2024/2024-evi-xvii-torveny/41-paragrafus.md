@@ -1,0 +1,5 @@
+41. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény Átmeneti rendelkezések alcíme a következő 62/F. §-sal egészül ki:
+
+„62/F. § (1) A 23. § (3) bekezdésében foglaltaktól eltérően a kötelező gépjármű-felelősségbiztosításnál alkalmazott gépjármű-kategóriákról szóló PM rendelet szerinti Egyéb gépjárművek gépjármű-kategória vonatkozásában első alkalommal az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény kihirdetését követő 30 napon belül kötelesek a biztosítók a díjtarifájukat meghirdeti és közzétenni, amely díjtarifák az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követő hatvanadik naptól alkalmazandóak.
+
+(2) Az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 3. § 10. pontjában, valamint 16. § (2) és (2a) bekezdésében foglaltakat az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvény hatálybalépését követő hatvanadik naptól kell alkalmazni.”

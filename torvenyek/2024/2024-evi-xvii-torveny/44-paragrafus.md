@@ -1,0 +1,9 @@
+44. § (1) A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 43/C. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+
+(Tárgyalást kell tartani, ha)
+
+## „d) az örökösként érdekeltek egyezségükbe – a hagyatéki hitelezőn kívül – más személyt is be akarnak vonni, vagy a törvényes örökösök – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni,”
+
+(2) A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 43/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A törvényes örökös a tárgyalás nélkül meghozott hagyatékátadó végzés jogerőre emelkedése előtt kérheti hagyatéki tárgyalás kitűzését, ha az örökséget visszautasítja, más öröklésben érdekelttel egyezséget kíván kötni, vagy a hagyaték tárgyalás nélküli átadása alapjául szolgált, az iratokhoz csatolt egyezségtől el kíván térni, illetve örökségét vagy annak egy részét hagyatéki hitelező követelésének kielégítése fejében a hagyatéki hitelezőre vagy a hagyatéki eljárásban kieséses örökösre kívánja átruházni, igénylővel kíván egyezséget kötni, vagy az örökségét, illetve annak egy részét a 94. § (3) bekezdése szerint a magyar államnak fel kívánja ajánlani, vagy a törvényes örökös bejelenti, hogy a törvényes örökösök a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni. A törvényes örököst erre a jogára a tárgyalás nélkül meghozott hagyatékátadó végzésben figyelmeztetni kell.”

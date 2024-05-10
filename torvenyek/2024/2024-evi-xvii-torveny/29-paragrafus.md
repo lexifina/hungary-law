@@ -1,0 +1,3 @@
+29. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény 13. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Nem alkalmazható az (1) bekezdés a versenytársak közötti olyan megállapodásra, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is, valamint bármely közvetlenül vagy közvetve a vételi vagy az eladási árak rögzítésére irányuló más megállapodásra.”
