@@ -1,1 +1,1 @@
-### 12. §
+12. § E törvény alkalmazásában kartell a versenytársak közötti olyan megállapodás vagy összehangolt magatartás, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is.

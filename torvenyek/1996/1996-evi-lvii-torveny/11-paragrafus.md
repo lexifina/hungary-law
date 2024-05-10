@@ -2,7 +2,11 @@
 
 ## A gazdasági versenyt korlátozó megállapodás tilalma
 
-11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha egymástól nem független vállalkozások között jön létre.
+11. § (1) Tilos a vállalkozások közötti megállapodás és összehangolt magatartás, valamint a vállalkozások egyesülési jog alapján létrejött szervezetének, köztestületének, egyesülésének és más hasonló szervezetének (a továbbiakban együtt: vállalkozások társulása) a döntése (a továbbiakban együtt: megállapodás), amely a gazdasági verseny megakadályozását, korlátozását vagy torzítását célozza, vagy ilyen hatást fejthet, illetve fejt ki. Nem minősül ilyennek a megállapodás, ha
+
+a) egymástól nem független vállalkozások között jön létre, vagy
+
+b) a vállalkozás és az azt közösen irányító egyik vállalkozás között jön létre, és kizárólag azokon az érintett piacokon tanúsított magatartással kapcsolatos, amelyeken a közösen irányított vállalkozás működik.
 
 (2) Ez a tilalom vonatkozik különösen:
 
