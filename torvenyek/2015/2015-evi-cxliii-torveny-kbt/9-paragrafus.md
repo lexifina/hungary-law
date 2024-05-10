@@ -44,7 +44,7 @@ k) a központi beszerző szerv által közbeszerzési eljárás útján beszerze
 
 (7) Az (1) bekezdés h)–j) pontja alkalmazásában azon ajánlatkérők esetében, amelyeknél az éves nettó árbevétel nem értelmezhető, az ajánlatkérő vagy az ajánlatkérő által kontrollált más jogi személy részére végzett tevékenységek ellátásának arányát az azzal kapcsolatban a szerződéskötést megelőző három évben felmerült költségek alapulvételével kell megállapítani. Amennyiben a szerződés megkötését megelőző három évre vonatkozó adatok nem állnak rendelkezésre, az ajánlatkérőnek valószínűsítenie kell – elsősorban hiteles üzleti tervének bemutatásával – az említett adatokat.
 
-(8) E törvényt – ha a beszerzés tárgya szolgáltatás megrendelése – nem kell alkalmazni az alábbi esetekben:
+(8) E törvényt – amennyiben a beszerzés tárgya szolgáltatás megrendelése – nem kell alkalmazni az alábbi esetekben:
 
 a) meglévő építmény vagy egyéb ingatlan vétele, illetve az arra vonatkozó egyéb jog megszerzése;
 
