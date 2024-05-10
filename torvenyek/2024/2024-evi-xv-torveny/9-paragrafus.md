@@ -1,1 +1,1 @@
-9. § A Tny. 82. § (2) bekezdésében a „Nem vonatkozik az (1) bekezdés arra” szövegrész helyébe a „Nem alkalmazható az (1a) és (1b) bekezdés arra az öregségi nyugdíjat igénylőre, illetve elhunyt jogszerzőre” szöveg lép.
+### 9. §

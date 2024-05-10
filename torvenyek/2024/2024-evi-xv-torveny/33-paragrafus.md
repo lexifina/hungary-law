@@ -3,15 +3,3 @@
 (2) A 10. alcím az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.
 
 (3) A 29. § az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
