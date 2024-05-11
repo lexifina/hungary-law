@@ -30,7 +30,7 @@ c) építési beruházás esetén az építőanyag-eladót,
 
 11. életciklus: valamely termék összes egymást követő lehetséges életszakasza, amelybe beletartozik a kutatás és fejlesztés, az ipari fejlesztés, a gyártás, a javítás, a modernizálás, a módosítás, a karbantartás, a logisztika, a képzés, a tesztelés, a visszavonás és a használatból való kivonás,
 
-12. előzetes minősítés: a gazdasági szereplő nemzetbiztonsági szempontból történő előzetes, átfogó vizsgálata a meghívásra alkalmas gazdasági szereplők jegyzékére való felkerülés céljából,
+12. előzetes minősítés: a gazdasági szereplő nemzetbiztonsági szempontból történő előzetes, átfogó vizsgálata a meghívásra alkalmas gazdasági szereplők jegyzékére, minősített piaci szereplők jegyzékére való felkerülés céljából,
 
 13. építési beruházás: olyan beszerzés, amelynek tárgya a CPV 45. fejezetében említett tevékenységek valamelyikéhez kapcsolódó kivitelezés vagy tervezés és kivitelezés együtt, vagy az ajánlatkérő által megállapított követelményeknek megfelelő építmény bármilyen eszközzel vagy módon történő kivitelezése,
 

@@ -1,18 +1,18 @@
 129. § (1) Az ajánlatkérőnek az eljárásból ki kell zárnia azt a részvételre jelentkezőt, illetve ajánlattevőt,
 
-a) aki nem szerepel a jegyzéken és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a külön jogszabályban meghatározott minta szerinti, kitöltött adatlapokat, nyilatkozatokat,
+a) aki nem szerepel a jegyzéken, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékén és a beszerzési eljáráshoz kötődő minősítés ajánlatkérő által történő kezdeményezése érdekében nem csatolta a külön jogszabályban meghatározott minta szerinti, kitöltött adatlapokat, nyilatkozatokat,
 
-b) akit a beszerzéshez kötődő minősítési vizsgálat eredményeként a jegyzékre nem vesznek fel,
+b) akit a beszerzéshez kötődő minősítési vizsgálat eredményeként a jegyzékre, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékére nem vesznek fel,
 
-c) aki a jegyzéken nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének az ajánlatkérő vagy részvételre jelentkező által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerinti adatlapokat, nyilatkozatokat, vagy
+c) aki a jegyzéken, vagy jogszabályban meghatározott esetben a minősített piaci szereplők jegyzékén nem szereplő és alvállalkozóként bevonni kívánt gazdasági szereplő vonatkozásában az alvállalkozó beszerzési eljáráshoz kötődő minősítésének az ajánlatkérő vagy részvételre jelentkező által történő kezdeményezése érdekében nem csatolta az alvállalkozó által kitöltött, e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott minta szerinti adatlapokat, nyilatkozatokat, vagy
 
 d) akinek a kiegészítő ellenőrzése során a nemzetbiztonsági szolgálat az érintett beszerzési eljárás vonatkozásában nemzetbiztonsági kockázati tényező, vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázati tényező fennállását állapította meg.
 
 (2) Az ajánlatkérőnek az eljárásból ki kell zárnia az olyan részvételre jelentkezőt, ajánlattevőt, vagy alvállalkozót,
 
-a) akit a jegyzékből a beszerzési eljárás alatt töröltek,
+a) akit a jegyzékből, vagy minősített piaci szereplők jegyzékéből a beszerzési eljárás alatt töröltek,
 
-b) aki a megelőző öt éven belül a jegyzékre való felvételére irányuló eljárás során adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott, illetve hamis nyilatkozatot tett.
+b) aki a megelőző három éven belül a jegyzékre, minősített piaci szereplők jegyzékére való felvételére irányuló eljárás során az adatszolgáltatási kötelezettségének teljesítésekor hamis adatot szolgáltatott, illetve hamis nyilatkozatot tett.
 
 (3) Ha a részvételre jelentkező vagy az ajánlattevő valamelyik alvállalkozójával szemben nemzetbiztonsági kockázati tényező merül fel, egy esetben a részvételre jelentkező vagy ajánlattevő ezen alvállalkozó helyett mást jelölhet meg. A második ilyen esetben, vagy ha két vagy annál több alvállalkozónál merül fel nemzetbiztonsági kockázati tényező, a részvételre jelentkezőt, illetve ajánlattevőt az eljárásból ki kell zárni.
 
@@ -24,4 +24,4 @@ b) aki a megelőző öt éven belül a jegyzékre való felvételére irányuló
 
 (7) Ha a részvételre jelentkező az ajánlattételi szakaszban nem nyújt be ajánlatot, köteles az ajánlatkérőnek az ajánlattételi határidőig visszaküldeni az ajánlattételi felhívással kapcsolatos összes iratot. A kizárt, az érvénytelen vagy a nem nyertes ajánlatot benyújtó ajánlattevő az értesítés kézhezvételétől számított tizenöt napon belül köteles a beszerzéssel kapcsolatos összes iratot az ajánlatkérőnek visszaküldeni. A nyertes ajánlattevő a szerződés teljesítését követő harminc napon belül a beszerzéssel kapcsolatos minősített adatot tartalmazó valamennyi iratot köteles visszaküldeni az ajánlatkérő részére, és ezzel egyidejűleg az említett adatok elektronikus adatbázisaiból való törlését is kezdeményezi.
 
-(8) Ha a részvételre jelentkező vagy ajánlattevő a (7) bekezdés szerinti határidőben a korábbi beszerzési eljárásban történő ajánlattételhez rendelkezésére bocsátott iratokat hiánytalanul nem küldi vissza az ajánlatkérőnek, az ajánlatkérő felszólítja az összes irat visszaszolgáltatására, valamint a felszólítással egyidejűleg e tényről az AH-t értesíti. Az AH a mulasztó gazdasági szereplő jegyzéken való szerepeltetését az értesítés kézhezvételének napjától – az ajánlattevő egyidejű értesítése mellett – mindaddig felfüggeszti, amíg az iratokat az ajánlattevő vissza nem szolgáltatja. Az okmányok visszaszolgáltatásának tényéről az ajánlatkérő az AH-t haladéktalanul tájékoztatja.
+(8) Ha a részvételre jelentkező vagy ajánlattevő a (7) bekezdés szerinti határidőben a korábbi beszerzési eljárásban történő ajánlattételhez rendelkezésére bocsátott iratokat hiánytalanul nem küldi vissza az ajánlatkérőnek, az ajánlatkérő felszólítja az összes irat visszaszolgáltatására, valamint a felszólítással egyidejűleg e tényről az AH-t értesíti. Az AH a mulasztó gazdasági szereplő jegyzéken, minősített piaci szereplők jegyzékén való szerepeltetését az értesítés kézhezvételének napjától – az ajánlattevő egyidejű értesítése mellett – mindaddig felfüggeszti, amíg az iratokat az ajánlattevő vissza nem szolgáltatja. Az okmányok visszaszolgáltatásának tényéről az ajánlatkérő az AH-t haladéktalanul tájékoztatja.

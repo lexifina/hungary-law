@@ -10,6 +10,6 @@ d) az ajánlatkérő tudomást szerez arról, hogy a nyertes ajánlattevő alvá
 
 e) a nemzetbiztonsági szolgálatok által a 118. §-ban foglaltak szerint elvégzett kiegészítő ellenőrzés nemzetbiztonsági kockázatot vagy a nemzetbiztonsági szolgálat rendeltetésszerű működését veszélyeztető biztonsági kockázatot állapít meg, vagy
 
-f) az AH vagy a KNBSZ által végzett, a 120. § (5) bekezdése szerinti cégellenőrzés megállapítása szerint az ajánlattevővel szemben nemzetbiztonsági kockázati tényező merült fel, és ezért őt az AH a jegyzékből törli.
+f) az AH vagy a KNBSZ által végzett, a 120. § (5) bekezdése szerinti cégellenőrzés megállapítása szerint az ajánlattevővel szemben nemzetbiztonsági kockázati tényező merült fel, és ezért őt az AH a jegyzékből, minősített piaci szereplők jegyzékéből törli.
 
 (2) Az (1) bekezdés szerinti felmondási okokat a szerződésbe kell foglalni azzal, hogy ezekben az esetekben az ajánlatkérő a szerződésben kikötött biztosítékokat is érvényesíti.

@@ -20,6 +20,6 @@ d) a hiányzó védelmi vagy biztonsági beszerzési dokumentumok az ügyfél ny
 
 (4) A Közbeszerzési Döntőbizottság az e törvény alkalmazása alóli kivételekkel kapcsolatos jogorvoslat során nem vizsgálhatja felül az Országgyűlés illetékes bizottságának e törvény alkalmazása alóli felmentést eredményező döntését.
 
-(5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre kerülés érdekében lefolytatott eljárás, vagy a jegyzékből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
+(5) Nem tartozik a Közbeszerzési Döntőbizottság hatáskörébe a beszerzési eljárásban a jegyzékre, minősített piaci szereplők jegyzékére kerülés érdekében lefolytatott eljárás, vagy a jegyzékből, minősített piaci szereplők jegyzékéből történő törlés szabályosságával kapcsolatos panaszok elbírálása.
 
 (6) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban a kamarai jogtanácsosi vagy ügyvédi képviselet kötelező.
