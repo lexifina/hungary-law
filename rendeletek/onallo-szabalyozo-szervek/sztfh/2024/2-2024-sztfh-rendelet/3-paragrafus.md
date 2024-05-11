@@ -1,1 +1,3 @@
-3. § Hatályát veszti a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének rendelet kiadásában való helyettesítéséről szóló 1/2021. (X. 1.) SZTFH rendelet.
+3. §[^1]
+
+[^1]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

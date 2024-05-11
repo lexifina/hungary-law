@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-2-20-8K
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-05-10 | 2024-2-20-8K.1 | 2/2024. (V. 9.) SZTFH rendelet |
+| 2024-05-11 | 2024-2-20-8K.2 | 2010. évi CXXX. törvény |
