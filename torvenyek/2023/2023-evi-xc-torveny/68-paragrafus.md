@@ -7,3 +7,7 @@
 (3) A polgári személlyel szemben indult büntetőeljárásról és annak befejezéséről, valamint kiutasításáról – a küldő állam tájékoztatása céljából – az idegenrendészeti hatóság köteles értesíteni a honvédelemért felelős miniszter által kijelölt szervet.
 
 (4) Az (1)–(3) bekezdéssel azonos megítélés alá esik az 1995. évi CII. törvénnyel kihirdetett, az Észak-atlanti Szerződés részes államai és a „Békepartnerség” más résztvevő államai közötti, fegyveres erőik jogállásáról szóló Megállapodásban részes államok fegyveres erőinek ezen Megállapodás hatálya alá tartozó polgári állománya és azok hozzátartozói.
+
+(5) Az (1) és a (4) bekezdés szerinti személy hivatalos célú tartózkodási engedélyt kap.
+
+(6) Az (5) bekezdés szerinti hivatalos célú tartózkodási engedély érvényességére és meghosszabbítására a 60. § (2) bekezdését kell megfelelően alkalmazni.

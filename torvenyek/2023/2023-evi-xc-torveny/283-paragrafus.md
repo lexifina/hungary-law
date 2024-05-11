@@ -72,7 +72,13 @@ b) meghatározza a vendégbefektetői vízumra és vendégbefektetői tartózkod
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben a vállalkozásra vonatkozó olyan feltételeket határozzon meg, amelyeket az arra alapított vendég-önfoglalkoztatás célú tartózkodási engedély kiadása, illetve meghosszabbítása során az idegenrendészeti hatóságnak figyelembe kell vennie.
 
-(8) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a regisztrációs és foglalkoztatási díj kiszabásával kapcsolatos részletszabályokat.
+(8) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
+
+a) a regisztrációs díj és a foglalkoztatási díj fizetésére kötelezett minősített kölcsönbeadók és kedvezményes foglalkoztatók nyilvántartásba vételével,
+
+b) a regisztrációs díj és a foglalkoztatási díj kiszabásával és beszedésével
+
+kapcsolatos részletszabályokat.
 
 (9) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Vállalati Kártya iránti kérelmet megalapozó foglalkoztatóra vagy az azzal betelepülési szerződést kötött gazdálkodóra vonatkozó részletes feltételeket.
 

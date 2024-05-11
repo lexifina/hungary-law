@@ -1,0 +1,1 @@
+236/A. § A 68. § (5) bekezdése szerinti hivatalos célú tartózkodási engedély kiadását vagy meghosszabbítását meg kell tagadni, illetve a kiadott hivatalos célú tartózkodási engedélyt vissza kell vonni, ha a harmadik országbeli állampolgár nem teljesíti a 68. §-ban foglalt feltételeket.

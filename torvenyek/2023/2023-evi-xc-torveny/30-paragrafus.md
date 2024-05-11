@@ -2,7 +2,7 @@
 
 30. § (1) Vendégmunkás-tartózkodási engedélyt az a vendégmunkás kaphat,
 
-a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt Magyarország területén tényleges munkát végezzen,
+a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya alapján, ellenérték fejében, más részére, illetve irányítása alatt Magyarország területén tényleges munkát végezzen, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is,
 
 b) akinek a foglalkoztatója nyilvántartásba vett kedvezményes foglalkoztató vagy nyilvántartásba vett minősített kölcsönbeadó,
 

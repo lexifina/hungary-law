@@ -18,7 +18,7 @@ c) az őrizet meghosszabbítása tárgyában meghallgatáson hozott vagy az őri
 
 (6) A jelen lévő ügyféllel a kiutasítási döntést az idegenrendészeti hatóság a döntés rendelkező részének a kiutasított által értett nyelvre történő fordításának átadásával is közölheti. Ezen közlési mód az ügyfél által nem kérelmezhető.
 
-(7) A szóbeli közlés tényét és időpontját jegyzőkönyvbe kell foglalni.
+(7) A szóbeli közlés tényét és időpontját jegyzőkönyvbe kell foglalni. A szóban közölt döntés közlésének joghatásai abban az esetben is beállnak, ha az ügyfél a jegyzőkönyv aláírását megtagadja.
 
 (8) A másodfokon eljáró idegenrendészeti hatóság döntését az elsőfokú döntést hozó hatóság útján kézbesíti.
 

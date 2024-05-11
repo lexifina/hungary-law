@@ -44,7 +44,7 @@ b) – egy évnél rövidebb képzési idő esetén – a képzés tartamához i
 
 (5) A tanulmányi célú tartózkodási engedély érvényességi ideje a (4) bekezdésben meghatározott esetben sem haladhatja meg a kérelmező úti okmányának érvényességi idejét.
 
-(6) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(6) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (7) A tanulmányi célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.
 

@@ -36,6 +36,6 @@ j) az a harmadik országbeli állampolgár, aki magas szintű képzettséget ig�
 
 (5) A Fehér Kártya érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(6) A Fehér Kártyával rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(6) A Fehér Kártyával rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (7) A Fehér Kártyával rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.

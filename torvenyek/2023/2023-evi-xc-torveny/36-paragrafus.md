@@ -20,6 +20,6 @@ b) hivatásos sportoló vagy hivatásos edző,
 
 c) előadóművész, vagy
 
-d) a mozgókép szakmai hatóság által, a mozgóképről szóló törvény által nyilvántartásba vett filmgyártó vállalkozásnál tényleges munkát végző harmadik országbeli állampolgár.
+d) a mozgókép szakmai hatóság által, a mozgóképről szóló törvény által nyilvántartásba vett filmelőállítónál vagy filmgyártó vállalkozásnál tényleges munkát végző harmadik országbeli állampolgár.
 
-(6) A Magyar Kártya érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható, ha a harmadik országbeli állampolgár teljesíti a jogszabályban meghatározott társadalmi együttélési feltételeket.
+(6) A Magyar Kártya érvényességi ideje legfeljebb három év, amely alkalmanként legfeljebb három évvel meghosszabbítható.

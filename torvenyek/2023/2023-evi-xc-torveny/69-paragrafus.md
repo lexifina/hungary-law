@@ -10,6 +10,6 @@ c) II. Cikk 5. pontjában meghatározott hozzátartozók
 
 beutazására és tartózkodására – a II. Cikk 3–5. pontja szerinti státuszuk igazolása esetén – e törvény rendelkezéseit a (2) és (3) bekezdésben foglalt eltéréssel kell alkalmazni.
 
-(2) Az (1) bekezdésben meghatározott személy mentesül a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum beszerzésének kötelezettsége, valamint a 17. § (1) bekezdés e)–g) pontjában meghatározott feltételek igazolása alól.
+(2) Az (1) bekezdésben meghatározott személy mentesül a száznyolcvan napon belül kilencven napot meghaladó tartózkodásra jogosító vízum, valamint a tartózkodási engedély beszerzésének kötelezettsége alól.
 
 (3) Az (1) bekezdésben meghatározott személy letartóztatása vagy őrizetbe vétele esetén az idegenrendészeti hatóság köteles értesíteni a honvédelemért felelős miniszter által kijelölt szervet, a küldő állam tájékoztatása céljából.

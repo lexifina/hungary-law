@@ -20,6 +20,6 @@ b) az a) pont hatálya alá nem tartozó esetben gazdasági társaság, szövetk
 
 (6) A vendég-önfoglalkoztatás célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(7) A vendég-önfoglalkoztatás célú tartózkodási engedély kiadásától számított egy évig – az (5) bekezdés szerint kiadott tartózkodási engedély kivételével – a vendég-önfoglalkoztató magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(7) A vendég-önfoglalkoztatás célú tartózkodási engedély kiadásától számított egy évig – az (5) bekezdés szerint kiadott tartózkodási engedély, valamint a 71. § (5) bekezdése szerinti eset kivételével – a vendég-önfoglalkoztató magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (8) A vendég-önfoglalkoztató nemzeti tartózkodási kártyát nem kaphat.

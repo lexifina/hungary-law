@@ -18,17 +18,25 @@ c) aki – a (4) bekezdésben foglaltak kivételével – rendelkezik érvényes
 
 (6) A vendégbefektetői tartózkodási engedély érvényességi ideje legfeljebb tíz év, amely kizárólag ugyanezen célból legfeljebb tíz évvel hosszabbítható meg. A vendégbefektetői tartózkodási engedély érvényességi ideje meghaladhatja a kérelmező úti okmányának az érvényességi idejét.
 
-(7) A harmadik országbeli állampolgár – a vendégbefektetői tartózkodási engedély kiadása iránti kérelem benyújtása esetén – a Magyarország területére történő belépését követő három hónapon belül köteles az idegenrendészeti ügyindítási elektronikus felületen keresztül igazolni, hogy a 16. § (2) bekezdés c) és e) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette.
+(7) A harmadik országbeli állampolgár – a vendégbefektetői tartózkodási engedély kiadása iránti kérelem benyújtása esetén – a Magyarország területére történő első belépését követő három hónapon belül köteles az idegenrendészeti ügyindítási elektronikus felületen keresztül igazolni, hogy a 16. § (2) bekezdés c) pontja szerinti nyilatkozata alapján vállalt valamely befektetést teljesítette.
 
-(8) A 16. § (2) bekezdés c) és e) pontjában meghatározott befektetés (7) bekezdés szerinti határidőn belüli teljesítésének igazolását az idegenrendészeti hatóság vizsgálja.
+(8) A 16. § (2) bekezdés c) pontjában meghatározott befektetés (7) bekezdés szerinti határidőn belüli teljesítésének igazolását az idegenrendészeti hatóság külön feladat- és hatáskörrel rendelkező szervezeti egysége vizsgálja.
 
 (9) A harmadik országbeli állampolgárnak legalább öt évig a 16. § (3) bekezdés a) pontjában foglaltak teljesítéséhez olyan ingatlanalap által kibocsátott befektetési jeggyel kell rendelkeznie, amelynek
 
 a) nettó eszközértéke legalább 40%-át Magyarországon megvalósuló, lakás funkciójú ingatlanba történő befektetések teszik ki, és
 
-b) ingatlan-alapkezelője legalább egyszerűsített telephely biztonsági tanúsítvánnyal rendelkezik, vagy a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) 3. § 28. pontja szerinti jegyzéken szerepel.
+b) ingatlan-alapkezelője a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) szerinti minősített piaci szereplők jegyzékén szerepel.
 
-(10) A telephely biztonsági tanúsítvánnyal nem rendelkező ingatlan-alapkezelő a Vbt. 118. §-a szerint kezdeményezheti előzetes minősítését. A minősítésre, valamint a jegyzékkel kapcsolatos eljárásra a Vbt. szabályait kell alkalmazni azzal, hogy ebben az esetben az Alkotmányvédelmi Hivatal jár el.
+(10) Az ingatlan-alapkezelő a Vbt. 118. §-a szerint kezdeményezheti előzetes minősítését. A minősítésre, valamint a jegyzékkel kapcsolatos eljárásra a Vbt. szabályait kell alkalmazni azzal, hogy ebben az esetben az Alkotmányvédelmi Hivatal jár el.
+
+(10a) A (9) és (10) bekezdés alapján olyan ingatlan-alapkezelő járhat el, amely a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény (a továbbiakban: Kbftv.) szerinti alternatív befektetési alapkezelőnek minősül (ABAK), és amely olyan alternatív befektetési alapot (a továbbiakban: ABA) jogosult kezelni, amelyben a kezelt eszközök értéke
+
+a) meghaladja összesen a 100 millió euró küszöbértéket (beleértve a tőkeáttétel útján létrejött eszközöket is), vagy
+
+b) meghaladja összesen az 500 millió euró küszöbértéket, amennyiben az ABA portfóliói olyan ABA-kból állnak, amelyek nem tőkeáttétellel finanszírozottak, és amelyek esetében az egyes ABA-kba történő eredeti befektetés időpontját követő öt éven belül nem gyakorolhatók visszaváltási jogok.
+
+(10b) A (10a) bekezdésben foglaltakon túl olyan alapkezelő is eljárhat, amely a Kbftv. szerinti befektetési alapkezelőnek minősülve olyan ingatlanalapot is kezel, amelyben a kezelt eszközök értéke összesen meghaladja a 600 millió euró küszöbértéket.
 
 (11) A 16. § (3) bekezdés b) pontja szerinti ingatlanbefektetés tekintetében
 
@@ -42,7 +50,7 @@ bb) azon harmadik országbeli állampolgár és a 71. § (2) bekezdése szerinti
 
 állhat, aki a vendégbefektetői tartózkodási engedély iránti kérelmet benyújtotta.
 
-(12) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, ha a (3) bekezdés szerinti igazolásának alapjául szolgáló adataiban a vendégbefektetői tartózkodási engedély érvényességi ideje alatt változás áll be, köteles azt a változás bekövetkezésétől számított öt napon belül az idegenrendészeti ügyindítási elektronikus felületen keresztül bejelenteni.
+(12) A vendégbefektetői tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár, ha a (7) bekezdés szerinti igazolásának alapjául szolgáló adataiban a vendégbefektetői tartózkodási engedély érvényességi ideje alatt változás áll be, köteles azt a változás bekövetkezésétől számított öt napon belül az idegenrendészeti ügyindítási elektronikus felületen keresztül bejelenteni.
 
 (13) A vendégbefektetői tartózkodási engedély (6) bekezdés szerinti meghosszabbítása – a 19. § (3) bekezdésében foglaltak kivételével a törvényben meghatározott egyéb feltételek teljesítése esetén – akkor engedélyezhető, ha
 

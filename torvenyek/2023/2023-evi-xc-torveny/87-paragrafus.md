@@ -27,3 +27,5 @@ f) a menekültügyi hatóság, a bíróság vagy az Európai Unió tagállama á
 g) az ideiglenes védelemben részesített harmadik országbeli állampolgár.
 
 (3) Ha a harmadik országbeli állampolgár az Európai Unió más tagállamában kiállított huzamos tartózkodási engedéllyel rendelkezik, az idegenrendészeti hatóság az EU tartózkodási kártya kiadásáról az érintett tagállamot értesíti.
+
+(4) A Magyarország területén történő huzamos tartózkodás céljából EU tartózkodási kártyát a harmadik országbeli állampolgár az (1) bekezdésben meghatározott feltételek teljesítése esetén is csak abban az esetben kaphat, ha teljesíti a jogszabályban meghatározott társadalmi együttélési feltételeket.

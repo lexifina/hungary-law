@@ -1,6 +1,6 @@
 ## 48. A nemzeti tartózkodási kártyára való jogosultság
 
-83. § (1) A Magyarországon történő huzamos tartózkodás céljából nemzeti tartózkodási kártyát – a (4) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel, ideiglenes letelepedési engedéllyel vagy ideiglenes tartózkodási kártyával rendelkezik, és
+83. § (1) A Magyarországon történő huzamos tartózkodás céljából nemzeti tartózkodási kártyát – a (3) bekezdésben foglalt kivétellel – az a harmadik országbeli állampolgár kaphat, aki tartózkodási engedéllyel, ideiglenes letelepedési engedéllyel vagy ideiglenes tartózkodási kártyával rendelkezik, és
 
 a) a kérelem benyújtását közvetlenül megelőzően legalább három éven át jogszerűen és megszakítás nélkül Magyarország területén tartózkodott,
 

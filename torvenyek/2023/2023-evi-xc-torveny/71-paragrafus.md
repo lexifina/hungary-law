@@ -54,7 +54,7 @@ e) vendégmunkás-tartózkodási engedéllyel,
 
 f) Fehér Kártyával,
 
-g) tanulmányi, képzési célú tartózkodási engedéllyel,
+g) tanulmányi (beleértve az álláskeresést és a vállalkozás indítást is), képzési célú tartózkodási engedéllyel,
 
 h) gyakornoki tevékenység folytatása célú tartózkodási engedéllyel, valamint
 
@@ -62,7 +62,7 @@ i) önkéntes tevékenység folytatása célú tartózkodási engedéllyel
 
 rendelkezik.
 
-(5) A tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyarország területén született harmadik országbeli állampolgár gyermeke részére – ha törvény eltérően nem rendelkezik – családi együttélés biztosítása céljából tartózkodási engedélyt kell kiállítani.
+(5) A tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár Magyarország területén, a tartózkodási engedély hatálya alatt született harmadik országbeli állampolgár gyermeke részére – abban az esetben is, ha e törvény alapján további harmadik országbeli állampolgár tartózkodási jogcíme a tartózkodási engedélyre nem alapítható – családi együttélés biztosítása céljából tartózkodási engedélyt kell kiállítani.
 
 (6) A menekültként elismert személyhez kapcsolódó családi együttélés biztosítása célú tartózkodási engedély nem tagadható meg kizárólag amiatt, hogy a családi kapcsolat fennállásának igazolására szolgáló okirat nem áll rendelkezésre.
 

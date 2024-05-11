@@ -16,6 +16,6 @@ b) jogszabályban foglaltak alapján szabad mozgás és tartózkodás jogával r
 
 (4) A szezonális munkavállalás célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(5) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A szezonális munkavállalás célú tartózkodási engedéllyel rendelkező vendégmunkás nemzeti tartózkodási kártyát nem kaphat.

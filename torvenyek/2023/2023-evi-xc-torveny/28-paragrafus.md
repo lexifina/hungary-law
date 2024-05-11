@@ -16,7 +16,7 @@
 
 (8) A foglalkoztatási célú tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(9) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(9) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (10) A foglalkoztatási célú tartózkodási engedéllyel rendelkező vendégmunkás nemzeti tartózkodási kártyát nem kaphat.
 

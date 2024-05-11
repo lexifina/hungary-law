@@ -10,7 +10,7 @@ c) akivel szemben nem áll fenn az e törvényben meghatározott kizáró ok.
 
 (2) Nem kaphat ideiglenes tartózkodási kártyát, nemzeti tartózkodási kártyát vagy EU tartózkodási kártyát az a harmadik országbeli állampolgár,
 
-a) akinek a letelepedése veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
+a) akinek a huzamos tartózkodása veszélyezteti Magyarország közbiztonságát vagy nemzetbiztonságát,
 
 b) aki kiutasítás vagy beutazási és tartózkodási tilalom, illetve SIS figyelmeztető jelzés hatálya alatt áll, vagy
 

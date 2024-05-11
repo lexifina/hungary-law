@@ -6,7 +6,7 @@
 
 (4) A vendégmunkás-tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 
-(5) A vendégmunkás-tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A vendégmunkás-tartózkodási engedéllyel rendelkező vendégmunkás magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A vendégmunkás nem kaphat nemzeti tartózkodási kártyát.
 

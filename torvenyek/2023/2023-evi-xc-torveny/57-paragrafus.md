@@ -8,6 +8,6 @@ b) a Kormány vagy minisztérium által biztosított ösztöndíjas magyarorszá
 
 (3) A képzés célú tartózkodási engedély legfeljebb egy évre adható, ugyanezen célból nem hosszabbítható meg. A harmadik országbeli állampolgár a tartózkodási engedély meghosszabbítását kizárólag tanulmányi célból kérheti.
 
-(4) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(4) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (5) A képzés céljából tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár nemzeti tartózkodási kártyát nem kaphat.

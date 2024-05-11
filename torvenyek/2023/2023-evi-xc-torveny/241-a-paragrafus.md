@@ -1,0 +1,1 @@
+241/A. § A nemzeti érdekből kiállított tartózkodási engedélyt az idegenrendészetért és menekültügyért felelős miniszter visszavonhatja, ha a kiadásakor figyelembe vett 67. § (3) bekezdése szerinti érdek változása azt indokolttá teszi, vagy a 226. § (1) bekezdés b)–e) pontja indokolja.

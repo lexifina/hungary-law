@@ -36,7 +36,7 @@ d) a harmadik országbeli állampolgár nemzetközi védelem iránti kérelme al
 
 e) a harmadik országbeli állampolgár menekültügyi őrizet hatálya alá kerül, vagy
 
-f) a harmadik országbeli állampolgár rendelkezésre állását az idegenrendészeti hatóság óvadék letételével biztosítottnak látja, és óvadék letételét rendeli el.
+f) a harmadik országbeli állampolgár rendelkezésre állását az idegenrendészeti hatóság óvadék letételével biztosítottnak látja, és az óvadékot letették.
 
 (7) Az (1) bekezdés b) pontja alapján elrendelt idegenrendészeti őrizetet az idegenrendészeti hatóság hivatalból megszüntetheti, ha a harmadik országbeli állampolgár körülményeiben beállt jelentős változás okán a továbbiakban nem feltételezhető, hogy a kiutasítás végrehajtását késlelteti vagy meghiúsítja, illetve szökésének veszélye áll fenn.
 

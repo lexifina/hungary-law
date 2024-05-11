@@ -12,7 +12,7 @@
 
 5. az adó- és vámhatóság,
 
-6. az idegenrendészeti eljárásban közreműködő szakhatóságok,
+6. az idegenrendészeti eljárásban közreműködő szakhatóságok, illetve véleményező testület,
 
 7. rendvédelmi szervek,
 

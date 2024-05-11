@@ -48,4 +48,6 @@
 
 24. az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról a rendőrségi és igazságügyi együttműködés, a menekültügy és a migráció területén, valamint az (EU) 2018/1726, az (EU) 2018/1862 és az (EU) 2019/816 rendelet módosításáról szóló, 2019. május 20-i (EU) 2019/818 európai parlamenti és tanácsi rendelet
 
+25. a 767/2008/EK, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1860, az (EU) 2018/1861 és az (EU) 2019/817 rendeletnek az egyéb uniós információs rendszerekhez az Európai Utasinformációs és Engedélyezési Rendszer céljából való hozzáférésre vonatkozó feltételek megállapítása tekintetében történő módosításáról szóló, 2021. július 7-i (EU) 2021/1152 európai parlamenti és tanácsi rendelet
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

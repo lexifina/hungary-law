@@ -32,7 +32,7 @@ b) – hat hónapnál rövidebb tartamú képzési megállapodás esetén – a 
 
 (4) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedély nem hosszabbítható meg.
 
-(5) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
+(5) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár magyarországi tartózkodására hivatkozással – a 71. § (5) bekezdése szerinti eset kivételével – további harmadik országbeli állampolgár tartózkodási jogcíme nem alapítható.
 
 (6) A gyakornoki tevékenység folytatása céljából kiadott tartózkodási engedély érvényessége alatt és annak lejártát követően más jogcímen tartózkodási engedély kiadása belföldön nem kérelmezhető.
 

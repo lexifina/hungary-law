@@ -49,3 +49,5 @@ p) az o) pont szerinti engedéllyel rendelkező harmadik országbeli állampolg�
 q) az Európai Unió tagállama által kiadott, érvényes EU Kék Kártyával rendelkező harmadik országbeli állampolgár EU Kék Kártya kiadása iránti kérelmet nyújt be,
 
 r) a q) pont szerinti engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó, az Európai Unió más tagállama által kiadott, érvényes tartózkodási engedéllyel rendelkező családtag tartózkodási engedély iránti kérelmet nyújt be.
+
+s) a tartózkodási engedély iránti kérelmet a 71. § (5) bekezdése szerinti okból nyújtja be.

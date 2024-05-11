@@ -6,13 +6,13 @@
 
 a) akinek beutazásához és tartózkodásához magyarországi befektetéseire tekintettel nemzetgazdasági érdek fűződik,
 
-b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek,
+b) aki eleget tesz a 17. § (1) bekezdés a), c), d), valamint f)–i) pontjában foglalt feltételeknek, és
 
-c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni,
+c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább egyikével rendelkezik vagy tervez rendelkezni, a tervezett befektetés esetén pedig
 
-d) aki igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie,
+ca) igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie, és
 
-e) aki írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő belépését követő három hónapon belül.
+cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő első belépését követő három hónapon belül.
 
 (3) A (2) bekezdés a) pontjában és a 22. § (3) bekezdés a) pontjában foglaltak alkalmazásában nemzetgazdasági érdeknek kell tekinteni az alábbi befektetések megvalósítását:
 
@@ -24,6 +24,6 @@ c) legalább 1 000 000 euró értékben, oktatási, tudományos kutatási, műv�
 
 (4) Az idegenrendészeti hatóság a vendégbefektetői vízum iránti kérelemről Magyarország közrendje, közbiztonsága, nemzetbiztonsága védelme érdekében Magyarország rendvédelmi- és nemzetbiztonsági szerveinek véleményét kéri.
 
-(5) A vendégbefektetői vízum érvényességi ideje legfeljebb két év.
+(5) A vendégbefektetői vízum érvényességi ideje legfeljebb hat hónap.
 
 (6) A vendégbefektetői vízum érvénytelen, ha a vendégbefektetői tartózkodási engedélyt kiadták.
