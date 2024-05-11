@@ -80,11 +80,13 @@ a) sajátos nevelési igényére, beilleszkedési, tanulási, magatartási nehé
 
 b) óvodai fejlődésével, valamint az iskolába lépéshez szükséges fejlettségével kapcsolatos adatai a szülőnek, a pedagógiai szakszolgálat intézményeinek, az iskolának,
 
-c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, iskolaváltás esetén az új iskolának, a szakmai ellenőrzés végzőjének,
+c) magatartása, szorgalma és tudása értékelésével kapcsolatos adatai az érintett osztályon belül, a nevelőtestületen belül, a szülőnek, a szakmai ellenőrzés végzőjének,
 
 d) diákigazolványa kiállításához szükséges valamennyi adata a hivatal, a diákigazolvány elkészítésében közreműködők részére
 
 továbbítható.
+
+(8a) Iskolaváltás esetén az iskola az új iskolának a tanulmányi rendszeren keresztül adja át a gyermek, tanuló tantárgyankénti előrehaladást igazoló adatait és tanítási év közbeni iskolaváltás esetén az évközi érdemjegyeit is.
 
 (9) A nevelési-oktatási intézmény tanulmányi rendszerében nyilvántartja továbbá azokat az adatokat, amelyek a jogszabályokban biztosított kedvezményekre való igényjogosultság elbírálásához és igazolásához szükségesek. E célból azok az adatok kezelhetők, amelyekből megállapítható a jogosult személye és a kedvezményre való jogosultsága.
 

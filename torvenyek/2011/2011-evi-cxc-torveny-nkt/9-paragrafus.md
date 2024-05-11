@@ -8,7 +8,7 @@
 
 (4) Az általános és középfokú iskolák az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a hét-tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai iskolák.
 
-(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
+(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül –, továbbá a fejlesztő nevelés-oktatás teljesítése alapfokú iskolai végzettséget tanúsít.
 
 (6) A középiskola, a szakiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít.
 

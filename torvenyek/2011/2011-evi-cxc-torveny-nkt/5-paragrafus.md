@@ -4,7 +4,7 @@
 
 a) az óvodai nevelés szakasza, amely a gyermek hároméves korában kezdődik, és addig az időpontig tart, ameddig a gyermek a tankötelezettség teljesítését meg nem kezdi,
 
-b) az alapfokú nevelés-oktatás szakasza, amely az első évfolyamon kezdődik, a nyolcadik évfolyam végéig tart és két részre tagolódik:
+b) az alapfokú nevelés-oktatás szakasza, amely – a fejlesztő nevelés-oktatás kivételével – az első évfolyamon kezdődik, a nyolcadik évfolyam végéig tart és két részre tagolódik:
 
 ba) az első évfolyamon kezdődő és a negyedik évfolyam végéig tartó alsó, és
 

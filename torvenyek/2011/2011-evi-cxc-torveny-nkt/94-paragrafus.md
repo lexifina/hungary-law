@@ -40,7 +40,7 @@ r) a tanév, ezen belül a tanítási év rendjét, a tanítási év meghosszabb
 
 s) az országos tanulmányi verseny szabályzatát,
 
-t)
+t) a pedagógus számára a köznevelésért felelős miniszter által előírt képzés nyilvántartásba vételének feltételeit és eljárási szabályait, a nyilvántartás rendjét, a képzés tartalmát, a képzésben részt vevők körét, valamint a képzés teljesítésének szabályait,
 
 u) a tankönyvvé nyilvánítási eljárás igazgatási szolgáltatási díját, az igazgatási szolgáltatási díj felhasználására, visszafizetésére, visszatérítésére, nyilvántartására és elszámolására vonatkozó részletes szabályokat,
 
@@ -94,7 +94,7 @@ h) a köznevelés információs rendszerének létrehozását, működtetését,
 
 i) a pedagógusigazolvány igénybevételének feltételeit, az igazolvány kiadásának, kezelésének, érvényesítésének szabályait,
 
-j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
+j) a köznevelési közfeladatot ellátó intézményt fenntartó nemzetiségi önkormányzatot, egyházi jogi személyt, vallási tevékenységet végző szervezetet és a 2. § (3) bekezdés b) pont bd) alpontja szerinti fenntartót a központi költségvetésről szóló törvény alapján megillető támogatás megállapításának, folyósításának, elszámolásának rendjét, felhasználásának egyéb kiegészítő szabályait, az igényléssel, elszámolással, felhasználással összefüggő adatszolgáltatás és ellenőrzés rendjét,
 
 k) kijelölje a hivatalt és a 79. § (1) bekezdése szerint átruházható feladatokat,
 
