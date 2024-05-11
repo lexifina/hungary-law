@@ -1,0 +1,3 @@
+6. § A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A kihelyezett a kihelyező vezető döntése alapján – hivatali érdekből – más külképviseletre helyezhető át. Az áthelyezésre vonatkozó döntés meghozatala során a kihelyező vezető mérlegeli és figyelembe veszi a kihelyezett szakmai kompetenciáit, az általa ellátott munkakör jellegét és külképviseletének körülményeit. A kihelyezett hivatali érdekből történő áthelyezése esetén a tartós külszolgálatot folyamatosnak kell tekinteni. Amennyiben az áthelyezési döntéssel a kihelyezett nem ért egyet, a döntés közlésétől számított 5 munkanapon belül kérheti a tartós külszolgálata 60 napon belül történő megszűnése megállapítását.”
