@@ -27,7 +27,3 @@ h) meghatározza az egyszerűsített kártalanítási eljárás keretében kifiz
 a) a törvény végrehajtásával összefüggő feladatok ellátásának rendjét, a szabálysértési eljárás, valamint a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben a közérdekű munka végrehajtásának,
 
 b) a szabálysértési nyilvántartások részére történő adatközlés formájának és módjának, valamint az adatközlés rendjének,
-
-c) a szabálysértési nyilvántartó szerv által teljesített adatszolgáltatás rendjének,
-
-d) az adópolitikáért felelős miniszter, a közigazgatás-szervezésért felelős miniszter, a közlekedésért felelős miniszter, a halgazdálkodásért felelős miniszter, az erdőgazdálkodásért felelős miniszter, a természetvédelemért felelős miniszter, az agrárpolitikáért felelős miniszter egyetértésével a helyszíni bírságolás végrehajtásának, a helyszíni bírságolást igazoló nyomtatvány kialakításának,
