@@ -38,4 +38,4 @@ miatt kerül sor.
 
 (5) Az álláskereső részére a (2) bekezdésben foglalt feltételeknek megfelelő, rövid időtartamú munkalehetőség felajánlható.
 
-(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott alkalmi foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.
+(6) Az álláskeresési járadék folyósításának időtartama alatt folytatott egyszerűsített foglalkoztatásnak minősülő munkaviszony időtartama az álláskeresési járadék folyósítási idejének kimerítését vagy megszüntetését követően megállapított álláskeresési járadék esetében nem vehető figyelembe jogosultsági időként.

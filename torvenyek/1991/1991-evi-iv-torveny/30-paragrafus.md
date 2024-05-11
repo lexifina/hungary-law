@@ -34,7 +34,7 @@ e) korhatár előtti ellátásban, szolgálati járandóságban, táncművészet
 
 a) a 29. § (1) bekezdés b) és c) pontjában, valamint f) pontjában meghatározott esetben,
 
-b) – az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
+b) – az 58. § (5) bekezdés n) pontjában meghatározott egyszerűsített foglalkoztatásnak minősülő munkaviszony kivételével – a keresőtevékenység időtartamára, függetlenül az időtartam mértékétől,
 
 c) 90 napra, ha az álláskereső a 36. § (1) bekezdésében meghatározott bejelentési kötelezettséget elmulasztotta,
 

@@ -14,7 +14,7 @@ e) az álláskeresési járadék folyósítási idejét kimerítette, a folyós�
 
 f)
 
-g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt alkalmi foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
+g) kereső tevékenységet folytat – kivéve a (2) bekezdésben, a 29. § (1) bekezdés d) pontjában foglaltakat, valamint az 58. § (5) bekezdés n) pontjában foglalt egyszerűsített foglalkoztatásnak minősülő munkaviszony keretében folytatott kereső tevékenységet – a kereső tevékenység kezdő napjától.
 
 (2) Meg kell szüntetni az álláskeresési járadék folyósítását, ha
 

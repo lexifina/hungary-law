@@ -4,7 +4,7 @@
 
 a) a természetes személyazonosító adatokat, a TAJ számát, valamint a bankszámlaszámot,
 
-b) az állampolgárságot, a bevándorolt, a letelepedett, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
+b) az állampolgárságot, a huzamos tartózkodási jogosultságot, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
 
 c) a lakcím (lakóhely, tartózkodási hely) és elérhetőség adatait,
 
@@ -88,13 +88,23 @@ kezeli.
 
 a) a foglalkoztatást elősegítő támogatások, valamint a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos támogatások megállapításával, igénybevételével és nyújtásával kapcsolatos feladatai ellátása során az (1) bekezdés szerinti nyilvántartás adatait,
 
-b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
+b) a harmadik országbeli állampolgárok magyarországi foglalkoztatásának engedélyezésével összefüggésben
+
+ba) a harmadik országbeli állampolgár (1) bekezdés a) pontjában meghatározott adatait,
+
+bb) a foglalkoztató által benyújtott munkaerőigények befogadása során az (1) bekezdés n) pontjában meghatározott adatokat,
+
+bc) a minősített kölcsönbeadók nyilvántartásba vételével kapcsolatos eljárásban az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat,
+
+bd) a regisztrációs díj fizetésére kötelezett kedvezményes foglalkoztató, valamint minősített kölcsönbeadó nyilvántartásba vételével kapcsolatos eljárásban az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat,
 
 c) a foglalkoztatást elősegítő szolgáltatásokkal kapcsolatos feladatai ellátása során az (1) bekezdés a), c), d), f), h), i) és l) pontjában meghatározott adatokat,
 
 d) a munkaerő-piaci ellenőrzése során a tényállás tisztázásához elengedhetetlenül szükséges személyes adatokat, így különösen az érintettek vonatkozásában a természetes személyazonosító adatokat, és a szakképzettségre vonatkozó adatokat,
 
 e) a hatósági ellenőrzés keretében az (1) bekezdés szerinti nyilvántartás adatait
+
+f) a minősített kölcsönbeadók, illetve a magán-munkaközvetítők nyilvántartásba vételével összefüggésben az (1) bekezdés n) pont nh) alpontjában meghatározott adatokat
 
 kezeli.
 

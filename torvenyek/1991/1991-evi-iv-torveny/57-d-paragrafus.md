@@ -4,7 +4,7 @@
 
 a) a természetes személyazonosító adatokat,
 
-b) az állampolgárságot, valamint a bevándorolt, a letelepedett vagy a menekültstátuszt,
+b) az állampolgárságot, valamint a huzamos tartózkodási jogosultságot vagy a menekültstátuszt,
 
 c) a belföldi lakó- vagy tartózkodási helyet,
 

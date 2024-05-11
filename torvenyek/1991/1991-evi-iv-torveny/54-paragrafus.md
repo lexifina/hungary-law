@@ -90,7 +90,7 @@ törli az álláskeresők nyilvántartásából az álláskeresőt.
 
 a)
 
-b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az 58. § (5) bekezdés n) pontjában meghatározott alkalmi foglalkoztatásnak minősülő munkaviszonyt) folytat,
+b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az 58. § (5) bekezdés n) pontjában meghatározott egyszerűsített foglalkoztatásnak minősülő munkaviszonyt) folytat,
 
 c) – az időtartamtól függetlenül – közfoglalkoztatásban vesz rész,
 

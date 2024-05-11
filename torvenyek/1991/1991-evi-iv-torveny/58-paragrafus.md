@@ -84,7 +84,7 @@ mac) akinek a munkaképesség-csökkenése 50–100 százalékos mértékű,
 
 mb) aki a komplex minősítés alól jogszabály rendelkezése alapján mentesül, rokkantsági ellátás folyósításának időtartama alatt,
 
-n) alkalmi foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
+n) egyszerűsített foglalkoztatásnak minősülő munkaviszony: az adórendszeren kívüli háztartási munka, az egyszerűsített foglalkoztatásról szóló törvény által szabályozott alkalmi munka, valamint idénymunka,
 
 o) közhasznú tevékenység: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló törvény szerinti közhasznú tevékenység,
 

@@ -1,6 +1,6 @@
 ## Foglalkoztatási igazolás
 
-36/A. § (1) A munkaadó – az alkalmi foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
+36/A. § (1) A munkaadó – az egyszerűsített foglalkoztatásnak minősülő munkaviszony és a nevelőszülői foglalkoztatási jogviszony esetét kivéve – a munkaviszony megszüntetésekor vagy megszűnésekor foglalkoztatási igazolást állít ki.
 
 (2) A foglalkoztatási igazolás tartalmazza
 
