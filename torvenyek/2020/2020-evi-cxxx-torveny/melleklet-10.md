@@ -135,5 +135,3 @@ VII.
 2. kirendelés, vezénylés adatai
 
 VIII.
-
-1. a szolgálati jogviszony megszűnésének, valamint a végleges és határozott idejű áthelyezés időpontja, módja, a végkielégítés adatai
