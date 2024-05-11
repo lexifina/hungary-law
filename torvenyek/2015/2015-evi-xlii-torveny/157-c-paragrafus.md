@@ -1,0 +1,1 @@
+157/C. § A miniszter által vezetett minisztériumnál vezényléssel betölthető szolgálati beosztások esetében megállapítandó hivatásos pótlék mértékét a miniszter állapítja meg miniszteri rendeletben meghatározott sávon belül.

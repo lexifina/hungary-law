@@ -14,6 +14,8 @@
 
 7. a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek
 
+8. az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (2) Ez a törvény az Európai Határ- és Parti Őrségről, valamint az 1052/2013/EU és az (EU) 2016/1624 rendelet hatályon kívül helyezéséről szóló, 2019. november 13-i (EU) 2019/1896 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
