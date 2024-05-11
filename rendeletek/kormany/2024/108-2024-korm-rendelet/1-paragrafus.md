@@ -1,3 +1,3 @@
-1. § Az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet (a továbbiakban: R.) 3. §-a a következő (4a) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4a) A (4) bekezdéstől eltérően a 2. mellékletbenfoglalt táblázat 99. sora szerinti beruházásnak a 10985/14, 10985/15, 10985/16 helyrajzi számra eső részére vonatkozóan az építészeti-műszaki tervtanácsi véleményt be kell szerezni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
