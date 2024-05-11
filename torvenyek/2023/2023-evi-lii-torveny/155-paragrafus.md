@@ -8,7 +8,7 @@
 
 (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-1. a köznevelésben foglalkoztatottak által betölthető munkaköröket és azok betöltésének, valamint az igazgatói megbízás iskolai végzettséggel, szakképzettséggel, szakmai gyakorlattal kapcsolatos és egyéb részletes feltételeit, továbbá a feltételek igazolásának módját,
+1. a köznevelésben foglalkoztatottak által betölthető munkaköröket és azok betöltésének, valamint az igazgatói megbízás iskolai végzettséggel, szakképzettséggel, szakmai gyakorlattal kapcsolatos és egyéb részletes feltételeit, továbbá a feltételek igazolásának módját, valamint az elismerési eljárás alóli mentesítésre vonatkozó igazolás kiállításának részletes szabályait,
 
 2. a pályázat közzétételének módját, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
@@ -36,7 +36,7 @@
 
 14. az illetmény számfejtésével és elszámolásával kapcsolatos részletes szabályokat, ha a munkáltató nem a központosított illetményszámfejtés hatálya alá tartozik,
 
-15. az e törvényben meghatározott illetmények alsó, illetve felső határánál magasabb összegű alsó, illetve felső határt, az e törvényben meghatározott keretek között a tankerületi központon belül más nevelési-oktatási intézmény feladatellátási helyén történő munkavégzés idejére járó illetményrész mértékének, az egyes köznevelési feladatokért járó megbízási díj, eseti és illetménypótlék, kereset-kiegészítés, jutalom mértékének és megállapításának részletes szabályait,
+15. az e törvényben meghatározott illetmények alsó, illetve felső határánál magasabb összegű alsó, illetve felső határt, az indokolással ellátandó jognyilatkozatok körét, a kötelező illetményemelés megállapításának, a tankerületi központon belül más nevelési-oktatási intézmény feladatellátási helyén történő munkavégzésre utasítás idejére és az egyéb juttatás együttes megállapítása esetén az e törvényben meghatározott feltételek alapján járó illetményrész mértékének, az egyes köznevelési feladatokért járó megbízási díj, eseti és tartós illetménypótlék, kereset-kiegészítés, az egyéb juttatások, jutalom mértékének és megállapításának részletes szabályait,
 
 16. a pedagógusigazolvány igénylésének, elkészítésének és nyilvántartásának szabályait, az illetményen kívüli juttatásokat,
 

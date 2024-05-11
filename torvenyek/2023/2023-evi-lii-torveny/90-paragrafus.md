@@ -32,7 +32,7 @@ tartama.
 
 a) a nevelési-oktatási intézmény tevékenységi körébe tartozó nevelés, oktatás, gyermekfelügyelet, a pedagógiai szakszolgálati intézmény tevékenységi körébe tartozó pedagógiai szakszolgálati tevékenység céljára,
 
-b) továbbképzés, foglalkoztatást elősegítő képzés céljából, vagy
+b) továbbképzés, a köznevelésért felelős miniszter által előírt képzés, továbbá foglalkoztatást elősegítő képzés céljából, vagy
 
 c) ha a pedagógus szabadságát részben vagy egészben a szorgalmi időben, óvodapedagógus esetében – a július 1-jétől augusztus 31-éig tartó időszak kivételével – a nevelési évben adják ki.
 

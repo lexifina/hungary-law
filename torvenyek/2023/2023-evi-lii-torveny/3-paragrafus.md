@@ -50,6 +50,8 @@ b) gyermeknevelési támogatásban részesült vagy részesül,
 
 16. köznevelésben foglalkoztatott: a köznevelési foglalkoztatotti jogviszonyban álló és a köznevelési dolgozó;
 
+16a. köznevelésért felelős miniszter által előírt képzés: az Nkt. szerinti, a pedagógus továbbképzésen kívül a köznevelésért felelős miniszter rendeletében előírt képzés,
+
 17. köznevelési foglalkoztatotti jogviszonyban álló: a pedagógus és a nevelést és oktatást, óvodában a nevelést közvetlenül segítő, a 25. pont a)–j) alpontjában meghatározott munkakört betöltő személy,
 
 18. levonásmentes munkabérrész: a bírósági végrehajtásról szóló törvény alapján teljesíthető levonások után fennmaradó munkabérrész,
@@ -119,6 +121,8 @@ e) növelt összegű öregségi, munkaképtelenségi járadékban részesül,
 28. óraadó: az Nkt.-ban ekként meghatározott pedagógus, oktató,
 
 29. pedagógus: ha jogszabály eltérően nem rendelkezik, a Kormány rendeletében meghatározott pedagógus-munkakört betöltő személy,
+
+29a. pedagógus továbbképzés: a pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló jogszabályban meghatározott továbbképzés,
 
 30. szakszervezet: a köznevelésben foglalkoztatottak minden olyan szervezete, amelynek elsődleges célja a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonnyal vagy munkaviszonnyal kapcsolatos érdekeinek előmozdítása és megvédése,
 

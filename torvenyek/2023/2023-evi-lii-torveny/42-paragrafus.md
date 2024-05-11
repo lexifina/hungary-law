@@ -20,7 +20,7 @@ h) a szabadságnapok számáról, számítási módjáról és kiadásának szab
 
 i) a köznevelési foglalkoztatotti jogviszony megszüntetésével összefüggő szabályokról, különösen a felmentési idő megállapításának szabályairól,
 
-j) a kötelező pedagógus továbbképzés kivételével a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
+j) a kötelező pedagógus továbbképzés és a köznevelésért felelős miniszter által előírt képzés kivételével a munkáltató képzési politikájáról, a munkavállaló által igénybe vehető képzésre fordítható idő tartamáról,
 
 k) a hatóság megnevezéséről, amely részére a munkáltató a köznevelési foglalkoztatotti jogviszonnyal kapcsolatos közterhet megfizeti,
 

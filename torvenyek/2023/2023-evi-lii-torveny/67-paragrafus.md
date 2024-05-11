@@ -22,7 +22,7 @@
 
 10. iskolában a kerettantervben és a pedagógiai programban meghatározottak szerint érdemjegyekkel vagy szövegesen, sokoldalúan, a követelményekhez igazodóan értékelje a tanulók munkáját,
 
-11. részt vegyen a számára előírt pedagógus-továbbképzéseken, folyamatosan képezze magát,
+11. részt vegyen a számára előírt pedagógus-továbbképzéseken és a köznevelésért felelős miniszter által előírt képzéseken, valamint folyamatosan képezze magát,
 
 12. tanítványai pályaorientációját, aktív szakmai életútra történő felkészítését folyamatosan irányítsa,
 

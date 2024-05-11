@@ -8,7 +8,7 @@
 
 (2) A foglalkoztatotti alapnyilvántartás adatai közül a munkáltató megnevezése, a köznevelésben foglalkoztatott neve, továbbá a köznevelési foglalkoztatotti jogviszonyban álló besorolására vonatkozó adat közérdekből nyilvános adat.
 
-(3) A munkáltatónál vezetett foglalkoztatotti alapnyilvántartásba betekinthet:
+(3) A munkáltatónál vezetett foglalkoztatotti alapnyilvántartásba – az eljárásában indokolt mértékig – jogosult betekinteni, illetve abból adatokat átvenni:
 
 a) a köznevelésben foglalkoztatott,
 

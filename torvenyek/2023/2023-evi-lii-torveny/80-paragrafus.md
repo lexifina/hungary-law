@@ -8,7 +8,7 @@ b) a tantárgyfelosztásban, kollégiumi feladatmegosztásban tervezhető egyéb
 
 megtartása rendelhető el.
 
-(2) Nevelési-oktatási intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni
+(2) Köznevelési intézményben foglalkoztatott – az alábbi feladatok ellátásával megbízott – pedagógus számára a neveléssel-oktatással lekötött munkaidő terhére kell elrendelni
 
 a) heti egy óra időtartamban a tanulók nevelési-oktatási intézményen belüli önszerveződésének segítésével összefüggő feladatok végrehajtását,
 

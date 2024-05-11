@@ -10,7 +10,7 @@
 
 (2) E törvény munkáltatói jogkörgyakorlásra, a munkáltató személyében bekövetkező változásra, a csoportos létszámcsökkentésre vonatkozó előírásai, valamint az V. és a VI. Fejezete kiterjed az (1) bekezdésben foglalt munkáltató által foglalkoztatott köznevelési dolgozóra.
 
-(3) A köznevelés területén működő munkáltatónál foglalkoztatott egyházi szolgálati jogviszonyban állóra alkalmazni kell a 26. § (1) bekezdését, a 27. §-t, a 97. § (10) bekezdését.
+(3) A köznevelés területén működő munkáltatónál foglalkoztatott egyházi szolgálati jogviszonyban állóra alkalmazni kell a 26. § (1) bekezdését, a 27. §-t, a 97. § (10) bekezdését, valamint a 109. §-t.
 
 (4) Az óraadóra alkalmazni kell a 3. § 28. és 31. pontját, a 4. § (1) bekezdés c) pontját, a 26. § (1) bekezdését, a 27. §-t, és a IV. Fejezetet.
 
@@ -18,7 +18,7 @@
 
 (6) Magyarország területén működő külföldi nevelési-oktatási intézmény foglalkoztatottjára e törvény rendelkezéseit akkor kell alkalmazni, ha a pedagógus a pedagógus-munkakör betöltése feltételeinek a magyar jog szerint megfelel, a Nemzeti alaptanterven alapuló szabályozók szerint végzi munkaköri feladatát és a felek a magyar jogot kötötték ki egymás közötti jogviszonyukra.
 
-(7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. alcímben foglaltakat.
+(7) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai szakértő, pedagógiai előadó munkakörben foglalkoztatottra alkalmazni kell a 13. és 14. alcímben foglaltakat.
 
 (8) A nyugdíjasra alkalmazni kell a 109. §-t.
 

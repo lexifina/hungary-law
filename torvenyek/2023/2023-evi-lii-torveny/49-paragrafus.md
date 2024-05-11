@@ -8,7 +8,7 @@ b) a fenntartó, – költségvetési intézmény munkáltató esetén – az Or
 
 c) a köznevelési foglalkoztatotti jogviszonyban álló munkáját nem végzi megfelelően, vagy egészségügyi okból munkaköri feladatai ellátására alkalmatlanná vált,
 
-d) a köznevelési foglalkoztatotti jogviszonyban álló a 70. §-ban meghatározottak szerinti továbbképzésen önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen,
+d) a köznevelési foglalkoztatotti jogviszonyban álló a pedagógus továbbképzésen önhibájából nem vett részt, vagy tanulmányait nem fejezte be sikeresen,
 
 e) a köznevelési foglalkoztatotti jogviszonyban álló nyugdíjasnak minősül.
 

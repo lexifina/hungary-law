@@ -10,7 +10,7 @@
 
 (3) A köznevelési dolgozó munkaszerződésének tartalmaznia kell a 39. § (3) bekezdés a) pont aa), ab), ae), af) alpontban, valamint a 39. § (3) bekezdés b)–d) pontjában meghatározottakat, valamint a munkavállaló havi alapbérét.
 
-(4) A pedagógus szakképzettséggel nem rendelkező nevelő-oktató munkát segítő munkakörben foglalkoztatott köznevelési dolgozó havi munkabére nem lehet kevesebb, mint a kötelező legkisebb munkabér vagy garantált bérminimum százhét százaléka. A 98. § (6)–(7) bekezdését alkalmazni kell.
+(4) A nevelő-oktató munkát segítő munkakörben foglalkoztatott köznevelési dolgozó havi munkabére nem lehet kevesebb, mint a kötelező legkisebb munkabér vagy garantált bérminimum százhét százaléka. A 98. § (6)–(7) bekezdését alkalmazni kell.
 
 (5) Költségvetési intézmény által foglalkoztatott köznevelési dolgozó munkaviszonyára alkalmazni kell a Mt. köztulajdonban álló munkáltatóval fennálló munkaviszonyra vonatkozó szabályait.
 

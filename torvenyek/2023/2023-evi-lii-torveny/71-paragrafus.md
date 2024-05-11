@@ -14,7 +14,7 @@ e) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ik
 
 f) hozzátartozója halálakor két munkanapra,
 
-g) a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
+g) a felek megállapodása szerinti képzés, a köznevelésért felelős miniszter által előírt képzés, valamint pedagógus továbbképzés esetén, a képzésben való részvételhez szükséges időre,
 
 h) önkéntes vagy létesítményi tűzoltói szolgálat ellátása tartamára,
 
@@ -28,7 +28,7 @@ l) a súlyos egészségi okból gondozásra szoruló hozzátartozójának, vagy 
 
 m) köznevelési foglalkoztatotti jogviszonyra vonatkozó szabályban meghatározott időtartamra, vagy
 
-n) felsőoktatási tanulmányok folytatása esetén – ha az szerepel a továbbképzési programban, vagy ha a munkáltató egyedileg engedélyezi – a kötelező foglalkozásokon, szakmai gyakorlaton való igazolt részvétel napjára, továbbá vizsgánként – a vizsga napját is beleszámítva – négy munkanapra, valamint a záródolgozat elkészítésére további öt munkanapra.
+n) felsőoktatási tanulmányok folytatása esetén – ha az szerepel a pedagógus továbbképzési programban, vagy ha a munkáltató egyedileg engedélyezi – a kötelező foglalkozásokon, szakmai gyakorlaton való igazolt részvétel napjára, továbbá vizsgánként – a vizsga napját is beleszámítva – négy munkanapra, valamint a záródolgozat elkészítésére további öt munkanapra.
 
 (2) Az (1) bekezdés j) pontja szerinti esetben a köznevelési foglalkoztatotti jogviszonyban állót a kérésének megfelelő időpontban – az örökbefogadást elősegítő szervezet által kiállított igazolás alapján, a kiállításától számított kilencven napon belül – kell mentesíteni. Az igénybevételről a köznevelési foglalkoztatotti jogviszonyban álló legalább öt munkanappal korábban tájékoztatja a munkáltatót.
 

@@ -4,7 +4,7 @@
 
 E törvény
 
-a) a határozott idejű vagy munkaerő-kölcsönzés céljából létesített munkaviszonyban álló munkavállalók munkahelyi biztonságának és egészségének javítását elősegítő intézkedések kiegészítéséről szóló, 1991. június 25-i 91/383/EGK tanácsi irányelvnek,
+a)
 
 b) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelvnek,
 
@@ -14,7 +14,7 @@ d) a fiatal személyek munkahelyi védelméről szóló, 1994. június 22-i 94/3
 
 e) a szülők és a gondozók vonatkozásában a munka és a magánélet közötti egyensúlyról és a 2010/18/EU tanácsi irányelv hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1158 európai parlamenti és tanácsi irányelvnek,
 
-f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelvnek,
+f)
 
 g) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, 1997. december 15-i 97/81/EK tanácsi irányelvnek,
 
@@ -28,8 +28,10 @@ k) az Európai Közösség munkavállalóinak tájékoztatása és a velük foly
 
 l) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek,
 
-m) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlamenti és tanácsi irányelvnek,
+m)
 
-n) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló, 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek
+n)
+
+o) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.

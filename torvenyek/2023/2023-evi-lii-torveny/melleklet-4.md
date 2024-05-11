@@ -40,7 +40,7 @@ A foglalkoztatotti alapnyilvántartás adatköre
 
 ## 5. idegennyelv-ismerete,
 
-## 6. pedagógus-továbbképzésre vonatkozó adatai,
+## 6. pedagógus-továbbképzésre, valamint a köznevelésért felelős miniszter által előírt képzésre vonatkozó adatai,
 
 ## 7. jogosítvánnyal rendelkezése, ha a munkakör ellátásához szükséges,
 

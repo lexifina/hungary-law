@@ -14,7 +14,7 @@ b) a munkaidőkeret kezdő és befejező időpontjáról, a munkaidő-beosztás,
 
 (5) Az alaki kötöttség megsértésével tett jognyilatkozat – ha e törvény eltérően nem rendelkezik – érvénytelen. Az érvénytelenség jogkövetkezménye nem alkalmazható, ha a jognyilatkozat a felek egyező akaratából teljesedésbe ment.
 
-(6) Egyoldalú jognyilatkozatát a munkáltató az e törvényben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról, és – ha az elévülési időnél rövidebb – annak határidejéről a köznevelési foglalkoztatotti jogviszonyban állót tájékoztatni kell. A határidőről való tájékoztatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
+(6) Egyoldalú jognyilatkozatát a munkáltató az e törvényben és kormányrendeletben meghatározott esetben köteles írásban indokolni, valamint az igény érvényesítésének módjáról, és – ha az elévülési időnél rövidebb – annak határidejéről a köznevelési foglalkoztatotti jogviszonyban állót tájékoztatni kell. A határidőről való tájékoztatás elmulasztása esetén hat hónap elteltével az igény nem érvényesíthető.
 
 (7) A munkáltató köteles a megállapodás írásba foglalásáról gondoskodni és ennek egy példányát a köznevelési foglalkoztatotti jogviszonyban állónak átadni.
 

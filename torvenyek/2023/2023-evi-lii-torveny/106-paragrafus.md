@@ -12,7 +12,7 @@ d) a szoptató anya a szoptatás első hat hónapjában naponta kétszer egy, ik
 
 e) hozzátartozója halálakor két munkanapra,
 
-f) kötelező pedagógus továbbképzés, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
+f) kötelező pedagógus továbbképzés, a köznevelésért felelős miniszter által előírt képzés, továbbá a felek megállapodása szerinti képzés, továbbképzés esetén, a képzésben való részvételhez szükséges időre,
 
 g) bíróság vagy hatóság felhívására, vagy az eljárásban tanúként való személyes részvételhez szükséges időtartamra,
 
@@ -36,9 +36,9 @@ illeti meg.
 
 (6) A távolléti díjat
 
-a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés és céljuttatás,
+a) az esedékessége időpontjában érvényes, a 98. § alapján megállapított havi illetmény, tartós pótlék, ügyeleti, készenléti átalánydíj, egyes köznevelési feladatokért járó megbízási díj, ösztönzési keresetkiegészítés,
 
-b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj
+b) az esedékesség időpontját megelőző utolsó hat hónapra (a továbbiakban: irányadó időszak) kifizetett eseti pótlék, többlettanítási óradíj, készenléti és ügyeleti díj
 
 figyelembevételével kell megállapítani.
 

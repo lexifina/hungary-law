@@ -38,7 +38,7 @@ a) a tankerületi központ szervezeti egységeként működő köznevelési int�
 
 b) a települési, valamint a nemzetiségi önkormányzat által fenntartott köznevelési intézmény igazgatója tekintetében a Magyarország helyi önkormányzatairól szóló vagy a nemzetiségek jogairól szóló törvényben meghatározott személy vagy testület,
 
-c) az a)–b) pontba nem tartozó esetekben köznevelésért felelős miniszter egyetértésével a köznevelési intézmény fenntartója
+c) az a)–b) pontba nem tartozó esetekben – a megbízás tekintetében a köznevelésért felelős miniszter egyetértésével – a köznevelési intézmény fenntartója
 
 gyakorolja.
 

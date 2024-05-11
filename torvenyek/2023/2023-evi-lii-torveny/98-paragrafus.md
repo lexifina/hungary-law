@@ -28,7 +28,7 @@ f) a pedagógus által tanított tantárgyak száma,
 
 g) a pedagógus munkakör munkaerőpiaci szempontból történő betölthetőségének lehetősége.
 
-(3) A munkáltató minden évben köteles a köznevelésért felelős miniszter rendeletében meghatározott szabályok szerint értékelni a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott teljesítményét. Gyakornok esetén a teljesítményértékelést nem kell lefolytatni. A teljesítményértékelést írásba kell foglalni. A munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét az (1) bekezdésben meghatározott illetménysáv keretein belül a 43. §-nak megfelelően határozhatja meg. Ha az illetménysáv alsó és felső határa e törvény felhatalmazása alapján kormányrendeletben került meghatározásra, akkor a munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét – a kormányrendeletben meghatározott illetménysáv alsó határára tekintet nélkül – az (1) bekezdésben meghatározott illetménysáv keretein belül a 43. §-nak megfelelően határozhatja meg.
+(3) A munkáltató minden évben köteles a köznevelésért felelős miniszter rendeletében meghatározott szabályok szerint értékelni a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott teljesítményét. Gyakornok esetén a teljesítményértékelést nem kell lefolytatni. A teljesítményértékelést írásba kell foglalni. A munkáltató a teljesítményértékelés eredményének figyelembevételével a pedagógus havi illetményét az (1) bekezdésben meghatározott illetménysáv – ha az illetménysáv alsó és felső határa e törvény felhatalmazása alapján kormányrendeletben került meghatározásra, akkor a kormányrendeletben meghatározott illetménysáv – keretein belül a 43. §-nak megfelelően határozhatja meg azzal, hogy a havi illetmény a teljesítményértékelés eredménye alapján alacsonyabb összegben nem határozható meg.
 
 (4) Ha a pedagógust, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat a naptári év első napján magasabb fokozatba kell sorolni, erre tekintettel a havi illetményét emelni kell legalább a következő fokozathoz tartozó illetménysáv alsó határát képező összegig.
 
@@ -49,3 +49,5 @@ a) általános teljes napi munkaidő esetén: százhetvennégy órával,
 b) általánostól eltérő teljes napi vagy részmunkaidő esetén: százhetvennégy óra időarányos részével.
 
 (8) Az egyházi és magán fenntartású köznevelési intézmény – a (2) bekezdésben foglaltaktól eltérően – a pedagógus havi illetményét az adott illetménysáv felső határánál magasabb összegben is megállapíthatja.
+
+(9) Ha a köznevelési foglalkoztatotti jogviszony részmunkaidőben történő foglalkoztatásra jön létre, akkor az egyébként járó havi illetményt arányosan csökkenteni kell (részmunkaidő).
