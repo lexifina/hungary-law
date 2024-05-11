@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-205-00-00
 | 2023-07-22 | 2023. évi LX. törvény | 2012-205-00-00.51 |
 | 2023-12-30 | 2023. évi XCI. törvény | 2012-205-00-00.53 |
 | 2024-01-01 | 2023. évi LIII. törvény | 2012-205-00-00.49 |
+| 2024-05-11 | 2024. évi XXVIII. törvény | 2012-205-00-00.54 |
