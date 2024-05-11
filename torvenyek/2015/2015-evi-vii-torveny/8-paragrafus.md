@@ -1,3 +1,3 @@
 ## 6. Módosuló rendelkezések
 
-8–9. §
+### 8. §
