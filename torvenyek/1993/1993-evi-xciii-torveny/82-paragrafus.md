@@ -32,7 +32,7 @@ k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technol�
 
 (4) A munkavédelmi hatóság a munkavédelmi bírságot telephelyenként szabja ki, amennyiben az azonos időben lefolytatott eljárás során megállapítást nyer, hogy az (1) bekezdésben leírt veszélyeztetést ugyanazon jogszabályi rendelkezést megsértve a munkáltató több telephelyén valósítja meg.
 
-(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró felügyelő javaslata alapján a munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a munkavédelmi bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett mérlegeli
+(5) A munkavédelmi bírságot a súlyos veszélyeztetést feltáró munkavédelmi hatóság szabja ki. A munkavédelmi hatóság a munkavédelmi bírság összegének megállapításánál a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett mérlegeli
 
 a) a megsértett jogszabályi előírások számát,
 

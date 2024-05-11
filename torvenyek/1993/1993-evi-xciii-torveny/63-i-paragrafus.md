@@ -1,1 +1,1 @@
-### 63/I. §
+63/I. § A munkavédelmi bírság mértékéről és a kiszabására vonatkozó részletes szabályokról, valamint a munkabiztonsági szaktevékenység végzésére jogosult személyek nyilvántartásának és továbbképzésének szabályairól szóló kormányrendeletben meghatározott Munkavédelmi Szakemberek Adatbázisával kapcsolatban az elektronikus ügyintézés kötelező.
