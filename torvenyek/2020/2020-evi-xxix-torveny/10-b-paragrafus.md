@@ -1,0 +1,1 @@
+10/B. § A Beruházás esetén a Magyar Kártya kiadására és meghosszabbítására irányuló kérelem a 2016. évi XXIV. törvény szerinti Fővállalkozó vagy Alvállalkozó útján is előterjeszthető a Btátv. 168. §-ában foglaltaknak megfelelően.
