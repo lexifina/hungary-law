@@ -42,6 +42,8 @@ l) a munkavállalók szolgáltatások nyújtása keretében történő kiküldet
 
 m) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról szóló, 2018. június 28-i (EU) 2018/957 európai parlamenti és tanácsi irányelvnek
 
+n) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
 
 (3) A 40. § a) pontja a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
