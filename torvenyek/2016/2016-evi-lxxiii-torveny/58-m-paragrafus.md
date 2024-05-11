@@ -1,0 +1,1 @@
+58/M. § E törvénynek az egyes külügyi tárgyú törvények módosításáról szóló 2024. évi XXIV. törvénnyel (a továbbiakban: Módtv8.) megállapított rendelkezéseit – az 58. § (23)–(24) bekezdése kivételével – a Módtv8. hatálybalépését megelőzően létrejött jogviszonyokra is alkalmazni kell.

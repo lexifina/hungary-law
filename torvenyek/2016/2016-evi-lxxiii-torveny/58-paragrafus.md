@@ -2,7 +2,7 @@
 
 ## 20. Hatályba léptető és átmeneti rendelkezések
 
-58. § (1) E törvény – a (2) bekezdésben foglal kivétellel – 2016. augusztus 1-jén lép hatályba.
+58. § (1) E törvény – a (2) bekezdésben foglalt kivétellel – 2016. augusztus 1-jén lép hatályba.
 
 (2) Az 1. § (1) bekezdés a) pontja és (2) bekezdése, a 23–26. §, a 18. alcím, a 58. § (4) bekezdése, a 59. § (2) bekezdés e)–f) és k) pontja, a 59. § (3) bekezdés c)–d) és f) pontja, a 63. §, a 64. § a) pont aa) alpontja, ac)–ae) alpontja és b) pontja, valamint az 1. és a 2. melléklet 2017. augusztus 1-jén lép hatályba.
 
@@ -36,7 +36,7 @@
 
 (15) A foglalkoztatott jogviszonya a kormányzati igazgatásról szóló törvény szerinti felmentési okokon kívül azonnali hatállyal felmentéssel megszüntethető az e törvény szerinti hivatali érdek megsértése esetén.
 
-(16) A (15) bekezdés szerinti megszüntetés esetén felmentési idő a foglalkoztatottat nem illeti meg. A felmentésre egyebekben a kormányzati igazgatásról szóló törvény rendelkezései alkalmazandók.
+(16) A (15) bekezdés szerinti megszüntetés esetén felmentési idő és végkielégítés a foglalkoztatottat nem illeti meg.
 
 (17) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott jogviszonyának közös megegyezéssel történő megszüntetése esetén a felek legfeljebb a foglalkoztatottat a megállapodás megkötésének időpontjában a jogviszonyának felmentéssel, illetve felmondással történő megszüntetés esetén őt megillető végkielégítés összegével megegyező összegű egyszeri kifizetésben állapodhatnak meg.
 
@@ -46,6 +46,30 @@
 
 (20) A külpolitikáért felelős miniszter által vezetett minisztériummal jogviszonyban álló, a 10. § (1) bekezdése szerinti pályázat benyújtására jogosult foglalkoztatott esetében a kormányzati igazgatásról szóló törvény munkarendre vonatkozó előírásai akként alkalmazandók, hogy heti munkaidő-keretben kötetlen munkarend is megállapítható.
 
-(21) A kormányzati igazgatásról szóló törvény 86. § (7)–(7b) bekezdésétől eltérően a kormányzati szolgálati jogviszony megszűnését vagy megszüntetését követően a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
+(21) A kormányzati igazgatásról szóló törvény 86. § (7)–(7b) bekezdésétől eltérően a kormányzati szolgálati vagy ösztöndíjas jogviszony megszűnését vagy megszüntetését követően a külpolitikáért felelős miniszter által vezetett minisztériummal létesített új kormányzati vagy politikai szolgálati jogviszonynál próbaidő kiköthető.
 
 (22) A felkészülés, valamint a tartós külszolgálat idejére, az érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkező, tartós külszolgálatra való kihelyezésre jelölt személy a 36. § (4)–(4b) bekezdése, illetve a 36. § (8a) bekezdés a) pontjában foglaltak szerint a 36. § (4) bekezdés a) pontja szerinti vezényléssel a külpolitikáért felelős miniszter által vezetett minisztériumhoz vezényelhető.
+
+(23) A kormányzati igazgatásról szóló törvény 166. § (2) bekezdésében foglaltaktól eltérően a fegyelmi vétséget elkövető tartós külszolgálatra kihelyezettel szemben kiszabható fegyelmi büntetések – a kihelyező szervhez vezényelt hivatásos állomány tagja, valamint az e) pont esetében szakdiplomata kivételével – :
+
+a) megrovás,
+
+b) a devizailletmény vagy a 23. § (1) bekezdése szerinti díjazás legfeljebb 50%-kal történő csökkentése,
+
+c) más, alacsonyabb munkaköri osztályba tartozó külszolgálati munkakörbe helyezés,
+
+d) tartós külszolgálat megszüntetése,
+
+e) hivatalvesztés.
+
+(24) A tartós külszolgálatra kihelyezettel, illetve felkészülővel szembeni fegyelmi eljárás során a kormányzati igazgatásról szóló törvény alapján kiadott kormányrendelet szerinti részletszabályok az e törvény alapján kiadott, a fegyelmi eljárás határidő számításra és a meghallgatásra vonatkozó általános szabályaitól eltérő részletszabályait megállapító kormányrendelet szerinti részletszabályokkal összhangban alkalmazandók.
+
+(25) A tartós külszolgálati kihelyezést megelőző felkészülés során a képzés költségei a kihelyező vezető egyoldalú döntése alapján a kormánytisztviselővel megtéríttethetőek, ha a kormánytisztviselő neki felróható okból a képzést elmulasztja vagy nem teljesíti azzal, hogy a képzési költségek visszakövetelésére a kormányzati igazgatásról szóló törvénynek a jogalap nélkül kifizetett illetmény visszakövetelésére vonatkozó szabályai alkalmazandók.
+
+(26) A tartós külszolgálat megszűnéséről vagy megszüntetéséről rendelkező irat a címzettnek a kormányzati igazgatásról szóló törvény 72. § (2) bekezdése szerinti tárhelyére történő megküldésről szóló értesítési igazolásban foglalt időpontban kézbesítettnek minősül.
+
+(27) A tartós külszolgálattal, ide értve különösen annak megszűnésével vagy megszüntetésével kapcsolatos követelés összegének meghatározásakor a kormányzati igazgatásról szóló törvény 116. § alkalmazásában a 11. § (4) bekezdése szerinti illetményt kell alapul venni.
+
+(28) A tartós külszolgálattal, ide értve különösen annak megszűnésével vagy megszüntetésével kapcsolatos igény érvényesítése során a kormányzati igazgatásról szóló törvény 116. § (3)–(5) bekezdésétől eltérően legalább két-, legfeljebb tizenkét havi, a (27) bekezdés szerinti illetménynek megfelelő átalánykártérítést kell fizetni.
+
+(29) A kormánytisztviselő tartós külszolgálatát a kihelyező vezető legfeljebb a 17. § (1) bekezdése szerinti időtartamig tarthatja fenn azzal, hogy a tartós külszolgálat a 20. § (3) bekezdésében foglaltak szerint annak időtartama alatt a kihelyező vezető részéről bármikor megszüntethető.

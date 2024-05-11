@@ -22,7 +22,7 @@ h) társadalombiztosítási azonosító jele;
 
 i) e-mail-címe;
 
-j) legmagasabb iskolai végzettsége (több végzettség esetén valamennyi);
+j) iskolai végzettsége (több végzettség esetén valamennyi);
 
 k) szakképzettsége;
 

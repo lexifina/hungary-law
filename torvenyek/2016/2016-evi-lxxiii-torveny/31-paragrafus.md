@@ -12,7 +12,7 @@ pótszabadságra jogosult.
 
 (1a) Az a tartós külszolgálatra kihelyezett, aki vezetői pótszabadságra és a kormányzati igazgatásról szóló törvény 155. § (1) és (2) bekezdése szerinti pótszabadságra nem jogosult, az ötvenedik életévének betöltésétől évente 3 munkanap pótszabadságot is igénybe vehet.
 
-(2) A kormányzati igazgatásról szóló törvényben foglaltaktól eltérően a kihelyező szerve belső szabályzatában meghatározott tartós légszennyezettségű állomáshelyenként megállapítva az oda kihelyezettek részére a tárgyévben időarányosan megállapított 5 nap rekreációs szabadság jár. A rekreációs szabadság a tárgyév utolsó napjáig adható ki és a kihelyezett eddig az időpontig veheti igénybe.
+(2) A kormányzati igazgatásról szóló törvényben foglaltaktól eltérően a kihelyező szerve belső szabályzatában meghatározott tartós légszennyezettségű állomáshelyenként megállapítva az oda kihelyezettek részére a tárgyévben időarányosan megállapított 5 nap rekreációs szabadság járhat. A rekreációs szabadság a tárgyév utolsó napjáig adható ki és a kihelyezett eddig az időpontig veheti igénybe.
 
 (3) A felkészülés és a tartós külszolgálat időtartamára járó alap- és pótszabadságot a felkészülési állományban lévőknek és a kihelyezettnek a felkészülése és a tartós külszolgálata időtartama alatt igénybe kell vennie. A szabadság kiadása a kormányzati igazgatásról szóló törvény 129. §-a alapján történik. A kihelyezés évében a kormányzati igazgatásról szóló törvény alapján meghatározott és fel nem használt szabadságnapok a tartós külszolgálatra való kihelyezést követően a kormányzati igazgatásról szóló törvény 129. §-a alapján vehetők igénybe. A kihelyező szerv szakdiplomaták esetében csak a tartós külszolgálat időtartama alatt keletkező, időarányos szabadságot adja ki.
 
@@ -45,3 +45,5 @@ c) a külszolgálatra történő kihelyezés évében a b) pont szerinti mérté
 (12) Nem minősül rendkívüli munkavégzésnek, ha a kihelyezett fogadásokon, rendezvényeken, konferenciákon, kulturális eseményeken vesz részt, illetve biztonsági szolgálatot lát el.
 
 (13) A kihelyezett fizetés nélküli szabadságra vonatkozó igényét a kihelyező vezető bírálja el. A kihelyezettet a fizetés nélküli szabadság idejére a 23–26. § szerinti járandóságok nem illetik meg.
+
+(14) Ha a 11. § vagy a 21. § szerinti felkészülési állományban lévő kormánytisztviselő a kormányzati igazgatásról szóló törvény 129. § (2a) bekezdése alapján a szabadságát nem tudja kivenni, akkor az akadályoztatás megszűnését követően – a kihelyező vezető hivatali érdekből történő eltérő döntése hiányában kizárólag a felkészülési állományban veheti ki a felhalmozódott szabadságát.

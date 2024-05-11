@@ -4,7 +4,7 @@
 
 a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szakminisztérium közötti kapcsolattartás,
 
-b) a tartós külszolgálathoz kapcsolódó felkészítés, valamint
+b) a tartós külszolgálathoz kapcsolódó felkészítés, illetve a tartós külszolgálatra kihelyezett kormánytisztviselőkre vonatkozó fegyelmi eljárás általánostól eltérő részletszabályai, valamint
 
 c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának, igazgatásának és nyilvántartásának, valamint a költségvetési támogatásoknak, valamint a külképviseletek tekintetében az érvényesítésnek, a pénzügyi ellenjegyzésnek, továbbá az utalványozásnak az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő,
 

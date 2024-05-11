@@ -6,8 +6,10 @@ b) a diplomáciai, a kulturális diplomáciai és hivatásos konzuli személyzet
 
 c) a szakdiplomáciai személyzet tagjai,
 
-d) az adminisztratív és technikai személyzet tagja,
+d) a regionális gazdasági igazgató,
 
-e) a külképviselet által foglalkoztatott munkavállaló, valamint
+e) az adminisztratív és technikai személyzet tagjai,
 
-f) a külképviselet által foglalkoztatott házastárs.
+f) a külképviselet által foglalkoztatott munkavállaló, valamint
+
+g) a külképviselet által foglalkoztatott házastárs.

@@ -6,9 +6,15 @@ b) a kihelyező okiratban meghatározott feltétel bekövetkeztével,
 
 c) a kormányzati szolgálati jogviszony megszűnésével vagy 90 napot meghaladó szünetelésével,
 
-d) a 33. § (3) bekezdésében meghatározott esetben, illetve
+d) a 33. § (3) bekezdésében meghatározott esetben,
 
 e) a kihelyezett halálával.
+
+f) ha a külszolgálati álláshely a külképviselettől elvonásra kerül,
+
+g) az 58. § (23) bekezdés d) pontjában meghatározott fegyelmi büntetés esetén, valamint
+
+h) a 19. § (1) bekezdése, továbbá a 22. § (8) bekezdése szerinti esetben.
 
 (2) A kihelyező vezető lehetőség szerint a kihelyezés (1) bekezdés a) pontja szerinti megszűnésének pontos dátumáról legkésőbb az azt megelőző két hónappal tájékoztatja a kihelyezettet.
 

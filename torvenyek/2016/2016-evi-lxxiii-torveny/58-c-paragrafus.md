@@ -12,7 +12,7 @@ azon kormánytisztviselő, aki felett a kormányzati igazgatásról szóló tör
 
 (3) E törvény szerinti azon kormánytisztviselőt, aki felett a kormányzati igazgatásról szóló törvény 81. § (1) bekezdése szerint a minisztérium hivatali szervezetének vezetője gyakorolja a munkáltatói jogokat,
 
-a) az e törvény hatálya alá tartozó másik kihelyező szervnél történő tartós külszolgálati kihelyezés érdekében történő külszolgálati kirendelés esetén,
+a) az e törvény hatálya alá tartozó másik kihelyező szervnél történő tartós külszolgálati kihelyezés érdekében történő külszolgálati kirendelés vagy fizetés nélküli szabadság esetén,
 
 b) a kormányzati igazgatásról szóló törvény 103. §-a szerinti vagy ezzel egyenértékű tevékenység esetén,
 

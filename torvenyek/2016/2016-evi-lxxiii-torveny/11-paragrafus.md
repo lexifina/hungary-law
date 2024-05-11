@@ -16,11 +16,11 @@ a) a tartós külszolgálati munkakör betöltésére szóló pályázati dönt�
 
 b) ha a kormánytisztviselő a tartós külszolgálati munkakör betöltését nem vállalja, a kihelyező vezetőnek címzett ez irányú nyilatkozata
 
-napjával e törvény erejénél fogva a kihelyező szervnél megszűnik, azzal, hogy a kormánytisztviselő a kormányzati igazgatásról szóló törvény szerinti besorolási illetménye helyett a (4) bekezdés szerinti illetmény alapulvételével jogosult a kormányzati igazgatásról szóló törvény szerinti végkielégítésre, illetve felmentési időre.
+napjával e törvény erejénél fogva a kihelyező szervnél megszűnik, azzal, hogy a kormánytisztviselő a kormányzati igazgatásról szóló törvény szerinti besorolási illetménye helyett a (4) bekezdés szerinti illetmény alapulvételével jogosult a kormányzati igazgatásról szóló törvény szerinti végkielégítésnek, illetve felmentési időnek a felére.
 
 (4) A (2) bekezdés szerinti felkészülés ideje alatt a felkészülő kormányzati igazgatásról szóló törvény szerinti illetménye helyett havonta
 
-a) az 1. melléklet szerinti technikai munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 60%-ával,
+a) az 1. melléklet szerinti technikai munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 60%-ával, azzal, hogy az illetmény összegének a garantált bérminimum összegét el kell érnie,
 
 b) az 1. melléklet szerinti adminisztratív munkaköri osztályba tartozó tartós külszolgálati munkakörbe történő felkészülés esetén a 23. § (7) bekezdése szerinti deviza-illetményalap összegének 90%-ával,
 
@@ -57,3 +57,5 @@ pótszabadságra jogosult.
 (6) A diplomata irányítását a külképviselet-vezető útján – a szakdiplomata tekintetében a szakminiszter feladat- és hatáskörébe tartozó kérdésben a szakminiszterrel egyeztetve – a kihelyező szerv vezetője végzi.
 
 (7) A diplomata, valamint az adminisztratív és technikai személyzet (1) bekezdés szerinti felkészítésének és szakmai irányításának, valamint a szakdiplomata és a szakdiplomata jelölésére jogosult, feladat- és hatáskörében érintett szakminiszter által vezetett szakminisztérium közötti kapcsolattartás részletes szabályait a Kormány rendeletben szabályozza.
+
+(8) A kihelyező vezető a külföldi felkészülő állományba helyezett kormánytisztviselő számára kijelölheti a kihelyező szerv azon belföldi szervezeti egységét, ahol a külföldi felkészülőnek a tartós külszolgálati kihelyezést megelőző felkészülési kötelezettségét a kihelyező szerv alapfeladatai ellátásában történő közreműködés mellett teljesítenie kell.

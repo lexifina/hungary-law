@@ -22,17 +22,19 @@ cb) az a) és b) pontokhoz kapcsolódó költségtérítés-kiegészítésekből
 
 (4) A (2) bekezdés a) és b) pontja, valamint c) pont ca) alpontja szerinti költségtérítéshez kapcsolódó költségtérítés-alapok összegét évente a központi költségvetésről szóló törvény állapítja meg úgy, hogy az nem lehet alacsonyabb, mint az előző évi költségtérítés-alap.
 
-(5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
+(5) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat állomáshelyén vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó településen tartózkodó, a 2. § 8. pontja szerinti hozzátartozónak minősülő minden gyermek után
 
-a) a (2) bekezdés a) pontja szerinti költségtérítés 10%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 15%-ának megfelelő költségtérítés-kiegészítés,
+a) a (2) bekezdés a) pontja szerinti költségtérítés 10%-ának, fogyatékossággal élő vagy sajátos nevelési igényű gyermek esetén 15%-ának megfelelő költségtérítés-kiegészítés,
 
-b) a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékkal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
+b) a (2) bekezdés b) pontja szerinti költségtérítés 100%-ának, fogyatékossággal élő vagy sajátos nevelési igényű gyermek esetén 150%-ának megfelelő költségtérítés-kiegészítés, valamint
 
 c) a gyermek születésétől a középfokú tanulmányainak befejezéséig, de legfeljebb huszonegyedik életévének betöltéséig gyermeknevelési költségtérítés
 
 illeti meg, ideértve azt az esetet is, ha a gyermek Magyarországon folytatja tanulmányait, de életvitelszerűen Magyarországgal szomszédos országban lévő állomáshelyen tartózkodik.
 
 (5a) A kihelyezettet az (5) bekezdés c) pontja szerinti gyermeknevelési költségtérítés 110%-ának megfelelő gyermeknevelési költségtérítés illeti meg, ha gyermekét egyedül neveli.
+
+(5b) Közös szülői felügyeletről rendelkező bírósági döntés esetén a kihelyezettet az (5) bekezdés a)–c) pontja szerinti költségtérítés a gyermeknek az állomáshelyen való 2. § 5a. pontja szerinti tartózkodásával arányos összegben illeti meg.
 
 (6) A kihelyezettet a kihelyezettel közös háztartásban, életvitelszerűen a tartós külszolgálat helyén tartózkodó nagykorú, tartósan beteg vagy súlyosan fogyatékos gyermeke után, aki a családok támogatásáról szóló törvény alapján saját jogán emelt összegű családi pótlékra jogosult, vagy a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény alapján fogyatékossági támogatásban vagy a vakok személyi járadékában, vagy a rokkantsági járadékról szóló 83/1987. (XII. 27.) MT rendelet alapján rokkantsági járadékban részesül
 
@@ -64,9 +66,9 @@ illeti meg.
 
 (17) Ha a kihelyezett házastársa a fogadó államban az jövedelemszerző tevékenységet folytat és a vele közös háztartásban élő gyermeke, gyermekei után pótlékot, költségtérítést, iskoláztatási támogatást kap vagy fogyatékossági támogatásban, illetve vakok személyi járadékában részesül, az (5)–(6) bekezdés szerinti költségtérítésre nem jogosult.
 
-(18) Ha a kihelyezett végleges berendelés esetén az állomáshelyet a berendelést megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
+(18) Ha a kihelyezett a tartós külszolgálata megszűnése vagy megszüntetése esetén az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést a tartós külszolgálata megszűnését vagy megszüntetését megelőzően bármilyen távolléti jogcímen elhagyta, azaz az állomáshelyen történő életvitelszerű tartózkodása megszűnt, akkor költségtérítés nem jár részére.
 
-(19) Ha a kihelyezési okiraton szereplő hozzátartozók az állomáshelyet a tartós külszolgálat befejező időpontja előtt elhagyták, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozók a kihelyezett ideiglenes berendelése alatt hagyták el az állomáshelyet és a végleges berendelés előtt az állomáshelyre nem térnek vissza, a kihelyezett a végleges berendelésének napjáig jogosult a hozzátartozók utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozókkal együtt hagyja el, de a hozzátartozók nem térnek vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részükről befejeződött, a hozzátartozók utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
+(19) Ha a kihelyezési okiraton szereplő hozzátartozó az állomáshelyet vagy – kizárólag – lakhatási célból az annak közigazgatási, illetve agglomerációs körzetébe tartozó települést, ahol lakhatási célból tartózkodik a tartós külszolgálat befejező időpontja előtt elhagyta, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig számfejthető. Ha a hozzátartozó a kihelyezett ideiglenes berendelése alatt hagyta el az állomáshelyet és a tartós külszolgálat megszűnése vagy megszüntetése előtt az állomáshelyre nem tér vissza, a kihelyezett a tartós külszolgálata megszűnésének vagy megszüntetésének napjáig jogosult a hozzátartozó utáni járandóságra. Amennyiben a kihelyezett az állomáshelyet szabadság miatt a hozzátartozójával együtt hagyja el, de a hozzátartozó nem tér vissza az állomáshelyre, és az állomáshelyen történő életvitelszerű tartózkodás részéről befejeződött, a hozzátartozó utáni járandóság az állomáshelyen életvitelszerű tartózkodás utolsó napjáig jár.
 
 (20) A kulturális diplomáciáért és a külföldi magyar kulturális intézetekért felelős miniszter döntése alapján a kihelyező szerv az intézetigazgató részére lakhatási költségtérítést biztosíthat.
 
