@@ -7,15 +7,3 @@
 (4) A 107. § (2) bekezdése és a 108. § (2) bekezdése az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5) A 108. § (1) bekezdése és a 122. § a 767/2008/EK, az (EU) 2017/2226, az (EU) 2018/1240, az (EU) 2018/1860,az (EU) 2018/1861 és az (EU) 2019/817 rendeletnek az egyéb uniós információs rendszerekhez az Európai Utasinformációs és Engedélyezési Rendszer céljából való hozzáférésre vonatkozó feltételek megállapítása tekintetében történő módosításáról szóló, 2021. július 7-i (EU) 2021/1152 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

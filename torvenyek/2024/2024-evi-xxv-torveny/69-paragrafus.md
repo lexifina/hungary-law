@@ -6,7 +6,7 @@ b) 206. § (2) bekezdés záró szövegrészében a „kapcsolatos rendelkezése
 
 c) 214. § (5) bekezdés nyitó szövegrészében a „politikai tanácsadóra nem kell alkalmazni” szövegrész helyébe a „politikai tanácsadóra – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni” szöveg,
 
-d) 239. § (2) bekezdésében a „miniszter, a” szövegrész helyébe a „miniszter, a Nemzeti Fejlesztési Központ helyettes államtitkára lemondása esetén az európai uniós források felhasználásáért felelős miniszter, a” szöveg,
+d)
 
 e) 281. § (4) bekezdés 20. pontjában a „kormánytisztviselő képzésére, továbbképzésére” szövegrész helyébe a „kormányzati igazgatási szervnél kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban foglalkoztatott személy képzésére és továbbképzésére (ideértve a kormányzati személyügyi igazgatásra kijelölt szerv által szervezett, a foglalkoztatott által önkéntesen igénybe vehető képzést és továbbképzést is)” szöveg
 

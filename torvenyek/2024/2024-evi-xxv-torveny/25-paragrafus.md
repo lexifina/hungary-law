@@ -1,5 +1,3 @@
-## 7. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
+## 7.
 
-25. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény 8. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A rendőrség a kiadott működési engedélyekről és igazolványokról a kiadásuk alapjául szolgáló, az 5. §-ban és az 5/A. §-ban meghatározott feltételek igazolásához szükséges adatokról, az adatváltozásról, az e törvény szerinti létesítmény- és rendezvényvédelmi ellenőrzési, valamint a tervező-szerelő vagy magánnyomozói tevékenység folytatására jogosultakról, a rendezvény-, illetve létesítménybiztosítási szolgáltatás nyújtását igazoló tanúsítványokról és az annak kiadása alapjául szolgáló feltételek igazolásához szükséges adatokról, a működési engedély és a tanúsítvány visszavonásáról, a vállalkozás tevékenységének megtiltásáról, és az igazolvány visszavonásáról, bevonásáról – a működési engedély és az igazolvány hitelességének, valamint a tevékenység ellenőrzésének céljából – nyilvántartást vezet.”
+### 25. §
