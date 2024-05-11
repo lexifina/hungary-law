@@ -1,0 +1,3 @@
+26/A. § (1) A költségvetési szervnek minősülő egészségügyi szolgáltató irányítója a 4. § (2) bekezdés e) pontjára figyelemmel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9/B. §-a szerinti felügyeleti jogkörének gyakorlása érdekében az Áht. 9. § j) pontja alapján kezelt személyes adatokat az irányítási jogkör gyakorlásához szükséges mértékben az EESZT működtetőjétől is igényelheti, ha igazolja, hogy az adatigénylésre vonatkozó irányítási jogkörhöz kapcsolódó intézkedés másként nem gyakorolható vagy ennek hiányában az intézkedése eredménytelen lenne.
+
+(2) Az (1) bekezdés szerinti személyes adatokat az irányító szerv az intézkedése meghozatalát követő három hónapig, de legfeljebb az igénylést követő egy évig kezeli.
