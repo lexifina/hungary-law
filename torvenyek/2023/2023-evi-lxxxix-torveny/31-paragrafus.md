@@ -20,4 +20,4 @@ fb) a célja és a cél szerinti besorolása nemzetközi tevékenység.
 
 (3) Az előminősített szervezet részére a miniszter minősítő levelet ad át.
 
-(4) Az előminősített szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy, vagy nem felel meg a 33. §-ban foglalt feltételeknek.
+(4) Az előminősített szervezet vezető tisztségviselője haladéktalanul köteles bejelenteni a miniszternek, ha a szervezet nemzetközi humanitárius segítségnyújtási tevékenységével felhagy, vagy nem felel meg az (1) bekezdésben foglalt feltételeknek.

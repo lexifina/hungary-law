@@ -12,7 +12,7 @@ c) regionális, helyi vagy kisebbségi önkormányzatok.
 
 (3) Nem lehet támogatás, illetve adomány kedvezményezettje olyan személy, csoport vagy egyéb szervezet, amely kapcsolatai, tevékenysége vagy kommunikációja révén a terrorizmussal, háborús és emberiesség elleni bűncselekményekkel, embercsempészettel, pénzmosással, a migráció tiltott támogatásával összefüggésbe hozható, továbbá amelyre Magyarország nemzetközi jogi kötelezettsége alapján kihirdetett, illetve az Európai Unió által elfogadott aktusokban elrendelt pénzeszközök vagy gazdasági források zárolására vonatkozó kötelezettség, illetve gazdasági, kereskedelmi vagy pénzügyi tilalom vonatkozik.
 
-(4) A kedvezményezett a támogatás odaítélését megelőzően nyilatkozik, hogy nem esik a (3) bekezdés hatálya alá, és a támogatás, valamint az adomány nem szolgálja a (3) bekezdésben foglalt tilalom alá eső célt.
+(4) A kedvezményezett a támogatás és az adomány odaítélését megelőzően nyilatkozik, hogy nem esik a (3) bekezdés hatálya alá, és a támogatás, valamint az adomány nem szolgálja a (3) bekezdésben foglalt tilalom alá eső célt.
 
 (5) A kedvezményezett
 

@@ -26,7 +26,7 @@
 
 13. stabilitást erősítő tevékenység: a veszélyeztetett közösségek helyben maradását elősegítő, az életfeltételek helyreállítását, javítását, a szabad vallásgyakorlás védelmét, valamint a szellemi és az épített kulturális örökség megőrzését szolgáló programokhoz és projektekhez való hozzájárulás;
 
-14. támogatás: ellenérték és visszatérítési kötelezettség nélkül, elszámolási kötelezettség mellett, jogszabály vagy egyedi döntés alapján, pályázati úton vagy pályázati rendszeren kívül a kedvezményezett részére nyújtott pénzbeli vagy nem pénzbeli, cél szerinti juttatás;
+14. támogatás: ellenérték és visszatérítési kötelezettség nélkül, elszámolási kötelezettséggel, jogszabály vagy egyedi döntés alapján, pályázati úton vagy pályázati rendszeren kívül a kedvezményezett részére nyújtott pénzbeli vagy nem pénzbeli, cél szerinti juttatás;
 
 15. technikai segítségnyújtás: a Program keretében nyújtott olyan nem pénzbeli juttatás, amely különösen kutatási, oktatási vagy szakképzési tevékenység, szakmai tanácsadás és szakértői együttműködés, továbbá az információs és együttműködési tevékenység támogatása, a Program kommunikációjával, a széleskörű nyilvánosság megteremtésével kapcsolatos feladatok támogatása, a támogatott tevékenységek végrehajtásával, értékelésével, auditálásával, ellenőrzésével és nyomon követésével kapcsolatos feladatokra nyújtott juttatás;
 

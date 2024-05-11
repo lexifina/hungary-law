@@ -2,12 +2,14 @@
 
 (2) E törvény rendelkezéseit kell alkalmazni továbbá
 
-a) az államigazgatási szervek,
+a) az állami szervek
 
-b) az államháztartás központi alrendszerébe sorolt köztestületek,
+b) a központi költségvetési szervek,
 
-c) a köztestületek által irányított költségvetési szervek, valamint
+c) az államháztartás központi alrendszerébe sorolt köztestületek,
 
-d) egyéb közjogi szervezetek
+d) a köztestületek által irányított költségvetési szervek, valamint
+
+e) egyéb közjogi szervezetek
 
 által folytatott nemzetközi fejlesztési együttműködésre, nemzetközi humanitárius segítségnyújtásra és stabilitást erősítő tevékenységre.
