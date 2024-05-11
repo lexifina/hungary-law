@@ -1,1 +1,3 @@
-1. § Hatályát veszti az energiahatékonyságról szóló 2015. évi LVII. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 671/2021. (XII. 2.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
