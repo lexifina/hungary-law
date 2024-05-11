@@ -1,7 +1,3 @@
 ## 19. A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény módosítása
 
-79. § A Nemzeti Egészségügyi és Orvosképzésért Alapítványról, a Nemzeti Egészségügyi és Orvosképzésért Alapítvány és a Semmelweis Egyetem részére történő vagyonjuttatásról szóló 2021. évi XX. törvény a következő 3/A. §-sal egészül ki:
-
-„3/A. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján – az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében a Budapest belterület 4082/73 helyrajzi számú, az állam és a Magyar Tudományos Akadémia osztatlan közös tulajdonában álló ingatlan 10008/113176-od tulajdoni hányadát ingyenesen, nyilvántartási értéken történő átvezetéssel Alapítvány tulajdonába kell adni.
-
-(2) Az (1) bekezdés szerinti ingatlanhányad tulajdonjogát az Alapítvány a terhekkel együtt szerzi meg.”
+### 79. §

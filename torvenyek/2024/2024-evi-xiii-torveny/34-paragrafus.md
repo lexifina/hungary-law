@@ -1,3 +1,1 @@
-34. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 43. §-a helyébe a következő rendelkezés lép:
-
-„43. § Az államtudományi képzési terület vonatkozásában az alap-, osztatlan és mesterképzési szakokat, az oklevéllel tanúsított végzettséget, szakképzettséget és annak a Magyar Képesítési Keretrendszer és az Európai Képesítési Keretrendszer szerinti besorolását, az államtudományi képzési terület, valamint annak részterületei közös szakmai kompetenciáit, továbbá a szakok képzési és kimeneti követelményeit a Kormány rendeletben szabályozza.”
+### 34. §

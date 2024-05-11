@@ -14,7 +14,7 @@
 
 7.
 
-8. 27. § (3) bekezdésében az „a nemzeti felsőoktatásról szóló törvény (a továbbiakban: Nftv.)” szövegrész helyébe az „az Nftv.” szöveg,
+8.
 
 9.
 

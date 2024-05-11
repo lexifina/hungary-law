@@ -1,5 +1,1 @@
-## „c) a felnőttképzési tevékenységét – a belső képzés és a jogszabály alapján szervezett oktatás és képzés kivételével – az általa kidolgozott, 12. § szerinti képzési programnak megfelelően kell folytatnia, amelyet előzetes minősítés nélkül a felnőttképzés adatszolgáltatási rendszerébe fel kell töltenie.”
-
-58. § A felnőttképzésről szóló 2013. évi LXXVII. törvény 13/C. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) A felnőttképző a felnőttképzésért felelős miniszter rendeletében meghatározott tartalommal és feltételek alapján önálló végzettséget és szakképesítést nem igazoló mikrotanúsítványt állíthat ki, a FAR-rendszeren keresztül, a mikrotanúsítvány kiadásának alapjául szolgáló képzési tartalom oktatására a szakképzésről szóló törvény szerinti szakképzési tankönyv felhasználásával kerülhet sor oly módon, hogy a felnőttképző a szakképzési tankönyv teljes ismeretanyagának megfelelő elsajátításáról dokumentáltan meggyőződik. Amennyiben a felnőttképző mikrotanúsítványt kíván kiállítani, a kiállítás alapjául szolgáló képzésről a 15. § szerinti adatszolgáltatást kell teljesítenie a FAR-rendszerben. A felnőttképző által kiállításra kerülő mikrotanúsítványra a (3) és (4) bekezdés rendelkezéseit nem lehet alkalmazni.”
+### 58. §
