@@ -2,7 +2,7 @@
 
 5. § (1)[^12] A rendszerirányító az igénylési határnapot követő ötödik munkanapig gondoskodik az igénylő számára az igénylési vagy a késedelmi igénylési határnapig a 4. § (2) bekezdése vagy (7) bekezdése szerinti iratokkal igazolt tárgyhavi, késedelmi vagy önellenőrzés keretében javított támogatási igénybejelentésben megjelölt támogatási összeg (a továbbiakban együtt: igazolt támogatási igények) kifizetéséről a Vet. 147. § (1) bekezdés c) pontjában meghatározott célra létrehozott pénzforgalmi számla (a továbbiakban: elkülönített számla) terhére a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet szerint.
 
-(2)[^13] A rendszerirányító a 3/A. § (1) bekezdése szerinti távhőszolgáltatónak a kifizetést a Hivatal 3/A. § (2) bekezdése szerinti értesítésének kézhezvételét követően, a 3/A. §-ban foglalt eltérésekkel teljesíti.
+(2)[^13] A rendszerirányító a 3/A. § (1) bekezdése szerinti távhőszolgáltatónak a kifizetést a Hivatal 3/A. § (3) bekezdése szerinti értesítésének kézhezvételét követően, a 3/A. §-ban foglalt eltérésekkel teljesíti.
 
 (2a)[^14] A rendszerirányító a tárgyhó során az (1) és (2) bekezdéstől eltérő időpontban kifizetést kizárólag a Hivatal ellenőrzése során hozott döntése alapján teljesíthet.
 
@@ -31,7 +31,7 @@ b)[^18] a részbeni kifizetésre az (5) vagy (6) bekezdés szerint alkalmazott a
 (11)[^21] A negatív előjelű támogatási igénybejelentés alapján az igénylőnek nem keletkezik a rendszerirányító irányába befizetési kötelezettsége, de köteles a negatív előjelű támogatási igény bejelentésére a tárgyhóra vonatkozó igénylési határnapig.
 
 [^12]: Az 5. § (1) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (1) bekezdésével megállapított, az 59/2012. (X. 31.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
-[^13]: Az 5. § (2) bekezdése az 1/2024. (I. 11.) EM rendelet 8. §-ával megállapított szöveg.
+[^13]: Az 5. § (2) bekezdése az 1/2024. (I. 11.) EM rendelet 8. §-ával megállapított, a 8/2024. (V. 10.) EM rendelet 3. §-a szerint módosított szöveg.
 [^14]: Az 5. § (2a) bekezdését az 1/2024. (I. 11.) EM rendelet 8. §-a iktatta be.
 [^15]: Az 5. § (5) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (6) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
