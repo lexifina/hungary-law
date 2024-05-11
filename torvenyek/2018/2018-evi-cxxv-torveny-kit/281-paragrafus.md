@@ -84,7 +84,7 @@ c) az állásportálokkal való együttműködési megállapodás tartalmi eleme
 
 19. a teljesítményértékelésre vonatkozó részletes szabályokat;
 
-20. a kormánytisztviselő képzésére, továbbképzésére, átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
+20. a kormányzati igazgatási szervnél kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban vagy munkaviszonyban foglalkoztatott személy képzésére és továbbképzésére (ideértve a kormányzati személyügyi igazgatásra kijelölt szerv által szervezett, a foglalkoztatott által önkéntesen igénybe vehető képzést és továbbképzést is), átképzésére, illetve közigazgatási vezetőképzésére, valamint a továbbképzés ágazati irányítására és felügyeletére vonatkozó szabályokat;
 
 21.
 

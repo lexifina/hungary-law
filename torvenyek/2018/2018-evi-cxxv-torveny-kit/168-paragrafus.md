@@ -18,6 +18,10 @@ f) a sérelemdíj megfizetése ügyében hozott határozat,
 
 g) a fizetési felszólítás
 
+h) a tartós külszolgálat megszűnése és megszüntetése,
+
+i) a tartós külszolgálatra kihelyezés és annak egyoldalú módosítása
+
 tárgyában.
 
 (3) A (2) bekezdésben meghatározottakon túli igény esetén a közszolgálati panaszt az elévülési időn belül lehet előterjeszteni.

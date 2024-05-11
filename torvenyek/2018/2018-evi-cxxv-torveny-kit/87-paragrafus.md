@@ -2,7 +2,7 @@
 
 (1) A kormánytisztviselőnek a kinevezésekor esküt kell tennie a kötelességeinek pontos betartására.
 
-(2) Az eskü letétele a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt, az esküokmány aláírásával történik, amelyet a kormánytisztviselő legkésőbb a kinevezés aláírásától számított 30 napon belül, szóban is megerősíthet.
+(2) Az esküt a munkáltatói jogkör gyakorlója vagy az általa kijelölt vezető előtt szóban – legkésőbb a kinevezés aláírásától számított 30 napon belül – kell letenni. Az eskütételről a kormánytisztviselő esküokmányt ír alá.
 
 (3) Az eskü szövege a következő:
 
@@ -12,4 +12,4 @@
 
 ## „Isten engem úgy segéljen!”
 
-(4) A kormányzati igazgatási szerv köteles az eskü szóbeli megerősítését a kormánytisztviselő számára lehetővé tenni.
+(4)

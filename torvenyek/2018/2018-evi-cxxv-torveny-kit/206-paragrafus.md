@@ -46,4 +46,4 @@ r) a közszolgálati döntőbizottsági eljárással és a jogvitával, és
 
 s) a kormánytisztviselői érdekegyeztetéssel
 
-kapcsolatos rendelkezéseit nem kell alkalmazni.
+kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni.

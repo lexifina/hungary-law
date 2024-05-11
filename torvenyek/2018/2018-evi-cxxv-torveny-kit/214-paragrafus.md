@@ -28,7 +28,7 @@ közvetlenül kapcsolódó feladatok ellátására teljesíthet szolgálatot.
 
 (4) A politikai tanácsadó politikai szolgálati jogviszonyára a jelen fejezetben foglalt eltérésekkel e törvénynek a kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell alkalmazni.
 
-(5) A politikai tanácsadóra nem kell alkalmazni a kormányzati szolgálati jogviszony
+(5) A politikai tanácsadóra – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni a kormányzati szolgálati jogviszony
 
 a) kinevezés időtartamával,
 
