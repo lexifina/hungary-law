@@ -1,6 +1,6 @@
 112. § (1) A képviselőnek a 109–111. §-ban meghatározott pénzügyi feltételeket, juttatásokat, a képviselői tevékenységéhez kapcsolódó támogatásokat, valamint e juttatásokhoz és támogatásokhoz szükséges adminisztrációs feladatokat az Országgyűlés Hivatala a képviselő eskütételétől megbízatásának megszűnéséig biztosítja.
 
-(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 70 %-ának megfelelő összeget biztosít.
+(2) A képviselő 111. § (1) bekezdése szerinti jogosultságaira az Országgyűlés Hivatala havonta legfeljebb a 104. § (1) bekezdésében meghatározott tiszteletdíj 100%-ának megfelelő összeget biztosít.
 
 (3) A képviselő 111. § (3) bekezdésében meghatározott juttatásainak fedezetét az Országgyűlés Hivatala úgy biztosítja, hogy a képviselő havonta a 104. § (1) bekezdésében meghatározott tiszteletdíj kétszeresének megfelelő összegű keretre jogosult, amely nem tartalmazza a kifizetőt terhelő közterheket.
 
