@@ -6,4 +6,6 @@
 
 (3) A 26. § 2024. április 1-jén lép hatályba.
 
-(4) A 2. § (4) és (5) bekezdése, a 10. §, a 20. § (2)–(4) bekezdése, a 29. § 7. és 15. pontja, valamint a 30. § 2024. július 1-jén lép hatályba.
+(4) A 2. § (4) és (5) bekezdése, a 20. § (2)–(4) bekezdése, a 29. § 7. és 15. pontja, valamint a 30. § 2024. július 1-jén lép hatályba.
+
+(5) A 10. § 2025. január 1-jén lép hatályba.
