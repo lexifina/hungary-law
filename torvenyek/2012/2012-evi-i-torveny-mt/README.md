@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2023-01-01 | 2022. évi LXXIV. törvény | 2012-1-00-00.31 |
 | 2023-10-05 | 22/2023. (X. 4.) AB határozat | 2012-1-00-00.32 |
 | 2024-01-01 | 2023. évi LXX. törvény | 2012-1-00-00.33 |
+| 2024-05-11 | 2024. évi XXVIII. törvény | 2012-1-00-00.35 |

@@ -6,7 +6,7 @@ a) a kötelező legkisebb munkabér és
 
 b) a garantált bérminimum
 
-összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben állapítsa meg.
+összegét és hatályát – a Nemzeti Gazdasági és Társadalmi Tanácsban és a Kormány által kijelölt fórumban folytatott konzultációt követően – rendeletben állapítsa meg.
 
 (2) A Kormány a munkavállalók egyes csoportjaira eltérő összegű kötelező legkisebb munkabért és garantált bérminimumot állapíthat meg.
 
@@ -14,4 +14,4 @@ b) a garantált bérminimum
 
 (4) A kötelező legkisebb munkabér és a garantált bérminimum összegét naptári évenként felül kell vizsgálni.
 
-(5) Felhatalmazást kap a Kormány, hogy a bruttó 300 000 forint alatti munkabérek nettó értékének megőrzéséhez szükséges munkabéremelés elvárt mértékét, a béren kívüli juttatás ennek keretében figyelembe vehető mértékét, valamint a munkabéremelés elvárt mértékével kapcsolatos részletes szabályokat – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően – rendeletben határozza meg.
+(5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a kötelező legkisebb munkabér és a garantált bérminimum konzultációjára kijelölt fórumot és a konzultációra vonatkozó szabályokat.

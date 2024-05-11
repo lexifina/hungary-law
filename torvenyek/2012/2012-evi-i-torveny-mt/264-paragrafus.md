@@ -30,4 +30,6 @@ m) az egyenlő bánásmód követelményének megtartására és az esélyegyenl
 
 n) a családi élet és a munkatevékenység összehangolása,
 
-o) munkaviszonyra vonatkozó szabályban meghatározott egyéb intézkedés.
+o) a harmadik országbeli állampolgárok foglalkoztatása, amennyiben az eléri a munkáltatónál munkaviszonyban álló munkavállalók létszámának öt százalékát, és minden további öt százalékos emelkedés elérésekor,
+
+p) munkaviszonyra vonatkozó szabályban meghatározott egyéb intézkedés.

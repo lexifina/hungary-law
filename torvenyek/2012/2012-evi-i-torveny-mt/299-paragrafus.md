@@ -35,3 +35,5 @@ p) az Európai Parlament és a Tanács 2014/59/EU irányelve (2014. május 15.) 
 q) az Európai Parlament és a Tanács (EU) 2018/957 irányelve (2018. június 28.) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv módosításáról.
 
 r) a Tanács (EU) 2018/131 irányelve (2018. január 23.) az Európai Közösség Hajótulajdonosainak Szövetsége (ECSA) és az Európai Közlekedési és Szállítási Dolgozók Szövetsége (ETF) között a 2009/13/EK irányelvnek a 2006-os Tengerészeti Munkaügyi Egyezmény 2014. évi, a Nemzetközi Munkaügyi Konferencia által 2014. június 11-én jóváhagyott módosításával összhangban történő módosítása céljából létrejött megállapodás uniós jogba való átültetéséről.
+
+s) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
