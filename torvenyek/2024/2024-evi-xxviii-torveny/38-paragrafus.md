@@ -1,0 +1,1 @@
+38. § Hatályát veszti a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2023. évi CXI. törvény 41. § (4) bekezdésében az „a 10. §,” szövegrész.
