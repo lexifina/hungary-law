@@ -1,0 +1,1 @@
+48. § Hatályát veszti az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 41. §-a.
