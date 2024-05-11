@@ -1,3 +1,1 @@
-28. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény a következő 12. §-sal egészül ki:
-
-„12. § E törvény alkalmazásában kartell a versenytársak közötti olyan megállapodás vagy összehangolt magatartás, amelynek célja a verseny korlátozása, megakadályozása vagy torzítása, így különösen a vételi vagy eladási árak, valamint az egyéb üzleti feltételek közvetlen vagy közvetett meghatározása, az előállítás vagy a forgalmazás korlátozása, a piac felosztása, ideértve a versenyeztetéssel kapcsolatos összejátszást, az import- vagy exportkorlátozást is.”
+### 28. §
