@@ -25,3 +25,5 @@ k) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi v�
 l) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i 2011/98/EU európai parlamenti és tanácsi irányelv,
 
 m) a munkavállalók szabad mozgásával összefüggésben a munkavállalóknak biztosított jogok gyakorlását megkönnyítő intézkedésekről szóló, 2014. április 16-i 2014/54/EU európai parlamenti és tanácsi irányelv 2. cikk (1) bekezdés b) és c) pontja.
+
+n) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelv.
