@@ -12,7 +12,7 @@ b) egyéb esetben – törvény eltérő rendelkezésének hiányában – a sze
 
 (5) A (3) és (4) bekezdést azzal az eltéréssel kell alkalmazni a 134. § (1) bekezdésében felsorolt szervek esetében, hogy az eltérítés maximum mértéke 30% lehet.
 
-(6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, kormány-főtanácsadói, kormánytanácsadói, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra vagy tartós külszolgálatra történő kirendelésre kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
+(6) A (3) bekezdés szerint megállapított alapilletmény-eltérítés a tárgyévben akkor módosítható, ha a tárgyévben a kormánytisztviselő vezetői kinevezést kap, vagy azt tőle visszavonják, kormány-főtanácsadói, kormánytanácsadói, miniszterelnöki főtanácsadói, miniszterelnöki tanácsadói, miniszteri főtanácsadói, miniszteri tanácsadói munkakörbe helyezik, vagy e munkakörét módosítják, illetve címadományozásra, vagy annak visszavonására, vagy a 119. § szerinti átsorolásra kerül sor. A módosítás eredményeként az alapilletmény nem lehet alacsonyabb, mint e törvény alapján az eltérítés nélkül meghatározott összeg.
 
 (7) A kormánytisztviselő év közben történő végleges áthelyezése esetén – eltérő megállapodás hiányában – a korábbi munkáltató által megállapított eltérítés mértékére jogosult az áthelyezést kérő szervnél is.
 

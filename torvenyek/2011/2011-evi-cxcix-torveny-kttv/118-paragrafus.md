@@ -10,7 +10,7 @@ c) az államigazgatási szerv által írásban meghatározott feltételeket telj
 
 (3) A kormánytisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell.
 
-(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés, valamint a tartós külszolgálat időtartama.
+(4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
 (5) Ha a gyakornok a közigazgatási alapvizsgát a (3) bekezdésben előírt határidőt követő hat hónapon belül nem teszi le, kormányzati szolgálati jogviszonya megszűnik.
 

@@ -38,9 +38,9 @@ e) azonnali hatállyal a próbaidő alatt.
 
 (3) Ha a kormányzati szolgálati jogviszony az (1) bekezdés g) pontjában foglaltak alapján szűnik meg, a kormánytisztviselő részére annak megfelelő összeget kell kifizetni, amely felmentése esetén a munkavégzési kötelezettség alóli mentesítés idejére járó illetményének felel meg, kivéve, ha felmentés esetén a munkavégzés alóli mentesítés időtartamára a kormánytisztviselő illetményre nem lenne jogosult.
 
-(4) Az (1) bekezdés e) pontjában meghatározott életkori korlát alól a miniszterelnök felmentést adhat, ha a kormánytisztviselői kinevezés a külszolgálathoz kapcsolódó képviselet-vezetői megbízáshoz szükséges.
+(4)
 
-(5) A 38. § (2) bekezdése alapján tartós külszolgálat ellátására létrejött határozott idejű kormányzati szolgálati jogviszony hatvannapos hatállyal megszüntethető.
+(5)
 
 (6) A kormánytisztviselő a rá irányadó öregségi nyugdíjkorhatár betöltését egy évvel megelőzően az (1) bekezdés j) pontja szerinti feltétel ellenőrzése céljából kérheti, hogy a munkáltató a nyugdíjbiztosítási igazgatási szervet a kormánytisztviselő szolgálati idejének ellenőrzése céljából megkeresse. A kormánytisztviselő az öregségi teljes nyugdíjhoz szükséges szolgálati idő meglétét a nyugdíjbiztosítási igazgatási szerv korábban meghozott határozatával is igazolhatja a munkáltató felé. A munkáltató az így tudomására jutott személyes adatokat az (1) bekezdés j) pontjában meghatározott feltétel teljesülésének ellenőrzése céljából legfeljebb a 184. § (4) bekezdésében meghatározott ideig kezelheti.
 

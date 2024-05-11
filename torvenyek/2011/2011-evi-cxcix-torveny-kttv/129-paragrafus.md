@@ -10,7 +10,7 @@
 
 (5) Vezetői kinevezés helyettesítés céljából határozott időre is adható. A helyettesítés céljából adott határozott idejű vezetői kinevezés meghosszabbítható.
 
-(6) A tartós külszolgálat időtartamára – a (4) bekezdésben foglaltaktól eltérően – vezetői kinevezés határozott időre is adható.
+(6)
 
 (7) Ha a kinevezés módosítása következtében a vezető
 
