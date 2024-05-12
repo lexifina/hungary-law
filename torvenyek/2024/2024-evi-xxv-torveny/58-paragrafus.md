@@ -1,3 +1,1 @@
-58. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény 172. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy rendeletben állapítsa meg a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat, valamint a minősített piaci szereplők jegyzékével összefüggő előzetes minősítés, a beszerzési eljáráshoz kötött minősítés, továbbá a jegyzéken tartás során alkalmazandó formanyomtatványok mintáit és az AH által vezetett minősített piaci szereplők jegyzékének tartalmi elemeit.”
+### 58. §
