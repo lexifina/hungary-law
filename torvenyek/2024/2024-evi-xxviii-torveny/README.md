@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-28-00-00
 | --- | --- | --- |
 | 2024-05-11 | 2024. évi XXVIII. törvény | 2024-28-00-00.0 (közlönyállapot) |
 | 2024-05-11 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-28-00-00.1 |
+| 2024-05-12 | 2010. évi CXXX. törvény | 2024-28-00-00.2 |
