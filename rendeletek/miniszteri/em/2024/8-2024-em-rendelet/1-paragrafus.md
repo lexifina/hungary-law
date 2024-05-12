@@ -1,3 +1,3 @@
-1. § A távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet (a továbbiakban: Támogatási rendelet) 9. §-a a következő (4) bekezdéssel egészül ki:
+1. §[^2]
 
-„(4) E rendeletnek a távhőszolgáltatási támogatásról szóló 51/2011. (IX. 30.) NFM rendelet módosításáról szóló 8/2024. (V. 10.) EM rendelettel megállapított 1. melléklet 1. pontjában foglalt táblázat C és D oszlopa szerinti támogatási mértékeket 2024. április 1. napjától kell alkalmazni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

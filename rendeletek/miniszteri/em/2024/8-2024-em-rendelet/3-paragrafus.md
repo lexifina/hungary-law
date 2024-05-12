@@ -1,1 +1,3 @@
-3. § A Támogatási rendelet 5. § (2) bekezdésében a „(2) bekezdése” szövegrész helyébe a „(3) bekezdése” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
