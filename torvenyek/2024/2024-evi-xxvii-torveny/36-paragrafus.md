@@ -1,5 +1,3 @@
-## 6. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény módosítása
+## 6.
 
-36. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény hatálybalépésével összefüggő átmeneti rendelkezésekről, valamint egyes, az ingatlan-nyilvántartással, területrendezéssel, településrendezéssel kapcsolatos és kulturális tárgyú törvények módosításáról szóló 2021. évi CXLVI. törvény (a továbbiakban: Átmeneti tv.) 3/A. §-a a következő (2a) bekezdéssel kiegészülve lép hatályba:
-
-„(2a) Az Inytv. 42. § (1) bekezdését 2024. október 1. és 2024. december 3. között azzal az eltéréssel kell alkalmazni, hogy a jogok és tények bejegyzésére irányuló, kérelemre induló eljárásokban jogi képviselőként az ingatlanügyi hatósági eljárásban ügyvédi kamarai nyilvántartásba bejegyzett eljárási jogosultsággal nem rendelkező ügyvéd vagy kamarai jogtanácsos 2024. október 1. és 2024. december 3. között eljárhat, ha a beadvány benyújtására nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor.”
+### 36. §
