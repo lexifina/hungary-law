@@ -10,7 +10,7 @@ d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben
 
 e) a miniszter, hogy a műszer szerinti polgári repülési eljárások tervezésének, validációjának és felülvizsgálatának részletes szabályait, valamint a műszer szerinti polgári repülési eljárásokat tervező szolgálat személyi, tárgyi és működési feltételeit, továbbá annak irányítási és feladatrendszerét,
 
-f) a miniszter, hogy a polgári légijárművek üzemben tartásának szakmai feltételeit és engedélyezési eljárásának anyagi jogi szabályait,
+f) a miniszter, hogy a polgári légijárművek üzemben tartásának szakmai feltételeit és engedélyezési eljárásának anyagi jogi szabályait, valamint a leszállóhelyek működésének feltételeit,
 
 g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 
