@@ -1,4 +1,4 @@
-51/A. § (1) A pályahálózat-működtető megkülönböztetésmentes módon, írásban szerződést köthet a vállalkozó vasúti társasággal a pályahálózat meghatározott részein a vállalkozó vasúti társaság részére történő előnyök nyújtására vonatkozóan. Az előnyök fajtái:
+51/A. § (1) A pályahálózat-működtető megkülönböztetésmentes módon, írásban szerződést köthet a vállalkozó vasúti társasággal a pályahálózat meghatározott részein a vállalkozó vasúti társaság ügyfelei részére történő előnyök nyújtására vonatkozóan. Az előnyök fajtái:
 
 a) alacsonyabb költségek és
 

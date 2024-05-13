@@ -8,7 +8,7 @@
 
 a) jogszabályban,
 
-b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által közzétett vasúti műszaki előírásokban
+b) a vasúti műszaki bizottság által kidolgozott és a közlekedési hatóság által kiadott vasúti műszaki előírásokban
 
 kerülnek meghatározásra.
 
@@ -88,6 +88,6 @@ a közlekedési hatóság a nemzeti szabály vagy annak hatályon kívül helyez
 
 (11) Az (EU) 2016/796 európai parlamenti és tanácsi rendelet 26. cikke szerinti vizsgálata során az Ügynökség és a Bizottság által elfogadott és ezt követően kihirdetett új nemzeti szabályt a közlekedési hatóság az Ügynökség által működtetett informatikai rendszer útján megküldi a Bizottságnak és az Ügynökségnek.
 
-(12) A jogszabályokban – valamint az uniós vasúti rendszer részét képező vasúti pályahálózatot működtető vagy azon közlekedő vasúti társaság esetén az egyéb nemzeti szabályokban – meghatározott keretek között a vasúti közlekedés biztonságával összefüggő vasúti társasági előírásokat a vasúti társaság biztonsági szabályzatban állapítja meg. A biztonsági szabályzatot a közlekedési hatóság hagyja jóvá.
+(12)
 
 (13) A bejelentett nemzeti szabályokra nem vonatkozik az áruk és egyes szolgáltatások szabad áramlásának biztosításával összefüggésben egyes európai uniós jogi aktusokban előírt bejelentési, értesítési, tájékoztatási és jelentéstételi kötelezettségek teljesítéséről szóló kormányrendelet szerinti értesítési eljárás.

@@ -2,7 +2,7 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy
 
-1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait,
+1. a vasúti közlekedési hatóság vagy hatóságok, valamint a vasúti igazgatási szerv kijelölését, eljárásuk részletes szabályait, a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyban vagy munkaviszonyban állókra vonatkozó összeférhetetlenségi szabályokat,
 
 2. a vasúti közlekedés területén a kötelező kárfedezet biztosításának részletes szabályait,
 
@@ -156,13 +156,13 @@ rendeletben állapítsa meg.
 
 39. a vasúti műszaki előírások kidolgozásáért és kiadásáért felelős szakértői testület létrehozására, összetételére, feladatkörére és működésére, valamint a tevékenységével összefüggő feladatokra és a közlekedési hatósággal történő együttműködésére vonatkozó részletes szabályokat,
 
-40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények műszaki szabályait,
+40. az utasok biztonságát szolgáló védelmi rendszerek tervezésére, karbantartására és üzemeltetésére vonatkozó követelmények anyagi jogi szabályait,
 
-41. a vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó műszaki követelményekre vonatkozó szabályokat,
+41. a vasúti jármű tervezése, gyártása, átalakítása, típusvizsgálata, üzembe helyezését és forgalomba adását megelőző vizsgálata, üzembe helyezése, forgalomba helyezése, karbantartása, üzemeltetése, valamint használata során betartandó anyagi jogi szabályokat,
 
-42. a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó műszaki követelményekre vonatkozó szabályokat,
+42. a vasúti pálya és tartozékai tervezése, építése, kivitelezése, üzembe helyezését megelőző vizsgálata, üzembe helyezése, karbantartása, fenntartásával kapcsolatos vizsgálata, valamint üzemeltetése során betartandó anyagi jogi szabályokat,
 
-43. a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó műszaki követelményeket,
+43. a vasúti közlekedés biztonságával összefüggő munkakörben foglalkoztatott vasúti munkavállalók képzése, oktatása, vizsgáztatása során alkalmazható szimulációs eszközök tervezésére, vizsgálatára, alkalmazhatóságára, üzemeltetésére, karbantartására vonatkozó anyagi jogi szabályokat,
 
 44. a vasúti forgalom lebonyolításával összefüggő alapvető szabályokat, a forgalomban részt vevő vonatok terhelésére, összeállítására, megfékezettségére, a kötelezően elvégzendő vizsgálatokra vonatkozó szabályokat,
 

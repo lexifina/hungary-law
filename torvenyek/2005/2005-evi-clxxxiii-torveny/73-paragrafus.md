@@ -1,11 +1,13 @@
 ## A vasúti igazgatási szerv kormánytisztviselője
 
-73. § (1) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal.
+73. § (1) A vasúti igazgatási szerv kormánytisztviselőjének vasúti társasággal és vasúti pályakapacitás-elosztó szervezettel közvetlen vagy közvetett érdekeltsége nem állhat fenn.
 
-(2) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője az öröklés kivételével vasúti társaságban sem közvetlen, sem közvetett tulajdoni részesedést nem szerezhet.
+(2) A vasúti igazgatási szerv kormánytisztviselője részére nem engedélyezhető további munkaviszony vagy munkavégzéssel járó egyéb jogviszony létesítése vasúti társasággal, vasúti pályakapacitás-elosztó szervezettel.
 
-(3) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője kinevezése előtt vagy öröklés útján szerzett – a (2) bekezdés szerinti – tulajdoni részesedését a kinevezésétől vagy a szerzéstől számított három hónapon belül köteles elidegeníteni, amelyről kötelezettségvállalási nyilatkozatot tesz.
+(3) A kormányzati szolgálati jogviszonyt létesíteni szándékozó személy a kinevezést megelőzően, a vasúti igazgatási szerv kormánytisztviselője évente kötelezettségvállalási és érdekeltségi nyilatkozatot tesz, amelyben feltünteti azokat a közvetlen és közvetett érdekeltségeit, amelyek sérthetik függetlenségét és befolyásolhatják bármely feladata teljesítését.
 
-(4) A (3) bekezdésben foglalt kötelezettsége teljesítéséig a vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője nem vehet részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett társaságra vonatkozik.
+(4) A vasúti igazgatási szerv kormánytisztviselője a közvetlen vagy közvetett érdekeltség fennállása idején, valamint a közvetlen vagy közvetett érdekeltség megszűnésének napját követő egy éven belül nem vesz részt olyan döntés előkészítésében és meghozatalában, amely az összeférhetetlenségi okkal érintett vasúti társaságra vagy vasúti pályakapacitás-elosztó szervezetre vonatkozik.
 
-(5) A vasúti igazgatási szerv vasúti igazgatási feladatot ellátó kormánytisztviselője felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
+(5) A vasúti igazgatási szerv kormánytisztviselőjének a felmentésére kizárólag a vasúti igazgatási szerv döntéséhez nem kapcsolódó ok miatt kerülhet sor.
+
+(6) Az (1)–(4) bekezdésben foglaltakkal összefüggő részletes szabályokat a Kormány rendeletben határozza meg.
