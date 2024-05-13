@@ -1,0 +1,3 @@
+28. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 79/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha valamely nemzetközi vasúti szolgáltatással kapcsolatos ügy két vagy több igazgatási szerv döntését igényli, az eljárásban részt vevő igazgatási szervek – az ügyfelek számára leginkább megfelelő megoldás érdekében – együttműködnek egymással a döntésük meghozatala során. A vasúti igazgatási szerv részt vesz az EGT-tagállamokban működő nemzeti szabályozó szervezetek olyan együttműködésében, amelynek célja, hogy közös elveket és gyakorlatokat dolgozzanak ki a feladataik ellátására és döntéseik meghozatalára vonatkozóan.”
