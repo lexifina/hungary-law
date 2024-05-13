@@ -18,6 +18,8 @@ elektronikus biztonságtechnikai rendszeren keresztül, a (6)–(15) bekezdésbe
 
 (4) A szolgáltató a jogszabályi felhatalmazás alapján végzett szolgáltatás minőségének és mennyiségének ellenőrzése érdekében, valamint bűnüldözési célból, az (5) bekezdésben meghatározott helyeken elektronikus biztonságtechnikai rendszeren keresztül, az (5)–(15) bekezdésben foglalt feltételekkel folytat megfigyelést, készít rögzített képfelvételt, és kezeli a rögzített képfelvételeket.
 
+(4a) Az (1) bekezdés a) és b) pontjában meghatározott szolgáltató a szolgáltatását igénybe vevők számának megállapítása céljából – a szolgáltatást igénybe vevők egyedi azonosítását, a megfigyeltek rögzítését lehetővé nem tévő módon – az (5) bekezdésben meghatározott helyen kamerás megfigyelést végezhet.
+
 (5) A szolgáltató a (2) bekezdés szerinti képfelvételt és a (3) bekezdés szerinti képfelvételt vagy kép- és hangfelvételt (a továbbiakban együttesen: felvétel) a tulajdonában vagy jogszerű használatában lévő területén készíthet, így különösen:
 
 a) közforgalom számára nyitva álló helyen,

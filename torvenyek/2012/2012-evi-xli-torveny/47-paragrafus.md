@@ -4,9 +4,11 @@
 
 a) a miniszter,
 
-b) a tervezett személyszállítási szolgáltatással érintett országos pályahálózat-működtető,
+b) bármely érdekelt illetékes hatóság, amely jogosult az országos vasúti pályahálózathoz való hozzáférés korlátozására,
 
-c) a közszolgáltatási szerződést teljesítő vállalkozó vasúti társaság.
+c) a tervezett személyszállítási szolgáltatással érintett országos pályahálózat-működtető,
+
+d) a közszolgáltatási szerződést teljesítő vállalkozó vasúti társaság.
 
 (3) A miniszter és a közszolgáltatást végző vállalkozó vasúti társaságok a vasúti igazgatási szerv rendelkezésére bocsátják a megalapozott döntéshez szükséges információkat, amelyeket a vasúti igazgatási szerv megvizsgál és szükség szerint azok kiegészítését rendeli el, majd a kérelem beérkezését követően egy hónapon belül konzultációt kezdeményez valamennyi érintett féllel. A vasúti igazgatási szerv indokolt esetben valamennyi érintett féllel konzultál. A vasúti igazgatási szerv határozatát az érintett felekkel előre meghatározott, észszerű időn belül, de legkésőbb az összes lényeges információ kézhezvételét követő hat héten belül közli.
 
