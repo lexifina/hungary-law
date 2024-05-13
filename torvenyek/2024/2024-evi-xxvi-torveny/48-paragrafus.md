@@ -13,15 +13,3 @@ e) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságár
 való megfelelést szolgálja.
 
 (2) Ez a törvény a fenntartható légi közlekedés egyenlő versenyfeltételeinek biztosításáról szóló, 2023. október 18-i (EU) 2023/2405 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

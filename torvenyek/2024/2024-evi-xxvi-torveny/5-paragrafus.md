@@ -1,17 +1,3 @@
-## „j) engedély-nyilvántartásból az ellenőrzött járművezető
-
-## ja) egészségi és pályaalkalmassági, valamint az utánképzésére vonatkozó adatait,
-
-## jb) vezetői engedélyének típusára, okmányazonosító jelére, kiadására, érvényességére (idejére, kategóriájára), cseréjére és visszavonására vagy bevonására (leadására, elvételére, visszaadására) vonatkozó adatokat,
-
-## jc) vezetői engedélyének elvesztésére, eltulajdonítására, megsemmisülésére, egyéb okból történő érvénytelenségére, megtalálására és megkerülésére vonatkozó adatokat,
-
-## jd) vezetői engedélyének hivatalos feljegyzések rovatába bejegyzett adatokat,
-
-## je) vezetési jogosultsága megszerzésének és engedély-nyilvántartásba történő bejegyzésének időpontjára és a megszerzett kategóriákra vonatkozó adatokat, valamint
-
-## jf) gépjármű-vezetői képesítési igazolványának sorszámára, kategóriájára, kiadásának dátumára, érvényességi idejére, kiállító országára, valamint az azon szereplő vezetői engedély számára, típusára, kiállító országára vonatkozó adatokat, továbbá a 95-ös harmonizált uniós kódot és annak érvényességi idejét,”
-
 5. § A közúti közlekedésről szóló 1988. évi I. törvény a következő 30/A. §-sal egészül ki:
 
 „30/A. § (1) A miniszter az utak tervezésének, építésének, illetve azok fenntartásának, valamint megfelelőségük igazolásának, továbbá az anyagok, szerkezetek és berendezések felhasználásának, az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket, továbbá az ezektől való egyedi eltérés engedélyezésének feltételeit – az építési alapanyagra vonatkozó szállítási távolságot előíró rendelkezések esetében is –, illetve a kísérleti útépítési tevékenységhez való hozzájárulás szabályait és eljárását, a kísérleti útépítési tevékenységre vonatkozó eltérő szabályokat, az egyes eltérési esetekben eljáró bizottság kijelölésének részletes szabályait és a jótállásra vonatkozó feltételeket rendeletben állapítja meg.

@@ -24,24 +24,8 @@ a miniszter, hogy)
 
 (rendeletben állapítsa meg.)
 
-(3) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés m) pont ma) alpontja helyébe a következő rendelkezés lép:
+(3)
 
-(Felhatalmazást kap
+(4)
 
-a közlekedésért felelős miniszterrel egyetértésben)
-
-„ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, és az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata, valamint a 18. § (18) bekezdésének végrehajtásával összefüggésben a Magyar Honvédség állományába tartozó, a képzés vezetési gyakorlati részét oktató személy esetében a szakoktatókkal szemben támasztott követelmények és képzésük, valamint az oktatójárművek műszaki feltételei tekintetében eltérő rendelkezéseket,”
-
-(rendeletben állapítsa meg.)
-
-(4) A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdése a következő t) ponttal egészül ki:
-
-(Felhatalmazást kap)
-
-## „t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt”
-
-(rendeletben állapítsa meg.)
-
-(5) A közúti közlekedésről szóló 1988. évi I. törvény 48. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a középiskolás járművezetők középiskolai képzésének és vizsgájának különleges részletszabályait.”
+(5)
