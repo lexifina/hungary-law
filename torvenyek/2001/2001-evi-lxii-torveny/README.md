@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-62-00-00
 | 2018-07-01 | 2017. évi CLXXXVI. törvény | 2001-62-00-00.18 |
 | 2022-05-25 | 2022. évi IV. törvény | 2001-62-00-00.19 |
 | 2024-01-01 | 2023. évi XC. törvény | 2001-62-00-00.20 |
+| 2024-05-13 | 2024. évi XXVI. törvény | 2001-62-00-00.21 |
