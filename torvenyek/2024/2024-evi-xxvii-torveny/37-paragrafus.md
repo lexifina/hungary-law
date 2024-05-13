@@ -1,0 +1,7 @@
+37. § Az Átmeneti tv. I. Fejezete a következő 3/B. és 3/C. §-sal kiegészülve lép hatályba:
+
+„3/B. § Az Inytv. 35. § (2) bekezdését 2024. október 1. és 2024. december 3. között azzal az eltéréssel kell alkalmazni, hogy ha a beadvány benyújtására nem az ingatlan-nyilvántartás vezetését támogató informatikai rendszeren keresztül kerül sor, jelzálogjogra, önálló zálogjogra vagy átalakításos önálló zálogjogra vonatkozó változás bejegyzése olyan – ügyvéd vagy kamarai jogtanácsos által nem ellenjegyezett – magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet nevének feltüntetésével szabályszerűen és nyilvánvalóan azonosítható módon aláírt.
+
+3/C. § (1) A 2024. szeptember 30-át megelőzően létesített olyan közműhálózatok esetében, amelyeknél az érintett ingatlanok vonatkozásában a közérdekű használati jog ingatlan-nyilvántartásba történő bejegyzése bármely okból elmaradt, a közérdekű használati jog jogosultja 2029. december 31-ig gondoskodik a közérdekű használati jog bejegyeztetéséről.
+
+(2) Az (1) bekezdés szerinti közérdekű használati jogok bejegyzésének elmaradása esetén e jogok a 2024. október 1. és 2029. december 31. napja közötti időszakban a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:166. § (1) bekezdése szerinti bejegyzés nélkül is fennállónak tekintendők, ha megszűnésük a felek megállapodása vagy a hatóság rendelkezése alapján nem állapítható meg.”

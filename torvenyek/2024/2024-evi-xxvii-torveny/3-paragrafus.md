@@ -1,0 +1,3 @@
+3. § Az Étv. a következő 60/M. §-sal egészül ki:
+
+„60/M. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet hatálya alá tartozó azon beruházások esetében, amelyeknél az építési engedély keretében bontási engedélyt is kiadott a hatóság, a bontási engedély időbeli hatálya megegyezik az építési engedély időbeli hatályával.”
