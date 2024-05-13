@@ -16,7 +16,7 @@ c) a természetes személy üzembentartó nevét, lakóhelyét, anyja nevét, sz
 
 d) a jogi személy üzembentartó nevét, székhelyét, cégjegyzékszámát vagy az azt bejegyző hatóság által kiadott más azonosítóját.
 
-(4a) A használati díj beszedésére jogosult szervezetek (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
+(4a) A használati díj beszedésére jogosult szervezetek a (4) bekezdésben meghatározott pótdíj behajtása érdekében megbízottat vehetnek igénybe.
 
 (5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség három év alatt évül el. A pótdíj után késedelmi kamat nem jár.
 

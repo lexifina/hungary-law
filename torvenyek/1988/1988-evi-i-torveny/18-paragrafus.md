@@ -70,7 +70,7 @@ f) a nyilvántartásba vétel száma, időpontja,
 
 (11) Az iskolavezetői, a szakoktatói, a vizsgabiztosi és az utánképzés-foglalkozásvezetői tevékenység végzésére jogosító engedélyt a közlekedési hatóság visszavonja, és felhívja a figyelmet arra, hogy a tevékenység ennek hiányában nem végezhető, továbbá az iskolavezetőt, a szakoktatót, a vizsgabiztost, az utánképzés-foglalkozásvezetőt a névjegyzékből törli, ha a névjegyzékbe felvett személy
 
-a) vonatkozásában az engedélyezés vagy a bejelentés feltételei nem állnak fenn,
+a) vonatkozásában az engedélyezés feltételei nem állnak fenn,
 
 b) az iskolavezető kivételével nem rendelkezik érvényes vezetői engedéllyel,
 

@@ -88,7 +88,7 @@ a) a Kormány, hogy
 
 39.
 
-40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzés és az utánképzés részletes szabályait,
+40. a közúti járművezetők pályaalkalmassági vizsgálatának szabályait, valamint a szakirányú továbbképzésre, az utánképzésre és az utánképzés-foglalkozásvezetőre vonatkozó részletes szabályokat,
 
 41. a vizsgaközpont tevékenysége tekintetében a felügyeleti szervet, a felügyeleti szerv feladat- és hatáskörét, illetékességét, továbbá működési rendjét és eljárását,
 
@@ -144,7 +144,7 @@ b) a miniszter, hogy
 
 9. az útépítés felügyeleti ellenőrzés szabályait,
 
-10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket,
+10. az útépítésre, illetve az út üzemeltetésére szolgáló anyagok, szerkezetek és berendezések műszaki követelményeit, valamint megfelelőségük igazolásának, továbbá ezen anyagok, szerkezetek és berendezések forgalomba hozatalának, felhasználásának, továbbá az újfajta építési módok (műszaki megoldások), technológiák, eljárások engedélyezésének szabályait, valamint az utak építésével kapcsolatos minőségi követelményeket és jótállásra vonatkozó feltételeket, továbbá az ezektől való egyedi eltérés engedélyezésének feltételeit, illetve a kísérleti útépítési tevékenységhez való hozzájárulás szabályait és eljárását, a kísérleti útépítési tevékenységre vonatkozó eltérő szabályokat, az egyes eltérési esetekben eljáró szerv kijelölését,
 
 11. a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeit,
 

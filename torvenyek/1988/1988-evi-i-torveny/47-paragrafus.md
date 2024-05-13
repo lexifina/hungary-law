@@ -122,4 +122,10 @@ Magyarország területén van.
 
 38. használati díjból származó bevétel: a használati díjakból, pótdíjakból, valamint egyéb eljárási jellegű díjakból származó valamennyi bevételnek az útdíjszolgáltatási gazdasági társaság 33/A. § (6) bekezdésében meghatározott feladatainak ellátásával összefüggésben felmerült – kormányrendeletben meghatározott – indokolt költségeivel csökkentett összege;
 
-39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított szakoktató.
+39. utánképzés-foglalkozásvezető: a közúti járművezetők utánképzését végző, az utánképzési foglalkozás tartására az adott programnak megfelelő minősítéssel feljogosított személy.
+
+40. az útdíjfizetés elmulasztása: jogosulatlan úthasználat, amely az e törvényben meghatározott használati díj, vagy az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvényben meghatározott útdíj megfizetésének elmulasztásával valósul meg;
+
+41. a nyilvántartás helye szerinti tagállam: az Európai Unió azon tagállama, amelynek nemzeti gépjármű-nyilvántartásában az útdíjfizetés elmulasztása által érintett jármű szerepel;
+
+42. nemzeti kapcsolattartó pont: a gépjármű-nyilvántartási adatok határokon átnyúló cseréjére jogszabályban kijelölt hatóság.

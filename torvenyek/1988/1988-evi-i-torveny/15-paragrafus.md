@@ -1,6 +1,6 @@
 15. § (1) A miniszter – rendeletben – meghatározott járművek közlekedését a közút kezelőjének hozzájárulásához és díj fizetéséhez kötheti.
 
-(2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.
+(2) Az (1) bekezdés szerint megállapított díj, továbbá a 33/A. § szerinti használati díj, útdíj és pótdíj megfizetéséért – amennyiben a használati díjról szóló rendelet vagy az útdíjról szóló törvény eltérően nem rendelkezik – a járműnek a közúti közlekedési nyilvántartásról szóló törvény szerinti üzembentartója felelős.
 
 (3) Az (1) bekezdés szerinti közútkezelői hozzájárulás tartalmazza a jármű közlekedéséhez a közútkezelői hozzájárulást igénylő jármű üzembentartójának nevét, adószámát, továbbá természetes személy üzembentartó esetén lakcímét, nem természetes személy üzembentartó esetén székhelyét.
 
