@@ -86,7 +86,7 @@
 
 42. nehézgépjármű: olyan gépjármű, amelynek műszakilag megengedett legnagyobb össztömege meghaladja a 3,5 tonnát;
 
-43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
+43. nehéz tehergépjármű: árufuvarozásra szánt nehézgépjármű, ideértve a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti vontatót és nyerges vontatót, és a közúti járművek műszaki megvizsgálásáról szóló miniszteri rendelet szerinti különleges felépítményű gépjárművet is, ha e törvény alkalmazásában nehézgépjárműnek minősül;
 
 44. autóbusz: a közúti közlekedés szabályairól szóló miniszteri rendelet szerinti autóbusz, ha e törvény alkalmazásában nehézgépjárműnek minősül;
 
@@ -165,3 +165,7 @@ b) az (EU) 2019/1242 rendelet hatálya alá nem tartozó járművek tekintetébe
 72. településeket összekötő utak: azok az útdíjköteles elemi útszakaszok, amelyek 150 fő/km2-nél alacsonyabb népsűrűségű területeken fekszenek;
 
 73. fizetési közreműködő: az egyetemes útdíjszolgáltató által egyes szolgáltatásainak utólagos fizetés mellett történő igénybevételével összefüggő feladatai teljesítéséhez igénybe vehető, szerződött közreműködő.
+
+74. lényegesen módosított UD rendszer: az UD rendszer olyan módosítása, amelynek eredményeképpen az EETS-szolgáltató által alkalmazott átjárhatósági rendszerelemek olyan mértékű módosítása szükséges, amely az EETS-szolgáltató újbóli akkreditálását is szükségessé teszi;
+
+75. EETS-akkreditáció: az EETS-szolgáltató által az útdíjszedőnél kezdeményezett eljárás, amelynek eredményes lefolytatását követően az útdíjszedő az EETS-szolgáltatóval az EETS, EETS-területen történő nyújtására szerződést köt.

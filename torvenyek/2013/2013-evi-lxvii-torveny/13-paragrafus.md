@@ -16,7 +16,7 @@ c) az egyéb országos közúthálózati elemek üzemeltetése és fenntartása,
 
 d) a közúti közlekedési infrastruktúrával összefüggő egyéb állami feladatok, valamint az azokhoz kapcsolódó – különösen műszaki szakmai, pénzügyi, számviteli és jogi – tevékenységek pénzügyi fedezetének biztosítása,
 
-e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésre állási díja fizetésének,
+e) a koncessziós szerződés keretében üzemeltetett útszakaszok rendelkezésreállási díja, valamint a rendelkezésreállás-alapú szolgáltatási díja fizetésének,
 
 f) az országos közúthálózati elemek meglévő kapacitásának bővítése és új hálózati elemek kiépítése
 
