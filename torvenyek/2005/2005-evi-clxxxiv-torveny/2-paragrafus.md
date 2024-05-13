@@ -34,7 +34,7 @@ h) repülőesemény: az EU-rendelet 2. cikkének 7. pontjában megfogalmazott re
 
 i)
 
-j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 500 millió forintos) károsodásával jár, valamint más, ugyanilyen következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
+j) súlyos vasúti baleset: vonatok összeütközése vagy kisiklása, amely legalább egy halálos áldozattal, öt vagy több személy súlyos sérülésével, illetve a járművek, az infrastruktúra vagy a környezet jelentős (a helyszínen megállapíthatóan legalább 2 millió eurós) károsodásával jár, valamint más, ugyanilyen következményekkel járó vasúti baleset, amelynek nyilvánvaló hatása van a vasútbiztonsági szabályozásra vagy a biztonság irányítására;
 
 k) vasúti baleset: a vasutat érintő, a vasúti közlekedés során bekövetkező, káros következményekkel járó nem szándékos esemény vagy események láncolata, amelynek kategóriái:
 
