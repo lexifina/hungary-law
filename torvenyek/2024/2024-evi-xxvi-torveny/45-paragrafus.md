@@ -1,3 +1,1 @@
-45. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 23. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az útdíjszolgáltató vagy az EETS-szolgáltató (ezen alcím alkalmazásában a továbbiakban együtt: szolgáltató) és az útdíjszedő közötti útdíjszedéssel összefüggő – különösen a szolgáltató számára előírt szerződési feltételekkel és e feltételek megkülönböztetésmentességével, a szolgáltató díjazásával vagy a fennálló szerződéssel összefüggésben felmerült – jogvitáiban a bírósági igényérvényesítést megelőzően a feleknek meg kell kísérelniük jogvitájuknak az egyeztető szerv útján történő rendezését.”
+### 45. §
