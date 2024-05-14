@@ -1,0 +1,1 @@
+A Kormány egyes köznevelési intézmények feladatellátása feltételeinek megteremtése érdekében
