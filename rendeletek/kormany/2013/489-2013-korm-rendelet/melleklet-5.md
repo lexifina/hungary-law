@@ -90,7 +90,7 @@
 
 | 45. | 9. melléklet 5.1. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 1 083 000 forint/Gyerekház |
 
-5. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^90]
+5. melléklet a 489/2013. (XII. 18.) Korm. rendelethez[^92]
 
 A 2023. évi bérkompenzáció fajlagos összegei
 
@@ -158,7 +158,7 @@ A 2023. évi bérkompenzáció fajlagos összegei
 
 | 31. | 2. melléklet 1.3.3.1. Bölcsődei bértámogatás |  |
 
-| 32. | 2. melléklet 1.3.3.1.1. Felsőfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 796 930 forint/ számított létszám[^91] |
+| 32. | 2. melléklet 1.3.3.1.1. Felsőfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 796 930 forint/ számított létszám[^93] |
 
 | 33. | 2. melléklet 1.3.3.1.2. Bölcsődei dajkák, középfokú végzettségű kisgyermeknevelők, szaktanácsadók bértámogatása | 823 200 forint/ számított létszám |
 
@@ -166,19 +166,19 @@ A 2023. évi bérkompenzáció fajlagos összegei
 
 | 35. | 9. melléklet 1.1. Szakmai dolgozók átlagbére alapján számított béralapú támogatás | 960 000 forint/foglalkoztatott |
 
-| 36. | 9. melléklet 1.2. Gyermekvédelmi szakellátási intézményekben foglalkoztatottak kiegészítő támogatása | 1 010 220 forint/foglalkoztatott[^92] |
+| 36. | 9. melléklet 1.2. Gyermekvédelmi szakellátási intézményekben foglalkoztatottak kiegészítő támogatása | 1 010 220 forint/foglalkoztatott[^94] |
 
 | 37. | 9. melléklet 1.3.1. Pedagógus I. fokozatból Pedagógus II. fokozatba lépés |  |
 
-| 38. | 9. melléklet 1.3.1.1. Alapfokú vagy középfokú végzettségű | 66 178 forint/foglalkoztatott[^93] |
+| 38. | 9. melléklet 1.3.1.1. Alapfokú vagy középfokú végzettségű | 66 178 forint/foglalkoztatott[^95] |
 
-| 39. | 9. melléklet 1.3.1.2. Mesterfokozatú végzettségű | 79 658 forint/foglalkoztatott[^94] |
+| 39. | 9. melléklet 1.3.1.2. Mesterfokozatú végzettségű | 79 658 forint/foglalkoztatott[^96] |
 
 | 40. | 9. melléklet 1.3.2. Mesterpedagógus vagy Kutatótanár fokozatba lépés |  |
 
-| 41. | 9. melléklet 1.3.2.1. Alapfokú vagy középfokú végzettségű | 246 772 forint/foglalkoztatott[^95] |
+| 41. | 9. melléklet 1.3.2.1. Alapfokú vagy középfokú végzettségű | 246 772 forint/foglalkoztatott[^97] |
 
-| 42. | 9. melléklet 1.3.2.2. Mesterfokozatú végzettségű | 278 780 forint/foglalkoztatott[^96] |
+| 42. | 9. melléklet 1.3.2.2. Mesterfokozatú végzettségű | 278 780 forint/foglalkoztatott[^98] |
 
 | 43. | 9. melléklet 4.1. Szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás | 1 062 000 forint/szolgálat |
 
@@ -186,10 +186,10 @@ A 2023. évi bérkompenzáció fajlagos összegei
 
 | 45. | 9. melléklet 5.1. Biztos Kezdet Gyerekház fenntartóját megillető költségvetési támogatás | 1 062 000 forint/Gyerekház |
 
-[^90]: Az 5. mellékletet a 74/2023. (III. 10.) Korm. rendelet 2. §-a iktatta be.
-[^91]: Az 5. mellékletben foglalt táblázat B:32 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
-[^92]: Az 5. mellékletben foglalt táblázat B:36 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
-[^93]: Az 5. mellékletben foglalt táblázat B:38 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^94]: Az 5. mellékletben foglalt táblázat B:39 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
-[^95]: Az 5. mellékletben foglalt táblázat B:41 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
-[^96]: Az 5. mellékletben foglalt táblázat B:42 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
+[^92]: Az 5. mellékletet a 74/2023. (III. 10.) Korm. rendelet 2. §-a iktatta be.
+[^93]: Az 5. mellékletben foglalt táblázat B:32 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^94]: Az 5. mellékletben foglalt táblázat B:36 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^95]: Az 5. mellékletben foglalt táblázat B:38 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^96]: Az 5. mellékletben foglalt táblázat B:39 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § d) pontja szerint módosított szöveg.
+[^97]: Az 5. mellékletben foglalt táblázat B:41 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § e) pontja szerint módosított szöveg.
+[^98]: Az 5. mellékletben foglalt táblázat B:42 mezője a 454/2023. (X. 5.) Korm. rendelet 2. § f) pontja szerint módosított szöveg.
