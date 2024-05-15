@@ -1,0 +1,1 @@
+1. § A központi költségvetés további kiegészítő támogatást biztosít a bevett egyház és annak belső egyházi jogi személye (a továbbiakban: egyházi fenntartó) által fenntartott köznevelési és szakképző intézményeket érintő energiaár-növekedésből, továbbá a víz- és a csatornadíjak nagykereskedelmi árának emelkedéséből adódó 2024. évi többletkiadások ellentételezéséhez.
