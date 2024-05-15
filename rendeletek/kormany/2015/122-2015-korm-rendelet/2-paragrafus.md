@@ -2,8 +2,8 @@
 
 ## AZ ENERGIAHATÉKONYSÁGI CÉLKITŰZÉSRE, AZ ENERGIAELLÁTÁS ÉS -FELHASZNÁLÁS HATÉKONYSÁGÁNAK BIZTOSÍTÁSÁRA, VALAMINT AZ EURÓPAI BIZOTTSÁG FELÉ TELJESÍTENDŐ TÁJÉKOZTATÁSI KÖTELEZETTSÉG TELJESÍTÉSÉRE VONATKOZÓ RÉSZLETES SZABÁLYOK
 
-## 2.[^3]
+## 2.[^6]
 
 2. §
 
-[^3]: A 2. alcímet (2. §) a 715/2020. (XII. 30.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.
+[^6]: A 2. alcímet (2. §) a 715/2020. (XII. 30.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte.

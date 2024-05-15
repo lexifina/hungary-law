@@ -1,3 +1,3 @@
-34. §[^92]
+34. §[^96]
 
-[^92]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 32–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

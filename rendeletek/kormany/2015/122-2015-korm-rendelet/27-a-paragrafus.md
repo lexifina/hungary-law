@@ -1,6 +1,6 @@
 ## III/A. Fejezet
 
-## A HITELESÍTETT ENERGIAMEGTAKARÍTÁSOK SZERVEZETT PIACÁNAK MŰKÖDÉSÉRE ÉS A HITELESÍTETT ENERGIAMEGTAKARÍTÁS SZERVEZETT PIACON TÖRTÉNŐ ÁTRUHÁZÁSÁRA VONATKOZÓ KÖVETELMÉNYEK[^80]
+## A HITELESÍTETT ENERGIAMEGTAKARÍTÁSOK SZERVEZETT PIACÁNAK MŰKÖDÉSÉRE ÉS A HITELESÍTETT ENERGIAMEGTAKARÍTÁS SZERVEZETT PIACON TÖRTÉNŐ ÁTRUHÁZÁSÁRA VONATKOZÓ KÖVETELMÉNYEK[^84]
 
 27/A. § (1) A hitelesített energiamegtakarítások szervezett piacán (a továbbiakban: szervezett piac) az energiahatékonyságról szóló 2015. évi LVII. törvény alapján hitelesített energiamegtakarítás átruházására vagy vásárlására jogosult személy (a továbbiakban: piaci szereplő) a hitelesített energiamegtakarítások átruházására vonatkozóan ügyletet akkor köthet, ha megfelel a szervezett piaci szabályzatban előírt feltételeknek.
 
@@ -44,4 +44,4 @@ d) segítse elő a piaci verseny erősítését.
 
 11. a vitarendezésre vonatkozó szabályokat.
 
-[^80]: A III/A. Fejezetet (27/A–27/F. §-t) az 546/2023. (XII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^84]: A III/A. Fejezetet (27/A–27/F. §-t) az 546/2023. (XII. 12.) Korm. rendelet 2. §-a iktatta be.

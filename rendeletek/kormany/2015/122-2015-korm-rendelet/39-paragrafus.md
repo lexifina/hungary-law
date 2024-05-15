@@ -1,5 +1,5 @@
 ## 22. Az egyes sajátos ipari építményekre vonatkozó építésügyi hatósági eljárások szabályairól szóló 31/2014. (II. 12.) Korm. rendelet
 
-39. §[^97]
+39. §[^101]
 
-[^97]: A 39–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 39–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
