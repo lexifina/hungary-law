@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-87-00-00
 | 2024-02-19 | 2010. évi CXXX. törvény | 2023-87-00-00.6 |
 | 2024-03-01 | 1/2024. (IV. 30.) BM határozat | 2023-87-00-00.15 |
 | 2024-03-02 | 2010. évi CXXX. törvény | 2023-87-00-00.16 |
+| 2024-05-16 | 1/2024. (V. 21.) MVM határozat | 2023-87-00-00.17 |
