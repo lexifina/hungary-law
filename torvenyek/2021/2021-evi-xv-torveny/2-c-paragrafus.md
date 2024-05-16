@@ -1,0 +1,5 @@
+2/C. § (1) Az Nvtv. 13. § (3) bekezdése, a Vtv. 36. § (1) bekezdése és a KEKVA tv. 12. §-a alapján az Alapítvány közérdekű céljainak megvalósítása és a KEKVA tv. 1. mellékletében foglalt táblázatban meghatározott közfeladata ellátása érdekében – az állam tulajdonszerzését követően – az állam ATEV Fehérjefeldolgozó Zártkörűen Működő Részvénytársaságban fennálló, 25,87%-os társasági részesedését megtestesítő részvényeket ingyenesen, nyilvántartási értéken történő átvezetéssel az Alapítvány tulajdonába kell adni.
+
+(2) Ha az Alapítvány a tulajdonába adott (1) bekezdés szerinti részvényeket el kívánja idegeníteni, akkor az államot – a KEKVA tv. 12. § (3)–(5) bekezdése szerinti – elővásárlási jog illeti meg. Az elidegenítésből származó bevétel elidegenítés költségeinek kiegyenlítését követően fennmaradó részét az Alapítvány a KEKVA tv. 1. mellékletében meghatározott közfeladatok ellátására és közérdekű célok megvalósítására köteles fordítani.
+
+(3) Az Alapítvány jogutód nélküli megszűnése esetén az (1) bekezdés szerinti részvények tulajdonjoga az államra száll vissza.
