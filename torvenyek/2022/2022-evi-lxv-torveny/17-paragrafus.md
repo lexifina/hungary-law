@@ -1,6 +1,6 @@
 17. § (1) Az adatkezelő részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá a kedvezményezettek azonosítása céljából adatokat kell átadni az alábbi nyilvántartásokból:
 
-1. az adó- és vámhatóság által kezelt vámadatbázisból,
+1. az állami adó- és vámhatóság által kezelt vámadatbázisból,
 
 2. a nemzeti külkereskedelmi államigazgatási szerv által kezelt importengedély-nyilvántartásból,
 
@@ -34,7 +34,7 @@
 
 17. az operatív programok információs rendszeréből,
 
-18. az adó- és vámhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az adó- és vámhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR’ 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
+18. az állami adó- és vámhatóságtól az adózókra vonatkozó adóazonosító nyilvántartásból, továbbá az állami adó- és vámhatóság által kezelt gazdasági tevékenységek egységes ágazati osztályozási rendszerére (TEAOR’ 08), és a kapcsolt vállalkozásokra vonatkozó adatbázisból, valamint a köztartozás miatt végrehajtási eljárás alatt álló személyekre vonatkozó adatbázisból,
 
 19. a Tenyészet Információs Rendszerből,
 
@@ -48,7 +48,7 @@
 
 24. az egyéni vállalkozók nyilvántartásából,
 
-25. az adó- és vámhatóság által kezelt jövedéki adatbázisból,
+25. az állami adó- és vámhatóság által kezelt jövedéki adatbázisból,
 
 26. a repülőterek üzemeltetőiről, valamint az engedélyköteles vagy bejelentéshez kötött vasúti szolgáltatás végzőiről vezetett nyilvántartásból,
 

@@ -2,9 +2,9 @@
 
 46. § (1) A támogató törölheti a kedvezményezett tartozását, ha:
 
-a) azt az adó- és vámhatóság ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítette;
+a) azt az állami adó- és vámhatóság ideiglenesen eredménytelen végrehajtással érintett tartozásnak minősítette;
 
-b) az az adó- és vámhatóságnak az adós ellen vezetett végrehajtása során a fedezet részbeni vagy egészbeni hiánya miatt nem térül meg;
+b) az az állami adó- és vámhatóságnak az adós ellen vezetett végrehajtása során a fedezet részbeni vagy egészbeni hiánya miatt nem térül meg;
 
 c) azt a felszámoló az általa adott írásbeli nyilatkozat szerint behajthatatlannak minősítette;
 
@@ -18,4 +18,4 @@ f) az elévült.
 
 (3) A végrehajthatatlanság címén törölt tartozást a támogató ismét előírja, ha a végrehajtáshoz való jog elévülési idején belül a tartozás végrehajthatóvá válik.
 
-(4) A támogató az (1) bekezdésben megállapított feltételek hiányában is törölheti a tízezer forintot meg nem haladó tartozást, amennyiben a tartozás nyilvántartása, a végrehajtás érdekében szükséges intézkedés megtétele a tartozással arányban nem álló költségeket eredményezne. Az így törölt tételeket a kifizető ügynökség nyilvántartja. Ha az ilyen tartozás végrehajtásával összefüggésben a kifizető ügynökség az adó- és vámhatóságot megkereste, a tartozás törléséről az adó- és vámhatóságot is tájékoztatja.
+(4) A támogató az (1) bekezdésben megállapított feltételek hiányában is törölheti a tízezer forintot meg nem haladó tartozást, amennyiben a tartozás nyilvántartása, a végrehajtás érdekében szükséges intézkedés megtétele a tartozással arányban nem álló költségeket eredményezne. Az így törölt tételeket a kifizető ügynökség nyilvántartja. Ha az ilyen tartozás végrehajtásával összefüggésben a kifizető ügynökség az állami adó- és vámhatóságot megkereste, a tartozás törléséről az állami adó- és vámhatóságot is tájékoztatja.

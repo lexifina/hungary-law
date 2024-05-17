@@ -14,7 +14,7 @@
 
 6. feltételesség: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló 2021/2115/EU (2021. december 2.) európai parlamenti és tanácsi rendelet (a továbbiakban: KAP I rendelet) 12. cikke és III. melléklete, valamint a feltételességről szóló jogszabály szerinti egységes feltételrendszer;
 
-7. folyamatban lévő eljárás: a kérelemre vagy hivatalból indult, véglegessé vált döntéssel még le nem zárt eljárás;
+7. folyamatban lévő eljárás: a kérelemre vagy saját hatáskörben indult, véglegessé vált döntéssel még le nem zárt eljárás;
 
 8. hatáskörrel rendelkező hatóság: a feltételesség körébe tartozó előírások és követelmények ellenőrzését, igazolását végző szerv;
 
@@ -39,6 +39,8 @@ a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 1408/2013/EU (2013. december 18.) bizottsági rendelet szerinti mezőgazdasági csekély összegű támogatás;
 
 c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúraágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló 717/2014/EU (2014. június 27.) bizottsági rendelet szerinti halászati csekély összegű támogatás;
+
+d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szerinti vidékfejlesztési, erdészeti vagy vadgazdálkodási célú általános csekély összegű támogatás;
 
 14. mezőgazdasági üzem: a KAP I rendelet 3 cikk 2. pontja szerinti fogalomnak megfelelő gazdálkodási egység;
 

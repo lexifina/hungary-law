@@ -18,4 +18,4 @@ f) jogszabályban felsorolt nem érdemi döntés ellen, valamint
 
 g) a kérelemnek maradéktalanul helyt adó döntés ellen.
 
-(3) Ha a támogató az általa hozott döntéssel szemben benyújtott jogorvoslati kérelemben foglaltakkal részben vagy egészben egyetért, döntését saját hatáskörben felülvizsgálja, és ennek megfelelően módosítja a jogorvoslati kérelemmel érintett döntést. Az így megváltoztatott döntéssel szemben jogorvoslati kérelemnek van helye.
+(3) Ha a támogató az általa hozott döntéssel szemben benyújtott jogorvoslati kérelemben foglaltakkal részben vagy egészben egyetért, döntését saját hatáskörben felülvizsgálja, és ennek megfelelően módosítja vagy visszavonja a jogorvoslati kérelemmel érintett döntést. Az így megváltoztatott döntéssel szemben jogorvoslati kérelemnek van helye.

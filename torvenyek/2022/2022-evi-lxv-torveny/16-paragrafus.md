@@ -12,7 +12,7 @@ c) a (3)–(5) bekezdésben megjelöltek tájékoztatása.
 
 (4) A miniszter irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézet megállapodásban rögzített ütemterv szerint jogosult szakpolitikai és gazdaságelemzési feladatainak ellátása céljából, a feladatainak ellátásához szükséges mértékben, egyedi azonosításra alkalmas módon, az agrárgazdasági tevékenységgel össze nem függő személyes adatok kivételével támogatási titok átvételére és kezelésére.
 
-(5) Az adatkezelő az intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adó- és vámhatóságot a támogatási titokról, ha az adó-, vám és egyéb terhek, illetve vámhiány vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
+(5) Az adatkezelő az intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az állami adó- és vámhatóságot a támogatási titokról, ha az adó-, vám és egyéb terhek, illetve vámhiány vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
 (6) Az adatkezelő tájékoztatja a támogatási titokról – közfeladatának ellátásához szükséges mértékben –:
 
@@ -24,7 +24,7 @@ c) a nyomozó hatóságot;
 
 d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 
-e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
+e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az állami adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
 
 f) az Európai Bizottságot, az Európai Számvevőszéket, az Európai Bíróságot;
 
