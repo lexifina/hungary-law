@@ -12,6 +12,8 @@
 
 (5) Az ellenérték megfizetését – annak összegétől függetlenül – a föld fekvése szerint illetékes bíróságnál letétbe helyezéssel kell teljesíteni az 5. § (2) bekezdése szerinti bizonytalan személyű tulajdonostárs, a tulajdonostárs ismeretlen örököse, valamint az 5. § (4) bekezdése szerinti értesítettnek tekintendő tulajdonostárs, továbbá azon tulajdonostárs részére, aki a teljesítéshez szükséges adatokat nem bocsátja a bekebelező tulajdonostárs rendelkezésére.
 
+(5a) Ha a tulajdonostársak (2a) bekezdés szerint értesítését követően valamely tulajdoni hányadot érintően öröklés jogcímen történő tulajdonszerzés kerül bejegyzésre, az örökös tulajdonjogának bejegyzését megelőzően a bekebelezés érdekében e törvény, valamint annak végrehajtási rendelete alapján tett intézkedések az örökösre is kiterjednek.
+
 (6) Az e § szerinti bekebelezés esetén a tulajdonszerzés jogcíme közös tulajdon megszüntetése.
 
 (7) A tulajdonjog ingatlan-nyilvántartási bejegyzésének alapjául szolgáló okiratnak az Inytv. 32. § (1) bekezdés a) és b) pontja szerinti adatokat csak a bekebelező, valamint a bekebelezés tárgyában létrejött szerződés esetén a szerződést aláíró tulajdonostársak esetében kell tartalmaznia. Egyoldalú jognyilatkozat esetén az okiratnak a tulajdonostársak tulajdoni lapon szereplő adatait kell tartalmaznia.

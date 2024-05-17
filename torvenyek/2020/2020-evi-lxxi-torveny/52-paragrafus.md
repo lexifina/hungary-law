@@ -1,1 +1,1 @@
-52. § Az ezen alcím szerinti megosztások költségeit – a kitűzés és a helyszíni bemutatás költségei kivételével – az állam viseli.
+52. § Az ezen alcím szerinti megosztások költségeit az állam viseli. Soron kívüli eljárás lefolytatására nincs lehetőség.

@@ -22,8 +22,26 @@ c) az állam javára ingyenesen fel kell ajánlaniuk, vagy
 
 d) az ingatlanon fennálló osztatlan közös tulajdont a 2. alcím szerinti eljárás vagy – a feltételeinek fennállása esetén – a 3. alcím szerinti eljárás kezdeményezésével meg kell szüntetniük.
 
-(4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti tulajdoni hányad kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
+(3a) A (3) bekezdés b) pontja szerinti tulajdonszerzés esetén
 
-(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét az örökléssel érintett tulajdoni hányadok vonatkozásában, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
+a) a Földforgalmi törvény 10. § (2) bekezdését, valamint a 12–17. §-át nem kell alkalmazni,
 
-(6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét a (3) bekezdés szerinti jogügyletek ingatlan-nyilvántartási átvezetésével vagy a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg.
+b) jogszabályon vagy szerződésen alapuló elővásárlási jog nem gyakorolható, és
+
+c) a tulajdonszerzéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
+
+(4) Ha az örököstársak a (3) bekezdésben foglaltakat nem teljesítik, az (1) bekezdés szerinti ingatlan kényszerértékesítésére kerül sor az e törvény végrehajtására kiadott kormányrendeletben foglaltak szerint.
+
+(5) A (3) bekezdésben foglalt kötelezettség biztosítására az öröklés ingatlan-nyilvántartási átvezetésével egyidejűleg az ingatlanügyi hatóság az ingatlan tulajdoni lapjára feljegyzi a közös tulajdon rendezésének kötelezettsége tényét, valamint a teljes hatályú hagyatékátadó végzés jogerőre emelkedését, az ideiglenes hatályú hagyatékátadó végzés teljes hatályúvá válását megállapító végzés jogerőre emelkedését, a He. 89. §-a szerinti végzés jogerőre emelkedését, hagyatéki per esetén az ítélet jogerőre emelkedését követő öt év leteltének dátumát.
+
+(5a) Az ingatlan használati jogosultságának átengedésére irányuló szerződés az (5) bekezdés szerinti dátumot meghaladóan semmis.
+
+(6) Az ingatlanügyi hatóság törli a közös tulajdon rendezésének kötelezettsége tényét
+
+a) a (3) bekezdés szerinti jogügyletek,
+
+b) a (4) bekezdés szerinti kényszerértékesítés eredményeként bekövetkező tulajdonváltozás, vagy
+
+c) a közös tulajdonnak a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) alapján megosztással történő megszüntetésével bekövetkező tulajdonváltozás
+
+ingatlan-nyilvántartási átvezetésével egyidejűleg.

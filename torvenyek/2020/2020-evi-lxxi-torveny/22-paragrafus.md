@@ -18,7 +18,7 @@ b) a tulajdonjogának megállapítására irányuló eljárást megindította, �
 
 a) a bejegyzésre nem alkalmas olyan okiratot, amely a bejegyzett személy és az ingatlan tulajdonjoga tekintetében érdekelt személy vagy annak jogelődje tulajdonjog átruházásra irányuló megállapodását, az ingatlan megjelölését, továbbá az ellenértéket vagy a szerzés ingyenességét tartalmazza,
 
-b) az ingatlan-nyilvántartásba bejegyzett tulajdonos hagyatékátadó végzéssel (bírósági ítélettel) igazolt örököse vagy hatósági határozattal igazolt jogutódja által kiállított olyan teljes bizonyító erejű magánokirati formájú nyilatkozatot, amelyben elismeri, hogy az ingatlan tulajdonjoga tekintetében érdekelt személy vagy annak jogelődje az ingatlan tulajdonjogának átruházásában a tulajdonossal már korábban megállapodott.
+b) az ingatlan-nyilvántartásba bejegyzett tulajdonos hagyatékátadó végzéssel (bírósági ítélettel) igazolt örököse, dologi hagyományosa vagy halál esetére megajándékozottja vagy hatósági határozattal igazolt jogutódja által kiállított olyan teljes bizonyító erejű magánokirati formájú nyilatkozatot, amelyben elismeri, hogy az ingatlan tulajdonjoga tekintetében érdekelt személy vagy annak jogelődje az ingatlan tulajdonjogának átruházásában a tulajdonossal már korábban megállapodott.
 
 (5) A (3) bekezdés b) pontja esetén az ingatlanügyi hatóság az adatfeltárást megszünteti.
 

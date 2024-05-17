@@ -1,22 +1,22 @@
 ## 4. A tulajdonszerzés közös szabályai
 
-17. § (1) Az ingatlanban az osztatlan közös tulajdon megszüntetését megelőzően fennálló tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának e törvény alapján történő megszerzésére csak az a tulajdonostárs jogosult, aki
+17. § (1) Az ingatlanban az osztatlan közös tulajdon megszüntetését megelőzően fennálló tulajdoni hányadát meghaladó ingatlanrész tulajdonjogának a II. Fejezet alapján történő megszerzésére csak az a tulajdonostárs jogosult, aki
 
 a) az adott ingatlanban legalább 3 éve rendelkezik tulajdonrésszel,
 
-b) tulajdonrészét öröklés jogcímen szerezte, vagy
+b) tulajdonrészét öröklés, dologi hagyomány vagy halál esetére szóló ajándék jogcímen szerezte, vagy
 
 c) tulajdonrészét közeli hozzátartozójától szerezte, ha a tulajdonostárs és közeli hozzátartozója együttesen az adott ingatlanban legalább 3 éve rendelkezik tulajdonrésszel.
 
-(2) Az e törvény alapján történő földtulajdonszerzés esetén a Földforgalmi törvény 10. § (2) bekezdését, valamint a 12–17. §-át nem kell alkalmazni.
+(2) A II. Fejezet alapján történő földtulajdonszerzés esetén a Földforgalmi törvény 10. § (2) bekezdését, valamint a 12–17. §-át nem kell alkalmazni.
 
-(3) Az e törvény alapján történő tulajdonszerzés esetén sem jogszabályon, sem szerződésen alapuló elővásárlási jog nem gyakorolható.
+(3) A II. Fejezet alapján történő tulajdonszerzés esetén sem jogszabályon, sem szerződésen alapuló elővásárlási jog nem gyakorolható.
 
-(4) Az e törvény alapján történő tulajdonszerzéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
+(4) A II. Fejezet alapján történő tulajdonszerzéshez nem kell a mezőgazdasági igazgatási szerv jóváhagyása.
 
-(4a) Az e törvény alapján történő földtulajdonszerzés jogcíme minden esetben közös tulajdon megszüntetése.
+(4a) A II. Fejezet alapján történő földtulajdonszerzés jogcíme minden esetben közös tulajdon megszüntetése.
 
-(5) Az e törvény alapján történő tulajdonváltozás esetén az ingatlan-nyilvántartási bejegyzés során a bejegyzési engedélyt megadottnak kell tekinteni azon tulajdonosok tekintetében, akik a 6. § (3) bekezdése szerinti döntésben nem vettek részt, továbbá akik tulajdonrésze a 12. § (1) bekezdése vagy a 16. § (1) bekezdése alapján bekebelezésre kerül.
+(5) A II. Fejezet alapján történő tulajdonváltozás esetén az ingatlan-nyilvántartási bejegyzés során a bejegyzési engedélyt megadottnak kell tekinteni azon tulajdonosok tekintetében, akik a 6. § (3) bekezdése szerinti döntésben nem vettek részt, továbbá akik tulajdonrésze a 12. § (1) bekezdése vagy a 16. § (1) bekezdése alapján bekebelezésre kerül.
 
 (6) Ha az ingatlanon sírhely található és az ingatlanban az állam tulajdoni hányaddal rendelkezik, akkor a megosztás során – az állam nevében a tulajdonosi jogokat gyakorló jelzése alapján – az állam tulajdonába kerülő ingatlant úgy kell kialakítani, hogy a sírhely szerinti terület az állam tulajdonába kerüljön. Ebben az esetben a területi minimumra és a bekebelezésre vonatkozó rendelkezések alkalmazásának az állammal szemben nincs helye. A 3. alcím alkalmazása esetén a sírhellyel érintett ingatlant az állam tulajdonába kell adni.
 
@@ -46,4 +46,4 @@ b) érintő tulajdoni hányadát nem átruházással szerezte és az ingatlant �
 
 (9c) A végrehajtó az ellenérték beérkezését követően a 17/B. §-ban foglaltak szerint megteszi a szükséges intézkedéseket a tulajdonrészt érintően a lefoglalás megszüntetése és a végrehajtási jognak a tulajdonváltozás ingatlan-nyilvántartási átvezetésével egyidejűleg történő töröltetése iránt.
 
-(10) Az e törvény alapján történő tulajdonszerzés esetén védett természeti területnek minősülő ingatlanban fennálló állami tulajdoni hányad is elidegeníthető.
+(10) A II. Fejezet alapján történő tulajdonszerzés esetén védett természeti területnek minősülő ingatlanban fennálló állami tulajdoni hányad is elidegeníthető.

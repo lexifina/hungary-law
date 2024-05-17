@@ -1,1 +1,1 @@
-50. § A 49. § szerinti, a földmérő vállalkozó vagy vállalkozás és jogi szolgáltató részére történő adatszolgáltatást követően, a Ptk. szerinti megosztásra csak az ezen alcím szerinti közös tulajdon megszüntetésére vonatkozó kérelmek visszavonása esetén van lehetőség.
+### 50. §
