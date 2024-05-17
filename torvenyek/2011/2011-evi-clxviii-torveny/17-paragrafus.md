@@ -2,7 +2,7 @@
 
 17. § (1) A biztosító a mezőgazdasági biztosítási szerződés megkötését követően legkésőbb a tárgyév július 15-ig adategyeztetés céljából köteles az agrárkár-enyhítési szerv részére a mezőgazdasági biztosítási szerződés adatai közül:
 
-a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására [név, székhely vagy lakcím, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 10. § (2) bekezdés b) pontja szerinti támogatási azonosító (a továbbiakban: támogatási azonosító)],
+a) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására [név, székhely vagy lakcím, támogatási azonosító],
 
 b) a mezőgazdasági biztosítási szerződés azonosítására (szerződéskötés dátuma, kötvényszám, módozat, biztosítási esemény),
 

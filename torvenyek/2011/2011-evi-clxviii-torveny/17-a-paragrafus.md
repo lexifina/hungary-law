@@ -2,7 +2,7 @@
 
 a) átadja
 
-aa) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, eljárási tv. szerinti ügyfél-azonosító) és
+aa) a szerződő fél és a biztosított mezőgazdasági termelő azonosítására (név, támogatási azonosító) és
 
 ab) a mezőgazdasági biztosítási szerződés azonosítására (a szerződés megkötésének vagy megújításának dátuma, kötvényszám)
 

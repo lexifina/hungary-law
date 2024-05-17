@@ -30,7 +30,7 @@ c) az agrárkár-megállapító szerv az illetékességi területére vonatkozó
 
 d) az agrárgazdasági elemzésekkel foglalkozó intézmény statisztikai és gazdaságelemzési feladatai ellátása, valamint a Központi Statisztikai Hivatal a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben, és
 
-e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában a miniszter a Vidékfejlesztési Program végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
+e) a mezőgazdasági biztosítási díjtámogatás tekintetében a (2) bekezdés e) pontja szerinti adatok vonatkozásában a miniszter a Vidékfejlesztési Program vagy a KAP Stratégiai Terv végrehajtásához kapcsolódó ellenőrzési és monitoring feladatainak ellátása
 
 céljából.
 
