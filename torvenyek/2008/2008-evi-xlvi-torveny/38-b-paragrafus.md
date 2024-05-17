@@ -20,6 +20,8 @@ b) az e törvény végrehajtására kiadott kormányrendeletben meghatározott t
 
 c) a 38/A. § (3a) bekezdése szerinti nyilvántartásban szereplő erdőgazdálkodónak és erdészeti szakszemélyzetnek tevékenységük végzéséhez.
 
+d) az átruházott feladatok ellátására jogosult élelmiszerlánc-felügyelőnek tevékenysége végzéséhez.
+
 (4) Az élelmiszerlánc-felügyeleti szerv a 38/A. § (8a) bekezdése alapján a támogatóhoz az adott évben egységes kérelmet benyújtó ügyfél részére FELIR azonosítót állapít meg, ha az ügyfél azzal az egységes kérelem benyújtásakor nem rendelkezik. A FELIR azonosító megállapításáról az élelmiszerlánc-felügyeleti szerv értesíti az ügyfelet.
 
 (5) Ha e törvény, e törvény végrehajtására kiadott rendelet vagy az Európai Unió közvetlenül alkalmazandó jogi aktusai által engedélyezési vagy nyilvántartásba vételi kötelezettséggel járó tevékenység FELIR azonosító birtokában végezhető, de ezzel az ügyfél az engedély iránti kérelem benyújtásakor vagy a bejelentés megtételekor nem rendelkezik, az élelmiszerlánc-felügyeleti szerv az engedély megadásakor vagy a bejelentés nyilvántartásba vételekor az ügyfél számára FELIR azonosítót állapít meg.

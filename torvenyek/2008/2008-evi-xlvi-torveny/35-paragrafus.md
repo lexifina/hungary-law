@@ -4,13 +4,13 @@
 
 a) az engedéllyel rendelkező vagy bejelentett
 
-aa) élelmiszer- vagy takarmányvállalkozásokat,
+aa) élelmiszer- vagy takarmányvállalkozásokat és azok tevékenységeit,
 
 ab) élelmiszer- vagy takarmányvállalkozási létesítményeket,
 
-b) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókat és az első magyarországi forgalomba hozókat, valamint
+b) az élelmiszerrel rendeltetésszerűen érintkezésbe kerülő anyagot és tárgyat előállítókat és az első magyarországi forgalomba hozókat, valamint azok tevékenységeit, továbbá
 
-c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállító létesítményeket.
+c) az élelmiszerláncban felhasználásra szánt fertőtlenítőszereket előállítókat, azok tevékenységeit és a létesítményeiket.
 
 (3) Élelmiszer-biztonsági feladatainak keretében az élelmiszerlánc-felügyeleti szerv ellenőrzi
 
