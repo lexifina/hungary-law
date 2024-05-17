@@ -16,7 +16,7 @@ e) a mentő feltárás.
 
 (4) Régészeti feltárás elvégzésére jogosult
 
-a) a Magyar Nemzeti Múzeum,
+a) a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK),
 
 b) a Budapesti Történeti Múzeum,
 

@@ -59,3 +59,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2001-64-00-00
 | 2022-12-22 | 2022. évi LXXVIII. törvény | 2001-64-00-00.69 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2001-64-00-00.66 |
 | 2023-12-28 | 2023. évi LXXXVII. törvény | 2001-64-00-00.70 |
+| 2024-05-17 | 2024. évi XIII. törvény | 2001-64-00-00.71 |
