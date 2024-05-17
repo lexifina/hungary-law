@@ -1,0 +1,1 @@
+68/D. § E törvénynek az oktatási, családügyi, kulturális tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XIII. törvénnyel megállapított 6. § (4) bekezdését e rendelkezés hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
