@@ -2,7 +2,7 @@
 
 3. § (1) Az Nvtv. 13. § (3) bekezdése és a Vtv. 36. § (1) bekezdése alapján az Nftv.-ben meghatározott oktatási és tudományos kutatási feladatok ellátását szolgáló, a 2. mellékletben felsorolt állami tulajdonban lévő ingatlanok (a továbbiakban: ingatlan) ingyenesen, nyilvántartási értéken történő átvezetéssel az Egyetem tulajdonába kerülnek.
 
-(2) Az Egyetem Sárospatak, 172/2 helyrajzi számú ingatlanon a Magyar Nemzeti Múzeum elhelyezéséül szolgáló ingatlanrészekre ingyenes használati jogot biztosít határozatlan időre. Az ingyenes használati jog mértékét az Egyetem és a Magyar Nemzeti Múzeum megállapodással kötelesek rendezni.
+(2) Az Egyetem Sárospatak, 172/2 helyrajzi számú ingatlanon a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) elhelyezéséül szolgáló ingatlanrészekre ingyenes használati jogot biztosít határozatlan időre. Az ingyenes használati jog mértékét az Egyetem és az MNM KK megállapodással kötelesek rendezni.
 
 (3) Az ingatlan tekintetében a tulajdonváltozás ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti elő és köti meg az Egyetemmel.
 
