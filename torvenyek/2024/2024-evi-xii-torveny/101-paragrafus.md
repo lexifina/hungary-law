@@ -1,7 +1,3 @@
 ## 61. A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény módosítása
 
-101. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény a következő 7/M. §-sal egészül ki:
-
-„7/M. § (1) Azon köztulajdonban álló gazdasági társaság tekintetében, amely az állam többségi tulajdonában áll a Kormány rendeletében előírhatja, hogy e gazdasági társaság munkavállalói részére a munkáltatói intézkedéseket elektronikus dokumentumba foglalva, a digitális államról és digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény III. Fejezetében meghatározottak szerint kell kézbesíteni azzal, hogy felhasználó alatt a munkavállalót, digitális szolgáltatást biztosító szervezet alatt a gazdasági társaságot kell érteni.
-
-(2) Az (1) bekezdés szerinti kapcsolattartásra a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 72. §-át alkalmazni kell.”
+### 101. §

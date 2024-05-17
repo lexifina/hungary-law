@@ -1,7 +1,1 @@
-15. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény IV. Fejezete a következő 24/O. §-sal egészül ki:
-
-„24/O. § (1) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére az ügyfél személyazonosságának ellenőrzése, valamint a digitális állampolgárság nyilvántartást vezető szerv általi digitális állampolgár azonosító képzése és digitális állampolgárság aktiválása céljából átadja a polgár természetes személyazonosító adatait, állampolgársága és neme adatát, arcképmását, a regisztrációhoz használt személyazonosság igazolására alkalmas hatósági igazolványa típusát, okmányazonosítóját és érvényessége tényét.
-
-(2) A nyilvántartást kezelő szervtől a digitális állampolgárság nyilvántartást vezető szerv a polgár természetes személyazonosító adatainak, állampolgárságának, nemének, személyi azonosítójának és nyilvántartásból való kikerülése okának és idejének, továbbá a regisztrációhoz használt személyazonosság igazolására alkalmas hatósági igazolványa típusának, okmányazonosítójának és érvényessége tényének igénylésére jogosult.
-
-(3) A nyilvántartást kezelő szerv a digitális állampolgárság szolgáltató részére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 15. § (5) bekezdésében meghatározottak szerint adatszolgáltatást teljesít.”
+### 15. §

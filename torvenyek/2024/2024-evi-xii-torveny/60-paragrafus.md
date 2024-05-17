@@ -1,3 +1,3 @@
-## 33. A családok támogatásáról szóló 1998. évi LXXXIV. törvény módosítása
+## 33.
 
-60. § A családok támogatásáról szóló 1998. évi LXXXIV. törvény 37. § (3) bekezdésében a „Biztonságos kézbesítési szolgáltatási címmel” szövegrész helyébe az „Ajánlott elektronikus kézbesítési szolgáltatási címmel” szöveg, a „biztonságos kézbesítési szolgáltatási címére” szövegrész helyébe az „ajánlott elektronikus kézbesítési szolgáltatási címére” szöveg és az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 14. § (4) bekezdésében” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 27. § c) pontjában” szöveg lép.
+### 60. §

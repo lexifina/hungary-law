@@ -1,3 +1,1 @@
-227. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 39. §-a a következő (7) bekezdéssel kiegészülve lép hatályba:
-
-„(7) A Kormány rendeletében meghatározott digitális szolgáltatást biztosító szervezetek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott információs rendszerekről, nyilvántartásokól és adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.”
+### 227. §

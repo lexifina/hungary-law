@@ -1,3 +1,1 @@
-128. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 58. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az MNB írásban, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben (a továbbiakban: Dáptv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy személyesen, írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban) tart kapcsolatot az ügyféllel és az eljárásban résztvevőkkel. Életveszéllyel vagy súlyos kárral fenyegető helyzet esetén az MNB választja meg a kapcsolattartás módját. Az MNB eljárásaiban az elektronikus kapcsolattartásra a Dáptv. rendelkezéseit a (2)–(12) bekezdésben foglalt eltérésekkel kell alkalmazni.”
+### 128. §

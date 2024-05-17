@@ -1,5 +1,1 @@
-157. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 630. §-a a következő (15) és (16) bekezdéssel egészül ki:
-
-„(15) A 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás használatával 2024. december 31-ig hitelesített elektronikus okirat teljes bizonyító erejű magánokiratnak minősül, és a 325. § (3a) bekezdése szerint tanúsítja az aláíró szerepkörét, ha a szerepkört az azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás igazolása tartalmazza.
-
-(16) A 2024. augusztus 31-én hatályos, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás használatával 2024. december 31-ig hitelesített, a 323. § (1) bekezdésében foglaltaknak megfelelő elektronikus okirat közokiratnak minősül, és a 323. § (3a) bekezdése szerint tanúsítja az aláíró szerepkörét, ha a szerepkört az azonosításra visszavezetett dokumentumhitelesítés-szolgáltatás igazolása tartalmazza.”
+### 157. §
