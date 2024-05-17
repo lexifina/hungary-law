@@ -8,6 +8,6 @@ c) a Testülettel kötött megállapodás alapján közreműködik a Testület f
 
 d) ellátja a Corvin-lánc adományozására vonatkozó indítványokkal, valamint az adományozással összefüggő adminisztratív és szervezőmunkát,
 
-e) gondoskodik a Corvin-lánc előállításáról, pótlásáról, javíttatásáról, a kitüntetettek nevének és az adományozás, valamint a lezárás évszámának bevésetéséről, a Corvin-lánc átmeneti megőrzéséről, illetve a Magyar Nemzeti Múzeum részére történő átadásáról,
+e) gondoskodik a Corvin-lánc előállításáról, pótlásáról, javíttatásáról, a kitüntetettek nevének és az adományozás, valamint a lezárás évszámának bevésetéséről, a Corvin-lánc átmeneti megőrzéséről, illetve a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) részére történő átadásáról,
 
 f) megteszi a Corvin-lánc eltűnése esetén szükséges, valamint a Corvin-lánc előállítási költségének megtérítésére, a jogosulatlanul birtokolt Corvin-lánc visszaszerzésére irányuló intézkedéseket.

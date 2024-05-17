@@ -12,8 +12,8 @@
 
 ## 2. A bevésést – a Corvin-lánc átvételét követően – úgy kell elvégezni, hogy egy kitüntetés hátoldalára, az adományozás időrendjét követő sorrendben egymás alatt legalább négy név és évszám elférjen.
 
-## 3. Ha a Corvin-lánc hátoldalára már több név nem véshető fel, az érmet a „Lezárva:” felirat és az utolsó kitüntetett kitüntetésbirtoklási joga megszűnési évszámának bevésésével le kell zárni és azt végleges megőrzésre és kiállításra a Magyar Nemzeti Múzeumnak át kell adni. Ezzel egyidejűleg gondoskodni kell új Corvin-lánc előállításáról.
+## 3. Ha a Corvin-lánc hátoldalára már több név nem véshető fel, az érmet a „Lezárva:” felirat és az utolsó kitüntetett kitüntetésbirtoklási joga megszűnési évszámának bevésésével le kell zárni és azt végleges megőrzésre és kiállításra az MNM KK-nak át kell adni. Ezzel egyidejűleg gondoskodni kell új Corvin-lánc előállításáról.
 
-## 4. A Corvin-lánc megőrzéséről az érem lezárását követően a Magyar Nemzeti Múzeum gondoskodik.
+## 4. A Corvin-lánc megőrzéséről az érem lezárását követően az MNM KK gondoskodik.
 
 2. melléklet a 2023. évi XLIX. törvényhez
