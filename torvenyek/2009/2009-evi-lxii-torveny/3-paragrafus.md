@@ -24,7 +24,11 @@
 
 9. gépjárműflotta: egy adott biztosítónál ugyanazon – jogi személy, egyéni vállalkozó, egyéni cég – szerződő üzemben tartó által biztosított gépjárművek együttesen kezelt csoportja, ha ezen gépjárművek darabszáma a biztosítási időszak kezdőnapján eléri az ötöt;
 
-10. gépjármű: a közúti forgalomban való részvétel feltételeként hatósági engedélyre és jelzésre kötelezett – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet (KRESZ) 1. számú függelékének II. b) pontjában meghatározott – gépjármű, pótkocsi, félpótkocsi, mezőgazdasági vontató, négykerekű segédmotoros kerékpár (quad), lassú jármű és munkagép, továbbá a hatósági engedélyre és jelzésre nem kötelezett segédmotoros kerékpár;
+10. gépjármű:
+
+a) minden olyan, szárazföldön, de nem sínen közlekedő, kizárólag mechanikus (tehát nem emberi vagy állati) erővel működtetett, hatósági nyilvántartásba vett vagy hatósági nyilvántartásba nem vett jármű – a kizárólag mozgáskorlátozott személyek általi használatra szánt kerekesszékes járművek, az elektromos rásegítéssel működő (pedelec) kerékpárok, valamint a mozgáskorlátozott személy által vezetett e-moped járművek kivételével –, amelynek legnagyobb tervezési sebessége meghaladja a 25 km/h-t, vagy legnagyobb sajáttömege meghaladja a 25 kg-t és legnagyobb tervezési sebessége a 14 km/h-t, továbbá
+
+b) minden, az a) pontban említett gépjárművel együtt használandó pótkocsi és félpótkocsi, akkor is, ha nincs a gépjárműhöz kapcsolva;
 
 10a. gépjárműhasználat: egy gépjármű bármely használata, amely összeegyeztethető azon rendeltetésével, hogy a baleset időpontjában szállítási, illetve közlekedési eszközként szolgáljon, függetlenül a gépjármű jellemzőitől és attól, hogy a gépjárművet milyen terepen használják, valamint attól, hogy az – akár huzamos ideig – álló helyzetben vagy mozgásban van azzal, hogy a forgalomba helyezésre kötelezett gépjárművek esetén gépjárműhasználatnak minősül különösen az a teljes tartam, ami a gépjármű hatósági engedéllyel és jelzéssel történő ellátásának időpontjától a gépjármű forgalomból történő átmeneti vagy végleges kivonásáig tart, az ideiglenes forgalomban tartás engedélyezése, illetve ideiglenes forgalmi engedély kiadása esetén pedig gépjárműhasználatnak minősül az ideiglenes forgalomban tartási engedély, illetve az ideiglenes forgalmi engedély érvényességének időtartama;
 
