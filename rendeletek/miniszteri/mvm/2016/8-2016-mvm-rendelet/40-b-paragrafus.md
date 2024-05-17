@@ -1,4 +1,4 @@
-40/B. § (1)[^78] Nem részesülhet támogatásban a válságközlemény 1.1. szakaszában felsorolt jogi aktusokban meghatározott szankciók, valamint a válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó vállalkozás, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett jogalany, valamint az ilyen jogalany meghatározó befolyása alatt lévő vállalkozás.
+40/B. § (1)[^81] Nem részesülhet támogatásban a válságközlemény 1.1. szakaszában felsorolt jogi aktusokban meghatározott szankciók, valamint a válságközlemény elfogadását követően az Európai Unió szervei által Oroszország Ukrajna elleni agressziójára tekintettel bevezetett egyéb szankciók hatálya alá tartozó vállalkozás, így különösen nem részesülhet támogatásban a szankciókat bevezető jogi aktusokban kifejezetten megnevezett jogalany, valamint az ilyen jogalany meghatározó befolyása alatt lévő vállalkozás.
 
 (2) Nem nyújtható támogatás az (1) bekezdés szerinti szankciókkal érintett ágazatokban folytatott tevékenységhez, ha a támogatás veszélyeztetné a szankciók célkitűzéseit.
 
@@ -8,4 +8,4 @@
 
 (5) A halászati és akvakultúra-ágazatban működő vállalkozásoknak nyújtott támogatás nem tartozhat a 717/2014/EU bizottsági rendelet 1. cikk (1) bekezdés a)–k) pontjában említett támogatási kategóriák közé.
 
-[^78]: A 40/B. § (1) bekezdése a 3/2023. (VI. 2.) MVM rendelet 3. § b) pontja szerint módosított szöveg.
+[^81]: A 40/B. § (1) bekezdése a 3/2023. (VI. 2.) MVM rendelet 3. § b) pontja szerint módosított szöveg.

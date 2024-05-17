@@ -1,6 +1,6 @@
 ## 10. Kutatási infrastruktúrához nyújtott beruházási támogatás
 
-16. §[^56] (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) gazdasági tevékenység folytatására használt kutatási infrastruktúra építéséhez és korszerűsítéséhez nyújtható.
+16. §[^59] (1) A kutatási infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) gazdasági tevékenység folytatására használt kutatási infrastruktúra építéséhez és korszerűsítéséhez nyújtható.
 
 (2) A támogatás keretében az immateriális javak és a tárgyi eszköz költsége számolható el.
 
@@ -14,4 +14,4 @@
 
 (7) Ebben az esetben a (3) bekezdés szerinti maximális támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni arra az esetre vonatkozóan, ha a gazdasági tevékenység részaránya a támogatás odaítélésekor megállapítotthoz képest nagyobb.
 
-[^56]: A 16. § a 8/2023. (XII. 28.) MVM rendelet 13. §-ával megállapított szöveg.
+[^59]: A 16. § a 8/2023. (XII. 28.) MVM rendelet 13. §-ával megállapított szöveg.
