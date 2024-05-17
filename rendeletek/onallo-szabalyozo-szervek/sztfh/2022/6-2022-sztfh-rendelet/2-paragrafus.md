@@ -10,7 +10,7 @@ d) külszíni vagy
 
 e) szénhidrogén
 
-## bányaüzem típusra lehet megtenni.
+bányaüzem típusra lehet megtenni.
 
 (2) A szénhidrogént kitermelő bányaüzem magában foglalja a szén-dioxid gáz bányászatot és a föld alatti gáztárolást is.
 

@@ -12,6 +12,8 @@ d) külszíni bányaüzem esetében „KB” rövidítésből, kötőjelből és
 
 e) szénhidrogén bányaüzem esetében „SzB” rövidítésből, kötőjelből és a bejelentés iktatószámából
 
-## áll.
+áll.
 
-(3) A nyilvántartásba bejegyzett felelős műszaki vezető hozzájárulása esetén a Szabályozott Tevékenységek Felügyeleti Hatósága a honlapján közzéteszi a felelős műszaki vezető nevét, címét, egyéb általa megadott elérhetőségét és a bányaüzem megnevezését.
+(3)[^9]
+
+[^9]: A 6. § (3) bekezdését a 3/2024. (V. 9.) SZTFH rendelet 5. § b) pontja hatályon kívül helyezte.

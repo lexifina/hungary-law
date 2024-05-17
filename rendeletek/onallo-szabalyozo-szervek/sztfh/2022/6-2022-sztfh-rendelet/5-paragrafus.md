@@ -1,5 +1,3 @@
-## végzettség.
-
 5. § (1) Bányaüzemi felelős műszaki vezetői tevékenységet
 
 a) sújtólégveszélyes föld alatti bányaüzemben
@@ -22,14 +20,18 @@ cb) a 4. § (1) bekezdés a) pont aa) alpontja szerinti végzettséggel és lega
 
 d) külszíni bányaüzemben
 
-da) a 4. § (1) bekezdés b) pont ba)–bb) alpontja és bd)–bh) alpontja szerinti végzettséggel és legalább 2 éves szakmai gyakorlattal,
+da)[^6] a 4. § (1) bekezdés b) pont ba)–bb) alpontja és bd)–bi) alpontja szerinti végzettséggel és legalább 2 éves szakmai gyakorlattal,
 
-db) a 4. § (1) bekezdés a) pont aa)–ae) alpontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal vagy
+db)[^7] a 4. § (1) bekezdés a) pont aa)–af) alpontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal vagy
 
 dc) a 4. § (2) bekezdés a)–k) pontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal,
 
-e) szénhidrogén bányaüzemben a 4. § (1) bekezdés b) pont bc) alpontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal
+e)[^8] szénhidrogén bányaüzemben a 4. § (1) bekezdés b) pont bc) és bj) alpontja szerinti végzettséggel és legalább 3 éves szakmai gyakorlattal
 
-## rendelkező személy folytathat.
+rendelkező személy folytathat.
 
 (2) Sújtólégveszélyes vagy gázkitörés-veszélyes bánya esetében szakmai gyakorlatként csak sújtólégveszélyes vagy gázkitörés-veszélyes bányában szerzett gyakorlati idő vehető figyelembe.
+
+[^6]: Az 5. § (1) bekezdés d) pont da) alpontja a 3/2024. (V. 9.) SZTFH rendelet 4. § c) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdés d) pont db) alpontja a 3/2024. (V. 9.) SZTFH rendelet 4. § d) pontja szerint módosított szöveg.
+[^8]: Az 5. § (1) bekezdés e) pontja a 3/2024. (V. 9.) SZTFH rendelet 4. § e) pontja szerint módosított szöveg.

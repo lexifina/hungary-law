@@ -1,4 +1,4 @@
-4. § (1) E rendelet alkalmazásában az adott típusú bányaüzemben történő bányaüzemi felelős műszaki vezetői tevékenység végzéséhez megfelelő felsőfokú szakképzettség
+4. § (1)[^4] E rendelet alkalmazásában az adott típusú bányaüzemben történő bányaüzemi felelős műszaki vezetői tevékenység végzéséhez megfelelő felsőfokú szakképzettség
 
 a) az egyetemi szintű alapképzési szakon szerzett
 
@@ -8,11 +8,13 @@ ab) előkészítés-technikai mérnök,
 
 ac) műszaki földtudományi mérnök,
 
-ad) gépészmérnök és
+ad) gépészmérnök,
 
-ae) villamosmérnök
+ae) villamosmérnök és
 
-végzettség, vagy
+af) építőmérnök
+
+végzettség vagy
 
 b) a mesterképzésben, osztatlan képzésben vagy posztgraduális képzésben szerzett
 
@@ -28,9 +30,13 @@ be) okleveles földtudományi mérnök,
 
 bf) okleveles gépészmérnök,
 
-bg) okleveles villamosmérnök, valamint
+bg) okleveles villamosmérnök,
 
-bh) okleveles bányagépész mérnök
+bh) okleveles bányagépész mérnök,
+
+bi) okleveles építőmérnök, valamint
+
+bj) földgázellátási szakmérnök
 
 végzettség.
 
@@ -40,7 +46,7 @@ a) a bányaipari aknász-technikus,
 
 b) a külszíni bányaipari technikus,
 
-c) a geológus technikus,
+c)[^5] a geológus-geofizikus technikus,
 
 d) a mélyművelési bányaipari technikus,
 
@@ -57,3 +63,8 @@ i) a villamos ipari technikus,
 j) az építőipari technikus, valamint
 
 k) a mélyépítő technikus
+
+végzettség.
+
+[^4]: A 4. § (1) bekezdése a 3/2024. (V. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.
+[^5]: A 4. § (2) bekezdés c) pontja a 3/2024. (V. 9.) SZTFH rendelet 4. § b) pontja szerint módosított szöveg.
