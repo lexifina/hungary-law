@@ -14,7 +14,7 @@ iránti eljárásban.
 
 a) a nemesítő,
 
-b) tájfajta esetében a növényfajtát fenntartó természetes személy vagy jogi személy, valamint
+b) tájfajta és házikerti fajta esetében a növényfajtát fenntartó természetes személy vagy jogi személy, valamint
 
 c) az Európai Unión kívüli országban lakóhellyel rendelkező természetes személy vagy székhellyel, telephellyel rendelkező jogi személy kizárólag magyar állampolgár, Magyarország vagy az Európai Unió más tagállama területén lakóhellyel rendelkező természetes személy, vagy székhellyel, telephellyel rendelkező jogi személy képviselő útján
 

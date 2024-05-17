@@ -2,7 +2,7 @@
 
 20. § (1) A szántóföldi növényfaj vetőmagját az ezen alcímben és e törvény végrehajtására kiadott jogszabályban foglaltak szerinti eljárásban kell minősíteni. A vetőmag addig maradhat forgalomban, és addig használható fel, ameddig minősítő paraméterei megfelelnek e törvény végrehajtására kiadott jogszabályban előírt feltételeknek.
 
-(2) A vetőmag-előállító (a továbbiakban e § alkalmazásában: fémzároltató) köteles a vetőmag-szaporító táblát – a növénytermesztési hatóság által rendszeresített nyomtatványon – a növénytermesztési hatóságnak e törvény végrehajtására kiadott jogszabályban meghatározott jogvesztő határnapig írásban bejelenteni, amely alapján a növénytermesztési hatóság a területet nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartásba vételt akkor tagadja meg, ha a kérelem a határnapon túl érkezett.
+(2) A szaporítóanyag felett rendelkezésre jogosult vetőmag-előállító (a továbbiakban e § alkalmazásában: fémzároltató) köteles a vetőmag-szaporító táblát – a növénytermesztési hatóság által rendszeresített nyomtatványon – a növénytermesztési hatóságnak e törvény végrehajtására kiadott jogszabályban meghatározott jogvesztő határnapig írásban bejelenteni, amely alapján a növénytermesztési hatóság a területet nyilvántartásba veszi. A növénytermesztési hatóság a nyilvántartásba vételt akkor tagadja meg, ha a kérelem a határnapon túl érkezett.
 
 (3) A fémzároltató tájékoztatja a növénytermesztési hatóságot a vetőmag-szaporító tábla növényállományának szántóföldi ellenőrzésre alkalmas fejlettségi állapotáról. A növénytermesztési hatóság a tájékoztatás alapján hivatalból, e törvény végrehajtására kiadott jogszabályban meghatározott számú alkalommal hatósági ellenőrzést végez, amelyről jegyzőkönyvet vesz fel.
 

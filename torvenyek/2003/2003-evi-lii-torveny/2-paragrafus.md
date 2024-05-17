@@ -16,7 +16,7 @@ c) továbbszaporítása során tulajdonságait változatlanul megőrzi, és ezá
 
 5. Állami fajtaelismerés: hivatalos vizsgálatok és eljárások rendszere, amelynek eredményeként a növényfajta, illetve a szőlő klón a Nemzeti Fajtajegyzékbe bejegyzésre kerül.
 
-6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
+6. Nemzeti Fajtajegyzék: Magyarországon állami elismerésben részesített növényfajták, szőlő klónok, szaporításra egyedileg engedélyezett zöldség-, gyümölcs- szőlő és erdészeti fajták, tájfajták, házikerti fajták, valamint a hivatalos leírással rendelkező gyümölcsfajták lényeges adatait tartalmazó, évente közzétett jegyzék.
 
 7–8.
 

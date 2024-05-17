@@ -32,7 +32,7 @@ bc) az ügyfél regisztrációs számát vagy a növénytermesztési hatóság p
 
 bd) a tevékenység megjelölését,
 
-be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatait (cím, helyrajzi szám, MePaR azonosító szám, földrajzi koordináták, táblaszám, terület mérete), valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
+be) szaporítóanyag előállítás esetén a vetés, illetve a termesztés helyének azonosító adatai (cím, helyrajzi szám, WGS84 rendszerben meghatározott koordinátapár, egyedi tábla azonosító) közül legalább egyet, az érintett terület nagyságát, valamint szaporítóanyag forgalmazás esetén a telephely megfelelő azonosító adatait;
 
 c) a minősített szaporítóanyag tételekről, amely tartalmazza
 

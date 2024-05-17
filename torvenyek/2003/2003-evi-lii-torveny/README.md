@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-52-00-00
 | 2021-06-05 | 2021. évi LX. törvény | 2003-52-00-00.22 |
 | 2023-01-01 | 2022. évi XXII. törvény | 2003-52-00-00.23 |
 | 2024-01-01 | 2023. évi XCIV. törvény | 2003-52-00-00.24 |
+| 2024-05-17 | 2024. évi XIX. törvény | 2003-52-00-00.25 |

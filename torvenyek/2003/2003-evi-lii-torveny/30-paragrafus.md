@@ -26,7 +26,7 @@ e)
 
 f) a forgalomba hozható szaporítóanyagok minőségének előírásait, a minőség megfelelő tanúsítását és ellenőrzését,
 
-g) a zárt körzetek kialakításának feltételeit,
+g) a zárt körzetek kialakításának feltételeit, valamint a zárt körzet kialakítására irányuló eljárás anyagi jogi szabályait,
 
 h) a törzsültetvények, a faiskolák és palántanevelő üzemek létesítésének feltételeit,
 
