@@ -18,7 +18,7 @@ a) amelyet a társasági adóról és az osztalékadóról szóló 1996. évi LX
 
 b) amelynek természetes személy tagjai, vagy jogi személy esetén a jogi személy természetes személy tagjai, egymás közeli hozzátartozójának minősülnek;
 
-5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképészetileg a VINGIS-ben lehatárolt, nevesített, szőlő termőhelyi kataszterben szereplő, összefüggő terület;
+5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképen a VINGIS-ben lehatárolt, nevesített terület;
 
 6. ePincekönyv rendszer: a szőlő-bor ágazat elektronikus információs rendszere;
 

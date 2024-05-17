@@ -84,4 +84,6 @@
 
 14. a bor kifejezés nem borászati termék elnevezésében való használatának szabályait.
 
+15. a HNT által közzétett borpiaci elemzés tartalmát.
+
 (4) Felhatalmazást kap a miniszter, hogy az adópolitikáért felelős miniszter egyetértésével rendeletben állapítsa meg a borászati termékek nyilvántartási és elszámolási rendjét.
