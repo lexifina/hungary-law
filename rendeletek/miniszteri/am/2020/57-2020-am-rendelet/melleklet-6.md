@@ -88,7 +88,7 @@
 
 | 44. | 7 vagy több | 9 663 | 10 035 | 10 560 | 11 807 | 12 274 |
 
-6. melléklet az 57/2020. (XI. 13.) AM rendelethez[^61]
+6. melléklet az 57/2020. (XI. 13.) AM rendelethez[^65]
 
 A támberendezés művelési módok szerinti kialakítása
 
@@ -124,4 +124,4 @@ A támberendezés művelési módok szerinti kialakítása
 
 | 15. | Vertikó | 5 | 5 | Karó vagy nevelőpálca kihelyezése kötelező |
 
-[^61]: A 6. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (3) bekezdése iktatta be.
+[^65]: A 6. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (3) bekezdése iktatta be.

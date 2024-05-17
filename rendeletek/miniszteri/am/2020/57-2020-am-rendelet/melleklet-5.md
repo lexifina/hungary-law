@@ -48,8 +48,8 @@
 
 | 24. | a termeléskiesést ellentételező kompenzáció | 1 988 |
 
-5. melléklet az 57/2020. (XI. 13.) AM rendelethez[^60]
+5. melléklet az 57/2020. (XI. 13.) AM rendelethez[^64]
 
 Hektáronkénti költségátalányok és kompenzáció támberendezés létesítése esetén (EUR/ha)
 
-[^60]: Az 5. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (2) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § k) pontja szerint módosított szöveg.
+[^64]: Az 5. mellékletet a 35/2022. (X. 28.) AM rendelet 9. § (2) bekezdése iktatta be, szövege a 49/2023. (VIII. 24.) AM rendelet 5. § k) pontja szerint módosított szöveg.

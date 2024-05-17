@@ -1,4 +1,4 @@
-2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^58]
+2. melléklet az 57/2020. (XI. 13.) AM rendelethez[^62]
 
 1. A 9. § (1) bekezdése alapján benyújtott egyéni tervek elbírálásakor érvényesítendő szempontok és az azokhoz tartozó pontértékek – fajtaváltás, áttelepítés
 
@@ -116,4 +116,4 @@
 
 | 26. | Összesen elérhető pontszám | 50 |  |
 
-[^58]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a, a 49/2023. (VIII. 24.) AM rendelet 5. § h)-i) pontja, a 6. § b) pontja szerint módosított szöveg.
+[^62]: A 2. melléklet a 22/2021. (VI. 3.) AM rendelet 9. §-a, a 26/2021. (VII. 29.) AM rendelet 69. § (3) bekezdése, a 27/2022. (VIII. 31.) AM rendelet 12. §-a, a 49/2023. (VIII. 24.) AM rendelet 5. § h)-i) pontja, a 6. § b) pontja szerint módosított szöveg.
