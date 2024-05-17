@@ -1,0 +1,3 @@
+118. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 207. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Aki személyazonosító igazolványra vonatkozó jogszabályban előírt kötelezettségét megszegi, az igazoltatásra feljogosított személy felszólítására személyi adatainak bemondását, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális okmány vagy adattároló kód hozzáférhetővé tételét vagy a személyazonosság igazolására alkalmas hatósági igazolvány átadását megtagadja, vagy az említett adatokra vonatkozólag az intézkedés során valótlant állít, szabálysértést követ el.”

@@ -1,0 +1,5 @@
+## 21. A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény módosítása
+
+40. § A személyi jövedelemadó meghatározott részének az adózó rendelkezése szerinti felhasználásáról szóló 1996. évi CXXVI. törvény 5/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha az adóhatóság megállapítja a rendelkező nyilatkozatban foglalt rendelkezésnek – a magánszemély saját érdekkörébe tartozó – érvénytelenségét, erről a magánszemélyt a rendelkező nyilatkozat évének november 30-áig elektronikus úton, ajánlott elektronikus kézbesítési szolgáltatás tárhely (a továbbiakban: megfelelő elektronikus tárhely) hiányában, illetve amennyiben az adózó az elektronikus ügyintézést a rendelkezési nyilvántartásban kizárta, postai úton értesíti. Ha az adóhatóság a rendelkező nyilatkozat évének november 30-áig nem állapítja meg a rendelkező magánszemély saját érdekkörébe tartozó érvénytelenségét, és az általa megjelölt kedvezményezett a 6/A. § (3) bekezdése alapján az adóhatóság honlapján közzétett tájékoztatóban szerepel, a rendelkezést teljesíti.”

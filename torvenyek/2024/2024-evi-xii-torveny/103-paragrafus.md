@@ -1,0 +1,3 @@
+103. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 9. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha a digitális állam megvalósítása érdekében egyes törvények módosításáról szóló 2024. évi XII. törvény (a továbbiakban: Módtv3.) által módosított 8. § (5) bekezdésében megjelölt, a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaság létesítő okirata vagy működése a Módtv3. hatályba lépésekor nem felel meg e törvény előírásainak, a gazdasági társaság a létesítő okiratát, illetve működését a Módtv3. hatálybalépését követő első taggyűlés vagy közgyűlés napjáig, de legkésőbb 2024. december 31-ig köteles összhangba hozni e törvény rendelkezéseivel.”

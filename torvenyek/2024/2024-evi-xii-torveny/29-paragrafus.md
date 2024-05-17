@@ -1,0 +1,17 @@
+## 16. A személyi jövedelemadóról szóló 1995. évi CXVII. törvény módosítása
+
+29. § (1) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 12/C. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A magánszemély részére az állami adó- és vámhatóság elkészíti és az adóévet követő év március 15. napjától a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti elektronikus azonosítási szolgáltatás alkalmazásával egy erre a célra létrehozott elektronikus felületen elérhetővé teszi az adóbevallási tervezetet.
+
+(2) A Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőséggel nem rendelkező magánszemély, amennyiben bevallási kötelezettségének még nem tett eleget, az adóévet követő év március 15-éig postai úton, telekommunikációs eszközön keresztül küldött rövid szöveges üzenetben vagy elektronikus úton kérheti, hogy az állami adó- és vámhatóság az (1) bekezdés szerinti adóbevallási tervezetet papíralapon, postai úton továbbítsa részére. A kérelemnek tartalmaznia kell a magánszemély születési időpontját és adóazonosító jelét is. Az elektronikus úton vagy rövid szöveges üzenetben benyújtott kérelem nyilvántartásba vételéről az állami adó- és vámhatóság a magánszemély által a kérelem benyújtására választott kapcsolattartási formában tájékoztatja a magánszemélyt. A magánszemély elérhetőségére vonatkozó adatok kizárólag az adóbevallási tervezetek igényléséhez kapcsolódóan kezelhetőek.”
+
+(2) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 12/C. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a magánszemély az adóbevallási tervezetben feltüntetett adatokkal, illetve az annak alapjául szolgáló, az állami adó- és vámhatóság nyilvántartásában szereplő adatokkal nem ért egyet, az adóbevallási tervezet adatait az adóévet követő év május 20-ig az erre a célra kialakított elektronikus felületen javíthatja, kiegészítheti, vagy az erre a célra rendszeresített nyomtatványon bevallást nyújthat be. A postai úton megküldött adóbevallási tervezet adatainak kiegészítésére, javítására a Dáptv. szerinti elektronikus azonosítási szolgáltatás alkalmazásával elérhető elektronikus felületen vagy az adóhatóság közreműködése nélkül elkészített bevallás benyújtásával van lehetőség.”
+
+(3) A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 12/C. § (11) és (12) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(11) A Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőséggel rendelkező magánszemély részére, akinek visszatérítendő vagy befizetendő adója keletkezett, azonban az adóbevallási tervezetet az adóévet követő év április 30-áig nem javítja, nem egészíti ki, vagy bevallási kötelezettségét más módon nem teljesíti, az állami adó- és vámhatóság elektronikus úton értesítést küld a visszatérítendő vagy befizetendő adó összegéről, valamint a róla nyilvántartott adatok esetleges ellentmondásairól.
+
+(12) A Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőséggel nem rendelkező magánszemély részére, akinek visszatérítendő vagy befizetendő adója keletkezett, és a (2) bekezdés szerinti határidőben nem kért papíralapú bevallási tervezetet, vagy bevallási kötelezettségét más módon nem teljesítette, az állami adó- és vámhatóság az adóévet követő év április 30-áig postai úton küld értesítést a visszatérítendő vagy befizetendő adó összegéről, valamint a róla nyilvántartott adatok esetleges ellentmondásairól.”
