@@ -1,1 +1,3 @@
-### 20. §
+20. § Az Elismerési tv. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A (3) bekezdésben meghatározott személy akkor is jogosult bizonyítványa vagy oklevele elismertetésére vagy honosíttatására, ha munkavégzési célból a foglalkoztató a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély vagy vendégmunkás-tartózkodási engedély iránti kérelmet nyújtott be, és ezt az elismerési eljárás során igazolja. Az elismerési eljárásban benyújtott kérelemről akkor hozható döntés, ha a kérelmező a kiadott tartózkodási engedélyt bemutatja.”

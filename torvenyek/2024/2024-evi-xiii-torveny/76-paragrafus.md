@@ -4,4 +4,6 @@
 
 a)
 
-b)
+b) 4. § (1) bekezdés c) pont ca) alpontjában a „Múzeum” szövegrész helyébe a „Múzeum Közgyűjteményi Központ” szöveg
+
+lép.
