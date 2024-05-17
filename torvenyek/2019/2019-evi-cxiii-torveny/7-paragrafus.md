@@ -10,6 +10,8 @@ b) kertészeti zöldség és ültetvények (gyümölcs, szőlő), illetve aromá
 
 öntözésének lehetőségét biztosítja.
 
+(2a) Ha a fenntartható vízgazdálkodási közösség a (2) bekezdés b) pontjában foglaltak alapján kerül elismerésre, és az öntözni kívánt ingatlanok szántó művelési ágban vannak nyilvántartva, akkor a közösségnek teljes bizonyító erejű magánokiratba foglaltan kell nyilatkoznia arról, hogy a fenntartható vízgazdálkodási közösség elismerését követően a szántó művelési ágú területeken legalább 5 évig a (2) bekezdés b) pontja szerinti növénykultúrák termesztését fogja folytatni.
+
 (3) Fenntartható vízgazdálkodási közösségként kell elismerni azokat a termelői csoportokat, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek.
 
 (4) Az elismert fenntartható vízgazdálkodási közösség

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-113-00-00
 | 2022-01-01 | 2021. évi CL. törvény | 2019-113-00-00.3 |
 | 2023-07-01 | 2023. évi XLIV. törvény | 2019-113-00-00.4 |
 | 2024-01-01 | 2023. évi XCIV. törvény | 2019-113-00-00.5 |
+| 2024-05-17 | 2024. évi XIX. törvény | 2019-113-00-00.8 |
