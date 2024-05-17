@@ -14,6 +14,8 @@ ab) gépészmérnök,
 
 ac) villamosmérnök,
 
+ad)[^1] építőmérnök.
+
 b) a mesterképzésben szerzett
 
 ba) okleveles bánya- és geotechnikai mérnök,
@@ -30,21 +32,33 @@ bf) okleveles gépészmérnök,
 
 bg) okleveles villamosmérnök,
 
-c) az egyetemi szintű alapképzési szakon szerzett
+bh)[^2] okleveles építőmérnök
+
+c)[^3] az egyetemi szintű alapképzési szakon szerzett
 
 ca) bánya- és geotechnikai mérnök,
 
-cb) előkészítés-technikai mérnök,
+cb) bányaművelő mérnök,
 
-cc) műszaki földtudományi mérnök,
+cc) előkészítés-technikai mérnök,
 
-cd) olaj- és gázmérnök,
+cd) műszaki földtudományi mérnök,
 
-ce) gépészmérnök és
+ce) olaj- és gázmérnök,
 
-cf) villamosmérnök
+cf) gépészmérnök,
 
-## végzettség.
+cg) villamosmérnök,
+
+ch) bányageológus- és geológusmérnök,
+
+ci) mélyfúrási geofizikai szakmérnök,
+
+cj) geofizikus mérnök,
+
+ck) bányagépész-mérnök és
+
+cl) csőtávvezeték építő szakmérnök
 
 (4) E rendelet alkalmazásában az adott bányászati szakterületnek megfelelő középfokú szakképesítés
 
@@ -80,7 +94,7 @@ o) a mélyépítő technikus vagy
 
 p) bányaművelő technikus
 
-## végzettség.
+végzettség.
 
 (5) E rendelet alkalmazásában az adott bányászati szakterületnek megfelelő alapfokú szakképesítés:
 
@@ -119,3 +133,10 @@ p) bányaművelő technikus
 17. mélyfúrómotor-kezelő,
 
 18. cső-távvezeték üzemeltető.
+
+19.[^4] elektronikai műszerész.
+
+[^1]: A 2. § (3) bekezdés a) pont ad) alpontját a 3/2024. (V. 9.) SZTFH rendelet 9. § (1) bekezdése iktatta be.
+[^2]: A 2. § (3) bekezdés b) pont bh) alpontját a 3/2024. (V. 9.) SZTFH rendelet 9. § (2) bekezdése iktatta be.
+[^3]: A 2. § (3) bekezdés c) pontja a 3/2024. (V. 9.) SZTFH rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^4]: A 2. § (5) bekezdés 19. pontját a 3/2024. (V. 9.) SZTFH rendelet 9. § (4) bekezdése iktatta be.
