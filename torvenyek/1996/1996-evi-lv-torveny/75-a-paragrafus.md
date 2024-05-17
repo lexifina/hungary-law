@@ -7,3 +7,7 @@
 (3) A (2) bekezdésben meghatározott esetben nem minősül a vadászatra jogosult felróható magatartásának vagy a tevékenységi körében előálló rendellenességnek, ha a vad az életmódjából, szokásos táplálkozási, szaporodási viselkedéséből következő helyváltoztatása miatt jelenik meg a lakott területen kívül közúton, autóúton, autópályán vagy a település belterületén, kivéve, ha a vad megjelenése a vadászatra jogosult tevékenységével áll okozati összefüggésben.
 
 (4) Gyorsforgalmi utat úgy kell üzemeltetni, hogy arra a vad ne jusson fel.
+
+(5) Vadászható állat járművel történő ütközése esetén a vad elpusztításával okozott kár nem érvényesíthető, ha a kár bekövetkezése a jármű vezetőjének nem felróható magatartásán alapul.
+
+(6) A vadászterület részét képező vadaskert esetén vélelmezni kell, hogy a vad nem a vadaskert területéről váltott ki.

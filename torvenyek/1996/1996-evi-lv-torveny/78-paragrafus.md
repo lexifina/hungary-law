@@ -22,4 +22,4 @@ i) a szükséges mennyiségben és mértékben vadkárelhárító vadászatot fo
 
 j) a nagyvadállomány túlszaporodása esetén – a fokozott vadkárveszélyre tekintettel – a vadászati hatóságnál idényen kívüli állományszabályzó vadászat engedélyezését kezdeményezni.
 
-(2) A vadászatra jogosult a mezőgazdálkodáson, illetve az erdőgazdálkodáson kívül okozott károk megelőzése érdekében – vadveszély esetén – az út létesítőjénél, illetve fenntartójánál, továbbá a vasút létesítőjénél, fenntartójánál, valamint üzemeltetőjénél megfelelő védelmi berendezések létesítését, illetve közúti, vasúti jelzések elhelyezését kezdeményezheti. Az út, illetve a vasút létesítője, fenntartója, valamint üzemeltetője – ha a vadászatra jogosult a létesítés vagy az elhelyezés, továbbá a fenntartás, valamint az üzemeltetés költségeit vállalja – köteles a kezdeményezésnek helyt adni.
+(2)

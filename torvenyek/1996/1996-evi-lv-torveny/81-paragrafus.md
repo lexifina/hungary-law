@@ -6,7 +6,7 @@
 
 (3) A kár megállapítását a miniszter által rendeletben meghatározott képesítéssel rendelkező kárszakértő (a továbbiakban: szakértő) végezheti. A szakértőt a jegyző három munkanapon belül rendeli ki.
 
-(4) A kárigényt érvényesíteni a vadgazdálkodásért felelős miniszter által vezetett minisztérium honlapján közzétett egységes vadkárfelmérési útmutatókban meghatározott eljárásrend szerint elvégzett kárfelmérési eljárást követően lehet. A kár felmérését a kirendeléstől számított öt napon belül kell elvégezni. A kárfelmérést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes közlés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt az igénylő terhére kell figyelembe venni.
+(4) A (2) bekezdésben foglalt egyezség hiányában vadkár tekintetében a kárigényt érvényesíteni a vadgazdálkodásért felelős miniszter által vezetett minisztérium honlapján közzétett egységes vadkárfelmérési útmutatókban meghatározott eljárásrend szerint elvégzett kárfelmérési eljárást követően lehet. A kár felmérését a kirendeléstől számított öt napon belül kell elvégezni. A kárfelmérést akkor is le kell folytatni, ha a kár bejelentése az (1) bekezdésben előírt határidő után történt. Ha késedelmes közlés miatt a kár vagy mértékének megállapítása bizonytalanná válik, ezt az igénylő terhére kell figyelembe venni.
 
 (4a) A vadászatra jogosult, illetve a föld használója az egyezség meghiúsulása esetén három munkanapon belül kérheti másik szakértő kirendelését a költségek előlegezése mellett. Ebben az esetben a kárral érintett földterületen lévő termények betakarítására csak az újabb szakértői vizsgálat befejezése után kerülhet sor.
 

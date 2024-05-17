@@ -56,4 +56,6 @@ g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat enge
 
 (5)
 
-(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.
+(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít vagy tart fenn a vad mozgását befolyásoló, tartós telepítésű kerítést.
+
+(7) Az e § alapján alkalmazandó jogkövetkezményeket a vadaskert alhaszonbérletére kötött szerződés esetén az alhaszonbérlővel szemben kell alkalmazni.

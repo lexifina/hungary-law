@@ -2,6 +2,6 @@
 
 (2) Az (1) bekezdés szerinti esetben a vadászati hatóság a károsult kérelmére, illetőleg az erdészeti vagy természetvédelmi hatóság kezdeményezésére, vagy hivatalból kötelezi a vadászatra jogosultat az egyes vadfajok állományának meghatározott határidőn belüli csökkentésére vagy a szükséges védőintézkedések megtételére.
 
-(3)
+(3) A vadászati hatóság a földtulajdonos, a földhasználó, valamint a (2) bekezdés szerinti hatóságok és személyek kérelmére vagy hivatalból állományszabályozó vadászatot rendel el, ha az adott vadfaj a vadászterület vadgazdálkodási üzemtervében nemkívánatos vadfajként van meghatározva.
 
-(4) Ha a vadászatra jogosult a (2) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.
+(4) Ha a vadászatra jogosult a (2) és (3) bekezdés szerinti vadállomány-szabályozási kötelezettségének nem, vagy nem a határozatban meghatározott módon tesz eleget, a vadászati hatóság a vadászatra jogosult költségére határozatban hatósági vadászatot rendelhet el. A határozatban meg kell jelölni az elejtendő vad faját, valamint darabszámát.

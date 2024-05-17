@@ -4,4 +4,4 @@
 
 (3) A vadászjegy kiállításakor, illetőleg érvényesítésekor a Vadászkamara által megállapított összegű díjat kell fizetni.
 
-(4) A vadászjegy kiállításának részletes szabályait a Kormány az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+(4) A vadászjegy kiállításának részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.

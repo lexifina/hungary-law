@@ -8,7 +8,19 @@
 
 (3) A nem vadászterületen elejtett, befogott vagy elhullott vad – ideértve annak trófeáját is –, valamint a hullatott agancs, annak a vadászatra jogosultnak a tulajdonába kerül, amelyiknek a vadászterületéről a vad odakerült. Kétség esetén tulajdonosnak a fellelés helye szerinti legközelebbi vadászterület vadászatra jogosultját kell tekinteni.
 
-(4) A vadaskertben, a vadasparkban, a vadfarmon és az apróvadtartó telepen (a továbbiakban együtt: zárttéri vadtartó létesítmény) jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a zárttéri vadtartó létesítmény üzemeltetőjének tulajdonában van.
+(4) A vadasparkban, a vadfarmon és az apróvadtartó telepen jogszerűen tartott vad – a vadászatra jogosulttal kötött eltérő megállapodás hiányában – a vadaspark, a vadfarm és az apróvadtartó telep üzemeltetőjének tulajdonában van.
+
+(4a) A vadaskertben jogszerűen tartott vad – a haszonbérleti vagy az alhaszonbérleti szerződés eltérő rendelkezése hiányában – a vadaskert vadászatra jogosultjának tulajdonában van.
+
+(4b) A (4)–(4a) bekezdés alkalmazásában nem minősül jogszerűen tartott vadnak:
+
+a) a vadaskert, a vadaspark, a vadfarm és az apróvadtartó telep (a továbbiakban együtt: zárttéri vadtartó létesítmény) létesítési engedélyében vagy a vadászati hatóság 27/C. § (10) bekezdés szerinti engedélyező döntésében meghatározott vadfajoktól eltérő fajú vad, vagy a vadállománynak a maximálisan fenntartható vadlétszámot meghaladó, vagy a vadfajonként meghatározott ivararánytól eltérően tartott, az adott ivar szerinti maximális létszámot meghaladó része,
+
+b) a vadászati hatóságnak a 27/C. § (10) bekezdése szerinti eljárása során hozott döntése alapján a vadállománynak a vadaskert vadeltartó képességét meghaladóan tartott része,
+
+c) a vadászati hatóságnak a zárttéri vadtartó létesítmény engedélyének visszavonására irányuló döntése alapján a vadállománynak a zárttéri vadtartó létesítmény vadeltartó képességét meghaladóan tartott része.
+
+(4c) A (4b) bekezdés szerint jogszerűtlenül tartott vad az állam tulajdonában van. A jogszerűtlenül tartott vad tekintetében a vad tulajdonjogára alapított igényt a vadaspark, a vadfarm és az apróvadtartó telep üzemeltetője, valamint a vadaskert vadászatra jogosultja nem érvényesíthet.
 
 (5) A gímszarvas, a dámszarvas, szikaszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 

@@ -22,7 +22,7 @@ c) a képviselői tevékenységével összefüggésben keletkezett, jogerősen m
 
 (6) A vadászati hatóság a tulajdonosi közösség által megválasztott képviselő (5) bekezdés a) és b) pontja szerinti feltételeknek való megfelelését a (3) bekezdésben meghatározott nyilvántartásba vétel során megvizsgálja.
 
-(7) Nem lehet a tulajdonosi közösség képviselője az a személy, aki annál a vadászatra jogosultnál tölt be vezető tisztséget, amellyel a tulajdonosi közösség a vadászterület vadászati jogára haszonbérleti szerződést köt.
+(7) Nem lehet a tulajdonosi közösség képviselője az a személy, aki vezető tisztségviselő annál a vadászatra jogosultnál, amellyel a tulajdonosi közösség a vadászterület vadászati jogára haszonbérleti szerződést köt.
 
 (8) A képviselői megbízatás megszűnik
 

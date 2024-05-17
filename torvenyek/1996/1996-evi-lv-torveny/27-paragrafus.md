@@ -18,6 +18,18 @@ g) a vadászatra jogosultat a vadgazdálkodási és vadászati tevékenység vé
 
 [az a)–g) pontokban foglaltak a továbbiakban együtt: a vadászati jog kényszerhasznosítása].
 
+(1a) A vadászati jog kényszerhasznosítására vonatkozó szabályok a vadászterület részét képező vadaskert vadászati jogának haszonbérbe vagy alhaszonbérletbe adása esetén azzal az eltéréssel alkalmazandók, hogy az (1) bekezdésben meghatározott cselekmények vagy mulasztások megvalósulása esetén a vadászati hatóság a vadaskert vadászatra jogosultjának költségére határozatában
+
+a) megállapítja a vadaskert vadgazdálkodási üzemtervét,
+
+b) megállapítja a vadaskert éves vadgazdálkodási tervét,
+
+c) hatósági vadászatot rendel el vagy
+
+d) a vadászatra jogosultat a vadgazdálkodási és vadászati tevékenység végzésétől eltiltja.
+
+(1b) Az (1a) bekezdés d) pontja szerinti jogkövetkezmény alkalmazása esetén a vadászterület részét képező vadaskert vadászati jogát az üzemtervi ciklus végéig annak a vadászterületnek a vadászatra jogosultja gyakorolja, amelyen a vadaskert létesült. A vadászatra jogosult a vadaskert vadászati jogát az üzemtervi ciklus végéig terjedő hatállyal ismételten alhaszonbérletbe adhatja.
+
 (2) Ha az (1) bekezdés a)–e) pontjai szerinti kérdésekben a vadgazdálkodási üzemterv hatályának megszűnését megelőző hatvanadik napig az érintett tulajdonosok érvényes határozatot nem hoznak, a vadászati hatóság bármelyik tulajdonos kérelmére elrendelheti a vadászati jog kényszerhasznosítását.
 
 (3) A vadászati jog (1) bekezdés b) pontja szerinti haszonbérbe adása esetén:

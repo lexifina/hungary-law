@@ -14,7 +14,7 @@ b) az őz, a mezei nyúl és a fácán által a szőlőben, a gyümölcsösben, 
 
 okozott kár tíz százalékot (a továbbiakban: természetes önfenntartási érték) meghaladó része.
 
-(3) Ha a vadászatra jogosult a jóváhagyott éves vadgazdálkodási tervben a gímszarvasra és a vaddisznóra előírt elejtési tervszámokat nem teljesíti, akkor a következő vadászati évben a bekövetkezett vadkár teljes egészében a vadászatra jogosultat terheli.
+(3) Ha a vadászatra jogosult a jóváhagyott éves vadgazdálkodási tervben a gímszarvasra vagy a dámszarvasra előírt elejtési tervszámokat nem teljesíti, és az adott vadfaj tárgyévet megelőző három vadászati évre számított átlagos terítékadata a tíz egyedet elérte, akkor a következő vadászati évben a bekövetkezett vadkár teljes egészében a vadászatra jogosultat terheli.
 
 (4) Nem tekinthető vadkárnak, és így a vadkár számításánál nem vehető figyelembe a megújuló természeti erőforrásnak és nemzeti vagyonnak minősülő vadállomány életfeltételeinek kielégítésére szolgáló, a (2) bekezdés szerinti természetes önfenntartási érték.
 

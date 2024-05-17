@@ -6,4 +6,4 @@
 
 (4) Ha a vadtartó a vadászati hatóság figyelmeztetését követően sem biztosítja a vadtartás jogszabályban vagy az engedélyező határozatban előírt feltételeit, a vadászati hatóság a vadtartót a tevékenységtől eltiltja, és a vadtartó költségére a zárttéren tartott vadállomány felszámolását rendeli el.
 
-(5) A (4) bekezdés, a 27/C. § (7) bekezdés, valamint a 27/E. § (2) bekezdés alkalmazása nem mentesíti a vadtartót a zárttéri vadtartás szabályai megsértése miatti felelősségre vonás alól.
+(5) A (4) bekezdés, a 27/C. § (6) és (7) bekezdés, valamint a 27/E. § (2) bekezdés alkalmazása nem mentesíti a vadtartót a zárttéri vadtartás szabályai megsértése miatti felelősségre vonás alól.

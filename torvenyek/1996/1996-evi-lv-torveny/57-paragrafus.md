@@ -1,4 +1,4 @@
-57. § (1) A vadászatra jogosult vadászterületén évente az éves vadgazdálkodási tervben meghatározott fajú és darabszámú vadat ejthet, illetőleg foghat el. A vadászati hatóság a vadászatra jogosult által igényelt darabszámú, az elejtett vad megjelölésére alkalmas, sorszámmal ellátott azonosítót (a továbbiakban: azonosítójel) bocsát a vadászatra jogosult részére.
+57. § (1) A vadászatra jogosult vadászterületén évente az éves vadgazdálkodási tervben meghatározott fajú és darabszámú vadat ejthet, illetőleg foghat el. A vadászati hatóság a vadászatra jogosult által igényelt darabszámú, az elejtett vad megjelölésére alkalmas, sorszámmal ellátott azonosítót (a továbbiakban: azonosító jel) bocsát a vadászatra jogosult részére.
 
 (2) A vadász a vadászatra jogosult által rendelkezésére bocsátott azonosító jellel köteles a gímszarvast, a dámszarvast, a muflont, a vaddisznót, az őzet és a szikaszarvast – a vad elejtését követően, az elejtés helyéről történő szállítás megkezdésekor – megjelölni. A vadászatra jogosult az azonosító jel felhelyezésével szerzi meg a vad feletti rendelkezési jogot.
 

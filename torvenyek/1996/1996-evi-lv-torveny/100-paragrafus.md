@@ -18,13 +18,13 @@ c) rendeletben szabályozza
 
 1. a vadászati és vadgazdálkodási rendeltetésű létesítményekre és berendezésekre vonatkozó szabályokat,
 
-2. a vadgazdálkodási üzemtervre, illetve az éves vadgazdálkodási tervre vonatkozó szabályokat, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait,
+2.a vadgazdálkodási üzemtervre és az éves vadgazdálkodási tervre vonatkozó szabályokat, a vadgazdálkodási üzemtervtől és az éves vadgazdálkodási tervtől való eltérésre vonatkozó különös rendelkezéseket, továbbá a tájegységi vadgazdálkodási terv nem védett természeti területekre vonatkozó előírásait,
 
 3. a hivatásos vadász esküjének szövegét, a szolgálati jelvényének mintáját,
 
 4. a vadjelölési szabályokat,
 
-5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait,
+5.a vadászati napló és teríték-nyilvántartás vezetésének szabályait, valamint a vadászati napló és teríték-nyilvántartás személyes adatnak nem minősülő adattartalmát,
 
 6. a vadászjegy és a vadászati engedély kiállítására, érvényesítésére, visszavonására, valamint érvénytelenítésére vonatkozó szabályokat,
 
@@ -54,7 +54,7 @@ c) rendeletben szabályozza
 
 19. a bérvadászat szabályait,
 
-20. a zárttéri vadtartás létesítésének szabályait,
+20. a zárttéri vadtartó létesítmény létesítésére, fenntartására, működésére, üzemeltetésére, haszonbérbe és alhaszonbérbe adására, felszámolására, a vadállománnyal és a vadászati létesítményekkel való elszámolás szabályaira vonatkozó részletes szabályokat, továbbá a vadgazdálkodási, vadászati rendeltetésű létesítmények, berendezések körét,
 
 21. a hatósági vadászat szabályait,
 
@@ -92,6 +92,8 @@ c) rendeletben szabályozza
 
 38. a lőfegyverre szerelt hangtompító eszköz vadászat során történő használatának részletes szabályait.
 
+39. a fokozottan vadkárveszélyes területekre, valamint a nagy értékű növénykultúrákra vonatkozó szabályokat,
+
 (1a) Felhatalmazást kap a miniszter, hogy rendeletben jelölje ki a vadgazdálkodási tájegységeket.
 
 (2) Felhatalmazást kap a Kormány arra, hogy a vadászati hatóságot vagy hatóságokat rendeletben jelölje ki.
@@ -101,5 +103,3 @@ c) rendeletben szabályozza
 a) a vadászati hatóság eljárására,
 
 b) az e törvény szerinti szakértői tevékenység folytatásának részletes feltételeire, a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának személyes adatot nem tartalmazó adattartalmára, valamint a bejelentésre és a nyilvántartás vezetésére, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartásának esetén alkalmazandó jogkövetkezményekre
-
-vonatkozó szabályokat.

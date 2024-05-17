@@ -8,4 +8,6 @@
 
 (4) A vadászati napló és a teríték-nyilvántartás vezetését a vadászati hatóság ellenőrzi.
 
+(4a) A vadászati napló- és teríték-nyilvántartás a vadászati hatóság ellenőrzési feladatának ellátása érdekében – az e törvény végrehajtására kiadott rendeletben meghatározott adatokon túl – tartalmazza a vadász nevét, valamint a vadászjegy vagy vadászati engedély számát.
+
 (5) A vadászati napló és a teríték-nyilvántartás vezetésének részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
