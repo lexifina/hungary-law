@@ -1,0 +1,3 @@
+99. § A Foktftv. 16. alcíme a következő 57. §-sal egészül ki:
+
+„57. § A Módtv3. hatálybalépését megelőzően a – Módtv3. hatálybalépését megelőző napon hatályos – 15. alcímben foglalt feladatok elvégzésére földmérő vállalkozóval vagy vállalkozással kötött szerződések a Módtv3. hatálybalépésének napján a törvény erejénél fogva megszűnnek.”

@@ -1,0 +1,3 @@
+14. § A Vtv. 34. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Zárttéri vadtartó létesítmény esetén úgy kell tekinteni, hogy a vadállomány fenntartásának érdekében a vad életfeltételeihez szükséges megfelelő minőségű takarmánymennyiségről és a vadnak ivóvízzel való ellátásáról a vadászatra jogosult nem képes gondoskodni, ha a zárttéri vadtartó létesítményben a létesítési engedélyben meghatározott vadfajoktól eltérő fajú vad tartására kerül sor, vagy ha a vadállomány létszáma a maximálisan fenntartható vadlétszámot meghaladja, vagy ha a vadfajonként meghatározott ivararánytól a zárttéri vadtartó létesítményben tartott vad tényleges ivararánya eltér.”
