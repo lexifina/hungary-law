@@ -22,7 +22,7 @@ b) alkotóművészet ágazatban a Petőfi Irodalmi Múzeum;
 
 c) közgyűjtemény és emlékezetpolitika ágazatban
 
-ca) a Magyar Nemzeti Múzeum;
+ca) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
 
 cb) a Szépművészeti Múzeum;
 
