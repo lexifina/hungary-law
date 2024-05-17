@@ -48,7 +48,7 @@ n) a mezőgazdasági és vidékfejlesztési támogatási szerv olyan döntésév
 
 (5) Az alábbi elsőfokú végzések ellen önálló fellebbezésnek van helye:
 
-a) a támogatás visszatartásáról, a mulasztási bírság kiszabásáról szóló végzés,
+a) a 60. § (1) bekezdés szerinti visszatartásról, a mulasztási bírság kiszabásáról szóló végzés,
 
 b) az eljárás felfüggesztéséről, a felfüggesztés megszüntetéséről szóló végzés,
 

@@ -28,9 +28,9 @@ f) a (2) bekezdés megsértésével benyújtott fellebbezést.
 
 g) a nem a jogszabályban meghatározott módon, vagy a választott kapcsolattartási formának megfelelően benyújtott fellebbezést.
 
-(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a miniszterhez, kivéve, ha a fellebbezést a felterjesztést megelőzően visszavonták, vagy a fellebbezés visszautasításának van helye, továbbá ha a fellebbezés alapján a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy döntése jogszabályt sért, és erre tekintettel a döntését kijavítja, módosítja vagy visszavonja. A fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
+(3) A fellebbezést az ügy összes iratával a fellebbezés beérkezésének napjától számított harminc napon belül kell felterjeszteni a miniszterhez, kivéve, ha a fellebbezést a felterjesztést megelőzően visszavonták, vagy a fellebbezés visszautasításának van helye, továbbá ha a fellebbezés alapján a mezőgazdasági és vidékfejlesztési támogatási szerv megállapítja, hogy döntése részben vagy egészben jogszabályt sért, és erre tekintettel a döntését kijavítja, módosítja vagy visszavonja. A fellebbezést a mezőgazdasági és vidékfejlesztési támogatási szerv az ügy összes iratával együtt terjeszti fel és a fellebbezésről kialakított álláspontjáról is nyilatkozik.
 
-(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
+(3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a fellebbezés esetén a nem jogszabálysértő döntést akkor is visszavonhatja, illetve a fellebbezésben foglaltaknak megfelelően módosíthatja, ha a kérelemben foglaltakkal részben vagy egészben egyetért, feltéve, hogy az ügyben nincs ellenérdekű ügyfél.
 
 (3b) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntés (3) és (3a) bekezdés szerinti kijavításáról, módosításáról, illetve visszavonásáról a fellebbezés beérkezésétől számított hetven napon belül dönt.
 
