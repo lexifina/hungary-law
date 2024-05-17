@@ -1,1 +1,1 @@
-113. § A Gazdaságátadási tv. 3. § (3) bekezdésében az „a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény (a továbbiakban: Földforgalmi törvény)” szövegrész helyébe az „a Földforgalmi törvény” szöveg lép.
+### 113. §

@@ -1,5 +1,3 @@
-## „b) vadászatra jogosultanként nyilvántartást vezet a vadászati napló és a teríték-nyilvántartás formájáról (papíralapú, elektronikus), továbbá elektronikus vadászati napló és teríték-nyilvántartás használata esetén a technikai feltételeket biztosító szervezet nevéről, székhelyéről, valamint az elektronikus vadászati napló és teríték-nyilvántartás használatának kezdő, illetve befejező dátumáról;”
-
 26. § (1) A Vtv. 100. § (1) bekezdés c) pont 2. alpontja helyébe a következő rendelkezés lép:
 
 (Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
@@ -12,11 +10,7 @@
 
 ## „5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, valamint a vadászati napló és teríték-nyilvántartás személyes adatnak nem minősülő adattartalmát,”
 
-(3) A Vtv. 100. § (1) bekezdés c) pont 5. alpontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
-
-## „5. a vadászati napló és teríték-nyilvántartás vezetésének szabályait, a vadászati napló és teríték-nyilvántartás személyes adatnak nem minősülő adattartalmát, továbbá az elektronikus vadászati napló és teríték-nyilvántartás működtetésének követelményeit,”
+(3)
 
 (4) A Vtv. 100. § (1) bekezdés c) pont 20. alpontja helyébe a következő rendelkezés lép:
 
@@ -30,6 +24,4 @@
 
 ## „39. a fokozottan vadkárveszélyes területekre, valamint a nagy értékű növénykultúrákra vonatkozó szabályokat,”
 
-(6) A Vtv. 100. § (1) bekezdés c) pontja a következő 40–41. alponttal egészül ki:
-
-(Felhatalmazást kap a miniszter, hogy rendeletben szabályozza)
+(6)
