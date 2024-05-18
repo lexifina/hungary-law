@@ -68,7 +68,7 @@
 
 ## 3. Keltezés.
 
-8. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^37]
+8. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^38]
 
 A haláleset bejelentésének adattartalma
 
@@ -126,4 +126,4 @@ szerinti adatai.
 
 11. A bejelentés időpontja.
 
-[^37]: A 8. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^38]: A 8. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (5) bekezdése iktatta be.

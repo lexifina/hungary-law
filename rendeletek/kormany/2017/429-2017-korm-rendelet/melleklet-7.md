@@ -82,6 +82,6 @@
 
 ## 3. Keltezés.
 
-7. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^36]
+7. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^37]
 
-[^36]: A 7. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^37]: A 7. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (4) bekezdése iktatta be.
