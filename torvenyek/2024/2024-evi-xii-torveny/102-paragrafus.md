@@ -1,3 +1,1 @@
-102. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 8. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A 3. § (3) bekezdését, a 4. § (2) bekezdését, az 5. § (1) bekezdését, a 6. § (1)–(3) bekezdését, valamint a 7. §-t nem kell alkalmazni azon gazdasági társaságokra – a lakosság és a gazdasági szereplők számára törvényben meghatározott közszolgáltatást nyújtó gazdasági társaságok kivételével –, amelyekben együttesen nem a magyar állam, helyi önkormányzat, a helyi önkormányzat jogi személyiséggel rendelkező társulása, többcélú kistérségi társulás, fejlesztési tanács, nemzetiségi önkormányzat, nemzetiségi önkormányzat jogi személyiségű társulása, költségvetési szerv vagy közalapítvány vagy ezek többségi befolyása alatt álló gazdasági társaság jogosult a vezető tisztségviselők többségének megválasztására, illetve visszahívására.”
+### 102. §
