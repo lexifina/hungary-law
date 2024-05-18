@@ -97,3 +97,5 @@ b) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 c) az Európai Gazdasági Térségről szóló megállapodásban részes állam járművek ismételt nyilvántartásba vételére hatáskörrel rendelkező hatósága az erre irányuló eljárásához a 9. § (2) bekezdés a), b), d), e), g) meghatározott adatok tekintetében.
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.
+
+(5) A járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából térítésmentesen igényelheti a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.

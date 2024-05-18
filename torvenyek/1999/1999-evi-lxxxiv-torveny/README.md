@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-84-00-00
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 1999-84-00-00.93 |
 | 2024-01-01 | 2023. évi CIX. törvény | 1999-84-00-00.91 |
 | 2024-05-13 | 2024. évi XXVI. törvény | 1999-84-00-00.98 |
+| 2024-05-18 | 2024. évi XII. törvény | 1999-84-00-00.95 |
