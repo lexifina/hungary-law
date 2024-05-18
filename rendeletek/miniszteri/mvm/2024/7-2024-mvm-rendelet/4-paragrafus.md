@@ -1,7 +1,3 @@
-4. § Az R.
+4. §[^5]
 
-a) 7. § b) és c) pontjában a „2024.” szövegrész helyébe a „2031.” szöveg,
-
-b) 40/F. § (2) bekezdésében a „34. § (1) bekezdésére” szövegrész helyébe a „18/A. § (7) bekezdés a) pontjára” szöveg
-
-lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

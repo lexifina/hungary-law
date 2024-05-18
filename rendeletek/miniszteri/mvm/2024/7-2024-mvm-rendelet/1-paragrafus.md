@@ -1,3 +1,3 @@
-1. § A fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 8/2016. (III. 25.) MvM rendelet (a továbbiakban: R.) 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A kutatás-fejlesztési projekthez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2) bekezdés szerinti kategóriába tartozó kutatás-fejlesztési projekthez nyújtható, beleértve a Horizont 2020 keretprogram vagy a Horizont Európa keretprogram keretében kiválósági pecsét minőségi védjegyben részesült kutatás-fejlesztési projekteket, továbbá a társfinanszírozott kutatás-fejlesztési projekteket és a társfinanszírozott partnerség létrehozására irányuló projekteket is.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
