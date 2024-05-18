@@ -59,3 +59,5 @@
 28. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
 
 29. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.
+
+34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.
