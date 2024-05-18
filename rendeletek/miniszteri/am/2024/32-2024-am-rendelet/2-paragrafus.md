@@ -1,3 +1,3 @@
-2. § Az 57/2020. (XI. 13.) AM rendelet 18. §-a a következő (2a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(2a) Kifizetési kérelem e rendeletben foglaltak szerint legkésőbb 2025. április 1-je és 2025. július 1-je között nyújtható be.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
