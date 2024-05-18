@@ -1,0 +1,7 @@
+61/D. § (1) E törvénynek az egyes ingatlan-nyilvántartási tárgyú és kapcsolódó törvények módosításáról szóló 2024. évi XXVII. törvénnyel (a továbbiakban: Mód6. tv.)
+
+a) megállapított 60. § (16) és (17) bekezdését, valamint módosított 60. § (8) és (9) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök készítése és módosítása során, valamint a folyamatban lévő közigazgatási hatósági eljárásokban is alkalmazni kell,
+
+b) hatályon kívül helyezett 60. § (9a) és (10) bekezdését az e rendelkezés hatálybalépésekor folyamatban lévő településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök készítése és módosítása során, valamint a folyamatban lévő közigazgatási hatósági eljárásokban nem kell alkalmazni.
+
+(2) A Mód6. tv.-vel megállapított 60/M. §-t azon bontási engedélyre is alkalmazni kell, amely a Mód6. tv. hatálybalépésekor már nem hatályos, azonban az az építési engedély, amelynek keretében kiadták, még hatályos. Ha a Mód6. tv.-vel megállapított 60/M. § szerinti engedélyek vonatkozásában a bontási engedély időbeli hatályának lejárta és e rendelkezés hatálybalépése közötti időszakban a bontási engedély időbeli hatályának lejártával összefüggésben a hatóság kötelezettséget állapított meg, a kötelezettségnek nem kell eleget tenni. A már kifizetett bírság visszatérítése iránt a hatóság intézkedik.
