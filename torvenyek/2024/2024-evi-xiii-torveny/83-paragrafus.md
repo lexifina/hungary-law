@@ -1,3 +1,3 @@
 ## 20. A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény módosítása
 
-83. § A Tokaj-Hegyalja Egyetemért Alapítványról, a Tokaj-Hegyalja Egyetemért Alapítvány és a Tokaj-Hegyalja Egyetem részére történő vagyonjuttatásról szóló 2021. évi XXV. törvény 3. § (2) bekezdésében a „Magyar Nemzeti Múzeum elhelyezéséül” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) elhelyezéséül” szöveg és az „a Magyar Nemzeti Múzeum megállapodással” szövegrész helyébe az „az MNM KK megállapodással” szöveg lép.
+### 83. §
