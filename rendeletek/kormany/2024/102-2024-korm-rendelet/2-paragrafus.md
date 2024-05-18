@@ -1,1 +1,3 @@
-2. § A 33/2008. (II. 21.) Korm. rendelet 5/I. § (2) bekezdésében a „munkáltatónál vagy a beruházónál” szövegrész helyébe a „foglalkoztatónál” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

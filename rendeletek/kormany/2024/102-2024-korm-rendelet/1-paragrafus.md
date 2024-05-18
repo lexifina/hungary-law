@@ -1,3 +1,3 @@
-1. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet [a továbbiakban: 33/2008. (II. 21.) Korm. rendelet] 5/J. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) A képviselőt az ügyfél jogai illetik meg, amennyiben a képesítés birtokosának képviselőjeként a foglalkoztató jár el, és a foglalkoztató a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló törvényben meghatározott beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély vagy vendégmunkás-tartózkodási engedély iránti kérelmet nyújtott be.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
