@@ -1,1 +1,11 @@
-### 2. §
+2. § (1) Az Étv. 60. § (8) és (9) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(8) Azon településeknek, amelyek a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet (a továbbiakban: korábbi R.) tartalmi követelményei alapján készítettek településfejlesztési koncepciót, integrált településfejlesztési stratégiát és településrendezési eszközöket – vagy egyáltalán nem készítettek a korábbi R. tartalmi követelményeinek megfelelő tervet –, az új településfejlesztési tervüket és településrendezési tervüket legkésőbb 2027. július 1-jéig hatályba kell léptetniük.
+
+(9) A 2012. augusztus 6-án hatályos szabályoknak megfelelő településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz módosítására 2027. június 30-ig van lehetőség. A korábbi R. tartalmi követelményeinek megfelelő településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz elfogadására és módosítására 2027. június 30-ig van lehetőség. A 2021. június 30-ig elkészített fővárosi településfejlesztési koncepció, integrált településfejlesztési stratégia és településrendezési eszköz – a kerületi településtervek 2027. június 30-ig történő elkészítése érdekében – 2025. június 30-ig maradhat hatályban és módosítására eddig az időpontig van lehetőség.”
+
+(2) Az Étv. 60. §-a a következő (16) és (17) bekezdéssel egészül ki:
+
+„(16) Érvényes a 27. § (2) bekezdése szerinti szabályozási vonal, ha annak felülvizsgálatát nem végezték el a (15) bekezdésnek megfelelően, de a települési önkormányzat a (17) bekezdésben foglaltak szerint közzétett önkormányzati határozattal igazolja azt, hogy a közérdekű elrendelési indok továbbra is fennáll és a helyi építési szabályzat ezzel összefüggő módosítását nem tartja szükségesnek.
+
+(17) A (16) bekezdés szerinti önkormányzati határozatot a helyi építési szabályzat mellett a képviselő-testület hivatalos lapjában vagy a helyben szokásos – a szervezeti és működési szabályzatban a rendeletek kihirdetésére meghatározott – módon, továbbá az önkormányzat honlapján közzé kell tenni. A jegyző gondoskodik az önkormányzati határozat kormányhivatal részére történő megküldéséről.”
