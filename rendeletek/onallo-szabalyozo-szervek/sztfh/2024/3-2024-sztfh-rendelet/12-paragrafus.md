@@ -1,1 +1,3 @@
-12. § Az R3. 3. § (1) bekezdésében a „gyakorlati időt együttesen kell figyelembe venni” szövegrész helyébe a „gyakorlati időket össze kell számítani” szöveg lép.
+12. §[^13]
+
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

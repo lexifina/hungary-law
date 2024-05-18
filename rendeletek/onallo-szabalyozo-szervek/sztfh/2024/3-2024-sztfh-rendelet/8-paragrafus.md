@@ -1,7 +1,3 @@
-8. § Az R2.
+8. §[^9]
 
-a) 2. § (2) bekezdésében a „termelvényt (haszon- és meddőanyag)” szövegrész helyébe a „termelvényt” szöveg, a „jogosult végezni” szövegrész helyébe a „jogosult végezni a 2/A. §-ban meghatározott gyakorlati idő igazolásával” szöveg,
-
-b) 2. § (3) bekezdésében a „jogosult végezni” szövegrész helyébe a „jogosult végezni a 2/A. §-ban meghatározott gyakorlati idő igazolásával” szöveg
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
