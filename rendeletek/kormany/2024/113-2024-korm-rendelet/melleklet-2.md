@@ -1,5 +1,3 @@
-2. melléklet a 113/2024. (V. 14.) Korm. rendelethez
+2. melléklet a 113/2024. (V. 14.) Korm. rendelethez[^13]
 
-Az 568/2022. (XII. 23.) Korm. rendelet 10. melléklete a következő 40. ponttal egészül ki:
-
-„40. Digitális állampolgárság előregisztráció”
+[^13]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
