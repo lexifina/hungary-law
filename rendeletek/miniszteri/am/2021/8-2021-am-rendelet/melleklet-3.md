@@ -46,7 +46,7 @@
 
 ## 3. Minőségbiztosítás, jártassági vizsgálatok
 
-## 3.1. A szolgáltató laboratórium köteles évente egy alkalommal részt venni a nemzeti referencia laboratórium által szervezett vagy nemzetközi szervezésű, a vizsgálati tevékenységüket érintő jártassági vizsgálaton. A jártassági vizsgálat eredményét a rendszeres ellenőrzések során be kell mutatni a NÉBIH-nek.
+## 3.1.[^26] A szolgáltató laboratórium köteles évente egy alkalommal részt venni a nemzeti referencia laboratórium által szervezett vagy nemzetközi szervezésű, a vizsgálati tevékenységüket érintő jártassági vizsgálaton. A jártassági vizsgálat eredményét a rendszeres ellenőrzések során be kell mutatni a Nébih-nek.
 
 ## C) A talajvédelmi laboratóriumi vizsgálatokat végző szolgáltató laboratórium speciális működési feltételei
 
@@ -91,3 +91,5 @@ Az üzemi laboratórium működési feltételei
 5.3. talajvédelmi laboratóriumi vizsgálatokat végző laboratórium esetén a 2. melléklet C) rész 1. pontjában
 
 meghatározott feltételeknek.
+
+[^26]: A 2. melléklet B) rész 3. pont 3.1. alpontja a 31/2024. (V. 14.) AM rendelet 3. § c) pontja szerint módosított szöveg.

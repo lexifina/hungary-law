@@ -1,4 +1,4 @@
-13. § (1) Ha a növény-egészségügyi diagnosztikai, növényvédőszer-maradék és talajvédelmi vizsgálatokat végző laboratórium a megvizsgált mintában zárlati és egyéb, Magyarországon nem honos károsítót vagy határérték feletti kémiai szennyezettséget mutat ki, haladéktalanul, de legkésőbb a vizsgálat lezárását követő napon bejelenti a vizsgálat eredményét a NÉBIH és a vizsgálatot megrendelő részére.
+13. § (1)[^15] Ha a növény-egészségügyi diagnosztikai, növényvédőszer-maradék és talajvédelmi vizsgálatokat végző laboratórium a megvizsgált mintában zárlati és egyéb, Magyarországon nem honos károsítót vagy határérték feletti kémiai szennyezettséget mutat ki, haladéktalanul, de legkésőbb a vizsgálat lezárását követő napon bejelenti a vizsgálat eredményét a Nébih és a vizsgálatot megrendelő részére.
 
 (2) Az (1) bekezdés szerinti bejelentés legalább az alábbi adatokat tartalmazza:
 
@@ -10,7 +10,7 @@ c) a mért paraméter,
 
 d) a vizsgálati eredmény.
 
-(3) A növény-egészségügyi diagnosztikai, növényvédőszer-maradék és talajvédelmi vizsgálatokat végző laboratórium évente jelentést készít az elvégzett vizsgálatokról, amelyet a tárgyévet követő év január 31-éig megküld a NÉBIH részére.
+(3)[^16] A növény-egészségügyi diagnosztikai, növényvédőszer-maradék és talajvédelmi vizsgálatokat végző laboratórium évente jelentést készít az elvégzett vizsgálatokról, amelyet a tárgyévet követő év január 31-éig megküld a Nébih részére.
 
 (4) A (3) bekezdés szerinti jelentés tartalmazza:
 
@@ -23,3 +23,6 @@ c) – ha a megrendelő megadta – a minták származását az ország megjelö
 d) a vizsgált paraméterek felsorolását, az elvégzett vizsgálatok összes számát paraméterenként és
 
 e) a vizsgálati eredményt.
+
+[^15]: A 13. § (1) bekezdése a 31/2024. (V. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^16]: A 13. § (3) bekezdése a 31/2024. (V. 14.) AM rendelet 3. § a) pontja szerint módosított szöveg.

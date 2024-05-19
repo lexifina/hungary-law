@@ -16,4 +16,6 @@ ha a rendelkezésére álló információk alapján a szolgáltató laboratóriu
 
 (2) Ha az (1) bekezdés szerinti vizsgálat eredménye a vonatkozó szakmai iránymutatások vagy nemzetközi szabvány által végzett értékelés alapján nem megfelelő, a laboratóriumvezető az adott vizsgálattípus végzését felfüggeszti, és elrendeli a nem megfelelőség kivizsgálását, a hibajavító, illetve megelőző tevékenységek elvégzését, és az (1) bekezdés szerinti vizsgálattal ismételten ellenőrzi a vizsgálat megfelelő kivitelezését.
 
-(3) Ha a (2) bekezdés szerint az ismételt jártassági bizonyítás eredménye továbbra sem megfelelő a vonatkozó szakmai iránymutatások vagy nemzetközi szabvány által végzett értékelés alapján, a szolgáltató laboratórium haladéktalanul, de legkésőbb a vizsgálat lezárását követő napon bejelenti a NÉBIH részére a nem megfelelőséget. A bejelentés alapján a nem állami laboratórium működési engedélyét a NÉBIH az adott vizsgálat végzésére vonatkozó tevékenység tekintetében módosítja.
+(3)[^9] Ha a (2) bekezdés szerint az ismételt jártassági bizonyítás eredménye továbbra sem megfelelő a vonatkozó szakmai iránymutatások vagy nemzetközi szabvány által végzett értékelés alapján, a szolgáltató laboratórium haladéktalanul, de legkésőbb a vizsgálat lezárását követő napon bejelenti a Nébih részére a nem megfelelőséget. A bejelentés alapján a nem állami laboratórium működési engedélyét a Nébih az adott vizsgálat végzésére vonatkozó tevékenység tekintetében módosítja.
+
+[^9]: A 10. § (3) bekezdése a 31/2024. (V. 14.) AM rendelet 3. § b) pontja szerint módosított szöveg.
