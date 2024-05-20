@@ -1,1 +1,3 @@
-2. § A 8/2021. (III. 10.) AM rendelet az 1. melléklet szerinti 5. melléklettel egészül ki.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
