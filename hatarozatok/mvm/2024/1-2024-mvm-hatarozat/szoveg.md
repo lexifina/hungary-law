@@ -1,0 +1,3 @@
+A jogalkotásról szóló 2010. évi CXXX. törvény 11. §-a alapján, az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvény 62. § (7) bekezdésében foglalt jogkörömben eljárva a következő határozatot hozom:
+
+Megállapítottam, hogy az ATEV Fehérjefeldolgozó Zártkörűen Működő Részvénytársaság (székhely: 1097 Budapest, Illatos út 23.; adószám: 10893661-2-44) 25,87%-os társasági részesedése állami tulajdonba vételének cégjegyzékbe történő bejegyzésének napja 2024. május 15. napja, ezáltal az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvény 41. §-a, 42. §-a és 45. §-a hatálybalépésének naptári napja 2024. május 16., azaz kettőezerhuszonnégy május tizenhatodik napja.
