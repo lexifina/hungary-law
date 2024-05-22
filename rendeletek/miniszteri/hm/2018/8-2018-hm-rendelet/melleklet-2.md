@@ -30,8 +30,8 @@
 
 | 15. | legénységi állománycsoport | „A”–„B” fizetési osztály | 1,3 |
 
-2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^214]
+2. melléklet a 8/2018. (VI. 22.) HM rendelethez[^223]
 
 A NATO- és a nemzeti beosztást betöltők, a tartós külföldi szolgálatot teljesítő honvédelmi alkalmazottak, továbbá a tartós külföldi képzésben részt vevők ellátmányalapjának havi nettó összege és élhetőségi indexe országonként
 
-[^214]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja, a 19/2021. (IX. 21.) HM rendelet 11. §-a, a 26/2022. (XII. 28.) HM rendelet 2. § 16. pontja szerint módosított szöveg.
+[^223]: A 2. melléklet a 2/2019. (I. 31.) HM rendelet 37. § 37. pontja és 38. § b) pontja, a 19/2021. (IX. 21.) HM rendelet 11. §-a, a 26/2022. (XII. 28.) HM rendelet 2. § 16. pontja szerint módosított szöveg.

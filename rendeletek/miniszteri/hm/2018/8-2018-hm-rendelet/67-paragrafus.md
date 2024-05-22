@@ -1,6 +1,6 @@
 ## 38. Egyéb eljárási szabályok
 
-67. §[^124] (1) Az állomány tagja
+67. §[^131] (1) Az állomány tagja
 
 a) a külföldi tartózkodás várható időtartamával arányos külföldi napidíj-előlegre és
 
@@ -24,4 +24,4 @@ jogosult.
 
 (9) A (4) és (5) bekezdésben foglalt határidő be nem tartása esetén az illetékes pénzügyi ellátó szerv szervezetének vezetője írásban tájékoztatja a kiküldő szervezetet az állomány tagja elszámolásának elmaradásáról. Ha az állomány tagja – neki felróható okból – az ezt követő 10 napon belül sem számol el, az illetékes pénzügyi ellátó szerv az (1) bekezdés szerinti előlegeket a kiküldött havi illetményéből levonja.
 
-[^124]: A 67. § a 22/2023. (XII. 14.) HM rendelet 3. §-ával megállapított szöveg.
+[^131]: A 67. § a 22/2023. (XII. 14.) HM rendelet 3. §-ával megállapított szöveg.

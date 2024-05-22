@@ -42,7 +42,7 @@
 
 | 21. |  |  |  |  |  |
 
-8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^217]
+8. melléklet a 8/2018. (VI. 22.) HM rendelethez[^226]
 
 Az állomány ideiglenes külföldi szolgálatot teljesítő és ideiglenes külföldi képzésben részt vevő tagjai külföldi napidíjához tartozó kategóriák országonként
 
@@ -110,7 +110,7 @@ II. A II. kategóriába tartozó országok
 
 | 4. | Dominikai Köztársaság |
 
-| 5.[^218] |  |
+| 5.[^227] |  |
 
 | 6. | Észtország |
 
@@ -190,5 +190,5 @@ II. A II. kategóriába tartozó országok
 
 III. A III. kategóriába tartozó országok
 
-[^217]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
-[^218]: A 8. melléklet II. részében foglalt táblázat 5. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^226]: A 8. melléklet a 2/2019. (I. 31.) HM rendelet 38. § d) pontjával megállapított szöveg.
+[^227]: A 8. melléklet II. részében foglalt táblázat 5. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.

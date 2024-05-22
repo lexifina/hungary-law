@@ -1,3 +1,3 @@
-73. §[^132]
+73. §[^139]
 
-[^132]: A 73. §-t a 2/2019. (I. 31.) HM rendelet 39. § i) pontja hatályon kívül helyezte.
+[^139]: A 73. §-t a 2/2019. (I. 31.) HM rendelet 39. § i) pontja hatályon kívül helyezte.

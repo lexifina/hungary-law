@@ -1,6 +1,6 @@
 |  | A |
 
-| 1.[^219] |  |
+| 1.[^228] |  |
 
 | 2. | Angola |
 
@@ -18,17 +18,17 @@
 
 | 9. | Egyesült Arab Emírségek |
 
-| 10.[^220] |  |
+| 10.[^229] |  |
 
 | 11. | Franciaország |
 
 | 12. | Ghána |
 
-| 13.[^221] |  |
+| 13.[^230] |  |
 
-| 14.[^222] |  |
+| 14.[^231] |  |
 
-| 15.[^223] |  |
+| 15.[^232] |  |
 
 | 16. | Japán |
 
@@ -36,7 +36,7 @@
 
 | 18. | Kuba |
 
-| 19.[^224] |  |
+| 19.[^233] |  |
 
 | 20. | Libanon |
 
@@ -56,12 +56,12 @@
 
 | 28. | Vatikán |
 
-9. melléklet a 8/2018. (VI. 22.) HM rendelethez[^225]
+9. melléklet a 8/2018. (VI. 22.) HM rendelethez[^234]
 
-[^219]: A 8. melléklet III. részében foglalt táblázat 1. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^220]: A 8. melléklet III. részében foglalt táblázat 10. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^221]: A 8. melléklet III. részében foglalt táblázat 13. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^222]: A 8. melléklet III. részében foglalt táblázat 14. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^223]: A 8. melléklet III. részében foglalt táblázat 15. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^224]: A 8. melléklet III. részében foglalt táblázat 19. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
-[^225]: A 9. mellékletet a 2/2019. (I. 31.) HM rendelet 39. § j) pontja hatályon kívül helyezte.
+[^228]: A 8. melléklet III. részében foglalt táblázat 1. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^229]: A 8. melléklet III. részében foglalt táblázat 10. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^230]: A 8. melléklet III. részében foglalt táblázat 13. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^231]: A 8. melléklet III. részében foglalt táblázat 14. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^232]: A 8. melléklet III. részében foglalt táblázat 15. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^233]: A 8. melléklet III. részében foglalt táblázat 19. sorát a 22/2023. (XII. 14.) HM rendelet 7. §-a hatályon kívül helyezte.
+[^234]: A 9. mellékletet a 2/2019. (I. 31.) HM rendelet 39. § j) pontja hatályon kívül helyezte.

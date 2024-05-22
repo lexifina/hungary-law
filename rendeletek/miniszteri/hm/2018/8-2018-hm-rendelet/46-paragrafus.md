@@ -6,14 +6,14 @@ b) az adott béketámogató művelet Egységes Műveleti Szabályaiban foglaltak
 
 időtartamát.
 
-(1a)[^102] Az állomány tagja az egészségügyi szabadsága időtartamára, de legfeljebb az egészségügyi szabadság 90. napjáig, az állomáshelyen tartózkodása alatt az ellátmány 80%-ára jogosult. Az egészségügyi szabadság 90. napját követő időre az állomány tagja ellátmányának folyósítását meg kell szüntetni.
+(1a)[^108] Az állomány tagja az egészségügyi szabadsága időtartamára, de legfeljebb az egészségügyi szabadság 90. napjáig, az állomáshelyen tartózkodása alatt az ellátmány 80%-ára jogosult. Az egészségügyi szabadság 90. napját követő időre az állomány tagja ellátmányának folyósítását meg kell szüntetni.
 
-(1b)[^103] Az (1a) bekezdéstől eltérően, ha az állomány tagja nincs szállítható állapotban, az egészségügyi szabadság 90. napját meghaladóan az állomáshelyen töltött időre, de legfeljebb hazaszállításáig az ellátmány 50%-a illeti meg.
+(1b)[^109] Az (1a) bekezdéstől eltérően, ha az állomány tagja nincs szállítható állapotban, az egészségügyi szabadság 90. napját meghaladóan az állomáshelyen töltött időre, de legfeljebb hazaszállításáig az ellátmány 50%-a illeti meg.
 
-(1c)[^104] Az (1a) bekezdéstől eltérően az állomány tagja a tartózkodás helyétől függetlenül, a külföldi szolgálat megszüntetéséig az ellátmány 100%-ára jogosult, ha az egészségügyi szabadság szolgálati kötelmekkel összefüggő baleset vagy betegség következménye.
+(1c)[^110] Az (1a) bekezdéstől eltérően az állomány tagja a tartózkodás helyétől függetlenül, a külföldi szolgálat megszüntetéséig az ellátmány 100%-ára jogosult, ha az egészségügyi szabadság szolgálati kötelmekkel összefüggő baleset vagy betegség következménye.
 
 (2) Ha az állomány tagja részére a külföldi szolgálat alatt parancsban az eredetitől eltérő beosztás ellátását írják elő, részére a parancsban meghatározott naptól kezdődően az új beosztása szerint megállapított külszolgálati ellátmányt kell folyósítani.
 
-[^102]: A 46. § (1a) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
-[^103]: A 46. § (1b) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
-[^104]: A 46. § (1c) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
+[^108]: A 46. § (1a) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
+[^109]: A 46. § (1b) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
+[^110]: A 46. § (1c) bekezdését a 3/2021. (I. 14.) HM rendelet 7. §-a iktatta be.
