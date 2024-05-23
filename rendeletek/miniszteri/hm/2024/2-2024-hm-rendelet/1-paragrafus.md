@@ -1,3 +1,3 @@
-1. § A külföldi szolgálatot teljesítők egyes járandóságairól szóló 8/2018. (VI. 22.) HM rendelet (a továbbiakban: R.) 2. § (5) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(5) A felszámítási alap összege 53 785 forint.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
