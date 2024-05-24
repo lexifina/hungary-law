@@ -1,3 +1,1 @@
-7. § Az At. 59. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Ha a születési nevet érintő adatváltozás esetén a kérelmező házasságára vagy bejegyzett élettársi kapcsolatára, valamint kiskorú gyermekének születésére vonatkozó papír alapú anyakönyvi bejegyzés az elektronikus anyakönyvben nem szerepel, a kérelem benyújtásának helye szerinti anyakönyvvezető megkeresi az érintett eseményt nyilvántartó anyakönyvvezetőt az anyakönyvi esemény elektronikus anyakönyvbe történő bejegyzése érdekében. A megkeresett nyilvántartó anyakönyvvezető a papír alapú anyakönyvi bejegyzés adatainak az elektronikus anyakönyvbe történő bejegyzéséről a megkereséstől számított nyolc napon belül gondoskodik, és erről értesíti a megkeresőt.”
+### 7. §

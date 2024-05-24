@@ -5,15 +5,3 @@
 (2) A 16. § 2024. június 1-jén lép hatályba.
 
 (3) A 7. §, 10. §, 11. § és a 14. § 2025. június 1-jén lép hatályba.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
