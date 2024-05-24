@@ -43,3 +43,5 @@ h) a b) pont ba), bf), bg) és bi) alpontjában foglalt adatok esetén a család
 (3) Az (1) bekezdés b) pont be) alpontjában meghatározott adat nem változtatható meg.
 
 (4) Az anyakönyvbe korábban bejegyzett, a szülő nemének és ahhoz kapcsolódóan az utónevének a megváltozása a gyermek személyazonosító adatainál nem vezethető át adatváltozásként.
+
+(5) Amennyiben az érintett születési anyakönyvi bejegyzése vagy a személyiadat- és lakcímnyilvántartás az érintett anyjának születési családi és utónevét az elhalt anyja születési anyakönyvi bejegyzésétől eltérő adatokkal tartalmazza, az érintett kérelmezheti, hogy az anyja nevét a személyiadat- és lakcímnyilvántartás vagy a személyazonosító igazolványa által igazolt adattal jegyezzék be.

@@ -1,6 +1,6 @@
 89. § (1)
 
-(2)
+(2) Az anyakönyvi szerv, valamint a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az 1980. december 31-ig vezetett anyakönyvben található bejegyzés lezárásáról a bejegyzés folyószámának és az anyakönyv azonosító adatainak továbbításával, papír alapú anyakönyvenkénti bontásban évente, március hó utolsó napjáig az illetékes közlevéltárat az elektronikus anyakönyvi nyilvántartás informatikai rendszeréből kiállított jegyzékkel értesíti.
 
 (3) Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv – a személyiadat- és lakcímnyilvántartás hatálya alá tartozó nem magyar állampolgár kivételével – a nem magyar állampolgár halálesetének anyakönyvezéséről a 69/B. § (1) bekezdés a) pontjában, b) pont ba)–bc), bf) és bh) alpontjában, valamint a 69/F. § (1) bekezdés a) pontjában foglalt adatok továbbításával értesíti a központi idegenrendészeti nyilvántartást vezető szervet, menedékes vagy befogadott jogállású személy esetén pedig a menekültügyi hatóságot. Az anyakönyvvezető vagy a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv az idegenrendészeti hatóság által kiállított, tartózkodásra jogosító engedélyt az eljárása során bevonja, és azt az anyakönyvi értesítéshez csatolja.
 

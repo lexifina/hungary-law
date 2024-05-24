@@ -24,4 +24,4 @@ h) a mezőgazdasági igazgatási szerv a támogatások igénybevételének hozz�
 
 (5) Az állandó személyazonosító igazolvány kiadása céljából az eljáró hatóság az elektronikus anyakönyvből közvetlen hozzáféréssel jogosult átvenni a személy származási helyét, ha annak az állandó személyazonosító igazolványon történő feltüntetését a polgár kérelmezte.
 
-(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (10) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.
+(6) Az útlevélhatóság – saját, illetve közreműködői feladatellátása érdekében – a külföldre utazásról szóló 1998. évi XII. törvény 7. § (7a) bekezdése alapján kérelmezett magánútlevél kiadása céljából, az elektronikus anyakönyvből a kérelmező nemzetiséghez tartozó személy nevét nemzetiségi nyelven közvetlen hozzáféréssel átveszi.

@@ -12,7 +12,7 @@ a) bejelenti – a kormányrendeletben meghatározott adatok megküldésével �
 
 b) továbbítja a hivatalos statisztikáról szóló törvény végrehajtásáról szóló rendeletben meghatározott, intézetben rögzített születési statisztikai adatokat,
 
-c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat, valamint
+c) továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött – kivéve titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén – hivatalból kiadásra kerülő állandó személyazonosító igazolványához szükséges adatokat.
 
 d)
 

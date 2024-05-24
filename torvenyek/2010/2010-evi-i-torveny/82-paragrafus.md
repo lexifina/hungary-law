@@ -8,7 +8,7 @@
 
 (1d) A nyilvántartó szerv a 27. § (3) bekezdésében meghatározott esetben, valamint ha a hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiadásának akadálya van, haladéktalanul törli a hivatalból kiállításra kerülő személyazonosság igazolására alkalmas hatósági igazolványok kiállításához felvételezett arcképmást, aláírást, valamint – jogszabályban meghatározott esetben – az ujjnyomatot.
 
-(2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az ellenkező bizonyításáig az anyakönyvet kell hitelesnek tekinteni.
+(2) Ha az anyakönyv és a személyiadat- és lakcímnyilvántartás adattartalma eltér, az e törvényben foglalt eltérő rendelkezés hiányában, ellenkező bizonyításig az anyakönyvet kell hitelesnek tekinteni.
 
 (3) Törvény eltérő rendelkezése hiányában az anyakönyvvezető és a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv a papír alapú anyakönyvbe, valamint az anyakönyvi alapiratokba történő betekintésről, a papír alapú anyakönyvből történő adatátvételről, valamint a papír alapú anyakönyvi alapiratról történő másolat készítéséről hivatalos feljegyzést készít, amely tartalmazza a betekintő személy nevét, azt, hogy mely állami vagy önkormányzati szerv nevében jár el, valamint a betekintés célját és jogalapját.
 
