@@ -6,7 +6,7 @@
 
 (3) Bölcsődei ellátás keretében a sajátos nevelési igényű gyermek, valamint a korai fejlesztésre és gondozásra jogosult gyermek nevelése és gondozása is végezhető.
 
-(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet a többi gyermekkel közös bölcsődei csoportban vagy speciális bölcsődei csoportban.
+(3a) A sajátos nevelési igényű, illetve korai fejlesztésre és gondozásra jogosult gyermek bölcsődei ellátása történhet teljes integráció keretében a többi gyermekkel közös bölcsődei csoportban vagy részleges integráció keretében speciális bölcsődei csoportban a Bölcsődei nevelés-gondozás országos alapprogramjában foglaltak szerint.
 
 (4) A bölcsődei ellátás keretében az (1) bekezdés szerinti ellátáson túl – szolgáltatásként – speciális tanácsadás, időszakos gyermekfelügyelet, gyermekhotel működtetése vagy más gyermeknevelést segítő szolgáltatás is biztosítható. Ezeket a szolgáltatásokat a gyermek hatodik életévének betöltéséig lehet igénybe venni.
 

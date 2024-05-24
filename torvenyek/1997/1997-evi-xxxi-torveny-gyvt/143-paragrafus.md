@@ -24,4 +24,4 @@ járul hozzá.
 
 (5) A központi költségvetésről szóló törvényben biztosított támogatással történő támogatás szakmai céloknak megfelelő módját és mértékét a költségvetési törvény határozza meg.
 
-(6) A kincstár közreműködik a Gazdaságfejlesztési és Innovációs Operatív Programból származó támogatások célzott és ellenőrzött kihelyezésében.
+(6) A kincstár közreműködik a kisgyermeket nevelők munkaerőpiaci visszatérésének célzott támogatására irányuló, továbbadott támogatási programból származó támogatások célzott és ellenőrzött kihelyezésében.

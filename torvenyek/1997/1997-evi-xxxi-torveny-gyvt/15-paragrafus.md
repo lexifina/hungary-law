@@ -110,7 +110,7 @@ kell alkalmazni.
 
 (14) A pedagógus-munkakörben foglalkoztatott személyt és a pedagógus-munkakörből nyugdíjba vonult személyt a pedagógusok új életpályájáról szóló 2023. évi LII. törvény szerinti pedagógusigazolvány illeti meg.
 
-(15) A pedagógus-munkakörben foglalkoztatott személyt a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
+(15) A pedagógus-munkakörben foglalkoztatott személyt évi huszonegy munkanap alapszabadság, és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben foglaltak szerint pótszabadság illeti meg.
 
 (16) A (2) bekezdés b) pontjában meghatározott gyermekek napközbeni ellátását nyújtó bölcsőde, mini bölcsőde, a (3) bekezdésben meghatározott gyermekvédelmi szakellátást nyújtó intézmény és az (5) bekezdésben meghatározott javítóintézeti ellátást nyújtó intézmény vezetője
 

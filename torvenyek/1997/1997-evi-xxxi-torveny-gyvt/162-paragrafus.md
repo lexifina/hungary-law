@@ -40,7 +40,7 @@ q) a gyermekvédelmi gondoskodással, a családbafogadással, a szülői felügy
 
 r) a védelembe vételhez kapcsolódóan a családi pótlék természetbeni formában történő nyújtására, folyósításának felfüggesztésére, a folyósítás felfüggesztésének megszüntetésére, valamint a családi pótlék szüneteltetésének kezdeményezésére irányuló eljárásra, továbbá a felfüggesztés és a szüneteltetés felülvizsgálatára és a családtámogatási folyószámlán rendelkezésre álló összeg felhasználására vonatkozó részletes szabályokat,
 
-s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes szabályait,
+s) az egyházi fenntartók és a nem állami fenntartók által igénybe vehető, központi költségvetésről szóló törvényben biztosított támogatás igénylésének, folyósításának, elszámolásának és ellenőrzésének részletes, felhasználásának egyéb kiegészítő szabályait,
 
 sz) a gyámhatósági eljárásnak a megelőző pártfogás elrendelésére, felülvizsgálatára, az azzal kapcsolatos döntések meghozatalára és végrehajtására irányuló szabályait,
 
