@@ -1,3 +1,1 @@
-9. §[^10]
-
-[^10]: A 9. § a 38. § (3) bekezdés alapján 2024. május 24-én lép hatályba.
+9. § Az R2. Melléklete helyébe az 1. melléklet lép.
