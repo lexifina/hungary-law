@@ -6,9 +6,9 @@ a) születési helyét,
 
 b) születési idejét,
 
-c)[^10] születési családi és utónevét, ezek hiányában születési családi vagy utónevét, azonos születési nemű ikergyermekek esetén legalább a születési utónevét,
+c)[^12] születési családi és utónevét, ezek hiányában születési családi vagy utónevét, azonos születési nemű ikergyermekek esetén legalább a születési utónevét,
 
-d)[^11] születési nemét,
+d)[^13] születési nemét,
 
 e) anyja születési családi és utónevét.
 
@@ -24,7 +24,7 @@ d) az elhalt személy születési idejét,
 
 e) az elhalt személy születési családi és utónevét.
 
-(3)[^12] Ha a gyermek születését azért nem lehet anyakönyvezni, mert sem születési családi, sem utóneve nem ismert, az anyakönyvvezető haladéktalanul értesíti a gyámhatóságot. Az anyakönyvvezető a gyámhatóság határozata alapján jegyzi be az anyakönyvbe a gyermek születésével összefüggő adatokat.
+(3)[^14] Ha a gyermek születését azért nem lehet anyakönyvezni, mert sem születési családi, sem utóneve nem ismert, az anyakönyvvezető haladéktalanul értesíti a gyámhatóságot. Az anyakönyvvezető a gyámhatóság határozata alapján jegyzi be az anyakönyvbe a gyermek születésével összefüggő adatokat.
 
 (4) Ha a haláleset bejelentésével összefüggésben a (2) bekezdés c)–e) pontjában foglalt adatok nem válnak ismertté, a rendőrség feladat- és hatáskörrel rendelkező szervének értesítése alapján az ismeretlen holttest anyakönyvezésének szabályait kell alkalmazni.
 
@@ -32,6 +32,6 @@ e) az elhalt személy születési családi és utónevét.
 
 (6) Mindkét házastárs vagy mindkét bejegyzett élettárs halála esetén, ha a halottvizsgálati bizonyítványból az elhalálozás sorrendje nem állapítható meg, az anyakönyvvezető a családi állapotra vonatkozó adatot nem jegyzi be.
 
-[^10]: A 10. § (1) bekezdés c) pontja a 315/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^11]: A 10. § (1) bekezdés d) pontja a 315/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg.
-[^12]: A 10. § (3) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^12]: A 10. § (1) bekezdés c) pontja a 315/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^13]: A 10. § (1) bekezdés d) pontja a 315/2020. (VII. 1.) Korm. rendelet 9. § (1) bekezdés b) pontjával megállapított szöveg.
+[^14]: A 10. § (3) bekezdése a 745/2021. (XII. 21.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.

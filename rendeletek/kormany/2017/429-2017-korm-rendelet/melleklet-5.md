@@ -1,4 +1,4 @@
-5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^34]
+5. melléklet a 429/2017. (XII. 20.) Korm. rendelethez[^36]
 
 A születés bejelentésének adattartalma
 
@@ -54,7 +54,7 @@ A születés bejelentésének adattartalma
 
 5.7. elérhetőségéről (telefonszám, e-mail-cím).
 
-6.[^35]
+6.[^37]
 
 7. Az egyes vagy ikerszülés ténye, ha ikerszülés, a gyermek hányadikként született.
 
@@ -70,5 +70,5 @@ A születés bejelentésének adattartalma
 
 13. Intézeten kívüli szülés esetén az anyakönyvvezető neve és aláírása, a szervet megjelölő azonosító.
 
-[^34]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^35]: Az 5. melléklet 6. pontját a 113/2024. (V. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^36]: Az 5. mellékletet a 745/2021. (XII. 21.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^37]: Az 5. melléklet 6. pontját a 113/2024. (V. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
