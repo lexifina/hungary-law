@@ -1,0 +1,9 @@
+## „p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében, továbbá az anyakönyvbe korábban bejegyzett ä betű és az annak mellőzése miatt kialakult névviselés rendezése,”
+
+2. § Az At. 43. §-a a következő (3)–(5) bekezdéssel egészül ki:
+
+„(3) Elhalt magyar állampolgár esetén, amennyiben a születési anyakönyvi bejegyzése vagy a házassági anyakönyvi bejegyzése, valamint a személyiadat- és lakcímnyilvántartás adatai a születési név tekintetében eltérnek, az elektronikus anyakönyvbe történő bejegyzés során úgy kell eljárni, mintha számára korábban névváltoztatást engedélyeztek volna. A születési nevet, illetve a házassági nevet érintő adatváltozás időpontja ilyen esetben megegyezik a házasságkötés időpontjával, vagy ennek hiányában a haláleset időpontjával.
+
+(4) Az elhalt magyar állampolgár házastársa vagy leszármazója kérelmezheti, hogy az elektronikus anyakönyvbe bejegyzett adatokat az elhalt személy születését nyilvántartó anyakönyvvezető a (3) bekezdés rendelkezései alapján vizsgálja felül. A születést nyilvántartó anyakönyvvezető az adatváltozás anyakönyvbe történő bejegyzésével egyidejűleg az adatváltozásról haladéktalanul értesíti az elhalt személy házasságát, továbbá a halálesetét nyilvántartó anyakönyvvezetőt.
+
+(5) Amennyiben az elhalt magyar állampolgár külföldön történt születését a Magyarországon őrzött papír alapú anyakönyv nem tartalmazza, az elhalt magyar állampolgár születési nevét a házassági anyakönyvi bejegyzése, ennek hiányában a személyiadat- és lakcímnyilvántartás vagy – azon személy esetében, akinek az adatait a személyiadat- és lakcímnyilvántartás sem tartalmazza – a magyar útlevél igazolja.”
