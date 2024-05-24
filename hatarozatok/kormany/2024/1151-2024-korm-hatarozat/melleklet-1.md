@@ -74,30 +74,15 @@
 
 ## 4. A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Törvény) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – az 1.1–1.2. alpontban meghatározott fejlesztéseket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti a Törvény rendelkezéseinek alkalmazása alól.
 
-## 5. A Térségi fejlesztési feladatokhoz szükséges kötelezettségvállalásokról szóló 1023/2022. (I. 27.) Korm. határozat [a továbbiakban: 1023/2022. (I. 27.) Korm. határozat] 1. pontja a következő 1.21. alponttal egészül ki:
+## 5.[^1]
 
-## (A Kormány, tekintettel)
+## 6.[^2]
 
-## „1.21. Ács város iparterületének és térségének fejlesztéséhez szükséges infrastruktúra-fejlesztések támogatásáról és a források biztosításáról szóló 1151/2024. (V. 23.) Korm. határozatra”
+## 7.[^3]
 
-## (a következőkről dönt.)
+1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^4]
 
-## 6. Az 1023/2022. (I. 27.) Korm. határozat a következő 5. ponttal egészül ki:
-
-## „5. A Kormány az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter a 2024. évben az Ács város iparterületének és térségének fejlesztéséhez szükséges infrastruktúra-fejlesztések támogatásáról és a források biztosításáról szóló 1151/2024. (V. 23.) Korm. határozat végrehajtása érdekében legfeljebb 15 173 960 000 forint értékig szabad előirányzatot meghaladó mértékben kötelezettséget vállaljon a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím terhére.”
-
-## 7. Az 1023/2022. (I. 27.) Korm. határozat 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz
-
-Az 1023/2022. (I. 27.) Korm. határozat 1. mellékletében foglalt táblázat a következő 21. sorral egészül ki:
-
-|  | [A | B | C | D | E | F | G | H | I | J |
-
-| 1. | Kapcsolódó kormányhatározat | 2021. évi költségvetési év (nettó forint) | 2022. évi költségvetési év (nettó forint) | 2023. évi költségvetési év (nettó forint) | 2024. évi költségvetési év (nettó forint) | 2025. évi költségvetési év (nettó forint) | 2026. évi költségvetési év (nettó forint) | 2027. évi költségvetési év (nettó forint) | 2028. évi költségvetési év (nettó forint) | Összesen (nettó forint)] |
-
-„
-
-| 21. | 1151/2024. (V. 23.) Korm. határozat | 0 | 0 | 0 | 15 173 960 000 | 14 351 000 000 | 0 | 0 | 0 | 29 524 960 000 |
-
-”
+[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
