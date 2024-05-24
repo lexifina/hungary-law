@@ -1,7 +1,19 @@
-30. § (1) A támogatás keretében a magasabb környezetvédelmi szint eléréséhez közvetlenül kapcsolódó beruházási költség számolható el.
+30. § (1) A támogatás keretében a teljes beruházási költség számolható el, és a támogatás nem függhet a termelés eredményétől.
 
-(2) Ha a környezetvédelmi beruházási költség a beruházás összköltségén belül külön beruházásként vagy egy már működő létesítmény új, jól azonosítható többletkomponenseként meghatározható, ezen beruházás költsége számolható el.
+(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
-(3) Ha az elszámolható költség a (2) bekezdés szerint nem határozható meg, a támogatott beruházás költségének és egy, a támogatás hiányában hitelt érdemlően megvalósítható hasonló, kevésbé környezetbarát beruházás költségének a különbsége számolható el.
+a) 45%-át a megújulóenergia-termelésre – ideértve az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat –, megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelésre és megújuló hidrogén termelésre irányuló beruházások esetében,
 
-(4) Ha kisméretű létesítmény esetén nem létezik a (3) bekezdés szerinti hasonló, kevésbé környezetbarát beruházás, a magasabb környezetvédelmi szintet megvalósító teljes beruházási költség számolható el.
+b) 30%-át minden egyéb esetben.
+
+(3) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
+
+(4) A támogatás az elszámolható költségek 100%-áig nyújtható, ha a támogatást olyan versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
+
+a) az eljárást objektív, világos, átlátható és megkülönböztetésmentes, a tényleges verseny lehetővé tétele érdekében előzetesen meghatározott és az ajánlatok benyújtásának határideje előtt legalább 6 héttel közzétett kritériumok alapján dolgozzák ki,
+
+b) – ha a támogatási program végrehajtása során valamennyi ajánlattevő támogatásban részesül, és újabb ajánlattételi eljárás kiírására kerül sor – az eredeti ajánlattételi eljárást a tényleges verseny helyreállítása céljából az újabb ajánlattételi eljárásban igazítják ki, többek között a költségvetés vagy a mennyiség csökkentésével,
+
+c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítása, így különösen az ajánlatok eredményével kapcsolatos utólagos tárgyalás, és
+
+d) az ajánlatok rangsorolásához – végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg.

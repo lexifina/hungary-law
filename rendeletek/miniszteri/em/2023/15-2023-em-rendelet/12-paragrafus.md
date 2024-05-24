@@ -1,5 +1,5 @@
-12. § Ha a támogatás formája vissza nem térítendő támogatás – ideértve a sajáttőke-befektetést és a kvázisajáttőke-befektetést is –, kamatlábcsökkentés vagy kezességvállalásidíj-csökkentés, annak bruttó támogatási egyenértéke nem haladhatja meg
+12. § Ha a támogatás formája vissza nem térítendő támogatás – ideértve a sajáttőke-befektetést és a kvázisajáttőke-befektetést is –, adókedvezmény, adómentesség, kamatlábcsökkentés vagy kezességvállalási díjcsökkentés, annak bruttó támogatási egyenértéke nem haladhatja meg
 
-a) a négyszázezer eurót, vagy
+a) az ötszázezer eurót,
 
-b) az Atr. 25. § (1) bekezdése szerinti régióban letelepedett vállalkozás esetén a nyolcszázezer eurót.
+b) az Atr. 25. § (1) bekezdése szerinti területen letelepedett vállalkozás esetén az egymillió eurót.

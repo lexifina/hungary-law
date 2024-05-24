@@ -1,11 +1,7 @@
-22. § (1) A támogatás keretében
+22. § (1) A 21. § (1) bekezdésétől eltérően a teljes beruházási költség elszámolható, ha a támogatott beruházás
 
-a) az alkalmazandó uniós szabvány túlteljesítéséhez közvetlenül kapcsolódó beruházási költség, valamint
+a) egy már meglévő létesítmény kiegészítő alkotóelemének telepítéséből áll, amelynek esetében nem azonosítható kevésbé környezetbarát alternatív forgatókönyv, vagy
 
-b) uniós szabvány hiányában a környezetvédelem szintjének emeléséhez közvetlenül kapcsolódó beruházási költség
+b) a 20. § (6)–(8) bekezdése szerinti hidrogént, hulladékhőt vagy szén-dioxidot szállító dedikált energetikai infrastruktúra kiépítését foglalja magában, amely a környezetvédelem szintjének 20. § (9) és (11) bekezdése szerinti növeléséhez szükséges.
 
-számolható el.
-
-(2) Ha a környezetvédelmi beruházáshoz kapcsolódó költség a beruházás összköltségén belül külön beruházásként meghatározható, e beruházás költsége számolható el.
-
-(3) Ha az elszámolható költség a (2) bekezdés alapján nem határozható meg, a támogatott beruházás költségének és egy, a támogatás hiányában hitelt érdemlően megvalósítható hasonló, kevésbé környezetbarát beruházás költségének a különbsége számolható el.
+(2) Az (1) bekezdés b) pontja szerinti esetben a teljes beruházási költség keretében nem számolhatók el a tárolólétesítmények építésének vagy korszerűsítésének költségei, a megújuló hidrogén és hidrogén tárolására szolgáló, a 20. § (8) bekezdése szerinti létesítmények kivételével.

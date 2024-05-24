@@ -1,21 +1,29 @@
-## 25. A hulladék-újrafeldolgozáshoz és -újrahasználathoz nyújtott beruházási támogatás
+## 25.[^112] Erőforrás-hatékonyságra és a körforgásos gazdaságra való átállás támogatására irányuló beruházási támogatás
 
-53. § (1) A hulladék-újrafeldolgozáshoz és -újrahasználathoz nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) más vállalkozás által termelt hulladék újrafeldolgozásához és újrahasználatához nyújtható, ha a támogatott beruházás technológiája meghaladja az általánosan elterjedt, nyereségesen alkalmazható technológiát.
+53. § (1) Az erőforrás-hatékonyságra és körforgásos gazdaságra való átállásra irányuló beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a (2)–(5) bekezdés szerinti beruházásokhoz nyújtható.
 
-(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 35%-át.
+(2) Támogatás nyújtható erőforrás-hatékonyságot javító beruházáshoz, ha
 
-(3) A támogatási intenzitás a 21. § (2) és (3) bekezdése szerint növelhető.
+a) a beruházás adott mértékű termelés érdekében felhasznált erőforrások nettó csökkenését eredményezi a kedvezményezett által alkalmazott korábbi termelési folyamathoz vagy az 53/B. § (2) bekezdésében foglalt alternatív forgatókönyv szerinti projektekhez vagy tevékenységekhez képest, vagy
 
-(4) A támogatás keretében a támogatott beruházás beruházási költsége és a támogatás hiányában megvalósítható, azonos kapacitású, hagyományos eljárást alkalmazó hulladék-újrahasznosító vagy -újrafelhasználó létesítmény megvalósításához szükséges beruházási költség különbsége számolható el.
+b) a beruházás az elsődleges nyersanyagok vagy alapanyagok másodlagos – újrahasznált, hasznosított vagy újrafeldolgozott – nyersanyagokkal vagy alapanyagokkal történő helyettesítésére irányul.
 
-(5) A támogathatóság feltétele, hogy a beruházás hiányában a beruházás eredményeként újrafeldolgozott vagy újrahasznált anyagok ártalmatlanításra kerülnének vagy kevésbé környezetbarát módon kerülnének hasznosításra.
+(3) Támogatás nyújtható a kedvezményezett által termelt olyan hulladék megelőzésére, csökkentésére vagy a kedvezményezett vagy harmadik fél által termelt olyan hulladék újrahasználatra való előkészítésére, szennyeződésmentesítésére és újrafeldolgozásra irányuló beruházáshoz, ha a beruházás hiányában
 
-(6) Nem nyújtható támogatás
+a) a hulladékot egyébként nem használnák fel, nem ártalmatlanítanák,
 
-a) az újrafeldolgozástól eltérő hulladékhasznosítási tevékenységekre és
+b) a hulladékot a 2008/98/EK irányelv 4. cikk (1) bekezdése szerinti hulladékhierarchia elsőbbségi sorrendjében hátrébb elhelyezkedő kezelési művelettel vagy kevésbé erőforrás-hatékony módon kezelnék, vagy
 
-b) a kedvezményezett saját hulladékának újrafeldolgozását és újrahasználatát szolgáló beruházásokra.
+c) az újrafeldolgozás alacsonyabb minőségű termékhez vezetne.
 
-(7) A támogatás közvetetten sem mentesítheti a szennyezőt az uniós környezetvédelmi felelősségi szabályok alapján viselendő terhek és a normál üzletvitel körébe tartozó költségek viselése alól.
+(4) Támogatás nyújtható a kedvezményezett vagy harmadik fél által termelt egyéb termékek vagy anyagok összegyűjtésére, válogatására, szennyeződésmentesítésére, előkezelésére és kezelésére irányuló beruházáshoz, ha ezen termékeket vagy anyagokat egyébként nem használnák fel, vagy kevésbé erőforrás-hatékony módon hasznosítanák.
 
-(8) A beruházás nem eredményezheti az újrafeldolgozandó anyagok iránti kereslet emelkedését a gyűjtési tevékenység növelése nélkül.
+(5) Támogatás nyújtható hulladék elkülönített gyűjtésére és válogatására irányuló beruházáshoz újrahasználatra való előkészítés vagy újrafeldolgozás érdekében.
+
+(6) A (2) bekezdés a) pontja esetén
+
+a) a felhasznált erőforrások magukban foglalnak minden felhasznált nyersanyag-erőforrást, kivéve az energiát,
+
+b) a felhasznált erőforrások nettó csökkenését a támogatási intézkedés végrehajtása előtti és utáni fogyasztás mérése vagy becslése alapján kell meghatározni, figyelemmel az erőforrás felhasználását befolyásoló külső körülmények alapján történő kiigazításra is.
+
+[^112]: A 25. alcím (53–53/B. §) a 9/2024. (V. 23.) EM rendelet 12. §-ával megállapított szöveg.

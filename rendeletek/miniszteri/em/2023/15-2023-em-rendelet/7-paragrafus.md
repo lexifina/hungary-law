@@ -1,5 +1,3 @@
-7. § A 6. § 10. pontja szerinti esetben a beruházáshoz igényelt összes állami támogatás nem haladhatja meg
+7. §[^76]
 
-a) azt a minimális összeget, amellyel a beruházás kellően nyereségessé válik ahhoz, hogy azt a beruházó megvalósítsa, vagy
-
-b) azt a többletköltséget, ami a beruházásnak az adott helyszínen történő megvalósítására tekintettel merült fel az alternatív – más, a beruházás megvalósításának helyszínéhez képest fejlettebb régióban található – helyszínhez viszonyítva, azzal, hogy a fejlettség szintjét a regionális támogatási térkép szerinti maximális támogatási intenzitás alapján kell meghatározni.
+[^76]: A 7. §-t a 9/2024. (V. 23.) EM rendelet 19. § d) pontja hatályon kívül helyezte.

@@ -1,0 +1,1 @@
+40/A. § A kétmillió-kétszázezer eurónak megfelelő forintösszeget meg nem haladó támogatás esetén a támogatás összege a 39. § (2) és (3) bekezdésében, valamint a 40. § (3) és (4) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladja meg az elszámolható költségek 80%-át.

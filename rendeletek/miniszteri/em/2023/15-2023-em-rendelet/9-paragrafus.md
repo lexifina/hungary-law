@@ -1,13 +1,23 @@
-## 5. Az induló vállalkozásnak nyújtott támogatás
+## 5.[^80] Az induló vállalkozásnak nyújtott támogatás
 
-9. § (1) Induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azon legfeljebb öt éve bejegyzett, tőzsdén nem jegyzett kisvállalkozás részére nyújtható, amely teljesíti az alábbi feltételeket:
+9. § (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) támogatási program keretében azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
 
-a) nem vette át egy másik vállalkozás tevékenységét,
+a) legfeljebb öt éve került bejegyzésre,
 
-b) még nem osztott fel nyereséget, és
+b) még nem osztott fel nyereséget,
 
-c) nem összefonódás útján jött létre.
+c) nem egy másik vállalkozás tevékenységét vette át, kivéve, ha az átvett tevékenység árbevétele a kedvezményezett árbevételének kevesebb mint 10%-át tette ki az átvételt megelőző pénzügyi évben,
 
-(2) Azon vállalkozás esetén, amely nem kerül hivatalos bejegyzésre, az ötéves támogathatósági időszak kezdetének az az időpont tekinthető, amikor a vállalkozás megkezdi gazdasági tevékenységét, vagy amikor gazdasági tevékenysége alapján adóztathatóvá válik.
+d) nem felvásárlás útján jött létre, kivéve, ha a felvásárolt vállalkozás árbevétele a kedvezményezett által a felvásárlást megelőző pénzügyi évben elért árbevételnek kevesebb mint 10%-át teszi ki, és
 
-(3) Az (1) bekezdés c) pontjától eltérően az (1) bekezdés alapján támogathatónak minősülő vállalkozások közötti összefonódás útján létrejött vállalkozások az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésének időpontjától számított legfeljebb öt évig támogathatónak minősülnek.
+e) nem összefonódás útján jött létre, kivéve, ha
+
+ea) az összefonódás útján létrejövő vállalkozás árbevétele kevesebb mint 10%-kal haladja meg az összefonódó vállalkozások által az összefonódást megelőző pénzügyi évben elért összesített árbevételt, vagy
+
+eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétől számított öt év még nem telt el.
+
+(2) Azon kedvezményezett esetében, amelyet nem kell bejegyezni, az (1) bekezdés a) pontja és e) pont eb) alpontja szerinti ötéves támogathatósági időszak kezdete az az időpont, amikor a vállalkozás megkezdi gazdasági tevékenységét, vagy amikor gazdasági tevékenysége alapján adóztathatóvá válik, attól függően, hogy melyik a korábbi időpont.
+
+(3) Ezen alcím keretében támogatás pénzügyi közvetítőn keresztül nem nyújtható.
+
+[^80]: Az 5. alcím (9–13. §) a 9/2024. (V. 23.) EM rendelet 5. §-ával megállapított szöveg.

@@ -1,21 +1,21 @@
-25. § (1) A 24. § (4) bekezdésétől eltérően az elszámolható költség a nagyobb energiahatékonyság eléréséhez szükséges teljes beruházási költség, ha a beruházás
+25. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
-a) lakóépületben valósul meg,
+(2) Az (1) bekezdés szerinti támogatási intenzitás
 
-b) oktatási vagy szociális szolgáltatásnyújtásra szolgáló épületben valósul meg,
+a) középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal és
 
-c) a közigazgatáshoz, az igazságszolgáltatáshoz, a rendvédelemhez vagy a tűzoltási tevékenységekre vagy ezen tevékenységekhez kapcsolódó tevékenységekre használt épületben valósul meg, vagy
+b) az Atr. 25. § (1) bekezdése szerinti területen megvalósuló beruházás esetén 15 százalékponttal
 
-d) olyan épületben valósul meg, amelyben az a)–c) pontban meghatározott tevékenységektől eltérő tevékenységek a belső alapterület kevesebb mint 35%-át foglalják el.
+növelhető.
 
-(2) Az (1) bekezdés alkalmazásának feltétele, hogy az energiahatékonysági célú beruházás a beruházás előtti primerenergia-igény legalább 20%-os csökkenését eredményezze, új épület esetén pedig a közel nulla energiaigényű épületekre vonatkozóan, az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv (a továbbiakban: 2010/31/EU európai parlamenti és tanácsi irányelv) szerint meghatározott küszöbértékhez képest legalább 10% primerenergia-megtakarítást biztosítson.
+(3) A támogatás az elszámolható költségek 100%-áig nyújtható, ha a támogatást olyan versenyeztetéses ajánlattételi eljárásban ítélik oda, amely esetén
 
-(3) A (2) bekezdés szerinti kezdeti primerenergia-igényt és annak becsült javulását a 2010/31/EU európai parlamenti és tanácsi irányelv 2. cikk 12. pontjában meghatározott energiahatékonysági tanúsítványra való hivatkozással kell megállapítani.
+a) az eljárást objektív, világos, átlátható és megkülönböztetésmentes, a tényleges verseny lehetővé tétele érdekében előzetesen meghatározott és az ajánlatok benyújtásának határideje előtt legalább 6 héttel közzétett kritériumok alapján dolgozzák ki,
 
-(4) Az (1) bekezdésben meghatározott épületekben végrehajtott, a (2) és (3) bekezdés feltételeinek megfelelő energiahatékonysági célú beruházás elszámolható költsége növelhető
+b) – ha a támogatási program végrehajtása során valamennyi ajánlattevő támogatásban részesül, és újabb ajánlattételi eljárás kiírására kerül sor – az eredeti ajánlattételi eljárást a tényleges verseny helyreállítása céljából az újabb ajánlattételi eljárásban igazítják ki, többek között a költségvetés vagy a mennyiség csökkentésével,
 
-a) a megújuló energiaforrásból villamos energiát vagy hőt termelő integrált helyszíni létesítmények beruházási költségeivel,
+c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítása, így különösen az ajánlatok eredményével kapcsolatos utólagos tárgyalás, és
 
-b) az épületet használók elektromos gépjárműveinek feltöltésére szolgáló, az épületbe beépített berendezések és a kapcsolódó infrastruktúra beruházási költségeivel vagy
+d) az ajánlatok rangsorolásához – végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a projektnek a támogatási intézkedés környezetvédelmi célkitűzéseihez való hozzájárulása – így különösen a megtakarított energia vagy a megnövelt energiahatékonyság egy egysége után igényelt támogatás – alapján határozzák meg.
 
-c) az épület digitalizációját – elsősorban az épület okosfunkció-fogadási alkalmasságának növelését – célzó beruházások költségeivel, ideértve adathálózatok esetén az épületen vagy az épülethez tartozó telken belül a passzív hálózat vagy a strukturált kábelezés költségeit is.
+(4) A 24. § (8) bekezdése szerinti esetben az (1) és (2) bekezdésben meghatározott támogatási intenzitások 50%-kal csökkennek.

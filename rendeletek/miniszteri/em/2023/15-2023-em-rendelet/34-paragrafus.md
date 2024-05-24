@@ -1,19 +1,5 @@
-## 15. Az energetikai célú infrastruktúrához nyújtott beruházási támogatás
+34. § (1) A támogatás keretében a teljes beruházási költség elszámolható.
 
-34. § (1) Az energetikai célú infrastruktúrához nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) az Atr. 25. § (1) bekezdése szerinti támogatott területeken energetikai célú infrastruktúra létrehozásához, korszerűsítéséhez és bővítéséhez nyújtható.
+(2) A támogatási intenzitás nem haladhatja meg a finanszírozási hiány 100%-át, azzal, hogy a támogatásnak a támogatott projekt megvalósításához minimálisan szükséges összegre kell korlátozódnia.
 
-(2) A támogatás összege nem haladhatja meg az elszámolható költségek és a támogatott infrastruktúra működési eredménye közötti különbséget.
-
-(3) A működési eredmény mértékét
-
-a) megalapozott előrejelzések alapján kell meghatározni, és előzetesen vagy
-
-b) visszafizetési mechanizmus alkalmazásával utólag
-
-kell levonni az elszámolható költségekből.
-
-(4) A támogatás keretében a beruházás költsége számolható el.
-
-(5) Az energetikai célú infrastruktúrának a belső energiapiaci szabályozással összhangban lévő teljes körű tarifa- és hozzáférési szabályozás hatálya alá kell tartoznia.
-
-(6) Nem nyújtható támogatás villamosenergia- és gáztározóprojektekhez, valamint kőolaj-infrastruktúrához kapcsolódó beruházáshoz.
+(3) A (2) bekezdéstől eltérően, ha a támogatás összege versenyeztetéses ajánlattételi eljárás útján kerül meghatározásra, a finanszírozási hiány kiszámítása során a nettó többletköltség részletes értékelése nem szükséges.

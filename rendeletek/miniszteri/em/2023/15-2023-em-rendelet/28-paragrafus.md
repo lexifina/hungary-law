@@ -1,15 +1,21 @@
-28. § (1) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
+28. § (1) A támogatási intenzitás nem haladhatja meg
 
-a) 45%-át a 30. § (2) és (3) bekezdése esetén,
+a) a b) és c) pontban foglaltak kivételével az elszámolható költségek 30%-át,
 
-b) 30%-át a 30. § (4) bekezdése esetén.
+b) a 26. § (5) bekezdés b) pontja szerinti esetben az elszámolható költségek 25%-át,
 
-(2) A támogatási intenzitás
+c) – ha az uniós szabványnak minősülő energiahatékonysági minimumszabványnak való megfelelés érdekében végzett beruházáshoz nyújtott támogatást kevesebb, mint 18 hónappal az uniós szabvány hatálybalépése előtt nyújtják –
 
-a) középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal,
+ca) a 26. § (5) bekezdés b) pontja szerinti esetben az elszámolható költségek 15%-át,
 
-b) – az a) pontban meghatározott mértéken túl – az Atr. 25. § (1) bekezdése szerinti régióban megvalósuló beruházás esetén 15 százalékponttal növelhető.
+cb) a ca) alpontba nem tartozó minden más esetben az elszámolható költségek 20%-át.
 
-(3) Ha a támogatást egyértelmű, átlátható és megkülönböztetésmentes kritériumok alapján kidolgozott valódi versenyeztetésen alapuló, megkülönböztetésmentes, valamennyi érdekelt vállalkozás részvételét lehetővé tevő ajánlattételi eljárás keretében nyújtják, a támogatás az elszámolható költségek 100%-áig nyújtható.
+(2) Az (1) bekezdés szerinti támogatási intenzitás
 
-(4) Ha az ajánlattételi eljárás korlátozott költségvetése miatt nem részesülhet valamennyi ajánlattevő támogatásban, a támogatás kizárólag az ajánlattevők ajánlatának megfelelően nyújtható, a későbbi tárgyalás lehetőségének kizárásával.
+a) a 25. § (2) bekezdése szerint és
+
+b) a 26. § (5) bekezdés a) pontja szerinti esetben, ha a támogatás az épület primer energiában mért energiahatékonyságának legalább 40%-os javulását eredményezi a beruházás előtti helyzethez képest, 15 százalékponttal
+
+növelhető.
+
+(3) A (2) bekezdés b) pontja nem alkalmazható abban az esetben, ha a beruházás a megvalósításától számított 18 hónapon belül nem javítja az épület energiahatékonyságát az uniós szabványnak minősülő energiahatékonysági minimumkövetelmények által előírt szint fölé.

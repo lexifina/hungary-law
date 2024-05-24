@@ -1,7 +1,3 @@
-## 13. A megújuló energia termeléséhez nyújtott beruházási támogatás
+27. § (1) A támogatás keretében a teljes beruházási költség számolható el, azzal, hogy az épületben megvalósuló magasabb energiahatékonysági szint eléréséhez közvetlenül nem kapcsolódó költségek nem számolhatók el.
 
-27. § (1) A megújuló energia termeléséhez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag új berendezéshez nyújtható.
-
-(2) Bioüzemanyag előállításához abban az esetben nyújtható támogatás, ha a beruházás fenntartható bioüzemanyag előállítására irányul.
-
-(3) A (2) bekezdéstől eltérően támogatás nyújtható meglévő élelmiszer-alapú bioüzemanyag-előállító egység új generációs bioüzemanyag-előállító egységgé történő átalakítására, ha ennek következtében az élelmiszer-alapú termelés a kialakítandó új kapacitással arányosan csökken.
+(2) A 26. § (2) bekezdése szerinti esetben az ott meghatározott létesítmények és berendezések teljes beruházási költsége számolható el, azzal, hogy a magasabb energiahatékonysági szint vagy környezeti teljesítményszint eléréséhez közvetlenül nem kapcsolódó költségek nem számolhatók el.
