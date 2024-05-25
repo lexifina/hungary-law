@@ -1,1 +1,3 @@
-22. § Hatályát veszti a fejezeti kezelésű előirányzatok és a központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 14/2019. (VI. 12.) ITM rendelet.
+22. §[^21]
+
+[^21]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

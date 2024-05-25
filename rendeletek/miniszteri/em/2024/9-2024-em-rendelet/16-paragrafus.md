@@ -1,3 +1,3 @@
-16. § A Rendelet 63. §-a a következő f) ponttal egészül ki:
+16. §[^17]
 
-(E rendelet)
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
