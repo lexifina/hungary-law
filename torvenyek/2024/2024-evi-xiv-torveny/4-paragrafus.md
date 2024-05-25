@@ -1,3 +1,1 @@
-4. § Az At. 45. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az elektronikus anyakönyvbe magyar állampolgárnak – a (2) bekezdésben foglalt kivétellel – két utónevet lehet bejegyezni. Annak a magyar állampolgárnak, akinek a papír alapú születési anyakönyvi bejegyzése kettőnél több utónevet tartalmaz, a személyiadat- és lakcímnyilvántartásban szereplő egy vagy két utónevet kell bejegyezni. Annak a magyar állampolgárnak, akinek az adatait a személyiadat- és lakcímnyilvántartás nem tartalmazza, írásban nyilatkoznia kell, hogy melyik két utónevét vagy kizárólagosan melyik utónevét kívánja viselni.”
+### 4. §

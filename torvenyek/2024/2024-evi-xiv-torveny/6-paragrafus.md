@@ -1,5 +1,1 @@
-6. § Az At. 55. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
-
-„(1a) Az ä betű helyett eltérő betűvel bejegyzett születési családi nevet, házassági nevet viselő személy családi név korrekciójára irányuló eljárásban kérheti a saját vagy az egyenes ági felmenője születési anyakönyvi bejegyzésében szereplő ä betű bejegyzését. Az elektronikus anyakönyvbe történő bejegyzést megelőzően, az anyakönyvvezető erre irányuló felhívásának kézhezvételétől számított tizenöt napon belül az érintett nyilatkozatával kérheti családi nevének korrekcióját. Ha az érintett úgy nyilatkozik, hogy az anyakönyvbe korábban bejegyzett ä betűt tartalmazó családi nevet nem kívánja viselni, vagy nem tesz nyilatkozatot, az ä betű anyakönyvbe történő bejegyzését mellőzni kell. A családi név korrekciója iránti eljárás a határidő lejártát követően is bármikor kérelmezhető.
-
-(1b) Az (1a) bekezdéstől eltérően az anyakönyvvezető mellőzi a nyilatkozattételre történő felhívást, amennyiben az érintett személy személyiadat- és lakcímnyilvántartásba bejegyzett családi neve tartalmazza az ä betűt. Az anyakönyvvezető ebben az esetben hivatalból, a személyiadat- és lakcímnyilvántartás által igazolt adattal jegyzi be a családi név korrekcióját.”
+### 6. §
