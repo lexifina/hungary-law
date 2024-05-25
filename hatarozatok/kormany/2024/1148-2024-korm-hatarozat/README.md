@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1148-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-05-24 | 2024-1148-30-22.1 | 1148/2024. (V. 23.) Korm. határozat |
+| 2024-05-25 | 2024-1148-30-22.2 | 2010. évi CXXX. törvény |
