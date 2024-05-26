@@ -24,7 +24,7 @@ vonatkozó – külön jogszabályban meghatározott – egyes előírások beta
 
 a) az (1) bekezdés a)–c) és e)–h) pontja szerinti esetben 13 000 forinttól 390 000 forintig,
 
-b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 040 000 forintig
+b) az (1) bekezdés d) és i) pontja szerinti esetben 13 000 forinttól 1 500 000 forintig
 
 terjedő közigazgatási bírságot kell kiszabni. Az egyes rendelkezések megsértése esetén kiszabható bírságok összegét a Kormány rendeletben határozza meg. Amennyiben egy cselekménnyel több előírást szegnek meg és azt egy eljárásban bírálják el, a kiszabandó bírság összegét az egyes szabályszegésekhez rendelt bírságösszegek összegeként kell megállapítani.
 

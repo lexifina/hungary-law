@@ -18,7 +18,7 @@ c) akinek vezetői engedélyét a közúti közlekedési előéleti pontrendszer
 
 (6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha
 
-a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az a vezetői engedély visszavonásával nem jár;
+a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki;
 
 b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
