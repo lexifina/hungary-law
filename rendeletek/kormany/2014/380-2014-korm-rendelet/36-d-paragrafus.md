@@ -1,4 +1,4 @@
-## 12/D.[^126] Partnerségalakításhoz nyújtott támogatás
+## 12/D.[^136] Partnerségalakításhoz nyújtott támogatás
 
 36/D. § (1) A partnerségalakításhoz nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) olyan társfinanszírozott partnerségalakításhoz nyújtható, amelyet a Horizont 2020 keretprogram vagy a Horizont Európa keretprogram szabályainak megfelelő transznacionális felhívások keretében, független szakértők általi értékelés és rangsorolás alapján választottak ki és legalább két tagállam társfinanszírozásában valósul meg.
 
@@ -20,4 +20,4 @@ c) az infrastruktúrának több felhasználó számára hozzáférhetőnek kell 
 
 (7) A támogatási intenzitás túllépésének elkerülése érdekében ellenőrzési és visszakövetelési mechanizmust kell alkalmazni.
 
-[^126]: A 12/D. alcímet (36/D. §-t) a 434/2022. (XI. 2.) Korm. rendelet 14. §-a iktatta be.
+[^136]: A 12/D. alcímet (36/D. §-t) a 434/2022. (XI. 2.) Korm. rendelet 14. §-a iktatta be.

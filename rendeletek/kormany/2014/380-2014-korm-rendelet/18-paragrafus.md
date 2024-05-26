@@ -18,7 +18,7 @@ d) az ingatlan, gép, berendezés bérleti díjának a fenntartási időszak vé
 
 (3) Az elszámolható költség az (1) bekezdés b) pontja szerinti esetben a beruházás üzembe helyezését követő háromszor háromszázhatvanöt napon belül újonnan létrehozott munkahelyeken foglalkoztatott munkavállalók – Sztv. 79. §-a szerint elszámolható – személyi jellegű ráfordításának 24 havi összege a munkakör betöltésének napjától számítva, ide nem értve az egyéb személyi jellegű kifizetéseket.
 
-(3a)[^92] A (2) bekezdés c) pontja szerinti esetben ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
+(3a)[^101] A (2) bekezdés c) pontja szerinti esetben ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
 (4) A tárgyi eszköz bérletéhez kapcsolódó költség elszámolható, ha
 
@@ -26,13 +26,13 @@ a) a földterületre vagy épületre vonatkozó bérleti jogviszony nagyvállalk
 
 b) a pénzügyi lízing formájában beszerzett üzemre, gépre, berendezésre vonatkozó szerződés tartalmazza az eszköznek a bérleti időtartam lejáratakor történő megvásárlására vonatkozó kötelezettséget.
 
-(4a)[^93]
+(4a)[^102]
 
-(4b)[^94]
+(4b)[^103]
 
-(4c)[^95]
+(4c)[^104]
 
-(4d)[^96]
+(4d)[^105]
 
 (5) Tárgyi eszköz esetén az elszámolható költséget a szokásos piaci áron kell figyelembe venni, ha az a beruházó és a beruházótól nem független harmadik vállalkozás között a szokásos piaci ártól eltérő áron kötött szerződés alapján merült fel.
 
@@ -54,17 +54,17 @@ f) azok költsége nagyvállalkozás esetén az elszámolható költségek legfe
 
 a) a szinten tartást szolgáló tárgyi eszköz és immateriális javak költsége,
 
-b)[^97] a kérelem benyújtásának napja előtt felmerült költség, ráfordítás.
+b)[^106] a kérelem benyújtásának napja előtt felmerült költség, ráfordítás.
 
-c)[^98]
+c)[^107]
 
-d)[^99]
+d)[^108]
 
-e)[^100]
+e)[^109]
 
 (8) Az (1) bekezdés b) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
-a)[^101] a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
+a)[^110] a beruházás a kedvezményezett vállalkozásnál foglalkoztatottak számának nettó növekedését eredményezi a beruházás megkezdését megelőző 12 hónap átlagához képest, azt követően, hogy a megszüntetett munkahelyek száma levonásra került a b) pont szerinti időszak alatt létrehozott munkahelyek számából,
 
 b) a munkahelyeket a beruházás befejezésétől számított három éven belül betöltik,
 
@@ -72,16 +72,16 @@ c) kis- és középvállalkozás esetén a beruházó a beruházás megkezdések
 
 d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már létező, továbbá a beruházással létrejött új munkahelyeket a munkahely első betöltésétől számított legalább öt évig az érintett területen fenntartja.
 
-(9)[^102]
+(9)[^111]
 
-[^92]: A 18. § (3a) bekezdését a 673/2023. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
-[^93]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
-[^94]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
-[^95]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
-[^96]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
-[^97]: A 18. § (7) bekezdés b) pontja a 673/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^98]: A 18. § (7) bekezdés c) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
-[^99]: A 18. § (7) bekezdés d) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
-[^100]: A 18. § (7) bekezdés e) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
-[^101]: A 18. § (8) bekezdés a) pontja a 673/2023. (XII. 29.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
-[^102]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § i) pontja hatályon kívül helyezte.
+[^101]: A 18. § (3a) bekezdését a 673/2023. (XII. 29.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^102]: A 18. § (4a) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^103]: A 18. § (4b) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^104]: A 18. § (4c) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^105]: A 18. § (4d) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (1) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § g) pontja hatályon kívül helyezte.
+[^106]: A 18. § (7) bekezdés b) pontja a 673/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^107]: A 18. § (7) bekezdés c) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^108]: A 18. § (7) bekezdés d) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^109]: A 18. § (7) bekezdés e) pontját a 673/2023. (XII. 29.) Korm. rendelet 21. § h) pontja hatályon kívül helyezte.
+[^110]: A 18. § (8) bekezdés a) pontja a 673/2023. (XII. 29.) Korm. rendelet 20. § 16. pontja szerint módosított szöveg.
+[^111]: A 18. § (9) bekezdését a 434/2022. (XI. 2.) Korm. rendelet 12. § (2) bekezdése iktatta be, a 673/2023. (XII. 29.) Korm. rendelet 21. § i) pontja hatályon kívül helyezte.

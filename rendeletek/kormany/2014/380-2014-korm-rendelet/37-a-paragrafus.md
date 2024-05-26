@@ -1,4 +1,4 @@
-## 13/A.[^128] Tesztelési és kísérleti infrastruktúrára nyújtott beruházási támogatás
+## 13/A.[^138] Tesztelési és kísérleti infrastruktúrára nyújtott beruházási támogatás
 
 37/A. § (1) A tesztelési és kísérleti infrastruktúrára nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) keretében a tárgyi eszközök és az immateriális javak költsége számolható el.
 
@@ -16,4 +16,4 @@ c) 5 százalékponttal növelhető olyan tesztelési és kísérleti infrastrukt
 
 (5) A tesztelési és kísérleti infrastruktúrához való hozzáférésre és az infrastruktúra beruházási költségeit legalább 10%-ban finanszírozó vállalkozás esetén a 37. § (5) és (6) bekezdésében foglaltak megfelelően alkalmazandóak.
 
-[^128]: A 13/A. alcímet (37/A. §-t) a 673/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^138]: A 13/A. alcímet (37/A. §-t) a 673/2023. (XII. 29.) Korm. rendelet 15. §-a iktatta be.

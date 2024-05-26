@@ -1,4 +1,4 @@
-36. §[^122] (1) A támogatási intenzitás nem haladhatja meg
+36. §[^132] (1) A támogatási intenzitás nem haladhatja meg
 
 a) alapkutatás esetén az elszámolható költségek 100%-át,
 
@@ -34,4 +34,4 @@ bb) a projekt legalább két – nagyvállalkozás esetén három – tagállamb
 
 bc) az a) pont ac) vagy ad) alpontja szerinti feltétel teljesül, azzal, hogy az ac) alpont esetén az eredmények széles körű terjesztésének legalább három tagállamban vagy az EGT-megállapodásban szerződő fél területén kell megvalósulnia.
 
-[^122]: A 36. § a 673/2023. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^132]: A 36. § a 673/2023. (XII. 29.) Korm. rendelet 13. §-ával megállapított szöveg.

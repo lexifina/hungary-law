@@ -1,4 +1,4 @@
-16. §[^89] Nem nyújtható támogatás
+16. §[^98] Nem nyújtható támogatás
 
 a) acélipari tevékenységhez,
 
@@ -12,4 +12,4 @@ e) a 12. § 1. pontjában meghatározott esetben lignitipari tevékenységhez, v
 
 f) szélessávú ágazatban végzett tevékenységhez.
 
-[^89]: A 16. § a 673/2023. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^98]: A 16. § a 673/2023. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

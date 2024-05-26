@@ -1,6 +1,6 @@
 ## 11. Az induló vállalkozásnak nyújtott támogatás
 
-29. §[^107] (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
+29. §[^117] (1) Az induló vállalkozásnak nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) azon tőzsdén nem jegyzett kisvállalkozás (ezen alcím alkalmazásában a továbbiakban: kedvezményezett) részére nyújtható, amely
 
 a) legfeljebb öt éve került bejegyzésre,
 
@@ -20,4 +20,4 @@ eb) az összefonódásban részt vevő legrégebbi vállalkozás bejegyzésétő
 
 (3) Ezen alcím keretében támogatás pénzügyi közvetítőn keresztül nem nyújtható.
 
-[^107]: A 29. § a 673/2023. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^117]: A 29. § a 673/2023. (XII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
