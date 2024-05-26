@@ -2,9 +2,9 @@
 
 a)
 
-b)
+b) 20. § (4) bekezdésében az „1 040 000” szövegrész helyébe az „1 500 000” szöveg,
 
-c)
+c) 21. § (2) bekezdés b) pontjában az „1 040 000” szövegrész helyébe az „1 500 000” szöveg,
 
 d)
 
