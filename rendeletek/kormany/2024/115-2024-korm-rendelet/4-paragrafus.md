@@ -1,0 +1,5 @@
+4. § A Korm. rendelet 10. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az egy projekthez több forrásból igénybe vett összes állami támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – mértéke nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
+
+(4) Amennyiben a 10–11. és 19. alcím szerinti támogatás, a 651/2014/EU bizottsági rendelet 8. cikk (4) bekezdésében meghatározott támogatás nem rendelkezik azonosítható elszámolható költségekkel, a támogatás bármely egyéb, azonosítható elszámolható költségekkel rendelkező állami támogatással halmozható. Az azonosítható elszámolható költségekkel nem rendelkező támogatás a csoportmentességi rendeletekben és az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb teljes finanszírozási határértékig bármilyen más, azonosítható elszámolható költségekkel nem rendelkező állami támogatással halmozható.”
