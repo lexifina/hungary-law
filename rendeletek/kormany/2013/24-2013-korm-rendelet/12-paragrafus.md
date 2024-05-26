@@ -8,4 +8,6 @@
 
 (5) Az EKÖP ösztöndíjprogram keretösszegének egyes felsőoktatási intézmények közötti felosztásáról – az EKÖP Tanács javaslata alapján – az NKFIH elnöke a tárgyévet megelőző év szeptember 30-ig dönt, amelyet az NKFIH a honlapján a keretelosztás módszertanával együtt közzétesz.
 
-(6) Az NKFIH elnökének (5) bekezdés szerint döntése tartalmazza az EKÖP alapkeret és a kooperatív doktori keret közötti megoszlást is.
+(6)[^7] Az NKFIH elnökének (5) bekezdés szerinti döntése tartalmazza az EKÖP alapkeret és a kooperatív doktori keret közötti megoszlást, valamint a felsőoktatási intézményeknek az ösztöndíjprogram lebonyolítására fordítható keretét is.
+
+[^7]: A 12. § (6) bekezdése a 114/2024. (V. 23.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-1. melléklet a 24/2013. (II. 5.) Korm. rendelethez[^28]
+1. melléklet a 24/2013. (II. 5.) Korm. rendelethez[^34]
 
-[^28]: Az 1–2. mellékletet a 170/2016. (VII. 1.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.
+[^34]: Az 1–2. mellékletet a 170/2016. (VII. 1.) Korm. rendelet 3. § e) pontja hatályon kívül helyezte.

@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-24-20-2
 | 2022-07-01 | 2013-24-20-22.17 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-07-01 | 2013-24-20-22.18 | 246/2023. (VI. 22.) Korm. rendelet |
 | 2024-01-01 | 2013-24-20-22.19 | 673/2023. (XII. 29.) Korm. rendelet |
+| 2024-05-26 | 2013-24-20-22.20 | 114/2024. (V. 23.) Korm. rendelet |

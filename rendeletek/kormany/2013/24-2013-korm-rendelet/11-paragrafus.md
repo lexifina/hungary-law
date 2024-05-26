@@ -24,4 +24,6 @@ c) a kutatási tevékenységének eredményét népszerűsíti.
 
 (7) Az EKÖP ösztöndíjas jogviszony időtartama 5–12 hónap. A kooperatív doktori képzésben részt vevő hallgatók esetében az EKÖP ösztöndíjas jogviszony időtartama legalább 24, legfeljebb 48 hónap.
 
-(8) Az ösztöndíjas jogviszony időtartamának kezdő időpontja a tárgyév szeptember 1-je.
+(8)[^6] Az ösztöndíjas jogviszony időtartamának kezdő időpontja a tárgyév február 1-je vagy szeptember 1-je.
+
+[^6]: A 11. § (8) bekezdése a 114/2024. (V. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
