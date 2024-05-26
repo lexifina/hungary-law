@@ -70,3 +70,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-97-00-00
 | 2024-01-01 | 2023. évi CVII. törvény | 1995-97-00-00.89 |
 | 2024-04-01 | 2023. évi CVII. törvény | 1995-97-00-00.91 |
 | 2024-05-13 | 2024. évi XXVI. törvény | 1995-97-00-00.94 |
+| 2024-05-26 | 2024. évi XXVI. törvény | 1995-97-00-00.95 |
