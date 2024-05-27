@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-115-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-05-26 | 2024-115-20-22.1 | 115/2024. (V. 23.) Korm. rendelet |
+| 2024-05-27 | 2024-115-20-22.2 | 2010. évi CXXX. törvény |
