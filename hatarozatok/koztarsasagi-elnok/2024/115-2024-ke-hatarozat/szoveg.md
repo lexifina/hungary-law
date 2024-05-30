@@ -1,0 +1,15 @@
+Az Alaptörvény 9. cikk (4) bekezdés f) pontja, illetve a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény 17. §-a és 18. § (1) bekezdése alapján – a miniszterelnök előterjesztésére –
+
+Yacov Hadas-Handelsman, Izrael Állam magyarországi rendkívüli és meghatalmazott nagykövete részére
+
+a magyar–izraeli politikai, gazdasági és kulturális kapcsolatok fejlesztése terén, valamint a magyarországi zsidóság érdekében végzett kiemelkedő munkája elismeréseként
+
+a MAGYAR ÉRDEMREND
+
+parancsnoki keresztje
+
+polgári tagozat
+
+kitüntetést adományozom.
+
+SP ügyszám: SP/2932-3/2024
