@@ -8,7 +8,7 @@
 
 3. elhanyagolható meg nem felelés: az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer, valamint a feltételességhez kapcsolódó közigazgatási szankciók alkalmazása és kiszámítása tekintetében történő kiegészítéséről szóló, 2022. május 4-i (EU) 2022/1172 felhatalmazáson alapuló bizottsági rendelet 9. cikk (4) bekezdése szerinti meg nem felelés;
 
-4. erózió veszélyeztetett terület: a Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) lehatárolásra került 12%-nál nagyobb lejtésű, valamint egyéb erózióval érintett területeket meghatározó fedvény szerinti terület;
+4.[^1] erózió veszélyeztetett terület: a Mezőgazdasági Parcella Azonosító Rendszerben (a továbbiakban: MePAR) lehatárolásra került, 12%-nál nagyobb lejtésű, valamint egyéb erózióval érintett területeket meghatározó fedvény szerinti terület, ide nem értve a kizárólag deflációs kockázatnak kitett területet;
 
 5. gondatlanság: a kedvezményezett, illetve az általa igénybe vett közreműködője, képviselője magatartása, ha az a 16. pont szerint nem minősíthető szándékos magatartásnak;
 
@@ -38,9 +38,9 @@
 
 18. talajtakarásos parlag: adott tárgyévre vonatkozóan támogatható területen elhelyezkedő olyan, 3. melléklet szerinti növénnyel borított szántóterület, amelyen a pihentetési időszakban semmilyen növénykultúrát nem vetnek vagy telepítenek és nem takarítanak be, és amelyen kizárólag tisztító kaszálást, mechanikai gyomirtást és szárzúzást végezhetnek;
 
-19. talajtakarás nélküli pihentetett terület: adott tárgyévre vonatkozóan támogatható területen elhelyezkedő olyan szántóterület, amelyen január 1. és július 14. között semmilyen növénykultúrát nem vetnek vagy telepítenek és nem takarítanak be, és amelyen kizárólag a tisztító kaszálást és a mechanikai gyomirtást végezhetnek;
+19.[^2] talajtakarás nélküli pihentetett terület: adott tárgyévre vonatkozóan támogatható területen elhelyezkedő olyan szántóterület, amelyen január 1. és július 14. között semmilyen növénykultúrát nem vetnek vagy telepítenek – kivéve a július 15. utáni talajtakarást szolgáló talajelőkészítést és vetést vagy telepítést a június 15. és július 14. közötti időszakban – és nem takarítanak be, és amelyen kizárólag tisztító kaszálást és mechanikai gyomirtást végezhetnek;
 
-20. vadvirágos keverék: olyan, legalább három fajból álló keverék, amelynek összetevőit az Egységes kérelem rendelet 1. melléklete vagy a 2. melléklet, továbbá a 4. melléklet tartalmazza úgy, hogy az ott felsorolt fajok aránya a teljes keveréken belül legalább a 10 százalékot eléri;
+20.[^3] vadvirágos keverék: olyan, legalább három fajból álló keverék, amelynek összetevőit az Egységes kérelem rendelet 1. melléklete vagy a 2. melléklet, továbbá a 4. melléklet tartalmazza úgy, hogy az ott felsorolt fajok magdarabszámaránya a teljes keveréken belül legalább a 10 százalékot eléri;
 
 21. víz alatt álló kultúra: rizs, indiánrizs;
 
@@ -51,3 +51,7 @@
 24. zárlati károsító: a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/2031 európai parlamenti és tanácsi rendelet 3. cikkében meghatározott feltételeknek megfelelő károsító;
 
 25. zöldugar: olyan, fennálló állandó vagy többéves zöldnövényi borítottság, amelyet az 5. melléklet szerinti legalább három faj – amelyből egy évelő szálas pillangós – vetésével alakítottak ki.
+
+[^1]: Az 1. § 4. pontja a 33/2024. (V. 30.) AM rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 19. pontja a 33/2024. (V. 30.) AM rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 20. pontja a 33/2024. (V. 30.) AM rendelet 39. § a) pontja szerint módosított szöveg.

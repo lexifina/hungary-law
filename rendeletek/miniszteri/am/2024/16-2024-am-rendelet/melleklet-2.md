@@ -68,6 +68,10 @@
 
 | 34. | Mezei borsó (Pisum arvense) | egyéves |
 
+| 35.[^8] | Orvosi somkóró (Melilotus officinalis) | egyéves |
+
 2. melléklet a 16/2024. (IV. 9.) AM rendelethez
 
 Az ökológiai jelentőségű másodvetések fajlistája
+
+[^8]: Az 1. mellékletben foglalt táblázat 35. sorát a 33/2024. (V. 30.) AM rendelet 37. §-a iktatta be.
