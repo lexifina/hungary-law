@@ -4,7 +4,7 @@
 
 1. § E rendelet alkalmazásában
 
-1. aktív mezőgazdasági termelő: a Közös Agrárpolitika Stratégiai Terv az Európai Mezőgazdasági Garanciaalapjából finanszírozott közvetlen támogatások igénybevételéhez kapcsolódó aktív mezőgazdasági termelői minőség követelményeiről szóló AM rendelet (a továbbiakban: Aktív gazda rendelet) szerinti mezőgazdasági termelő;
+1.[^1] aktív mezőgazdasági termelő: a Közös Agrárpolitika Stratégiai Tervből finanszírozott egyes támogatások igénybevételéhez kapcsolódó aktív mezőgazdasági termelői minőség követelményeiről szóló AM rendelet (a továbbiakban: Aktív gazda rendelet) szerinti mezőgazdasági termelő;
 
 2. anyatehén: olyan húshasznú fajtához tartozó vagy húshasznú fajtával való keresztezésből született nőivarú szarvasmarhaféle vagy nőivarú bivaly, amely
 
@@ -23,3 +23,5 @@ b) nyolc hónapnál idősebb és még nem ellett;
 7. történelmi bázis: a történelmi bázis jogosultságról szóló 106/2007. (IX. 24.) FVM rendelet 1. § b) pontja szerinti termelési egység mértéke;
 
 8. történelmi bázisjogosultság: a mezőgazdasági termelő történelmi bázisa alapján megállapított mezőgazdasági vagyoni értékű jog.
+
+[^1]: Az 1. § 1. pontja a 33/2024. (V. 30.) AM rendelet 50. § a) pontja szerint módosított szöveg.
