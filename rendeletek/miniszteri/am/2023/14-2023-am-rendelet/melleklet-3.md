@@ -2,11 +2,11 @@
 
 | 1. | Követelmény | Meg nem felelés | mérték | súly | tartósság |
 
-| 2. | Engedélyköteles öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján, a víztermelés nyilvántarthatóságának biztosításával végezhető | 1. A vizsgált öntözés esetében nem áll rendelkezésre vízkivételi mennyiség mérésre vagy meghatározására alkalmas mérőeszköz vagy módszer.[^28] | Gazdaságon belüli | Közepes súlyú | Rövid távon helyrehozható |
+| 2. | Engedélyköteles öntözési célú vízhasználat csak érvényes vízjogi üzemeltetési engedély alapján, a víztermelés nyilvántarthatóságának biztosításával végezhető | 1. A vizsgált öntözés esetében nem áll rendelkezésre vízkivételi mennyiség mérésre vagy meghatározására alkalmas mérőeszköz vagy módszer.[^29] | Gazdaságon belüli | Közepes súlyú | Rövid távon helyrehozható |
 
-| 3. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély.[^29] | Gazdaságon belüli | Súlyos | Rövid távon helyrehozható[^30] |
+| 3. |  | A vizsgált területre vonatkozólag nem áll rendelkezésre hatályos vízjogi üzemeltetési vagy fennmaradási engedély.[^30] | Gazdaságon belüli | Súlyos | Rövid távon helyrehozható[^31] |
 
-| 4. |  | A mezőgazdasági termelőnél nem áll rendelkezésre öntözési üzemnapló, vagy azt nem naprakészen vezeti.[^31] | Gazdaságon belüli | Enyhe[^32] | Rövid távon helyrehozható[^33] |
+| 4. |  | A mezőgazdasági termelőnél nem áll rendelkezésre öntözési üzemnapló, vagy azt nem naprakészen vezeti.[^32] | Gazdaságon belüli | Enyhe[^33] | Rövid távon helyrehozható[^34] |
 
 | 5. | A naptári évre vonatkozóan folyamatos nyilvántartást kell vezetni a külön jogszabály szerinti Gazdálkodási Napló tápanyag-gazdálkodásra, trágyázásra, parcellaművelési adatokra vonatkozóan. | 1.0.3 A gazdálkodó a naptári évre vonatkozóan hiányosan vagy nem vezet a külön jogszabály szerinti Gazdálkodási Naplót a tápanyag-gazdálkodásra, trágyázásra, parcellaművelési adatokra vonatkozóan. | Gazdaságon belüli | Súlyos | Rövid távon helyrehozható |
 
@@ -34,9 +34,9 @@
 
 JFGK 2. követelmény- és minősítési tábla – Mezőgazdasági eredetű nitrátszennyezés esetén az ellenőrzési kérdésekhez tartozó meg nem felelési esetek
 
-[^28]: A 2. mellékletben foglalt táblázat B:2 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
-[^29]: A 2. mellékletben foglalt táblázat B:3 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^30]: A 2. mellékletben foglalt táblázat E:3 mezője az 56/2023. (IX. 27.) AM rendelet 22. §-ával megállapított szöveg.
-[^31]: A 2. mellékletben foglalt táblázat B:4 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^32]: A 2. mellékletben foglalt táblázat D:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
-[^33]: A 2. mellékletben foglalt táblázat E:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^29]: A 2. mellékletben foglalt táblázat B:2 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^30]: A 2. mellékletben foglalt táblázat B:3 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^31]: A 2. mellékletben foglalt táblázat E:3 mezője az 56/2023. (IX. 27.) AM rendelet 22. §-ával megállapított szöveg.
+[^32]: A 2. mellékletben foglalt táblázat B:4 mezője az 56/2023. (IX. 27.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^33]: A 2. mellékletben foglalt táblázat D:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.
+[^34]: A 2. mellékletben foglalt táblázat E:4 mezője a 26/2023. (VI. 30.) AM rendelet 19. §-ával megállapított szöveg.

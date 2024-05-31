@@ -70,6 +70,8 @@
 
 | 35. | GAEC 9. Natura 2000 területeken állandó gyepterületek átállításának vagy felszántásának tilalma | Natura 2000 jelölésű területen a mezőgazdasági termelő feltörte, vagy más hasznosításúvá állította át a gyepet | Súlyos (5) | Gazdaságon kívüli vagy nagymértékű (5) | Hosszú távon helyrehozható (3) |
 
+| 36.[^39] | GAEC 8/a. nem termelési célú területek minimum aránya | a 2023. támogatási évben a mezőgazdasági termelő rendelkezik elegendő olyan területtel, ami megfelel a 39. § (2) bekezdésében foglaltaknak, de nem jelentett be (elegendő) területet parlagon hagyott területként | Elhanyagolható (0) | Gazdaságon belüli (1) | Rövid távon helyrehozható (1) |
+
 12. melléklet a 14/2023. (IV. 19.) AM rendelethez
 
 A támogatáscsökkentés számítási alapjai
@@ -137,3 +139,5 @@ A támogatáscsökkentés számítási alapjai
 | 10. | 5 | 5 | 5 | 50% |
 
 | 11. | 6 | 5 | 5 | 100% |
+
+[^39]: A 11. mellékletben foglalt táblázat 36. sorát a 33/2024. (V. 30.) AM rendelet 31. §-a iktatta be.

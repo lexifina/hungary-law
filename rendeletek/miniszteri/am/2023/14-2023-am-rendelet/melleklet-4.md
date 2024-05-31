@@ -46,19 +46,19 @@
 
 | 23. |  | 2.10.2 A silótér aljzata nem szigetelt, illetve nem kapcsolódik hozzá szigetelt akna. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
 
-| 24.[^34] |  | 2.10.3 A gazdálkodó nem rendelkezik a jogszabály szerint szükséges méretű, megfelelő műszaki paraméterekkel rendelkező trágyatárolóval, azonban szemrevételezés, illetve a rendelkezésre álló információk alapján új eljárás keretén belül vízvédelmi hatáskörű intézkedés megtétele nem szükséges. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
+| 24.[^35] |  | 2.10.3 A gazdálkodó nem rendelkezik a jogszabály szerint szükséges méretű, megfelelő műszaki paraméterekkel rendelkező trágyatárolóval, azonban szemrevételezés, illetve a rendelkezésre álló információk alapján új eljárás keretén belül vízvédelmi hatáskörű intézkedés megtétele nem szükséges. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
 
-| 25.[^35] |  | 2.10.4 A gazdálkodó nem rendelkezik a jogszabály szerint szükséges méretű, megfelelő műszaki paraméterekkel rendelkező trágyatárolóval, és a szemrevételezés, illetve a rendelkezésre álló információk alapján új eljárás keretén belül vízvédelmi hatáskörű intézkedés megtétele szükséges. | Gazdaságon belüli | Közepes | Rövid távon helyrehozható |
+| 25.[^36] |  | 2.10.4 A gazdálkodó nem rendelkezik a jogszabály szerint szükséges méretű, megfelelő műszaki paraméterekkel rendelkező trágyatárolóval, és a szemrevételezés, illetve a rendelkezésre álló információk alapján új eljárás keretén belül vízvédelmi hatáskörű intézkedés megtétele szükséges. | Gazdaságon belüli | Közepes | Rövid távon helyrehozható |
 
-| 26.[^36] |  | 2.10.5 A trágyatároló kapacitása nem felel meg a jogszabályban előírtaknak. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
+| 26.[^37] |  | 2.10.5 A trágyatároló kapacitása nem felel meg a jogszabályban előírtaknak. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
 
-| 27.[^37] | 2.11 Az erózió megakadályozása érdekében 2%-nál meredekebb lejtésű területen olyan művelési módot kell alkalmazni, amely elősegíti a csapadékvizek talajba jutását. | 2.11.1 A 2%-nál meredekebb lejtésű területen alkalmazott művelési mód nem segíti elő a csapadékvizek talajba jutását. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
+| 27.[^38] | 2.11 Az erózió megakadályozása érdekében 2%-nál meredekebb lejtésű területen olyan művelési módot kell alkalmazni, amely elősegíti a csapadékvizek talajba jutását. | 2.11.1 A 2%-nál meredekebb lejtésű területen alkalmazott művelési mód nem segíti elő a csapadékvizek talajba jutását. | Gazdaságon belüli | Enyhe | Rövid távon helyrehozható |
 
 4. melléklet a 14/2023. (IV. 19.) AM rendelethez
 
 JFGK 3–4. követelmény- és minősítési tábla
 
-[^34]: A 3. mellékletben foglalt táblázat 24. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
-[^35]: A 3. mellékletben foglalt táblázat 25. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
-[^36]: A 3. mellékletben foglalt táblázat 26. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
-[^37]: A 3. mellékletben foglalt táblázat 27. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
+[^35]: A 3. mellékletben foglalt táblázat 24. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
+[^36]: A 3. mellékletben foglalt táblázat 25. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
+[^37]: A 3. mellékletben foglalt táblázat 26. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.
+[^38]: A 3. mellékletben foglalt táblázat 27. sorát az 56/2023. (IX. 27.) AM rendelet 20. § (2) bekezdése iktatta be.

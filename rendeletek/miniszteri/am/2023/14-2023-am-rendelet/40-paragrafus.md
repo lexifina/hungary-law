@@ -9,3 +9,5 @@
 4. az (EU) 2021/2115 európai parlamenti és tanácsi rendeletnek a tagállamok 2023–2027-es, az említett rendelet szerinti KAP stratégiai tervében kidolgozandó egyes beavatkozás-típusokra vonatkozó kiegészítő követelményekkel, valamint a jó mezőgazdasági és környezeti állapotra (GAEC) vonatkozó 1. szabványra irányadó szabályokkal történő kiegészítéséről szóló, 2021. december 7-i (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet,
 
 5. az (EU) 2021/2115 európai parlamenti és tanácsi rendelettől a földterület jó mezőgazdasági és környezeti állapotára vonatkozó 7. és 8 előírás (GAEC-előírások) alkalmazása tekintetében a 2023. igénylési évre biztosított eltérésről szóló, 2022. július 27-i (EU) 2022/1317 bizottsági végrehajtási rendelet
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
