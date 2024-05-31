@@ -22,4 +22,6 @@ a) a gyakorlat11 teljesítésébe bevont táblákat és
 
 b) a gyakorlat11 teljesítésébe bevont táblánként a legeltetés tervezett típusát, valamint a legeltetni tervezett állatfajt.
 
-(10) A gyakorlat11-et az adott földhasználati kategória tekintetében nem választhatja az a mezőgazdasági termelő, aki ugyanazon földhasználati kategóriában választotta a 27. § szerinti gyakorlat14-et.
+(10)[^7]
+
+[^7]: A 21. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet 47. § b) pontja hatályon kívül helyezte.

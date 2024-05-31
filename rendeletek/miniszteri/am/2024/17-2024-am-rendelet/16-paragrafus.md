@@ -38,7 +38,7 @@ a) mikrobiológiai készítmények lábon álló kultúrában történő alkalma
 
 b) mikrobiológiai készítmény csávázószerként történő kijuttatásával vagy
 
-c) olyan táblán, ahol az álló- és folyóvizek partjától számított 50 méteres biztonsági sáv vagy sávok miatt a tábla területének több mint 15 százaléka nem kezelhető.
+c)[^3] olyan táblán, ahol az álló- és folyóvizek partjától számított 50 méteres biztonsági sáv vagy sávok miatt a tábla területének több mint 15 százaléka nem kezelhető, kivéve, ha az adott készítmény engedélyokiratában 50 méternél keskenyebb biztonsági sáv szerepel.
 
 (6) A gyakorlat7 vállalása esetében a mezőgazdasági termelőnek
 
@@ -59,3 +59,5 @@ b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt; vagy
 c) által bejelentett tábla területének több mint 15 százaléka nem kezelhető az álló- és folyóvizek partjától számított 50 méteres biztonsági sáv vagy sávok miatt.
 
 (8) A gyakorlat7-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatta ki a mikrobiológiai készítményt.
+
+[^3]: A 16. § (5) bekezdés c) pontja a 33/2024. (V. 30.) AM rendelet 42. §-ával megállapított szöveg.

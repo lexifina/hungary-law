@@ -6,7 +6,7 @@
 
 a) a tárgyévben parlagként vagy évelő szántóföldi növényként bejelentett terület és
 
-b) olyan tábla, amely tekintetében a mezőgazdasági termelő a gyakorlat1 vagy gyakorlat6-ot választotta.
+b)[^5] olyan tábla, amely tekintetében a mezőgazdasági termelő a gyakorlat1-et választotta.
 
 (3) A gyakorlat9 vállalása esetében a mezőgazdasági termelőnek
 
@@ -34,6 +34,9 @@ b) a gyakorlat9 teljesítésébe bevont területek valamelyikén olyan növényv
 
 c) nem jelentette be a műveleteket az Egységes kérelem rendeletben meghatározottak szerint agrotechnikai műveletként; vagy
 
-d) a gyakorlat9-be bevont táblán gyakorlat1-et vagy gyakorlat6-ot teljesítette.
+d)[^6] a gyakorlat9-be bevont táblán gyakorlat1-et teljesítette.
 
 (9) A gyakorlat9-et nem teljesítettnek kell tekinteni, ha az ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(5) bekezdésben foglaltaknak megfelelően alkalmazott forgatás nélküli művelést szűkített növényvédőszer-használat mellett.
+
+[^5]: A 18. § (2) bekezdés b) pontja a 33/2024. (V. 30.) AM rendelet 46. §-a és 47. § a) pontja szerint módosított szöveg.
+[^6]: A 18. § (8) bekezdés d) pontja a 33/2024. (V. 30.) AM rendelet 47. § a) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 (2) A gyakorlat3 keretében növényvédő szer használatának tilalma mellett
 
-a) az Egységes kérelem rendelet szerinti nem termelő tájképi elemek és területek együttes arányának el kell érnie a kötelezettségalap 10%-át, és
+a)[^2] az Egységes kérelem rendelet szerinti nem termelő tájképi elemek és növényvédő szerrel nem kezelt nem termelő területek együttes arányának el kell érnie a kötelezettségalap 10%-át, és
 
 b) az a) pont szerinti területen belül a nem termelő tájképi elemek és a HMKÁ 8. szerinti parlagon hagyott területek – ide nem értve az AKG keretében létrehozott zöldugart – együttes arányának 2024-ben el kell érnie a kötelezettségalap 1%-át, 2025-től az 5%-át.
 
@@ -31,3 +31,5 @@ a) növényvédő szert juttattak ki a nem termelő tájképi elemen vagy terül
 b) a Feltételesség rendelet szerinti pihentetési időszak alatt nem gondoskodott a talaj takarásáról növényborítottsággal vagy tarlómaradványok megtartásával, vagy
 
 c) a gyakorlat keretében megjelölt tájképi elem vagy terület nem felel meg a HMKÁ 8. előírásainak.
+
+[^2]: A 12. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 41. §-ával megállapított szöveg.
