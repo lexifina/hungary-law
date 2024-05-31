@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti tevékenység megkezdése időpontjának a 2. § (5) bekezdés a) pont ab) alpontja szerinti nyilatkozat szerinti dátum vagy az alábbi időpontok közül a legkorábbi minősül:
 
-a) az önálló őstermelői tevékenység nyilvántartásba vételének dátuma, feltéve, hogy az őstermelő az egységes kérelemmel igényelhető az Egységes kérelem rendelet 1. § 45. pontja szerinti mezőgazdasági tevékenységet végez,
+a)[^2] az önálló őstermelői tevékenység nyilvántartásba vételének dátuma, feltéve, hogy az őstermelő az egységes kérelemmel igényelhető az Egységes kérelem rendelet 1. § 46. pontja szerinti mezőgazdasági tevékenységet végez,
 
 b) az az időpont, amikor az egyéni vállalkozóként folytatott tevékenység esetében a 3. melléklet szerinti tevékenységek egyike bejegyzésre került fő- vagy melléktevékenységként,
 
@@ -10,7 +10,7 @@ c) jogi személyek esetében a létesítő okirat elfogadásának időpontja, am
 
 d) tevékenységét őstermelők családi gazdaságának (a továbbiakban: ŐCSG) tagjaként megkezdő őstermelő esetében
 
-da) az ŐCSG képviselőjévé válás időpontja, feltéve, hogy az ŐCSG az Egységes kérelem rendelet 1. § 45. pontja szerinti mezőgazdasági tevékenységet végez, vagy
+da)[^3] az ŐCSG képviselőjévé válás időpontja, feltéve, hogy az ŐCSG az Egységes kérelem rendelet 1. § 46. pontja szerinti mezőgazdasági tevékenységet végez, vagy
 
 db) az az időpont, amikor az ŐCSG-ben a cselekvőképes őstermelő személyes közreműködésként, önálló gazdasági döntése alapján az ŐCSG tagjainak közreműködésével olyan mezőgazdasági tevékenység végzését kezdte meg, amelynek részben vagy egészben kockázatait viseli, hasznát élvezi, és így mezőgazdasági üzem vezetőjének tekinthető, vagy
 
@@ -23,3 +23,6 @@ e) ha mezőgazdasági tevékenység végzése tekintetében bármilyen támogat�
 (5) A Kincstár, ha a (2) bekezdés d) pontja szerinti esetek vizsgálata során szükséges, a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 34. §-a szerinti ellenőrzést hajt végre.
 
 (6) Ha a Kincstár a (2) bekezdés szerinti esetekben nem tudja minden kétséget kizáróan megállapítani a mezőgazdasági termelő mezőgazdasági tevékenysége megkezdésének időpontját, akkor a 2. § (5) bekezdés a) pont ab) alpontja szerinti nyilatkozatban foglalt időpontot kell a mezőgazdasági tevékenység megkezdésének tekinteni.
+
+[^2]: A 6. § (2) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § (2) bekezdés d) pont da) alpontja a 33/2024. (V. 30.) AM rendelet 55. § b) pontja szerint módosított szöveg.

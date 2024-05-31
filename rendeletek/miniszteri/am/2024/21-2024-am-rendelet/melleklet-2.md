@@ -150,7 +150,7 @@
 
 | 74 | Erdészeti gépésztechnikus | 54 521 02 | Technikus |
 
-| 75 | Erdészeti gépésztechnikus | – | Technikus |
+| 75[^6] |  |  |  |
 
 | 76 | Erdészeti szakmunkás | – | Szakmunkás |
 
@@ -607,3 +607,5 @@
 2. melléklet a 21/2024. (IV. 9.) AM rendelethez
 
 A Tevékenységek Egységes Ágazati Osztályozási Rendszere alapján elfogadott tevékenységek
+
+[^6]: Az 1. mellékletben foglalt táblázat 75. sorát a 33/2024. (V. 30.) AM rendelet 56. §-a hatályon kívül helyezte.

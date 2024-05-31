@@ -1,4 +1,4 @@
-3. § (1) A támogatás igénybevételére jogosult az az igénylő tényleges és hosszú távú ellenőrzése alatt álló jogi személy is, amely felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll, feltéve, hogy a támogatás feltételeinek egyébként megfelel.
+3. § (1)[^1] A támogatás igénybevételére jogosult az az igénylő tényleges és hosszú távú ellenőrzése alatt álló jogi személy is, amely csőd-, felszámolási, végelszámolási, adósságrendezési alatt áll, feltéve, hogy a támogatás feltételeinek egyébként megfelel.
 
 (2) Ha a fenntarthatóságot elősegítő alapszintű-jövedelemtámogatást az igénylő mint természetes személy és olyan jogi személy vagy több olyan jogi személy is igényli, amely vagy amelyek felett az igénylő a tényleges és hosszú távú ellenőrzést egyedül vagy az 1. § 4. pont b) és c) alpontja szerinti szavazatok figyelembevételével más mezőgazdasági termelővel együtt gyakorolja, a támogatás igénybevételére az jogosult, aki vagy amely a mezőgazdasági tevékenységét – a 6. § (1) bekezdése alapján – korábban kezdte meg.
 
@@ -17,3 +17,5 @@ c) a b) ponton kívüli jogi személy esetében az a mezőgazdasági termelő, a
 (6) Ha az egységes kérelmet jogi személy nyújtja be, akkor az első benyújtott egységes kérelemre nyitva álló időszak utolsó napjától a jogi személyben a tényleges és hosszú távú ellenőrzést az igénylőnek tárgyévben, a támogatási kérelem benyújtásától megszakítás nélkül kell gyakorolnia.
 
 (7) Egy igénylő adott évben csak egy egységes kérelmet nyújthat be.
+
+[^1]: A 3. § (1) bekezdése a 33/2024. (V. 30.) AM rendelet 55. § a) pontja szerint módosított szöveg.
