@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-74-20-1
 | 2022-12-28 | 2016-74-20-11.14 | 158/2022. (XII. 27.) AM rendelet |
 | 2023-05-12 | 2016-74-20-11.15 | 22/2023. (V. 9.) AM rendelet |
 | 2024-03-26 | 2016-74-20-11.16 | 11/2024. (III. 25.) AM rendelet |
+| 2024-05-31 | 2016-74-20-11.17 | 11/2024. (III. 25.) AM rendelet |

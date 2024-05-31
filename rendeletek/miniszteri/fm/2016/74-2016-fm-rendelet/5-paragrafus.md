@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^15] Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon a Kincstárhoz.
+5. § (1)[^16] Az állattartó tárgyév június 1-jétől június 30-áig terjedő időszakban nyújthatja be a támogatási kérelmét a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a honlapján közzétett nyomtatványon a Kincstárhoz.
 
 (2) A támogatási kérelem tartalmazza
 
@@ -28,4 +28,4 @@ g) az a)–f) pontokban foglaltak szakmai megfelelőségéről szóló tenyészt
 
 h) a 4. § (1) bekezdés b) és c) pontjában foglaltakról szóló nyilatkozatokat.
 
-[^15]: Az 5. § (1) bekezdése a 11/2024. (III. 25.) AM rendelet 17. §-ával megállapított szöveg.
+[^16]: Az 5. § (1) bekezdése a 11/2024. (III. 25.) AM rendelet 17. §-ával megállapított szöveg.
