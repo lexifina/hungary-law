@@ -1,4 +1,4 @@
-1. melléklet a 94/2013. (X. 10.) VM rendelethez[^77]
+1. melléklet a 94/2013. (X. 10.) VM rendelethez[^81]
 
 A 3. § (1) bekezdésében hivatkozott agrártevékenységek
 
@@ -226,4 +226,4 @@ A 3. § (1) bekezdésében hivatkozott agrártevékenységek
 
 | 77.31 | Mezőgazdasági gép kölcsönzése |
 
-[^77]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be.
+[^81]: Az 1. mellékletet a 4/2019. (III. 6.) AM rendelet 4. § (4) bekezdése iktatta be.

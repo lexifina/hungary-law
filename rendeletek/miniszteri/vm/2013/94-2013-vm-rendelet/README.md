@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-94-20-2
 | 2022-09-01 | 2013-94-20-2Y.22 | 26/2022. (VIII. 31.) AM rendelet |
 | 2022-12-28 | 2013-94-20-2Y.23 | 158/2022. (XII. 27.) AM rendelet |
 | 2024-03-26 | 2013-94-20-2Y.24 | 66/2020. (XII. 18.) AM rendelet |
+| 2024-05-31 | 2013-94-20-2Y.25 | 33/2024. (V. 30.) AM rendelet |

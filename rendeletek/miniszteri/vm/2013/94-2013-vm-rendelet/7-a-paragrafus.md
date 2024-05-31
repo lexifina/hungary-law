@@ -1,10 +1,14 @@
-7/A. §[^53] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
+7/A. §[^51] (1) A csekély összegű támogatások nyújtásával kapcsolatos eljárásokra a 37/2011. (III. 22.) Korm. rendelet 11–11/A. §-ában foglaltak irányadók.
 
 (2) Az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: 1407/2013/EU bizottsági rendelet), az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (3) Nem nyújtható általános csekély összegű támogatás
 
-a)[^54] olyan vállalkozás számára, amely a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti halászati és akvakultúra ágazatban tevékenykedik;
+a)[^52] olyan vállalkozás számára, mely
+
+aa) az 1379/2013/EU európai parlamenti és tanácsi rendelet szerinti halászati és akvakultúra-termékek elsődleges előállításával foglalkozik,
+
+ab) a halászati és akvakultúra-termékek feldolgozása és forgalmazása területén működik, amennyiben a támogatás összegét a piacon vásárolt vagy forgalomba hozott termékek ára vagy mennyisége alapján határozzák meg;
 
 b) a mezőgazdasági termékek elsődleges termelésével kapcsolatos tevékenység finanszírozására;
 
@@ -21,6 +25,10 @@ e) importáru helyett belföldi áru használatához;
 f) a közúti kereskedelmi árufuvarozást ellenszolgáltatás fejében végző vállalkozás számára teherszállító jármű megvásárlására;
 
 g) hitel vagy kezességvállalás formájában, amennyiben a kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+
+h)[^53] olyan feltétellel, amely az Európai Unió kötelező jogi aktusában foglaltak megsértését eredményezi.
+
+(3a)[^54] Amennyiben a kedvezményezett a (3) bekezdés a)–c) pontjában kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az általános csekély összegű rendelet szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – különösen a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (3) bekezdés a)–c) pontja szerinti kizárt ágazatokban végzett tevékenységek ne részesüljenek általános csekély összegű támogatásban.
 
 (4) Nem nyújtható mezőgazdasági csekély összegű támogatásként olyan támogatás,
 
@@ -56,5 +64,7 @@ bi) harmadik országba vagy tagállamba irányuló exporttal kapcsolatos tevéke
 
 c) amely az importáruval szemben belföldi áru használatához kötött.
 
-[^53]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
-[^54]: A 7/A. § (3) bekezdés a) pontja a 28/2018. (X. 5.) AM rendelet 6. § c) pontja szerint módosított szöveg.
+[^51]: A 7/A. §-t a 65/2016. (IX. 21.) FM rendelet 13. §-a iktatta be.
+[^52]: A 7/A. § (3) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^53]: A 7/A. § (3) bekezdés h) pontját a 33/2024. (V. 30.) AM rendelet 11. § (2) bekezdése iktatta be.
+[^54]: A 7/A. § (3a) bekezdését a 33/2024. (V. 30.) AM rendelet 11. § (3) bekezdése iktatta be.
