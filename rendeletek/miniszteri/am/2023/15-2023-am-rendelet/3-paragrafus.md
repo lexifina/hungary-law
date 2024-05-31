@@ -6,9 +6,9 @@
 
 (3) Az egységes kérelem benyújtására nyitva álló határidő lejártát követően
 
-a)[^1] a megjelölt gyakorlat nem módosítható, és új gyakorlat nem válaszható
+a)[^2] a megjelölt gyakorlat nem módosítható, és új gyakorlat nem válaszható
 
-b)[^2]
+b)[^3]
 
-[^1]: A 3. § (3) bekezdés a) pontja a 26/2023. (VI. 30.) AM rendelet 24. § a) pontja szerint módosított szöveg.
-[^2]: A 3. § (3) bekezdés b) pontját a 26/2023. (VI. 30.) AM rendelet 24. § b) pontja hatályon kívül helyezte.
+[^2]: A 3. § (3) bekezdés a) pontja a 26/2023. (VI. 30.) AM rendelet 24. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (3) bekezdés b) pontját a 26/2023. (VI. 30.) AM rendelet 24. § b) pontja hatályon kívül helyezte.

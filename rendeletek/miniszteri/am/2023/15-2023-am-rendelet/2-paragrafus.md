@@ -29,3 +29,7 @@ nem éri el;
 b) Natura 2000 gyepterület vonatkozásában, mérethatártól függetlenül.
 
 (3) A mezőgazdasági termelő a támogatási programban – az alaptámogatásban részesülő, az Európai Mezőgazdasági Orientációs és Garanciaalap, illetve az Európai Mezőgazdasági Vidékfejlesztési Alap társfinanszírozásával megvalósuló erdősített terület kivételével – a mezőgazdasági üzemének teljes területével vesz részt, azzal, hogy a (2) bekezdés a) pontjában meghatározott területméret alatti földhasználati kategóriába tartozó terület, valamint a Natura 2000 gyepterület (a továbbiakban együtt: gyakorlat teljesítése alól mentesített terület) akkor részesülhet támogatásban, ha a mezőgazdasági termelő ezen terület vonatkozásában az egységes kérelemben gyakorlatot vállal.
+
+(4)[^1] A támogatást igényelheti az a mezőgazdasági termelő is, valamint a támogatás annak a mezőgazdasági termelőnek is kifizetésre kerülhet, aki vagy amely csőd-, felszámolási, végelszámolási, adósságrendezési eljárás alatt áll.
+
+[^1]: A 2. § (4) bekezdését a 33/2024. (V. 30.) AM rendelet 32. §-a iktatta be.
