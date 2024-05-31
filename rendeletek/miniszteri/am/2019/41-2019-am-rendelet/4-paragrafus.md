@@ -18,15 +18,17 @@ c) hozzájárul a támogatás nyújtásával és felhasználásának ellenőrzé
 
 d) a támogatási kérelemmel érintett támogatási időszakban a tenyésztőszervezet törzskönyvében nyilvántartott legalább egy húshasznú szarvasmarha tenyészbikát, illetve egy bivaly tenyészbikát tenyésztésbe állított; és
 
-e) rendelkezik a 119/2007. (X. 18.) FVM rendelet szerint bejelentett szarvasmarhatartó tenyészettel.
+e)[^7] rendelkezik a 119/2007. (X. 18.) FVM rendelet szerint állattartó típusú tenyészetbe bejelentett szarvasmarhatartó tenyészettel.
 
-(2)[^7] Egy adott központi lajstromszámmal rendelkező apaállat után kizárólag az apaállat tenyésztésbe állítását követő első támogatási kérelem benyújtási időszakban és kizárólag egy alkalommal igényelhető támogatás.
+(2)[^8] Egy adott központi lajstromszámmal rendelkező apaállat után kizárólag az apaállat tenyésztésbe állítását követő első támogatási kérelem benyújtási időszakban és kizárólag egy alkalommal igényelhető támogatás.
 
-(3) A kérelmező a bejelentett tenyészetében lévő, a tárgyév augusztus 31-én az ENAR szerinti adatbázisban nyilvántartott és ebben az időpontban legalább a 18 hónapos kort betöltött nőivarú szarvasmarha vagy bivaly (a továbbiakban együtt: tehén) minden megkezdett harminc egyedszáma után egy apaállat tenyésztésbe állításához igényelhet támogatást.
+(3)[^9] A kérelmező a bejelentett állattartó típusú tenyészetében lévő, a tárgyév augusztus 31-én az ENAR szerinti adatbázisban nyilvántartott és ebben az időpontban legalább a 18 hónapos kort betöltött nőivarú szarvasmarha vagy bivaly (a továbbiakban együtt: tehén) minden megkezdett harminc egyedszáma után egy apaállat tenyésztésbe állításához igényelhet támogatást.
 
 (4) Ha a kérelmező bejelentett tenyészetében lévő (3) bekezdés szerinti tehenek egyedszáma nem éri el a harmincat, de legalább egy tehén megfelel a (3) bekezdésben előírtaknak, akkor egy apaállat tenyésztésbe állításához igényelhető támogatás.
 
 (5) Egy kérelmező egy támogatási időszakban egy támogatási kérelmet nyújthat be.
 
 [^6]: A 4. § (1) bekezdés a) pontja a 41/2020. (VIII. 19.) AM rendelet 33. § pontja szerint módosított szöveg.
-[^7]: A 4. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^7]: A 4. § (1) bekezdés e) pontja a 33/2024. (V. 30.) AM rendelet 27. §-ával megállapított szöveg.
+[^8]: A 4. § (2) bekezdése a 25/2021. (VII. 14.) AM rendelet 4. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdése a 33/2024. (V. 30.) AM rendelet 29. §-a szerint módosított szöveg.

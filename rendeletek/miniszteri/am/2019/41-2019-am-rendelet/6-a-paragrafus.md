@@ -1,5 +1,5 @@
-## 6a.[^11]
+## 6a.[^14]
 
 6/A. §
 
-[^11]: A 6a. alcímet (6/A-6/C. §) a 158/2022. (XII. 27.) AM rendelet 21. §-a hatályon kívül helyezte.
+[^14]: A 6a. alcímet (6/A-6/C. §) a 158/2022. (XII. 27.) AM rendelet 21. §-a hatályon kívül helyezte.

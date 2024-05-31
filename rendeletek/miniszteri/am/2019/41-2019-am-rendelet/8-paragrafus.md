@@ -1,6 +1,6 @@
 ## 7. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-## 8. §[^15] Ez a rendelet
+## 8. §[^18] Ez a rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet,
 
@@ -10,4 +10,4 @@ c) az „Állami támogatási intézkedésekre vonatkozó ideiglenes válságkez
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^15]: A 8. § a 26/2022. (VIII. 31.) AM rendelet 22. §-ával megállapított szöveg.
+[^18]: A 8. § a 26/2022. (VIII. 31.) AM rendelet 22. §-ával megállapított szöveg.
