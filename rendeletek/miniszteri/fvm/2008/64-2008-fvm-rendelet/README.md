@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-64-20-8
 | 2020-09-28 | 2008-64-20-82.17 | 44/2014. (IV. 14.) VM rendelet |
 | 2023-01-01 | 2008-64-20-82.18 | 44/2014. (IV. 14.) VM rendelet |
 | 2024-03-26 | 2008-64-20-82.19 | 11/2024. (III. 25.) AM rendelet |
+| 2024-05-31 | 2008-64-20-82.20 | 33/2024. (V. 30.) AM rendelet |

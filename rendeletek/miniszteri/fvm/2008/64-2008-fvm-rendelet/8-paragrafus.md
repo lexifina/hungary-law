@@ -2,11 +2,11 @@
 
 8. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2)[^34] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
+(2)[^37] Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet hatálya alá tartozó támogatást tartalmaz.
 
-(3)[^35] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel megállapított 4. § (3) bekezdését a 2015. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
+(3)[^38] E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 25/2016. (IV. 11.) FM rendelettel megállapított 4. § (3) bekezdését a 2015. támogatási évre vonatkozóan benyújtott támogatási kérelemre indult eljárásokban kell alkalmazni.
 
-Melléklet a 64/2008. (V. 14.) FVM rendelethez[^36]
+Melléklet a 64/2008. (V. 14.) FVM rendelethez[^39]
 
 Támogatási kérelem
 
@@ -46,7 +46,7 @@ H–1476 Budapest, Pf. 407.
 
 Nyilatkozom, hogy a támogatási kérelem benyújtását megelőző kettő – általam alkalmazott – üzleti évben és
 
-a folyamatban lévő üzleti évben az 1998/2006/EK bizottsági rendelet, illetve az 1407/2013/EU bizottsági rendelet szerinti általános csekély összegű támogatásban saját jogon és a 37/2011. (III. 22.) Korm. rendelet alapján velem „egy és ugyanazon vállalkozásnak” minősülő vállalkozás(ok) jogán
+a folyamatban lévő üzleti évben az az 1407/2013/EU bizottsági rendelet, illetve a 2023/2831/EU bizottsági rendelet szerinti általános csekély összegű támogatásban saját jogon és a 37/2011. (III. 22.) Korm. rendelet alapján velem „egy és ugyanazon vállalkozásnak” minősülő vállalkozás(ok) jogán
 
 □ nem részesültem/részesültünk,
 
@@ -104,6 +104,6 @@ kérelmező (cégszerű) aláírása
 
 5. A 37/2011. (III. 22.) Korm. rendelet 11/A. §-a szerinti nyilatkozatok.
 
-[^34]: A 8. § (2) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított szöveg.
-[^35]: A 8. § (3) bekezdését a 25/2016. (IV. 11.) FM rendelet 19. §-a iktatta be.
-[^36]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított, a 31/2014. (XII. 9.) FM rendelet 27. §-a, a 88/2016. (XII. 29.) FM rendelet 32. § e) pontja szerint módosított szöveg.
+[^37]: A 8. § (2) bekezdése a 18/2014. (X. 29.) FM rendelet 8. §-ával megállapított szöveg.
+[^38]: A 8. § (3) bekezdését a 25/2016. (IV. 11.) FM rendelet 19. §-a iktatta be.
+[^39]: A Melléklet a 18/2014. (X. 29.) FM rendelet 9. §-ával megállapított, a 31/2014. (XII. 9.) FM rendelet 27. §-a, a 88/2016. (XII. 29.) FM rendelet 32. § e) pontja, a 33/2024. (V. 30.) AM rendelet 5. § b) pontja szerint módosított szöveg.
