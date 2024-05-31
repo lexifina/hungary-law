@@ -1,4 +1,4 @@
-1. melléklet a 66/2012. (VII. 10.) VM rendelethez[^34]
+1. melléklet a 66/2012. (VII. 10.) VM rendelethez[^35]
 
 A tárgyévben igénybe vehető csekély összegű (de minimis) támogatás mértéke a szárított takarmány előállítás céljára felhasznált hőenergia mennyiség alapján
 
@@ -22,4 +22,4 @@ A felhasznált hőenergia mennyiség alapján megállapított intervallumokat, v
 
 | 7 | 383 999 |  | 10% | 6 666 |
 
-[^34]: Az 1. melléklet a 130/2013. (XII. 21.) VM rendelet 37. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet a 130/2013. (XII. 21.) VM rendelet 37. §-ával megállapított szöveg.

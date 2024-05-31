@@ -1,6 +1,6 @@
 ## 1. § E rendelet alkalmazásában:
 
-a)[^1] általános de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (a továbbiakban: általános de minimis rendelet) alapján nyújtott támogatás;
+a)[^1] általános de minimis támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] szerinti támogatás (a továbbiakban: általános de minimis támogatás);
 
 b) bázis időszak: a mezőgazdasági piacok közös szervezésének létrehozásáról, valamint egyes mezőgazdasági termékekre vonatkozó egyedi rendelkezésekről szóló, 2007. október 22-i 1234/2007/EK tanácsi rendelet (a továbbiakban: Tanácsi rendelet) 3. cikk b) pont i) alpontja szerinti gazdasági év meghatározás alapján a 2009/2010, a 2010/2011 és a 2011/2012-es gazdasági évek;
 
@@ -20,7 +20,7 @@ i)[^4] átlagos fűtőérték: a szárított takarmány előállító üzem ált
 
 j)[^5] felhasznált hőenergia mennyiség: a szárított takarmány előállító üzem által a tárgyévben szárított takarmány előállításra felhasznált és dokumentált tüzelőanyag mennyiségének és a tüzelőanyag átlagos fűtőértékének szorzata MJ mértékegységben kifejezve.
 
-[^1]: Az 1. § a) pontja a 36/2014. (IV. 4.) VM rendelet 57. §-ával megállapított szöveg.
+[^1]: Az 1. § a) pontja a 33/2024. (V. 30.) AM rendelet 6. §-ával megállapított szöveg.
 [^2]: Az 1. § c) pontját a 36/2014. (IV. 4.) VM rendelet 62. §-a hatályon kívül helyezte.
 [^3]: Az 1. § h) pontja a 36/2014. (IV. 4.) VM rendelet 61. §-a szerint módosított szöveg.
 [^4]: Az 1. § i) pontját a 27/2013. (IV. 26.) VM rendelet 9. §-a iktatta be, szövege az 59/2013. (VII. 15.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
