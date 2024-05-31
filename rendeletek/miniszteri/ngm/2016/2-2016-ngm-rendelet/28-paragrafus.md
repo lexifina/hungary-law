@@ -1,5 +1,5 @@
-## 15.[^44]
+## 15.[^47]
 
 28. §
 
-[^44]: A 15. alcímet (28. §) a 213/2019. (VIII. 27.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
+[^47]: A 15. alcímet (28. §) a 213/2019. (VIII. 27.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-3. melléklet a 2/2016. (I. 5.) NGM rendelethez[^65]
+3. melléklet a 2/2016. (I. 5.) NGM rendelethez[^69]
 
 A képzési programmal szemben támasztott alapkövetelmények
 
@@ -36,4 +36,4 @@ j) a képzési program végrehajtásához szükséges személyi és tárgyi felt
 
 7. A nyomástartó berendezés vizsgálója továbbképzési szakterület esetében a teljes képzési idő legalább 3 × 8 óra.
 
-[^65]: A 3. melléklet a 34/2021. (VII. 26.) ITM rendelet 8. §-ával megállapított szöveg.
+[^69]: A 3. melléklet a 34/2021. (VII. 26.) ITM rendelet 8. §-ával megállapított szöveg.

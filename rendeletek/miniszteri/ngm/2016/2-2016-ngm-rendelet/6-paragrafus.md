@@ -1,5 +1,5 @@
-## 6.[^35]
+## 6.[^38]
 
 6. §
 
-[^35]: A 6. alcímet (6. §) a 213/2019. (VIII. 27.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
+[^38]: A 6. alcímet (6. §) a 213/2019. (VIII. 27.) Korm. rendelet 44. § g) pontja hatályon kívül helyezte.
