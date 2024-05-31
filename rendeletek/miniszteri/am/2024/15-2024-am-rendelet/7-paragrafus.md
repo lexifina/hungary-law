@@ -20,7 +20,7 @@ c) kiterjedését a Feltételességi rendelet 20. mellékletében foglalt fizika
 
 (5) Az AÖP rendeletben vállalt feltételek teljesítéséhez szükséges adatszolgáltatási kötelezettséget a mezőgazdasági termelő
 
-a) a 20. § szerinti agrotechnikai műveletek bejelentésével és
+a)[^7] a 19. § szerinti agrotechnikai műveletek bejelentésével és
 
 b) a növényvédőszer használattal összefüggő adatok (táblaazonosító, növényvédőszer megnevezés kijuttatás időpontja) megadásával
 
@@ -35,3 +35,5 @@ b) a gazdálkodási napló részét képező permetezési napló papír alapon t
 teljesíti.
 
 (7) Ha a mezőgazdasági termelő a növényvédőszer használat nyilvántartását a gazdálkodási napló tartalma alapján, a NÉBIH e célból létrehozott felületén elektronikusan vezeti, akkor a Kincstár részére a NÉBIH szolgáltatja az (5) bekezdés b) pontjában szereplő adatokat az egységes kérelem benyújtását követő év február 10. napjáig.
+
+[^7]: A 7. § (5) bekezdés a) pontja a 33/2024. (V. 30.) AM rendelet 35. § g) pontja szerint módosított szöveg.

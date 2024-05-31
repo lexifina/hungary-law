@@ -140,7 +140,7 @@ c) a 16. §-ban meghatározott minimumtevékenységek elvégzése a természetes
 
 52. nagymértékű, súlyos, maradandó fás szárú gyomosodás: a fás szárú gyomnövény bármely szomszédos földterületre történő átterjedése, vagy ha a vizsgált tábla esetében a földterületen 100 db/hektárt meghaladó mértékben található olyan fás szárú gyomnövény, amelynek lombkorona alatti területe nem tartalmaz legeltethető vegetációt, vagy a fás szárú gyomnövény eltávolítása az alapkultúra károsodása nélkül nem hajtható végre, és a terület a vegetációs idő alatt mezőgazdasági művelésre alkalmassá nem tehető;
 
-53. nem támogatható terület: a MePAR rendelet 1. § 10. pontja szerinti terület;
+53.[^1] nem támogatható terület: a MePAR rendelet 1. § 12. pontja szerinti terület;
 
 54. nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény: nem termelő beruházás keretében, szántóföldön létrehozott erózióvédelmi létesítmény, amely a MePAR-ban is lehatárolásra kerül;
 
@@ -237,3 +237,5 @@ f) az „egyéb hasznosítás” rovatban bejelentett területi elemek;
 67. védett tájképi elem: magányosan álló fa, fa- és bokorcsoport, gémeskút, kunhalom, terasz és kis kiterjedésű tó;
 
 68. vízvédelmi sáv: a Feltételességi rendelet 1. § 22. pontja szerinti fogalom.
+
+[^1]: Az 1. § 53. pontja a 33/2024. (V. 30.) AM rendelet 35. § a) pontja szerint módosított szöveg.
