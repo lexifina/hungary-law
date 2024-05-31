@@ -6,7 +6,7 @@
 
 3.[^2] mezőgazdasági csekély összegű támogatásokról szóló rendelet: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-ai 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet);
 
-4.[^3] mezőgazdasági termelő: az a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU európai parlamenti és tanácsi rendelet) 4. cikk (1) bekezdés a) pontja szerinti természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet, aki vagy amely a mezőgazdasági tevékenységét az 1307/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdése szerinti területen folytatja;
+4.[^3] mezőgazdasági termelő: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 3. cikk 1. pontja szerinti természetes vagy jogi személy, illetve természetes vagy jogi személyek csoportja, aki vagy amely a KAP I rendelet 4. cikk (2) bekezdése alapján meghatározott mezőgazdasági tevékenységet folytat;
 
 5. tenyészet: a tartási helyek, a tenyészetek és az ezekkel kapcsolatos egyes adatok országos nyilvántartási rendszeréről szóló 119/2007. (X. 18.) FVM rendelet szerint nyilvántartásba vett állattartó a hozzá tartozó tartási hellyel együtt;
 
@@ -28,7 +28,7 @@
 
 [^1]: Az 1. § 1. pontja a 41/2020. (VIII. 19.) AM rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 3. pontja a 69/2015. (XI. 2.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 4. pontja a 69/2015. (XI. 2.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 4. pontja a 33/2024. (V. 30.) AM rendelet 16. §-ával megállapított szöveg.
 [^4]: Az 1. § 6. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^5]: Az 1. § 7. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^6]: Az 1. § 8. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.

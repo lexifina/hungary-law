@@ -1,9 +1,9 @@
 4. § (1)[^17] A támogatási kérelemben és az abban foglaltakat alátámasztó dokumentumokban szereplő adatok helytállóságát, valamint a jelölési és nyilvántartási kötelezettség teljesítését a kecske ENAR rendelet szerinti adatbázisba bejelentett adatok alapján adminisztratív és helyszíni ellenőrzés útján a Magyar Államkincstár (a továbbiakban: Kincstár) ellenőrzi.
 
-(2)[^18] A támogatási feltételeknek való megfelelés ellenőrzése során a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 59. cikkében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági rendelet 42. cikkében foglaltakat kell alkalmazni.
+(2)[^18] A támogatási feltételeknek való megfelelés ellenőrzése során az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet [a továbbiakban: 15/2024. (IV. 9.) AM rendelet] 31. §-ában foglaltakat kell alkalmazni.
 
-(3)[^19] Az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén a támogatási összeg meghatározása során az 1306/2013/EU európai parlamenti és tanácsi rendeletnek az integrált igazgatási és ellenőrzési rendszer, a kifizetések elutasítására és visszavonására vonatkozó feltételek, valamint a közvetlen kifizetésekre, a vidékfejlesztési támogatásokra és a kölcsönös megfeleltetésre alkalmazandó közigazgatási szankciók tekintetében történő kiegészítéséről szóló, 2014. március 11-i 640/2014/EU bizottsági felhatalmazáson alapuló rendelet 30-31. cikke, valamint a 34. cikke szerinti eljárást kell alkalmazni.
+(3)[^19] Az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén a támogatási összeg meghatározása során a 15/2024. (IV. 9.) AM rendelet 35–36. §-a, valamint 38. §-a szerinti eljárást kell alkalmazni.
 
 [^17]: A 4. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 71. § a) pontja szerint módosított szöveg.
-[^18]: A 4. § (2) bekezdése a 69/2015. (XI. 2.) FM rendelet 14. §-ával megállapított szöveg.
-[^19]: A 4. § (3) bekezdése a 69/2015. (XI. 2.) FM rendelet 14. §-ával megállapított szöveg.
+[^18]: A 4. § (2) bekezdése a 33/2024. (V. 30.) AM rendelet 17. §-ával megállapított szöveg.
+[^19]: A 4. § (3) bekezdése a 33/2024. (V. 30.) AM rendelet 17. §-ával megállapított szöveg.

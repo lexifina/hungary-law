@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-26-20-1
 | 2022-10-29 | 2014-26-20-11.11 | 34/2022. (X. 28.) AM rendelet |
 | 2023-11-02 | 2014-26-20-11.12 | 69/2015. (XI. 2.) FM rendelet |
 | 2024-03-26 | 2014-26-20-11.13 | 41/2020. (VIII. 19.) AM rendelet |
+| 2024-05-31 | 2014-26-20-11.14 | 33/2024. (V. 30.) AM rendelet |
