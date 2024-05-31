@@ -22,7 +22,7 @@ b) pontokból álló térinformatikai fedvényként a földrészletek egy belső
 
 8.[^1]
 
-9. környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 8. pontja szerinti terület;
+9.[^2] környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 9. pontja szerinti terület;
 
 10. mezőgazdasági parcella: egy mezőgazdasági termelő által bejelentett, egybefüggő földterület, amely nem terjed ki egynél több terményre, illetve földtakaróra, azzal, hogy a mezőgazdasági parcella részét képezheti a rajta elhelyezkedő nem termelő tájképi elem és egyéb tájképi elem;
 
@@ -65,3 +65,4 @@ h) karácsonyfa-ültetvények;
 21. védett tájképi elem: az Egységes kérelem rendelet 1. § 67. pontja szerinti tájképi elem.
 
 [^1]: Az 1. § 8. pontja a 12. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^2]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.

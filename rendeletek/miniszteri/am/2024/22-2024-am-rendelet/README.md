@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-22-20-7
 | --- | --- | --- |
 | 2024-04-10 | 2024-22-20-7R.1 | 22/2024. (IV. 9.) AM rendelet |
 | 2024-04-11 | 2024-22-20-7R.2 | 2010. évi CXXX. törvény |
+| 2024-05-31 | 2024-22-20-7R.4 | 33/2024. (V. 30.) AM rendelet |
