@@ -1,0 +1,1 @@
+1. § Az Országgyűlés az Egészségügyi Világszervezet Nemzetközi Egészségügyi Rendszabályai az Egészségügyi Világszervezet 2022. májusi 75. Közgyűlése által elfogadott WHA75.12 számú határozatban foglalt módosítását (a továbbiakban: Módosítások) e törvénnyel kihirdeti.
