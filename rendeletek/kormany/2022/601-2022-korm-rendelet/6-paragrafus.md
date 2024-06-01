@@ -14,7 +14,7 @@ e) a szociális partnerek és
 
 f) a civil szervezetek
 
-g)[^18] az illetékes hatóság
+g)[^21] az illetékes hatóság
 
 delegálják.
 
@@ -30,7 +30,7 @@ d) a gazdaságfejlesztésért felelős miniszter, valamint
 
 e) a területfejlesztésért felelős miniszter.
 
-f)[^19] nem kormányzati szervek.
+f)[^22] nem kormányzati szervek.
 
 (3) A Nemzeti KAP Monitoring Bizottság a KAP I rendelet 124. cikkében és az e rendeletben meghatározott feladatokat látja el az ügyrendjében foglaltak szerint.
 
@@ -40,5 +40,5 @@ f)[^19] nem kormányzati szervek.
 
 (6) A Nemzeti KAP Monitoring Bizottság tagjainak listája nyilvános.
 
-[^18]: A 6. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
-[^19]: A 6. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^21]: A 6. § (1) bekezdés g) pontját a 139/2023. (IV. 24.) Korm. rendelet 2. §-a iktatta be.
+[^22]: A 6. § (2) bekezdés f) pontját a 668/2023. (XII. 29.) Korm. rendelet 7. §-a iktatta be.

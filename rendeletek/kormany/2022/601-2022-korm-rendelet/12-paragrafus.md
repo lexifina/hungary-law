@@ -30,12 +30,12 @@ dc) évelő, lágy szárú energiaültetvények telepítése és
 
 dd) fiatal erdők állománynevelése.
 
-de)[^20] erdészeti genetikai erőforrások megőrzése,
+de)[^23] erdészeti genetikai erőforrások megőrzése,
 
-df)[^21] erdészeti genetikai erőforrások fejlesztése és
+df)[^24] erdészeti genetikai erőforrások fejlesztése és
 
-dg)[^22] a ritka és veszélyeztetett növényfajták genetikai erőforrásainak és a mikroorganizmusok ex situ megőrzése.
+dg)[^25] a ritka és veszélyeztetett növényfajták genetikai erőforrásainak és a mikroorganizmusok ex situ megőrzése.
 
-[^20]: A 12. § d) pont de) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^21]: A 12. § d) pont df) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^22]: A 12. § d) pont dg) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^23]: A 12. § d) pont de) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 12. § d) pont df) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^25]: A 12. § d) pont dg) alpontját a 139/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.

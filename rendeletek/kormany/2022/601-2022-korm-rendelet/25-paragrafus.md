@@ -6,6 +6,6 @@
 
 (3) E rendelet 12–23. §-a 2023. június 1-jén lép hatályba.
 
-(4)[^30]
+(4)[^35]
 
-[^30]: A 25. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^35]: A 25. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

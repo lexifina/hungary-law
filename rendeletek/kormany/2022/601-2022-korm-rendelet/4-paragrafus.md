@@ -28,6 +28,14 @@ e) az Európai Bizottság által az (EU) 2021/2116 európai parlamenti és taná
 
 f) ellátja a 2022/128 bizottsági rendelet 32. cikk szerinti éves pénzügyi kimutatással és a 35. cikke szerinti pénzügyi záró elszámolással kapcsolatos feladatokat,
 
-g) támogatás jogosulatlan igénybevételének megállapítása esetén kezeli a követeléseket, visszatartás útján levonja a tartozást a megállapított jövőbeli kifizetés összegéből, valamint
+g)[^12] támogatás jogosulatlan igénybevételének megállapítása esetén kezeli a követeléseket, visszatartás útján levonja a tartozást a megállapított jövőbeli kifizetés összegéből,
 
 h) a 3. § 11. és 14. pontjában foglalt feladat ellátásában együttműködik a Nemzeti Irányító Hatósággal.
+
+i)[^13] üzemelteti, működteti, karbantartja és fejleszti az agrár-szakigazgatás területalapú támogatásainak megvalósítását célzó hazai és európai uniós feladatok végrehajtását szolgáló egységes földterület-nyilvántartási rendszert, ellátja a távérzékelt adatok használatát támogató speciális, direkt terepi adatgyűjtési és kiértékelési feladatokat, fejleszti a támogatások távérzékeléses ellenőrzésének módszertanát, végzi a kijelölt mintaterületen és kiválasztott kérelmeken a területalapú agrártámogatások távérzékeléses ellenőrzését, üzemelteti a Mezőgazdasági Parcella Azonosító Rendszert (MePAR), valamint
+
+j)[^14] elkészíti, frissíti és nyilvánosságra hozza a szőlészeti-borászati ágazatra jutó közösségi támogatások ellenőrzéséhez szükséges tematikus rétegeket, valamint elkészíti a tematikus rétegekből származó eredményadatokat és eredménytermékeket.
+
+[^12]: A 4. § (2) bekezdés g) pontja a 107/2024. (V. 9.) Korm. rendelet 46. § a) pontja szerint módosított szöveg.
+[^13]: A 4. § (2) bekezdés i) pontját a 107/2024. (V. 9.) Korm. rendelet 44. §-a iktatta be.
+[^14]: A 4. § (2) bekezdés j) pontját a 107/2024. (V. 9.) Korm. rendelet 44. §-a iktatta be.
