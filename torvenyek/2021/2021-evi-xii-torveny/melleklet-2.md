@@ -1,6 +1,6 @@
 2. melléklet a 2021. évi XII. törvényhez
 
-Az Egri Főegyházmegye részére átadásra kerülő, a Nemzeti Földügyi Központ tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok
+Az Egri Főegyházmegye részére átadásra kerülő, a Nemzeti Földalap kezeléséért felelős szerv tulajdonosi joggyakorlása alá tartozó állami tulajdonú ingatlanok
 
 |
 
