@@ -10,9 +10,9 @@
 
 (3)[^2] A (2) bekezdés szerinti javaslatnak
 
-a)[^3] az erdészeti ágazatra vonatkozó része tartalmára, ideértve a Jegyzőkönyv 3. cikk (3) és (4) bekezdése, valamint 6. cikke szerinti jelentési kötelezettséget, a Soproni Egyetem a Nemzeti Földügyi Központ (a továbbiakban: NFK) közreműködésével, a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a HungaroMet Nonprofit Zrt. részére,
+a)[^3] az erdészeti ágazatra vonatkozó része tartalmára, ideértve a Jegyzőkönyv 3. cikk (3) és (4) bekezdése, valamint 6. cikke szerinti jelentési kötelezettséget, a Soproni Egyetem az erdőgazdálkodásért felelős miniszter közreműködésével, a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a HungaroMet Nonprofit Zrt. részére,
 
-b)[^4] a földhasználati, földhasználat-változtatási ágazatra vonatkozó része tartalmára – az NFK közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a HungaroMet Nonprofit Zrt. részére,
+b)[^4] a földhasználati, földhasználat-változtatási ágazatra vonatkozó része tartalmára – az erdőgazdálkodásért felelős miniszter közreműködésével – a Nemzeti Élelmiszerlánc-biztonsági Hivatal a 14. § (1) bekezdése szerinti jelentéssel összhangban javaslatot tesz a HungaroMet Nonprofit Zrt. részére,
 
 c)[^5] a forgalmi jegyzékre vonatkozó része tartalmára az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: 2012. évi CCXVII. törvény) szerinti forgalmi jegyzék kezelője tesz javaslatot a HungaroMet Nonprofit Zrt. részére.
 
@@ -24,8 +24,8 @@ d)[^6] a mezőgazdasági ágazatra vonatkozó részének tartalmára az AKI Agr�
 
 [^1]: A 2. § (2) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (3) bekezdése a 236/2019. (X. 15.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^3]: A 2. § (3) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 4. §-ával megállapított, az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja, az 596/2023. (XII. 21.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdés b) pontja az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 4. §-ával megállapított, az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja, az 596/2023. (XII. 21.) Korm. rendelet 5. § a) pontja, a 107/2024. (V. 9.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés b) pontja az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja, a 107/2024. (V. 9.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (3) bekezdés c) pontja az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (3) bekezdés d) pontját a 620/2022. (XII. 29.) Korm. rendelet 5. §-a iktatta be, szövege az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (4) bekezdése a 135/2018. (VII. 25.) Korm. rendelet 9. § a) pontja, az 591/2023. (XII. 20.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

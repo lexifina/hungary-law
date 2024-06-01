@@ -1,5 +1,5 @@
 ## 17. § Ez a rendelet 2015. január 1-jén lép hatályba.
 
-18. §[^42]
+18. §[^43]
 
-[^42]: A 18. §-t az 527/2020. (XI. 26.) Korm. rendelet 24. §-a hatályon kívül helyezte.
+[^43]: A 18. §-t az 527/2020. (XI. 26.) Korm. rendelet 24. §-a hatályon kívül helyezte.

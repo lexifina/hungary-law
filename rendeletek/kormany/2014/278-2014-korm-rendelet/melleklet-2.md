@@ -68,7 +68,7 @@
 
 | 34. | Nemzeti Adó- és Vámhivatal | Üzemanyag-statisztika. | Magyarországon forgalmazott üzemanyagok mennyisége részletes típus szerinti bontásban, különös tekintettel a bioüzemanyagokra (HVO, FAME). |  |  |
 
-2. melléklet a 278/2014. (XI. 14.) Korm. rendelethez[^51]
+2. melléklet a 278/2014. (XI. 14.) Korm. rendelethez[^52]
 
 A források által kibocsátott üvegházhatású gázokról szolgáltatandó adatok
 
@@ -98,4 +98,4 @@ A források által kibocsátott üvegházhatású gázokról szolgáltatandó ad
 
 | 12. | Nitrogén-trifluorid termelése és forgalmazása | NF3 termelése, forgalmazása és felhasználása: mennyiség, felhasználási mód, technológiai adatok. |
 
-[^51]: A 2. melléklet a 236/2019. (X. 15.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
+[^52]: A 2. melléklet a 236/2019. (X. 15.) Korm. rendelet 17. § b) pontjával megállapított szöveg.
