@@ -60,7 +60,7 @@ mint átvett intézmény
 
 negyedrészről (amennyiben a települési önkormányzat a Nemzeti Földalapba tartozó földrészlet tulajdonával rendelkezik):
 
-az állam nevében eljáró Nemzeti Földügyi Központ
+az állam nevében eljáró Nemzeti Földalap kezeléséért felelős szerv
 
 Székhelye:
 
@@ -192,7 +192,7 @@ Beosztása:
 
 Elérhetősége:
 
-Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott oldalból áll, amelyből ..... példány az Átadót, ..... példány az Átvevőt, ..... példány a Nemzeti Földügyi Központot illeti meg. A jegyzőkönyv mellékletei 1 eredeti példányban készülnek, mely tőpéldányok az Átvevőnél vannak. Az Átvevő a tőpéldány elektronikus másolati példányait .................................................-ig köteles az aláírók rendelkezésére bocsátani.
+Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott oldalból áll, amelyből ..... példány az Átadót, ..... példány az Átvevőt, ..... példány a Nemzeti Földalap kezeléséért felelős szervet illeti meg. A jegyzőkönyv mellékletei 1 eredeti példányban készülnek, mely tőpéldányok az Átvevőnél vannak. Az Átvevő a tőpéldány elektronikus másolati példányait .................................................-ig köteles az aláírók rendelkezésére bocsátani.
 
 .................., 20…. ...................
 
@@ -206,7 +206,7 @@ Jelen jegyzőkönyv ..... eredeti példányban készült és ..... számozott ol
 
 |  | az átvett egészségügyi intézmény vezetője |
 
-A Nemzeti Földügyi Központ részéről:
+A Nemzeti Földalap kezeléséért felelős szerv részéről:
 
 ...................................................
 
@@ -222,4 +222,4 @@ D) Mellékletek – Dokumentumok
 
 E) Mellékletek – Kimutatások és táblázatok
 
-[^320]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 5. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 96. § d) pontja szerint módosított szöveg.
+[^320]: A 7. számú mellékletet a 125/2013. (IV. 26.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege az 550/2013. (XII. 30.) Korm. rendelet 46. §-a, a 221/2014. (IX. 4.) Korm. rendelet 440. §-a, a 30/2015. (II. 25.) Korm. rendelet 33. § e) pontja, a 159/2019. (VI. 28.) Korm. rendelet 5. § b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 96. § d) pontja, a 107/2024. (V. 9.) Korm. rendelet 5. § b)-c) pontja szerint módosított szöveg.
