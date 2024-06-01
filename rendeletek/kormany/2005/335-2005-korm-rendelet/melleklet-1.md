@@ -76,7 +76,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
 
 36. Nemzeti park igazgatóságok
 
-37.[^247] Nemzeti Földügyi Központ
+37.[^247]
 
 38.[^248] HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság
 
@@ -123,7 +123,7 @@ Az egységes kormányzati ügyiratkezelő rendszerbe bevont szervek[^217]
 [^244]: Az 1. melléklet 30. pontja a 281/2023. (VI. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^245]: Az 1. melléklet 33. pontját a 311/2017. (X. 31.) Korm. rendelet 12. §-a hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
 [^246]: Az 1. melléklet 34. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés b) pontja hatályon kívül helyezte, újonnan az 591/2023. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
-[^247]: Az 1. melléklet 37. pontja a 159/2019. (VI. 28.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^247]: Az 1. melléklet 37. pontját a 107/2024. (V. 9.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
 [^248]: Az 1. melléklet 38. pontja az 591/2023. (XII. 20.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^249]: Az 1. melléklet 39. pontját a 615/2022. (XII. 29.) Korm. rendelet 4. § a) pontja hatályon kívül helyezte.
 [^250]: Az 1. melléklet 42. pontja a 825/2021. (XII. 28.) Korm. rendelet 13. §-ával megállapított, a 306/2023. (VII. 11.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.

@@ -156,7 +156,7 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 
 46.[^281] Miniszterelnöki Kormányiroda
 
-47.[^282] Nemzeti Földügyi Központ
+47.[^282]
 
 48.[^283] Nemzeti Akkreditáló Hatóság
 
@@ -192,6 +192,6 @@ A központosított irattári szolgáltatásokat igénybe vevő szervek
 [^279]: A 3. melléklet 44. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 6/2020. (I. 31.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^280]: A 3. melléklet 45. pontját a 137/2019. (VI. 11.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
 [^281]: A 3. melléklet 46. pontját a 95/2018. (V. 22.) Korm. rendelet 1. § 2. pontja iktatta be.
-[^282]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^282]: A 3. melléklet 47. pontját a 159/2019. (VI. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 107/2024. (V. 9.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
 [^283]: A 3. melléklet 48. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
 [^284]: A 3. melléklet 49. pontját az 572/2020. (XII. 9.) Korm. rendelet 21. §-a iktatta be.
