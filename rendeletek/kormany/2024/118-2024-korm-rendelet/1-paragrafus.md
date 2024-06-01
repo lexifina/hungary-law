@@ -1,0 +1,5 @@
+## 1. A minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet módosítása
+
+1. § A minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet 1. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által rendeletben meghatározott, a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat érintő, e rendelet hatálya alá tartozó beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a minősített piaci szereplők jegyzékén szereplő gazdasági szereplő vehet részt.”
