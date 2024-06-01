@@ -1,4 +1,4 @@
-5. § (1)[^2] Fás szárú ültetvény telepítésének végrehajtását annak befejezését követő 15 napon belül az NFK honlapján közzétett formanyomtatványon be kell jelenteni az erdészeti hatóság részére.
+5. § (1)[^2] Fás szárú ültetvény telepítésének végrehajtását annak befejezését követő 15 napon belül a minisztérium honlapján közzétett formanyomtatványon be kell jelenteni az erdészeti hatóság részére.
 
 (2) Az (1) bekezdés szerinti bejelentésnek (a továbbiakban: telepítés végrehajtási bejelentés) a következő adatokat kell tartalmaznia:
 
@@ -18,4 +18,4 @@ e) a földhasználó nyilatkozata arról, hogy a bejelentett adatok a valóságn
 
 (5) A fás szárú ültetvény telepítésének eredményeként a földrészlet művelési ága nem változik meg.
 
-[^2]: Az 5. § (1) bekezdése a 29/2020. (II. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^2]: Az 5. § (1) bekezdése a 107/2024. (V. 9.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
