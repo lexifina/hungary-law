@@ -1,26 +1,26 @@
 3. melléklet a 218/2009. (X. 6.) Korm. rendelethez
 
-A vármegyei területfejlesztési koncepció és program javaslattevő fázisának tartalmi követelményei[^117]
+A vármegyei területfejlesztési koncepció és program javaslattevő fázisának tartalmi követelményei[^121]
 
-1.[^118] A vármegyei területfejlesztési koncepció tartalmi követelményei
+1.[^122] A vármegyei területfejlesztési koncepció tartalmi követelményei
 
-a)[^119] a vármegye jövőképe;
+a)[^123] a vármegye jövőképe;
 
-b)[^120] a vármegye fejlesztésének elvei;
+b)[^124] a vármegye fejlesztésének elvei;
 
-c)[^121] a vármegye fejlesztésének átfogó célja;
+c)[^125] a vármegye fejlesztésének átfogó célja;
 
 d) helyzetértékelés; a jövőkép, a fejlesztési elvek és az átfogó cél kapcsolata;
 
-e)[^122] külső koherencia vizsgálata: a célrendszer kapcsolata más országos szintű tervdokumentumokkal;
+e)[^126] külső koherencia vizsgálata: a célrendszer kapcsolata más országos szintű tervdokumentumokkal;
 
-f)[^123] a fejlesztési célok értelmezése a vármegyén belül különféle sajátosságokkal rendelkező területi részegységekre (a részcélok és beavatkozás területi egységei);
+f)[^127] a fejlesztési célok értelmezése a vármegyén belül különféle sajátosságokkal rendelkező területi részegységekre (a részcélok és beavatkozás területi egységei);
 
 g) a területfelhasználás alapelveit lefektető koncepció kidolgozása;
 
 h) a fejlesztés eszköz- és intézményrendszere.
 
-2.[^124] A vármegyei területfejlesztési program tartalmi követelményei
+2.[^128] A vármegyei területfejlesztési program tartalmi követelményei
 
 2.1. Stratégiai program:
 
@@ -28,7 +28,7 @@ a) a tervezési folyamat eljárásainak, a tervezés tárgykörének és körül
 
 b) célrendszer: a jövőkép, az átfogó cél és a fejlesztési elvek alapján a specifikus, horizontális és területi célok meghatározása, viszonyrendszerének bemutatása;
 
-c)[^125] a prioritások azonosítása: a prioritások leírása; célok és prioritások eredményességi kritériumainak, illetve számszerűsített mutatóinak meghatározása, a megvalósítás lehetséges szereplőinek és a közreműködők körének megjelölése; a prioritások leírásában egyértelműen azonosítani kell a vármegye, azaz a tervezésért felelős szervezet saját felelősségébe tartozó beavatkozásokat és azok esetleges külső feltételeit, valamint a vármegye felelősségén kívül eső, a célok eléréshez elvárt beavatkozásokat;
+c)[^129] a prioritások azonosítása: a prioritások leírása; célok és prioritások eredményességi kritériumainak, illetve számszerűsített mutatóinak meghatározása, a megvalósítás lehetséges szereplőinek és a közreműködők körének megjelölése; a prioritások leírásában egyértelműen azonosítani kell a vármegye, azaz a tervezésért felelős szervezet saját felelősségébe tartozó beavatkozásokat és azok esetleges külső feltételeit, valamint a vármegye felelősségén kívül eső, a célok eléréshez elvárt beavatkozásokat;
 
 d) a célok és a prioritások közötti kapcsolatok beazonosítása;
 
@@ -72,15 +72,15 @@ df) a környezeti értékelés,
 
 dg) a teljesítés-igazolás követelményrendszerének kialakítása;
 
-e)[^126] a vármegyei operatív programnak a vármegye felelősségén túlmutató fejlesztési igényeinek leírása: azokat az intézkedéseket és fontosabb projekteket írja le, melyek a vármegye stratégiai programjának megvalósítása szempontjából fontos fejlesztési irányt képviselnek, de megvalósításuk nem a vármegye operatív programjának kompetenciájába esik, hanem igényként fogalmazódik meg országos vagy ágazati programok irányába.
+e)[^130] a vármegyei operatív programnak a vármegye felelősségén túlmutató fejlesztési igényeinek leírása: azokat az intézkedéseket és fontosabb projekteket írja le, melyek a vármegye stratégiai programjának megvalósítása szempontjából fontos fejlesztési irányt képviselnek, de megvalósításuk nem a vármegye operatív programjának kompetenciájába esik, hanem igényként fogalmazódik meg országos vagy ágazati programok irányába.
 
-[^117]: A 3. melléklet címe a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^118]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^119]: A 3. melléklet 1. pont a) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
-[^120]: A 3. melléklet 1. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
-[^121]: A 3. melléklet 1. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
-[^122]: A 3. melléklet 1. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
-[^123]: A 3. melléklet 1. pont f) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § h) pontja szerint módosított szöveg.
-[^124]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
-[^125]: A 3. melléklet 2.1. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
-[^126]: A 3. melléklet 2.2. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § a) és d) pontja szerint módosított szöveg.
+[^121]: A 3. melléklet címe a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^122]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^123]: A 3. melléklet 1. pont a) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
+[^124]: A 3. melléklet 1. pont b) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
+[^125]: A 3. melléklet 1. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § c) pontja szerint módosított szöveg.
+[^126]: A 3. melléklet 1. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^127]: A 3. melléklet 1. pont f) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § h) pontja szerint módosított szöveg.
+[^128]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja szerint módosított szöveg.
+[^129]: A 3. melléklet 2.1. pont c) alpontja a 616/2022. (XII. 29.) Korm. rendelet 104. § a) pontja szerint módosított szöveg.
+[^130]: A 3. melléklet 2.2. pont e) alpontja a 67/2012. (IV. 5.) Korm. rendelet 23. § e) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § a) és d) pontja szerint módosított szöveg.

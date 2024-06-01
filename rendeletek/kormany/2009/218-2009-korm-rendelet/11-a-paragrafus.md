@@ -1,6 +1,6 @@
 11/A. §[^57] (1) A területrendezésért felelős miniszter a területrendezési terv készítése, módosítása előtt írásban megkeresi a földmérési és térinformatikai államigazgatási szervet a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, valamint a földmérési és térképészeti tevékenységről szóló 2012. évi XLVI. törvény 6. § (20) és (27) bekezdése alapján, a 12. mellékletben foglalt táblázat 2–7. sorában szereplő adatbázisok és adatok biztosítása érdekében.
 
-(2)[^58] A területrendezésért felelős miniszter a területrendezési terv készítése, módosítása előtt írásban megkeresi a Nemzeti Földügyi Központot a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvény 23/C. § (1b) bekezdése, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 31. § (4) bekezdése alapján, a 12. mellékletben foglalt táblázat 8. és 9. sorában szereplő adatbázisok és adatok biztosítása érdekében.
+(2)[^58] A területrendezésért felelős miniszter a területrendezési terv készítése, módosítása előtt írásban megkeresi a Magyar Államkincstárt (a továbbiakban: Kincstár) a területfejlesztésről szóló 2023. évi CII. törvény 30. § (8) bekezdése, valamint a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 31. § (4) bekezdése alapján, a 12. mellékletben foglalt táblázat 8. és 9. sorában szereplő adatbázisok és adatok biztosítása érdekében.
 
 (3) Az (1) és (2) bekezdés szerinti megkereséshez mellékelni kell
 
@@ -10,7 +10,7 @@ b)[^59] a területrendezési tervek kidolgozásáért felelős szerv és – ame
 
 (4) A földmérési és térinformatikai államigazgatási szerv az (1) bekezdés szerinti kérelmező részére a hiánytalan megkeresés kézhezvételétől számított tizenöt napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a 12. mellékletben foglalt táblázat 2–7. sora szerinti legfrissebb EOV rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
 
-(5) A Nemzeti Földügyi Központ a (2) bekezdés szerinti kérelmező részére a hiánytalan megkeresés kézhezvételétől számított tizenöt napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a 12. mellékletben foglalt táblázat 8. és 9. sora szerinti legfrissebb EOV rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
+(5)[^60] A Kincstár a (2) bekezdés szerinti kérelmező részére a hiánytalan megkeresés kézhezvételétől számított tizenöt napon belül elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a 12. mellékletben foglalt táblázat 8. és 9. sora szerinti legfrissebb EOV rendszerű adatbázisokat és adatokat, továbbá az adatszolgáltatás sorszámát.
 
 (6) A területrendezési terv monitorozásához a földmérési és térinformatikai államigazgatási szerv a (4) bekezdés szerint szolgáltatott,
 
@@ -20,12 +20,15 @@ b) a 12. mellékletében foglalt táblázat 5–7. sorában szereplő adatbázis
 
 elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át az (1) bekezdés szerinti megkereső részére.
 
-(7) A területrendezési terv monitorozásához a Nemzeti Földügyi Központ az (5) bekezdés szerint szolgáltatott, a 12. mellékletben foglalt táblázat 8. és 9. sorában szereplő adatbázisokat, adatokat évente frissítve, elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a (2) bekezdés szerinti megkereső részére.
+(7)[^61] A területrendezési terv monitorozásához a Kincstár az (5) bekezdés szerint szolgáltatott, a 12. mellékletben foglalt táblázat 8. és 9. sorában szereplő adatbázisokat, adatokat évente frissítve, elektronikus szolgáltatás formájában vagy – amennyiben a műszaki feltételek nem adottak – digitális adathordozón adja át a (2) bekezdés szerinti megkereső részére.
 
 (8) A (4)–(7) bekezdés szerint szolgáltatott adatbázisok és adatok felhasználásával készült dokumentumokon fel kell tüntetni az adatszolgáltató által megadott adatszolgáltatás sorszámát, valamint a 12. mellékletben foglalt táblázat 2–7. sorában szereplő adatbázisok és adatok felhasználásával készült dokumentumokon azt, hogy azok az állami alapadatbázisok felhasználásával készültek.
 
-(9) Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság és a Nemzeti Földügyi Központ, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (4) és (5) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
+(9)[^62] Hálózati adatszolgáltatás esetén a földmérési és térinformatikai államigazgatási szervként eljáró Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság és a Kincstár, egyéb, nem hálózati adatszolgáltatás esetén a területileg illetékes kormányhivatal szakfelügyelete szakfelügyeleti ellenőrzés keretében külön jogszabályban meghatározott módon vizsgálhatja a (4) és (5) bekezdés szerint szolgáltatott adatbázisok, adatok hozzáférésének és felhasználásnak jogszerűségét.
 
 [^57]: A 11/A. §-t a 334/2017. (XI. 9.) Korm. rendelet 1. §-a iktatta be, szövege a 38/2020. (III. 10.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^58]: A 11/A. § (2) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^58]: A 11/A. § (2) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 6. § b) pontja, a 107/2024. (V. 9.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^59]: [Nem vezethető át a 351/2023. (VII. 27.) Korm. rendelet 6. § c) pontjában foglalt módosítás, amely szerint a 11/A. § (3) bekezdés b) pontjában az „és – ha a feladatok kidolgozásában érintett – a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész hatályát veszti.]
+[^60]: A 11/A. § (5) bekezdése a 107/2024. (V. 9.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^61]: A 11/A. § (7) bekezdése a 107/2024. (V. 9.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^62]: A 11/A. § (9) bekezdése a 107/2024. (V. 9.) Korm. rendelet 6. § d) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 | 6. | e) jó termőhelyi adottságú szántók övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
-| 7. | f) erdők övezete | Nemzeti Földügyi Központ | erdészeti hatáskörében eljáró vármegyei kormányhivatal |
+| 7. | f) erdők övezete | erdőgazdálkodásért felelős miniszter | erdészeti hatáskörében eljáró vármegyei kormányhivatal |
 
 | 8. | g) erdőtelepítésre javasolt terület övezete | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság | Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság |
 
@@ -46,10 +46,10 @@
 
 | 22. | e) tómeder övezete | területi vízügyi igazgatóság |  |
 
-| 23. | f) borszőlő termőhelyi kataszteri terület övezete | Nemzeti Földügyi Központ |  |
+| 23. | f) borszőlő termőhelyi kataszteri terület övezete | Kincstár |  |
 
-15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^169]
+15. melléklet a 218/2009. (X. 6.) Korm. rendelethez[^173]
 
 A Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvény 1/2. mellékletében felsorolt, a Balaton Kiemelt Üdülőkörzethez tartozó település településrendezési tervének készítése vagy módosítása során előzetes adatszolgáltatásra kötelezett államigazgatási szervek
 
-[^169]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § b) pontja és 2. § b) pontja szerint módosított szöveg.
+[^173]: A 15. mellékletet a 121/2019. (V. 27.) Korm. rendelet 17. § (4) bekezdése iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 76. § c) pontja, a 30/2020. (II. 28.) Korm. rendelet 13. § c)–d) pontja, a 420/2021. (VII. 15.) Korm. rendelet 52. § d) pontja, a 825/2021. (XXII. 28.) Korm. rendelet 22. § c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 104. § d) pontja, a 433/2023. (IX. 21.) Korm. rendelet 1. § b) pontja és 2. § b) pontja, a 107/2024. (V. 9.) Korm. rendelet 6. § j) pontja szerint módosított szöveg.
