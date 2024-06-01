@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-433-20-
 | 2023-01-01 | 2017-433-20-22.11 | 29/2020. (II. 28.) Korm. rendelet |
 | 2024-01-01 | 2017-433-20-22.12 | 596/2023. (XII. 21.) Korm. rendelet |
 | 2024-05-01 | 2017-433-20-22.13 | 77/2020. (III. 31.) Korm. rendelet |
+| 2024-06-01 | 2017-433-20-22.15 | 107/2024. (V. 9.) Korm. rendelet |
