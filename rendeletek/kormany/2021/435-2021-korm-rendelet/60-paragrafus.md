@@ -10,7 +10,7 @@ a) az (EU) 2019/34 bizottsági végrehajtási rendelet I. melléklete szerinti e
 
 b) a Minisztérium honlapján közzétett minta szerint elkészített termékleírást;
 
-c) az NFK által készített térképet
+c)[^52] a Kincstár által készített térképet
 
 ca) a lehatárolt termőhelyről és
 
@@ -21,3 +21,5 @@ d) annak igazolását, hogy a kérelmet a hegyközségi tagok a hegyközség kö
 e) a kérelemről tartott hegyközségi szavazás vagy több érintett hegyközség esetén a hegyközségi szavazások eredményét;
 
 f) a kérelemről a hegyközségi közgyűlésen kifejtett esetleges kisebbségi véleményt is tartalmazó közgyűlési jegyzőkönyvet vagy több érintett hegyközség esetén valamennyi hegyközség közgyűlési jegyzőkönyvét.
+
+[^52]: A 60. § c) pont nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 42. § f) pontja szerint módosított szöveg.

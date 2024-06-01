@@ -22,7 +22,7 @@ c) a telepítés, kivágás tényét bejelentették, de a telepítést vagy a ki
 
 (5) A mulasztási bírság összege hektáronként 500 000 forint a szőlőültetvény rendeltetésszerű művelése megkezdésének a hegybíró felszólítása ellenére történő elmulasztása esetén.
 
-(6)[^66] A mulasztási bírság összege 10 000 forinttól 500 000 forintig terjed
+(6)[^75] A mulasztási bírság összege 10 000 forinttól 500 000 forintig terjed
 
 a) a gazdasági aktára vonatkozó adatszolgáltatási kötelezettség elmulasztása,
 
@@ -32,11 +32,11 @@ c) a bejelentési vagy adatszolgáltatási kötelezettség elmulasztása,
 
 d) a bejelentésköteles tevékenység bejelentés nélkül történő végzése vagy
 
-e)[^67] borászati kísérőokmány nélküli vagy nem megfelelő adattartalmú borászati kísérőokmánnyal való szállítása
+e)[^76] borászati kísérőokmány nélküli vagy nem megfelelő adattartalmú borászati kísérőokmánnyal való szállítása
 
 ## esetén.
 
 (7) A (6) bekezdésben meghatározott mulasztási bírságot a mulasztási bírság kiszabásának alapjául szolgáló adatszolgáltatási kötelezettséggel érintett szőlőültetvény területe, a borászati terméktétel mennyisége, a mulasztás időtartama és a megelőző 5 borpiaci évben kiszabott mulasztási bírságok számának figyelembevételével kell kiszabni.
 
-[^66]: A 83. § (6) bekezdés nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
-[^67]: A 83. § (6) bekezdés e) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) és k) pontja szerint módosított szöveg.
+[^75]: A 83. § (6) bekezdés nyitó szövegrésze a 392/2023. (VIII. 14.) Korm. rendelet 17. § j) pontja szerint módosított szöveg.
+[^76]: A 83. § (6) bekezdés e) pontja a 392/2023. (VIII. 14.) Korm. rendelet 17. § d) és k) pontja szerint módosított szöveg.

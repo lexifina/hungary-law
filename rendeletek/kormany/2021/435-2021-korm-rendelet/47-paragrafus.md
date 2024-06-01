@@ -6,7 +6,7 @@
 
 ## 19. A végső származási bizonyítvány és a forgalombahozatali azonosító
 
-47. §[^41] (1) A NÉBIH a végső származási bizonyítvány kiállítását követően a – Btv. 9. § (2) bekezdés a) pontjában meghatározott borászati termék kivételével – automatikusan kiadja a borászati terméktétel forgalombahozatali azonosítóját.
+47. §[^46] (1) A NÉBIH a végső származási bizonyítvány kiállítását követően a – Btv. 9. § (2) bekezdés a) pontjában meghatározott borászati termék kivételével – automatikusan kiadja a borászati terméktétel forgalombahozatali azonosítóját.
 
 (2) A borászati üzemengedélyes által egy borpiaci évben legfeljebb 100 hl mennyiségben forgalomba hozni vagy Magyarország területéről kiszállítani kívánt, még erjedésben lévő újbor forgalomba hozatala során nem kell alkalmazni a Btv. 9. § (1) bekezdés b) és c) pontját.
 
@@ -30,4 +30,4 @@ c) ha az analitikai vizsgálat jegyzőkönyve, illetve az érzékszervi vizsgál
 
 (7) A forgalombahozatali azonosító érvénytelenítéséről a NÉBIH értesíti a hegybírót, aki az adott borászati terméktétel végső származási bizonyítványát visszavonja.
 
-[^41]: A 47. § a 23/2022. (I. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^46]: A 47. § a 23/2022. (I. 27.) Korm. rendelet 11. §-ával megállapított szöveg.
