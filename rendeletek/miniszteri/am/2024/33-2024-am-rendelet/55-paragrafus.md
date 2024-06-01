@@ -1,7 +1,3 @@
-55. § A 21/2024. (IV. 9.) AM rendelet
+55. §[^56]
 
-a) 3. § (1) bekezdésében a „felszámolási, végelszámolási vagy adósságrendezési eljárás” szövegrész helyébe a „csőd-, felszámolási, végelszámolási, adósságrendezési” szöveg,
-
-b) 6. § (2) bekezdés a) pontjában és 6. § (2) bekezdés d) pont da) alpontjában az „Egységes kérelem rendelet 1. § 45. pontja” szövegrész helyébe az „Egységes kérelem rendelet 1. § 46. pontja” szöveg
-
-lép.
+[^56]: Az 55. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

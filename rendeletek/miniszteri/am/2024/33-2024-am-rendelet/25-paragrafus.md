@@ -1,1 +1,3 @@
-25. § Hatályát veszti a 20/2019. (V. 27.) AM rendelet 3. § (8) bekezdése és 4. § (7) bekezdése.
+25. §[^26]
+
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

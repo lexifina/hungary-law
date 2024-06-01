@@ -1,5 +1,5 @@
 ## 14. A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet módosítása
 
-49. § A Közös Agrárpolitika Stratégiai Tervből finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 18/2024. (IV. 9.) AM rendelet [a továbbiakban: 18/2024. (IV. 9.) AM rendelet] a következő 24. §-sal egészül ki:
+49. §[^50]
 
-„24. § E rendeletnek az egyes agrártámogatásokat szabályozó miniszteri rendeletek módosításáról szóló 33/2024. (V. 30.) AM rendelettel [a továbbiakban: 33/2024. (V. 30.) AM rendelet] megállapított 3. § (10) bekezdését a 33/2024. (V. 30.) AM rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^50]: A 49. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

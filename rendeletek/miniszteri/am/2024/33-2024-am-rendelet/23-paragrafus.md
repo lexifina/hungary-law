@@ -1,3 +1,3 @@
-23. § A 20/2019. (V. 27.) AM rendelet 7. §-a helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„7. § Ez a rendelet az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet szerinti támogatást tartalmaz.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

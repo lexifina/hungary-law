@@ -1,1 +1,3 @@
-29. § A 41/2019. (VIII. 30.) AM rendelet 4. § (3) bekezdésében a „bejelentett tenyészetében” szövegrész helyébe a „bejelentett állattartó típusú tenyészetében” szöveg lép.
+29. §[^30]
+
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

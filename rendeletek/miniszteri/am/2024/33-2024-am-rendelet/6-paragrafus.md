@@ -1,5 +1,5 @@
 ## 3. A szárított takarmány előállítók által igénybe vehető csekély összegű (de minimis) támogatásról szóló 66/2012. (VII. 10.) VM rendelet módosítása
 
-6. § A szárított takarmány előállítók által igénybe vehető csekély összegű (de minimis) támogatásról szóló 66/2012. (VII. 10.) VM rendelet [a továbbiakban: 66/2012. (VII. 10.) VM rendelet] 1. § a) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-(E rendelet alkalmazásában:)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

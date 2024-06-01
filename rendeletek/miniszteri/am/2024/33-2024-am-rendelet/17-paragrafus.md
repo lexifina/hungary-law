@@ -1,7 +1,3 @@
-## „4. mezőgazdasági termelő: a közvetlen mezőgazdasági támogatások, valamint egyes vidékfejlesztési támogatások igénylése esetén betartandó, a közös agrárpolitika keretében a tagállamok által elkészítendő stratégiai tervhez (KAP stratégiai terv) nyújtott, az Európai Mezőgazdasági Garanciaalap (EMGA) és az Európai Mezőgazdasági Vidékfejlesztési Alap (EMVA) által finanszírozott támogatásra vonatkozó szabályok megállapításáról, valamint az 1305/2013/EU és az 1307/2013/EU rendelet hatályon kívül helyezéséről szóló, 2021. december 2-i (EU) 2021/2115 európai parlamenti és tanácsi rendelet 3. cikk 1. pontja szerinti természetes vagy jogi személy, illetve természetes vagy jogi személyek csoportja, aki vagy amely a KAP I rendelet 4. cikk (2) bekezdése alapján meghatározott mezőgazdasági tevékenységet folytat;”
+17. §[^18]
 
-17. § A 26/2014. (XI. 20.) FM rendelet 4. § (2) és (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A támogatási feltételeknek való megfelelés ellenőrzése során az egységes kérelemmel igényelhető egyes agrártámogatások eljárási szabályairól szóló 15/2024. (IV. 9.) AM rendelet [a továbbiakban: 15/2024. (IV. 9.) AM rendelet] 31. §-ában foglaltakat kell alkalmazni.
-
-(3) Az ellenőrzések során a támogatási feltételeknek való meg nem felelés esetén a támogatási összeg meghatározása során a 15/2024. (IV. 9.) AM rendelet 35–36. §-a, valamint 38. §-a szerinti eljárást kell alkalmazni.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

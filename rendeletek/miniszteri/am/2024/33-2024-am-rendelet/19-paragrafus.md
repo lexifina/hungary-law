@@ -1,5 +1,5 @@
 ## 6. A tenyészkos és tenyészbak tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 74/2016. (XI. 29.) FM rendelet módosítása
 
-19. § A tenyészkos és tenyészbak tenyésztésbe állításának mezőgazdasági csekély összegű támogatásáról szóló 74/2016. (XI. 29.) FM rendelet [a továbbiakban: 74/2016. (XI. 29.) FM rendelet] 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(6) A mezőgazdasági termékek elsődleges előállításával foglalkozó ágazatban, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet [a továbbiakban: (EU) 2023/2831 bizottsági rendelet] hatálya alá tartozó egy vagy több ágazatban egyaránt tevékenységet folytató vállalkozások esetében a mezőgazdasági termelőágazatra tekintettel az 1408/2013/EU bizottsági rendelet alapján nyújtott támogatások az (EU) 2023/2831 bizottsági rendelet 3. cikk (2) bekezdésében rögzített felső határig halmozhatók az utóbbi tevékenységre vagy tevékenységekre tekintettel nyújtott támogatással, feltéve, hogy a tevékenységek szétválasztása vagy a költségek megkülönböztetése révén biztosított, hogy az elsődleges mezőgazdasági termelőtevékenység ne részesüljön az (EU) 2023/2831 bizottsági rendelet alapján nyújtott támogatásban.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

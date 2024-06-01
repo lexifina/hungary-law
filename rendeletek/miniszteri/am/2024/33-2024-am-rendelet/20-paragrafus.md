@@ -1,1 +1,3 @@
-20. § A 74/2016. (XI. 29.) FM rendelet 2. § (2) bekezdés nyitó szövegrészében az „az a)–c) pontban foglaltak” szövegrész helyébe az „a b) pontban foglaltak” szöveg lép.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

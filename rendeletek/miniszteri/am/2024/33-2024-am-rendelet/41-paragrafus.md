@@ -1,3 +1,3 @@
-41. § A 17/2024. (IV. 9.) AM rendelet 12. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+41. §[^42]
 
-(A gyakorlat3 keretében)
+[^42]: A 41. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

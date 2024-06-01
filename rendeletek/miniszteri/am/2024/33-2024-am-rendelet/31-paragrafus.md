@@ -1,1 +1,3 @@
-31. § A 14/2023. (IV. 19.) AM rendelet 11. melléklete az 1. melléklet szerint módosul.
+31. §[^32]
+
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

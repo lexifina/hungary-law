@@ -1,1 +1,3 @@
-34. § Hatályát veszti a 15/2023. (IV. 19.) AM rendelet 6. § b) pont bc) alpontja.
+34. §[^35]
+
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

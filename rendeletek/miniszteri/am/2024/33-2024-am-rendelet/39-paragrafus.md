@@ -1,7 +1,3 @@
-39. § A 16/2024. (IV. 9.) AM rendelet
+39. §[^40]
 
-a) 1. § 20. pontjában az „ott felsorolt fajok aránya” szövegrész helyébe az „ott felsorolt fajok magdarabszámaránya” szöveg,
-
-b) 7. § (2) bekezdésében a „hatáskörrel rendelkező hatóság az eljárását megszünteti” szövegrész helyébe a „hatáskörrel rendelkező hatóság a döntéshozataltól eltekinthet” szöveg
-
-lép.
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
