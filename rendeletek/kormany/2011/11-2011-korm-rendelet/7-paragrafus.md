@@ -1,3 +1,3 @@
-## 6. §[^11] Ha a nyilvántartásban szereplő földrészlet a Nemzeti Földalapból kikerül, a földrészletet az NFK haladéktalanul törli a nyilvántartás számítógépes adatbázisából. Az NFK a törölt földrészletekről jegyzéket vezet. A jegyzék tartalmazza a törlés időpontjában fennálló, e rendelet szerint nyilvántartott adatokat, tényeket, jogokat (ide nem értve a haszonbérlőnek, vagyonkezelőnek, erdőgazdálkodónak, és a megbízottnak a személyes adatait), és a törlés alapjául szolgáló tény, körülmény leírását, oly módon, hogy a kapcsolódó okiratok az okirattárból visszakereshetők legyenek.
+7. §[^13] A vagyonnyilvántartás vezetésének részletes szabályait a miniszter szabályzatban határozza meg. A szabályzatot a miniszter által vezetett minisztérium a honlapján közzé kell tenni.
 
-[^11]: A 6. § a 159/2019. (VI. 28.) Korm. rendelet 43. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^13]: A 7. § a 107/2024. (V. 9.) Korm. rendelet 13. §-ával megállapított szöveg.
