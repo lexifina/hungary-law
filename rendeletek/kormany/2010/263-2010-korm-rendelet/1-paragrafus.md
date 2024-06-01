@@ -1,4 +1,4 @@
-1. § (1)[^1] A Nemzeti Földalapba tartozó földrészletek közül a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 1. § (1) bekezdés a) és c) pontjában meghatározott földrészletek (a továbbiakban: földrészlet) adhatók szociális földprogram (a továbbiakban: program) megvalósítása céljából önkormányzati vagyonkezelésbe. A földrészletnek a program céljára történő vagyonkezelésbe adására vonatkozó felhívást – hirdetmény formájában – a 2. §-ban meghatározott módon közzé kell tenni. A hirdetmény közzétételéről a Nemzeti Földügyi Központ (a továbbiakban: NFK) gondoskodik.
+1. § (1)[^1] A Nemzeti Földalapba tartozó földrészletek közül a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény (a továbbiakban: Nfatv.) 1. § (1) bekezdés a) és c) pontjában meghatározott földrészletek (a továbbiakban: földrészlet) adhatók szociális földprogram (a továbbiakban: program) megvalósítása céljából önkormányzati vagyonkezelésbe. A földrészletnek a program céljára történő vagyonkezelésbe adására vonatkozó felhívást – hirdetmény formájában – a 2. §-ban meghatározott módon közzé kell tenni. A hirdetmény közzétételéről a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) gondoskodik.
 
 (1a)[^2] Az (1) bekezdésben meghatározott hirdetmény évente legfeljebb egyszer tehető közzé. E rendelkezést nem kell alkalmazni, ha a Kormány által a szociális földprogram tekintetében kiemelt településsé nyilvánított település önkormányzata kéri a hirdetmény közzétételét.
 
@@ -16,7 +16,7 @@ c) olyan földrészlet, amelyen harmadik személynek fennálló joga vagy követ
 
 (5)[^5]
 
-[^1]: Az 1. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 39. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^1]: Az 1. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 39. §-ával megállapított, a 107/2024. (V. 9.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1a) bekezdését a 101/2011. (VI. 29.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^3]: Az 1. § (2) bekezdés nyitó szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 481. §-a szerint módosított szöveg.
 [^4]: Az 1. § (4) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 19. § (2) bekezdésével megállapított, a 159/2019. (VI. 28.) Korm. rendelet 42. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 56. §-át.

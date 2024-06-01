@@ -2,6 +2,6 @@
 
 (2) A program céljára földrészletet legalább két évre, legfeljebb tizenöt évre lehet vagyonkezelésbe adni.
 
-(3)[^26] A programnak a már vagyonkezelésbe átadott földrészleteken túl további földrészletekre történő kiterjesztése új kérelemnek minősül.
+(3)[^28] A programnak a már vagyonkezelésbe átadott földrészleteken túl további földrészletekre történő kiterjesztése új kérelemnek minősül.
 
-[^26]: A 8. § (3) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
+[^28]: A 8. § (3) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 23. § g) pontja szerint módosított szöveg.
