@@ -1,4 +1,4 @@
-23/E. §[^59] (1) A telket – a nem építési telek telekegyesítése és telekhatár-rendezése, valamint erdő művelési ág esetén a telekfelosztás és telekcsoport újraosztása kivételével – úgy kell kialakítani, hogy a kialakuló telkek közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint vagy önálló helyrajzi számon nyilvántartott magánútról gépjárművel közvetlenül megközelíthetőek legyenek.
+23/E. §[^60] (1) A telket – a nem építési telek telekegyesítése és telekhatár-rendezése, valamint erdő művelési ág esetén a telekfelosztás és telekcsoport újraosztása kivételével – úgy kell kialakítani, hogy a kialakuló telkek közterületnek gépjármű-közlekedésre alkalmas részéről az adott közterületre vonatkozó jogszabályi előírások szerint vagy önálló helyrajzi számon nyilvántartott magánútról gépjárművel közvetlenül megközelíthetőek legyenek.
 
 (2) Magánút és közmű műtárgy elhelyezésének céljára szolgáló telek kialakítása esetében a helyi építési szabályzatban előírt építési övezet, övezet szerinti rendeltetés céljára szolgáló telek méretére vonatkozó előírásokat nem kell figyelembe venni. A magánút kialakítása a szomszédos telek beépíthetőségét nem korlátozhatja, a magánút közúti csatlakozását biztosítani szükséges, és a helyi építési szabályzat magánútra vonatkozó rendelkezéseit teljesíteni kell.
 
@@ -10,4 +10,4 @@
 
 (6) Telekalakítással érintett beépített vagy a 23/H. § szerint beépítésre tervezett telek esetében a helyi építési szabályzat részét képező szabályozási terven jelölt építési övezethatár és övezethatár – a műemlék telke kivételével – kötelezően kialakítandó telekhatárt jelöl.
 
-[^59]: A 23/E. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^60]: A 23/E. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.

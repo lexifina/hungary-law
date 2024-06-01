@@ -30,8 +30,8 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 2.9. a beépített földrészlet esetén a földrészlet eredeti és a telekalakítás utáni beépítési százalékát.
 
-3.[^81] A telekalakítási záradék:
+3.[^82] A telekalakítási záradék:
 
 A kormányhivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig hatályos.« záradékszöveggel látja el.
 
-[^81]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^82]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

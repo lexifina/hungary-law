@@ -1,4 +1,4 @@
-23/G. §[^61] (1) Ha a telek területe a vonatkozó előírások szerint megosztható, de homlokvonalának hossza ezt másként nem teszi lehetővé, – a területre vonatkozó helyi építési szabályzat eltérő rendelkezése hiányában – nyúlványos telek is kialakítható.
+23/G. §[^62] (1) Ha a telek területe a vonatkozó előírások szerint megosztható, de homlokvonalának hossza ezt másként nem teszi lehetővé, – a területre vonatkozó helyi építési szabályzat eltérő rendelkezése hiányában – nyúlványos telek is kialakítható.
 
 (2) A nyúlványos telek területének a nyúlvány nélkül is meg kell felelnie a helyi építési szabályzat legkisebb telekterületre vonatkozó előírásának.
 
@@ -6,4 +6,4 @@
 
 (4) Kettőnél több nyúlványos telek egymás melletti nyúlvánnyal nem alakítható ki.
 
-[^61]: A 23/G. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^62]: A 23/G. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.

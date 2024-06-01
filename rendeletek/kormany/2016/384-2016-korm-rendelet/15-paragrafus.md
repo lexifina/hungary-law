@@ -8,7 +8,7 @@ a) a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.),
 
 b) a Magyar Államkincstár (a továbbiakban: Kincstár),
 
-c) a Nemzeti Földügyi Központ (a továbbiakban: NFK),
+c)[^26] a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK),
 
 d) a Maradványvagyon-hasznosító Zártkörűen Működő Részvénytársaság (a továbbiakban: MVH)
 
@@ -20,7 +20,7 @@ megkeresésére az ingatlan-nyilvántartási adatbázisból adatleválogatást v
 
 (4) Díjmentes adatszolgáltatásra helyrajzi számonként évente egy alkalommal kerülhet sor, a díjmentességről a megkeresőnek a vonatkozó jogszabályhely megjelölésével a megkeresésben nyilatkoznia kell.
 
-(5)[^26] Az MNV Zrt. és az MVH részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
+(5)[^27] Az MNV Zrt. és az MVH részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
 
 a) a lakásszövetkezeti tagot megillető állandó használati jog,
 
@@ -40,12 +40,13 @@ d) jelzálogjog ranghelyének előzetes biztosítása, lemondás jelzálogjog el
 
 e) földminősítési mintatér megjelölése.
 
-(7)[^27] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
+(7)[^28] Az NFK részére történő, az (1) bekezdésben meghatározott adatszolgáltatás az alábbi adatokra nem terjed ki:
 
 a) a lakásszövetkezeti tagot megillető állandó használati jog,
 
 b) a társasházakról szóló törvény szerinti, a közös tulajdon átruházására a tulajdonostársak összes tulajdoni hányadának legalább kétharmadát feljogosító alapító okirat elfogadása, módosítása, továbbá az elfogadás, illetve a módosítás időpontja.
 
 [^25]: A 15. § (1) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^26]: A 15. § (5) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
-[^27]: A 15. § (7) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^26]: A 15. § (1) bekezdés c) pontja a 107/2024. (V. 9.) Korm. rendelet 29. §-a szerint módosított szöveg.
+[^27]: A 15. § (5) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
+[^28]: A 15. § (7) bekezdés nyitó szövegrésze a 159/2019. (VI. 28.) Korm. rendelet 52. § b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
