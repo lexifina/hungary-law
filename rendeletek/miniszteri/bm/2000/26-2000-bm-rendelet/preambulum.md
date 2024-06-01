@@ -1,1 +1,0 @@
-A polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló 1994. évi LXIV. törvény (a továbbiakban: Pttv.) módosításáról szóló 2000. évi XLIV. törvény 12. §-ának (5) bekezdésében kapott felhatalmazás alapján a következőket rendelem el:
