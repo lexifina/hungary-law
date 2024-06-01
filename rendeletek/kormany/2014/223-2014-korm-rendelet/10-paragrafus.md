@@ -2,57 +2,57 @@
 
 10. § (1)[^16] Területi vízügyi hatóságként, továbbá területi vízvédelmi hatóságként és – ha kormányrendelet eltérően nem rendelkezik – a (2a) bekezdésben foglalt kivétellel első fokon
 
-1. [^17] a Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság,
+1.[^17] a Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság,
 
 2. a Fővárosi Katasztrófavédelmi Igazgatóság,
 
-3. [^18] a Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság,
+3.[^18] a Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság,
 
-4. [^19] a Fejér Vármegyei Katasztrófavédelmi Igazgatóság,
+4.[^19] a Fejér Vármegyei Katasztrófavédelmi Igazgatóság,
 
-5. [^20] a Baranya Vármegyei Katasztrófavédelmi Igazgatóság,
+5.[^20] a Baranya Vármegyei Katasztrófavédelmi Igazgatóság,
 
-6. [^21] a Vas Vármegyei Katasztrófavédelmi Igazgatóság,
+6.[^21] a Vas Vármegyei Katasztrófavédelmi Igazgatóság,
 
-7. [^22] a Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság,
+7.[^22] a Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság,
 
-8. [^23] a Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság,
+8.[^23] a Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság,
 
-9. [^24] a Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság,
+9.[^24] a Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság,
 
-10. [^25] a Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság,
+10.[^25] a Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság,
 
-11. [^26] a Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság, és
+11.[^26] a Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság, és
 
-12. [^27] a Békés Vármegyei Katasztrófavédelmi Igazgatóság
+12.[^27] a Békés Vármegyei Katasztrófavédelmi Igazgatóság
 
-## (az 1–12. pontban foglaltak a továbbiakban együtt: hatóság) jár el.
+(az 1–12. pontban foglaltak a továbbiakban együtt: hatóság) jár el.
 
 (2) A hatóság illetékességi területét a 2. melléklet határozza meg.
 
-(2a) [^28] A mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény esetében vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként országos illetékességgel a Nemzeti Földügyi Központ mint öntözési igazgatási szerv jár el.
+(2a)[^28] A mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény esetében vízügyi hatóságként, vízvédelmi hatóságként, valamint szakhatóságként országos illetékességgel az öntözéses gazdálkodásról szóló 2019. évi CXIII. törvény szerinti öntözési igazgatási szerv jár el.
 
-(3) [^29] A Kormány országos vízügyi hatóságként, továbbá országos vízvédelmi hatóságként – országos illetékességgel – a (2a) bekezdésben meghatározott kivétellel a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki, amely a hatóság első fokú vízügyi hatósági, vízvédelmi hatósági eljárása esetén másodfokon jár el.
+(3)[^29] A Kormány országos vízügyi hatóságként, továbbá országos vízvédelmi hatóságként – országos illetékességgel – a (2a) bekezdésben meghatározott kivétellel a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki, amely a hatóság első fokú vízügyi hatósági, vízvédelmi hatósági eljárása esetén másodfokon jár el.
 
-(3a) [^30] A területi vízvédelmi hatóság és az országos vízvédelmi hatóság a vízvédelmi szakkérdéseket – tekintettel a környezetet veszélyeztető hatásokon belül a vizek terhelésére és állapotromlására is – minden területi vízügyi hatósági és országos vízügyi hatósági eljárásban szakkérdésként vizsgálja.
+(3a)[^30] A területi vízvédelmi hatóság és az országos vízvédelmi hatóság a vízvédelmi szakkérdéseket – tekintettel a környezetet veszélyeztető hatásokon belül a vizek terhelésére és állapotromlására is – minden területi vízügyi hatósági és országos vízügyi hatósági eljárásban szakkérdésként vizsgálja.
 
-(3b) [^31] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján elektronikus ügyintézésre köteles ügyfél, valamint az elektronikus ügyintézést választó természetes személy a vízvédelmi eljárás lefolytatására irányuló kérelmét vagy bejelentését a Vgtv. szerinti VIZEK elektronikus rendszerben nyújtja be.
+(3b)[^31] Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény alapján elektronikus ügyintézésre köteles ügyfél, valamint az elektronikus ügyintézést választó természetes személy a vízvédelmi eljárás lefolytatására irányuló kérelmét vagy bejelentését a Vgtv. szerinti VIZEK elektronikus rendszerben nyújtja be.
 
 (4) A (3) bekezdés szerinti szerv részt vesz a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a belső piaci információs rendszeren keresztül megvalósított igazgatási együttműködésben a belső piaci információs rendszer keretében történő igazgatási együttműködésről és a 2008/49/EK bizottsági határozat hatályon kívül helyezéséről szóló, 2012. október 25-i 1024/2012/EU európai parlamenti és tanácsi rendeletben és kormányrendeletben meghatározott szabályok szerint.
 
 (5) A Tisza-völgy árvízi biztonságának növelését, valamint az érintett térség terület- és vidékfejlesztését szolgáló program (a Vásárhelyi-terv továbbfejlesztése) közérdekűségéről és megvalósításáról szóló 2004. évi LXVII. törvény alapján megvalósuló vízilétesítmények és vízimunkák engedélyezése esetén vízügyi hatóságként első fokon az (1) bekezdés 10. pontja szerinti szerv jár el.
 
-(6) [^32] A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként, valamint területi vízvédelmi hatóságként – országos illetékességgel – első fokon az (1) bekezdés 10. pontja szerinti hatóság jár el.
+(6)[^32] A sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendeletben (a továbbiakban: R.) meghatározott építmények és ingatlanok esetében területi vízügyi hatóságként, valamint területi vízvédelmi hatóságként – országos illetékességgel – első fokon az (1) bekezdés 10. pontja szerinti hatóság jár el.
 
 Ezekben az eljárásokban
 
 a) csak olyan ügyintéző vehet részt, aki a biztonsági vezető által a nemzeti minősített adatra kiállított személyi biztonsági tanúsítvánnyal vagy a külföldi minősített adatra a Nemzeti Biztonsági Felügyelet által kiállított személyi biztonsági tanúsítvánnyal rendelkezik,
 
-b) [^33] – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szerinti szakhatóságok működnek közre.
+b)[^33] – e rendeletben meghatározottaktól eltérően, érintettségük esetén – az egyes közérdeken alapuló kényszerítő indok alapján eljáró szakhatóságok kijelöléséről szóló kormányrendelet szerinti szakhatóságok működnek közre.
 
-(7) [^34] Több vízügyi hatóság illetékességi területén elhelyezkedő regionális víziközmű-rendszer esetén az üzemeltetési követelmények teljesítésének ellenőrzését (hatósági ellenőrzés) a víziközmű-szolgáltató székhelye szerint illetékes vízügyi hatóság végzi. A hatósági ellenőrzés alapján induló hatósági engedélyezésre, engedély-módosításra az általános illetékességi szabályok irányadóak.
+(7)[^34] Több vízügyi hatóság illetékességi területén elhelyezkedő regionális víziközmű-rendszer esetén az üzemeltetési követelmények teljesítésének ellenőrzését (hatósági ellenőrzés) a víziközmű-szolgáltató székhelye szerint illetékes vízügyi hatóság végzi. A hatósági ellenőrzés alapján induló hatósági engedélyezésre, engedély-módosításra az általános illetékességi szabályok irányadóak.
 
-(8) [^35] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
+(8)[^35] A vízvédelmi hatóságok a víz mint környezeti elem védelme tekintetében – kormányrendeletben vagy miniszteri rendeletben foglalt esetekben, a környezetvédelmi feladat- és hatáskör részeként – ellátják a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvényben meghatározott környezetvédelmi közigazgatási hatósági feladatokat.
 
 [^16]: A 10. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 505. § a) pontja, az 511/2020. (XI. 20.) Korm. rendelet 1. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^17]: A 10. § (1) bekezdés 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja szerint módosított szöveg.
@@ -66,7 +66,7 @@ b) [^33] – e rendeletben meghatározottaktól eltérően, érintettségük ese
 [^25]: A 10. § (1) bekezdés 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja szerint módosított szöveg.
 [^26]: A 10. § (1) bekezdés 11. pontja a 371/2020. (VII. 30.) Korm. rendelet 29. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja szerint módosított szöveg.
 [^27]: A 10. § (1) bekezdés 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 188. § b) pontja szerint módosított szöveg.
-[^28]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^28]: A 10. § (2a) bekezdését újonnan az 511/2020. (XI. 20.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^29]: A 10. § (3) bekezdése az 511/2020. (XI. 20.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^30]: A 10. § (3a) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^31]: A 10. § (3b) bekezdését a 35/2020. (III. 5.) Korm. rendelet 4. § (1) bekezdése iktatta be.
