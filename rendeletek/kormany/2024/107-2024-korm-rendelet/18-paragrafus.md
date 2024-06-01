@@ -1,0 +1,1 @@
+18. § Hatályát veszti a 368/2011. (XII. 31.) Korm. rendelet 5. mellékletében foglalt táblázat E:12 mezőjében az „ , a Nemzeti Földalap Kezelő Szervezet az agrárpolitikáért felelős miniszternek” szövegrész.

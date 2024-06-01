@@ -1,0 +1,5 @@
+## „i) üzemelteti, működteti, karbantartja és fejleszti az agrár-szakigazgatás területalapú támogatásainak megvalósítását célzó hazai és európai uniós feladatok végrehajtását szolgáló egységes földterület-nyilvántartási rendszert, ellátja a távérzékelt adatok használatát támogató speciális, direkt terepi adatgyűjtési és kiértékelési feladatokat, fejleszti a támogatások távérzékeléses ellenőrzésének módszertanát, végzi a kijelölt mintaterületen és kiválasztott kérelmeken a területalapú agrártámogatások távérzékeléses ellenőrzését, üzemelteti a Mezőgazdasági Parcella Azonosító Rendszert (MePAR), valamint
+
+## j) elkészíti, frissíti és nyilvánosságra hozza a szőlészeti-borászati ágazatra jutó közösségi támogatások ellenőrzéséhez szükséges tematikus rétegeket, valamint elkészíti a tematikus rétegekből származó eredményadatokat és eredménytermékeket.”
+
+45. § A 601/2022. (XII. 28.) Korm. rendelet 13. § (2) bekezdésében a „Nemzeti Földügyi Központ az (1) bekezdés szerint rá átruházott” szövegrész helyébe a „Nemzeti Kifizető Ügynökség a 4. § (2) bekezdés i) és j) pontja szerinti” szöveg lép.
