@@ -1,6 +1,5 @@
-9. § (1)[^9]
+9. § (1) A Tszt. Vhr. 3. melléklete az 1. melléklet szerint módosul.
 
-(2)[^10]
+(2)[^9]
 
-[^9]: A 9. § (1) bekezdése a 12. § (2) bekezdése alapján 2024. június 1-jén lép hatályba.
-[^10]: A 9. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 9. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

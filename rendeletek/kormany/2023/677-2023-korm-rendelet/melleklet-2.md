@@ -44,6 +44,6 @@
 
 ## „26.9. A távhőszolgáltató tevékenysége során biztosítja a fogyasztók adatainak védelmét, az adatvédelemre vonatkozó jogszabályoknak, valamint a kiberbiztonsági követelményeknek való megfelelést.”
 
-2. melléklet a 677/2023. (XII. 29.) Korm. rendelethez[^13]
+2. melléklet a 677/2023. (XII. 29.) Korm. rendelethez[^12]
 
-[^13]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
