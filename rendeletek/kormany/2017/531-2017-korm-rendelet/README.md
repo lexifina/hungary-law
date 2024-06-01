@@ -74,3 +74,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-531-20-
 | 2024-03-01 | 2017-531-20-22.67 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-03-19 | 2017-531-20-22.61 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-05-01 | 2017-531-20-22.68 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2024-06-01 | 2017-531-20-22.70 | 360/2019. (XII. 30.) Korm. rendelet |
