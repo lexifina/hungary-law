@@ -1,4 +1,4 @@
-22/A. §[^17] (1) A Foktftv. 12. § (2) bekezdésének alkalmazása során a tulajdonostárs a területi minimumot el nem érő tulajdoni hányadra irányuló bekebelezési szándékát az eljárást kezdeményező tulajdonostárs által megjelölt jogi képviselőnél jelezheti az általa megjelölt ellenérték letétbe helyezésével egyidejűleg.
+22/A. §[^20] (1) A Foktftv. 12. § (2) bekezdésének alkalmazása során a tulajdonostárs a területi minimumot el nem érő tulajdoni hányadra irányuló bekebelezési szándékát az eljárást kezdeményező tulajdonostárs által megjelölt jogi képviselőnél jelezheti az általa megjelölt ellenérték letétbe helyezésével egyidejűleg.
 
 (2) Az (1) bekezdés szerinti bekebelezési ajánlat akkor tekinthető érvényesnek, ha az abban szereplő ellenértéknek a földrészlet egészére számított összege legalább 10%-kal meghaladja az utolsó érvényesen tett ajánlat szerinti ellenértéknek a földrészlet egészére számított összegét.
 
@@ -12,4 +12,4 @@
 
 (7) A bekebelezésre jogosult által letétbe helyezett összeget a jogi képviselő továbbítja a területi minimumot el nem érő tulajdoni hányad jogosultja részére, vagy a Foktftv. 12. § (5) bekezdése szerinti esetben gondoskodik annak bírósági letétbe helyezéséről.
 
-[^17]: A 22/A. §-t a 170/2023. (V. 12.) Korm. rendelet 42. §-a iktatta be.
+[^20]: A 22/A. §-t a 170/2023. (V. 12.) Korm. rendelet 42. §-a iktatta be.

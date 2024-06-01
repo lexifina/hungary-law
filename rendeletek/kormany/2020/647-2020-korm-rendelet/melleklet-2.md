@@ -58,8 +58,8 @@ A Foktftv. 4. § (4) bekezdése szerinti hirdetmény adattartalma
 
 5. Figyelemfelhívás arra, hogy a folyamatban lévő megosztás tényének feljegyzését követően öröklés miatt bekövetkezett tulajdonváltozás és kisajátítás kivételével a tulajdoni lapon és a térképi állományon más változás nem vezethető át; a tény feljegyzését követően benyújtott egyéb kérelmeket vagy megkereséseket az ingatlanügyi hatóság függőben tartja a megosztás tényének törléséig.
 
-6.[^50] Figyelemfelhívás arra, hogy a tényfeljegyzést követő 120 napon belül az ingatlan megosztásának átvezetésére irányuló kérelem benyújtása szükséges, ellenkező esetben a tényfeljegyzés hivatalból törlésre kerül, és a törléstől számított 30 napon belül az adott ingatlant érintően ismételten kérelem nem terjeszthető elő.
+6.[^54] Figyelemfelhívás arra, hogy a tényfeljegyzést követő 120 napon belül az ingatlan megosztásának átvezetésére irányuló kérelem benyújtása szükséges, ellenkező esetben a tényfeljegyzés hivatalból törlésre kerül, és a törléstől számított 30 napon belül az adott ingatlant érintően ismételten kérelem nem terjeszthető elő.
 
 7. Figyelemfelhívás, hogy a hirdetmény nem minősül a megosztási folyamat megkezdéséről szóló, a Foktftv. 5. § (1) bekezdése szerinti értesítésnek, az nem helyettesíti a tulajdonostársaknak az eljárást kezdeményező tulajdonostárs általi értesítését. A hirdetmény közzétételének célja, hogy lehetőség szerint minden tulajdonostárs részt vegyen a Foktftv. 6. § szerinti egyezség létrehozásában. Az a tulajdonos, akinek az értesítésére a Foktftv. 5. §-ában foglaltak ellenére nem került sor, az egyezség kialakításában részt vehet, ehhez szükséges felvennie a kapcsolatot a kérelmező tulajdonostárssal vagy képviselőjével.
 
-[^50]: A 2. melléklet 6. pontja 170/2023. (V. 12.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
+[^54]: A 2. melléklet 6. pontja 170/2023. (V. 12.) Korm. rendelet 47. § c) pontja szerint módosított szöveg.
