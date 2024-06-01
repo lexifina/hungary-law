@@ -4,7 +4,13 @@
 
 ## 17. Felhatalmazó rendelkezések
 
-32. § (1) Felhatalmazást kap a Kormány, hogy az ellenőrzést végző hatóságot rendeletben kijelölje.
+32. § (1) Felhatalmazást kap a Kormány, hogy
+
+a) az ellenőrzést végző hatóságot,
+
+b) a földmérési és térinformatikai államigazgatási szervet
+
+rendeletben kijelölje.
 
 (2) Felhatalmazást kap a Kormány, hogy
 
