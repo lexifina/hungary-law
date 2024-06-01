@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-154-00-00
 | 2014-01-01 | 2013. évi CCXVIII. törvény | 2011-154-00-00.13 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2011-154-00-00.14 |
 | 2017-12-19 | 2017. évi CLXXXVIII. törvény | 2011-154-00-00.15 |
+| 2024-06-01 | 2024. évi XI. törvény | 2011-154-00-00.16 |

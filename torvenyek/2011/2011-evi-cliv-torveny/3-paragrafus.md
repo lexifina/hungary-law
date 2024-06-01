@@ -8,4 +8,4 @@ b) az egyéb átvett intézmények vagyona tekintetében a Kormány által rende
 
 (3) A megyei önkormányzat tulajdonában álló, a megyei önkormányzat által 2011. szeptember 1-jét megelőzően vagyonkezelésbe adott vagyon tekintetében a 2. § (4) bekezdés szerinti megállapodás az (1) bekezdésben meghatározottól eltérő vagyonkezelőt is kijelölhet.
 
-(4) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdései hatálya alá tartozó, átvett vagyonelem tekintetében a vagyonkezelői jogviszonyra az NFA által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
+(4) A Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 1. § (1)–(2b) bekezdései hatálya alá tartozó, átvett vagyonelem tekintetében a vagyonkezelői jogviszonyra az NFK által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni.
