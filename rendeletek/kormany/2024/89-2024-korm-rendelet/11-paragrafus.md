@@ -1,3 +1,3 @@
-11. §[^17]
+11. §[^12]
 
-[^17]: A 11. § a 13. § (3) bekezdése alapján 2024. július 1-jén lép hatályba.
+[^12]: A 11. § a 13. § (3) bekezdése alapján 2024. július 1-jén lép hatályba.
