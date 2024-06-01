@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-225-20-
 | 2021-01-01 | 2016-225-20-22.8 | 649/2020. (XII. 23.) Korm. rendelet |
 | 2022-05-25 | 2016-225-20-22.9 | 157/2018. (IX. 3.) Korm. rendelet |
 | 2022-07-01 | 2016-225-20-22.10 | 259/2016. (VIII. 31.) Korm. rendelet |
+| 2024-06-01 | 2016-225-20-22.11 | 118/2024. (V. 31.) Korm. rendelet |

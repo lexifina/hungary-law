@@ -12,7 +12,7 @@ c) a Kormány irányítása alatt nem álló szervezetnek minősülő ajánlatk�
 
 d)[^1] a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha nem állapítható meg, hogy a c) pont szerint melyik miniszter jogosult eljárni, a közbeszerzésekért felelős miniszterhez
 
-## [az a)–d) pontban felsorolt miniszterek a továbbiakban együtt: előterjesztő miniszter] kell benyújtani.
+[az a)–d) pontban felsorolt miniszterek a továbbiakban együtt: előterjesztő miniszter] kell benyújtani.
 
 (2) A mentesítési kérelemben meg kell jelölni a beszerzéssel összefüggő, mentesíteni kívánt szerződés tárgyát és becsült értékét, valamint javaslatot kell tenni arra, hogy az Országgyűlés illetékes bizottsága (a továbbiakban: bizottság) a szerződés megkötése tekintetében adjon felmentést a Vbt. szerinti beszerzési eljárás lefolytatása alól. Az ajánlatkérő a mentesítési kérelemben indokolást ad a Vbt. 7. § (1) bekezdés 4. pontja szerinti kivételi esetkör alkalmazásának szükségességéről, a védendő alapvető biztonsági érdekekről és az intézkedés arányosságáról, továbbá ismerteti a beszerzés megvalósításának tervezett módját.
 
