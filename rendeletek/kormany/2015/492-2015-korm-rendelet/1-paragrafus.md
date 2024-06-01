@@ -6,7 +6,7 @@
 
 (3) Az ajánlatkérő a beszerzés közbeszerzési eljárás lefolytatása nélkül történő megvalósítására a beszerzés e rendelet szerinti eljárás során történő mentesítését követően jogosult.
 
-(4)[^2]
+(4)[^2] A polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter által rendeletben meghatározott, a minősített piaci szereplők jegyzékével érintett gazdasági szektorokat érintő, e rendelet hatálya alá tartozó beszerzési eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy kiemelt alvállalkozóként és egyéb közreműködőként kizárólag a minősített piaci szereplők jegyzékén szereplő gazdasági szereplő vehet részt.
 
 [^1]: Az 1. § (1) bekezdése az 54/2023. (II. 27.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^2]: Az 1. § (4) bekezdését a 29/2017. (II. 13.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 471/2020. (X. 29.) Korm. rendelet 3. § (1) bekezdése.
+[^2]: Az 1. § (4) bekezdését újonnan a 118/2024. (V. 31.) Korm. rendelet 1. §-a iktatta be.
