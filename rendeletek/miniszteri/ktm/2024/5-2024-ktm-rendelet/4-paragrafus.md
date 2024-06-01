@@ -1,0 +1,1 @@
+4. § A jegyzőkönyvet annyi példányban kell elkészíteni, hogy biztosított legyen egy-egy aláírt példány átadása az átadónak, az átvevőnek, a jegyzőnek, a fővárosi és vármegyei kormányhivatalnak, valamint az irattárnak.
