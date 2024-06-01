@@ -1,6 +1,6 @@
 57. §[^299] (1) E rendeletnek a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet módosításáról szóló 320/2013. (VIII. 28.) Korm. rendelettel (a továbbiakban: Mr3.) módosított rendelkezéseit – a (2)–(4) bekezdésben foglaltak szerint – az Mr3. hatálybalépését[^300] megelőzően közzétett pályázati felhívások alapján indult olyan eljárásokban is alkalmazni kell, amelyek tekintetében az Mr3. hatályba lépéséig a pályázatok értékelése még nem zárult le.
 
-(2)[^301] Ha az (1) bekezdés szerinti haszonbérleti pályázati felhívásban szereplő földrészlet területe a 100 hektárt eléri, az NFK elnöke dönthet arról, hogy pályázatok elbírálása során a 26/A. §-ban foglaltak szerint több nyertes pályázó kerüljön kiválasztásra. E döntésről az NFK – a döntést követően haladéktalanul – hirdetmény formájában, a pályázati felhívással megegyező helyeken és módon értesíti a pályázókat.
+(2)[^301] Ha az (1) bekezdés szerinti haszonbérleti pályázati felhívásban szereplő földrészlet területe a 100 hektárt eléri, a Tanács dönthet arról, hogy pályázatok elbírálása során a 26/A. §-ban foglaltak szerint több nyertes pályázó kerüljön kiválasztásra. E döntésről az NFK – a döntést követően haladéktalanul – hirdetmény formájában, a pályázati felhívással megegyező helyeken és módon értesíti a pályázókat.
 
 (3) Ha a Nemzeti Földalapba tartozó földrészletek hasznosításának részletes szabályairól szóló 262/2010. (XI. 17.) Korm. rendelet módosításáról szóló 306/2013. (VIII. 1.) Korm. rendelet [a továbbiakban: 306/2013. (VIII. 1.) Korm. rendelet] 5. §-ában meghatározott eset áll fenn, és az Mr3. hatályba lépéséig[^302] nem került sor a 306/2013. (VIII. 1.) Korm. rendelet 5. § (3) bekezdése szerinti hirdetmény közzétételére, akkor a (2) bekezdésben foglaltakat a hirdetmény közzétételének módja és határideje tekintetében azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés szerinti döntést
 
@@ -20,7 +20,7 @@ d)[^304] a pályázati eljárás a hirdetmény közzétételének napjával megs
 
 [^299]: Az 57. §-t a 320/2013. (VIII. 28.) Korm. rendelet 2. §-a iktatta be.
 [^300]: A hatálybalépés időpontja 2013. augusztus 29.
-[^301]: Az 57. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^301]: Az 57. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja, a 107/2024. (V. 9.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
 [^302]: A hatálybalépés időpontja 2013. augusztus 29.
 [^303]: Az 57. § (4) bekezdés b) pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) és p) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
 [^304]: Az 57. § (4) bekezdés d) pontja a 159/2019. (VI. 28.) Korm. rendelet 37. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
