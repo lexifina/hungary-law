@@ -1,4 +1,4 @@
-## 23. § Az NFK
+23. §[^13] A miniszter
 
 a) dönt
 
@@ -43,3 +43,5 @@ df) a publikációkért elismert kreditpontjait,
 e) a képzések teljesítéséről tanúsítványt állít ki,
 
 f) a képzések teljesítéséről értesíti az illetékes erdészeti hatóságot.
+
+[^13]: A 23. § nyitó szövegrésze a 107/2024. (V. 9.) Korm. rendelet 37. § g) pontja szerint módosított szöveg.

@@ -22,9 +22,9 @@ e) a kiállítás dátuma, valamint
 
 f) a kiállító erdészeti hatóság bélyegzőlenyomata és vezetőjének aláírása.
 
-(3) Az (1) bekezdés szerinti szolgálati igazolvány kibocsátói feladatait az NFK látja el.
+(3)[^19] Az (1) bekezdés szerinti szolgálati igazolvány kibocsátói feladatait a miniszter látja el.
 
-(4) Az (1) bekezdés szerinti szolgálati igazolvány elvesztését, ellopását és a használhatatlanságát eredményező megrongálódását a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzetnek haladéktalanul be kell jelentenie az állandó lakóhely vagy tartózkodási hely szerint illetékes erdészeti hatóságnál. Az erdészeti hatóság e tényről haladéktalanul értesíti az NFK-t, amely honlapján közleményt tesz közzé, feltüntetve a szolgálati igazolvány vagy a szolgálati jelvény sorszámát.
+(4)[^20] Az (1) bekezdés szerinti szolgálati igazolvány elvesztését, ellopását és a használhatatlanságát eredményező megrongálódását a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzetnek haladéktalanul be kell jelentenie az állandó lakóhely vagy tartózkodási hely szerint illetékes erdészeti hatóságnál. Az erdészeti hatóság e tényről haladéktalanul értesíti a minisztert, aki az általa vezetett minisztérium honlapján közleményt tesz közzé, feltüntetve a szolgálati igazolvány vagy a szolgálati jelvény sorszámát.
 
 (5) Az erdészeti hatóság a (4) bekezdésben foglaltak, valamint a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet (2) bekezdés c) pont ca) alpontjában vagy a (2) bekezdés d) pontjában foglalt adatainak megváltozása esetén a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet kérelmére új szolgálati igazolványt ad ki.
 
@@ -33,3 +33,8 @@ f) a kiállító erdészeti hatóság bélyegzőlenyomata és vezetőjének alá
 a) a kizárólag szakfeladatokat ellátó erdészeti szakszemélyzetnek a nyilvántartásból való törlésekor, vagy
 
 b) annak megrongálódás vagy adatváltozás miatti cseréje alkalmával
+
+bevonja.
+
+[^19]: A 28. § (3) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § l) pontja szerint módosított szöveg.
+[^20]: A 28. § (4) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § m) pontja szerint módosított szöveg.

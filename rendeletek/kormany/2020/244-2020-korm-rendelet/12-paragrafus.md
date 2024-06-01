@@ -8,8 +8,10 @@ a) erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet esetén a 
 
 b) erdészeti szakirányító vállalkozás esetén a vállalkozás székhelye, vagy központi ügyintézési helye
 
-## szerint illetékes erdészeti hatóság vezeti.
+szerint illetékes erdészeti hatóság vezeti.
 
-(2) A nyilvántartásba vételre irányuló kérelmet az NFK által rendszeresített és a honlapján közzétett formanyomtatványon kell benyújtani.
+(2)[^7] A nyilvántartásba vételre irányuló kérelmet a miniszter által rendszeresített és a honlapján közzétett formanyomtatványon kell benyújtani.
 
 (3) A nyilvántartásba vételre irányuló kérelem tartalmazza az erdészeti szakszemélyzet vagy az erdészeti szakirányítói vállalkozás által kérelmezett kiemelt besorolást.
+
+[^7]: A 12. § (2) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.

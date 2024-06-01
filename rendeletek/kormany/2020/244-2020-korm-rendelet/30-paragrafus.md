@@ -6,10 +6,14 @@
 
 (3) A terepi, irodai és az ünnepi ruházati viseletelemek vegyesen nem viselhetők.
 
-(4) Az egyenruha, illetve a szolgálati jelvény viselése az erdészeti hatóság és az NFK kormánytisztviselői ellenőrzési feladatainak ellátása során kötelező.
+(4)[^21] Az egyenruha, illetve a szolgálati jelvény viselése az erdészeti hatóság kormánytisztviselői ellenőrzési feladatainak ellátása során kötelező.
 
-(5) A ruházati alapellátás feltételeit, alapellátási és utánpótlási normáit, az azokkal történő elszámolás feltételeit, az erdészeti hatóság, az NFK, illetve a minisztérium kormánytisztviselői esetében a közszolgálati szabályzatban kell meghatározni.
+(5)[^22] A ruházati alapellátás feltételeit, alapellátási és utánpótlási normáit, az azokkal történő elszámolás feltételeit, az erdészeti hatóság és a minisztérium kormánytisztviselői esetében a közszolgálati szabályzatban kell meghatározni.
 
-(6) Az egyenruha szabályszerű viselését a szakszemélyzet esetében a munkahelyi vezető és az erdészeti hatóság, az erdészeti hatóság és az NFK kormánytisztviselői esetében a közvetlen munkahelyi vezető, továbbá a minisztérium, a minisztérium kormánytisztviselői esetében pedig a közvetlen munkahelyi vezető ellenőrzi.
+(6)[^23] Az egyenruha szabályszerű viselését a szakszemélyzet esetében a munkahelyi vezető és az erdészeti hatóság, az erdészeti hatóság kormánytisztviselői esetében a közvetlen munkahelyi vezető, továbbá a minisztérium, a minisztérium kormánytisztviselői esetében pedig a közvetlen munkahelyi vezető ellenőrzi.
 
 (7) A rendészeti feladatokat ellátó erdészeti szakszemélyzet egyenruha viseletére, valamint egyenruhával való ellátására a Rendészeti törvény rendelkezései az irányadóak.
+
+[^21]: A 30. § (4) bekezdése a 107/2024. (V. 9.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^22]: A 30. § (5) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § n) pontja szerint módosított szöveg.
+[^23]: A 30. § (6) bekezdése a 107/2024. (V. 9.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.

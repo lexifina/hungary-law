@@ -42,4 +42,6 @@ i) nem „érvényes” szakirányítói státuszban állít ki műveleti lapot.
 
 (5) A nyilvántartásban a (4) bekezdés alapján a kiemelt besorolás törlésével érintett személy számára a döntés véglegessé válásától számított egy évig a jogosult erdészeti szakszemélyzet kiemelt besorolás nem jegyezhető be.
 
-(6) Az NFK az erdészeti szakszemélyzet kiemelt besorolásának törléséről a honlapján közleményt tesz közzé.
+(6)[^10] A miniszter az erdészeti szakszemélyzet kiemelt besorolásának törléséről a honlapján közleményt tesz közzé.
+
+[^10]: A 21. § (6) bekezdése a 107/2024. (V. 9.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.

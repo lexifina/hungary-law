@@ -8,7 +8,7 @@ a) az erdészeti szakszemélyzet és jogosult erdészeti szakszemélyzet esetéb
 
 b) erdészeti szakirányító vállalkozás esetében az Evt. 98. § (1b) bekezdésében megjelölt adatokat
 
-## tartalmazza.
+tartalmazza.
 
 (3) Az igénylő személyétől eltérő, a szakirányítói névjegyzékben nyilvántartottra vonatkozó szemlemásolat
 
@@ -17,3 +17,5 @@ a) erdészeti szakszemélyzet esetén az Evt. 98. § (1a) bekezdés a), d), f)�
 b) erdészeti szakirányító vállalkozás egyéni vállalkozó esetén az Evt. 98. § (1b) bekezdés a) pont aa)–ad) alpontjában, valamint c), d) és f) pontjában,
 
 c) erdészeti szakirányító vállalkozás jogi személy esetén az Evt. 98. § (1b) bekezdés b) pont ba)–bd) alpontjában, valamint c), d), f) és g) pontjában
+
+meghatározott adatokat tartalmazza.

@@ -1,8 +1,6 @@
-## 34. §[^9]
-
 1. melléklet a 244/2020. (V. 28.) Korm. rendelethez
 
-## Felsőfokú és középfokú végzettséggel egyenértékű szakképesítések
+Felsőfokú és középfokú végzettséggel egyenértékű szakképesítések
 
 1. Felsőfokú erdészeti végzettséggel egyenértékű szakképzettségnek minősül:
 
@@ -45,5 +43,3 @@ megszerzett erdőmérnök képesítés.
 2.10. az állam által elismert erdészeti és vadgazdálkodási technikus, erdésztechnikus
 
 szakképesítés.
-
-[^9]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
