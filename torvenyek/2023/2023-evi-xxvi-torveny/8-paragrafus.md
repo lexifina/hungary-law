@@ -1,6 +1,6 @@
 ## 4. Egyéb rendelkezések
 
-8. § (1) Az 1. alcímet alkalmazni kell a Nemzeti Földügyi Központra is.
+8. § (1)
 
 (2) A 3. § (1) bekezdését alkalmazni kell a Közszolgálati Döntőbizottságra is.
 
