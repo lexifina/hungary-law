@@ -52,7 +52,7 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.1.3. nukleáris létesítmény telephely vizsgálati és értékelési programjának végrehajtásához szükséges, és amelynek telephely vizsgálati és értékelési programját jóváhagyták, vagy ahhoz a feladat- és hatáskörrel rendelkező hatóság a földtani, műszaki biztonsági és bányászati szakkérdések tekintetében előzetes szakhatósági állásfoglalást adott,
 
-4.2.[^31]
+4.2.[^31] A kitermelt felszín alatti vízben oldott állapotban lévő ásványi nyersanyag kinyerésére szolgáló létesítmény.
 
 4.3. polgári felhasználású robbanóanyag raktára,
 
@@ -60,11 +60,11 @@ A bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos �
 
 4.5. szén-dioxidnak a tárolóhelyre történő eljuttatását lehetővé tevő csővezeték-hálózat és ennek tartozékai,
 
-4.6.[^32] a geotermikus energia kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével,
+4.6.[^32] a geotermikus energia kutatásának, kinyerésének és energetikai célú hasznosításának építményei az erőművi berendezések kivételével,
 
 4.7. a föld alatti szénelgázosításhoz szükséges létesítmények,
 
 4.8. bányaüzemi egyéb gáztechnológiák.
 
-[^31]: Az 1. melléklet 4. pont 4.2. alpontját a 6/2023. (II. 28.) SZTFH rendelet 2. § c) pontja hatályon kívül helyezte.
-[^32]: Az 1. melléklet 4. pont 4.6. alpontja a 6/2023. (II. 28.) SZTFH rendelet 2. § d) pontja szerint módosított szöveg.
+[^31]: Az 1. melléklet 4. pont 4.2. alpontját a 6/2023. (II. 28.) SZTFH rendelet 2. § c) pontja hatályon kívül helyezte, újonnan a 4/2024. (V. 31.) SZTFH rendelet 2. §-a iktatta be.
+[^32]: Az 1. melléklet 4. pont 4.6. alpontja a 6/2023. (II. 28.) SZTFH rendelet 2. § d) pontja, a 4/2024. (V. 31.) SZTFH rendelet 3. §-a szerint módosított szöveg.
