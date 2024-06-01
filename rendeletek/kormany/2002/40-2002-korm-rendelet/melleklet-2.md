@@ -1,6 +1,6 @@
 2. számú melléklet a 40/2002. (III. 21.) Korm. rendelethez[^34]
 
-## Az építésügyi hatósági engedély iránti kérelem adattartalma
+Az építésügyi hatósági engedély iránti kérelem adattartalma
 
 1. Az építtető adatai: megnevezése, címe, a kapcsolattartó neve és elérhetősége.
 

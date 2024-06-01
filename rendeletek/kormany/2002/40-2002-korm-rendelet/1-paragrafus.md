@@ -6,7 +6,7 @@ b)[^2] a honvédelmi és katonai célú ingatlanon álló, vagy oda tervezett é
 
 c) az állami repülések céljára szolgáló repülőterek, valamint a közös felhasználású katonai és polgári repülőtérré fejleszthető állami repülések céljára szolgáló repülőterek
 
-## [az a)–c) pont a továbbiakban együtt: építmény] építésügyi hatósági eljárásaiban kell alkalmazni.
+[az a)–c) pont a továbbiakban együtt: építmény] építésügyi hatósági eljárásaiban kell alkalmazni.
 
 (2) E rendeletet a honvédelmi és katonai célú ingatlant érintő telekalakítási eljárásokban kell alkalmazni.
 
