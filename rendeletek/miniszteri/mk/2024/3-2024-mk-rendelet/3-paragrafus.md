@@ -1,0 +1,1 @@
+3. § A minősített piaci szereplők jegyzékével összefüggő előzetes minősítést, a beszerzési eljáráshoz kötött minősítést, továbbá a jegyzéken tartást az 1. melléklet szerinti formanyomtatványon kezdeményezhetik a gazdasági szereplők.
