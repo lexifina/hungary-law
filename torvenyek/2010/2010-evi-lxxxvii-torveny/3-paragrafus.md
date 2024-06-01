@@ -1,4 +1,4 @@
-3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) a Nemzeti Földügyi Központ (a továbbiakban: NFK) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFK képviseli.
+3. § (1) A Nemzeti Földalap felett a Magyar Állam nevében a tulajdonosi jogokat és kötelezettségeket az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium mint a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) útján gyakorolja. A Nemzeti Földalappal kapcsolatos polgári jogviszonyokban az államot – törvény eltérő rendelkezése hiányában – az NFK képviseli.
 
 (2) A tulajdonosi jogok gyakorlása kiterjed a tulajdonjoghoz kapcsolódó vagyoni értékű jogok gyakorlására is.
 
