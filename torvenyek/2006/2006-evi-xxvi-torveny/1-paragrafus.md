@@ -6,7 +6,7 @@ a) a Magyar Szénhidrogén Készletező Szövetségre (a továbbiakban: Szövets
 
 b) a Magyar Energetikai és Közmű-szabályozási Hivatalra (a továbbiakban: Hivatal),
 
-c) a szállítási rendszerirányítóra, a szállítási rendszerüzemeltetői, a földgáztárolói, az egyetemes földgázszolgáltatói, a földgázkereskedői engedélyesekre – ideértve az LNG-kereskedelmet folytató engedélyeseket is –, valamint a földgáztermelőkre,
+c) a szállítási rendszerirányítóra, a szállítási rendszerüzemeltetői, elosztói, a földgáztárolói, az egyetemes földgázszolgáltatói, a földgázkereskedői engedélyesekre – ideértve az LNG-kereskedelmet folytató engedélyeseket is –, valamint a földgáztermelőkre,
 
 d) a földgázfelhasználóra a földgáz határon keresztül történő beszállítása, illetve a földgáz szervezett piacon történő vásárlása körében,
 

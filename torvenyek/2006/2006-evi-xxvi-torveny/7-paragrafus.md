@@ -14,13 +14,17 @@ c) az a felhasználó, aki földgázt határon keresztül történő beszállít
 
 d) az 1. § f) pontja szerinti földgázt felhasználó személy.
 
-(1a) Nem válik a Szövetség tagjává:
+(1a) Nem válik a Szövetség tagjává
 
-a) a földgáztermelő a saját maga által termelt földgáz felhasználása körében,
+a) a földgáztermelő a saját maga által termelt földgáz felhasználása körében, és
 
-b) a szállítási rendszerüzemeltető, valamint
+b) a szállítási rendszerüzemeltető és a földgázelosztó
 
-c) a földgázelosztó a rendszerüzemeltetési tevékenységéhez felhasznált földgáz körében.
+ba) a rendszeregyensúlyozási tevékenységéhez, valamint
+
+bb) a földgázszállító vagy földgázelosztó vezeték feltöltés, hálózati veszteségpótlás, hálózati mérési különbözet céljából
+
+felhasznált földgáz körében.
 
 (2) A szövetségi tagság az (1) bekezdés
 
