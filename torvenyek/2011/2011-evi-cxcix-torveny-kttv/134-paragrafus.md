@@ -10,7 +10,7 @@
 
 5.
 
-6. a Nemzeti Földalapkezelő Szervezetnél,
+6.
 
 7.
 
