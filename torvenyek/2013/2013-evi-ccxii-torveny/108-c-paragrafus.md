@@ -1,4 +1,4 @@
-108/C. § (1) A törölt haszonélvezeti jog ingatlan-nyilvántartásba való visszajegyezhetőségének vizsgálatára irányuló hatósági eljárást (a továbbiakban: visszajegyezhetőség vizsgálatára irányuló eljárás), valamint a törölt haszonélvezeti joggal összefüggő kompenzációra irányuló hatósági eljárást (a továbbiakban: kompenzációs eljárás) kérelemre a Nemzeti Földügyi Központ (a továbbiakban: NFK) folytatja le.
+108/C. § (1) A törölt haszonélvezeti jog ingatlan-nyilvántartásba való visszajegyezhetőségének vizsgálatára irányuló hatósági eljárást (a továbbiakban: visszajegyezhetőség vizsgálatára irányuló eljárás), valamint a törölt haszonélvezeti joggal összefüggő kompenzációra irányuló hatósági eljárást (a továbbiakban: kompenzációs eljárás) kérelemre a Nemzeti Földalap kezeléséért felelős szerv (a továbbiakban: NFK) folytatja le.
 
 (2) A törölt haszonélvezeti jog visszajegyzésének ingatlan-nyilvántartási átvezetésére irányuló hatósági eljárást (a továbbiakban: visszajegyzés átvezetésére irányuló eljárás) – az NFK-nak a visszajegyezhetőség vizsgálatára irányuló eljárásban hozott döntése alapján – az ingatlanügyi hatóság hivatalból folytatja le.
 

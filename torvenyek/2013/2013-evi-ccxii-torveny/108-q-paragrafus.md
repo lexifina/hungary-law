@@ -12,4 +12,4 @@ b) közigazgatási per esetén a bíróság az NFK-t perbe állítja.
 
 (5) Az ezen alcím szerinti eljárásokban eljáró hatóságokat és bíróságokat a (4) bekezdés szerinti bírósági eljárásban hozott döntés és az azokban megállapított tényállás nem köti.
 
-(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot a Nemzeti Földügyi Központ képviseli.
+(6) A (3) bekezdés a) pontja szerinti esetben a magyar államot az NFK képviseli.
