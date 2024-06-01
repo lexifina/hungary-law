@@ -16,6 +16,8 @@ g) a családtámogatási szerv az anyasági támogatás megállapítása iránti
 
 h) a mezőgazdasági igazgatási szerv a támogatások igénybevételének hozzátartozói minőségre vonatkozó feltételei fennállásának ellenőrzése során a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megállapítása céljából.
 
+i) az ingatlanügyi hatóság a földhasználati nyilvántartásból való törlés iránti eljárásban a gyermek és szülő, valamint a házastársak vagy bejegyzett élettársak közötti közeli hozzátartozói viszony megszűnésének megállapítása céljából.
+
 (2) Ha az (1) bekezdésben meghatározott szervek nem ismerik az adatigényléssel érintett személynek a 84. § (2) bekezdés a) pontjában foglalt adatait, részükre adatigénylés alapján a 84. § (2) bekezdés a) pontjában foglalt feltételek hiányában is továbbítható adat az (1) bekezdésben foglalt nyilvántartásokból.
 
 (3) Az okirat-nyilvántartásban kezelt adatok teljes körét jogosult közvetlen hozzáféréssel átvenni a személyazonosság igazolására alkalmas hatósági igazolvány kiadása iránti eljárás lefolytatása céljából a személyazonosság igazolására alkalmas hatósági igazolvánnyal összefüggő eljárásban hatáskörrel rendelkező hatóság.
