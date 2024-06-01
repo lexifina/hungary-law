@@ -4,13 +4,13 @@
 
 (2) Az elismerések átadása központi ünnepségen, állománygyűlésen vagy külön ünnepségen történhet.
 
-(3)[^65] Az elismerést a Honvéd Vezérkar főnöke vagy az általa megbízott személy adja át.
+(3)[^66] Az elismerést a Honvéd Vezérkar főnöke vagy az általa megbízott személy adja át.
 
-(3a)[^66] Az Év Katonája Kitüntető Címet a Honvéd Vezérkar főnöke május 21-én adja át.
+(3a)[^67] Az Év Katonája Kitüntető Címet a Honvéd Vezérkar főnöke május 21-én adja át.
 
 (4) A Kiváló Tanulmányokért Kitüntető Címet a tanulmányok befejeztével az első beosztásba történő kinevezéssel egyidejűleg, ünnepélyes keretek között kell átadni.
 
 (5) Az elismerések átadására a 33. § (7) bekezdését, a közzétételre a 35. §-t alkalmazni kell.
 
-[^65]: A 44. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
-[^66]: A 44. § (3a) bekezdését a 14/2015. (XII. 17.) HM rendelet 9. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^66]: A 44. § (3) bekezdése a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
+[^67]: A 44. § (3a) bekezdését a 14/2015. (XII. 17.) HM rendelet 9. §-a iktatta be, szövege a 20/2018. (XII. 28.) HM rendelet 89. § b) pontja, a 30/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.

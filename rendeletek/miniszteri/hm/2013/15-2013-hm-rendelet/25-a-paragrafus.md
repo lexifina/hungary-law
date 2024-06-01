@@ -4,7 +4,7 @@
 
 (2)[^26] Az Hazai Samu-életműdíjas okiratot kap, valamint jogosult a Hazai Samu-életműdíjas cím használatára.
 
-(3)[^27] A (2) bekezdésen túl az Hazai Samu-életműdíjas az adományozást követő hónap első napjától havonta pénzbeli juttatásban részesül. A pénzbeli juttatás összege havonta az érintettre irányadó adó- és járulékszabályok figyelembevételével nettó 200 000 Ft-nak megfelelő bruttó összeg. A havi pénzbeli juttatás – a 37. § (1) bekezdése kivételével – az Hazai Samu-életműdíjas haláláig szól.
+(3)[^27] A (2) bekezdésen túl az Hazai Samu-életműdíjas az adományozást követő hónap első napjától havonta pénzbeli juttatásban részesül. A pénzbeli juttatás összege havonta az érintettre irányadó adó- és járulékszabályok figyelembevételével nettó 250 000 Ft-nak megfelelő bruttó összeg. A havi pénzbeli juttatás – a 37. § (1) bekezdése kivételével – az Hazai Samu-életműdíjas haláláig szól.
 
 (4)[^28] Az Hazai Samu-életműdíjra, és az ezzel járó havi juttatásra egyidejűleg legfeljebb öten jogosultak.
 
@@ -13,6 +13,6 @@
 [^24]: A 24/a. alcímet (25/A. §) a 6/2014. (IV. 14.) HM rendelet 24. §-a iktatta be.
 [^25]: A 25/A. § (1) bekezdése a 11/2019. (XI. 19.) HM rendelet 2. §-ával megállapított szöveg.
 [^26]: A 25/A. § (2) bekezdése a 11/2019. (XI. 19.) HM rendelet 6. § a) pontja szerint módosított szöveg.
-[^27]: A 25/A. § (3) bekezdése a 7/2016. (V. 5.) HM rendelet 1. §-ával megállapított, a 11/2019. (XI. 19.) HM rendelet 6. § b)–c) pontja szerint módosított szöveg.
+[^27]: A 25/A. § (3) bekezdése a 7/2016. (V. 5.) HM rendelet 1. §-ával megállapított, a 11/2019. (XI. 19.) HM rendelet 6. § b)–c) pontja, a 3/2024. (V. 31.) HM rendelet 1. § a) pontja szerint módosított szöveg.
 [^28]: A 25/A. § (4) bekezdése a 11/2019. (XI. 19.) HM rendelet 6. § d)–e) pontja szerint módosított szöveg.
 [^29]: A 25/A. § (5) bekezdése a 11/2019. (XI. 19.) HM rendelet 6. § f) pontja szerint módosított szöveg.
