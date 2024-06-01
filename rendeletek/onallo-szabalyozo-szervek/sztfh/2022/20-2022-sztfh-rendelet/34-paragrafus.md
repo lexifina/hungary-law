@@ -1,6 +1,6 @@
 ## 15. A kitermelés szüneteltetése
 
-34. § (1) Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 év időtartamra hagyható jóvá. A szüneteltetési műszaki üzemi terv jóváhagyása iránti kérelmet a hatályos műszaki üzemi terv engedélyezett időtartamán belül, a tervezett szüneteltetés megkezdését megelőzően kell a bányafelügyelethez benyújtani.
+34. § (1)[^84] Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 év időtartamra hagyható jóvá.
 
 (2) A szüneteltetésre kidolgozott műszaki üzemi terv tartalmazza
 
@@ -23,3 +23,5 @@ h) a Szabályozott Tevékenységek Felügyeleti Hatósága elnökének a bányat
 (3) Ha a bányavállalkozó a szüneteltetés időtartama alatt – a kitermelés kivételével – olyan tevékenységet kíván folytatni, amely idegen ingatlan igénybevételével jár, a 30. § (12) bekezdése szerinti, az idegen ingatlan igénybevételére vonatkozó jogosultságot igazoló okiratot a kérelemhez mellékeli.
 
 (4) A szüneteltetés után a kitermelés, vagy a bányabezárás és tájrendezés csak az erre vonatkozó, a bányafelügyelet által jóváhagyott műszaki üzemi terv alapján kezdhető meg.
+
+[^84]: A 34. § (1) bekezdése a 4/2024. (V. 31.) SZTFH rendelet 8. §-ával megállapított szöveg.

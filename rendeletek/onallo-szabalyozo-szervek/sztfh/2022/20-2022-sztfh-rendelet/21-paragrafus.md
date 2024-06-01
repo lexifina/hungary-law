@@ -16,19 +16,7 @@ c) a GET szerinti szállítóvezeték-létesítési engedély tartalmazza.
 
 (5) Földgáz elosztóvezeték építése, valamint bővítése az építéssel érintett településre, településrészre, területre elosztói engedéllyel rendelkező engedélyes kérelmére és részére engedélyezhető.
 
-(6) Gáz-, kőolaj- és kőolajtermék-, valamint szén-dioxid-szállítóvezetéket tilos elhelyezni:
-
-a) – a keresztezés kivételével – nyomvonalas létesítmény alatt,
-
-b) közlekedési célt szolgáló alagútban és hídon,
-
-c) más közművel közös árokban vagy alagútban,
-
-d) építmény és létesítmény alatt
-
-e) bányaművelés okozta rétegmozgásos területen, valamint
-
-f) – az építmény, létesítmény rendeltetésszerű használatához szükséges szállítóvezeték kivételével – építmény és létesítmény védett területén vagy biztonsági övezetében.
+(6)[^60]
 
 (7) A szénhidrogén-szállítóvezetékhez és a szén-dioxid-szállítóvezetékhez kapcsolódó távközlő hálózat technológiai berendezéseihez tartozó, telekhatáron belüli vagy a távközlési hálózat hozzáférési pontjain elhelyezni tervezett létesítmények létesítését a bányafelügyelet engedélyezi.
 
@@ -51,3 +39,5 @@ c) a bányászati koncessziós szerződésben vállalt vagy
 d) a szerződéssel már lekötött
 
 teljesítőképességen felül rendelkezésre álló kapacitás.
+
+[^60]: A 21. § (6) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 12. § d) pontja hatályon kívül helyezte.

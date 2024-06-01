@@ -1,10 +1,10 @@
 ## 19. Tájrendezés
 
-40. § (1)[^86] A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki üzemi terv jóváhagyása keretében kerülhet sor.
+40. § (1)[^102] A 29. § (1) bekezdése szerinti műszaki üzemi tervben a tájrendezési feladatokat a tájrendezési előtervben foglaltakkal és a bányatelek megállapítása tárgyában hozott határozat előírásaival összhangban kell megtervezni. Ha a tájrendezési előtervben foglalt koncepció részben vagy egészben bármely körülmény megváltozása következtében már nem valósítható meg, a bányavállalkozó köteles a tájrendezési előterv módosítását kérelmezni, amelyre a 29. § (1) bekezdése vagy a bánya bezárására kidolgozott műszaki üzemi terv jóváhagyása keretében kerülhet sor.
 
 (2) A tájrendezési feladatok keretében – a Bt. 36. § (2) bekezdésében meghatározott eljárásban – határozni kell a felszín alatti vízkészletet érintő bányatavak fennmaradásának és hasznosításának feltételeiről.
 
-(3) A használaton kívüli bányászati célú mélyfúrások tájrendezési terve tartalmazza:
+(3)[^103] A használaton kívüli bányászati célú mélyfúrások tájrendezési terve – a kockázatelemzés bányafelügyelethez történő benyújtása szerinti állapotnak megfelelően – tartalmazza:
 
 a) a kút tulajdonosának vagy vagyonkezelőjének nevét és tulajdonjogának igazolását;
 
@@ -58,9 +58,31 @@ mb) a műszakilag biztonságba nem helyezett kútról.
 
 (6) A Bt. 36. § (4) bekezdésében foglalt kockázatelemzés tartalmi követelményeit a 4. melléklet tartalmazza. A kockázatelemzés elvégzése nem mentesíti a bányavállalkozót, a tulajdonost vagy a vagyonkezelőt a jogszabályban előírt kötelezettségek, a káros környezeti és természeti hatások, továbbá a környezet és természet veszélyeztetésének megelőzésére és csökkentésére szolgáló műszaki, valamint a mélyfúrás környezetének megóvását biztosító műszaki-biztonsági intézkedés megtétele alól.
 
+(6a)[^104] Ha a használaton kívüli mélyfúrásról olyan új információ válik ismertté, amely a használaton kívüli mélyfúrás kockázati besorolását érinti, vagy a kockázatcsökkentési intézkedések végrehajtásával a használaton kívüli mélyfúrás kockázati besorolása változik, a használaton kívüli mélyfúrás tulajdonosa vagy vagyonkezelője a kút kockázati besorolásának módosítását – új kockázatelemzés benyújtásával – kezdeményezi a tudomásszerzést követő 60 napon belül a bányafelügyeletnél.
+
+(6b)[^105] A Bt. 36. § (4) bekezdése szerinti intézkedési terv tartalmazza
+
+a) a kockázatelemzés alapján a magas vagy nagyon magas kockázat alacsony kockázatra történő csökkentését biztosító beavatkozások felsorolását,
+
+b) a beavatkozások kockázatcsökkentésre vonatkozó alkalmasságának igazolását,
+
+c) a kockázatcsökkentésre vonatkozó beavatkozások végrehajtásának ütemezését, azzal, hogy a végrehajtási időtartam a két évet nem haladhatja meg.
+
+(6c)[^106] Ha a kockázatelemzés olyan megállapítást tartalmaz, amely szerint a magas vagy nagyon magas kockázatú használaton kívüli mélyfúrás esetében a tájrendezés a kockázat mértékét nem csökkenti, a kockázatelemzés tartalmazza
+
+a) azokat az indokokat, amelyek a kockázatcsökkentés kizártságát megalapozzák,
+
+b) azokat az intézkedéseket, amelyek biztosítják a magas vagy nagyon magas kockázatú használaton kívüli mélyfúrás integritását,
+
+c) a magas vagy nagyon magas kockázatú használaton kívüli mélyfúrás ellenőrzési rendjét, megadva az ellenőrzések gyakoriságát és annak indokolását.
+
 (7) A használaton kívüli mélyfúrás tulajdonosának – a Magyar Állam és természetes személy tulajdonos kivételével – a Bt. 36. § (6) bekezdésében foglalt tájrendezési feladatok teljesítésének fedezetére céltartalékot kell képeznie.
 
-(8)[^87] A bányafelügyelet a Bt. 36. § (7) bekezdése szerinti hasznosítás lehetőségének vizsgálata érdekében kérelemre engedélyezi a Bt. 36. § (3) bekezdése szerinti létesítmény vizsgálatát, a létesítmény felhasználásával végezhető földtani vizsgálatokat.
+(8)[^107] A bányafelügyelet a Bt. 36. § (7) bekezdése szerinti hasznosítás lehetőségének vizsgálata érdekében kérelemre engedélyezi a Bt. 36. § (3) bekezdése szerinti létesítmény vizsgálatát, a létesítmény felhasználásával végezhető földtani vizsgálatokat.
 
-[^86]: A 40. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § p) pontja szerint módosított szöveg.
-[^87]: A 40. § (8) bekezdését a 6/2023. (II. 28.) SZTFH rendelet 4. §-a iktatta be.
+[^102]: A 40. § (1) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 42. § p) pontja szerint módosított szöveg.
+[^103]: A 40. § (3) bekezdés nyitó szövegrésze a 4/2024. (V. 31.) SZTFH rendelet 11. § e) pontja szerint módosított szöveg.
+[^104]: A 40. § (6a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 9. §-a iktatta be.
+[^105]: A 40. § (6b) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 9. §-a iktatta be.
+[^106]: A 40. § (6c) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 9. §-a iktatta be.
+[^107]: A 40. § (8) bekezdését a 6/2023. (II. 28.) SZTFH rendelet 4. §-a iktatta be.

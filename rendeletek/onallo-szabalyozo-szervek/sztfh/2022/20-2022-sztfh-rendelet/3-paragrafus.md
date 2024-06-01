@@ -1,6 +1,6 @@
 ## 3. A hatósági engedély alapján gyakorolt bányászati jog kérelemre történő átruházása
 
-3. § (1)[^2] A hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti kérelem tartalmazza
+3. § (1)[^5] A hatósági engedély alapján gyakorolt bányászati jog átruházásához való hozzájárulás iránti kérelem tartalmazza
 
 a) az átadás időpontjában kitermelhető ásványvagyon mennyiségéről készített kimutatást,
 
@@ -32,13 +32,13 @@ a) igazolja a fizetőképességét, valamint azt, hogy az átvevő – a kérele
 
 b) a kérelem benyújtását megelőző három évre vonatkozóan bemutatja a szakmai tevékenységét és kötelezettségei teljesítését.
 
-(4)[^3]
+(4)[^6]
 
-(5)[^4]
+(5)[^7]
 
 (6) A bányafelügyelet az (1) bekezdés szerinti kérelmet elutasítja
 
-a)[^5] ha a bányavállalkozó a Bt. 6/A. § (2) bekezdése szerinti kötelezettségét nem teljesítette,
+a)[^8] ha a bányavállalkozó a Bt. 6/A. § (2) bekezdése szerinti kötelezettségét nem teljesítette,
 
 b) ha a bányafelügyelet az átvevőt a kérelem benyújtását megelőző három évben legalább két alkalommal szankcionálta,
 
@@ -46,17 +46,17 @@ c) ha átvevő a bányászati tevékenység végzésre vonatkozó alkalmasságá
 
 d) ha az átvevő a jogosultságában álló bányatelkek tekintetében a kérelem benyújtását megelőző három évben legalább egy esetében a hatályos kitermelési műszaki üzemi tervben engedélyezett kitermelési mennyiség legalább 50%-át tárgyévenként nem termelte ki, kivéve, ha a kitermelést elemi csapás vagy bányaveszély akadályozta, továbbá
 
-e)[^6] ha szénhidrogének kutatására, kitermelésére vonatkozó bányászati jog átruházása esetén a b)–d) ponton túl az átvevő nem tudja igazolni a fizetőképességét, továbbá az átvevő – a kérelem benyújtását megelőző 3 évben – nem tett eleget a számviteli törvény szerinti beszámolókészítési kötelezettségének vagy új szervezet esetén nem rendelkezik 3 évre szóló, auditált üzleti tervvel.
+e)[^9] ha szénhidrogének kutatására, kitermelésére vonatkozó bányászati jog átruházása esetén a b)–d) ponton túl az átvevő nem tudja igazolni a fizetőképességét, továbbá az átvevő – a kérelem benyújtását megelőző 3 évben – nem tett eleget a számviteli törvény szerinti beszámolókészítési kötelezettségének vagy új szervezet esetén nem rendelkezik 3 évre szóló, auditált üzleti tervvel.
 
 (7) Az átvevő a (6) bekezdés c) pontja szerinti alkalmassági feltételnek akkor felel meg, ha a bányászati tevékenységre jogszabályban előírt szakmai képesítéssel, gyakorlattal, feltételekkel, vizsgával, engedéllyel és a bányászati tevékenység végzéséhez szükséges tárgyi eszközökkel rendelkezik, vagy e követelményeknek megfelelő személyeket foglalkoztat, valamint a tárgyi eszközök használatára jogosultsággal rendelkezik, vagy a bányászati tevékenység végzésére a fent felsorolt feltételeknek megfelelő vállalkozóval szerződést kötött.
 
-(8)[^7]
+(8)[^10]
 
 (9) A bányászati jog az engedélyezett kutatási terület, a megállapított bányatelek vagy a kijelölt geotermikus védőidom egészére ruházható át.
 
-[^2]: A 3. § (1) bekezdése a 33/2022. (VII. 29.) SZTFH rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (4) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
-[^4]: A 3. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
-[^5]: A 3. § (6) bekezdés a) pontja a 33/2022. (VII. 29.) SZTFH rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^6]: A 3. § (6) bekezdés e) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.
-[^7]: A 3. § (8) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
+[^5]: A 3. § (1) bekezdése a 33/2022. (VII. 29.) SZTFH rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (4) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
+[^7]: A 3. § (5) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.
+[^8]: A 3. § (6) bekezdés a) pontja a 33/2022. (VII. 29.) SZTFH rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^9]: A 3. § (6) bekezdés e) pontja a 33/2022. (VII. 29.) SZTFH rendelet 8. § a) pontja szerint módosított szöveg.
+[^10]: A 3. § (8) bekezdését a 33/2022. (VII. 29.) SZTFH rendelet 9. §-a hatályon kívül helyezte.

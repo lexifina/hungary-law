@@ -26,6 +26,20 @@ jb) szerves komponensek (fenolok, gáz-víz arány és gázösszetétel), valami
 
 jc) azon szerves és szervetlen, makro- és mikroparamétereket, amelyeket a termelés, illetve üzemeltetés során az esetlegesen használt adalékanyagok tartalmaznak és
 
-k) a geotermikus védőidom alakjának egyértelmű meghatározásához szükséges mennyiségű térbeli pontok EOV koordinátáit, a kijelöléshez felhasznált műszaki és földtani alapadatokat, valamint módszereket, számításokat és modelleket.
+k)[^54] a geotermikus védőidomok nyilvántartása tartalmazza
+
+ka) a geotermikus védőidomot megállapító, módosító és törlő határozat számát és véglegessé válásának napját,
+
+kb) a geotermikus védőidom felszíni vetületével érintett település megnevezését,
+
+kc) a geotermikus védőidom jogosítottjának nevét és lakóhelyét, illetve megnevezését és székhelyét,
+
+kd) a geotermikus védőidom megállapító határozat szerinti EOV koordinátákat,
+
+ke) a geotermikus védőidomon belüli létesítmények megnevezését,
+
+kf) a kitermelhető termálvíz éves mennyiségét.
 
 (2) A geotermikus energia kinyerését végző engedélyes köteles a bányafelügyelet részére a kinyeréssel érintett évet követő év február 28. napjáig az (1) bekezdésben foglalt adatokat szolgáltatni.
+
+[^54]: A 15/C. § (1) bekezdés k) pontja a 4/2024. (V. 31.) SZTFH rendelet 6. §-ával megállapított szöveg.

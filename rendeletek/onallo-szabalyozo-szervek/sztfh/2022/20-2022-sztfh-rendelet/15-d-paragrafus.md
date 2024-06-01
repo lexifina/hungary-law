@@ -14,12 +14,12 @@ f) az engedélyezni kért szerződéses időtartamot és annak indokolását és
 
 g) a hasznosított termálvíz visszasajtolásának módját és mértékét.
 
-(2)[^44] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/C. § (2) bekezdés a) pontja szerinti jognyilatkozatot.
+(2)[^55] A bányavállalkozó az (1) bekezdés szerinti kérelemhez mellékeli a Bt. 21/C. § (2) bekezdés a) pontja szerinti jognyilatkozatot.
 
-(3)[^45]
+(3)[^56]
 
-(4)[^46] Ha a bányavállalkozó a Bt. 21/C. § (1) bekezdése szerinti határidőn belül az (1) bekezdés szerinti kérelmet nem nyújtja be, vagy a bányafelügyelet a Bt. 21/C. § (2) bekezdése szerinti feltételek teljesülése hiányában végleges döntésével elutasítja az (1) bekezdés szerinti kérelmet, a bányafelügyelet a kijelölt geotermikus védőidomot törli a nyilvántartásából.
+(4)[^57] Ha a bányavállalkozó a Bt. 21/C. § (1) bekezdése szerinti határidőn belül az (1) bekezdés szerinti kérelmet nem nyújtja be, vagy a bányafelügyelet a Bt. 21/C. § (2) bekezdése szerinti feltételek teljesülése hiányában végleges döntésével elutasítja az (1) bekezdés szerinti kérelmet, a bányafelügyelet a kijelölt geotermikus védőidomot törli a nyilvántartásából.
 
-[^44]: A 15/D. § (2) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
-[^45]: A 15/D. § (3) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 11. § c) pontja hatályon kívül helyezte.
-[^46]: A 15/D. § (4) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 10. § d) pontja szerint módosított szöveg.
+[^55]: A 15/D. § (2) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 11. § b) pontja szerint módosított szöveg.
+[^56]: A 15/D. § (3) bekezdését a 25/2023. (XII. 22.) SZTFH rendelet 11. § c) pontja hatályon kívül helyezte.
+[^57]: A 15/D. § (4) bekezdése a 25/2023. (XII. 22.) SZTFH rendelet 10. § d) pontja szerint módosított szöveg.

@@ -28,9 +28,9 @@ c) a kutatási terület topográfiai térképét a kutató létesítmények felt
 
 d) a jóváhagyott kutatási műszaki üzemi terv végrehajtásáról, továbbá a kutatás műszaki üzemi tervét jóváhagyó határozatban vagy a koncessziós szerződésben előírt kötelezettségek teljesítéséről készített összefoglalót.
 
-(3a)[^17] A kutatás során nyert, felhasznált, valamint a korábbi adatokból felhasznált adatokat egységes digitális és térinformatikai adatbázisba kell szervezni olyan részletességgel és formában, hogy azokból a következtetések utólagosan is reprodukálhatók legyenek.
+(3a)[^22] A kutatás során nyert, felhasznált, valamint a korábbi adatokból felhasznált adatokat egységes digitális és térinformatikai adatbázisba kell szervezni olyan részletességgel és formában, hogy azokból a következtetések utólagosan is reprodukálhatók legyenek.
 
-(4)[^18] A bányafelügyelet a kutatási zárójelentés elfogadása iránti kérelmet elutasítja, ha
+(4)[^23] A bányafelügyelet a kutatási zárójelentés elfogadása iránti kérelmet elutasítja, ha
 
 a) a kutatási zárójelentést földtani szakértő nem jegyezte ellen,
 
@@ -50,5 +50,5 @@ c) azon ásványi nyersanyagok megnevezését, besorolási kódját és vagyonsz
 
 (6) A Bt. 26/A. § (2) bekezdése szerinti előkutatási, archív adattári adatok és új elméleti földtani értelmezés eredményei alapján elkészített készletszámítási jelentés szakmai tartalmának meg kell felelnie a (2) és (3) bekezdésben meghatározott szakmai és mellékleti követelményeknek. A készletszámítási jelentést földtani szakértő ellenjegyzi.
 
-[^17]: A 11. § (3a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 36. § (1) bekezdése iktatta be.
-[^18]: A 11. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^22]: A 11. § (3a) bekezdését a 40/2022. (XII. 19.) SZTFH rendelet 36. § (1) bekezdése iktatta be.
+[^23]: A 11. § (4) bekezdése a 40/2022. (XII. 19.) SZTFH rendelet 36. § (2) bekezdésével megállapított szöveg.
