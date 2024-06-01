@@ -80,13 +80,13 @@
 
 | 39. | MEKH | Erőművek és kiserőművek beépített teljesítőképessége energiahordozónként (a meglévő erőművek megnevezése, típusa) | 3.3.1. | évente | objektum | június 1. |
 
-| 40. | NFK | Erdősítési adatok | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 40. | AM | Erdősítési adatok | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 41. | NFK | Erdőterület rendeltetés, üzemmód szerint | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 41. | AM | Erdőterület rendeltetés, üzemmód szerint | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 42. | NFK | Élőfa-készlet | 4.6. | frissítést követően | település | frissítést követő 90. nap |
+| 42. | AM | Élőfa-készlet | 4.6. | frissítést követően | település | frissítést követő 90. nap |
 
-| 43. | NFK | Égett erdőterület | 4.6. | frissítést követően | vármegye | frissítést követő 90. nap |
+| 43. | NÉBIH | Égett erdőterület | 4.6. | frissítést követően | vármegye | frissítést követő 90. nap |
 
 | 44. | SZTNH | Szabadalmi bejegyzések | 1.1.6. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -202,7 +202,7 @@
 
 | 19. | Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zrt. | MAVIR |
 
-| 20. | Nemzeti Földügyi Központ | NFK |
+| 20. | Nemzeti Élelmiszerlánc-biztonsági Hivatal | NÉBIH |
 
 | 21. | Oktatási Hivatal | OH |
 
