@@ -1,5 +1,5 @@
 ## 2. A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet módosítása
 
-3. § A fejezeti és központi kezelésű előirányzatok kezelésének és felhasználásának szabályairól szóló 14/2021. (III. 25.) AM rendelet (a továbbiakban: R2.) 1. § c) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(E rendelet hatálya)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

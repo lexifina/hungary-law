@@ -1,3 +1,3 @@
-6. § Az R2. 10. §-a a következő d) és e) ponttal egészül ki:
+6. §[^7]
 
-(Ez a rendelet)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
