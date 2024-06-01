@@ -10,7 +10,7 @@
 
 | 4. | Ha a távhővezetéket a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék vagy műemlék telkén valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény vagy vezeték megvalósítása a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-8. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^168]
+8. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^174]
 
 Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészenkénti hiteles mérésének kialakítása vagy fűtési költségmegosztók alkalmazása esetére
 
@@ -50,4 +50,4 @@ G. Az egyedi, hiteles hőmennyiség mérő vagy a fűtési költségmegosztó gy
 
 A vizsgált beruházás akkor költséghatékony, ha F × G > C + G × D
 
-[^168]: A Vhr. 8. mellékletét a 677/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^174]: A Vhr. 8. mellékletét a 677/2023. (XII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
