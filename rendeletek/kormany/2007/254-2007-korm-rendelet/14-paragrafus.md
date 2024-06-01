@@ -24,7 +24,7 @@ b) a szerződés tárgyát képező ingatlan ingatlan-nyilvántartási adatai b�
 
 (9)[^143] Központi költségvetési szerv esetén a tulajdonosi joggyakorló a (8) bekezdés szerinti mulasztással kapcsolatban az irányító vagy felügyeleti szerv vezetőjét is megkeresheti a kötelezettség teljesítésére irányuló intézkedések megtétele érdekében.
 
-(10)[^144] A kormányhivatalok, a Nemzeti Adó- és Vámhivatal, a Magyar Államkincstár, a földmérési és térinformatikai államigazgatási szerv, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat, valamint a Nemzeti Földügyi Központ együttműködik az MNV Zrt.-vel és az MVH-val, részükre – jogszabály eltérő rendelkezése hiányában térítésmentesen – az MNV Zrt. és az MVH nyilvántartásainak hiteles adattartalmát alátámasztó adatot szolgáltat. A kizárólagos állami tulajdonban lévő vagyonelemek adatait kezelő szervek – így különösen a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, valamint a kulturális örökség védelméért felelős miniszter – együttműködik az MNV Zrt.-vel és részére – jogszabály eltérő rendelkezése hiányában térítésmentesen – adatot szolgáltat.
+(10)[^144] A kormányhivatalok, a Nemzeti Adó- és Vámhivatal, a Magyar Államkincstár, a földmérési és térinformatikai államigazgatási szerv, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat, valamint a Nemzeti Földalap kezeléséért felelős szerv együttműködik az MNV Zrt.-vel és az MVH-val, részükre – jogszabály eltérő rendelkezése hiányában térítésmentesen – az MNV Zrt. és az MVH nyilvántartásainak hiteles adattartalmát alátámasztó adatot szolgáltat. A kizárólagos állami tulajdonban lévő vagyonelemek adatait kezelő szervek – így különösen a Nemzeti Média- és Hírközlési Hatóság, a Szabályozott Tevékenységek Felügyeleti Hatósága, valamint a kulturális örökség védelméért felelős miniszter – együttműködik az MNV Zrt.-vel és részére – jogszabály eltérő rendelkezése hiányában térítésmentesen – adatot szolgáltat.
 
 [^134]: A 14. § (1) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^135]: A 14. § (1a) bekezdését a 148/2019. (VI. 25.) Korm. rendelet 10. § (2) bekezdése iktatta be.
@@ -36,4 +36,4 @@ b) a szerződés tárgyát képező ingatlan ingatlan-nyilvántartási adatai b�
 [^141]: A 14. § (7) bekezdése a 356/2011. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 77/2014. (III. 14.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
 [^142]: A 14. § (8) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
 [^143]: A 14. § (9) bekezdése a 148/2019. (VI. 25.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
-[^144]: A 14. § (10) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^144]: A 14. § (10) bekezdése a 827/2021. (XII. 28.) Korm. rendelet 5. §-ával megállapított, a 107/2024. (V. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.
