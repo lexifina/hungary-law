@@ -2,33 +2,33 @@
 
 ## KÜLÖNÖS ILLETÉKESSÉGI SZABÁLYOK
 
-3. § (1)[^6] A Pest Vármegyei Kormányhivatal illetékessége – ha e rendelet vagy más kormányrendelet másként nem rendelkezik – az e rendeletben meghatározott hatósági feladatok tekintetében a főváros és Pest vármegye területére terjed ki.
+3. § (1)[^7] A Pest Vármegyei Kormányhivatal illetékessége – ha e rendelet vagy más kormányrendelet másként nem rendelkezik – az e rendeletben meghatározott hatósági feladatok tekintetében a főváros és Pest vármegye területére terjed ki.
 
-(2)[^7] Az agrárkár-megállapító szervként, borászati hatóságként, élelmiszerlánc-felügyeleti szervként növény- és talajvédelmi hatáskörben, földművelésügyi igazgatási hatáskörben, pálinkaellenőrző hatóságként, talajvédelmi hatóságként, valamint tenyésztési hatóságként eljáró vármegyei kormányhivatal illetékessége a vármegye egész területére kiterjed. A főváros területére kiterjedő vármegyei kormányhivatali feladatokat a Pest Vármegyei Kormányhivatal látja el.
+(2)[^8] Az agrárkár-megállapító szervként, borászati hatóságként, élelmiszerlánc-felügyeleti szervként növény- és talajvédelmi hatáskörben, földművelésügyi igazgatási hatáskörben, pálinkaellenőrző hatóságként, talajvédelmi hatóságként, valamint tenyésztési hatóságként eljáró vármegyei kormányhivatal illetékessége a vármegye egész területére kiterjed. A főváros területére kiterjedő vármegyei kormányhivatali feladatokat a Pest Vármegyei Kormányhivatal látja el.
 
 (3) A földügyi igazgatási feladatkörében eljáró
 
 a) földmérési és térinformatikai államigazgatási szerv illetékességi területe a hatáskörébe tartózó ügyekben az ország területére,
 
-b)[^8] fővárosi és vármegyei kormányhivatal illetékességi területe a hatáskörébe tartozó ügyekben az adott vármegye (főváros) területére,
+b)[^9] fővárosi és vármegyei kormányhivatal illetékességi területe a hatáskörébe tartozó ügyekben az adott vármegye (főváros) területére,
 
-c)[^9]
+c)[^10]
 
 terjed ki.
 
-(4)[^10]
+(4)[^11]
 
-(5)[^11]
+(5)[^12]
 
-(6)[^12]
+(6)[^13]
 
-(7)[^13]
+(7)[^14]
 
-[^6]: A 3. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § c) és d) pontja szerint módosított szöveg.
-[^7]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) és c)-d) pontja szerint módosított szöveg.
-[^8]: A 3. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b)-c) pontja szerint módosított szöveg.
-[^9]: A 3. § (3) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 1. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^10]: A 3. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^11]: A 3. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^12]: A 3. § (6) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^13]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^7]: A 3. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § c) és d) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (2) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § a) és c)-d) pontja szerint módosított szöveg.
+[^9]: A 3. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § b)-c) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdés c) pontját a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 1. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^11]: A 3. § (4) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^12]: A 3. § (5) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^13]: A 3. § (6) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^14]: A 3. § (7) bekezdését a 20/2017. (II. 2.) Korm. rendelet 17. § (1) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 2. pontja, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

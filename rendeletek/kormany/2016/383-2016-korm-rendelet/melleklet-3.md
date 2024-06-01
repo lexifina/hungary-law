@@ -1,4 +1,4 @@
-## 1.[^317] Pest Vármegyei Kormányhivatal
+## 1.[^324] Pest Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -16,7 +16,7 @@
 
 ## 7. Gerecse-Vértesi
 
-## 7a.[^318] Gödöllői
+## 7a.[^325] Gödöllői
 
 ## 8. Gödöllői-dombság
 
@@ -36,7 +36,7 @@
 
 ## 16. Szentendrei
 
-## 2.[^319] Veszprém Vármegyei Kormányhivatal
+## 2.[^326] Veszprém Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -60,7 +60,7 @@
 
 ## 10. Zirci
 
-## 3.[^320] Vas Vármegyei Kormányhivatal
+## 3.[^327] Vas Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -68,7 +68,7 @@
 
 ## 2. Alsó-Őrségi
 
-## 3.[^321] Dél-Hansági és Győri
+## 3.[^328] Dél-Hansági és Győri
 
 ## 4. Észak-Hanság és Szigetközi
 
@@ -76,9 +76,9 @@
 
 ## 6. Felső-Őrségi és Vendvidéki
 
-## 7.[^322]
+## 7.[^329]
 
-## 8.[^323]
+## 8.[^330]
 
 ## 9. Kemenesi cser
 
@@ -94,7 +94,7 @@
 
 ## 15. Sopron-Fertőmelléki
 
-## 4.[^324] Zala Vármegyei Kormányhivatal
+## 4.[^331] Zala Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -120,19 +120,19 @@
 
 ## 11. Zalakomári
 
-## 5.[^325] Somogy Vármegyei Kormányhivatal
+## 5.[^332] Somogy Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
 ## 1. Barcsi
 
-## 2.[^326] Kelet-Zselic-Igali
+## 2.[^333] Kelet-Zselic-Igali
 
 ## 3. Iharosi
 
 ## 4. Kaszói
 
-## 5.[^327]
+## 5.[^334]
 
 ## 6. Lábodi
 
@@ -142,7 +142,7 @@
 
 ## 9. Nagybajomi
 
-## 10.[^328]
+## 10.[^335]
 
 ## 11. Nyugat-Zselic
 
@@ -150,11 +150,11 @@
 
 ## 13. Zamárdi
 
-## 6.[^329] Baranya Vármegyei Kormányhivatal
+## 6.[^336] Baranya Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
-## 1.[^330] Bátaszéki
+## 1.[^337] Bátaszéki
 
 ## 2. Bédai
 
@@ -188,7 +188,7 @@
 
 ## 17. Vajszlói
 
-## 7.[^331] Bács-Kiskun Vármegyei Kormányhivatal
+## 7.[^338] Bács-Kiskun Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -220,7 +220,7 @@
 
 ## 14. Marosszög-Csanádi
 
-## 8.[^332] Hajdú-Bihar Vármegyei Kormányhivatal
+## 8.[^339] Hajdú-Bihar Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -244,7 +244,7 @@
 
 ## 10. Szolnok-Jászsági
 
-## 9.[^333] Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal
+## 9.[^340] Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -288,7 +288,7 @@
 
 ## 20. Tornai
 
-## 10.[^334] Heves Vármegyei Kormányhivatal
+## 10.[^341] Heves Vármegyei Kormányhivatal
 
 ## Erdőtervezési körzet neve
 
@@ -302,13 +302,13 @@
 
 ## 5. Gyöngyössolymosi
 
-## 6.[^335] Dél-Hevesi
+## 6.[^342] Dél-Hevesi
 
 ## 7. Kelet-Cserháti
 
 ## 8. Kemencei
 
-## 9.[^336]
+## 9.[^343]
 
 ## 10. Nagybátonyi
 
@@ -340,7 +340,7 @@ Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és ál
 
 ## Az élelmiszerlánc-felügyeleti szervként élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró járási hivatalok illetékessége az alábbiakban meghatározott járások illetékességi területére terjed ki.
 
-1.[^337] Baranya vármegye
+1.[^344] Baranya vármegye
 
 1.1. Komlói Járási Hivatal
 
@@ -372,7 +372,7 @@ Szigetvári járás
 
 Szentlőrinci járás
 
-2.[^338] Bács-Kiskun vármegye
+2.[^345] Bács-Kiskun vármegye
 
 2.1. Bajai Járási Hivatal
 
@@ -406,7 +406,7 @@ jánoshalmai járás
 
 Bácsalmási járás
 
-3.[^339] Békés vármegye
+3.[^346] Békés vármegye
 
 3.1. Békéscsabai Járási Hivatal
 
@@ -434,7 +434,7 @@ Orosházi járás
 
 Mezőkovácsházai járás
 
-4.[^340] Borsod-Abaúj-Zemplén vármegye
+4.[^347] Borsod-Abaúj-Zemplén vármegye
 
 4.1. Edelényi Járási Hivatal
 
@@ -478,7 +478,7 @@ Sátoraljaújhelyi járás
 
 Tokaji járás
 
-5.[^341] Csongrád-Csanád vármegye
+5.[^348] Csongrád-Csanád vármegye
 
 5.1. Hódmezővásárhelyi Járási Hivatal
 
@@ -502,7 +502,7 @@ Csongrádi járás
 
 Szentesi járás
 
-6.[^342] Fejér vármegye
+6.[^349] Fejér vármegye
 
 6.1. Bicskei Járási Hivatal
 
@@ -526,7 +526,7 @@ Enyingi járás
 
 Székesfehérvári járás
 
-7.[^343] Győr-Moson-Sopron vármegye
+7.[^350] Győr-Moson-Sopron vármegye
 
 7.1. Csornai Járási Hivatal
 
@@ -550,7 +550,7 @@ Mosonmagyaróvári járás
 
 Soproni járás
 
-8.[^344] Hajdú-Bihar vármegye
+8.[^351] Hajdú-Bihar vármegye
 
 8.1. Berettyóújfalui Járási Hivatal
 
@@ -584,7 +584,7 @@ Hajdúhadházi járás
 
 Püspökladányi járás
 
-9.[^345] Heves vármegye
+9.[^352] Heves vármegye
 
 9.1. Egri Járási Hivatal
 
@@ -608,7 +608,7 @@ Hatvani járás
 
 Hevesi járás
 
-10.[^346] Jász-Nagykun-Szolnok vármegye
+10.[^353] Jász-Nagykun-Szolnok vármegye
 
 10.1. Jászberényi Járási Hivatal
 
@@ -636,7 +636,7 @@ Szolnoki járás
 
 Törökszentmiklósi járás
 
-11.[^347] Komárom-Esztergom vármegye
+11.[^354] Komárom-Esztergom vármegye
 
 11.1. Esztergomi Járási Hivatal
 
@@ -656,7 +656,7 @@ Tatai járás
 
 Oroszlányi járás
 
-12.[^348] Nógrád vármegye
+12.[^355] Nógrád vármegye
 
 12.1. Balassagyarmati Járási Hivatal
 
@@ -676,7 +676,7 @@ Salgótarjáni járás
 
 Szécsényi járás
 
-13.[^349] Pest vármegye
+13.[^356] Pest vármegye
 
 13.1. Ceglédi Járási Hivatal
 
@@ -746,7 +746,7 @@ XV. kerület
 
 XVI. kerület
 
-14.[^350] Somogy vármegye
+14.[^357] Somogy vármegye
 
 14.1. Kaposvári Járási Hivatal
 
@@ -772,7 +772,7 @@ Siófoki járás
 
 Tabi járás
 
-15.[^351] Szabolcs-Szatmár-Bereg vármegye
+15.[^358] Szabolcs-Szatmár-Bereg vármegye
 
 15.1. Fehérgyarmati-Vásárosnaményi Járási Hivatal
 
@@ -812,7 +812,7 @@ Nyíregyházi járás
 
 Tiszavasvári járás
 
-16.[^352] Tolna vármegye
+16.[^359] Tolna vármegye
 
 16.1. Bonyhádi Járási Hivatal
 
@@ -830,7 +830,7 @@ Dombóvári járás
 
 Tamási járás
 
-17.[^353] Vas vármegye
+17.[^360] Vas vármegye
 
 17.1. Celldömölki Járási Hivatal
 
@@ -854,7 +854,7 @@ Szombathelyi járás
 
 Kőszegi járás
 
-18.[^354] Veszprém vármegye
+18.[^361] Veszprém vármegye
 
 18.1. Devecseri Járási Hivatal
 
@@ -884,7 +884,7 @@ Várpalotai járás
 
 Zirci járás
 
-19.[^355] Zala vármegye
+19.[^362] Zala vármegye
 
 19.1. Keszthelyi Járási Hivatal
 
@@ -906,42 +906,42 @@ Letenyei járás
 
 Zalaegerszegi járás
 
-[^317]: A 2. melléklet 1. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^318]: A 2. melléklet 1. pont 7a. alpontját a 89/2024. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
-[^319]: A 2. melléklet 2. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^320]: A 2. melléklet 3. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^321]: A 2. melléklet 3. pont 3. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^322]: A 2. melléklet 3. pont 7. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont ga) alpontja hatályon kívül helyezte.
-[^323]: A 2. melléklet 3. pont 8. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont ga) alpontja hatályon kívül helyezte.
-[^324]: A 2. melléklet 4. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^325]: A 2. melléklet 5. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^326]: A 2. melléklet 5. pont 2. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^327]: A 2. melléklet 5. pont 5. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gb) alpontja hatályon kívül helyezte.
-[^328]: A 2. melléklet 5. pont 10. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gb) alpontja hatályon kívül helyezte.
-[^329]: A 2. melléklet 6. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^330]: A 2. melléklet 6. pont 1. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^331]: A 2. melléklet 7. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^332]: A 2. melléklet 8. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^333]: A 2. melléklet 9. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^334]: A 2. melléklet 10. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
-[^335]: A 2. melléklet 10. pont 6. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^336]: A 2. melléklet 10. pont 9. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gc) alpontja hatályon kívül helyezte.
-[^337]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^338]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^339]: A 3. melléklet 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^340]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^341]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapítot, a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^342]: A 3. melléklet 6. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^343]: A 3. melléklet 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^344]: A 3. melléklet 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^345]: A 3. melléklet 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^346]: A 3. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^347]: A 3. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^348]: A 3. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^349]: A 3. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^350]: A 3. melléklet 14. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^351]: A 3. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^352]: A 3. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^353]: A 3. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^354]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
-[^355]: A 3. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^324]: A 2. melléklet 1. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^325]: A 2. melléklet 1. pont 7a. alpontját a 89/2024. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^326]: A 2. melléklet 2. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^327]: A 2. melléklet 3. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^328]: A 2. melléklet 3. pont 3. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^329]: A 2. melléklet 3. pont 7. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont ga) alpontja hatályon kívül helyezte.
+[^330]: A 2. melléklet 3. pont 8. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont ga) alpontja hatályon kívül helyezte.
+[^331]: A 2. melléklet 4. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^332]: A 2. melléklet 5. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^333]: A 2. melléklet 5. pont 2. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^334]: A 2. melléklet 5. pont 5. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gb) alpontja hatályon kívül helyezte.
+[^335]: A 2. melléklet 5. pont 10. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gb) alpontja hatályon kívül helyezte.
+[^336]: A 2. melléklet 6. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^337]: A 2. melléklet 6. pont 1. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^338]: A 2. melléklet 7. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^339]: A 2. melléklet 8. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^340]: A 2. melléklet 9. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^341]: A 2. melléklet 10. alcím címe a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^342]: A 2. melléklet 10. pont 6. alpontja a 89/2024. (IV. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^343]: A 2. melléklet 10. pont 9. alpontját a 89/2024. (IV. 23.) Korm. rendelet 9. § g) pont gc) alpontja hatályon kívül helyezte.
+[^344]: A 3. melléklet 1. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^345]: A 3. melléklet 2. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^346]: A 3. melléklet 3. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^347]: A 3. melléklet 4. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^348]: A 3. melléklet 5. pontja a 371/2020. (VII. 30.) Korm. rendelet 41. § a) pontjával megállapítot, a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^349]: A 3. melléklet 6. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^350]: A 3. melléklet 7. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^351]: A 3. melléklet 8. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^352]: A 3. melléklet 9. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^353]: A 3. melléklet 10. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^354]: A 3. melléklet 11. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^355]: A 3. melléklet 12. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^356]: A 3. melléklet 13. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^357]: A 3. melléklet 14. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^358]: A 3. melléklet 15. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^359]: A 3. melléklet 16. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^360]: A 3. melléklet 17. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^361]: A 3. melléklet 18. pontja a 171/2017. (VI. 29.) Korm. rendelet 24. § (9) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.
+[^362]: A 3. melléklet 19. pontja a 616/2022. (XII. 29.) Korm. rendelet 242. § c) pontja szerint módosított szöveg.

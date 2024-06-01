@@ -1,19 +1,19 @@
-60. § (1)[^276] Vadászati hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vadászterület fekvése szerint illetékes vármegyei kormányhivatal (a továbbiakban: területi vadászati hatóság) jár el – a (2) bekezdésben foglalt kivétellel – a vármegyére kiterjedő illetékességi területen.
+60. § (1)[^282] Vadászati hatóságként – ha kormányrendelet eltérően nem rendelkezik – a vadászterület fekvése szerint illetékes vármegyei kormányhivatal (a továbbiakban: területi vadászati hatóság) jár el – a (2) bekezdésben foglalt kivétellel – a vármegyére kiterjedő illetékességi területen.
 
-(2)[^277] A Pest Vármegyei Kormányhivatal illetékessége vadászati hatóságként Budapestre és Pest vármegye területére terjed ki.
+(2)[^283] A Pest Vármegyei Kormányhivatal illetékessége vadászati hatóságként Budapestre és Pest vármegye területére terjed ki.
 
-(3)[^278]
+(3)[^284]
 
-(3a)[^279] A területi vadászati hatóság felügyeleti szerveként a miniszter jár el.
+(3a)[^285] A területi vadászati hatóság felügyeleti szerveként a miniszter jár el.
 
 (4) Ha a vadászterület két vagy több területi vadászati hatóság illetékességi területén található, az a területi vadászati hatóság jár el, amelynek illetékességi területén a vadászterület nagyobbik hányada található.
 
 (5) Két vagy több területi vadászati hatóság illetékességi területét érintő vadászterületre vonatkozó ajánlást az a területi vadászati hatóság készíti el, amelynek illetékességi területén az ajánlással érintett vadászterület nagyobb hányada található.
 
-(6)[^280] Országos illetékességű vadászati hatóságként – kormányrendeletben hatáskörébe utalt hatósági ügyben – a Pest Vármegyei Kormányhivatal jár el.
+(6)[^286]
 
-[^276]: A 60. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (41) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) és f) pontja szerint módosított szöveg.
-[^277]: A 60. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés e) pontja, 616/2022. (XII. 29.) Korm. rendelet 242. § c) és d) pontja szerint módosított szöveg.
-[^278]: A 60. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 23. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
-[^279]: A 60. § (3a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 17. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 23. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^280]: A 60. § (6) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 242. § d) pontja szerint módosított szöveg.
+[^282]: A 60. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 159. § (41) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 242. § b) és f) pontja szerint módosított szöveg.
+[^283]: A 60. § (2) bekezdése a 31/2020. (II. 29.) Korm. rendelet 17. § (4) bekezdés e) pontja, 616/2022. (XII. 29.) Korm. rendelet 242. § c) és d) pontja szerint módosított szöveg.
+[^284]: A 60. § (3) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 159. § (45) bekezdés 23. pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^285]: A 60. § (3a) bekezdését a 186/2018. (X. 9.) Korm. rendelet 17. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 159. § (44) bekezdés 23. pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^286]: A 60. § (6) bekezdését a 89/2024. (IV. 23.) Korm. rendelet 9. § d) pontja hatályon kívül helyezte.
