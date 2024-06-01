@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2024-01-01 | 2004-79-20-82.45 | 160/2023. (XII. 27.) AM rendelet |
 | 2024-03-01 | 2004-79-20-82.46 | 57/2023. (X. 16.) AM rendelet |
 | 2024-03-13 | 2004-79-20-82.47 | 9/2024. (III. 12.) AM rendelet |
+| 2024-06-01 | 2004-79-20-82.48 | 24/2017. (V. 17.) FM rendelet |

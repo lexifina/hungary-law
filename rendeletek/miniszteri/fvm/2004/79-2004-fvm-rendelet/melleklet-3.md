@@ -2,7 +2,7 @@
 
 I. A VADASKERT LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
-## A vadaskert létesítésének engedélyezésére irányuló kérelmet az országos hatáskörű vadászati hatósághoz címzetten, de a vadászterülethez tartozó vadaskert fekvése szerint érintett vadászati hatóságnál kell benyújtani.
+## A vadaskert létesítésének engedélyezésére irányuló kérelmet a vadaskert fekvése szerinti vadászati hatósághoz kell benyújtani.
 
 1. A kérelem tartalmazza:
 
@@ -60,7 +60,7 @@ i) a vadászterület és a tervezett vadaskert térképi megjelenítése, külö
 
 II. A VADASPARK LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
-## A vadaspark létesítésének engedélyezésére, az engedély módosítására irányuló kérelmet az országos hatáskörű vadászati hatósághoz kell benyújtani. A kérelem tartalmazza:
+## A vadaspark létesítésének engedélyezésére, az engedély módosítására irányuló kérelmet a vadaspark fekvése szerinti vadászati hatósághoz kell benyújtani. A kérelem tartalmazza:
 
 ## – vadaspark létesítésének indokait és célját (röviden);
 
@@ -68,7 +68,7 @@ II. A VADASPARK LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETELMÉNYEI
 
 ## A kérelemhez mellékletként csatolni kell:
 
-1. A bekerítésre tervezett földterületek ingatlan-nyilvántartás szerinti (helyrajzi számok szerint) tételes felsorolását, a földterület tulajdonosának, használójának megnevezését és előzetes hozzájárulását a vadaskert létesítéséhez.
+1. A bekerítésre tervezett földterületek ingatlan-nyilvántartás szerinti (helyrajzi számok szerint) tételes felsorolását, a földterület tulajdonosának, használójának megnevezését és előzetes hozzájárulását a vadaspark létesítéséhez.
 
 2. A vadaspark létesítésének, bővítésének tervdokumentációját a következők szerint:
 
@@ -190,4 +190,4 @@ V. AZ APRÓVADTARTÓ TELEP LÉTESÍTÉSÉRE IRÁNYULÓ KÉRELEM TARTALMI KÖVETE
 
 4. Felszámolási terv az I. 2.4. pontban meghatározott tartalommal
 
-[^292]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja, az 57/2023. (X. 16.) AM rendelet 27. § (3) bekezdése, a 160/2023. (XII. 27.) AM rendelet 1. §-a és 2. § b) pontja szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)
+[^292]: A Vhr. korábbi 3. I. számú mellékletének számozását 3. számú mellékletre változtatta és szövegét megállapította a 24/2017. (V. 17.) FM rendelet 33. § (1) bekezdése, a melléklet szövege a 70/2017. (XII. 29.) FM rendelet 4. § (1) bekezdés d) pontja, az 57/2023. (X. 16.) AM rendelet 27. § (3) bekezdése, a 160/2023. (XII. 27.) AM rendelet 1. §-a és 2. § b) pontja, a 27/2024. (IV. 23.) AM rendelet 1. § a)–c) pontja szerint módosított szöveg. (A Vhr. 3. II. számú mellékletét a 24/2017. (V. 17.) FM rendelet 35. § (2) bekezdés 8. pontja hatályon kívül helyezte.)

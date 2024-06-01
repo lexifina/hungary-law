@@ -8,27 +8,27 @@
 
 | Szigorú számadású nyomtatvány |
 
-| A) | B) |
+| A) |
 
-| TERÜLETI VADÁSZATI HATÓSÁG | ORSZÁGOS VADÁSZATI HATÓSÁG |
+| TERÜLETI VADÁSZATI HATÓSÁG |
 
-| ................................................ | ................................................ |
+| ................................................ |
 
-|  | fénykép helye |  |  | fénykép helye |  |
+|  | fénykép helye |  |
 
-| NÉV | NÉV |
+| NÉV |
 
-| BEOSZTÁS | BEOSZTÁS |
+| BEOSZTÁS |
 
-| ................................................ | ................................................ |
+| ................................................ |
 
-| saját kezű aláírás | saját kezű aláírás |
+| saját kezű aláírás |
 
-| P. H. | P. H. |
+| P. H. |
 
-| ................................................ | ................................................ |
+| ................................................ |
 
-| vadászati hatóság vezetője | vadászati hatóság vezetője |
+| vadászati hatóság vezetője |
 
 | Az igazolvány visszavonásig érvényes. |
 
@@ -48,7 +48,7 @@
 
 22. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^323]
 
-[^320]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja szerint módosított szöveg.
+[^320]: A Vhr. 21. számú mellékletének I. része a 7/2010. (II. 2.) FVM rendelet 46. § (8) bekezdésével megállapított, a 89/2016. (XII. 29.) FM rendelet 8. § f) pontja, a 27/2024. (IV. 23.) AM rendelet 2. §-a szerint módosított szöveg.
 [^321]: A Vhr. 21. számú melléklet II. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.
 [^322]: A Vhr. 21. számú melléklet III. része az 5/2012. (II. 10.) VM rendelet 15. §-a szerint módosított szöveg.
 [^323]: A Vhr. 22. számú mellékletét a 63/2012. (VII. 2.) VM rendelet 13. § (1) bekezdés k) pontja hatályon kívül helyezte.
