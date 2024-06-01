@@ -6,6 +6,8 @@
 
 4. § (1) A robbanóanyag gyártására, megszerzésére, felhasználására, megsemmisítésére, valamint a polgári robbanóanyag forgalmazására vonatkozó engedély iránti kérelmet a 2. melléklet szerinti tartalommal kell benyújtani.
 
+(1a)[^1] A kérelmező – nyomvonalas vagy vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, továbbá hajóúton vagy honvédelmi szempontból jelentős vagy védett természeti területen végzett robbantás esetében – a robbanóanyag-felhasználási engedély iránti kérelem benyújtásakor igazolja az érintett kezelő, üzemeltető vagy védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság robbantásra vonatkozó nyilatkozatának meglétét. Ha a kezelő, üzemeltető vagy Nemzeti Park Igazgatóság a nyilatkozat megadására vonatkozó megkeresés kézhezvételétől számított 15 napon belül nem nyilatkozik, a hozzájárulását megadottnak kell tekinteni a megkeresésben szereplő robbantáshoz.
+
 (2) A robbanóanyag
 
 a) gyártási,
@@ -62,6 +64,8 @@ g) az engedély hatályát.
 
 (7) A felhasználási engedélyben a bányafelügyelet a kérelemben szereplő robbanóanyagokkal azonos robbantástechnikai paraméterekkel rendelkező robbanóanyag felhasználását is engedélyezheti.
 
+(7a)[^2] Robbanóanyagot átadni – a (8) bekezdésben foglalt kivétellel – robbanóanyag-megszerzési engedéllyel rendelkező személynek lehet.
+
 (8) A (11) bekezdés szerinti esetben nincs szükség robbanóanyag megszerzési engedélyre. A robbanóanyag megszerzéséhez az ár- vagy belvíz elleni védekezés, a helyi vízkárelhárítás, a III. fokú vagy „Rendkívüli” készültség idején, valamint a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény (a továbbiakban: Kattv.) 3. § 5. pontja szerinti katasztrófa vagy 9. pontja szerinti katasztrófaveszély esetében elegendő az intézkedésre jogosult szerv nyilatkozata.
 
 (9) A robbanóanyag gyártási és forgalmazási engedély visszavonásig hatályos. A robbanóanyag felhasználási és megsemmisítési engedély hatálya a vonatkozó bányászati tevékenység végzésére jogosító bányafelügyeleti engedély vagy az általános építésügyi hatóság által kiadott építésügyi hatósági engedély hatályával egyezik meg. Ha a robbantási munka nem bányafelügyeleti vagy építésügyi hatósági engedélyhez kötött, akkor a robbanóanyag felhasználási engedély hatálya egy évig terjed.
@@ -99,3 +103,6 @@ c) – bányafelügyeletnek küldendő jelentés esetében – a robbantásvezet
 (16) Robbanóanyag gyártására, vizsgálatára jogosult szervezet gyártási, kutatási, ellenőrzési vagy megsemmisítési célból történő robbanóanyag felhasználást, megsemmisítést az e tevékenységek végzésére engedélyezett létesítmény (a továbbiakban: létesítmény) területén bányafelügyeleti engedély nélkül a robbantás szeizmikus biztonsági távolságán belül lévő idegen, védendő létesítmények tulajdonosainak, kezelőinek hozzájárulásával és akkor végezhet, ha a robbantás repesz- vagy káros léglökés hatása nem terjed túl a létesítmény területén.
 
 (17) Az 1. § (2) bekezdés a) pontjában meghatározott szervek belső szabályozása alapján kialakított, engedélyezett és védett raktárban a robbanóanyag-szektorban működő vállalkozás bértárolási szerződés alapján is tárolhat robbanóanyagot.
+
+[^1]: A 4. § (1a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (1) bekezdése iktatta be.
+[^2]: A 4. § (7a) bekezdését a 4/2024. (V. 31.) SZTFH rendelet 13. § (2) bekezdése iktatta be.

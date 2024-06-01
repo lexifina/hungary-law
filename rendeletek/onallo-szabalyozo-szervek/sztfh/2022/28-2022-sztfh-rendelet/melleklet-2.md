@@ -230,16 +230,11 @@ h) a robbantás során szükséges biztonsági intézkedéseket, a védendő lé
 
 i) a robbantás műszaki leírását, valamint
 
-j)[^4] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
+j)[^6] – a földalatti bányában és a geofizikai mérések esetében végzett robbantás kivételével – olyan méretarányú térképet, amelyen a tervezett robbantás helye, hatásterülete és biztonsági távolságai, az ezen belül lévő valamennyi építmény, védendő létesítmény, ezek védőterülete, védőövezete, biztonsági övezete, továbbá a vízi utak és a védett természeti területek jól látható módon feltüntetésre kerültek.
 
-4.2. A kérelem benyújtásakor igazolni kell
-
-a) nyomvonalas, vízi létesítmény, repülőtér vagy műemlék védőtávolságán belüli, továbbá hajóúton vagy honvédelmi szempontból jelentős, vagy védett természeti területen végzett robbantás esetében az érintett kezelő, üzemeltető, védett természeti terület esetében az illetékes Nemzeti Park Igazgatóság hozzájárulásának meglétét,
-
-b) épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, valamint
-
-c) a robbantandó építmény vagy tárgy tulajdonosának, kezelőjének robbantásra vonatkozó megrendelését, ha az nem a robbantás végzője.
+4.2.[^7] A kérelem benyújtásakor igazolni kell épület robbantásos bontása esetén az építésügyi hatóság végleges bontási engedélyének meglétét, ha az épület bontása az építésügyi hatóság engedélye alapján történhet.
 
 4.3. A kőolaj- és földgázbányászat, vagy a víz kitermelése céljából fúrólyukban tervezett robbantás esetében nem kell a 4. pont 4.1. alpont j) pontja szerinti térképet mellékelni, ha a robbantás biztonsági távolságán belül nem található építmény vagy más védendő létesítmény.
 
-[^4]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet 4. pont 4.1. alpont j) pontja a 12/2023. (VI. 14.) SZTFH rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet 4. pont 4.2. alpontja a 4/2024. (V. 31.) SZTFH rendelet 14. §-ával megállapított szöveg.
