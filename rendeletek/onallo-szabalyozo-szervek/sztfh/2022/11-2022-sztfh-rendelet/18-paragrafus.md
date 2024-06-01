@@ -10,7 +10,7 @@
 
 (3) A cseppfolyós propán-bután gázok tartályban történő belföldi forgalmazására szolgáló nyomástartó berendezések esetében a használati utasítást a felhasználó számára a gázforgalmazó köteles biztosítani.
 
-(4)[^22] A nyomástartó berendezések használatbavételi engedélyének hatályát nem érintő munkák felügyelet biztosítása mellett végezhetők. A felügyeletet legalább nyomástartóedény-gépész (OKJ szerinti szakképesítés száma: 52 524 01 0100 31 01) szakképesítésű személynek kell ellátnia. Az elvégzett munkát írásban dokumentálni kell, amelynek tartalmaznia kell
+(4)[^22] A nyomástartó berendezések használatbavételi engedélyének hatályát nem érintő munkák felügyelet biztosítása mellett végezhetők. A felügyeletet a nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenység végzésére jogosult személy mellett nyomástartóedény-gépész szakképesítésű személy is elláthatja. Az elvégzett munkát írásban dokumentálni kell, amelynek tartalmaznia kell
 
 a) az elvégzett munka időpontját,
 
@@ -18,4 +18,4 @@ b) a munkát végző és felügyelő személy nevét és
 
 c) az elvégzett munka leírását.
 
-[^22]: A 18. § (4) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 7. § e) pontja szerint módosított szöveg.
+[^22]: A 18. § (4) bekezdés nyitó szövegrésze a 16/2023. (VII. 31.) SZTFH rendelet 7. § e) pontja, a 4/2024. (V. 31.) SZTFH rendelet 1. §-a szerint módosított szöveg.
