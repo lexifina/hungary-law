@@ -1,1 +1,3 @@
-6. § Hatályát veszti a polgármesteri munkakör átadása jegyzőkönyvének tartalmáról szóló 26/2000. (IX. 27.) BM rendelet.
+6. §[^1]
+
+[^1]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
