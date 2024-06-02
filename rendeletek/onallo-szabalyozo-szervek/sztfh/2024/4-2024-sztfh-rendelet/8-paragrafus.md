@@ -1,3 +1,3 @@
-8. § Az R2. 34. § (1) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(1) Szüneteltetésre vonatkozó műszaki üzemi terv legfeljebb 3 év időtartamra hagyható jóvá.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

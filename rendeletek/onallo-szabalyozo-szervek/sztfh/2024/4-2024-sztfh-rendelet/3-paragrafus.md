@@ -1,1 +1,3 @@
-3. § Az R1. 1. melléklet 4. pont 4.6. alpontjában az „energia” szövegrész helyébe az „energia kutatásának,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

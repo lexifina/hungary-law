@@ -1,3 +1,5 @@
 ## 1. A bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezéséről és hatósági felügyeletéről szóló 11/2022. (I. 28.) SZTFH rendelet módosítása
 
-1. § A bányafelügyelet hatáskörébe tartozó egyes nyomástartó berendezések engedélyezéséről és hatósági felügyeletéről szóló 11/2022. (I. 28.) SZTFH rendelet 18. § (4) bekezdésében a „legalább nyomástartóedény-gépész (OKJ szerinti szakképesítés száma: 52 524 01 0100 31 01) szakképesítésű személynek kell ellátnia” szövegrész helyébe az „a nyomástartó berendezést vizsgáló szakértői vagy felügyeleti tevékenység végzésére jogosult személy mellett nyomástartóedény-gépész szakképesítésű személy is elláthatja” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-6. § Az R2. 15/C. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
+6. §[^7]
 
-[A Bt. 21/B. § (8) bekezdése szerinti nyilvántartás tartalmazza]
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
