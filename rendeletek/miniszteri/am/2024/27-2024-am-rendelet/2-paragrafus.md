@@ -1,1 +1,3 @@
-2. § Hatályát veszti a 79/2004. (V. 4.) FVM rendelet 21. számú melléklet I. pontjába foglalt táblázat B) oszlopa.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
