@@ -1,13 +1,3 @@
-1. melléklet a 17/2024. (V. 31.) NGM rendelethez
+1. melléklet a 17/2024. (V. 31.) NGM rendelethez[^3]
 
-A Rendelet 3. melléklet II. pontjában foglalt táblázat a következő 2. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 2. | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | 01-10-046896 | 2026. december 31. |
-
-”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
