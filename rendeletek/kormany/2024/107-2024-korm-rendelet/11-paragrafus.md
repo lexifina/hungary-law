@@ -1,5 +1,3 @@
-11. § Hatályát veszti a 263/2010. (XI. 17.) Korm. rendelet
+11. §[^12]
 
-a) 9. § (7) bekezdése,
-
-b) 11. § (3) bekezdése.
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

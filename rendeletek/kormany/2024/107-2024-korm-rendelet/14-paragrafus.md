@@ -1,1 +1,3 @@
-14. § A 11/2011. (II. 22.) Korm. rendelet 1. § (1) bekezdésében a „Nemzeti Földügyi Központ” szövegrész helyébe a „Nemzeti Földalap kezeléséért felelős szerv” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

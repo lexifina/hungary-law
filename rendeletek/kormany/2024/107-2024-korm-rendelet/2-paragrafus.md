@@ -1,7 +1,5 @@
 ## 2. A közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosítása
 
-2. § Hatályát veszti a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet
+2. §[^3]
 
-a) 1. melléklet 37. pontja,
-
-b) 3. melléklet 47. pontja.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

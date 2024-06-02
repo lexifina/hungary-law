@@ -1,5 +1,3 @@
-16. § Hatályát veszti a 220/2011. (X. 20.) Korm. rendelet
+16. §[^17]
 
-a) 4. § (5) bekezdésében az „az Nfatv. vagy” szövegrész,
-
-b) 5. § (5) bekezdésében az „elnöke” szövegrész és a „Birtokpolitikai” szövegrész.
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-32. § Hatályát veszti a 433/2017. (XII. 21.) Korm. rendelet
+32. §[^33]
 
-a) 3. § (3) bekezdés nyitó szövegrészében az „a NFK honlapján” szövegrész,
-
-b) 4. § (5) bekezdésében az „NFK, valamint a” szövegrész.
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

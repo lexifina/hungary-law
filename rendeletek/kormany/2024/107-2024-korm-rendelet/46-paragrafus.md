@@ -1,5 +1,3 @@
-46. § Hatályát veszti a 601/2022. (XII. 28.) Korm. rendelet
+46. §[^47]
 
-a) 4. § (2) bekezdés g) pontjában a „valamint” szövegrész,
-
-b) 13. § (1) bekezdése.
+[^47]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

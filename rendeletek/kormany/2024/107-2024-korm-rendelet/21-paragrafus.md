@@ -1,11 +1,3 @@
-21. § Hatályát veszti a 223/2014. (IX. 4.) Korm. rendelet
+21. §[^22]
 
-a) 10/A. § (1) bekezdésében az „ , a 10/B. § szerinti kivétellel” szövegrész,
-
-b) 10/A. § (2) bekezdésében az „ , a 10/B. § szerinti kivétellel” szövegrész,
-
-c) 10/A. § (3) bekezdésében az „ , a 10/B. § szerinti kivétellel” szövegrész,
-
-d) 10/A. § (4) bekezdésében az „ , a 10/B. § szerinti kivétellel” szövegrész,
-
-e) 10/B. §-a.
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

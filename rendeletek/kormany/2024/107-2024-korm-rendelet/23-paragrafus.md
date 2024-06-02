@@ -1,1 +1,3 @@
-23. § Hatályát veszti a 278/2014. (XI. 14.) Korm. rendelet 3. §-ában az „NFK, az” szövegrész.
+23. §[^24]
+
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

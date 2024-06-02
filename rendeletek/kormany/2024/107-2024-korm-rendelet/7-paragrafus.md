@@ -1,3 +1,5 @@
 ## 7. A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet módosítása
 
-7. § A honvédelmi szervezetek működésének az államháztartás működési rendjétől eltérő szabályairól szóló 346/2009. (XII. 30.) Korm. rendelet 29/A. § (2) bekezdés a) pontjában a „Nemzeti Földügyi Központnak” szövegrész helyébe a „Nemzeti Földalap kezeléséért felelős szervnek” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

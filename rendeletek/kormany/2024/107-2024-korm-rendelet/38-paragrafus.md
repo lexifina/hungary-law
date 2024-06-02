@@ -1,7 +1,3 @@
-38. § Hatályát veszti a 244/2020. (V. 28.) Korm. rendelet
+38. §[^39]
 
-a) 26. § (2) bekezdésében az „és az NFK” szövegrész,
-
-b) 30. § (4) bekezdésében az „és az NFK” szövegrész,
-
-c) 30. § (6) bekezdésében az „és az NFK” szövegrész.
+[^39]: A 38. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

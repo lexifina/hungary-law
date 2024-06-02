@@ -1,1 +1,3 @@
-18. § Hatályát veszti a 368/2011. (XII. 31.) Korm. rendelet 5. mellékletében foglalt táblázat E:12 mezőjében az „ , a Nemzeti Földalap Kezelő Szervezet az agrárpolitikáért felelős miniszternek” szövegrész.
+18. §[^19]
+
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
