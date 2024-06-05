@@ -1,5 +1,3 @@
-## „j) a vasúti közlekedés területén az alrendszerek, rendszerelemek és kapcsolódási pontok rendszerszintű együttműködésének, átjárhatóságának ellenőrzésével összefüggésben ellenőrzi és nyilvántartja a magyarországi vasúti hálózat egyes pályaszakaszait érintően az európai uniós jogi aktusokban és a jogszabályokban meghatározott EK és NSZ hitelesítési eljárásokhoz kapcsolódó tanúsítványokat, amennyiben az ellenőrzés során az adott vonalszakasz nem rendelkezik megfelelő tanúsítvánnyal, vagy egy pályaszakasz fejlesztése, bővítése vagy új pályaszakasz megvalósítása állami beruházás formájában vagy állami, európai uniós forrásból vagy állami kezességvállalás melletti hitelfelvétellel vagy kormányhatározatban nevesített kiemelt beruházásként, illetve kötöttpályás közlekedést érintő önkormányzati beruházásként kerül megvalósításra, ott lefolytatja vagy lefolytattatja az európai uniós jogi aktusokban és jogszabályokban meghatározott EK hitelesítési eljárást és NSZ hitelesítési eljárást;”
+3. §[^4]
 
-3. § Az R. 3. § (2) bekezdése a következő l) ponttal egészül ki:
-
-[A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 3/B. § (7) bekezdésében meghatározott feladatok keretében a KTI Nonprofit Kft. a következő feladatokat végzi:]
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

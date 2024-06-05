@@ -1,3 +1,3 @@
-2. § Az R. 3. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-[A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 3/B. § (7) bekezdésében meghatározott feladatok keretében a KTI Nonprofit Kft. a következő feladatokat végzi:]
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
