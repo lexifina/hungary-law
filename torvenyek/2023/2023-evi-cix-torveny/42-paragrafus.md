@@ -2,6 +2,6 @@
 
 42. § Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény
 
-a)
+a) 134. § (1) bekezdésében a „harminc” szövegrész helyébe a „tizenöt” szöveg,
 
 b)

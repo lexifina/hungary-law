@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-109-00-00
 | 2024-03-02 | 2010. évi CXXX. törvény | 2023-109-00-00.7 |
 | 2024-04-04 | 1/2024. (IV. 3.) PM határozat | 2023-109-00-00.16 |
 | 2024-04-05 | 2010. évi CXXX. törvény | 2023-109-00-00.17 |
+| 2024-06-09 | 30/2024. (III. 12.) KE határozat | 2023-109-00-00.18 |
