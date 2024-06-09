@@ -91,5 +91,3 @@ A toborzási adatbázis adatköre
 ## III.
 
 ## 1. iskolai végzettség
-
-## 2. képző intézmény megnevezése (kar, szak megjelölésével)
