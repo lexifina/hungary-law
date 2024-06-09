@@ -259,7 +259,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
 
 112. Rádióspektrum: a rádióhullámok frekvenciatartománya.
-
-113. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
-
-114. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben vagy jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
