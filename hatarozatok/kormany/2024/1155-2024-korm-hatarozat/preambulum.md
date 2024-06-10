@@ -1,0 +1,1 @@
+A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) 4. § (2) bekezdése alapján az 1. melléklet szerinti beruházásokat – azok gyors lefolytatása érdekében, az ezen indokhoz fűződő kiemelt nemzeti érdekre tekintettel – mentesíti az Ábtv. alkalmazása alól.
