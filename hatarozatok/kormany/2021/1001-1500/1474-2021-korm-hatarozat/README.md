@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1474-30
 | --- | --- | --- |
 | 2021-07-15 | 2021-1474-30-22.1 | 1474/2021. (VII. 15.) Korm. határozat |
 | 2022-10-19 | 2021-1474-30-22.2 | 1492/2022. (X. 19.) Korm. határozat |
+| 2024-06-10 | 2021-1474-30-22.3 | 1158/2024. (VI. 10.) Korm. határozat |
