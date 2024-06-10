@@ -2,7 +2,7 @@
 
 ## 2. egyetért azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Monori Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 4 802 424 793 forintban határozza meg;
+## 3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 4 998 645 241 forintban határozza meg;
 
 ## 4. a 3. pont szerinti összeg 2021. évi részének finanszírozása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 1 762 434 363 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint;
 
@@ -80,5 +80,5 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont az 1492/2022. (X. 19.) Korm. határozat 52. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1158/2024. (VI. 10.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 6. pontot az 1492/2022. (X. 19.) Korm. határozat 51. pontja iktatta be.
