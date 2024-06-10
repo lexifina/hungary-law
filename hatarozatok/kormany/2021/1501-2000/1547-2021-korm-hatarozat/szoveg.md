@@ -2,7 +2,7 @@ A Kormány a Modern Városok Program keretében Szekszárd Megyei Jogú Városba
 
 1. egyetért a szekszárdi új interaktív könyvtár és levéltár beruházásának (a továbbiakban: Beruházás) megvalósításával az ingatlan-nyilvántartás szerinti Szekszárd belterület 4000/10 helyrajzi számú ingatlanon, azzal, hogy a Beruházás során létrejövő vagyonelemek a Magyar Nemzeti Levéltár vagyonkezelésébe kerüljenek;
 
-2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 7 814 853 475 forintban határozza meg;
+2.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 7 969 145 272 forintban határozza meg;
 
 3. az államháztartásról szóló 2011. évi CXCV. törvény 33. § (1) bekezdésében biztosított jogkörében eljárva, a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 1. Egyedi magasépítési beruházások alcímet a 47. Szekszárdi új interaktív könyvtár és levéltár megvalósítása jogcímcsoporttal egészíti ki;
 
@@ -42,5 +42,5 @@ Határidő: 2021. szeptember 30.
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-[^1]: A 2. pont az 1492/2022. (X. 19.) Korm. határozat 78. pontja szerint módosított szöveg.
+[^1]: A 2. pont az 1158/2024. (VI. 10.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 8. pontot az 1492/2022. (X. 19.) Korm. határozat 77. pontja iktatta be.
