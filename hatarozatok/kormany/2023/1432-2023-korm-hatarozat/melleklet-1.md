@@ -20,9 +20,9 @@
 
 ## c) 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára 1 160 836 373 forint,
 
-## d) 3. Uniós forrásból megvalósuló beruházások cím javára 722 039 654 forint,
+## d)[^3]
 
-## e) 6. Egyes közmű és hulladékgazdálkodási beruházások cím javára 311 238 501 forint
+## e)[^4]
 
 ## többletforrás biztosításáról;
 
@@ -30,11 +30,7 @@
 
 | Határidő: | a központi költségvetés által finanszírozott beruházások esetében azonnal az eddigiekben Magyarország számára elérhető európai uniós források felhasználásával finanszírozott beruházások esetében az 1.3. alpont szerinti vizsgálat elvégzését követően, annak eredménytől függően, a felmerülés ütemében |
 
-## 1.3. felhívja az építési és közlekedési minisztert, hogy az 1. mellékletben szereplő beruházások közül az eddigiekben Magyarország számára elérhető európai uniós források felhasználásával finanszírozott beruházások esetében vizsgálja meg a Korm. rendelet szerinti, a rendes üzleti kockázat mértékét meghaladó költségnövekedés európai uniós források felhasználásával történő finanszírozásának lehetőségét, csökkentve ezzel a központi költségvetés terhére történő finanszírozás összegét;
-
-| Felelős: | építési és közlekedési miniszter |
-
-| Határidő: | azonnal |
+## 1.3. [^5]
 
 ## 1.4. felhívja az építési és közlekedési minisztert, hogy a központi költségvetés által finanszírozott beruházások esetében a Korm. rendelet szerint átvállalt, a rendes üzleti kockázat mértékét meghaladó költségnövekedés elismerése és finanszírozása céljából, a vonatkozó szerződések módosítása érdekében tegye meg a szükséges intézkedéseket.
 
@@ -42,7 +38,7 @@
 
 | Határidő: | az 1.2. alpont szerinti források rendelkezésre állását követően azonnal |
 
-## 2.[^3]
+## 2.[^6]
 
 1. melléklet az 1432/2023. (X. 5.) Korm. határozathoz
 
@@ -56,11 +52,11 @@
 
 | 4. | Magyar Államkincstár központi székháza földszinti pénztárterme helyreállításának megvalósítása | 118 895 854 |
 
-| 5. | Jedlik Ányos Gimnázium felújításának további előkészítése és megvalósítása | 1 328 604 249 |
+| 5.[^7] |  |  |
 
 |  | 1–5. Egyedi magasépítési beruházások összesen | 1 820 620 941 |
 
-| 6. | Kerepesi Széchenyi István Általános Iskola és Alapfokú Művészeti Iskola tanterem előkészítése és megvalósítása | 25 871 034 |
+| 6.[^8] |  |  |
 
 |  | 6. Programszerű magasépítési beruházások összesen | 25 871 034 |
 
@@ -72,26 +68,39 @@
 
 |  | 7–9. Útfejlesztési beruházások összesen | 1 160 836 373 |
 
-| 10. | Budapesti Rendőr-főkapitányság XVIII. Kerületi Rendőrkapitányság 155455 HRSZ; 1183 Budapest, Üllői út 438. sz. alatt található épülete(ke)n a „Budapesti Rendőr-főkapitányság épületeinek energetika fejlesztése” című, KEHOP-5.2.2-16-2016-00101 azonosító számú projekt alapján végzendő energiahatékonysági korszerűsítési kivitelezési munkák elvégzése | 18 435 780 |
+| 10.[^9] |  |  |
 
-| 11. | 3300 Eger, Leányka u. 2. szám alatt (hrsz.: 5559/13) és Eger, Leányka u. 6. szám alatt (hrsz.: 5559/9) található épületeken az „Eszterházy Károly Katolikus Egyetem épületenergetikai fejlesztése” című, KEHOP-5.2.2-16-2019-00137 azonosítójú projekt alapján végzendő energiahatékonysági korszerűsítési kivitelezési munkák elvégzése | 85 153 151 |
+| 11.[^10] |  |  |
 
-| 12. | A Honvédelmi Minisztérium épületeinek energetikai fejlesztése című, KEHOP-5.2.2/16-2016-00001 azonosító számú projekt keretében energetikai korszerűsítésre | 117 209 508 |
+| 12.[^11] |  |  |
 
-| 13. | A Katasztrófavédelmi ingatlanok épületenergetikai beruházásai című, KEHOP-5.2.2-16-2017-00113 azonosító számú projekt energiahatékonysági korszerűsítési munkák a Budapest X. Kerületi Hivatásos Tűzoltóparancsnokság és Katasztrófavédelmi Központi Múzeum épületeire vonatkozóan (1103 Budapest, Martinovics tér 12. HRSZ.: 41804) | 13 978 839 |
+| 13.[^12] |  |  |
 
-| 14. | A Katasztrófavédelmi ingatlanok épületenergetikai beruházásai című, KEHOP-5.2.2-16-2017-00113 azonosító számú projekt keretében energetikai korszerűsítésre – Ceglédi Hivatásos Tűzoltó Parancsnokság | 7 354 054 |
+| 14.[^13] |  |  |
 
 |  | 10–14. Energetikai beruházások összesen | 242 131 332 |
 
-| 15. | Vállalkozási szerződés keretében az „A hulladékgazdálkodási rendszer fejlesztése Borsod-Abaúj-Zemplén megye teljes területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre” elnevezésű, KEHOP-3.2.1-15-2019-00032 azonosító számú projekt kivitelezési feladatainak teljes körű ellátása a FIDIC Sárga Könyv feltételei szerint | 372 109 472 |
+| 15.[^14] |  |  |
 
-| 16. | Szennyvíztisztító telep fejlesztése Vácon | 107 798 850 |
+| 16.[^15] |  |  |
 
-| 17. | Komáromi Ipari Park víziközmű-hálózat fejlesztése érdekében szükséges intézkedésekről (22 km Távvezeték) | 311 238 501 |
+| 17.[^16] |  |  |
 
 |  | 15–17. Közműfejlesztési beruházások összesen | 791 146 823 |
 
 [^1]: Az 1. pont 1.2. pont ae) alpontját az 1619/2023. (XII. 29.) Korm. határozat 5. pontja hatályon kívül helyezte.
 [^2]: Az 1. pont 1.2. pont b) alpontját az 1619/2023. (XII. 29.) Korm. határozat 5. pontja hatályon kívül helyezte.
-[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont 1.2. pont d) alpontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^4]: Az 1. pont 1.2. pont e) alpontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^5]: Az 1. pont 1.3. pontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^6]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. mellékletben foglalt táblázat 5. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^8]: Az 1. mellékletben foglalt táblázat 6. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^9]: Az 1. mellékletben foglalt táblázat 10. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^10]: Az 1. mellékletben foglalt táblázat 11. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^11]: Az 1. mellékletben foglalt táblázat 12. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^12]: Az 1. mellékletben foglalt táblázat 13. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^13]: Az 1. mellékletben foglalt táblázat 14. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^14]: Az 1. mellékletben foglalt táblázat 15. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^15]: Az 1. mellékletben foglalt táblázat 16. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
+[^16]: Az 1. mellékletben foglalt táblázat 17. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
