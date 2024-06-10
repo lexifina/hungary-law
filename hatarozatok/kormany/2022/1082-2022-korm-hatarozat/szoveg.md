@@ -4,7 +4,7 @@ A Kormány a Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretéb
 
 2. egyetért azzal, hogy a Beruházás keretében létrejövő vagyonelemek a Berettyóújfalui Tankerületi Központ vagyonkezelésébe kerüljenek;
 
-3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 740 624 176 forintban határozza meg;
+3.[^1] a Beruházás megvalósítása érdekében a Beruházási Ügynökség által vállalható kötelezettségek felső korlátjáról szóló 1776/2018. (XII. 21.) Korm. határozat 1. pontja szerinti kötelezettségvállalási keret terhére a Beruházási Ügynökség által vállalható kötelezettség összegét 796 032 065 forintban határozza meg;
 
 4. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a pénzügyminiszter bevonásával gondoskodjon a 3. pont szerinti összeg 2022. évi részének rendelkezésre állásáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 3. Gazdaság-újraindítási Alap – Kiemelt Kormányzati Magasépítési Beruházások cím, 2. Programszerű magasépítési beruházások alcím, 2. Tanterem fejlesztések előkészítése és megvalósítása jogcímcsoport javára;
 
@@ -28,5 +28,5 @@ Határidő: a 2023. évi központi költségvetés tervezése során
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-[^1]: A 3. pont az 1492/2022. (X. 19.) Korm. határozat 101. pontja szerint módosított szöveg.
+[^1]: A 3. pont az 1158/2024. (VI. 10.) Korm. határozat 8. pontja szerint módosított szöveg.
 [^2]: Az 5a. pontot az 1492/2022. (X. 19.) Korm. határozat 100. pontja iktatta be.
