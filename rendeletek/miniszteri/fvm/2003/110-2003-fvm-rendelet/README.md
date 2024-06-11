@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-110-20-
 | 2021-02-24 | 2003-110-20-82.12 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2003-110-20-82.13 | 42/2017. (VIII. 17.) FM rendelet |
 | 2024-01-01 | 2003-110-20-82.14 | 158/2023. (XII. 27.) AM rendelet |
+| 2024-06-11 | 2003-110-20-82.15 | 42/2017. (VIII. 17.) FM rendelet |

@@ -130,7 +130,7 @@
 
 ## 1.2.1. Kezdeményezés
 
-## 1.2.1.1.[^125] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, a Nemzeti Földügyi Központ, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
+## 1.2.1.1.[^125] Törzskönyvezésre javaslatot tehet az erdő tulajdonosa (kezelője), a Soproni Egyetem, az erdészeti hatáskörben eljáró vármegyei kormányhivatal, a miniszter, a nemzeti park igazgatóságok, valamint hivatalból a NÉBIH.
 
 ## 1.2.1.2.[^126] A törzskönyvezés kezdeményezője a kérelmét 1 példányban megküldi a NÉBIH részére a ,,Magtermelő állomány-törzslap'' című nyomtatványon.
 
@@ -228,7 +228,7 @@
 
 ## a) az erdő kezelője részére 1 példányban,
 
-## b)[^132] az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak és a Nemzeti Földügyi Központnak 1-1 példányban,
+## b)[^132] az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak és a miniszternek 1-1 példányban,
 
 ## c)[^133] védett természeti területek esetében vagy egyéb szükséges esetben a nemzeti park igazgatóság részére 1 példányban.
 
@@ -264,7 +264,7 @@
 
 ## 1.4.7. A mageredetű vagy egyszer sarjaztatott akácállományok génkészlete egy alkalommal megőrizhető gyökérsarjról való felújítással.
 
-## 1.4.8.[^136] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak, a Nemzeti Földügyi Központnak és a NÉBIH-nek meg kell küldeni.
+## 1.4.8.[^136] Az erdőgazdálkodó egyedi állománykezelési útmutató elkészítésével kutatási vagy oktatási intézményt, illetve szakértőt megbízhat. Ennek 1-1 példányát ,,Törzslap''-hoz való csatolás céljából az erdészeti hatáskörben eljáró vármegyei kormányhivatalnak, a miniszternek és a NÉBIH-nek meg kell küldeni.
 
 ## 1.5. Az állományok törzsültetvénykénti megszüntetése (törzskönyvből való törlés)
 
@@ -454,18 +454,18 @@
 
 [^123]: Az 5. számú melléklet 1.1.2.4.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
 [^124]: Az 5. számú melléklet 1.1.2.5.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) pontja szerint módosított szöveg.
-[^125]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja, a 4/2021. (II. 23.) AM rendelet 1. § a) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^125]: Az 5. számú melléklet 1.2.1.1. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés h) pontja, a 4/2021. (II. 23.) AM rendelet 1. § a) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja, a 35/2024. (VI. 10.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^126]: Az 5. számú melléklet 1.2.1.2. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^127]: Az 5. számú melléklet 1.2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^128]: Az 5. számú melléklet 1.2.2.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^129]: Az 5. számú melléklet 1.2.2.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 19. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 4/2021. (II. 23.) AM rendelet 1. § b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^130]: Az 5. számú melléklet 1.2.4.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^131]: Az 5. számú melléklet 1.2.4.4. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja szerint módosított szöveg.
-[^132]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^132]: Az 5. számú melléklet 1.2.4.4. alpont b) alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés i) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja, a 35/2024. (VI. 10.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^133]: Az 5. számú melléklet 1.2.4.4. alpont c) alpontja a 70/2013. (VII. 31.) VM rendelet 30. § r) pontja szerint módosított szöveg.
 [^134]: Az 5. számú melléklet 1.3.1. alpont nyitó szövegrésze a 70/2013. (VII. 31.) VM rendelet 30. § b) pontja szerint módosított szöveg.
 [^135]: Az 5. számú melléklet 1.3.2. alpontja a 42/2017. (VIII. 17.) FM rendelet 56. § 2. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés b) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
-[^136]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés j) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja szerint módosított szöveg.
+[^136]: Az 5. számú melléklet 1.4.8. alpontja 19/2014. (III. 12.) VM rendelet 11. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 56. § 20. pontja, a 46/2020. (IX. 23.) AM rendelet 1. § (2) bekezdés j) pontja, a 79/2022. (XII. 27.) AM rendelet 1. § c) pontja, a 35/2024. (VI. 10.) AM rendelet 1. § c) pontja szerint módosított szöveg.
 [^137]: Az 5. számú melléklet 1.5.3. pontja a 183/2009. (XII. 30.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 30. § b) és p) pontja, a 15/2015. (III. 31.) FM rendelet 9. §-a szerint módosított szöveg. [Az 5. számú melléklet 1.5.3. pontjában a 42/2017. (VIII. 17.) FM rendelet 56. § 21. pontjával elrendelt módosítás, amely szerint a szerint a „természetvédelmi hatóság” szövegrész helyébe a „területi természetvédelmi hatóság” szöveg lép, nem vezethető át.]
 [^138]: Az 5. számú melléklet 2.1.3. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § d) pontja szerint módosított szöveg.
 [^139]: Az 5. számú melléklet 2.3.1.1. alpontja a 70/2013. (VII. 31.) VM rendelet 30. § i) és o) pontja szerint módosított szöveg.
