@@ -700,13 +700,13 @@
 
 ## Az 50U11 kezdetű sorok az intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat tartalmazzák. Az ügyfél általi adatmódosítás fogalmába beletartoznak a tranzakciós adatmódosítások (például befektetés, az ügyfél általi vételi/eladási megbízás) is.
 
-## 16. 50SFDR – Intézményszintű SFDR adatok
+## 16.[^13] 50_SFDR – Intézményszintű SFDR adatok
 
 ## A tábla kitöltése
 
 ## Az intézményszintű adatok az SFDR és az SFDR RTS alapján számolandók és jelentendők.
 
-## Az 50SFDR1–50SFDR4 sor töltése kötelező minden ÁÉKBV-alapkezelő és alternatív befektetési alapkezelő számára, a kockázati tőkealap-kezelő kivételével. Az 50SFDR51–50SFDR83 sor abban az esetben töltendő ki, ha az 50SFDR1 sor értéke „Igen”. Az 50SFDR51–50SFDR83 sort az SFDR RTS 6. cikk (1) bekezdés a) és b) pontja alapján kell kitölteni.
+## Az 50_SFDR1–50_SFDR4 sor töltése kötelező minden ÁÉKBV-alapkezelő és alternatív befektetési alapkezelő számára, a kockázati tőkealap-kezelő kivételével. Az 50_SFDR51–50_SFDR83 sor abban az esetben töltendő ki, ha az 50_SFDR1 sor értéke „Igen”. Az 50_SFDR51–50_SFDR83 sort az SFDR RTS 6. cikk (1) bekezdés a) és b) pontja alapján kell kitölteni.
 
 ## A táblában használt fogalmak, rövidítések
 
@@ -720,51 +720,51 @@
 
 ## A tábla sorai:
 
-## 50SFDR1 Figyelembe vesz szervezeti szinten fenntarthatósági káros hatásokat (PAI)?
+## 50_SFDR1 Figyelembe vesz szervezeti szinten fenntarthatósági káros hatásokat (PAI)?
 
 ## A lehetséges értékek: „Igen” vagy „Nem”. A mezőt az SFDR 4. cikke alapján kell kitölteni.
 
-## 50SFDR2 Hol található az SFDR 4. cikke szerinti közzététel? (URL)
+## 50_SFDR2 Hol található az SFDR 4. cikke szerinti közzététel? (URL)
 
 ## Az adatszolgáltató által az SFDR 4. cikke alapján közzétett adatokat tartalmazó weboldal vagy dokumentum elérési útja (URL cím). „0” értéket kell jelenteni abban az esetben, ha az adatszolgáltató az SFDR 4. cikke szerinti adatokat nem tette közzé.
 
-## 50SFDR51 1. körbe tartozó ÜHG-kibocsátások
+## 50_SFDR51 1. körbe tartozó ÜHG-kibocsátások
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR52 2. körbe tartozó ÜHG-kibocsátások
+## 50_SFDR52 2. körbe tartozó ÜHG-kibocsátások
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza
 
-## 50SFDR53 3. körbe tartozó ÜHG-kibocsátások
+## 50_SFDR53 3. körbe tartozó ÜHG-kibocsátások
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR54 ÜHG-intenzitás
+## 50_SFDR54 ÜHG-intenzitás
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR55 Karbonlábnyom
+## 50_SFDR55 Karbonlábnyom
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR61 ÜHG-intenzitás
+## 50_SFDR61 ÜHG-intenzitás
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR71 Fosszilis tüzelőanyagoknak való kitettség ingatlaneszközökön keresztül
+## 50_SFDR71 Fosszilis tüzelőanyagoknak való kitettség ingatlaneszközökön keresztül
 
 ## A fosszilis tüzelőanyagok ágazatában tevékenykedő vállalkozásokba eszközölt befektetések aránya.
 
-## 50SFDR72 Nem energiahatékony ingatlaneszközöknek való kitettség
+## 50_SFDR72 Nem energiahatékony ingatlaneszközöknek való kitettség
 
 ## A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete tartalmazza.
 
-## 50SFDR81–50SFDR83 Szabadon választott mutatószám 1, 2, 3
+## 50_SFDR81–50_SFDR83 Szabadon választott mutatószám 1, 2, 3
 
 ## Az adatszolgáltató által alkalmazott, materiálisnak ítélt, szabadon választható mutatók megnevezését, értékét és mértékegységét kell megadni. A mutatószámokat az SFDR RTS I. mellékletének 1., 2. és 3. számú táblázatából kell kiválasztani.
 
-## 17. 50TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
+## 17.[^14] 50_TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 ## A tábla kitöltése
 
@@ -856,7 +856,7 @@
 
 ## 51Q4 Befektetési politika, illetve a változtatás engedélyének határozatszáma: nyilvános befektetési alap esetén a befektetési politika felügyeleti engedélyének határozatszáma.
 
-## 21. 51R Befektetési alap jellemzői
+## 21.[^15] 51R Befektetési alap jellemzői
 
 ## A tábla sorai
 
@@ -868,7 +868,7 @@
 
 ## 51R1 A befektetési alap működési formája: kódtár („Működési forma”) szerint.
 
-## 51R2 Az elsődleges eszközkategória típusa: kódtár („Alap típusa”) szerint.
+## 51R2 Az elsődleges eszközkategória: kódtár („Alap típusa”, 2024. szeptember 1. vonatkozási naptól kezdődően „Elsődleges eszközkategória”) szerint.
 
 ## 51R3 A befektetési alap fajtája: kódtár („Alap fajtája”) szerint.
 
@@ -878,7 +878,7 @@
 
 ## Ha az alap jegyeit lakossági befektetők is vásárolhatják, akkor alapesetben a lakossági befektetőknek forgalmazott alapok közé kell besorolni. Ha azonban biztosan lehet tudni, hogy csak szakmai befektetők vásárolják az alap befektetési jegyeit, akkor az alapot a „szakmai befektetőknek forgalmazott” alapként kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
 
-## 51R6 A befektetési alap befektetési politikája: kódtár („Befektetési politika”) szerint.
+## 51R6 A befektetési alap befektetési politikája: kódtár [a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alap esetén „Befektetési politika” a 78/2014 (III. 14.) Korm. rendelet hatálya alá tartozó alap esetén „Befektetési politika kódtára 78/2014. (III. 14.) Korm. rendelet szerint”] szerint azzal, hogy a 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A. §-ában, illetve 1/L. §-ában nevesített, az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
 
 ## 51R72 Az alapkezelő LEI-kódja. Ha az alapkezelő nem rendelkezik LEI-kóddal, akkor a KSH-törzsszáma.
 
@@ -1083,3 +1083,7 @@
 ## A portfólió árfolyamának alakulását bemutató grafikon webcíme.
 
 6. melléklet az 58/2023. (XI. 24.) MNB rendelethez
+
+[^13]: Az 5. melléklet II. pont 16. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. melléklet II. pont 17. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. melléklet II. pont 21. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.

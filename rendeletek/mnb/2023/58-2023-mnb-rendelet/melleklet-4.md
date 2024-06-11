@@ -1908,7 +1908,7 @@
 
 ## 12. oszlop A típus lehetséges értékei: befektetési alap – „BA”, pénztári portfólió – „PP”, egyéb – „E”. A pénztári portfólióba az Öpt. szerinti pénztárakat, valamint az Mpt. szerinti magánnyugdíjpénztárakat kell besorolni. Minden portfóliót, amelyik nem tartozik a befektetési alapok, illetve a pénztári portfóliók közé sem, az egyéb („E”) kategóriába kell sorolni.
 
-## 1.31. 38TAX A befektetési vállalkozások által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
+## 1.31.[^11] 38_TAX A befektetési vállalkozások által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 ## A tábla kitöltése
 
@@ -2044,4 +2044,7 @@
 
 ## 5. A jelentés kitöltését segítő módszertani útmutatást az MNB a honlapján teszi közzé.
 
-4. melléklet az 58/2023. (XI. 24.) MNB rendelethez
+4. melléklet az 58/2023. (XI. 24.) MNB rendelethez[^12]
+
+[^11]: A 3. melléklet II. pont 1.31. alpont címe a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 4. melléklet a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
