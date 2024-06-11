@@ -28,9 +28,9 @@ a) a tevékenység elvégzésének éve,
 
 b) az erdőgazdálkodó – erdő engedélyezett igénybevétele esetén az engedély jogosultjának – neve, erdőgazdálkodói kódszáma,
 
-c)[^38] az alkalmazott jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
+c)[^39] az alkalmazott jogosult erdészeti szakszemélyzet neve, erdészeti hatósági nyilvántartási kódja,
 
-d)[^39] a bejelentéssel érintett terület erdészeti azonosító adatai (helység, tagszám, részlet jel),
+d)[^40] a bejelentéssel érintett terület erdészeti azonosító adatai (helység, tagszám, részlet jel),
 
 e) a bejelentett tevékenység érintett területe,
 
@@ -50,7 +50,7 @@ l) keltezés,
 
 m) az erdőgazdálkodó aláírása, valamint
 
-n)[^40] az alkalmazott jogosult erdészeti szakszemélyzet ellenjegyzése.
+n)[^41] az alkalmazott jogosult erdészeti szakszemélyzet ellenjegyzése.
 
 (5) A (4) bekezdés f) pontja alkalmazásában az adatokat fafajonként felkészített hengeres fa, sarangolt választék, egyéb faválaszték és apríték bontásban kell megadni. A fatermék térfogat mértékegysége tömör köbméter (m3), apríték esetén tömör köbméter (m3), vagy űrméter (űrm).
 
@@ -66,9 +66,9 @@ b) az Evt. 41. § (8) bekezdésében foglalt, tárgyévben be nem fejezett tevé
 
 esetén.
 
-(9)[^41] Erdőtelepítés elsőkivitelének bejelentése esetén, ha az erdőtelepítés nem teljes földrészletet vagy alrészletet érint, a bejelentéshez – a (7) bekezdés szerinti térképi melléklet helyett – az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendelet szerint elkészített változási vázrajzot kell csatolni, azzal az eltéréssel, hogy a vázrajz záradékolása nem szükséges.
+(9)[^42] Erdőtelepítés elsőkivitelének bejelentése esetén, ha az erdőtelepítés nem teljes földrészletet vagy alrészletet érint, a bejelentéshez – a (7) bekezdés szerinti térképi melléklet helyett – az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló miniszteri rendelet szerint elkészített változási vázrajzot kell csatolni, azzal az eltéréssel, hogy a vázrajz záradékolása nem szükséges.
 
-(10)[^42] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
+(10)[^43] Az (1) bekezdésben meghatározott bejelentés ellenjegyzésével az alkalmazott jogosult erdészeti szakszemélyzet igazolja, hogy
 
 a) a végrehajtással érintett erdőrészletekben a bejelentésben szereplő mértékben kerültek végrehajtásra a jogszerűen végezhető erdőgazdálkodási tevékenységek, valamint a bejelentett adatok a valóságnak megfelelnek,
 
@@ -78,11 +78,11 @@ c) a jogszerűen végezhető erdőgazdálkodási tevékenységek szakszerű vég
 
 d) a jogszerűtlenül végrehajtott erdőgazdálkodási tevékenység típusát és mértékét a végrehajtás utáni valós állapotnak megfelelően feltüntették.
 
-(11)[^43] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
+(11)[^44] A (10) bekezdés c) pontja tekintetében szakszerű végrehajtásnak tekinthető, ha az erdő megfelel az erdészeti hatóság végleges határozatában foglaltaknak, továbbá ha az intenzíven terjedő idegenhonos fafajok kivágása a természetességi alapelvárásnak megfelelő szükséges mértékig megtörtént, a záródás nem csökkent az elvárt mérték alá, az erdő egészségi állapota nem romlott az erdőgazdálkodási tevékenység végrehajtása következtében.
 
-[^38]: A 29. § (4) bekezdés c) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^39]: A 29. § (4) bekezdés d) pontja a 13/2020. (IV. 8.) AM rendelet 9. § d) pontja szerint módosított szöveg.
-[^40]: A 29. § (4) bekezdés n) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^41]: A 29. § (9) bekezdése a 23/2023. (V. 10.) AM rendelet 30. § a) pontja, a 28/2024. (IV. 23.) AM rendelet 7. § f) pontja szerint módosított szöveg.
-[^42]: A 29. § (10) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
-[^43]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.
+[^39]: A 29. § (4) bekezdés c) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^40]: A 29. § (4) bekezdés d) pontja a 13/2020. (IV. 8.) AM rendelet 9. § d) pontja szerint módosított szöveg.
+[^41]: A 29. § (4) bekezdés n) pontja az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^42]: A 29. § (9) bekezdése a 23/2023. (V. 10.) AM rendelet 30. § a) pontja, a 28/2024. (IV. 23.) AM rendelet 7. § f) pontja szerint módosított szöveg.
+[^43]: A 29. § (10) bekezdés nyitó szövegrésze az 51/2020. (X. 16.) AM rendelet 2. § d) pontja szerint módosított szöveg.
+[^44]: A 29. § (11) bekezdése a 67. § (1) bekezdése szerint módosított szöveg.

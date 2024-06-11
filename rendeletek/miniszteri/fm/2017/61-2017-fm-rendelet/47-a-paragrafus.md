@@ -1,4 +1,4 @@
-47/A. §[^79] (1) Az örökerdő üzemmódú erdőkben a fakitermeléseket úgy kell elvégezni, hogy az
+47/A. §[^80] (1) Az örökerdő üzemmódú erdőkben a fakitermeléseket úgy kell elvégezni, hogy az
 
 a) biztosítsa a javafák következő beavatkozásig szükséges növőterét,
 
@@ -20,4 +20,4 @@ d) gyenge fatermőképességgel jellemzett termőhelyen lévő talajvédelmi ren
 
 (4) Az örökerdő üzemmódú erdőkben fakitermeléseket az örökerdő tervben meghatározott visszatérési idő szerinti ütemnél korábban nem lehet végrehajtani.
 
-[^79]: A 47/A. §-t a 13/2020. (IV. 8.) AM rendelet 7. §-a iktatta be.
+[^80]: A 47/A. §-t a 13/2020. (IV. 8.) AM rendelet 7. §-a iktatta be.

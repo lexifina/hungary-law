@@ -188,7 +188,7 @@
 
 | 22. | zöld duglászfenyő | Pseudotsuga menziesii var.viridis |
 
-4. melléklet a 61/2017. (XII. 21.) FM rendelethez[^89]
+4. melléklet a 61/2017. (XII. 21.) FM rendelethez[^91]
 
 1. Az erdei közjóléti berendezések jegyzéke
 
@@ -282,4 +282,4 @@
 
 | 16. | lovaglásra kijelölt nyomvonal | vonal | Közérdekből lovaglási célra kijelölt, a követhetőséget biztosító sűrűséggel lovas jelzéssel ellátott nyomvonal. |
 
-[^89]: A 4. melléklet az 51/2020. (X. 16.) AM rendelet 1. §-ával megállapított szöveg.
+[^91]: A 4. melléklet az 51/2020. (X. 16.) AM rendelet 1. §-ával megállapított szöveg.

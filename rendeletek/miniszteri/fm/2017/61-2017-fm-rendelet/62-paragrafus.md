@@ -1,10 +1,10 @@
-## 61. §[^84] Az erdészeti térkép aktualizálását az erdészeti hatóság döntésének véglegessé válásával egyidejűleg, más esetben az átvezetéshez szükséges dokumentumok keletkezésétől vagy benyújtásától számított harminc napon belül kell elvégezni.
+## 61. §[^86] Az erdészeti térkép aktualizálását az erdészeti hatóság döntésének véglegessé válásával egyidejűleg, más esetben az átvezetéshez szükséges dokumentumok keletkezésétől vagy benyújtásától számított harminc napon belül kell elvégezni.
 
-## 62. § Ha törvény, kormányrendelet vagy miniszteri rendelet erdészeti térképi melléklet csatolását írja elő, akkor azon – ha törvény, kormányrendelet vagy miniszteri rendelet másként nem rendelkezik – az alábbi jogosult erdészeti szakszemélyzet által elkészített munkarészeket kell érteni:
+62. §[^87] Ha törvény, kormányrendelet vagy miniszteri rendelet erdészeti térképi melléklet csatolását írja elő, akkor azon – ha törvény, kormányrendelet vagy miniszteri rendelet másként nem rendelkezik – az alábbi jogosult erdészeti szakszemélyzet által elkészített munkarészeket kell érteni:
 
-a) a legalább 1:10 000-es méretarányú, az erdészeti térkép másolaton készített változást bemutató térképi vázlat és
+a) a változásokat tartalmazó digitális térképi állomány a miniszter által vezetett minisztérium honlapján közzétett meghatározott fájlformátumban vagy
 
-b)[^85] a térképi változást eredményező új térképi elemek – vonalak estében a töréspontok sorrendjének megfelelő – koordinátajegyzéke, vagy az NFK által üzemeltetett honlapon meghatározott fájlformátumban a változásokat tartalmazó digitális térképi állomány.
+b) a legalább 1:10 000-es méretarányú, az erdészetitérkép-másolaton készített, változást bemutató térképi vázlat és a térképi változást eredményező új térképi elemek – vonalak esetében a töréspontok sorrendjének megfelelő – koordinátajegyzéke.
 
-[^84]: A 61. § a 67. § (2) bekezdése szerint módosított szöveg.
-[^85]: A 62. § b) pontja a 63/2020. (XII. 16.) AM rendelet 14. § 2. pontja szerint módosított szöveg.
+[^86]: A 61. § a 67. § (2) bekezdése szerint módosított szöveg.
+[^87]: A 62. § a 35/2024. (VI. 10.) AM rendelet 10. §-ával megállapított szöveg.

@@ -24,7 +24,7 @@ kell érteni.
 
 (5) Az átalakítási és erdőfelújítási terv készítése során az erdőrészlet területét tervezési egységekre kell bontani, ahol meg kell határozni a fakitermelési beavatkozások módját, véghasználatok esetén az erdőfelújítás módját és célállományát.
 
-(6) Az örökerdő kezelési terv, valamint az átalakítási és erdőfelújítási terv formai követelményeit, továbbá a kitöltési útmutatót a Nemzeti Földügyi Központ a honlapján közzéteszi.
+(6)[^28] Az örökerdő kezelési terv, valamint az átalakítási és erdőfelújítási terv formai követelményeit, továbbá a kitöltési útmutatót az erdőgazdálkodásért felelős miniszter (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzéteszi.
 
 (7) Átmeneti üzemmódban a 80 évnél
 
@@ -37,3 +37,4 @@ kell a teljes erdőrészlet véghasználati időszakát megtervezni.
 (8) Az Evt. 29. § (3) bekezdése alkalmazásában a végvágott területeket keletkeztető erdőfelújítási tervezési egységek egybefüggőnek minősülnek, ha legalább 10 méter hosszan csatlakoznak egymáshoz.
 
 [^27]: A 6/A. alcímet (24/B. §) a 13/2020. (IV. 8.) AM rendelet 3. §-a iktatta be.
+[^28]: A 24/B. § (6) bekezdése a 35/2024. (VI. 10.) AM rendelet 11. § a) pontja szerint módosított szöveg.
