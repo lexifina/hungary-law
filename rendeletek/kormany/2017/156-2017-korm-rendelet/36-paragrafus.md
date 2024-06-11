@@ -44,7 +44,7 @@ j)[^60] a kézi- és könnyűfegyverek, valamint az azokhoz szükséges lőszere
 
 k)[^61] a 2009/43/EK európai parlamenti és tanácsi irányelvnek az annak mellékletében foglalt, védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2020. február 17-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2021. március 5-i (EU) 2021/1047 felhatalmazáson alapuló bizottsági irányelvnek
 
-l)[^62] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2022. február 21-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2022. október 5-i (EU) 2023/277 felhatalmazáson alapuló bizottsági irányelvnek
+l)[^62] a 2009/43/EK európai parlamenti és tanácsi irányelvnek a védelmi vonatkozású termékeket tartalmazó jegyzéknek az Európai Unió 2023. február 20-i naprakésszé tett közös katonai listájával összhangban való naprakésszé tétele tekintetében történő módosításáról szóló, 2023. szeptember 27-i (EU) 2024/242 felhatalmazáson alapuló bizottsági irányelvnek
 
 való megfelelést szolgálja.
 
@@ -57,4 +57,4 @@ való megfelelést szolgálja.
 [^59]: A 36. § (2) bekezdés i) pontját a 443/2021. (VII. 23.) Korm. rendelet 7. §-a iktatta be.
 [^60]: A 36. § (2) bekezdés j) pontját a 360/2022. (IX. 19.) Korm. rendelet 30. §-a iktatta be.
 [^61]: A 36. § (2) bekezdés k) pontját a 360/2022. (IX. 19.) Korm. rendelet 30. §-a iktatta be.
-[^62]: A 36. § (2) bekezdés l) pontját a 204/2023. (V. 31.) Korm. rendelet 1. §-a iktatta be.
+[^62]: A 36. § (2) bekezdés l) pontját a 204/2023. (V. 31.) Korm. rendelet 1. §-a iktatta be, szövege a 122/2024. (VI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
