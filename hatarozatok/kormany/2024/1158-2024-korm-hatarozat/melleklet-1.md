@@ -20,21 +20,21 @@
 
 | Határidő: | a b) és c) alpont szerinti források rendelkezésre állását követően azonnal |
 
-## 2. A szigetszentmiklósi új iskola építéséről szóló 1234/2021. (V. 5.) Korm. határozat 3. pontjában a „4 853 233 417 forintban” szövegrész helyébe a „4 885 509 485 forintban” szöveg lép.
+## 2.[^1]
 
-## 3. A maglódi új iskolaépület építéséről szóló 1235/2021. (V. 5.) Korm. határozat 3. pontjában a „4 802 424 793 forintban” szövegrész helyébe a „4 998 645 241 forintban” szöveg lép.
+## 3.[^2]
 
-## 4. A vecsési kézilabda munkacsarnok építéséről szóló 1474/2021. (VII. 15.) Korm. határozat 2. pontjában az „1 772 032 590 forintban” szövegrész helyébe az „1 899 977 987 forintban” szöveg lép.
+## 4.[^3]
 
-## 5. A szekszárdi új interaktív könyvtár és levéltár megvalósításáról szóló 1547/2021. (VIII. 4.) Korm. határozat 2. pontjában a „7 814 853 475 forintban” szövegrész helyébe a „7 969 145 272 forintban” szöveg lép.
+## 5.[^4]
 
-## 6. A csongrádi kézilabda munkacsarnok építéséről szóló 1723/2021. (X. 12.) Korm. határozat 2. pontjában az „1 600 290 833 forintban” szövegrész helyébe az „1 731 134 315 forintban” szöveg lép.
+## 6.[^5]
 
-## 7. A győri új mentőállomás építéséről szóló 1027/2022. (I. 27.) Korm. határozat 2. pontjában a „3 837 534 043 forintban” szövegrész helyébe a „3 979 759 170 forintban” szöveg lép.
+## 7.[^6]
 
-## 8. A Mikepércsi Hunyadi János Általános Iskola tanteremfejlesztéséről szóló 1082/2022. (II. 23.) Korm. határozat 3. pontjában a „740 624 176 forintban” szövegrész helyébe a „796 032 065 forintban” szöveg lép.
+## 8.[^7]
 
-## 9. A Kormány visszavonja az építési beruházások megvalósítására kötött szerződések módosításának kezdeményezéséről szóló 13/2023. (I. 24.) Korm. rendelet alapján a rendes üzleti kockázat mértékét meghaladó költségnövekménnyel érintett szerződések módosításához szükséges forrás biztosításáról szóló 1432/2023. (X. 5.) Korm. határozat 1.2. pont d) és e) alpontját és 1.3. pontját, valamint 1. mellékletében foglalt táblázat 5–6. és 10–17. sorát.
+## 9.[^8]
 
 1. melléklet az 1158/2024. (VI. 10.) Korm. határozathoz
 
@@ -63,3 +63,12 @@
 | 10. | Tanterem tervezése és kivitelezése Budapest XVIII. Kerület Gulner Gyula Általános Iskolában | 52 294 917 |
 
 |  | 5–10. Magasépítés összesen | 7 595 277 952 |
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
