@@ -6,6 +6,9 @@ b) egyesülése, szétválása, átalakítása engedélyezésére irányuló elj
 
 az igazgatási szolgáltatási díj.
 
-(2) Pénzügyi vállalkozásban történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 700 000 forint.
+(2)[^5] Pénzügyi vállalkozásban történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a (3) bekezdésben és a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 700 000 forint.
 
-(3) A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a pénzügyi vállalkozásban történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért kérelmezőnként az igazgatási szolgáltatási díj 450 000 forint.
+(3)[^6] A kérelmező személyén kívül eső okból beálló változás miatt (pl. öröklés, jogutódlás) a pénzügyi vállalkozásban történő befolyásoló részesedésszerzés engedélyezésére irányuló eljárásért – a 20. § (2) bekezdésében foglaltak kivételével – kérelmezőnként az igazgatási szolgáltatási díj 450 000 forint.
+
+[^5]: A 2. § (2) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 21/2024. (VI. 10.) MNB rendelet 3. § (11) bekezdés b) pontja szerint módosított szöveg.
