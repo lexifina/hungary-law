@@ -40,6 +40,8 @@ c) a változásvezetési bejelentést tevő kedvezményezett tárgyévi egysége
 
 d) a 8. § (1) bekezdés e) pontja tekintetében a bejelentett elem nem felel meg a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 37. § (4) bekezdésében foglaltaknak.
 
-(11) A változásvezetési bejelentés értékelése során, szükség esetén a Kincstár a változásvezetési bejelentés véleményezése céljából elektronikus úton megkeresi a földmérési és térinformatikai államigazgatási szervet. A földmérési és térinformatikai államigazgatási szerv a változásvezetési bejelentés tárgyában elvégzett vizsgálat adatait tartalmazó véleményét elektronikus úton megküldi a Kincstárnak. A Kincstár a változásvezetési bejelentést a földmérési és térinformatikai államigazgatási szerv véleményének figyelembevételével bírálja el.
+(11)[^8] A változásvezetési bejelentést a Kincstár bírálja el.
 
 (12) A változásvezetés eredményét a Kincstár a MePAR frissítése során teszi közzé.
+
+[^8]: A 8. § (11) bekezdése a 35/2024. (VI. 10.) AM rendelet 16. §-ával megállapított szöveg.
