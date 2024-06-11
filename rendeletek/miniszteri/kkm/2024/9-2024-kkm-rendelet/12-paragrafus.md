@@ -1,0 +1,3 @@
+12. § (1) A támogatást nyújtó köteles adatot szolgáltatni a TVI részére a 651/2014/EU bizottsági rendelet 9. cikke és az (EU) 2022/2472 bizottsági rendelet 9. cikke szerinti közzététel céljából a 651/2014/EU bizottsági rendelet és az (EU) 2022/2472 bizottsági rendelet hatálya alá tartozó, az Atr. 2. § 6c. pontja szerinti halászati állami támogatás és elsődleges mezőgazdasági termelés támogatása esetén a 10 000 eurónak, egyéb esetben pedig a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.
+
+(2) Az (1) bekezdés szerinti adatszolgáltatás módjára, az adatszolgáltatással érintett adatok körére és azok közzétételére vonatkozó szabályokat az Atr. 18/A–18/D. §-a határozza meg.
