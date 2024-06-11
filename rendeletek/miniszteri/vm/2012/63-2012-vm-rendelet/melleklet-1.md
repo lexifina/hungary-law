@@ -1202,8 +1202,6 @@
 
 | 15.1.1. | Alapdíj | 6500 |
 
-|  | – erdőterv határozat kiadása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 113. § (13) bekezdése alapján kérelemre induló eljárásban; |  |
-
 |  | – az Evt. 15. § (5) bekezdése hatálya alá tartozó, a 15.2.1. pontban nem szereplő, erdei közjóléti létesítménynek nem minősülő egyéb nem nyomvonalas kialakítású erdészeti létesítménnyel kapcsolatos engedélyezési eljárások; |  |
 
 |  | – a 15.1.2 pont alá tartozó eljárásokban. |  |
@@ -2478,4 +2476,4 @@
 
 | 18.3.3.4.4.1. | Alapdíj esetenként | 8 500 |
 
-[^17]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése, a 126/2013. (XII. 17.) VM rendelet 18. §-a, a 41/2014. (XII. 23.) FM rendelet 7. §-a, a 8/2016. (II. 11.) FM rendelet 10. §-a és 11. § a) pontja, a 63/2017. (XII. 22.) FM rendelet 1–3. §-a, a 43/2018. (XII. 20.) AM rendelet 3. § b) pontja, az 5/2019. (III. 14.) AM rendelet 5. §-a, a 63/2020. (XII. 16.) AM rendelet 6. § 3. pontja, 7. §-a, a 26/2021. (VII. 29.) AM rendelet 67. §-a, az 57/2023. (X. 16.) AM rendelet 30. §-a, a 175/2023. (XII. 27.) AM rendelet 1. és 2. §-a szerint módosított szöveg.
+[^17]: Az 1. melléklet a 87/2013. (X. 1.) VM rendelet 6. § (1) bekezdése, a 126/2013. (XII. 17.) VM rendelet 18. §-a, a 41/2014. (XII. 23.) FM rendelet 7. §-a, a 8/2016. (II. 11.) FM rendelet 10. §-a és 11. § a) pontja, a 63/2017. (XII. 22.) FM rendelet 1–3. §-a, a 43/2018. (XII. 20.) AM rendelet 3. § b) pontja, az 5/2019. (III. 14.) AM rendelet 5. §-a, a 63/2020. (XII. 16.) AM rendelet 6. § 3. pontja, 7. §-a, a 26/2021. (VII. 29.) AM rendelet 67. §-a, az 57/2023. (X. 16.) AM rendelet 30. §-a, a 175/2023. (XII. 27.) AM rendelet 1. és 2. §-a, a 35/2024. (VI. 10.) AM rendelet 7. §-a szerint módosított szöveg.
