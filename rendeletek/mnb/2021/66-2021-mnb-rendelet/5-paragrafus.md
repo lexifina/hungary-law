@@ -10,7 +10,7 @@ a) a szerződés, illetve a tagsági jogviszony létrejöttével, érvényesség
 
 b) a Magyar Nemzeti Bankról szóló törvényben meghatározott fogyasztóvédelmi rendelkezések megsértésének kivizsgálására
 
-## irányult.
+irányult.
 
 (4) Ha a szolgáltató szerint a panasz a (3) bekezdés a) és b) pontját is érinti, akkor a fogyasztónak minősülő ügyfelet tájékoztatja arról, hogy a panaszban foglaltak mely része tartozik az a), illetve a b) pont körébe.
 

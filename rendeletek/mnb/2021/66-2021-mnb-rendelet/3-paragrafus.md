@@ -15,3 +15,5 @@ b) a szolgáltató által üzemeltetett, kizárólag a szolgáltató ügyfele á
 a) az 5. § (8) bekezdésében foglaltak teljesülését vagy
 
 b) a titokvédelmi szabályok által védett adatoknak azok megismerésére nem jogosult harmadik személyekkel szembeni védelmét
+
+nem biztosítja.

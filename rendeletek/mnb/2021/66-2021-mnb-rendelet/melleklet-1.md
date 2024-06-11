@@ -1,8 +1,6 @@
-## 10. §[^1]
-
 1. melléklet a 66/2021. (XII. 20.) MNB rendelethez
 
-## A panaszkezelés formájára és módjára vonatkozó szabályok panaszkezelési szabályzatban történő feltüntetése
+A panaszkezelés formájára és módjára vonatkozó szabályok panaszkezelési szabályzatban történő feltüntetése
 
 I. A panasz bejelentésének módjai
 
@@ -130,7 +128,7 @@ b) MNB: az aktuális elérhetőségek (a pénzügyi fogyasztóvédelmi tárgyú 
 
 c) bíróság.
 
-2. A Pénzügyi Békéltető Testület eljáró tanácsa egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a szolgáltató alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztónak minősülő ügyfél érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg az egymillió forintot.
+2.[^3] A Pénzügyi Békéltető Testület eljáró tanácsa egyezség hiányában akkor is kötelezést tartalmazó határozatot hozhat, ha a szolgáltató alávetési nyilatkozatot nem tett, de a kérelem megalapozott és a fogyasztónak minősülő ügyfél érvényesíteni kívánt igénye – sem a kérelemben, sem a kötelezést tartalmazó határozat meghozatalakor – nem haladja meg a kétmillió forintot.
 
 3. A fogyasztónak minősülő ügyfél a IV.1. pontban foglalt esetben a Pénzügyi Békéltető Testület, illetve az MNB előtt megindítható eljárás alapjául szolgáló kérelem nyomtatvány megküldését kérheti, amelyről a panasz elutasítása esetén a szolgáltató külön is tájékoztatja a fogyasztónak minősülő ügyfelet.
 
@@ -152,4 +150,4 @@ e) a panaszra adott válaszlevél postára adásának – elektronikus úton meg
 
 2. A panaszt és az arra adott választ öt évig meg kell őrizni.
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet IV. 2. pontja a 21/2024. (VI. 10.) MNB rendelet 1. §-a szerint módosított szöveg.
