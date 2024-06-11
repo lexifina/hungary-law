@@ -26,9 +26,9 @@
 
 11. melléklet a 26/2021. (VII. 29.) AM rendelethez
 
-A borászati borászati kísérőokmány adattartalma[^54]
+A borászati borászati kísérőokmány adattartalma[^62]
 
-1.[^55] Borászati borászati kísérőokmány hitelesítés, azonosító.
+1.[^63] Borászati borászati kísérőokmány hitelesítés, azonosító.
 
 2. Az eladó (feladó) és a vevő (címzett)
 
@@ -50,7 +50,7 @@ A borászati borászati kísérőokmány adattartalma[^54]
 
 7. A szállításra történő átvétel igazolása.
 
-8.[^56] A szállítmány adatai
+8.[^64] A szállítmány adatai
 
 8.1. Bármely termék esetén (általános szabályok)
 
@@ -58,7 +58,7 @@ A borászati borászati kísérőokmány adattartalma[^54]
 
 8.1.2. a kiszerelési egység űrtartalma (literben kifejezve vagy tartályos kiszerelés esetén a tartály névleges űrtartalma);
 
-8.1.3.[^57] a mennyiség egysége, az alábbi mértékegységek használatával:
+8.1.3.[^65] a mennyiség egysége, az alábbi mértékegységek használatával:
 
 8.1.3.1. kiszerelt termékek esetében: „db”,
 
@@ -112,17 +112,17 @@ A borászati borászati kísérőokmány adattartalma[^54]
 
 9.1. a 8. pontban megadott mértékegységben kifejezve; ha több terméktípus (például: szőlőtörköly és borseprő) szállítására kerül sor, az összegzést terméktípus szerinti bontásban kell megadni,
 
-9.2.[^58] kiszerelt tételek esetében a hektoliterben kifejezett összes mennyiséget kell megadni,
+9.2.[^66] kiszerelt tételek esetében a hektoliterben kifejezett összes mennyiséget kell megadni,
 
-9.3.[^59] lédig tételek esetében a 8.1.3. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
+9.3.[^67] lédig tételek esetében a 8.1.3. pontban megadott mértékegységben kifejezett összes mennyiséget kell megadni.
 
 10. A feladó igazolása a feladásról (keltezés, név, aláírás).
 
 11. A címzett igazolása az átvételről (keltezés, név, aláírás).
 
-[^54]: A 11. melléklet címe a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
-[^55]: A 11. melléklet 1. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
-[^56]: A 11. melléklet 8. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a 11. melléklet 8. pont 8.2.6. alpontjában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
-[^57]: [A 11. melléklet 8. pont 8.1.3. alpontjában a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
-[^58]: A 11. melléklet 9. pont 9.2. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^59]: A 11. melléklet 9. pont 9.3. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^62]: A 11. melléklet címe a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^63]: A 11. melléklet 1. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított, e módosító rendelet 11. § 5. pontja szerint módosított szöveg.
+[^64]: A 11. melléklet 8. pontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg. [E módosító rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a 11. melléklet 8. pont 8.2.6. alpontjában a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^65]: [A 11. melléklet 8. pont 8.1.3. alpontjában a 12/2024. (III. 28.) AM rendelet 11. § 5. pontja által elrendelt módosítás, amely szerint a „kísérőokmány” szövegrész helyébe a „borászati kísérőokmány” szöveg lép, nem vezethető át.]
+[^66]: A 11. melléklet 9. pont 9.2. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^67]: A 11. melléklet 9. pont 9.3. alpontja a 12/2024. (III. 28.) AM rendelet 10. § (2) bekezdésével megállapított szöveg.

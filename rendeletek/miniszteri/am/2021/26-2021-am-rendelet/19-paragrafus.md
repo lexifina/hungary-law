@@ -22,7 +22,7 @@ ba) gazdasági akta számát,
 
 bb) FELIR azonosítóját,
 
-bc) Magyar Államkincstár által adott ügyfél-azonosító számát (a továbbiakban: MÁK ügyfél-azonosító);
+bc)[^14] Kincstár által adott ügyfél-azonosító számát (a továbbiakban: MÁK ügyfél-azonosító);
 
 c) ha eltér a borászati üzemengedélyestől, a borászati üzem szakmai tevékenységéért felelős
 
@@ -42,11 +42,11 @@ h) ha a kérelmező nem a helyi ivóvíz szolgáltató által szolgáltatott viz
 
 i) a kiszerelési tevékenységet végző borászati üzem, valamint a nem kisüzemi bortermelőként előállítást végző borászati üzem által elkészített
 
-ia)[^7]
+ia)[^15]
 
 ib) technológiai elrendezési rajzot,
 
-ic)[^8]
+ic)[^16]
 
 id) műszaki-technológiai leírást,
 
@@ -56,18 +56,19 @@ if) tisztítási, takarítási utasítást,
 
 ig) hulladékkezelési utasítást,
 
-ih)[^9]
+ih)[^17]
 
 j) kisüzemi bortermelő borászati terméket legalább 100 hektoliter/év mennyiségben előállító borászati üzeme esetén az egyszerűsített személyi higiéniai utasítást;
 
-k)[^10] a helyszínrajzot;
+k)[^18] a helyszínrajzot;
 
 l) a használt víz tekintetében annak igazolását, hogy a szennyvíz a felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendeletben foglaltaknak megfelel.
 
-m)[^11] a borászati üzemengedély iránti kérelemmel érintett ingatlanban tárolandó, adómentes fogyasztásra szánt borászati terméktétel mennyiségét hektoliterben, két tizedesjegy pontossággal.
+m)[^19] a borászati üzemengedély iránti kérelemmel érintett ingatlanban tárolandó, adómentes fogyasztásra szánt borászati terméktétel mennyiségét hektoliterben, két tizedesjegy pontossággal.
 
-[^7]: A 19. § i) pont ia) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
-[^8]: A 19. § i) pont ic) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
-[^9]: A 19. § i) pont ih) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
-[^10]: A 19. § k) pontja a 12/2024. (III. 28.) AM rendelet 12. § b) pontja szerint módosított szöveg.
-[^11]: A 19. § m) pontját a 12/2024. (III. 28.) AM rendelet 2. §-a iktatta be.
+[^14]: A 19. § b) pont bc) alpontja a 35/2024. (VI. 10.) AM rendelet 13. § d) pontja szerint módosított szöveg.
+[^15]: A 19. § i) pont ia) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^16]: A 19. § i) pont ic) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^17]: A 19. § i) pont ih) alpontját a 188/2023. (XII. 27.) AM rendelet 1. §-a hatályon kívül helyezte.
+[^18]: A 19. § k) pontja a 12/2024. (III. 28.) AM rendelet 12. § b) pontja szerint módosított szöveg.
+[^19]: A 19. § m) pontját a 12/2024. (III. 28.) AM rendelet 2. §-a iktatta be.
