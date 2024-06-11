@@ -1,0 +1,1 @@
+18. § A le- és felszállás biztonságos végrehajtásáért az úszótalpas légijármű parancsnok pilótája felel. Manőverezési szándékáról az adott térségben kijelölt hajózási URH rádiócsatornán keresztül tájékoztatnia kell a környező forgalmat.

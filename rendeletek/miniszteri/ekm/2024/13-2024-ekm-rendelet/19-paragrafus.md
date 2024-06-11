@@ -1,0 +1,1 @@
+19. § A le- és felszállás végrehajtásánál figyelembe kell venni a SERA rendelet melléklet 3. szakasz, 2. fejezet, 3230 a) 4. pontban előírtakat, továbbá a leszállás végrehajtása előtt, a kijelölt leszállóhely feletti alacsony magasságban történő áthúzás során a pilótának meg kell győződnie a leszállóhely akadálymentességéről.

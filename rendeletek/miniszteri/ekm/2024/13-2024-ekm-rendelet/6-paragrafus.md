@@ -1,0 +1,1 @@
+6. § A repülőtér üzemben tartója a repülőtér forgalmi körének irányát úgy határozza meg, hogy az a repülőteret rendszeresen használó légijárművek számára alkalmazható legyen, valamint a forgalmi kör kialakításánál törekszik a lakott területek elkerülésére.
