@@ -1176,7 +1176,7 @@
 
 ## Bruttó működési költségek = szerzési költségek + elhatárolt szerzési költségek változása + igazgatási költségek (befektetési költségek kivételével).
 
-## 43.[^11] 42A19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos éves adatok
+## 43.[^18] 42A19 Pénzmosással és terrorizmusfinanszírozással kapcsolatos éves adatok
 
 ## A tábla kitöltése
 
@@ -1530,7 +1530,7 @@
 
 | 19. Temetési biztosítás | TEMET |
 
-## III.[^12]
+## III.[^19]
 
 ## A kisbiztosító-egyesület éves felügyeleti jelentése
 
@@ -3420,5 +3420,5 @@
 
 4. melléklet az 53/2022. (XII. 2.) MNB rendelethez
 
-[^11]: A 3. melléklet II. 43. pontja az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: [Nem vezethető át az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésében foglalt azon módosítás, amely szerint a 3. melléklet III. 42. pontja újraszabályozásra kerül.]
+[^18]: A 3. melléklet II. 43. pontja az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^19]: [Nem vezethető át az 59/2023. (XI. 24.) MNB rendelet 2. § (1) bekezdésében foglalt azon módosítás, amely szerint a 3. melléklet III. 42. pontja újraszabályozásra kerül.]

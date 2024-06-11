@@ -6,7 +6,7 @@
 
 (4) Az adatszolgáltató a PEPP szöveges jelentést első alkalommal a PEPP regisztrációja évére mint tárgyidőszakra vonatkozóan teljesíti.
 
-(5)[^1] Az adatszolgáltató
+(5)[^4] Az adatszolgáltató
 
 a) a 42A19 táblakódú felügyeleti jelentést a biztosítási piaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 53/2022. (XII. 2.) MNB rendelet módosításáról szóló 59/2023. (XI. 24.) MNB rendelet (a továbbiakban: Módosító rendelet) 2. melléklet 1. pontjával módosított táblaszerkezetben és a Módosító rendelet 3. melléklet 1. pontjával módosított kitöltési előírások szerint,
 
@@ -24,7 +24,10 @@ g) a 42YSFDR táblakódú felügyeleti jelentést a Módosító rendelet 4. mell
 
 első alkalommal a 2023. évre mint tárgyidőszakra vonatkozóan teljesíti.
 
-(6)[^2] Az adatszolgáltató a Módosító rendelet 4. mellékletével megállapított 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 63. és 64. sorában meghatározott felügyeleti jelentést első alkalommal 2024. január 1-jére mint tárgynapra vonatkozóan, 2024. január 15-ig teljesíti.
+(6)[^5] Az adatszolgáltató a Módosító rendelet 4. mellékletével megállapított 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 63. és 64. sorában meghatározott felügyeleti jelentést első alkalommal 2024. január 1-jére mint tárgynapra vonatkozóan, 2024. január 15-ig teljesíti.
 
-[^1]: A 14. § (5) bekezdését az 59/2023. (XI. 24.) MNB rendelet 1. §-a iktatta be.
-[^2]: A 14. § (6) bekezdését az 59/2023. (XI. 24.) MNB rendelet 1. §-a iktatta be.
+(7)[^6] Az adatszolgáltató a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 54. és 55. sorában meghatározott felügyeleti jelentést az adatszolgáltatási tárgyú MNB rendeletek módosításáról szóló 20/2024. (VI. 10.) MNB rendelet 1. mellékletével megállapított táblaszerkezetben első alkalommal 2024. II. negyedévre mint tárgyidőszakra vonatkozóan teljesíti.
+
+[^4]: A 14. § (5) bekezdését az 59/2023. (XI. 24.) MNB rendelet 1. §-a iktatta be.
+[^5]: A 14. § (6) bekezdését az 59/2023. (XI. 24.) MNB rendelet 1. §-a iktatta be.
+[^6]: A 14. § (7) bekezdését a 20/2024. (VI. 10.) MNB rendelet 1. § (1) bekezdése iktatta be.

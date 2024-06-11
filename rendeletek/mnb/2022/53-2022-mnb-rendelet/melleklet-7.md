@@ -1,4 +1,4 @@
-7. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^14]
+7. melléklet az 53/2022. (XII. 2.) MNB rendelethez[^21]
 
 A kisbiztosítónak nem minősülő biztosító felügyeleti jelentése kitöltésére vonatkozó részletes előírások
 
@@ -280,7 +280,7 @@ A táblában be kell mutatni a 42Y1E1 kódú táblában jelentett folyamatos dí
 
 A 42Y1E106101–42Y1E106113 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1061 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1210612 során jelentett adattal, míg a 42Y1E106201–42Y1E106213 sorban jelentett adatok összegének meg kell egyeznie a 42Y1E1062 és konzisztensen a 42Y1E1 kódú tábla 42Y1E1220612 során jelentett adattal.
 
-9. 42Y1E2 A biztosító állománydíja, díjbevétele és a károk alakulásának bemutatása termékcsoportok szerint a tárgyidőszak végén (ezer Ft)
+9.[^22] 42Y1E2 A biztosító állománydíja, díjbevétele és a károk alakulásának bemutatása termékcsoportok szerint a tárgyidőszak végén (ezer Ft)
 
 A tábla kitöltése
 
@@ -330,7 +330,7 @@ Itt kell jelenteni a biztosító összes biztosítási szerződéséhez kapcsol�
 
 A nem-életbiztosítások, az életbiztosítások és a CSÉB 11. Díjbevétel oszlopban jelentett díjbevétel értékek összegének meg kell egyeznie a Bszkr. 2. melléklete szerinti eredménykimutatás nem-életbiztosítási ág A) 01. sor a), valamint életbiztosítási ág B) 01. sor a) pontjában jelentett értékek összegével.
 
-A 42Y1E21 Nem-életbiztosítások, 42Y1E22 Életbiztosítások és 42Y1E23 CSÉB elnevezésű sorok 11. Díjbevétel oszlopában jelentett értékek összegének meg kell egyeznie az (EU) 2015/2450 bizottsági végrehajtási rendelet I. melléklete szerinti S.05.01.01 kódú, éves gyakoriságú táblában jelentett díjelőírás (direkt biztosítás és aktív viszontbiztosítás) értékek összegével, az azonos díjfogalom miatt.
+A 42Y1E21 Nem-életbiztosítások, 42Y1E22 Életbiztosítások és 42Y1E23 CSÉB elnevezésű sorok 11. Díjbevétel oszlopában jelentett értékek összegének meg kell egyeznie az (EU) 2023/894 bizottsági végrehajtási rendelet I. melléklete szerinti S.05.01.01 kódú, éves gyakoriságú táblában jelentett díjelőírás (direkt biztosítás és aktív viszontbiztosítás) értékek összegével, az azonos díjfogalom miatt.
 
 13. oszlop 11. oszlopból: Eseti befizetésből származó díjbevétel
 
@@ -1530,4 +1530,9 @@ A mutatószám fogalmát és a számítás módját az SFDR RTS I. melléklete t
 
 42YSFDR81–72YSFDR83 Szabadon választott mutatószám 1, 2, 3
 
-[^14]: A 7. melléklet az 59/2023. (XI. 24.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+A biztosító által alkalmazott, materiálisnak ítélt, szabadon választható mutatók megnevezését, értékét és mértékegységét kell megadni. A mutatószámokat az SFDR RTS I. mellékletének 1., 2. és 3. számú táblázatából kell kiválasztani. A százalékos értékeket tizedestört formájában kell megadni (például 25%-os arány esetén 0.25 a szerepeltetendő érték). Ha a szabadon választható mutató nem rendelkezik mértékegységgel, a 3. Mértékegység oszlopba „–” jelet kell tenni.
+
+III.
+
+[^21]: A 7. melléklet az 59/2023. (XI. 24.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^22]: A 7. melléklet II. pont 9. alpontja a 20/2024. (VI. 10.) MNB rendelet 1. § (3) bekezdés a) pontja szerint módosított szöveg.
