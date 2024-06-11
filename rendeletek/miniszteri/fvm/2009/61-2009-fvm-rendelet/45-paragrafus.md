@@ -16,7 +16,7 @@ b) keresztellenőrzést,
 
 c) helyszíni ellenőrzést
 
-## foglal magába.
+foglal magába.
 
 (3)[^130] A 23–25. § szerinti kötelezettségátadás esetén a Kincstár a kötelezettség átvevőjének személyében bekövetkező változásról tájékoztatja az (1) bekezdés szerint az ellenőrzésekbe bevont illetékes állami szerveket.
 

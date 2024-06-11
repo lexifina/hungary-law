@@ -1,5 +1,3 @@
-## kell teljesíteni, melynek tekintetében hiánypótlásnak helye nincs.
-
 ## A monitoring rendszer működtetése
 
 19. § (1) A támogatási célok megvalósulásának nyomon követése érdekében a támogatásra jogosultnak az Európai Mezőgazdasági Vidékfejlesztési Alapból támogatott intézkedések monitoring adatszolgáltatási rendjére vonatkozó részletes szabályokról szóló 18/2009. (III. 6.) FVM rendeletben foglaltak szerint évente nyilatkoznia kell a monitoring adatokról.

@@ -10,7 +10,7 @@
 
 a) a legkisebb támogatható terület 0,5 ha;
 
-b)[^216] az integrált szőlő- és gyümölcstermesztési támogatásra jogosult minden gyümölcs faj és szőlő, a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert;
+b)[^217] az integrált szőlő- és gyümölcstermesztési támogatásra jogosult minden gyümölcs faj és szőlő, a 9. számú mellékletben meghatározottak szerint, kivéve faiskola, csemetekert;
 
 c) a támogatás nem termő és termőre fordult ültetvényre igényelhető;
 
@@ -48,4 +48,4 @@ c) bogyós ültetvénycsoportba tartozó fajok esetén 341 euró/hektár;
 
 d) szőlő ültetvénycsoportba tartozó fajok esetén 486 euró/ha-nak megfelelő forintösszeg.
 
-[^216]: A 73. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^217]: A 73. § (2) bekezdés b) pontja a 77/2009. (VI. 30.) FVM rendelet 15. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

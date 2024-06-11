@@ -38,6 +38,8 @@ c) 2018. év vonatkozásában 2019. január 1. és március 1. között,
 
 d) 2019. január 1. és augusztus 31. közötti időszak tekintetében 2020. január 1. és március 1. napja között
 
+kell teljesíteni, melynek tekintetében hiánypótlásnak helye nincs.
+
 [^46]: A 18. § (1) bekezdése az 56/2015. (XII. 23.) MvM rendelet 7. § a) pontja szerint módosított szöveg.
 [^47]: A 18. § (5) bekezdését az 56/2015. (XII. 23.) MvM rendelet 7. § b) pontja hatályon kívül helyezte.
 [^48]: A 18. § (7) bekezdése a 35/2010. (XI. 30.) VM rendelet 3. §-ával megállapított szöveg, a 139/2012. (XII. 22.) VM rendelet 19. § (2) bekezdés d) pontja szerint módosított szöveg. [A 70/2013. (VII. 31.) VM rendelet 105. § f) pontjával elrendelt módosítás, amely szerint „az MgSzH-hoz” szövegrész helyébe „a NÉBIH-hez” szöveg lép, nem vezethető át.]
