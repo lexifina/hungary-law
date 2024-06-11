@@ -70,6 +70,8 @@ A kibocsátó
 
 3.12.3. befektetési alap fajtája (nyílt végű vagy zárt végű),
 
-3.12.4. befektetési alap elsődleges eszközkategória szerinti típusa (értékpapíralap, ingatlanalap, kockázati tőkealap, magántőkealap),
+3.12.4.[^2] befektetési alap elsődleges eszközkategória szerinti típusa (értékpapíralap, vegyes alap, ingatlanalap, kockázati tőkealap, magántőkealap),
 
 3.12.5. határozott futamidejű befektetési alap, illetve részalap esetén az alap, illetve részalap futamidejének vége.
+
+[^2]: Az 1. melléklet 3.12.4. pontja a 22/2024. (VI. 10.) MNB rendelet 1. §-ával megállapított szöveg.
