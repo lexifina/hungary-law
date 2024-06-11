@@ -1,6 +1,6 @@
 2. melléklet a 36/2010. (IV. 13.) FVM rendelethez[^10]
 
-## A termőhelyfeltárási szakvélemény kötelező tartalma
+A termőhelyfeltárási szakvélemény kötelező tartalma
 
 1. Általános adatok
 

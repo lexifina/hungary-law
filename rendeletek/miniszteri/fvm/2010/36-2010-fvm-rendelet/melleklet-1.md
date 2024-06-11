@@ -1,6 +1,6 @@
 1. melléklet a 36/2010. (IV. 13.) FVM rendelethez[^9]
 
-## A részletes termőhelyfeltárás szakmai alapkövetelményei
+A részletes termőhelyfeltárás szakmai alapkövetelményei
 
 1. A talajszelvények helyét úgy kell kijelölni, hogy a vizsgált, természetben összefüggő területen található minden termőhelytípus-változatban legyen legalább egy talajszelvény, de minimálisan megkezdett 5 hektáronként 1 db talajszelvény, 50 hektár felett 10 db talajszelvény + megkezdett 10 hektáronként 1 db talajszelvény.
 
@@ -14,7 +14,7 @@ Talajszelvény nyitása helyett olyan talajfúró/talajszonda használata is ele
 
 5. A termőhelyi részlet határait, valamint a talajszelvények, talajfúrások, kis szelvények helyét a vizsgálat jellegének megfelelő méretarányú térképen kell ábrázolni.
 
-6. A részletes termőhelyfeltárásról a Nemzeti Földügyi Központ (a továbbiakban: NFK) honlapján közzétett formátum szerinti T-lapot kell kitölteni, melynek kötelező adatai:
+6. A részletes termőhelyfeltárásról az erdőgazdálkodásért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett formátum szerinti T-lapot kell kitölteni, melynek kötelező adatai:
 
 6.1. Azonosító adatok:
 
@@ -148,7 +148,7 @@ Laboratóriumi vizsgálat adatai (szintenként, illetve rétegenként) a 9. pont
 
 További, kiegészítő vizsgálatok a 10. pontban meghatározottak szerint.
 
-7. A T-lapot az NFK honlapján elérhető kitöltési útmutató és kódjegyzék alapján kell kitölteni.
+7. A T-lapot a minisztérium honlapján elérhető kitöltési útmutató és kódjegyzék alapján kell kitölteni.
 
 8. A talajszelvényről a talajszinteket/rétegeket ábrázoló, továbbá a szelvény környezetét bemutató digitális fényképet kell készíteni a szelvény dokumentálása és az ellenőrzés elősegítése érdekében, melyen a T-lappal, továbbá a talajrétegekkel/szintekkel való egyértelmű megfeleltetést biztosítani kell.
 
@@ -190,7 +190,7 @@ További, kiegészítő vizsgálatok a 10. pontban meghatározottak szerint.
 
 | MSZ–08–0213–1:1978.07. | A talajvízben oldható sóinak minőségi és mennyiségi meghatározása. Általános előírások. Kivonatok készítése. |
 
-Megjegyzés: A fentiekkel egyenértékű eredményt adó más módszerek is alkalmazhatók a termőhelyfeltárás során
+## Megjegyzés: A fentiekkel egyenértékű eredményt adó más módszerek is alkalmazhatók a termőhelyfeltárás során
 
 10. Szakmailag indokolt esetben vizsgálni ajánlott még és a T-laptól elkülönítetten csatolandó a talajvizsgálat eredménye a 90/2008. (VII. 18.) FVM rendeletben foglalt szabályok szerint:
 
@@ -214,4 +214,4 @@ Megjegyzés: A fentiekkel egyenértékű eredményt adó más módszerek is alka
 
 14. Az erdészeti hatóságnak a célállomány és a főfafajként értékelhető elegyfafajok meghatározásának ellenőrzésére „Az egyes termőhelytípus-változatokon alkalmazható célállományok” elnevezésű segédtábla 2005. évi kiadását kell figyelembe venni. Megfelelő szakmai indokolással, különösen a természetes erdődinamikai folyamatok figyelembevételével végzett tervezési elvek alkalmazása esetén a táblázat ajánlásaitól el lehet térni.
 
-[^9]: Az 1. melléklet a 70/2013. (VII. 31.) VM rendelet 124. §-a, a 20/2018. (VII. 27.) AM rendelet 5. §-a és 6. § g)–n) pontja, a 63/2020. (XII. 16.) AM rendelet 3. §-a szerint módosított szöveg.
+[^9]: Az 1. melléklet a 70/2013. (VII. 31.) VM rendelet 124. §-a, a 20/2018. (VII. 27.) AM rendelet 5. §-a és 6. § g)–n) pontja, a 63/2020. (XII. 16.) AM rendelet 3. §-a, a 35/2024. (VI. 10.) AM rendelet 4. §-a szerint módosított szöveg.

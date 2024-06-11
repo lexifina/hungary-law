@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-36-20-8
 | 2013-08-01 | 2010-36-20-82.2 | 70/2013. (VII. 31.) VM rendelet |
 | 2018-08-11 | 2010-36-20-82.3 | 20/2018. (VII. 27.) AM rendelet |
 | 2020-12-21 | 2010-36-20-82.4 | 70/2013. (VII. 31.) VM rendelet |
+| 2024-06-11 | 2010-36-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
