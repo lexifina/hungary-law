@@ -1,4 +1,4 @@
-## 4X03480M.docx
+## 4X03643M.docx
 
 | XII. Agrárminisztérium 2024. évi költségvetési kiadási előirányzatainak feladatterve |
 
@@ -64,7 +64,7 @@
 
 | 20. | 397128 |  |  |  | 1_Nemzeti Élelmiszerlánc- biztonsági Hivatal tulajdonosi joggyakorlása alá tartozó társaságok forrásjuttatásai | A Nemzeti Élelmiszerlánc- biztonsági Hivatal tulajdonosi joggyakorlása alá tartozó társaságok részére történő tőkeemelés, pótbefizetés, tulajdonosi támogatás finanszírozása. | A Nemzeti Élelmiszerlánc- biztonsági Hivatal tulajdonosi joggyakorlása alá tartozó gazdasági társaságok | Az Áht. szerinti, az állami vagyon felügyeletéért felelős miniszter jóváhagyása esetén a támogatói okiratban vagy támogatási szerződésben foglaltaknak megfelelően | nyújtható | Tőkeemelés vagy pótbefizetés jogcímén a tulajdonosi joggyakorló határozata alapján. Tulajdonosi támogatás esetén a támogatói okiratban vagy támogatási szerződésben foglaltaknak megfelelően egy összegben vagy részletekben, idő- vagy teljesítésarányosan történő kifizetéssel. | Pótbefizetés esetén a szerződés, tulajdonosi támogatás esetén a támogatói okirat vagy támogatási szerződés szerint. | Az Ávr. 84. § (2) bekezdése szerinti lehetséges biztosítékok. | Nemzeti Élelmiszerlánc- biztonsági Hivatal | – | – |
 
-| 21. | 398839 |  | 9_Földügyi kompenzációs feladatok | A mezőgazdasági földeken fennálló haszonélvezeti jogok ex lege megszüntetése miatt indult, C-235/17. számú Európai Bizottság kontra Magyarország ügyben az Európai Unió Bírósága által hozott ítélet végrehajtásával összefüggő – a kompenzációval kapcsolatban felmerülő – feladatok finanszírozása. | 1. jogi személy 2. jogi személyiséggel nem rendelkező szervezet 3. természetes személy | – | – | 1. egy összegben vagy 2. részletekben, 2.1. időarányosan vagy 2.2. teljesítés-arányosan történő kifizetéssel | – | – | Nemzeti Földügyi Központ | – | – |
+| 21. | 398839 |  | 9_Földügyi kompenzációs feladatok | A mezőgazdasági földeken fennálló haszonélvezeti jogok ex lege megszüntetése miatt indult, C-235/17. számú Európai Bizottság kontra Magyarország ügyben az Európai Unió Bírósága által hozott ítélet végrehajtásával összefüggő – a kompenzációval kapcsolatban felmerülő – feladatok finanszírozása. | 1. jogi személy 2. jogi személyiséggel nem rendelkező szervezet 3. természetes személy | – | – | 1. egy összegben vagy 2. részletekben, 2.1. időarányosan vagy 2.2. teljesítés-arányosan történő kifizetéssel | – | – | – | – | – |
 
 3. melléklet a 14/2021. (III. 25.) AM rendelethez[^38]
 
