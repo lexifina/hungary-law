@@ -1,1 +1,3 @@
-20. § Hatályát veszti a 22/2024. (IV. 9.) AM rendelet 6. §-a.
+20. §[^21]
+
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

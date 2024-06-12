@@ -1,1 +1,3 @@
-7. § Hatályát veszti a 63/2012. (VII. 2.) VM rendelet 1. melléklet 15. pont 15.1.1. alpontjában az „– erdőterv határozat kiadása az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 113. § (13) bekezdése alapján kérelemre induló eljárásban;” szövegrész.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

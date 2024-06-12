@@ -1,3 +1,3 @@
-16. § A 22/2024. (IV. 9.) AM rendelet 8. § (11) bekezdése helyébe a következő rendelkezés lép:
+16. §[^17]
 
-„(11) A változásvezetési bejelentést a Kincstár bírálja el.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-18. § A 22/2024. (IV. 9.) AM rendelet 10. §-a helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„10. § (1) A MePAR adatbázisát a Kincstár hozza létre.
-
-(2) A MePAR üzemeltetését, ideértve a felújítását és a változások átvezetését, a Kincstár látja el.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

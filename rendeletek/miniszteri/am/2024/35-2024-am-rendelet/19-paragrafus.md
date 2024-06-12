@@ -1,1 +1,3 @@
-19. § A 22/2024. (IV. 9.) AM rendelet 7. § (4) bekezdésében és 11. §-ában a „földmérési és térinformatikai államigazgatási szerv” szövegrész helyébe a „Kincstár” szöveg lép.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-14. § Hatályát veszti a 26/2021. (VII. 29.) AM rendelet 15. § (8) bekezdés c) pontja.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
