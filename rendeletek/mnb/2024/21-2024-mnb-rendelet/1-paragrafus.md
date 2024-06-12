@@ -1,1 +1,3 @@
-1. § Az egyes pénzügyi szervezetek panaszkezelésének formájára és módjára vonatkozó részletes szabályokról szóló 66/2021. (XII. 20.) MNB rendelet 1. melléklet IV. 2. pontjában az „az egymillió” szövegrész helyébe az „a kétmillió” szöveg lép.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
