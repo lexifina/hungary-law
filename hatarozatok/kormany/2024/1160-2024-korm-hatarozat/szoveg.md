@@ -22,4 +22,6 @@
 
 6. Ez a határozat a közzétételét követő napon lép hatályba.
 
-7. Hatályát veszti a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat 2. mellékletében foglalt táblázat 222. sora.
+7.[^1]
+
+[^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
