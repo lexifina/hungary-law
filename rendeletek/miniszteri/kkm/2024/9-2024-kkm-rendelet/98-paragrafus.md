@@ -1,1 +1,3 @@
-98. § Hatályát veszti a fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 4/2019. (VI. 14.) KKM rendelet.
+98. §[^1]
+
+[^1]: A 98. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
