@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-51-20-3
 | 2017-10-30 | 1997-51-20-3D.18 | 28/2017. (X. 25.) EMMI rendelet |
 | 2022-01-01 | 1997-51-20-3D.19 | 51/2021. (XII. 10.) EMMI rendelet |
 | 2023-01-01 | 1997-51-20-3D.20 | 23/2015. (IV. 28.) EMMI rendelet |
+| 2024-06-13 | 1997-51-20-3D.21 | 19/2009. (VI. 18.) EüM rendelet |

@@ -66,7 +66,9 @@ Népegészségügyi célú, célzott szűrővizsgálatok
 
 2. 45 és 65 év között népegészségügyi céllal kétévenként az emlő lágyrész röntgenvizsgálatán alapuló emlőszűrés (mammográfia),
 
-3–4.[^49]
+3.[^49] 50 és 70 év közötti életkorban népegészségügyi céllal kétévenként vastag- és végbélszűrés (vastagbélszűrés).
+
+4.[^50]
 
 _______
 
@@ -84,4 +86,5 @@ Nagy kockázat: a 10 éven belül vagy a 60 éves életkorra előrevetítve vár
 [^46]: A 2. számú melléklet – eredeti melléklet II. fejezet – 4. pont f) alpontját a 36/2008. (IX. 23.) EüM rendelet 4. §-a iktatta be.
 [^47]: A melléklet eredeti szövege III. fejezetének megjelölését 3. számú mellékletre változtatta a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének b) és d) pontja.
 [^48]: A 3. számú melléklet 1. pontja a 9/2015. (II. 10.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^49]: A 3. számú melléklet 3–4. pontját a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének a) pontja hatályon kívül helyezte.
+[^49]: A 3. számú melléklet 3. pontját a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 25/2024. (VI. 10.) BM rendelet 1. §-a iktatta be.
+[^50]: A 3. számú melléklet 4. pontját a 19/2009. (VI. 18.) EüM rendelet 13. § (4) bekezdésének a) pontja hatályon kívül helyezte.
