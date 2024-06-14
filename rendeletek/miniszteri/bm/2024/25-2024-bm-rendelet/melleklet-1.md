@@ -1,5 +1,3 @@
-1. melléklet a 25/2024. (VI. 10.) BM rendelethez
+1. melléklet a 25/2024. (VI. 10.) BM rendelethez[^3]
 
-Az R. 3. számú melléklete a következő 3. ponttal egészül ki:
-
-„3. 50 és 70 év közötti életkorban népegészségügyi céllal kétévenként vastag- és végbélszűrés (vastagbélszűrés).”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
