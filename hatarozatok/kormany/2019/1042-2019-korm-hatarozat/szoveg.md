@@ -2,23 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy az ezeréves magyar kultúra a jelen állampolgárainak és a jövő nemzedékeinek művelődése, önkifejezése és nemzeti identitása, valamint Magyarország kulturális fennmaradása szempontjából fundamentális jelentőségű érték, ennél fogva kiteljesítése az állam kiemelt felelőssége;
 
-2.[^1] az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a Lázár Ervin Programot, amely szociális helyzettől és lakóhelytől függetlenül minden, az 1–8. évfolyamon tanuló általános iskolai diák részére tanévenként egyszeri alkalommal ingyenesen biztosítja
-
-a) a színházi, tánc- és cirkuszi előadások,
-
-b) a komolyzenei hangversenyek,
-
-c) a muzeális intézmények,
-
-d) az őshonos állatok bemutatóhelyei,
-
-e) a katonai hagyományőrző bemutatók,
-
-f) az Országház, valamint
-
-g) az „Álmok Álmodói 20” kiállítás
-
-látogatásának élményét.
+2.[^1] az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a Lázár Ervin Programot, amely szociális helyzettől és lakóhelytől függetlenül minden, az 1–8. évfolyamon tanuló általános iskolai diák részére a 2024/2025-ös tanévtől kezdődően, tanévenként egyszeri alkalommal ingyenesen biztosítja a színházi, tánc- és cirkuszművészeti előadások, komolyzenei hangversenyek látogatásának élményét.
 
 3. az 1. pontban meghatározott kultúrstratégiai célhoz kapcsolódóan létrehozza a „Sportlétesítmények a kultúra szolgálatában” programot a hazai sportlétesítmények és a nemzeti kultúra összekapcsolása, ezáltal a magyar történelmi és irodalmi örökséget bemutató nagyprodukciók létrehozása érdekében;
 
@@ -54,4 +38,4 @@ emberi erőforrások minisztere
 
 Határidő: az adott évi központi költségvetés tervezése során
 
-[^1]: A 2. pont az 1012/2022. (I. 24.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1167/2024. (VI. 14.) Korm. határozattal megállapított szöveg.
