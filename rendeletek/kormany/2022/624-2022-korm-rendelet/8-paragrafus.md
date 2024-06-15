@@ -4,13 +4,13 @@
 
 a) a minisztert,
 
-b) az országos környezetvédelmi hatóságot,
+b)[^15]
 
-c)[^9] a területi környezetvédelmi hatóságot és
+c)[^16] a területi környezetvédelmi hatóságot és
 
-d)[^10]
+d)[^17]
 
-e)[^11] a HungaroMet Nonprofit Zrt.-t
+e)[^18] a HungaroMet Nonprofit Zrt.-t
 
 jelöli ki.
 
@@ -18,6 +18,7 @@ jelöli ki.
 
 (3) A környezetvédelmi igazgatási szervként eljáró területi környezetvédelmi hatóság különös illetékességgel a 2. melléklet szerinti esetekben jár el.
 
-[^9]: A 8. § (1) bekezdés c) pontja az 591/2023. (XII. 20.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
-[^10]: A 8. § (1) bekezdés d) pontját az 591/2023. (XII. 20.) Korm. rendelet 29. §-a hatályon kívül helyezte.
-[^11]: A 8. § (1) bekezdés e) pontja az 591/2023. (XII. 20.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^15]: A 8. § (1) bekezdés b) pontját a 119/2024. (VI. 10.) Korm. rendelet 21. § d) pontja hatályon kívül helyezte.
+[^16]: A 8. § (1) bekezdés c) pontja az 591/2023. (XII. 20.) Korm. rendelet 28. § c) pontja szerint módosított szöveg.
+[^17]: A 8. § (1) bekezdés d) pontját az 591/2023. (XII. 20.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^18]: A 8. § (1) bekezdés e) pontja az 591/2023. (XII. 20.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
