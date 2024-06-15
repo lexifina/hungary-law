@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-35-20-2
 | 2023-12-16 | 2017-35-20-2C.16 | 65/2023. (XII. 15.) MNB rendelet |
 | 2024-02-01 | 2017-35-20-2C.15 | 65/2023. (XII. 15.) MNB rendelet |
 | 2024-04-01 | 2017-35-20-2C.17 | 65/2023. (XII. 15.) MNB rendelet |
+| 2024-06-15 | 2017-35-20-2C.20 | 23/2024. (VI. 14.) MNB rendelet |

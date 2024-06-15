@@ -6,8 +6,8 @@
 
 (2) Az átutalási megbízást a fizető fél a fizetési számláját vezető pénzforgalmi szolgáltatóhoz közvetlenül vagy fizetés-kezdeményezési szolgáltatón keresztül nyújtja be.
 
-(3)[^38] A számlavezető pénzforgalmi szolgáltatóval történt megállapodás alapján az átutalási megbízás – az azonnali átutalási megbízás kivételével – a pénzforgalmi szolgáltatóhoz való beérkezés napjánál későbbi terhelési nap feltüntetésével is benyújtható.
+(3)[^39] A számlavezető pénzforgalmi szolgáltatóval történt megállapodás alapján az átutalási megbízás – az azonnali átutalási megbízás kivételével – a pénzforgalmi szolgáltatóhoz való beérkezés napjánál későbbi terhelési nap feltüntetésével is benyújtható.
 
 (4) Ha a terhelési napként meghatározott nap nem munkanapra esik vagy az adott hónapban nincs olyan nap, akkor az azt követő munkanapot kell terhelési napnak tekinteni.
 
-[^38]: A 30. § (3) bekezdése a 60. § (3) bekezdésével megállapított szöveg.
+[^39]: A 30. § (3) bekezdése a 60. § (3) bekezdésével megállapított szöveg.

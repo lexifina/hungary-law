@@ -1,4 +1,4 @@
-35/A. §[^41] (1) A fizető fél pénzforgalmi szolgáltatója legkésőbb az azonnali átutalási megbízásnak minősülő fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül eljuttatja a megbízás adattartalmát a kedvezményezett pénzforgalmi szolgáltatójához.
+35/A. §[^42] (1) A fizető fél pénzforgalmi szolgáltatója legkésőbb az azonnali átutalási megbízásnak minősülő fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül eljuttatja a megbízás adattartalmát a kedvezményezett pénzforgalmi szolgáltatójához.
 
 (2) Ha az azonnali átutalási megbízáshoz kapcsolódóan azonnali átutalás kiegészítő adata is megadásra került, a pénzforgalmi szolgáltató a fizetési megbízás teljes adattartalmával együtt ezen adatot is továbbítja a fizetési művelet teljesítésében közreműködő többi pénzforgalmi szolgáltató részére.
 
@@ -22,4 +22,4 @@
 
 (12) Az azonnali átutalási szolgáltatást nyújtó pénzforgalmi szolgáltató az azonnali átutalási megbízás teljesítéséhez kapcsolódó szolgáltatás nyújtásakor az 5. mellékletben meghatározott egységes arculati elemet alkalmazza.
 
-[^41]: A 35/A. §-t a 65/2023. (XII. 15.) MNB rendelet 5. §-a iktatta be.
+[^42]: A 35/A. §-t a 65/2023. (XII. 15.) MNB rendelet 5. §-a iktatta be.
