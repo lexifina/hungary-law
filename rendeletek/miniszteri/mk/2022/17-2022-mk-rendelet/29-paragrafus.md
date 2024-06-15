@@ -1,4 +1,4 @@
-## 16.[^59] Helyi infrastruktúrára irányuló támogatás
+## 16.[^98] Helyi infrastruktúrára irányuló támogatás
 
 29. § (1) A helyi infrastruktúra kiépítéséhez vagy korszerűsítéséhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) olyan infrastrukturális fejlesztéshez nyújtható, amely helyi szinten hozzájárul a gazdasági és fogyasztói környezet javításához, valamint az ipari bázis korszerűsítéséhez és fejlesztéséhez.
 
@@ -20,4 +20,4 @@ b) visszafizetési mechanizmus alkalmazásával utólag
 
 kell levonni az elszámolható költségekből.
 
-[^59]: A 16. alcím (29. §) a 30/2023. (XII. 27.) MK rendelet 10. §-ával megállapított szöveg.
+[^98]: A 16. alcím (29. §) a 30/2023. (XII. 27.) MK rendelet 10. §-ával megállapított szöveg.

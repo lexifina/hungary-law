@@ -1,4 +1,4 @@
-## 12.[^54] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+## 12.[^91] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 18. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)
 
@@ -16,4 +16,4 @@ nyújtható.
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapatok használják, az esetükben alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^54]: A 12. alcím (18-20/A. §) a 30/2023. (XII. 27.) MK rendelet 7. §-ával megállapított szöveg.
+[^91]: A 12. alcím (18-20/A. §) a 30/2023. (XII. 27.) MK rendelet 7. §-ával megállapított szöveg.
