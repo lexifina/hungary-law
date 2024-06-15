@@ -1,4 +1,4 @@
-2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^102]
+2. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^103]
 
 Módszertan a külsőköltségdíj mértékének megállapításához
 
@@ -108,7 +108,7 @@ Ebben a pontban meghatározásra kerülnek a külsőköltségdíj referenciaért
 
 | Az útdíjköteles gépjárművekre vonatkozó külsőköltségdíjak referenciaértékei (eurocent/járműkilométer) |
 
-| Járműosztály | Környezetvédelmi besorolás | Külvárosi utak[^103] | Településeket összekötő utak[^104] |
+| Járműosztály | Környezetvédelmi besorolás | Külvárosi utak[^104] | Településeket összekötő utak[^105] |
 
 | Két tengellyel rendelkező útdíjköteles gépjárművek | Euro 0 | 18,6 | 9,9 |
 
@@ -222,6 +222,6 @@ Ebben a pontban meghatározásra kerülnek a szén-dioxid-kibocsátások költs�
 
 | kibocsátásmentes jármű | 0 |
 
-[^102]: A 2. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 1. § (8) bekezdése iktatta be.
-[^103]: A „külvárosi utak” a 150 és 900 fő/km2 népsűrűségű területeket jelöli (300 fő/km2 medián népsűrűség).
-[^104]: A „településeket összekötő utak” a 150 fő/km2-nél alacsonyabb népsűrűségű területeket jelöli.
+[^103]: A 2. mellékletet a 336/2023. (VII. 24.) Korm. rendelet 1. § (8) bekezdése iktatta be.
+[^104]: A „külvárosi utak” a 150 és 900 fő/km2 népsűrűségű területeket jelöli (300 fő/km2 medián népsűrűség).
+[^105]: A „településeket összekötő utak” a 150 fő/km2-nél alacsonyabb népsűrűségű területeket jelöli.
