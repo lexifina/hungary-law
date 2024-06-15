@@ -1,0 +1,1 @@
+1. § A pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet 23. § a) pontjában a „legkésőbb a fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül” szövegrész helyébe az „a fizetési megbízás 7. § (4) bekezdése szerinti átvételét követően haladéktalanul” szöveg lép.
