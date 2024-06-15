@@ -1,3 +1,3 @@
-3. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^22]
+3. melléklet a 65/2023. (XII. 15.) MNB rendelethez[^23]
 
-[^22]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 3. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
