@@ -1,5 +1,3 @@
-## látja el.
-
 2. § (1)[^2] A 648/2004/EK rendelet biológiai bonthatóságra vonatkozó előírásainak megsértése esetén a közösségi rendelet hatálya alá tartozó vizsgálati módszerekre akkreditált laboratóriumok bevonásával a környezetvédelmi hatóság jár el.
 
 (2)[^3] Ha az (1) bekezdés szerinti ellenőrzés eredménye alapján a mosó- és tisztítószer a 648/2004/EK rendeletben megfogalmazott biológiai bonthatóságra vonatkozó követelményeket nem elégíti ki, a környezetvédelmi hatóság határidő kitűzésével felszólítja a gyártót a hiányosság megszüntetésére, és a hiányosság megszüntetéséig a forgalmazást megtiltja.
