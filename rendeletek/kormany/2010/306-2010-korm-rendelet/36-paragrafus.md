@@ -22,7 +22,7 @@ e)[^123] a nem gazdálkodó szervezet által működtetett diffúz légszennyez�
 
 (4)[^125]
 
-(5)[^126] Az országos környezetvédelmi hatóság jár el az átmeneti nemzeti tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben.
+(5)[^126] A környezetvédelemért felelős miniszter jár el az átmeneti nemzeti tervben foglalt, a tüzelőberendezés legnagyobb megengedett kibocsátási mennyiségének meghatározásával kapcsolatos levegőtisztaság-védelmi hatósági ügyben.
 
 [^119]: A 36. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 34. §-a, a 379/2016. (XII. 2.) Korm. rendelet 163. § a) pontja szerint módosított szöveg.
 [^120]: A 36. § (2) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 76. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 163. § h) pontjával megállapított szöveg.
@@ -31,4 +31,4 @@ e)[^123] a nem gazdálkodó szervezet által működtetett diffúz légszennyez�
 [^123]: A 36. § (2) bekezdés e) pontja a 292/2015. (X. 8.) Korm. rendelet 38. §-a szerint módosított szöveg.
 [^124]: A 36. § (3) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^125]: A 36. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 159. § (1) bekezdése iktatta be, hatályon kívül helyezet az 52/2017. (III. 20.) Korm. rendelet 2. § (2) bekezdése.
-[^126]: A 36. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 26. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 163. § i) pontja, a 360/2019. (XII. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^126]: A 36. § (5) bekezdését a 292/2015. (X. 8.) Korm. rendelet 26. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 83. § (2) bekezdés b) pontja, a 119/2024. (VI. 10.) Korm. rendelet 5. §-a szerint módosított szöveg.
