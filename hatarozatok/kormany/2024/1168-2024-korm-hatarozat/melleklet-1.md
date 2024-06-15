@@ -16,6 +16,8 @@
 
 | Határidő: | 2024. június 21. |
 
-## 2. A Magyarország projektjavaslatainak az Európai Hálózatfinanszírozási Eszköz 2022. évi CEF2 második körös pályázati kiírása keretében támogatott CEF projektek hazai társfinanszírozásának biztosításáról szóló 1435/2023. (X. 9.) Korm. határozat 1. melléklete a 2. melléklet szerint módosul.
+## 2.[^1]
 
 1. melléklet az 1168/2024. (VI. 14.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
