@@ -10,7 +10,7 @@
 
 | 5. | Felszíni sajátos építmények, így különösen utak, járdák, forgalomtechnika, zöldterületek építési munkái | Közúthatósági engedélyek | Építmény helye szerint illetékes fővárosi és vármegyei kormányhivatal[^16] |
 
-| 6. | Valamennyi, megvalósításhoz szükséges építmény | Környezetvédelmi hatósági eljárások, engedélyek | Pest Vármegyei Kormányhivatal[^17] |
+| 6. | Valamennyi, megvalósításhoz szükséges építmény | Környezetvédelmi hatósági eljárások, engedélyek | környezetvédelemért felelős miniszter[^17] |
 
 | 7. | Valamennyi, megvalósításhoz szükséges építmény | Természetvédelmi hatósági eljárások, engedélyek | Pest Vármegyei Kormányhivatal[^18] |
 
@@ -20,6 +20,6 @@
 
 [^15]: Az 1. számú mellékletben foglalt táblázat C:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^16]: Az 1. számú mellékletben foglalt táblázat C:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^17]: Az 1. számú mellékletben foglalt táblázat C:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^17]: Az 1. számú mellékletben foglalt táblázat C:6 mezője a 119/2024. (VI. 10.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg.
 [^18]: Az 1. számú mellékletben foglalt táblázat C:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^19]: A 2. számú mellékletet a 458/2017. (XII. 28.) Korm. rendelet 13. § f) pontja hatályon kívül helyezte.
