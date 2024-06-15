@@ -20,7 +20,7 @@ b) az a) pontban meghatározott költségvetési szerv irányítása vagy felüg
 
 c) az a) és b) pontba tartozó szervezet által alapított vagy alapítói joggyakorlása alatt álló alapítvány és közalapítvány;
 
-d) az a)–c) pontba nem tartozó olyan szervezet, amelynek javára a képzési beszerzési eljárást az a)–c) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése alapján vagy jogszabályon alapuló megállapodás értelmében, valamint az olyan szervezet, amely az a)–c) pontba tartozó szervezet javára, illetve az a)–c) pontba tartozó szervezet foglalkoztatottjai vagy a szervezettel munkavégzésre irányuló jogviszonyban nem álló külsős személyek, illetve szervezetek vonatkozásában megvalósítandó képzési, oktatási feladat tekintetében bonyolítja le a képzési beszerzési eljárást;
+d)[^1] az a)–c) pontba nem tartozó olyan szervezet, amelynek javára a képzési beszerzési eljárást az a)–c) pontba tartozó szervezet bonyolítja le jogszabály kötelező rendelkezése alapján vagy jogszabályon alapuló megállapodás értelmében, valamint az olyan szervezet, amely az a)–c) pontba tartozó szervezet javára, illetve az a)–c) pontba tartozó szervezet foglalkoztatottjai vonatkozásában megvalósítandó képzési, oktatási feladat tekintetében bonyolítja le a képzési beszerzési eljárást;
 
 e) az a)–c) pontba nem tartozó olyan szervezet, amely az e rendelet szerinti
 
@@ -31,3 +31,5 @@ eb) egy vagy több képzési beszerzés vonatkozásában a
 csatlakozást önként vállalja (a továbbiakban: önkéntes csatlakozás).
 
 (3) A központosított közbeszerzési és beszerzési rendszerhez való önkéntes csatlakozásra a Központi beszerző szerv engedélyével akkor van lehetőség, ha az nem veszélyezteti a (2) bekezdés a)–d) pontja szerinti szervezetekkel kapcsolatos feladatellátást. A Központi beszerző szerv az önkéntesen csatlakozni kívánó szervezet központosított közbeszerzési és beszerzési rendszerbe való belépését megtagadhatja vagy feltételhez kötheti.
+
+[^1]: Az 1. § (2) bekezdés d) pontja a 126/2024. (VI. 14.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

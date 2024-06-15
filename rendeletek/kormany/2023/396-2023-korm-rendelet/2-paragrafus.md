@@ -8,7 +8,7 @@
 
 a) azon, e rendelet hatálya alá is tartozó, a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet (a továbbiakban: DKÜ rendelet), illetve a kormányzati informatikai beszerzéssel érintett alkalmazások, informatikai eszközök és szoftverek köréről szóló 2/2019. (VII. 12.) MK rendelet hatálya alá tartozó beszerzési tárgy vagy a beszerzés tárgyával – műszaki vagy gazdasági szempontból – funkcionális egységet képező dolog tekintetében, amely esetében az eljáró központi beszerző szerv meghatározása kétséges, feltéve, hogy a Központi beszerző szerv az e rendelet szerinti eljárási cselekmények megtétele, illetve döntések meghozatala előtt a DKÜ irányába egyeztetést kezdeményezett, és az előzetes egyeztetések eredményeképpen erről szóló döntés született. Az ilyen beszerzést az érintett szervezet a DKÜ rendelet szerinti portálon kezdeményezi;
 
-b) a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet hatálya alá tartozó beszerzésekre;
+b)[^3] a központi beszerző szerv kijelöléséről, a védelmi és biztonsági feladatokkal összefüggő beszerzések körének meghatározásáról és a védelmi és biztonsági feladatokkal összefüggő beszerzések központosított rendszeréről szóló 329/2019. (XII. 20.) Korm. rendelet 1. § (6) bekezdés f) pontja szerinti beszerzésekre;
 
 c) nemzetközi szervezet által, illetve nemzetközi szerződés vagy megállapodás alapján nyújtott képzésekre.
 
@@ -18,13 +18,13 @@ c) nemzetközi szervezet által, illetve nemzetközi szerződés vagy megállapo
 
 (7) E rendelet hatálya nem terjed ki a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 1/B. §-a szerinti képzési és továbbképzési feladatokra.
 
-(8) E rendelet hatálya nem terjed ki a felelős akkreditált közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló 217/2017. (VII. 31.) Korm. rendelet szerinti közbeszerzési szakmai képzésre.
+(8)[^4] E rendelet hatálya nem terjed ki az állami közbeszerzési szaktanácsadók kötelező közbeszerzési szakmai képzéséről szóló 479/2023. (X. 31.) Korm. rendelet szerinti közbeszerzési szakmai képzésre.
 
 (9) E rendelet hatálya nem terjed ki a minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 492/2015. (XII. 30.) Korm. rendelet szerinti minősített beszerzésekre, valamint az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 225/2016. (VII. 29.) Korm. rendelet szerinti beszerzésekre.
 
 (10) E rendelet hatálya – a 20. § és a 22. § (2) bekezdése kivételével – nem terjed ki a közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaságokra.
 
-(11)[^2] E rendelet hatálya nem terjed ki
+(11)[^5] E rendelet hatálya nem terjed ki
 
 a) a kormányzati igazgatási szervek kormánytisztviselőinek kötelező képzéséről, továbbképzéséről, átképzéséről, valamint a közigazgatási vezetőképzéséről szóló 338/2019. (XII. 23.) Korm. rendelet 14/A. §-a szerinti, valamint
 
@@ -32,4 +32,32 @@ b) a fővárosi és vármegyei kormányhivatalokról, valamint a járási (főv�
 
 képzésre.
 
-[^2]: A 2. § (11) bekezdését a 29/2024. (II. 22.) Korm. rendelet 8. §-a iktatta be.
+(12)[^6] E rendelet hatálya nem terjed ki a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény szerinti közfeladatot ellátó közérdekű vagyonkezelő alapítványokra, a tulajdonukban álló gazdálkodó szervezetekre, valamint a tulajdonukban álló, illetve fenntartói joggyakorlásuk alá tartozó intézményekre.
+
+(13)[^7] E rendelet hatálya nem terjed ki
+
+a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény 4. § 21. pontja és a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 131. § (4) bekezdése szerinti;
+
+b) a szakképzésről szóló 2019. évi LXXX. törvény 40. § (2) bekezdése szerinti;
+
+c) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 25. § (3) bekezdése szerinti
+
+óraadásról, illetve óraadó oktatói feladat ellátásáról szóló, visszterhes megbízási szerződés megkötését célzó beszerzésekre.
+
+(14)[^8] E rendelet hatálya nem terjed ki a szakképzésről szóló 2019. évi LXXX. törvény 50. §-a, illetve a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 142. és 143. §-a szerinti oktatói továbbképzésre.
+
+(15)[^9] E rendelet hatálya nem terjed ki a Nemzeti Adó- és Vámhivatal továbbképzési rendszeréről és a foglalkoztatottak továbbképzési kötelezettségéről szóló 4/2023. (VII. 24.) PM rendelet 2. § 1. pontja szerinti képzések megvalósításához kapcsolódó oktatói és tananyagfejlesztési feladat ellátására szóló, visszterhes megbízási szerződés megkötését célzó beszerzésekre.
+
+(16)[^10] E rendelet hatálya nem terjed ki a Digitális Megújulás Operatív Program Plusz keretében finanszírozott projektek keretében megvalósuló képzési beszerzésekre.
+
+(17)[^11] E rendelet hatálya nem terjed ki a Balassi Bálint-ösztöndíjprogram, valamint a Diaszpóra Felsőoktatási Ösztöndíjprogram keretében a Külgazdasági és Külügyminisztérium által nyújtott képzések és tananyagfejlesztés megvalósítását célzó beszerzésekre.
+
+[^3]: A 2. § (4) bekezdés b) pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (8) bekezdése a 126/2024. (VI. 14.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (11) bekezdését a 29/2024. (II. 22.) Korm. rendelet 8. §-a iktatta be.
+[^6]: A 2. § (12) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^7]: A 2. § (13) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § (14) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § (15) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^10]: A 2. § (16) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 2. § (17) bekezdését a 126/2024. (VI. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.

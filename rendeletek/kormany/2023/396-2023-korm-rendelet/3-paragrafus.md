@@ -12,13 +12,13 @@
 
 6. járulékos beszerzési szolgáltatás: a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti járulékos közbeszerzési szolgáltatás, illetve az e rendelet szerinti egyéb beszerzési eljárás lefolytatásához nyújtott támogatási tevékenységek összessége;
 
-7. katonai képzés: honvédelmi szervezetek vagy nemzetközi szervezetek által nyújtott azon hazai és nemzetközi képzés, amely speciális ismeretanyag elsajátítására irányuló, szolgálati beosztás ellátásához szükséges képzési formákat foglal magába, ideértve különösen az előmenetelhez vagy nemzetközi feladat ellátásához kapcsolódó idegen nyelvi, szaknyelvi felkészítéseken, tanfolyamokon és a kiképzések keretében megvalósuló, valamint a jogszabályi rendelkezésen vagy szerződéses jogviszonyon alapuló ismeretek átadására irányuló tevékenységet is;
+7.[^12] katonai képzés: a honvédelmi szervezetek javára nyújtott azon hazai és nemzetközi képzés, amely speciális ismeretanyag elsajátítására irányuló, szolgálati beosztás ellátásához szükséges képzési formákat foglal magába, ideértve különösen az előmenetelhez vagy nemzetközi feladat ellátásához kapcsolódó idegen nyelvi, szaknyelvi felkészítéseken, tanfolyamokon és a kiképzések keretében megvalósuló, valamint a jogszabályi rendelkezésen vagy szerződéses jogviszonyon alapuló ismeretek átadására irányuló tevékenységet is;
 
-8. képzési beszerzés: katonai képzésnek nem minősülő képzések – ideértve különösen a felnőttképzéseket –, illetve oktatások, továbbá a képzésekhez kapcsolódó oktatási tananyag- vagy tesztfejlesztések visszterhes beszerzése;
+8.[^13] képzési beszerzés: képzési, oktatási feladat visszterhes beszerzése;
 
 9. képzési beszerzési eljárás: képzési beszerzés megvalósítását célzó, a Kbt. hatálya alá nem tartozó beszerzési és a Kbt. hatálya alá tartozó közbeszerzési eljárás;
 
-10. képzési, oktatási feladat: az érintett szervezet által bármely jogviszony keretében foglalkoztatottak vagy a szervezettel munkavégzésre irányuló jogviszonyban nem álló külsős személyek, illetve szervezetek számára bármely forrásból végrehajtott képzések – ideértve különösen a felnőttképzéseket –, illetve oktatások, továbbá a képzésekhez kapcsolódó oktatási tananyag- vagy tesztfejlesztések megvalósítására irányuló feladat, ideértve különösen az 1. mellékletben meghatározott feladatot;
+10.[^14] képzési, oktatási feladat: az érintett szervezet által bármely jogviszony keretében foglalkoztatottak vagy a szervezettel munkavégzésre irányuló jogviszonyban nem álló külsős személyek, illetve szervezetek számára bármely forrásból végrehajtott, katonai képzésnek nem minősülő képzések – ideértve különösen a felnőttképzéseket –, illetve oktatások, továbbá a képzésekhez kapcsolódó oktatási tananyag- vagy tesztfejlesztések megvalósítására irányuló feladat, ideértve különösen az 1. mellékletben meghatározott feladatot;
 
 11. központi beszerző szerv: a Kbt. szerinti, illetve – a Kbt.-től az ilyen eljárások sajátosságai miatt eltérő – e rendelet szerint szabályozott központosított eljárások során e rendelet szerint ajánlatkérésre feljogosított szervezet;
 
@@ -27,3 +27,7 @@
 13. rendkívüli beszerzési igény: az éves képzési tervben nem szereplő, előre nem tervezett beszerzési igény;
 
 14. személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet 3. §-a szerinti szervezet.
+
+[^12]: A 3. § 7. pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^13]: A 3. § 8. pontja a 126/2024. (VI. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^14]: A 3. § 10. pontja a 126/2024. (VI. 14.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
