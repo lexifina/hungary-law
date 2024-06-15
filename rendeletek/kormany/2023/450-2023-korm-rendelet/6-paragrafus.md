@@ -10,6 +10,17 @@
 
 (5) Ha az (1) bekezdés szerinti regisztráció során a koncessziós társaság megállapítja, hogy a termék speciális jellemzői miatt automata visszaváltó berendezéssel nem visszaváltható, akkor arra e rendelet kötelezően visszaváltási díjas termékekre vonatkozó szabályai e §-ban foglaltak kivételével nem alkalmazandók.
 
-(6)[^4] Ha a kötelezően visszaváltási díjas termék regisztrációjával kapcsolatos költségek mértéke a gyártó számára aránytalan terhet jelentene a termék számvitelről szóló törvény szerinti bekerülési értékéhez viszonyítva, a gyártó részletes indokolással ellátott írásbeli kérelme alapján a koncessziós társaság a regisztrációtól eltekinthet, azzal, hogy ez esetben a termékre az e rendelet kötelezően visszaváltási díjas termékre vonatkozó szabályai nem alkalmazandók.
+(6)[^4] Azon kötelezően visszaváltási díjas termék esetében, amelynél
 
-[^4]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be.
+a) az üres vagy kiürült palack regisztrációs célú beszerzése nem vezetett eredményre,
+
+b) a beszerzés körülményeire figyelemmel a palack a benne lévő italterméktől az állag sérelme nélkül nem választható el, és
+
+c) a végső fogyasztói csomagolással ellátott italtermék számvitelről szóló törvény szerinti bekerülési értéke eléri vagy meghaladja az e rendelet szerinti kötelezően visszaváltási díjas, nem újrahasználható termék után fizetendő visszaváltási díj ötszázszorosát,
+
+az e rendelet kötelezően visszaváltási díjas termékre vonatkozó szabályai nem alkalmazandók.
+
+(7)[^5] A (6) bekezdésben foglalt feltételek fennállásáról a gyártó a kiterjesztett gyártói felelősségi rendszer működésének részletes szabályairól szóló 80/2023. (III. 14.) Korm. rendelet 27. §-a szerinti adatszolgáltatási kötelezettségének teljesítésével egyidejűleg nyilatkozik.
+
+[^4]: A 6. § (6) bekezdését a 674/2023. (XII. 29.) Korm. rendelet 28. §-a iktatta be, szövege a 124/2024. (VI. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^5]: A 6. § (7) bekezdését a 124/2024. (VI. 14.) Korm. rendelet 3. §-a iktatta be.

@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-450-20-
 | 2023-11-01 | 2023-450-20-22.1 | 450/2023. (X. 4.) Korm. rendelet |
 | 2024-01-01 | 2023-450-20-22.3 | 674/2023. (XII. 29.) Korm. rendelet |
 | 2024-01-02 | 2023-450-20-22.4 | 2010. évi CXXX. törvény |
+| 2024-06-15 | 2023-450-20-22.5 | 124/2024. (VI. 14.) Korm. rendelet |
