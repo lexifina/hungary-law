@@ -2,7 +2,7 @@
 
 A körforgásos termékek díjkódjai
 
-1.[^91] Csomagolás díjkódok
+1.[^94] Csomagolás díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -60,7 +60,7 @@ A körforgásos termékek díjkódjai
 
 | 27 |  |  | 112111 | 112141 |  |  | P01 |
 
-| 28 | 1122 | papír (PAP) | 112210 | 112220 | 112240[^92] | 112250[^93] | P01 |
+| 28 | 1122 | papír (PAP) | 112210 | 112220 | 112240[^95] | 112250[^96] | P01 |
 
 | 29 |  |  | 112211 | 112241 |  |  | P01 |
 
@@ -188,7 +188,7 @@ A körforgásos termékek díjkódjai
 
 | 91 |  |  | 119911 | 119941 |  |  | X01 |
 
-2.[^94] Egyszer használatos műanyagtermék díjkódok
+2.[^97] Egyszer használatos műanyagtermék díjkódok
 
 |  | A | B | C | D | E | F | G | H | I | J | K | L | M |
 
@@ -288,17 +288,17 @@ A körforgásos termékek díjkódjai
 
 | 7. | 1340 | nagygép (amelyeknek bármely külső mérete meghaladja az 50 cm-t), a nagyméretű világítótest és a fotovoltaikus panel kivételével | 134010 | 134020 | E04 |
 
-| 8.[^95] | 1341 | nagyméretű világítótest (amelynek bármely külső mérete meghaladja az 50 cm-t) | 134110 | 134120 | E04 |
+| 8.[^98] | 1341 | nagyméretű világítótest (amelynek bármely külső mérete meghaladja az 50 cm-t) | 134110 | 134120 | E04 |
 
 | 9. | 1342 | fotovoltaikus panel | 134210 | 134220 | E05 |
 
 | 10. | 1350 | kisgép (amelynek egyik külső mérete sem haladja meg az 50 cm-t), a kisméretű világítótest kivételével | 135010 | 135020 | E06 |
 
-| 11.[^96] | 1351 | kisméretű világítótest (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 135110 | 135120 | E06 |
+| 11.[^99] | 1351 | kisméretű világítótest (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 135110 | 135120 | E06 |
 
 | 12. | 1360 | kisméretű számítástechnikai és távközlési berendezés (amelynek egyik külső mérete sem haladja meg az 50 cm-t) | 136010 | 136020 | E06 |
 
-4.[^97] Elem és akkumulátor díjkódok
+4.[^100] Elem és akkumulátor díjkódok
 
 |  | A | B | C | D | E | F | G |
 
@@ -310,7 +310,7 @@ A körforgásos termékek díjkódjai
 
 | 4. | 1450 | gépjármű elem, akkumulátor | 145010 | 145020 | 145030 | 145040 | A03 |
 
-5.[^98] Gépjármű díjkódok
+5.[^101] Gépjármű díjkódok
 
 |  | A | B | C | D | E |
 
@@ -358,7 +358,7 @@ A körforgásos termékek díjkódjai
 
 | 2. | 1910 | sütőolaj és -zsír | 191010 | 192020 | Z01 |
 
-10.[^99] Textil díjkódok
+10.[^102] Textil díjkódok
 
 |  | A | B | C | D | E |
 
@@ -370,7 +370,7 @@ A körforgásos termékek díjkódjai
 
 | 4 | 2031 | lábbeli, lábszárvédő és hasonló áru (kivéve: lábbelirész) | 203110 | 203120 | T01 |
 
-11.[^100] Bútor fából díjkód
+11.[^103] Bútor fából díjkód
 
 |  | A | B | C | D | E |
 
@@ -378,13 +378,13 @@ A körforgásos termékek díjkódjai
 
 | 2. | 2100 | bútor fából | 210010 | 210020 | B01 |
 
-[^91]: A 2. melléklet 1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. [A 2. melléklet 1. pontjában foglalt táblázat E:15 és F:15 mezőjében a 435/2023. (IX. 21.) Korm. rendelet 2. melléklet 4. pontjával elrendelt módosítás nem vezethető át.]
-[^92]: A 2. melléklet 1. pontjában foglalt táblázat E:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 9. pontjával megállapított szöveg.
-[^93]: A 2. melléklet 1. pontjában foglalt táblázat F:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 10. pontjával megállapított szöveg.
-[^94]: A 2. melléklet 2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^95]: A 2. melléklet 3. pontjában foglalt táblázat 8. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^96]: A 2. melléklet 3. pontjában foglalt táblázat 11. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
-[^97]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
-[^98]: A 2. melléklet 5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^99]: A 2. melléklet 10. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^100]: A 2. melléklet 11. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^94]: A 2. melléklet 1. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg. [A 2. melléklet 1. pontjában foglalt táblázat E:15 és F:15 mezőjében a 435/2023. (IX. 21.) Korm. rendelet 2. melléklet 4. pontjával elrendelt módosítás nem vezethető át.]
+[^95]: A 2. melléklet 1. pontjában foglalt táblázat E:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 9. pontjával megállapított szöveg.
+[^96]: A 2. melléklet 1. pontjában foglalt táblázat F:28 mezője a 674/2023. (XII. 29.) Korm. rendelet 23. § 10. pontjával megállapított szöveg.
+[^97]: A 2. melléklet 2. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^98]: A 2. melléklet 3. pontjában foglalt táblázat 8. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^99]: A 2. melléklet 3. pontjában foglalt táblázat 11. sora a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^100]: A 2. melléklet 4. pontja a 276/2023. (VI. 29.) Korm. rendelet 69. § (1) bekezdés b) pontjával megállapított szöveg.
+[^101]: A 2. melléklet 5. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^102]: A 2. melléklet 10. pontja a 435/2023. (IX. 21.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^103]: A 2. melléklet 11. pontja a 674/2023. (XII. 29.) Korm. rendelet 22. § (2) bekezdésével megállapított szöveg.
