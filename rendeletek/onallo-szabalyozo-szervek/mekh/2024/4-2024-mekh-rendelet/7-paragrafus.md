@@ -1,0 +1,1 @@
+7. § Az induló rendszerhasználati díjak meghatározását megelőző eszköz- és költség-felülvizsgálat és az indokolt költségek meghatározása során alkalmazott módszerek leírását a Hivatal által a honlapján közzétett, a VET 143. § (3) bekezdés a) pontja szerinti módszertani útmutató tartalmazza.
