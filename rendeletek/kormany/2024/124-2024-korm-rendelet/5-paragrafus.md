@@ -1,0 +1,1 @@
+5. § A 450/2023. (X. 4.) Korm. rendelet 41/A. §-ában a „2023. december 31-ig” szövegrész helyébe a „2024. június 30-ig” szöveg és a „2023. december 31. napjáig” szövegrész helyébe a „2024. június 30. napjáig” szöveg lép.
