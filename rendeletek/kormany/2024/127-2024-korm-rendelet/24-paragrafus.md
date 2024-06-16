@@ -1,1 +1,3 @@
-24. § Hatályát veszti a játékkaszinó-egységek üzemeltetésére vonatkozó koncessziós szerződések megkötésére irányuló ajánlattételi eljárás, illetve koncessziós pályázat kiírásának kiemelt nemzetgazdasági érdekké minősítéséről szóló 496/2020. (XI. 11.) Korm. rendelet.
+24. §[^24]
+
+[^24]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

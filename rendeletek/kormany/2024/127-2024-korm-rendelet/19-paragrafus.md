@@ -1,3 +1,3 @@
-19. §[^18]
+19. §[^19]
 
-[^18]: A 19. § a 25. § (2) bekezdése alapján 2024. június 17-én lép hatályba.
+[^19]: A 19. § a 25. § (2) bekezdése alapján 2024. június 17-én lép hatályba.
