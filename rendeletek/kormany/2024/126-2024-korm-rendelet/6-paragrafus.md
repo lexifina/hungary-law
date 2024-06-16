@@ -1,5 +1,3 @@
-6. § Hatályát veszti a Korm. rendelet
+6. §[^7]
 
-a) 1. § (2) bekezdés d) pontjában a „vagy a szervezettel munkavégzésre irányuló jogviszonyban nem álló külsős személyek, illetve szervezetek” szövegrész;
-
-b) 14. § (5) és (6) bekezdése.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
