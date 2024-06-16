@@ -1,9 +1,3 @@
-21. § Hatályát veszti az R1.
+21. §[^29]
 
-a) 4. § (1) bekezdés a) pontja,
-
-b) 4. § (2)–(5) bekezdése,
-
-c) 5. § (1) bekezdés b) pontja,
-
-d) 8. § (1) bekezdés b) pontja.
+[^29]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

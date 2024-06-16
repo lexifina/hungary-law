@@ -1,12 +1,14 @@
 17. § Az R1.
 
-a) 11. § (1) bekezdésében az „Az országos környezetvédelmi hatóság, valamint a” szövegrész helyébe az „A” szöveg,
+a)[^22]
 
-b)[^12]
+b)[^23]
 
-c) 14. § (1) bekezdés e) pontjában az „az országos környezetvédelmi hatóság” szövegrész helyébe az „a miniszter” szöveg,
+c)[^24]
 
-d)[^13]
+d)[^25]
 
-[^12]: A 17. § b) pontja a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
-[^13]: A 17. § d) pontja a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+[^22]: A 17. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 17. § b) pontja a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+[^24]: A 17. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 17. § d) pontja a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.

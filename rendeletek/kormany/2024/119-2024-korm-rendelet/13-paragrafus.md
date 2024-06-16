@@ -1,7 +1,6 @@
-13. § (1) Az R1. 9. §-a helyébe a következő rendelkezés lép:
+13. § (1)[^14]
 
-„9. § A miniszter ellátja a Magyarország tagságával összefüggő feladatokat a Környezetvédelmi Jog Átültetéséért és Végrehajtásáért tevékenykedő Európai Uniós Hálózat (IMPEL) szervezetében.”
+(2)[^15]
 
-(2)[^8]
-
-[^8]: A 13. § (2) bekezdése a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+[^14]: A 13. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § (2) bekezdése a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
