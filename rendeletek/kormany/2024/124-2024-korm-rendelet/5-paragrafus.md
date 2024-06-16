@@ -1,1 +1,3 @@
-5. § A 450/2023. (X. 4.) Korm. rendelet 41/A. §-ában a „2023. december 31-ig” szövegrész helyébe a „2024. június 30-ig” szöveg és a „2023. december 31. napjáig” szövegrész helyébe a „2024. június 30. napjáig” szöveg lép.
+5. §[^5]
+
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
