@@ -1,3 +1,3 @@
-5. § A Rendelet 22. § (1) bekezdése a következő c) ponttal egészül ki:
+5. §[^6]
 
-[A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás)]
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

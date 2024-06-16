@@ -1,3 +1,3 @@
-10. § A Rendelet 55. §-a a következő (10) bekezdéssel egészül ki:
+10. §[^11]
 
-„(10) E rendeletnek a fejezeti és központi kezelésű előirányzatok kezeléséről és felhasználásáról szóló 17/2022. (XII. 1.) MK rendeletnek a 2024. évi felhasználási szabályok megállapításával és uniós támogatási szabályok változásával összefüggő módosításáról szóló 4/2024. (VI. 14.) MK rendelettel (a továbbiakban: Módr6.) megállapított 2. § (2) bekezdését, 3. § (1) bekezdését, 5. § (1), (2), (3), (7) és (8) bekezdését, 7. § (6) és (7) bekezdését, 9. § (7) bekezdését, 13/C. §-át, 22. § (1) bekezdését, 24. §-át, 26. §-át, 56. §-át, 5., 20. és 21. alcímét, valamint 1. mellékletét a Módr6. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
