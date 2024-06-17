@@ -1,5 +1,5 @@
-## 39.[^277]
+## 39.[^283]
 
 82. §
 
-[^277]: A 39. alcímet (82. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^283]: A 39. alcímet (82. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

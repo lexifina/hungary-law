@@ -1,6 +1,6 @@
 103/U. § (1) A támogatás keretében
 
-1. [^376] a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség –,
+1.[^376] a 103/I. § (3) bekezdés a)–d) pontja szerinti költség, valamint a megvalósíthatósági tanulmány költsége – ideértve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a 103/I. § (3) bekezdés a) és b) pont szerinti költség –,
 
 2. a 103/R. § (1) bekezdés d) pontjához kapcsolódó beruházás keretében felmerülő költség,
 
@@ -18,7 +18,7 @@ d) a beruházás eredményeként a vízfelhasználás a korábbi szinthez képes
 
 5. a 103/R. § (1) bekezdés f) pontja szerinti intézkedés költsége
 
-## számolható el.
+számolható el.
 
 (2) Nem támogatható az (1) bekezdés 3. pontjában felsorolt feltételeket teljesítő, öntözéssel kapcsolatos olyan beruházás, amely olyan felszín alatti vagy felszíni víztestet érint, amely a vonatkozó vízgyűjtő-gazdálkodási tervben vízmennyiséggel kapcsolatos ok miatt „jó” minősítésnél rosszabb minősítésű, valamint olyan felszín alatti vagy felszíni víztestet érintő beruházás, amely az öntözött területek nettó növekedését eredményezi.
 
@@ -30,11 +30,11 @@ b) tározó létrehozására irányuló,
 
 c) felszín alatti vagy felszíni víztestet nem érintő újrahasznosított víz használatára irányuló
 
-## beruházásra.
+beruházásra.
 
 (4) Nem nyújtható támogatás
 
-a) [^377]
+a)[^377]
 
 b) termelési jog, támogatási jogosultság, egynyári növény vásárlása, illetve telepítése finanszírozásához,
 

@@ -1,3 +1,3 @@
-29. §[^231]
+29. §[^237]
 
-[^231]: A 29. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.
+[^237]: A 29. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.

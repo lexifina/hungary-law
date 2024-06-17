@@ -1,3 +1,3 @@
-91. §[^300]
+91. §[^306]
 
-[^300]: A 91. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 23. pontja hatályon kívül helyezte.
+[^306]: A 91. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 23. pontja hatályon kívül helyezte.

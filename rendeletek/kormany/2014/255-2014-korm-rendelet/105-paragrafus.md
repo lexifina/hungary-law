@@ -2,7 +2,7 @@
 
 a)[^383] 17/C. § 7., 11–14. és 24. pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezete, valamint 13., 14., 38., 41., 53., 55. és 56. cikke,
 
-b)[^384] 17/C. § 10. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24.),
+b)[^384] 17/C. § 10. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet (HL L, 2023.12.15.),
 
 c)[^385]
 
@@ -21,7 +21,7 @@ i)[^391] 41/D. alcíme Az állami támogatásokra vonatkozó, az Ukrajna elleni 
 hatálya alá tartozó támogatást tartalmaz.
 
 [^383]: A 105. § a) pontja a 679/2021. (XII. 3.) Korm. rendelet 31. §-ával megállapított, a 639/2023. (XII. 28.) Korm. rendelet 24. § 27. pontja és 25. § 28. pontja szerint módosított szöveg.
-[^384]: A 105. § b) pontja a 271/2015. (IX. 18.) Korm. rendelet 20. § (1) bekezdésével megállapított, a 127/2016. (VI. 7.) Korm. rendelet 17. § 32. pontja, a 639/2023. (XII. 28.) Korm. rendelet 25. § 29. pontja szerint módosított szöveg.
+[^384]: A 105. § b) pontja a 127/2024. (VI. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^385]: A 105. § c) pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 30. pontja hatályon kívül helyezte.
 [^386]: A 105. § d) pontja a 662/2020. (XII. 24.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 639/2023. (XII. 28.) Korm. rendelet 25. § 31. pontja szerint módosított szöveg.
 [^387]: A 105. § e) pontját a 639/2023. (XII. 28.) Korm. rendelet 25. § 30. pontja hatályon kívül helyezte.

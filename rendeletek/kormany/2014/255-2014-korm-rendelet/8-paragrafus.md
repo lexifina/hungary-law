@@ -1,5 +1,5 @@
-## 6.[^156]
+## 6.[^158]
 
 8. §
 
-[^156]: A 6. alcímet (8-9. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^158]: A 6. alcímet (8-9. §-t) a 639/2023. (XII. 28.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.

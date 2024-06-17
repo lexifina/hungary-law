@@ -1,3 +1,3 @@
-99. §[^315]
+99. §[^321]
 
-[^315]: A 99. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 27. pontja hatályon kívül helyezte.
+[^321]: A 99. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 27. pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-28. §[^230]
+28. §[^236]
 
-[^230]: A 28. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.
+[^236]: A 28. §-t a 639/2023. (XII. 28.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.

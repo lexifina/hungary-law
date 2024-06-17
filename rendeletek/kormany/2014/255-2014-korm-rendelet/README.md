@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2022-12-26 | 2014-255-20-22.22 | 571/2022. (XII. 23.) Korm. rendelet |
 | 2023-01-01 | 2014-255-20-22.23 | 271/2015. (IX. 18.) Korm. rendelet |
 | 2024-01-01 | 2014-255-20-22.24 | 639/2023. (XII. 28.) Korm. rendelet |
+| 2024-06-17 | 2014-255-20-22.25 | 127/2024. (VI. 14.) Korm. rendelet |
