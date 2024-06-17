@@ -1,3 +1,1 @@
-8. §[^8]
-
-[^8]: A 8. § a 25. § (2) bekezdése alapján 2024. június 17-én lép hatályba.
+8. § Hatályát veszti a 255/2014. (X. 10.) Korm. rendelet 22. § (3) bekezdésében a „ , valamint az 1060/2021/EU európai parlamenti és tanácsi rendelet 53. cikk (1) bekezdés a)–e) pontja szerinti” szövegrész.
