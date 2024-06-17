@@ -32,7 +32,7 @@ c) az EMAP pilot szakaszának megvalósítása érdekében gondoskodjon a 2024. 
 
 5. egyetért a részére bemutatott eNyugta-koncepcióval, amely a papíralapú nyugtaadás alkalmazásának minimalizálását célzó elektronikus nyugtaadásra való áttérést, az általános nyugtaadat-szolgáltatás bevezetését, az online pénztárgéprendszer megújítását és ennek keretében az ePénztárgép-rendszer bevezetését foglalja magába;
 
-6. felhívja a pénzügyminisztert, hogy – a Nemzeti Adó- és Vámhivatal bevonásával – gondoskodjon az 5. pont szerinti eNyugta koncepció megvalósításáról;
+6.[^1] felhívja a pénzügyminisztert, hogy – a Pillér Informatikai Korlátolt Felelősségű Társaság mint a Nemzeti Adó- és Vámhivatal tulajdonosi joggyakorlásában álló gazdasági társaság bevonásával – gondoskodjon az 5. pont szerinti eNyugta koncepció megvalósításáról;
 
 | Felelős: | pénzügyminiszter |
 
@@ -45,3 +45,5 @@ c) az EMAP pilot szakaszának megvalósítása érdekében gondoskodjon a 2024. 
 | Határidő: | a 2024. és 2025. évi központi költségvetés tervezése során |
 
 8. felkéri a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét, hogy a 4. pont a) alpontjában foglalt adatvédelmi hatásvizsgálat lefolytatásához nyújtson szakmai támogatást a pénzügyminiszternek.
+
+[^1]: A 6. pont az 1173/2024. (VI. 17.) Korm. határozat 2. pontja szerint módosított szöveg.
