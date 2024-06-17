@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 11. A Magyar Halgazdálkodási Operatív Program Plusz
 
 13. § Ha a Magyar Halgazdálkodási Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -13,3 +11,5 @@
 4. csekély összegű támogatásként,
 
 5. válságtámogatásként
+
+nyújtható.

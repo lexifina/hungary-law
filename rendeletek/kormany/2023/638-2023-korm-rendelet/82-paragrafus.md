@@ -2,7 +2,7 @@
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
-a) 45%-át a megújulóenergia-termelésre irányuló beruházások esetében – ideértve a 81. § (3) bekezdés a) pontjában, a (4) bekezdésben, a (6) bekezdésben és a (10) bekezdésben foglalt esetet, az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat, a megújuló hidrogént és a megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelést is –,
+a)[^29] 45%-át a megújulóenergia-termelésre – ideértve az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat is –, a megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelésre és megújuló hidrogén termelésre irányuló beruházások esetén,
 
 b) 30%-át minden egyéb esetben – ideértve a (3) bekezdés b) pontjában és a (8) bekezdésben foglalt esetet is.
 
@@ -17,3 +17,5 @@ b) amennyiben a támogatási program végrehajtása során valamennyi ajánlatte
 c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítása, így különösen az ajánlatok eredményével kapcsolatos utólagos tárgyalás, és
 
 d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg.
+
+[^29]: A 82. § (2) bekezdés a) pontja a 127/2024. (VI. 14.) Korm. rendelet 16. §-ával megállapított szöveg.

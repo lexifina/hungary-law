@@ -1,15 +1,13 @@
-## 55. Csekély összegű közszolgáltatási támogatás
+## 55.[^45] A csekély összegű közszolgáltatási támogatás
 
-127. § (1) Egy vállalkozás részére a 360/2012/EU bizottsági rendelet hatálya alá tartozó csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg az 500 000 eurónak megfelelő forintösszeget.
+127. § (1) A közszolgáltatás ellátásával megbízott kedvezményezett és a vele egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó, bármely három évben Magyarországon odaítélt csekély összegű közszolgáltatási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 750 000 eurónak megfelelő forintösszeget, figyelembe véve az (EU) 2023/2832 bizottsági rendelet 3. cikk (8) és (9) bekezdését.
 
-(2) Nem lehet kedvezményezett az a vállalkozás, amely a támogatást a 360/2012/EU bizottsági rendelet 1. cikk (2) bekezdésében meghatározott kivételek szerint használná fel.
+(2) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(3) A támogatás nem halmozható azonos elszámolható költségek vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
+(3) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
 
-(4) A támogatás nem halmozható ugyanazon közszolgáltatáshoz kapcsolódó más ellentételezéssel, függetlenül attól, hogy ez az ellentételezés uniós versenyjogi értelemben vett állami támogatásnak minősül-e.
+(4) A támogatás más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással a vonatkozó bizottsági rendeletekben foglalt felső támogatási határok közül a legmagasabb felső határig halmozható.
 
-(5) Az (1) bekezdés szerinti felső határ tekintetében a támogatás odaítélésekor az adott pénzügyi évben, valamint az azt megelőző két pénzügyi évben odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(5) A kedvezményezettnek az (EU) 2023/2832 bizottsági rendelet 7. cikk (4) bekezdése figyelembevételével – az ott meghatározott feltételek teljesítésének megállapítására alkalmas módon – nyilatkoznia kell a részére a támogatás odaítélését megelőző három év során nyújtott csekély összegű támogatások támogatástartalmáról.
 
-(6) A támogatás más csekély összegű támogatásokról szóló bizottsági rendeleteknek megfelelően nyújtott csekély összegű támogatással az (1) bekezdésben meghatározott felső határig halmozható.
-
-(7) A kedvezményezettnek a (4)–(6) bekezdésben meghatározott feltételek teljesítésének megállapítására alkalmas módon nyilatkoznia kell a részére a támogatás odaítélésének évében és az azt megelőző két pénzügyi évben nyújtott csekély összegű támogatások támogatástartalmáról.
+[^45]: Az 55. alcím (127. §) a 127/2024. (VI. 14.) Korm. rendelet 20. §-ával megállapított szöveg.

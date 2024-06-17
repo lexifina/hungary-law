@@ -7,3 +7,5 @@
 2. csekély összegű közszolgáltatási támogatásként,
 
 3. válságtámogatásként
+
+nyújtható.

@@ -22,7 +22,7 @@ c) az energiahatékony távfűtési és távhűtési rendszerhez való csatlakoz
 
 d) az épületet használók számára elektromos töltő- és kapcsolódó infrastruktúra (ideértve a kábelcsatornák) kiépítéséhez és telepítéséhez, abban az esetben is, amennyiben a parkoló az épületen kívül helyezkedik el, de ahhoz fizikailag csatlakozik,
 
-e) az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található szélessávú infrastruktúra kiegészítő részeinek telepítéséhez,
+e)[^24] az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található széles sávú infrastruktúra kiegészítő részeinek telepítéséhez,
 
 f) zöldtetőkbe, valamint az esővíz megtartására és felhasználására szolgáló berendezésekbe történő beruházásokhoz.
 
@@ -37,3 +37,5 @@ b) már elfogadott, és hatályos uniós szabványnak való megfelelés érdeké
 a) az uniós szabványok energiahatékonysági minimumkövetelmények, a támogatás odaítélésének még azelőtt meg kell történnie, hogy a szabványok kötelezővé válnának az érintett vállalkozásra nézve, azzal, hogy ebben az esetben a kedvezményezettek pontos felújítási tervet és ütemtervet nyújt be, amelyek igazolják, hogy a támogatott felújítás elegendő legalább ahhoz, hogy biztosítsa az épület energiahatékonysági minimumkövetelményeknek való megfelelését,
 
 b) az uniós szabványok nem energiahatékonysági minimumkövetelmények, a beruházást az uniós szabvány hatálybalépése előtt legalább 18 hónappal végrehajtották és befejezték.
+
+[^24]: A 76. § (5) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 16. pontja szerint módosított szöveg.

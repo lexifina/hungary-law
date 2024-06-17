@@ -8,10 +8,12 @@ a) jelentős új beruházás kerül megvalósításra a széles sávú hálózat
 
 b) a támogatott hálózat a már létező vagy hitelt érdemlően kiépíteni tervezett hálózatokhoz képest jelentős új képességeket vezet be a piac számára a széles sávú internet-hozzáférési szolgáltatások rendelkezésre állása, a kapacitás, a sebesség és a verseny tekintetében,
 
-c) a szélessávú infrastruktúrába történő beruházás mértéke meghaladja a támogatott beavatkozás elszámolható költségeinek 70%-át.
+c)[^33] a széles sávú infrastruktúrába történő beruházás mértéke meghaladja a támogatott beavatkozás elszámolható költségeinek 70%-át.
 
 (4) A támogatott beavatkozásnak a letöltési sebességet a jelenlegi hálózathoz képest
 
 a) a 93. § (1) bekezdés a) pontja szerinti esetben legalább háromszorosra kell növelnie,
 
 b) a 93. § (1) bekezdés b) pontja szerinti esetben legalább háromszorosra kell növelnie, és csúcsidei feltételek mellett legalább 1 Gbps letöltési sebességet kell biztosítania.
+
+[^33]: A 94. § (3) bekezdés c) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 22. pontja szerint módosított szöveg.

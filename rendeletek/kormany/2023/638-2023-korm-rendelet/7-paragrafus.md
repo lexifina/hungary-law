@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 5. A Digitális Megújulás Operatív Program Plusz
 
 7. § Ha a Digitális Megújulás Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -63,3 +61,5 @@
 29. közszolgáltatásért járó ellentételezésként,
 
 30. válságtámogatásként
+
+nyújtható.

@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 6. Az Emberi Erőforrás Fejlesztési Operatív Program Plusz
 
 8. § Ha az Emberi Erőforrás Fejlesztési Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -41,3 +39,5 @@
 18. közszolgáltatásért járó ellentételezésként,
 
 19. válságtámogatásként
+
+nyújtható.

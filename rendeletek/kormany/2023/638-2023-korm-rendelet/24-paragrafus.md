@@ -10,4 +10,6 @@ d) ellenszolgáltatásért végzett légi, tengeri, közúti, vasúti és belví
 
 e) energiatermelési, energiatárolási, energiaátviteli, energiaelosztási tevékenységhez és energetikai célú infrastruktúra létrehozását szolgáló beruházáshoz,
 
-f) szélessávú ágazatban végzett tevékenységhez.
+f)[^11] széles sávú ágazatban végzett tevékenységhez.
+
+[^11]: A 24. § f) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 5. pontja szerint módosított szöveg.

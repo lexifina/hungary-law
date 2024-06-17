@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 9. Az Integrált Közlekedésfejlesztési Operatív Program Plusz
 
 11. § Ha az Integrált Közlekedésfejlesztési Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -23,3 +21,5 @@
 9. csekély összegű támogatásként,
 
 10. válságtámogatásként
+
+nyújtható.

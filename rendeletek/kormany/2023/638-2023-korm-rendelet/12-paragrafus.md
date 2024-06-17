@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 10. A Környezeti és Energiahatékonysági Operatív Program Plusz
 
 12. § Ha a Környezeti és Energiahatékonysági Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -53,3 +51,5 @@
 24. közszolgáltatásért járó ellentételezésként,
 
 25. válságtámogatásként
+
+nyújtható.

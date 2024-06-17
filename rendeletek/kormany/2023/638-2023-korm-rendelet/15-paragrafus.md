@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 13. A Terület- és Településfejlesztési Operatív Program Plusz
 
 15. § Ha a Terület- és Településfejlesztési Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -81,3 +79,5 @@
 38. személyszállítási közszolgáltatásért járó ellentételezésként,
 
 39. válságtámogatásként
+
+nyújtható.

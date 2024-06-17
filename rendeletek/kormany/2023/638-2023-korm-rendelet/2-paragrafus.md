@@ -60,7 +60,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 26. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb;
 
-27. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése és az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás;
+27.[^1] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk (2) bekezdése, az (EU) 2023/2832 bizottsági rendelet 2. cikk 2. pontja és az 1408/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
 28. egyedi támogatás: az Atr. 2. § 4. pontja szerinti támogatás;
 
@@ -373,3 +373,5 @@ d) az a)–c) pont közül több pont együttes megvalósulása esetén a legkor
 175. visszaállítás: a 651/2014/EU bizottsági rendelet 2. cikk 123d. pontja szerinti folyamat;
 
 176. visszafizetendő előleg: a 651/2014/EU bizottsági rendelet 2. cikk 21. pontja szerinti támogatási forma.
+
+[^1]: A 2. § 27. pontja a 127/2024. (VI. 14.) Korm. rendelet 10. §-ával megállapított szöveg.

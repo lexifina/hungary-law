@@ -1,5 +1,3 @@
-## nyújtható.
-
 ## 7. A Gazdaságfejlesztési és Innovációs Operatív Program Plusz
 
 9. § Ha a Gazdaságfejlesztési és Innovációs Operatív Program Pluszból az egyes beavatkozási területek keretében támogatható intézkedés finanszírozása az EUMSz 107. cikk (1) bekezdése értelmében állami támogatásnak minősül, a támogatás
@@ -89,3 +87,5 @@
 42. közszolgáltatásért járó ellentételezésként,
 
 43. válságtámogatásként
+
+nyújtható.

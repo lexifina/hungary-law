@@ -8,10 +8,22 @@
 
 a) meglévő repülőtér áttelepítéséhez vagy új személyforgalmi repülőterek létesítéséhez, ideértve a meglévő repülőterek személyforgalmi repülőtérré történő átalakítását is,
 
-b) azoknak a repülőtereknek, amelyeknek az átlagos éves teherforgalma a támogatás odaítélését megelőző két pénzügyi évben meghaladta a 200 000 tonnát és a támogatás az odaítélését követő két pénzügyi évben előzetesen, megalapozott előrejelzések alapján nem vezethet a repülőtér átlagos éves teherforgalmának 200 000 tonna fölé emelkedéséhez,
+b)[^35] azoknak a repülőtereknek, amelyeknek az átlagos éves teherforgalma
 
-c) olyan repülőtérnek, amelynek az átlagos éves utasforgalma a támogatás odaítélését megelőző két pénzügyi évben meghaladta a hárommillió főt, és a támogatás az odaítélését követő két pénzügyi évben előzetesen, megalapozott előrejelzések alapján nem vezethet a repülőtér átlagos éves utasforgalmának hárommillió fő fölé emelkedéséhez,
+ba) a támogatás odaítélését megelőző két pénzügyi évben meghaladta a 200 000 tonnát,
 
-d) meglévő, a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 16. pontjában meghatározott menetrend szerinti légi járatokat üzemeltető repülőtértől 100 kilométeren belül elhelyezkedő és onnan gépjárművön, buszon, vonaton vagy nagysebességű vonaton 60 percen belül megközelíthető repülőtérnek.
+bb) a támogatás odaítélését követő két pénzügyi évben előzetesen, megalapozott előrejelzések alapján meghaladja a 200 000 tonnát,
+
+c)[^36] olyan repülőtérnek, amelynek az átlagos éves utasforgalma
+
+ca) a támogatás odaítélését megelőző két pénzügyi évben meghaladta a hárommillió főt,
+
+cb) a támogatás odaítélését követő két pénzügyi évben előzetesen, megalapozott előrejelzések alapján meghaladja a hárommillió főt,
+
+d)[^37] meglévő, a Közösségben a légi járatok működtetésére vonatkozó közös szabályokról szóló, 2008. szeptember 24-i 1008/2008/EK európai parlamenti és tanácsi rendelet 2. cikk 16. pontjában meghatározott menetrend szerinti légi járatokat üzemeltető repülőtértől 100 kilométeren belül elhelyezkedő vagy onnan gépjárművön, buszon, vonaton vagy nagysebességű vonaton 60 percen belül megközelíthető repülőtérnek.
 
 (4) A beruházás nem haladhatja meg az észszerű forgalmi előrejelzések alapján, a középtávon várt forgalom fogadásához szükséges mértéket.
+
+[^35]: A 120. § (3) bekezdés b) pontja a 127/2024. (VI. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^36]: A 120. § (3) bekezdés c) pontja a 127/2024. (VI. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^37]: A 120. § (3) bekezdés d) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 24. pontja szerint módosított szöveg.

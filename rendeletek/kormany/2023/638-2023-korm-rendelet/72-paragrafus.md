@@ -12,7 +12,7 @@ c) az energiahatékony távfűtési és távhűtési rendszerhez való csatlakoz
 
 d) az épületet használók számára elektromos töltő- és kapcsolódó infrastruktúra (ideértve a kábelcsatornák) kiépítéséhez és telepítéséhez, abban az esetben is, amennyiben a parkoló az épületen kívül helyezkedik el, de ahhoz fizikailag csatlakozik,
 
-e) az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található szélessávú infrastruktúra kiegészítő részeinek telepítéséhez,
+e)[^22] az épület digitalizációját, különösen az épület okosfunkció-fogadási alkalmasságának növelését szolgáló berendezések (beleértve adathálózatok esetén, az épületen belüli passzív hálózatot és strukturált kábelezést), továbbá az épülethez tartozó ingatlanon található széles sávú infrastruktúra kiegészítő részeinek telepítéséhez,
 
 f) zöldtetőkbe, valamint az esővíz megtartására és felhasználására szolgáló berendezésekbe történő beruházásokhoz.
 
@@ -41,3 +41,5 @@ c) új épületek esetén legalább 10%-os javulását eredményezi a közel nul
 (6) Az (5) bekezdés alkalmazásában a kezdeti primerenergia-igényt és annak becsült javulását a 2010/31/EU európai parlamenti és tanácsi irányelv 2. cikk 12. pontjában meghatározott energiahatékonysági tanúsítványra való hivatkozással kell megállapítani.
 
 (7) Az (5) bekezdés b) pontja alapján nyújtott támogatások összege nem haladhatja meg az Atr. 2. § 23. pontja szerinti támogatási program energiahatékonysági intézkedésekre vonatkozó költségvetésének 30%-át.
+
+[^22]: A 72. § (2) bekezdés e) pontja a 127/2024. (VI. 14.) Korm. rendelet 22. § 14. pontja szerint módosított szöveg.
