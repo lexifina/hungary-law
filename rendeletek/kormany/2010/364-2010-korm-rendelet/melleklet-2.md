@@ -1,4 +1,4 @@
-## A gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj vényszám emelkedésével sávosan csökkenő értéke 2015. évre vonatkozóan:
+## A gyógyszertárak részére juttatandó, vényköteles gyógyszerek kiváltásához kapcsolódó gyógyszerbiztonsági ellenőrzésen alapuló szolgáltatási díj vényszám emelkedésével sávosan csökkenő értéke tárgyévre vonatkozóan:
 
 |  | A | B | C | D | E |
 
@@ -12,10 +12,10 @@ Gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez k
 
 gyógyszerbiztonsági ellenőrzés szolgáltatási díjának értéke
 
-A gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági ellenőrzés szolgáltatási díjának értéke 2015. évre vonatkozóan:
+A gyógyszertárak részére juttatandó, magisztrális gyógyszerkészítéshez kapcsolódó gyógyszerbiztonsági ellenőrzés szolgáltatási díjának értéke tárgyévre vonatkozóan:
 
 |  | A | B |
 
 | 1. | Magisztrális gyógyszerbiztonsági ellenőrzés szolgáltatási díja/vény | 90 Ft |
 
-[^19]: A 2. mellékletet a 376/2012. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 80. §-a, a 364/2014. (XII. 30.) Korm. rendelet 92. §-a szerint módosított szöveg.
+[^19]: A 2. mellékletet a 376/2012. (XII. 19.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 80. §-a, a 364/2014. (XII. 30.) Korm. rendelet 92. §-a, a 128/2024. (VI. 17.) Korm. rendelet 10. §-a szerint módosított szöveg.
