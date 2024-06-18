@@ -1,0 +1,3 @@
+4/C. §[^16] Az NNGYK folyamatosan nyomon követi azon vizsgáló intézmények GLP státuszát, amelyek hatósági bizonyítványuk megújítása érdekében nem kezdeményezik ellenőrzésüket. Az NNGYK ennek keretében kockázatértékelés alapján dönt a vizsgáló intézménynél hivatalból folytatott ellenőrzési eljárás megindításáról. Ha az ellenőrzés során az NNGYK megállapítja, hogy a vizsgáló intézmény olyan mértékben tért el a GLP alapelveitől, hogy az veszélyezteti a vizsgálat megbízhatóságát, a vizsgáló intézményt törli a GLP Programból. Ha az NNGYK az ellenőrzése során jogsértést tár fel, megteszi a szükséges intézkedéseket a megfelelő eljárás megindítása érdekében.
+
+[^16]: A 4/C. §-t a 128/2024. (VI. 17.) Korm. rendelet 27. §-a iktatta be.
