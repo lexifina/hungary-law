@@ -4,8 +4,10 @@
 
 | Határidő: | azonnal |
 
-## 2. A Kormány az állami fenntartásban álló egyes egészségügyi intézményeket érintő hűtés- és fűtéskorszerűsítési beruházások energiahatékonysági szolgáltatási konstrukció keretében történő megvalósításáról szóló 1401/2021. (VI. 29.) Korm. határozatot visszavonja.
+## 2.[^1]
 
 1. melléklet az 1171/2024. (VI. 17.) Korm. határozathoz
 
 4X03945.pdf
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
