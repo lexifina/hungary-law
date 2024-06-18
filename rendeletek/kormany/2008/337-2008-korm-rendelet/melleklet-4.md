@@ -40,6 +40,8 @@
 
 | 16/a. | szülésznői ellátás (intézeti) |
 
+| 16/b. | asszisztált reprodukció |
+
 | 17. | csecsemő- és gyermekgyógyászat |
 
 | 18. | csecsemő- és gyermekkardiológia |
