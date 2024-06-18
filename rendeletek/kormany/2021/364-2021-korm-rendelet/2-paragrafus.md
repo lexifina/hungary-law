@@ -1,1 +1,0 @@
-## 1. § E rendelet hatálya a Megújuló kórházak 2020. Program keretében az állami fenntartásban álló, az 1. mellékletben meghatározott egészségügyi intézményekben energiahatékonysági szolgáltatási konstrukció keretében történő hűtés- és fűtéskorszerűsítési beruházásokra terjed ki.
