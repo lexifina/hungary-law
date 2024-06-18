@@ -1,3 +1,3 @@
-43/B. §[^497]
+43/B. §[^498]
 
-[^497]: A 43/B. §-t a 124/2015. (V. 26.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § e) pontja.
+[^498]: A 43/B. §-t a 124/2015. (V. 26.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 697/2020. (XII. 29.) Korm. rendelet 28. § e) pontja.
