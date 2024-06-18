@@ -1,4 +1,4 @@
-## 9/K.[^66] A nem állami fenntartású intézmények 2023. évi kiegészítő rezsikompenzációja
+## 9/K.[^69] A nem állami fenntartású intézmények 2023. évi kiegészítő rezsikompenzációja
 
 29/J. § (1) A 2023. évben a 29/H. § alapján rezsikompenzációban részesülő nem állami fenntartót kiegészítő támogatás (e § alkalmazásában a továbbiakban: kiegészítő rezsikompenzáció) illeti meg.
 
@@ -22,4 +22,4 @@ cb) a Kvtv2023. 9. melléklet II. rész 2.5. pontjában foglalt táblázat 16. s
 
 (6) A kiegészítő rezsikompenzációra az (1)–(5) bekezdésben nem szabályozott kérdésekben a jogosultság alapjául szolgáló támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^66]: A 9/K. alcímet (29/J. §-t) a 112/2024. (V. 14.) Korm. rendelet 1. §-a iktatta be.
+[^69]: A 9/K. alcímet (29/J. §-t) a 112/2024. (V. 14.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 9/L.[^67] A 2024. évi rezsikompenzáció
+## 9/L.[^70] A 2024. évi rezsikompenzáció
 
 29/K. § (1) A 2024. évben – a villamos energia, a földgáz, a víz- és a csatornadíjak nagykereskedelmi árának emelkedése miatt, a költségnövekedés ellentételezése céljából – kiegészítő támogatásra (a továbbiakban: 2024. évi rezsikompenzáció) jogosult az a fenntartó, amelynek – a 2024. évi rezsikompenzáció (3) bekezdés szerinti megállapításának időpontjában – a 2024. évre a (2) bekezdés a)–d) pontja szerinti szolgáltatások után, a Kvtv2024. alapján működési támogatást állapítottak meg.
 
@@ -22,4 +22,4 @@ d) egyházi fenntartók esetében a Kvtv2024. 2. melléklet I. részében foglal
 
 (7) A 2024. évi rezsikompenzációra az (1)–(6) bekezdésben nem szabályozott kérdésekben a jogosultság alapjául szolgáló támogatásra vonatkozó rendelkezéseket kell alkalmazni.
 
-[^67]: A 9/L. alcímet (29/K. §-t) a 112/2024. (V. 14.) Korm. rendelet 2. §-a iktatta be.
+[^70]: A 9/L. alcímet (29/K. §-t) a 112/2024. (V. 14.) Korm. rendelet 2. §-a iktatta be.
