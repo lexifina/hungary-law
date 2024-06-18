@@ -1,6 +1,6 @@
-## Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai[^125]
+## Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai[^126]
 
-5/E. §[^126] (1) Az állam az EESZT digitális időpontfoglalási rendszer szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) útján biztosítja, hogy a járóbeteg-szakellátást nyújtó, közfinanszírozott egészségügyi szolgáltatók (ezen alcím alkalmazásában a továbbiakban: járóbeteg-szakellátást nyújtó egészségügyi szolgáltató) az EESZT útján közzétegyék és folyamatosan frissítsék az e rendelet szerinti beutalóval és beutaló nélkül igénybe vehető szolgáltatásaikra nyitva álló időpontokat.
+5/E. §[^127] (1) Az állam az EESZT digitális időpontfoglalási rendszer szolgáltatás (a továbbiakban: digitális időpontfoglalási rendszer) útján biztosítja, hogy a járóbeteg-szakellátást nyújtó, közfinanszírozott egészségügyi szolgáltatók (ezen alcím alkalmazásában a továbbiakban: járóbeteg-szakellátást nyújtó egészségügyi szolgáltató) az EESZT útján közzétegyék és folyamatosan frissítsék az e rendelet szerinti beutalóval és beutaló nélkül igénybe vehető szolgáltatásaikra nyitva álló időpontokat.
 
 (2) A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltatóknál történő ellátások igénybevétele során az e rendeletben foglaltakat ezen alcím szerinti eltérésekkel kell alkalmazni.
 
@@ -16,5 +16,5 @@
 
 (8) Ezen alcím rendelkezései nem érintik a nem a digitális időpontfoglalási rendszerben történő időpontfoglalás lehetőségeit.
 
-[^125]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^126]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^126]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^127]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.

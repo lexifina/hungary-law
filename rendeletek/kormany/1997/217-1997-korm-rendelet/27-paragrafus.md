@@ -8,11 +8,11 @@
 
 (3) Egyedülállónak kell tekinteni továbbá,
 
-a)[^464]
+a)[^465]
 
 b) azokat a házastársakat, akik a vakok személyi járadékában részesülnek, vagy arra egyébként jogosultak,
 
-c)[^465] akinek a házastársa
+c)[^466] akinek a házastársa
 
 ca) a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) 30. § (4) bekezdés b) pont ba) alpontjának vagy 32. § (1) bekezdés a) pontjának alkalmazásával rokkantsági ellátásban részesül és 2011. december 31-én I. vagy II. csoportos rokkantsági, baleseti rokkantsági nyugdíjra volt jogosult,
 
@@ -26,5 +26,5 @@ ce) előzetes letartóztatásban van, szabadságvesztés büntetését tölti.
 
 (4) A (3) bekezdés rendelkezéseit megfelelően alkalmazni kell az élettársakra is.
 
-[^464]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
-[^465]: A 27. § (3) bekezdés c) pontja a 137/2012. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^465]: A Vhr. 27. §-a (3) bekezdésének a) pontját a 28/2005. (II. 15.) Korm. rendelet 7. §-a (2) bekezdésének g) pontja hatályon kívül helyezte.
+[^466]: A 27. § (3) bekezdés c) pontja a 137/2012. (VI. 29.) Korm. rendelet 9. §-ával megállapított szöveg.

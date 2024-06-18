@@ -1,4 +1,4 @@
-18. § (1)[^374]
+18. § (1)[^375]
 
 (2) A fogászati ellátás finanszírozására megkötött szerződésben vagy mellékletében – az Ebtv. 31. § (1) bekezdésének e) pontja szerint – meg kell határozni
 
@@ -6,4 +6,4 @@ a) a fogászati ellátási szolgálatok körzetenkénti helyettesítési rendjé
 
 b) az ügyeleti ellátásban történő részvétel rendjét.
 
-[^374]: A Vhr. 18. §-ának (1) bekezdését a 43/1999. (III. 3.) Korm. rendelet 52. §-ának (3) bekezdése hatályon kívül helyezte.
+[^375]: A Vhr. 18. §-ának (1) bekezdését a 43/1999. (III. 3.) Korm. rendelet 52. §-ának (3) bekezdése hatályon kívül helyezte.
