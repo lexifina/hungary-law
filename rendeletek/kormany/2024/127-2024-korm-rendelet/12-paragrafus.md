@@ -1,3 +1,3 @@
-12. § A 638/2023. (XII. 28.) Korm. rendelet 16. §-a a következő (3) bekezdéssel egészül ki:
+12. §[^13]
 
-„(3) Ha a kedvezményezett a (2) bekezdés c)–f) pontja szerint kizárt ágazatok bármelyikében és ezektől eltérő egy vagy több ágazatban egyaránt végez tevékenységet, az 53. és 55. alcím szerinti támogatás akkor nyújtható a kedvezményezett részére ez utóbbi egyéb tevékenységhez, ha a kedvezményezett megfelelő eszközökkel – így különösen a tevékenységek szétválasztásával vagy számviteli elkülönítéssel – biztosítja, hogy a (2) bekezdés c)–f) pontja szerint kizárt ágazatokban végzett tevékenységek ne részesüljenek az 53. és 55. alcím szerinti támogatásban.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

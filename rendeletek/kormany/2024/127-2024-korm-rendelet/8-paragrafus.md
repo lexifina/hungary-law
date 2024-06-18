@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 255/2014. (X. 10.) Korm. rendelet 22. § (3) bekezdésében a „ , valamint az 1060/2021/EU európai parlamenti és tanácsi rendelet 53. cikk (1) bekezdés a)–e) pontja szerinti” szövegrész.
+8. §[^9]
+
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-3. § A 255/2014. (X. 10.) Korm. rendelet 21. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (3a) bekezdéssel egészül ki:
+3. §[^4]
 
-„(3) Az egy projekthez több forrásból igénybe vett összes állami támogatás – függetlenül attól, hogy annak finanszírozása uniós, országos, regionális vagy helyi forrásból történik – mértéke nem haladhatja meg az irányadó uniós állami támogatási szabályokban meghatározott támogatási intenzitást vagy támogatási összeget.
-
-(3a) Ha a kedvezményezett egy projekthez több forrásból részesül közfinanszírozásban – ideértve az Európai Unió intézményei, ügynökségei, szervei által központilag kezelt olyan finanszírozást is, amely sem közvetlenül, sem közvetve nem tartozik Magyarország döntéshozatali hatáskörébe – a teljes közfinanszírozás együttes mértéke nem haladhatja meg az irányadó legmagasabb finanszírozási mértéket.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
