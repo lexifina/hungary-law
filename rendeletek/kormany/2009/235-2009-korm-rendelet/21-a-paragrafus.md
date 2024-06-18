@@ -1,21 +1,21 @@
-21/A. §[^74] (1)[^75] Az Eütv. 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatot végezni a vizsgálat NNGYK részére történő bejelentését követően lehet.
+21/A. §[^75] (1)[^76] Az Eütv. 164/A. § (10) bekezdése szerinti teljesítőképesség-vizsgálatot végezni a vizsgálat NNGYK részére történő bejelentését követően lehet.
 
 (2) Az (1) bekezdés szerinti bejelentést az in vitro diagnosztikai orvostechnikai eszközzel az in vitro diagnosztikai orvostechnikai eszközökről, valamint a 98/79/EK irányelv és a 2010/227/EU bizottsági határozat hatályon kívül helyezéséről szóló, 2017. április 5-i (EU) 2017/746 európai parlamenti és tanácsi rendelet (a továbbiakban: IVDR) 69. cikke szerinti elektronikus rendszerben kell megtenni, a vizsgálat jellegétől függően az IVDR 58. vagy 70. cikkében meghatározott adattartalommal, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését.
 
-(3)[^76] Az (1) bekezdés szerinti bejelentéshez csatolni kell az ETT TUKEB IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleményét is. Az NNGYK a bejelentés alapján a vizsgálatot nyilvántartásba veszi és a bejelentés megtörténtéről hatósági bizonyítványt állít ki. A vizsgálat a hatósági bizonyítvány véglegessé válását követően kezdhető meg.
+(3)[^77] Az (1) bekezdés szerinti bejelentéshez csatolni kell az ETT TUKEB IVDR 58. cikk (5) bekezdés b) pontja szerinti etikai véleményét is. Az NNGYK a bejelentés alapján a vizsgálatot nyilvántartásba veszi és a bejelentés megtörténtéről hatósági bizonyítványt állít ki. A vizsgálat a hatósági bizonyítvány véglegessé válását követően kezdhető meg.
 
 (4) Az (1) bekezdés szerinti bejelentés tárgyában kiállított hatósági bizonyítvány véglegessé válását követően a megbízó a vizsgálati tervet módosíthatja. A vizsgálati terv az IVDR 71. cikke szerinti lényeges módosítását a megbízónak – a módosítások indokainak és pontos tartalmának megjelölésével – be kell jelentenie az IVDR 69. cikke szerinti elektronikus rendszerbe.
 
 (5) A (4) bekezdés szerinti bejelentést az IVDR 71. cikke szerinti adattartalommal, a vizsgálat bejelentéséhez képest eszközölt változások megjelölésével kell megtenni, és a bejelentés benyújtásakor igazolni kell az igazgatási szolgáltatási díj megfizetését. A bejelentéshez csatolni kell az ETT TUKEB – az IVDR 71. cikk (3) bekezdés b) pontja szerint kiadott – etikai véleményét is.
 
-(6)[^77] Az (1) bekezdés szerinti teljesítőképesség-vizsgálat időtartama alatt az NNGYK ellenőrizheti, hogy a vizsgálatot az IVDR-nek, a jogszabályoknak és a szakmai szabályoknak megfelelően, a bejelentésben és a vizsgálati tervben foglaltaknak megfelelően végzik-e.
+(6)[^78] Az (1) bekezdés szerinti teljesítőképesség-vizsgálat időtartama alatt az NNGYK ellenőrizheti, hogy a vizsgálatot az IVDR-nek, a jogszabályoknak és a szakmai szabályoknak megfelelően, a bejelentésben és a vizsgálati tervben foglaltaknak megfelelően végzik-e.
 
-(7)[^78] Ha a (6) bekezdés szerinti ellenőrzés során megállapítást nyer, hogy a vizsgálat folytatása nem felel meg az IVDR-ben, a bejelentésben, a vizsgálati tervben, illetve az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben foglalt feltételeknek, az NNGYK az IVDR 72. cikkében foglaltak szerint jár el.
+(7)[^79] Ha a (6) bekezdés szerinti ellenőrzés során megállapítást nyer, hogy a vizsgálat folytatása nem felel meg az IVDR-ben, a bejelentésben, a vizsgálati tervben, illetve az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben foglalt feltételeknek, az NNGYK az IVDR 72. cikkében foglaltak szerint jár el.
 
 (8) Az IVDR 73. cikke szerinti értesítéseket, valamint a vizsgálati jelentést a megbízó az IVDR 69. cikke szerinti elektronikus rendszerben küldi meg.
 
-[^74]: A 21/A. §-t a 135/2022.(IV. 7.) Korm. rendelet 4. §-a iktatta be.
-[^75]: A 21/A. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^76]: A 21/A. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^77]: A 21/A. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^78]: A 21/A. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^75]: A 21/A. §-t a 135/2022.(IV. 7.) Korm. rendelet 4. §-a iktatta be.
+[^76]: A 21/A. § (1) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^77]: A 21/A. § (3) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^78]: A 21/A. § (6) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
+[^79]: A 21/A. § (7) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.

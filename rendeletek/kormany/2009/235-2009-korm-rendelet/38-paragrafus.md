@@ -2,6 +2,6 @@
 
 ## AZ ÁLLAMI NÉPEGÉSZSÉGÜGYI ÉS TISZTIORVOSI SZOLGÁLATRÓL ÉS A GYÓGYSZERÉSZETI ÁLLAMIGAZGATÁSI SZERV KIJELÖLÉSÉRŐL SZÓLÓ 362/2006. (XII. 28.) KORM. RENDELET, VALAMINT AZ EGÉSZSÉGÜGYI ENGEDÉLYEZÉSI ÉS KÖZIGAZGATÁSI HIVATALRÓL SZÓLÓ 295/2004. (X. 28.) KORM. RENDELET MÓDOSÍTÁSA
 
-38. §[^114]
+38. §[^115]
 
-[^114]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
+[^115]: A 38–39. §-t a 41. § (3) bekezdése hatályon kívül helyezte.
