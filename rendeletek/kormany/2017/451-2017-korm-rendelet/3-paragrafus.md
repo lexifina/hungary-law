@@ -16,19 +16,9 @@ meghatározott adattartalommal, nyomtatott vagy elektronikus formában kell beny
 
 (3) Nem lehet olyan áremelésre irányuló kérelmet benyújtani, ahol a közfinanszírozás alapjául javasolt ár vagy kölcsönzési napidíj a referenciaeszköz közfinanszírozás alapjául szolgáló áránál a funkcionális elvű fixcsoportba (a továbbiakban: FFX-csoport) tartozó eszköz esetében 50%-kal, a rendeltetés szerinti fixcsoportba (a továbbiakban: RFX-csoport) tartozó eszköz esetében 100%-kal magasabb.
 
-(4) Az (1) bekezdés szerinti kérelemhez – a (10) bekezdésben foglalt kivétellel – csatolni kell a jogszabály szerinti kijelölt szervezet igazolását
+(4)[^6]
 
-a) a Gyftv. 32. § (2) bekezdés a) pont aa)–ab) alpontja szerinti kérelem esetén
-
-aa) az eszköz használati útmutatójában megadott célra való alkalmasságról, a kérelemben szereplő eszközök tartósságáról, élettartamáról, valamint az ISO kód meghatározásának megfelelőségéről 6 ISO karakterig,
-
-ab) a funkcionális csoportba sorolás megfelelőségéről;
-
-b) a Gyftv. 32. § (2) bekezdés b) pont bd) alpontja szerinti kérelem esetén az eszköz eredetivel való azonosságáról;
-
-c) a Gyftv. 32. § (2) bekezdés b) pont bh) alpontja szerinti kérelem esetén a méretre vonatkozó adatokon kívüli paraméterekben való azonosságáról.
-
-(5) A (4) bekezdésben foglalt igazoláson túl a kérelemhez mellékelni kell
+(5)[^7] A Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja és b) pont bc), bd) és bh) alpontja esetén az (1) bekezdésben foglalt kérelemhez mellékelni kell
 
 a) a nem magyarországi gyártó által a kérelmet benyújtó magyarországi forgalomba hozó részére kiállított írásbeli meghatalmazást a kérelmezett eszközre vonatkozó gyártói képviseletre;
 
@@ -36,7 +26,7 @@ b) az eszköz típusának megfelelően az arról szóló nyilatkozatot, hogy
 
 ba) a tartós használatra szánt eszköznél a kihordási időn belül a kérelmező befogadáskor vállalja a folyamatos eszköz-, valamint a működéséhez és használatához szükséges tartozék-, illetve alkatrészellátást az igény keletkezését követő két munkanapon belül,
 
-bb) a kérelmező vállalja a tartós használatra szánt azon eszköznél, amelyhez azonnali tartozék-, illetve alkatrészellátást kell biztosítani, az igény keletkezését követő hat órán belüli ellátást vagy cserekészülék biztosítását,
+bb) a kérelmező vállalja a tartós használatra szánt azon eszköznél, amelyhez azonnali tartozék-, illetve alkatrészellátást kell biztosítani, a bejelentést követő hat órán belüli ellátást vagy cserekészülék biztosítását,
 
 bc) a tartós használatra szánt, folyamatos szervizhátteret igénylő eszköznél az eszköz gyártója folyamatosan biztosítja az eszközök, illetve az eszközök működéséhez és használatához szükséges tartozékok karbantartását, szervizét és a fogyóalkatrész utánpótlását, továbbá az arról szóló nyilatkozatot, hogy mely szakszerviz jogosult a javítások elvégzésére,
 
@@ -56,29 +46,43 @@ g) a gyógyászati segédeszközt egyedi méretvétel alapján gyártó arra von
 
 h) a gyógyászati segédeszköz használati útmutatóját;
 
-i) a Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja, b) pont ba) és bf) alpontja szerinti kérelem esetén az eszköz eredményességét és költséghatékonyságát igazoló dokumentációt;
+i) a Gyftv. 32. § (2) bekezdés a) pont aa) és ab) alpontja szerinti kérelem esetén az eszköz eredményességét és költséghatékonyságát igazoló dokumentációt;
 
-j)[^6] a kérelmezett eszköz használatban levő címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bb), be) és bg) alpontjában foglalt bejelentéseket, illetve b) pont bc) alpontja szerinti kérelmet;
+j) a kérelmezett eszköz használatban levő címkéje másolatát, kivéve a Gyftv. 32. § (2) bekezdés b) pont bc) alpontja szerinti kérelmet;
 
-k)[^7] az eszköz az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökről szóló miniszteri rendeletben, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben előírtak szerinti megfelelőségi nyilatkozatát és – ha az eszköz forgalomba hozatalához az MDR, az IVDR, illetve az orvostechnikai eszközökről szóló rendelet, vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló rendelet alapján szükséges – CE megfelelőségi tanúsítványát;
+k) az eszköz az MDR-ben, az IVDR-ben, illetve az orvostechnikai eszközökről szóló miniszteri rendeletben vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló miniszteri rendeletben előírtak szerinti megfelelőségi nyilatkozatát és – ha az eszköz forgalomba hozatalához az MDR, az IVDR, illetve az orvostechnikai eszközökről szóló rendelet vagy az in vitro diagnosztikai orvostechnikai eszközökről szóló rendelet alapján szükséges – CE megfelelőségi tanúsítványát;
 
-l)[^8] az orvostechnikai eszközök európai uniós adatbázisában nem regisztrált orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz esetében – ide nem értve a rendelésre készült eszközöket
+l) az orvostechnikai eszközök európai uniós adatbázisában nem regisztrált orvostechnikai eszköz és in vitro diagnosztikai orvostechnikai eszköz esetében – ide nem értve a rendelésre készült eszközöket –
 
-la)[^9] magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) történt regisztrációról szóló igazolást,
+la) magyarországi székhelyű gyártó vagy meghatalmazott képviselő esetében a Nemzeti Népegészségügyi és Gyógyszerészeti Központnál (a továbbiakban: NNGYK) történt regisztrációról szóló igazolást,
 
 lb) az EGT-ben székhellyel rendelkező gyártó vagy meghatalmazott képviselő esetében a gyártó vagy a meghatalmazott képviselő székhelye szerinti országban történt regisztrációról szóló igazolást;
 
-m) az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 11.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 10.1. pontja szerinti szakorvosi véleményt; és ha rendelkezésre áll, az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 10.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 9.1. pontja szerinti tanulmányt;
+m) az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 11.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 10.1. pontja szerinti szakorvosi véleményt; és ha rendelkezésre áll, és az EüMr. eltérően nem rendelkezik, az EüMr. 1–4. számú melléklete esetén az EüMr. 1–4. számú melléklet 10.1. pontja és az EüMr. 5. számú melléklete esetén az EüMr. 5. számú melléklet 9.1. pontja szerinti tanulmányt;
 
 n) ha rendelkezésre áll, az eszközre vonatkozó publikációk jegyzékét és az eszközre vonatkozó egyéb hazai vagy külföldi referenciákat;
 
 o) a kérelmező nyilatkozatát a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmek esetén a kérelemben foglaltak és az elektronikus adathordozón benyújtott adatok azonosságáról és hitelességéről.
 
-(5a)[^10] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az NNGYK-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
+(5a)[^8] Az (5) bekezdés l) pont la) alpontja szerinti igazolás csatolásának elmulasztása esetén a NEAK megkeresi az NNGYK-t a kérelemben szereplő eszköz regisztrációjával kapcsolatos adatok beszerzése érdekében.
 
 (6) Ha az eszköz az (5) bekezdés b) pont bd) alpontja szerinti esetben finanszírozott, meg kell jelölni tagállamonként a finanszírozás módját, mértékét, illetve összegét.
 
-(7) A Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelemhez csatolni kell – az (5) bekezdésben foglaltakon túl – az eszköz áremelési kérelmét alátámasztó számításokat is.
+(7)[^9] A Gyftv. 32. § (2) bekezdés b) pont ba) és bf) alpontja szerinti kérelemhez csatolni kell az (1) bekezdésben megjelölt kérelmen túl
+
+a) a nem magyarországi gyártó által a kérelmet benyújtó magyarországi forgalomba hozó részére kiállított írásbeli meghatalmazást a kérelmezett eszközre vonatkozó gyártói képviseletre;
+
+b) az igazgatási szolgáltatási díj befizetéséről, illetve átutalásáról szóló igazolást;
+
+c) a gyógyászati segédeszköz gyártójának vagy annak meghatalmazott képviselőjének arra vonatkozó nyilatkozatát, hogy
+
+ca) – az alkalmazott számítások egyidejű bemutatásával – az általa tett árajánlat kialakítása során figyelembe vette, hogy a fajlagos költségeket és üzleti kockázatot csökkenti a termék támogatással történő értékesítése;
+
+cb) egyedi méretvétel alapján gyártott eszköz esetében az általa tett termelői, importbeszerzési árajánlat kialakítása során az egyidejűleg bemutatott műszaki-gazdasági adatokon nyugvó, előre rögzített paramétereket alkalmazta;
+
+d) az eszköz eredményességét és költséghatékonyságát igazoló dokumentációt, mely tartalmazza az eszköz áremelési kérelmét alátámasztó számításokat is;
+
+e) a kérelmező nyilatkozatát a nem kizárólag elektronikus kapcsolattartás útján benyújtott kérelmek esetén a kérelemben foglaltak és az elektronikus adathordozón benyújtott adatok azonosságáról és hitelességéről.
 
 (8) A Gyftv. 32. § (2) bekezdés b) pont bd) és bh) alpontja szerinti kérelemhez csatolni kell – az (5) bekezdésben foglaltakon túl – a változtatással érintett eszközre vonatkozó dokumentációt is.
 
@@ -110,8 +114,7 @@ bb) ha a kérelmező a NEAK szállítójegyzékében nem szerepel, a cégjegyzé
 [^3]: A 3. § (1) bekezdés b) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^4]: A 3. § (1) bekezdés c) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^5]: A 3. § (1) bekezdés e) pontja a 114/2022. (III. 22.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^6]: A 3. § (5) bekezdés j) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^7]: A 3. § (5) bekezdés k) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (5) bekezdés l) pontja a 135/2022. (IV. 7.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^9]: A 3. § (5) bekezdés l) pont la) alpontja a 334/2023. (VII. 20.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
-[^10]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege, a 334/2023. (VII. 20.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (4) bekezdését a 128/2024. (VI. 17.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^7]: A 3. § (5) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (5a) bekezdését a 135/2022. (IV. 7.) Korm. rendelet 25. § (2) bekezdése iktatta be, szövege, a 334/2023. (VII. 20.) Korm. rendelet 60. § b) pontja szerint módosított szöveg.
+[^9]: A 3. § (7) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
