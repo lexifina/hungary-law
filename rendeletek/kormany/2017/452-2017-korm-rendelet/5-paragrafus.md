@@ -18,6 +18,6 @@ h) jelentős terápiás előnnyel rendelkező készítményre, magasabb áron t�
 
 érkezett.
 
-(2)[^6]
+(2)[^7]
 
-[^6]: Az 5. § (2) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 62. §-a hatályon kívül helyezte.
+[^7]: Az 5. § (2) bekezdését a 334/2023. (VII. 20.) Korm. rendelet 62. §-a hatályon kívül helyezte.

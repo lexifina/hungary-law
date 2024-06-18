@@ -4,9 +4,9 @@ a) a gyógyszer forgalomba hozatali engedélyének jogosultja a gyógyszerek ár
 
 b) a gyógyszer forgalomba hozatali engedélyének jogosultja a Gyftv. 29. § (4) bekezdése szerinti bejelentését az ESZCSM rendelet 6/b. számú mellékletében,
 
-c)[^9] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
+c)[^10] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a tápszerek árához nyújtható támogatás megállapítása, a támogatás mértékének módosítása iránti kérelmét az ESZCSM rendelet 7/a. számú mellékletében,
 
-d)[^10] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
+d)[^11] a tápszer forgalmazója – NNGYK-nál a bejelentést megtevő jogi személy – a változás bejelentése iránti kérelmét az ESZCSM rendelet 7/b. számú mellékletében
 
 meghatározott formanyomtatványon vagy elektronikus űrlapon nyújtja be.
 
@@ -26,8 +26,8 @@ c) az ESZCSM rendeletben meghatározott igazgatási-szolgáltatási díj befizet
 
 a) a gyógyszer forgalomba hozatali engedély jogosultjának az adott gyógyszer forgalomba hozatali engedélyének meglétét,
 
-b)[^11] a tápszer forgalmazójának az NNGYK igazolásának meglétét a tápszer bejelentéséről.
+b)[^12] a tápszer forgalmazójának az NNGYK igazolásának meglétét a tápszer bejelentéséről.
 
-[^9]: A 8. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
-[^10]: A 8. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
-[^11]: A 8. § (5) bekezdés b) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^10]: A 8. § (1) bekezdés c) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
+[^11]: A 8. § (1) bekezdés d) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § c) pontja szerint módosított szöveg.
+[^12]: A 8. § (5) bekezdés b) pontja a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.

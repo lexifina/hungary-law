@@ -22,6 +22,9 @@ d)[^5] már támogatott – a Tfr. 2. § (2) bekezdés 14. pontja szerinti – b
 
 e) kedvezményezetti státusz megítélésére is
 
+f)[^6] a korábbi kérelemben megjelölt ár változatlanul hagyása mellett a finanszírozási kezdőnap megváltoztatására
+
 érkezett.
 
 [^5]: A 4. § d) pontja a 110/2019. (V. 14.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^6]: A 4. § f) pontját a 128/2024. (VI. 17.) Korm. rendelet 21. §-a iktatta be.

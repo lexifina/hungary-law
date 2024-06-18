@@ -1,5 +1,5 @@
 6. § (1) A NEAK főigazgatója a forgalomba hozatalra engedélyezett gyógyszerek E. Alapból történő támogatásával, illetve a támogatás megváltoztatásával vagy megszüntetésével kapcsolatos feladatok ellátására – a normál eljárásrendbe tartozó kérelmekkel kapcsolatos javaslatok előkészítése érdekében – Egészségügyi Technológia-értékelő Bizottságot hoz létre.
 
-(2)[^7] A NEAK az egyes gyógyszerek társadalombiztosítási támogatásba való befogadásáról és a támogatás mértékéről, alapjáról normál eljárás esetén az NNGYK és az egészségügyi szakmai kollégium szakvéleményének kikérését követően dönt.
+(2)[^8] A NEAK az egyes gyógyszerek társadalombiztosítási támogatásba való befogadásáról és a támogatás mértékéről, alapjáról normál eljárás esetén az NNGYK és az egészségügyi szakmai kollégium szakvéleményének kikérését követően dönt. Az 5. § (1) bekezdése szerinti kérelmek esetén az NNGYK szakvéleményét az (EU) 2021/2282 európai parlamenti és tanácsi rendelet alapján elkészített közös klinikai értékelés figyelembevételével alakítja ki, amennyiben az a kérelmezett gyógyszer tekintetében a kérelem szerinti indikációban és összevetésben rendelkezésre áll.
 
-[^7]: A 6. § (2) bekezdése a 334/2023. (VII. 20.) Korm. rendelet 61. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § (2) bekezdése a 128/2024. (VI. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
