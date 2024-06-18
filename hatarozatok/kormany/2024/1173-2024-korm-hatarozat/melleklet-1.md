@@ -24,14 +24,14 @@
 
 | Határidő: | azonnal |
 
-## 2. Az adózói adminisztrációs kötelezettségeket egyszerűsítő eseményalapú adatszolgáltatási megoldások fejlesztéséhez szükséges intézkedésekről szóló 1056/2023. (II. 27.) Korm. határozat 6. pontjában a „Nemzeti Adó- és Vámhivatal” szövegrész helyébe a „Pillér Informatikai Korlátolt Felelősségű Társaság mint a Nemzeti Adó- és Vámhivatal tulajdonosi joggyakorlásában álló gazdasági társaság” szöveg lép.
+## 2.[^1]
 
-## 3. A Széchenyi István Egyetemért Alapítvány egyes, a zöld mobilitáshoz és járműipari innovációkhoz kapcsolódó, társadalmi tudatosságot és szemléletformálást szolgáló közfeladatainak és közérdekű céljainak megvalósításával kapcsolatos intézkedésekről szóló 1080/2024. (III. 28.) Korm. határozat (a továbbiakban: Határozat) a következő 3. ponttal egészül ki:
+## 3.[^2]
 
-## (A Kormány)
-
-## „3. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter az 1. pontban meghatározott feladat megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 1 270 000 000 forint összegben kötelezettséget vállaljon a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. Ágazati szakmai és társadalmi szervezetek feladatai alcím, 2. Állami többletfeladatok jogcímcsoport terhére.”
-
-## 4. A Határozat 2. pont a) alpontjában az „azonnal” szövegrész helyébe az „a felmerülés ütemében” szöveg lép.
+## 4.[^3]
 
 1. melléklet az 1173/2024. (VI. 17.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
