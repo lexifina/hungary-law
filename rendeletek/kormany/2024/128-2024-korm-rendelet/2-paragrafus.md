@@ -1,0 +1,1 @@
+2. § A 217/1997. (XII. 1.) Korm. rendelet 7/C. § (1) bekezdés b) pontjában az „5%-ot” szövegrész helyébe az „5%-ot, azon támogatási csoportokban, ahol a befogadott termékek száma a 30-at meghaladja, 2%-ot” szöveg lép.
