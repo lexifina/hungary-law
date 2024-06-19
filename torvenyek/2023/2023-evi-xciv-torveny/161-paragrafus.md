@@ -8,4 +8,4 @@
 
 (4) A 35. § 2024. július 1-jén lép hatályba.
 
-(5) A 28. § b) pontja, a 116. §, a 133. §, a 134. § g), k), l) és m) pontja, a 137. §, a 142. § és a 143. § 2024. október 1-jén lép hatályba.
+(5) A 28. § b) pontja, a 134. § g), k), l) és m) pontja, a 137. §, a 142. § és a 143. § 2025. január 15-én lép hatályba.
