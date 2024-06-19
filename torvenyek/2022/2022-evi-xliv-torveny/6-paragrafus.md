@@ -42,8 +42,10 @@ f) a Menekültügyi, Migrációs és Integrációs Alappal,
 
 g) a Belső Biztonsági Alappal,
 
-h) a Határigazgatási és Vízumpolitikai Eszközzel és a
+h) a Határigazgatási és Vízumpolitikai Eszközzel,
 
-i) a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszközzel
+i) a Szomszédsági, Fejlesztési és Nemzetközi Együttműködési Eszközzel, valamint
+
+j) az Előcsatlakozási Támogatási Eszközzel (IPA III)
 
 kapcsolatos audithatósági feladatokat.

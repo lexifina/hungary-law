@@ -15,3 +15,13 @@ e) a Helyreállítási és Rezilenciaépítési Eszköz létrehozásáról szól
 f) a brexit miatti kiigazításokra képzett tartalék létrehozásáról szóló 2021. október 6-i (EU) 2021/1755 európai parlamenti és tanácsi rendelet,
 
 g) az uniós költségvetés védelmét szolgáló általános feltételrendszerről szóló, 2020. december 16-i (EU) 2020/2092 európai parlamenti és tanácsi rendelet.
+
+h) az Előcsatlakozási Támogatási Eszköz (IPA III) létrehozásáról szóló, 2021. szeptember 15-i (EU) 2021/1529 európai parlamenti és tanácsi rendelet,
+
+i) az Európai Regionális Fejlesztési Alap által az európai területi együttműködési célkitűzésnek nyújtott támogatásra vonatkozó egyedi rendelkezésekről szóló, 2013. december 17-i 1299/2013/EU európai parlamenti és tanácsi rendelet,
+
+j) az Európai Szomszédsági Támogatási Eszköz létrehozásáról szóló 232/2014/EU európai parlamenti és tanácsi rendelet alapján finanszírozott, határokon átnyúló együttműködési programok végrehajtására vonatkozó egyedi rendelkezések megállapításáról szóló, 2014. augusztus 18-i 897/2014/EU bizottsági végrehajtási rendelet,
+
+k) az IPA II Előcsatlakozási Támogatási Eszköz létrehozásáról szóló 231/2014/EU európai parlamenti és tanácsi rendelet végrehajtásának egyedi szabályairól szóló, 2014. május 2-i 447/2014/EU bizottsági végrehajtási rendelet,
+
+l) az Európai Regionális Fejlesztési Alap és külső finanszírozási eszközök által támogatott európai területi együttműködési célkitűzésre (Interreg) vonatkozó egyedi rendelkezésekről szóló, 2021. június 24-i (EU) 2021/1059 európai parlamenti és tanácsi rendelet.
