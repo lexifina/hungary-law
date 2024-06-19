@@ -36,7 +36,7 @@ j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelinté
 
 (4a) A kincstár fizetési számlát vezet
 
-a) a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház és a bevett egyház számára,
+a) a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház és a belső egyházi jogi személy megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház, továbbá azok belső egyházi jogi személye számára, valamint ha a nyilvántartásba vett egyház, a bejegyzett egyház, bevett egyház, továbbá azok belső egyházi jogi személye felsőoktatási intézményt tart fenn, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is,
 
 b) törvény által az államháztartás központi alrendszerébe sorolt köztestület kizárólagos tulajdonában álló gazdasági társaság megbízása esetén a gazdasági társaság számára,
 

@@ -89,3 +89,5 @@
 (38) A Kormány által egyedi határozatban biztosított beruházásösztönzési célú költségvetési támogatások tárgyév december 31-éig kifizetni tervezett azon összegét, amelynek kifizetése a tárgyévet követő időpontra került átütemezésre, nem kell beszámítani a Magyarország 2019. évi központi költségvetéséről szóló 2018. évi L. törvény 27. § (2) bekezdése szerinti tárgyéven túli fizetési kötelezettségvállalásra vonatkozó keretösszegbe.
 
 (39) Az 56/B. § (3) bekezdése szerinti bírság megállapítása a 2023. január 1. és 2023. augusztus 31-e között rögzítendő támogatási döntések tekintetében nem alkalmazható, amennyiben a támogató vagy a támogató nevében eljáró szervezet a kapcsolódó adatátadásnak 2023. augusztus 31-éig eleget tett.
+
+(40) A Kormány a Magyarország 2025. évi központi költségvetéséről szóló törvényjavaslatot – a 22. § (2) bekezdésétől eltérően – 2024. november 15-éig nyújtja be az Országgyűlésnek.

@@ -112,6 +112,8 @@ b) átvevő költségvetési szerv részére történő vagyonátadásával, ira
 
 42. a 109. § (5) bekezdésében kapott felhatalmazás alapján megalkotott jogszabály formai megszerkesztésének részletes szabályait.
 
+43. a 97. § (1a) bekezdése szerinti méltányossági eljárás részletes szabályait.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 
 a) a kincstárt, és
