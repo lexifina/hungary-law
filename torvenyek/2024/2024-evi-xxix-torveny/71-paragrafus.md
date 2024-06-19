@@ -1,7 +1,3 @@
-## 30. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
+## 30.
 
-71. § A munka törvénykönyvéről szóló 2012. évi I. törvény a következő 204/A. §-sal egészül ki:
-
-„204/A. § (1) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a gazdasági társasághoz, aki az 55. életévét betöltötte, a gazdasági társaság a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a gazdasági társaság nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a gazdasági társaság gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a gazdasági társaság vezetője határozza meg a vezényelt által ellátandó feladatokat.
-
-(2) Az (1) bekezdés szerinti esetben a 204. § (1) bekezdése szerinti gazdasági társaságban a gazdasági társaság feladatkörébe tartozó feladatot a gazdasági társasághoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.”
+### 71. §

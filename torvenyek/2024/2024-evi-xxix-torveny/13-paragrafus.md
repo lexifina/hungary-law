@@ -1,3 +1,1 @@
-13. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 16. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. A kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban együtt: védművek) – építéséért és fejlesztéséért az állami beruházásokért felelős miniszter felelős vagy a Kormány rendelete alapján a vízügyi igazgatási szervek felelősek. Ezen új védművek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.”
+### 13. §

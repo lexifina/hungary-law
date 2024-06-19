@@ -1,1 +1,1 @@
-178. § Az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2024. évi IX. törvény 21. §-a az „állam képviseletében” szövegrész helyett az „állam protokolláris képviseletében” szöveggel lép hatályba.
+### 178. §

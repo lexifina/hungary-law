@@ -1,3 +1,1 @@
-90. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 51. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A szolgálatteljesítésre sor kerülhet kormányzati igazgatási szervhez történő hatósági vezényléssel is (a továbbiakban: hatósági vezénylés), amennyiben a rendvédelmi szerv által ellátott hatósági hatáskör törvény vagy kormányrendelet rendelkezése alapján a kormányzati igazgatásról szóló törvény hatálya alá tartozó kormányzati igazgatási szervhez kerül. Hatósági vezényléssel a hivatásos állomány azon tagja vezényelhető, aki a hatáskör telepítés napját megelőző napon olyan szolgálati beosztást töltött be, amelyben a megváltozó hatáskörbe tartozó feladatot, vagy ahhoz kapcsolódó feladatot, illetve a hatósági vezényléssel érintett beosztáshoz, munkakörhöz kapcsolódó funkcionális feladatot látott el.”
+### 90. §
