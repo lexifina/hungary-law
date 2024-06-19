@@ -26,4 +26,6 @@ A szervező személyi megfelelőségének megállapításáról kiállított hat
 
 12. Hatósági bizonyítvány kiállításának helye és napja.
 
-13. Kiadmányozó tisztségének megjelölése, aláírás és bélyegzőlenyomat helye.
+13.[^7] Kiadmányozó nevének és tisztségének megjelölése, kiadmányozó aláírása.
+
+[^7]: A 2. melléklet 13. pontja a 6/2024. (VI. 18.) SZTFH rendelet 5. § c) pontja szerint módosított szöveg.
