@@ -1,7 +1,0 @@
-A Kormány
-
-az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15d. pontjában kapott felhatalmazás alapján,
-
-a 2. alcím tekintetében az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény 28. § (1) bekezdés t) pontjában kapott felhatalmazás alapján,
-
-az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
