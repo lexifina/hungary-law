@@ -366,4 +366,66 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 17. | NISZ Zrt. | NTG-webtárhely-szolgáltatás – az Integritás Hatóság és a Korrupcióellenes Munkacsoport éles teszt weblapjaihoz | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a szerint módosított szöveg.
+14. A Szuverenitásvédelmi Hivatal részére nyújtott közszolgáltatások
+
+| A | B | C | D | E |
+
+| Sor- szám | Központi szolgáltató megnevezése | A közszolgáltatás tárgya | A közszolgáltatási feladat | A szolgáltatás nyújtásának kezdete |
+
+| 1. | NISZ Zrt. | Integrált adatszolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 2. | NISZ Zrt. | Központi Internet szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 3. | NISZ Zrt. | Menedzselt LAN és LAN építési kiegészítő szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 4. | NISZ Zrt. | Hangforgalmi szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 5. | NISZ Zrt. | Alközponti szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 6. | NISZ Zrt. | WIFI szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 7. | NISZ Zrt. | Menedzselt munkaállomás-üzemeltetési szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 8. | NISZ Zrt. | Alkalmazástámogatás szolgáltatás | alkalmazásüzemeltetési és alkalmazásfejlesztési szolgáltatás | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 9. | NISZ Zrt. | Mobilkommunikációs szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 10. | NISZ Zrt. | Menedzselt irodatechnikai szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 11. | NISZ Zrt. | Levelezés szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 12. | NISZ Zrt. | Tárhelyszolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 13. | NISZ Zrt. | Komplex infrastruktúra szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 14. | NISZ Zrt. | Szakértői szolgáltatás | üzemeltetés és fejlesztés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 15. | NISZ Zrt. | NTG-webtárhely szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 16. | NISZ Zrt. | VIKI Videokonferencia végközponti eszközüzemeltetés kiegészítő szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 17. | NISZ Zrt. | Interaktív Hangmenürendszer (IVR) szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 18. | NISZ Zrt. | Eszközüzemeltetés szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 19. | NISZ Zrt. | Közvetített szolgáltatás | hálózati szolgáltatás (üzemeltetés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 20. | NISZ Zrt. | Fizikai szerver hoszting szolgáltatás | üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 21. | NISZ Zrt. | Virtuális adatközpont szolgáltatás | adatközponti szolgáltatás (fejlesztés és üzemeltetés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 22. | NISZ Zrt. | Hordozható eszközöket felügyelő szolgáltatás | kiberbiztonsági szolgáltatás (üzemeltetés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 23. | NISZ Zrt. | Menedzselt kiberbiztonsági szolgáltatás | kiberbiztonsági szolgáltatás (üzemeltetés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 24. | NISZ Zrt. | Kormányzati hitelesítési szolgáltatás | Szabályozott és Központi Elektronikus ügyintézési szolgáltatások (üzemeltetés) | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 25. | NISZ Zrt. | Fájlküldő szolgáltatás | üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 26. | NISZ Zrt. | Iratkezelő rendszerek közötti iratáthelyezési szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 27. | NISZ Zrt. | Elektronikus dokumentumtárolási szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+| 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
+
+[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a szerint módosított szöveg.
