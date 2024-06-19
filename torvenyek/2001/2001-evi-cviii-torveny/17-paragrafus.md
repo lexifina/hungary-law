@@ -20,6 +20,8 @@ f) rendeletben határozza meg a 6/C. § szerint kiszabható közigazgatási bír
 
 g) rendeletben határozza meg a közvetítő szolgáltatónak a biztonsági események kezelésével és kivizsgálásával kapcsolatos feladatait, valamint a 15/B. § (4) bekezdése szerint kiszabható bírság mértékét, a bírság megállapításának szempontrendszerét és a bírság megfizetése módjának részletszabályait.
 
+h) rendeletben állapítsa meg az online szálláshely-közvetítők szálláshely-szolgáltatás értékesítési tevékenységéhez kapcsolódó részletes szabályokat,
+
 (2) Felhatalmazást kap az informatikáért felelős miniszter, hogy az e-közigazgatásért felelős miniszter és a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter egyetértésével kiadott rendeletben szabályozza
 
 a)
