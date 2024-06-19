@@ -1,0 +1,5 @@
+## „a) a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház és a belső egyházi jogi személy megbízása esetén a nyilvántartásba vett egyház, a bejegyzett egyház, a bevett egyház, továbbá azok belső egyházi jogi személye számára, valamint ha a nyilvántartásba vett egyház, a bejegyzett egyház, bevett egyház, továbbá azok belső egyházi jogi személye felsőoktatási intézményt tart fenn, megbízása esetén az általa fenntartott felsőoktatási intézménye számára is,”
+
+68. § Az államháztartásról szóló 2011. évi CXCV. törvény 97. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A fővárosi és vármegyei kormányhivatal a Kormány rendeletében meghatározott méltányossági eljárás keretében a jogszabályban meghatározott családi otthonteremtési kedvezmény, otthonteremtési kamattámogatás, adó-visszatérítési támogatás, családok otthonteremtési kamattámogatása, gyermekvállalási támogatás, babaváró kölcsön kamattámogatása, valamint a felszámított kamatok tekintetében az államot megillető követelésről részben vagy egészben lemondhat.”

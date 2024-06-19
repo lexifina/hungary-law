@@ -1,0 +1,3 @@
+61. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 39. alcíme a következő 85/A. §-sal egészül ki:
+
+„85/A. § A hivatásos katasztrófavédelmi szervtől kormányzati igazgatási szervhez 2024. október 1-jén átkerülő hatósági hatáskör telepítéssel összefüggésben a katasztrófavédelmi IHR használatával kapcsolatos kérdésekről – ide értve az adatfeldolgozással összefüggő kérdéseket is – továbbá a költségvetési, vagyoni, üzemeltetési, iratátadási és adminisztrációs kérdésekről, valamint a hatáskört átvevő szervek számára nyújtott humánigazgatási és informatikai támogatásról 2024. szeptember 30-ig a katasztrófák elleni védekezésért felelős miniszter és a közigazgatás szervezéséért felelős miniszter megállapodást köt.”

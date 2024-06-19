@@ -1,0 +1,5 @@
+## 14. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
+
+31. § Az egészségügyről szóló 1997. évi CLIV. törvény 81. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló miniszteri rendeletben ekként meghatározott szűrővizsgálatok kötelezőek. A szűrővizsgálatra kötelezett, cselekvőképességet érintő gondokság alatt álló vagy kiskorú személy szűrővizsgálaton történő részvételéről a törvényes képviselő köteles gondoskodni. Ha e kötelezettségének a kötelezett vagy a törvényes képviselő nem tesz eleget, az egészségügyi államigazgatási szerv a szűrővizsgálatot határozattal elrendeli. A szűrővizsgálatot elrendelő határozat – közegészségügyi vagy járványügyi okból – azonnal végrehajthatóvá nyilvánítható. Kiskorú esetében az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.”

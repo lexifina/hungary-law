@@ -1,0 +1,3 @@
+14. § A vízgazdálkodásról szóló 1995. évi LVII. törvény 28/A. § (1b) bekezdése helyébe a következő rendelkezés lép:
+
+„(1b) A hatósági nyilvántartásba történő előzetes bejelentést követően a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendeletben meghatározott időtartamon belül az öntözési igazgatási szerv – a vízbázis állapotára és a tervezett kútnak a vízbázisra gyakorolt hatására tekintettel a felszín alatti vizek védelme érdekében – az előzetes bejelentésben foglaltak alapján a létesítést, az üzemeltetést vagy a megszüntetést jóváhagyja, megtiltja, vagy megállapítja, hogy a létesítés, az üzemeltetés vagy a megszüntetés csak véglegessé vált vízjogi létesítési, üzemeltetési vagy megszüntetési engedély birtokában kezdhető meg.”
