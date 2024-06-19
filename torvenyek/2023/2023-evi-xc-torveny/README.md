@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-90-00-00
 | 2024-01-02 | 2010. évi CXXX. törvény | 2023-90-00-00.2 |
 | 2024-01-03 | 2010. évi CXXX. törvény | 2023-90-00-00.3 |
 | 2024-05-11 | 2024. évi XXV. törvény | 2023-90-00-00.8 |
+| 2024-06-19 | 2024. évi XXIX. törvény | 2023-90-00-00.11 |

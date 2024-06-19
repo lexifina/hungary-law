@@ -12,7 +12,7 @@ c) aki úgy nyilatkozik, hogy a (3) bekezdés szerinti befektetések legalább e
 
 ca) igazolja, hogy a (3) bekezdés szerinti befektetések legalább egyikének megfelelő, törvényes eredetű összeggel rendelkezik, amelynek Magyarország területén rendelkezésre állónak vagy átutalhatónak kell lennie, és
 
-cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízummal Magyarország területére történő első belépését követő három hónapon belül.
+cb) írásbeli kötelezettségvállalást nyújt be arról, hogy vállalja legalább az egyik, a (3) bekezdésben meghatározott összegű és típusú befektetés megvalósítását a vendégbefektetői vízum kiadását követő három hónapon belül.
 
 (3) A (2) bekezdés a) pontjában és a 22. § (3) bekezdés a) pontjában foglaltak alkalmazásában nemzetgazdasági érdeknek kell tekinteni az alábbi befektetések megvalósítását:
 
