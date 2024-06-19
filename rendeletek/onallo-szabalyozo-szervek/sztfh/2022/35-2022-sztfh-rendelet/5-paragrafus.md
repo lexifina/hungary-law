@@ -4,4 +4,6 @@
 
 (3) A gyűjtőcsomagolás szintű egyedi azonosító díja nettó 5 Ft/darab.
 
-(4) A (2) és (3) bekezdés szerinti díj megfizetésének feltételeit, megállapításának és elszámolásának módját, valamint a megrendelő által adandó pénzügyi biztosíték nyújtását az azonosítókibocsátó és a megrendelő között létrejött, 3. § (4) bekezdése szerinti szerződés tartalmazza.
+(4)[^3] A (2) és (3) bekezdés szerinti díj megfizetésének feltételeit, megállapításának és elszámolásának módját az azonosítókibocsátó és a megrendelő között létrejött, 3. § (4) bekezdése szerinti szerződés tartalmazza.
+
+[^3]: Az 5. § (4) bekezdése a 6/2024. (VI. 18.) SZTFH rendelet 6. §-a szerint módosított szöveg.
