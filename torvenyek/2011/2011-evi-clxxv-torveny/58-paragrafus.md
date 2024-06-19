@@ -18,7 +18,7 @@ g) egyéb bevételek.
 
 (2) Az (1) bekezdés a) pontjában foglalt befizetések a Ptk. szerinti közérdekű kötelezettségvállalásnak minősülnek.
 
-(3) Az Alap bevétele és év végi maradványa nem vonható el. Az év végi maradvány a tárgyévi bevételi terv teljesülése előtt igénybe vehető – az előző évek kötelezettségvállalásainak fedezeteként – a kiadási és bevételi előirányzat egyidejű módosításával.
+(3) Az Alap bevétele és év végi maradványa nem vonható el.
 
 (4)
 
