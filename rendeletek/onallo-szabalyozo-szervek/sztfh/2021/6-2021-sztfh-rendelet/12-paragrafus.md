@@ -8,4 +8,6 @@ b) az alkalmazni kívánt személy nyilatkozatát, amelyben maga is kéri az ön
 
 c) a Vht. szerinti névjegyzékbe vételi feltételek fennállását igazoló okiratok eredeti példányát vagy hiteles másolatát.
 
-(3) A Kar Hivatali szerve megvizsgálja a benyújtott iratokat és a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt; valamint a 11. § (2) bekezdésében foglalt adatokra, illetve körülményekre vonatkozóan – az elnökség legalább egy tagjának bevonásával – meghallgatja a névjegyzékbe veendő személyt, továbbá meghallgathatja a kérelmező (munkáltatói jogokat gyakorló) önálló végrehajtót is, majd dönt a névjegyzékbe vétel kérdésében.
+(3)[^31] A Kar Hivatali szerve megvizsgálja a benyújtott iratokat és a bűnügyi nyilvántartó szerv által kiállított hatósági erkölcsi bizonyítványt; valamint – az elnökség legalább egy tagjának bevonásával – meghallgatja a névjegyzékbe veendő személyt, továbbá meghallgathatja a kérelmező (munkáltatói jogokat gyakorló) önálló végrehajtót is, majd dönt a névjegyzékbe vétel kérdésében.
+
+[^31]: A 12. § (3) bekezdése a 6/2024. (VI. 18.) SZTFH rendelet 4. § f) pontja szerint módosított szöveg.

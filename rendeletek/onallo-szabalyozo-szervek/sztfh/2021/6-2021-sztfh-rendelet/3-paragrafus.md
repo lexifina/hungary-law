@@ -1,5 +1,3 @@
-## 2. § A Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) elnöke az önálló bírósági végrehajtói állás létesítése előtt beszerzi a Magyar Bírósági Végrehajtói Kar (a továbbiakban: Kar) Hivatali szervének javaslatát, és megvizsgálja, hogy az adott bíróság illetékességi területén indult és befejezett végrehajtási ügyek száma indokolttá teszi-e az álláshely létesítését.
-
 ## 2. A végrehajtási ügyek elosztása
 
 3. § (1) A végrehajtási ügyeket a Kar Hivatali szerve – a (4) és (5) bekezdésben foglalt eltérésekkel – a Kar Hivatali szervéhez érkezésük sorrendjében a központi ügynyilvántartó rendszer útján, egyesével osztja ki az ugyanazon járásbíróság mellett működő önálló bírósági végrehajtók (a továbbiakban: önálló végrehajtó) között.

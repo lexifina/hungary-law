@@ -350,7 +350,7 @@
 
 | Összesen: | 9 |
 
-2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^30]
+2. melléklet a 6/2021. (X. 29.) SZTFH rendelethez[^36]
 
 A bírósági végrehajtói állásra pályázók értékelésének szempontjai és az értékelés során adható pontok
 
@@ -422,4 +422,4 @@ A bírósági végrehajtói állásra pályázók értékelésének szempontjai 
 
 | 3. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |  |
 
-[^30]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^36]: A 2. melléklet az 1/2022. (I. 14.) SZTFH rendelet 6. § (1) bekezdésével megállapított szöveg.
