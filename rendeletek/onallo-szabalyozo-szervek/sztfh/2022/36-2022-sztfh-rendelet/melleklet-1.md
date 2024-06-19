@@ -212,4 +212,10 @@ A dohányboltban forgalmazható termékek a következők:
 
 | 102. | hordtáska műanyagból | 4202 |
 
+| 103.[^4] | a népegészségügyi termékadóról szóló törvényben meghatározott ropogtatnivaló (snack) |  |
+
+| 104.[^5] | a népegészségügyi termékadóról szóló törvényben meghatározott ropogtatnivaló (snack) | 1904, 1905, 2005 20 20, 2005 99, 2008 |
+
 [^3]: Az 1. melléklet a 13/2023. (VI. 30.) SZTFH rendelet 9. §-ával megállapított szöveg.
+[^4]: Az 1. melléklet 2. pontjában foglalt táblázat 103. sorát a 6/2024. (VI. 18.) SZTFH rendelet 7. §-a iktatta be.
+[^5]: Az 1. melléklet 2. pontjában foglalt táblázat 104. sorát a 6/2024. (VI. 18.) SZTFH rendelet 7. §-a iktatta be.
