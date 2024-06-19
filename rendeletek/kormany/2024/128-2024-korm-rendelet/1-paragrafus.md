@@ -1,11 +1,5 @@
 ## 1. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet módosítása
 
-1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet [a továbbiakban: 217/1997. (XII. 1.) Korm. rendelet] 2. § (1) bekezdés a) pontja a következő ai) alponttal egészül ki:
+1. §[^1]
 
-[A biztosított – az Ebtv. 20. § (4) bekezdésében meghatározott eset kivételével – orvosi beutaló nélkül is jogosult igénybe venni
-
-szakorvosi rendelő által nyújtott]
-
-„ai) asszisztált reprodukciós”
-
-[szakellátást,]
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

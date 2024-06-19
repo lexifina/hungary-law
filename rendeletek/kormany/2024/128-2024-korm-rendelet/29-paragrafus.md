@@ -1,1 +1,3 @@
-29. § Hatályát veszti az 505/2017. (XII. 29.) Korm. rendelet 4. § (3)–(5) bekezdése.
+29. §[^32]
+
+[^32]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

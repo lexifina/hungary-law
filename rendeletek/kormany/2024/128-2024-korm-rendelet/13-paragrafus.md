@@ -1,3 +1,5 @@
 ## 9. A gyógyszertárak létesítésének és működtetésének részletes szabályairól szóló 422/2016. (XII. 14.) Korm. rendelet módosítása
 
-13. § Hatályát veszti a gyógyszertárak létesítésének és működtetésének részletes szabályairól szóló 422/2016. (XII. 14.) Korm. rendelet 3. § (1) bekezdés d) pontjában az „(a vagyoni biztosíték összegét, a többletszolgáltatásokra vonatkozó elvárásokat)” szövegrész.
+13. §[^12]
+
+[^12]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

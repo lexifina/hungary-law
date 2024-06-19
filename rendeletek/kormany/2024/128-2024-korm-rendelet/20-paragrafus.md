@@ -1,1 +1,3 @@
-20. § Hatályát veszti a 451/2017. (XII. 27.) Korm. rendelet 3. § (4) bekezdése.
+20. §[^23]
+
+[^23]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

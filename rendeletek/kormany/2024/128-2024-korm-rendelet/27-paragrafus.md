@@ -1,9 +1,3 @@
-## „b) megszakítja a vizsgáló intézmény helyszíni ellenőrzését vagy a vizsgálatok helyszíni felülvizsgálatát, intézkedik a vizsgáló intézmény GLP megfelelőségét igazoló hatósági bizonyítvány visszavonásáról, vagy hatósági bizonyítvánnyal még nem rendelkező ügyfél esetén a hatósági bizonyítvány kiadása iránti kérelem elutasításáról, valamint a vizsgáló intézmény a GLP Programból való törléséről,”
+27. §[^30]
 
-27. § Az 505/2017. (XII. 29.) Korm. rendelet a következő 4/A–4/C. §-sal egészül ki:
-
-„4/A. § A GLP Programban szereplő vizsgáló intézmény haladéktalanul, írásban köteles bejelenteni minden, a vizsgáló intézményt, a vizsgálattípusokat, vizsgálati eljárásokat, vizsgálati anyagok típusát, létesítményeket és a vizsgáló intézményben a GLP megfelelőségért felelősséggel tartozó személyeket érintő változást. A változásbejelentés alapján a GLP megfelelőség fenntartása érdekében helyszíni ellenőrzés szükségességéről az NNGYK dönt.
-
-4/B. § Ha a GLP Programban való részvétel megszűnését jelenti be a vizsgáló intézmény, az NNGYK a vizsgáló intézmény GLP megfelelőségét igazoló hatósági bizonyítványt visszavonja, valamint törli a vizsgáló intézményt a GLP Programból, illetve a GLP Programban részt vevő intézmények nyilvántartásából.
-
-4/C. § Az NNGYK folyamatosan nyomon követi azon vizsgáló intézmények GLP státuszát, amelyek hatósági bizonyítványuk megújítása érdekében nem kezdeményezik ellenőrzésüket. Az NNGYK ennek keretében kockázatértékelés alapján dönt a vizsgáló intézménynél hivatalból folytatott ellenőrzési eljárás megindításáról. Ha az ellenőrzés során az NNGYK megállapítja, hogy a vizsgáló intézmény olyan mértékben tért el a GLP alapelveitől, hogy az veszélyezteti a vizsgálat megbízhatóságát, a vizsgáló intézményt törli a GLP Programból. Ha az NNGYK az ellenőrzése során jogsértést tár fel, megteszi a szükséges intézkedéseket a megfelelő eljárás megindítása érdekében.”
+[^30]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

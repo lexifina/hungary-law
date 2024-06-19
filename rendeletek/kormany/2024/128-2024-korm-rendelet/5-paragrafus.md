@@ -1,5 +1,5 @@
 ## 3. A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet módosítása
 
-5. § A járóbeteg-ellátás keretében rendelt gyógyszerek, gyógyászati segédeszközök és gyógyfürdőellátások árához nyújtott támogatások elszámolásáról és folyósításáról szóló 134/1999. (VIII. 31.) Korm. rendelet 4. § (4a) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(4a) Az adott elszámolási időszakban kizárólag azok a tárgyi elszámolási időszak alatt beváltott és kiszolgált elektronikus vények számolhatók el, amelyek kiadásakor a gyógyszer kiadója az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló rendelet, a gyógyászati segédeszközök javítása, kölcsönzése kivételével, a gyógyászati segédeszköz kiadója, a gyógyászati segédeszközök társadalombiztosítási támogatásba történő befogadásról, támogatással történő rendeléséről, forgalmazásáról, javításáról és kölcsönzéséről szóló rendelet szerinti kötelező adatrögzítést elvégezte, és amelyhez a rendelt terméket átvevő személy aláírását tartalmazó kiadási igazolás készült, vagy az átvételt az aláírást rögzítő vagy a jogosult átvevő személyét azonosító egyéb technika alkalmazásával igazolták.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
