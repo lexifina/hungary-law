@@ -30,7 +30,7 @@ f) az e törvény, a Kttv., a köztisztviselők jogállásáról szóló törvé
 
 g) a 104. § (9) bekezdése és a 105. § (2) bekezdése szerinti jogviszony-létesítés esetén a két jogviszony közötti időtartamot,
 
-h) a 89. § (6) bekezdése szerinti munkahelyváltás esetén a nyugvás időtartamát, és
+h)
 
 i) az állami vezetői szolgálati jogviszonyban, politikai felsővezetőként politikai szolgálati jogviszonyban töltött időt
 

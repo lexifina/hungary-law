@@ -24,7 +24,7 @@ h) ha a kormánytisztviselő a társadalombiztosítási szabályok alapján az �
 
 i) jogviszonyváltáskor a 114. § (3) bekezdése szerinti esetben;
 
-j) abban az esetben, ha a 89. § (6) bekezdésének alkalmazása során az ott megállapított határidő leteltéig a fogadó kormányzati igazgatási szerv nem állítja ki az új beosztási okiratot,
+j)
 
 k) ha a Kormány döntése alapján a központosított álláshelyállományból származó álláshely visszakerül a központosított álláshelyállományba,
 

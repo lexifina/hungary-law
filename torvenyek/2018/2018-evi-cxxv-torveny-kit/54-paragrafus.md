@@ -18,7 +18,15 @@ hozható létre.
 
 (2) A Kormány döntése alapján kormányzati szolgálati jogviszony létrehozható a 2. §-ban nem szereplő szerv számára biztosított álláshelyen is.
 
-(3) Az álláshely betölthető a kormányzati igazgatási szervhez vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony), valamint a kormányzati igazgatási szervhez a honvédek jogállásáról szóló törvény szerint vezényelt vagy kirendelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony) álló személlyel is, illetve kormányzati igazgatási szervhez kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony) álló személlyel is, azzal, hogy ebben az esetben – a hivatásos szolgálati jogviszony, a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony és a hivatásos szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
+(3) Az álláshely betölthető a kormányzati igazgatási szervhez
+
+a) vezényelt, hatósági vezényelt, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban (a továbbiakban: hivatásos szolgálati jogviszony) vagy hatósági kirendelés alapján rendvédelmi igazgatási szolgálati jogviszonyban (a továbbiakban: rendvédelmi igazgatási szolgálati jogviszony),
+
+b) a honvédek jogállásáról szóló kormányrendelet szerint vezényelt hivatásos vagy szerződéses szolgálati viszonyban (a továbbiakban: katonai szolgálati viszony)
+
+c) kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban (a továbbiakban: adó- és vámhatósági szolgálati jogviszony)
+
+álló személlyel is azzal, hogy az a)–c) pont szerinti esetben – a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony a katonai szolgálati viszony és az adó- és vámhatósági szolgálati jogviszony szünetelése esetének kivételével – nem jön létre az (1) bekezdés szerinti jogviszony, és a hivatásos szolgálati jogviszony, a rendvédelmi igazgatási szolgálati jogviszony, a katonai szolgálati viszony, valamint az adó- és vámhatósági szolgálati jogviszony továbbra is fennáll.
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
