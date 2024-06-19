@@ -10,4 +10,4 @@
 
 (5) Az 56. alcím 2023. július 1-jén lép hatályba.
 
-(6) Az 51. alcím 2024. október 1-jén lép hatályba.
+(6) Az 51. alcím 2025. január 15-én lép hatályba.
