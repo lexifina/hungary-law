@@ -72,20 +72,47 @@
 
 | Határidő: | azonnal |
 
-## 2.[^3]
+## j) [^3] egyetért az Országos Széchényi Könyvtár közfeladat-ellátásával összefüggő, az archivális raktár használatba vétele, fenntartása és üzemeltetése érdekében felmerülő költségeinek központi költségvetési támogatásával, ennek érdekében felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter kezdeményezése alapján – gondoskodjon legfeljebb 599 158 800 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XX. Kulturális és Innovációs Minisztérium fejezet, 11. Közgyűjtemények cím javára;
 
-## 3.[^4]
+| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
 
-## 4.[^5]
+| Határidő: | azonnal |
 
-## 5.[^6]
+## k) [^4] felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – gondoskodjon az archivális raktár folyamatos használatba vétele érdekében
 
-1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^7]
+## ka) a 2025. évben 1 310 689 591 forint,
+
+## kb) a 2026. évben 510 230 600 forint
+
+## rendelkezésre állásáról az adott évi központi költségvetés XX. Kulturális és Innovációs Minisztérium fejezetében;
+
+| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
+
+| Határidő: | az adott évi központi költségvetés tervezése során |
+
+## l) [^5] felhívja a pénzügyminisztert, hogy – a kultúráért és innovációért felelős miniszter bevonásával – gondoskodjon az archivális raktár üzemeltetése, fenntartása érdekében a 2026. évtől beépülő jelleggel 1 261 480 600 forint rendelkezésre állásáról a központi költségvetés XX. Kulturális és Innovációs Minisztérium fejezetében.
+
+| Felelős: | pénzügyminiszter kultúráért és innovációért felelős miniszter |
+
+| Határidő: | a 2026. évtől kezdődően a központi költségvetés tervezése során |
+
+## 2.[^6]
+
+## 3.[^7]
+
+## 4.[^8]
+
+## 5.[^9]
+
+1. melléklet az 1415/2021. (VI. 30.) Korm. határozathoz[^10]
 
 [^1]: Az 1. pont h) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
 [^2]: Az 1. pont i) alpontját az 1079/2024. (III. 28.) Korm. határozat iktatta be.
-[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont j) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
+[^4]: Az 1. pont k) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
+[^5]: Az 1. pont l) alpontját az 1181/2024. (VI. 20.) Korm. határozat szövege iktatta be.
+[^6]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
