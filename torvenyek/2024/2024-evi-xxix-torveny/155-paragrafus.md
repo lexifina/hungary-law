@@ -1,1 +1,1 @@
-155. § Hatályát veszti az Európai Támogatásokat Auditáló Főigazgatóságról és a kondicionalitási eljárás eredményes lezárása érdekében az Európai Bizottság kérésére elfogadott egyes törvények módosításáról szóló 2022. évi XLIV. törvény 10. § f) pontjában az „ellátja” szövegrész.
+### 155. §
