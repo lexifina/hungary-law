@@ -56,4 +56,4 @@
 
 Nyilatkozat
 
-[^4]: A 9. melléklet a 21/2023. (VIII. 24.) MK rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 9. melléklet a 6/2024. (VI. 20.) MK rendelet 2. §-ával megállapított szöveg.
