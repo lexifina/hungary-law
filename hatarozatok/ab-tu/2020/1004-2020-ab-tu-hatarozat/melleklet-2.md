@@ -1,4 +1,4 @@
-2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^7]
+2. melléklet az 1004/2020. (IV. 30.) AB Tü. határozathoz[^15]
 
 Állománytábla
 
@@ -12,7 +12,9 @@
 
 | Elnöki kabinet | Kabinetfőnök | 1 |
 
-| Elnöki kabineti jogászok | 10 |
+| Kabinetfőnök-helyettes | 1 |
+
+| Elnöki kabineti jogászok | 9 |
 
 | Nemzetközi és protokollügyi munkatárs | 1 |
 
@@ -58,4 +60,4 @@
 
 | Összesen |  | 142 |
 
-[^7]: A 2. melléklet az 1006/2023. (X. 19.) AB Tü. határozat 4. pontjával megállapított szöveg.
+[^15]: A 2. melléklet az 1002/2024. (VI. 20.) AB Tü. határozat 4. pontjával megállapított szöveg.
