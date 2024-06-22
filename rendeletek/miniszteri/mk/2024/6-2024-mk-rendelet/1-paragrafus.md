@@ -1,5 +1,3 @@
-1. § Hatályát veszti a Miniszterelnöki Kabinetirodát vezető miniszter által adományozható elismerésekről szóló 2/2023. (II. 3.) MK rendelet [a továbbiakban: 2/2023. (II. 3.) MK rendelet]
+1. §[^2]
 
-a) VII/A. Fejezete,
-
-b) 11–14. melléklete.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
