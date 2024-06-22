@@ -1,13 +1,3 @@
-1. melléklet a 19/2024. (VI. 20.) NGM rendelethez
+1. melléklet a 19/2024. (VI. 20.) NGM rendelethez[^3]
 
-A Rendelet 1. melléklet III. pontjában foglalt táblázat a következő 2. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 2. | Brüsszeli Magyar Ház Nonprofit Korlátolt Felelősségű Társaság | 01-09-431568 | 2026. december 31. |
-
-”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
