@@ -26,17 +26,25 @@ c)[^9] 1 Mrd forint vagy annál magasabb összegű becsérték esetén az 1 Mrd 
 
 (6)[^10] Több vagyontárgy együttes értékesítése esetén az ajánlati biztosíték mértéke a vagyontárgyak becsértékének összege alapján állapítandó meg.
 
-(7)[^11] Ha a pályázati eljárás eredménytelen, az ajánlati biztosíték teljes összegét az eredménytelenség megállapításától számított 8 munkanapon belül valamennyi pályázó részére vissza kell utalni. Ha a pályázati eljárás eredményes, az ajánlati biztosítékot a nyertes pályázónál a vételárba be kell számítani, a többi pályázónak pedig az ajánlati biztosíték teljes összegét az eredményhirdetés napjától – a Cstv. 49/A. § (4) bekezdése szerinti ártárgyalás esetén az ártárgyalás eredményhirdetése napjától – számított 8 munkanapon belül vissza kell utalni. Ha azonban
+(7)[^11] Ha a pályázati eljárás eredménytelen, az ajánlati biztosíték teljes összegét az eredménytelenség megállapításától számított 8 munkanapon belül valamennyi pályázó részére vissza kell utalni. Ha a pályázati eljárás eredményes, az ajánlati biztosítékot a nyertes pályázónál a vételárba be kell számítani, a többi pályázónak pedig az ajánlati biztosíték teljes összegét az eredményhirdetés napjától – a Cstv. 49/A. § (4) bekezdése szerinti ártárgyalás esetén az ártárgyalás eredményhirdetése napjától – számított 8 munkanapon belül vissza kell utalni. Elveszti az ajánlati biztosítékot
 
-a) a szerződés a nyertes pályázó érdekkörében felmerülő okból nem jön létre, vagy a nyertes pályázó a vételárat az előírt határidőben nem fizeti meg, vagy
+a) aki – a felszámolási eljárásban az adós vagyontárgyainak elektronikus értékesítéséről szóló 17/2014. (II. 3.) Korm. rendelet 13. § (2) bekezdésében előírt feltételt teljesítve – jogosult volt a pályázaton való részvételre, de nem tett legalább a minimálárnak megfelelő vételi ajánlatot,
 
-b) a Cstv. 49/A. § (4) bekezdés szerinti ajánlatot tévő pályázó a felszámoló által elrendelt ártárgyaláson neki felróható okból nem vesz részt, vagy a már megtett ajánlatától visszalép,
+b) a Cstv. 49/A. § (4) bekezdése szerinti ajánlattevő pályázó, ha a felszámoló által elrendelt ártárgyaláson neki felróható okból nem vesz részt, vagy a már megtett ajánlatától visszalép, vagy
 
-az ajánlati biztosítékot elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el.
+c) a nyertes pályázó, ha a szerződés a nyertes pályázó érdekkörében felmerülő okból nem jön létre, vagy a nyertes pályázó a vételárat az előírt határidőben nem fizeti meg.
 
-(7a)[^12] Ha az árverés eredménytelen, az árverési előleg teljes összegét az eredménytelenség megállapításától számított 8 munkanapon belül valamennyi árverező részére vissza kell utalni. Ha az árverés eredményes, az árverési előleget az árverés nyertesénél a vételárba be kell számítani, a többi árverezőnek pedig az árverési előleg teljes összegét az eredményhirdetés napjától számított 8 munkanapon belül vissza kell utalni. Ha azonban a szerződés az árverés nyertesének érdekkörében felmerülő okból nem jön létre, vagy az árverés nyertese a vételárat az előírt határidőben nem fizeti meg, az árverési előleget elveszíti, a felszámoló ezt az összeget az értékesítési bevétel részeként számolja el.
+(7a)[^12] A felszámoló a vissza nem utalt ajánlati biztosíték összegét az értékesítési bevétel részeként számolja el.
 
-(8)[^13] Az elővásárlási jog gyakorlását [Cstv. 49/C. § (3) bekezdés] nem lehet az ajánlati biztosíték megfizetésétől függővé tenni.
+(7b)[^13] Ha az árverés eredménytelen, az árverési előleg teljes összegét az eredménytelenség megállapításától számított 8 munkanapon belül valamennyi árverező részére vissza kell utalni. Ha az árverés eredményes, az árverési előleget az árverés nyertesénél a vételárba be kell számítani, a többi árverezőnek pedig az árverési előleg teljes összegét az eredményhirdetés napjától számított 8 munkanapon belül vissza kell utalni. Elveszti az árverési előleget
+
+a) az árverező, ha az árverés azért eredménytelen, mert senki nem tett legalább a kikiáltási árnak megfelelő licitet,
+
+b) az árverés nyertese, ha a szerződés az árverés nyertesének érdekkörében felmerülő okból nem jön létre, vagy az árverés nyertese a vételárat az előírt határidőben nem fizeti meg.
+
+(7c)[^14] A felszámoló a vissza nem utalt árverési előleg összegét az értékesítési bevétel részeként számolja el.
+
+(8)[^15] Az elővásárlási jog gyakorlását [Cstv. 49/C. § (3) bekezdés] nem lehet az ajánlati biztosíték megfizetésétől függővé tenni.
 
 [^1]: A 2. § (1) bekezdése a 300/2017. (X. 17.) Korm. rendelet 4. § a)–b) pontja szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdése a 300/2017. (X. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -48,6 +56,8 @@ az ajánlati biztosítékot elveszíti, a felszámoló ezt az összeget az ért�
 [^8]: A 2. § (5) bekezdés b) pontja a 300/2017. (X. 17.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
 [^9]: A 2. § (5) bekezdés c) pontja a 300/2017. (X. 17.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
 [^10]: A 2. § (6) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 300/2017. (X. 17.) Korm. rendelet 4. § f) pontja szerint módosított szöveg.
-[^11]: A 2. § (7) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^12]: A 2. § (7a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 19. §-a iktatta be.
-[^13]: A 2. § (8) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^11]: A 2. § (7) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 92/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 2. § (7a) bekezdését a 299/2014. (XII. 5.) Korm. rendelet 19. §-a iktatta be, szövege a 92/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 2. § (7b) bekezdését a 92/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A 2. § (7c) bekezdését a 92/2024. (IV. 23.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 2. § (8) bekezdését a 40/2012. (III. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.

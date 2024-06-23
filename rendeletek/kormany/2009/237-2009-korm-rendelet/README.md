@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-237-20-
 | 2014-12-06 | 2009-237-20-22.5 | 299/2014. (XII. 5.) Korm. rendelet |
 | 2017-10-20 | 2009-237-20-22.6 | 300/2017. (X. 17.) Korm. rendelet |
 | 2021-10-01 | 2009-237-20-22.7 | 40/2012. (III. 14.) Korm. rendelet |
+| 2024-06-23 | 2009-237-20-22.8 | 92/2024. (IV. 23.) Korm. rendelet |

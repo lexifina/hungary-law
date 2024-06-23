@@ -1,3 +1,3 @@
-6. §[^26]
+6. §[^29]
 
-[^26]: A 6. §-t a 7. § (2) bekezdése hatályon kívül helyezte.
+[^29]: A 6. §-t a 7. § (2) bekezdése hatályon kívül helyezte.
