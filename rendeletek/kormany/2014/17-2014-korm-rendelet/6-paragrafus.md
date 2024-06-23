@@ -8,7 +8,7 @@ ab) sávosan meghatározott licitindítási díjat,
 
 b) a nyertes licitálók a nettó vételár 1%-át mint jutalékot
 
-## kötelesek fizetni a működtető részére.
+kötelesek fizetni a működtető részére.
 
 (2) Az (1) bekezdés a) pontja szerinti díjakba beépülő költségelemeket és a díjak összegét a működtető az igazságügyért felelős miniszter és az államháztartásért felelős miniszter véleményének figyelembe vételével állapítja meg, és közzéteszi a Felhasználói Szabályzat értékesítői fejezetében. A díjak emelésére a költségek emelkedése esetén kerülhet sor, az említett miniszterek egyetértésével. A díjak változását azok bevezetése előtt legalább 30 nappal közzé kell tenni.
 

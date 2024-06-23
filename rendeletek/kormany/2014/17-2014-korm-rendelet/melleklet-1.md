@@ -1,8 +1,6 @@
-## 29–31. §[^51]
+1. melléklet a 17/2014. (II. 3.) Korm. rendelethez[^62]
 
-1. melléklet a 17/2014. (II. 3.) Korm. rendelethez[^52]
-
-## Az elektronikus értékesítési rendszer üzemeltetési szabályzatának kötelező tartalmi elemei
+Az elektronikus értékesítési rendszer üzemeltetési szabályzatának kötelező tartalmi elemei
 
 1. az üzemeltetővel, vagy az elektronikus értékesítési rendszer informatikai üzemeltetését ellátó szolgáltatóval szembeni elvárások
 
@@ -36,5 +34,4 @@
 
 2.12. elvégzi az archivált eseménytárba helyezési és az archiválási feladatokat.
 
-[^51]: A 29–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: Az 1. melléklet a 343/2015. (XI. 13.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^62]: Az 1. melléklet a 343/2015. (XI. 13.) Korm. rendelet 21. §-ával megállapított szöveg.

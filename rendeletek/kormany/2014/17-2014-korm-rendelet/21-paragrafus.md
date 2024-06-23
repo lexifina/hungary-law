@@ -1,5 +1,5 @@
 21. § (1) Árveréses értékesítési forma esetén a számítógépes program egy több szintű jogosultsághoz kötött licitnaplót rögzít, amelynek legszűkebb adattartalmú változata a nyilvános licitnapló és a legrészletesebb adattartalmú változata a teljes licitnapló. A nyilvános licitnapló tartalmazza a licit megnyitásának és lezárásának időpontját, az összes regisztrált ajánlatot (ezen belül külön gyűjtve a megtett érvényes ajánlatokat), az ajánlattételek beérkezésének időpontját, az ajánlattevők egyedi azonosítójával (az ajánlattételek sorrendje szerint). A nyilvános licitnapló kinyomtatható.
 
-(2)[^34] A teljes licitnapló csak az auditálásra, ellenőrzésre jogosult szervezet, illetve az értékesítő számára ismerhető meg, a licitálás határidejének leteltét követően. A teljes licitnapló az (1) bekezdésben foglaltakon kívül az értékesítési eljárásban részt vevő összes licitáló azonosítását lehetővé tevő adatot tartalmazza, az értékesítő számára megismerhető és kinyomtatható.
+(2)[^38] A teljes licitnapló csak az auditálásra, ellenőrzésre jogosult szervezet, illetve az értékesítő számára ismerhető meg, a licitálás határidejének leteltét követően. A teljes licitnapló az (1) bekezdésben foglaltakon kívül az értékesítési eljárásban részt vevő összes licitáló azonosítását lehetővé tevő adatot tartalmazza, az értékesítő számára megismerhető és kinyomtatható.
 
-[^34]: A 21. § (2) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^38]: A 21. § (2) bekezdése a 299/2014. (XII. 5.) Korm. rendelet 10. §-ával megállapított szöveg.

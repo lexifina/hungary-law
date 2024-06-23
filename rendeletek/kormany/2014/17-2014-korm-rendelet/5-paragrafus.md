@@ -22,7 +22,7 @@ c) törvényben pénzügyi szervezet felszámolására vagy végelszámolására
 
 d) a Cstv. 27/A. § (6a) bekezdése alapján a folyamatban lévő felszámolási eljárásokban még közreműködő
 
-## felszámoló szervezet számára.
+felszámoló szervezet számára.
 
 (2a)[^10] Az értékesítők a felszámoló szervezetek hatósági nyilvántartásába bejegyzett adataikkal vesznek részt az EÉR-ben. A nyilvántartást vezető hatóság az adatokról és azok változásáról elektronikus úton adatszolgáltatást teljesít az EÉR működtetője részére.
 
