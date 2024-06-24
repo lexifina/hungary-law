@@ -1,3 +1,3 @@
-9. § Az R2. 27. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(1) A nyertes licitálóval a felszámoló a szerződést akkor kötheti meg, ha – érvényes és eredményes elektronikus értékesítési eljárás esetén – az igazolja a 6. § (1) bekezdés b) pontja szerinti jutalék működtető részére történt megfizetését az elektronikus értékesítési eljárás lezárását követő 30 napon belül. A már megfizetett, 6. § (1) bekezdés b) pontja szerinti jutalékot a működtető abban az esetben sem téríti vissza a nyertes licitáló részére, ha a szerződéskötésre a (2) bekezdés alapján nem kerül sor.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

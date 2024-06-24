@@ -1,3 +1,3 @@
-6. § Az R2. 15. § (1) bekezdése a következő e) ponttal egészül ki:
+6. §[^7]
 
-(Az elektronikus értékesítést az értékesítő akkor nyilvánítja érvénytelenné, ha)
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

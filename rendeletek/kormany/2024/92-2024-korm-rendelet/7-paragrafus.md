@@ -1,5 +1,3 @@
-## „e) az árverés, illetve a pályázat a 13. § (4) bekezdése alapján érvénytelenné vált.”
+7. §[^8]
 
-7. § Az R2. 25. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Meghosszabbodik a licitálásra, illetve a pályázat benyújtására rendelkezésre álló idő az üzemzavar, illetve rendszerkarbantartás időtartamával is oly módon, hogy ha annak időtartama több mint 4 óra, és az üzemzavar, illetve rendszerkarbantartás a licitálás, illetve a pályázat ajánlattételi határidejének lezárását megelőzően legalább 1 órával korábban következik be, vagy az üzemzavar, illetve rendszerkarbantartás a licitálás, illetve a pályázat ajánlattételi határidejének lezárását megelőző 1 órán belül keletkezik, akkor legalább 12 óra a meghosszabbítás időtartama Az üzemzavarra és a rendszerkarbantartásra vonatkozó adatokat az üzemeltetőnek meg kell őriznie, és arról az értékesítőket is tájékoztatnia kell annak érdekében, hogy minden értékesítő hitelt érdemlő módon meg tudja állapítani, hogy mikor zárult le a licitálás, illetve a pályázat ajánlattételi határideje.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

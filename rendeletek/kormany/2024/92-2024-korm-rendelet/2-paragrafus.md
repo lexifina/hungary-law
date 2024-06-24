@@ -1,3 +1,3 @@
-2. § Az R1. 3. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^3]
 
-„(4) Az értékesítésre kerülő vagyontárgyak megtekintésére az árverési előleg, illetve a pályázati biztosíték befizetésének határidejét megelőzően kell lehetőséget biztosítani.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
