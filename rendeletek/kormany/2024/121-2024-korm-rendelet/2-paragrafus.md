@@ -1,0 +1,1 @@
+2. § E rendelet hatálya gépjárművek részvételével, korlátozottan megközelíthető és körülhatárolt területen szervezett versenyre, edzésre, tesztre és bemutatóra terjed ki, ha az megfelel a sportról szóló 2004. évi I. törvény 1. § (2) bekezdésében szereplő sporttevékenységnek, vagy közvetlenül ahhoz kapcsolódik (a továbbiakban együtt: gépjárműsport-rendezvény).

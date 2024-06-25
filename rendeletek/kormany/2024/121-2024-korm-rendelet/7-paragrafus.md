@@ -1,0 +1,1 @@
+7. § Az e rendelet hatálybalépésétől számított 60 napon belül intézkedni kell a hatályban lévő felelősségbiztosítási szerződések felülvizsgálata és szükség esetén az e rendeletben foglaltaknak megfelelő módosítása érdekében.

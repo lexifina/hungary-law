@@ -1,0 +1,1 @@
+A Kormánya sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bi) alpontjában kapott felhatalmazás alapján,a 9. és a 10. § tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bc) alpontjában kapott felhatalmazás alapján,az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

@@ -1,0 +1,1 @@
+8. § Ez a rendelet a gépjármű-felelősségbiztosításról és a biztosítási kötelezettség ellenőrzéséről szóló 2009/103/EK irányelv módosításáról szóló, az Európai Parlament és a Tanács (EU) 2021/2118 irányelvének való megfelelést szolgálja.
