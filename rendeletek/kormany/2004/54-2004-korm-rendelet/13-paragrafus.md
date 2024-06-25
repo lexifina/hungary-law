@@ -1,6 +1,4 @@
-## 12. §[^31] A sportszervezet köteles együttműködni a sportrendezvény szervezőjével, valamint a rendőrséggel a szurkolótáborok sportrendezvényen való biztonságos részvételének, elkülönítésének, valamint felügyeletének megszervezésében.
-
-13. §[^32] (1)[^33] Az Stv. 63. § (3) bekezdése szerinti biztonságtechnikai ellenőrzést (a továbbiakban: ellenőrzés) végző szervek – naptári évenként legalább egy alkalommal, a versenyrendszer kezdete előtt legalább 30 nappal – vizsgálják a sportlétesítmény, a nézőtéri lelátó vagy szektor, valamint a biztonságtechnikai berendezések megfelelőségét.
+13. §[^34] (1)[^35] Az Stv. 63. § (3) bekezdése szerinti biztonságtechnikai ellenőrzést (a továbbiakban: ellenőrzés) végző szervek – naptári évenként legalább egy alkalommal, a versenyrendszer kezdete előtt legalább 30 nappal – vizsgálják a sportlétesítmény, a nézőtéri lelátó vagy szektor, valamint a biztonságtechnikai berendezések megfelelőségét.
 
 (2) Az ellenőrzés a sportlétesítmény vizsgálata során kiterjed:
 
@@ -14,11 +12,11 @@ d) a bejáratoknál szűkítő folyosók meglétére és ezek állapotára;
 
 e) a beléptető rendszer alkalmazása esetén annak működőképességére;
 
-f)[^34] a bejáratoknál és a sportlétesítmény területén a nézői magatartási szabályokra vonatkozó figyelmeztető táblák meglétére, és azok előírásoknak megfelelő tartalmára.
+f)[^36] a bejáratoknál és a sportlétesítmény területén a nézői magatartási szabályokra vonatkozó figyelmeztető táblák meglétére, és azok előírásoknak megfelelő tartalmára.
 
 (3) Az ellenőrzés a nézőtéri lelátó vagy szektor vizsgálata során kiterjed:
 
-a)[^35] a figyelmeztető, útbaigazító táblák és jelzések meglétére, ezek állapotára;
+a)[^37] a figyelmeztető, útbaigazító táblák és jelzések meglétére, ezek állapotára;
 
 b) a mellékhelyiségek, büfék állapotára;
 
@@ -32,7 +30,7 @@ f) a szurkolók vándorlásának megakadályozására, a szektorelválasztó ker
 
 g) az állóhelyi szektorokban tömeghullámzást megakadályozó korlátok meglétére, állapotára;
 
-h)[^36] a közlekedő folyosókon, a kijáratoknál és a menekülési útvonalakon a nézők akadálymentes közlekedésének biztosítottságára;
+h)[^38] a közlekedő folyosókon, a kijáratoknál és a menekülési útvonalakon a nézők akadálymentes közlekedésének biztosítottságára;
 
 i) az átjárók, kijáratok, menekülési útvonalak szünetmentes áramforrásról működtethető világító jelzőtáblákkal történő jelölésére;
 
@@ -60,12 +58,11 @@ g) a kiürítési, menekítési terv meglétére és tartalmára;
 
 h) a belépőjegyek biztonsági jelölésére, a nézői magatartási szabályok feltüntetésére.
 
-(5)[^37] Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.
+(5)[^39] Az ellenőrzést végző szervek az ellenőrzés eredménye alapján döntenek arról, hogy a sportlétesítményben nézők részvételével vagy a nézők számának korlátozásával a sportrendezvény biztonságosan megrendezhető-e. Az ellenőrzést végző szervek az ellenőrzés eredményéről nyolc napon belül írásban értesítik az illetékes országos sportági szakszövetséget.
 
-[^31]: A 12. § a 279/2018. (XII. 21.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^32]: A 13. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^33]: A 13. § (1) bekezdése a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^34]: A 13. § (2) bekezdés f) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^35]: A 13. § (3) bekezdés a) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^36]: A 13. § (3) bekezdés h) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
-[^37]: A 13. § (5) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^34]: A 13. § (1) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^35]: A 13. § (1) bekezdése a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 13. § (2) bekezdés f) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^37]: A 13. § (3) bekezdés a) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^38]: A 13. § (3) bekezdés h) pontja a 162/2011. (VIII. 18.) Korm. rendelet 16. § (2) bekezdése szerint módosított szöveg.
+[^39]: A 13. § (5) bekezdése a 247/2009. (XI. 10.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.

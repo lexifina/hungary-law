@@ -1,4 +1,4 @@
-2. §[^3] (1)[^4] A Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) javaslata alapján az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – az általános közigazgatási rendtartásról szóló törvény szerint – dönt az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági kockázat szerinti minősítéséről, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségéről.
+2. §[^4] (1)[^5] A Sportrendezvényeket Biztonsági Szempontból Minősítő Bizottság (a továbbiakban: Minősítő Bizottság) javaslata alapján az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) – az általános közigazgatási rendtartásról szóló törvény szerint – dönt az 1. § (1) bekezdés a) és b) pontjában meghatározott sportrendezvények biztonsági kockázat szerinti minősítéséről, valamint fokozott biztonsági kockázatú sportrendezvény esetén beléptető rendszer alkalmazásának kötelezettségéről.
 
 (2) A Minősítő Bizottságba
 
@@ -26,5 +26,5 @@ delegál.
 
 (10) Ha a mérkőzés biztonsági kockázat szerinti minősítése a mérkőzést megelőző 15 napon belül nem ismert, úgy a szervező az Stv. 68/A. § (3) bekezdésében foglalt felkérést azzal a kikötéssel kezdeményezi, hogy a rendőrség térítés ellenében végzett közreműködésére csak akkor kerül sor, ha a mérkőzést fokozott biztonsági kockázatúnak minősítik.
 
-[^3]: A 2. § a 162/2011. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^4]: A 2. § a 162/2011. (VIII. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^5]: A 2. § (1) bekezdése a 279/2018. (XII. 21.) Korm. rendelet 3. §-ával megállapított szöveg.

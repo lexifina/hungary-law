@@ -16,7 +16,10 @@ be) a vendégszurkolók részére a mérkőzést megelőzően három munkanappal
 
 c) ha a közterületen megtartott sportrendezvényen a résztvevők és a nézők együttes száma az ötezer főt várhatóan eléri, vagy a sportrendezvény megrendezése jelentős forgalomkorlátozással, illetve forgalomeltereléssel jár.
 
-(2)[^2] A rendeletet nem kell alkalmazni a kézilabda mérkőzések kivételével az (1) bekezdés a) és b) pontjában meghatározott sportrendezvények esetében a női bajnokság mérkőzéseire, továbbá az (1) bekezdés szerinti sportágak esetében – a felnőtt labdarúgó és felnőtt kézilabda válogatott utáni első utánpótlás korosztály válogatottjainak mérkőzései kivételével – a korosztályos mérkőzésekre, valamint a tartalékcsapatok mérkőzéseire.
+d)[^2] a gépjárműsport-rendezvényen részt vevő gépjárművekre kötött felelősségbiztosítás szabályairól szóló 121/2024. (VI. 10.) Korm. rendelet 2. §-a szerinti gépjárműsport-rendezvényre (a továbbiakban: gépjárműsport-rendezvény).
+
+(2)[^3] A rendeletet nem kell alkalmazni a kézilabda mérkőzések kivételével az (1) bekezdés a) és b) pontjában meghatározott sportrendezvények esetében a női bajnokság mérkőzéseire, továbbá az (1) bekezdés szerinti sportágak esetében – a felnőtt labdarúgó és felnőtt kézilabda válogatott utáni első utánpótlás korosztály válogatottjainak mérkőzései kivételével – a korosztályos mérkőzésekre, valamint a tartalékcsapatok mérkőzéseire.
 
 [^1]: Az 1. § a 247/2009. (XI. 10.) Korm. rendelet 1. §-ával megállapított szöveg, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^2]: Az 1. § (2) bekezdése a 162/2011. (VIII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés d) pontját a 121/2024. (VI. 10.) Korm. rendelet 9. §-a iktatta be.
+[^3]: Az 1. § (2) bekezdése a 162/2011. (VIII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
