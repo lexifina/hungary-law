@@ -1,30 +1,30 @@
-19/C. § (1) Dohányzást imitáló elektronikus eszköz a következő feltételekkel hozható forgalomba és forgalmazható:
+19/C. § (1)[^95] Dohányzást imitáló elektronikus eszköz és nikotinmentes utántöltő flakon a következő feltételekkel hozható forgalomba és forgalmazható:
 
-a) a dohányzást imitáló elektronikus eszközben használt folyadék nem tartalmazhat nikotint,
+a) a bennük lévő folyadék nem tartalmazhat nikotint (a továbbiakban e § alkalmazásában: nikotinmentes folyadék),
 
-b) a dohányzást imitáló elektronikus eszközben használt folyadék nem tartalmazhat ízesítő anyagot,
+b) a nikotinmentes folyadék nem tartalmazhat ízesítőanyagot,
 
-c) a dohányzást imitáló elektronikus eszközben használt folyadék nem tartalmazhat
+c) a nikotinmentes folyadék nem tartalmazhat
 
 ca) a 4. melléklet szerinti adalékanyagot,
 
-cb) vitaminokat vagy egyéb olyan adalékanyagokat, amelyek azt a benyomást keltik, hogy a terméknek kedvező élettani hatása van vagy az egészséget kevésbé veszélyezteti,
+cb) vitaminokat vagy egyéb olyan adalékanyagokat, amelyek azt a benyomást keltik, hogy a terméknek kedvező élettani hatása van, vagy az egészséget kevésbé veszélyezteti,
 
-cc) koffein, taurin vagy egyéb olyan adalékanyagokat és élénkítő hatású vegyületeket, amelyekhez az energikusság és a vitalitás képzete társul,
+cc) koffeint, taurint vagy egyéb olyan adalékanyagokat és élénkítő hatású vegyületeket, amelyekhez az energikusság és a vitalitás képzete társul,
 
 cd) a kibocsátásokat elszínező tulajdonságú adalékanyagokat,
 
-ce) az inhalációt megkönnyítő adalékanyagokat, és
+ce) az inhalációt megkönnyítő adalékanyagokat és
 
-cf) CMR tulajdonságokkal rendelkező adalékanyagokat,
+cf) CMR tulajdonságokkal rendelkező adalékanyagokat, továbbá
 
-d) a dohányzást imitáló elektronikus eszközben használt folyadék nem tartalmazhat 0,1%-nál több szennyeződést tartalmazó összetevőt,
+cg) 0,1%-nál több szennyeződést tartalmazó összetevőt,
 
-e) a dohányzást imitáló elektronikus eszközben használt folyadék kizárólag olyan összetevőkből állhat, amelyek – sem melegítés hatására, sem anélkül – nem veszélyesek az emberi egészségre,
+d) a nikotinmentes folyadék kizárólag olyan összetevőkből állhat, amelyek – sem melegítés hatására, sem anélkül – nem veszélyesek az emberi egészségre,
 
-f) a dohányzást imitáló elektronikus eszközöket gyermekzárral kell ellátni, és
+e) a termék gyermekbiztos zárral ellátott, és
 
-g) a dohányzást imitáló elektronikus eszközöket védetté kell tenni törés és szivárgás ellen, valamint olyan mechanizmussal kell ellátni, amely garantálja a szivárgásmentes utántöltést.
+f) a termék védett a törés és szivárgás ellen, valamint olyan mechanizmussal van ellátva, amely garantálja a szivárgásmentes utántöltést.
 
 (2) A dohányzást imitáló elektronikus eszközök csomagolási egységeihez a 19/B. § (2) bekezdésében foglaltakat tartalmazó tájékoztatót kell csatolni.
 
@@ -39,3 +39,8 @@ c) a következő figyelmeztető feliratot: „A termék gyermekektől elzárva t
 (4) A dohányzást imitáló elektronikus eszköz csomagolási egységeinek és gyűjtőcsomagjainak meg kell felelniük az Nvt. 6/A. § (1) bekezdés b), d) és e) pontjában, valamint (2) és (3) bekezdésében foglaltaknak.
 
 (5) A dohányzást imitáló elektronikus eszköz csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon, a 19/B. § (6) bekezdésében foglaltaknak megfelelően fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék dohányzást imitáló elektronikus eszköz. Használata gyermekek számára nem ajánlott.”
+
+(6)[^96] A nikotinmentes utántöltő flakon csomagolási egységeinek és gyűjtőcsomagjainak két legnagyobb felületén, mindkét felületnek legalább a 30%-át kitöltő módon, a 19/B. § (6) bekezdésében foglaltaknak megfelelően fel kell tüntetni a következő egészségvédő figyelmeztetést: „Ez a termék nikotinmentes utántöltő flakon. Használata gyermekek számára tilos.”
+
+[^95]: A 19/C. § (1) bekezdése a 120/2024. (VI. 10.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^96]: A 19/C. § (6) bekezdését a 120/2024. (VI. 10.) Korm. rendelet 9. § (2) bekezdése iktatta be.

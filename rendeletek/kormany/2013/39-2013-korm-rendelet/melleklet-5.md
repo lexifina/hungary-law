@@ -1,115 +1,111 @@
-## 6K12010_0
-
 | A | B |
 
-| 1 | Anyag |
+| Sorszám | Anyag |
 
-| 2 | 2-metil-3-(para-izopropil-fenil)propionaldehid |
+| 1 | 2-metil-3-(para-izopropil-fenil)propionaldehid |
 
-| 3 | Agar-agar |
+| 2 | Agar-agar |
 
-| 4 | Alumínium-oxid |
+| 3 | Alumínium-oxid |
 
-| 5 | Ammónium-acetát |
+| 4 | Ammónium-acetát |
 
-| 6 | Ammónium-citrát |
+| 5 | Ammónium-citrát |
 
-| 7 | Ammónium-formiát |
+| 6 | Ammónium-formiát |
 
-| 8 | Ammónium-hidrogén-karbonát |
+| 7 | Ammónium-hidrogén-karbonát |
 
-| 9 | Ammonium-hidrogén-malát |
+| 8 | Ammonium-hidrogén-malát |
 
-| 10 | Ammónium-hidroxid |
+| 9 | Ammónium-hidroxid |
 
-| 11 | Ammónium-karbamát |
+| 10 | Ammónium-karbamát |
 
-| 12 | Ammónium-klorid |
+| 11 | Ammónium-klorid |
 
-| 13 | Ammónium-laktát |
+| 12 | Ammónium-laktát |
 
-| 14 | Ammónium-malát |
+| 13 | Ammónium-malát |
 
-| 15 | Ammónium-szukcinát |
+| 14 | Ammónium-szukcinát |
 
-| 16 | Ammónium-szulfamát |
+| 15 | Ammónium-szulfamát |
 
-| 17 | Ammónium-tartarát |
+| 16 | Ammónium-tartarát |
 
-| 18 | Antrakinonkék |
+| 17 | Antrakinonkék |
 
-| 19 | Bázikus kék 26 |
+| 18 | Bázikus kék 26 |
 
-| 20 | Borostyánkősav (E 363) |
+| 19 | Borostyánkősav (E 363) |
 
-| 21 | Dehidro-mentho-furolakton |
+| 20 | Dehidro-mentho-furolakton |
 
-| 22 | Di-2-etil-hexil-adipát |
+| 21 | Di-2-etil-hexil-adipát |
 
-| 23 | Diammónium-hidrogénfoszfát |
+| 22 | Diammónium-hidrogénfoszfát |
 
-| 24 | Diammónium-karbonát |
+| 23 | Diammónium-karbonát |
 
-| 25 | Diammónium-malát |
+| 24 | Diammónium-malát |
 
-| 26 | Diammónium-szukcinát |
+| 25 | Diammónium-szukcinát |
 
-| 27 | Dibutil-ftalát |
+| 26 | Dibutil-ftalát |
 
-| 28 | Fenol-formaldehiddel módosított kolofónium |
+| 27 | Fenol-formaldehiddel módosított kolofónium |
 
-| 29 | Galaktóz |
+| 28 | Galaktóz |
 
-| 30 | Hangyasav (E 236) |
+| 29 | Hangyasav (E 236) |
 
-| 31 | Karbamid (E 927b) |
+| 30 | Karbamid (E 927b) |
 
-| 32 | Kárminvörös |
+| 31 | Kárminvörös |
 
-| 33 | Koffein |
+| 32 | Krizein S |
 
-| 34 | Krizein S |
+| 33 | Kumarinmentesített tonkabab |
 
-| 35 | Kumarinmentesített tonkabab |
+| 34 | Laktóz |
 
-| 36 | Laktóz |
+| 35 | Maltóz |
 
-| 37 | Maltóz |
+| 36 | Mannóz |
 
-| 38 | Mannóz |
+| 37 | Metilibolya |
 
-| 39 | Metilibolya |
+| 38 | Méz |
 
-| 40 | Méz |
+| 39 | Monoammónium-foszfát |
 
-| 41 | Monoammónium-foszfát |
+| 40 | Nátrium-szilikát |
 
-| 42 | Nátrium-szilikát |
+| 41 | Oldószervörös 1 |
 
-| 43 | Oldószervörös 1 |
+| 42 | Pektinek |
 
-| 44 | Pektinek |
+| 43 | Polietilén-glikol (E 1251) |
 
-| 45 | Polietilén-glikol (E 1251) |
+| 44 | Riboflavin-5-foszfát |
 
-| 46 | Riboflavin-5-foszfát |
+| 45 | Szacharóz-okta-acetát |
 
-| 47 | Szacharóz-okta-acetát |
+| 46 | Szaharin (E 954) |
 
-| 48 | Szaharin (E 954) |
+| 47 | Szudánkék 11 |
 
-| 49 | Szudánkék 11 |
+| 48 | Tea |
 
-| 50 | Taurin |
+| 49 | Theobromin |
 
-| 51 | Tea |
+| 50 | Kannabidiol (CBD) |
 
-| 52 | Theobromin |
-
-5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^131]
+5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^142]
 
 Kombinált figyelmeztetések
 
 I. csoport
 
-[^131]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^142]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-6/A. §[^28] (1) Dohányzásra szánt dohányterméket forgalomba hozni csak abban az esetben lehet, ha annak minden csomagolási egysége és minden gyűjtőcsomagja – szembetűnően, kontrasztos háttérben, jól olvashatóan, eltávolíthatatlan nyomtatással, letörölhetetlenül, magyar nyelven – egyaránt tartalmazza
+6/A. §[^24] (1) Dohányzásra szánt dohányterméket forgalomba hozni csak abban az esetben lehet, ha annak minden csomagolási egysége és minden gyűjtőcsomagja – szembetűnően, kontrasztos háttérben, jól olvashatóan, eltávolíthatatlan nyomtatással, letörölhetetlenül, magyar nyelven – egyaránt tartalmazza
 
 a) egyik oldalsó felületén, az oldal legalább 50%-át kitevő felületen az „A dohányzás halált okoz – szokjon le most!” általános figyelmeztetést,
 
@@ -8,11 +8,11 @@ c) mindkét főoldalán, az oldal legalább 65%-át kitevő felületen az 5. mel
 
 (2) Az (1) bekezdés a) pontjában meghatározott általános figyelmeztetést a dohányterméket árusító üzlethelyiségben, illetve mozgó árusító hely kiszolgáló terében is el kell helyezni. A figyelmeztetés feltüntetésének módjára az (1) bekezdésben foglaltak megfelelően irányadóak azzal, hogy a figyelmeztető felirat legkisebb méretére vonatkozó rendelkezést nem kell alkalmazni.
 
-(3)[^29] A (2) bekezdésben meghatározott módon elhelyezett általános figyelmeztetés szövegét ki kell egészíteni a „Segítség a leszokáshoz: 06 80 200 493, www.leteszemacigit.hu” felirattal úgy, hogy a kibővített figyelmeztetés legkisebb felülete 420 × 594 mm legyen.
+(3)[^25] A (2) bekezdésben meghatározott módon elhelyezett általános figyelmeztetés szövegét ki kell egészíteni a „Segítség a leszokáshoz: 06 80 200 493, www.leteszemacigit.hu” felirattal úgy, hogy a kibővített figyelmeztetés legkisebb felülete 420 × 594 mm legyen.
 
-(4)[^30] Az egészségvédő figyelmeztetések semmilyen módon nem takarhatják el, illetve nem szakíthatják meg a zárjegyeket, árcédulákat, az árukövetésre és nyomon követésre szolgáló jeleket vagy biztonsági elemeket a csomagolási egységeken.
+(4)[^26] Az egészségvédő figyelmeztetések semmilyen módon nem takarhatják el, illetve nem szakíthatják meg a zárjegyeket, árcédulákat, az árukövetésre és nyomon követésre szolgáló jeleket vagy biztonsági elemeket a csomagolási egységeken.
 
-(5)[^31] Az egészségvédő figyelmeztetések nyomtatásának eltávolíthatatlannak, törölhetetlennek kell lennie a csomagolási egységeken és minden gyűjtőcsomagon, ideértve azt is, hogy azokat részben vagy egészen semmilyen formában nem takarhatja el, illetve nem zavarhatja meg semmilyen zárjegy, árcédula, biztonsági elem, csomagolóanyag, tasak, doboz vagy egyéb eszköz, amikor a dohánytermék forgalomba kerül. A cigarettától, valamint a cigarettadohánytól eltérő dohánytermékeken a feliratok és az egészségvédő figyelmeztetések a csomagra eltávolíthatatlanul rögzített matricán is elhelyezhetők.
+(5)[^27] Az egészségvédő figyelmeztetések nyomtatásának eltávolíthatatlannak, törölhetetlennek kell lennie a csomagolási egységeken és minden gyűjtőcsomagon, ideértve azt is, hogy azokat részben vagy egészen semmilyen formában nem takarhatja el, illetve nem zavarhatja meg semmilyen zárjegy, árcédula, biztonsági elem, csomagolóanyag, tasak, doboz vagy egyéb eszköz, amikor a dohánytermék forgalomba kerül. A cigarettától, valamint a cigarettadohánytól eltérő dohánytermékeken a feliratok és az egészségvédő figyelmeztetések a csomagra eltávolíthatatlanul rögzített matricán is elhelyezhetők.
 
 (6) Az egészségvédő figyelmeztetéseknek a csomagon vagy gyűjtőcsomagon a számukra fenntartott teljes felületet el kell foglalniuk, és azokhoz nem lehet megjegyzést fűzni, azokat átfogalmazni vagy azokra bármely formában hivatkozni.
 
@@ -30,7 +30,7 @@ c) mindkét főoldalán, az oldal legalább 65%-át kitevő felületen az 5. mel
 
 (13) Az egészségvédő figyelmeztetések méretét a csomag zárt állapotában az adott felület alapján kell kiszámítani.
 
-[^28]: A 6/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
-[^29]: A 6/A. § (3) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
-[^30]: A 6/A. § (4) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^31]: A 6/A. § (5) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 6/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 7. §-a iktatta be.
+[^25]: A 6/A. § (3) bekezdése az 507/2017. (XII. 29.) Korm. rendelet 37. §-a szerint módosított szöveg.
+[^26]: A 6/A. § (4) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 6/A. § (5) bekezdése a 419/2016. (XII. 14.) Korm. rendelet 8. § (9) bekezdés c) pontja szerint módosított szöveg.
