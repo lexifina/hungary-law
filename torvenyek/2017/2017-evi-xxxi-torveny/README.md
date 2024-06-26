@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2017-31-00-00
 | 2017-05-28 | 2010. évi CXXX. törvény | 2017-31-00-00.2 |
 | 2023-12-28 | 2023. évi LXXXVII. törvény | 2017-31-00-00.3 |
 | 2024-06-19 | 2024. évi XXIX. törvény | 2017-31-00-00.4 |
+| 2024-06-26 | 2024. évi XXIX. törvény | 2017-31-00-00.5 |
