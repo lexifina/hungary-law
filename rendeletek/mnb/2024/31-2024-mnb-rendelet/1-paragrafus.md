@@ -1,3 +1,3 @@
-1. § Az anticiklikus tőkepuffer képzésének feltételeiről és az anticiklikus tőkepufferráta mértékéről szóló 27/2022. (VII. 8.) MNB rendelet 3. §-a a következő c) ponttal egészül ki:
+1. §[^2]
 
-(A Magyarországon lévő féllel szembeni kitettségekre vonatkozó anticiklikus tőkepufferráta mértéke)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
