@@ -94,7 +94,7 @@ b) amelyet az üzemeltetőtől, a foglalkoztatottól elvárható, a rendes üzle
 
 38. utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedelmi tevékenység: olyan tevékenység, amelynek keretében az utazási szolgáltatásegyüttes igénybevételét elősegítő kereskedő az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló kormányrendeletben meghatározott utazási szolgáltatást kínál, értékesít;
 
-39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás vagy üdülő, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc, és az ágyak száma legfeljebb tizenhat,
+39. magánszálláshely: az a nem kizárólag szálláshely-szolgáltatás folytatása céljából, magánszemély vagy egyéni vállalkozó által hasznosított lakás, üdülő vagy emberi tartózkodásra alkalmas gazdasági épület, illetve azok egy lehatárolt részének és hozzátartozó területének hasznosítása, ahol a szobák száma legfeljebb nyolc darab, és az ágyak száma legfeljebb tizenhat darab,
 
 40. egyéb szálláshely: nem kizárólag szálláshely-szolgáltatás folytatása céljából létesített épületben, de szálláshely-szolgáltatási céllal és nem magánszemély vagy nem egyéni vállalkozó által hasznosított, önálló rendeltetési egységet képező épületrész, ahol az egy szobában található ágyak külön-külön is hasznosításra kerülhetnek, illetve a szobák száma legfeljebb huszonöt, és az ágyak száma legfeljebb száz.
 
