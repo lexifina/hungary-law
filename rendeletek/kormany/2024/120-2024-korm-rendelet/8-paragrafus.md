@@ -1,3 +1,3 @@
-8. § Az R. 19/B. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Elektronikus cigaretta és utántöltő flakon a következő feltételekkel hozható forgalomba és forgalmazható:)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

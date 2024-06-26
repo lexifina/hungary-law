@@ -1,5 +1,3 @@
-2. § Az R. 6. § (1) bekezdés a) pontja a következő ai) alponttal egészül ki:
+2. §[^3]
 
-(A csomagolási egységen jelölni kell a dohánytermék típusát a következők szerint:)
-
-„ai) „hevített dohánytermék”,”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
