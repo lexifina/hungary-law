@@ -4,7 +4,7 @@
 
 ## 1.2. az egyes ipari parki, iparterületi beruházások megvalósításával összefüggő feladatokról szóló 1501/2022. (X. 19.) Korm. határozatra,
 
-## 1.3.[^1] a Kecskeméti Ipari Park fejlesztésével összefüggő közúti közlekedési infrastruktúra-beruházások előkészítéséhez szükséges források biztosításáról szóló 1527/2022. (XI. 2.) Korm. határozatra
+## 1.3.[^1]
 
 ## 1.4.[^2] a debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő közúti fejlesztésekhez kapcsolódóan a 33. számú főút Iparterület és a 3316 jelű összekötő út közötti szakaszának 2 × 2 sávra bővítéséről szóló 1528/2022. (XI. 2.) Korm. határozatra;
 
@@ -38,11 +38,11 @@ adatok forintban
 
 | 1. | Kapcsolódó kormányhatározat száma | 2022. évi költségvetési év | 2023. évi költségvetési év | 2024. évi költségvetési év | 2025. évi költségvetési év | Összesen |
 
-| 2. | 1502/2022. (X. 19.) Korm. határozat 5. pont a), b) és d) alpontja | 900 000 000 | 19 305 000 000 | 27 995 000 000 | 0 | 48 200 000 000 |
+| 2.[^8] | 1502/2022. (X. 19.) Korm. határozat 5. pont a) és b) alpontja | 900 000 000 | 3 600 000 000 | 0 | 0 | 4 500 000 000 |
 
 | 3. | 1501/2022. (X. 19.) Korm. határozat 3. pontja | 0 | 600 000 000 | 2 200 000 000 | 0 | 2 800 000 000 |
 
-| 4. | 1527/2022. (XI. 2.) Korm. határozat 1. pont a) alpontja | 0 | 575 000 000 | 600 000 000 | 375 000 000 | 1 550 000 000 |
+| 4.[^9] |  |  |  |  |  |  |
 
 | 5. | 1528/2022. (XI. 2.) Korm. határozat 1. pont b) alpont ba) és bb) pontja | 1 600 000 000 | 2 900 000 000 | 0 | 0 | 4 500 000 000 |
 
@@ -50,10 +50,12 @@ adatok forintban
 
 | 7. | 1645/2022. (XII. 21.) Korm. határozat 1. pont c. alpontja |  |  | 502 381 618 |  | 502 381 618 |
 
-[^1]: Az 1. pont 1.3. alpontját az 1527/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be.
+[^1]: Az 1. pont 1.3. alpontját az 1527/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be, az 1190/2024. (VI. 28.) Korm. határozat 6. pont c) alpontja visszavonta.
 [^2]: Az 1. pont 1.4. alpontját az 1599/2022. (XII. 1.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont 1.5. alpontját az 1599/2022. (XII. 1.) Korm. határozat 2. pontja iktatta be.
 [^4]: Az 1. pont 1.6. alpontját az 1645/2022. (XII. 21.) Korm. határozat 2. pontja iktatta be.
 [^5]: A 2. pont c) alpontját az 1527/2022. (XI. 2.) Korm. határozat 3. pontja iktatta be.
 [^6]: A 3. pont az 1527/2022. (XI. 2.) Korm. határozat 4. pontja szerint módosított szöveg.
 [^7]: Az 1. melléklet az 1645/2022. (XII. 21.) Korm. határozat 3. pontjával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat 2. sora az 1190/2024. (VI. 28.) Korm. határozat 4. pontjával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat 4. sorát az 1190/2024. (VI. 28.) Korm. határozat 6. pont c) alpontja visszavonta.
