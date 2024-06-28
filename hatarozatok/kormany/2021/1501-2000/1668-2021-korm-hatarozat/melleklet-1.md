@@ -12,7 +12,7 @@
 
 ## f)[^5] a komplex közútfejlesztési feladatok II. ütemének megvalósítása érdekében szükséges intézkedésekről szóló 1137/2022. (III. 10.) Korm. határozatra –
 
-## g)[^6] a Budapest–Belgrád vasútvonal újjáépítési beruházás engedélyezési eljárása során felmerült települési igények megvalósításához szükséges többletforrások biztosításáról szóló 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat 1–6. sorában foglalt fejlesztésekre –
+## g)[^6]
 
 ## (a továbbiakban együtt: kormányhatározatok) a következőkről dönt.
 
@@ -58,16 +58,16 @@ adatok forintban
 
 | 7. | 1137/2022. (III. 10.) Korm. határozat 3. pontja | 0 | 8 300 000 000 | 43 976 854 915 | 29 720 781 495 | 5 807 464 167 | 0 | 0 | 87 805 100 577 |
 
-| 8. | 1213/2022. (IV. 5.) Korm. határozat 1. melléklet II. pontjában foglalt táblázat 1–6. sora | 0 | 200 000 000 | 800 000 000 | 900 000 000 | 733 000 000 | 0 | 0 | 2 633 000 000 |
+| 8. |  |  |  |  |  |  |  |  |  |
 
 [^1]: Az 1. pont az 1779/2021. (XI. 2.) Korm. határozat 4. pont a) alpontjával megállapított szöveg.
 [^2]: Az 1. pont c) alpontját az 1803/2021. (XI. 16.) Korm. határozat 2. pontja iktatta be.
 [^3]: Az 1. pont d) alpontját az 1820/2021. (XI. 25.) Korm. határozat 7. pontja iktatta be.
 [^4]: Az 1. pont e) alpontját az 1939/2021. (XII. 21.) Korm. határozat 6. pontja iktatta be.
 [^5]: A 1. pont f) alpontját az 1137/2022. (III. 10.) Korm. határozat 2. pontja iktatta be.
-[^6]: Az 1. pont g) alpontját az 1213/2022. (IV. 5.) Korm. határozat 16. pont a) alpontja iktatta be.
+[^6]: Az 1. pont g) alpontját az 1213/2022. (IV. 5.) Korm. határozat 16. pont a) alpontja iktatta be, az 1190/2024. (VI. 28.) Korm. határozat 6. pont a) alpontja visszavonta.
 [^7]: A 2. pont az 1820/2021. (XI. 25.) Korm. határozat 6. pontjával megállapított szöveg.
 [^8]: A 2. pont a) alpontot az 1137/2022. (III. 10.) Korm. határozat 5. pontja visszavonta.
 [^9]: A 3. pontot az 1779/2021. (XI. 2.) Korm. határozat 2. pontja iktatta be.
 [^10]: A 4. pontot az 1137/2022. (III. 10.) Korm. határozat 3. pontja iktatta be, szövege az 1213/2022. (IV. 5.) Korm. határozat 16. pont b) alpontja szerint módosított szöveg.
-[^11]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja, az 1820/2021. (XI. 25.) Korm. határozat 8. pontja, az 1939/2021. (XII. 21.) Korm. határozat 7. pontja, az 1137/2022. (III. 10.) Korm. határozat 5. pontja, az 1213/2022. (IV. 5.) Korm. határozat 16. pont c) alpontja szerint módosított szöveg.
+[^11]: Az 1. mellékletet az 1779/2021. (XI. 2.) Korm. határozat 3. pontja iktatta be, szövege az 1803/2021. (XI. 16.) Korm. határozat 3. pontja, az 1820/2021. (XI. 25.) Korm. határozat 8. pontja, az 1939/2021. (XII. 21.) Korm. határozat 7. pontja, az 1137/2022. (III. 10.) Korm. határozat 5. pontja, az 1213/2022. (IV. 5.) Korm. határozat 16. pont c) alpontja, az 1190/2024. (VI. 28.) Korm. határozat 6. pont a) alpontja szerint módosított szöveg.

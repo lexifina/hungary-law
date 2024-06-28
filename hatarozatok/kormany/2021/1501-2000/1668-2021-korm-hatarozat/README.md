@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1668-30
 | 2021-12-21 | 2021-1668-30-22.5 | 1939/2021. (XII. 21.) Korm. határozat |
 | 2022-03-10 | 2021-1668-30-22.6 | 1137/2022. (III. 10.) Korm. határozat |
 | 2022-04-05 | 2021-1668-30-22.7 | 1213/2022. (IV. 5.) Korm. határozat |
+| 2024-06-28 | 2021-1668-30-22.8 | 1213/2022. (IV. 5.) Korm. határozat |
