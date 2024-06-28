@@ -1,0 +1,94 @@
+# Az igazságügyi miniszter 10/2024. (VI. 28.) IM rendelete
+
+Magyar Közlöny 2024. évi 69. szám, 2024. június 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/BpAFFmQU0tb1vz7GiaLH66708217db9df/dokumentumok/ab28d10305f46b9e880b338de3cad423be887748/letoltes)
+
+---
+
+Az igazságügyi miniszter 10/2024. (VI. 28.) IM rendelete
+a kötelező jótállás alá tartozó tartós fogyasztási cikkek körének meghatározásáról
+A Polgári Törvénykönyvről szóló 2013. évi V. törvény hatálybalépésével összefüggő átmeneti és felhatalmazó rendelkezésekről
+szóló 2013. évi CLXXVII. törvény 66. § (5) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és
+hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 119. § 1. és 6. pontjában meghatározott feladatkörömben eljárva
+– a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 18. pontjában
+meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben –,
+a 3. § tekintetében az államháztartásról szóló 2011. évi CXCV. törvény 109. § (5) bekezdésében kapott felhatalmazás alapján,
+az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 1. melléklet 10. pontjában
+meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet
+148. § (1) bekezdés 2. pontjában meghatározott feladatkörében eljáró pénzügyminiszterrel egyetértésben –
+a következőket rendelem el:
+1. §
+Az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló kormányrendelet szerinti jótállási
+kötelezettség az 1. melléklet szerinti, új tartós fogyasztási cikkekre terjed ki, ha azok eladási ára eléri
+a 10 000 forintot.
+2. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 1. § és az 1. melléklet 2024. július 1-jén lép hatályba.
+3. §
+A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendelet 4. §-ában
+az„üzemeltetését”szövegrész helyébe a„fejlesztését és üzemeltetését”szöveg lép.
+ Dr. Tuzson Bence s. k.,
+ igazságügyi miniszter
+1. melléklet a 10/2024. (VI. 28.) IM rendelethez
+A kötelező jótállás alá tartozó fogyasztási cikkek köre
+1. háztartási készülék, így különösen hűtőszekrény, fagyasztó, kombinált hűtőszekrény, villanytűzhely,
+mosógép, centrifuga, szárítógép és ezek bármely kombinációja, mosogatógép, vasaló, vízmelegítő, tüzelő-,
+fűtő-, légkondicionáló- és egyéb légállapot-szabályozó berendezés, porszívó, gőzzel működő tisztítógép,
+szőnyegtisztító-gép, padlósúroló- és fényesítőgép, varrógép, kötőgép, villanybojler, szivattyú;
+2. villamos energiával működtetett konyhai kisgép, így különösen mikrohullámú sütő, kenyérsütő, kenyérpirító,
+kávéfőző, kávédaráló, tejhabosító, vízforraló, konyhai robotgép, turmixgép, elektromos húsdaráló, grillsütő, olajsütő,
+ostyasütő, fánksütő, gofrisütő, szendvicssütő, elektromos palacsintasütő, elektromos pizzasütő, forrólevegős sütő,
+elektromos főzőedény, elektromos serpenyő, elektromos popcornkészítő, elektromos kontaktgrill, forgónyárs, mini
+tűzhely, rizsfőző készülék, tésztafőző, tojásfőző, ételpároló, gyümölcsaszaló;
+3. gázkészülék, így különösen tűzhely, konvektor, gázkazán, gázbojler, gázgrill, gázzsámoly, gázsütő, gázperzselő,
+gázlámpa;
+4. motoros kerti gép és nem motoros kertészeti eszköz, így különösen kapálógép, gyepszellőztető, fűnyíró, fűkasza,
+tologatós fűnyíró, kerti traktor;
+5. motoros kézi szerszám, így különösen láncfűrész, fúrógép, ütvefúrógép, sarokköszörű, körfűrész, gyalu;
+6. közlekedési eszköz, így különösen kerékpár, elektromos kerékpár, roller, elektromos roller, quad, motorkerékpár,
+segédmotoros kerékpár, személygépkocsi, lakóautó, lakókocsi, utánfutós lakókocsi, utánfutó;
+7. motoros vízi jármű;
+8. jogszabályban foglaltak szerint nyílt kategóriába sorolt pilóta nélküli légijármű;
+9. nyílászáró, így különösen ablak, bel- és kültéri ajtó, garázsajtó;
+10. árnyékolástechnikai eszköz, így különösen kézi vagy motoros meghajtású redőny, reluxa, napellenző, szalagfüggöny;
+11. kaputelefon, kamerás megfigyelőrendszer;
+
+12. garázskapu- és egyéb kapumeghajtás, vezérlés;
+13. biztonsági riasztó- és jelzőberendezés;
+14. elektronikus hírközlő végberendezés, így különösen telefon, mobiltelefon, telefax-készülék, több funkciós készülék;
+15. híradástechnikai készülék, így különösen üzenetrögzítő, kihangosító készülék, műholdvevő és AM Micro
+antenna rendszerek és ezek részegységei, televízió, projektor, rádió, autórádió, rádiós ébresztőóra, műholdas
+helymeghatározó, játékkonzol, Blu-ray lejátszó és -író, asztali médialejátszó, egyéni hangrendszer, keverőasztal,
+erősítő, hangszóró, hangfal, mikrofon és fülhallgató, head-set;
+16. információtechnikai készülék, így különösen asztali számítógép, laptop, notebook, tablet, PDA, monitor,
+fényképezőgép, film- és hangfelvevő kamera, videokamera és camcorder, diktafon, fotónyomtató, film- és
+diaszkenner, MP3 és MP4 lejátszó, hordozható médialejátszó, e-könyv olvasó, pendrive, memóriakártya,
+számológép, zsebszámológép;
+17. irodatechnikai berendezés, így különösen fénymásoló, nyomtató, szkenner, iratmegsemmisítő, laminálógép;
+18. írásvetítő és filmtechnikai berendezés, így különösen film- és írásvetítő, filmnagyító, filmelőhívó- és filmfeldolgozó
+készülék;
+19. világítástechnikai termék, így különösen lámpatest, fényforrás;
+20. villamos energiával működtetett szépségápolási eszköz, így különösen hajszárító, hajformázó, testszőrnyíró gép,
+epilátor, villanyborotva;
+21. mérőműszer, generátor, tápegység, akkumulátor-töltő;
+22. lőfegyver;
+23. sporteszköz, vadászathoz és horgászathoz kapcsolódó eszköz;
+24. bel- és kültéri bútor, fekvőmatrac;
+25. a 24. pontba nem tartozó fürdőszobai berendezési tárgy, kültéri kád, valamint bel- és kültéri medence,
+így különösen szappanadagoló, csaptelep, zuhanyfej, zuhanykészlet, vécé, bidé, piszoár, öblítőtartály, mosdókagyló,
+zuhanytálca, zuhanyfal, zuhanyajtó, zuhanykabin, fürdőkád, bel- és kültéri masszázsmedence;
+26. napkollektor, napelemrendszer;
+27. villamos energiával működtetett játék, így különösen játék hoverboard, játék elektromos roller, pilóta nélküli játék
+légijármű;
+28. gyermekmegfigyelő berendezés, így különösen légzésfigyelő, szívhangfigyelő, bébiőrző;
+29. bel- és kültéri gyermekjáték, különösen hinta, csúszda;
+30. gyermekgondozási cikk, így különösen pelenkázó- vagy mosdató-állvány, babakocsi, magas és asztalra szerelhető
+etetőszék, biztonsági gyermekülés;
+31. egészségmegőrző és gyógyászati termék és eszköz, így különösen elektromos masszírozó, elektromos fogkefe,
+mágneses termék, fényterápiás eszköz, inhalátor, lázmérő;
+32. gyógyászati segédeszköz;
+33. látásjavító eszköz, így különösen szemüveg, valamint napszemüveg;
+34. optikai eszköz, így különösen távcső, látcső, mikroszkóp, teleszkóp;
+35. hangszer;
+36. óra és ékszer;
+37. kedvtelésből tartott állatok villamos energiával működtetett felszerelése, így különösen etető, itató, szőrnyírógép,
+nyakörv, ajtó, nyomkövető, alomtálca;
+38. kötelező jótállás alá tartozó tartós fogyasztási cikk tartozéka, alkotórésze.
