@@ -1,10 +1,10 @@
-5/V. §[^78] (1)[^79] A 2. mellékletben foglalt táblázat 122. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
+5/V. §[^82] (1)[^83] A 2. mellékletben foglalt táblázat 122. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telekre a beépítés szabályait és az egyedi építési követelményeket a (2)–(5) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2)–(4) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
 b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés és az egyedi építési követelmények (2)–(4) bekezdésben meghatározott sajátos szabályaival ellentétes vagy azzal össze nem egyeztethető előírást tartalmaz, akkor a településrendezési tervet és az OTÉK-ot nem lehet alkalmazni.
 
-(2)[^80] A 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telken meghatározott sajátos beépítési szabályok és egyedi építési követelmények a következők:
+(2)[^84] A 2. mellékletben foglalt táblázat B:122 mezőjében megjelölt telken meghatározott sajátos beépítési szabályok és egyedi építési követelmények a következők:
 
 a) az épületmagasság megengedett legnagyobb mértéke 90 méter,
 
@@ -38,14 +38,14 @@ i) a településrendezési tervben meghatározott térfal kialakítása nem korl
 
 (4) A parkolóhelyek kialakításánál az építmények és önálló rendeltetési egységek rendeltetésszerű használatához
 
-a)[^81] a beruházással összefüggésben megvalósuló épület tekintetében a kereskedelmi, szolgáltató önálló rendeltetési egység árusítóterének alapterülete után nem kell személygépkocsi-várakozóhelyet biztosítani, és
+a)[^85] a beruházással összefüggésben megvalósuló épület tekintetében a kereskedelmi, szolgáltató önálló rendeltetési egység árusítóterének alapterülete után nem kell személygépkocsi-várakozóhelyet biztosítani, és
 
 b) autóbusz-várakozóhelyet nem kell biztosítani.
 
-(5)[^82] A beruházással összefüggésben megvalósuló épületben kialakításra kerülő óvoda-bölcsőde játszóudvara az épület tetőkertjén is kialakítható.
+(5)[^86] A beruházással összefüggésben megvalósuló épületben kialakításra kerülő óvoda-bölcsőde játszóudvara az épület tetőkertjén is kialakítható.
 
-[^78]: Az 5/V. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
-[^79]: Az 5/V. § (1) bekezdés nyitó szövegrésze a 2/2024. (I. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^80]: Az 5/V. § (2) bekezdése a 2/2024. (I. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^81]: Az 5/V. § (4) bekezdés a) pontja a 2/2024. (I. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^82]: Az 5/V. § (5) bekezdését a 2/2024. (I. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^82]: Az 5/V. §-t a 429/2023. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
+[^83]: Az 5/V. § (1) bekezdés nyitó szövegrésze a 2/2024. (I. 9.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^84]: Az 5/V. § (2) bekezdése a 2/2024. (I. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^85]: Az 5/V. § (4) bekezdés a) pontja a 2/2024. (I. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^86]: Az 5/V. § (5) bekezdését a 2/2024. (I. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
