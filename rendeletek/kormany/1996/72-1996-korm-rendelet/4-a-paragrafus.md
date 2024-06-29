@@ -22,7 +22,7 @@ a) a hatályát a vízügyi hatóság egy esetben, legfeljebb egy évvel meghoss
 
 b) a vízilétesítmény megszüntetését műszakilag megkezdték, és azt folyamatosan végzik.
 
-(7a)[^58] A megszüntetési engedély az egyes vízgazdálkodási és kármentesítési célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 309/2017. (X. 27.) Korm. rendelet 1. § (1a) bekezdése szerinti projektek esetében a véglegessé és végrehajthatóvá válásának napjától számított öt évig hatályos.
+(7a)[^58] A megszüntetési engedély a 309/2017. (X. 27.) Korm. rendelet 1. § (1a) bekezdése szerinti projektek, valamint a 323/2020. (VII. 1.) Korm. rendelet 2. mellékletében foglalt beruházások esetében a véglegessé és végrehajthatóvá válásának napjától számított öt évig hatályos.
 
 (8)[^59] A vízilétesítmény megszüntetését a munkálatok befejezését követően a vízügyi hatóság felé be kell jelenteni. A vízügyi hatóság megvizsgálja, hogy a megszüntetés az erre vonatkozó engedélyben foglaltaknak megfelelően került-e végrehajtásra és a vizsgálat eredményétől függően intézkedik a Vgtv. 33/B. § (3) bekezdésében meghatározott adatok vízikönyvi nyilvántartásból való törléséről.
 
@@ -36,7 +36,7 @@ b) a vízilétesítmény megszüntetését műszakilag megkezdték, és azt foly
 [^55]: A 4/A. § (1) bekezdése az 518/2017. (XII. 29.) Korm. rendelet 18. § c) pontja, a 286/2019. (XII. 4.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
 [^56]: A 4/A. § (2) bekezdése a 286/2019. (XII. 4.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
 [^57]: A 4/A. § (7) bekezdése az 552/2023. (XII. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^58]: A 4/A. § (7a) bekezdését az 552/2023. (XII. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^58]: A 4/A. § (7a) bekezdését az 552/2023. (XII. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 158/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^59]: A 4/A. § (8) bekezdése a 288/2018. (XII. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^60]: A 4/A. § (10) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^61]: A 4/A. § (11) bekezdését az 518/2017. (XII. 29.) Korm. rendelet 2. §-a iktatta be.
