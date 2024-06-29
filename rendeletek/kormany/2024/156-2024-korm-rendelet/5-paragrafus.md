@@ -1,0 +1,1 @@
+5. § Az R. 2. mellékletében foglalt táblázat B:107 mezőjében az „I. kerület külterület 01428/22 és 01428/23 helyrajzi számú ingatlanok” szövegrész helyébe az „I. kerület belterület 11124 és 12987, valamint I. kerület külterület 01428/22 és 011428/23 helyrajzi számú ingatlanok” szöveg lép.
