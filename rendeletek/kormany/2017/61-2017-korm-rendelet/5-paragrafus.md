@@ -1,136 +1,81 @@
-5. § (1)[^8] A turisztikai ügynökség
+5. §[^11] (1) A turisztikai ügynökség
 
-1. ellátja a Széchenyi Pihenő Kártyával kapcsolatos turisztikai szakmai feladatokat, részt vesz a feladatok végrehajtásának ellenőrzésében,
+1. ellátja a Széchenyi Pihenő Kártyával kapcsolatos turisztikai szakmai feladatokat,
 
-2.[^9]
+2. – a 4. § (2) bekezdésében meghatározott feladat- és hatáskörök gyakorlójaként kijelölt szerv feladat- és hatáskörébe tartozó feladatok kivételével – működteti a turisztikai és vendéglátóipari szolgáltatások minősítésére vonatkozó nemzeti tanúsító védjegyek rendszerét, valamint a turisztikai attrakciók minősítési feltételrendszeren alapuló védjegyrendszereit,
 
-3. gondoskodik a Nemzeti Kulturális Alappal közös pályázat működtetéséről a turisztikai vonzerővel bíró kulturális és gasztronómiai rendezvények támogatására,
+3. a turizmusért felelős miniszter delegálása alapján, a turizmusért felelős miniszter képviseletében részt vesz jogszabály alapján vagy kormányhatározattal létrehozott testületek munkájában,
 
-4.[^10] működteti a turisztikai és vendéglátóipari szolgáltatások minősítésére vonatkozó nemzeti tanúsító védjegyek rendszerét, valamint a turisztikai attrakciók minősítési feltételrendszeren alapuló védjegyrendszereit,
+4. gondoskodik a magyar nemzeti értékekről és a hungarikumokról szóló törvény szerinti Turizmus-Vendéglátás Ágazati Értéktár működtetéséről,
 
-5. a turizmusért felelős miniszter delegálása alapján, a turizmusért felelős miniszter képviseletében részt vesz jogszabály alapján vagy kormányhatározattal létrehozott testületek munkájában,
+5. gondoskodik a turisztikai jelentőséggel bíró gasztronómiai projektek, fesztiválok, rendezvények támogatásáról,
 
-6. gondoskodik a magyar nemzeti értékekről és a hungarikumokról szóló törvény szerinti Turizmus-Vendéglátás Ágazati Értéktár működtetéséről,
+6. közreműködik a Modern Városok Program keretében megjelent kormányhatározatokban szereplő turisztikai feladatok végrehajtásában és a kapcsolódó kormánydöntések előkészítésében, kapcsolatot tart az érintett városokkal, szervezetekkel, beleértve a projektek véleményezését és a stratégiai irányokhoz való illeszkedési megfelelőség ellenőrzését,
 
-7. közreműködik a Modern Városok Program keretében megjelent kormányhatározatokban szereplő turisztikai feladatok végrehajtásában és a kapcsolódó kormánydöntések előkészítésében, kapcsolatot tart az érintett városokkal, szervezetekkel, beleértve a projektek előminősítését, véleményezését és a stratégiai irányokhoz való illeszkedési megfelelőség ellenőrzését,
+7. alapfeladataihoz kapcsolódóan teljes körű hazai és nemzetközi értékesítési, valamint marketing- és kommunikációs tevékenységet végez, szoros kapcsolatot tartva a szakmai, kormányzati és egyéb szervezetekkel, valamint piacfejlesztési tevékenységet folytat, értékesítési platformokat dolgoz ki a turisztikai kínálat értékesítésére,
 
-8.[^11] alapfeladataihoz kapcsolódóan teljes körű hazai és nemzetközi értékesítési, valamint marketing- és kommunikációs tevékenységet végez, szoros kapcsolatot tartva a szakmai és kormányzati, nem kormányzati szervezetekkel, valamint piacfejlesztési tevékenységet folytat, értékesítési platformokat dolgoz ki a turisztikai kínálat értékesítésére, továbbá működteti és irányítja a nemzetközi turisztikai képviselet hálózatot,
+8. ellátja a hivatásturisztikai feladatokat,
 
-9. meghatározza és végrehajtja a kapcsolódó hazai rendezvényszervezési és koordinálási tevékenységet,
+9. figyelemmel kíséri az Európai Unió turisztikai és vendéglátóipari tárgyú jogalkotását és kezdeményezéseit,
 
-10.[^12] ellátja a hivatásturisztikai feladatokat,
+10. közreműködik az Európai Koordinációs Tárcaközi Bizottság Turisztika Szakértői Csoport munkájában, valamint a nemzetközi turisztikai szakmai szervezetekben képviseli Magyarországot, szakmai területi képviselői útján részt vesz a nemzetközi együttműködésekben,
 
-11. figyelemmel kíséri az Európai Unió turisztikai és vendéglátóipari tárgyú jogalkotását és kezdeményezéseit,
+11. statisztikai adatok és nemzetközi turisztikai technológiai trendek alapján elemzi a hazai és nemzetközi turizmus, a szálláshely, vendéglátás és turisztikai attrakciók folyamatait,
 
-12. közreműködik az Európai Koordinációs Tárcaközi Bizottság Turisztika Szakértői Csoport munkájában, valamint a nemzetközi turisztikai szakmai szervezetekben képviseli Magyarországot, szakmai területi képviselői útján részt vesz a nemzetközi együttműködésekben,
+12. koordinálja a turizmusfejlesztési feladatokat és a kiemelt állami turisztikai fejlesztéseket, kapcsolatot tart a turizmus és a vendéglátás fejlesztésében érintett kormányzati és nem kormányzati szereplőkkel, szervezi együttműködésüket,
 
-13.[^13] statisztikai adatok és nemzetközi turisztikai technológiai trendek alapján elemzi a hazai és nemzetközi turizmus, a szállodaipar és a vendéglátás folyamatait,
+13. együttműködik a turisztikai tematikához kapcsolódó beruházások esetén az illetékes minisztériumokkal, kormányzati szervekkel, és szakmai javaslatokat fogalmaz meg a kiemelt, turisztikai hatással bíró fejlesztéseket illetően,
 
-14. koordinálja a turizmusfejlesztési feladatokat és a kiemelt állami turisztikai fejlesztéseket, kapcsolatot tart a turizmus és a vendéglátás fejlesztésében érintett kormányzati és nem kormányzati szereplőkkel, szervezi együttműködésüket,
+14. együttműködik a Magyarország külképviseletein működő turisztikai szakdiplomatákkal, a külgazdasági attasékkal,
 
-15.[^14]
+15. a Kormány által vagy saját hatáskörben meghozott támogatói döntés alapján támogatja a határon túli egyes turisztikai fejlesztéseket,
 
-16.[^15] együttműködik a Magyarország külképviseletein működő turisztikai szakdiplomatákkal, a külgazdasági attasékkal, valamint a Nemzeti Befektetési Ügynökség (HIPA) és a HEPA Magyar Exportfejlesztési Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság szakterületi vezetőivel a nemzetközi promóciós tevékenységek összehangolását illetően,
+16. kidolgozza a turisztikai országmárka-koncepciót, és megvalósítja a kapcsolódó stratégiai programokat, annak teljes körű desztinációs és termékkínálati fejlesztését,
 
-17.[^16] együttműködik a turisztikai tematikához kapcsolódó beruházások esetén az illetékes minisztériumokkal, kormányzati szervekkel, és szakmai javaslatokat fogalmaz meg a kiemelt, turisztikai hatással bíró fejlesztéseket illetően,
+17. turisztikai vonzerőleltárat épít, és karbantartja azt,
 
-18.[^17] a Kormány által vagy saját hatáskörben meghozott támogatói döntés alapján – az egyes Kárpát-medencei gazdaságélénkítő programok és összehangolt fejlesztési feladatok figyelembevételével – támogatja a határon túli egyes turisztikai fejlesztéseket,
+18. fenntartja a Tourinform névhasználati rendszert,
 
-19. kidolgozza a turisztikai országmárka-koncepciót, és megvalósítja a kapcsolódó stratégiai programokat, annak teljes körű desztinációs és termékkínálati fejlesztését,
+19. koordinálja a belföldi turistainformációs tevékenységet a Tourinform irodai hálózat révén,
 
-20. turisztikai vonzerőleltárat épít, és karbantartja azt,
+20. gondoskodik a közvetlen hatáskörébe tartozó nemzetközi turisztikai vonzatú rendezvényeken való részvételről, és végzi a kapcsolódó rendezvényszervezési feladatokat, illetve szakmai felügyeletet gyakorol az egységes turisztikai országmárka szempontjainak érvényesítése vonatkozásában a nemzetközi kiállításokon, rendezvényeken való magyar állami megjelenés kapcsán,
 
-21.[^18] koordinálja a belföldi turistainformációs tevékenységet a Tourinform irodai hálózat révén,
+21. közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája – Bureau International des Expositions, BIE – nemzetközi szervezetben az ország képviseletét,
 
-22. jogi, pénzügyi és adminisztratív keretet biztosít a „Virágos Magyarországért” környezetszépítő versenynek,
+22. közreműködik a visegrádi négyek országai közötti E-sport-bajnokság és -konferencia megrendezésében,
 
-23.[^19]
+23. észrevételeket, javaslatokat tesz az ágazatra vonatkozó statisztikai adatok gyűjtésére,
 
-24. gondoskodik a közvetlen hatáskörébe tartozó nemzetközi turisztikai vonzatú rendezvényeken való részvételről, és végzi a kapcsolódó rendezvényszervezési feladatokat, illetve szakmai felügyeletet gyakorol az egységes turisztikai országmárka szempontjainak érvényesítése vonatkozásában a nemzetközi kiállításokon, rendezvényeken való magyar állami megjelenés kapcsán,
+24. figyelemmel kíséri a turizmust, a turisztikai befektetéseket, a turisztikai online értékesítést, a szállodaipari, valamint a vendéglátást és a turisztikai attrakciókat érintő fontosabb folyamatokat,
 
-25.[^20] közreműködik a nemzeti rendezvények koncepciójának kidolgozásában,
+25. elemzi a turisztikai területen működő vállalkozások gazdálkodási, jövedelmi folyamatait, ezekre vonatkozóan szakmai anyagokat készít, véleményez, és javaslatokat dolgoz ki,
 
-26.[^21] közreműködik a világkiállításokon való magyar részvételre irányuló javaslatok kidolgozásában, gondoskodik a világkiállításokon való magyar részvétellel kapcsolatos szervezési és lebonyolítási feladatokról, valamint a turizmusért felelős miniszter delegálása alapján ellátja a Kiállítások Nemzetközi Irodája (Bureau International des Expositions, BIE) nemzetközi szervezetben az ország képviseletét,
+26. figyelemmel kíséri és elemzi Magyarország és a magyar nép kulturális öröksége turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
 
-27.[^22] a sportpolitikáért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, valamint közreműködik a visegrádi négyek országai közötti E-sport bajnokság és konferencia megrendezésében,
+27. figyelemmel kíséri és elemzi Magyarország és a magyar nép épített öröksége turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
 
-28.[^23] a turisztikai szempontból jelentős rendezvények rendezvényszervezőiből, a logisztikai, katasztrófavédelmi, közlekedési, rendészeti és egyéb, a rendezvények szervezésében érintett hatósági személyek képviselőiből álló szakmai testületet kér fel, amely koordinálja és szakmai szempontból támogatja a belföldi és nemzetközi turisztikai vonzerő szempontjából kiemelt rendezvényeket, erre vonatkozóan javaslatokat tesz,
+28. vizsgálja és elemzi Magyarország természeti értékei turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
 
-29.[^24] gondoskodik a rendezvénykoordinációs feladatok ellátásáról, működteti a szakmai testület munkáját segítő Nemzeti Rendezvénykoordinációs Központot;
+29. nyomon követi a közlekedési ágazat infrastrukturális fejlesztéseit, és a turisztikai szempontok érvényesülése érdekében javaslatokat dolgoz ki,
 
-30.[^25] más szervezetekkel együttműködve gondoskodik a nemzeti ünnepek megszervezéséről és lebonyolításáról,
+30. figyelemmel kíséri és vizsgálja a gasztroturizmus folyamatait, e körben szakmai anyagokat készít, és javaslatokat dolgoz ki,
 
-31.[^26]
+31. létrehozza a desztinációmenedzsment-szervezet rendszerét, részt vesz a desztinációmenedzsment-szervezet szakmai koordinációjában, irányítja a szakmai munkát,
 
-32.[^27] a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú gazdasági társaság útján kidolgozza a magyar divat- és designipari stratégiát, koordinálja és összehangolja a belföldi és a külföldi regionális divat- és designipari megjelenéseket, szakmai koordinációt végez és javaslatokat fogalmaz meg a divat- és designipar területén működő hazai szervezetek között az egységes szakmai módszertanok érvényesítése érdekében,
+32. speciális turisztikai informatikai szoftver útján ellátja a hazai turisztikai vonzerők feltérképezésével és hálózatba szervezésével kapcsolatos feladatokat,
 
-33.[^28] a 8., 10., 21., 24., 29., 43. és 46. pontban felsorolt, valamint egyéb értékesítési, marketing- és kommunikációs tevékenységéhez kapcsolódó feladatait elsősorban egy, a tulajdonosi joggyakorlása alá tartozó gazdasági társaság útján látja el, érvényt szerezve a turisztikai ügynökség éves üzleti tervében megfogalmazott turizmusszakmai és marketingstratégiai céljainak, biztosítva a Turizmus 2.0 célrendszerének megvalósulását,
+33. a turisztikai jellegű szolgáltatási tevékenységek fejlesztése és az adatvezérelt ágazatirányítás igényeinek kiszolgálása érdekében az ágazat szolgáltatásait igénybe vevők fogyasztási szokásaira vonatkozó forgalmi adatok gyűjtésére és az ágazati szereplők tevékenységét elősegítő információtechnológiai platformokat működtet,
 
-34.[^29] a 14. ponttól eltérően a turisztikai térségekben megvalósítandó fejlesztési feladatokhoz kapcsolódó szakmai koordinációt a tulajdonosi joggyakorlása alá tartozó, 100%-ban állami tulajdonú, a Kormány egyedi határozatában kijelölt gazdasági társaság útján látja el.
+34. együttműködik a Miniszterelnöki Kabinetirodát vezető miniszterrel a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet (a továbbiakban: Statútum rendelet) 13. § (1) bekezdés d)–g) pontja szerinti feladatok ellátásával összefüggésben,
 
-35.[^30] észrevételeket, javaslatokat tesz az ágazatra vonatkozó statisztikai adatok gyűjtésére,
+35. együttműködik a Miniszterelnökséget vezető miniszterrel a Statútum rendelet 45. § f) és m) pontja szerinti feladatok ellátásával összefüggésben,
 
-36.[^31] figyelemmel kíséri a turizmust, a turisztikai befektetéseket, a turisztikai online értékesítést, a szállodaipari, valamint a vendéglátást és a turisztikai attrakciókat érintő fontosabb folyamatokat,
+36. közreműködik a turizmusdiplomáciai feladatok ellátásában,
 
-37.[^32] elemzi a turisztikai területen működő vállalkozások gazdálkodási, jövedelmi folyamatait, ezekre vonatkozóan szakmai anyagokat készít, véleményez, és javaslatokat dolgoz ki,
+37. a 2. pontban foglalt feladatát a Kormány rendeletében szálláshely-minősítési tevékenység ellátására kijelölt gazdasági társaság vagy az illetékes szakmai szervezet útján látja el,
 
-38.[^33] figyelemmel kíséri és elemzi Magyarország és a magyar nép kulturális öröksége turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
+38. együttműködik a miniszterelnök általános helyettesével a Statútum rendelet 49. § (2) bekezdés e) pontja szerinti feladatok ellátásával összefüggésben.
 
-39.[^34] figyelemmel kíséri és elemzi Magyarország és a magyar nép épített öröksége turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
+(2) A turisztikai ügynökség az (1) bekezdésben meghatározott feladatokat a tulajdonosi joggyakorlása alá tartozó gazdasági társaságok útján is elláthatja.
 
-40.[^35] vizsgálja és elemzi Magyarország természeti értékei turisztikai célú hasznosításának lehetőségeit és gyakorlatát,
-
-41.[^36] nyomon követi a közlekedési ágazat infrastrukturális fejlesztéseit, és a turisztikai szempontok érvényesülése érdekében javaslatokat dolgoz ki,
-
-42.[^37] figyelemmel kíséri és vizsgálja a gasztroturizmus folyamatait, e körben szakmai anyagokat készít, és javaslatokat dolgoz ki.
-
-43.[^38] létrehozza a desztinációmenedzsment-szervezet rendszerét, részt vesz a desztinációmenedzsment-szervezet szakmai koordinációjában, irányítja a szakmai munkát,
-
-44.[^39] fenntartja a Tourinform névhasználati rendszert,
-
-45.[^40] speciális turisztikai informatikai szoftver útján ellátja a hazai turisztikai vonzerők feltérképezésével és hálózatba szervezésével kapcsolatos feladatokat.
-
-46.[^41] a turisztikai jellegű szolgáltatási tevékenységek fejlesztése és az adatvezérelt ágazatirányítás igényeinek kiszolgálása érdekében az ágazat szolgáltatásait igénybe vevők fogyasztási szokásaira vonatkozó forgalmi adatok gyűjtésére és az ágazati szereplők tevékenységét elősegítő információtechnológiai platformokat működtet,
-
-47.[^42] együttműködik a hazai kommunikációért és az országmárka kialakításáért felelős kormánybiztossal és a turizmusért felelős miniszterrel a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 13. § (1) bekezdés d)–g) pontja szerinti feladatok ellátásával összefüggésben,
-
-48.[^43] a 4. pontban foglalt feladatát a Kormány rendeletében szálláshely-minősítési tevékenység ellátására kijelölt gazdasági társaság útján látja el.
-
-(2) Az (1) bekezdés 4. pontja szerinti feladat nem terjed ki a 4. § (2) bekezdésében meghatározott feladat- és határkörök gyakorlójaként kijelölt szerv feladat- és hatáskörébe tartozó feladatokra.
-
-[^8]: Az 5. § (1) bekezdése a 114/2017. (V. 10.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (1) bekezdés 2. pontját az 579/2021. (X. 12.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^10]: Az 5. § (1) bekezdés 4. pontja a 239/2022. (VI. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^11]: Az 5. § (1) bekezdés 8. pontja a 278/2021. (V. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: Az 5. § (1) bekezdés 10. pontját a 13/2020. (II. 7.) Korm. rendelet 118. § 2. pontja hatályon kívül helyezte, újonnan a 619/2022. (XII. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^13]: Az 5. § (1) bekezdés 13. pontja a 278/2021. (V. 26.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^14]: Az 5. § (1) bekezdés 15. pontját a 239/2022. (VI. 30.) Korm. rendelet 32. §-a hatályon kívül helyezte.
-[^15]: Az 5. § (1) bekezdés 16. pontja az 579/2021. (X. 12.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
-[^16]: Az 5. § (1) bekezdés 17. pontja a 239/2022. (VI. 30.) Korm. rendelet 31. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (1) bekezdés 18. pontja a 239/2022. (VI. 30.) Korm. rendelet 31. § (3) bekezdésével megállapított szöveg.
-[^18]: Az 5. § (1) bekezdés 21. pontja az 579/2021. (X. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^19]: Az 5. § (1) bekezdés 23. pontját az 579/2021. (X. 12.) Korm. rendelet 6. §-a hatályon kívül helyezte.
-[^20]: Az 5. § (1) bekezdés 25. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^21]: Az 5. § (1) bekezdés 26. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 454/2017. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^22]: Az 5. § (1) bekezdés 27. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 198/2019. (VIII. 1.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^23]: Az 5. § (1) bekezdés 28. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^24]: Az 5. § (1) bekezdés 29. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege az 591/2022. (XII. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^25]: Az 5. § (1) bekezdés 30. pontját a 114/2017. (V. 10.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^26]: Az 5. § (1) bekezdés 31. pontját a 619/2022. (XII. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte.
-[^27]: Az 5. § (1) bekezdés 32. pontját a 12/2018. (II. 6.) Korm. rendelet 1. §-a iktatta be.
-[^28]: Az 5. § (1) bekezdés 33. pontja a 619/2022. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^29]: Az 5. § (1) bekezdés 34. pontját az 51/2019. (III. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege az 579/2021. (X. 12.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
-[^30]: Az 5. § (1) bekezdés 35. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^31]: Az 5. § (1) bekezdés 36. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be, szövege az 579/2021. (X. 12.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^32]: Az 5. § (1) bekezdés 37. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^33]: Az 5. § (1) bekezdés 38. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^34]: Az 5. § (1) bekezdés 39. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^35]: Az 5. § (1) bekezdés 40. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^36]: Az 5. § (1) bekezdés 41. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^37]: Az 5. § (1) bekezdés 42. pontját a 278/2021. (V. 26.) Korm. rendelet 2. §-a iktatta be.
-[^38]: Az 5. § (1) bekezdés 43. pontját az 579/2021. (X. 12.) Korm. rendelet 3. § (5) bekezdése iktatta be.
-[^39]: Az 5. § (1) bekezdés 44. pontját az 579/2021. (X. 12.) Korm. rendelet 3. § (5) bekezdése iktatta be.
-[^40]: Az 5. § (1) bekezdés 45. pontját az 579/2021. (X. 12.) Korm. rendelet 3. § (5) bekezdése iktatta be, szövege a 239/2022. (VI. 30.) Korm. rendelet 31. § (5) bekezdésével megállapított szöveg.
-[^41]: Az 5. § (1) bekezdés 46. pontját a 239/2022. (VI. 30.) Korm. rendelet 31. § (6) bekezdése iktatta be.
-[^42]: Az 5. § (1) bekezdés 47. pontját a 239/2022. (VI. 30.) Korm. rendelet 31. § (6) bekezdése iktatta be.
-[^43]: Az 5. § (1) bekezdés 48. pontját a 239/2022. (VI. 30.) Korm. rendelet 31. § (6) bekezdése iktatta be.
+[^11]: Az 5. § a 152/2024. (VI. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
