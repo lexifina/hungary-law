@@ -1,0 +1,1 @@
+24. § Az Ábtv. 6. § (1) bekezdés b) pontja szerinti sajátos építményfajta megvalósítására irányuló állami építési beruházások körében a tartalékkeret mértéke – a magasépítésre vonatkozó általános szabályoktól eltérően – legfeljebb a szerződés szerinti vállalkozói díj 5%-a.

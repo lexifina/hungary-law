@@ -1,0 +1,3 @@
+## 11. Az Ábtv. 48. § (1) és (3) bekezdéséhez
+
+23. § Amennyiben az állami építési beruházás becsült értéke a beruházás előkészítési szakaszában vagy a megvalósítási szakasz részét képező tervezés során az adott állami építési beruházás keretprogramban szereplő költségbecsléséhez képest növekedett, az ajánlattételi felhívásban vagy az ajánlati dokumentációban meghatározandó tartalékkeret Ábtv. 48. § (1) bekezdésében meghatározott legkisebb mértéke az e költségnövekedés – a keretprogram szerinti és a megemelt becsült érték közötti különbözet összegének – ellensúlyozása érdekében legfeljebb 1%-ra csökkenthető.

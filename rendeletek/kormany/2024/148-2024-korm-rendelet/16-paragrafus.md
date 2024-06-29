@@ -1,0 +1,1 @@
+16. § Az Ábtv. 41. § (1)–(3) bekezdésében foglaltak a Kbt. 104–105. §-a szerinti keretmegállapodás esetében nem, csak az annak alapján megvalósított beszerzésekre alkalmazandók, továbbá a keretszerződés vonatkozásában csak az annak alapján történő egyedi megrendelésekre irányadók.

@@ -1,0 +1,1 @@
+19. § Az Ábtv. 42. § (1) bekezdése szerinti kötelezettség, valamint az Ábtv. 42. § (2) bekezdése szerint a tervellenőr által elvégzendő feladatok terjedelme ahhoz igazodik, hogy az Ábtv. 21. § (2) bekezdésében a tervellenőr kötelezettségeit az építtető milyen tartalommal határozta meg.

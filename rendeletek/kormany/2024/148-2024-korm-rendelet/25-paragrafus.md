@@ -1,0 +1,1 @@
+25. § Az Ábtv. 6. § (1) bekezdés b) pontja szerinti sajátos építményfajta megvalósítására irányuló állami építési beruházás esetén az Ábtv. 48. § (3) bekezdése szerinti nyilatkozatot az építtető csak az építési műszaki ellenőrtől köteles beszerezni.

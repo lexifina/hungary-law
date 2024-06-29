@@ -1,0 +1,1 @@
+2. § Az európai uniós forrás mértéke vizsgálata tekintetében az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 1. § 2. pontjában foglalt állami támogatás fogalmát kell alkalmazni, azzal, hogy az Áht. 1. § 1. pontjában foglalt agrártámogatást – amennyiben az építtető nem helyi önkormányzat – nem kell figyelembe venni.

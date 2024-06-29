@@ -1,0 +1,1 @@
+17. § Ha a miniszter az Ábtv. 16. §-a szerint építtetőt jelöl ki, az engedélyezési és kivitelezési dokumentáció elkészítésére irányuló közbeszerzési eljárásban az építtető jár el ajánlatkérőként, ha a minisztérium konzorciumi szerződést köt az építtetővel, annak rendelkezései figyelembevételével.
