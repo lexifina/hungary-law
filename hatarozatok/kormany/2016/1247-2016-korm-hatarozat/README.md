@@ -69,3 +69,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1247-30
 | 2023-09-10 | 2016-1247-30-22.60 | 1388/2023. (VIII. 31.) Korm. határozat |
 | 2023-10-10 | 2016-1247-30-22.62 | 1439/2023. (X. 9.) Korm. határozat |
 | 2023-12-15 | 2016-1247-30-22.63 | 1567/2023. (XII. 14.) Korm. határozat |
+| 2024-06-29 | 2016-1247-30-22.64 | 1444/2018. (IX. 17.) Korm. határozat |
