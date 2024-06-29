@@ -28,5 +28,5 @@ l)[^4]
 
 (2) A MePAR továbbá tartalmazza a kataszteri fedvényt, valamint jogszabály, az Európai Mezőgazdasági és Vidékfejlesztési Alap társfinanszírozásával megvalósuló támogatások pályázati felhívásai vagy technikai útmutatás alapján létrehozott és létrehozandó, egyéb tematikus rétegekre vonatkozó adatokat.
 
-[^3]: A 4. § (1) bekezdés k) pontja a 12. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
-[^4]: A 4. § (1) bekezdés l) pontja a 12. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^3]: A 4. § (1) bekezdés k) pontja a 12. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
+[^4]: A 4. § (1) bekezdés l) pontja a 12. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.

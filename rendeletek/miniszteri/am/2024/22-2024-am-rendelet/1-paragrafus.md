@@ -64,5 +64,5 @@ h) karácsonyfa-ültetvények;
 
 21. védett tájképi elem: az Egységes kérelem rendelet 1. § 67. pontja szerinti tájképi elem.
 
-[^1]: Az 1. § 8. pontja a 12. § (2) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^1]: Az 1. § 8. pontja a 12. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
 [^2]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.
