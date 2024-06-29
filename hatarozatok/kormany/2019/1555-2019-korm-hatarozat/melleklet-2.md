@@ -4,9 +4,7 @@
 
 | Projekt Integrált Közlekedésfejlesztési Operatív Program támogatása (forint) | Projekt le nem vonható, EU felé nem elszámolható ÁFA forrása (XIX. Uniós fejlesztések fejezet – IKOP hazai társfinanszírozás) (forint) |
 
-| 2. | Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság | 12 180 000 000 | 3 288 600 000 | 15 468 000 000 | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése. |
-
-| 3. |  |  |  |  |  |  |
+| 2. | Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása | ÉKM | 10 908 143 925 | 2 891 872 393 | 13 800 016 318 | A vasúti és közúti, közösségi és egyéb közlekedési módok közötti közvetlen átszállási kapcsolatot magas szintű szolgáltatásokkal biztosító létesítmények kialakítása, P+R parkolók kiépítése – I. ütem |
 
 2. melléklet az 1555/2019. (IX. 26.) Korm. határozathoz[^7]
 
