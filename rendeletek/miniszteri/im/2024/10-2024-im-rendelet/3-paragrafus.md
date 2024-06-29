@@ -1,0 +1,1 @@
+3. § A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendelet 4. §-ában az „üzemeltetését” szövegrész helyébe a „fejlesztését és üzemeltetését” szöveg lép.
