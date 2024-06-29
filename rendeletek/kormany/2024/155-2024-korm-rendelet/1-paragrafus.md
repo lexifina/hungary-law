@@ -1,0 +1,3 @@
+1. § Az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet (a továbbiakban: R.) a következő 4/B. §-sal egészül ki:
+
+„4/B. § A 2. mellékletben foglalt táblázat 66. sora szerinti beruházás esetében a 2. mellékletben foglalt táblázat B:66 mezőjében megjelölt beruházással összefüggésben létesített épületekre, építményekre vonatkozó használatbavételi engedély kiadásának nem feltétele a közútkezelői nyilatkozat, hozzájárulás megszerzése.”

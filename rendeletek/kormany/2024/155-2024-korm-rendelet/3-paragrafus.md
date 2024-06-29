@@ -1,0 +1,3 @@
+3. § Az R. a következő 148. §-sal egészül ki:
+
+„148. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 155/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr.140.) módosított 1. § (2a) bekezdését, 6/O. § (2) bekezdés g) pontját, illetve 2. mellékletében foglalt táblázat 66. és 78. sorát, valamint megállapított 4/B. §-át, 6/Z. § (2a) bekezdését a Módr.140. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
