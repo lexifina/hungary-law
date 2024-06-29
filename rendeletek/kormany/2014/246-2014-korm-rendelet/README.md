@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-246-20-
 | 2021-06-22 | 2014-246-20-22.7 | 70/2015. (III. 30.) Korm. rendelet |
 | 2023-04-30 | 2014-246-20-22.8 | 107/2023. (III. 30.) Korm. rendelet |
 | 2023-12-31 | 2014-246-20-22.9 | 675/2023. (XII. 29.) Korm. rendelet |
+| 2024-06-29 | 2014-246-20-22.10 | 133/2024. (VI. 28.) Korm. rendelet |
