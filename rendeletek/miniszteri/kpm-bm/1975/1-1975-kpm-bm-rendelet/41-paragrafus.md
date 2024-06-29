@@ -8,23 +8,23 @@ a) a három külön úttesttel rendelkező út középső úttestjén;
 
 b) lakott területen kívül főútvonal úttestjén;
 
-c)[^261] ahol a jármű az útmenti ingatlanra való behajtást vagy az onnan történő kihajtást – az ingatlannal rendelkezni jogosult hozzájárulása nélkül – akadályozza;
+c)[^262] ahol a jármű az útmenti ingatlanra való behajtást vagy az onnan történő kihajtást – az ingatlannal rendelkezni jogosult hozzájárulása nélkül – akadályozza;
 
 d) ahol a jármű szabályosan várakozó másik jármű megközelítését vagy elindulását akadályozhatja;
 
-e)[^262] az úttesten ott, ahol a járdán a megállás megengedett.
+e)[^263] az úttesten ott, ahol a járdán a megállás megengedett.
 
-(3)[^263] A mozgáskorlátozott személy (illetőleg az őt szállító jármű vezetője) járművével és a betegszállító gépjármű olyan helyen is várakozhat, ahol a várakozást jelzőtábla (61. ábra) tiltja. Korlátozott várakozási övezetben és várakozási övezetben a mozgáskorlátozott személy vagy az őt szállító jármű vezetője a járművével és – az (5) bekezdésben foglaltak szerint, tárcsa használatával egy óra időtartamig – a betegszállító gépjármű a várakozást ellenőrző órával (parkométerrel) vagy jegykiadó automatával ellátott várakozóhelyen, ellenőrző óra vagy jegykiadó automata működtetése nélkül is várakozhat. A kijelölt rakodóhelyre vonatkozó rendelkezés [15. § (6) bekezdése] azonban e járművekre is irányadó.
+(3)[^264] A mozgáskorlátozott személy (illetőleg az őt szállító jármű vezetője) járművével és a betegszállító gépjármű olyan helyen is várakozhat, ahol a várakozást jelzőtábla (61. ábra) tiltja. Korlátozott várakozási övezetben és várakozási övezetben a mozgáskorlátozott személy vagy az őt szállító jármű vezetője a járművével és – az (5) bekezdésben foglaltak szerint, tárcsa használatával egy óra időtartamig – a betegszállító gépjármű a várakozást ellenőrző órával (parkométerrel) vagy jegykiadó automatával ellátott várakozóhelyen, ellenőrző óra vagy jegykiadó automata működtetése nélkül is várakozhat. A kijelölt rakodóhelyre vonatkozó rendelkezés [15. § (6) bekezdése] azonban e járművekre is irányadó.
 
-(4)[^264] Várakozást ellenőrző óránál munkanapon 8 és 18 óra, szombaton 8 és 14 óra között – ha pedig jelzőtábla [17. § (1) bek. e) pont] ettől eltérő időszakot jelöl meg, ebben az időszakban – csak az óra működtetésével és legfeljebb az órával jelzett időtartamig szabad várakozni. Lejárt órát a jármű eltávozása nélkül ismételten működésbe hozni tilos.
+(4)[^265] Várakozást ellenőrző óránál munkanapon 8 és 18 óra, szombaton 8 és 14 óra között – ha pedig jelzőtábla [17. § (1) bek. e) pont] ettől eltérő időszakot jelöl meg, ebben az időszakban – csak az óra működtetésével és legfeljebb az órával jelzett időtartamig szabad várakozni. Lejárt órát a jármű eltávozása nélkül ismételten működésbe hozni tilos.
 
-(5)[^265] Ahol jelzőtábla meghatározott időtartamú várakozást enged [17. § (1) bek. e) pont], a várakozás megkezdésének időpontját a járművön – gépkocsi esetében a jármű szélvédő üvege mögött – elhelyezett tárcsán jelezni kell. A tárcsa jelzését a jármű eltávozása nélkül megváltoztatni tilos.
+(5)[^266] Ahol jelzőtábla meghatározott időtartamú várakozást enged [17. § (1) bek. e) pont], a várakozás megkezdésének időpontját a járművön – gépkocsi esetében a jármű szélvédő üvege mögött – elhelyezett tárcsán jelezni kell. A tárcsa jelzését a jármű eltávozása nélkül megváltoztatni tilos.
 
-(6)[^266]
+(6)[^267]
 
-(7)[^267] A járművet őrizetlenül hagyni abban az esetben szabad, ha a vezető gondoskodott arról, hogy a jármű önmagától el ne indulhasson és illetéktelen személy azt el ne indíthassa.
+(7)[^268] A járművet őrizetlenül hagyni abban az esetben szabad, ha a vezető gondoskodott arról, hogy a jármű önmagától el ne indulhasson és illetéktelen személy azt el ne indíthassa.
 
-(8)[^268] A sürgősségi orvosi ellátáshoz kiadott várakozási engedéllyel (161. ábra) megjelölt személygépkocsi vezetője – amennyiben a várakozás egyéb módon nem lehetséges –
+(8)[^269] A sürgősségi orvosi ellátáshoz kiadott várakozási engedéllyel (161. ábra) megjelölt személygépkocsi vezetője – amennyiben a várakozás egyéb módon nem lehetséges –
 
 a) a 15. § (1) bekezdése b) pontjában, és
 
@@ -32,14 +32,14 @@ b) a 40. § (8) bekezdése a), b) és d) pontjaiban
 
 meghatározott rendelkezéseket figyelmen kívül hagyhatja.
 
-(9) [^269]
+(9) [^270]
 
-[^261]: A 41. § (2) bekezdés c) pontja a 228/2012. (VIII. 23.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
-[^262]: A 41. § (2) bekezdésének e) pontját a 4/1988. (VI. 30.) KM–BM együttes rendelet 13. §-a iktatta be.
-[^263]: A 41. § új (3) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatva. A 41. § (3) bekezdése az 59/2004. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^264]: A 41. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
-[^265]: A 41. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
-[^266]: A 41. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a, hatályon kívül helyezte a 4/1988. (VI. 30.) KM–BM együttes rendelet 23. §-a.
-[^267]: A 41. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
-[^268]: A 41. § (8) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 29. § (3) bekezdése alapján 1998. január 1-jétől kell alkalmazni.
-[^269]: A 41. § (9) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 296/2012. (X. 17.) Korm. rendelet 69. § a) pontja.
+[^262]: A 41. § (2) bekezdés c) pontja a 228/2012. (VIII. 23.) Korm. rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^263]: A 41. § (2) bekezdésének e) pontját a 4/1988. (VI. 30.) KM–BM együttes rendelet 13. §-a iktatta be.
+[^264]: A 41. § új (3) bekezdését a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a iktatta be, egyidejűleg az eredeti (3)–(6) bekezdés számozását (4)–(7) bekezdésre változtatva. A 41. § (3) bekezdése az 59/2004. (III. 31.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^265]: A 41. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
+[^266]: A 41. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
+[^267]: A 41. § eredeti (5) bekezdésének számozását (6) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a, hatályon kívül helyezte a 4/1988. (VI. 30.) KM–BM együttes rendelet 23. §-a.
+[^268]: A 41. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta a 2/1984. (I. 29.) KM–BM együttes rendelet 26. §-a.
+[^269]: A 41. § (8) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 16. §-a iktatta be, e módosító rendelet 29. § (3) bekezdése alapján 1998. január 1-jétől kell alkalmazni.
+[^270]: A 41. § (9) bekezdését a 104/1997. (VI. 18.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 296/2012. (X. 17.) Korm. rendelet 69. § a) pontja.
