@@ -1,0 +1,5 @@
+## 4.[^4]
+
+4. §
+
+[^4]: A 4. alcím a 9. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.

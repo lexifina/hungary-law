@@ -1,0 +1,5 @@
+## 5.[^5]
+
+5. §
+
+[^5]: Az 5. alcím a 9. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
