@@ -16,6 +16,10 @@ e) javaslatokat, ajánlásokat tesz a Kormány tagjai számára a fogyatékos sz
 
 f) tájékoztatást nyújt a fogyatékos személyek élethelyzetének alakulásáról.
 
+g)[^2] véleményezi a Fogyatékosságügyi Koordinációs Bizottság állandó munkacsoportjának ajánlásait,
+
+h)[^3] döntéseiről tájékoztatja a Fogyatékosságügyi Koordinációs Bizottságot.
+
 4. A Tanács 3. pont a)–e) alpontja szerinti feladatkörében adott véleményét, javaslatát, ajánlását a döntés-előkészítő anyagban fel kell tüntetni.
 
 5. A Tanács elnöke a miniszter. A Tanács társelnöke a 6. pont b)–f) alpontja szerinti tagok (a továbbiakban együtt: delegált tagok) által maguk közül választott személy.
@@ -113,3 +117,5 @@ megszűnik.
 32. A miniszter a 21. pont szerinti felkérést és a 22. pont szerinti felhívást első ízben e határozat hatálybalépését követő 8 napon belül teszi meg.
 
 [^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 26. pontja szerint módosított szöveg.
+[^2]: A 3. pont g) alpontját az 1187/2024. (VI. 28.) Korm. határozat 1. pontja iktatta be.
+[^3]: A 3. pont h) alpontját az 1187/2024. (VI. 28.) Korm. határozat 1. pontja iktatta be.
