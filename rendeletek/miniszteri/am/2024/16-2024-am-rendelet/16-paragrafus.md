@@ -1,6 +1,6 @@
 ## 12. Vetésváltás a szántóterületeken, kivéve a víz alatt álló kultúrákat – HMKÁ 7. előírás
 
-16. § (1) A mezőgazdasági termelőnek a mezőgazdasági üzem teljes szántóterületén gondoskodni kell – e §-ban foglaltak kivételével – az éves vetésváltásról.
+16. § (1)[^10] A mezőgazdasági termelőnek a mezőgazdasági üzem teljes szántóterületén gondoskodni kell – e §-ban foglaltak kivételével – az éves vetésváltásról vagy a növénytermesztés diverzifikációjáról.
 
 (2) A mezőgazdasági termelő az éves vetésváltást megvalósíthatja azáltal, hogy
 
@@ -16,7 +16,7 @@ b) a (8) bekezdés a) pontja alapján mentesülne a vetésváltás megvalósít�
 
 (4) A vetőmagtermesztés céljából vetett hibridkukorica egymás után legfeljebb négy évig termeszthető.
 
-(5) A vetésváltás szempontjából különböző növénykultúrának kell tekinteni:
+(5)[^11] A vetésváltás és a növénytermesztés diverzifikációja szempontjából különböző növénykultúrának kell tekinteni:
 
 a) a termények botanikai osztályozásában meghatározott különböző nemzetségek bármely kultúráját,
 
@@ -30,9 +30,17 @@ e) másodvetést, amely kizárólag abban az esetben vehető figyelembe vetésv�
 
 (6) A két főnövény között vetett bármilyen növénykultúrának mindkét főnövénytől különböző növénykultúrának kell lennie.
 
+(6a)[^12] Növénytermesztés diverzifikációja tekintetében különböző növénykultúrák arányának kiszámítása során az egységes kérelem benyújtásának évében május 1. napjától szeptember 30. napjáig tartó időszakot kell figyelembe venni.
+
 (7) Ha az Egységes kérelem rendelet szerint bejelentett növénykultúra nem szerepel a 19. mellékletben, akkor a Kincstár az egységes nemzetközi binominális nomenklatúra alapján állapítja meg, hogy az adott növénykultúra különböző növénykultúrának minősül-e.
 
-(8) A mezőgazdasági termelőnek a vetésváltást nem kell megvalósítania abban az esetben, ha
+(7a)[^13] A növénytermesztés diverzifikációja alkalmazása esetén biztosítani kell, hogy a tárgyévben
+
+a) a 10 hektár feletti, de legfeljebb 30 hektár szántóterülettel rendelkező mezőgazdasági termelő legalább kétféle szántóföldi növénykultúrát termeszt, azzal, hogy a legnagyobb területen termesztett növénykultúra a szántóterületnek legfeljebb 75%-át foglalhatja el,
+
+b) a 30 hektár feletti szántóterülettel rendelkező mezőgazdasági termelő legalább háromféle növénykultúrát termeszt, azzal, hogy a legnagyobb területen termesztett növénykultúra a szántóterületnek legfeljebb 75%-át foglalhatja el, és a két legnagyobb területen termesztett növénykultúra együttesen nem haladhatja meg a szántóterület 95%-át.
+
+(8)[^14] A mezőgazdasági termelőnek a vetésváltást és a növénytermesztés diverzifikációját nem kell megvalósítania abban az esetben, ha
 
 a) a mezőgazdasági üzem szántóterülete 10 hektárnál kisebb,
 
@@ -75,3 +83,9 @@ d) talajtakarás nélküli pihentetett területen.
 a) párhuzamos gazdálkodást folytat, vagy
 
 b) az ökológiai tanúsító szervezet szerint a mezőgazdasági üzem szántóterületének nem az egésze az ökológiai termelésről és az ökológiai termékek jelöléséről, valamint a 834/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2018. május 30-i (EU) 2018/848 európai parlamenti és tanácsi rendelet szerinti tanúsítással rendelkező terület.
+
+[^10]: A 16. § (1) bekezdése a 36/2024. (VI. 28.) AM rendelet 7. § a) pontja szerint módosított szöveg.
+[^11]: A 16. § (5) bekezdés nyitó szövegrésze a 36/2024. (VI. 28.) AM rendelet 7. § b) pontja szerint módosított szöveg.
+[^12]: A 16. § (6a) bekezdését a 36/2024. (VI. 28.) AM rendelet 6. § (1) bekezdése iktatta be.
+[^13]: A 16. § (7a) bekezdését a 36/2024. (VI. 28.) AM rendelet 6. § (2) bekezdése iktatta be.
+[^14]: A 16. § (8) bekezdés nyitó szövegrésze a 36/2024. (VI. 28.) AM rendelet 7. § c) pontja szerint módosított szöveg.

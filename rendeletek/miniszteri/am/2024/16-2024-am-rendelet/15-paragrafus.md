@@ -19,3 +19,10 @@ a) a 2 hektárnál kisebb területű táblák esetében, ha a tábla területén
 b) a 2 hektáros vagy annál nagyobb területű táblák esetében a 12%-nál nagyobb lejtésű terület nagysága meghaladja az 1 hektárt.
 
 (5) Lejtőszögtől függetlenül az ültetvény kivágása esetén a kivágás és az újratelepítési munkálatok megkezdése közötti időszakban, de legalább július 15. és szeptember 30. között gondoskodni kell a talajtakarásról.
+
+(6)[^8] Az (1) bekezdés szerinti kötelezettséget nem kell teljesíteni azon tárgyévben talajtakarás nélkül – szellőztetés, simítózás vagy szintezés mellett – pihentetett területeken, amelyeket a tárgyévet megelőző évben rizs vagy indiánrizs termesztésére használtak.
+
+(7)[^9] A (6) bekezdés szerinti területen végzett műveleteket a mezőgazdasági termelő az egységes kérelem felületen legkésőbb szeptember 30-ig bejelenti.
+
+[^8]: A 15. § (6) bekezdését a 36/2024. (VI. 28.) AM rendelet 5. §-a iktatta be.
+[^9]: A 15. § (7) bekezdését a 36/2024. (VI. 28.) AM rendelet 5. §-a iktatta be.

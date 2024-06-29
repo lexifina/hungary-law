@@ -1,5 +1,5 @@
-## 4. Egyszerűsített ellenőrzési rendszer
+## 4.[^4] Ellenőrzés alóli mentesítés
 
-6. § (1) Ha a mezőgazdasági termelő az egységes kérelemben bejelentett területe alapján legfeljebb 5 hektár mezőgazdasági területtel rendelkezik, és az általa tartott állatok létszáma nem haladja meg a felszín alatti vizek védelméről szóló 219/2004. (VII. 21.) Korm. rendelet 3. § 28. pontja szerinti magánszemélyek háztartási igényeit, úgy a mezőgazdasági termelő az egyszerűsített ellenőrzési rendszer hatálya alá tartozik.
+6. § Az egységes kérelemben bejelentett területe alapján legfeljebb 10 hektár mezőgazdasági területtel rendelkező termelő esetében az e rendeletben foglalt ellenőrzésre vonatkozó előírásokat nem kell alkalmazni.
 
-(2) Az egyszerűsített ellenőrzési rendszer hatálya alá tartozó mezőgazdasági termelők esetében kizárólag a HMKÁ előírások kerülnek ellenőrzésre.
+[^4]: A 4. alcím (6. §) a 36/2024. (VI. 28.) AM rendelet 3. §-ával megállapított szöveg.
