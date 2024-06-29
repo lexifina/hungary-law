@@ -70,6 +70,8 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 
 (23)[^67] E rendeletnek a közlekedési igazgatással összefüggő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 612/2023. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr15.) megállapított 1. melléklet 1. pont 1.1. alpont 1.1.70. és 1.1.86. pontját, 1. pont 1.7. alpont 1.7.10., 1.7.20. és 1.7.21. pontját a Módr15. hatálybalépésekor[^68] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
+(24)[^69] E rendeletnek az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet, valamint az egyes víziközmű-beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 323/2020. (VII. 1.) Korm. rendelet módosításáról szóló 153/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr16.) módosított 1. mellékletét a Módr16. hatálybalépésekor[^70] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
 [^23]: A 7. § (2) bekezdés d) pontját a 441/2015. (XII. 28.) Korm. rendelet 185. § a) pontja hatályon kívül helyezte.
 [^24]: A 7. § (3) bekezdését a 376/2013. (X. 25.) Korm. rendelet 2. §-a iktatta be.
 [^25]: A hatálybalépés időpontja 2013. október 26.
@@ -116,3 +118,5 @@ c) a hatóságnak és a szakhatóságnak a hiánypótlásra az adott ügyfajtár
 [^66]: A hatálybalépés időpontja 2023. november 3.
 [^67]: A 7. § (23) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 39. §-a iktatta be.
 [^68]: A hatálybalépés időpontja 2023. december 27.
+[^69]: A 7. § (24) bekezdését a 153/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^70]: A hatálybalépés időpontja 2024. június 29.

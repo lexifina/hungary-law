@@ -184,7 +184,7 @@
 
 ## 1.2.4. A 4. számú főút, Hajdúszoboszló és Debrecen közötti szakasz fejlesztése.
 
-## 1.2.5. Az 5. számú főút, M43 autópálya és Szeged közötti szakasz fejlesztése és kapcsolódó közúti beruházások.
+## 1.2.5. Az 5. számú főút, M43 autópálya és Szeged, Wolfgang Sandner utca közötti szakasz fejlesztése és kapcsolódó közúti beruházások.
 
 ## 1.2.6. A 8. számú főút, Székesfehérvár és Veszprém (nyugat) közötti szakasz fejlesztése.
 
@@ -510,6 +510,8 @@
 
 ## 1.2.167. 430. sz. főút fejlesztése.
 
+## 1.2.168. 502. számú főút meghosszabbítása a 4519. jelű útig.
+
 ## 1.3. Mellékutak
 
 ## 1.3.1. A 74176. jelű út (Kercaszomor–országhatár) fejlesztése.
@@ -787,6 +789,8 @@
 ## 1.3.137. Mihályfa, elkerülő út megvalósítása.
 
 ## 1.3.138. Tormásliget, elkerülő út megvalósítása.
+
+## 1.3.139. 4519. jelű út fejlesztése az M43 autópálya és Szeged, Rókusi körút között, a 135. sz. vasútvonal külön szintű átvezetésével.
 
 ## 1.4. Csomóponti és közlekedésbiztonsági beavatkozások
 
@@ -1952,6 +1956,8 @@
 
 ## 2.1.132. A 352. számú vasútvonal, Tapolca–Zalahaláp szakasz forgalomba helyezése.
 
+## 2.1.133. Szegedi ipari parkhoz kapcsolódó vasúti infrastruktúra fejlesztése.
+
 ## 2.2. Helyi érdekeltségű keskeny nyomközű vasúti közlekedési projektek
 
 ## 2.2.1. MÁV Zrt. Széchenyi-hegyi Gyermekvasút pályafelújítás, valamint gördülőállomány felújítása és fejlesztése.
@@ -2116,6 +2122,8 @@
 
 ## 3.4.22. Soltvadkert, buszforduló kialakítása.
 
+## 3.4.23. Szeged, Vértói út – 135. számú vasútvonal szintbeni átjáró külön szintű átjáróvá történő fejlesztése.
+
 ## 4. Országos vízi közlekedési projektek
 
 ## 4.1. Győr–Gönyű Országos Közforgalmú Kikötő fejlesztése.
@@ -2162,6 +2170,6 @@
 
 ## 5.6. Békéscsabai repülőtér kifutópályájának meghosszabbítása.
 
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^71]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^73]
 
-[^71]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
+[^73]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be, hatályon kívül helyezte a 236/2020. (V. 26.) Korm. rendelet 9. § b) pontja.
