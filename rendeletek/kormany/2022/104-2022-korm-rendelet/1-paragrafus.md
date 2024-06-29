@@ -22,4 +22,7 @@ ea) a rendezett munkaügyi kapcsolatok – a foglalkoztatás-felügyeleti hatós
 
 eb) nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás, kényszertörlés alatt, valamint nincs folyamatban ellene jogerős végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárás.
 
+f)[^3] háború sújtotta terület: Ukrajna katonai műveletekkel közvetlenül érintett közigazgatási egységei.
+
 [^2]: Az 1. § e) pontját a 337/2023. (VII. 24.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § f) pontját a 134/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.

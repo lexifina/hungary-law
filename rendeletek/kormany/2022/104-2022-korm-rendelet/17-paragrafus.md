@@ -1,0 +1,4 @@
+17. §[^39] Az orosz–ukrán háború elől Magyarországra menekülő személyekért felelős kormánybiztos a honvédelemért felelős miniszter és a külpolitikáért felelős miniszter bevonásával megállapított, 2/A. § szerinti listát a közigazgatás-szervezésért felelős miniszter első alkalommal legkésőbb a veszélyhelyzet ideje alatt a szomszédos országban fennálló humanitárius katasztrófára tekintettel érkező személyek elhelyezésének támogatásáról és az azzal kapcsolatos egyéb intézkedésekről szóló 104/2022. (III. 12.) Korm. rendelet módosításáról szóló 134/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Módr2.) hatálybalépését[^40] követő ötödik napon küldi meg a helyi védelmi bizottságok részére, és teszi közzé a hivatalos honlapján.
+
+[^39]: A 17. §-t a 134/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^40]: A hatálybalépés időpontja 2024. június 29.
