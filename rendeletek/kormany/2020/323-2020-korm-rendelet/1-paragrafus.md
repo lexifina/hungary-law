@@ -8,15 +8,18 @@ b) a Beruházásokhoz közvetlenül kapcsolódó útépítési, közműcsatlakoz
 
 c) a 2. mellékletben a Beruházások megvalósításának helyszíneként megjelölt ingatlanokból a telekalakítási eljárásban hozott, véglegessé vált döntés alapján kialakított ingatlanokat érintik.
 
-(3)[^1] A Kormány kiemelten közérdekű beruházássá nyilvánítja a Beruházásokat, amelyeknek helyszíne a 3. mellékletben meghatározott ingatlanok területe.
+(3)[^1] A Kormány – a 2. melléklet 15. pontja kivételével – kiemelten közérdekű beruházássá nyilvánítja a Beruházásokat, amelyeknek helyszíne a 3. mellékletben foglalt táblázat 2–6. pontjában meghatározott ingatlanok területe.
 
-(4)[^2] A Beruházások esetében az (1) bekezdés szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – vízügyi és vízvédelmi, a környezetvédelmi, a természetvédelmi eljárások, továbbá a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti iparbiztonsági hatósági eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap, vízügyi és vízvédelmi, a környezetvédelmi, valamint a természetvédelmi eljárások esetén harminc nap, az iparbiztonsági hatósági eljárások estén negyvenkét nap.
+(3a)[^2] A Kormány közcélú kiemelt beruházássá nyilvánítja a 2. melléklet 15. pontjában meghatározott beruházást, amelynek helyszíne a 3. mellékletben foglalt táblázat 7. pontjában meghatározott ingatlanok területe.
 
-(5)[^3] A Beruházások esetében az (1) bekezdés szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap, a vízügyi és vízvédelmi, a környezetvédelmi, valamint a természetvédelmi eljárások esetén tizenöt nap.
+(4)[^3] A Beruházások esetében az (1) bekezdés szerinti közigazgatási hatósági ügyekre vonatkozó ügyintézési határidő – vízügyi és vízvédelmi, a környezetvédelmi, a természetvédelmi eljárások, továbbá a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény szerinti iparbiztonsági hatósági eljárások kivételével, illetve ha jogszabály rövidebbet nem állapít meg – tizenöt nap, vízügyi és vízvédelmi, a környezetvédelmi, valamint a természetvédelmi eljárások esetén harminc nap, az iparbiztonsági hatósági eljárások estén negyvenkét nap.
 
-(6)[^4] A Beruházások tekintetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdés a) pontját.
+(5)[^4] A Beruházások esetében az (1) bekezdés szerinti közigazgatási hatósági ügyekben a szakhatósági eljárásra vonatkozó ügyintézési határidő – ha jogszabály rövidebbet nem állapít meg – nyolc nap, a vízügyi és vízvédelmi, a környezetvédelmi, valamint a természetvédelmi eljárások esetén tizenöt nap.
 
-[^1]: Az 1. § (3) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
-[^2]: Az 1. § (4) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
-[^3]: Az 1. § (5) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
-[^4]: Az 1. § (6) bekezdését a 42/2023. (II. 20.) Korm. rendelet 5. §-a iktatta be.
+(6)[^5] A Beruházások tekintetében nem kell alkalmazni a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 12. § (1) bekezdés a) pontját.
+
+[^1]: Az 1. § (3) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be, szövege a 153/2024. (VI. 28.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^2]: Az 1. § (3a) bekezdését a 153/2024. (VI. 28.) Korm. rendelet 4. §-a iktatta be.
+[^3]: Az 1. § (4) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
+[^4]: Az 1. § (5) bekezdését a 437/2022. (XI. 2.) Korm. rendelet 3. §-a iktatta be.
+[^5]: Az 1. § (6) bekezdését a 42/2023. (II. 20.) Korm. rendelet 5. §-a iktatta be.
