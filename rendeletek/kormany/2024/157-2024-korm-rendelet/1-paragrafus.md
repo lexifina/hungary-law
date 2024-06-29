@@ -1,0 +1,1 @@
+1. § Az MDDÜ Magyar Divat & Design Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: MDDÜ Nonprofit Zrt.) a divat- és kreatíviparral kapcsolatos – e rendeletben meghatározott – állami feladatokat közfeladatként látja el.
