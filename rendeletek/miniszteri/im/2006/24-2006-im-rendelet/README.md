@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-24-20-0
 | 2023-01-01 | 2006-24-20-06.18 | 30/2022. (XII. 22.) IM rendelet |
 | 2023-08-01 | 2006-24-20-06.19 | 11/2023. (VII. 20.) IM rendelet |
 | 2024-01-01 | 2006-24-20-06.20 | 4/2012. (II. 10.) KIM rendelet |
+| 2024-06-29 | 2006-24-20-06.21 | 9/2024. (VI. 28.) IM rendelet |
