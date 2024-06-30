@@ -1,0 +1,1 @@
+3. § Ha törvény másként nem rendelkezik, a kriptoeszköz-szolgáltatók felügyeletét Magyarországon a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank (a továbbiakban: Felügyelet) látja el.

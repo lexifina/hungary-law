@@ -1,0 +1,1 @@
+5. § Aki eszközalapú token kibocsátója, illetve ilyen kriptoeszközt nyilvános ajánlattétel keretében kínál, valamint ilyen kriptoeszköz kereskedésbe történő bevezetését kérelmezi, köteles megfelelni az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben foglalt követelményeknek.

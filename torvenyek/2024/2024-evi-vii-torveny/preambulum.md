@@ -1,0 +1,1 @@
+Az Országgyűlés a pénzügyi eszközök és pénzügyi szektor termékeinek innovatív fejlesztésére, átláthatóságára és szabályozottságára irányuló társadalmi érdek figyelembevételével, valamint a pénzügyi fogyasztóvédelem minél magasabb szintű megvalósulásának érdekében a következő törvényt alkotja:

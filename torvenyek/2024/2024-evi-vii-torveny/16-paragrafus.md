@@ -1,0 +1,1 @@
+16. § E törvény hatálybalépésekor már működő, eszközalapú tokenektől vagy elektronikuspénz-tokenektől eltérő kriptoeszközt kibocsátó kriptoeszköz-szolgáltató az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben foglalt követelményeknek legkésőbb 2025. január 1-jétől köteles megfelelni.
