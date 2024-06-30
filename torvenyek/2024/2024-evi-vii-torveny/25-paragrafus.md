@@ -23,15 +23,3 @@ b) 18. § (2) bekezdés d) pontjában az „üzemeltetője.” szövegrész hely
 lép.
 
 (4) A Pkbtv. 2. melléklete a 2. melléklet szerint módosul.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
