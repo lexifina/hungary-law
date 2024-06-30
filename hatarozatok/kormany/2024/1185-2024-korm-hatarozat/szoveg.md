@@ -100,4 +100,6 @@ b) a tagok által megbízott szakmai vezetőkből álló munkacsoportot.
 
 22. Ez a határozat a közzétételét követő napon lép hatályba.
 
-23. Hatályát veszti a Fogyatékosságügyi Tárcaközi Bizottság létrehozásáról szóló 1432/2015. (VI. 30.) Korm. határozat.
+23.[^1]
+
+[^1]: A 23. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
