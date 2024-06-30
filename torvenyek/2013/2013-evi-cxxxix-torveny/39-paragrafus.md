@@ -42,6 +42,8 @@ r) a fizetési, illetve értékpapír-elszámolási rendszerekben történő tel
 
 s) az egyes fizetési szolgáltatókról szóló törvény
 
+t) a kriptoeszközök piacáról szóló törvény
+
 hatálya alá tartozó szervezetek, személyek és tevékenységek felügyeletét.
 
 (2) Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a kereskedelmi kölcsönt nyújtó hitelező felügyeletét a fogyasztónak nyújtott hitelről szóló törvény hatálya alá tartozó tevékenysége tekintetében.

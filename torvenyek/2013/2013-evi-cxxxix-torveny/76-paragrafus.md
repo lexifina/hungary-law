@@ -157,3 +157,25 @@ h) súlyosan megsérti a Pmt. rendelkezéseit; vagy
 i) lehetővé teszi olyan személy számára, hogy a vezető testület tagja legyen vagy maradjon, aki nem felel meg a jogszabályi követelményeknek,
 
 a kiszabható bírság mértéke természetes személy esetében legfeljebb 1 675 200 000 forintig, jogi személy esetében a jogsértést megállapító határozat meghozatalát megelőző üzleti év 89. § (3) bekezdés b) pontja szerinti nettó árbevételének 10 százalékáig, de legfeljebb a jogsértésből származó haszon vagy elkerült veszteség – amennyiben meghatározható – kétszereséig terjedhet. Ha a jogi személy anyavállalat vagy egy anyavállalat leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény értelmében összevont (konszolidált) éves beszámolót kell készítenie, akkor a bruttó bevétel az anyavállalat összevont (konszolidált) éves beszámolója alapján számított, tárgyévet megelőző üzleti évi bruttó bevétele.
+
+(26) Az Európai Parlament és a Tanács (EU) 2023/1114 rendelet megsértése esetén a bírság mértéke:
+
+a) természetes személy esetében
+
+aa) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 259 644 000 forint,
+
+ab) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 370 920 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése, illetve 1 854 600 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezések megsértése esetén;
+
+b) jogi személy esetében
+
+ba) a 111. cikk (1) bekezdés a)–d) pontjában felsorolt rendelkezések megsértése esetén legfeljebb 1 854 600 000 forint,
+
+bb) a 111. cikk (1) bekezdés a) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 3%-a,
+
+bc) a 111. cikk (1) bekezdés d) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 5%-a,
+
+bd) a 111. cikk (1) bekezdés b) és c) pontjában felsorolt rendelkezések megsértése esetén a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 12,5%-a, vagy
+
+be) a 111. cikk (1) bekezdés e) pontjában felsorolt rendelkezések megsértése esetén, legfeljebb 927 300 000 forint a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 5 563 800 000 forint a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén vagy a döntéshozó szerv által legutoljára jóváhagyott éves beszámoló szerinti éves árbevétel legfeljebb 2%-a a bennfentes információk nyilvánosságra hozatalára vonatkozó rendelkezéseinek megsértése esetén, illetve 15%-a a bennfentes kereskedelem tilalmára, a bennfentes információk jogosulatlan közzétételének tilalmára, valamint a piaci manipuláció tilalmára, illetve a piaci visszaélés felderítésére és megelőzésére vonatkozó rendelkezéseinek megsértése esetén.
+
+(27) Ha a (26) bekezdés b) pontja szerinti jogi személy olyan anyavállalat vagy egy anyavállalat olyan leányvállalata, amelynek a számvitelről szóló 2000. évi C. törvény szerint összevont pénzügyi beszámolót kell készítenie, akkor a (26) bekezdés b) pontja szerinti nettó árbevétel az anyavállalat konszolidált beszámolója alapján számított, tárgyévet megelőző üzleti évi nettó árbevétele.
