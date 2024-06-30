@@ -32,6 +32,8 @@ b) befektetési tanácsadás,
 
 c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, amely dematerializált értékpapírok esetében az értékpapírszámla vezetését is tartalmazza, valamint a végzett tevékenység jellegétől függően ügyfélszámla vezetését is magában foglalja, továbbá a kollektív befektetési értékpapírokkal kapcsolatos adminisztratív szolgáltatások.
 
+(2a) Az ÁÉKBV-alapkezelő a (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.
+
 (3) Az ÁÉKBV-alapkezelő az (1) bekezdés a) pontjában meghatározott tevékenység végzésére köteles. Az ÁÉKBV-alapkezelő önmagában a (2) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (2) bekezdés b) és c) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (2) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ÁÉKBV-alapkezelő az (1) bekezdés c) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
 (4) Az ÁÉKBV-alapkezelő az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.

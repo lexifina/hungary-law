@@ -174,6 +174,8 @@ b) amelyet az éves jelentésében vagy más hivatalos dokumentumban bizonyítot
 
 63. kollektív portfóliókezelés: a kollektív befektetési forma számára végzett befektetéskezelési tevékenység, valamint a kollektív befektetési forma létrehozatalához, működtetéséhez kapcsolódó feladatok ellátása;
 
+63a. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] meghatározott fogalom,
+
 64. különleges célú gazdasági egység: a Hpt.-ben meghatározott fogalom;
 
 65. lakossági befektető: nem szakmai befektetőnek minősülő befektető;

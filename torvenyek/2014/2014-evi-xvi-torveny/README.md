@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2014-16-00-00.42 |
 | 2023-09-01 | 2023. évi XXXIX. törvény | 2014-16-00-00.43 |
 | 2024-01-01 | 2023. évi LXXVI. törvény | 2014-16-00-00.44 |
+| 2024-06-30 | 2024. évi VII. törvény | 2014-16-00-00.47 |

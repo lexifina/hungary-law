@@ -40,6 +40,8 @@ c) kollektív befektetési értékpapírok letéti őrzése, letétkezelése, am
 
 d) pénzügyi eszközzel kapcsolatos megbízás felvétele és továbbítása.
 
+(3a) Az ABAK a (3) bekezdés a), b) és d) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (5) bekezdésében foglaltaknak megfelelően.
+
 (4) Az ABAK az (1) bekezdés a) és b) pontjában meghatározott mindkét tevékenység végzésére köteles. Az ABAK önmagában a (2) és (3) bekezdésben meghatározott tevékenységek végzésére, az (1) bekezdésben meghatározott tevékenységek végzésére vonatkozó engedély nélkül nem kaphat engedélyt, míg a (3) bekezdés b)–d) pontjában meghatározott tevékenység végzésére vonatkozó engedélyt kizárólag a (3) bekezdés a) pontjában meghatározott tevékenység végzésére jogosító engedély birtokában kaphat. Az ABAK a (2) bekezdés b) pontjában meghatározott tevékenységet közvetítőként is végezheti.
 
 (5) Az ABAK az 5. §-ban meghatározott kollektív portfóliókezelési tevékenységet – részére történő kiszervezés útján vagy határon átnyúló szolgáltatás keretén belül – belföldi és külföldi befektetési alapkezelő részére is végezheti, azzal, hogy a 2. § (2) bekezdés szerinti ABAK határon átnyúló szolgáltatást nem végezhet. A határon átnyúló szolgáltatás végzését a Felügyeletnek be kell jelenteni.
