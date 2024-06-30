@@ -1,3 +1,5 @@
 ## 1. Egyes gazdasági tárgyú intézkedésekről szóló 471/2022. (XI. 21.) Korm. rendelet hatályon kívül helyezése
 
-1. § Hatályát veszti az egyes gazdasági tárgyú intézkedésekről szóló 471/2022. (XI. 21.) Korm. rendelet.
+1. §[^1]
+
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
