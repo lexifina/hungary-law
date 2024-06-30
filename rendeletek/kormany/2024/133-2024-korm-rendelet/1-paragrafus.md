@@ -1,1 +1,3 @@
-1. § Az egyes hulladékgazdálkodási létesítmények kialakításának és üzemeltetésének szabályairól szóló 246/2014. (IX. 29.) Korm. rendelet 1. melléklete helyébe az 1. melléklet lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
