@@ -10,7 +10,7 @@ c) pénzügyi lízing,
 
 d) pénzforgalmi szolgáltatás nyújtása,
 
-e) elektronikus pénz kibocsátása,
+e) elektronikus pénz kibocsátása, ideértve az elektronikuspénz-tokenek kibocsátását is,
 
 f) olyan papír alapú készpénz-helyettesítő fizetési eszköz (például papír alapú utazási csekk, váltó) kibocsátása, illetve az ezzel kapcsolatos szolgáltatás nyújtása, amely nem minősül pénzforgalmi szolgáltatásnak,
 

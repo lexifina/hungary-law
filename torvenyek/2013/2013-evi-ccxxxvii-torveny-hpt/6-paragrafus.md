@@ -38,6 +38,8 @@
 
 16. elektronikus pénz: az elektronikus pénz kibocsátójával szembeni követelés által megtestesített, elektronikusan tárolt – ideértve a mágneses tárolást is – összeg, amelyet pénzeszköz átvétele ellenében bocsátanak ki a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott fizetési műveletek teljesítése céljából, és amelyet az elektronikus pénz kibocsátóján kívül más természetes és jogi személy, jogi személyiség nélküli gazdasági társaság és egyéni vállalkozó is elfogad, ide nem értve a (4) bekezdés k) pontja szerinti eszközön tárolt vagy l) pontjában rögzített fizetési műveletre használt értéket;
 
+16a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet] ekként meghatározott fogalom;
+
 17. ellenőrzött vállalkozás: a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.) meghatározott fogalom;
 
 18. ellenőrző befolyás: a számvitelről szóló 2000. évi C. törvény (a továbbaikban: Szmt.) szerinti anyavállalat fogalmánál használt meghatározó befolyás vagy egy személy és egy vállalkozás között fennálló olyan kapcsolat, amelynek alapján
@@ -207,6 +209,8 @@ h) más hitelintézetnél elhelyezett betét, ide nem értve a jegybanki kötele
 67. közvetítői díj: minden olyan pénzben vagy természetben juttatott térítés, amelyet a közvetítő akár az ügyféltől, akár a pénzügyi szolgáltatást nyújtó személytől az ügyfél és a pénzügyi szolgáltatást nyújtó személy között létrejött pénzügyi szolgáltatásra vonatkozó megállapodás érvényes létrejöttéért és meghatározott esetekben annak teljesítéséért, illetve meghatározott időtartamig történő fennállásáért kap;
 
 68. közvetlen banküzemi célt szolgáló vállalkozás: egy vagy több hitelintézet vagy pénzügyi vállalkozás üzemviteléhez, zavartalan működéséhez nélkülözhetetlen fejlesztést, beszerzést, értékesítést, ipari szolgáltatást és termékelőállítást végző, illetve biztonsági feladatokat ellátó vállalkozás;
+
+68a. kriptoeszköz-szolgáltatás: az (EU) 2023/1114 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom;
 
 69. kritikus funkció: azok a tevékenységek, szolgáltatások és működési folyamatok, amelyek megszűnése vagy korlátozottan megvalósítható helyettesíthetősége a hitelintézet vagy a csoport méretéből, piaci részesedéséből, külső és belső összekapcsolódásából, összetettségéből vagy határon átnyúlásából fakadóan Magyarországon vagy más EGT-államban valószínűsíthetően megzavarná a gazdaság vagy a pénzügyi piacok működését;
 
