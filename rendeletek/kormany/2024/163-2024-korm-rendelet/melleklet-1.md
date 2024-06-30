@@ -1,19 +1,3 @@
-1. melléklet a 163/2024. (VI. 28.) Korm. rendelethez
+1. melléklet a 163/2024. (VI. 28.) Korm. rendelethez[^5]
 
-1. A Kr. 1. mellékletében foglalt táblázat 54. sora helyébe a következő rendelkezés lép:
-
-|  | (A | B |
-
-| 1. | Település | Ingatlan helyrajzi száma) |
-
-## „
-
-| 54. | Olaszfalu | 02, 03/3, 03/5, 03/6, 03/8, 04, 09/1, 0179/6, 0179/7, 0179/8, 0179/9, 0179/10, 0179/11, 0179/12, 0179/13, 0179/14, 0179/17, 0179/19, 0179/20, 0179/21, 0179/22, 0179/23, 0180, 0256/3, 0257, 0258, 0259/28, 0264, 0265, 0266/8, 0266/9, 0266/10, 0266/12, 0266/13, 0266/16, 0266/24, 0266/25, 0266/26, 0266/27, 0266/28, 0266/29, 0266/31, 0266/33, 0266/34, 0266/39, 0266/41, 0268/1, 0269/8, 0269/10, 0269/11, 0269/13, 0269/14, 0269/15, 0269/18, 0269/20, 0269/21, 0269/22, 0269/23, 180, 257, 258, 264, 265, 486, 487 |
-
-## ”
-
-2. A Kr. 1. mellékletében foglalt táblázat 82. sora helyébe a következő rendelkezés lép:
-
-|  | (A | B |
-
-| 1. | Település | Ingatlan helyrajzi száma) |
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

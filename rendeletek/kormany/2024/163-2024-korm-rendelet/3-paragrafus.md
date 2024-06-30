@@ -1,3 +1,3 @@
-3. § (1) A Kr. 1. melléklete az 1. melléklet szerint módosul.
+3. §[^4]
 
-(2) A Kr. a 2. melléklet szerinti 4. melléklettel egészül ki.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
