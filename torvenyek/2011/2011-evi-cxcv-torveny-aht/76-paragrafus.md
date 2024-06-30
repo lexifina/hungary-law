@@ -8,7 +8,7 @@ b) előrejelzi a 79. § alapján vezetett számlák kiadásai és bevételei ös
 
 a) törvényben meghatározott körben, mértékben és célra pénzforgalmi szolgáltatások nyújtására, ideértve a fizetési számla vezetését és a készpénz nélküli fizetési forgalom lebonyolítását is,
 
-b) elektronikus pénz kibocsátására,
+b) elektronikus pénz – ide nem értve az elektronikuspénz-tokent – kibocsátására,
 
 c) az állam által kibocsátott hitelviszonyt megtestesítő értékpapírok tekintetében a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 5. § (1) bekezdés a)–c) és g) pontja szerinti befektetési szolgáltatási tevékenység és 5. § (2) bekezdés a) és b) pontja szerinti kiegészítő befektetési szolgáltatási tevékenység végzésére,
 
