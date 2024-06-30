@@ -1,3 +1,3 @@
-## „c) részt vesz valamennyi operatív program elsődlegesen nem turisztikai célú, de a turizmusfejlesztést közvetetten érintő fejlesztési programok szakmai tartalmának véleményezésében, kidolgozásában,”
+4. §[^5]
 
-4. § A 61/2017. (III. 20.) Korm. rendelet 3. § (2) bekezdésében a „tartózó” szövegrész helyébe a „tartozó” szöveg lép.
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
