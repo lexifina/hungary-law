@@ -1,3 +1,3 @@
-2. melléklet a 9/2024. (VI. 28.) IM rendelethez[^7]
+2. melléklet a 9/2024. (VI. 28.) IM rendelethez[^8]
 
-[^7]: A 2. melléklet az 5. § (3) bekezdése alapján 2025. március 1-jén lép hatályba.
+[^8]: A 2. melléklet az 5. § (3) bekezdése alapján 2025. március 1-jén lép hatályba.
