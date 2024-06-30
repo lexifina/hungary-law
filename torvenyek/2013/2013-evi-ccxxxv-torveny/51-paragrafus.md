@@ -28,6 +28,8 @@ kell alkalmazni.
 
 (6) Az (5) bekezdésben meghatározottakon túl biztonságos, alacsony kockázatú eszköz az ÁÉKBV olyan kollektív befektetési értékpapírja, amely kizárólag az (5) bekezdésben meghatározott eszközbe fektet.
 
+(6a) Jelentős elektronikuspénz-tokent kibocsátó elektronikuspénz-kibocsátó intézmény a (3)–(6) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 36., 37. és 38. cikkében, valamint 45. cikk (1)–(4) bekezdésében foglaltakat alkalmazza.
+
 (7) Az elektronikuspénz-kibocsátó intézmény előzetesen tájékoztatja a Felügyeletet a kibocsátott elektronikuspénz ellenében átvett pénzeszközök védelme érdekében végrehajtott intézkedésekben bekövetkező minden jelentős változásról.
 
 (8) Az elektronikuspénz-kibocsátó intézmény által pénzforgalmi szolgáltatás nyújtása érdekében átvett pénzeszközre a 46. §-ban foglaltakat kell alkalmazni.

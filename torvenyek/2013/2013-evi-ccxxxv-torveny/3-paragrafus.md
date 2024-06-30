@@ -16,7 +16,9 @@
 
 7. elektronikuspénz-kibocsátója: Magyar Nemzeti Bank és kincstár, valamint az a hitelintézet, elektronikuspénz-kibocsátó intézmény, Posta Elszámoló Központot működtető intézmény, amely elektronikus pénzt bocsát ki,
 
-7a. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,
+7a. elektronikuspénz-token: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013 a /36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben [a továbbiakban: (EU) 2023/1114 európai parlamenti és tanácsi rendelet]meghatározott elektronikuspénz-token,
+
+7b. érzékeny fizetési adatok: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvényben (a továbbiakban: Pft.) meghatározott érzékeny fizetési adatok,
 
 8. fizetési rendszer működtetése: a Hpt.-ben meghatározott fizetési rendszer működtetése,
 
@@ -41,6 +43,8 @@
 17. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozam kifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege,
 
 18. jegyzett tőke: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szmt.) 35. § (3) bekezdése szerint meghatározott tőke,
+
+18a. jelentős elektronikuspénz-token: az (EU) 2023/1114 európai parlamenti és tanácsi rendelet alapján jelentősnek minősített elektronikuspénz-token,
 
 19. jó üzleti hírnév: a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény vezetőinek, befolyásoló részesedéssel rendelkező tulajdonosainak a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény irányítására és tulajdonlására való alkalmasságát igazoló feltételek megléte,
 

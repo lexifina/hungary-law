@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-235-00-00
 | 2023-07-24 | 2023. évi XXV. törvény | 2013-235-00-00.30 |
 | 2023-09-01 | 2023. évi XXXIX. törvény | 2013-235-00-00.32 |
 | 2024-01-01 | 2023. évi LXXVI. törvény | 2013-235-00-00.34 |
+| 2024-06-30 | 2024. évi VII. törvény | 2013-235-00-00.36 |

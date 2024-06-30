@@ -25,3 +25,5 @@ b) ha az elektronikuspénz-kibocsátó intézmény a 7. § (5) bekezdésében me
 (8) Az elektronikuspénz-kibocsátója az elektronikuspénzre kamatot nem fizethet, továbbá egyéb juttatást sem biztosíthat.
 
 (9) Az (1)–(8) bekezdésben foglaltakat az elektronikuspénzt kibocsátó Magyar Nemzeti Bankra is alkalmazni kell.
+
+(10) Az elektronikuspénz-tokent kibocsátó az (1) – (8) bekezdéstől eltérően az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 49. cikkében és az 50. cikk (1) és (3) bekezdésében foglaltakat alkalmazza.
