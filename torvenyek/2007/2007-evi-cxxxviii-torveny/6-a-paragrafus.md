@@ -1,1 +1,1 @@
-### 6/A. §
+6/A. § A befektetési vállalkozás az 5. § (1) bekezdésében és (2) bekezdés a) és b) pontjában meghatározott tevékenységeket kriptoeszközök tekintetében is nyújthatja kriptoeszköz-szolgáltatásként, az (EU) 2023/1114 európai parlamenti és tanácsi rendelet 60. cikk (3) bekezdésében foglaltaknak megfelelően.

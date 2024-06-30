@@ -46,4 +46,6 @@ e) a befektetési vállalkozásokra vonatkozó prudenciális követelményekről
 
 f) a páneurópai egyéni nyugdíjtermékről (PEPP) szóló, 2019. június 20-i (EU) 2019/1238 európai parlamenti és tanácsi rendelet
 
+g) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló, 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendelet.
+
 végrehajtásához szükséges rendelkezéseket állapít meg.

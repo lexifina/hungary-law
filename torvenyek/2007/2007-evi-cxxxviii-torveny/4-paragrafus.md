@@ -168,6 +168,8 @@ b) vállalkozás azonosító adatai: név, rövidített név, székhely, külfö
 
 38a. közvetlen elektronikus hozzáférés: olyan eljárás, amely során egy kereskedési helyszín tagja vagy résztvevője vagy ügyfele engedélyezi valamely személynek az ő kereskedési kódjának használatát, annak érdekében, hogy az a személy elektronikusan továbbíthasson pénzügyi eszközre vonatkozó megbízásokat közvetlenül a kereskedési helyszínnek, továbbá az olyan eljárás, amelynek során a személy a tag vagy résztvevő vagy ügyfél infrastruktúráját, vagy bármiféle, a tag vagy résztvevő vagy ügyfél által biztosított csatlakozási rendszert használ a megbízások továbbítására (közvetlen piaci hozzáférés), valamint olyan eljárás, amelynek során e személy nem használja ezen infrastruktúrát (szponzorált hozzáférés), a Bizottság (EU) 2017/565 felhatalmazáson alapuló rendelete 20. cikkében meghatározottak figyelembevételével,
 
+38b. kriptoeszköz-szolgáltatás: a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról szóló 2023. május 31-i (EU) 2023/1114 európai parlamenti és tanácsi rendeletben meghatározott fogalom,
+
 39. külföldi befektetési vállalkozás: az a befektetési vállalkozás, amelynek székhelye nem Magyarország területén van,
 
 40. különleges célú gazdasági egység: kizárólag a külön törvény szerinti értékpapírosítási ügylet végrehajtása céljából létrehozott jogalany, amely működhet alap (értékpapírosító alap) vagy társaság (értékpapírosító társaság) formájában,
