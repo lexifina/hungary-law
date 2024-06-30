@@ -1,7 +1,3 @@
-6. § A 323/2020. (VII. 1.) Korm. rendelet
+6. §[^7]
 
-a) 2. melléklete a 2. melléklet szerint,
-
-b) 3. melléklete a 3. melléklet szerint
-
-módosul.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
