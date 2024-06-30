@@ -2,7 +2,7 @@
 
 ## a) egyetért az IKOP-3.2.0-15-2019-00034 azonosító számú, „Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása” című projekt (a továbbiakban: projekt) műszaki tartalmának, valamint forrásszerkezetének 1. melléklet szerinti módosításával;
 
-## b) egyetért azzal, hogy a „Kecskemét Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása”, valamint a „Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása” című projektjavaslatokkal kapcsolatos egyes kormányhatározatok módosításáról szóló 1555/2019. (IX. 26.) Korm. határozat 1. melléklete helyébe a 2. melléklet lép;
+## b)[^1]
 
 ## c) felhívja a közigazgatási és területfejlesztési minisztert, hogy gondoskodjon a projekt támogatási szerződésének 1. melléklet szerinti módosításáról.
 
@@ -12,14 +12,9 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat
-
-## a) 1. pont fac) alpontjában a „140,53%-áig” szövegrész helyébe a „139,52%-áig” szöveg;
-
-## b) 1. melléklet 3. pontjában foglalt táblázat C:3 mezőjében a „177,063” szövegrész helyébe a „175,792” szöveg;
-
-## c) 2. mellékletben foglalt táblázat D:101a mezőjében a „12,18” szövegrész helyébe a „10,91” szöveg
-
-## lép.
+## 3.[^2]
 
 1. melléklet az 1184/2024. (VI. 28.) Korm. határozathoz
+
+[^1]: Az 1. pont b) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
