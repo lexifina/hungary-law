@@ -2,7 +2,7 @@
 
 A felügyeleti változó díj bevallására szolgáló táblák
 
-I. Összefoglaló tábla
+I.[^3] Összefoglaló tábla
 
 | Sorszám | Felügyeleti változó díj bevallására szolgáló tábla kódja | Felügyeleti változó díj bevallására szolgáló tábla megnevezése | Felügyeleti díj bevallására kötelezettek köre | Gyakoriság |
 
@@ -37,6 +37,8 @@ I. Összefoglaló tábla
 | 15. | KETVDN | Központi értéktár, EGT-állambeli központi értéktár fióktelepe felügyeleti változó díj számítása (negyedéves) | központi értéktár, EGT-állambeli központi értéktár fióktelepe | negyedéves |
 
 | 16. | KSZFVDN | Központi szerződő fél felügyeleti változó díj számítása (negyedéves) | központi szerződő fél | negyedéves |
+
+| 16a | KRIPTOVDN | Kriptoeszköz-szolgáltató felügyeleti változó díj számítása (negyedéves) | kriptoeszköz-szolgáltató, a kriptoeszköz-szolgáltatást végző hitelintézet, befektetési vállalkozás, befektetési alapkezelő kivételével | negyedéves |
 
 | 17. | BIZTVDN | Biztosító részvénytársaság, szövetkezet, egyesület felügyeleti változó díj számítása (negyedéves) | részvénytársaságként, szövetkezetként, egyesületként működő biztosító, a kisbiztosító-egyesület kivételével | negyedéves |
 
@@ -708,6 +710,54 @@ Központi szerződő fél felügyeleti változó díj számítása (negyedéves)
 
 | 009 | KSZFVDN09 | Előző évre számított változó díj korrekciója (KSZFVDN08 – KSZFVDN07) |  |  |
 
+16a.[^4]
+
+KRIPTOVDN
+
+Kriptoeszköz-szolgáltató változó díj számítása (negyedéves)
+
+## Nagyságrend: ezer forint
+
+| Sorszám | Sorkód | Megnevezés | Tárgynegyedévi változó díj |  |
+
+| Érték | Mód |
+
+| 1 | 2 |
+
+| a | z |
+
+| 001 | KRIPTOVDN01 | Tárgynegyedévi működés napjainak száma (nap) |  |  |
+
+| 002 | KRIPTOVDN021 | Tárgynegyedévi változó díj alapja – prudenciális biztosítékok összege |  |  |
+
+| 003 | KRIPTOVDN022 | Tárgynegyedévi változó díj alapja – kezelt portfólió piaci értéke |  |  |
+
+| 004 | KRIPTOVDN03 | Tárgynegyedévre számított változó díj összesen |  |  |
+
+| 005 | KRIPTOVDN031 | Tárgynegyedévre számított változó díj – prudenciális biztosítékok összege után |  |  |
+
+| 006 | KRIPTOVDN032 | Tárgynegyedévre számított változó díj – kezelt portfólió piaci értéke után |  |  |
+
+| 007 | KRIPTOVDN04 | Tárgyévre negyedévente jelentett változó díj összesen |  |  |
+
+|  |  |  | Előző évi változó díjra vonatkozó adatok (csak a II. negyedévben töltendő) |  |
+
+| 008 | KRIPTOVDN05 | Előző évi működés napjainak száma (nap) |  |  |
+
+| 009 | KRIPTOVDN061 | Előző évi változó díj alapja – prudenciális biztosítékok összege – auditált adatok alapján |  |  |
+
+| 010 | KRIPTOVDN062 | Előző évi változó díj alapja – kezelt portfólió piaci értéke – auditált adatok alapján |  |  |
+
+| 011 | KRIPTOVDN07 | Előző évre számított változó díj – auditált adatok alapján (KRIPTOVDN071+KRIPTOVDN072) |  |  |
+
+| 012 | KRIPTOVDN071 | Előző évre számított változó díj – prudenciális biztosítékok összege – auditált adatok alapján |  |  |
+
+| 013 | KRIPTOVDN072 | Előző évre számított változó díj – kezelt portfólió piaci értéke – auditált adatok alapján |  |  |
+
+| 014 | KRIPTOVDN08 | Előző évre számított és negyedévente bevallott változó díj |  |  |
+
+| 015 | KRIPTOVDN09 | Előző évre számított változó díj korrekciója (KRIPTOVDN08 – KRIPTOVDN07) |  |  |
+
 17.
 
 BIZTVDN
@@ -925,3 +975,6 @@ Egészségpénztár, önsegélyező pénztár, egészség- és önsegélyező p�
 76FNYIVDN
 
 Foglalkoztatói nyugdíjszolgáltató intézmény felügyeleti változó díj számítása (negyedéves)
+
+[^3]: Az 1. melléklet I. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^4]: Az 1. melléklet II. pont 16a. alpontját a 21/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
