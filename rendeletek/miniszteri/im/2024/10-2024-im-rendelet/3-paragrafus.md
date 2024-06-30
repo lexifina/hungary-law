@@ -1,1 +1,3 @@
-3. § A fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 10/2015. (V. 29.) IM rendelet 4. §-ában az „üzemeltetését” szövegrész helyébe a „fejlesztését és üzemeltetését” szöveg lép.
+3. §[^2]
+
+[^2]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
