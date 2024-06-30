@@ -1,3 +1,3 @@
-8. § A 16/2024. (IV. 9.) AM rendelet 42. §-a a következő 6. ponttal egészül ki:
+8. §[^9]
 
-(Ez a rendelet)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

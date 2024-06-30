@@ -1,3 +1,3 @@
-2. § A 81/2009. (VII. 10.) FVM rendelet 8. § (1) bekezdése a következő f) ponttal egészül ki:
+2. §[^3]
 
-(Ez a rendelet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

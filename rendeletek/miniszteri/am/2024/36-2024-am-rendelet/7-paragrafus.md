@@ -1,9 +1,3 @@
-7. § A 16/2024. (IV. 9.) AM rendelet
+7. §[^8]
 
-a) 16. § (1) bekezdésében az „éves vetésváltásról.” szövegrész helyébe az „éves vetésváltásról vagy a növénytermesztés diverzifikációjáról.” szöveg,
-
-b) 16. § (5) bekezdésében az „A vetésváltás szempontjából” szövegrész helyébe az „A vetésváltás és a növénytermesztés diverzifikációja szempontjából” szöveg,
-
-c) 16. § (8) bekezdésében a „vetésváltást nem kell megvalósítania” szövegrész helyébe a „vetésváltást és a növénytermesztés diverzifikációját nem kell megvalósítania” szöveg
-
-lép.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
