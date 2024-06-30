@@ -68,6 +68,8 @@ A 8. alcím szerinti védelem alkalmazhatóságát meghatározó európai uniós
 
 2.21. Az Európai Parlament és Tanács (EU) 2020/1503 rendelete (2020. október 7.) az európai közösségi finanszírozási üzleti szolgáltatókról, valamint az (EU) 2017/1129 rendelet és az (EU) 2019/1937 irányelv módosításáról
 
+2.22. Az Európai Parlament és a Tanács (EU) 2023/1114 rendelete (2023. május 31.) a kriptoeszközök piacairól, valamint az 1093/2010/EU és az 1095/2010/EU rendelet, továbbá a 2013/36/EU és az (EU) 2019/1937 irányelv módosításáról
+
 3. Termékbiztonság és termékmegfelelőség
 
 3.1. Az alábbiak által meghatározott és szabályozott, az uniós piacon forgalmazott termékekkel kapcsolatos biztonsági és megfelelőségi követelmények:
