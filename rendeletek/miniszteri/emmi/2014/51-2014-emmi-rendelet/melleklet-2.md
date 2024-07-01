@@ -150,7 +150,7 @@
 
 2. melléklet az 51/2014. (XII. 10.) EMMI rendelethez
 
-Országos szakkönyvtár és a a vármegyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatók[^4]
+Országos szakkönyvtár és a a vármegyei hatókörű városi könyvtár éves munkatervéhez szükséges szakmai mutatók[^5]
 
 I. Szolgáltatási feladatok
 
@@ -180,7 +180,7 @@ I. Szolgáltatási feladatok
 
 13. Irodalomkutatások, témafigyelések száma
 
-14.[^5] A vármegyei hatókörű városi könyvtár által nyújtott, dokumentált szakmai (vármegyei, illetve országos szintű) tanácsadások száma
+14.[^6] A vármegyei hatókörű városi könyvtár által nyújtott, dokumentált szakmai (vármegyei, illetve országos szintű) tanácsadások száma
 
 15. Fogyatékossággal élők könyvtárhasználatát segítő IKT eszközök száma, a fogyatékossággal élők számára akadálymentes szolgáltatások száma
 
@@ -212,21 +212,21 @@ I. Szolgáltatási feladatok
 
 20. A használói elégedettség-mérések száma, a válaszadó használók száma/alkalom (átlag)
 
-21.[^6] A vármegyei hatókörű városi könyvtár koordinációjával minősítésre készülő települési könyvtárak száma
+21.[^7] A vármegyei hatókörű városi könyvtár koordinációjával minősítésre készülő települési könyvtárak száma
 
-22.[^7] Az iskolai közösségi szolgálatot a könyvtárban teljesítők száma és a szolgálat fogadására a köznevelési intézményekkel kötött megállapodások száma
+22.[^8] Az iskolai közösségi szolgálatot a könyvtárban teljesítők száma és a szolgálat fogadására a köznevelési intézményekkel kötött megállapodások száma
 
-23.[^8] A könyvtárban foglalkoztatott önkéntesek száma
+23.[^9] A könyvtárban foglalkoztatott önkéntesek száma
 
-24.[^9] A könyvtárral írásos együttműködést kötő civil, határon túli, vállalkozói stb. partnerek száma/év
+24.[^10] A könyvtárral írásos együttműködést kötő civil, határon túli, vállalkozói stb. partnerek száma/év
 
-25.[^10] A vármegyei hatókörű városi könyvtár szakember-ellátottsága (könyvtárosok száma/vármegye lakosságának száma)
+25.[^11] A vármegyei hatókörű városi könyvtár szakember-ellátottsága (könyvtárosok száma/vármegye lakosságának száma)
 
-26.[^11] A vármegyei hatókörű városi könyvtár olvasói hozzáférést biztosító számítógéppel való ellátottsága (számítógépek száma/a vármegyeszékhely lakosságának száma)
+26.[^12] A vármegyei hatókörű városi könyvtár olvasói hozzáférést biztosító számítógéppel való ellátottsága (számítógépek száma/a vármegyeszékhely lakosságának száma)
 
-27.[^12] A vármegyei hatókörű városi könyvtár által biztosított nemzetiségi dokumentumok száma
+27.[^13] A vármegyei hatókörű városi könyvtár által biztosított nemzetiségi dokumentumok száma
 
-28.[^13] A vármegyei hatókörű városi könyvtár által a kistelepülési önkormányzattal kötött megállapodások számának aránya (a vármegyében lévő kistelepülések száma/megállapodást kötött települések száma)
+28.[^14] A vármegyei hatókörű városi könyvtár által a kistelepülési önkormányzattal kötött megállapodások számának aránya (a vármegyében lévő kistelepülések száma/megállapodást kötött települések száma)
 
 II. Gyűjteményfejlesztés
 
@@ -246,7 +246,7 @@ II. Gyűjteményfejlesztés
 
 8. Az állományellenőrzés keretében ellenőrzött dokumentumok száma és %-os aránya az ellenőrizendő állományhoz képest
 
-9.[^14] A vármegyei hatókörű városi könyvtár esetében a tárgyévben beszerzett egy lakosra jutó könyvtári dokumentumok száma (dokumentumok száma/vármegye lakossága)
+9.[^15] A vármegyei hatókörű városi könyvtár esetében a tárgyévben beszerzett egy lakosra jutó könyvtári dokumentumok száma (dokumentumok száma/vármegye lakossága)
 
 III. Gyűjteményfeltárás
 
@@ -290,7 +290,7 @@ IV. Tudományos kutatás
 
 V. Rendezvény, kiállítás
 
-1.[^15] A könyvtárban a tárgyévben szervezett helyi, vármegyei és országos szintű közösségi programok, rendezvények száma összesen és az azokon résztvevők száma
+1.[^16] A könyvtárban a tárgyévben szervezett helyi, vármegyei és országos szintű közösségi programok, rendezvények száma összesen és az azokon résztvevők száma
 
 2. Tárgyévben szervezett konferenciák száma és az azokon résztvevők száma
 
@@ -298,7 +298,7 @@ V. Rendezvény, kiállítás
 
 4. Tárgyévben a családok számára meghirdetett rendezvények száma és az azokon résztvevők száma
 
-5.[^16] A vármegyei hatókörű városi könyvtár esetében az általa ellátott kistelepüléseken szervezett rendezvények száma és az azokon résztvevők száma
+5.[^17] A vármegyei hatókörű városi könyvtár esetében az általa ellátott kistelepüléseken szervezett rendezvények száma és az azokon résztvevők száma
 
 6. Egyéb rendezvényeken résztvevők száma
 
@@ -316,16 +316,16 @@ VI. Állományvédelem
 
 6. A könyvtári dokumentumok állagának védelmét szolgáló gépek száma
 
-[^4]: A 2. melléklet címe a 35/2017. (XII. 19.) EMMI rendelet 7. § a) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
-[^5]: A 2. melléklet I. Szolgáltatási feladatok cím 14. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § b) pontja szerint módosított szöveg.
-[^6]: A 2. melléklet I. Szolgáltatási feladatok cím 21. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
-[^7]: [A 2. melléklet I. pont 22. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
-[^8]: [A 2. melléklet I. pont 23. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
-[^9]: [A 2. melléklet I. pont 24. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
-[^10]: A 2. melléklet I. Szolgáltatási feladatok cím 25. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és c) pontja szerint módosított szöveg.
-[^11]: A 2. melléklet I. Szolgáltatási feladatok cím 26. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és d) pontja szerint módosított szöveg.
-[^12]: A 2. melléklet I. Szolgáltatási feladatok cím 27. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
-[^13]: A 2. melléklet I. Szolgáltatási feladatok cím 28. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és e) pontja szerint módosított szöveg.
-[^14]: A 2. melléklet II. Gyűjteményfejlesztés cím 9. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és c) pontja szerint módosított szöveg.
-[^15]: A 2. melléklet V. pont 1. alpontja a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
-[^16]: A 2. melléklet V. Rendezvény, kiállítás cím 5. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^5]: A 2. melléklet címe a 35/2017. (XII. 19.) EMMI rendelet 7. § a) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^6]: A 2. melléklet I. Szolgáltatási feladatok cím 14. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet I. Szolgáltatási feladatok cím 21. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^8]: [A 2. melléklet I. pont 22. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
+[^9]: [A 2. melléklet I. pont 23. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
+[^10]: [A 2. melléklet I. pont 24. alpontjában a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja által elrendelt módosítás, amely szerint a „megyei” szövegrész helyébe a „vármegyei” szöveg lép, nem vezethető át.]
+[^11]: A 2. melléklet I. Szolgáltatási feladatok cím 25. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet I. Szolgáltatási feladatok cím 26. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és d) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet I. Szolgáltatási feladatok cím 27. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet I. Szolgáltatási feladatok cím 28. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és e) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet II. Gyűjteményfejlesztés cím 9. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) és c) pontja szerint módosított szöveg.
+[^16]: A 2. melléklet V. pont 1. alpontja a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.
+[^17]: A 2. melléklet V. Rendezvény, kiállítás cím 5. pontja a 35/2017. (XII. 19.) EMMI rendelet 7. § c) pontja, a 12/2022. (XII. 29.) KIM rendelet 8. § a) pontja szerint módosított szöveg.

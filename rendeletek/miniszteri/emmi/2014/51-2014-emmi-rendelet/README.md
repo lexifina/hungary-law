@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-51-20-5
 | 2015-01-09 | 2014-51-20-5H.1 | 51/2014. (XII. 10.) EMMI rendelet |
 | 2017-12-20 | 2014-51-20-5H.2 | 35/2017. (XII. 19.) EMMI rendelet |
 | 2023-01-01 | 2014-51-20-5H.3 | 35/2017. (XII. 19.) EMMI rendelet |
+| 2024-07-01 | 2014-51-20-5H.4 | 17/2024. (VI. 11.) KIM rendelet |

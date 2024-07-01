@@ -50,10 +50,12 @@ c) tudományos konferenciákon való részvétel, konferenciák szervezése, az 
 
 (3) Az 1. mellékletben felsorolt mutatók közül
 
-a) országos múzeum és országos szakmúzeum munkatervében nem kell alkalmazni az 1. melléklet I. pont 5. alpontját, valamint az V. pont 6. alpontját,
+a)[^1] országos múzeum és országos szakmúzeum munkatervében nem kell alkalmazni az 1. melléklet I. pont 5. alpontját, valamint az V. pont 6. alpontját, és
 
 b) területi múzeum és tematikus múzeum munkatervében nem kell alkalmazni az 1. melléklet I. pont 3. és 5. alpontját, továbbá az V. pont 6. alpontját.
 
 (4) A múzeum a munkatervében szereplő szakmai mutatók számadatokkal igazolt teljesítését az éves szakmai munkajelentésében mutatja be.
 
 (5) Amennyiben a múzeum az 1. mellékletben szereplő valamely mutatóhoz kapcsolódó tevékenységet indokoltan nem végzi, a munkaterv készítésekor e szakmai mutatóra nem kell mérőszámot meghatározni.
+
+[^1]: A 2. § (3) bekezdés a) pontja a 17/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
