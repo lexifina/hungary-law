@@ -1,3 +1,3 @@
-5. melléklet a 239/2022. (VI. 30.) Korm. rendelethez[^56]
+5. melléklet a 239/2022. (VI. 30.) Korm. rendelethez[^57]
 
-[^56]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^57]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

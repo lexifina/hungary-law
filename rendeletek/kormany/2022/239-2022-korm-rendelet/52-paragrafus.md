@@ -4,4 +4,6 @@
 
 (2) A 38. alcím az Európai Utasinformációs és Engedélyezési Rendszer (ETIAS) létrehozásáról, valamint az 1077/2011/EU rendelet, az 515/2014/EU rendelet, az (EU) 2016/399 rendelet, az (EU) 2016/1624 rendelet és az (EU) 2017/2226 rendelet módosításáról szóló, 2018. szeptember 12-i (EU) 2018/1240 európai parlamenti és tanácsi rendelet 88. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
 
-(3) A 38. alcím hatálybalépésének naptári napját az idegenrendészetért és menekültügyért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+(3)[^52] A 38. alcím hatálybalépésének naptári napját a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+[^52]: Az 52. § (3) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 13. §-a szerint módosított szöveg.
