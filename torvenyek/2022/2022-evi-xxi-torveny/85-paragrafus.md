@@ -1,31 +1,61 @@
-## 41. Zártkörű rendezvényekkel kapcsolatos nyilvántartások
+## 41. Rendezvényekkel kapcsolatos nyilvántartások
 
-85. § (1) A honvédelmi szervezet zártkörű rendezvény megszervezése, a Honvédség népszerűsítése, illetve honvédelmi érdek érvényesítése céljából a rendezvényen részt vevő érintettek következő adatait kezeli:
+85. § (1) A rendezvényt szervező honvédelmi szervezet a Honvédség népszerűsítése, a honvédelmi tudatosság erősítése, a honvédelmi érdek érvényesítése céljából, az ezzel összefüggésben szervezett, a rendezvény megszervezésével, lebonyolításával, a rendezvénnyel összefüggő kapcsolattartással és tájékoztatással, valamint a Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggésben – a rendezvény jellegétől függően, az adott rendezvény céljaihoz szükséges mértékben – a rendezvényen részt vevő érintettek következő adatait kezeli:
 
-a) családi és utónév,
+1. családi és utóneve, katona esetében rendfokozata,
 
-b) születési hely, idő,
+2. születési helye, ideje, – nem magyar állampolgár esetén – állampolgársága,
 
-c) anyja születési neve,
+3. anyja születési neve,
 
-d) munkahely megnevezése, székhelye, elérhetősége,
+4. munkahelyének megnevezése, székhelye, elérhetősége,
 
-e) beosztás, munkakör, elérhetőség,
+5. beosztása, munkaköre,
 
-f) lakcím,
+6. telefonszáma, elektronikus elérhetősége,
 
-g) személyazonosításra alkalmas okmány típusa, okmányazonosítója, érvényessége,
+7. lakcíme,
 
-h) arcképmás és hangfelvétel.
+8. személyazonosításra alkalmas okmányának típusa, okmányazonosítója, érvényessége,
 
-(2) Az adatok – az arcképmás és a hangfelvétel kivételével – a rendezvény lebonyolítását követő legfeljebb 30 napig kell kezelni. Az arcképmás és a hangfelvétel vonatkozásában az adatkezelő 3 évente felülvizsgálja, hogy ezen adatok további kezelése az adatkezelés célja tekintetében szükséges-e.
+9. kép, illetve hang- és képfelvétele, továbbá a rendezvényről készült iratban szereplő személyes adatai,
 
-(3) A Honvédség népszerűsítése céljából az (1) bekezdés h) pontjában meghatározott adatokat az adatkezelő közzéteszi.
+10. az adott objektumba gépjárművel történő behajtás esetén a gépjármű forgalmi rendszáma, valamint a gépjárművel történő be- és kihajtás időpontja,
 
-(4) Ha a rendezvény jellege nemzetbiztonsági vagy rendvédelmi érdekből megkívánja, úgy az (1) bekezdésben meghatározott adatokat az adatkezelő
+11. a személyi biztonsági okmányokhoz kapcsolódó adatai,
 
-a) törvényben meghatározott feladatai ellátásához a KNBSZ-nek,
+12. szomatometriai adatai,
 
-b) bűncselekmények üldözése vagy megelőzése érdekében a hatáskörrel rendelkező szerv részére
+13. a társadalombiztosítási azonosító jel meglétére vonatkozó adata,
 
-továbbítja.
+14. a tanuló ifjúság üdülésének és táborozásának egészségügyi feltételeiről szóló jogszabály által meghatározott adata,
+
+15. az ismert ételallergiára és ételintoleranciára vonatkozó adata,
+
+16. fizetési kötelezettséggel járó rendezvény esetén a bankszámlaszáma, a díj megfizetése alóli mentesség igazolásának adatai.
+
+(2) Az adatkezelő az (1) bekezdésben meghatározott célból, az ott meghatározott érintetteken túl – a feltételek fennállása esetén – a törvényes képviselő következő adatait is kezeli:
+
+a) családi és utóneve,
+
+b) lakcíme,
+
+c) elérhetőségi adatai,
+
+d) fizetési kötelezettséggel járó rendezvény esetén bankszámlaszám, díj megfizetése alóli mentesség igazolásának adatai.
+
+(3) Az adatokat – az (1) bekezdés 1., 6. és 9. pontjában, valamint a (2) bekezdés a) és c) pontjában meghatározott adatok kivételével – a rendezvény lebonyolítását követő legfeljebb 60 napig kell kezelni. Amennyiben az adatkezelő a 9. pontban meghatározott adatokat rögzíti, úgy 3 évente felülvizsgálja, hogy ezen adatok további kezelése az adatkezelés célja tekintetében szükséges-e. A Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatás céljából kezelt, az (1) bekezdés 1. és 6. pontja, valamint a (2) bekezdés a) és c) pontja szerinti adatok kezelésének szükségességét az adatkezelő 3 évente felülvizsgálja, továbbá azokat az érintett kérelmére haladéktalanul törli.
+
+(4) Az adatkezelő az (1) bekezdés 9. pontjában meghatározott adatokat a Honvédséggel összefüggő kommunikációs felületeken kizárólag a Honvédség népszerűsítése céljából hozza nyilvánosságra.
+
+(5) Az adatkezelő a beléptetéshez, parkoláshoz szükséges adatokat továbbítja a beléptetésért felelős honvédelmi szervezet, vagy egyéb szerv, vagy szervezet, gazdasági társaság részére.
+
+(6) Az adatkezelő a Honvédséggel kapcsolatos információkról, hírekről szóló tájékoztatással összefüggő feladatok ellátására kijelölt honvédelmi szervezet részére feladatainak ellátása céljából továbbítja az érintett
+
+a) családi és utónevét,
+
+b) születési évét,
+
+c) elektronikus elérhetőségét,
+
+d) lakóhelyét.

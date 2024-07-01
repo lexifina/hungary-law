@@ -183,3 +183,5 @@ Az érdekvédelmi nyilvántartásban kezelt személyes adatok
 11.11. a segélyezés adatai,
 
 11.12. a járadékfizetés adatai.
+
+12. a honvédelmi szolgálati juttatásra való jogosultság megszűnésére vonatkozó adatok.

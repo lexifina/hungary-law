@@ -20,7 +20,7 @@ a) a jogosultság megállapítása esetén a honvédelmi egészségkárosodási 
 
 b) fellebbezés esetén a keresetindításra nyitva álló határidőig,
 
-c) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, Hjt. 186. § (1) bekezdése szerinti keresetindításra nyitva álló határidő leteltét követő 30 napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
+c) abban az esetben, ha a jogosultság megállapítására nem kerül sor, az erről hozott döntés elleni, honvédek jogállási kérdéseit meghatározó jogszabályban meghatározott keresetindításra nyitva álló határidő leteltét követő 30 napig, keresetindítás esetén a bíróság döntésének jogerőre emelkedéséig
 
 tart.
 

@@ -1,4 +1,4 @@
-51. § (1) A Hjt. szerinti szolgálaton kívüliek állományába tartozó személyekről a (2) bekezdésben meghatározott adatkezelő, a (3) bekezdésben meghatározott célból a 19. melléklet szerinti adatokat kezeli. Az érintettnek a szolgálaton kívüliek állományába történő felvételére vonatkozó kérelmével egyidejűleg nyilatkoznia kell adatainak további kezelésére vonatkozóan.
+51. § (1) A Hjkr. szerinti szolgálaton kívüliek állományába tartozó személyekről a (2) bekezdésben meghatározott adatkezelő, a (3) bekezdésben meghatározott célból a 19. melléklet szerinti adatokat kezeli. Az érintettnek a szolgálaton kívüliek állományába történő felvételére vonatkozó kérelmével egyidejűleg nyilatkoznia kell adatainak további kezelésére vonatkozóan.
 
 (2) A szolgálaton kívüliek állományába tartozók adatait a Honvédség központi személyügyi szerve kezeli.
 
@@ -6,7 +6,7 @@
 
 (4) Szolgálaton kívüliek adatait az adatkezelő annak az évnek az utolsó napjáig kezeli, amikor
 
-a) a Hjt. 76. § (2) bekezdésében meghatározott időtartam letelik,
+a) a szolgálaton kívüli állományba tartozás Hjkr.-ben meghatározott időtartama letelik,
 
 b) az érintett öregségi nyugdíjra jogosultságot szerzett, vagy
 

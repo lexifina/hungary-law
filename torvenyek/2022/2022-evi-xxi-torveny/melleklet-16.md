@@ -22,6 +22,8 @@ A pénzügyi nyilvántartásban kezelt személyes adatok
 
 4.4. a járandóság, juttatás, költségtérítés összege,
 
+4.5. megszűnésükre vonatkozó adatok,
+
 5. személyi jövedelemadó kedvezményekkel kapcsolatos adatok:
 
 5.1. befizetett tagdíjak és kiegészítések,
@@ -47,3 +49,5 @@ A pénzügyi nyilvántartásban kezelt személyes adatok
 9. önkéntes és kölcsönös nyugdíjpénztári adatok – pénztár neve, címe, adószáma, pénzforgalmi-jelzőszáma, tagsági azonosító, tagsági jogviszony kezdete –,
 
 10. a Magyar Egészségügyi Szakdolgozói Kamara részére történő tagdíjátvállalás adatai: a tagság ténye, a hozzájárulás mértéke és összege, a tagság kezdetének és végének dátuma.
+
+11. a honvédelmi szolgálati juttatás és ehhez kapcsolódó további juttatás megállapításával összefüggő adatok.

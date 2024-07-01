@@ -22,6 +22,10 @@ A toborzó nyilvántartásban kezelt adatok
 
 1.9. a személyazonosító igazolvány száma, érvényességi ideje, útlevél száma, érvényességi ideje,
 
+1.10. állampolgárság,
+
+1.11. nem,
+
 2. az iskolai végzettségre, a szakképzettségre és az egyéb képesítésre vonatkozó adatok:
 
 2.1. valamennyi megszerzett és megszerzés alatt álló iskolai végzettség,
@@ -93,3 +97,5 @@ A toborzó nyilvántartásban kezelt adatok
 7. a Honvéd Kadét Programban történő részvételre vonatkozó adat,
 
 8. a Honvédelmi Táborban való részvételre vonatkozó adat.
+
+9. a toborzással érintett személy hangja

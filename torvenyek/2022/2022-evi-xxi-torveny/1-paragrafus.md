@@ -42,6 +42,8 @@ kb) a Honvédség és jogelődje állományából méltó módon vált ki, erkö
 
 kc) ilyen személyként – miniszteri rendelet alapján létrehozott Veterán Grémium (a továbbiakban: Grémium) határozatával – elismerésre került.
 
+l) nyugállományú katona: a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.) szerinti nyugállományú katona.
+
 (2) Az e törvény által meghatározott adatokról az egyes nyilvántartások személyi köre tekintetében, törvényekben meghatározott jogok érvényesítése és kötelezettségek teljesítése céljából elektronikus, illetve papíralapú nyilvántartást kell vezetni. Az adatkezelés alapelveinek megfelelően, különböző jogosultsági szintű hozzáféréssel biztosított az egyes szakterületek nyilvántartásai számára az azokban szereplő adatok kezelése.
 
 (3) Az egyes adatkezelők az általuk nyilvántartott adatok alapjául szolgáló eredeti iratokat vagy másolatait kezelik.

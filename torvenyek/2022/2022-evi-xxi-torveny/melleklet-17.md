@@ -44,11 +44,11 @@ A személyügyi központ részére átadásra kerülő adatok
 
 20. a megszűnés módja,
 
-21. a Hjt. 46. § (1) bekezdés r) vagy s) pontja szerinti rendelkezési állományba helyezés időpontja, időtartama,
+21. a sajátos katonai tartalékállományba helyezés időpontja, időtartama,
 
 22. a teljesítményértékelés eredménye,
 
-23. a Hjt. 49. § alapján szolgálati feladatra vezénylés időtartama,
+23. a Hjkr. alapján szolgálati feladatra vezénylés időtartama,
 
 24. szolgálati viszonyának időtartama,
 

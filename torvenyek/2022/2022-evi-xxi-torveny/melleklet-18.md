@@ -38,15 +38,15 @@ Az alapnyilvántartás adatköre
 
 1.17. korábbi jogviszonya megszűnésének módja, időpontja,
 
-1.18. Hjt. szerinti szolgálati viszonyának vagy honvédelmi alkalmazotti jogviszonyának kezdete,
+1.18. Hjkr. szerinti szolgálati viszonyának vagy honvédelmi alkalmazotti jogviszonyának kezdete,
 
 1.19. bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítványának száma, kelte,
 
 1.20. jubileumi jutalmának és a végkielégítésének mértéke kiszámításának alapjául szolgáló időtartamok,
 
-1.21. foglalkoztatójának neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+1.21. foglalkoztatójának neve, székhelye, statisztikai számjele, e szervnél a jogviszony kezdete, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 
-1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, Foglalkozások Egységes Osztályozási Rendszere száma, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+1.22. jelenlegi besorolása, besorolásának időpontja, vezetői beosztása, Foglalkozások Egységes Osztályozási Rendszere száma, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 
 1.23. címadományozása, jutalmazása, kitüntetése adatai,
 
@@ -54,10 +54,10 @@ Az alapnyilvántartás adatköre
 
 1.25. személyi juttatásai,
 
-1.26. munkából való távollétének jogcíme és időtartama, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+1.26. munkából való távollétének jogcíme és időtartama, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 
-1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+1.27. honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésének időpontja, módja, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 
-1.28. – ha honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, – szolgálati viszonya, honvédelmi alkalmazotti jogviszonya megszűnésének időpontja, módja, a végkielégítés adatai, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
+1.28. – ha honvédelmi egészségügyi szolgáltatónál történő foglalkoztatása megszűnésével együtt jár a szolgálati viszonyának, honvédelmi alkalmazotti jogviszonyának a megszűnése, – szolgálati viszonya, honvédelmi alkalmazotti jogviszonya megszűnésének időpontja, módja, a végkielégítés adatai, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll,
 
-1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha Hjt. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll.
+1.29. munkavégzésére irányuló egyéb jogviszonyával összefüggő adatai, ha Hjkr. szerinti szolgálati viszonyban vagy honvédelmi alkalmazotti jogviszonyban áll.
