@@ -42,7 +42,7 @@ II. Tulajdonosi joggyakorló: a Digitális Magyarország Ügynökség Zártkör�
 
 | 2. | IdomSoft Informatikai Zártkörűen Működő Részvénytársaság | 01-10-046896 | 2026. december 31. |
 
-| 3. |  |  |  |
+| 3. | Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság | 01-10-045343 | 2026. december 31. |
 
 | 4. |  |  |  |
 
@@ -92,4 +92,4 @@ VI. Tulajdonosi joggyakorló: Paks II. Atomerőmű Zártkörűen Működő Rész
 
 VII.
 
-[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1–2. §-a, a 29/2023. (XI. 29.) GFM rendelet 2. §-a, a 42/2023. (XII. 27.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 2. §-a, az 5/2024. (II. 6.) NGM rendelet 2. §-a, a 9/2024. (III. 21.) NGM rendelet 3. §-a, a 12/2024. (IV. 8.) NGM rendelet 2. §-a, a 16/2024. (V. 31.) NGM rendelet 2. §-a, a 17/2024. (V. 31.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^5]: A 3. melléklet a 8/2022. (VIII. 31.) GFM rendelet 2. §-a, a 9/2022. (IX. 30.) GFM rendelet 1. § (1) és (2) bekezdése, a 14/2022. (XI. 21.) GFM rendelet 1. § c) pontja és 2. §-a, a 18/2022. (XII. 20.) GFM rendelet 3. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, az 5/2023. (IV. 17.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § d) pontja, a 19/2023. (VIII. 24.) GFM rendelet 2. §-a, a 20/2023. (VIII. 24.) GFM rendelet 1–2. §-a, a 29/2023. (XI. 29.) GFM rendelet 2. §-a, a 42/2023. (XII. 27.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 2. §-a, az 5/2024. (II. 6.) NGM rendelet 2. §-a, a 9/2024. (III. 21.) NGM rendelet 3. §-a, a 12/2024. (IV. 8.) NGM rendelet 2. §-a, a 16/2024. (V. 31.) NGM rendelet 2. §-a, a 17/2024. (V. 31.) NGM rendelet 1. §-a, a 21/2024. (VI. 28.) NGM rendelet 1. §-a szerint módosított szöveg.
