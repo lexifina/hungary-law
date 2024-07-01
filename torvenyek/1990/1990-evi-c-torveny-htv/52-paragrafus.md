@@ -206,7 +206,7 @@ e) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogá
 
 f) a közszolgálati tisztviselőkről szóló törvény szerinti jogviszony,
 
-g) a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony,
+g) a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati jogviszony,
 
 h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony,
 
