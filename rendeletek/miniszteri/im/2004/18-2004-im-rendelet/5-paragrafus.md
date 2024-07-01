@@ -1,6 +1,6 @@
 ## Az igénypontok
 
-5. §[^5] A mintaoltalmi igénypontokat a leírás végén a következők szerint kell elkészíteni:
+5. §[^7] A mintaoltalmi igénypontokat a leírás végén a következők szerint kell elkészíteni:
 
 a) az igénypont egyetlen mondatból áll, az igénypontokat folyamatos arab számozással kell ellátni;
 
@@ -10,9 +10,9 @@ c) a feladat megoldásához elengedhetetlenül szükséges összes jellemzőt a 
 
 d) a főigénypont oltalmi körébe tartozó egy vagy több előnyös megoldást aligénypontokba lehet foglalni; az aligénypontnak közvetlenül vagy közvetve utalnia kell a főigénypontra, amely utalásban egynél több előző igénypontot megjelölni csak vagylagosan lehet, és tartalmaznia kell egy vagy több további jellemzőt a megjelölt előző igénypont jellemzőihez képest;
 
-e)[^6] az igénypontokban – kivéve, ha ez feltétlenül szükséges – a jellemzést nem lehet helyettesíteni a leírásra, a rajzokra vagy egyéb forrásokra való hivatkozással;
+e)[^8] az igénypontokban – kivéve, ha ez feltétlenül szükséges – a jellemzést nem lehet helyettesíteni a leírásra, a rajzokra vagy egyéb forrásokra való hivatkozással;
 
 f) az igénypontokban a berendezést szerkezete elemeinek és azok kapcsolatának megadásával kell jellemezni, ami nem helyettesíthető a működésre vagy az elérni kívánt hatásra utaló jellemzéssel.
 
-[^5]: Az 5. § nyitó szövegrésze a 2/2023. (II. 10.) IM rendelet 7. §-a szerint módosított szöveg.
-[^6]: Az 5. § e) pontja a 30/2012. (VI. 25.) KIM rendelet 9. §-ával megállapított szöveg.
+[^7]: Az 5. § nyitó szövegrésze a 2/2023. (II. 10.) IM rendelet 7. §-a szerint módosított szöveg.
+[^8]: Az 5. § e) pontja a 30/2012. (VI. 25.) KIM rendelet 9. §-ával megállapított szöveg.

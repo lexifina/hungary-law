@@ -20,6 +20,12 @@ h) nyilatkozatot arról, hogy a bejelentő a minta feltalálója vagy annak jogu
 
 i) a bejelentési kérelem mellékleteinek felsorolását, feltüntetve az egyes iratok lapszámát és példányszámát is.
 
+j)[^5] a kérelmezőnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti mikro-, kis- és középvállalkozásnak, azaz KKV-nak minősülésére vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát;
+
+k)[^6] a kérelmező vállalkozás arra vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát, hogy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhelynek vagy nonprofit közhasznú kutatóhelynek minősül.
+
 (2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
 [^4]: A 3. § a 30/2018. (XII. 12.) IM rendelet 17. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdés j) pontját a 16/2023. (X. 30.) IM rendelet 5. §-a iktatta be.
+[^6]: A 3. § (1) bekezdés k) pontját a 16/2023. (X. 30.) IM rendelet 5. §-a iktatta be.
