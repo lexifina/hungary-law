@@ -1,0 +1,9 @@
+3. § (1) A szolgálati viszonnyal kapcsolatos elöljárói döntéshozatal – ha szolgálati viszonyra vonatkozó szabály eltérően nem rendelkezik – szolgálati érdeken alapul. Az elöljárói joggyakorlás rendjét a miniszter határozza meg.
+
+(2) A szolgálati viszonyhoz kapcsolódó jogok gyakorlása és a kötelezettségek teljesítése során a jóhiszeműség és a tisztesség elvének megfelelően, kölcsönösen együttműködve kell eljárni, és nem lehet olyan magatartást tanúsítani, amely a másik fél jogát, jogos érdekét sérti. Nem minősül a másik fél joga vagy jogos érdeke sérelmének különösen az olyan magatartás tanúsítása, amely igazodik a katonai rend és fegyelem fenntartásához szükséges mértékhez, valamint az alapkiképzés, kiképzések vagy gyakorlatok, valamint a katonai műveletek céljához.
+
+(3) Az alapkiképzés, kiképzések vagy gyakorlatok, valamint a katonai műveletek során az annak végrehajtásáért közvetlenül felelős elöljáró a katonai rend és fegyelem fenntartásához szükséges mértékű, arányos és a feladat céljához igazodó magatartást tanúsíthat és követelhet meg a feladaton részt vevő alárendelt állománytól.
+
+(4) A szolgálati viszonnyal kapcsolatos jogokat és kötelezettségeket a rendeltetésüknek megfelelően kell gyakorolni és teljesíteni, valamint meg kell tartani az egyenlő bánásmód követelményét. A honvéd a szolgálatteljesítéssel összefüggő magatartása körében ellenőrizhető. A szolgálati viszonnyal kapcsolatos igény elévülését és a felek jogorvoslati jogának érvényesítését, valamint a szolgálati viszony jogellenes megszüntetésének jogkövetkezményeit a miniszter rendeletben határozza meg, azzal, hogy nincs helye fellebbezésnek a miniszter által hozott határozat ellen.
+
+(5) Szolgálati viszonyra vonatkozó szabálytól csak abban az esetben lehet eltérni, ha azt az adott szolgálati viszonyra vonatkozó szabály kifejezetten megengedi.
