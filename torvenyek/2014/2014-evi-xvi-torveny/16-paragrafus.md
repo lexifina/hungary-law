@@ -1,6 +1,6 @@
 ## 7. A befektetési alapkezelő tőke- és szervezeti követelményei
 
-16. § (1) A befektetési alapkezelő akkor kaphat befektetési alapkezelésre engedélyt, ha – a (2) bekezdésben foglaltak figyelembevételével – rendelkezik legalább százhuszonötezer euró, ingatlanalap kezelése esetén legalább háromszázezer euró induló tőkével.
+16. § (1) A befektetési alapkezelő akkor kaphat befektetési alapkezelésre engedélyt, ha – a (2) bekezdésben foglaltak figyelembevételével – rendelkezik legalább százhuszonötezer euró, ingatlanalap vagy vegyes alap kezelése esetén legalább háromszázezer euró induló tőkével.
 
 (2) Ha a befektetési alapkezelő által kezelt befektetési alapok portfólióinak összesített értéke meghaladja a kétszázötvenmillió eurót, szavatoló tőkéjét ki kell egészítenie. A pótlólagos tőkeösszeg annak az összegnek a 0,02%-a, amellyel a befektetési alapkezelő által kezelt befektetési alapok portfólióinak értéke meghaladja a kétszázötvenmillió eurót. Ha a szavatoló tőke és a pótlólagos tőke összege eléri a tízmillió eurót, a szavatoló tőkét nem szükséges tovább növelni. A számítás alapját képező összegbe bele kell számítani azon portfóliókat, amelyek kezelésével a befektetési alapkezelő kiszervezésre irányuló szerződés alapján harmadik személyt bízott meg, nem kell figyelembe venni azonban azokat a portfóliókat, amelyeket a befektetési alapkezelő kiszervezésre irányuló szerződés alapján megbízottként kezel.
 

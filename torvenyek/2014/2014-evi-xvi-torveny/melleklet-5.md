@@ -30,7 +30,7 @@ I. A befektetési alapra vonatkozó információk
 
 1.11. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
 
-1.12. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
+1.12. A befektetési alap külön jogszabály szerinti elsődleges eszközkategória típusa
 
 1.13. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 

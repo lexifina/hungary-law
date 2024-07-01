@@ -50,7 +50,7 @@ d) gondoskodik arról, hogy az ABA az eszközeit érintő ügyletek során az el
 
 e) biztosítja, hogy az ABA a bevételét a jogszabályokkal és az ABA kezelési szabályzatával összhangban használja fel;
 
-f) ingatlanalapok esetén az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések hatályosságához megadja a Ptk. 6:118. § (1) bekezdése szerinti beleegyezést, ha az adott ügylet megfelel a befektetési alapra vonatkozó jogszabályoknak.
+f) ingatlanalapok és vegyes alapok esetén az ingatlanok átruházására, valamint az ingatlanok megterhelésére vonatkozó szerződések hatályosságához megadja a Ptk. 6:118. § (1) bekezdése szerinti beleegyezést, ha az adott ügylet megfelel a befektetési alapra vonatkozó jogszabályoknak.
 
 (10) A letétkezelő tisztességesen, magas szakmai színvonalon, függetlenül és az ABA és az ABA befektetőinek érdekeit szem előtt tartva jár el. A letétkezelő nem végezhet olyan tevékenységeket az ABA részére, amelyek az ABA, annak befektetői, az ABAK vagy saját maga között összeférhetetlenséget okozhatnak, kivéve, ha a letétkezelő letétkezelői tevékenységét egyéb esetlegesen összeférhetetlen tevékenységeitől működési és hierarchikus szempontból elválasztja, és az esetleges összeférhetetlenségeket feltárja, kezeli, nyomon követi és az ABA befektetői előtt nyilvánosságra hozza. A (8) bekezdésben említett eszközöket a letétkezelő az ABA előzetes engedélye nélkül nem hasznosíthatja újra.
 

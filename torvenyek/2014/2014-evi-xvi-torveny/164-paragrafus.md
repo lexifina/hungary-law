@@ -34,7 +34,7 @@ bc) a befektetési alap működésének módja (nyilvános vagy zártkörű),
 
 bd) a befektetési alap futamideje (határozott vagy határozatlan),
 
-be) a befektetési szabályoknak megfelelő kategória (értékpapíralap, ingatlanalap, kockázati tőkealap vagy magántőkealap),
+be) a befektetési szabályoknak megfelelő kategória,
 
 bf) azon országok felsorolása, ahol a kollektív befektetési forma által forgalomba hozott értékpapírt forgalmazhatják,
 
@@ -44,7 +44,7 @@ bh) a letétkezelő megnevezése, székhelye, cégbírósági nyilvántartási s
 
 bi) a könyvvizsgáló cég neve a jogi forma megjelölésével, székhelye, kamarai nyilvántartási száma, könyvvizsgáló természetes személy esetén a könyvvizsgáló neve, címe, kamarai nyilvántartási száma,
 
-bj) ingatlanalap esetén az ingatlanértékelő megnevezése, székhelye,
+bj) ingatlanalap és vegyes alap esetén az ingatlanértékelő megnevezése, székhelye,
 
 bk) közzétételi helye,
 

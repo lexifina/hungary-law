@@ -8,9 +8,9 @@ b) a befektetési alap kezelési szabályzatát;
 
 c) az induló saját tőke lejegyzésének és az induló saját tőke befizetésének, illetve teljesítésének igazolását;
 
-d) ingatlanalap esetében a könyvvizsgáló megbízására irányuló szerződést.
+d) ingatlanalap és vegyes alap esetében a könyvvizsgáló megbízására irányuló szerződést.
 
-(3) Ingatlanalap esetében az (1) és (2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
+(3) Ingatlanalap és vegyes alap esetében az (1) és (2) bekezdésben meghatározottakon felül az alap nyilvántartásba vételének feltétele, hogy az ingatlanértékelő megbízását, illetve annak módosítását a kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló kormányrendelet rendelkezéseivel összhangban a Felügyelet jóváhagyja.
 
 (4) A 2. § (2) bekezdés szerinti ABAK által kezelt kockázati illetve magántőkealap esetében a (2) bekezdésben meghatározott feltételek közül a b) és c) pontban foglaltakat kell teljesíteni a nyilvántartásba vételhez.
 

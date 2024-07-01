@@ -22,7 +22,7 @@ d) igazolja, hogy vele szemben a (10) bekezdésében meghatározott kizáró oko
 
 (6a) A (6) bekezdésben foglaltak figyelembevétele mellett
 
-a) ingatlanalapot is kezelő befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében – kizárólag az ingatlanalapok vonatkozásában – szakmai gyakorlatként ingatlanforgalmazónál, ingatlanalapot kezelő befektetési alapkezelőnél szakirányú területen,
+a) ingatlanalapot vagy vegyes alapot is kezelő befektetési alapkezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében – kizárólag az ingatlanalapok vagy vegyes alapok vonatkozásában – szakmai gyakorlatként ingatlanforgalmazónál, ingatlanalapot kezelő befektetési alapkezelőnél szakirányú területen,
 
 b) kockázati tőkealap-kezelő befektetés-kezelési tevékenységet, a befektetési eszközök és tőzsdei termékek kereskedését irányító személy tekintetében üzletviteli tanácsadással foglalkozó gazdasági társaságnál szakirányú területen
 
@@ -36,7 +36,7 @@ a) a befektetési alapkezelőnél, kollektív befektetési formánál, befektet�
 
 b) az MNB-nél, a minisztériumban, szabályozott piacnál, tőzsdénél, a központi értéktárnál, központi szerződő félnél, az Államadósság Kezelő Központ Zrt.-nél, a Magyar Államkincstárnál,
 
-c) kizárólag ingatlanalapot kezelő befektetési alapkezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – az ingatlanforgalmazónál,
+c) kizárólag ingatlanalapot, illetve vegyes alapot kezelő befektetési alapkezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – az ingatlanforgalmazónál,
 
 d) kockázati tőkealap-kezelő vezető állású személye esetében – az a) és b) pontban foglaltakon túl – üzletviteli tanácsadással foglalkozó gazdasági társaságnál, valamint
 

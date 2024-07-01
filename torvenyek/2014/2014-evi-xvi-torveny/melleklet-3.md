@@ -34,7 +34,7 @@ I. A befektetési alapra vonatkozó alapinformációk
 
 1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
 
-1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapír- vagy ingatlanalap)
+1.13. A befektetési alap jogszabály szerinti elsődleges eszközkategória típusa
 
 1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 
@@ -108,13 +108,13 @@ III. A befektetési alap befektetési politikája és céljai, azon eljárások 
 
 24.9. Az adott tárgykörre vonatkozó egyéb információk
 
-25. Ingatlanalapra vonatkozó speciális rendelkezések
+25. Ingatlanalapra, vegyes alapra vonatkozó speciális rendelkezések
 
-25.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
+25.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap, vegyes alap
 
-25.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
+25.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap, vegyes alap
 
-25.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+25.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap, vegyes alap
 
 25.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
 
@@ -122,9 +122,9 @@ III. A befektetési alap befektetési politikája és céljai, azon eljárások 
 
 25.6. Az építés alatt álló ingatlanok maximum aránya
 
-25.7. Az ingatlanalapra háruló kockázatok
+25.7. Az ingatlanalapra, vegyes alapra háruló kockázatok
 
-25.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+25.8. Az ingatlanalapra, vegyes alapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
 
 25.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
 
@@ -288,7 +288,7 @@ I. A befektetési alapra vonatkozó alapinformációk
 
 1.12. A befektetési alap által kibocsátott sorozatok száma, jelölése, annak feltüntetése, hogy az egyes sorozatok milyen jellemzőkben térnek el egymástól
 
-1.13. A befektetési alap elsődleges eszközkategória típusa (értékpapíralap, ingatlanalap kockázati tőkealap, magántőkealap)
+1.13. A befektetési alap jogszabály szerinti elsődleges eszközkategória típusa
 
 1.14. Annak feltüntetése, ha a befektetési alap tőkéjének megóvására, illetve a hozamra vonatkozó ígéretet hitelintézet által vállalt garancia vagy kezesi biztosítás biztosítja (tőke-, illetve hozamgarancia) vagy azt a befektetési alap részletes befektetési politikája támasztja alá (tőke-, illetve hozamvédelem); az ennek feltételeit a kezelési szabályzatban részletesen tartalmazó pont megjelölése
 
@@ -390,13 +390,13 @@ VI. A befektetési alap befektetési politikája és céljai, azon eljárások l
 
 35.10. Az adott tárgykörre vonatkozó egyéb információk
 
-36. Ingatlanalapra vonatkozó speciális rendelkezések
+36. Ingatlanalapra, vegyes alapra vonatkozó speciális rendelkezések
 
-36.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap
+36.1. Annak megjelölése, hogy hozamtermelő vagy értéknövekedési céllal kiválasztandó ingatlanokba fektet az ingatlanalap, vegyes alap
 
-36.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap
+36.2. Annak megjelölése, hogy milyen funkciójú (lakás, kereskedelmi, ipari stb.) ingatlanokba fektet az ingatlanalap, vegyes alap
 
-36.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap
+36.3. Annak megjelölése, hogy mely országokban fektet be az ingatlanalap, vegyes alap
 
 36.4. Egy ingatlan, illetve ingatlanhoz kapcsolódó vagyoni értékű jog értékének maximuma összegszerűen
 
@@ -404,13 +404,13 @@ VI. A befektetési alap befektetési politikája és céljai, azon eljárások l
 
 36.6. Az építés alatt álló ingatlanok maximum aránya
 
-36.7. Az ingatlanalapra háruló kockázatok
+36.7. Az ingatlanalapra, vegyes alapra háruló kockázatok
 
-36.8. Az ingatlanalapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
+36.8. Az ingatlanalapra, vegyes alapra háruló kockázatok kezelésének módja, a kockázatkezelés stratégiája és megvalósításának főbb elvei
 
 36.9. Az alap nyilvántartásba vételét megelőző forgalomba hozatal kapcsán történt apportálás esetén az apportálandó ingatlanok részletes bemutatása
 
-36.10. Amennyiben a befektetési alap eltér a nyilvános ingatlanbefektetési alapokra vonatkozó kölcsönfelvételi korlátoktól, az eltérés lehetőségének és indokának részletes bemutatása
+36.10. Amennyiben a befektetési alap, vegyes alap eltér a nyilvános ingatlanbefektetési alapokra vonatkozó kölcsönfelvételi korlátoktól, az eltérés lehetőségének és indokának részletes bemutatása
 
 VII. A kockázatok
 

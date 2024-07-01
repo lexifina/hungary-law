@@ -8,7 +8,7 @@ c) a befektetési jegyek visszaválthatósága alapján nyílt végű vagy zárt
 
 d) a futamidő alapján határozott vagy határozatlan futamidővel (befektetési alap futamideje);
 
-e) a befektetési alap által megszerezhető elsődleges eszközök alapján értékpapíralapként, ingatlanalapként, kockázati tőkealapként vagy magántőkealapként (elsődleges eszközkategória típusa);
+e) a befektetési alap által megszerezhető elsődleges eszközök alapján, amelynek típusait jogszabály határozza meg (elsődleges eszközkategória típusa);
 
 f) a harmonizáció alapján ÁÉKBV-ként vagy ABA-ként (harmonizáció típusa).
 
@@ -30,4 +30,4 @@ f) a harmonizáció alapján ÁÉKBV-ként vagy ABA-ként (harmonizáció típus
 
 (9a) A kockázati tőkealap és a magántőkealap pénzkölcsönt nyújthat azzal, hogy a pénzkölcsön időtartama nem haladhatja meg a kockázati tőkealap, illetve a magántőkealap futamidejéből a kölcsönnyújtás időpontjában hátralévő teljes időtartamot.
 
-(10) Az értékpapíralapok és az ingatlanalapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.
+(10) A kockázati tőkealapok és a magántőkealapok kivételével a befektetési alapok befektetési jegyei szakmai és lakossági befektetőknek egyaránt forgalmazhatóak.

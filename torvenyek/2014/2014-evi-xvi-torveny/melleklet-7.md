@@ -98,7 +98,7 @@
 
 7. melléklet a 2014. évi XVI. törvényhez
 
-A nyilvános ingatlanalapok éves és féléves jelentésében közzéteendő kiegészítő információk
+A nyilvános ingatlanalapok, vegyes alapok éves és féléves jelentésében közzéteendő kiegészítő információk
 
 1. Az éves jelentésben az alábbi, ingatlanonkénti adatokat kell megadni:
 

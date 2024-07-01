@@ -1,16 +1,12 @@
-68. § (1) A nyilvános befektetési alap legkisebb induló saját tőkéje
+68. § (1) A nyilvános befektetési alap legkisebb induló saját tőkéje – az (1a) bekezdésben foglalt kivétellel – kétszázmillió forint.
 
-a) értékpapíralap esetén kétszázmillió forint,
+(1a) Az ingatlanalap és vegyes alap legkisebb induló saját tőkéje egymilliárd forint.
 
-b) ingatlanalap esetén egymilliárd forint.
+(2) A zártkörű befektetési alap legkisebb induló saját tőkéje – a (2a) és (2b) bekezdésben foglalt kivétellel – százmillió forint.
 
-(2) A zártkörű befektetési alap legkisebb induló saját tőkéje
+(2a) Az ingatlanalap és vegyes alap legkisebb induló saját tőkéje ötszázmillió forint.
 
-a) értékpapíralap esetében százmillió forint,
-
-b) ingatlanalap esetén ötszázmillió forint,
-
-c) kockázati tőkealap és magántőkealap esetén kettőszázötvenmillió forint.
+(2b) A kockázati tőkealap és magántőkealap legkisebb induló saját tőkéje kettőszázötvenmillió forint.
 
 (3) Amennyiben több sorozatba tartozó befektetési jegy kerül forgalomba hozatalra, a legkisebb induló saját tőkére vonatkozó előírásoknak csak a befektetési alap szintjén kell teljesülnie.
 
