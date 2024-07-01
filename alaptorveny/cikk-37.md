@@ -12,4 +12,4 @@
 
 (6) Az államadósság és a teljes hazai össztermék számítási módját, valamint a 36. cikkben és az (1)–(3) bekezdésben foglaltak végrehajtására vonatkozó szabályokat törvény határozza meg.
 
-(7)
+(7) Magyarország az Európai Uniónak olyan hitelfelvételéhez és az ahhoz kapcsolódó garanciavállaláshoz, amely Magyarország által teljesítendő fizetési kötelezettséget keletkeztet, az Országgyűlésnek az országgyűlési képviselők kétharmadának szavazatával elfogadott egyedi határozatával adott felhatalmazása alapján, a Kormány egyedi döntése alapján járulhat hozzá.

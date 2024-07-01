@@ -34,6 +34,8 @@ l) megerősíti tisztségében a Magyar Tudományos Akadémia elnökét és a Ma
 
 m) kialakítja hivatala szervezetét.
 
+n) gyakorolja az egyéni kegyelmezés jogát.
+
 (4) A köztársasági elnök
 
 a) az Országgyűlés felhatalmazása alapján elismeri a nemzetközi szerződés kötelező hatályát;
@@ -48,7 +50,7 @@ e) kinevezi és előlépteti a tábornokokat;
 
 f) törvényben meghatározott kitüntetéseket, díjakat és címeket adományoz, valamint engedélyezi külföldi állami kitüntetések viselését;
 
-g) gyakorolja az egyéni kegyelmezés jogát;
+g)
 
 h) dönt a feladat- és hatáskörébe tartozó területszervezési kérdésekben;
 
@@ -61,3 +63,5 @@ j) dönt mindazokban az ügyekben, amelyeket törvény a hatáskörébe utal.
 (6) A köztársasági elnök a (4) bekezdés b)–e) pontjában foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.
 
 (7) A köztársasági elnök a (4) bekezdés f) pontjában foglaltak teljesítését megtagadja, ha az az Alaptörvény értékrendjét sértené.
+
+(8) Sarkalatos törvény határozza meg azon, a gyermek sérelmére elkövetett szándékos bűncselekmények körét, amelyek tekintetében a köztársasági elnök a (3) bekezdés n) pontjában foglalt egyéni kegyelmezési jogát nem gyakorolhatja.

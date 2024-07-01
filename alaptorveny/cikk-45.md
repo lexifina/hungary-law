@@ -11,3 +11,9 @@
 (4) A Magyar Honvédség hivatásos állományú tagjai nem lehetnek tagjai pártnak, és nem folytathatnak politikai tevékenységet.
 
 (5) A Magyar Honvédség szervezetére, feladataira, irányítására és vezetésére, működésére vonatkozó részletes szabályokat sarkalatos törvény határozza meg.
+
+(6) A Magyar Honvédség hivatásos állományú tagjai jogállásáról a Kormány rendeletet alkot, amelyben a feladat- és hatáskörrel rendelkező miniszter részére felhatalmazást adhat a részletes szabályok megállapítására.
+
+(7) A Magyar Honvédség hivatásos állományú tagjainak a jogállásukkal összefüggő alapvető jogaira és kötelezettségeire vonatkozó szabályok a (6) bekezdés szerinti kormányrendeletben is megállapíthatóak.
+
+(8) A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben szakszervezet nem alakulhat és tevékenykedhet. A Magyar Honvédség hivatásos állományú tagja jogállásával összefüggésben működő más érdek-képviseleti szervezet a Kormány rendeletében meghatározott sajátos szabályok szerint alakulhat és tevékenykedhet.
