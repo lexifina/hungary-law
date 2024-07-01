@@ -2,4 +2,4 @@
 
 a) 5. § (3) bekezdésében az „Az uniós polgárnak nyújtható anyagi támogatás feltételeire külön jogszabály rendelkezései irányadóak.” szövegrész,
 
-b) 23. §-a.
+b)
