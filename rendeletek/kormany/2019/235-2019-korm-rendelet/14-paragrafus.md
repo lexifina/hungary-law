@@ -1,5 +1,3 @@
-## 13. §[^32] Az MTÜ jogosult a szálláshely-szolgáltatók, a vendéglátó üzlet üzemeltetők és a turisztikai attrakció üzemeltetők által átadott adatokat a turizmusfejlesztést segítő kutatási, fejlesztési feladataihoz felhasználni, valamint a rendelkezésére álló adatokból szakmai összefoglalókat, helyzetjelentéseket, értékeléseket, valamint előrejelzéseket készíteni, és ezeket – azonosításra alkalmatlan formában – nyilvánosságra hozni.
-
 ## 8. A turisztikai tárhelyszolgáltatással kapcsolatos adatfeldolgozási feladatok
 
 14. § (1) A turisztikai tárhelyszolgáltató – a szálláshely-szolgáltató adatfeldolgozójaként –
@@ -23,5 +21,3 @@ h) a szálláshely-szolgáltató rendelkezésére bocsát minden olyan informác
 i) haladéktalanul tájékoztatja a szálláshely-szolgáltatót arról, ha úgy véli, hogy annak valamely utasítása sérti a személyes adatok védelmére vonatkozó rendelkezéseket.
 
 (2) A turisztikai tárhelyszolgáltató által üzemeltetett informatikai rendszer a vendégadatokat titkosítottan tárolja.
-
-[^32]: A 13. § az 501/2021. (VIII. 18.) Korm. rendelet 31. §-ával megállapított szöveg.
