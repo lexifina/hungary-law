@@ -1,6 +1,6 @@
 ## 35. Automatikus információátadásra köteles együttműködő szervek
 
-150. §[^219] (1)[^220] Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv, továbbá ezen nyilvántartások vagy adatbázisok vezetésére, illetve működtetésére jogszabályban kötelezett valamennyi szervezet a KKSZB KEÜSZ útján jogszabályban rögzítettek szerint automatikus információátadási szolgáltatást nyújt, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe veszi, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő egyes adatok átadásának lehetőségét automatikus információátadás útján:
+150. §[^243] (1)[^244] Az alábbi nyilvántartások és adatbázisok adatai tekintetében – ha jogszabály eltérően nem rendelkezik – a nyilvántartást vagy adatbázist vezető együttműködő szerv, ennek hiányában a nyilvántartást vagy adatbázist működtető együttműködő szerv, továbbá ezen nyilvántartások vagy adatbázisok vezetésére, illetve működtetésére jogszabályban kötelezett valamennyi szervezet a KKSZB KEÜSZ útján jogszabályban rögzítettek szerint automatikus információátadási szolgáltatást nyújt, vagy azt központi szolgáltatásként a KKSZB KEÜSZ szolgáltatójától igénybe veszi, amelynek keretében biztosítja az alábbi nyilvántartásokban vagy adatbázisokban szereplő egyes adatok átadásának lehetőségét automatikus információátadás útján:
 
 1. a központi címregiszter,
 
@@ -90,7 +90,10 @@
 
 44. az ipar- és kereskedelmi szakrendszer.
 
+45.[^245] a digitális állampolgárság nyilvántartás.
+
 (2) Az (1) bekezdés szerinti nyilvántartásokban vagy adatbázisokban szereplő adat kizárólag a KKSZB KEÜSZ szolgáltatáson keresztül vehető igénybe.
 
-[^219]: A 150. § a 176/2019. (VII. 18.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
-[^220]: A 150. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet – a 375/2021. (VI. 30.) Korm. rendelet 31. § (1) bekezdése szerint módosított – 101. §-ával megállapított szöveg.
+[^243]: A 150. § a 176/2019. (VII. 18.) Korm. rendelet 11. § (10) bekezdésével megállapított szöveg.
+[^244]: A 150. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet – a 375/2021. (VI. 30.) Korm. rendelet 31. § (1) bekezdése szerint módosított – 101. §-ával megállapított szöveg.
+[^245]: A 150. § (1) bekezdés 45. pontját a 138/2024. (VI. 28.) Korm. rendelet 7. § (1) bekezdése iktatta be.

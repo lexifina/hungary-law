@@ -1,4 +1,4 @@
-## 22/A. §[^19] Az elektronikus úton benyújtott beadványokban szereplő, a benyújtási jogosultság igazolása érdekében az ügyfél vagy az ügyfél képviselője által megadott személyes adatokat az elektronikus ügyintézést biztosító szerv a benyújtási jogosultság sikeres ellenőrzéséig kezeli.
+## 22/A. §[^21] Az elektronikus úton benyújtott beadványokban szereplő, a benyújtási jogosultság igazolása érdekében az ügyfél vagy az ügyfél képviselője által megadott személyes adatokat az elektronikus ügyintézést biztosító szerv a benyújtási jogosultság sikeres ellenőrzéséig kezeli.
 
 ## 9. Az ügyfél rendelkezési joga
 
@@ -20,4 +20,4 @@ g) az E-ügyintézési tv. 15. § (5) bekezdése szerinti tájékoztatási cél�
 
 h) az arra vonatkozó kizáró nyilatkozat tekintetében, hogy az elektronikus ügyintézést biztosító szerv az E-ügyintézési tv. 16. § (3) bekezdése szerinti, a kapcsolattartás lényeges körülményeiről és a megtett nyilatkozatokról készített összefoglalót elektronikus úton küldje meg, az ilyen összefoglaló kiküldését megelőzően.
 
-[^19]: A 22/A. §-t a 6/2020. (I. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^21]: A 22/A. §-t a 6/2020. (I. 31.) Korm. rendelet 15. § (2) bekezdése iktatta be.

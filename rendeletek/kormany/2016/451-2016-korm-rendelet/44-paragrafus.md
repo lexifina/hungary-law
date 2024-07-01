@@ -1,4 +1,4 @@
-44. § (1)[^30] Az országos telefonos ügyfélszolgálat az ügyfelek részére az alábbi szolgáltatásokat nyújtja:
+44. § (1)[^36] Az országos telefonos ügyfélszolgálat az ügyfelek részére az alábbi szolgáltatásokat nyújtja:
 
 a) elektronikus ügyintézés támogatása;
 
@@ -12,11 +12,11 @@ c) az Ügyfélkapu-regisztrációval már rendelkező felhasználó részére a 
 
 d) egyéb jogszabályban meghatározott szolgáltatások.
 
-(2)[^31] Az országos telefonos ügyfélszolgálat – a működtetője, és az ügyben feladat- és hatáskörrel rendelkező szerv által kötött megállapodása alapján – a következő szolgáltatásokat nyújthatja:
+(2)[^37] Az országos telefonos ügyfélszolgálat – a működtetője, és az ügyben feladat- és hatáskörrel rendelkező szerv által kötött megállapodása alapján – a következő szolgáltatásokat nyújthatja:
 
 a) központi időpontfoglalás biztosítása;
 
-b)[^32] az ügyfelek által kezdeményezett egyes hatósági ügyekben
+b)[^38] az ügyfelek által kezdeményezett egyes hatósági ügyekben
 
 ba) telefonos azonosítás,
 
@@ -32,7 +32,7 @@ c) egyedi hatósági ügyekben a folyamatban lévő ügy aktuális állapotával
 
 (3) Az országos telefonos ügyfélszolgálat közigazgatási hatósági jogkör ellátására jogosult a (2) bekezdés b) és c) pontja vonatkozásában.
 
-(4)[^33] Ha az (1) és (2) bekezdésben meghatározott feladatok teljesítése során az ügyfél olyan bejelentést tesz, amely a panaszokról és közérdekű bejelentésekről szóló törvény szerinti panasznak minősül, az az országos telefonos ügyfélszolgálat rendszerében kerül rögzítésre, kezelése a törvény rendelkezései szerint történik, továbbítását az érintett szervhez és erről az ügyfél értesítését az országos telefonos ügyfélszolgálatot működtető szerv ügyintézője is elláthatja.
+(4)[^39] Ha az (1) és (2) bekezdésben meghatározott feladatok teljesítése során az ügyfél olyan bejelentést tesz, amely a panaszokról és közérdekű bejelentésekről szóló törvény szerinti panasznak minősül, az az országos telefonos ügyfélszolgálat rendszerében kerül rögzítésre, kezelése a törvény rendelkezései szerint történik, továbbítását az érintett szervhez és erről az ügyfél értesítését az országos telefonos ügyfélszolgálatot működtető szerv ügyintézője is elláthatja.
 
 (5) Az országos telefonos ügyfélszolgálat az (1) bekezdés b) pontja szerinti tájékoztatás keretében – ha a feladat- és határkörrel rendelkező szervvel erről megállapodott –
 
@@ -40,10 +40,10 @@ a) a hívást a feladat- és határkörrel rendelkező szerv telefonos ügyféls
 
 b) kezdeményezheti, hogy a feladat- és hatáskörrel rendelkező szerv az ügyfelet visszahívja.
 
-(6)[^34] A feladat- és hatáskörrel rendelkező szerv a működtetővel a (2) bekezdés szerinti megállapodást csak a feladat- és hatáskörrel rendelkező szerv felügyeletét vagy irányítását ellátó szerv jóváhagyásával kötheti meg.
+(6)[^40] A feladat- és hatáskörrel rendelkező szerv a működtetővel a (2) bekezdés szerinti megállapodást csak a feladat- és hatáskörrel rendelkező szerv felügyeletét vagy irányítását ellátó szerv jóváhagyásával kötheti meg.
 
-[^30]: A 44. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 87. §-ával megállapított szöveg.
-[^31]: A 44. § (2) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
-[^32]: A 44. § (2) bekezdés b) pontja a 717/2021. (XII. 20.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
-[^33]: A 44. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
-[^34]: A 44. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^36]: A 44. § (1) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^37]: A 44. § (2) bekezdés nyitó szövegrésze a 179/2018. (X. 2.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^38]: A 44. § (2) bekezdés b) pontja a 717/2021. (XII. 20.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^39]: A 44. § (4) bekezdése a 179/2018. (X. 2.) Korm. rendelet 33. § c) pontja szerint módosított szöveg.
+[^40]: A 44. § (6) bekezdése a 179/2018. (X. 2.) Korm. rendelet 8. §-ával megállapított szöveg.

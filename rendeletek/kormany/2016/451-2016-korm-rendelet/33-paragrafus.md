@@ -8,7 +8,7 @@
 
 (4) A közfeladatot ellátó szervnek nem minősülő elektronikus ügyintézést biztosító szerv az ügyben keletkezett iratot, kép- és hangfelvételt [a (4)–(7) bekezdés alkalmazásában a továbbiakban együtt: elektronikus irat] – ha jogszabály eltérően nem rendelkezik – e rendelet szerint köteles megőrizni. A megőrzést az elektronikus ügyintézést biztosító szerv jogszabályban meghatározott követelményeknek megfelelő szolgáltató igénybevételével is megvalósíthatja.
 
-(5)[^23] Az elektronikus iratokat olyan irattárolási megoldás alkalmazásával kell megőrizni, amely az elektronikus irat hitelességének tartós megőrzését is biztosítja.
+(5)[^25] Az elektronikus iratokat olyan irattárolási megoldás alkalmazásával kell megőrizni, amely az elektronikus irat hitelességének tartós megőrzését is biztosítja.
 
 (6) A (4) bekezdés szerinti elektronikus ügyintézést biztosító szerv iratkezelési szabályzatot készít, amely tartalmazza legalább:
 
@@ -28,4 +28,4 @@ b) az elektronikus másolat nem tartalmaz minden, a joghatás kiváltása és a 
 
 c) a papíralapú irat megőrzését jogszabály előírja.
 
-[^23]: A 33. § (5) bekezdése az 530/2023. (XII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^25]: A 33. § (5) bekezdése az 530/2023. (XII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

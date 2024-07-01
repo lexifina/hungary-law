@@ -6,13 +6,13 @@
 
 ## 135. § A felügyelet feladata:
 
-a) a SZEÜSZ-ökre és KEÜSZ-ökre vonatkozó jogszabályok megalkotásának, módosításának kezdeményezése;
+a)[^211] a szolgáltatásokra vonatkozó jogszabályok megalkotásának, módosításának kezdeményezése;
 
 b) az elektronikus ügyintézést érintő jogszabálytervezetek véleményezése;
 
-c)[^190] a SZEÜSZ-ök, a KEÜSZ-ök, az elektronikusan intézhető ügyek és az elektronikus ügyintézést biztosító szervek nyilvántartása;
+c)[^212] a szolgáltatások, az elektronikusan intézhető ügyek és az elektronikus ügyintézést biztosító szervek nyilvántartása;
 
-d) a SZEÜSZ-ök és KEÜSZ-ök ellenőrzése;
+d)[^213] a szolgáltatások ellenőrzése;
 
 e) a hozzá érkező bejelentések kivizsgálása;
 
@@ -26,4 +26,6 @@ i) műszaki irányelvek elfogadása;
 
 j) az együttműködő szervek az E-ügyintézési tv.-ben szabályozott tevékenységeinek felügyelete.
 
-[^190]: A 135. § c) pontja a 179/2018. (X. 2.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^211]: A 135. § a) pontja a 138/2024. (VI. 28.) Korm. rendelet 8. § 16. pontja szerint módosított szöveg.
+[^212]: A 135. § c) pontja a 179/2018. (X. 2.) Korm. rendelet 26. §-ával megállapított, a 138/2024. (VI. 28.) Korm. rendelet 8. § 17. pontja szerint módosított szöveg.
+[^213]: A 135. § d) pontja a 138/2024. (VI. 28.) Korm. rendelet 8. § 18. pontja szerint módosított szöveg.

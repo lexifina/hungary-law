@@ -1,10 +1,10 @@
-## 37/A. [^233] Az információforrások regisztere
+## 37/A. [^258] Az információforrások regisztere
 
-152/A. § (1)[^234] Az információforrások regisztere azon információk tekintetében, amelyek vonatkozásában az együttműködő szerv elektronikus információátadásra köteles, tartalmazza a 151. § szerinti adatokat.
+152/A. § (1)[^259] Az információforrások regisztere azon információk tekintetében, amelyek vonatkozásában az együttműködő szerv elektronikus információátadásra köteles, tartalmazza a 151. § szerinti adatokat.
 
 (2) Az információforrások regisztere az (1) bekezdés szerinti adatokat – az adatok első rögzítését követően öt évig – visszakereshető formában tartalmazza.
 
 (3) A felügyelet az információforrások regiszterét a 34. § (2) és (3) bekezdésében meghatározott módon közzéteszi.
 
-[^233]: A 37/A. alcímet (152/A. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
-[^234]: A 152/A. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^258]: A 37/A. alcímet (152/A. §) a 221/2017. (VIII. 7.) Korm. rendelet 7. § (12) bekezdése iktatta be.
+[^259]: A 152/A. § (1) bekezdése a 179/2018. (X. 2.) Korm. rendelet 32. §-ával megállapított szöveg.

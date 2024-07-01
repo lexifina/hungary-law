@@ -22,10 +22,10 @@ j) melyek a kézbesítéssel, illetve a kézbesítéssel kapcsolatos egyes tevé
 
 k) a szolgáltató az általa továbbított üzenet tartalmát megismerheti-e, helyre tudja-e állítani, és ha igen, milyen esetben,
 
-l)[^65] az át nem vett üzenetekkel kapcsolatos eljárásrendet,
+l)[^84] az át nem vett üzenetekkel kapcsolatos eljárásrendet,
 
 m) milyen informatikai és nem informatikai eszközökkel biztosítja a szolgáltató a levéltitok megőrzését, valamint
 
 n) a szolgáltatón, a feladón és a címzetten kívül ki és milyen esetben ismerheti meg az üzenet tartalmát.
 
-[^65]: A 74. § l) pontja az 572/2020. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg.
+[^84]: A 74. § l) pontja az 572/2020. (XII. 9.) Korm. rendelet 93. §-ával megállapított szöveg.

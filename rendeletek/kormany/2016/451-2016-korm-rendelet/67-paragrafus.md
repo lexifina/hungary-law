@@ -2,7 +2,7 @@
 
 ## A szolgáltatásnyújtásra vonatkozó biztonsági követelmények
 
-67. § (1) A SZEÜSZ, KEÜSZ nyújtásához alkalmazott informatikai rendszernek biztosítania kell, hogy:
+67. § (1)[^67] A szolgáltatás nyújtásához alkalmazott informatikai rendszernek biztosítania kell, hogy:
 
 a) a rendszerben található adatok gyűjtése, felvétele, rögzítése, rendszerezése, tárolása, megváltoztatása, felhasználása, továbbítása, nyilvánosságra hozatala, összehangolása vagy összekapcsolása, zárolása, törlése és megsemmisítése, valamint az adatok további felhasználásának megakadályozása az adatkezelést szabályozó törvényi előírások betartásával történjen (törvényes adatkezelés),
 
@@ -15,3 +15,5 @@ d) a rendszerben kezelt adatokat, illetve az informatikai rendszer elemeit az ar
 e) érvényesüljenek a zárt, teljes körű, folytonos és a kockázatokkal arányos védelem követelményei.
 
 (2) Az (1) bekezdésben meghatározott követelmények teljesülése érdekében a szolgáltatónak meg kell felelnie az állami és önkormányzati szervek elektronikus információbiztonságáról szóló törvény és végrehajtására kiadott rendeletekben foglalt feltételeknek, és a szolgáltatást – valamint, ha elkülönült egységet alkotnak, a részszolgáltatást – nyújtó informatikai rendszert is e jogszabályok szerinti biztonsági osztályba kell sorolni.
+
+[^67]: A 67. § (1) bekezdés nyitó szövegrésze a 138/2024. (VI. 28.) Korm. rendelet 8. § 15. pontja szerint módosított szöveg.

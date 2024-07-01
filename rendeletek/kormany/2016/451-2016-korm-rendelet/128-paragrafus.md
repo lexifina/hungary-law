@@ -12,6 +12,6 @@
 
 (6) Az (5) bekezdés szerinti korlátozás nem terjed ki a szolgáltató azon azonosítás kéréseire, amikor biztonsági megfontolásból szükséges az ügyfél ismételt azonosítása, függetlenül annak biztonsági szintjétől.
 
-(7)[^159] Az 1. § (4) bekezdése szerinti, elektronikus úton elérhető egyablakos tájékoztatási és ügyintézési pont kialakításáról és működtetéséről a SZÜF szolgáltatója – az infrastruktúra és alkalmazásüzemeltetés és -fejlesztés tekintetében a SZÜF szolgáltatásra vonatkozó szabályoknak megfelelően – gondoskodik.
+(7)[^180] Az 1. § (4) bekezdése szerinti, elektronikus úton elérhető egyablakos tájékoztatási és ügyintézési pont kialakításáról és működtetéséről a SZÜF szolgáltatója – az infrastruktúra és alkalmazásüzemeltetés és -fejlesztés tekintetében a SZÜF szolgáltatásra vonatkozó szabályoknak megfelelően – gondoskodik.
 
-[^159]: A 128. § (7) bekezdését az 528/2023. (XII. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^180]: A 128. § (7) bekezdését az 528/2023. (XII. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
