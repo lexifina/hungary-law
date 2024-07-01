@@ -24,7 +24,7 @@ c) a másodfokú hatóság által hozott önálló jogorvoslattal támadható v�
 
 d) ha nincs kijelölt másodfokú hatóság,
 
-e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben,
+e) nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben, kivéve, ha kormányrendelet a fellebbezést nemzetgazdasági szempontból kiemelt jelentőségűvé nyilvánított ügyben is lehetővé teszi,
 
 f) ha a hatósági szerződés alapján végrehajtást rendeltek el.
 
