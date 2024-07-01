@@ -1,0 +1,1 @@
+1. § A könyvtári anyagok bejelentéséről szóló 7/1985. (IV. 26.) MM rendelet 7. § (2) bekezdésében a „Művelődési és Közoktatási Minisztériumnak” szövegrész helyébe a „kultúráért felelős miniszter által vezetett minisztériumnak” szöveg lép.
