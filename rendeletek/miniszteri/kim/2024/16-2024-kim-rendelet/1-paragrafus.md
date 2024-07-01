@@ -1,0 +1,1 @@
+1. § Az országos múzeum, az országos szakmúzeum, a nemzeti könyvtár, az országos szakkönyvtár és az állami egyetem könyvtárának kiemelt feladatairól szóló 30/2014. (IV. 10.) EMMI rendelet 4. §-ában az „e)–f) pontja” szövegrész helyébe az „e) és f) pontja” szöveg lép.
