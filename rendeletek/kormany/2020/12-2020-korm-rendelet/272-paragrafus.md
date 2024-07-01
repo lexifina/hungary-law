@@ -1,21 +1,25 @@
 ## 93. Az Szkt. 93. § (3) bekezdéséhez
 
-272. § (1) A vizsgabizottság három tagból áll, amelynek
+272. § (1)[^399] A vizsgabizottság három tagból áll, akik végzik a vizsgázó tudásának felmérését, valamint minősítik a vizsgázó teljesítményét.
 
-a) mérési feladatokat ellátó tagja végzi a vizsgázó tudásának felmérését,
+(1a)[^400] A vizsgabizottság ellenőrzési feladatokat ellátó tagja felel a szakmai vizsga szabályszerűségéért, emellett elláthatja az (1) bekezdés szerinti feladatokat is.
 
-b) ellenőrzési feladatokat ellátó tagja felel a szakmai vizsga szabályszerűségéért,
+(2)[^401] A vizsgafelügyelői feladatokat a vizsgabizottság (1a) bekezdése szerinti tagja látja el.
 
-c) értékelési feladatokat ellátó tagja minősíti a vizsgázó teljesítményét.
+(2a)[^402] A vizsgabizottság valamely tagja a vizsgázó személyazonosságát valamennyi vizsgatevékenység megkezdésekor ellenőrzi.
 
-(2) A vizsgafelügyelői feladatokat a vizsgabizottság (1) bekezdés b) pontja szerinti tagja látja el.
+(3)[^403] A vizsgabizottság ellenőrzési feladatokat ellátó tagját a szakmai vizsga helyszíne szerint illetékes gazdasági kamara delegálja. A jogszabálynak megfelelő delegálás hiányában a vizsgabizottság ellenőrzési feladatokat ellátó tagját az akkreditált szakképzési vizsgaközpont bízza meg. A delegált tag megbízását az akkreditált szakképzési vizsgaközpont indokolással megtagadhatja, és helyette határidő tűzésével más személy delegálását kezdeményezheti.
 
-(3) A vizsgabizottság ellenőrzési feladatokat ellátó tagját a szakmai vizsga helyszíne szerint területileg illetékes gazdasági kamara delegálja, delegálás hiányában az akkreditált vizsgaközpont bízza meg. A delegált tag megbízását az akkreditált vizsgaközpont megtagadhatja és helyette határidő tűzésével más személy delegálását kezdeményezheti. A megtagadás indokának valósnak és okszerűnek kell lennie.
-
-(4)[^358] A vizsgafelügyelő, illetve a vizsgabizottság további tagja nem lehet az, aki a vizsgázó szakmai vizsgára történő felkészítésében részt vett, vagy a vizsgázó hozzátartozója. A vizsgafelügyelő és a vizsgabizottság további tagja csak olyan személy lehet, aki a vizsgán megszerezhető szakma oktatásához jogszabályban előírt feltételekkel rendelkezik. A vizsgabizottság mérési feladatokat ellátó tagja csak olyan személy lehet, aki megbízása időpontjában a vizsgán megszerezhető szakma képzési területe tekintetében rendszeres oktatási tevékenységet folytat.
+(4)[^404] A vizsgafelügyelő, illetve a vizsgabizottság tagja nem lehet az, aki a vizsgázó szakmai vizsgára történő felkészítésében részt vett, vagy a vizsgázó hozzátartozója. A vizsgafelügyelő és a vizsgabizottság tagja csak olyan személy lehet, aki a vizsgán megszerezhető szakma oktatásához jogszabályban előírt feltételekkel rendelkezik. A vizsgabizottság egyik tagja csak olyan személy lehet, aki megbízása időpontjában a vizsgán megszerezhető szakma képzési területe tekintetében rendszeres oktatási tevékenységet folytat.
 
 (5) Ha a szakmai vizsga nyelve nem magyar, vagy a képzési és kimeneti követelmények a vizsgára bocsátás feltételeként középfokú nyelvvizsgát írnak elő, és a szakmai vizsga idegen nyelvi követelményeket is tartalmaz, legalább a vizsgafelügyelőnek a szakmai vizsga nyelvét anyanyelven kell beszélnie, vagy abból a KER szerinti C1 szintű államilag elismert nyelvvizsgával vagy azzal egyenértékű okirattal kell rendelkeznie. A vizsgán – a 297. § (2) bekezdésében meghatározott kivétellel – tolmács nem vehető igénybe.
 
-(6) A vizsgafelügyelőnek és a vizsgabizottság további tagjának megbízása az adott szakmai vizsgára szól. A vizsgabizottságban betöltött tisztség az arra vonatkozó megbízás elfogadásával jön létre.
+(6)[^405] A vizsgafelügyelőnek és a vizsgabizottság tagjának megbízása az adott szakmai vizsgára szól. A vizsgabizottságban betöltött tisztség az arra vonatkozó megbízás elfogadásával jön létre.
 
-[^358]: A 272. § (4) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 63. pontja szerint módosított szöveg.
+[^399]: A 272. § (1) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^400]: A 272. § (1a) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^401]: A 272. § (2) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 46. pontja szerint módosított szöveg.
+[^402]: A 272. § (2a) bekezdését a 129/2024. (VI. 17.) Korm. rendelet 9. § (3) bekezdése iktatta be.
+[^403]: A 272. § (3) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^404]: A 272. § (4) bekezdése a 292/2023. (VII. 6.) Korm. rendelet 47. § 63. pontja, a 129/2024. (VI. 17.) Korm. rendelet 18. § 47. pontja szerint módosított szöveg.
+[^405]: A 272. § (6) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.

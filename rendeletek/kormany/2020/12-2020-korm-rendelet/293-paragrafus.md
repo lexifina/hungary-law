@@ -1,6 +1,6 @@
 ## XXXVI. Fejezet
 
-## A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ ÉS A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY FOGYATÉKKAL ÉLŐ SZEMÉLY FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA[^365]
+## A BEILLESZKEDÉSI, TANULÁSI, MAGATARTÁSI NEHÉZSÉGGEL KÜZDŐ TANULÓ ÉS A SAJÁTOS NEVELÉSI IGÉNYŰ VAGY FOGYATÉKKAL ÉLŐ SZEMÉLY FELKÉSZÍTÉSE ÉS SZAKMAI VIZSGÁJA[^431]
 
 ## 97. Az Szkt. 4. § (4) bekezdéséhez, 35. § (4) bekezdéséhez, 60. § (2) bekezdéséhez és 94. §-ához
 
@@ -12,7 +12,7 @@ b) biztosítja az egyéni adottságához, fejlettségéhez igazodó egyéni elő
 
 c) segítséget nyújt ahhoz, hogy kötelezettségeit teljesíteni tudja.
 
-(2)[^366] A szakképző intézmény az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel a sajátos nevelési igényű vagy fogyatékkal élő személy részére
+(2)[^432] A szakképző intézmény az Nkt. szerinti szakértői bizottság szakértői véleményére tekintettel a sajátos nevelési igényű vagy fogyatékkal élő személy részére
 
 a) – a sajátos nevelési igényéből, illetve fogyatékosságából eredő hátránya csökkentéséhez szükséges mértékben – egészségügyi és pedagógiai célú habilitációs, rehabilitációs foglalkozást biztosít,
 
@@ -22,5 +22,5 @@ c) segítséget nyújt ahhoz, hogy kötelezettségeit teljesíteni tudja.
 
 (3) Az (1) és (2) bekezdésben meghatározott kedvezményekről az igazgató dönt. Az igazgató az Nkt. szerinti szakértői bizottság szakértői véleményétől nem térhet el.
 
-[^365]: A XXXVI. fejezet címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 78. pontja szerint módosított szöveg.
-[^366]: A 293. § (2) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 79. pontja szerint módosított szöveg.
+[^431]: A XXXVI. fejezet címe a 380/2021. (VI. 30.) Korm. rendelet 58. § 78. pontja szerint módosított szöveg.
+[^432]: A 293. § (2) bekezdés nyitó szövegrésze a 380/2021. (VI. 30.) Korm. rendelet 58. § 79. pontja szerint módosított szöveg.

@@ -8,22 +8,25 @@
 
 3. – a vizsgatörzslappal azonosan – a vizsgázó természetes személyazonosító adatát és oktatási azonosító számát,
 
-4. a kiállító akkreditált vizsgaközpont nevét, címét és – ha az akkreditált vizsgaközpont szakképző intézmény – OM azonosítóját,
+4.[^99] a kiállító akkreditált szakképzési vizsgaközpont nevét, címét és – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM azonosítóját,
 
 5. a szakmai vizsga nyelvét,
 
 6. a szakmai vizsga eredményét,
 
-7.[^91] a megszerzett szakma azonosító számának, megnevezésének és szakmairányának megjelölésével tájékoztatást arról, hogy az oklevél, illetve a szakmai bizonyítvány melyik szakma megszerzését igazolja,
+7.[^100] a megszerzett szakma azonosító számának, megnevezésének és szakmairányának megjelölésével tájékoztatást arról, hogy az oklevél, illetve a szakmai bizonyítvány melyik szakma megszerzését igazolja,
 
 8. a megszerzett szakma Európai Képesítési Keretrendszer, Magyar Képesítési Keretrendszer és Digitális Kompetencia Keretrendszer szerinti szintjének meghatározására vonatkozó megjelölését,
 
 9. az oklevél, illetve a szakmai bizonyítvány kiállításának helyét és idejét, valamint
 
-10. az akkreditált vizsgaközpont vezetőjének aláírását.
+10.[^101] az akkreditált szakképzési vizsgaközpont vezetőjének aláírását.
 
 (3) Csak olyan oklevél, illetve szakmai bizonyítvány használható, amely az aláíráshoz kapcsolódóan Magyarország címerét előre nyomott képként tartalmazza.
 
-(4) Az oklevelet, illetve a szakmai bizonyítványt a szakmai vizsga jegyzője a törzslap alapján – a törzslapon szereplő adatokkal egyezően – tölti ki, és azt az akkreditált vizsgaközpont vezetője írja alá.
+(4)[^102] Az oklevelet, illetve a szakmai bizonyítványt a szakmai vizsga jegyzője a törzslap alapján – a törzslapon szereplő adatokkal egyezően – tölti ki, és azt az akkreditált szakképzési vizsgaközpont vezetője írja alá.
 
-[^91]: A 34. § (2) bekezdés 7. pontja a 95/2021. (II. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^99]: A 34. § (2) bekezdés 4. pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 7. pontja szerint módosított szöveg.
+[^100]: A 34. § (2) bekezdés 7. pontja a 95/2021. (II. 27.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^101]: A 34. § (2) bekezdés 10. pontja a 129/2024. (VI. 17.) Korm. rendelet 18. § 8. pontja szerint módosított szöveg.
+[^102]: A 34. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 9. pontja szerint módosított szöveg.

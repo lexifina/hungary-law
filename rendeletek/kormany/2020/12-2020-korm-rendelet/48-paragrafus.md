@@ -8,7 +8,7 @@ c) a szakképzésialapfeladat-ellátás minőségének biztosítása és fejlesz
 
 d) a szakképzésért felelős miniszter által kiadott módszertani javaslat alapján elkészíti az oktatók értékelési rendszerét.
 
-(2)[^109] Az oktatók értékelését – a minőségpolitikában meghatározottak szerint – az igazgató végzi. Az oktatók értékelési rendszere keretében az igazgató a további intézményvezetők és – döntése alapján – külső szakértő bevonásával legalább háromévente
+(2)[^124] Az oktatók értékelését – a minőségpolitikában meghatározottak szerint – az igazgató végzi. Az oktatók értékelési rendszere keretében az igazgató a további intézményvezetők és – döntése alapján – külső szakértő bevonásával legalább háromévente
 
 a) értékeli az oktató munkáját, erősségeket és fejlesztendő területeket határoz meg, jóváhagyja az oktató által az értékelés megállapításaihoz kapcsolódóan készített cselekvési tervet,
 
@@ -28,4 +28,4 @@ bf) személyiségfejlesztő, csoportvezetői, tanulás támogató tevékenység�
 
 bg) innovációs tevékenységét és szakmai elkötelezettségét.
 
-[^109]: A 48. § (2) bekezdés nyitó szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.
+[^124]: A 48. § (2) bekezdés nyitó szövegrésze a 292/2023. (VII. 6.) Korm. rendelet 47. § 17. pontja szerint módosított szöveg.

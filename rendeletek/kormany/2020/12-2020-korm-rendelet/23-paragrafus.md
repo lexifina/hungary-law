@@ -1,9 +1,5 @@
-23. § (1) Az akkreditált vizsgaközpontnak folyamatosan meg kell felelnie az általános, továbbá – az adott szakmai vizsga, illetve képesítő vizsga szervezésének és az adott szakmai vizsgának, illetve képesítő vizsgának az időtartama alatt – a vizsgáztatott szakmára, illetve szakmai képzéshez kapcsolódóan megszerezhető szakképesítésre meghatározott speciális szakmai, tárgyi és személyi feltételeknek.
+23. §[^61] (1) Az akkreditált szakképzési vizsgaközpontnak folyamatosan meg kell felelnie – az adott szakmai vizsga, illetve képesítő vizsga szervezésének és az adott szakmai vizsgának, illetve képesítő vizsgának az időtartama alatt – a vizsgáztatott szakmára, illetve szakmai képzéshez kapcsolódóan megszerezhető szakképesítésre vonatkozó, a 22. § (1) bekezdés d) pontjában meghatározott feltételeknek és szempontrendszernek.
 
-(1a)[^55] A képesítő vizsga lebonyolításához szükséges adatok (ideértve a vizsgatörzslapot is) és a képesítő vizsga alapján kiadott képesítő bizonyítványok adatainak nyilvántartására az akkreditált vizsgaközpont az elektronikus vizsgarendszert használja.
+(2) A képesítő vizsga lebonyolításához szükséges adatok (ideértve a vizsgatörzslapot is) és a képesítő vizsga alapján kiadott képesítő bizonyítványok adatainak nyilvántartására az akkreditált szakképzési vizsgaközpont a szakképzési államigazgatási szervnek az erre a célra kialakított elektronikus felületét (a továbbiakban: elektronikus vizsgarendszer) használja.
 
-(2) Az akkreditáció – az abban meghatározott szakma, illetve szakmai képzéshez kapcsolódóan megszerezhető szakképesítés tekintetében az abban meghatározott vizsgahelyszínen – az akkreditálási okiraton feltüntetett időpontig jogosít szakmai vizsga, illetve képesítő vizsga szervezésére.
-
-(3) A szabványkövetelmények közül az újratanúsításra vonatkozó követelményt nem kell alkalmazni.
-
-[^55]: A 23. § (1a) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 6. §-a iktatta be.
+[^61]: A 23. § a 129/2024. (VI. 17.) Korm. rendelet 3. §-ával megállapított szöveg.
