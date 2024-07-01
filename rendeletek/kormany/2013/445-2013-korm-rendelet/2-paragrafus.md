@@ -88,6 +88,24 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 
 35.[^28] tartós munkaviszony: a munkáltatónál fennálló, legalább 6 hónap időtartamú, folyamatos munkaviszony.
 
+36.[^29] kiemelt beruházás:
+
+a) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvény (a továbbiakban: 2015. évi VII. törvény) 1. §-a szerinti beruházás,
+
+b) a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvény (a továbbiakban: 2020. évi XXIX. törvény) 1. §-a szerinti beruházás;
+
+37.[^30] kiemelt fővállalkozó:
+
+a) a 2015. évi VII. törvényben meghatározott fővállalkozó,
+
+b) a 2020. évi XXIX. törvényben meghatározott fővállalkozó;
+
+38.[^31] kiemelt alvállalkozó:
+
+a) a 2015. évi VII. törvényben meghatározott alvállalkozó (ideértve az alvállalkozó 2015. évi VII. törvény 2. § a) pontja szerinti alvállalkozóját is),
+
+b) a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztése, kivitelezése és finanszírozása kapcsán született Egyezmény kihirdetéséről szóló 2016. évi XXIV. törvényben meghatározott alvállalkozó.
+
 [^1]: A 2. § 1. pontja a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 171. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § 2. pontja a 35/2024. (II. 29.) Korm. rendelet 300. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § 6. pontja a 35/2024. (II. 29.) Korm. rendelet 300. § (2) bekezdésével megállapított szöveg.
@@ -116,3 +134,6 @@ c) a külföldi állampolgár által, Magyarországon alapított – az egyéni 
 [^26]: A 2. § 33. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
 [^27]: A 2. § 34. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
 [^28]: A 2. § 35. pontját a 35/2024. (II. 29.) Korm. rendelet 300. § (5) bekezdése iktatta be.
+[^29]: A 2. § 36. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^30]: A 2. § 37. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.
+[^31]: A 2. § 38. pontját a 166/2024. (VI. 28.) Korm. rendelet 6. §-a iktatta be.

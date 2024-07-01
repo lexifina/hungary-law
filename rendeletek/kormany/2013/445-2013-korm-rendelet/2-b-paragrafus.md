@@ -1,4 +1,4 @@
-2/B. §[^30] (1) Magyarország területén beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély, foglalkoztatási célú tartózkodási engedély, valamint vendégmunkás-tartózkodási engedély alapján történő munkavállalás céljából, a Btátv. IV. Fejezete szerinti vendégmunkással nem hozhat létre foglalkoztatásra irányuló jogviszonyt
+2/B. §[^33] (1) Magyarország területén beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély, foglalkoztatási célú tartózkodási engedély, valamint vendégmunkás-tartózkodási engedély alapján történő munkavállalás céljából, a Btátv. IV. Fejezete szerinti vendégmunkással nem hozhat létre foglalkoztatásra irányuló jogviszonyt
 
 a) a Kormány, illetve a Kormány tagja irányítása vagy felügyelete alá tartozó költségvetési szerv,
 
@@ -14,4 +14,4 @@ cc) a ca) vagy cb) alpont szerinti gazdasági társaság közvetlen vagy közvet
 
 (2) A Kormány által kijelölt személy az (1) bekezdés c) pontja szerinti gazdasági társaság vonatkozásában az (1) bekezdés szerinti tilalom alól nyomós indok esetén, az érintett gazdasági társaság felett az állam nevében tulajdonosi jogokat gyakorló, vagy a gazdasági társaság tulajdonosa vagy tulajdonosi joggyakorlója felett tulajdonosi, irányítási, felügyeleti jogokat gyakorló miniszter kezdeményezése alapján mentesítést adhat.
 
-[^30]: A 2/B. §-t a 79/2024. (IV. 8.) Korm. rendelet 1. §-a iktatta be.
+[^33]: A 2/B. §-t a 79/2024. (IV. 8.) Korm. rendelet 1. §-a iktatta be.
