@@ -20,7 +20,13 @@ f) a Honvédelmi Minisztérium vagyonkezelésében álló terület esetében a h
 
 g) a határrendészeti és nemzetbiztonsági feladatok ellátására kijelölt terület esetében a határrendészeti kirendeltség, annak hiányában a rendőrkapitányság.
 
-(5) Az Evt. 104/A. § (1) bekezdés b) pontjában foglalt bejelentések esetében a hiánytalan bejelentést az erdészeti hatóság külön vizsgálat nélkül elektronikus úton haladéktalanul továbbítja a természetvédelmi hatóság részére.
+(5)[^30] Az Evt. 104/A. § (1) bekezdés b) pont
+
+a) ba), bc) és bd) alpontjában foglalt bejelentések esetében az erdészeti hatóság,
+
+b) bb) alpontjában foglalt bejelentések esetében a NÉBIH
+
+a hiánytalan bejelentést külön vizsgálat nélkül, elektronikus úton, haladéktalanul továbbítja a természetvédelmi hatóság részére.
 
 (6) A 8. § (1) bekezdésben foglalt bejelentést az ügyfélkapun keresztül is lehet tenni.
 
@@ -30,8 +36,9 @@ a) a bejelentés időpontjának a bejelentés elküldése számít, valamint
 
 b) az erdészeti hatóság az ügyfélkapun keresztül legkésőbb a bejelentett tevékenységre való jogszerzés Evt.-ben rögzített időpontjáig
 
-ba)[^30]
+ba)[^31]
 
 bb) tájékoztatja a bejelentőt a bejelentett tevékenység megtiltására, korlátozására, illetve feltételekhez kötésére irányuló eljárás megindításáról.
 
-[^30]: A 12. § (7) bekezdés b) pont ba) alpontját a 360/2019. (XII. 30.) Korm. rendelet 186. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^30]: A 12. § (5) bekezdése a 89/2024. (IV. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^31]: A 12. § (7) bekezdés b) pont ba) alpontját a 360/2019. (XII. 30.) Korm. rendelet 186. § (2) bekezdése hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.

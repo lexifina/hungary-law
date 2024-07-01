@@ -1,4 +1,4 @@
-13/B. §[^34] (1) Örökerdő üzemmód nem állapítható meg azokra az erdőkre, amelyek
+13/B. §[^35] (1) Örökerdő üzemmód nem állapítható meg azokra az erdőkre, amelyek
 
 a) természetességi állapota faültetvény,
 
@@ -12,4 +12,4 @@ d) esetében a faállomány felső szintjének átlagos mellmagassági átmérő
 
 (3) Átmeneti üzemmód azokban az erdőrészletekben állapítható meg, amelyekben a faállomány természetes felújulásra alkalmas, és elérte a magzókorát.
 
-[^34]: A 13/B. §-t a 77/2020. (III. 31.) Korm. rendelet 1. §-a iktatta be.
+[^35]: A 13/B. §-t a 77/2020. (III. 31.) Korm. rendelet 1. §-a iktatta be.
