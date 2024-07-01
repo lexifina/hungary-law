@@ -1,5 +1,3 @@
-## szakmai gyakorlat igazolása szükséges.
-
 7. § (1) Műemléki terület műemléki érték dokumentálása szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
 a) okleveles művészettörténész,
@@ -42,7 +40,7 @@ c) okleveles restaurátor vagy
 
 d) okleveles iparművészeti tárgyrestaurátor
 
-## szakképzettség szükséges a tevékenységnek megfelelő szakiránnyal.
+szakképzettség szükséges a tevékenységnek megfelelő szakiránnyal.
 
 (4) Műemléki terület történeti kertek szakterületen a szakértői tevékenység végzéséhez mesterfokozat vagy azzal egyenértékű végzettség és
 
@@ -70,7 +68,7 @@ ba) okleveles faipari mérnök vagy
 
 bb) okleveles erdőmérnök
 
-## szakképzettség szükséges.
+szakképzettség szükséges.
 
 (6)[^57] Műemléki terület orgonahangszer-helyreállítás szakterületen a szakértői tevékenység végzéséhez
 

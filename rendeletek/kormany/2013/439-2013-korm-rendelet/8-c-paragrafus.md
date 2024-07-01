@@ -8,7 +8,7 @@ b) műemléki épületkutatás,
 
 c) történeti kertek
 
-## szakterületen történő nyilvántartásba vételre irányuló bejelentés esetén mentesít az a)–c) pontban felsorolt szakterületekre e rendelet által előírt végzettségi és szakképesítési követelmények alól azzal, hogy a bejelentőnek a végzettségét és szakképzettségét igazoló okiratot a bejelentéshez csatolnia kell, továbbá, hogy a szakmai gyakorlatot az e bekezdés b) pontja esetében kutatói munkakörben kell teljesíteni.
+szakterületen történő nyilvántartásba vételre irányuló bejelentés esetén mentesít az a)–c) pontban felsorolt szakterületekre e rendelet által előírt végzettségi és szakképesítési követelmények alól azzal, hogy a bejelentőnek a végzettségét és szakképzettségét igazoló okiratot a bejelentéshez csatolnia kell, továbbá, hogy a szakmai gyakorlatot az e bekezdés b) pontja esetében kutatói munkakörben kell teljesíteni.
 
 (2) A szakértői tevékenység végzéséhez szükséges jogosultság megszerzésekor mentesül a 8. § (1) bekezdés b) pontjában, illetve a 8. § (6) bekezdésében előírt számítási módszer alapján megszerzett szakmai gyakorlat igazolása alól
 
@@ -16,7 +16,7 @@ a) a műemléki érték dokumentálása és a műemléki épületdiagnosztika sz
 
 b) a műemléki épületdiagnosztika szakterületen az általános építmények felelős műszaki vezetői építési szakterület műemléki részszakterületen
 
-## jogosultsággal rendelkező személy.
+jogosultsággal rendelkező személy.
 
 (3) Az 5. § (2) bekezdésétől eltérően végzettségétől, szakképesítésétől függetlenül a műemléki terület műemléki épületdiagnosztika szakterületen a 4. § (2) bekezdés e) pont ec) alpontjában meghatározott szakértői tevékenységet folytathat az a Magyar Mérnöki Kamaránál nyilvántartott, FA-12 vagy FV-SZ jelzésű szakértő is, aki
 

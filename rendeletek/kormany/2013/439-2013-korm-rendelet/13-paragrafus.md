@@ -1,5 +1,3 @@
-## megtiltja a szakértői tevékenység folytatását.
-
 ## Záró rendelkezések[^87]
 
 13. § (1) Ez a rendelet a kihirdetését követő 60. napon lép hatályba.

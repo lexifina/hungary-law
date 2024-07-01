@@ -30,7 +30,7 @@ a) műemlékvédelem területen legalább 5 év történeti kert szakterületen 
 
 b) a 1. melléklet 5. pontjában meghatározott számítási módszer alapján megszerzett legalább 30 pont
 
-## szakmai gyakorlat igazolása szükséges.
+szakmai gyakorlat igazolása szükséges.
 
 (6)[^62] Műemléki terület műemléki épületdiagnosztika szakterületen a szakértői tevékenység végzéséhez az 1. melléklet 6. pontjában meghatározott számítási módszer alapján megszerzett 30 pont szakmai gyakorlat igazolása szükséges.
 
@@ -45,6 +45,8 @@ c) a 4. § (2) bekezdés f) pont fc) alpontja szerinti tevékenység esetén
 ca) legalább 5 év szakirányú tevékenységgel megszerzett, és
 
 cb) az 1. melléklet 7. pontjában meghatározott számítási módszer alapján megszerzett legalább 40 pont
+
+szakmai gyakorlat szükséges.
 
 [^58]: A 8. § (1) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 56. § d) pontja szerint módosított szöveg.
 [^59]: A 8. § (2) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 56. § a) pontja szerint módosított szöveg.

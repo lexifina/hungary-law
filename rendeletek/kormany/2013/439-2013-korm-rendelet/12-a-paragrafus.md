@@ -6,4 +6,6 @@ b) amelyet egy éven belül két alkalommal örökségvédelmi bírsággal sújt
 
 c) amelyről az örökségvédelmi, az örökségvédelmi felügyeleti vagy az építésfelügyeleti hatóság az ellenőrzése során megállapítja, hogy szakértői tevékenysége következményeként a védett műemléki érték súlyosan veszélyeztetetté válik, öt évre, vagy amennyiben a védett műemléki érték helyreállíthatatlanul sérült vagy elpusztult, tíz évre
 
+megtiltja a szakértői tevékenység folytatását.
+
 [^86]: A 12/A. §-t a 62/2014. (III. 6.) Korm. rendelet 54. §-a iktatta be, szövege a 323/2016. (X. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

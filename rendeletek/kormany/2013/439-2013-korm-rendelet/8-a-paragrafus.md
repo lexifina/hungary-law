@@ -1,5 +1,3 @@
-## szakmai gyakorlat szükséges.
-
 8/A. §[^64] (1) Védett műemléki értéket érintő szakértői tevékenységben szakképzettséggel nem rendelkező személy közreműködését nem lehet igénybe venni.
 
 (2)[^65] A szakképzettséggel rendelkező, de szakmai gyakorlattal nem rendelkező személy az adott szakterületen jogosultsággal rendelkező szakértő irányításával, annak személyes közreműködésével végezhet a védett műemléki értéken vagy annak alkotórészén, védett tartozékán beavatkozást, amely társszerzői minősítést és szakmai gyakorlat igazolását szolgálja.
