@@ -1,3 +1,4 @@
-27. §[^123]
+27. §[^126] Az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997. (XII. 22.) Korm. rendelet módosításáról szóló 683/2023. (XII. 29.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor[^127] tevékenységi engedéllyel rendelkező pénztáraknak 2024. április 1-jétől kell megfelelniük a Módr.-rel megállapított rendelkezéseknek.
 
-[^123]: A 27. §-t a 260/2003. (XII. 24.) Korm. rendelet 12. §-a iktatta be, hatályon kívül helyezte a 118/2008. (V. 8.) Korm. rendelet 1. § 1300. pontja.
+[^126]: A 27. §-t újonnan a 683/2023. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^127]: A hatálybalépés időpontja 2024. július 1.

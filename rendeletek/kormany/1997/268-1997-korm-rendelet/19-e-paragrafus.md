@@ -1,4 +1,4 @@
-19/E. §[^62] (1) Nem bízható meg ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel az a gazdasági társaság,
+19/E. §[^65] (1) Nem bízható meg ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel az a gazdasági társaság,
 
 a) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tisztségviselője vagy ezek Öpt. 2. § (4) bekezdésének a) pontja szerinti közeli hozzátartozója a pénztár alkalmazottja, megbízottja vagy a pénztár vezető tisztségviselője vagy ezek Öpt. 2. § (4) bekezdésének a) pontja szerinti közeli hozzátartozója;
 
@@ -10,4 +10,4 @@ c) amelynek befolyásoló részesedéssel rendelkező tulajdonosa, vezető tiszt
 
 (3) Amennyiben az ingatlanfejlesztéssel, ingatlanüzemeltetéssel, ingatlankezeléssel megbízott gazdasági társaságban a pénztár önállóan, vagy más önkéntes kölcsönös biztosító pénztárral, vagy magánnyugdíjpénztárral közösen 100%-os tulajdonrésszel rendelkezik, akkor az (1) bekezdés a) pontjában foglaltakat nem kell alkalmazni.
 
-[^62]: A 19/E. §-t a 367/2007. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
+[^65]: A 19/E. §-t a 367/2007. (XII. 23.) Korm. rendelet 6. §-a iktatta be.
