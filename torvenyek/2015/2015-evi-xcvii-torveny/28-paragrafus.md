@@ -28,6 +28,8 @@ m) a cukorágazatban kötelezően alkalmazandó szerződés szabályait,
 
 n) a meggy, az alma és a torma feldolgozására irányuló szerződésekkel kapcsolatban szolgáltatandó, személyes adatnak nem minősülő adatokat és az adatszolgáltatási kötelezettség részletszabályait
 
+o) a 6/A. § (1) bekezdése szerinti szerződések kockázatmegosztással kapcsolatos rendelkezéseire vonatkozó részletes szabályokat
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg a mezőgazdasági, vidékfejlesztési szaktanácsadók szakterületeinek körét, a szaktanácsadói tevékenység folytatásának részletes feltételeit, a szaktanácsadói bejelentés részletes szabályait, a szaktanácsadók nyilvántartásának adattartalmát, a nyilvántartás vezetésére vonatkozó részletes szabályokat, a szaktanácsadók képzésére, értékelésére vonatkozó szabályokat, továbbá a szaktanácsadói tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket.

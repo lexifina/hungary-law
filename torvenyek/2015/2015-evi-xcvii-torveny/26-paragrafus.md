@@ -2,7 +2,7 @@
 
 ## SZAKTANÁCSADÁSI SZOLGÁLTATÁSOK SZABÁLYAI
 
-26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
+26. § (1) E törvény végrehajtására kiadott rendeletben meghatározott szakterületen szaktanácsadói tevékenységet az végezhet, aki a szaktanácsadói tevékenység végzésére irányuló szándékát az Agrárkamarának a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenti.
 
 (2) Az Agrárkamara a szaktanácsadókról névjegyzéket vezet, amely tartalmazza
 

@@ -10,4 +10,4 @@ b)
 
 c) gondoskodik az a) pontban meghatározott eljárásokhoz kapcsolódó ellenőrzésekről, és alkalmazza az ellenőrzések eredménye alapján jogszabályban meghatározott szankciókat;
 
-d) teljesíti az Európai Bizottság felé történő adatszolgáltatást.
+d) teljesíti a Bizottság felé történő adatszolgáltatást.

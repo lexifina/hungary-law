@@ -10,7 +10,21 @@ b) piaci árinformációs rendszert.
 
 (3) A tesztüzemi információs rendszer és a piaci árinformációs rendszer működtetésének módját, az adatszolgáltatás tartalmát, gyakoriságát, az adatok felhasználását, az adatszolgáltatásra kötelezettek körét, továbbá az adatszolgáltatás módját a miniszter rendeletben állapítja meg.
 
-(4) A piaci árinformációs rendszer belföldi árjelentési feladatokat, valamint az európai uniós tagságból fakadó árjelentési kötelezettségeket lát el a nemzeti és a közös piacszabályozás működtetése érdekében. Az adatszolgáltatásra kötelezett ágazatokban a valós piaci folyamatok nyomon követése egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi feladatok gyűjtésén, kötelező adatszolgáltatáson és azok feldolgozásán keresztül valósul meg. Az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagok rendszeres jelentése az Európai Bizottság (a továbbiakban: Bizottság), a nemzeti irányító szervek és statisztikai céllal a piaci szereplők felé történik.
+(4) A (2) bekezdésben meghatározott szervezet a piaci árinformációs rendszer működtetésével – a nemzeti és a közös piacszabályozás érdekében – belföldi árfigyelési, ár- és készletjelentési feladatokat, valamint a Rendelet 223. cikke alapján ár- és készletjelentési kötelezettségeket lát el.
+
+(4a) A (2) bekezdésben meghatározott szervezet az adatszolgáltatásra kötelezett ágazatokban a valós piaci folyamatok nyomon követését
+
+a) egyedi azonosítóval ellátott szervezetsoros ár- és mennyiségi adatok gyűjtésével,
+
+b) kötelező adatszolgáltatáson alapuló adatok feldolgozásával, valamint
+
+c) adminisztratív adatok átvételével és feldolgozásával valósítja meg.
+
+(4b) A (2) bekezdésben meghatározott szervezet
+
+a) az egyedi információkból számított – egyedi azonosító adatokat nem tartalmazó – súlyozott átlagokat rendszeresen jelenti az Európai Bizottság (a továbbiakban: Bizottság) felé, valamint
+
+b) az egyedi azonosító adatokat nem tartalmazó árfigyelési adatokat és súlyozott átlagokat a piaci szereplők számára hozzáférhetővé teszi.
 
 (5) A (4) bekezdés szerinti kötelező adatszolgáltatásra kötelezettek a Rendelet 1. cikk (2) bekezdésében meghatározott ágazatok e törvény hatálya alá tartozó szereplői.
 
