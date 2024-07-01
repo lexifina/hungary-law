@@ -14,7 +14,7 @@ d) fogvatartottak esetén a fogvatartást foganatosító szerv
 
 a jogosultság kezdetét és megszűnését követően azonnal elektronikus úton köteles teljesíteni az egészségbiztosítási szervnek.
 
-(4) A szociális szövetkezet tagi munkavégzési jogviszonyban álló tagja
+(4) A szociális szövetkezet a tagi munkavégzési jogviszonyban álló tagja
 
 a) jogviszonyának kezdetét legkésőbb a jogviszony első napján, a munkavégzés megkezdése előtt,
 
