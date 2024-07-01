@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában
 
-1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) meghatározott törzskönyvben szereplő, az adott település – ideértve a fővárosi kerületet és az Inytv. 10. § (1) bekezdésében megjelölt városok esetében a kerületet – azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő termőföld;
+1. átlagos minőségű termőföld: az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben (a továbbiakban: Inytv.) meghatározott törzskönyvben szereplő, az adott település – ideértve a fővárosi kerületet és az Inytv. 10. § (1) bekezdésében megjelölt városok esetében a kerületet – azonos művelési ágú termőföldjei 1 hektárra vetített aranykorona-értékeinek területtel súlyozott átlagának megfelelő, de hektáronként szántó esetében legfeljebb 22 aranykorona (a továbbiakban: AK) értékű, rét esetében legfeljebb 16 AK értékű, legelő esetében legfeljebb 6 AK értékű termőföld;
 
 1a. bányaüzem: az ásványi nyersanyag kutatására, valamint feltárására és kitermelésére meghatározott terület;
 
@@ -59,3 +59,5 @@
 26. talajjavító mederanyag: elsősorban termőföld bemosódásból keletkező, a talaj kedvezőtlen tulajdonságainak megváltoztatására, illetve a kedvező tulajdonságok fenntartására szolgáló, kezelés nélkül termőföldre kihelyezhető mederiszap;
 
 27. kezelt mederiszap: olyan mederiszap, amely szennyezőanyag tartalma miatt biológiai, fizikai, kémiai, vagy más megfelelő eljárást követően, a jogszabályi előírásoknak megfelelően helyezhető ki termőföldre.
+
+28. tájképi elem: az (EU) 2021/2116 európai parlamenti és tanácsi rendeletnek a közös agrárpolitika keretében működő integrált igazgatási és kontrollrendszer tekintetében történő alkalmazására vonatkozó szabályok megállapításáról szóló, 2022. május 31-i (EU) 2022/1173 bizottsági végrehajtási rendelet 8. és 9. cikke szerinti támogatásokra vonatkozó eljárás során ekként használt fogalom.

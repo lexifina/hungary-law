@@ -12,11 +12,13 @@ d) a talajszerkezet károsodik.
 
 (1a) Nem minősül időleges más célú hasznosításnak az ingatlan-nyilvántartásban foktó jogi jelleggel nyilvántartott földrészleten természetes módon megjelenő időszakos vízborítottság akkor sem, ha az az (1) bekezdés szerinti következményekkel jár, feltéve, hogy a vízzel való folyamatos borítottság időtartama nem haladja meg az 1 évet.
 
-(1b) Nincs helye földvédelmi bírság kiszabásának az egységes kérelemben lehatárolt tájképi elem fenntartása kapcsán.
+(1b) Nem minősül időleges más célú hasznosításnak a földrészleten begyűjtött terménynek, vagy mellékterméknek, illetve a területre kijuttatni tervezett istállótrágyának az időszerű mezőgazdasági munkavégzésnek megfelelő módon és időtartamban, de legfeljebb 6 hónapig a termőföldön történő átmeneti tárolása.
 
 (2) A termőföld időleges más célú hasznosítása csak meghatározott időre, legfeljebb 5 évre engedélyezhető. Az időlegesen más célra hasznosított termőföldet az igénybevevő az engedélyező határozatban megállapított határidő vagy határnap lejártáig – a (9) bekezdésben meghatározott eset kivételével – köteles az eredeti állapotába helyreállítani. Az engedélyező határozatban elő kell írni, hogy az eredeti állapot helyreállítását a talajvédelmi terv szerint kell végrehajtani.
 
 (3) Ha az ingatlanügyi hatóság a termőföld időleges más célú hasznosítását 5 évnél rövidebb időtartamra engedélyezte, és az igénybevevő – az engedély időbeli hatálya alatt – kérelmezi az engedély időtartamának meghosszabbítását, az ingatlanügyi hatóság a kérelemnek megfelelően módosíthatja az engedélyt azzal, hogy az időleges más célú hasznosítás az engedély meghosszabbításával sem haladhatja meg a (2) bekezdésben meghatározott időtartamot.
+
+(3a) Ha az időleges más célú hasznosítás engedélyben meghatározott időtartama lejárt anélkül, hogy az igénybevevő a 10/A. § (2) bekezdése szerinti bejelentést megtette volna és az igénybevevő az engedély hatálya alatt nem kezdeményezte sem az engedély időtartamának meghosszabbítását, sem annak hatályon kívül helyezését, az ingatlanügyi hatóság az engedély időbeli hatályának lejártát követő 15 napon belül felszólítja az igénybevevőt, hogy a felhívás kézhezvételétől számított 15 napon belül nyilatkozzon az engedélyezett időleges más célú hasznosítás megkezdéséről és megvalósításáról.
 
 (4) Az engedély jogosultja az eredeti állapot helyreállítását – annak elvégzését követő 8 napon belül – köteles az ingatlanügyi hatóságnak bejelenteni.
 

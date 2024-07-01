@@ -36,6 +36,8 @@ b) engedély nélküli más célú hasznosítás miatt indult eljárásban kiado
 
 termőföldekről minőségi osztály szerinti bontásban, a 4. melléklet szerinti adattartalommal.
 
+(2b) Az ingatlanügyi hatóság az (1) és a (2a) bekezdés szerinti nyilvántartásokon kívül külön nyilvántartást vezet az általa lefolytatott földvédelmi eljárásokban kiadott időleges más célú hasznosítást engedélyező határozatokról az 5. melléklet szerinti adattartalommal.
+
 (3) A nyilvántartásba bejegyzett igénybevevő azonosítása céljából az ingatlanügyi hatóság jogosult kezelni az igénybevevőnek a (2) bekezdés a) pontjában meghatározott adatait.
 
 (4) Az ingatlanügyi hatóság jogosult a járulék és bírság nyilvántartás vezetése céljából
