@@ -16,7 +16,7 @@ f) az országos dokumentumellátási rendszer működését,
 
 g) a nyilvános könyvtári ellátás rendszerének központi szolgáltatásait és a könyvtáraknak nyújtott szakmai szolgáltatásokat,
 
-h) az Országos Könyvtári Kuratórium jogállását, összetételét és működését,
+h)
 
 i) a közgyűjtemények finanszírozását és központi támogatását,
 

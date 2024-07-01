@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-140-00-00
 | 2022-01-01 | 2021. évi CXLVI. törvény | 1997-140-00-00.60 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1997-140-00-00.61 |
 | 2024-05-17 | 2024. évi XIII. törvény | 1997-140-00-00.62 |
+| 2024-07-01 | 2024. évi XIII. törvény | 1997-140-00-00.63 |

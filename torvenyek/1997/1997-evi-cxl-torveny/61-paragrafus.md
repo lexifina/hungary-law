@@ -2,7 +2,7 @@
 
 ## A nemzeti könyvtár
 
-61. § (1) A nemzeti könyvtár az Országos Széchényi Könyvtár. A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
+61. § (1) A nemzeti könyvtár – a Magyar Nemzeti Múzeum Közgyűjteményi Központ tagintézményeként működő – Országos Széchényi Könyvtár (a továbbiakban: OSZK). A fenntartói jogokat és kötelezettségeket a miniszter gyakorolja.
 
 (2) A nemzeti könyvtár központi költségvetési szerv.
 

@@ -70,7 +70,7 @@ w) Néphagyomány: népi kultúránk és hagyományaink, szellemi és tárgyi ö
 
 x) Nyilvános könyvtári ellátás: a nyilvános könyvtárak által nyújtott szolgáltatások és az e szolgáltatások nyújtását elősegítő központi szolgáltatások összessége, amelyek biztosítják az információhoz való szabad hozzáférést.
 
-y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény.
+## y) Tagintézmény: muzeális intézmény szervezeti egységeként működő, önálló működési engedéllyel rendelkező muzeális intézmény, valamint a 61. § (1) bekezdése szerinti nemzeti könyvtár.
 
 z) Kiadvány: a médiaszolgáltatásokról és a tömegkommunikációról szóló törvényben meghatározott kiadvány, továbbá a dia, a diafilm, a földgömb és az éggömb.
 
