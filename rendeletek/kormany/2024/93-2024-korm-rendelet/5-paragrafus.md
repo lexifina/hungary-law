@@ -1,6 +1,7 @@
-5. § (1)[^5]
+5. § (1)[^4]
 
-(2)[^6]
+(2) Az R1. 5. § (8) bekezdése helyébe a következő rendelkezés lép:
 
-[^5]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. § (2) bekezdése a 38. § (4) bekezdése alapján 2024. július 1-jén lép hatályba.
+„(8) Az (5)–(7) bekezdés előírásai az elektromos kerékpárra, elektromos rollerre, quadra, motorkerékpárra, segédmotoros kerékpárra, személygépkocsira, lakóautóra, lakókocsira, utánfutós lakókocsira, utánfutóra, valamint a motoros vízi járműre nem vonatkoznak.”
+
+[^4]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

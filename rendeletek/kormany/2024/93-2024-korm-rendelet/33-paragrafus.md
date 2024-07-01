@@ -1,3 +1,3 @@
-33. §[^38]
+33. §[^35]
 
-[^38]: A 33. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+[^35]: A 33. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
