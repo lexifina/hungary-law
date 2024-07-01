@@ -1,3 +1,0 @@
-A Kormány elkötelezett, hogy az idősebb nemzedék és a nyugellátásban részesülők is megbecsülést kapjanak, hiszen évtizedeken át azért dolgoztak, hogy az ország talpra álljon és gyarapodjon.
-
-Ennek érdekében – kiemelten fontosnak tartva, hogy a nyugdíjasok is részesülhessenek a Kormány és a magyar állampolgárok közös erőfeszítésének köszönhetően erősödő magyar gazdaság eredményeiből – a Kormány az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében, valamint a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (6) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
