@@ -1,10 +1,10 @@
-25/A. §[^166] (1) Ha az ápolási díj megállapítását kiemelt ápolást igénylő személy gondozására tekintettel kérik, az ápolási díj iránti kérelemhez csatolni kell
+25/A. §[^167] (1) Ha az ápolási díj megállapítását kiemelt ápolást igénylő személy gondozására tekintettel kérik, az ápolási díj iránti kérelemhez csatolni kell
 
-a)[^167] az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén a 25. § (1a) bekezdés b) pontja szerinti igazolást, és
+a)[^168] az Szt. 42. § (1) bekezdés a) pont aa)–ac) alpontjában meghatározott tény fennállása esetén a 25. § (1a) bekezdés b) pontja szerinti igazolást, és
 
 b) az Szt. 43. § b) pontja szerinti esetben a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló szakorvosi igazolást.
 
-(2)[^168] Ha az Szt. 43. § a) pontja szerinti esetben az ápolt személy komplex minősítésének eredményét a rehabilitációs hatóság érvényes és hatályos határozata, szakhatósági állásfoglalása vagy bizottsági állásfoglalása nem igazolja, az ápolási díj iránti kérelmet benyújtó személy a rehabilitációs hatóságtól kérheti az ápolt személy komplex minősítésének elvégzését azzal, hogy ha az ápolt személy a komplex minősítés megkezdését megelőzően a rá irányadó nyugdíjkorhatárt betöltötte, a komplex minősítése keretében a rehabilitálhatóság vizsgálatát nem kell elvégezni. A komplex minősítés eredményéről szóló hatósági bizonyítványt a rehabilitációs hatóság az ápolási díj iránti kérelmet elbíráló hatóság részére is megküldi.
+(2)[^169] Ha az Szt. 43. § a) pontja szerinti esetben az ápolt személy komplex minősítésének eredményét a rehabilitációs hatóság érvényes és hatályos határozata, szakhatósági állásfoglalása vagy bizottsági állásfoglalása nem igazolja, az ápolási díj iránti kérelmet benyújtó személy a rehabilitációs hatóságtól kérheti az ápolt személy komplex minősítésének elvégzését azzal, hogy ha az ápolt személy a komplex minősítés megkezdését megelőzően a rá irányadó nyugdíjkorhatárt betöltötte, a komplex minősítése keretében a rehabilitálhatóság vizsgálatát nem kell elvégezni. A komplex minősítés eredményéről szóló hatósági bizonyítványt a rehabilitációs hatóság az ápolási díj iránti kérelmet elbíráló hatóság részére is megküldi.
 
 (3) Az (1) bekezdés b) pontja szerinti igazolást a magasabb összegű családi pótlékra jogosító betegségek és fogyatékosságok igazolására miniszteri rendelet alapján jogosult szakorvos az ott meghatározottak szerinti formanyomtatványon állítja ki, ha az ápolt személy – miniszteri rendeletben foglaltak szerint – magasabb összegű családi pótlékra jogosító betegségben vagy fogyatékosságban szenved, és a (4) bekezdésben foglaltak szerinti kiemelt ápolási szükséglete áll fenn.
 
@@ -22,6 +22,6 @@ c) más személyes segítsége nélkül nem képes az étkezéssel, a tisztálko
 
 (7) Ha az ügyfél a kérelmében a kiemelt ápolási díjra való jogosultság megállapítását nem kéri, a hatóságnak a kiemelt ápolási díjra való jogosultság kérdésében bizonyítást nem kell lefolytatnia.
 
-[^166]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 165. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^167]: A 25/A. § (1) bekezdés a) pontja a 303/2018. (XII. 27.) Korm. rendelet 21. § k) pontja szerint módosított szöveg.
-[^168]: A 25/A. § (2) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^167]: A 25/A. §-t az 509/2013. (XII. 29.) Korm. rendelet 7. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 165. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^168]: A 25/A. § (1) bekezdés a) pontja a 303/2018. (XII. 27.) Korm. rendelet 21. § k) pontja szerint módosított szöveg.
+[^169]: A 25/A. § (2) bekezdése a 171/2019. (VII. 12.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.

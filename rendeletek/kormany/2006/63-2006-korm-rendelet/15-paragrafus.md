@@ -1,6 +1,6 @@
 ## Aktív korúak ellátása[^91]
 
-15. § (1)[^92] Az aktív korúak ellátása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemhez mellékelni kell a vagyonnyilatkozatot, valamint a kérelmezővel közös háztartásban élő, a tanköteles kort betöltött gyermek tanulói, hallgatói jogviszonyáról szóló igazolást.
+15. § (1)[^92] Az aktív korúak ellátása iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemhez mellékelni kell a vagyonnyilatkozatot.
 
 (1a)[^93] A kérelemnyomtatvány tartalmazza
 
@@ -48,20 +48,22 @@ e) az Szt. 33. § (1) bekezdés g) pontjában meghatározott ellátások megszü
 
 (4)[^102] Ha a kérelmező úgy nyilatkozik, hogy 14 éven aluli gyermekének napközbeni ellátása nem biztosított, köznevelési intézményben tanulmányokat folytató gyermek esetén csatolni kell az intézmény igazolását arról, hogy a gyermek napközbeni ellátását nem tudja biztosítani, egyéb esetben a járási hivatal hivatalból vizsgálja a gyermek napközbeni ellátást biztosító intézményben történő elhelyezésének lehetőségét.
 
-(5)[^103] A kérelmezővel azonos lakcímen élő gyermek
+(5)[^103] A kérelmezővel azonos lakcímen élő
 
-a) tartósan beteg állapotának fennállása a magasabb összegű családi pótlék, a rokkantsági járadék, a rokkantsági ellátás, rehabilitációs ellátás, rehabilitációs járadék vagy a megváltozott munkaképesség miatt megállapított hozzátartozói nyugellátás folyósítását igazoló irattal,
+a) gyermek tartósan beteg állapotának fennállása a magasabb összegű családi pótlék, a rokkantsági járadék, a rokkantsági ellátás, rehabilitációs ellátás, rehabilitációs járadék vagy a megváltozott munkaképesség miatt megállapított hozzátartozói nyugellátás folyósítását igazoló irattal,
 
-b) fogyatékosságának fennállása a magasabb összegű családi pótlék, a vakok személyi járadéka vagy a fogyatékossági támogatás folyósítását igazoló irattal
+b) gyermek fogyatékosságának fennállása a magasabb összegű családi pótlék, a vakok személyi járadéka vagy a fogyatékossági támogatás folyósítását igazoló irattal,
 
-## igazolható.
+c) tanköteles kort betöltött gyermek tanulói, hallgatói jogviszonyának fennállása a tanuló vagy hallgató számára az oktatási igazolványokról szóló kormányrendelet szerint a közreműködő intézmény által a tárgyidőszakra kiadott, érvényesítő matricával ellátott diákigazolvány másolatával vagy a közreműködő intézmény által kiadott, a diákigazolványra való jogosultságról szóló igazolás másolatával
+
+igazolható.
 
 (6)[^104] Ha az aktív korúak ellátására jogosult egészségkárosodott személy esetében a (2) bekezdés szerinti határozat, szakvélemény vagy szakhatósági állásfoglalás időbeli hatálya lejárt és az egészségi állapotot az időbeli hatály lejárta előtt újabb határozat, szakhatósági állásfoglalás vagy szakvélemény nem állapította meg, a járási hivatal az Szt. 33. § (1b) bekezdése szerinti szakkérdést ismételten megvizsgálja.
 
 (7)[^105] Az állami foglalkoztatási szerv honlapján közzéteszi az aktív korúak ellátása igénylésére szolgáló kérelemnyomtatványt és a vagyonnyilatkozatot. Az állami foglalkoztatási szerv emellett tájékoztatást nyújt az álláskeresési támogatást kimerítő ügyfelek számára az aktív korúak ellátásának jogosultsági feltételeiről.
 
 [^91]: A 15. §-t megelőző alcím a 341/2008. (XII. 30.) Korm. rendelet 21. § (4) bekezdés b) pont ba) alpontjával megállapított szöveg.
-[^92]: A 15. § (1) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^92]: A 15. § (1) bekezdése a 104/2024. (V. 9.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^93]: A 15. § (1a) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^94]: A 15. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 65. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 74. § (8) bekezdés 5. pontja szerint módosított szöveg.
 [^95]: A 15. § (2a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 76. § (3) bekezdése iktatta be, hatályon kívül helyezte a 360/2019. (XII. 30.) Korm. rendelet 42. § (5) bekezdés b) pontja. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
@@ -72,6 +74,6 @@ b) fogyatékosságának fennállása a magasabb összegű családi pótlék, a v
 [^100]: A 15. § (3) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
 [^101]: A 15. § (3) bekezdés d) pontja a 116/2016. (VI. 6.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
 [^102]: A 15. § (4) bekezdése a 341/2008. (XII. 30.) Korm. rendelet 12. §-ával megállapított, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^103]: A 15. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § h) pontja hatályon kívül helyezte, újonnan a 313/2019. (XII. 18.) Korm. rendelet 4. §-a iktatta be.
+[^103]: A 15. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 168. § h) pontja hatályon kívül helyezte, újonnan a 313/2019. (XII. 18.) Korm. rendelet 4. §-a iktatta be, szövege a 104/2024. (V. 9.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
 [^104]: A 15. § (6) bekezdését újonnan a 140/2010. (IV. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 76. § (5) bekezdésével megállapított, a 116/2016. (VI. 6.) Korm. rendelet 24. § b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 167. § f) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^105]: A 15. § (7) bekezdését újonnan a 95/2013. (III. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés g) pontja, a 303/2018. (XII. 27.) Korm. rendelet 21. § h) pontja szerint módosított szöveg.

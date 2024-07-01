@@ -44,14 +44,17 @@ i) a szakmai vélemény kiállítójának azonosítására szolgáló adatot.
 
 (8b)[^147] A gyermekek otthongondozási díját megállapító szerv a (8) bekezdés szerinti szakmai vélemény felülvizsgálatát a szakmailag illetékes szakfelügyelő főorvostól kérheti.
 
-(9)[^148] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+(8c)[^148] A (8a) bekezdéstől eltérően a szakmai vélemény határozatlan érvényességi idővel is kiállítható, ha a súlyosan fogyatékos ápolt gyermek állapota végleges, és abban változás nem várható. Határozatlan érvényességi idejű szakmai vélemény csak abban az esetben állítható ki, ha az orvostudomány jelenlegi állása szerint az önellátási képességben javulás sem műtéttel, sem gyógykezeléssel, sem rehabilitációval nem érhető el, és abban a gyermek életkorából adódó változás sem várható.
 
-(10)[^149] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
+(9)[^149] Az Szt. 38. § (4) bekezdése alkalmazásában a (8) bekezdés szerinti szakorvos, valamint a (8b) bekezdés alapján felkért szakfelügyelő főorvos – a díjazásra vonatkozó szabályok kivételével – szakértőnek minősül.
+
+(10)[^150] A (8b) bekezdés alapján felkért szakfelügyelő főorvos az egészségügyi szolgáltatók hatósági szakfelügyeletéről, szakmai minőségértékeléséről és a minőségügyi vezetőkről szóló miniszteri rendeletben foglaltak szerinti díjazás ellenében, eseti megbízási szerződés alapján végzi a felülvizsgálatot.
 
 [^143]: A 21. § (4) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
 [^144]: A 21. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 14. § (3) bekezdésével megállapított szöveg.
 [^145]: A 21. § (6a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be.
 [^146]: A 21. § (8a) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be.
 [^147]: A 21. § (8b) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 414/2021. (VII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^148]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^149]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^148]: A 21. § (8c) bekezdését a 104/2024. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be.
+[^149]: A 21. § (9) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^150]: A 21. § (10) bekezdését a 171/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 69. §[^286] A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosításáról szóló 171/2019. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. számú mellékletet az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra a Módr. hatálybalépésekor[^287] folyamatban lévő ügyekben is alkalmazni kell, ha az ügyben eljáró szakértő a Módr. hatálybalépésének időpontjában a szakvéleményét még nem állította ki.
+## 69. §[^287] A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet módosításáról szóló 171/2019. (VII. 12.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. számú mellékletet az ápolási díjra, illetve a gyermekek otthongondozási díjára való jogosultság megállapításra a Módr. hatálybalépésekor[^288] folyamatban lévő ügyekben is alkalmazni kell, ha az ügyben eljáró szakértő a Módr. hatálybalépésének időpontjában a szakvéleményét még nem állította ki.
 
-[^286]: A 69. §-t a 171/2019. (VII. 12.) Korm. rendelet 3. §-a iktatta be.
-[^287]: A hatálybalépés időpontja 2019. július 15.
+[^287]: A 69. §-t a 171/2019. (VII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^288]: A hatálybalépés időpontja 2019. július 15.
