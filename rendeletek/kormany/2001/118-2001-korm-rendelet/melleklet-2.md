@@ -1,6 +1,6 @@
 ## A rendelet 4. § (1) bekezdés b) pontjában és 4/A. § (1) bekezdés a) pontjában foglalt szakképesítésként fogadható el:
 
-## a)[^89] szakirányú felsőfokú végzettség, ennek keretében
+## a)[^90] szakirányú felsőfokú végzettség, ennek keretében
 
 ## – egyetemek közgazdaságtudományi, gazdaságtudományi karán,
 
@@ -48,10 +48,10 @@
 
 ## c) középfokú iskolai végzettség és legalább ötéves, a b) pontban felsorolt humánpolitikai területen eltöltött gyakorlat; vagy
 
-## d)[^90] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerőpiaci szolgáltatási ügyintéző szakképesítés, valamint munkaerőpiaci szervező, elemző szakképesítés, munkaerő piaci szolgáltató, ügyintéző rész-szakképesítés, továbbá személyügyi gazdálkodó és fejlesztő szakképesítés és személyügyi ügyintéző rész-szaképesítés, illetve bármely középfokú szakképesítés, amely az ebben a pontban felsorolt szakképesítések valamelyikének megfeleltethető.
+## d)[^91] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerőpiaci szolgáltatási ügyintéző szakképesítés, valamint munkaerőpiaci szervező, elemző szakképesítés, munkaerő piaci szolgáltató, ügyintéző rész-szakképesítés, továbbá személyügyi gazdálkodó és fejlesztő szakképesítés és személyügyi ügyintéző rész-szaképesítés, illetve bármely középfokú szakképesítés, amely az ebben a pontban felsorolt szakképesítések valamelyikének megfeleltethető.
 
-2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^91]
+2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^92]
 
-[^89]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^90]: Az 1. számú melléklet d) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (14) bekezdésével megállapított szöveg.
-[^91]: A 2. számú mellékletet a 273/2018. (XII. 20.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^90]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^91]: Az 1. számú melléklet d) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (14) bekezdésével megállapított szöveg.
+[^92]: A 2. számú mellékletet a 273/2018. (XII. 20.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.

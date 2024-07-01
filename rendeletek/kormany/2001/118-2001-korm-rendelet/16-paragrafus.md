@@ -30,9 +30,12 @@ d) az új Mt. vagy – az a)–c) pontban foglalt kivétellel – e rendelet sza
 
 (4) Ha a nyilvántartásból való törlésre a (2) bekezdés a) pontjában foglaltak alapján kerül sor, a munkaerő-kölcsönző legkorábban csak a törlést elrendelő határozat véglegessé válását követő egy év elteltével vehető újra nyilvántartásba.
 
+(4a)[^60] Nem kell alkalmazni a (4) bekezdést, amennyiben a nyilvántartásból a munkaerő-kölcsönzőt legfeljebb 1 millió forint tartozásra tekintettel törölték, és a törlést követő 2 hónapon belül a köztartozásmentes adózói adatbázisba újra bejegyzik.
+
 (5) Ha a nyilvántartásból való törlésre vagy a tevékenységtől eltiltásra a (2) bekezdés b)–e) pontjában vagy a (3) bekezdésben foglaltak alapján került sor, a munkaerő-kölcsönző vagy a magán-munkaközvetítő legkorábban csak a törlést és az eltiltást elrendelő határozat véglegessé válását követő három év elteltével vehető újra nyilvántartásba vagy folytathatja újra tevékenységét.
 
 (6) A törlésről, valamint az eltiltásról a kormányhivatal a kölcsönzési és a magán-munkaközvetítő tevékenységet folytató gazdasági társaságot bejegyző cégbíróságot, egyéb jogi személyt nyilvántartó bíróságot, a vállalkozói nyilvántartást vezető szervet, valamint a letétet kezelő pénzügyi intézményt értesíti. A tengerész munkaközvetítői tevékenységet folytató magán-munkaközvetítő vagy a tengerész munkaerő-kölcsönzési tevékenységet folytató munkaerő-kölcsönző törlése esetén a kormányhivatal a hajózási hatóságot is értesíti.
 
 [^58]: A 15. § a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés b) pontja, a 457/2017. (XII. 28.) Korm. rendelet 94. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^59]: A 16. § a 356/2021. (VI. 24.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^60]: A 16. § (4a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 7. §-a iktatta be.
