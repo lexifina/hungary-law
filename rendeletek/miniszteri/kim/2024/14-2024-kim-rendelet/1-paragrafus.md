@@ -1,0 +1,1 @@
+1. § A minősített előadó-művészeti szervezetek körének meghatározásáról szóló 5/2012. (VI. 15.) EMMI rendelet 2. melléklet 1. pont 1.1.7. alpontjában a „Színház” szövegrész helyébe a „Színház és Kulturális Központ” szöveg lép.
