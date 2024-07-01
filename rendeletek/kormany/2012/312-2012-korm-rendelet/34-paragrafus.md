@@ -36,10 +36,11 @@ bc) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adot
 
 bd)[^201]
 
-be) a Magyar Nemzeti Múzeummal, ha az engedély egyben régészeti feltárási engedély is.
+be)[^202] a Magyar Nemzeti Múzeum Közgyűjteményi Központtal, ha az engedély egyben régészeti feltárási engedély is.
 
 [^197]: A 34. § (1) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^198]: A 34. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 45. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^199]: A 34. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 46. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^200]: A 34. § (6) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 6. pontja szerint módosított szöveg.
 [^201]: A 34. § (6) bekezdés b) pont bd) alpontját a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdése hatályon kívül helyezte.
+[^202]: A 34. § (6) bekezdés b) pont be) alpontja a 106/2024. (V. 9.) Korm. rendelet 4. §-a szerint módosított szöveg.

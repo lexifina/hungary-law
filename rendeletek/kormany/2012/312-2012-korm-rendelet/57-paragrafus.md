@@ -1,5 +1,5 @@
-## XIV. Fejezet[^359]
+## XIV. Fejezet[^360]
 
 57. §
 
-[^359]: A XIV. fejezetet (57. §) a 457/2017. (XII. 28.) Korm. rendelet 413. § 42. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet a 618. §-át.
+[^360]: A XIV. fejezetet (57. §) a 457/2017. (XII. 28.) Korm. rendelet 413. § 42. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet a 618. §-át.

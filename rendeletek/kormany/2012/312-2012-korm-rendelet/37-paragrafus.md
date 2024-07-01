@@ -2,11 +2,11 @@
 
 37. § (1) Az eljárás megindításáról nem kell értesítést kibocsátani.
 
-(2)[^221]
+(2)[^222]
 
 (3) Az építésügyi hatóság a kérelem elbírálása során vizsgálja, hogy a tervezett eltérés, az érintett szakhatóság állásfoglalása, illetve a rendeltetésszerű és biztonságos használat követelményeinek figyelembevételével engedélyezhető-e.
 
-(4)[^222]
+(4)[^223]
 
 (5) A határozat három fő részből áll:
 
@@ -16,7 +16,7 @@ b) indokolási rész,
 
 c) figyelmezető és tájékoztató rész.
 
-(6)[^223] Az önállóan előterjesztett kérelem ügyében hozott határozat rendelkező része, az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza:
+(6)[^224] Az önállóan előterjesztett kérelem ügyében hozott határozat rendelkező része, az Ákr. 81. § (1) bekezdésében foglaltakon kívül tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítót,
 
@@ -40,9 +40,9 @@ d) a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgy
 
 (9) Az építésügyi hatóság a határozaton feltünteti az értesítettek körét a 38. § (2) bekezdésében foglaltak szerint.
 
-(10)[^224] Az önállóan előterjesztett kérelemben hozott végleges eltérési engedély egy évig hatályos és a hatálya nem hosszabbítható meg.
+(10)[^225] Az önállóan előterjesztett kérelemben hozott végleges eltérési engedély egy évig hatályos és a hatálya nem hosszabbítható meg.
 
-[^221]: A 37. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 27. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^222]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 9. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^223]: A 37. § (6) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 56. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^224]: A 37. § (10) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 57. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^222]: A 37. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 413. § 27. pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^223]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 9. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^224]: A 37. § (6) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 412. § 56. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^225]: A 37. § (10) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 412. § 57. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

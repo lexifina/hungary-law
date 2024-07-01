@@ -1,8 +1,8 @@
-## XII/A. Fejezet[^350]
+## XII/A. Fejezet[^351]
 
 ## JÓKARBANTARTÁSI KÖTELEZÉSI ELJÁRÁS
 
-55/A. § (1)[^351] Az építésügyi hatóság ellenőrzi a meglévő építmények körében
+55/A. § (1)[^352] Az építésügyi hatóság ellenőrzi a meglévő építmények körében
 
 a) a jogszabályban előírt jókarbantartási kötelezettség teljesítését, az Épkiv. 34. § (5) bekezdése szerinti kötelezettség teljesítését,
 
@@ -22,5 +22,5 @@ ba) a szervizkönyv hiánya esetén annak pótlását,
 
 bb) a kötelező felülvizsgálat elmaradása miatti építmény-felülvizsgálat elvégzését, és a megállapításoktól függően a szükséges munkálatok elvégzését.
 
-[^350]: A XII/A. Fejezetet (55/A. §) a 144/2017. (VI. 12.) Korm. rendelet 12. §-a iktatta be.
-[^351]: Az 55/A. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^351]: A XII/A. Fejezetet (55/A. §) a 144/2017. (VI. 12.) Korm. rendelet 12. §-a iktatta be.
+[^352]: Az 55/A. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 413. § 41. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
