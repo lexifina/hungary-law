@@ -1,0 +1,3 @@
+73. § (1) A digitális szolgáltatást biztosító szervezet, a támogató szolgáltatást nyújtó szervezet és a digitális állampolgárság szolgáltató a szolgáltatások nyújtása során e törvényben és e törvény végrehajtási rendeleteiben meghatározott követelményeknek megfelelően köteles eljárni, melynek betartását a Felügyelet ellenőrzi és eljár azok megsértése esetén.
+
+(2) Az e törvényben vagy e törvény végrehajtási rendeleteiben foglalt szabályok megkerülésével vagy megsértésével megkötött – digitális szolgáltatások nyújtásának alapjául szolgáló alkalmazások fejlesztésére, továbbfejlesztésére és üzemeltetésére vonatkozó – szerződés semmis.

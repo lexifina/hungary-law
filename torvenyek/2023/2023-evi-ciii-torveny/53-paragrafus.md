@@ -1,0 +1,1 @@
+53. § A digitális keretszolgáltatásként elérhető eAzonosítás szolgáltatás a 46. § szerinti elektronikus azonosítási szolgáltatás, amelynek során a felhasználó arcképe az azonosítási folyamatban felhasználható és az Atv. szerinti, az elektronikus ügyintézést igénybe vevő személyek személyazonosság-ellenőrzését támogató automatizált összehasonlításhoz felhasználható.

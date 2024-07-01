@@ -1,0 +1,1 @@
+Az Országgyűlés – felismerve azt, hogy az információs és kommunikációs technológiák fejlődése életünk gyökeres átalakulását hozza magával – az állam és a társadalom kapcsolatának digitális térbe helyezése, a modern kormányzati digitális felületek és szolgáltatások létrehozása érdekében, az Alaptörvény XXVI. cikke alapján a következő törvényt alkotja:

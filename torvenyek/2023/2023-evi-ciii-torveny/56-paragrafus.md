@@ -1,0 +1,1 @@
+56. § A digitális keretszolgáltatásként elérhető eDokumentumkezelés szolgáltatás hiteles elektronikus dokumentum előállítását teszi lehetővé. Az eAláírás és az eDokumentumkezelés integrált szolgáltatásként is nyújtható.
