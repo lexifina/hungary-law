@@ -14,7 +14,7 @@ f) az állami tulajdonban levő természetvédelmi terület kezelői jogának a 
 
 g) a lakástakarékpénztárakról szóló törvény szerinti lakás-előtakarékossági szerződés alapján történő vagyonszerzés;
 
-h) termőföld megszerzése ajándékozással az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatása feltételeként, továbbá a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
+h) a mező- és erdőgazdasági földek forgalmáról szóló törvény szerinti földhasználat megszerzése, és annak megszüntetésével bekövetkező vagyonszerzés;
 
 i) közhasznú szervezetnek közhasznú tevékenység céljára juttatott ajándék;
 
@@ -32,7 +32,7 @@ o) a magánszeméllyel szemben fennálló, pénzügyi intézmény által elenged
 
 p) az ajándékozó egyenes ági rokona (ideértve az örökbefogadáson alapuló rokoni kapcsolatot is), illetve házastársa által megszerzett ajándék;
 
-q) az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatásának igénybevétele érdekében a Polgári Törvénykönyv szerinti közeli hozzátartozóval megkötött szerződésben a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
+q) az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási szerződéssel történő, a termőföld, a tanya, és a mezőgazdasági termelőtevékenységhez szükséges művelés alól kivett terület, építmény (magtár, istálló stb.) valamint ingó (mezőgazdasági berendezés, felszerelés, gép, állatállomány, készlet stb.) ajándékozása, illetve vagyoni értékű jog ingyenes átengedése;
 
 r) a Magyar Állam által a hiteladós lakása megvásárlásával összefüggésben, a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény rendelkezése alapján elengedett követelés,
 
@@ -62,13 +62,13 @@ c) a Munkavállalói Résztulajdonosi Programról szóló törvény szerinti KMR
 
 d) a dolgozói üzletrészként, dolgozói részvényként személyi jövedelemadót nem viselő módon a társas vállalkozástól megszerzett üzletrész, részvény.
 
-(2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül megkeresi az illetékes építésügyi hatóságot a lakóház felépítésének igazolása céljából. Az állami adóhatóság a felfüggesztett illetéket törli, ha
+(2a) Az (1) bekezdés b) pontja szerinti illetékmentesség alkalmazása során az állami adóhatóság a vagyonszerzés után megállapított illetéket – a megfizetés tekintetében – felfüggeszti. Az állami adóhatóság a lakóházépítésre meghatározott 4 éves határidő (a továbbiakban e bekezdés alkalmazásában: határidő) elteltét követő 15 napon belül az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi a lakóház felépítését. Az állami adóhatóság a felfüggesztett illetéket törli, ha
 
-a) a határidő elteltét követő 15 napon belüli megkeresésére az illetékes építésügyi hatóság arról tájékoztatja, hogy a határidőn belül – a vagyonszerző nevére szóló – jogerős vagy végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette; vagy
+a) a határidő elteltét követő 15 napon belül megállapítja, hogy az illetékes építésügyi hatóság a határidőn belül – a vagyonszerző nevére szóló – végleges használatbavételi engedélyt adott ki, illetve a használatbavételt tudomásul vette, vagy
 
-b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – jogerős vagy végleges használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
+b) a vagyonszerző a lakóház felépítését az illetékes építésügyi hatóság által határidőn belül kiadott – a vagyonszerző nevére szóló – végleges használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem emelkedett jogerőre vagy nem vált véglegessé, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – jogerőre emelkedik vagy véglegessé válik, és az építésügyi hatóság erről a tényről az állami adóhatóságot külön értesíti. Az építésügyi hatóság az értesítéssel egyidejűleg közli, hogy a jogerős vagy végleges használatbavételi engedély – a kijavítással érintett részeket figyelmen kívül hagyva – tartalmában megegyezik-e a határidő lejárta előtt kiadott használatbavételi engedéllyel.
+Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerző nevére – kiadott használatbavételi engedély a határidőn belül nem vált véglegessé, az állami adóhatóság a felfüggesztett illetéket akkor törli, ha a használatbavételi engedély a határidő lejártát követően változatlan tartalommal – ide nem értve a kijavítással érintett részeket – véglegessé válik. Ezt a tényt az állami adóhatóság az Országos Építésügyi Nyilvántartás adatai alapján ellenőrzi.
 
 (2b) Amennyiben a vagyonszerző több telket kapott ajándékba, és mindegyik esetében vállalta lakóház felépítését, majd a telkeket utóbb egyesíttette, az illetéket az adóhatóság akkor törli, ha az új telek esetén a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Ellenkező esetben valamennyi telek után meg kell fizetni az illetéket és a késedelmi pótlék összegét is. Ha a vagyonszerző a megszerzett telket utóbb megosztja, az adóhatóság a felfüggesztett illetékből csak azt az illetéket törli, amely arra a megosztás során létrejött telekre esik, amelyen a lakóház felépült, feltéve, hogy a felépített lakóházban a lakás(ok) hasznos alapterülete eléri a településrendezési tervben meghatározott maximális beépíthetőség legalább 10%-át. Az illeték fennmaradó részét késedelmi pótlékkal növelt összegben kell megfizetni.
 
@@ -76,7 +76,7 @@ Ha a határidő lejártáig az építésügyi hatóság által – a vagyonszerz
 
 (2d) A lakóház felépítésére nyitva álló határidőn belül a vagyonszerző gazdálkodó szervezet átalakulása, egyesülése, szétválása vagy magánszemély vagyonszerző halála esetén a lakóház felépítését az ingatlant megszerző jogutód, örökös is teljesítheti. Ebben az esetben a lakóház felépítését a jogutód, örökös a nevére szóló használatbavételi engedéllyel, illetve a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal igazolja.
 
-(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a jogerős vagy végleges használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
+(2e) Az állami adóhatóság a lakóház felépítésére nyitva álló határidőn belül felépült lakóház tulajdonosa, a lakóházon fennálló vagyoni értékű jog jogosítottja felfüggesztett illetékét abban az esetben is törli, ha a végleges használatbavételi engedély vagy a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány a tulajdonjogot és – vagyoni értékű jog szerzése esetén – a vagyoni értékű jogot egyidejűleg megszerzők egyike nevére szól.
 
 (3) Termőföld tulajdonjogának, vagyoni értékű jogának ajándékozása esetén az egyébként járó ajándékozási illeték felét kell megfizetni. Az (1) bekezdés h) pontja szerinti mentesség esetén a mentességre való jogosultságot az ajándékozottnak kell igazolnia. A támogatás elnyerését igazoló okiratot a vagyonszerzőnek az állami adóhatóságnál kell benyújtania vagy az ingatlanügyi hatósághoz benyújtandó ajándékozási szerződéshez kell csatolnia, mely okiratot az ajándékozási szerződés másolatával az ingatlanügyi hatóság a 92. § (1) bekezdés szerint továbbítja az állami adóhatóságnak.
 

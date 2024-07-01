@@ -16,7 +16,7 @@ g) a közhatalom gyakorlásával okozott kár megtérítése iránti perben;
 
 h) a közigazgatási bírósági eljárásban, a közszolgálati jogviszonnyal kapcsolatos pert és a szerződő fél által indított közigazgatási szerződéssel kapcsolatos pert kivéve;
 
-i) a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárásokban, valamint a csőd-, a felszámolási és a helyi önkormányzatok adósságrendezési eljárása alatt a vagyonfelügyelő, a felszámoló, illetve a pénzügyi gondnok által indított bírósági eljárásokban;
+i) a munkaviszonyból származó munkabér- és egyéb követelésre tekintettel indított felszámolási eljárásokban, valamint a csőd-, a felszámolási és a helyi önkormányzatok adósságrendezési eljárása alatt a vagyonfelügyelő, a felszámoló, illetve az önkormányzati csődbiztos által indított bírósági eljárásokban;
 
 j) a találmány és a használati minta feltalálója, az újító, az ipari minta, a topográfia szerzője, valamint a közreműködő által a találmánnyal, a használati mintával, az újítással, az ipari mintával, a topográfiával, a know-how-val, illetve a közreműködői díjjal kapcsolatban indított polgári peres és nemperes (végrehajtási) eljárásban;
 
