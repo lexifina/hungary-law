@@ -1,3 +1,7 @@
-8. §[^8]
+8. § A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerekről szóló 541/2020. (XII. 2.) Korm. rendelet
 
-[^8]: A 8. § a 12. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+a) 4. alcím címében a „KASZ” szövegrész helyébe az „eID” szöveg,
+
+b) 4. § (1) bekezdés nyitó szövegrészében az „A KASZ” szövegrész helyébe az „Az eID” szöveg
+
+lép.

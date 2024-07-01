@@ -1,3 +1,3 @@
-9. §[^9]
+9. §[^6]
 
-[^9]: A 9. § a 12. § (3) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^6]: A 9. § a 12. § (3) bekezdése alapján 2024. szeptember 1-jén lép hatályba.

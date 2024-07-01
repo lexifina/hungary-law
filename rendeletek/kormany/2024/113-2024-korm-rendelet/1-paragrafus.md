@@ -2,4 +2,4 @@
 
 1. §
 
-[^1]: Az 1. alcím a 12. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+[^1]: Az 1. alcím a 138/2024. (VI. 28.) Korm. rendelet 11. §-a alapján nem lép hatályba.
