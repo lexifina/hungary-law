@@ -38,6 +38,6 @@ b) az (1) bekezdés a)–g) pontja szerinti közművelődési szakmai feladatot 
 
 c) a közművelődési feladatellátással összefüggő feltételek valamelyikét
 
-## vizsgálja.
+vizsgálja.
 
 (5) A szakfelügyelet javaslatainak megvalósítását utóvizsgálat keretében kell ellenőrizni.

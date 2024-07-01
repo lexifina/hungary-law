@@ -1,4 +1,4 @@
-5. §[^2] (1) A közművelődési feladatellátás országos szakfelügyeletét a miniszter irányítja.
+5. §[^3] (1) A közművelődési feladatellátás országos szakfelügyeletét a miniszter irányítja.
 
 (2) A 4. § a) pontja szerinti éves munkaprogram tartalmazza:
 
@@ -14,4 +14,4 @@ d) a szakfelügyeleti vizsgálatok időbeli ütemezését.
 
 (4) A szakfelügyelet működtetésének költségeit a miniszter által vezetett minisztérium költségvetésében kell biztosítani.
 
-[^2]: Az 5. § az 50/2016. (XII. 28.) EMMI rendelet 20. §-ával megállapított szöveg.
+[^3]: Az 5. § az 50/2016. (XII. 28.) EMMI rendelet 20. §-ával megállapított szöveg.

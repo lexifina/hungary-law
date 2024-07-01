@@ -24,10 +24,11 @@ h) a végleges szakfelügyelői jelentés alapján szakfelügyelet-típusonként
 
 i) szervezi a szakfelügyelők éves továbbképzését,
 
-j) gyűjti, rendszerezi és megőrzi a szakfelügyeleti vizsgálat során keletkezett dokumentumokat,
+j)[^2] gyűjti, rendszerezi és megőrzi a szakfelügyeleti vizsgálat során keletkezett dokumentumokat, valamint
 
 k) a szakfelügyeleti vizsgálatok eredményes ellátása érdekében együttműködési megállapodást köt a fővárosi közművelődési szakmai szolgáltató szervezettel.
 
 (2) A miniszter az (1) bekezdés a)–b), f)–i) és k) pontjában meghatározott feladatok ellátásáról közszolgáltatási szerződés megkötése útján gondoskodik.
 
 [^1]: A 4. § az 50/2016. (XII. 28.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdés j) pontja a 18/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
