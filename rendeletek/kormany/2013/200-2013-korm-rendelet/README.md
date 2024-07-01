@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-200-20-
 | 2020-12-09 | 2013-200-20-22.9 | 566/2020. (XII. 8.) Korm. rendelet |
 | 2021-02-23 | 2013-200-20-22.10 | 79/2021. (II. 22.) Korm. rendelet |
 | 2021-09-29 | 2013-200-20-22.11 | 551/2021. (IX. 28.) Korm. rendelet |
+| 2024-07-01 | 2013-200-20-22.12 | 151/2024. (VI. 28.) Korm. rendelet |

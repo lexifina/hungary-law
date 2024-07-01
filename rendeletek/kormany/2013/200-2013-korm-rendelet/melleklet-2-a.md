@@ -1,47 +1,23 @@
-2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^45]
+|  | A | B |
 
-## A versenyzői eredményességi támogatás mértéke világ- és Európa-bajnokság esetében paralimpiai versenyszámban (nettó összegben, forintban, 100%)
+| 1. | Eredményességi szint | Állami jutalom mértéke (forint/fő) |
 
-1. Évenként rendezett versenyek esetében
+| 2. | Aranyérem (I. helyezés) | 27 500 000 |
 
-|  | A | B | C | D |
+| 3. | Ezüstérem (II. helyezés) | 19 635 000 |
 
-| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
+| 4. | Bronzérem (III. helyezés) | 15 675 000 |
 
-| 2. | Korosztály | Helyezés | Eredményességi támogatás mértéke |
+| 5. | IV. helyezés | 11 825 000 |
 
-| 3. | Felnőtt | I. | 500 000 | 1 000 000 |
+| 6. | V. helyezés | 7 865 000 |
 
-| 4. | II. | 375 000 | 750 000 |
+| 7. | VI. helyezés | 6 270 000 |
 
-| 5. | III. | 250 000 | 500 000 |
+| 8. | VII. helyezés | 3 135 000 |
 
-2. Kétévenként rendezett versenyek esetében
+| 9. | VIII. helyezés | 1 540 000 |
 
-|  | A | B | C | D |
+2a. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^54]
 
-| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
-
-| 2. | Korosztály | Helyezés | Eredményességi támogatás mértéke |
-
-| 3. | Felnőtt | I. | 625 000 | 1 250 000 |
-
-| 4. | II. | 468 750 | 937 500 |
-
-| 5. | III. | 312 500 | 625 000 |
-
-3. Négyévenként rendezett versenyek esetében
-
-|  | A | B | C | D |
-
-| 1. | Eredményességi szint | Európa-bajnokság | Világbajnokság |
-
-| 2. | Korosztály | Helyezés | Eredményességi támogatás mértéke |
-
-| 3. | Felnőtt | I. | 750 000 | 1 500 000 |
-
-| 4. | II. | 562 500 | 1 125 000 |
-
-| 5. | III. | 375 000 | 750 000 |
-
-[^45]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be.
+[^54]: A 2a. mellékletet az 566/2020. (XII. 8.) Korm. rendelet 7. §-a iktatta be, a 151/2024. (VI. 28.) Korm. rendelet 18. § e) pontja hatályon kívül helyezte.
