@@ -8,6 +8,10 @@
 
 (4) A beteg a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra – a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató által meghatározott módon – időpontot foglalhat a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál, amelyet a járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a digitális időpontfoglalási rendszerben rögzít.
 
+(4a)[^128] A beteg a (4) bekezdésben foglaltakon túl a beutalóval és a beutaló nélkül igénybe vehető egészségügyi ellátásra közvetlenül vagy az Ebtv. 20/B. §-a szerinti egységes telefonos időpontfoglalási központ útján is foglalhat időpontot, illetve módosíthatja foglalt időpontját a digitális időpontfoglalási rendszerben.
+
+(4b)[^129] A digitális időpontfoglalási rendszerben a beteg által történő időpontfoglalás esetén ugyanazon szakmában nem foglalható ugyanazon TAJ-hoz kapcsolódóan egyszerre több egészségügyi szolgáltatónál időpont.
+
 (5) A beutaló nélkül igénybe vehető ellátások esetén a beteg háziorvosa vagy kezelőorvosa vállalhatja, hogy a beteg kérésére a digitális időpontfoglalási rendszerben a járóbeteg-szakellátást nyújtó egészségügyi szolgáltatónál időpontot foglal, ha az orvosszakmailag indokolt.
 
 (6) A háziorvos vagy kezelőorvos nem köteles a beteg (5) bekezdés szerinti időpontfoglalásra vonatkozó kérését fogadni.
@@ -18,3 +22,5 @@
 
 [^126]: A Vhr. „Az EESZT digitális időpontfoglalási rendszer szolgáltatást használó egészségügyi szolgáltatóknál történő igénybevétel szabályai” alcím címét a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^127]: A Vhr. 5/E. §-át a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdés b) pontja hatályon kívül helyezte, újonnan a 42/2024. (II. 29.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^128]: A Vhr. 5/E. § (4a) bekezdését a 42/2024. (II. 29.) Korm. rendelet – 135/2024. (VI. 28.) Korm. rendelet 4. §-a szerint módosított – 1. § (2) bekezdése iktatta be.
+[^129]: A Vhr. 5/E. § (4b) bekezdését a 42/2024. (II. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.

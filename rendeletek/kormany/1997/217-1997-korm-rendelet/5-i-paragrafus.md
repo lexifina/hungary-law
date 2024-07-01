@@ -1,3 +1,3 @@
-5/I. §[^131]
+5/I. §[^133] A digitális időpontfoglalási rendszert használó járóbeteg-szakellátást nyújtó egészségügyi szolgáltató a Nemzeti Népegészségügyi és Gyógyszerészeti Központról szóló kormányrendeletben kijelölt egységes telefonos időpontfoglalási központ útján is köteles fogadni a társadalombiztosítási azonosító jellel rendelkező biztosított járóbeteg-szakellátásra történő időpontfoglalását, a lefoglalt időpont módosítását vagy törlését.
 
-[^131]: A Vhr. 5/I. §-át a 172/2007. (VI. 29.) Korm. rendelet 7. §-a iktatta be, hatályon kívül helyezte a 65/2008. (III. 29.) Korm. rendelet 1. § (1) bekezdésének e) pontja.
+[^133]: A Vhr. 5/I. §-át újonnan a 135/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
