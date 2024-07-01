@@ -14,7 +14,7 @@ a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi
 
 b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, az Európai Unió tagállamának eljáró hatóságával (ideértve a külföldi eljárásban közreműködő végrendeleti végrehajtót vagy kirendelt hagyatéki gondnokot is), valamint a feladatkörében eljáró gyámhatósággal,
 
-c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, illetve végelszámolóval,
+c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, illetve végelszámolóval,
 
 d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 
