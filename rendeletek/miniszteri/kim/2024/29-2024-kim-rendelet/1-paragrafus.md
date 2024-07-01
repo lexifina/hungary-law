@@ -1,0 +1,1 @@
+1. § A programkövetelmény nyilvántartásba vételének tartalmi szabályairól szóló 1/2023. (II. 28.) KIM rendelet 2. § (1) bekezdés e) pont ee) alpontjában a „munkaterületen szükséges,” szövegrész helyébe a „munkaterületen szükséges, valamint” szöveg lép.
