@@ -102,10 +102,10 @@
 
 | 50 | Kannabidiol (CBD) |
 
-5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^142]
+5. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^143]
 
 Kombinált figyelmeztetések
 
 I. csoport
 
-[^142]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^143]: Az 5. melléklet az 507/2017. (XII. 29.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.

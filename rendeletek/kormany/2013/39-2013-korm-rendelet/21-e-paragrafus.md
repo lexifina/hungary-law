@@ -2,12 +2,13 @@
 
 (2) A (3) bekezdésben meghatározott kivétellel mindazon termékeket, amelyek a MódR.5. rendelkezéseinek nem felelnek meg, de megfelelnek az e rendeletnek a MódR.5. hatálybalépését[^128] megelőzően hatályos rendelkezéseinek, továbbá az egyéb hatályos és irányadó jogszabályoknak, az e rendelet hatálybalépésétől számított legfeljebb 1 évig lehet a dohánytermék-kiskereskedők részére forgalomba hozatal céljából átadni.
 
-(3) A (2) bekezdéstől eltérően mindazon dohányzást helyettesítő nikotintartalmú termékeket, amelyek az e rendeletnek a MódR.5. által megállapított 19/F. § (1) és (2) bekezdése, továbbá a 19/G. § (10) bekezdése rendelkezéseinek nem felelnek meg, de megfelelnek az e rendeletnek a MódR.5. hatálybalépését[^129] megelőzően hatályos rendelkezéseinek, továbbá az egyéb hatályos és irányadó jogszabályoknak, az e rendelet hatálybalépésétől számított legfeljebb 3 hónapig lehet a dohánytermék-kiskereskedők részére forgalomba hozatal céljából átadni.
+(3)[^129] A (2) bekezdéstől eltérően mindazon dohányzást helyettesítő nikotintartalmú termékeket, amelyek az e rendeletnek a MódR.5. által megállapított 19/F. § (1) és (2) bekezdése, továbbá a 19/G. § (9) bekezdése rendelkezéseinek nem felelnek meg, de megfelelnek az e rendeletnek a MódR.5. hatálybalépését[^130] megelőzően hatályos rendelkezéseinek, továbbá az egyéb hatályos és irányadó jogszabályoknak, az e rendelet hatálybalépésétől számított legfeljebb 3 hónapig lehet a dohánytermék-kiskereskedők részére forgalomba hozatal céljából átadni.
 
-(4) Mindazon termékeket, amelyek az e rendeletnek a MódR.5.-tel megállapított rendelkezéseinek nem felelnek meg, de megfelelnek az e rendeletnek a MódR.5. hatálybalépését[^130] megelőzően hatályos rendelkezéseinek, továbbá az egyéb hatályos és irányadó jogszabályoknak, és amelyeket a (2) és (3) bekezdés szerinti határidőig a dohánytermék-kiskereskedők készletre vették, a dohánytermék-kiskereskedők korlátlan ideig forgalomba hozhatják.
+(4) Mindazon termékeket, amelyek az e rendeletnek a MódR.5.-tel megállapított rendelkezéseinek nem felelnek meg, de megfelelnek az e rendeletnek a MódR.5. hatálybalépését[^131] megelőzően hatályos rendelkezéseinek, továbbá az egyéb hatályos és irányadó jogszabályoknak, és amelyeket a (2) és (3) bekezdés szerinti határidőig a dohánytermék-kiskereskedők készletre vették, a dohánytermék-kiskereskedők korlátlan ideig forgalomba hozhatják.
 
 [^126]: A 21/E. §-t a 120/2024. (VI. 10.) Korm. rendelet 11. §-a iktatta be.
 [^127]: A hatálybalépés időpontja 2024. június 25.
 [^128]: A hatálybalépés időpontja 2024. június 25.
-[^129]: A hatálybalépés időpontja 2024. június 25.
+[^129]: A 21/E. § (3) bekezdése a 165/2024. (VI. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^130]: A hatálybalépés időpontja 2024. június 25.
+[^131]: A hatálybalépés időpontja 2024. június 25.
