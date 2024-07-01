@@ -1,8 +1,8 @@
 ## 9. § A vezető szakfelügyelő készíti el a szakfelügyelet működési szabályzatát, amelyet a Kollégium véleményének figyelembevételével a miniszter hagy jóvá.
 
-10. § (1)[^19] A szakfelügyelet munkáját a vezető szakfelügyelő által készített és a miniszter által jóváhagyott éves terv alapján végzi.
+10. § (1)[^20] A szakfelügyelet munkáját a vezető szakfelügyelő által készített és a miniszter által jóváhagyott éves terv alapján végzi.
 
-(2)[^20] Az éves tervben rögzített ellenőrzéseken kívül ellenőrzést csak a miniszter utasítására vagy – a levéltárfenntartó kérése alapján – a miniszter előzetes engedélyével lehet végezni.
+(2)[^21] Az éves tervben rögzített ellenőrzéseken kívül ellenőrzést csak a miniszter utasítására vagy – a levéltárfenntartó kérése alapján – a miniszter előzetes engedélyével lehet végezni.
 
-[^19]: A 10. § (1) bekezdése az 5/2009. (II. 20.) OKM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^20]: A 10. § (2) bekezdése az 5/2009. (II. 20.) OKM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^20]: A 10. § (1) bekezdése az 5/2009. (II. 20.) OKM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 10. § (2) bekezdése az 5/2009. (II. 20.) OKM rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.
