@@ -1,3 +1,3 @@
-## 16. §[^40] A jegyző az adósságrendezés megindításával egyidejűleg a számlavezető pénzügyi intézményhez soron kívül eljuttatja a bírósági végzésben kijelölt pénzügyi gondnok ellenjegyzéséhez szükséges aláírási címpéldányt.
+17. §[^67]
 
-[^40]: A 16. § a 243/2012. (VIII. 31.) Korm. rendelet 10. § e) pontja szerint módosított szöveg.
+[^67]: A 17. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1382. pontja hatályon kívül helyezte.

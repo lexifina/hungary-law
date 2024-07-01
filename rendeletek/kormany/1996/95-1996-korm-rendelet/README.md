@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-95-20-2
 | 2013-02-01 | 1996-95-20-22.8 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2017-01-01 | 1996-95-20-22.9 | 97/2008. (IV. 29.) Korm. rendelet |
 | 2020-04-25 | 1996-95-20-22.10 | 151/2020. (IV. 24.) Korm. rendelet |
+| 2024-07-01 | 1996-95-20-22.11 | 142/2024. (VI. 28.) Korm. rendelet |
