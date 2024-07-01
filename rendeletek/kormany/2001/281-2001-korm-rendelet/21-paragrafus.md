@@ -1,4 +1,4 @@
-## 20/F. §[^54] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
+## 20/F. §[^56] A pénztár ingatlankezelőjének ingatlankezelői szakképesítéssel kell rendelkeznie. Amennyiben az ingatlankezelést jogi személy végzi, akkor az ingatlankezelő legalább egy alkalmazottjának kell rendelkeznie ingatlankezelői szakképesítéssel.
 
 ## IV. RÉSZ
 
@@ -10,4 +10,4 @@
 
 (2) A pénztár a 3. számú mellékletben meghatározott értékelési elvek alapján határozza meg eszközei piaci értékét.
 
-[^54]: A 20/F. §-t a 368/2007. (XII. 23.) Korm. rendelet 11. §-a iktatta be.
+[^56]: A 20/F. §-t a 368/2007. (XII. 23.) Korm. rendelet 11. §-a iktatta be.

@@ -38,15 +38,17 @@
 
 ## R = (1+r1)×(1+r2)×...×(1+rn)–1
 
+## 5K27812M_0
+
 ## ahol:
 
 ## R = a referenciaindex éves, negyedéves hozama
 
-## rn = a referenciaindex havi hozama
+## rn= a referenciaindex havi hozama
 
 ## BMk = a k. referenciaindex
 
-## IBMk(n) = a k. referenciaindex n. havi záró indexértéke
+## IBMk(n)= a k. referenciaindex n. havi záró indexértéke
 
 ## x, y, z…s = a BM1, BM2, BM3.....BMk súlya a portfolióhoz kijelölt referenciaindexekhez
 
@@ -88,6 +90,6 @@
 
 ## e) Választható portfoliós rendszerben az egyes portfoliókra számított hozamrátát az a)–d) pontok szerinti módszerrel kell kiszámítani.
 
-4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^145]
+4/A. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^159]
 
-[^145]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.
+[^159]: A 4/A. számú mellékletet a 335/2008. (XII. 30.) Korm. rendelet 16. § (2) bekezdése iktatta be, hatályon kívül helyezte a 139/2016. (VI. 13.) Korm. rendelet 11. § b) pontja.

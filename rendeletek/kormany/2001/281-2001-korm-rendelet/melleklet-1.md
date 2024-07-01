@@ -1,20 +1,20 @@
-## 39. §[^108] E rendelet alkalmazásában az „elismert értékpapírpiac” kifejezésen szabályozott piacot kell érteni.
+## 39. §[^111] E rendelet alkalmazásában az „elismert értékpapírpiac” kifejezésen szabályozott piacot kell érteni.
 
 1. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez
 
-1.[^109] A 3. § (1) bekezdése szerinti csoportokba a következők tartoznak:
+1.[^112] A 3. § (1) bekezdése szerinti csoportokba a következők tartoznak:
 
 a) házipénztár: forint- és valutapénztár;
 
 b) pénzforgalmi számla és befektetési számla;
 
-c)[^110] betét (betétszerződés): hitelintézeti betétszámlán elhelyezett pénzösszeg;
+c)[^113] betét (betétszerződés): hitelintézeti betétszámlán elhelyezett pénzösszeg;
 
 d) hitelviszonyt megtestesítő értékpapírok (kötvények):
 
 d1) magyar állampapír,
 
-d2)[^111] értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal,
+d2)[^114] értékpapír, amelyben foglalt kötelezettség teljesítéséért az állam készfizető kezességet vállal,
 
 d3) külföldi állampapír,
 
@@ -32,17 +32,17 @@ d9) magyarországi helyi önkormányzat által nyilvánosan forgalomba hozott k�
 
 d10) külföldi önkormányzat által nyilvánosan forgalomba hozott kötvény;
 
-e) részvények:
+e)[^115] részvények:
 
-e1) a Budapesti Értéktőzsdére vagy más elismert értékpapírpiacra bevezetett Magyarországon nyilvánosan forgalomba hozott részvény,
+e1)[^116] szabályozott piacra bevezetett Magyarországon nyilvánosan forgalomba hozott részvény,
 
-e2) Magyarországon kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az általa adott értékpapír fél éven belüli, bármely tőzsdére vagy elismert értékpapírpiacra történő bevezetésére, és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé,
+e2) Magyarországon kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az adott értékpapír fél éven belüli, bármely szabályozott piacra történő bevezetésére, és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé,
 
-e3) tőzsdére vagy más elismert értékpapírpiacra bevezetett, külföldön kibocsátott, nyilvánosan forgalomba hozott részvény,
+e3)[^117] szabályozott piacra bevezetett, külföldön kibocsátott, nyilvánosan forgalomba hozott részvény,
 
-e4) külföldön kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az általa adott értékpapír fél éven belüli, bármely tőzsdére vagy elismert értékpapírpiacra történő bevezetésére, és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé;
+e4)[^118] külföldön kibocsátott, nyilvánosan forgalomba hozott részvény, melynek kibocsátója kötelezettséget vállalt az adott értékpapír fél éven belüli, bármely szabályozott piacra történő bevezetésére, és a bevezetésnek nincs törvényi vagy egyéb akadálya, vagy olyan részvény, amelyre a vételt megelőző 30 napon belül folyamatosan legalább két befektetési szolgáltató nyilvános módon visszavonhatatlan vételi kötelezettséget jelentő árfolyamot tesz közzé,
 
-e5)[^112] olyan Magyarországon székhellyel rendelkező bank zártkörűen forgalomba hozott részvénye, melynek kibocsátója eleget tesz a tőkepiacról szóló 2001. évi CXX. törvény Második Részének V. Fejezetében foglalt nyilvánosan forgalomba hozott értékpapírral kapcsolatos tájékoztatási kötelezettségnek a pénztár felé;
+e5)[^119] olyan Magyarországon székhellyel rendelkező bank zártkörűen forgalomba hozott részvénye, melynek kibocsátója eleget tesz a tőkepiacról szóló 2001. évi CXX. törvény Második Részének V. Fejezetében foglalt nyilvánosan forgalomba hozott értékpapírral kapcsolatos tájékoztatási kötelezettségnek a pénztár felé;
 
 f) befektetési jegy, illetve egyéb kollektív befektetési értékpapír:
 
@@ -74,34 +74,38 @@ n) értékpapír-kölcsönzési ügyletből származó követelések;
 
 o) kockázati tőkealap-jegy;
 
-p)[^113] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
+p)[^120] egyéb, tőzsdén vagy más szabályozott piacon jegyzett értékpapír.
 
-2.[^114] Nem szabványosított határidős és opciós ügyletek esetében az elszámolási feltételek és a partnerkockázat kialakítása során biztosítani kell, hogy a termék nem szabványosított voltából adódóan a pénztártagokat ne érhesse kár.
+2.[^121] Nem szabványosított határidős és opciós ügyletek esetében az elszámolási feltételek és a partnerkockázat kialakítása során biztosítani kell, hogy a termék nem szabványosított voltából adódóan a pénztártagokat ne érhesse kár.
 
 3. A pénztár nem köteles eladni a tulajdonában lévő, tőzsdéről kivezetésre kerülő részvényt az e rendelet befektetési kategóriáinak történő megfelelés céljából. Az ilyen értékpapírok aránya azonban nem haladhatja meg a befektetett pénztári eszközök 5%-át.
 
-4.[^115] A pénztár csak állampapír alapú, szállításos vagy óvadéki repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
+4.[^122] A pénztár csak állampapír alapú, szállításos vagy óvadéki repót (fordított repót) köthet, melynek értéke nem haladhatja meg a befektetett pénztári eszközök 20%-át. A fedezeti tartalék eszközfedezetének terhére repó ügyletek (ide nem értve a fordított repót) csak likviditási célból köthetők.
 
-5.[^116] Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
+5.[^123] Az egyéb kollektív befektetési értékpapírokra az e rendeletben a befektetési jegyekre meghatározott befektetési előírások az irányadók.
 
-6.[^117] A pénztári portfólió terhére a Tpt.-nek az értékpapír-kölcsönzésre vonatkozó szabályainak betartásával értékpapír-kölcsönzési ügylet köthető, ezen ügyletek összértéke nem haladhatja meg a befektetett pénztári eszközök 30%-át. A pénztári befektetési portfólióban csak értékpapírok kölcsönadása lehetséges, kölcsönvétele nem. Az értékpapír-kölcsönzési ügylet futamideje egy évnél hosszabb nem lehet, az ügylethez kapcsolódóan megfelelő óvadékot kell kikötni. Értékpapír-kölcsönzési ügylet esetében óvadékként csak olyan befektetési eszközök szolgálhatnak, amelyek megszerzését a jogszabályok és a pénztár befektetési politikája lehetővé teszik. A pénztár által kölcsönadott értékpapírok a pénztári portfolióból kikerülnek, ugyanakkor a befektetési korlátozások ellenőrzése során úgy kell őket figyelembe venni, mintha továbbra is a pénztári portfolió részét képeznék.
+6.[^124] A pénztári portfólió terhére a Tpt.-nek az értékpapír-kölcsönzésre vonatkozó szabályainak betartásával értékpapír-kölcsönzési ügylet köthető, ezen ügyletek összértéke nem haladhatja meg a befektetett pénztári eszközök 30%-át. A pénztári befektetési portfólióban csak értékpapírok kölcsönadása lehetséges, kölcsönvétele nem. Az értékpapír-kölcsönzési ügylet futamideje egy évnél hosszabb nem lehet, az ügylethez kapcsolódóan megfelelő óvadékot kell kikötni. Értékpapír-kölcsönzési ügylet esetében óvadékként csak olyan befektetési eszközök szolgálhatnak, amelyek megszerzését a jogszabályok és a pénztár befektetési politikája lehetővé teszik. A pénztár által kölcsönadott értékpapírok a pénztári portfolióból kikerülnek, ugyanakkor a befektetési korlátozások ellenőrzése során úgy kell őket figyelembe venni, mintha továbbra is a pénztári portfolió részét képeznék.
 
-7.[^118] Az 1. pont e5) alpontjában meghatározott eszköz megvásárlását megelőzően köteles bejelenteni a Felügyeletnek a tulajdonszerzését.
+7.[^125] Az 1. pont e5) alpontjában meghatározott eszköz megvásárlását megelőzően köteles bejelenteni a Felügyeletnek a tulajdonszerzését.
 
-8.[^119] A pénztár az 1. pont e5) alpontjában meghatározott eszközt a pénztártól és a zártkörűen működő részvénytársaságtól független, a pénztár választott könyvvizsgálójától eltérő értékelő könyvvizsgáló értékelése alapján meghatározott piaci értéknél magasabb értéken nem vásárolhatja meg. Az eszköz értékelését végző könyvvizsgáló köteles megfelelni a közérdeklődésre számot tartó gazdálkodó könyvvizsgálójára vonatkozó előírásoknak.
+8.[^126] A pénztár az 1. pont e5) alpontjában meghatározott eszközt a pénztártól és a zártkörűen működő részvénytársaságtól független, a pénztár választott könyvvizsgálójától eltérő értékelő könyvvizsgáló értékelése alapján meghatározott piaci értéknél magasabb értéken nem vásárolhatja meg. Az eszköz értékelését végző könyvvizsgáló köteles megfelelni a közérdeklődésre számot tartó gazdálkodó könyvvizsgálójára vonatkozó előírásoknak.
 
-9.[^120] Amennyiben a zártkörűen működő részvénytársaság tevékenységével kapcsolatban olyan információ jut a pénztár vezetésének tudomására, amely alapján feltételezhető, hogy a pénztártagok érdekei veszélyben vannak, a pénztár értesíti a Felügyeletet.
+9.[^127] Amennyiben a zártkörűen működő részvénytársaság tevékenységével kapcsolatban olyan információ jut a pénztár vezetésének tudomására, amely alapján feltételezhető, hogy a pénztártagok érdekei veszélyben vannak, a pénztár értesíti a Felügyeletet.
 
-[^108]: A 39. §-t a 293/2005. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
-[^109]: Az 1. számú melléklet 1. pontja a 293/2005. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^110]: Az 1. melléklet 1. pont c) alpontja a 470/2015. (XII. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^111]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 229. § b) pontja szerint módosított szöveg.
-[^112]: Az 1. számú melléklet 1. pont e) alpont e5) alpontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^113]: Az 1. számú melléklet 1. pontjának p) alpontját a 233/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
-[^114]: Az 1. számú melléklet 2. pontja a 233/2006. (XI. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^115]: Az 1. számú melléklet 4. pontja a 332/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^116]: Az 1. számú melléklet 5. pontját a 293/2005. (XII. 23.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^117]: Az 1. számú melléklet 6. pontját a 293/2005. (XII. 23.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 368/2007. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^118]: Az 1. számú melléklet 7. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^119]: Az 1. számú melléklet 8. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 139/2016. (VI. 13.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^120]: Az 1. számú melléklet 9. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^111]: A 39. §-t a 293/2005. (XII. 23.) Korm. rendelet 12. §-a iktatta be.
+[^112]: Az 1. számú melléklet 1. pontja a 293/2005. (XII. 23.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^113]: Az 1. melléklet 1. pont c) alpontja a 470/2015. (XII. 29.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^114]: Az 1. számú melléklet 1. pont d) pont d2) alpontja a 221/2014. (IX. 4.) Korm. rendelet 229. § b) pontja szerint módosított szöveg.
+[^115]: Az 1. számú melléklet 1. pont e) alpont e2) pontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^116]: Az 1. számú melléklet 1. pont e) alpont e1) pontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^117]: Az 1. számú melléklet 1. pont e) alpont e3) pontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^118]: Az 1. számú melléklet 1. pont e) alpont e4) pontja a 684/2023. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^119]: Az 1. számú melléklet 1. pont e) alpont e5) alpontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^120]: Az 1. számú melléklet 1. pontjának p) alpontját a 233/2006. (XI. 24.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^121]: Az 1. számú melléklet 2. pontja a 233/2006. (XI. 24.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^122]: Az 1. számú melléklet 4. pontja a 332/2009. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^123]: Az 1. számú melléklet 5. pontját a 293/2005. (XII. 23.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^124]: Az 1. számú melléklet 6. pontját a 293/2005. (XII. 23.) Korm. rendelet 13. § (3) bekezdése iktatta be, szövege a 368/2007. (XII. 23.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^125]: Az 1. számú melléklet 7. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^126]: Az 1. számú melléklet 8. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 139/2016. (VI. 13.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^127]: Az 1. számú melléklet 9. pontját a 412/2015. (XII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be.

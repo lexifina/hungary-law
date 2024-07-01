@@ -1,9 +1,9 @@
-17. §[^35] (1)[^36]
+17. §[^37] (1)[^38]
 
 (2) A napi piaci eszközértékelésre kötelezett pénztár esetében a letétkezelő az eszközértékelésen alapuló vagyonértékelést a letétkezelési szerződésben meghatározott módon és tartalommal elérhetővé teszi a pénztárnak.
 
-(3)[^37]
+(3)[^39]
 
-[^35]: A 17. § a 116/2005. (VI. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^36]: A 17. § (1) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.
-[^37]: A 17. § (3) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.
+[^37]: A 17. § a 116/2005. (VI. 27.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^38]: A 17. § (1) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.
+[^39]: A 17. § (3) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.

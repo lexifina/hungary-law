@@ -1,5 +1,3 @@
-## A nemi hovatartozás miatt eltérő mértékű, típusú vagy formájú pénztári szolgáltatások alapjául szolgáló statisztikák bemutatása
-
 | Sor- szám | Felü- gyeleti kód | A szol- gálta- tás meg- neve- zése | A nemi hovatartozás miatt a szolgál- tatásban alkalmazott eltérés formája (pl. eltérő járadékösszeg) | Az eltérő szolgáltatás alapjául szolgáló paraméter(ek) megnevezése és nemek szerinti eltérése az egyes korcsoportokban (a nőkre jellemző átlagos paraméterérték osztva a férfiakra jellemző átlagos paraméterértékkel,%-ban) | Egyéb, életkor szerint nem különböző paraméter | A statisztika forrása | Mód |
 
 | 0–4 év | 5–9 év | 10–14 év | 15–19 év | 20–24 év | 25–29 év | 30–34 év | 35–39 év | 40–44 év | 45–49 év | 50–54 év | 55–59 év | 60–64 év | 65–69 év | 70–74 év | 75–79 év | 80–84 év | 85–89 év | 90–94 év | 95– 100 év | meg- neve- zése | nemek sze- rinti elté- rése (nő/ffi,%- ban) |
@@ -16,6 +14,6 @@
 
 | 004 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-6–9. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^147]
+6. számú melléklet a 281/2001. (XII. 26.) Korm. rendelethez[^161]
 
-[^147]: A 6–9. számú mellékletet a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.
+[^161]: A 6–9. számú mellékletet a 233/2006. (XI. 24.) Korm. rendelet 14. § (3) bekezdése hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## Tagi kölcsön
 
-27. §[^70] (1) A pénztártag részére tagi kölcsön első ízben a várakozási idő harmadik évét követően nyújtható.
+27. §[^73] (1) A pénztártag részére tagi kölcsön első ízben a várakozási idő harmadik évét követően nyújtható.
 
 (2) A pénztár a tagi kölcsönt a fedezeti tartalék terhére nyújtja. A pénztár nem nyújthat újabb tagi kölcsönt, amennyiben az általa korábban nyújtott tagi kölcsönök együttes állománya meghaladja fedezeti tartalékának 5%-át.
 
@@ -22,7 +22,7 @@ d) a tagnak tagi lekötése van.
 
 (7) A tagi kölcsön nyújtásának egyéb feltételeit a pénztár alapszabályában kell meghatározni.
 
-(8)[^71] A tag más pénztárba történő átlépése esetén az átadó pénztárnak tájékoztatnia kell az átvevő pénztárat a tag által korábban felvett, vissza nem fizetett, egyéni számlával szemben érvényesített tagi kölcsönről.
+(8)[^74] A tag más pénztárba történő átlépése esetén az átadó pénztárnak tájékoztatnia kell az átvevő pénztárat a tag által korábban felvett, vissza nem fizetett, egyéni számlával szemben érvényesített tagi kölcsönről.
 
-[^70]: A 27. § a 332/2004. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^71]: A 27. § (8) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 6. §-a iktatta be.
+[^73]: A 27. § a 332/2004. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^74]: A 27. § (8) bekezdését a 233/2006. (XI. 24.) Korm. rendelet 6. §-a iktatta be.
