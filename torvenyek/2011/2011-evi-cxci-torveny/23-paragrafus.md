@@ -18,7 +18,7 @@ c) az önkéntes tartalékos katonai szolgálati viszonnyal rendelkező munkavá
 
 d) a Munka Törvénykönyvéről szóló törvény alapján más munkáltatónál történő átmeneti munkavégzés során foglalkoztatott munkavállalót,
 
-e) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állományú katonát,
+e) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos és szerződéses állományú katonát,
 
 f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a munkaadónál, aki őt nevelőszülőként foglalkoztatja.
 

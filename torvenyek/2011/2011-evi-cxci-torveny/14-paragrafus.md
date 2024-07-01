@@ -2,7 +2,7 @@
 
 14. § (1) A megváltozott munkaképességű személyek ellátásait a rehabilitációs hatóságnál az erre rendszeresített nyomtatványon vagy elektronikus űrlapon lehet kérelmezni. Az ellátásra való jogosultságot megállapító, vagy az egészségi állapotra tekintettel hozott elutasító döntés véglegessé válását vagy jogerőre emelkedését követő 12 hónapon belül előterjesztett újabb kérelmet csak akkor kell elbírálni, ha a rendelkezésre álló egészségügyi dokumentáció alapján megállapítható, hogy a kérelmező egészségi állapotában a korábbi döntésben még figyelembe nem vett tartós változás következett be.
 
-(1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását vagy jogerőre emelkedését követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
+(1a) Ha a megváltozott munkaképességű személyek ellátásában részesülő személy az ellátásra való jogosultságot megállapító döntés véglegessé válását követően újabb kérelmet terjeszt elő, azt a 19. § (1) bekezdés b) pontja szerinti felülvizsgálat iránti kérelemnek kell tekinteni.
 
 (2) A megváltozott munkaképességű személyek ellátásaival kapcsolatos e törvényben meghatározott eljárás, valamint az ezzel összefüggésben indult közigazgatási per – ideértve a tartozás elengedésére, mérséklésére és a részletfizetés engedélyezésére irányuló eljárást is – költség- és illetékmentes.
 

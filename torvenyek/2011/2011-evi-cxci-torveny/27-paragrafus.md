@@ -18,7 +18,7 @@ b) a szakmai gyakorlatot tanúsító igazolást,
 
 c) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást,
 
-d) a bejelentő nyilatkozatát arról, hogy nem áll cselekvőképességet kizáró vagy korlátozó gondnokság hatálya alatt.
+d)
 
 (3) A Kormány által kijelölt szerv a szakértői tevékenység végzésére jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást (a továbbiakban: foglalkozási rehabilitációs szakértői névjegyzék) vezet, amely a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározott adatokon túl tartalmazza a szakértői tevékenység végzésére jogosult személy elérhetőségét, valamint a végzettségére, képesítésére vonatkozó adatokat. A foglalkozási rehabilitációs szakértői névjegyzékből kizárólag a szakértői tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 

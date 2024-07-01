@@ -26,7 +26,7 @@ h) foglalkoztatására a foglalkoztatásra irányuló jogviszony létesítéséh
 
 (2a)
 
-(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
+(3) A rehabilitációs ellátást a (2) bekezdés a) pontja szerinti esetben a kérelemben megjelölt időponttól, ennek hiányában a kérelem benyújtását követő hónap első napjával, a (2) bekezdés c) pontja szerinti esetben a rendszeres pénzellátás megállapítását megelőző nappal, a (2) bekezdés d) pontja szerinti esetben a 19. § (2) bekezdés első mondatában meghatározott időponttól, a (2) bekezdés e)–h) pontja szerinti esetben a megszüntetési ok megállapítását követő hónap első napjával kell megszüntetni.
 
 (4) A (2) bekezdés d) és e) pontjában foglaltak fennállását a rehabilitációs hatóság által végzett komplex minősítés alapján kell megállapítani.
 
