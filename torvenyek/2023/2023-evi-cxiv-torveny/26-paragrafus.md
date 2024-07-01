@@ -1,3 +1,7 @@
 ## 8. A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosítása
 
-### 26. §
+26. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 35. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) Ha a helyi önkormányzattal szemben adósságrendezési eljárás indul, az adósságrendezési eljárás alatt és az adósságrendezési eljárás jogerős befejezését követő két évig az önkormányzati képviselő, a bizottság tagja, a részönkormányzat elnöke, a társulási tanács elnöke és a tanácsnok nem jogosult tiszteletdíjra és természetbeni juttatásra és számára a költségtérítésen felül egyéb jogcímen sem lehet személyi juttatást megállapítani.
+
+(2b) A helyi önkormányzatokért felelős miniszter a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvényben meghatározott eljárás szerinti egyedi döntése alapján a (2a) bekezdésben foglaltak alól a tiszteletdíj tekintetében felmentést ad abban az esetben, ha megállapítható, hogy a kérelmező nem vett részt a helyi önkormányzat gazdálkodását kedvezőtlenül befolyásoló döntéshozatali eljárásban, vagy a döntéssel nem értett egyet, továbbá ha a tiszteletdíj kifizetése az önkormányzati feladatellátást nem veszélyezteti.”

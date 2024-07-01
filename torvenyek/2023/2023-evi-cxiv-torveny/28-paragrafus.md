@@ -1,1 +1,5 @@
-### 28. §
+28. § A Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 80. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) Ha a helyi önkormányzattal szemben adósságrendezési eljárás indul, az adósságrendezési eljárás alatt és az adósságrendezési eljárás jogerős befejezését követő két évig a polgármestert általános jogkörrel helyettesítő alpolgármester kivételével az alpolgármester nem jogosult tiszteletdíjra és számára a költségtérítésen felül egyéb jogcímen sem lehet személyi juttatást megállapítani.
+
+(2b) A helyi önkormányzatokért felelős miniszter a helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvényben meghatározott eljárás szerinti egyedi döntése alapján a (2a) bekezdésben foglaltak alól a tiszteletdíj tekintetében felmentést ad abban az esetben, ha megállapítható, hogy az alpolgármester nem vett részt a helyi önkormányzat gazdálkodását kedvezőtlenül befolyásoló döntéshozatali eljárásban, vagy a döntéssel nem értett egyet, továbbá ha a tiszteletdíj kifizetése az önkormányzati feladatellátást nem veszélyezteti.”

@@ -1,1 +1,7 @@
-### 11. §
+## „i) a helyi önkormányzat vagyonelemeinek áttekintését követően kezdeményezheti a képviselő-testületnél a helyi önkormányzat feladatellátásához nem szükséges vagyontárgyak forgalomképes vagyonkörbe történő minősítését és egyúttal a helyi önkormányzat vagyonával való gazdálkodásról szóló önkormányzati rendelet felülvizsgálatát;
+
+## j) a bíróság általi kijelölését követő 15 napon belül felhívja a polgármestert és a képviselő-testületet, hogy az adósságrendezési eljárás megindítását követő 75 napon belül gondoskodjanak a helyi önkormányzat fizetési számlájának kincstár általi vezetéséről, és tegyék meg a szükséges intézkedéseket a helyi önkormányzat kincstáron kívüli, forintban vagy devizában vezetett fizetési számláinak megszüntetése érdekében.”
+
+11. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 15. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az önkormányzati csődbiztos az adósságrendezési eljárás megindításának időpontját követő 40 napon belül írásban felszólítja a le nem járt tartozással rendelkező hitelezőket, hogy követeléseiket az adósságrendezési eljárás megindítását elrendelő végzés közzétételétől számított 75 napon belül a részére jelentsék be, és egyidejűleg tájékoztatja a hitelezőket a követelésük bejelentése elmulasztásának a jogi következményeiről és az adósságrendezési eljárás megindítását elrendelő végzés közzétételének napjáról.”

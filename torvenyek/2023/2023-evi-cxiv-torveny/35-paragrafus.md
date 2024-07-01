@@ -1,1 +1,3 @@
-### 35. §
+35. § Az államháztartásról szóló 2011. évi CXCV. törvény 60/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A helyi önkormányzat kérelme alapján a visszafizetési és kamatfizetési kötelezettségére vonatkozóan – a késedelmi kamat és az 53/A. § (2) bekezdés szerinti ügyleti kamat kivételével – a kincstár legfeljebb tizenkét havi, a Kormány kijelölése alapján társadalmi felzárkózást elősegítő programban részt vevő önkormányzatok esetében legfeljebb 24 havi részletfizetést engedélyezhet, ha a kérelmező igazolja, hogy kötelező feladatainak ellátását az egyösszegű visszafizetés veszélyeztetné. A részletfizetésről hozott határozattal szemben nincs helye fellebbezésnek. A részletfizetési kérelem benyújtására meghatározott határidő elmulasztása esetén igazolási kérelem benyújtásának nincs helye. A részletfizetési kérelem elbírálására vonatkozó eljárás során szünetelésnek nincs helye.”
