@@ -44,7 +44,7 @@ ec) tartalmazza a legjellemzőbb tevékenység vagy munkaterület ellátásához
 
 ed) a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetenciákkal a tevékenység, munkaterületi feladat elvégezhető vagy magasabb szinten gyakorolható,
 
-ee) a legjellemzőbb tevékenység vagy munkaterület leírása egyértelműen meghatározott és a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetencia a tevékenység végzéséhez vagy a munkaterületen szükséges,
+ee)[^1] a legjellemzőbb tevékenység vagy munkaterület leírása egyértelműen meghatározott és a szakmai képzéshez kapcsolódóan megszerezhető szakképesítéshez szükséges kompetencia a tevékenység végzéséhez vagy a munkaterületen szükséges, valamint
 
 ef) bemutatásra kerül, hogy a tervezett képzésre mely társadalmi-gazdasági területeken van szükség.
 
@@ -69,3 +69,5 @@ c) az egészségügyi alkalmassági követelményt – a tevékenység végzése
 d) a gyakorlati idő és más feltétel előírását a megszerezhető kompetencia indokolja.
 
 (3) A programkövetelmény nem vehető nyilvántartásba, ha a programkövetelmény alapján megszerezhető szakképesítés szakmai kompetenciái a szakmajegyzékben szereplő szakma képzési és kimeneti követelményekben meghatározott kompetenciáinak több mint harminc százalékával azonos vagy hasonló, kivéve, ha az a szakmához kapcsolódó szakmai kompetenciák magasabb szintű elsajátítására vagy speciális szakmai ismeretek és szakmai készségek megszerzésére irányul.
+
+[^1]: A 2. § (1) bekezdés e) pont ee) alpontja a 29/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
