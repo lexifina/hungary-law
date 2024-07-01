@@ -298,7 +298,7 @@
 
 | 149. | Országos Kórházi Főigazgatóság | Budapest |
 
-| 150. | Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet | Budapest |
+| 150. | Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet | Budapest |
 
 | 151. | Országos Korányi Pulmonológiai Intézet | Budapest |
 
