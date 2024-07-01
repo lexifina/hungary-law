@@ -1,4 +1,4 @@
-8. § (1)[^6] Ha a szakértő tevékenységével vagy mulasztásával megszegi
+8. § (1)[^7] Ha a szakértő tevékenységével vagy mulasztásával megszegi
 
 a) a tevékenységre vonatkozó jogszabályok rendelkezéseit, vagy
 
@@ -8,4 +8,4 @@ az eljáró hatóság a rendelkezések megszegőjét figyelmeztetésben részes�
 
 (2) Az eljáró hatóság az (1) bekezdés szerinti intézkedését a nyilvántartásba bejegyzi. Az eljáró hatóság a nyilvántartásból az intézkedéssel kapcsolatos bejegyzést a megtiltás időtartamának lejártával törli.
 
-[^6]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 283. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^7]: A 8. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 283. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
