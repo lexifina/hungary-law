@@ -4,7 +4,7 @@
 
 (2) A közlevéltár az éves ellenőrzési tervét úgy állítja össze, hogy
 
-a)[^1] a központi államigazgatási szerv, bírósági, ügyészségi és rendvédelmi szervek, továbbá a vármegyei (fővárosi) és a városi önkormányzat hivatala iratkezelésének ellenőrzésére háromévenként,
+a)[^7] a központi államigazgatási szerv, bírósági, ügyészségi és rendvédelmi szervek, továbbá a vármegyei (fővárosi) és a városi önkormányzat hivatala iratkezelésének ellenőrzésére háromévenként,
 
 b) az a) pontban nem említett – működése során maradandó értékű iratokat létrehozó – szerv iratkezelésének ellenőrzésére ötévenként
 
@@ -22,4 +22,4 @@ c) az iratok nyilvántartásával, a nyilvántartáshoz kapcsolódó segédletek
 
 (5) Az ellenőrzést a (2) bekezdés a) pontja szerinti esetben főlevéltáros vagy levéltáros, a (2) bekezdés b) pontja szerinti esetben főlevéltáros, levéltáros vagy segédlevéltáros végzi.
 
-[^1]: A 8. § (2) bekezdés a) pontja a 12/2022. (XII. 29.) KIM rendelet 9. §-a szerint módosított szöveg.
+[^7]: A 8. § (2) bekezdés a) pontja a 12/2022. (XII. 29.) KIM rendelet 9. §-a szerint módosított szöveg.

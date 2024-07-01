@@ -1,8 +1,8 @@
 ## 3. A levéltárak nyilvántartása
 
-3. § (1) A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény (a továbbiakban: Ltv.) alapján a Magyar Nemzeti Levéltár (a továbbiakban: MNL) által a közlevéltárakról és a magánlevéltárakról vezetett nyilvántartás – levéltár-típusonkénti bontásban – tartalmazza:
+3. § (1)[^3] Az Ltv. alapján a Magyar Nemzeti Levéltár (a továbbiakban: MNL) által a közlevéltárakról és a magánlevéltárakról vezetett nyilvántartás – levéltártípusonkénti bontásban – tartalmazza
 
-a) a levéltár – több telephelyen működő levéltár esetében a kutatóteremmel rendelkező telephelyeket is ideértve – nevét, címét, postacímét, telefonszámát, faxszámát, e-mail címét és honlapjának webcímét;
+a) a levéltár – több telephelyen működő levéltár esetében a kutatóteremmel rendelkező telephelyeket is ideértve – nevét, címét, postacímét, telefonszámát, e-mail-címét és honlapjának webcímét;
 
 b) a levéltár kutatóteremmel nem rendelkező telephelyeinek címét és funkcióját;
 
@@ -17,3 +17,5 @@ f) nyilvános magánlevéltár esetében a levéltári anyag használatának, ku
 (2) Az (1) bekezdésben meghatározott adatok változásáról a levéltár nyolc napon belül köteles értesíteni az MNL-t.
 
 (3) Az (1) bekezdésben meghatározott adatok nyilvánosak, azokat az MNL a honlapján közzéteszi.
+
+[^3]: A 3. § (1) bekezdése a 19/2024. (VI. 11.) KIM rendelet 2. §-ával megállapított szöveg.

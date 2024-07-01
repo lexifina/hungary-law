@@ -64,4 +64,6 @@ eb) a beillesztett szövegrészek nem eredeti voltára utaló megjegyzést.
 
 (10) Másolat hitelesítésénél meg kell jelölni a kicsinyítési arányt.
 
-(11) A hitelesített másolat kiállítása az illetékekről szóló törvény szerint illetékköteles.
+(11)[^20]
+
+[^20]: A 47. § (11) bekezdését a 19/2024. (VI. 11.) KIM rendelet 16. §-a hatályon kívül helyezte.

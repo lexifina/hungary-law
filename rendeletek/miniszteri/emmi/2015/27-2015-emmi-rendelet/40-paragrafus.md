@@ -1,4 +1,4 @@
-40. § (1) A levéltár a fondokról és állagokról az Ltv.-ben meghatározottak szerint közzétett módszertani ajánlás vagy segédanyagban foglaltak szerint leírást készít, és azt elektronikus formában a honlapján vagy nyomtatott formában közzéteszi.
+40. § (1)[^14] A levéltár a fondokról és állagokról az Ltv.-ben meghatározottak szerint közzétett módszertani ajánlásban vagy segédanyagban foglaltak szerint leírást készít, és azt elektronikus formában a honlapján vagy nyomtatott formában közzéteszi.
 
 (2) A fondokról és állagokról készült leírás tartalmazza:
 
@@ -21,3 +21,5 @@ h) az iratanyag levéltári őrzésének jogcímét, tulajdonjogát, kutathatós
 i) az iratanyagban való kutatás módját, és az ahhoz rendelkezésre álló segédleteket.
 
 (3) A levéltár a (2) bekezdés szerinti leírást az iratanyag rendezettségéhez, tartalmi sajátosságaihoz igazodva, a kutatás és tájékoztatás céljainak megfelelően kiegészíti, részletezi, és a használhatóság, a levéltári tájékoztatás érdekében feltáró jellegű segédleteket, adatbázisokat készít.
+
+[^14]: A 40. § (1) bekezdése a 19/2024. (VI. 11.) KIM rendelet 15. § d) pontja szerint módosított szöveg.

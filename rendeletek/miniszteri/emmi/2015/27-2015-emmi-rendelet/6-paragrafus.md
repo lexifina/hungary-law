@@ -18,7 +18,7 @@
 
 a) a szerv közlevéltár által meghatározott egyedi azonosítóját;
 
-b) a szerv nevét, címét és postacímét, telefonszámát, faxszámát, e-mail címét;
+b)[^5] a szerv nevét, címét és postacímét, telefonszámát, e-mail-címét és honlapjának webcímét;
 
 c) a szerv iratkezeléséért közvetlenül felelős személy nevét, munkakörét, beosztását;
 
@@ -67,3 +67,8 @@ b) a felhasználók valamennyi tevékenységének naplózását,
 c) a szervdossziék teljes információtartalmának biztonsági mentését és visszaállíthatóságát.
 
 (10) A privatizált szervezet privatizálás előtt keletkezett maradandó értékű irattári anyagát a közlevéltár a (6) bekezdés e)–n) pontjában foglaltak, az irattári anyagot őrző szervet pedig a (6) bekezdés b)–d) pontja szerint tartja nyilván.
+
+(11)[^6] Ha a vallási közösség levéltára – az Ltv. 31. § (1) bekezdése szerinti feladatok átvállalásával – gyűjti a közlevéltár illetékességébe tartozó, vallási közösség által fenntartott szerv iratait, a közlevéltár a vallási közösség levéltára részére átadja a kapcsolódó szervdosszié egy hiteles másolatát.
+
+[^5]: A 6. § (6) bekezdés b) pontja a 19/2024. (VI. 11.) KIM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^6]: A 6. § (11) bekezdését a 19/2024. (VI. 11.) KIM rendelet 4. § (2) bekezdése iktatta be.

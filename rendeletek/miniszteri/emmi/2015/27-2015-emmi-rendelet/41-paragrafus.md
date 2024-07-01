@@ -13,3 +13,7 @@
 (4) A levéltár a (2) bekezdésben meghatározott másolat elkészítését megtagadja, ha a reprodukciós eljárás vagy annak gyakorisága a levéltári anyag fizikai állapotát károsítja, épségben történő fennmaradását veszélyezteti.
 
 (5) A levéltári anyaghoz való hozzáférést a közlevéltár az Ltv.-nek a közlevéltár anyagában történő kutatásról szóló rendelkezéseinek megfelelően, a nyilvános magánlevéltár a kutatási szabályzata szerint biztosítja.
+
+(6)[^15] Az Ltv. 24. § (3) bekezdése szerinti támogatói állásfoglalást a levéltárnak a miniszter által a kormányzati honlapon közzétett formanyomtatvány alkalmazásával kell benyújtani. Az állásfoglalást a levéltár hitelesített másolatként őrzi meg, eredeti példányát a másolat elkészítését követően a benyújtó részére visszaszolgáltatja.
+
+[^15]: A 41. § (6) bekezdését a 19/2024. (VI. 11.) KIM rendelet 8. §-a iktatta be.

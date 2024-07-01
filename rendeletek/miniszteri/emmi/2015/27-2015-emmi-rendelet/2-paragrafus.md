@@ -18,7 +18,7 @@
 
 8. gyűjtemény jellegű fond: a különböző regisztratúra jellegű fondokból származó, a korbeli személyi, tárgyi, területi, formai vonatkozás azonossága szerint válogatott iratok együttese;
 
-9. középszintű rendezettség: középszinten rendezett az az iratanyag, amelyben a fondon vagy állagon belül egy raktári egységet meg nem haladó terjedelmű levéltári egységeket alakítottak ki;
+9.[^1] középszintű rendezettség: középszinten rendezett az az iratanyag, amelyben a fondon vagy állagon belül általában egy raktári egységet meg nem haladó terjedelmű levéltári egységeket alakítottak ki;
 
 10. levéltári egység: a levéltári anyagnak olyan logikai egysége, amelyre önálló nyilvántartás, leírás vonatkozik;
 
@@ -38,4 +38,9 @@
 
 18. rendezetlen iratanyag: olyan iratanyag, amelyben a fondok vagy a fondon belül az állagok szétválasztása nem történt meg;
 
+18a.[^2] stratégiai terv: a közlevéltár stratégiai feladatait megalapozó dokumentum, amely a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvényben (a továbbiakban: Ltv.) és az e rendeletben meghatározott feladatok teljesítése érdekében elemzi a közlevéltár társadalmi és gazdasági környezetét, legalább három-, legfeljebb ötéves időtávban;
+
 19. szervnyilvántartás egyedi azonosítója: a közlevéltár által a szervnyilvántartásban rögzített, az iratot keletkeztető szerv egyedi azonosítására szolgáló számsor és a közlevéltár egyedi azonosítója.
+
+[^1]: A 2. § 9. pontja a 19/2024. (VI. 11.) KIM rendelet 15. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § 18a. pontját a 19/2024. (VI. 11.) KIM rendelet 1. §-a iktatta be.
