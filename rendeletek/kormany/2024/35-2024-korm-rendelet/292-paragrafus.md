@@ -1,5 +1,5 @@
 ## 135. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosítása
 
-292. §[^36]
+292. §[^58]
 
-[^36]: A 292. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 292. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -12,13 +12,13 @@ b) a (3) és (5) bekezdésben meghatározott okiratokat.
 
 a) a Magyar Nemzeti Bank által nyilvántartásba vett ingatlanalap-kezelő vagy a befektetési jegyet forgalmazó igazolását a legalább 250 000 euró összegű, a harmadik országbeli állampolgár nevére kiállított befektetési jegy megvásárlásáról,
 
-b) a Tv. 16. § (3) bekezdés b) pontjában meghatározott lakóingatlanra vonatkozó, ügyvéd által ellenjegyzett, a Tv. 22. § (11) bekezdés a) pontja szerinti, a (4) bekezdésben foglaltaknak megfelelő elidegenítési és terhelési tilalom ingatlan-nyilvántartásba történő bejegyzésére irányuló kérelmet tartalmazó adásvételi szerződést,
+b)[^1] a Tv. 16. § (3) bekezdés b) pontjában meghatározott lakóingatlanra vonatkozó, ügyvéd által ellenjegyzett, a Tv. 22. § (11) bekezdés a) pontja szerinti, a (4) bekezdésben foglaltaknak megfelelő elidegenítési és terhelési tilalom ingatlan-nyilvántartásba történő bejegyzésére irányuló kérelmet tartalmazó adásvételi szerződést annak érdekében, hogy az idegenrendészeti hatóság az ingatlan-nyilvántartási eljárás megindítását – a tulajdoni lapnak az ingatlan-nyilvántartásból történő lekérdezése útján – ellenőrizhesse,
 
 c) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány által fenntartott felsőoktatási intézmény igazolását arról, hogy a harmadik országbeli állampolgár által az oktatási, tudományos kutatási, művészeti alkotótevékenység támogatása céljából a legalább 1 000 000 euró összegű támogatás a felsőoktatási intézményhez megérkezett, vagy
 
 d) nyilatkozatot arról, hogy a Tv. 16. § (3) bekezdésében szereplő befektetések közül melyiket tervezi a beutazást követő három hónapon belül megvalósítani, és az arra rendelkezésére álló anyagi fedezet igazolására külföldi vagy magyar hitelintézet által kiállított igazolást, amely szerint a Tv.-ben szereplő összeg tartósan rendelkezésére áll.
 
-(4) A Tv. 22. § (11) bekezdés a) pontja szerinti elidegenítési és terhelési tilalom jogosultja a Magyar Állam. A Magyar Állam a bejegyzett elidegenítési és terhelési tilalom jogáról nem mondhat le.
+(4)[^2] A Tv. 22. § (11) bekezdés a) pontja szerinti elidegenítési és terhelési tilalom jogosultja a Magyar Állam.
 
 (5) A (3) bekezdés d) pontjában foglaltak igazolása mellett a rendelkezésre álló pénzösszeg törvényes eredetét hitelt érdemlő módon kell igazolni, így különösen
 
@@ -37,3 +37,6 @@ b) a rendszeres, munkavégzésre irányuló jogviszonyból vagy vállalkozási t
 (10) Ha a megkeresett hatóság a (9) bekezdésben meghatározott időtartamon belül nem tesz eleget a megkeresésnek, a véleményt megadottnak kell tekinteni.
 
 (11) A (3) bekezdés tekintetében a nem euróban történt befektetés esetében a befektetés euróban való értékének meghatározása során a befektetés napján a Magyar Nemzeti Bank által nyilvánosságra hozott árfolyamok alkalmazásával számított értéket kell figyelembe venni.
+
+[^1]: A 7. § (3) bekezdés b) pontja a 166/2024. (VI. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^2]: A 7. § (4) bekezdése a 166/2024. (VI. 28.) Korm. rendelet 26. § a) pontja szerint módosított szöveg.

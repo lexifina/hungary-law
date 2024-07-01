@@ -1,3 +1,3 @@
-324. §[^68]
+324. §[^90]
 
-[^68]: A 324. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^90]: A 324. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

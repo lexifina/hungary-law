@@ -1,3 +1,3 @@
-315. §[^59]
+315. §[^81]
 
-[^59]: A 315. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^81]: A 315. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
