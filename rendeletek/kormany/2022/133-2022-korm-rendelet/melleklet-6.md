@@ -1,4 +1,4 @@
-6. melléklet a 133/2022. (IV. 7.) Korm. rendelethez[^12]
+6. melléklet a 133/2022. (IV. 7.) Korm. rendelethez[^13]
 
 ## Hálózati szintű közúti közlekedésbiztonsági felmérés
 
@@ -142,4 +142,4 @@ d) a biztonsági események kezelésére szolgáló rendszerek és
 
 e) a mentőszolgálatokkal való kommunikációra szolgáló rendszerek.
 
-[^12]: A 6. mellékletet a 109/2023. (III. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.
+[^13]: A 6. mellékletet a 109/2023. (III. 30.) Korm. rendelet 6. § (3) bekezdése iktatta be.

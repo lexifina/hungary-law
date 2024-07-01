@@ -22,4 +22,6 @@ amelyek megléte esetén engedélyezi a képzést, továbbá
 
 b) ellátja a vizsgáztatás ellenőrzését és szakfelügyeletét.
 
-(3) Az e § hatálya alá tartozó eljárásokban az ügyintézési határidő 25 nap.
+(3)[^8] Az e § hatálya alá tartozó eljárásokban az ügyintézési határidő 15 nap.
+
+[^8]: A 13. § (3) bekezdése a 104/2024. (V. 9.) Korm. rendelet 38. §-a szerint módosított szöveg.
