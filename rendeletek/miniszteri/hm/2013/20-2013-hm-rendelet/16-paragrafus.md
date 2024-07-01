@@ -1,1 +1,0 @@
-## 15. § A pót ruházati utalványfüzetet az ellátási időszakra kiadott, illetménymaradvánnyal rendelkező érvényes ruházati utalványfüzet betelte esetén kell kiadni. A pót utalványfüzet csak az ellátási időszakra kiadott ruházati utalványfüzet folytatásaként, azzal együtt érvényes.
