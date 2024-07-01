@@ -17,3 +17,9 @@ javára történő átengedésére.
 (4) A többlethasználati megállapodást írásba kell foglalni. Ha a többlethasználati megállapodásban a (3) bekezdésben foglaltak szerint a terület egy része használatának átengedése történik, úgy a többlethasználati megállapodás a 71. § (9) bekezdése szerint elkészített térképi kimutatással együtt érvényes, amely a megállapodás elválaszthatatlan mellékletét képezi. A térképi kimutatást a többlethasználati megállapodásban részes tulajdonostársaknak kell aláírniuk.
 
 (5) A tulajdonostársak között többlethasználati megállapodás jön létre a haszonbérleti szerződés szerinti tartalommal akkor is, ha a tulajdonostárs részéről a Földforgalmi törvény 46. § (2) bekezdése vagy a Ptk. 5:81. § (1) bekezdése szerinti előhaszonbérleti jog gyakorlására kerül sor.
+
+(6) A többlethasználati megállapodás megszűnik
+
+a) a földet használó tulajdonostárs tulajdonostársi minőségének megszűnésével, a tulajdonostársi minőség megszűnésének napján,
+
+b) a használati megosztásról szóló megállapodás módosítása vagy megszűnése esetén.
