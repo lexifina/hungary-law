@@ -1,0 +1,1 @@
+34. § A szolgáltató biztosítja, hogy a belső ellenőrző és információs rendszer képes legyen a benne rögzített adatoknak a Pmt.-ben meghatározott időtartam alatt visszakereshetőséget lehetővé tevő nyilvántartására.
