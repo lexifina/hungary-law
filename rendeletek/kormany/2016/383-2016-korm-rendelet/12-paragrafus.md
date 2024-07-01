@@ -1,8 +1,10 @@
-12. § (1)[^56] A NÉBIH jár el elsőfokon országos illetékességgel
+12. § (1)[^56] Országos illetékességgel a NÉBIH jár el az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.)
 
-a) az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény (a továbbiakban: Evt.) 90/A–90/M. §-a,
+a) 12. § (3) bekezdése,
 
-b) az Evt. 108. § (4) bekezdése,
+b) 90/A–90/M. §-a,
+
+c) 108. § (4) bekezdése
 
 szerinti erdészeti hatóságként.
 
@@ -124,7 +126,7 @@ c) az Evt. 111/A. § (1) bekezdése szerinti nyilvántartást és
 
 d) az Evt. 17. § (1) bekezdése szerinti nyilvántartást.
 
-[^56]: A 12. § (1) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.
+[^56]: A 12. § (1) bekezdése a 89/2024. (IV. 23.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^57]: A 12. § (1a) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 49. §-a iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^58]: A 12. § (1b) bekezdését a 159/2019. (VI. 28.) Korm. rendelet 49. §-a iktatta be, szövege a 107/2024. (V. 9.) Korm. rendelet 24. §-ával megállapított szöveg.
 [^59]: A 12. § (2) bekezdése a 159/2019. (VI. 28.) Korm. rendelet 49. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 56. §-át.

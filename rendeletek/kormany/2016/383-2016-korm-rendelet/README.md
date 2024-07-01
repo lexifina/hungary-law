@@ -49,3 +49,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-383-20-
 | 2024-01-01 | 2016-383-20-22.41 | 596/2023. (XII. 21.) Korm. rendelet |
 | 2024-05-01 | 2016-383-20-22.42 | 89/2024. (IV. 23.) Korm. rendelet |
 | 2024-06-01 | 2016-383-20-22.43 | 107/2024. (V. 9.) Korm. rendelet |
+| 2024-07-01 | 2016-383-20-22.44 | 89/2024. (IV. 23.) Korm. rendelet |
