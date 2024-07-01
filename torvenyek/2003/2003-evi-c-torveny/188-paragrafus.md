@@ -257,5 +257,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
 
 111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
-
-112. Rádióspektrum: a rádióhullámok frekvenciatartománya.

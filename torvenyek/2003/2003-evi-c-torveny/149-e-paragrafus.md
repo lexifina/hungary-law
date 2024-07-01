@@ -1,0 +1,1 @@
+149/E. § A Hatóság a közérdekű feladatellátása keretében olyan programokat, tájékoztató kampányokat szervez, amelyek segítik a kiskorúakat és szüleiket az internetes bántalmakkal, visszaélésekkel és jogsértésekkel szembeni fellépésben.

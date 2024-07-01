@@ -74,3 +74,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2024-01-20 | 2023. évi XCVI. törvény | 2003-100-00-00.91 |
 | 2024-03-01 | 2023. évi XCVI. törvény | 2003-100-00-00.92 |
 | 2024-06-09 | 2024. évi XVII. törvény | 2003-100-00-00.94 |
+| 2024-07-01 | 2024. évi XXX. törvény | 2003-100-00-00.97 |
