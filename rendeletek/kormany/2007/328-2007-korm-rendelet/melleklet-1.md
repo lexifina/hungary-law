@@ -2,7 +2,7 @@
 
 1. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^4]
 
-## A Magyarország által el nem ismert magán-, szolgálati és diplomata-útlevelek listája
+A Magyarország által el nem ismert magán-, szolgálati és diplomata-útlevelek listája
 
 1. Szomália által kiállított magán-, szolgálati és diplomata és különleges útlevél
 

@@ -1,6 +1,6 @@
 2. melléklet a 328/2007. (XII. 11.) Korm. rendelethez[^8]
 
-## A Magyarország által elismert egyéb okmányok listája
+A Magyarország által elismert egyéb okmányok listája
 
 1. Amerikai Egyesült Államok
 

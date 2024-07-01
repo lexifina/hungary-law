@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-328-20-
 | 2016-12-17 | 2007-328-20-22.8 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2019-12-13 | 2007-328-20-22.9 | 304/2019. (XII. 12.) Korm. rendelet |
 | 2022-03-13 | 2007-328-20-22.10 | 107/2022. (III. 12.) Korm. rendelet |
+| 2024-07-01 | 2007-328-20-22.11 | 96/2010. (III. 31.) Korm. rendelet |
