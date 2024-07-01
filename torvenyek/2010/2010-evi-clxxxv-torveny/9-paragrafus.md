@@ -8,7 +8,7 @@
 
 ## A gyermekek és a kiskorúak védelme
 
-9. § (1) A lineáris médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám, a sportműsorszám, a műsorelőzetes, valamint a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám és a közérdekű közlemény kivételével – valamennyi, általa közzétenni kívánt műsorszámot a közzétételt megelőzően a (2)–(7) bekezdés szerinti kategóriák valamelyikébe sorolja.
+9. § (1) A médiaszolgáltatást nyújtó médiaszolgáltató – a hírműsorszám, a politikai tájékoztató műsorszám, a sportműsorszám, a műsorelőzetes, valamint a politikai reklám, a televíziós vásárlás, a társadalmi célú reklám és a közérdekű közlemény kivételével – valamennyi, általa közzétenni kívánt műsorszámot a közzétételt megelőzően a (2)–(7) bekezdés szerinti kategóriák valamelyikébe sorolja.
 
 (2) Azt a műsorszámot, amely korhatárra tekintet nélkül megtekinthető vagy meghallgatható, az I. kategóriába kell sorolni.
 

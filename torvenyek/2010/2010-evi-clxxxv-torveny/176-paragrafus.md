@@ -2,7 +2,7 @@
 
 176. § (1) Amennyiben más tagállamban letelepedett médiaszolgáltató audiovizuális médiaszolgáltatása Magyarország területére irányul, illetve terjesztése vagy közzététele Magyarország területén történik, a Médiatanács intézkedésével a jogsértés fennállásáig, de legfeljebb száznyolcvan napig, a Magyarország területén terjesztett médiaszolgáltatás tekintetében a 187. § (3) bekezdés b)-c) pontja szerinti jogkövetkezményeket alkalmazhatja, ha a következő feltételek fennállnak:
 
-a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (2) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését vagy közegészségügyi sérelmet okoz, vagy a közegészség sérelmével fenyegető súlyos és komoly kockázatot jelent,
+a) a médiaszolgáltatás nyilvánvalóan és súlyosan sérti az Smtv. 17. § (1) bekezdését, 19. § (2) bekezdését, vagy e törvény 9. §-át vagy 10. § (1)–(3) bekezdését, vagy 11. §-át, vagy közegészségügyi sérelmet okoz, vagy a közegészség sérelmével fenyegető súlyos és komoly kockázatot jelent,
 
 b) e bekezdés szerinti intézkedés alkalmazását megelőző tizenkét hónap alatt a médiaszolgáltatás legalább két alkalommal megsértette az a) pontban említett valamely előírást,
 
