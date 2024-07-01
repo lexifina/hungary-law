@@ -1,0 +1,1 @@
+3. § Hatályát veszti a 282/2007. (X. 26.) Korm. rendelet 4. számú mellékletében foglalt táblázat 5. pont 2. alpontjában a „Magyar Természettudományi Múzeum” és az „Országos Széchényi Könyvtár” szövegrész.
