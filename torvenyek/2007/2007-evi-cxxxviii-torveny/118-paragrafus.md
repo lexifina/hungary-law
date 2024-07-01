@@ -16,7 +16,7 @@ b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozo
 
 c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 
-d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, pénzügyi gondnokkal, végrehajtóval, illetve végelszámolóval,
+d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
 
 e) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 
