@@ -6,10 +6,10 @@
 
 (3) Muzeális intézmény nevében
 
-a)[^6] a történelem kiemelkedő személyiségének nevét a Bölcsészettudományi Kutatóközpont engedélyével,
+a)[^8] a történelem kiemelkedő személyiségének nevét a Bölcsészettudományi Kutatóközpont engedélyével,
 
 b) olyan nevet, amelyhez mások jogi érdeke fűződik, csak a jogosult hozzájárulásával
 
 lehet feltüntetni.
 
-[^6]: A 24. § (3) bekezdés a) pontja a 204/2019. (VIII. 23.) Korm. rendelet 24. §-a szerint módosított szöveg.
+[^8]: A 24. § (3) bekezdés a) pontja a 204/2019. (VIII. 23.) Korm. rendelet 24. §-a szerint módosított szöveg.

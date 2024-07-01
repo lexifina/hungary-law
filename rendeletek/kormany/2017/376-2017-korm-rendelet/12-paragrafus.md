@@ -4,14 +4,17 @@
 
 (2) Ha a kérelem elbírálása során szakvélemény beszerzése szükséges, a miniszter
 
-a) természettudomány gyűjtőkör esetén a Magyar Természettudományi Múzeumot,
+a)[^4] természettudomány gyűjtőkör esetén a Magyar Nemzeti Múzeum Közgyűjteményi Központot,
 
 b) néprajz gyűjtőkör esetén a Néprajzi Múzeumot,
 
-c) történet gyűjtőkör esetén a Magyar Nemzeti Múzeumot,
+c)[^5] történet gyűjtőkör esetén a Magyar Nemzeti Múzeum Közgyűjteményi Központot,
 
 d) képzőművészet gyűjtőkör esetén a Szépművészeti Múzeumot, a Magyar Nemzeti Galériát vagy a Ludwig Múzeum – Kortárs Művészeti Múzeumot
 
 rendeli ki szakértőként.
 
 (3) A miniszter a kérelem elbírálása során a kulturális javakhoz való széles körű és egyenlő hozzáférést, a muzeális intézmények szakmai tevékenységének szakágankénti hatékonyságát és eredményességét, valamint a kulturális javak védelmének, biztonságának kérdéseit mérlegeli.
+
+[^4]: A 12. § (2) bekezdés a) pontja a 106/2024. (V. 9.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^5]: A 12. § (2) bekezdés c) pontja a 106/2024. (V. 9.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
