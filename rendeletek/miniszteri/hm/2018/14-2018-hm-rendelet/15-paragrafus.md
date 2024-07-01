@@ -1,3 +1,0 @@
-15. §[^78] A 14. § g) pontja szerinti esetben a készpénz-megváltást annak a szolgálati elöljárónak az engedélyével kell kiadni, aki felelős a HVK-n, más magasabb szintű parancsnokság jogállású katonai szervezetnél, a HM-nél, a miniszter alárendeltségébe tartozó szervezeteknél szolgálatot teljesítő repülőhajózó repüléséért. Ilyen címen a szolgálati elöljáró csak akkor engedélyezheti a készpénz-megváltás kiadását, ha a repülőhajózó ténylegesen repülőkiképzést folytat.
-
-[^78]: A 15. § a 8/2019. (VII. 4.) HM rendelet 11. § 13. pontja, 16. és 20. pontja, a 36/2023. (XII. 27.) HM rendelet 1. § e) pontja szerint módosított szöveg.
