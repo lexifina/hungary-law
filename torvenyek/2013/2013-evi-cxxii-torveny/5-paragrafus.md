@@ -8,7 +8,7 @@
 
 3. birtok: a jogosult tulajdonában, haszonélvezetében vagy bármely más érvényes jogcímen használatában álló valamennyi föld;
 
-4.
+4. életvitelszerű lakáshasználat helye: a személyiadat- és lakcímnyilvántartásba bejelentett tartózkodási hely, ennek hiányában ellenkező bizonyításig a személyiadat- és lakcímnyilvántartásba bejelentett lakóhely (a továbbiakban: bejelentett lakóhely);
 
 5.
 
@@ -22,7 +22,7 @@ a) mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenysége
 
 b) a legalább 25%-ban tulajdonában álló, Magyarországon bejegyzett mezőgazdasági termelőszervezet olyan tagjának minősül, aki mező-, erdőgazdasági tevékenységet, illetve mező-, erdőgazdasági és az azokat kiegészítő tevékenységet személyes közreműködésként végzi;
 
-8. gazdasági év: a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet 6. cikkében meghatározott időszak;
+8. gazdasági év: tárgyév október 16. napjától a következő év október 15. napjáig tartó időszak;
 
 9. helyben lakó:
 

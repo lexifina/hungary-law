@@ -6,7 +6,7 @@ b) a föld használati jogosultságának gazdaságátadási szerződéssel tört
 
 c) a mezőgazdasági termelőszervezet mint földhasználó, és azon természetes személy, aki
 
-ca) a mezőgazdasági termelőszervezetnek legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy
+ca) a mezőgazdasági termelőszervezetnek legalább egy éve legalább 25%-ban tulajdonosa vagy annak közeli hozzátartozója, vagy
 
 cb) a mezőgazdasági termelőszervezet legalább 3 éve foglalkoztatott alkalmazottja,
 

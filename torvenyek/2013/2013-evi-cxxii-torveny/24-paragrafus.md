@@ -26,7 +26,7 @@ gb) és a település üzemeinek átlagos mérete között nagyságrendbeli kül
 
 h) a földnek az ügylet szerinti ellenértéke alapos indok nélkül ne haladja meg
 
-ha) erdőnek nem minősülő föld esetén a földnek – indexálással meghatározott – 20 éves termelési időszakra számított jövedelemtermelő képességét,
+ha) erdőnek nem minősülő föld esetén a földnek a 20 éves termelési időszakra számított jövedelemtermelő képességét,
 
 hb) erdőnek minősülő föld esetében a földnek 50 éves termelési ciklusra számított jövedelemtermelő képességét azzal, hogy az erdőtalaj és a faállomány értékét együttesen kell megállapítani, amelynek során az erdőtalaj értékét az erdő örökös járadékából, míg a faállomány értékét a potenciális véghasználatból levezetett jelenérték szerint kell kiszámítani,
 
