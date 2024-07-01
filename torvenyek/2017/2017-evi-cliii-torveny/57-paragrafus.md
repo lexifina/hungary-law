@@ -10,9 +10,11 @@ a) elektronikus árverésen,
 
 b) hagyományos árverésen (a továbbiakban: árverés),
 
-c) árverésen kívüli eladással, vagy
+c) árverésen kívüli eladással,
 
-d) törvényben meghatározott ingóságokat speciális értékesítési szabályok alapján
+d) törvényben meghatározott ingóságokat speciális értékesítési szabályok alapján vagy
+
+e) bizományi szerződés keretében
 
 kell értékesíteni.
 
@@ -30,4 +32,6 @@ d)
 
 e) azon vagyontárgyakat, amelyek esetében törvény így rendelkezik.
 
-(4) Az önkormányzati adóhatóság a (2) és (3) bekezdésben foglalt szabályokat akkor köteles alkalmazni, ha az elektronikus árveréshez szükséges informatikai feltételek adottak. Ellenkező esetben a lefoglalt vagyontárgyakat az (1) bekezdés c) és d) pontja alkalmazhatóságának hiányában árverésen értékesíti.
+(3a) A (2) bekezdéstől eltérően az állami adó- és vámhatóság akkor értékesítheti bizományos útján a lefoglalt vagyontárgyat, ha feltételezhető, hogy az így elérhető vételár magasabb, mint az árverésen vagy elektronikus árverésen várhatóan elérhető vételár. A bizományi értékesítésről az adóhatóság végzést hoz.
+
+(4) Az önkormányzati adóhatóság a (2) és (3) bekezdésben foglalt szabályokat akkor köteles alkalmazni, ha az elektronikus árveréshez szükséges informatikai feltételek adottak. Ellenkező esetben a lefoglalt vagyontárgyakat az (1) bekezdés c) és d) pontja alkalmazhatóságának hiányában árverésen értékesíti. Az önkormányzati adóhatóság esetében az (1) bekezdés e) pontja nem alkalmazható.
