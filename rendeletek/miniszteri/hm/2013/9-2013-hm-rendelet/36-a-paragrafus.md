@@ -1,1 +1,0 @@
-## 36. § Az állomány tagjának áthelyezésére, kinevezésére és megbízására az jogosult, aki az áthelyezéssel, kinevezéssel vagy megbízással betöltendő szolgálati beosztáshoz rendszeresített rendfokozathoz meghatározott munkáltatói jogkört gyakorolja.
