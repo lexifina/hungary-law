@@ -1,1 +1,1 @@
-24. § A klinikai központban az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. § (6) bekezdésében meghatározott foglalkoztatott esetében az Eszjtv. rendelkezéseit kell alkalmazni.
+24. § A klinikai központban az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Eszjtv.) 1. § (6) bekezdésében meghatározott foglalkoztatott esetében a honvédek jogállási kérdéseit szabályozó jogszabály eltérő rendelkezése hiányában az Eszjtv. rendelkezéseit kell alkalmazni.
