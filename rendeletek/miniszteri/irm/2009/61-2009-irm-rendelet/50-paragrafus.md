@@ -6,9 +6,9 @@
 
 50. § (1) A jogszabály tervezetének az elején fel kell tüntetni a jogszabály megjelölését.
 
-(2)[^36] A jogszabály tervezete az e rendeletben meghatározott esetekben, az alábbi sorrendben a következő logikai egységeket tartalmazhatja:
+(2)[^40] A jogszabály tervezete az e rendeletben meghatározott esetekben, az alábbi sorrendben a következő logikai egységeket tartalmazhatja:
 
-a) preambulum vagy bevezető rész,
+a)[^41] preambulum,
 
 b) általános rendelkezések,
 
@@ -32,4 +32,5 @@ dh) hatályon kívül helyező rendelkezések,
 
 di) a hatályba nem lépésről szóló rendelkezések.
 
-[^36]: Az 50. § (2) bekezdése a 43/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
+[^40]: Az 50. § (2) bekezdése a 43/2011. (XII. 31.) KIM rendelet 4. §-ával megállapított szöveg.
+[^41]: Az 50. § (2) bekezdés a) pontja a 8/2024. (V. 14.) IM rendelet 11. § b) pontja szerint módosított szöveg.

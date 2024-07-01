@@ -18,6 +18,6 @@ b) az azonos vagy hasonló jogviszonyokat átfogóan szabályozó törvények es
 
 szabályozni.
 
-(6)[^76]
+(6)[^85]
 
-[^76]: A 84. § (6) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.
+[^85]: A 84. § (6) bekezdését a 19/2010. (XII. 21.) KIM rendelet 19. § (2) bekezdése hatályon kívül helyezte.

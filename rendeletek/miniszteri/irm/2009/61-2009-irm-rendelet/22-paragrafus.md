@@ -10,7 +10,7 @@ c) a hivatkozást tartalmazó jogszabály felhatalmazása alapján megalkotandó
 
 általános hivatkozással kell hivatkozni.
 
-(2)[^24] Az általános hivatkozásban
+(2)[^25] Az általános hivatkozásban
 
 a) törvényre a „törvény” megjelöléssel,
 
@@ -42,4 +42,4 @@ kell hivatkozni.
 
 (4) A jogszabály tervezete nem tartalmazhat olyan rendelkezést, amely kizárólag általános hivatkozást tartalmaz.
 
-[^24]: A 22. § (2) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^25]: A 22. § (2) bekezdése a 10/2022. (IV. 7.) IM rendelet 1. § (1) bekezdésével megállapított szöveg.

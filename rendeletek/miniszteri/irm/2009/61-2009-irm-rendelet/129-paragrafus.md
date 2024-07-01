@@ -1,4 +1,4 @@
-129. §[^106] (1) A melléklet több szinten tagolható.
+129. §[^117] (1) A melléklet több szinten tagolható.
 
 (2) A melléklet tagolása során az első szint pozitív egész számokból képzett és arab számokkal kifejezett sorszámokkal megjelölt azonos szintű szerkezeti egységeket, minden további szint pedig az előző szintnek az adott szerkezeti egységeket tartalmazó szerkezeti egységének a megjelöléséhez szóköz nélkül kapcsolt pozitív egész számokból képzett és arab számokkal kifejezett sorszámokkal megjelölt azonos szintű szerkezeti egységekből áll.
 
@@ -16,4 +16,4 @@ tartalmazhat.
 
 (6) Merev hivatkozásban a melléklet pontjára a pont megjelölését követően a „pont” kifejezéssel kell hivatkozni.
 
-[^106]: A 129. §-t újonnan a 43/2011. (XII. 31.) KIM rendelet 10. §-a iktatta be.
+[^117]: A 129. §-t újonnan a 43/2011. (XII. 31.) KIM rendelet 10. §-a iktatta be.

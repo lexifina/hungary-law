@@ -1,6 +1,6 @@
 ## 42. A kiegészítő módosító rendelkezés
 
-108. § (1)[^92] Törvény – a (4) bekezdés szerinti eset kivételével – nem egészíthető ki új könyvvel.
+108. § (1)[^102] Törvény – a (4) bekezdés szerinti eset kivételével – nem egészíthető ki új könyvvel.
 
 (2) Ha az új rendelkezéseket vagy szerkezeti egységeket nem lehet megfelelően a jogszabályba illeszteni, a jogszabály magasabb szintű szerkezeti egységét vagy szükség szerint az egész jogszabályt újra kell szabályozni.
 
@@ -12,4 +12,4 @@
 
 (6) Egyazon módosító rendelkezéssel kell a jogszabályt egymást közvetlenül követő – vagy egyazon magasabb szintű szerkezeti egységbe tartozó vagy magasabb szintű szerkezeti egységbe nem tartozó – azonos szintű szerkezeti egységekkel kiegészíteni.
 
-[^92]: A 108. § (1) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^102]: A 108. § (1) bekezdése a 11/2010. (X. 25.) KIM rendelet 3. § (5) bekezdésével megállapított szöveg.

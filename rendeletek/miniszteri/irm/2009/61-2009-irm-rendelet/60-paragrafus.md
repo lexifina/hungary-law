@@ -14,6 +14,8 @@ c) a jogszabály egészére vonatkozó értelmező rendelkezés, valamint
 
 d) az a jogszabály egészére vagy több szerkezeti egységére vonatkozó rendelkezés, amely nem foglalható más – szakasznál magasabb szintű – szerkezeti egységbe.
 
-(2) Az általános rendelkezéseket a preambulum vagy a bevezető rész, ezek hiányában a jogszabály megjelölése után közvetlenül kell elhelyezni. Nagyobb terjedelmű jogszabály tervezetében az általános rendelkezéseket önálló, „Általános rendelkezések” című alcímben vagy fejezetben kell szabályozni.
+(2)[^63] Az általános rendelkezéseket a preambulum után közvetlenül kell elhelyezni. Nagyobb terjedelmű jogszabály tervezetében az általános rendelkezéseket önálló, „Általános rendelkezések” című alcímben vagy fejezetben kell szabályozni.
 
 (3) Általános rendelkezések kivételesen a jogszabály alcímnél magasabb szintű szerkezeti egységei elején, az adott szerkezeti egységre vonatkozóan is megállapíthatóak.
+
+[^63]: A 60. § (2) bekezdése a 8/2024. (V. 14.) IM rendelet 11. § d) pontja szerint módosított szöveg.

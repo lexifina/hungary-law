@@ -6,6 +6,6 @@
 
 (4) Az értelmező rendelkezésben – az (5) bekezdésben foglalt kivétellel – más jogszabály értelmező rendelkezésére is lehet hivatkozni.
 
-(5)[^60] Értelmező rendelkezésben nem lehet olyan jogszabály értelmező rendelkezésére hivatkozni, amely a hivatkozást tartalmazó jogszabállyal az Alaptörvény alapján nem lehet ellentétes.
+(5)[^69] Értelmező rendelkezésben nem lehet olyan jogszabály értelmező rendelkezésére hivatkozni, amely a hivatkozást tartalmazó jogszabállyal az Alaptörvény alapján nem lehet ellentétes.
 
-[^60]: A 69. § (5) bekezdése a 43/2011. (XII. 31.) KIM rendelet 14. § (5) bekezdése szerint módosított szöveg.
+[^69]: A 69. § (5) bekezdése a 43/2011. (XII. 31.) KIM rendelet 14. § (5) bekezdése szerint módosított szöveg.
