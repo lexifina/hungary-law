@@ -1,0 +1,3 @@
+## 5. Az egyes kormányrendeleteknek a Miniszterelnöki Kabinetirodát vezető miniszter feladat- és hatáskörének a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti meghatározásával összefüggő módosításáról szóló 239/2022. (VI. 30.) Korm. rendelet módosítása
+
+13. § Az egyes kormányrendeleteknek a Miniszterelnöki Kabinetirodát vezető miniszter feladat- és hatáskörének a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti meghatározásával összefüggő módosításáról szóló 239/2022. (VI. 30.) Korm. rendelet 52. § (3) bekezdésében az „az idegenrendészetért és menekültügyért felelős miniszter” szövegrész helyébe az „a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter” szöveg lép.
