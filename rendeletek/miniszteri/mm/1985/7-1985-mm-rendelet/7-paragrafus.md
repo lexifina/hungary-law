@@ -2,8 +2,9 @@
 
 7. § (1) Az Országos Széchényi Könyvtár folyamatosan figyelemmel kíséri a bejelentő könyvtár adatszolgáltatási kötelezettségének teljesítését és annak eredményétől függően felhívja a könyvtár vezetőjét, illetőleg fenntartóját a bejelentéssel kapcsolatos hiányosságok megszüntetésére.
 
-(2) Az Országos Széchényi Könyvtár évenként (szükség esetén az ellenőrzést követően) jelentést tesz e tevékenységéről és tapasztalatairól a Művelődési és Közoktatási Minisztériumnak.[^2]
+(2)[^2] Az Országos Széchényi Könyvtár évenként (szükség esetén az ellenőrzést követően) jelentést tesz e tevékenységéről és tapasztalatairól a kultúráért felelős miniszter által vezetett minisztériumnak.[^3]
 
 (3) A bejelentési rend hatékonyságának érdekében az Országos Széchényi Könyvtár módszertani tanácsadó feladatokat lát el.
 
-[^2]: Lásd az 1998: XXXVI. törvény 2. § (1) bekezdésének b) pontját.
+[^2]: A 7. § (2) bekezdése a 3/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
+[^3]: Lásd az 1998: XXXVI. törvény 2. § (1) bekezdésének b) pontját.
