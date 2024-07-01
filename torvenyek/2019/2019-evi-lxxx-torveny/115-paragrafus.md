@@ -1,6 +1,6 @@
 ### 115. § [A kezelt adatok továbbítása]
 
-(1) A szakképző intézmény köteles a jogszabályban előírt nyilvántartásokat vezetni, a szakképzés információs rendszerébe bejelentkezni, a regisztrációs és tanulmányi alaprendszert használni, valamint az országos statisztikai adatfelvételi program keretében előírt és a korai iskolaelhagyással veszélyeztetett tanulókról összesített adatot szolgáltatni.
+(1) A szakképző intézmény köteles a jogszabályban előírt nyilvántartásokat vezetni, a szakképzés információs rendszerébe bejelentkezni, a tanulmányi rendszert használni, valamint az országos statisztikai adatfelvételi program keretében előírt és a korai iskolaelhagyással veszélyeztetett tanulókról összesített adatot szolgáltatni.
 
 (2) A 114. § (1) bekezdésében meghatározott adatok közül
 
@@ -34,7 +34,7 @@ továbbítható.
 
 (5) A képzésben részt vevő személy 114. § (1) bekezdésében meghatározott adatainak továbbítására az (1)–(4) bekezdést kell alkalmazni.
 
-(6) A szakképző intézmény – a tanuló, illetve a képzésben részt vevő személy kötelezettségei teljesítésének nyilvántartása céljából – hozzáférést biztosít a regisztrációs és tanulmányi alaprendszerhez a duális képzőhelynek és – a szakirányú oktatáshoz kapcsolódóan érvényesített adómentességre és igénybe vett adókedvezményre való jogosultság ellenőrzéséhez – az állami adóhatóságnak.
+(6) A szakképző intézmény – a tanuló, illetve a képzésben részt vevő személy kötelezettségei teljesítésének nyilvántartása céljából – hozzáférést biztosít a tanulmányi rendszerhez a duális képzőhelynek és – a szakirányú oktatáshoz kapcsolódóan érvényesített adómentességre és igénybe vett adókedvezményre való jogosultság ellenőrzéséhez – az állami adóhatóságnak.
 
 (7) A szakmai vizsga adatait a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletes szabályait az Stt. 28. §-a szerinti megállapodásban kell rögzíteni.
 

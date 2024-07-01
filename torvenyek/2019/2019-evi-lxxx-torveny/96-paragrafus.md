@@ -24,7 +24,7 @@ g) működteti a szakképzési tájékoztatási és információs központot,
 
 h) ellátja a szakképzéshez kapcsolódó kutató és fejlesztő-szolgáltató feladatokat és kidolgozza az oktatók értékelésének módszertanát,
 
-i) gondoskodik a regisztrációs és tanulmányi alaprendszer és annak részeként a korai iskolaelhagyás megelőzését támogató rendszer, valamint a zárt rendszerű távoktatási képzésmenedzsment rendszer működtetéséről,
+i) gondoskodik a tanulmányi rendszer és annak részeként a korai iskolaelhagyás megelőzését támogató rendszer, valamint a zárt rendszerű távoktatási képzésmenedzsment rendszer működtetéséről,
 
 j) végzi a jogszabályban meghatározott egyéb feladatokat.
 

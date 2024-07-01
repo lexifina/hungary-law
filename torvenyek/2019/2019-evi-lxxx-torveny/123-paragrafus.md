@@ -34,7 +34,7 @@
 
 5. a szakképzés kísérleti jelleggel történő megszervezésének szabályait,
 
-6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
+6. a szakképző intézmény ügyintézésének, iratkezelésének általános szabályait, a szakképző intézmény és az akkreditált szakképzési vizsgaközpont által használt nyomtatványok körét és tartalmát, azok használatának részletes szabályait,
 
 7. a szakképzési minőségirányítási keretrendszert és a szakképző intézmény külső értékelésére, valamint a szakképző intézmény és a duális képzőhely ellenőrzésére vonatkozó részletes szabályokat,
 
@@ -98,9 +98,9 @@
 
 36. az ágazati alapvizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának és díjazásának szabályait,
 
-37. az akkreditált vizsgaközpont akkreditálásának, működésének feltételeit,
+37. az akkreditált szakképzési vizsgaközpont akkreditálásának, működésének feltételeit,
 
-38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, a szakmai vizsgával összefüggésben az akkreditált vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
+38. a szakmai vizsga rendjét, a szakmai vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a szakmai vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a szakmai vizsgával kapcsolatos adatszolgáltatásnak és a szakmai vizsga ellenőrzésének részletes szabályait, a szakmai vizsgával összefüggésben az akkreditált szakképzési vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait, valamint a szakmai vizsgadíj és a vizsgáztatási díjak kereteit, valamint a szakmai vizsgadíj visszafizetésének a szabályait,
 
 39. az oklevelek, a szakmai bizonyítványok és a képesítő bizonyítványok központi elektronikus nyilvántartásának részletes szabályait,
 
@@ -128,8 +128,16 @@
 
 48. a külföldi szakképző intézmény Magyarországon történő és a magyar szakképző intézmény külföldön történő működésének és nyilvántartásának részletes szabályait.
 
+49. az akkreditált szakképzési vizsgaközpont tevékenységének folytatásához szükséges engedélyezési eljárás és követelményrendszer részletes szabályait, ellenőrzésének részletes szabályait, a nyilvántartásból való törlés eseteit,
+
+50. a képesítő vizsga rendjét, a képesítő vizsga megszervezésének és lebonyolításának, a vizsgabizottság kialakításának, a képesítő vizsga – személyes adatnak nem minősülő – adatait tartalmazó központi nyilvántartás vezetésének, a képesítő vizsgával kapcsolatos adatszolgáltatásnak és a képesítő vizsga ellenőrzésének részletes szabályait, a képesítő vizsgával összefüggésben az akkreditált szakképzési vizsgaközpont döntése, intézkedése vagy intézkedésének elmulasztása felülvizsgálatának szabályait.
+
 (3) Felhatalmazást kap a szakképzésért felelős miniszter, hogy
 
 a) rendeletben állapítsa meg a tanév és ezen belül a tanítási év időbeli ütemezésének rendjét,
 
 b) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben határozza meg a 96. § (2) bekezdése szerinti igazgatási szolgáltatási díj mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.
+
+c) rendeletben állapítsa meg az engedéllyel rendelkező akkreditált szakképzési vizsgaközpontok szakmai vizsgáztatással összefüggő ellenőrzése során kiszabott bírság befizetésének rendjét,
+
+d) az adópolitikáért felelős miniszter egyetértésével kiadott rendeletben állapítsa meg a 14/A. § (5) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait.

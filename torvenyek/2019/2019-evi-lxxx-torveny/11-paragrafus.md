@@ -6,6 +6,6 @@
 
 (3) A közzétett képzési és kimeneti követelményeket a szakképzésért felelős miniszter minősített elektronikus aláírásával és olyan szolgáltató által kiadott időbélyegzővel kell ellátni, amely e szolgáltatást minősített szolgáltatóként nyújtja. A képzési és kimeneti követelményekben a közzététel időpontját és az alkalmazás kezdő dátumát fel kell tüntetni. A közzététel időpontja nem lehet korábbi, mint az időbélyegzőben szereplő naptári nap.
 
-(4) A képzési és kimeneti követelményeket érintő változást – a nem érdemi jellegű vagy a tanulóra kedvezőbb változás kivételével – kizárólag a változással érintett legalacsonyabb iskolai évfolyamtól kezdve felmenő rendszerben a tanév első napjával lehet bevezetni, és azt a bevezetést megelőző első tanév kezdő napjáig kell közzétenni. A képzési és kimeneti követelmények módosítása a módosítást megelőzően közzétett képzési és kimeneti követelmények szerint indított szakmai oktatást nem érinti.
+(4) A képzési és kimeneti követelményeket érintő változást – a nem érdemi jellegű vagy a tanulóra kedvezőbb változás kivételével – kizárólag a változással érintett legalacsonyabb iskolai évfolyamtól kezdve felmenő rendszerben a tanév első napjával lehet bevezetni, és azt a bevezetést megelőző első tanév október 31-ig kell közzétenni. A képzési és kimeneti követelmények módosítása a módosítást megelőzően közzétett képzési és kimeneti követelmények szerint indított szakmai oktatást nem érinti.
 
 (5) A képzési és kimeneti követelményekkel szemben kizárólag jogszabálysértésre hivatkozással kezdeményezhető közigazgatási jogvita.
