@@ -2,7 +2,7 @@
 
 17. § (1) A NAVÜ közfeladatként, kizárólagos szolgáltatóként a nemzeti adatvagyon körébe tartozó, további felhasználásra, valamint a kormányzati döntéstámogatásra szolgáló nyilvántartásokról és adatkészletekről nyilvántartást (a továbbiakban: Nemzeti Adatvagyon Leltár) vezet.
 
-(2)
+(2) A közfeladatot ellátó szervek gondoskodnak az általuk kezelt további felhasználásra, illetve kormányzati döntéstámogatásra alkalmas adatokra és dokumentumokra vonatkozó metaadatoknak a Nemzeti Adatvagyon Leltár számára történő átadásáról és folyamatos aktualizálásáról a NAVÜ által biztosított felületen keresztül.
 
 (3) A közfeladatot ellátó szerv a Nemzeti Adatvagyon Leltárban rögzíti az általa kezelt adatok hasznosításának korlátozásait.
 

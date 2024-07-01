@@ -14,6 +14,6 @@ c) az egyablakos tájékoztatási és kapcsolattartási szolgáltatás igénybev
 
 (4) A Nemzeti Közadatportál által nyújtott egyes szolgáltatások igénybevétele és az egyes adatkészletekhez való hozzáférés információbiztonsági okokból elektronikus azonosításhoz köthető. A szolgáltató jogosult a Nemzeti Közadatportált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti. Az elektronikus azonosítás feltételeit és részletes szabályait a Kormány rendeletben állapítja meg.
 
-(5)
+(5) A Nemzeti Közadatportálon keresztül benyújtott igényt, egyéb megkeresést vagy kérdést a Nemzeti Közadatportál automatikusan az illetékes közfeladatot ellátó szervnek továbbítja. Ha a továbbítás bármely ok miatt nem lehetséges, a NAVÜ a megkeresést vagy igényt a kijelölt – adatkormányzási rendelet szerinti – illetékes szerv részére továbbítja.
 
 (6) A közfeladatot ellátó szerv haladéktalanul köteles tájékoztatni a NAVÜ-t, amennyiben valamely adathasznosítás-támogatási szolgáltatás nyújtására közreműködőt vesz igénybe.

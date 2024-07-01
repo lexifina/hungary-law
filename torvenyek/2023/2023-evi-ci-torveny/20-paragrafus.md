@@ -1,1 +1,3 @@
-### 20. §
+20. § (1) A Nemzeti Közadatportál külön felületet biztosít a közfeladatot ellátó szervek, valamint a közreműködők részére (a továbbiakban: Ügyintézői Portál).
+
+(2) Az Ügyintézői Portál azonosításhoz kötött szolgáltatást nyújt, és szolgáltatásai kizárólag előzetes regisztrációval vehetők igénybe. A regisztrációhoz szükséges azonosítást és jogosultságkezelést a NAVÜ végzi, amely ennek keretében jogosult az Ügyintézői Portált használó természetes személyek személyes adatainak – nevének, felhasználói nevének, jelszavának, egyedi felhasználói azonosítójának, szervezeti beosztásának, postai és elektronikus levélcímének, telefonszámának – kezelésére. A regisztrációs nyilvántartást vezető szolgáltató a kezelt személyes adatokat a regisztráció megszüntetésére vonatkozó bejelentést követő 8 napon belül törli és az érintett hozzáférési lehetőségét megszünteti.

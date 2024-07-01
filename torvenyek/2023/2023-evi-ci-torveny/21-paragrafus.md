@@ -1,6 +1,6 @@
 ## 14. A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat egyablakos közzététele szolgáltatás
 
-21. § (1)
+21. § (1) A nemzeti adatvagyon körébe tartozó, nem személyes és nem védett adat egyablakos közzététele szolgáltatást a NAVÜ a Nemzeti Közadatportálon keresztül, közfeladatként nyújtja. Ennek keretében a közfeladatot ellátó szervek – az Ügyintézői Portál szolgáltatásait igénybe véve – nyílt hozzáférésű közadataikat a további felhasználás előmozdítása érdekében a Nemzeti Közadatportálon is közzéteszik.
 
 (2) Ahol jogszabály a nemzeti adatvagyon körén belül személyes adatok és védett adatok körébe nem tartozó adat díjmentes és bárki számára további felhasználási célú hozzáférhetővé tételét írja elő, a bárki számára elérhető elektronikus hozzáférést az (1) bekezdés szerinti szolgáltatás keretében kell biztosítani.
 
