@@ -1,3 +1,3 @@
-9. §[^20]
+9. §[^21]
 
-[^20]: A 9–10. §-t a 16/2012. (VIII. 23.) EMMI rendelet 3. § g) pontja hatályon kívül helyezte.
+[^21]: A 9–10. §-t a 16/2012. (VIII. 23.) EMMI rendelet 3. § g) pontja hatályon kívül helyezte.

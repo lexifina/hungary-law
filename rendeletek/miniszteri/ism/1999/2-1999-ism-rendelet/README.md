@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-2-20-8C
 | 2015-06-07 | 1999-2-20-8C.13 | 30/2015. (VI. 4.) EMMI rendelet |
 | 2016-09-01 | 1999-2-20-8C.14 | 21/2016. (VIII. 24.) EMMI rendelet |
 | 2023-07-14 | 1999-2-20-8C.15 | 42/2011. (VII. 5.) NEFMI rendelet |
+| 2024-07-01 | 1999-2-20-8C.16 | 4/2024. (VI. 11.) KIM rendelet |

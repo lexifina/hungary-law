@@ -1,6 +1,6 @@
-## Az Erasmus+ Program (2014–2020) végrehajtásával kapcsolatos egyes rendelkezések[^31]
+## Az Erasmus+ Program (2014–2020) végrehajtásával kapcsolatos egyes rendelkezések[^33]
 
-14. §[^32] (1) Az Erasmus+ Program (2014–2020) ifjúsági fejezete magyarországi megvalósítását koordináló nemzeti iroda működtetője a Tempus Közalapítvány (a továbbiakban: Közalapítvány).
+14. §[^34] (1) Az Erasmus+ Program (2014–2020) ifjúsági fejezete magyarországi megvalósítását koordináló nemzeti iroda működtetője a Tempus Közalapítvány (a továbbiakban: Közalapítvány).
 
 (2) A Közalapítvány az „Erasmus+” elnevezésű oktatási, képzési, ifjúsági és sportprogram létrehozásáról, valamint az 1719/2006/EK, az 1720/2006/EK és az 1298/2008/EK határozat hatályon kívül helyezéséről szóló 1288/2013/EU Európai Parlamenti és Tanácsi rendelet végrehajtása érdekében, az Európai Bizottsággal kötött szerződés alapján
 
@@ -8,9 +8,10 @@ a) ellátja az Erasmus+ program ifjúsági részének magyarországi támogatás
 
 b) megvalósítja az Eurodesk információs hálózat nemzeti koordinációs feladatait,
 
-c) támogatja az ifjúsági területen aktív szakemberek nemzetközi képzését és tapasztalatcseréjét, valamint biztosítja a Magyarországon tartózkodó EVS önkéntesek kötelező képzését és értékelő találkozóit,
+c)[^35] támogatja az ifjúsági területen aktív szakemberek nemzetközi képzését és tapasztalatcseréjét, valamint biztosítja a Magyarországon tartózkodó EVS önkéntesek kötelező képzését és értékelő találkozóit, továbbá
 
 d) ellátja a Fiatalok Lendületben Program/Cselekvő Ifjúság Program (2007–2013) lezárásával kapcsolatos feladatokat.
 
-[^31]: A 14. §-t megelőző alcímet a 21/2016. (VIII. 24.) EMMI rendelet 5. §-a iktatta be.
-[^32]: A 14. §-t újonnan a 21/2016. (VIII. 24.) EMMI rendelet 5. §-a iktatta be.
+[^33]: A 14. §-t megelőző alcímet a 21/2016. (VIII. 24.) EMMI rendelet 5. §-a iktatta be.
+[^34]: A 14. §-t újonnan a 21/2016. (VIII. 24.) EMMI rendelet 5. §-a iktatta be.
+[^35]: A 14. § (2) bekezdés c) pontja a 4/2024. (VI. 11.) KIM rendelet 1. § c) pontja szerint módosított szöveg.
