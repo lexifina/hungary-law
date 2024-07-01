@@ -1,0 +1,1 @@
+1. § Hatályát veszti a Szociális és Családügyi Minisztérium, valamint az irányítása alatt álló intézmények és államigazgatási szervek szolgálati titokkörének megállapításáról szóló 4/1999. (VIII. 6.) SzCsM rendelet.
