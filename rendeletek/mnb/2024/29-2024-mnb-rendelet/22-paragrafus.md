@@ -1,0 +1,1 @@
+22. § Az elektronikus ügyfél-átvilágítás során gyűjtött megőrzendő dokumentumokat és információkat a szolgáltató időbélyegzővel látja el, és biztonságosan eltárolja. A szolgáltató biztosítja, hogy a tárolt nyilvántartások tartalma olvasható formátumban álljon rendelkezésre, és lehetővé tegye az utólagos ellenőrzést.

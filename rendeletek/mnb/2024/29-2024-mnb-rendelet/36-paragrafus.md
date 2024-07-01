@@ -1,0 +1,1 @@
+36. § A 33. § (1) bekezdés c) pontjában meghatározott közvetett elektronikus ügyfél-átvilágítás alkalmazása esetében a Dáptv. és a Dáptv.-ben foglalt felhatalmazás alapján kiadott jogszabályban meghatározott követelmények az irányadók.

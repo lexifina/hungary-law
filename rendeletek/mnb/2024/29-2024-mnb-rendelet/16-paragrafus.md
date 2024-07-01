@@ -1,0 +1,1 @@
+16. § A szolgáltató teljeskörűen azonosítja és kezeli az elektronikus ügyfél-átvilágítási folyamat használatához kapcsolódó IKT- és biztonsági kockázatokat, beleértve azokat az eseteket is, amikor a szolgáltató az elektronikus ügyfél-átvilágítást vagy annak egy részét kiszervezi.

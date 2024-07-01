@@ -1,0 +1,3 @@
+24. § (1) Amennyiben a szolgáltató biometrikus adatok használata révén ellenőrzi a természetes személy ügyfél személyazonosságát, gondoskodik arról, hogy a biometrikus adatok kellően egyediek legyenek ahhoz, hogy egyértelműen egyetlen természetes személyhez lehessen kötni őket.
+
+(2) A szolgáltató algoritmusokat használ annak ellenőrzésére, hogy a benyújtott személyazonosító okmányon megadott biometrikus adatok ténylegesen az adott természetes személy ügyfélhez tartoznak-e. Kockázatérzékenységi megközelítéssel a benyújtott személyazonosító okmányon megadott biometrikus adatok ellenőrzéséhez további kontrollmechanizmusokat is meghatároz a szolgáltató.

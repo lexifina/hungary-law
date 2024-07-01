@@ -1,0 +1,1 @@
+15. § Amennyiben a szolgáltató a dokumentumokból származó információk automatikus olvasására alkalmas funkciókat használ, gondoskodik arról, hogy ezek az eszközök pontosan és következetesen rögzítsék az információkat.

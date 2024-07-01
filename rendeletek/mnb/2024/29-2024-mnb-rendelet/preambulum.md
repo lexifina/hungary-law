@@ -1,0 +1,1 @@
+A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 77. § (3) bekezdés d) pontjában kapott felhatalmazás alapján, a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:

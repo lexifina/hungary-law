@@ -1,0 +1,1 @@
+38. § A szolgáltató a 33. § (1) bekezdés d) pontja alapján közvetett elektronikus ügyfél-átvilágítást akkor végezhet, ha az ügyfél tevékenységét az üzleti kapcsolat létrehozásának időpontjától számítva egy évig megerősített eljárásban nyomon követi.

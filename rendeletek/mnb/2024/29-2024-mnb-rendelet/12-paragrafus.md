@@ -1,0 +1,1 @@
+12. § A szolgáltató a felülvizsgálati és korrekciós intézkedésekről nyilvántartást vezet, és az MNB felhívására bemutatja, hogy milyen felülvizsgálatokat és korrekciós intézkedéseket hajtott végre az általa alkalmazott auditált elektronikus hírközlő eszköz teljes alkalmazási időtartama alatt feltárt hiányosságok kezelésére.
