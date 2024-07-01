@@ -131,7 +131,3 @@ VI.
 VII.
 
 1. a foglalkoztatott munkából való távollétének jogcíme és időtartama
-
-2. kirendelés, vezénylés adatai
-
-VIII.
