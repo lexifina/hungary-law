@@ -78,7 +78,7 @@
 
 ## 5.3. az igényelt ellátás megállapításának kérelmezett kezdő időpontja;
 
-## 5.4. nyilatkozat arról, hogy a kérelmező, illetve a közös háztartásban élő másik szülő vagy más személy részesül-e csecsemőgondozási díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; ha igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve;
+## 5.4.[^277] nyilatkozat arról, hogy a kérelmező, illetve a közös háztartásban élő másik szülő vagy más személy részesül-e csecsemőgondozási díjban, örökbefogadói díjban, gyermekgondozási díjban, gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, vagy benyújtott-e kérelmet ezen ellátások valamelyikének megállapítására; ha igen, az ellátásban részesülő (kérelmező) neve, Társadalombiztosítási Azonosító Jele, a folyósító (eljáró) szerv megnevezése, a gyermek neve; továbbá a kérelmező nyilatkozata arról, hogy időskorúak járadékában, gyermekek otthongondozási díjában vagy ápolási díjban részesül-e, továbbá az aktív korúak ellátására jogosult-e;
 
 ## 5.5. a szülők nyilatkozata arról, hogy a gyermekgondozást segítő ellátásról a nagyszülő javára lemondanak és egyetértenek a gyermekgondozást segítő ellátás nagyszülő részére történő folyósításával, továbbá a nyilatkozatot tevő szülők aláíróhelye;
 
@@ -96,6 +96,7 @@
 
 ## 5.12. a kérelmező vagy a törvényes képviselő aláíróhelye.
 
-3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^280]
+3. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^278]
 
-[^280]: A 3–4. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^277]: A 2. számú melléklet 5. pont 5.4. alpontja a 104/2024. (V. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^278]: A 3–4. számú mellékletet a 457/2017. (XII. 28.) Korm. rendelet 71. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.

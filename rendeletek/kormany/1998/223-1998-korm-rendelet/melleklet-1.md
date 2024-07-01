@@ -1,3 +1,3 @@
-1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^277]
+1. számú melléklet a 223/1998. (XII. 30.) Korm. rendelethez[^274]
 
-[^277]: Az 1. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 66. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^274]: Az 1. számú melléklet a 457/2017. (XII. 28.) Korm. rendelet 66. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
