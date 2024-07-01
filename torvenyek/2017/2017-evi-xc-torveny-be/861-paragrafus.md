@@ -1,1 +1,1 @@
-861. § A köztársasági elnök a kegyelmi döntésről szóló határozatot – az ellenjegyzési jog gyakorlása érdekében – az igazságügyért felelős miniszternek küldi meg. Az igazságügyért felelős miniszter az ellenjegyzési jog gyakorlásáról tájékoztatja a köztársasági elnököt.
+861. § A köztársasági elnök a kegyelmi döntésről szóló határozatot a kegyelmi kérelmet előterjesztő igazságügyért felelős miniszter vagy legfőbb ügyész részére küldi meg.
