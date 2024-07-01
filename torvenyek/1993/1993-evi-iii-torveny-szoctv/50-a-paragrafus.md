@@ -26,7 +26,7 @@ b) külön meg kell jelölni az egyéni gyógyszerkeret alapjául szolgáló gy�
 
 a) a közgyógyellátásra való jogosultságról,
 
-b) a közgyógyellátásra való jogosultság kezdő időpontjáról,
+b)
 
 c) a jogosult gyógyszerkeretéről, külön megjelölve az egyéni gyógyszerkeret összegét.
 

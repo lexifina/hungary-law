@@ -8,7 +8,7 @@ c) a személyes gondoskodást végző személy által betöltött munkakör megn
 
 d) a megszerzett szakképesítés megnevezése, az erről kiállított oklevél, bizonyítvány száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése;
 
-e) a jogszabály által előírt továbbképzés, vezetőképzés elvégzésének, illetve szakvizsga letételének adatai.
+e) a jogszabály által előírt vezetőképzés elvégzésének, illetve szakvizsga letételének adatai.
 
 (2) A szociális, gyermekjóléti, továbbá gyermekvédelmi intézmény (a továbbiakban együtt: munkáltató) bejelenti a működési nyilvántartást vezető szervnek
 
