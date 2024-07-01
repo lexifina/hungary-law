@@ -1,1 +1,1 @@
-### 4. §
+4. § Hatályát veszti az illetékekről szóló 1990. évi XCIII. törvény 17. § (1) bekezdés h) pontjában a „termőföld megszerzése ajándékozással az egyéni vállalkozónak, mezőgazdasági őstermelőnek, az őstermelők családi gazdasága tagjának minősülő földműves gazdaságátadási támogatása feltételeként, továbbá” szövegrész.
