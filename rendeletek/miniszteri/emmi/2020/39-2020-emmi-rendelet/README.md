@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-39-20-5
 | 2020-11-02 | 2020-39-20-5H.2 | 2010: CXXX. törvény |
 | 2021-03-25 | 2020-39-20-5H.3 | 13/2021. (III. 24.) EMMI rendelet |
 | 2023-01-01 | 2020-39-20-5H.4 | 13/2021. (III. 24.) EMMI rendelet |
+| 2024-07-01 | 2020-39-20-5H.5 | 23/2024. (VI. 11.) KIM rendelet |
