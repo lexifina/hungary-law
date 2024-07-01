@@ -1,4 +1,4 @@
-97. § (1) Az ügyvédi iroda taggyűlése akkor dönthet az ügyvédi iroda jogutód nélküli megszüntetéséről, ha
+97. § (1) Az ügyvédi iroda taggyűlése akkor dönthet az ügyvédi iroda jogutód nélküli megszüntetéséről, ha igazoltan
 
 a) gondoskodott megbízásainak átadásáról vagy megszüntetéséről,
 

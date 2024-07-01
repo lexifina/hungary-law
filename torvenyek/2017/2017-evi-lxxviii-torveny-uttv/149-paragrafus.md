@@ -20,7 +20,7 @@ g) adószámát véglegesen törölték.
 
 (4) A területi kamara megszünteti annak a kamarai jogtanácsosnak a kamarai tagságát, aki a munkaviszonya megszűnésének napjától számított három hónapon belül nem létesített ügyvédi tevékenység végzésére irányuló munkaviszonyt, és ügyvédi tevékenységét nem szünetelteti.
 
-(5) A területi kamara megszünteti annak az ügyvédnek a kamarai tagságát, továbbá az ügyvédi kamarai nyilvántartásból törli azt az európai közösségi jogászt valamint egyéni ügyvédi irodát, amely a helyettesítésére kötött megállapodás megszűnésének napjától számított három hónapon belül nem gondoskodik újabb helyettesítési megállapodás megkötéséről.
+(5) A területi kamara megszünteti annak az ügyvédnek a kamarai tagságát, továbbá az ügyvédi kamarai nyilvántartásból törli azt az európai közösségi jogászt valamint egyszemélyes ügyvédi irodát, amely a helyettesítésére kötött megállapodás megszűnésének napjától számított három hónapon belül nem gondoskodik újabb helyettesítési megállapodás megkötéséről.
 
 (6) Akinek a területi kamara az ügyvédi kamarai tagságát az (1) bekezdés a) és b) pontjában szabályozott okból szünteti meg, a fizetési kötelezettségének teljesítését követően, de legkorábban a határozat véglegessé válásától számított egy év elteltével vehető fel tagként területi kamarába és vehető ügyvédi kamarai nyilvántartásba.
 

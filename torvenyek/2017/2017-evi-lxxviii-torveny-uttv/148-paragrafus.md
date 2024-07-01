@@ -2,7 +2,7 @@
 
 148. § (1) A területi kamarai tagság megszűnik, ha
 
-a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján,
+a) a kamarai tag a kamarai tagságáról lemondott, a lemondás területi kamarával való közlésének a napján, vagy a közlésben megjelölt napon, mely nem lehet a közlés napjánál korábbi,
 
 b) a kamarai tagot jogerősen kizárták, vagy az ügyvédi tevékenységtől jogerősen eltiltották, az erről szóló határozat jogerőre emelkedésének a napján,
 

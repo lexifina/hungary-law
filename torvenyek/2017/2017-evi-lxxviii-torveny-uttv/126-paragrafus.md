@@ -6,13 +6,15 @@
 
 a) a vizsgálat kiegészítését rendeli el, és az iratokat visszaküldi a fegyelmi biztosnak,
 
-b) az ügy tárgyaláson kívüli elbírálását kezdeményezi, vagy
+b) a fegyelmi eljárás felfüggesztését kezdeményezi,
 
-c) kitűzi a tárgyalást.
+c) az ügy tárgyaláson kívüli elbírálását kezdeményezi, vagy
+
+d) kitűzi a tárgyalást.
 
 (3) Ha az elsőfokú fegyelmi tanács elnöke az előzetes vizsgálat kiegészítését rendeli el, a fegyelmi biztos soron kívül jár el, és a vizsgálat eredményéről haladéktalanul tájékoztatja a fegyelmi tanács elnökét.
 
-(4) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, valamint az eljárás felfüggesztésének időtartama nem számít be.
+(4) A fegyelmi tanács százhúsz napon belül hoz határozatot. E határidőbe a fegyelmi tanács elnökének intézkedésére nyitva álló idő, az ügy tárgyaláson kívüli elbírálásának időtartama, az előzetes vizsgálat kiegészítésének ideje, a kizárási indítvány elbírálásának időtartama, valamint az eljárás felfüggesztésének időtartama nem számít be.
 
 (5) Ha a fegyelmi tanács a (4) bekezdésben foglalt határidő kétszeresét túllépi, a fegyelmi vétség elkövetésének megállapításán túl kizárólag írásbeli megrovás fegyelmi büntetést alkalmazhat. Ebben az esetben ugyanazon fegyelmi vétség elkövetésével összefüggésben nem kezdeményezhető új fegyelmi eljárás.
 
