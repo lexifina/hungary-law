@@ -1,0 +1,3 @@
+9. § (1) A szolgálati viszonnyal kapcsolatos jognyilatkozatokat – eltérő rendelkezés hiányában – alaki kötöttség nélkül lehet megtenni. A honvéd, valamint a rendelkezésre állás időszakában az önkéntes tartalékos kérelmére a nyilatkozatot akkor is írásba kell foglalni, ha az írásbeliség egyébként nem kötelező.
+
+(2) Írásbelinek minősül minden olyan papíralapú vagy elektronikus dokumentum, amely alkalmas a nyilatkozatot tevő akaratának változatlan visszaidézésére, valamint a nyilatkozattevő személyének és a jognyilatkozat megtétele időpontjának az azonosítására. A jognyilatkozatok megtétele során előnyben kell részesíteni az elektronikus ügyintézést.

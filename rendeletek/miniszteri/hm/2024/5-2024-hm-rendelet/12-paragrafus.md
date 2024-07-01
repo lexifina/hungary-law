@@ -1,0 +1,1 @@
+12. § A döntésre jogosult elöljáró mérlegelési jogkörben hozott döntését tartalmazó jognyilatkozat a címzettel való közlést megelőző időre nem állapíthat meg kötelezettséget, kötelezettséget nem tehet terhesebbé, valamint nem vonhat el vagy korlátozhat jogot, és nem nyilváníthat valamely magatartást jogellenessé.

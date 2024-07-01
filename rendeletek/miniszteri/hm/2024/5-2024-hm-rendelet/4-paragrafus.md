@@ -1,0 +1,5 @@
+4. § (1) A Hjkr. 3. § (2) bekezdésére figyelemmel a szolgálati viszonnyal kapcsolatos jog gyakorlása különösen akkor rendeltetésellenes, ha az mások zaklatására, jogos érdekének csorbítására, érdekérvényesítési lehetőségének korlátozására, lehetséges véleménynyilvánításának elfojtására irányul, vagy ehhez vezet. A kötelezettség teljesítése különösen akkor rendeltetésellenes, ha az indokolatlan érdek- vagy jogsérelmet okoz. A rendeltetésellenes joggyakorlás és kötelezettségteljesítés hátrányos következményeit orvosolni kell.
+
+(2) A Hjkr. 3. § (4) bekezdése szerinti egyenlő bánásmód követelményének megsértését orvosolni kell, ez azonban nem járhat más jogának megsértésével vagy csorbításával.
+
+(3) A Hjkr. 3. § (4) bekezdése szerinti ellenőrzés keretében technikai eszköz is alkalmazható, erről azonban a honvédet előzetesen írásban tájékoztatni kell. Az ellenőrzések során a felhasznált eszközök és eljárások alkalmazásakor tiszteletben kell tartani az alapvető jogokat, amelyek a Hjkr. 3. § (2) bekezdése szerinti cél biztosításához a szükséges mértékben és ideig korlátozhatók.
