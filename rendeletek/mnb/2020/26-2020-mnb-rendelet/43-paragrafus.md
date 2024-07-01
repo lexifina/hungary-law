@@ -1,1 +1,0 @@
-## 42. § A szolgáltatónak rendelkeznie és alkalmaznia kell olyan szűrőrendszert, amely biztosítja a pénzügyi és vagyoni korlátozó intézkedéseket elrendelő uniós jogi aktusok és ENSZ BT határozatok haladéktalan és teljes körű végrehajtását (a továbbiakban: szankciós szűrőrendszer).
