@@ -28,7 +28,7 @@ időtartamával.
 
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
-(5a) Az (1) bekezdés szerinti jogosultsági időnek minősül a honvédek jogállásáról szóló törvény szerinti önkéntes tartalékos katona (a továbbiakban önkéntes tartalékos katona) tényleges szolgálatteljesítésének időtartama abban az esetben is, ha az önkéntes tartalékos katona ezen időtartam alatt nem áll munkaviszonyban.
+(5a) Az (1) bekezdés szerinti jogosultsági időnek minősül a honvédek jogállásáról szóló kormányrendelet szerinti önkéntes tartalékos katona (a továbbiakban önkéntes tartalékos katona) tényleges szolgálatteljesítésének időtartama abban az esetben is, ha az önkéntes tartalékos katona ezen időtartam alatt nem áll munkaviszonyban.
 
 (5b) A mezőgazdasági őstermelőként folytatott tevékenység abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a mezőgazdasági őstermelő álláskeresési ellátásban nem részesül.
 
