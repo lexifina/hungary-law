@@ -4,17 +4,17 @@
 
 a) természetes személyazonosító adatai,
 
-b)–c)
+b) lakóhelye,
 
-d) magyarországi lakóhelye,
+c) állampolgársága,
 
-e) állampolgársága,
+d) neme,
 
-f) személyazonosító okmányának okmányazonosító adatai,
+e) a személyazonosság igazolására alkalmas hatósági igazolvány okmányazonosítója,
 
-g) a külföldi tartózkodásával kapcsolatos adatok, és
+f) a külföldi tartózkodásával kapcsolatos adatok, és
 
-h) a védelem biztosításához szükséges egyéb adatok.
+g) a védelem biztosításához szükséges egyéb adatok.
 
 (2) A konzuli szolgálat az érdekvédelem során birtokába került adatokról – az érintett magyar állampolgár ellen büntetőeljárást folytató bíróság, ügyészség, nyomozó hatóság adatkérése, a rendőrségről szóló törvényben meghatározott, a bajba jutott magyar állampolgárok mentésére, hazatérésük biztosítására, illetve az evakuálás végrehajtására irányuló feladatainak ellátásával összefüggésben a terrorizmust elhárító szerv vagy a magyar nemzetbiztonsági szolgálatok megkeresése, valamint a (3) és (4) bekezdésben foglaltak kivételével – másnak csak akkor nyújt felvilágosítást, ha ehhez a védett magyar állampolgár hozzájárult. A 14. §-ban foglalt konzuli tanúsítványokról, valamint az érintett magyar állampolgár jogi képviselőjétől származó, ügyvédi titoknak minősülő adatról kizárólag az érintett egyetértésével adható felvilágosítás.
 
@@ -24,7 +24,7 @@ h) a védelem biztosításához szükséges egyéb adatok.
 
 (5) A kérelemre indult eljárásban a konzuli védelem ellátására irányuló kérelem magába foglalja az annak biztosításához szükséges adatok kezeléséhez való hozzájárulást is az érdekérvényesítéshez szükséges körben. Erről a konzuli szolgálat a kérelmezőt kérelmének előterjesztésekor tájékoztatja.
 
-(6) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat az Európai Unió tagállama konzuli szolgálatának.
+(6) Az uniós polgár és családtagja érdekvédelmének ellátása során a konzuli szolgálat adatot szolgáltat a tagállami konzuli szolgálatnak.
 
 (7) Az adatszolgáltatásról nyilvántartást kell vezetni. A nyilvántartás tartalmazza:
 

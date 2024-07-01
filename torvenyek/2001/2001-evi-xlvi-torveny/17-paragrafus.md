@@ -24,4 +24,4 @@ k) a gondnokoltak nyilvántartásából,
 
 l) a menekültügyi nyilvántartásból.
 
-(2) Az uniós polgár érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat az Európai Unió tagállama konzuli szolgálatán keresztül igényelheti.
+(2) Az uniós polgár és családtagja érdekvédelmének ellátása során a konzuli szolgálat a védelem ellátásához szükséges adatokat a tagállami konzuli szolgálaton keresztül igényelheti.

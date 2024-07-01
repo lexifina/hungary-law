@@ -24,6 +24,6 @@ d) okirat, pénz és egyéb érték megőrzésre való átvétele (konzuli leté
 
 (8) A konzuli tisztviselő a közigazgatási hatósági eljárásokban kizárólag a jogszabályoknak, valamint a vonatkozó nemzetközi jogi szabályoknak van alávetve, hatósági eljárása során és hatósági döntéseinek tartalmával összefüggésben – a feladat elvégzésére vagy mulasztás pótlására irányuló utasítás kivételével – nem utasítható.
 
-(9) Az uniós polgár érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
+(9) Az uniós polgár és családtagja érdekvédelmére irányuló közigazgatási hatósági eljárásokat a konzuli tisztviselő kizárólag kérelemre indítja meg.
 
 (10)
