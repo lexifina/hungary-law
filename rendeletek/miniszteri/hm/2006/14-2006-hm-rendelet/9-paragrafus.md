@@ -1,5 +1,0 @@
-## 8. § E rendelet szerint elbírálandó fegyelemsértések esetén a 4. § a) pontja szerinti parancsnok által csak a Hjt. 135. § (1) bekezdés a)–d) pontjaiban foglalt fegyelmi fenyítések szabhatók ki.
-
-9. § (1) Az eljárás alá vont kiküldött részére az iratok kézbesítését a lehető legrövidebb időn belül oly módon kell megkísérelni, hogy a kiküldöttnek – szolgálati feladatellátására, illetve egyéb okból történő távollétére tekintettel – módja legyen az iratok személyes átvételére. A kézhezvételt az eljárási cselekmény alapjául szolgáló ügyiraton kell feltüntetni. Az átvétel tényét, helyét és idejét a kézbesítő az elrendelő határozat irattári példányán tünteti fel, amelyet az eljárás alá vont kiküldött az aláírásával igazol.
-
-(2) Amennyiben az eljárás alá vont kiküldött az irat átvételét megtagadja, az iratot – a szóbeli ismertetést követően – kézbesítettnek kell tekinteni. Az átvétel megtagadásának helyét és idejét, szóbeli ismertetés tényét a kézbesítő az irat irattári példányán tünteti fel, és a megtagadás tényét saját aláírásával igazolja.

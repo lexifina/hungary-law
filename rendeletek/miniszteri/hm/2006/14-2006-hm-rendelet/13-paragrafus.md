@@ -1,7 +1,0 @@
-13. § (1) Ha a 4. § a) pontja szerinti parancsnok a fegyelmi eljárás elrendelésekor úgy ítéli meg, hogy az eljárás alapjául szolgáló ügyben rendfokozatot vagy szolgálati viszonyt érintő fenyítésnek lehet helye, vagy a külföldi szolgálati elöljáró a kiküldött hazarendelésére tesz javaslatot, úgy ezt haladéktalanul – telefaxon megküldött ügyiratban – jelenti a 4. § b) pontja szerinti parancsnoknak. A jelentéssel egyidejűleg a 4. § a) pontja szerinti parancsnok indokolt javaslatot tesz az eljárás alá vont kiküldött hazarendelésére.
-
-(2) A 4. § b) pontja szerinti parancsnok a jelentés megérkezésétől számított 24 órán belül dönt az eljárás alá vont kiküldött hazarendelésének szükségességéről, illetve hazarendelés esetén – a helyszínhez kötődő szükséges vizsgálatokat követően – az eljárás belföldön történő lefolytatásáról.
-
-(3) A 4. § b) pontja szerinti parancsnok – figyelemmel a külföldi szolgálati elöljáró hazarendelésére vonatkozó kezdeményezésére – köteles az eljárás alá vont kiküldöttet hazarendelni, amennyiben az eljárás alapjául szolgáló ügy súlyossága miatt a kiküldött külföldi szolgálatának folytatása a szolgálati rend és fegyelem fenntartását veszélyeztetné, vagy a Magyar Honvédség külföldi megítélését súlyosan hátrányosan érintené.
-
-(4) A 12. § (2) és 13. § (2) bekezdések szerinti hazarendelése esetén a fegyelmi eljárást belföldön, a Hjt. általános szabályai szerint kell lefolytatni.

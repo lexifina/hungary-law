@@ -1,1 +1,0 @@
-A Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 287. § (2) bekezdés a) pontjának ad) alpontjában és i) pontjában kapott felhatalmazás alapján – a magyar katonák kedvező külföldi megítélésének, illetve a katonai fegyelem fenntartásának elősegítése érdekében – a következőket rendelem el:
