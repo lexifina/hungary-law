@@ -12,7 +12,7 @@ d) meggyőződni arról, hogy a külföldi székhelyű szolgáltató kérésre k
 
 (2) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató kockázatérzékenységi alapon időszakosan köteles megvizsgálni az adott levelező kapcsolatban rejlő pénzmosási kockázatot.
 
-(3) Külföldi székhelyű szolgáltatóval levelező kapcsolat létesítésére csak az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerülhet sor.
+(3) Külföldi székhelyű szolgáltatóval levelező kapcsolat létesítésére csak az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató kijelölt felelős vezetője jóváhagyását követően kerülhet sor.
 
 (4) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató nem létesíthet és nem tarthat fenn levelező kapcsolatot fiktív bankkal, továbbá olyan szolgáltatóval, amely fiktív bankkal levelező kapcsolatot tart fenn.
 

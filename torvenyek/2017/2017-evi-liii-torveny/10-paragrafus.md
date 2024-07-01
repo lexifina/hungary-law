@@ -10,7 +10,7 @@ d) információt az üzleti kapcsolat céljáról és tervezett jellegéről.
 
 (2) A szolgáltató az (1) bekezdésben meghatározott adaton kívül – kockázatérzékenységi megközelítés alapján – kéri a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását, és ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatását.
 
-(3) A szolgáltató – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat létesítését a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyásához kötheti.
+(3) A szolgáltató – kockázatérzékenységi megközelítés alapján – az üzleti kapcsolat létesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához kötheti.
 
 (4) A szolgáltató az (1)–(2) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján is elvégezheti.
 

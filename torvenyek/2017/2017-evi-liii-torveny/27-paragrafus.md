@@ -12,6 +12,6 @@
 
 (6) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez, továbbá a kockázatok csökkentése és kezelése érdekében a szolgáltató köteles figyelembe venni a nemzeti kockázatértékelés eredményét.
 
-(7) Az (1) bekezdésben meghatározott belső kockázatértékelés és az (5) bekezdésben meghatározott belső eljárásrend alkalmazására a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően kerülhet sor.
+(7) Az (1) bekezdésben meghatározott belső kockázatértékelés és az (5) bekezdésben meghatározott belső eljárásrend alkalmazására a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerülhet sor.
 
-(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmus-finanszírozási kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyását követően módosítani.
+(8) A belső kockázatértékelés elkészítésére kötelezett szolgáltató köteles a pénzmosási és a terrorizmus-finanszírozási kockázatokat nyomon követni, a belső eljárásrendet szükség esetén felülvizsgálni és a szolgáltató kijelölt felelős vezetője jóváhagyását követően módosítani.

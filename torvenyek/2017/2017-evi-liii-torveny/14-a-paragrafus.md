@@ -8,7 +8,7 @@ b) a teljesítés körülményeit (hely, idő, mód).
 
 (3) A szolgáltató a (2) bekezdésben meghatározott adaton kívül – kockázatérzékenységi megközelítés alapján – kéri a pénzeszközök forrására vonatkozó információk rendelkezésre bocsátását, valamint ezen információk igazoló ellenőrzése érdekében a pénzeszközök forrására vonatkozó dokumentumok bemutatását.
 
-(4) A szolgáltató – kockázatérzékenységi megközelítés alapján – az ügyleti megbízás teljesítését a szolgáltató 65. § szerinti belső szabályzatában meghatározott vezetője jóváhagyásához köti.
+(4) A szolgáltató – kockázatérzékenységi megközelítés alapján – az ügyleti megbízás teljesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához köti.
 
 (5) Ha a szolgáltató nem tudja végrehajtani az (1)–(3) bekezdésben meghatározott ügyfél-átvilágítási intézkedéseket, akkor az érintett ügyfélre vonatkozóan köteles megtagadni az ügyleti megbízás teljesítését.
 

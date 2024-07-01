@@ -16,6 +16,24 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (4) Az 5. §-ban meghatározott felügyeletet ellátó szerv az (1) bekezdésben előírt kötelezettség végrehajtására a felügyelete alá tartozó szolgáltatók részére útmutatót adhat ki.
 
-(5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül kijelölni – a szervezet sajátosságaitól, különösen annak méretétől és a vezetői szintek számától függően – egy vagy több, a belső szabályzatában meghatározott vezetőt, aki az e törvényből eredő kötelezettségeknek a szolgáltató foglalkoztatottja általi végrehajtásáért felelősséggel tartozik.
+(4a) A szolgáltató köteles a kijelölt felelős vezetőt a tevékenységének megkezdését követő öt munkanapon belül kijelölni. A szolgáltatónak meg kell hoznia a szükséges intézkedéseket a kijelölt felelős vezetőt érintő összeférhetetlenségek azonosítása és kezelése érdekében. Kijelölt felelős vezetőként kizárólag az irányítási funkciót betöltő testület olyan tagja, illetve olyan felsővezető jelölhető ki, aki esetében nem áll fenn összeférhetetlenség. A kijelölt felelős vezetőnek meg kell felelnie az alábbi szempontoknak is:
+
+a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató milyen mértékben kitett a pénzmosás és a terrorizmusfinanszírozás jelentette kockázatoknak, valamint
+
+b) megfelelő hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon.
+
+(5) A szolgáltató köteles a tevékenységének megkezdését követő öt munkanapon belül a szolgáltató belső szabályzatában kijelölni a megfelelési vezetőt.
 
 (6) Az 1. § (1) bekezdés a–d) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető az e törvényből és annak felhatalmazásán alapuló jogszabályból eredő feladatok ellátásához szükséges megfelelő ismeretekkel rendelkezik, és az irányítási funkciót betöltő testületnek közvetlenül jelentési kötelezettséggel tartozik. Az 1. § (1) bekezdés a) pontja szerinti szolgáltató esetében az (5) bekezdés szerinti vezető a 3. § 23a. pontja szerinti feladatain túlmenően kizárólag jogszabály-megfelelőségi, illetve biztonsági feladatokat láthat el.
+
+(7) Az 1. § (1) bekezdés a)–d) pontja szerinti szolgáltató esetében a megfelelési vezető az irányítási funkciót betöltő testületnek közvetlenül, személyesen, évente legalább két alkalommal jelentési kötelezettséggel tartozik. A megfelelési vezető részt vesz a jelentést tárgyaló irányító testületi ülésen, a jelentést és az azzal kapcsolatban hozott, dokumentált testületi döntést ellenjegyzi.
+
+(8) A megfelelési vezető (7) bekezdés szerinti jelentése tartalmazza különösen, de nem kizárólagosan
+
+a) a szolgáltatónál a tárgyidőszakban folytatott pénzmosás és terrorizmusfinanszírozás megelőzése tárgyában végzett külső és belső vizsgálatok bemutatását, azok eredményét,
+
+b) a szolgáltató szervezeti és működési kereteinek megfelelőségével kapcsolatban a szolgáltató vagy a felügyeleti szerv által feltárt kockázatokat, valamint az azoknak való kitettségére vonatkozó legfontosabb adatokat,
+
+c) a b) pontban feltárt kockázatok csökkentésére tett javaslatokat.
+
+(9) Az irányítási funkciót betöltő testület a megfelelési vezető (7) bekezdés szerinti jelentésében foglalt javaslatokat a jelentés kézhezvételét követő 30 napon belül dokumentált formában megvitatja, annak elfogadásáról vagy elutasításáról döntést hoz. A jelentésben meghatározott javaslatok alapján végrehajtott változásokat a szolgáltató visszakereshető módon dokumentálja.

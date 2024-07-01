@@ -78,6 +78,8 @@ a) egyes pénzügyi vagy befektetési szolgáltatások hitelintézet részére m
 
 b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet vagy pénzügyi szolgáltató között, ideértve különösen az értékpapírügyletek és a fizetési műveletek elszámolását;
 
+23a. megfelelési vezető: a szolgáltató 65. §-ban meghatározott belső szabályzatában kijelölt vezető beosztású foglalkoztatottja, aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelményeknek és elvárásoknak a szolgáltató foglalkoztatottjai általi végrehajtásáért felel;
+
 24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
 
 25. pénzforgalmi intézmény: az Fsztv.-ben meghatározott pénzforgalmi intézmény, valamint a Posta Elszámoló Központot működtető intézmény;
@@ -112,7 +114,9 @@ k) az árutőzsdei szolgáltató az árutőzsdei szolgáltatásba tartozó tevé
 
 l) a befektetési alapkezelő befektetési jegy forgalmazási tevékenysége tekintetében, illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
 
-m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében;
+m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.), illetve a Bszt.-ben meghatározott tevékenysége tekintetében,
+
+n) a pénzforgalmi közvetítő a pénzforgalmi szolgáltatásnyújtás közvetítése vonatkozásában;
 
 28a. pénzeszköz forrásának igazolása: az ügyletben szereplő pénzeszköz és virtuális fizetőeszköz törvényes forrását megerősítő adat vagy azt igazoló dokumentum, így különösen az öröklésből, kártérítésből, polgári jogi jogviszonyokból származó szerződés vagy egyéb hivatalos dokumentum a kapcsolódó jogosultságok nevesítésével, munkaviszonyból származó bérjövedelem-igazolás, külszolgálatért kapott jövedelemigazolás, egyéb jövedelemigazolás, árfolyamnyereséghez, nyereményhez, osztalékhoz kapcsolódó igazoló dokumentum;
 
@@ -130,11 +134,7 @@ m) piacműködtető, a tőkepiacról szóló 2001. évi CXX. törvényben (a tov
 
 34. szolgáltató vezetője: az a természetes személy, aki a jogi személy vagy jogi személyiséggel nem rendelkező szervezet szolgáltató képviseletére, nevében döntési jogkör gyakorlására vagy az ezen szolgáltatón belüli irányítási jogkör gyakorlására jogosult;
 
-35. szolgáltató 65. § szerinti belső szabályzatban meghatározott vezetője: az a természetes személy, aki a szolgáltató vezetője által a 65. §-ban meghatározott belső szabályzatban meghatározásra kerül az alábbi szempontok figyelembevételével:
-
-a) megfelelő ismeretekkel rendelkezik arra vonatkozóan, hogy a szolgáltató milyen mértékben van kitéve a pénzmosás és a terrorizmus-finanszírozás jelentette kockázatoknak, valamint
-
-b) megfelelő vezetői hatáskörrel rendelkezik ahhoz, hogy a kockázati kitettséget befolyásoló döntéseket kezdeményezzen vagy hozzon;
+35.
 
 35a. tartós üzleti egység:
 

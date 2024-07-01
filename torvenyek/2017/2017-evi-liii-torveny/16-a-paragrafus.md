@@ -12,7 +12,7 @@ ad) a végrehajtandó vagy végrehajtott ügyletek indokaira
 
 vonatkozóan,
 
-b) az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését a 65. § szerinti belső szabályzatban meghatározott vezetője jóváhagyásához kötni, valamint
+b) az üzleti kapcsolat létesítését, az ügyleti megbízás teljesítését a szolgáltató kijelölt felelős vezetője jóváhagyásához kötni, valamint
 
 c) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban végrehajtani.
 
