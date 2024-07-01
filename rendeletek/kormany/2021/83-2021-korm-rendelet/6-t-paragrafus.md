@@ -1,4 +1,4 @@
-6/T. §[^46] (1) A 2. mellékletben foglalt táblázat 88. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/T. §[^47] (1) A 2. mellékletben foglalt táblázat 88. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -30,4 +30,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 (3) A 2. melléklet 88. sora szerinti beruházás keretében megvalósuló építmények használatbavételi engedélye kiadásának feltétele a telekalakítás végrehajtása, valamint annak ingatlan-nyilvántartásba történő bejegyzése.
 
-[^46]: A 6/T. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^47]: A 6/T. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-6/W. §[^49] (1) A 2. mellékletben foglalt táblázat 91. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
+6/W. §[^50] (1) A 2. mellékletben foglalt táblázat 91. sora szerinti beruházással érintett ingatlan telkére a beépítés szabályait és az egyedi építési követelményeket a (2) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési terv és az OTÉK előírásait a (2) bekezdésben foglalt eltérésekkel kell alkalmazni, továbbá
 
@@ -36,4 +36,4 @@ b) ha a hatályos településrendezési terv vagy az OTÉK a beépítés (2) bek
 
 (3) A 2. mellékletben foglalt táblázat 91. sora szerinti beruházás tekintetében a helyi településrendezési eszközben előírt infrastruktúra-fejlesztések elmaradása a beruházással összefüggő fejlesztés keretében megvalósított épületre vonatkozó használatbavételi engedély kiadásának nem feltétele.
 
-[^49]: A 6/W. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^50]: A 6/W. §-t a 301/2022. (VIII. 9.) Korm. rendelet 1. § (3) bekezdése iktatta be.
