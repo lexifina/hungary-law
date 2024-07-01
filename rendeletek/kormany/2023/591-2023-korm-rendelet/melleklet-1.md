@@ -1,3 +1,3 @@
-1. melléklet az 591/2023. (XII. 20.) Korm. rendelethez[^30]
+1. melléklet az 591/2023. (XII. 20.) Korm. rendelethez[^27]
 
-[^30]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
