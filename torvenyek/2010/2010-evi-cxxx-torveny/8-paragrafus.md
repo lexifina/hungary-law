@@ -4,7 +4,7 @@
 
 a) a jogszabály megjelölését,
 
-b) – az önkormányzati rendelet kivételével – a rendelet bevezető részét,
+b) – az önkormányzati rendelet kivételével – a rendelet megalkotásához szükséges érvényességi kellékek felsorolását,
 
 c) a hatályba lépett jogszabályi rendelkezés hatályba léptető rendelkezését, valamint
 

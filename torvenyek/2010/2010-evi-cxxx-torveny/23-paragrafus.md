@@ -57,3 +57,5 @@ e) az önálló szabályozó szerv, valamint
 f) a minisztérium
 
 hivatali szervezetének vezetője, amely a szerv állományába tartozó személyekre kötelező.
+
+(6) Törvényben meghatározott tárgykörben normatív utasítást adhat ki a Honvéd Vezérkar főnöke, amely a honvédekre kötelező.

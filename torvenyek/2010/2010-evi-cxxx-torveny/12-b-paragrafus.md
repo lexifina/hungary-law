@@ -2,7 +2,7 @@
 
 a) jogszabály-megjelölést,
 
-b) preambulumot vagy bevezető részt,
+b) preambulumot, illetve érvényességikellék-felsorolást,
 
 c) – más jogszabályra vonatkozó hatályba léptető rendelkezés kivételével – hatályba léptető rendelkezést,
 
