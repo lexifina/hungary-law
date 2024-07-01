@@ -20,4 +20,4 @@ h) nem kell alkalmazni a 73. § (4) bekezdésében foglaltakat.
 
 (2) Az (1) bekezdés a)–b) pontja alapján meghozott rendelkezések nem lehetnek ellentétesek a 46. § (2) bekezdésében foglalt elvekkel.
 
-(3) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel, vagy a Magyar Honvédséggel szolgálati viszonyban álló pedagógusok jogviszonyára, az igazgató megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
+(3) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel, vagy a Magyar Honvédséggel szolgálati viszonyban álló pedagógusok jogviszonyára, az igazgató megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló kormányrendelet, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.
