@@ -46,7 +46,7 @@ ac) korlátlan enyhítés alkalmazásával,
 
 b) a hozzátartozója sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett személy elleni erőszakos bűncselekmény miatt, vagy
 
-c) tizennyolcadik életévét be nem töltött személy sérelmére elkövetett, nyolcévi vagy ennél súlyosabb szabadságvesztéssel fenyegetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt
+c) tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény miatt
 
 ítéltek végrehajtandó szabadságvesztésre.
 
