@@ -1,0 +1,5 @@
+77. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 436/A. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) Ha az elítéltet a Btk. 459. § (1) bekezdés 26. pontjában megjelölt személy elleni erőszakos bűncselekmény miatt ítélték el, és a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvény (a továbbiakban: Mód2. tv.) e törvényt módosító rendelkezéseinek hatálybalépésekor már feltételes szabadságra bocsátották úgy, hogy elrendelték a pártfogó felügyeletét, továbbá a sértett kérte a 13. § szerinti értesítését, a sértett a büntetés-végrehajtási bírónál a 188/A. §-ában foglaltak megfelelő alkalmazásával kezdeményezheti, hogy – utólagos büntetés-végrehajtási bírói eljárás keretében – az elítéltnek a személyétől, valamint reá tekintettel hozzátartozójától vagy más személytől történő távoltartás külön magatartási szabály előírásáról döntsön.
+
+(8) A sértettet a (7) bekezdésben meghatározottakról a BVOP a Mód2. tv. hatálybalépésétől számított hatvan napon belül tájékoztatja.”

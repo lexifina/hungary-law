@@ -1,0 +1,3 @@
+78. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény „Átmeneti rendelkezések” alcíme a következő 436/C. §-sal egészül ki:
+
+„436/C. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvény (a továbbiakban: 2024. évi XXX. törvény) által megállapított 46. § (4)–(6) bekezdését a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.”

@@ -1,0 +1,3 @@
+49. § A sportról szóló 2004. évi I. törvény „Hatályba léptető és átmeneti rendelkezések” alcíme a következő 78/V. §-sal egészül ki:
+
+„78/V. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: Módtv13.) megállapított 11/A. § (5) bekezdésében meghatározott feltételnek való megfelelést a tizennyolcadik életévét be nem töltött sportolót felkészítő edzői tevékenységet végző sportszakember a Módtv13. hatálybalépésekor fennálló jogviszony esetén a Módtv13. hatálybalépését követően 60 napon belül a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvánnyal igazolja.”
