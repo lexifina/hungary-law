@@ -14,7 +14,7 @@ c) a szervnél vezetőként közszolgálati jogviszonyban álló személyre,
 
 d) a szervvel vezető beosztással rendelkező, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti jogviszonyban álló személyre,
 
-e) a szervnél vezető beosztással rendelkező, a honvédek jogállásáról szóló törvény szerinti jogviszonyban álló személyre, illetve
+e) a szervnél vezető beosztással rendelkező, a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati viszonyban álló személyre, illetve
 
 f) a miniszterelnök közvetlen irányítása alatt álló és kormányrendeletben a központi államigazgatási szervnél irányítási jogkörrel felruházott kormánybiztosra,
 
