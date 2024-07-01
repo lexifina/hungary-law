@@ -34,6 +34,8 @@ p) jegyző esetén a helyi önkormányzat megnevezését követően a „jegyző
 
 q) a Jat. 23. § (5) bekezdése esetén a Jat. 23. § (5) bekezdés a)–f) pontjában meghatározott szervre e rendeletben meghatározott teljes megjelölését követően a hivatali szerv vezetője tisztségének megnevezése a birtokos raggal és birtokos személyjellel.
 
+r)[^20] a Honvéd Vezérkar főnöke esetén „A Honvéd Vezérkar főnöke”.
+
 (2) A közjogi szervezetszabályozó eszköz kibocsátója megjelölésének rövidítése
 
 a) az Országgyűlés esetén „OGY”,
@@ -58,7 +60,11 @@ j) az Állami Számvevőszék elnöke esetén „ÁSZ”,
 
 k) minisztérium hivatali szervezetének vezetője esetén a minisztériumot vezető miniszternek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott rövid megjelölését követően „KÁT”.
 
+l)[^21] a Honvéd Vezérkar főnöke esetén „HVKF”.
+
 (3) A közjogi szervezetszabályozó eszköz (1) és (2) bekezdésben nem meghatározott kibocsátójának teljes megjelölésére és rövidítésére a jogszabály megalkotójának teljes megjelölésére és rövidítésére vonatkozó szabályokat kell alkalmazni.
 
 [^18]: A 18. § (1) bekezdés l) pontja a 36/2022. (XII. 27.) IM rendelet 2. § c) pontja szerint módosított szöveg.
 [^19]: A 18. § (1) bekezdés o) pontja a 36/2022. (XII. 27.) IM rendelet 2. § d) pontja szerint módosított szöveg.
+[^20]: A 18. § (1) bekezdés r) pontját a 8/2024. (V. 14.) IM rendelet 12. § (1) bekezdése iktatta be.
+[^21]: A 18. § (2) bekezdés l) pontját a 8/2024. (V. 14.) IM rendelet 12. § (2) bekezdése iktatta be.
