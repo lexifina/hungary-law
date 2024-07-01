@@ -1,0 +1,1 @@
+10. § Az ingatlanhasználó közszolgáltatási díj megfizetésére vonatkozó kötelezettségét – a 12. § (1)–(10) bekezdése szerinti esetet kivéve – nem érinti, ha az ingatlanhasználó a hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó szolgáltatást nem vagy csak részben veszi igénybe.

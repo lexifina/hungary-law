@@ -1,0 +1,5 @@
+6. § (1) Az ingatlanhasználó az ingatlan használatára vonatkozó jogosultság megszerzését vagy megszűnését követő 15 napon belül a koncessziós társaságnak bejelenti az igénybevételi kötelezettség keletkezését vagy megszűnését az e tényt bizonyító okiratok benyújtásával, ha a hulladékgazdálkodási közszolgáltatási résztevékenység igénybevételére kötelezetté válik, vagy igénybevételi kötelezettsége megszűnik.
+
+(2) A társasház vagy lakásszövetkezet ingatlanhasználó, valamint a közös gyűjtőedényt használó ingatlanhasználók közössége 15 napon belül a koncessziós társaságnak bejelenti, ha a közösség képviseletét ellátó tisztségviselő személye megváltozik. A bejelentést az új tisztségviselő teljesíti a felhatalmazását igazoló dokumentum csatolásával.
+
+(3) Az ingatlanhasználó – ideértve a 12. § (3) bekezdése szerinti egyéni díjfizetőt – az igénybejelentési kötelezettség teljesítésével egyidejűleg nyilatkozik az ingatlan tekintetében használt vagy igénybe venni kívánt gyűjtőedény számáról és űrtartalmáról.

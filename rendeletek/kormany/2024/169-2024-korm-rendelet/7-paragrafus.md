@@ -1,0 +1,5 @@
+7. § (1) Az igénybejelentési kötelezettség elmulasztása esetén a koncessziós társaság legalább 8 napos teljesítési határidőt biztosítva felhívja az ingatlanhasználót az igénybejelentés és az adatszolgáltatási kötelezettség teljesítésére.
+
+(2) Az adatszolgáltatási kötelezettségnek az (1) bekezdés szerinti felhívásban meghatározott határidőn belül történő elmulasztása esetén a koncessziós társaság legalább 15 napos póthatáridő tűzésével – az ÁSZF-ben meghatározott módon – ismételten felhívja az ingatlanhasználót az adatszolgáltatási kötelezettség teljesítésére.
+
+(3) Az adatszolgáltatási kötelezettség (2) bekezdés szerinti ismételt felhívás ellenére történő elmulasztása esetén a koncessziós társaság az ingatlanhasználó ingatlanára vonatkozóan – az ÁSZF-ben meghatározott módon – lekért tulajdoni lap adatai alapján, az ingatlan tulajdonosával szemben jár el a szolgáltatás nyújtásával összefüggésben. Az ingatlanhasználó köteles megtéríteni a koncessziós társaságnak az ingatlanhasználó adatszolgáltatási kötelezettségének elmulasztása miatt felmerült indokolt költségeket és elmaradt díjakat.

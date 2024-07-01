@@ -1,0 +1,1 @@
+23. § A hulladékgazdálkodási közszolgáltatási résztevékenység körébe tartozó hulladék ingatlanhasználótól történő átvételét, összegyűjtését és elszállítását végző koncessziós társaság gyűjtőjárművén munkát végző alkalmazottak közül legalább egy jelenlévőnek a hulladék átvételére, összegyűjtésére vonatkozó alapfokú szakirányú képesítéssel kell rendelkeznie.
