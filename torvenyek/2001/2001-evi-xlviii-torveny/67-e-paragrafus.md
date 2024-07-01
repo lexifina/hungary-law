@@ -1,0 +1,1 @@
+67/E. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel módosított 36. § (4) bekezdését az e rendelkezés hatálybalépését követően indult eljárásokban kell alkalmazni.
