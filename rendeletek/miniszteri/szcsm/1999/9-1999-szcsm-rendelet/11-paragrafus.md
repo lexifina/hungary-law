@@ -1,3 +1,3 @@
-11. §[^34]
+11. §[^35]
 
-[^34]: A 11. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének d) pontja hatályon kívül helyezte.
+[^35]: A 11. §-t a 10/2006. (XII. 27.) SZMM rendelet 12. § (2) bekezdésének d) pontja hatályon kívül helyezte.

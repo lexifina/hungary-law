@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-9-20-85
 | 2020-02-09 | 1999-9-20-85.32 | 27/2010. (XII. 30.) NEFMI rendelet |
 | 2022-01-01 | 1999-9-20-85.33 | 1/2017. (II. 14.) EMMI rendelet |
 | 2023-01-01 | 1999-9-20-85.34 | 80/2022. (XII. 30.) BM rendelet |
+| 2024-07-01 | 1999-9-20-85.35 | 23/2024. (V. 9.) BM rendelet |
