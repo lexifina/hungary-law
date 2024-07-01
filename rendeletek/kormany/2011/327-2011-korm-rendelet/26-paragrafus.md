@@ -1,3 +1,3 @@
-## 14.[^191]
+## 14.[^192]
 
-[^191]: A 14. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^192]: A 14. alcím címét a 612/2020. (XII. 18.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 5. [^65] A komplex minősítésre, valamint a rehabilitációs és orvosszakértői feladatok ellátására vonatkozó eljárási szabályok
+## 5. [^66] A komplex minősítésre, valamint a rehabilitációs és orvosszakértői feladatok ellátására vonatkozó eljárási szabályok
 
-[^65]: Az 5. alcímet (11–13/C. §) újonnan a 379/2016. (XII. 2.) Korm. rendelet 187. § (7) bekezdése iktatta be.
+[^66]: Az 5. alcímet (11–13/C. §) újonnan a 379/2016. (XII. 2.) Korm. rendelet 187. § (7) bekezdése iktatta be.

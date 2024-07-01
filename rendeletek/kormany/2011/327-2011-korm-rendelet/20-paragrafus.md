@@ -1,4 +1,4 @@
-20. §[^96] (1) A rehabilitációs mentori tevékenység
+20. §[^97] (1) A rehabilitációs mentori tevékenység
 
 a) a rehabilitációs hatóságnál foglalkoztatott mentor vagy
 
@@ -26,4 +26,4 @@ b) a munkaadókkal való együttműködést a megváltozott munkaképességű sz
 
 (5) Ha a komplex minősítés során a foglalkozási rehabilitációs szakértő a rehabilitálhatónak minősített személy részére rehabilitációs mentori szolgáltatás biztosítását javasolja, a rehabilitációs hatóság az érintett, keresőtevékenységet nem végző személy kérésére rehabilitációs mentort jelöl ki.
 
-[^96]: A 20. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 32/2024. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^97]: A 20. §-t újonnan a 117/2016. (VI. 6.) Korm. rendelet 9. §-a iktatta be, szövege a 32/2024. (II. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
