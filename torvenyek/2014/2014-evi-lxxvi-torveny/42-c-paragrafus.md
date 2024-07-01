@@ -42,7 +42,7 @@
 
 14. az Alaptörvény X. cikk (2) bekezdését nem sértve véleményt nyilvánít a hazai tudomány és a társadalom koncepcionális kérdéseiről;
 
-14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg;
+14a. a kiemelkedő tudományos eredményeket elérő kutatók részére az MKH Titkárság forrásaiból tudományos ösztöndíjat, díjakat, címeket alapíthat, díjkitűzést tehet, amelynek feltételeit és részletes rendjét szabályzatban állapítja meg; valamint
 
 15. ellátja az alapító okirat által hatáskörébe utalt feladatokat.
 
