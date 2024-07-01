@@ -18,4 +18,4 @@ c) a munkavédelmi oktatás (55. §) megtervezése és megszervezése.
 
 (4) A kiegyensúlyozott részvétel érdekében a munkáltató köteles a munkavédelmi kérdésben intézkedési jogkörrel bíró személlyel képviseltetni magát a tanácskozáson.
 
-(5) A munkavédelmi érdekképviseletre, érdekegyeztetésre vonatkozó részletes előírásokat a 9. § (4) bekezdés hatálya alá tartozó honvédelmi szervezetek és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetében más jogszabályban foglalt – így különösen a honvédek jogállásáról szóló 2012. évi CCV. törvény – előírásokkal összhangban kell meghatározni és alkalmazni.
+(5) A munkavédelmi érdekképviseletre, érdekegyeztetésre vonatkozó részletes előírásokat a 9. § (4) bekezdés hatálya alá tartozó honvédelmi szervezetek és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő szakképző intézmény esetében más jogszabályban foglalt – így különösen a honvédek jogállásáról szóló kormányrendelet – előírásokkal összhangban kell meghatározni és alkalmazni.
