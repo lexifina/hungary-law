@@ -72,13 +72,13 @@
 
 9. a meg nem térülő károk leírással vagy törléssel történő rendezésének és nyilvántartásának sajátos szabályait, a kártérítési eljárás munkáltatói jogkört gyakorló általi megszüntetésére, a kár leírására és a törlésére vonatkozó munkáltatói jogkörök vezetési szintektől és a kár összegétől függő differenciált módon történő megállapítására vonatkozó szabályokat,
 
-10. az egészségügyért felelős miniszterrel egyetértésben a Honvédség munkakörei, beosztásai betöltésével összefüggésben az alkalmassági vizsgálatra, annak elrendelésére, véleményezésére vonatkozó szabályokat, valamint az eljárás rendjét,
+10.
 
 11. a behívásra tervezhető létszámot, a katonai szolgálat időtartamát, a katonai szolgálatra való behívás időpontját,
 
 12. az egészségügyért felelős miniszterrel egyetértésben a hadkötelesek katonai szolgálatra való alkalmassága elbírálásának, felülvizsgálatának rendjét,
 
-13. a külföldi katonai szolgálat esetén a rangidős nemzeti képviselőt megillető jogköröket,
+13.
 
 14. a szövetségi és honi védelmi infrastruktúra működésének biztosítása, fejlesztése érdekében a honvédelmi és katonai célú építmények, ingatlanok működési és védőterületei megállapításának szakmai szabályait,
 
@@ -88,7 +88,7 @@
 
 17. a lő- és gyakorlóterek biztonságos használatához szükséges korlátozások elrendelésének és az e körben felmerülő károk megtérítésének részletes szabályait,
 
-18. az egyenruha, a katonai rendfokozati és a fegyvernemi jelzés, az évfolyamjelzés, a kitüntetés és a szolgálati jel viselésének módját, továbbá az egyenruha és a rendfokozat viselésének korlátozását, előzetes engedélyhez kötését, tilalmát, az egyenruha-viseléssel és annak megvonásával kapcsolatos jogkört gyakorló szervezetet, az egyenruha viselésének megvonására vonatkozó eljárás rendjét,
+18.
 
 19. a Honvédségnél rendszeresített egyéni lőfegyverek szolgálati feladatellátással összefüggő tárolásának és viselésének szabályait,
 
@@ -105,6 +105,8 @@
 25. a fegyver nélküli katonai szolgálat teljesítésének engedélyezéséhez szükséges formanyomtatványokat, valamint
 
 26. azokat a honvédelmi érdekhez közvetlenül kapcsolódó tevékenységet folytató gazdasági társaságokat, amelyek tekintetében a 47. §-ban meghatározott jogköröket gyakorolja.
+
+27. a címzetes ezredes és a címzetes alezredes rendfokozat adományozásának rendjét, feltételeit, a címzetes ezredes, címzetes alezredes feladatait, jogait és kötelezettségeit.
 
 (3) Felhatalmazást kap a Kormány tagja, hogy a honvédelemért felelős miniszterrel egyetértésben rendeletben
 

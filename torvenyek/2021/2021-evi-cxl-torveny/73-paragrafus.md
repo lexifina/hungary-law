@@ -4,4 +4,4 @@
 
 (3) A rendfokozat nélküli honvéd nem elöljárója és nem feljebbvalója azoknak, akik nála később kezdték meg a szolgálatot.
 
-(4) Külföldi katonai szolgálat esetén – a jogi személyiséggel rendelkező ideiglenes katonai szervezet kivételével – rangidős nemzeti képviselőt kell kijelölni az egy helyen tartózkodó honvédek közül, aki a jogszabályban nevesített egyes jogkörökben gyakorolja az állományilletékes parancsnokot megillető jogköröket.
+(4) A Magyarországon települő nemzetközi katonai szervezetnél történő szolgálatteljesítés és a külföldi katonai szolgálat esetén – a jogi személyiséggel rendelkező ideiglenes katonai szervezet kivételével – rangidős nemzeti képviselőt kell kijelölni az egy helyen tartózkodó honvédek közül, aki a kijelölésben meghatározott egyes állományilletékes parancsnoki jogköröket gyakorolja.

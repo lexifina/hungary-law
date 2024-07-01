@@ -4,7 +4,7 @@
 
 a) I. Fejezete az Alaptörvény XXXI. cikk (3)–(6) bekezdése és 45. cikk (5) bekezdése,
 
-b) 4–6. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése,
+b) 4–6. §-a, 8. § (1)–(5) és (7) bekezdése, 13. §-a, 14. §-a, 17. §-a, 11/A. alcíme, 18. §-a, VII. Fejezete, VIII. Fejezete, 72–79. §-a, XI–XIII. Fejezete, XV. Fejezete és XVI. Fejezete az Alaptörvény 45. cikk (5) bekezdése,
 
 c) III. Fejezete és 1. melléklete az Alaptörvény XXXI. cikk (3)–(5) bekezdése,
 

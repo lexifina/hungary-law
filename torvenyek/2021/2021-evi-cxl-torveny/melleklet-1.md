@@ -46,7 +46,7 @@ Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szer
 
 2.9. az ügyészségek,
 
-2.10. a Ksztv. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
+2.10. a Kit. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
 
 2.11. a fővárosi és vármegyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
 
