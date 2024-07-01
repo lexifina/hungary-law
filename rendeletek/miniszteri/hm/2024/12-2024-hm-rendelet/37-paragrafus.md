@@ -1,0 +1,3 @@
+37. § (1) A honvédelmi szervezetnek a honvéddel szembeni, szolgálati viszonnyal összefüggő kártérítési felelősségének megállapítása során a honvédnek kell bizonyítania a kár bekövetkezését, mértékét, továbbá azt, hogy az a szolgálati viszonnyal összefüggésben keletkezett.
+
+(2) A szolgálati viszony körébe tartoznak különösen a honvédelmi szervezet feladatainak ellátásával összefüggő magatartásból, a használt anyag, felszerelés, berendezés és energia tulajdonságából, állapotából, mozgásából és működéséből eredő okok. Ha a honvéd a tevékenységét rendeltetésszerűen a szolgálatteljesítési helyen kívül is ellátja, az e körben történt károsodásának okát ellenőrzési körön belül esőnek kell tekinteni.

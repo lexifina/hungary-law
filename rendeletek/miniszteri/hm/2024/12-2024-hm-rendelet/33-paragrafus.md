@@ -1,0 +1,1 @@
+33. § A műveleti területen történő szolgálatteljesítés során okozott kár miatti kártérítési eljárás lefolytatása során a vizsgáló vagy a bizottság a 29. § szerinti mentesülési ok fennállását hivatalból vizsgálja. A 29. § szerinti mentesülési ok fennálltát a 16. § e) pontja szerinti eljárást megszüntető oknak kell tekinteni.

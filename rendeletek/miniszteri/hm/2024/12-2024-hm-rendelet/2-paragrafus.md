@@ -1,0 +1,1 @@
+2. § E rendelet szabályait kell alkalmazni a honvédelemért felelős miniszter (a továbbiakban: miniszter) által az állam nevében alapított, a miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő többcélú szakképző intézménynél bekövetkező károkozásra is.

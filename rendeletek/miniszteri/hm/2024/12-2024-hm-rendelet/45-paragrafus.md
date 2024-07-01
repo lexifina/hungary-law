@@ -1,0 +1,1 @@
+45. § A kártérítés meghatározásánál figyelembe vett körülmények lényeges megváltozása esetén a károsult a kártérítési eljárást elsőfokon lefolytató honvédelmi szervezetnél, az elsőfokon eljárt honvédelmi szervezet pedig a bíróságnál kérheti a járadék mértékének és a járadékfizetés időtartamának megváltoztatását vagy a járadékfizetési kötelezettség megszüntetését.

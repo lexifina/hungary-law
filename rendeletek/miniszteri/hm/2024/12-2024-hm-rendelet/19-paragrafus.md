@@ -1,0 +1,3 @@
+19. § (1) A határozatot a szükséges számú példányban kell elkészíteni, amelyből egy példányt a honvédnek kell kézbesíteni, egy példányt az ügy irataihoz kell csatolni, egy-egy további példányt a határozat jogerőre emelkedése után előjegyzésre, illetve végrehajtásra az ellátó pénzügyi és számviteli szervezetnek, valamint logisztikai szervezetnek kell átadni. Ügyvéd eljárása esetén a határozat egy példányát az ügyvéd részére is kézbesíteni kell. Ebben az esetben a határozatot az ügyvéd részére történő kézbesítéssel kell kézbesítettnek tekinteni.
+
+(2) A határozat átvételének tényét és idejét a honvéd aláírásával igazolja. Ha a kézbesítés postai úton történik, az átvétel igazolására a tértivevény szolgál.

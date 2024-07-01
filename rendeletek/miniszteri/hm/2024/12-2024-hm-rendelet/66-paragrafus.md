@@ -1,0 +1,1 @@
+66. § Az e rendelet hatálybalépése előtt megkezdett kártérítési ügyekre a honvédek jogállásáról szóló 2012. évi CCV. törvény és a kártérítési felelősségről, valamint egyes meg nem térülő károk leírásának és törlésének szabályairól szóló 10/2013. (VIII. 12.) HM rendelet I. és II. fejezetének 2024. június 30-án hatályos rendelkezéseit kell alkalmazni.

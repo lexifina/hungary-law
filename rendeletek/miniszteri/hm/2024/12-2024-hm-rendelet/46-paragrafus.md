@@ -1,0 +1,1 @@
+46. § A hadkötelezettség alapján teljesített szolgálattal összefüggő balesetekkel, a hadkötelezettség alapján teljesített szolgálattal összefüggésben kialakult, vagy súlyosbodott betegségekkel kapcsolatos kárigények elbírálása során e rendeletben meghatározott elévülési, kártérítési anyagi és eljárási, valamint fellebbezési szabályokat megfelelően alkalmazni kell.

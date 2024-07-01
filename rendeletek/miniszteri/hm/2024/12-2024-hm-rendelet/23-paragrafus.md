@@ -1,0 +1,1 @@
+23. § A másodfokú határozatot – az ügy iratainak visszaküldése mellett – meg kell küldeni az elsőfokon eljárt szervezetnek –, aki köteles a határozat egy példányát tértivevénnyel az állomány jogorvoslattal élő tagjának kézbesíteni, egy példányát az ellátó pénzügyi és számviteli szervezetnek átadni, továbbá a határozat egy példányát az ügy irataihoz csatolni.
