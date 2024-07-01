@@ -1,5 +1,3 @@
-## 38. §
-
 ## 21. A bírság mértéke és megállapítása
 
 39. § (1)[^10] A bányafelügyelet elnökének rendeletében meghatározott, a bányafelügyelet építésügyi hatósági engedélyéhez kötött sajátos építmények és bejelentés alapján végezhető építési tevékenységek esetén a bírság mértéke:
@@ -30,6 +28,8 @@ de legalább ötszázezer forint, legfeljebb tízmillió forint.
 
 (5)[^16] A bírság megfizetéséről szóló határozat kötelezettje az építtető.
 
+(6)[^17] A kiszabott bírságot a bányafelügyeletnek a Magyar Államkincstárnál vezetett, 10032000-00362887-00000000 számú fizetési számlájára kell befizetni a döntés véglegessé válását követő 15 napon belül.
+
 [^10]: A 39. § (1) bekezdés nyitó szövegrésze a 26/2022. (I. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^11]: A 39. § (1) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
 [^12]: A 39. § (1) bekezdés g) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított, a 311/2014. (XII. 11.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
@@ -37,3 +37,4 @@ de legalább ötszázezer forint, legfeljebb tízmillió forint.
 [^14]: A 39. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 172. §-a, a 457/2017. (XII. 28.) Korm. rendelet 386. § h) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^15]: A 39. § (4) bekezdését a 26/2022. (I. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^16]: A 39. § (5) bekezdését a 26/2022. (I. 28.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^17]: A 39. § (6) bekezdését a 141/2024. (VI. 28.) Korm. rendelet 13. §-a iktatta be.

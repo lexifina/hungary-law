@@ -1,3 +1,3 @@
-7. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^29]
+7. melléklet az 53/2012. (III. 28.) Korm. rendelethez[^30]
 
-[^29]: A 7. mellékletet a 26/2022. (I. 28.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
+[^30]: A 7. mellékletet a 26/2022. (I. 28.) Korm. rendelet 10. § d) pontja hatályon kívül helyezte.
