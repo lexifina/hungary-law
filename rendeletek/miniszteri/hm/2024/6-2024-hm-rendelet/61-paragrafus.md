@@ -1,0 +1,1 @@
+61. § A teljesítményértékelés teljes körű végrehajtása érdekében biztosítani kell, hogy az állomány tagja az értékelés részeként meghatározott fizikai állapotfelmérésen és az éves kiképzési feladatokon részt vegyen.

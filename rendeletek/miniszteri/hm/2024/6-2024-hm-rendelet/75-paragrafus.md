@@ -1,0 +1,1 @@
+75. § A fizetési felszólítás, a fizetési könnyítés és a fizetési halasztás szabályait a honvédségi ösztöndíjas ösztöndíjszerződése alapján keletkezett megtérítési kötelezettségre is alkalmazni kell, azzal, hogy ez esetben a fizetési felszólításra vonatkozó írásbeli tájékoztatás a részbeni vagy teljes mentesítés lehetőségére történő utalást nem tartalmazza.

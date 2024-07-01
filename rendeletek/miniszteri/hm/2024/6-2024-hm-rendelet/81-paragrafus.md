@@ -1,0 +1,1 @@
+81. § Az állomány nő tagja részére éjszakai szolgálatteljesítés csak beleegyezésével rendelhető el várandóssága megállapításától a gyermek egyéves koráig, illetve ha az állomány tagja gyermekét egyedül neveli, a gyermekének egyéves koráig. Éjszakai szolgálatteljesítésnek minősül a 22 és 6 óra közötti időszakban történő szolgálatteljesítés.

@@ -1,0 +1,1 @@
+83. § Az állomány tagja hetente 2 pihenőnapra jogosult. A heti 2 pihenőnap a hét bármely napjára beosztható, de lehetőség szerint együtt kell kiadni. A pihenőnapok szolgálati feladatok miatt havonta összevontan is kiadhatók.

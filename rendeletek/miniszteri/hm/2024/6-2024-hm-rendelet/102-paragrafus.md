@@ -1,0 +1,3 @@
+102. § (1) A honvéd tisztjelölt felmentési ideje egy hónap. A honvéd tisztjelölt és a döntésre jogosult elöljáró ennél rövidebb felmentési időben is megállapodhat.
+
+(2) A honvéd tisztjelölt szolgálati viszonya a Hjkr. 15. § (1) bekezdés b) pontjában foglaltakon túlmenően megszűnik a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 55. § (2) bekezdés e) pontja szerinti hallgatói jogviszonya tekintetében alkalmazott kizárás fegyelmi büntetés jogerőre emelkedésével. A Hjkr. 15. § (1) bekezdés b) pont 3. alpontját azzal az eltéréssel kell alkalmazni, hogy a jogszabályban előírt képzési kötelezettség mellett az állományba vételi okmányban előírt további tanulmányi vagy képzési kötelezettséget is érteni kell.

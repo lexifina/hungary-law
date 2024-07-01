@@ -1,0 +1,3 @@
+90. § (1) Az állomány tagját gyermeke 3. életévének betöltéséig 44 munkanap szülői szolgálatmentesség illeti meg. A szülői szolgálatmentességre való jogosultság feltétele, hogy az állomány tagjának szolgálati viszonya legalább egy éve fennálljon.
+
+(2) Az apa gyermeke születése esetén legkésőbb a gyermeke születését követő, vagy gyermek örökbefogadása esetén legkésőbb az örökbefogadást engedélyező határozat véglegessé válását követő 2. hónap végéig 10 munkanap szolgálatmentességre (a továbbiakban: apasági szolgálatmentesség) jogosult, amelyet kérésének megfelelő időpontban, legfeljebb két részletben kell kiadni. Az apasági szolgálatmentességre az állomány tagja akkor is jogosult, ha a gyermeke halva születik vagy meghal.

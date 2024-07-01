@@ -1,0 +1,1 @@
+48. § Az állomány tagja által betölthető szolgálati beosztások, álláshelyek megnevezését, vezetői vagy nem vezetői jellegét, valamint az azokhoz tartozó rendszeresített rendfokozatot a miniszter utasításban határozza meg.

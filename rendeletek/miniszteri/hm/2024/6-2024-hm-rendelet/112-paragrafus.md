@@ -1,0 +1,1 @@
+112. § Ha a katona oktató a tanév közben kezdeményezi a szolgálati viszonyának lemondással vagy egyoldalú szerződésbontással történő megszüntetését, a lemondási idő a tanítási félév utolsó napját követő nappal kezdődik, és rövidebb lemondási időben nem lehet megállapodni.

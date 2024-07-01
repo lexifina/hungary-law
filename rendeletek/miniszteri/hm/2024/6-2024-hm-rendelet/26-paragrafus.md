@@ -1,0 +1,5 @@
+26. § (1) Az állomány tagját a miniszter közvetlen alárendeltségébe tartozó szervezetnél történő szolgálatteljesítésre a HVKF vezényli az adott költségvetési szerv vezetőjének kezdeményezésére. Az állomány miniszter közvetlen alárendeltségébe tartozó szervezet vezetőjének beosztásába tervezett tagja esetén a vezényléshez a miniszter által vezetett minisztérium közigazgatási államtitkárának kezdeményezése szükséges.
+
+(2) Az (1) bekezdés szerinti vezénylés időtartama alatt a szolgálati beosztások közötti áthelyezésekre, kinevezésekre, előléptetésekre, megbízásokra és vezénylésekre a szolgálati beosztást betöltőkre vonatkozó szabályokat kell alkalmazni.
+
+(3) Az állomány tagjának a miniszter közvetlen alárendeltségébe tartozó szervezethez történő vezénylése HVKF általi megszüntetését a miniszter közvetlen alárendeltségébe tartozó szervezet vezetője esetében a miniszter által vezetett minisztérium közigazgatási államtitkára, a miniszter közvetlen alárendeltségébe tartozó szervezet tagja esetén az adott költségvetési szerv vezetője kezdeményezi.

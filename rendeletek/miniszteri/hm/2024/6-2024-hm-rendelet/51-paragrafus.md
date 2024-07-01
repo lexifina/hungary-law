@@ -1,0 +1,1 @@
+51. § A szolgálati viszony létesítésével és megszüntetésével összefüggésben a honvédelmi szervezet igénybe veheti, és az állomány tagja számára nyújthatja a Kit. szerinti személyügyi központ Közszolgálati Személyügyi Szolgáltatási Keretrendszere által nyújtott szolgáltatásokat az erre vonatkozó jogszabályban meghatározott feltételekkel.

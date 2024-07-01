@@ -1,0 +1,1 @@
+111. § Ha a szerződéses állomány tagjának vállalt szolgálati ideje a tanév közben járna le, a katona oktatói szolgálati beosztásba helyezés feltétele, hogy a felek a szolgálati viszonyt úgy hosszabbítsák meg, hogy annak letelte a nyári tanítási szünet időtartamára essen. Ebben az esetben nem kell alkalmazni a 33. § (1) bekezdésében foglaltakat.

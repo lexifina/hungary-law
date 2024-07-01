@@ -1,0 +1,5 @@
+88. § (1) Az állomány tagja a Hjkr. 22. § (2) bekezdése szerinti 24 órás őr-, ügyeleti és laktanyai készenléti szolgálat teljesítése esetén egy munkanapra, a pihenőnapon és a munkaszüneti napon teljesített szolgálat után további még egy munkanapra mentesül a szolgálatteljesítési kötelezettség alól.
+
+(2) A 24 órát meghaladó készenléti szolgálat esetén a szolgálat laktanyai vagy laktanyán kívüli jellegétől, a szolgálat időtartamától és a szolgálat alatt elvégzett feladatoktól függően a döntésre jogosult elöljáró vagy az általa kijelölt elöljáró dönt a szolgálatteljesítési kötelezettség alóli mentesülés napjainak számáról, mely legfeljebb 5 munkanap lehet.
+
+(3) A Hjkr. 22. § (2) bekezdése szerinti őr-, ügyeleti és készenléti szolgálat, illetve a nemzetközi kötelezettséggel összefüggő feladatvégzésre kijelölésen alapuló egyéb készenléti tevékenység meghatározására, elrendelésére és az ezeket követő szolgálatmentesség kiadására vonatkozó szabályokat, valamint az őr-, az ügyeleti és a készenléti szolgálatok besorolását belső rendelkezésben kell meghatározni.

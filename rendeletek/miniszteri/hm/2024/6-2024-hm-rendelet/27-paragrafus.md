@@ -1,0 +1,3 @@
+27. § (1) Ha a miniszter által vezetett minisztériumba vagy a miniszter közvetlen alárendeltségébe tartozó szervezethez történő vezénylés szolgálati viszony létesítésével jár, és a vezénylésre tervezett személy a Hjkr. 9. § (2) bekezdése szerint nem kötelezett alapkiképzésre, a szolgálati viszony létesítésének és a vezénylésnek az időpontja megegyezik.
+
+(2) Ha az (1) bekezdés szerint vezénylésre tervezett személy a Hjkr. 9. § (2) bekezdése szerint alapkiképzésre kötelezett, akkor a szolgálati viszony létesítésével egyidejűleg rendelkezési állományba kell helyezni, és a vezénylésre legkorábban az alapkiképzés sikeres végrehajtását követő napon kerülhet sor.
