@@ -18,7 +18,7 @@ f) az útlevél okmányszáma,
 
 g) kártya formátumú vezetői engedély (a továbbiakban: vezetői engedély) okmányszáma,
 
-h) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+h)
 
 i) a személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító,
 
@@ -26,7 +26,7 @@ j) az ügyfél ügyintézési rendelkezésének nyilvántartási azonosítója,
 
 k) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója,
 
-l)
+l) a digitális állampolgárság nyilvántartás azonosítója (ideértve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót is),
 
 m) oktatási azonosító szám,
 
@@ -60,11 +60,13 @@ g) a társadalombiztosítási azonosító jelet tartalmazó hatósági nyilvánt
 
 h) az adóazonosító jelről szóló hatósági igazolvány nyilvántartást vezető szerv a hatósági igazolványra való jogosultság megszüntetéséről;
 
-i) a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót nyilvántartó szerv az egyedi azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről;
+i)
 
 j) a Nemzeti Egységes Kártyarendszer központi nyilvántartás működtetője a törvény alapján személyazonosításra alkalmas elsődleges kártya adatainak törléséről;
 
 k) az élelmiszerlánc-felügyeleti szerv a FELIR azonosító törléséről.
+
+l) a digitális állampolgárság nyilvántartás azonosítóját nyilvántartó szerv az azonosító jogosultjához tartozó adatok kezelésének nyilvántartásban történt megszüntetéséről.
 
 (7) A (6) bekezdés szerinti értesítés a változással érintett természetes személyazonosító adatait, a megszüntetésre került összerendelési titkosított kapcsolati kódot, annak típusmegjelölését, valamint a megszüntetés okát és időpontját tartalmazza.
 

@@ -14,11 +14,11 @@ b) az összerendelési kapcsolati kód képzése és annak a csak általa vissza
 
 (6) Az adatkezelő az (5) bekezdés szerinti adatállomány összeállítása céljából azon azonosítókhoz rendel összerendelési kapcsolati kódot, amelyek:
 
-a) a 10/A. § (2) bekezdés e), g) és l) pontja szerinti okmányok esetében személyazonosság igazolására történő felhasználási célból érvényesnek minősülnek,
+a) a 10/A. § (2) bekezdés e)és g) pontja szerinti okmányok esetében személyazonosság igazolására történő felhasználási célból érvényesnek minősülnek,
 
 b) a 10/A. § (2) bekezdés f) pontja szerinti okmány esetében a 10/A. § (6) bekezdése szerinti megszüntetési ok nem áll fenn,
 
-c) a 10/A. § (2) bekezdés c), d), i) és h) pontja szerinti azonosítók esetében az adatállományt átadó adatkezelő nyilvántartásában a 10/A. § (6) bekezdése szerinti megszüntetési vagy törlési ok nem áll fenn.
+c) a 10/A. § (2) bekezdés c), d), i) és l) pontja szerinti azonosítók esetében az adatállományt átadó adatkezelő nyilvántartásában a 10/A. § (6) bekezdése szerinti megszüntetési vagy törlési ok nem áll fenn.
 
 (7) A 10/A. § (2) bekezdés c)–d) pontjában felsorolt azonosítókat kezelő szervek a (3) bekezdés szerinti adatállományt a személyiadat- és lakcímnyilvántartás adatkezelője által az ágazati kapcsolati kóddal kiegészítve adják át az összerendelési nyilvántartást vezető szervnek.
 

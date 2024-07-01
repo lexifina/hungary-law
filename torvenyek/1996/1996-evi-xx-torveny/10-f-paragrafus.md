@@ -1,4 +1,4 @@
-10/F. § Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti központi azonosítási ügynök használata esetén az összerendelési nyilvántartás szolgáltatást igénybevevő szerv a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/C. § megfelelő alkalmazásával
+10/F. § A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti központi azonosítási ügynök használata esetén az összerendelési nyilvántartás szolgáltatást igénybevevő szerv a polgárnak az összerendelési nyilvántartás hatálya alá tartozó más azonosítója igazolásával is kérhet adatszolgáltatást a 10/C. § megfelelő alkalmazásával
 
 a) a személyiadat- és lakcímnyilvántartásból,
 

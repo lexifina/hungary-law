@@ -46,7 +46,7 @@
 
 22. a gondnokoltak nyilvántartását és az előzetes jognyilatkozatok nyilvántartását vezető szerv a nyilvántartás vezetéséhez;
 
-23. az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
+23. az ügyfél ügyintézési rendelkezési nyilvántartását vezető szerv a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvénnyel szabályozott, a rendelkezési nyilvántartással kapcsolatos feladatai ellátásával összefüggésben;
 
 24. a Központi Statisztikai Hivatal statisztikai célra;
 
@@ -59,5 +59,13 @@
 28. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
 
 29. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.
+
+30. a digitális állampolgárság nyilvántartást vezető szerv feladatai ellátásához,
+
+31. a digitális állampolgárság szolgáltató a szolgáltatása nyújtásához.
+
+32. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
+
+33. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
 
 34. a járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztrációhoz.

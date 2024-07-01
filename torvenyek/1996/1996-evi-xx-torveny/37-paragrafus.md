@@ -14,7 +14,7 @@ e) a családtámogatások és a fogyatékossági támogatás ügyében eljáró 
 
 f) a társadalombiztosítási szervnek a megváltozott munkaképességű személyek nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról, a külföldön történő letelepedésről;
 
-g) a központi ügyfél-regisztrációs szerv részére az adatbázisban szereplő adatok változásainak folyamatos követése érdekében az ügyfél-regisztrációs adatbázisban szereplő személy családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének változásáról, valamint az érintett elhalálozásáról;
+g)
 
 g)
 
@@ -46,6 +46,8 @@ n) az Nytv. 24/L. §-a szerinti, a Magyarország Helyreállítási és Ellenáll
 
 o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 3. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, továbbá állampolgárságának változásáról.
 
+p) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának változásáról, az érintett nyilvántartásból való kikerülése okáról és idejéről.
+
 (1a) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – adatszolgáltatási engedély alapján rendszeres adatátadást teljesít a hallgatói hitelrendszert működtető szervezet részére a hallgatói hitelt felvett polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
 
 (1b) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – rendszeres adatátadást teljesít az élelmiszerlánc-felügyeleti szerv részére az élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, lakóhelyének, tartózkodási helyének változásáról, a külföldön történő letelepedésről, valamint az érintett elhalálozásáról.
@@ -70,6 +72,8 @@ o) a közigazgatási szankciót kiszabó hatóságoknak a közigazgatási szabá
 
 (1l) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv részére rendszeres adatátadást teljesít az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartásban nyilvántartott polgár családi és utónevéről, születési nevéről, anyja nevéről, születési helyéről és idejéről, valamint az érintett elhalálozásáról.
 
+(1m) A személyiadat- és lakcímnyilvántartás szerve – kapcsolati kód alkalmazásával – a digitális állampolgárság nyilvántartást vezető szerv részére rendszeres adatátadást teljesít a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 14/B. §-a szerinti nyilvántartásban nyilvántartott polgár családi és utónevéről, születési nevéről, anyja nevéről, születési helyéről és idejéről, valamint az érintett elhalálozásáról.
+
 (2) A személyiadat- és lakcímnyilvántartás szerve – személyi azonosító alkalmazásával – rendszeres adatszolgáltatást teljesít:
 
 a) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szervének a hadköteles korba lépő polgárok, a magyar állampolgárságot megszerző, magyarországi lakóhellyel rendelkező polgárok, valamint a külföldről hazatérő magyar állampolgárok első alkalommal történő nyilvántartásba vételéhez a polgár természetes személyazonosító adatairól, lakóhelyéről, tartózkodási helyéről, családi állapotáról, személyi azonosítójáról, valamint a hadköteles nyilvántartásban lévő polgár családi és utónevének, anyja nevének, születési helyének és időpontjának, személyi azonosítójának, családi állapotának, lakóhelyének, tartózkodási helyének változásáról, az érintett elhalálozásáról vagy külföldön történő letelepedésről;
@@ -88,6 +92,8 @@ g) a választójoggal nem rendelkező polgárok nyilvántartását vezető szerv
 
 h) az ingatlan-nyilvántartás, illetve a földhasználati nyilvántartás szerveinek az ingatlan-nyilvántartásban és a földhasználati nyilvántartásban szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, családi állapotának változásáról, az érintett elhalálozása tényéről, helyéről és idejéről.
 
+i) a digitális állampolgárság nyilvántartást vezető szervnek a kezelt adatok naprakészségének biztosítása és az elektronikus azonosításhoz szükséges adatellenőrzés érdekében a nyilvántartásában szereplő polgár családi és utónevének, születési nevének, anyja nevének, születési helyének és időpontjának, állampolgárságának, nemének, személyi azonosítójának változásáról, az érintett nyilvántartásból való kikerülése okáról és idejéről.
+
 (3) Az adatszolgáltatást az (1), (1a) és (2) bekezdés alapján igénybe vevő szervek –
 
 a) az (1) bekezdés a) pontja szerinti állami adóhatóság,
@@ -96,7 +102,7 @@ b) az (1) bekezdés b) pontja szerinti egészségbiztosítási nyilvántartást 
 
 c) az (1) bekezdés d) pontja szerinti TAJ-nyilvántartást vezető kincstár,
 
-d) az (1) bekezdés g) pontja szerinti központi ügyfél-regisztrációs szerv,
+d)
 
 e) az (1) bekezdés j) pontja szerinti, az oktatási nyilvántartás működéséért felelős szerv,
 
@@ -119,5 +125,7 @@ m) az (1) bekezdés i) pontja szerinti bírósági peres és nemperes eljáráso
 n) a (2) bekezdés f) pontja szerinti gondnokoltak és az előzetes jognyilatkozatok nyilvántartását vezető szerv
 
 o) a (2) bekezdés h) pontja szerinti ingatlan-nyilvántartás és földhasználati nyilvántartás szervei
+
+p) az (1) bekezdés p) pontja és a (2) bekezdés i) pontja szerinti digitális állampolgárság nyilvántartást vezető szerv
 
 kivételével – az adatátadást kizárólag akkor kezdeményezhetik, ha jogszabályban előírt feladataik ellátása érdekében az általuk kezelt adatok időszerűségét biztosítani kell, és csak azokra az érintettekre vonatkozóan, akiknek az adataira nézve az időszerűséget biztosítani kell.

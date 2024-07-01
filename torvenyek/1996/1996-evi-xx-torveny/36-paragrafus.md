@@ -57,3 +57,11 @@
 27. az arcképelemzési nyilvántartás vezetéséért, valamint az arcképelemző rendszer működtetéséért felelős központi szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 6. § (1) bekezdése szerinti nyilvántartással kapcsolatos feladata ellátásához.
 
 28. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtető a kártyafelhasználói regisztrációhoz kapcsolódóan, valamint a kártyakibocsátáshoz a személyiadat- és lakcímnyilvántartásból történő adatkérés céljából.
+
+29. a digitális állampolgárság nyilvántartást vezető szerv feladatai ellátásához,
+
+30. a digitális állampolgárság szolgáltató a szolgáltatása nyújtásához.
+
+31. a jegyző és a közjegyző az örökhagyó, a hagyatéki eljárásban érdekelt és a kieséses örökös tekintetében a hagyatéki eljárással és az ingatlan-nyilvántartással kapcsolatos feladatai, valamint az országos kamara az egységes ügykezelő alkalmazással kapcsolatos feladatai ellátásához;
+
+32. az ügyvéd és a kamarai jogtanácsos az ingatlan-nyilvántartással kapcsolatos feladatai ellátásához.
