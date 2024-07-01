@@ -1,6 +1,6 @@
 ## A megjelölés és az árujegyzék
 
-3. §[^2] (1) A megjelölést olyan módon kell megjeleníteni, hogy az lehetővé tegye a védjegynek a Vt. 47. §-a szerinti lajstromban való egyértelmű, pontos, önmagában teljes, könnyen hozzáférhető, érthető, tartós és objektív módon történő megjelenítését.
+3. §[^4] (1) A megjelölést olyan módon kell megjeleníteni, hogy az lehetővé tegye a védjegynek a Vt. 47. §-a szerinti lajstromban való egyértelmű, pontos, önmagában teljes, könnyen hozzáférhető, érthető, tartós és objektív módon történő megjelenítését.
 
 (2) A megjelölés típusát az alábbiak szerint kell a védjegybejelentési kérelemben feltüntetni:
 
@@ -26,7 +26,7 @@ j) a hologram jellegű elemekből álló megjelölést hologram-megjelöléskén
 
 k) az a)–j) pont szerinti felsorolásba nem tartozó megjelölést, illetve az a)–j) pont szerinti megjelölések kombinációját egyéb típusú megjelölésként
 
-## kell besorolni.
+kell besorolni.
 
 (3) A (2) bekezdés szerinti típusokba sorolt megjelöléseket a következő módon kell megjeleníteni, illetve ábrázolni:
 
@@ -80,4 +80,4 @@ k) az egyéb típusú megjelölés megjelenítésének meg kell felelnie az (1) 
 
 (9) Mintadarab benyújtása nem minősül a megjelölés megfelelő ábrázolásának.
 
-[^2]: A 3. § a 30/2018. (XII. 12.) IM rendelet 11. §-ával megállapított szöveg.
+[^4]: A 3. § a 30/2018. (XII. 12.) IM rendelet 11. §-ával megállapított szöveg.

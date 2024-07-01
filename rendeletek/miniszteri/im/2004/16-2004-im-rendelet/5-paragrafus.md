@@ -2,7 +2,7 @@
 
 ## és termékjegyzéke
 
-5. §[^5] (1) A földrajzi árujelző bejelentési kérelmet egy példányban kell benyújtani, és annak a Vt. 113. § (1) bekezdésében előírtakon túl tartalmaznia kell
+5. §[^7] (1) A földrajzi árujelző bejelentési kérelmet egy példányban kell benyújtani, és annak a Vt. 113. § (1) bekezdésében előírtakon túl tartalmaznia kell
 
 a) a földrajzi árujelző lajstromozása iránti kérést;
 
@@ -14,4 +14,4 @@ d) a bejelentési kérelem mellékleteinek felsorolását.
 
 (2) A földrajzi árujelző bejelentési kérelme a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul elérhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
-[^5]: Az 5. § a 30/2018. (XII. 12.) IM rendelet 14. §-ával megállapított szöveg.
+[^7]: Az 5. § a 30/2018. (XII. 12.) IM rendelet 14. §-ával megállapított szöveg.
