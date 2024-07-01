@@ -8,7 +8,7 @@
 
 | 4. | Szent Imre Egyetemi Oktatókórház: a) konyhafelújítás, b) az energetikai D épület felújítása, c) az A épület légtechnika-kialakítása és liftek cseréje, d) a B épület felújítása, komfortosítása, e) a K-C-R épületek fűtéskorszerűsítése, f) új T épületszárny (ambuláns trauma) megépítése. | Budapest belterület 3519/9 belterület 3519/10 |
 
-| 5. | Országos Reumatológiai és Fizioterápiás Intézet (ORFI): a) a Lukács épület műemlékvédelmi homlokzat- és tetőszerkezet-rekonstrukciója, osztályok komfortosítása, b) Esplanade épület VI. emelet felújítása, a III., IV. és V. emelet komfortosítása, c) a Központi Szakambulancia és Rendelőintézet A és B épületek homlokzati felújítása és nyílászárócsere, d) új egészségturisztikai tömb építése. | Budapest belterület 14481 belterület 14493 belterület 14519/2 |
+| 5. | Országos Mozgásszervi Intézet: a) a Lukács épület műemlékvédelmi homlokzat- és tetőszerkezet-rekonstrukciója, osztályok komfortosítása, b) Esplanade épület VI. emelet felújítása, a III., IV. és V. emelet komfortosítása, c) a Központi Szakambulancia és Rendelőintézet A és B épületek homlokzati felújítása és nyílászárócsere, d) új egészségturisztikai tömb építése. | Budapest belterület 14481 belterület 14493 belterület 14519/2 |
 
 | 6. | Országos Korányi Pulmonológiai Intézet (OKPI): a) új aktív tömb (műtőblokkal, új intenzív egységgel, intenzív terápiás részleggel) felépítése, b) új bronchológiai laboratórium, non invazív lélegeztetési egység, kemoterápiás kezelő, légzésfunkciós laboratórium kialakítása, c) új patológiai laboratórium, betegfelvételi tüdőosztály, tüdőosztályok és mellkassebészeti osztály kialakítása, d) e) a műemléki védettséget élvező A-B hall rész felújítása, f) az intézmény közműhálózatának felújítása. | Budapest belterület 10886/33 |
 
@@ -26,7 +26,7 @@
 
 | 13. | Észak-Pesti Centrum Kórház – Honvédkórház: a) az Észak-pesti Centrumkórház egy telephelyen való kialakítása, b) a Róbert Károly körúton három új épületszárny építése, melyek biztosítják a volt MÁV Kórház telephelyén lévő aktív ellátóosztályok integrációját, c) új parkolóház és helikopterleszálló építése. | Budapest belterület 27630 belterület 28229 belterület 28233 belterület 28224/32 belterület 10886/44 |
 
-| 14. | Országos Klinikai Idegtudományi Intézet (OKITI): a) új tömb építése, hybrid műtő létrehozása, b) a régi épületekben műszaki felújítás, c) gőzellátó – elektromos rendszer felújítása, komfortosítás. | Budapest belterület 31571/2 |
+| 14. | Semmelweis Egyetem Klinikai Központ: a) új tömb építése, hybrid műtő létrehozása, b) a régi épületekben műszaki felújítás, c) gőzellátó – elektromos rendszer felújítása, komfortosítás. | Budapest belterület 31571/2 |
 
 | 15. | Szent Margit Kórház: a) b) új D épületszárny kialakítása az új műveseállomás és krónikus osztály elhelyezése céljából. | Budapest belterület 62447 belterület 16247/2 |
 
@@ -36,7 +36,7 @@
 
 | 18. | Toldy Ferenc Kórház (Cegléd): a) új belgyógyászati szárny építése, b) telephelyek összevonásával új, többszintes járóbeteg-szakrendelő létesítése, c) a városi szakrendelő, valamint a tüdőgondozó beköltöztetése az új épületbe, a fő telephelyre, d) sürgősségi osztály bővítése, e) f) energetikai beruházás. | Cegléd belterület 161 belterület 4068/2 belterület 160 belterület 488 |
 
-| 19. | Törökbálinti Tüdőgyógyintézet: a) a rendelőintézet beruházásának befejezése, b) meglévő épületek komfortosítása, c) kert és belső úthálózat, kültéri parkoló megújítása. | Törökbálint belterület 22 |
+| 19. |  |  |
 
 | 20. | Nagykőrösi Rehabilitációs Szakkórház és Rendelőintézet: a) meglévő épületek műszaki fejlesztése, b) gyógyfürdő- és egészségturisztikai beruházás. | Nagykőrös belterület 3394/4 belterület 3394/2 belterület 3394/3 |
 
