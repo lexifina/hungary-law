@@ -118,25 +118,25 @@ Szakvélemény adására feljogosított szervek
 
 |  | 1. Kulturális javakkal összefüggő szakkérdések |  |
 
-|  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum |
+|  | a) régészeti leletek, történeti emlékek és fotótörténeti emlékek vizsgálata, numizmatika | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
 
-|  | b) természettudományi emlékek vizsgálata | Magyar Természettudományi Múzeum |
+|  | b) természettudományi emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
 
 |  | c) műszaki és technikatörténeti tárgyak vizsgálata | Magyar Műszaki és Közlekedési Múzeum |
 
-|  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Iparművészeti Múzeum |
+|  | d) képző- és iparművészeti emlékek vizsgálata | Magyar Nemzeti Galéria Szépművészeti Múzeum Magyar Nemzeti Múzeum Közgyűjteményi Központ |
 
 |  | e) néprajzi emlékek vizsgálata | Néprajzi Múzeum |
 
-|  | f) irodalom- és színháztörténeti emlékek vizsgálata | Petőfi Irodalmi Múzeum Országos Színháztörténeti Múzeum és Intézet |
+|  | f) irodalom- és színháztörténeti emlékek vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ Országos Színháztörténeti Múzeum és Intézet |
 
-|  | g) zene- és hangszertörténeti emlékek vizsgálata | Bölcsészettudományi Kutatóközpont Zenetudományi Intézete Zenetörténeti Múzeuma Iparművészeti Múzeum |
+|  | g) zene- és hangszertörténeti emlékek vizsgálata | Bölcsészettudományi Kutatóközpont Zenetudományi Intézete Zenetörténeti Múzeuma Magyar Nemzeti Múzeum Közgyűjteményi Központ |
 
-|  | h) könyvtári dokumentumok vizsgálata | Országos Széchényi Könyvtár |
+|  | h) könyvtári dokumentumok vizsgálata | Magyar Nemzeti Múzeum Közgyűjteményi Központ |
 
 |  | i) levéltári dokumentumok vizsgálata | Magyar Nemzeti Levéltár |
 
-|  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Magyar Természettudományi Múzeum Magyar Műszaki és Közlekedési Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Országos Széchényi Könyvtár Magyar Nemzeti Levéltár |
+|  | 2. Az 1. pontban megjelölt kulturális javak állagvédelme, restaurálása, preparálása | Magyar Nemzeti Múzeum Közgyűjteményi Központ Magyar Műszaki és Közlekedési Múzeum Magyar Nemzeti Galéria Szépművészeti Múzeum Képzőművészeti Egyetem Restaurátorképző Intézet Magyar Nemzeti Levéltár |
 
 |  | 3. Mozgóképekkel összefüggő szakkérdések |  |
 
@@ -152,10 +152,10 @@ Szakvélemény adására feljogosított szervek
 
 | 9. | A felszíni és a felszín alatti vizek mennyiségi és minőségi állapotával összefüggő, illetve vízügyi igazgatási szakkérdés | Országos Vízügyi Főigazgatóság |
 
-| 10. | Pszichiátriai és igazságügyi elmeszakértői vizsgálatok | NSZKK, Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| 10. | Pszichiátriai és igazságügyi elmeszakértői vizsgálatok | NSZKK, Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet |
 
 | 11. | Adó- és könyvszakértői (adószakértői, járulékszakértői, könyvszakértői, pénz- és tőkepiaci szakértői) vizsgálatok | NSZKK |
 
 | 12. | Építésügyi szakértői vizsgálatok | NSZKK |
 
-[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a, az 591/2023. (XII. 20.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^9]: A 4. számú melléklet a 379/2016. (XII. 2.) Korm. rendelet 105. § (1) bekezdés b) pontjával megállapított, ugyanezen módosító rendelet 105. § (2) bekezdés b) pontja, a 250/2017. (IX. 5.) Korm. rendelet 15. §-a, a 162/2018. (IX. 10.) Korm. rendelet 7. § b) pontja, a 350/2019. (XII. 23.) Korm. rendelet 1. §-a, a 345/2019. (XII. 23.) Korm. rendelet 1. §-a, a 737/2021. (XII. 21.) Korm. rendelet 4. § a) és b) pontja, a 334/2023. (VII. 20.) Korm. rendelet 14. § e) pontja, a 350/2023. (VII. 27.) Korm. rendelet 3. §-a, az 591/2023. (XII. 20.) Korm. rendelet 5. §-a, a 106/2024. (V. 9.) Korm. rendelet 2. § a)–e) pontja és 3. §-a, a 165/2024. (VI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
