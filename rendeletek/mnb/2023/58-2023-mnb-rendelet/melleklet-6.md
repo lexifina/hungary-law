@@ -150,7 +150,7 @@
 
 ## 50W2 sor: a befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni. Megegyezik az 50A3 sorban szereplő kóddal.
 
-## 2. 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
+## 2.[^13] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
 
 ## A tábla kitöltése
 
@@ -160,9 +160,13 @@
 
 ## A táblában a már nyilvántartásba vett, de eszközökkel még nem rendelkező alapok sorozatait is jelenteni kell.
 
-## A befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika” kódtár alapján kell elvégezni, az alábbiak figyelembevételével.
+## Minden egyes sorozat kizárólag egy besorolás alatt szerepelhet.
 
-## Az egyes befektetési alapok kategóriába sorolásának kiegészítő szabályai:
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapnak kell tekinteni a külföldön kibocsátott befektetési alapot, valamint a 78/2014. (III. 14.) Korm. rendelet 1/A. §-ában, illetve 1/L. §-ában nevesített, az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
+
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika” kódtár alapján, a 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika kódtára a 78/2014. (III. 14.) Korm. rendelet szerint” kell elvégezni.
+
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapok kategóriába sorolásának kiegészítő szabályai:
 
 ## a) kötvény- és pénzpiaci alap nem tartalmazhat részvénytípusú eszközöket; a határidős eladással fedezett részvények ebből a szempontból kötvényjellegű eszköznek minősíthetők, az eszköz futamideje ilyenkor megegyezik a határidős ügylet hátralévő lejárati idejével;
 
@@ -192,6 +196,8 @@
 
 ## 8. oszlop: a) az I-III. negyedév tekintetében az adott negyedévben a kezelt alapra terhelt költségek. A kezelési szabályzat vonatkozó részében rögzítettek szerint kiszámolt és a befektetési alapra terhelt költségeket kell jelenteni. A sikerdíj kivételével minden olyan költséget figyelembe kell venni, ami számvitelileg az alapot terheli (tehát az elszámolt és az elhatárolt költségeket is jelenteni kell, és az is közömbös, hogy az elnevezésben díj, vagy költség szerepel). Nem kell figyelembe venni a befektetéshez közvetlenül kapcsolódó költségeket (pl. értékpapír tranzakciós költségek, fizetett opciós díjak). Az alapra terhelt költségeket is sorozatonként kell jelenteni. Azokat a költségeket, amelyek a befektetési alap szintjén jelentkeznek és nem rendelhetők hozzá egyértelműen egy sorozathoz, becslés alkalmazásával (pl. a piaci értékek arányában) kell szétosztani a sorozatok között. b) A IV. negyedév tekintetében az adott negyedévben az a) alpont szerint a kezelt alapra terhelt költségek, kiegészítve a sikerdíjaknak az alapra költségként elszámolt, adott évre vonatkozó összegével.
 
+## A meghatározás alapján a 7. és 8. oszlopban is felsorolt költségeket mindkét oszlopban szerepeltetni szükséges.
+
 ## 9. oszlop: kódtár („Működési forma”) szerint.
 
 ## A tábla sorai:
@@ -200,7 +206,7 @@
 
 ## 50C511 sor: Halmozódástól tisztított összesen II. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) - (az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő saját befektetési alapok befektetési jegyei)
 
-## 50C5111 sor: Halmozódástól tisztított összesen III. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) - (az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő hazai befektetési alapok befektetési jegyei)
+## 50C5111 sor: Halmozódástól tisztított összesen III. = (alapok + pénztárak + biztosítói portfóliók + egyéb portfóliók) – (az alapokban és a pénztári, biztosítói, egyéb portfóliókban lévő hazai befektetési alapok befektetési jegyei)
 
 ## 3. 50GA Fogyasztói panaszügyekre vonatkozó adatok I. és 50GB Fogyasztói panaszügyekre vonatkozó adatok II.
 
@@ -388,27 +394,23 @@
 
 ## 10. oszlop Óvadékba, fedezetbe, kölcsönbe adott értékpapírok értéke: a származtatott ügyletek fedezetéül, egyéb óvadékba, fedezetként, kölcsönbe elhelyezett értékpapírok piaci értéke.
 
-## 5. 50I1 Az alternatív befektetési alapok nettó eszközértéke és száma a negyedév végén
+## 5.[^14] 50I3 A befektetési alapok nettó eszközértéke és száma a harmonizáció típusa, illetve azon belül különféle szempontok szerinti bontásban, a negyedév végén
 
 ## A tábla kitöltése
 
-## A Kbftv. 67. § (1) bekezdésében szereplő bontásban kell megadni az alternatív befektetési alapok nettó eszközértékét és számát. A külföldön kibocsátott, de az adatszolgáltató által kezelt alapokról is jelenteni kell a táblában.
+## A Kbftv. 67. § (1) bekezdésében szereplő bontásban kell megadni a befektetési alapok nettó eszközértékét és az alapok (nem pedig a sorozatok) számát. A külföldön kibocsátott, de az adatszolgáltató által kezelt alapokról is jelenteni kell a táblában.
 
 ## A tábla sorai:
 
-## 50I11 A befektetési alap működési formája: a Kbftv. 67. § (2) bekezdése szerint nyilvános befektetési alapként működik az a befektetési alap, amelynek legalább egy befektetési jegy sorozatát nyilvános forgalomba hozatal útján hozták forgalomba.
+## 50I31 A befektetési alap működési formája: a Kbftv. 67. § (2) bekezdése szerint, nyilvános befektetési alapként működik az a befektetési alap, amelynek legalább egy befektetési jegy sorozatát nyilvános forgalomba hozatal útján hozták forgalomba.
 
-## 50I15 A befektetési alap forgalmazási köre: ha az alap jegyeit lakossági befektetők is vásárolhatják, akkor alapesetben a lakossági befektetőknek forgalmazott alapok közé kell besorolni. Ha azonban biztosan lehet tudni, hogy csak szakmai befektetők vásárolják egy adott alap befektetési jegyeit, akkor az alapot az 50I1, illetve 50I2 kódú táblában a „szakmai befektetőknek forgalmazott” alapok között kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
+## 50I32 Az elsődleges eszközkategória: a besorolást a 78/2014. (III. 14.) Korm. rendelet 1/B. § (1) bekezdésében szereplő kategóriák szerint kell elvégezni. Ebben a táblában az értékpapíralapok közé kell besorolni a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 1–9. pontjában meghatározott befektetési alapokon kívül a 78/2014. (III. 14.) Korm. rendelet 1/B. § (2) bekezdés 12. pontjában meghatározott származtatott alapot, valamint az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot is.
 
-## 6. 50I2 Az ÁÉKBV-k nettó eszközértéke és száma a negyedév végén
+## 50I35 A befektetési alap forgalmazási köre: ha az alap jegyeit lakossági befektetők is vásárolhatják, akkor főszabály szerint
 
-## A tábla kitöltése
+## a lakossági befektetőknek forgalmazott alapok közé kell besorolni. Ha azonban az adatszolgáltató rendelkezésére álló információk szerint csak szakmai befektetők vásárolják egy adott alap befektetési jegyeit, akkor az alapot a „szakmai befektetőknek forgalmazott” alapok között kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
 
-## A Kbftv. 67. § (1) bekezdésében szereplő bontásban kell megadni az ÁÉKBV-k nettó eszközértékét és számát. A külföldön kibocsátott, de az adatszolgáltató által kezelt alapokról is jelenteni kell a táblában.
-
-## A tábla sorai:
-
-## 50I22 Az ÁÉKBV forgalmazási köre: az 50I1 kódú tábla 50I15 soránál leírtak szerint kell kitölteni.
+## 6. [^15]
 
 ## 7. 50J Az ügyfél pénzügyi eszközének és pénzeszközének kezelésére jogosult alapkezelők - Pénzfedezettségi jelentés (a deviza egységében)
 
@@ -700,7 +702,7 @@
 
 ## Az 50U11 kezdetű sorok az intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat tartalmazzák. Az ügyfél általi adatmódosítás fogalmába beletartoznak a tranzakciós adatmódosítások (például befektetés, az ügyfél általi vételi/eladási megbízás) is.
 
-## 16.[^13] 50_SFDR – Intézményszintű SFDR adatok
+## 16.[^16] 50_SFDR – Intézményszintű SFDR adatok
 
 ## A tábla kitöltése
 
@@ -764,7 +766,7 @@
 
 ## Az adatszolgáltató által alkalmazott, materiálisnak ítélt, szabadon választható mutatók megnevezését, értékét és mértékegységét kell megadni. A mutatószámokat az SFDR RTS I. mellékletének 1., 2. és 3. számú táblázatából kell kiválasztani.
 
-## 17.[^14] 50_TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
+## 17.[^17] 50_TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 ## A tábla kitöltése
 
@@ -856,7 +858,7 @@
 
 ## 51Q4 Befektetési politika, illetve a változtatás engedélyének határozatszáma: nyilvános befektetési alap esetén a befektetési politika felügyeleti engedélyének határozatszáma.
 
-## 21.[^15] 51R Befektetési alap jellemzői
+## 21.[^18] 51R Befektetési alap jellemzői
 
 ## A tábla sorai
 
@@ -1084,6 +1086,9 @@
 
 6. melléklet az 58/2023. (XI. 24.) MNB rendelethez
 
-[^13]: Az 5. melléklet II. pont 16. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^14]: Az 5. melléklet II. pont 17. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5. melléklet II. pont 21. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: Az 5. melléklet II. pont 2. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: Az 5. melléklet II. pont 5. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. melléklet II. pont 6. alpontját a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^16]: Az 5. melléklet II. pont 16. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. melléklet II. pont 17. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. melléklet II. pont 21. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
