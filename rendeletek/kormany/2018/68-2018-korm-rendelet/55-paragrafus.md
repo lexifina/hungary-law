@@ -24,6 +24,8 @@ b) régészeti lelet esetén a lelet becsült értékének legfeljebb tíz száz
 
 (7) Kiemelkedő jelentőségű vagy értékű lelet bejelentése esetén a miniszter az Ásatási Bizottság javaslatára egyedi döntéssel eltérhet a pénzjutalomnak a (6) bekezdés b) pontjában meghatározott legmagasabb összegétől.
 
-(8) A pénzjutalom összegének megállapításánál figyelembe kell venni több darabból álló, összetartozó leletegyüttes, éremkincs, nemesfémből készült tárgy vagy ötvösmunka esetén a Magyar Nemzeti Múzeum szakértői véleményét.
+(8)[^107] A pénzjutalom összegének megállapításánál figyelembe kell venni több darabból álló, összetartozó leletegyüttes, éremkincs, nemesfémből készült tárgy vagy ötvösmunka esetén a Magyar Nemzeti Múzeum Közgyűjteményi Központ szakértői véleményét.
 
 (9) A megtaláló elismerésének adományozására évente legalább egy alkalommal kerül sor.
+
+[^107]: Az 55. § (8) bekezdése a 106/2024. (V. 9.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

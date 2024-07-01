@@ -8,7 +8,7 @@
 
 (2) A hatóság szakhatóságként vagy szakkérdés vizsgálata során a nyilvántartott régészeti lelőhelyet, a régészeti védőövezetet, a nyilvántartott műemléki értéket, a műemléket, a műemléki környezetet, a műemléki jelentőségű területet, a történeti tájat és világörökségi helyszínt vagy világörökségi területet érintő ügyben az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére kiadott előzetes szakhatósági állásfoglalása a kibocsátásától számított hat hónapig használható fel.
 
-(3)[^244] A világörökségi helyszínt vagy világörökségi területet érintő szakhatósági eljárásban vagy az örökségvédelmi szakkérdés vizsgálata során a hatóság – legalább tíznapos határidő kitűzésével – kikérheti a miniszter véleményét, állásfoglalását ennek figyelembevételével adja meg.
+(3)[^253] A világörökségi helyszínt vagy világörökségi területet érintő szakhatósági eljárásban vagy az örökségvédelmi szakkérdés vizsgálata során a hatóság – legalább tíznapos határidő kitűzésével – kikérheti a miniszter véleményét, állásfoglalását ennek figyelembevételével adja meg.
 
 (4) A szakhatósági hatáskörében eljáró vagy az örökségvédelmi szakkérdést vizsgáló hatóság döntéselőkészítő örökségvédelmi hatástanulmány elkészítését írhatja elő a beruházás előkészítését meghatározó feltételek tisztázása érdekében
 
@@ -20,4 +20,4 @@ c) újrahasznosításra, más célú hasznosításra vagy telekalakításra irá
 
 esetén, ha előzetes régészeti dokumentáció nem áll rendelkezésre.
 
-[^244]: A 87. § (3) bekezdése a 38/2019. (III. 6.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^253]: A 87. § (3) bekezdése a 38/2019. (III. 6.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.

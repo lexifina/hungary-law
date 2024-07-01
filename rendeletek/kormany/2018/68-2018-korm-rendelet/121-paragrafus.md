@@ -1,3 +1,3 @@
-121. §[^288]
+121. §[^297]
 
-[^288]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^297]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

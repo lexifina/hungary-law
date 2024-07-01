@@ -1,10 +1,10 @@
 ## 30. Az összevont örökségvédelmi engedélyezési eljárás
 
-73. § (1)[^187] A hatóságtól összevont örökségvédelmi engedélyezési eljárás lefolytatása kérhető
+73. § (1)[^196] A hatóságtól összevont örökségvédelmi engedélyezési eljárás lefolytatása kérhető
 
 a) az örökségvédelmi engedélyezési eljárás hatálya alá tartozó tevékenységekre vonatkozó követelmények,
 
-b)[^188] a műemlék megjelenésével, védett értékei érvényesülésével kapcsolatos speciális követelmények, szakértői dokumentációban nem nevesített vagy értékleltárban nem szereplő épületrészek tervezett átalakíthatósága, bonthatósága, műemlék telkén új épület telepíthetősége
+b)[^197] a műemlék megjelenésével, védett értékei érvényesülésével kapcsolatos speciális követelmények, szakértői dokumentációban nem nevesített vagy értékleltárban nem szereplő épületrészek tervezett átalakíthatósága, bonthatósága, műemlék telkén új épület telepíthetősége
 
 előzetes tisztázása érdekében.
 
@@ -12,17 +12,17 @@ előzetes tisztázása érdekében.
 
 (3) Az összevont eljárás megindítására irányuló kérelem az összevont eljárás mindkét szakaszára vonatkozik. Az eljárás megindításakor az e rendeletben meghatározott mellékletet az elvi örökségvédelmi keretengedélyezési szakasz megindításához szükséges kérelem tartalmától függően és elbírálásra alkalmas részletezettséggel kell benyújtani.
 
-(4)[^189] Az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához igazolni kell, hogy a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
+(4)[^198] Az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához igazolni kell, hogy a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményt adott.
 
-(4a)[^190] Ha a tervezett tevékenység állami magasépítési beruházás megvalósítására irányul, az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához igazolni kell, hogy az Országos Építészeti Tervtanács szakmai véleményében engedélyezésre ajánlotta.
+(4a)[^199] Ha a tervezett tevékenység állami magasépítési beruházás megvalósítására irányul, az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszának megindításához igazolni kell, hogy az Országos Építészeti Tervtanács szakmai véleményében engedélyezésre ajánlotta.
 
-(5)[^191] A hatóság – a (4) bekezdésben foglaltak kivételével – az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszában – tizenöt napos határidő kitűzésével – kikérheti az Országos Építészeti Tervtanács szakvéleményét.
+(5)[^200] A hatóság – a (4) bekezdésben foglaltak kivételével – az összevont eljárás elvi örökségvédelmi keretengedélyezési szakaszában – tizenöt napos határidő kitűzésével – kikérheti az Országos Építészeti Tervtanács szakvéleményét.
 
-(6)[^192] Az Országos Építészeti Tervtanácsot a szakvéleménye mindaddig köti, amíg a kérelemben meghatározott tevékenység érdemben nem változik meg.
+(6)[^201] Az Országos Építészeti Tervtanácsot a szakvéleménye mindaddig köti, amíg a kérelemben meghatározott tevékenység érdemben nem változik meg.
 
 (7) A hatóság döntéséhez döntéselőkészítő örökségvédelmi hatástanulmány készítését írhatja elő.
 
-(8)[^193] A hatóság az elvi örökségvédelmi keretengedélyezési szakaszban
+(8)[^202] A hatóság az elvi örökségvédelmi keretengedélyezési szakaszban
 
 a) határozatot hoz a kérelem elutasításáról, vagy
 
@@ -34,10 +34,10 @@ b) végzés formájában elvi örökségvédelmi keretengedélyt ad, amely csak 
 
 (11) Az elvi örökségvédelmi keretengedély a tervezett tevékenység végzésére nem jogosít.
 
-[^187]: A 73. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
-[^188]: A 73. § (1) bekezdés b) pontja a 351/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
-[^189]: A 73. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg.
-[^190]: A 73. § (4a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^191]: A 73. § (5) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 10. pontja szerint módosított szöveg.
-[^192]: A 73. § (6) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 59. pontja szerint módosított szöveg.
-[^193]: A 73. § (8) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 84. § 16. pontja szerint módosított szöveg.
+[^196]: A 73. § (1) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 75. § (1) bekezdésével megállapított szöveg.
+[^197]: A 73. § (1) bekezdés b) pontja a 351/2023. (VII. 27.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^198]: A 73. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 75. § (2) bekezdésével megállapított szöveg.
+[^199]: A 73. § (4a) bekezdését a 315/2022. (VIII. 16.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^200]: A 73. § (5) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 10. pontja szerint módosított szöveg.
+[^201]: A 73. § (6) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 83. § 59. pontja szerint módosított szöveg.
+[^202]: A 73. § (8) bekezdés nyitó szövegrésze a 677/2020. (XII. 28.) Korm. rendelet 84. § 16. pontja szerint módosított szöveg.

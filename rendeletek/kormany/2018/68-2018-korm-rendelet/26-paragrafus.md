@@ -26,15 +26,15 @@ g) az alkalmazott módszereket, továbbá
 
 h) az előkerült leletek összefoglaló ismertetését.
 
-(4)[^83] A jelentés egy-egy példányát a feltárás befejezését követő harminc napon belül elektronikus úton meg kell küldeni
+(4)[^85] A jelentés egy-egy példányát a feltárás befejezését követő harminc napon belül elektronikus úton meg kell küldeni
 
 a) a nyilvántartást vezető hatóságnak
 
 b) a hatóságnak,
 
-c) a Magyar Nemzeti Múzeumnak,
+c)[^86] a Magyar Nemzeti Múzeum Közgyűjteményi Központnak,
 
-d)[^84] a területileg érintett vármegyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
+d)[^87] a területileg érintett vármegyei hatókörű városi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
 
 e) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más feltárásra jogosult intézmény végezte,
 
@@ -42,8 +42,9 @@ f) a gyűjtőterületén érintett területi múzeumnak, ha a feltárást más f
 
 g) a területi és természetvédelmi hatóságnak és a működési területével érintett nemzeti park igazgatóságnak, ha a feltárás országos jelentőségű védett természeti területen történt.
 
-(5)[^85]
+(5)[^88]
 
-[^83]: A 26. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^84]: A 26. § (4) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
-[^85]: A 26. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 5. pontja hatályon kívül helyezte.
+[^85]: A 26. § (4) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 66. §-ával megállapított szöveg.
+[^86]: A 26. § (4) bekezdés c) pontja a 106/2024. (V. 9.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^87]: A 26. § (4) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § a) pontja szerint módosított szöveg.
+[^88]: A 26. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 84. § 5. pontja hatályon kívül helyezte.

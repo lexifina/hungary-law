@@ -6,7 +6,7 @@ Régészeti lelőhely-bejelentő adatlap adattartalma
 
 1. A lelőhely azonosító adatai
 
-1.1.[^290] Vármegye, város, település neve, kerület, utca, házszám
+1.1.[^299] Vármegye, város, település neve, kerület, utca, házszám
 
 *1.2. A lelőhely nyilvántartási azonosító száma
 
@@ -56,4 +56,4 @@ A térképlap száma és a térképről leolvasott koordináták: X (É–D): ..
 
 15. Mellékletek
 
-[^290]: A 2. melléklet 1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § d) pontja szerint módosított szöveg.
+[^299]: A 2. melléklet 1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 286. § d) pontja szerint módosított szöveg.

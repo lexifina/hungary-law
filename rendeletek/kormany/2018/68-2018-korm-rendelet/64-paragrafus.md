@@ -1,4 +1,4 @@
-## 25.[^138] Örökségvédelmi bejelentéshez kötött tevékenységek
+## 25.[^147] Örökségvédelmi bejelentéshez kötött tevékenységek
 
 64. § (1) Ha a tevékenység a 63. § alapján nem örökségvédelmi engedély köteles, a (2) és (3) bekezdésben foglalt esetekben örökségvédelmi bejelentés alapján végezhető.
 
@@ -12,7 +12,7 @@ ab) az ilyen szerkezet eltakarásának kialakítása, a meghatározott időtarta
 
 b) műemlék egésze, önálló rendeltetési egysége, vagy a helyiségcsoportja rendeltetés-módosítása,
 
-c)[^139] műemléki környezetben
+c)[^148] műemléki környezetben
 
 ca) a műemlék megjelenését befolyásoló módon új építmény építése,
 
@@ -34,15 +34,15 @@ ed) a kert térszerkezetét, látványkapcsolatait, terepviszonyait befolyásol�
 
 f) védett temetőben és védett történeti temetkezési helyen
 
-fa)[^140] a védetté nyilvánításról szóló döntésben, illetve a szakértői dokumentációban meghatározott védett értékek és azokon elhelyezett feliratok, díszítmények megváltoztatása,
+fa)[^149] a védetté nyilvánításról szóló döntésben, illetve a szakértői dokumentációban meghatározott védett értékek és azokon elhelyezett feliratok, díszítmények megváltoztatása,
 
 fb) a megjelenést és látványt befolyásoló sírjelek, síremlékek, sírépítmények és egyéb építmények elhelyezése.
 
 (3) A műemléki értéket közvetlenül nem érintő tevékenységek közül bejelentés alapján végezhető
 
-a)[^141] a műemlék telkén a védetté nyilvánításról szóló döntésben, illetve a szakértői dokumentációban nevesített műemléki értékeket nem érintő építmény építése, cseréje, eltávolítása, bontása,
+a)[^150] a műemlék telkén a védetté nyilvánításról szóló döntésben, illetve a szakértői dokumentációban nevesített műemléki értékeket nem érintő építmény építése, cseréje, eltávolítása, bontása,
 
-b)[^142] műemléki jelentőségű területen a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló
+b)[^151] műemléki jelentőségű területen a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló
 
 ba) nem engedélyköteles új építmény elhelyezése vagy meglévő építmény bővítése,
 
@@ -54,11 +54,11 @@ bd) meglévő építmény közterület felé eső homlokzatának 10%-nál nagyob
 
 c) műemlék történeti táj esetében a védett műemléki érték megjelenését érintő és érvényesülését befolyásoló, legalább 6 m2 felületű reklám külterületi elhelyezése.
 
-(4)[^143] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
+(4)[^152] Ha a (2) bekezdés a), b), e) és f) pontjában meghatározott tevékenység elvégzéséhez az értékleltár a nyilvántartásban nem áll rendelkezésre, a 92. § (2) bekezdés c) pontjában meghatározott előzetes tájékoztatást kötelező megkérni.
 
-[^138]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
-[^139]: A 64. § (2) bekezdés c) pontja a 776/2021. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^140]: A 64. § (2) bekezdés f) pont fa) alpontja a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^141]: A 64. § (3) bekezdés a) pontja a 776/2021. (XII. 23.) Korm. rendelet 17. § 10. pontja, a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^142]: A 64. § (3) bekezdés b) pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
-[^143]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.
+[^147]: A 25. alcím (64. §) a 677/2020. (XII. 28.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^148]: A 64. § (2) bekezdés c) pontja a 776/2021. (XII. 23.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^149]: A 64. § (2) bekezdés f) pont fa) alpontja a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^150]: A 64. § (3) bekezdés a) pontja a 776/2021. (XII. 23.) Korm. rendelet 17. § 10. pontja, a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^151]: A 64. § (3) bekezdés b) pont nyitó szövegrésze a 776/2021. (XII. 23.) Korm. rendelet 17. § 11. pontja szerint módosított szöveg.
+[^152]: A 64. § (4) bekezdése az 58/2021. (II. 10.) Korm. rendelet 2. § (4) bekezdés d) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 69. § (1) A hatóság a bejelentés vagy az örökségvédelmi engedély iránti kérelem alapján megvizsgálja, hogy
 
-a)[^172] a tervezett vagy megvalósult tevékenységgel érintett műemlék védettségére és azonosítására vonatkozó adatok megegyeznek-e a közhiteles nyilvántartás adataival,
+a)[^181] a tervezett vagy megvalósult tevékenységgel érintett műemlék védettségére és azonosítására vonatkozó adatok megegyeznek-e a közhiteles nyilvántartás adataival,
 
 b) rendelkezésre áll-e a védett műemléki értékre vonatkozó értékleltár, illetve építéstörténeti tudományos dokumentáció,
 
@@ -22,13 +22,13 @@ eb) tartozéka, alkotórésze révén a kulturális javak körében
 
 is védett-e.
 
-(2)[^173] A hatóság a nyilvántartást vezető hatóságnak haladéktalanul jelzi,
+(2)[^182] A hatóság a nyilvántartást vezető hatóságnak haladéktalanul jelzi,
 
 a) ha az (1) bekezdés a) pontja szerinti esetben az azonosítás vonatkozásában a döntésre kiható módon a valóságtól eltérő adatot talál,
 
 b) ha az értékleltár, az építéstörténeti tudományos dokumentáció, a kerttörténeti tudományos dokumentáció, a kutatási dokumentáció, restaurálási dokumentáció szakmai megállapításai részben vagy egészében nem felelnek meg a jogszabályból eredő követelményeknek.
 
-(3)[^174] A hatósági eljáráshoz készült értékleltárt, az építéstörténeti tudományos dokumentációt, a kerttörténeti tudományos dokumentációt, a szakértői dokumentációt, a beavatkozást követő állapotdokumentációt, a kutatási dokumentációt, a restaurálási dokumentációt, tervdokumentációját, sajátos tervét a hatóság
+(3)[^183] A hatósági eljáráshoz készült értékleltárt, az építéstörténeti tudományos dokumentációt, a kerttörténeti tudományos dokumentációt, a szakértői dokumentációt, a beavatkozást követő állapotdokumentációt, a kutatási dokumentációt, a restaurálási dokumentációt, tervdokumentációját, sajátos tervét a hatóság
 
 a) a dokumentáció benyújtását követő tizenöt napon belül feltölti az OÉNY-be, ha az ott nem található meg,
 
@@ -36,12 +36,12 @@ b) a döntést követően elektronikus úton teljeskörűen megküldi a Magyar �
 
 (4) Az (1) bekezdés e) pont eb) alpontja esetében, ha a műemléki érték tartozéka, alkotórésze a kulturális javak körében is védelem alatt áll, a hatóság a tervezett vagy megvalósult tevékenységről az eljárás megindításáról szóló értesítéssel egyidejűleg tájékoztatja a kulturális javak hatóságát.
 
-(5)[^175] A hatóság a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központnak megküldött dokumentumok tárgyáról és számáról a nyilvántartást vezető hatóságnak tárgyévben két alkalommal adatot szolgáltat.
+(5)[^184] A hatóság a Magyar Építészeti Múzeum és Műemlékvédelmi Dokumentációs Központnak megküldött dokumentumok tárgyáról és számáról a nyilvántartást vezető hatóságnak tárgyévben két alkalommal adatot szolgáltat.
 
-(6)[^176] A hatóság a döntését tájékoztatásul közli az Országos Építészeti Tervtanáccsal vagy a területi építészeti-műszaki tervtanáccsal, ha az eljárást megelőzően véleményt adott.
+(6)[^185] A hatóság a döntését tájékoztatásul közli az Országos Építészeti Tervtanáccsal vagy a területi építészeti-műszaki tervtanáccsal, ha az eljárást megelőzően véleményt adott.
 
-[^172]: A 69. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 56. pontja szerint módosított szöveg.
-[^173]: A 69. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
-[^174]: A 69. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított, a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^175]: A 69. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 74. § (2) bekezdése iktatta be.
-[^176]: A 69. § (6) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 26. §-a iktatta be.
+[^181]: A 69. § (1) bekezdés a) pontja a 677/2020. (XII. 28.) Korm. rendelet 83. § 56. pontja szerint módosított szöveg.
+[^182]: A 69. § (2) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.
+[^183]: A 69. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 74. § (1) bekezdésével megállapított, a 351/2023. (VII. 27.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^184]: A 69. § (5) bekezdését a 677/2020. (XII. 28.) Korm. rendelet 74. § (2) bekezdése iktatta be.
+[^185]: A 69. § (6) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 26. §-a iktatta be.

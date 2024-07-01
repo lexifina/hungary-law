@@ -4,19 +4,19 @@
 
 | 2. | Külföldi eredetű képzőművészeti alkotás, kivéve a 3. és 5. pontban foglaltak | Szépművészeti Múzeum | 1146 Budapest, Dózsa György út 41. |
 
-| 3. | Iparművészeti alkotás, kelet-ázsiai eredetű műtárgy | Iparművészeti Múzeum | 1091 Budapest, Üllői út 33–37. |
+| 3. | Iparművészeti alkotás, kelet-ázsiai eredetű műtárgy | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1091 Budapest, Üllői út 33–37. |
 
 | 4. | Népművészeti és néprajzi alkotás, tárgy | Néprajzi Múzeum | 1055 Budapest, Kossuth Lajos tér 12. |
 
-| 5. | A magyar nemzet és Magyarország népei történelmének emlékei, régészeti leletei, régészeti emléknek nem minősülő pénzérmék és egyéb numizmatikai tárgyak, valamint a fotótörténeti emlékek | Magyar Nemzeti Múzeum | 1088 Budapest, Múzeum krt. 14–16. |
+| 5. | A magyar nemzet és Magyarország népei történelmének emlékei, régészeti leletei, régészeti emléknek nem minősülő pénzérmék és egyéb numizmatikai tárgyak, valamint a fotótörténeti emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1088 Budapest, Múzeum krt. 14–16. |
 
-| 6. | Könyvek, antikváriák, zeneművek, térképek és egyéb nyomtatványok, kéziratok, hangfelvételek | Országos Széchényi Könyvtár | 1014 Budapest, Szent György tér 4–6. |
+| 6. | Könyvek, antikváriák, zeneművek, térképek és egyéb nyomtatványok, kéziratok, hangfelvételek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1014 Budapest, Szent György tér 4–6. |
 
-| 7. | Ásványtani, őslénytani és egyéb természettudományi leletek | Magyar Természettudományi Múzeum | 1088 Budapest, Baross u. 13. |
+| 7. | Ásványtani, őslénytani és egyéb természettudományi leletek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1088 Budapest, Baross u. 13. |
 
-| 8. | Irodalmi emlékek | Petőfi Irodalmi Múzeum | 1053 Budapest, Károlyi Mihály u. 16. |
+| 8. | Irodalmi emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1053 Budapest, Károlyi Mihály u. 16. |
 
-| 9. | Színháztörténeti emlékek | Petőfi Irodalmi Múzeum – Országos Színháztörténeti Múzeum és Intézet | 1013 Budapest, Krisztina krt. 57. |
+| 9. | Színháztörténeti emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1013 Budapest, Krisztina krt. 57. |
 
 | 10. | Műszaki és technikatörténeti emlékek | Magyar Műszaki és Közlekedési Múzeum | 1146 Budapest, Városligeti krt. 11. |
 
@@ -32,7 +32,7 @@
 
 | 16. | Budapest várostörténetére vonatkozó emlékek és leletek | Budapesti Történeti Múzeum | 1014 Budapest, Szent György tér 2. |
 
-| 17. | Kereskedelmi és vendéglátó-ipari emlékek | Magyar Kereskedelmi és Vendéglátóipari Múzeum | 1036 Budapest, Korona tér 1. |
+| 17. | Kereskedelmi és vendéglátó-ipari emlékek | Magyar Nemzeti Múzeum Közgyűjteményi Központ | 1036 Budapest, Korona tér 1. |
 
 | 18. | Orvos- és gyógyszerészettörténeti emlékek | Semmelweis Orvostörténeti Múzeum, Könyvtár és Levéltár | 1013 Budapest, Apród u. 1–3. |
 

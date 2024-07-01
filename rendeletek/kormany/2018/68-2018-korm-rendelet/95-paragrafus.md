@@ -10,6 +10,6 @@ b) ellátja a kulturális javak visszakövetelésével, továbbá visszaadásáv
 
 c) részt vesz a jogtalanul eltulajdonított kulturális javak nemzetközi információcseréjében a Kötv. 64. § b) pontja szerint,
 
-d)[^264] részt vesz az állami vagy helyi önkormányzati fenntartású közgyűjtemény, muzeális intézmény alapleltárából visszaigényelt kulturális javak visszaadására vonatkozó igények elbírálásában.
+d)[^273] részt vesz az állami vagy helyi önkormányzati fenntartású közgyűjtemény, muzeális intézmény alapleltárából visszaigényelt kulturális javak visszaadására vonatkozó igények elbírálásában.
 
-[^264]: A 95. § d) pontját a 677/2020. (XII. 28.) Korm. rendelet 79. §-a iktatta be.
+[^273]: A 95. § d) pontját a 677/2020. (XII. 28.) Korm. rendelet 79. §-a iktatta be.

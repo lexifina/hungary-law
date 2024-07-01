@@ -8,6 +8,6 @@ b) ellenőrzi, hogy a tervezett tevékenység megvalósítása a hatósághoz be
 
 c) ellenőrzi, hogy a megvalósítást, kivitelezést dokumentáló kutatási vagy restaurálási napló rendelkezésre áll-e, és ebben a szükséges bejegyzéseket az arra kötelezettek megtették-e.
 
-(3)[^213] Ha az ellenőrzés során a hatóság fényképfelvételt készített, az ellenőrzés befejezésétől számított tizenöt napon belül elektronikus formában megküldve, az OÉNY-be feltölti.
+(3)[^222] Ha az ellenőrzés során a hatóság fényképfelvételt készített, az ellenőrzés befejezésétől számított tizenöt napon belül elektronikus formában megküldve, az OÉNY-be feltölti.
 
-[^213]: A 77. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 84. § 21. pontja szerint módosított szöveg.
+[^222]: A 77. § (3) bekezdése a 677/2020. (XII. 28.) Korm. rendelet 84. § 21. pontja szerint módosított szöveg.
