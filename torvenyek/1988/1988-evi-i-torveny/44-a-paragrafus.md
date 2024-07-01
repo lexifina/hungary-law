@@ -32,6 +32,6 @@ b) a más tagállam közúti ellenőrző hatóságaival való adat-, tapasztalat
 
 c) az ellenőrző hatóságok által végzett közúti és telephelyi ellenőrzések statisztikai adatainak gyűjtése, összesítése, valamint ennek alapján adatszolgáltatás az Európai Bizottság részére.
 
-(9) A (7) bekezdésben meghatározott tachográfkártya kiadására irányuló kérelem kizárólag személyesen terjeszthető elő a közlekedési hatóságnál.
+(9) A (7) bekezdésben meghatározott tachográfkártya kiadására irányuló kérelem személyesen és elektronikus úton terjeszthető elő a közlekedési hatóságnál.
 
 (10) A tachográf kártya nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen kell átadni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
