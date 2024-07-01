@@ -14,7 +14,7 @@ b) az adott év május 1-je és augusztus 15-e között állapította meg, a há
 
 (4) A települési önkormányzat jegyzője az (1) és (2) bekezdés szerinti tájékoztató kiküldésével egyidejűleg a tájékoztató címzettjeiről értesíti a család- és gyermekjóléti szolgálatot.
 
-(5) A család- és gyermekjóléti szolgálat a (4) bekezdés szerinti értesítés alapján felkeresi a hátrányos helyzetű és a rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermeket nevelő családot, és segítséget nyújt a jogosultnak a 7. melléklet szerinti nyilatkozat kitöltéséhez és benyújtásához.
+(5)[^41] A család- és gyermekjóléti szolgálat a (4) bekezdés szerinti értesítés alapján felveszi a kapcsolatot a hátrányos helyzetű és a rendszeres gyermekvédelmi kedvezményben részesülő, halmozottan hátrányos helyzetű gyermeket nevelő családdal, és szükség szerint segítséget nyújt a jogosultnak a 7. melléklet szerinti nyilatkozat kitöltéséhez és benyújtásához.
 
 (6) A 7. melléklet szerinti nyilatkozat – az évközi szünet időtartama kivételével – a nevelési év, tanév során bármikor benyújtható, illetve módosítható.
 
@@ -25,3 +25,4 @@ b) az adott év május 1-je és augusztus 15-e között állapította meg, a há
 (9) Ha a települési önkormányzat jegyzője azt állapítja meg, hogy a gyermek nem jogosult a szünidei gyermekétkeztetésre, erről írásban értesíti a szünidei gyermekétkeztetést igénylő szülőt, más törvényes képviselőt.
 
 [^40]: A 13/B. §-t a 431/2015. (XII. 23.) Korm. rendelet 3. §-a iktatta be.
+[^41]: A 13/B. § (5) bekezdése a 104/2024. (V. 9.) Korm. rendelet 21. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-8. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^71]
+8. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^72]
 
 NYILATKOZAT a Gyvt. 21/B. § (1) bekezdés b)–d) pontja és a Gyvt. 21/B. § (2) bekezdése szerinti ingyenes vagy kedvezményes intézményi gyermekétkeztetés igénybevételéhez
 
@@ -62,4 +62,4 @@ az ellátást igénylő) aláírása
 
 *** A gyermekek számának meghatározásánál figyelembe veendő gyermekek köre: Az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező 18 éven aluli gyermek; a 25 évesnél fiatalabb, köznevelési intézményben nappali rendszerű iskolai oktatásban részt vevő, a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő vagy felsőoktatási intézményben nappali képzésben tanuló gyermek és életkortól függetlenül a tartósan beteg vagy súlyos fogyatékos gyermek, kivéve a nevelőszülőnél ideiglenes hatállyal elhelyezett gyermek, valamint a nevelőszülőnél elhelyezett nevelésbe vett gyermek és utógondozói ellátásban részesülő fiatal felnőtt.
 
-[^71]: A 8. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be.
+[^72]: A 8. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés b) pontja iktatta be.
