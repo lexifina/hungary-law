@@ -1,1 +1,0 @@
-3. § Magyarország Alaptörvénye és jogszabályai garantálják a hátrányos és méltánytalan megkülönböztetés bármely formájának tilalmát, és azt, hogy nincsenek az Olimpiai és Paralimpiai Játékok magyarországi megrendezését gátló jogi akadályok.
