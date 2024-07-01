@@ -1,4 +1,4 @@
-## 27. §[^5] A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak. A 15. § (1) bekezdésétől eltérően az ÁÉKBV-nek nem minősülő nyilvános értékpapír befektetési alapok (ABA-k) kötvényt bocsáthatnak ki.
+## 27. §[^11] A hitelfelvételre, az értékpapírkölcsönre, az eszközök megterhelésére a 15. § rendelkezései alkalmazandóak. A 15. § (1) bekezdésétől eltérően az ÁÉKBV-nek nem minősülő nyilvános értékpapír befektetési alapok (ABA-k) kötvényt bocsáthatnak ki.
 
 ## V. Fejezet
 
@@ -6,14 +6,7 @@
 
 ## 16. Megengedett eszközök köre
 
-## 28. § A zártkörű értékpapír befektetési alapok kizárólag az alábbi eszközökbe fektethetnek be:
+28. §[^12] Zártkörű értékpapír befektetési alap kizárólag a Bszt. 6. §-a szerinti pénzügyi eszközbe vagy pénzeszközbe fektethet be.
 
-a) átruházható értékpapírok és pénzpiaci eszközök,
-
-b) kollektív befektetési értékpapírok,
-
-c) betét, deviza,
-
-d) származtatott ügyletek, beleértve az árualapú származtatott ügyleteket is, azzal a feltétellel, hogy árualapú származtatott ügyletek esetében az ügylet nem zárulhat fizikai teljesítéssel.
-
-[^5]: A 27. § a 389/2021. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 27. § a 389/2021. (VII. 2.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 28. § az 55/2024. (III. 7.) Korm. rendelet 3. §-ával megállapított szöveg.

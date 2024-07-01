@@ -10,20 +10,8 @@
 
 ## 7. Megengedett eszközök köre
 
-17. § (1) Nyilvános értékpapír befektetési alap – a (2) bekezdésben meghatározott kivétellel – kizárólag az alábbi eszközökbe fektethet be:
+17. §[^8] (1) Nyilvános értékpapír befektetési alap kizárólag a Bszt. 6. §-a szerinti pénzügyi eszközbe vagy pénzeszközbe fektethet be.
 
-a) a 2. § (1) bekezdés a), b), c) és d) pontjában felsorolt átruházható értékpapírok és pénzpiaci eszközök,
+(2) A befektetési alap rendelkezhet járulékos likvid eszközzel.
 
-b) az a) pont szerinti feltételeknek nem megfelelő egyéb állampapírok,
-
-c) ÁÉKBV által kibocsátott kollektív befektetési értékpapírok vagy a 2. § (1) bekezdés e) pont ea)–ec) alpontjában felsorolt feltételeknek megfelelő kollektív befektetési értékpapírok,
-
-d) betét, deviza,
-
-e) származtatott ügyletek, beleértve az árualapú származtatott ügyleteket is, azzal a feltétellel, hogy árualapú származtatott ügyletek esetében az ügylet nem zárulhat fizikai teljesítéssel,
-
-f) a 2. § (1) bekezdés h) pontjában felsorolt pénzpiaci eszközök.
-
-(2) Az e fejezet hatálya alá tartozó befektetési alapok eszközeinek legfeljebb 10 százalékát befektethetik az (1) bekezdésben nem említett értékpapírokba, vagy egyéb pénzügyi eszközökbe.
-
-(3) A befektetési alap rendelkezhet járulékos likvid eszközökkel.
+[^8]: A 17. § az 55/2024. (III. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

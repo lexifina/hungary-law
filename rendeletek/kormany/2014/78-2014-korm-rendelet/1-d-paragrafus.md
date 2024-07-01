@@ -1,0 +1,1 @@
+1/D. § E fejezet vonatkozásában állampapírnak minősül a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény (a továbbiakban: Bszt.) 4. § (2) bekezdés 2a. pontjában meghatározott állampapír.

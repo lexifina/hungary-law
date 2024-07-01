@@ -1,0 +1,1 @@
+1/K. § Ez a rész nem vonatkozik az olyan értékpapíralapra, amelynek a befektetési politikája, valamint kezelési szabályzata által meghatározottak szerint, legalább 80%-os mértékben Magyarországon kívül kibocsátott, valamint forgalmazott eszközbe fektet be.

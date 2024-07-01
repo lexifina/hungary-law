@@ -1,0 +1,3 @@
+1/E. § (1) E fejezet vonatkozásában, ÁÉKBV-ként létrehozott befektetési alap tekintetében egyéb eszköznek minősül a 2–6. §-ban meghatározott eszköz, illetve az adott alap vonatkozásában az az eszköz – ideértve a legnagyobb kitettséget jelentő eszközt is –, amelybe a befektetési alap egyébként befektethet.
+
+(2) E fejezet vonatkozásában, ABA-ként létrehozott befektetési alap tekintetében egyéb eszköznek minősül a Bszt. 6. §-a szerinti pénzügyi eszköz és a pénzeszköz, illetve az adott alap vonatkozásában az az eszköz – ideértve a legnagyobb kitettséget jelentő eszközt is –, amelybe a befektetési alap egyébként befektethet. Kötvényalap és vegyes értékpapíralap esetében egyéb eszköznek minősül az árupiaci kitettséget biztosító eszköz is.
