@@ -69,3 +69,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2024-02-22 | 2023. évi CXIV. törvény | 2011-189-00-00.64 |
 | 2024-05-10 | 2024. évi XVII. törvény | 2011-189-00-00.67 |
 | 2024-06-09 | 2024. évi XVII. törvény | 2011-189-00-00.66 |
+| 2024-07-01 | 2023. évi CXIV. törvény | 2011-189-00-00.65 |
