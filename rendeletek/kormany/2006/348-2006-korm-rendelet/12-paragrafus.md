@@ -12,9 +12,9 @@ d) a kapcsolattartást a hazai gyűrűzőkkel és a külföldi gyűrűzőközpon
 
 (3)[^27] Védelemben részesülő madárfajok vadon élő egyedeinek gyűrűzése kizárólag az (1) bekezdésben meghatározott szervezet által kiadott jelölőgyűrűkkel végezhető.
 
-(4)[^28] Az európai denevérfajok populációinak megőrzéséről szóló megállapodás végrehajtása érdekében a vadon élő védelemben részesülő denevérfajok egyedei jelölésének országos, központi koordinációját a Magyar Természettudományi Múzeum végzi.
+(4)[^28] Az európai denevérfajok populációinak megőrzéséről szóló megállapodás végrehajtása érdekében a vadon élő védelemben részesülő denevérfajok egyedei jelölésének országos, központi koordinációját a Magyar Nemzeti Múzeum Közgyűjteményi Központ végzi.
 
-(5)[^29] A (4) bekezdésben foglalt országos koordináció keretében a Magyar Természettudományi Múzeum az alábbiakat végzi:
+(5)[^29] A (4) bekezdésben foglalt országos koordináció keretében a Magyar Nemzeti Múzeum Közgyűjteményi Központ az alábbiakat végzi:
 
 a) az országos jelölőprojektek központi, egységes koordinációját, engedélyeztetését, nemzetközi jelölőprogramok esetén a külföldi részprogramokkal való összehangolását;
 
@@ -31,7 +31,7 @@ c) a kapcsolattartást a hazai jelölőkkel és a külföldi jelölőközpontokk
 [^25]: A 12. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^26]: A 12. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^27]: A 12. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^28]: A 12. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^29]: A 12. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^28]: A 12. § (4) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított, a 106/2024. (V. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^29]: A 12. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított, nyitó szövegrésze a 106/2024. (V. 9.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^30]: A 12. § (6) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 84. § (5) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^31]: A 12. § (8) bekezdése a 325/2007. (XII. 11.) Korm. rendelet 3. §-ával megállapított szöveg.
