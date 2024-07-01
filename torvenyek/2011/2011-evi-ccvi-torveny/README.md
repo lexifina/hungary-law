@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-206-00-00
 | 2019-04-15 | 2018. évi CXXXII. törvény | 2011-206-00-00.11 |
 | 2019-04-16 | 2018. évi CXXXII. törvény | 2011-206-00-00.12 |
 | 2024-01-01 | 2023. évi LII. törvény | 2011-206-00-00.13 |
+| 2024-07-01 | 2024. évi XX. törvény | 2011-206-00-00.14 |
