@@ -1,4 +1,4 @@
-## 5. A kötelespéldány szolgáltatásának szabályai az OSZK-nak beszolgáltatandó elektronikus kiadványok esetében
+## 5.[^18] A kötelespéldány szolgáltatásának szabályai az MNM KK-nak beszolgáltatandó elektronikus kiadványok esetében
 
 14. § (1) Kötelespéldányt kell szolgáltatni az elektronikus kiadványból, ha az
 
@@ -16,10 +16,14 @@ e) Magyarországon nem fizikai adathordozón, csak elektronikus formában megjel
 
 (3) Kötelespéldányt kell szolgáltatni a kartográfiai kiadvány elektronikus változatából.
 
-(4) Az elektronikus kiadványból a kiadvány megjelenítését lehetővé tevő és azt nem korlátozó, szabványos nyílt formátumok valamelyikére konvertált elektronikus változatban kell kötelespéldányt szolgáltatni. Az elektronikus kiadvány szolgáltatásának technikai részleteiről miniszteri jóváhagyást követően az OSZK útmutatót tesz közzé a honlapján, amelyet a szolgáltatóknak figyelembe kell venniük.
+(4)[^19] Az elektronikus kiadványból a kiadvány megjelenítését lehetővé tevő és azt nem korlátozó, szabványos nyílt formátumok valamelyikére konvertált elektronikus változatban kell kötelespéldányt szolgáltatni. Az elektronikus kiadvány szolgáltatásának technikai részleteiről miniszteri jóváhagyást követően az MNM KK útmutatót tesz közzé a honlapján, amelyet a szolgáltatóknak figyelembe kell venniük.
 
 (5) Kötelespéldányként elektronikus eszközön megjeleníthető, megtekintést, további feldolgozást nem korlátozó, hatásos műszaki intézkedést nem tartalmazó példány szolgáltatható.
 
 (6) Az online elektronikus kiadványt a szolgáltató elektronikus úton szolgáltatja a kiadvány leíró adataival együtt.
 
-(7) A nem vagy nem megfelelően megjeleníthető formátum kiterjesztését a Kultv. 59. § (2c) bekezdésében foglaltak szerint az OSZK elvégezheti.
+(7)[^20] A nem vagy nem megfelelően megjeleníthető formátum kiterjesztését a Kultv. 59. § (2c) bekezdésében foglaltak szerint az MNM KK elvégezheti.
+
+[^18]: Az 5. alcím címe a 106/2024. (V. 9.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^19]: A 14. § (4) bekezdése a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^20]: A 14. § (7) bekezdése a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

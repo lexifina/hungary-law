@@ -1,5 +1,3 @@
-## 19. § Az OSZK a videotermékre, a diafilmre és a diaképre vonatkozó, hatósági vagy bírósági határozatban meghatározott korlátozásnak, illetve a terjesztési korlátozásnak megfelelően kezelt kötelespéldány használatát a minősített adat kutatási szabályainak megfelelően biztosítja.
-
 ## 8. A kötelespéldány szolgáltatásának szabályai az NFI-nek beszolgáltatandó filmek esetében
 
 20. § (1) Kötelespéldányt kell szolgáltatni az NFI számára

@@ -1,4 +1,4 @@
-8. § (1) Az OSZK a 6. § (1) bekezdése szerint szolgáltatott hat kötelespéldány közül
+8. § (1)[^12] Az MNM KK a 6. § (1) bekezdése szerint szolgáltatott hat kötelespéldány közül
 
 a) egy példányt archivál,
 
@@ -14,6 +14,10 @@ e) egy példányt biztosít gyűjtőkörének megfelelően az Országgyűlési K
 
 f) egy példányt biztosít szolgáltatás céljára a gyűjtőköri megosztás figyelembevételével a Pécsi Tudományegyetem Egyetemi Könyvtár és Tudásközpontnak (a továbbiakban: PTE EK TK) vagy a Szegedi Tudományegyetem Klebelsberg Kuno Könyvtárnak (a továbbiakban: SZTE Klebelsberg Könyvtár).
 
-(2) Az OSZK az (1) bekezdésben meghatározott könyvtárak által át nem vett példányokat a használat biztosítása céljára az országos szakkönyvtárak és a fővárosi egyetemi könyvtárak között osztja szét a miniszter által meghatározott gyűjtőköri szempontokra figyelemmel. Az országos szakkönyvtárak és a fővárosi egyetemi könyvtárak által át nem vett kötelespéldányokat az OSZK felajánlhatja további könyvtárak számára átvételre, vagy azt a szerzői jogról szóló törvény szerinti szabad felhasználás körében maga felhasználhatja.
+(2)[^13] Az MNM KK az (1) bekezdésben meghatározott könyvtárak által át nem vett példányokat a használat biztosítása céljára az országos szakkönyvtárak és a fővárosi egyetemi könyvtárak között osztja szét a miniszter által meghatározott gyűjtőköri szempontokra figyelemmel. Az országos szakkönyvtárak és a fővárosi egyetemi könyvtárak által át nem vett kötelespéldányokat az MNM KK felajánlhatja további könyvtárak számára átvételre, vagy azt a szerzői jogról szóló törvény szerinti szabad felhasználás körében maga felhasználhatja.
 
-(3) A kötelespéldányok OSZK-ból történő elszállításáról az (1) és (2) bekezdés alapján kötelespéldányban részesülő könyvtárak gondoskodnak, és viselik annak költségét.
+(3)[^14] A kötelespéldányok MNM KK-ból történő elszállításáról az (1) és (2) bekezdés alapján kötelespéldányban részesülő könyvtárak gondoskodnak, és viselik annak költségét.
+
+[^12]: A 8. § (1) bekezdés nyitó szövegrésze a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^13]: A 8. § (2) bekezdése a 106/2024. (V. 9.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^14]: A 8. § (3) bekezdése a 106/2024. (V. 9.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.

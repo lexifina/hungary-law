@@ -22,9 +22,9 @@ i) a kiadvány árát vagy értékét, valamint
 
 j) a kézbesítés dátumát.
 
-(3) A kötelespéldány szolgáltatója – a 2. § 17. pont a) és c) alpontja szerinti kiadványokhoz és zeneművekhez tartozó nemzetközi azonosító szám számcsoportján belül saját kiadói azonosító számmal nem rendelkező kiadó kivételével –
+(3)[^11] A kötelespéldány szolgáltatója – a 2. § 17. pont a) és c) alpontja szerinti kiadványokhoz és zeneművekhez tartozó nemzetközi azonosító szám számcsoportján belül saját kiadói azonosító számmal nem rendelkező kiadó kivételével –
 
-a tárgyévben megjelent kiadványairól éves jelentést küld elektronikus úton egy példányban az OSZK részére a megjelenési évet követő év március 15-ig.
+a tárgyévben megjelent kiadványairól éves jelentést küld elektronikus úton egy példányban az MNM KK részére a megjelenési évet követő év március 15-ig.
 
 (4) A (3) bekezdés szerinti jelentés tartalmazza
 
@@ -55,3 +55,5 @@ a tárgyévben megjelent kiadványairól éves jelentést küld elektronikus út
 13. a kiadvány megjelenésének évét, hónapját, napját.
 
 (5) Terjesztési korlátozás esetén a szolgáltató a korlátozás tényéről és tartalmáról a kötelespéldány szolgáltatásával egyidejűleg tájékoztatja a jogosultat.
+
+[^11]: A 7. § (3) bekezdése a 106/2024. (V. 9.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
