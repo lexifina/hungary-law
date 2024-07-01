@@ -18,11 +18,9 @@ af) aa)–ae) pontokban meghatározott vagyonelemekhez kapcsolódó jogok és k�
 
 b) gazdaságátadó: az az öregségi nyugdíjkorhatárt elért vagy a szerződés megkötésétől számítva legfeljebb 5 éven belül elérő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki
 
-ba) legalább 10 éve saját nevében és saját kockázatára folytat mező- erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet és ebből igazoltan árbevétele származott, valamint
+ba) saját vagy jogelődjének tevékenységi idejével egybeszámítva legalább 10 évig saját nevében és saját kockázatára mező-, erdőgazdasági tevékenységet, illetve kiegészítő tevékenységet folytatott, és ebből igazoltan árbevétele származott, valamint
 
-bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója vagy az akként bejegyzett gazdasági társaság tulajdonosa, vagy
-
-bc) a ba) és bb) alpontban meghatározott feltételeknek megfelelő mezőgazdasági őstermelő vagy egyéni vállalkozó törvényes örököse;
+bb) a gazdaságátadási szerződésben meghatározott mező-, erdőgazdasági hasznosítású föld területe több mint háromnegyedének a gazdaságátadás időpontját megelőzően legalább 5 éve tulajdonosi földhasználója – az 5 éven belül szerzett mező-, erdőgazdasági hasznosítású föld kivételével –, vagy más jogcímen a földhasználati nyilvántartásba legalább 5 éve bejegyzett földhasználója, erdőgazdálkodói nyilvántartásba legalább 5 éve bejegyzett erdőgazdálkodója, ezen személy közeli hozzátartozója vagy a földhasználóként vagy erdőgazdálkodóként bejegyzett mezőgazdasági termelőszervezet legalább 25%-ban tulajdonosa.
 
 c) gazdaságátvevő: az a gazdaságátadónál legalább tíz évvel fiatalabb, az 50. életévét el nem érő mezőgazdasági őstermelő vagy mező-, erdőgazdasági tevékenységet folytató egyéni vállalkozó, aki az átvenni kívánt gazdaság működtetésére a jogszabályban előírt feltételeknek megfelel és aki
 

@@ -1,6 +1,6 @@
 ## 6. A gazdaságátadási ajándékozási, tartási és életjáradéki szerződés szabályai
 
-9. § (1) A gazdaságátadási ajándékozási, tartási vagy életjáradéki szerződésben meg kell határozni a gazdaság egyes elemeinek értékét.
+9. § (1) A gazdaságátadási ajándékozási, tartási vagy életjáradéki szerződésben meg kell határozni a gazdaság egyes elemeinek szerződéskötéskori forgalmi értékét.
 
 (2) A gazdaságátadási ajándékozási, tartási vagy életjáradéki szerződést csak közeli hozzátartozók köthetnek, ha a gazdaságátadási szerződésben mező- és erdőgazdasági föld tulajdonjogának átruházásáról állapodnak meg. E szerződésre a Földforgalmi törvény ajándékozásra, tartási vagy életjáradéki szerződésre vonatkozó rendelkezéseit kell alkalmazni.
 

@@ -1,6 +1,6 @@
 ## 8. A gazdaságátadási szerződés jóváhagyása
 
-12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra a Földforgalmi törvényben és a Fétv.-ben foglalt eltérésekkel és kiegészítésekkel az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során azt vizsgálja, hogy
+12. § (1) A gazdaságátadásról szóló szerződést a megkötését követő hatvan napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez. A hatósági jóváhagyásra vonatkozó eljárásra az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell alkalmazni. A mezőgazdasági igazgatási szerv eljárása során azt vizsgálja, hogy
 
 a) a gazdaságátadó és a gazdaságátvevő megfelelnek-e az e törvényben előírt feltételeknek,
 
@@ -12,7 +12,7 @@ d) a felek a Földforgalmi törvény 13. §-a és 42. §-a szerinti nyilatkozato
 
 e) a felek megállapodása megfelel-e a jogszabályban előírt azon feltételeknek, amelyektől a felek nem térhetnek el.
 
-(2) A gazdaságátadó benyújtja a teljes gazdaság tulajdonjoga átruházására vonatkozó hozzájárulásával egyidejűleg a gazdasághoz kapcsolódó mező-, erdőgazdálkodási tevékenységnek az élelmiszerlánc-felügyeleti információs rendszerből történő törlésére vonatkozó kérelmét az élelmiszerlánc-felügyeleti szervhez.
+(2) A gazdaságátadási szerződés jóváhagyása iránti eljárásban sommás eljárásnak nincs helye.
 
 (3) A mezőgazdasági igazgatási szerv az okiratok beérkezésétől számított 60 napon belül határozatot hoz. A mezőgazdasági igazgatási szerv jóváhagyása a jogszabályban előírt egyéb érvényességi feltételeket és kellékeket nem pótolja.
 
@@ -25,3 +25,5 @@ b) a gazdaságátvevő nem jogosult megszerezni a mező- és erdőgazdasági fö
 c) a mező- és erdőgazdasági föld használatára vonatkozó rendelkezések nem felelnek meg a Földforgalmi törvénynek, a Fétv-nek, vagy
 
 d) a felek megállapodása nem felel meg a jogszabályban előírt feltételeknek.
+
+(5) A gazdaságátadási szerződés jóváhagyása iránti eljárás díj- és illetékmentes.

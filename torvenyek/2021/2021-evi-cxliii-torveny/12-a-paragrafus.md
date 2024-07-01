@@ -1,0 +1,3 @@
+12/A. § (1) A gazdaságátadási szerződésnek a mezőgazdasági igazgatási szerv által történő jóváhagyása után és a gazdaságátadási szerződéshez kapcsolódó tulajdonjog átruházásra irányuló nyilatkozatban meghatározott időpont között a gazdaságnak a 2. § a) pontjában meghatározott elemeit érintő változás esetén a gazdaságátadási szerződést módosítani kell és a módosítást annak aláírását követő tizenöt napon belül jóváhagyás céljából be kell nyújtani a mezőgazdasági igazgatási szervhez.
+
+(2) Az (1) bekezdés szerinti módosítás jóváhagyása tárgyában – a szerződés egyéb rendelkezéseinek változatlan formában történő fenntartása esetén – a mezőgazdasági igazgatási szerv az okiratok beérkezését követő 15 napon belül határozatot hoz.

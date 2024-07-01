@@ -2,7 +2,7 @@
 
 (2) Ha a gazdaságátadó a gazdaságátadási szerződéssel olyan mező-, erdőgazdasági hasznosítású föld tulajdonjogát vagy olyan földre vonatkozó használati szerződését ruházza át, amely föld tulajdonjogának vagy használati jogának megszerzéséhez meghatározott célú földhasználat, egyéb kötelezettség kapcsolódik, akkor a gazdaságátvevő a gazdaságátadási szerződésben vállalja ezen kötelezettségek teljesítését.
 
-(3) A gazdaságátadót törölni kell a földművesekről, a mezőgazdasági termelőszervezetekről, valamint a mezőgazdasági üzemközpontokról vezetett nyilvántartásból a mező- erdőgazdasági célú földek tulajdonjogának átruházását vagy használatának a 3. § (3) bekezdésében meghatározott átengedését követően. A gazdaságátadó csak akkor kérheti újra a földművesként történő nyilvántartásba vételét, ha a gazdaságátadási szerződés az 5. §-ban vagy a 11. §-ban foglaltak alapján megszűnik vagy a gazdaságátvevő halálát követően a gazdaságátadó a gazdaságátvevő örököseként a gazdaság részét képező mező- és erdőgazdasági hasznosítású föld tulajdonjogát vagy földhasználati jogosultságát megszerzi.
+(3)
 
 (4) Ha a felek a gazdaságátadási szerződésben úgy állapodnak meg, hogy a gazdaságátadó a tulajdonában álló mező- és erdőgazdasági földek használatát a gazdaságátvevőnek a 3. § (3) bekezdésében foglaltak szerint átengedi, akkor a felek a föld használatára irányuló jogviszonyt csak a Földforgalmi törvényben, illetve a Fétv.-ben meghatározott leghosszabb időtartamra vagy a Fétv.-ben meghatározott esetben határozatlan időre létesíthetik. A gazdaságátvevő köteles a földhasználatát nyilvántartásba vétel céljából az ingatlanügyi hatóságnak a Fétv.-ben foglaltak szerint bejelenteni.
 
