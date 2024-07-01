@@ -10,21 +10,21 @@ b) felméri, valamint elősegíti a megváltozott munkaképességű munkavállal
 
 c) tájékoztatást nyújt a megváltozott munkaképességgel összefüggő szociális, munkaügyi, egészségügyi, oktatási rendszerrel és jogszabályi előírásokkal kapcsolatban,
 
-d)[^59]
+d)[^58]
 
 e) megválasztja a megfelelő oktatási módszereket,
 
 f) részt vesz a személyes rehabilitációs tervek elkészítésében, felülvizsgálatában, módosításában,
 
-g)[^60]
+g)[^59]
 
-h)[^61] közvetítő szerepet tölt be a munkáltató és a rehabilitációs hatóság között a megváltozott munkaképességű munkavállaló minél sikeresebb és hatékonyabb rehabilitációja érdekében,
+h)[^60] közvetítő szerepet tölt be a munkáltató és a rehabilitációs hatóság között a megváltozott munkaképességű munkavállaló minél sikeresebb és hatékonyabb rehabilitációja érdekében,
 
 i) a tranzit foglalkoztatást követően legalább 6 hónapig szükség szerint segítséget nyújt a megváltozott munkaképességű munkavállaló nyílt munkaerő-piacon történő sikeres elhelyezkedése érdekében.
 
-(3)–(6)[^62]
+(3)–(6)[^61]
 
-[^59]: A 13. § (2) bekezdés d) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés e) pontja hatályon kívül helyezte.
-[^60]: A 13. § (2) bekezdés g) pontját a 360/2019. (XII. 30.) Korm. rendelet 112. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^61]: A 13. § (2) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^62]: A 13. § (3)–(6) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.
+[^58]: A 13. § (2) bekezdés d) pontját a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés e) pontja hatályon kívül helyezte.
+[^59]: A 13. § (2) bekezdés g) pontját a 360/2019. (XII. 30.) Korm. rendelet 112. § c) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^60]: A 13. § (2) bekezdés h) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^61]: A 13. § (3)–(6) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § b) pontja hatályon kívül helyezte.

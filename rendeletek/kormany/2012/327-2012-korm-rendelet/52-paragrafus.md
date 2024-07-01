@@ -1,3 +1,3 @@
-52. §[^203]
+52. §[^202]
 
-[^203]: Az 52. §-t a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés m) pontja hatályon kívül helyezte.
+[^202]: Az 52. §-t a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés m) pontja hatályon kívül helyezte.

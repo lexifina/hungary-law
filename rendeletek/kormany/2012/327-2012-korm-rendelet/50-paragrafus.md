@@ -1,4 +1,4 @@
-## 50. §[^201] E rendelet szabályait 2022. június 30-ig a következő eltérésekkel kell alkalmazni:
+## 50. §[^200] E rendelet szabályait 2022. június 30-ig a következő eltérésekkel kell alkalmazni:
 
 a) megváltozott munkaképességű munkavállalónak kell tekinteni azt a személyt is, aki a veszélyhelyzet kihirdetésének napján vagy az akkreditált munkáltatók támogatására 2021. január 1-jétől jogosult munkáltató esetén a 2021. január 15-ig megkötött munkaszerződéssel rendelkező munkavállalóként az 1. § 6. pontja szerinti megváltozott munkaképességű személynek vagy fogyatékossági támogatásban részesülő személynek minősült,
 
@@ -8,4 +8,4 @@ c) a 17. § (1) bekezdés a) pontja szerinti bér- és többletköltség támoga
 
 d) az állásidő alkalmazása esetén a 38. § (1) bekezdés c) és d) pontját nem kell alkalmazni.
 
-[^201]: Az 50. §-t a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés m) pontja hatályon kívül helyezte, újonnan a 195/2022. (V. 27.) Korm. rendelet 21. §-a iktatta be.
+[^200]: Az 50. §-t a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés m) pontja hatályon kívül helyezte, újonnan a 195/2022. (V. 27.) Korm. rendelet 21. §-a iktatta be.

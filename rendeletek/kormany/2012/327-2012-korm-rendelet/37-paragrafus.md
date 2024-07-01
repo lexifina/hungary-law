@@ -2,22 +2,22 @@
 
 ## 24. Az egyéni támogatás felhasználása
 
-37. § (1)[^156] A munkáltató – a 38. §-ban foglalt eltéréssel – adott hónapra, adott munkavállaló tekintetében
+37. § (1)[^155] A munkáltató – a 38. §-ban foglalt eltéréssel – adott hónapra, adott munkavállaló tekintetében
 
-a)[^157] tartós foglalkoztatás esetén legfeljebb az egyéni támogatás egy hónapra számított keretösszegét,
+a)[^156] tartós foglalkoztatás esetén legfeljebb az egyéni támogatás egy hónapra számított keretösszegét,
 
 b) tranzit foglalkoztatás esetén az egyéni foglakoztatási megállapodásban adott hónapra meghatározott egyéni támogatás keretösszegét
 
 [az a) és a b) pont a továbbiakban együtt: havi keretösszeg] használhatja fel, a (2) és (4) bekezdésben meghatározott feltételekkel.
 
-(2)[^158] A teljes havi keretösszeg felhasználásának feltétele a rehabilitációs foglalkoztatásban részt vevő munkavállalók havi átlagban legalább napi 4 órás időtartamú foglalkoztatása. A havi átlagban napi 4 órát el nem érő foglalkoztatás esetén csak a havi keretösszeg időarányos része használható fel.
+(2)[^157] A teljes havi keretösszeg felhasználásának feltétele a rehabilitációs foglalkoztatásban részt vevő munkavállalók havi átlagban legalább napi 4 órás időtartamú foglalkoztatása. A havi átlagban napi 4 órát el nem érő foglalkoztatás esetén csak a havi keretösszeg időarányos része használható fel.
 
-(3)[^159]
+(3)[^158]
 
-(4)[^160] Az (1) és (2) bekezdés alapján adott hónapra felhasználható támogatás fel nem használt része a tárgyév december 31-éig használható fel.
+(4)[^159] Az (1) és (2) bekezdés alapján adott hónapra felhasználható támogatás fel nem használt része a tárgyév december 31-éig használható fel.
 
-[^156]: A 37. § (1) bekezdés záró szövegrésze a 402/2017. (XII. 15.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
-[^157]: A 37. § (1) bekezdés a) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^158]: A 37. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^159]: A 37. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^160]: A 37. § (4) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 22. § c) pontja, a 349/2023. (VII. 27.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^155]: A 37. § (1) bekezdés záró szövegrésze a 402/2017. (XII. 15.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^156]: A 37. § (1) bekezdés a) pontja a 332/2014. (XII. 18.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^157]: A 37. § (2) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^158]: A 37. § (3) bekezdését a 402/2017. (XII. 15.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^159]: A 37. § (4) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 22. § c) pontja, a 349/2023. (VII. 27.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 42/G. §[^190] A munkahely-teremtési támogatás felhasználásának szakmai ellenőrzését a Kormányhivatal, pénzügyi ellenőrzését a Magyar Államkincstár végzi. A támogatás visszafizetésére a 41. §-ban foglaltakat kell alkalmazni azzal, hogy az éves támogatási szerződés alatt a munkahely-teremtési szerződést kell érteni.
+## 42/G. §[^189] A munkahely-teremtési támogatás felhasználásának szakmai ellenőrzését a Kormányhivatal, pénzügyi ellenőrzését a Magyar Államkincstár végzi. A támogatás visszafizetésére a 41. §-ban foglaltakat kell alkalmazni azzal, hogy az éves támogatási szerződés alatt a munkahely-teremtési szerződést kell érteni.
 
 ## IV. Fejezet
 
@@ -14,7 +14,7 @@
 
 (4) A 37. § (2) bekezdése és a 38. § (1) bekezdés d) pontja 2014. január 1-jén lép hatályba.
 
-(5)[^191] A 35. § (3) bekezdése 2014. január 1-jén lép hatályba.
+(5)[^190] A 35. § (3) bekezdése 2014. január 1-jén lép hatályba.
 
-[^190]: A 42/G. § a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^191]: A 43. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés l) pontja szerint módosított szöveg.
+[^189]: A 42/G. § a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^190]: A 43. § (5) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 28. § (1) bekezdés l) pontja szerint módosított szöveg.

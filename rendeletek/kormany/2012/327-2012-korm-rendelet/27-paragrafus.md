@@ -1,18 +1,18 @@
-27. § (1)[^123] A pályázati eljárást a Kormányhivatal bonyolítja le. A Kormányhivatal a pályázatokat a benyújtási határidőt követő 8 munkanapon belül javaslattételre előkészíti és megküldi a pályázati bíráló bizottság (a továbbiakban: bizottság) részére.
+27. § (1)[^122] A pályázati eljárást a Kormányhivatal bonyolítja le. A Kormányhivatal a pályázatokat a benyújtási határidőt követő 8 munkanapon belül javaslattételre előkészíti és megküldi a pályázati bíráló bizottság (a továbbiakban: bizottság) részére.
 
-(2)[^124] A bizottság 5 tagból áll, elnöke a Kormányhivatalt vezető főispán,
+(2)[^123] A bizottság 5 tagból áll, elnöke a Kormányhivatalt vezető főispán,
 
 a) 1 tagját a miniszter,
 
-b)[^125] 1 tagját a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
+b)[^124] 1 tagját a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter,
 
 c) 1 tagját a foglalkoztatáspolitikáért felelős miniszter,
 
-d)[^126] 1 tagját a Kormányhivatalt vezető főispán
+d)[^125] 1 tagját a Kormányhivatalt vezető főispán
 
 jelöli ki minden évben az általa vezetett szervezet kormánytisztviselői közül. A bizottsági tag akadályoztatása esetén helyettesítő tagot kell kijelölni. A bizottság a döntéseit az összes tag részvételével, ellenszavazat nélkül hozza. A bizottság a működési rendjét – e rendelet keretei között – maga határozza meg. A bizottság működésének feltételeit a Kormányhivatal biztosítja.
 
-(3)[^127] A bizottság 2 munkanapon belül javaslatot tesz a miniszter részére a nyertes pályázatokra. A bizottság a javaslatát köteles indokolni.
+(3)[^126] A bizottság 2 munkanapon belül javaslatot tesz a miniszter részére a nyertes pályázatokra. A bizottság a javaslatát köteles indokolni.
 
 (4) A bizottság a javaslatát a következő szempontok alapján alakítja ki:
 
@@ -40,9 +40,9 @@ k) a miniszter által a pályázati kiírásban meghatározott egyéb szempontok
 
 (5) A bizottsági ülésről készített jegyzőkönyvnek tartalmaznia kell a bizottság tagjainak nevét, a bizottsági javaslat meghozatalának napját, a pályázatokról kialakított bizottsági javaslatot és annak indokolását. A jegyzőkönyv a pályázati eljárás lezárását követően nyilvános, abba bárki betekinthet.
 
-(6)[^128] A miniszter a bizottság javaslatának beérkezését követő 3 munkanapon belül dönt a nyertes pályázókról, és döntéséről tájékoztatja a Kormányhivatalt.
+(6)[^127] A miniszter a bizottság javaslatának beérkezését követő 3 munkanapon belül dönt a nyertes pályázókról, és döntéséről tájékoztatja a Kormányhivatalt.
 
-(7)[^129] A Kormányhivatal a döntésről értesíti a pályázókat. Az értesítés tartalmazza
+(7)[^128] A Kormányhivatal a döntésről értesíti a pályázókat. Az értesítés tartalmazza
 
 a) nyertes pályázat esetén
 
@@ -52,10 +52,10 @@ ab) a keretszerződés megkötésének időpontját, a benyújtandó dokumentumo
 
 b) elutasított pályázat esetén az elutasítás indokát.
 
-[^123]: A 27. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^124]: A 27. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) és e) pontja, a 304/2018. (XII. 27.) Korm. rendelet 15. § b) pontja, nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^125]: A 27. § (2) bekezdés b) pontja a 101/2018. (VI. 11.) Korm. rendelet 20. §-a szerint módosított szöveg.
-[^126]: A 27. § (2) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés e) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^127]: A 27. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
-[^128]: A 27. § (6) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés f) pontja szerint módosított szöveg.
-[^129]: A 27. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^122]: A 27. § (1) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^123]: A 27. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) és e) pontja, a 304/2018. (XII. 27.) Korm. rendelet 15. § b) pontja, nyitó szövegrésze a 309/2022. (VIII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^124]: A 27. § (2) bekezdés b) pontja a 101/2018. (VI. 11.) Korm. rendelet 20. §-a szerint módosított szöveg.
+[^125]: A 27. § (2) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés e) pontja, a 309/2022. (VIII. 11.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^126]: A 27. § (3) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § f) pontja szerint módosított szöveg.
+[^127]: A 27. § (6) bekezdése a 335/2013. (IX. 20.) Korm. rendelet 27. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés f) pontja szerint módosított szöveg.
+[^128]: A 27. § (7) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.

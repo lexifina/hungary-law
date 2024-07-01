@@ -1,6 +1,6 @@
 ## 20. Éves támogatási szerződés
 
-31. § (1)[^137] A miniszter minden évben – a Kormányhivatal december 5-ig megküldött javaslata alapján – december 10-ig meghatározza a következő költségvetési évre vonatkozóan
+31. § (1)[^136] A miniszter minden évben – a Kormányhivatal december 5-ig megküldött javaslata alapján – december 10-ig meghatározza a következő költségvetési évre vonatkozóan
 
 a) a támogatási elveket,
 
@@ -16,9 +16,9 @@ e) a tartós foglalkoztatásban és a tranzit foglalkoztatásban részt vevő mu
 
 a) a 26. § szerinti pályázati felhívásban közzétett szakmai ajánlásokkal és a hatályos keretszerződésekkel összhangban kell meghatározni,
 
-b)[^138] a miniszter által vezetett minisztérium és a Kormányhivatal honlapján minden évben december 31-ig közzé kell tenni.
+b)[^137] a miniszter által vezetett minisztérium és a Kormányhivatal honlapján minden évben december 31-ig közzé kell tenni.
 
-(3)[^139] A Kormányhivatal a miniszter (1) bekezdés szerinti döntése alapján minden év december 20-ig előkészíti a miniszter részére a következő költségvetési évre szóló éves támogatási tervet (a továbbiakban: éves támogatási terv). A miniszter az éves támogatási tervben minden év december 24-ig munkáltatónként meghatározza
+(3)[^138] A Kormányhivatal a miniszter (1) bekezdés szerinti döntése alapján minden év december 20-ig előkészíti a miniszter részére a következő költségvetési évre szóló éves támogatási tervet (a továbbiakban: éves támogatási terv). A miniszter az éves támogatási tervben minden év december 24-ig munkáltatónként meghatározza
 
 a) a tranzit foglalkoztatásban, illetve a tartós foglalkoztatásban támogatott megváltozott munkaképességű munkavállalók tervezett számát,
 
@@ -26,7 +26,7 @@ b) az egyéni támogatás éves keretösszegét,
 
 c) a munkáltató részére nyújtandó egyéni támogatások együttes tervezett éves keretösszegét.
 
-(4)[^140] Az egyes munkáltatók esetében a támogatott megváltozott munkaképességű munkavállalók számát az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata alapján a következő költségvetési évre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni.
+(4)[^139] Az egyes munkáltatók esetében a támogatott megváltozott munkaképességű munkavállalók számát az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata alapján a következő költségvetési évre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni.
 
 (5) A miniszter az éves támogatási tervben meghatározza a (3) bekezdés a)–c) pontjában meghatározottak módosítására vonatkozó elveket arra az esetre, ha
 
@@ -34,19 +34,19 @@ a) az (1) bekezdés b) pontja szerinti keretösszeg a következő évre szóló 
 
 b) az éves támogatási tervben meghatározott munkáltatónak az e rendelet szerinti támogatásra való jogosultsága megszűnik.
 
-c)[^141] az éves támogatási tervben meghatározott munkáltató a támogatás első hat hónapjára vállalt létszámra vonatkozó foglalkoztatási kötelezettségénél 10%-kal kevesebb létszámot foglalkoztatott.
+c)[^140] az éves támogatási tervben meghatározott munkáltató a támogatás első hat hónapjára vállalt létszámra vonatkozó foglalkoztatási kötelezettségénél 10%-kal kevesebb létszámot foglalkoztatott.
 
-(5a)[^142] A miniszter az éves támogatási tervben meghatározza az (5) bekezdés c) pontja szerinti esethez kapcsolódóan a felszabaduló létszámkapacitás visszaadására és újbóli elosztására vonatkozó eljárást.
+(5a)[^141] A miniszter az éves támogatási tervben meghatározza az (5) bekezdés c) pontja szerinti esethez kapcsolódóan a felszabaduló létszámkapacitás visszaadására és újbóli elosztására vonatkozó eljárást.
 
-(6)[^143] Az (5) bekezdés szerinti elveket a miniszter által vezetett minisztérium és a Kormányhivatal honlapján minden évben december 31-ig közzé kell tenni.
+(6)[^142] Az (5) bekezdés szerinti elveket a miniszter által vezetett minisztérium és a Kormányhivatal honlapján minden évben december 31-ig közzé kell tenni.
 
-(7)[^144] Ha az (1) bekezdés b) pontja szerinti keretösszeg a következő évre szóló költségvetési törvényben meghatározott fejezeti kezelésű előirányzat összegétől eltér, a Kormányhivatal az éves támogatási tervet – munkáltatónként – az (5) bekezdésben foglaltak szerint meghatározott elvek alapján módosítja.
+(7)[^143] Ha az (1) bekezdés b) pontja szerinti keretösszeg a következő évre szóló költségvetési törvényben meghatározott fejezeti kezelésű előirányzat összegétől eltér, a Kormányhivatal az éves támogatási tervet – munkáltatónként – az (5) bekezdésben foglaltak szerint meghatározott elvek alapján módosítja.
 
-[^137]: A 31. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^138]: A 31. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^139]: A 31. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^140]: A 31. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
-[^141]: A 31. § (5) bekezdés c) pontját a 668/2020. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
-[^142]: A 31. § (5a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 35. § (3) bekezdése iktatta be.
-[^143]: A 31. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^144]: A 31. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^136]: A 31. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^137]: A 31. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^138]: A 31. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^139]: A 31. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdése a) pontja szerint módosított szöveg.
+[^140]: A 31. § (5) bekezdés c) pontját a 668/2020. (XII. 28.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^141]: A 31. § (5a) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 35. § (3) bekezdése iktatta be.
+[^142]: A 31. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^143]: A 31. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés a) pontja szerint módosított szöveg.
