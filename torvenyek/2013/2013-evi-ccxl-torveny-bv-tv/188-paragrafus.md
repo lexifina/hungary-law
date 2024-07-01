@@ -22,13 +22,15 @@ vizsgálja.
 
 (2) Ha az elítélt által a Btk. 92–92/B. §-a szerinti beszámításra figyelemmel indokolt, a feltételes szabadságra bocsátás tárgyában a bv. intézet soron kívül, egyébként a feltételes szabadságra bocsátás lehetséges időpontja előtt két hónappal tesz előterjesztést a büntetés-végrehajtási bírónak, és ha a feltételes szabadság tartama a két évet eléri, csatolja az elítélt által megjelölt letelepedés helye szerint illetékes büntetés-végrehajtási pártfogó felügyelő által készített környezettanulmányt.
 
-(2a) Ha a feltételes szabadságra bocsátásról való rendelkezésnek a Btk. 38. § (6) bekezdése alapján van helye, az előterjesztéshez csatolni kell
+(2a) Ha a feltételes szabadságra bocsátásnak a Btk. 38. § (5) bekezdésében meghatározott bűncselekmény vonatkozásában van helye, az előterjesztéshez csatolni kell
 
 a) az elítélt számára meghatározott egyéniesített fogvatartási programtervet és az egyéni gondozási tervről szóló összefoglaló jelentést,
 
 b) az elítélt mentális állapotára vonatkozó szakorvosi és pszichológusi véleményt, amennyiben a bíróság az elkövető korlátozott beszámítási képességét állapította meg az ügydöntő határozatban,
 
-c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt.
+c) az elítélt kiskorú gyermekével kapcsolatosan beszerzett gyámhatósági véleményt,
+
+d) a Btk. XIX. Fejezetében meghatározott, tizennyolcadik életévet be nem töltött sértett sérelmére elkövetett bűncselekmény miatti elítélés esetén az elítélt hasonló jellegű bűncselekmény elkövetésére vonatkozó – az előterjesztést megelőző két hónapon belül készült – visszaesési kockázat felmérésének az eredményét.
 
 (2b) Ha a büntetés-végrehajtási bíró az elítélt feltételes szabadságra bocsátását rendelte el, de annak esedékességéig az elítélt súlyos fegyelmi vétséget követett el, a bv. intézet erről haladéktalanul értesíti.
 

@@ -18,11 +18,11 @@ e) központi idegenrendészeti nyilvántartás.
 
 (3) Az igazságügyért felelős miniszter a kegyelmi kérelmet, illetve a kegyelmi kezdeményezést a köztársasági elnökhöz akkor is felterjeszti, ha a kegyelem gyakorlása iránt nem tesz előterjesztést.
 
-(4) A köztársasági elnök a kegyelmi döntésről szóló határozatot – az ellenjegyzési jog gyakorlása érdekében – az igazságügyért felelős miniszternek küldi meg. Ha a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszter nem ellenjegyzi, e döntését a határozat eredeti példányára rávezeti. Ellenjegyzés hiányában a kegyelmi eljárás befejeződik. Az igazságügyért felelős miniszter az ellenjegyzési jog gyakorlásáról tájékoztatja a köztársasági elnököt.
+(4) A köztársasági elnök a kegyelmi döntésről szóló határozatot az igazságügyért felelős miniszternek küldi meg.
 
-(5) Ha a kegyelmi eljárás a (4) bekezdésben meghatározotton kívül más okból fejeződik be, ennek tényét az a személy, aki előtt a kegyelmi eljárás folyamatban van, illetve az iratok felterjesztését megelőzően az elsőfokú bíróság állapítja meg.
+(5) Ha a kegyelmi eljárás a köztársasági elnök döntése nélkül más okból fejeződik be, ennek tényét az a személy, aki előtt a kegyelmi eljárás folyamatban van, illetve az iratok felterjesztését megelőzően az elsőfokú bíróság állapítja meg.
 
-(6) Az igazságügyért felelős miniszter a kegyelmi döntésről szóló ellenjegyzett határozatot, illetve a kegyelmi eljárásnak az (4) és (5) bekezdésben meghatározott okból történő befejezéséről szóló tájékoztatást és a kegyelmi eljárás iratait megküldi annak az elsőfokú bíróságnak, amely az ügyiratokat felterjesztette.
+(6) Az igazságügyért felelős miniszter a kegyelmi döntésről szóló határozatot, illetve a kegyelmi eljárásnak az (5) bekezdésben meghatározott okból történő befejezéséről szóló tájékoztatást és a kegyelmi eljárás iratait megküldi annak az elsőfokú bíróságnak, amely az ügyiratokat felterjesztette.
 
 (7) Ha a kegyelmi döntésről szóló határozat az elítélttel szemben olyan büntetést vagy intézkedést állapít meg, amelyről a jogerős ügydöntő határozat nem rendelkezett, vagy a kiszabott büntetés végrehajtását felfüggeszti, és a Btk. vonatkozó rendelkezése alapján ehhez kötelezően pártfogó felügyelet kapcsolódik, akkor az elsőfokon eljárt bíróság nem ügydöntő határozattal ezt megállapítja. A határozattal szemben jogorvoslatnak helye nincs, a határozat a meghozatala napján válik véglegessé.
 

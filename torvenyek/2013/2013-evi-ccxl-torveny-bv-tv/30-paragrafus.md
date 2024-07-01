@@ -4,6 +4,12 @@
 
 (2) Kegyelmi rendelkezés kizárólag még végre nem hajtott büntetésre vagy intézkedésre vonatkozhat. A kegyelem gyakorlása szempontjából a kiutasítás mindaddig nem tekinthető végrehajtottnak, amíg annak tartama el nem telt.
 
+(2a) A köztársasági elnök az egyéni kegyelmezési jogát nem gyakorolhatja azzal az elítélttel szemben, akit
+
+a) tizennyolcadik életévét betöltött személy által tizennyolcadik életévét be nem töltött személy sérelmére elkövetett nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény, vagy
+
+b) az a) pontban meghatározott bűncselekménnyel vagy az a) pontban meghatározott bűncselekmény miatt indult büntetőeljárással összefüggő, tizennyolcadik életévét betöltött személy által elkövetett más szándékos bűncselekmény miatt ítéltek el.
+
 (3) Ha a kegyelmi jogkör gyakorlója ettől eltérően nem dönt, a kegyelem gyakorlása esetén azok a büntetőjogi jogkövetkezmények, amelyeket a Büntető Törvénykönyvről szóló törvény a korábbi elítéléshez fűz, az ügydöntő határozatban kiszabott büntetéshez, illetve alkalmazott intézkedéshez igazodnak.
 
 (4) Ha a köztársasági elnök a büntetés végrehajtását kegyelemből próbaidőre felfüggeszti, a próbaidő és a mentesítés hatályának beálltához szükséges időtartam a kegyelmi elhatározás keltének napján kezdődik.

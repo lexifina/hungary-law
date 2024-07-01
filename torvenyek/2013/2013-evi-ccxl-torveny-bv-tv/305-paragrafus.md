@@ -16,7 +16,7 @@ f) az illetékes ügyvédi kamarának.
 
 a) nyugállományú és kiképzett hadköteles személy esetén a Honvédség katonai igazgatási és központi adatfeldolgozó szervének,
 
-b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó elítélt esetén a munkáltatói jogkört gyakorlónak
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó elítélt esetén az állományilletékes parancsnoknak, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó elítélt esetén a döntésre jogosult elöljárónak
 
 kell megküldeni.
 

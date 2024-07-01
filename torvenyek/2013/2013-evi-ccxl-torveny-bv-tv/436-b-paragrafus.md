@@ -31,23 +31,3 @@ d) IV. kategóriába kerül az az elítélt, akit
 da) fegyház általános rezsim alá soroltak be,
 
 db) börtön szigorúbb rezsim alá soroltak be,
-
-e) V. kategóriába kerül az az elítélt, akit fegyház szigorúbb rezsim alá soroltak be.
-
-(2) A bv. intézetnek az (1) bekezdés szerinti kategória-besorolást a Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépését követő kilencven napon belül kell elvégeznie. Az elítélt ez idő alatt is szerezhet kreditpontot, amiről a BFB a besorolástól számított első összesítéskor dönt, és ha az elítélt ezen időpontig egy évet már letöltött a szabadságvesztésből, akkor a megszerzett kreditpontok alapján kategória-előresorolására is sor kerülhet.
-
-(3) Ha a (2) bekezdés szerinti megfeleltetés időpontjáig az elítélten olyan újabb szabadságvesztést kell végrehajtani, amely esetén a Mód. tv. 1. e törvényt érintő rendelkezései alapján kockázatelemzésnek és új kategória-besorolásnak van, illetve lehet helye, az elítélt kategória-besorolását a Mód. tv. 1. e törvényt érintő rendelkezései szerint kell elvégezni.
-
-(4) Az (1) bekezdés szerinti megfeleltetésről az elítéltet tájékoztatni kell. A fogvatartotti nyilvántartásban az elítéltnek mind a korábbi rezsimbe sorolást, mind a kategória-megfeleltetést – az (1) bekezdés szerinti hivatkozással – fel kell tüntetni. Az elítélt a bv. intézet parancsnokánál panasszal élhet, ha a bv. intézet nem megfelelően alkalmazta az (1) bekezdésben meghatározott megfeleltetési szabályokat.
-
-(5) Az elítélt által megszerezhető kreditpontok számát és a kategória-előresorolás ütemezését az (1) bekezdés szerinti megfeleltetés szerinti kategória-besorolás és a szabadságvesztés még végrehajtásra váró tartama, továbbá, ha az elítélt folyamatosan több szabadságvesztést tölt, ezek együttes tartama alapján kell kiszámolni.
-
-(6) A Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépésekor a társadalmi kötődés programba bevont elítélt a szabadságvesztésből történő szabadulás időpontjáig jogosult
-
-a) havonta legalább öt, de legfeljebb tíz nap eltávozásra azokon a napokon, amelyeken nem végez munkát,
-
-b) felügyelet nélkül külső munkahelyen dolgozni,
-
-c) tanulmányok és képzések bv. intézeten kívüli folytatására.
-
-(7) A Mód. tv. 1. e törvényt módosító rendelkezéseinek hatálybalépésekor a biztonsági zárkába vagy részlegre helyezett elítélt átkerül a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére azzal, hogy a továbbiakban a részlegre helyezés meghosszabbítására alkalmanként további három hónappal kerülhet sor.
