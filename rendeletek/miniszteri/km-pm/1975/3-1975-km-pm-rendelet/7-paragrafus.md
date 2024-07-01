@@ -10,8 +10,8 @@
 
 kevesebb nem lehet.
 
-(4)[^7] A könyvtárban legalább minden második időszaki leltározáskor teljes körű állományellenőrzést kell végrehajtani, kivéve a vállalati szakkönyvtárakat, amelyekben minden alkalommal teljes körű leltározást kell végezni.
+(4)[^8] A könyvtárban legalább minden második időszaki leltározáskor teljes körű állományellenőrzést kell végrehajtani, kivéve a vállalati szakkönyvtárakat, amelyekben minden alkalommal teljes körű leltározást kell végezni.
 
 (5) Amennyiben a leltározás alatt a kölcsönzési szolgáltatások nem szünetelnek, a könyvtárnak biztosítania kell, hogy egy dokumentum csak egyszer kerüljön felvételre.
 
-[^7]: A rendelet mellékletét képező Szabályzat 7. § (4) bekezdése a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A rendelet mellékletét képező Szabályzat 7. § (4) bekezdése a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja szerint módosított szöveg.

@@ -30,6 +30,6 @@ e) megengedhető hiány (káló) kapcsán [23. § (1) bekezdése],
 
 f) normán felüli hiány [23. § (2) bekezdése, 25. § (6) bekezdése].
 
-(4)[^8]
+(4)[^10]
 
-[^8]: A rendelet mellékletét képező Szabályzat 14. § (4) bekezdését a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja hatályon kívül helyezte.
+[^10]: A rendelet mellékletét képező Szabályzat 14. § (4) bekezdését a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja hatályon kívül helyezte.

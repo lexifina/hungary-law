@@ -14,6 +14,8 @@ A jegyzőkönyvet, annak elkészülte után, három napon belül három példán
 
 (4) A leltározásról felvett jegyzőkönyvben megállapított hiány, illetőleg többlet okait a könyvtár köteles a jegyzőkönyv felvételétől számított 30 napon belül kivizsgálni. Egyben – a felelős személyek felelősségrevonása mellett (13. §) – intézkedni kell az előidéző okok lehetőség szerinti megszüntetésére. A vizsgálat eredménye alapján szükséges intézkedéseket a könyvtár vezetője haladéktalanul köteles megtenni.
 
-(5) A (4) bekezdésben megállapított határidő alól kivételes esetekben az általános gyűjtőkörű országos jellegű tudományos könyvtárak, valamint az országos jellegű tudományos és szakkönyvtárak tekintetében a kulturális miniszter felmentést adhat.
+(5)[^9] A (4) bekezdésben megállapított határidő alól kivételes esetekben az általános gyűjtőkörű országos jellegű tudományos könyvtárak, valamint az országos jellegű tudományos és szakkönyvtárak tekintetében a kultúráért felelős miniszter felmentést adhat.
 
 (6) Az együttműködési rendszerekhez tartozó könyvtáraknál tartott leltározáskor a fenntartó köteles a jegyzőkönyv két példányát – a kézhezvételtől számított 8 napon belül – az illetékes központi feladatkörű könyvtárnak (hálózati központ, a továbbiakban: központi feladatkörű könyvtár) megküldeni. A jegyzőkönyvre az illetékes központi feladatkörű könyvtár a kézhezvételtől számított 15 napon belül észrevételeket tehet.
+
+[^9]: A 11. § (5) bekezdése a 2/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.

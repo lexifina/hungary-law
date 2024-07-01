@@ -10,4 +10,6 @@ A b) pontban említett esetben a soron kívüli leltározást a könyvtárnak cs
 
 (3) A könyvtárvezető személyében bekövetkezett változás esetén a fenntartó köteles a leltározást elrendelni, ha a könyvtárat egy személy kezeli (a továbbiakban: egyszemélyes könyvtár).
 
-(4) Ha a könyvtárvezető személyében az általános gyűjtőkörű országos jellegű tudományos könyvtárak, valamint az országos jellegű tudományos szakkönyvtárak esetében következik be változás, a soron kívüli leltározás elrendeléséhez a kulturális miniszter előzetes hozzájárulása szükséges.
+(4)[^7] Ha a könyvtárvezető személyében az általános gyűjtőkörű országos jellegű tudományos könyvtárak, valamint az országos jellegű tudományos szakkönyvtárak esetében következik be változás, a soron kívüli leltározás elrendeléséhez a kultúráért felelős miniszter előzetes hozzájárulása szükséges.
+
+[^7]: Az 5. § (4) bekezdése a 2/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
