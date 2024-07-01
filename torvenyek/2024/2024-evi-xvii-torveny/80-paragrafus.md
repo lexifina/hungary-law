@@ -1,1 +1,3 @@
-### 80. §
+80. § A szerzői jogok és a szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény 58. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A díjszabásban foglalt jogdíjak mértékének és struktúrájának megállapításakor figyelembe kell venni az érintett felhasználás jellegét és terjedelmét, valamint valamennyi egyéb lényeges körülményét. A díjszabásnak észszerűnek és megalapozottnak kell lennie, különös tekintettel az érintett felhasználás, valamint a közös jogkezelő szervezet által nyújtott szolgáltatás gazdasági értékére. A díjszabás megállapítása során alkalmazott szempontokról a közös jogkezelő szervezet az érintett felhasználó kérésére tájékoztatást ad.”
