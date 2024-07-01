@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-1-20-85
 | 2022-12-28 | 2000-1-20-85.48 | 52/2022. (XII. 27.) BM rendelet |
 | 2023-01-01 | 2000-1-20-85.47 | 80/2022. (XII. 30.) BM rendelet |
 | 2023-08-04 | 2000-1-20-85.49 | 80/2022. (XII. 30.) BM rendelet |
+| 2024-07-01 | 2000-1-20-85.50 | 23/2024. (V. 9.) BM rendelet |

@@ -22,10 +22,11 @@ c) a szolgáltatások iránt jelentkező szükségletek alapján az intézményr
 
 (4)[^419] A szolgáltatástervezési koncepciót az önkormányzat az elfogadást megelőzően véleményezteti az intézményvezetőkkel és a nemzetiségi önkormányzattal. A koncepció végleges változatának elfogadása során a kialakított véleményeket az önkormányzat lehetőség szerint figyelembe veszi. A megyei jogú városi önkormányzat a jóváhagyott szolgáltatástervezési koncepciót megküldi a szociálpolitikáért felelős miniszternek.
 
-(5) A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás kétévente felülvizsgálja és aktualizálja.
+(5)[^420] A szolgáltatástervezési koncepció tartalmát az önkormányzat, illetve a társulás öt évente felülvizsgálja és aktualizálja.
 
 [^415]: A 111. § a 2/2006. (IV. 14.) ICSSZEM rendelet 39. § (5) bekezdésének g) pontja, az 55/2013. (VII. 29.) EMMI rendelet 14. § e) pontja szerint módosított szöveg.
 [^416]: A 111/A. §-t az 1/2017. (II. 14.) EMMI rendelet 55. §-a iktatta be.
 [^417]: A 111/A. § (2) bekezdés a) pontja a 45/2022. (XII. 20.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^418]: A 111/A. § (3) bekezdése a 45/2022. (XII. 20.) BM rendelet 13. § b) pontja szerint módosított szöveg.
 [^419]: A 111/A. § (4) bekezdése az 52/2022. (XII. 27.) BM rendelet 3. §-a szerint módosított szöveg.
+[^420]: A 111/A. § (5) bekezdése a 23/2024. (V. 9.) BM rendelet 2. § b) pontja szerint módosított szöveg.
