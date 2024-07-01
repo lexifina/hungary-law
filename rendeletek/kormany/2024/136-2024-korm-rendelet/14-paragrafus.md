@@ -1,0 +1,1 @@
+14. § A 12. és 13. §-t azon személyek esetében is alkalmazni kell, akiknek szolgálati viszonyát szolgálati kötelmekkel összefüggő baleseti sérülés vagy szolgálati eredetű betegség következtében fennálló egészségkárosodás miatt szüntették meg, és részére a központi pénzügyi szervezet baleseti járadékot állapított meg.

@@ -1,0 +1,1 @@
+18. § A kiegészítő támogatásban részesülő köteles a központi pénzügyi szervezethez írásban bejelenteni a kiegészítő támogatás folyósítását érintő változásokat, azok bekövetkeztétől számított 15 napon belül.

@@ -1,0 +1,1 @@
+8. § A kiegészítő rokkantsági támogatás jogalap nélküli felvétele esetén az Mmtv. visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett rokkantsági támogatásból eredő követelést a támogatást megállapító szerv az Mmtv. szabályai alapján érvényesíti.

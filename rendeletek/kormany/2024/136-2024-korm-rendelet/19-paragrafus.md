@@ -1,0 +1,1 @@
+19. § A nyugdíjfolyósító szerv a megállapított özvegyi vagy szülői nyugdíj, valamint árvaellátás folyósításának megszüntetése esetén a központi pénzügyi szervezet egyidejű értesítése mellett intézkedik a kiegészítő támogatás folyósításának megszüntetéséről is.

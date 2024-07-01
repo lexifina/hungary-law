@@ -1,0 +1,1 @@
+21. § E rendelet hatálybalépésekor a már folyamatban lévő eljárásokra a kiegészítő rokkantsági támogatás, a kiegészítő hozzátartozói támogatás és az árvák kiegészítő támogatása megállapításának és folyósításának szabályairól szóló 6/2018. (III. 27.) HM rendelet 2024. június 30-án hatályos rendelkezéseit kell alkalmazni.
