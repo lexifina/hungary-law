@@ -18,7 +18,7 @@ ae) a Müpa Budapest – Művészetek Palotája Nonprofit Korlátolt Felelőssé
 
 af) a Honvéd Együttes Művészeti Nonprofit Korlátolt Felelősségű Társaság;
 
-b) alkotóművészet ágazatban a Petőfi Irodalmi Múzeum;
+b) alkotóművészet ágazatban a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
 
 c) közgyűjtemény és emlékezetpolitika ágazatban
 
@@ -26,7 +26,7 @@ ca) a Magyar Nemzeti Múzeum Közgyűjteményi Központ;
 
 cb) a Szépművészeti Múzeum;
 
-cc) az Országos Széchényi Könyvtár;
+cc)
 
 cd) a Magyar Nemzeti Levéltár;
 

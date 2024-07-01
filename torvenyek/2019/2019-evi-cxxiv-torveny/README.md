@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2019-124-00-00
 | 2021-05-28 | 2021. évi LVII. törvény | 2019-124-00-00.3 |
 | 2022-06-18 | 2022. évi VII. törvény | 2019-124-00-00.4 |
 | 2024-05-17 | 2024. évi XIII. törvény | 2019-124-00-00.5 |
+| 2024-07-01 | 2024. évi XIII. törvény | 2019-124-00-00.6 |
