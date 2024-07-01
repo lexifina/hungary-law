@@ -2,9 +2,13 @@
 
 (1a) A szerzői jogi jogszabályokkal való összhang vizsgálata során az igazságügyért felelős miniszter a szerzői jogi jogszabályok és a jóváhagyási eljáráshoz kapcsolódóan rendelkezésére álló iratok alapján dönt, külön bizonyítást nem végez.
 
-(2) A miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely a díjszabásban foglalt jogdíjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű jogdíjemelést tartalmaz, vagy ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
+(2) Az igazságügyért felelős miniszter csak a Kormány – általa kezdeményezett – döntése alapján hagy jóvá olyan díjszabást, amely
 
-(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik.
+a) a jogdíjak, illetve egyéb díjak tekintetében felhasználói csoportonként a Központi Statisztikai Hivatal által az előző naptári évre megállapított fogyasztói árindexet meghaladó mértékű emelést tartalmaz, illetve
+
+b) ugyanazon jogdíj tekintetében fizetésre kötelezett felhasználók körét bővíti.
+
+(2a) A (2) bekezdés alkalmazása esetén az igazságügyért felelős miniszter rendelkezésére álló ügyintézési határidő 30 nappal meghosszabbodik. A (2) bekezdés szerinti kormánydöntés kérése nem szükséges, ha az igazságügyért felelős miniszter álláspontja szerint a díjszabás nem áll összhangban a szerzői jogi jogszabályokkal.
 
 (3) Ha a benyújtott díjszabás olyan díjtétel emelését tartalmazza, amely a benyújtáskor hatályos díjszabásban foglaltakhoz képest korábban magasabb volt, akkor a (2) bekezdés alkalmazása során az emelés mértékének meghatározásakor a korábban irányadó legmagasabb díjtételt kell alapul venni, feltéve, hogy az azt megállapító díjszabás alkalmazási időszakának lejárta óta három év még nem telt el.
 
@@ -55,6 +59,8 @@ b) az SZTNH-val,
 c) a kultúráért felelős miniszterrel és – a nyilvános előadásra vonatkozó díjszabást illetően – a kereskedelemért, a turizmusért és a vendéglátásért felelős miniszterrel, valamint
 
 d) azokkal a jelentős felhasználókkal és felhasználói érdek-képviseleti szervezetekkel, amelyek a 151. §-a alapján a díjszabással összefüggésben véleményt nyújtottak be.
+
+(7a) A határozat közlése a (7) bekezdés a) pontja szerinti címzett tekintetében a határozat, a (7) bekezdés b)–d) pontja szerinti címzett tekintetében a határozat kiadmányának kézbesítésével történik. A kiadmányon fel kell tüntetni a kiadmányozó megnevezését, az ügyszámot, az igazságügyért felelős miniszter nevét, az „s. k.,” toldattal, az eredeti keltezést, továbbá azt el kell látni az igazságügyért felelős miniszter körbélyegzőjének lenyomatával.
 
 (8) Az igazságügyért felelős miniszter határozata ellen fellebbezésnek helye nincs, az a közléssel emelkedik jogerőre.
 

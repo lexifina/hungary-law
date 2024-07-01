@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-93-00-00
 | 2021-06-01 | 2021. évi XXXVII. törvény | 2016-93-00-00.9 |
 | 2023-01-01 | 2022. évi LV. törvény | 2016-93-00-00.10 |
 | 2023-07-01 | 2023. évi XXXI. törvény | 2016-93-00-00.11 |
+| 2024-07-01 | 2024. évi XVII. törvény | 2016-93-00-00.12 |

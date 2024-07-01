@@ -1,4 +1,4 @@
-151. § (1) Az SZTNH a díjszabás jóváhagyására irányuló eljárás véleményezési szakaszában bármely felhasználótól és felhasználói érdek-képviseleti szervezettől véleményt kérhet.
+151. § (1) Az SZTNH a díjszabás jóváhagyására irányuló eljárás véleményezési szakaszában bármely felhasználótól és felhasználói érdek-képviseleti szervezettől – saját vagy a felhasználó, illetve a felhasználói érdek-képviseleti szervezet kezdeményezésére – véleményt kérhet.
 
 (2) Az SZTNH attól a jelentős felhasználótól és felhasználói érdek-képviseleti szervezettől köteles véleményt kérni, aki vagy amely véleményezési szándékát az SZTNH-nak az adott évben az SZTNH honlapján a díjszabás benyújtását követően haladéktalanul e célból közzétett felhívása alapján, a felhívás közzétételétől számított tizenöt napon belül írásban bejelenti, és egyidejűleg benyújtja a (3) vagy a (4) bekezdés szerinti nyilatkozatot, valamint – felhasználói érdek-képviseleti szerv esetén – hatályos létesítő okiratát.
 
@@ -10,7 +10,9 @@
 
 (6) Ha az SZTNH több reprezentatív közös jogkezelő szervezet részére adott engedélyt, a később engedélyt szerző reprezentatív közös jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyására irányuló eljárásban jelentős felhasználónak és felhasználói érdek-képviseleti szervezetnek a korábban engedélyt szerzett reprezentatív közös jogkezelő szervezet által az előző évben alkalmazott díjszabás tekintetében jelentősnek minősített felhasználókat és felhasználói érdek-képviseleti szervezeteket kell tekinteni. Az újabb jogkezelő szervezet díjszabásának első alkalommal történő jóváhagyásával kapcsolatos eljárásban nem kell csatolni a (3) vagy (4) bekezdés szerinti nyilatkozatot.
 
-(7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, aki vagy amely valószínűsíti, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.
+(7) Ha a bejelentés évét megelőző naptári évben nem volt olyan díjszabás, amely alapján a felhasználók a jóváhagyási eljárás céljából benyújtott díjszabás szerinti jogdíjat fizettek volna, jelentős felhasználónak és felhasználói érdekképviseleti szervezetnek kell tekinteni azt a személyt vagy szervezetet is, akiről vagy amelyről valószínűsíthető, hogy a benyújtott új díjszabás tekintetében a (3), illetve (4) bekezdésben foglalt feltételeket az új díjszabás alkalmazási időszaka alatt teljesítené.
+
+(7a) Ha a közös jogkezelő szervezet egy korábban már jóváhagyott díjszabását egy vagyoni jog gyakorlása körében az 57. § (1a) bekezdése alapján felhasználói csoportok szerint megbontja, akkor a megbontott díjszabások tekintetében minden olyan, a (3) bekezdés szerinti jelentős felhasználó illetve a (4) bekezdés szerinti felhasználói érdek-képviseleti szervezet jogosult véleményezésre, aki vagy amely a korábban egységes szerkezetben jóváhagyott díjszabást véleményezte.
 
 (8) Az SZTNH a 150. § (1) bekezdése, illetve az (1) és (2) bekezdés szerinti véleménykéréssel egyidejűleg megküldi a véleményező részére
 
@@ -20,7 +22,7 @@ b) a díjszabás indokolását,
 
 c) a 148. § (2) bekezdés a) pontja szerinti hatásvizsgálatot, illetve
 
-d) a 148. § (9) bekezdése szerinti felmérést.
+d) a 148. § (10) bekezdése szerinti felmérést.
 
 (9) Az SZTNH elnöke a véleményezési szakaszt legfeljebb három hónapra felfüggeszti
 
@@ -42,4 +44,4 @@ a) hat hónapnál nem lehet kevesebb, és
 
 b) a díjszabás kezdő napja naptári évének utolsó napjáig tart.
 
-(12) A véleményezési eljárásra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.
+(12) A véleményezési szakaszra nyitva álló határidőbe nem számít bele a felfüggesztés időtartama.
