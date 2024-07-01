@@ -1,0 +1,3 @@
+16/I. § (1) A 12/C. § (2)–(3) bekezdésében foglaltak megsértése esetén a Hatóság Elnöke jár el az Iszt. 7/A. alcímében foglalt eljárási szabályok szerint.
+
+(2) A 12/C. § (4)–(5) bekezdésében foglaltak megsértése esetén a Gazdasági Versenyhivatal jár el versenyfelügyeleti eljárásban a tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény (a továbbiakban: Tpvt.) 21. §-ának megsértése esetén irányadó rendelkezések szerint azzal, hogy a 12/C. § (4)–(5) bekezdése szerinti jogsértésre vonatkozóan a Tpvt. IX. Fejezete szerinti bejelentésre vonatkozó szabályok nem alkalmazandóak.

@@ -50,6 +50,8 @@ d) online keresőprogram-szolgáltató: DSA rendelet 3. cikk j) pontja szerinti 
 
 17. Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
 
+17a. Online szálláshely-közvetítő: olyan vállalkozás, amely a szálláshely-szolgáltatók és a fogyasztók részére online nyújt kereskedelmi szolgáltatást azzal a céllal, hogy a szálláshely-szolgáltatók által nyújtott kínálatot a fogyasztók által támasztott szálláshely-kereslettel összekapcsolja, ami biztosítja a szálláshely-közvetítői tevékenység során az információnyújtás mellett a szálláshely-szolgáltatások értékesítését;
+
 18. Szabályozott szakma: a külföldi bizonyítványok és oklevelek elismeréséről szóló törvényben meghatározott szakma;
 
 19. Szabályozott terület: az információs társadalommal összefüggő szolgáltatásokra és a szolgáltatókra jogszabályban meghatározott általános vagy különös követelmények, amelyek Magyarország területén üzletszerű gazdasági tevékenység megkezdéséhez vagy folytatásához szükségesek;
