@@ -1,12 +1,12 @@
 20. § Hatályát veszti a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-a)
+a) 7. § (2) bekezdése,
 
-b)
+b) 8/A. § m) pontja,
 
-c)
+c) 9. § (2a) bekezdése,
 
-d)
+d) 24/P. §-a,
 
 e)
 
@@ -20,11 +20,11 @@ i)
 
 j)
 
-k)
+k) „Digitális állampolgárság előregisztráció” alcím címe,
 
-l)
+l) 29/K. §-a,
 
-m)
+m) 47. § (1c) bekezdése,
 
 n)
 

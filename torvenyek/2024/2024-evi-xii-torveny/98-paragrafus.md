@@ -4,4 +4,6 @@ a)
 
 b)
 
-c)
+c) 75/B. § (1) bekezdés nyitó szövegrészében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól” szöveg
+
+lép.
