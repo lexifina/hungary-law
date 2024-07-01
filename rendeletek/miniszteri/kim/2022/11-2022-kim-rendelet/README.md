@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-11-20-8
 | --- | --- | --- |
 | 2023-01-01 | 2022-11-20-8O.1 | 11/2022. (XII. 29.) KIM rendelet |
 | 2023-01-02 | 2022-11-20-8O.2 | 2010. évi CXXX. törvény |
+| 2024-07-01 | 2022-11-20-8O.3 | 28/2024. (VI. 11.) KIM rendelet |
