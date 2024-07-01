@@ -1,0 +1,1 @@
+1. § A múzeum, valamint az országos szakkönyvtár és a megyei könyvtár éves munkatervéhez szükséges szakmai mutatókról szóló 51/2014. (XII. 10.) EMMI rendelet 2. § (3) bekezdés a) pontjában a „6. alpontját,” szövegrész helyébe a „6. alpontját, és” szöveg lép.
