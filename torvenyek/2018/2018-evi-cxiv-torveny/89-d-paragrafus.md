@@ -60,9 +60,9 @@ esetén járó további díjakat, azok feltételeit és mértékét.
 
 a) a helyettesített egészségügyi honvédelmi alkalmazott illetményének legfeljebb 50%-a,
 
-b) a Hjt. 237/L. § (1) bekezdése szerinti egészségügyi munkakörű katona helyettesítése esetén a helyettesített Hjt. 237/L. § (10) bekezdés a) pontja szerinti alapilletményének legfeljebb 50%-a,
+b) az (1) bekezdés szerinti munkakörben foglalkoztatott egészségügyi munkakörű katona helyettesítése esetén a helyettesített katona illetményének legfeljebb 50%-a
 
-c) a Hjt. 237/L. § (1) bekezdés hatálya alá nem tartozó egészségügyi munkakörű katona helyettesítése esetén a Hjt. 123. §-a szerinti alapilletményének legfeljebb 50%-a
+c) azon egészségügyi munkakörű katona helyettesítése esetén, aki nem az (1) bekezdés szerinti munkakört tölt be, az alapilletményének legfeljebb 50%-a
 
 állapítható meg. E bekezdés szerinti esetekre nem alkalmazható a 20. § (1) bekezdése.
 

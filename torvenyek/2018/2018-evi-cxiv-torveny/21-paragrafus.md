@@ -64,6 +64,6 @@ b) a 12. § (1) bekezdés a) pontjában, (2) és (3) bekezdésében meghatározo
 
 (5) Különleges jogrend kihirdetése esetén a honvédelmi alkalmazott nem gyakorolhatja a (2) bekezdés c) és d) pontjában foglalt megszüntetési okokat.
 
-(6) Az e törvény hatálya alá tartozó munkáltatók között az áthelyezés háromoldalú megállapodással történik.
+(6)
 
-(7) A (6) bekezdés szerinti megállapodással történő áthelyezés esetén a honvédelmi alkalmazotti jogviszonyt folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.
+(7)

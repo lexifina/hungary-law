@@ -24,7 +24,7 @@ d) vezető: a c) pontban foglaltakat kivéve a honvédelmi egészségügyi szolg
 
 (5) Az egészségügyi honvédelmi alkalmazott honvédelmi alkalmazotti jogviszonya 21. § (2) bekezdés b) pontja szerinti áthelyezéssel megszüntethető az e törvény és az Eszjtv. hatálya alá tartozó munkáltatók között.
 
-(6) A 3. § (4) bekezdése nem alkalmazható a honvédelmi egészségügyi szolgáltatónál foglalkoztatott, a 3. § (2) bekezdése szerinti többletkötelezettséget nem vállalt honvédelmi alkalmazottra.
+(6)
 
 (7) A 6. § (1) bekezdésétől eltérően a munkáltatói jogkörök gyakorlására jogosultak körét és hatáskörüket a honvédelmi egészségügyi szolgáltató szervezeti és működési szabályzata is meghatározhatja.
 

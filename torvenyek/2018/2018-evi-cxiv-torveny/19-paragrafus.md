@@ -18,9 +18,13 @@ b) elmaradt rendes szabadság esetén annak (4) bekezdés szerinti kiadását k�
 
 hatályos.
 
-(6) Az (5) bekezdés szerinti időponttól a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatásra e törvény erejénél fogva az időarányosság elve alkalmazandó, ha a juttatásra való jogosultság a munkaidő mértékével összefügg.
+(6) Az (5) bekezdés szerinti időponttól a honvédelmi alkalmazott részére a munkaidő csökkenésével megegyező arányban jár
 
-(7) A kötelező részmunkaidős foglalkoztatás a honvédelmi alkalmazott kérelme szerinti időpontig, de legfeljebb a gyermek négyéves – fogyatékos gyermek esetén tizennégy éves – koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek hatéves – fogyatékos gyermek esetén tizennyolc éves – koráig tart. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani.
+a) az alapilletmény, a rendszeres illetménypótlék és a honvédelmi illetménykiegészítés, továbbá
+
+b) a honvédelmi alkalmazotti jogviszony alapján közvetlenül vagy közvetve nyújtott pénzbeli vagy természetbeni juttatás, ha a rá való jogosultság a munkaidő mértékével összefügg.
+
+(7) A kötelező részmunkaidős foglalkoztatás a honvédelmi alkalmazott kérelme szerinti időpontig, de legfeljebb a gyermek négyéves – fogyatékos gyermek esetén tizennégy éves – koráig, három vagy több gyermeket nevelő honvédelmi alkalmazott esetén a gyermek hatéves – fogyatékos gyermek esetén tizennyolc éves – koráig tart. Ezt követően a honvédelmi alkalmazott munkaidejét a kérelem benyújtása előtti mérték szerint kell megállapítani, a (6) bekezdés szerinti járandóságok pedig részére a munkaidő növekedésével megegyező arányban járnak.
 
 (8) A (7) bekezdés alkalmazásában fogyatékos gyermek a 18. életévét be nem töltött, a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § a) pontja szerinti fogyatékos személy.
 

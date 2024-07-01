@@ -2,7 +2,7 @@
 
 (1a) A honvédelmi alkalmazott részére
 
-a) a tárgyévre jóváhagyott külön keret terhére megállapítható,
+a)
 
 b) miniszteri döntésen alapuló,
 

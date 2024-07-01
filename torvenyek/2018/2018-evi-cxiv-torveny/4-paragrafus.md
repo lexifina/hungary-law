@@ -4,7 +4,7 @@
 
 (3) A honvédelmi alkalmazotti jogviszony tekintetében az Mt. 12. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a munkaerő-piaci viszonyokat nem kell figyelembe venni.
 
-(4) Az Mt. 13. §-a, 198–207. §, 213. §-a és 228. §-a a honvédelmi alkalmazotti jogviszony tekintetében nem alkalmazható.
+(4) Az Mt. 13. §-a, 198–213. §-a és 228. §-a a honvédelmi alkalmazotti jogviszony tekintetében nem alkalmazható.
 
 (5) E törvény alkalmazásában munkaviszonyra vonatkozó szabály a jogszabály és az Mt. 293. §-ban foglaltak szerint kötelező határozat.
 

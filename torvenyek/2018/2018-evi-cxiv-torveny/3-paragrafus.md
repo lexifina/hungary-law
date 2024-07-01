@@ -4,6 +4,6 @@
 
 (3) A (2) bekezdés szerinti többletkötelezettség vállalását miniszteri rendelet szerint ellentételezni kell.
 
-(4) A honvédelmi alkalmazott önkéntes tartalékos jogviszonyt nem létesíthet.
+(4) A honvédelmi alkalmazott önkéntes tartalékos szolgálati viszonyt létesíthet. Az önkéntes tartalékos szolgálati viszony fennállása alatt a (2) bekezdésben meghatározott többletkötelezettség nem vállalható. Ha a honvédelmi alkalmazott az önkéntes tartalékos szolgálati viszony létesítését megelőzően a (2) bekezdésben meghatározott többletkötelezettséget vállalt, erre irányuló nyilatkozata az önkéntes tartalékos állományba vétel napját megelőző napon a hatályát veszti.
 
-(5) A honvédek jogállásról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 117. § (3) bekezdése alapján illetmény nélküli szabadságon lévő, ez idő alatt a Hvt. 70. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.
+(5) A honvédek jogállási kérdéseit szabályozó jogszabály szerint a házastárs vagy élettárs tartós külföldi kiküldetése időtartamára vagy a kérelemre méltányolható egyéni indokból engedélyezett illetmény nélküli szolgálatmentességen lévő, ez idő alatt a Hvt. 70. § (4) bekezdése szerint honvédelmi alkalmazotti jogviszonyt létesítő hivatásos vagy szerződéses katona a (2) bekezdésben meghatározott többletkötelezettséget nem vállalhat.

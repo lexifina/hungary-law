@@ -8,7 +8,7 @@ b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó 
 
 c) a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, valamint 2010. július 6. és 2012. február 29. között a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó szervnél munkaviszonyban, kormánytisztviselői jogviszonyban, valamint ösztöndíjas foglalkoztatási jogviszonyban,
 
-d) a Hjt. szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban,
+d) a honvédek jogállásáról szóló kormányrendelet (továbbiakban: Hjkr.) szerinti szolgálati viszonyban töltött időt, kivéve az önkéntes tartalékos szolgálati viszony rendelkezésre állási időszakát, valamint a tisztjelölti és altisztjelölti szolgálati viszonyban,
 
 e) a d) ponttól eltérő szolgálati jogviszonyban,
 
@@ -50,6 +50,10 @@ eltöltött időt.
 
 (4) Ha a honvédelmi alkalmazotti jogviszonyban töltött idő megállapításakor azonos időtartamra több jogviszony vehető figyelembe, közülük erre az időre csak egy jogviszony számítható be.
 
-(5) Ha a honvédelmi alkalmazott a honvédelmi alkalmazotti jogviszonya megszűnését vagy megszüntetését követő 30 napon belül újabb honvédelmi alkalmazotti jogviszonyt létesít, honvédelmi alkalmazotti jogviszonyát folyamatosnak kell tekinteni.
+(5) A honvédelmi alkalmazott jogviszonyát folyamatosnak kell tekinteni
 
-(6) Ha a honvédelmi alkalmazotti jogviszonyt létesítő személy a honvédelmi alkalmazotti jogviszony létesítését közvetlenül megelőzően a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban állt, és e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül létesít honvédelmi alkalmazotti jogviszonyt, jogviszonyát folyamatosnak kell tekinteni. Ebben az esetben próbaidő nem köthető ki.
+a) bármely jogviszonyból történt áthelyezése esetén, vagy
+
+b) ha honvédelmi alkalmazotti jogviszonyban, a kormányzati igazgatásról szóló törvény szerinti kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban, munkaviszonyban vagy ösztöndíjas foglalkoztatási jogviszonyban állt, és az e jogviszonyának megszűnését vagy megszüntetését követő 30 napon belül munkavégzésre irányuló első jogviszonyként honvédelmi alkalmazotti jogviszonyt létesített.
+
+(6)

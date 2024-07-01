@@ -20,7 +20,7 @@ g) ha öregségi nyugdíjra jogosult,
 
 kivéve, ha hozzájárul a kirendeléséhez.
 
-(4) Ha a tizenhat évnél fiatalabb gyermek mindkét szülője egészségügyi honvédelmi alkalmazott, illetve a Hjt. szerinti egészségügyi munkakörű katona, akkor csak az egyik szülő rendelhető ki a (2) és (3) bekezdésben foglaltak figyelembevételével.
+(4) Ha a tizenhat évnél fiatalabb gyermek mindkét szülője egészségügyi honvédelmi alkalmazott, illetve a Hjkr. szerinti egészségügyi munkakörű katona, akkor csak az egyik szülő rendelhető ki a (2) és (3) bekezdésben foglaltak figyelembevételével.
 
 (5) Az egészségügyi honvédelmi alkalmazottat legalább tíz munkanappal korábban írásban tájékoztatni szükséges
 
