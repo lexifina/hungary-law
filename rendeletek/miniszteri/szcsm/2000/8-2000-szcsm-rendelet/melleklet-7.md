@@ -1,4 +1,4 @@
-7. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^26]
+7. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^31]
 
 Adatlap a személyes gondoskodást végző személyek adatainak a működési nyilvántartásból való törléséhez
 
@@ -34,4 +34,4 @@ Dátum: ..................................
 
 |  | a bejelentésre kötelezett aláírása |
 
-[^26]: A 7. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának d) pontjával megállapított, a 83/2013. (XII. 29.) EMMI rendelet 23. § b) pontja szerint módosított szöveg.
+[^31]: A 7. számú melléklet a 16/2003. (IV. 9.) ESZCSM rendelet 19. §-ának d) pontjával megállapított, a 83/2013. (XII. 29.) EMMI rendelet 23. § b) pontja szerint módosított szöveg.

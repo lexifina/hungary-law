@@ -1,5 +1,3 @@
-## Adatlap a személyes gondoskodást végző személyek továbbképzési, illetve vezetőképzési kötelezettsége teljesítésének bejelentéséhez
-
 ## Nyilvántartási szám: ______________
 
 ## Munkáltató kódja: _______________
@@ -14,29 +12,7 @@
 
 ## 4. Anyja neve:
 
-## II. Továbbképzési kötelezettség teljesítése
-
-## 1. A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet alapján a szociális és gyermekvédelmi területen minősített továbbképzések:
-
-|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzés formája (kötelező, munkakörhöz kötött, választható) | A továbbképzést szervező megnevezése/neve, címe | A továbbképzési pontérték megszerzésének időpontja | Megszerzett pontérték |
-
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
-
-## 2. Külön jogszabály által előírt továbbképzések teljesítése
-
-## 2.1. Az egészségügyi szakdolgozók továbbképzésének szabályairól szóló 63/2011. (XI. 29.) NEFMI rendelet alapján egészségügyi továbbképzésként nyilvántartásba vett képzések:
-
-|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
-
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
-
-## 2.2. A pedagógus-továbbképzésről, a pedagógus-szakvizsgáról, valamint a továbbképzésben részt vevők juttatásairól és kedvezményeiről szóló 277/1997. (XII. 22.) Korm. rendelet alapján pedagógus-továbbképzésként akkreditált képzések:
-
-|  | A továbbképzés engedélyszáma | A továbbképzés megnevezése, címe | A továbbképzést szervező intézmény neve, címe | A továbbképzési pont megszerzésének időpontja | Megszerzett pontérték |
-
-## (A továbbképzési kötelezettség teljesítését igazoló dokumentumok másolatát kérjük csatolni!)
-
-## III. Vezetőképzési kötelezettség teljesítése:
+## II. Vezetőképzési kötelezettség teljesítése:
 
 ## 1. A képzés szintje, szakasza:
 
@@ -66,6 +42,6 @@
 
 ## a bejelentésre kötelezett aláírása
 
-5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^24]
+5. számú melléklet a 8/2000. (VIII. 4.) SZCSM rendelethez[^29]
 
-[^24]: Az 5. számú mellékletet a 2/2021. (I. 18.) EMMI rendelet 4. § c) pontja hatályon kívül helyezte.
+[^29]: Az 5. számú mellékletet a 2/2021. (I. 18.) EMMI rendelet 4. § c) pontja hatályon kívül helyezte.

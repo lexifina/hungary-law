@@ -1,35 +1,17 @@
-7. §[^14] (1)[^15] A nyilvántartó igazolást állít ki
+7. §[^17] (1)[^18] A nyilvántartó igazolást állít ki a működési nyilvántartásba vételről.
 
-a) a működési nyilvántartásba vételről,
-
-b) a továbbképzési, vezetőképzési kötelezettség jellegének változása esetén annak működési nyilvántartásba vételéről, továbbá
-
-c) új továbbképzési, képzési időszak kezdetekor, ha a továbbképzésre kötelezett a továbbképzési, illetve a vezetőképzésre kötelezett a vezetőképzési kötelezettségének eleget tett, és a működési nyilvántartásból való törlésre okot adó körülmény nem merült fel.
-
-(2) A nyilvántartásba vételről szóló igazolás
-
-a) a nyilvántartásba vett személyre irányadó továbbképzési vagy képzési időszak végéig,
-
-b) a továbbképzési, vezetőképzési kötelezettség jellege változásának időpontjáig vagy
-
-c) – a vezetőképzésre nem kötelezett és a továbbképzési kötelezettség alól a reá irányadó öregségi nyugdíjkorhatárra vagy a nevelőszülő-képesítés megszerzése alóli mentességre tekintettel mentesülő személy esetén – a munkaviszony, a nevelőszülői foglalkoztatási jogviszony vagy a személyes gondoskodást nyújtó tevékenység megszűnéséig
-
-érvényes.
+(2)[^19] A nyilvántartásba vételről szóló igazolás a működési nyilvántartásból való törlésig érvényes.
 
 (3) A nyilvántartó az igazolást a munkáltatónak, önbejelentés esetén a nyilvántartásba vett személynek küldi meg. A munkáltató az igazolást a munkavállaló részére köteles átadni.
 
-(4)[^16] Ha a nyilvántartásba vétel munkáltatói bejelentés alapján történt, a nyilvántartó a nyilvántartásba vételről visszaigazolást küld a munkáltatónak.
+(4)[^20] Ha a nyilvántartásba vétel munkáltatói bejelentés alapján történt, a nyilvántartó a nyilvántartásba vételről visszaigazolást küld a munkáltatónak.
 
-(5) A működési nyilvántartásba vett személy a nyilvántartásba vételről szóló igazolást
-
-a) az (1) bekezdés b) vagy c) pontja szerinti új igazolás kiállításáig, vagy
-
-b) – ha a személyes gondoskodást végző személyek továbbképzéséről szóló miniszteri rendelet alapján a továbbképzési kötelezettség alól a reá irányadó öregségi nyugdíjkorhatárra vagy a nevelőszülő-képesítés megszerzése alóli mentességre tekintettel mentesül, és a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló miniszteri rendelet alapján vezetőképzésre nem kötelezett – a munkaviszonyának, nevelőszülői foglalkoztatási jogviszonyának, vagy önbejelentésre kötelezett személy esetén a személyes gondoskodást nyújtó tevékenységének megszűnéséig
-
-köteles megőrizni.
+(5)[^21]
 
 (6) Ha a munkavállaló nem tett eleget a továbbképzési kötelezettségének, a nyilvántartó erről értesíti a munkáltatót.
 
-[^14]: A 7. § a 25/2017. (X. 18.) EMMI rendelet 22. § (4) bekezdésével megállapított szöveg.
-[^15]: A 7. § (1) bekezdés nyitó szövegrésze a 2/2021. (I. 18.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.
-[^16]: A 7. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^17]: A 7. § a 25/2017. (X. 18.) EMMI rendelet 22. § (4) bekezdésével megállapított szöveg.
+[^18]: A 7. § (1) bekezdése a 23/2024. (V. 9.) BM rendelet 5. §-ával megállapított szöveg.
+[^19]: A 7. § (2) bekezdése a 23/2024. (V. 9.) BM rendelet 5. §-ával megállapított szöveg.
+[^20]: A 7. § (4) bekezdése a 2/2021. (I. 18.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.
+[^21]: A 7. § (5) bekezdését a 23/2024. (V. 9.) BM rendelet 8. § b) pontja hatályon kívül helyezte.
