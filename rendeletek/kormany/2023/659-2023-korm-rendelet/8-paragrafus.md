@@ -1,3 +1,3 @@
-8. §[^8]
+8. § A 217/1997 (XII. 1.) Korm. rendelet 14. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^8]: A 8. § a 63. § (5) bekezdés alapján 2024. július 1-jén lép hatályba.
+„(5) A 24–25. § szerinti szerződéseket a NEAK a szolgáltató székhelye szerint köti meg.”
