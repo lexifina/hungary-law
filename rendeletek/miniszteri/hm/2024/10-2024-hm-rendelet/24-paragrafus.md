@@ -1,0 +1,5 @@
+24. § (1) Az EKÁR keresetkiegészítés megszüntetésére okot adó körülményről – a 21. § és a 22. § szerinti esetet kivéve – a foglalkoztató vezetője tájékoztatja a központi pénzügyi szervezetet az erre vonatkozó rendelkezésére álló hivatalos iratok megküldésével, legkésőbb a körülmény bekövetkezésétől vagy az arról való tudomásszerzéstől számított 15 napon belül. Az EKÁR járadékra jogosult közvetlenül a központi pénzügyi szervezetet tájékoztatja az EKÁR járadék megszüntetésére okot adó körülményről, legkésőbb a körülmény bekövetkezésétől számított 15 napon belül.
+
+(2) A központi pénzügyi szervezet az (1) bekezdés szerinti körülményeket megvizsgálja, és az (1) bekezdés szerinti tájékoztatást követő 30 napon belül határozatot hoz a honvédelmi egészségkárosodási ellátás megszüntetéséről, ha a rendelkezésre álló adatokból megállapítható, hogy a 23. § (1) és (2) bekezdése alapján a honvédelmi egészségkárosodási ellátás megszüntetésének van helye.
+
+(3) A (2) bekezdés szerinti határozat tartalma és közlése tekintetében a 13. § (3)–(5) bekezdése megfelelően alkalmazandó.
