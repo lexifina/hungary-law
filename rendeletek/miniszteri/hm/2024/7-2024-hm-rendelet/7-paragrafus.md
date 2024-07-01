@@ -1,0 +1,1 @@
+7. § A rekreációs szolgáltatásokat koordináló honvédségi szervezet, valamint a regenerálódást és kiképzést végző honvédségi szervezet által nyújtott rekreációs szolgáltatást, hétközi, vagy hétvégi pihenést igénybe vevő igényjogosult térítés ellenében jogosult az étkezésfeljavítási normával kiegészített alapnorma szerint élelmezési ellátásra.

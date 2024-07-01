@@ -1,0 +1,1 @@
+12. § Tankonyhai étkezési normára jogosult az egyéni tankonyhai főzésen résztvevő honvéd tisztjelölt, valamint a személyi állomány MH szintű, nemzeti vagy nemzetközi szakácsversenyen résztvevő tagja, a felkészülés és a verseny napjain elkészített adagszám után, az élelmezési anyagnemért felelős vezető engedélye alapján.
