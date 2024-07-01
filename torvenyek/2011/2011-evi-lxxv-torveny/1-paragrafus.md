@@ -48,7 +48,7 @@ e) a központi államigazgatási szervekről, valamint a Kormány tagjai és az 
 
 f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
 
-g) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
+g) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos és szerződéses állomány tagja,
 
 h) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
 
