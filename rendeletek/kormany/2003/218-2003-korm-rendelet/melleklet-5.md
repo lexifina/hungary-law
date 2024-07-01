@@ -126,7 +126,7 @@
 
 ## – Üzbegisztán
 
-5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^67]
+5. számú melléklet a 218/2003. (XII. 11.) Korm. rendelethez[^68]
 
 Kérelem a 2/A. §-ban meghatározott – mozgásában korlátozott személyeket ellátó – intézmény
 
@@ -188,4 +188,4 @@ Kijelentem, hogy az igazolványt e rendelet 8. §-ában foglalt kötelezettsége
 
 | dátum | kérelmező cégszerű aláírása |
 
-[^67]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^68]: Az 5. számú mellékletet a 204/2013. (VI. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be.

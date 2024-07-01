@@ -16,7 +16,7 @@ d) a szociális igazgatásról és szociális ellátásokról szóló törvényb
 
 da) a 2. § d) pontjában meghatározott személyt ellátó fogyatékos személyek otthona, és
 
-db) támogató szolgáltatást nyújtó szociális szolgáltató
+db)[^6] támogató szolgáltatást vagy falugondnoki, tanyagondnoki szolgáltatást nyújtó szociális szolgáltató
 
 [a továbbiakban az a)–d) pont együtt: intézmény].
 
@@ -27,3 +27,4 @@ db) támogató szolgáltatást nyújtó szociális szolgáltató
 (4) Az intézményi igazolvánnyal kapcsolatos eljárás során a 3–12. §-ban meghatározottakat a 12/A. §-ban meghatározott eltéréssel kell alkalmazni.
 
 [^5]: A 2/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 1. §-a iktatta be.
+[^6]: A 2/A. § (1) bekezdés d) pont db) alpontja a 104/2024. (V. 9.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
