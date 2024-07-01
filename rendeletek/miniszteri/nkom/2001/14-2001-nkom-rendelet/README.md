@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-14-20-8
 | 2017-12-20 | 2001-14-20-86.9 | 35/2017. (XII. 19.) EMMI rendelet |
 | 2018-01-01 | 2001-14-20-86.10 | 35/2017. (XII. 19.) EMMI rendelet |
 | 2023-01-01 | 2001-14-20-86.11 | 35/2017. (XII. 19.) EMMI rendelet |
+| 2024-07-01 | 2001-14-20-86.12 | 7/2024. (VI. 11.) KIM rendelet |
