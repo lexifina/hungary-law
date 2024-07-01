@@ -12,7 +12,7 @@ d) a jogosultsági feltételekre és az azokban bekövetkezett változásokra vo
 
 e) a fogyatékossági támogatás megállapítására, megváltoztatására és megszüntetésére vonatkozó döntést;
 
-f) a felülvizsgálat időpontját;
+f) a nem végleges állapotú személyek estében a felülvizsgálat időpontját,
 
 g) a jogosult Társadalombiztosítási Azonosító Jelét (TAJ szám).
 
