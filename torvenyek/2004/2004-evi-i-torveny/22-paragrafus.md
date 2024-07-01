@@ -12,7 +12,7 @@ e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az 
 
 f) képviselni a sportág érdekeit az állami szervek, a sportköztestületek, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
 
-g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
+g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését − ideértve a gyermekekkel való bánásmóddal, a gyermekekkel és a szülőkkel való kommunikációval kapcsolatos továbbképzést is −,
 
 h) meghatározni a sportág utánpótlás-fejlesztési koncepcióját és gondoskodni annak végrehajtásáról,
 

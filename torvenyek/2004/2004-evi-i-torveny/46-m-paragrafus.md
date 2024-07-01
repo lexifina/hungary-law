@@ -61,3 +61,5 @@ fb) elszámol a 46/R. § (1) bekezdésében meghatározott állami sportcélú t
 a) a Nemzetközi Egyetemi Sportszövetség (a továbbiakban: FISU) által kizárólagos nemzeti egyetemi sportszövetségként elismert Magyar Egyetemi – Főiskolai Sportszövetségen (a továbbiakban: MEFS) keresztül részt vesz a nemzetközi egyetemi sportszervezetek tevékenységében, szervezi a FISU egyetemi világjátékain (Universiade) és egyetemi világbajnokságain, valamint az Európai Egyetemi Sportszövetség (a továbbiakban: EUSA) európai egyetemi játékain és európai egyetemek bajnokságain való magyar részvételt és az arra való felkészülés szakmai feladatait,
 
 b) a MEFS-en keresztül, az érintett sportszövetségekkel együttműködve szervezi a FISU és az EUSA hazai eseményeit, továbbá a Magyar Egyetemi – Főiskolai Országos Bajnokságokat.
+
+(8) Az NDHSZ a sportszövetségekkel együttműködve előmozdítja a gyermekotthonokban élő gyermekek, illetve a hátrányos helyzetű gyermekek sportolását, sporteseményen való részvételét, egészséges életmódra nevelését.

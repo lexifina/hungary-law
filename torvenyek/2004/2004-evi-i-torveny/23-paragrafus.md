@@ -14,7 +14,7 @@ f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcé
 
 g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat,
 
-h) etikai és gyermekvédelmi szabályzat,
+h) etikai és gyermekvédelmi szabályzat, amelyben meghatározhat olyan sportszakmai tevékenységi köröket, amelyeknek tizennyolcadik életévét be nem töltött sportolóval összefüggő végzése során a 11/A. § (5)–(11) bekezdése alkalmazandó,
 
 i) sportegészségügyi szabályzat, amely tartalmazza különösen a sportsérülések megelőzésére, a sportegészségügyi ellátás biztosítására és a sportbiztosításra vonatkozó sportági előírásokat is.
 
