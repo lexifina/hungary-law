@@ -8,4 +8,7 @@
 
 (4) Az építési tevékenységgel érintett, a hatásterületen élő – a (3) bekezdés hatálya alá nem tartozó – ügyfeleket hirdetményi úton kell értesíteni a vasúti közlekedési hatóság döntéseiről.
 
+(5)[^8] A végleges határozatot közölni kell a bányafelügyelettel, ha az engedélyezett építési tevékenység során 500 m3-t meghaladó ásványi nyersanyagot termelnek ki.
+
 [^7]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 408. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: Az 5. § (5) bekezdését a 141/2024. (VI. 28.) Korm. rendelet 16. §-a iktatta be.

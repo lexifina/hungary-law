@@ -1,4 +1,4 @@
-## 8/D. §[^19] Ha van hatályos vasúti műszaki előírás az engedélykérelem tárgyát képező műszaki megoldásra vonatkozóan, a vasúti közlekedési hatóság az ügyfél kérelmére az Országos Vasúti Szabályzatot a vasúti műszaki előírásban foglalt eltérésekkel alkalmazza.
+## 8/D. §[^20] Ha van hatályos vasúti műszaki előírás az engedélykérelem tárgyát képező műszaki megoldásra vonatkozóan, a vasúti közlekedési hatóság az ügyfél kérelmére az Országos Vasúti Szabályzatot a vasúti műszaki előírásban foglalt eltérésekkel alkalmazza.
 
 ## 2. Feltétfüzet alkalmazási engedély
 
@@ -6,4 +6,4 @@
 
 (2) A feltétfüzet alkalmazását a vasúti közlekedési hatóság engedélyezi.
 
-[^19]: A 8/D. §-t a 67/2022. (II. 28.) Korm. rendelet 7. §-a iktatta be.
+[^20]: A 8/D. §-t a 67/2022. (II. 28.) Korm. rendelet 7. §-a iktatta be.

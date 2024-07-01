@@ -6,6 +6,6 @@ b) a 1. mellékletben előírt dokumentumok rendelkezésre állnak-e,
 
 c) a kérelem és mellékletei megfelelnek-e a jogszabályokban előírt szakmai, műszaki és tartalmi követelményeknek,
 
-d)[^22]
+d)[^23]
 
-[^22]: A 12. § d) pontját a 415/2020. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, a 217/2023. (VI. 1.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^23]: A 12. § d) pontját a 415/2020. (VIII. 30.) Korm. rendelet 6. §-a iktatta be, a 217/2023. (VI. 1.) Korm. rendelet 7. §-a hatályon kívül helyezte.

@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-289-20-
 | 2022-01-01 | 2012-289-20-22.17 | 789/2021. (XII. 27.) Korm. rendelet |
 | 2022-03-05 | 2012-289-20-22.18 | 67/2022. (II. 28.) Korm. rendelet |
 | 2023-06-04 | 2012-289-20-22.19 | 217/2023. (VI. 1.) Korm. rendelet |
+| 2024-07-01 | 2012-289-20-22.20 | 141/2024. (VI. 28.) Korm. rendelet |
