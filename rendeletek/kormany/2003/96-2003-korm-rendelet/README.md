@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2023-03-31 | 2003-96-20-22.52 | 106/2023. (III. 30.) Korm. rendelet |
 | 2023-07-01 | 2003-96-20-22.53 | 286/2023. (VI. 30.) Korm. rendelet |
 | 2023-08-01 | 2003-96-20-22.54 | 520/2013. (XII. 30.) Korm. rendelet |
+| 2024-07-01 | 2003-96-20-22.55 | 12/2005. (I. 26.) Korm. rendelet |
