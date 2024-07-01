@@ -12,7 +12,7 @@ teljesítésével kell megszereznie.
 
 (3) A munkakörhöz kötött továbbképzésre kötelezett a 3. § (2), illetve (3) bekezdésében előírt továbbképzési pontoknak a (2) bekezdésben foglaltakon túl fennmaradó részét megszerezheti kötelező, bármely munkakörhöz kötött vagy választható továbbképzés teljesítésével.
 
-(4) A munkakörhöz kötött továbbképzésre kötelezettnek a (2) bekezdés b) pontja szerinti munkakörhöz kötött továbbképzési kötelezettségét a továbbképzési időszak feléig kell teljesítenie.
+(4)[^32]
 
 (5) Ha a továbbképzésre kötelezett ugyanazon jogviszony keretében egyidejűleg több képesítéshez kötött tevékenység végzésére irányuló munkakört tölt be, vagy egyéni vállalkozóként egyidejűleg több képesítéshez kötött tevékenységet végez, és valamelyik munkaköre vagy tevékenysége tekintetében munkakörhöz kötött továbbképzésre kötelezett, akkor az ahhoz kapcsolódó munkakörhöz kötött továbbképzést kell teljesítenie.
 
@@ -22,3 +22,4 @@ teljesítésével kell megszereznie.
 
 [^30]: A 3/A. §-t a 7/2018. (II. 5.) EMMI rendelet 28. §-a iktatta be.
 [^31]: A 3/A. § (1a) bekezdését a 2/2021. (I. 18.) EMMI rendelet 7. §-a iktatta be, szövege az 52/2022. (XII. 27.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^32]: A 3/A. § (4) bekezdését a 23/2024. (V. 9.) BM rendelet 9. §-a hatályon kívül helyezte.
