@@ -14,14 +14,14 @@ c) az eljárás megszüntetésének az adósságrendezés megindításának idő
 
 a) az adósságrendezési eljárás során az adósságrendezés megindítása és az adósságrendezés megindítását kezdeményező kérelem elutasítása tárgyában hozott érdemi végzés;
 
-b) a pénzügyi gondnok jogszabálysértő intézkedései vagy mulasztása ellen a sérelmet szenvedett által előterjesztett kifogás tárgyában hozott érdemi határozat;
+b) az önkormányzati csődbiztos jogszabálysértő intézkedései vagy mulasztása ellen a sérelmet szenvedett által előterjesztett kifogás tárgyában hozott érdemi határozat;
 
-c) a pénzügyi gondnok felmentéséről és díjazásának megállapításáról szóló határozat;
+c) az önkormányzati csődbiztos felmentéséről és díjazásának megállapításáról szóló határozat;
 
-d) a pénzügyi gondnoknak a 29. § (3) bekezdés szerinti jelentését jóváhagyó, illetve a pénzügyi gondnokot új jelentés készítésére kötelező határozat;
+d) az önkormányzati csődbiztosnak a 29. § (3) bekezdés szerinti jelentését jóváhagyó, illetve az önkormányzati csődbiztost új jelentés készítésére kötelező határozat;
 
 e) a vagyon bírósági felosztásának elrendeléséről szóló határozat [29. § (1) bekezdés];
 
-f) a pénzügyi gondok által benyújtott vagyonfelosztási javaslat tárgyában hozott bírósági határozat;
+f) az önkormányzati csődbiztos által benyújtott vagyonfelosztási javaslat tárgyában hozott bírósági határozat;
 
 g) az adósságrendezési eljárást érdemben befejező határozat.

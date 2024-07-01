@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-25-00-00
 | 2018-01-01 | 2017. évi CXXX. törvény | 1996-25-00-00.30 |
 | 2023-01-01 | 2022. évi XXII. törvény | 1996-25-00-00.31 |
 | 2023-07-01 | 2023. évi XLV. törvény | 1996-25-00-00.32 |
+| 2024-07-01 | 2023. évi CXIV. törvény | 1996-25-00-00.33 |

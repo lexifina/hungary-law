@@ -1,4 +1,4 @@
-34. § (1) Ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg (reorganizációs hitel), úgy a központi költségvetés az esedékes kamattörlesztésre, annak egy részére a reorganizációs hitel teljes futamidejére vagy annak egy részére a miniszter döntése alapján kamatmentes visszatérítendő támogatást nyújthat, legfeljebb az e törvény végrehajtási rendeletében meghatározott referenciakamat +2%-os mértékéig.
+34. § (1) Ha a helyi önkormányzat az egyezséghez szükséges feltételeket pénzügyi intézménytől felvett hitellel teremti meg (reorganizációs hitel), úgy a központi költségvetés az esedékes kamattörlesztésre, annak egy részére a reorganizációs hitel teljes futamidejére vagy annak egy részére a miniszter döntése alapján kamatmentes visszatérítendő támogatást, vagy vissza nem térítendő támogatást nyújthat.
 
 (2) A helyi önkormányzat a reorganizációs hitel teljes visszafizetését követően köteles az állam részére az igénybe vett kamattámogatást – a miniszterrel történt megállapodás szerint – visszatéríteni.
 

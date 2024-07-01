@@ -6,9 +6,9 @@
 
 (2) Felhatalmazást kap a Kormány, hogy
 
-a) a pénzügyi gondnokok névjegyzékére, a pénzügyi gondnok kijelölésére és tevékenységére vonatkozó szabályokat,
+a) az önkormányzati csődbiztosok névjegyzékére, az önkormányzati csődbiztos kijelölésére és tevékenységére, továbbá az önkormányzati csődbiztosként kijelölhető civil szervezet kiválasztásának feltételeire és tevékenységére vonatkozó szabályokat,
 
-b) a pénzügyi gondnok díjának folyósításával és elszámolásával összefüggő szabályokat,
+b) a bíróság által kijelölt önkormányzati csődbiztos díjának folyósításával és elszámolásával összefüggő szabályokat,
 
 c) a helyi önkormányzat adósságrendezésére irányuló hitelfelvételhez nyújtandó visszterhes kamattámogatás és a helyi önkormányzatok adósságrendezési eljárás alatti egyéb támogatásának feltételeire, a támogatás döntési rendszerére, felhasználására, folyósítására és az azzal való elszámolásra vonatkozó szabályokat és
 

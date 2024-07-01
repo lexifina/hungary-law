@@ -1,1 +1,1 @@
-### 34/A. §
+34/A. § A kincstár a helyi önkormányzat nettó finanszírozásából adódó tartozásával összefüggésben nem minősül hitelezőnek, az ilyen tartozás megfizetése az államháztartásról szóló törvény rendelkezései szerint történik.

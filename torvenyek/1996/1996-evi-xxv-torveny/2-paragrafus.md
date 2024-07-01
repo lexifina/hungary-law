@@ -1,10 +1,10 @@
 2. § E törvény alkalmazásában
 
-a) helyi önkormányzat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 3. §-ában meghatározott önkormányzat;
+a) helyi önkormányzat: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 3. §-ában meghatározott önkormányzat, valamint az átalakult nemzetiségi önkormányzat;
 
 b) adósságrendezés: az adósságrendezési eljárás azon szakasza, amely a bíróság adósságrendezést megindító végzésének Cégközlönyben való közzétételével [10. § (1) bekezdés] kezdődik;
 
-c) hitelező: az adósságrendezés megindításának időpontjáig az, akinek a helyi önkormányzattal vagy annak költségvetési szervével szemben vagyoni követelése áll fenn; az adósságrendezés megindításának időpontját követően az, aki a követelését a hitelezői igény bejelentésére nyitva álló határidő alatt bejelentette, és azt a pénzügyi gondnok elfogadta, illetve követelésének jogerős elbírálásáig az is, akinek az igénye vitatott;
+c) hitelező: az adósságrendezés megindításának időpontjáig az, akinek a helyi önkormányzattal vagy annak költségvetési szervével szemben vagyoni követelése áll fenn; az adósságrendezés megindításának időpontját követően az, aki a követelését a hitelezői igény bejelentésére nyitva álló határidő alatt bejelentette, és azt az önkormányzati csődbiztos elfogadta, illetve követelésének jogerős elbírálásáig az is, akinek az igénye vitatott;
 
 d) vagyon: a helyi önkormányzatnak az adósságrendezés megindításának időpontjában meglévő és az eljárás alatt szerzett azon vagyontárgyai, amelyeket a számvitelről szóló törvény befektetett, vagy forgóeszköznek minősít;
 
