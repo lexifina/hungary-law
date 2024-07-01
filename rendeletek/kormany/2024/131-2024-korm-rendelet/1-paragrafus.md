@@ -1,0 +1,1 @@
+1. § A hallgatói hitelrendszerről szóló 1/2012. (I. 20.) Korm. rendelet 29/B. § (1) bekezdésében a „2024. január 1-től 2024. június 30-ig” szövegrész helyébe a „2024. július 1-jétől 2024. december 31-ig” szöveg lép.
