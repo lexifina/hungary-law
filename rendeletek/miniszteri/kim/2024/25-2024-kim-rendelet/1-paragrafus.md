@@ -1,0 +1,1 @@
+1. § A pedagógusképzés képzési terület egyes szakjainak képzési és kimeneti követelményeiről szóló 63/2021. (XII. 29.) ITM rendelet 1. melléklet 2. pont 7.1.2.1. alpont b) pontjában a „prevenciós feladatok” szövegrész helyébe a „prevenciós feladatokat” szöveg lép.
