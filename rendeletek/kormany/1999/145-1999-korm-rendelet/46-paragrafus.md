@@ -1,4 +1,4 @@
-46. § (1)[^90] Az elhunyt külföldre szállítását a halál megállapításának helye szerint illetékes népegészségügyi feladatkörében eljáró járási hivatal engedélyezi. A kérelemnek tartalmaznia kell a szállítandó halott nevét, anyja nevét, utolsó lakóhelyét, a halál okának megnevezését, a halál napját, azoknak a helységeknek a megnevezését, ahonnan és ahová a szállítás történik, a szállító jármű, valamint a szállítás módjának megjelölését és a halott kísérőjének megnevezését.
+46. § (1)[^90] Az elhunyt külföldre szállítását a haláleset helye helye szerint illetékes népegészségügyi feladatkörében eljáró járási hivatal engedélyezi. A kérelemnek tartalmaznia kell a szállítandó halott nevét, anyja nevét, utolsó lakóhelyét, a halál okának megnevezését, a halál napját, azoknak a helységeknek a megnevezését, ahonnan és ahová a szállítás történik, a szállító jármű, valamint a szállítás módjának megjelölését és a halott kísérőjének megnevezését.
 
 (2)[^91]
 
@@ -8,7 +8,7 @@
 
 (5)[^94]
 
-[^90]: A 46. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 78. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^90]: A 46. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 78. § (5) bekezdésével megállapított, a 104/2024. (V. 9.) Korm. rendelet 5. §-a szerint módosított szöveg.
 [^91]: A 46. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 36. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
 [^92]: A 46. § (3) bekezdése a 377/2023. (VIII. 10.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^93]: A 46. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 177. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
