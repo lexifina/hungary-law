@@ -16,7 +16,7 @@ e) állami vagy önkormányzati támogatások felhasználásának vizsgálata, v
 
 a) közigazgatási államtitkár, helyettes államtitkár,
 
-b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló törvény hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervnél osztályvezetői, illetve azzal azonos vagy magasabb beosztású vezetői beosztást, valamint a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó tábornoki vagy ezredesi rendfokozattal rendszeresített beosztást tölt be,
 
 c) politikai tanácsadó és főtanácsadó, kormány- vagy miniszteri tanácsadó vagy főtanácsadó,
 

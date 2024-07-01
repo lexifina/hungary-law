@@ -56,6 +56,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
+4K02563M_0
+
 |
 
 Tevékenység
@@ -105,6 +107,8 @@ Ft
 Ft
 
 2. .......... év
+
+4K02563M_1
 
 |
 
@@ -156,6 +160,8 @@ Ft
 
 3. .......... év
 
+4K02563M_2
+
 |
 
 Tevékenység
@@ -206,6 +212,8 @@ Ft
 
 4. .......... év
 
+4K02563M_3
+
 |
 
 Tevékenység
@@ -255,6 +263,8 @@ Ft
 Ft
 
 5. .......... év
+
+4K02563M_4
 
 |
 
@@ -832,6 +842,8 @@ Az éves jövedelem forrásai tevékenységek szerinti bontásban:
 
 1. .......... év
 
+4K02563M_8
+
 |
 
 Tevékenység
@@ -881,6 +893,8 @@ Ft
 Ft
 
 2. .......... év
+
+4K02563M_9
 
 |
 
@@ -932,6 +946,8 @@ Ft
 
 3. .......... év
 
+4K02563M_10
+
 |
 
 Tevékenység
@@ -982,6 +998,8 @@ Ft
 
 4. .......... év
 
+4K02563M_11
+
 |
 
 Tevékenység
@@ -1031,6 +1049,8 @@ Ft
 Ft
 
 5. .......... év
+
+4K02563M_12
 
 |
 
