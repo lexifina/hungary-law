@@ -5,3 +5,5 @@
 (3) A 3. § (3) bekezdés r) pontjában meghatározott célból jogosult a személyazonosság igazolására alkalmas hatósági igazolványok kiadására irányuló eljárások esetén az eljáró szerv, az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával, az ügyfél személyazonossága ellenőrzésének támogatása érdekében a 12/C. § szerinti automatizált összehasonlítást igénybe venni.
 
 (4) A 3. § (3) bekezdés s) pontjában meghatározott célból jogosult az e-közigazgatásért felelős miniszter az általa rögzített arcképmás felhasználásával a beteg személyazonossága ellenőrzésének támogatása érdekében a 12/B. § szerinti automatizált összehasonlítást igénybe venni.
+
+(5) A 3. § (3) bekezdés u) pontjában meghatározott célból jogosult a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott digitális állampolgárság szolgáltató a felhasználói profil aktiválása során a személyazonosság-ellenőrzésének támogatása érdekében a 12/B. § szerinti automatizált összehasonlítást igénybe venni.

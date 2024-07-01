@@ -24,3 +24,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-188-00-00
 | 2023-07-01 | 2023. évi XXXVIII. törvény | 2015-188-00-00.19 |
 | 2024-01-01 | 2023. évi XC. törvény | 2015-188-00-00.17 |
 | 2024-05-17 | 2024. évi XII. törvény | 2015-188-00-00.21 |
+| 2024-07-01 | 2024. évi XII. törvény | 2015-188-00-00.22 |

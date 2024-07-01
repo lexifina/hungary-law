@@ -4,7 +4,7 @@
 
 (2) Az elektronikus azonosítási szolgáltatást végző szerv – ha törvény alapján a természetes személyazonosító adatok kezelésére jogosult – az ügyfél természetes személyazonosító adatai közlésével a személyiadat- és lakcímnyilvántartást vezető szervtől kérheti, hogy az általa vezetett nyilvántartásból a személyazonosság ellenőrzésével érintett személy utolsó alkalommal nyilvántartásba vett arcképmásához tartozó technikai kapcsoló számot részére továbbítsa.
 
-(3) A központi szerv az elektronikus azonosítási szolgáltatást végző szerv által a 3. § (3) bekezdés q) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Ha az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az elektronikus azonosítási szolgáltatást végző szervet haladéktalanul tájékoztatja.
+(3) A központi szerv az elektronikus azonosítási szolgáltatást végző szerv által a 3. § (3) bekezdés q) és u) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Ha az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az elektronikus azonosítási szolgáltatást végző szervet haladéktalanul tájékoztatja.
 
 (4) A központi szerv az általa képzett arckép profilt az arcképelemző rendszer igénybevételével összehasonlítja a részére az elektronikus azonosítási szolgáltatást végző szerv által továbbított technikai kapcsoló számhoz tartozó arckép profillal.
 
