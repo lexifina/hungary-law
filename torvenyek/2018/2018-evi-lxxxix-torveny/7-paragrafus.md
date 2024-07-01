@@ -14,7 +14,7 @@ továbbítható.
 
 (3) A tanulói nyilvántartás, illetve a tanulók és a képzésben részt vevő személyek nyilvántartása adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság, illetve a szakképzési államigazgatási szerv részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
-(4) A tanulói nyilvántartásban, illetve a tanulók és a képzésben részt vevő személyek nyilvántartásában nyilvántartott adatok – adategyeztetés céljából – továbbíthatók a Köznevelési Regisztrációs és Tanulmányi Alaprendszert használó olyan köznevelési intézménynek, szakképző intézménynek, illetve felnőttképzőnek, amellyel a gyermek, a tanuló, illetve a képzésben részt vevő személy jogviszonyban áll.
+(4) A tanulói nyilvántartásban, a tanulók és a képzésben részt vevő személyek nyilvántartásában, valamint a képzési és személyi törzsben nyilvántartott adatok – adategyeztetés céljából – továbbíthatók az Nkt., az Szkt. és a felnőttképzésről szóló törvény szerinti tanulmányi rendszereket használó olyan köznevelési intézménynek, szakképző intézménynek, illetve felnőttképzőnek, amellyel a gyermek, a tanuló, illetve a képzésben részt vevő személy jogviszonyban áll és az adott intézmény az érintett személyes adat kezelésére jogosult.
 
 (5) A társadalombiztosítási azonosító jel hitelességét a társadalombiztosítási azonosító jellel rendelkező személyek azonosító adatainak nyilvántartásával való összevetéssel elektronikus úton kell ellenőrizni.
 
@@ -28,7 +28,7 @@ továbbítható.
 
 (7) Az alkalmazotti nyilvántartás adataihoz az oktatási nyilvántartás működéséért felelős szerv a köznevelési feladatokat ellátó hatóság, illetve a szakképzési államigazgatási szerv részére a feladatellátásához szükséges adatok tekintetében közvetlen hozzáférést biztosít.
 
-(8) Az alkalmazotti nyilvántartásban nyilvántartott adatok – adategyeztetés céljából – továbbíthatók a Köznevelési Regisztrációs és Tanulmányi Alaprendszert használó olyan köznevelési intézménynek, szakképző intézménynek, illetve felnőttképzőnek, amellyel az alkalmazott, az óraadó jogviszonyban áll.
+(8) Az alkalmazotti nyilvántartásban nyilvántartott adatok – adategyeztetés céljából – továbbíthatók az Nkt. és az Szkt. szerinti tanulmányi rendszereket használó olyan köznevelési intézménynek, szakképző intézménynek, amellyel az alkalmazott, az óraadó jogviszonyban áll, és az adott intézmény az érintett személyes adat kezelésére jogosult.
 
 (9) Az oktatási nyilvántartás működéséért felelős szerv a középfokú felvételi eljárás megszervezéséhez szükséges adatok nyilvántartásából a középfokú felvételi eljárásban részt vevő középfokú iskoláknak, a központi írásbeli felvételi vizsgákat szervező középiskoláknak továbbítja az érintett tanulók nyilvántartott adatait.
 

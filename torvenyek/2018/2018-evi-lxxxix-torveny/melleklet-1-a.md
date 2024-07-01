@@ -124,7 +124,7 @@ cb) a megszerezett szakma szakmajegyzék szerinti azonosító számát és megne
 
 cc) a kiállított oklevél vagy szakmai bizonyítvány sorozatjelét és sorszámát,
 
-cd) az oklevelet, illetve a szakmai bizonyítványt kiállító akkreditált vizsgaközpont megnevezését, címét és – ha az akkreditált vizsgaközpont szakképző intézmény – OM-azonosítóját,
+cd) az oklevelet, illetve a szakmai bizonyítványt kiállító akkreditált szakképzési vizsgaközpont megnevezését, címét és – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM-azonosítóját,
 
 ce) a szakmai vizsgához kapcsolódó mentességet,
 
@@ -148,7 +148,7 @@ c) a képesítő vizsgával összefüggésben
 
 ca) a képesítő bizonyítvány sorozatjelét és sorszámát,
 
-cb) a képesítő bizonyítványt kiállító akkreditált vizsgaközpont nevét, címét és – az akkreditált vizsgaközpont szakképző intézmény – OM-azonosítóját,
+cb) a képesítő bizonyítványt kiállító akkreditált szakképzési vizsgaközpont nevét, címét és – az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM-azonosítóját,
 
 cc) a megszerzett szakképesítés megnevezését,
 
@@ -164,7 +164,7 @@ b) az oklevél, a szakmai bizonyítvány, illetve a képesítő bizonyítvány k
 
 c) – a vizsgatörzslappal azonosan – a vizsgázó természetes személyazonosító adatát és oktatási azonosító számát,
 
-d) a kiállító akkreditált vizsgaközpont megnevezését, címét és – ha az akkreditált vizsgaközpont szakképző intézmény – OM-azonosítóját,
+d) a kiállító akkreditált szakképzési vizsgaközpont megnevezését, címét és – ha az akkreditált szakképzési vizsgaközpont szakképző intézmény – OM-azonosítóját,
 
 e) vizsgatárgyanként és vizsgatevékenységenként a vizsga nyelvét, az elért százalékos eredményt és osztályzatot, a záradékokat és a vizsgamentességeket,
 
