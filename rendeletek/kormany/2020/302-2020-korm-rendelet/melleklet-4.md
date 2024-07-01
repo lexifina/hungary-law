@@ -1,4 +1,4 @@
-## A) Fenntartható vízgazdálkodási közösségre vonatkozó alapadatok[^28]
+## A) Fenntartható vízgazdálkodási közösségre vonatkozó alapadatok[^30]
 
 ## 1. Név
 
@@ -8,7 +8,7 @@
 
 ## B) Öntözni kívánt terület
 
-## 1.[^29] Érintett összes terület (ha)
+## 1.[^31] Érintett összes terület (ha)
 
 ## 1.1. Az érintett összes területből az öntözési közösség tagjainak a használatában álló összterület (ha)
 
@@ -16,7 +16,7 @@
 
 ## 1.3. A fenntartható vízgazdálkodási közösség használatában álló ingatlanok jegyzéke (település, helyrajzi szám, alrészlet jele, használat jogcíme, földrészlet/alrészlet művelési ága, földrészlet/alrészlet területe hektárban, földrészlet/alrészlet aranykorona értéke, földrészlet/alrészlet öntözött területének kiterjedése hektárban, földrészlet/alrészlet öntözéses gazdálkodásba vonni tervezett területének kiterjedése hektárban)
 
-## 2.[^30] Érintett terület elhelyezkedése (település, helyrajzi számonként a földhasználó és az általa öntözött vagy öntözni kívánt területnagyság, EOV koordináták)
+## 2.[^32] Érintett terület elhelyezkedése (település, helyrajzi számonként a földhasználó és az általa öntözött vagy öntözni kívánt területnagyság, EOV koordináták)
 
 ## 2.1. Az érintett összes területből öntözéses gazdálkodásba vont terület (ha)
 
@@ -28,7 +28,7 @@
 
 ## 4. Kertészeti zöldség-gyümölcs termesztés (legalább 10 ha)
 
-## C)[^31] Tervezett vízkivétel
+## C)[^33] Tervezett vízkivétel
 
 ## 1. Fenntartható vízgazdálkodási közösség együttműködésének célja (például: közös vízkivétel, vízhasználat, öntözőberendezés beruházása, vízbiztosító létesítmények építése, rekonstrukciója)
 
@@ -56,7 +56,7 @@
 
 ## 13. Tervezett és meglévő vízvisszatartást szolgáló létesítmények (megnevezés, helyrajzi szám, a vízilétesítmények, valamint a szolgalommal érintett területek töréspontjainak EOV koordinátái)
 
-## D)[^32] Vízigényszámítás
+## D)[^34] Vízigényszámítás
 
 ## Vízkészlettípusok szerint egyenként és összesítve:
 
@@ -86,11 +86,11 @@
 
 ## 3. Lejárt vízjogi engedély megléte és adatai (megnevezésük, hatósági határozat száma, hatósági határozat kelte)
 
-4. melléklet a 302/2020. (VI. 29.) Korm. rendelethez[^33]
+4. melléklet a 302/2020. (VI. 29.) Korm. rendelethez[^35]
 
-[^28]: A 3. melléklet A) pontja a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^29]: A 3. melléklet B) pont 1. alpontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^30]: A 3. melléklet B) pont 2. alpontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^31]: A 3. melléklet C) pontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^32]: A 3. melléklet D) pontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^33]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 3. melléklet A) pontja a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet B) pont 1. alpontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^32]: A 3. melléklet B) pont 2. alpontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^33]: A 3. melléklet C) pontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^34]: A 3. melléklet D) pontja a 31/2024. (II. 22.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^35]: A 4. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

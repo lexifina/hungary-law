@@ -8,7 +8,7 @@
 
 a) méretarányos helyszínrajzot az öntözni kívánt területekről,
 
-b) a jogszerű földhasználatot igazoló dokumentumokat,
+b)[^3] a kérelmező nyilatkozatát, hogy jogszerű földhasználónak minősül,
 
 c) új beruházás esetén előzetes projekttervet,
 
@@ -16,7 +16,7 @@ d) új beruházás esetén előzetes költségtervet, valamint
 
 e) új beruházás esetén a működési területével érintett vízügyi igazgatási szerv előzetes állásfoglalását.
 
-(4)[^3] A (3) bekezdés b) pontja tekintetében jogszerű földhasználónak minősül az, aki az öntözni kívánt terület vonatkozásában
+(4)[^4] A (3) bekezdés b) pontja tekintetében jogszerű földhasználónak minősül az, aki az öntözni kívánt terület vonatkozásában
 
 a) a földhasználati nyilvántartásba földhasználóként be van jegyezve,
 
@@ -30,6 +30,10 @@ e) a használatra haszonbérleti, felesbérleti, részesművelési, szívességi
 
 f) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 65. §-a szerint a föld kényszerhasznosítójaként lett kijelölve, a bíróság ideiglenes intézkedése alapján földhasználó, továbbá honvédelmi rendeltetésű terület, vagy honvédelmi célra feleslegessé nyilvánított terület esetében annak használatára szerződés alapján jogosult.
 
+(5)[^5] Ha a kérelmező nem mellékeli a (3) bekezdésben, valamint a 2. mellékletben meghatározott nyilvános vagy valamely hatóság vagy bíróság jogszabállyal rendszeresített nyilvántartásában megtalálható adatot, akkor az öntözési igazgatási szerv az adatok beszerzése érdekében megkeresi a nyilvántartást vezető hatóságot vagy bíróságot.
+
 [^1]: A 4. alcím címe a 31/2024. (II. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
 [^2]: A 7. § (1) bekezdése a 31/2024. (II. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^3]: A 7. § (4) bekezdése a 31/2024. (II. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^3]: A 7. § (3) bekezdés b) pontja a 104/2024. (V. 9.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § (4) bekezdése a 31/2024. (II. 22.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^5]: A 7. § (5) bekezdését a 104/2024. (V. 9.) Korm. rendelet 37. § (2) bekezdése iktatta be.

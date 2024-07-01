@@ -18,6 +18,6 @@
 
 2. melléklet a 302/2020. (VI. 29.) Korm. rendelethez
 
-A fenntartható vízgazdálkodási közösségek elismerése iránti kérelemhez szükséges adatok[^20]
+A fenntartható vízgazdálkodási közösségek elismerése iránti kérelemhez szükséges adatok[^22]
 
-[^20]: A 2. melléklet címe a 31/2024. (II. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet címe a 31/2024. (II. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
