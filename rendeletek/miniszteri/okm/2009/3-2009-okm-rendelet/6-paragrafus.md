@@ -1,6 +1,6 @@
 ## 5. § A szakfelügyelők nem folytathatnak vizsgálatot olyan intézményben, amellyel közszolgálati, közalkalmazotti vagy munkavégzésre irányuló bármilyen egyéb jogviszonyban állnak.
 
-6. § (1)[^8] A szakfelügyelők munkájukat a miniszter által jóváhagyott éves munkaterv és a miniszter által meghatározott munkaterven kívüli feladatok szerint végzik.
+6. § (1)[^10] A szakfelügyelők munkájukat a miniszter által jóváhagyott éves munkaterv és a miniszter által meghatározott munkaterven kívüli feladatok szerint végzik.
 
 (2) A munkaterv tartalmazza:
 
@@ -20,7 +20,7 @@ b) átfogó intézményi, illetve területi vizsgálat, amely az intézmény ál
 
 c) országos témavizsgálat vagy felmérés, amikor a témát egy időben országszerte indokolt megvizsgálni, illetve felmérni, hogy az eredményből általánosítható következtetéseket lehessen levonni, és ennek megfelelő intézkedéseket előkészíteni, illetve tenni.
 
-(4)[^9]
+(4)[^11]
 
-[^8]: A 6. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (4) bekezdésével megállapított szöveg.
-[^9]: A 6. § (4) bekezdését a 21/2013. (III. 19.) EMMI rendelet 5. § (10) bekezdése hatályon kívül helyezte.
+[^10]: A 6. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^11]: A 6. § (4) bekezdését a 21/2013. (III. 19.) EMMI rendelet 5. § (10) bekezdése hatályon kívül helyezte.

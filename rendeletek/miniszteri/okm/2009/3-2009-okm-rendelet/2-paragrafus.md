@@ -24,9 +24,9 @@ i) a muzeális intézmények nyilvántartási tevékenységét, kiemelten a szá
 
 (3) A szakfelügyelet
 
-a) feltárja az (1) bekezdésben meghatározott területeken tapasztalható eredményeket és hiányosságokat, értékeli a szakágakban, illetve az egyes intézményekben folyó munkát,
+a)[^3] feltárja az (1) bekezdésben meghatározott területeken tapasztalható eredményeket és hiányosságokat, értékeli a szakágakban, illetve az egyes intézményekben folyó munkát, valamint
 
-b)[^3] javaslatot tesz az eredmények elismerésének, illetve a hiányosságok kijavításának módjára.
+b)[^4] javaslatot tesz az eredmények elismerésének, illetve a hiányosságok kijavításának módjára.
 
 (4) A szakfelügyelet felkérésre közreműködik
 
@@ -42,11 +42,12 @@ e) a múzeumi terület egészét érintő szakmai irányelvek és jogszabályok 
 
 f) vitatott egyedi tudományos-módszertani, valamint szakmai kérdések eldöntésében, a megfelelő megoldás kidolgozásában,
 
-g)[^4] a muzeális intézmények és fenntartóik együttműködésének értékelésében, fejlesztésében,
+g)[^5] a muzeális intézmények és fenntartóik együttműködésének értékelésében, fejlesztésében, valamint
 
 h) a szakágra vonatkozó nemzetközi tapasztalatok összegyűjtésében, az előkészítés alatt álló nemzetközi megállapodások szakmai véleményezésében.
 
 [^1]: Az 1. § a 21/2013. (III. 19.) EMMI rendelet 5. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § (3) bekezdés b) pontja a 21/2013. (III. 19.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^4]: A 3. § (2) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^3]: A 2. § (3) bekezdés a) pontja a 12/2024. (VI. 11.) KIM rendelet 1. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdés b) pontja a 21/2013. (III. 19.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^5]: A 3. § (2) bekezdése a 21/2013. (III. 19.) EMMI rendelet 5. § (9) bekezdés b) pontja, a 12/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.
