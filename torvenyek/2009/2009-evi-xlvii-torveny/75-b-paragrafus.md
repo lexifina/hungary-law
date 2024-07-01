@@ -1,6 +1,6 @@
 ## A gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tétele
 
-75/B. § (1) A bűnügyi nyilvántartó szerv a gyermekek védelmének biztosítása, a gyermekek sérelmére vagy kihasználásával elkövetett nemi élet szabadsága vagy nemi erkölcs elleni bűncselekmények megelőzése céljából a gyermekekkel közvetlen kapcsolatba kerülő személyek ellenőrzése érdekében, a (2)–(3) bekezdésben és a 75/C. §-ban meghatározott feltételekkel, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítással igénybe vehető elektronikus felület (a továbbiakban: felület) útján megismerhetővé teszi az érintettre vonatkozó,
+75/B. § (1) A bűnügyi nyilvántartó szerv a gyermekek védelmének biztosítása, a gyermekek sérelmére vagy kihasználásával elkövetett nemi élet szabadsága vagy nemi erkölcs elleni bűncselekmények megelőzése céljából a gyermekekkel közvetlen kapcsolatba kerülő személyek ellenőrzése érdekében, a (2)–(3) bekezdésben és a 75/C. §-ban meghatározott feltételekkel, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással történő azonosítással igénybe vehető elektronikus felület (a továbbiakban: felület) útján megismerhetővé teszi az érintettre vonatkozó,
 
 a) a 4. § (2) bekezdés
 

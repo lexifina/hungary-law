@@ -4,6 +4,8 @@ a) bűncselekmény megalapozott gyanúja miatt büntetőeljárás alá vonták, 
 
 b) a bíróság vele szemben bűnösséget megállapító jogerős ügydöntő határozatot hozott.
 
+(1a) Ha az (1) bekezdés alapján az érintett arcképmását nyilván kell tartani, de az adatok közlésére köteles szerv adatközlése során az arcképmás adatok közlését nem teljesítette, a bűnügyi nyilvántartó szerv az 5. § (1) bekezdés a) pontja alapján végzett adat-összehasonlításkor az érintett arcképmását a személyiadat- és lakcímnyilvántartásból, nyilvántartásba vétel céljából, átveheti.
+
 (2) Nem kell nyilvántartani annak az arcképmását,
 
 a) akivel szemben magánvádas eljárás indult, függetlenül attól, hogy az ügyészség átvette-e a vád képviseletét,

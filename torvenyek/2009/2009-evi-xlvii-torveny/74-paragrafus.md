@@ -1,27 +1,39 @@
 74. § (1) A hatósági erkölcsi bizonyítvány tartalmazza
 
-a) a kérelmező 69. § (2) bekezdés a) pontjában meghatározott adatait,
+a) a kérelmező
 
-b) a kérelmező által igazolni kért – a 71. § (3) bekezdés a)–e) pontjában meghatározott – tényt,
+aa) viselt családi és utónevét,
+
+ab) születési családi és utónevét,
+
+ac) születési helyét és idejét,
+
+ad) anyja születési családi és utónevét,
+
+b) a kérelmező által igazolni kért – a 71. § (5) bekezdés a)–e) pontjában meghatározott – tényt,
 
 c) a hatósági erkölcsi bizonyítvány számát,
 
-d) a hatósági erkölcsi bizonyítványt kiállító hatóság megnevezését, bélyegzőlenyomatát,
+d) a hatósági erkölcsi bizonyítványt kiállító hatóság megnevezését,
 
 e) a hatósági erkölcsi bizonyítvány kiállításának helyét és időpontját, valamint
 
-f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult aláírását.
+f) a hatósági erkölcsi bizonyítvány kiadmányozására jogosult nevét.
 
-(2) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) és (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban vagy a központi idegenrendészeti nyilvántartásban kezelt adataival, vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg.
+(2) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt
 
-(3) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
+a) digitális biztonsági okmányként állítja ki, ha a kérelmező az elektronikus úton előterjesztett kérelmét a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti keretalkalmazáson keresztül nyújtja be,
 
-(4) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványt – a 75. § (4) bekezdés a) pontjában foglaltak kivételével – papír alapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki.
+b) papíralapon, biztonsági okmányként, egyetlen eredeti példányban állítja ki, ha a kérelmező a kérelmét az a) ponton kívüli bármely más, a 72. § (1) bekezdése szerinti kérelmezési lehetőséggel élve nyújtja be.
 
-(5) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványról másolatot vagy kivonatot nem készíthet.
+(3) A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány a külön jogszabályban meghatározott okmányvédelmi kategóriájának megfelelő biztonsági megoldásokkal rendelkezik, amelyben a formátum, az adatok és az azok hitelességét igazoló tényezők összetartozóak, egymástól nem választhatóak el. A digitális biztonsági okmányként kiállított hatósági erkölcsi bizonyítvány Magyarországon történő felhasználás céljából állítható ki és kizárólag digitális formában érvényes.
 
-(6) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
+(4) A bűnügyi nyilvántartó szerv az (1) bekezdés a) pontjában meghatározott adattartalmat – az 5. § (1) bekezdés a) pontjában és az (1a) bekezdésében meghatározott összehasonlítást követően – a kérelmező személyiadat- és lakcímnyilvántartásban, vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében megküldött adatokkal egyező módon határozza meg. Amennyiben a kérelmező nem szerepel a személyiadat- és lakcímnyilvántartásban vagy a Kormány által rendeletben kijelölt anyakönyvi szerv értesítésében, a bűnügyi nyilvántartó szerv a kérelmező által bemutatott, becsatolt személyazonosításra alkalmas okmányban szereplő adatokat veszi alapul, mindezek hiányában pedig a kérelmező által a kérelemben megadott adatokat.
 
-(7)
+(5) A hatósági erkölcsi bizonyítvány érvényességi ideje a kiállításától számított kilencven nap.
 
-(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, amely azt személyesen vagy jogi képviselője útján gyakorolhatja.
+(6) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítványról másolatot vagy kivonatot nem készíthet.
+
+(7) Ha a hatósági erkölcsi bizonyítvány a kiállító hatóság hibájából név, szám vagy más tény elírásával került kiállításra, a bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány érvényességi idején belül a kijavítást a hibás hatósági erkölcsi bizonyítvány bevonása mellett, annak kicserélésével teljesíti.
+
+(8) A bűnügyi nyilvántartó szerv a hatósági erkölcsi bizonyítvány kiállítása iránti eljárásában az eljárás alatt, illetve az érdemi döntés meghozatalát követően az iratbetekintési jogot kizárólag a kérelmező részére biztosítja, aki azt személyesen vagy jogi képviselője útján gyakorolhatja.

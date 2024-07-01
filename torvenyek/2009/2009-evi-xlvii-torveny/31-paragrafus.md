@@ -8,4 +8,4 @@ a) a tagállamok közötti – az Európai Unió tagállamaival folytatott bűn�
 
 b) az elítélttel szemben más bűncselekmény megalapozott gyanúja miatt folytatott büntetőeljárásban való figyelembevétele, illetve
 
-c) a büntetett előélet igazolásának, illetve a hátrányos jogkövetkezmények végrehajtásának az elősegítése.
+c) a büntetett előélet igazolásának, a hátrányos jogkövetkezmények végrehajtásának, illetve a gyermekeket sértő nemi élet szabadsága vagy nemi erkölcs elleni bűncselekményt elkövető személyekre vonatkozó adatok megismerhetővé tételének az elősegítése.

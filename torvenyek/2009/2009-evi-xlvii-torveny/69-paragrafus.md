@@ -18,11 +18,7 @@ ab) születési családi és utónevét, továbbá, ha arra vonatkozóan inform�
 
 ac) a születési helyét és idejét,
 
-ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét,
-
-ae) az állampolgárságát,
-
-af) a lakcímét, továbbá annak megváltozása esetén előző lakcímét, valamint
+ad) az anyja születési családi és utónevét, továbbá, ha arra vonatkozóan információval rendelkezik, anyja előző születési családi és utónevét, valamint
 
 b) az adatigénylő pontos megnevezését és címét.
 
