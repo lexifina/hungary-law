@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-2-20-22
 | 2022-02-01 | 2005-2-20-22.28 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-04-30 | 2005-2-20-22.29 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2024-01-01 | 2005-2-20-22.30 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2024-07-01 | 2005-2-20-22.31 | 141/2024. (VI. 28.) Korm. rendelet |
