@@ -1,1 +1,0 @@
-247/V. § A Módtv4. hatálybalépésével a szolgálatteljesítés az állomány 58/E. § (1) bekezdése szerinti szervezetnél 2019. január 1-jén szolgálatot teljesítő tagja tekintetében – személyügyi eljárás lefolytatása nélkül – a törvény erejénél fogva kirendelésre változik.

@@ -1,1 +1,0 @@
-126. § A 125. §-ban foglaltaktól eltérően az állomány 6. melléklet szerinti felsővezetői szolgálati beosztást betöltő tagja, valamint a 123. § (7) bekezdése alkalmazásában érintett, a 6. melléklet szerinti felsővezetői szolgálati beosztásból külföldi szolgálati beosztásba áthelyezett tagja honvédelmi szolgálati díjra nem jogosult.

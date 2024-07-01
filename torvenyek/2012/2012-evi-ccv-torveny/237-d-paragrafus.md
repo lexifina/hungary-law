@@ -1,1 +1,0 @@
-237/D. § A szolgálati viszony a 38. § (8) bekezdésétől, a 68. § (1) bekezdés b) pontjától, valamint a 78. § (2) bekezdés f) pontjától eltérően nem szűnik meg a törvény erejénél fogva az ott meghatározott kiképzési, képzési és vizsgakötelezettség teljesítésének elmulasztása esetén.
