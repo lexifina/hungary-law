@@ -10,7 +10,7 @@ a) közalkalmazott,
 
 b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) hatálya alá tartozó állomány tagja vezényléssel, illetve a Hszt. 71. § (1) bekezdés c) pontja szerinti szolgálati beosztásához nem tartozó feladatkör ellátására, többletfeladatként történő megbízással vagy közalkalmazotti jogviszony keretében,
 
-c) a honvédek jogállásáról szóló törvény hatálya alá tartozó állomány tagja vezényléssel vagy közalkalmazotti jogviszony keretében,
+c) a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó állomány tagja vezényléssel,
 
 d) közszolgálati tisztviselő, kormánytisztviselő kinevezéstől eltérő foglalkoztatás keretében,
 
