@@ -20,9 +20,19 @@ a) poligonokból álló térinformatikai fedvényként a földrészlethatárokat
 
 b) pontokból álló térinformatikai fedvényként a földrészletek egy belső pontját, a földrészletek helyrajzi számát, településkódját, valamint a belső pontok egységes országos vetületi rendszerű koordinátáját;
 
-8.[^1]
+8. kis vizes élőhely: az a szántó vagy gyep mezőgazdasági hasznosítású táblán található, nem termelő tájképi elem, amely
 
-9.[^2] környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 9. pontja szerinti terület;
+a) vízborítottsággal rendelkezik, vagy vízjárta terület, vagy vízvisszatartásra használják,
+
+b) nem minősül kis tónak, halastónak vagy víztározónak,
+
+c) medre nem lehet bélelt vagy szilárd burkolatú,
+
+d) üde lágyszárú növényzet, illetve part menti vegetációra jellemző növényfajok jelenlétét mutatja, és
+
+e) minimum 5000 négyzetméter területű;
+
+9.[^1] környezeti szempontból érzékeny állandó gyepterület: a Közös Agrárpolitika Stratégiai Tervből nyújtott támogatások igénybevétele során alkalmazandó feltételekről szóló 16/2024. (IV. 9.) AM rendelet 1. § 9. pontja szerinti terület;
 
 10. mezőgazdasági parcella: egy mezőgazdasági termelő által bejelentett, egybefüggő földterület, amely nem terjed ki egynél több terményre, illetve földtakaróra, azzal, hogy a mezőgazdasági parcella részét képezheti a rajta elhelyezkedő nem termelő tájképi elem és egyéb tájképi elem;
 
@@ -64,5 +74,4 @@ h) karácsonyfa-ültetvények;
 
 21. védett tájképi elem: az Egységes kérelem rendelet 1. § 67. pontja szerinti tájképi elem.
 
-[^1]: Az 1. § 8. pontja a 12. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
-[^2]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.
+[^1]: Az 1. § 9. pontja a 33/2024. (V. 30.) AM rendelet 57. §-a szerint módosított szöveg.

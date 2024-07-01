@@ -1,3 +1,3 @@
-6. §[^5]
+6. §[^2]
 
-[^5]: A 6. §-t a 35/2024. (VI. 10.) AM rendelet 20. §-a hatályon kívül helyezte.
+[^2]: A 6. §-t a 35/2024. (VI. 10.) AM rendelet 20. §-a hatályon kívül helyezte.
