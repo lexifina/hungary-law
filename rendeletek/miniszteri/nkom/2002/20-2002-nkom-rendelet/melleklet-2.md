@@ -22,7 +22,7 @@ A jelen mellékletben kötelezően előírtakon túl valamennyi szakmai nyilván
 
 Egyes rovatok kitöltése ,,tárgyszólisták'' alapján történik. Számítógépes nyilvántartás esetén ez a lista elemének (többszörös választási lehetőség esetén elemeinek) a gépből történő kiválasztását, hagyományos nyilvántartás esetén a választott elem vagy elemek tényleges beírását jelenti. A tárgyszólisták minimális struktúrája: tárgyszó, az értelmezését segítő rövid magyarázat, valamint azok a szinonimák, amelyek helyett a tárgyszó használható. Azt, hogy az egyes rovatoknál az intézmény milyen forrásból származó tárgyszólistát használ, maga a muzeális intézmény dönti el, a tárgyszólistát maga építi; az adatfelvétel során azonban az e listán szereplő elemek használata kötelező. A lista bővítését, módosítását csak muzeológus végezheti. A tárgyszólistából egyszerre több elem is választható, kivéve, ahol azt – ,,csak egyszeres választás'' kifejezéssel – e jogszabály tiltja.
 
-I. Fejezet[^9]
+I. Fejezet[^11]
 
 A leltárkönyvek, naplók és leírókartonok
 
@@ -488,7 +488,7 @@ E rovat általában a kapcsolatos régészeti feltárás dokumentációjának (i
 
 A 19–26. rovatok bejegyzéséről lásd az I. fejezetet.
 
-II/C. Alfejezet[^10]
+II/C. Alfejezet[^12]
 
 A természettudományi anyag – sajátosságai miatt – sok esetben nem kezelhető a jelen melléklet II/A. vagy II/B. alfejezetében leírtak szerint, egyedileg. (Pl. gerinctelenek, száraz állapotban őrzött virágos és virágtalan növények, növénymagvak, mikropaleontológiai anyag, mikroszkópi preparátumok stb. esetében.) Ilyenkor a jelen rendelet 6., illetve 15. §-ainak megfelelő szekrénykataszteri nyilvántartást kell választani. Amennyiben annak sem tartható be minden előírása (pl. a darabszám rögzítése), a miniszter egyedi szabályozást engedélyezhet.
 
@@ -1866,5 +1866,5 @@ Az átvevő későbbi azonosítását is lehetővé tévő adatai szerepelnek e 
 
 E rovat olyan egyedi bejegyzésre használható, amelyekre az előbb felsoroltak nem nyújtanak lehetőséget.
 
-[^9]: A 2. számú melléklet I. fejezete a 12/2022. (XII. 29.) KIM rendelet 5. § a) és b) pontja szerint módosított szöveg.
-[^10]: A 2. számú melléklet II. fejezet II/C. alfejezete az 1/2022. (IX. 1.) KIM rendelet 3. §-a szerint módosított szöveg.
+[^11]: A 2. számú melléklet I. fejezete a 12/2022. (XII. 29.) KIM rendelet 5. § a) és b) pontja szerint módosított szöveg.
+[^12]: A 2. számú melléklet II. fejezet II/C. alfejezete az 1/2022. (IX. 1.) KIM rendelet 3. §-a szerint módosított szöveg.

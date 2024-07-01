@@ -16,7 +16,7 @@ g) 7. sz. szakleltárkönyv: a történeti, a néprajzi, a numizmatikai, az irod
 
 h) 8. sz. szakleltárkönyv: a műszaki és technikatörténeti tárgyi anyag nyilvántartására;
 
-i) 9. sz. szakleltárkönyv: az irodalomtörténeti kéziratok nyilvántartására;
+i)[^2] 9. sz. szakleltárkönyv: az irodalomtörténeti kéziratok nyilvántartására; valamint
 
 j) 10. sz. szakleltárkönyv: a tudományos forrásértékű, eredeti (történeti, néprajzi, irodalomtörténeti stb.), illetve a művészi alkotásnak számító fényképanyag nyilvántartására.
 
@@ -24,10 +24,13 @@ j) 10. sz. szakleltárkönyv: a tudományos forrásértékű, eredeti (történe
 
 a) adattári leltárkönyv,
 
-b) adattári fénykép-leltárkönyv,
+b)[^3] adattári fénykép-leltárkönyv, valamint
 
 c) kiállítási segéd- és technikai eszközök leltárkönyve.
 
 (3) Az (1) és (2) bekezdésben meghatározott leltárkönyvek vezetésére és kezelésére vonatkozó szabályokat az 1. számú melléklet 4–10. pontjai, a leltárkönyvekben kötelezően szereplő adatokat/rovatokat és a kitöltésükre vonatkozó szabályokat pedig a 2. számú melléklet I–XIV. fejezetei tartalmazzák.
 
 (4) A muzeális intézmény saját történeti, irodalom- vagy színháztörténeti, képző- vagy iparművészeti, műszaki és technikatörténeti stb. jellegű, muzeális értékű könyv- és periodikagyűjteményének, illetve kézi- vagy szakkönyvtárának nyilvántartását alapvetően a könyvtári állomány leltározására és ellenőrzésére vonatkozó jogszabályok szerint kell végezni; a nyilvántartás rendjére vonatkozóan azonban a Tv.-ben, valamint a kulturális örökség védelméről szóló 2001. évi LXIV. törvényben, illetve a felhatalmazásuk alapján született jogszabályokban – így a jelen rendeletben – foglaltakat is érvényesíteni kell.
+
+[^2]: Az 5. § (1) bekezdés i) pontja a 10/2024. (VI. 11.) KIM rendelet 1. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (2) bekezdés b) pontja a 10/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.
