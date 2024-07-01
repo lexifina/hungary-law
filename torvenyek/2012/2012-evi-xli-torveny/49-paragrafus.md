@@ -50,7 +50,7 @@ g) a 45. § szerinti, az új nemzetközi vasúti személyszállítási szolgált
 
 h) az autóbuszos hatóság eljárásáért fizetendő igazgatási szolgáltatási díj mértékét, valamint a díj megfizetésére kezelésére, nyilvántartására és visszatérítésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben
 
-i)
+i) a 35. § (4) bekezdésében meghatározott szervezet kijelölését, az országos, regionális és elővárosi személyszállítási közszolgáltatások vonatkozásában a szervezet feladataira, a személyszállítási közszolgáltatások teljesítése mennyiségi és minőségi ellenőrzésének tárgyára, tartalmára és eljárására vonatkozó, valamint az ellenőrzési feladat ellentételezését biztosító díjazásával összefüggő feltételeket és részletes szabályokat
 
 j)
 

@@ -6,7 +6,7 @@
 
 (3) A munkáltató a menetkedvezményre jogosult (5) bekezdésben meghatározott adatait az országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság részére továbbítja.
 
-(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnését követő 5 évig kezeli.
+(4) A menetkedvezményre jogosultság biztosítása céljából menetkedvezményt biztosító országos, regionális vagy elővárosi vasúti személyszállítási közszolgáltatást végző vasúti társaság az utazási kedvezményre jogosult munkavállaló, kormánytisztviselő, köztisztviselő, közalkalmazott, egészségügyi szolgálati jogviszonyban álló személy rendvédelmi igazgatási alkalmazott, honvédelmi alkalmazott, nyugdíjas, valamint ezek igényjogosult hozzátartozója (5) bekezdésben meghatározott adatait a menetkedvezményre jogosultság megszűnéséig kezeli.
 
 (5) Az adatkezelés a következő adatokra terjed ki:
 
@@ -22,7 +22,7 @@ e) a vasúti dolgozók menetkedvezményeiről szóló jogszabályban meghatároz
 
 f) a jogosult képmása a kedvezmény igénybevételére jogosító igazolvány kiállítása céljából.
 
-(6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat 3 évig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
+(6) Az adatkezelésre e § alapján jogosult (e szakasz alkalmazásában a továbbiakban: menetkedvezményi adatkezelő) az (5) bekezdésben meghatározott adatokat az utazási kedvezmény biztosítása, a kedvezmény igénybevételére jogosító igazolvány kiállítása, az igazolványokról vezetett nyilvántartás vezetése érdekében kezeli. A menetkedvezményi adatkezelő az (5) bekezdésben meghatározott adatokat a jogosultság megszűnéséig tartja nyilván. A menetkedvezményi adatkezelő biztosítja az adatok védelmét vétlen vagy szándékos megsemmisítéssel, megsemmisüléssel, megváltoztatással, nyilvánosságra kerüléssel szemben, továbbá azt, hogy azokhoz jogosulatlan személy ne férjen hozzá.
 
 (7)
 
