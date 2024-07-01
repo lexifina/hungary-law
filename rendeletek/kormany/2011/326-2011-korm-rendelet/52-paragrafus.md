@@ -32,9 +32,9 @@ d) a pénzügyi lízingszerződés teljesítése, amelynek során a jármű nyil
 
 e) állami vagy önkormányzati szerv, vagy önkormányzat kezelésében lévő jármű más állami vagy önkormányzati szerv, vagy önkormányzat részére történő átadása,
 
-f) a használt jármű cégjegyzék vagy vállalkozói igazolvány alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést,
+f)[^266] a használt jármű cégjegyzék egyéni vállalkozók nyilvántartása alapján az adásvétel időpontjában fő tevékenysége szerint gépjármű-kereskedelemre jogosult szervezet vagy vállalkozó tulajdonába kerülése, kivéve a rendeltetésszerű használat céljából történő tulajdonszerzést,
 
-g)[^266] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontjában meghatározott közeli hozzátartozók egymás közötti tulajdonjog átruházása, feltéve, hogy a tulajdonjogot átruházó a járműnyilvántartásba bejegyzett tulajdonos.
+g)[^267] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontjában meghatározott közeli hozzátartozók egymás közötti tulajdonjog átruházása, feltéve, hogy a tulajdonjogot átruházó a járműnyilvántartásba bejegyzett tulajdonos.
 
 (8) A muzeális jellegű járművekkel kapcsolatos közlekedési igazgatási eljáráshoz, továbbá a négykerekű segédmotoros kerékpárok első magyarországi forgalomba helyezésére irányuló közlekedési igazgatási eljáráshoz az előzetes eredetiségvizsgálatot nem kell elvégezni.
 
@@ -44,4 +44,5 @@ g)[^266] a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:1. § 
 [^263]: Az 52. § (3) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 368. § l) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 20. pontja szerint módosított szöveg.
 [^264]: Az 52. § (7) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 21. §-ával megállapított, nyitó szövegrésze az 572/2020. (XII. 9.) Korm. rendelet 45. § 21. pontja szerint módosított szöveg.
 [^265]: Az 52. § (7) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § i) pontja szerint módosított szöveg.
-[^266]: Az 52. § (7) bekezdés g) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (5) bekezdése iktatta be, szövege a 289/2018. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^266]: Az 52. § (7) bekezdés f) pontja a 104/2024. (V. 9.) Korm. rendelet 18. §-a szerint módosított szöveg.
+[^267]: Az 52. § (7) bekezdés g) pontját a 60/2017. (III. 20.) Korm. rendelet 18. § (5) bekezdése iktatta be, szövege a 289/2018. (XII. 21.) Korm. rendelet 13. §-ával megállapított szöveg.

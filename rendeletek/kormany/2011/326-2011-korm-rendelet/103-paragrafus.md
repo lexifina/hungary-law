@@ -1,6 +1,6 @@
-103. § (1)[^486] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
+103. § (1)[^487] A járművet a hivatalból indult eljárás során a forgalmi engedély és a hatósági jelzés bevonásával – az f) pontban és a (2) bekezdésben foglaltak kivételével – a következő időtartamra kell ideiglenesen a forgalomból kivonni:
 
-a)[^487] a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
+a)[^488] a 96. § (1) bekezdés a)–c) és f) pontja és a 101. § (1) bekezdés f) és h) pontja esetén a jármű műszaki alkalmasságának igazolásáig,
 
 b) a 96. § (1) bekezdés e) és g) pontja, továbbá a 101. § (1) bekezdés a), d) és g) pontja esetén a kötelezettség teljesítésének igazolásáig,
 
@@ -10,30 +10,30 @@ d) a 96. § (1) bekezdés d) pontja esetén a büntetőeljárás jogerős befeje
 
 e) a 101. § (1) bekezdés c) pontja és 102. § (4) bekezdése esetén hat hónapra,
 
-f)[^488] a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés e), k) és l) pontja, valamint a 102. § (5) bekezdése esetén átmeneti időszakra,
+f)[^489] a 87. § (4) bekezdés b) pontja, a 101. § (1) bekezdés e), k) és l) pontja, valamint a 102. § (5) bekezdése esetén átmeneti időszakra,
 
 g) a 101. § (1) bekezdés j) pontja esetén a kivonást kezdeményező hatóság értesítéséig,
 
-h)[^489] a 97. § (1) bekezdés e) pontjában meghatározott esetben
+h)[^490] a 97. § (1) bekezdés e) pontjában meghatározott esetben
 
 ha) első alkalommal hat hónapra,
 
 hb) ismétlődő esetben három évre.
 
-i)[^490] A 87. § (4) bekezdés a) pontja és 87/A. §-a esetén a kötelezettség teljesítéséig.
+i)[^491] A 87. § (4) bekezdés a) pontja és 87/A. §-a esetén a kötelezettség teljesítéséig.
 
-(2)[^491]
+(2)[^492]
 
-(3)[^492]
+(3)[^493]
 
 (4) A járművet a 101. § (1) bekezdés i) pontja esetén a bontási átvételi igazolás bemutatásáig kell ideiglenesen kivonni a forgalomból.
 
 (5) A forgalomból – a 101. § (1) bekezdés i) pontja alapján – kivont jármű ismételten nem helyezhető forgalomba.
 
-[^486]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
-[^487]: A 103. § (1) bekezdés a) pontja az 524/2011. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^488]: A 103. § (1) bekezdés f) pontja a 468/2016. (XII. 23.) Korm. rendelet 24. §-ával megállapított, az 524/2011. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^489]: A 103. § (1) bekezdés h) pontját a 20/2016. (II. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^490]: A 103. § (1) bekezdés i) pontját a 60/2023. (II. 28.) Korm. rendelet 23. §-a iktatta be.
-[^491]: A 103. § (2) bekezdését a 60/2023. (II. 28.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
-[^492]: A 103. § (3) bekezdését a 60/2023. (II. 28.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
+[^487]: A 103. § (1) bekezdése a 228/2012. (VIII. 23.) Korm. rendelet 7. § (12) bekezdésével megállapított szöveg.
+[^488]: A 103. § (1) bekezdés a) pontja az 524/2011. (XII. 28.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^489]: A 103. § (1) bekezdés f) pontja a 468/2016. (XII. 23.) Korm. rendelet 24. §-ával megállapított, az 524/2011. (XII. 28.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^490]: A 103. § (1) bekezdés h) pontját a 20/2016. (II. 11.) Korm. rendelet 2. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^491]: A 103. § (1) bekezdés i) pontját a 60/2023. (II. 28.) Korm. rendelet 23. §-a iktatta be.
+[^492]: A 103. § (2) bekezdését a 60/2023. (II. 28.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.
+[^493]: A 103. § (3) bekezdését a 60/2023. (II. 28.) Korm. rendelet 24. § b) pontja hatályon kívül helyezte.

@@ -92,3 +92,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2023-12-27 | 2011-326-20-22.86 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 2011-326-20-22.85 | 561/2023. (XII. 14.) Korm. rendelet |
 | 2024-03-01 | 2011-326-20-22.87 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2024-07-01 | 2011-326-20-22.88 | 104/2024. (V. 9.) Korm. rendelet |
