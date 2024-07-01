@@ -1,6 +1,6 @@
 ## Vízgazdálkodási (vízikönyvi) nyilvántartás
 
-22. §[^210] (1) A vízügyi hatóság a vízügyi igazgatási szervezet vízgazdálkodási nyilvántartásáról szóló miniszteri rendeletben foglaltak szerint vezetett vízikönyvi nyilvántartása és annak elektronikus vízikönyvi változata (a továbbiakban: e-vízikönyv) a valóságos állapotnak megfelelően tartalmazza és tanúsítja a vízimunkákra, a vízilétesítményekre és vízhasználatokra vonatkozó műszaki alapadatokat, továbbá az ezek gyakorlásához kapcsolódó jogokat és jogi szempontból jelentős tényeket.
+22. §[^211] (1) A vízügyi hatóság a vízügyi igazgatási szervezet vízgazdálkodási nyilvántartásáról szóló miniszteri rendeletben foglaltak szerint vezetett vízikönyvi nyilvántartása és annak elektronikus vízikönyvi változata (a továbbiakban: e-vízikönyv) a valóságos állapotnak megfelelően tartalmazza és tanúsítja a vízimunkákra, a vízilétesítményekre és vízhasználatokra vonatkozó műszaki alapadatokat, továbbá az ezek gyakorlásához kapcsolódó jogokat és jogi szempontból jelentős tényeket.
 
 (2) Az (1) bekezdésben meghatározott adatokat a bejegyzés alapját képező határozat, tudomásulvételről szóló nyilatkozat ügyfél általi kézhezvételét követő 8 napon belül az e-vízikönyvbe kell bejegyezni, és a vízügyi hatóság a bejegyzésről a VIZEK rendszer részére azonnal elektronikus tájékoztatást, adattovábbítást küld.
 
@@ -12,4 +12,4 @@
 
 (6) A vízjogi engedélyezési eljárásban az e-vízikönyvi nyilvántartásba bevezetendő műszaki alapadatok körében EOV-ban az ügyfél által meghatározott EOV koordináták közlését a vízügyi hatóság akkor fogadja el, ha azokat legfeljebb — 0,5 méter hibahatárral működő helymeghatározó eszközzel rögzítették.
 
-[^210]: A 22. § a 286/2019. (XII. 4.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^211]: A 22. § a 286/2019. (XII. 4.) Korm. rendelet 11. §-ával megállapított szöveg.
