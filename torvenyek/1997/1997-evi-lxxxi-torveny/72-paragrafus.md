@@ -8,6 +8,6 @@ b) a hozzátartozói nyugellátás megállapítása iránti kérelmet a tárgyé
 
 és az általános ügyintézési határidő a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését követő tizenötödik napot megelőzően telik le.
 
-(3) A nyugdíj-biztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat vagy hatósági bizonyítvány kiadásának ügyintézési határideje tizenöt nap.
+(3) A nyugdíjbiztosítási igazgatási szerv által nyilvántartott adatokról szóló kivonat kiadásának ügyintézési határideje nyolc nap.
 
 (4)

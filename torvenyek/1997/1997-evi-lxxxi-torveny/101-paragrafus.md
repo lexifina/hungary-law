@@ -40,7 +40,7 @@ q)
 
 r) a társadalombiztosítási egyéni számlával kapcsolatos részletes szabályokat;
 
-s) az egyeztetési eljárás és a jogosultsági idő, szolgálati idő igazolása iránti eljárás részletes szabályait
+s) az egyeztetési eljárás részletes szabályait
 
 rendeletben határozza meg.
 
