@@ -46,3 +46,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-60-20-0
 | 2023-09-28 | 2003-60-20-0M.52 | 73/2013. (XII. 2.) EMMI rendelet |
 | 2024-01-01 | 2003-60-20-0M.53 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-03-01 | 2003-60-20-0M.54 | 73/2013. (XII. 2.) EMMI rendelet |
+| 2024-07-01 | 2003-60-20-0M.55 | 73/2013. (XII. 2.) EMMI rendelet |
