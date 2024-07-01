@@ -1,0 +1,1 @@
+13. § Az „A1 kategóriában gondozás mellett alkalmas”, az „A2 kategóriában gondozás mellett alkalmas”, valamint az „A3 kategóriában gondozás mellett alkalmas” minősítés esetén az állomány tagjának fegyelmi felelősségre vonását kell kezdeményezni, ha a részére kötelezően előírt gondozáson neki felróható okból nem vesz részt.

@@ -1,0 +1,3 @@
+19. § (1) A minősítésre jogosult a 3. § (4) bekezdése szerinti minősítést minősítőlapon állapítja meg. A minősítőlapon rögzíteni kell különösen a minősítést és annak érvényességét, valamint a jogorvoslat lehetőségéről vagy kizártságáról szóló tájékoztatást. A minősítés során készült ambuláns lap a minősítést megalapozó okokat, körülményeket, valamint az esetlegesen elrendelt intézkedések meghatározását tartalmazza.
+
+(2) A minősítésre jogosult a minősítőlapot írásban közli a katonai szolgálatra jelentkezővel és az állomány tagjával, illetve másolat megküldésével értesíti az érintett honvédelmi szervezeteket. A minősítésre jogosult a minősítés során készült ambuláns lapot közli a katonai szolgálatra jelentkezővel, az állomány tagjával és az alapellátást végző orvossal.

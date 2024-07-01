@@ -1,0 +1,1 @@
+24. § Az állomány tagja – egészségi és pszichés állapotának minősítés nélküli rögzítése érdekében – a szolgálati viszony megszűnése, megszüntetése esetén alkalmazandó eljárás keretében egészségi és pszichológiai záróvizsgálaton való részvételre kötelezett.

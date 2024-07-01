@@ -1,0 +1,1 @@
+9. § A hivatásos és a szerződéses szolgálati viszony létesítéséhez „A1 kategóriában alkalmas”, „A1 kategóriában korlátozással alkalmas” vagy „A1 kategóriában gondozás mellett alkalmas” minősítés szükséges.

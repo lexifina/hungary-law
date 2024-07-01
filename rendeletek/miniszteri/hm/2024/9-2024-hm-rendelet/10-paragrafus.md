@@ -1,0 +1,1 @@
+10. § Az állomány tagja általános egészségi és pszichikai terheléssel járó beosztást vagy álláshelyet akkor tölthet be, ha az A1, az A2, vagy az A3 alkalmassági kategória valamelyikében megállapított érvényes minősítéssel rendelkezik.

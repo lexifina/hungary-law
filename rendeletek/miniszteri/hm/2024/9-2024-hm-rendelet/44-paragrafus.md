@@ -1,0 +1,1 @@
+44. § A fizikai alkalmasság-vizsgálatot és a fizikai állapotfelmérést 2024. december 31-ig a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet 2024. június 30-án hatályos rendelkezései szerint kell elvégezni.

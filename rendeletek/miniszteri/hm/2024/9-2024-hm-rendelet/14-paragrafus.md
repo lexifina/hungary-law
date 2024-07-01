@@ -1,0 +1,1 @@
+14. § Az állomány „Egészségileg speciális feltételek mellett alkalmas, rehabilitált állapot” minősítéssel rendelkező tagja külföldi szolgálatra akkor vezényelhető, ha részére 8. § (1) bekezdés szerinti meghatározott környezeti és szolgálatteljesítési feltételek a külföldi szolgálat időtartama alatt is biztosíthatók.
