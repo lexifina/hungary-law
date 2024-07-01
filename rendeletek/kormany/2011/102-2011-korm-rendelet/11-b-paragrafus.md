@@ -2,13 +2,40 @@
 
 (2) Ha az elidegenítési tilalom ideje lejárt és az (1) bekezdés szerinti törlésre nem került sor, az elidegenítési tilalom megszűnik. Az elidegenítési tilalom megszűnésekor a törzskönyvet a szerzési támogatás jogosultjának, illetve örökösének kérelmére ki kell adni.
 
-(3)[^79] A szerzési támogatás jogosultja, illetve örököse a hivatal előzetes hozzájárulásával az elidegenítési tilalom fennállásának ideje alatt a személygépkocsit csak akkor idegenítheti el, ha a szerzési támogatásnak a határozathozatal napjától számított időarányos részét a miniszternek visszafizeti. A hivatal az előzetes hozzájárulást megadó határozatában rendelkezik a támogatás időarányos részének tizenöt napon belüli visszafizetéséről, az elidegenítési tilalom járműnyilvántartásból való törléséről és a törzskönyvnek a szerzési támogatás jogosultja, illetve örököse részére történő kiadásáról. A hivatal a határozatot közli a miniszterrel. A hivatal az elidegenítési tilalom törlését akkor kezdeményezi a közlekedési igazgatási hatóságnál, ha a visszafizetés megtörténtét a miniszter visszaigazolja, vagy a szerzési támogatás jogosultja, illetve örököse hitelt érdemlően igazolja. Ha a szerzési támogatás időarányos részének visszafizetése a határozatban megállapított határideig nem történik meg, a hivatal az előzetes hozzájárulást visszavonja.
+(3)[^79] A szerzési támogatás jogosultja, illetve örököse a hivatal előzetes hozzájárulásával az elidegenítési tilalom fennállásának ideje alatt a személygépkocsit csak akkor idegenítheti el, ha
 
-(4)[^80] Ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit eltulajdonították, a hivatal az elidegenítési tilalom törlését a szerzési támogatás jogosultjának, illetve örökösének kérelmére rendeli el. Ha a kérelemhez nem mellékelték a törlésre okot adó körülmények igazolására szolgáló okiratok másolatát, a hivatal adatszolgáltatási kérelemmel fordul a közlekedési igazgatási hatósághoz. A hivatal a határozatot közli a közlekedési igazgatási hatósággal, és kezdeményezi az elidegenítési tilalom törlését.
+a) a szerzési támogatásnak a határozathozatal napjától számított időarányos részét a miniszternek visszafizeti, vagy
 
-(5)[^81] A hivatal az elidegenítési tilalom törlését abban az esetben is elrendeli, ha a személygépkocsinak a műszaki állapota miatt a közúti forgalomból történő végleges kivonására még nem került sor, de a szerzési támogatás jogosultja, illetve örököse igazolja, hogy rendelkezik regisztrált bontó-hulladékkezelő által kiállított bontási átvételi igazolással, valamint azt, hogy a személygépkocsi közúti forgalomból történő végleges kivonására irányuló kérelmét a közlekedési igazgatási hatósághoz benyújtotta.
+b) az elidegenítéssel egyidejűleg a 4. § (1) bekezdés
+
+ba) a) pontja szerinti gépjármű esetében a 9. § (1) bekezdés a) pontja szerint a közúti járművek műszaki megvizsgálásáról szóló rendelet értelmében új járműnek minősülő személygépkocsit vagy
+
+bb) b) pontja szerinti gépjármű esetében a 9. § (1) bekezdés b) pontja szerint újnak nem minősülő, de legfeljebb öt éve forgalomba helyezett személygépkocsit
+
+vásárol, és erre az elidegenítési tilalom átjegyzéséhez hozzájárul.
+
+(3a)[^80] A hivatal a (3) bekezdés szerinti előzetes hozzájárulást megadó határozatában rendelkezik
+
+a) a (3) bekezdés a) pontja szerinti esetben a támogatás időarányos részének tizenöt napon belüli visszafizetéséről, az elidegenítési tilalom járműnyilvántartásból való törléséről és a törzskönyvnek a szerzési támogatás jogosultja, illetve örököse részére történő kiadásáról,
+
+b) a (3) bekezdés b) pontja szerinti esetben az elidegenítési tilalomnak az átjegyzéséről és törzskönyvnek a szerzési támogatás jogosultja, illetve örököse részére történő kiadásának feltételeiről és módjáról.
+
+(3b)[^81] A hivatal a határozatot közli a miniszterrel. A hivatal az elidegenítési tilalom törlését, átjegyzését akkor kezdeményezi a közlekedési igazgatási hatóságnál, ha
+
+a) visszafizetési kötelezettség esetén a visszafizetés megtörténtét a miniszter visszaigazolja, vagy a szerzési támogatás jogosultja, illetve örököse hitelt érdemlően igazolja,
+
+b) átjegyzés esetén a 4. § (1) bekezdés a) vagy b) pontjában meghatározott személygépjármű pontos megjelölését tartalmazó, az elidegenítési tilalom átjegyzéséhez való hozzájárulást tartalmazó nyilatkozatot a szerzési támogatás jogosultja a hivatalnak átadja.
+
+(3c)[^82] Ha a szerzési támogatás időarányos részének visszafizetése vagy a (3b) bekezdés b) pontjában foglalt nyilatkozat átadása a határozatban megállapított határidőig nem történik meg, a hivatal az előzetes hozzájárulást visszavonja.
+
+(4)[^83] Ha a személygépkocsit műszaki állapota miatt a közúti forgalomból véglegesen kivonták vagy a személygépkocsit eltulajdonították, a hivatal az elidegenítési tilalom törlését a szerzési támogatás jogosultjának, illetve örökösének kérelmére rendeli el. Ha a kérelemhez nem mellékelték a törlésre okot adó körülmények igazolására szolgáló okiratok másolatát, a hivatal adatszolgáltatási kérelemmel fordul a közlekedési igazgatási hatósághoz. A hivatal a határozatot közli a közlekedési igazgatási hatósággal, és kezdeményezi az elidegenítési tilalom törlését.
+
+(5)[^84] A hivatal az elidegenítési tilalom törlését abban az esetben is elrendeli, ha a személygépkocsinak a műszaki állapota miatt a közúti forgalomból történő végleges kivonására még nem került sor, de a szerzési támogatás jogosultja, illetve örököse igazolja, hogy rendelkezik regisztrált bontó-hulladékkezelő által kiállított bontási átvételi igazolással, valamint azt, hogy a személygépkocsi közúti forgalomból történő végleges kivonására irányuló kérelmét a közlekedési igazgatási hatósághoz benyújtotta.
 
 [^78]: A 11/B. §-t a 189/2011. (IX. 19.) Korm. rendelet 6. §-a iktatta be.
-[^79]: A 11/B. § (3) bekezdése a 402/2017. (XII. 15.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
-[^80]: A 11/B. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (5) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^81]: A 11/B. § (5) bekezdését a 66/2016. (III. 31.) Korm. rendelet 5. §-a iktatta be.
+[^79]: A 11/B. § (3) bekezdése a 104/2024. (V. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^80]: A 11/B. § (3a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 15. §-a iktatta be.
+[^81]: A 11/B. § (3b) bekezdését a 104/2024. (V. 9.) Korm. rendelet 15. §-a iktatta be.
+[^82]: A 11/B. § (3c) bekezdését a 104/2024. (V. 9.) Korm. rendelet 15. §-a iktatta be.
+[^83]: A 11/B. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 324. § (5) bekezdésével megállapított, a 303/2018. (XII. 27.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^84]: A 11/B. § (5) bekezdését a 66/2016. (III. 31.) Korm. rendelet 5. §-a iktatta be.

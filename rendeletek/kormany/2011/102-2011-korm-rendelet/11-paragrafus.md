@@ -1,4 +1,4 @@
-11. § (1)[^69] Az utalványt a hivatal a jogosultságot megállapító határozatának véglegessé válását követő tizenöt napon belül állítja ki.
+11. § (1)[^69] Az utalványt a hivatal a jogosultságot megállapító határozatának véglegessé válását követő nyolc napon belül állítja ki.
 
 (2) A 4. § (1) bekezdés c)–d) pontja szerinti jármű, illetve kerekesszék az utalvány kiállítását követően vásárolható meg, a személygépkocsi pedig ezt követően alakítható át. Az utalvány kiállítása előtti megvásárlás vagy átalakítás esetén a közlekedési kedvezmény nem folyósítható.
 
@@ -12,7 +12,7 @@
 
 (7) A miniszter az utalvány felhasználásáról az utalvány ellenértékének kiegyenlítését követő nyolc napon belül értesíti a hivatalt az (5) bekezdés szerinti, számlán feltüntetett adatok megjelölésével.
 
-[^69]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 325. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^69]: A 11. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 325. § a) pontja, a 104/2024. (V. 9.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^70]: A 11. § (3) bekezdése a 414/2021. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^71]: A 11. § (5) bekezdése a 61/2012. (III. 30.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^72]: A 11. § (6) bekezdése a 303/2018. (XII. 27.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.

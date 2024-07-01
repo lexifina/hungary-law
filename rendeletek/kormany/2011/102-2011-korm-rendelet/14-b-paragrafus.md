@@ -1,11 +1,11 @@
-## 14/A. §[^89] A 2020. évben a 8. § (1) bekezdése szerinti keretszámról a miniszter 2020. augusztus 31-éig tájékoztatja a hivatalokat.
+## 14/A. §[^92] A 2020. évben a 8. § (1) bekezdése szerinti keretszámról a miniszter 2020. augusztus 31-éig tájékoztatja a hivatalokat.
 
-## 14/B. §[^90] A 2020. évben a 8. § (2) bekezdés a) pontja szerinti
+## 14/B. §[^93] A 2020. évben a 8. § (2) bekezdés a) pontja szerinti
 
-a) kérelmek 2020. augusztus 31-éig nyújthatóak be, azzal, hogy a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 392/2020. (VIII. 12.) Korm. rendelet hatálybalépését[^91] megelőzően benyújtott kérelmek a rendelet hatálybalépését követően ismételten benyújthatóak,
+a) kérelmek 2020. augusztus 31-éig nyújthatóak be, azzal, hogy a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló 102/2011. (VI. 29.) Korm. rendelet módosításáról szóló 392/2020. (VIII. 12.) Korm. rendelet hatálybalépését[^94] megelőzően benyújtott kérelmek a rendelet hatálybalépését követően ismételten benyújthatóak,
 
 b) esetben a döntést 2020. szeptember 20-áig kell meghozni.
 
-[^89]: A 14/A. § -t újból a 392/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.
-[^90]: A 14/B. §-t újból a 392/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.
-[^91]: A hatálybalépés időpontja 2020. augusztus 15.
+[^92]: A 14/A. § -t újból a 392/2020. (VIII. 12.) Korm. rendelet 1. §-a iktatta be.
+[^93]: A 14/B. §-t újból a 392/2020. (VIII. 12.) Korm. rendelet 2. §-a iktatta be.
+[^94]: A hatálybalépés időpontja 2020. augusztus 15.
