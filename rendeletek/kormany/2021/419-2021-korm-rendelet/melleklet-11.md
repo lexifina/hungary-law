@@ -294,7 +294,7 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 22. | fővárosi és vármegyei rendőr-főkapitányság[^78] | határrendészet | – | – |
 
-| 23. | bányafelügyelet | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
+| 23. | a bányafelügyelet, ha a Szabályozott Tevékenységek Felügyeleti Hatósága a 61. § (2) bekezdése alapján a Lechner Tudásközpont felé adatot szolgáltatott[^79] | bányászat, geológia, morfológia, földtani veszélyforrások | – | – |
 
 | 24. | Nemzeti Média- és Hírközlési Hatóság Hivatala | hírközlés | hírközlés | hírközlés |
 
@@ -304,7 +304,7 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 
 | 27. | Magyar Építész Kamara | – | településkép-védelem | – |
 
-| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^79] | területrendezés, településfejlesztés | – | – |
+| 28. | érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat[^80] | területrendezés, településfejlesztés | – | – |
 
 | 29. | érintett kiemelt térségi fejlesztési tanács | a kiemelt térség fejlesztési koncepcióval való összhang megteremtése | – | – |
 
@@ -327,4 +327,5 @@ A TELEPÜLÉSTERV, A TELEPÜLÉSI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RE
 [^76]: A 11. mellékletben foglalt táblázat A:20 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a, a 107/2024. (V. 9.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
 [^77]: A 11. mellékletben foglalt táblázat B:20 mezője a 107/2024. (V. 9.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
 [^78]: A 11. mellékletben foglalt táblázat A:22 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
-[^79]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
+[^79]: A 11. mellékletben foglalt táblázat A:23 mezője a 141/2024. (VI. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^80]: A 11. mellékletben foglalt táblázat A:28 mezője a 616/2022. (XII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
