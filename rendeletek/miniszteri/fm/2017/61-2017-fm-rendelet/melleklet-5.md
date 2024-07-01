@@ -1,4 +1,4 @@
-5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^92]
+5. melléklet a 61/2017. (XII. 21.) FM rendelethez[^93]
 
 Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó helységek (név, erdészeti azonosító) listája az erdészeti hatóságként eljáró vármegyei kormányhivatalok illetékességi területe szerint
 
@@ -2712,10 +2712,4 @@ Az erdőtervezési körzetek, valamint az erdőtervezési körzeteket alkotó he
 
 5.2.10. Gadács (6096)
 
-5.2.11. Gálosfa (6240)
-
-5.2.12. Gölle (6223)
-
-5.2.13. Hajmás (6241)
-
-[^92]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja, a 28/2024. (IV. 23.) AM rendelet 6. § a) pontja, 7. § j) pontja és a 8. § d) pontja szerint módosított szöveg.
+[^93]: Az 5. melléklet a 63/2020. (XII. 16.) AM rendelet 13. §-a és 15. §-a, a 23/2023. (V. 10.) AM rendelet 30. § c) és d) pontja, a 28/2024. (IV. 23.) AM rendelet 6. § a) pontja, 7. § j) pontja és a 8. § d) pontja szerint módosított szöveg.

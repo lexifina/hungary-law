@@ -8,6 +8,6 @@ c) erdősítési célállomány a 8. melléklet szerinti célállománynak a 9. 
 
 felel meg.
 
-(2)[^88]
+(2)[^89]
 
-[^88]: A 65. § (2) bekezdését a 183/2023. (XII. 27.) AM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^89]: A 65. § (2) bekezdését a 183/2023. (XII. 27.) AM rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -2,12 +2,12 @@
 
 ## 20. Az erdőgazdálkodási tevékenység elrendelésének szabályai
 
-56. § (1)[^82] Az Evt. 106. § szerint elrendelt erdőgazdálkodási tevékenység végrehajtásával erdészeti szakirányító vállalkozást lehet megbízni.
+56. § (1)[^83] Az Evt. 106. § szerint elrendelt erdőgazdálkodási tevékenység végrehajtásával erdészeti szakirányító vállalkozást lehet megbízni.
 
-(2)[^83] Az elrendelt erdőgazdálkodási tevékenység végrehajtására megállapodást a miniszter által kiadott közleményben foglalt szolgáltatási egységdíjakat meg nem haladó mértékű árajánlat alkalmazásával lehet kötni.
+(2)[^84] Az elrendelt erdőgazdálkodási tevékenység végrehajtására megállapodást a miniszter által kiadott közleményben foglalt szolgáltatási egységdíjakat meg nem haladó mértékű árajánlat alkalmazásával lehet kötni.
 
-(3)[^84]
+(3)[^85]
 
-[^82]: Az 56. § (1) bekezdése az 51/2020. (X. 16.) AM rendelet 3. §-a szerint módosított szöveg.
-[^83]: Az 56. § (2) bekezdése a 35/2024. (VI. 10.) AM rendelet 11. § g) pontja szerint módosított szöveg.
-[^84]: Az 56. § (3) bekezdését a 28/2024. (IV. 23.) AM rendelet 8. § c) pontja hatályon kívül helyezte.
+[^83]: Az 56. § (1) bekezdése az 51/2020. (X. 16.) AM rendelet 3. §-a szerint módosított szöveg.
+[^84]: Az 56. § (2) bekezdése a 35/2024. (VI. 10.) AM rendelet 11. § g) pontja szerint módosított szöveg.
+[^85]: Az 56. § (3) bekezdését a 28/2024. (IV. 23.) AM rendelet 8. § c) pontja hatályon kívül helyezte.

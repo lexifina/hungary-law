@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-61-20-1
 | 2024-01-01 | 2017-61-20-11.12 | 183/2023. (XII. 27.) AM rendelet |
 | 2024-05-01 | 2017-61-20-11.13 | 28/2024. (IV. 23.) AM rendelet |
 | 2024-06-11 | 2017-61-20-11.15 | 35/2024. (VI. 10.) AM rendelet |
+| 2024-07-01 | 2017-61-20-11.14 | 28/2024. (IV. 23.) AM rendelet |
