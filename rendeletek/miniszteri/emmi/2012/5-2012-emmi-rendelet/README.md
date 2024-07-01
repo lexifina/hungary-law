@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-5H
 | 2021-01-29 | 2012-5-20-5H.8 | 3/2021. (I. 28.) EMMI rendelet |
 | 2022-01-01 | 2012-5-20-5H.9 | 61/2021. (XII. 28.) EMMI rendelet |
 | 2023-01-01 | 2012-5-20-5H.10 | 8/2022. (XII. 28.) KIM rendelet |
+| 2024-07-01 | 2012-5-20-5H.11 | 14/2024. (VI. 11.) KIM rendelet |
