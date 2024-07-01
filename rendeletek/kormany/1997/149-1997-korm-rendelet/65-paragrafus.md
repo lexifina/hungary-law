@@ -46,15 +46,15 @@ b) a gyermek bölcsődei ellátását, gyermekek esélynövelő szolgáltatásá
 
 a)[^493] ingatlanra vonatkozó becsült forgalmi értékét, akkor az ingatlan forgalmi értékének megállapítása érdekében megkeresi az állami adóhatóság ingatlan fekvése szerint illetékes vármegyei (fővárosi) adó- és vámigazgatóságát,
 
-b) járműre vonatkozó becsült forgalmi értékét, akkor az értéket a jármű forgalmi adóval csökkentett belföldi fogyasztói árának és használtsága mértékének figyelembevételével állapítja meg.
+b)[^494] járműre vonatkozó becsült forgalmi értékét, akkor az értéket a Nemzeti Adó- és Vámhivatal vámszerve állapítja meg.
 
-(6)[^494] A vagyoni helyzet vizsgálata során nem tekinthető hasznosítható ingatlannak különösen a forgalomképtelen, az elidegenítési tilalom alatt álló és – kivéve, ha a haszonélvezeti jog jogosultja a gyermek vagy a vele közös háztartásban élő közeli hozzátartozó – a haszonélvezeti joggal terhelt ingatlan.
+(6)[^495] A vagyoni helyzet vizsgálata során nem tekinthető hasznosítható ingatlannak különösen a forgalomképtelen, az elidegenítési tilalom alatt álló és – kivéve, ha a haszonélvezeti jog jogosultja a gyermek vagy a vele közös háztartásban élő közeli hozzátartozó – a haszonélvezeti joggal terhelt ingatlan.
 
-(7)[^495] A vagyoni helyzet vizsgálata során a lízingelt dolgon fennálló használati jogot meghatározott időre szóló vagyoni értékű jogként kell figyelembe venni. A meghatározott időre szóló vagyoni értékű jog értékének meghatározására az illetékekről szóló 1990. évi XCIII. törvény 72. §-ának (2) bekezdése az irányadó.
+(7)[^496] A vagyoni helyzet vizsgálata során a lízingelt dolgon fennálló használati jogot meghatározott időre szóló vagyoni értékű jogként kell figyelembe venni. A meghatározott időre szóló vagyoni értékű jog értékének meghatározására az illetékekről szóló 1990. évi XCIII. törvény 72. §-ának (2) bekezdése az irányadó.
 
-(8)[^496] Ha a települési önkormányzat jegyzője a Gyvt. 131. §-ának (4) bekezdésében foglalt jogkörében a jövedelmet vélelmezi, a havi egy főre jutó vélelmezett jövedelem nem haladhatja meg a gyermeket gondozó család által lakott lakás és a tulajdonában álló vagyontárgyak egy főre jutó együttes havi fenntartási költségének kétszeresét.
+(8)[^497] Ha a települési önkormányzat jegyzője a Gyvt. 131. §-ának (4) bekezdésében foglalt jogkörében a jövedelmet vélelmezi, a havi egy főre jutó vélelmezett jövedelem nem haladhatja meg a gyermeket gondozó család által lakott lakás és a tulajdonában álló vagyontárgyak egy főre jutó együttes havi fenntartási költségének kétszeresét.
 
-(9)[^497] A (8) bekezdés szerinti fenntartási költségnek minősülnek a közüzemi díjak, a lakbér, a közös költség, a telefondíj, a kötelező és önkéntes biztosítás díjai, az adó- és adójellegű befizetések, valamint a hiteltörlesztés és a lízingdíj.
+(9)[^498] A (8) bekezdés szerinti fenntartási költségnek minősülnek a közüzemi díjak, a lakbér, a közös költség, a telefondíj, a kötelező és önkéntes biztosítás díjai, az adó- és adójellegű befizetések, valamint a hiteltörlesztés és a lízingdíj.
 
 [^484]: A VIII. Fejezet a 315/2005. (XII. 25.) Korm. rendelet 46. §-ával megállapított szöveg. A rendszeres gyermekvédelmi támogatásra való jogosultság megszűnése, vagy a támogatás továbbfolyósítása tekintetében lásd e módosító rendelet 78. § (2)–(3) bekezdését.
 [^485]: A 65. § (1) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 11. § 7. pontja szerint módosított szöveg.
@@ -66,7 +66,8 @@ b) járműre vonatkozó becsült forgalmi értékét, akkor az értéket a járm
 [^491]: A 65. § (2) bekezdés első mondatát a 173/2009. (VIII. 29.) Korm. rendelet 63. § (1) bekezdés o) pontja hatályon kívül helyezte. A 65. § (2) bekezdése a 205/2021. (IV. 29.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^492]: A 65. § (4) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés h) pontja szerint módosított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^493]: A 65. § (5) bekezdés a) pontja a 98/2013. (III. 29.) Korm. rendelet 1. § (3) bekezdésével megállapított, a 486/2015. (XII. 29.) Korm. rendelet 3. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
-[^494]: A 65. § (6) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^495]: A 65. § (7) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^496]: A 65. § (8) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
-[^497]: A 65. § (9) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^494]: A 65. § (5) bekezdés b) pontja a 104/2024. (V. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^495]: A 65. § (6) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^496]: A 65. § (7) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^497]: A 65. § (8) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+[^498]: A 65. § (9) bekezdését a 251/2006. (XII. 6.) Korm. rendelet 13. §-a iktatta be. E módosító rendelet 21. § (3) bekezdése alapján a rendelkezést a 2007. január 1. napja után indult ügyekben és a megismételt eljárásokban kell alkalmazni.
