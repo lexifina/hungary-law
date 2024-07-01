@@ -1,0 +1,3 @@
+## 14. A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet módosítása
+
+23. § A településtervek tartalmáról, elkészítésének és elfogadásának rendjéről, valamint egyes településrendezési sajátos jogintézményekről szóló 419/2021. (VII. 15.) Korm. rendelet 11. melléklet A:23 mezőjében a „bányafelügyelet” szövegrész helyébe az „a bányafelügyelet, ha a Szabályozott Tevékenységek Felügyeleti Hatósága a 61. § (2) bekezdése alapján a Lechner Tudásközpont felé adatot szolgáltatott” szöveg lép.
