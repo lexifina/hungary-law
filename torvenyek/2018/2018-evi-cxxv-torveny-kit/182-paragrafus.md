@@ -14,7 +14,7 @@ d) nevelőszülői foglalkoztatási jogviszonyt létesítsen,
 
 e) hazai, külföldi vagy nemzetközi sportszövetség vagy sportegyesület, nemzetközi sportszervezet tagja, elnökségi tagja, vezető tisztségviselője vagy egyéb tisztségviselője legyen,
 
-f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
+f) hivatásos szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a honvédek jogállásáról szóló kormányrendelet vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint szüneteljen.
 
 g) adó- és vámhatósági szolgálati jogviszonya a politikai felsővezetői kinevezés időtartamára a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerint szüneteljen.
 

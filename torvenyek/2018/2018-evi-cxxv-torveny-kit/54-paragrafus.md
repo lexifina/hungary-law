@@ -30,6 +30,8 @@ c) kirendelt vagy vezényelt, a Nemzeti Adó- és Vámhivatal személyi állomá
 
 (3a) Ha a (3) bekezdés szerint vezénylés vagy az 1. § (3) bekezdése szerinti beosztás útján szakmai vezetői álláshely betöltésére kerül sor, nem kell alkalmazni a 3. § (6) bekezdés b) pontját.
 
+(3b) Ha a (3) vagy a (3a) bekezdés alapján olyan katonai szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a kormányzati igazgatási szervhez, aki az 55. életévét betöltötte, a kormányzati igazgatási szerv a vezényeltet belföldi szervezeti egységhez tartozó álláshelyen köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a kormányzati igazgatási szerv nem rendelkezik olyan betölthető álláshellyel, amely a vezényelt képesítésének megfelel, a kormányzati igazgatási szerv gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a kormányzati igazgatási szerv vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
 (4) Egy álláshelyen egyidejűleg – az (5) bekezdésben meghatározott kivétellel – egy jogviszony hozható létre.
 
 (5) Több jogviszony egy álláshelyen

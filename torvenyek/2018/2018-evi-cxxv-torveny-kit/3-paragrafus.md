@@ -78,7 +78,7 @@ d) az osztályvezető.
 
 (11) A (2) bekezdés c) pontjától eltérően kabinetfőnöknek kinevezhető
 
-a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló törvény szerint a minisztériumba vezényelt vagy kirendelt,
+a) a honvédelemért felelős miniszter által vezetett minisztériumban, hivatásos szolgálati jogviszonyban álló, a honvédek jogállásáról szóló kormányrendelet szerint a minisztériumba vezényelt,
 
 b) a rendészetért felelős miniszter által vezetett minisztériumban a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerint a minisztériumba vezényelt,
 
