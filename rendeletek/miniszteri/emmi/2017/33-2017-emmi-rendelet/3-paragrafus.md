@@ -10,6 +10,8 @@ c) elvégzi a 2. § (3) bekezdése szerinti helyszíni ellenőrzést, valamint
 
 d) meghatározza a könyvtári önértékelés szempontrendszerét.
 
-(3) A Könyvtári Intézet az e rendeletben foglalt feladatait a miniszter által jóváhagyott ügyrendje alapján látja el, melyet az Országos Széchényi Könyvtár szervezeti és működési szabályzata tartalmaz.
+(3)[^2] A Könyvtári Intézet az e rendeletben foglalt feladatait a miniszter által jóváhagyott ügyrendje alapján látja el, melyet az OSZK szervezeti és működési szabályzata tartalmaz.
 
 (4) A könyvtári önértékelés szakmai szempontrendszeréről, a pályázatok ellenőrzési és értékelési rendszeréről, valamint az ellenőrzés folyamatáról a Könyvtári Intézet szabályzatot készít, melyet – a miniszter jóváhagyását követően – a honlapján közzétesz.
+
+[^2]: A 3. § (3) bekezdése a 21/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.
