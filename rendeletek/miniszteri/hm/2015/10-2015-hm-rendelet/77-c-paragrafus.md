@@ -1,3 +1,0 @@
-77/C. § (1) Veszélyhelyzet ideje alatt a külföldi szolgálat időtartamára a 34. § (1) bekezdésétől eltérően az 1 éven belül elvégzett „Beosztásában szolgálatra alkalmas” minősítés és a 18. melléklet szerinti nyilatkozat kitöltése esetén a „Tervezett beosztásra alkalmas” minősítés alkalmasság-vizsgálat elvégzése nélkül kiállítható.
-
-(2) Veszélyhelyzet ideje alatt a 38. § (1) bekezdésétől eltérően a kötelező szolgálatmentesség lejárta után a honvédelmi szervezet orvosa által elvégzett ellenőrző vizsgálatot követően megkezdhető a szolgálatteljesítés, kivéve, ha a honvéd külföldi katonai szolgálata alatt egészségi és pszichés állapotában változás következett be.
