@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2023-12-30 | 2023. évi XCI. törvény | 2015-42-00-00.49 |
 | 2024-01-01 | 2023. évi XCI. törvény | 2015-42-00-00.45 |
 | 2024-05-11 | 2024. évi XXV. törvény | 2015-42-00-00.53 |
+| 2024-07-01 | 2024. évi XXIX. törvény | 2015-42-00-00.54 |
