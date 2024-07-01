@@ -6,7 +6,13 @@
 
 7. § (1) A belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv ellátja az 1. § (2) bekezdés 14. pontjában meghatározott feladatokat. Ennek keretében:
 
-a) a vonatkozó jogszabályok alapján ellátja a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését,
+a) ellátja
+
+aa) a vonatkozó jogszabályok alapján a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben, valamint
+
+ab) a javítóintézet, – fenntartótól függetlenül – a gyermekotthont működtető intézmény, a gyermekotthon és a nevelőszülői hálózat által foglalkoztatott személynek vagy ilyen foglalkoztatásra pályázónak a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben
+
+meghatározott kifogástalan életvitel ellenőrzését,
 
 b) elvégzi
 
@@ -18,7 +24,9 @@ bc) az Országgyűlési Őrség hivatásos állománya, köztisztviselői és mu
 
 bd) a területi kormányzati igazgatási szervek foglalkoztatottjának
 
-[a ba)–bd) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
+be) az a) pont ab) alpontja szerinti személyek, a területi gyermekvédelmi szakszolgálatok örökbefogadási tanácsadó és pszichológus munkakörben foglalkoztatottjainak, valamint a nyílt örökbefogadást elősegítő tevékenységre működési engedéllyel rendelkező közhasznú szervezetek foglalkoztatottjainak
+
+[a ba)–be) alpontban foglaltak a továbbiakban együtt: védett állomány] megbízhatósági vizsgálatát,
 
 c) végzi a védett állománnyal összefüggő, jogszabályban meghatározott bűncselekmények megelőzését, továbbá a büntetőeljárásról szóló törvényben meghatározottak szerint végzi e bűncselekmények felderítését.
 
