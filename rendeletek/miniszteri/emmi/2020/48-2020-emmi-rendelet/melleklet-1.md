@@ -1,4 +1,4 @@
-1. melléklet a 48/2020. (XII. 23.) EMMI rendelethez[^5]
+1. melléklet a 48/2020. (XII. 23.) EMMI rendelethez[^6]
 
 A regionális könyvtárak és illetékességi területük
 
@@ -46,4 +46,4 @@ A regionális könyvtárak és illetékességi területük
 
 | 21. | Tolna vármegye |
 
-[^5]: Az 1. melléklet a 12/2022. (XII. 29.) KIM rendelet 13. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet a 12/2022. (XII. 29.) KIM rendelet 13. §-ával megállapított szöveg.
