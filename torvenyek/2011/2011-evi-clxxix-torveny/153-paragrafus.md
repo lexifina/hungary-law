@@ -1,4 +1,4 @@
-153. § (1) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatokra és az átalakult nemzetiségi önkormányzatokra alkalmazni kell a helyi önkormányzatokra vonatkozó jogszabályokat, az adósságrendezésre vonatkozó rendelkezések kivételével.
+153. § (1) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatokra és az átalakult nemzetiségi önkormányzatokra alkalmazni kell a helyi önkormányzatokra vonatkozó jogszabályokat, azzal, hogy a helyi önkormányzatok adósságrendezésére vonatkozó rendelkezések kizárólag az átalakult nemzetiségi önkormányzatok esetében alkalmazhatóak.
 
 (2) Ahol e törvény eltérően nem rendelkezik, a nemzetiségi önkormányzatok és a nemzetiségi települési önkormányzatok tisztségviselőinek jogállására, tiszteletdíjára, juttatásaira és a költség-átalányára a polgármesteri tisztség ellátására vonatkozó törvényi rendelkezések alkalmazandóak.
 
