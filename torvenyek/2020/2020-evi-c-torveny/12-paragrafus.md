@@ -6,7 +6,7 @@ a) az e törvény hatálya alá tartozó egészségügyi szolgáltatók között
 
 b) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv között,
 
-c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a honvédelmi alkalmazottak jogállásáról szóló törvény, vagy a honvédek jogállásáról szóló törvény hatálya alá tartozó személyt foglalkoztató szerv között.
+c) az e törvény hatálya alá tartozó egészségügyi szolgáltató és a honvédelmi alkalmazottak jogállásáról szóló törvény, vagy a honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó személyt foglalkoztató szerv között.
 
 (2) Az áthelyezés során meg kell állapodni az egészségügyi szolgálati jogviszonyban álló személy új munkakörében, munkahelyében, illetményében és az áthelyezés időpontjában.
 

@@ -64,7 +64,7 @@ l) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbia
 
 m) e törvény hatálya alá nem tartozó magyarországi vagy külföldi egészségügyi szolgáltatónál vagy külföldi szakirányú végzettséggel munkavégzésre irányuló jogviszonyban
 
-n) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban
+n) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban
 
 o) a pedagógusok új életpályájáról szóló törvény hatálya alá tartozó szervnél köznevelési foglalkoztatotti jogviszonyban, munkaviszonyban
 

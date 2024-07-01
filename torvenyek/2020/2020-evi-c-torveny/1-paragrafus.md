@@ -10,7 +10,11 @@ a) 4. § a) és c) pontja szerinti egészségügyi dolgozó,
 
 b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
-(4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – az (5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
+(4) Az (1) bekezdés szerinti egészségügyi szolgáltatónál – a (4a)–(5) bekezdésben foglalt kivétellel – csak egészségügyi szolgálati jogviszony keretében lehet egészségügyi tevékenységet és az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységet végezni. Az egészségügyi szolgáltató működőképességének, illetve az egészségügyi szolgáltatások üzemeltetésének biztosítására irányuló tevékenységek szabályait a Kormány rendeletben határozza meg.
+
+(4a) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor az (1) bekezdés szerinti egészségügyi szolgáltatóhoz, aki az 55. életévét betöltötte, az egészségügyi szolgáltató a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha az egészségügyi szolgáltató nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, az egészségügyi szolgáltató gondoskodik a munkakör betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig az egészségügyi szolgáltató vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(4b) A (4a) bekezdés szerinti esetben az (1) bekezdés szerinti egészségügyi szolgáltatónál az egészségügyi szolgáltató által ellátott feladatot az egészségügyi szolgáltatóhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
 
 (5) A (4) bekezdés nem zárja ki szakképzési munkaszerződés megkötését, továbbá – a Kormány rendeletében meghatározott személyes közreműködő kivételével – a közreműködő, valamint az önkéntes segítő egészségügyi szolgáltató általi igénybevételének lehetőségét.
 
@@ -18,9 +22,9 @@ b) 4. § b) pontja szerinti egészségügyben dolgozó.
 
 (5b) Nem terjed ki e törvény hatálya a szociális intézményként működő egészségügyi szolgáltatókra, valamint a szociális intézményként működő egészségügyi szolgáltatónál foglalkoztatott személyekre.
 
-(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében e törvény rendelkezéseit kell alkalmazni.
+(6) A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény szerinti felsőoktatási intézmény által fenntartott klinikai központban foglalkoztatott (3) bekezdés a) pontja szerinti egészségügyi dolgozó tekintetében a honvédek jogállási kérdéseit szabályozó jogszabály eltérő rendelkezése hiányában e törvény rendelkezéseit kell alkalmazni.
 
-(7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán törvényben meghatározottak szerint tartoznak e törvény hatálya alá.
+(7) A honvédelmi miniszter irányítása alá tartozó egészségügyi szolgáltató és foglalkoztatottjai a jogviszony sajátossága okán a honvédek jogállási kérdéseit szabályozó jogszabályban meghatározottak szerint tartoznak e törvény hatálya alá.
 
 (7a) A rendvédelmi feladatokat ellátó szerveknél működő egészségügyi szolgáltatók és foglalkoztatottjaik a jogviszony sajátossága okán nem tartoznak e törvény hatálya alá.
 
