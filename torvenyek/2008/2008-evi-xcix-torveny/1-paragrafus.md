@@ -16,7 +16,7 @@ g) elősegítse magyar nyelvű alkotások létrejöttét, ideértve a határon t
 
 h) támogassa az előadó-művészeti szervezetek művészeti és gazdasági együttműködését, hazai és külföldi vendégelőadások létrejöttét, színvonalas külföldi alkotások magyarországi bemutatását,
 
-i) elősegítse a gyermek és ifjúsági korosztály hozzáférési lehetőségeit a színház-, tánc- és zeneművészeti alkotások, előadások megismeréséhez, továbbá a minőségi előadó-művészeti szolgáltatások iránti társadalmi igény erősödését, hozzájáruljon az állami és az önkormányzati oktatási-nevelési feladatok ellátásának eredményességéhez, ösztönözze a művészeti értéket képviselő előadásokkal, hangversenyekkel kevésbé ellátott területeken élők kulturális igényeinek kielégítését,
+i) elősegítse a gyermek és ifjúsági korosztály, ezen belül is különösen a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény hatálya alá tartozó gyermekotthonban, valamint a speciális gyermekotthonban élő gyermekek kulturális, lelki, szellemi fejlődését, hozzáférési lehetőségeit a színház-, tánc- és zeneművészeti alkotások, előadások megismeréséhez, továbbá a minőségi előadó-művészeti szolgáltatások iránti társadalmi igény erősödését, hozzájáruljon az állami és az önkormányzati oktatási-nevelési feladatok ellátásának eredményességéhez, ösztönözze a művészeti értéket képviselő előadásokkal, hangversenyekkel kevésbé ellátott területeken élők kulturális igényeinek kielégítését,
 
 j) támogassa a szakmai dokumentációs és kutatási tevékenységet,
 

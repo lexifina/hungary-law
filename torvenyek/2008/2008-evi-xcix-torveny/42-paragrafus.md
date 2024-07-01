@@ -1,5 +1,1 @@
-42–43. §
-
-3. CÍM
-
-TÁNCMŰVÉSZETI ÉLETJÁRADÉK
+### 42. §
