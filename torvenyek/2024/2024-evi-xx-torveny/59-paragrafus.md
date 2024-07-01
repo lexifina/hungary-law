@@ -1,0 +1,11 @@
+59. § (1) A Hvt. 106. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A honvédek beosztásukhoz és feladataik végrehajtásához egyenruhát viselnek, a nyugállományúak és a honvédelmi szolgálati juttatásban részesülők a honvédelem érdekében végzett tevékenységük során egyenruhát viselhetnek. Egyenruha viselése a honvédelemért felelős miniszter rendeletében meghatározottak szerint engedélyezhető a szolgálaton kívüli állománynak, továbbá a rendelkezésre állása időszakában az önkéntes tartalékosnak és műveleti területen a rendvédelmi szerv tagjának, ha a Honvédség érdekében végeznek tevékenységet. Az önkéntes tartalékos a rendelkezésre állása időszakában a szerződésében meghatározott esetben is viselhet egyenruhát. A köztársasági elnök és a Kit. szerinti politikai vagy szakmai felsővezető műveleti területen és gyakorlaton egyenruhát viselhet. Más személyek részére a Honvédségnél rendszeresített egyenruha, vagy azzal összetéveszthető ruházat viselete tilos.”
+
+(2) A Hvt. 106. §-a a következő (9a) bekezdéssel egészül ki:
+
+„(9a) A honvédelemért felelős miniszter egyedi döntésével elrendelheti – a (8) bekezdésben meghatározottaktól eltérően – az egyenruha szolgálatteljesítési időn túl történő kötelező viselését a munkába járás során.”
+
+(3) A Hvt. 106. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A honvéd rendfokozatát az egyenruhán elhelyezett rendfokozati vagy megkülönböztető jelzések fejezik ki. Az önkéntes tartalékos a szerződésben meghatározottak szerint rendfokozatot visel. Rendszeresített rendfokozat viselésére kizárólag a honvéd, – a rá vonatkozó korlátozásokkal – az önkéntes tartalékos, a nyugállományú katona és a honvédelmi szolgálati juttatásban részesülő jogosult. Amennyiben a szolgálaton kívüli állomány tagjának egyenruha viselete engedélyezett, legutolsó rendfokozatát az egyenruhán elhelyezett rendfokozati jelzések fejezik ki. Az arra jogosult a rendfokozatát vagy az évfolyamjelzését neve feltüntetése után használja. A rendfokozatát az önkéntes tartalékos az önkéntes tartalékos állományra, a nyugállomány tagja a nyugállományra, a honvédelmi szolgálati juttatásban részesülő e juttatásban részesülésre, a szolgálaton kívüli állomány tagja a szolgálaton kívüli állományra utaló megjelöléssel használhatja. A név és a rendfokozat között a képzettségére utaló jelző nem használható.”

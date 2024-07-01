@@ -1,0 +1,3 @@
+44. § A Haj.tv. 17. alcíme a következő 99/G. §-sal egészül ki:
+
+„99/G. § Azon honvédelmi alkalmazottak esetében, akik részére a honvédek jogállásával összefüggő törvények módosításáról szóló 2024. évi XX. törvény (a továbbiakban: Módtv2.) hatálybalépését megelőző napon a 76. § (1a) bekezdés a) pontja szerinti keresetkiegészítés került biztosításra, a Módtv2. hatálybalépésének napjától, a 76. § (1a) bekezdése szerinti keresetkiegészítés megszüntetésével egyidejűleg ezen összeggel azonos mértékben emelkedik az alapilletményének a garantált illetménynél magasabb összegben megállapított illetményrésze.”

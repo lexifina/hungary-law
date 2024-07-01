@@ -1,0 +1,1 @@
+51. § A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 69. § (4) bekezdésében a „honvédek jogállásáról szóló törvény” szövegrész helyébe a „honvédek jogállásáról szóló kormányrendelet” szöveg lép.

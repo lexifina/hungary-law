@@ -1,0 +1,1 @@
+17. § Az Nketv. 21/A. § (1) bekezdés b) pontjában a „honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos vagy szerződéses jogviszonyban” szövegrész helyébe a „honvédek jogállásáról szóló kormányrendelet hatálya alá tartozó hivatásos vagy szerződéses szolgálati viszonyban” szöveg lép.
