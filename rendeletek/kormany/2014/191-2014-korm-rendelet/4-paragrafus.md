@@ -6,7 +6,7 @@ b)[^15] a föld fekvése szerinti települési önkormányzat polgármesteri hiv
 
 c)[^16] az ingatlanügyi hatóság honlapján, és
 
-d)[^17] a végrehajtást foganatosító bíróság és a föld fekvése szerint illetékes járásbíróság honlapján.
+d)[^17] annak a törvényszéknek a honlapján, amelynek a területén a végrehajtást foganatosító bíróság és a föld fekvése szerint illetékes járásbíróság működik.
 
 (2)[^18]
 
@@ -18,7 +18,7 @@ d)[^17] a végrehajtást foganatosító bíróság és a föld fekvése szerint 
 [^14]: A 4. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, az 561/2023. (XII. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
 [^15]: A 4. § (1) bekezdés b) pontja az 561/2023. (XII. 14.) Korm. rendelet 32. § d) pontja szerint módosított szöveg.
 [^16]: A 4. § (1) bekezdés c) pontja a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés d) pontja, az 561/2023. (XII. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
-[^17]: A 4. § (1) bekezdés d) pontja a 60/2023. (II. 28.) Korm. rendelet 28. §-ával megállapított, az 561/2023. (XII. 14.) Korm. rendelet 32. § c) pontja szerint módosított szöveg.
+[^17]: A 4. § (1) bekezdés d) pontja a 104/2024. (V. 9.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^18]: A 4. § (2) bekezdését az 561/2023. (XII. 14.) Korm. rendelet 33. §-a hatályon kívül helyezte.
 [^19]: A 4. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^20]: A 4. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 250. § (2) bekezdés b) pontja, az 561/2023. (XII. 14.) Korm. rendelet 32. § e) pontja szerint módosított szöveg.
