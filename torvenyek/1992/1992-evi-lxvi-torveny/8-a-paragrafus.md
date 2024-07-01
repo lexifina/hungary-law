@@ -24,4 +24,4 @@ k) ellátja a személyazonosítás céljára szolgáló, illetve jogosultságot 
 
 l) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy megszerzett huzamos tartózkodási jogosultságának nyilvántartásba vételével kapcsolatos feladatokat.
 
-m) ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+m)

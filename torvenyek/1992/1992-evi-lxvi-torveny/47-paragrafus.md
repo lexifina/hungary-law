@@ -22,7 +22,7 @@ i) azon eljárásokat és feltételeket, amelyek esetén a nyilvántartás szerv
 
 (1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a települési címek 39. §-ban meghatározott jegyzői ellenőrzési eljárásának részletes szabályait.
 
-(1c) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a digitális állampolgárság előregisztráció részletes szabályait.
+(1c)
 
 (2) A miniszter felhatalmazást kap arra, hogy rendeletben szabályozza
 

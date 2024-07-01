@@ -1,1 +1,1 @@
-24/P. § A járási hivatal, a kijelölt kormányhivatal és a nyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából a személyi azonosítót, a 29. § (2) bekezdése és a 11. § (1) bekezdés n) pontja szerinti adatokat jogosultak igényelni.
+### 24/P. §

@@ -22,7 +22,7 @@ j) ellátja a személyazonosítás céljára szolgáló, illetőleg jogosultság
 
 k) ellátja a 4. § (2a) bekezdés a) pontja szerinti külföldön élő magyar állampolgár személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos feladatokat.
 
-(2) A járási hivatal ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+(2)
 
 (3) Az anyakönyvvezető a nyilvántartást kezelő szerv részére továbbítja az intézetben született, Magyarországon élő magyar állampolgár újszülött részére hivatalból kiadásra kerülő állandó személyazonosító igazolvány kiállításához szükséges adatokat. Nem kerül hivatalból kiállításra az állandó személyazonosító igazolvány titkolt terhesség, a szülőnek a születést megelőzően, vagy azt követően az újszülött örökbefogadásához adott hozzájárulása, valamint az újszülött egészségi állapotára tekintettel az anya hivatalbóli kiállítást megakadályozó nyilatkozata esetén.
 

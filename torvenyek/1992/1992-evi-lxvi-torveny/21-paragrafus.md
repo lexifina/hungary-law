@@ -32,7 +32,7 @@ m) a közjegyző
 
 ma) az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével – a lakcímadatok vonatkozásában azonban a történeti adatokat is beleértve – a fizetési meghagyásos eljáráshoz, az európai fizetési meghagyásos eljáráshoz, a végrehajtási eljáráshoz, az európai uniós jogforráson alapuló tanúsítvány, igazolás, kivonat kiállítása iránti eljáráshoz,
 
-mb) a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása iránti eljáráshoz,
+mb)
 
 mc) a bejegyzett élettársi kapcsolat megszüntetésére irányuló, valamint az Élettársi Nyilatkozatok Nyilvántartásának vezetésére irányuló polgári nemperes eljáráshoz, továbbá az állampolgárságra, a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok, a nemre, és a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az egyéb közjegyzői nemperes eljárásokhoz;
 

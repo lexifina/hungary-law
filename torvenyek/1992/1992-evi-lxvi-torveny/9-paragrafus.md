@@ -50,7 +50,7 @@ r)
 
 s)
 
-(2a) A nyilvántartást kezelő szerv ellátja a 29/K. § szerinti digitális állampolgárság előregisztrációval összefüggő feladatokat.
+(2a)
 
 (3) A nyilvántartást kezelő szerv a Központi Okmánytárban – adatlapokon, illetve elektronikusan tárolva – kezeli:
 
