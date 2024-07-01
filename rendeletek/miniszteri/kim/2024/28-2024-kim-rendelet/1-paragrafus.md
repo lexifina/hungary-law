@@ -1,0 +1,1 @@
+1. § A Minősített Közösségi Színtér Cím, a Minősített Közművelődési Intézmény Cím és a Közművelődési Minőség Díj adományozásáról szóló 11/2022. (XII. 29.) KIM rendelet 7. § (2) bekezdésében a „2. § (1) bekezdése szerinti” szövegrész helyébe a „2. § (1) bekezdésében foglalt” szöveg lép.
