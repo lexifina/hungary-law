@@ -373,11 +373,3 @@ h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel eg
 i) a büntetés-végrehajtásért felelős miniszter, hogy – a miniszterrel és az igazságügyért felelős miniszterrel egyetértésben – a büntetés-végrehajtási intézetekben fogvatartottak élelmezési szakmai és táplálkozás-egészségügyi követelményeire vonatkozó szabályokat,
 
 j) az állami vagyon felügyeletéért felelős miniszter, hogy a 244/A. § (19) bekezdés szerinti kártalanítás mértékét
-
-rendeletben állapítsa meg.
-
-(5a) Felhatalmazást kap
-
-a) a közigazgatás-szervezésért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – a védettségi igazolvány kiállításáért fizetendő igazgatási szolgáltatási díjat, a díj megfizetésével, beszedésével, kezelésével, nyilvántartásával és visszatérítésével kapcsolatos részletes szabályokat,
-
-b) a külpolitikáért felelős miniszter, hogy – az egészségügyért felelős miniszterrel és a közbiztonságért felelős miniszterrel egyetértésben – a 74/J. § (2) bekezdése szerinti országokat
