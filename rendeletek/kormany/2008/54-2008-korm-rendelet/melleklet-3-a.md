@@ -4,17 +4,9 @@
 
 ## 1.1. A 8/A. § (1) bekezdés h) pontjában előírt bányajáradék vetítési alapját a következő képlet alapján kell megállapítani:
 
-|  | kitermelt mennyiség (m3, t, illetve MWh) × fajlagos érték (Ft/m3, Ft/t, illetve Ft/MWh) |
+## 1.2. A 8/A. § (1) bekezdés j) pontjában előírt bányajáradék-értéket a következő képlettel kell meghatározni:
 
-| bányajáradék vetítési alapja = | ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ |
-
-|  | 1000 |
-
-## 1.2. A 8/A. § (1) bekezdés j) pontjában előírt bányajáradék értéket a következő képlettel kell meghatározni:
-
-| bányajáradék értéke = | bányajáradék vetítési alapja × bányajáradék %-ban |
-
-| 100 |
+## bányajáradék értéke = bányajáradék vetítési alapja × bányajáradék %-ban
 
 ## 2. Geotermikus energiára vonatkozó bányajáradék önbevallás.
 
@@ -22,10 +14,12 @@
 
 ## 1X06738M_2
 
-## 2.2. A 8/A. § (3) bekezdés e) pontjában előírt kinyert energia mennyiséget a következő képlet alapján kell megállapítani:
+## 2.2. A 8/A. § (3) bekezdés e) pontjában előírt kinyertenergia-mennyiséget a következők szerint kell megállapítani:
 
-| kinyert energia mennyisége (GJ) = | az energiahordozó térfogata (m3) × t/2 (°C) × 0,004186 |
+## a) termálvízből kinyert energia mennyisége (GJ) = az energiahordozó térfogata (m3) × t/2 (°C) × 0,004186 GJ/m3°C,
 
-3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^66]
+## b) hőközvetítő anyagból kinyert energia mennyisége (GJ) = az energiahordozó térfogata (m3) × t/2 (°C) × energiahordozó fajhője GJ/m3 °C.
 
-[^66]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.
+3/a. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^72]
+
+[^72]: A 3/a. mellékletet a 251/2011. (XII. 1.) Korm. rendelet 34. §-a hatályon kívül helyezte.

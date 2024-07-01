@@ -1,10 +1,10 @@
-## 3X11982M.docx
+## 4X04415M.docx
 
 |  | A | B | C | D | E | F | G | H | I |
 
 | 1 | Főcsoport | Csoport | Alcsoport |  |  |  |  |
 
-| 2 | Megnevezése és a főcsoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | A csoporthoz tartozó típusos kőzet általános földtani leírása | Megnevezése | Az alcsoporthoz tartozó típusos kőzet általános földtani leírása | Kód | A nyersanyag fajlagos értéke | Mérték- egység | A 64/2013. (III. 4.) Korm. rendelet hatálybalépését megelőzően bevallott ásványi nyersanyag kódszáma és megnevezése |
+| 2 | Megnevezése és a főcsoporthoz tartozó típusos kőzet, egyéb anyag vagy energia általános földtani leírása | Megnevezése | A csoporthoz tartozó típusos kőzet, egyéb anyag vagy energia általános földtani leírása | Megnevezése | Az alcsoporthoz tartozó típusos kőzet általános földtani leírása | Kód | A nyersanyag fajlagos értéke | Mértékegység | A 64/2013. (III. 4.) Korm. rendelet hatálybalépését megelőzően bevallott ásványi nyersanyag kódszáma és megnevezése |
 
 | 3 | 1. Mélységi magmás (intruzív) kőzetek. A magma felszín alatti, több km mélységben történő megszilárdulásával létrejött kőzetek. | 1. Gránit | Olyan mélységi magmás (intruzív) kőzet amelynek SiO2 tartalma 70% körüli, (± 10%) kőzetalkotó ásványok csökkenő mennyiségi sorrendben: K-földpát, kvarc, Na-Ca-plagioklász, biotit, esetleg amfibólés/vagy rombos piroxén. Szövete durvaszemcsés, holokristályos, ekvigranuláris. | 1. Tömb gránit | Azon gránit nyersanyag, amely ép, tömör legalább 40%-ban 0,25m3-nél nagyobb tömbökben fejthető. | 1011 | 6 620 | Ft/m3 |  |
 
@@ -216,9 +216,9 @@
 
 | 106 | 2. Széndioxid földgáz | Olyan inert földgáz, amely CO2 tartalma legalább 60%, és fűtőértéke nem éri el a 12 MJ/m3-t. | 2142 | 3 900 | Ft/Em3 | 9400 Széndioxid földgáz |
 
-| 107 | 13. Geotermikus energia A földkéreg belső energiája. | 1. Geotermikus energia | A földkéreg belső hőenergiája, amely energetikai céllal hasznosítható. A geotermikus energia a legalább +30 C hőmérsékletű folyékony vagy gáz halmazállapotú anyagok közvetítésével (geotermikus energiahordozók), ezek közvetlen földkéregből való kitermelésével vagy recirkuláltatásával nyert energia. | 1. Geotermikus energiahordozó kitermelésével nyert geotermikus energia | Azon geotermikus energia, amelynek kinyerése a legalább +30 0C-os geotermikus energiahordozó közvetlen kitermelésével jár együtt. | 2211 | 2 000 | Ft/GJ | 2100 Geotermikus energiahordozó kitermelésével nyert geotermikus energia |
+| 107 | 13. Geotermikus energia A földkéreg belső energiája | 1. Geotermikus energia | A földkéreg belső hőenergiája, amely energetikai céllal hasznosítható, a geotermikus energiahordozók közvetlen földkéregből való kitermelésével vagy recirkuláltatásával. |  |  | 2211 | 2000 | Ft/GJ | 2100 Geotermikus energiahordozó kitermelésével nyert geotermikus energia 2200 Hőközvetítő anyag recirkulációjával nyert geotermikus energia |
 
-| 108 | 2. Hőközvetítő anyag recirkulációjával nyert geotermikus energia | Azon geotermikus energia, amelynek kinyerése hőközvetítő anyagnak a földkéregben történő recirkuláltatásával történik. | 2212 | 400 | Ft/GJ | 2200 Hőközvetítő anyag recirkulációjával nyert geotermikus energia |
+| 108 |  |  |  |  |  |  |  |  |  |
 
 | 109 | 14. Egyéb nyersanyagok | 1. Vegyes, kevert nyersanyagok | Azon ásványi (nyers)anyagok, melyek vegyes, kevert összetételük révén az 1–101. sorszám egyikébe sem sorolhatók be. | 1. Kevert ásványi nyersanyag I. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a melléklet 34., 36., 41–45. és 63. sorában szereplő nyersanyagot 60%-nál nagyobb mennyiségben tartalmazza. | 2311 | Az adott nyersanyagnál megjelölt fajlagos érték | Ft/m3 |  |
 
@@ -228,6 +228,8 @@
 
 | 112 |  | 4. Kevert ásványi nyersanyag IV. | Azon ásványi nyersanyag, amely földtani szakértő szakvéleménye alapján a melléklet 3–33., 35., 37–40., 46–62., 64–76. és 92–97. sorában szereplő nyersanyagot 60%-nál kisebb mennyiségben tartalmazza. | 2314. | 660 | Ft/m3 | 0000 Vegyes, kevert és meddő-hányóból nyert nyersanyagok |
 
-1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^64]
+| 113. | 15. Felszín alatti vizekben természetes módon oldott állapotban előforduló nyersanyagok Olyan kémiai elemek vagy vegyületek, melyek az elsődlegesen szilárd állapotban előforduló kőzetek és ásványok természetes oldódása révén kerülnek a felszín alatti vizekbe. | 1. Fémek | Felszín alatti vizekben oldott állapotban megtalálható fémes elemek. A fémek bármilyen forráskőzetből származhatnak, nem csak ércekből. |  |  | 3010 | Li = 45 570 Ft/kg U = 29 700 Ft/kg | Ft/kg |  |
 
-[^64]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.
+1/b. melléklet az 54/2008. (III. 20.) Korm. rendelethez[^70]
+
+[^70]: Az 1/B. mellékletet a 64/2013. (III. 4.) Korm. rendelet 13. § (1) bekezédés f) pontja hatályon kívül helyezte.

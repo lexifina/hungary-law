@@ -1,3 +1,3 @@
-## Az ásványi nyersanyagok megnevezése és meghatározása[^57]
+## Az ásványi nyersanyagok megnevezése és meghatározása[^62]
 
-[^57]: A 8/A. §-t megelőző alcímet a 411/2012. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
+[^62]: A 8/A. §-t megelőző alcímet a 411/2012. (XII. 28.) Korm. rendelet 26. §-a iktatta be.
