@@ -24,8 +24,10 @@ b) nem rendelkezik, és a tanfolyam megtartásához érvényes szerződéssel he
 
 (7) Az éves működési támogatás kizárólag a tanfolyam megszervezéséhez kapcsolódó közvetlen költségekre használható fel
 
-a) közhasznú szervezet esetén a támogatói okiratban meghatározott időszakban,
+a)[^1] közhasznú szervezet esetén a támogatói okiratban meghatározott időszakban, illetve
 
 b) területi gyermekvédelmi szakszolgálat esetén a tárgyév január 1-je és december 31-e közötti időszakban.
 
 (8) A területi gyermekvédelmi szakszolgálat a támogatási előleggel a tárgyévet követő év január 31-éig, a közhasznú szervezet a támogatói okiratban meghatározott időpontig, de legfeljebb a támogatott tevékenység időtartamát követő 30. napig, a támogatói okiratban rögzített módon köteles elszámolni.
+
+[^1]: A 9. § (7) bekezdés a) pontja a 27/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
