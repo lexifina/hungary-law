@@ -1,6 +1,6 @@
 ## 5/F. § Az elvégzett halmentésekről az 5/D. § (1) bekezdése és 5/E. § (1) bekezdése szerinti tartalommal a halmentést követő 15 napon belül adatot kell szolgáltatni a halgazdálkodási hatóság részére.
 
-## 1/B. [^5] Nyilvántartott halgazdálkodási vízterületről az őshonos halak haltermelés vagy kutatás céljából történő kifogásának engedélyezése
+## 1/B. [^6] Nyilvántartott halgazdálkodási vízterületről az őshonos halak haltermelés vagy kutatás céljából történő kifogásának engedélyezése
 
 5/G. § (1) Nyilvántartott halgazdálkodási vízterületről az őshonos halak és más hasznos víziállatok – mesterséges körülmények közötti termelési vagy kutatási célú szaporítás céljából történő – kifogása haltermelési létesítménybe történő áthelyezéssel a halgazdálkodási hatóság engedélyével végezhető.
 
@@ -56,8 +56,8 @@ a) kutatási, és
 
 b) amennyiben az adott halfaj mesterséges szaporítása kizárólag az ívásra felkészült egyedeinek begyűjtésével vagy az ivartermék helyben történő levételével biztosítható, mesterséges szaporítási
 
-## célból engedélyezhető.
+célból engedélyezhető.
 
 (8) A halgazdálkodási hatóság a (4) bekezdés szerinti engedélyt megküldi az Országos Halgazdálkodási Adattárat működtető szerv részére.
 
-[^5]: Az 1/B. alcímet (5/G–5/H. §) a 398/2021. (VII. 6.) Korm. rendelet 5. §-a iktatta be.
+[^6]: Az 1/B. alcímet (5/G–5/H. §) a 398/2021. (VII. 6.) Korm. rendelet 5. §-a iktatta be.

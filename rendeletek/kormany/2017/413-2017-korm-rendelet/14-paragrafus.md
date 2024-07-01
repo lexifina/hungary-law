@@ -22,6 +22,6 @@ b) a kíméleti területként kijelölt vízterület méretére és
 
 c) a kíméleti terület vermelő- vagy ívóhelyként történő kijelölésére
 
-## vonatkozó adatokkal tartja nyilván.
+vonatkozó adatokkal tartja nyilván.
 
 (6) A kíméleti terület meghatározott nyilvántartott halgazdálkodási vízterület szakaszokra vagy részekre, ötéves időtartamra jelölhető ki. A kíméleti terület kijelölése hivatalból vagy kérelemre újabb ötéves időszakra meghosszabbítható. A kíméleti terület kijelölése a halgazdálkodásra jogosult kérelmére módosítható.

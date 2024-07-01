@@ -1,6 +1,6 @@
 4. § (1) Az egyenáramú elektromos eszköz minősítési-üzembehelyezési vizsgáztatását és elektromos érintésvédelmi felülvizsgálatát elvégezni jogosult szervezetek:
 
-a)[^2] Magyar Agrár- és Élettudományi Egyetem;
+a)[^3] Magyar Agrár- és Élettudományi Egyetem;
 
 b) Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakgimnázium, Szakközépiskola és Kollégium.
 
@@ -10,4 +10,4 @@ b) Jávorka Sándor Mezőgazdasági és Élelmiszeripari Szakgimnázium, Szakkö
 
 (4) Az országos kutatási célú halfogási engedély kiadására, meghosszabbítására, illetve módosítására, valamint a meghatározott halgazdálkodási vízterületeken egyenáramú elektromos eszköz használatával történő halfogásra jogosító engedély kiadására irányuló kérelem kizárólag az erre szolgáló elektronikus felületen nyújtható be a miniszternek.
 
-[^2]: A 4. § (1) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: A 4. § (1) bekezdés a) pontja a 120/2021. (III. 10.) Korm. rendelet 7. §-ával megállapított szöveg.

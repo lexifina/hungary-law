@@ -1,6 +1,4 @@
-## 5. §[^3]
-
-## 1/A. [^4] Halmentés céljából történő halfogás engedélyezése
+## 1/A. [^5] Halmentés céljából történő halfogás engedélyezése
 
 5/A. § (1) Őshonos hal halgazdálkodási vízterületről a Hhvtv. 8. § (1) bekezdése szerinti halmentés céljából történő kifogása (a továbbiakban: halmentés) a halgazdálkodási hatóság engedélyével végezhető.
 
@@ -32,5 +30,4 @@ e) az engedélyes egyedi halmentésekkel kapcsolatos bejelentési és jelentési
 
 (7) Őshonos hal ideiglenesen haltermelési létesítménybe akkor helyezhető át, ha halgazdálkodási vízterületre történő azonnali vissza- vagy áttelepítése a víztest ökológiai állapota vagy az őshonos halfauna összetétele miatt nem megvalósítható.
 
-[^3]: Az 5. §-t a 398/2021. (VII. 6.) Korm. rendelet 10. §-a hatályon kívül helyezte.
-[^4]: Az 1/A. alcímet (5/A–5/F. §) a 398/2021. (VII. 6.) Korm. rendelet 4. §-a iktatta be.
+[^5]: Az 1/A. alcímet (5/A–5/F. §) a 398/2021. (VII. 6.) Korm. rendelet 4. §-a iktatta be.

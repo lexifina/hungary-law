@@ -19,3 +19,5 @@ f) az áttelepítés helyét és idejét.
 a) a mentés az engedélyben,
 
 b) az 5/C. § esetében a bejelentés 5/D. § (1) bekezdés b)–f) pontja szerinti tartalma a jogszabályban, valamint az érintett halgazdálkodási vízterületek halgazdálkodási tervében
+
+foglaltaknak nem felel meg.

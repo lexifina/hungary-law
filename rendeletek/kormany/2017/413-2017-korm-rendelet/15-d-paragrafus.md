@@ -1,4 +1,4 @@
-## 3/B. [^7] Idegenhonos halak és más hasznos víziállatok szállításának engedélyezése
+## 3/B. [^8] Idegenhonos halak és más hasznos víziállatok szállításának engedélyezése
 
 15/D. § (1) A 708/2007/EK rendelet IV. számú mellékletében fel nem sorolt idegenhonos hal és más hasznos víziállat fajok egyedeinek nem rutin szállítása esetén a környezeti kockázatértékelést kérelemre – a 708/2007/EK rendelet 9. cikk (1) bekezdése szerint – az országos illetékességgel eljáró halgazdálkodási hatóság rendeli el, és a kérelmező költségére a miniszter által kijelölt szakmai kutatóintézet vagy oktatási intézmény végzi el.
 
@@ -8,4 +8,4 @@
 
 (4) Ha – a 708/2007/EK rendelet 18. cikke szerinti – megfigyelési programot kell lefolytatni, az országos illetékességgel eljáró halgazdálkodási hatóság dönt annak helyszínéről. A megfigyelési program értékelését a nemzeti nyilvántartásba vétel céljából az országos illetékességgel eljáró halgazdálkodási hatóság juttatja el a miniszter által kijelölt szakmai kutatóintézetnek vagy oktatási intézménynek.
 
-[^7]: A 3/B. alcímet (15/D. §) a 398/2021. (VII. 6.) Korm. rendelet 7. §-a iktatta be.
+[^8]: A 3/B. alcímet (15/D. §) a 398/2021. (VII. 6.) Korm. rendelet 7. §-a iktatta be.

@@ -22,7 +22,7 @@ d) a nyilvántartott halgazdálkodási vízterület haltermelésre hasznosítani
 
 e) a haltermelésre hasznosítani kívánt nyilvántartott halgazdálkodási vízterületre vonatkozó halgazdálkodási terv
 
-## meglétét.
+meglétét.
 
 (4) Ha a horgászati vagy étkezési célú haltermelés vagy kizárólagos horgászati célú haltermelés védett természeti területen történik, akkor az – az (1) bekezdésben meghatározott engedélyen túlmenően – a természet védelméről szóló törvényben előírt egyéb engedélyek birtokában végezhető.
 

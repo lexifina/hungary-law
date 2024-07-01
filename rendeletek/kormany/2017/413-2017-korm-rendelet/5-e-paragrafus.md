@@ -1,5 +1,3 @@
-## foglaltaknak nem felel meg.
-
 5/E. § (1) Az 5/A. § (1) bekezdésében meghatározott engedély és az 5/C. § alapján a mentett halállomány haltermelési létesítményben történt ideiglenes elhelyezés utáni visszatelepítése vagy áttelepítése a tervezett visszatelepítést vagy áttelepítést – a (2) bekezdésben foglalt kivétellel – legalább 8 nappal megelőzően a halgazdálkodási hatósághoz megtett előzetes bejelentés alapján végezhető. A bejelentés tartalmazza:
 
 a) a visszatelepítést vagy áttelepítést végző nevét;

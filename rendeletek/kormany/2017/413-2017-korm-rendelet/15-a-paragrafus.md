@@ -1,4 +1,4 @@
-## 3/A. [^6] A haltermeléssel kapcsolatos engedélyezés
+## 3/A. [^7] A haltermeléssel kapcsolatos engedélyezés
 
 15/A. § (1) Idegenhonos hal vagy idegenhonos más hasznos víziállat, valamint annak továbbtenyésztésből származó utódja – a 708/2007/EK rendelet IV. számú mellékletében meghatározott kivétellel – haltermelési létesítménybe történő kihelyezése a halgazdálkodási hatóság engedélyével végezhető. Az engedély akkor adható ki, ha a kihelyezés előreláthatóan nem gyakorol kedvezőtlen hatást az őshonos állományok genetikai változatosságára, egészségi állapotára vagy mennyiségi viszonyára.
 
@@ -12,4 +12,4 @@ a) meghatározza a haltermelési létesítménybe történő kihelyezés céljá
 
 b) mellékletként csatolja a halgazdálkodási hatóság által elfogadott, a 708/2007/EK rendelet 17. cikke szerinti vészhelyzeti intézkedési tervet.
 
-[^6]: A 3/A. alcímet (15/A–15/C. §) a 398/2021. (VII. 6.) Korm. rendelet 6. §-a iktatta be.
+[^7]: A 3/A. alcímet (15/A–15/C. §) a 398/2021. (VII. 6.) Korm. rendelet 6. §-a iktatta be.

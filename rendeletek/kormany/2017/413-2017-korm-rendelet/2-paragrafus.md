@@ -24,4 +24,6 @@ h) a mintaként begyűjtött és kifogott halak és más hasznos víziállatok k
 
 (5) Az engedély a kiadásától számított 2 évig érvényes, és az engedélyes kérelmére, ha az engedélyes megfelel az engedély meghosszabbításának alapjául szolgáló feltételeknek, további 2 évvel meghosszabbítható.
 
-(6) Az egyenáramú elektromos eszköz érintésvédelmi felülvizsgálaton való megfelelését az (5) bekezdés szerinti időtartam alatt kétévente igazolni kell.
+(6)[^2]
+
+[^2]: A 2. § (6) bekezdését a 104/2024. (V. 9.) Korm. rendelet 31. §-a hatályon kívül helyezte.

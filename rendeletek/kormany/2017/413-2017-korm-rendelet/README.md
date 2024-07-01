@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-413-20-
 | 2018-01-01 | 2017-413-20-22.1 | 413/2017. (XII. 15.) Korm. rendelet |
 | 2021-03-13 | 2017-413-20-22.2 | 120/2021. (III. 10.) Korm. rendelet |
 | 2021-08-05 | 2017-413-20-22.3 | 398/2021. (VII. 6.) Korm. rendelet |
+| 2024-07-01 | 2017-413-20-22.4 | 104/2024. (V. 9.) Korm. rendelet |
