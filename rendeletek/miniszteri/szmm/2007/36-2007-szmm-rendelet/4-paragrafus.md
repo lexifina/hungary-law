@@ -12,7 +12,7 @@ bc) hallási fogyatékosként fogyatékossági támogatásban vagy vakok személ
 
 bd)[^18] a bc) pont szerinti eseten kívüli okból fogyatékossági támogatásban részesül és az orvosszakértői szerv, illetve jogelődje szakértői bizottságának szakvéleménye, szakhatósági állásfoglalása az önkiszolgálási képességének hiányát állapította meg, amit az érvényes és hatályos szakvélemény, szakhatósági állásfoglalás másolatával igazoltak,
 
-be)[^19] a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 3. § (2) bekezdés f) pontja szerinti E minősítési kategóriába tartozó rokkantsági ellátásban részesül, vagy rokkantsági járadékban részesül, amit az ellátást, járadékot megállapító jogerős határozat és a kérelem benyújtását megelőző havi nyugdíj-folyósítási, járadékfolyósítási csekkszelvény vagy bankszámlakivonat másolatával igazoltak, vagy
+be)[^19] a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 3. § (2) bekezdés f) pontja szerinti E minősítési kategóriába tartozó rokkantsági ellátásban részesül, vagy rokkantsági járadékban részesül, amit az ellátást, járadékot megállapító jogerős határozat másolatával igazoltak, vagy
 
 bf)[^20] munkaképességét 100%-ban elvesztette vagy legalább 70%-os mértékű egészségkárosodást szenvedett és önellátásra nem vagy csak segítséggel képes, amit az orvosszakértői szerv, a rehabilitációs szakértői szerv vagy a rehabilitációs hatóság illetve jogelődje érvényes és hatályos szakvéleményének, szakhatósági állásfoglalásának, határozatának másolatával, hatósági bizonyítványával igazoltak.
 
@@ -25,7 +25,7 @@ bf)[^20] munkaképességét 100%-ban elvesztette vagy legalább 70%-os mérték�
 [^16]: A 4. § (1) bekezdés a) pontja a 4/2019. (II. 27.) EMMI rendelet 33. §-ával megállapított szöveg.
 [^17]: A 4. § (1) bekezdés b) pont ba) alpontja a 21/2010. (XII. 30.) NEFMI rendelet 4. § a) pontja szerint módosított szöveg.
 [^18]: A 4. § (1) bekezdés b) pont bd) alpontja a 23/2009. (X. 6.) SZMM rendelet 3. § a) pontja, a 25/2010. (XII. 30.) NEFMI rendelet 7. § b) pontja szerint módosított szöveg.
-[^19]: A 4. § (1) bekezdés b) pont be) alpontja a 26/2017. (X. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^19]: A 4. § (1) bekezdés b) pont be) alpontja a 26/2017. (X. 18.) EMMI rendelet 11. §-ával megállapított, a 23/2024. (V. 9.) BM rendelet 10. §-a szerint módosított szöveg.
 [^20]: A 4. § (1) bekezdés b) pont bf) alpontja a 26/2017. (X. 18.) EMMI rendelet 11. §-ával megállapított szöveg.
 [^21]: A 4. § (2) bekezdése a 21/2010. (XII. 30.) NEFMI rendelet 4. § b) pontja szerint módosított szöveg.
 [^22]: A 4. § (3) bekezdése a 8/2010. (IX. 3.) NEFMI rendelet 6. §-ával megállapított szöveg.

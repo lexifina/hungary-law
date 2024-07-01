@@ -12,6 +12,8 @@
 
 ## Mérőtábla
 
+## 8K00329M_0
+
 | Tevékenység, funkció | Értékeljen 0-4 pont között (a pontérték a szükséges segítség mértékével emelkedik) | Intézmény- vezető | Orvos |
 
 | Térbeli-időbeni tájékozódás | 0: mindig, mindenkor térben, időben, személyeket illetően tájékozott 1: esetenként segítségre, tájékoztatásra szorul 2: részleges segítségre, tájékoztatásra szorul 3: gyakran tájékozatlan 4: térben-időben tájékozatlan |  |  |

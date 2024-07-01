@@ -1,5 +1,3 @@
-## kell alkalmazni.
-
 2. § (1) Az Szt. 65. § (4) bekezdésének b)–c) pontja szerinti esetben a pszichiátriai betegséget pszichiáter vagy neurológus szakorvos szakvéleményének bemutatásával kell igazolni.
 
 (2)[^2] Az Szt. 65. § (4) bekezdésének c) pontja szerinti esetben a szolgáltatást igénylő háziorvosa az igénylő egészségi állapotáról a személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló miniszteri rendelet szerinti igazolást tölti ki.
