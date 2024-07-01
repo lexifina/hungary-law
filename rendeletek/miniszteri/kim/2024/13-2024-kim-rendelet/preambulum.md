@@ -1,0 +1,1 @@
+A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény 10. § (2) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
