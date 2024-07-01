@@ -1,3 +1,5 @@
-## 10.
+## 10. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-### 32. §
+32. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény „Értesítés” alcíme a következő 91/F. §-sal egészül ki:
+
+„91/F. § A nyilvántartó szerv – az anyakönyvi eseménynek vagy adatváltozásnak az elektronikus anyakönyvben történő átvezetését követően haladéktalanul – értesíti a menekültügyi hatóságot a menekült, oltalmazott, menedékes vagy befogadott jogállású személy házasságkötéséről, a bejegyzett élettársi kapcsolata létesítéséről, valamint a házasság vagy a bejegyzett élettársi kapcsolat megszűnéséről. Az értesítés tartalmazza a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyét, idejét, a menekült, oltalmazott, menedékes vagy befogadott jogállású személy születési és házassági nevét, születési helyét és idejét, anyja születési nevét, állampolgárságát vagy hontalanságát, a házasság vagy a bejegyzett élettársi kapcsolat megszűnésének tényét, időpontját és okát.”
