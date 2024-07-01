@@ -20,7 +20,7 @@ d) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a k
 
 2. Magyar Országos Levéltár,
 
-3. Országos Széchényi Könyvtár,
+3. Magyar Nemzeti Múzeum Közgyűjteményi Központ,
 
 4.
 
