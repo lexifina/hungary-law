@@ -30,7 +30,9 @@ c) az ellátott egyéni gondozási tervét, egyéni fejlesztési tervét, egyén
 
 d)[^19]
 
-(6)[^20] Az intézményvezető a kezdeményezéssel egyidejűleg írásban értesíti az ellátottat, törvényes képviselőjét és – ha a felülvizsgálatot a közeli hozzátartozó kezdeményezte – közeli hozzátartozóját
+(5a)[^20] Az (5) bekezdés b) pontjában foglalt iratok esetében elegendő az előző felülvizsgálat óta keletkezett iratokat csatolni.
+
+(6)[^21] Az intézményvezető a kezdeményezéssel egyidejűleg írásban értesíti az ellátottat, törvényes képviselőjét és – ha a felülvizsgálatot a közeli hozzátartozó kezdeményezte – közeli hozzátartozóját
 
 a) a vizsgálat indokáról, céljáról,
 
@@ -40,9 +42,9 @@ c) az ellátott jogairól,
 
 d) a vizsgálat menetéről.
 
-(7)[^21] A vizsgálat térítésmentes.
+(7)[^22] A vizsgálat térítésmentes.
 
-(8)[^22] Az ellátott, törvényes képviselője, illetve közeli hozzátartozója a felülvizsgálatot az intézményvezetőnél kezdeményezheti, aki tájékoztatja őket a (6)–(7) bekezdésben foglaltakról, majd a kezdeményezést a benyújtástól számított nyolc napon belül az általa kitöltött adatlapon, az (5) bekezdés szerinti dokumentumokat mellékelve továbbítja a Hivatalhoz.
+(8)[^23] Az ellátott, törvényes képviselője, illetve közeli hozzátartozója a felülvizsgálatot az intézményvezetőnél kezdeményezheti, aki tájékoztatja őket a (6)–(7) bekezdésben foglaltakról, majd a kezdeményezést a benyújtástól számított nyolc napon belül az általa kitöltött adatlapon, az (5) bekezdés szerinti dokumentumokat mellékelve továbbítja a Hivatalhoz.
 
 [^12]: Az 5. § (1) bekezdése a 381/2017. (XII. 11.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^13]: Az 5. § (2) bekezdését a 448/2016. (XII. 19.) Korm. rendelet 28. § e) pontja hatályon kívül helyezte, újonnan a 381/2017. (XII. 11.) Korm. rendelet 6. § (2) bekezdése iktatta be.
@@ -52,6 +54,7 @@ d) a vizsgálat menetéről.
 [^17]: Az 5. § (5) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 30. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^18]: Az 5. § (5) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
 [^19]: Az 5. § (5) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 28. § j) pontja hatályon kívül helyezte.
-[^20]: Az 5. § (6) bekezdés nyitó szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
-[^21]: Az 5. § (7) bekezdése a 381/2017. (XII. 11.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^22]: Az 5. § (8) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja, a 357/2010. (XII. 30.) Korm. rendelet 21. § e) pontja, a 95/2012. (V. 15.) Korm. rendelet 40. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.
+[^20]: Az 5. § (5a) bekezdését a 104/2024. (V. 9.) Korm. rendelet 12. §-a iktatta be.
+[^21]: Az 5. § (6) bekezdés nyitó szövegrésze a 357/2010. (XII. 30.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^22]: Az 5. § (7) bekezdése a 381/2017. (XII. 11.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^23]: Az 5. § (8) bekezdését a 174/2009. (VIII. 29.) Korm. rendelet 30. § (2) bekezdése iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 29. § (2) bekezdés b) pontja, a 357/2010. (XII. 30.) Korm. rendelet 21. § e) pontja, a 95/2012. (V. 15.) Korm. rendelet 40. § (2) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd ez utóbbi módosító rendelet 23. §-át.

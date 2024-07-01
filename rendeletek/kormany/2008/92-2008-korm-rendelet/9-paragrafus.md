@@ -1,3 +1,3 @@
-9. §[^44]
+9. §[^45]
 
-[^44]: A 9. §-t és a megelőző alcímet a 381/2017. (XII. 11.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
+[^45]: A 9. §-t és a megelőző alcímet a 381/2017. (XII. 11.) Korm. rendelet 11. § d) pontja hatályon kívül helyezte.
