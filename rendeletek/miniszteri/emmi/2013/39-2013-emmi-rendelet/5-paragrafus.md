@@ -26,7 +26,7 @@ rendelkező személyt foglalkoztat.
 
 a) gondoskodik a szolgáltató hely nyitva tartásáról,
 
-b)[^11] rendszeresen kapcsolatot tart a vármegyei hatókörű városi könyvtárral,
+b)[^12] rendszeresen kapcsolatot tart a vármegyei hatókörű városi könyvtárral,
 
 c) javaslatot tesz könyvtári dokumentumok beszerzésére,
 
@@ -36,11 +36,11 @@ e) ügyel a könyvtári dokumentumok raktári rendjének megőrzésére,
 
 f) ügyel az állomány és a szolgáltató hely rendjének megőrzésére,
 
-g)[^12] statisztikai adatokat gyűjt és határidőre továbbítja a vármegyei hatókörű városi könyvtárnak,
+g)[^13] statisztikai adatokat gyűjt és határidőre továbbítja a vármegyei hatókörű városi könyvtárnak,
 
 h) negyedévente legalább egy alkalommal részt vesz az alapszolgáltatásokon túli programok fogadásában, szervezésében, saját szervezésű közösségi program lebonyolításában.
 
 (3) A szolgáltató hely rendszeresen, a felhasználók többsége számára megfelelő időpontban tart nyitva. A szolgáltató hely heti nyitvatartási óraszámát a kistelepülési megállapodás rögzíti.
 
-[^11]: Az 5. § (2) bekezdés b) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés d) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
-[^12]: Az 5. § (2) bekezdés g) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés c) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdés b) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés d) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
+[^13]: Az 5. § (2) bekezdés g) pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés c) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.

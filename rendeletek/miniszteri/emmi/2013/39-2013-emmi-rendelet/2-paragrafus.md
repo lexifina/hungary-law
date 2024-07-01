@@ -10,6 +10,8 @@ d) a megfelelő szakismeretekkel rendelkező emberi erőforrás biztosítása,
 
 e) a használói elégedettség rendszeres mérése,
 
-f) a szolgáltatások színvonalas, rendszeres népszerűsítése, a lakosság sokoldalú tájékoztatása,
+f)[^5] a szolgáltatások színvonalas, rendszeres népszerűsítése, a lakosság sokoldalú tájékoztatása, és
 
 g) a források felhasználásának átláthatósága.
+
+[^5]: A 2. § f) pontja a 15/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.

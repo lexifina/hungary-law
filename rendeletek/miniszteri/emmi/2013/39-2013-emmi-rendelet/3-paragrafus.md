@@ -20,7 +20,7 @@
 
 10. tájékoztatás a könyvtári rendszer szolgáltatásairól,
 
-11.[^5] a vármegyei hatókörű városi könyvtári közös katalógus és a helyi állományfeltáró eszközök használata,
+11.[^6] a vármegyei hatókörű városi könyvtári közös katalógus és a helyi állományfeltáró eszközök használata,
 
 12. könyvtári szolgáltatások a fogyatékossággal élők számára,
 
@@ -34,4 +34,4 @@
 
 17. könyvtári közösségi, közművelődési rendezvények, programok.
 
-[^5]: A 3. § 11. pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés b) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § 11. pontja a 35/2017. (XII. 19.) EMMI rendelet 5. § (1) bekezdés b) pontja, a 12/2022. (XII. 29.) KIM rendelet 7. § a) pontja szerint módosított szöveg.
