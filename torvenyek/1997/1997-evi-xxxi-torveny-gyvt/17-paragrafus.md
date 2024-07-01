@@ -50,6 +50,16 @@ Ilyen jelzéssel és kezdeményezéssel bármely állampolgár és a gyermekek �
 
 (3a) A jelzőrendszeri tagok a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében a gyermekvédelmi jelzőrendszer működésének és működtetésének szakmai módszereit alkalmazva járnak el, amelyeket a miniszter az általa irányított minisztérium honlapján közzétesz.
 
+(3b) Aki gyermekotthonban vagy nevelőszülőnél elhelyezett gyermeket hatósági határozat rendelkezése vagy a gyermekvédelmi gyám hozzájárulása nélkül fogad be, köteles haladéktalanul jelzéssel élni
+
+a) a gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalnál,
+
+b) a rendőrségnél vagy
+
+c) a (7) bekezdés b) pontja szerinti ingyenesen hívható telefonos szolgáltatás útján a szolgáltatás működtetőjénél.
+
+(3c) A (3b) bekezdés szerinti jelzési kötelezettség 24 órán belül történő nem teljesítése esetén a (3b) bekezdés a) pontjában meghatározott szerv, valamint a gyermekvédelmi gyám szabálysértési eljárást kezdeményez.
+
 (4) Ha az (1) bekezdés a)–i) és k)–m) pontjában meghatározott személy vagy az (1) bekezdés a)–i) és k)–m) pontja szerinti szerv alkalmazottja a (2) vagy (3) bekezdésben foglalt jelzési vagy együttműködési kötelezettségének nem tesz eleget, a gyámhatóság – jelzésre vagy hivatalból – értesíti a fegyelmi jogkör gyakorlóját és javaslatot tesz az érintett személlyel szembeni fegyelmi felelősségre vonás megindítására. A gyermek sérelmére elkövetett bűncselekmény gyanúja esetén a gyámhatóság büntetőeljárást kezdeményez.
 
 (5) A gyámhatóság a (4) bekezdésben foglaltakkal egyidejűleg egyeztető megbeszélést tart és a gyermekjóléti szolgáltatást nyújtó szolgáltatónál kezdeményezi a külön jogszabály szerinti esetmegbeszélés megtartását.

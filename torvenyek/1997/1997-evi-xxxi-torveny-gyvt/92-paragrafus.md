@@ -14,7 +14,7 @@ c) az otthonteremtési támogatás igénylésének, felhasználásának és elsz
 
 a) a gyermek tekintetében a lakóhelye szerinti gyermekjóléti központ,
 
-b) a fiatal felnőtt tekintetében a nevelőszülői hálózatot működtető, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetője
+b) a fiatal felnőtt tekintetében a nevelőszülői hálózat, a gyermekotthon, az utógondozó otthon vagy a külső férőhely működtetője
 
 látja el.
 

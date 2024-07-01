@@ -1,6 +1,6 @@
 ## Helyettes szülő
 
-49. § (1) A helyettes szülő a családban élő gyermek átmeneti gondozását – a működtető által készített egyéni gondozási-nevelési terv alapján – saját háztartásában biztosítja.
+49. § (1) A helyettes szülő a családban élő gyermek átmeneti gondozását – a helyettes szülői hálózatot működtető szolgáltató, intézmény által készített egyéni gondozási-nevelési terv alapján – saját háztartásában biztosítja.
 
 (2) Helyettes szülő az a huszonnegyedik évet betöltött, cselekvőképességet érintő gondnokság alatt nem álló, támogatott döntéshozatal hatálya alatt nem álló és büntetlen előéletű személy lehet, aki
 
@@ -8,7 +8,7 @@ a) személyisége, egészségi állapota és körülményei alapján alkalmas a 
 
 b) a külön jogszabályban meghatározott tanfolyamon eredménnyel részt vett.
 
-(3) A helyettes szülő egyidejűleg – saját gyermekeit is beszámítva – legfeljebb négy gyermek gondozását végezheti. A működtető gyermekgondozó alkalmazásával vagy megbízásával segíti a helyettes szülő munkáját, ha
+(3) A helyettes szülő egyidejűleg – saját gyermekeit is beszámítva – legfeljebb négy gyermek gondozását végezheti. A helyettes szülői hálózatot működtető szolgáltató, intézmény gyermekgondozó alkalmazásával vagy megbízásával segíti a helyettes szülő munkáját, ha
 
 a) a helyettes szülőnél elhelyezett gyermek rendszeres gyermekpszichiátriai kezelés alatt áll,
 
@@ -16,7 +16,7 @@ b) a helyettes szülő gondozásában kettőnél több három éven aluli gyerme
 
 c) a helyettes szülő szabadságon van, beteg vagy feladatai ellátásában egyéb okból akadályozott.
 
-(4) A helyettes szülőket a működtető
+(4) A helyettes szülőket a helyettes szülői hálózatot működtető szolgáltató, intézmény
 
 a) külön jogszabályban meghatározott szakmai követelmények figyelembevételével kiválasztja, felkéri, felkészíti, nyilvántartásba veszi, és
 

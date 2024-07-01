@@ -1,3 +1,3 @@
-89. § (1) Ha a gyámhatóság a gyámot nem hatalmazta fel a gyermek vagyonának kezelésével járó feladatok ellátására, a gyermek részére vagyonkezelő eseti gyámot rendel elsősorban a területi gyermekvédelmi szakszolgálatnak, illetve – ha a gyermekotthont vagy a nevelőszülői hálózatot nem állami szerv tartja fenn, illetve működteti – a működtetőnek ezzel a munkakörrel megbízott dolgozói közül.
+89. § (1) Ha a gyámhatóság a gyámot nem hatalmazta fel a gyermek vagyonának kezelésével járó feladatok ellátására, a gyermek részére vagyonkezelő eseti gyámot rendel elsősorban a területi gyermekvédelmi szakszolgálatnak, illetve – ha a gyermekotthont vagy a nevelőszülői hálózatot nem állami szerv tartja fenn, illetve működteti – a nevelőszülői hálózatnak ezzel a munkakörrel megbízott dolgozói közül.
 
 (2) A gyámhatóság elbírálja a gyám, illetve a vagyonkezelő eseti gyám eseti, rendes, valamint végszámadását.

@@ -6,7 +6,11 @@
 
 (3) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhatóságnak, az országos gyermekvédelmi szakértői bizottság a miniszternek évente beszámol a tevékenységéről.
 
-(4) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt.
+(4) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság és a 76/B. § szerinti intézkedés esetén az országos gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza
+
+a) a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt, és
+
+b) a speciális szükséglet megállapítása esetén, ha azt szükségesnek tartja, a nevelési felügyelet elrendelésére és annak időtartamára vonatkozó javaslatot.
 
 (5) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
 

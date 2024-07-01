@@ -1,1 +1,1 @@
-66/L. § A működtető a helyettes szülőt arra az időtartamra, amikor átmeneti gondozást nyújt a gyermeknek, a központi költségvetésről szóló törvényben meghatározott mértékű helyettes szülői díjban részesíti.
+66/L. § A helyettes szülői hálózatot működtető szolgáltató, intézmény a helyettes szülőt arra az időtartamra, amikor átmeneti gondozást nyújt a gyermeknek, a központi költségvetésről szóló törvényben meghatározott mértékű helyettes szülői díjban részesíti.

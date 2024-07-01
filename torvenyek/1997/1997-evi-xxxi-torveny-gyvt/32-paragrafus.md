@@ -12,7 +12,7 @@ e) a személyes gondoskodás iránti kérelemről dönteni jogosult személy int
 
 alapozza meg.
 
-(2) Ha az ellátás igénybevételére az (1) bekezdés a) vagy b) pontja alapján kerül sor, a határozatot közölni kell a működtetővel és az ellátást nyújtó intézmény vezetőjével is.
+(2) Ha az ellátás igénybevételére az (1) bekezdés a) vagy b) pontja alapján kerül sor, a határozatot közölni kell az ellátást nyújtó intézmény vezetőjével is.
 
 (3) Állami fenntartó által fenntartott (a továbbiakban: állami fenntartású) intézmény esetén az (1) bekezdés c) és d) pontja szerinti döntésről az intézményvezető értesíti a kérelmezőt, illetve törvényes képviselőjét. Az ellátás igénybevételének elutasítása esetén a kérelmezőt, illetve törvényes képviselőjét írásban kell értesíteni.
 

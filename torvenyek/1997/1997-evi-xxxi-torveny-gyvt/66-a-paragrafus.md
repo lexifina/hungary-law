@@ -2,7 +2,7 @@
 
 ## A nevelőszülői foglalkoztatási jogviszonyra vonatkozó általános szabályok
 
-66/A. § (1) A nevelőszülői foglalkoztatási jogviszony egyrészről a működtető, másrészről a nevelőszülő, a speciális nevelőszülő vagy a különleges nevelőszülő (a továbbiakban együtt: nevelőszülő) között az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek otthont nyújtó ellátásának biztosítása céljából, a 66/B. § (1) bekezdése szerinti írásbeli keretmegállapodás alapján, a 66/B. § (3) bekezdésében foglalt időponttól létrejövő foglalkoztatási jogviszony.
+66/A. § (1) A nevelőszülői foglalkoztatási jogviszony egyrészről a nevelőszülői hálózat, másrészről a nevelőszülő, a speciális nevelőszülő vagy a különleges nevelőszülő (a továbbiakban együtt: nevelőszülő) között az ideiglenes hatállyal elhelyezett vagy nevelésbe vett gyermek otthont nyújtó ellátásának biztosítása céljából, a 66/B. § (1) bekezdése szerinti írásbeli keretmegállapodás alapján, a 66/B. § (3) bekezdésében foglalt időponttól létrejövő foglalkoztatási jogviszony.
 
 (2) A nevelőszülői foglalkoztatási jogviszonyra az Mt.-t akkor kell alkalmazni, ha azt e törvény előírja.
 
@@ -14,7 +14,7 @@ b) munkaviszonyra vonatkozó szabály alatt a nevelőszülői foglalkoztatási j
 
 c) munkavállaló alatt a nevelőszülőt,
 
-d) munkáltató alatt a nevelőszülői hálózat működtetőjét,
+d) munkáltató alatt a nevelőszülői nevelőszülői hálózatot,
 
 e) munkabér alatt a nevelőszülőnek járó díjazást,
 

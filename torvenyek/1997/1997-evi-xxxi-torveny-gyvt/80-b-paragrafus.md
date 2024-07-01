@@ -18,7 +18,7 @@ e) a rendőrség a 76/B. § b) pontja szerinti általános védelmi intézkedés
 
 (3) A gyámhatóság a gyermek gondozási helyének azonnali hatállyal történő megváltoztatásáról azonnal végrehajtható határozatban dönt, ha a gyermek érdekét gondozási helye súlyosan veszélyezteti, illetve ha a gyermekvédelmi gyám a gyermeket súlyos veszélyeztetettsége miatt másik, biztonságos gondozási helyre viszi, erről a gyámhatóságot egyidejűleg értesíti, és kéri a kijelölt gondozási hely megváltoztatását.
 
-(4) A gyermekvédelmi gyám felmentése vagy elmozdítása esetén a gyámhatóság egyidejűleg új gyermekvédelmi gyámot rendel. Az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő gyámi tisztségből való felmentése vagy elmozdítása esetén valamennyi gyámi feladatot a gyermekvédelmi gyám látja el.
+(4) A gyermekvédelmi gyám felmentése vagy elmozdítása esetén a gyámhatóság egyidejűleg új gyermekvédelmi gyámot rendel. Az egyes gyámi feladatok ellátására gyámként kirendelt nevelőszülő vagy gyermekotthon gyámi tisztségből való felmentése vagy elmozdítása esetén valamennyi gyámi feladatot a gyermekvédelmi gyám látja el.
 
 (5) Gondozási helyen lévő gyermekként kell figyelembe venni azt a gyermeket is, aki átmenetileg tartózkodik a gondozási helyén kívül, így különösen, ha
 

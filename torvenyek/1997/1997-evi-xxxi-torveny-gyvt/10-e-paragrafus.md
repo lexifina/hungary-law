@@ -1,0 +1,1 @@
+10/E. § A munkáltatói jogkör gyakorlója a pályázó foglalkoztatása előtt kezdeményezi, továbbá a gyermekvédelmi intézményben foglalkoztatottnál a foglalkoztatás időtartama alatt kezdeményezheti az érintett kifogástalan életvitelének ellenőrzését.

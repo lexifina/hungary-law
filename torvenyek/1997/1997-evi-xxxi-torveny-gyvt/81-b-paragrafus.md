@@ -1,6 +1,10 @@
 ## Nevelési felügyelet a speciális gyermekotthonban, a speciális lakásotthonban és a gyermekotthon speciális csoportjában
 
-81/B. § (1) Ha a gyermek személyes szabadságának korlátozása előreláthatólag negyvennyolc órát meghaladóan szükséges, a speciális gyermekotthon vezetője kezdeményezi a gyámhatóságnál a gyermek nevelési felügyeletének elrendelését. A gyámhatósági határozat meghozataláig elsősorban a gyermek kivizsgálására, a veszélyeztető magatartás megszüntetésére és a gyors állapotromlás megelőzésére kell törekedni.
+81/B. § (1) Ha a gyermek személyes szabadságának korlátozása előreláthatólag negyvennyolc órát meghaladóan szükséges, és
+
+a) erre a gondozási hely meghatározására vagy megváltoztatására irányuló eljárásban az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javaslatot tett, a gyámhatóság a gondozási hely meghatározásával egyidejűleg dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, vagy
+
+b) a gyermek személyes szabadságának 81/A. § szerinti korlátozására már sor került, a speciális gyermekotthon vezetője kezdeményezi a gyámhatóságnál a gyermek nevelési felügyeletének elrendelését azzal, hogy a gyámhatósági határozat meghozataláig elsősorban a gyermek kivizsgálására, a veszélyeztető magatartás megszüntetésére és a gyors állapotromlás megelőzésére kell törekedni.
 
 (2) A gyámhatóság a speciális gyermekotthon vezetőjének kezdeményezésére vagy a 81/A. § (10) bekezdése szerinti esetben hivatalból vagy a gyermekvédelmi gyám kérelmére a gyermek nevelési felügyeletét rendeli el, ha
 

@@ -1,6 +1,6 @@
 ## A gyermek képviselete
 
-87. § (1) A gyermekvédelmi gyám joga és kötelessége, hogy a gyermeket személyi és vagyoni ügyeiben képviselje. Ennek érdekében a gyermekvédelmi gyám különösen
+87. § (1) A gyermekvédelmi gyám joga és kötelessége, hogy a gyermeket személyi és vagyoni ügyeiben képviselje. Ennek érdekében a gyermekvédelmi gyám – ha az a)–c) pont szerinti ügyekben nem a nevelőszülő vagy a gyermekotthon jár el törvényes képviselőként – különösen
 
 a) eljár a gyermek személyes okmányainak beszerzése érdekében, kéri a gyermek közgyógyellátásra való jogosultságának megállapítását és a gyermek tartózkodási engedélyének meghosszabbítását,
 

@@ -24,7 +24,7 @@ f) a 141. § (1) bekezdés a) és b) pontja szerinti nyilvántartások alapján 
 
 a) a gyermek gondozási helyéről,
 
-b) a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám személyéről,
+b) a gyermekvédelmi gyám és a helyettes gyermekvédelmi gyám személyéről, indokolt esetben a nevelőszülőnek vagy a gyermekotthonnak a 87. § (1) bekezdés a)–c) pontja szerinti egyes gyámi feladatokra gyámként történő kirendeléséről,
 
 c) a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásról,
 
@@ -32,7 +32,7 @@ d) a gyermekre vonatkozó elhelyezési javaslat és egyéni elhelyezési terv el
 
 e) a gyermek után fizetendő gondozási díjról,
 
-f) a (6) bekezdésben foglaltak figyelembevételével a gyermek ellátási szükségletéről,
+f) a (6) bekezdésben foglaltak figyelembevételével a gyermek ellátási szükségletéről, valamint ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta, a nevelési felügyelet elrendeléséről vagy annak mellőzéséről,
 
 g) a (7) bekezdésben foglalt feltételek fennállása esetén a gyermek örökbe fogadhatóságáról [a b)–g) pontban foglaltak a továbbiakban együtt: járulékos kérdések].
 
@@ -52,4 +52,4 @@ e) a szülő hozzájárult, hogy gyermekét általa ismert személy fogadja ör�
 
 f)
 
-(8) A gyermeknek a gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.
+(8) A gyermeknek a gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózat, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.

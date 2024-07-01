@@ -4,7 +4,7 @@
 
 a) a nevelőszülő halálával,
 
-b) a működtető jogutód nélküli megszűnésével,
+b) a nevelőszülői hálózat jogutód nélküli megszűnésével,
 
 c) a határozott idő lejártával, vagy
 
@@ -22,21 +22,23 @@ c) azonnali hatályú felmondással.
 
 (4) A nevelőszülői foglalkoztatási jogviszony megszüntetésének közös megegyezéssel történő kezdeményezéséről a gyámhatóságot értesíteni kell. Ilyen esetben a jogviszony a megszüntetés kezdeményezésétől számított legalább harminc, legfeljebb hatvan nap elteltével szüntethető meg.
 
-(5) A nevelőszülő a nevelőszülői foglalkoztatási jogviszonyt hatvannapos felmondási idővel indokolás nélkül írásban felmondhatja. A működtető indokolt esetben a felmondási idő alatt felmentheti a nevelőszülőt a munkavégzés alól, ha az nem ellentétes a nála elhelyezett gyermek érdekeivel.
+(5) A nevelőszülő a nevelőszülői foglalkoztatási jogviszonyt hatvannapos felmondási idővel indokolás nélkül írásban felmondhatja. A nevelőszülői hálózat indokolt esetben a felmondási idő alatt felmentheti a nevelőszülőt a munkavégzés alól, ha az nem ellentétes a nála elhelyezett gyermek érdekeivel.
 
-(6) A működtető a nevelőszülői foglalkoztatási jogviszonyt – a (7) bekezdésben foglaltak kivételével – hatvannapos felmondási idővel, írásban, indokolással felmondhatja. A felmondás okának az indokolásból világosan ki kell tűnnie. A felmondás indokának valóságát és okszerűségét a működtető bizonyítja.
+(6) A nevelőszülői hálózat a nevelőszülői foglalkoztatási jogviszonyt – a (7) bekezdésben foglaltak kivételével – hatvannapos felmondási idővel, írásban, indokolással felmondhatja. A felmondás okának az indokolásból világosan ki kell tűnnie. A felmondás indokának valóságát és okszerűségét a nevelőszülői hálózat bizonyítja.
 
 (6a) A nevelőszülői foglalkoztatási jogviszony (6) bekezdése szerinti felmondását megalapozza különösen, ha a nevelőszülő
 
-a) a működtető engedélye nélkül másik működtetővel is megállapodást köt,
+a) a nevelőszülői hálózat engedélye nélkül másik nevelőszülői hálózattal is megállapodást köt,
 
 b) az együttműködési kötelezettségének nem tesz eleget,
 
-c) magatartásával ellehetetleníti a működtetővel történő együttműködést, vagy
+c) magatartásával ellehetetleníti a nevelőszülői hálózattal történő együttműködést, vagy
 
 d) előzetes bejelentés vagy a gyámhatóság engedélye nélkül harminc napnál hosszabb időre külföldre távozik anélkül, hogy ott szokásos tartózkodási helyet létesítene.
 
-(7) A működtető azonnali hatállyal felmondja a nevelőszülői foglalkoztatási jogviszonyt, ha
+e) a 10/C. § a) pontja szerinti pszichológiai alkalmassági vizsgálaton, illetve a 10/C. § b) pontja szerinti kifogástalan életvitel ellenőrzésen nem felelt meg, feltéve, hogy nevelőszülői foglalkoztatási jogviszonyát a (7) bekezdés szerint nem kell azonnali hatállyal felmondani.
+
+(7) A nevelőszülői hálózat azonnali hatállyal felmondja a nevelőszülői foglalkoztatási jogviszonyt, ha
 
 a) a nevelőszülő külföldön létesít szokásos tartózkodási helyet,
 
@@ -48,17 +50,21 @@ d) a bíróság a nevelőszülő szülői felügyeleti jogát jogerős ítélet�
 
 e) a nevelőszülő a (8) bekezdésben foglalt magatartást megvalósítja.
 
-(8) Ha a nevelőszülő a gyermek, fiatal felnőtt nevelése, ellátása során meg nem engedett nevelési módszereket alkalmaz, a gyermeket, fiatal felnőttet bántalmazza, élelmezését megvonja, a gyermek, fiatal felnőtt gondozását, nevelését önhibájából súlyosan elhanyagolja, a vér szerinti családjával való kapcsolattartását nem biztosítja, örökbefogadását akadályozza vagy a gyermek, fiatal felnőtt ellátásához biztosított juttatásokat nem a gyermek, fiatal felnőtt szükségleteire fordítja, a működtető megkeresi a gyámhatóságot a gyermek, fiatal felnőtt új gondozási helyének kijelölése érdekében. A működtető erről egyidejűleg értesíti a gyermekvédelmi gyámot és a területi gyermekvédelmi szakszolgálatot.
+(8) Ha a nevelőszülő a gyermek, fiatal felnőtt nevelése, ellátása során meg nem engedett nevelési módszereket alkalmaz, a gyermeket, fiatal felnőttet bántalmazza, élelmezését megvonja, a gyermek, fiatal felnőtt gondozását, nevelését önhibájából súlyosan elhanyagolja, a vér szerinti családjával való kapcsolattartását nem biztosítja, örökbefogadását akadályozza vagy a gyermek, fiatal felnőtt ellátásához biztosított juttatásokat nem a gyermek, fiatal felnőtt szükségleteire fordítja,
 
-(9) A (8) bekezdés szerinti esetben a nevelőszülőnek a 66/H. § alapján járó díjazása folyósítását a gyermek gondozási helyének megváltoztatásáról szóló gyámhatósági döntés véglegessé válásáig fel kell függeszteni. Ha a gyámhatóság nem változtatja meg a gyermek gondozási helyét, a felfüggesztés idejére járó nevelőszülői díjazást a működtető egy összegben kifizeti a nevelőszülő részére. Ellenkező esetben a nevelőszülői díjazás folyósítását a felfüggesztés időpontjára visszamenő hatállyal meg kell szüntetni.
+a) a nevelőszülői hálózat megkeresi a gyámhatóságot a gyermek, fiatal felnőtt új gondozási helyének kijelölése érdekében, valamint a nevelőszülői hálózat erről egyidejűleg értesíti a gyermekvédelmi gyámot, a területi gyermekvédelmi szakszolgálatot és a gyermekjogi képviselőt, és
 
-(10) Ha a (8) bekezdésben foglaltakról a gyámhatóság nem a működtetőtől értesül, a nevelőszülői foglalkoztatási jogviszony azonnali hatályú felmondását kezdeményezi a működtetőnél. Ezzel egyidejűleg a gyámhatóság szükség esetén kijelöli a gyermek új gondozási helyét.
+b) a gyermekvédelmi gyám, a területi gyermekvédelmi szakszolgálat, illetve a gyermekjogi képviselő értesíti a nevelőszülőt foglalkoztató nevelőszülői hálózat működését engedélyező szervet.
+
+(9) A (8) bekezdés szerinti esetben a nevelőszülőnek a 66/H. § alapján járó díjazása folyósítását a gyermek gondozási helyének megváltoztatásáról szóló gyámhatósági döntés véglegessé válásáig fel kell függeszteni. Ha a gyámhatóság nem változtatja meg a gyermek gondozási helyét, a felfüggesztés idejére járó nevelőszülői díjazást a nevelőszülői hálózat egy összegben kifizeti a nevelőszülő részére. Ellenkező esetben a nevelőszülői díjazás folyósítását a felfüggesztés időpontjára visszamenő hatállyal meg kell szüntetni.
+
+(10) Ha a (8) bekezdésben foglaltakról a gyámhatóság nem a nevelőszülői hálózattól értesül, a nevelőszülői foglalkoztatási jogviszony azonnali hatályú felmondását kezdeményezi a nevelőszülői hálózatnál. Ezzel egyidejűleg a gyámhatóság szükség esetén kijelöli a gyermek új gondozási helyét.
 
 (11) A nevelőszülői foglalkoztatási jogviszony megszüntetésére irányuló megállapodást és nyilatkozatokat írásba kell foglalni.
 
 (12) A nevelőszülői foglalkoztatási jogviszony fennállását nem érinti, ha a gyermek vagy a fiatal felnőtt átmenetileg a nevelőszülő háztartásán kívül tartózkodik, így különösen, ha a gyermek, fiatal felnőtt kollégiumi elhelyezésben részesül, üdül vagy gyógyintézeti kezelés alatt áll.
 
-(13) A nevelőszülői foglalkoztatási jogviszony (1) bekezdés b)–d) pontja szerinti megszűnésekor, valamint a nevelőszülői foglalkoztatási jogviszony megszüntetésekor a nevelőszülő átadja a gyermekkel kapcsolatos iratokat a működtetőnek és a gyermek, fiatal felnőtt után járó juttatásokkal elszámol.
+(13) A nevelőszülői foglalkoztatási jogviszony (1) bekezdés b)–d) pontja szerinti megszűnésekor, valamint a nevelőszülői foglalkoztatási jogviszony megszüntetésekor a nevelőszülő átadja a gyermekkel kapcsolatos iratokat a nevelőszülői hálózatnak és a gyermek, fiatal felnőtt után járó juttatásokkal elszámol.
 
 (14) A nevelőszülői foglalkoztatási jogviszony megszűnése, megszüntetése tekintetében egyebekben az Mt. 80. § (2) bekezdését, 82. §-át és 84. § (1)–(3) bekezdését alkalmazni kell.
 

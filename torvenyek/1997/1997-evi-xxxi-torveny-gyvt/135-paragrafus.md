@@ -122,7 +122,7 @@ c) a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői b
 
 d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
 
-e) a nevelőszülőnek jelentkező személy és a nevelőszülő 5. § t) pontja szerinti adatainak, társadalombiztosítási azonosító jelének, a nevelőszülői tevékenységre való alkalmasság vizsgálatára, felülvizsgálatára és a működtető döntésére vonatkozó adatoknak, dokumentumoknak a rögzítése a nevelőszülői alkalmassági alrendszerben,
+e) a nevelőszülőnek jelentkező személy és a nevelőszülő 5. § t) pontja szerinti adatainak, társadalombiztosítási azonosító jelének, a nevelőszülői tevékenységre való alkalmasság vizsgálatára, felülvizsgálatára és a nevelőszülői hálózat döntésére vonatkozó adatoknak, dokumentumoknak a rögzítése a nevelőszülői alkalmassági alrendszerben,
 
 f) a nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában, vagy támogatott lakhatásban elhelyezett, illetve a gyermekvédelmi szakértői bizottság által elhelyezni javasolt gyermekek számának a rögzítése a szakellátott gyermekek nyilvántartásának alrendszerében,
 
@@ -141,6 +141,14 @@ b) a szülő vagy más törvényes képviselő által a gyermek, a gyermeket nev
 c) a Ptk. szerinti hozzátartozó, vagy a közös háztartásban rendszeresen vagy időszakonként együtt élő más személy által a gyermek, a gyermeket nevelő másik szülő, a gyermeket gondozó személy és a gyermekkel egy háztartásban élő személy sérelmére elkövetett hozzátartozók közötti erőszak miatt alkalmazható ideiglenes megelőző távoltartó határozatra vagy megelőző távoltartó határozatra, illetve a büntetőeljárás során vagy a pártfogó felügyelet magatartási szabályaként elrendelt távoltartásra
 
 vonatkozó adatokat kezelhet.
+
+(4a) A nevelőszülői hálózat a nevelőszülőnél elhelyezett gyermekek biztonságos ellátása, a nevelőszülői tevékenység ellátására való alkalmasság megállapítása és felülvizsgálata céljából kezeli
+
+a) a nevelőszülőnek jelentkező személy személyazonosító adatait, társadalombiztosítási azonosító jelét és a nevelőszülői tevékenység ellátására való alkalmassága vizsgálatára vonatkozó adatokat,
+
+b) a nevelőszülőnek a (2) bekezdés b) pontjában foglalt adatain túl a nevelőszülői tevékenység ellátására való alkalmassága vizsgálatára és felülvizsgálatára vonatkozó adatokat,
+
+c) a nevelőszülőnek jelentkező személlyel és a nevelőszülővel egy háztartásban élő személyek személyazonosító adatait, a gyermekneveléssel összefüggő, így különösen életvezetésére, nevelési magatartására vonatkozó adatait és azon egészségi állapotra vonatkozó adatait, amelyek kihatással lehetnek a gyermek ellátására.
 
 (5) A gyermekvédelmi gondoskodás biztosítása, a gyermek örökbefogadásának elősegítése, utánkövetése és a származás megismeréséhez való jog érvényesülésének biztosítása céljából a területi gyermekvédelmi szakszolgálat és a gyámhatóság kezeli
 
@@ -202,7 +210,7 @@ ek) ea)–ej) alpontba tartozó adatain kívül a vele kapcsolatos gyámhatósá
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, nyomozó hatóság, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 a) az az adott gyermekre tartalmaz-e adatot,
 

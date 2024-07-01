@@ -1,12 +1,12 @@
 145. § (1) A központi költségvetésről szóló törvényben biztosított támogatásra jogosult a szolgáltatói nyilvántartásba végleges döntéssel bejegyzett szolgáltató, intézmény vagy hálózat útján gyermekjóléti vagy gyermekvédelmi szolgáltató tevékenységet folytató, közfeladatot ellátó egyházi fenntartó és – a központi költségvetésről szóló törvényben meghatározott – nem állami fenntartó.
 
-(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele a
+(2) Az állami fenntartó, az egyházi fenntartó és a nem állami fenntartó központi költségvetésről szóló törvényben biztosított támogatásra való jogosultságának feltétele
 
-a) személyes gondoskodást nyújtó gyermekjóléti alapellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
+a) a személyes gondoskodást nyújtó gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó új szolgáltatónak, intézménynek, hálózatnak,
 
-b) gyermekek napközbeni ellátása és – az 51. § (4)–(9) bekezdés szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek
+b) a gyermekek napközbeni ellátása, gyermekvédelmi szakellátás és – az 51. § (4)–(9) bekezdése szerinti ellátás kivételével – a gyermekek átmeneti gondozása esetében az új férőhelyeknek
 
-a gyermekjóléti szolgáltatások területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a családsegítés és gyermekjóléti szolgáltatás, valamint a 145/C. §-ban foglaltak kivételével.
+a gyermekjóléti szolgáltatások és a gyermekvédelmi szakellátás területi lefedettségét figyelembe vevő, külön jogszabály szerinti finanszírozási rendszerbe történő befogadása (a továbbiakban: befogadás), a családsegítés és gyermekjóléti szolgáltatás, a területi gyermekvédelmi szakszolgáltatás, valamint a 145/C. §-ban foglaltak kivételével.
 
 (2a) A (2) bekezdés alkalmazásában új szolgáltatónak, intézménynek, hálózatnak, illetve férőhelyszámnak az minősül, amelyre a fenntartó a kérelem benyújtásakor nem rendelkezik befogadással.
 
@@ -38,6 +38,8 @@ ce) fenntartóváltás
 
 teszi szükségessé.
 
+d) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szervvel nevelőszülőnél és gyermekotthonban biztosított otthont nyújtó ellátást, valamint utógondozói ellátást nyújtó, a (2) bekezdés szerinti új szolgáltató, intézmény, hálózat vagy férőhely tekintetében kötött ellátási szerződéssel rendelkező nem állami, egyházi fenntartót.
+
 (2d) A (2c) bekezdés szerinti feltételek fennállását a miniszter, a gyermekek napközbeni ellátása tekintetében a gyermek- és ifjúságpolitikáért felelős miniszter vizsgálja. Ha a (2c) bekezdés szerinti feltételek nem állnak fenn, a miniszter a befogadásról az általa meghatározott és közleményben közzétett kapacitások alapján dönt.
 
 (2e) A (2c) bekezdés c) pontja szerinti esetben szétváláson, egyesítésen, átcsoportosításon az egyik intézményben, telephelyen történő férőhelyszám-csökkenéssel egyidejű, másik intézményben, telephelyen, újonnan létesített intézményben, telephelyen történő azonos mértékű férőhelyszám-növelést kell érteni.
@@ -48,7 +50,7 @@ teszi szükségessé.
 
 (3) A központi költségvetésről szóló törvényben biztosított támogatásban részesülő egyházi fenntartású vagy nem állami fenntartású gyermekjóléti, gyermekvédelmi szolgáltató, intézmény, hálózat – a munkakörüket sajátos egyházi szolgálati viszonyban ellátó személyeket kivéve –
 
-a) a munkavállalók számára legalább a Kjt. 55–80. §-ában és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre vonatkozó feltételeket,
+a) a munkavállalók számára legalább a Kjt. 55–80. §-ában és a Kjt.-nek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló kormányrendeletben megállapított, a munkaidőre, pihenőidőre, előmeneteli és illetményrendszerre, valamint a pszichológiai alkalmassági vizsgálatra vonatkozó feltételeket,
 
 b) az a) pontban foglaltaktól eltérően a pedagógus-munkakörben foglalkoztatott munkavállalók számára legalább
 

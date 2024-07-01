@@ -1,4 +1,4 @@
-148. § (1) A kötelezett által fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető, a szolgáltatást vezető vagy a működtető (a továbbiakban együtt: intézményvezető) konkrét összegben állapítja meg.
+148. § (1) A kötelezett által fizetendő térítési díj összegét (a továbbiakban: személyi térítési díj) az intézményvezető, a szolgáltatást vezető (a továbbiakban együtt: intézményvezető) konkrét összegben állapítja meg.
 
 (2) A bölcsődében, mini bölcsődében nyújtott bölcsődei ellátás esetében az intézményvezető a 151. § (4) bekezdés alapján megállapítja a bölcsődei ellátás keretében biztosított gyermekétkeztetésre vonatkozó személyi térítési díjat, valamint emellett – a fenntartó döntésétől függően – a bölcsődei ellátás keretében nyújtott gondozásra is megállapíthat személyi térítési díjat.
 

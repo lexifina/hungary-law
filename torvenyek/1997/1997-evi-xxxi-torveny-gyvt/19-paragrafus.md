@@ -14,23 +14,25 @@ az igénybevételére.
 
 a) a gyermek tartására köteles, és
 
-b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, megváltozott munkaképességű személyek ellátásaiban, időskorúak járadékában vagy olyan ellátásban részesül, amely a nyugdíjszerű rendszeres szociális ellátások emeléséről szóló jogszabály hatálya alá tartozik.
+b) nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban, megváltozott munkaképességű személyek ellátásaiban, időskorúak járadékában vagy olyan egyéb ellátásban részesül, amely a nyugellátások és egyes más ellátások emeléséről szóló kormányrendelet hatálya alá tartozik.
 
 (2) A gyámhatóság megállapítja a gyermek rendszeres gyermekvédelmi kedvezményre való jogosultságát, amennyiben a gyermeket gondozó családban az egy főre jutó havi jövedelem összege nem haladja meg
 
-a) a szociális vetítési alap összegének a 180%-át, ha
+a) a szociális vetítési alap összegének a 245%-át, ha
 
 aa) a gyermeket egyedülálló szülő vagy más törvényes képviselő gondozza,
 
-ab) a gyermek tartósan beteg, illetve súlyosan fogyatékos, vagy
+ab) a gyermek tartósan beteg, illetve súlyosan fogyatékos vagy
 
 ac) a nagykorúvá vált gyermek megfelel a 20. § (2) bekezdésében foglalt feltételeknek;
 
-b) a szociális vetítési alap összegének 165%-át az a) pont alá nem tartozó esetben,
+b) a szociális vetítési alap összegének 225%-át az a) pont alá nem tartozó esetben,
 
 feltéve, hogy a vagyoni helyzet vizsgálata során az egy főre jutó vagyon értéke nem haladja meg külön-külön vagy együttesen a (7) bekezdésben meghatározott értéket.
 
 (3) Az egy főre jutó jövedelem megállapításánál a 131. § (2) bekezdését kell alkalmazni. Ettől eltérni akkor lehet, ha a jövedelmi viszonyokban igazolható ok miatt tartós romlás vélelmezhető.
+
+(3a) Az egy főre jutó jövedelem megállapításánál nem kell figyelembe venni a gondozó családban élő gyermek árvaellátását.
 
 (4) A (2) bekezdésben meghatározott összeg számításánál – a kérelem benyújtásának időpontjában – közös háztartásban élő közeli hozzátartozóként (gondozó családként) kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
 

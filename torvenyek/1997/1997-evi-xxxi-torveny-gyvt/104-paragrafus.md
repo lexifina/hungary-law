@@ -20,13 +20,15 @@ g) gyakorolja az intézmény vezetője tekintetében a munkáltatói jogokat,
 
 h) gondoskodik az érdekképviseleti fórum megalakításának feltételeiről,
 
-i) kikéri a gyámhatóság véleményét az intézmény működését érintő lényeges döntés meghozatala előtt, így különösen az intézmény fenntartását érintő változások, az intézmény átszervezésének, megszüntetésének, feladatkörének megváltoztatása esetén,
+i) az intézmény működését érintő lényeges döntés meghozatala előtt, így különösen az intézmény fenntartását érintő változások, az intézmény átszervezésének, megszüntetésének és feladatkörének megváltoztatása esetén kikéri a gyámhatóság véleményét, és ha a változás otthont nyújtó ellátást vagy utógondozói ellátást nyújtó intézményt érint, egyidejűleg arról tájékoztatja a minisztert is,
 
 j) kivizsgálja a 36. § (2) bekezdése alapján hozzá érkező panaszokat és szükség esetén intézkedik a panaszt kiváltó okok megszüntetése iránt, és a megtett intézkedéséről tájékoztatja a működést engedélyező szervet,
 
 k) kijelöli és működteti az ideiglenes hatállyal elhelyezett gyermekek befogadására szolgáló nevelőszülőt és gyermekotthont,
 
 l) működteti az utógondozói ellátást igénylő fiatal felnőttek lakhatását biztosító külső férőhelyeket.
+
+(1a) A fenntartó hozzájárul a gyermekotthonnak a 87. § (1) bekezdés a)–c) pontja szerinti egyes gyámi feladatok ellátására való kijelöléséhez, ha annak személyi és tárgyi feltételeit biztosítani tudja.
 
 (2) Az állami és nem állami intézmény fenntartója a szervezeti és működési szabályzat jóváhagyását akkor tagadhatja meg, ha az jogszabályt sért. A szakmai program jóváhagyását akkor tagadhatja meg, ha az nem felel meg az e törvényben, valamint a szakmai jogszabályokban előírt követelményeknek.
 

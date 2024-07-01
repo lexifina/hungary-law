@@ -6,7 +6,11 @@
 
 84. § (1) A gyámhatóság a gyermek részére gyermekvédelmi gyámot rendel, ha
 
-a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el a gyermeket, és pert indított a szülői felügyelet megszüntetése iránt,
+a) ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezte el a gyermeket, és
+
+aa) a 87. § (1) bekezdés a)–c) pontja szerinti ügyekben a gyermek törvényes képviseletének ellátására nem rendelhető ki gyámként a gyermeket ideiglenesen befogadó nevelőszülő vagy gyermekotthon, vagy
+
+ab) pert indított a szülői felügyelet megszüntetése iránt,
 
 b) a gyermek szülei hozzájárultak a gyermek ismeretlen személy által történő örökbefogadásához,
 
@@ -15,6 +19,8 @@ c) a gyermek szülei ismeretlen helyen tartózkodnak, a gyermek a harmadik orsz�
 d) nevelésbe vette a gyermeket,
 
 e) a gyermek ismeretlen szülőktől származik.
+
+f) a gyermek szülője a gyermekét közvetlenül a szülést követően az egészségügyi intézményben hagyta és hat héten belül a gyermekért ő vagy a gyermek más hozzátartozója nem jelentkezik.
 
 (2) A gyámhatóság a gyermek számára – gondozási helyétől függetlenül – a területi gyermekvédelmi szakszolgálat javaslata alapján gyermekvédelmi gyámot rendel. A gyermek gondozási helyének megváltozása esetén a gyámhatóság kizárólag akkor rendelhet ki másik gyermekvédelmi gyámot a gyermek részére, ha az új gondozási helyen a gyámság ellátása másként nem biztosítható.
 
@@ -32,10 +38,12 @@ c) a gyermekotthon és a nevelőszülői hálózat vezetője vagy foglalkoztatot
 
 d) a gyermek nevelőszülője.
 
+e) a hivatásos gondnok és a hivatásos támogató.
+
 (5) A gyermekvédelmi gyám munkavégzéssel járó egyéb jogviszonyt – tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység kivételével – csak a munkáltatói jogkör gyakorlójának engedélyével létesíthet.
 
 (6) A gyermekvédelmi gyám egyidejűleg legfeljebb harminc gyermek gyámságát láthatja el.
 
 (6a) A speciális szükségletű és a kettős szükségletű gyermeket két gyermekként kell figyelembe venni a gyermekvédelmi gyám gyámsága alatt álló gyermekek létszámának számításakor.
 
-(7) A gyermekvédelmi gyám mellett a gyámhatóság egyes, e törvényben meghatározott gyámi feladatok ellátására gyámként kirendelheti a nevelőszülőt, feltéve hogy a nevelőszülő a gyámságot vállalja.
+(7) A gyermekvédelmi gyám mellett a gyámhatóság egyes, e törvényben meghatározott gyámi feladatok ellátására gyámként kirendelheti a nevelőszülőt vagy a gyermekotthont, feltéve, hogy a nevelőszülő vagy a fenntartója hozzájárulásával a gyermekotthon a gyámságot vállalja. A gyermekotthon nevében az egyes gyámi feladatokat a gyermekotthon vezetője vagy az általa kijelölt, szakmai munkakörben foglalkoztatott személy láthatja el, aki személyében megfelel a gyámmal szemben a Ptk.-ban támasztott követelményeknek.

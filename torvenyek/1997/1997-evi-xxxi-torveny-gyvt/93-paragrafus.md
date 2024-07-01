@@ -1,6 +1,6 @@
 ## Utógondozói ellátás
 
-93. § (1) A gyámhatóság a gyermek vagy a fiatal felnőtt kérelmére – a gyermek nagykorúságának elérése előtt a gyermekvédelmi gyám javaslatának figyelembevételével – elrendeli az utógondozói ellátást, ha a gyermek, illetve a fiatal felnőtt nevelésbe vétele nagykorúvá válásával szűnt meg, és
+93. § (1) A gyámhatóság a gyermek vagy a fiatal felnőtt kérelmére – a gyermek nagykorúságának elérése előtt a gyermekvédelmi gyám és az egyes gyámi feladatok ellátására kirendelt nevelőszülő vagy gyermekotthon javaslatának figyelembevételével – elrendeli az utógondozói ellátást, ha a gyermek, illetve a fiatal felnőtt nevelésbe vétele nagykorúvá válásával szűnt meg, és
 
 a) létfenntartását önállóan biztosítani nem tudja, vagy
 
@@ -20,7 +20,7 @@ betöltéséig kérheti.
 
 (3) Az (1) bekezdés a) pontjának alkalmazásában akkor nem biztosított a fiatal felnőtt létfenntartása, ha
 
-a) a havi jövedelme a szociális vetítési alap összegének háromszorosát nem haladja meg, vagy
+a) a havi jövedelme a kötelező legkisebb munkabér társadalombiztosítási járulékkal csökkentett összegének 150%-át nem haladja meg, vagy
 
 b) a nagykorúvá válásának időpontjában a rendelkezésére bocsátott készpénzvagyonának értéke a szociális vetítési alap összegének negyvenszeresét nem haladja meg.
 

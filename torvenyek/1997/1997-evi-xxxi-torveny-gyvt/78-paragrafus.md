@@ -30,7 +30,7 @@ ad) az Szt. 75. §-a szerinti támogatott lakhatást
 
 jelöli ki,
 
-b) a gyermek számára gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel,
+b) a gyermek számára gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel, valamint – a 85. § (2) bekezdésében foglalt feltételek fennállása esetén – a 87. § (1) bekezdés a)–c) pontja szerinti egyes gyámi feladatok ellátására gyámként kirendeli a nevelőszülőt vagy a gyermekotthont,
 
 c) hivatalból dönt a szülővel vagy más hozzátartozóval való kapcsolattartás szabályozásáról, vagy arról, hogy a szülő vagy más hozzátartozó nem jogosult kapcsolattartásra,
 
@@ -56,7 +56,7 @@ c) a nevelésbe vett gyermek gondozási helyének meghatározásáról és a 79.
 
 egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá nyilvánított határozatban dönt.
 
-(5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózatot működtető, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.
+(5) A gyermeknek az ideiglenes gondozási helyre viteléről a gyámhatóság rendelkezése alapján a gyermek szülője, gyámja, a gyermeket gondozó más személy, a nevelőszülői hálózat, a gyermekjóléti központ vagy a gyámhatóság gondoskodik.
 
 (6) Ha a gyámhatóság a nevelésbe vételi eljárás során vagy azt követően azt állapítja meg, hogy a szülői felügyelet megszüntetésének okai fennállnak, haladéktalanul pert indít a szülő ellen a szülői felügyeleti jog megszüntetése iránt.
 

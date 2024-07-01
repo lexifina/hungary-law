@@ -36,6 +36,8 @@ bb) a felülvizsgálatot indokoló egyéb körülmény jut a tudomására.
 
 (5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a vármegyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
 
+(5a) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta.
+
 (6) Ha a területi gyermekvédelmi szakszolgálat és a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszer – a nyilvántartott adatai, a gyermek életkora, egészségi állapota és egyéb körülményei figyelembevételével adott – tájékoztatása alapján a gyermek örökbefogadására reális esély van, a gyámhatóság megindítja az örökbe fogadhatóvá nyilvánítás iránti eljárást.
 
 (7) A gyámhatóság a nevelésbe vétel felülvizsgálata eredményeként hozott határozatában megállapítja, ha a gyermek örökbe fogadható. A (4) bekezdés b) pont ba) alpontjában foglaltak fennállásakor a gyámhatóság minden esetben megállapítja a gyermek örökbefogadhatóságának tényét.

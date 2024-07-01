@@ -1,4 +1,4 @@
-139/B. § (1) A nevelőszülői hálózat működtetője az 55. § (5) bekezdés a) pontja szerinti nyilvántartási kötelezettségének a Gyermekeink védelmében elnevezésű informatikai rendszer nevelőszülői alkalmassági alrendszerében tesz eleget.
+139/B. § (1) A nevelőszülői hálózat az 55. § (5) bekezdés a) pontja szerinti nyilvántartási kötelezettségének a Gyermekeink védelmében elnevezésű informatikai rendszer nevelőszülői alkalmassági alrendszerében tesz eleget.
 
 (2) A nevelőszülői alkalmassági alrendszerben szereplő adatokat
 

@@ -8,6 +8,12 @@ c) hatvan napon belül pert indít az ideiglenes hatályú elhelyezés fenntart�
 
 d) huszonegy napon belül hozzájárul a gyermeknek a fogvatartás helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézetben a fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén történő elhelyezéséhez, legfeljebb a Bv. tv.-ben meghatározott időtartamra, ha az a gyermek érdekében áll; ellenkező esetben rendelkezik a gyermeknek a büntetés-végrehajtási intézetből vagy a javítóintézetből történő kiadásáról, és megteszi a gyermek érdekében szükséges intézkedéseket.
 
+e) nyolc napon belül szükség esetén felhívja a 87. § (1) bekezdés a)–c) pontjában meghatározott ügyekben a törvényes képviselet ellátására
+
+ea) a gyermeket ideiglenesen befogadó nevelőszülőt, gyermekotthont, vagy
+
+eb) – ha a nevelőszülő vagy a gyermekotthon egyes gyámi feladatokra gyámként nem rendelhető ki, továbbá, ha a gyermeknek más gondozási helye van –, a gyermekvédelmi gyámot.
+
 (2) A bíróság gyermekelhelyezéssel kapcsolatos döntésének az (1) bekezdés c) pontjában meghatározott perindítással történő megváltoztatására csak abban az esetben kerülhet sor, ha azok a körülmények, amelyekre a bíróság elhelyezési döntését alapította, később lényegesen megváltoztak.
 
 (2a) Az (1) bekezdés d) pontja szerinti esetben a gyámhatóság a gyermek érdekét az anyának a vele együttesen elhelyezett gyermeke, illetve meglévő idősebb gyermeke tekintetében megvalósult gondozása, nevelése során tanúsított magatartása alapján, valamint a külön élő másik szülő és a gyermek nevelésére családbafogadó gyámként kirendelhető személy véleményének figyelembevételével mérlegeli. Ennek érdekében a gyámhatóság megkeresi a fogvatartás helye szerint az anya-gyermek részleget működtető büntetés-végrehajtási intézet parancsnokát vagy a fiatalkorú és gyermeke együttes elhelyezését biztosító részleget működtető javítóintézet igazgatóját arra nézve, hogy az anya a gyermek gondozását miként látja el.

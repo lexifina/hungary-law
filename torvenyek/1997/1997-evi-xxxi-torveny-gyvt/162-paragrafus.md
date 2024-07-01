@@ -60,6 +60,10 @@ z) a gyermek (nagykorúvá vált gyermek), fiatal felnőtt hátrányos vagy halm
 
 zs) a 137. § (3a) bekezdése szerinti, az Szt. 18/B. §-a alapján vezetett országos nyilvántartásba való adatrögzítés és a nyilvántartásból történő adattörlés részletes szabályait.
 
+(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10/C. § a) pontja szerinti pszichológiai alkalmassági vizsgálat részletszabályait, a pszichológiai alkalmassági vizsgálatot végző szervet és a pszichológiai alkalmassági vizsgálat gyakoriságát.
+
+(1b) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a 10/C. § b) pontja szerinti kifogástalan életvitel ellenőrzése végrehajtásának szabályait.
+
 (2) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 a) a gyermekjóléti és gyermekvédelmi személyes gondoskodást nyújtó intézmények és személyek szakmai feladatait, működésük feltételeit, valamint a szolgáltatás igénybevételére való jogosultság feltételeinek részletes szabályait, a (3) bekezdés a) pontjában meghatározottak kivételével,
@@ -84,7 +88,7 @@ j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályai
 
 k) a gyermekvédelmi szakellátásban és a javítóintézetben foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
 
-l)
+l) a 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülményeket,
 
 m)
 

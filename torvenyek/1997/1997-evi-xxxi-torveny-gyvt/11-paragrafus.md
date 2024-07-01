@@ -12,6 +12,6 @@ a) képviseli a gyermek érdekét, elősegíti jogainak gyakorlását,
 
 b) megismeri a gyermek véleményét és közvetíti azt az ellátást nyújtó szolgáltató, intézmény, illetve a gyermek ügyeivel foglalkozó hatóságok felé,
 
-c) ellátja a gyermek törvényes képviseletét, és
+c) ellátja a gyermek törvényes képviseletét mindazon ügyekben, amelyekben nem a nevelőszülő vagy a gyermekotthon jár el a gyermek törvényes képviseletében, és
 
 d) jogszabályban meghatározott ügyekben eljárást kezdeményez.

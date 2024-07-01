@@ -44,7 +44,7 @@ számára.
 
 (6) Otthont nyújtó ellátást biztosít
 
-a) a nevelőszülő a működtető közreműködésével, vagy – ha ez nem lehetséges –
+a) a nevelőszülő a nevelőszülői hálózat közreműködésével, vagy – ha ez nem lehetséges –
 
 b) a gyermekotthon, vagy
 

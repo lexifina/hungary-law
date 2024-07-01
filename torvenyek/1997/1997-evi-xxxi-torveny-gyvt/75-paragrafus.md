@@ -4,4 +4,4 @@ a) megállapítja a különélő másik szülő szülői felügyeleti jogának f
 
 b) a gyermek családbafogadó gyámjául rendeli azt a hozzátartozót vagy más személyt, akinél a gyermeket ideiglenes hatállyal elhelyezték,
 
-c) gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el.
+c) gyermekvédelmi gyámot és helyettes gyermekvédelmi gyámot rendel, ha a gyermeket ideiglenes hatállyal nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el, azzal, hogy a törvényes képviseletet a 87. § (1) bekezdés a)–c) pontjában meghatározott ügyekben – erre történő kirendelés esetén – a gyermek ideiglenes gondozási helyét biztosító nevelőszülő vagy gyermekotthon látja el.

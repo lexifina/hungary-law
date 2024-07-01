@@ -4,7 +4,7 @@ Ennek érdekében különösen
 
 a) elősegíti a gyermek testi, értelmi, érzelmi és erkölcsi fejlődését, személyisége kibontakozását,
 
-b) elősegíti – a működtető támogatásával – a gyermek vér szerinti családjába való visszakerülését és ennek érdekében együttműködik a családdal, vagy ha ez nem lehetséges, illetve ez nem áll a gyermek érdekében, örökbefogadó családnál történő elhelyezését,
+b) elősegíti – a nevelőszülői hálózat támogatásával – a gyermek vér szerinti családjába való visszakerülését és ennek érdekében együttműködik a családdal, vagy ha ez nem lehetséges, illetve ez nem áll a gyermek érdekében, örökbefogadó családnál történő elhelyezését,
 
 c) elősegíti a gyermek vallási vagy lelkiismereti meggyőződésének szabad megválasztását, kinyilvánítását, gyakorlását, hit- és vallásoktatásban való részvételét,
 
@@ -16,7 +16,7 @@ e)
 
 (3) A nevelőszülő a gyámhatóság határozata alapján biztosítja az általa nevelt gyermek kapcsolatát a kapcsolattartásra feljogosított szülőjével és közeli hozzátartozóival.
 
-(4) A nevelőszülő az alapfeladatok ellátásán túl a működtető hozzájárulásával
+(4) A nevelőszülő az alapfeladatok ellátásán túl a nevelőszülői hálózat hozzájárulásával
 
 a) elláthatja
 
@@ -30,9 +30,9 @@ b) részt vállalhat az egyéni elhelyezési tervben foglaltak szerint a vér sz
 
 c) elláthatja a helyettes szülői feladatokat, azzal, hogy a nála elhelyezhető gyermekek száma nem haladhatja meg a 49. § (3) bekezdésében meghatározott létszámot,
 
-feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok végzésére és a működtető biztosítja számára a speciális szakmai támogatást.
+feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok végzésére és a nevelőszülői hálózat biztosítja számára a speciális szakmai támogatást.
 
-(5) A működtető a nevelőszülőt
+(5) A nevelőszülői hálózat a nevelőszülőt
 
 a) külön jogszabályban meghatározott követelmények figyelembevételével kiválasztja, felkészíti, nyilvántartásba veszi, és
 
@@ -42,6 +42,6 @@ c) folyamatosan segíti és ellenőrzi a nevelési ellátmány és a családi p�
 
 d)
 
-(6)
+(6) A nevelőszülő – a nevelőszülői hálózat vezetőjének jóváhagyásával – legfeljebb három napra befogadja a 46. § szerint ellátást igénylő gyermeket, és az intézményvezető a gyermek helyzetének rendezése érdekében kezdeményezi a szükséges intézkedéseket.
 
-(7) A nevelőszülő a saját háztartásában – a működtetője közreműködésével – utógondozói ellátást nyújt.
+(7) A nevelőszülő a saját háztartásában – a nevelőszülői hálózat közreműködésével – utógondozói ellátást nyújt.

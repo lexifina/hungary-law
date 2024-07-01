@@ -72,11 +72,11 @@ t) személyazonosító adat: az érintett személy természetes személyazonosí
 
 ty) megelőző pártfogó felügyelő: az a pártfogó felügyelő, akit a bűnmegelőzés érdekében a szabálysértés vagy bűncselekmény elkövetése miatt indult gyámhatósági eljárás során a pártfogó felügyelői szolgálat kijelölt a védelembe vett vagy nevelésbe vett gyermek részére.
 
-u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, valamint a mini bölcsőde és a javítóintézet. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői, illetve nevelőszülői hálózatra is,
+u) intézmény: az e törvényben meghatározott gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet végző szervezet vagy annak szakmailag önálló szervezeti egysége, amely a rá vonatkozó külön jogszabályban foglaltak alapján jön létre, legalább három főt foglalkoztat teljes munkaidőben, valamint a mini bölcsőde, a nevelőszülői hálózat és a javítóintézet. Ha e törvény másképp nem rendelkezik, az intézmény fogalmát kell megfelelően alkalmazni a helyettes szülői hálózatra is,
 
-v) működtető: az a természetes személy, jogi személy, illetve ezek jogi személyiség nélküli szervezete, aki, illetve amely a fenntartó által biztosított működési feltételek között a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet szervezi,
+v)
 
-w) szolgáltató: gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző személy vagy szervezet, amely nem minősül intézménynek vagy helyettes szülői, nevelőszülői hálózatnak,
+w) szolgáltató: gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző személy vagy szervezet, amely nem minősül intézménynek vagy helyettes szülői hálózatnak,
 
 x) államilag támogatott lakás-előtakarékossági programban való részvétel: a lakástakarékpénztárakról szóló 1996. évi CXIII. törvény (a továbbiakban: Ltv.) szerinti lakás-előtakarékossági szerződés megkötése és teljesítése,
 

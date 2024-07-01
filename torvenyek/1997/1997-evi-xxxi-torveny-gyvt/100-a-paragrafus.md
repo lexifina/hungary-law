@@ -2,9 +2,9 @@
 
 100/A. § (1) A működést engedélyező szerv gyermekvédelmi igazgatási bírságot szabhat ki
 
-a) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a gyermeknek az e törvényben biztosított jogait megsérti,
+a) az intézményvezetővel, illetve a fenntartóval szemben, ha a szolgáltató, az intézmény, illetve a fenntartó a gyermeknek az e törvényben biztosított jogait megsérti,
 
-b) a működtetővel, az intézményvezetővel, illetve a fenntartóval szemben, ha a működtető, a szolgáltató, az intézmény, illetve a fenntartó a tájékoztatási kötelezettséget megszegi, vagy a gyermeket, a szülőt vagy más törvényes képviselőt, az érdek-képviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, a gyermekjogi képviselőhöz vagy más hatósághoz forduljon, vagy az intézményvezető, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
+b) az intézményvezetővel, illetve a fenntartóval szemben, ha a szolgáltató, az intézmény, illetve a fenntartó a tájékoztatási kötelezettséget megszegi, vagy a gyermeket, a szülőt vagy más törvényes képviselőt, az érdek-képviseleti szervet akadályozzák jogai gyakorlásában, illetve abban, hogy a működést engedélyező szervhez, a gyermekjogi képviselőhöz vagy más hatósághoz forduljon, vagy az intézményvezető, illetve a fenntartó a panaszt határidőben nem vizsgálja ki,
 
 c) a fenntartóval és a fenntartó nevében eljárni jogosult személlyel szemben, ha a fenntartó a jogszabályban előírt határidőben nem kéri a szolgáltatói nyilvántartásba bejegyzett adatok módosítását vagy a szolgáltatónak, intézménynek, hálózatnak (székhelynek, telephelynek) a szolgáltatói nyilvántartásból történő törlését,
 

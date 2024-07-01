@@ -6,4 +6,4 @@ a) a szülő és a gyermek kapcsolatát erősítő, a gyermek szocializációjá
 
 b) a csellengő vagy egyéb okból veszélyeztetett iskoláskorú gyermekek számára biztosított nappali felügyelet, sport-, illetve egyéb foglalkozás és étkeztetés,
 
-feltéve, ha a működtető rendelkezik az ehhez szükséges – jogszabályban meghatározott – személyi és tárgyi feltételekkel.
+feltéve, ha a szolgáltató, intézmény rendelkezik az ehhez szükséges – jogszabályban meghatározott – személyi és tárgyi feltételekkel.

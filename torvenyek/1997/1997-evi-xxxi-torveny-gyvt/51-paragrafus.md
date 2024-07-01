@@ -68,4 +68,4 @@ b) legfeljebb öt év időtartamra kiegészítő tevékenysége keretében a bá
 
 (15) A külső férőhelyek esetében a költségvetési támogatás a normál férőhelyekhez képest csökkentett mértékben illeti meg a fenntartót. A támogatás mértékét a központi költségvetésről szóló törvény állapítja meg.
 
-(16) Az egy családok átmeneti otthona keretében működtetett külső férőhelyek férőhelyszáma egybeszámítva nem haladhatja meg a családok átmeneti otthona férőhelyszámának 50%-át.
+(16)

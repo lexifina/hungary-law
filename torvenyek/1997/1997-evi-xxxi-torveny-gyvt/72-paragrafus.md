@@ -22,6 +22,14 @@ b) érdekében áll az anya letartóztatásának elrendelése esetén az anyáva
 
 (3) A gyermeknek az ideiglenes gondozási helyre viteléről a beutaló szerv gondoskodik.
 
-(4) Az ideiglenes hatályú elhelyezéstől kezdődően az (1) bekezdés a) pontja szerinti esetben a szülő gondozási, nevelési joga szünetel.
+(4) Az ideiglenes hatályú elhelyezéstől kezdődően az (1) bekezdés a) pontja szerinti esetben a szülő gondozási, nevelési joga szünetel, valamint ehhez kapcsolódóan a 87. § (1) bekezdés a)–c) pontjában meghatározott ügyekben a törvényes képviselői jog is szünetel, ha a gyámhatóság – a gyermek teljes körű ellátáshoz való hozzájutása érdekében – megállapította, hogy az ideiglenes hatályú elhelyezés oka alapján a szülőtől nem várható együttműködés e törvényes képviselői feladatok ellátásában.
+
+(4a) A gyermek teljes körű ellátásának biztosításával összefüggésben az (1) bekezdés a) pont ab) alpontja szerinti esetben a törvényes képviseletet a 87. § (1) bekezdés a)–c) pontja szerinti ügyek tekintetében
+
+a) a gyermeket ideiglenesen befogadó nevelőszülő vagy gyermekotthon, vagy
+
+b) ha a nevelőszülő vagy a gyermekotthon egyes gyámi feladatokra gyámként nem rendelhető ki, továbbá, ha a gyermeknek más gondozási helye van, a gyermekvédelmi gyám
+
+látja el.
 
 (5) A beutaló szerv ideiglenes hatályú elhelyezéséről szóló döntése ellen az ügyfél tizenöt napon belül indíthat közigazgatási pert. A beutaló szerv a benyújtástól számított nyolc napon belül továbbítja a bírósághoz a keresetlevelet. A bíróság a keresetlevél hozzá való érkezését követő harminc napon belül határoz.

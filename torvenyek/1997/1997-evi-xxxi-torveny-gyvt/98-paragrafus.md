@@ -56,7 +56,7 @@ h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az iga
 
 (8)
 
-(9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet – a területi gyermekvédelmi szakszolgáltatás kivételével – a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
+(9) A szolgáltatót, intézményt, hálózatot (székhelyet, telephelyet) a jogszabályokban és a szolgáltatói nyilvántartásban foglaltaknak megfelelően kell működtetni, amelyet a szolgáltatói nyilvántartásra vonatkozó hatósági eljárások lefolytatására kijelölt hatóság (a továbbiakban: működést engedélyező szerv) ellenőriz. Ha a szolgáltató, intézmény, hálózat (székhely, telephely) működése nem felel meg a jogszabályokban vagy a szolgáltatói nyilvántartásban foglaltaknak, a működést engedélyező szerv
 
 a) a 100/A. §-ban foglaltak szerint gyermekvédelmi igazgatási bírságot szabhat ki,
 

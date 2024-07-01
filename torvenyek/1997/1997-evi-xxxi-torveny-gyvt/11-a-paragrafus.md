@@ -18,7 +18,7 @@ fa) gyermekvédelmi igazgatási bírság kiszabására az arra a 100/A. § (1) b
 
 fb) a jogsértés jövőbeni előfordulásának megelőzése érdekében a jogsértéssel érintettek között, szükség szerint szakértők bevonásával, egyeztető megbeszélés tartására a gyámhatóságnak,
 
-fc) a jogsértő személy továbbképzésére a fenntartónak, működtetőnek.
+fc) a jogsértő személy továbbképzésére a fenntartónak.
 
 (3) A gyermekjogi képviselő jogosult a gyermekjóléti, illetve gyermekvédelmi szolgáltató tevékenységet végző működési területén tájékoztatást, iratokat, információkat kérni és a helyszínen tájékozódni. A gyermekjogi képviselő köteles a gyermek személyes adatait az adatvédelmi jogszabályoknak megfelelően kezelni.
 

@@ -19,3 +19,5 @@
 (5a) A gyermeknek joga van ahhoz, hogy a védelme érdekében eljáró szakemberek – különösen a gyermek bántalmazásának felismerése és megszüntetése érdekében – egységes elvek és módszertan alkalmazásával járjanak el.
 
 (6) A gyermeknek joga van ahhoz, hogy a médiában fejlettségének megfelelő, ismeretei bővítését segítő, a magyar nyelv és kultúra értékeit őrző műsorokhoz hozzáférjen, továbbá hogy védelmet élvezzen az olyan káros hatásokkal szemben, mint a gyűlöletkeltés, az erőszak és a pornográfia.
+
+(7) A gyermeknek joga van ahhoz, hogy tudatos és felelősségteljes internet-, valamint médiahasználatot − ideértve a zaklatás internetes formáival szembeni hatékony fellépést − biztosító nevelésben, oktatásban és képzésben részesüljön.

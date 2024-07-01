@@ -30,7 +30,9 @@ g) a fizetendő térítési, illetve gondozási díjról,
 
 h) a jogosult jogait és érdekeit képviselő érdekképviseleti fórumról.
 
-i) – ha a gyermeket nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el – a törvényes képviselet ellátásának módjáról, egyes gyámi feladatok ellátására a nevelőszülő kirendelésének lehetőségéről, az ítélőképessége birtokában lévő gyermek ezzel kapcsolatos véleménynyilvánítási lehetőségéről és panaszjoga gyakorlásáról.
+i) – ha a gyermeket nevelőszülőnél, gyermekotthonban vagy más bentlakásos intézményben helyezték el – a törvényes képviselet ellátásának módjáról, egyes gyámi feladatok ellátására a nevelőszülő és a gyermekotthon kirendelésének lehetőségéről, az ítélőképessége birtokában lévő gyermek ezzel kapcsolatos véleménynyilvánítási lehetőségéről és panaszjoga gyakorlásáról.
+
+j) a nevelőszülőtől, gyermekotthonból történő engedély nélküli eltávozás során a gyermeket befogadó személy 17. § (3b) bekezdése szerinti jelzési kötelezettségéről, továbbá elmulasztásának 17. § (3c) bekezdése szerinti jogkövetkezményéről.
 
 (3) Az ellátásra jogosult gyermek törvényes képviselője, illetve a fiatal felnőtt köteles
 

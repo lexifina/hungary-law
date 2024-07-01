@@ -9,3 +9,5 @@
 (5) A költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde fenntartója által meghatározható intézményi térítési díj éves összege nem haladhatja meg a szociális vetítési alap összege 300%-ának a tizenkétszeresét.
 
 (6) Az (5) bekezdésben foglaltakat a költségvetési támogatásban részesülő munkahelyi bölcsőde és családi bölcsőde – nonprofit gazdasági társaság kivételével – gazdasági társasági formában működő vagy egyéni vállalkozó fenntartójára nem kell alkalmazni.
+
+(7) Ha a fenntartó úgy dönt, hogy az általa fenntartott intézményben a 146. § (1) bekezdés c) pontja szerinti ellátást térítésmentesen biztosítja, intézményi térítési díjat sem kell megállapítani.

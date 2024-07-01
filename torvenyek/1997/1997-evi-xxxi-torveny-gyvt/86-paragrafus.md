@@ -28,7 +28,7 @@ j) együttműködik a gyermek megelőző pártfogó felügyelőjével és a gyer
 
 (1a) A gyermekvédelmi gyám jogosult az általa kezdeményezett időpontban a gyermekkel személyesen, a gyermekvédelmi szolgáltató vezetőjének, illetve munkatársának – ideértve a nevelőszülőt is – jelenléte nélkül találkozni. A gyermekvédelmi gyám az időpont megválasztásakor figyelemmel van a gyermek kötelező elfoglaltságára. A gyermek gondozási helyének biztosítania kell a gyermek és a gyermekvédelmi gyám zavartalan kapcsolattartásának körülményeit.
 
-(2) Ha a gyermekvédelmi gyám mellett a gyámhatóság egyes gyámi feladatok ellátására gyámként kirendeli a nevelőszülőt, a gyermekvédelmi gyám és a nevelőszülő köteles egymással együttműködni.
+(2) Ha a gyermekvédelmi gyám mellett a gyámhatóság egyes gyámi feladatok ellátására gyámként kirendeli a nevelőszülőt vagy a gyermekotthont,, a gyermekvédelmi gyám és a nevelőszülő, a gyermekotthon köteles egymással együttműködni.
 
 (3) A gyámot a gyermek elhelyezésének joga nem illeti meg, és a gyermek 80/B. § (5) bekezdés b) és c) pontja szerinti tartózkodási helyét csak a gyámhatóság engedélyével változtathatja meg, kivéve a 80/B. § (3) bekezdésében foglalt esetet.
 
