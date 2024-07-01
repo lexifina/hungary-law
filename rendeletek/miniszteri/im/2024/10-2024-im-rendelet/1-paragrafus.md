@@ -1,3 +1,1 @@
-1. §[^1]
-
-[^1]: Az 1. § a 2. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+1. § Az egyes tartós fogyasztási cikkekre vonatkozó kötelező jótállásról szóló kormányrendelet szerinti jótállási kötelezettség az 1. melléklet szerinti, új tartós fogyasztási cikkekre terjed ki, ha azok eladási ára eléri a 10 000 forintot.
