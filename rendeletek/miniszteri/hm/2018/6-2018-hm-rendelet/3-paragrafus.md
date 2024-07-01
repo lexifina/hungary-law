@@ -1,7 +1,0 @@
-3. § (1) A kiegészítő támogatásban részesülő köteles a központi pénzügyi szervezethez bejelenteni a kiegészítő támogatás folyósítását érintő változásokat, az azok bekövetkeztétől számított 15 napon belül.
-
-(2) A 2. § (3) bekezdésében foglaltak alapján a nyugdíjfolyósító szerv a megállapított rokkantsági ellátás, özvegyi vagy szülői nyugellátás, valamint árvaellátás folyósításának megszüntetése esetén – a támogatást megállapító szerv értesítése mellett – egyidejűleg intézkedik a kiegészítő támogatás folyósításának megszüntetéséről is.
-
-(3) A kiegészítő hozzátartozói támogatás, valamint az árvák kiegészítő támogatásának jogalap nélküli felvétele esetén a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (a továbbiakban: Tny. tv.) visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett kiegészítő hozzátartozói támogatásból, valamint az árvák kiegészítő támogatásából eredő követelést a nyugdíjbiztosítási igazgatási szerv a Tny. tv. szabályai alapján érvényesíti.
-
-(4) A kiegészítő rokkantsági támogatás jogalap nélküli felvétele esetén a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény (a továbbiakban: Mmtv.) visszafizetési és megtérítési kötelezettségre vonatkozó szabályai alapján kell eljárni. A jogalap nélkül felvett rokkantsági támogatásból eredő követelést a támogatást megállapító szerv az Mmtv. szabályai alapján érvényesíti.
