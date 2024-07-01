@@ -1,5 +1,3 @@
-## 2.[^2]
+## 2. A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet módosítása
 
-2. §
-
-[^2]: A 2. alcím a 9. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+2. § A szakterületek ágazati követelményeiért felelős szervek kijelöléséről, valamint a meghatározott szakkérdésekben kizárólagosan eljáró és egyes szakterületeken szakvéleményt adó szervekről szóló 282/2007. (X. 26.) Korm. rendelet 4. számú mellékletében foglalt táblázat 10. sorában az „Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet” szövegrész helyébe a „Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet” szöveg lép.

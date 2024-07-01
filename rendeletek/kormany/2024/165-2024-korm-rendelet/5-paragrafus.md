@@ -1,5 +1,9 @@
-## 5.[^5]
+## 5. Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet módosítása
 
-5. §
+5. § Az Egészséges Budapest Program megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 98/2017. (IV. 27.) Korm. rendelet [a továbbiakban: 98/2017. (IV. 27.) Korm. rendelet] 2. mellékletében foglalt táblázat
 
-[^5]: Az 5. alcím a 9. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+a) A:5 mezőjében az „Országos Reumatológiai és Fizioterápiás Intézet (ORFI)” szövegrész helyébe az „Országos Mozgásszervi Intézet” szöveg,
+
+b) A:14 mezőjében az „Országos Klinikai Idegtudományi Intézet (OKITI)” szövegrész helyébe a „Semmelweis Egyetem Klinikai Központ” szöveg
+
+lép.

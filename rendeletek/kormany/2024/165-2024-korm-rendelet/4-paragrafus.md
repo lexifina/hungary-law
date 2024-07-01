@@ -1,5 +1,3 @@
-## 4.[^4]
+## 4. Egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosítása
 
-4. §
-
-[^4]: A 4. alcím a 9. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+4. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 2. mellékletében foglalt táblázat A:150 mezőjében az „Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet” szövegrész helyébe a „Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet” szöveg lép.
