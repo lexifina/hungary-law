@@ -20,7 +20,7 @@ b) a Kttv., a köztisztviselők jogállásáról szóló 1992. évi XXIII. törv
 
 c) a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 
-d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati jogviszonyban töltött időt,
+d) a hivatásos szolgálati jogviszonyban, tiszti és altiszti katonai szolgálati viszonyban töltött időt,
 
 e) a bíróságnál és ügyészségnél szolgálati viszonyban, munkaviszonyban töltött időt,
 
