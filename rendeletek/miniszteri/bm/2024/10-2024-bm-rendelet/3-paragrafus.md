@@ -14,15 +14,12 @@ a) az egyszeri utazásra jogosító úti okmány kiadásának díját,
 
 b) a tartózkodási engedély kiadására, a tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiadására, illetve pótlására irányuló és a fellebbezési eljárás díját,
 
-c)[^1]
+c) a vendégbefektetői vízum kiadására, illetve pótlására irányuló eljárás díját,
 
-d)[^2]
+d) a vendégbefektetői vízum iránti kérelem elutasítása, megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezés díját,
 
 e) a száznyolcvan napon belül kilencven napot meg nem haladó tervezett (a továbbiakban: rövid időtartamú tervezett) tartózkodásra jogosító vízum iránti kérelem elutasítása, megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezés díját,
 
 f) a kishatárforgalmi engedély iránti kérelem és a kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezés díját,
 
 g) a nemzeti tartózkodási kártya kiadására, valamint – a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendeletben meghatározott esetben – a nemzeti tartózkodási kártya meghosszabbítására irányuló eljárás díját.
-
-[^1]: A 3. § (3) bekezdés c) pontja a 9. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
-[^2]: A 3. § (3) bekezdés d) pontja a 9. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.

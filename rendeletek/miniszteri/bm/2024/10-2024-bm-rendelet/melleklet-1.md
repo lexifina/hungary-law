@@ -16,7 +16,15 @@ Az egyes eljárások díja
 
 | 5 | Kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 3 000 Ft |
 
-2.[^4]
+2. Vendégbefektetői vízummal összefüggő igazgatási szolgáltatási díjak
+
+|  | A | B |
+
+| 1 | Vendégbefektetői vízum kiadására irányuló eljárás díja | 110 EUR |
+
+| 2 | Vendégbefektetői vízum kiadása iránti kérelem elutasítása, illetve vendégbefektetői vízum visszavonása tárgyában hozott döntés elleni fellebbezés díja | 160 EUR |
+
+| 3 | Vendégbefektetői vízum kiállítására irányuló eljárás díja a vízum pótlása iránti külképviseleti kérelem esetén | 90 EUR |
 
 3. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 
@@ -107,5 +115,3 @@ Az egyes eljárások díja
 | 1 | Fellebbezési kérelem díja | 47 000 Ft |
 
 | 2 | Hatósági bizonyítvány kiállításának díja | 3 000 Ft |
-
-[^4]: Az 1. melléklet 2. pontja a 9. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
