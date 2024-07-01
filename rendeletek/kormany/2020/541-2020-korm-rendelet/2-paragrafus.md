@@ -2,8 +2,10 @@
 
 ## 2. A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerek
 
-## 2. § A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszer
+2. §[^1] A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszer
 
-a) videotechnológiát biztosító elektronikus hírközlő eszköz útján történő azonosítást (a továbbiakban: videotechnológiás azonosítás), valamint
+a) az elektronikus hírközlő eszköz útján történő távoli azonosítás (a továbbiakban: távoli azonosítás), valamint
 
-b) a Kormány által biztosított, a 4. § (1) bekezdése szerinti azonosítási szolgáltatás használatával történő azonosítást (a továbbiakban: KASZ azonosítás).
+b) a tárolóelemmel rendelkező személyazonosító igazolvány használatával történő azonosítás (a továbbiakban: eID azonosítás).
+
+[^1]: A 2. § a 113/2024. (V. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
