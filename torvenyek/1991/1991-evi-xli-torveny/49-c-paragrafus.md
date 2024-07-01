@@ -2,7 +2,7 @@
 
 (2) A Magyar Országos Közjegyzői Kamara nyilvántartása a következő adatokat tartalmazza:
 
-a) a közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző családi és utóneve, születési neve,
+a) a közjegyző, a közjegyzőhelyettes, a közjegyzőjelölt és a közjegyzői irodai ügyintéző természetes személyazonosító adatai,
 
 b) a közjegyző székhelye, illetékességi területe,
 
