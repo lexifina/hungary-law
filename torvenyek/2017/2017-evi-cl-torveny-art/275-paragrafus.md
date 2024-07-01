@@ -31,3 +31,5 @@ b) az (EU) 2017/2455 és az (EU) 2019/1995 irányelvnek a Covid19-világjárván
 (8) E törvénynek a globális minimum-adószintet biztosító kiegészítő adókról és ezzel összefüggésben egyes adótörvények módosításáról szóló LXXXIV. törvény által megállapított 227/B. és 274/R. §-a, valamint 2. melléklet A) Általános rendelkezések pont 3. alpontja az Unióban a multinacionális vállalatcsoportokra és a nagy volumenű belföldi vállalatcsoportokra vonatkozó globális minimum-adószint biztosításáról szóló 2022. december 14-i (EU) 2022/2523 tanácsi irányelvnek való megfelelést szolgálja.
 
 (9) E törvénynek a Módtv.12.-vel megállapított 50. § (2) bekezdés 37. és 38. pontja az adózás területén történő közigazgatási együttműködésről szóló 2011/16/EU irányelv módosításáról szóló, 2021. március 22-i (EU) 2021/514 tanácsi irányelvnek való megfelelést szolgálja.
+
+(10) A Szolg. törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező adózó Magyarország területén, e törvény 106/A. § és 106/B. § szerinti forgalmazói tevékenység határon átnyúló szolgáltatás keretében történő folytatására irányuló szándékát köteles az engedélyező hatóságnak bejelenteni.

@@ -4,7 +4,7 @@
 
 ### 256. § [Az állami adó- és vámhatóság által nyújtott szolgáltatások]
 
-Az állami adó- és vámhatóság
+(1) Az állami adó- és vámhatóság
 
 1. támogatja a kezdő vállalkozásokat adókötelezettségeik teljesítésében,
 
@@ -16,9 +16,9 @@ Az állami adó- és vámhatóság
 
 5. erre kijelölt ügyfélszolgálatain az egyéb szolgáltatásokon kívül a jogszabályban meghatározott adófizetési kötelezettség bankkártyával történő teljesítését biztosítja,
 
-6. az adókötelezettségek, valamint adótörvényben vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéséhez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresít,
+6. az adókötelezettségek, valamint adótörvényben vagy adótörvény felhatalmazása alapján kiadott rendeletben meghatározott más kötelezettség teljesítéshez, illetve kérelem benyújtásához nyomtatványt, elektronikus űrlapot rendszeresít,
 
-7. a honlapján személyes adónaptárat, kalkulátorokat, késedelmi pótlék prognózist, ügyfélszolgálat-kereső felületet működtet,
+7. a honlapján személyes adónaptárat, kalkulátorokat, késedelmi pótlék prognózist, ügyfélszolgálat kereső felületet működtet,
 
 8. lekérdezési lehetőséget biztosít az adózók számára az e törvényben, illetve jogszabályban meghatározott, általa nyilvántartott adatokhoz,
 
@@ -41,3 +41,5 @@ Az állami adó- és vámhatóság
 17. évente, a tárgyévet megelőző hónap tizenötödik napjáig a Magyar Közlönyben közzéteszi a tárgyévi adóteljesítményre, valamint a kiemelt adózói minősítésre vonatkozó értékhatárokat,
 
 18. az állami adó- és vámhatóság az adózót érintő, nyilvántartásában szereplő általános forgalmi adóalapra és adóra vonatkozó adatok rendelkezésre bocsátásával – ide nem értve az alanyi adómentességben részesülő, mezőgazdasági tevékenységet folytatóként eljáró vagy kizárólag adómentes tevékenységet végző általános forgalmi adóalanyra vonatkozó adatokat – és az Áfa tv. szerinti bevallás-tervezet összeállításával közreműködik az általános fogalmi adó bevallási kötelezettség teljesítésében.
+
+(2) A nyugtatárat az állami adó- és vámhatóság üzemelteti.

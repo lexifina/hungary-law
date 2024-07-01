@@ -6,7 +6,7 @@ a) az általános forgalmiadó-alanynak minősülő adózók, valamint általán
 
 aa) nevét (elnevezését), adószámát, székhelyét, telephelyét,
 
-ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoport azonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
+ab) közül a csoportos általános forgalmi adóalanyiságot választók esetén a csoportazonosító számot, valamint a csoportképviselő és az egyéb csoporttagok nevét (elnevezését), adószámát, székhelyét, telephelyét, a csoporttagságuk időszakának kezdő és befejező időpontját, illetve a csoportos általános forgalmi adóalanyiságot engedélyező határozat véglegessé válásának napját,
 
 ac) közül a pénzforgalmi elszámolást választók esetén e választás tényét, a pénzforgalmi elszámolás időszakának kezdő és befejező időpontját,
 

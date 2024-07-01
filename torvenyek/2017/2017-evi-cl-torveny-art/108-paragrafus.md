@@ -1,10 +1,12 @@
-### 108. § [Online pénztárgép és automataberendezés adatszolgáltatásához kapcsolódó hatósági ár]
+### 108. § [Pénztárgép, e-pénztárgép és automataberendezés adatszolgáltatásához kapcsolódó hatósági ár]
 
 (1) A hatósági ár
 
-a) az Áfa tv. szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
+a) az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben rögzített ár,
 
-b) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
+b) az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított adatszolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár,
+
+c) az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás esetén az e törvény végrehajtására kiadott miniszteri rendeletben meghatározott legmagasabb ár.
 
 (2) A hatósági ár megállapítása történhet tételesen vagy a hatósági ár kiszámítására vonatkozó előírásokkal.
 
@@ -34,9 +36,11 @@ c) bírságot szab ki a hatósági árakra vonatkozó rendelkezéseket megsért�
 
 (12) E § alkalmazásában hatósági ár
 
-a) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség gépi kiállítással történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított,
+a) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség pénztárgéppel történő megvalósulása esetén kötelező, közvetlen adatlekérdezéssel megvalósított,
 
-b) az üzemeltető részére nyújtott, az automataberendezések útján megvalósított
+b) az üzemeltető részére nyújtott, az Áfa tv. szerinti, a nyugtaadási kötelezettség hardveralapú e-pénztárgéppel történő megvalósítása esetén kötelező, közvetlen adatlekérdezéssel megvalósított, vagy
+
+c) az üzemeltető részére nyújtott, az automataberendezések útján megvalósított
 
 adatszolgáltatást biztosító valamennyi szolgáltatás ára.
 
@@ -44,6 +48,10 @@ adatszolgáltatást biztosító valamennyi szolgáltatás ára.
 
 a) a jogszabály szerint pénztárgép használatra kötelezett,
 
-b) a jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó, vagy
+b) a jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó,
 
-c) az automataberendezést jogszabály szerint üzemeltető.
+c) a jogszabály szerint e-pénztárgép használatra kötelezett,
+
+d) a jogszabály szerint e-pénztárgép használatra nem kötelezett, de e-pénztárgépet saját döntése alapján használó, vagy
+
+e) az automataberendezést jogszabály szerint üzemeltető.

@@ -17,3 +17,5 @@ a) az egyedi ügyintézés és tájékoztatás során rögzített telefonbeszél
 b) az egyedi ügyintézés és tájékoztatás, valamint az általános tájékoztatás során rögzített telefonbeszélgetésről kérelemre másolatot ad ki.
 
 (6) Az adóhatóság az általa kezelt adatok nyilvántartásával kapcsolatos adatfeldolgozási feladatok ellátásával csak államigazgatási szervet, az állam közvetlen vagy közvetett többségi tulajdonában álló jogi személyt vagy kizárólagos állami tulajdonú egyéb szervezetet bízhat meg, kivéve, ha e korlátozás alól az állami adó- és vámhatóságot irányító miniszter előterjesztésére a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter a nemzeti adatvagyonról szóló törvényben meghatározott határozott idejű egyedi felmentést ad.
+
+(7) A nyugtatár-szolgáltató a nyugtatárba beérkezett adatokat tíz évig őrzi.
