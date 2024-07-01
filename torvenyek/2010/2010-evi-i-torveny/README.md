@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2024-01-01 | 2023. évi XC. törvény | 2010-1-00-00.34 |
 | 2024-05-24 | 2024. évi XIV. törvény | 2010-1-00-00.38 |
 | 2024-06-01 | 2023. évi XXI. törvény | 2010-1-00-00.33 |
+| 2024-07-01 | 2024. évi XXV. törvény | 2010-1-00-00.40 |
