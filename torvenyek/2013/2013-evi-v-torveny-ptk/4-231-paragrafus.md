@@ -12,4 +12,6 @@ d) az a gyermekvédelmi gyámság alatt álló gyermek érdeke.
 
 (2) A (1) bekezdés c) pontjában meghatározott esetben a gyámhatóságnak meg kell határoznia a gyámok feladatkörének pontos megosztását.
 
+(2a) Az (1) bekezdés d) pontjában meghatározott esetben a gyermek részére a gyermekvédelmi nevelőszülő vagy a gyermekotthon törvényben meghatározott egyes gyámi feladatok ellátására gyámként kirendelhető. A gyermekotthon nevében az egyes gyámi feladatokat a gyermekotthon vezetője vagy az általa kijelölt, szakmai munkakörben foglalkoztatott személy láthatja el, aki személyében megfelel a gyámmal szemben támasztott követelményeknek.
+
 (3) Ha a gyám jogkörét túllépve jár el, jognyilatkozata harmadik személlyel szemben hatályos, de köteles a gyámsága alatt állónak a jognyilatkozattal okozott teljes kárát megtéríteni.

@@ -14,6 +14,12 @@ a) akinek a szülői felügyeleti jogát a bíróság megszüntette;
 
 b) aki hozzájárult gyermekének a másik szülő házastársa által történő örökbefogadásához; vagy
 
-c) akinek szülői felügyeleti joga a gyermek ismeretlen személy által történő örökbefogadásához adott hozzájárulásával vagy azért szűnt meg, mert a szülő a gyermeket - annak érdekében, hogy más nevelje fel, személyazonosságának feltárása nélkül - egészségügyi intézményben, arra kijelölt helyen hagyja, a gyermekért hat héten belül nem jelentkezik, és a gyermek örökbefogadására nem került sor.
+c) akinek szülői felügyeleti joga a gyermek ismeretlen személy által történő örökbefogadásához adott hozzájárulásával vagy azért szűnt meg, mert a szülő a gyermeket
+
+ca) – annak érdekében, hogy más nevelje fel, személyazonosságának feltárása nélkül – egészségügyi intézményben, arra kijelölt helyen hagyja, a gyermekért hat héten belül nem jelentkezik, vagy
+
+cb) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik,
+
+és a gyermek örökbefogadására nem került sor.
 
 (5) A (4) bekezdés szerinti esetben a szülőnek a gyermekkel való kapcsolattartásra való feljogosításáról a szülői felügyeletet megszüntető bíróság vagy - ha a gyermeket nevelésbe vették - a gyámhatóság dönt.

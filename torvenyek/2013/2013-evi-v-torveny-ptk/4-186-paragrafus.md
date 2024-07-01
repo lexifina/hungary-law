@@ -29,3 +29,9 @@ i) a szülő a gyermek vagy a gyermekkel közös háztartásban élő hozzátart
 (2) Az életközösség fennállása alatt szünetel a szülői felügyeleti joga annak a szülőnek, aki együtt él a szülői felügyelettől megfosztott másik szülővel.
 
 (3) A szülői felügyelet megszüntetése vagy a szülői felügyelet rendezése iránti per jogerős befejezéséig szünetel a szülői felügyeleti joga annak a szülőnek, akinek a gyermekét a gyámhatóság ideiglenes hatállyal a különélő másik szülőnél, más személynél vagy intézményben helyezte el.
+
+(4) A gyermek ideiglenes hatályú elhelyezése alatt szünetel
+
+a) a szülő gondozási, nevelési joga, és
+
+b) törvényben meghatározott ügyekben a törvényes képviselet ellátásának joga, ha a gyámhatóság megállapította, hogy a szülőtől az ideiglenes hatályú elhelyezés oka alapján nem várható együttműködés e törvényes képviselői feladatok ellátásában.

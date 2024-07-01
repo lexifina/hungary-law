@@ -31,5 +31,3 @@
 (4) E törvény alkalmazásában testvérnek minősül a féltestvér is.
 
 (5) E törvény alkalmazásában tőzsdének minősül a székhely szerinti állam felügyeleti hatóságának engedélyével rendelkező olyan piac is, amelyen értékpapírokkal kereskednek.
-
-(6) A Ptk. épületekre vonatkozó rendelkezéseit más építményekre is megfelelően alkalmazni kell.

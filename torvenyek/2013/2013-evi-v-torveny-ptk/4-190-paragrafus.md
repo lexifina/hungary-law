@@ -10,7 +10,11 @@ b) a gyermek örökbefogadásával, kivéve, ha a gyermeket a szülő házastár
 
 c) a szülőnek a gyermek örökbefogadásához adott hozzájárulásával, vagy ha a gyermek örökbefogadásához a szülő a gyermek hathetes korát megelőzően járult hozzá, a gyermek hathetes korának elérésekor, kivéve, ha a szülő a hozzájáruló nyilatkozatot visszavonta; vagy
 
-d) ha a szülő a gyermeket annak érdekében, hogy más nevelje fel - személyazonosságának feltárása nélkül - egészségügyi intézmény arra kijelölt helyén hagyja, és a gyermekért hat héten belül nem jelentkezik.
+d) ha a szülő a gyermeket
+
+da) annak érdekében, hogy más nevelje fel – személyazonosságának feltárása nélkül – egészségügyi intézmény arra kijelölt helyén hagyja, és a gyermekért hat héten belül nem jelentkezik, vagy
+
+db) közvetlenül a gyermek születését követően az egészségügyi intézményben hagyja, és a gyermekért hat héten belül ő vagy a gyermek más hozzátartozója nem jelentkezik.
 
 (2) Ha a szülői felügyeletet a szülők közösen gyakorolják, az egyik szülő halála esetén a szülői felügyelet a túlélő szülőt illeti meg.
 
