@@ -4,6 +4,6 @@
 
 6. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2021. július 1-jén lép hatályba.
 
-(2)[^4]
+(2)[^5]
 
-[^4]: A 6. § (2) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 52. § b) pontja hatályon kívül helyezte.
+[^5]: A 6. § (2) bekezdését a 276/2023. (VI. 29.) Korm. rendelet 52. § b) pontja hatályon kívül helyezte.
