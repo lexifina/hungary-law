@@ -22,7 +22,7 @@
 
 10. digitális állampolgárság nyilvántartás: az e törvénnyel létrehozott ügyfél-regisztrációs nyilvántartás;
 
-11. digitális személyiadat-tárca: olyan digitális szolgáltatás, amely lehetővé teszi a felhasználó számára, hogy azonosító adatokat, köztük személyazonosító adatokat, a személyazonosságához kapcsolódó elektronikus tanúsítványokat tároljon, és azokat kérésre rendelkezésére bocsássa, valamint biztosítja az elektronikus azonosítást, az elektronikus aláírás, illetve elektronikus bélyegző elhelyezését;
+11. nemzeti digitális irattárca: olyan digitális szolgáltatás, amely lehetővé teszi a felhasználó számára, hogy azonosító adatokat, köztük személyazonosító adatokat, a személyazonosságához kapcsolódó elektronikus tanúsítványokat tároljon, és azokat kérésre rendelkezésére bocsássa, valamint biztosítja az elektronikus azonosítást, az elektronikus aláírás, illetve elektronikus bélyegző elhelyezését;
 
 12. digitális szolgáltatás: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügy, valamint a digitális szolgáltatást biztosító szervezet által jogszabály alapján biztosítandó szolgáltatáshoz kapcsolódó ügyintézést e törvény szerint biztosító szolgáltatás, valamint ezek együttműködő rendszere;
 
@@ -42,7 +42,7 @@
 
 20. érvényességi lánc: az elektronikus dokumentum vagy annak lenyomata és azon egymáshoz rendelhető információk (így különösen azon tanúsítványok, a tanúsítványokkal kapcsolatos információk, az aláírás vagy bélyegző létrehozásához használt adatok, a tanúsítvány aktuális állapotára, visszavonására vonatkozó információk, valamint a tanúsítványt kibocsátó szolgáltató érvényességi adatára és annak visszavonására vonatkozó információk) sorozata, amelyek segítségével megállapítható, hogy az elektronikus dokumentumon elhelyezett fokozott biztonságú vagy minősített elektronikus aláírás, bélyegző vagy időbélyegző, az aláírás, bélyegző vagy időbélyegző elhelyezésének időpontjában érvényes volt;
 
-21. felhasználó: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő olyan természetes személy vagy egyéb jogalany, ide nem értve a digitális szolgáltatást biztosító szervezetet és az ügyben eljáró digitális szolgáltatást biztosító szervezet tagját vagy alkalmazottját;
+21. felhasználó: a digitális szolgáltatást biztosító szervezet feladat- és hatáskörébe tartozó ügyben ügyfélként, félként vagy az eljárás alanyaként, az eljárás egyéb résztvevőjeként, a szolgáltatás igénybe vevőjeként vagy ezek képviselőjeként részt vevő természetes személy vagy egyéb jogalany, ide nem értve a digitális szolgáltatást biztosító szervezetet és az ügyben eljáró digitális szolgáltatást biztosító szervezet tagját vagy alkalmazottját;
 
 22. felhasználói profil: a digitális térben való aktivitáshoz szükséges, a digitális állampolgár azonosító alapján biztosított, a digitális állampolgár állami nyilvántartásban tárolt adatait és a digitális állampolgár által megtett nyilatkozatokat tartalmazó digitális fiók;
 

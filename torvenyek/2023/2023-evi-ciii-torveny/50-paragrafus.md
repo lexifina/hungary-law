@@ -1,3 +1,3 @@
 ## 29. Papír alapú irat átalakítása hiteles elektronikus irattá
 
-50. § Az iratról a papír alapú irat átalakítása hiteles elektronikus irattá szolgáltatás szabályai szerint a Kormány által kijelölt szerv által készített okirat bizonyító ereje megegyezik az eredeti okiratéval.
+### 50. §

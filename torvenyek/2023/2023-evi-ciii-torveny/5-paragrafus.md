@@ -1,5 +1,7 @@
 5. § (1) A digitális állampolgárság az állami nyilvántartásokban kezelt adatokra épül. A digitális állampolgárság keretei között valamennyi állami nyilvántartás és szakrendszer – az aggregált szolgáltatások biztosíthatósága érdekében – összehangoltan és e törvényben foglaltaknak megfelelően együttműködik, és a digitális szolgáltatások biztosításához szükséges mértékben automatikusan adatot szolgáltat.
 
+(1a) A digitális állampolgárság szolgáltató, valamint az életesemény-alapú szolgáltatás szolgáltatója az e törvény, valamint az e törvény felhatalmazása alapján kiadott rendeletekben foglalt közfeladatai ellátása körében az (1) bekezdés szerinti nyilvántartásokból és szakrendszerekből szolgáltatott adatokért fizetendő igazgatási szolgáltatási és más díj megfizetése alól mentesül.
+
 (2) A felhasználó nem kötelezhető a digitális térben rendelkezésre álló adat ismételt megadására.
 
 (3) A digitális térben keletkező vagy ott megjelenő, egyedi azonosításra alkalmatlan adatokat az állam – meglévő digitális szolgáltatások javítása, valamint új digitális szolgáltatások bevezetése, továbbá a közigazgatás döntéshozatalának megalapozása érdekében – felhasználhatja.

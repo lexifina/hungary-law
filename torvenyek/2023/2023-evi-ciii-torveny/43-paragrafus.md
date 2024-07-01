@@ -34,7 +34,7 @@ b) a nyomozó hatóságnak bűncselekmények megelőzése, felderítése, bünte
 
 c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
-d) a nemzetbiztonsági szolgálatok feladataik teljesítése céljából,
+d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 
 e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése illetve megszakítása, továbbá elhárítási, információszerzési személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 

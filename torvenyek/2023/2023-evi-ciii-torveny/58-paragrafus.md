@@ -12,7 +12,7 @@
 
 a) dönt a szükséges fejlesztések koncepcionális irányairól és tartalmáról,
 
-b) a (2) szerinti kormányrendeletben kijelölt szakmai közreműködő javaslatának figyelembevételével megtervezi az életesemény-alapú szolgáltatást,
+b) a (2) bekezdés szerinti kormányrendeletben kijelölt szakmai közreműködő javaslatának figyelembevételével megtervezi az életesemény-alapú szolgáltatást,
 
 c) kialakítja az eredményes szolgáltatáshoz szükséges adatkapcsolatokat és a leghatékonyabb műszaki megoldásokat a szolgáltató oldaláról,
 

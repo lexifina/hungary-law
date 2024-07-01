@@ -12,4 +12,4 @@
 
 (6) A digitális állampolgár azonosító nem zárja ki egyéb egyedi azonosító alkalmazását, azonban ennek használatára a felhasználó a digitális térben nem kötelezhető.
 
-(7) A digitális állampolgár e törvény szerinti elektronikus azonosítása esetén az azonosítást kérő fél a digitális állampolgár sikeres azonosítása során jogosult megismerni és kezelni a digitális állampolgár azonosítót.
+(7) A digitális állampolgár e törvény szerinti eAzonosítás útján történő azonosítása esetén az azonosítást kérő fél a digitális állampolgár sikeres azonosítása során jogosult megismerni és kezelni a digitális állampolgár azonosítót.

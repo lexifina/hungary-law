@@ -30,6 +30,8 @@
 
 15. a 31. § (1) bekezdés szerinti rendszert biztosító szervet.
 
+16. a tárhelyszolgáltatót.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg:
 
 1. a 15. § (2)–(5) bekezdés szerinti adatkezelés szabályait,
@@ -38,10 +40,12 @@
 
 3. a digitális állampolgárság szolgáltató részére a digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet által fizetendő szolgáltatási díj mértékét és térítésének módját,
 
-4. a digitális állampolgárság szolgáltatás és támogató szolgáltatás digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet általi igénybevételének a 81. § (2) bekezdése szerinti további csatlakozási feltételeit,
+4. a digitális állampolgárság szolgáltatás és támogató szolgáltatás digitális szolgáltatás biztosítására kötelezett szervezet és az önkéntesen csatlakozott szervezet általi igénybevételének 9. § (4a) bekezdése és további csatlakozási feltételeit,
 
 5. az életesemény-kataszterbe tartozó digitális szolgáltatásokat, azok tartalmát, az azokhoz kapcsolódó adatkezelési kérdéseket, valamint az életesemény-szolgáltató és a szakmai közreműködő közötti együttműködés részletes szabályait,
 
 6. a hozzájárulás alapú adatszolgáltatásra vonatkozó szabályokat,
 
 7. az ePapír szolgáltatás nyújtásának tartalmi követelményeit és eljárási rendjét, valamint a szolgáltatás igénybevételének részletes követelményeit.
+
+8. a központi tárhely használatára kötelezett és a tárhelyszolgáltató együttműködésének a szabályait, illetve a központi tárhely igénybevételének a szabályait.

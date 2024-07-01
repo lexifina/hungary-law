@@ -12,25 +12,25 @@ a) a digitális szolgáltatás keretalkalmazás útján történő igénybevéte
 
 b) a digitális keretszolgáltatások használatának lehetőségét,
 
-c) az ügyfél ügyintézési rendelkezésének lekérdezését,
+c)
 
-d) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
+d)
 
-e) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások ügyfél általi használatát,
+e)
 
-f) a Kormány rendeletében meghatározott ajánlott elektronikus kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
+f)
 
-g) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
+g)
 
-h) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
+h)
 
-i) e törvény szerint hitelesített dokumentumok előállítását,
+i)
 
-j) az ügyfél részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
+j)
 
-k) a 9. § (2) bekezdés a)–i) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
+k)
 
-l) az elektronikus űrlapkitöltés-támogatási szolgáltatással létrehozott elektronikus űrlapok kezelését.
+l)
 
 (3) A 9. § (2) bekezdés a), b), d)–f) pontja, valamint a 80. § (1) bekezdés a)–h) pontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
 
@@ -43,3 +43,5 @@ a) az azonos hatáskörű szervek közül kijelölheti azt a digitális szolgál
 b) rendelkezhet úgy, hogy elektronikus ügyintézés esetén az azonos hatáskörű szervek mindegyike országos illetékességgel jár el és az ügyek elosztása objektív szempontok szerint, automatikusan történik meg.
 
 (6) Az állam a (2) bekezdés szerinti digitális szolgáltatást biztosító információs rendszer működtetéséhez szükséges, a Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatásokat, valamint központi elektronikus ügyintézési szolgáltatásokat a 9. § (2) bekezdés szerinti szerveknek díjmentesen biztosítja.
+
+(7) A Kormány rendeletében meghatározott digitális szolgáltatást biztosító szervezetek kötelesek az ügyek intézésével kapcsolatos, a Kormány rendeletében meghatározott információs rendszerekről, nyilvántartásokól és adatokról – ha jogszabály szigorúbb követelményt nem állapít meg – a Kormány rendeletében meghatározottak szerinti gyakorisággal és rendben mentéseket létrehozni, valamint a biztonsági mentéseket a Kormány által kijelölt, az adatok őrzéséért felelős szervnek megküldeni. A biztonsági mentés adataiba az adatok őrzéséért felelős szerv nem tekinthet bele.

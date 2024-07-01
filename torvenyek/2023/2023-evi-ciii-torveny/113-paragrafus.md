@@ -40,7 +40,7 @@
 
 17. az Egységes Digitális Kapuhoz való csatlakozással és annak működtetésével kapcsolatos részletszabályokat,
 
-18. az informatikai együttműködés során tekintetében igénybe veendő információforrásokat, az automatikus információátadásra köteles együttműködő szerveket és az ilyen módon továbbítandó információk körét, valamint az automatikus információátadási felületre vonatkozó követelményeket,
+18. az informatikai együttműködés tekintetében igénybe veendő információforrásokat, az automatikus információátadásra köteles együttműködő szerveket és az ilyen módon továbbítandó információk körét, valamint az automatikus továbbítást biztosító információátadási szolgáltatásra vonatkozó követelményeket,
 
 19. az üzemszünet és üzemzavar esetén követendő eljárásra vonatkozó részletes szabályokat,
 
@@ -54,13 +54,15 @@
 
 24. azokat az eseteket, amelyek során nem alkalmazható a felhasználóval szemben kötelező elektronikus ügyintézés esetén hátrányos jogkövetkezmény.
 
+25. a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg:
 
 1. a 7. § (3) bekezdés szerinti időpontot,
 
-2. a felhasználói profil aktiválásának és inaktiválásának, az ügyintézési rendelkezés tételének és nyilvántartásba vételének részletes szabályait,
+2. a felhasználói profil aktiválásának és inaktiválásának, az ügyintézési rendelkezés megtételének és nyilvántartásba vételének, valamint a digitális állampolgárság előregisztráció részletes szabályait,
 
-3. a digitális állampolgárság keretében biztosított felhasználói profil aktiválására és inaktiválására vonatkozó szabályokat, valamint – a felhasználói profil segítségével – szerepkörök kialakítására, kiválasztására és a kapcsolódó funkciók biztosítására vonatkozó szabályokat, továbbá a felhasználói profil megszűnése esetén irányadó szabályokat,
+3. a felhasználói profil segítségével a szerepkörök kialakítására, kiválasztására és a kapcsolódó funkciók biztosítására vonatkozó szabályokat, továbbá a felhasználói profil megszűnése esetén irányadó szabályokat,
 
 4. a felhasználói profil inaktivált állapotához fűződő joghatásokat, valamint az ismételt aktiválás feltételeit,
 
@@ -70,6 +72,6 @@
 
 7. az ajánlott elektronikus kézbesítési szolgáltatási címnek megfelelő elektronikus tárhely típusait és azok egymással való kommunikációs lehetőségeit,
 
-8. a digitális személyiadat-tárca szolgáltatás egyes funkcióit, valamint a szolgáltatás nyújtásának és igénybevételének feltételeit,
+8. a nemzeti digitális irattárca szolgáltatás egyes funkcióit, valamint a szolgáltatás nyújtásának és igénybevételének feltételeit,
 
 9. a digitális szolgáltatás nyújtására köteles szervek egymás közötti, valamint a természetes személyekkel vagy gazdálkodó szervezetekkel történő elektronikus kapcsolattartására vonatkozó szabályokat.

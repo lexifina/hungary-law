@@ -30,14 +30,22 @@ j) a törvénnyel vagy kormányrendelettel az e törvény szerinti digitális sz
 
 (3) Digitális szolgáltatás biztosítására kötelezett szervezet az Ötödik Részben meghatározott szervezet.
 
-(4) A digitális szolgáltatás nyújtását önként vállaló jogalany az e törvény szerinti feltételekkel, meghatározott digitális szolgáltatások biztosítását
+(4) A digitális szolgáltatás nyújtását önként vállaló jogalany meghatározott digitális szolgáltatások biztosítását a digitális szolgáltatások felügyeletének engedélyével önkéntesen vállalhatja. Az engedély kiadásának feltétele
 
-a) a digitális szolgáltatások felügyeletének engedélyével,
+a) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosítása, valamint kiberbiztonsági audit lefolytatása,
 
-b) a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló törvényben foglalt kiberbiztonsági követelményeknek való megfelelés biztosításával, valamint kiberbiztonsági audit lefolytatását követően, és
+b) a digitális állampolgárság szolgáltató
 
-c) a 81. § (1) bekezdés a–c) és e) pontja, valamint a 81. § (2) és (3) bekezdésének való megfeleléssel –
+ba) által történő regisztráció elektronikus kapcsolattartás útján
 
-önkéntesen vállalhatja.
+bb) által meghatározott szolgáltatási feltételek elfogadása,
+
+bc) által meghatározott műszaki követelmények teljesítése,
+
+bd) részére kormányrendeletben meghatározott mértékű szolgáltatási díj megfizetése.
+
+(4a) Kormányrendelet a (4) bekezdésben foglaltakon túl további csatlakozási feltételeket határozhat meg.
+
+(4b) A digitális szolgáltatás nyújtását önként vállaló jogalany folyamatosan, a szolgáltatásnyújtás teljes időtartama alatt biztosítja a (4) bekezdés szerinti engedély követelményeinek teljesítését.
 
 (5) A (2) bekezdés szerinti szerv az e törvényben foglalt rendelkezéseket a funkcionális működésével összefüggő ügyekben is alkalmazni köteles.
