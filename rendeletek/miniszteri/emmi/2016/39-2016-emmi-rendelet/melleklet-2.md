@@ -10,7 +10,7 @@
 
 | 4 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás megkezdése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – beutaló vagy a beutalást megalapozó ellátás adatai (a felvétel jellege) – beutaló orvos azonosítója – beutaló orvos munkahelye – finanszírozás típusa – naplósorszám – beutaló/iránydiagnózis – az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója – az elektronikus beutaló EESZT azonosítója – szakmakód | 1 óra |
 
-| 5 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás befejezése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés – az elektronikus beutaló EESZT azonosítója | 1 óra |
+| 5 | Az Eütv. 89. és 90. §-a szerinti járóbeteg-szakellátás befejezése (kivéve: fogászati szakellátás, laboratóriumi diagnosztikai vizsgálat) | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés – az elektronikus beutaló EESZT azonosítója – időpontfoglalás egyedi azonosítója | 1 óra |
 
 | 6 | Az egészségügyi alapellátásról szóló 2015. évi CXXIII. törvény szerinti háziorvosi, házi gyermekorvosi ellátás megkezdése | – ellátott személyazonosító-típusa és értéke (TAJ, vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – az ellátás típusa – az ellátás helye – az ellátás oka – térítési kategória – a praxisközösségben elszámolható tevékenységek – a szolgáltatási egység kódja (háziorvosi szolgálat esetén az országos nyilvántartási szám) – a beteg kezelőorvosának azonosítója – az ellátásnak az ellátó informatikai rendszerében értelmezett egyedi azonosítója | 1 óra |
 
@@ -108,7 +108,7 @@
 
 | 53 | Rend- és honvédelmi dolgozók orvosi ellátásának befejezése | – az ellátás megkezdésekor létrehozott eseménykatalógus bejegyzésazonosítója – az ellátással kapcsolatban megállapított diagnózisok és elvégzett beavatkozások – továbbküldés | 1 óra |
 
-| 54 | Járóbeteg-szakellátásban a beteg behívásának időpontja | – ellátott személyazonosító-típusa és értéke (TAJ vagy ennek hiányában az EESZT által nyilvántartott más azonosító) – a szolgáltatási egység kódja (az ellátást végző szervezeti egység finanszírozási szerződés szerinti 9 karakteres kódja) – az elektronikus beutaló EESZT-azonosítója – esemény dátuma | 1 óra |
+| 54 |  |  |  |
 
 ## Jelmagyarázat:
 
