@@ -1,3 +1,3 @@
 ## A Felügyelet bírságolási jogköre
 
-66. §
+### 66. §

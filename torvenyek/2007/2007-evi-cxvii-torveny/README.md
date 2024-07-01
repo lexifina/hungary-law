@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-117-00-00
 | 2021-01-01 | 2020. évi CLII. törvény | 2007-117-00-00.34 |
 | 2021-12-01 | 2021. évi XCIX. törvény | 2007-117-00-00.35 |
 | 2022-04-11 | 2021. évi LVIII. törvény | 2007-117-00-00.36 |
+| 2024-07-01 | 2024. évi XX. törvény | 2007-117-00-00.39 |
