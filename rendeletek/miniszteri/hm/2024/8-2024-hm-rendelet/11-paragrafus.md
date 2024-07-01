@@ -1,0 +1,1 @@
+11. § A honvédelemről és a Magyar Honvédségről szóló törvény szerint egyenruha viselésére kötelezettek és engedéllyel egyenruhát viselők részére a természetbeni ellátás keretében kiadott egyenruházat egyedi elbírálás alapján a döntésre jogosult elöljáró engedélyével tulajdonba adható.

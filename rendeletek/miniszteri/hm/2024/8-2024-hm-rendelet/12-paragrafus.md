@@ -1,0 +1,5 @@
+12. § (1) A ruházati utalványfüzet érvényességi idején belül az egyenruházati ellátás keretösszegének nyilvántartására, anyagátvételre, ruházati szolgáltatás igénybevételére, valamint pénzbeli juttatások teljesítésére szolgáló szigorú számadásköteles nyomtatvány, amely a jogosult nevére szól, az másra nem ruházható át, használatakor a szolgálati viszony fennállását igazolni kell.
+
+(2) Az átvett egyenruházat vagy az igénybe vett ruházati szolgáltatás ellenértéke az érvényes ruházati utalványfüzet utalványszelvényének kitöltésével és átadásával, bankkártyás fizetéssel, valamint készpénzzel egyenlíthető ki. Egy vásárlás csak egyféle fizetési móddal teljesíthető.
+
+(3) A ruházati utalványfüzet elvesztését a jogosult köteles az ellátást végző honvédelmi szervezet részére bejelenteni. Az elveszett ruházati utalványfüzetet és annak számát az ellátó honvédelmi szervezet a letiltás érdekében megküldi a központi anyagellátást biztosító honvédségi szervezet részére. Az elveszett ruházati utalványfüzetben lévő keretösszeg-maradvány pótlólagosan nem kerül jóváírásra.
