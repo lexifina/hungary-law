@@ -34,8 +34,10 @@ b) legalább egy kiállítóteret,
 
 c) legalább egy, legalább 60 fő befogadására, előadó-művészeti csoportok próbáinak, előadásainak, továbbá ünnepségek megtartására is alkalmas, játszóhellyel rendelkező többfunkciós helyiséget,
 
-d) az a)–c) pontban meghatározott helyiség méretének és funkciójának megfelelő számú asztalt és széket,
+d)[^3] az a)–c) pontban meghatározott helyiség méretének és funkciójának megfelelő számú asztalt és széket, valamint
 
 e) az adott program megfelelő lebonyolításához szükséges fény- és hangtechnikai eszközöket, paravánokat, posztamenseket, installációs eszközöket.
 
 (4) A (3) bekezdés a) és b) pontja szerinti alkotóműhely és kiállítótér egy helyiségben is biztosítható.
+
+[^3]: A 8. § (3) bekezdés d) pontja a 22/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.

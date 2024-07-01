@@ -16,7 +16,7 @@ c) a művészet vagy a közművelődés terén állami kitüntetéssel, elismer�
 
 d) az amatőr alkotó- és előadó-művészeti tevékenység területén tapasztalattal rendelkező
 
-## személy bevonásával valósítja meg.
+személy bevonásával valósítja meg.
 
 (3) Az (1) bekezdés szerinti közművelődési alapszolgáltatás megszervezésének helyszínén a 4. §-ban foglaltakon túl biztosítani kell:
 
@@ -28,8 +28,10 @@ c) legalább egy, legalább 60 fő befogadására, előadó-művészeti csoporto
 
 d) a foglalkozások megtartásához szükséges szakmai eszközöket,
 
-e) az a)–c) pontban meghatározott helyiség, tér méretének és funkciójának megfelelő számú asztalt és széket,
+e)[^4] az a)–c) pontban meghatározott helyiség, tér méretének és funkciójának megfelelő számú asztalt és széket, valamint
 
 f) az adott program megfelelő lebonyolításához szükséges fény- és hangtechnikai eszközöket, paravánokat, posztamenseket, installációs eszközöket.
 
 (4) A (3) bekezdés a) és b) pontja szerinti alkotóműhely és kiállítótér egy helyiségben is biztosítható.
+
+[^4]: A 9. § (3) bekezdés e) pontja a 22/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.

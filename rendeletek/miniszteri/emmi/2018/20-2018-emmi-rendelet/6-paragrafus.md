@@ -28,6 +28,8 @@ a) legalább egy, legalább 60 fő befogadására, a művelődő közösségek b
 
 b) legalább egy, legalább 2 fő befogadására, tanácsadásra is alkalmas helyiséget,
 
-c) az a) és b) pont szerinti helyiség méretének és funkciójának megfelelő számú asztalt és széket,
+c)[^2] az a) és b) pont szerinti helyiség méretének és funkciójának megfelelő számú asztalt és széket, valamint
 
 d) fény- és hangtechnikai eszközöket.
+
+[^2]: A 6. § (3) bekezdés c) pontja a 22/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.

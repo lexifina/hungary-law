@@ -8,6 +8,8 @@ c) polcrendszert, amely lehetővé teszi dokumentumok (könyvek, folyóiratok, s
 
 d) legalább 1 db bemutatók, előadások megtartására alkalmas prezentációs eszközt,
 
-e) legalább 1 db audiovizuális anyagok lejátszására alkalmas eszközt,
+e)[^1] legalább 1 db audiovizuális anyagok lejátszására alkalmas eszközt, valamint
 
 f) legalább 1 db számítógépet, illetve korlátozás- és térítésmentesen igénybe vehető internet kapcsolatot.
+
+[^1]: A 4. § e) pontja a 22/2024. (VI. 11.) KIM rendelet 1. § a) pontja szerint módosított szöveg.
