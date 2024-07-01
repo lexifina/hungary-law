@@ -20,6 +20,12 @@ h) a mintaoltalom megadására irányuló kérelmet;
 
 i) a bejelentési kérelem mellékleteinek felsorolását.
 
+j)[^6] a kérelmezőnek a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 3. § (1) bekezdése szerinti mikro-, kis- és középvállalkozásnak, azaz KKV-nak minősülésére vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát;
+
+k)[^7] a kérelmező vállalkozás arra vonatkozó – az elektronikus űrlap szerinti – nyilatkozatát, hogy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény szerinti költségvetési kutatóhelynek vagy nonprofit közhasznú kutatóhelynek minősül.
+
 (2) A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány vagy a Szellemi Tulajdon Nemzeti Hivatala honlapjáról letölthető elektronikus űrlap kitöltésével is elkészíthető.
 
 [^5]: A 2. § a 30/2018. (XII. 12.) IM rendelet 2. §-ával megállapított szöveg.
+[^6]: A 2. § (1) bekezdés j) pontját a 16/2023. (X. 30.) IM rendelet 2. §-a iktatta be.
+[^7]: A 2. § (1) bekezdés k) pontját a 16/2023. (X. 30.) IM rendelet 2. §-a iktatta be.
