@@ -1,1 +1,3 @@
-1. § Hatályát veszti a rehabilitációs foglalkoztatás veszélyhelyzeti működéséről szóló 418/2022. (X. 27.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
