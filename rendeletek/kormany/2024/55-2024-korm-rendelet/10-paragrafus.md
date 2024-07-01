@@ -1,3 +1,1 @@
-10. §[^10]
-
-[^10]: A 10. § a 11. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
+10. § Hatályát veszti a 78/2014. (III. 14.) Korm. rendelet 1. mellékletében foglalt táblázat 13. sora.

@@ -1,3 +1,3 @@
-5. §[^5]
+5. § A 78/2014. (III. 14.) Korm. rendelet 42. §-a a következő (5) bekezdéssel egészül ki:
 
-[^5]: Az 5. § a 11. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
+„(5) Nyilvános ingatlanalap nem bocsáthat ki kötvényt.”

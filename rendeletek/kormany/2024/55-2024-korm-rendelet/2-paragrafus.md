@@ -1,3 +1,5 @@
-2. §[^2]
+2. § A 78/2014. (III. 14.) Korm. rendelet 17. §-a helyébe a következő rendelkezés lép:
 
-[^2]: A 2. § a 11. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
+„17. § (1) Nyilvános értékpapír befektetési alap kizárólag a Bszt. 6. §-a szerinti pénzügyi eszközbe vagy pénzeszközbe fektethet be.
+
+(2) A befektetési alap rendelkezhet járulékos likvid eszközzel.”

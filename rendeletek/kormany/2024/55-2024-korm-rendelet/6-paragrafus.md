@@ -1,3 +1,3 @@
-6. §[^6]
+6. § A 78/2014. (III. 14.) Korm. rendelet 43. §-a a következő (3) bekezdéssel egészül ki:
 
-[^6]: A 6. § a 11. § (2) bekezdés alapján 2024. július 1-jén lép hatályba.
+„(3) Zártkörű ingatlanalap nem bocsáthat ki kötvényt.”
