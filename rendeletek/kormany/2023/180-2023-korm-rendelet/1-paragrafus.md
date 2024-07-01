@@ -1,3 +1,7 @@
 1. § (1) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 1. melléklet I. pontjában foglalt Illetménytábla helyett az 1. melléklet I. pontjában foglalt Illetménytáblát kell alkalmazni.
 
 (2) A Kit. 1. melléklet II. pontjában foglalt Illetménytábla helyett az 1. melléklet II. pontjában foglalt Illetménytáblát kell alkalmazni.
+
+(3)[^1] A Kit. 1. melléklet II. pontjában foglalt Illetménytábla hatálya alá tartozó kormányzati igazgatási szervnek a Kormány által meghatározott álláshelyein a Kormány által meghatározott feladatkört ellátó, orvosi végzettséggel rendelkező kormánytisztviselők illetménye tekintetében a Kit. 1. melléklet II. pontjában foglalt Illetménytábla helyett az 1. melléklet II. pontjában foglalt Illetménytáblát azzal az eltéréssel kell alkalmazni, hogy az illetmény meghaladhatja az álláshely besorolási fokozata szerinti illetménysáv felső határát, de nem haladhatja meg azt az összeget, amire az érintett orvos egészségügyi szolgálati jogviszony keretében az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. mellékletében foglalt illetménytábla alapján jogosult lenne. Vezetői besorolás esetén az illetmény meghaladhatja az álláshely besorolási fokozata szerinti illetménysáv felső határát, de nem haladhatja meg az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 1. mellékletében foglalt illetménytábla szerinti legmagasabb fizetési fokozathoz meghatározott összeget.
+
+[^1]: Az 1. § (3) bekezdését a 145/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
