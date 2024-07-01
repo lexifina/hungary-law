@@ -4,7 +4,7 @@
 
 (2) Foglalkoztatási célú tartózkodási engedélyt az a vendégmunkás is kaphat, akinek magyarországi foglalkoztatására belföldi foglalkoztatóval kötött megállapodás teljesítése érdekében harmadik országban letelepedett munkáltatóval fennálló munkaviszonya alapján kerül sor.
 
-(3) A harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Védelmi Tanács jóváhagyásával kiadott – rendeletében meghatározhatja, hogy az (1) és (2) bekezdésben foglaltakon túl foglalkoztatási célú tartózkodási engedélyt meghatározott harmadik ország állampolgára kaphat.
+(3) A Kormány rendeletben meghatározhatja, hogy az (1) és (2) bekezdésben foglaltakon túl foglalkoztatási célú tartózkodási engedélyt meghatározott harmadik ország állampolgára kaphat.
 
 (4) Az (1) és (2) bekezdésben foglaltakon túl a foglalkoztatási célú tartózkodási engedély kiadásával a Magyarországon kiadott vendégmunkás-tartózkodási engedélyek és foglalkoztatási célú tartózkodási engedélyek száma nem haladhatja meg a foglalkoztatáspolitikáért felelős miniszter által évente meghatározott engedélyszámot.
 

@@ -6,7 +6,7 @@ a) akinek a tartózkodási célja, hogy foglalkoztatásra irányuló jogviszonya
 
 b) akinek a foglalkoztatója nyilvántartásba vett kedvezményes foglalkoztató vagy nyilvántartásba vett minősített kölcsönbeadó,
 
-c) aki a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter – a Védelmi Tanács jóváhagyásával kiadott – rendeletében meghatározott harmadik ország állampolgára, és
+c) aki a Kormány rendeletében meghatározott harmadik ország állampolgára, és
 
 d) akinek a munkavállalása olyan foglalkozásban történik, amelyet a foglalkoztatáspolitikáért felelős miniszter közleményében nem zár ki.
 

@@ -93,3 +93,7 @@ b) a beruházás megvalósítása céljából kiállított munkavállalási cél
 c) a beruházásra vonatkozó olyan feltételeket, amelyeket az arra alapított beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása, illetve meghosszabbítása során szükséges figyelembe venni
 
 rendeletben állapítsa meg.
+
+(12) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
+
+(13) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható Nemzeti Kártyával.

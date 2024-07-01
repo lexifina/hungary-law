@@ -34,4 +34,4 @@ a) a Magyarországon évente összesen kiadható foglalkoztatási célú tartóz
 
 b) a vendégmunkások munkaviszonyával kapcsolatos kötelezettségét megsértő munkáltatóval, illetve fogadó szervezettel szemben alkalmazható, további vendégmunkás alkalmazásától való eltiltás eljárási, illetve részletszabályait.
 
-(12) Felhatalmazást kap a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter, hogy rendeletben határozza meg, hogy melyik harmadik ország állampolgára foglalkoztatható foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
+(12)
