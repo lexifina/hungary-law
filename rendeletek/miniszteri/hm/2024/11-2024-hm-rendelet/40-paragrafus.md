@@ -1,0 +1,1 @@
+40. § Az eljárás alá vont honvéd részére a fegyelmi ügyben hozott határozatot a lehető legrövidebb időn belül oly módon kell kézbesíteni, hogy – szolgálati feladat ellátására, illetve egyéb okból történő távollétére tekintettel – módja legyen a határozat személyes átvételére.

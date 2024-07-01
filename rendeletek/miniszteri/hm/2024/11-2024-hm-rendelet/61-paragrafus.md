@@ -1,0 +1,1 @@
+61. § Az e rendelet hatálybalépésekor már folyamatban lévő fegyelmi és méltatlansági eljárásokra a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 2024. június 30-án hatályos rendelkezéseit kell alkalmazni.

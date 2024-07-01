@@ -1,0 +1,1 @@
+59. § A katonai igazgatási szerv parancsnoka 58. § szerinti határozatának jogerőre emelkedésével az egyenruha viselésére, illetve a rendfokozat használatára méltatlan nyugállományú katona elveszti a Honvédség által nyújtott szociális, illetve kegyeleti gondoskodásra való jogosultságát, illetve rekreációs szolgáltatásra való igényjogosultságát.
