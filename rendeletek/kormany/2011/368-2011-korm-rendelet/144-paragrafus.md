@@ -1,6 +1,6 @@
-## [Az Áht. 83. § (5), (6) és (6b) bekezdéséhez][^658]
+## [Az Áht. 83. § (5), (6) és (6b) bekezdéséhez][^659]
 
-144. §[^659] (1) Az Áht. 83. § (5) vagy (6) bekezdése alapján felfüggesztett összegek folyósítása a kötelezettség teljesítését követő hónap 4. melléklet szerinti utalási időpontjában teljesíthető.
+144. §[^660] (1) Az Áht. 83. § (5) vagy (6) bekezdése alapján felfüggesztett összegek folyósítása a kötelezettség teljesítését követő hónap 4. melléklet szerinti utalási időpontjában teljesíthető.
 
 (2) Az Áht. 83. § (6b) bekezdése szerinti beszámításba be nem vonható jogcímeket a 8. melléklet tartalmazza.
 
@@ -10,5 +10,5 @@
 
 (5) Az Áht. 83. § (6b) bekezdése szerinti beszámítás esetén ezzel egyidejűleg a beszámításba bevont központi támogatások beszámítás előtti összegét a B11. Önkormányzatok működési támogatásai és a B21. Felhalmozási célú önkormányzati támogatások rovatokhoz kapcsolódóan vezetett nyilvántartási számlákon is nyilvántartásba kell venni.
 
-[^658]: Az Ávr. „[Az Áht. 83. § (5), (6) és (6b) bekezdéséhez]” alcím címe a 397/2023. (VIII. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^659]: Az Ávr. 144. §-a a 397/2023. (VIII. 24.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^659]: Az Ávr. „[Az Áht. 83. § (5), (6) és (6b) bekezdéséhez]” alcím címe a 397/2023. (VIII. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^660]: Az Ávr. 144. §-a a 397/2023. (VIII. 24.) Korm. rendelet 2. §-ával megállapított szöveg.

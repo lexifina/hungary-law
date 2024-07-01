@@ -1,3 +1,3 @@
-154. §[^721]
+154. §[^722]
 
-[^721]: Az Ávr. 154. §-át a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^722]: Az Ávr. 154. §-át a 426/2017. (XII. 19.) Korm. rendelet 9. § (1) bekezdés 4. pontja hatályon kívül helyezte.
