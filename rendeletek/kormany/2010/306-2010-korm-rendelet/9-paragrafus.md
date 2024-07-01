@@ -10,19 +10,29 @@
 
 (2)[^42] Magyarország területén
 
-a) az OLM mérési rendszereinek (módszerek, berendezések) jóváhagyását,
+a) az OLM miniszter által kijelölt automata mérőállomásainak, mobil mérőegységeinek és manuális mintavételi pontjainak a levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásainak vizsgálatával, ellenőrzésével, értékelésével kapcsolatos szabályokról szóló miniszteri rendelet előírásainak megfelelő üzemeltetését,
 
-b) a mérések pontosságának biztosításához szükséges feladatokat,
+b) az OLM adatainak gyűjtését, és az adatok alapján a levegő minőségének rendszeres értékelését,
 
-c) a vizsgálati módszerek elemzését,
+c) az OLM által vett minták laboratóriumi elemzését,
 
-d) az adatok alapján a levegő minőségének rendszeres értékelését,
+d) a szmogriadóval kapcsolatos tájékoztatási rendszer működtetését,
 
-e) a minőségbiztosítási programok koordinálását, és
+e) az a)–c) pontban meghatározott feladatok ellátásához szükséges informatikai és telekommunikációs rendszer folyamatos üzemeltetését,
 
-f) az információs önrendelkezési jogról és az információszabadságról szóló törvényben az adatkezelő, valamint a közadatok újrahasznosításáról szóló törvényben a közadatot kezelő közfeladatot ellátó szerv számára meghatározott feladatokat
+f) az OLM éves mintavételi programjának végrehajtását,
 
-## az LRK látja el.
+g) az OLM mérési rendszereinek (módszerek, berendezések) jóváhagyását,
+
+h) a mérések pontosságának biztosításához szükséges feladatokat,
+
+i) a vizsgálati módszerek elemzését,
+
+j) a minőségbiztosítási programok koordinálását, valamint
+
+k) az információs önrendelkezési jogról és az információszabadságról szóló törvényben az adatkezelő, valamint a közadatok újrahasznosításáról szóló törvényben a közadatot kezelő közfeladatot ellátó szerv számára meghatározott feladatokat
+
+az LRK látja el.
 
 (2a)[^43] Magyarország területén
 
@@ -57,7 +67,7 @@ c) az egyéb időszakos mérés esetén az értékelések éves
 [^39]: A 9. § (1) bekezdése a 292/2015. (X. 8.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^40]: A 9. § (1a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
 [^41]: A 9. § (1b) bekezdését a 292/2015. (X. 8.) Korm. rendelet 14. §-a iktatta be.
-[^42]: A 9. § (2) bekezdése a 292/2015. (X. 8.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^42]: A 9. § (2) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^43]: A 9. § (2a) bekezdését a 292/2015. (X. 8.) Korm. rendelet 16. §-a iktatta be, záró szövegrésze a 20/2017. (II. 2.) Korm. rendelet 8. §-a, a 616/2022. (XII. 29.) Korm. rendelet 116. §-a szerint módosított szöveg.
 [^44]: A 9. § (4) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^45]: A 9. § (6) bekezdése a 292/2015. (X. 8.) Korm. rendelet 17. §-ával megállapított szöveg.

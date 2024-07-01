@@ -37,3 +37,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-306-20-
 | 2023-12-27 | 2010-306-20-22.31 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 2010-306-20-22.29 | 591/2023. (XII. 20.) Korm. rendelet |
 | 2024-06-15 | 2010-306-20-22.32 | 292/2015. (X. 8.) Korm. rendelet |
+| 2024-07-01 | 2010-306-20-22.30 | 591/2023. (XII. 20.) Korm. rendelet |
