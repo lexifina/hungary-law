@@ -1,6 +1,6 @@
-## 16/A. §[^17] Ha a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR Szabályzat) szerinti oktató a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal nem rendelkezik, illetve ha a közlekedési hatóság által meghirdetett továbbképzésen nem vett részt vagy – ha a már elismert oktató – a továbbképzést követő ismeretfelújító vizsgát nem teljesítette, továbbá ha a szakfelügyeleti ellenőrzés megállapítása szerint a foglalkozásvezető szakmai tevékenységének színvonala nem kielégítő, a közlekedési hatóság az oktatót a tevékenység gyakorlásától a hiányosság megszüntetéséig eltiltja.
+## 16/A. §[^18] Ha a Veszélyes Áruk Nemzetközi Közúti Szállításáról szóló Európai Megállapodás (ADR Szabályzat) szerinti oktató a veszélyes áruk közúti szállítására vonatkozó, az oktatni kívánt áruosztályokra érvényes veszélyes áru szállítási biztonsági tanácsadói bizonyítvánnyal nem rendelkezik, illetve ha a közlekedési hatóság által meghirdetett továbbképzésen nem vett részt vagy – ha a már elismert oktató – a továbbképzést követő ismeretfelújító vizsgát nem teljesítette, továbbá ha a szakfelügyeleti ellenőrzés megállapítása szerint a foglalkozásvezető szakmai tevékenységének színvonala nem kielégítő, a közlekedési hatóság az oktatót a tevékenység gyakorlásától a hiányosság megszüntetéséig eltiltja.
 
-## 4/A. [^18] Muzeális jellegű járművek minősítési eljárása
+## 4/A. [^19] Muzeális jellegű járművek minősítési eljárása
 
 ## 16/B. § E rendelet alkalmazásában
 
@@ -20,5 +20,5 @@ g) típusleírás: a járműegyed típus eredeti állapotára vonatkozó teljes 
 
 h) muzeális jellegű jármű: az a jármű, amelyet legalább 30 éve gyártottak vagy legalább 360 hónapja gyártottak, amennyiben igazolható a gyártási év hónapja, továbbá az eredeti műszaki jellemzőit nem változtatták meg, vagy annak megfelelően helyreállították.
 
-[^17]: A 16/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (4) bekezdése iktatta be.
-[^18]: A 4/A. alcímet (16/B–16/K. §) az 524/2021. (IX. 8.) Korm. rendelet 8. §-a iktatta be.
+[^18]: A 16/A. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (4) bekezdése iktatta be.
+[^19]: A 4/A. alcímet (16/B–16/K. §) az 524/2021. (IX. 8.) Korm. rendelet 8. §-a iktatta be.

@@ -1,4 +1,4 @@
-16/D. § (1)[^19] A muzeális minősítő szervezet a járművek muzeális minősítését a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. (a továbbiakban: KTI Nonprofit Kft.) által – a Magyar Autóklub mint muzeális minősítő szervezet, a Magyar Műszaki és Közlekedési Múzeum és a Magyar Veteránjárművesek Szövetsége bevonásával – kidolgozott és a közlekedési hatóság által jóváhagyott, a muzeális minősítés részletes szabályait meghatározó szabályzat (a továbbiakban: muzeális minősítő szabályzat) alapján végzi.
+16/D. § (1)[^20] A muzeális minősítő szervezet a járművek muzeális minősítését a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. (a továbbiakban: KTI Nonprofit Kft.) által – a Magyar Autóklub mint muzeális minősítő szervezet, a Magyar Műszaki és Közlekedési Múzeum és a Magyar Veteránjárművesek Szövetsége bevonásával – kidolgozott és a közlekedési hatóság által jóváhagyott, a muzeális minősítés részletes szabályait meghatározó szabályzat (a továbbiakban: muzeális minősítő szabályzat) alapján végzi.
 
 (2) A muzeális minősítő szabályzat tartalmazza:
 
@@ -34,4 +34,4 @@ f) a minősítés visszavonásának rendjét.
 
 (12) A KTI Nonprofit Kft. a muzeális minősítési díjból számára átutalt összeget a muzeális minősítő rendszer működtetésével és fejlesztésével kapcsolatos költségek fedezetére, ezen belül különösen a nyilvántartás vezetésével kapcsolatos, jogszabályban meghatározott állami feladatai költségfedezetére fordítja.
 
-[^19]: A 16/D. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^20]: A 16/D. § (1) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 54. §-a szerint módosított szöveg.
