@@ -4,4 +4,6 @@ a) azon művekről és kapcsolódó jogi teljesítményekről, amelyekről hozz�
 
 b) azon jogosított szervezetekről és elérhetőségükről, amelyektől hozzáférhető formátumú példányt szereztek be, vagy amely részére ilyen példányt juttattak el.
 
-(2) A jogosított szervezet köteles a nevét, elérhetőségét, valamint az (1) bekezdés a) pontja szerinti információt az Országos Széchényi Könyvtár részére bejelenteni, továbbá ezek változásáról minden év december 31-ig az Országos Széchényi Könyvtár részére tájékoztatást adni.
+(2)[^1] A jogosított szervezet köteles a nevét, elérhetőségét, valamint az (1) bekezdés a) pontja szerinti információt a Magyar Nemzeti Múzeum Közgyűjteményi Központ részére bejelenteni, továbbá ezek változásáról minden év december 31-ig a Magyar Nemzeti Múzeum Közgyűjteményi Központ részére tájékoztatást adni.
+
+[^1]: A 3. § (2) bekezdése a 106/2024. (V. 9.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
