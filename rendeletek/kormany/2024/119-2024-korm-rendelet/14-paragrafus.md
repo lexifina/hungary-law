@@ -1,6 +1,7 @@
-14. § (1)[^16]
+14. § (1)[^8]
 
-(2)[^17]
+(2) Az R1. 10. § b) pontja helyébe a következő rendelkezés lép:
 
-[^16]: A 14. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 14. § (2) bekezdése a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+[A Kvt. 49. § (3) bekezdésében foglalt környezetvédelmi igazgatási szervként]
+
+[^8]: A 14. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

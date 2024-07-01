@@ -1,3 +1,3 @@
-12. §[^13]
+12. § Az R1. 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő b) ponttal egészül ki:
 
-[^13]: A 12. § a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+(A Kormány környezetvédelmi igazgatási szervként)

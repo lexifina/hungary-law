@@ -1,3 +1,11 @@
-10. §[^10]
+10. § (1) Az R1. 5. § (1) bekezdése a következő b) ponttal egészül ki:
 
-[^10]: A 10. § a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+(A Kormány környezetvédelmi hatóságként)
+
+## „b) a Pest Vármegyei Kormányhivatalt,”
+
+## (jelöli ki.)
+
+(2) Az R1. 5. § (1) bekezdése a következő l) ponttal egészül ki:
+
+(A Kormány környezetvédelmi hatóságként)

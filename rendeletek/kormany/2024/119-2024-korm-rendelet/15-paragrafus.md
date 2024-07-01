@@ -1,6 +1,17 @@
-15. § (1)[^18]
+## „b) az Országos Környezetvédelmi Információs Rendszer működtetése vonatkozásában a feladatköréhez tartozó ügyekben
 
-(2)[^19]
+## ba) az országos környezetvédelmi hatóság országos illetékességgel,
 
-[^18]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 15. § (2) bekezdése a 22. § (2) bekezdése alapján 2024. július 1-jén lép hatályba.
+## bb) a területi környezetvédelmi hatóság, illetve
+
+## bc) a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár országos illetékességgel”
+
+## [jár el.]
+
+15. § (1)[^9]
+
+(2) Az R1. 6. alcím címe helyébe a következő alcím cím lép:
+
+„6. A környezetvédelmi hatósági ügyekért felelős helyettes államtitkár, valamint a területi környezetvédelmi hatóság igazgatási feladatai”
+
+[^9]: A 15. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
