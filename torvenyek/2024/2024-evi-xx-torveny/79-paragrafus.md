@@ -21,15 +21,3 @@ h) 61. §-a és 63. § b) pontja az Alaptörvény T) cikk (1) bekezdése, XXXI. 
 i) 62. § b) pontja az Alaptörvény XXXI. cikk (3)–(5) bekezdése
 
 alapján sarkalatosnak minősül.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
