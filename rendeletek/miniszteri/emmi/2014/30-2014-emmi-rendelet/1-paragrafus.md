@@ -10,7 +10,7 @@ c) az országos szakkönyvtár, valamint
 
 d) az állami egyetem könyvtára (a továbbiakban: egyetemi könyvtár)
 
-## számára a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) alapján ellátott feladataik körében a kiemelt feladatokat, valamint a kiemelt feladatok ellátásának rendjét.
+számára a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény (a továbbiakban: Kultv.) alapján ellátott feladataik körében a kiemelt feladatokat, valamint a kiemelt feladatok ellátásának rendjét.
 
 (2) A múzeum a gyűjtőkörében, valamint az (1) bekezdés b)–d) pontja szerinti könyvtár a szakterületén kiemelt feladatként
 
