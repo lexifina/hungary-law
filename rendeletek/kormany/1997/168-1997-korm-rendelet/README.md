@@ -63,3 +63,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-168-20-
 | 2023-11-01 | 1997-168-20-22.91 | 506/2022. (XII. 13.) Korm. rendelet |
 | 2024-01-01 | 1997-168-20-22.90 | 352/2023. (VII. 27.) Korm. rendelet |
 | 2024-03-31 | 1997-168-20-22.92 | 64/2024. (III. 28.) Korm. rendelet |
+| 2024-07-01 | 1997-168-20-22.93 | 104/2024. (V. 9.) Korm. rendelet |

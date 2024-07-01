@@ -1,4 +1,4 @@
-75/A. §[^265] (1) A Nyugdíjfolyósító Igazgatóság a megállapított nyugellátás folyósítását kizárólag a magyar törvényes fizetőeszközben teljesíti.
+75/A. §[^266] (1) A Nyugdíjfolyósító Igazgatóság a megállapított nyugellátás folyósítását kizárólag a magyar törvényes fizetőeszközben teljesíti.
 
 (2) A Nyugdíjfolyósító Igazgatóság a megállapított nyugdíjellátást a határozat vele való közlését követő tizenhárom napon belül folyósítja, ha
 
@@ -10,4 +10,4 @@ c) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellá
 
 d) az öregségi nyugdíjra jogosult személy, illetve hozzátartozói nyugellátás esetén az elhunyt jogszerző korábban szolgálati viszonyban állt valamelyik nemzetbiztonsági szolgálattal.
 
-[^265]: A 75/A. §-t a 269/2001. (XII. 21.) Korm. rendelet 11. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
+[^266]: A 75/A. §-t a 269/2001. (XII. 21.) Korm. rendelet 11. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 25. § (4) bekezdésével megállapított szöveg.
