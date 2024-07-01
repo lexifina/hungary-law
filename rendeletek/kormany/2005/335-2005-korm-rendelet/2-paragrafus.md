@@ -76,13 +76,15 @@
 
 34. másodlat: az eredeti irat egyik hiteles példánya, amelyet az első példánnyal azonos módon hitelesítettek;
 
-35. másolat: az eredeti iratról szöveg-azonos és alakhű formában, utólag készült egyszerű (nem hitelesített) vagy hiteles (hitelesítési záradékkal ellátott) irat;
+35.[^18] másolat: az eredeti iratról készült, annak adattartalmát teljeskörűen rögzítő egyszerű (nem hitelesített) vagy hiteles (hitelesítési záradékkal ellátott) irat;
 
-36.[^18] megsemmisítés: a selejtezési vagy hiteles másolatkészítési eljárást követően megsemmisíthető irat vagy iratpéldány végleges megsemmisítése, a benne foglalt információ helyreállításának lehetőségét kizáró módon történő hozzáférhetetlenné tétele, törlése, amely következtében az irat tartalma nem rekonstruálható;
+36.[^19] megsemmisítés: a selejtezési vagy hiteles másolatkészítési eljárást követően megsemmisíthető irat vagy iratpéldány végleges megsemmisítése, a benne foglalt információ helyreállításának lehetőségét kizáró módon történő hozzáférhetetlenné tétele, törlése, amely következtében az irat tartalma nem rekonstruálható;
 
 37. mellékelt irat: az iratnak nem szerves része, tartozéka, attól – mint kísérő irattól – elválasztható;
 
 38. melléklet: valamely irat szerves tartozéka, annak kiegészítő része, amely elválaszthatatlan attól;
+
+38a.[^20] munkaanyag: az ügyintézés során keletkező, az ügyintézést elősegítő, átmeneti jelentőségű, nyilvántartásba vételre és kiadmányozásra nem kerülő iratok;
 
 39. naplózás: az iratkezelési szoftverben és az általa kezelt adatállományokban bekövetkezett események meghatározott körének regisztrálása;
 
@@ -90,11 +92,13 @@
 
 41. papír alapú iktatókönyv: olyan nem selejtezhető, hitelesített iratkezelési segédeszköz, amelyben az iratok iktatása történik;
 
+41a.[^21] példány: egy irat egészének fizikailag vagy logikailag meghatározható elkülönült megjelenése;
+
 42. savmentes doboz: lignint, savas adalékanyagot és színezéket nem tartalmazó, papírból készített tárolóeszköz;
 
-43.[^19]
+43.[^22]
 
-44.[^20] szabályozott elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
+44.[^23] szabályozott elektronikus ügyintézési szolgáltatás: az E-ügyintézési tv. szerinti szolgáltatás;
 
 45. szerelés: ügyiratok végleges jellegű összekapcsolása, amelynek következtében az összekapcsolt ügyiratok a továbbiakban kizárólag együtt kezelhetőek;
 
@@ -102,9 +106,11 @@
 
 47. továbbítás: az ügyintézés során az irat eljuttatása az egyik ügyintézési ponttól a másikhoz, amely elektronikusan tárolt irat esetén megvalósulhat az irathoz való hozzáférés lehetőségének biztosításával is;
 
-48.[^21] ügyfél ügyintézési rendelkezésének nyilvántartása: az E-ügyintézési tv. szerinti nyilvántartás;
+47a.[^24] ügy: a szerv feladat- és hatáskörébe tartozó vagy működésével összefüggő egyedi, elkülönült folyamat, amely az ügyintézés megkezdésével indul, és annak lezárulásával ér véget;
 
-49.[^22] ügyintézési rendelkezés: az E-ügyintézési tv. szerinti ügyintézési rendelkezés;
+48.[^25] ügyfél ügyintézési rendelkezésének nyilvántartása: az E-ügyintézési tv. szerinti nyilvántartás;
+
+49.[^26] ügyintézési rendelkezés: az E-ügyintézési tv. szerinti ügyintézési rendelkezés;
 
 50. ügyintéző: az ügy intézésére kijelölt személy, az ügy előadója, aki az ügyet döntésre előkészíti;
 
@@ -112,7 +118,9 @@
 
 52. ügykezelő: iratkezelési feladatokat végző személy;
 
-53. ügykör: a szerv vagy személy feladat- és hatáskörébe tartozó ügyek meghatározott csoportja.
+53.[^27] ügykör: a szerv ügyeinek a szerv által ügyviteli vagy nyilvántartási célból meghatározott csoportja;
+
+54.[^28] ügytípus: a szerv egy meghatározott feladata, tevékenysége, funkciója keretében intézett ügyeinek összessége.
 
 [^5]: A 2. § a 196/2013. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^6]: A 2. § 1. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -127,8 +135,14 @@
 [^15]: A 2. § 28a. pontját a 137/2019. (VI. 11.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^16]: A 2. § 29. pontja az 530/2023. (XII. 1.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^17]: A 2. § 29a. pontját a 477/2021. (VIII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^18]: A 2. § 36. pontja a 272/2020. (VI. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^19]: A 2. § 43. pontját a 272/2020. (VI. 12.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^20]: A 2. § 44. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^21]: A 2. § 48. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^22]: A 2. § 49. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^18]: A 2. § 35. pontja a 123/2024. (VI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^19]: A 2. § 36. pontja a 272/2020. (VI. 12.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. § 38a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 2. § 41a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^22]: A 2. § 43. pontját a 272/2020. (VI. 12.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^23]: A 2. § 44. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^24]: A 2. § 47a. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^25]: A 2. § 48. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^26]: A 2. § 49. pontja a 137/2019. (VI. 11.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^27]: A 2. § 53. pontja a 123/2024. (VI. 11.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^28]: A 2. § 54. pontját a 123/2024. (VI. 11.) Korm. rendelet 1. § (6) bekezdése iktatta be.

@@ -1,8 +1,8 @@
 ## Selejtezés
 
-64. §[^165] (1) Az ügyiratok selejtezését az irattári tervben rögzített őrzési idő leteltével az Ltv. 9. § (1) bekezdés f) pontja szerint kell végrehajtani.
+64. §[^173] (1)[^174] Az ügyiratok, valamint a szerv működése szempontjából érdemi adatot tartalmazó nyilvántartott iratok selejtezését az irattári tervben rögzített őrzési idő leteltével az Ltv. 9. § (1) bekezdés f) pontja szerint kell végrehajtani.
 
-(2) Az iratselejtezésről – a legalább évente egyszer, legfeljebb évente négyszer – készített selejtezési jegyzőkönyvet az iratkezelésért felelős vezető jóváhagyását követően az illetékes levéltárhoz kell továbbítani a selejtezés engedélyezése végett.
+(2)[^175] Az iratselejtezést legalább évente egyszer kell elvégezni, amelyről az illetékes közlevéltárral egyeztetett formában és tartalommal elkészített selejtezési jegyzőkönyvet az iratkezelés felügyeletét ellátó vezető jóváhagyását követően az illetékes levéltárhoz kell továbbítani a selejtezés engedélyezése végett. A selejtezési jegyzőkönyvet évente legfeljebb négy alkalommal köteles az illetékes közlevéltár fogadni, amelytől indokolt esetben a szervvel történt egyeztetés alapján eltérhet.
 
 (3) Az illetékes levéltár az iratok megsemmisítését a szükséges ellenőrzés után a selejtezési jegyzőkönyv 30 napon belül visszaküldött példányán záradékkal engedélyezi.
 
@@ -14,4 +14,6 @@
 
 (7) Ha az iratkezelés során rendkívüli esemény következtében az iratok károsodást szenvedtek, arról haladéktalanul jegyzőkönyvet kell felvenni, amely tartalmazza a károsodott iratok meghatározását, a káresemény helyét, időpontját és körülményeit. A jegyzőkönyvet haladéktalanul meg kell küldeni az illetékes közlevéltár részére. A közlevéltár véleményének kikérésével a szervnek meg kell vizsgálnia a megrongálódott iratok helyreállításának lehetőségét. Ha a károsodás mértéke, illetve jellege miatt nincs mód az iratok helyreállítására, a közlevéltár engedélyezheti azok kényszerselejtezését, továbbá szükség esetén hivatalból értesíti az adatvesztés ügyében eljárásra jogosult hatóságot.
 
-[^165]: A 64. § a 328/2020. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^173]: A 64. § a 328/2020. (VII. 2.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^174]: A 64. § (1) bekezdése a 123/2024. (VI. 11.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^175]: A 64. § (2) bekezdése a 123/2024. (VI. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
