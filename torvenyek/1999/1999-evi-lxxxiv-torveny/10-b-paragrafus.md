@@ -1,0 +1,1 @@
+10/B. § A nyilvántartó és a közlekedési igazgatási hatóság a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben meghatározott digitális állampolgár azonosítót digitális szolgáltatás nyújtásához teljesítendő adatszolgáltatás érdekében kezeli.

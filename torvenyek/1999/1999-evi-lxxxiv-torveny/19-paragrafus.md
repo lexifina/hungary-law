@@ -10,9 +10,11 @@ d) a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve
 
 e) a települési önkormányzat jegyzője
 
-ea)
+ea) a közúti közlekedéssel összefüggő feladatai ellátása céljából a 8. § (1) bekezdés a) pont aa) alpontjában és b) pont ba) alpontjában, a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, a 9/D. § (1) bekezdés a) és b) pontjában, d) pont da) és db) alpontjában, e) pontjában, továbbá a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében meghatározott adatokat;
 
 eb) közútkezelői feladatainak, valamint a közterület rendjének biztosításával összefüggő feladatainak ellátásához a 8/A. § (1) bekezdés a), d), f)–i) és k) pontjában, a 9. § (1) bekezdés a), b) pontjában, d) pont da), db) alpontjában és e) pontjában, a 9. § (1a) bekezdésében, a 9. § (2) bekezdés a), b), d) és e) pontjában, a 9. § (4) bekezdésében, valamint a 9/D. § (1) bekezdés a)–c) pontjában, d) pont da)–db) alpontjában és e) pontjában, valamint a 9/D. § (2) bekezdés a)–c) pontjában és (3) bekezdésében megjelölt adatokat;
+
+ec) az örökhagyó vagyonának megállapítása és a rendelkezésre álló adatok ellenőrzése céljából a 9. § (1) bekezdés a) és b) pontjában, a 9. § (1a) bekezdésében, továbbá a 9. § (2) bekezdés a)–e) pontjában meghatározott adatokat;
 
 f) az adóhatóság az adóigazgatási eljáráshoz a 8. § (1) bekezdés a) pont aa) és ab) alpontjában, a b) pont ba) és bc) alpontjában, a 9. § (1)–(1b) és (2)–(6a) bekezdésében, 9/A. § (1) bekezdésében, valamint a 9/D. §-ban megjelölt adatokat;
 
@@ -48,7 +50,7 @@ s) a Kkt. 9/D. § (2) bekezdésében meghatározott közfeladat ellátására jo
 
 t) az anyakönyvvezető a személyazonosság ellenőrzése, az elhunyt személy személyazonosság igazolására alkalmas okmányának bevonása, vagy a névváltozási eljárással összefüggő feladatainak ellátása céljából a 8. § (1) bekezdés a) pont aa), ab), af) és ag) alpontjában, valamint b) pont ba) és bb) alpontjában foglalt adatokat,
 
-u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, valamint (2) bekezdés a)–c) pontjában, valamint a 9/D. § (1) bekezdés a)–b) pontjában, (2) bekezdés a)–b) pontjában és (3) bekezdésében megjelölt adatokat térítésmentesen;
+u) a szociális hatáskört gyakorló szerv a szociális ellátásra való jogosultság megállapítása, ellenőrzése céljából a 9. § (1) bekezdés a), b) és e) pontjában, a (2) bekezdés a)–c) pontjában, a 9/D. § (1) bekezdés a)–b) pontjában, a (2) bekezdés a)–b) pontjában és (3) bekezdésében, valamint a gyermekvédelmi és gyámügyi hatáskört gyakorló szerv a vagyoni helyzet vizsgálata céljából, a 9. § (1) bekezdés a), b) és e) pontjában, és a (2) bekezdés a)–c) pontjában megjelölt adatokat térítésmentesen;
 
 v) a hulladékgazdálkodási hatóság az engedély nélküli hulladéklerakással összefüggő feladatai ellátásához a 9. § (1) és (1a) bekezdésében, a 9. § (2) bekezdés a)–b) és d)–e) pontjában, valamint a 9/D. § (1) bekezdésében megjelölt adatokat.
 
@@ -86,7 +88,7 @@ l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a v
 
 m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 
-(2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához.
+(2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához, továbbá a Kkt. 21. §-a szerinti közigazgatási hatósági ügyekben eljáró hatóság a közigazgatási hatósági eljárás lefolytatásához.
 
 (3) A nyilvántartásból adatot igényelhet:
 
@@ -98,4 +100,4 @@ c) az Európai Gazdasági Térségről szóló megállapodásban részes állam 
 
 (4) A szerencsejáték szervezéséről szóló törvény szerinti szervező adatszolgáltatást igényelhet a természetes személy személyazonosságának igazoló ellenőrzése céljából a természetes személy által megadott, a szerencsejáték szervezéséről szóló törvényben meghatározott adatok nyilvántartási adatokkal való egyezőségéről és a vezetői engedély érvényességének tényéről.
 
-(5) A járási (fővárosi kerületi) hivatal, a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti kijelölt kormányhivatal és a személyiadat- és lakcímnyilvántartást kezelő szerv a digitális állampolgárság előregisztráció során a személyazonosság ellenőrzése céljából térítésmentesen igényelheti a 8. § (1) bekezdés a) pont aa)–ad) alpontjában, továbbá a 8. § (1) bekezdés b) pont ba) és bb) alpontjában foglalt adatokat.
+(5)
