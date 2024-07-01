@@ -102,7 +102,7 @@ c) az ellátási napok számáról,
 
 d) az ellátásért fizetendő, a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló kormányrendelet szerinti térítési díjról, amennyiben az az ellátás igénybevételének feltétele.
 
-(11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot a biztosítottnak át kell adni, ennek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
+(11) Az elszámolási nyilatkozatot egy példányban kell kiállítani, amelyen a kiállító orvos aláírásával igazolja, hogy a biztosított az abban megnevezett ellátást igénybe vette. Az aláírt elszámolási nyilatkozatot – kérésére – a biztosítottnak át kell adni vagy meg kell küldeni elektronikus úton, aminek tényét az egészségügyi szolgáltató elektronikus formában rögzíti.
 
 (12)
 

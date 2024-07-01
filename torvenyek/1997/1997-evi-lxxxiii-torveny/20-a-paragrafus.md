@@ -1,4 +1,4 @@
-20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait (családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel), az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
+20/A. § (1) A várólista az adott egészségügyi ellátásra besorolt biztosítottak legfontosabb személyazonosító adatait [családi és utónév, anyja neve, nem, születési év, lakóhely, társadalombiztosítási azonosító jel (a továbbiakban: TAJ-szám)], az ellátásra való jogosultság sorrendjét, valamint az ellátás várható, illetve – amint ismertté válik – pontosan meghatározott időpontját tartalmazza. A biztosítottak egyéb adatait az egészségügyi dokumentáció tartalmazza. A várólistán szereplő adatokat és a biztosítottak egyéb adatait az egészségügyi és személyazonosító adatok kezelésére vonatkozó jogszabályokban meghatározott rendelkezések szerint kell kezelni.
 
 (2) A központi várólistát kormányrendeletben kijelölt szerv működteti. A kormányrendeletben kijelölt szerv a működtetéshez a külön jogszabályban meghatározott közreműködőt vehet igénybe. Az intézményi várólistát az adott ellátást nyújtó egészségügyi szolgáltató szervezeti és működési szabályzatában e feladatra kijelölt személy vezeti.
 
@@ -10,16 +10,10 @@
 
 (6) Az egyedi azonosító tartalmára vonatkozó szabályokról a biztosítottat kezelőorvosa tájékoztatja. Amennyiben a kormányrendeletben kijelölt szerv, illetve az egészségügyi szolgáltatónál az intézményi várólista kezeléséért felelős személy észleli, hogy az adott várólistára érkező egyedi azonosító egy másik, az adott várólistán levő biztosított egyedi azonosítójával megegyezik, akkor a később beérkezett egyedi azonosítót olyan sorszámmal látja el, amely egyértelműen alkalmas az egyedi azonosítók megkülönböztetésére. Erről a biztosítottat a kezelőorvos útján a kormányrendeletben kijelölt szerv, illetve az intézményi várólista kezeléséért felelős személy tájékoztatja.
 
-(7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, társadalombiztosítási azonosító jelét valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
+(7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, TAJ-számát valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
 
 (8)
 
 (9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.
 
 (10) Ha a 30. § (1) bekezdése szerinti szerződéssel rendelkező egészségügyi szolgáltató nem teljesíti a várólistával, intézményi előjegyzéssel, intézményi regisztrációs listával, illetve betegfogadási listával kapcsolatos – jogszabályon vagy az egészségbiztosítóval kötött szerződésén alapuló – nyilvántartási, jelentési vagy adatszolgáltatási kötelezettségét, az egészségbiztosító az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott mértékben és ideig visszatartja az egészségügyi szolgáltatót megillető finanszírozásnak a kötelezettségszegéssel érintett részét, illetve az egészségügyi szolgáltatások finanszírozásáról szóló kormányrendeletben meghatározott összeggel csökkenti az egészségügyi szolgáltatót megillető finanszírozást a kötelezettségszegés megszüntetéséig.
-
-2. CÍM
-
-Árhoz nyújtott támogatással igénybe vehető
-
-szolgáltatások

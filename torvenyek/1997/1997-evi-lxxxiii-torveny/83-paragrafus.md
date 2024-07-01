@@ -64,7 +64,7 @@ meghatározására.
 
 a) határozza meg az országos intézményi várólista nyilvántartás létrehozásának szabályait,
 
-b)
+b) határozza meg az egységes telefonos időpontfoglalási központ igénybevételének és működtetésének részletes szabályait, valamint jelölje ki a telefonközpont-működtetőt,
 
 c) jelölje ki az országos várólista nyilvántartást vezető szervet,
 
@@ -97,6 +97,8 @@ d) határozza meg az intézményi várólista alapján, illetve a betegfogadási
 (2n) Felhatalmazást kap a Kormány, hogy a 18. § (8c) bekezdése szerinti megállapítás rendjét és a megállapításra jogosult szervet rendeletben határozza meg.
 
 (2o) Felhatalmazást kap a Kormány, hogy a 82. § (26) bekezdés szerinti ellátási érdek fennállásának szempontjait és a 82. § (26) bekezdése szerinti kérelem benyújtásának részletes szabályait rendeletben állapítsa meg.
+
+(2p) Felhatalmazást kap a Kormány, hogy a 82/Y. § (2) bekezdése szerinti használati díj megállapítására vonatkozó részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben rendeletben határozza meg
 
