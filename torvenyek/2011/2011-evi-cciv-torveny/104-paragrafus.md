@@ -16,7 +16,7 @@ d) az intézményben a szükséges gazdálkodási intézkedések és javaslatok 
 
 (1a) E törvényt
 
-a) a honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében a honvédek jogállásáról szóló törvényben,
+a) a honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében a honvédek jogállási kérdéseit szabályozó jogszabályban,
 
 b) a rendvédelmi feladatokat ellátó szerv tisztjelöltjei tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben
 
