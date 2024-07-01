@@ -16,8 +16,6 @@ c) a szálláshely-szolgáltatás címét, a szálláshely igénybevételének k
 
 (4) A tárhelyszolgáltató tevékenysége – a szálláshely-szolgáltató adatfeldolgozójaként – kizárólag az adat tárhelyen a Kormány rendeletében kijelölt titkosítási eljárást biztosító által titkosított formában történő tárolására és az adathoz – a szálláshely-szolgáltató és a szálláshely-szolgáltató útján törvényben arra feljogosított személy vagy szerv számára – történő hozzáférés biztosítására terjed ki. A tárhelyszolgáltató a tárhelyen tárolt adatot nem ismerheti meg.
 
-(5) A rendőrség a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme, és a körözési eljárás lefolytatása érdekében
+(5) A tárhelyszolgáltató a tárhelyen tárolt (1) bekezdés szerinti adatokhoz a rendőrség részére a bűnüldözés, a bűnmegelőzés, valamint a közrend, a közbiztonság, az államhatár rendjének, az érintett és mások jogainak, biztonságának és tulajdonának védelme, és a körözési eljárás lefolytatása érdekében közvetlen hozzáférést biztosít.
 
-a) a tárhelyszolgáltatónál tárolt adatokban informatikai eszköz útján keresést végezhet és a keresés eredményeként azt az információt ismerheti meg, hogy az általa megadott keresési feltételek szerinti személy mely szálláshely-szolgáltatónál szerepel igénybe vevőként, továbbá
-
-b) – az adatkérés céljának megjelölésével – a szálláshely-szolgáltató által kezelt adat továbbítását kérheti, amelyet a szálláshely-szolgáltató térítésmentesen teljesít.
+(6) A tárhelyszolgáltató az (5) bekezdés szerinti közvetlen hozzáférés céljából együttműködési megállapodást köt a rendőrséggel.
