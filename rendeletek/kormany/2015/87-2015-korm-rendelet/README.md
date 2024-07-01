@@ -42,3 +42,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-87-20-2
 | 2023-01-01 | 2015-87-20-22.33 | 533/2022. (XII. 19.) Korm. rendelet |
 | 2023-09-01 | 2015-87-20-22.35 | 617/2022. (XII. 29.) Korm. rendelet |
 | 2024-01-01 | 2015-87-20-22.36 | 610/2023. (XII. 22.) Korm. rendelet |
+| 2024-07-01 | 2015-87-20-22.37 | 104/2024. (V. 9.) Korm. rendelet |

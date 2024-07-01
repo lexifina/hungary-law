@@ -1,4 +1,4 @@
-14. § (1)[^53] Szakkollégium nyilvántartásba vételét
+14. § (1)[^54] Szakkollégium nyilvántartásba vételét
 
 a) felsőoktatási intézmény keretében működő vagy az Nftv. 54. §-ában meghatározott szervezet által létesített szakkollégium esetében a felsőoktatási intézmény vezetője,
 
@@ -12,4 +12,4 @@ a) a szakkollégiumnak a 24/2013. (II. 5.) Korm. rendelet 19. § (5) bekezdése 
 
 b) a felsőoktatási intézménnyel kötött megállapodást, ha a szakkollégium nem felsőoktatási intézmény keretében működik.
 
-[^53]: A 14. § (1) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^54]: A 14. § (1) bekezdése a 746/2021. (XII. 21.) Korm. rendelet 16. §-ával megállapított szöveg.

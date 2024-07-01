@@ -8,7 +8,7 @@ b) egy A3 méretű lapból áll, amelyen Magyarország címere nyomdai úton fel
 
 (3) Az oklevél a törzslap alapján kerül kiállításra.
 
-(4)[^226] Az oklevelet záradékkal a 9. mellékletben meghatározottak szerint kell ellátni. Ha olyan záradék válik szükségessé, amelyet a 9. melléklet nem tartalmaz, akkor a felsőoktatási intézmény – a Hivatal előzetes egyetértésével – egyedi záradékkal is elláthatja az oklevelet. A záradék az oklevél elválaszthatatlan részét képezi.
+(4)[^227] Az oklevelet záradékkal a 9. mellékletben meghatározottak szerint kell ellátni. Ha olyan záradék válik szükségessé, amelyet a 9. melléklet nem tartalmaz, akkor a felsőoktatási intézmény – a Hivatal előzetes egyetértésével – egyedi záradékkal is elláthatja az oklevelet. A záradék az oklevél elválaszthatatlan részét képezi.
 
 (5) Az oklevelet a kiállításkor egyedi intézményi sorszámmal kell ellátni és az adatait a felsőoktatási intézmény TR-ében kell nyilvántartani.
 
@@ -30,10 +30,10 @@ c) a végzettségi szint, illetve az odaítélt fokozat és a képzés megnevez�
 
 d) a kiállítás helyét, idejét,
 
-e)[^227] a felsőoktatási intézmények képviselőinek (továbbá a megállapodásban meghatározott vezetőknek) az eredeti aláírását.
+e)[^228] a felsőoktatási intézmények képviselőinek (továbbá a megállapodásban meghatározott vezetőknek) az eredeti aláírását.
 
-(11)[^228]
+(11)[^229]
 
-[^226]: A 46. § (4) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^227]: A 46. § (10) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § d) pontja, a 407/2017. (XII. 15.) Korm. rendelet 41. § i) pontja szerint módosított szöveg.
-[^228]: A 46. § (11) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 11. pontja hatályon kívül helyezte.
+[^227]: A 46. § (4) bekezdése a 407/2017. (XII. 15.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^228]: A 46. § (10) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § d) pontja, a 407/2017. (XII. 15.) Korm. rendelet 41. § i) pontja szerint módosított szöveg.
+[^229]: A 46. § (11) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 11. pontja hatályon kívül helyezte.

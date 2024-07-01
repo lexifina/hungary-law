@@ -10,7 +10,7 @@ c) a közösségi felsőoktatási képzési központ létesítése és működé
 
 d) a miniszter előzetes egyetértését,
 
-e) egybefüggő szakmai gyakorlat esetén, amennyiben a szakmai gyakorlatot a felsőoktatási intézménnyel kötött együttműködési megállapodás alapján jogi személy vagy gazdálkodó szervezet biztosítja, azon szakmai gyakorlóhelyek szándéknyilatkozatát, amelyekkel a felsőoktatási intézmény a képzés indításakor együttműködési megállapodást köt, valamint
+e)[^13]
 
 f) a közösségi felsőoktatási képzési központban indítandó képzés indítását jóváhagyó szenátusi döntésnek a felsőoktatási intézmény vezetője vagy az általa megbízott személy által aláírt kivonatát.
 
@@ -22,7 +22,7 @@ b) az együttműködő felsőoktatási intézmény által a közösségi felsőo
 
 c) a források és a költségek együttműködő felek közötti megosztásának szabályait,
 
-d)[^13]
+d)[^14]
 
 e) a megállapodás felmondásának feltételeit azzal, hogy a képzésben részt vevő hallgatók számára a képzés befejezésének lehetőségét biztosítani kell,
 
@@ -36,11 +36,12 @@ a) a közösségi felsőoktatási képzési központban az együttműködő fels
 
 b) azt, hogy a közösségi felsőoktatási képzési központ – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat.
 
-(6)[^14] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a (2) bekezdés a) és d) pontja szerinti mellékleteket nem kell csatolni.
+(6)[^15] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a (2) bekezdés a) és d) pontja szerinti mellékleteket nem kell csatolni.
 
 (7) Az Nftv. 14. § (2a) bekezdés d) pontjában szabályozott megállapodás tartalmára a (3) bekezdést megfelelően alkalmazni kell.
 
 [^11]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.
 [^12]: A 4/A. § (1) bekezdése a 610/2023. (XII. 22.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^13]: A 4/A. § (3) bekezdés d) pontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^14]: A 4/A. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^13]: A 4/A. § (2) bekezdés e) pontját a 104/2024. (V. 9.) Korm. rendelet 27. §-a hatályon kívül helyezte.
+[^14]: A 4/A. § (3) bekezdés d) pontját a 191/2019. (VII. 30.) Korm. rendelet 70. § (1) bekezdés a) pontja hatályon kívül helyezte.
+[^15]: A 4/A. § (6) bekezdése a 191/2019. (VII. 30.) Korm. rendelet 50. §-ával megállapított szöveg.

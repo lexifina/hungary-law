@@ -1,6 +1,6 @@
 ## 20. A hallgatók esélyegyenlőségének előmozdítása
 
-62. §[^262] (1) A fogyatékossággal élő hallgatót a felsőoktatási intézmény a 63. §-ban meghatározott szerv által kiadott szakértői vélemény alapján, az egyéni sajátosságok függvényében, figyelemmel az Nftv. 49. § (8) bekezdésére, az alábbi kedvezményekben részesítheti:
+62. §[^263] (1) A fogyatékossággal élő hallgatót a felsőoktatási intézmény a 63. §-ban meghatározott szerv által kiadott szakértői vélemény alapján, az egyéni sajátosságok függvényében, figyelemmel az Nftv. 49. § (8) bekezdésére, az alábbi kedvezményekben részesítheti:
 
 a) írásbeli helyett szóbeli vagy szóbeli helyett írásbeli vizsga alkalmazása,
 
@@ -28,9 +28,9 @@ k) nyelvismeret mérése, vagy annak egy része, illetve szintje alóli mentesí
 
 (3) Indokolt esetben a hallgató kérelmére, a szakértői vélemény alapján a felsőoktatási intézmény az (1) bekezdésben szabályozott kedvezményektől eltérő, további vagy más kedvezményt is biztosíthat a hallgató részére.
 
-(4)[^263]
+(4)[^264]
 
 (5) A felsőoktatási intézmény a fogyatékossággal nem járó egészségkárosodás, krónikus betegség fennállta esetén a szakorvosi vélemény alapján a hallgatót személyre szabott megsegítésben részesítheti.
 
-[^262]: A 62. § a 617/2022. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^263]: A 62. § (4) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 14. pontja hatályon kívül helyezte.
+[^263]: A 62. § a 617/2022. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^264]: A 62. § (4) bekezdését a 610/2023. (XII. 22.) Korm. rendelet 47. § 14. pontja hatályon kívül helyezte.
