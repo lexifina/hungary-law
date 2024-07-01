@@ -22,7 +22,7 @@ b) nem jogosult a köznevelési foglalkoztatotti jutalom ezen fokozatára, ha a 
 
 (9) A 2023. december 31-én folyamatban lévő kártérítési eljárást az eljárás megindulásakor hatályos szabályok szerint kell lefolytatni.
 
-(10) A köznevelésben foglalkoztatott 2024. július 1-ig köteles a Kormány által biztosított elektronikus azonosítási szolgáltatást és a hozzá kapcsolódó tárhelyet igényelni és erről a munkáltatónak írásban nyilatkozni.
+(10) A köznevelésben foglalkoztatott 2025. január 15-ig köteles a Kormány által biztosított elektronikus azonosítási szolgáltatást és a hozzá kapcsolódó tárhelyet igényelni és erről a munkáltatónak írásban nyilatkozni.
 
 (11) Ha a felek között 2023. december 31-én tanulmányi szerződés áll fenn,
 

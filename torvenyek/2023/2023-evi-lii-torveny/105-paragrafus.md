@@ -48,7 +48,7 @@ j) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolg�
 
 k) a Kit. hatálya alá tartozó munkáltatónál kormányzati szolgálati jogviszonyban, politikai szolgálati jogviszonyban, biztosi jogviszonyban, ösztöndíjas jogviszonyban, illetve munkaviszonyban,
 
-l) a honvédek jogállásáról szóló törvény szerinti hivatásos vagy szerződéses szolgálati viszonyban,
+l) a honvédek jogállásáról szóló kormányrendelet szerinti hivatásos vagy szerződéses szolgálati viszonyban,
 
 m) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
 

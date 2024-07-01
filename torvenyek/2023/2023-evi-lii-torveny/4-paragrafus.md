@@ -19,3 +19,7 @@ látható el.
 (4) A (3) bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni az Nkt. 4. § 21. pontjában az óraszámra vonatkozóan meghatározott korlátozást.
 
 (5) Az anyanyelvi tanárt küldő állam, vagy a külföldi társtárcákkal kötött megállapodás alapján nevesített közvetítő szervezet igazolást állít ki arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
+
+(6) Ha olyan hivatásos vagy szerződéses szolgálati viszonyban álló tiszti vagy altiszti állománycsoportba tartozó honvéd vezénylésére kerül sor a tankerületi központhoz, aki az 55. életévét betöltötte, a tankerületi központ a vezényeltet köteles fogadni, amennyiben a vezényelt az alkalmazási feltételeknek megfelel. Ha a tankerületi központ nem rendelkezik olyan betölthető munkakörrel, amely a vezényelt képesítésének megfelel, a tankerületi központ gondoskodik az álláshely betöltéséhez szükséges képzés biztosításáról. A képzés elvégzéséig a tankerületi központ vezetője határozza meg a vezényelt által ellátandó feladatokat.
+
+(7) A (6) bekezdés szerinti esetben az (1) bekezdéstől eltérően a nevelő-oktató munkát a tankerületi központhoz vezényelt hivatásos vagy szerződéses szolgálati viszonyban álló honvéd is elláthatja.
