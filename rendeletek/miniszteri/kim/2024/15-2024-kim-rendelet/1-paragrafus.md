@@ -1,1 +1,3 @@
-1. § A Könyvtárellátási Szolgáltató Rendszer működéséről szóló 39/2013. (V. 31.) EMMI rendelet 2. § f) pontjában a „tájékoztatása,” szövegrész helyébe a „tájékoztatása, és” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
