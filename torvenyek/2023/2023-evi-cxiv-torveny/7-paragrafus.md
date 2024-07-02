@@ -1,5 +1,1 @@
-7. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 9. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
-
-„(2a) A (2) bekezdésben foglaltaktól eltérően azon helyi önkormányzat esetében, amely felzárkózást elősegítő programban vesz részt, a bíróság elsődlegesen a társadalmi felzárkózásért felelős miniszter által kiválasztott önkormányzati csődbiztost jelöli ki a (2) bekezdés szerinti végzésben, vagy ettől eltérő döntését a végzésben indokolja. Ha a társadalmi felzárkózásért felelős miniszter az e törvény szerinti határidőben nem választja ki az önkormányzati csődbiztos személyét, akkor a bíróság a (2) bekezdésben foglaltak szerint jár el.
-
-(2b) A társadalmi felzárkózásért felelős miniszter önkormányzati csődbiztosként olyan civil szervezetet választhat ki, amely a (2a) bekezdés szerinti helyi önkormányzatnál a felzárkózást elősegítő programban a kijelölés érdekében történő megkeresést megelőzően legalább egy éve részt vesz. A kiválasztás részletes előírásait a Kormány rendeletében szabályozza.”
+### 7. §

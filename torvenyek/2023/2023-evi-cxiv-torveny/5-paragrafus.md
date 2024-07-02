@@ -1,7 +1,1 @@
-## „d) azon helyi önkormányzat esetében, amely felzárkózást elősegítő programban vesz részt, a társadalmi felzárkózásért felelős miniszter által kijelölt önkormányzati csődbiztos nevét és elérhetőségét, ennek hiányában a polgármester nyilatkozatát arról, hogy a társadalmi felzárkózásért felelős miniszter az (1a) bekezdés szerinti határidőben nem értesítette az önkormányzati csődbiztos kijelöléséről.”
-
-5. § A helyi önkormányzatok adósságrendezési eljárásáról szóló 1996. évi XXV. törvény 6. §-a a következő (4) és (5) bekezdéssel egészül ki:
-
-„(4) Azon helyi önkormányzat esetében, amely felzárkózást elősegítő programban vesz részt, a polgármester a (2) bekezdés szerinti értesítés kézhezvételével egyidejűleg megkeresi a társadalmi felzárkózásért felelős minisztert az önkormányzati csődbiztos 9. § (2a) bekezdés szerinti kijelölése érdekében. A társadalmi felzárkózásért felelős miniszter a megkereséstől számított 5 napon belül értesíti a polgármestert az általa kijelölt önkormányzati csődbiztos személyéről és elérhetőségéről.
-
-(5) A (4) bekezdés szerinti esetben a polgármester a (3) bekezdés szerinti nyilatkozatában megjelöli a társadalmi felzárkózásért felelős miniszter által kijelölt önkormányzati csődbiztos nevét és elérhetőségét; kijelölés hiányában azt a tényt, hogy a társadalmi felzárkózásért felelős miniszter a (4) bekezdés szerinti határidőben nem értesítette az önkormányzati csődbiztos kijelöléséről.”
+### 5. §
