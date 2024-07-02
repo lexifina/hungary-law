@@ -1,3 +1,1 @@
-84. § A büntetőeljárásról szóló 2017. évi XC. törvény „Átmeneti rendelkezések” alcíme a következő 876/E. §-sal egészül ki:
-
-„876/E. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: 2024. évi XXX. törvény) megállapított 861. §-át és 862. §-át a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.”
+### 84. §

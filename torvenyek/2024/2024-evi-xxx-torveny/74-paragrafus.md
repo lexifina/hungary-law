@@ -1,3 +1,1 @@
-74. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 187/A. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Ha a büntetés céljának megvalósulása ilyen módon is biztosítható, a feltételes szabadságra bocsátás esedékessége, illetve ennek kizárása vagy kizártsága esetén a szabadulás várható időpontja előtt reintegrációs őrizetbe helyezhető az az elítélt, aki azt vállalja és gondatlan bűncselekmény elkövetése miatt ítélték szabadságvesztésre, vagy ha szándékos bűncselekmény elkövetése miatt ítélték szabadságvesztésre, akkor)
+### 74. §

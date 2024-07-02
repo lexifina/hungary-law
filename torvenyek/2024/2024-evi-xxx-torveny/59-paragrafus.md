@@ -1,1 +1,1 @@
-59. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 167. §-ában az „illetőleg” szövegrész helyébe az „illetve” szöveg lép.
+### 59. §

@@ -1,5 +1,3 @@
 ## 6. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
 
-43. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 13. § (13) bekezdése helyébe a következő rendelkezés lép:
-
-„(13) Ha a szolgáltató által hozzáférhetővé tett információ – ide nem értve a hozzáférhetővé tett információ szabványosított címét – a kiskorú személyiségi jogait sérti, a jogsérelemmel érintett kiskorú (e § alkalmazásában a továbbiakban: kiskorú jogosult) esetében a kiskorú jogosult törvényes képviselője, valamint a korlátozottan cselekvőképes kiskorú esetében a kiskorú jogosult is a személyazonosságának azonosítására alkalmas elektronikus úton (e § alkalmazásában a továbbiakban: értesítés) felhívhatja a 2. § 13. pont b)–d) alpontjában meghatározott szolgáltatót a kiskorú jogosult személyiségi jogát sértő tartalmú információ eltávolítására. Az értesítésben meg kell jelölni annak indokait is, hogy a sérelmezett tartalom miért sérti a kiskorú jogosult személyiségi jogait.”
+### 43. §
