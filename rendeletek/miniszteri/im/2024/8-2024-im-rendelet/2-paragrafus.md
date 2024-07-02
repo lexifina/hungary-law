@@ -1,3 +1,3 @@
-2. § A jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet 37. §-a a következő (4) bekezdéssel egészül ki:
+2. §[^3]
 
-„(4) A preambulumbekezdést pozitív egész számokból képzett, szögletes zárójelek közé foglalt arab számozással kell megjelölni.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

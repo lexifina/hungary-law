@@ -1,3 +1,3 @@
-6. § A jogszabályszerkesztésről szóló 61/2009. (XII. 14.) IRM rendelet 100. §-a a következő (3) bekezdéssel egészül ki:
+6. §[^7]
 
-„(3) A (2) bekezdéstől eltérően szövegcserés módosítással, újraszabályozással vagy kiegészítéssel módosítható a preambulum. A preambulum módosítása esetén a módosító rendelkezésben a preambulum preambulumbekezdésére kell hivatkozni.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
