@@ -1,3 +1,3 @@
-5. § A 78/2014. (III. 14.) Korm. rendelet 42. §-a a következő (5) bekezdéssel egészül ki:
+5. §[^6]
 
-„(5) Nyilvános ingatlanalap nem bocsáthat ki kötvényt.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

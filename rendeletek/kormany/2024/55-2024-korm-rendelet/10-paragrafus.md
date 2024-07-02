@@ -1,1 +1,3 @@
-10. § Hatályát veszti a 78/2014. (III. 14.) Korm. rendelet 1. mellékletében foglalt táblázat 13. sora.
+10. §[^11]
+
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
