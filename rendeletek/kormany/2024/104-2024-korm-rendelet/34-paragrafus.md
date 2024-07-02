@@ -1,5 +1,5 @@
 ## 26. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-34. § A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet (a továbbiakban: R9.) 3. §-a a következő (2a) bekezdéssel egészül ki:
+34. §[^38]
 
-„(2a) A kormányhivatal 17. § (1) és (3) bekezdésében meghatározott eljárásaiban az ügyintézési határidő 15 nap.”
+[^38]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

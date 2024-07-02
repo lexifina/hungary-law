@@ -1,1 +1,3 @@
-16. § Az R5. 11. § (1) bekezdésében a „tizenöt” szövegrész helyébe a „nyolc” szöveg lép.
+16. §[^20]
+
+[^20]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

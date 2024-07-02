@@ -1,1 +1,3 @@
-33. § Az R8. 1. melléklete a 6. melléklet szerint módosul.
+33. §[^37]
+
+[^37]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

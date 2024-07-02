@@ -1,1 +1,3 @@
-35. § Az R9. 3. § (2) bekezdés c) pontjában az „ügyintézési határidő” szövegrész helyébe az „ügyintézési határidő – a (2a) bekezdésben foglaltak kivételével –” szöveg lép.
+35. §[^39]
+
+[^39]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-29. § Az R7. 10. § (2) bekezdésében az „5 évre” szövegrész helyébe a „határozatlan időtartamra” szöveg lép.
+29. §[^33]
+
+[^33]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

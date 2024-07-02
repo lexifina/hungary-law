@@ -1,5 +1,3 @@
-30. § Hatályát veszti az R7.
+30. §[^34]
 
-a) 11. § (2) bekezdés c) pontja,
-
-b) 15. §-a.
+[^34]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
