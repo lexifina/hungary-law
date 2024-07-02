@@ -1,1 +1,3 @@
-1. § Az örökbefogadás előtti tanácsadásról és az örökbefogadói tanfolyamról szóló 3/2022. (XII. 28.) KIM rendelet 9. § (7) bekezdés a) pontjában az „időszakban,” szövegrész helyébe az „időszakban, illetve” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
