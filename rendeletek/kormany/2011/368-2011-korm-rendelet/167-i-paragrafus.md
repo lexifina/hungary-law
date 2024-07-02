@@ -1,1 +1,0 @@
-167/I. § A törzskönyvi jogi személy korábbi adatai visszakereshetőségének biztosítása érdekében a törzskönyvi nyilvántartás adatait a Kincstár húsz évig archiválja. A törzskönyvi okiratot a Kincstár húsz évig őrzi meg.
