@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 59. § (1) bekezdésében az „ügyiratdarab” szövegrész helyébe az „irat” szöveg,
-
-b) 64. § (1) bekezdésében az „ügyiratok” szövegrész helyébe az „ügyiratok, valamint a szerv működése szempontjából érdemi adatot tartalmazó nyilvántartott iratok” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

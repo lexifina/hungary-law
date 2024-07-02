@@ -1,3 +1,3 @@
-3. § Az R. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(1) A közfeladatot ellátó szerv feladat- és hatáskörébe tartozó ügyek intézésének áttekinthetősége érdekében az azonos ügyre vonatkozó iratokat egy irategységként, ügyiratként kell kezelni. A több fázisban intézett ügyek egyes fázisaiban keletkezett iratokat ügyiraton belüli irategységként kell kezelni.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

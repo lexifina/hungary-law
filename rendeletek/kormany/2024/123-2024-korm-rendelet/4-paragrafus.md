@@ -1,3 +1,3 @@
-4. § Az R. 61. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(2) A feleslegessé vált példányokat, másolatokat és érdemi adatot nem tartalmazó munkaanyagokat az ügyiratból ki kell emelni és a selejtezési eljárás mellőzésével, az iratkezelési szabályzatban meghatározott eljárásrend szerint meg kell semmisíteni.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

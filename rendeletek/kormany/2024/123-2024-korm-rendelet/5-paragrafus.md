@@ -1,3 +1,3 @@
-5. § Az R. 64. § (2) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(2) Az iratselejtezést legalább évente egyszer kell elvégezni, amelyről az illetékes közlevéltárral egyeztetett formában és tartalommal elkészített selejtezési jegyzőkönyvet az iratkezelés felügyeletét ellátó vezető jóváhagyását követően az illetékes levéltárhoz kell továbbítani a selejtezés engedélyezése végett. A selejtezési jegyzőkönyvet évente legfeljebb négy alkalommal köteles az illetékes közlevéltár fogadni, amelytől indokolt esetben a szervvel történt egyeztetés alapján eltérhet.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
