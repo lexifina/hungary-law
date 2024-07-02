@@ -1,7 +1,3 @@
-1. § A muzeális intézmények nyilvántartási szabályzatáról szóló 20/2002. (X. 4.) NKÖM rendelet
+1. §[^2]
 
-a) 5. § (1) bekezdés i) pontjában a „nyilvántartására;” szövegrész helyébe a „nyilvántartására; valamint” szöveg,
-
-b) 5. § (2) bekezdés b) pontjában a „fénykép-leltárkönyv,” szövegrész helyébe a „fénykép-leltárkönyv, valamint” szöveg
-
-lép.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
