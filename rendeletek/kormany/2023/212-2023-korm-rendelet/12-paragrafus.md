@@ -1,5 +1,5 @@
 ## 8. Az Arany János Programok megvalósítását szolgáló támogatás és ösztöndíjtámogatás rendjéről és feltételeiről szóló 204/2020. (V. 14.) Korm. rendelet módosítása
 
-12. §[^15]
+12. §[^13]
 
-[^15]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
