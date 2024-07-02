@@ -1,9 +1,5 @@
 ## 2. A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet módosítása
 
-2. § A személyes gondoskodást nyújtó szociális intézmények szakmai feladatairól és működésük feltételeiről szóló 1/2000. (I. 7.) SZCSM rendelet
+2. §[^3]
 
-a) 21. § (2) bekezdésében az „a szakorvos” szövegrész helyébe az „az orvos” szöveg,
-
-b) 111/A. § (5) bekezdésében a „kétévente” szövegrész helyébe az „öt évente” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

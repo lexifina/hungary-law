@@ -1,5 +1,3 @@
-8. § Hatályát veszti az R1.
+8. §[^9]
 
-a) 4. § (1) bekezdés b) pont bc) alpontja,
-
-b) 7. § (5) bekezdése.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

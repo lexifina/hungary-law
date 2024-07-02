@@ -1,1 +1,3 @@
-7. § Az R1. 4. § (1) bekezdés b) pontjában a „ba)–bc)” szövegrész helyébe a „ba) és bb)” szöveg lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-5. § Az R1. 7. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+5. §[^6]
 
-„(1) A nyilvántartó igazolást állít ki a működési nyilvántartásba vételről.
-
-(2) A nyilvántartásba vételről szóló igazolás a működési nyilvántartásból való törlésig érvényes.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
