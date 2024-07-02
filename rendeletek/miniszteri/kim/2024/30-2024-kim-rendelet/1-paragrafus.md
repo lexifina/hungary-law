@@ -1,1 +1,3 @@
-1. § A 2023/2024. tanév szakképzésben alkalmazandó rendjéről szóló 7/2023. (VIII. 24.) KIM rendelet 1. § (2) bekezdés b) pontjában az „eszköztudás” szövegrész helyébe az „eszköztudásának” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
