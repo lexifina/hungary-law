@@ -1,3 +1,3 @@
-23. § A belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló 437/2015. (XII. 28.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+23. §[^3]
 
-„1. § E rendelet hatálya kiterjed a munkáltatókra és – a hivatásos, a szerződéses és a tényleges szolgálatot teljesítő önkéntes tartalékos katonák kivételével – a velük az adózás rendjéről szóló 2017. évi CL. törvény 7. § 38. pontja szerinti munkaviszonyban álló munkavállalóra, kivéve, ha törvény, kormányrendelet vagy törvény felhatalmazása alapján kiadott miniszteri rendelet a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítésére eltérő szabályt állapít meg.”
+[^3]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

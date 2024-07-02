@@ -1,1 +1,3 @@
-22. § Hatályát veszti a kiegészítő rokkantsági támogatás, a kiegészítő hozzátartozói támogatás és az árvák kiegészítő támogatása megállapításának és folyósításának szabályairól szóló 6/2018. (III. 27.) HM rendelet.
+22. §[^2]
+
+[^2]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
