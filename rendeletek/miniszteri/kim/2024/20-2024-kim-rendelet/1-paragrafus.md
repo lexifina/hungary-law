@@ -1,1 +1,3 @@
-1. § A kulturális szakemberek továbbképzéséről szóló 32/2017. (XII. 12.) EMMI rendelet 4. § (2) bekezdés b) pontjában a „típusát,” szövegrész helyébe a „típusát és” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
