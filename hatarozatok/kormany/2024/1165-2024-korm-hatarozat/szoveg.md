@@ -14,6 +14,7 @@ bc) az ingatlan művelési ága tekintetében a beruházás rendeltetésének me
 
 3. A 4. pont 2024. július 1. napján lép hatályba.
 
-4. A határozat 1. pont a) alpontjában a „01789/3, 01789/5,” szövegrész helyébe a „01789/3, 01789/4, 01789/5,” szöveg lép.
+4.[^2]
 
 [^1]: Az 1. pont a) alpontja a 4. pont szerint módosított szöveg.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
