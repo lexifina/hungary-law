@@ -1,1 +1,3 @@
-3. § Hatályát veszti a 282/2007. (X. 26.) Korm. rendelet 4. számú mellékletében foglalt táblázat 5. pont 2. alpontjában a „Magyar Természettudományi Múzeum” és az „Országos Széchényi Könyvtár” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

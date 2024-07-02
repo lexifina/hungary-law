@@ -1,9 +1,5 @@
 ## 7. Az olvasási képességet érintő fogyatékossággal élő kedvezményezett személyek javára végezhető szabad felhasználás részletes szabályairól szóló 198/2018. (X. 25.) Korm. rendelet módosítása
 
-9. § Az olvasási képességet érintő fogyatékossággal élő kedvezményezett személyek javára végezhető szabad felhasználás részletes szabályairól szóló 198/2018. (X. 25.) Korm. rendelet
+9. §[^10]
 
-a) 3. § (2) bekezdésében az „az Országos Széchényi Könyvtár” szövegrészek helyébe az „a Magyar Nemzeti Múzeum Közgyűjteményi Központ” szöveg,
-
-b) 4. § (1) bekezdés nyitó szövegrészében és 4. § (2) bekezdésében az „Az Országos Széchényi Könyvtár” szövegrész helyébe az „A Magyar Nemzeti Múzeum Közgyűjteményi Központ” szöveg
-
-lép.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,9 +1,5 @@
 ## 5. A muzeális intézmények működési engedélyéről szóló 376/2017. (XII. 11.) Korm. rendelet módosítása
 
-6. § A muzeális intézmények működési engedélyéről szóló 376/2017. (XII. 11.) Korm. rendelet
+6. §[^7]
 
-a) 12. § (2) bekezdés a) pontjában a „Magyar Természettudományi Múzeumot” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központot” szöveg,
-
-b) 12. § (2) bekezdés c) pontjában a „Magyar Nemzeti Múzeumot” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központot” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 4. A régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló 439/2013. (XI. 20.) Korm. rendelet módosítása
 
-5. § A régészeti örökséggel és a műemléki értékkel kapcsolatos szakértői tevékenységről szóló 439/2013. (XI. 20.) Korm. rendelet 9. § (3) bekezdés c) pont cc) alpontjában és 2. mellékletében foglalt táblázat 4.3. pontjában a „Magyar Nemzeti Múzeum” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központ” szöveg lép.
+5. §[^6]
+
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
