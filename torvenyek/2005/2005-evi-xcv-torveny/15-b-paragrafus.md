@@ -1,4 +1,4 @@
-15/B. § (1) Valamely anyag vagy vegyületcsoport a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról szóló 2006. december 12-i 1920/2006/EK európai parlamenti és tanácsi rendelet 5a. cikke szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
+15/B. § (1) Valamely anyag vagy vegyületcsoport az Európai Unió Kábítószer-ügynökségéről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) szerinti értesítés (a továbbiakban: értesítés) előzetes szakmai értékelését követően minősíthető új pszichoaktív anyaggá.
 
 (2) Az új pszichoaktív anyaggá minősített anyagokat vagy vegyületcsoportokat az egészségügyért felelős miniszter rendeletében állapítja meg.
 
