@@ -1,1 +1,3 @@
-1. § Hatályát veszti az egyes megyei hatókörű városi könyvtárak regionális feladatellátásáról és illetékességi területéről szóló 48/2020. (XII. 23.) EMMI rendelet 4. § (2) bekezdése.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
