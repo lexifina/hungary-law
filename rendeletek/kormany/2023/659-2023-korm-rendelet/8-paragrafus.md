@@ -1,3 +1,3 @@
-8. § A 217/1997 (XII. 1.) Korm. rendelet 14. § (5) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(5) A 24–25. § szerinti szerződéseket a NEAK a szolgáltató székhelye szerint köti meg.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
