@@ -1,9 +1,3 @@
-26. § Hatályát veszti a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet
+26. §[^20]
 
-a) 7. § (4) bekezdésében az „A Magyar Állam a bejegyzett elidegenítési és terhelési tilalom jogáról nem mondhat le.” szövegrész,
-
-b) 13. § (1) bekezdés a) pontjában a „vagy a befektetési jegy forgalmazójának” szövegrész,
-
-c) 13. § (2) bekezdésében az „A Magyar Állam a bejegyzett elidegenítési és terhelési tilalom jogáról nem mondhat le.” szövegrész,
-
-d) 30. alcíme.
+[^20]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

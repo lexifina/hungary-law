@@ -1,3 +1,3 @@
-21. §[^5]
+21. §[^15]
 
-[^5]: A 21. § a 27. § (2) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.
+[^15]: A 21. § a 27. § (2) bekezdése alapján az (EU) 2017/2226 európai parlamenti és tanácsi rendelet 66. cikk (1) bekezdése szerinti bizottsági határozatban meghatározott napon lép hatályba.

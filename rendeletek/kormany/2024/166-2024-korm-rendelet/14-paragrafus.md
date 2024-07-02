@@ -1,5 +1,5 @@
 ## 6. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet módosítása
 
-14. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 7. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+14. §[^8]
 
-(A vendégbefektetői vízumkérelemhez a harmadik országbeli állampolgárnak a beutazás és tartózkodás céljának igazolása érdekében mellékelni kell:)
+[^8]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

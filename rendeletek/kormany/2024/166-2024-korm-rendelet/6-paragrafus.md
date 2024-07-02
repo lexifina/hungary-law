@@ -1,5 +1,5 @@
 ## 3. A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet módosítása
 
-6. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 2. §-a a következő 36–38. ponttal egészül ki:
+6. §[^3]
 
-(E rendelet alkalmazásában:)
+[^3]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

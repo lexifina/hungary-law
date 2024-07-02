@@ -1,7 +1,3 @@
-16. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény végrehajtásáról szóló 35/2024. (II. 29.) Korm. rendelet 15. §-a a következő (3a) bekezdéssel egészül ki:
+16. §[^10]
 
-„(3a) A (3) bekezdés b) pontja szerinti megállapodást nem kell a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély iránti kérelemhez mellékelni, ha a harmadik országbeli állampolgár foglalkoztatója
-
-a) a Paksi Atomerőmű kapacitásának fenntartásával kapcsolatos beruházásról, valamint az ezzel kapcsolatos egyes törvények módosításáról szóló 2015. évi VII. törvényben (a továbbiakban: 2015. évi VII. törvény) meghatározott fővállalkozó, vagy annak a 2015. évi VII. törvény szerinti alvállalkozója (ideértve az alvállalkozó 2015. évi VII. törvény 2. § a) pontja szerinti alvállalkozóját is), vagy
-
-b) a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztéséről, kivitelezéséről és finanszírozásáról szóló 2020. évi XXIX. törvényben (a továbbiakban: 2020. évi XXIX. törvény) meghatározott fővállalkozó, vagy annak a Magyarország Kormánya és a Kínai Népköztársaság Kormánya között a Budapest–Belgrád vasútvonal újjáépítési beruházás magyarországi szakaszának fejlesztése, kivitelezése és finanszírozása kapcsán született Egyezmény kihirdetéséről szóló 2016. évi XXIV. törvény szerinti alvállalkozója.”
+[^10]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
