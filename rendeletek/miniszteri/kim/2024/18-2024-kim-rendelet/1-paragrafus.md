@@ -1,1 +1,3 @@
-1. § A közművelődési feladatellátás országos szakfelügyeletéről szóló 5/2015. (I. 22.) EMMI rendelet 4. § (1) bekezdés j) pontjában a „dokumentumokat,” szövegrész helyébe a „dokumentumokat, valamint” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
