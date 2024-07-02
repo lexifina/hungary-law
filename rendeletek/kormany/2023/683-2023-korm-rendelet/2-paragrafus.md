@@ -1,5 +1,3 @@
-## „e) a stratégiai eszközallokáció eszközcsoportonkénti cél-, minimum és maximum arányai, valamint a célarányokhoz rendelt, az adott eszközcsoportra jellemző referenciaindexek, amelyek súlyarányának összhangban kell állnia a vonatkozó célarányokkal.”
+2. §[^3]
 
-2. § Az Ebr. 13. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A pénztárnak az eszközök megvásárlásakor, illetve legalább a tárgyhó utolsó napjára vonatkozóan tájékoztatnia kell a letétkezelőt arról, hogy melyik eszközöket rendeli a fedezeti alap portfóliójához. Amennyiben a pénztár házipénztára, pénzforgalmi számlája (vagy annak valamely elkülönített alszámlája) vagy lekötött betéte több alap között van megosztva, közölnie kell a letétkezelővel, hogy ezekből mekkora állomány tartozik a fedezeti alaphoz. A pénztárnak olyan naprakész analitikus nyilvántartást kell vezetnie, amelyből – a függő tételek figyelmen kívül hagyásával – munkanaponként egyértelműen megállapítható, hogy az egyes eszközök melyik alaphoz tartoznak. A pénztár minden hónap 15. napján, illetve ha az nem munkanapra esik, akkor az azt követő első munkanapon tájékoztatja a letétkezelőt a fedezeti, a működési és a likviditási alap tárgyhónapot megelőző hónap végi pénzeszközeiről, valamint a függő tételekről.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

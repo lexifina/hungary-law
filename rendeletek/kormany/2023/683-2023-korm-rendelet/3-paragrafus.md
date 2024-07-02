@@ -1,3 +1,3 @@
-3. § Az Ebr. 14. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Amennyiben a pénztár tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya meghaladja a 100 millió forintot, úgy a pénztár a vagyonkezelést abban az esetben végezheti vagyonkezelő megbízása nélkül önállóan, ha)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
