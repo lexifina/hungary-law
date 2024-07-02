@@ -1,1 +1,3 @@
-1. § Hatályát veszti a veszélyhelyzet ideje alatt a harmadik országbeli állampolgárok magyarországi foglalkoztatására vonatkozó különleges szabályokról szóló 320/2022. (VIII. 18.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
