@@ -1,1 +1,3 @@
-1. § Hatályát veszti a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozókra vonatkozó egyes veszélyhelyzeti intézkedésekről szóló 8/2023. (I. 17.) Korm. rendelet.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
