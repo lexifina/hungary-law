@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-113-20-
 | 2024-05-18 | 2024-113-20-22.1 | 113/2024. (V. 14.) Korm. rendelet |
 | 2024-05-19 | 2024-113-20-22.2 | 2010. évi CXXX. törvény |
 | 2024-07-01 | 2024-113-20-22.3 | 138/2024. (VI. 28.) Korm. rendelet |
+| 2024-07-02 | 2024-113-20-22.4 | 2010. évi CXXX. törvény |
