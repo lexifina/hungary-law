@@ -1,3 +1,3 @@
-1. § A turisztikai térségek fejlesztésének állami feladatairól szóló törvény végrehajtásáról szóló 235/2019. (X. 15.) Korm. rendelet 13. §-a helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„13. § A Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság jogosult a szálláshely-szolgáltatók, a vendéglátó üzlet üzemeltetők és a turisztikai attrakció üzemeltetők által átadott statisztikai adatokat a turizmusfejlesztést segítő kutatási, fejlesztési feladataihoz felhasználni, az adatokat a turizmusért felelős miniszter és a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlása alatt álló gazdasági társaságok részére átadni, valamint a rendelkezésére álló adatokból szakmai összefoglalókat, helyzetjelentéseket, értékeléseket, valamint előrejelzéseket készíteni, és ezeket – azonosításra alkalmatlan formában – nyilvánosságra hozni.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
