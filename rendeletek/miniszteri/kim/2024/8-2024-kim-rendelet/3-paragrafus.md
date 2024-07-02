@@ -1,3 +1,3 @@
-3. § A Rendelet 12. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„12. § A szakfelügyelet éves tevékenységének tapasztalatairól a vezető szakfelügyelő jelentést készít, azt a tárgyévet követő év március 31-ig megküldi a miniszternek, valamint a Magyar Nemzeti Levéltár honlapján nyilvánosságra hozza.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
