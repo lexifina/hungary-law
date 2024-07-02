@@ -1,1 +1,3 @@
-1. § A Nemzeti Kulturális Alapról szóló 1993. évi XXIII. törvény végrehajtásáról szóló 9/2006. (V. 9.) NKÖM rendelet 1. §-ában az „Az Alap” szövegrész helyébe az „A Nemzeti Kulturális Alap (a továbbiakban: Alap)” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
