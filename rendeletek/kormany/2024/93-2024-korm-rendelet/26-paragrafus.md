@@ -1,3 +1,3 @@
-26. §[^28]
+26. §[^30]
 
-[^28]: A 26. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+[^30]: A 26. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.

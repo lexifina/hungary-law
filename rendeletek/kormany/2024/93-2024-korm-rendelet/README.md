@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-93-20-2
 | 2024-05-24 | 2024-93-20-22.5 | 2010. évi CXXX. törvény |
 | 2024-05-25 | 2024-93-20-22.6 | 2010. évi CXXX. törvény |
 | 2024-07-01 | 2024-93-20-22.12 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-07-02 | 2024-93-20-22.13 | 2010. évi CXXX. törvény |
