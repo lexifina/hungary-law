@@ -1,9 +1,3 @@
-2. § Az R.
+2. §[^3]
 
-a) 9. §-ában a „vagyonkezelője” szövegrész helyébe a „vagyonkezelője vagy a vagyonkezelő tulajdonosának” szöveg;
-
-b) 10. § (2) bekezdésében a „funkciójú épület, továbbá szabadidő eltöltését szolgáló épület” szövegrész helyébe a „funkciójú, továbbá szabadidő eltöltését szolgáló vagy turisztikai, kereskedelmi célú építmény” szöveg;
-
-c) 1. mellékletében foglalt táblázat D:2 és D:3 mezőjében a „2025” szövegrészek helyébe a „2026” szöveg
-
-lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
