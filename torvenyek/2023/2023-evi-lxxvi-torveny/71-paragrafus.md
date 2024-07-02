@@ -4,8 +4,8 @@
 
 (2) Nem lép hatályba a 2023. évi XXVIII. törvény
 
-a) 5. § (3) bekezdése,
+a)
 
 b)
 
-(3) Hatályát veszti a 2023. évi XXVIII. törvény 24. § (5) bekezdése.
+(3)
