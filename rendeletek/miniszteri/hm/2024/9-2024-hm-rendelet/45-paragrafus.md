@@ -1,1 +1,3 @@
-45. § Hatályát veszti a katonai szolgálatra való egészségi, pszichikai és fizikai alkalmasságról, valamint a felülvizsgálati eljárásról szóló 10/2015. (VII. 30.) HM rendelet.
+45. §[^3]
+
+[^3]: A 45. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
