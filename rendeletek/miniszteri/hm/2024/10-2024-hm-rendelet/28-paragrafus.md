@@ -1,1 +1,3 @@
-28. § Hatályát veszti a honvédelmi egészségkárosodási ellátással kapcsolatos eljárásrendről szóló 24/2016. (XII. 22.) HM rendelet.
+28. §[^2]
+
+[^2]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
