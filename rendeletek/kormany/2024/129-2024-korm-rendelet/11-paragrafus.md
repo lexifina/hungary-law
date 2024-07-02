@@ -1,3 +1,3 @@
-11. § Az Szkr. 275. §-a helyébe a következő rendelkezés lép:
+11. §[^11]
 
-„275. § Az akkreditált szakképzési vizsgaközpontot, a vizsgafelügyelőt, a vizsgabizottság tagjait és a szakmai vizsga jegyzőjét a vizsgaeredmények tekintetében azok kihirdetéséig titoktartási kötelezettség terheli.”
+[^11]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

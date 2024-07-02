@@ -1,3 +1,3 @@
-12. § Az Szkr. 290. § (6) bekezdése helyébe a következő rendelkezés lép:
+12. §[^12]
 
-„(6) A szakmai vizsga eredményét az akkreditált szakképzési vizsgaközpont a szakmai vizsga utolsó napját követő 5 munkanapon belül hirdeti ki, és sikeres vizsga esetén átadja a bizonyítványt.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

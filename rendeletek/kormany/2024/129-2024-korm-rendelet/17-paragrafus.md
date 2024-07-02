@@ -1,5 +1,3 @@
-17. § Az Szkr.
+17. §[^17]
 
-a) 1. melléklete az 1. melléklet szerint módosul,
-
-b) a 2. melléklet szerinti 7. melléklettel egészül ki.
+[^17]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

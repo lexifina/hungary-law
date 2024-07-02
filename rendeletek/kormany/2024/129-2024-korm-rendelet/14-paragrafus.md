@@ -1,9 +1,3 @@
-14. § (1) Az Szkr. 298. § (1) bekezdése a következő e) ponttal egészül ki:
+14. §[^14]
 
-(A szakképzésért felelős miniszter)
-
-## „e) végzi a tanuló, illetve a képzésben részt vevő személy korábbi tanulmányainak, megszerzett ismereteinek és előzetes gyakorlatának beszámítását segítő tevékenységet.”
-
-(2) Az Szkr. 298. § (3) bekezdése a következő f) ponttal egészül ki:
-
-(A szakképzésért felelős miniszter az Szkt.)
+[^14]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

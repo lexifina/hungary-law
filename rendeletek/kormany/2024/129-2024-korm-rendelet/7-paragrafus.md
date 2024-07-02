@@ -1,3 +1,3 @@
-7. § Az Szkr. 269. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+7. §[^7]
 
-(A vizsgatörzslap belíve tartalmazza)
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
