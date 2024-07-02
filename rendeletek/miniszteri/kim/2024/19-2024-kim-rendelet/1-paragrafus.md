@@ -1,3 +1,3 @@
-1. § A közlevéltárak és a nyilvános magánlevéltárak tevékenységével összefüggő szakmai követelményekről szóló 27/2015. (V. 27.) EMMI rendelet (a továbbiakban: R.) 2. §-a a következő 18a. ponttal egészül ki:
+1. §[^1]
 
-(E rendelet alkalmazásában)
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

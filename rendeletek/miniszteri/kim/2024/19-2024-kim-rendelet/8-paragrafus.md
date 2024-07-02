@@ -1,3 +1,3 @@
-8. § Az R. 41. §-a a következő (6) bekezdéssel egészül ki:
+8. §[^8]
 
-„(6) Az Ltv. 24. § (3) bekezdése szerinti támogatói állásfoglalást a levéltárnak a miniszter által a kormányzati honlapon közzétett formanyomtatvány alkalmazásával kell benyújtani. Az állásfoglalást a levéltár hitelesített másolatként őrzi meg, eredeti példányát a másolat elkészítését követően a benyújtó részére visszaszolgáltatja.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
