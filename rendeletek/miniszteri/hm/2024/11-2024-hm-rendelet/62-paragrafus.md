@@ -1,1 +1,3 @@
-62. § Hatályát veszti a béketámogató műveletek keretében teljesített külföldi szolgálat ellátása során felmerült fegyelmi kérdésekkel kapcsolatos különös szabályokról szóló 14/2006. (IV. 20.) HM rendelet.
+62. §[^1]
+
+[^1]: A 62. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
