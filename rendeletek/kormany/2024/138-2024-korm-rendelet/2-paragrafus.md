@@ -1,1 +1,3 @@
-2. § Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet [a továbbiakban: 309/2011. (XII. 23.) Korm. rendelet] 3. melléklet 37. pontja.
+2. §[^2]
+
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

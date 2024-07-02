@@ -1,1 +1,3 @@
-4. § Hatályát veszti a 84/2012. (IV. 21.) Korm. rendelet 7. § (1)–(2) bekezdése.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
