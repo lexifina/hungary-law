@@ -1,3 +1,3 @@
-6. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^97]
+6. melléklet a 717/2021. (XII. 20.) Korm. rendelethez[^96]
 
-[^97]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

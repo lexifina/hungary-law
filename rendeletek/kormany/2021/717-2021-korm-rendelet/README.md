@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-717-20-
 | 2023-01-02 | 2021-717-20-22.8 | 2010: CXXX. törvény |
 | 2023-09-01 | 2021-717-20-22.9 | 618/2022. (XII. 29.) Korm. rendelet |
 | 2024-07-01 | 2021-717-20-22.10 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-07-02 | 2021-717-20-22.11 | 2010: CXXX. törvény |
