@@ -2,7 +2,7 @@
 
 4. § (1) E törvény
 
-a)
+a) 39. §-a az Európai Unió Kábítószer-ügynökségéről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése,
 
 b)
 

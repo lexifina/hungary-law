@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-29-00-00
 | 2024-06-28 | 1/2024. (VII. 31.) NGM határozat | 2024-29-00-00.31 |
 | 2024-06-29 | 2010. évi CXXX. törvény | 2024-29-00-00.32 |
 | 2024-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-29-00-00.5 |
+| 2024-07-02 | 2010. évi CXXX. törvény | 2024-29-00-00.6 |
