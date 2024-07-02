@@ -1,11 +1,3 @@
-10. § (1) Az R1. 5. § (1) bekezdése a következő b) ponttal egészül ki:
+10. §[^11]
 
-(A Kormány környezetvédelmi hatóságként)
-
-## „b) a Pest Vármegyei Kormányhivatalt,”
-
-## (jelöli ki.)
-
-(2) Az R1. 5. § (1) bekezdése a következő l) ponttal egészül ki:
-
-(A Kormány környezetvédelmi hatóságként)
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

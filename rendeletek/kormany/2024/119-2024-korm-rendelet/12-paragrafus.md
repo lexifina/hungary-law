@@ -1,3 +1,3 @@
-12. § Az R1. 8. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő b) ponttal egészül ki:
+12. §[^13]
 
-(A Kormány környezetvédelmi igazgatási szervként)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
