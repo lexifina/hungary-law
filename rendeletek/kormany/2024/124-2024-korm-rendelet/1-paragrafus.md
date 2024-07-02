@@ -1,5 +1,5 @@
 ## 1. Az egyes egyszer használatos, valamint egyes egyéb műanyagtermékek forgalomba hozatalának korlátozásáról szóló 301/2021. (VI. 1.) Korm. rendelet módosítása
 
-1. § Az egyes egyszer használatos, valamint egyes egyéb műanyagtermékek forgalomba hozatalának korlátozásáról szóló 301/2021. (VI. 1.) Korm. rendelet a következő 6/A. §-sal egészül ki:
+1. §[^2]
 
-„6/A. § Az 1. melléklet hatálya alá nem tartozó italtartó pohár – beleértve annak tetejét és fedelét is – 2026. június 30. napjáig a 2024. július 1. napját megelőzően hatályos rendelkezések alapján forgalomba hozható.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
