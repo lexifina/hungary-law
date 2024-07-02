@@ -22,11 +22,13 @@ h) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat 
 
 i) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 
-j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot
+j) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
 
-k) Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság
+k) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
 
-[az a)–k) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
+l) az adósságrendezési eljárás alatt álló önkormányzatok, az adósságrendezési eljárás során és az adósságrendezési eljárás jogerős befejezését követő két évig
+
+[az a)–l) pont a továbbiakban együtt: kincstári körön kívüli számlatulajdonosok].
 
 (2a) A kincstári körön kívüli számlatulajdonos kérelmére a (2) bekezdésben meghatározott kötelezettség teljesítése alól az államháztartásért felelős miniszter teljeskörűen vagy meghatározott feladatok ellátásához kapcsolódóan felmentést adhat. A felmentés nem terjedhet ki az 51. § (4) bekezdése szerinti előírások alapján kizárólag a kincstárnál vezethető fizetési számlára.
 

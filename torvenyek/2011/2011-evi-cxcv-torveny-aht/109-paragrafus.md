@@ -30,7 +30,7 @@
 
 12. a költségvetési felügyelő megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, feladatait, intézkedéseit, a 39. § (2) bekezdés szerinti nagy összegű kötelezettségvállalás fogalmát, a költségvetési felügyelő tevékenységével, helyettesítésével, beszámolásával kapcsolatos szabályokat,
 
-13.
+13. a költségvetési biztos megbízásának feltételeit, módját, az ezzel kapcsolatos kizárási, összeférhetetlenségi okokat és körülményeket, a költségvetési biztos feladatait, intézkedéseit, a költségvetési biztos tevékenységével, helyettesítésével, kapcsolatos szabályokat,
 
 14. a személyi juttatások felhasználásának korlátait, a kezelt állami vagyonnal való gazdálkodás államháztartási szempontú sajátos előírásait, valamint a költségvetési szervek vállalkozási tevékenysége végzésének és a vállalkozási maradvány megállapításának, felhasználásának részletszabályait,
 

@@ -1,0 +1,1 @@
+111/P. § E törvénynek a helyi önkormányzatok adósságrendezési eljárásával összefüggő törvények módosításáról szóló 2023. évi CXIV. törvénnyel megállapított 39/A. §-át és a 2011. évi CXCV. törvény 79. § (2) bekezdés l) pontját a 2024. július 2-át követően indult adósságrendezési eljárásokban kell alkalmazni.
