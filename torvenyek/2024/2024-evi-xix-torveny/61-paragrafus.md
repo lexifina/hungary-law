@@ -1,3 +1,1 @@
-61. § A Földforgalmi tv. 18. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A közös tulajdonban álló föld esetében a tulajdonostárs tulajdoni hányada egészének vagy egy részének eladása esetében az (1) bekezdés b)–e) pontjában, valamint a (2) bekezdésben meghatározott földműveseket – az elővásárlásra jogosultak sorrendjében – megelőzi az adásvételi szerződés megkötésekor legalább 3 éve tulajdoni hányaddal rendelkező földműves tulajdonostárs. Házastársi közös vagyon megosztása esetén a 3 évbe beszámít azon időtartam is, amely alatt a közös vagyonba tartozó ingatlanrész az elővásárlási jogával élni kívánó tulajdonostárs házastársának tulajdonát képezte. Ha a földműves tulajdonostárs a tulajdonrészét öröklés jogcímen szerezte, a 3 évbe beszámít azon időtartam is, amely alatt tulajdonrésze az örökhagyó tulajdonát képezte.”
+### 61. §
