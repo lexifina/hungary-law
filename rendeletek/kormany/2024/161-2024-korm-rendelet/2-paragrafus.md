@@ -1,3 +1,3 @@
-2. § Az R. a következő 71. §-sal egészül ki:
+2. §[^3]
 
-„71. § E rendeletnek az egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokkal összefüggő kormányrendeletek módosításáról szóló 83/2021. (II. 23.) Korm. rendelet módosításáról szóló 161/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Módr63.) módosított 3. § (3) bekezdését és megállapított 6/F. § (6) bekezdését a Módr63. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

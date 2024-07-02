@@ -1,1 +1,3 @@
-3. § Az R. 3. § (3) bekezdésében a „61., 68.,” szövegrész helyébe a „61., 66., 68.,” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
