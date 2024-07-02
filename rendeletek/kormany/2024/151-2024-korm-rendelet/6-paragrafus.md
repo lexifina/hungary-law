@@ -1,13 +1,3 @@
-6. § (1) A Rendelet2. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+6. §[^6]
 
-„(2) Ha az ösztöndíjas a hallgatói jogviszonyát megszünteti, részére a továbbiakban az ösztöndíj nem folyósítható. A hallgatói jogviszony visszamenőleges szüneteltetése esetén a szüneteltetett félévre kifizetett ösztöndíj tekintetében az ösztöndíjast visszafizetési kötelezettség terheli.”
-
-(2) A Rendelet2. 7. §-a a következő (3) és (4) bekezdéssel egészül ki:
-
-„(3) Ha a javaslattételt követően az ösztöndíjra javasolt sportoló ellen sportfegyelmi vagy doppingeljárás indul, azt 8 napon belül a szakszövetség bejelenti a 2. § (2) bekezdése szerinti testület felé. A bejelentéssel érintett sportoló részére a bejelentéssel érintett tanulmányi félévre vonatkozóan, valamint, ha az eljárás során eltiltás vagy kizárás büntetés kiszabására került sor, annak időtartama alatt ösztöndíj nem ítélhető oda.
-
-(4) Ha a (3) bekezdés szerinti bejelentéssel érintett sportoló részére az ösztöndíj már odaítélésre került, annak folyósítását fel kell felfüggeszteni. Ha az ösztöndíjassal szemben az eljárás során
-
-a) sportfegyelmi vagy doppingbüntetés nem került kiszabásra, az erről szóló igazolás kézhezvételét követően a felfüggesztett ösztöndíjat egy összegben folyósítani kell, vagy
-
-b) eltiltás vagy kizárás büntetés kiszabására került sor, az ösztöndíjas az érintett félévben addig folyósított ösztöndíj teljes összegét köteles visszafizetni.”
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
