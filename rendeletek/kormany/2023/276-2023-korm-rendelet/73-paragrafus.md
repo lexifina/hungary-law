@@ -1,3 +1,3 @@
-73. §[^72]
+73. §[^74]
 
-[^72]: A 73. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^74]: A 73. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
