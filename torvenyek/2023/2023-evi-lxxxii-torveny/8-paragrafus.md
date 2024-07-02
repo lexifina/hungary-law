@@ -1,3 +1,1 @@
-8. § A konzuli védelemről szóló 2001. évi XLVI. törvény a következő 23. §-sal egészül ki:
-
-„23. § A tagállamok kormányainak a Tanács keretében ülésező képviselői által 1996. június 25-én elfogadott egy ideiglenes úti okmány létrehozásáról szóló 96/409/KKBP határozat I. mellékletében meghatározott ideiglenes úti okmányok 2024. december 12-ig használhatók fel.”
+### 8. §
