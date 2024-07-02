@@ -1,5 +1,5 @@
 ## 6. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény végrehajtásáról szóló 528/2020. (XI. 28.) Korm. rendelet módosítása
 
-7. §[^1]
+7. §[^8]
 
-[^1]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

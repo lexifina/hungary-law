@@ -1,5 +1,3 @@
-1. melléklet a 165/2024. (VI. 28.) Korm. rendelethez
+1. melléklet a 165/2024. (VI. 28.) Korm. rendelethez[^10]
 
-A 285/2023. (VI. 30.) Korm. rendelet 5. melléklet 1. pont 1.5. alpontja helyébe a következő rendelkezés lép:
-
-„1.5. Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet”
+[^10]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
