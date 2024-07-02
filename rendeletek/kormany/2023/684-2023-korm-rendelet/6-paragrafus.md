@@ -1,3 +1,3 @@
-6. § Az Öbr. a következő 36. §-sal egészül ki:
+6. §[^7]
 
-„36. § Az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási szabályairól szóló 281/2001. (XII. 26.) Korm. rendelet módosításáról szóló 684/2023. (XII. 29.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor tevékenységi engedéllyel rendelkező pénztáraknak 2024. április 1-jétől kell megfelelniük a Módr.-rel megállapított 13. § (4) és (4a) bekezdésének, 15. § (2) bekezdés b) pontjának, 16. § (1) bekezdés f) pontjának, 24. § (2) bekezdésének, 25. § (1) bekezdés c) és d) pontjának, 25. § (3) és (4) bekezdésének, valamint 3. számú mellékletnek.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

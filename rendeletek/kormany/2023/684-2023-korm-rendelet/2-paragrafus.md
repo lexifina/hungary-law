@@ -1,3 +1,3 @@
-2. § Az Öbr. 15. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+2. §[^3]
 
-(A pénztár a vagyonkezelést abban az esetben végezheti vagyonkezelő megbízása nélkül önállóan, ha)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

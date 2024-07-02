@@ -1,17 +1,3 @@
-5. § (1) Az Öbr. 25. § (1) bekezdés c) és d) pontja helyébe a következő rendelkezések lépnek:
+5. §[^6]
 
-(A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles nyilvánosságra hozni:)
-
-## „c) a pénztár fedezeti tartalékának a tárgyévre és az azt megelőző tizenkilenc évre vonatkozó éves nettó és bruttó hozamrátáját a 4. számú mellékletben leírt módszerrel számítva, összehasonlítható szerkezetben, valamint a referenciaindex ugyanazon időszakra vonatkozó éves hozamrátáját, választható portfóliós rendszer működtetése esetén a választható portfóliókra vonatkozó bruttó és nettó hozamrátákat, referencia-hozamrátákat kell nyilvánosságra hozni, megjelölve az egyes portfóliókba befektetett eszközök tárgyév végén kimutatott értékét is,
-
-## d) a választható portfóliós rendszert nem működtető pénztár fedezeti tartalékának tárgyévi záró értékét,”
-
-(2) Az Öbr. 25. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) A pénztár fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § e) pontja szerinti kereskedelmi kommunikációja csak a tíz, tizenöt és húsz naptári év átlagos hozamrátáját és a pénztár ezen rendelet alapján számított tárgyévi hozamrátáját tartalmazhatja. Ha a pénztár kereskedelmi kommunikációja a hozam mértékére hivatkozást tartalmaz, akkor az elmúlt tíz, tizenöt és húsz naptári év átlagos hozamrátáját is fel kell tüntetni a többi hozamrátával azonos méretben. Átlagos hozamrátaként – a nyilvánosságra hozatalt megelőző – tíz, tizenöt és húsz teljes naptári évre vonatkozó, hivatalosan közzétett fedezeti tartalék szintű nettó éves hozamráta mértani átlagát kell meghatározni.
-
-(4) Ha az adott pénztár alapítási időpontja miatt a tíz, tizenöt, illetve húsz teljes naptári évre vonatkozó átlagos nettó hozamráta nem értelmezhető, akkor a pénztár alapítási éve óta eltelt teljes naptári évek (3) bekezdés szerinti módszerrel számított átlagos nettó hozamrátáját kell megjelentetni annak feltüntetésével, hogy az mely időszak adataiból került számításra. Ha a pénztár a nettó hozamrátáját más, előre kiválasztott pénztárakkal, csoporttal kívánja összevetni, az összehasonlításnál a kiválasztott pénztárakra, csoportra is be kell mutatni az elmúlt tíz, tizenöt, illetve húsz év (3) bekezdés szerint számított átlagos nettó hozamrátáját. Csoporttal való összehasonlítás esetében a nyilvánosságra hozatal során a csoport kiválasztási elvét is meg kell határozni. Választható portfóliós rendszer működtetése esetén az egyes portfóliókra vonatkozó, e bekezdésben meghatározott átlagos nettó hozamrátákat kell közölni, a többi hozamrátával azonos méretben, feltüntetve a fedezeti tartalék záró piaci értékének egyes portfóliók közötti megoszlási arányát is a hozamráták vonatkozási időszakának utolsó napján. Ha – a választható portfóliós rendszer indulási időpontjából adódóan – a tíz-, tizenöt, illetve húszéves nettó hozamráta számításához a portfóliónkénti hozamráta nem értelmezhető, akkor az indulás előtti évekre vonatkozóan az átlagos nettó hozamráta számításához – minden portfólió tekintetében – a fedezeti tartalék szintű nettó hozamrátát kell alkalmazni annak feltüntetésével, hogy a fedezeti tartalék nettó hozamrátáját mely időszak tekintetében vették figyelembe.”
-
-(3) Az Öbr. 25. §-a a következő (9) bekezdéssel egészül ki:
-
-„(9) Az internetes honlappal nem rendelkező pénztár az alapszabályát a Felügyelet által üzemeltetett közzétételi helyén közzéteszi. Az alapszabály módosítása esetén a módosított alapszabályt az internetes honlappal nem rendelkező pénztár annak hatálybalépését követően öt napon belül közzéteszi.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

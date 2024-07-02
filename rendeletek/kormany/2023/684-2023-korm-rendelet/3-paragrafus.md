@@ -1,5 +1,3 @@
-## „b) a befektetési politikában rögzítésre kerülnek a saját vagyonkezelésre vonatkozó részletes eljárási szabályok,”
+3. §[^4]
 
-3. § Az Öbr. 16. § (1) bekezdése a következő f) ponttal egészül ki:
-
-(A pénztár befektetési politikáját az igazgatótanács alakítja ki és fogadja el. A befektetési politika kötelező tartalmi elemei a következők:)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
