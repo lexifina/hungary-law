@@ -1,1 +1,3 @@
-1. § A könyvtári állomány ellenőrzéséről (leltározásáról) és az állományból történő törlésről szóló szabályzat kiadásáról szóló 3/1975. (VIII. 17.) KM–PM rendelet 5. § (4) bekezdésében és 11. § (5) bekezdésében a „kulturális” szövegrész helyébe a „kultúráért felelős” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
