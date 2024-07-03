@@ -416,6 +416,8 @@ d) olyan tájékoztatás érkezett, amely azt jelzi, hogy a légijármű kénysz
 
 187. VOR: olyan földön telepített, VHF rádiójeleket használó rádiónavigációs beredezés, amely segítségével a légijárművön lévő berendezés képes megállapítani a VOR-hoz képest mért, szögben kifejezett helyzetét (VHF Omni Directional Radio Range).
 
+188.[^57] műveletszám: azon műveletek összesített számértéke, amely magába foglalja a motorral felszerelt légijárművel történő felszállást, beleértve motoros vagy segédmotoros vitorlázó repülőgép önerőből való felszállását és a motorral felszerelt légijárművel történő leszállást teljes megállással, a motorral felszerelt légijárművel történő talajérintéses átstartolást.
+
 (2) Az e rendeletben nem meghatározott fogalmakat a SERA rendeletben meghatározottak szerint kell alkalmazni.
 
 [^3]: A 3. § (1) bekezdés 2. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (1) bekezdésével megállapított szöveg.
@@ -472,3 +474,4 @@ d) olyan tájékoztatás érkezett, amely azt jelzi, hogy a légijármű kénysz
 [^54]: A 3. § (1) bekezdés 171. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
 [^55]: A 3. § (1) bekezdés 172. pontja a 33/2020. (X. 5.) ITM rendelet 36. § (20) bekezdésével megállapított szöveg.
 [^56]: A 3. § (1) bekezdés 177. pontja a 33/2020. (X. 5.) ITM rendelet 60. § (1) bekezdés o) pontja szerint módosított szöveg.
+[^57]: A 3. § (1) bekezdés 188. pontját a 16/2024. (VII. 2.) ÉKM rendelet 22. §-a iktatta be.

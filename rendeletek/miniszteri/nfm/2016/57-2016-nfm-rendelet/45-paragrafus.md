@@ -10,9 +10,9 @@ c) ha az adott nem ellenőrzött repülőtéren AFIS üzemel, a repülőtér for
 
 kell ellátnia.
 
-(2)[^120] Ellenőrzött polgári repülőtéren a helyi kényszerhelyzeti szolgálatok riasztási rendjét Repülőtéri Kényszerhelyzeti Tervben, egyéb repülőtereken helyi előírásban kell szabályozni.
+(2)[^120]
 
 (3) Légiközlekedési baleset észlelése vagy légijármű kényszerhelyzetbe kerülésének észlelése esetén a bajba jutott légi járművek megsegítését, valamint a katasztrófák elleni védekezéssel és a mentéssel összefüggő tevékenységet ellátó légi kutató-mentő szolgálat szervezetéről, működésének, fenntartásának, riasztásának és a mentéssel járó költségek viselésének rendjéről, e tevékenységek engedélyezésére vonatkozó szabályokról szóló kormányrendeletben meghatározott szervezetet kell riasztani.
 
 [^119]: A 45. § (1) bekezdés b) pontja a 33/2020. (X. 5.) ITM rendelet 43. §-ával megállapított szöveg.
-[^120]: A 45. § (2) bekezdése az 55/2017. (XII. 27.) NFM rendelet 106. §-ával megállapított szöveg.
+[^120]: A 45. § (2) bekezdését a 16/2024. (VII. 2.) ÉKM rendelet 25. § b) pontja hatályon kívül helyezte.
