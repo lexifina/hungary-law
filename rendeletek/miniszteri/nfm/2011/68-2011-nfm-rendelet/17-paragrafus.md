@@ -6,7 +6,7 @@
 
 (3) A hatóság a rendelet hatálybalépését követő 30 napon belül tájékoztatja a közlekedésért felelős minisztert az 552/2004/EK európai parlamenti és tanácsi rendelet 5. és 6. cikk (2) bekezdése szerint kijelölt szervezetekről.
 
-(4)[^34] Az egyes légiközlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 9/2024. (IV. 25.) ÉKM rendelet hatálybalépése[^35] napján az 1. mellékletben meghatározott berendezésekre kiadott üzemben tartási engedélyek hatályukat vesztik.
+(4)[^23] Az egyes légiközlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 9/2024. (IV. 25.) ÉKM rendelet hatálybalépése[^24] napján az 1. mellékletben meghatározott berendezésekre kiadott üzemben tartási engedélyek hatályukat vesztik.
 
-[^34]: A 17. § (4) bekezdését a 9/2024. (IV. 25.) ÉKM rendelet 3. §-a iktatta be.
-[^35]: A hatálybalépés időpontja 2024. május 3.
+[^23]: A 17. § (4) bekezdését a 9/2024. (IV. 25.) ÉKM rendelet 3. §-a iktatta be.
+[^24]: A hatálybalépés időpontja 2024. május 3.
