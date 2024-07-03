@@ -1,1 +1,0 @@
-Az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 47. § (2) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 128. § 7. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
