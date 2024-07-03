@@ -10,6 +10,10 @@ ac) az Országos Területrendezési Terv, a kiemelt térség területrendezési 
 
 ad)[^3] a vármegye területrendezési terve, a vármegye térségére készített területrendezési terv;
 
+ae)[^4] a nagytérségi területfejlesztési stratégia,
+
+af)[^5] az együtt kezelendő térség területfejlesztési programja;
+
 b) az a) pontban meghatározott területi tervekhez kapcsolódóan, illetve azoktól függetlenül készült,
 
 ba) az a) pont aa)–ac) alpontja szerinti területi terv megalapozó munkarészei,
@@ -18,22 +22,24 @@ bb) az a) pont ad) alpontja szerinti területi terv megalapozó munkarészei,
 
 bc) a területrendezési tanulmánytervek;
 
-c)[^4] a területrendezési hatósági eljárás során kiadott határozat és a térségi területfelhasználási engedély iránti kérelem, valamint a bírósági határozat;
+c)[^6] a területrendezési hatósági eljárás során kiadott határozat és a térségi területfelhasználási engedély iránti kérelem, valamint a bírósági határozat;
 
 d) a költségvetésből származó pénzeszközökből megvalósuló területfejlesztési és területrendezési célú, vagy ahhoz kapcsolódó területi kutatások dokumentációi;
 
-e)[^5] az Országos Területfejlesztési Érdekegyeztető Fórum, a térségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;
+e)[^7] a térségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;
 
 f) az önkéntesen átadott dokumentációk, gyűjtemények, dokumentumtárak, szakvélemények;
 
-g)[^6] az országos, kiemelt térségi és vármegyei szintű monitoring jelentés, éves elemző jelentés, a területi folyamatok alakulásáról szóló jelentés;
+g)[^8] az országos, kiemelt térségi és vármegyei szintű monitoring jelentés, éves elemző jelentés, a területi folyamatok alakulásáról szóló jelentés;
 
-h)[^7] az országos, kiemelt térségi és vármegyei szintű fejlesztési koncepció, program és terv értékelő, elemző jelentése.
+h)[^9] az országos, kiemelt térségi és vármegyei szintű fejlesztési koncepció, program és terv értékelő, elemző jelentése.
 
 [^1]: Az 1. § a) pont aa) alpontja a 67/2012. (IV. 5.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 107. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § a) pont ab) alpontját a 67/2012. (IV. 5.) Korm. rendelet 26. §-a hatályon kívül helyezte.
 [^3]: Az 1. § a) pont ad) alpontja a 616/2022. (XII. 29.) Korm. rendelet 107. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. § c) pontja a 343/2016. (XI. 17.) Korm. rendelet 11. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 285. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^5]: Az 1. § e) pont a 67/2012. (IV. 5.) Korm. rendelet 25. § (2) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^6]: Az 1. § g) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 107. § c) pontja szerint módosított szöveg.
-[^7]: Az 1. § h) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 107. § c) pontja szerint módosított szöveg.
+[^4]: Az 1. § a) pont ae) alpontját a 140/2024. (VI. 28.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^5]: Az 1. § a) pont af) alpontját a 140/2024. (VI. 28.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^6]: Az 1. § c) pontja a 343/2016. (XI. 17.) Korm. rendelet 11. §-ával megállapított, a 457/2017. (XII. 28.) Korm. rendelet 285. § a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^7]: Az 1. § e) pontja a 140/2024. (VI. 28.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § g) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 107. § c) pontja szerint módosított szöveg.
+[^9]: Az 1. § h) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 107. § c) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-10. §[^25]
+10. §[^29]
 
-[^25]: A 10. §-t a (3) bekezdés hatályon kívül helyezte.
+[^29]: A 10. §-t a (3) bekezdés hatályon kívül helyezte.
