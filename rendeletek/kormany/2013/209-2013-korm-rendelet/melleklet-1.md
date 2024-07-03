@@ -1,4 +1,4 @@
-1. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^99]
+1. melléklet a 209/2013. (VI. 18.) Korm. rendelethez[^111]
 
 Módszertan az infrastruktúradíj mértékének megállapításához
 
@@ -48,9 +48,9 @@ Az úthasználati díjakat a nehézgépjárművek járműkilométerekből való 
 
 A következő táblázat indikatív ekvivalenciafaktorokat tartalmaz. Amennyiben a táblázatban megadottaktól eltérő arányú ekvivalenciafaktorok kerülnek alkalmazásra, azokat objektíven igazolható kritériumokra kell alapozni, és nyilvánosságra kell hozni.
 
-| Járműosztály[^100] | Ekvivalenciafaktorok |
+| Járműosztály[^112] | Ekvivalenciafaktorok |
 
-| Strukturális javítás[^101] | Beruházások | Éves karbantartás |
+| Strukturális javítás[^113] | Beruházások | Éves karbantartás |
 
 | 3,5 t és 7,5 t között, 0. osztály | 1 | 1 | 1 |
 
@@ -72,7 +72,7 @@ A 7,5 tonna megengedett legnagyobb össztömeget el nem érő minden gépjármű
 
 | Gépjárművek |
 
-| Légrugós vagy azzal egyenértékű tengelyfelfüggesztés[^102] | Egyéb tengelyfelfüggesztési rendszerek | Károsodási osztály |
+| Légrugós vagy azzal egyenértékű tengelyfelfüggesztés[^114] | Egyéb tengelyfelfüggesztési rendszerek | Károsodási osztály |
 
 | Tengelyek száma és megengedett legnagyobb össztömeg (tonna) | Tengelyek száma és megengedett legnagyobb össztömeg (tonna) |  |
 
@@ -168,7 +168,7 @@ A 7,5 tonna megengedett legnagyobb össztömeget el nem érő minden gépjármű
 
 | 60 |  | 60 |  | III. |
 
-[^99]: Az 1. melléklet a 336/2023. (VII. 24.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
-[^100]: A járműosztály meghatározását a 4. pont tartalmazza.
-[^101]: Az egyes járműosztályok 5,5; 6,5; 7,5 és 8,5 tonnás tengelyterhelésnek felelnek meg.
-[^102]: A legutóbb a 2002/7/EK európai parlamenti és tanácsi irányelvvel (HL L 67., 2002.3.9., 47. o.) módosított, a Közösségen belül közlekedő egyes közúti járművek nemzeti és nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. július 25-i 96/53/EK tanácsi irányelv (HL L 235., 1996.9.17., 59. o.) II. mellékletének meghatározásával összhangban egyenértékűként elismert felfüggesztés.
+[^111]: Az 1. melléklet a 336/2023. (VII. 24.) Korm. rendelet 1. § (7) bekezdésével megállapított szöveg.
+[^112]: A járműosztály meghatározását a 4. pont tartalmazza.
+[^113]: Az egyes járműosztályok 5,5; 6,5; 7,5 és 8,5 tonnás tengelyterhelésnek felelnek meg.
+[^114]: A legutóbb a 2002/7/EK európai parlamenti és tanácsi irányelvvel (HL L 67., 2002.3.9., 47. o.) módosított, a Közösségen belül közlekedő egyes közúti járművek nemzeti és nemzetközi forgalomban megengedett legnagyobb méreteinek, valamint a nemzetközi forgalomban megengedett legnagyobb össztömegének megállapításáról szóló, 1996. július 25-i 96/53/EK tanácsi irányelv (HL L 235., 1996.9.17., 59. o.) II. mellékletének meghatározásával összhangban egyenértékűként elismert felfüggesztés.

@@ -4,7 +4,7 @@
 
 ## 20. Átmeneti rendelkezések
 
-46. §[^90] (1) E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 466/2020. (X. 27.) Korm. rendelettel megállapított 3. § (5) bekezdését és 9/A. §-át első alkalommal a 2021. évre vonatkozó útdíjak megállapítása során kell alkalmazni.
+46. §[^102] (1) E rendeletnek az autópályák, autóutak és főutak használatáért fizetendő megtett úttal arányos díjról szóló 2013. évi LXVII. törvény végrehajtásáról szóló 209/2013. (VI. 18.) Korm. rendelet módosításáról szóló 466/2020. (X. 27.) Korm. rendelettel megállapított 3. § (5) bekezdését és 9/A. §-át első alkalommal a 2021. évre vonatkozó útdíjak megállapítása során kell alkalmazni.
 
 (2) E rendeletnek az egyes kormányrendeleteknek a közúti infrastruktúra fejlesztésével összefüggő, valamint jogharmonizációs célú módosításáról szóló 67/2022. (II. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 29. §-át az egyetemes útdíjszolgáltató és a szerződött díjfizető között a Módr. hatálybalépését megelőzően létrejött szerződésekre is alkalmazni kell, azzal, hogy a felek között más módon – a Módr. hatálybalépését megelőzően – létrejött elszámolást e rendelkezések nem érintik.
 
@@ -14,4 +14,4 @@
 
 (5) A 24. § (3) bekezdés b) pontjától eltérően viszonylati jegy elővételben a 2024. évre nem váltható.
 
-[^90]: A 46. § a 490/2023. (XI. 2.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^102]: A 46. § a 490/2023. (XI. 2.) Korm. rendelet 9. §-ával megállapított szöveg.

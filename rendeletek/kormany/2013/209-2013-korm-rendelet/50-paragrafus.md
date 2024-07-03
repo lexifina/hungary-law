@@ -1,3 +1,3 @@
-50. §[^93]
+50. §[^105]
 
-[^93]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^105]: Az 50–51. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
