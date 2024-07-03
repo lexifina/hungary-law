@@ -1,3 +1,1 @@
-6. §[^2]
-
-[^2]: A 6. § a 19. § (3) bekezdése alapján 2024. július 3-án lép hatályba.
+## 5. § Az 1. melléklet 2. pontjában meghatározott műanyagból készült kupakkal és fedéllel ellátott egyszer használatos műanyagtermékeket csak abban az esetben lehet forgalomba hozni, ha a kupakok és fedelek az italtárolókhoz rögzítve maradnak a termék rendeltetésszerű használata során.

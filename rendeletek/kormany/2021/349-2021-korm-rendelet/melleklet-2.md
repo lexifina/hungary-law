@@ -1,4 +1,4 @@
-2. melléklet a 349/2021. (VI. 22.) Korm. rendelethez[^20]
+2. melléklet a 349/2021. (VI. 22.) Korm. rendelethez[^18]
 
 Kiterjesztett gyártói felelősségi szabályok
 
@@ -28,4 +28,4 @@ Kiterjesztett gyártói felelősségi szabályok
 
 5. Az 1–3. pontban meghatározott költségek nem haladhatják meg az említett szolgáltatások költséghatékony módon történő nyújtásához szükséges költségeket, és gondoskodni kell azok átlátható módon történő megállapításáról az érintett szereplők között. A hulladék eltakarításának költségeit a hulladékgazdálkodási tevékenység ellátásáért felelős szervezetek által vagy azok nevében végzett tevékenységekre kell korlátozni. A költségek kiszámításának módszertanát úgy kell kialakítani, hogy az lehetővé tegye a hulladék eltakarítási költségeinek arányos módon történő megállapítását.
 
-[^20]: A 2. mellékletet a 108/2023. (III. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^18]: A 2. mellékletet a 108/2023. (III. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be.
