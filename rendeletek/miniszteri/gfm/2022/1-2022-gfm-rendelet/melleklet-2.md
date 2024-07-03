@@ -164,7 +164,7 @@ XVII. Tulajdonosi joggyakorló: Nemzeti Kutatási, Fejlesztési és Innovációs
 
 | 1. | Nemzeti Innovációs Ügynökség Nonprofit Zártkörűen Működő Részvénytársaság | 01-10-049678 | 2026. december 31. |
 
-XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum
+XVIII. Tulajdonosi joggyakorló: Magyar Nemzeti Múzeum Közgyűjteményi Központ
 
 |  | A | B | C |
 
@@ -190,4 +190,4 @@ XX. Tulajdonosi joggyakorló: Nemzeti Kommunikációs Hivatal
 
 XXI. Tulajdonosi joggyakorló: Központi Statisztikai Hivatal
 
-[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^4]: A 2. melléklet a 2/2022. (VI. 20.) GFM rendelet 2. §-a, a 4/2022. (VII. 14.) GFM rendelet 2. §-a, a 12/2022. (XI. 7.) GFM rendelet 1. §-a, a 17/2022. (XII. 13.) GFM rendelet 1. §-a, a 21/2022. (XII. 27.) GFM rendelet 1. §-a, a 22/2022. (XII. 27.) GFM rendelet 1. §-a, a 23/2022. (XII. 27.) GFM rendelet 1. §-a, a 6/2023. (IV. 27.) GFM rendelet 1. § c) pontja, a 10/2023. (VI. 16.) GFM rendelet 2. §-a, a 32/2023. (XII. 15.) GFM rendelet 2. §-a, a 33/2023. (XII. 15.) GFM rendelet 2. §-a, a 4/2024. (I. 31.) NGM rendelet 1. §-a, a 13/2024. (IV. 9.) NGM rendelet 1. §-a, a 22/2024. (VII. 2.) NGM rendelet 2. §-a szerint módosított szöveg.
