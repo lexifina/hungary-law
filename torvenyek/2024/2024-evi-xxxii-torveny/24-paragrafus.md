@@ -29,15 +29,3 @@
 14. 18. pontjában foglalt táblázat 18.6., 18.8., 18.24., 18.26. sora és
 
 15. 19. pontjában foglalt táblázat 19.1. sora.
-
-|
-
-Dr. Sulyok Tamás s. k.,
-
-köztársasági elnök
-
-|
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
