@@ -26,7 +26,7 @@
 
 | 12. | NNK | Pollen-veszélyeztetettség | 4.5. | évente | település | március 1. |
 
-| 13. | TIM | Munkanélküliségi adatok | 2.2.3. | havonta | település | frissítést követő 30. nap |
+| 13. | NGM | Munkanélküliségi adatok | 2.2.3. | havonta | település | frissítést követő 30. nap |
 
 | 14. | AM | Nitrát-érzékenységi térkép | 4.6. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
@@ -40,9 +40,9 @@
 
 | 19. | MÁK | Helyi adók mértéke | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 20. | TIM | Az országos közúthálózathoz tartozó szöveges adatok: – a közút száma és nemzetközi útszáma, – a közút kategóriája, – forgalomszámlálási adatok | 3.1.1. | frissítést követően | objektum | frissítést követő 90. nap |
+| 20. | MK NZrt. | Az országos közúthálózathoz tartozó szöveges adatok: – a közút száma és nemzetközi útszáma, – a közút kategóriája, – forgalomszámlálási adatok | 3.1.1. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 21. | kulturális örökség védelméért felelős miniszter | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
+| 21. | ÉKM | Műemlékek és régészeti lelőhelyek településenként számszerűsített kimutatása | 4.10.1. és 4.10.4. | frissítést követően | település | frissítést követő 90. nap |
 
 | 22. | KSH | Területi számjelrendszer | 5.1. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
@@ -66,15 +66,15 @@
 
 | 32. | BM | A területi vízügyi hatóság illetékessége, vízügyi igazgatóságok | 5.1. | frissítést követően | térség | frissítést követő 90. nap |
 
-| 33. | AM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | település | frissítést követő 90. nap |
+| 33. | EM | Légszennyező anyagok kibocsátott mennyisége | 4.9.2. | frissítést követően | település | frissítést követő 90. nap |
 
-| 34. | AM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 34. | EM | Levegőminőségi adatok [Országos Légszennyezettségi Mérőhálózat (OLM) éves értékelés] | 4.9.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 35 | AM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 35 | EM | Zajtérképek | 4.9.2. | frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
-| 36. | TIM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 36. | EM | Veszélyes hulladékok keletkezett mennyisége | 3.5. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
-| 37. | AM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
+| 37. | EM | Kármentesítési munkálatok | 4.12. | évente vagy frissítést követően | előfordulási hely | frissítést követő 90. nap |
 
 | 38. | SZTFH | Működő és felhagyott bányák (nyersanyag, fejtési mód, felhagyás éve, elhelyezkedés) | 1.2.1. | frissítést követően | objektum | frissítést követő 90. nap |
 
@@ -92,11 +92,11 @@
 
 | 45. | ATK TAKI | Agrotopográfiai térkép | 4.6. | frissítést követően | objektum | frissítést követő 90. nap |
 
-| 46. | TIM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
+| 46. | NGM | Ipari parkok (kérdőíves adatok) | 1.1.3. | évente vagy frissítést követően | vármegye | frissítést követő 90. nap |
 
-| 47. | ME | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
+| 47. | KTM | Egységes Monitoring Információs Rendszer (EMIR), Fejlesztéspolitikai Adatbázis és Információs Rendszer (FAIR) | 5.2. | negyedévente | projekt | frissítést követő 15. nap |
 
-| 48. | TIM | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
+| 48. | MK | Infokommunikációs adatok | 3.2.1. és 3.2.2. | évente vagy frissítést követően | település | frissítést követő 90. nap |
 
 | 49. | OH | Felsőoktatási felvételi adatok | 2.4.4. | évente vagy frissítést követően | középfokú oktatási intézmény | frissítést követő 90. nap |
 
@@ -138,7 +138,7 @@
 
 | 68. | NEAK | Gyógyszerforgalmi (Beteg- és vényszám) adatok | 2.3.2. | évente | település | frissítést követő 90. nap |
 
-| 69. | AM | Az OKIR rendszerből származó, szennyezőanyag kibocsátásra, keletkezett hulladékmennyiségre és szennyvízre vonatkozó statisztikai adatok. | 3.5. | évente | település, régió, ország | frissítést követő 90. nap |
+| 69. | EM | Az OKIR rendszerből származó, szennyezőanyag kibocsátásra, keletkezett hulladékmennyiségre és szennyvízre vonatkozó statisztikai adatok. | 3.5. | évente | település, régió, ország | frissítést követő 90. nap |
 
 | 69a. | OVF | Vízi közművek adatai | 3.4.1. és 3.4.2. | évente | település, régió, ország | frissítést követő 90. nap |
 
@@ -150,9 +150,9 @@
 
 | 73. | LTK | E-közműből kinyerhető statisztikai adatok (kiadott közműnyilatkozatok szakáganként illetve felhasználás jellege szerint, szolgáltatók szakáganként) | 1. | évente, havonta | település | frissítést követő 5. napon |
 
-| 74. | MK | Helyi közutak adatai | 3.1.1. | évente | település | frissítést követő 90. nap |
+| 74. | MK NZrt. | Helyi közutak adatai | 3.1.1. | évente | település | frissítést követő 90. nap |
 
-| 75. | MK | Közúti közlekedési balesetek | 3.1.1. | évente | település | frissítést követő 90. nap |
+| 75. | MK NZrt. | Közúti közlekedési balesetek | 3.1.1. | évente | település | frissítést követő 90. nap |
 
 | 76. | MAVIR | Villamosenergia termelés, fogyasztás, export, import | 3.3.1. | évente | ország | frissítést követő 90. nap |
 
@@ -180,13 +180,13 @@
 
 | 8. | Agrárminisztérium | AM |
 
-| 9. | Miniszterelnökség | ME |
+| 9. | Nemzetgazdasági Minisztérium | NGM |
 
 | 10. | Nemzeti Egészségbiztosítási Alapkezelő | NEAK |
 
 | 11. | Miniszterelnöki Kabinetiroda | MK |
 
-| 12. | Technológiai és Ipari Minisztérium | TIM |
+| 12. | Energiaügyi Minisztérium | EM |
 
 | 13. | Központi Statisztikai Hivatal | KSH |
 
@@ -214,13 +214,17 @@
 
 | 25. | Országos Mentőszolgálat | OMSZ |
 
-| 26. | Magyar Közút Nonprofit Zrt. | MK |
+| 26. | Magyar Közút Nonprofit Zrt. | MK NZrt. |
 
 | 27. | Országos Vízügyi Főigazgatóság | OVF |
 
 | 28. | Pest Vármegyei Kormányhivatal | PMKH |
 
 | 29. | Nemzeti Szakképzési és Felnőttképzési Hivatal | NSZFH |
+
+| 30. | Építési és Közlekedési Minisztérium | ÉKM |
+
+| 31. | Közigazgatási és Területfejlesztési Minisztérium | KTM |
 
 3. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^64]
 

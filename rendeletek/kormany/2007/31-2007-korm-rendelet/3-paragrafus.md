@@ -4,7 +4,7 @@
 
 (2) A TeIR átveszi és feldolgozza, továbbá egységes adatbázis-szerkezetben tárolja
 
-a)[^18] az országos és az európai uniós adatgyűjtésen alapuló, az egyes térségek helyzetére jellemző adatokat,
+a)[^18] az országos és az európai uniós adatgyűjtésen alapuló, az egyes térségek, települések helyzetére jellemző adatokat,
 
 b)[^19] a támogatási rendszerek területi adatait,
 
@@ -32,7 +32,7 @@ e) korlátozott felbontású raszteres térkép.
 
 [^16]: A 3. § a 65/2010. (III. 18.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^17]: A 3. § (1) bekezdése a 157/2022. (IV. 19.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^18]: A 3. § (2) bekezdés a) pontja a 157/2022. (IV. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: A 3. § (2) bekezdés a) pontja a 157/2022. (IV. 19.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 140/2024. (VI. 28.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^19]: A 3. § (2) bekezdés b) pontja a 343/2016. (XI. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^20]: A 3. § (2) bekezdés d) pontja a 343/2016. (XI. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^21]: A 3. § (3) bekezdése a 157/2022. (IV. 19.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.

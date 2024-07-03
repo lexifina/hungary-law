@@ -158,18 +158,18 @@
 
 | 78. | 5. | Területfejlesztés |  |
 
-| 79. | 5.1. | Intézményrendszer, közigazgatás | területfejlesztés stratégiai tervezéséért felelős miniszter területfejlesztésért felelős miniszter |
+| 79. | 5.1. | Intézményrendszer, közigazgatás | területfejlesztésért felelős miniszter |
 
-| 80. | 5.2. | Támogatási rendszerek | területfejlesztés stratégiai tervezéséért felelős miniszter területfejlesztésért felelős miniszter |
+| 80. | 5.2. | Támogatási rendszerek | területfejlesztésért felelős miniszter |
 
-| 81. | 5.3. | Dokumentumok, tervanyagok | területfejlesztés stratégiai tervezéséért felelős miniszter területfejlesztésért felelős miniszter |
+| 81. | 5.3. | Dokumentumok, tervanyagok | területfejlesztésért felelős miniszter |
 
 | 82. | 6. | Területrendezés |  |
 
-| 83. | 6.1. Országos, és kiemelt térségi területrendezési tervek, térségi szerkezeti tervek és térségi övezetek, területrendezési hatástanulmányok | területrendezésért felelős miniszter |
+| 83. | 6.1. Országos, és kiemelt térségi területrendezési tervek, térségi szerkezeti tervek és térségi övezetek, területrendezési hatástanulmányok és a különös szabályozást igénylő területre készülő területrendezési tervek | területrendezésért felelős miniszter |
 
 | 84. | 6.2. Vármegyei területrendezési tervek, vármegyei térszerkezeti tervek és övezetek, vármegyei területrendezési hatástanulmányok | vármegyei önkormányzatok |
 
 2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^63]
 
-[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja és (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 72. § b) és d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 12. és 13. §-a, a 107/2024. (V. 9.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^63]: A 2. számú melléklet a 157/2022. (IV. 19.) Korm. rendelet 7. § b) pontjával megállapított, a 238/2022. (VI. 30.) Korm. rendelet 45. § (1) bekezdés b) pontja és (2) bekezdése, a 616/2022. (XII. 29.) Korm. rendelet 72. § b) és d) pontja, a 334/2023. (VII. 20.) Korm. rendelet 12. és 13. §-a, a 107/2024. (V. 9.) Korm. rendelet 3. §-a, a 140/2024. (VI. 28.) Korm. rendelet 2. §-a és 3. § g) és h) pontja szerint módosított szöveg.
