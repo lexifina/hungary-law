@@ -1,15 +1,15 @@
-## A forgalmi tájékoztató körzet[^17]
+## A forgalmi tájékoztató körzet[^19]
 
-3/A. §[^18] (1) Forgalmi tájékoztató körzet (a továbbiakban: TIZ légtér) csak abban az esetben üzemelhet, ha abban repülőtéri repüléstájékoztató szolgálatot (a továbbiakban: AFIS) nyújtanak.
+3/A. §[^20] (1) Forgalmi tájékoztató körzet (a továbbiakban: TIZ légtér) csak abban az esetben üzemelhet, ha abban repülőtéri repüléstájékoztató szolgálatot (a továbbiakban: AFIS) nyújtanak.
 
-(2)[^19] Amennyiben a légiközlekedési hatóság megállapítja, hogy a TIZ légtérben az AFIS nyújtására kijelölt szervezet egybefüggően 1 hónapig nem nyújt szolgáltatást és a TIZ légtér nem üzemel – kivéve, ha ez a szervezet önhibáján kívül álló okból történik –, kezdeményezi ennek légiforgalmi tájékoztatásként történő közzétételét.
+(2)[^21] Amennyiben a légiközlekedési hatóság megállapítja, hogy a TIZ légtérben az AFIS nyújtására kijelölt szervezet egybefüggően 1 hónapig nem nyújt szolgáltatást és a TIZ légtér nem üzemel – kivéve, ha ez a szervezet önhibáján kívül álló okból történik –, kezdeményezi ennek légiforgalmi tájékoztatásként történő közzétételét.
 
-(3)[^20] Ha a TIZ légtér 12 hónapon keresztül folyamatosan nem üzemel, a légiközlekedési hatóság tájékoztatja az NLKM-et és kezdeményezi a légtér szükségességének felülvizsgálatát.
+(3)[^22] Ha a TIZ légtér 12 hónapon keresztül folyamatosan nem üzemel, a légiközlekedési hatóság tájékoztatja az NLKM-et és kezdeményezi a légtér szükségességének felülvizsgálatát.
 
-(4)[^21]
+(4)[^23]
 
-[^17]: A 3/A. §-t megelőző alcímet a 25/2017. (VI. 30.) NFM rendelet 4. §-a iktatta be.
-[^18]: A 3/A. §-t a 25/2017. (VI. 30.) NFM rendelet 4. §-a iktatta be.
-[^19]: A 3/A. § (2) bekezdése a 34/2019. (IX. 13.) ITM rendelet 1. §-ával megállapított szöveg.
-[^20]: A 3/A. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 31. §-ával megállapított szöveg.
-[^21]: A 3/A. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 33. § a) pontja hatályon kívül helyezte.
+[^19]: A 3/A. §-t megelőző alcímet a 25/2017. (VI. 30.) NFM rendelet 4. §-a iktatta be.
+[^20]: A 3/A. §-t a 25/2017. (VI. 30.) NFM rendelet 4. §-a iktatta be.
+[^21]: A 3/A. § (2) bekezdése a 34/2019. (IX. 13.) ITM rendelet 1. §-ával megállapított szöveg.
+[^22]: A 3/A. § (3) bekezdése az 55/2017. (XII. 27.) NFM rendelet 31. §-ával megállapított szöveg.
+[^23]: A 3/A. § (4) bekezdését az 55/2017. (XII. 27.) NFM rendelet 33. § a) pontja hatályon kívül helyezte.

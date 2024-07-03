@@ -1,14 +1,14 @@
-## 1/E. §[^11] Ha a korlátozott légtér kijelölésére irányuló javaslat indoka a katasztrófavédelemről szóló törvény szerinti veszélyes anyagokkal foglalkozó vagy veszélyes tevékenységet végző létesítmény vagy üzem katasztrófavédelmi szempontú védelme, az NLKM kikéri a hivatásos katasztrófavédelmi szerv központi szervének véleményét a korlátozás szükségessége tekintetében. Az NLKM a döntési javaslat előkészítése során a hivatásos katasztrófavédelmi szerv központi szervének véleményét figyelembe veszi.
+## 1/E. §[^13] Ha a korlátozott légtér kijelölésére irányuló javaslat indoka a katasztrófavédelemről szóló törvény szerinti veszélyes anyagokkal foglalkozó vagy veszélyes tevékenységet végző létesítmény vagy üzem katasztrófavédelmi szempontú védelme, az NLKM kikéri a hivatásos katasztrófavédelmi szerv központi szervének véleményét a korlátozás szükségessége tekintetében. Az NLKM a döntési javaslat előkészítése során a hivatásos katasztrófavédelmi szerv központi szervének véleményét figyelembe veszi.
 
-1/F. §[^12] (1)[^13] Az NLKM gondoskodik az e rendeletben meghatározott légterek működésének legalább ötévente történő felülvizsgálatáról. A felülvizsgálat során meg kell vizsgálni azon feltételek fennállását, amelyek a légtér kijelölését indokolták, valamint, hogy a légtér az e rendeletben meghatározottak szerint működött.
+1/F. §[^14] (1)[^15] Az NLKM gondoskodik az e rendeletben meghatározott légterek működésének legalább ötévente történő felülvizsgálatáról. A felülvizsgálat során meg kell vizsgálni azon feltételek fennállását, amelyek a légtér kijelölését indokolták, valamint, hogy a légtér az e rendeletben meghatározottak szerint működött.
 
 (2) Ha az (1) bekezdés szerinti felülvizsgálat eredményeként az NLKM indokoltnak tartja valamely légtér
 
 a) módosítását, felhívja a kérelmezőt a módosítás kezdeményezésére,
 
-b)[^14] megszüntetését, egyeztetést folytat le a légtér kijelölését kérelmezővel vagy annak jogutódjával, amelynek eredménye alapján kezdeményezi a légtérkijelölés megszüntetésének indokoltsága esetén a légtérkijelölés megszüntetésére vonatkozó jogszabály-módosítást.
+b)[^16] megszüntetését, egyeztetést folytat le a légtér kijelölését kérelmezővel vagy annak jogutódjával, amelynek eredménye alapján kezdeményezi a légtérkijelölés megszüntetésének indokoltsága esetén a légtérkijelölés megszüntetésére vonatkozó jogszabály-módosítást.
 
-[^11]: Az 1/E. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
-[^12]: Az 1/F. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
-[^13]: Az 1/F. § (1) bekezdése a 45/2017. (XII. 4.) NFM rendelet 1. §-ával megállapított szöveg.
-[^14]: Az 1/F. § (2) bekezdés b) pontja a 9/2018. (III. 29.) NFM rendelet 2. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § a) pontja szerint módosított szöveg.
+[^13]: Az 1/E. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
+[^14]: Az 1/F. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
+[^15]: Az 1/F. § (1) bekezdése a 45/2017. (XII. 4.) NFM rendelet 1. §-ával megállapított szöveg.
+[^16]: Az 1/F. § (2) bekezdés b) pontja a 9/2018. (III. 29.) NFM rendelet 2. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § a) pontja szerint módosított szöveg.

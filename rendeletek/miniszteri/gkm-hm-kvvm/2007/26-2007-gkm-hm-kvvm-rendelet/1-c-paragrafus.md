@@ -10,9 +10,10 @@
 
 (5) Ha az NLKM előzetes döntési javaslatának előkészítése során érdekütközés vagy kockázat merül fel az előzetes javaslattal kapcsolatosan, a kérelmezőnek az érdekelt felek bevonásával egyeztetést kell lefolytatnia, amelynek eredményét az előzetes javaslathoz csatolni kell. Az NLKM ezt követően az egyeztetés eredménye alapján alakítja ki a (3) bekezdés szerinti előzetes döntési javaslatát.
 
-(6) Repülőtér létesítése vagy fejlesztése esetén a repülőtér létesítésének, fejlesztésének és megszüntetésének, valamint a leszállóhely létesítésének és megszüntetésének szabályairól szóló kormányrendelet szerinti létesítési vagy fejlesztési engedély megszerzését megelőzően kell az előzetes javaslatot benyújtani. A létesítési engedélyhez szükséges dokumentációnak az NLKM (3) bekezdésben meghatározott döntési javaslatát kell tartalmaznia.
+(6)[^8]
 
 [^4]: Az 1/B. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
 [^5]: Az 1/C. §-t az 56/2011. (XI. 8.) NFM rendelet 1. §-a iktatta be.
 [^6]: Az 1/C. § (1) bekezdése a 15/2014. (IV. 3.) NFM rendelet 15. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^7]: Az 1/C. § (3) bekezdése a 7/2022. (VII. 27.) TIM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1/C. § (6) bekezdését a 16/2024. (VII. 2.) ÉKM rendelet 14. § a) pontja hatályon kívül helyezte.

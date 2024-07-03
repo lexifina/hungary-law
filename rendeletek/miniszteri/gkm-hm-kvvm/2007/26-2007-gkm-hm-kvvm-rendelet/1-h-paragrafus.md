@@ -1,3 +1,3 @@
-## 1/G. §[^15] Azon légterek esetében, amelyek üzemeltetését e rendelet előírásai szerint a Budapest ATS Központ részére be kell jelenteni, a légiforgalom irányítására kijelölt szervezet tájékoztatja az NLKM-et, ha a légtér 12 hónapon keresztül folyamatosan nem üzemelt.
+## 1/G. §[^17] Azon légterek esetében, amelyek üzemeltetését e rendelet előírásai szerint a Budapest ATS Központ részére be kell jelenteni, a légiforgalom irányítására kijelölt szervezet tájékoztatja az NLKM-et, ha a légtér 12 hónapon keresztül folyamatosan nem üzemelt.
 
-[^15]: Az 1/G. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.
+[^17]: Az 1/G. §-t a 25/2017. (VI. 30.) NFM rendelet 3. §-a iktatta be.

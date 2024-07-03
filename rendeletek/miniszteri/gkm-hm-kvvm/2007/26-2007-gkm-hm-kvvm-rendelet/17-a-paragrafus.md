@@ -1,4 +1,4 @@
-## Tanúsítási célú veszélyes légtér igénylése és igénybevétele[^47]
+## Tanúsítási célú veszélyes légtér igénylése és igénybevétele[^60]
 
 17/A. § (1) A tanúsítási célú veszélyes légteret a 7/B. § (1) bekezdésében meghatározott és a 7/B. § (2) bekezdése szerinti együttműködési megállapodásban nevesített koordinációs feladatokat ellátó szervezet igényelhet.
 
@@ -32,4 +32,4 @@ a) az újrakezdés tervezett időpontja;
 
 b) az elfogadott légtér méretének (magasságtartományának) csökkentése a tényleges feladat függvényében.
 
-[^47]: A „Tanúsítási célú veszélyes légtér igénylése és igénybevétele” alcímet (17/A. §-t) a 8/2023. (V. 22.) ÉKM rendelet 3. §-a iktatta be.
+[^60]: A „Tanúsítási célú veszélyes légtér igénylése és igénybevétele” alcímet (17/A. §-t) a 8/2023. (V. 22.) ÉKM rendelet 3. §-a iktatta be.

@@ -150,7 +150,7 @@
 
 3. melléklet a 26/2007. (III. 1.) GKM–HM–KvVM
 
-együttes rendelethez[^108]
+együttes rendelethez[^123]
 
 TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
@@ -164,4 +164,4 @@ TILTOTT, KORLÁTOZOTT ÉS VESZÉLYES LÉGTEREK
 
 | 3. | LHP2 | Csillebérc 0,5 km sugarú kör a 472923N 0185708E középpont körül | 3500’ (1050 m) AMSL / GND | Kutató atomreaktor. |
 
-[^108]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 3. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 2. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
+[^123]: A 3. melléklet a 45/2017. (XII. 4.) NFM rendelet 3. §-ával megállapított, a 34/2019. (IX. 13.) ITM rendelet 7. § q) pontja, a 7/2021. (II. 5.) ITM rendelet 4–5. §-a, az 55/2021. (XI. 5.) ITM rendelet 6–7. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 3. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 2. §-a szerint módosított szöveg. [A 34/2019. (IX. 23.) ITM rendelet 7. § p) pontjával elrendelt módosítás nem vezethető át.]
