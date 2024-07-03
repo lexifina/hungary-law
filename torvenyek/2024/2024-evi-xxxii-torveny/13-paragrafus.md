@@ -1,0 +1,1 @@
+13. § A támogatást nyújtó a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 100 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló kormányrendeletben foglaltak szerint adatot szolgáltat.
