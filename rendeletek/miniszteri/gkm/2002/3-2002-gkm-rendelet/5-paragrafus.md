@@ -314,53 +314,53 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | I. osztály Nemzetközivé nyilvánított kereskedelmi repülőtér |
 
-| 140. | Elvi létesítési engedély kiadása (repülőtér) | 460 000 |
+| 140. |  |  |
 
 | 141. | Létesítési engedély kiadása | 779 000 |
 
-| 142. | Üzembe helyezési engedély kiadása | 920 000 |
+| 142. | Üzembentartási engedély kiadása | 920 000 |
 
 | 143. | Megszüntetési engedély kiadása | 64 000 |
 
-| 144. | Elvi építési engedély kiadása (épület) | 368 000 |
+| 144. | A repülőtér területén lévő általános építmények elvi építési engedély | 368 000 |
 
-| 145. | Építési engedély kiadása | 552 000 |
+| 145. | A repülőtér területén lévő általános építmények építési engedély kiadása | 552 000 |
 
-| 146. | Használatba vételi engedély kiadása | 920 000 |
+| 146. | A repülőtér területén lévő általános építmények használatba vételi engedély kiadása | 920 000 |
 
-| 147. | Bontási engedély kiadása | 46 000 |
+| 147. |  |  |
 
 | 148. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezése | 920 000 |
 
-| 149. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 736 000 |
+| 149. | Repülőtér első tanúsítása | 736 000 |
 
 | 150. | Üzemben tartási engedélyben lévő adatok változásának hatósági bejegyeztetése és a módosított engedély kiadása | 92 000 |
 
-| 151. | Repülőtérrend hatósági jóváhagyása | 460 000 |
+| 151. |  |  |
 
-| 152. | Repülőtérrend módosítás hatósági jóváhagyása | 213 000 |
+| 152. |  |  |
 
-| II–III. osztály Kereskedelmi repülőtér |
+| Kereskedelmi repülőtér és üzleti célú repülőtér |
 
-| 153. | Elvi létesítési engedély kiadása (repülőtér) | 230 000 |
+| 153. |  |  |
 
 | 154. | Létesítési engedély kiadása | 552 000 |
 
-| 155. | Üzembe helyezési engedély kiadása | 399 000 |
+| 155. | Üzembentartási engedély kiadása | 399 000 |
 
 | 156. | Megszüntetési engedély kiadása | 65 000 |
 
-| 157. | Elvi építési engedély kiadása (épület) | 184 000 |
+| 157. | A repülőtér területén lévő általános építmények elvi építési engedély | 184 000 |
 
-| 158. | Építési engedély kiadása | 368 000 |
+| 158. | A repülőtér területén lévő általános építmények építési engedély kiadása | 368 000 |
 
-| 159. | Használatba vételi engedély kiadása | 445 000 |
+| 159. | A repülőtér területén lévő általános építmények használatba vételi engedély kiadása | 445 000 |
 
-| 160. | Bontási engedély kiadása | 46 000 |
+| 160. |  |  |
 
 | 161. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezése | 460 000 |
 
-| 162. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 321 000 |
+| 162. | Repülőtér létesítésének, üzemben tartásának, fejlesztésének előzetes szakmai megfelelőségi vizsgálata az ügyfél kérelmére | 321 000 |
 
 | 163. | Üzemben tartási engedélyben lévő adatok változásának hatósági bejegyeztetése és a módosított engedély kiadása | 55 000 |
 
@@ -374,21 +374,21 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 167. | Létesítési engedély kiadása | 161 000 |
 
-| 168. | Üzembe helyezési engedély kiadása | 138 000 |
+| 168. | Üzembentartási engedély kiadása | 138 000 |
 
 | 169. | Megszüntetési engedély kiadása | 41 000 |
 
-| 170. | Elvi építési engedély kiadása (épület) | 46 000 |
+| 170. | A repülőtér területén lévő általános építmények elvi építési engedély | 46 000 |
 
-| 171. | Építési engedély kiadása | 138 000 |
+| 171. | A repülőtér területén lévő általános építmények építési engedély kiadása | 138 000 |
 
-| 172. | Használtba vételi engedély kiadása | 100 000 |
+| 172. | A repülőtér területén lévő általános építmények használatba vételi engedély kiadása | 100 000 |
 
-| 173. | Bontási engedély kiadása | 28 000 |
+| 173. |  |  |
 
 | 174. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 130 000 |
 
-| 175. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 69 000 |
+| 175. | Repülőtér létesítésének, üzemben tartásának, fejlesztésének előzetes szakmai megfelelőségi vizsgálata az ügyfél kérelmére | 69 000 |
 
 | 176. | Üzemben tartási engedély adataiban történt változás hatósági bejegyeztetése és a módosított engedély kiadása | 37 000 |
 
@@ -396,21 +396,21 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 178. | Repülőtérrend módosítás hatósági jóváhagyása | 41 000 |
 
-| VI. osztályú repülőtér |
+| Feltöltőhely és mentőhelikopter leszállóhely |
 
 | 179. | Létesítési engedély kiadása (repülőtér) | 24 000 |
 
-| 180. | Üzembe helyezési engedély | 16 000 |
+| 180. | Üzembentartási engedély | 16 000 |
 
 | 181. | Megszüntetési engedély | 4 000 |
 
-| 182. | Építési engedély (épület) | 10 000 |
+| 182. | A repülőtér területén lévő általános építmények építési engedély | 10 000 |
 
-| 183. | Használatba vételi engedély | 6 000 |
+| 183. | A repülőtér területén lévő általános építmények használatba vételi engedély | 6 000 |
 
-| 184. | Bontási engedély | 2 000 |
+| 184. |  |  |
 
-| 185. | Repülőtér alkalmasságának 24/1999. (VIII. 13.) KHVM rendelet 3. § (1) bekezdés szerinti ügyfél kérelmére induló audit díja | 16 000 |
+| 185. | Repülőtér létesítésének, üzemben tartásának, fejlesztésének előzetes szakmai megfelelőségi vizsgálata az ügyfél kérelmére | 16 000 |
 
 | 186. | Repülőtér működési feltételei megváltoztatásának jóváhagyása és fejlesztésének engedélyezésével kapcsolatos eljárás | 3 000 |
 
@@ -422,9 +422,9 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | Leszállóhely (A, B és C osztály) |
 
-| 190. | Létesítési és megszüntetési engedély (A osztályú leszállóhely) | 32 000 |
+| 190. | Létesítési engedély rendezvények céljából létesített leszállóhely | 32 000 |
 
-| 191. | Létesítési és megszüntetési engedély (B osztályú leszállóhely) | 18 000 |
+| 191. | Létesítési engedély mezőgazdasági vagy munkavégzési célú leszállóhely | 18 000 |
 
 | 192. | Létesítési és megszüntetési engedély (C osztályú leszállóhely) | 46 000 |
 
@@ -436,25 +436,25 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 195. | Zajgátló védőövezet kijelölése egyszerűsített számítás esetében | 92 000 |
 
-| 196. | Zajgátló védőövezet kijelölésének eljárási díja nemzetközivé nyilvánított kereskedelmi repülőtér (I. osztály) esetében | 331 000 |
+| 196. | Zajgátló védőövezet kijelölésének eljárási díja nemzetközivé nyilvánított kereskedelmi repülőtér esetében | 331 000 |
 
-| 197. | Zajgátló védőövezet kijelölésének eljárási díja kereskedelmi repülőtér (II–III. osztály) esetében | 239 000 |
+| 197. | Zajgátló védőövezet kijelölésének eljárási díja kereskedelmi repülőtér esetében | 239 000 |
 
-| 198. | Zajmonitor rendszer kiépítésére vonatkozó tervek jóváhagyása motoros repülőgépek forgalma esetén | 74 000 |
+| 198. |  |  |
 
-| 199. | Zajmonitor rendszer kiépítésére vonatkozó tervek hatósági jóváhagyása motoros sugárhajtású szubszónikus repülőgépek forgalma esetén | 313 000 |
+| 199. |  |  |
 
-| 200. | Zajmonitor rendszer megváltoztatása iránt kezdeményezett eljárás, a repülőtér üzemben tartóján kívül egyéb érdekelt által | 138 000 |
+| 200. |  |  |
 
-| 201. | Zajmonitor rendszer ellenőrzése | 50 000 |
+| 201. |  |  |
 
-| 202. | Zajvédelmi program jóváhagyása | 92 000 |
+| 202. |  |  |
 
-| 203. | Éjszakai hajtóműpróba engedélyezése | 74 000 |
+| 203. |  |  |
 
-| 204. | Zajmérés | 46 000 |
+| 204. |  |  |
 
-| 205. | Zajszámítás | 460 000 |
+| 205. |  |  |
 
 | 206. | Zajminősítés | 322 000 |
 
@@ -466,7 +466,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 209. | Biztonsági védőövezet kijelölése | 115 000 |
 
-| 210. | Biztonsági védőövezet kijelölésének eljárási díja kereskedelmi repülőtér (I–III. osztály) esetében | 331 000 |
+| 210. | Biztonsági védőövezet kijelölésének eljárási díja kereskedelmi repülőtér esetében | 331 000 |
 
 | 211. | Biztonsági védőövezet kijelölésének eljárási díja nemzetközi légi forgalmat is lebonyolító kereskedelmi repülőtér esetében | 239 000 |
 
@@ -1320,4 +1320,4 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 [^19]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^20]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 1. §-a és 2. § f) pontja szerint módosított szöveg.
+[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 1. §-a és 2. § f) pontja, a 16/2024. (VII. 2.) ÉKM rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
