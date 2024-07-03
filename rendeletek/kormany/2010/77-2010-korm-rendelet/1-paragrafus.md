@@ -1,4 +1,4 @@
-1. § (1) Területrendezési tervezési tevékenységet az végezhet, aki – a területfejlesztésről és a területrendezésről szóló törvényben foglaltakon túl – rendelkezik az e §-ban meghatározott végzettséggel és szakmai gyakorlattal.
+1. § (1)[^1] Területrendezési tervezési tevékenységet az végezhet, aki – a területfejlesztésről szóló 2023. évi CII. törvényben (a továbbiakban: Tftv.) foglaltakon túl – rendelkezik az e §-ban meghatározott végzettséggel és szakmai gyakorlattal.
 
 (2) Területrendezési tervezési tevékenységet az folytathat, aki rendelkezik
 
@@ -16,7 +16,7 @@ c) a területrendezési tervezési szakterületen végzett kutatói tevékenysé
 
 d) felsőoktatási intézményben a területi tervezéshez, a tájtervezéshez, a településtervezéshez vagy az urbanisztikához kapcsolódó tárgy oktatása, vagy
 
-e)[^1] az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti, településtervezési szakterületeken végzett tervezési tevékenység.
+e)[^2] az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet szerinti, településtervezési szakterületeken végzett tervezési tevékenység.
 
 (4) A területrendezési tervezési tevékenység folytatásához szükséges szakmai gyakorlat időtartama
 
@@ -34,8 +34,9 @@ b) a (4) bekezdés b) pontja esetén legalább 5 évet,
 
 c) a (4) bekezdés c) pontja esetén legalább 2 évet
 
-## a (3) bekezdés a) vagy b) pontjában meghatározott szakmai gyakorlattal kell teljesíteni.
+a (3) bekezdés a) vagy b) pontjában meghatározott szakmai gyakorlattal kell teljesíteni.
 
 (6) Szakmai gyakorlatként az egyetemi végzettség és a részlegesen szakirányú végzettség megszerzését követően teljesített szakmai gyakorlat időtartamát kell figyelembe venni.
 
-[^1]: Az 1. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^1]: Az 1. § (1) bekezdése a 140/2024. (VI. 28.) Korm. rendelet 9. §-a szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 15. §-ával megállapított szöveg.

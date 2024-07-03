@@ -1,8 +1,6 @@
-## 10. §[^10]
-
 1. melléklet a 77/ 2010. (III. 25.) Korm. rendelethez
 
-## Szakirányú továbbképzések
+Szakirányú továbbképzések
 
 1. Önkormányzati főépítész szakmérnöki
 
@@ -11,5 +9,3 @@
 3. Városépítési-városgazdasági szakmérnöki
 
 4. Urbanista szakmérnöki
-
-[^10]: A 10. § a (3) bekezdés alapján hatályát vesztette.
