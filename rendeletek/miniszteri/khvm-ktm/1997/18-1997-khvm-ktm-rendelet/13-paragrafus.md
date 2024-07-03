@@ -1,18 +1,18 @@
-## Zajmonitor rendszer létesítése[^44]
+## Zajmonitor rendszer létesítése[^48]
 
-13. §[^45] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
+13. §[^49] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
 
 a) a zajgátló védőövezeten az A és a B jelű övezetekben levő lakások, valamint az R. 10. §-ának (2) bekezdésében említett intézmények száma együttesen több, mint 200,
 
 b) a zajgátló védőövezetek számításánál zajcsökkentő fel- és leszállási eljárásokat vettek figyelembe,
 
-c)[^46] a légiközlekedési hatóság a 12. § (2) vagy (3) bekezdése szerinti korlátozásokat írt elő, és ezek betartásának ellenőrzéséhez szükségesnek ítéli zajmonitor rendszer létesítését,
+c)[^50] a légiközlekedési hatóság a 12. § (2) vagy (3) bekezdése szerinti korlátozásokat írt elő, és ezek betartásának ellenőrzéséhez szükségesnek ítéli zajmonitor rendszer létesítését,
 
 d) a repülőtér létesítési engedélyében kötelezően elő van írva.
 
 (2) A zajmonitor rendszer mért és számított adatai szerint a zajcsökkentő repülési eljárásokat megsértő légijárművek tulajdonosait a repülőtér üzemben tartójának figyelmeztetnie kell. A kiadott figyelmeztetésekről negyedévente tájékoztatni kell az illetékes légiközlekedési hatóságot is. A figyelmeztetés eredménytelensége, a zajcsökkentő előírások ismétlődő megsértése esetén a repülőtér üzemben tartója további intézkedéseket kezdeményezhet a légiközlekedési hatóságnál.
 
-(3)[^47] A zajmonitor rendszer terveit a monitorrendszer létesítését előíró (6) bekezdés szerinti döntés véglegessé válását követő hat hónapon belül kell elkészíteni és jóváhagyásra benyújtani a légiközlekedési hatósághoz. A zajmonitor rendszer tervezésénél az alábbi szempontokat kell figyelembe venni:
+(3)[^51] A zajmonitor rendszer terveit a monitorrendszer létesítését előíró (6) bekezdés szerinti döntés véglegessé válását követő hat hónapon belül kell elkészíteni és jóváhagyásra benyújtani a légiközlekedési hatósághoz. A zajmonitor rendszer tervezésénél az alábbi szempontokat kell figyelembe venni:
 
 a) a monitorrendszer legyen alkalmas arra, hogy a zajgátló védőövezet jellemző pontjain – különösen zajra érzékeny objektumok környezetében – az egyedi zajterhelés alakulásáról, valamint az övezethatárokon a tényleges zajterhelésről megbízható eredményeket adjon;
 
@@ -30,7 +30,7 @@ a) új repülőtér létesítése vagy meglévő repülőtér jelentős mérték
 
 b) meglevő repülőtéren, az e rendelet hatálybalépése miatt szükségessé váló zajmonitor rendszer kiépítését vagy szükségessé váló bővítését a zajgátló védőövezet kijelölésétől számított másfél éven belül végre kell hajtani. A légiközlekedési hatóság a zajmonitor rendszer kiépítésére másfél éven túli határidőt is előírhat, ha a zajgátló védőövezetben a zajvédelmi intézkedések végrehajtása az R. 17. §-ának (5) bekezdése szerinti program alapján történik.
 
-[^44]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
-[^45]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
-[^46]: A 13. § (1) bekezdés c) pontja a 17/2016. (VI. 10.) NFM rendelet 6. § r) pontja szerint módosított szöveg.
-[^47]: A 13. § (3) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^48]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
+[^49]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
+[^50]: A 13. § (1) bekezdés c) pontja a 17/2016. (VI. 10.) NFM rendelet 6. § r) pontja szerint módosított szöveg.
+[^51]: A 13. § (3) bekezdés nyitó szövegrésze az 55/2017. (XII. 27.) NFM rendelet 6. §-a szerint módosított szöveg.

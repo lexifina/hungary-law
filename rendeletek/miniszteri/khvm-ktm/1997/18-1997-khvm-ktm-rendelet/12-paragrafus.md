@@ -1,6 +1,6 @@
 ## A környezeti zajterhelés csökkentését célzó repülőtér-használati eljárások
 
-12. §[^27] (1) A repülőtér üzemben tartójának és a légiközlekedési hatóságnak a kiegyensúlyozott megközelítést alkalmazva kell elérni
+12. §[^28] (1) A repülőtér üzemben tartójának és a légiközlekedési hatóságnak a kiegyensúlyozott megközelítést alkalmazva kell elérni
 
 a) a repülőtér környezetében a repülési zaj növekedésének megállítását és a zajjal érintett lakosság számának csökkentését;
 
@@ -10,9 +10,9 @@ c) a lehetséges intézkedések közül a költségek szempontjából leghatéko
 
 (2) A kisebb zajterhelést okozó, csendesebb repülőgépek üzemelése érdekében
 
-a) nem nyilvános repülőtér üzemben tartója a zajosabb légijárművek forgalmát kitilthatja vagy korlátozhatja,
+a)[^29] közforgalom számára nyitva nem álló repülőtér üzemben tartója a zajosabb légijárművek forgalmát kitilthatja vagy korlátozhatja,
 
-b)[^28] nyilvános repülőtéren a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló rendeletben meghatározott zajhatárértékek túllépése esetén a légiközlekedési hatóság elrendelhet a zajosabb repülőgépek működésére vonatkozó korlátozásokat, illetve a repülőtér üzemben tartója a légiközlekedési hatóságnál kezdeményezheti korlátozások elrendelését. Repülőgép típusokra vonatkozó korlátozás esetén a korlátozás sorrendjére vonatkozó döntést a repülőgépeknek a 16. függelék szerinti jóváhagyási eljárás során meghatározott zajteljesítménye alapján kell meghozni.
+b)[^30] közforgalom számára nyitva álló repülőtéren a környezeti zaj- és rezgésterhelési határértékek megállapításáról szóló rendeletben meghatározott zajhatárértékek túllépése esetén a légiközlekedési hatóság elrendelhet a zajosabb repülőgépek működésére vonatkozó korlátozásokat, illetve a repülőtér üzemben tartója a légiközlekedési hatóságnál kezdeményezheti korlátozások elrendelését. Repülőgép típusokra vonatkozó korlátozás esetén a korlátozás sorrendjére vonatkozó döntést a repülőgépeknek a 16. függelék szerinti jóváhagyási eljárás során meghatározott zajteljesítménye alapján kell meghozni.
 
 (3) A légiközlekedési zaj zavaró hatásának csökkentése, a repülőtér környezetében élők éjszakai pihenésének biztosítása érdekében
 
@@ -26,9 +26,9 @@ időszakban.
 
 Ettől eltérni csak kivételes esetben, a légiközlekedési hatóság engedélyével lehet. Az eltérésekről a repülőtér üzemben tartójának megfelelő indoklással értesíteni kell az érintett terület (területek) önkormányzatát (önkormányzatait), és az értesítést a helyben szokásos módon közzé kell tenni;
 
-b) nem nyilvános repülőtér üzemben tartója bizonyos időszakokban az a) pontban említett eseteken túlmenően is korlátozhatja a repülési műveletek számát. Részleges (bizonyos időszakra vagy műveletekre vonatkozó) vagy teljes fel- és leszállási tilalmat rendelhet el az éjszakára vagy az éjszaka egy részére vonatkozóan, illetve munkaszüneti napokon, pihenőnapokon, pihenőidőben stb. A repülőgép típusok műveleteinek időszakos korlátozását a (2) bekezdés b) pont szerinti zajteljesítmény figyelembevételével kell meghatározni;
+b)[^31] az Lt. 37. § (1) bekezdés b) pont ba), bd) és be) alpontjában meghatározott repülőtér üzemben tartója bizonyos időszakokban az a) pontban említett eseteken túlmenően is korlátozhatja a repülési műveletek számát. Részleges (bizonyos időszakra vagy műveletekre vonatkozó) vagy teljes fel- és leszállási tilalmat rendelhet el az éjszakára vagy az éjszaka egy részére vonatkozóan, illetve munkaszüneti napokon, pihenőnapokon, pihenőidőben stb. A repülőgép típusok műveleteinek időszakos korlátozását a (2) bekezdés b) pont szerinti zajteljesítmény figyelembevételével kell meghatározni;
 
-c) nyilvános repülőtér esetében a légiközlekedési hatóság előírhat az a) pont szerinti korlátozáson túlmenő, bizonyos időszakokban meghatározott zajteljesítményű repülőgépekre vagy műveletekre vonatkozó tilalmat, illetve a repülőtér üzemben tartója kezdeményezheti ezek előírását a légiközlekedési hatóságnál,
+c)[^32] közforgalom számára nyitva álló repülőtér esetében a légiközlekedési hatóság előírhat az a) pont szerinti korlátozáson túlmenő, bizonyos időszakokban meghatározott zajteljesítményű repülőgépekre vagy műveletekre vonatkozó tilalmat, illetve a repülőtér üzemben tartója kezdeményezheti ezek előírását a légiközlekedési hatóságnál,
 
 d) meg kell tiltani az éjszakai (22 és 6 óra közötti) hajtóműpróbát, ha az abból eredő zajszint a hajtóműpróba ideje alatt a repülési műveletekből eredő zajjal együtt a védendő épület homlokzata előtt eléri vagy meghaladja az 55 dB zajszintet. A repülőtér üzemben tartója ezen túlmenő időszakos korlátozásokat vezethet be a repülőtér földi tevékenységéből származó zajokra nézve is.
 
@@ -48,5 +48,8 @@ b) a repülőtéren, ahol ez szükséges, a légiközlekedési hatóság elrende
 
 (6) A (2) és (3) bekezdésben foglalt előírások nem vonatkoznak a közös felhasználású polgári és katonai repülőtéren végrehajtott állami repülésre.
 
-[^27]: A 12. § a 36/2004. (III. 31.) GKM–KvVM e. r. 8. §-ával megállapított szöveg.
-[^28]: A 12. § (2) bekezdés b) pontja a 17/2016. (VI. 10.) NFM rendelet 3. §-ával megállapított szöveg. [E módosító rendelet 6. § h) pontjával elrendelt módosítás, amely szerint a „16. függelék (3. kiadás, 1993)” szövegrész helyébe a „16. függelék” szöveg lép, nem vezethető át.]
+[^28]: A 12. § a 36/2004. (III. 31.) GKM–KvVM e. r. 8. §-ával megállapított szöveg.
+[^29]: A 12. § (2) bekezdés a) pontja a 16/2024. (VII. 2.) ÉKM rendelet 3. § a) pontja szerint módosított szöveg.
+[^30]: A 12. § (2) bekezdés b) pontja a 17/2016. (VI. 10.) NFM rendelet 3. §-ával megállapított, a 16/2024. (VII. 2.) ÉKM rendelet 3. § b) pontja szerint módosított szöveg. [A 17/2016. (VI. 10.) NFM rendelet 6. § h) pontjával elrendelt módosítás, amely szerint a „16. függelék (3. kiadás, 1993)” szövegrész helyébe a „16. függelék” szöveg lép, nem vezethető át.]
+[^31]: A 12. § (3) bekezdés b) pontja a 16/2024. (VII. 2.) ÉKM rendelet 3. § c) pontja szerint módosított szöveg.
+[^32]: A 12. § (3) bekezdés c) pontja a 16/2024. (VII. 2.) ÉKM rendelet 3. § b) pontja szerint módosított szöveg.

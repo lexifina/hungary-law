@@ -6,7 +6,7 @@
 
 a) érdekelt fél: az a természetes vagy jogi személy, akinek vagy amelynek jogos érdekeit a zaj csökkentése érdekében tett, illetve teendő intézkedés – különösen a légiforgalmi korlátozás – érinti vagy érintheti,
 
-b) fő kereskedelmi repülőtér: kereskedelmi repülőtér, amelyen az aktuális dátumot megelőző három év átlagában jet repülőgépek egy naptári évben 50 000-nél több műveletet (felszállás vagy leszállás) hajtottak végre,
+b)[^4] fő nemzetközi kereskedelmi és kereskedelmi repülőtér: nemzetközi kereskedelmi és kereskedelmi repülőtér, amelyen az aktuális dátumot megelőző három év átlagában polgári légiközlekedési szubszonikus sugárhajtású repülőgéppel egy naptári évben 50 000-nél több műveletet hajtottak végre,
 
 c) kiegyensúlyozott megközelítés: az 598/2014/EU európai parlamenti és tanácsi rendelet 2. cikk 3. pontja szerinti eljárás,
 
@@ -25,3 +25,4 @@ i) zajvédelmi intézkedés: az 598/2014/EU európai parlamenti és tanácsi ren
 [^1]: Az 1. § a 47/2019. (XII. 23.) ITM rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. §-t megelőző alcím a 36/2004. (III. 31.) GKM–KvVM e. r. 2. §-ával megállapított szöveg.
 [^3]: A 2. § a 17/2016. (VI. 10.) NFM rendelet 1. §-ával megállapított szöveg.
+[^4]: A 2. § b) pontja a 16/2024. (VII. 2.) ÉKM rendelet 1. §-ával megállapított szöveg.

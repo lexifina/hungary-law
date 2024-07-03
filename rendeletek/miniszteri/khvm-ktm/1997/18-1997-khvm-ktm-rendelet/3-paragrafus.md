@@ -4,7 +4,7 @@
 
 ## A számítás kiinduló adatai
 
-3. § (1)[^4] A zajgátló védőövezet kiszámításának kiinduló adatai a következők:
+3. § (1)[^5] A zajgátló védőövezet kiszámításának kiinduló adatai a következők:
 
 a) a repülőteret és annak környezetét ábrázoló térkép(ek), köztük az ingatlan-nyilvántartási térkép;
 
@@ -18,7 +18,7 @@ e) a légijárművek földi üzemeltetéséből származó emissziós zaj adatok
 
 f) a repülőteret rendszeresen használó légijárművek zajkarakterisztikái.
 
-(2)[^5] Azon repülőterek esetében, amelyeken
+(2)[^6] Azon repülőterek esetében, amelyeken
 
 a) legfeljebb 2000 kg maximális felszálló tömegű légcsavarhajtású repülőgépeket, motoros vitorlázó repülőgépeket, illetve ultrakönnyű repülőgépeket üzemeltetnek, és a mértékadó műveletszám kisebb vagy egyenlő, mint 4500,
 
@@ -28,5 +28,5 @@ c) legfeljebb 20 000 kg maximális felszálló tömegű légcsavarhajtású, ill
 
 csak az (1) bekezdés a) és d) pontjában meghatározott adatokat, valamint a repülőteret használó legnagyobb hangteljesítmény szintű, az 1. számú mellékletben meghatározott repülőgép-kategóriát kell megadni, továbbá nem kell végrehajtani a 4. § és a 6–8. § rendelkezéseit.
 
-[^4]: A 3. § eredeti szövegének számozását (1) bekezdésre változtatta a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a.
-[^5]: A 3. § (2) bekezdését a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatva.
+[^5]: A 3. § eredeti szövegének számozását (1) bekezdésre változtatta a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a.
+[^6]: A 3. § (2) bekezdését a 36/2004. (III. 31.) GKM–KvVM e. r. 3. §-a iktatta be, egyidejűleg a § eredeti szövegének számozását (1) bekezdésre változtatva.

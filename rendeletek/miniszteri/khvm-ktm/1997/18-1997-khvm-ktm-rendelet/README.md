@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-18-20-6
 | 2018-01-01 | 1997-18-20-6B.12 | 55/2017. (XII. 27.) NFM rendelet |
 | 2019-12-28 | 1997-18-20-6B.13 | 47/2019. (XII. 23.) ITM rendelet |
 | 2024-01-03 | 1997-18-20-6B.14 | 32/2023. (XII. 29.) ÉKM rendelet |
+| 2024-07-03 | 1997-18-20-6B.15 | 16/2024. (VII. 2.) ÉKM rendelet |

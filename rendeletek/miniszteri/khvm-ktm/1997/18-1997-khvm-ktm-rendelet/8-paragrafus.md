@@ -30,11 +30,11 @@
 
 ## LAmax, i: a vizsgált ponton az i-edik zajeseményhez tartozó, számítással meghatározandó maximális A hangnyomásszint (dBA),
 
-## PIi: a vizsgált ponton az i-edik zajeseményhez tartozó ún. átrepülési idő (s),[^12]
+## PIi: a vizsgált ponton az i-edik zajeseményhez tartozó ún. átrepülési idő (s),[^13]
 
 ## T0: T0 = 1 sec vonatkoztatási idő.
 
-(4) A (2) és a (3) bekezdésekben szereplő LAE, i zajeseményszintek számításához figyelembe kell venni az alábbi tényezőket[^13]:
+(4) A (2) és a (3) bekezdésekben szereplő LAE, i zajeseményszintek számításához figyelembe kell venni az alábbi tényezőket[^14]:
 
 – az egyes gépkategóriák normatív zajkibocsátási adatait,
 
@@ -48,5 +48,5 @@
 
 (5) A földön végzett műveletekből származó zajterhelést a zajgátló védőövezet egy pontján az alábbiak szerint kell meghatározni:
 
-[^12]: Átrepülési időnek nevezik a zajesemény azon időtartamát, másodpercekben mérve, amely alatt az illető zajesemény A-súlyozású, pillanatnyi hangnyomásszintje 10 dB-nél kisebb mértékben tér el a zajesemény A-súlyozású, maximális hangnyomásszintjétől.
-[^13]: A fölsorolt tényezők normatív adatait az 1. számú lábjegyzetben hivatkozott irányelv tartalmazza.
+[^13]: Átrepülési időnek nevezik a zajesemény azon időtartamát, másodpercekben mérve, amely alatt az illető zajesemény A-súlyozású, pillanatnyi hangnyomásszintje 10 dB-nél kisebb mértékben tér el a zajesemény A-súlyozású, maximális hangnyomásszintjétől.
+[^14]: A fölsorolt tényezők normatív adatait az 1. számú lábjegyzetben hivatkozott irányelv tartalmazza.
