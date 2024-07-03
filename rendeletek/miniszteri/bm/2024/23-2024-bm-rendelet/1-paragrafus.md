@@ -1,5 +1,0 @@
-## 1. A személyes gondoskodást nyújtó szociális ellátások igénybevételéről szóló 9/1999. (XI. 24.) SZCSM rendelet módosítása
-
-1. §[^2]
-
-[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
