@@ -16,7 +16,7 @@
 
 (7) A (6) bekezdésben meghatározott jelentést meg kell küldeni:
 
-a)[^4] a közlekedésbiztonsági szervnek papír alapon vagy elektronikus úton,
+a)[^5] a közlekedésbiztonsági szervnek papír alapon vagy elektronikus úton,
 
 b) az üzemben tartónak,
 
@@ -32,4 +32,4 @@ e) a biztonsági ajánlások címzettjeinek.
 
 (10) A közlekedésbiztonsági szerv az üzembentartói jelentést vagy annak kivonatát a légiközlekedés biztonságának javítása érdekében honlapján közzéteheti.
 
-[^4]: A 10. § (7) bekezdés a) pontja a 66/2016. (XII. 29.) NFM rendelet 16. §-a szerint módosított szöveg.
+[^5]: A 10. § (7) bekezdés a) pontja a 66/2016. (XII. 29.) NFM rendelet 16. §-a szerint módosított szöveg.

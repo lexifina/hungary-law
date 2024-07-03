@@ -6,6 +6,10 @@ a) a közlekedésbiztonsági szervre,
 
 b) a polgári légijármű üzemben tartójára,
 
-c) a közös felhasználású repülőtér katonai üzembentartójának kivételével a nyilvános repülőtér üzembentartójára és a polgári célú nem nyilvános repülőtér üzembentartójára, valamint
+c)[^1] a légiközlekedésről szóló 1995. évi XCVII. törvény (a továbbiakban: Lt.) 37. § (1) bekezdés a) pontjában és 37. § (1) bekezdés b) pont ba), bd) és be) alpontjában meghatározott repülőtér üzembentartójára, valamint
 
 d) a polgári légiforgalmi szolgálatra
+
+terjed ki.
+
+[^1]: Az 1. § c) pontja a 16/2024. (VII. 2.) ÉKM rendelet 16. §-ával megállapított szöveg.
