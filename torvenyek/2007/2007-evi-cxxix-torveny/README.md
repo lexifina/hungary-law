@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-129-00-00
 | 2024-01-01 | 2023. évi XCIV. törvény | 2007-129-00-00.52 |
 | 2024-01-21 | 2023. évi XCIV. törvény | 2007-129-00-00.53 |
 | 2024-07-01 | 2024. évi XIX. törvény | 2007-129-00-00.55 |
+| 2024-07-03 | 2024. évi XXXII. törvény | 2007-129-00-00.57 |
