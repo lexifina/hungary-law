@@ -5,3 +5,5 @@
 a) a légiforgalmi tájékoztató szolgálatra (a továbbiakban: AIS) és
 
 b) a légiforgalmi adatot és tájékoztatást létrehozó, az AIS-nek adatot és tájékoztatást szolgáltató szervre
+
+terjed ki.

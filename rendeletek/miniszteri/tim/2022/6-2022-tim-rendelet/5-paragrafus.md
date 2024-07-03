@@ -4,4 +4,6 @@
 
 a) műszeres repülési vagy különleges látvarepülési eljárásokat tettek közzé, vagy
 
-b) teljesítik az e rendeletben és az (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározott követelményeket.
+b)[^1] vonatkozásában az (EU) 2017/373 bizottsági végrehajtási rendeletben meghatározott követelményekkel összhangban léginavigációs szolgáltatást biztosítanak.
+
+[^1]: Az 5. § b) pontja a 16/2024. (VII. 2.) ÉKM rendelet 26. §-ával megállapított szöveg.

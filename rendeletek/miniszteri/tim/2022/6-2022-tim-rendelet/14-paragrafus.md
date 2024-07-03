@@ -43,3 +43,7 @@
 20. zajcsökkentő intézkedések leírása; valamint
 
 21. a repülőtér térkép előállításához szükséges további, az 1–19. pontban nem szereplő adatok.
+
+22.[^3] ATZ légtérrel nem rendelkező, de a légiforgalmi szolgálatok ellátásától eltérő célra létesített földi rádióállomással rendelkező repülőtér esetén a rádióállomás hívójele, frekvenciája, üzemideje, a kommunikáció során használható nyelvek, illetve a használatára vonatkozó speciális eljárások.
+
+[^3]: A 14. § 22. pontját a 16/2024. (VII. 2.) ÉKM rendelet 28. §-a iktatta be.
