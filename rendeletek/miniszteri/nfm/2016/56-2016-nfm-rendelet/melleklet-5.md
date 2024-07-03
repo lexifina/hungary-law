@@ -28,7 +28,7 @@
 
 | 14 | Tömeg | tonna, kilogramm |  |
 
-5. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^173]
+5. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^184]
 
 FEDÉLZETI VÁLASZJELADÓ (TRANSZPONDER) ÜZEMELTETÉSÉNEK SZABÁLYAI
 
@@ -60,4 +60,4 @@ Azon az ellenőrzött repülőtéren, ahol az ATC „S” módon alapuló földi
 
 7. Fedélzeti válaszjeladó repülés közbeni meghibásodása esetén a légijármű vezetőnek tájékoztatnia kell a vele rádióösszeköttetésben lévő ATS egységet a meghibásodásról.
 
-[^173]: Az 5. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés b) pontja, 33. § (3) bekezdése, 34. § r) pontja szerint módosított szöveg.
+[^184]: Az 5. melléklet a 33/2020. (X. 5.) ITM rendelet 32. § (6) bekezdés b) pontja, 33. § (3) bekezdése, 34. § r) pontja szerint módosított szöveg.

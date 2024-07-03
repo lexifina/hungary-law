@@ -1,4 +1,4 @@
-## 22/A. [^99] AFIL-ek benyújtása
+## 22/A. [^100] AFIL-ek benyújtása
 
 35/A. § (1) AFIL közlésekor a légijármű először a repülési terv benyújtási szándékot jelzi az ATS egység részére, majd a fogadás jelzését követően a következő adatokat adja meg:
 
@@ -24,4 +24,4 @@ j) egyéb, az ATS egység vagy a légijármű által szükségesnek ítélt kieg
 
 (2) A SERA rendelet melléklet 4. szakasz SERA.4001 pont d) alpontjában meghatározottak biztosítása érdekében nemzetközi repülés esetén, ha a repülési tervet a levegőből nyújtják be, azt az államhatár keresztezésének számított időpontja előtt legalább 60 perccel kell benyújtani.
 
-[^99]: A 22/A. alcímet (35/A. §) a 33/2020. (X. 5.) ITM rendelet 18. §-a iktatta be.
+[^100]: A 22/A. alcímet (35/A. §) a 33/2020. (X. 5.) ITM rendelet 18. §-a iktatta be.

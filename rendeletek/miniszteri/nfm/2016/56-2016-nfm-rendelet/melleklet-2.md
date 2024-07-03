@@ -844,6 +844,6 @@
 
 ## 12. A repülési terv űrlap képe
 
-2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^171]
+2. melléklet az 56/2016. (XII. 22.) NFM rendelethez[^182]
 
-[^171]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.
+[^182]: A 2. mellékletet a 33/2020. (X. 5.) ITM rendelet 34. § q) pontja hatályon kívül helyezte.

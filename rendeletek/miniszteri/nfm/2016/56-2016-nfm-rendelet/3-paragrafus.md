@@ -86,7 +86,7 @@
 
 42.[^23] MTMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 29. pontjában meghatározott fogalom (Military Terminal Control Area);
 
-43.[^24]
+43.[^24] ATZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 8. pontjában meghatározott fogalom (Aerodrome Traffic Zone);
 
 44. OAT: műveleti légiforgalom, amelyet állami légijárművek a GAT szabályoktól eltérően hajtanak végre (Operational Air Traffic);
 
@@ -122,31 +122,31 @@ b) RNAV navigációs előírás: amely nem tartalmazza a teljesítmény-ellenőr
 
 57. repülési tervadatok: a repülési tervből feldolgozás, megjelenítés, vagy továbbítás céljából kiválasztott adatok (Flight plan data);
 
-58. repülőtér légtere: a repülőtér körül a repülőtéri forgalom védelme érdekében kijelölt légtér;
+58.[^35]
 
-59.[^35] repülőtér feletti magasság: levegőben lévő légijárműnek a repülőtér meghatározott pontján észlelt – QFE-vel jelölt – légnyomáshoz viszonyított nyomásmagassága (Height above aerodrome);
+59.[^36] repülőtér feletti magasság: levegőben lévő légijárműnek a repülőtér meghatározott pontján észlelt – QFE-vel jelölt – légnyomáshoz viszonyított nyomásmagassága (Height above aerodrome);
 
-60.[^36] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
+60.[^37] RVSM: 1000 lábas (300 m) csökkentett függőleges elkülönítési minimum (Reduced Vertical Separation Minima);
 
 61. SID: standard műszeres indulási útvonal, a repülőtérhez vagy a repülőtér egy meghatározott futópályájához kapcsolódó IFR indulási útvonal, amely általában addig az ATS útvonalon lévő meghatározott fontos pontig tart, ahonnan a repülés útvonal szakasza kezdődik (Standard instrument departure);
 
-62.[^37] SITA rendszer: a Nemzetközi Repülési Távközlési Társaság által biztosított, a légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amely többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utasfelvétel adatcseréjére szolgál (Societe Internationale de Telecommunications Aeornautiques System);
+62.[^38] SITA rendszer: a Nemzetközi Repülési Távközlési Társaság által biztosított, a légitársaságok által használt világméretű távközlési és adatátviteli rendszer, amely többek között a repülőtéri kiszolgálás, helyfoglalás, jegykiállítás és teljes repülőtéri utasfelvétel adatcseréjére szolgál (Societe Internationale de Telecommunications Aeornautiques System);
 
-63.[^38] standard magasságmérő beállítás: az ICAO Egyezményes Légkör részeként meghatározott 1013,2 hPa légnyomás beállítása a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén (Standard altimeter setting);
+63.[^39] standard magasságmérő beállítás: az ICAO Egyezményes Légkör részeként meghatározott 1013,2 hPa légnyomás beállítása a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén (Standard altimeter setting);
 
 64. STAR: standard műszeres érkezési útvonal, jellemzően egy ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett műszeres megközelítési eljárás megkezdhető (Standard instrument arrival);
 
-65.[^39] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelzésére szolgáló rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
+65.[^40] STD: standard magasságmérő beállítás szerint üzemeltetett légijármű méterben kifejezett magasságának jelzésére szolgáló rövidítés, amely standard magasságmérő beállítás esetén az 1013,2 hPa légnyomás kerül beállításra a barometrikus magasságmérő nyomás-skáláján, ami azt eredményezi, hogy a magasságmérő 0 (nulla) műszerállást mutat az ICAO Egyezményes Légkör közepes tengerszintjén;
 
 66. szabad útvonal: a kijelölt belépő és kilépő vagy a közbenső pontok között a légijármű által alkalmazott közvetlen (direkt) útvonal (free route);
 
-67.[^40] szabad útvonalú légtér: Budapest CTA és Budapest FIR nem ellenőrzött légtere, amelyben az IFR szerint működő légijárművek a kijelölt belépő és a kilépő vagy a közbenső pontok között – a nemzetközi útvonalhálózat figyelembevételével – szabad útvonalon tervezhetik repülésüket;
+67.[^41] szabad útvonalú légtér: Budapest CTA és Budapest FIR nem ellenőrzött légtere, amelyben az IFR szerint működő légijárművek a kijelölt belépő és a kilépő vagy a közbenső pontok között – a nemzetközi útvonalhálózat figyelembevételével – szabad útvonalon tervezhetik repülésüket;
 
-68.[^41] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic information zone);
+68.[^42] TIZ: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 36. pontjában meghatározott fogalom (Traffic information zone);
 
-69.[^42] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
+69.[^43] TMA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 37. pontjában meghatározott fogalom (Terminal Control Area);
 
-70.[^43] TRA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 38. pontjában meghatározott fogalom (Temporary Reserved Area);
+70.[^44] TRA: a magyar légtér légiközlekedés céljára történő kijelöléséről szóló 26/2007. (III. 1.) GKM–HM–KvVM együttes rendelet 24. § 38. pontjában meghatározott fogalom (Temporary Reserved Area);
 
 71. TRANSITION: átmenet a végső megközelítéshez. rendszerint ATS útvonalon lévő fontos ponthoz kapcsolódó IFR érkezési útvonal, amely addig a pontig tart, ahonnan egy közzétett végső megközelítés megkezdhető (Transition to final approach);
 
@@ -181,7 +181,7 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 [^21]: A 3. § (1) bekezdés 39. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
 [^22]: A 3. § (1) bekezdés 41. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
 [^23]: A 3. § (1) bekezdés 42. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (9) bekezdésével megállapított szöveg.
-[^24]: A 3. § (1) bekezdés 43. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^24]: A 3. § (1) bekezdés 43. pontját a 33/2020. (X. 5.) ITM rendelet 34. § a) pontja hatályon kívül helyezte, újonnan a 16/2024. (VII. 2.) ÉKM rendelet 18. §-a iktatta be.
 [^25]: A 3. § (1) bekezdés 45. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
 [^26]: A 3. § (1) bekezdés 46. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
 [^27]: A 3. § (1) bekezdés 47. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (10) bekezdésével megállapított szöveg.
@@ -192,12 +192,13 @@ b) a megközelítési eljárásban meghatározott utolsó útirány elérési po
 [^32]: A 3. § (1) bekezdés 52. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés h) pontja szerint módosított szöveg.
 [^33]: A 3. § (1) bekezdés 54. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés i) pontja szerint módosított szöveg.
 [^34]: A 3. § (1) bekezdés 56. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés j) pontja szerint módosított szöveg.
-[^35]: A 3. § (1) bekezdés 59. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés k) pontja szerint módosított szöveg.
-[^36]: A 3. § (1) bekezdés 60. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés l) pontja szerint módosított szöveg.
-[^37]: A 3. § (1) bekezdés 62. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés m) pontja szerint módosított szöveg.
-[^38]: A 3. § (1) bekezdés 63. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (13) bekezdésével megállapított szöveg.
-[^39]: A 3. § (1) bekezdés 65. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (14) bekezdésével megállapított szöveg.
-[^40]: A 3. § (1) bekezdés 67. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés n) pontja szerint módosított szöveg.
-[^41]: A 3. § (1) bekezdés 68. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés o) pontja szerint módosított szöveg.
-[^42]: A 3. § (1) bekezdés 69. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (15) bekezdésével megállapított szöveg.
-[^43]: A 3. § (1) bekezdés 70. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés p) pontja szerint módosított szöveg.
+[^35]: A 3. § (1) bekezdés 58. pontját a 16/2024. (VII. 2.) ÉKM rendelet 21. § a) pontja hatályon kívül helyezte.
+[^36]: A 3. § (1) bekezdés 59. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^37]: A 3. § (1) bekezdés 60. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^38]: A 3. § (1) bekezdés 62. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^39]: A 3. § (1) bekezdés 63. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (13) bekezdésével megállapított szöveg.
+[^40]: A 3. § (1) bekezdés 65. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (14) bekezdésével megállapított szöveg.
+[^41]: A 3. § (1) bekezdés 67. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés n) pontja szerint módosított szöveg.
+[^42]: A 3. § (1) bekezdés 68. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^43]: A 3. § (1) bekezdés 69. pontja a 33/2020. (X. 5.) ITM rendelet 12. § (15) bekezdésével megállapított szöveg.
+[^44]: A 3. § (1) bekezdés 70. pontja a 33/2020. (X. 5.) ITM rendelet 32. § (2) bekezdés p) pontja szerint módosított szöveg.

@@ -14,7 +14,7 @@
 
 (6) Az ellenőrzött légtéren kívül üzemeltetett, repülési tervet be nem nyújtott légijármű repüléstájékoztató és riasztó szolgálatot nem vehet igénybe, és tájékoztatást csak külön kérésre kaphat, továbbá az ATS egységek a légijárművet nem tekintik ismert forgalomnak.
 
-(7)[^119] A kért tájékoztatás nem helyettesíti a SERA rendelet melléklet 2. szakasz SERA.2010 pont b) alpontjában meghatározott, repülésre történő megfelelő földi felkészülést.
+(7)[^120] A kért tájékoztatás nem helyettesíti a SERA rendelet melléklet 2. szakasz SERA.2010 pont b) alpontjában meghatározott, repülésre történő megfelelő földi felkészülést.
 
 (8) Ellenőrzött légtéren kívül VFR szerint működő légijárműnek ATS felderítő berendezésen alapuló forgalmi tájékoztatást vagy tanácsadást – repülési terv benyújtásától függetlenül – külön kell kérnie.
 
@@ -22,4 +22,4 @@
 
 (10) Az ellenőrzött légtéren kívül, VFR szerint működő légijármű csak a felderítő berendezések által észlelt légijárműről kaphat ATS felderítő berendezésen alapuló forgalmi tájékoztatást.
 
-[^119]: A 45. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés y) pontja szerint módosított szöveg.
+[^120]: A 45. § (7) bekezdése a 33/2020. (X. 5.) ITM rendelet 32. § (3) bekezdés y) pontja szerint módosított szöveg.

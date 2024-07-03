@@ -1,6 +1,6 @@
 ## 48. Rádióberendezésre és transzponderre vonatkozó felszereltségi követelmények
 
-65. §[^142] (1) A 117,975–137,000 MHz frekvenciasávban működő, az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságra vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendelet szerinti csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni
+65. §[^151] (1) A 117,975–137,000 MHz frekvenciasávban működő, az egységes európai égbolton belüli beszédüzemű kommunikáció csatornatávolságra vonatkozó követelmények megállapításáról szóló, 2012. november 16-i 1079/2012/EU bizottsági végrehajtási rendelet szerinti csatornaosztású rádiótávbeszélő üzemmódú rádióberendezéssel kell felszerelni
 
 a) az ellenőrzött légtérben üzemeltetett,
 
@@ -16,9 +16,9 @@ f) a TIZ-t el nem hagyó, rádióberendezéssel fel nem szerelt, hajtómű nélk
 
 légijárművet.
 
-(2) A SERA rendelet melléklet 13. szakasz SERA.13001 pont a) pontjában meghatározottak figyelembevételével – a (3) bekezdésben meghatározott kivétellel – „A” módú, 4096 kódbeállítási lehetőséggel rendelkező transzponderrel kell felszerelni azt a légijárművet, amely VFR szerint az államhatárt keresztező repülést hajt végre.
+(2)[^152]
 
-(3) A (2) bekezdésben foglaltaktól eltérően nem kell „A” módú 4096 kódbeállítási lehetőséggel rendelkező transzponderrel felszerelni az államhatárt keresztező VFR szerinti repülést végző légijárművet, amelyik a légiközlekedési hatóság által engedélyezett versenyen, rendezvényen vesz részt.
+(3)[^153]
 
 (4) Az (5) bekezdésben meghatározott kivétellel az ellenőrzött légtérben vagy a nem ellenőrzött légtérben 4000 láb (1200 m) AMSL felett VFR szerint működő légijárművet nyomásmagasság továbbítási képességgel rendelkező transzponderrel kell felszerelni.
 
@@ -30,4 +30,6 @@ légijárművet.
 
 (8) A transzpondereket a SERA rendelet melléklet 13. szakaszában és az 5. mellékletben meghatározottak szerint kell működtetni.
 
-[^142]: A 65. § a 33/2020. (X. 5.) ITM rendelet 28. §-ával megállapított szöveg.
+[^151]: A 65. § a 33/2020. (X. 5.) ITM rendelet 28. §-ával megállapított szöveg.
+[^152]: A 65. § (2) bekezdését a 16/2024. (VII. 2.) ÉKM rendelet 21. § b) pontja hatályon kívül helyezte.
+[^153]: A 65. § (3) bekezdését a 16/2024. (VII. 2.) ÉKM rendelet 21. § b) pontja hatályon kívül helyezte.
