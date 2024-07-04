@@ -1,1 +1,3 @@
-2. § A Rendelet 2. melléklet XVIII. pontjában a „Magyar Nemzeti Múzeum” szövegrész helyébe a „Magyar Nemzeti Múzeum Közgyűjteményi Központ” szöveg lép.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
