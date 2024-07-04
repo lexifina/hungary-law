@@ -1,1 +1,3 @@
-4. § Hatályát veszti a KR1 1. mellékletében foglalt táblázat C:79, C:80 és C:81 mezőjében a „területfejlesztés stratégiai tervezéséért felelős miniszter” szövegrész.
+4. §[^4]
+
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

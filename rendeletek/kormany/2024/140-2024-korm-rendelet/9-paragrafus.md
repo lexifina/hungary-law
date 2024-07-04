@@ -1,1 +1,3 @@
-9. § A KR3 1. § (1) bekezdésében az „és a területrendezésről szóló törvényben” szövegrész helyébe a „szóló 2023. évi CII. törvényben (a továbbiakban: Tftv.)” szöveg lép.
+9. §[^9]
+
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

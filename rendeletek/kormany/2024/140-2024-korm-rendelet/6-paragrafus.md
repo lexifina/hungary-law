@@ -1,3 +1,3 @@
-## „e) a térségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;”
+6. §[^6]
 
-6. § A KR2 3. § (5) bekezdésében a „jegyzőkönyvet az Országos Területfejlesztési Érdekegyeztetési Fórum és a” szövegrész helyébe a „jegyzőkönyvet a” szöveg lép.
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

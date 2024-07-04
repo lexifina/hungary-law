@@ -1,5 +1,3 @@
-7. § Hatályát veszti a KR2
+7. §[^7]
 
-a) 8. § (1) bekezdésében az „(a továbbiakban: Rendelet)” szövegrész és
-
-b) 8. § (2) bekezdése.
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
