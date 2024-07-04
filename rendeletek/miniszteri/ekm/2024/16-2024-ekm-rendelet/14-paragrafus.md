@@ -1,5 +1,3 @@
-14. § Hatályát veszti az R3.
+14. §[^15]
 
-a) 1/C. § (6) bekezdése,
-
-b) 1/D. § (3) bekezdése.
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

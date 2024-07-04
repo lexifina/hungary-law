@@ -1,5 +1,3 @@
-25. § Hatályát veszti az R6.
+25. §[^26]
 
-a) 7. §-a,
-
-b) 45. § (2) bekezdése.
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

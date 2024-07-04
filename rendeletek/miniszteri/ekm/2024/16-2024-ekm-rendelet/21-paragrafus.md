@@ -1,5 +1,3 @@
-21. § Hatályát veszti az R5.
+21. §[^22]
 
-a) 3. § (1) bekezdés 58. pontja,
-
-b) 65. § (2) és (3) bekezdése.
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

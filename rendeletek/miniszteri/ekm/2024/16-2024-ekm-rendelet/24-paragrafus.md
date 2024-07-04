@@ -1,1 +1,3 @@
-24. § Az R6. 405. § j) pontjában a „8. cikk” szövegrész helyébe a „7. cikk (1) bekezdése, 8. cikk” szöveg lép.
+24. §[^25]
+
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

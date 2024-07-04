@@ -1,3 +1,3 @@
-28. § Az R7. 14. §-a a következő 22. ponttal egészül ki:
+28. §[^29]
 
-(Az AIS a látvarepülési szabályok szerinti repülésről szóló kiadványban legalább a következő adatokat és tájékoztatásokat teszi közzé:)
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

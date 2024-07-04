@@ -1,5 +1,5 @@
 ## 9. A légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról szóló 6/2022. (VII. 27.) TIM rendelet módosítása
 
-26. § A légiforgalmi tájékoztatás rendjéről és a légiforgalmi tájékoztató szolgálat ellátásáról szóló 6/2022. (VII. 27.) TIM rendelet (a továbbiakban: R7.) 5. § b) pontja helyébe a következő rendelkezés lép:
+26. §[^27]
 
-(Az AIS az AIP harmadik részében teszi közzé azokat a repülőtereket, amelyek)
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
