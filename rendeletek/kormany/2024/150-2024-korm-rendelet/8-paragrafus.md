@@ -1,5 +1,3 @@
-8. § Hatályát veszti a 209/2013. (VI. 18.) Korm. rendelet
+8. §[^9]
 
-a) 8. § (2) bekezdés i) pontjában a „valamint” szövegrész,
-
-b) 8. § (2a) bekezdésében a „ , valamint e feladatok ellátásának díjazását” szövegrész.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

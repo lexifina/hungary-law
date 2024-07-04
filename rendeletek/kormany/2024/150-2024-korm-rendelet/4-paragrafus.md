@@ -1,5 +1,3 @@
-## „a) a nyilvántartásba vételét követő 36 hónapon belül EETS nyújtására irányuló szerződéseket köt az Európai Unió legalább négy tagállamának összes EETS-területére kiterjedően, továbbá ha e lefedettsége már nem teljes, azt hat hónapon belül helyreállítja,”
+4. §[^5]
 
-4. § A 209/2013. (VI. 18.) Korm. rendelet 12/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az EETS-szolgáltató olyan fedélzeti eszközt bocsát az EETS-felhasználó rendelkezésére, amelynek az üzemeltetéséhez szükséges tájékoztatást átadta az EETS-felhasználónak. Az EETS-szolgáltató felelőssége, hogy az EETS-felhasználó által a fedélzeti eszközön keresztül meghatározott gépjármű-osztályozási paraméterek az útdíjbevallásban az EETS-felhasználó által meghatározott módon kerüljenek benyújtásra. Az EETS-szolgáltató és az útdíjszedő által alkalmazott gépjármű-osztályozási paraméterek közötti eltérés esetén az útdíjszedő által alkalmazott gépjármű-osztályozási paramétereket kell alkalmazni, kivéve, ha azokban hiba mutatható ki.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

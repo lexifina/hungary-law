@@ -1,3 +1,3 @@
-5. § A 209/2013. (VI. 18.) Korm. rendelet 23/A. §-a a következő (3) bekezdéssel egészül ki:
+5. §[^6]
 
-„(3) Az EETS-felhasználó részére az EETS-szolgáltató állít ki számlát az útdíjfizetési szolgáltatásokról.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

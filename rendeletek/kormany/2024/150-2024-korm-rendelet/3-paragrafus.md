@@ -1,3 +1,3 @@
-3. § A 209/2013. (VI. 18.) Korm. rendelet 12. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Az EETS szolgáltató biztosítja, hogy)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
