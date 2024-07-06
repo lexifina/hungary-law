@@ -1,4 +1,4 @@
-3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^59]
+3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^66]
 
 A Díjbeszedő Holding Zrt. által ellátandó feladatok
 
@@ -14,4 +14,4 @@ A Díjbeszedő Holding Zrt. által ellátandó feladatok
 
 6. A Lebonyolító részére információ szolgáltatása a követelésekről, a Lebonyolító által meghatározott paraméterek szerinti riportok, jelentések elkészítése.
 
-[^59]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^66]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.

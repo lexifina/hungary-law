@@ -1,4 +1,4 @@
-## IV. Fejezet[^23]
+## IV. Fejezet[^26]
 
 ## 6.
 
@@ -6,9 +6,9 @@
 
 ## 8.
 
-## V. Fejezet[^24]
+## V. Fejezet[^27]
 
-## VI. Fejezet[^25]
+## VI. Fejezet[^28]
 
 ## EGYES FELADATOK ELLÁTÁSÁRA KIZÁRÓLAGOS JOG ALAPJÁN TÖRTÉNŐ KIJELÖLÉS
 
@@ -18,6 +18,6 @@
 
 (3) A Kijelölt Szolgáltató a feladatot közszolgáltatás keretében látja el.
 
-[^23]: A IV. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
-[^24]: Az V. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
-[^25]: A VI. fejezet (10–11. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^26]: A IV. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^27]: Az V. fejezetet a 761/2021. (XII. 23.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^28]: A VI. fejezet (10–11. §) a 761/2021. (XII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.

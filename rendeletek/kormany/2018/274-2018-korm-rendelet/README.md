@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-274-20-
 | 2022-01-01 | 2018-274-20-22.10 | 761/2021. (XII. 23.) Korm. rendelet |
 | 2023-08-22 | 2018-274-20-22.11 | 386/2023. (VIII. 14.) Korm. rendelet |
 | 2024-01-01 | 2018-274-20-22.12 | 373/2020. (VII. 30.) Korm. rendelet |
+| 2024-07-06 | 2018-274-20-22.13 | 159/2024. (VI. 28.) Korm. rendelet |

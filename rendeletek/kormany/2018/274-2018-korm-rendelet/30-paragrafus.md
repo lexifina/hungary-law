@@ -1,5 +1,5 @@
-## 16.[^48]
+## 16.[^52]
 
 30. §
 
-[^48]: A 16. alcímet (30. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.
+[^52]: A 16. alcímet (30. §) a 761/2021. (XII. 23.) Korm. rendelet 8. § f) pontja hatályon kívül helyezte.

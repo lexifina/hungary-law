@@ -20,7 +20,7 @@
 
 ## 1. Az MR Közösségi Lakásalap NKft. által a Törvény szerinti részletvételi jogviszony kapcsán ellátandó követeléskezelői feladatok:
 
-## 1.1. Lebonyolítónál vezetett vételárrészlet hátralék nyilvántartás alapján követeléskezelési stratégia kidolgozása.
+## 1.1.[^64] Lebonyolítónál vezetett vételárrészlethátralék-nyilvántartás alapján követeléskezelési stratégia kidolgozása, ennek keretében a fizetési könnyítésekre, illetve a tartozások megfizetésére vonatkozó szabályok meghatározása.
 
 ## 1.2. Lebonyolító által kiállított eseti vételárrészlet-értesítők megküldése a részletvevők részére.
 
@@ -50,7 +50,7 @@
 
 ## 3.1. Részletvevők lakhatása elvesztésének megakadályozása érdekében szociális, segítő szolgáltatás szervezése és fenntartása.
 
-2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^58]
+2. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^65]
 
 A Kijelölt Szolgáltató által ellátandó feladatok
 
@@ -74,4 +74,5 @@ A Kijelölt Szolgáltató által a Lakástörvény 10. § (1) bekezdésében meg
 
 9. A lakásbérleti szerződés megszűnése okán bekövetkező megüresedés esetén az ingatlanok bérbeadásból történő visszavétele, üres lakóingatlanok gondnokolása, illetve újabb bérbeadást megelőzően műszaki állapotfelmérés elkészítése.
 
-[^58]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 761/2021. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^64]: Az 1. melléklet II. Az MR Közösségi Lakásalap NKft. által ellátandó feladatok cím 1. pont 1.1. alpontja a 159/2024. (VI. 28.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^65]: A 2. mellékletet a 34. § (2) bekezdés c) pontja hatályon kívül helyezte, újonnan a 761/2021. (XII. 23.) Korm. rendelet 7. § (2) bekezdése iktatta be.

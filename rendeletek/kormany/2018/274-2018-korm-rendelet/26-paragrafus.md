@@ -1,12 +1,12 @@
-## VIII. Fejezet[^38]
+## VIII. Fejezet[^41]
 
 ## A LEBONYOLÍTÓ MŰKÖDÉSÉVEL, FELADATAIVAL KAPCSOLATOS SZABÁLYOK
 
 ## 15. A tájékoztató levél tartalma és kézbesítésének szabályai, valamint a tájékoztatás egyéb módja
 
-26. §[^39] (1)[^40]
+26. §[^42] (1)[^43]
 
-(2)[^41]
+(2)[^44]
 
 (3) A Törvény 6. § (10) bekezdése szerinti tájékoztató levél tartalmazza
 
@@ -18,7 +18,7 @@ c) a nyilatkozattételi határidőre szóló felhívást és
 
 d) a nyilatkozattétel formai és tartalmi követelményeit.
 
-[^38]: A VIII. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^39]: A 26. § a 283/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^40]: A 26. § (1) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
-[^41]: A 26. § (2) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^41]: A VIII. fejezet címe a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^42]: A 26. § a 283/2019. (XI. 28.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: A 26. § (1) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.
+[^44]: A 26. § (2) bekezdését a 761/2021. (XII. 23.) Korm. rendelet 8. § d) pontja hatályon kívül helyezte.

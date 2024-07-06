@@ -1,0 +1,7 @@
+## 32/A. §[^57] A Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról szóló 274/2018. (XII. 21.) Korm. rendelet módosításáról szóló 761/2021. (XII. 23.)Korm. rendelet hatálybalépésének napján fennálló határozott idejű bérleti szerződéses jogviszonyokra e rendelet 2019. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
+32/B. §[^58] E rendeletnek a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról szóló 274/2018. (XII. 21.) Korm. rendelet módosításáról szóló 159/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 1. § 4a–4c. pontját, 9. § (2) bekezdését, 9/A. §-át, valamint 29/A. § (1) bekezdését abban az esetben is alkalmazni kell, ha a vételár hátralévő részének egy összegben történő megfizetése a Mód. R. hatálybalépésének[^59] napját megelőzően vált esedékessé, azzal, hogy a részletvevő a fizetésrendezési és együttműködési megállapodás megkötésére vonatkozó, 9/A. § szerinti nyilatkozatát a Mód. R. hatálybalépését követő 90 napon belül teheti meg függetlenül attól, hogy az MR Közösségi Lakásalap NKft. követelés jogi úton történő érvényesítése iránt intézkedett-e.
+
+[^57]: A 32/A. §-t a 373/2020. (VII. 30.) Korm. rendelet 21. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^58]: A 32/B. §-t a 159/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^59]: A hatálybalépés időpontja 2024. július 6.

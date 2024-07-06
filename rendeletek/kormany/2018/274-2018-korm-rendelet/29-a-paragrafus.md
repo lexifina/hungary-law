@@ -1,16 +1,16 @@
-## 29. §[^46] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+## 29. §[^49] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
 
-## 15/A. [^47] Tájékoztató a részletvétel egyéb szabályairól
+## 15/A. [^50] Tájékoztató a részletvétel egyéb szabályairól
 
-29/A. § (1) Az e rendelet szerinti, a Lebonyolítót és az MR Közösségi Lakásalap NKft.-t önállóan ellátandó feladatok során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
+29/A. § (1)[^51] Az e rendelet szerinti feladatok ellátása során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra, valamint a 9/A. § szerinti megállapodásra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
 
-a) a Lebonyolító részére havonta fizetendő részletek esedékességének napját,
+a) a Lebonyolító részére a részletvételi jogviszony, továbbá a részletfizetésre irányuló megállapodás keretében havonta fizetendő részletek esedékességének napját,
 
-b) a havonta fizetendő részletek teljesítésének feltételeit, elszámolásának rendjét,
+b) a részletvételi jogviszony, továbbá a részletfizetésre irányuló megállapodás keretében havonta fizetendő részletek teljesítésének, valamint a fizetési halasztásra irányuló megállapodás alapján történő teljesítés feltételeit, elszámolásának rendjét,
 
-c) a vételár előteljesítésének feltételeit, elszámolásának rendjét,
+c) a vételár, illetve a megállapodás szerinti tartozás előteljesítésének feltételeit, elszámolásának rendjét,
 
-d) a 9. § szerinti egyösszegű esedékesség beállta esetén a részletvevőnek szóló fizetési felszólítás megküldésének rendjét és
+d) a vételár hátralévő része egyösszegű megfizetésének esedékessé válása beállta esetén, illetve a megállapodás nemteljesítésből eredő megszűnése esetén a részletvevőnek szóló fizetési felszólítás megküldésének rendjét, valamint
 
 e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NKft. közötti kapcsolattartás formáját és rendjét.
 
@@ -18,5 +18,6 @@ e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NK
 
 (3) A Lebonyolító és az MR Közösségi Lakásalap NKft. a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító és az MR Közösségi Lakásalap NKft. jogosult a tájékoztató egyoldalú módosítására a részletvevők érdekeinek figyelembe vétele mellett.
 
-[^46]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^47]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^50]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^51]: A 29/A. § (1) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

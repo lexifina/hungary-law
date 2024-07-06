@@ -1,3 +1,3 @@
-12. §[^28]
+12. §[^31]
 
-[^28]: A 12. § a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
+[^31]: A 12. § a 761/2021. (XII. 23.) Korm. rendelet 4. §-a alapján hatályát vesztette.
