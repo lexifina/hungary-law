@@ -11,3 +11,5 @@ b) protokolláris célra az állami vezetők vagy az emlékhely tulajdonosa ált
 c) idegenforgalmi célra az emlékhelyet felkereső turisták látogatásakor;
 
 d) köznapi célra az a)–c) pont alá nem tartozó esetekben
+
+a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) 7. § 21. és 43. pontja szerinti eszmei tartalmat tiszteletben tartva használható.

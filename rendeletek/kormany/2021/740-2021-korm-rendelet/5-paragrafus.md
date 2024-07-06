@@ -1,3 +1,3 @@
-5. § (1) A használati tervet szükség szerint, de legalább hétévenként felül kell vizsgálni.
+5. §[^4]
 
-(2) A használati terv felülvizsgálata során a 3. § rendelkezéseit kell alkalmazni.
+[^4]: Az 5. §-t a 162/2024. (VI. 28.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
