@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-144-20-
 | 2018-08-31 | 2013-144-20-22.4 | 92/2016. (IV. 29.) Korm. rendelet |
 | 2021-08-14 | 2013-144-20-22.5 | 492/2021. (VIII. 13.) Korm. rendelet |
 | 2022-01-01 | 2013-144-20-22.6 | 740/2021. (XII. 21.) Korm. rendelet |
+| 2024-07-06 | 2013-144-20-22.7 | 162/2024. (VI. 28.) Korm. rendelet |

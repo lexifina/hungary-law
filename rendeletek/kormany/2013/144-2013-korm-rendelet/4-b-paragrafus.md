@@ -2,13 +2,13 @@
 
 a) ellátja a Bizottság feladat- és hatáskörébe tartozó nemzeti emlékhellyé és nemzeti emlékponttá nyilvánítás előkészítésével kapcsolatos operatív és adminisztratív feladatokat,
 
-b) gondoskodik a nemzeti emlékhelyek és nemzeti emlékpontok egységes megjelöléséről,
+b)[^12] gondoskodik a nemzeti és történelmi emlékhelyek és nemzeti emlékpontok egységes megjelöléséről,
 
 c) kapcsolatot tart a nemzeti és történelmi emlékhelyek, valamint a nemzeti emlékpontok kezelőivel, üzemeltetőivel,
 
-d)[^7] ellátja a nemzeti és történelmi emlékhelyekkel, valamint nemzeti emlékpontokkal kapcsolatos adminisztratív és ellenőrzési feladatokat,
+d)[^13] ellátja a nemzeti és történelmi emlékhelyekkel, valamint nemzeti emlékpontokkal kapcsolatos adminisztratív és ellenőrzési feladatokat,
 
-e)[^8] ellátja a nemzeti és történelmi emlékhelyek használatáról és fenntartható használatuk támogatásáról szóló kormányrendeletben meghatározott használati tervek előkészítésével és felülvizsgálatával kapcsolatos feladatokat,
+e)[^14] ellátja a nemzeti és történelmi emlékhelyek használatáról és fenntartható használatuk támogatásáról szóló kormányrendeletben meghatározott használati tervek előkészítésével és felülvizsgálatával kapcsolatos feladatokat,
 
 f) szakmai programokkal segíti a nemzeti emlékhelyek, illetve nemzeti emlékpontok megismertetésével összefüggő oktatási és turisztikai célkitűzéseket.
 
@@ -20,5 +20,6 @@ b) megállapodásban rögzített feltételek alapján ellátja a miniszter álta
 
 (3) Az Intézet főigazgatója feladatkörében meghatározott célból, feladatkörében eljárva az állami szervektől, szervezetektől – személyes adatnak nem minősülő – adatokat, információkat kérhet, a kapcsolódó dokumentumokba – a vonatkozó jogszabályi rendelkezéseknek megfelelően – betekinthet, azokról másolatot kérhet.
 
-[^7]: A 4/B. § (1) bekezdés d) pontja a 740/2021. (XII. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^8]: A 4/B. § (1) bekezdés e) pontja a 740/2021. (XII. 21.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^12]: A 4/B. § (1) bekezdés b) pontja a 162/2024. (VI. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^13]: A 4/B. § (1) bekezdés d) pontja a 740/2021. (XII. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^14]: A 4/B. § (1) bekezdés e) pontja a 740/2021. (XII. 21.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.

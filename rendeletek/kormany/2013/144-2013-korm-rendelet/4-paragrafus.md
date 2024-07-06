@@ -8,4 +8,6 @@ b) a magyarság nemzeti identitásának megőrzése, különös tekintettel a fi
 
 c) a nemzeti összetartozás érzésének növelése a történelmi nemzet fennmaradása, az egységes nemzet és nemzeti egység megteremtése
 
+céljából végzi tevékenységét.
+
 [^6]: A 2. alcím (4–4/B. §) a 492/2021. (VIII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
