@@ -1,6 +1,6 @@
 10. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma
+Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § (1) bekezdés b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma[^61]
 
 1. A termesztett biomasszára vonatkozó adattartalom:
 
@@ -183,3 +183,5 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 6.6. a fenntarthatósági nyilatkozattal érintett biomassza származási országának megnevezése;
 
 6.7. a fenntarthatósági nyilatkozattal érintett biomassza értékesítési iránya, célország megnevezése.
+
+[^61]: A 10. melléklet címe a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

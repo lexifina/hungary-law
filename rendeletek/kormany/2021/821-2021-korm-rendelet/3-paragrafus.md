@@ -30,6 +30,6 @@ b) azok az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk 1.
 
 (8) A Büat. 2. §-ában meghatározott tagállami cél teljesítésének a közlekedési szektorban történő meghatározásához a 3. mellékletben meghatározott számítási szabályok alkalmazandóak.
 
-(9)[^4] A települési hulladékból előállított villamos energiára, fűtőenergiára és hűtőenergiára nem vonatkoznak az (1) bekezdésben meghatározott üvegházhatású gázkibocsátás-megtakarítási kritériumok.
+(9)[^6] A települési hulladékból előállított villamos energiára, fűtőenergiára és hűtőenergiára nem vonatkoznak az (1) bekezdésben meghatározott üvegházhatású gázkibocsátás-megtakarítási kritériumok.
 
-[^4]: A 3. § (9) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
+[^6]: A 3. § (9) bekezdését a 620/2022. (XII. 29.) Korm. rendelet 13. §-a iktatta be.

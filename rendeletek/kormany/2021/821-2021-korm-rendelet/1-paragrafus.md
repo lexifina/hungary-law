@@ -54,6 +54,8 @@
 
 25. kiskereskedelmi üzemanyag-forgalmazó: az a gazdálkodó szervezet, amely üzemanyagot üzemanyagtöltő-állomáson fogyasztónak kiszolgál;
 
+25a.[^4] külföldi erdei biomassza: olyan erdei biomassza, amelynek kitermelés szerinti területe nem Magyarországon található, de forgalmazása, felhasználása, feldolgozása Magyarországon történik;
+
 26. nem termesztett biomassza: a hulladék és feldolgozási maradvány (kivéve a faipari maradvány), valamint az állattenyésztésből származó maradványanyagok biológiailag lebontható része;
 
 27. regionális átlagérték: a bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású-gázkibocsátás elkerülés kiszámításának szabályairól szóló miniszteri rendeletben meghatározott NUTS 2 szintű régiókban jellemző, az egyes bioüzemanyag fajtákra vagy folyékony bio-energiahordozóra vagy biomasszából előállított tüzelőanyagra vonatkozó kibocsátási átlagértékek, a végtermék végső fogyasztóhoz történő átadásáig keletkező kibocsátásra, vagy az alapanyag megtermelése során keletkező kibocsátásra vonatkoztatva;
@@ -69,3 +71,4 @@
 [^1]: Az 1. § 10. pontja a 620/2022. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 21a. pontját a 620/2022. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
 [^3]: Az 1. § 22. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 25a. pontját a 164/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
