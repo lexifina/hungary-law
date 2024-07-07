@@ -1,3 +1,3 @@
-5. § Az R. 18. alcíme a következő 32/B. §-sal egészül ki:
+5. §[^5]
 
-„32/B. § E rendeletnek a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításával kapcsolatos egyes szabályokról szóló 274/2018. (XII. 21.) Korm. rendelet módosításáról szóló 159/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: Mód. R.) megállapított 1. § 4a–4c. pontját, 9. § (2) bekezdését, 9/A. §-át, valamint 29/A. § (1) bekezdését abban az esetben is alkalmazni kell, ha a vételár hátralévő részének egy összegben történő megfizetése a Mód. R. hatálybalépésének napját megelőzően vált esedékessé, azzal, hogy a részletvevő a fizetésrendezési és együttműködési megállapodás megkötésére vonatkozó, 9/A. § szerinti nyilatkozatát a Mód. R. hatálybalépését követő 90 napon belül teheti meg függetlenül attól, hogy az MR Közösségi Lakásalap NKft. követelés jogi úton történő érvényesítése iránt intézkedett-e.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
