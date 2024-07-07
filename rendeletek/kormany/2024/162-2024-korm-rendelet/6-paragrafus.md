@@ -1,1 +1,3 @@
-6. § Az R2. 6. § (2) bekezdésében a „minden év december 10-éig” szövegrész helyébe az „a tárgyévet követő év január 31-éig” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

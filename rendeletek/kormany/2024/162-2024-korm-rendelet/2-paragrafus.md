@@ -1,3 +1,3 @@
-## „f) gondoskodik a nemzeti sírkertbe tartozó temetők, temetkezési helyek, továbbá azok parcellájának megjelöléséről.”
+2. §[^3]
 
-2. § Az R1. 4/B. § (1) bekezdés b) pontjában az „a nemzeti” szövegrész helyébe az „a nemzeti és történelmi” szöveg lép.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

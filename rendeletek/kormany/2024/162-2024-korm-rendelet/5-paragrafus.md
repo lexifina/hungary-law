@@ -1,3 +1,3 @@
-5. § Az R2. a következő 10. §-sal egészül ki:
+5. §[^6]
 
-„10. § A Nemzeti Örökség Intézete létrehozásáról szóló 144/2013. (V. 14.) Korm. rendelet, valamint a nemzeti és történelmi emlékhelyek használatáról és fenntartható használatuk támogatásáról, valamint a Nemzeti Örökség Intézete létrehozásáról szóló 144/2013. (V. 14.) Korm. rendelet módosításáról szóló 740/2021. (XII. 21.) Korm. rendelet módosításáról szóló 162/2024. (VI. 28.) Korm. rendelettel (a továbbiakban: R.) megállapított 2. § (3) bekezdését, 6. § (1) bekezdését, 8. § (6) bekezdés a) pontját és 8. § (7a) bekezdését az R. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

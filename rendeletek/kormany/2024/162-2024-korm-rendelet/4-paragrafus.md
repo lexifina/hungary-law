@@ -1,3 +1,3 @@
-4. § Az R2. 8. §-a a következő (7a) bekezdéssel egészül ki:
+4. §[^5]
 
-„(7a) A támogatási kérelmek kiértékelését a támogató a NÖRI-vel közösen végzi.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
