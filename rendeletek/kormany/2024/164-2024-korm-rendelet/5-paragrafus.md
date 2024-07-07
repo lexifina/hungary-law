@@ -1,3 +1,3 @@
-5. § A 821/2021. (XII. 28.) Korm. rendelet 27. § (2) bekezdése a következő c) ponttal egészül ki:
+5. §[^6]
 
-(Ez a rendelet)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
