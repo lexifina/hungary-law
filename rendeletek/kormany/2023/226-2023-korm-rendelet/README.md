@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-226-20-
 | 2023-06-09 | 2023-226-20-22.1 | 226/2023. (VI. 8.) Korm. rendelet |
 | 2023-07-15 | 2023-226-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2023-07-16 | 2023-226-20-22.3 | 2010. évi CXXX. törvény |
+| 2024-07-08 | 2023-226-20-22.4 | 177/2024. (VII. 7.) Korm. rendelet |
