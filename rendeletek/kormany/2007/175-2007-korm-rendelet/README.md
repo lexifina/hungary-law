@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-175-20-
 | 2023-01-01 | 2007-175-20-22.18 | 570/2022. (XII. 23.) Korm. rendelet |
 | 2023-01-31 | 2007-175-20-22.19 | 163/2019. (VII. 5.) Korm. rendelet |
 | 2023-03-30 | 2007-175-20-22.20 | 98/2023. (III. 29.) Korm. rendelet |
+| 2024-07-08 | 2007-175-20-22.21 | 163/2019. (VII. 5.) Korm. rendelet |
