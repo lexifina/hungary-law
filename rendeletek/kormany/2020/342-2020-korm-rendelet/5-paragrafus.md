@@ -4,9 +4,9 @@
 
 a) a 2021. évben a 2. § szerinti összeg 25%-a,
 
-b)[^5]
+b)[^6]
 
-c)[^6]
+c)[^7]
 
-[^5]: Az 5. § b) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
-[^6]: Az 5. § c) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^6]: Az 5. § b) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
+[^7]: Az 5. § c) pontját a 195/2022. (V. 27.) Korm. rendelet 25. §-a hatályon kívül helyezte.
