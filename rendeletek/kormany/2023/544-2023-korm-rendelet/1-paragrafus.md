@@ -14,7 +14,7 @@ ae) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvén
 
 af) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti,
 
-ag) a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) szerinti hivatásos és szerződéses katonai,
+ag)[^2] a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Hjkr.) szerinti hivatásos és szerződéses katonai,
 
 ah) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.) szerinti,
 
@@ -35,3 +35,5 @@ ba) az Mt. szerinti munkaviszonyban álló, valamint
 bb) a 2013. december 31-én a Gyvt. 66/G. § (1) bekezdése szerinti hivatásos nevelőszülői jogviszonyban álló
 
 természetes személyre [az a) és a b) pont a továbbiakban együtt: foglalkoztatott] terjed ki.
+
+[^2]: Az 1. § a) pont ag) alpontja a 176/2024. (VII. 7.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.

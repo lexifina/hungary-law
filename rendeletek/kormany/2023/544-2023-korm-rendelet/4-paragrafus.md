@@ -10,7 +10,7 @@ d) a Küt. szerinti illetményt,
 
 e) a hivatásos foglalkoztatottak esetében a Hszt. 168. §-a szerinti távolléti díj alapját képező illetményt, a rendvédelmi alkalmazottak esetében a Hszt. 289. §-a szerinti illetményt, a rendvédelmi szervnél működő egészségügyi szolgáltatónál foglalkoztatottak esetében a Hszt. 317/B. §-a szerinti illetményt, valamint a Hszt. 317/C. §-a szerinti szakdolgozói pótlékot,
 
-f) a Hjt. 2. § 41. pontja szerinti távolléti díj alapját képező illetményt,
+f)[^3] a Hjkr. 24. § (1) vagy (4) bekezdése szerinti alapilletményt,
 
 g) a Haj. 67. §-a szerinti illetményt (beleértve a garantált illetmény feletti, a munkáltató döntése alapján megállapított illetményrészt is), a honvédelmi alkalmazott számára a Haj. 70–74. §-a alapján megállapított illetménypótlékot, a Haj. 75. §-a alapján megállapított honvédelmi illetménykiegészítést, továbbá az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet [a továbbiakban: 256/2013. (VII. 5.) Korm. rendelet] szerinti rendszeres pótlékokat,
 
@@ -31,3 +31,5 @@ n) a külképviseletekről és a tartós külszolgálatról szóló törvény sz
 o) az Eszjtv. 8. §-a szerinti illetményt, beleértve a 256/2013. (VII. 5.) Korm. rendelet szerinti rendszeres pótlékokat.
 
 (2) A kompenzáció a személyi jövedelemadó-előleg megállapításánál nem rendszeres jövedelemnek minősül, és a költségvetési rend szerint foglalkoztatottak egyéb személyi juttatásaiként kell elszámolni. A kifizetés a statisztikai elszámolásokban a szociális költségek között kerül figyelembevételre.
+
+[^3]: A 4. § (1) bekezdés f) pontja a 176/2024. (VII. 7.) Korm. rendelet 32. § b) pontja szerint módosított szöveg.
