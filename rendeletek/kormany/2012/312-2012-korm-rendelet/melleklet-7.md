@@ -52,7 +52,7 @@
 
 | 19. | A víziutak medrétől és a kikötők, átkelések, parti és vízterületétől 50 méternél kisebb távolságban épülő tűz-, és 100 méternél kisebb távolságban épülő robbanásveszélyes anyagok gyártását, tárolását, forgalmazását szolgáló, valamint az 50 méternél kisebb távolságban épülő hajózási parti jelzések láthatóságát befolyásoló, a jelentős fénykibocsátású, a hajók part mellé kikötését és a partra történő kijárást korlátozó építmények építése esetén | A tervezett építmény nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve a hajózási létesítmények működését. | a) építési, b) összevont, c) d) használatbavételi, e) fennmaradási engedélyezési eljárás |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^462]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^465]
 
 Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
@@ -84,4 +84,4 @@ Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
 | 3. | Egységes környezethasználati engedélyhez kötött tervezett tevékenység esetén. | A környezetszennyezés megelőzése, a környezet terhelésének csökkentése érdekében mi az elérhető legjobb technika. |
 
-[^462]: A 7. melléklet a 457/2017. (XII. 28.) Korm. rendelet 410. § (21) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 9. és 19. pontja, a 616/2022. (XII. 29.) Korm. rendelet 143. §-a szerint módosított szöveg.
+[^465]: A 7. melléklet a 457/2017. (XII. 28.) Korm. rendelet 410. § (21) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 9. és 19. pontja, a 616/2022. (XII. 29.) Korm. rendelet 143. §-a szerint módosított szöveg.

@@ -1,3 +1,3 @@
-63. §[^385]
+63. §[^386]
 
-[^385]: A 63. §-t a 144/2017. (VI. 12.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.
+[^386]: A 63. §-t a 144/2017. (VI. 12.) Korm. rendelet 17. § e) pontja hatályon kívül helyezte.

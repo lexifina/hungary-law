@@ -68,3 +68,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2023-09-01 | 2012-312-20-22.60 | 788/2021. (XII. 27.) Korm. rendelet |
 | 2023-11-01 | 2012-312-20-22.59 | 262/2015. (IX. 14.) Korm. rendelet |
 | 2024-07-01 | 2012-312-20-22.62 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2024-07-08 | 2012-312-20-22.63 | 178/2024. (VII. 7.) Korm. rendelet |

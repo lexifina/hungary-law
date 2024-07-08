@@ -46,7 +46,9 @@ a) az ügyben érintett szakhatóság előzetes állásfoglalását – amennyib
 
 b)[^240] a 4. § (4) bekezdése szerinti nyilatkozatokat.
 
-(10)[^241] A miniszteri rendelet hatálya alá tartozó épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a miniszteri rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal kell igazolni az építési engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglalt energetikai jellemzőknek vagy a használatbavételre irányuló kérelem benyújtása napján hatályos miniszteri rendelet követelményeinek való megfelelést.
+c)[^241] a Khvr.-ben meghatározott esetekben a végleges egységes környezethasználati engedélyt, ha a környezethasználó a Khvr. 1. § (6c) bekezdés a) pontja szerinti engedéllyel rendelkezett, vagy ehelyett az iktatószám megjelölésével nyilatkozni is lehet a döntés meglétéről.
+
+(10)[^242] A miniszteri rendelet hatálya alá tartozó épület bővítése esetén, ha a bővítés mértéke meghaladja a bővítendő épület hasznos alapterületének 100%-át, a teljes épületre vonatkozóan a miniszteri rendeletben meghatározott számítással vagy energetikai tanúsítvánnyal kell igazolni az építési engedélyhez tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglalt energetikai jellemzőknek vagy a használatbavételre irányuló kérelem benyújtása napján hatályos miniszteri rendelet követelményeinek való megfelelést.
 
 [^229]: A 39. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 179. § (10) bekezdésével megállapított, nyitó szövegrésze a 144/2017. (VI. 12.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
 [^230]: A 39. § (1) bekezdés a) pontját a 306/2016. (X. 13.) Korm. rendelet 15. § c) pontja hatályon kívül helyezte.
@@ -60,4 +62,5 @@ b)[^240] a 4. § (4) bekezdése szerinti nyilatkozatokat.
 [^238]: A 39. § (8) bekezdés d) pontját újonnan a 700/2020. (XII. 29.) Korm. rendelet 14. §-a iktatta be.
 [^239]: A 39. § (8a) bekezdését a 262/2015. (IX. 14.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 200/2023. (V. 25.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^240]: A 39. § (9) bekezdés b) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (2) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^241]: A 39. § (10) bekezdése a 200/2023. (V. 25.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^241]: A 39. § (9) bekezdés c) pontját a 178/2024. (VII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^242]: A 39. § (10) bekezdése a 200/2023. (V. 25.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
