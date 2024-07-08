@@ -2,7 +2,7 @@
 
 ## (cégszerű aláírás)
 
-2. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^44]
+2. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^47]
 
 1. Kötött segélyhitelezési portfólió tervezett teljes támogatási igénye
 
@@ -42,4 +42,4 @@
 
 3. Kötött segélyhitelezési portfólió tervezett díjtámogatási igénye
 
-[^44]: A 2. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^47]: A 2. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.

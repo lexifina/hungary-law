@@ -14,8 +14,8 @@
 
 ## (cégszerű aláírás)
 
-5. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^47]
+5. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^50]
 
 A … év … negyedévi jelentés és elszámolás a segélyhitelekkel kapcsolatos kamattámogatási igényről és befizetési kötelezettségről
 
-[^47]: Az 5. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^50]: Az 5. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.

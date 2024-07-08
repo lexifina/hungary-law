@@ -14,7 +14,7 @@
 
 ## (cégszerű aláírás)
 
-6. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^48]
+6. melléklet a 232/2003. (XII. 16.) Korm. rendelethez[^51]
 
 A … év … negyedévi segélyhitelekkel kapcsolatos biztosítási díj támogatási igény lehívási kérelme
 
@@ -36,4 +36,4 @@ Melléklet:
 
 (cégszerű aláírás)
 
-[^48]: A 6. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
+[^51]: A 6. mellékletet a 60/2018. (III. 27.) Korm. rendelet 9. §-a iktatta be.
