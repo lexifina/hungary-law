@@ -1,0 +1,3 @@
+18. § Az R. 56. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A minősítés megszüntetése vagy megszűnése előtt a saját készítésű, saját minősítésű minősített adatot tartalmazó adathordozó eredeti irattári példánya – ha törvény másként nem rendelkezik – nem selejtezhető és nem semmisíthető meg. A saját készítésű minősített adat minősítésének megszűnése vagy megszüntetése után az adatot tartalmazó adathordozó, valamint a saját készítésű – minősítési jelölés megismétlésével készült –, további saját minősítést igénylő adatot nem tartalmazó adathordozó eredeti irattári példányának selejtezésére a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvényben foglaltak az irányadók.”
