@@ -1,12 +1,17 @@
-3. § (1)[^13] Az Engedély – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túl – tartalmazza a kezelhető minősített adatok legmagasabb minősítési szintjét, valamint az engedélyezett biztonsági terület helyszínének pontos megjelölését.
+3. §[^14] (1) Az adatkezelési engedéllyel rendelkező minősített adatot kezelő szerv az adatkezelési engedélyben meghatározott minősítési szintig kezelhet minősített adatot.
 
-(2) Az Engedéllyel rendelkező minősített adatot kezelő szerv az Engedélyben meghatározott minősítési szintig kezelhet minősített adatot.
+(2) Az adatkezelési engedély visszavonásig érvényes.
 
-(3) Az Engedély visszavonásig hatályos.
+(3) A Nemzeti Biztonsági Felügyelet az adatkezelési engedélyt visszavonja, ha
 
-(4) A Nemzeti Biztonsági Felügyelet az Engedélyt visszavonja, ha megállapítja, hogy a minősített adatot kezelő szervnél az e rendeletben meghatározott személyi, fizikai vagy adminisztratív biztonság feltételei nem vagy csak részben teljesülnek, továbbá, ha a gazdálkodó szervezet minősített adat védelméről szóló törvény szerinti telephely biztonsági tanúsítványát a Nemzeti Biztonsági Felügyelet visszavonta.
+a) megállapítja, hogy a minősített adatot kezelő szervnél az e rendeletben meghatározott személyi, fizikai vagy adminisztratív biztonság feltételei nem vagy csak részben teljesülnek,
 
-(5)[^14] A Nemzeti Biztonsági Felügyelet akkor is visszavonja az Engedélyt, ha a minősített adatot kezelő szervnél a személyi, a fizikai vagy az adminisztratív biztonság tekintetében olyan hiányosság áll fenn, amely a minősített adatok biztonságát veszélyezteti. Ilyen hiányosság esetén a Nemzeti Biztonsági Felügyelet a biztonsági vezető kinevezésének visszavonását is kezdeményezheti, továbbá intézkedéseket kezdeményezhet a minősített adatot kezelő szervnél tárolt minősített adatok biztonságba helyezésére, valamint a jogszerű állapot helyreállítására.
+b) a gazdálkodó szervezet minősített adat védelméről szóló törvény szerinti telephely biztonsági tanúsítványát a Nemzeti Biztonsági Felügyelet visszavonta,
 
-[^13]: A 3. § (1) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 290. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^14]: A 3. § (5) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 289. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+c) az ügyfél erre irányuló kérelmet terjeszt elő, vagy
+
+d) a minősített adatot kezelő szervnél a személyi, a fizikai vagy az adminisztratív biztonság tekintetében olyan hiányosság áll fenn, amely a minősített adatok biztonságát veszélyezteti.
+
+(4) A (3) bekezdés d) pontja szerinti esetben a Nemzeti Biztonsági Felügyelet a biztonsági vezető kinevezésének visszavonását is kezdeményezheti, továbbá intézkedést kezdeményezhet a minősített adatot kezelő szervnél tárolt minősített adatok biztonságba helyezésére, valamint a jogszerű állapot helyreállítására.
+
+[^14]: A 3. § a 177/2024. (VII. 7.) Korm. rendelet 3. §-ával megállapított szöveg.

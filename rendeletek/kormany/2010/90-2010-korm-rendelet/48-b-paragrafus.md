@@ -1,5 +1,3 @@
-## 48/A. § A 38. § (1)–(3) bekezdése szerint készített minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással, elektronikus bélyegzővel és időbélyeggel ellátott minősített adat kizárólag iratkezelési szoftverrel rendelkező elektronikus adatkezelő rendszerben hozható létre.
-
 48/B. § (1) Az iratkezelési szoftverrel rendelkező elektronikus adatkezelő rendszeren kezelt elektronikus minősített adatok iktatása során a 43. § (1)–(5) bekezdését kell alkalmazni.
 
 (2) Az iratkezelési szoftverrel rendelkező elektronikus adatkezelő rendszeren belül az elektronikus minősített adat készítése során az iktatás a felhasználó által a titkos ügykezelő közreműködése nélkül is történhet.

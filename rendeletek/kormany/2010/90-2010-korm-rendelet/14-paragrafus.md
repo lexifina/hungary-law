@@ -1,13 +1,12 @@
-## 8. A felhasználói engedéllyel és a titoktartási nyilatkozattal kapcsolatos feladatok
+## 8.[^76] A titoktartási nyilatkozattal kapcsolatos feladatok
 
-14. § (1)[^72] A biztonsági vezető felelőssége, hogy az a felhasználó, akinek a feladata ellátásához ez szükséges, felhasználói engedéllyel és általa aláírt titoktartási nyilatkozattal rendelkezzen, kivéve, ha törvény alapján ilyen engedélyre és nyilatkozatra nincs szükség.
+14. §[^77] (1) A biztonsági vezető felelős azért, hogy az a felhasználó, akinek a feladata ellátásához ez szükséges, általa aláírt titoktartási nyilatkozattal rendelkezzen, kivéve, ha törvény alapján ilyen nyilatkozatra nincs szükség.
 
-(2) Egyazon felhasználói engedélyben nemzeti és külföldi minősített adat felhasználására is adható felhatalmazás, ennek megfelelően a felhasználói engedélyben meghatározott minősített adatok meghivatkozásával elegendő egy titoktartási nyilatkozatot aláírni.
+(2) A titoktartási nyilatkozat kezelését és tárolását a biztonsági vezető vagy az e feladattal általa írásban kijelölt személy vagy szervezeti egység végzi.
 
-(3)[^73] A felhasználói engedély és a titoktartási nyilatkozat kezelését és tárolását a biztonsági vezető vagy az e feladattal általa írásban kijelölt személy vagy szervezeti egység végzi.
+(3) A biztonsági vezető felelős azért, hogy a minősített adatot kezelő szervnél tárolt titoktartási nyilatkozatot a 15. § szerinti esetek bekövetkezését követően 8 évig megőrizzék. Ezt követően a biztonsági vezető intézkedik annak selejtezési jegyzőkönyv felvétele mellett történő megsemmisítéséről.
 
-(4)[^74] A szignálásra jogosult vezető felelőssége, hogy olyan felhasználó részére engedélyezze a minősített adat felhasználását, aki rendelkezik felhasználói engedéllyel és általa aláírt titoktartási nyilatkozattal, kivéve, ha törvény alapján ilyen engedélyre és nyilatkozatra nincs szüksége.
+(4) A titoktartási nyilatkozatra vonatkozó ajánlott mintát a Nemzeti Biztonsági Felügyelet a honlapján közzéteszi.
 
-[^72]: A 14. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^73]: A 14. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^74]: A 14. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^76]: A 8. alcím címe a 177/2024. (VII. 7.) Korm. rendelet 22. § g) pontja szerint módosított szöveg.
+[^77]: A 14. § a 177/2024. (VII. 7.) Korm. rendelet 10. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-66. §[^185]
+66. §[^206]
 
-[^185]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.
+[^206]: A 64–69. §-t a 70. § (2) bekezdése hatályon kívül helyezte.

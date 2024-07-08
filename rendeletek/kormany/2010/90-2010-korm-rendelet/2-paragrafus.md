@@ -2,13 +2,14 @@
 
 ## A MINŐSÍTETT ADAT KEZELÉSÉVEL KAPCSOLATOS HATÓSÁGI JOGKÖR
 
-2. § (1)[^11] „Bizalmas” vagy annál magasabb minősítési szintű minősített adat e rendelet szerinti felhasználására és tárolására a 3. §-ban meghatározott engedély birtokában kerülhet sor.
+2. §[^13] (1) „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat e rendelet szerinti felhasználására és tárolására adatkezelési engedély birtokában kerülhet sor.
 
-(2) Az ügyfél kialakítja a személyi, fizikai és adminisztratív biztonsági feltételeket, majd kéri a Nemzeti Biztonsági Felügyelettől a „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat kezelésére vonatkozó engedély (a továbbiakban: Engedély) kiadását.
+(2) A biztonsági vezető helyszínbejárást kérhet a Nemzeti Biztonsági Felügyelettől a tervezett biztonsági terület fizikai biztonsági feltételeivel kapcsolatban.
 
-(3)[^12] Az ügyfél az Engedély iránti kérelmét, amely az általa felhasználni és tárolni kívánt minősített adatok legmagasabb minősítési szintjét és a kialakított biztonsági terület helyszínének pontos megjelölését tartalmazza, a Nemzeti Biztonsági Felügyelet honlapján közzétett nyomtatványon terjeszti elő.
+(3) Az ügyfél kialakítja a személyi, a fizikai és az adminisztratív biztonsági feltételeket, majd kéri a Nemzeti Biztonsági Felügyelettől az adatkezelési engedély kiadását.
 
-(4) Az ügyfél az Engedély iránti kérelméhez csatolja a kialakított biztonsági területről készített egyszerűsített alaprajzot és a biztonságtechnikai rendszer egyszerűsített helyszínrajzát (tervrajzát), valamint az 1. melléklet figyelembevételével kitöltött ponttáblázatot.
+(4) Az ügyfél az adatkezelési engedély kiadása iránti kérelmét, amely tartalmazza az általa felhasználni és tárolni kívánt minősített adatok legmagasabb minősítési szintjét és a kialakított biztonsági terület helyszínének pontos megjelölését, a Nemzeti Biztonsági Felügyelet honlapján közzétett nyomtatványon terjeszti elő.
 
-[^11]: A 2. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^12]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 463. § a) pontja, a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés a) pontja szerint módosított szöveg.
+(5) Az ügyfél az adatkezelési engedély kiadása iránti kérelméhez csatolja a kialakított biztonsági területről készített egyszerűsített alaprajzot, a biztonságtechnikai rendszer egyszerűsített helyszínrajzát (tervrajzát), az 1. melléklet figyelembevételével kitöltött ponttáblázatot, valamint a 16. § (2) bekezdése szerinti igazolást vagy okiratot.
+
+[^13]: A 2. § a 177/2024. (VII. 7.) Korm. rendelet 2. §-ával megállapított szöveg.

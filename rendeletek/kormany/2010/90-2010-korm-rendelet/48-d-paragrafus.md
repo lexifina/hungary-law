@@ -6,6 +6,8 @@
 
 (3) A törlésről minden esetben törlési jegyzőkönyv készül. A jegyzőkönyv tartalmazza a törlésre kerülő minősített adatok azonosításához a nyilvántartási számot, a minősítési szintet, – ha az adathordozóból megállapítható – a terjedelmet, a példánysorszámot, valamint a törlés módját és dátumát, a törlést engedélyező vezető és a törlést végző aláírását.
 
-(4) A törlés a biztonsági vezető által a minősített adatot kezelő szerv állományából kijelölt, a törlendő minősített adatra érvényes felhasználói engedéllyel és személyi biztonsági tanúsítvánnyal rendelkező személy végezheti.
+(4)[^164] A törlést a biztonsági vezető által a minősített adatot kezelő szerv állományából kijelölt, a törlendő minősített adatra érvényes személyi biztonsági tanúsítvánnyal rendelkező személy végezheti.
 
 (5) A törlési jegyzőkönyv nem selejtezhető.
+
+[^164]: A 48/D. § (4) bekezdése a 177/2024. (VII. 7.) Korm. rendelet 21. § l) pontja és 22. § o) pontja szerint módosított szöveg.

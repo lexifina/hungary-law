@@ -16,9 +16,9 @@
 
 6.[^2] futár: belföldön történő szállítás esetén az Állami Futárszolgálat, a Magyar Honvédség Katonai Futárszolgálata, a katonai futár, a rendvédelmi szervek, valamint a Nemzeti Adó- és Vámhivatal belső futára; külföldre vagy külföldről történő szállítás esetén a katonai futár, valamint a külpolitikáért felelős miniszter által vezetett minisztérium által működtetett diplomáciai és konzuli futár,
 
-7.[^3] személyes kézbesítő: a minősített adatot kezelő szerv vezetője vagy a biztonsági szabályzatban felhatalmazott személy által a minősített adat szerven kívüli szállítására írásban (felhasználói engedélyben vagy egyéb módon) kijelölt személy,
+7.[^3] személyes kézbesítő: a minősített adatot kezelő szerv vezetője vagy a biztonsági szabályzatban felhatalmazott személy által a minősített adat szerven kívüli szállítására írásban kijelölt személy,
 
-8.[^4] szállítás: a minősített adat külső kézbesítőkönyvvel vagy futárjegyzékkel történő eljuttatása a címzetthez futár vagy személyes kézbesítő útján,
+8.[^4] szállítás: a minősített adat futárjegyzékkel történő eljuttatása a címzetthez futár vagy személyes kézbesítő útján,
 
 9.[^5] elektronikai felületvédelem: olyan elektronikai jelzőrendszer, amely éles üzemmódban felügyeli a biztonsági területet határoló falazat felületén található összes nyílászáró szerkezetet, portált, födémeket, padozatokat, jelzi az át- és behatolási kísérleteket,
 
@@ -32,13 +32,19 @@
 
 14.[^10] törlés: az elektronikus minősített adat szoftver útján történő felülírása, amelynek eredményeként a minősített adat tartalmát utólag nem lehet helyreállítani.
 
+15.[^11] adatkezelési engedély: „Bizalmas!” vagy annál magasabb minősítési szintű minősített adat felhasználására és tárolására a Nemzeti Biztonsági Felügyelet által lefolytatott engedélyezési eljárást követően kiadott határozat, amely tartalmazza a kezelhető minősített adatok legmagasabb minősítési szintjét, valamint az engedélyezett biztonsági terület helyszínének pontos megjelölését.
+
+16.[^12] hiteles elektronikus másolat: valamely papíralapú minősített adatról e rendelet szabályai szerint készült, azzal képileg vagy tartalmilag egyező, joghatás kiváltására alkalmas, elektronikus eszköz útján értelmezhető adategyüttes.
+
 [^1]: Az 1. § 5. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^2]: Az 1. § 6. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^3]: Az 1. § 7. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
-[^4]: Az 1. § 8. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. § 7. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 177/2024. (VII. 7.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § 8. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be, szövege a 177/2024. (VII. 7.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § 9. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^6]: Az 1. § 10. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^7]: Az 1. § 11. pontját a 243/2016. (VIII. 17.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1. § 12. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 1. § 13. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.
 [^10]: Az 1. § 14. pontját a 242/2021. (V. 12.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § 15. pontját a 177/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § 16. pontját a 177/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.

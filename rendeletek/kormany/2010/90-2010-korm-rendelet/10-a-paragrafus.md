@@ -1,4 +1,4 @@
-10/A. §[^59] (1) Más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából a minősített adatot felhasználó személy nemzeti és külföldi személyi biztonsági tanúsítványáról a biztonsági vezető igazolást állít ki, amelyet közvetlenül vagy a minősített adatot felhasználó személy útján megküld a minősített adat felhasználása szerinti szerv biztonsági vezetőjének.
+10/A. §[^63] (1) Más hazai minősített adatot kezelő szervnél történő minősített adat felhasználása céljából a minősített adatot felhasználó személy nemzeti és külföldi személyi biztonsági tanúsítványáról a biztonsági vezető igazolást állít ki, amelyet közvetlenül vagy a minősített adatot felhasználó személy útján megküld a minősített adat felhasználása szerinti szerv biztonsági vezetőjének.
 
 (2) Az igazolás tartalmazza
 
@@ -14,11 +14,11 @@ e) az igazolás kiadásának célját és érvényességi idejét,
 
 f) a biztonsági vezető aláírását.
 
-(3)[^60] Az igazolást vissza kell vonni, ha a felhasználó munkaviszonya, kormányzati szolgálati jogviszonya, közszolgálati jogviszonya, közalkalmazotti jogviszonya, adó- és vámhatósági szolgálati jogviszonya, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonya, a honvédek jogállásáról szóló törvény szerinti szolgálati viszonya, honvédelmi alkalmazotti vagy rendvédelmi igazgatási jogviszonya a minősített adatot kezelő szervnél megszűnik, továbbá ha a feladata ellátásához minősített adat felhasználása a továbbiakban nem szükséges.
+(3)[^64] Az igazolást vissza kell vonni, ha a felhasználó munkaviszonya, kormányzati szolgálati jogviszonya, közszolgálati jogviszonya, közalkalmazotti jogviszonya, adó- és vámhatósági szolgálati jogviszonya, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonya, a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati viszonya, honvédelmi alkalmazotti vagy rendvédelmi igazgatási jogviszonya a minősített adatot kezelő szervnél megszűnik, továbbá ha a feladata ellátásához minősített adat felhasználása a továbbiakban nem szükséges.
 
 (4) Az igazolás visszavonását vagy érvényességi idejének lejártát követően a biztonsági vezető intézkedik az igazolás selejtezéséről.
 
 (5) Az igazolás kezelését és tárolását a biztonsági vezető vagy az e feladatra általa írásban kijelölt személy vagy szerv végzi.
 
-[^59]: A 10/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 11. §-a iktatta be.
-[^60]: A 10/A. § (3) bekezdése a 671/2020. (XII. 28.) Korm. rendelet 17. § d) pontja szerint módosított szöveg.
+[^63]: A 10/A. §-t a 375/2020. (VII. 30.) Korm. rendelet 11. §-a iktatta be.
+[^64]: A 10/A. § (3) bekezdése a 671/2020. (XII. 28.) Korm. rendelet 17. § d) pontja, a 176/2024. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.

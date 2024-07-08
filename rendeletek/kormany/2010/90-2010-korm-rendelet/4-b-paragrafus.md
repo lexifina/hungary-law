@@ -1,42 +1,13 @@
-## II/B. Fejezet[^33]
+4/B. § (1) A miniszteri rendelet által kijelölt
 
-## KÖZÖS HIVATALI SZERVEZET
+a) állami tulajdonú gazdálkodó szervezetek,
 
-4/B. § (1)[^34] A 4/A. § (3) bekezdése szerinti közös biztonsági vezető
+b) azon gazdálkodó szervezetek, amelyekben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyást gyakorol, valamint
 
-a) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti kormányzati igazgatási munkaszervezete,
+c) honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok, továbbá azon szervezetek, amelyek a honvédelemért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartoznak,
 
-b) a miniszterelnöknek a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet szerinti politikai munkaszervezete, és
+a minősített adat tárolására és felhasználására közös biztonsági területet működtethetnek.
 
-c) a b) pont szerinti munkaszervezetet vezető miniszter által irányított központi államigazgatási szerv
+(2) Az (1) bekezdés szerinti közös biztonsági terület létrehozásához és működtetéséhez szükséges fenntartói és irányítói jogköröket az érintett gazdálkodó szervezetek szerződésben határozzák meg.
 
-tekintetében a biztonsági vezetői feladatokat egyidejűleg több, az a)–c) pont szerinti minősített adatot kezelő szerv vonatkozásában is elláthatja.
-
-(2) Az (1) bekezdésben meghatározott esetben a biztonsági vezető az (1) bekezdés a) vagy b) pontja szerinti minősített adatot kezelő szervvel
-
-a) munkaviszonyban,
-
-b) kormányzati szolgálati jogviszonyban,
-
-c) közszolgálati jogviszonyban,
-
-d) közalkalmazotti jogviszonyban,
-
-e) bírói, igazságügyi, ügyészi szolgálati jogviszonyban,
-
-f)[^35] a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti hivatásos szolgálati jogviszonyban,
-
-g)[^36] a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszonyban, vagy
-
-h)[^37] a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény szerinti adó- és vámhatósági szolgálati jogviszonyban
-
-áll.
-
-(3)[^38] A 4/A. § (3) bekezdése szerinti közös titkos ügykezelő feladatait az (1) bekezdés szerinti minősített adatot kezelő szervek vonatkozásában ellátja.
-
-[^33]: A II/B. fejezetet (4/B. §-t) a 340/2019. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
-[^34]: A 4/B. § (1) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^35]: A 4/B. § (2) bekezdés f) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
-[^36]: A 4/B. § (2) bekezdés g) pontja a 671/2020. (XII. 28.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^37]: A 4/B. § (2) bekezdés h) pontját a 671/2020. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
-[^38]: A 4/B. § (3) bekezdése a 495/2020. (XI. 11.) Korm. rendelet 8. §-a szerint módosított szöveg.
+(3) A (2) bekezdésben meghatározott szerződés a közös biztonsági vezető és a közös titkos ügykezelő feletti munkáltatói jogkör gyakorlására vonatkozó megállapodást is tartalmazza.

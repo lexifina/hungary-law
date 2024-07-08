@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-90-20-2
 | 2021-06-11 | 2010-90-20-22.21 | 242/2021. (V. 12.) Korm. rendelet |
 | 2021-12-21 | 2010-90-20-22.22 | 697/2021. (XII. 13.) Korm. rendelet |
 | 2023-12-21 | 2010-90-20-22.23 | 243/2016. (VIII. 17.) Korm. rendelet |
+| 2024-07-08 | 2010-90-20-22.24 | 177/2024. (VII. 7.) Korm. rendelet |

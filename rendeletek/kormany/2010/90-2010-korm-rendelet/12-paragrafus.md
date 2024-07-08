@@ -4,6 +4,6 @@
 
 (2) A Nemzeti Biztonsági Felügyelet a személyi biztonsági tanúsítványt az érintett személy biztonsági vezetőjéhez továbbítja, aki intézkedik a kezeléséről, valamint a tárolásáról.
 
-(3)[^68] A Nemzeti Biztonsági Felügyeletet az általa kiadott személyi biztonsági tanúsítvány esetében a biztonsági vezető írásban értesíti, ha az érintett személy tekintetében a szükséges biztonsági feltételek nem állnak fenn.
+(3)[^72] A Nemzeti Biztonsági Felügyeletet az általa kiadott személyi biztonsági tanúsítvány esetében a biztonsági vezető írásban értesíti, ha az érintett személy tekintetében a szükséges biztonsági feltételek nem állnak fenn.
 
-[^68]: A 12. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^72]: A 12. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés d) pontja szerint módosított szöveg.

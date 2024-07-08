@@ -1,8 +1,6 @@
-## 34. §[^101] Ha a minősített adatot kezelő szerv vezetője által meghatározott területen belül a minősített adat védelme a kezelt minősített adatok minősítési szintjének megfelelő személyi biztonsági tanúsítvánnyal, felhasználói engedéllyel és titoktartási nyilatkozattal rendelkező személy 24 órás személyes felügyelete által biztosított, elegendő bármely kategóriájú ki- és beléptető rendszer.
-
 ## 26. Fizikai biztonsági alkalmasság
 
-35. §[^102] (1) Az állami szerv biztonsági területe akkor alkalmas alacsony veszélyeztetettségű nemzeti minősített adatok tárolására, ha a 2. mellékletben foglalt ponttáblázat I. oszlopában, a NATO, NYEU, valamint az EU és az EU intézményei minősített adatai tárolására, ha a 3. mellékletben foglalt ponttáblázat I. oszlopában meghatározott teljes pontszámot eléri.
+35. §[^104] (1) Az állami szerv biztonsági területe akkor alkalmas alacsony veszélyeztetettségű nemzeti minősített adatok tárolására, ha a 2. mellékletben foglalt ponttáblázat I. oszlopában, a NATO, NYEU, valamint az EU és az EU intézményei minősített adatai tárolására, ha a 3. mellékletben foglalt ponttáblázat I. oszlopában meghatározott teljes pontszámot eléri.
 
 (2) Az állami szerv biztonsági területe akkor alkalmas közepes veszélyeztetettségű nemzeti minősített adatok tárolására, ha a 2. mellékletben foglalt ponttáblázat II. oszlopában, a NATO, NYEU, valamint az EU és az EU intézményei minősített adatai tárolására, ha a 3. mellékletben foglalt ponttáblázat II. oszlopában meghatározott teljes pontszámot eléri.
 
@@ -16,5 +14,4 @@
 
 (7) Az adminisztratív zóna, az I. osztályú biztonsági terület (nyílt tárolás) esetében, valamint a 22. § (2) és (4) bekezdése szerinti kialakítás, illetve a 34. § szerinti személyes felügyelet esetén nincs szükség az (1)–(4) bekezdés szerinti pontszámításra. Ezen helyszínek akkor alkalmasak minősített adatok kezelésére, ha az e rendeletben meghatározott fizikai biztonsági feltételeket teljesítik.
 
-[^101]: A 34. § a 243/2016. (VIII. 17.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^102]: A 35. § a 243/2016. (VIII. 17.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^104]: A 35. § a 243/2016. (VIII. 17.) Korm. rendelet 18. §-ával megállapított szöveg.

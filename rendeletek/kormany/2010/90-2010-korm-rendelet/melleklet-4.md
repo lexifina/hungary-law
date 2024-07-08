@@ -32,7 +32,7 @@
 
 | 16. | Teljes pontszám: | Minimum 11 | Minimum 14 | Minimum 16 |
 
-4. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^193]
+4. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^214]
 
 A minősített adatokra meghatározott minimum biztonsági követelmények gazdálkodó szervezetek esetében
 
@@ -72,4 +72,4 @@ A minősített adatokra meghatározott minimum biztonsági követelmények gazd�
 
 | 16. | Teljes pontszám: | Minimum 16 |
 
-[^193]: A 4. mellékletet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (3) bekezdése iktatta be.
+[^214]: A 4. mellékletet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (3) bekezdése iktatta be.

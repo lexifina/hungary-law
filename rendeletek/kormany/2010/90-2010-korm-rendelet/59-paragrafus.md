@@ -2,6 +2,15 @@
 
 (2) A minősített adatot kezelő szerv vezetője biztosítja, hogy azok a biztonsági területek, ahol „Titkos!” vagy ennél magasabb minősítési szintű minősített adatokról rendszeresen tárgyalnak, lehallgatás mentesek legyenek.
 
-(3)[^180] A katonai, nemzetbiztonsági, bűnügyi, létesítménybiztosítási és személyvédelmi műveletekben a személyi biztonsági tanúsítvánnyal rendelkező személy személyes felügyelete alatt álló, minősített adatot tartalmazó technikai eszköz, valamint a művelet végrehajtásához szükséges minősített adat, a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.
+(3)[^198] A katonai, nemzetbiztonsági, bűnügyi, létesítménybiztosítási és személyvédelmi műveletekben, valamint a védelmi és biztonsági igazgatás központi szervének eljárásaiban a személyi biztonsági tanúsítvánnyal rendelkező személy felügyelete alatt álló, minősített adatot tartalmazó technikai eszköz, valamint a művelet vagy eljárás végrehajtásához szükséges minősített adat, a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.
 
-[^180]: Az 59. § (3) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 33. §-a iktatta be, szövege a 375/2020. (VII. 30.) Korm. rendelet 19. §-ával megállapított szöveg.
+(4)[^199] A felhasználó a birtokában lévő minősített adatot képező vagy tartalmazó – illetéktelen hozzáférés kizárását biztosító védelmi megoldással rendelkező – technikai eszközt a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által a technikai eszközre vonatkozó biztonsági dokumentáció alapján meghatározott biztonsági intézkedések betartásával biztonsági területen kívül is használhatja és tárolhatja.
+
+(5)[^200] A (4) bekezdés szerinti használat és tárolás során a felhasználó gondoskodik arról, hogy a minősített adat jogosulatlan személy részére ne váljon hozzáférhetővé.
+
+(6)[^201] A használatot követően minősített adatot nem tartalmazó technikai eszköz tárolása zárható helyiségben a 34. § szerinti személyes felügyelettel vagy elektronikai térvédelemmel és reagáló erő alkalmazásával történhet.
+
+[^198]: Az 59. § (3) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 33. §-a iktatta be, szövege a 177/2024. (VII. 7.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^199]: Az 59. § (4) bekezdését a 177/2024. (VII. 7.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^200]: Az 59. § (5) bekezdését a 177/2024. (VII. 7.) Korm. rendelet 20. § (2) bekezdése iktatta be.
+[^201]: Az 59. § (6) bekezdését a 177/2024. (VII. 7.) Korm. rendelet 20. § (2) bekezdése iktatta be.

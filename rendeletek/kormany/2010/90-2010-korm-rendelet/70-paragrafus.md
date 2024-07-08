@@ -1,4 +1,4 @@
-70. § (1)[^189]
+70. § (1)[^210]
 
 (2) 2010. április 2-án hatályát veszti az (1) bekezdés és a 64–69. §.
 
@@ -12,4 +12,4 @@
 
 (7) 2013. január 1-jén hatályát veszti a 62. § (5) bekezdése.
 
-[^189]: A 70. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.
+[^210]: A 70. § (1) bekezdését a (2) bekezdés hatályon kívül helyezte.

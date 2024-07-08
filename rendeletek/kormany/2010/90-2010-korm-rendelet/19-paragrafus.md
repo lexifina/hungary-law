@@ -44,7 +44,7 @@ rendelkezik.
 
 (6)[^85] Minősített adatot kezelő állami szerveknél, ahol nemzeti minősített adat nyílt tárolására kerül sor, az (1)–(4) bekezdésben előírtakat az alábbi feltételek együttes megléte esetén nem kell kiépíteni:
 
-a)[^86] az I. osztályú biztonsági terület közvetlen környezetében személyi biztonsági tanúsítvánnyal rendelkező vagy hivatásos szolgálati jogviszonyban, illetve a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló reagáló erő munkaidőn kívül legalább kétóránként, véletlenszerű időpontban ellenőrzést hajt végre,
+a)[^86] az I. osztályú biztonsági terület közvetlen környezetében személyi biztonsági tanúsítvánnyal rendelkező vagy hivatásos szolgálati jogviszonyban, illetve a honvédek jogállásáról szóló kormányrendelet szerinti szolgálati viszonyban álló reagáló erő munkaidőn kívül legalább kétóránként, véletlenszerű időpontban ellenőrzést hajt végre,
 
 b)[^87] az I. osztályú biztonsági területet határoló falazat, födém és padozat legalább 6 cm vastagságú tömör téglafal szilárdsági mutatóival egyenértékű falszerkezettel, ennél kisebb szilárdsági mutatóval rendelkező anyag esetén a c) pont ca) alpontjában meghatározott rácszerkezettel rendelkezik,
 
@@ -67,5 +67,5 @@ g) az I. osztályú biztonsági területet magába foglaló épület biztonsági
 [^83]: A 19. § (4a) bekezdését a 375/2020. (VII. 30.) Korm. rendelet 13. § (2) bekezdése iktatta be.
 [^84]: A 19. § (5) bekezdése a 92/2010. (III. 31.) Korm. rendelet 21. § (1) bekezdése szerint módosított szöveg.
 [^85]: A 19. § (6) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^86]: A 19. § (6) bekezdés a) pontja a 375/2020. (VII. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^86]: A 19. § (6) bekezdés a) pontja a 375/2020. (VII. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított, a 176/2024. (VII. 7.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^87]: A 19. § (6) bekezdés b) pontja a 375/2020. (VII. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.

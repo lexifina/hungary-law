@@ -1,5 +1,14 @@
-## 5. Eljárás megbízatás megszűnése esetén
+## 5.[^57] Eljárás akadályoztatás vagy kinevezés megszűnése esetén
 
-9. § (1) Amennyiben a biztonsági vezetőnek az e jogkörét megalapozó jogviszonya megszűnik, vagy más okból legalább 50 napig távol van, a biztonsági vezetői feladatok ellátásával kapcsolatos teendőket, okmányokat és eszközöket a titkos ügykezelő útján a kinevezett utódjának, ennek hiányában a minősített adatot kezelő szerv vezetője által kijelölt személynek jegyzőkönyv felvétele mellett tárolás céljából átadja.
+9. §[^58] (1) A biztonsági vezető akadályoztatása vagy kinevezésének megszűnése esetén
 
-(2) A titkos ügykezelő a kinevezésének megszűnése esetén a titkos ügykezelői feladatok ellátásával kapcsolatos teendőket, okmányokat és eszközöket utódjának, a helyettesítésére kijelölt személynek, ezek hiányában a biztonsági vezetőnek vagy a biztonsági vezető által kijelölt személynek jegyzőkönyv felvétele mellett átadja.
+a) a helyettes biztonsági vezető vagy
+
+b) helyettes biztonsági vezető hiányában a minősített adatot kezelő szerv vezetője
+
+– jegyzőkönyv felvétele mellett – gondoskodik a biztonsági vezetői feladatok ellátásáról.
+
+(2) A titkos ügykezelő a kinevezésének megszűnése esetén a titkos ügykezelői feladatokat utódjának, a helyettesítésére kijelölt személynek, ezek hiányában a biztonsági vezetőnek, a külképviselet-vezetőnek vagy a biztonsági vezető, külképviselet-vezető által kijelölt személynek jegyzőkönyv felvétele mellett átadja.
+
+[^57]: Az 5. alcím címe a 177/2024. (VII. 7.) Korm. rendelet 21. § d) pontja szerint módosított szöveg.
+[^58]: A 9. § a 177/2024. (VII. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
