@@ -8,6 +8,6 @@ c) a hiányzó vagy talált anyag helyszínről történő elszállítása, tár
 
 d) – a radioaktív és a nukleáris anyagok központi nyilvántartásáról szóló jogszabályok alapján – a központi nyilvántartásba történő bevezetéshez szükséges adatok meghatározása
 
-## érdekében.
+érdekében.
 
 (2) A katonai sugárvédelmi hatóság az (1) bekezdés szerinti helyszíni ellenőrzés eredményéről tájékoztatja az atomenergia-felügyeleti szervet és a KNBSZ-t.

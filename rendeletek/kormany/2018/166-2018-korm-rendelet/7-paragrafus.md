@@ -6,7 +6,7 @@ b) a 4. § (1) bekezdés f), h) és j) pontja szerinti esetben legfeljebb 3 évr
 
 c) a 4. § (1) bekezdés e) pontja szerinti esetben határozatlan időre
 
-## adja ki.
+adja ki.
 
 (2) A 4. § (1) bekezdés g) pontja szerinti engedély a rendszerből történő kivonásig hatályos.
 

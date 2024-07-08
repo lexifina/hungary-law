@@ -38,6 +38,6 @@ b) az (1) bekezdés f) pontja szerinti engedélykérelem esetében az Svr.-ben, 
 
 c) az (1) bekezdés g)–j) pontja szerinti engedélykérelem esetében a HM rendeletben
 
-## foglalt követelményeknek való megfelelést.
+foglalt követelményeknek való megfelelést.
 
 (5) Az (1) bekezdés a) és d) pontja, továbbá az (1) bekezdés b) pont bb) alpontja szerinti engedélyezési eljárások keretében a sugárvédelmi hatóság helyszíni szemlét tarthat, amely során ellenőrzi az Atv.-ben, az Atv. végrehajtására kiadott jogszabályokban és a sugárvédelemre vonatkozó szabványokban (a továbbiakban együtt: sugárvédelemre vonatkozó szabályok) foglalt követelmények teljesülését, továbbá az Svr. 7. melléklete szerinti Sugárvédelmi Leírásban foglaltak megvalósítását.

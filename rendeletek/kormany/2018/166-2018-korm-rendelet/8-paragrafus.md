@@ -10,6 +10,6 @@ c) az atomenergia-felügyeleti szerv hatáskörébe tartozó eljárás kezdemén
 
 d) minden rendkívüli eseményt, továbbá az engedélyes helyi nyilvántartásában szereplő radioaktív anyagra, vagy birtokában lévő ionizáló sugárzást létrehozó berendezésre elkövetett bűncselekmény gyanúját vagy előkészületét, az észlelést követően haladéktalanul
 
-## a katonai sugárvédelmi hatósághoz.
+a katonai sugárvédelmi hatósághoz.
 
 (2) A bejelentések tartalmát a katonai sugárvédelmi hatóság a 9. § (1) és (2) bekezdése szerinti ellenőrzés keretében vizsgálja.
