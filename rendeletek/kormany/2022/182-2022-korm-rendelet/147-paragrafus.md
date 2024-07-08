@@ -1,3 +1,3 @@
-147. §[^92] A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében meghatározza, hogy melyik harmadik ország állampolgára foglalkoztatható Magyarországon foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
+147. §[^94] A miniszter a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért való felelőssége keretében meghatározza, hogy melyik harmadik ország állampolgára foglalkoztatható Magyarországon foglalkoztatási célú tartózkodási engedéllyel vagy vendégmunkás-tartózkodási engedéllyel.
 
-[^92]: A 147. § az 599/2023. (XII. 22.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^94]: A 147. § az 599/2023. (XII. 22.) Korm. rendelet 31. §-ával megállapított szöveg.

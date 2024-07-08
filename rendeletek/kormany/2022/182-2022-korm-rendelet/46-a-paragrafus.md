@@ -1,4 +1,4 @@
-## 4/A.[^30] A miniszterelnök nemzetbiztonsági főtanácsadója
+## 4/A.[^32] A miniszterelnök nemzetbiztonsági főtanácsadója
 
 46/A. § (1) A miniszterelnök a Kormány kijelölése szerint a nemzetbiztonsági főtanácsadó útján elláthat bármely, a Kormány feladatkörébe tartozó vagy kiemelt fontosságú védelmi kül- és belpolitikai, honvédelmi, nemzetbiztonsági, rendészeti, idegenrendészeti, bűnmegelőzési, bűnüldözési, büntetés-végrehajtási, valamint katasztrófavédelmi vagy egyéb rendvédelmi szakpolitikai feladatot.
 
@@ -12,4 +12,4 @@ c) a miniszterelnök e § szerinti tevékenységéhez kapcsolódó háttéranyag
 
 (3) A miniszterelnök nemzetbiztonsági főtanácsadója vezeti a Védelmi Tanács üléseit.
 
-[^30]: A 4/A. alcímet (46/A–46/B. §-t) az 57/2024. (III. 13.) Korm. rendelet 1. §-a iktatta be.
+[^32]: A 4/A. alcímet (46/A–46/B. §-t) az 57/2024. (III. 13.) Korm. rendelet 1. §-a iktatta be.

@@ -12,9 +12,9 @@ d) az agrárminiszter esetében az AM,
 
 e) a belügyminiszter esetében a BM,
 
-f)[^133] az építési és közlekedési miniszter esetében az ÉKM,
+f)[^135] az építési és közlekedési miniszter esetében az ÉKM,
 
-g)[^134] a nemzetgazdasági miniszter esetében az NGM,
+g)[^136] a nemzetgazdasági miniszter esetében az NGM,
 
 h) a honvédelmi miniszter esetében a HM,
 
@@ -26,16 +26,16 @@ k) a külgazdasági és külügyminiszter esetében a KKM,
 
 l) a pénzügyminiszter esetében a PM,
 
-m)[^135] az energiaügyi miniszter esetében az EM,
+m)[^137] az energiaügyi miniszter esetében az EM,
 
-n)[^136] a közigazgatási és területfejlesztési miniszter esetében a KTM,
+n)[^138] a közigazgatási és területfejlesztési miniszter esetében a KTM,
 
-o)[^137] az európai uniós ügyekért felelős miniszter esetében az EUM
+o)[^139] az európai uniós ügyekért felelős miniszter esetében az EUM
 
 rövid megjelölést kell alkalmazni.
 
-[^133]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
-[^134]: A 184. § g) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
-[^135]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
-[^136]: A 184. § n) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
-[^137]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.
+[^135]: A 184. § f) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) és c) pontja szerint módosított szöveg.
+[^136]: A 184. § g) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (1) bekezdésével megállapított szöveg.
+[^137]: A 184. § m) pontja a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés d) és e) pontja szerint módosított szöveg.
+[^138]: A 184. § n) pontja az 599/2023. (XII. 22.) Korm. rendelet 37. § (2) bekezdésével megállapított szöveg.
+[^139]: A 184. § o) pontját a 314/2023. (VII. 17.) Korm. rendelet 19. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## 7. A belügyminiszter feladat- és hatásköre
 
-66. § (1)[^36] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+66. § (1)[^38] A belügyminiszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. bűncselekmények megelőzéséért,
 
@@ -10,7 +10,7 @@
 
 4. határrendészetért,
 
-5.[^37]
+5.[^39]
 
 6. idegenrendészetért és menekültügyért,
 
@@ -40,7 +40,7 @@
 
 19. terrorizmus elleni küzdelemért,
 
-20.[^38] kéményseprő-ipari tevékenységért,
+20.[^40] kéményseprő-ipari tevékenységért,
 
 21. a mezőgazdasági öntözési célú, felszín alatti vízkivételt biztosító vízilétesítmény engedélyezését kivéve a vízgazdálkodásért,
 
@@ -80,6 +80,6 @@ tekintetében a roma nemzetiség vonatkozásában a Kormány nemzetiségpolitik�
 
 (3) A miniszter ellátja a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvényben meghatározott feladatokat.
 
-[^36]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
-[^37]: A 66. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § j) pontja hatályon kívül helyezte.
-[^38]: A 66. § (1) bekezdés 20. pontja az 599/2023. (XII. 22.) Korm. rendelet 41. § a) pontjával megállapított szöveg.
+[^38]: A 66. § (1) bekezdés nyitó szövegrésze a 238/2022. (VI. 30.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^39]: A 66. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § j) pontja hatályon kívül helyezte.
+[^40]: A 66. § (1) bekezdés 20. pontja az 599/2023. (XII. 22.) Korm. rendelet 41. § a) pontjával megállapított szöveg.

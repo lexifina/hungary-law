@@ -1,3 +1,3 @@
-65. §[^35]
+65. §[^37]
 
-[^35]: A 65. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § i) pontja hatályon kívül helyezte.
+[^37]: A 65. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § i) pontja hatályon kívül helyezte.

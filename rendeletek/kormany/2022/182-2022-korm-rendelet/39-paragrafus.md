@@ -1,3 +1,3 @@
-39. §[^26]
+39. §[^28]
 
-[^26]: A 39. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § f) pontja hatályon kívül helyezte.
+[^28]: A 39. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § f) pontja hatályon kívül helyezte.

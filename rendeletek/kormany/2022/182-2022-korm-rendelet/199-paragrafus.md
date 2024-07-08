@@ -1,3 +1,3 @@
-199. §[^160] Az Építési és Közlekedési Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Építési és Beruházási Minisztérium átnevezésével működik tovább.
+199. §[^162] Az Építési és Közlekedési Minisztérium a Magyarország minisztériumainak felsorolásáról szóló 2022. évi II. törvény szerinti Építési és Beruházási Minisztérium átnevezésével működik tovább.
 
-[^160]: A 199. §-t a 467/2022. (XI. 21.) Korm. rendelet 14. §-a iktatta be.
+[^162]: A 199. §-t a 467/2022. (XI. 21.) Korm. rendelet 14. §-a iktatta be.
