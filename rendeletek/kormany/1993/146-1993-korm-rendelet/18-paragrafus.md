@@ -50,35 +50,39 @@ ea) ha a honosított polgár a polgármester előtt teszi le az állampolgársá
 
 eb)[^133] ha a honosított polgár a külképviseleten teszi le az állampolgársági esküt vagy fogadalmat, a külképviselet vezetője vagy az általa kijelölt konzuli tisztviselő,
 
-f)[^134] a magyar állampolgárságot szerző, az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár részére az állampolgársági eskü vagy fogadalom letételekor
+ec)[^134] ha a honosított polgár az eskütételi igazgatási szerv előtt teszi le az állampolgársági esküt vagy fogadalmat, az eskütételi igazgatási szerv tisztviselője
 
-fa)[^135] ha az érintett az állampolgársági esküt vagy fogadalmat a külképviseleten teszi le, a külképviselet vezetője vagy az általa kijelölt konzuli tisztviselő,
+f)[^135] a magyar állampolgárságot szerző, az Nytv. 4. § (1) bekezdés c) pontja szerinti külföldön élő polgár részére az állampolgársági eskü vagy fogadalom letételekor
+
+fa)[^136] ha az érintett az állampolgársági esküt vagy fogadalmat a külképviseleten teszi le, a külképviselet vezetője vagy az általa kijelölt konzuli tisztviselő,
 
 fb) ha az érintett az állampolgársági esküt vagy fogadalmat a polgármester előtt teszi le a polgármester,
 
-g)[^136] a 3. § (4a) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak az állampolgársági ügyekben eljáró szerv,
+fc)[^137] ha az érintett az állampolgársági esküt vagy fogadalmat az eskütételi igazgatási szerv előtt teszi le, az eskütételi igazgatási szerv tisztviselője
 
-h)[^137] a Magyarország területén élő, az Nytv. 4. § (2c) bekezdése szerinti magyar állampolgárnak az állampolgársági ügyekben eljáró szerv,
+g)[^138] a 3. § (4a) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak az állampolgársági ügyekben eljáró szerv,
 
-i)[^138] a 3. § (4b) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
+h)[^139] a Magyarország területén élő, az Nytv. 4. § (2c) bekezdése szerinti magyar állampolgárnak az állampolgársági ügyekben eljáró szerv,
 
-j)[^139] a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárnak a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
+i)[^140] a 3. § (4b) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
 
-k)[^140] a 3. § (4c) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak az anyakönyvvezető, a járási hivatal vagy a konzuli tisztviselő
+j)[^141] a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárnak a hazai anyakönyvezés végzésére kijelölt anyakönyvi szerv,
+
+k)[^142] a 3. § (4c) bekezdése szerinti esetben a külföldön élő magyar állampolgárnak az anyakönyvvezető, a járási hivatal vagy a konzuli tisztviselő
 
 adja át vagy kézbesíti.
 
-(6a)[^141] A külképviselet vezetője vagy a polgármester a hivatalból kiállított hatósági igazolványt a kijelölt kormányhivatalnak haladéktalanul visszaküldi, ha a kiadása alapjául szolgáló honosítási, visszahonosítási okirat hatályát vesztette.
+(6a)[^143] A külképviselet vezetője, az eskütételi igazgatás szerv tisztviselője vagy a polgármester a hivatalból kiállított hatósági igazolványt a kijelölt kormányhivatalnak haladéktalanul visszaküldi, ha a kiadása alapjául szolgáló honosítási, visszahonosítási okirat hatályát vesztette.
 
-(6b)[^142] A hatósági igazolványt az Nytv. 7. § (4) bekezdése szerinti állampolgár részére a nyilvántartást kezelő szerv kézbesíti, illetve a járási hivatal adja át vagy kézbesíti.
+(6b)[^144] A hatósági igazolványt az Nytv. 7. § (4) bekezdése szerinti állampolgár részére a nyilvántartást kezelő szerv kézbesíti, illetve a járási hivatal adja át vagy kézbesíti.
 
-(6c)[^143] Magyarországon született külföldön élő magyar állampolgár újszülött hatósági igazolványát – átvétel hiányában – a törvényes képviselőnek történő átadás céljából külföldi cím esetén a járási hivatal a konzuli tisztviselőnek küldi meg.
+(6c)[^145] Magyarországon született külföldön élő magyar állampolgár újszülött hatósági igazolványát – átvétel hiányában – a törvényes képviselőnek történő átadás céljából külföldi cím esetén a járási hivatal a konzuli tisztviselőnek küldi meg.
 
-(6d)[^144] A (6c) bekezdés szerinti át nem vett hatósági igazolványt a konzuli tisztviselő a hatósági igazolvány kiállításától számított 1 év elteltével érvénytelenítés céljából megküldi a kijelölt kormányhivatalnak.
+(6d)[^146] A (6c) bekezdés szerinti át nem vett hatósági igazolványt a konzuli tisztviselő a hatósági igazolvány kiállításától számított 1 év elteltével érvénytelenítés céljából megküldi a kijelölt kormányhivatalnak.
 
-(7)[^145] A nyilvántartást kezelő szerv – a 17. § (1) bekezdés c) pont cd) és ce) alpontjában meghatározott kivétellel – és a kijelölt kormányhivatal a hatósági igazolványt közvetlenül is átadhatja az érintettnek.
+(7)[^147] A nyilvántartást kezelő szerv – a 17. § (1) bekezdés c) pont cd) és ce) alpontjában meghatározott kivétellel – és a kijelölt kormányhivatal a hatósági igazolványt közvetlenül is átadhatja az érintettnek.
 
-(8)[^146] A hatósági igazolványt a 21. § (2) és (3) bekezdése szerinti esetben a járási hivatal személyes átvételre irányuló kérelem hiányában postai úton továbbítja a huzamos tartózkodási jogosultsággal rendelkező polgárnak, a menekültnek és az oltalmazottnak.
+(8)[^148] A hatósági igazolványt a 21. § (2) és (3) bekezdése szerinti esetben a járási hivatal személyes átvételre irányuló kérelem hiányában postai úton továbbítja a huzamos tartózkodási jogosultsággal rendelkező polgárnak, a menekültnek és az oltalmazottnak.
 
 [^115]: Az R. 18. §-a a 230/2000. (XII. 23.) Korm. rendelet 14. §-ával megállapított szöveg.
 [^116]: Az R. 18. §-ának (1) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 49. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -99,16 +103,18 @@ adja át vagy kézbesíti.
 [^131]: Az R. 18. § (6) bekezdés d) pontja a 417/2012. (XII. 29.) Korm. rendelet 40. § e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 12. pontja szerint módosított szöveg.
 [^132]: Az R. 18. § (6) – eredeti (4) – bekezdésének e) pontját a 117/2005. (VI. 27.) Korm. rendelet 4. §-ának (2) bekezdése iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
 [^133]: Az R. 18. § (6) bekezdés e) pont eb) alpontja a 28/2020. (II. 28.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^134]: Az R. 18. § (6) bekezdés f) pontját a 26/2011. (III. 10.) Korm. rendelet 11. § (2) bekezdése iktatta be.
-[^135]: Az R. 18. § (6) bekezdés f) pont fa) alpontja a 28/2020. (II. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^136]: Az R. 18. § (6) bekezdés g) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be.
-[^137]: Az R. 18. § (6) bekezdés h) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 14. pontja szerint módosított szöveg.
-[^138]: Az R. 18. § (6) bekezdés i) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 4. pontja szerint módosított szöveg.
-[^139]: Az R. 18. § (6) bekezdés j) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 15. pontja szerint módosított szöveg.
-[^140]: Az R. 18. § (6) bekezdés k) pontját a 221/2014. (IX. 4.) Korm. rendelet 153. §-a iktatta be.
-[^141]: Az R. 18. § (6a) bekezdését a 26/2011. (III. 10.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 6. pontja szerint módosított szöveg.
-[^142]: Az R. 18. § (6b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^143]: Az R. 18. § (6c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^144]: Az R. 18. § (6d) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^145]: Az R. 18. § (5) bekezdés számozását (7) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 6. § (4) bekezdése, szövege az 572/2020. (XII. 9.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^146]: Az R. 18. § (8) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 21. § (5) bekezdése iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 264. § 6. pontja szerint módosított szöveg.
+[^134]: Az R. 18. § (6) bekezdés e) pont ec) alpontját a 174/2024. (VII. 7.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^135]: Az R. 18. § (6) bekezdés f) pontját a 26/2011. (III. 10.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^136]: Az R. 18. § (6) bekezdés f) pont fa) alpontja a 28/2020. (II. 28.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^137]: Az R. 18. § (6) bekezdés f) pont fc) alpontját a 174/2024. (VII. 7.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^138]: Az R. 18. § (6) bekezdés g) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be.
+[^139]: Az R. 18. § (6) bekezdés h) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 14. pontja szerint módosított szöveg.
+[^140]: Az R. 18. § (6) bekezdés i) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 4. pontja szerint módosított szöveg.
+[^141]: Az R. 18. § (6) bekezdés j) pontját a 417/2012. (XII. 29.) Korm. rendelet 21. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 15. pontja szerint módosított szöveg.
+[^142]: Az R. 18. § (6) bekezdés k) pontját a 221/2014. (IX. 4.) Korm. rendelet 153. §-a iktatta be.
+[^143]: Az R. 18. § (6a) bekezdését a 26/2011. (III. 10.) Korm. rendelet 11. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 11. § (18) bekezdés 6. pontja, a 174/2024. (VII. 7.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^144]: Az R. 18. § (6b) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^145]: Az R. 18. § (6c) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^146]: Az R. 18. § (6d) bekezdését az 572/2020. (XII. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^147]: Az R. 18. § (5) bekezdés számozását (7) bekezdésre változtatta a 117/2009. (VI. 4.) Korm. rendelet 6. § (4) bekezdése, szövege az 572/2020. (XII. 9.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^148]: Az R. 18. § (8) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 21. § (5) bekezdése iktatta be, szövege a 35/2024. (II. 29.) Korm. rendelet 264. § 6. pontja szerint módosított szöveg.
