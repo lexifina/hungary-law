@@ -26,7 +26,7 @@
 
 12. komplex kompetenciaprofil: kompetenciateszt végrehajtása esetén az összefoglaló értékelés része, amely tartalmazza az egyén egyes alap- vagy vezetői kompetenciákban elért szintjét, valamint a megfogalmazott munkáltatói elvárásokhoz való illeszkedés mértékét,
 
-13. közszolgálati alkalmazott: a Kttv., a Hszt. és a Hjt. hatálya alá tartozó tisztviselő, akinek tartalékállományba helyezését a Kttv., a Hszt. és a Hjt. írja elő,
+13.[^3] közszolgálati alkalmazott: a Kttv., a Hszt. és a Hjkr. hatálya alá tartozó tisztviselő, akinek tartalékállományba helyezését a Kttv., a Hszt. és a Hjkr. írja elő,
 
 14. KÖZSZOLGÁLLÁS: közszolgálati állásportál, amely a személyügyi központ által üzemeltetett elektronikus rendszer és portál, melynek elemei a pályáztatás, a kiválasztási eljárás, a toborzási adatbázis és a hozzájuk kapcsolódó szolgáltatások,
 
@@ -41,3 +41,5 @@
 19. személyes interjú: olyan meghallgatás, amelynek célja a munka- és szervezeti alkalmasság felmérése, segítségével felmérésre kerül a pályázó életútja, tapasztalata, motivációja, preferenciája, főbb erősségei, kompetenciái, személyiségjegyei, munkavégzési habitusa és stílusa,
 
 20. tisztviselő: foglalkoztatási jogviszonyban álló személy, akinek a munkáltató szerve a KSzSzK szolgáltatásait vagy azok egy részét igénybe veszi.
+
+[^3]: A 2. § 13. pontja a 176/2024. (VII. 7.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.

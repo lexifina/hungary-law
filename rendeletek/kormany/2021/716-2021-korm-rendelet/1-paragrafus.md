@@ -34,7 +34,7 @@ b) az e rendelet szerinti jelentkezőre
 
 is kiterjed.
 
-(5) Az (1)–(4) bekezdésben foglaltakon túl a rendelet hatálya kiterjed
+(5)[^1] Az (1)–(4) bekezdésben foglaltakon túl a rendelet hatálya kiterjed
 
 a) a Kit.,
 
@@ -50,7 +50,7 @@ f) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban
 
 g) a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.),
 
-h) a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.),
+h)[^2] a honvédek jogállásáról szóló kormányrendelet (a továbbiakban: Hjkr.),
 
 i) a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény (a továbbiakban: Haj.),
 
@@ -62,4 +62,7 @@ l) az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény
 
 m) a szakképzésről szóló 2019. évi LXXX. törvény (a továbbiakban: Szkt.)
 
-hatálya alá tartozó munkáltató szervre és az ott foglalkoztatottra, ha a munkáltató a Kit. 115. § (3) bekezdése és 278. § (8) bekezdése, a Kttv. 8/A. §-a és 258. § (10) bekezdése, a Kjt. 20/A. § (9) bekezdése, a Hszt. 99. §/A. §-a, 287/C. § (35) bekezdése, 288/E. § (8) bekezdése, az Nftv. 24/B. §-a, az Nktv. 61. § (9) bekezdése, a Vgtv. 13/I. § (5) bekezdése, a Hjt. 78/A. §-a, a Haj. 43/A. §-a, a Navtv. 77. § (4) bekezdése és 239. § (20) bekezdése, a Küt. 44. § (3) bekezdése és 102. § (6) bekezdése, az Eszjtv. 12. § (8) bekezdése, az Szkt. 40. § (3) bekezdése alapján a Kormányzati Személyügyi Szolgáltatási Keretrendszer (a továbbiakban: KSzSzK) szolgáltatásait vagy azok egy részét igénybe veszi.
+hatálya alá tartozó munkáltató szervre és az ott foglalkoztatottra, ha a munkáltató a Kit. 115. § (3) bekezdése és 278. § (8) bekezdése, a Kttv. 8/A. §-a és 258. § (10) bekezdése, a Kjt. 20/A. § (9) bekezdése, a Hszt. 99. §/A. §-a, 287/C. § (35) bekezdése, 288/E. § (8) bekezdése, az Nftv. 24/B. §-a, az Nktv. 61. § (9) bekezdése, a Vgtv. 13/I. § (5) bekezdése, a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet 51. §-a, a Haj. 43/A. §-a, a Navtv. 77. § (4) bekezdése és 239. § (20) bekezdése, a Küt. 44. § (3) bekezdése és 102. § (6) bekezdése, az Eszjtv. 12. § (8) bekezdése, az Szkt. 40. § (3) bekezdése alapján a Kormányzati Személyügyi Szolgáltatási Keretrendszer (a továbbiakban: KSzSzK) szolgáltatásait vagy azok egy részét igénybe veszi.
+
+[^1]: Az 1. § (5) bekezdés záró szövegrésze a 176/2024. (VII. 7.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (5) bekezdés h) pontja a 176/2024. (VII. 7.) Korm. rendelet 27. §-ával megállapított szöveg.

@@ -1,3 +1,3 @@
-42. §[^12]
+42. §[^17]
 
-[^12]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

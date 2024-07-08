@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-716-20-
 | 2024-01-01 | 2021-716-20-22.4 | 401/2023. (VIII. 30.) Korm. rendelet |
 | 2024-02-23 | 2021-716-20-22.5 | 29/2024. (II. 22.) Korm. rendelet |
 | 2024-03-22 | 2021-716-20-22.6 | 62/2024. (III. 21.) Korm. rendelet |
+| 2024-07-08 | 2021-716-20-22.7 | 176/2024. (VII. 7.) Korm. rendelet |
