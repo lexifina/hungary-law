@@ -16,8 +16,8 @@
 
 | 8. | Az állami kezességvállalás időtartama | a kezességvállalással érintett kötvény végső lejárata + 180 nap |
 
-3. melléklet az 1085/2021. (III. 1.) Korm. határozathoz[^7]
+3. melléklet az 1085/2021. (III. 1.) Korm. határozathoz[^6]
 
 MFB Növekedési Garanciaprogram – Hitelintézeti alprogram
 
-[^7]: A 3. melléklet az 1607/2022. (XII. 8.) Korm. határozat 4. pont b) pontjával megállapított szöveg.
+[^6]: A 3. melléklet az 1607/2022. (XII. 8.) Korm. határozat 4. pont b) pontjával megállapított szöveg.

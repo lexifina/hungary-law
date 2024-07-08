@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1085-30
 | 2021-08-11 | 2021-1085-30-22.3 | 1584/2021. (VIII. 11.) Korm. határozat |
 | 2022-12-08 | 2021-1085-30-22.4 | 1607/2022. (XII. 8.) Korm. határozat |
 | 2023-02-16 | 2021-1085-30-22.5 | 1607/2022. (XII. 8.) Korm. határozat |
+| 2024-07-08 | 2021-1085-30-22.6 | 1204/2024. (VII. 8.) Korm. határozat |
