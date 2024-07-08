@@ -26,8 +26,8 @@
 
 ## értékelő vezető
 
-3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^28]
+3. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^32]
 
 A kompetencia alapú munkamagatartás értékelő lap
 
-[^28]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.
+[^32]: A 3. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (3) bekezdése szerint módosított szöveg.

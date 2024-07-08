@@ -26,8 +26,8 @@
 
 |  | értékelő vezető |
 
-2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^27]
+2. melléklet a 10/2013. (I. 21.) Korm. rendelethez[^31]
 
 Értékelő lap az egyéni teljesítménykövetelmények meghatározásáról és értékeléséről
 
-[^27]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+[^31]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
