@@ -38,17 +38,31 @@ engedély szükséges.
 
 (6b)[^8] A környezetvédelmi hatóság az előzetes vizsgálati, a környezeti hatásvizsgálati, az egységes környezethasználati, valamint az összevont eljárásában a tevékenység telepítési helye szerinti település, a fővárosban a kerület (a továbbiakban együtt: település) önkormányzata ügyfélnek minősül, aki a környezetvédelmi hatóság által megküldött kérelem és mellékletei tekintetében a kézhezvételtől számított 15 napon belül nyilatkozhat.
 
-(6c)[^9]
+(6c)[^9] A legalább 500 milliárd forint költségigényű beruházás esetében, ha a tevékenység megkezdéséhez – a 2. számú melléklet 4. és 5. pontjában, valamint a 3. számú mellékletében foglalt táblázat 66. sorában meghatározott tevékenységek kivételével – a (3) bekezdés b), c) pontja vagy e) pont ea) alpontja alapján egységes környezethasználati engedély szükséges, a környezethasználó, a (6d) bekezdés szerinti jogkövetkezménnyel
 
-(7)[^10] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a környezetvédelmi hatóság azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó környezetvédelmi hatóságot az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a környezetvédelmi hatósággal.
+a) a létesítési, építési engedély megszerzéséhez környezetvédelmi engedélyt,
 
-(8)[^11] A környezetvédelmi, illetve az egységes környezethasználati engedélyben foglalt követelménytől való eltérés vagy a szennyezőanyagok kibocsátására vonatkozó határérték-túllépés észlelése esetén az üzemeltető az eltérés észlelését követő 8 órán belül tájékoztatja a környezetvédelmi hatóságot.
+b) a használatbavételi engedély megszerzéséhez egységes környezethasználati engedélyt
 
-(9)[^12] Az (8) bekezdés szerinti esetben az üzemeltető az észlelést követően azonnal megteszi a szükséges intézkedéseket annak érdekében, hogy az engedélyben foglalt feltételek a lehető legrövidebb időn belül teljesüljenek.
+kérhet.
 
-(10)[^13] A környezetvédelmi hatóság az e rendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+(6d)[^10] A környezethasználó a (6c) bekezdés szerinti eljárást saját kockázatára választhatja, figyelemmel arra, hogy az egységes környezethasználati engedély hiányában kiadott létesítési, építési engedély megléte nem zárja ki, hogy utóbb az egységes környezethasználati engedélyben a használatbavételi engedély megszerzéséhez a környezetvédelmi hatóság bármely további szükséges környezetvédelmi feltételt meghatározzon.
 
-(11)[^14] A környezetvédelmi hatóság a döntéséről a határozat közhírré tétele mellett az ismert ügyfelet az ügyfél tekintetében az adott ügyfajtára vonatkozó jogszabály szerint alkalmazható egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei ebben az esetben is a közhírré tétellel történő közléshez kapcsolódóan állnak be.
+(6e)[^11] A (6c) bekezdés szerinti eljárásban kiadott környezetvédelmi engedély tartalmazza
+
+a) a (6d) bekezdés szerinti jogkövetkezményre történő figyelmeztetést és
+
+b) az arról való tájékoztatást, hogy a környezethasználó a megvalósított beruházásban az egységes környezethasználati engedélyhez kötött tevékenységet csak az egységes környezethasználati engedély birtokában és az abban meghatározott valamennyi környezetvédelmi előírás teljesítését követően kezdheti meg.
+
+(7)[^12] Ha más hatóság eljárásában – törvény vagy kormányrendelet rendelkezése alapján – a környezetvédelmi hatóság azért nem jár el szakhatóságként, mert az eljárás tárgyául szolgáló tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély szükséges, az eljáró hatóság a környezetvédelmi engedély vagy az egységes környezethasználati engedély iránti kérelemről döntést hozó környezetvédelmi hatóságot az eljárás megindulásáról – a kérelem megküldésével – tájékoztatja, és az eljárásban hozott határozatot vagy az eljárást megszüntető végzést közli a környezetvédelmi hatósággal.
+
+(8)[^13] A környezetvédelmi, illetve az egységes környezethasználati engedélyben foglalt követelménytől való eltérés vagy a szennyezőanyagok kibocsátására vonatkozó határérték-túllépés észlelése esetén az üzemeltető az eltérés észlelését követő 8 órán belül tájékoztatja a környezetvédelmi hatóságot.
+
+(9)[^14] Az (8) bekezdés szerinti esetben az üzemeltető az észlelést követően azonnal megteszi a szükséges intézkedéseket annak érdekében, hogy az engedélyben foglalt feltételek a lehető legrövidebb időn belül teljesüljenek.
+
+(10)[^15] A környezetvédelmi hatóság az e rendelet szerinti hatósági eljárások tekintetében elektronikus űrlapot alkalmaz, amelyet a honlapján közzétesz.
+
+(11)[^16] A környezetvédelmi hatóság a döntéséről a határozat közhírré tétele mellett az ismert ügyfelet az ügyfél tekintetében az adott ügyfajtára vonatkozó jogszabály szerint alkalmazható egyéb kapcsolattartási forma használatával is tájékoztatja. A közlés jogkövetkezményei ebben az esetben is a közhírré tétellel történő közléshez kapcsolódóan állnak be.
 
 [^1]: Az 1. § (2) bekezdése a 145/2012. (VII. 3.) Korm. rendelet 40. § (5) bekezdése szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdés b) pontja a 281/2013. (VII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -58,9 +72,11 @@ engedély szükséges.
 [^6]: Az 1. § (6) bekezdését a 266/2008. (XI. 6.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^7]: Az 1. § (6a) bekezdését a 100/2014. (III. 25.) Korm. rendelet 4. § (1) bekezdése iktatta be.
 [^8]: Az 1. § (6b) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, szövege a 208/2021. (IV. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. § (6c) bekezdését a 70/2015. (III. 30.) Korm. rendelet 74. § (1) bekezdése iktatta be, hatályon kívül helyezte a 208/2021. (IV. 29.) Korm. rendelet 3. §-a.
-[^10]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–d) pontja szerint módosított szöveg.
-[^11]: Az 1. § (8) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
-[^12]: Az 1. § (9) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
-[^13]: Az 1. § (10) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 12. § (1) bekezdése iktatta be.
-[^14]: Az 1. § (11) bekezdését a 60/2023. (II. 28.) Korm. rendelet 5. §-a iktatta be.
+[^9]: Az 1. § (6c) bekezdését a 208/2021. (IV. 29.) Korm. rendelet 3. §-a hatályon kívül helyezte, újonnan a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^10]: Az 1. § (6d) bekezdését a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^11]: Az 1. § (6e) bekezdését a 178/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^12]: Az 1. § (7) bekezdését a 362/2008. (XII. 31.) Korm. rendelet 28. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés b)–d) pontja szerint módosított szöveg.
+[^13]: Az 1. § (8) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^14]: Az 1. § (9) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 1. §-a iktatta be.
+[^15]: Az 1. § (10) bekezdését a 668/2020. (XII. 28.) Korm. rendelet 12. § (1) bekezdése iktatta be.
+[^16]: Az 1. § (11) bekezdését a 60/2023. (II. 28.) Korm. rendelet 5. §-a iktatta be.

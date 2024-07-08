@@ -278,7 +278,7 @@
 
 ## C) Az intézkedés engedélyezhető, amennyiben az esetlegesen fellépő negatív hatásokat hatásmérséklő intézkedésekkel (időbeli, mennyiségbeli korlátozások, szűrőmezőlétesítés) semlegesíteni lehet.”
 
-15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^350]
+15. számú melléklet a 314/2005. (XII. 25.) Korm. rendelethez[^355]
 
 Az egységes környezethasználati engedély köteles tevékenységek környezeti kockázatértékelésének szempontrendszere
 
@@ -306,4 +306,4 @@ Az egységes környezethasználati engedély köteles tevékenységek környezet
 
 2.3. a tárgyi évet megelőző évben a létesítmény az engedélyben meghatározott feltételeket teljesítette.
 
-[^350]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
+[^355]: A 15. mellékletet a 480/2013. (XII. 17.) Korm. rendelet 11. § (5) bekezdése iktatta be.
