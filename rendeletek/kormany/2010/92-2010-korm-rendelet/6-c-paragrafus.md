@@ -1,6 +1,6 @@
-## 6/B. §[^37] A telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet a részére kiadott Rendszerengedély szintjének módosításához a Rendszerengedély kiadásához szükséges – a minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló kormányrendeletben meghatározott – dokumentumok megküldésével új telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását kezdeményezi az NBF-nél.
+## 6/B. §[^38] A telephely biztonsági tanúsítvánnyal rendelkező gazdálkodó szervezet a részére kiadott Rendszerengedély szintjének módosításához a Rendszerengedély kiadásához szükséges – a minősített adat elektronikus biztonságának, valamint a rejtjeltevékenység engedélyezésének és hatósági felügyeletének részletes szabályairól szóló kormányrendeletben meghatározott – dokumentumok megküldésével új telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását kezdeményezi az NBF-nél.
 
-6/C. §[^38] (1) Az Engedély szintjének emelése és a Rendszerengedély szintjének egyszerre történő módosítása esetén az 1. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (4) bekezdésében meghatározott – érvényes és kockázatmentes biztonsági szakvéleménnyel nem rendelkező – nemzetbiztonsági ellenőrzés alá eső személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével új telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását kezdeményezi az NBF-nél.
+6/C. §[^39] (1) Az Engedély szintjének emelése és a Rendszerengedély szintjének egyszerre történő módosítása esetén az 1. mellékletben meghatározott adattartalommal az NBF elnöke által rendszeresített és az NBF honlapján közzétett Cég-adatlap, valamint a 4. § (4) bekezdésében meghatározott – érvényes és kockázatmentes biztonsági szakvéleménnyel nem rendelkező – nemzetbiztonsági ellenőrzés alá eső személyek által kitöltött biztonsági kérdőív egyszerre történő megküldésével új telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását kezdeményezi az NBF-nél.
 
 (2) Az (1) bekezdés szerinti esetben az NBF elnökének megkeresésére a nemzetbiztonsági szolgálat elvégzi a 4. § (3) bekezdésében, illetve szükség szerint a 4. § (4) bekezdésében meghatározott feladatokat.
 
@@ -8,5 +8,5 @@
 
 (4) Az Engedély szintjének csökkentése és a Rendszerengedély szintjének egyszerre történő módosítása esetén a gazdálkodó szervezet az Engedély és a Rendszerengedély kiadásához szükséges dokumentumok egyszerre történő megküldésével új telephely biztonsági tanúsítvány kiadására irányuló eljárás megindítását kezdeményezi az NBF-nél, amelynek során a 4. § (3) és (4) bekezdésében foglaltak nem alkalmazandóak.
 
-[^37]: A 6/B. §-t a 697/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
-[^38]: A 6/C. §-t a 697/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^38]: A 6/B. §-t a 697/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.
+[^39]: A 6/C. §-t a 697/2021. (XII. 13.) Korm. rendelet 8. §-a iktatta be.

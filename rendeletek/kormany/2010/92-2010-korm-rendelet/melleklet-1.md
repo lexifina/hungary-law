@@ -1,4 +1,4 @@
-1. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^100]
+1. melléklet a 92/2010. (III. 31.) Korm. rendelethez[^101]
 
 Az NBF elnöke a telephely biztonsági tanúsítvány kiadásához a Cég-adatlapot az alábbi adattartalommal rendszeresíti:
 
@@ -20,9 +20,9 @@ Az NBF elnöke a telephely biztonsági tanúsítvány kiadásához a Cég-adatla
 
 1.8. az alapító tagok
 
-1.9.[^101] a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagjának, alapítójának, részvényesének természetes személyazonosító adatai, továbbá – a felsorolt személy külföldi állampolgársága esetén – állampolgársága, lakcíme
+1.9.[^102] a gazdálkodó szervezet legalább öt százalékot meghaladó vagyoni hozzájárulással rendelkező tagjának, alapítójának, részvényesének természetes személyazonosító adatai, továbbá – a felsorolt személy külföldi állampolgársága esetén – állampolgársága, lakcíme
 
-1.10.[^102] a gazdálkodó szervezet érdekeltsége más gazdálkodó szervezetben
+1.10.[^103] a gazdálkodó szervezet érdekeltsége más gazdálkodó szervezetben
 
 1.11. a legjellemzőbb TEÁOR kódjai és azok megnevezése
 
@@ -38,19 +38,19 @@ Az NBF elnöke a telephely biztonsági tanúsítvány kiadásához a Cég-adatla
 
 2. A GAZDÁLKODÓ SZERVEZET VEZETŐJE ÉS TESTÜLETEI
 
-2.1.[^103] a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai, továbbá – ha a gazdálkodó szervezetet vezetője külföldi állampolgár – állampolgársága, lakcíme
+2.1.[^104] a gazdálkodó szervezet vezetőjének természetes személyazonosító adatai, továbbá – ha a gazdálkodó szervezetet vezetője külföldi állampolgár – állampolgársága, lakcíme
 
-2.2.[^104] az ügyvezetést ellátó személyek természetes személyazonosító adatai, továbbá, ha az ügyvezetést ellátó személy külföldi állampolgár, állampolgársága, lakcíme
+2.2.[^105] az ügyvezetést ellátó személyek természetes személyazonosító adatai, továbbá, ha az ügyvezetést ellátó személy külföldi állampolgár, állampolgársága, lakcíme
 
 2.3. a felügyelőbizottság tagjainak megnevezése
 
 2.4. a könyvvizsgáló megnevezése
 
-2.5.[^105] a biztonsági vezető természetes személyazonosító adatai, hivatali telefonszáma, hivatali e-mail-címe
+2.5.[^106] a biztonsági vezető természetes személyazonosító adatai, hivatali telefonszáma, hivatali e-mail-címe
 
 2.6. a titkos ügykezelő természetes személyazonosító adatai
 
-2.7.[^106]
+2.7.[^107]
 
 2.8. a rendszerbiztonsági felügyelő természetes személyazonosító adatai
 
@@ -68,10 +68,10 @@ a gazdálkodó szervezet minősített szerződésben történő részvétele
 
 5. NYILATKOZATOK
 
-[^100]: Az 1. melléklet a 441/2016. (XII. 16.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
-[^101]: Az 1. melléklet 1. pont 1.9. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § f) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^102]: Az 1. melléklet 1. pont 1.10. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
-[^103]: Az 1. melléklet 2. pont 2.1. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
-[^104]: Az 1. melléklet 2. pont 2.2. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § g) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
-[^105]: Az 1. melléklet 2. pont 2.5. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
-[^106]: Az 1. melléklet 2. pont 2.7. alpontját a 375/2020. (VII. 30.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
+[^101]: Az 1. melléklet a 441/2016. (XII. 16.) Korm. rendelet 39. § (1) bekezdésével megállapított szöveg.
+[^102]: Az 1. melléklet 1. pont 1.9. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § f) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^103]: Az 1. melléklet 1. pont 1.10. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^104]: Az 1. melléklet 2. pont 2.1. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § c) pontja szerint módosított szöveg.
+[^105]: Az 1. melléklet 2. pont 2.2. alpontja a 323/2018. (XII. 28.) Korm. rendelet 8. § g) pontja, a 375/2020. (VII. 30.) Korm. rendelet 30. § d) pontja szerint módosított szöveg.
+[^106]: Az 1. melléklet 2. pont 2.5. alpontja a 375/2020. (VII. 30.) Korm. rendelet 30. § e) pontja szerint módosított szöveg.
+[^107]: Az 1. melléklet 2. pont 2.7. alpontját a 375/2020. (VII. 30.) Korm. rendelet 31. § c) pontja hatályon kívül helyezte.
