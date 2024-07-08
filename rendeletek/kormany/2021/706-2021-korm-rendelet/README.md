@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-706-20-
 | 2022-01-02 | 2021-706-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-01 | 2021-706-20-22.3 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-08-01 | 2021-706-20-22.4 | 238/2022. (VI. 30.) Korm. rendelet |
+| 2024-07-08 | 2021-706-20-22.5 | 176/2024. (VII. 7.) Korm. rendelet |

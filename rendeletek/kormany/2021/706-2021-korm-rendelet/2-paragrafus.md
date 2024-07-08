@@ -6,10 +6,12 @@
 
 (4) A magasabb vezető illetményen kívüli juttatásra
 
-a) az egészségügyi munkakörű katonák tekintetében a honvédek jogállásáról szóló 2012. évi CCV. törvény,
+a)[^2] az egészségügyi munkakörű katonák tekintetében a honvédek jogállását szabályozó jogszabály,
 
 b) az egészségügyi honvédelmi alkalmazottak tekintetében a honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény,
 
 c) a rendvédelmi szervnél működő egészségügyi szolgáltatónál foglalkoztatottak tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény
 
 rendelkezéseit kell alkalmazni.
+
+[^2]: A 2. § (4) bekezdés a) pontja a 176/2024. (VII. 7.) Korm. rendelet 26. §-a szerint módosított szöveg.
