@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-230-20-
 | 2021-07-01 | 2015-230-20-22.5 | 356/2021. (VI. 24.) Korm. rendelet |
 | 2023-01-01 | 2015-230-20-22.6 | 629/2022. (XII. 30.) Korm. rendelet |
 | 2023-07-11 | 2015-230-20-22.7 | 299/2023. (VII. 10.) Korm. rendelet |
+| 2024-07-08 | 2015-230-20-22.8 | 299/2023. (VII. 10.) Korm. rendelet |
