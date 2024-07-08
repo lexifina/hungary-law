@@ -1,3 +1,3 @@
-9. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^117]
+9. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^122]
 
-[^117]: A 9. számú mellékletet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 28/2020. (II. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^122]: A 9. számú mellékletet a 128/2003. (VIII. 19.) Korm. rendelet 5. §-a iktatta be, szövege a 174/2024. (VII. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.

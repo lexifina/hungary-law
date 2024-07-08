@@ -74,6 +74,14 @@ a) azt korábbi, az idegenrendészeti hatóság által lefolytatott eljárásban
 
 b)[^35] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére gyermeke, testvére unokája (a továbbiakban együtt: hozzátartozó) már csatolta a saját honosítási vagy visszahonosítási eljárásában, és kéri az állampolgársági ügyekben eljáró szervtől, hogy az okiratot szerezze be.
 
+(12)[^36] A kérelem benyújtásakor a kérelmet átvevő
+
+a) a kérelmezőt szóban tájékoztatja arról, hogy sikeres honosítás esetén az eskü vagy a fogadalom az eskütételi igazgatási szerv előtt is letehető, valamint
+
+b) a kérelemben megadott elektronikus levélcímre az eskütételi igazgatási szerv előtti eskü- vagy fogadalomtétellel kapcsolatos információkat tartalmazó tájékoztatót küld.
+
+(13)[^37] A kérelmet átvevő a honosítási és visszahonosítási kérelem benyújtásának tényéről, valamint az abban megadott, kapcsolattartásra szolgáló elérhetőségekről értesíti az eskütételi igazgatási szervet, ha a kérelmező az eskü- vagy fogadalomtételre az eskütételi igazgatási szervet jelölte meg. Az eskütételi igazgatási szerv az elérhetőségeken – elsősorban e-mail, illetve telefonos kapcsolat útján, az eskütétellel kapcsolatos tájékoztatás, illetve az eskütétel megszervezése érdekében – kapcsolatot tarthat a kérelmezővel.
+
 [^13]: A 3. § a 103/2001. (VI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^14]: A 3. § (1) bekezdése a 128/2003. (VIII. 19.) Korm. rendelet 2. §-ával megállapított, felvezető szövege a 303/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdésének a) pontja szerint módosított szöveg. A 3. § (1) bekezdése a 224/2010. (VIII. 4.) Korm. rendelet 9. § (3) bekezdés a) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 9. § (2) bekezdése alapján a 2011. január 1. napját követően induló eljárásokban kell alkalmazni.
 [^15]: A 3. § (1) bekezdés a) pontja a 417/2012. (XII. 29.) Korm. rendelet 9. § e) pontja szerint módosított szöveg.
@@ -97,3 +105,5 @@ b)[^35] azt a szülője, nagyszülője, gyermeke, unokája, testvére, testvére
 [^33]: A 3. § (10) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 414/2015. (XII. 23.) Korm. rendelet 69. § (2) bekezdésével megállapított, a 28/2020. (II. 28.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^34]: A 3. § (11) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 1. § (5) bekezdése iktatta be.
 [^35]: A 3. § (11) bekezdés b) pontja az 56/2014. (III. 4.) Korm. rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^36]: A 3. § (12) bekezdését a 174/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^37]: A 3. § (13) bekezdését a 174/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.

@@ -154,6 +154,6 @@
 
 ## a kérelmet átvevő aláírása
 
-3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^102]
+3. számú melléklet a 125/1993. (IX. 22.) Korm. rendelethez[^107]
 
-[^102]: A 3. számú melléklet a 304/2023. (VII. 11.) Korm. rendelet 4. § b) pontjával megállapított szöveg.
+[^107]: A 3. számú melléklet a 304/2023. (VII. 11.) Korm. rendelet 4. § b) pontjával megállapított szöveg.
