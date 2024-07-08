@@ -1,3 +1,0 @@
-8. § (1) Ez a rendelet a megújuló energiaforrásokból előállított energia használatának előmozdításáról szóló, 2018. december 11-i (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk (6), (7) és (12) bekezdésének, valamint 30. cikk (9) bekezdésének való megfelelést szolgálja.
-
-(2) Ez a rendelet az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikkében megállapított, erdei biomasszára vonatkozó fenntarthatósági kritériumok teljesülését igazoló bizonyítékok összeállítására vonatkozó gyakorlati iránymutatás meghatározásáról szóló, 2022. december 13-i (EU) 2022/2448 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
