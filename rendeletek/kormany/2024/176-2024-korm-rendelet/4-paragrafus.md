@@ -1,0 +1,3 @@
+## 3. Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet módosítása
+
+4. § Az egyes központosított egészségügyi szolgáltatók által nyújtott szolgáltatások igénybevételéről, valamint a külön meghatározott személyek tekintetében fennálló egészségügyi ellátás rendjéről szóló 175/2007. (VI. 30.) Korm. rendelet 2. § (1) bekezdés a) pontjában az „a honvédek jogállásáról szóló 2012. évi CCV. törvény 139. §-a szerint” szövegrész helyébe az „a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 25. §-a szerint” szöveg lép.
