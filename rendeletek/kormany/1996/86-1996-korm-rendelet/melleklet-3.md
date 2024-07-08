@@ -6,7 +6,7 @@
 
 | „Alap” | „Alap” | „Alap” |
 
-3. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^65]
+3. számú melléklet a 86/1996. (VI. 14.) Korm. rendelethez[^68]
 
 Az okmányvédelmi terv, valamint az adminisztratív védelmi terv tartalmi minimumkövetelményei
 
@@ -114,4 +114,4 @@ f) az adatokhoz való hozzáférést, hitelességet biztosító kriptográfiai e
 
 5.7. az adathoz való hozzáférés védelmére alkalmazott hitelesítési, integritási, titkosítási eljárások, módszerek pontos megnevezését és leírását.
 
-[^65]: A 3. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be, szövege az 563/2023. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
+[^68]: A 3. számú mellékletet a 312/2015. (X. 28.) Korm. rendelet 14. § (4) bekezdése iktatta be, szövege az 563/2023. (XII. 14.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.

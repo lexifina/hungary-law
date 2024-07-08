@@ -126,7 +126,7 @@ A biztonsági okmányok
 
 3.1.33. oktatási intézmények által kiállított bizonyítványok, bizonyítvány-pótlapok;
 
-3.1.34. hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti, honvéd altiszt-jelölti szolgálati viszony fennállásának igazolására szolgáló honvédségi szolgálati igazolvány;
+3.1.34.[^60] hivatásos, szerződéses, önkéntes tartalékos, honvéd tisztjelölti szolgálati viszony fennállásának igazolására szolgáló honvédségi szolgálati igazolvány;
 
 3.1.35. a honvédelmi szervezetek és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény személyi állományába tartozást igazoló kormánytisztviselői igazolvány, közalkalmazotti igazolvány, honvédelmi alkalmazotti igazolvány (honvédelmi munkáltatói igazolvány);
 
@@ -278,7 +278,9 @@ A biztonsági okmányok
 
 3.1.109. a fővárosi és a vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala kormánytisztviselőinek hatósági ellenőrzésre jogosító igazolványa;
 
-3.1.110. Magyar Államkincstár helyszíni ellenőri igazolvány.
+3.1.110.[^61] Magyar Államkincstár helyszíni ellenőri igazolvány,
+
+3.1.111.[^62] az Országos Atomenergia Hivatalnál hatósági feladatokat ellátó személyek szolgálati igazolványa.
 
 3.2. A védelmet igénylő létesítmények, szervek, intézmények belépési engedélyei, belépésre jogosító igazolványai:
 
@@ -323,3 +325,6 @@ A biztonsági okmányok
 3.2.20. a légiközlekedési, a légiközlekedési védelmi hatósági felügyeletet ellátó és a légiközlekedés védelmi, valamint biztonsági ellenőrzést végző személyek részére kiállított, a repülőtér szigorított védelmi területére vagy bármely légijármű fedélzetére történő belépésre jogosító igazolvány és eseti belépésre, ellenőrzésre jogosító igazolvány.
 
 [^59]: Az 1. melléklet az 563/2023. (XII. 14.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^60]: Az 1. melléklet 3.1.34. pontja a 176/2024. (VII. 7.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^61]: Az 1. melléklet 3.1.110. pontja a 176/2024. (VII. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^62]: Az 1. melléklet 3.1.111. pontját a 176/2024. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
