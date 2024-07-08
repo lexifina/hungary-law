@@ -1,0 +1,5 @@
+2. § Az R1. a következő 29/M. §-sal egészül ki:
+
+„29/M. § (1) E rendeletnek a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet, valamint az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosításáról szóló 178/2024. (VII. 7.) Korm. rendelettel (a továbbiakban: Mkr14.) megállapított 1. § (6c)–(6e) bekezdését az Mkr14. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+(2) Az Mkr14. hatálybalépésekor folyamatban lévő egységes környezethasználati engedélyezési eljárásban a kérelmező kérésére a környezetvédelmi hatóság a kérelmet a már folyamatban lévő eljárás alapjául szolgáló kérelem benyújtásakor hatályban lévő eljárási szabályok szerinti eljárásban környezetvédelmi engedélykérelemként bírálja el, amely esetben a már megtett eljárási cselekmények hatályukat vesztik.”
