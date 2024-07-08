@@ -5,3 +5,5 @@
 (3) Az ágazati készségtanács javaslatait egyszerű szótöbbséggel fogadja el. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (4) Az ágazati készségtanács ügyrendjének módosítását a tagok legalább egyharmadának kezdeményezésére a testület a következő ülésén napirendre tűzi. A módosításra az ügyrend elfogadására vonatkozó rendelkezéseket kell alkalmazni.
+
+(5) Az ágazati készségtanács üléseiről írásos emlékeztető készül, amely tartalmazza az ülés megtartásának helyét, idejét, a megjelentek családi és utónevét, a határozatképességre vonatkozó megállapítást, a tárgyalt napirendet, az ülésen elhangzott hozzászólások lényegi tartalmát, valamint az ágazati készségtanács javaslatát annak megjelölésével, hogy azt a megjelent tagok milyen arányban szavazták meg.

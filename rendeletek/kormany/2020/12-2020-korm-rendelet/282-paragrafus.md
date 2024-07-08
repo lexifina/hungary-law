@@ -4,6 +4,6 @@
 
 (3) Ha a projektfeladat végrehajtása során balesetveszély, egészségi ártalom, technológiai vagy más rendkívüli ok merül fel, azt a vizsgafelügyelő haladéktalanul jelzi az akkreditált vizsgaközpontnak, amely a szakmai vizsga során elkészítendő projektfeladatot megváltoztathatja. A változtatásról szóló döntést az ok megadásával és indoklással rögzíteni kell a vizsgajegyzőkönyvben.
 
-(4)[^419] Ha a vizsgázó a szakmai vizsgán elkészítendő projektfeladatot befejezte, azt közli a vizsgabizottsággal, aki ennek időpontját feljegyzi, az elkészült projektfeladatot átveszi.
+(4)[^421] Ha a vizsgázó a szakmai vizsgán elkészítendő projektfeladatot befejezte, azt közli a vizsgabizottsággal, aki ennek időpontját feljegyzi, az elkészült projektfeladatot átveszi.
 
-[^419]: A 282. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 56. pontja szerint módosított szöveg.
+[^421]: A 282. § (4) bekezdése a 129/2024. (VI. 17.) Korm. rendelet 18. § 56. pontja szerint módosított szöveg.

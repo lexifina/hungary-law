@@ -6,6 +6,6 @@
 
 (4) Ha a tanuló független vizsgabizottság előtt vagy vendégtanulóként ad számot tudásáról, a vizsgáztató intézmény a tanuló osztályzatáról a törzslapon történő bejegyzés céljából három napon belül írásban értesíti azt a szakképző intézményt, amelyikkel a tanuló tanulói jogviszonyban áll. A tanuló magasabb évfolyamba lépéséről – figyelembe véve a független vizsgabizottság által adott vagy a vendégtanulóként szerzett osztályzatot – az a szakképző intézmény dönt, amellyel a tanuló tanulói jogviszonyban áll.
 
-(5)[^296]
+(5)[^298]
 
-[^296]: A 191. § (5) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 42. pontja hatályon kívül helyezte.
+[^298]: A 191. § (5) bekezdését a 292/2023. (VII. 6.) Korm. rendelet 48. § 42. pontja hatályon kívül helyezte.

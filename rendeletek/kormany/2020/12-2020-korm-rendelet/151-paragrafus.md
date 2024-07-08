@@ -1,1 +1,3 @@
-151. § A honvédségi szakképző intézmény a honvéd altiszt szakmára tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki magyar állampolgár, cselekvőképes, a szolgálatra alkalmas, és vállalja, hogy a katonai szakképzés idejére honvéd altiszt-jelölti szolgálati jogviszonyt létesítés tart fenn. A felvételi döntésre pályaalkalmassági vizsgálat után kerül sor.
+151. §[^250]
+
+[^250]: A 151. §-t a 176/2024. (VII. 7.) Korm. rendelet 21. §-a hatályon kívül helyezte.

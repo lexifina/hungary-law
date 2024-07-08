@@ -1,5 +1,5 @@
 ## 82. Az Szkt. 82. §-ához
 
-241. §[^327]
+241. §[^329]
 
-[^327]: A 241. §-t a 380/2021. (VI. 30.) Korm. rendelet 59. § 16. pontja hatályon kívül helyezte.
+[^329]: A 241. §-t a 380/2021. (VI. 30.) Korm. rendelet 59. § 16. pontja hatályon kívül helyezte.
