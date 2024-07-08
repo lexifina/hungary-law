@@ -1,0 +1,5 @@
+3. § A 125/1993. (IX. 22.) Korm. rendelet a következő 18. §-sal egészül ki:
+
+„18. § (1) Ha a honosított e rendeletnek az eskütételi igazgatási szerv kijelölése és feladatainak meghatározása érdekében egyes kormányrendeletek módosításáról szóló 174/2024. (VII. 7.) Korm. rendelettel (a továbbiakban: Módr.) módosított 1. számú melléklet „Nyilatkozatok” fejezet 8. pontjára figyelemmel, a Módr. hatálybalépésekor folyamatban lévő állampolgársági eljárásában arra irányuló kifejezett nyilatkozatot terjeszt elő, hogy állampolgári esküjét vagy fogadalmát az eredeti nyilatkozatától eltérően az eskütételi igazgatási szerv előtt kívánja letenni, e nyilatkozat – kizárólag az eskütételi igazgatási szerv feladatellátása szempontjából – új eljárást megindító kérelemnek minősül, és az eskütételi igazgatási szerv előtti eskü- vagy fogadalomtételre irányuló kérelmet az e rendeletben foglaltak szerint el kell bírálni.
+
+(2) Az (1) bekezdés szerinti nyilatkozatot a 12. számú mellékletben foglalt tartalommal kell előterjeszteni.”
