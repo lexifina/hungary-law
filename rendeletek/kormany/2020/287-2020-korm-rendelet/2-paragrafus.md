@@ -8,4 +8,6 @@ a) a kórházparancsnoki feladatok ellátásában, valamint
 
 b) az egészségügyi készlet állagának fenntartására és megőrzésére vonatkozó feladatok ellátásában, e feladatok ellátása keretében a Magyar Honvédség ellátja egyes, a 3. § (1) és (2) bekezdése szerint kijelölt egészségügyi intézmények őrzését és védelmét.
 
-(4) A Magyar Honvédség a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 1. § (1) bekezdése szerinti tagjának az e rendelet szerinti feladatokban történő közreműködése során – a Hjt. 237/B. §-ára figyelemmel – a Hjt. 237/C. §-ában foglaltakat alkalmazni kell.
+(4)[^1] A Magyar Honvédség a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Hjkr.) 1. § (1) bekezdése szerinti tagjának az e rendelet szerinti feladatokban történő közreműködése során a Hjkr. 22. § (3) bekezdésében foglaltakat alkalmazni kell.
+
+[^1]: A 2. § (4) bekezdése a 176/2024. (VII. 7.) Korm. rendelet 22. §-ával megállapított szöveg.
