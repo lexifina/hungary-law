@@ -36,4 +36,10 @@ d) a mező- és erdőgazdasági földek forgalmáról szóló törvényben megha
 
 (5) A hagyatéki eljárás felfüggesztése alatt rész-hagyatékátadó végzés (79. §) hozható.
 
-(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.
+(6) Ha a mezőgazdasági igazgatási szerv a mező- és erdőgazdasági földek forgalmáról szóló törvény alapján a hatósági bizonyítvány kiadását megtagadja, a közjegyző
+
+a) belföldi természetes személy és tagállami állampolgár örökös esetében a hagyaték átadásáról szóló végzésben megállapítja a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 34. § (3a) bekezdése szerinti kötelezettséget,
+
+b) az a) pontba nem tartozó esetben a végintézkedés ezzel ellentétes rendelkezését semmisnek tekinti; a hagyaték érintett része tekintetében a végrendeleti örökösre, a halál esetére megajándékozottra, a bizalmi vagyonkezelőre, vagy a végintézkedéssel létesített alapítványra való átszállás nem állapítható meg, illetve a hagyaték érintett része a végrendeleti örökösnek, a halál esetére megajándékozottnak, a bizalmi vagyonkezelőnek, a végintézkedéssel létesített alapítványnak ideiglenes hatállyal sem adható át.
+
+(7) A (6) bekezdés a) pontja szerinti esetben a közjegyző az ingatlanügyi hatóságnál kezdeményezi az államot megillető vételi jog és annak biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzését.

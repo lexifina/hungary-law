@@ -30,7 +30,7 @@ bd) törvényes képviselővel vagy meghatalmazottal nem rendelkező, ismeretlen
 
 c) a megkötni kívánt egyezség jogszerűsége a rendelkezésre álló adatok alapján nem ítélhető meg, vagy a megkötni kívánt egyezség jogszabályba ütközőnek tűnik,
 
-d) az örökösként érdekeltek egyezségükbe – a hagyatéki hitelezőn kívül – más személyt is be akarnak vonni,
+d) az örökösként érdekeltek egyezségükbe – a hagyatéki hitelezőn kívül – más személyt is be akarnak vonni, vagy a törvényes örökösök – ideértve a csupán kötelesrészre jogosult, de a kötelesrészét az ingatlanból természetben megkapó törvényes örököst is – a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni,
 
 e) a közjegyző a tárgyalás tartását vitás körülmény felmerülése miatt vagy egyéb okból indokoltnak tartja,
 
@@ -50,7 +50,7 @@ d) ha az örökhagyó után csak olyan (vagy csak olyan értékű) ingóság mar
 
 e) ha az örökhagyó után kizárólag ingóság maradt és az örökös teljes személyes illetékmentességben részesül.
 
-(5) A törvényes örökös a tárgyalás nélkül meghozott hagyatékátadó végzés jogerőre emelkedése előtt kérheti hagyatéki tárgyalás kitűzését, ha az örökséget visszautasítja, más öröklésben érdekelttel egyezséget kíván kötni, vagy a hagyaték tárgyalás nélküli átadása alapjául szolgált, az iratokhoz csatolt egyezségtől el kíván térni, illetve örökségét vagy annak egy részét hagyatéki hitelező követelésének kielégítése fejében a hagyatéki hitelezőre vagy a hagyatéki eljárásban kieséses örökösre kívánja átruházni, vagy igénylővel kíván egyezséget kötni. A törvényes örököst erre a jogára a tárgyalás nélkül meghozott hagyatékátadó végzésben figyelmeztetni kell.
+(5) A törvényes örökös a tárgyalás nélkül meghozott hagyatékátadó végzés jogerőre emelkedése előtt kérheti hagyatéki tárgyalás kitűzését, ha az örökséget visszautasítja, más öröklésben érdekelttel egyezséget kíván kötni, vagy a hagyaték tárgyalás nélküli átadása alapjául szolgált, az iratokhoz csatolt egyezségtől el kíván térni, illetve örökségét vagy annak egy részét hagyatéki hitelező követelésének kielégítése fejében a hagyatéki hitelezőre vagy a hagyatéki eljárásban kieséses örökösre kívánja átruházni, igénylővel kíván egyezséget kötni, vagy az örökségét, illetve annak egy részét a 94. § (3) bekezdése szerint a magyar államnak fel kívánja ajánlani, vagy a törvényes örökös bejelenti, hogy a törvényes örökösök a Foktftv. 18/A. § (1) bekezdés c) pontja vagy 18/B. § (1) bekezdés c) pontja alapján a hagyatékot képező ingatlant vagy tulajdoni illetőséget hagyatéki eljárás keretében harmadik személy részére egyben kívánják értékesíteni. A törvényes örököst erre a jogára a tárgyalás nélkül meghozott hagyatékátadó végzésben figyelmeztetni kell.
 
 (6) Tárgyalás tartása esetében, valamint tárgyaláson történő hagyatékátadásra való áttérést követően, ha az eljárás folyamán bekövetkezett változás következtében tárgyalás nélküli hagyatékátadásnak lenne helye, a közjegyző áttérhet a tárgyalás nélküli hagyatékátadásra.
 
