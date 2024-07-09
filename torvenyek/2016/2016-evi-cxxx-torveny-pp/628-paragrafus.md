@@ -29,3 +29,11 @@ i) – az állami vagyon felügyeletéért felelős miniszterrel egyetértésben
 j) a költségjegyzék tartalmára, vezetésére és benyújtására,
 
 k) a feljegyzett illeték és az állam által előlegezett, továbbá a bírósági szervezet érdekkörében felmerült költség megfizetésére,
+
+l) – az adópolitikáért felelős miniszterrel egyetértésben – az ítéletről és az ítélettel szembeni perorvoslat során hozott, az alsóbb fokú bíróságot új eljárásra és új határozat hozatalára utasító végzésről adott anonimizált másolat bíróságnak fizetendő díjára,
+
+m) – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – a munkavállalói költségkedvezmény vonatkozásában az 525. §-ban meghatározott mértékre, valamint a költségkedvezmény érvényesítésének eljárási szabályaira,
+
+n) az eljárás anyagát rögzítő felvétel hitelesítésére, megtekintésére, illetve meghallgatására, az arról történő másolat készítésére és kiadására, valamint a felvétel tárolására, őrzésére és törlésére
+
+vonatkozó részletes szabályokat rendeletben állapítsa meg.

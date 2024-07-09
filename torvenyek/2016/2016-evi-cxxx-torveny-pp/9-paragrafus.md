@@ -10,4 +10,4 @@
 
 (4) A másodfokon eljáró bírósági tanács három hivatásos bíróból áll.
 
-(5) A Kúria a felülvizsgálati eljárás során három hivatásos bíróból álló tanácsban jár el. Ha az ügy különös bonyolultsága vagy kiemelt társadalmi jelentősége indokolja, a Kúria elrendelheti, hogy az ügyben öt hivatásos bíróból álló tanács járjon el.
+(5) A Kúria a felülvizsgálati eljárás során öt hivatásos bíróból álló tanácsban jár el.

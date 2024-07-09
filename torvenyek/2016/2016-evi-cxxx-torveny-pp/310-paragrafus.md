@@ -1,11 +1,13 @@
 ### 310. § [A kirendelt szakértő felmentése]
 
-A bíróság a kirendelt szakértőt a kirendelés alól hivatalból felmenti, ha
+A bíróság a kirendelt szakértőt a kirendelés alól hivatalból felmenti,
 
-a) a kirendelés alapján törvény értelmében nem jogosult eljárni, vagy az eljárását más fontos ok akadályozza,
+a) ha a kirendelés alapján törvény értelmében nem jogosult eljárni, vagy az eljárását más fontos ok akadályozza,
 
-b) a szakértő a szakkérdésről a 309. § alapján nem nyilváníthat véleményt, illetve a véleménynyilvánítást a bíróság határozata szerint alappal megtagadta,
+b) ha a szakértő a szakkérdésről a 309. § alapján nem nyilváníthat véleményt, illetve a véleménynyilvánítást a bíróság határozata szerint alappal megtagadta,
 
-c) a szakvélemény előterjesztése előtt a fél a szakértő alkalmazására irányuló indítványát visszavonta vagy a bíróság a szakértői bizonyítás lefolytatatását mellőzte, vagy
+c) ha a szakvélemény előterjesztése előtt a fél a szakértő alkalmazására irányuló indítványát visszavonta vagy a bíróság a szakértői bizonyítás lefolytatását mellőzte,
 
-d) jogszabályban meghatározott egyéb ok áll fenn.
+d) – pénzbírság egyidejű alkalmazása mellett –, ha határidőben, illetve a határidő meghosszabbítása esetén a meghosszabbított határidőben nem terjeszti elő a szakvéleményt és a körülmények alapján nem is várható, hogy a szakvéleményt előterjeszti, vagy
+
+e) ha jogszabályban meghatározott egyéb ok áll fenn.

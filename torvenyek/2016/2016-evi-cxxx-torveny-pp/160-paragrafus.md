@@ -48,4 +48,6 @@ d) a felek között létrejött egyezség tartalmát,
 
 e) a bíróság által az eljárási cselekmény folyamán hozott végzéseket.
 
+f) a 159. § (5a) bekezdése szerinti összefoglalás kezdő időpontját és tartalmát.
+
 (6) Ha a bíróság a perfelvételt lezáró végzés meghozatalát követően az érdemi tárgyalást nyomban megtartja, az érdemi tárgyalásra történő áttérés időpontját a jegyzőkönyvben rögzíteni kell. Áttérés esetén a jegyzőkönyv írásbeli kivonatát elkészíteni nem kell, elegendő, ha annak tartalma a perfelvételről készült írásbeli jegyzőkönyvben rögzítésre kerül.
