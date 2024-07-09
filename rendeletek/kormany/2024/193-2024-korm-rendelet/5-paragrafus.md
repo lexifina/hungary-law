@@ -1,0 +1,5 @@
+5. § A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 5/A. §-a helyébe a következő rendelkezés lép:
+
+„5/A. § (1) A nevelőszülőnek jelentkező személy a Gyvt. 1. melléklete szerinti adatlapon nyilatkozik arról, hogy korábban állt-e már más nevelőszülői hálózattal nevelőszülői, hivatásos nevelőszülői vagy nevelőszülői foglalkoztatási jogviszonyban.
+
+(2) Ha a nevelőszülőnek jelentkező személy és a vele egy háztartásban élő nagykorú személy úgy nyilatkozik, hogy korábban más intézménnyel állt már nevelőszülői, hivatásos nevelőszülői vagy nevelőszülői foglalkoztatási jogviszonyban, az intézmény a nevelőszülőnek történő jelentkezéstől számított nyolc napon belül elektronikus úton keresi meg a korábbi intézményt a Gyvt. 66/B. § (8) bekezdésében meghatározott tartalmú szakmai vélemény kikérése céljából. A korábbi intézmény a megkeresés beérkezésétől számított nyolc napon belül elektronikus úton küldi meg szakmai véleményét a megkereső intézménynek.”
