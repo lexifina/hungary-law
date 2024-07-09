@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^172]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^182]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -264,6 +264,8 @@ A szolgáltatói nyilvántartás adatai
 
 3.1.28.5. ha a nevelőszülői hálózat a szakmai programja alapján alkalmas – különleges vagy speciális nevelőszülő alkalmazása nélkül is – különleges vagy speciális szükségletű gyermekek integrált ellátására, az erre vonatkozó adat,
 
+3.1.28.6. az Nfjr. 9. § (4) bekezdése szerinti nevelőszülő esetén a bejegyzés hatályának záró időpontja,
+
 3.1.29. gyermekotthon:
 
 3.1.29.1. a nyújtott szolgáltatások az alábbiak szerint:
@@ -400,4 +402,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.4. a 6.3.1–6.3.3. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, vármegye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^172]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. és 20. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át. Az 1. melléklet a 226/2018. (XII. 4.) Korm. rendelet 15. §-a, a 305/2018. (XII. 27.) Korm. rendelet 18. §-a és 19. § b)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 123. § (5) bekezdés a) pontja, a 10/2021. (I. 20.) Korm. rendelet 19. §-a, a 616/2022. (XII. 29.) Korm. rendelet 168. § d) pontja szerint módosított szöveg.
+[^182]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 191/2016. (VII. 13.) Korm. rendelet 18. § a) pontja, a 448/2016. (XII. 19.) Korm. rendelet 54. § (1)–(2) bekezdése és 55. § (1) bekezdése, a 381/2017. (XII. 11.) Korm. rendelet 18. és 20. §-a, a 457/2017. (XII. 28.) Korm. rendelet 457. § 17–18. pontja, a 226/2018. (XII. 4.) Korm. rendelet 15. §-a, a 305/2018. (XII. 27.) Korm. rendelet 18. §-a és 19. § b)–c) pontja, a 360/2019. (XII. 30.) Korm. rendelet 123. § (5) bekezdés a) pontja, a 10/2021. (I. 20.) Korm. rendelet 19. §-a, a 616/2022. (XII. 29.) Korm. rendelet 168. § d) pontja, a 194/2024. (VII. 8.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.

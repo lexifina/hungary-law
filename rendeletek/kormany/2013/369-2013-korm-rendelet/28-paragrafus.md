@@ -12,12 +12,15 @@ e) az ellátási szerződés adataiban bekövetkező változás miatt,
 
 f) a helyettes szülő, nevelőszülő halála, vagy jogviszonyának azonnali hatállyal történő megszüntetése miatt,
 
-g)[^81] be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának, fejlesztő foglalkoztatás esetén a foglalkoztatható személyek számának csökkentése miatt, ha ez ellátás megszüntetésével nem jár, és
+g)[^82] be nem töltött férőhelyek megszüntetése miatt, valamint házi segítségnyújtás esetén az ellátható személyek számának, jelzőrendszeres házi segítségnyújtás esetén a kihelyezhető jelzőkészülékek számának, fejlesztő foglalkoztatás esetén a foglalkoztatható személyek számának csökkentése miatt, ha ez ellátás megszüntetésével nem jár,
 
 h) általános jogutódlással történő fenntartóváltozás miatt
+
+i)[^83] az Nfjr. 9. § (4) bekezdése szerinti nevelőszülő adatainak bejegyzése miatt
 
 az adatmódosítást legkésőbb az ok bekövetkeztétől számított egy hónapon belül köteles kérelmezni.
 
 (2) Az (1) bekezdésben nem említett esetben a fenntartó az adatmódosítást azt megelőzően köteles kérelmezni, hogy az engedélyest elkezdené az adatmódosítás iránti kérelemben foglaltaknak megfelelően működtetni.
 
-[^81]: A 28. § (1) bekezdés g) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés m) pontja szerint módosított szöveg.
+[^82]: A 28. § (1) bekezdés g) pontja a 448/2016. (XII. 19.) Korm. rendelet 55. § (3) bekezdés m) pontja, a 194/2024. (VII. 8.) Korm. rendelet 38. § c) pontja szerint módosított szöveg.
+[^83]: A 28. § (1) bekezdés i) pontját a 194/2024. (VII. 8.) Korm. rendelet 32. §-a iktatta be.

@@ -1,4 +1,4 @@
-5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^178]
+5. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^188]
 
 Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
@@ -42,7 +42,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.5. Fejlesztő foglalkoztatás esetén – a 2.1. pontban foglaltakon túl – csatolni kell a foglalkoztatási hely használati jogcímét bizonyító egyéb okirat másolatát, ha a tulajdoni lap a használat jogcímét nem igazolja.
 
-2.6.
+2.6. Pszichiátriai betegek nappali ellátása esetén – a 2.1. pontban foglaltakon túl – csatolni kell a területileg illetékes pszichiátriai gondozóval kötött együttműködési megállapodást.
 
 2.7. Munkahelyi bölcsőde esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
@@ -52,7 +52,7 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 2.7.3. a Gyvt. 44. § (1) bekezdése szerinti foglalkoztatóval kötött megállapodás másolatát, ha a munkahelyi bölcsődét nem a foglalkoztató tartja fenn.
 
-2.8.
+2.8. Szenvedélybetegek nappali ellátása esetén – a 2.1. pontban foglaltakon túl – csatolni kell a területileg illetékes addiktológiai gondozóval kötött együttműködési megállapodást.
 
 2.9. Családok átmeneti otthona esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
@@ -81,6 +81,8 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 2.11.4. az elkészített környezettanulmányok alapján a helyettes szülők, nevelőszülők háztartása alkalmas a szolgáltatás nyújtására,
 
 2.11.5. az ellátás helye szerinti ingatlant a helyettes szülő, nevelőszülő jogszerűen használhatja a szolgáltatáshoz.
+
+2.11.6. a nevelőszülő bejegyzésére az Nfjr. 9. § (4) bekezdése alapján kerül sor, és a bejegyzés kezdő és záró időpontjáról.
 
 2.12. Gyermekotthon esetén – a 2.1. pontban foglaltakon túl – csatolni kell
 
@@ -112,4 +114,4 @@ Az engedélyes bejegyzése iránti kérelemhez csatolandó iratok
 
 3.3.3. a 2.1.5. és a 2.1.6. pont szerinti iratot abban az esetben kell csatolni, ha az engedélyes által nyújtott szolgáltatásra megkötött ellátási szerződés, illetve az Szt. 90. § (4) bekezdése szerinti megállapodás az időszakos férőhelyekre nem terjedt ki.
 
-[^178]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át. Az 5. melléklet a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a, a 360/2019. (XII. 30.) Korm. rendelet 123. § (3) bekezdése, (4) bekezdés e)–f) pontja és (5) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^188]: Az 5. melléklet a 457/2017. (XII. 28.) Korm. rendelet 456. §-ával megállapított, a 226/2018. (XII. 4.) Korm. rendelet 16. § c) pontja, a 305/2018. (XII. 27.) Korm. rendelet 19. § d) és e) pontja, a 232/2019. (X. 4.) Korm. rendelet 16. §-a, a 360/2019. (XII. 30.) Korm. rendelet 123. § (3) bekezdése, (4) bekezdés e)–f) pontja és (5) bekezdés b) pontja, a 194/2024. (VII. 8.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.

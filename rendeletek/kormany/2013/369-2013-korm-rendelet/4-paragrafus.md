@@ -1,8 +1,8 @@
-4. § (1)[^13] Az e rendelet szerinti hatósági eljárásokban – a (2)–(6) bekezdésben meghatározott kivételekkel – az engedélyes címe szerint illetékes működést engedélyező szerv jár el.
+4. § (1)[^13] Az e rendelet szerinti hatósági eljárásokban – a (4)–(6) bekezdésben meghatározott kivételekkel – az engedélyes címe szerint illetékes működést engedélyező szerv jár el.
 
-(2)[^14] Egyházi fenntartású vagy nem állami fenntartású, egy vármegyére vagy a fővárosra megkötött ellátási szerződés alapján működtetett, kizárólag nevelőszülői ellátást, illetve külső férőhelyen biztosított utógondozói ellátást nyújtó engedélyes esetén az ellátási szerződéssel érintett vármegye, illetve a főváros szerint illetékes működést engedélyező szerv jár el az e rendelet szerinti hatósági eljárásokban.
+(2)[^14]
 
-(3)[^15] A Főigazgatóság által fenntartott Pest vármegyei, kizárólag nevelőszülői ellátást vagy külső férőhelyen biztosított utógondozói ellátást nyújtó engedélyes esetén a működést engedélyező szervként eljáró Pest Vármegyei Kormányhivatal jár el az e rendelet szerinti hatósági eljárásokban.
+(3)[^15]
 
 (4)[^16] A fenntartó bármely engedélyesének címe szerint illetékes működést engedélyező szerv valamennyi engedélyes ügyében eljár
 
@@ -28,9 +28,9 @@ b)[^20] szakhatóság jár el a támogatott lakhatás és a fejlesztő foglalkoz
 
 (7)[^22]
 
-[^13]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (3) bekezdésével megállapított szöveg.
-[^14]: A 4. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 168. § c) és d) pontja szerint módosított szöveg.
-[^15]: A 4. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés b) pontja, a 360/2019. (XII. 30.) Korm. rendelet 123. § (4) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 168. § a) és e) pontja szerint módosított szöveg.
+[^13]: A 4. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 248. § (3) bekezdésével megállapított, a 194/2024. (VII. 8.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^14]: A 4. § (2) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
+[^15]: A 4. § (3) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 38. § a) pontja hatályon kívül helyezte.
 [^16]: A 4. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés c) pontja szerint módosított szöveg.
 [^17]: A 4. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés e) pontja, a 379/2016. (XII. 2.) Korm. rendelet 248. § (13) bekezdés d) pontja szerint módosított szöveg.
 [^18]: A 4. § (5a) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 26. §-a iktatta be.

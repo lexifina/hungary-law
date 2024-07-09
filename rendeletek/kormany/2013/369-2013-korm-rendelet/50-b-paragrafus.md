@@ -1,4 +1,4 @@
-50/B. §[^157] (1) Fejlesztő foglalkoztatás esetén az engedélyes bejegyzése vagy adatmódosítás iránti, 2017. április 1-jét megelőzően indult eljárást az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 448/2016. (XII. 19.) Korm. rendelettel megállapított szabályok alapján kell lefolytatni, ha az engedélyes működésének kezdő időpontja, illetve az az időpont, amelytől kezdődően az engedélyes az adatmódosításnak megfelelően működtethető, 2017. március 31-ét követően van.
+50/B. §[^162] (1) Fejlesztő foglalkoztatás esetén az engedélyes bejegyzése vagy adatmódosítás iránti, 2017. április 1-jét megelőzően indult eljárást az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 448/2016. (XII. 19.) Korm. rendelettel megállapított szabályok alapján kell lefolytatni, ha az engedélyes működésének kezdő időpontja, illetve az az időpont, amelytől kezdődően az engedélyes az adatmódosításnak megfelelően működtethető, 2017. március 31-ét követően van.
 
 (2) Az Szt. 138. § (5) bekezdése szerint befogadott ellátotti számot a működést engedélyező szerv az igénybevevői nyilvántartásból számára megküldött adatok alapján – 2016. december 31-éig, 2017. január 1-jei hatállyal – hivatalból jegyzi be a szolgáltatói nyilvántartásba.
 
@@ -6,4 +6,4 @@
 
 (4) Az Szt. 138. § (6) bekezdése alapján, a közleményben meghatározott határidőig benyújtott befogadási kérelmek elbírálása – a 19/A. § (2) bekezdésében foglaltaktól eltérően – nem a szakhatósági eljárások megindulásának sorrendjében történik. A kérelem a 29. § (1) bekezdés szerinti korlátozásra tekintet nélkül benyújtható, az ilyen okból történő adatmódosítás a 29. § (1) bekezdésének alkalmazása során nem vehető figyelembe. Az Szt. 138. § (6) bekezdése alapján történő befogadást 2017. január 1-jei hatállyal kell bejegyezni a szolgáltatói nyilvántartásba.
 
-[^157]: Az 50/B. §-t a 221/2015. (VIII. 7.) Korm. rendelet 19. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 53. §-ával megállapított szöveg.
+[^162]: Az 50/B. §-t a 221/2015. (VIII. 7.) Korm. rendelet 19. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 53. §-ával megállapított szöveg.

@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-369-20-
 | 2022-07-01 | 2013-369-20-22.33 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-01-01 | 2013-369-20-22.34 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2023-07-28 | 2013-369-20-22.35 | 349/2023. (VII. 27.) Korm. rendelet |
+| 2024-07-09 | 2013-369-20-22.37 | 194/2024. (VII. 8.) Korm. rendelet |
