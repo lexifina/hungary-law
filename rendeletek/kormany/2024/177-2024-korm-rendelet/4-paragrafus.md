@@ -1,27 +1,3 @@
-4. § Az R. II/A. Fejezete helyébe a következő fejezet lép:
+4. §[^5]
 
-„II/A. Fejezet
-
-A KÖZÖS BIZTONSÁGI TERÜLET FENNTARTÁSA
-
-4/A. § (1) A központi államigazgatási szervek a minősített adat tárolására és felhasználására közös biztonsági területet működtethetnek.
-
-(2) Az (1) bekezdés szerinti közös biztonsági terület létrehozásához és működtetéséhez szükséges fenntartói és irányítói jogköröket a központi államigazgatási szervek vezetői együttes utasításban szabályozzák.
-
-(3) A (2) bekezdésben meghatározott együttes utasítás a közös biztonsági vezető és a közös titkos ügykezelő feletti munkáltatói jogkör gyakorlására vonatkozó megállapodást is tartalmazza.
-
-(4) Az egyes központi államigazgatási szervek által minősített adatok kezelésére a közös biztonsági vezetőnek és a közös titkos ügykezelőnek kizárólag a címzett, illetve az államigazgatási szerv által minősített adat esetében a minősítő adhat utasítást.
-
-4/B. § (1) A miniszteri rendelet által kijelölt
-
-a) állami tulajdonú gazdálkodó szervezetek,
-
-b) azon gazdálkodó szervezetek, amelyekben az állam a Polgári Törvénykönyvről szóló 2013. évi V. törvény 8:2. §-a szerinti többségi befolyást gyakorol, valamint
-
-c) honvédelmi érdekhez kapcsolódó tevékenységet folytató gazdasági társaságok, továbbá azon szervezetek, amelyek a honvédelemért felelős miniszter tulajdonosi joggyakorlása vagy irányítása alá tartoznak,
-
-a minősített adat tárolására és felhasználására közös biztonsági területet működtethetnek.
-
-(2) Az (1) bekezdés szerinti közös biztonsági terület létrehozásához és működtetéséhez szükséges fenntartói és irányítói jogköröket az érintett gazdálkodó szervezetek szerződésben határozzák meg.
-
-(3) A (2) bekezdésben meghatározott szerződés a közös biztonsági vezető és a közös titkos ügykezelő feletti munkáltatói jogkör gyakorlására vonatkozó megállapodást is tartalmazza.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

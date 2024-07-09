@@ -1,3 +1,3 @@
-13. § Az R. 39. § (3) bekezdés f) pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-[A minősített adat készítése során a 38. § (1) és (2), valamint az eredeti irattári példány esetében a (3) bekezdésében meghatározottakon túl az adathordozó tartalmazza:]
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

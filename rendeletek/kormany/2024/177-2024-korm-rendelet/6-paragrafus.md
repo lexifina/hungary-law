@@ -1,3 +1,3 @@
-6. § Az R. 5. §-a a következő (4a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(4a) A biztonsági vezető a helyettes biztonsági vezető kinevezésétől számított 5 napon belül tájékoztatja a Nemzeti Biztonsági Felügyeletet a helyettes biztonsági vezető nevéről, hivatali telefonszámáról, hivatali e-mail-címéről, valamint munkahelyének megnevezéséről.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

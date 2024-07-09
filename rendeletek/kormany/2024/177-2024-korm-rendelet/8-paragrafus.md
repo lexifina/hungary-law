@@ -1,3 +1,3 @@
-8. § Az R. 8. § (1) bekezdése a következő j) ponttal egészül ki:
+8. §[^9]
 
-(A titkos ügykezelő feladata:)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

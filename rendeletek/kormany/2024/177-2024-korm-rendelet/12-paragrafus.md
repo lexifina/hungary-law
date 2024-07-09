@@ -1,3 +1,3 @@
-12. § Az R. 38. § (3) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(3) A nemzeti minősített adatot tartalmazó adathordozó eredeti irattári példányán vagy – ha ezt az adathordozó jellege kizárja – külön kísérőlapon vagy elektronikus adatállományban szerepel a minősítési javaslat és a minősítési javaslat tárgyában hozott döntés. A minősítési javaslat és a minősítési javaslat tárgyában hozott döntés minősített adatot nem tartalmazhat. A minősítő a döntését saját kezűleg aláírja, és a minősített adatot kezelő szerv által használt hivatali bélyegző lenyomatával, elektronikus minősített adat esetén legalább fokozott biztonságú elektronikus aláírásával vagy bélyegzővel látja el.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
