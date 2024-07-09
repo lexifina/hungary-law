@@ -8,7 +8,7 @@
 
 (3)
 
-(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben rendeletben szabályozza a közjegyzők, a bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek iratkezelését.
+(4) Felhatalmazást kap az igazságügyért felelős miniszter, hogy a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben rendeletben szabályozza a közjegyzők, valamint azok kamarája, a bírósági végrehajtók, továbbá az igazságügyi szakértői névjegyzékbe bejegyzett természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek iratkezelését.
 
 (5)
 

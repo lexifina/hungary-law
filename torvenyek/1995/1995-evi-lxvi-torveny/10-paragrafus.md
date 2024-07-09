@@ -14,7 +14,7 @@ a) a szakmai irányítást ellátó miniszter vagy a központi államigazgatási
 
 b) az Országos Bírósági Hivatal elnöke a bíróságok, a legfőbb ügyész az ügyészségek részére a Magyar Nemzeti Levéltárral egyetértésben,
 
-c) az igazságügyért felelős miniszter a közjegyzők és bírósági végrehajtók, valamint ezek kamarái, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
+c) az igazságügyért felelős miniszter a közjegyzők, valamint azok kamarája, a bírósági végrehajtók, továbbá az igazságügyi szakértői tevékenység végzésére feljogosított természetes személyek és gazdasági társaságok, igazságügyi szakértői intézmények, hatósági tolmácsok, hiteles szakfordítók és büntető ügyekben közvetítői tevékenységet végző ügyvédek tekintetében a köziratok kezelésének szakmai irányításáért felelős miniszterrel, valamint a kultúráért felelős miniszterrel egyetértésben.
 
 (2a) A jogszabály-előkészítésnek a jogszabály-előkészítési munkafolyamatot támogató szoftveren keresztül történő megvalósítása tekintetében az iratkezelési szabályzat tartalmát a jogszabály-előkészítési munkafolyamatot támogató szoftver felhasználója által az abban létrehozott irattal kapcsolatos iratkezelésre kiterjedően a Kormány rendeletben határozza meg.
 
