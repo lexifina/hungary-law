@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-293-20-
 | 2022-07-01 | 2010-293-20-22.18 | 672/2020. (XII. 28.) Korm. rendelet |
 | 2023-07-01 | 2010-293-20-22.19 | 280/2023. (VI. 29.) Korm. rendelet |
 | 2023-12-22 | 2010-293-20-22.20 | 77/2018. (IV. 20.) Korm. rendelet |
+| 2024-07-09 | 2010-293-20-22.21 | 193/2024. (VII. 8.) Korm. rendelet |
