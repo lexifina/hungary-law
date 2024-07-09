@@ -1,5 +1,5 @@
 ## 8. A közszolgálati egyéni teljesítményértékelésről szóló 10/2013. (I. 21.) Korm. rendelet módosítása
 
-11. § A közszolgálati egyéni teljesítményértékelésről szóló 10/2013. (I. 21.) Korm. rendelet 1. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+11. §[^12]
 
-[A rendelet hatálya a (2)–(6) bekezdésben meghatározott kivételekkel]
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

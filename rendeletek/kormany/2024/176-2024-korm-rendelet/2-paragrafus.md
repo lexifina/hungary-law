@@ -1,1 +1,3 @@
-2. § Hatályát veszti a biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú melléklet 3.1.34. pontjában a „ , honvéd altiszt-jelölti” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-13. § A közszolgálati egyéni teljesítményértékelésről szóló 10/2013. (I. 21.) Korm. rendelet
+13. §[^14]
 
-a) 10. alcím címében a „Hjt.” szövegrész helyébe a „Hjkr.” szöveg,
-
-b) 14. § (2) bekezdésében a „két hónapnak” szövegrész helyébe a „három hónapnak” szöveg
-
-lép.
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
