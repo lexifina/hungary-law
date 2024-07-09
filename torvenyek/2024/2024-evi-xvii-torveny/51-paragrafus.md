@@ -1,1 +1,3 @@
-### 51. §
+51. § A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény a következő 127. §-sal egészül ki:
+
+„127. § E törvénynek az igazságügyi tárgyú törvények módosításáról szóló 2024. évi XVII. törvénnyel megállapított 104/A. § (2) bekezdését és 104/B. § (4) bekezdését a folyamatban lévő ügyekben akként kell alkalmazni, hogy a 104/A. § (2) bekezdése szerinti hirdetményt és a hagyatékátadó végzés 104/B. § (4) bekezdése szerinti kiadmányát nem kell megküldeni az öröklésből a rendelkezésre álló adatok alapján kiesett személyeknek, ugyanakkor meg kell küldeni a hagyatéki leltárban nem szereplő ismert öröklésben érdekelteknek is.”
