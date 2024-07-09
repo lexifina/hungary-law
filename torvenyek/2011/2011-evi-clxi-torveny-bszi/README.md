@@ -33,3 +33,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-161-00-00
 | 2021-01-01 | 2020. évi CLXV. törvény | 2011-161-00-00.26 |
 | 2022-01-01 | 2021. évi CXXXIV. törvény | 2011-161-00-00.27 |
 | 2023-06-01 | 2023. évi X. törvény | 2011-161-00-00.28 |
+| 2024-07-09 | 2024. évi XVII. törvény | 2011-161-00-00.29 |

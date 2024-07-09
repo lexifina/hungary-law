@@ -5,3 +5,7 @@
 (2a) Ha az OBT elnökének vagy elnökhelyettesének megválasztásakor az OBT megbízatási idejéből kevesebb mint 3 év van hátra, a megbízatás az OBT megbízatásának idejéig tart.
 
 (3) Az OBT elnökét – akadályoztatása esetén, ideértve azt az esetet is, ha a tisztség nincs betöltve – az elnökhelyettes helyettesíti. Az elnökhelyettes akadályoztatása esetén – ideértve azt az esetet is, ha a tisztség nincs betöltve – az OBT elnökét a leghosszabb bírói szolgálati jogviszonnyal rendelkező OBT tag helyettesíti.
+
+(4) Az OBT elnöke és elnökhelyettese juttatásként a bírák jogállásáról és javadalmazásáról szóló törvényben meghatározottak szerint budapesti lakóház vagy lakás használatára jogosult.
+
+(5) Az OBT elnökét és elnökhelyettesét e tisztségéből eredő feladatai ellátása érdekében mentesíteni kell a bírói munka alól.
