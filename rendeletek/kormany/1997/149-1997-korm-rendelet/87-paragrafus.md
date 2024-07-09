@@ -2,26 +2,41 @@
 
 ## 87. § A védelembe vételről szóló határozat rendelkező része a 14. §-ban meghatározottakon kívül tartalmazza
 
-a)[^683] a család- és gyermekjóléti központ felhívását a védelembe vételhez kapcsolódó gyermekjóléti szolgáltatási feladatok esetmenedzselésének ellátására, a család- és gyermekjóléti szolgálattal együtt a védelembe vétel melletti szociális segítőmunka biztosítására és – a gyermeknek a kapcsolattartással összefüggő veszélyeztetettsége miatt elrendelt védelembe vétel esetén – a kapcsolattartásra jogosult szülő lakó- vagy tartózkodási helye szerinti család- és gyermekjóléti központtal való együttműködésre,
+a)[^689] a gyermek tényleges tartózkodási helye szerinti család- és gyermekjóléti központ felhívását
 
-b)[^684] a gyermek lakó- vagy tartózkodási helye szerinti család- és gyermekjóléti központ felhívását a gondozási-nevelési tervnek a határozat véglegessé válását követő tizenöt napon belül történő elkészítésére és a gyámhivatalnak történő megküldésére,
+aa) a védelembe vételhez kapcsolódó gyermekjóléti szolgáltatási feladatok esetmenedzselésének ellátására,
 
-c)[^685] a gyermek, a gyermeket gondozó szülő és a kapcsolattartásra jogosult szülő kötelezését a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ munkatársával való együttműködésre,
+ab) a család- és gyermekjóléti szolgálattal együtt a védelembe vétel melletti szociális segítőmunka biztosítására,
 
-d)[^686] a gyermek és a gyermeket gondozó szülő, a kapcsolattartásra jogosult szülő figyelmeztetését az együttműködés megtagadásának jogkövetkezményeire,
+ac) – a gyermeknek a kapcsolattartással összefüggő veszélyeztetettsége miatt elrendelt védelembe vétele esetén – a kapcsolattartásra jogosult szülő lakó- vagy tartózkodási helye szerinti család- és gyermekjóléti központtal való együttműködésre, és
 
-e)[^687] a Gyvt. 68. § (3) bekezdése alapján elrendelt intézkedéseket,
+ad) indokolt esetben a 90. § (1a) bekezdése szerinti felülvizsgálat kezdeményezésére,
+
+b)[^690] a gyermek tényleges tartózkodási helye szerinti család- és gyermekjóléti központ felhívását a gondozási-nevelési tervnek a határozat véglegessé válását követő tizenöt napon belül történő elkészítésére és a gyámhivatalnak történő megküldésére,
+
+c)[^691] a gyermek, a gyermeket gondozó szülő, a szülői felügyeletet nem gyakorló szülő kötelezését a család- és gyermekjóléti szolgálat, valamint a család- és gyermekjóléti központ munkatársával, továbbá a védelembe vételt segítő személlyel való együttműködésre,
+
+d)[^692] a gyermek és a gyermeket gondozó szülő, a szülői felügyeletet nem gyakorló szülő figyelmeztetését az eredménytelen védelembe vétel 91/E. § szerinti jogkövetkezményeire,
+
+e)[^693] a Gyvt. 68. § (3) bekezdése alapján elrendelt intézkedéseket, valamint a Gyvt. 68. § (3) bekezdés l) pontja szerinti figyelmeztetést,
 
 f) a felülvizsgálat határidejét,
 
-g)[^688]
+g)[^694] a védelembe vételt segítő személy kijelölését és vállalt feladatait,
 
-h)[^689] a család- és gyermekjóléti központ, a korlátozottan cselekvőképes gyermek, a szülő vagy más törvényes képviselő tájékoztatását arról, hogy bármikor kezdeményezhetik a védelembe vétel felülvizsgálatát.
+h)[^695] a család- és gyermekjóléti központ, a korlátozottan cselekvőképes gyermek, a szülő vagy más törvényes képviselő tájékoztatását arról, hogy bármikor kezdeményezhetik a védelembe vétel felülvizsgálatát.
 
-[^683]: A 87. § a) pontja a 306/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^684]: A 87. § b) pontja a 306/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^685]: A 87. § c) pontja a 306/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^686]: A 87. § d) pontja a 306/2018. (XII. 27.) Korm. rendelet 10. § d) pontja szerint módosított szöveg.
-[^687]: A 87. § e) pontja a 14/2003. (II. 12.) Korm. rendelet 48. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés n) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^688]: A 87. § g) pontját a 14/2003. (II. 12.) Korm. rendelet 48. §-a iktatta be, hatályon kívül helyezte a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés j) pontja.
-[^689]: A 87. § h) pontját a 315/2005. (XII. 25.) Korm. rendelet 51. §-a iktatta be, szövege a 419/2015. (XII. 23.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
+i)[^696] a védelembe vételt segítő személy tájékoztatását arról, hogy
+
+ia) a védelembe vétel felülvizsgálatát kizárólag abban az esetben kezdeményezheti, ha a g) pont szerinti feladatellátást a továbbiakban vállalni nem tudja, vagy ha a feladatainak megváltoztatását kéri, és
+
+ib) jogorvoslati jogát kizárólag a határozatnak az ő feladatellátását érintő rendelkezései vonatkozásában gyakorolhatja.
+
+[^689]: A 87. § a) pontja a 194/2024. (VII. 8.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^690]: A 87. § b) pontja a 306/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított, a 194/2024. (VII. 8.) Korm. rendelet 19. § 7. pontja szerint módosított szöveg.
+[^691]: A 87. § c) pontja a 306/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított, a 194/2024. (VII. 8.) Korm. rendelet 19. § 8. pontja szerint módosított szöveg.
+[^692]: A 87. § d) pontja a 306/2018. (XII. 27.) Korm. rendelet 10. § d) pontja, a 194/2024. (VII. 8.) Korm. rendelet 19. § 9. pontja szerint módosított szöveg.
+[^693]: A 87. § e) pontja a 14/2003. (II. 12.) Korm. rendelet 48. §-ával megállapított, a 173/2009. (VIII. 29.) Korm. rendelet 65. § (1) bekezdés n) pontja, a 194/2024. (VII. 8.) Korm. rendelet 19. § 10. pontja szerint módosított szöveg.
+[^694]: A 87. § g) pontját újonnan a 194/2024. (VII. 8.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^695]: A 87. § h) pontját a 315/2005. (XII. 25.) Korm. rendelet 51. §-a iktatta be, szövege a 419/2015. (XII. 23.) Korm. rendelet 14. § 17. pontja szerint módosított szöveg.
+[^696]: A 87. § i) pontját a 194/2024. (VII. 8.) Korm. rendelet 9. § (3) bekezdése iktatta be.

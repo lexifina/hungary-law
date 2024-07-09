@@ -2,19 +2,19 @@
 
 ## Nevelésbe vétellel kapcsolatos ügyek
 
-## A nevelésbe vétel[^832]
+## A nevelésbe vétel[^844]
 
-99. §[^833] (1) Nevelésbe vételre nem kerülhet sor, ha a veszélyeztetettség megszüntetése és a gyermek gondozása megfelelően biztosítható a különélő másik szülőnél vagy harmadik személynél történő ideiglenes elhelyezéssel, családbafogadással, a gyermek átmeneti gondozásával, valamint fogyatékosok vagy pszichiátriai betegek otthonában történő elhelyezése útján.
+99. §[^845] (1) Nevelésbe vételre nem kerülhet sor, ha a veszélyeztetettség megszüntetése és a gyermek gondozása megfelelően biztosítható a különélő másik szülőnél vagy harmadik személynél történő ideiglenes elhelyezéssel, családbafogadással, a gyermek átmeneti gondozásával, valamint fogyatékosok vagy pszichiátriai betegek otthonában történő elhelyezése útján.
 
 (2) Ha a nevelésbe vétel feltételei nem állnak fenn, a gyámhivatal a kérelem elutasításával, illetve az eljárás megszüntetésével egyidejűleg
 
-a)[^834] megkeresi a család- és gyermekjóléti központot a gyermekjóléti alapellátás keretében történő segítségnyújtás megszervezése érdekében,
+a)[^846] megkeresi a család- és gyermekjóléti központot a gyermekjóléti alapellátás keretében történő segítségnyújtás megszervezése érdekében,
 
 b) indokolt esetben elrendeli a gyermek védelembe vételét.
 
-(3)[^835]
+(3)[^847]
 
-[^832]: A 99. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^833]: A 99. § a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
-[^834]: A 99. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^835]: A 99. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § g) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^844]: A 99. §-t megelőző alcím a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^845]: A 99. § a 97/2013. (III. 29.) Korm. rendelet 31. §-ával megállapított szöveg.
+[^846]: A 99. § (2) bekezdés a) pontja a 419/2015. (XII. 23.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^847]: A 99. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 24. § g) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -1,3 +1,3 @@
-## Hiánypótlás[^32]
+## Hiánypótlás[^34]
 
-[^32]: A 8/D. §-t megelőző alcímet újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (4) bekezdése iktatta be.
+[^34]: A 8/D. §-t megelőző alcímet újonnan a 457/2017. (XII. 28.) Korm. rendelet 40. § (4) bekezdése iktatta be.

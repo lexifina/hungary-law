@@ -6,7 +6,7 @@ a) a másik szülő nem áll szülői felügyelet megszüntetését kimondó ít
 
 b) a másik szülő szülői felügyeleti joga nem szünetel a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján, vagy
 
-c)[^85] a gyermek harmadik személynél történő elhelyezése iránt nem indokolt pert indítani.
+c)[^89] a gyermek harmadik személynél történő elhelyezése iránt nem indokolt pert indítani.
 
 (2) Ha a különélő szülők közösen gyakorolják a szülői felügyeleti jogot, és a gyermeket ténylegesen gondozó szülő szülői felügyeleti joga a Ptk. 4:186. § (1) bekezdés a)–d) vagy i) pontja vagy a Ptk. 4:186. § (3) bekezdése alapján szünetel, vagy szülői felügyeleti jogát a bíróság megszüntette, vagy meghalt, a gyámhivatal felhívja a szülői felügyeleti jogát gyakorló, különélő másik szülőt a gyermek gondozására.
 
@@ -28,7 +28,7 @@ c) szükség esetén rendelkezik a gyám felmentéséről.
 
 (8) Ha a bíróság úgy rendelkezett, hogy a szülői felügyeletet megszüntető határozatának hatálya kihat a később született gyermekre is, a gyámhivatal megvizsgálja annak lehetőségét, hogy a gyermek másik szülője tudja-e a jövőben gyakorolni szülői felügyeleti jogát. Ha a másik szülő szülői felügyeleti jogának gyakorlása akadályozott, a gyámhivatal megvizsgálja, hogy a gyermek nevelésbe vételének vagy örökbefogadásának feltételei fennállnak-e.
 
-(9)[^86] Ha a szülői felügyeleti jog a Ptk. 4:186. § (1) bekezdés d) pontjára tekintettel szünetel és utóbb a szülői felügyeleti jog szünetelésére okot adó körülmény megszűnt, a gyámhivatal
+(9)[^90] Ha a szülői felügyeleti jog a Ptk. 4:186. § (1) bekezdés d) pontjára tekintettel szünetel és utóbb a szülői felügyeleti jog szünetelésére okot adó körülmény megszűnt, a gyámhivatal
 
 a) megállapítja a bíróság döntése alapján kizárólagos szülői felügyeletet gyakorló szülő szülői felügyeleti joga feléledését,
 
@@ -36,5 +36,5 @@ b) felhívja az a) pont szerinti szülőt a bíróság döntésének megfelelő 
 
 c) kötelezi a gyermeket gondozó szülőt a gyermek meghatározott időn belüli átadására az a) pont szerinti szülőnek.
 
-[^85]: A 19. § (1) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^86]: A 19. § (9) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 4. §-a iktatta be.
+[^89]: A 19. § (1) bekezdés c) pontja a 393/2017. (XII. 13.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^90]: A 19. § (9) bekezdését a 629/2022. (XII. 30.) Korm. rendelet 4. §-a iktatta be.

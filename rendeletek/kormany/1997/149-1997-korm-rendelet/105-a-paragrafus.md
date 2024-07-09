@@ -1,16 +1,16 @@
-## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^895]
+## A gondozási hely megváltoztatása, a tartózkodási hely megállapítása[^910]
 
-105/A. §[^896] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
+105/A. §[^911] (1) A gyámhivatal a gyermek gondozási helyének kérelemre történő felülvizsgálatát a nevelésbe vétel felülvizsgálatának minősítheti.
 
 (2) A gondozási hely megváltoztatását kérheti a gyermek, a szülő, a gyermekvédelmi gyám, a nevelőszülői hálózat vezetője, a gyermekotthon vezetője, valamint kezdeményezheti a gyermekjogi képviselő és a gyermekvédelmi szakszolgálat.
 
-(2a)[^897] A gyermekvédelmi szakszolgálat a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 11. § (7) bekezdése alapján
+(2a)[^912] A gyermekvédelmi szakszolgálat a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 11. § (7) bekezdése alapján
 
 a) a (4a) bekezdés szerinti esetben a gyermek gondozási helyének megváltoztatását kérelmezi a gyámhivatalnál az új egyéni elhelyezési terv és elhelyezési javaslat egyidejű megküldésével, vagy
 
-b) az (5) bekezdés b) vagy c) pontja szerinti esetben a fenntartó, működtető személyében bekövetkező változásról tájékoztatást nyújt a gyámhivatalnak.
+b)[^913] az (5) bekezdés b) vagy c) pontja szerinti esetben a fenntartó, a nevelőszülői hálózat vonatkozásában bekövetkező változásról tájékoztatást nyújt a gyámhivatalnak.
 
-(3)[^898] A gyámhivatal – a (2a) bekezdés szerinti eset kivételével – a gondozási hely megváltoztatásához javaslatot kér a gyermekvédelmi szakszolgálattól azzal, hogy vizsgálata során véleményezze – a Gyvt. 80/B. § (1) bekezdése figyelembevételével – a gyermek gondozási helyét is.
+(3)[^914] A gyámhivatal – a (2a) bekezdés szerinti eset kivételével – a gondozási hely megváltoztatásához javaslatot kér a gyermekvédelmi szakszolgálattól azzal, hogy vizsgálata során véleményezze – a Gyvt. 80/B. § (1) bekezdése figyelembevételével – a gyermek gondozási helyét is.
 
 (4) A gondozási hely megváltoztatásának minősül, ha a gyermek gondozása a korábban meghatározottól eltérő
 
@@ -24,15 +24,15 @@ d) fogyatékosok vagy pszichiátriai betegek otthonában
 
 történik.
 
-(4a)[^899] A (4) bekezdésben foglaltakon túl a gondozási hely megváltoztatásának minősül az is, ha a nevelőszülő fenntartója és működtetője személyében bekövetkező változást az érintett fenntartók, működtetők és a nevelőszülő közötti írásbeli megállapodás nem alapozza meg.
+(4a)[^915] A (4) bekezdésben foglaltakon túl a gondozási hely megváltoztatásának minősül az is, ha a nevelőszülő fenntartója és a nevelőszülői hálózat vonatkozásában bekövetkező változást az érintett fenntartók, nevelőszülői hálózatok és a nevelőszülő közötti írásbeli megállapodás nem alapozza meg.
 
-(5)[^900] Nem minősül a gondozási hely megváltoztatásának
+(5)[^916] Nem minősül a gondozási hely megváltoztatásának
 
 a) a fenntartó személyében történő változás,
 
-b) a nevelőszülői hálózat fenntartójának, illetve működtetőjének személyében történő változás, ha azt a fenntartók, a működtetők és a nevelőszülő közötti írásbeli megállapodás alapozza meg,
+b)[^917] a nevelőszülői hálózat fenntartójának, illetve nevelőszülői hálózat vonatkozásában történő változás, ha azt a fenntartók, a nevelőszülői hálózatok és a nevelőszülő közötti írásbeli megállapodás alapozza meg,
 
-c) a nevelőszülői hálózat fenntartójának, illetve működtetőjének személyében történő változás, ha hatósági ellenőrzés alátámasztja, hogy a nevelőszülő fenntartó-, illetve működtetőváltási szándékát a fenntartó vagy működtető jogszabálysértő tevékenysége alapozza meg,
+c)[^918] a nevelőszülői hálózat fenntartójának, illetve a nevelőszülői hálózat vonatkozásában történő változás, ha hatósági ellenőrzés alátámasztja, hogy a nevelőszülő fenntartó-, illetve nevelőszülői hálózat váltási szándékát a fenntartó vagy a nevelőszülői hálózat jogszabálysértő tevékenysége alapozza meg,
 
 d) a gyermekotthon felújításának, korszerűsítésének ideje alatt a gondozási helytől eltérő helyen tartózkodás,
 
@@ -44,7 +44,7 @@ f) a javítóintézetben tartózkodás.
 
 (7) A gondozási hely megváltoztatásáról hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
-a) a 105. § (1) bekezdésében foglaltakat,
+a)[^919] a 105. § (1) bekezdésében foglaltakat és a nevelési felügyelet elrendelését a 114/B. § (2) bekezdésében foglaltak meghatározásával, ha a nevelési felügyelet elrendelése a Gyvt. 79. § (5) bekezdés f) pontja alapján szükséges,
 
 b) a gyermek új gondozási helyre kerülésének időpontját,
 
@@ -58,15 +58,20 @@ a gondozási, ellátási hely megváltozását követő tizenöt napon belül.
 
 (8) A gondozási hely megváltoztatásáról szóló határozatot a gyámhivatal közli a 105. § (3) bekezdésében foglalt szervekkel, személyekkel.
 
-(9) Ha a nevelőszülőnek megváltozik a lakóhelye és a működtető működési területéről elköltözik, de a gyermeknek érdekében áll, hogy továbbra is az őt nevelő családban nevelkedjen, a működtető kérheti a nevelőszülő új lakóhelye szerinti nevelőszülői hálózat működtetőjétől a foglalkoztatás átvállalását. A működési engedélyen alapuló átvállaló nyilatkozat alapján a gyámhivatal megállapítja a gyermek új gondozási helyét, mérlegelve a Gyvt. 79. § (3) bekezdésében foglaltakat.
+(9)[^920] Ha a nevelőszülőnek megváltozik a lakóhelye és a nevelőszülői hálózat működési területéről elköltözik, de a gyermeknek érdekében áll, hogy továbbra is az őt nevelő családban nevelkedjen, a nevelőszülői hálózat kérheti a nevelőszülő új lakóhelye szerinti nevelőszülői hálózattól a foglalkoztatás átvállalását. A működési engedélyen alapuló átvállaló nyilatkozat alapján a gyámhivatal megállapítja a gyermek új gondozási helyét, mérlegelve a Gyvt. 79. § (3) bekezdésében foglaltakat.
 
 (10) Ha a gondozási hely megváltoztatása során az illetékes gyermekvédelmi szakszolgálatok között vita merül fel, a gyámhivatal a gyermekvédelmi szakszolgálatok gondozási helyre tett javaslata, valamint a gyermekvédelmi gyám és a fenntartók véleménye alapján, a 103. és 104. §-ban foglaltak szerint dönt a gondozási hely fenntartásáról vagy megváltoztatásáról.
 
 (11) A gondozási hely megváltoztatásáról szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a gyermek új gondozási helyét a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel.
 
-[^895]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^896]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^897]: A 105/A. § (2a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (1) bekezdése iktatta be.
-[^898]: A 105/A. § (3) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^899]: A 105/A. § (4a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^900]: A 105/A. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^910]: A 105/A. §-t megelőző alcím a 334/2011. (XII. 29.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^911]: A 105/A. §-t a 14/2003. (II. 12.) Korm. rendelet 65. §-a iktatta be, szövege a 97/2013. (III. 29.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^912]: A 105/A. § (2a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^913]: A 105/A. § (2a) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 19. § 17. pontja szerint módosított szöveg.
+[^914]: A 105/A. § (3) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^915]: A 105/A. § (4a) bekezdését a 311/2019. (XII. 18.) Korm. rendelet 7. § (2) bekezdése iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 19. § 18. pontja szerint módosított szöveg.
+[^916]: A 105/A. § (5) bekezdése a 311/2019. (XII. 18.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^917]: A 105/A. § (5) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 19. § 19. pontja szerint módosított szöveg.
+[^918]: A 105/A. § (5) bekezdés c) pontja a 194/2024. (VII. 8.) Korm. rendelet 19. § 20. pontja szerint módosított szöveg.
+[^919]: A 105/A. § (7) bekezdés a) pontja a 194/2024. (VII. 8.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^920]: A 105/A. § (9) bekezdése a 194/2024. (VII. 8.) Korm. rendelet 19. § 21. pontja szerint módosított szöveg.

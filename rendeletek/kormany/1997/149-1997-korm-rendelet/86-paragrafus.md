@@ -1,17 +1,19 @@
-86. § (1)[^678] A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart.
+86. §[^688] (1) A gyámhivatal a védelembe vétel iránti eljárás során tárgyalást tart. A tárgyalás tartása mellőzhető, ha a gyámhivatal rendelkezésére álló információk, így különösen a család- és gyermekjóléti központ 84. § (2) bekezdése szerinti javaslata alapján a gyermek veszélyeztetettsége nem áll fenn.
 
-(2)[^679] A tárgyalást úgy kell megtartani, hogy hozzásegítse a gyermeket és a szülőt, illetve gyámját – ide nem értve a gyermekvédelmi szakellátásban lévő gyermek gyámját – a védelembe vétel okának, céljának és jogkövetkezményeinek megismeréséhez.
+(2) A tárgyalást úgy kell megtartani, hogy
 
-(3)[^680] A tárgyaláson meg kell hallgatni a Gyvt. 128. §-ában meghatározott személyeken túl
+a) az hozzásegítse a gyermeket, a szülőt, a családbafogadó gyámot a védelembe vétel okának és céljának, valamint a 90. § (1a) bekezdés és a 91/E. § szerinti jogkövetkezmények megismeréséhez, és
 
-a)[^681] azt az esetmenedzsert, aki a gyermek védelembe vételére javaslatot tett, valamint ha a gyermek átmeneti gondozásban részesült, az átmeneti gondozást nyújtó intézmény családgondozóját is, és
+b) azon tisztázható legyen, hogy van-e olyan védelembe vételt segítő személy, aki vállalja a védelembe vételben való közreműködést.
 
-b) a megelőző pártfogó felügyelőként kijelölhető személyt, ha a pártfogó felügyelői szolgálat kockázatértékelése a gyermek bűnmegelőzési szempontú veszélyeztetettségének magas fokát állapította meg.
+(3) A tárgyaláson meg kell hallgatni a Gyvt. 128. §-ában meghatározott személyeket, ideértve a külön élő szülőt is, ha szülői felügyeleti joga nem szünetel vagy szűnt meg, és
 
-(4)[^682] Az eljárás során a gyermeket és a szülőt, illetve családbafogadó gyámját nyilatkoztatni kell arról, hogy vállalják-e a család- és gyermekjóléti szolgálattal és a család- és gyermekjóléti központtal az alapellátás keretében való együttműködést. A nyilatkozattétel előtt a gyermeket és a szülőt figyelmeztetni kell az együttműködés hiányában alkalmazható jogkövetkezményekre.
+a) azt az esetmenedzsert, aki a gyermek védelembe vételére javaslatot tett, valamint ha a gyermek átmeneti gondozásban részesült, az átmeneti gondozást nyújtó intézmény családgondozóját is,
 
-[^678]: A 86. § (1) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (10) bekezdés a) pontja szerint módosított szöveg.
-[^679]: A 86. § (2) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja szerint módosított szöveg.
-[^680]: A 86. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^681]: A 86. § (3) bekezdés a) pontja a 311/2019. (XII. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^682]: A 86. § (4) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 18. pontja, a 21/2012. (II. 29.) Korm. rendelet 17. § f) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 16. pontja szerint módosított szöveg.
+b) a megelőző pártfogó felügyelőként kijelölhető személyt, ha a pártfogó felügyelői szolgálat kockázatértékelése a gyermek bűnmegelőzési szempontú veszélyeztetettségének magas fokát állapította meg, és
+
+c) azt a védelembe vételt segítő személyt, akire a család- és gyermekjóléti központ javaslatot tesz, feltéve, hogy az vállalja a védelembe vételben való közreműködést, és a gyermek veszélyeztetettségét a szülő csak e személy közreműködésével tudja megszüntetni.
+
+(4) Az eljárás során a gyermeket, a szülőt, a családbafogadó gyámot és a védelembe vételt segítő személyt nyilatkoztatni kell arról, hogy vállalják-e a család- és gyermekjóléti szolgálattal, valamint a család- és gyermekjóléti központtal az alapellátás keretében való együttműködést. A nyilatkozattétel előtt a gyermeket, a szülőt és a családbafogadó gyámot figyelmeztetni kell az együttműködés hiányában alkalmazható jogkövetkezményekre.
+
+[^688]: A 86. § a 194/2024. (VII. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
