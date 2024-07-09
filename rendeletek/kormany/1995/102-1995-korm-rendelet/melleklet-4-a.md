@@ -76,21 +76,27 @@ III. A fogyatékosság jellege
 
 1. Az igénylő fogyatékosságának jellege
 
-a) ⬜ látási,
+a) □ látási,
 
-b) ⬜ hallási,
+b) hallási,
 
-c) ⬜ értelmi,
+ba) □ halláskárosodása 25. életévének betöltését megelőzően következett be, vagy
 
-d) ⬜ a személyiség egészét érintő fejlődés átható zavara,
+bb) □ halláskárosodása mellett a hangzó beszéd érthető ejtése elmarad,
 
-e) ⬜ mozgásszervi,
+c) □ értelmi,
 
-f) ⬜ halmozott, mert az igénylőnek az a)–e) pontban meghatározott fogyatékosságok közül legalább kettő fogyatékossága van,
+d) □ a személyiség egészét érintő fejlődés átható zavara,
 
-g) ⬜ halmozott, mert az igénylő hallássérült és emellett az a) vagy c) vagy d) pontban meghatározott fogyatékossága is van,
+e) □ mozgásában fogyatékos,
 
-h) ⬜ kromoszóma-rendellenesség.
+f) □ kromoszóma-rendellenesség,
+
+g) □ beszédfogyatékos,
+
+h) □ – a b) pont bb) alpontja és a g) pont szerinti fogyatékosságok együttes fennállása kivételével – halmozott, mert az igénylőnek az a)–g) pontban meghatározott fogyatékosságok közül legalább kettő fogyatékossága van,
+
+i) □ halmozott, mert az igénylő hallásvesztése oly mértékű, hogy a beszédnek hallás útján történő megértésére segédeszközzel sem képes, és emellett az a), c)–g) pontban meghatározott fogyatékossága is van.
 
 2. Véleménye szerint az igénylő a súlyos fogyatékossággal összefüggésben mindennapi életvitele során a következőkben felsoroltak közül mely tevékenységekhez igényli rendszeresen más személyek közreműködését:
 
@@ -106,4 +112,4 @@ h) ⬜ kromoszóma-rendellenesség.
 
 IV. A beutalót kiállító orvos adatai
 
-[^68]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés l) pontja szerint módosított szöveg.
+[^68]: A 4/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 15. § (12) bekezdés l) pontja, a 194/2024. (VII. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
