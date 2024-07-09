@@ -2,7 +2,7 @@
 
 (2) A hatósági ellenőrzés céljából a Kar hivatali szerve adatot igényelhet a bűnügyi nyilvántartási rendszerből és a gondnokoltak nyilvántartásából. Az adatigénylés kizárólag azon adatra irányulhat, amely alapján megállapítható a végrehajtóval szembeni 233. § (2) bekezdés a)–d), i) vagy j) pontjában meghatározott körülmény fennállása. Az adatigénylés eredményéről a Kar hivatali szerve a tárgyhónapot követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
 
-(2a) A (2) bekezdés szerinti adatigénylést a Kar hivatali szerve a tudomására jutott információ ellenőrzése érdekében eltérő időpontban is lefolytathatja; ennek eredményéről a Kar hivatali szerve az adat megérkezését követő hónap 15. napjáig tájékoztatja a Hatóság elnökét.
+(2a)
 
 (2b) A végrehajtó, a végrehajtó-helyettes és a végrehajtójelölt évente június 30-ig a bűnügyi nyilvántartó rendszerben kezelt adatokról törvényben foglaltak szerint kiállított hatósági bizonyítvány megküldésével igazolja a Hatóság elnökénél és a Kar hivatali szerve vezetőjénél, hogy vele szemben a 233. § (2) bekezdés a)–d) vagy j) pontjában meghatározott körülmény fennáll-e.
 
@@ -22,7 +22,7 @@ d) a végrehajtójelölt
 
 azon személyes adatait, amelyeket a bűnügyi nyilvántartó szerv vagy a gondnokoltakat nyilvántartó szerv által e célból kiállított igazolás tartalmaz.
 
-(4) A (2)–(2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
+(4) A (2), valamint (2b) és (2c) bekezdés alapján megismert személyes adatokat a Kar hivatali szerve, valamint a Hatóság elnöke abból a célból, hogy az esetlegesen fennálló kinevezési akadályról és jogviszony megszüntetési, illetve felfüggesztési okról tudomást szerezzen,
 
 a) a végrehajtói kinevezésről meghozott döntésig,
 

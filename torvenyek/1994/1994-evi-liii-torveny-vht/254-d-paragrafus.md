@@ -1,10 +1,6 @@
 254/D. § (1) A végrehajtói iroda alapításához a Kar hivatali szerve engedélye szükséges (alapítási engedély), az engedélyezés iránti kérelmet az alapító okirat elfogadásától számított 8 napon belül kell a Kar hivatali szervénél előterjeszteni. Így kell eljárni az irodai tagság létesítése esetén is.
 
-(2) A Kar hivatali szerve a végrehajtói iroda részére az alapítási engedélyt 60 napon belül megadja, ha
-
-a) alapító okirata megfelel az irányadó jogszabályoknak,
-
-b) tagjával szemben a végrehajtói irodai tagságot kizáró, a 254/B. §-ban meghatározott körülmény nem áll fenn.
+(2) A Kar hivatali szerve a végrehajtói iroda részére az alapítási engedélyt 60 napon belül megadja, ha a végrehajtói iroda alapító okirata megfelel a jogszabályoknak.
 
 (3) A Kar hivatali szerve a (2) bekezdésben foglalt eljárása során megvizsgálja az alapító okiratban foglaltakat, és – szükség esetén a helyszínen – ellenőrzi az okiratban foglalt adatok valódiságát.
 

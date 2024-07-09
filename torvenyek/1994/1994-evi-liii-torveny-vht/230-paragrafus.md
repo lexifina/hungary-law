@@ -26,4 +26,4 @@ d) a megfizetendő pénzösszeg mértéke.
 
 (6) A végrehajtói tevékenység vizsgálatának és ellenőrzésének eredményéről a Hatóság elnökét soron kívül, de legkésőbb az ellenőrzési jelentés keltétől számított 45 napon belül tájékoztatni kell.
 
-(7) A 242. § szerinti szakmai beszámoló készítési kötelezettség teljesítését a Hatóság ellenőrzi.
+(7) A 242. § szerinti szakmai beszámolóval kapcsolatos kötelezettség teljesítését a Hatóság ellenőrzi. Ha a szakmai beszámoló valóságtartalmának, hitelességének és teljeskörűségének ellenőrzése céljából a Hatóság a Kar hivatali szervétől adatot igényel, a Kar hivatali szerve az adatszolgáltatást az adatigénylés beérkezésétől számított 15 napon belül teljesíti.

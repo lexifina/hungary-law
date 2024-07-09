@@ -2,9 +2,9 @@
 
 239. § (1) A végrehajtói szolgálat megszűnik
 
-a) a végrehajtó felmentéséről szóló határozat jogerőre emelkedésének vagy a végrehajtói szolgálat megszűnésének a felmentésről szóló határozatban megjelölt
+a) a végrehajtó felmentéséről szóló határozat véglegessé válásának vagy a végrehajtói szolgálat megszűnésének a felmentésről szóló határozatban megjelölt
 
-b) a végrehajtói szolgálat megszűnésének megállapításáról szóló határozat jogerőre emelkedésének,
+b) a végrehajtói szolgálat megszűnésének megállapításáról szóló határozat véglegessé válásának,
 
 c) a bírósági végrehajtói fegyelmi bíróság hivatalvesztést, a végrehajtó alkalmatlanságát vagy érdemtelenségét megállapító határozata jogerőre emelkedésének,
 

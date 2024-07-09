@@ -34,4 +34,6 @@ e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtóje
 
 f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg.
 
+g) a végrehajtójelölt felett munkáltatói jogokat gyakorló végrehajtó végrehajtói szolgálata megszűnt, és a végrehajtójelölt másik végrehajtó vagy végrehajtói iroda alkalmazásában nem áll, kivéve, ha a végrehajtói szolgálat megszűnését követő 60 napon belül a Kar hivatali szerve részére igazolja, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
+
 (7) A végrehajtójelöltek nyilvántartásába vétel iránti eljárás, valamint a nyilvántartásból való törlés iránti eljárás során a végrehajtójelölt tekintetében a 233. § (2) bekezdés a)–d) és i) pontjában foglalt körülmény vizsgálata esetén a 234/B. §, valamint a 239/A. § rendelkezéseit kell megfelelően alkalmazni.

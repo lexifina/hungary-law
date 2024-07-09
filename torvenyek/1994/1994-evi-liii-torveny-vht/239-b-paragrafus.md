@@ -1,10 +1,10 @@
-239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2)–(2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
+239/B. § (1) A Kar hivatali szervének vezetője a 239/A. § (2), valamint (2b) és (2c) bekezdése alapján tudomására jutott adatok alapján megállapítja a szolgálatból történő felfüggesztés, valamint a névjegyzékből történő törlés feltételeinek bekövetkeztét, ha a végrehajtó, a végrehajtó-helyettes vagy a végrehajtójelölt közvádra üldözendő bűncselekmény miatt büntetőeljárás hatálya alatt áll.
 
 (2) A Kar hivatali szervének vezetője az (1) bekezdés szerinti megállapítása alapján
 
-a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt áll büntetőeljárás hatálya alatt,
+a) a végrehajtót felfüggesztheti, valamint a végrehajtó-helyettest és a végrehajtójelöltet a névjegyzékből törölheti, ha közvádra üldözendő gondatlan bűncselekmény miatt, illetve pótmagánvádas ügyben áll büntetőeljárás hatálya alatt,
 
-b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt.
+b) azonnali hatállyal felfüggeszti a végrehajtót, valamint törli a névjegyzékből a végrehajtó-helyettest és a végrehajtójelöltet, ha közvádra üldözendő szándékos bűncselekmény miatt áll büntetőeljárás hatálya alatt, ide nem értve a pótmagánvádas eljárást.
 
 (3) A Kar hivatali szervének vezetője a szolgálatból történő felfüggesztés feltételei bekövetkeztének megállapításáról, valamint a felfüggesztésről soron kívül, de legkésőbb 15 napon belül tájékoztatja a Hatóság elnökét.
 

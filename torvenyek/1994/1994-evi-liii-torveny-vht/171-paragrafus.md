@@ -1,6 +1,6 @@
 ## Felosztási terv
 
-171. § (1) Ha a végrehajtás alá vont vagyonból befolyt összeg nem fedezi a végrehajtás során behajtani kívánt valamennyi követelést, a végrehajtó az intézkedésének, illetőleg a végrehajtás során történő értékesítésnek a jogerőre emelkedésétől számított 15 napon belül felosztási tervet készít, és azt megküldi a feleknek, valamint a Kar hivatali szervének, egyúttal tájékoztatja őket a felosztási tervben foglaltakkal szemben benyújtható jogorvoslat lehetőségéről.
+171. § (1) Ha a végrehajtás alá vont vagyonból befolyt összeg nem fedezi a végrehajtás során behajtani kívánt valamennyi követelést, a végrehajtó az intézkedésének, illetőleg a végrehajtás során történő értékesítésnek a jogerőre emelkedésétől számított 15 napon belül felosztási tervet készít, és azt megküldi a feleknek, egyúttal tájékoztatja őket a felosztási tervben foglaltakkal szemben benyújtható jogorvoslat lehetőségéről.
 
 (2) A végrehajtó az ingatlan értékesítéséből befolyt vételár felosztása során azokat a követeléseket elégíti ki, amelyek az értékesítés alapját képező hirdetményben fel voltak tüntetve, illetve amelyek tekintetében a végrehajtható okirat az árverésen kívüli értékesítést megelőzően a végrehajtóhoz megérkezett, és a követelés jogosultja az eljárás költségét megelőlegezte. A később elrendelt végrehajtások jogosultjai az előbbi végrehajtást kérők követeléseinek teljes kielégítését követően fennmaradó összegből részesülhetnek a kielégítés általános szabályai szerint.
 

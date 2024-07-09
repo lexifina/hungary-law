@@ -4,7 +4,7 @@ a) a kinevezését vagy szolgálata folyamatosságának megállapítását köve
 
 b) a kérelem benyújtásáig, a kérelem előterjesztésének évében, és az azt megelőző két év alatt a végrehajtót legfeljebb három alkalommal kötelezte a bíróság pénzösszeg 217/B. § szerinti megfizetésére.
 
-c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámoló készítési kötelezettség megszegése miatt, és
+c) a kinevezését vagy szolgálata folyamatosságának megállapítását követően a végrehajtót legfeljebb kettő alkalommal sújtották bírsággal a szakmai beszámolóval kapcsolatos kötelezettség megszegése miatt, és
 
 d) a végrehajtó a 241/B. § szerinti szakmai továbbképzési kötelezettségének maradéktalanul eleget tett.
 

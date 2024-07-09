@@ -28,4 +28,4 @@ d) a végrehajtói irodák nyilvántartásába történő felvétel esetén a v�
 
 (6) A Hatóság elnöke a 242. § szerinti szakmai beszámolóval kapcsolatos ügyekben az Ákr. rendelkezéseit a (7) bekezdésben foglalt eltéréssel alkalmazza.
 
-(7) A szakmai beszámoló készítési kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt.
+(7) A szakmai beszámolóval kapcsolatos kötelezettség megszegése esetén figyelmeztetés szankció alkalmazása kizárt. A Hatóság a szakmai beszámolóval kapcsolatos kötelezettséget megszegő végrehajtót 30 000 forinttól 400 000 forintig terjedő bírsággal sújtja. A bírság ismételten kiszabható.

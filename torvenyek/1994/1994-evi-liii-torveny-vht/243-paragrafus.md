@@ -12,6 +12,6 @@
 
 (5) A végrehajtó-helyettes a munkaviszonya fennállása alatt köteles ellátni helyettesítési feladatait.
 
-(6) A helyettesített végrehajtó által foglalkoztatott végrehajtó-helyettes a helyettesítés tartama alatt a helyettesítést ellátó állandó helyettes vagy végrehajtó-helyettes utasításait köteles teljesíteni.
+(6) A helyettesített végrehajtó által foglalkoztatott végrehajtó-helyettes és végrehajtójelölt a helyettesítés tartama alatt a helyettesítést ellátó állandó helyettes vagy végrehajtó-helyettes utasításait köteles teljesíteni.
 
 (7) Ha a végrehajtási ügy intézése során egyidejűleg több helyszínen is végrehajtási cselekményt kell foganatosítani, a végrehajtó és állandó helyettese, valamint a végrehajtó által foglalkoztatott végrehajtó-helyettes a különböző helyszíneken – ugyanabban a végrehajtási ügyben is – egyidejűleg eljárhat.

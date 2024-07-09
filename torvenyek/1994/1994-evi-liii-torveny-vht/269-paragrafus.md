@@ -6,6 +6,6 @@ a) a feljelentő a cselekménynek a tudomására jutásától, vagy ha van a feg
 
 b) a cselekmény befejezése óta 5 év eltelt.
 
-(1a) A Kar hivatali szervének vezetője esetén az (1) bekezdés a) pontja szerinti tudomásra jutás időpontja az ellenőrzési jelentés keltének napja.
+(1a) A Kar hivatali szervének vezetője esetén az (1) bekezdés a) pontja szerinti tudomásra jutás időpontja a jogorvoslattal már nem támadható ellenőrzési jelentés keltének napja.
 
 (2) A bűncselekményt megvalósító fegyelmi vétség a bűncselekménnyel együtt évül el.

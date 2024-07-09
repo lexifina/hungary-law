@@ -8,11 +8,11 @@ c) a végrehajtó szolgálata szünetel,
 
 d) a végrehajtó 30 napot meg nem haladóan van távol.
 
-(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
+(2) Az (1) bekezdés d) pontjában meghatározott esetben a végrehajtót az általa foglalkoztatott végrehajtó-helyettes vagy az állandó helyettes, a helyettesítés egyéb eseteiben az állandó helyettes helyettesíti.
 
 (3) Amennyiben a végrehajtó nem foglalkoztat legalább egyéves végrehajtó-helyettesi gyakorlattal rendelkező végrehajtó-helyettest, a végrehajtót állandó helyettese helyettesíti.
 
-(4) A távollét bejelentését követően a Kar hivatali szerve felhívja a helyettesként eljárni köteles személyt a helyettesítési feladatainak ellátására a helyettesként történő eljárásról szóló okirat kiállításával, és a helyettesítést feltünteti a végrehajtók névjegyzékében.
+(4) A távollét bejelentését követően vagy a helyettesítésre okot adó körülménynek a Kar hivatali szerve tudomására jutását követően a Kar hivatali szerve felhívja a helyettesként eljárni köteles személyt a helyettesítési feladatainak ellátására a helyettesként történő eljárásról szóló okirat kiállításával, és a helyettesítést feltünteti a végrehajtók névjegyzékében.
 
 (5) A végrehajtó-helyettes helyettesként a végrehajtó hatáskörében teljes jogkörrel és önálló felelősséggel jár el.
 

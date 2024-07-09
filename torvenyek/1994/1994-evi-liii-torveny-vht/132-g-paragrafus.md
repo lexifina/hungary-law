@@ -4,7 +4,7 @@
 
 (3) A végrehajtó az árverés befejezését követő 15 napon belül felhívja az árverési vevőt, hogy az árverési jegyzőkönyv aláírása és a vételár kifizetése céljából a végrehajtó irodájában vagy az ingóság tárolási helyén a megadott időpontban jelenjen meg; ha ezt elmulasztja, előlegét elveszti. A jegyzőkönyv aláírását és a vételár kifizetését követő 15 napon belül a végrehajtó átadja az ingóságot az árverési vevőnek. Az árverési vevő letétbe helyezett előlegét be kell számítani a vételárba.
 
-(4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan törli az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót.
+(4) Az elektronikus árverési rendszer a licitnapló lezárását követő 30. napon automatikusan megszünteti az elektronikus árverési hirdetmény közzétételét, valamint archiválja az elektronikus árverési hirdetmények nyilvántartásából az árverési hirdetményt és a hozzá tartozó licitnaplót. Az archivált árverési hirdetményt és licitnaplót a Kar hivatali szerve az archiválástól számított tíz évig őrzi meg.
 
 (5) Az árverés sikertelen, ha nem tettek közzé a licitnaplóban vételi ajánlatot, vagy az árverési vevő a vételárat nem fizette meg a (3) bekezdésben foglaltak szerint.
 

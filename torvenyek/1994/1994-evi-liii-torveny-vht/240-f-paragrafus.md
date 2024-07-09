@@ -37,3 +37,7 @@ e) a végrehajtói fegyelmi bíróság jogerős határozatával a végrehajtó-h
 f) a vele szemben a nyilvántartásba vételét követően keletkezett összeférhetetlenséget Kar hivatali szerve felszólítására 30 napon belül nem szüntette meg,
 
 g) a 65. életévét betöltötte.
+
+h) a 241/B. § szerinti szakmai továbbképzési kötelezettségének – a Hatóság elnökének rendeletében biztosított határidőben – nem tett eleget, vagy
+
+i) a végrehajtó-helyettes felett munkáltatói jogokat gyakorló végrehajtó végrehajtói szolgálata megszűnt, és a végrehajtó-helyettes másik végrehajtó vagy végrehajtói iroda alkalmazásában nem áll, kivéve, ha a végrehajtói szolgálat megszűnését követő 60 napon belül a Kar hivatali szerve részére igazolja, hogy másik végrehajtóval vagy végrehajtói irodával munkaviszonyt létesített.
