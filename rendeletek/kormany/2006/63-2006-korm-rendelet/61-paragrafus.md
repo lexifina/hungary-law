@@ -1,3 +1,3 @@
-61. §[^276]
+61. §[^279]
 
-[^276]: A 61. §-t a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.
+[^279]: A 61. §-t a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

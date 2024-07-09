@@ -14,9 +14,9 @@ b) a kérelmező vagy háztartásának tagja a súlyos mozgáskorlátozott szem�
 
 a) az 1. § (1) bekezdés a) pontja szerinti adatokat,
 
-b) nyilatkozatot a kérelmező vagy jogosult, továbbá a vele együtt élő közeli hozzátartozó ingatlanvagyonával, egyéb vagyontárgyai – különösen a gépjárműve – értékével, a pénzforgalmi szolgáltatónál fennálló fizetési számlán kezelt pénzösszeggel és a készpénzvagyonnal kapcsolatosan.
+b)[^27] a nyilatkozatot a kérelmező vagy jogosult, továbbá a vele együtt élő közeli hozzátartozó ingatlanvagyonával, járműve értékével, vagyoni értékű jogával és a pénzforgalmi szolgáltatónál fennálló fizetési számlán kezelt pénzösszegével kapcsolatosan.
 
-(6)[^27] A vagyonnyilatkozatot a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+(6)[^28] A vagyonnyilatkozatot a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell benyújtani. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
 
 [^21]: A 4. § második mondatát a 341/2008. (XII. 30.) Korm. rendelet 6. §-a iktatta be.
 [^22]: A 4. § eredeti szövegének megjelölését (1) bekezdésre változtatta a 323/2009. (XII. 29.) Korm. rendelet 1. §-a.
@@ -24,4 +24,5 @@ b) nyilatkozatot a kérelmező vagy jogosult, továbbá a vele együtt élő kö
 [^24]: A 4. § (3) bekezdését a 323/2009. (XII. 29.) Korm. rendelet 1. §-a iktatta be, egyidejűleg a § eredeti szövegének megjelölését (1) bekezdésre változtatta.
 [^25]: A 4. § (4) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 17. §-a iktatta be, szövege a 235/2017. (VIII. 18.) Korm. rendelet 17. §-a szerint módosított szöveg.
 [^26]: A 4. § (5) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 6. §-a iktatta be.
-[^27]: A 4. § (6) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^27]: A 4. § (5) bekezdés b) pontja a 194/2024. (VII. 8.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^28]: A 4. § (6) bekezdését a 303/2018. (XII. 27.) Korm. rendelet 6. §-a iktatta be, szövege a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.

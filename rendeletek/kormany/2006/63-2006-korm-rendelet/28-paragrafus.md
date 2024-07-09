@@ -1,3 +1,3 @@
-28. §[^180]
+28. §[^183]
 
-[^180]: A 28. §-t a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés d) pontja hatályon kívül helyezte.
+[^183]: A 28. §-t a 379/2016. (XII. 2.) Korm. rendelet 74. § (9) bekezdés d) pontja hatályon kívül helyezte.

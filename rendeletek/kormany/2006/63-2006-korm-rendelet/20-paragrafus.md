@@ -1,6 +1,6 @@
-## 19. §[^138] Az aktív korúak ellátására való jogosultság kérelemre történő megszüntetése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján történik.
+## 19. §[^141] Az aktív korúak ellátására való jogosultság kérelemre történő megszüntetése – az általános közigazgatási rendtartásról szóló törvényben meghatározott feltételek fennállása esetén – automatikus döntéshozatal útján történik.
 
-## Gyermekek otthongondozási díja[^139]
+## Gyermekek otthongondozási díja[^142]
 
 20. § (1) A gyermekek otthongondozási díja iránti kérelmet az arra rendszeresített kérelemnyomtatványon kell benyújtani. A kérelemnyomtatvány tartalmazza
 
@@ -46,7 +46,7 @@ d) a sajátos nevelési igény tényét megállapító, pedagógiai szakszolgál
 
 ## alapján állítja ki.
 
-(5)[^140] A (3) bekezdés b) pontja szerinti háziorvosi igazolást a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. A háziorvosi igazolás tartalmazza az ápolt gyermek azonosítására szolgáló adatot, az ápolt gyermek súlyos fogyatékossága vagy tartós betegsége fennállásának kérdésében kialakított véleményt, a súlyos fogyatékos állapot esetében annak típusát, az igazolás kiállítása során felhasznált hivatalos irat adatait és a háziorvos azonosítására szolgáló adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+(5)[^143] A (3) bekezdés b) pontja szerinti háziorvosi igazolást a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. A háziorvosi igazolás tartalmazza az ápolt gyermek azonosítására szolgáló adatot, az ápolt gyermek súlyos fogyatékossága vagy tartós betegsége fennállásának kérdésében kialakított véleményt, a súlyos fogyatékos állapot esetében annak típusát, az igazolás kiállítása során felhasznált hivatalos irat adatait és a háziorvos azonosítására szolgáló adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
 
 (6) Nem kell mellékelni a kérelemhez a háziorvos (3) bekezdés b) pontja szerinti igazolását, ha az ápolt gyermeknek
 
@@ -58,12 +58,12 @@ c) rokkantsági járadékra
 
 ## való jogosultsága áll fenn.
 
-(7)[^141] Az intézmény vezetőjének a (3) bekezdés c) pontja szerinti igazolását a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. Az igazolás tartalmazza az ápolt gyermek, illetve személy azonosítására szolgáló adatot, az általa igénybe vett intézményi ellátás típusát, az intézmény azonosító adatait, az intézmény látogatásának időtartamára és az intézményi ellátás igénybe vételéhez a szülő, illetve az ápolást végző személy részéről szükséges személyes közreműködés mértékére vonatkozó adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+(7)[^144] Az intézmény vezetőjének a (3) bekezdés c) pontja szerinti igazolását a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kell kiállítani. Az igazolás tartalmazza az ápolt gyermek, illetve személy azonosítására szolgáló adatot, az általa igénybe vett intézményi ellátás típusát, az intézmény azonosító adatait, az intézmény látogatásának időtartamára és az intézményi ellátás igénybe vételéhez a szülő, illetve az ápolást végző személy részéről szükséges személyes közreműködés mértékére vonatkozó adatot. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
 
-(8)[^142] A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.
+(8)[^145] A gyermekek otthongondozási díjára való jogosultság iránti kérelem elutasításáról szóló döntés véglegessé válásáról a kérelmezőt értesíteni kell.
 
-[^138]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 165. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^139]: A Gyermekek otthongondozási díja alcímet (20–24. §-t) a 303/2018. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
-[^140]: A 20. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
-[^141]: A 20. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
-[^142]: A 20. § (8) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 5. §-a iktatta be.
+[^141]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte, újonnan a 457/2017. (XII. 28.) Korm. rendelet 165. § (5) bekezdése iktatta be. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^142]: A Gyermekek otthongondozási díja alcímet (20–24. §-t) a 303/2018. (XII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^143]: A 20. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^144]: A 20. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 42. §-a, a 616/2022. (XII. 29.) Korm. rendelet 65. § a) pontja szerint módosított szöveg.
+[^145]: A 20. § (8) bekezdését a 313/2019. (XII. 18.) Korm. rendelet 5. §-a iktatta be.
