@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-235-20-
 | 2023-01-01 | 1997-235-20-22.26 | 616/2022. (XII. 29.) Korm. rendelet |
 | 2023-07-28 | 1997-235-20-22.27 | 349/2023. (VII. 27.) Korm. rendelet |
 | 2024-03-01 | 1997-235-20-22.28 | 251/2006. (XII. 6.) Korm. rendelet |
+| 2024-07-09 | 1997-235-20-22.29 | 194/2024. (VII. 8.) Korm. rendelet |

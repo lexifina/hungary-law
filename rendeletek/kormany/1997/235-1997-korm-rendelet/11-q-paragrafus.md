@@ -48,4 +48,38 @@ c) önkéntes utánkövetés esetén a kapcsolat felvételét követő tíz munk
 
 (13) Az örökbefogadói tanfolyam szervezője az örökbefogadói tanfolyam adatait a tanfolyam indítását megelőzően legalább harminc nappal rögzíti a GYVR örökbefogadási alrendszerében.
 
+(14)[^100] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatait a nevelőszülővé válásra irányuló kérelem beérkezését követő tizenöt napon belül rögzíti a GYVR törzsadat alrendszerében.
+
+(15)[^101] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója az új nevelőszülő adatainak (14) bekezdés szerinti rögzítését követően öt napon belül elindítja az alkalmasság megállapítására irányuló folyamatot a GYVR nevelőszülői alkalmassági alrendszerében.
+
+(16)[^102] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendes felülvizsgálatára irányuló folyamatot
+
+a) a keretmegállapodás megkötésétől,
+
+b) az utolsó rendes felülvizsgálat lezárásának időpontjától vagy
+
+c) a rendkívüli felülvizsgálat lezárásának időpontjától
+
+számított két év lejártát megelőző harminc nappal elindítja a GYVR nevelőszülői alkalmassági alrendszerében.
+
+(17)[^103] A nevelőszülői hálózat és a Gyvt. 139/B. § (3) bekezdése szerinti jogosultsággal rendelkező nevelőszülői hálózat fenntartója a nevelőszülő alkalmasságának rendkívüli felülvizsgálatát az erre irányuló kezdeményezés beérkezését követő öt napon belül elindítja a GYVR nevelőszülői alkalmassági alrendszerében.
+
+(18)[^104] A gondozási hely vezetője a GYVR gondozási helyek férőhely-nyilvántartási alrendszerében haladéktalanul, de legkésőbb két munkanapon belül rögzíti az arra vonatkozó adatot, hogy
+
+a) a gyermeket a Gyvt. 55. § (6) bekezdése vagy 57. § (2) bekezdés b) pontja alapján ideiglenesen befogadja, vagy
+
+b) az utógondozói ellátás biztosítása céljából befogadó nyilatkozatot bocsátott ki.
+
+(19)[^105] A GYVR gondozási helyek férőhely-nyilvántartási alrendszere automatikusan törli a (18) bekezdés szerint rögzített adatot, ha a gondozási hely vezetője a férőhely lefoglalását nem szünteti meg
+
+a) a (18) bekezdés a) pontja szerinti esetben az ideiglenes befogadás dátumát követő 4. napon,
+
+b) a (18) bekezdés b) pontja szerinti esetben a rögzítés dátumát követő 71. napon.
+
 [^99]: A 11/Q. § (1) bekezdése a 616/2022. (XII. 29.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^100]: A 11/Q. § (14) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^101]: A 11/Q. § (15) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^102]: A 11/Q. § (16) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^103]: A 11/Q. § (17) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^104]: A 11/Q. § (18) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
+[^105]: A 11/Q. § (19) bekezdését a 194/2024. (VII. 8.) Korm. rendelet 21. §-a iktatta be.
