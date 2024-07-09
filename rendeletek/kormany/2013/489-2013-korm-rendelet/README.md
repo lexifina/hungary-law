@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-489-20-
 | 2024-02-23 | 2013-489-20-22.32 | 32/2024. (II. 22.) Korm. rendelet |
 | 2024-05-15 | 2013-489-20-22.33 | 112/2024. (V. 14.) Korm. rendelet |
 | 2024-06-18 | 2013-489-20-22.34 | 128/2024. (VI. 17.) Korm. rendelet |
+| 2024-07-09 | 2013-489-20-22.35 | 194/2024. (VII. 8.) Korm. rendelet |
