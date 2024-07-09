@@ -6,26 +6,26 @@ Az adózási szempontból nem együttműködő államok listája
 
 1. Amerikai Szamoa
 
-2. Anguilla
+2. Amerikai Virgin-szigetek
 
-3. Bahama-szigetek
+3. Anguilla
 
-4. Fidzsi-szigetek
+4. Antigua és Barbuda
 
-5. Guam
+5. Fidzsi-szigetek
 
-6. Palau
+6. Guam
 
-7. Panama
+7. Oroszország
 
-8. Szamoa
+8. Palau
 
-9. Trinidad és Tobago
+9. Panama
 
-10. Turks- és Caicos-szigetek
+10. Szamoa
 
-11. Amerikai Virgin-szigetek
+11. Trinidad és Tobago
 
 12. Vanuatu
 
-[^1]: Az 1. melléklet a 28/2022. (XII. 28.) PM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. melléklet a 2/2024. (VII. 8.) PM rendelet 1. §-ával megállapított szöveg.
