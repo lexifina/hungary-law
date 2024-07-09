@@ -2,9 +2,9 @@
 
 a) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafeltételekről szóló, 2019. június 20-i (EU) 2019/1152 európai parlamenti és tanácsi irányelv,
 
-b) az UNICE, az ETUC és a CEEP által a részmunkaidőről kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelve a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
+b) az UNICE, a CEEP és az ESZSZ által a részmunkaidős foglalkoztatásról kötött keretmegállapodásról szóló, a Tanács 97/81/EK irányelve a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
 
-c) az UNICE, az ETUC és a CEEP által a határozott ideig tartó munkavégzéssel kapcsolatosan kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelve, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
+c) az ESZSZ, az UNICE és a CEEP által a határozott ideig tartó munkaviszonyról kötött keretmegállapodásról szóló, a Tanács 1999/70/EK irányelve, a Munka Törvénykönyvéről szóló törvény irányadó rendelkezéseivel együtt,
 
 d) a munkaidő-szervezés egyes szempontjairól szóló, 2003. november 4-i 2003/88/EK európai parlamenti és tanácsi irányelv,
 
