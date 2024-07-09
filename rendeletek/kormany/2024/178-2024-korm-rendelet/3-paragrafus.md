@@ -1,5 +1,5 @@
 ## 2. Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet módosítása
 
-3. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: R2.) 39. § (9) bekezdése a következő c) ponttal egészül ki:
+3. §[^4]
 
-(A kérelemhez mellékelni lehet)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
