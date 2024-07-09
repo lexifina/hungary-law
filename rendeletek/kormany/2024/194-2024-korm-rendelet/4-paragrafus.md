@@ -1,0 +1,3 @@
+4. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 24. § (2b) bekezdése helyébe a következő rendelkezés lép:
+
+„(2b) Ha a gyámhivatal a (2a) bekezdés szerinti nyilatkozat alapján vagy hivatalból tudomást szerez arról, hogy szülői felügyelettel kapcsolatos per van folyamatban, a gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelmet visszautasítja. A gyámhivatal az eljárást megszünteti, ha a szülői felügyelettel kapcsolatos per a gyermek külföldi tartózkodási helyének kijelölésére irányuló kérelem előterjesztésekor már folyamatban van.”
