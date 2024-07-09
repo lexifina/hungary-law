@@ -1,0 +1,1 @@
+1. § Az 1. melléklet határozza meg azon harmadik országok listáját, amelyek állampolgára Magyarországon a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 50. §-a alapján Nemzeti Kártyával foglalkoztatható.
