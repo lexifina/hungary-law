@@ -1,27 +1,32 @@
-6. § (1)[^10] A működtető a nevelőszülő alkalmasságát a jogviszony létesítését követően a Gyvt. 48/A. § (7) bekezdésében meghatározott szakmai programban foglalt módon háromévente rendszeresen felülvizsgálja. A működtető a nevelőszülő alkalmasságának rendszeres felülvizsgálata mellett szükség esetén rendkívüli felülvizsgálatot végez.
+6. §[^18] (1) A nevelőszülői hálózat a nevelőszülő alkalmasságát a jogviszony létesítését követően a Gyvt. 48/A. § (7) bekezdésében meghatározott szakmai programban foglalt módon kétévente felülvizsgálja (a továbbiakban: rendszeres felülvizsgálat). A nevelőszülői hálózat a nevelőszülő
 
-(2)[^11] A nevelőszülő alkalmasságának rendkívüli felülvizsgálatát kezdeményezi a működtetőnél a nevelőszülői tanácsadó, a gyermekvédelmi gyám, a vármegyei, fővárosi gyermekvédelmi szakértői bizottság vezetője, a területi gyermekvédelmi szakszolgálat vezetője és a gyámhivatal, ha ezt
+a) pszichológiai alkalmassági vizsgálata vonatkozásában a gyermekvédelmi intézményben foglalkoztatott személyek pszichológiai alkalmassági vizsgálatáról szóló kormányrendeletben meghatározottak szerint jár el, és
+
+b) kifogástalan életvitelének ellenőrzését a Gyvt. 10/F. § (1) bekezdése szerint kezdeményezheti.
+
+(2)[^19] A nevelőszülői hálózat a nevelőszülő alkalmasságának rendszeres felülvizsgálata mellett szükség esetén rendkívüli felülvizsgálatot végez.
+
+(3) A nevelőszülő alkalmasságának rendkívüli felülvizsgálatát kezdeményezi a nevelőszülői hálózatnál a nevelőszülői tanácsadó, a gyermekvédelmi gyám, a vármegyei, fővárosi gyermekvédelmi szakértői bizottság vezetője, a területi gyermekvédelmi szakszolgálat vezetője és a gyámhivatal, ha ezt
 
 a) a szolgáltatói nyilvántartásba bejegyzett feltételek megváltozása,
 
 b) a nevelőszülő élethelyzetének megváltozása,
 
-c) a nevelőszülő egészségi állapotának, személyiségállapotának romlása, vagy
+c) a nevelőszülő egészségi állapotának, személyiségállapotának romlása vagy
 
-d)[^12] a nevelőszülő magatartása
+d) a nevelőszülő magatartása
 
 szükségessé teszi.
 
-(3) A működtető a feladatellátásra való alkalmasságról vagy arról, hogy nem javasolja nevelőszülői tevékenység végzését, írásban tájékoztatja a nevelőszülőt és a 2. § (2) bekezdésében foglalt esetben a nevelőszülőnek jelentkező személyt.
+(4) A rendkívüli felülvizsgálatra okot adó körülménytől függően a nevelőszülői hálózat a nevelőszülőt orvosi, pszichológiai vizsgálatra kötelezheti, valamint a Gyvt. 10/F. § (1) bekezdésében foglaltak figyelembevételével a nevelőszülő életvitelének ellenőrzését kezdeményezheti.
 
-(4) Ha a működtető a nevelőszülő alkalmasságának hiányát észleli, a nevelőszülőt orvosi, pszichológiai vizsgálaton való részvételre kötelezheti.
+(5)[^20] Ha a kifogástalan életvitelt ellenőrző szerv arról tájékoztatja a nevelőszülői hálózatot, hogy a nevelőszülő életvitele a Gyvt. 10/F. § (4) bekezdés a) vagy b) pontja alapján kifogásolható, a nevelőszülői hálózat az erről való tudomásszerzéstől számított 8 napon belül megállapítja a nevelőszülő kifogásolható életvitelét, és erről írásban tájékoztatja a nevelőszülőt.
 
-(5)[^13] Ha a működtető arról tájékoztatja a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt, hogy pszichológiai szempontból nem tartja alkalmasnak a nevelőszülői feladat ellátására, a nevelőszülő az Országos Gyermekvédelmi Szakértői Bizottságnál kérelmezheti pszichológiai alkalmasságának ismételt vizsgálatát. A pszichológiai alkalmasság ismételt vizsgálatának költségei a nevelőszülőt terhelik.
+(6)[^21] Ha a nevelőszülő kifogásolható életvitelének megállapítására a Gyvt. 10/F. § (4) bekezdés c) pontja alapján kerül sor, a nevelőszülői hálózat az életvitel kifogásolására okot adó körülményekről, az azt alátámasztó tényekről és megállapításokról tájékoztatja a nevelőszülőt, egyúttal értesíti a Gyvt. 10/G. § (2) bekezdése szerinti meghallgatásról.
 
-(6)[^14] A pszichológiai alkalmasság ismételt vizsgálatát az Országos Gyermekvédelmi Szakértői Bizottság felkérésére két, az Országos Gyermekvédelmi Szakértői Névjegyzék „Gyermekek, illetve a gyámhatósági eljárásban érintett személyek személyiségvizsgálata” szakterületére felvett pszichológus szakértő végzi. A működtető a pszichológus szakértők írásbeli véleményének figyelembevételével ismételten dönt az alkalmasságról, amelynek eredményéről írásban értesíti a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt.
+(7) Ha a nevelőszülő a (6) bekezdés szerinti meghallgatáson nem jelenik meg vagy a meghallgatás eredményét is figyelembe véve a nevelőszülői hálózat megállapítja a nevelőszülő kifogásolható életvitelét, a nevelőszülői hálózat erről a meghallgatás időpontjától számított nyolc napon belül írásban értesíti a nevelőszülőt.
 
-[^10]: A 6. § (1) bekezdése a 384/2017. (XII. 12.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^11]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 239. § (2) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 175. §-a szerint módosított szöveg.
-[^12]: A 6. § (2) bekezdés d) pontja a 353/2014. (XII. 29.) Korm. rendelet 90. § a) pontja szerint módosított szöveg.
-[^13]: A 6. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 257. § a) pontja szerint módosított szöveg.
-[^14]: A 6. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.
+[^18]: A 6. § a 193/2024. (VII. 8.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^19]: [A 6. § (2) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 8. pontja által elrendelt módosítás, amely szerint az „a működtetőnél” szövegrész helyébe az „az intézménynél” szöveg, lép, nem vezethető át.]
+[^20]: [A 6. § (5) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 7. pontja által elrendelt módosítás, amely szerint az „a működtető” szövegrész helyébe az „az intézmény" szöveg lép, nem vezethető át.]
+[^21]: [A 6. § (6) bekezdésében a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. pontja által elrendelt módosítás, amely szerint az „A működtető” szövegrész helyébe az „Az intézmény" szöveg lép, nem vezethető át.]

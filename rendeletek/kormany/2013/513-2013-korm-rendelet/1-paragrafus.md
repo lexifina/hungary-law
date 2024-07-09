@@ -6,6 +6,8 @@ a) a gyermekvédelmi szakellátás keretében otthont nyújtó ellátást és ut
 
 b) az átmeneti gondozás keretében teljes körű ellátást biztosító helyettes szülőre [az a) és a b) pontban foglaltak a továbbiakban együtt: befogadó szülő],
 
-c) a nevelőszülői hálózatot működtető állami, egyházi és nem állami szervre, gyermekotthonra, területi gyermekvédelmi szakszolgálatra, és
+c)[^1] a nevelőszülői hálózatot fenntartó állami, egyházi és nem állami szervre, gyermekotthonra, területi gyermekvédelmi szakszolgálatra, és
 
 d) a helyettes szülői hálózatot vagy az önálló helyettes szülői ellátást működtető gyermekjóléti szolgálatra, települési önkormányzatra, egyházi és nem állami szervre [a c) és a d) pontban foglaltak a továbbiakban együtt: működtető].
+
+[^1]: Az 1. § c) pontja a 194/2024. (VII. 8.) Korm. rendelet 43. § 1. pontja szerint módosított szöveg.

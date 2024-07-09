@@ -1,6 +1,6 @@
-## 13. § A működtető tájékoztatja a nevelőszülőt a nevelőszülőnél elhelyezett gyermekkel kapcsolatban rendelkezésére álló adatokról, így különösen a gyermek egészségi állapotára, korábbi betegségeire és az egyéb orvosi beavatkozásokra vonatkozó adatokról. Ha a nevelőszülőnek a gyermek megfelelő gondozása érdekében további információkra, adatokra van szüksége, a működtető – indokolt esetben a gyermekvédelmi gyám bevonásával – gondoskodik azok beszerzéséről.
+## 13. §[^65] Az intézmény tájékoztatja a nevelőszülőt a nevelőszülőnél elhelyezett gyermekkel kapcsolatban rendelkezésére álló adatokról, így különösen a gyermek egészségi állapotára, korábbi betegségeire és az egyéb orvosi beavatkozásokra vonatkozó adatokról. Ha a nevelőszülőnek a gyermek megfelelő gondozása érdekében további információkra, adatokra van szüksége, az intézmény – indokolt esetben a gyermekvédelmi gyám bevonásával – gondoskodik azok beszerzéséről.
 
-## 14. § A nevelőszülő tájékoztatja a működtetőt és a gyermekvédelmi gyámot
+## 14. §[^66] A nevelőszülő tájékoztatja az intézményt és a gyermekvédelmi gyámot
 
 a) a bekövetkezésük időpontjától számított öt napon belül a gyermek óvodai nevelésben, fejlesztő nevelésben történő részvételének, valamint a gyermek és a fiatal felnőtt fejlesztő nevelés-oktatásban történő részvételének és iskolai tanulmányainak megkezdéséről, befejezéséről vagy megszakításáról,
 
@@ -10,9 +10,9 @@ c) azonnal a gyermekkel és a fiatal felnőttel kapcsolatos rendkívüli esemén
 
 d) azonnal a gyermeknek a nevelőszülőtől történő huszonnégy órát meghaladó engedély nélküli eltávozásáról, és
 
-e)[^40] azonnal a saját életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
+e)[^67] azonnal a saját és a vele egy háztartásban élő személy életkörülményeiben bekövetkezett vagy várható lényeges változásról, valamint olyan tényről, mely lényeges változást eredményezhet az általa nevelt gyermek életében, így különösen
 
-ea)[^41] a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről,
+ea)[^68] a Gyvt. 10/A. § (1) bekezdésében meghatározott kizáró ok bekövetkeztéről,
 
 eb) a nevelőszülő családi állapotának megváltozásáról, a családstruktúrában történt változásról,
 
@@ -28,8 +28,13 @@ eg) a harminc napnál hosszabb időre történő külföldre utazás szándéká
 
 eh) az egészségi állapotában beálló olyan romlásról, melynek következtében a későbbiekben feltételezhetően hosszabb ideig nem lesz képes ellátni a gyermeket,
 
-ei)[^42] ha más működtetőnél kíván nevelőszülői feladatokat ellátni.
+ei)[^69] ha más intézménynél kíván nevelőszülői feladatokat ellátni.
 
-[^40]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított szöveg.
-[^41]: A 14. § e) pont ea) alpontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
-[^42]: A 14. § e) pont ei) alpontját a 306/2018. (XII. 27.) Korm. rendelet 15. §-a iktatta be.
+ej)[^70] arról, ha a nevelőszülő saját gyermeke vonatkozásában válik indokolttá hatósági intézkedés,
+
+[^65]: A 13. § a 194/2024. (VII. 8.) Korm. rendelet 43. § 2. és 7. pontja szerint módosított szöveg.
+[^66]: A 14. § nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 14. pontja szerint módosított szöveg.
+[^67]: A 14. § e) pontja a 353/2014. (XII. 29.) Korm. rendelet 84. §-ával megállapított, nyitó szövegrésze a 194/2024. (VII. 8.) Korm. rendelet 43. § 15. pontja szerint módosított szöveg.
+[^68]: A 14. § e) pont ea) alpontja a 306/2018. (XII. 27.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^69]: A 14. § e) pont ei) alpontját a 306/2018. (XII. 27.) Korm. rendelet 15. §-a iktatta be, szövege a 194/2024. (VII. 8.) Korm. rendelet 43. § 16. pontja szerint módosított szöveg.
+[^70]: A 14. § e) pont ej) alpontját a 194/2024. (VII. 8.) Korm. rendelet 41. §-a iktatta be.

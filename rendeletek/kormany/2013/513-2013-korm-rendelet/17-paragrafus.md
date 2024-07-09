@@ -1,3 +1,3 @@
-17. §[^44]
+17. §[^77]
 
-[^44]: A 17. §-t a 744/2021. (XII. 21.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^77]: A 17. §-t a 744/2021. (XII. 21.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
