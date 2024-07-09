@@ -8,12 +8,12 @@ b) a hivatásos állományba vagy a rendvédelmi oktatási intézménybe jelentk
 
 c) a hivatásos állomány tagja hivatásos szolgálati viszonya megszűnik,
 
-d)[^4] a rendvédelmi oktatási intézmény tanulójának jogviszonya megszűnik,
+d)[^6] a rendvédelmi oktatási intézmény tanulójának jogviszonya megszűnik,
 
-e)[^5] a 2. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta, vagy
+e)[^7] a 2. § (1) bekezdése szerint a kifogástalan életvitel ellenőrzés kezdeményezésére jogosult a kérelmét visszavonta, vagy
 
-f)[^6] a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya megszűnik.
+f)[^8] a rendvédelmi tisztjelölt rendvédelmi tisztjelölti jogviszonya megszűnik.
 
-[^4]: A 3. § (2) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (2) bekezdés e) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^6]: A 3. § (2) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^6]: A 3. § (2) bekezdés d) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdés e) pontja az 569/2022. (XII. 23.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^8]: A 3. § (2) bekezdés f) pontját az 569/2022. (XII. 23.) Korm. rendelet 47. § (2) bekezdése iktatta be.

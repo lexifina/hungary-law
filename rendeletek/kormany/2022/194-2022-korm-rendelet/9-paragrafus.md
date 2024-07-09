@@ -12,7 +12,7 @@ c) a titkos információgyűjtés során alkalmazni kívánt eszköz megjelölé
 
 d) a kialakítani tervezett élethelyzet leírását a tényállás és a helyszín részletes bemutatásával,
 
-e)[^7] a vizsgálat tervezett helyét – út, útvonal szakasz, kerület, városrész, város, település, járőr útvonala, vármegye, hivatalos helyiség, jármű –, időpontját,
+e)[^10] a vizsgálat tervezett helyét – út, útvonal szakasz, kerület, városrész, város, település, járőr útvonala, vármegye, hivatalos helyiség, jármű –, időpontját,
 
 f) a vizsgálatot végzők nevét és rendfokozatát,
 
@@ -36,4 +36,4 @@ c) a bűncselekmény vagy a szabálysértés elkövetési magatartásának rész
 
 (5) A rögzített adat kísérőjegyzékének tartalmaznia kell az ügyirat számát, a vizsgálat célját, a vizsgálattal érintett nevét, vagy a vizsgálattal érintett szerv valamely állománycsoportjához tartozó, meghatározott szolgálati feladatot teljesítő, az elrendeléskor még nem nevesíthető tagját foglalkoztató szervezeti egység pontos megnevezését, továbbá a helyszín és időpont megjelölését.
 
-[^7]: A 9. § (1) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 327. §-a szerint módosított szöveg.
+[^10]: A 9. § (1) bekezdés e) pontja a 616/2022. (XII. 29.) Korm. rendelet 327. §-a szerint módosított szöveg.
