@@ -14,4 +14,6 @@ f) az Európai Unióban alkalmazandó átlátható és kiszámítható munkafelt
 
 g) 40. § (5) bekezdése az európai uniós adóügyi vitarendezési mechanizmusokról szóló, 2017. október 10-i (EU) 2017/1852 tanácsi irányelvnek való
 
+h) az Európai Unióban biztosítandó megfelelő minimálbérekről szóló, 2022. október 19-i (EU) 2022/2041 európai parlamenti és tanácsi irányelvnek
+
 való megfelelést szolgálja.
