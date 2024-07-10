@@ -1,3 +1,3 @@
-2. § (1) A 257/2000. (XII. 26.) Korm. rendelet 5. számú melléklete helyébe az 1. melléklet lép.
+2. §[^3]
 
-(2) A 257/2000. (XII. 26.) Korm. rendelet 7. számú melléklete a 2. melléklet szerint módosul.
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
