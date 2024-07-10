@@ -1,5 +1,3 @@
-30. § Hatályát veszti a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló 257/2000. (XII. 26.) Korm. rendelet
+30. §[^1]
 
-a) 4. §-a és
-
-b) 1. melléklete.
+[^1]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
