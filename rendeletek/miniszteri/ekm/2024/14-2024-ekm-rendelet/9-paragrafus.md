@@ -1,0 +1,3 @@
+9. § Az R. 14. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) A hatóság a vizsgabiztosok részére, kinevezésükkel együtt igazolványt ad ki, valamint tevékenységük folytatásához bélyegzővel látja el őket. A vizsgabiztosok tevékenységük végzése során kötelesek maguknál tartani az igazolványt, valamint az általuk e minőségükben aláírt vizsgaigazolásokat és vizsgajegyzőkönyveket bélyegzőjük lenyomatával ellátni. A vizsgabiztos a tevékenységi engedély visszavonása esetén köteles a hatóság részére az igazolványt, valamint a bélyegzőt visszaszolgáltatni.”
