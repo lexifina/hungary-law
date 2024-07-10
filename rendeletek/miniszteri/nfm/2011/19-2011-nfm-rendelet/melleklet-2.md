@@ -1,11 +1,6 @@
-|  | A | B |
+2. melléklet a 19/2011. (V. 10.) NFM rendelethez[^231]
 
-|  | Munkakör | Feladatkör |
+Időszakos oktatásra, valamint időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás minimális éves óraszáma[^232]
 
-| 1. | Különleges kötöttpályás közlekedési szakmai oktató | A képzőszervezet, illetve vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
-
-2. melléklet a 19/2011. (V. 10.) NFM rendelethez[^233]
-
-Időszakos oktatásra, valamint időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
-
-[^233]: A 2. melléklet a 7/2018. (VII. 26.) ITM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^231]: A 2. melléklet a 7/2018. (VII. 26.) ITM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^232]: A 2. melléklet címe és a mellékletben foglalt táblázat a 14/2024. (VI. 10.) ÉKM rendelet 28. § (2) bekezdésével megállapított szöveg.
