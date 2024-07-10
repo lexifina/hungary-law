@@ -1,1 +1,3 @@
-9. § Az R. 1. § záró szövegrészében az „a) és b) pont” szövegrész helyébe az „a)–c) pont” szöveg lép.
+9. §[^10]
+
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
