@@ -1,7 +1,3 @@
-## „e) a gyermekek és az ifjúság védelméért felelős miniszter kezdeményezésére lefolytatja a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 43/B. §-a szerinti eljárást.”
+27. §[^28]
 
-27. § A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet 18. §-a helyébe a következő rendelkezés lép:
-
-„18. § (1) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal – a Gyvt. 121. § (2) bekezdése alapján megküldött, az önkormányzati ellátórendszer átalakítása esetén a Slachta Margit Nemzeti Szociálpolitikai Intézet bevonásával – előzetesen véleményezi a gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény működését érintő, a Gyvt. 104. § (1) bekezdés i) pontjában meghatározott lényeges változásra vonatkozó javaslatokat, és szükség esetén kezdeményezi a javaslatok megváltoztatását.
-
-(2) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal az (1) bekezdés szerinti véleményét – otthont nyújtó ellátást vagy utógondozói ellátást nyújtó intézmény esetén – a fenntartó lényeges változására vonatkozó javaslatával együtt megküldi a gyermekek és az ifjúság védelméért felelős miniszternek.”
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

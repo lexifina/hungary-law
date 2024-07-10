@@ -1,3 +1,3 @@
-42. § A nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 20. §-a helyébe a következő rendelkezés lép:
+42. §[^43]
 
-„20. § Ha a kollégiumban, diákotthonban biztosított ellátásért térítési díjat kell fizetni, azt a nevelőszülő fizeti meg. Az ideiglenes hatállyal elhelyezett gyermek után az intézményi gyermekétkeztetés térítési díját a nevelőszülő – a személyes gondoskodást nyújtó gyermekjóléti alapellátások és gyermekvédelmi szakellátások térítési díjáról és az igénylésükhöz felhasználható bizonyítékokról szóló 328/2011. (XII. 29.) Korm. rendelet 13. §-ában foglaltak szerint – fizeti meg.”
+[^43]: A 42. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

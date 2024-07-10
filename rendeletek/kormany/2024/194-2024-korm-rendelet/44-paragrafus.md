@@ -1,1 +1,3 @@
-44. § Hatályát veszti a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló 513/2013. (XII. 29.) Korm. rendelet 12. § (1) bekezdés a) pont ab) alpontja.
+44. §[^45]
+
+[^45]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

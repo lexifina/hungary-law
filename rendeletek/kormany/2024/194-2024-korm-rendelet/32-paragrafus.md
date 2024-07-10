@@ -1,3 +1,3 @@
-32. § A szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló 369/2013. (X. 24.) Korm. rendelet 28. § (1) bekezdése a következő i) ponttal egészül ki:
+32. §[^33]
 
-(A fenntartó)
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

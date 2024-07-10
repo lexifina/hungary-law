@@ -1,3 +1,3 @@
-14. § A gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 102. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-(A nevelésbe vételt elrendelő határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza)
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

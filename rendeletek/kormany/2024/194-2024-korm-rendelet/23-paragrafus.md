@@ -1,5 +1,3 @@
-## „b) a nyilatkozatot a kérelmező vagy jogosult, továbbá a vele együtt élő közeli hozzátartozó ingatlanvagyonával, járműve értékével, vagyoni értékű jogával és a pénzforgalmi szolgáltatónál fennálló fizetési számlán kezelt pénzösszegével kapcsolatosan.”
+23. §[^24]
 
-23. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet 7. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) Ha az ellátásra jogosult személy a havi rendszeres szociális ellátásra vagy foglalkoztatást helyettesítő támogatásra való jogosultság feltételeinek felülvizsgálatára irányuló, az Szt. 25. § (4)–(6) bekezdése szerinti eljárást akadályozza, az Szt. 25. § (10) bekezdése alkalmazásában az ellátásra való jogosultság megszüntetésének dátuma a felülvizsgálati eljárás során a dokumentumok megküldésére szabott határidő eredménytelen elteltét követő nap, illetve a személyes megjelenésre adott határnap elmulasztását követő nap.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

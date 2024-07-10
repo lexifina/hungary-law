@@ -1,1 +1,3 @@
-48. § Hatályát veszti a jogi és gazdasági versenyképesség erősítése érdekében egyes közigazgatási tárgyú kormányrendeletek módosításáról szóló 104/2024. (V. 9.) Korm. rendelet 40. § (2) bekezdésében az „ , a 10. § a) pontja, a 11. §” szövegrész.
+48. §[^49]
+
+[^49]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
