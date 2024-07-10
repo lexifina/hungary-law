@@ -1,1 +1,3 @@
-### 43. §
+43. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 117. §-a a következő (9) bekezdéssel egészül ki:
+
+„(9) Szabálysértési elzárással is büntethető szabálysértés elkövetésével gyanúsítható személy személyazonosságának megállapítása érdekében, amennyiben az elkövető ismeretlen, a bíróság vagy az előkészítő eljárást lefolytató szerv az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló törvényben meghatározottak szerint az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét veheti igénybe.”
