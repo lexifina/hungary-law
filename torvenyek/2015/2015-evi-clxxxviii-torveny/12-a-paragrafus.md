@@ -1,6 +1,6 @@
-## 9/A. Személyazonosság megállapításának, ellenőrzésének támogatása rendőri intézkedés során automatizált összehasonlítás igénybevételével
+## 9/A. Személyazonosság megállapításának, ellenőrzésének támogatása rendőri intézkedés vagy szabálysértési elzárással is büntethető szabálysértés esetén folytatott eljárás során automatizált összehasonlítás igénybevételével
 
-12/A. § (1) A központi szerv az általános rendőrségi feladatok ellátására létrehozott szerv által a 3. § (3) bekezdés p) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az általános rendőrségi feladatok ellátására létrehozott szervet haladéktalanul tájékoztatja.
+12/A. § (1) A központi szerv az általános rendőrségi feladatok ellátására létrehozott szerv által a 3. § (3) bekezdés p) és w) pontjában meghatározott célból a részére automatizált eljárásban, rendszer-rendszer kapcsolat útján továbbított arcképmásból arckép profilt képez. Amennyiben az átadott arcképmásból arckép profil nem képezhető, a központi szerv ennek tényéről az általános rendőrségi feladatok ellátására létrehozott szervet haladéktalanul tájékoztatja.
 
 (2) Az (1) bekezdés szerint képzett arckép profilt a központi szerv az arcképelemző rendszer igénybevételével az arckép profil nyilvántartásban kezelt, a 4. § (1) bekezdés a) és g) pontja szerinti arckép profilokkal összehasonlítja.
 

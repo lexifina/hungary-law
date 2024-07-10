@@ -1,4 +1,4 @@
-9/A. § (1) A 3. § (3) bekezdés p) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv igazoltatás során az általa rögzített arcképmás felhasználásával az Rtv. 29. §-a alapján igazoltatott személy személyazonosságának megállapítása, valamint ellenőrzése érdekében a 12/A. § szerinti automatizált összehasonlítást igénybe venni.
+9/A. § (1) A 3. § (3) bekezdés p) és w) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv eljárása során az általa rögzített arcképmás felhasználásával az elkövető vagy az Rtv. 29. §-a alapján igazoltatott személy személyazonosságának megállapítása, valamint ellenőrzése érdekében az arcképelemző rendszer általi automatizált összehasonlítást igénybe venni.
 
 (2) A 3. § (3) bekezdés q) pontjában meghatározott célból jogosult az elektronikus azonosítási szolgáltatást végző szerv az elektronikus ügyintézés során az általa rögzített arcképmás felhasználásával az elektronikus ügyintézést igénybe vevő személy személyazonossága ellenőrzésének támogatása érdekében a 12/B. § szerinti automatizált összehasonlítást igénybe venni.
 

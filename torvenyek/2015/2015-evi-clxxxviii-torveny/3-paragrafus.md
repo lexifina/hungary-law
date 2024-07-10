@@ -50,4 +50,6 @@ s) az egészségügyről szóló 1997. évi CLIV. törvény szerinti arcképes a
 
 u) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. §-a szerinti személyazonosság-ellenőrzésének támogatása,
 
+w) a szabálysértési elzárással is büntethető szabálysértések megelőzése, megakadályozása, felderítése és a cselekmény megszakítása, valamint az elkövetők felelősségre vonása.
+
 (4) A jogosultsági nyilvántartás vezetésének a célja az igénybevételre jogosult szerv, a hozzáférésre felhatalmazott személy, valamint a központi szervnek az arcképelemző rendszer működtetésére jogosult tagja arckép profil nyilvántartáshoz való hozzáféréséhez szükséges adatainak tárolása, valamint az adatkezelés jogszerűsége ellenőrzésének biztosítása.
