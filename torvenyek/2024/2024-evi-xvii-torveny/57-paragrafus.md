@@ -1,7 +1,1 @@
-57. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény a következő alcímmel egészül ki:
-
-## „61/A. Az OBT elnökének és elnökhelyettesének juttatása
-
-166/A. § (1) Az OBT elnöke és elnökhelyettese az OBT által biztosított budapesti lakóház vagy lakás használatára jogosult, kivéve, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában Budapesten az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott ingatlan van. Az OBT elnöke és elnökhelyettese akkor is jogosult lakóház vagy lakás használatára, ha ő vagy a vele közös háztartásban élő közeli hozzátartozója tulajdonában csak olyan budapesti lakóház vagy lakás van, amelyet öröklés vagy ajándékozás útján szerzett és az ingatlanon más személynek haszonélvezeti joga áll fenn.
-
-(2) Az (1) bekezdésben foglaltak szerinti megfelelő lakóház vagy lakás használatba adásának biztosítására az OBT havonta legfeljebb a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset háromszorosa 35%-ának megfelelő összeget használhat fel, amely kiterjed a földgáz-, villamosenergia-, ivóvíz-, távhő-, csatorna- és hulladékkezelési szolgáltatások beszerzésével összefüggő kiadások teljesítésére is.”
+### 57. §

@@ -1,3 +1,1 @@
-94. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 473. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A kiskorú meghallgatásáról folyamatos felvétel nem készíthető. A meghallgatás végén, még a kiskorú jelenlétében az írásbeli jegyzőkönyvbe vett vallomást fel kell olvasni, vagy ha a jegyzőkönyv a jegyzőkönyvi tartalmat összefoglaló hangfelvétel útján készül, azt a kiskorú jelenlétében kell rögzíteni. Ennek megtörténtét vagy mellőzését a jegyzőkönyvben fel kell tüntetni. A felolvasáskor, illetve a rögzítéskor a kiskorú az általa elmondottakat kiigazíthatja vagy kiegészítheti. A jegyzőkönyv – az elnök engedélyével – az ügygondnok, vagy ha a meghallgatás a felek jelenlétében történik, a felek észrevételei alapján is kiegészíthető és módosítható. Az ügygondnok, illetve a felek erre vonatkozó kérelmét – annak elutasítása esetén – a jegyzőkönyvben fel kell tüntetni.”
+### 94. §
