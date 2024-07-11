@@ -1,3 +1,3 @@
-7. § Az R. 12. §-a a következő (9) bekezdéssel egészül ki:
+7. §[^8]
 
-„(9) Az alapképzésen való részvétel alól a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet 1. mellékletében rögzített Szakmajegyzék szerinti, a 9. melléklet 4. pontjában foglalt táblázatban felsorolt szakmát megszerzett, képzésben részt vevő és a képzést megrendelő vasúti társaság együttes kérelmére a képzési módszertani központ mentesítést ad.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

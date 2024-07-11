@@ -1,3 +1,3 @@
-17. § Az R. 30. § (6) bekezdése helyébe a következő rendelkezés lép:
+17. §[^18]
 
-„(6) A vasúti társasági vizsgák esetében a bejelentéseket a regisztrált szervezetnek a vizsgaközpont nyilvántartási rendszerében a vizsgabiztos feltüntetésével a vizsga időpontját megelőző 5. munkanapig rögzítenie kell. A vizsgát megelőző 5. munkanapot követően a vizsga kezdetéig módosítható adat a vizsgabiztos személye.”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

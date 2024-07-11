@@ -1,3 +1,3 @@
-27. § Az R. 38. § (1) bekezdése a következő f) ponttal egészül ki:
+27. §[^28]
 
-(Ez a rendelet)
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

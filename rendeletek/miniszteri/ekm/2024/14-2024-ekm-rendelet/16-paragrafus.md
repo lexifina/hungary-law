@@ -1,5 +1,3 @@
-16. § Az R. 27. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+16. §[^17]
 
-„(1) A nem teljesített időszakos oktatás pótlására a munkáltató köteles lehetőséget biztosítani a munkavállaló részére. A pótoktatást legkésőbb a következő időszakos oktatás első napját megelőzően kell kitűzni. Az időszakos oktatást és a pótoktatást is elmulasztó munkavállaló vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő adott munkakörben nem foglalkoztatható, az adott vizsgához kötött tevékenységet nem végezheti. Legfeljebb 1 évi oktatási időkeretnek megfelelő óraszám mulasztása esetén a mulasztott óraszámban kell az oktatást pótolni. 1 évet meghaladó, de 3 évet el nem érő oktatási időkeretnek megfelelő óraszám mulasztása esetén az időszakos oktatást legalább az utolsó évben érvényes egy éves oktatási időkeretnek megfelelő óraszámban kell pótolni.
-
-(2) Az adott munkakörből az alapvizsgák 22. § (1) bekezdésében meghatározott érvényességét meghaladó, de a hat évet el nem érő távollét esetében az elmulasztott időszakos oktatást legalább a távollét utolsó évének megfelelő egyéves oktatási időkeretnek megfelelő óraszámban kell pótolni, és a munkavállalónak soron kívüli időszakos vizsgát kell tenni. Ha a távollét a hat évet eléri vagy meghaladja, a munkavállalónak alapképzésben vagy a felkészüléshez szükséges – a vasúti társaság által biztosított – konzultáción kell részt vennie, valamint alapvizsgát kell tennie.”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

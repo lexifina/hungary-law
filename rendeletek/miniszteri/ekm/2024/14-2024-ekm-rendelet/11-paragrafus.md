@@ -1,3 +1,3 @@
-11. § Az R. 19. § (4) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(4) Az írásbeli vizsgatevékenység követelményeinek nem felel meg az a vizsgázó, akinek az írásbeli feladataira kapott pontszáma a maximális pontszám 75%-át nem éri el.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-3. § Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(3) A vonal- és állomásismereti képzési programok jóváhagyásához a pályahálózat működtetőjének nyilatkoznia kell arról, hogy a képzési program a valós állapotoknak megfelelő adatokat tartalmazza. A pályahálózat működtetőjének nyilatkozatát a jóváhagyás iránti kérelemhez csatolni kell. Vonalismereti képzés során akkor alkalmazható az útvonalat a vezetőfülkében tartózkodó járművezető szemszögéből bemutató videófelvétel vagy szimulációs gyakorlat, ha ez a képzési programban fel van tüntetve. A videofelvételt a képzési program részeként kell kezelni. A vonalismereti képzés során csak a képzési módszertani központ honlapján közzétett szempontrendszernek megfelelő videófelvétel, szimulációval történő képzés esetén csak a képzés módszertani központ által minősített szimulációs berendezés és szimuláció használható.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

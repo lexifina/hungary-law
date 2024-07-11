@@ -1,3 +1,3 @@
-4. § Az R. 7. §-a a következő f) ponttal egészül ki:
+4. §[^5]
 
-(A képzési program kialakítására a következő elvek figyelembevételével kerül sor:)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

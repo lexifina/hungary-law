@@ -1,3 +1,3 @@
-13. § Az R. 23. § (1) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(1) A 2. mellékletben meghatározott, a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő feladatkör ellátásával járó munkaköröket betöltő személyek – az ott meghatározott minimális időkeretben – időszakos oktatásokon való részvételre kötelezettek. A munkáltató a 2. mellékletben meghatározott időkeretnél magasabb óraszámot, illetve gyakoriságot írhat elő munkavállalói részére. A vasútszakmai oktató és a különleges kötöttpályás közlekedési szakmai oktató a vasúti és a különleges kötöttpályás közlekedés biztonságával összefüggő más munkakörére vonatkozó időszakos oktatáson történő részvételi kötelezettségébe az általa – az oktatási ütemtervben előírt témakörökben – tartott időszakos oktatásokat is be kell számítani. A vasúti társaság felelős a munkavállalók ismereteinek szinten tartásáért, és köteles gondoskodni a munkavállalók megfelelő színvonalú oktatásáról.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

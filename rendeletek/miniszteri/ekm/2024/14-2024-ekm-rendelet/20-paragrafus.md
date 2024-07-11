@@ -1,3 +1,3 @@
-20. § Az R. 34. § (1) bekezdése helyébe a következő rendelkezés lép:
+20. §[^21]
 
-„(1) A sikeres alapvizsga eredményéről a vizsgáztató szervezet a vizsgázó részére vizsgaigazolást ad, amely alapján a hatóság – ha a vasúti járművezetői engedélyről és vasúti járművezetői tanúsítványról szóló rendelet szerint szükséges – hatósági igazolványt állít ki. Az időszakos vizsga eredményéről a vizsgáztató szervezet a vizsgázó részére vizsgajegyzőkönyvet állít ki. Az alapvizsga érvényességét igazoló okiratokat a munkavállaló papír alapon vagy a foglalkoztató vasúti társaság által biztosított, arra alkalmas eszközön digitalizált formában köteles magánál tartani és a hatóság felszólítására felmutatni. Az igazolás bemutatása egy, a telephelyen belüli központi helyszínen is megtörténhet, kivéve, ha a szokásos munkavégzési hely a telephelyen kívül van. Az alapvizsgáról és utolsó időszakos vizsgáról szóló igazolásnak minősül a biztonsági okmányként kiadott vasúti járművezetői tanúsítvány is.”
+[^21]: A 20. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

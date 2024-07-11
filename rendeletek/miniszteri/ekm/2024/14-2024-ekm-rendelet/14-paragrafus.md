@@ -1,3 +1,3 @@
-14. § Az R. 24. § (7) bekezdése helyébe a következő rendelkezés lép:
+14. §[^15]
 
-„(7) A regisztrált szerv minden év március 31-éig beszámol a hatóságnak az általa az előző évben folytatott oktatási tevékenységről.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
