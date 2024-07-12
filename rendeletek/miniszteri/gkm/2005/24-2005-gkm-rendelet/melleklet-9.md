@@ -4,99 +4,69 @@
 
 ## Vizsgát az a vizsgázó tehet, aki a vizsgajegyzőkönyvön szerepel, a kiírás szerinti időpontban a vizsga helyszínén vizsgára alkalmas állapotban megjelent, és a személyazonosságát hitelt érdemlően igazolni tudja. A már hitelesített (lezárt) vizsgajegyzőkönyvre további vizsgázó nem vehető fel.
 
-## 1.2. Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje (percben)
+## 1.2.[^333] Vizsgatárgyak és a gyakorlati vizsgatárgyak vizsgaideje
 
 |  | A | B | C | D |
 
-| 1. | Kategória | Elméleti vizsgatárgyak | Gyakorlati vizsgatárgyak vizsgaideje | Megjegyzés |
+| 1. | Kategória | Elméleti vizsgatárgyak | Gyakorlati vizsgatárgyak vizsgaideje percben | Megjegyzés |
 
-| 2. | Kö | Szü | F1–2 | Mu | Jk | R | F5) |  |
+| 2. |  | Közlekedési alapismeretek | Szerkezeti és üzemeltetési ismeretek | F 1–2 számú trolibusz jelzési és forgalmi utasítás | Munkavédelem, tűzvédelem, szállítás | Járműkezelési vizsga | Rutinvizsga vonójárművel | Rutinvizsga | Forgalmi vizsga vonójárművel | Forgalmi vizsga |  |
 
-| 3. | 1 | 2 | 1 | 2 | 1 | 3 |
+| 3. | teljes vizsgaidő | feladatok végrehajtására biztosított maximális idő | teljes vizsgaidő | feladatok végrehajtására biztosított maximális idő | teljes vizsgaidő | feladatok végrehajtására biztosított maximális idő | teljes vizsgaidő | közúton vezetéssel töltött idő | teljes vizsgaidő | közúton vezetéssel töltött idő |
 
-| 4. | AM | X | – | – | – | 15 | 10 | – | – | 30 | 20 |  |
+| 4. | AM | X | – | – | – | 15 | 10 | – | – | – | – | – | – | 30 | 20 |  |
 
-| 5. | A1 | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
+| 5. | A1 | X | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 |  |
 
-| 6. | A11) | X | – | – | – | – | – | – | – | 50 | 40 |  |
+| 6. | A1 | X | – | – | – | – | – | – | – | – | – | – | – | 50 | 40 | Érvényes „B” kategóriás vezetői engedély esetén. |
 
-| 7. | A2 | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés a) pont |
+| 7. | A2 | – | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 | 11. § (5) bekezdés a) pontja esetén. |
 
-| 8. | A2 | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
+| 8. | A2 | X | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 |  |
 
-| 9. | A | – | – | – | – | 20 | 15 | – | – | 50 | 40 | 11. § (5) bekezdés b) pont |
+| 9. | A | – | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 | 11. § (5) bekezdés b) pontja esetén. |
 
-| 10. | A2) | X | – | – | – | 20 | 15 | – | – | 50 | 40 |  |
+| 10. | A | X | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 | Azon 24. életévét betöltött vizsgázó esetében, aki nem rendelkezik „A2” vagy „A korlátozott” kategóriás vezetői engedéllyel, ez esetben a járműkezelési vizsga kiegészül az „alkalmassági feladat” végrehajtásával. |
 
-| 11. | B | X | – | – | – | – | – | – | – | 60 | 50 |  |
+| 11. | B | X | – | – | – | – | – | – | – | – | – | – | – | 60 | 50 |  |
 
-| 12. | B96 | - | X | - | X | – | – | 30 | 25 | – | – |  |
+| 12. | B96 | – | X | – | X | – | – | – | – | 30 | 25 | – | – | – | – |  |
 
-| 13. | B1 | X | - | - | - | 20 | 15 | – | – | 50 | 40 |  |
+| 13. | B1 | X | – | – | – | 20 | 15 | – | – | – | – | – | – | 50 | 40 |  |
 
-| 14. | BE | X | X | – | X | – | – | 30 | 25 | 50 | 40 |  |
+| 14. | BE | X | X | – | X | – | – | – | – | 30 | 25 | – | – | 50 | 40 |  |
 
-| 15. | C1 | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
+| 15. | C1 | X | X | – | X | – | – | – | – | 30 | 25 | – | – | 60 | 45 |  |
 
-| 16. | C | – | – | – | – | – | – | 30 | 25 | 60 | 45 | 11. § (5) bekezdés c) pont |
+| 16. | C | – | – | – | – | – | – | – | – | 30 | 25 | – | – | 60 | 45 | 11. § (5) bekezdés c) pontja esetén. |
 
-| 17. | C | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
+| 17. | C | X | X | – | X | – | – | – | – | 30 | 25 | – | – | 60 | 45 |  |
 
-| 18. | C3) | X | – | – | – | – | – | 30 | 25 | 60 | 45 |  |
+| 18. | C | X | – | – | – | – | – | – | – | 30 | 25 | – | – | 60 | 45 | „D” kategóriára érvényes vezetői engedéllyel. |
 
-| 19. | C1E | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
+| 19. | C1E | X | X | – | – | – | – | – | – | 35 | 30 | – | – | 60 | 45 |  |
 
-| 20. | CE | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
+| 20. | CE | X | X | – | – | – | – | – | – | 35 | 30 | – | – | 60 | 45 |  |
 
-| 21. | D1 | X | – | – | – | – | – | 30 | 25 | 60 | 45 |  |
+| 21. | D1 | X | – | – | – | – | – | – | – | 30 | 25 | – | – | 60 | 45 |  |
 
-| 22. | D | X | – | – | – | – | – | 30 | 25 | 105 | 90 |  |
+| 22. | D | X | – | – | – | – | – | – | – | 30 | 25 | – | – | 105 | 90 |  |
 
-| 23. | D4) | X | X | – | X | – | – | 30 | 25 | 105 | 90 |  |
+| 23. | D | X | X | – | X | – | – | – | – | 30 | 25 | – | – | 105 | 90 | „C” kategóriára érvényes vezetői engedély nélkül. |
 
-| 24. | D1E | X | X | – | X | – | – | 30 | 25 | 60 | 45 |  |
+| 24. | D1E | X | X | – | X | – | – | – | – | 30 | 25 | – | – | 60 | 45 |  |
 
-| 25. | DE | X | X | – | – | – | – | 35 | 30 | 60 | 45 |  |
+| 25. | DE | X | X | – | – | – | – | – | – | 35 | 30 | – | – | 60 | 45 |  |
 
-| 26. | T | X | – | – | X | – | – | 30 | 25 | 35 | 25 |  |
+| 26. | T | X | – | – | X | – | – | – | – | 30 | 25 | – | – | 35 | 25 |  |
 
-| 27. | T | – | – | – | – | – | – | 30 | 25 | 35 | 25 | 11. § (3) bekezdés c) pont |
+| 27. | T | – | – | – | – | – | – | – | – | 30 | 25 | – | – | 35 | 25 | 11. § (3) bekezdés c) pontja esetén. |
 
-| 28. | K | X | – | – | – | – | – | – | – | – | – |  |
+| 28. | K | X | – | – | – | – | – | – | – | – | – | – | – | – | – |  |
 
-| 29. | Tr | X | X | X | X | – | – | 30 | 25 | 50 | 40 |  |
+| 29. | Tr | X | X | X | X | – | – | – | – | 30 | 25 | – | – | 50 | 40 |  |
 
-## Kö = Közlekedési alapismeretek, amely járművezetés elméleti, valamint az „A1”, „A2”, „A”, „B1”, „B”, „T” kategóriáknál szerkezeti és üzemeltetési ismereteket is tartalmaz.
-
-## Szü = Szerkezeti és üzemeltetési ismeretek.
-
-## Jk = Járműkezelési vizsga.
-
-## R = Rutin vizsga.
-
-## F = Forgalmi vizsga.
-
-## Mu = Munkavédelem, tűzvédelem, szállítás.
-
-## F 1–2 = F 1–2 számú trolibusz jelzési és forgalmi utasítás.
-
-## A gyakorlati vizsgák esetében a táblázat szerinti
-
-## az 1. jelű oszlop időértékei a teljes vizsga időket,
-
-## a 2. jelű oszlop időértékei a feladatok végrehajtására biztosított maximális időket,
-
-## a 3. jelű oszlop időértékei a közúton vezetéssel töltött időket jelentik.
-
-## 1. érvényes B kategóriás vezetői engedély esetén.
-
-## 2. azon 24. életévét betöltött vizsgázó esetében, aki nem rendelkezik „A2” vagy „A korl.” kategóriás vezetői engedéllyel, ez esetben a járműkezelési vizsga kiegészül az „alkalmassági feladat” végrehajtásával.
-
-## 3. A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése.
-
-## 3) D kategóriára érvényes vezetői engedéllyel
-
-## 4) C kategóriára érvényes vezetői engedély nélkül
+| 30. | CE | X | X | – | X | – | – | 30 | 25 | 30 | 25 | 60 | 45 | 60 | 45 | „C” kategóriára érvényes vezetői engedély nélkül. |
 
 ## 1.3. A vizsga értékelése
 
@@ -444,6 +414,10 @@
 
 ## 38. a jelzőcsengő megszólalása után nyitott ajtóval indul el a trolibusszal.
 
-9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^337]
+## 1.9.[^334] A forgalmi vizsga idejébe nem számít bele a kérelmező fogadása, a jármű közúti közlekedésbiztonsággal összefüggő műszaki ellenőrzése, valamint a gyakorlati vizsga eredményének kihirdetése.
 
-[^337]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.
+9. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^335]
+
+[^333]: A 8. számú melléklet 1.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^334]: A 8. számú melléklet 1.9. pontját a 15/2024. (VI. 12.) ÉKM rendelet 4. § (2) bekezdése iktatta be.
+[^335]: A 9. mellékletet a 45/2019. (XII. 20.) ITM rendelet 29. § 13. pontja hatályon kívül helyezte.

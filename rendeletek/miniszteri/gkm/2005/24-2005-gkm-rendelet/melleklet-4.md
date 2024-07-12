@@ -98,109 +98,73 @@
 
 ## Azokban a közoktatási intézményekben (iskolákban), ahol a közúti járművezető-képzés beépült az iskolai tantervbe, a tanulók vizsgára bocsátásának feltétele, hogy az iskolai tantervet a vizsgaközpont jóváhagyja.
 
-## 3.2.1. Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok (járművezetési gyakorlat esetén a 3.6. e) pont szerinti percben kifejezett tanóra időtartammal számolva).
-
-## Kötelező óraszámok és teljesítendő menettávolságok a közúti járművezető-képző tanfolyamokon
+## 3.2.1.[^314] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok [járművezetési gyakorlat esetén a 3.6.1. pont e) alpontja szerinti percben kifejezett tanóra időtartammal számolva]
 
 |  | A | B | C | D |
 
-| 1. | Kategória | Alapismeretek Elmélet tantárgyak | Járművezetési gyakorlat | Megjegyzés |
+| 1 | Kategória | Alapismeretek Elméleti tantárgyak | Járművezetési gyakorlat | Megjegyzés |
 
-| 2. |  | ∑óra | K | Je | Szü | F1–2 | Mu | ∑óra | A | F | F/v | F/o | F/é | F/k | R | M |  |
+| 2 |  | ∑óra | Közlekedési alapismeretek | Járművezetés elmélete | Szerkezeti és üzemeltetési ismeretek | F 1–2 számú trolibusz jelzési és forgalmi utasítás | Munkavédelem, tűzvédelem, szállítás | ∑óra | Alapoktatás | Főoktatás | városi vezetés | országúti vezetés | éjszakai vezetés | vezetés könnyű terepen | rutin vizsgára felkészülő vezetés | Menettávolságok kilométerben |  |
 
-| 3. | A1, A2 | 22 | X | X | X | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 |  |
+| 3 | A1, A2 | 22 | X | X | X | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 |  |
 
-| 4. | A11) | 3 | X | X | X | – | – | 2 | 1 | 1 | 1 | – | – | – | – | 30 |  |
+| 4 | A1 | 3 | X | X | X | – | – | 2 | 1 | 1 | 1 | – | – | – | – | 30 | Érvényes „B” kategóriás vezetői engedély esetén. |
 
-| 5. | A22) | – | – | – | – | – | – | 12 | 4 | 8 | 6 | 2 | – | – | – | 180 | 11. § (5) bekezdés |
+| 5 | A2 | – | – | – | – | – | – | 12 | 4 | 8 | 6 | 2 | – | – | – | 180 | „A1” kategória megszerzését követő két éven belül. |
 
-| 6. | A23) | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 |  |
+| 6 | A2 | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 | „A1” kategória megszerzését követő két éven túl. |
 
-| 7. | A4) | – | – | – | – | – | – | 12 | 4 | 8 | 4 | 4 | – | – | – | 180 | 11. § (5) bekezdés |
+| 7 | A | – | – | – | – | – | – | 12 | 4 | 8 | 4 | 4 | – | – | – | 180 | „A2” kategória megszerzését követő két éven belül. |
 
-| 8. | A5) | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 |  |
+| 8 | A | 3 | X | X | X | – | – | 8 | 2 | 6 | 4 | 2 | – | – | – | 120 | „A korlátozott” vagy „A2” kategória megszerzését követő két éven túl. |
 
-| 9. | A2) | – | – | – | – | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 | 11. § (5) bekezdés |
+| 9 | A | – | – | – | – | – | – | 16 | 6 | 10 | 8 | 2 | – | – | – | 240 | „A1” kategória megszerzését követő két éven belül. |
 
-| 10. | A3) | 3 | X | X | X | – | – | 10 | 4 | 6 | 4 | 2 | – | – | – | 150 |  |
+| 10 | A | 3 | X | X | X | – | – | 10 | 4 | 6 | 4 | 2 | – | – | – | 150 | „A1” kategória megszerzését követő két éven túl. |
 
-| 11. | A6) | 22 | X | X | X | – | – | 26 | 10 | 16 | 11 | 5 | – | – | – | 390 |  |
+| 11 | A | 22 | X | X | X | – | – | 26 | 10 | 16 | 11 | 5 | – | – | – | 390 | Amennyiben betöltötte 24. életévét, és nem rendelkezik sem „A1” kategóriás, sem „A2” kategóriás vezetői engedéllyel. |
 
-| 12. | B | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 580 |  |
+| 12 | B | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 580 |  |
 
-| 13. | B969) | 6 | – | – | X | – | X | 4 | 4 | – | – | – | – | – | 4 | – |  |
+| 13 | B96 | 6 | – | – | X | – | X | 4 | 4 | – | – | – | – | – | 4 | – | „B” kategóriájú járművek nehéz pótkocsival összekapcsolva, feltéve, hogy az így kialakított járműszerelvény legnagyobb megengedett össztömege 3500 kg és 4250 kg közötti. |
 
-| 14. | B1 | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 348 |  |
+| 14 | B1 | 28 | X | X | X | – | – | 29 | 9 | 20 | 14 | 4 | 2 | – | – | 348 |  |
 
-| 15. | C1 | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
+| 15 | C1 | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
 
-| 16. | C | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
+| 16 | C | 66 | X | X | X | – | X | 16 | – | – | 6 | 4 | 2 | – | 4 | 300 |  |
 
-| 17. | C7) |  | – | – | – | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 | 11. § (5) bekezdés c) pont |
+| 17 | C | – | – | – | – | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 | „C1” kategória megszerzését követő 2 éven belül. |
 
-| C8) | 52 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 200 |  |
+| 18 | C | 52 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 200 | „D” kategóriás vezetői engedéllyel. |
 
-| 18. | D1 | 34 | X | X | X | – | – | 18 | – | – | 6 | 6 | 2 | – | 4 | 390 |  |
+| 19 | D1 | 34 | X | X | X | – | – | 18 | – | – | 6 | 6 | 2 | – | 4 | 390 |  |
 
-| 19. | D | 22 | X | X | X | – | – | 24 | – | – | 14 | 6 | – | – | 4 | 550 |  |
+| 20 | D | 22 | X | X | X | – | – | 24 | – | – | 14 | 6 | – | – | 4 | 550 |  |
 
-| 20. | D10) | 36 | X | X | X | – | X | 36 | – | – | 20 | 10 | 2 | – | 4 | 850 |  |
+| 21 | D1 | 36 | X | X | X | – | X | 36 | – | – | 20 | 10 | 2 | – | 4 | 850 | „C” kategóriára érvényes vezetői engedély nélkül. |
 
-| 20. | BE | 18 | X | X | X | – | X | 11 | – | – | 4 | 4 | – | – | 3 | 220 |  |
+| 22 | BE | 18 | X | X | X | – | X | 11 | – | – | 4 | 4 | – | – | 3 | 220 |  |
 
-| 21. | C1E | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
+| 23 | C1E | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| 22. | CE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
+| 24 | CE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| 23. | D1E | 18 | X | X | X | – | X | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
+| 25 | D1E | 18 | X | X | X | – | X | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| 24. | DE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
+| 26 | DE | 14 | X | X | X | – | – | 12 | – | – | 4 | 4 | – | – | 4 | 250 |  |
 
-| 25. | AM | 16 | X | X | – | – | – | 10 | 4 | 6 | – | – | – | – | – | 100 |  |
+| 27 | AM | 16 | X | X | – | – | – | 10 | 4 | 6 | – | – | – | – | – | 100 |  |
 
-| 26. | T | 46 | X | X | X | – | X | 12 | – | - | 3 | 3 | – | 3 | 3 | – |  |
+| 28 | T | 46 | X | X | X | – | X | 12 | – | – | 3 | 3 | – | 3 | 3 | – |  |
 
-| 27. | K | 12 | X | – | – | – | – | – | – | – | – | – | – | – | – | – |  |
+| 29 | K | 12 | X | – | – | – | – | – | – | – | – | – | – | – | – | – |  |
 
-| 28. | TR | 88 | X | X | X | X | X | 58 | – | – | 45 | – | – | – | 13 | – |  |
+| 30 | TR | 88 | X | X | X | X | X | 58 | – | – | 45 | – | – | – | 13 | – |  |
 
-| 29. | TR8) | 46 | X | X | X | X | X | 30 | – | - | 22 | – | – | – | 8 | – |  |
+| 31 | TR | 46 | X | X | X | X | X | 30 | – | – | 22 | – | – | – | 8 | – | „D” kategóriás vezetői engedéllyel. |
 
-| Rövidítések: |  |  |  |  |
-
-|  | K | = Közlekedési alapismeretek | A | = Alapoktatás |
-
-|  | Je | = Járművezetés elmélete | F | = Főoktatás |
-
-|  | Szü | = Szerkezeti és üzemeltetési ismeretek | F/v | = városi vezetés |
-
-|  | Mu | = Munkavédelem, tűzvédelem, szállítás | F/o | = országúti vezetés |
-
-|  | F 1–2 | = F 1–2 számú trolibusz jelzési és forgalmi utasítás | F/é F/k | = éjszakai vezetés = vezetés könnyű terepen |
-
-|  | M | = Menettávolságok kilométerben |  |  |
-
-|  | R | = rutin vizsgára felkészülő vezetés. |  |  |
-
-## 1) érvényes „B” kategóriás vezetői engedély esetén
-
-## 2) „A1” kategória megszerzését követő két éven belül
-
-## 3) „A1” kategória megszerzését követő két éven túl
-
-## 4) „A2” kategória megszerzését követő két éven belül
-
-## 5) „A korlátozott” vagy „A2” kategória megszerzését követő két éven túl
-
-## 6) amennyiben betöltötte 24. életévét, és nem rendelkezik sem „A1” kategóriás, sem „A2” kategóriás vezetői engedéllyel
-
-## 7) „C1” kategória megszerzését követő 2 éven belül
-
-## 8) „D” kategóriás vezetői engedéllyel
-
-## 9) „B” kategóriájú járművek nehéz pótkocsival összekapcsolva, feltéve, hogy az így kialakított járműszerelvény legnagyobb megengedett össztömege 3500 kg és 4250 kg közötti
-
-## 10) „C” kategóriára érvényes vezetői engedély nélkül
+| 32 | CE | 74 | X | X | X | – | X | 28 | – | – | 10 | 8 | 2 | – | 8 | 550 | „C” kategóriára érvényes vezetői engedély nélkül. |
 
 ## 3.2.2. Tanfolyam megkezdése tantermi elméleti oktatás esetén
 
@@ -378,7 +342,7 @@
 
 ## A szakoktatók napi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele.
 
-## 3.6.2. A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6. e) pont szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
+## 3.6.2.[^315] A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6.1. pont e) alpontja szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
 
 ## 4. Mentesítések
 
@@ -484,6 +448,8 @@
 
 ## A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
 
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^320]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^316]
 
-[^320]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
+[^314]: A 3. számú melléklet 3.2.1. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^315]: A 3. számú melléklet 3.6.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^316]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
