@@ -1,0 +1,3 @@
+## 2. A bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású gázkibocsátás elkerülés kiszámításának szabályairól szóló 68/2021. (XII. 30.) ITM rendelet módosítása
+
+2. § A bioüzemanyagok, folyékony bio-energiahordozók és biomasszából előállított tüzelőanyagok fenntarthatósági követelményeknek való megfelelésével kapcsolatos üvegházhatású gázkibocsátás elkerülés kiszámításának szabályairól szóló 68/2021. (XII. 30.) ITM rendelet [a továbbiakban: 68/2021. (XII. 30.) ITM rendelet] 1. melléklete a 2. melléklet szerint módosul.
