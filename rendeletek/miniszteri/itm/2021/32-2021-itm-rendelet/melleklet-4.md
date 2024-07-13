@@ -1,4 +1,4 @@
-4. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^33]
+4. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^31]
 
 1. Az 5/2020. ITM rendelet 1. melléklet 1. pont 1.1. alpontjában foglalt táblázat 20. sora helyébe a következő rendelkezés lép:
 
@@ -354,4 +354,4 @@
 
 24. Az 5/2020. ITM rendelet 1. melléklet 1. pont 1.5. alpont 1.5.1. pontjában az „1.5.1.2. t1 + t2 ... + tn = 8 óra” szövegrész helyébe az „1.5.1.2. t1 + t2 ... + tn = műszak óráinak száma” szöveg lép.
 
-[^33]: A 4. melléklet 1–2. és 4–11. és 13–24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. A 4. melléklet 3. pontja a 29. § (7) bekezdése alapján 2026. július 12-én lép hatályba. A 4. melléklet 12. pontja a 29. § (8) bekezdése alapján 2027. július 12-én lép hatályba.
+[^31]: A 4. melléklet 1–2. és 4–11. és 13–24. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette. A 4. melléklet 3. pontja a 29. § (7) bekezdése alapján 2026. július 12-én lép hatályba. A 4. melléklet 12. pontja a 29. § (8) bekezdése alapján 2027. július 12-én lép hatályba.

@@ -1,3 +1,3 @@
-5. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^34]
+5. melléklet a 32/2021. (VII. 26.) ITM rendelethez[^32]
 
-[^34]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
