@@ -1,0 +1,5 @@
+2. § (1) A csúcsára állított hatszög alakú emlékérme 89% réz, 5% alumínium, 5% cink és 1% ón ötvözetéből (ún. Nordic gold) készült, súlya 20 gramm, egymással szembeni csúcsainak távolsága 37,18 mm, széle sima.
+
+(2) Az emlékérme előlapján a Rubik-kocka ábrázolása látható. Az előlap szélén, a bal alsó oldalhoz igazítva a „MAGYARORSZÁG” felirat, a jobb alsó oldalhoz igazítva a „3000” értékjelzés és a „FORINT” felirat, a vízszintes szimmetriatengely bal oldalán a „BP.” verdejel, jobb oldalán a „2024” verési évszám olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján a Rubik-kocka belső szerkezetének ábrázolása látható, jobb oldalon – az ábrázolásba illesztve – a Rubik-kocka felhasználási jogaival rendelkező Spin Master Toys UK Limited jubileumi Rubik-kocka logójának magyar változatával. Az ábrázolás alatt, a hátlap bal alsó és jobb alsó oldalához igazítva a „RUBIK-KOCKA” felirat olvasható. A hátlap alsó csúcsában Szilos András tervezőművész mesterjegye látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
