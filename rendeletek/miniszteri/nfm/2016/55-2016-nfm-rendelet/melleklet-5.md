@@ -1,6 +1,6 @@
 5. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Szélenergia villamosenergia-termelés céljából történő hasznosításának műszaki követelményei
+Szélenergia villamosenergia-termelés céljából történő hasznosításának műszaki követelményei
 
 1. Csúcskihasználási óraszám követelmények
 
@@ -8,7 +8,7 @@
 
 1.2. Az 1.1. pontban szereplő éves csúcskihasználási óraszám értékét a következő módon kell kiszámítani:
 
-[óra/év]
+## [óra/év]
 
 1.3. Az 1.2. pontban foglalt képlet alkalmazásában:
 

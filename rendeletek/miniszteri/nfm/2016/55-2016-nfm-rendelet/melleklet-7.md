@@ -1,6 +1,6 @@
 7. melléklet az 55/2016. (XII. 21.) NFM rendelethez[^5]
 
-## A biomasszából előállított tüzelőanyagokból termelt villamos energia megfelelési követelmények
+A biomasszából előállított tüzelőanyagokból termelt villamos energia megfelelési követelmények
 
 1. A biomasszából előállított tüzelőanyagokból termelt villamos energiának meg kell felelnie az alább felsorolt egy vagy több követelménynek:
 
@@ -18,4 +18,7 @@
 
 4. Az 1. pont nem alkalmazandó az olyan létesítményekből származó villamos energiára, amelyek tekintetében a tagállamok külön értesítést tesznek a Bizottság felé azon az alapon, hogy bizonyíthatóan kockázatok állnak fenn a villamosenergia-ellátás biztonságára nézve. A Bizottság az értesítés vizsgálatát követően, az abban szereplő elemek figyelembevételével határozatot hoz.
 
+5.[^6] Az e melléklet szerinti követelmények csak a 2021. december 25. után működésbe lépő vagy biomasszából előállított üzemanyag használatára 2021. december 25. után átalakított létesítmények esetében alkalmazandók, ha a megtermelt energia az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikk (1) bekezdés első albekezdés a) és b) pontjában kitűzött cél eléréséhez figyelembevételre kerül.
+
 [^5]: A 7. melléklet a 49/2021. (X. 1.) ITM rendelet 12. §-ával megállapított szöveg.
+[^6]: A 7. melléklet 5. pontját a 11/2024. (VII. 12.) EM rendelet 1. §-a iktatta be.

@@ -1,6 +1,6 @@
 8. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Geotermikus energia villamosenergia-termelés céljából történő hasznosításának műszaki követelményei
+Geotermikus energia villamosenergia-termelés céljából történő hasznosításának műszaki követelményei
 
 1. Hatásfok követelmények
 

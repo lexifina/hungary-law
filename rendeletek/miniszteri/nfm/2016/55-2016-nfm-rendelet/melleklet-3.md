@@ -1,6 +1,6 @@
 3. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Napenergia termikus hasznosítására vonatkozó műszaki követelmények
+Napenergia termikus hasznosítására vonatkozó műszaki követelmények
 
 1. Fajlagos energiatermelési követelmények
 

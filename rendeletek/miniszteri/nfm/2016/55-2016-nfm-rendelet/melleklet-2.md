@@ -1,6 +1,6 @@
 2. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Hőszivattyúval termelt megújuló energia hasznosításának műszaki követelményei
+Hőszivattyúval termelt megújuló energia hasznosításának műszaki követelményei
 
 1. Jóságfok és hatásfok követelmények
 
@@ -26,9 +26,9 @@
 
 | 9. | Kombinált helyiségfűtő és használati melegvíz-készítő berendezések melegvíz-készítési funkciója | Meghajtástól függetlenül (ηwh érték) ** | 0,85 | 0,85 | 0,85 |
 
-* A hőszivattyús vízmelegítő berendezések vízmelegítési hatásfoka (ηwh) a 2010/30/EU európai parlamenti és tanácsi irányelvnek a vízmelegítők, a melegvíz-tároló tartályok, valamint a vízmelegítőből és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló 2013. február 18-i 812/2013/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 812/2013/EU bizottsági rendelet) VIII. melléklet 3. pontja szerint meghatározott érték.
+## * A hőszivattyús vízmelegítő berendezések vízmelegítési hatásfoka (ηwh) a 2010/30/EU európai parlamenti és tanácsi irányelvnek a vízmelegítők, a melegvíz-tároló tartályok, valamint a vízmelegítőből és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló 2013. február 18-i 812/2013/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 812/2013/EU bizottsági rendelet) VIII. melléklet 3. pontja szerint meghatározott érték.
 
-** A helyiségfűtő hőszivattyús berendezések, valamint a kombinált hőszivattyús berendezések vízmelegítési hatásfoka (ηwh) a 2010/30/EU európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések, a kombinált fűtőberendezések, a helyiségfűtő berendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok, valamint a kombinált fűtőberendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló 2013. február 18-i 811/2013/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 811/2013/EU bizottsági rendelet) VII. melléklet 5. pontja szerint meghatározott érték.
+## ** A helyiségfűtő hőszivattyús berendezések, valamint a kombinált hőszivattyús berendezések vízmelegítési hatásfoka (ηwh) a 2010/30/EU európai parlamenti és tanácsi irányelvnek a helyiségfűtő berendezések, a kombinált fűtőberendezések, a helyiségfűtő berendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok, valamint a kombinált fűtőberendezésből, hőmérséklet-szabályozóból és napenergia-készülékből álló csomagok energiafogyasztásának címkézése tekintetében történő kiegészítéséről szóló 2013. február 18-i 811/2013/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: 811/2013/EU bizottsági rendelet) VII. melléklet 5. pontja szerint meghatározott érték.
 
 2. Berendezésre vonatkozó követelmények
 

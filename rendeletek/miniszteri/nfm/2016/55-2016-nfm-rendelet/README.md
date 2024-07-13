@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-55-20-2
 | 2017-01-02 | 2016-55-20-2W.2 | 2010: CXXX. törvény |
 | 2017-11-09 | 2016-55-20-2W.3 | 43/2017. (XI. 8.) NFM rendelet |
 | 2021-10-02 | 2016-55-20-2W.4 | 49/2021. (X. 1.) ITM rendelet |
+| 2024-07-13 | 2016-55-20-2W.5 | 11/2024. (VII. 12.) EM rendelet |

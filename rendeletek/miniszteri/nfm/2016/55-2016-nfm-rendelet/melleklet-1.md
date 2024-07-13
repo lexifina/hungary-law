@@ -1,8 +1,6 @@
-## 8. §[^4]
-
 1. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Biomassza, valamint biogáz tüzelésű hőenergia-termelő berendezésre vonatkozó műszaki követelmények
+Biomassza, valamint biogáz tüzelésű hőenergia-termelő berendezésre vonatkozó műszaki követelmények
 
 1. Hatásfok követelmények:
 
@@ -71,5 +69,3 @@
 2.7. 1 MW együttes kimenő névleges hőteljesítmény felett távfelügyeleti rendszerbe kapcsolás kötelező, melynek műszaki bemutatása, igazolása szükséges.
 
 2.8. 500 kW feletti kimenő névleges hőteljesítmény felett a kazán automatikus kihamuzó rendszerrel rendelkezik.
-
-[^4]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

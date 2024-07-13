@@ -1,6 +1,6 @@
 4. melléklet az 55/2016. (XII. 21.) NFM rendelethez
 
-## Napenergia villamosenergia-termelés célú hasznosítása esetére vonatkozó műszaki követelmények
+Napenergia villamosenergia-termelés célú hasznosítása esetére vonatkozó műszaki követelmények
 
 1. Hatásfok követelmények (minimális)
 
