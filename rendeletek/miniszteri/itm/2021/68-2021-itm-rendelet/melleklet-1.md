@@ -44,7 +44,7 @@
 
 ## ηh = Hőtermelési hatásfok, amelyet az éves hasznoshő-termelésnek a felhasznált folyékony bio-energiahordozó energiatartalom alapján számított bevitelével történő elosztásával lehet meghatározni.
 
-1.1.2.3. A hasznos hőt villamosenergiával és/vagy mechanikai energiával együtt előállító energiatermelő berendezésekből származó villamosenergia vagy mechanikai energia esetében:
+1.1.2.3.[^4] A hasznos hőt villamosenergiával és/vagy mechanikai energiával együtt előállító energiatermelő berendezésekből származó villamosenergia vagy mechanikai energia esetében:
 
 1.1.2.4. A hasznos hőt villamos energiával és/vagy mechanikai energiával együtt előállító energiatermelő berendezésekből származó hasznos hő esetében:
 
@@ -98,21 +98,23 @@ c) „gazdaságilag indokolt igény”: az azt a hő- vagy hűtési energiaigén
 
 1.3. A bioüzemanyagok és a folyékony bio-energiahordozók használatából eredő üvegházhatásúgázkibocsátás-megtakarítást a következők szerint kell kiszámítani:
 
-1.3.1. a bioüzemanyagok használatából eredő üvegházhatásúgázkibocsátás-megtakarítás: MEGTAKARÍTÁS = (E F(t) - E B)/E F(t),
+1.3.1.[^5] a bioüzemanyagok használatából eredő üvegházhatásúgázkibocsátás-megtakarítás:
+
+## MEGTAKARÍTÁS = (EF(t)– EB) / EF(t),
 
 ## ahol
 
-## EB = a bioüzemanyag használatából eredő összes kibocsátás; és
+## EB = a bioüzemanyag használatából eredő összes kibocsátás és
 
-## EF(t) = a közlekedési célú fosszilisüzemanyag-komparátor használatából eredő összes kibocsátás.
+## EF(t) = a közlekedési célú fosszilisüzemanyag-komparátor használatából eredő összes kibocsátás;
 
-1.3.2. a folyékony bio-energiahordozókból előállított fűtő- és hűtőenergia, valamint villamosenergia esetében az üvegházhatásúgázkibocsátás-megtakarítás:
+1.3.2.[^6] a folyékony bio-energiahordozókból előállított fűtő- és hűtőenergia, valamint villamosenergia esetében az üvegházhatásúgázkibocsátás-megtakarítás:
 
-## MEGTAKARÍTÁS = (ECF(h&c,el) - ECB(h&c,el))/ECF (h&c,el),
+## MEGTAKARÍTÁS = (ECF(h&c,el) – ECB(h&c,el)) / ECF(h&c,el),
 
 ## ahol
 
-## ECB(h&c,el) = a hő- vagy villamosenergia-termelésből származó összes kibocsátás; és
+## ECB(h&c,el) = a hő- vagy villamosenergia-termelésből származó összes kibocsátás és
 
 ## ECF(h&c,el) = fosszilis üzemanyag-komparátor hasznosításával megvalósított hasznoshő- vagy villamosenergia-termelésből származó összes kibocsátás.
 
@@ -1031,3 +1033,6 @@ b) súlyosan degradálódott földterület, beleértve a korábban mezőgazdasá
 | 15 | az MTBE megújuló energiaforrásokból előállított része | a metanol előállítási módjával megegyező |
 
 [^3]: Az 1. melléklet a 7/2022. (XII. 27.) EM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. melléklet 1.1.2.3. pontja a 11/2024. (VII. 12.) EM rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 1. melléklet 1.3.1. pontja a 11/2024. (VII. 12.) EM rendelet 2. §-ával megállapított szöveg.
+[^6]: Az 1. melléklet 1.3.2. pontja a 11/2024. (VII. 12.) EM rendelet 2. §-ával megállapított szöveg.

@@ -482,7 +482,7 @@ A közlekedési célú, biomasszából előállított tüzelőanyagok esetében 
 
 | 59 | 10 000 km felett | 0,0 | 0,2 | 7,8 | 0,3 | 0,0 | 0,3 | 9,3 | 0,3 |
 
-2.3.[^4] Mezőgazdasági előállítási módok
+2.3.[^7] Mezőgazdasági előállítási módok
 
 |  | A | B | C | D | E | F |
 
@@ -1386,4 +1386,4 @@ A 3. eset olyan módokra vonatkozik, amelyeknél a folyamathoz szükséges villa
 
 (27) Ebbe a kategóriába a biogáz biometánná történő alakításának alábbi technológiái tartoznak: nyomásváltó víznyomásos tisztítás (Pressure Water Scrubbing – PWS) ha a víz újrahasznosításra kerül, nyomásváltó adszorpciós gázszétválasztás (Pressure Swing Adsorption – PSA), kémiai tisztítás, szerves fizikai tisztítás (Organic Physical Scrubbing – OPS), membrános eljárás, kriogén eljárás. Ebben a kategóriában nincs metánkibocsátás (a távozó gázban esetleg meglévő metán elégetésre kerül).
 
-[^4]: A 2. melléklet 2.3. pontja a 7/2022. (XII. 27.) EM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^7]: A 2. melléklet 2.3. pontja a 7/2022. (XII. 27.) EM rendelet 4. § (2) bekezdésével megállapított szöveg.
