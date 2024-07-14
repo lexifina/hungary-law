@@ -1,5 +1,5 @@
 ## (A Bt. 42. §-ához)
 
-26. §[^154]
+26. §[^139]
 
-[^154]: A Vhr. 26. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 13. pontja hatályon kívül helyezte.
+[^139]: A Vhr. 26. §-át a 26/2022. (I. 28.) Korm. rendelet 3. § 13. pontja hatályon kívül helyezte.
