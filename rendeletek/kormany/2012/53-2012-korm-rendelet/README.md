@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-53-20-2
 | 2021-01-01 | 2012-53-20-22.20 | 668/2020. (XII. 28.) Korm. rendelet |
 | 2022-02-01 | 2012-53-20-22.21 | 26/2022. (I. 28.) Korm. rendelet |
 | 2024-07-01 | 2012-53-20-22.22 | 141/2024. (VI. 28.) Korm. rendelet |
+| 2024-07-14 | 2012-53-20-22.23 | 26/2022. (I. 28.) Korm. rendelet |

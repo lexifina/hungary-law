@@ -18,7 +18,7 @@ g)[^12] a településrendezési eszközök és az általános érvényű kötele
 
 h)[^13] engedély nélküli használat esetén a sajátos építmény vagy sajátos építményrész beruházási értékének 20%-a,
 
-de legalább ötszázezer forint, legfeljebb tízmillió forint.
+de legalább ötszázezer forint, legfeljebb százmillió forint.
 
 (2)[^14] Ha a sajátos építmény vagy sajátos építményrész kivitelezését az építési vagy a bontási engedély közlését követően, de annak véglegessé válása előtt kezdték meg, kivéve, ha az engedélyt azonnal végrehajthatónak nyilvánították, és később az építési vagy a bontási engedély változatlan tartalommal véglegessé válik, akkor a bírság mértéke az (1) bekezdésben meghatározott mérték 50%-a.
 
@@ -30,7 +30,7 @@ de legalább ötszázezer forint, legfeljebb tízmillió forint.
 
 (6)[^17] A kiszabott bírságot a bányafelügyeletnek a Magyar Államkincstárnál vezetett, 10032000-00362887-00000000 számú fizetési számlájára kell befizetni a döntés véglegessé válását követő 15 napon belül.
 
-[^10]: A 39. § (1) bekezdés nyitó szövegrésze a 26/2022. (I. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^10]: A 39. § (1) bekezdés nyitó szövegrésze a 26/2022. (I. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított, záró szövegrésze a 141/2024. (VI. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^11]: A 39. § (1) bekezdés f) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított szöveg.
 [^12]: A 39. § (1) bekezdés g) pontja az 559/2013. (XII. 31.) Korm. rendelet 67. §-ával megállapított, a 311/2014. (XII. 11.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
 [^13]: A 39. § (1) bekezdés h) pontját az 559/2013. (XII. 31.) Korm. rendelet 67. §-a iktatta be.
