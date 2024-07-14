@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-23-20-2
 | 2021-01-01 | 2006-23-20-22.17 | 559/2013. (XII. 31.) Korm. rendelet |
 | 2022-01-01 | 2006-23-20-22.18 | 825/2021. (XII. 28.) Korm. rendelet |
 | 2022-02-01 | 2006-23-20-22.19 | 26/2022. (I. 28.) Korm. rendelet |
+| 2024-07-14 | 2006-23-20-22.20 | 311/2014. (XII. 11.) Korm. rendelet |

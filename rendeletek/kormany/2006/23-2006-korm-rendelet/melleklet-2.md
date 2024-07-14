@@ -1,3 +1,3 @@
-2. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez[^41]
+2. számú melléklet a 23/2006. (II. 3.) Korm. rendelethez[^40]
 
-[^41]: A 2. számú mellékletet a 26/2022. (I. 28.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.
+[^40]: A 2. számú mellékletet a 26/2022. (I. 28.) Korm. rendelet 5. § d) pontja hatályon kívül helyezte.

@@ -1,3 +1,3 @@
-## 4. §[^7]
+5. §[^8]
 
-[^7]: A 4. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^8]: Az 5. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

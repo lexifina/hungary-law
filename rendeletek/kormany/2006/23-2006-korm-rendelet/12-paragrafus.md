@@ -1,3 +1,3 @@
-## 11. §[^15]
+12. §[^16]
 
-[^15]: A 11. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^16]: A 12. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

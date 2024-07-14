@@ -1,7 +1,7 @@
-## 6. §[^9]
-
 ## ENGEDÉLYEZÉSI ELJÁRÁSOK
 
 ## Általános előírások
 
-[^9]: A 6. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+7. §[^10]
+
+[^10]: A 7. §-t a 26/2022. (I. 28.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
