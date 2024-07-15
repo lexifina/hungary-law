@@ -1,1 +1,3 @@
-14. § A Korm. rendelet2. 39. § (1) bekezdésében a „tízmillió” szövegrész helyébe a „százmillió” szöveg lép.
+14. §[^15]
+
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
