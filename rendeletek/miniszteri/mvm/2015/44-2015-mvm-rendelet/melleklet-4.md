@@ -32,7 +32,7 @@
 
 ## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^133]
+4. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^137]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -64,7 +64,11 @@ I. szakasz: Ajánlatkérő
 
 ## I.3) Az ajánlatkérő típusa
 
-| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
+| □ Központi szintű | □ Közszolgáltató |
+
+| □ Regionális/helyi szintű | □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] |
+
+| □ Közjogi szervezet | □ Egyéb: |
 
 ## I.4) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -206,4 +210,4 @@ V. szakasz: Az eljárás eredménye1
 
 VI. szakasz: Kiegészítő információk
 
-[^133]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése szerint módosított szöveg.
+[^137]: A 4. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (1) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (4) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (4) bekezdésé szerint módosított szöveg.

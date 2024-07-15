@@ -6,8 +6,8 @@ b) ha a 12. § (1) bekezdése szerinti hiánypótlási határidő eredménytelen
 
 c) ha a befizetett ellenőrzési díj összege meghaladja az előírt mértéket, a túlfizetett összeg;
 
-d)[^66] ha a kérelmező a 10. § (5) bekezdés a) pontja, a 11. § (10) bekezdése, a 13. § (2a) bekezdése vagy a 13. § (6) és (7) bekezdése szerinti esetben ellenőrzési díjat utalt át, a díj 90%-a;
+d)[^67] ha a kérelmező a 10. § (5) bekezdés a) pontja, a 11. § (10) bekezdése, a 13. § (2a) bekezdése vagy a 13. § (6) és (7) bekezdése szerinti esetben ellenőrzési díjat utalt át, a díj 90%-a;
 
 e) ha a 19. § (4) bekezdése szerint a Kiadóhivatal a hirdetmény közzétételét visszautasítja, és ezért a közzétételi kérelmet visszavontnak kell tekinteni, a díj fele.
 
-[^66]: A 14. § d) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 9. pontja szerint módosított szöveg.
+[^67]: A 14. § d) pontja az 5/2019. (III. 28.) MvM rendelet 22. § 9. pontja szerint módosított szöveg.

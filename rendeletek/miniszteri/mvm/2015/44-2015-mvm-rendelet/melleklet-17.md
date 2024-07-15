@@ -26,6 +26,6 @@
 
 | 14 | BG-8 | Nem azonnal közzéteendő |
 
-17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^144]
+17. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^148]
 
-[^144]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.
+[^148]: A 17. mellékletet a 21/2018. (XII. 21.) MvM rendelet 5. §-a hatályon kívül helyezte.

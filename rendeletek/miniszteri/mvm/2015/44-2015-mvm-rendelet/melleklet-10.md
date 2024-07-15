@@ -10,7 +10,7 @@
 
 ## 2adott esetben
 
-10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^138]
+10. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^142]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -40,7 +40,11 @@ I. szakasz: Ajánlatkérő
 
 ## I.3) Az ajánlatkérő típusa
 
-| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
+| □ Központi szintű | □ Közszolgáltató |
+
+| □ Regionális/helyi szintű | □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] |
+
+| □ Közjogi szervezet | □ Egyéb: |
 
 ## I.4) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -126,4 +130,4 @@ V. szakasz: Az eljárás eredménye
 
 VI. szakasz: Kiegészítő információk
 
-[^138]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése szerint módosított szöveg.
+[^142]: A 10. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (3) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (9) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (7) bekezdése szerint módosított szöveg.

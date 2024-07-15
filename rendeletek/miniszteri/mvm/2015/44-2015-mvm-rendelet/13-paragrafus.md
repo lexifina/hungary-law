@@ -1,14 +1,14 @@
-## 4. [^59] Az ellenőrzési díj, a közzétételi költségtérítés és a törvényességi ellenőrzési díj
+## 4. [^60] Az ellenőrzési díj, a közzétételi költségtérítés és a törvényességi ellenőrzési díj
 
 13. § (1) Amennyiben a hirdetmény ellenőrzése kötelező vagy azt a kérelmező kéri, a hirdetmények, illetve erre irányuló kérelem esetén a közbeszerzési dokumentumok ellenőrzéséért – a (6)–(7) bekezdés szerinti ajánlatkérők kivételével – ellenőrzési díjat kell fizetni.
 
-(2)[^60] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
+(2)[^61] Az ellenőrzési díj mértéke – függetlenül az érintett hirdetmény, illetve közbeszerzési dokumentumok terjedelmétől – egységesen
 
-a)[^61] a 9. § (1) bekezdése szerinti felhívás, a közbeszerzési eljárást, illetve a koncessziós eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében 160 000 forint,
+a)[^62] a 9. § (1) bekezdése szerinti felhívás, a közbeszerzési eljárást, illetve a koncessziós eljárást meghirdető hirdetmény és a tervpályázati kiírás esetében 160 000 forint,
 
 b) a közbeszerzési dokumentumok esetében: 200 000 forint,
 
-c)[^62] a közbeszerzési eljárást megindító, illetve meghirdető felhívás, a koncessziós beszerzési eljárást megindító, illetve meghirdető felhívás, a tervpályázati kiírás módosítása, továbbá az ajánlattételi vagy részvételi, illetve pályaművek benyújtására vonatkozó határidő meghosszabbítását tartalmazó hirdetmény esetében 80 000 forint,
+c)[^63] a közbeszerzési eljárást megindító, illetve meghirdető felhívás, a koncessziós beszerzési eljárást megindító, illetve meghirdető felhívás, a tervpályázati kiírás módosítása, továbbá az ajánlattételi vagy részvételi, illetve pályaművek benyújtására vonatkozó határidő meghosszabbítását tartalmazó hirdetmény esetében 80 000 forint,
 
 d) az eljárás eredményéről és a tervpályázati eljárás eredményéről szóló tájékoztatót tartalmazó hirdetmények esetében: 100 000 forint,
 
@@ -16,7 +16,7 @@ e) a szerződés módosításáról szóló tájékoztató esetében: 100 000 fo
 
 f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 forint.
 
-(2a)[^63] A (2) bekezdés c) pontja szerinti ellenőrzési díjat nem kell befizetni, ha a hirdetmény feladása az EKR jogszabályban meghatározott üzemzavara miatt, kizárólag az ajánlattételi és részvételi határidő kötelező meghosszabbítása céljából szükséges.
+(2a)[^64] A (2) bekezdés c) pontja szerinti ellenőrzési díjat nem kell befizetni, ha a hirdetmény feladása az EKR jogszabályban meghatározott üzemzavara miatt, kizárólag az ajánlattételi és részvételi határidő kötelező meghosszabbítása céljából szükséges.
 
 (3) Az ellenőrzési díjat a Hatóságnak a Magyar Államkincstárnál vezetett MNB 10032000-01720361-00000000 számú számlájára kell befizetni.
 
@@ -24,14 +24,14 @@ f) az a) és c)–e) pontok alá nem tartozó hirdetmények esetében: 80 000 fo
 
 (5) Az ellenőrzési díj azon a napon minősül megfizetettnek, amely napon az a (3) bekezdés szerinti számlán jóváírásra kerül.
 
-(6)[^64] Az ellenőrzési díj megfizetése alól mentesség illeti meg az ezer fő lakosnál kevesebb lélekszámú települések esetében a Kbt. 5. § (1) bekezdés c) pont cd)–ce) alpontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint a cf) alpontja szerinti ilyen települések által létrehozott társulás ajánlatkérőket.
+(6)[^65] Az ellenőrzési díj megfizetése alól mentesség illeti meg az ezer fő lakosnál kevesebb lélekszámú települések esetében a Kbt. 5. § (1) bekezdés c) pont cd)–ce) alpontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint a cf) alpontja szerinti ilyen települések által létrehozott társulás ajánlatkérőket.
 
-(7)[^65] Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pont cd)–ce) alpontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint a cf) alpontja szerinti ilyen települések által létrehozott társulás ajánlatkérőket.
+(7)[^66] Az ellenőrzési díj megfizetése alól mentesség illeti meg a külön jogszabály szerinti kedvezményezett járásokban található, a (6) bekezdés hatálya alá nem tartozó és tízezer főnél kevesebb lakosú települések esetében a Kbt. 5. § (1) bekezdés c) pont cd)–ce) alpontja szerinti önkormányzat és önkormányzati költségvetési szerv, valamint a cf) alpontja szerinti ilyen települések által létrehozott társulás ajánlatkérőket.
 
-[^59]: A 4. alcím címe az 5/2019. (III. 28.) MvM rendelet 12. §-ával megállapított szöveg.
-[^60]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
-[^61]: A 13. § (2) bekezdés a) pontja az 5/2019. (III. 28.) MvM rendelet 13. § (1) bekezdésével megállapított, a 3/2023. (X. 16.) TFM rendelet 16. § 12. pontja szerint módosított szöveg.
-[^62]: A 13. § (2) bekezdés c) pontja az 5/2019. (III. 28.) MvM rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^63]: A 13. § (2a) bekezdését a 21/2018. (XII. 21.) MvM rendelet 1. §-a iktatta be.
-[^64]: A 13. § (6) bekezdése a 3/2023. (X. 16.) TFM rendelet 15. § 17. pontja szerint módosított szöveg.
-[^65]: A 13. § (7) bekezdése a 3/2023. (X. 16.) TFM rendelet 15. § 17. pontja szerint módosított szöveg.
+[^60]: A 4. alcím címe az 5/2019. (III. 28.) MvM rendelet 12. §-ával megállapított szöveg.
+[^61]: A 13. § (2) bekezdése a 43/2016. (XII. 30.) MvM rendelet 3. §-ával megállapított szöveg.
+[^62]: A 13. § (2) bekezdés a) pontja az 5/2019. (III. 28.) MvM rendelet 13. § (1) bekezdésével megállapított, a 3/2023. (X. 16.) TFM rendelet 16. § 12. pontja szerint módosított szöveg.
+[^63]: A 13. § (2) bekezdés c) pontja az 5/2019. (III. 28.) MvM rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^64]: A 13. § (2a) bekezdését a 21/2018. (XII. 21.) MvM rendelet 1. §-a iktatta be.
+[^65]: A 13. § (6) bekezdése a 3/2023. (X. 16.) TFM rendelet 15. § 17. pontja szerint módosított szöveg.
+[^66]: A 13. § (7) bekezdése a 3/2023. (X. 16.) TFM rendelet 15. § 17. pontja szerint módosított szöveg.

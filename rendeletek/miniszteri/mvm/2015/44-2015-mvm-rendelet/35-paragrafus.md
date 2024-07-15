@@ -1,6 +1,6 @@
-## 11. [^104] Közzétételre vonatkozó szabályok
+## 11. [^105] Közzétételre vonatkozó szabályok
 
-35. §[^105]
+35. §[^106]
 
-[^104]: A 11. alcím címe az 5/2019. (III. 28.) MvM rendelet 17. §-ával megállapított szöveg.
-[^105]: A 35. §-t az 5/2019. (III. 28.) MvM rendelet 24. § c) pontja hatályon kívül helyezte.
+[^105]: A 11. alcím címe az 5/2019. (III. 28.) MvM rendelet 17. §-ával megállapított szöveg.
+[^106]: A 35. §-t az 5/2019. (III. 28.) MvM rendelet 24. § c) pontja hatályon kívül helyezte.

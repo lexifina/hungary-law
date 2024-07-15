@@ -26,7 +26,7 @@
 
 ## 15ezt az információt itt vagy – adott esetben – az ajánlattételi felhívásban adja meg
 
-8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^136]
+8. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^140]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -178,4 +178,4 @@ V. szakasz: Az eljárás eredménye1
 
 VI. szakasz: Kiegészítő információk
 
-[^136]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (7) bekezdése szerint módosított szöveg.
+[^140]: A 8. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (2) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (7) bekezdése szerint módosított szöveg.

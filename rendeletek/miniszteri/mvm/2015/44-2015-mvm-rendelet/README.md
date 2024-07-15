@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-44-20-6
 | 2020-07-01 | 2015-44-20-6N.14 | 10/2020. (VI. 26.) MvM rendelet |
 | 2022-12-10 | 2015-44-20-6N.15 | 2/2022. (XII. 9.) TFM rendelet |
 | 2023-10-25 | 2015-44-20-6N.16 | 3/2023. (X. 16.) TFM rendelet |
+| 2024-07-15 | 2015-44-20-6N.17 | 10/2020. (VI. 26.) MvM rendelet |

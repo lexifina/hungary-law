@@ -1,6 +1,6 @@
 ## 9. A TED-en megjelenő hirdetmények
 
-26. §[^96] (1) A TED-en megjelenő hirdetmények az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban meghatározott adatokból álló elektronikus fájlok.
+26. §[^97] (1) A TED-en megjelenő hirdetmények az uniós e-hirdetményminta rendelet mellékletében foglalt 2. táblázatban meghatározott adatokból álló elektronikus fájlok.
 
 (2) A Kbt. Második Része alkalmazásában a TED-en kell közzétenni a közbeszerzési eljárásokhoz és tervpályázati eljárásokhoz és az ezek alapján megkötött szerződések módosításához kapcsolódó valamennyi hirdetményt.
 
@@ -10,4 +10,4 @@
 
 (5) A Kbt. Negyedik Része alkalmazásában a TED-en kell közzétenni az uniós értékhatárokat elérő vagy meghaladó értékű koncessziós beszerzési eljárásokhoz és az ezek alapján megkötött szerződések módosításához kapcsolódó valamennyi hirdetményt.
 
-[^96]: A 26. § a 3/2023. (X. 16.) TFM rendelet 10. §-ával megállapított szöveg.
+[^97]: A 26. § a 3/2023. (X. 16.) TFM rendelet 10. §-ával megállapított szöveg.

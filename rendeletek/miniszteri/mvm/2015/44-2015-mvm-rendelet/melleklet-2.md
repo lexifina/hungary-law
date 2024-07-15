@@ -32,6 +32,6 @@
 
 ## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^131]
+2. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^134]
 
-[^131]: A 2. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^134]: A 2. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (2) bekezdésével megállapított szöveg.

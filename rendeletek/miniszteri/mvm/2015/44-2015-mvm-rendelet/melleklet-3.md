@@ -36,9 +36,9 @@
 
 | □ Az elektronikus kommunikáció olyan eszközök és berendezések használatát igényli, amelyek nem általánosan hozzáférhetők. Ezen eszközök és berendezések korlátozás nélkül, teljes körűen, közvetlenül és díjmentesen elérhetők a következő címen: (URL) |
 
-| I.4) Az ajánlatkérő típusa |
+| I.4)[^135] Az ajánlatkérő típusa |
 
-| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
+| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] □ Egyéb: |
 
 | I.5) Fő tevékenység (klasszikus ajánlatkérők esetében) |
 
@@ -190,7 +190,7 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben 4 ha az információ ismert 20 súlyszám helyett fontosság is megadható 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges |
 
-3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^132]
+3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^136]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -232,7 +232,11 @@ I. szakasz: Ajánlatkérő
 
 ## I.4) Az ajánlatkérő típusa
 
-| □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2) bekezdés] □ Egyéb: |
+| □ Központi szintű | □ Közszolgáltató |
+
+| □ Regionális/helyi szintű | □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] |
+
+| □ Közjogi szervezet | □ Egyéb: |
 
 ## I.5) Fő tevékenység (klasszikus ajánlatkérők esetében)
 
@@ -348,4 +352,5 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^132]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+[^135]: A 2. melléklet I.4) pontja a 7/2024. (VII. 12.) KTM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^136]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (3) bekezdése szerint módosított szöveg.
