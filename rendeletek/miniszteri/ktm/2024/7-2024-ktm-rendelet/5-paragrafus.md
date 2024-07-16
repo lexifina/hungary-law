@@ -1,22 +1,30 @@
-5. § (1) Az R. 1. melléklete az 1. melléklet szerint módosul.
+5. § (1)[^5]
 
-(2) Az R. 2. melléklete a 2. melléklet szerint módosul.
+(2)[^6]
 
-(3) Az R. 3. melléklete a 3. melléklet szerint módosul.
+(3)[^7]
 
-(4) Az R. 4. melléklete a 4. melléklet szerint módosul.
+(4)[^8]
 
-(5) Az R. 6. melléklete az 5. melléklet szerint módosul.
+(5)[^9]
 
-(6) Az R. 9. melléklete a 6. melléklet szerint módosul.
+(6)[^10]
 
-(7) Az R. 10. melléklete a 7. melléklet szerint módosul.
+(7)[^11]
 
-(8) Az R. 13. melléklete a 8. melléklet szerint módosul.
+(8)[^12]
 
-(9)[^3]
+(9)[^13]
 
-(10)[^4]
+(10)[^14]
 
-[^3]: Az 5. § (9) bekezdése a 6. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^4]: Az 5. § (10) bekezdése a 6. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^5]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 5. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 5. § (5) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 5. § (6) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. § (7) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 5. § (8) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: Az 5. § (9) bekezdése a 6. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^14]: Az 5. § (10) bekezdése a 6. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.

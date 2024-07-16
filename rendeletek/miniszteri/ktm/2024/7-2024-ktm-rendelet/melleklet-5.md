@@ -1,13 +1,3 @@
-## Az R. 4. melléklet I.3) pontja helyébe a következő rendelkezés lép:
+5. melléklet a 7/2024. (VII. 12.) KTM rendelethez[^19]
 
-## „I.3) Az ajánlatkérő típusa
-
-| □ Központi szintű | □ Közszolgáltató |
-
-| □ Regionális/helyi szintű | □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] |
-
-| □ Közjogi szervezet | □ Egyéb: |
-
-## ”
-
-5. melléklet a 7/2024. (VII. 12.) KTM rendelethez
+[^19]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

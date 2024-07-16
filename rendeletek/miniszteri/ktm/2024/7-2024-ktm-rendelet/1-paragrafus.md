@@ -1,3 +1,3 @@
-1. § A közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 44/2015. (XI. 2.) MvM rendelet (a továbbiakban: R.) 9. §-a a következő (6) bekezdéssel egészül ki:
+1. §[^1]
 
-„(6) A Hatóság a hirdetmény-ellenőrzési hatáskörében eljárva ellenőrzi az előzetes piaci konzultációnak az egyajánlatos közbeszerzések számának csökkentését szolgáló intézkedésekről szóló kormányrendeletben foglalt szabályoknak megfelelő lefolytatását azon eljárások tekintetében, amelyek esetén a kormányrendelet szerinti előzetes piaci konzultáció lefolytatása kötelező.”
+[^1]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
