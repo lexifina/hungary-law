@@ -38,7 +38,7 @@ p) a vízkészletek mennyiségi és minőségi számbavétele, a vízkészletvé
 
 q) a közjóléti feladatellátás körében a vízitúrázás és a kerékpáros turisztikai igénybevétel alapfeltételeinek biztosítása az állami tulajdonban lévő vizek és vízilétesítmények üzemeltetése során.
 
-r) a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása.
+r) állami tulajdonú vizekre és vízi létesítményekre vonatkozó vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatok ellátása;
 
 s) a megfelelő mennyiségű és minőségű ivóvízhez való hozzáférés biztosítása minden természetes személy számára.
 

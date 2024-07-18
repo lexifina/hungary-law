@@ -6,7 +6,7 @@
 
 (2) A Kormány által rendeletben kijelölt vízügyi igazgatási szervnek a vizek többletéből eredő kockázattal érintett területekre veszély- és kockázati térképet, valamint kockázatkezelési tervet kell készítenie.
 
-(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. Az állami beruházásokért felelős miniszter felelős a kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban: védművek) – építésért és fejlesztéséért. Ezek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.
+(3) A vízügyi igazgatási szervek a folyók vízkárelhárítási célú szabályozási feladatait az állami beruházásokért felelős miniszterrel együttműködve látják el. A kettőnél több települést szolgáló vízkár-elhárítási létesítmények – az árvízvédelmi fővédvonalak, vízkár-elhárítási célú tározók, belvízvédelmi főművek (a továbbiakban együtt: védművek) – építéséért és fejlesztéséért az állami beruházásokért felelős miniszter felelős vagy a Kormány rendelete alapján a vízügyi igazgatási szervek felelősek. Ezen új védművek, valamint az állam kizárólagos tulajdonában lévő védművek fenntartása, azokon a védekezés ellátása, továbbá a mezőgazdasági vízszolgáltatás és vízkárelhárítás feladatainak ellátása a vízügyi igazgatási szervek feladata.
 
 (4) A vízügyi igazgatási szervnek vízkárelhárítással összefüggő feladata;
 

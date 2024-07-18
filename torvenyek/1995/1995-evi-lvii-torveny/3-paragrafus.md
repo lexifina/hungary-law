@@ -6,7 +6,11 @@ a) az állami tulajdonban lévő vizek és vízilétesítmények, a felszín ala
 
 b) az állami tulajdonban lévő vízilétesítmények üzemeltetését, fenntartását és fejlesztését.
 
-(2a) A (2) bekezdéstől eltérően az állami beruházásokért felelős miniszter látja el a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat.
+(2a) A (2) bekezdéstől eltérően a vízimunkák és vízilétesítmények műszaki tervezésével, előkészítésével és megvalósításával összefüggő feladatokat
+
+a) az állami beruházásokért felelős miniszter látja el, vagy
+
+b) a Kormány rendelete alapján a vízügyi igazgatási szervek – az állami beruházásokért felelős miniszterrel együttműködve – látják el.
 
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek
 

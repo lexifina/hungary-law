@@ -18,7 +18,7 @@
 
 a) a vízbázisok, a távlati vízbázisok, illetőleg az ivóvízellátást szolgáló vízilétesítmények védőidomára, védőterületére (védősávjára) vonatkozó szabályoknak;
 
-b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak;
+b) a vizekkel és a közcélú vízilétesítményekkel kapcsolatos fenntartási feladatokra vonatkozó szabályoknak, valamint egyes vízimunkák és vízilétesítmények műszaki tervezését, előkészítését és megvalósítását végző vízügyi igazgatási szerv kijelölésének;
 
 c) a vízgazdálkodási feladatokkal összefüggő alapadatok gyűjtésének, feldolgozásának, szolgáltatásának;
 
