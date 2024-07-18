@@ -4,7 +4,9 @@
 
 a) 39. §-a az Európai Unió Kábítószer-ügynökségéről (EUDA) és az 1920/2006/EK rendelet hatályon kívül helyezéséről szóló 2023. június 27-i (EU) 2023/1322 európai parlamenti és tanácsi rendelet 8. cikk (1) bekezdése,
 
-b)
+b) 48. és 50. §-a az egyrészről az Európai Unió és az Európai Atomenergia-közösség, és másrészről Nagy-Britannia és Észak-Írország Egyesült Királysága közötti, a Nagy-Britannia és Észak-Írország Egyesült Királyságának az Európai Unióból és az Európai Atomenergia-közösségből történő kilépéséről szóló megállapodás 18. cikk (1) bekezdés p) pontja
+
+végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) E törvény 151–156. §-a
 

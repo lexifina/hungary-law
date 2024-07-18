@@ -2,4 +2,6 @@
 
 a)
 
-b)
+b) 45. § (7) bekezdés b) pontjában a „szabályoknak;” szövegrész helyébe a „szabályoknak, valamint egyes vízimunkák és vízilétesítmények műszaki tervezését, előkészítését és megvalósítását végző vízügyi igazgatási szerv kijelölésének;” szöveg
+
+lép.
