@@ -1,0 +1,3 @@
+5. § (1) A közszolgáltató feladata az utasok kiszolgálását célzó utasforgalmi létesítmények épületei, területei, valamint járművek tisztaságának, esztétikus állapotának, továbbá az utasok komfortérzetét megalapozó kiegészítő szolgáltatások biztosítása és járművek esetében – ha a járművön található – WC, kézmosó, légkondicionáló működtetése, valamint ezek igénybevehetőségének biztosítása.
+
+(2) A közszolgáltató kötelezettsége gondoskodni a megfelelő statikus vagy dinamikus utastájékoztatásról, mely során lehetővé kell tenni az utazási lehetőségekről való előzetes informálódást az állomásokon, megállóhelyeken, interneten, telefonos applikáción, valamint a járműveken egyaránt.
