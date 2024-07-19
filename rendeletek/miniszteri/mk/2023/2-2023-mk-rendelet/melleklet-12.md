@@ -1,3 +1,3 @@
-12. melléklet a 2/2023. (II. 3.) MK rendelethez[^6]
+12. melléklet a 2/2023. (II. 3.) MK rendelethez[^7]
 
-[^6]: A 12. mellékletet a 21/2023. (VIII. 24.) MK rendelet 2. § (1) bekezdés b) pontja iktatta be, a 6/2024. (VI. 20.) MK rendelet 1. § b) pontja hatályon kívül helyezte.
+[^7]: A 12. mellékletet a 21/2023. (VIII. 24.) MK rendelet 2. § (1) bekezdés b) pontja iktatta be, a 6/2024. (VI. 20.) MK rendelet 1. § b) pontja hatályon kívül helyezte.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-2-20-7G
 | 2023-02-05 | 2023-2-20-7G.2 | 2010. évi CXXX. törvény |
 | 2023-08-25 | 2023-2-20-7G.3 | 21/2023. (VIII. 24.) MK rendelet |
 | 2024-06-21 | 2023-2-20-7G.4 | 21/2023. (VIII. 24.) MK rendelet |
+| 2024-07-19 | 2023-2-20-7G.5 | 24/2024. (VII. 18.) NGM rendelet |
