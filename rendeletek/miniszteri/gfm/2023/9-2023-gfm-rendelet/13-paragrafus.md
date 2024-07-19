@@ -2,8 +2,10 @@
 
 (2) Évente legfeljebb tizenöt Érdemérem adományozható a minisztérium kormányzati szolgálati jogviszonyban, valamint munkaviszonyban álló munkatársai részére.
 
-(3) Az Érdemérem díszdobozban elhelyezett, ezüstből készült, „proof” kivitelű, átmérője 42,5 mm, vastagsága 3 mm. Előlapján a Parlament kupolájának képe és a „Magyar Prosperitásért” felirat látható. Hátoldalán Magyarország címere helyezkedik el, amelyet a „GAZDASÁGFEJLESZTÉSI MINISZTER” felirat övez.
+(3)[^11] Az Érdemérem díszdobozban elhelyezett, ezüstből készült, „proof” kivitelű, átmérője 42,5 mm, vastagsága 3 mm. Előlapján a Parlament kupolájának képe és a „Magyar Prosperitásért” felirat látható. Hátoldalán Magyarország címere helyezkedik el, amelyet a „NEMZETGAZDASÁGI MINISZTER” felirat övez.
 
 (4) Az Érdemérem adományozására a március 15-i és az október 23-i nemzeti ünnep alkalmából kerül sor.
 
 (5) Az Érdeméremhez legfeljebb nettó 1 000 000 forint összegű pénzjutalom adható.
+
+[^11]: A 13. § (3) bekezdése a 24/2024. (VII. 18.) NGM rendelet 5. § e) pontja szerint módosított szöveg.
