@@ -1,1 +1,1 @@
-50. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 80. § (2a) bekezdésében a „80/C. §-ban” szövegrész helyébe a „80/C. és 80/D. §-ban” szöveg lép.
+### 50. §
