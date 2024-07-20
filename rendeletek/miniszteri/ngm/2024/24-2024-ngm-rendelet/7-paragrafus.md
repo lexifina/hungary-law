@@ -1,1 +1,3 @@
-7. § Hatályát veszti a Miniszterelnöki Kabinetirodát vezető miniszter által adományozható elismerésekről szóló 2/2023. (II. 3.) MK rendelet VI. Fejezete.
+7. §[^7]
+
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
