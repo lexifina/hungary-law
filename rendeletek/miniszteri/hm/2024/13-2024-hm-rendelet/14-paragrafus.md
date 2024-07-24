@@ -1,0 +1,1 @@
+14. § Ha az önkéntes tartalékos a 13. § (1) bekezdése szerinti szerződésmódosítással történő áthelyezése esetén a döntésre jogosult elöljáró megváltozik, a szerződés módosítása során az egyes honvédelmi szervezeteket a döntésre jogosult elöljárók együttesen képviselik.

@@ -1,0 +1,1 @@
+36. § A 35. § (1) bekezdése szerinti alapszolgálatmentesség fel nem használt részét legkésőbb a tárgyévet követő év január 31-ig ki kell venni. A tárgyévet követő év január 31-ig ki nem adott és ki nem vett alapszolgálatmentesség ezt követően ki nem vehető, ki nem adható és pénzben nem megváltható.
