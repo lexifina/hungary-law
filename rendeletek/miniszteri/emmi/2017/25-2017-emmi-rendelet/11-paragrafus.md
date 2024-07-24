@@ -1,4 +1,4 @@
-11. § (1)[^21]
+11. § (1)[^23]
 
 (2) A képzésszervező
 
@@ -48,4 +48,4 @@ g) a képzési, valamint a vizsgadíjat és
 
 h) a képzési és vizsgaszabályzatot.
 
-[^21]: A 11. § (1) bekezdését a 80/2022. (XII. 30.) BM rendelet 47. §-a hatályon kívül helyezte.
+[^23]: A 11. § (1) bekezdését a 80/2022. (XII. 30.) BM rendelet 47. §-a hatályon kívül helyezte.

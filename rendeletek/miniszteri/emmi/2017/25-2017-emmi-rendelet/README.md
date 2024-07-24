@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-25-20-5
 | 2022-12-28 | 2017-25-20-5H.7 | 52/2022. (XII. 27.) BM rendelet |
 | 2023-01-01 | 2017-25-20-5H.8 | 80/2022. (XII. 30.) BM rendelet |
 | 2023-08-04 | 2017-25-20-5H.9 | 27/2023. (VIII. 3.) BM rendelet |
+| 2024-07-24 | 2017-25-20-5H.10 | 30/2024. (VII. 23.) BM rendelet |
