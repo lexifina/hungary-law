@@ -12,9 +12,9 @@ c) írásbeli
 
 vizsgafeladatokból áll.
 
-(3) A képző a záróvizsgát a képzés utolsó napját követő 60 napon belül köteles megszervezni. A záróvizsga időpontjáról a képző legalább 30 nappal korábban írásban tájékoztatja a képzésben részt vevő személyt.
+(3)[^5] A képző a záróvizsgát a képzés utolsó napját követő 60 napon belül köteles előkészíteni. A záróvizsga időpontjáról a képző legalább 30 nappal korábban írásban tájékoztatja a képzésben részt vevő személyt.
 
-(4) A képző az NSZI-nek
+(4)[^6] A képző az NSZI-nek mint vizsgaszervezőnek
 
 a) annak megkezdése előtt legalább 30 nappal írásban bejelenti a záróvizsgát,
 
@@ -28,4 +28,8 @@ b) megküldi a képzési programban meghatározott záróvizsgára bocsátás fe
 
 (8) Ha a képzési program előírja, a képzésben részt vevő személy szakmai dolgozatot készít, és azt a záróvizsgán megvédi.
 
-(9) A vizsgacsoport létszáma minimum 8 fő, maximum 30 fő.
+(9)[^7] A vizsgacsoport létszáma minimum 8 fő, maximum 30 fő. A vizsgázói létszámoktól indokolt esetben az NSZI eltérést engedélyezhet.
+
+[^5]: Az 5. § (3) bekezdése a 30/2024. (VII. 23.) BM rendelet 34. § a) pontja szerint módosított szöveg.
+[^6]: Az 5. § (4) bekezdés nyitó szövegrésze a 30/2024. (VII. 23.) BM rendelet 34. § b) pontja szerint módosított szöveg.
+[^7]: Az 5. § (9) bekezdése a 30/2024. (VII. 23.) BM rendelet 33. §-ával megállapított szöveg.
