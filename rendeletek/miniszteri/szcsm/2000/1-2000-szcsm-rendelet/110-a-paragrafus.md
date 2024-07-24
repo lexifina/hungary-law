@@ -1,4 +1,4 @@
-## 8. CÍM[^380]
+## 8. CÍM[^382]
 
 ## TÁMOGATOTT LAKHATÁS
 
@@ -12,4 +12,4 @@ c) az egyén meglévő képességeire építve, a lakhatás és a mindennapi él
 
 (2) A támogatott lakhatás – az engedélyezett férőhelyszámon felül – biztosíthatja az ellátást igénybevevőről gondoskodó szülő, egyéb hozzátartozó, illetve az ellátást igénybevevő kiskorú gyermekének elhelyezését. Az elhelyezés alapfeladatot meghaladó szolgáltatásnak minősül.
 
-[^380]: A 8. címet (110/A–110/I. §) az 55/2013. (VII. 29.) EMMI rendelet 10. §-a iktatta be.
+[^382]: A 8. címet (110/A–110/I. §) az 55/2013. (VII. 29.) EMMI rendelet 10. §-a iktatta be.

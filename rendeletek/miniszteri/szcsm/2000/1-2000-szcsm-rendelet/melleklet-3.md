@@ -328,8 +328,8 @@
 
 |  | segítő | 2 fő |
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^465]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^468]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimum előírásai
 
-[^465]: A 3. számú melléklet a 80/2022. (XII. 30.) BM rendelet 16. §-ával megállapított, a 27/2023. (VIII. 3.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^468]: A 3. számú melléklet a 80/2022. (XII. 30.) BM rendelet 16. §-ával megállapított, a 27/2023. (VIII. 3.) BM rendelet 7. § c) pontja, a 30/2024. (VII. 23.) BM rendelet 21. § d)–l) pontja szerint módosított szöveg. [Ez utóbbi módosító rendelet 21. § g) pontjával elrendelt módosítás, amely szerint a 3. számú mellékletben foglalt táblázat B:8 mező terápiás munkatárs sorában a „pedagógiai munkatárs (gyógypedagógiai asszisztens)” szövegrész helyébe a „pedagógiai munkatárs (gyógypedagógiai asszisztens), pedagógiai munkatárs (pedagógiai asszisztens), pedagógiai asszisztens” szöveg lép, nem vezethető át.]

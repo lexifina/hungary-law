@@ -162,6 +162,6 @@
 
 ## Szükség esetén a bentlakásos szociális intézménybe történő beköltözés segítése
 
-6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^468]
+6. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^471]
 
-[^468]: A 6. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § g) pontja hatályon kívül helyezte.
+[^471]: A 6. számú mellékletet a 4/2020. (II. 6.) EMMI rendelet 16. § g) pontja hatályon kívül helyezte.

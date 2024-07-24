@@ -1,7 +1,7 @@
-39/D. §[^177] (1)[^178] Támogató szolgáltatásban alkalmazott személynek a foglalkoztatás kezdő időpontjától számított négy hónapon belül – az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló rendelet szerinti szervnél – be kell jelentkeznie támogató szolgálati képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül el kell végeznie.
+39/D. §[^179] (1)[^180] Támogató szolgáltatásban alkalmazott személynek a foglalkoztatás kezdő időpontjától számított négy hónapon belül – az egyes szociális szolgáltatásokat végzők képzéséről és vizsgakövetelményeiről szóló rendelet szerinti szervnél – be kell jelentkeznie támogató szolgálati képzésre, és azt a foglalkoztatás kezdő időpontjától számított két éven belül el kell végeznie.
 
-(2)[^179]
+(2)[^181]
 
-[^177]: A 39/D. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
-[^178]: A 39/D. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 14. §-ával megállapított, a 7/2018. (II. 5.) EMMI rendelet 18. § h) pontja szerint módosított szöveg.
-[^179]: A 39/D. § (2) bekezdését a 2/2015. (I. 14.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.
+[^179]: A 39/D. §-t a 6/2003. (II. 26.) ESZCSM rendelet 3. §-a iktatta a szövegbe.
+[^180]: A 39/D. § (1) bekezdése a 35/2009. (XII. 30.) SZMM rendelet 14. §-ával megállapított, a 7/2018. (II. 5.) EMMI rendelet 18. § h) pontja szerint módosított szöveg.
+[^181]: A 39/D. § (2) bekezdését a 2/2015. (I. 14.) EMMI rendelet 14. § a) pontja hatályon kívül helyezte.

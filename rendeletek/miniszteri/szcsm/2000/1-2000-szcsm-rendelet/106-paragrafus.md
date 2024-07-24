@@ -1,4 +1,4 @@
-106. §[^366] (1) A hajléktalan személyek átmeneti szállása a szociális munka keretében
+106. §[^368] (1) A hajléktalan személyek átmeneti szállása a szociális munka keretében
 
 a) tanácsadás,
 
@@ -14,4 +14,4 @@ szolgáltatási elemeket szükség szerint biztosít.
 
 (2) A hajléktalan személyek átmeneti szállása segíti a más szolgáltatásokhoz való hozzáférést.
 
-[^366]: A 106. § a 4/2020. (II. 6.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^368]: A 106. § a 4/2020. (II. 6.) EMMI rendelet 8. §-ával megállapított szöveg.

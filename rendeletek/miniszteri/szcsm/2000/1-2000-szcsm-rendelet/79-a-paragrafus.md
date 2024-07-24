@@ -1,3 +1,3 @@
-79/A. §[^295]
+79/A. §[^297] A pszichiátriai betegek, illetve a szenvedélybetegek részére nappali ellátást nyújtó intézménynek rendelkeznie kell a területileg illetékes pszichiátriai vagy addiktológiai gondozóval kötött együttműködési megállapodással.
 
-[^295]: A 79/A. §-t a 4/2004. (I. 28.) ESZCSM rendelet 17. §-a iktatta be, az 1/2017. (II. 14.) EMMI rendelet 59. § i) pontja hatályon kívül helyezte.
+[^297]: A 79/A. §-t újonnan a 30/2024. (VII. 23.) BM rendelet 18. §-a iktatta be.

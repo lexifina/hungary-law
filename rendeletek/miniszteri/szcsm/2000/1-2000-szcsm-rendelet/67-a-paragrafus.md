@@ -1,4 +1,4 @@
-67/A. §[^282] (1) A szakápolási központ tárgyi feltételeit és szakápolási tevékenységeit a 7. számú melléklet határozza meg.
+67/A. §[^284] (1) A szakápolási központ tárgyi feltételeit és szakápolási tevékenységeit a 7. számú melléklet határozza meg.
 
 (2) A szakápolási központban végzett szakápolást az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló 60/2003. (X. 20.) ESZCSM rendelet 4. melléklet A) Az ápolási dokumentáció tartalmi elemeinek kötelező minimuma a fekvőbeteg-szakellátást nyújtó egészségügyi intézményekben része szerint kell dokumentálni.
 
@@ -8,4 +8,4 @@
 
 (5) A szakápolási központra az (1)–(4) bekezdés szerinti eltérésekkel az idősek otthonára vonatkozó szabályokat kell alkalmazni.
 
-[^282]: A 67/A. §-t a 7/2018. (II. 5.) EMMI rendelet 12. §-a iktatta be.
+[^284]: A 67/A. §-t a 7/2018. (II. 5.) EMMI rendelet 12. §-a iktatta be.

@@ -1,8 +1,8 @@
 ## A támogatott lakhatás tárgyi követelményei
 
-110/E. §[^396] (1)[^397] Támogatott lakhatás kialakítására az a lakás alkalmas, amely
+110/E. §[^399] (1)[^400] Támogatott lakhatás kialakítására az a lakás alkalmas, amely
 
-a)[^398] – az (1a)–(1b) bekezdésben foglaltak kivételével – 12 négyzetmétert meghaladó alapterületű lakószobával, főzőhelyiséggel (ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel), fürdőhelyiséggel és WC-vel,
+a)[^401] – az (1a)–(1b) bekezdésben foglaltak kivételével – 12 négyzetmétert meghaladó alapterületű lakószobával, főzőhelyiséggel (ennek hiányában további, legalább 4 négyzetméter alapterületű, a főzést lehetővé tevő, önálló szellőzésű lakótérrel, térbővülettel), fürdőhelyiséggel és WC-vel,
 
 b) közművesítettséggel (legalább villany- és vízellátással),
 
@@ -12,23 +12,23 @@ d) egyedi fűtési móddal
 
 rendelkezik.
 
-(1a)[^399] Ha egy lakószobában egy személy kerül elhelyezésre, a lakószoba alapterületének el kell érnie a 8 négyzetmétert.
+(1a)[^402] Ha egy lakószobában egy személy kerül elhelyezésre, a lakószoba alapterületének el kell érnie a 8 négyzetmétert.
 
-(1b)[^400] Támogatott lakhatást igénybe vevő személy gyermekének együttes elhelyezése esetén a gyermekre egyéves kor felett további kettő, hat éves kor felett további négy, tizenkét éves kor felett további hat négyzetméter alapterületet kell biztosítani.
+(1b)[^403] Támogatott lakhatást igénybe vevő személy gyermekének együttes elhelyezése esetén a gyermekre egyéves kor felett további kettő, hat éves kor felett további négy, tizenkét éves kor felett további hat négyzetméter alapterületet kell biztosítani.
 
-(1c)[^401] Az Szt. 75. § (5) bekezdés c) pontja szerinti esetben a lakások úgy is kialakíthatóak, hogy két lakáshoz tartozik egy közös főzőhelyiség, fürdőhelyiség és WC.
+(1c)[^404] Az Szt. 75. § (5) bekezdés c) pontja szerinti esetben a lakások úgy is kialakíthatóak, hogy két lakáshoz tartozik egy közös főzőhelyiség, fürdőhelyiség és WC.
 
 (2) A támogatott lakhatást biztosító ingatlanok esetében az igénybevevő fogyatékossági típusának megfelelő speciális szükségletekhez igazodva kell biztosítani az akadálymentes használatot. Az igénybevevő állapotának változása esetén a változáshoz igazodó akadálymentesítésről is gondoskodni kell.
 
-(3)[^402] Az Szt. 75. § (5) bekezdés a) és b) pontja szerinti esetben egy lakószobában, az Szt. 75. § (5) bekezdés c) pontja szerinti esetben egy lakásban legfeljebb két személy, valamint – az (1b) bekezdésben foglaltak figyelembevételével – a támogatott lakhatást igénybe vevő személy gyermeke helyezhető el.
+(3)[^405] Az Szt. 75. § (5) bekezdés a) és b) pontja szerinti esetben egy lakószobában, az Szt. 75. § (5) bekezdés c) pontja szerinti esetben egy lakásban legfeljebb két személy, valamint – az (1b) bekezdésben foglaltak figyelembevételével – a támogatott lakhatást igénybe vevő személy gyermeke helyezhető el.
 
-(4)[^403] A közművesítettség szempontjából az (1) bekezdésnek megfelelő az a lakás is, amely a környezettudatosság és a fenntarthatóság érdekében alternatív módszerekkel (pl. napelem, geotermikus energia) biztosítja a villany- és vízellátást.
+(4)[^406] A közművesítettség szempontjából az (1) bekezdésnek megfelelő az a lakás is, amely a környezettudatosság és a fenntarthatóság érdekében alternatív módszerekkel (pl. napelem, geotermikus energia) biztosítja a villany- és vízellátást.
 
-[^396]: A 110/E. § a 2/2015. (I. 14.) EMMI rendelet 10. §-ával megállapított szöveg.
-[^397]: A 110/E. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^398]: A 110/E. § (1) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § k) pontja szerint módosított szöveg.
-[^399]: A 110/E. § (1a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
-[^400]: A 110/E. § (1b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
-[^401]: A 110/E. § (1c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
-[^402]: A 110/E. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be, szövege a 62/2021. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^403]: A 110/E. § (4) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be.
+[^399]: A 110/E. § a 2/2015. (I. 14.) EMMI rendelet 10. §-ával megállapított szöveg.
+[^400]: A 110/E. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^401]: A 110/E. § (1) bekezdés a) pontja a 4/2020. (II. 6.) EMMI rendelet 15. § k) pontja szerint módosított szöveg.
+[^402]: A 110/E. § (1a) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^403]: A 110/E. § (1b) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^404]: A 110/E. § (1c) bekezdését a 4/2020. (II. 6.) EMMI rendelet 12. §-a iktatta be.
+[^405]: A 110/E. § (3) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be, szövege a 62/2021. (XII. 29.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^406]: A 110/E. § (4) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 26. § (2) bekezdése iktatta be.
