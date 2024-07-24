@@ -1,19 +1,14 @@
 ## Nyilvántartás
 
-155. § (1)[^587] A szakszolgálat az otthont nyújtó ellátást biztosító értesítése alapján nyilvántartást vezet
+155. § (1)[^617]
 
-a)[^588] az otthont nyújtó ellátásban, átmeneti gondozásban, utógondozói ellátásban, meghosszabbított utógondozói ellátásban részesülő gyermekek, fiatal felnőttek gondozási napjainak számáról,
+(2)[^618]
 
-b) az üres férőhelyekről, elkülönítve egymástól az ideiglenes gondozási feladatokat ellátó nevelőszülőnél, illetve gyermekotthonban rendelkezésre álló üres férőhelyeket.
+(3)[^619] A szakszolgálat megszervezi a hivatali időn túl működő ügyeleti szolgálat működését.
 
-(2)[^589] A szakszolgálat nyilvántartást vezet a gyermekvédelmi gyámi, eseti gondnoki feladatok ellátására kirendelhető személyekről és működési területükről.
+(4)[^620] Az ügyelet ad felvilágosítást az üres férőhelyekről, valamint az ideiglenes (átmeneti) gondozási feladatokat is ellátó nevelőszülőről és gyermekotthonról a Gyvt. 135. § (3a) bekezdés f)–g) pontja szerint vezetett nyilvántartások alapján.
 
-(3)[^590] A szakszolgálat megszervezi a hivatali időn túl működő ügyeleti szolgálat működését.
-
-(4)[^591] Az ügyelet ad felvilágosítást az üres férőhelyekről, valamint az ideiglenes (átmeneti) gondozási feladatokat is ellátó nevelőszülőről és gyermekotthonról.
-
-[^587]: A 155. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (1) bekezdésével megállapított szöveg.
-[^588]: A 155. § (1) bekezdés a) pontja a 2/2018. (I. 18.) EMMI rendelet 30. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^589]: A 155. § (2) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (1) bekezdésével megállapított, a 26/2013. (III. 29.) EMMI rendelet 37. § 33. pontja szerint módosított szöveg.
-[^590]: A 155. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
-[^591]: A 155. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (2) bekezdése.
+[^617]: A 155. § (1) bekezdését a 30/2024. (VII. 23.) BM rendelet 17. § 18. pontja hatályon kívül helyezte.
+[^618]: A 155. § (2) bekezdését a 30/2024. (VII. 23.) BM rendelet 17. § 18. pontja hatályon kívül helyezte.
+[^619]: A 155. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (4) bekezdésre változtatva.
+[^620]: A 155. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 92. § (2) bekezdése. A 155. § (4) bekezdése a 30/2024. (VII. 23.) BM rendelet 14. §-ával megállapított szöveg.

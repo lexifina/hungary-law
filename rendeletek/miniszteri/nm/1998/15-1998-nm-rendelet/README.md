@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-15-20-3
 | 2023-01-01 | 1998-15-20-3D.65 | 45/2022. (XII. 20.) BM rendelet |
 | 2023-08-04 | 1998-15-20-3D.67 | 27/2023. (VIII. 3.) BM rendelet |
 | 2023-09-06 | 1998-15-20-3D.68 | 36/2023. (IX. 5.) BM rendelet |
+| 2024-07-24 | 1998-15-20-3D.69 | 30/2024. (VII. 23.) BM rendelet |
