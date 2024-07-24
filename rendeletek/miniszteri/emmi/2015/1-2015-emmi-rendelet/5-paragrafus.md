@@ -44,4 +44,6 @@ p) a sportolásra, szabadidős tevékenységre
 
 vonatkozó előírásokat.
 
-(2) A házirendet a közösségi helyiségekben és a lakóegységekben mindenki által látható helyen ki kell függeszteni. A házirendet a fiatalkorúnak – kérésére – egy példányban rendelkezésre kell bocsátani. E jogáról a fiatalkorút a házirendről szóló tájékoztatással egyidejűleg tájékoztatni kell.
+(2)[^5] A házirendet a közösségi helyiségekben és a lakóegységekben mindenki által látható helyre ki kell helyezni. A házirendet a fiatalkorúnak – kérésére – egy példányban rendelkezésre kell bocsátani. E jogáról a fiatalkorút a házirendről szóló tájékoztatással egyidejűleg tájékoztatni kell.
+
+[^5]: Az 5. § (2) bekezdése a 30/2024. (VII. 23.) BM rendelet 27. § a) pontja szerint módosított szöveg.

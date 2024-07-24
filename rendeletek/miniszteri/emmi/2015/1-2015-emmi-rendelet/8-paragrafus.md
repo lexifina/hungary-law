@@ -4,9 +4,9 @@
 
 (2) A feladatellátás érdekében a javítóintézetben további munkakörök is létesíthetők. Az egyes munkakörök ellátásához szükséges képesítési előírásokat a 2. melléklet tartalmazza.
 
-(2a)[^5] A 2. melléklet szerinti munkaköröket a (2b) és (2c) bekezdésben foglaltaknak megfelelően kell szakmacsoport szerint besorolni.
+(2a)[^6] A 2. melléklet szerinti munkaköröket a (2b) és (2c) bekezdésben foglaltaknak megfelelően kell szakmacsoport szerint besorolni.
 
-(2b)[^6] A Szociális, gyermekjóléti és gyermekvédelmi szolgáltatás, ellátás vezető szakmacsoportba tartozó munkakörök:
+(2b)[^7] A Szociális, gyermekjóléti és gyermekvédelmi szolgáltatás, ellátás vezető szakmacsoportba tartozó munkakörök:
 
 a) intézményvezető,
 
@@ -18,7 +18,7 @@ d) szervezeti egység vezetője,
 
 e) javítóintézeti otthonvezető.
 
-(2c)[^7] A 2. melléklet szerinti nem vezetői munkakörök közül
+(2c)[^8] A 2. melléklet szerinti nem vezetői munkakörök közül
 
 a) a Gyermekvédelmi gondozás, nevelés, fejlesztés szakmacsoportba tartozó munkakörök:
 
@@ -54,6 +54,6 @@ cd) utógondozó.
 
 (3) A rendész a javítóintézet igazgatója által meghatározottak szerint részt vesz a javítóintézetben alkalmazott rendészek kiegészítő képzéséről és vizsgáztatásáról szóló 59/2014. (XII. 8.) BM rendeletben meghatározott kiegészítő képzésen.
 
-[^5]: A 8. § (2a) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.
-[^6]: A 8. § (2b) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.
-[^7]: A 8. § (2c) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.
+[^6]: A 8. § (2a) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.
+[^7]: A 8. § (2b) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.
+[^8]: A 8. § (2c) bekezdését a 6/2020. (III. 6.) Korm. rendelet 9. §-a iktatta be.

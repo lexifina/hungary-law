@@ -10,6 +10,6 @@
 
 (5) Az igazgató az elhelyezést megszünteti, ha a fiatalkorú magatartása és az elhangzott vélemények alapján úgy ítéli meg, hogy a javítóintézeti nevelés szigorúbb végrehajtására már nincs szükség.
 
-(6)[^40] A zárt jellegű intézeti részleg rendjét a házirend határozza meg. A zárt jellegű intézeti részlegben történő elhelyezés időtartamát rögzíteni kell a javítóintézeti informatikai rendszerben.
+(6)[^41] A zárt jellegű intézeti részleg rendjét a házirend határozza meg. A zárt jellegű intézeti részlegben történő elhelyezés időtartamát rögzíteni kell a javítóintézeti informatikai rendszerben.
 
-[^40]: A 44. § (6) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
+[^41]: A 44. § (6) bekezdése a 34/2020. (X. 2.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.

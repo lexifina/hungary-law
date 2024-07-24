@@ -44,8 +44,8 @@
 
 | Rendész | 1 fő/intézmény |
 
-2. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^72]
+2. melléklet az 1/2015. (I. 14.) EMMI rendelethez[^73]
 
 Képesítési előírások
 
-[^72]: A 2. melléklet a 27/2023. (VIII. 3.) BM rendelet 12. §-a szerint módosított szöveg.
+[^73]: A 2. melléklet a 27/2023. (VIII. 3.) BM rendelet 12. §-a, a 30/2024. (VII. 23.) BM rendelet 27. § d) pontja szerint módosított szöveg.
