@@ -4,6 +4,6 @@
 
 (3) A támogatást nyújtó és a kedvezményezett a támogatással kapcsolatos iratokat a támogatás odaítélésétől számított tíz évig megőrzi.
 
-(4)[^113] A válságközlemény 92. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
+(4)[^114] A válságközlemény 92. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
 
-[^113]: A 40. § (4) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § j) pontja, a 26/2023. (IX. 21.) MK rendelet 10. § f) pontja szerint módosított szöveg.
+[^114]: A 40. § (4) bekezdése a 20/2022. (XII. 27.) MK rendelet 12. § j) pontja, a 26/2023. (IX. 21.) MK rendelet 10. § f) pontja szerint módosított szöveg.

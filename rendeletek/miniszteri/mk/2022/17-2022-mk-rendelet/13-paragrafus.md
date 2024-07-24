@@ -1,4 +1,4 @@
-## 7.[^85] A regionális beruházási támogatás
+## 7.[^86] A regionális beruházási támogatás
 
 13. § (1) A regionális beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás olyan induló beruházásnak minősüljön, amelyet az Atr. 25. § (1) bekezdése szerinti területeken kis- és középvállalkozás vagy nagyvállalkozás valósít meg.
 
@@ -24,4 +24,4 @@ d) az a)–c) pontok közül több pont együttes megvalósulása esetén a legk
 
 azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
 
-[^85]: A 7. alcím (13-13/D. §) a 30/2023. (XII. 27.) MK rendelet 4. §-ával megállapított szöveg.
+[^86]: A 7. alcím (13-13/D. §) a 30/2023. (XII. 27.) MK rendelet 4. §-ával megállapított szöveg.

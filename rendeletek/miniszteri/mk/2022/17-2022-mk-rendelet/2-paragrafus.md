@@ -4,7 +4,7 @@
 
 (2)[^2] Az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) 107. cikk (1) bekezdése szerinti állami támogatások esetében az 1. mellékletben foglalt táblázat
 
-1. 6., 8. és 12–16. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
+1.[^3] 6., 8.,12–16. és 18b. sora alapján az (EU) 2023/2831 bizottsági rendelet szerinti csekély összegű támogatás;
 
 2. 6., 13. és 19. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás;
 
@@ -32,9 +32,10 @@
 
 nyújtható.
 
-(3)[^3]
+(3)[^4]
 
 (4) A miniszter felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító és Fordításhitelesítő Iroda Zártkörűen Működő Részvénytársaság végzi.
 
 [^2]: A 2. § (2) bekezdése a 4/2024. (VI. 14.) MK rendelet 1. §-ával megállapított szöveg.
-[^3]: A 2. § (3) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § b) pontja hatályon kívül helyezte.
+[^3]: A 2. § (2) bekezdés 1. pontja a 8/2024. (VII. 23.) MK rendelet 3. §-a szerint módosított szöveg.
+[^4]: A 2. § (3) bekezdését a 26/2023. (IX. 21.) MK rendelet 11. § b) pontja hatályon kívül helyezte.

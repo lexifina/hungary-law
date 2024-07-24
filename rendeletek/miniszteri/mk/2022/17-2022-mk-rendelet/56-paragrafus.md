@@ -1,4 +1,4 @@
-56. §[^133] E rendelet
+56. §[^136] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet,
 
@@ -12,4 +12,4 @@ e) az SA.103089 (2022/N) számú, valamint az azt módosító európai bizottsá
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^133]: Az 56. § a 4/2024. (VI. 14.) MK rendelet 11. §-ával megállapított szöveg.
+[^136]: Az 56. § a 4/2024. (VI. 14.) MK rendelet 11. §-ával megállapított szöveg.
