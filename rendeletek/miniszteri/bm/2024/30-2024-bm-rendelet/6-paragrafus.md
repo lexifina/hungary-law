@@ -1,0 +1,3 @@
+6. § Az Nmr. 97. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A szakszolgálat olyan nevelőszülőnél történő elhelyezésre tehet a gyámhivatalnak javaslatot, akivel a nevelőszülői hálózat a Gyvt. 66/B. § (1) bekezdése szerinti keretmegállapodást kötött, és akinek adatai a Gyvt. 98. §-a szerinti szolgáltatói nyilvántartásba bejegyzésre kerültek. A gyámhivatal elhelyezési döntését és a beutaló szerv ideiglenes hatályú elhelyezésről szóló döntését követően a nevelőszülői hálózat haladéktalanul a nevelőszülői foglalkoztatási jogviszony és a helyettes szülői jogviszony egyes kérdéseiről szóló kormányrendelet szerinti tartalommal kiegészítő megállapodást köt a nevelőszülővel.”
