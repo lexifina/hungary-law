@@ -14,17 +14,17 @@
 
 a) a munkaköréhez kapcsolódó területen
 
-aa) az Országos Képzési Jegyzékben szereplő szakképesítést vagy felsőfokú alapképzésben oklevelet szerez,
+aa)[^13] az Országos Képzési Jegyzékben, szakmajegyzékben szereplő szakképesítést, felnőttképzés keretében szakképesítést vagy felsőfokú alapképzésben oklevelet szerez,
 
 ab) felsőfokú végzettség esetén kiegészítő alapképzésben vagy szakirányú továbbképzésben második vagy további oklevelet szerez,
 
 ac) tudományos fokozatot szerez;
 
-ad)[^13] vezetői munkakörben dolgozik, és a foglalkoztató intézmény vezetőjének engedélyével a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet (a továbbiakban: Vkr.) szerinti vezetőképzés alapozó képzésének keretében annak sikeres elvégzéséről tanúsítványt szerez, ideértve a Vkr. 1. § (1) bekezdése szerinti személyeken túl a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény vezetőjének helyettesét, gazdasági vezetőjét, vezető szakápolóját, valamint az integrált és a közös igazgatású intézmény önálló szervezeti egységének vezetőhelyettesét is;
+ad)[^14] vezetői munkakörben dolgozik, és a foglalkoztató intézmény vezetőjének engedélyével a vezetői megbízással rendelkező szociális szolgáltatást nyújtó személyek vezetőképzéséről szóló 25/2017. (X. 18.) EMMI rendelet (a továbbiakban: Vkr.) szerinti vezetőképzés alapozó képzésének keretében annak sikeres elvégzéséről tanúsítványt szerez, ideértve a Vkr. 1. § (1) bekezdése szerinti személyeken túl a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény vezetőjének helyettesét, gazdasági vezetőjét, vezető szakápolóját, valamint az integrált és a közös igazgatású intézmény önálló szervezeti egységének vezetőhelyettesét is;
 
-b)[^14] pedagógus-munkakörben történő foglalkoztatás esetén pedagógus szakvizsgát tesz.
+b)[^15] pedagógus-munkakörben történő foglalkoztatás esetén pedagógus szakvizsgát tesz.
 
-(7)[^15] Azon személyek számára, akik az előírt továbbképzési időszak vége előtt teljesítették a továbbképzési kötelezettségüket, az új továbbképzési időszak csak az előírt továbbképzési időszak letelte után indul.
+(7)[^16] Azon személyek számára, akik az előírt továbbképzési időszak vége előtt teljesítették a továbbképzési kötelezettségüket, az új továbbképzési időszak csak az előírt továbbképzési időszak letelte után indul.
 
 [^7]: A 2. § (1) bekezdése a 7/2018. (II. 5.) EMMI rendelet 25. §-ával megállapított szöveg.
 [^8]: A 2. § (2) bekezdése a 41/2012. (XI. 28.) EMMI rendelet 13. § c) pontja, a 83/2013. (XII. 29.) EMMI rendelet 28. §-a, a 25/2017. (X. 18.) EMMI rendelet 23. § (18) bekezdés a) pontja szerint módosított szöveg.
@@ -32,6 +32,7 @@ b)[^14] pedagógus-munkakörben történő foglalkoztatás esetén pedagógus sz
 [^10]: A 2. § (3) bekezdése a 25/2017. (X. 18.) EMMI rendelet 23. § (3) bekezdésével megállapított szöveg.
 [^11]: A 2. § (4) bekezdése a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^12]: A 2. § (5) bekezdése a 7/2018. (II. 5.) EMMI rendelet 39. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^13]: A 2. § (6) bekezdés a) pont ad) alpontját a 2/2021. (I. 18.) EMMI rendelet 6. §-a iktatta be.
-[^14]: A 2. § (6) bekezdés b) pontja a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^15]: A 2. § (7) bekezdését a 7/2018. (II. 5.) EMMI rendelet 26. §-a iktatta be.
+[^13]: A 2. § (6) bekezdés a) pont aa) alpontja a 30/2024. (VII. 23.) BM rendelet 23. §-ával megállapított szöveg.
+[^14]: A 2. § (6) bekezdés a) pont ad) alpontját a 2/2021. (I. 18.) EMMI rendelet 6. §-a iktatta be.
+[^15]: A 2. § (6) bekezdés b) pontja a 7/2018. (II. 5.) EMMI rendelet 40. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^16]: A 2. § (7) bekezdését a 7/2018. (II. 5.) EMMI rendelet 26. §-a iktatta be.
