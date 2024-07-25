@@ -1,1 +1,3 @@
-3. § A Rendelet 2. § (2) bekezdés 1. pontjában az „és 12–16. sora” szövegrész helyébe a „ ,12–16. és 18b. sora” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
