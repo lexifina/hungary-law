@@ -1,3 +1,3 @@
-19. § Az SZCSM rendelet 110/B. §-a a következő (1c) bekezdéssel egészül ki:
+19. §[^19]
 
-„(1c) Az intézményvezető a szükségletfelmérés elvégzését követő 15 napon belül átadja a komplex szükségletfelmérés dokumentációjának egy példányát az igénybevevő vagy törvényes képviselője részére.”
+[^19]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

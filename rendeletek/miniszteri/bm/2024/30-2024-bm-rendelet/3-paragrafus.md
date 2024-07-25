@@ -1,5 +1,3 @@
-3. § Az Nmr. 22. §-a a következő (7) és (8) bekezdéssel egészül ki:
+3. §[^3]
 
-„(7) Ha a bíróság által elrendelt, az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás igénybevételével megvalósuló kapcsolattartáson a kapcsolattartásra kötelezett vagy jogosult személy legalább hat hónapon keresztül nem jelenik meg, és elmaradását nem menti ki, a szolgáltatás nyújtását a család- és gyermekjóléti központ vezetője felfüggesztheti arra az időszakra, amíg a kapcsolattartásra kötelezett vagy jogosult személy ismételten nem kezdeményezi az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás biztosítását. A felfüggesztésről a család- és gyermekjóléti központ értesíti a bíróságot, a gyámhatóságot, valamint a kapcsolattartásra kötelezett és jogosult személyt.
-
-(8) Ha a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal a Gyvt. 39/A. § (4) bekezdése alapján az (1) bekezdés a) és b) pontja szerinti szolgáltatást biztosító család- és gyermekjóléti központot kizárta, az (1) bekezdés a) és b) pontja szerinti szolgáltatást a fővárosi és vármegyei kormányhivatal által újonnan kijelölt család- és gyermekjóléti központ nyújtja.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. § Az Nmr. 109. § (1) bekezdése a következő c) ponttal egészül ki:
+9. §[^9]
 
-(A gyermekotthon megszakítás nélküli munkarend szerint működő, bentlakásos gyermekintézmény, amely)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-26. §[^5]
+26. §[^27]
 
-[^5]: A 26. § a 35. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^27]: A 26. § a 35. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.

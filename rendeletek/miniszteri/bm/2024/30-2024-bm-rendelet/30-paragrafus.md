@@ -1,1 +1,3 @@
-30. § Az R1. 10/B. § (1) bekezdésében az „a Slachta Margit Nemzeti Szociálpolitikai Intézet (a továbbiakban: NSZI)” szövegrész helyébe az „az NSZI” szöveg lép.
+30. §[^31]
+
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

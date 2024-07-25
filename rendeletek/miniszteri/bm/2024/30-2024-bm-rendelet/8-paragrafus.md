@@ -1,3 +1,3 @@
-8. § Az Nmr. 106. § (3) bekezdése helyébe a következő rendelkezés lép:
+8. §[^8]
 
-„(3) A Gyvt. 66/D. § (1) bekezdés d) pontjában foglalt esetben a nevelőszülői hálózat a jogviszony megszűnéséről írásban értesíti a nevelőszülőt és – ha nem a szakszolgálat biztosítja a nevelőszülői ellátást – a szakszolgálatot, amely a változást a GYVR gondozási helyek férőhely-nyilvántartási alrendszerében feltünteti.”
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

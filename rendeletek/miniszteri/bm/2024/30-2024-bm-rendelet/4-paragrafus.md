@@ -1,3 +1,3 @@
-4. § Az Nmr. II. Fejezet 4. Címe a következő 58/A. §-sal egészül ki:
+4. §[^4]
 
-„58/A. § A gyermekek átmeneti gondozása során a szolgáltatásnyújtásnak a miniszter által jóváhagyott és a Szociális Ágazati Portálon közzétett szakmai módszereit alkalmazva kell eljárni.”
+[^4]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

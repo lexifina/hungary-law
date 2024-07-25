@@ -1,9 +1,3 @@
-22. § Hatályát veszti az SZCSM rendelet
+22. §[^23]
 
-a) 1. § (2) bekezdés második mondata,
-
-b) 39/E. §-a,
-
-c) 39/M. §-a,
-
-d) 110/B. § (3) bekezdés a) pontja.
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

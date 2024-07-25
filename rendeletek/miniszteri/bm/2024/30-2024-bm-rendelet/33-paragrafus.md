@@ -1,3 +1,3 @@
-33. § Az R2. 5. § (9) bekezdése helyébe a következő rendelkezés lép:
+33. §[^34]
 
-„(9) A vizsgacsoport létszáma minimum 8 fő, maximum 30 fő. A vizsgázói létszámoktól indokolt esetben az NSZI eltérést engedélyezhet.”
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

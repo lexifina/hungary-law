@@ -1,3 +1,3 @@
-12. § Az Nmr. 129/A. §-a a következő (1a) bekezdéssel egészül ki:
+12. §[^12]
 
-„(1a) Az (1) bekezdés szerinti részvizsgálatok elvégzésétől akkor lehet eltekinteni, ha hat hónapnál nem régebbi vizsgálati eredmény áll rendelkezésre.”
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

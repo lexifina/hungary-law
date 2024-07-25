@@ -1,5 +1,3 @@
-## „h) arra a személyre, aki felsőoktatási intézmény képzési rendszerében teljesítette a szociális vezetőképzési modulokat.”
+29. §[^30]
 
-29. § Az R1. 1. §-a a következő (5) bekezdéssel egészül ki:
-
-„(5) A (2) bekezdés h) pontja szerinti esetben a szociális vezetőképzési modulok teljesítésének elismerése és a szociális vezetőképzési tanúsítvány kiállítása a Slachta Margit Nemzeti Szociálpolitikai Intézettől (a továbbiakban: NSZI) kérhető.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
