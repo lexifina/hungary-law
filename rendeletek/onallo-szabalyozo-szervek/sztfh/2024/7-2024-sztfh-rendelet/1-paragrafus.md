@@ -1,0 +1,3 @@
+1. § (1) A Szabályozott Tevékenységek Felügyeleti Hatósága mint a kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény (a továbbiakban: Kibertan.tv.) 22. § (1) bekezdése szerinti kiberbiztonsági felügyeletet ellátó hatóság (a továbbiakban: felügyeleti hatóság) kiberbiztonsági felügyeleti tevékenysége keretében végzi a kiberbiztonsági audit végrehajtására jogosult gazdálkodó szervezet (a továbbiakban: auditor) vonatkozásában a Kibertan.tv. 23. § (6) bekezdése szerinti nyilvántartás (a továbbiakban: nyilvántartás) vezetését.
+
+(2) A felügyeleti hatóság eljárása a felügyeleti hatóság által e célra rendszeresített elektronikus űrlapon kezdeményezhető.
