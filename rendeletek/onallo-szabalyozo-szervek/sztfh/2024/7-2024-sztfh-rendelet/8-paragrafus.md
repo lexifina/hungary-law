@@ -1,1 +1,3 @@
-8. § A Szabályozott Tevékenységek Felügyeleti Hatósága kiberbiztonsági feladataival összefüggő eljárásainak igazgatási szolgáltatási díjairól szóló 15/2023. (VII. 31.) SZTFH rendelet 1. melléklete helyébe az 1. melléklet lép.
+8. §[^2]
+
+[^2]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
