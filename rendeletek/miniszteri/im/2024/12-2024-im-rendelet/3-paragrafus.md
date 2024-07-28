@@ -1,1 +1,3 @@
-3. § Az R1. 7. § (1) bekezdésében az „érvényesíteni” szövegrész helyébe a „bejelenteni” szöveg lép.
+3. §[^3]
+
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
