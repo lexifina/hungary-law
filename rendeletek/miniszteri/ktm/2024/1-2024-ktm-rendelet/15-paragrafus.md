@@ -1,7 +1,12 @@
-15. § (1) Az újrazáradékolásra benyújtott vázrajzok vizsgálatáért a vizsgálati díj 50%-át kell megfizetni.
+15. § (1)[^20] Egy vagy több földrészletet érintő, egymással összefüggő jog bejegyzéséhez vagy tény feljegyzéséhez készített változási vázrajz vizsgálatáért az első földrészlet után 1500 forint, minden további földrészlet után 500 forint összegű igazgatási szolgáltatási díjat kell fizetni.
 
-(2) Közigazgatási és fekvéshatárok módosítása esetén – a földrészletek számától függetlenül – a vizsgálati díj 2500 forint.
+(2)[^21] Közigazgatási és fekvéshatárok módosítása esetén – a földrészletek számától függetlenül – a vizsgálati díj 4000 forint.
 
-(3) Termőföld más célú hasznosításával összefüggő megvalósulási munkarészek vagy több földrészletet érintő, de egybefüggő ültetvények művelési ágának változásához készített változási vázrajz vizsgálati díját a 14. § szerint kell megfizetni.
+(3)[^22]
 
-(4) Használati megosztási vázrajz vizsgálati díja 2000 forint.
+(4)[^23] Használati megosztási és a földrészlethatár-kitűzési vázrajz vizsgálati díja 3200 forint.
+
+[^20]: A 15. § (1) bekezdése a 6/2024. (VI. 28.) KTM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^21]: A 15. § (2) bekezdése a 6/2024. (VI. 28.) KTM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^22]: A 15. § (3) bekezdését a 6/2024. (VI. 28.) KTM rendelet 17. § b) pontja hatályon kívül helyezte.
+[^23]: A 15. § (4) bekezdése a 6/2024. (VI. 28.) KTM rendelet 8. § (2) bekezdésével megállapított szöveg.

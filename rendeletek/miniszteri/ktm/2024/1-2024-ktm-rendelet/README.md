@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1-20-9D
 | --- | --- | --- |
 | 2024-03-01 | 2024-1-20-9D.1 | 1/2024. (I. 30.) KTM rendelet |
 | 2024-03-02 | 2024-1-20-9D.2 | 2010. évi CXXX. törvény |
+| 2024-07-29 | 2024-1-20-9D.6 | 6/2024. (VI. 28.) KTM rendelet |

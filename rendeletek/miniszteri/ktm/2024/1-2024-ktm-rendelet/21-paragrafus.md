@@ -1,9 +1,14 @@
 21. § (1) A tulajdoni lap tartalmából szolgáltatható egyes ingatlan-nyilvántartási adatokért az alábbi adatszolgáltatási díjat kell fizetni:
 
-a) a földkönyv vagy földkönyvkivonat esetében 150 forintot ingatlanonként,
+a)[^33] a földkönyv vagy földkönyvkivonat esetében 240 forintot ingatlanonként,
 
-b) a tulajdonosi adatokkal kiegészített földkönyv vagy földkönyvkivonat esetében 200 forintot ingatlanonként,
+b)[^34] a tulajdonosi adatokkal kiegészített földkönyv vagy földkönyvkivonat esetében 320 forintot ingatlanonként,
 
-c) a területi összesítő esetében településenként 2000 forintot.
+c)[^35] a területi összesítő esetében településenként 3200 forintot.
 
-(2) Az adózás rendjéről szóló 2017. évi CL. törvény 83. § (2) bekezdésében meghatározott, a számítógépes adatbázisból lekérdezés útján történő adatszolgáltatásért – az évenkénti egy alkalommal történő díjmentes adatszolgáltatást követően – ingatlanonként az (1) bekezdés b) pontjában meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(2)[^36]
+
+[^33]: A 21. § (1) bekezdés a) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
+[^34]: A 21. § (1) bekezdés b) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
+[^35]: A 21. § (1) bekezdés c) pontja a 6/2024. (VI. 28.) KTM rendelet 12. §-ával megállapított szöveg.
+[^36]: A 21. § (2) bekezdését a 6/2024. (VI. 28.) KTM rendelet 17. § c) pontja hatályon kívül helyezte.

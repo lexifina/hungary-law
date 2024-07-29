@@ -1,8 +1,10 @@
-2. § (1) Ha e rendelet másként nem rendelkezik a (4), (5) és (8) bekezdésben foglalt díj – és amennyiben az eljáró hatóság a kormányhivatal, a (13) bekezdés szerinti díj – az eljáró ingatlanügyi hatóságnál
+2. § (1)[^1] Ha e rendelet másként nem rendelkezik, a (4), (5) és (8) bekezdésben foglalt díj – és amennyiben az eljáró hatóság a kormányhivatal, a (13) bekezdés szerinti díj – az eljáró ingatlanügyi hatóságnál
 
-a) a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy bankkártyával vagy
+a) a kérelem, megkeresés előterjesztésével egyidejűleg a pénztárába történő készpénzbefizetéssel vagy bankkártyával,
 
-b) az ingatlanügyi hatóság 2. melléklet szerinti előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással
+b) a c) pontban meghatározottak kivételével az ingatlanügyi hatóság 2. melléklet szerinti előirányzat-felhasználási keretszámlája javára történő készpénz-átutalási megbízással, illetve átutalási megbízással vagy
+
+c) az elektronikus ingatlan-nyilvántartási rendszerben történő adatszolgáltatás és hatósági eljárás esetén a 4. mellékletet szerinti előirányzat-felhasználási keretszámlája javára készpénzzel, bankkártyával, illetve átutalási megbízással
 
 teljesíthető.
 
@@ -10,7 +12,7 @@ teljesíthető.
 
 (3) A (6), (7) és (9)–(12) bekezdés szerinti díjat – és amennyiben az eljáró hatóság a földmérési és térinformatikai államigazgatási szerv, a (13) bekezdés szerinti díjat – a 3. melléklet szerinti számlaszámra kell befizetni. Átutalási megbízás esetén a megjegyzés rovatban fel kell tüntetni az ügyazonosítót vagy az iktatószámot.
 
-(4) A (10) bekezdésben foglaltak kivételével – automatikus döntéshozatal esetén – az 1. § (1) bekezdés a), b) és d) pontja szerinti eljárásokért fizetendő igazgatási szolgáltatási díj 90%-a az érintett ingatlan fekvése szerinti fővárosi vagy vármegyei kormányhivatalt, 10%-a a földmérési és térinformatikai államigazgatási szervet illeti, minden más esetben 90% az eljáró fővárosi vagy vármegyei kormányhivatalt, 10% a földmérési és térinformatikai államigazgatási szervet illeti.
+(4)[^2] A (10) bekezdésben foglaltak kivételével az 1. § (1) bekezdés a), b) és d) pontja szerinti eljárásokért fizetendő igazgatási szolgáltatási díj 90%-a automatikus döntéshozatal esetén az érintett ingatlan fekvése szerinti fővárosi vagy vármegyei kormányhivatalt, 10%-a a földmérési és térinformatikai államigazgatási szervet illeti, minden más esetben 90% az eljáró fővárosi vagy vármegyei kormányhivatalt, 10% a földmérési és térinformatikai államigazgatási szervet illeti.
 
 (5) A 20. § (1) bekezdésében meghatározott, papíralapú hiteles tulajdonilap-másolatért fizetendő igazgatási szolgáltatási díjból 45% az adatszolgáltató kormányhivatalt, 45% azon fővárosi vagy vármegyei kormányhivatalt, amelynek általános illetékességi területén az adatszolgáltatással érintett ingatlan fekszik, 10% a földmérési és térinformatikai államigazgatási szervet illeti.
 
@@ -22,7 +24,7 @@ teljesíthető.
 
 (9) A (7) bekezdésben foglaltak kivételével az 1. § (1) bekezdés e) pontjában és a 21. §-ban meghatározott adatszolgáltatási díj – amennyiben az adatszolgáltató a földmérési és térinformatikai államigazgatási szerv – a földmérési és térinformatikai államigazgatási szervet illeti meg.
 
-(10) A 7. § (7) bekezdésében, valamint a 20. § (4) és (5) bekezdésében meghatározott díj a földmérési és térinformatikai államigazgatási szervet illeti meg.
+(10)[^3] A 7. § (7) bekezdésében, valamint a 20. § (5) bekezdésében meghatározott díj a földmérési és térinformatikai államigazgatási szervet illeti meg.
 
 (11) Az 1. melléklet 9. és 10. pontjában foglalt táblázat szerinti adatfelhasználási díj a földmérési és térinformatikai államigazgatási szervet illeti meg.
 
@@ -35,3 +37,10 @@ teljesíthető.
 (15) Az előző hónapban beérkezett díjbevételek a (4)–(8) bekezdésben megjelölt szervek részére minden hónap 10. és 25. napján kerülnek átutalásra az általuk megjelölt számlaszámára.
 
 (16) Az 1. § szerinti eljárások és adatszolgáltatások teljesítésére a (15) bekezdés szerinti intézkedés vagy annak bármely okból történő elmaradása nincs kihatással.
+
+(17)[^4] Az e rendelet szerinti díjak megfizetéséről az a hatóság állítja ki a számviteli bizonylatot, amely számlájára a befizetés történik.
+
+[^1]: A 2. § (1) bekezdése a 6/2024. (VI. 28.) KTM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (4) bekezdése a 6/2024. (VI. 28.) KTM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: A 2. § (10) bekezdése a 6/2024. (VI. 28.) KTM rendelet 17. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (17) bekezdését a 6/2024. (VI. 28.) KTM rendelet 1. § (3) bekezdése iktatta be.

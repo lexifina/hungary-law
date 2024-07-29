@@ -1,3 +1,3 @@
-27. §[^2]
+27. §[^45]
 
-[^2]: A 27. § a 25. § (3) bekezdés alapján 2024. december 4-én lép hatályba.
+[^45]: A 27. § a 6/2024. (VI. 28.) KTM rendelet 18. §-a alapján nem lép hatályba.

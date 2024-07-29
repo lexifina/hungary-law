@@ -1,1 +1,3 @@
-16. § Egy vagy több földrészletet érintő, egymással összefüggő jog bejegyzéséhez vagy tény feljegyzéséhez készített változási vázrajz vizsgálatáért az első földrészlet után 500 forint, minden további földrészlet után 150 forint összegű igazgatási szolgáltatási díjat kell fizetni.
+16. §[^24] Az újrazáradékolásra benyújtott vázrajzok vizsgálatáért a vizsgálati díj 50%-át kell megfizetni.
+
+[^24]: A 16. § a 6/2024. (VI. 28.) KTM rendelet 9. §-ával megállapított szöveg.

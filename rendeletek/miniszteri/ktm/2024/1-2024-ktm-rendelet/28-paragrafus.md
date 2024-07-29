@@ -1,11 +1,11 @@
 28. § Hatályát veszti
 
-a)[^3]
+a)[^46]
 
-b)[^4]
+b)[^47]
 
-c)[^5]
+c)[^48]
 
-[^3]: A 28. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 28. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 28. § c) pontja a 25. § (3) bekezdés alapján 2024. december 4-én lép hatályba.
+[^46]: A 28. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^47]: A 28. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 28. § c) pontja a 6/2024. (VI. 28.) KTM rendelet 18. §-a alapján nem lép hatályba.

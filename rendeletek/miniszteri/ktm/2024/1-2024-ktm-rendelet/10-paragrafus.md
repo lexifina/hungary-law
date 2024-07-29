@@ -2,13 +2,13 @@
 
 10. § (1) A telekalakítás engedélyezésére irányuló eljárás díja
 
-a) 2–5 érintett földrészlet esetén földrészletenként 12 000 forint,
+a)[^11] 2–5 érintett földrészlet esetén földrészletenként 19 000 forint,
 
-b) 6–15 érintett földrészlet esetén 60 000 forint, és a hatodik földrészlettől földrészletenként további 10 000 forint,
+b)[^12] 6–15 érintett földrészlet esetén 96 000 forint, és a hatodik földrészlettől földrészletenként további 16 000 forint,
 
-c) 16–25 érintett földrészlet esetén 160 000 forint, és a tizenhatodik földrészlettől földrészletenként további 1000 forint,
+c)[^13] 16–25 érintett földrészlet esetén 256 000 forint, és a tizenhatodik földrészlettől földrészletenként további 1600 forint,
 
-d) 26 vagy több érintett földrészlet esetén 170 000 forint, és a huszonhatodik földrészlettől földrészletenként további 500 forint.
+d)[^14] 26 vagy több érintett földrészlet esetén 272 000 forint, és a huszonhatodik földrészlettől földrészletenként további 800 forint.
 
 (2) A díj a telekalakítási dokumentáció részét képező változási vázrajz vizsgálatának díját és a telekalakítással bekövetkező változásnak az ingatlan-nyilvántartásban történő bejegyzésére irányuló eljárás díját nem tartalmazza.
 
@@ -19,3 +19,8 @@ a) telekegyesítés, telekhatár-rendezés esetén a változás előtti állapot
 b) telekfelosztás, telekcsoport újraosztása esetén a változás utáni földrészletek számát
 
 kell figyelembe venni.
+
+[^11]: A 10. § (1) bekezdés a) pontja a 6/2024. (VI. 28.) KTM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 10. § (1) bekezdés b) pontja a 6/2024. (VI. 28.) KTM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 10. § (1) bekezdés c) pontja a 6/2024. (VI. 28.) KTM rendelet 4. §-ával megállapított szöveg.
+[^14]: A 10. § (1) bekezdés d) pontja a 6/2024. (VI. 28.) KTM rendelet 4. §-ával megállapított szöveg.
