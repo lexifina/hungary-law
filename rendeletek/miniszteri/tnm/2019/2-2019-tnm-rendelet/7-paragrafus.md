@@ -10,4 +10,7 @@
 
 (5) A támogatás halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha a halmozás következtében az odaítélt támogatások nem lépik túl a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
+(6)[^17] Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az (EU) 2023/2831 bizottsági rendelet 4. cikk (6) bekezdés a) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak, vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely a B hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+
 [^16]: A 7. § a 3/2024. (III. 28.) TNM rendelet 2. §-ával megállapított szöveg.
+[^17]: A 7. § (6) bekezdését az 5/2024. (VII. 29.) TNM rendelet 1. §-a iktatta be.

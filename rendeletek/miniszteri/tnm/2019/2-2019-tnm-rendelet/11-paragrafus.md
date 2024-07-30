@@ -1,3 +1,3 @@
-11. §[^20] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási támogatás esetén a támogatás összege a 9. § (2) és (3) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
+11. §[^24] A 2,2 millió eurónak megfelelő forintösszeget meg nem haladó beruházási vagy működési támogatás esetén a támogatás összege a 9. § (2) és (3) bekezdésében, valamint a 10. § (2) és (3) bekezdésében meghatározott módszerek alkalmazásától eltérően is meghatározható, azzal, hogy a támogatási intenzitás nem haladhatja meg az elszámolható költségek 80%-át.
 
-[^20]: A 11. § az 1/2024. (I. 30.) TNM rendelet 5. §-ával megállapított szöveg.
+[^24]: A 11. § az 1/2024. (I. 30.) TNM rendelet 5. §-ával megállapított, az 5/2024. (VII. 29.) TNM rendelet 4. § b) pontja szerint módosított szöveg.
