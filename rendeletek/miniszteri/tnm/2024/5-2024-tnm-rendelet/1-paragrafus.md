@@ -1,0 +1,3 @@
+1. § A nemzetiségi és egyházi célú fejezeti kezelésű előirányzatok kezeléséről és felhasználásáról szóló 2/2019. (III. 19.) TNM rendelet (a továbbiakban: R.) 7. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az (EU) 2023/2831 bizottsági rendelet 4. cikk (6) bekezdés a) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak, vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely a B hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.”
