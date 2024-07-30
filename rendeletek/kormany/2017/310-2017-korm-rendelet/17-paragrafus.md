@@ -1,3 +1,3 @@
-17. §[^38]
+17. §[^39]
 
-[^38]: A 17. §-t a 601/2022. (XII. 28.) Korm. rendelet 27. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^39]: A 17. §-t a 601/2022. (XII. 28.) Korm. rendelet 27. § (4) bekezdés b) pontja hatályon kívül helyezte.

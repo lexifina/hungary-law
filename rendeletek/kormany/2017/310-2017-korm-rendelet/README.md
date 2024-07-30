@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-310-20-
 | 2023-04-27 | 2017-310-20-22.20 | 139/2023. (IV. 24.) Korm. rendelet |
 | 2023-07-01 | 2017-310-20-22.21 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2024-01-01 | 2017-310-20-22.22 | 560/2023. (XII. 14.) Korm. rendelet |
+| 2024-07-30 | 2017-310-20-22.23 | 389/2024. (XII. 11.) Korm. rendelet |
