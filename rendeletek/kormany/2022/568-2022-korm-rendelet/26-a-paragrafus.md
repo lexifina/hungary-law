@@ -1,4 +1,4 @@
-## 14/a.[^7] A személyügyi központ által szervezett, önkéntesen igénybe vehető képzések
+## 14/a.[^8] A személyügyi központ által szervezett, önkéntesen igénybe vehető képzések
 
 26/A. § (1) A személyügyi központ önkéntesen igénybe vehető képzést, továbbképzést szervezhet.
 
@@ -8,4 +8,4 @@
 
 (4) Az (1) bekezdés szerinti képzést, továbbképzést a személyügyi központ által felkért, illetve megbízott szervezet biztosítja.
 
-[^7]: A 14/a. alcímet (26/A. §-t) a 29/2024. (II. 22.) Korm. rendelet 5. §-a iktatta be.
+[^8]: A 14/a. alcímet (26/A. §-t) a 29/2024. (II. 22.) Korm. rendelet 5. §-a iktatta be.
