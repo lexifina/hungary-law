@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-499-20-
 | 2022-01-02 | 2021-499-20-22.2 | 2010: CXXX. törvény |
 | 2022-07-05 | 2021-499-20-22.3 | 243/2022. (VII. 4.) Korm. rendelet |
 | 2023-04-25 | 2021-499-20-22.4 | 140/2023. (IV. 24.) Korm. rendelet |
+| 2024-07-30 | 2021-499-20-22.5 | 200/2024. (VII. 29.) Korm. rendelet |
