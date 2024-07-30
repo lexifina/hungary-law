@@ -1,0 +1,3 @@
+1. § A pályahálózat-működtető függetlenségi feltételeiről szóló 11/2019. (V. 29.) ITM rendelet [a továbbiakban: 11/2019. (V. 29.) ITM rendelet] 13. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Vertikálisan integrált vállalkozások esetében a vállalkozó vasúti társaság vagy a vertikálisan integrált vállalkozáshoz tartozó más jogi személy sem közvetlenül, sem a Ptk. 8:2. § (4) bekezdése szerinti közvetett befolyás útján nem jogosult az alapvető feladatokat ellátó munkavállaló megválasztására, visszahívására, munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létrehozásának és megszüntetésének kezdeményezésére.”

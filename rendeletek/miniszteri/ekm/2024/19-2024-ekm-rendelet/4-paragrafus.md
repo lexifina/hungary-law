@@ -1,0 +1,1 @@
+4. § Ez a rendelet a 2012/34/EU európai parlamenti és tanácsi irányelvnek a belföldi vasúti személyszállítási szolgáltatások piacának megnyitása és a vasúti infrastruktúra irányítása tekintetében történő módosításáról szóló, 2016. december 14-i (EU) 2016/2370 európai parlamenti és tanácsi irányelv 1. cikk 5. pontjának való megfelelést szolgálja.
