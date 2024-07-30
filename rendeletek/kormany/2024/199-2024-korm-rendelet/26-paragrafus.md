@@ -1,0 +1,1 @@
+26. § Az Ábtv. 43. § (4) bekezdésétől eltérően az Országos Statisztikai Adatfelvételi Program kötelező adatszolgáltatásairól szóló 388/2017. (XII. 13.) Korm. rendeletben előírt statisztikai adatszolgáltatási kötelezettséget a nemzetbiztonsági célú magasépítési beruházás tekintetében a Szolgálatok tekintetében polgári nemzetbiztonsági szolgálatonként összevontan kell teljesíteni.

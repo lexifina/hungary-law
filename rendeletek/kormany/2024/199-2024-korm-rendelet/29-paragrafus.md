@@ -1,0 +1,3 @@
+## 4. Adat- és minősített adatvédelmi szabályok
+
+29. § Az állami beruházásokért felelős miniszter a Szolgálatok e rendelet hatálya alá tartozó beruházásaival kapcsolatos adatairól – az Ábtv.-ben előírt adatszolgáltatási kötelezettségtől eltérően – az államháztartásért felelős miniszteren és a fejezetet irányító szerv erre feljogosított munkatársain kívül egyéb szervnek, személynek adatot nem szolgáltathat. A beruházások állapotáról – az államháztartásért felelős miniszter és a fejezetet irányító szerv kivételével – kizárólag a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, illetve a polgári hírszerzési tevékenység irányításáért felelős miniszter engedélyével közölhető adat.

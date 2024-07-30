@@ -1,0 +1,1 @@
+6. § A nemzetbiztonsági célú beruházásokat az Ábtv. 1. § (2) bekezdés a) pontja szerinti állami építési beruházási keretprogramon belül elkülönítve, a minősített adat védelméről szóló 2009. évi CLV. törvény rendelkezéseire figyelemmel kell nyilvántartani.

@@ -1,0 +1,1 @@
+7. § Az Ábtv. 9. § (1) bekezdése szerinti szakpolitikai-ágazati beruházási koncepció, ágazati beruházási terv és az Ábtv. 10. § (1) bekezdés a) pontja szerinti keretprogram a Szolgálatok tekintetében polgári nemzetbiztonsági szolgálatonként összevontan, azonos részletezettségben tartalmazza a beruházásokkal kapcsolatos információkat.
