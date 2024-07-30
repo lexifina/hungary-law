@@ -1,3 +1,3 @@
-4. § Az R. 10. § (1) bekezdés a)–d) pontja helyébe a következő rendelkezés lép:
+4. §[^5]
 
-(A telekalakítás engedélyezésére irányuló eljárás díja)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

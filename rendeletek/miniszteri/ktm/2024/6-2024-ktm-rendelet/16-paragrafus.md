@@ -1,1 +1,3 @@
-16. § Az R. 1. melléklete helyébe az 1. melléklet lép.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

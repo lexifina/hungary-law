@@ -1,3 +1,3 @@
-9. § Az R. 16. §-a helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„16. § Az újrazáradékolásra benyújtott vázrajzok vizsgálatáért a vizsgálati díj 50%-át kell megfizetni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

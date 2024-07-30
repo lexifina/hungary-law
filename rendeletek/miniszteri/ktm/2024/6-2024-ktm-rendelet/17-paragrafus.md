@@ -1,9 +1,3 @@
-17. § Hatályát veszti az R.
+17. §[^18]
 
-a) 2. § (10) bekezdésében a „(4) és” szövegrész,
-
-b) 15. § (3) bekezdése,
-
-c) 21. § (2) bekezdése,
-
-d) 25. § (3) bekezdése.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

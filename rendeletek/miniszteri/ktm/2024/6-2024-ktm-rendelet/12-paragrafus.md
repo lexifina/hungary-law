@@ -1,3 +1,3 @@
-12. § Az R. 21. § (1) bekezdés a)–c) pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(A tulajdoni lap tartalmából szolgáltatható egyes ingatlan-nyilvántartási adatokért az alábbi adatszolgáltatási díjat kell fizetni:)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
