@@ -4,7 +4,7 @@
 
 (2) Pályázat benyújtására és az ösztöndíjprogramban való részvételre az jogosult, aki
 
-a)[^1] a pályázat benyújtásának időpontjában tizennyolcadik életévét betöltötte,
+a)[^2] a pályázat benyújtásának időpontjában tizennyolcadik életévét betöltötte,
 
 b) büntetlen előéletű,
 
@@ -18,4 +18,4 @@ f) magas szintű angol nyelvtudással vagy a célország nyelvének legalább t�
 
 g) megfelel a pályázati felhívásban meghatározott egyéb feltételeknek.
 
-[^1]: A 6. § (2) bekezdés a) pontja a 443/2023. (IX. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^2]: A 6. § (2) bekezdés a) pontja a 443/2023. (IX. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
