@@ -8,12 +8,12 @@
 
 (3) A közigazgatási szerv köteles a kormánytisztviselőnek, köztisztviselőnek biztosítani a éves továbbképzési tervvel összhangban a továbbképzésben való részvétel feltételeit.
 
-(4)[^84] A továbbképzési tervek tartalmazzák a tanulmányi kötelezettség teljesítésének alapjául szolgáló közszolgálati és belső továbbképzési programokat.
+(4)[^85] A továbbképzési tervek tartalmazzák a tanulmányi kötelezettség teljesítésének alapjául szolgáló közszolgálati és belső továbbképzési programokat.
 
-(5)[^85] Az éves továbbképzési tervet a munkáltatói jogkör gyakorlója az év közben felmerülő továbbképzési igények alapján – a (6) bekezdésben foglaltak figyelembe vételével – módosíthatja. Az év közbeni módosítás során nincs lehetőség az intézmény éves tervének teljes körű, átfogó módosítására.
+(5)[^86] Az éves továbbképzési tervet a munkáltatói jogkör gyakorlója az év közben felmerülő továbbképzési igények alapján – a (6) bekezdésben foglaltak figyelembe vételével – módosíthatja. Az év közbeni módosítás során nincs lehetőség az intézmény éves tervének teljes körű, átfogó módosítására.
 
-(6)[^86] Az éves továbbképzési tervet az NKE által működtetett informatikai rendszer útján módosíthatja a munkáltatói jogkör gyakorlója.
+(6)[^87] Az éves továbbképzési tervet az NKE által működtetett informatikai rendszer útján módosíthatja a munkáltatói jogkör gyakorlója.
 
-[^84]: A 18. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^85]: A 18. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^86]: A 18. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2014. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^85]: A 18. § (4) bekezdése a 378/2014. (XII. 31.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^86]: A 18. § (5) bekezdése a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^87]: A 18. § (6) bekezdését a 298/2013. (VII. 29.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 378/2014. (XII. 31.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
