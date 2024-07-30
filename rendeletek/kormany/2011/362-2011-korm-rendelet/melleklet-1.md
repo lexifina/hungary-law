@@ -1,4 +1,4 @@
-1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^173]
+1. melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^174]
 
 IGAZOLÁS ADATTARTALMA
 
@@ -10,7 +10,7 @@ IGAZOLÁS ADATTARTALMA
 
 a) neve,
 
-b)[^174] Nkt.-ban, az Szkt.-ben, illetve az Nftv.-ben meghatározott azonosító száma,
+b)[^175] Nkt.-ban, az Szkt.-ben, illetve az Nftv.-ben meghatározott azonosító száma,
 
 c) születési helye és ideje,
 
@@ -64,7 +64,7 @@ cb) címe.
 
 8. Az igazolás kiállításának helye és ideje.
 
-9.[^175] Az intézmény igazgatójának vagy az általa megbízott személynek az aláírása.
+9.[^176] Az intézmény igazgatójának vagy az általa megbízott személynek az aláírása.
 
 10. Az intézmény bélyegzője.
 
@@ -72,6 +72,6 @@ cb) címe.
 
 * feladatellátási hely: az intézmény alapító okiratában szereplő, azon telephely címe, ahol a tanuló vagy hallgató oktatásban részesül. Ha a tanuló vagy hallgató több feladatellátási helyen veszi igénybe az oktatást, akkor azt a telephelyet kell megadni, ahol a legmagasabb óraszámban tanul.
 
-[^173]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg. [Az 1. melléklet b) pontjában a 191/2019. (VII. 30.) Korm. rendelet 20. § 2. pontjával elrendelt módosítás, amely szerint az „Nktv.” szövegrész helyébe „Nkt.” szöveg lép, nem vezethető át.]
-[^174]: Az 1. melléklet 3. pont b) alpontja a 13/2020. (II. 7.) Korm. rendelet 62. § 19. pontja szerint módosított szöveg.
-[^175]: Az 1. melléklet 9. pontja a 403/2023. (VIII. 30.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^174]: Az 1. melléklet a 442/2016. (XII. 16.) Korm. rendelet 14. §-ával megállapított szöveg. [Az 1. melléklet b) pontjában a 191/2019. (VII. 30.) Korm. rendelet 20. § 2. pontjával elrendelt módosítás, amely szerint az „Nktv.” szövegrész helyébe „Nkt.” szöveg lép, nem vezethető át.]
+[^175]: Az 1. melléklet 3. pont b) alpontja a 13/2020. (II. 7.) Korm. rendelet 62. § 19. pontja szerint módosított szöveg.
+[^176]: Az 1. melléklet 9. pontja a 403/2023. (VIII. 30.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-20. §[^100]
+20. §[^101]
 
-[^100]: A 20. §-t a 191/2019. (VII. 30.) Korm. rendelet 21. § 12. pontja hatályon kívül helyezte.
+[^101]: A 20. §-t a 191/2019. (VII. 30.) Korm. rendelet 21. § 12. pontja hatályon kívül helyezte.
