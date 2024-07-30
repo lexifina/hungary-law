@@ -38,7 +38,7 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 
 15. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-16. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
+16.[^1] egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk 2. pontja szerinti vállalkozás,
 
 17. töltőinfrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 102a. pontja szerinti infrastruktúra,
 
@@ -57,6 +57,8 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 24. finanszírozási hiány: a 651/2014/EU bizottsági rendelet 2. cikk 118. pontja szerinti hiány,
 
 25. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés,
+
+25a.[^2] halászati és akvakultúra-termékek: az 1379/2013/EU európai parlamenti és tanácsi rendelet I. mellékletében meghatározott termékek,
 
 26. helyi infrastruktúra: olyan infrastruktúra, amely helyi szinten járul hozzá az üzleti és fogyasztói környezet korszerűsítéséhez és ipari bázisok fejlesztéséhez,
 
@@ -169,3 +171,6 @@ c) a kérelmet benyújtó beruházó vagy a kérelmet benyújtó beruházóval e
 80. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány,
 
 81. versenyeztetéses ajánlattételi eljárás: a 651/2014/EU bizottsági rendelet 2. cikk 38. pontja szerinti eljárás.
+
+[^1]: A 2. § 16. pontja a 20/2024. (VII. 29.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § 25a. pontját a 20/2024. (VII. 29.) ÉKM rendelet 2. §-a iktatta be.

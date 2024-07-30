@@ -8,4 +8,6 @@
 
 (5) Ha az összeszámítási szabály figyelembevétele nélkül az adott beruházáshoz nyújtható állami támogatás jelenértéken kisebb, mint a (4) bekezdés szerint meghatározott támogatási összeg, akkor ez a kisebb összeg az odaítélhető állami támogatás felső korlátja. Ellenkező esetben állami támogatás a (4) bekezdésben meghatározott összegig nyújtható.
 
-(6) Annak kiszámításakor, hogy egy nagyberuházás elszámolható költsége eléri-e a jelenértéken ötvenmillió eurónak megfelelő forintösszeget, a beruházás elszámolható költségeibe tartozó tételek vagy a létrehozott új munkahelyek személyi jellegű ráfordításai közül a nagyobb értékűt kell elszámolható költségként figyelembe venni.
+(6)[^17]
+
+[^17]: A 15. § (6) bekezdését a 20/2024. (VII. 29.) ÉKM rendelet 17. § c) pontja hatályon kívül helyezte.

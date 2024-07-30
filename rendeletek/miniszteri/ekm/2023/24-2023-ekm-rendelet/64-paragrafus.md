@@ -1,10 +1,10 @@
-64. § Ez a rendelet
+64. §[^26] Ez a rendelet
 
-a) az EUMSz 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet,
 
-b) az EUMSz 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet,
+b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2832 bizottsági rendelet,
 
-c) az EUMSz 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat,
+c) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat,
 
 d) a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet,
 
@@ -15,3 +15,5 @@ f) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kate
 g) az Európai Bizottságnak a repülőtereknek és a légitársaságoknak nyújtott állami támogatásáról szóló közleménye (2014/C99/03)
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^26]: A 64. § a 20/2024. (VII. 29.) ÉKM rendelet 14. §-ával megállapított szöveg.

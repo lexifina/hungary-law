@@ -8,7 +8,7 @@
 
 (4) Nem nyújtható a közvetlen kibocsátások csökkentését vagy elkerülését célzó beruházáshoz támogatás, amennyiben a beruházás kizárólag a szén-dioxid-kibocsátás egyik ágazatból másikba való áthelyezését eredményezi.
 
-(5) Nem nyújtható a vállalkozásnak egy hatályos uniós szabványnak való megfelelést lehetővé tevő támogatás.
+(5)[^18] Nem nyújtható támogatás, ha a támogatott beruházást kizárólag azért hajtják végre, hogy a vállalkozás megfeleljen a hatályos uniós szabványoknak.
 
 (6) Támogatás nyújtható a beruházás teljes élettartama alatt megújuló hidrogént felhasználó berendezésekre és gépekre, valamint a hidrogént szállító infrastruktúrába történő beruházásokra.
 
@@ -31,3 +31,5 @@ c) már elfogadott, de még nem hatályos uniós szabványoknak való megfelelé
 a) a szén-dioxid-leválasztás, -szállítás – beleértve a teljes szén-dioxid-leválasztási és -tárolási vagy szén-dioxid-leválasztási és -hasznosítási lánc egyedi elemeit is – egy teljes szén-dioxid-leválasztási és -tárolási vagy szén-dioxid-leválasztási és -hasznosítási lánccá kerül egyesítésre, és
 
 b) a beruházás nettó jelenértéke a projekt teljes élettartama alatt negatív, amelynek kiszámítása során a szén-dioxid-kibocsátás fel nem merült költségeit is figyelembe kell venni.
+
+[^18]: A 26. § (5) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 9. §-ával megállapított szöveg.

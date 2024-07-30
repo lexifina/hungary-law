@@ -1,10 +1,10 @@
 39. § (1) A támogatás keretében a teljes beruházási költség számolható el, és támogatás nem függhet a termelés eredményétől.
 
-(2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek
+(2)[^21] A támogatási intenzitás nem haladhatja meg az elszámolható költségek
 
-a) 45%-át a megújulóenergia-termelésre irányuló beruházások esetében – ideértve a 38. § (3) bekezdés a) pontjában, a (4) bekezdésben, a (6) bekezdésben és a (10) bekezdésben foglalt eseteket, az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat, a megújuló hidrogént és a megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelést –,
+a) 45%-át a megújulóenergia-termelésre – ideértve az (EU) 2018/2001 irányelv VII. mellékletének megfelelő hőszivattyúkat –, megújuló energiaforrásokon alapuló nagy hatásfokú kapcsolt energiatermelésre és a megújuló hidrogén termelésre irányuló beruházások esetében,
 
-b) 30%-át minden egyéb esetben – ideértve a (3) bekezdés b) pontjában és a (8) bekezdésben foglalt esetet is.
+b) 30%-át minden egyéb esetben.
 
 (3) A támogatási intenzitás középvállalkozás esetén 10 százalékponttal, kisvállalkozás esetén 20 százalékponttal növelhető.
 
@@ -17,3 +17,5 @@ b) a támogatási program végrehajtása során valamennyi ajánlattevő támoga
 c) tilos bármely ajánlattételi eljárás eredményének utólagos kiigazítása, így különösen az ajánlatok eredményével kapcsolatos utólagos tárgyalás, és
 
 d) az ajánlatok rangsorolásához – és végső soron a támogatásnak a versenyeztetéses ajánlattételi eljárás keretében történő elosztásához – használt összes kiválasztási kritérium legalább 70%-át a megújuló energiaforrásból vagy nagy hatásfokú kapcsolt energiatermeléssel előállított energiakapacitás egy egysége után igényelt támogatás alapján határozzák meg,
+
+[^21]: A 39. § (2) bekezdése a 20/2024. (VII. 29.) ÉKM rendelet 10. §-ával megállapított szöveg.
