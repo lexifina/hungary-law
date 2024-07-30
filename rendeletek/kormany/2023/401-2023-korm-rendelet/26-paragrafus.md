@@ -14,7 +14,7 @@ d) a nevelési-oktatási intézményben pedagógus-munkakörben fennálló, hat�
 
 (4) Ha nincs a képzés szakirányának megfelelő mesterfokozatot adó tanárképzés, szakgimnáziumban igazgatói megbízás adható annak is, aki a képzés szakirányának megfelelő mesterképzésben szerzett szakképzettséggel rendelkezik.
 
-(5) Többcélú intézményben igazgatói megbízást az kaphat, aki bármelyik, az intézmény által ellátott feladatra létesíthető intézmény vezetői megbízásához szükséges feltételekkel rendelkezik. Ha a feltételek bármelyike mesterfokozatot ír elő, az igazgatói megbízáshoz mesterképzésben szerzett szakképzettség szükséges.
+(5)[^9] Többcélú intézményben főigazgatói megbízást az kaphat, aki bármelyik, az intézmény által ellátott feladatra létesíthető intézmény vezetői megbízásához szükséges feltételekkel rendelkezik. Ha a feltételek bármelyike mesterfokozatot ír elő, a főigazgatói megbízáshoz mesterképzésben szerzett szakképzettség szükséges.
 
 (6) Ha az igazgatói megbízásra irányuló pályázati eljárás azért nem vezetett eredményre, mert egyetlen pályázó sem rendelkezett pedagógus-szakvizsga keretében szerzett igazgatói szakképzettséggel, legfeljebb egyszer két évre szóló igazgatói megbízás adható annak a személynek is, aki az igazgatói megbízás többi feltételének megfelel, rendelkezik pedagógus-szakvizsgával, és megbízásával egyidejűleg vállalja az igazgatói szakképzettség megszerzését.
 
@@ -33,3 +33,5 @@ d) köznevelési intézményben a képzés szakirányának megfelelő művészet
 eltöltött idő is, ha a pályázó rendelkezik legalább három év, a 42. § (1) bekezdése szerinti szakmai gyakorlattal.
 
 (9) A (8) bekezdés szerinti szakmai gyakorlat időtartamába nem számít be a fizetés nélküli szabadság harminc napot meghaladó időtartama, továbbá a foglalkoztatási jogviszony azon időtartama, amikor a foglalkoztatás nem érte el a teljes munkaidő huszonöt százalékát.
+
+[^9]: A 26. § (5) bekezdése a 201/2024. (VII. 29.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.

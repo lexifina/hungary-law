@@ -1,1 +1,3 @@
-95/D. § A Púétv. 98. § (3) bekezdése alkalmazásakor a munkáltató a pedagógus havi illetményét a teljesítményértékelés eredményének figyelembevételével alacsonyabb összegben nem határozhatja meg.
+95/D. §[^46]
+
+[^46]: A 95/D. §-t a 201/2024. (VII. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.

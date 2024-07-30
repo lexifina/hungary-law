@@ -56,9 +56,9 @@
 
 rendelhető el.
 
-(2)[^2]
+(2)[^10]
 
-(3)[^3] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
+(3)[^11] Pedagógiai szakszolgálati intézményben a pedagógus számára a kötött munkaidőnek neveléssel-oktatással le nem kötött részében
 
 1. foglalkozások, vizsgálatok, szűrések, egyéb közvetlen foglalkozások előkészítése,
 
@@ -108,8 +108,8 @@ rendelhető el.
 
 (7) Az eseti helyettesítés óraszámát havi bontásban kell megállapítani és ellenőrizni.
 
-(8)[^4] A Púétv. 80. § (2) bekezdés e) pontja szerinti pedagógusjelölti mentorálásnak az egy félévben szervezett, legalább hathetes gyakorlat során igénybe vett szakvezetés minősül.
+(8)[^12] A Púétv. 80. § (2) bekezdés e) pontja szerinti pedagógusjelölti mentorálásnak az egy félévben szervezett, legalább hathetes gyakorlat során igénybe vett szakvezetés minősül.
 
-[^2]: A 28. § (2) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § a) pontja alapján nem lép hatályba.
-[^3]: A 28. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^4]: A 28. § (8) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
+[^10]: A 28. § (2) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 20. § a) pontja alapján nem lép hatályba.
+[^11]: A 28. § (3) bekezdése a 661/2023. (XII. 29.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^12]: A 28. § (8) bekezdését a 661/2023. (XII. 29.) Korm. rendelet 8. § (2) bekezdése iktatta be.
