@@ -8,7 +8,7 @@ b) az Szt. 20/B. §-a és a Gyvt. 141/A. §-a szerinti országos jelentési rend
 
 c) az Szt. 20. § (2a) bekezdése szerinti adatszolgáltatás rendszerét
 
-## [az a)–c) pont szerinti nyilvántartások és rendszerek a továbbiakban együtt: nyilvántartások].
+[az a)–c) pont szerinti nyilvántartások és rendszerek a továbbiakban együtt: nyilvántartások].
 
 (2)[^2]
 

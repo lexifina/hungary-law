@@ -8,7 +8,7 @@ b) gyermekek átmeneti gondozása esetén az intézményvezetőt,
 
 c) gyermekvédelmi szakellátások esetén az Ar. szerinti gondozási hely vezetőjét
 
-## adatszolgáltató munkatársnak kell kijelölni. Az igénybevevői nyilvántartásban szereplő adatok helyességének figyelemmel kísérése érdekében további adatszolgáltató munkatársak is kijelölhetők.
+adatszolgáltató munkatársnak kell kijelölni. Az igénybevevői nyilvántartásban szereplő adatok helyességének figyelemmel kísérése érdekében további adatszolgáltató munkatársak is kijelölhetők.
 
 (3)[^39] Az (1) bekezdés szerinti szolgáltatások esetén az e-képviselő és az adatszolgáltató munkatárs az igénybevevői nyilvántartásban közvetlenül nem rögzíthet vagy törölhet adatot, de folyamatosan figyelemmel kíséri a GYVR-ből az igénybevevői nyilvántartásba átkerülő adatok helyességét.
 

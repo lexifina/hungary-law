@@ -1,8 +1,6 @@
-## kell adatot szolgáltatni az igénybevevői nyilvántartásba.
-
 1. melléklet a 415/2015. (XII. 23.) Korm. rendelethez
 
-## Az országos jelentési rendszerbe bejelentendő adatok
+Az országos jelentési rendszerbe bejelentendő adatok
 
 1. Szociális szolgáltatások:
 

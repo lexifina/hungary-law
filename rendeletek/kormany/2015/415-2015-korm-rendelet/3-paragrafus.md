@@ -20,12 +20,12 @@ c) a családok átmeneti otthona titkos menedékházként működik.
 
 (3) Az adatszolgáltatási kötelezettség az (1) bekezdés szerinti engedélyesek által nyújtott valamennyi szolgáltatásra kiterjed az Szt. 20/C. § (2) bekezdésében és a Gyvt. 139. § (3) bekezdésében foglaltak kivételével.
 
-(3a)[^12] Ha a családi bölcsődére, munkahelyi bölcsődére az (1)–(3) bekezdés alapján nem terjed ki az adatszolgáltatási kötelezettség, de olyan gyermeket lát el, akinek törvényes képviselője a Gazdaságfejlesztési és Innovációs Operatív Program keretében a kisgyermeket nevelők munkaerő-piaci visszatérésének támogatására irányuló továbbadott térítésidíj-támogatásban részesül, e gyermekre adatot kell szolgáltatni az igénybevevői nyilvántartásba.
+(3a)[^12] Ha a családi bölcsődére, munkahelyi bölcsődére az (1)–(3) bekezdés alapján nem terjed ki az adatszolgáltatási kötelezettség, de olyan gyermeket lát el, akinek törvényes képviselője a Kincstár feladatellátásába tartozó egyes továbbadott támogatási programok keretében a kisgyermeket nevelők munkaerő-piaci visszatérésének támogatására irányuló továbbadott térítésidíj-támogatásban részesül, e gyermekre adatot kell szolgáltatni az igénybevevői nyilvántartásba.
 
 (4)[^13] Az adatszolgáltatás az igénybevevők Szt., illetve Gyvt. szerinti adatainak a 4–6. § szerinti rögzítéséből, a 7. § szerinti időszakos jelentésből és a szolgáltatás tartalmával kapcsolatos, 7/A. § szerinti adatszolgáltatásból áll.
 
 [^9]: A 3. § (1) bekezdés b) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés c) pontja a 448/2016. (XII. 19.) Korm. rendelet 62. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 3. § (1) bekezdés d) pontját a 448/2016. (XII. 19.) Korm. rendelet 59. §-a iktatta be, szövege a 226/2018. (XII. 4.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
-[^12]: A 3. § (3a) bekezdését a 322/2018. (XII. 28.) Korm. rendelet 16. §-a iktatta be.
+[^12]: A 3. § (3a) bekezdését a 322/2018. (XII. 28.) Korm. rendelet 16. §-a iktatta be, szövege a 202/2024. (VII. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^13]: A 3. § (4) bekezdése a 312/2019. (XII. 18.) Korm. rendelet 14. §-ával megállapított szöveg.

@@ -12,7 +12,7 @@ a) az áthelyezés időpontjának az Szt. 94/C. §-a szerinti megállapodás mó
 
 b)[^22]
 
-## kell tekinteni.
+kell tekinteni.
 
 (4)[^23] A (2) bekezdésben foglaltakat kell megfelelően alkalmazni akkor is, ha az igénybevevő az igénybevétel megszűnésének napjától ugyanazt a szolgáltatást vagy másik bentlakásos szociális intézményi ellátást másik engedélyestől veszi igénybe.
 

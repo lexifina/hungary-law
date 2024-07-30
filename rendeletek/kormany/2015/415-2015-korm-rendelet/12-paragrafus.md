@@ -10,7 +10,7 @@ c)[^55] az 1. melléklet 2.4. pontja szerinti adatok esetén havonta, a jelenté
 
 d)[^56] az a)–c) pontban nem említett esetben évente kétszer, január 31-éig és július 31-éig
 
-## be kell jelenteni az 1. melléklet szerinti adatokat.
+be kell jelenteni az 1. melléklet szerinti adatokat.
 
 (2) Az országos jelentési rendszerbe – a megállapítást, illetve a módosítást követő nyolc napon belül – valamennyi, az Szt. vagy a Gyvt. alapján térítésidíj-köteles szolgáltatás esetén be kell jelenteni az intézményi térítési díjat és annak változását, ideértve az engedélyes által nyújtott gyermekétkeztetés intézményi térítési díját is.
 

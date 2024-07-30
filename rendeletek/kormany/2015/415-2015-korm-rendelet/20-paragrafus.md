@@ -4,5 +4,7 @@ a) 2021. június 30-áig az egyes kormányrendeleteknek a Gyermekeink védelméb
 
 b) 2021. július 1-jétől a Módr.-rel megállapított 8/A. §-ban foglalt rendelkezések szerint
 
+kell adatot szolgáltatni az igénybevevői nyilvántartásba.
+
 [^70]: A 20. §-t a 205/2021. (IV. 29.) Korm. rendelet 21. §-a iktatta be.
 [^71]: A hatálybalépés időpontja 2021. május 14.

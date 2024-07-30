@@ -22,7 +22,7 @@ i)[^27] fejlesztő foglalkoztatás
 
 j)–k)[^28]
 
-## esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
+esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
 
 (3)[^29] Az időszakos jelentési kötelezettséget
 
@@ -38,7 +38,7 @@ a) szociális szolgáltatás és gyermekjóléti alapellátás esetén a TAJ-t h
 
 b)[^30]
 
-## az érintett a határidő lejártát követő naptól az időszakos jelentésben nem tüntethető fel igénybevevőként.
+az érintett a határidő lejártát követő naptól az időszakos jelentésben nem tüntethető fel igénybevevőként.
 
 (5) A (4) bekezdésben foglaltak nem alkalmazhatók nappali melegedő, éjjeli menedékhely, valamint családsegítés és gyermekjóléti szolgáltatás esetén, továbbá arra az igénybevevőre, aki TAJ igénylésére nem köteles.
 
