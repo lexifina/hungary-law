@@ -4,9 +4,9 @@
 
 (2) Az 51. § (3) és (5) bekezdése, valamint az 52. § alkalmazása során a Katv. hatálya alá tartozó vállalkozás esetében a 43. § (3) bekezdése szerint tervezett éves bevételi elvárás összege a támogatást igénylő kérelmére a veszélyhelyzet idejére eső hónapok számával arányosan csökkenthető.
 
-(3)[^28] A 3. és 4. célterületen a veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 485/2020. (XI. 10.) Korm. rendelet] 5. § (1) bekezdésében meghatározott tevékenységet főtevékenységként végző, a 485/2020. (XI. 10.) Korm. rendelet 4/A. §-a szerint a tételes adó megfizetése alól átmenetileg mentesített vállalkozások esetében a mentesítés – annak időtartama alatt – az időközi kifizetés feltételének, illetve az időközi beszámoló elfogadása tekintetében a tételes adó megfizetésének minősül.
+(3)[^49] A 3. és 4. célterületen a veszélyhelyzet ideje alatt egyes gazdaságvédelmi intézkedésekről szóló 485/2020. (XI. 10.) Korm. rendelet [a továbbiakban: 485/2020. (XI. 10.) Korm. rendelet] 5. § (1) bekezdésében meghatározott tevékenységet főtevékenységként végző, a 485/2020. (XI. 10.) Korm. rendelet 4/A. §-a szerint a tételes adó megfizetése alól átmenetileg mentesített vállalkozások esetében a mentesítés – annak időtartama alatt – az időközi kifizetés feltételének, illetve az időközi beszámoló elfogadása tekintetében a tételes adó megfizetésének minősül.
 
-(4)[^29] A (3) bekezdés szerinti, tételes adó megfizetése alól mentesített vállalkozások esetében az 51. § (3) és (5) bekezdése, valamint az 52. § alkalmazása során a 43. § (3) bekezdése szerint tervezett éves bevételi elvárás összege a támogatást igénylő kérelmére a veszélyhelyzet idejére eső, a 485/2020. (XI. 10.) Korm. rendelet 5. § (4) bekezdésében meghatározott hónapok számával arányosan csökkenthető.
+(4)[^50] A (3) bekezdés szerinti, tételes adó megfizetése alól mentesített vállalkozások esetében az 51. § (3) és (5) bekezdése, valamint az 52. § alkalmazása során a 43. § (3) bekezdése szerint tervezett éves bevételi elvárás összege a támogatást igénylő kérelmére a veszélyhelyzet idejére eső, a 485/2020. (XI. 10.) Korm. rendelet 5. § (4) bekezdésében meghatározott hónapok számával arányosan csökkenthető.
 
-[^28]: Az 54/F. § (3) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 5. §-a iktatta be.
-[^29]: Az 54/F. § (4) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^49]: Az 54/F. § (3) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 5. §-a iktatta be.
+[^50]: Az 54/F. § (4) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 5. §-a iktatta be.

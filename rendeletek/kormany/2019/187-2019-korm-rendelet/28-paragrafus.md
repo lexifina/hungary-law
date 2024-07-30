@@ -1,6 +1,6 @@
 ## 14. Vis maior
 
-28. § (1) Amennyiben a támogatási jogviszony fennállása alatt a támogatást igénylőn kívül álló, előre nem látott, elháríthatatlan okból bekövetkező esemény (vis maior) miatt a támogatási jogviszonyból származó kötelezettség teljesítése lehetetlenné vált, úgy a vis maior eseményre vonatkozóan – a támogatást igénylő halálát kivéve – bejelentést kell benyújtania a támogatást igénylőnek, vagy amennyiben cselekvőképessége kizárttá vagy korlátozottá vált, úgy törvényes képviselőjének a Kincstár felé, az annak alátámasztására vonatkozó igazolás csatolásával együtt. A bejelentést a törvényes képviselő papír alapon is megteheti.
+28. § (1)[^37] Amennyiben a támogatási jogviszony fennállása alatt a támogatást igénylőn kívül álló, előre nem látott, elháríthatatlan okból bekövetkező esemény (vis maior) miatt a támogatási jogviszonyból származó kötelezettség teljesítése lehetetlenné vált, úgy a vis maior eseményre vonatkozóan bejelentést kell benyújtania a támogatást igénylőnek, vagy amennyiben cselekvőképessége kizárttá vagy korlátozottá vált, úgy törvényes képviselőjének a Kincstár felé, az annak alátámasztására vonatkozó igazolás csatolásával együtt. A bejelentést a törvényes képviselő papír alapon is megteheti. A 7. és a 8. célterület kivételével a támogatást igénylő halálát nem kell bejelenteni.
 
 (2) Vis maior eseménynek minősül különösen:
 
@@ -15,3 +15,5 @@ b) a támogatást igénylő 30 napot meghaladó keresőképtelensége.
 (5) A vis maior bejelentés elbírálásáról a Kincstár a vis maior igazolás benyújtóját értesíti.
 
 (6) Amennyiben a vis maior bejelentést a Kincstár nem fogadja el, úgy a támogatási jogviszonyból eredő kötelezettségek – a támogatási feltételek teljesítésének elmaradása esetén alkalmazandó jogkövetkezményeket is beleértve – továbbra is terhelik a támogatást igénylőt.
+
+[^37]: A 28. § (1) bekezdése a 202/2024. (VII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.

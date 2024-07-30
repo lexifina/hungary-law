@@ -1,8 +1,8 @@
 ## 9. Az ügyfél-nyilvántartásba vétel részletes szabályai
 
-15. § (1) Amennyiben a támogatást igénylő ügyfél-azonosítóval még nem rendelkezik, úgy a támogatási kérelem szolgál az ügyfél-nyilvántartásba vétel alapjául. A Kincstár a támogatást igénylőt az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe hivatalból veszi nyilvántartásba.
+15. § (1)[^24] A 7. és a 8. célterület kivételével, ha a támogatást igénylő ügyfél-azonosítóval még nem rendelkezik, úgy a támogatási kérelem szolgál az ügyfél-nyilvántartásba vétel alapjául, és a Kincstár a támogatást igénylőt az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe hivatalból veszi nyilvántartásba. A 7. és a 8. célterület esetében a Kincstár a támogatást igénylőt a támogatási kérelem alapján, az ezen célterületekre létrehozott, Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszertől elkülönült nyilvántartási rendszerbe hivatalból veszi nyilvántartásba.
 
-(2)[^12] Az 1., a 2. és az 5. célterület esetében a támogatási kérelem tartalmazza a kérelmező
+(2)[^25] Az 1., a 2. és az 5. célterület esetében a támogatási kérelem tartalmazza a kérelmező
 
 a) családi és utónevét, születési családi és utónevét,
 
@@ -106,7 +106,8 @@ bp) a támogatást igénylő pénzforgalmi számlaszámát és annak devizanemé
 
 bq) a támogatást igénylő E-ügyintézési törvény szerinti hivatalos elérhetőségét.
 
-(4)[^13] A 6. célterület esetében a támogatási kérelem tartalmazza a nem természetes személynek minősülő kérelmező (3) bekezdés b) pontjában meghatározott adatait, azzal, hogy szövetkezet kérelmező esetén a szövetkezet (3) bekezdés b) pont ba)–bf) alpontjában meghatározott adatait, valamint a (3) bekezdés b) pont bk) alpontja tekintetében a nyilvántartási számát kell feltüntetni.
+(4)[^26] A 6. célterület esetében a támogatási kérelem tartalmazza a nem természetes személynek minősülő kérelmező (3) bekezdés b) pontjában meghatározott adatait, azzal, hogy szövetkezet kérelmező esetén a szövetkezet (3) bekezdés b) pont ba)–bf) alpontjában meghatározott adatait, valamint a (3) bekezdés b) pont bk) alpontja tekintetében a nyilvántartási számát kell feltüntetni.
 
-[^12]: A 15. § (2) bekezdés nyitó szövegrésze a 385/2020. (VIII. 7.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
-[^13]: A 15. § (4) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^24]: A 15. § (1) bekezdése a 202/2024. (VII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^25]: A 15. § (2) bekezdés nyitó szövegrésze a 385/2020. (VIII. 7.) Korm. rendelet 7. § 5. pontja szerint módosított szöveg.
+[^26]: A 15. § (4) bekezdését a 434/2021. (VII. 16.) Korm. rendelet 4. §-a iktatta be.

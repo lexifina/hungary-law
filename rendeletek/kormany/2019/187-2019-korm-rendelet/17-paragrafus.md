@@ -8,4 +8,6 @@
 
 (4) Hiánypótlásra azonos tárgykörben csak egyszer van lehetőség.
 
-(5) Hiánypótlási felhívásnak a döntés-felülvizsgálati eljárás során is helye van.
+(5)[^29] Hiánypótlási felhívásnak a döntés-felülvizsgálati eljárás és a kifogás elbírálása során is helye van.
+
+[^29]: A 17. § (5) bekezdése a 202/2024. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
