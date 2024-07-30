@@ -1,0 +1,1 @@
+A tőkepiacról szóló 2001. évi CXX. törvény 451. § (2) bekezdés e) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 103. § (1) bekezdés 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
