@@ -1,3 +1,3 @@
-28. §[^70]
+28. §[^73]
 
-[^70]: A 28. §-t a 102/2016. (V. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^73]: A 28. §-t a 102/2016. (V. 13.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

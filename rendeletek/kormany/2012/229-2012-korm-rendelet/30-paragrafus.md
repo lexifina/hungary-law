@@ -1,5 +1,5 @@
-## II. Fejezet[^75]
+## II. Fejezet[^78]
 
 30. §
 
-[^75]: A II. fejezetet (30-32. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.
+[^78]: A II. fejezetet (30-32. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 15. § b) pontja hatályon kívül helyezte.

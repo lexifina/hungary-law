@@ -1,11 +1,11 @@
-56. §[^295] (1) E rendelet 44/L. §-a és 44/W. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+56. §[^299] (1) E rendelet 44/L. §-a és 44/W. §-a a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (2) E rendelet 44/L. §-ának és 44/W. §-ának a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi irányelv 15. cikk (7) bekezdése szerinti előzetes bejelentése megtörtént.
 
-## 20.[^296]
+## 20.[^300]
 
-56. §[^297]
+56. §[^301]
 
-[^295]: Az újabb 56. §-t a 403/2023. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
-[^296]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
-[^297]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^299]: Az újabb 56. §-t a 403/2023. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^300]: A 20. alcím címét a 353/2013. (X. 4.) Korm. rendelet 5. § a) pontja hatályon kívül helyezte.
+[^301]: Az 56. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

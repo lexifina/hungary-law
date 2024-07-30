@@ -60,3 +60,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-229-20-
 | 2024-01-01 | 2012-229-20-22.51 | 403/2023. (VIII. 30.) Korm. rendelet |
 | 2024-01-02 | 2012-229-20-22.53 | 620/2023. (XII. 22.) Korm. rendelet |
 | 2024-02-23 | 2012-229-20-22.55 | 32/2024. (II. 22.) Korm. rendelet |
+| 2024-07-30 | 2012-229-20-22.56 | 201/2024. (VII. 29.) Korm. rendelet |

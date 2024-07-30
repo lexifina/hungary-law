@@ -1,29 +1,29 @@
-## 16/I. [^243] A sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, illetve a szakértői véleményben foglaltakkal összefüggő eljárási szabályok
+## 16/I. [^247] A sajátos nevelési igény, a beilleszkedési, tanulási, magatartási nehézség megállapításával, illetve a szakértői véleményben foglaltakkal összefüggő eljárási szabályok
 
-42. § (1)[^244] Az illetékes tankerületi központ közigazgatási hatósági eljárás keretében hoz döntést a beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény megállapításával, illetve a szakértői véleményben foglaltakkal összefüggésben.
+42. § (1)[^248] Az illetékes tankerületi központ közigazgatási hatósági eljárás keretében hoz döntést a beilleszkedési, tanulási, magatartási nehézség vagy a sajátos nevelési igény megállapításával, illetve a szakértői véleményben foglaltakkal összefüggésben.
 
 (2) Az eljárás megindítását a szülő kérheti, ha nem ért egyet a szakértői véleményben foglaltakkal, illetve a szakértői bizottság eljárásával.
 
 (3) Az eljárás megindítását köteles kérni
 
-a)[^245] a nevelési-oktatási, a szakképző a gyermekjóléti, gyermekvédelmi, szociális intézmény, vagy a gyámhatóság, ha a szülő a szakértői vizsgálat szükségességével nem ért egyet, illetve a kérelmet nem írja alá,
+a)[^249] a nevelési-oktatási, a szakképző a gyermekjóléti, gyermekvédelmi, szociális intézmény, vagy a gyámhatóság, ha a szülő a szakértői vizsgálat szükségességével nem ért egyet, illetve a kérelmet nem írja alá,
 
 b) a szakértői bizottság, ha a szülő a gyermekével a szakértői vizsgálaton ismételt felhívás ellenére nem jelenik meg vagy a szakértői vizsgálatban nem működik közre, illetve a szakértői véleményben foglaltakkal vagy annak továbbításával nem ért egyet,
 
 c) a szakszolgálati-esélyegyenlőségi szakértő, ha a szakértői bizottság eljárásában megszegték a vizsgálat eljárási szabályait,
 
-d)[^246] a kijelölt nevelési-oktatási intézmény igazgatója, ha a gyermeket a szakértői vélemény alapján a kijelölt nevelési-oktatási intézménybe nem íratják be.
+d)[^250] a kijelölt intézmény igazgatója, ha a gyermeket a szakértői vélemény alapján a kijelölt intézménybe nem íratják be, vagy az ellátásban a szülő gyermekével önhibájából nem vesz részt.
 
-(4)[^247] Az eljárásra az a tankerületi központ illetékes, amelynek a működési területén a gyermek, tanuló lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek, tanuló tartózkodási helye található.
+(4)[^251] Az eljárásra az a tankerületi központ illetékes, amelynek a működési területén a gyermek, tanuló lakóhelye, ennek hiányában, vagy ha az nem állapítható meg, a gyermek, tanuló tartózkodási helye található.
 
-(5)[^248] Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a tankerületi központ illetékességét a gyermek tartózkodási helye határozza meg.
+(5)[^252] Ha a gyermeket, tanulót a gyámhivatal átmeneti vagy tartós nevelésbe vette a tankerületi központ illetékességét a gyermek tartózkodási helye határozza meg.
 
-(6)[^249] A tankerületi központ az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A tankerületi központ az (1) bekezdés szerinti döntés egy példányát a döntés véglegessé válását követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
+(6)[^253] A tankerületi központ az eljárása megindításáról nyolc napon belül értesíti a szakértői bizottságot. A tankerületi központ az (1) bekezdés szerinti döntés egy példányát a döntés véglegessé válását követő nyolc napon belül megküldi az érintett nevelési-oktatási intézménynek és a szakértői bizottságnak.
 
-[^243]: A 16/I. alcím címe a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^244]: A 42. § (1) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^245]: A 42. § (3) bekezedés a) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
-[^246]: A 42. § (3) bekezdés d) pontja a 402/2023. (VIII. 30.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^247]: A 42. § (4) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés d) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^248]: A 42. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^249]: A 42. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^247]: A 16/I. alcím címe a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^248]: A 42. § (1) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^249]: A 42. § (3) bekezedés a) pontja a 65/2021. (II. 15.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
+[^250]: A 42. § (3) bekezdés d) pontja a 201/2024. (VII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^251]: A 42. § (4) bekezdése a 196/2019. (VIII. 1.) Korm. rendelet 7. § (1) bekezdés d) pontja, a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^252]: A 42. § (5) bekezdése a 31/2020. (II. 29.) Korm. rendelet 12. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^253]: A 42. § (6) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 107. § (4) bekezdés l) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
