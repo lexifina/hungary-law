@@ -1136,6 +1136,8 @@
 
 ## 1.7.21. A Szolnok-nyugat üzemmérnökség telep megvalósítása.
 
+## 1.7.22. Az M1 autópálya Budapest–Győr közötti szakasz 2×3 sávra bővítése projekthez kapcsolódóan Kisigmándon komplex funkciójú telep megvalósítása.
+
 ## 1.8. Kerékpárutak
 
 ## 1.8.1. Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
