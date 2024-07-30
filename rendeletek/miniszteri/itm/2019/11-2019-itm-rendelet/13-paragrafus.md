@@ -6,7 +6,7 @@
 
 (3) Vertikálisan integrált vállalkozás esetében a pályahálózat-működtető biztosítja az alapvető feladatokkal és a kizárólag a pályahálózat-működtető által nyújtott vasúti szolgáltatásokkal összefüggő tevékenység informatikai elkülönítését a pályahálózat-működtető által ellátott más feladatoktól az informatikai eszközök használata (hardver- és szoftverhasználat) és az informatikai feladatot ellátó munkavállalók vonatkozásában.
 
-(4) Vertikálisan integrált vállalkozások esetében vállalkozó vasúti társaság sem közvetlenül, sem a Ptk. 8:2. § (4) bekezdése szerinti közvetett befolyás útján nem jogosult az alapvető feladatokat ellátó munkavállaló megválasztására, visszahívására, munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létrehozásának és megszüntetésének kezdeményezésére.
+(4)[^1] Vertikálisan integrált vállalkozások esetében a vállalkozó vasúti társaság vagy a vertikálisan integrált vállalkozáshoz tartozó más jogi személy sem közvetlenül, sem a Ptk. 8:2. § (4) bekezdése szerinti közvetett befolyás útján nem jogosult az alapvető feladatokat ellátó munkavállaló megválasztására, visszahívására, munkaviszony vagy munkavégzésre irányuló egyéb jogviszony létrehozásának és megszüntetésének kezdeményezésére.
 
 (5) A vertikálisan integrált vállalkozásokon belül nem lehet az alapvető feladatokat a vertikálisan integrált vállalkozásba tartozó másik jogi személyének kiszervezni, kivéve, ha ez a másik jogi személy az alapvető feladatok ellátásán kívül más tevékenységet nem végez.
 
@@ -23,3 +23,5 @@ a) a vertikálisan integrált vállalkozás a pályahálózat-működtetői, val
 b) a Vtv. 11/C. § (2)–(9) bekezdésének rendelkezéseit a vertikálisan integrált vállalkozás pályahálózat-működtetői feladatokat ellátó önálló jogi személyiséggel nem rendelkező részlege tekintetében is alkalmazni kell.
 
 (8) A (7) bekezdésben foglalt követelmények teljesülését a vertikálisan integrált vállalkozás az önálló jogi személyiséggel nem rendelkező részlegeinél elkülönítetten vezetett számviteli nyilvántartásokkal biztosítja.
+
+[^1]: A 13. § (4) bekezdése a 19/2024. (VII. 29.) ÉKM rendelet 1. §-ával megállapított szöveg.
