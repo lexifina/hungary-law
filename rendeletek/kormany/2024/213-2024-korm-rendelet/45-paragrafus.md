@@ -1,0 +1,3 @@
+45. § A 373/2022. (IX. 30.) Korm. rendelet 220. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A nemzeti hatóság az Európai Bizottság vonatkozó rendelkezései alapján meghatározott jelentéstételi kötelezettség alá tartozó szabálytalanságokról az újonnan megállapított szabálytalanságok esetében a szabálytalansági döntést követő tíz napon belül, a korábban már lejelentett szabálytalanságokkal összefüggésben (nyomonkövetési jelentés) a további információk rendelkezésre állásakor, más tagállamot érintő szabálytalanság esetében haladéktalanul az Európai Bizottság által meghatározott formában, elektronikus úton jelentést küld az OLAF Koordinációs Iroda részére.”

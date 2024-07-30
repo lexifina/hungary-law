@@ -1,0 +1,5 @@
+## „i) a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során arról, hogy következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe vegye és rendszerszinten használja az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, és következetesen nyomon követi az ARACHNE kockázatértékelő eszköz által jelzett kockázatokat,”
+
+5. § A 373/2022. (IX. 30.) Korm. rendelet 11. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A lebonyolító szerv a nemzeti hatóság által meghatározott értékhatár alatt, a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően közreműködőt vonhat be. A nemzeti hatóság előzetes engedélye szükséges a nemzeti hatóság által meghatározott érték felett a lebonyolító szerv feladatellátásához közreműködő bevonásához. A közreműködők teljesítéséért a lebonyolító szerv felel.”

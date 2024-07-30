@@ -1,0 +1,5 @@
+## „a) kiterjedten alkalmazza, figyelembe veszi, és rendszerszinten használja az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, és következetesen nyomon követi az ARACHNE kockázatértékelő eszköz által jelzett kockázatokat, és gyűjti a 2. melléklet szerinti adatokat, pénzügyi eszközök esetén az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti tartalommal,”
+
+18. § A 373/2022. (IX. 30.) Korm. rendelet 37. §-a helyébe a következő rendelkezés lép:
+
+„37. § Csalás vagy korrupció gyanúja esetén, amennyiben az nemzeti szintű közigazgatási vagy bírósági eljárás megindításra ad okot, a végső kedvezményezettel támogatási jogviszony, a pénzügyi eszköz kedvezményezettjével szerződés nem létesíthető, továbbá szükség esetén a fennálló támogatási szerződést vagy a pénzügyi eszköz kedvezményezettjével megkötött szerződést meg kell szüntetni, és büntetőeljárás megindítását kell kezdeményezni.”
