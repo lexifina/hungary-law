@@ -30,9 +30,9 @@ k) a hatályos településrendezési terv szerinti szabályozási vonalat nem ke
 
 l) a megengedett legkisebb zöldfelületi mértéket az ingatlanból a telekalakítási engedély szerinti ingatlanra kell teljesíteni.
 
-(3)[^60] A 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanok esetében a tereprendezést és mélyalapozást a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
+(3)[^60] A 2. mellékletben foglalt táblázat B:21 mezőjében megjelölt ingatlanok esetében a tereprendezést és alapozást és terepszint alatti szerkezetépítést a megvalósuló építési tevékenység ütemeként is engedélyezheti az 1. melléklet 1. pontja szerinti engedélyezési eljárásban az eljáró hatóság.
 
-(4)[^61] A (3) bekezdés szerinti tereprendezés és mélyalapozás építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
+(4)[^61] A (3) bekezdés szerinti tereprendezés és alapozás és terepszint alatti szerkezetépítés építési engedélyezési dokumentációjának az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 8. mellékletében foglaltakon túl tartalmaznia kell talajvédelmi tervet.
 
 (5)[^62] A (3) bekezdés szerint engedélyezett ütemre használatbavételre irányuló eljárást nem kell lefolytatni, annak elkészültét és megfelelőségét az építmény használatbavételére irányuló kérelem elbírálása során kell igazolni.
 
@@ -53,8 +53,8 @@ l) a megengedett legkisebb zöldfelületi mértéket az ingatlanból a telekalak
 [^57]: Az 5/Q. § (1) bekezdés a) pontja a 434/2023. (IX. 21.) Korm. rendelet 4. § c) pontja, a 70/2024. (III. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^58]: Az 5/Q. § (1) bekezdés b) pontja a 434/2023. (IX. 21.) Korm. rendelet 4. § d) pontja, a 70/2024. (III. 28.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
 [^59]: Az 5/Q. § (2) bekezdése a 70/2024. (III. 28.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^60]: Az 5/Q. § (3) bekezdését a 379/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be.
-[^61]: Az 5/Q. § (4) bekezdését a 379/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be.
+[^60]: Az 5/Q. § (3) bekezdését a 379/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 209/2024. (VII. 29.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^61]: Az 5/Q. § (4) bekezdését a 379/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be, szövege a 209/2024. (VII. 29.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^62]: Az 5/Q. § (5) bekezdését a 379/2023. (VIII. 10.) Korm. rendelet 1. §-a iktatta be.
 [^63]: Az 5/Q. § (6) bekezdését a 434/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.
 [^64]: Az 5/Q. § (7) bekezdését a 434/2023. (IX. 21.) Korm. rendelet 1. §-a iktatta be.

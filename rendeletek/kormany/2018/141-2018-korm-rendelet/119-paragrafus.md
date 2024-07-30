@@ -1,4 +1,4 @@
-119. §[^398] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 118/2023. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr111.) megállapított 2. mellékletében foglalt táblázat 113. sorát a Módr111. hatálybalépésekor[^399] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+119. §[^400] E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 118/2023. (IV. 5.) Korm. rendelettel (a továbbiakban: Módr111.) megállapított 2. mellékletében foglalt táblázat 113. sorát a Módr111. hatálybalépésekor[^401] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^398]: A 119. §-t a 118/2023. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
-[^399]: A hatálybalépés időpontja 2023. április 6.
+[^400]: A 119. §-t a 118/2023. (IV. 5.) Korm. rendelet 1. §-a iktatta be.
+[^401]: A hatálybalépés időpontja 2023. április 6.
