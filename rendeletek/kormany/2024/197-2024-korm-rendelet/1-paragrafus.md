@@ -1,0 +1,1 @@
+1. § A Kormány e rendelettel felhatalmazást ad a Nemzetközi Közúti Árufuvarozási Szerződésről Szóló Egyezmény elektronikus fuvarlevélről szóló kiegészítő Jegyzőkönyve (a továbbiakban: Jegyzőkönyv) kötelező hatályának elismerésére.
