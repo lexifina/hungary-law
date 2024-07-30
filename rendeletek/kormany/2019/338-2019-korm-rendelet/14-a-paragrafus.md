@@ -1,6 +1,6 @@
 ## 14. § Az átképzés keretében a központi kormányzati igazgatási szerv a kormánytisztviselő által betöltött álláshelytől eltérő álláshelyen ellátandó feladatok, illetve a betöltött álláshelyen ellátandó feladatok hatékonyabb ellátását biztosító iskolai végzettség, szakképzettség, szakképesítés megszerzéséhez szükséges továbbképzést lehetővé teszi.
 
-## 9/a.[^8] A személyügyi központ által szervezett, önkéntesen igénybe vehető képzések
+## 9/a.[^9] A személyügyi központ által szervezett, önkéntesen igénybe vehető képzések
 
 14/A. § (1) A személyügyi központ önkéntesen igénybe vehető képzést, továbbképzést szervezhet.
 
@@ -10,4 +10,4 @@
 
 (4) Az (1) bekezdés szerinti képzést, továbbképzést a személyügyi központ által felkért, illetve megbízott szervezet biztosítja.
 
-[^8]: A 9/a. alcímet (14/A. §-t) a 29/2024. (II. 22.) Korm. rendelet 2. §-a iktatta be.
+[^9]: A 9/a. alcímet (14/A. §-t) a 29/2024. (II. 22.) Korm. rendelet 2. §-a iktatta be.
