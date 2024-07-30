@@ -42,7 +42,8 @@ Az ellenőrzött bejelentés alkalmazásából kizárt ügyek
 
 19. Az atomenergiáról szóló 1996. évi CXVI. törvény szerinti hatósági eljárások
 
-20. Köznevelési nyilvántartásba vételi eljárások
+20.[^3] Köznevelési nyilvántartásba vételi és engedélyezési eljárások
 
 [^1]: A 3. §-t a 259/2021. (V. 20.) Korm. rendelet 48. §-a iktatta be.
 [^2]: Az 1. melléklet az 561/2023. (XII. 14.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^3]: Az 1. melléklet 20. pontja a 201/2024. (VII. 29.) Korm. rendelet 10. §-a szerint módosított szöveg.
