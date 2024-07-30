@@ -1,4 +1,4 @@
-111. §[^79] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
+111. §[^128] (1) Ha a végső kedvezményezett a közbeszerzési záró tanúsítványban foglaltakkal nem ért egyet, a közbeszerzési záró tanúsítvánnyal szemben egy alkalommal jogorvoslattal élhet. A jogorvoslatra az 54–57. alcím rendelkezéseit kell alkalmazni a (2)–(9) bekezdésben foglalt eltérésekkel.
 
 (2) Ahol az 54–57. alcím
 
@@ -18,7 +18,7 @@ a) egyetértése esetén a közbeszerzési záró tanúsítványt módosítja,
 
 b) egyet nem értése esetén a jogorvoslati kérelmet az ellenőrzés dokumentumaival és a jogorvoslati kérelem tárgyában kialakított álláspontjával együtt megküldi a Belső Ellenőrzési és Integritási Igazgatóság részére.
 
-(5) A közbeszerzésekért felelős miniszter haladéktalanul tájékoztatja a kedvezményezettet és az irányító hatóságot a (4) bekezdés szerinti döntéséről.
+(5)[^129] A közbeszerzésekért felelős miniszter haladéktalanul tájékoztatja a végső kedvezményezettet és az nemzeti hatóságot a (4) bekezdés szerinti döntéséről.
 
 (6) A Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelemről – az annak kézhezvételétől számított – tíz munkanapon belül dönt.
 
@@ -32,4 +32,5 @@ b) a közbeszerzési záró tanúsítványt módosítja.
 
 (9) A közbeszerzési záró tanúsítvánnyal szemben lefolytatott jogorvoslati eljárás esetén a 206. § (1) és (2) bekezdését, a 208. § (1) bekezdését, a 209. §-t, a 211. § (1) bekezdés f) pontját, a 213. §-t, a 214. §-t, a 215. § (1) és (2) bekezdését, valamint a 217. § (1), (3), (4) és (6) bekezdését nem kell alkalmazni.
 
-[^79]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^128]: A 111. § a 123/2023. (IV. 12.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^129]: A 111. § (5) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 21. pontja szerint módosított szöveg.

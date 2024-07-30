@@ -16,15 +16,17 @@
 
 7. gondoskodik az Európai Bizottsággal a HET támogatásra vonatkozó támogatási megállapodás, valamint – az államháztartásért felelős miniszter előzetes hozzájárulásával – a hiteltámogatásra vonatkozóan hitelszerződés megkötéséről,
 
+7a.[^14] aláírja az Európai Bizottsággal a HET végrehajtására kötött operatív megállapodást,
+
 8. koordinálja a HET végrehajtásához kapcsolódó állami támogatások versenyszempontú ellenőrzését, különös tekintettel az európai uniós jogi aktusok állami támogatási rendelkezéseinek való megfelelés biztosítására, valamint az Európai Bizottsággal való együttműködésre,
 
 9. felügyeli a HET végrehajtását, ennek keretében folyamatosan figyelemmel kíséri a megvalósítási folyamatokat, nyomon követi a HET végrehajtására javasolt intézkedések megvalósulását és azokról a Kormányt tájékoztatja,
 
-10.[^7] biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció eredményes megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
+10.[^15] biztosítja az (EU) 2021/241 rendelet 9. cikkében foglalt kettős finanszírozás, az összeférhetetlenség, a csalás és a korrupció eredményes megelőzése, felderítése és kezelése érdekében szükséges intézkedések megtételét,
 
 11. gondoskodik az európai uniós forrásokból megvalósuló fejlesztéspolitikai programokból támogatásban részesített projektek forrásai 51. alcím szerinti technikai – a HET végrehajtása céljából történő – átforgatásáról, az érintett projektek megfelelő szakmai-tartalmi átdolgozásáról, a HET intézkedési lista módosításáról, és azokat jóváhagyás érdekében a Kormány elé terjeszti,
 
-12.[^8] gondoskodik a HET végrehajtását érintő eredményes csalás elleni és antikorrupciós politika kidolgozásáról, és felügyeletet gyakorol annak eredményes végrehajtása felett,
+12.[^16] gondoskodik a HET végrehajtását érintő eredményes csalás elleni és antikorrupciós politika kidolgozásáról, és felügyeletet gyakorol annak eredményes végrehajtása felett,
 
 13. működteti a belső és közérdekű bejelentési rendszert (www.anti-lop.hu),
 
@@ -40,19 +42,21 @@
 
 19. biztosítja a forrást a HET végrehajtáshoz szükséges források fejezeti kezelésű előirányzat-felhasználási keretszámlán,
 
-20.[^9]
+20.[^17]
 
-21.[^10] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
+21.[^18] gondoskodik a II. Fejezet szerinti intézményrendszer érzékeny pozícióban lévő – így különösen a szabálytalanságkezeléssel, ellenőrzésekkel, kockázatértékeléssel foglalkozó – munkatársainak az általa kidolgozott módszertan szerinti rendszeres rotációjáról, rendszeres és eredményes felügyeletéről,
 
-22.[^11] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
+22.[^19] koordinálja az ARACHNE kockázatértékelő eszköz eredményes alkalmazását, kidolgozza és rendszeresen felülvizsgálja az ARACHNE kockázatértékelő eszköz alkalmazására és eredményeinek felhasználására vonatkozó módszertant,
 
-23. gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről,
+23.[^20] gondoskodik a 2. melléklet szerinti adatoknak az ARACHNE kockázatértékelő eszköz részére kéthavonta történő megküldéséről, pénzügyi eszközök és egyszerűsített elszámolás alkalmazása esetén az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti tartalommal,
 
-24.[^12] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
+24.[^21] biztosítja az ARACHNE kockázatértékelő eszközhöz való hozzáférést a II. Fejezet szerinti intézményrendszer 36. § (1) bekezdés c) pontja és 36. § (2) bekezdés a) pontja szerinti feladatot ellátó munkatársai részére.
 
-[^7]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
-[^8]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^9]: Az 5. § 20. pontját a 123/2023. (IV. 12.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
-[^10]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
-[^11]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
-[^12]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.
+[^14]: Az 5. § 7a. pontját a 213/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^15]: Az 5. § 10. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^16]: Az 5. § 12. pontja a 463/2022. (XI. 15.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^17]: Az 5. § 20. pontját a 123/2023. (IV. 12.) Korm. rendelet 30. § a) pontja hatályon kívül helyezte.
+[^18]: Az 5. § 21. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 4. pontja szerint módosított szöveg.
+[^19]: Az 5. § 22. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 5. pontja szerint módosított szöveg.
+[^20]: Az 5. § 23. pontja a 213/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^21]: Az 5. § 24. pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 6. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-31. § (1)[^46] Bárki jogosult anonim módon bejelenteni a www.palyazat.gov.hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
+31. § (1)[^73] Bárki jogosult anonim módon bejelenteni a www.palyazat.gov.hu oldalon, ha az ügyben összeférhetetlenség vagy annak kockázata vagy látszata fennállását észleli.
 
-(1a)[^47] A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja a II. Fejezet szerinti intézményrendszer érintett szereplőjét.
+(1a)[^74] A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti megalapozott bejelentésről haladéktalanul tájékoztatja a II. Fejezet szerinti intézményrendszer érintett szereplőjét.
 
 (2) Az (1) bekezdés szerinti bejelentést a Belső Ellenőrzési és Integritási Igazgatóság vizsgálja ki.
 
@@ -12,10 +12,10 @@ a) változatlan tényállás mellett ismételten olyan személyre vonatkozik, ak
 
 b) nyilvánvalóan alaptalan.
 
-(5)[^48] Ha a Belső Ellenőrzési és Integritási Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi a II. Fejezet szerinti intézményrendszer érintett szereplője részére, amely a 33. § szerint jár el.
+(5)[^75] Ha a Belső Ellenőrzési és Integritási Igazgatóság a vizsgálata során összeférhetetlenséget állapít meg, az erről készült jelentést megküldi a II. Fejezet szerinti intézményrendszer érintett szereplője részére, amely a 33. § szerint jár el.
 
 (6) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti bejelentések vizsgálata során keletkezett dokumentumokat a vizsgálatok lezárásától számított öt évig megőrzi.
 
-[^46]: A 31. § (1) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^47]: A 31. § (1a) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 16. §-a iktatta be.
-[^48]: A 31. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.
+[^73]: A 31. § (1) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^74]: A 31. § (1a) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 16. §-a iktatta be.
+[^75]: A 31. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.

@@ -1,8 +1,8 @@
-213. § (1)[^153] A nemzeti hatóság a jogorvoslati eljárás során saját hatáskörben vagy a Belső Ellenőrzési és Integritási Igazgatóság kezdeményezésére elrendelheti a kifizetés felfüggesztését.
+213. § (1)[^253] A nemzeti hatóság a jogorvoslati eljárás során saját hatáskörben vagy a Belső Ellenőrzési és Integritási Igazgatóság kezdeményezésére elrendelheti a kifizetés felfüggesztését.
 
 (2) Ha a kifizetés felfüggesztésének oka már nem áll fenn, a nemzeti hatóság a kifizetés felfüggesztését megszünteti.
 
-(3)[^154] A kifizetés felfüggesztéséről és a felfüggesztés megszüntetéséről a nemzeti hatóság haladéktalanul tájékoztatja a végső kedvezményezettet és a Belső Ellenőrzési és Integritási Igazgatóságot.
+(3)[^254] A kifizetés felfüggesztéséről és a felfüggesztés megszüntetéséről a nemzeti hatóság haladéktalanul tájékoztatja a végső kedvezményezettet és a Belső Ellenőrzési és Integritási Igazgatóságot.
 
-[^153]: A 213. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
-[^154]: A 213. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 19. pontja szerint módosított szöveg.
+[^253]: A 213. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 18. pontja szerint módosított szöveg.
+[^254]: A 213. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 29. § 19. pontja szerint módosított szöveg.

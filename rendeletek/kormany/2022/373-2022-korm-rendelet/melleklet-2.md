@@ -20,11 +20,11 @@
 
 | 10. | IX. Állam és közigazgatás | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Nincs | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
-| 11. | Magyarország REPowerEU terve | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 11.[^358] | Magyarország REPowerEU terve | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
 
 ## 1 Szakmai koordinációra kijelölt minisztérium
 
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^247]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^359]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -156,4 +156,5 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^247]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^358]: Az 1. mellékletben foglalt táblázat 11. sora a 213/2024. (VII. 29.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^359]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.

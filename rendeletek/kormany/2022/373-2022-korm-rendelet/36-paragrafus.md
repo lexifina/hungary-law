@@ -4,13 +4,13 @@
 
 a) ellátja a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet [a továbbiakban: 256/2021. (V. 18.) Korm. rendelet] 19. § (2) bekezdése szerinti feladatokat, és
 
-b)[^54] folyamatosan vizsgálja a HET végrehajtását a csalás és a korrupció megelőzése, felderítése és szankcionálása érdekében,
+b)[^84] folyamatosan vizsgálja a HET végrehajtását a csalás és a korrupció megelőzése, felderítése és szankcionálása érdekében,
 
-c) a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
+c)[^85] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi és rendszerszinten használja az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, és következetesen nyomon követi az ARACHNE kockázatértékelő eszköz által jelzett kockázatokat,
 
 d) együttműködik az európai uniós források felhasználásáért felelős miniszterrel a csalás kockázatelemzése módszertanának kidolgozásában,
 
-e)[^55] eredményes csalásellenes stratégiát és korrupcióellenes politikát dolgoz ki és hajt végre,
+e)[^86] eredményes csalásellenes stratégiát és korrupcióellenes politikát dolgoz ki és hajt végre,
 
 f) éves rendszerességgel elvégzi a csalás és korrupciós kockázatelemzését,
 
@@ -22,13 +22,13 @@ i) alkalmazza a belső és közérdekű bejelentési rendszert (www.anti-lop.hu)
 
 j) részt vesz az európai uniós források felhasználásáért felelős miniszter által szervezett csalás és korrupció elleni képzéseken,
 
-k)[^56] a támogatott projektek vonatkozásában egyedi kockázatelemzésen alapuló csalás- és korrupcióellenes intézkedéseket hozhat a www.palyazat.gov.hu oldalon található csalás és korrupció elleni stratégia alapján,
+k)[^87] a támogatott projektek vonatkozásában egyedi kockázatelemzésen alapuló csalás- és korrupcióellenes intézkedéseket hozhat a www.palyazat.gov.hu oldalon található csalás és korrupció elleni stratégia alapján,
 
-l)[^57] folyamatosan vizsgálja a HET végrehajtását a csalás és a korrupció megelőzése, felderítése és szankcionálása érdekében.
+l)[^88] folyamatosan vizsgálja a HET végrehajtását a csalás és a korrupció megelőzése, felderítése és szankcionálása érdekében.
 
 (2) Az audit hatóság, a nemzeti hatóság, a lebonyolító szerv és a továbbadott támogatást kihelyező szerv a csalás és a korrupció elleni fellépés megfelelő biztosítása érdekében
 
-a) alkalmazza és figyelembe veszi az ARACHNE kockázatértékelő eszközt,
+a)[^89] kiterjedten alkalmazza, figyelembe veszi, és rendszerszinten használja az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, és következetesen nyomon követi az ARACHNE kockázatértékelő eszköz által jelzett kockázatokat, és gyűjti a 2. melléklet szerinti adatokat, pénzügyi eszközök esetén az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti tartalommal,
 
 b) eljár a csalás elleni politika keretében meghatározott eljárások, módszertanok szerint,
 
@@ -36,7 +36,9 @@ c) résztvevőket delegál az európai uniós források felhasználásáért fel
 
 d) folyamatosan vizsgálja az e rendelet hatálya alá tartozó intézkedések végrehajtását.
 
-[^54]: A 36. § (1) bekezdés b) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 22. pontja szerint módosított szöveg.
-[^55]: A 36. § (1) bekezdés e) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 23. pontja szerint módosított szöveg.
-[^56]: A 36. § (1) bekezdés k) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 24. pontja szerint módosított szöveg.
-[^57]: A 36. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 22. pontja szerint módosított szöveg.
+[^84]: A 36. § (1) bekezdés b) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 22. pontja szerint módosított szöveg.
+[^85]: A 36. § (1) bekezdés c) pontja a 213/2024. (VII. 29.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^86]: A 36. § (1) bekezdés e) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 23. pontja szerint módosított szöveg.
+[^87]: A 36. § (1) bekezdés k) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 24. pontja szerint módosított szöveg.
+[^88]: A 36. § (1) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 22. pontja szerint módosított szöveg.
+[^89]: A 36. § (2) bekezdés a) pontja a 213/2024. (VII. 29.) Korm. rendelet 17. § (2) bekezdésével megállapított szöveg.

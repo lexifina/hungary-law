@@ -6,6 +6,6 @@
 
 (4) A nemzeti hatóság az (1) bekezdés szerinti határidőben megküldi a végső kedvezményezett részére az ellenőrzés eredményéről szóló nyilatkozatát és erről tájékoztatja a közbeszerzésekért felelős minisztert.
 
-(5)[^94] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok közbeszerzésekért felelős miniszter általi ellenőrzését.
+(5)[^154] A végső kedvezményezett a (4) bekezdés szerinti végleges nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a dokumentumok közbeszerzésekért felelős miniszter általi ellenőrzését.
 
-[^94]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be.
+[^154]: A 122. § (5) bekezdését a 49/2024. (III. 4.) Korm. rendelet 2. §-a iktatta be.

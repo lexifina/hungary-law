@@ -8,7 +8,7 @@ b) feladatkörében véleményezi a HEE forrás felhasználására irányadó un
 
 c) gondoskodik a HEE forrás felhasználásához szükséges eljárási szabályok kidolgozásáról, koordinálja a vonatkozó jogszabályok és közjogi szervezetszabályozó eszközök előkészítését,
 
-d)[^16] szervezi a HET végrehajtásával kapcsolatos kifogáskezelési tevékenységet,
+d)[^25] szervezi a HET végrehajtásával kapcsolatos kifogáskezelési tevékenységet,
 
 e) gondoskodik a HEE forrás felhasználásával kapcsolatos szabálytalansági eljárások lefolytatásáról,
 
@@ -22,7 +22,7 @@ i) az Európai Bizottság részére benyújtott kifizetési kérelmek melléklet
 
 j) működteti a Monitoring Bizottságot, és biztosítja a Monitoring Bizottság által elfogadott ajánlások nyomon követését, valamint biztosítja a Monitoring Bizottság számára a feladatai ellátásához szükséges információkat,
 
-k)[^17] gondoskodik a kettős finanszírozás, a csalás és a korrupció megelőzése, felderítése és kiigazítása érdekében szükséges eredményes intézkedésekről és azok betartásáról.
+k)[^26] gondoskodik a kettős finanszírozás, a csalás és a korrupció megelőzése, felderítése és kiigazítása érdekében szükséges eredményes intézkedésekről és azok betartásáról.
 
 (2) A nemzeti hatóság a HET végrehajtása során gondoskodik
 
@@ -32,35 +32,35 @@ b) a HET intézkedések végrehajtásának nyomon követéséről,
 
 c) az ügyfélszolgálat kialakításáról és működtetéséről,
 
-d) a végső kedvezményezettek által lefolytatandó közbeszerzési eljárások és megkötendő vagy megkötött szerződések ellenőrzéséről,
+d)[^27] a végső kedvezményezettek által lefolytatandó közbeszerzési eljárások és megkötendő vagy megkötött szállítói szerződések ellenőrzéséről,
 
 e) a (6) és a (7) bekezdés szerint az egységes kommunikációról,
 
-f)[^18] lebonyolító szerv kijelölése esetén a lebonyolítói megállapodás megkötéséről,
+f)[^28] lebonyolító szerv kijelölése esetén a lebonyolítói megállapodás megkötéséről,
 
 g) a delegált hatáskör tekintetében a lebonyolító szerv tevékenységének ellenőrzéséről,
 
-h)[^19] a HEE forrást érintő egységes csalás és korrupció elleni stratégia, illetve politika eredményes kidolgozásáról és végrehajtásáról,
+h)[^29] a HEE forrást érintő egységes csalás és korrupció elleni stratégia, illetve politika eredményes kidolgozásáról és végrehajtásáról,
 
-i) a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
+i)[^30] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során arról, hogy következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe vegye és rendszerszinten használja az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, a korrupció, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében, és következetesen nyomon követi az ARACHNE kockázatértékelő eszköz által jelzett kockázatokat,
 
 j) a támogatások kifizetéséről,
 
 k) az első szintű – helyszíni vagy dokumentumalapú – ellenőrzés elvégzéséről, amelynek során a támogatást igénylő és a végső kedvezményezett által benyújtott dokumentumokat összeveti a monitoring és információs rendszerben tárolt adatokkal, vizsgálja az adatok összhangját, szükség szerint összevetve azokat közhiteles adatbázisban szereplő adatokkal,
 
-l)[^20] a HET végrehajtásának hatékony és eredményes pénzügyi irányításáról és az Európai Unió pénzügyi érdekeinek eredményes védelméről,
+l)[^31] a HET végrehajtásának hatékony és eredményes pénzügyi irányításáról és az Európai Unió pénzügyi érdekeinek eredményes védelméről,
 
 m) az (EU) 2021/241 rendelet 22. cikk (2) bekezdés d) pontja szerinti adatgyűjtésről és az információ hitelességéről, valamint
 
-n) a HET keretében pályázaton kívül megvalósuló intézkedések, illetve reformok tekintetében a források felhasználásának, az abból finanszírozott intézkedések hatékony, gazdaságos és eredményes felhasználásának tárgyilagos, tényfeltáró, következtetéseket levonó és javaslatokat megfogalmazó ellenőrzési tevékenysége ellátásáról.
+n)[^32] a HET keretében pályázaton kívül megvalósuló intézkedések, illetve reformok tekintetében a források felhasználásának, az abból finanszírozott intézkedések hatékony, gazdaságos és eredményes felhasználásának tárgyilagos, tényfeltáró, következtetéseket levonó és javaslatokat megfogalmazó ellenőrzési tevékenysége ellátásáról, valamint
 
-o)[^21] a pénzügyi eszköz vonatkozásában a finanszírozási megállapodás megkötéséről a Pénzügyi Eszközt Végrehajtó Szervvel.
+o)[^33] a pénzügyi eszköz vonatkozásában a finanszírozási megállapodás megkötéséről a Pénzügyi Eszközt Végrehajtó Szervvel.
 
 (3) A nemzeti hatóság félévente jelentés tesz a (2) bekezdés n) pontjában meghatározott tevékenységről a Kormány részére, és javaslatot tesz a nem megfelelően megvalósuló intézkedések tekintetében jogkövetkezmény alkalmazására.
 
 (4) Lebonyolító szerv kijelölése esetén a nemzeti hatóság rendszeresen ellenőrzi a lebonyolító szerv tevékenységét. Lebonyolító szerv kijelölése esetén, ahol e rendelet nemzeti hatóságot említ, az átruházott feladatok tekintetében a lebonyolító szervet is érteni kell.
 
-(4a)[^22] A nemzeti hatóság a (9) és (10) bekezdésben foglaltak szerint ellenőrzi a Pénzügyi Eszközt Végrehajtó Szerv által ellátott feladatokat.
+(4a)[^34] A nemzeti hatóság a (9) és (10) bekezdésben foglaltak szerint ellenőrzi a Pénzügyi Eszközt Végrehajtó Szerv által ellátott feladatokat.
 
 (5) A nemzeti hatóságnak a HET tervezése, végrehajtása és módosítása vonatkozásában az államháztartásért felelős miniszter irányába tájékoztatási és együttműködési kötelezettsége van.
 
@@ -92,9 +92,9 @@ f) alkalmazza a www.palyazat.gov.hu oldalt, amelyen közzéteszi a támogatott p
 
 (8) A nemzeti hatóság lebonyolító szerv kijelölése esetén
 
-a)[^23] közreműködik a lebonyolító szervvel kötendő megállapodás egységes tartalmának meghatározásában,
+a)[^35] közreműködik a lebonyolító szervvel kötendő megállapodás egységes tartalmának meghatározásában,
 
-b)[^24] jóváhagyja a feladatainak megvalósítására vonatkozó beszámolót, a lebonyolító szervvel kötött megállapodásban foglalt feladatok teljesítését.
+b)[^36] jóváhagyja a feladatainak megvalósítására vonatkozó beszámolót, a lebonyolító szervvel kötött megállapodásban foglalt feladatok teljesítését.
 
 (9) A nemzeti hatóság rendszeresen ellenőrzi a lebonyolító szerv által ellátott feladatokat a következő szempontok szerint:
 
@@ -106,12 +106,15 @@ b) a lebonyolító szerv az adatokat szabályosan és teljes körűen rögzítet
 
 (11) A nemzeti hatóság az ellenőrzés eredményét tartalmazó dokumentumot az ellenőrzés lezárását követő hét napon belül megküldi az audit hatóság és az államháztartásért felelős miniszter részére.
 
-[^16]: A 9. § (1) bekezdés d) pontja a 123/2023. (IV. 12.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
-[^17]: A 9. § (1) bekezdés k) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
-[^18]: A 9. § (2) bekezdés f) pontja a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^19]: A 9. § (2) bekezdés h) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
-[^20]: A 9. § (2) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja, a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 9. § (2) bekezdés o) pontját a 497/2023. (XI. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^22]: A 9. § (4a) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^23]: A 9. § (8) bekezdés a) pontja a 497/2023. (XI. 2.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
-[^24]: A 9. § (8) bekezdés b) pontja a 497/2023. (XI. 2.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^25]: A 9. § (1) bekezdés d) pontja a 123/2023. (IV. 12.) Korm. rendelet 30. § b) pontja szerint módosított szöveg.
+[^26]: A 9. § (1) bekezdés k) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^27]: A 9. § (2) bekezdés d) pontja a 213/2024. (VII. 29.) Korm. rendelet 50. § 2. pontja szerint módosított szöveg.
+[^28]: A 9. § (2) bekezdés f) pontja a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^29]: A 9. § (2) bekezdés h) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja szerint módosított szöveg.
+[^30]: A 9. § (2) bekezdés i) pontja a 213/2024. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^31]: A 9. § (2) bekezdés l) pontja a 463/2022. (XI. 15.) Korm. rendelet 31. § 3. pontja, a 154/2023. (IV. 27.) Korm. rendelet 20. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdés n) pontja a 213/2024. (VII. 29.) Korm. rendelet 50. § 3. pontja szerint módosított szöveg.
+[^33]: A 9. § (2) bekezdés o) pontját a 497/2023. (XI. 2.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^34]: A 9. § (4a) bekezdését a 497/2023. (XI. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^35]: A 9. § (8) bekezdés a) pontja a 497/2023. (XI. 2.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^36]: A 9. § (8) bekezdés b) pontja a 497/2023. (XI. 2.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.

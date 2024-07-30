@@ -1,15 +1,11 @@
-## XIII/B. Fejezet[^225]
+## XIII/B. Fejezet[^334]
 
 ## A PÉNZÜGYI ESZKÖZ
 
-## 64/B. A pénzügyi eszköz finanszírozására szolgáló számla
+## 64/B. Alkalmazási kör
 
-235/B. § (1) A pénzügyi eszköz finanszírozására a kincstárnál vezetett pénzügyi eszköz elkülönített fizetési (fő) számlát és pénzügyi eszközként megvalósított HET intézkedésenként egy-egy elkülönített fizetési számlát (a továbbiakban együtt: HEE pénzügyi eszköz számla) kell alkalmazni.
+235/B. § (1) A pénzügyi eszközre e rendelet szabályait – a (2) bekezdésben meghatározott kivétellel – alkalmazni kell, az e fejezetben meghatározott eltérésekkel.
 
-(2) A fejezetet irányító szerv vezetője az (1) bekezdésnek megfelelően HEE pénzügyi eszköz számlát nyit a kincstárnál.
+(2) A pénzügyi eszközre nem kell alkalmazni a 11. §-t, a 25. §-t, a 24–27. alcímet, a 39. alcímet, a 41–51/A. alcímet, valamint a 221. §, a 223. § és a 226. § kivételével a VIII. Fejezetet.
 
-(3) A fejezetet irányító szerv vezetője és a pénzügyi eszközt végrehajtó szerv vezetője jogosult a HEE pénzügyi eszköz számla felett rendelkezni. Ezt a jogot a pénzügyi eszközt végrehajtó szerv két, a kincstár részére előzetesen bejelentett személy együttes aláírásával gyakorolhatja.
-
-(4) A HEE pénzügyi eszköz számla vezetésének és forgalmának költségét a központi költségvetés terhére kell finanszírozni.
-
-[^225]: A XIII/B. Fejezetet (235/B. §-t) a 49/2024. (III. 4.) Korm. rendelet 9. §-a iktatta be.
+[^334]: A XIII/B. Fejezetet (235/B. §-t) a 49/2024. (III. 4.) Korm. rendelet 9. §-a iktatta be, a XIII/B. Fejezet (235/B–235/W. §) szövege a 213/2024. (VII. 29.) Korm. rendelet 47. §-ával megállapított szöveg.

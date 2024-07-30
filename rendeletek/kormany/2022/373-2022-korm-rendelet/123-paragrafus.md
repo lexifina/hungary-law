@@ -4,8 +4,11 @@
 
 (3) A végső kedvezményezett a (2) bekezdés szerinti hiánypótlási felhívás alapján módosított dokumentumokat vagy – ha a hiánypótlási felhívásban foglaltakkal nem ért egyet – a hiánypótlás elutasításának részletes indokolását megküldi a közbeszerzésekért felelős miniszter részére.
 
-(4) A közbeszerzésekért felelős miniszter az (1) bekezdés szerinti határidőben a végső kedvezményezett részére a szerződésmódosítás ellenőrzéséről tanúsítványt állít ki.
+(4)[^155] A közbeszerzésekért felelős miniszter az (1) bekezdés szerinti határidőben a végső kedvezményezett részére a szállítói szerződés módosítása ellenőrzéséről tanúsítványt állít ki.
 
 (5) Ha a tanúsítvány alapján a dokumentumok módosítása szükséges, a végső kedvezményezett a módosított dokumentumokat a tanúsítvány kézhezvételét követő három munkanapon belül megküldi a közbeszerzésekért felelős miniszter részére.
 
-(6) A végső kedvezményezett a szerződésmódosítást az aláírását követő három munkanapon belül megküldi a nemzeti hatóság és a közbeszerzésekért felelős miniszter részére.
+(6)[^156] A végső kedvezményezett a szállítói szerződés módosítását az aláírását követő három munkanapon belül megküldi a nemzeti hatóság és a közbeszerzésekért felelős miniszter részére.
+
+[^155]: A 123. § (4) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 35. pontja szerint módosított szöveg.
+[^156]: A 123. § (6) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 50. § 36. pontja szerint módosított szöveg.

@@ -26,8 +26,8 @@ az eljárásban támogatást igénylő, végső kedvezményezett, ezek képvisel
 
 (4) A lebonyolító szerv akkor sem járhat el, ha az ügy elfogulatlan megítélése tőle az (1) bekezdésben fel nem sorolt okból nem várható.
 
-(5)[^44] Ha a lebonyolító szerv összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a lebonyolító szervet a (4) bekezdés szerint kell minősíteni.
+(5)[^71] Ha a lebonyolító szerv összeférhetetlensége az (1) vagy a (2) bekezdés alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok rá nézve teljesül, vagy annak kockázata vagy látszata objektíven fennáll, akkor a lebonyolító szervet a (4) bekezdés szerint kell minősíteni.
 
 (6) Ha a lebonyolító szerv az (1), (2) vagy (4) bekezdésben meghatározott okból nem járhat el, akkor helyette a nemzeti hatóság folytatja le az eljárást.
 
-[^44]: A 29. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 17. pontja szerint módosított szöveg.
+[^71]: A 29. § (5) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 17. pontja szerint módosított szöveg.

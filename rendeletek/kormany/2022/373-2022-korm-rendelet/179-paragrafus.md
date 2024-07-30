@@ -12,7 +12,7 @@ d) az adatok a monitoring és információs rendszerben rögzítésre és jóvá
 
 e) az utalványozás megtörtént.
 
-(3) A nemzeti hatóság a szerződéstől akkor is elállhat, ha a végső kedvezményezett ellen
+(3)[^200] A nemzeti hatóság a támogatási szerződéstől akkor is elállhat, ha a végső kedvezményezett ellen
 
 a) felszámolási eljárás,
 
@@ -32,15 +32,23 @@ h) egyéb, a végső kedvezményezett fizetésképtelenségével összefüggésb
 
 indult, vagy van folyamatban.
 
-(4)[^121] A nemzeti hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
+(4)[^201] A nemzeti hatóság a köztartozás-mentességet a pénzügyi lebonyolítás során egyszer, a támogatásnak az előirányzat-felhasználási keretszámláról történő kifizetése előtt vizsgálja.
 
-(5)[^122] Ha a végső kedvezményezettnek köztartozása van, a nemzeti hatóság legfeljebb kilencvennapos határidő kitűzésével felhívja a köztartozás rendezésére.
+(4a)[^202] A köztartozás-mentességet a Nemzeti Adó- és Vámhivatal által fenntartott köztartozás-mentes adózói adatbázis adatai vagy az alapján a monitoring és információs rendszer részére szolgáltatott adatok vagy 30 napnál nem régebbi köztartozás-mentességről szóló, Nemzeti Adó- és Vámhivatal által kiállított igazolás alapján kell ellenőrizni.
 
-(6)[^123] Ha a végső kedvezményezett az (5) bekezdés szerinti határidőben a köztartozását nem szünteti meg, a nemzeti hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
+(5)[^203] Ha a végső kedvezményezettnek köztartozása van, a nemzeti hatóság
 
-(7)[^124] Szállítói finanszírozás, valamint engedményezés esetén a nemzeti hatóság az (1)–(6) bekezdés szerint vizsgálja a szállító, valamint az engedményes köztartozás-mentességét.
+a) a Nemzeti Adó- és Vámhivatal adatszolgáltatásában szereplő köztartozás, de legfeljebb a kifizetési kérelem alapján jóváhagyott támogatás összegét átutalja a Nemzeti Adó- és Vámhivatalnak, vagy
 
-[^121]: A 179. § (4) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^122]: A 179. § (5) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^123]: A 179. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
-[^124]: A 179. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+b) legfeljebb kilencvennapos határidő kitűzésével a végső kedvezményezettet a köztartozás rendezésre felhívja.
+
+(6)[^204] Ha a végső kedvezményezett az (5) bekezdés b) pontja szerinti határidőben a köztartozását nem szünteti meg, a nemzeti hatóság a kifizetési igénylés alapján jóváhagyott támogatást nem fizeti ki.
+
+(7)[^205] Szállítói finanszírozás, valamint engedményezés esetén a nemzeti hatóság az (1)–(6) bekezdés szerint vizsgálja a szállító, valamint az engedményes köztartozás-mentességét.
+
+[^200]: A 179. § (3) bekezdés nyitó szövegrésze a 213/2024. (VII. 29.) Korm. rendelet 50. § 50. pontja szerint módosított szöveg.
+[^201]: A 179. § (4) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.
+[^202]: A 179. § (4a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 29. §-a iktatta be.
+[^203]: A 179. § (5) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 213/2024. (VII. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^204]: A 179. § (6) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 213/2024. (VII. 29.) Korm. rendelet 50. § 51-52. pontja szerint módosított szöveg.
+[^205]: A 179. § (7) bekezdését a 154/2023. (IV. 27.) Korm. rendelet 12. §-a iktatta be.

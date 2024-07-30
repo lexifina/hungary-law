@@ -1,12 +1,12 @@
 ## 9. A lebonyolító szerv
 
-11. § (1)[^25] A lebonyolító szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött lebonyolítói megállapodásban foglaltak szerint a nemzeti hatóság nevében és megbízásából jár el.
+11. § (1)[^37] A lebonyolító szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött lebonyolítói megállapodásban foglaltak szerint a nemzeti hatóság nevében és megbízásából jár el.
 
-(2) A lebonyolító szerv feladatainak ellátásához közreműködőt kizárólag átmeneti jelleggel vagy speciális szakterületen, a nemzeti hatóság által meghatározott érték felett, a nemzeti hatóság előzetes egyetértésével vonhat be. A közreműködők teljesítéséért a lebonyolító szerv felel.
+(2)[^38] A lebonyolító szerv a nemzeti hatóság által meghatározott értékhatár alatt, a nemzeti hatóság előzetes tájékoztatása mellett átmeneti jelleggel vagy speciális szakterületet érintően közreműködőt vonhat be. A nemzeti hatóság előzetes engedélye szükséges a nemzeti hatóság által meghatározott érték felett a lebonyolító szerv feladatellátásához közreműködő bevonásához. A közreműködők teljesítéséért a lebonyolító szerv felel.
 
 (3) Lebonyolító szerv bevonása esetén a lebonyolító szerv feladatait az 1. mellékletben foglalt táblázat E oszlopában meghatározott szervezet látja el.
 
-(4)[^26] A nemzeti hatóság nevében és felkérésére támogatói okirat és a támogatási szerződés aláírása és kibocsátásának joga a lebonyolító szerv számára a lebonyolítói megállapodásban foglaltak szerint átadható.
+(4)[^39] A nemzeti hatóság nevében és felkérésére támogatói okirat és a támogatási szerződés aláírása és kibocsátásának joga a lebonyolító szerv számára a lebonyolítói megállapodásban foglaltak szerint átadható.
 
 (5) A lebonyolító szerv a feladatai ellátásáról a lebonyolítói megállapodásban foglalt rendszerességgel – de legalább évente – beszámolót készít.
 
@@ -16,17 +16,18 @@ a) utasítja a lebonyolító szervet a jogsértés felszámolására, a jogsért
 
 b) a jogsértéssel érintett ügyet vagy az átruházott feladatkört magához vonja, és a továbbiakban azt maga intézi.
 
-(7)[^27] A nemzeti hatóság a (6) bekezdés szerinti intézkedés alkalmazása mellett jogosult a lebonyolítói megállapodásban meghatározottak szerint a lebonyolítási díjat a jogsértéssel arányos módon csökkenteni.
+(7)[^40] A nemzeti hatóság a (6) bekezdés szerinti intézkedés alkalmazása mellett jogosult a lebonyolítói megállapodásban meghatározottak szerint a lebonyolítási díjat a jogsértéssel arányos módon csökkenteni.
 
-(8)[^28] Ha a nemzeti hatóság a 9. § (9) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a lebonyolító szerv súlyos vagy rendszerszintű jogsértést követett el, akkor gondoskodik a lebonyolítói megállapodás megszüntetéséről, valamint az ennek folytán a nemzeti hatósághoz visszakerülő feladatok ellátásáról, vagy más lebonyolító szerv bevonásáról.
+(8)[^41] Ha a nemzeti hatóság a 9. § (9) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a lebonyolító szerv súlyos vagy rendszerszintű jogsértést követett el, akkor gondoskodik a lebonyolítói megállapodás megszüntetéséről, valamint az ennek folytán a nemzeti hatósághoz visszakerülő feladatok ellátásáról, vagy más lebonyolító szerv bevonásáról.
 
-(9)[^29] Ha a nemzeti hatóság 9. § (9) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a lebonyolító szerv az átruházott feladatok elvégzéséhez szükséges kapacitással nem rendelkezik, a lebonyolítói megállapodás megszűntetéséről dönthet.
+(9)[^42] Ha a nemzeti hatóság 9. § (9) bekezdése szerinti, valamint az egyéb ellenőrzések eredményeként megállapítja, hogy a lebonyolító szerv az átruházott feladatok elvégzéséhez szükséges kapacitással nem rendelkezik, a lebonyolítói megállapodás megszűntetéséről dönthet.
 
-(10)[^30] A lebonyolítói megállapodás (8) bekezdés szerinti megszűnése esetén a nemzeti hatóság és lebonyolító szerv átadás-átvételi eljárást folytat le, valamint a lebonyolító szerv elszámol a rábízott forrásokkal.
+(10)[^43] A lebonyolítói megállapodás (8) bekezdés szerinti megszűnése esetén a nemzeti hatóság és lebonyolító szerv átadás-átvételi eljárást folytat le, valamint a lebonyolító szerv elszámol a rábízott forrásokkal.
 
-[^25]: A 11. § (1) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 11. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^27]: A 11. § (7) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^28]: A 11. § (8) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^29]: A 11. § (9) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 11. § (10) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^37]: A 11. § (1) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^38]: A 11. § (2) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^39]: A 11. § (4) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 11. § (7) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^41]: A 11. § (8) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^42]: A 11. § (9) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^43]: A 11. § (10) bekezdése a 154/2023. (IV. 27.) Korm. rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
