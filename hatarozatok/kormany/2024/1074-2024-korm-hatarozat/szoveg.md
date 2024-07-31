@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért Magyarország 2024–2030 közötti időszakra vonatkozó iparstratégiájával (a továbbiakban: Iparstratégia) és annak alapján a központi költségvetés teherbíró képességének figyelembevételével a kiemelt ágazatok támogatásával, a technológiavezérelt hazai ipar fejlesztésével;
 
-2. felhívja a nemzetgazdasági minisztert, hogy
+2.[^1] felhívja a nemzetgazdasági minisztert, hogy
 
 a) vizsgálja meg egy olyan szervezeti egység létrehozásának lehetőségét, amely a HIPA NZrt.-vel együttműködésben partneralapú kapcsolattartási rendszert biztosít a komplex fejlesztési tervekkel rendelkező vállalatok számára, kifejezetten a hazai beszállítók fejlődésének és a kutatás-fejlesztési projektek ipari célú hasznosulásának támogatása érdekében, és készítsen megvalósíthatósági tanulmányt a szervezeti egység létrehozásához szükséges személyi és anyagi feltételrendszerről,
 
@@ -12,9 +12,9 @@ c) hozza létre az iparstratégiai tanácsot, amelynek feladata az iparstratégi
 
 | Felelős: | nemzetgazdasági miniszter a b) és c) alpont tekintetében az érintett miniszterek |
 
-| Határidő: | 2024. április 30. |
+| Határidő: | az a) alpont tekintetében 2024. április 30., a b) és c) alpont tekintetében 2025. április 30. |
 
-3. felhívja a nemzetgazdasági minisztert, hogy a külgazdasági és külügyminiszter, valamint az érintett miniszterek bevonásával alakítsa ki
+3.[^2] felhívja a nemzetgazdasági minisztert, hogy a külgazdasági és külügyminiszter, valamint az érintett miniszterek bevonásával alakítsa ki
 
 a) a kiemelt ágazatok teljes értékláncra vonatkozó részletes beszállítói adatbázisát és minősítési rendszerét,
 
@@ -22,13 +22,13 @@ b) az a) alpontban foglalt adatbázisok adatalapú elemzési rendszerét, amelyn
 
 | Felelős: | nemzetgazdasági miniszter külgazdasági és külügyminiszter belügyminiszter érintett miniszterek |
 
-| Határidő: | az a) alpont tekintetében 2024. június 30. a b) alpont tekintetében 2024. december 31. |
+| Határidő: | az a) alpont tekintetében 2024. június 30. a b) alpont tekintetében 2025. április 30. |
 
-4. felhívja az európai uniós ügyekért felelős minisztert, hogy az érintett miniszterekkel együttműködésben az európai uniós szabályozási mechanizmusok kialakítása során – különös tekintettel a zöld és digitális átállás megvalósítása és az állami támogatások rendszerének alakítása tekintetében – érvényesítse a hazai iparstratégiai célokat;
+4.[^3] felhívja az európai uniós ügyekért felelős minisztert, hogy az érintett miniszterekkel együttműködésben az európai uniós szabályozási mechanizmusok kialakítása során – különös tekintettel a zöld és digitális átállás megvalósítása és az állami támogatások rendszerének alakítása tekintetében – érvényesítse a hazai iparstratégiai célokat;
 
 | Felelős: | európai uniós ügyekért felelős miniszter érintett miniszterek |
 
-| Határidő: | folyamatos |
+| Határidő: | 2025. április 30. |
 
 5. felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter és a pénzügyminiszter, valamint az érintett miniszterek bevonásával vizsgálja felül azokat az intézkedéseket, amelyek növelik az ipari termelő vállalatok működéséhez kapcsolódó költségeket, és tegyen javaslatot az ipari termelő vállalatok alapvető működéséhez szükséges költségek és adóterhek csökkentésére vonatkozóan a vállalkozások versenyképességének növelése érdekében;
 
@@ -58,11 +58,11 @@ b) a külföldi közvetlentőke-befektetések támogatására irányuló előter
 
 | Határidő: | folyamatos |
 
-9. felhívja a kultúráért és innovációért felelős minisztert, hogy a nemzetgazdasági miniszterrel és az európai uniós ügyekért felelős miniszterrel együttműködésben, az érintett miniszterek bevonásával készítsen előterjesztést az Iparstratégiában kiemelt eszközként bemutatott összekapcsolt kutatás-fejlesztési és ipari támogatáspolitika rendszeréről annak érdekében, hogy a támogatásra érdemes fejlesztések a kutatástól a piacra lépésig a teljes értéklánc mentén támogathatók legyenek, és a piacképes fejlesztések magasabb hozzáadott értéket képviselő lépései elsősorban Magyarországon valósuljanak meg;
+9.[^4] felhívja a kultúráért és innovációért felelős minisztert, hogy a nemzetgazdasági miniszterrel és az európai uniós ügyekért felelős miniszterrel együttműködésben, az érintett miniszterek bevonásával készítsen előterjesztést az Iparstratégiában kiemelt eszközként bemutatott összekapcsolt kutatás-fejlesztési és ipari támogatáspolitika rendszeréről annak érdekében, hogy a támogatásra érdemes fejlesztések a kutatástól a piacra lépésig a teljes értéklánc mentén támogathatók legyenek, és a piacképes fejlesztések magasabb hozzáadott értéket képviselő lépései elsősorban Magyarországon valósuljanak meg;
 
 | Felelős: | kultúráért és innovációért felelős miniszter nemzetgazdasági miniszter európai uniós ügyekért felelős miniszter érintett miniszterek |
 
-| Határidő: | 2024. június 30. |
+| Határidő: | 2025. április 30. |
 
 10. felhívja a kultúráért és innovációért felelős minisztert, hogy az igazságügyi miniszter, a nemzetgazdasági miniszter, a Szellemi Tulajdon Nemzeti Hivatala elnöke és a Magyar Divat és Design Ügynökség vezérigazgatója bevonásával alakítsa ki a szellemi vagyon üzleti értékét meghatározó értékelési módszert annak érdekében, hogy a szellemi tőkeberuházások üzleti értéke meghatározható legyen;
 
@@ -94,7 +94,7 @@ c) a belügyminiszter bevonásával alakítsa ki egy olyan program koncepciójá
 
 | Határidő: | 2024. június 30. |
 
-14. felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter, a közigazgatási és területfejlesztési miniszter, a kultúráért és innovációért felelős miniszter, az építési és közlekedési miniszter, a külgazdasági és külügyminiszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos bevonásával
+14.[^5] felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter, a közigazgatási és területfejlesztési miniszter, a kultúráért és innovációért felelős miniszter, az építési és közlekedési miniszter, a külgazdasági és külügyminiszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos bevonásával
 
 a) alakítson ki az ipari parkok, valamint a Tudományos és Innovációs Parkok (Science Parkok) adatbázisa felhasználásával ipari infrastruktúra alaptervet, amely meghatározza különösen a közműhálózathoz, az infokommunikációs hálózathoz, a munkaerőhöz, valamint a közlekedési és logisztikai rendszerhez kapcsolódó összehangolt, területi alapú, ipari fejlettség szintjének megfelelő igényeket és az igények teljesítésének végrehajtását,
 
@@ -102,7 +102,7 @@ b) az a) alpontban meghatározott feladat végrehajtására hozzon létre tárca
 
 | Felelős: | nemzetgazdasági miniszter energiaügyi miniszter közigazgatási és területfejlesztési miniszter kultúráért és innovációért felelős miniszter építési és közlekedési miniszter külgazdasági és külügyminiszter a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos |
 
-| Határidő: | 2024. december 31. |
+| Határidő: | 2025. április 30. |
 
 15. felhívja a nemzetgazdasági minisztert, hogy az európai uniós ügyekért felelős miniszter, a kultúráért és innovációért felelős miniszter, az agrárminiszter, valamint a közigazgatási és területfejlesztési miniszter bevonásával készítsen előterjesztést olyan támogatási program kialakításáról, amelynek célja, hogy hazai vállalatok egyedi termékeik és szolgáltatásaik fejlesztésével képesek legyenek import kiváltására;
 
@@ -125,3 +125,9 @@ b) törekedjen arra, hogy a kutatás-fejlesztési beruházások elsődleges, a b
 | Felelős: | kultúráért és innovációért felelős miniszter közigazgatási és területfejlesztési miniszter |
 
 | Határidő: | 2024. december 31. |
+
+[^1]: A 2. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 16. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 16. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont az 1229/2024. (VII. 31.) Korm. határozat 16. pont c) alpontja szerint módosított szöveg.
+[^4]: A 9. pont az 1229/2024. (VII. 31.) Korm. határozat 16. pont d) alpontja szerint módosított szöveg.
+[^5]: A 14. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 16. pont e) alpontja szerint módosított szöveg.
