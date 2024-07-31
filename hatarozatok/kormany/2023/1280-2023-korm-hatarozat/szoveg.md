@@ -24,14 +24,16 @@ a) 9 000 000 000 forint egyszeri átcsoportosításával a Magyarország 2023. �
 
 b) 48 300 000 000 forint egyszeri átcsoportosításával a vasúti személyszállítási közszolgáltatásokat finanszírozó források terhére, a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 11. Központi kezelésű előirányzatok cím, 1. Közlekedési közszolgáltatások költségtérítése alcím, 1. A vasúti pályahálózat működtetésének költségtérítése jogcímcsoport javára;
 
-5. felhívja az építési és közlekedési minisztert, hogy – az 1. pont szerinti cél megvalósítása során szerzett tapasztalatokat értékelve – készítsen előterjesztést a Kormány részére a 2023. december 31. napját követő időszakra javasolt vasúti versenyképességi intézkedések tekintetében;
+5.[^1] felhívja az építési és közlekedési minisztert, hogy – az 1. pont szerinti cél megvalósítása során szerzett tapasztalatokat értékelve – készítsen előterjesztést a Kormány részére a javasolt vasúti versenyképességi intézkedések tekintetében;
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | 2023. november 15. |
+| Határidő: | 2025. március 31. |
 
 6. felhívja az építési és közlekedési minisztert, hogy – az energiaügyi miniszter bevonásával – készítsen előterjesztést a Kormány részére a vasúti vontatási és nem vontatási célú villamosenergia piacának olyan jellegű átalakításáról, amely lehetővé teszi a vállalkozó vasúti társaságok számára a villamos energia önálló, pályahálózat-működtetőtől független beszerzését.
 
 | Felelős: | építési és közlekedési miniszter energiaügyi miniszter |
 
 | Határidő: | 2023. szeptember 30. |
+
+[^1]: Az 5. pont az 1229/2024. (VII. 31.) Korm. határozat 9. pontjával megállapított szöveg.
