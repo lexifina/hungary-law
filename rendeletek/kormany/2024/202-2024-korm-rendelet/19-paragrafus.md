@@ -1,1 +1,3 @@
-19. § Hatályát veszti a 187/2019. (VII. 30.) Korm. rendelet 3. § (2) bekezdés e) pontjában az „és” szövegrész.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

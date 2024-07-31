@@ -1,3 +1,3 @@
-16. § A 187/2019. (VII. 30.) Korm. rendelet 35. §-a a következő f) ponttal egészül ki:
+16. §[^17]
 
-(A kifogással megtámadott döntést hozó a kifogást érdemi vizsgálat nélkül elutasítja, ha)
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

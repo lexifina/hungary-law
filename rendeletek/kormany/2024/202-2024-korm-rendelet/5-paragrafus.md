@@ -1,3 +1,3 @@
-5. § A 187/2019. (VII. 30.) Korm. rendelet 3. § (2) bekezdése a következő g) és h) ponttal egészül ki:
+5. §[^6]
 
-(A támogatás a következő célterületeken igényelhető:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

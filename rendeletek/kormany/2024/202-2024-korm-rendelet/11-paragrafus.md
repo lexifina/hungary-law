@@ -1,3 +1,3 @@
-11. § A 187/2019. (VII. 30.) Korm. rendelet 16. § (1) bekezdése helyébe a következő rendelkezés lép:
+11. §[^12]
 
-„(1) Ha a kérelem érdemi eldöntése olyan kérdés előzetes elbírálásától vagy adatszolgáltatás rendelkezésre állásától függ, amelyben az eljárás vagy az adatszolgáltatás más szerv feladat- vagy hatáskörébe tartozik, vagy a Kincstárnak az adott üggyel szorosan összefüggő más döntése nélkül megalapozottan nem dönthető el, akkor a Kincstár a kérelem elbírálását az előzetes döntésről való tudomásszerzésig vagy adatszolgáltatás teljesítéséig – de legfeljebb a projekt fizikai befejezéséig – felfüggeszti.”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

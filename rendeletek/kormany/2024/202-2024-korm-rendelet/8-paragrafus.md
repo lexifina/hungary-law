@@ -1,3 +1,3 @@
-8. § A 187/2019. (VII. 30.) Korm. rendelet 10. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+8. §[^9]
 
-(Az e rendelet alapján a Kincstár által hozott döntés tartalmazza)
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

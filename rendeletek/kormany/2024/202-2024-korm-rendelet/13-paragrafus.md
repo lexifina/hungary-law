@@ -1,3 +1,3 @@
-13. § A 187/2019. (VII. 30.) Korm. rendelet 23. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+13. §[^14]
 
-(A jegyzőkönyv tartalmazza:)
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

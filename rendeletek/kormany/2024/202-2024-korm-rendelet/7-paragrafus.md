@@ -1,9 +1,3 @@
-7. § A 187/2019. (VII. 30.) Korm. rendelet 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(2) A támogatást a Kincstár a támogatást igénylőnek
-
-a) az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben,
-
-b) a 7. és 8. célterület tekintetében a támogatási kérelemben
-
-szereplő belföldi fizetési számlájára folyósítja.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

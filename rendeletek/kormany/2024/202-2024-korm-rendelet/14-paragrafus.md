@@ -1,5 +1,3 @@
-## „b) a 7. és a 8. célterület kivételével az ellenőrzés alá vont támogatást igénylő ügyfél-azonosítóját, a 7. és a 8. célterület esetén igénylői azonosítóját, az 1., a 2., a 7. és a 8. célterület esetén nevét és a lakóhelyét, a 3., a 4. és a 6. célterület esetén elnevezését és székhelyét,”
+14. §[^15]
 
-14. § A 187/2019. (VII. 30.) Korm. rendelet 28. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Amennyiben a támogatási jogviszony fennállása alatt a támogatást igénylőn kívül álló, előre nem látott, elháríthatatlan okból bekövetkező esemény (vis maior) miatt a támogatási jogviszonyból származó kötelezettség teljesítése lehetetlenné vált, úgy a vis maior eseményre vonatkozóan bejelentést kell benyújtania a támogatást igénylőnek, vagy amennyiben cselekvőképessége kizárttá vagy korlátozottá vált, úgy törvényes képviselőjének a Kincstár felé, az annak alátámasztására vonatkozó igazolás csatolásával együtt. A bejelentést a törvényes képviselő papír alapon is megteheti. A 7. és a 8. célterület kivételével a támogatást igénylő halálát nem kell bejelenteni.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
