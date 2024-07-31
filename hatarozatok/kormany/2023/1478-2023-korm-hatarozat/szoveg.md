@@ -2,11 +2,11 @@ A Kormány
 
 1. egyetért a 4. számú főút és a 49101. jelű út közötti közúti kapcsolat (a továbbiakban: beruházás) tervezési feladatainak kiviteli terv készítésével bezárólag történő elkészítésével;
 
-2. felhívja az építési és közlekedési minisztert, hogy gondoskodjon a beruházás előkészítésének megkezdésére, a tervezési feladatok elvégzésére irányuló közbeszerzési eljárások azonnali megindításáról és lefolytatásáról;
+2.[^2] felhívja az építési és közlekedési minisztert, hogy gondoskodjon a beruházás előkészítésének megkezdésére, a tervezési feladatok elvégzésére irányuló közbeszerzési eljárás megindításáról;
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | 2025. március 31. |
 
 3. felhívja az építési és közlekedési minisztert, hogy az 1. pontban meghatározott feladat megvalósítása érdekében – a pénzügyminiszter bevonásával – gondoskodjon legfeljebb 450 000 000 forint forrás rendelkezésre állásáról a 2025–2026. években az adott évi központi költségvetés XLV. Állami beruházások fejezet állami közútfejlesztési beruházásokat szolgáló előirányzatán, az alábbi ütemezés szerint:
 
@@ -25,3 +25,5 @@ b) a 2026. évben 150 000 000 forint;
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a tervezési feladatok lezárultát követő 60 napon belül |
+
+[^2]: A 2. pont az 1229/2024. (VII. 31.) Korm. határozat 14. pontjával megállapított szöveg.
