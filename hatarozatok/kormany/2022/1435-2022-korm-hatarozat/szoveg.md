@@ -8,18 +8,12 @@ b) egyetért azzal, hogy az a) alpont szerinti hitel tőkeösszege, valamint ann
 
 c) a Vtv. 29/C. § (2) bekezdésében meghatározott jogkörében eljárva az 1. pont b) alpontja szerinti állami kezességvállalás kapcsán a díj fizetését elengedi;
 
-d) felhívja a technológiai és ipari minisztert, hogy az 1. pont a) alpontja szerinti hitelszerződés megkötése után tájékoztassa a pénzügyminisztert annak tényleges, főbb paramétereiről;
+d)[^2]
 
-| Felelős: | technológiai és ipari miniszter |
+e)[^3]
 
-| Határidő: | a hitelszerződés megkötését követően azonnal |
+2.[^4]
 
-e) felhívja a technológiai és ipari minisztert, hogy gondoskodjon arról, hogy a MÁV-START Zrt. az 1. pont a) alpontja szerinti hitelt legfeljebb 50 darab két áramrendszerű, 230 km/óra maximális sebességre képes villamos mozdony beszerzésére fordítsa a közszolgáltatásnak minősülő vasúti közösségi közlekedés szolgáltatási színvonalának további emelése érdekében, azzal, hogy a mozdonyok megrendelése legkorábban a 2. pont a) alpontja szerinti személyszállító kocsik megrendelésével egyidejűleg történjen;
-
-| Felelős: | technológiai és ipari miniszter |
-
-| Határidő: | a felmerülés ütemében |
-
-2.[^1]
-
-[^1]: A 2. pontot az 1692/2022. (XII. 29.) Korm. határozat visszavonta.
+[^2]: Az 1. pont d) alpontját az 1229/2024. (VII. 31.) Korm. határozat 17. pont a) alpontja visszavonta.
+[^3]: Az 1. pont e) alpontját az 1229/2024. (VII. 31.) Korm. határozat 17. pont a) alpontja visszavonta.
+[^4]: A 2. pontot az 1692/2022. (XII. 29.) Korm. határozat visszavonta.
