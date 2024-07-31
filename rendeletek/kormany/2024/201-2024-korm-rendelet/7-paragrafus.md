@@ -1,5 +1,3 @@
-7. § A nemzeti köznevelési törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 37/L. §-a a következő (3) és (3a) bekezdéssel egészül ki:
+7. §[^7]
 
-„(3) Ha jogszabály előírja, hogy a köznevelési intézmény fenntartója részére biztosított központi költségvetési többlettámogatást a fenntartó kizárólag a pedagógusok új életpályájáról szóló 2023. évi LII. törvény 98. §-a szerinti havi illetményben részesülő foglalkoztatott (a továbbiakban: kötelező béremelésben érintettek) személyi juttatásaira és az azokhoz kapcsolódó, munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez szükséges finanszírozásra használhatja fel, akkor az elszámoláshoz csatolni kell a fenntartó nyilatkozatát arról, hogy az így biztosított többlettámogatás alapján köznevelési intézményenként a központi költségvetési támogatást kizárólag a kötelező béremelésben érintettek személyi juttatásaira és az azokhoz kapcsolódó, munkaadókat terhelő járulék és szociális hozzájárulási adó kifizetéséhez szükséges finanszírozásra használta fel.
-
-(3a) A (3) bekezdésben foglaltakat a pedagógus és a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő foglalkoztatottak minősítéséből eredő többletkiadás, a differenciált nemzetiségi pótlék és a diabétesz ellátási pótlék fedezetére szolgáló tárgyévi központi költségvetési törvény szerinti kiegészítő támogatás elszámolására is alkalmazni kell.”
+[^7]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

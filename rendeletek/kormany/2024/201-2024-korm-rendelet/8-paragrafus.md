@@ -1,3 +1,3 @@
-8. § A nemzeti köznevelésről szóló törvény végrehajtásáról szóló 229/2012. (VIII. 28.) Korm. rendelet 42. § (3) bekezdés d) pontja helyébe a következő rendelkezés lép:
+8. §[^8]
 
-(Az eljárás megindítását köteles kérni)
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
