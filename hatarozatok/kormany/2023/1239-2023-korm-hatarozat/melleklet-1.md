@@ -8,11 +8,11 @@
 
 | Határidő: | azonnal |
 
-## 4. felhívja az építési és közlekedési minisztert, hogy a 3. pont alapján megindított feltételes közbeszerzési eljárások során beérkező ajánlati árak ismeretében készítsen előterjesztést a Kormány részére az egyes beruházásokra vonatkozóan a beruházás folytatásához szükséges kötelezettségvállalás mértékéről, valamint a kötelezettségvállaláshoz szükséges forrás ütemezett biztosításáról.
+## 4.[^1] felhívja az építési és közlekedési minisztert, hogy a 3. pont alapján megindított feltételes közbeszerzési eljárások során beérkező ajánlati árak ismeretében készítsen előterjesztést a Kormány részére az egyes beruházásokra vonatkozóan a beruházás folytatásához szükséges kötelezettségvállalás mértékéről, valamint a kötelezettségvállaláshoz szükséges forrás ütemezett biztosításáról.
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | a közbeszerzési eljárások lefolytatását követően |
 
 1. melléklet az 1239/2023. (VI. 20.) Korm. határozathoz
 
@@ -25,3 +25,5 @@
 | 3. | Mohácsi Duna-híd megvalósítása a hozzá kapcsolódó úthálózat-fejlesztéssel együtt |
 
 | 4. | Hercegszántó – Backi Breg (Béreg) közúti határátkelő fejlesztése |
+
+[^1]: A 4. pont az 1229/2024. (VII. 31.) Korm. határozat 8. pontjával megállapított szöveg.
