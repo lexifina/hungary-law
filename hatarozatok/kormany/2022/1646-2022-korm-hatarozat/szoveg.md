@@ -26,15 +26,15 @@ A Kormány
 
 | Határidő: | a Stratégia végrehajtási ideje alatt folyamatosan, a 2024. és a 2027. évet követő jelentéstétel mellett |
 
-6. felhívja az építési és közlekedési minisztert, hogy végezzen elemzést a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EK irányelv módosításáról szóló, 2019. június 20-i 2019/1161/EU európai parlamenti és tanácsi irányelv és a hazai átültetését szolgáló jogi szabályozás teljesítésével összefüggő kötelezettségek gazdasági hatásairól, valamint szükség esetén gondoskodjon a tiszta járművek beszerzésére vonatkozó hazai célértékek teljesülésével összhangban a tiszta járművek közbeszerzéséhez igénybe vehető finanszírozási programok kidolgozásáról;
+6.[^1] felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter bevonásával végezzen elemzést a tiszta és energiahatékony közúti járművek használatának előmozdításáról szóló 2009/33/EK irányelv módosításáról szóló, 2019. június 20-i 2019/1161/EU európai parlamenti és tanácsi irányelv és a hazai átültetését szolgáló jogi szabályozás teljesítésével összefüggő kötelezettségek gazdasági hatásairól, valamint szükség esetén gondoskodjon a tiszta járművek beszerzésére vonatkozó hazai célértékek teljesülésével összhangban a tiszta járművek közbeszerzéséhez igénybe vehető finanszírozási programok kidolgozásáról;
 
-| Felelős: | építési és közlekedési miniszter |
+| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a Stratégia végrehajtási ideje alatt folyamatosan |
 
-7. felhívja a gazdaságfejlesztési minisztert, hogy a finanszírozási források feltételeinek előkészítése során vegye figyelembe azt a célt, hogy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti mikro-, kis- és középvállalkozások részére a zöld közbeszerzési követelményeknek történő megfelelést, az ökocímkék megszerzését, környezetvédelmi vezetési és hitelesítési rendszer bevezetését támogató programok álljanak rendelkezésre;
+7.[^2] felhívja a nemzetgazdasági minisztert, hogy az energiaügyi miniszter bevonásával a finanszírozási források feltételeinek előkészítése során vegye figyelembe azt a célt, hogy a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény szerinti mikro-, kis- és középvállalkozások részére a zöld közbeszerzési követelményeknek történő megfelelést, az ökocímkék megszerzését, környezetvédelmi vezetési és hitelesítési rendszer bevezetését támogató programok álljanak rendelkezésre;
 
-| Felelős: | gazdaságfejlesztési miniszter |
+| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a Stratégia végrehajtási ideje alatt folyamatosan |
 
@@ -47,3 +47,6 @@ A Kormány
 9. felkéri a Közbeszerzési Hatóság elnökét, hogy zöld közbeszerzési kompetenciacentrumként – az érdekeltek, valamint az uniós forrásokból megvalósuló beszerzések ellenőrzésével és auditálásával foglalkozó hazai intézmények bevonásával – dolgozzon ki a hazai közbeszerzésekben a gyakorlati alkalmazásba átültethető zöld közbeszerzési megoldásokat 2023. november 30-ig legalább 3 beszerzési termék, illetve termékcsoport vonatkozásában;
 
 10. felkéri a Nemzeti Fenntartható Fejlődési Tanácsot, hogy tanácsadó és véleményező szerepkörben támogassa a zöld közbeszerzési kompetenciacentrum munkáját az elvégzendő feladatok, célok kijelölésében, a közbeszerzési megoldásokat kidolgozó szakértői csoportok összetételének meghatározásában.
+
+[^1]: A 6. pont az 1229/2024. (VII. 31.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 7. pont az 1229/2024. (VII. 31.) Korm. határozat 4. pontjával megállapított szöveg.
