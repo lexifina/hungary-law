@@ -1,3 +1,3 @@
-2. § A 24/2008. (VIII. 15.) PM rendelet 9. §-a a következő e) ponttal egészül ki:
+2. §[^3]
 
-(Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
