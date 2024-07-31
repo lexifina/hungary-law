@@ -1,1 +1,3 @@
-1. § Az egyes nemzetgazdasági szempontból kiemelt jelentőségű beruházásokra vonatkozó szabályoknak a veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 523/2023. (XI. 30.) Korm. rendelet 2. § (1) bekezdés b) pontjában a „közlekedési hatóság” szövegrész helyébe a „Hajdú-Bihar Vármegyei Kormányhivatal közlekedési hatósága” szöveg lép.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
