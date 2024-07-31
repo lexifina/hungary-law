@@ -32,15 +32,15 @@
 
 ## 6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1. mellékletben foglalt táblázat 7–8. sorában meghatározott feladatok megvalósításához a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím terhére vállalható kötelezettségvállalás felső korlátját a 2024. évben 453 000 000 forint összegben állapítja meg;
 
-## 7. hozzájárul, hogy az 1. mellékletben foglalt táblázat 2–6. sorában meghatározott feladatok vonatkozásában a közbeszerzési eljárások lefolytatásra kerüljenek, és az 1. mellékletben foglalt táblázat 5. sorában meghatározott feladat esetében a területszerzési, terület-előkészítési feladatok megindításra kerüljenek;
+## 7.[^3] hozzájárul, hogy az 1. mellékletben foglalt táblázat 2–6. sorában meghatározott feladatok vonatkozásában a közbeszerzési eljárások, továbbá az 1. mellékletben foglalt táblázat 5. sorában meghatározott feladat esetében a területszerzési, terület-előkészítési feladatok megindításra kerüljenek;
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | 2025. március 31. |
 
 ## 8. mentesíti az 1. mellékletben foglalt táblázat 2–8. sorában meghatározott feladatokkal kapcsolatos beruházásokat a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat 2. pontjának alkalmazása alól.
 
-## 9.[^3] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt táblázat 2–6. sorában meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 1 250 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
+## 9.[^4] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt táblázat 2–6. sorában meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 1 250 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
 
 1. melléklet az 1301/2023. (VII. 19.) Korm. határozathoz
 
@@ -66,4 +66,5 @@ A debreceni Észak-Nyugati Gazdasági Övezet kialakításával összefüggő k�
 
 [^1]: A 2. pont az 1118/2024. (IV. 23.) Korm. határozat 9. pontjával megállapított szöveg.
 [^2]: Az 5. pont az 1118/2024. (IV. 23.) Korm. határozat 10. pontjával megállapított szöveg.
-[^3]: A 9. pontot az 1118/2024. (IV. 23.) Korm. határozat 11. pontja iktatta be.
+[^3]: A 7. pont az 1229/2024. (VII. 31.) Korm. határozat 10. pontjával megállapított szöveg.
+[^4]: A 9. pontot az 1118/2024. (IV. 23.) Korm. határozat 11. pontja iktatta be.
