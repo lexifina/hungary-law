@@ -4,9 +4,9 @@ A Kormány
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | 2023. december 31. |
+| Határidő: | 2025. március 31. |
 
 2.[^2] az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy a GYSEV Zrt. versenyeztetés mellőzésével, legalább a független szakértő által megállapított bérleti díj megfizetése mellett, határozatlan időre, bérleti jogviszony keretében a GYSEV CARGO Zártkörűen Működő Részvénytársaság használatába adhatja a Konténerterminált, fejlesztéspolitikai szempontok szerinti közérdekű cél ellátásának elősegítése érdekében.
 
-[^1]: Az 1. pont az 1448/2023. (X. 16.) Korm. határozat 2. pontjával megállapított szöveg.
+[^1]: Az 1. pont az 1448/2023. (X. 16.) Korm. határozat 2. pontjával megállapított, az 1229/2024. (VII. 31.) Korm. határozat 5. pontja szerint módosított szöveg,
 [^2]: A 2. pont az 1448/2023. (X. 16.) Korm. határozat 2. pontjával megállapított szöveg.
