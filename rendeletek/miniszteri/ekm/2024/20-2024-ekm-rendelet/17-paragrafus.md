@@ -1,7 +1,3 @@
-17. § Hatályát veszti a Rendelet
+17. §[^18]
 
-a) 8. § (14) bekezdés 8. pont c) alpontja,
-
-b) 8. § (14) bekezdés 14. pontja,
-
-c) 15. § (6) bekezdése.
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

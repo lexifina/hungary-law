@@ -1,3 +1,3 @@
-4. § A Rendelet 8. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) A 651/2014/EU bizottsági rendelet, az (EU) 2023/2831 bizottsági rendelet, a 2012/21/EU bizottsági határozat és az (EU) 2023/2832 bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

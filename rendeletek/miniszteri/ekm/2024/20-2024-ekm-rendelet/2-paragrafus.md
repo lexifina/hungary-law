@@ -1,5 +1,3 @@
-## „16. egy és ugyanazon vállalkozás: az (EU) 2023/2831 bizottsági rendelet 2. cikk 2. pontja szerinti vállalkozás,”
+2. §[^3]
 
-2. § A Rendelet 2. §-a a következő 25a. ponttal egészül ki:
-
-(E rendelet alkalmazásában)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

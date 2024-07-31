@@ -1,3 +1,3 @@
-13. § A Rendelet a következő 63/A. §-sal egészül ki:
+13. §[^14]
 
-„63/A. § E rendeletnek a XVI. Építési és Közlekedési Minisztérium fejezet fejezeti kezelésű előirányzatainak és központi kezelésű előirányzatainak kezeléséről és felhasználásáról szóló 24/2023. (XII. 29.) ÉKM rendelet módosításáról szóló 20/2024. (VII. 29.) ÉKM rendelettel (a továbbiakban: Módr.) megállapított 2. § 25a. pontját, 8. § (15) és (16) bekezdését, 63/A. §-át, 64. §-át, módosított 2. § 16. pontját, 7. §-át, 8. § (1), (3) és (4) bekezdését, 8. § (14) bekezdés 3. pont d) alpontját, 8. § (14) bekezdés 8. pont a) és b) alpontját, 9. § (1) bekezdését, 36. § (1) bekezdés b) pontját, 38. § (10) bekezdését, 1. és 2. mellékletét a 2024. január 1. napján és a Módr. hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

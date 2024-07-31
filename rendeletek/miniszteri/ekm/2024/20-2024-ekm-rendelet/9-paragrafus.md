@@ -1,3 +1,3 @@
-9. § A Rendelet 26. § (5) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(5) Nem nyújtható támogatás, ha a támogatott beruházást kizárólag azért hajtják végre, hogy a vállalkozás megfeleljen a hatályos uniós szabványoknak.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

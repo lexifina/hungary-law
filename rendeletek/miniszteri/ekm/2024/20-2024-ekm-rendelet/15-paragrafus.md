@@ -1,3 +1,3 @@
-15. § (1) A Rendelet 1. melléklete helyébe az 1. melléklet lép.
+15. §[^16]
 
-(2) A Rendelet 2. melléklete helyébe a 2. melléklet lép.
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
