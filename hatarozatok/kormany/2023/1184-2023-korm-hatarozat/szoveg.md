@@ -2,4 +2,6 @@ A Kormány felhívja az építési és közlekedési minisztert, hogy a gazdasá
 
 | Felelős: | építési és közlekedési miniszter gazdaságfejlesztési miniszter |
 
-| Határidő: | 2023. június 30. |
+| Határidő: | 2025. március 31.[^1] |
+
+[^1]: A határozat szövege az 1229/2024. (VII. 31.) Korm. határozat 6. pontja szerint módosított szöveg.
