@@ -12,9 +12,9 @@
 
 | Határidő: | az 1. pont a) és c) alpontjában foglalt feltétel teljesülését követően azonnal |
 
-## 3. felhívja az építési és közlekedési minisztert és a honvédelmi minisztert, hogy gondoskodjanak az Ügynökség bevonásával az 1. pont b) alpontja szerinti sportingatlanoknak az Ügynökség tulajdonosi joggyakorlása alá kerüléséhez kapcsolódó szükséges intézkedések megtételéről;
+## 3.[^2] felhívja a honvédelmi minisztert, hogy gondoskodjon az Ügynökség bevonásával az 1. pont b) alpontja szerinti sportingatlanoknak az Ügynökség tulajdonosi joggyakorlása alá kerüléséhez kapcsolódó szükséges intézkedések megtételéről;
 
-| Felelős: | építési és közlekedési miniszter honvédelmi miniszter |
+| Felelős: | honvédelmi miniszter |
 
 | Határidő: | az 1. pont b) alpontjában foglalt feltétel teljesülését követően azonnal |
 
@@ -37,3 +37,4 @@
 1. melléklet az 1518/2023. (XI. 29.) Korm. határozathoz
 
 [^1]: Az 1. pont c) alpontja az 1089/2024. (IV. 3.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1229/2024. (VII. 31.) Korm. határozat 15. pontjával megállapított szöveg.
