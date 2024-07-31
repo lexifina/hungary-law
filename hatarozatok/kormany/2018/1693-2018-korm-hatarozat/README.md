@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-1693-30
 | 2019-06-26 | 2018-1693-30-22.3 | 1389/2019. (VI. 29.) Korm. határozat |
 | 2023-01-01 | 2018-1693-30-22.6 | 2011: CXCV. törvény |
 | 2023-09-05 | 2018-1693-30-22.4 | 1389/2023. (IX. 5.) Korm. határozat |
+| 2024-07-31 | 2018-1693-30-22.5 | 1229/2024. (VII. 31.) Korm. határozat |
