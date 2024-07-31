@@ -1,5 +1,3 @@
-1. § Hatályát veszti az elektromobilitás hazai elterjesztésével kapcsolatos egyes állami feladatokról szóló 443/2017. (XII. 27.) Korm. rendelet
+1. §[^2]
 
-a) 2. § c) pontja,
-
-b) 3. § b) és c) pontja.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
