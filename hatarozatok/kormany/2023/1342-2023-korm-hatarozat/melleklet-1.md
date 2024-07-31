@@ -2,19 +2,19 @@
 
 ## 2. egyetért az 1. pont szerinti beruházások a Magyarország szomszédságában zajló háború idején a rezsicsökkentés megvédése és a honvédelmi célok teljesítése érdekében szükséges költségvetési intézkedésekről szóló 1281/2022. (VI. 4.) Korm. határozat 2. pontja szerinti rendelkezések alóli mentesítésével;
 
-## 3. felhívja az építési és közlekedési minisztert, hogy gondoskodjon az 1. melléklet szerinti közútfejlesztési beruházások előkészítésének megkezdésére, valamint folytatására irányuló közbeszerzési eljárások azonnali megindításáról és lefolytatásáról;
+## 3.[^1] felhívja az építési és közlekedési minisztert, hogy gondoskodjon az 1. melléklet szerinti közútfejlesztési beruházások előkészítésének megkezdésére, valamint lefolytatására irányuló közbeszerzési eljárások azonnali megindításáról;
 
 | Felelős: | építési és közlekedési miniszter |
 
-| Határidő: | azonnal |
+| Határidő: | 2025. március 31. |
 
-## 4.[^1] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszterrel egyeztetve gondoskodjon az állami közútfejlesztési beruházásokat szolgáló kiadási előirányzaton az 1. melléklet szerinti beruházások előkészítése 2024. évi részének finanszírozása érdekében legfeljebb 2 500 000 000 forint rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XLV. Állami Beruházások fejezet, 4. Beruházások előkészítése cím terhére;
+## 4.[^2] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszterrel egyeztetve gondoskodjon az állami közútfejlesztési beruházásokat szolgáló kiadási előirányzaton az 1. melléklet szerinti beruházások előkészítése 2024. évi részének finanszírozása érdekében legfeljebb 2 500 000 000 forint rendelkezésre állásáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XLV. Állami Beruházások fejezet, 4. Beruházások előkészítése cím terhére;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
 | Határidő: | a felmerülés ütemében, legkésőbb 2024. december 31-ig |
 
-## 5.[^2] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszterrel egyeztetve, az 1. mellékletben meghatározott feladatok megvalósítása érdekében gondoskodjon legfeljebb 45 000 000 000 forint forrás rendelkezésre állásáról a 2025–2028. években az adott évi központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházások finanszírozását szolgáló előirányzaton, a következő ütemezés szerint:
+## 5.[^3] felhívja az építési és közlekedési minisztert, hogy a pénzügyminiszterrel egyeztetve, az 1. mellékletben meghatározott feladatok megvalósítása érdekében gondoskodjon legfeljebb 45 000 000 000 forint forrás rendelkezésre állásáról a 2025–2028. években az adott évi központi költségvetés XLV. Állami beruházások fejezet, állami közútfejlesztési beruházások finanszírozását szolgáló előirányzaton, a következő ütemezés szerint:
 
 ## a) a 2025. évben 15 000 000 000 forint,
 
@@ -28,9 +28,9 @@
 
 | Határidő: | az adott évi központi költségvetés tervezése során |
 
-## 6.[^3] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 1. mellékletben foglalt beruházások előkészítéséhez a 2025–2028. évekre a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettségek felső korlátját 45 000 000 000 forintban határozza meg;
+## 6.[^4] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 1. mellékletben foglalt beruházások előkészítéséhez a 2025–2028. évekre a központi költségvetés XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére vállalható kötelezettségek felső korlátját 45 000 000 000 forintban határozza meg;
 
-## 7.[^4] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt közútfejlesztési beruházások tervezési feladatainak ellátása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, legfeljebb 2 500 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
+## 7.[^5] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. mellékletben foglalt közútfejlesztési beruházások tervezési feladatainak ellátása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, legfeljebb 2 500 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
 
 1. melléklet az 1342/2023. (VII. 31.) Korm. határozathoz
 
@@ -86,7 +86,8 @@
 
 | 25. | Sárvár, iparterületet elkerülő út előkészítése |
 
-[^1]: A 4. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
-[^2]: Az 5. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
-[^3]: A 6. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
-[^4]: A 7. pontot az 1118/2024. (IV. 23.) Korm. határozat 13. pontja iktatta be.
+[^1]: A 3. pont az 1229/2024. (VII. 31.) Korm. határozat 12. pontjával megállapított szöveg.
+[^2]: A 4. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
+[^3]: Az 5. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
+[^4]: A 6. pont az 1118/2024. (IV. 23.) Korm. határozat 12. pontjával megállapított szöveg.
+[^5]: A 7. pontot az 1118/2024. (IV. 23.) Korm. határozat 13. pontja iktatta be.
