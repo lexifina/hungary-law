@@ -1,3 +1,3 @@
-2. § Az R. a következő 150. §-sal egészül ki:
+2. §[^3]
 
-„150. § E rendeletnek az egyes gazdaságfejlesztési célú és munkahelyteremtő beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, valamint egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek módosításáról szóló 141/2018. (VII. 27.) Korm. rendelet módosításáról szóló 208/2024. (VII. 29.) Korm. rendelettel (a továbbiakban: Módr142.) megállapított 6/Z. § (2b) bekezdését, 11. mellékletét és módosított 6/Z. § (1) bekezdését, 2. mellékletében foglalt táblázat B:78 mezőjét a Módr142. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
