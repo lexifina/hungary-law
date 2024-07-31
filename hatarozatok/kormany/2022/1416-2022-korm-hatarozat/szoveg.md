@@ -10,8 +10,10 @@ c) az Esterházy-kastély tetőszerkezeteinek átfogó vizsgálata és a szüks�
 
 finanszírozására is;
 
-2. felhívja az építési és beruházási minisztert, hogy az 1. pontban foglaltak végrehajtása érdekében gondoskodjon az 1501/2021. (VII. 26.) Korm. határozat 2.4. alpontja szerinti támogatási szerződés módosításáról.
+2.[^1] felhívja az építési és beruházási minisztert, hogy az 1. pontban foglaltak végrehajtása érdekében gondoskodjon az 1501/2021. (VII. 26.) Korm. határozat 2.4. alpontja szerinti támogatási szerződés módosításáról.
 
 Felelős: építési és beruházási miniszter
 
-Határidő: azonnal
+Határidő: 2025. december 31.
+
+[^1]: A 2. pont az 1229/2024. (VII. 31.) Korm. határozat 2. pontja szerint módosított szöveg.
