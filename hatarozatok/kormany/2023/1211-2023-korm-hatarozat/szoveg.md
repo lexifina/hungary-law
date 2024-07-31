@@ -16,8 +16,10 @@ c) figyelembe kell venni a Külgazdasági és Külügyminisztérium, valamint a 
 
 | Határidő: | a felmerülés ütemében |
 
-4. felhívja a területfejlesztési minisztert, hogy – a külgazdasági és külügyminiszter, az építési és közlekedési miniszter, valamint a gazdaságfejlesztési miniszter bevonásával – a 2. pont szerinti megvalósíthatósági tanulmányok megállapításai alapján készítsen előterjesztést a repülőterek fejlesztésének koncepciójáról, terület- és gazdaságfejlesztési hatásairól, prioritási sorrendben bemutatva a lehetséges beruházásokat, azok becsült időigényét és indikatív költségét, annak figyelembevételével, hogy a költségek a 2021–2027 közötti európai uniós programozási időszak megfelelő programjaiban elszámolhatóak legyenek.
+4.[^1] felhívja a közigazgatási és területfejlesztési minisztert, hogy – a külgazdasági és külügyminiszter, az építési és közlekedési miniszter, az energiaügyi miniszter, valamint a nemzetgazdaság miniszter bevonásával – a 2. pont szerinti megvalósíthatósági tanulmányok megállapításai alapján készítsen előterjesztést a repülőterek fejlesztésének koncepciójáról, terület- és gazdaságfejlesztési, illetve környezetvédelmi hatásairól, prioritási sorrendben bemutatva a lehetséges beruházásokat, azok becsült időigényét és indikatív költségét, annak figyelembevételével, hogy a költségek a 2021–2027 közötti európai uniós programozási időszak megfelelő programjaiban elszámolhatóak legyenek.
 
-| Felelős: | területfejlesztési miniszter külgazdasági és külügyminiszter építési és közlekedési miniszter gazdaságfejlesztési miniszter |
+| Felelős: | közigazgatási és területfejlesztési miniszter külgazdasági és külügyminiszter építési és közlekedési miniszter nemzetgazdasági miniszter energiaügyi miniszter |
 
 | Határidő: | a 2. pont szerinti megvalósíthatósági tanulmányok elkészítését követő 60 napon belül |
+
+[^1]: A 4. pont az 1229/2024. (VII. 31.) Korm. határozat 7. pontjával megállapított szöveg.
