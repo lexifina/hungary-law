@@ -4,7 +4,7 @@ A Kormány
 
 2. egyetért azzal, hogy a Beruházás1 a Gazdaságvédelmi Akcióterv keretében a gödi ipari-innovációs fejlesztési terület infrastruktúra-fejlesztéseiről szóló 1173/2020. (IV. 22.) Korm. határozattal biztosított forráson felül további legfeljebb 2 801 400 000 forint többletforrás felhasználásával valósuljon meg;
 
-3. felhívja a pénzügyminisztert, hogy az építési és beruházási miniszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos kezdeményezésére gondoskodjon a Beruházás1 megvalósítása érdekében
+3.[^1] felhívja a pénzügyminisztert, hogy az építési és beruházási miniszter, valamint a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos kezdeményezésére gondoskodjon a Beruházás1 megvalósítása érdekében
 
 a) 600 300 000 forint többletforrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVI. Építési és Beruházási Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 1. Közúti infrastruktúra-fejlesztések jogcímcsoport javára,
 
@@ -12,7 +12,7 @@ b) 2 201 100 000 forint többletforrás rendelkezésre állásáról a 2024. év
 
 | Felelős: | pénzügyminiszter építési és beruházási miniszter a befektetésösztönzésért és kiemelt magyarországi nagybefektetések megvalósításáért felelős kormánybiztos |
 
-| Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) alpont tekintetében a 2024. évi központi költségvetés tervezése során |
+| Határidő: | az a) alpont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) alpont tekintetében 2025. december 31. |
 
 4. felhívja az építési és beruházási minisztert, hogy – a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság útján – gondoskodjon a Beruházás1 kapcsán a területszerzési feladatok lefolytatásáról, valamint a kivitelező kiválasztására irányuló közbeszerzési eljárás megindításáról és lefolytatásáról;
 
@@ -53,3 +53,5 @@ b) 2 201 100 000 forint többletforrás rendelkezésre állásáról a 2024. év
 | Felelős: | technológiai és ipari miniszter építési és beruházási miniszter |
 
 | Határidő: | a már rendelkezésre bocsátott források tekintetében azonnal a 2023. évi központi költségvetésben biztosított források tekintetében 2023. január 15-ig |
+
+[^1]: A 3. pont záró szövegrésze az 1229/2024. (VII. 31.) Korm. határozat 3. pontja szerint módosított szöveg.
