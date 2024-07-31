@@ -1,3 +1,3 @@
-36. § A 373/2022. (IX. 30.) Korm. rendelet 193. § (1) bekezdése a következő c) ponttal egészül ki:
+36. §[^37]
 
-(A kifogásolt döntést hozó szerv a döntés ellen benyújtott kifogás esetén)
+[^37]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

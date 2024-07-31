@@ -1,3 +1,3 @@
-24. § A 373/2022. (IX. 30.) Korm. rendelet 121. § (2) bekezdése helyébe a következő rendelkezés lép:
+24. §[^25]
 
-„(2) Előzetes ellenőrzés kezdeményezése esetén a végső kedvezményezett megküldi a szállítói szerződést, a szállítói szerződés módosítása tervezetét és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a nemzeti hatóság és a közbeszerzésekért felelős miniszter részére.”
+[^25]: A 24. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

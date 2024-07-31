@@ -1,3 +1,3 @@
-35. § A 373/2022. (IX. 30.) Korm. rendelet 189. §-a a következő (3a) bekezdéssel egészül ki:
+35. §[^36]
 
-„(3a) A benyújtó a kifogást visszavonhatja, amíg a kifogást nem bírálták el. A visszavont kifogást nem lehet ismételten benyújtani.”
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

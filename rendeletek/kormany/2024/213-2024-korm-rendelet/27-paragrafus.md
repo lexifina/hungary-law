@@ -1,3 +1,3 @@
-27. § A 373/2022. (IX. 30.) Korm. rendelet 140. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép, és a bekezdés a következő e) ponttal egészül ki:
+27. §[^28]
 
-(A szokásos piaci ár meghatározható különösen)
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

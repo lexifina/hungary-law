@@ -1,3 +1,3 @@
-33. § A 373/2022. (IX. 30.) Korm. rendelet 188. § (1) bekezdése helyébe a következő rendelkezés lép:
+33. §[^34]
 
-„(1) Olyan projekt esetén, amely korábban nem uniós finanszírozású projektként részesült központi költségvetési támogatásban, vagy uniós finanszírozású projektként indult, de a projekt bizonylatai a Bizottság felé költségnyilatkozatban nem kerültek benyújtásra, és utólag, egyedi döntés alapján a projekt e rendelet hatálya alá tartozó támogatásban részesül, a költségvetés által korábban finanszírozott elszámoló bizonylatokat a végső kedvezményezettnek olyan önálló kifizetési igénylés keretében kell benyújtania elszámolásra, amely kizárólag költségvetési előfinanszírozással érintett számlákat tartalmaz.”
+[^34]: A 33. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

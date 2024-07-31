@@ -1,5 +1,3 @@
-## „7a. aláírja az Európai Bizottsággal a HET végrehajtására kötött operatív megállapodást,”
+3. §[^4]
 
-3. § A 373/2022. (IX. 30.) Korm. rendelet 5. § 23. pontja helyébe a következő rendelkezés lép:
-
-(Az európai uniós források felhasználásáért felelős miniszter)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

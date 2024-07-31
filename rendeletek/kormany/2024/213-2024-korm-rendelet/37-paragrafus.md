@@ -1,5 +1,3 @@
-## „c) megszünteti a kifogás elbírálására irányuló eljárást, ha a kifogás visszavonására a kifogás Belső Ellenőrzési és Integritási Igazgatósághoz történő felterjesztését megelőzően kerül sor.”
+37. §[^38]
 
-37. § A 373/2022. (IX. 30.) Korm. rendelet 198. §-a a következő g)–h) ponttal egészül ki:
-
-(A nemzeti hatóság vezetője szabálytalansági eljárás mellőzésével állapíthat meg szabálytalanságot, és határozhat meg e rendelet szerinti jogkövetkezményt, ha)
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

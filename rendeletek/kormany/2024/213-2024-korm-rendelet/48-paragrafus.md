@@ -1,3 +1,3 @@
-48. § A 373/2022. (IX. 30.) Korm. rendelet 65. alcíme a következő 237/E. §-sal egészül ki:
+48. §[^49]
 
-„237/E. § E rendeletnek a Magyarország Helyreállítási és Ellenállóképességi Terve végrehajtásának alapvető szabályairól és felelős intézményeiről szóló 373/2022. (IX. 30.) Korm. rendelet módosításáról szóló 213/2024. (VII. 29.) Korm. rendelettel [a továbbiakban: 213/2024. (VII. 29.) Korm. rendelet] megállapított 12/A–12/C. §-át és 235/B–235/W. §-át a 213/2024. (VII. 29.) Korm. rendelet hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.”
+[^49]: A 48. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

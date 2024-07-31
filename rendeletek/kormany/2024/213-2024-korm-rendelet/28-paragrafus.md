@@ -1,9 +1,3 @@
-## „d) az Elektronikus Közbeszerzési Rendszerben közzétett ajánlatkérés alapján lefolytatott beszerzési eljárás eredményeként megkötött szerződésben rögzített ár vagy
+28. §[^29]
 
-## e) egyéb, az elszámolhatósági útmutatóban, vagy a pályázati felhívásban rögzített módszer”
-
-## (alapján.)
-
-28. § A 373/2022. (IX. 30.) Korm. rendelet 166. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
-
-(Szakmai beszámolóhoz nem kötött időközi kifizetési igénylést a projekt keretében felmerült költségek elszámolása érdekében projekt mérföldkövek között kizárólag)
+[^29]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

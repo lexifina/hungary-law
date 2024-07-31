@@ -1,3 +1,3 @@
-9. § A 373/2022. (IX. 30.) Korm. rendelet 14. § b) pontja helyébe a következő rendelkezés lép:
+9. §[^10]
 
-(A Belső Ellenőrzési és Integritási Igazgatóság)
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

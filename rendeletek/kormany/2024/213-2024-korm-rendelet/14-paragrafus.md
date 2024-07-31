@@ -1,3 +1,3 @@
-14. § A 373/2022. (IX. 30.) Korm. rendelet 32. §-a a következő (2a) bekezdéssel egészül ki:
+14. §[^15]
 
-„(2a) A szakértő felkérését követően haladéktalanul írásban jelzi a felkérő szerv részére az összeférhetetlenség tényét.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

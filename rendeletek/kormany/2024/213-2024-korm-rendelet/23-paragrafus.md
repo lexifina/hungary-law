@@ -1,3 +1,3 @@
-23. § A 373/2022. (IX. 30.) Korm. rendelet 118. § (1) bekezdése helyébe a következő rendelkezés lép:
+23. §[^24]
 
-„(1) A végső kedvezményezett a szállítói szerződést, a szállítói szerződés módosítását és a szállítói szerződés módosítása jogszerűségét alátámasztó dokumentumokat a szállítói szerződés módosítását követő öt munkanapon belül megküldi a nemzeti hatóság részére utóellenőrzés céljából.”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
