@@ -32,11 +32,7 @@
 
 | Határidő: | 2023. június 30. |
 
-## 3.5. az ajánlások 5. alpontja tekintetében:
-
-| Felelős: | a miniszterelnök általános helyettese Miniszterelnökséget vezető miniszter építési és közlekedési miniszter |
-
-| Határidő: | 2023. június 30. |
+## 3.5. [^2]
 
 ## 3.6. az ajánlások 7. alpontja tekintetében:
 
@@ -274,7 +270,7 @@
 
 | Határidő: | 2023. június 30. |
 
-## 5.[^1]
+## 5.[^3]
 
 1. melléklet a 1647/2022. (XII. 22.) Korm. határozathoz
 
@@ -404,4 +400,5 @@ A KVB javasolja a szlovén félnek a kétnyelvű nevelő-oktató intézményekre
 
 24. A KVB javasolja a magyar félnek, hogy vizsgálja meg a Rába-vidéken működő települési nemzetiségi önkormányzatok számára további források növelésének lehetőségét.
 
-[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont 3.5. alpontját az 1229/2024. (VII. 31.) Korm. határozat 17. pont d) alpontja visszavonta.
+[^3]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
