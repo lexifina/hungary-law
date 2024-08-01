@@ -1,3 +1,3 @@
-### 252. § [Az igazgató feletti munkáltatói jogkör gyakorlása]
+### 252. § [A kormányhivatal igazgatója feletti munkáltatói jogkör gyakorlása]
 
-Az igazgató felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.
+A kormányhivatal igazgatója felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.

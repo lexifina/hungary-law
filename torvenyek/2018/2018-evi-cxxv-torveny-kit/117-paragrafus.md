@@ -14,4 +14,4 @@
 
 (7) Ha a kormányzati szolgálati jogviszony jogellenesen került megszüntetésre, a kormánytisztviselőnek a hasonló álláshelyen foglalkoztatott kormánytisztviselőével azonos mértékű fizetett ellenérték jár.
 
-(8) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya a 107. § (1) bekezdés a), b) és d) pontjában és 107. § (2) bekezdés g) pontjában foglaltak szerint kerül megszüntetésre, újabb kormányzati szolgálati jogviszonyt a jogviszony megszűnésétől számított három évig csak a Kormány engedélyével létesíthet.
+(8) Ha a kormánytisztviselő kormányzati szolgálati jogviszonya a 105. § (1) bekezdés b) pontjában, a 107. § (1) bekezdés a), b) és d) pontjában és 107. § (2) bekezdés g) pontjában foglaltak szerint kerül megszüntetésre, újabb kormányzati szolgálati jogviszonyt a jogviszony megszűnésétől számított három évig csak a Kormány engedélyével létesíthet.

@@ -1,10 +1,10 @@
 ### 29/B. § [A Belső Ellenőrzési és Integritási Igazgatóság]
 
-(1) Az európai uniós források felhasználásáért felelős miniszter munkaszervezetében (a továbbiakban e § alkalmazásában: minisztérium) – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
+(1) A Nemzeti Fejlesztési Központban – a 28. § (1) bekezdésében meghatározottaktól eltérő szervezeti egységként – Belső Ellenőrzési és Integritási Igazgatóság (a továbbiakban e § alkalmazásában: Igazgatóság) működik.
 
 (1a) Az Igazgatóság hatásköre kiterjed az európai uniós költségvetés végrehajtásában részt vevő valamennyi nemzeti hatóságra és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény szerinti állami projektértékelőkre.
 
-(2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a minisztérium szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
+(2) Az Igazgatóság szervezetébe az igazgató titkársága, valamint a Nemzeti Fejlesztési Központ szervezeti és működési szabályzatában (a továbbiakban e § alkalmazásában: szervezeti és működési szabályzat) kijelölt önálló szervezeti egységek tartoznak.
 
 (3) Az Igazgatóságot igazgató (a továbbiakban e § alkalmazásában: igazgató) vezeti. Az igazgató – az Igazgatóság közreműködésével – az európai uniós források felhasználásának ellenőrzésével kapcsolatosan a jogszabályokban meghatározott feladatokat látja el, így különösen:
 
@@ -54,11 +54,11 @@ d) testvére nagykorú egyenesági rokonának természetes személyazonosító a
 
 (4) Az igazgatót a szervezeti és működési szabályzatban kijelölt, az igazgató irányítása alá tartozó főosztályvezető vagy osztályvezető helyettesíti.
 
-(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint az európai uniós források felhasználásáért felelős miniszter, a minisztérium államtitkára vagy közigazgatási államtitkára irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható, feladatait minden más intézmény, szerv, politikai párt, társaság, egyesület, jogi vagy természetes személy általi befolyásolástól mentesen köteles ellátni.
+(5) Az igazgató tevékenységét a szervezeti és működési szabályzat szerint a 33/B. § (1) bekezdése szerinti államtitkár irányítja. Az európai uniós források felhasználásával kapcsolatos feladatok tekintetében az igazgató nem utasítható, feladatait minden más intézmény, szerv, politikai párt, társaság, egyesület, jogi vagy természetes személy általi befolyásolástól mentesen köteles ellátni.
 
 (6) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselők és munkavállalók kiválasztása az Integritás Hatóság által jóváhagyott objektív szempontrendszer alapján, pályázati eljárás keretében történik. Az Integritás Hatóság ellenőrzi az Igazgatóság kormánytisztviselőinek és munkavállalóinak kiválasztását és a felvételi eljárás szabálytalansága esetén új eljárás lefolytatását kezdeményezheti az igazgatónál.
 
-(7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a minisztérium közigazgatási államtitkára nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a minisztérium közigazgatási államtitkára jár el.
+(7) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselőt az igazgató javaslatára a 33/B. § (1) bekezdése szerinti államtitkár nevezi ki és menti fel. A munkaviszony létesítése és megszüntetése során a munkáltatói jogkör gyakorlójaként az Igazgatóság szervezetében foglalkoztatott munkavállaló tekintetében a 33/B. § (1) bekezdése szerinti államtitkár jár el.
 
 (8) Az Igazgatóság szervezetében foglalkoztatott kormánytisztviselő és munkavállaló felett a munkáltatói jogot – a (7) bekezdésben meghatározott kivétellel – az igazgató gyakorolja.
 

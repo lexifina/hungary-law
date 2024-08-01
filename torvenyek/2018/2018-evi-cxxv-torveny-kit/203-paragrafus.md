@@ -12,4 +12,4 @@ d) halálával.
 
 (2) Ha az államtitkár megbízatása az (1) bekezdés a) pontja alapján szűnt meg, az államtitkár az új Kormány megalakulásáig vagy az (1) bekezdés b)–d) pontjában meghatározott feltétel bekövetkeztéig gyakorolja hatáskörét.
 
-(3) Ha az államtitkár megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényét a miniszterelnök előterjesztésére a köztársasági elnök állapítja meg.
+(3) Ha az államtitkár megbízatása az (1) bekezdés d) pontja alapján szűnik meg, ennek tényéről a miniszter közleményben ad tájékoztatást, amit a Magyar Közlönyben közzé kell tenni.

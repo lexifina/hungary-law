@@ -54,23 +54,27 @@ d) a területi kormányzati igazgatási szervek kormánytisztviselője.
 
 a) a Miniszterelnöki Kormányiroda és a minisztérium közigazgatási államtitkára,
 
-b) a Miniszterelnöki Kormányiroda és a minisztérium helyettes államtitkára,
+b) a Miniszterelnöki Kormányiroda, a Nemzeti Fejlesztési Központ és a minisztérium helyettes államtitkára,
 
 c) a kormányzati főhivatal és a központi hivatal vezetője és vezetőjének helyettese,
 
-d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató) és
+d) a kormányhivatal főigazgatója (a továbbiakban: főigazgató),
 
-e) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
+e) a Nemzeti Fejlesztési Központon belül működő főigazgatóságot vezető főigazgató, és
+
+f) a Belső Ellenőrzési és Integritási Igazgatóság vezetője.
 
 (8) Szakmai vezető:
 
-a) a kormányhivatal igazgatója (a továbbiakban: igazgató),
+a) a kormányhivatal igazgatója,
 
-b) a járási hivatal, illetve a fővárosban a fővárosi kerületi hivatal (a továbbiakban együtt: járási hivatal) vezetője és vezetőjének helyettese,
+b) a Nemzeti Fejlesztési Központon belül működő igazgatóság igazgatója,
 
-c) a főosztályvezető, és
+c) a járási hivatal, illetve a fővárosban a fővárosi kerületi hivatal (a továbbiakban együtt: járási hivatal) vezetője és vezetőjének helyettese,
 
-d) az osztályvezető.
+d) a főosztályvezető, és
+
+e) az osztályvezető.
 
 (9) Az e törvényben nem szereplő megbízatás és tisztség kormányzati feladatok teljesítésére nem adható.
 

@@ -14,7 +14,7 @@ c) nyelvtanulási támogatás.
 
 (3a) A (3) bekezdés alkalmazásában a kormányzati szolgálati jogviszony kormánytisztviselő általi megszüntetésnek minősül
 
-a) a 89. § (6) bekezdés szerinti munkahelyváltás,
+a) a 89/A. § szerinti munkahelyváltás,
 
 b) a jogviszonynak a 105. § (1) bekezdés a) és b) pontja alapján történő megszüntetése,
 

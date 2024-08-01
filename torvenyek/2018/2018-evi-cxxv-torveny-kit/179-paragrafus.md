@@ -36,4 +36,4 @@ együttesen kell tárolni (a továbbiakban együtt: személyi anyag).
 
 (4) A személyi anyagot – kivéve, amelyet a (3) bekezdés alapján átadtak – a jogviszony megszűnésétől számított ötven évig meg kell őrizni.
 
-(5) A (4) bekezdésben meghatározott ideig meg kell őrizni kormánytisztviselő – 89. § (6) bekezdésével, 104. § (9) és (10) bekezdésével, valamint 105. § (2) és (3) bekezdésével összefüggésben – átadott személyi anyagának másolatát is (fogyatékanyag).
+(5) A (4) bekezdésben meghatározott ideig meg kell őrizni kormánytisztviselő – 89/A. §-sal, 104. § (9) és (10) bekezdésével, valamint 105. § (2) és (3) bekezdésével összefüggésben – átadott személyi anyagának másolatát is (fogyatékanyag).
