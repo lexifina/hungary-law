@@ -1,3 +1,3 @@
-125. §[^613]
+125. §[^629]
 
-[^613]: A 124–125. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^629]: A 124–125. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

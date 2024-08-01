@@ -1,6 +1,6 @@
-43. §[^266] (1)[^267] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak a közbeszerzésekért felelős miniszter támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a közreműködő szervezet 39/B. § (4) bekezdése szerinti támogató nyilatkozatának a megléte esetén folyósítható.
+43. §[^274] (1)[^275] A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFK támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a közreműködő szervezet 39/B. § (4) bekezdése szerinti támogató nyilatkozatának a megléte esetén folyósítható.
 
 (2) Szabálytalansági eljárás lefolytatása esetén a szabálytalanságról e rendelet szerint hozott döntés tartalma az irányadó a támogatás folyósítása tekintetében.
 
-[^266]: A 43. § az 548/2013. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^267]: A 43. § (1) bekezdése a 106/2018. (VI. 15.) Korm. rendelet 7. § 12. pontja szerint módosított szöveg.
+[^274]: A 43. § az 548/2013. (XII. 30.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^275]: A 43. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 7. § 44. pontja szerint módosított szöveg.

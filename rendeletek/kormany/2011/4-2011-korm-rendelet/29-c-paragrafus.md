@@ -1,6 +1,6 @@
-## 20/C. [^170] A többletkötelezettség-vállalási igény
+## 20/C. [^178] A többletkötelezettség-vállalási igény
 
-29/C. § (1)[^171] Az irányító hatóság által összeállítandó többletkötelezettség-vállalási igény benyújtásához a 2a. mellékletben foglalt táblázat kitöltése szükséges. A többletkötelezettség-vállalási igény tartalmazza:
+29/C. § (1)[^179] Az irányító hatóság által összeállítandó többletkötelezettség-vállalási igény benyújtásához a 2a. mellékletben foglalt táblázat kitöltése szükséges. A többletkötelezettség-vállalási igény tartalmazza:
 
 a) a prioritás alapadatait,
 
@@ -20,8 +20,8 @@ d) a prioritás jogosultságát a többletkötelezettség-vállalásra a projekt
 
 (3) A lemorzsolódási adatok tekintetében be kell mutatni a prioritás közkiadás alapú forrás lemorzsolódását és annak főbb összetevőit, abszolút értékben és a prioritás teljes lekötött közkiadás állományának százalékában.
 
-(4)[^172] Az irányító hatóságnak előrejelzést kell adnia a többletkötelezettség-vállalás által generált kifizetések éves lefutására.
+(4)[^180] Az irányító hatóságnak előrejelzést kell adnia a többletkötelezettség-vállalás által generált kifizetések éves lefutására.
 
-[^170]: A 20/C. alcímet (29/C. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
-[^171]: A 29/C. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 43. pontja szerint módosított szöveg.
-[^172]: A 29/C. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 44. pontja szerint módosított szöveg.
+[^178]: A 20/C. alcímet (29/C. §) a 25/2012. (II. 29.) Korm. rendelet 18. §-a iktatta be.
+[^179]: A 29/C. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 43. pontja szerint módosított szöveg.
+[^180]: A 29/C. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 44. pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## 4. [^42] Az európai uniós források felhasználásáért felelős miniszter
+## 4.[^42] A Nemzeti Fejlesztési Központ
 
-## 5. §[^43] Az európai uniós források felhasználásáért felelős miniszter
+5. §[^43] A Nemzeti Fejlesztési Központ (a továbbiakban: NFK)
 
 a) összehangolja a központi államigazgatási szervek európai uniós támogatási forrásokból finanszírozott országos szintű fejlesztéssel kapcsolatos tevékenységét, módszereket és követelményeket dolgoz ki a támogatáspolitikai intézkedésekhez,
 
@@ -16,7 +16,7 @@ f) gondoskodik az állami támogatások – a mezőgazdasági, a halászati, az 
 
 g) biztosítja a 3. melléklet 53. sorának A oszlopában meghatározott operatív program tekintetében az 5/A. § szerinti irányító hatósági feladatok ellátását,
 
-h)[^48] a központi koordinációs szerv útján központi koordinációs funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes alkalmazásának biztosítása érdekében, melynek keretében
+h)[^48] központi koordinációs funkciót lát el az operatív programok összehangolt végrehajtása, valamint a fejlesztéspolitikai jogszabályok egységes alkalmazásának biztosítása érdekében, melynek keretében
 
 ha)[^49] az irányító hatósággal együttműködve kialakítja a támogatások igénylésével és felhasználásával kapcsolatos eljárásrendet, biztosítja a program- és projekt végrehajtási eljárás teljes folyamatának egységességét, meghatározza az irányító hatósági feladatok delegálására vonatkozó eljárásjogi kereteket, előkészíti az egységes működési kézikönyvet a lebonyolításban érintett szervek számára,
 
@@ -62,13 +62,15 @@ hu) az irányító hatósággal együttműködve egységes, minden operatív pro
 
 hv) ellátja az operatív programok zárásának koordinációs feladatait.
 
-[^42]: A 4. alcím (5. §) az 548/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított szöveg. A 4. alcím címe a 203/2014. (VIII. 14.) Korm. rendelet 9. § 2. pontjával megállapított szöveg.
-[^43]: Az 5. § nyitó szövegrésze a 203/2014. (VIII. 14.) Korm. rendelet 9. § 3. pontjával megállapított szöveg.
+i)[^56] ellenőrzi az operatív programok keretében biztosított támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságát.
+
+[^42]: A 4. alcím (5. §) az 548/2013. (XII. 30.) Korm. rendelet 3. §-ával megállapított, a 4. alcím címe a 218/2024. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^43]: Az 5. § nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 7. § 3. pontja szerint módosított szöveg.
 [^44]: Az 5. § b) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 3. pontja szerint módosított szöveg.
 [^45]: Az 5. § c) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 4. pontja szerint módosított szöveg.
 [^46]: Az 5. § d) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 5. pontja szerint módosított szöveg.
 [^47]: Az 5. § e) pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 6. pontja szerint módosított szöveg.
-[^48]: Az 5. § h) pont nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 1. § 3. pontja szerint módosított szöveg.
+[^48]: Az 5. § h) pont nyitó szövegrésze a 218/2024. (VII. 31.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
 [^49]: Az 5. § h) pont ha) alpontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 4. pontja szerint módosított szöveg.
 [^50]: Az 5. § h) pont hg) alpontja a 4/2016. (I. 20.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^51]: Az 5. § h) pont hh) alpontját a 4/2016. (I. 20.) Korm. rendelet 2. §-a iktatta be.
@@ -76,3 +78,4 @@ hv) ellátja az operatív programok zárásának koordinációs feladatait.
 [^53]: Az 5. § h) pont hj) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 8. pontja szerint módosított szöveg.
 [^54]: Az 5. § h) pont ho) alpontját a 106/2018. (VI. 15.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^55]: Az 5. § h) pont hq) alpontja a 4/2016. (I. 20.) Korm. rendelet 5. § 9. pontja szerint módosított szöveg.
+[^56]: Az 5. § i) pontját a 218/2024. (VII. 31.) Korm. rendelet 2. §-a iktatta be.

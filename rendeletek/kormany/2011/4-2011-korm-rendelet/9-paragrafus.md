@@ -1,14 +1,12 @@
-## 8. § A közbeszerzésekért felelős miniszter ellenőrzi az operatív programok keretében biztosított támogatások felhasználása során lefolytatott közbeszerzési eljárások szabályosságát.
-
 ## 8. A monitoring bizottságok feladatai
 
 9. § (1) Az operatív programok végrehajtását monitoring bizottságok követik nyomon.
 
 (2) A monitoring bizottság elnökét a miniszterelnök nevezi ki.
 
-(3)[^73] A monitoring bizottságba tagot delegál
+(3)[^80] A monitoring bizottságba tagot delegál
 
-a)[^74] az európai uniós források felhasználásáért felelős miniszter,
+a)[^81] az NFK,
 
 b) az irányító hatáság,
 
@@ -30,19 +28,19 @@ c) az igazoló hatóság, az ellenőrzési hatóság és a központi harmonizác
 
 d) a közreműködő szervezet és a forráskezelő szervezet,
 
-e)[^75] az érintett miniszter,
+e)[^82] az érintett miniszter,
 
-f)[^76] a vállalkozásfejlesztésért felelős miniszter.
+f)[^83] a vállalkozásfejlesztésért felelős miniszter.
 
 (5) A monitoring bizottság ellátja az 1083/2006/EK tanácsi rendelet 65. cikkében meghatározott feladatokat, és megtárgyalja az akciótervet.
 
-(6)[^77]
+(6)[^84]
 
-(7)[^78] A monitoring bizottság működésének részletes szabályait – a központi koordinációs szerv által meghatározott egységes elvek mentén – ügyrendjében állapítja meg.
+(7)[^85] A monitoring bizottság működésének részletes szabályait – az NFK által meghatározott egységes elvek mentén – ügyrendjében állapítja meg.
 
-[^73]: A 9. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^74]: A 9. § (3) bekezdés a) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontjával megállapított szöveg.
-[^75]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^76]: A 9. § (4) bekezdés f) pontját az 548/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 8. § b) pontja, a 258/2022. (VII. 20.) Korm. rendelet 1. § 5. pontja szerint módosított szöveg.
-[^77]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
-[^78]: A 9. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^80]: A 9. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^81]: A 9. § (3) bekezdés a) pontja a 203/2014. (VIII. 14.) Korm. rendelet 9. § 1. pontjával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
+[^82]: A 9. § (4) bekezdés e) pontját a 25/2012. (II. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^83]: A 9. § (4) bekezdés f) pontját az 548/2013. (XII. 30.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 8. § b) pontja, a 258/2022. (VII. 20.) Korm. rendelet 1. § 5. pontja szerint módosított szöveg.
+[^84]: A 9. § (6) bekezdését a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 4. pontja hatályon kívül helyezte.
+[^85]: A 9. § (7) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 14. pontja szerint módosított szöveg.

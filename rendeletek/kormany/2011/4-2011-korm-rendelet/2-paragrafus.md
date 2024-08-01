@@ -48,7 +48,7 @@
 
 16a.[^17] közkiadás: az 1083/2006/EK tanácsi rendelet 2. cikk 5. pontja szerinti kiadás, amelynek részét képezi az uniós és a központi költségvetési támogatáson kívül a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 5. § (1) bekezdése, valamint 7. § (1)–(2) bekezdése alapján ajánlatkérőnek minősülő közszféra szervezet kedvezményezett által biztosított elismerhető saját forrás is,
 
-16b.[^18] központi koordinációs szerv: az operatív programok egységes eljárásrendek mentén történő, koordinált végrehajtását biztosító szervezeti egység,
+16b.[^18]
 
 17.[^19] közreműködő szervezet: az 1083/2006/EK tanácsi rendelet 2. cikk 6. pontja szerinti szervezet,
 
@@ -84,7 +84,7 @@
 
 26b.[^32] tartalék támogatási konstrukció aktiválása: a korábban tartalékként nevesített támogatási konstrukció törlése, egyúttal annak a 26. pont szerinti támogatási konstrukcióként történő megjelenítése az akcióterv módosítása révén,
 
-27.[^33] támogatási szerződés: a kedvezményezett és a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja között létrejött polgári jogi szerződés,
+27.[^33] támogatási szerződés: a kedvezményezett és az irányító hatósági feladatokat ellátó szervezet között létrejött polgári jogi szerződés,
 
 28. támogatói okirat: a lebonyolításban érintett szervezet által kiadott dokumentum, amely a pályázat elfogadásával keletkeztet a támogatás nyújtásának és felhasználásának részletes szabályairól szólóan polgári jogi jogviszonyt,
 
@@ -112,7 +112,7 @@ d) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra é
 
 rendelkezései szerint kell értelmezni.
 
-(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumban az irányító hatóság vezetője által kijelölt szervezeti egységet kell érteni.
+(3)[^37] Ha valamely támogatási konstrukció esetében közreműködő szervezet nem kerül kijelölésre, és e rendelet közreműködő szervezetet említ, azon az irányító hatósági feladatokat ellátó szervezet vezetője által kijelölt szervezeti egységet kell érteni.
 
 [^3]: A 2. § (1) bekezdés 1. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés 1a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege az 548/2013. (XII. 30.) Korm. rendelet 44. § (1) bekezdés 2. pontja szerint módosított szöveg.
@@ -129,7 +129,7 @@ rendelkezései szerint kell értelmezni.
 [^15]: A 2. § (1) bekezdés 12. pontja a 4/2016. (I. 20.) Korm. rendelet 5. § 2. pontja szerint módosított szöveg.
 [^16]: A 2. § (1) bekezdés 14. pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 2. pontja szerint módosított szöveg.
 [^17]: A 2. § 16a. pontját a 153/2011. (VIII. 10.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 323/2015. (X. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^18]: A 2. § (1) bekezdés 16b. pontját az 548/2013. (XII. 30.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^18]: A 2. § (1) bekezdés 16b. pontját az 548/2013. (XII. 30.) Korm. rendelet 1. § (5) bekezdése iktatta be, a 218/2024. (VII. 31.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
 [^19]: A 2. § (1) bekezdés 17. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
 [^20]: A 2. § (1) bekezdés 18. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^21]: A 2. § (1) bekezdés 19. pontja a 25/2012. (II. 29.) Korm. rendelet 2. § (7) bekezdésével megállapított, az 548/2013. (XII. 30.) Korm. rendelet 43. § 3. pontja szerint módosított szöveg.
@@ -144,8 +144,8 @@ rendelkezései szerint kell értelmezni.
 [^30]: A 2. § (1) bekezdés 25b. pontját a 356/2013. (X. 8.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^31]: A 2. § (1) bekezdés 26a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
 [^32]: A 2. § (1) bekezdés 26b. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^33]: A 2. § (1) bekezdés 27. pontja az 548/2013. (XII. 30.) Korm. rendelet 43. § 5. pontja szerint módosított szöveg.
+[^33]: A 2. § (1) bekezdés 27. pontja a 218/2024. (VII. 31.) Korm. rendelet 7. § 1. pontja szerint módosított szöveg.
 [^34]: A 2. § (1) bekezdés 29. pontja a 25/2012. (II. 29.) Korm. rendelet 61. § 2. pontja szerint módosított szöveg.
 [^35]: A 2. § (1) bekezdés 30. pontját a 25/2012. (II. 29.) Korm. rendelet 62. § (1) bekezdés 1. pontja hatályon kívül helyezte.
 [^36]: A 2. § (1) bekezdés 32a. pontját a 25/2012. (II. 29.) Korm. rendelet 2. § (13) bekezdése iktatta be.
-[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 258/2022. (VII. 20.) Korm. rendelet 1. § 2. pontja, a 640/2023. (XII. 28.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^37]: A 2. § (3) bekezdése a 203/2014. (VIII. 14.) Korm. rendelet 2. §-ával megállapított, a 640/2023. (XII. 28.) Korm. rendelet 3. § a) pontja, a 218/2024. (VII. 31.) Korm. rendelet 7. § 2. pontja szerint módosított szöveg.

@@ -1,16 +1,16 @@
 46. § (1) Az ezen alcím alkalmazása során a támogatást igénylő, illetve a kedvezményezett
 
-a)[^278] a közbeszerzési eljárás előkészítésének, lefolytatásának, valamint a szerződés módosításának időbeli ütemezését az ezen alcímben meghatározott határidők figyelembevételével köteles tervezni és megvalósítani,
+a)[^286] a közbeszerzési eljárás előkészítésének, lefolytatásának, valamint a szerződés módosításának időbeli ütemezését az ezen alcímben meghatározott határidők figyelembevételével köteles tervezni és megvalósítani,
 
-b)[^279] a dokumentumok megküldésével egyidejűleg köteles feltüntetni a beszerzés Kbt. szerinti becsült értékét, a szerződéshez rendelt elnevezést és a projekt azonosítószámát, és csatolni nyilatkozatát a Kbt. 19. § (2) és (3) bekezdése szerinti részekre bontás tilalmának figyelembevételéről,
+b)[^287] a dokumentumok megküldésével egyidejűleg köteles feltüntetni a beszerzés Kbt. szerinti becsült értékét, a szerződéshez rendelt elnevezést és a projekt azonosítószámát, és csatolni nyilatkozatát a Kbt. 19. § (2) és (3) bekezdése szerinti részekre bontás tilalmának figyelembevételéről,
 
 c) a dokumentumokat elektronikus formában küldi meg.
 
-(2)[^280] A közbeszerzésekért felelős miniszter és a közreműködő szervezet számára meghatározott határidőbe nem számít bele a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, jogorvoslati, illetve szabálytalansági eljárás esetén az eljárás felfüggesztésének időtartama.
+(2)[^288] Az NFK és a közreműködő szervezet számára meghatározott határidőbe nem számít bele a hiánypótlásra, illetve a tényállás tisztázásához szükséges adatok közlésére irányuló felhívástól az annak teljesítéséig terjedő idő, jogorvoslati, illetve szabálytalansági eljárás esetén az eljárás felfüggesztésének időtartama.
 
-(3)[^281] A hiánypótlások késedelmes teljesítése vagy nem teljesítése esetén a lebonyolításban érintett szervezet a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket és a szerződésmódosításokat.
+(3)[^289] A hiánypótlások késedelmes teljesítése vagy nem teljesítése esetén a lebonyolításban érintett szervezet a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket és a szerződésmódosításokat.
 
-[^278]: A 46. § (1) bekezdés a) pontja a 302/2013. (VII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^279]: A 46. § (1) bekezdés b) pontja a 323/2015. (X. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^280]: A 46. § (2) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 17. §-ával megállapított, a 106/2018. (VI. 15.) Korm. rendelet 7. § 22. pontja szerint módosított szöveg.
-[^281]: A 46. § (3) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^286]: A 46. § (1) bekezdés a) pontja a 302/2013. (VII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^287]: A 46. § (1) bekezdés b) pontja a 323/2015. (X. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^288]: A 46. § (2) bekezdése a 176/2012. (VII. 26.) Korm. rendelet 17. §-ával megállapított, a 218/2024. (VII. 31.) Korm. rendelet 7. § 54. pontja szerint módosított szöveg.
+[^289]: A 46. § (3) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.

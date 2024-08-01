@@ -1,6 +1,6 @@
-88. § (1)[^447] A szabálytalansági eljárás során eljáró szervezet vezetője dönt a szabálytalansággal érintett projekthez kapcsolódó kifizetések felfüggesztéséről. A kifizetés felfüggesztése a szabálytalansági eljárás időtartama alatt bármikor lehetséges. A kifizetés közreműködő szervezet általi felfüggesztését az irányító hatóság felülbírálhatja. A kifizetés felfüggesztését meg kell szüntetni, ha annak indokai már nem állnak fenn. A kifizetés felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet tájékoztatni kell.
+88. § (1)[^456] A szabálytalansági eljárás során eljáró szervezet vezetője dönt a szabálytalansággal érintett projekthez kapcsolódó kifizetések felfüggesztéséről. A kifizetés felfüggesztése a szabálytalansági eljárás időtartama alatt bármikor lehetséges. A kifizetés közreműködő szervezet általi felfüggesztését az irányító hatóság felülbírálhatja. A kifizetés felfüggesztését meg kell szüntetni, ha annak indokai már nem állnak fenn. A kifizetés felfüggesztésének elrendeléséről és megszüntetéséről a kedvezményezettet tájékoztatni kell.
 
-(2)[^448] A kifizetés felfüggesztését el kell rendelni, ha a kifizetés szabálytalanság megállapítása esetén veszélyeztetné a szabálytalansággal érintett összeg behajtását, így különösen, ha
+(2)[^457] A kifizetés felfüggesztését el kell rendelni, ha a kifizetés szabálytalanság megállapítása esetén veszélyeztetné a szabálytalansággal érintett összeg behajtását, így különösen, ha
 
 a) a szabálytalansággal érintett projektben a kedvezményezett nem nyújtott biztosítékot,
 
@@ -14,8 +14,8 @@ e) ugyanazon kedvezményezettel szemben más szabálytalansági eljárás van fo
 
 f) a kifizetést követően az eredeti pénzügyi állapot nem állítható helyre.
 
-(3)[^449] A kifizetés felfüggesztését meg kell szüntetni, ha a kifizetés elmaradása súlyosabb pénzügyi következménnyel jár, mint amilyet a kifizetés eredményezne.
+(3)[^458] A kifizetés felfüggesztését meg kell szüntetni, ha a kifizetés elmaradása súlyosabb pénzügyi következménnyel jár, mint amilyet a kifizetés eredményezne.
 
-[^447]: A 88. § (1) bekezdés az 548/2013. (XII. 30.) Korm. rendelet 43. § 166. pontja szerint módosított szöveg.
-[^448]: A 88. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
-[^449]: A 88. § (3) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 40. §-a iktatta be.
+[^456]: A 88. § (1) bekezdés az 548/2013. (XII. 30.) Korm. rendelet 43. § 166. pontja szerint módosított szöveg.
+[^457]: A 88. § (2) bekezdése a 302/2013. (VII. 29.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^458]: A 88. § (3) bekezdését a 302/2013. (VII. 29.) Korm. rendelet 40. §-a iktatta be.
