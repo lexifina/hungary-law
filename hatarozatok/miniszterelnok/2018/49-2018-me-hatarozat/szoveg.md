@@ -44,4 +44,4 @@ a Miniszterelnökség helyettes államtitkárává
 
 kinevezem.
 
-[^1]: A 109/2023. (XII. 22.) ME határozat alapján dr. Kretter Diána tekintetében akként módosul, hogy a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép.
+[^1]: A 109/2023. (XII. 22.) ME határozat alapján dr. Kretter Diána tekintetében akként módosul, hogy a „Miniszterelnökség” szövegrész helyébe a „Közigazgatási és Területfejlesztési Minisztérium” szöveg lép. A 87/2024. (VII. 31.) ME határozat alapján dr. Kretter Diána tekintetében akként módosul, hogy a „Közigazgatási és Területfejlesztési Minisztérium” megnevezés helyett a „Közigazgatási és Területfejlesztési Minisztérium részeként működő Nemzeti Fejlesztési Központ” megnevezést kell érteni.
