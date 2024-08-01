@@ -15,3 +15,7 @@
 (7) A bv. szerv rendjére és a biztonságára vonatkozó legfontosabb előírásokról szóban, illetve a részletes szabályokról — ideértve a be nem vihető tárgyak jegyzékét is — a belépni szándékozó személyeket írásban tájékoztatni kell.
 
 (8) A bv. szervek területére való belépés, a tartózkodás és a kilépés részletes szabályait, továbbá a bv. szerv területén hivatali (szolgálati) tevékenységet végző személyekre vonatkozó sajátos rendelkezéseket külön jogszabály tartalmazza.
+
+(9) A bv. szervezet a bv. szerv területére való be- és kilépéskor a (2) bekezdésben meghatározott célból a be- és kilépő személy arcképmása azonosításának támogatására informatikai eszközt alkalmazhat. Emberi közreműködés nélkül végzett személyazonosítás esetén a belépés megtagadásról a személyi állomány tagja dönt.
+
+(10) A fogvatartottal kapcsolattartásra jogosult személy bv. szerv területére való belépésekor a bv. szerv ellenőrzi a körözött személyek nyilvántartását. Ha a bv. szerv a fogvatartottal kapcsolattartásra jogosult személlyel összefüggésben a körözött személyek nyilvántartásában egyezőséget észlel, e tényről a körözési eljárást lefolytató rendőri szervet a találat jelzésével értesíti. Ha a körözött személlyel szemben elfogatóparancsot, európai vagy nemzetközi elfogatóparancsot bocsátottak ki, a kapcsolattartásra nem kerülhet sor, és a bv. szerv a rendőrség kiérkezéséig a körözött személyt a helyszínen visszatartja.

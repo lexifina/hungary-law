@@ -16,4 +16,4 @@ d) a végrehajtás során a büntetés-végrehajtás e törvényben meghatározo
 
 e) a büntetőeljárásban, illetve a fogvatartottal kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, államigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a bv. szervezet részére meg kell küldeni.
 
-(3) Az (1) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
+(3) Az (1) bekezdésben meghatározott nyilvántartás a fogvatartás tényére, a büntetés és az intézkedés nemére, mértékére és végrehajtási fokozatára, a kényszerintézkedés típusára és tartamára, valamint a végrehajtással összefüggő alapvető adatokra, így különösen a végrehajtás megkezdésére, megszakítására, félbeszakítására, kitöltésére, megszűnésére, illetve megszüntetésére, a reintegrációs őrizetbe helyezés és a feltételes szabadságra bocsátás tényére vonatkozóan közhiteles nyilvántartásnak minősül.
