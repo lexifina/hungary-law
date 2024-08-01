@@ -6,18 +6,19 @@ a) tájékoztatja az arra jogosult szervezeteket és a fejlesztési program vég
 
 b)[^18] irányítja a nyilvántartásokkal kapcsolatos feladatokat, ennek keretében gondoskodik a jogosultságkezelésről, jelentéskészítésről, az információbiztonsági és adatbiztonsági feladatok ellátásáról,
 
-c) figyelemmel kíséri a fejlesztési források felhasználásával bonyolított eljárásokat,
+c)[^19] figyelemmel kíséri a fejlesztési források felhasználásával lebonyolított eljárásokat,
 
 d) pénzügyi monitoring tevékenységének keretében vizsgálja a rendelkezésre álló források felhasználását,
 
 e) szakmai monitoring tevékenységének keretében nyomon követi a támogatások felhasználásával megvalósuló projektek vagy programok – az azok célkitűzéseinek megfelelő – eredményes végrehajtását, különös tekintettel a terveknek való megfelelés követelményeire,
 
-f)[^19] tájékoztatja a minisztert a tervektől való eltérésről, a projektek vagy fejlesztési programok végrehajtása tekintetében korrekciós javaslatokat kezdeményez.
+f)[^20] tájékoztatja az NFK-t a tervektől való eltérésről, a projektek vagy fejlesztési programok végrehajtása tekintetében korrekciós javaslatokat kezdeményez.
 
-(2)[^20] A monitoring felelős irányítja az uniós támogatások vonatkozásában a Partnerségi Megállapodás szintű monitoring tevékenységet.
+(2)[^21] A monitoring felelős irányítja az uniós támogatások vonatkozásában a Partnerségi Megállapodás szintű monitoring tevékenységet.
 
 [^16]: A 6. alcím címe a 163/2017. (VI. 28.) Korm. rendelet 8. § 2. pontja szerint módosított szöveg.
 [^17]: A 6. § (1) bekezdés nyitó szövegrésze a 163/2017. (VI. 28.) Korm. rendelet 8. § 3. pontja szerint módosított szöveg.
 [^18]: A 6. § (1) bekezdés b) pontja a 163/2017. (VI. 28.) Korm. rendelet 8. § 4. pontja szerint módosított szöveg.
-[^19]: A 6. § (1) bekezdés f) pontja a 4/2016. (I. 20.) Korm. rendelet 12. § b) pontja, a 163/2017. (VI. 28.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
-[^20]: A 6. § (2) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.
+[^19]: A 6. § (1) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^20]: A 6. § (1) bekezdés f) pontja a 163/2017. (VI. 28.) Korm. rendelet 9. § a) pontja, a 218/2024. (VII. 31.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^21]: A 6. § (2) bekezdése a 163/2017. (VI. 28.) Korm. rendelet 8. § 5. pontja szerint módosított szöveg.

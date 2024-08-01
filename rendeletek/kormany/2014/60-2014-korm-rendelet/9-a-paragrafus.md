@@ -1,8 +1,8 @@
-## 9. §[^24] Az adatszolgáltató felelős a FAIR számára történő adatszolgáltatása jogszerű voltáért és helyességéért.
+## 9. §[^25] Az adatszolgáltató felelős a FAIR számára történő adatszolgáltatása jogszerű voltáért és helyességéért.
 
-9/A. §[^25] (1) Az egyes támogatási jogviszonyok tekintetében a támogató az adatkezelő.
+9/A. §[^26] (1) Az egyes támogatási jogviszonyok tekintetében a támogató az adatkezelő.
 
-(2)[^26] Az adatkezelő
+(2)[^27] Az adatkezelő
 
 a) a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 6. alcíme szerinti feladatok tekintetében a 272/2014. (XI. 5.) Korm. rendelet 8. § (1) bekezdése szerinti, valamint
 
@@ -10,9 +10,9 @@ b) a 2021–2027 programozási időszakban az egyes európai uniós alapokból s
 
 koordináló szervezet.
 
-(3)[^27] Az (1) bekezdéstől eltérően a monitoring felelős feladatkörébe tartoznak a FAIR-ral összefüggő, Ibtv. szerinti feladatok.
+(3)[^28] Az (1) bekezdéstől eltérően a monitoring felelős feladatkörébe tartoznak a FAIR-ral összefüggő, Ibtv. szerinti feladatok.
 
-[^24]: A 9. § az 562/2021. (X. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^25]: A 9/A. §-t a 228/2018. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
-[^26]: A 9/A. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^27]: A 9/A. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 9. § az 562/2021. (X. 1.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^26]: A 9/A. §-t a 228/2018. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
+[^27]: A 9/A. § (2) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^28]: A 9/A. § (3) bekezdése az 562/2021. (X. 1.) Korm. rendelet 4. §-ával megállapított szöveg.

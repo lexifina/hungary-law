@@ -1,5 +1,5 @@
 ## 18. Hatályon kívül helyező rendelkezés
 
-30. §[^68]
+30. §[^69]
 
-[^68]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^69]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
