@@ -1,3 +1,3 @@
-60/C. §[^385]
+60/C. §[^387]
 
-[^385]: A 60/C. §-t a 477/2016. (XII. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
+[^387]: A 60/C. §-t a 477/2016. (XII. 27.) Korm. rendelet 6. § (1) bekezdése iktatta be, a 212/2023. (VI. 1.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.

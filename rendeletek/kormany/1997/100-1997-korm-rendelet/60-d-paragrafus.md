@@ -1,4 +1,4 @@
-60/D. §[^386] (1) Az a 2020/2021. tanévben a középiskola utolsó évfolyamán tanuló, akit egy adott vizsgatárgyból a 2020/2021. tanév október–novemberi érettségi vizsgaidőszakában a SARS-CoV-2 koronavírus világjárvány miatt sikertelen középszintű előrehozott érettségi vizsgája során pótló vizsgára utasítottak, és
+60/D. §[^388] (1) Az a 2020/2021. tanévben a középiskola utolsó évfolyamán tanuló, akit egy adott vizsgatárgyból a 2020/2021. tanév október–novemberi érettségi vizsgaidőszakában a SARS-CoV-2 koronavírus világjárvány miatt sikertelen középszintű előrehozott érettségi vizsgája során pótló vizsgára utasítottak, és
 
 a) az írásbeli vizsgarészt vagy azon gyakorlati vizsgarészt, amelyre az írásbeli vizsgákra vonatkozó rendelkezéseket kell alkalmazni, sikeresen teljesítette, vagy
 
@@ -8,4 +8,4 @@ a 2020/2021. tanév május–júniusi érettségi vizsgaidőszakban a pótló vi
 
 (2) Az (1) bekezdés szerinti esetben az írásbeli vizsgarész vagy azon gyakorlati vizsgarész, amelyre az írásbeli vizsgákra vonatkozó rendelkezéseket kell alkalmazni, nem ismételhető meg, a pótló vizsga – a korábban már sikeresen teljesített vizsgarészek mellett – csak szóbeli vizsgarészből áll.
 
-[^386]: A 60/D. §-t a 606/2020. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
+[^388]: A 60/D. §-t a 606/2020. (XII. 18.) Korm. rendelet 2. §-a iktatta be.

@@ -1,12 +1,12 @@
-18/C. §[^127] (1)[^128] A járási hivatalok közreműködnek az írásbeli érettségi vizsgák feladatlapjainak elosztásában, valamint átveszik a Hivataltól, illetve annak megbízottjától a zárt feladatlap-csomagokat (a továbbiakban: csomag) tartalmazó zárt küldeményeket (a továbbiakban: doboz). A járási hivatalok ezzel kapcsolatos feladatai a következők:
+18/C. §[^129] (1)[^130] A járási hivatalok közreműködnek az írásbeli érettségi vizsgák feladatlapjainak elosztásában, valamint átveszik a Hivataltól, illetve annak megbízottjától a zárt feladatlap-csomagokat (a továbbiakban: csomag) tartalmazó zárt küldeményeket (a továbbiakban: doboz). A járási hivatalok ezzel kapcsolatos feladatai a következők:
 
 a) a Hivatallal történt egyeztetés szerint a csomagokat tartalmazó zárt dobozok átvételének megszervezése, az átvétel dokumentálása;
 
 b) a csomagokat tartalmazó zárt dobozok sértetlenségének ellenőrzése, dokumentálása;
 
-c)[^129] eltérés esetén jegyzőkönyv felvétele és a Hivatal, valamint a kormányhivatal egyidejű értesítése.
+c)[^131] eltérés esetén jegyzőkönyv felvétele és a Hivatal, valamint a kormányhivatal egyidejű értesítése.
 
-(2)[^130] A járási hivatal feladata továbbá az egyes dobozok tartalma és a hozzájuk tartozó csomagjegyzék, valamint az egy adott vizsgaszervező intézmény számára átvett doboz, illetve dobozok tartalma és az intézmény vizsgaszervezési igénye közötti egyezőség tételes átvizsgálására irányuló ellenőrzés megszervezése az érettségit szervező intézmények számára. Ennek keretében feladata:
+(2)[^132] A járási hivatal feladata továbbá az egyes dobozok tartalma és a hozzájuk tartozó csomagjegyzék, valamint az egy adott vizsgaszervező intézmény számára átvett doboz, illetve dobozok tartalma és az intézmény vizsgaszervezési igénye közötti egyezőség tételes átvizsgálására irányuló ellenőrzés megszervezése az érettségit szervező intézmények számára. Ennek keretében feladata:
 
 a) az iskolák értesítése az ellenőrzés helyszínéről és időpontjáról;
 
@@ -16,11 +16,11 @@ c) az ellenőrzés megtörténtének dokumentálása;
 
 d) a doboz visszazárása;
 
-e)[^131] eltérés és pótigények esetén jegyzőkönyv felvétele mellett a Hivatal, valamint a kormányhivatal egyidejű, haladéktalan értesítése.
+e)[^133] eltérés és pótigények esetén jegyzőkönyv felvétele mellett a Hivatal, valamint a kormányhivatal egyidejű, haladéktalan értesítése.
 
 A magyar nyelv és irodalom, a matematika, a történelem, az angol nyelv és a német nyelv vizsgatárgyak esetében az ellenőrzést a járási hivatal az intézmény képviselőjének a jelenléte nélkül is elvégezheti.
 
-(3)[^132] A vizsgaidőszak írásbeli vizsganapjainak reggelén a járási hivatal az adott vizsgatárgy csomagjait átadja a vizsgaszervező intézmény igazgatójának vagy az általa írásban meghatalmazott személynek. Ennek keretében feladata:
+(3)[^134] A vizsgaidőszak írásbeli vizsganapjainak reggelén a járási hivatal az adott vizsgatárgy csomagjait átadja a vizsgaszervező intézmény igazgatójának vagy az általa írásban meghatalmazott személynek. Ennek keretében feladata:
 
 a) a doboz felnyitása, az átadásra kerülő csomagok átadásra történő előkészítése;
 
@@ -28,15 +28,15 @@ b) a vizsgatárgy csomagjainak átadása, az átadás dokumentálása;
 
 c) a doboz visszazárása;
 
-d)[^133] rendkívüli eseményről jegyzőkönyv felvétele és a Hivatal, valamint a kormányhivatal egyidejű, haladéktalan értesítése.
+d)[^135] rendkívüli eseményről jegyzőkönyv felvétele és a Hivatal, valamint a kormányhivatal egyidejű, haladéktalan értesítése.
 
-(4)[^134] A minősített feladatlapokat tartalmazó csomagok és a csomagokat tartalmazó dobozok őrzése, nyilvántartása és átadása a járási hivatalban a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendeletnek a korlátozott terjesztésű minősített adatra vonatkozó, továbbá jelen rendelet rendelkezései szerint történik.
+(4)[^136] A minősített feladatlapokat tartalmazó csomagok és a csomagokat tartalmazó dobozok őrzése, nyilvántartása és átadása a járási hivatalban a Nemzeti Biztonsági Felügyelet működésének, valamint a minősített adat kezelésének rendjéről szóló 90/2010. (III. 26.) Korm. rendeletnek a korlátozott terjesztésű minősített adatra vonatkozó, továbbá jelen rendelet rendelkezései szerint történik.
 
-[^127]: A 18/C. §-t a 254/2009. (XI. 20.) Korm. rendelet 3. §-a iktatta be.
-[^128]: A 18/C. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés a) és b) pontja szerint módosított szöveg.
-[^129]: A 18/C. § (1) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § l) pontja szerint módosított szöveg.
-[^130]: A 18/C. § (2) bekezdés nyitó és záró szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés c) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 9–10. pontja szerint módosított szöveg.
-[^131]: A 18/C. § (2) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
-[^132]: A 18/C. § (3) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés c) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^133]: A 18/C. § (3) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
-[^134]: A 18/C. § (4) bekezdését a 90/2010. (III. 26.) Korm. rendelet 65. § (1) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (8) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^129]: A 18/C. §-t a 254/2009. (XI. 20.) Korm. rendelet 3. §-a iktatta be.
+[^130]: A 18/C. § (1) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés a) és b) pontja szerint módosított szöveg.
+[^131]: A 18/C. § (1) bekezdés c) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § l) pontja szerint módosított szöveg.
+[^132]: A 18/C. § (2) bekezdés nyitó és záró szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés c) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 9–10. pontja szerint módosított szöveg.
+[^133]: A 18/C. § (2) bekezdés e) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
+[^134]: A 18/C. § (3) bekezdés nyitó szövegrésze a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés c) pontja, a 65/2021. (II. 15.) Korm. rendelet 13. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^135]: A 18/C. § (3) bekezdés d) pontja a 351/2010. (XII. 30.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
+[^136]: A 18/C. § (4) bekezdését a 90/2010. (III. 26.) Korm. rendelet 65. § (1) bekezdése iktatta be, szövege a 351/2010. (XII. 30.) Korm. rendelet 40. § (8) bekezdésével megállapított, a 174/2012. (VII. 26.) Korm. rendelet 11. § (3) bekezdés d) pontja szerint módosított szöveg.

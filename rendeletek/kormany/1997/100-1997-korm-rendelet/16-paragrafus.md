@@ -6,9 +6,9 @@ a) dönt minden olyan, az érettségi vizsga előkészítésével és lebonyolí
 
 b) kiadja az előírt megbízásokat, szükség esetén gondoskodik a helyettesítésről,
 
-c)[^93] gondoskodik arról, hogy a vizsgára jelentkezők, a vizsgabizottság tagjai, a vizsgabizottság jegyzője, a felügyelő tanárok megismerhessék a vizsgaszabályzatot, a vizsgaleírásokat, a vizsga lebonyolításának rendjét,
+c)[^95] gondoskodik arról, hogy a vizsgára jelentkezők, a vizsgabizottság tagjai, a vizsgabizottság jegyzője, a felügyelő tanárok megismerhessék a vizsgaszabályzatot, a vizsgaleírásokat, a vizsga lebonyolításának rendjét,
 
-d)[^94] ellenőrzi a vizsgáztatás rendjének megtartását, e feladata keretében látogatja az írásbeli és a szóbeli vizsgák helyszínét,
+d)[^96] ellenőrzi a vizsgáztatás rendjének megtartását, e feladata keretében látogatja az írásbeli és a szóbeli vizsgák helyszínét,
 
 e) megszervezi a vizsgaeredmények kihirdetését, ellenőrzi a törzslapok és bizonyítványok egyeztetését, a szabályzatban foglaltak szerint aláírja és aláíratja a vizsga iratait,
 
@@ -18,5 +18,5 @@ f) minden szükséges intézkedést megtesz annak érdekében, hogy az érettsé
 
 (4) Az igazgató nem lehet vizsgáztató tanár abban a vizsgabizottságban, amelynek tekintetében ellátja az e §-ban meghatározott feladatokat. Amennyiben vizsgáztatói feladatot lát el, helyettesítéséről a (3) bekezdésben foglaltak szerint köteles gondoskodni.
 
-[^93]: A 16. § (2) bekezdésének c) pontja a 253/2006. (XII. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^94]: A 16. § (2) bekezdésének d) pontja a 233/2004. (VIII. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^95]: A 16. § (2) bekezdésének c) pontja a 253/2006. (XII. 7.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^96]: A 16. § (2) bekezdésének d) pontja a 233/2004. (VIII. 6.) Korm. rendelet 11. §-ával megállapított szöveg.
