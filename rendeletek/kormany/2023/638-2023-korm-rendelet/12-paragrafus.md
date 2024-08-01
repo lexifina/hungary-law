@@ -52,4 +52,8 @@
 
 25. válságtámogatásként
 
+26.[^3] elektromos- vagy hidrogéntöltő infrastruktúrához nyújtott beruházási támogatásként
+
 nyújtható.
+
+[^3]: A 12. § 26. pontját a 218/2024. (VII. 31.) Korm. rendelet 90. §-a iktatta be.
