@@ -44,7 +44,7 @@ nab)[^17] amely, vagy amelynek bármely tulajdonosa a biztosított gazdálkodó 
 
 nb)[^18] A biztosított és egy külföldön bejegyzett gazdálkodó szervezet között érdekeltségi viszony áll fenn az na) pontban rögzítetteken túl akkor is, ha harmadik személynek minősülő természetes személy vagy gazdálkodó szervezet közvetlenül vagy közvetve mindkettőjükben a Ptk. 8:2. § szerinti többségi befolyással rendelkezik;
 
-o)[^19]
+o)[^19] egyedi szerződés: olyan egyéb módozatba tartozó biztosítási termék, melyet az Etv. 3. § (2) bekezdése alapján Magyarország ellátásbiztonságához kapcsolódóan nyújt a Biztosító egyedileg meghatározott feltételekkel ideértve, ha ezen célokból a Mehib Zrt. viszontbiztosítás keretében egyedi kockázatokat vállal át külföldi vagy belföldi székhelyű biztosítótól;
 
 p)[^20] egyedi módozat: az a rövidlejáratú vagy közép- és hosszú lejáratú ügyletre vonatkozó biztosítási módozat, amely esetén a Mehib Zrt. kockázatviselése a biztosított vagy az exportirányú külkereskedelmi tevékenységet folytató gazdálkodó szervezet és az adós vagy megrendelő között létrejött egyetlen jogügyletből és az ezen jogügyletekhez kapcsolódóan a biztosított által nyújtott finanszírozásból eredő követelésre vagy követelésekre terjed ki;
 
@@ -58,7 +58,7 @@ qc) a qa) és qb) alpontban meghatározottak hiányában a nem a teljesítés he
 
 által aláírt, a magyar származású export mértékét is tartalmazó érvényes szerződés.
 
-r)[^22] önerőt pótló hitel: az uniós támogatási és fejlesztési alapokból lehívható – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) értelmében kis- és középvállalkozásnak minősülő – pályázó számára nyújtható azon hitel, amely a pályázati kiírás szerint önerőként beszámítható;
+r)[^22]
 
 s)[^23] rövid lejáratú ügylet: azon ügylet, amely esetén a biztosított, gyártási időt és a hitel futamidejét is magában foglaló teljes kockázatviselési idő nem éri el a két évet;
 
@@ -66,7 +66,7 @@ t)[^24] közép- és hosszú lejáratú ügylet: azon ügylet, amely esetén a b
 
 u)[^25] forgalmi típusú módozat: az a rövidlejáratú ügyletekre vonatkozó biztosítási módozat, amely esetén a Mehib Zrt. kockázatviselése a biztosított vagy exportőr és az adós vagy megrendelő közötti exportirányú külkereskedelmi kapcsolat(ok)ból eredő követelésekre terjed ki;
 
-v)[^26] egyéb módozat: az o), q), r), d), g) pontban meghatározott termékekhez nyújtott biztosítás és az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák;
+v)[^26] egyéb módozat: a d), g) és o) pontban meghatározott termékekhez nyújtott biztosítás, valamint az olyan biztosítási módozatok, amelyek nem tartoznak sem az egyedi, sem a forgalmi típusú módozatokba vagy ezek egyes feltételeit vegyesen tartalmazzák;
 
 w)[^27] faktoring biztosítás: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 3. § (1) bekezdés l) pontjában meghatározott pénzügyi szolgáltatási tevékenységhez az Etv. 3. § (3) bekezdés a) és b) pontjában foglaltaknak megfelelően nyújtott biztosítási vagy viszontbiztosítási fedezet,
 
@@ -107,14 +107,14 @@ zs)[^31] helyi költség: a vevő országában felmerülő, azon árukért és s
 [^16]: A 2. § (1) bekezdés n) pont na) alpont naa) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^17]: A 2. § (1) bekezdés n) pont na) alpont nab) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^18]: A 2. § (1) bekezdés n) pont nb) alpontja a 80/2014. (III. 14.) Korm. rendelet 12. § (4) bekezdés c) pontja szerint módosított szöveg.
-[^19]: A 2. § (1) bekezdés o) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, a 630/2023. (XII. 23.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^19]: A 2. § (1) bekezdés o) pontját újonnan a 233/2024. (VII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^20]: A 2. § (1) bekezdés p) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg. [A 2. § (1) bekezdés p) pontban a 630/2023. (XII. 23.) Korm. rendelet 18. § c) pontja által elrendelt módosítás, amely szerint hatályát veszti a „belföldi szövegrész, nem vezethető át.]
 [^21]: A 2. § (1) bekezdés q) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^22]: A 2. § (1) bekezdés r) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^22]: A 2. § (1) bekezdés r) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, a 233/2024. (VII. 31.) Korm. rendelet 19. §-a hatályon kívül helyezte.
 [^23]: A 2. § (1) bekezdés s) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^24]: A 2. § (1) bekezdés t) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^25]: A 2. § (1) bekezdés u) pontját a 437/2012. (XII. 29.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^26]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be. [A 2. § (1) bekezdés v) pontban a 630/2023. (XII. 23.) Korm. rendelet 18. § d) pontja által elrendelt módosítás, amely szerint Hatályát veszti a „z) o), q), r)” szövegrész, nem vezethető át.]
+[^26]: A 2. § (1) bekezdés v) pontját a 185/2013. (VI. 7.) Korm. rendelet 2. §-a iktatta be, szövege a 233/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^27]: A 2. § (1) bekezdés w) pontját az 537/2013. (XII. 30.) Korm. rendelet 31. §-a iktatta be.
 [^28]: A 2. § (1) bekezdés x) pontját a 80/2014. (III. 14.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 630/2023. (XII. 23.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^29]: A 2. § (1) bekezdés y) pontját a 215/2015. (VII. 31.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 126/2020. (IV. 16.) Korm. rendelet 19. § (3) bekezdésével megállapított, nyitó szövegrésze a 235/2021. (V. 6.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
-## A kárfizetés alóli mentesülés[^148]
+## A kárfizetés alóli mentesülés[^142]
 
-17/A. §[^149] (1)[^150] Közép- és hosszú lejáratú ügyletek és az egyedi módozat keretében biztosított rövid lejáratú ügyletek esetén a Mehib Zrt. mentesül a kárfizetési kötelezettség alól, ha
+17/A. §[^143] (1)[^144] Közép- és hosszú lejáratú ügyletek és az egyedi módozat keretében biztosított rövid lejáratú ügyletek esetén a Mehib Zrt. mentesül a kárfizetési kötelezettség alól, ha
 
 a) a biztosított a biztosítási szerződés megkötéséhez valótlan vagy megtévesztő adatokat közölt, kivéve, ha a biztosított bizonyítja, hogy a biztosítónak tudomása volt arról, hogy az adatok valótlanok vagy megtévesztőek, vagy azok nem befolyásolják a biztosító által vállalt kockázat mértékét, vagy nem hatottak közre a biztosítási esemény bekövetkeztében;
 
@@ -24,12 +24,12 @@ dd) szállítói hitel esetében a 6. § (2) bekezdésében meghatározott eset 
 
 (2) Az egyes termékek esetén a (1) bekezdés alapján alkalmazandó mentesülési okokat a 19. § c) pontnak megfelelően az általános szerződési feltételek tartalmazzák.
 
-(3)[^151] Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott megtérítési igényre vonatkozó megállapodás megkötése esetén nem minősül mentesülési oknak.
+(3)[^145] Az (1) bekezdés d) pont dd) alpontjában meghatározott ok a 6. § (2) bekezdésében meghatározott megtérítési igényre vonatkozó megállapodás megkötése esetén nem minősül mentesülési oknak.
 
-(4)[^152]
+(4)[^146]
 
-[^148]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^149]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
-[^150]: A 17/A. § (1) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^151]: A 17/A. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
-[^152]: A 17/A. § (4) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.
+[^142]: A 17/A. §-t megelőző alcím címet a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^143]: A 17/A. §-t a 437/2012. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^144]: A 17/A. § (1) bekezdése a 630/2023. (XII. 23.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^145]: A 17/A. § (3) bekezdése a 126/2020. (IV. 16.) Korm. rendelet 30. § (2) bekezdésével megállapított szöveg.
+[^146]: A 17/A. § (4) bekezdését a 126/2020. (IV. 16.) Korm. rendelet 37. § c) pontja hatályon kívül helyezte.

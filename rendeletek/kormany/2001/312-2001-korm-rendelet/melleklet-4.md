@@ -72,20 +72,20 @@
 
 ## A vásárló ország adósságának teljesítését szolgáló szerződés esetében, a fővállalkozói biztosító és az együttes biztosító(k) kötelesek egyeztetést tartani a konszolidációs szerződés által okozott meghatározott problémák megoldásának módjairól és eszközeiről.
 
-## 5. cikk[^220]
+## 5. cikk[^212]
 
 ## Importhitel műveletek
 
 ## Azon uniós hitelbiztosítók, amelyek importhitel rendszerei megfelelően összeegyeztethetők, továbbá megegyezhetnek, hogy a teljes szerződés tekintetében egyetlen importhitelt alapítanak, illetőleg a szerződést azzal fedezik, amely hitelre ezen Szerződés rendelkezéseit kell alkalmazni analógia útján.
 
-## 6. cikk[^221]
+## 6. cikk[^213]
 
 ## Választottbíráskodás
 
 ## Bármely ezen Szerződésből fakadó vitát, amelyet barátságos úton nem lehet rendezni, egy három választott bíróból álló Választottbíróság elé kell vinni. Minden érintett fél egy választott bírót jelöl. A harmadik választott bírót az Európai Unió Bíróságának Elnöke jelöli ki; ez a választott bíró jár el a Választottbíróság elnökeként. Az eljárás a Nemzetközi Kereskedelmi Kamara Egyeztetési és Választottbíráskodási Szabályai szerint zajlik.
 
-4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^222]
+4. melléklet a 312/2001. (XII. 28.) Korm. rendelethez[^214]
 
-[^220]: A 3. számú melléklet 5. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^221]: A 3. számú melléklet 6. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^222]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § f) pontja.
+[^212]: A 3. számú melléklet 5. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^213]: A 3. számú melléklet 6. cikke a 88/2016. (IV. 29.) Korm. rendelet 23. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^214]: A 4. mellékletet az 50/2010. (III. 9.) Korm. rendelet 22. § iktatta be, hatályon kívül helyezte a 126/2020. (IV. 16.) Korm. rendelet 37. § f) pontja.
