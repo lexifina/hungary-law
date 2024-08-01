@@ -6,6 +6,6 @@ a) akit állandó lakóhelyére vagy tartózkodási helyére küldenek ki,
 
 b) aki a kiküldetés időtartama alatt térítés nélkül természetbeni élelmezési ellátásban részesül.
 
-(3)[^12]
+(3)[^13]
 
-[^12]: A 21. § (3) bekezdését a 20/2023. (VIII. 24.) MK rendelet 52. § a) pont ab) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 51. §-át.
+[^13]: A 21. § (3) bekezdését a 20/2023. (VIII. 24.) MK rendelet 52. § a) pont ab) alpontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 51. §-át.
