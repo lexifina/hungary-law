@@ -1,3 +1,3 @@
-158. §[^277]
+158. §[^285]
 
-[^277]: A 158. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 19. pontja hatályon kívül helyezte.
+[^285]: A 158. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 19. pontja hatályon kívül helyezte.

@@ -12,7 +12,7 @@ b) a szabálytalanság meg nem történtének megállapításával,
 
 zárul.
 
-(4)[^144] Szabálytalanság megállapítása esetén a Nemzeti Irányító Hatóság a szabálytalansági eljárásrendben foglaltak szerint
+(4)[^152] Szabálytalanság megállapítása esetén a Nemzeti Irányító Hatóság a szabálytalansági eljárásrendben foglaltak szerint
 
 a) eláll a támogatási szerződéstől, vagy
 
@@ -20,4 +20,4 @@ b) a kedvezményezett által elszámolható költséget és támogatást arányo
 
 (5) A szabálytalanság megállapítása során a Nemzeti Irányító Hatóság dönt a pénzügyi korrekcióval érintett összeg újra felhasználhatóságáról.
 
-[^144]: A 91. § (4) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^152]: A 91. § (4) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 8. §-ával megállapított szöveg.

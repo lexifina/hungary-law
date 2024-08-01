@@ -1,4 +1,4 @@
-129. §[^211] (1) Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg
+129. §[^219] (1) Ha a támogatás formája nem piaci díj ellenében, legfeljebb 10 éves futamidőre nyújtott kezességvállalás, a kezességvállalással biztosított hitel névértéke nem haladhatja meg
 
 a) az 1,65 millió eurót,
 
@@ -8,4 +8,4 @@ b) az Atr. 25. § (1) bekezdése szerinti területen letelepedett vállalkozás 
 
 (3) A kezességvállalás mértéke nem haladhatja meg az alapul szolgáló hitel összegének 80%-át.
 
-[^211]: A 129. § az 50/2024. (III. 4.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^219]: A 129. § az 50/2024. (III. 4.) Korm. rendelet 13. §-ával megállapított szöveg.

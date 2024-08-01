@@ -1,6 +1,6 @@
-## 65.[^270] A megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás
+## 65.[^278] A megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás
 
-152. §[^271] (1) A megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag új vagy felújított berendezéshez nyújtható.
+152. §[^279] (1) A megújuló energia, megújuló hidrogén és nagy hatásfokú kapcsolt energiatermeléshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag új vagy felújított berendezéshez nyújtható.
 
 (2) Nem nyújtható támogatás megújuló hidrogénből előállított villamos energiatermelésre irányuló beruházáshoz.
 
@@ -30,5 +30,5 @@ b) a tárolást szolgáló berendezés tüzelőanyag-tartalmának évi legalább
 
 (10) Megújuló energiaforrásokon alapuló, nagy hatásfokú kapcsolt energiatermeléshez közvetlenül kapcsolódó villamosenergia- és hőtárolási projektekhez nyújtott beruházási támogatás a (3) bekezdésben foglalt feltételek teljesülése esetén nyújtható.
 
-[^270]: A 65. alcím címe az 50/2024. (III. 4.) Korm. rendelet 39. § 34. pontja szerint módosított szöveg.
-[^271]: A 152. § az 50/2024. (III. 4.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^278]: A 65. alcím címe az 50/2024. (III. 4.) Korm. rendelet 39. § 34. pontja szerint módosított szöveg.
+[^279]: A 152. § az 50/2024. (III. 4.) Korm. rendelet 27. §-ával megállapított szöveg.

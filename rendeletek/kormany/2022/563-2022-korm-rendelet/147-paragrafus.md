@@ -1,5 +1,5 @@
-## 62.[^263]
+## 62.[^271]
 
 147. §
 
-[^263]: A 62. alcímet (147. §-t) az 50/2024. (III. 4.) Korm. rendelet 40. § 14. pontja hatályon kívül helyezte.
+[^271]: A 62. alcímet (147. §-t) az 50/2024. (III. 4.) Korm. rendelet 40. § 14. pontja hatályon kívül helyezte.

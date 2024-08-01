@@ -52,8 +52,8 @@ d) a támogatási szerződés módosítására vonatkozó javaslattétel, vagy
 
 e) a támogatási szerződéstől történő elállás.
 
-(11)[^138] A program operátor a program esetében monitoring tevékenységet végez, amelynek keretén belül kockázatelemzésen alapuló monitoring látogatást folytat le. A program operátor monitoring tevékenységére a (6)–(10) bekezdésének rendelkezéseit kell megfelelően alkalmazni.
+(11)[^143] A program operátor a program esetében monitoring tevékenységet végez, amelynek keretén belül kockázatelemzésen alapuló monitoring látogatást folytat le. A program operátor monitoring tevékenységére a (6)–(10) bekezdésének rendelkezéseit kell megfelelően alkalmazni.
 
 (12) A svájci hatóságok vagy az általuk kijelölt harmadik fél a támogatási intézkedések ellenőrzése során a végrehajtásban résztvevő szerveknek a támogatási intézkedésekkel kapcsolatos dokumentumaiba betekinthet.
 
-[^138]: Az 51. § (11) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.
+[^143]: Az 51. § (11) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 17. § i) pontja szerint módosított szöveg.

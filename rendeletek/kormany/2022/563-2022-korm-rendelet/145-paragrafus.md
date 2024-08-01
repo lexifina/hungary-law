@@ -1,3 +1,3 @@
-145. §[^259]
+145. §[^267]
 
-[^259]: A 145. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 12. pontja hatályon kívül helyezte.
+[^267]: A 145. §-t az 50/2024. (III. 4.) Korm. rendelet 40. § 12. pontja hatályon kívül helyezte.

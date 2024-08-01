@@ -1,4 +1,4 @@
-174. §[^313] E rendelet
+174. §[^321] E rendelet
 
 a) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26.) I. és II. fejezete, valamint 13–14., 18–19., 21–22., 25., 27–32., 35–36b., 38–38b., 41., 46–49. és 56. cikke,
 
@@ -8,4 +8,4 @@ c) az Európai Unió működéséről szóló szerződés 106. cikk (2) bekezdé
 
 hatálya alá tartozó támogatást tartalmaz.
 
-[^313]: A 174. § az 50/2024. (III. 4.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^321]: A 174. § az 50/2024. (III. 4.) Korm. rendelet 38. §-ával megállapított szöveg.

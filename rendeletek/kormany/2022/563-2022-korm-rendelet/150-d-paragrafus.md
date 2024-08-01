@@ -1,4 +1,4 @@
-## 63/B.[^268] Energiahatékonyság-alapú szerződések megkötését elősegítő támogatás
+## 63/B.[^276] Energiahatékonyság-alapú szerződések megkötését elősegítő támogatás
 
 150/D. § (1) Az energiahatékonyság-alapú szerződések megkötését elősegítő támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a 2012/27/EU európai parlamenti és tanácsi irányelv 2. cikk 27. pontja szerinti energiahatékonyság-alapú szerződések megkötésének elősegítéséhez nyújtható.
 
@@ -14,4 +14,4 @@
 
 (7) A teljes kintlévő finanszírozás névértéke energiahatékonysági szolgáltatónként nem haladhatja meg a 30 millió eurónak megfelelő forintösszeget.
 
-[^268]: A 63/B. alcímet (150/D. §-t) az 50/2024. (III. 4.) Korm. rendelet 26. §-a iktatta be.
+[^276]: A 63/B. alcímet (150/D. §-t) az 50/2024. (III. 4.) Korm. rendelet 26. §-a iktatta be.

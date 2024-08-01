@@ -1,10 +1,10 @@
-124. § (1)[^202]
+124. § (1)[^210]
 
-(2)[^203]
+(2)[^211]
 
-(3)[^204]
+(3)[^212]
 
-(4)[^205]
+(4)[^213]
 
 (5) Nem minősül elszámolható költségnek
 
@@ -18,7 +18,7 @@ d) a kérelem benyújtásának napja előtt felmerült költség, ráfordítás,
 
 e) nagyvállalkozásnál a korábban már bárki által használatba vett tárgyi eszköz költsége, kivéve létesítmény felvásárlása esetén a beszerzett eszköz vételárát.
 
-f)[^206] a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége.
+f)[^214] a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 31/c. pontja szerinti személygépkocsi költsége.
 
 (6) A 123. § (1) bekezdés b) és c) pontja szerinti elszámolható költség esetén akkor nyújtható támogatás, ha
 
@@ -32,8 +32,8 @@ d) nagyvállalkozás esetén a beruházó a beruházás megkezdésekor már lét
 
 (7) Ha a tárgyi eszköz és az immateriális javak beszerzéséhez a vásárlást megelőzően már nyújtottak támogatást, ezen tárgyi eszköz és immateriális javak költségét le kell vonni a létesítmény felvásárlásához kapcsolódó elszámolható költségekből. Ha egy kisvállalkozást az eredeti tulajdonos családtagjai vagy korábbi munkavállalók vesznek át, a tárgyi eszköznek és az immateriális javaknak a vevőtől független harmadik féltől való megvásárlására vonatkozó feltételnek nem kell teljesülnie.
 
-[^202]: A 124. § (1) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
-[^203]: A 124. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
-[^204]: A 124. § (3) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
-[^205]: A 124. § (4) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
-[^206]: A 124. § (5) bekezdés f) pontját a 346/2023. (VII. 27.) Korm. rendelet 14. §-a iktatta be.
+[^210]: A 124. § (1) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^211]: A 124. § (2) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^212]: A 124. § (3) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^213]: A 124. § (4) bekezdését a 346/2023. (VII. 27.) Korm. rendelet 17. § m) pontja hatályon kívül helyezte.
+[^214]: A 124. § (5) bekezdés f) pontját a 346/2023. (VII. 27.) Korm. rendelet 14. §-a iktatta be.

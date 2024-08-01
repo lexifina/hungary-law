@@ -1,6 +1,6 @@
 ## 73. A közszolgáltatásért járó ellentételezés
 
-167. §[^307] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, amennyiben
+167. §[^315] (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett – ide nem értve a szárazföldi közlekedést biztosító vállalkozásokat – részére nyújtható, amennyiben
 
 a) a támogatás összege nem haladja meg éves szinten a 15 millió eurónak megfelelő forintösszeget, és
 
@@ -40,4 +40,4 @@ f) hivatkozást a 2012/21/EU bizottsági határozatra.
 
 (10) Ha a közszolgáltatási megbízás időtartama alatt a jelen alcímben foglalt feltételek nem teljesülnek, a támogatást nyújtó az Atr. 7. §-a alapján köteles a támogatást bejelenteni az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-[^307]: A 167. § az 50/2024. (III. 4.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^315]: A 167. § az 50/2024. (III. 4.) Korm. rendelet 36. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-171. §[^311] (1) A pénzügyi közvetítőket és alapkezelőket az alkalmazandó uniós és nemzeti jogszabályoknak megfelelően nyílt, átlátható és megkülönböztetésmentes eljárás keretében kell kiválasztani. A kiválasztás során nem tehető különbség az alapján, hogy azok mely tagállamban kerültek bejegyzésre vagy telepedtek le. A pénzügyi közvetítőkkel és alapkezelőkkel szemben kizárólag olyan feltétel támasztható, amely előre meghatározott, és a befektetés jellegével objektív módon indokolható.
+171. §[^319] (1) A pénzügyi közvetítőket és alapkezelőket az alkalmazandó uniós és nemzeti jogszabályoknak megfelelően nyílt, átlátható és megkülönböztetésmentes eljárás keretében kell kiválasztani. A kiválasztás során nem tehető különbség az alapján, hogy azok mely tagállamban kerültek bejegyzésre vagy telepedtek le. A pénzügyi közvetítőkkel és alapkezelőkkel szemben kizárólag olyan feltétel támasztható, amely előre meghatározott, és a befektetés jellegével objektív módon indokolható.
 
 (2) A pénzügyi közvetítők és alapkezelők kiválasztására irányuló eljárás célja a 170. § (2)–(5) bekezdése szerinti kockázat-nyereség megosztási rendszerek kialakítása és az (5)–(6) bekezdés szerinti nyereségorientált döntések megalapozása.
 
@@ -34,4 +34,4 @@ e) a befektetők számára lehetővé teszi a befektetési alap irányító test
 
 (10) A (9) bekezdésben szereplő feltétel teljesítése érdekében a pénzügyi közvetítőnek igazolnia kell, hogy olyan mechanizmust működtet, amely biztosítja, hogy a támogatható vállalkozások a finanszírozási volumen növekedése, a portfóliók kockázatának emelkedése, illetve a fedezeti követelmények, a kezességvállalási díjak vagy a kamatlábak csökkentése révén a legnagyobb mértékben részesülnek valamennyi előnyből.
 
-[^311]: A 171. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^319]: A 171. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.

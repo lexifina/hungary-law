@@ -48,7 +48,7 @@
 
 (3) A Nemzeti Irányító Hatóság pénzügyi lebonyolításhoz kapcsolódó feladatai tekintetében gondoskodik
 
-a)[^129] a technikai támogatás és a programmenedzsment forrás tekintetében benyújtott kifizetési kérelmek ellenőrzéséről és az elszámolható költségek hitelesítéséről,
+a)[^133] a technikai támogatás és a programmenedzsment forrás tekintetében benyújtott kifizetési kérelmek ellenőrzéséről és az elszámolható költségek hitelesítéséről,
 
 b) a támogatás folyósításáról a kedvezményezettek részére,
 
@@ -62,4 +62,4 @@ f) a pénzügyi feladatok tekintetében történő adatszolgáltatásról.
 
 (4) A Nemzeti Irányító Hatóság az Országspecifikus feltételekben meghatározott feladatokat delegálhat a közreműködő szervezetre, amellyel összefüggésben jóváhagyja a közreműködő szervezet által elkészített működési kézikönyvet és ellenőrzési nyomvonalat, valamint azok módosításait.
 
-[^129]: A 8. § (3) bekezdés a) pontja a 346/2023. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^133]: A 8. § (3) bekezdés a) pontja a 346/2023. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.

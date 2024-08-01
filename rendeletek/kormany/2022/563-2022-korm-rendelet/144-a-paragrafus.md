@@ -1,4 +1,4 @@
-144/A. §[^254] (1) A támogatás keretében a beruházási többletköltségek számolhatók el. Az elszámolható költségek meghatározásához a beruházási költségeket össze kell hasonlítani egy olyan alternatív forgatókönyv költségeivel, amely támogatás nélkül valósulna meg. Ha ennek eredményeként a támogatás hiányában
+144/A. §[^262] (1) A támogatás keretében a beruházási többletköltségek számolhatók el. Az elszámolható költségek meghatározásához a beruházási költségeket össze kell hasonlítani egy olyan alternatív forgatókönyv költségeivel, amely támogatás nélkül valósulna meg. Ha ennek eredményeként a támogatás hiányában
 
 a) olyan kevésbé környezetbarát beruházás valósulna meg, amely az adott ágazat vagy az érintett tevékenység esetében megfelel a szokásos kereskedelmi gyakorlatnak, az elszámolható költségek a támogatott beruházás költségeinek és a kevésbé környezetbarát beruházás költségeinek a különbözete,
 
@@ -16,4 +16,4 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátáskeresked
 
 (3) Az (1) bekezdés d) pontja szerinti esetben a lízing költségei nem foglalják magukban a felszerelés vagy berendezés üzemeltetésével kapcsolatos költségeket – különösen az üzemanyagköltségeket, biztosítás, karbantartás, egyéb fogyóeszközök költségeit –, függetlenül attól, hogy azok részét képezik-e a lízingszerződésnek.
 
-[^254]: A 144/A. §-t az 50/2024. (III. 4.) Korm. rendelet 23. §-a iktatta be.
+[^262]: A 144/A. §-t az 50/2024. (III. 4.) Korm. rendelet 23. §-a iktatta be.

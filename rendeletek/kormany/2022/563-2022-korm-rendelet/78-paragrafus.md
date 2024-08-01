@@ -1,6 +1,6 @@
 ## 35. Az ellenőrzési stratégia és az ellenőrzésekről szóló jelentéstétel
 
-78. § (1)[^141] Az audit hatóság ellenőrzési stratégiát készít az együttműködési programra. Az audit hatóság az ellenőrzési stratégiát megküldi a Nemzeti Irányító Hatóságnak véleményezésre. Az audit hatóság az ellenőrzési stratégiát a Keretmegállapodás aláírása napjától számított 9 hónapon belül jóváhagyásra benyújtja a svájci hatóságoknak. Az ellenőrzési stratégiát szükség szerint évente aktualizálja, és minden naptári év végéig benyújtja a svájci hatóságoknak, amelyet a svájci hatóságok észrevételt tehetnek.
+78. § (1)[^149] Az audit hatóság ellenőrzési stratégiát készít az együttműködési programra. Az audit hatóság az ellenőrzési stratégiát megküldi a Nemzeti Irányító Hatóságnak véleményezésre. Az audit hatóság az ellenőrzési stratégiát a Keretmegállapodás aláírása napjától számított 9 hónapon belül jóváhagyásra benyújtja a svájci hatóságoknak. Az ellenőrzési stratégiát szükség szerint évente aktualizálja, és minden naptári év végéig benyújtja a svájci hatóságoknak, amelyet a svájci hatóságok észrevételt tehetnek.
 
 (2) Az audit hatóság legkésőbb a jelentéstételi időszakot követő év március 31-ig éves auditjelentést nyújt be a svájci hatóságoknak, amely tartalmazza az ellenőrzési stratégiával összhangban elvégzett ellenőrzések megállapításait, valamint a hiányosságok orvoslására hozott intézkedéseket. Az éves auditjelentés felépítésének és tartalmának összhangban kell lennie a svájci hatóságok által meghatározott követelményekkel. Az éves auditjelentéshez csatolni kell az aláírt audit véleményt.
 
@@ -12,4 +12,4 @@
 
 (6) Az audit hatóság zárónyilatkozatot nyújt be a svájci hatóságoknak a zárójelentés benyújtásával egyidejűleg, amelyben értékeli a zárójelentésekben igényelt záróegyenleg kifizetése iránti kérelem megalapozottságát.
 
-[^141]: A 78. § (1) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.
+[^149]: A 78. § (1) bekezdése a 346/2023. (VII. 27.) Korm. rendelet 17. § k) pontja szerint módosított szöveg.

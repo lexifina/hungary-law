@@ -1,4 +1,4 @@
-## 63.[^264] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
+## 63.[^272] Épületek energiahatékonyságának kivételével az energiahatékonysági intézkedéshez nyújtott beruházási támogatás
 
 148. § (1) Az épületek energiahatékonyságának kivételével energiahatékonysági intézkedéshez nyújtott beruházási támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) energiamegtakarítást eredményező beruházáshoz nyújtható.
 
@@ -36,4 +36,4 @@ b) hitelesnek kell lennie a piaci körülmények, az uniós kibocsátáskeresked
 
 (9) A (4)–(8) bekezdés esetén nem számolhatók el a magasabb szintű energiahatékonyság eléréséhez közvetlenül nem kapcsolódó költségek.
 
-[^264]: A 63. alcím (148–148/A. §) az 50/2024. (III. 4.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^272]: A 63. alcím (148–148/A. §) az 50/2024. (III. 4.) Korm. rendelet 25. §-ával megállapított szöveg.

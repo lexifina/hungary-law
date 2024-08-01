@@ -1,4 +1,4 @@
-169. §[^309] (1) A támogatható vállalkozásokba történő befektetés első kockázatfinanszírozási célú befektetésként vagy kiegészítő befektetésként nyújtható sajáttőke-befektetés, kvázisajáttőke-befektetés, kölcsön, kezességvállalás vagy ezek ötvözete formájában.
+169. §[^317] (1) A támogatható vállalkozásokba történő befektetés első kockázatfinanszírozási célú befektetésként vagy kiegészítő befektetésként nyújtható sajáttőke-befektetés, kvázisajáttőke-befektetés, kölcsön, kezességvállalás vagy ezek ötvözete formájában.
 
 (2) Az (1) bekezdés szerinti befektetések teljes kintlévő összege több forrásból végrehajtott befektetés esetén sem haladhatja meg támogatható vállalkozásonként a 16,5 millió eurónak megfelelő forintösszeget.
 
@@ -22,4 +22,4 @@ b) az első kockázatfinanszírozási célú befektetéshez készült üzleti te
 
 c) a kiegészítő befektetésben részesülő vállalkozás nem válik más vállalkozásnak – ide nem értve a kockázatfinanszírozási célú befektetéseket végrehajtó pénzügyi közvetítőt vagy a független magánbefektetőt – a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (3) bekezdése értelmében vett kapcsolt vállalkozásává, kivéve, ha a kapcsolt vállalkozások együttesen is kis- és középvállalkozásnak minősülnek.
 
-[^309]: A 169. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^317]: A 169. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.

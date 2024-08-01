@@ -1,6 +1,6 @@
 ## 74. A kockázatfinanszírozási támogatás
 
-168. §[^308] (1) A kis- és középvállalkozások pénzügyi forráshoz juttatása érdekében kockázatfinanszírozási célú befektetés támogatási program formájában, közvetlenül az állam által vagy megbízott félen (a továbbiakban együttesen: támogatást nyújtó) keresztül, egy vagy több pénzügyi közvetítő igénybevételével hajtható végre.
+168. §[^316] (1) A kis- és középvállalkozások pénzügyi forráshoz juttatása érdekében kockázatfinanszírozási célú befektetés támogatási program formájában, közvetlenül az állam által vagy megbízott félen (a továbbiakban együttesen: támogatást nyújtó) keresztül, egy vagy több pénzügyi közvetítő igénybevételével hajtható végre.
 
 (2) Az (1) bekezdés szerinti támogatási program keretében
 
@@ -36,4 +36,4 @@ c) a 651/2014/EU bizottsági rendelet IV. mellékletében felsorolt kritikus fon
 
 valósít meg, a vállalkozások abban az esetben is támogathatóak, ha új gazdasági tevékenység indítása céljából, üzleti terven alapuló sajáttőke-befektetési igényük meghaladja az előző 5 évben elért átlagos éves árbevételük 30%-át.
 
-[^308]: A 168. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^316]: A 168. § az 50/2024. (III. 4.) Korm. rendelet 37. §-ával megállapított szöveg.

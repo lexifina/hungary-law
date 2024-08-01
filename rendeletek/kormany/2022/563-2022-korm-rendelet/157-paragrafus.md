@@ -1,4 +1,4 @@
-157. §[^276] (1) A támogatás keretében a teljes beruházási költség számolható el.
+157. §[^284] (1) A támogatás keretében a teljes beruházási költség számolható el.
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 30%-át.
 
@@ -14,4 +14,4 @@ növelhető.
 
 (5) Amennyiben a támogatás összege versenyeztetéses ajánlattételi eljárás útján kerül meghatározásra, a finanszírozási hiány kiszámítása során a nettó többletköltség részletes értékelése nem szükséges.
 
-[^276]: A 157. § az 50/2024. (III. 4.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^284]: A 157. § az 50/2024. (III. 4.) Korm. rendelet 28. §-ával megállapított szöveg.
