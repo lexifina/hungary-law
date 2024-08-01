@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-110-20-
 | 2022-07-01 | 2016-110-20-22.11 | 387/2017. (XII. 12.) Korm. rendelet |
 | 2023-05-13 | 2016-110-20-22.12 | 171/2023. (V. 12.) Korm. rendelet |
 | 2024-01-01 | 2016-110-20-22.13 | 640/2023. (XII. 28.) Korm. rendelet |
+| 2024-08-01 | 2016-110-20-22.14 | 218/2024. (VII. 31.) Korm. rendelet |
