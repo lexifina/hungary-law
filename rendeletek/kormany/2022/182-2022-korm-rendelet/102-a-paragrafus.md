@@ -1,4 +1,4 @@
-102/A. §[^51] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
+102/A. §[^65] (1) A miniszter a közlekedésért való felelőssége keretében előkészíti
 
 a) a közlekedés védelmére és biztonságára,
 
@@ -32,13 +32,13 @@ e) ellátja az a)–d) pont finanszírozásával kapcsolatos feladatokat.
 
 (5) A miniszter a közlekedésért való felelőssége keretében – az informatikáért felelős miniszterrel egyetértésben – kidolgozza az ágazati infokommunikációs infrastruktúra-fejlesztési javaslatokat, valamint szolgáltatási stratégiáját.
 
-(6)[^52] A miniszter a közlekedésért való felelőssége keretében gondoskodik az útdíjpolitika alapelveinek kidolgozásáról.
+(6)[^66] A miniszter a közlekedésért való felelőssége keretében gondoskodik az útdíjpolitika alapelveinek kidolgozásáról.
 
-(7)[^53] A miniszter a közlekedésért való felelőssége keretében meghatározza a használati díj megfizetése ellenében, valamint az útdíjfizetés ellenében igénybe vehető országos közutakat, vagy azok egyes szakaszait.
+(7)[^67] A miniszter a közlekedésért való felelőssége keretében meghatározza a használati díj megfizetése ellenében, valamint az útdíjfizetés ellenében igénybe vehető országos közutakat, vagy azok egyes szakaszait.
 
-(8)[^54] A miniszter a közlekedésért való felelőssége keretében előkészíti az országos közutak meghatározott időtartamban történő használatáért fizetendő használati díjra és a pótdíjra, valamint az útdíjköteles elemi útszakaszok használatáért fizetendő útdíjra vonatkozó jogszabályokat.
+(8)[^68] A miniszter a közlekedésért való felelőssége keretében előkészíti az országos közutak meghatározott időtartamban történő használatáért fizetendő használati díjra és a pótdíjra, valamint az útdíjköteles elemi útszakaszok használatáért fizetendő útdíjra vonatkozó jogszabályokat.
 
-[^51]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
-[^52]: A 102/A. § (6) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^53]: A 102/A. § (7) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^54]: A 102/A. § (8) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^65]: A 102/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 3. §-a iktatta be.
+[^66]: A 102/A. § (6) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^67]: A 102/A. § (7) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^68]: A 102/A. § (8) bekezdését az 579/2022. (XII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.

@@ -8,9 +8,9 @@
 
 3. országmárkáért,
 
-4.[^6]
+4.[^7]
 
-5.[^7]
+5.[^8]
 
 6. e-közigazgatásért,
 
@@ -34,15 +34,15 @@
 
 16. minősített adatok védelmének szakmai felügyeletéért
 
-17.[^8] útdíjfizetési-szolgáltatásért
+17.[^9] útdíjfizetési-szolgáltatásért
 
 felelős tagja.
 
 (2) A Kormány a Kit. 13/A. § (4) bekezdése szerinti miniszterként a minisztert jelöli ki.
 
-(3)[^9] A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.
+(3)[^10] A miniszter felügyeli az Egységes Digitális Rádiótávközlő Rendszert, valamint az e hálózat infrastrukturális alapját biztosító szervezet tevékenységét.
 
-[^6]: A 9. § (1) bekezdés 4. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
-[^7]: A 9. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
-[^8]: A 9. § (1) bekezdés 17. pontját az 579/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^9]: A 9. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 18. §-a iktatta be.
+[^7]: A 9. § (1) bekezdés 4. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^8]: A 9. § (1) bekezdés 5. pontját az 599/2023. (XII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^9]: A 9. § (1) bekezdés 17. pontját az 579/2022. (XII. 23.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^10]: A 9. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 18. §-a iktatta be.

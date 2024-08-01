@@ -46,7 +46,7 @@ g) ellátja a szakfordító és tolmácstevékenység ágazati irányítását,
 
 h) fejleszti és felügyeli az igazságügyi informatikai rendszerek működését, és kialakítja az igazságügyi statisztika rendszerét.
 
-(9)[^83] A miniszter az igazságügyért való felelőssége keretében
+(9)[^102] A miniszter az igazságügyért való felelőssége keretében
 
 a) ellátja az Európai Unió keretében megvalósuló igazságügyi együttműködéssel kapcsolatos feladatokat,
 
@@ -58,7 +58,7 @@ bb) kidolgozza a jogharmonizáció programozásának rendjét, figyelemmel kís�
 
 bc) jogszabály megalkotására irányuló előterjesztéshez kapcsolódóan nyilatkozik arról, hogy a tervezet összeegyeztethető-e az Európai Unió jogával,
 
-bd)[^84] ellátja a polgári és büntetőügyekben folytatott igazságügyi együttműködés területén történő, határokon átnyúló elektronikus adatcserére szolgáló (EU) 2022/850 európai parlamenti és tanácsi rendelet 8. cikkében meghatározott feladatokat,
+bd)[^103] ellátja a polgári és büntetőügyekben folytatott igazságügyi együttműködés területén történő, határokon átnyúló elektronikus adatcserére szolgáló (EU) 2022/850 európai parlamenti és tanácsi rendelet 8. cikkében meghatározott feladatokat,
 
 c) az Európa Tanács keretei között
 
@@ -76,7 +76,7 @@ f) koordinálja az alaptevékenysége szerint magánjogi, valamint nemzetközi m
 
 (10) A miniszter a Kormány eseti döntése alapján felel a több miniszter feladatát érintő törvények előkészítéséért.
 
-(11)[^85] A miniszter az igazságügyért való felelőssége keretében gondoskodik a hazai jogszabályoknak az észszerű működés szempontjából történő tartalmi felülvizsgálatáról, ezzel összefüggésben
+(11)[^104] A miniszter az igazságügyért való felelőssége keretében gondoskodik a hazai jogszabályoknak az észszerű működés szempontjából történő tartalmi felülvizsgálatáról, ezzel összefüggésben
 
 a) ágazati és egyedi javaslatot tesz a Kormánynak
 
@@ -90,9 +90,9 @@ b) közvetlen kapcsolatot tart a hazai szabályozásokat előkészítő és alka
 
 c) figyelemmel kíséri az állam működésének észszerűsítését elősegítő nemzetközi megoldásokat és gyakorlatokat.
 
-(12)[^86] A miniszter az igazságügyért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – jogi vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
+(12)[^105] A miniszter az igazságügyért való felelőssége keretében – a Kormány ügyrendjében foglaltak szerint – jogi vétót gyakorolhat a jogszabályok és a Magyar Közlönyben kiadásra kerülő kormányhatározatok tervezetei tekintetében.
 
-[^83]: A 122. § (9) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^84]: A 122. § (9) bekezdés b) pont bd) alpontját a 87/2024. (IV. 23.) Korm. rendelet 10. §-a iktatta be.
-[^85]: A 122. § (11) bekezdését a 314/2023. (VII. 17.) Korm. rendelet 17. § (2) bekezdése iktatta be.
-[^86]: A 122. § (12) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.
+[^102]: A 122. § (9) bekezdése a 314/2023. (VII. 17.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^103]: A 122. § (9) bekezdés b) pont bd) alpontját a 87/2024. (IV. 23.) Korm. rendelet 10. §-a iktatta be.
+[^104]: A 122. § (11) bekezdését a 314/2023. (VII. 17.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^105]: A 122. § (12) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 28. §-a iktatta be.

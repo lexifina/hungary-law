@@ -1,6 +1,6 @@
-## 9.[^55] A nemzetgazdasági miniszter feladat- és hatásköre
+## 9.[^69] A nemzetgazdasági miniszter feladat- és hatásköre
 
-103. § (1)[^56] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+103. § (1)[^70] A nemzetgazdasági miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. nemzeti pénzügyi szolgáltatásokért,
 
@@ -30,7 +30,7 @@
 
 14. vállalkozásfejlesztésért,
 
-15. űriparfejlesztésért,
+15.[^71] űriparfejlesztésért és űrtechnológiákért,
 
 16. turizmusért,
 
@@ -38,15 +38,20 @@
 
 18. kereskedelemért (a továbbiakban: belföldi kereskedelemért),
 
-19. – a 139. § 7. pontja szerinti kivétellel – harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
+19.[^72] harmadik országbeli állampolgárok magyarországi foglalkoztatásáért
+
+20.[^73] fogyasztóvédelemért
 
 felelős tagja.
 
-(2)[^57] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
+(2)[^74] A miniszter tevékenységét a tulajdonosi joggyakorlása alá tartozó állami vagyonnal kapcsolatos, az államháztartásról szóló 2011. évi CXCV. törvény 19. § (3) bekezdése szerinti tulajdonosi ügyletek tekintetében a Magyar Nemzeti Vagyonkezelő Zrt. segíti.
 
-(3)[^58]
+(3)[^75]
 
-[^55]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
-[^56]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^57]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
-[^58]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.
+[^69]: A 9. alcím címe az 599/2023. (XII. 22.) Korm. rendelet 41. § b) pontja szerint módosított szöveg.
+[^70]: A 103. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^71]: A 103. § (1) bekezdés 15. pontja a 172/2024. (VII. 2.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^72]: A 103. § (1) bekezdés 19. pontja a 172/2024. (VII. 2.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^73]: A 103. § (1) bekezdés 20. pontját a 172/2024. (VII. 2.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^74]: A 103. § (2) bekezdése a 467/2022. (XI. 21.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^75]: A 103. § (3) bekezdését a 261/2022. (VII. 21.) Korm. rendelet 1. §-a iktatta be, az 531/2023. (XII. 5.) Korm. rendelet 9. § b) pontja hatályon kívül helyezte.

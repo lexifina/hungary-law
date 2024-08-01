@@ -1,4 +1,4 @@
-185. §[^140] A miniszterek helyettesítése a Kit. 21. § (3) bekezdése szerinti esetben, valamint a Kit. 21. § (4) bekezdése szerinti esetben – törvényben meghatározott kivétellel – a következő rend szerint történik:
+185. §[^173] A miniszterek helyettesítése a Kit. 21. § (3) bekezdése szerinti esetben, valamint a Kit. 21. § (4) bekezdése szerinti esetben – törvényben meghatározott kivétellel – a következő rend szerint történik:
 
 a) a miniszterelnök általános helyettesét a Miniszterelnökséget vezető miniszter,
 
@@ -32,4 +32,4 @@ o) az európai uniós ügyekért felelős minisztert a Miniszterelnökséget vez
 
 helyettesíti.
 
-[^140]: A 185. § az 599/2023. (XII. 22.) Korm. rendelet 38. §-ával megállapított szöveg.
+[^173]: A 185. § az 599/2023. (XII. 22.) Korm. rendelet 38. §-ával megállapított szöveg.

@@ -18,5 +18,8 @@ f) a (2) bekezdés szerinti törvények,
 
 g) a 74. § (3) bekezdése szerinti törvények.
 
+(4)[^5] A Miniszterelnöki Kormányiroda személyügyi központként közreműködik a kormánytisztviselők kérelmezett vezénylésével kapcsolatosan a Miniszterelnöki Kormányiroda közigazgatási államtitkára számára a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben megállapított feladatok ellátásában.
+
 [^3]: A 8. § (3) bekezdés nyitó szövegrésze a 176/2024. (VII. 7.) Korm. rendelet 29. § a) pontja szerint módosított szöveg.
 [^4]: A 8. § (3) bekezdés c) pontja a 176/2024. (VII. 7.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^5]: A 8. § (4) bekezdését a 172/2024. (VII. 2.) Korm. rendelet 1. §-a iktatta be.

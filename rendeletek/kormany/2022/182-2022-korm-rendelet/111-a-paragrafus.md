@@ -1,3 +1,3 @@
-111/A. §[^66] A miniszter a belgazdaságért való felelőssége keretében meghatározza a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
+111/A. §[^84] A miniszter a belgazdaságért való felelőssége keretében meghatározza a belgazdaság irányításának cél-, eszköz- és intézményrendszerét, fejlesztési koncepcióját.
 
-[^66]: A 111/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.
+[^84]: A 111/A. §-t a 467/2022. (XI. 21.) Korm. rendelet 6. §-a iktatta be.

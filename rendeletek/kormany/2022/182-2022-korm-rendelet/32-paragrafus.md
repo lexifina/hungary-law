@@ -20,6 +20,6 @@ a) ellátja a közösségi bormarketing és a magyar bor egységes kommunikáci�
 
 b) előkészíti a magyar bor egységes kommunikációjára vonatkozó jogszabályokat.
 
-(3)[^22] A miniszter a kormányzati stratégiák kidolgozásának támogatásáért és a társadalompolitika összehangolásáért való felelőssége körében ellátja a HUNGARORING versenypálya fejlesztésével, üzemeltetésével, valamint a Formula-1 Világbajnokság Magyar Nagydíj megrendezésével összefüggő kormányzati feladatokat.
+(3)[^24] A miniszter a kormányzati stratégiák kidolgozásának támogatásáért és a társadalompolitika összehangolásáért való felelőssége körében ellátja a HUNGARORING versenypálya fejlesztésével, üzemeltetésével, valamint a Formula-1 Világbajnokság Magyar Nagydíj megrendezésével összefüggő kormányzati feladatokat.
 
-[^22]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be.
+[^24]: A 32. § (3) bekezdését az 556/2023. (XII. 12.) Korm. rendelet 3. §-a iktatta be.

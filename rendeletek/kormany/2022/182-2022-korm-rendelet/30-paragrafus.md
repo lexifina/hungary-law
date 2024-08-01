@@ -1,6 +1,6 @@
 ## 3. A Miniszterelnökséget vezető miniszter feladat- és hatásköre
 
-30. § (1)[^18] A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+30. § (1)[^20] A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. kormánybiztosok tevékenységének összehangolásáért,
 
@@ -30,15 +30,15 @@ felelős tagja.
 
 (4) A miniszter figyelemmel kíséri az Országgyűlés és a bizottságai napirendjét és üléseit, részt vesz az üléseket előkészítő fórumokon.
 
-(5)[^19] A miniszter a Nemzeti Közszolgálati Egyetem feletti fenntartói joggyakorlás és egyéb, a Nemzeti Közszolgálati Egyetem tekintetében jogszabályban meghatározott jogkör vagy feladat tekintetében a Kormány közigazgatás-fejlesztésért felelős tagja.
+(5)[^21] A miniszter a Nemzeti Közszolgálati Egyetem feletti fenntartói joggyakorlás és egyéb, a Nemzeti Közszolgálati Egyetem tekintetében jogszabályban meghatározott jogkör vagy feladat tekintetében a Kormány közigazgatás-fejlesztésért felelős tagja.
 
 (6) A miniszter a miniszterelnök részére – feladat- és hatáskörében – soron kívül tájékoztatást, felvilágosítást, továbbá kormányzati összeállítások elkészítéséhez szakmai előkészítő anyagot, adatszolgáltatást, illetve szakértői közreműködést kérhet a kormányzati szervektől, közvetíti a miniszterelnök eseti döntéseit a miniszterek és a kormányzati szervek számára.
 
-(7)[^20] A miniszter a Közszolgálati Döntőbizottság elnökének, elnökhelyettesének és tagjainak kinevezése, valamint a Közszolgálati Döntőbizottsággal kapcsolatos egyéb kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
+(7)[^22] A miniszter a Közszolgálati Döntőbizottság elnökének, elnökhelyettesének és tagjainak kinevezése, valamint a Közszolgálati Döntőbizottsággal kapcsolatos egyéb kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
 
-(8)[^21] A miniszter a Közszolgálati Érdekegyeztető Fórummal kapcsolatos kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
+(8)[^23] A miniszter a Közszolgálati Érdekegyeztető Fórummal kapcsolatos kormányzati feladatok tekintetében a Kormány közigazgatási minőségpolitikáért és személyzetpolitikáért felelős tagja.
 
-[^18]: A 30. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
-[^19]: A 30. § (5) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte, újonnan az 599/2023. (XII. 22.) Korm. rendelet 18. § (2) bekezdése iktatta be.
-[^20]: A 30. § (7) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 18. § (3) bekezdése iktatta be.
-[^21]: A 30. § (8) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^20]: A 30. § (1) bekezdése az 599/2023. (XII. 22.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^21]: A 30. § (5) bekezdését az 531/2023. (XII. 5.) Korm. rendelet 9. § a) pontja hatályon kívül helyezte, újonnan az 599/2023. (XII. 22.) Korm. rendelet 18. § (2) bekezdése iktatta be.
+[^22]: A 30. § (7) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 18. § (3) bekezdése iktatta be.
+[^23]: A 30. § (8) bekezdését az 599/2023. (XII. 22.) Korm. rendelet 18. § (3) bekezdése iktatta be.

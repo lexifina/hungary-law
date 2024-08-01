@@ -1,4 +1,4 @@
-182/D. §[^125] (1) A miniszter a helyi önkormányzatokért való felelőssége keretében előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályokat.
+182/D. §[^158] (1) A miniszter a helyi önkormányzatokért való felelőssége keretében előkészíti a helyi önkormányzatokra, a helyi önkormányzatok tulajdonára és vagyonára, a helyi önkormányzatok adósságrendezésére és a helyi önkormányzati képviselők és polgármesterek jogállására vonatkozó jogszabályokat.
 
 (2) A miniszter a helyi önkormányzatokért való felelőssége keretében
 
@@ -16,4 +16,4 @@ f) kialakítja az önkormányzati érdekszövetségekkel való kapcsolattartás 
 
 g) az önkormányzati érdekszövetségek javaslatának kikérését követően kijelöli az Európa Tanács Helyi és Regionális Önkormányzatok Kongresszusa magyar delegációjának tagjait.
 
-[^125]: A 182/D. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^158]: A 182/D. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.
