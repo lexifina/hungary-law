@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-98-20-2
 | 2022-06-01 | 2022-98-20-22.4 | 2021. évi I. törvény |
 | 2022-07-12 | 2022-98-20-22.5 | 248/2022. (VII. 11.) Korm. rendelet |
 | 2022-11-01 | 2022-98-20-22.6 | 2021. évi I. törvény |
+| 2024-08-01 | 2022-98-20-22.7 | 2021. évi I. törvény |

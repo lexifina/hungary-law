@@ -1,3 +1,3 @@
-3. §[^6]
+3. §[^7]
 
-[^6]: A 3. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 28. pontja alapján nem lépett hatályba.
+[^7]: A 3. § a 190/2022. (V. 26.) Korm. rendelet 1. § (2) bekezdés 28. pontja alapján nem lépett hatályba.
