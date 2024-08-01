@@ -1,4 +1,4 @@
-1. melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^10]
+1. melléklet a 212/2008. (VIII. 29.) Korm. rendelethez[^13]
 
 |  | A | B |
 
@@ -936,4 +936,4 @@
 
 | 30.2. | A 3–29. fejezetekben nem szereplő vizsgálatok esetében a díjszámítás a vizsgálatra fordított idő és az itt meghatározott mérnöki óradíj szorzata, hozzáadva a felhasznált anyagköltséget. | 5 420 |
 
-[^10]: Az 1. melléklet a 93/2024. (IV. 23.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^13]: Az 1. melléklet a 93/2024. (IV. 23.) Korm. rendelet 9. §-ával megállapított szöveg.

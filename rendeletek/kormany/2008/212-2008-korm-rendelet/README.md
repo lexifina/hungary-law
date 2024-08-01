@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-212-20-
 | 2023-01-01 | 2008-212-20-22.13 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2023-05-19 | 2008-212-20-22.14 | 289/2010. (XII. 21.) Korm. rendelet |
 | 2024-05-24 | 2008-212-20-22.15 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2024-08-01 | 2008-212-20-22.16 | 217/2024. (VII. 31.) Korm. rendelet |
