@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-33-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 2016-33-00-00.13 |
 | 2023-05-12 | 2023. évi XVIII. törvény | 2016-33-00-00.14 |
 | 2024-01-01 | 2023. évi LII. törvény | 2016-33-00-00.15 |
+| 2024-08-01 | 2023. évi LXXXVI. törvény | 2016-33-00-00.16 |

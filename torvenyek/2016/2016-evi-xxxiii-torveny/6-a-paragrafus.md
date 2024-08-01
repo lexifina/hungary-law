@@ -44,7 +44,7 @@ e) a pályázó által választott szakértői tématerülettel kapcsolatos szak
 
 f) az állami projektértékelői jogviszony létesítéséhez szükséges nyilatkozatok meglétének igazolását,
 
-g) a projektértékelői azonosítót (a minisztérium által működtetett informatikai rendszer által generált adat).
+g) a projektértékelői azonosítót (a pályázattal érintett operatív program végrehajtását támogató monitoring és információs rendszer által generált adat).
 
 h) a pályázó nyilatkozatát arról, hogy Ügyfélkapu regisztrációval vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatáshoz való hozzáféréssel rendelkezik-e.
 

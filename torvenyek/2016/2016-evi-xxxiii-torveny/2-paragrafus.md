@@ -10,8 +10,8 @@
 
 4. központi államigazgatási szerv: a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 1. § (2) bekezdés a)–c) pontjában meghatározott szerv, a Kormány kivételével;
 
-4a. munkáltató: a miniszter által vezetett vagy a Kormány eredeti jogalkotói hatáskörében kiadott rendeletében kijelölt, a miniszter feladatainak ellátását segítő minisztérium (a továbbiakban: minisztérium);
+4a. munkáltató: a Nemzeti Fejlesztési Központ;
 
 5.
 
-6. szakértői névsor: a minisztériumban nyilvántartott állami projektértékelői névjegyzék.
+6. szakértői névsor: a Nemzeti Fejlesztési Központban nyilvántartott állami projektértékelői névjegyzék.

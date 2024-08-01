@@ -17,3 +17,5 @@ d) a mikro-, kis- és középvállalkozások, valamint a helyi és területi ön
 e) – a 11/A. §-ban meghatározott kivétellel – e törvény kötelező alkalmazásának további esetköreit és a kötelező alkalmazás további feltételeit, azok részletes szabályait, valamint a kötelező alkalmazás alóli mentesítésre vonatkozó részletszabályokat,
 
 f) a Magyarország Helyreállítási és Ellenállóképességi Terv vonatkozásában azon tartalmi értékelések körét, amelyek tekintetében az állami projektértékelő tartalmi értékelést végez.
+
+g) az állami projektértékelői díjazás általános elveit és a díjazás mértékét.

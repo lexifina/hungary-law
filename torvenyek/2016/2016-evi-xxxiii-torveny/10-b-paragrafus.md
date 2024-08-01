@@ -1,4 +1,4 @@
-10/B. § (1) A pályázók és az értékelők minisztériumi nyilvántartása (a továbbiakban együtt: nyilvántartás) egyedi azonosítószám alapján történik, amelyet az érintettek a regisztráció során kapnak meg.
+10/B. § (1) A pályázók és az értékelők Nemzeti Fejlesztési Központ általi nyilvántartása (a továbbiakban együtt: nyilvántartás) egyedi azonosítószám alapján történik, amelyet az érintettek a regisztráció során kapnak meg.
 
 (1a) Az értékelő az (1) bekezdés szerinti egyedi azonosítószámát köteles bizalmasan kezelni. Ha jogszabály eltérően nem rendelkezik, akkor azt harmadik személy tudomására nem hozhatja.
 

@@ -16,13 +16,15 @@ c) az államháztartás központi alrendszerébe sorolt köztestületnél közti
 
 d) többségi állami befolyás alatt álló gazdasági társaságnál munkavállalóként,
 
-e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként vagy
+e) az egészségügyi szolgálati jogviszonyról szóló törvény szerint állami fenntartású egészségügyi szolgáltatónál egészségügyi szolgálati jogviszonyban álló személyként,
 
-f) a pedagógusok új életpályájáról szóló törvény szerinti állami fenntartású köznevelési intézménynél köznevelési foglalkoztatotti jogviszonyban álló személyként
+f) a pedagógusok új életpályájáról szóló törvény szerinti állami fenntartású köznevelési intézménynél köznevelési foglalkoztatotti jogviszonyban álló személyként, vagy
+
+g) a Nemzeti Fejlesztési Központnál kormánytisztviselőként vagy munkavállalóként
 
 foglalkoztatott és projektértékelési feladatok ellátására sikeres pályázóként kiválasztásra került.
 
-(3) Az értékelő felett a munkáltatói jogkört az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+(3) Az értékelő felett a munkáltatói jogkört a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 33/B. § (1) bekezdése szerinti államtitkár (a továbbiakban: államtitkár) gyakorolja.
 
 (4) E törvényt
 
@@ -32,7 +34,7 @@ b) a közbeszerzési értékelésre
 
 kell alkalmazni.
 
-(5) E törvény a miniszter hozzájárulása esetén a (4) bekezdés a) pontjába vagy a (6) bekezdésbe nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
+(5) E törvény az államtitkár hozzájárulása esetén a (4) bekezdés a) pontjába vagy a (6) bekezdésbe nem tartozó felhívással összefüggő tartalmi értékelésre is alkalmazható.
 
 (6) A (4) bekezdés a) pontjában foglaltakon túl a törvény kötelező alkalmazásának további esetköreit – ideértve a felhívások kiválasztási eljárásrendjének meghatározását is – és feltételeit kormányrendelet vagy miniszteri rendelet meghatározhatja.
 
@@ -44,4 +46,4 @@ b) a KFItv. alapján kötött megállapodásban foglalt, kutatás-fejlesztési �
 
 értékelési feladatokra és eljárásokra.
 
-(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy a (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz a miniszter különösen indokolt esetben hozzájárul.
+(8) E törvényt nem kell alkalmazni a (4) bekezdés a) pontja vagy a (6) bekezdés szerinti felhívásra benyújtott támogatási kérelmek esetén, ha ahhoz az államtitkár különösen indokolt esetben hozzájárul.

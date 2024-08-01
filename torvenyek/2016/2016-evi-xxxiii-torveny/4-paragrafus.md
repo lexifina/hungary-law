@@ -1,6 +1,6 @@
 4. § (1) A jogviszony pályázati eljárás alapján létesíthető.
 
-(2) A miniszter projektértékelői pályázatot (a továbbiakban: pályázat) ír ki, amelynek tartalmaznia kell
+(2) Az államtitkár projektértékelői pályázatot (a továbbiakban: pályázat) ír ki, amelynek tartalmaznia kell
 
 a) a pályázóval szemben támasztott feltételeket,
 
@@ -18,7 +18,7 @@ f) annak megjelölését, hogy a pályázat tartalmi értékelés vagy közbesze
 
 (3a) A pályázati eljárás során megfelelt és kiválasztott személy a jogviszony létesítésével egyidejűleg általános összeférhetetlenségi nyilatkozatot és az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közlemény (2021/C 121/01) 6.3. pontja szerinti adatokat is tartalmazó érdekeltségi nyilatkozatot tesz.
 
-(4) A miniszter gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
+(4) Az államtitkár gondoskodik arról, hogy a pályázati eljárás során megfelelt és kiválasztott személyt a szakértői névsorba bejegyezzék.
 
 (5) Az értékelőre az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló törvény és a nemzetbiztonsági szolgálatokról szóló törvény nemzetbiztonsági ellenőrzésre vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 

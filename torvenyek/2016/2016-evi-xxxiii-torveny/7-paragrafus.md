@@ -1,6 +1,6 @@
 ## 4. A projektértékelői keretszerződés
 
-7. § (1) A miniszter az értékelővel a tartalmi értékelésre vagy a közbeszerzési értékelésre keretszerződést köt. Keretszerződés csak írásban köthető.
+7. § (1) Az államtitkár az értékelővel a tartalmi értékelésre vagy a közbeszerzési értékelésre keretszerződést köt. Keretszerződés csak írásban köthető.
 
 (1a) A munkáltató az értékelővel a keretszerződést elektronikusan köti meg és módosítja, amelyhez az értékelőnek Ügyfélkapu elektronikus azonosítási szolgáltatással vagy ezzel egyenértékű, elektronikus aláírási lehetőséget is biztosító szolgáltatással kell rendelkeznie.
 

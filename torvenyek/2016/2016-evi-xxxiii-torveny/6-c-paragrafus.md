@@ -50,4 +50,4 @@ db) következő vagyonnyilatkozat-tételének esedékességét,
 
 e) az alapjogviszony szerinti munkáltató igazolását a foglalkoztatott – igazolás kiállítását megelőző hónapra megállapított, új alapjogviszony létesítése esetén az alapjogviszonyt létesítő okiratban meghatározott – havi bruttó illetményéről vagy munkabéréről,
 
-f) az alapjogviszony szerinti munkáltató nyilatkozatát arról, hogy vállalja, hogy az a)–e) pont szerinti adatokban történő változásról – különösen a foglalkoztatási jogviszony megszűnésének, megszüntetésének tényéről – a minisztériumot haladéktalanul tájékoztatja.
+f) az alapjogviszony szerinti munkáltató nyilatkozatát arról, hogy vállalja, hogy az a)–e) pont szerinti adatokban történő változásról – különösen a foglalkoztatási jogviszony megszűnésének, megszüntetésének tényéről – a Nemzeti Fejlesztési Központot haladéktalanul tájékoztatja.
