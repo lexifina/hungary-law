@@ -420,7 +420,7 @@
 
 | 211 | Zirci | második |
 
-2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^11]
+2. melléklet a 47/2017. (IX. 29.) FM rendelethez[^19]
 
 A települések becslőjárások, illetve osztályozási vidékek szerinti besorolása
 
@@ -3618,4 +3618,4 @@ A települések becslőjárások, illetve osztályozási vidékek szerinti besor
 
 | 77. | Vértestolna | 182 |
 
-[^11]: A 2. melléklet a 6/2024. (II. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^19]: A 2. melléklet a 6/2024. (II. 15.) AM rendelet 4. § (1) bekezdésével megállapított szöveg.
