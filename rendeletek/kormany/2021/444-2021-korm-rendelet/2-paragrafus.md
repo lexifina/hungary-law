@@ -22,7 +22,8 @@ b) a lakás az ingatlan-nyilvántartásban lakás megnevezéssel feltüntetésre
 
 c) az igénylő tulajdonjogának ingatlan-nyilvántartásba való bejegyzése megtörtént.
 
-(4) A támogatás olyan lakás vásárlása esetén igényelhető, amelyet gazdálkodó szervezet természetes személy részére való értékesítés céljára épített vagy építtetett, és az igénylő részére értékesített.
+(4)[^3] A támogatás olyan lakás vásárlása esetén igényelhető, amelyet gazdálkodó szervezet vagy befektetési alap (a továbbiakban együtt: gazdálkodó szervezet) természetes személy részére való értékesítés céljára épített vagy építtetett, és az igénylő részére első ízben értékesített.
 
 [^1]: A 2. § (1) bekezdés c) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § (1) bekezdés d) pontja a 35/2024. (II. 29.) Korm. rendelet 337. § b) pontja szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 230/2024. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
