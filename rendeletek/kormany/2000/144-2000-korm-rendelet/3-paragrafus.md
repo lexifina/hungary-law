@@ -1,6 +1,6 @@
 ## 2. § Az Egyezmény magyar nyelvű szövege a következő:
 
-## ,,
+## „,,
 
 ## Egyezmény
 
@@ -246,8 +246,10 @@
 
 ## A Felek és az együttműködő szervezetek kötelezik magukat arra, hogy foganatosítják az összes szükséges intézkedést saját dolgozóik, a munkák fő végrehajtói, illetve kivitelezői és az alvállalkozók vonatkozásában a bizalmasság megőrzésére irányuló, a fentiekben meghatározott kötelezettségek betartásának érdekében.
 
-## 10. A közös kutatások és fejlesztések eredményeinek harmadik fél rendelkezésére történő bocsátása a Felek vagy az együttműködő szervezetek közötti írásbeli egyezmények tárgyát képezi. A szóban forgó eredmények terjesztésének rendjét ezek az egyezmények határozzák meg a jelen fejezet 7. pontjának megfelelő jogok érvényesítésének veszélyeztetése nélkül.''
+## 10. A közös kutatások és fejlesztések eredményeinek harmadik fél rendelkezésére történő bocsátása a Felek vagy az együttműködő szervezetek közötti írásbeli egyezmények tárgyát képezi. A szóban forgó eredmények terjesztésének rendjét ezek az egyezmények határozzák meg a jelen fejezet 7. pontjának megfelelő jogok érvényesítésének veszélyeztetése nélkül.''”
 
 3. § (1) Ez a rendelet a kihirdetése napján lép hatályba. Az Egyezményben foglaltakat 2000. május 14-től kell alkalmazni.
 
-(2) A rendelet végrehajtásáról a közlekedési és vízügyi miniszter gondoskodik.
+(2)[^1] E rendelet végrehajtásáról az űriparfejlesztésért és űrtechnológiákért felelős miniszter gondoskodik.
+
+[^1]: A 3. § (2) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
