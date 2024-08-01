@@ -2,7 +2,7 @@
 
 17. § (1) A védelmi és biztonsági feladat ellátásában részt vevő szervezet biztosítja a jogszabályban előírt védelmi és biztonsági feladat végrehajtásához szükséges személyi és tárgyi feltételt, aminek érdekében
 
-a) intézkedési tervet készít a Kormány, a feladat- és hatáskör szerinti miniszter, a területi védelmi bizottság, a helyi védelmi bizottság és a polgármester rendelkezése szerint,
+a)[^13] intézkedési tervet készít a Kormány, a Védelmi Tanács, a feladat- és hatáskör szerinti miniszter, a területi védelmi bizottság, a helyi védelmi bizottság és a polgármester rendelkezése szerint,
 
 b) kialakítja a védelmi és biztonsági feladata ellátásához szükséges szervezeti és működési rendet,
 
@@ -21,3 +21,5 @@ a) a szervezeten belüli védelmi és biztonsági szakmai tevékenység támogat
 b) a vezetői döntés szakértői hátterének biztosítása és
 
 c) a védelmi és biztonsági igazgatás központi szervével történő kapcsolattartás.
+
+[^13]: A 17. § (1) bekezdés a) pontja a 217/2024. (VII. 31.) Korm. rendelet 25. §-a szerint módosított szöveg.
