@@ -38,6 +38,14 @@ m) közreműködik az egyes térségi komplex gazdaságtechnológiai-fejlesztés
 
 n) közreműködik a hálózattudományi fejlesztések és programok, így különösen az egyes iparági hálózati működési, gyártástechnológia-diagnosztikai és üzemszervezés-diagnosztikai fejlesztések és programok kidolgozásában és megvalósításában.
 
+o)[^1] közreműködik űriparfejlesztési feladatok megvalósításában, különösen
+
+oa) a nemzetközi szervezetekben történő magyar szakértői képviselet biztosításának támogatásában,
+
+ob) a hazai beszállítói hálózat komplex – finanszírozási és tanácsadási programokon – keresztül történő fejlesztésében,
+
+oc) hazai űripari ökoszisztéma külpiaci megjelenésének támogatásában.
+
 (2) A Neumann Nkft. az 1. § (1) bekezdés b) pontja szerinti közfeladatai körében
 
 a) közreműködik a technológiai szakember-utánpótlást elősegítő feladatok szervezésében és megvalósításában;
@@ -59,3 +67,5 @@ h) közreműködik az Élelmiszeripari Beszállító-fejlesztési Program végre
 i) gondozza és továbbfejleszti az egyes fejlett technológiák – így a fintech, a blockchain – alkalmazását támogató állami védjegyeket, ennek keretében gondoskodik a korábbi Digitális Jólét Pénzügyi védjegy fintech védjeggyé történő átalakításáról;
 
 j) a Kormány gyermekvédelmi stratégiáihoz és programjaihoz kapcsolódva – ideértve különösen a Magyarország Digitális Gyermekvédelmi Stratégiájában meghatározott feladatokat – közreműködik a gyermek- és fogyasztóvédelmi, továbbá korszerű tudásátadási és -megosztási technológiák és megoldások kidolgozásában, alkalmazásában és elterjesztésében.
+
+[^1]: A 2. § (1) bekezdés o) pontját a 217/2024. (VII. 31.) Korm. rendelet 26. §-a iktatta be.
