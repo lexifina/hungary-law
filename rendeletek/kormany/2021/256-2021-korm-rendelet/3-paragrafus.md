@@ -1,8 +1,6 @@
-## 2. § Az e rendelet hatálya alá tartozó források felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
-
 ## 2. Értelmező rendelkezések
 
-## 3. § E rendelet alkalmazásában
+3. § E rendelet alkalmazásában
 
 1. állami támogatás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti támogatás,
 

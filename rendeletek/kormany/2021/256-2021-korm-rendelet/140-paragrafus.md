@@ -1,4 +1,4 @@
-## 140. § A biztosíték a felhívás szerint lehet
+140. § A biztosíték a felhívás szerint lehet
 
 a) hitelintézet által kibocsátott garanciavállaló nyilatkozat,
 

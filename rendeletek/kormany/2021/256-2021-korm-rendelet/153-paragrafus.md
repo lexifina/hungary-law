@@ -1,4 +1,4 @@
-## 153. § A bejelentési kötelezettség fennállása mellett nem kell a támogatási szerződést módosítani, ha
+153. § A bejelentési kötelezettség fennállása mellett nem kell a támogatási szerződést módosítani, ha
 
 a) a projekt tényleges megkezdése a támogatási szerződésben foglalthoz képest legfeljebb tizenkét hónapot késik és a projekt megkezdésének időpontja megfelel a felhívásnak,
 

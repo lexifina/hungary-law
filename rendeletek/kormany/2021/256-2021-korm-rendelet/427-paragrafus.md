@@ -1,5 +1,3 @@
-## 426. § Az irányító hatóság a beszámításról haladéktalanul tájékoztatja a kedvezményezettet.
-
 ## 105. A kedvezményezett visszafizetésre történő felszólítása
 
 427. § (1) Ha a leírás, beszámítás nem vagy csak részben lehetséges, az irányító hatóság felszólítja a kedvezményezettet a jogosulatlanul igénybe vett támogatás visszafizetésére.

@@ -1,4 +1,4 @@
-## 72. § Az éves fejlesztési keret elfogadására irányuló javaslatban felhívásonként be kell mutatni
+72. § Az éves fejlesztési keret elfogadására irányuló javaslatban felhívásonként be kell mutatni
 
 a) a felhívás címét,
 
@@ -10,7 +10,7 @@ d) a támogatható tevékenységek felsorolását,
 
 e) a felhívás keretösszegét és annak alátámasztását,
 
-f) a felhívás meghirdetésének tervezett időpontját,
+f)[^139] a felhívás meghirdetésének tervezett időpontját negyedéves bontásban,
 
 g) a projektkiválasztási eljárásrendet,
 
@@ -19,3 +19,5 @@ h) a lehetséges kedvezményezettek körét,
 i) az igényelhető támogatás összegét és annak alátámasztását, valamint
 
 j) a tervezett indikátorok felsorolását és célértékét.
+
+[^139]: A 72. § f) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 47. pontja szerint módosított szöveg.

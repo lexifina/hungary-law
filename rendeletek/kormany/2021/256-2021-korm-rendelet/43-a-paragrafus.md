@@ -1,15 +1,14 @@
-## 43. § Az e rendelet hatálya alá tartozó szervek a támogatást igénylő vagy a kedvezményezett által benyújtott bármely dokumentum nyilvánvaló hibáját a dokumentummal kapcsolatos eljárás során kijavíthatják, amelyről a támogatást igénylőt vagy a kedvezményezettet értesítik.
-
 ## 20. Az összeférhetetlenség
 
-43/A. §[^71] E Fejezet szabályait
+43/A. §[^93] E Fejezet szabályait
 
 a) az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet] 61. cikkével,
 
 b) az iránymutatás az összeférhetetlenségek költségvetési rendelet szerinti elkerüléséről és kezeléséről szóló bizottsági közleménnyel (2021/C 121/01), valamint
 
-c) a fejlesztéspolitikai intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
+c)[^94] a fejlesztéspolitikai intézményrendszer munkatársa jogállására vonatkozó jogszabályban – így különösen a kormányzati igazgatásról szóló 2018. évi CXXV. törvényben (a továbbiakban: Kit.) és az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvényben (a továbbiakban: Ápjt.) – meghatározott összeférhetetlenségi szabályokkal
 
 összhangban kell értelmezni és alkalmazni.
 
-[^71]: A 43/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 19. §-a iktatta be.
+[^93]: A 43/A. §-t a 374/2022. (IX. 30.) Korm. rendelet 19. §-a iktatta be.
+[^94]: A 43/A. § c) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 36. pontja szerint módosított szöveg.

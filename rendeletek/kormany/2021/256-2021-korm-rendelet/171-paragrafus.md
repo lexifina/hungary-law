@@ -1,18 +1,16 @@
-## 170. § A 168. § (1) bekezdése szerinti döntést megelőzően vizsgálni kell azt, hogy a többlettámogatás nyújtása az állami támogatási szabályok alapján lehetséges-e.
-
 171. § (1) Ha a támogatási szerződés megkötését követően felmerült költségnövekmény
 
-a)[^151] nem éri el a támogatási döntésben meghatározott támogatási összeg 30%-át, akkor az irányító hatóságnak kell alátámasztania a költségnövekmény piaci árnak megfelelését,
+a)[^208] nem éri el a támogatási döntésben meghatározott támogatási összeg 30%-át, akkor az irányító hatóságnak kell alátámasztania a költségnövekmény piaci árnak megfelelését,
 
-b)[^152] eléri a támogatási döntésben meghatározott támogatási összeg 30%-át, akkor az államháztartásért felelős miniszter által megbízott igazságügyi szakértőnek kell alátámasztania a költségnövekmény piaci árnak megfelelését,
+b)[^209] eléri a támogatási döntésben meghatározott támogatási összeg 30%-át, akkor az államháztartásért felelős miniszter által megbízott igazságügyi szakértőnek kell alátámasztania a költségnövekmény piaci árnak megfelelését,
 
-c)[^153]
+c)[^210]
 
-(1a)[^154] Ha a költségnövekmény jogszabályban meghatározott építőanyag vagy termék árának emelkedésével függ össze, amelynek alátámasztását a jogszabály szerint kérelmezték, akkor a költségnövekmény piaci árnak megfelelése szempontjából az építésgazdaságért felelős miniszter szakvéleménye irányadó.
+(1a)[^211] Ha a költségnövekmény jogszabályban meghatározott építőanyag vagy termék árának emelkedésével függ össze, amelynek alátámasztását a jogszabály szerint kérelmezték, akkor a költségnövekmény piaci árnak megfelelése szempontjából az építésgazdaságért felelős miniszter szakvéleménye irányadó.
 
 (2) Az irányító hatóság a költségnövekmény támogatására irányuló igény benyújtását követően jogosult kezdeményezni az igazságügyi szakértő megbízását.
 
-[^151]: A 171. § (1) bekezdés a) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^152]: A 171. § (1) bekezdés b) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^153]: A 171. § (1) bekezdés c) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 2. pontja hatályon kívül helyezte.
-[^154]: A 171. § (1a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 42. §-a iktatta be.
+[^208]: A 171. § (1) bekezdés a) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 8. pontja szerint módosított szöveg.
+[^209]: A 171. § (1) bekezdés b) pontja a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^210]: A 171. § (1) bekezdés c) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 2. pontja hatályon kívül helyezte.
+[^211]: A 171. § (1a) bekezdését a 195/2023. (V. 22.) Korm. rendelet 42. §-a iktatta be.

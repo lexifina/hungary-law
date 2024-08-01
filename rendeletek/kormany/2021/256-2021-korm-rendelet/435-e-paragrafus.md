@@ -1,1 +1,0 @@
-## 435/D. § Ha a biztosíték érvényesítése hat hónapnál több időt vesz igénybe, az irányító hatóság hathavonta újraszámolja a követelés és a napi kamat összegét az irányadó jegybanki alapkamat figyelembevételével.

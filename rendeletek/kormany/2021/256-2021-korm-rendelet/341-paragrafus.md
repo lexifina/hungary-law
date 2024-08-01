@@ -1,5 +1,6 @@
-## 340. § Az igazoló hatóság november 30-ig elkészíti az éves elszámolás tervezetét, majd megküldi az audit hatóság részére.
+341. § (1)[^444] Az audit hatóság az éves elszámolásra vonatkozó észrevételeit december 31-ig megküldi az irányító hatóság és az igazoló hatóság részére.
 
-341. § (1) Az audit hatóság az éves összefoglalóra, a vezetői nyilatkozatra és az éves elszámolásra vonatkozó észrevételeit december 31-ig megküldi az irányító hatóság és az igazoló hatóság részére.
+(2)[^445]
 
-(2) Az igazoló hatóság az éves összefoglalóra és a vezetői nyilatkozatra vonatkozó észrevételeit december 31-ig megküldi az irányító hatóság részére.
+[^444]: A 341. § (1) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 76. § f) pontja szerint módosított szöveg.
+[^445]: A 341. § (2) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § g) pontja hatályon kívül helyezte.

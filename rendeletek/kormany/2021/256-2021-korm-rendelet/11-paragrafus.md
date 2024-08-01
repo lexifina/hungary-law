@@ -1,4 +1,4 @@
-## 11. §[^21] A miniszter pénzügyi feladatai keretében
+11. §[^22] Az NFK pénzügyi feladatai keretében
 
 a) forrást biztosít a programok központi kezelésű előirányzat-felhasználási keretszámláin,
 
@@ -8,7 +8,7 @@ c) gondoskodik a közreműködő szervezetek által ellátott feladatok finansz�
 
 d) biztosítja a fejlesztéspolitikai intézményrendszer működéséhez szükséges finanszírozási forrásokat, ideértve a technikai segítségnyújtást is, valamint biztosítja azok egységes felhasználását, a teljesítménymérést,
 
-e)[^22]
+e)[^23]
 
-[^21]: A 11. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^22]: A 11. § e) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 1. pontja hatályon kívül helyezte.
+[^22]: A 11. § nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 9. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^23]: A 11. § e) pontját a 195/2023. (V. 22.) Korm. rendelet 70. § 1. pontja hatályon kívül helyezte.

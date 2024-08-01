@@ -1,5 +1,3 @@
-## 429. § Ha a kedvezményezett a visszafizetési kötelezettségét teljesíti, az irányító hatóság a visszafizetési kötelezettség megszűnéséről tizenöt napon belül tájékoztatja.
-
 430. § (1) Ha a kedvezményezett a visszafizetési kötelezettségét meghaladó mértékben teljesít visszafizetést és
 
 a) még maradt a részére kifizethető támogatás, az irányító hatóság a túlfizetést a következő elszámolással együtt fizeti vissza,

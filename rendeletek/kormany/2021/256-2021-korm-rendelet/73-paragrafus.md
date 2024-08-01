@@ -1,4 +1,4 @@
-## 73. § A felhívás keretösszege ötmilliárd forintnál akkor lehet kevesebb, ha
+73. § A felhívás keretösszege ötmilliárd forintnál akkor lehet kevesebb, ha
 
 a) közvetlenül alkalmazandó közösségi jogi aktusból ez következik,
 

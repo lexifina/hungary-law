@@ -1,5 +1,3 @@
-## 305. § Az irányító hatóság a jóváhagyott szabályzatnak megfelelő hitelesítést mintavétellel ellenőrzi.
-
 ## 73. A hitelesítési jelentés
 
 306. § (1) Az irányító hatóság a tárgyhónapot követő hónap huszadik napjáig az igazoló hatóság által meghatározott formátumú és tartalmú hitelesítési jelentést állít ki és megküldi azt az igazoló hatóság részére.

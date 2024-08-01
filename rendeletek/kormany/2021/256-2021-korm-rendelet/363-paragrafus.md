@@ -1,5 +1,3 @@
-## 362. § A ZPFJ esetén vizsgálni kell a fenntartási időszakra vonatkozó indikátorok támogatási szerződésben meghatározott értékeinek teljesítését.
-
 ## 86. Hiánypótlás
 
 363. § (1) Ha az irányító hatóság a fenntartási jelentéssel összefüggésben hiányosságot vagy hibát észlel, a fenntartási jelentés beérkezését vagy a jelentéstételi határidő eredménytelen elteltét követően haladéktalanul, legfeljebb tizenöt napos határidő kitűzésével a hiány pótlására, illetve a hiba javítására szólítja fel a kedvezményezettet.

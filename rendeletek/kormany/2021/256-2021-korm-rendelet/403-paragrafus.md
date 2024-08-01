@@ -4,6 +4,6 @@
 
 (2) A jogorvoslati kérelmet a szabálytalansági döntés kézhezvételétől számított tíz napon belül, az indokok megjelölésével kell benyújtani az irányító hatóságnál.
 
-(3)[^342] Ha a kedvezményezett a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóság részére nyújtja be, a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul továbbítja azt az irányító hatóság részére.
+(3)[^494] Ha a kedvezményezett a jogorvoslati kérelmet a Belső Ellenőrzési és Integritási Igazgatóság részére nyújtja be, a Belső Ellenőrzési és Integritási Igazgatóság haladéktalanul továbbítja azt az irányító hatóság részére.
 
-[^342]: A 403. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 19. pontja szerint módosított szöveg.
+[^494]: A 403. § (3) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 19. pontja szerint módosított szöveg.

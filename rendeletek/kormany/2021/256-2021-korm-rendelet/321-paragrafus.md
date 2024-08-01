@@ -10,6 +10,6 @@ b) a kedvezményezett nem áll a 389. § b) pontja szerinti valamely eljárás h
 
 (4) Ha a kedvezményezett a (3) bekezdés szerinti határidőben a köztartozását nem szünteti meg, az irányító hatóság a kifizetési kérelem alapján jóváhagyott támogatást nem fizeti ki.
 
-(5)[^288] Szállítói finanszírozás esetén az irányító hatóság az (1)–(4) bekezdés szerinti vizsgálatot a szállító vonatkozásában végzi el.
+(5)[^427] Szállítói finanszírozás esetén az irányító hatóság az (1)–(4) bekezdés szerinti vizsgálatot a szállító vonatkozásában végzi el.
 
-[^288]: A 321. § (5) bekezdése a 48/2024. (III. 4.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^427]: A 321. § (5) bekezdése a 48/2024. (III. 4.) Korm. rendelet 20. §-ával megállapított szöveg.

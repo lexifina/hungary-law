@@ -1,4 +1,4 @@
-## 323. § Az irányító hatóság nem fizet késedelmi kamatot
+323. § Az irányító hatóság nem fizet késedelmi kamatot
 
 a) azon kedvezményezett részére, akinek a felhívás, illetve a támogatási szerződés nem teljesítéséből adódóan visszafizetési kötelezettsége keletkezett,
 

@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-256-20-
 | 2023-12-17 | 2021-256-20-22.27 | 565/2023. (XII. 14.) Korm. rendelet |
 | 2024-01-01 | 2021-256-20-22.28 | 258/2022. (VII. 20.) Korm. rendelet |
 | 2024-03-07 | 2021-256-20-22.29 | 48/2024. (III. 4.) Korm. rendelet |
+| 2024-08-01 | 2021-256-20-22.30 | 218/2024. (VII. 31.) Korm. rendelet |

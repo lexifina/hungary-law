@@ -1,5 +1,3 @@
-## 333. § Az igazoló hatóság a kedvezményezetteknél felmerült költségek alapján átutalási kérelmet, költségnyilatkozatot és költségigazoló nyilatkozatot (a továbbiakban együtt: átutalásigénylési dokumentáció) állít ki és nyújt be az Európai Bizottság részére.
-
 334. § (1) Az igazoló hatóság a költségigazoló nyilatkozat kiállítását megelőzően meggyőződik arról, hogy az átutalási kérelem, a költségnyilatkozat és a kedvezményezetteknél felmerült költségek
 
 a) adatai pontosak és megbízható nyilvántartási rendszerből származnak,

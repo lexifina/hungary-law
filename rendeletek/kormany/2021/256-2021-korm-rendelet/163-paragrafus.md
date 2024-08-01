@@ -1,0 +1,1 @@
+163. § Ha a Kormány döntése alapján több kiemelt projekt összevonása szükséges, az irányító hatóság – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – módosítja a hatályban maradó támogatási szerződést.

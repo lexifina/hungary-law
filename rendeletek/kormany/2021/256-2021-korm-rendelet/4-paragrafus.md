@@ -4,7 +4,7 @@
 
 ## 3. A Kormány feladatai
 
-## 4. § A Kormány
+4. § A Kormány
 
 a) kialakítja a fejlesztéspolitikai tevékenység irányítási, finanszírozási, intézményi és szabályozási rendszerét,
 

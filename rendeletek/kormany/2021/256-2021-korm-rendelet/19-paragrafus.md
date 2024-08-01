@@ -1,10 +1,8 @@
-## 18. § A közbeszerzésekért felelős miniszter a IX. Fejezet szerint ellenőrzi az e rendelet hatálya alá tartozó támogatások felhasználása során lefolytatott közbeszerzési eljárások közbeszerzési elszámolhatóságát.
-
 ## 8. Az irányító hatóság feladatai
 
 19. § (1) Az irányító hatóság
 
-1.[^33] ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 72–75. cikke szerinti feladatokat,
+1.[^38] ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 72–75. cikke szerinti feladatokat,
 
 2. a szakpolitikai felelőssel egyeztetett javaslatot tesz a program tartalmára és módosítására,
 
@@ -14,23 +12,23 @@
 
 5. gondoskodik a felhívások és azok módosítása monitoring és információs rendszerbe történő rögzítéséről,
 
-6. gondoskodik – a feladatkörében érintett monitoring bizottsággal és a miniszterrel együttműködve – a program végrehajtása során a horizontális elvek és politikák érvényesítéséről, valamint a horizontális követelmények teljesülése előrehaladásával kapcsolatos adatok gyűjtéséről,
+6.[^39] gondoskodik – a feladatkörében érintett monitoring bizottsággal és az NFK-val együttműködve – a program végrehajtása során a horizontális elvek és politikák érvényesítéséről, valamint a horizontális követelmények teljesülése előrehaladásával kapcsolatos adatok gyűjtéséről,
 
 7. területi kiválasztási eljárásrend esetén dönt a szakpolitikai felelős és a területi szereplő közötti vitás kérdésben,
 
-8. a szakpolitikai felelős és a miniszter részére adatot szolgáltat a programok szakmai előrehaladásáról, a felhívások végrehajtásáról, különös tekintettel az indikátorok és horizontális követelmények teljesítésére,
+8.[^40] a szakpolitikai felelős és az NFK részére adatot szolgáltat a programok szakmai előrehaladásáról, a felhívások végrehajtásáról, különös tekintettel az indikátorok és horizontális követelmények teljesítésére,
 
 9. területi kiválasztási eljárásrend esetén adatot szolgáltat a területi szereplő részére a támogatott projektekről,
 
-10. kapcsolatot tart az Európai Bizottsággal, amelyről tájékoztatja a minisztert,
+10.[^41] kapcsolatot tart az Európai Bizottsággal, amelyről tájékoztatja az NFK-t,
 
-11. a miniszter iránymutatása alapján elkészíti a program irányítási és kontrollrendszere leírását, amelyet a miniszter egyidejű tájékoztatása mellett az audit hatóság részére megküld,
+11.[^42] az NFK iránymutatása alapján elkészíti a program irányítási és kontrollrendszere leírását, amelyet az NFK egyidejű tájékoztatása mellett az audit hatóság részére megküld,
 
-12. a miniszter részére javaslatot tehet közreműködő szervezet kijelölésére,
+12.[^43] az NFK részére javaslatot tehet közreműködő szervezet kijelölésére,
 
-13.[^34] a pénzügyi eszközök vonatkozásában megköti a finanszírozási megállapodást a holdingalapot végrehajtó szervezettel,
+13.[^44] a pénzügyi eszközök vonatkozásában megköti a finanszírozási megállapodást a holdingalapot végrehajtó szervezettel,
 
-14. nyomon követi a programok pénzügyi és szakmai előrehaladását, amelynek eredményét megküldi a miniszter és a szakpolitikai felelős részére,
+14.[^45] nyomon követi a programok pénzügyi és szakmai előrehaladását, amelynek eredményét megküldi az NFK és a szakpolitikai felelős részére,
 
 15. nyomon követi a támogatott projektek előrehaladását,
 
@@ -42,11 +40,11 @@
 
 19. közreműködik az európai uniós források felhasználásához kötődő partnerségi egyeztetési folyamatok, valamint kommunikációs és tájékoztatási feladatok ellátásában,
 
-20.[^35] a miniszterrel együttműködve ellátja a programra vonatkozó rendszeres adatszolgáltatást az Európai Bizottság számára,
+20.[^46] az NFK-val együttműködve ellátja a programra vonatkozó rendszeres adatszolgáltatást az Európai Bizottság számára,
 
 21. elkészíti a program végső teljesítményjelentését,
 
-22.[^36] elkészíti az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 74. cikk (1) bekezdés f) pontja szerinti vezetői nyilatkozatot, valamint az Unió általános költségvetésére alkalmazandó pénzügyi szabályokról, az 1296/2013/EU, az 1301/2013/EU, az 1303/2013/EU, az 1304/2013/EU, az 1309/2013/EU, az 1316/2013/EU, a 223/2014/EU és a 283/2014/EU rendelet és az 541/2014/EU határozat módosításáról, valamint a 966/2012/EU, Euratom rendelet hatályon kívül helyezéséről szóló, 2018. július 18-i (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 63. cikk (5) bekezdés b) pontja szerinti éves összefoglalót,
+22.[^47] elkészíti az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 74. cikk (1) bekezdés f) pontja szerinti vezetői nyilatkozatot,
 
 23. jóváhagyja az integrált területi program területi szereplő által kezdeményezett módosítását, ha az nem érinti az integrált területi programok jóváhagyásáról szóló kormányhatározatban foglaltakat,
 
@@ -54,9 +52,9 @@
 
 25. megteszi a szükséges intézkedéseket a hatáskörébe tartozó rendszerszintű szabálytalanságok megelőzése és kezelése érdekében,
 
-26.[^37] továbbítja az elektronikus adatcsere rendszeren keresztül az Európai Bizottság részére az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (1) bekezdése szerinti, az egyes programokra vonatkozó összesített adatokat,
+26.[^48] továbbítja az elektronikus adatcsere rendszeren keresztül az Európai Bizottság részére az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 42. cikk (1) bekezdése szerinti, az egyes programokra vonatkozó összesített adatokat,
 
-27.[^38] elvégzi a megfelelőségi és hitelességi vizsgálatokat az Európai Bizottság információs rendszerébe feltölteni kívánt összesített indikátoradatok tekintetében a miniszter által nyújtott informatikai támogatással és az eredendő adatminőségi hibakockázat figyelembevételével,
+27.[^49] elvégzi a megfelelőségi és hitelességi vizsgálatokat az Európai Bizottság információs rendszerébe feltölteni kívánt összesített indikátoradatok tekintetében az NFK által nyújtott informatikai támogatással és az eredendő adatminőségi hibakockázat figyelembevételével,
 
 28. biztosítja, hogy a költségnyilatkozat alátámasztása érdekében az igazoló hatóság által kért valamennyi adat, dokumentum és bizonylat teljeskörűen megküldésre kerüljön az igazoló hatóság részére,
 
@@ -64,19 +62,19 @@
 
 30. az ellenőrzésből eredő, költségnyilatkozatot érintő korrekció végrehajtását az államháztartásért felelős miniszterrel, az igazoló hatósággal és az audit hatósággal előzetesen egyezteti,
 
-31. kezdeményezheti – a megkeresés céljának bemutatásával – Magyarország Európai Unió mellett működő Állandó Képviseletének megkeresését a miniszternél.
+31.[^50] kezdeményezheti az NFK-nál – a megkeresés céljának bemutatásával – Magyarország Európai Unió mellett működő Állandó Képviseletének megkeresését.
 
 (2) Az irányító hatóság felelős a csalás elleni politika végrehajtásáért, amelynek keretében
 
-a) együttműködik a miniszterrel a csalás kockázatelemzése módszertanának kidolgozásában,
+a)[^51] együttműködik az NFK-val a csalás kockázatelemzése módszertanának kidolgozásában,
 
 b) elvégzi a csalás kockázatelemzését,
 
-c)[^39] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
+c)[^52] a támogatási döntés előkészítése és meghozatala során a támogatást igénylő vonatkozásában, továbbá a támogatási szerződés megkötése és esetleges módosítása, valamint a folyamatba épített ellenőrzés során következetesen, rendszeresen és kiterjedten alkalmazza, figyelembe veszi az ARACHNE kockázatértékelő eszköz minden funkcióját a csalás, az összeférhetetlenség, a kettős finanszírozás és egyéb szabálytalanságok megelőzése érdekében,
 
-d)[^40] eljár a miniszter által a csalás elleni politika keretében meghatározott eljárások, módszertanok szerint,
+d)[^53] eljár az NFK által a csalás elleni politika keretében meghatározott eljárások, módszertanok szerint,
 
-e) részt vesz a miniszter által szervezett csalás és korrupció elleni képzéseken,
+e)[^54] részt vesz az NFK által szervezett csalás és korrupció elleni képzéseken,
 
 f) a támogatott projektek vonatkozásában egyedi kockázatelemzésen alapuló csalásellenes intézkedéseket hozhat.
 
@@ -86,24 +84,35 @@ a) szükség esetén feljelentést tesz,
 
 b) a folyamatban lévő büntetőügyekkel összefüggésben kapcsolatot tart a bűnüldöző szervekkel, azok megkereséseit megválaszolja,
 
-c)[^41] az a) és b) pont szerinti, valamint az egyéb megkeresések kapcsán tett intézkedésekről, továbbá a megindított szabálytalansági eljárásról tájékoztatja a minisztert, a Belső Ellenőrzési és Integritási Igazgatóságot és az audit hatóságot.
+c)[^55] az a) és b) pont szerinti, valamint az egyéb megkeresések kapcsán tett intézkedésekről, továbbá a megindított szabálytalansági eljárásról tájékoztatja az NFK-t, a Belső Ellenőrzési és Integritási Igazgatóságot és az audit hatóságot.
 
 (4) Az irányító hatóság
 
-a) megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamely alapvető jog tekintetében meghozott határozaton vagy jelentésen alapuló bejelentéseket,
+a)[^56] megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamely alapvető jog tekintetében tett bejelentéseket és a rendelkezésére álló információkat,
 
-b) az a) pont szerinti vizsgálat eredményéről tájékoztatja a minisztert.
+b)[^57] az a) pont szerinti vizsgálat eredményéről tájékoztatja az NFK-t.
 
 (5) Az irányító hatóság területi program esetén a szakpolitikai felelős mellett a feladatkörrel rendelkező minisztert és a területi szereplőket a feladatai ellátásába bevonja.
 
 (6) Ha egy prioritáson belül konstrukciófelelős kerül kijelölésre, az irányító hatóság együttműködik a konstrukciófelelőssel az e rendeletben meghatározott, a konstrukciót érintő feladatok végrehajtása során.
 
-[^33]: A 19. § (1) bekezdés 1. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 7. pontja szerint módosított szöveg.
-[^34]: A 19. § (1) bekezdés 13. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
-[^35]: A 19. § (1) bekezdés 20. pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 17. pontja szerint módosított szöveg.
-[^36]: A 19. § (1) bekezdés 22. pontja az 562/2021. (X. 1.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^37]: A 19. § (1) bekezdés 26. pontja a 195/2023. (V. 22.) Korm. rendelet 28. §-ával megállapított szöveg.
-[^38]: A 19. § (1) bekezdés 27. pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^39]: A 19. § (2) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^40]: A 19. § (2) bekezdés d) pontja a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 19. pontja szerint módosított szöveg.
-[^41]: A 19. § (3) bekezdés c) pontja a 123/2023. (IV. 12.) Korm. rendelet 20. § 1. pontja szerint módosított szöveg.
+[^38]: A 19. § (1) bekezdés 1. pontja az 562/2021. (X. 1.) Korm. rendelet 36. § 7. pontja szerint módosított szöveg.
+[^39]: A 19. § (1) bekezdés 6. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 16. pontja szerint módosított szöveg.
+[^40]: A 19. § (1) bekezdés 8. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^41]: A 19. § (1) bekezdés 10. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 18. pontja szerint módosított szöveg.
+[^42]: A 19. § (1) bekezdés 11. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 19. pontja szerint módosított szöveg.
+[^43]: A 19. § (1) bekezdés 12. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 20. pontja szerint módosított szöveg.
+[^44]: A 19. § (1) bekezdés 13. pontja az 562/2021. (X. 1.) Korm. rendelet 37. § b) pontja szerint módosított szöveg.
+[^45]: A 19. § (1) bekezdés 14. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^46]: A 19. § (1) bekezdés 20. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^47]: A 19. § (1) bekezdés 22. pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^48]: A 19. § (1) bekezdés 26. pontja a 195/2023. (V. 22.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^49]: A 19. § (1) bekezdés 27. pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^50]: A 19. § (1) bekezdés 31. pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^51]: A 19. § (2) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^52]: A 19. § (2) bekezdés c) pontja a 374/2022. (IX. 30.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^53]: A 19. § (2) bekezdés d) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^54]: A 19. § (2) bekezdés e) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 26. pontja szerint módosított szöveg.
+[^55]: A 19. § (3) bekezdés c) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 27. pontja szerint módosított szöveg.
+[^56]: A 19. § (4) bekezdés a) pontja a 218/2024. (VII. 31.) Korm. rendelet 44. § (3) bekezdésével megállapított szöveg.
+[^57]: A 19. § (4) bekezdés b) pontja a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 28. pontja szerint módosított szöveg.

@@ -1,1 +1,1 @@
-## 370. § Az irányító hatóság a fenntartási jelentésről meghozott döntéséről a kedvezményezettet a döntést követő öt napon belül értesíti.
+371. § A ZPFJ elfogadását követően az irányító hatóság írásban nyilatkozik a biztosíték visszavonhatóságáról és a projekt lezárásáról, amelyet az irányító hatóság a pénzügyi zárást követő öt napon belül küld meg a kedvezményezett részére.

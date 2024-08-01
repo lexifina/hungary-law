@@ -1,1 +1,1 @@
-## 30. § A holdingalapot végrehajtó szervezet az e rendelet által az irányító hatóság feladatkörébe utalt feladatok közül a finanszírozási megállapodásban meghatározott feladatokat látja el.
+31. § A holdingalapot végrehajtó szervezet feladatait az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság látja el.

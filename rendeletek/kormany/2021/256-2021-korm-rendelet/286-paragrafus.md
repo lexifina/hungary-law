@@ -1,5 +1,3 @@
-## 285. § Az időközi kifizetési kérelem vonatkozásában az 55. alcímet azzal az eltéréssel kell alkalmazni, hogy a hiánypótlási felhívást az időközi kifizetési kérelem beérkezésétől számított harminc – szállítói finanszírozás esetén tizenöt – napon belül, legfeljebb tizenöt napos határidő kitűzésével kell megküldeni a kedvezményezett részére.
-
 286. § (1) Az irányító hatóság utófinanszírozás esetén az időközi kifizetési kérelem beérkezésétől számított negyvenöt napon, szállítói finanszírozás esetén harminc napon belül dönt az időközi kifizetési kérelemről.
 
 (2) Az időközi kifizetési kérelmet vagy annak egy részét el kell utasítani, ha az nem felel meg valamely ellenőrzési szempontnak.

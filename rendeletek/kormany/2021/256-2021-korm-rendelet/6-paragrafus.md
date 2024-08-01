@@ -1,10 +1,8 @@
-## 5. § A Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) készíti elő a Kormány e rendelet szerinti döntéseit.
+## 5.[^8] A Nemzeti Fejlesztési Központ feladatai
 
-## 5. Az európai uniós források felhasználásáért felelős miniszter feladatai
+6. § (1)[^9] A Nemzeti Fejlesztési Központ (a továbbiakban: NFK) ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 71. cikk (6) bekezdése szerinti koordináló szervezeti feladatokat.
 
-6. § (1)[^8] Az európai uniós források felhasználásáért felelős miniszter (a továbbiakban: miniszter) ellátja az (EU) 2021/1060 európai parlamenti és tanácsi rendelet 71. cikk (6) bekezdése szerinti koordináló szervezeti feladatokat.
-
-(2)[^9] A miniszter koordináló szervezeti feladatkörében
+(2)[^10] Az NFK koordináló szervezeti feladatkörében
 
 a) ellátja az európai uniós források felhasználása tervezésének és a programok végrehajtásának koordinációs feladatait,
 
@@ -20,5 +18,6 @@ bd) az energiapolitikáért felelős miniszterrel együttműködve a klímavált
 
 be) a programok összehangolt, a Partnerségi Megállapodásnak megfelelő végrehajtását.
 
-[^8]: A 6. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 3. pontja, a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^9]: A 6. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^8]: Az 5. alcím címe a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^9]: A 6. § (1) bekezdése az 562/2021. (X. 1.) Korm. rendelet 36. § 3. pontja, a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 1. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^10]: A 6. § (2) bekezdés nyitó szövegrésze a 258/2022. (VII. 20.) Korm. rendelet 6. § (1) bekezdés 2. pontja, a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 3. pontja szerint módosított szöveg.

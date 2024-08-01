@@ -1,1 +1,3 @@
-## 38. § A monitoring bizottság és a Partnerségi Megállapodás monitoring bizottság működésének részletes szabályait a miniszter által meghatározott elvek alapján megalkotott ügyrendjében állapítja meg.
+39. §[^90] A monitoring bizottság titkársági feladatait az irányító hatóság, a Partnerségi Megállapodás monitoring bizottság titkársági feladatait az NFK látja el.
+
+[^90]: A 39. § a 218/2024. (VII. 31.) Korm. rendelet 75. § (1) bekezdés 35. pontja szerint módosított szöveg.

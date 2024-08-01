@@ -1,5 +1,3 @@
-## 371. § A ZPFJ elfogadását követően az irányító hatóság írásban nyilatkozik a biztosíték visszavonhatóságáról és a projekt lezárásáról, amelyet az irányító hatóság a pénzügyi zárást követő öt napon belül küld meg a kedvezményezett részére.
-
 ## XII. Fejezet
 
 ## A KIFOGÁS
@@ -36,6 +34,6 @@ j) a támogatási kérelem visszavonásának tudomásulvétele
 
 ellen.
 
-(5)[^313] A kifogást a benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg. A visszavont kifogást nem lehet ismételten benyújtani.
+(5)[^461] A kifogást a benyújtója mindaddig visszavonhatja, amíg a kifogás elbírálása nem történt meg. A visszavont kifogást nem lehet ismételten benyújtani.
 
-[^313]: A 372. § (5) bekezdése a 195/2023. (V. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^461]: A 372. § (5) bekezdése a 195/2023. (V. 22.) Korm. rendelet 59. §-ával megállapított szöveg.

@@ -1,0 +1,1 @@
+250. § Ha a kedvezményezett a támogatási előleg igénylésére irányuló kérelmét a támogatási szerződés hatálybalépése előtt benyújtja, a kérelem beérkezési dátumának a támogatási szerződés hatálybalépése minősül.

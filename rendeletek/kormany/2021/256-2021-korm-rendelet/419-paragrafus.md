@@ -1,5 +1,3 @@
-## 418. § A támogatás jogosulatlan igénybevétele, jogszabálysértő vagy nem rendeltetésszerű felhasználása, továbbá a támogatás visszavonása, a támogatási szerződéstől történő elállás vagy annak felbontása esetén a kedvezményezett a jogosulatlanul igénybe vett támogatást köteles visszafizetni.
-
 419. § (1) A kedvezményezett a jogosulatlanul igénybe vett támogatást a Ptk. 6:47. §-a szerinti kamattal növelt mértékben köteles visszafizetni.
 
 (2) A kamatszámítás kezdő időpontja a támogatás kifizetésének napja, utolsó napja a visszafizetési kötelezettség teljesítésének napja.

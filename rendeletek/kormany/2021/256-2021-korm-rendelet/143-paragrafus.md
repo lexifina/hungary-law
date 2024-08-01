@@ -1,5 +1,3 @@
-## 142. § A kedvezményezett számára a biztosítékcserét lehetővé kell tenni, ha az új biztosíték értéke és végrehajthatósága megfelel a biztosítékokra vonatkozó feltételeknek.
-
 143. § (1) A biztosítéki értéknek fedeznie kell legalább a kifizetési kérelemben igényelt és a már kifizetett támogatás együttes összegét.
 
 (2) A kedvezményezett a kifizetési kérelemben igényelt támogatási összegnek megfelelően megemelt biztosíték rendelkezésre állását legkésőbb a kifizetési kérelem benyújtásával egyidejűleg köteles igazolni.

@@ -1,1 +1,1 @@
-## 247. § Az előleg felhasználására és az előleggel való elszámolásra vonatkozó szabályokat a felhívásban, illetve a támogatási szerződésben rögzíteni kell.
+248. § Állami támogatás esetén az irányító hatóság a felhívásban rögzíti, hogy a kedvezményezettnek az előleg folyósításától számított három éven belül el kell számolnia az előleggel.

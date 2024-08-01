@@ -1,4 +1,4 @@
-## 245. § Az irányító hatóság akkor fizethet előleget, ha
+245. § Az irányító hatóság akkor fizethet előleget, ha
 
 a) a felhívás és a támogatási szerződés lehetőséget biztosít a kedvezményezett részére az előleg igénylésére,
 

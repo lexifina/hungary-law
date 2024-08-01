@@ -1,4 +1,4 @@
-## 226. § A kedvezményezett csak
+226. § A kedvezményezett csak
 
 a) a projektszámláról fizetheti a projekt megvalósítása során felmerülő, támogatással érintett költségtételeket,
 

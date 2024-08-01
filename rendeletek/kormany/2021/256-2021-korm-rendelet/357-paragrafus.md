@@ -1,8 +1,8 @@
-357. § (1)[^309] Az első projektév első napja a projektmegvalósítás irányító hatóság általi befejezése napját követő nap.
+357. § (1)[^457] Az első projektév első napja a projektmegvalósítás irányító hatóság általi befejezése napját követő nap.
 
-(2)[^310]
+(2)[^458]
 
 (3) A második és ezt követő projektév első napja a megelőző projektév utolsó napját követő nap.
 
-[^309]: A 357. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 25. pontja szerint módosított szöveg.
-[^310]: A 357. § (2) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.
+[^457]: A 357. § (1) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 25. pontja szerint módosított szöveg.
+[^458]: A 357. § (2) bekezdését a 195/2023. (V. 22.) Korm. rendelet 70. § 9. pontja hatályon kívül helyezte.

@@ -1,0 +1,1 @@
+62. § Az irányító hatóság a részére postai úton szabályosan benyújtott dokumentum megőrzéséről és nyilvántartásáról gondoskodik, valamint e dokumentumról digitális másolatot készít, és azt rögzíti az elektronikus alkalmazás adatbázisában.

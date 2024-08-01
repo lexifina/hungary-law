@@ -1,35 +1,40 @@
 82. § (1) Az éves fejlesztési keret elfogadására irányuló javaslatról – annak FKB általi megtárgyalását követően – a Kormány dönt.
 
-(2) Az éves fejlesztési keretet normatív kormányhatározat állapítja meg, amely meghatározza a felhívás
+(2)[^151] Az éves fejlesztési keretet normatív kormányhatározat állapítja meg, amely meghatározza
 
-a) azonosító jelét,
+a) a felhívás
 
-b) címét,
+aa) azonosító jelét,
 
-c) keretösszegét,
+ab) címét,
 
-d) vonatkozásában alkalmazott projektkiválasztási eljárásrendet,
+ac) keretösszegét,
 
-e) meghirdetésének tervezett idejét.
+ad) vonatkozásában alkalmazott projektkiválasztási eljárásrendet,
 
-(3) Az adott programból finanszírozni tervezett kiemelt projekt
+ae) meghirdetésének tervezett időpontját negyedéves bontásban,
 
-a) felhívásának azonosító jelét,
+b) az adott programból finanszírozni tervezett kiemelt projekt
 
-b) címét,
+ba) felhívásának azonosító jelét,
 
-c) támogatást igénylője nevét,
+bb) címét,
 
-d) indikatív támogatási összegét,
+bc) támogatást igénylője nevét,
 
-e) támogatási kérelme benyújtásának várható időpontját,
+bd) indikatív támogatási összegét,
 
-f) szakmai elvárásait
+be) támogatási kérelme benyújtásának várható időpontját,
 
-egyedi kormányhatározat állapítja meg.
+bf) szakmai elvárásait.
 
-(4)[^117]
+(3)[^152]
 
-(5) Területi kiválasztási eljárásrend esetén a (2) bekezdés szerinti kormányhatározat a tématerületeket és az azok keretében meghirdetni tervezett felhívások keretösszegét határozza meg.
+(4)[^153]
 
-[^117]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
+(5)[^154]
+
+[^151]: A 82. § (2) bekezdése a 218/2024. (VII. 31.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^152]: A 82. § (3) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.
+[^153]: A 82. § (4) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 32. § b) pontja hatályon kívül helyezte.
+[^154]: A 82. § (5) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 76. § b) pontja hatályon kívül helyezte.

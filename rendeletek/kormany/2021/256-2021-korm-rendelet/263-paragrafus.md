@@ -1,5 +1,5 @@
 263. § (1) Az irányító hatóság a szállítói előleget közvetlenül a szállító részére folyósítja.
 
-(2)[^255] A szállítói előleg kifizetésének feltétele, hogy az aláírt szállítói szerződés az irányító hatóság rendelkezésére álljon.
+(2)[^389] A szállítói előleg kifizetésének feltétele, hogy az aláírt szállítói szerződés az irányító hatóság rendelkezésére álljon.
 
-[^255]: A 263. § (2) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 44. pontja szerint módosított szöveg.
+[^389]: A 263. § (2) bekezdése a 48/2024. (III. 4.) Korm. rendelet 31. § (1) bekezdés 44. pontja szerint módosított szöveg.

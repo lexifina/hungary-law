@@ -1,5 +1,3 @@
-## 300. § A kedvezményezett egy alkalommal térhet át az egyszeri elszámolásról többszöri elszámolásra.
-
 ## 71. A hitelesítés
 
 301. § (1) Az irányító hatóság a folyamatba épített dokumentumalapú ellenőrzés és a helyszíni ellenőrzés keretében tartalmi és formai szempontból ellenőrzi a kedvezményezett által benyújtott kifizetési kérelmet, beszámolót és az azokat alátámasztó dokumentumokat annak megállapítása céljából, hogy a kedvezményezett a támogatási kérelem alapján vállalt vagy a támogatási szerződésben rögzített kötelezettségeit teljesítette.
@@ -24,8 +22,8 @@ h) azt, hogy mely költségvetési fejezet biztosította a kifizetett költsége
 
 i) az elszámolásra benyújtott költségek szokásos piaci árnak való megfelelését, azzal, hogy az irányító hatóság köteles az ellenőrzést alátámasztó dokumentumot a monitoring és információs rendszerben rögzíteni.
 
-(3)[^281] Az irányító hatóság a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a horizontális követelmények érvényesítését folyamatosan, de legkésőbb a záró kifizetési kérelem jóváhagyásáig ellenőrzi.
+(3)[^418] Az irányító hatóság a tájékoztatással és nyilvánossággal kapcsolatos kötelezettségek teljesítését, valamint a horizontális követelmények érvényesítését folyamatosan, de legkésőbb a záró kifizetési kérelem jóváhagyásáig ellenőrzi.
 
 (4) A folyamatba épített ellenőrzést dokumentálni kell, rögzítve az elvégzett munkát, az ellenőrzés eredményét, valamint szabálytalansági gyanú és hiányosság feltárása esetén a megtett intézkedéseket.
 
-[^281]: A 301. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 22. pontja szerint módosított szöveg.
+[^418]: A 301. § (3) bekezdése a 195/2023. (V. 22.) Korm. rendelet 69. § (1) bekezdés 22. pontja szerint módosított szöveg.

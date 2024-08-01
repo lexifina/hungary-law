@@ -1,12 +1,13 @@
-## 404. § A kedvezményezett a jogorvoslati kérelmet a jogorvoslati eljárás lezárásáig visszavonhatja.
-
 ## 98. A jogorvoslati eljárásra vonatkozó általános szabályok
 
-405. § (1)[^343] A jogorvoslati kérelemről a Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelem kézhezvételétől számított negyvenöt napon belül dönt.
+405. § (1)[^495] A jogorvoslati kérelemről a Belső Ellenőrzési és Integritási Igazgatóság a jogorvoslati kérelem kézhezvételétől számított negyvenöt napon belül dönt.
 
-(2)[^344] A Belső Ellenőrzési és Integritási Igazgatóság legfeljebb tizenöt napos határidő kitűzésével a jogorvoslati kérelem kiegészítésére szólítja fel a kedvezményezettet, ha a tényállás tisztázásához, illetve a jogorvoslati kérelem elbírálásához szükséges.
+(1a)[^496] A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti határidőt – annak lejárta előtt – indokolt esetben, egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja, amelyről a kedvezményezettet értesíti.
+
+(2)[^497] A Belső Ellenőrzési és Integritási Igazgatóság legfeljebb tizenöt napos határidő kitűzésével a jogorvoslati kérelem kiegészítésére szólítja fel a kedvezményezettet, ha a tényállás tisztázásához, illetve a jogorvoslati kérelem elbírálásához szükséges.
 
 (3) A jogorvoslati kérelem kiegészítésének időtartama a jogorvoslati kérelem elbírálásának határidejébe nem számít be.
 
-[^343]: A 405. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 20. pontja szerint módosított szöveg.
-[^344]: A 405. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 21. pontja szerint módosított szöveg.
+[^495]: A 405. § (1) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 20. pontja szerint módosított szöveg.
+[^496]: A 405. § (1a) bekezdését a 218/2024. (VII. 31.) Korm. rendelet 62. §-a iktatta be.
+[^497]: A 405. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 21. pontja szerint módosított szöveg.

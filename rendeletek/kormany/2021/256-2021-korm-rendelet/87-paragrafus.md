@@ -24,9 +24,9 @@ bb) legalább egy, legfeljebb hat mérföldkövet kell tervezni, ha a projekt me
 
 c) kiemelt kiválasztási eljárásrend esetén legalább két, legfeljebb hat mérföldkövet kell tervezni,
 
-d)[^118]
+d)[^158]
 
-(3a)[^119] Ha a projekt megvalósításának időtartama eléri
+(3a)[^159] Ha a projekt megvalósításának időtartama eléri
 
 a) az öt évet, vagy
 
@@ -36,5 +36,5 @@ akkor a támogatási kérelemben – a (3) bekezdés a)–c) pontjától eltér�
 
 (4) Az irányító hatóság a felhívásban értékelési szakaszokat, az értékelési szakaszok között szünetet határozhat meg.
 
-[^118]: A 87. § (3) bekezdés d) pontját a 156/2022. (IV. 19.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
-[^119]: A 87. § (3a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 21. §-a iktatta be, szövege a 48/2024. (III. 4.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^158]: A 87. § (3) bekezdés d) pontját a 156/2022. (IV. 19.) Korm. rendelet 32. § c) pontja hatályon kívül helyezte.
+[^159]: A 87. § (3a) bekezdését a 156/2022. (IV. 19.) Korm. rendelet 21. §-a iktatta be, szövege a 48/2024. (III. 4.) Korm. rendelet 5. §-ával megállapított szöveg.

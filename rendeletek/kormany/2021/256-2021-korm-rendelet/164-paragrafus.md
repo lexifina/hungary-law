@@ -1,5 +1,3 @@
-## 163. § Ha a Kormány döntése alapján több kiemelt projekt összevonása szükséges, az irányító hatóság – az összevonással érintett projektek támogatási szerződéseinek pénzügyi rendezésével egyidejűleg – módosítja a hatályban maradó támogatási szerződést.
-
 ## 44. Áttérés a projekt másik felhívás kerete terhére történő finanszírozásra
 
 164. § (1) Az irányító hatóság a támogatási szerződés módosítása révén a projekt másik felhívás kerete terhére történő finanszírozásra térhet át, ha
@@ -12,14 +10,15 @@ c) a projekt keretében megvalósított tevékenység megfelel valamely e rendel
 
 d) az áttérés az áttérést megelőző feltételeknél nagyobb mértékben segíti elő az indikátorok teljesítését, illetve az abszorpciót,
 
-e) a projekt összköltsége legalább egymilliárd forint,
+e)[^203]
 
 f) az áttérés nem okoz kettős finanszírozást, és
 
 g) az áttérést az uniós állami támogatási szabályok lehetővé teszik.
 
-(2)[^147]
+(2)[^204]
 
 (3) Az (1) bekezdés szerinti áttérést az irányító hatóság és a kedvezményezett is kezdeményezheti.
 
-[^147]: A 164. § (2) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.
+[^203]: A 164. § (1) bekezdés e) pontját a 218/2024. (VII. 31.) Korm. rendelet 76. § d) pontja hatályon kívül helyezte.
+[^204]: A 164. § (2) bekezdését a 463/2022. (XI. 15.) Korm. rendelet 13. §-a hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 67. § A miniszter a programok költségvetési előirányzatait – az irányító hatóságok bevonásával, azok adatszolgáltatása alapján – e rendelet, az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.), valamint az Ávr. előírásaival összhangban tervezi meg.
-
 ## 24. A területi tervezés
 
 68. § (1) A területi szereplő a monitoring bizottság által jóváhagyott értékelési szempontok figyelembevételével elkészíti az integrált területi program elfogadására irányuló javaslatot és megküldi az irányító hatóság részére.
@@ -26,6 +24,6 @@ g) a fenntartható városfejlesztés városi szintű forráskeretét, tematikus 
 
 (5) A területi szereplő az integrált területi program módosítását évente két alkalommal, április 30-ig és december 31-ig kezdeményezheti.
 
-(6)[^107] Az irányító hatóság soron kívül felhívhatja a területi szereplőt az integrált területi program módosítására, ha a program módosítása érinti a (4) bekezdés c)–g) pontja szerinti adatokat.
+(6)[^135] Az irányító hatóság soron kívül felhívhatja a területi szereplőt az integrált területi program módosítására, ha a program módosítása érinti a (4) bekezdés c)–g) pontja szerinti adatokat.
 
-[^107]: A 68. § (6) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^135]: A 68. § (6) bekezdése a 75/2022. (III. 3.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

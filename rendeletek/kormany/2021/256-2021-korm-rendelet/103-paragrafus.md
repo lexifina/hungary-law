@@ -1,5 +1,3 @@
-## 102. § Ha a támogatási kérelem megfelel a jogosultsági szempontoknak, az irányító hatóság erről tájékoztatja a támogatást igénylőt és a támogatási kérelem tartalmi értékelését megkezdi.
-
 ## 37. A támogatási kérelem tartalmi értékelése
 
 103. § (1) A támogatási kérelmet – kiemelt projekt kivételével – pontozással kell értékelni.

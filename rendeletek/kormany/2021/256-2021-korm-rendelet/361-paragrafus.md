@@ -1,6 +1,4 @@
-## 360. § Az irányító hatóság a fenntartási jelentést formai és szakmai szempontból ellenőrzi.
-
-## 361. § Az irányító hatóság a fenntartási jelentés ellenőrzését felfüggeszti, ha a fenntartási jelentés ellenőrzését megelőzően vagy annak időtartama alatt
+361. § Az irányító hatóság a fenntartási jelentés ellenőrzését felfüggeszti, ha a fenntartási jelentés ellenőrzését megelőzően vagy annak időtartama alatt
 
 a) a projektben a fenntartási jelentés ellenőrzése és elbírálása szempontjából jelentős adatra, tényre vagy körülményre kiterjedő helyszíni ellenőrzést rendelt el,
 

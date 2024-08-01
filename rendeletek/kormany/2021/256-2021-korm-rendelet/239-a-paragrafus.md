@@ -1,3 +1,3 @@
-239/A. §[^227] Százalékban meghatározott átalány alkalmazása esetén az átalány mértéke a projekt megvalósítása során állandó.
+239/A. §[^355] Százalékban meghatározott átalány alkalmazása esetén az átalány mértéke a projekt megvalósítása során állandó.
 
-[^227]: A 239/A. §-t a 195/2023. (V. 22.) Korm. rendelet 50. §-a iktatta be.
+[^355]: A 239/A. §-t a 195/2023. (V. 22.) Korm. rendelet 50. §-a iktatta be.

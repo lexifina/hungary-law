@@ -1,5 +1,3 @@
-## 375. § A kifogást elbíráló döntés kifogást benyújtó részére történő megküldéséig nem adható a döntés tartalmára vonatkozó tájékoztatás.
-
 ## 90. A kifogás érdemi vizsgálat nélküli elutasítása
 
 376. § (1) A kifogást érdemi vizsgálat nélkül kell elutasítani, ha
@@ -22,6 +20,6 @@ h) a kifogás a döntés olyan elemére irányul, amely által előidézett jogs
 
 i) a kifogást a 381. § (2) bekezdés a) pontja szerinti döntés alapján megismételt folyamatban vagy részfolyamatban született döntés ellen nyújtották be, és a kifogásban új, a korábbi eljárás során nem vizsgált tényekre, adatokra, körülményekre nem történik hivatkozás.
 
-(2)[^315] A kifogás érdemi vizsgálat nélküli elutasításáról – az irányító hatóság szakmai álláspontja figyelembevételével – a Belső Ellenőrzési és Integritási Igazgatóság dönt.
+(2)[^463] A kifogás érdemi vizsgálat nélküli elutasításáról – az irányító hatóság szakmai álláspontja figyelembevételével – a Belső Ellenőrzési és Integritási Igazgatóság dönt.
 
-[^315]: A 376. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
+[^463]: A 376. § (2) bekezdése a 123/2023. (IV. 12.) Korm. rendelet 20. § 4. pontja szerint módosított szöveg.
