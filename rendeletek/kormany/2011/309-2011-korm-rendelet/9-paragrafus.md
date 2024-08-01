@@ -1,3 +1,3 @@
-9. §[^24]
+9. §[^25]
 
-[^24]: A 9. §-t a 81/2019. (IV. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^25]: A 9. §-t a 81/2019. (IV. 18.) Korm. rendelet 7. §-a hatályon kívül helyezte.
