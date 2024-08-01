@@ -1,4 +1,4 @@
-13. §[^11] (1) A belügyminiszter az MEKH által nyújtott, a 12. § (7) bekezdés c) pontja szerinti tájékoztatást követően – a (6) bekezdésben meghatározott feltétellel – egy összegben folyósítja az ellátásért felelős önkormányzat útján
+13. §[^12] (1)[^13] A helyi önkormányzatokért felelős miniszter az MEKH által nyújtott, a 12. § (7) bekezdés c) pontja szerinti tájékoztatást követően – a (6) bekezdésben meghatározott feltétellel – egy összegben folyósítja az ellátásért felelős önkormányzat útján
 
 a) a közérdekű szolgáltató részére a kijelölésének megszűnése vagy az új közszolgáltatási szerződés alapján történő közszolgáltatás megkezdése időpontjáig
 
@@ -8,7 +8,7 @@ ab) a tárgyévre vonatkozó – a november 30-ig megküldött javaslatot – a 
 
 b) a közérdekű szolgáltató kijelölésének megszűnését követően a közszolgáltató igénylésében szereplő tényadatok alapján megállapított, indokolt többletköltséggel megegyező összegű támogatást.
 
-(2) Az ellátásért felelős önkormányzat a belügyminiszter támogatói okiratának kézhezvételét követő öt munkanapon belül a közérdekű szolgáltatóval az ideiglenes begyűjtési ellátásra történő kijelölés támogatással érintett időtartamára támogatási szerződést köt
+(2)[^14] Az ellátásért felelős önkormányzat a helyi önkormányzatokért felelős miniszter támogatói okiratának kézhezvételét követő öt munkanapon belül a közérdekű szolgáltatóval az ideiglenes begyűjtési ellátásra történő kijelölés támogatással érintett időtartamára támogatási szerződést köt
 
 a) az (1) bekezdés szerinti indokolt többletköltség támogatás,
 
@@ -16,7 +16,7 @@ b) az (5) bekezdés a) pontja szerinti indokolt többletköltség támogatási e
 
 összegéről, folyósításáról, felhasználásáról és az (1) bekezdés a) pont ab) alpontja szerinti támogatási előleg elszámolásáról.
 
-(2a) Az ellátásért felelős önkormányzat a részére a belügyminiszter által folyósított támogatást a banki folyószámláján történő jóváírást követő öt munkanapon belül egyösszegben a közérdekű szolgáltató részére az indokolt többletköltségek fedezeteként átutalja.
+(2a)[^15] Az ellátásért felelős önkormányzat a részére a helyi önkormányzatokért felelős miniszter által folyósított támogatást a banki folyószámláján történő jóváírást követő öt munkanapon belül egyösszegben a közérdekű szolgáltató részére az indokolt többletköltségek fedezeteként átutalja.
 
 (3) Az (1) bekezdés a) pont ab) alpontja szerinti támogatási előleg felhasználásáról a közérdekű szolgáltató
 
@@ -28,24 +28,33 @@ b) az MEKH által meghatározott formában szakmai és pénzügyi elszámolást 
 
 a) ellenőrzi az elszámolás megalapozottságát,
 
-b) tájékoztatja a belügyminisztert
+b)[^16] tájékoztatja a helyi önkormányzatokért felelős minisztert
 
 ba) a megállapított, indokolt többletköltség támogatási előleggel nem fedezett részének támogatásként történő kifizetésére vonatkozóan, megadva a megállapított, indokolt többletköltség, valamint a támogatási előleggel nem fedezett többletköltség összegét, vagy
 
 bb) a megállapított, indokolt többletköltség, valamint a megalapozatlanul igénybevett támogatási előleg összegéről és javaslatot tesz a közérdekű szolgáltató által visszafizetendő összegre vagy
 
-c) az elszámolás hiányossága miatt a belügyminiszternek az elszámolás elfogadását nem javasolja, és javaslatot tesz a támogatási előleg közérdekű szolgáltató általi visszafizetésére,
+c)[^17] az elszámolás hiányossága miatt a helyi önkormányzatokért felelős miniszternek az elszámolás elfogadását nem javasolja, és javaslatot tesz a támogatási előleg közérdekű szolgáltató általi visszafizetésére,
 
-d) tájékoztatja a belügyminisztert a 12. § (7) bekezdés c) pontja alapján továbbított, a tárgyévet követő időszakra vonatkozó támogatási előleg javaslatának fenntartásáról vagy módosított összegéről.
+d)[^18] tájékoztatja a helyi önkormányzatokért felelős minisztert a 12. § (7) bekezdés c) pontja alapján továbbított, a tárgyévet követő időszakra vonatkozó támogatási előleg javaslatának fenntartásáról vagy módosított összegéről.
 
-(5) A belügyminiszter az MEKH javaslatát követően
+(5)[^19] A helyi önkormányzatokért felelős miniszter az MEKH javaslatát követően
 
 a) dönt és az ellátásért felelős önkormányzat útján gondoskodik az MEKH által a kijelölt közérdekű szolgáltató elszámolása alapján megállapított, indokolt többletköltség támogatási előleggel nem fedezett részének támogatásként történő kifizetéséről, vagy
 
 b) intézkedik az ellátásért felelős önkormányzat útján a megalapozatlanul igénybe vett támogatási előleg összegének a kijelölt közérdekű szolgáltató általi visszafizetése érdekében.
 
-(6) A belügyminiszter a támogatási előleget a kijelölés ideje alatt ismételten akkor folyósítja, ha az ellátásért felelős önkormányzat a (3) bekezdés a) pontja szerinti, előző évre vonatkozó elszámolást az éves költségvetési beszámolójában teljesítette. A támogatási előleg következő évi összegét az MEKH (4) bekezdés d) pontja szerinti tájékoztatásában foglaltak figyelembevételével kell megállapítani.
+(6)[^20] A helyi önkormányzatokért felelős miniszter a támogatási előleget a kijelölés ideje alatt ismételten akkor folyósítja, ha az ellátásért felelős önkormányzat a (3) bekezdés a) pontja szerinti, előző évre vonatkozó elszámolást az éves költségvetési beszámolójában teljesítette. A támogatási előleg következő évi összegét az MEKH (4) bekezdés d) pontja szerinti tájékoztatásában foglaltak figyelembevételével kell megállapítani.
 
-(7) A Kincstár az ellátásért felelős önkormányzat (3) bekezdés a) pontja szerinti beszámolójának elfogadásáról, valamint az elszámolt összegről a belügyminisztert tájékoztatja.
+(7)[^21] A Kincstár az ellátásért felelős önkormányzat (3) bekezdés a) pontja szerinti beszámolójának elfogadásáról, valamint az elszámolt összegről a helyi önkormányzatokért felelős minisztert tájékoztatja.
 
-[^11]: A 13. § a 280/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^12]: A 13. § a 280/2019. (XI. 21.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^13]: A 13. § (1) bekezdés nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^14]: A 13. § (2) bekezdés nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 13. § d) pontja szerint módosított szöveg.
+[^15]: A 13. § (2a) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 13. § e) pontja szerint módosított szöveg.
+[^16]: A 13. § (4) bekezdés b) pont nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 13. § f) pontja szerint módosított szöveg.
+[^17]: A 13. § (4) bekezdés c) pontja a 217/2024. (VII. 31.) Korm. rendelet 13. § g) pontja szerint módosított szöveg.
+[^18]: A 13. § (4) bekezdés d) pontja a 217/2024. (VII. 31.) Korm. rendelet 13. § h) pontja szerint módosított szöveg.
+[^19]: A 13. § (5) bekezdés nyitó szövegrésze a 217/2024. (VII. 31.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
+[^20]: A 13. § (6) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 13. § j) pontja szerint módosított szöveg.
+[^21]: A 13. § (7) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.

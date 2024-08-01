@@ -38,10 +38,11 @@ c) az indokolt többletköltségnek a kijelölés teljes idejére vonatkozó, é
 
 ca) a (4) bekezdés a) pont aa) alpontja és b) pontja szerinti időszakra a közszolgáltató igénylésében szereplő tényadatok alapján,
 
-cb) a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
+cb)[^11] a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
 
 megállapított összegéről tájékoztatja a belügyminisztert.
 
 (8) Az MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
 
 [^10]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^11]: [A 12. § (7) bekezdés c) pont cb) alpontjában a 217/2024. (VII. 31.) Korm. rendelet 13. § b) pontja által elrendelt módosítás, amely szerint a „belügyminisztert” szövegrész helyébe a „helyi önkormányzatokért felelős minisztert” szöveg lép, nem vezethető át.]
