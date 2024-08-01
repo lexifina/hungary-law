@@ -40,10 +40,10 @@
 
 | 8. | Szolgálatvezető |
 
-3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^15]
+3. melléklet a 391/2017. (XII. 13.) Korm. rendelethez[^17]
 
 A vízügyi igazgatási szerveknél foglalkoztatott közalkalmazottak fizetési fokozataiés az azokhoz tartozó illetmények alsó és felső határai
 
 A) Általános iskolai végbizonyítványt vagy OKJ-s (alap vagy közép) végzettséget vagy szakmunkás bizonyítványt igénylő munkakörökhöz tartozó munkaköri kategóriák fizetési fokozatai és az azokhoz tartozó illetmények alsó és felső határai
 
-[^15]: A 3. melléklet az 558/2023. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^17]: A 3. melléklet az 558/2023. (XII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

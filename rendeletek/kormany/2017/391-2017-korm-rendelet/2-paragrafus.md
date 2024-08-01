@@ -20,7 +20,7 @@ h) kompetencia: a munkakör ellátásához szükséges ismeret, jártasság, ké
 
 i) minőségirányítási szabályzat: a minősített továbbképzési programok minőségirányítás szempontjából történő vezetésére és szabályozására szolgáló irányítási kézikönyv, amely tartalmazza a továbbképzés tervezésének, fejlesztésének, szervezésének, végrehajtásának és ellenőrzésének eljárásait;
 
-j) minősített továbbképzési program: az NKE által a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott számára biztosított továbbképzési program, amely a minősítési eljárás követelményeinek megfelelő, minőségtanúsított, továbbképzési pontértékkel bíró képzési program, amely önálló tanulási vagy tananyagegységekből áll, és lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek, valamint gyakorlatok elsajátítását;
+j)[^3] minősített továbbképzési program: az Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) által a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő közalkalmazott számára biztosított továbbképzési program, amely a minősítési eljárás követelményeinek megfelelő, minőségtanúsított, továbbképzési pontértékkel bíró képzési program, amely önálló tanulási vagy tananyagegységekből áll, és lehetővé teszi a képzés kimeneti követelményének teljesítéséhez szükséges ismeretek, valamint gyakorlatok elsajátítását;
 
 k) minősítés: a közalkalmazott tárgyévre vonatkozó teljesítményértékelései eredményének százalékban meghatározott számtani átlaga, illetve szövegesen meghatározott értékelése;
 
@@ -32,7 +32,7 @@ n) munkavégzéshez kötődő fejlesztési cél: az értékelő vezető által i
 
 o) stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a felsőfokú végzettséget igénylő munkakört és a vezetői munkakört betöltő a stratégiai célok elérésére a munkavégzése során befolyással lehet, valamint amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
 
-p)[^3] személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ, amely működteti az egyéni teljesítményértékelési rendszert;
+p)[^4] személyügyi központ: a személyügyi központról és a Közszolgálati Személyügyi Szolgáltatási Keretrendszerről, valamint ezzel összefüggésben egyes kormányrendeletek módosításáról szóló 716/2021. (XII. 20.) Korm. rendelet szerinti személyügyi központ, amely működteti az egyéni teljesítményértékelési rendszert;
 
 q) tanulmányi pont: a továbbképzésben végzett tanulmányi munka mértékegysége, amely a továbbképzési programok, illetve az egyes kurzusok vonatkozásában arányaiban kifejezi azt a tanulmányi munkaórát, amely meghatározott ismeretek elsajátításához, a követelmények teljesítéséhez szükséges;
 
@@ -47,4 +47,5 @@ rc) ezeket méri, értékeli, és erről a közalkalmazott részére érdemi vis
 s) továbbképzési időszak: a továbbképzési kötelezettségek teljesítésére rendelkezésre álló négyéves időszak.
 
 [^2]: A 2. § a) pontja a 13/2020. (II. 7.) Korm. rendelet 130. § 2. pontja szerint módosított szöveg.
-[^3]: A 2. § p) pontja a 243/2022. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^3]: A 2. § j) pontja a 217/2024. (VII. 31.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § p) pontja a 243/2022. (VII. 4.) Korm. rendelet 10. §-ával megállapított szöveg.
