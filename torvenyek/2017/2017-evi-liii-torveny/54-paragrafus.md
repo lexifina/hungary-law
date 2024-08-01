@@ -19,3 +19,5 @@ c) az érintett szolgáltatók az 1. § (1) bekezdés egyes pontjaiban meghatár
 d) a szakmai titoktartás és a személyes adatok védelme tekintetében a belföldi követelményekkel egyenértékű követelmények irányadóak a szolgáltatókra.
 
 (6) Az 1. § (1) bekezdés g)–h) és l) pontjában meghatározott szolgáltató esetében az (1) bekezdésben meghatározott tilalom nem vonatkozik az ügyfél tájékoztatására arra vonatkozóan, hogy az ügyfél által végrehajtott vagy végrehajtandó ügylet jogszabályi rendelkezések megsértését eredményezi.
+
+(7) Az 1. § (1) bekezdés a) és b) pontjában meghatározott szolgáltató esetében az (1) bekezdésben meghatározott tilalom nem vonatkozik a 37/A. § (2), (4) vagy (7) bekezdés szerinti tájékoztatásban foglalt információ felfedésére az érintett két vagy több szolgáltató között.
