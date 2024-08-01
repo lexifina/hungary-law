@@ -1080,13 +1080,29 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 465211N | 0164912E |
 
-| 15. | Szeged TIZ1 | GND - 9500’- AMSL | (ICAO „G”) Közzétett üzemidő szerint. |
+| 15. | Szeged TIZ1 | 9500’ (2900 m) AMSL / GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
-| 462227N 462338N 462200N 461330N 461035N országhatár 460927N | 0201815E 0195959E 0195400E 0195430E 0195606E 0202351E |
+| 462227N 462338N 462200N 461330N 461033N | 0201815E 0195959E 0195400E 0195430E 0195604E |
 
-| 16. | Szeged TIZ2 | 2000’- 9500’- AMSL | (ICAO „G”) Közzétett üzemidő szerint. |
+| országhatár |
 
-| 462354N 463250N 462743N 460927N országhatár 460756N | 0194931E 0195950E 0201557E 0202351E 0194931E |
+| 460702N | 0201602E |
+
+| országhatár |
+
+| 460929N 462227N | 0202413E 0201815E |
+
+| 16. | Szeged TIZ2 | 9500’ (2900 m) AMSL / 2000’ (600 m) AMSL | (ICAO „G”) Közzétett üzemidő szerint. |
+
+| 462354N 463250N 462743N 460929N | 0194931E 0195950E 0201557E 0202413E |
+
+| országhatár |
+
+| 460702N | 0201602E |
+
+| országhatár |
+
+| 460750N 462354N | 0194917E 0194931E |
 
 | 17. | Tököl TIZ | 3500’ (1050 m)- AMSL/GND | (ICAO „G”) Közzétett üzemidő szerint. |
 
@@ -1474,7 +1490,7 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 4. Drop Zone légterek
 
-## 3X12220M.docx
+## 4X05499M.docx
 
 |  | A | B | C |
 
@@ -1562,9 +1578,9 @@ III. NEM ELLENŐRZÖTT LÉGTEREK
 
 | 473557N 473416N 473322N 473339N 473441N 473556N 473557N | 0165122E 0165217E 0165009E 0164820E 0164625E 0164532E 0165122E |
 
-| 23. | LHSDZLHUD/Szeged | 9500’ AMSL – FL135 STD |  |
+| 23. | LHSDZLHUD/Szeged | FL135 (4100 m STD) / 9500’ (2900 m) AMSL | Csak Szeged TIZ1 légtérrel együtt működhet. |
 
-| 461500N 461217N 461718N 461721N | 0200000E 0200526E 0200722E 0200000E |
+| 461500N 461217N 461718N 461721N 461500N | 0200000E 0200526E 0200722E 0200000E 0200000E |
 
 5. RMZ-k és TMZ-k
 
@@ -1732,4 +1748,4 @@ IV. IDŐSZAKOSAN KORLÁTOZOTT LÉGTEREK (TRA)
 
 1. Időszakosan korlátozott légterek
 
-[^122]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
+[^122]: A 2. melléklet a 45/2017. (XII. 4.) NFM rendelet 2. §-ával megállapított, a 33/2018. (XII. 17.) ITM rendelet 3. §-a, a 34/2019. (IX. 13.) ITM rendelet 7. § j)–o) pontja, 8. § (2) bekezdése és 9. § b)–c) pontja, a 33/2020. (X. 5.) ITM rendelet 3. § c) pontja, 4. § (2) bekezdése, a 3/2021. (I. 20.) ITM rendelet 1. §-a, az 55/2021. (XI. 5.) ITM rendelet 4–5. §-a, a 7/2022. (VII. 27.) TIM rendelet 3. §-a, a 7/2023. (IV. 14.) ÉKM rendelet 2. §-a, a 30/2023. (XII. 29.) ÉKM rendelet 1. § (1) bekezdése, a 21/2024. (VII. 31.) ÉKM rendelet 3. §-a szerint módosított szöveg. A Magyar Közlöny 201. számában megjelent helyesbítésnek megfelelő szöveg.
