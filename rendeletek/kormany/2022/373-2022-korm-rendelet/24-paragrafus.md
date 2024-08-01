@@ -1,4 +1,4 @@
-24. § (1)[^62] A támogatási döntés előkészítésében és meghozatalában nem vehet részt
+24. § (1)[^69] A támogatási döntés előkészítésében és meghozatalában nem vehet részt
 
 a) a támogatást igénylő,
 
@@ -16,7 +16,7 @@ g) az a)–f) pont szerinti személynek a Polgári Törvénykönyvről szóló 2
 
 h) az a személy, akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
 
-(2)[^63] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
+(2)[^70] Ha egy személy összeférhetetlensége az (1) bekezdés a)–g) pontja alapján nem volna megállapítható, de az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok – így különösen családi vagy érzelmi ok, politikai szimpátiával vagy nemzeti hovatartozással kapcsolatos ok, gazdasági érdek vagy bármely más közvetlen vagy közvetett személyes érdek [a továbbiakban együtt: (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 61. cikk (3) bekezdése szerinti valamely összeférhetetlenségi ok] – rá nézve teljesül vagy annak kockázata vagy látszata objektíven fennáll, akkor ezen személyt az (1) bekezdés g) pontja szerint kell minősíteni.
 
 (3) Az (1) bekezdés a) és b) pontja nem zárja ki, hogy
 
@@ -26,5 +26,5 @@ b) szakpolitikai felelős által vezetett szervezet
 
 támogatási kérelmet nyújtson be, és támogatásban részesüljön. Erre akkor kerülhet sor, ha a projekt előkészítéséhez és megvalósításához, valamint a támogatási döntés előkészítéséhez és meghozatalához kapcsolódó feladatok szervezeti és személyi szinten elkülönülnek.
 
-[^62]: A 24. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^63]: A 24. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 12. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja szerint módosított szöveg.
+[^69]: A 24. § (1) bekezdése a 213/2024. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^70]: A 24. § (2) bekezdése a 463/2022. (XI. 15.) Korm. rendelet 31. § 12. pontja, a 213/2024. (VII. 29.) Korm. rendelet 50. § 7. pontja szerint módosított szöveg.

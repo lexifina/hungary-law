@@ -1,5 +1,5 @@
-## 7. A közbeszerzésekért felelős miniszter
+## 7.[^27]
 
-8. § (1) A közbeszerzésekért felelős miniszter a IV. Fejezet szerint ellenőrzi az e rendelet hatálya alá tartozó támogatások felhasználása során lefolytatott közbeszerzési eljárások közbeszerzési elszámolhatóságát.
+8. §
 
-(2) A miniszter (1) bekezdés szerinti feladatát ellátó szervezeti egység a feladatellátása során funkcionálisan független, döntései meghozatalában nem utasítható.
+[^27]: A 7. alcímet (8. §-t) a 218/2024. (VII. 31.) Korm. rendelet 85. §-a hatályon kívül helyezte.

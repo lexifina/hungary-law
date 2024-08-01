@@ -1,4 +1,4 @@
-12/B. §[^46] (1) A pénzügyi eszközt végrehajtó szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött finanszírozási megállapodásban foglaltak szerint a nemzeti hatóság megbízásából, saját nevében jár el.
+12/B. §[^52] (1) A pénzügyi eszközt végrehajtó szerv az e rendelet hatálya alá tartozó feladatok ellátására a nemzeti hatósággal kötött finanszírozási megállapodásban foglaltak szerint a nemzeti hatóság megbízásából, saját nevében jár el.
 
 (2) A pénzügyi eszközt végrehajtó szerv a finanszírozási megállapodásban foglaltak szerint az alábbi feladatokat látja el különösen:
 
@@ -62,4 +62,4 @@ g) beszámol és adatszolgáltatást teljesít a nemzeti hatóság részére.
 
 (9) A pénzügyi eszközt végrehajtó szerv és a pénzügyi közvetítő gondoskodik arról, hogy a jogsértés vagy a szabálytalanság eredményeként sem az Európai Unió, sem Magyarország pénzügyi érdekei ne sérüljenek.
 
-[^46]: A 12/B. §-t a 213/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^52]: A 12/B. §-t a 213/2024. (VII. 29.) Korm. rendelet 7. §-a iktatta be.

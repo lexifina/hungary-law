@@ -1,30 +1,28 @@
-|  | A | B | C | D | E |
+|  | A | B | C | D |
 
-| 1. | Programterület neve | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium | A Kormány európai uniós források felhasználásával kapcsolatos nemzeti hatósági feladatok ellátására kijelölt tagja | Szakpolitikai felelős | Lebonyolító szerv |
+| 1. | Programterület neve | A nemzeti hatósági feladatokat ellátó szervezet | Szakpolitikai felelős | Lebonyolító szerv |
 
-| 2. | I. Demográfia és köznevelés | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 2. | I. Demográfia és köznevelés | NFK | Kulturális és Innovációs Minisztérium a Belügyminisztériummal együttműködve | Magyar Államkincstár, Miniszterelnöki Kabinetiroda, NFK |
 
-| 3. | II. Magasan képzett, versenyképes munkaerő | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 3. | II. Magasan képzett, versenyképes munkaerő | NFK | Kulturális és Innovációs Minisztérium | Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal, Miniszterelnöki Kabinetiroda, NFK |
 
-| 4. | III. Felzárkózó települések | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium | Közigazgatási és Területfejlesztési Minisztérium |
+| 4. | III. Felzárkózó települések | NFK | Belügyminisztérium | NFK |
 
-| 5. | IV. Vízgazdálkodás | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium1, Agrárminisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 5. | IV. Vízgazdálkodás | NFK | Energiaügyi Minisztérium[^449], Agrárminisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
-| 6. | V. Fenntartható zöld közlekedés | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 6. | V. Fenntartható zöld közlekedés | NFK | Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
-| 7. | VI. Energetika (zöld átállás) | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, Közigazgatási és Területfejlesztési Minisztérium, Miniszterelnöki Kabinetiroda |
+| 7. | VI. Energetika (zöld átállás) | NFK | Energiaügyi Minisztérium | ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság, Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság, NFK, Miniszterelnöki Kabinetiroda |
 
-| 8. | VII. Átállás a körforgásos gazdaságra | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium | Közigazgatási és Területfejlesztési Minisztérium |
+| 8. | VII. Átállás a körforgásos gazdaságra | NFK | Energiaügyi Minisztérium | NFK |
 
-| 9. | VIII. Egészségügy | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Belügyminisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 9. | VIII. Egészségügy | NFK | Belügyminisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
-| 10. | IX. Állam és közigazgatás | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Nincs | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
+| 10. | IX. Állam és közigazgatás | NFK | Nincs | Miniszterelnöki Kabinetiroda, a KKV-k közbeszerzési részvételét ösztönző támogatás c. felhívás tekintetében az Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság |
 
-| 11.[^358] | Magyarország REPowerEU terve | Közigazgatási és Területfejlesztési Minisztérium | közigazgatási és területfejlesztési miniszter | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, Közigazgatási és Területfejlesztési Minisztérium |
+| 11. | Magyarország REPowerEU terve | NFK | Energiaügyi Minisztérium, Építési és Közlekedési Minisztérium | Miniszterelnöki Kabinetiroda, NFK |
 
-## 1 Szakmai koordinációra kijelölt minisztérium
-
-2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^359]
+2. melléklet a 373/2022. (IX. 30.) Korm. rendelethez[^450]
 
 Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
@@ -156,5 +154,5 @@ Az ARACHNE kockázatértékelő eszköz részére küldendő adatok
 
 8.7. szállító tényleges tulajdonosának születési dátuma
 
-[^358]: Az 1. mellékletben foglalt táblázat 11. sora a 213/2024. (VII. 29.) Korm. rendelet 49. §-ával megállapított szöveg.
-[^359]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.
+[^449]: Szakmai koordinációra kijelölt minisztérium
+[^450]: A 2. melléklet a 241. §-sal és a - 463/2022. (XI. 15.) Korm. rendelet 32. §-a szerint módosított - 3. melléklettel megállapított szöveg.

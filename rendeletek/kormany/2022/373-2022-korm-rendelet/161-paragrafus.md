@@ -1,6 +1,6 @@
 161. § (1) A szállító – választása szerint –
 
-a)[^188] biztosítékot nyújt a közte és a végső kedvezményezett közötti szállítói szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő mértékben a nemzeti hatóság javára a 90. § (2) bekezdése vagy a Kbt. 134. § (6) bekezdése szerint, vagy
+a)[^277] biztosítékot nyújt a közte és a végső kedvezményezett közötti szállítói szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő mértékben a nemzeti hatóság javára a 90. § (2) bekezdése vagy a Kbt. 134. § (6) bekezdése szerint, vagy
 
 b) – a 227. § (2) bekezdésére figyelemmel – nem nyújt biztosítékot.
 
@@ -8,4 +8,4 @@ b) – a 227. § (2) bekezdésére figyelemmel – nem nyújt biztosítékot.
 
 (3) Az (1) bekezdés b) pontja nem alkalmazható a Magyarországon adószámmal nem rendelkező szállító esetén.
 
-[^188]: A 161. § (1) bekezdés a) pontja a 213/2024. (VII. 29.) Korm. rendelet 50. § 43. pontja szerint módosított szöveg.
+[^277]: A 161. § (1) bekezdés a) pontja a 213/2024. (VII. 29.) Korm. rendelet 50. § 43. pontja szerint módosított szöveg.

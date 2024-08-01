@@ -22,10 +22,10 @@ e) a szabálytalansági döntés ellen benyújtott jogorvoslati kérelem kapcsá
 
 ellen.
 
-(3a)[^220] A benyújtó a kifogást visszavonhatja, amíg a kifogást nem bírálták el. A visszavont kifogást nem lehet ismételten benyújtani.
+(3a)[^309] A benyújtó a kifogást visszavonhatja, amíg a kifogást nem bírálták el. A visszavont kifogást nem lehet ismételten benyújtani.
 
 (4) A kifogás elbírálásáig a kifogásban foglaltakkal összefüggő eljárási határidők nyugszanak.
 
 (5) A kifogást elbíráló szerv kizárólag a kifogásolt döntést, valamint az azt megalapozó eljárás azon elemeit, megállapításait vizsgálhatja, amelyeket a kifogás vitat.
 
-[^220]: A 189. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 35. §-a iktatta be.
+[^309]: A 189. § (3a) bekezdését a 213/2024. (VII. 29.) Korm. rendelet 35. §-a iktatta be.

@@ -1,3 +1,3 @@
-210. §[^249] A Belső Ellenőrzési és Integritási Igazgatóság nincs kötve a jogorvoslati kérelemben foglaltakhoz.
+210. §[^339] A Belső Ellenőrzési és Integritási Igazgatóság nincs kötve a jogorvoslati kérelemben foglaltakhoz.
 
-[^249]: A 210. § a 123/2023. (IV. 12.) Korm. rendelet 29. § 14. pontja szerint módosított szöveg.
+[^339]: A 210. § a 123/2023. (IV. 12.) Korm. rendelet 29. § 14. pontja szerint módosított szöveg.
