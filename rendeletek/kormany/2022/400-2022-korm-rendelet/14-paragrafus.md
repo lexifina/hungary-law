@@ -22,7 +22,7 @@ ca) Magyarország védelmét és biztonságát elősegítő főbb fejlesztési i
 
 cb) mindazon, az a) és b) pont szerinti tevékenységhez kapcsolódó cselekvési irányt, feladatot és eszközt, amely szavatolja Magyarország védelmét és biztonságát.
 
-(2) A Nemzeti Biztonsági Stratégia kidolgozásának megkezdéséről a Kormány határoz.
+(2)[^3] A Nemzeti Biztonsági Stratégia kidolgozásának megkezdéséről a Védelmi Tanács határoz.
 
 (3) A Nemzeti Biztonsági Stratégiát a külpolitikáért felelős miniszter készíti elő.
 
@@ -35,3 +35,5 @@ b) a biztonsági helyzet változása miatt és
 c) a Biztonság- és Védelempolitika Alapelvei tervdokumentum módosítása, felülvizsgálata után
 
 felül kell vizsgálni.
+
+[^3]: A 14. § (2) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 21. § c) pontja szerint módosított szöveg.
