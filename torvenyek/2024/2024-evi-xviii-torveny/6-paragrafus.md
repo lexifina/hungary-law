@@ -1,0 +1,5 @@
+6. § A Bvsztv. 14. §-a a következő (9) és (10) bekezdéssel egészül ki:
+
+„(9) A bv. szervezet a bv. szerv területére való be- és kilépéskor a (2) bekezdésben meghatározott célból a be- és kilépő személy arcképmása azonosításának támogatására informatikai eszközt alkalmazhat. Emberi közreműködés nélkül végzett személyazonosítás esetén a belépés megtagadásról a személyi állomány tagja dönt.
+
+(10) A fogvatartottal kapcsolattartásra jogosult személy bv. szerv területére való belépésekor a bv. szerv ellenőrzi a körözött személyek nyilvántartását. Ha a bv. szerv a fogvatartottal kapcsolattartásra jogosult személlyel összefüggésben a körözött személyek nyilvántartásában egyezőséget észlel, e tényről a körözési eljárást lefolytató rendőri szervet a találat jelzésével értesíti. Ha a körözött személlyel szemben elfogatóparancsot, európai vagy nemzetközi elfogatóparancsot bocsátottak ki, a kapcsolattartásra nem kerülhet sor, és a bv. szerv a rendőrség kiérkezéséig a körözött személyt a helyszínen visszatartja.”
