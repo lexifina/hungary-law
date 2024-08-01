@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-77-20-2
 | --- | --- | --- |
 | 2015-04-01 | 2015-77-20-22.1 | 77/2015. (III. 31.) Korm. rendelet |
 | 2015-11-04 | 2015-77-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-08-01 | 2015-77-20-22.3 | 217/2024. (VII. 31.) Korm. rendelet |

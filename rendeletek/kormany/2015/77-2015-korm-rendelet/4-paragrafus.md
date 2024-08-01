@@ -164,8 +164,9 @@
 
 (4) A Megállapodás, illetve a 2. § és a 3. § hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett közleményével állapítja meg.[^4]
 
-(5) E rendelet végrehajtásához szükséges intézkedésekről az űrkutatásért felelős miniszter gondoskodik.
+(5)[^5] E rendelet végrehajtásához szükséges intézkedésekről az űriparfejlesztésért és űrtechnológiákért felelős miniszter gondoskodik.
 
 [^2]: A 2. § a 4. § (2) bekezdése alapján a Megállapodás 7. cikk 2. bekezdésében meghatározott időpontban lép hatályba. A 37/2015. (XII. 4.) KKM közlemény alapján a hatálybalépés időpontja 2015. november 4.
 [^3]: A 37/2015. (XII. 4.) KKM közlemény alapján a hatálybalépés időpontja 2015. november 4.
 [^4]: Lásd a 37/2015. (XII. 4.) KKM közleményt.
+[^5]: A 4. § (5) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
