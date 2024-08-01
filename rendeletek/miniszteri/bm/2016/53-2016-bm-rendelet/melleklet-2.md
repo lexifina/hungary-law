@@ -1,3 +1,5 @@
 2. melléklet az 53/2016. (XII. 16.) BM rendelethez[^7]
 
-[^7]: A 2. melléklet a 17/2018. (VI. 12.) BM rendelet 4. §-a, a 14/2021. (VI. 16.) BM rendelet 23. §-a szerint módosított szöveg.
+Az igazságügyi szakértői intézmény tisztviselőire és technikusaira vonatkozó képesítési követelmények
+
+[^7]: A 2. melléklet a 31/2024. (VII. 31.) BM rendelet 1. § (3) bekezdésével megállapított szöveg.

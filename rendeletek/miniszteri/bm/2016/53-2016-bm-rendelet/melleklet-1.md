@@ -1,156 +1,143 @@
-## 5. §[^4]
-
 1. melléklet az 53/2016. (XII. 16.) BM rendelethez[^5]
 
-## Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkakörök megnevezése
+Az igazságügyi szakértői intézménynél az igazságügyi alkalmazottak által ellátható munkakörök megnevezése
 
-I. Vezetői munkakörök
+1. Vezetői munkakörök:
 
-1. főigazgató
+1.1. főigazgató
 
-2. főigazgató-helyettes
+1.2. főigazgató-helyettes
 
-3. főosztályvezető
+1.3. főosztályvezető
 
-4. hivatalvezető
+1.4. intézetvezető
 
-5. igazgató
+1.5. szolgálatvezető
 
-6. intézetvezető
+1.6. osztályvezető
 
-7. szolgálatvezető
+1.7. csoportvezető
 
-8. osztályvezető
+2. Szakértői munkakörök:
 
-9. csoportvezető
+2.1. szakértő (antropológia)
 
-10. laboratóriumvezető
+2.2. szakértő (toxikológia)
 
-II. Szakértői munkakörök
+2.3. szakértő (pszichiátria)
 
-1. szakértő (antropológia)
+2.4. szakértő (pszichológia)
 
-2. szakértő (igazságügyi toxikológia)
+2.5. szakértő (patológia)
 
-3. szakértő (pszichiáter)
+2.6. szakértő (gépjármű-közlekedési műszaki)
 
-4. szakértő (pszichológus)
+2.7. szakértő (gépjármű-közlekedési műszaki, balesetelemzés)
 
-5. szakértő (patológus)
+2.8. szakértő (informatika)
 
-6. szakértő (sebész)
+2.9. szakértő (közgazdaság, pénzügy)
 
-7. szakértő (egészségbiztosítás)
+2.10. szakértő (építésügy)
 
-8. szakértő (gépjármű, közlekedési-műszaki)
+2.11. szakértő (daktiloszkópia)
 
-9. szakértő (informatika)
+2.12. szakértő (nyomtan)
 
-10. szakértő (közgazdaság, pénzügy)
+2.13. szakértő (okmány)
 
-11. szakértő (építésügy)
+2.14. szakértő (írás)
 
-12. szakértő (lakásügy)
+2.15. szakértő (fegyver)
 
-13. szakértő (egyéb, az Iszr.-ben meghatározott szakterület)
+2.16. szakértő (genetika)
 
-14. szakértő (daktiloszkópia)
+2.17. szakértő (vegyészet)
 
-15. szakértő (kriminalisztika)
+2.18. szakértő (orvostan)
 
-16. szakértő (genetika)
+2.19. szakértő (fizika)
 
-17. szakértő (vegyész)
+2.20. szakértő (botanika)
 
-18. szakértő (orvos)
+2.21. szakértő (biológia)
 
-19. szakértő (biológia)
+2.22. szakértő (egyéb természettudomány)
 
-20. szakértő (fizika)
+2.23. szakértő (egyéb műszaki)
 
-21. szakértő (beszéd- és hangazonosító)
+2.24. szakértő (beszéd- és hangazonosítás)
 
-22. szakértő (egyéb természettudomány)
+3. Szakértőjelölti munkakörök:
 
-III. Szakértőjelölti munkakörök
+3.1. szakértőjelölt (antropológia)
 
-1. szakértőjelölt (antropológia)
+3.2. szakértőjelölt (toxikológia)
 
-2. szakértőjelölt (igazságügyi toxikológia)
+3.3. szakértőjelölt (pszichiátria)
 
-3. szakértőjelölt (pszichiáter)
+3.4. szakértőjelölt (pszichológia)
 
-4. szakértőjelölt (pszichológus)
+3.5. szakértőjelölt (patológia)
 
-5. szakértőjelölt (patológus)
+3.6. szakértőjelölt (gépjármű-közlekedési műszaki)
 
-6. szakértőjelölt (sebész)
+3.7. szakértőjelölt (gépjármű-közlekedési műszaki, balesetelemzés)
 
-7. szakértőjelölt (egészségbiztosítás)
+3.8. szakértőjelölt (informatika)
 
-8. szakértőjelölt (gépjármű, közlekedési-műszaki)
+3.9. szakértőjelölt (közgazdaság, pénzügy)
 
-9. szakértőjelölt (informatika)
+3.10. szakértőjelölt (építésügy)
 
-10. szakértőjelölt (közgazdaság, pénzügy)
+3.11. szakértőjelölt (daktiloszkópia)
 
-11. szakértőjelölt (építésügy)
+3.12. szakértőjelölt (nyomtan)
 
-12. szakértőjelölt (lakásügy)
+3.13. szakértőjelölt (okmány)
 
-13. szakértőjelölt (egyéb, az Iszr.-ben meghatározott szakterület)
+3.14. szakértőjelölt (írás)
 
-14. szakértőjelölt (daktiloszkópia)
+3.15. szakértőjelölt (fegyver)
 
-15. szakértőjelölt (kriminalisztika)
+3.16. szakértőjelölt (genetika)
 
-16. szakértőjelölt (genetika)
+3.17. szakértőjelölt (vegyészet)
 
-17. szakértőjelölt (vegyész)
+3.18. szakértőjelölt (orvostan)
 
-18. szakértőjelölt (orvos)
+3.19. szakértőjelölt (fizika)
 
-19. szakértőjelölt (biológia)
+3.20. szakértőjelölt (botanika)
 
-20. szakértőjelölt (fizika)
+3.21. szakértőjelölt (biológia)
 
-21. szakértőjelölt (beszéd- és hangazonosító)
+3.22. szakértőjelölt (egyéb természettudomány)
 
-22. szakértőjelölt (egyéb természettudomány)
+3.23. szakértőjelölt (egyéb műszaki)
 
-IV. Technikus munkakörök
+3.24. szakértőjelölt (beszéd- és hangazonosítás)
 
-1. technikus
+4. Technikus munkakörök:
 
-V. Tisztviselői munkakörök
+4.1. technikus
 
-1. szakügyintéző (pénzügy-számvitel, humánpolitika-személyügy, informatika, műszaki, bérszámfejtés és társadalombiztosítás, egyéb)
+5. Tisztviselői munkakörök:
 
-2. belső ellenőr
+5.1. minőségirányítási vezető
 
-3. jogász
+5.2. belső ellenőr
 
-4. jogtanácsos
+5.3. kontroller
 
-5. ügyintéző
+5.4. szakügyintéző
 
-6. kontroller
+5.5. ügyintéző
 
-VI. Fizikai dolgozói munkakör
+6. Fizikai dolgozói munkakörök:
 
-1. hivatalsegéd (kézbesítő)
+6.1. fizikai dolgozó I
 
-2. boncmester
+6.2. fizikai dolgozó II
 
-3. takarító (általános, labor-)
-
-4. gondnok
-
-5. gépkocsivezető
-
-6. szakmunkás
-
-7. segédmunkás
-
-[^4]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 17/2018. (VI. 12.) BM rendelet 3. § a) pontjával megállapított szöveg.
+[^5]: Az 1. melléklet a 31/2024. (VII. 31.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.

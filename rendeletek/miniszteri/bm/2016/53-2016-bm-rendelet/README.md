@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-53-20-0
 | 2017-01-02 | 2016-53-20-0A.2 | 2010: CXXX. törvény |
 | 2018-07-01 | 2016-53-20-0A.3 | 17/2018. (VI. 12.) BM rendelet |
 | 2021-06-19 | 2016-53-20-0A.4 | 14/2021. (VI. 16.) BM rendelet |
+| 2024-08-01 | 2016-53-20-0A.5 | 31/2024. (VII. 31.) BM rendelet |

@@ -1,77 +1,85 @@
 1/A. melléklet az 53/2016. (XII. 16.) BM rendelethez[^6]
 
-## Az igazságügyi alkalmazottak által ellátott azon munkakörök, amelyek esetén az Iasz. 97. § (3) bekezdés f) pontja nem mellőzhető
+Az igazságügyi alkalmazottak által ellátott azon munkakörök, amelyek esetén az Iasz. 97. § (3) bekezdés f) pontja nem mellőzhető
 
-I. Szakértői munkakörök
+1. Szakértői munkakörök:
 
-1. szakértő (antropológia)
+1.1. szakértő (antropológia)
 
-2. szakértő (igazságügyi toxikológia)
+1.2. szakértő (toxikológia)
 
-3. szakértő (pszichiáter)
+1.3. szakértő (pszichiátria)
 
-4. szakértő (pszichológus)
+1.4. szakértő (pszichológia)
 
-5. szakértő (patológus)
+1.5. szakértő (patológia)
 
-6. szakértő (sebész)
+1.6. szakértő (gépjármű-közlekedési műszaki)
 
-7. szakértő (egészségbiztosítás)
+1.7. szakértő (gépjármű-közlekedési műszaki, balesetelemzés)
 
-8. szakértő (gépjármű, közlekedési-műszaki)
+1.8. szakértő (építésügy)
 
-9. szakértő (építésügy)
+1.9. szakértő (daktiloszkópia)
 
-10. szakértő (daktiloszkópia)
+1.10. szakértő (nyomtan)
 
-11. szakértő (kriminalisztika)
+1.11. szakértő (fegyver)
 
-12. szakértő (genetika)
+1.12. szakértő (genetika)
 
-13. szakértő (vegyész)
+1.13. szakértő (vegyészet)
 
-14. szakértő (orvos)
+1.14. szakértő (orvostan)
 
-15. szakértő (biológia)
+1.15. szakértő (fizika)
 
-16. szakértő (fizika)
+1.16. szakértő (botanika)
 
-17. szakértő (egyéb természettudomány)
+1.17. szakértő (biológia)
 
-II. Szakértőjelölti munkakörök
+1.18. szakértő (egyéb természettudomány)
 
-1. szakértőjelölt (antropológia)
+1.19. szakértő (egyéb műszaki)
 
-2. szakértőjelölt (igazságügyi toxikológia)
+2. Szakértőjelölti munkakörök:
 
-3. szakértőjelölt (pszichiáter)
+2.1. szakértőjelölt (antropológia)
 
-4. szakértőjelölt (pszichológus)
+2.2. szakértőjelölt (toxikológia)
 
-5. szakértőjelölt (patológus)
+2.3. szakértőjelölt (pszichiátria)
 
-6. szakértőjelölt (sebész)
+2.4. szakértőjelölt (pszichológia)
 
-7. szakértőjelölt (egészségbiztosítás)
+2.5. szakértőjelölt (patológia)
 
-8. szakértőjelölt (gépjármű, közlekedési-műszaki)
+2.6. szakértőjelölt (gépjármű-közlekedési műszaki)
 
-9. szakértőjelölt (építésügy)
+2.7. szakértőjelölt (gépjármű-közlekedési műszaki, balesetelemzés)
 
-10. szakértőjelölt (daktiloszkópia)
+2.8. szakértőjelölt (építésügy)
 
-11. szakértőjelölt (kriminalisztika)
+2.9. szakértőjelölt (daktiloszkópia)
 
-12. szakértőjelölt (genetika)
+2.10. szakértőjelölt (nyomtan)
 
-13. szakértőjelölt (vegyész)
+2.11. szakértőjelölt (fegyver)
 
-14. szakértőjelölt (orvos)
+2.12. szakértőjelölt (genetika)
 
-15. szakértőjelölt (biológia)
+2.13. szakértőjelölt (vegyészet)
 
-16. szakértőjelölt (fizika)
+2.14. szakértőjelölt (orvostan)
 
-17. szakértőjelölt (egyéb természettudomány)
+2.15. szakértőjelölt (fizika)
 
-[^6]: Az 1/A. mellékletet a 17/2018. (VI. 12.) BM rendelet 3. § b) pontja iktatta be.
+2.16. szakértőjelölt (botanika)
+
+2.17. szakértőjelölt (biológia)
+
+2.18. szakértőjelölt (egyéb természettudomány)
+
+2.19. szakértőjelölt (egyéb műszaki)
+
+[^6]: Az 1/A. mellékletet a 17/2018. (VI. 12.) BM rendelet 3. § b) pontja iktatta be, szövege a 31/2024. (VII. 31.) BM rendelet 1. § (2) bekezdésével megállapított szöveg.
