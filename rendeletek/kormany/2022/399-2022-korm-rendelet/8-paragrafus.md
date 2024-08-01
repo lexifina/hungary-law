@@ -6,7 +6,7 @@
 
 a) a NATO kezdeményezésére, vagy szükség esetén önállóan, a nemzeti válságkezelést koordináló operatív szerv egyidejű tájékoztatása mellett intézkedik a Nemzeti Intézkedések Gyűjteményében rögzített, feladat- és hatáskörébe tartozó válságreagálási intézkedés bevezetésére, annak felfüggesztésére vagy visszavonására,
 
-b) irányítja a Kormány által elrendelt nemzeti válságreagálási intézkedés és NATO válságreagálási intézkedés ágazati feladatának végrehajtását, koordinálja a végrehajtásban együttműködő szervek tevékenységét, valamint végzi rendszeres felkészítésüket,
+b)[^3] irányítja az elrendelt nemzeti válságreagálási intézkedés és NATO válságreagálási intézkedés ágazati feladatának végrehajtását, koordinálja a végrehajtásban együttműködő szervek tevékenységét, valamint végzi rendszeres felkészítésüket,
 
 c) a nemzeti válságkezelést koordináló operatív szerv útján javaslatot tesz a NIR a NATO Válságreagálási Rendszertől független, önálló nemzeti alkalmazására,
 
@@ -27,3 +27,5 @@ j) saját költségvetésében tervezi a NIR ágazati alkalmazásához szükség
 k) indokolással ellátott javaslatot tesz a NIR nemzeti koordinációjáért felelős szervnél a Nemzeti Intézkedések Gyűjteményében foglalt intézkedés módosítására, kiegészítésére, hatályon kívül helyezésére,
 
 l) irányítja a NIR működtetését biztosító ágazati infrastruktúra kialakítását, fenntartását és fejlesztését.
+
+[^3]: A 8. § (2) bekezdés b) pontja a 217/2024. (VII. 31.) Korm. rendelet 19. § (1) bekezdés c) pontja szerint módosított szöveg.

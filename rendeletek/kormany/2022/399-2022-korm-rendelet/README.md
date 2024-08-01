@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-399-20-
 | --- | --- | --- |
 | 2022-11-01 | 2022-399-20-22.1 | 399/2022. (X. 21.) Korm. rendelet |
 | 2022-11-02 | 2022-399-20-22.2 | 2010. évi CXXX. törvény |
+| 2024-08-01 | 2022-399-20-22.3 | 217/2024. (VII. 31.) Korm. rendelet |

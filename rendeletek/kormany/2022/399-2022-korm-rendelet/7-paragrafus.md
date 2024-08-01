@@ -8,7 +8,7 @@ b) koordinálja az ágazati felelős szervek részéről a NIR szakértők és k
 
 c) koordinálja a NIR-rel kapcsolatos felkészítési feladatok végrehajtását,
 
-d) a nemzeti válságkezelést koordináló operatív szerv, valamint az ágazati felelős szervek bevonásával évente december 31-ig elvégzi a Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálatát, amelynek eredményéről, a NIR működésének tapasztalatairól, valamint az ágazati felelős szerv által tett, a Nemzeti Intézkedések Gyűjteményében foglalt intézkedés módosítására, kiegészítésére, visszavonásra vonatkozó javaslatról a következő év február 15-ig a Miniszterelnöki Kabinetirodát vezető miniszter útján tájékoztatja a Kormányt,
+d)[^2] a nemzeti válságkezelést koordináló operatív szerv, valamint az ágazati felelős szervek bevonásával évente december 31-ig elvégzi a Nemzeti Intézkedések Gyűjteményében foglalt intézkedések felülvizsgálatát, amelynek eredményéről, a NIR működésének tapasztalatairól, valamint az ágazati felelős szerv által tett, a Nemzeti Intézkedések Gyűjteményében foglalt intézkedés módosítására, kiegészítésére, visszavonásra vonatkozó javaslatról a következő év február 15-ig a miniszterelnök nemzetbiztonsági főtanácsadója útján tájékoztatja a Kormányt,
 
 e) összehangolja a NIR működtetési feltételeinek folyamatos biztosításához kapcsolódó tevékenységet,
 
@@ -27,3 +27,5 @@ d) az ágazati felelős szervnél kezdeményezi a Nemzeti Intézkedések Gyűjte
 e) tájékoztatja a NATO szervét az általa kezdeményezett válságreagálási intézkedéssel kapcsolatos nemzeti álláspontról és a bevezetett nemzeti intézkedésről,
 
 f) javaslatot fogalmaz meg a Kormány részére a NATO válságreagálási intézkedés bevezetésének kezdeményezésére, vagy az abban foglalt, a tagállamtól kért feladat önálló nemzeti végrehajtására.
+
+[^2]: A 7. § (1) bekezdés d) pontja a 217/2024. (VII. 31.) Korm. rendelet 19. § (1) bekezdés b) pontja szerint módosított szöveg.
