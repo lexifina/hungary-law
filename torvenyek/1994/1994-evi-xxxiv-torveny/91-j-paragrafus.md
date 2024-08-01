@@ -19,3 +19,29 @@ f) a közlekedési rendszabályok megtartásának, a járműhasználat szabálys
 (3) Az (1) bekezdés d) pontja szerint nyilvántartott adatokat a rendőrség a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról, az 1907/2006/EK rendelet módosításáról, valamint a 98/2013/EU rendelet hatályon kívül helyezéséről szóló, 2019. június 20-i (EU) 2019/1148 európai parlamenti és tanácsi rendelet 9. cikk (3) bekezdése szerinti nemzeti kapcsolattartó pont, valamint külföldi nemzeti kapcsolattartó pontok részére továbbíthatja.
 
 (4) A rendőrség az (1) bekezdés e) pont szerinti bejelentést terrorfenyegetettség vizsgálata céljából a terrorizmust elhárító szervnek, a nemzetbiztonsági érdek vizsgálata céljából az Alkotmányvédelmi Hivatalnak továbbíthatja.
+
+(5) A rendőrség a bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során, a magatartási szabályok megtartásának ellenőrzése, valamint az ezzel összefüggő jogviták tisztázása céljából – a kényszerintézkedés időtartama alatt és annak megszűnésétől számított további 1 évig – kezeli a kényszerintézkedés alá vont személy
+
+a) azonosításához szükséges fényképlenyomatot,
+
+b) vezeték- és utónevét,
+
+c) születési nevét,
+
+d) születési helyét és idejét,
+
+e) anyja születési családi és utónevét,
+
+f) telefonszámát,
+
+g) lakóhelyét, illetve kijelölt tartózkodási helyét, valamint azok GPS koordinátáit,
+
+h) által beszélt nyelvre vonatkozó adatokat,
+
+i) által elkövetett bűncselekmény adatait,
+
+j) vonatkozásában elrendelt kényszerintézkedés időtartamát,
+
+k) vonatkozásában elrendelt magatartási szabályokat, illetve a magatartási szabályok megszegésével összefüggő adatokat.
+
+(6) A bűnügyi felügyelet, a távoltartás, a pártfogó felügyelet, valamint a reintegrációs őrizet keretében előírt magatartási szabályok megtartásának ellenőrzése során keletkezett adatállományból a rendőrség a 91/E. § (1)–(5) bekezdése alapján továbbíthat adatokat.

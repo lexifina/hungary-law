@@ -84,3 +84,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2024-01-01 | 2023. évi XCI. törvény | 1994-34-00-00.115 |
 | 2024-03-01 | 2023. évi CIX. törvény | 1994-34-00-00.118 |
 | 2024-07-01 | 2024. évi XII. törvény | 1994-34-00-00.119 |
+| 2024-08-01 | 2024. évi XVIII. törvény | 1994-34-00-00.120 |
