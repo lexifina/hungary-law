@@ -6,9 +6,11 @@
 
 (3) Ha az elsőfokú bíróság a gazdálkodással összefüggő kiemelt bűncselekmény miatt három hivatásos bíróból álló tanácsban jár el, akkor a tanács egy tagjának a törvényszék gazdasági ügyszakának, a törvényszék polgári ügyszakának, vagy a törvényszék közigazgatási ügyszakának bírája is kijelölhető.
 
-(4) A másodfokú és a harmadfokú bíróság három hivatásos bíróból álló tanácsban jár el.
+(4) A másodfokú és a harmadfokú bíróság – ha e törvény eltérően nem rendelkezik – három hivatásos bíróból álló tanácsban jár el.
 
 (5) A másodfokú és a harmadfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt az ügyet a bíróság öt hivatásos bíróból álló tanácsa elé utalhatja, ha ezt az ügy bonyolultságára, az eljárás ügyiratainak terjedelmére, a büntetőeljárásban részt vevő személyek számára tekintettel, vagy egyéb okból szükségesnek tartja.
+
+(5a) A harmadfokú eljárásban a Kúria öt hivatásos bíróból álló tanácsban jár el.
 
 (6) Az elsőfokú bíróság hatáskörébe tartozó ügyekben az egyesbíró, illetve a tanács elnöke helyett önálló aláírási joggal bírósági titkár is eljárhat az e törvényben meghatározott esetekben. A bíróság eljárására meghatározott rendelkezéseket ilyen esetben a bírósági titkár eljárására kell alkalmazni.
 

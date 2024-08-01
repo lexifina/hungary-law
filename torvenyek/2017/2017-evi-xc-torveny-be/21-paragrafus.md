@@ -26,7 +26,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 5. az atomenergia alkalmazásával visszaélés,
 
-6. a gazdasági csalás, az információs rendszer felhasználásával elkövetett csalás – kivéve a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalást, valamint a Btk. 375. § (4) bekezdés a) pontja és (5) bekezdése szerinti különösen jelentős kárt okozó információs rendszer felhasználásával elkövetett csalást –,
+6. a gazdasági csalás – kivéve a Btk. 374. § (6) bekezdés a) pontja szerinti gazdasági csalást –,
 
 7. a pénzhamisítás,
 
@@ -42,7 +42,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 13. a fogyasztók érdekeit és a gazdasági verseny tisztaságát sértő bűncselekmények,
 
-14. a tiltott adatszerzés és az információs rendszer elleni bűncselekmények
+14.
 
 esetén.
 

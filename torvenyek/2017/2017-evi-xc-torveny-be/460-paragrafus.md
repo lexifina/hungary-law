@@ -10,6 +10,6 @@ c) a fellebbezési határidő fellebbezés bejelentése nélkül telt el, illetv
 
 d) a fellebbezést elutasították, vagy a másodfokú bíróság az elsőfokú bíróság nem ügydöntő végzését helybenhagyta.
 
-(3) A nem ügydöntő végzést a véglegessé válására tekintet nélkül kell teljesíteni, illetve végrehajtani, kivéve, ha a nem ügydöntő végzés elleni fellebbezés halasztó hatályát e törvény kimondja.
+(3) A nem ügydöntő végzést a véglegessé válására tekintet nélkül kell teljesíteni, illetve végrehajtani, kivéve, ha törvény eltérően rendelkezik, vagy a nem ügydöntő végzés elleni fellebbezés halasztó hatályát e törvény kimondja.
 
 (4) Kivételesen indokolt esetben mind a nem ügydöntő végzést hozó, mind a fellebbezés folytán eljáró bíróság felfüggesztheti a nem ügydöntő végzés teljesítését, illetve végrehajtását.

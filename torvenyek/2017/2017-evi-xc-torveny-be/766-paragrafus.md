@@ -14,6 +14,8 @@ d) a feljelentés alapján nyomozást rendelhet el.
 
 (2a) A bíróság az eljárást felfüggesztheti, ha az ügyiratokat az (1) bekezdés a) pontja szerint az ügyészségnek megküldte.
 
+(2b) A bíróság a 492. § (1) és (2) bekezdésében meghatározott okból, vagy abban az esetben határoz az eljárás (2) bekezdés szerinti megszüntetéséről, ha a feljelentett büntethetőségét, illetve a cselekmény büntetendőségét kizáró valamely további ok megállapítható.
+
 (3) Ha a feljelentést a nyomozó hatóságnál vagy az ügyészségnél tették, az (1) bekezdés a) és b) pontjában foglaltak alkalmazásának nincs helye.
 
 (4) Az (1) bekezdés a) pontja esetén az ügyészség közvádra üldözendő bűncselekmény miatt nyomozást rendel el. Nem kell elrendelni a nyomozást, ha a 381. § (1) bekezdés a)–f) és h) pontjában meghatározott körülmények valamelyike áll fenn. Ha az ügyészség az elrendelt nyomozás eredményeként közvádra üldözendő bűncselekményt nem állapít meg, az eljárást megszünteti.

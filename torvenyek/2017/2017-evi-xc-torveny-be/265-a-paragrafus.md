@@ -1,0 +1,1 @@
+265/A. § Ha a büntetőeljárás érdekeit nem sérti, az ügyészség és a nyomozó hatóság adatszolgáltatást kérhet olyan módon is, hogy az adatkérés keretében megkeresett szervet szankció kilátásba helyezése nélkül, önkéntes teljesítésre hívja fel.

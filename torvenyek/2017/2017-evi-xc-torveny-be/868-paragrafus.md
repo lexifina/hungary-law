@@ -6,6 +6,8 @@
 
 (3) Ha a bíróság a korábbi jogszabály alapján a törvény erejénél fogva járt el egy hivatásos bíróból és két ülnökből álló tanácsban, és e törvény alapján egyesbíró jár el, e törvény hatálybalépése után a továbbiakban egyesbíróként jár el.
 
+(3a) Ha az ügy 2024. július 31. napjáig a bírósághoz érkezett, ezt követően is az a bíróság folytatja le az eljárást, amely a 21. § (5) bekezdésének 2024. július 31. napján hatályos szövege szerint rendelkezik hatáskörrel és illetékességgel.
+
 (4) Az e törvény hatálybalépése előtt történt hatályon kívül helyezés esetén a megismételt eljárást – az (5) bekezdésben szabályozott kivétellel – az e törvény szerint hatáskörrel és illetékességgel rendelkező bíróság folytatja le.
 
 (5) Az e törvény hatálybalépése előtt történt hatályon kívül helyezés esetén a megismételt eljárást a korábbi jogszabály szerint hatáskörrel és illetékességgel rendelkező bíróság folytatja le, ha az ügy a megismételt eljárás lefolytatására e törvény hatálybalépése előtt érkezett a bírósághoz.
