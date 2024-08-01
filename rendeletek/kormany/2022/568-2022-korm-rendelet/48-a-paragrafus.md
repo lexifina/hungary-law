@@ -1,3 +1,3 @@
-48/A. §[^9] A Kormány a hazatérést támogató szolgáltatással kapcsolatos feladatok ellátására jogosultként a hazatérést támogató szolgáltatással kapcsolatos ügyekben a 14. melléklet szerinti kormányhivatalt jelöli ki.
+48/A. §[^11] A Kormány a hazatérést támogató szolgáltatással kapcsolatos feladatok ellátására jogosultként a hazatérést támogató szolgáltatással kapcsolatos ügyekben a 14. melléklet szerinti kormányhivatalt jelöli ki.
 
-[^9]: A 48/A. §-t a 480/2023. (X. 31.) Korm. rendelet 5. §-a iktatta be.
+[^11]: A 48/A. §-t a 480/2023. (X. 31.) Korm. rendelet 5. §-a iktatta be.

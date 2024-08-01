@@ -6,10 +6,12 @@
 
 (3) Integrált ügyfélszolgálatnak kell tekinteni a kormányhivatalok által működtetett mobilizált kormányablak ügyfélszolgálatot is.
 
-(4) A kormányhivatalok gondoskodnak a
+(4)[^9] A kormányhivatalok gondoskodnak a
 
 a) kormányablakok ügyfélfogadási rendjében bekövetkezett változások, az ügyfélfogadás szünetelésének,
 
 b) mobilizált kormányablak ügyfélszolgálatok ügyfélfogadásának
 
-a www.kormanyhivatal.hu honlapon történő közzétételéről.
+a www.kormanyhivatalok.hu honlapon történő közzétételéről.
+
+[^9]: A 47. § (4) bekezdés záró szövegrésze a 219/2024. (VII. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.
