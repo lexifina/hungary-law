@@ -1,6 +1,6 @@
 ## 3. §[^2] Az Egyezmény hiteles szövege és annak hivatalos magyar nyelvű fordítása a következő:
 
-## Convention
+## „Convention
 
 ## For the Establishment of a European Organisation for the Exploitation of Meteorological Satellites
 
@@ -932,8 +932,9 @@
 
 (3) Az Egyezmény, illetve e rendelet 2–3. §-a hatálybalépésének naptári napját a külpolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.[^4]
 
-(4) E rendelet végrehajtásához szükséges intézkedésekről a környezetvédelemért és az űrkutatásért felelős miniszter gondoskodik.
+(4)[^5] E rendelet végrehajtásához szükséges intézkedésekről az űriparfejlesztésért és űrtechnológiákért felelős miniszter gondoskodik.
 
 [^2]: A 3. § a 4. § (2) bekezdése alapján az Egyezmény 17. cikkének (4) bekezdése szerinti időpontban lép hatályba. A 44/2008. (X. 22.) KüM határozat alapján a hatálybalépés időpontja 2008. október 9.
 [^3]: A 44/2008. (X. 22.) KüM határozat alapján a hatálybalépés időpontja 2008. október 9.
 [^4]: Lásd a 44/2008. (X. 22.) KüM határozatot.
+[^5]: A 4. § (4) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
