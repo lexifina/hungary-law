@@ -1,4 +1,4 @@
-32/J. §[^43] (1) A Hszt. 69. § (1) bekezdés e) pontja alapján külföldi feladatellátásra külföldre vezényelt, ha nemzetközi kötelezettségvállalásból vagy megállapodásból más nem következik, – a rendelkezési állományra megállapított illetményének folyósításán kívül – az alábbi ellátásra jogosult a rendvédelmi szervtől:
+32/J. §[^53] (1) A Hszt. 69. § (1) bekezdés e) pontja alapján külföldi feladatellátásra külföldre vezényelt, ha nemzetközi kötelezettségvállalásból vagy megállapodásból más nem következik, – a rendelkezési állományra megállapított illetményének folyósításán kívül – az alábbi ellátásra jogosult a rendvédelmi szervtől:
 
 a) kiküldetési ellátmány,
 
@@ -16,4 +16,4 @@ f) személyre szóló élet- és balesetbiztosítás.
 
 (3) Az (1) bekezdés b)–d) pontja szerinti ellátásra a 32/F–32/H. §-t, az (1) bekezdés e) pontja szerinti egészségbiztosításra a 32/C. § (2) bekezdését kell alkalmazni.
 
-[^43]: A 32/J. §-t a 272/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.
+[^53]: A 32/J. §-t a 272/2018. (XII. 20.) Korm. rendelet 4. §-a iktatta be.

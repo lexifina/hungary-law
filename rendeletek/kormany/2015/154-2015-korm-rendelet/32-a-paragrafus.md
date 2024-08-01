@@ -1,4 +1,4 @@
-32/A. §[^35] (1) A Hszt. 69. § (1) bekezdés a) pontja szerinti külföldre vezénylés esetében a miniszter a pályázat támogathatóságáról
+32/A. §[^45] (1) A Hszt. 69. § (1) bekezdés a) pontja szerinti külföldre vezénylés esetében a miniszter a pályázat támogathatóságáról
 
 a) a pályázatot kiíró nemzetközi szervezet céljai,
 
@@ -24,11 +24,11 @@ d) a missziós feladatra történő felkészítésen részt vett.
 
 (3) A Hszt. 69. § (1) bekezdés d) pontja alapján külföldi feladatellátásra vagy külföldi képzésben történő részvételre történő külföldre vezénylés a (2) bekezdés a)–c) pontjában foglalt feltételek, valamint – ha a felkészítés szükséges – a külföldi feladatellátásra történő felkészítésen való részvétel esetén rendelhető el.
 
-(4)[^36] A külföldre vezénylésről szóló határozat tartalmazza
+(4)[^46] A külföldre vezénylésről szóló határozat tartalmazza
 
 a) minden esetben azt, hogy a Hszt. 69. § (1) bekezdésének mely pontján alapul a külföldre vezénylés elrendelése,
 
 b) a Hszt. 69. § (3) bekezdésének megfelelő pontjára történő hivatkozást, ha a külföldre vezénylést ezen pontok valamelyike alapján az országos parancsnok vagy országos főigazgató rendelte el.
 
-[^35]: A 32/A. §-t a 442/2015. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
-[^36]: A 32/A. § (4) bekezdését a 259/2021. (V. 20.) Korm. rendelet 34. §-a ikattta be.
+[^45]: A 32/A. §-t a 442/2015. (XII. 28.) Korm. rendelet 2. §-a iktatta be.
+[^46]: A 32/A. § (4) bekezdését a 259/2021. (V. 20.) Korm. rendelet 34. §-a ikattta be.

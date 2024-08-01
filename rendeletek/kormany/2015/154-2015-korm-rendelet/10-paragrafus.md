@@ -1,14 +1,16 @@
 ## 5. Áthelyezés
 
-10. § (1) A hivatásos állomány tagjának
+10. § (1)[^11] A hivatásos állomány tagjának
 
-a)[^8] közszolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti jogviszonyba történő áthelyezése,
+a) közszolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati vagy rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezése,
 
-b) más rendvédelmi szervhez történő áthelyezése, vagy
+b) más rendvédelmi szervhez történő áthelyezése,
 
-c) a Magyar Honvédséghez történő áthelyezése
+c) a Magyar Honvédséghez történő áthelyezése vagy
 
-[az a)–c) pontban foglaltak a továbbiakban együtt: áthelyezés] a hivatásos állomány tagja vagy az átvevő szerv kezdeményezésére történik.
+d) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezése
+
+[az a)–d) pontban foglaltak a továbbiakban együtt: áthelyezés] a hivatásos állomány tagja vagy az átvevő szerv kezdeményezésére történik.
 
 (2) Ha az áthelyezést a hivatásos állomány tagja kezdeményezi, a kérelmét az átvevő szerv vezetőjéhez címezve, szolgálati úton terjeszti elő. Az átvevő szervnek a kérelem teljesíthetőségére vonatkozó nyilatkozatáig az áthelyezéssel kapcsolatos intézkedéseket nem lehet megkezdeni. A kérelem teljesíthetőségére vonatkozó nyilatkozat beszerzése érdekében az átadó szerv az áthelyezési kérelem benyújtásától számított tizenöt napon belül megkeresi az átvevő szervet.
 
@@ -20,4 +22,17 @@ a) az áthelyezést a hivatásos állomány tagja vagy az állományilletékes p
 
 b) a hivatásos állomány tagjának kezdeményezése esetén a kérelmet az állományilletékes parancsnoknak címezve kell előterjeszteni és a kérelem teljesíthetőségére vonatkozó nyilatkozatot az állományilletékes parancsnok saját hatáskörében adja ki.
 
-[^8]: A 10. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 50. §-ával megállapított, a 628/2022. (XII. 30.) Korm. rendelet 40. § b) pontja szerint módosított szöveg.
+(5)[^12] Ha az átadó szerv állományilletékes parancsnoka nem ért egyet
+
+a) a kormányzati igazgatási szervhez kormányzati szolgálati jogviszonyba áthelyezés,
+
+b) a más miniszter irányítása alá tartozó rendvédelmi szervhez áthelyezés,
+
+c) a Magyar Honvédséghez történő áthelyezés,
+
+d) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezés
+
+kezdeményezésével, a kezdeményezéssel kapcsolatos iratokat az országos parancsnok, illetve az országos főigazgató útján a miniszterhez felterjeszti a Hszt. 96/A. § (1) bekezdésében vagy – a Hszt. 98. § (2) bekezdésében és 98/A. § (2) bekezdésében is alkalmazni rendelt – 97/A. § (1) bekezdésében foglalt miniszteri intézkedés kezdeményezése céljából.
+
+[^11]: A 10. § (1) bekezdése a 206/2024. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: A 10. § (5) bekezdését a 206/2024. (VII. 29.) Korm. rendelet 2. §-a iktatta be.

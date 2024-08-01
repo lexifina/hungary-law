@@ -18,9 +18,9 @@
 
 | 7. | Hivatásos állományba visszavétel főtiszti, tiszti rendfokozati állománycsoportba tartozó esetében | országos parancsnok, |
 
-| 8. | Magyar Honvédséghez történő áthelyezés tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő esetében | miniszter |
+| 8. | Magyar Honvédséghez történő áthelyezés vagy Nemzeti Adó- és Vámhivatalhoz történő áthelyezés tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő esetében | miniszter |
 
-| 9. | Magyar Honvédséghez történő áthelyezés ezredes kivételével főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó esetében | országos parancsnok |
+| 9. | Magyar Honvédséghez történő áthelyezés vagy Nemzeti Adó- és Vámhivatalhoz történő áthelyezés ezredes kivételével főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó esetében | országos parancsnok |
 
 | 10. | Más rendvédelmi szervhez történő áthelyezés kiemelt vezetői vagy középvezetői szolgálati beosztásból | miniszter |
 
@@ -84,7 +84,7 @@
 
 ## e) a 21. sorban meghatározottaktól eltérően a más szervhez vezénylés.
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^64]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^74]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -160,4 +160,4 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 IV. A 32/I. § (2) bekezdése és a 32/J. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^64]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.
+[^74]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 272/2018. (XII. 20.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

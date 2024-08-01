@@ -1,10 +1,12 @@
-11. § (1) Az áthelyezésről
+11. § (1)[^13] Az áthelyezésről
 
-a)[^9] a közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés esetén a Hszt. 96. §-a szerinti személyek két- vagy háromoldalú megállapodást kötnek,
+a) a közszolgálati, kormányzati szolgálati, közalkalmazotti, egészségügyi szolgálati, igazságügyi alkalmazotti szolgálati vagy rendvédelmi igazgatási szolgálati jogviszonyba történő áthelyezés esetén a Hszt. 96. §-a szerinti személyek két- vagy háromoldalú megállapodást kötnek,
 
 b) a más rendvédelmi szervhez történő áthelyezés esetén az átadó szerv, az átvevő szerv és a hivatásos állomány tagja háromoldalú megállapodást köt,
 
-c) a Magyar Honvédséghez történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a honvédelemért felelős miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a Honvéd Vezérkar főnöke és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt.
+c) a Magyar Honvédséghez történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a honvédelemért felelős miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a Honvéd Vezérkar főnöke és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt,
+
+d) a Nemzeti Adó- és Vámhivatalhoz történő áthelyezés esetén a hivatásos állomány tábornoki rendfokozati állománycsoportba tartozó vagy ezredesi rendfokozatot viselő tagja esetében a Nemzeti Adó- és Vámhivatalt irányító miniszter és a miniszter, a hivatásos állomány – ezredes kivételével – főtiszti, tiszti, zászlósi vagy tiszthelyettesi rendfokozati állománycsoportba tartozó tagja esetében a Nemzeti Adó- és Vámhivatal vezetője és az országos parancsnok a hivatásos állomány tagjával háromoldalú megállapodást köt.
 
 (2) Az áthelyezésről szóló megállapodást az átadó szervvel folytatott egyeztetés alapján az átvevő szerv készíti elő.
 
@@ -14,4 +16,4 @@ c) a Magyar Honvédséghez történő áthelyezés esetén a hivatásos állomá
 
 (5) Ha az áthelyezésre a rendvédelmi szerven belül kerül sor, az áthelyezett személyi anyaggyűjtőjét az átadó szerv az áthelyezés elrendelését követően az átvevő szerv részére végleg eredetben átadja.
 
-[^9]: A 11. § (1) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 51. §-ával megállapított szöveg.
+[^13]: A 11. § (1) bekezdése a 206/2024. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.

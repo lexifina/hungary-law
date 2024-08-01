@@ -12,7 +12,7 @@ c) a betöltendő munkakör vagy ellátandó feladat megjelölését,
 
 d) a munkáltatói jogkört gyakorló személyeket és azok munkáltatói jogköreit,
 
-e) a vezényeltet a más szervhez vezénylés tartamára megillető illetményt vagy az annak alapjául szolgáló besorolást,
+e)[^16] a vezényeltet a más szervhez vezénylés tartamára megillető, a Hszt. 63. § (4a)–(4c) bekezdésére figyelemmel is megállapított illetményt vagy az annak alapjául szolgáló besorolást,
 
 f) a vezényeltet megillető jogosultságok és az őt terhelő kötelezettségek meghatározását,
 
@@ -22,11 +22,12 @@ h) a vezényeltnek arra vonatkozó kifejezett nyilatkozatát, hogy a megállapod
 
 (2) A vezénylési megállapodással érintett felek: a vezénylő szerv, a vezénylésre jogosult elöljáró, a miniszter, a fogadó szerv, a fogadó szerv irányítását vagy felügyeletét ellátó miniszter és a vezényelt.
 
-(2a)[^11] A vezénylési megállapodást a vezénylő szervvel folytatott egyeztetés alapján a fogadó szerv készíti elő.
+(2a)[^17] A vezénylési megállapodást a vezénylő szervvel folytatott egyeztetés alapján a fogadó szerv készíti elő.
 
-(3)[^12] A vezénylési megállapodás a más szervhez vezénylés tartama alatt a vezénylési megállapodást aláíró felek egyetértésével módosítható, a más szervhez vezénylés tartama azonban – a Hszt. 62. § (5) és (6) bekezdésében, 327. §-ában és 335. § (3) bekezdésében meghatározott kivételekkel – a módosítással sem lépheti túl a Hszt. 62. § (2) bekezdésében meghatározott időtartamot.
+(3)[^18] A vezénylési megállapodás a más szervhez vezénylés tartama alatt a vezénylési megállapodást aláíró felek egyetértésével módosítható, a más szervhez vezénylés tartama azonban – a Hszt. 62. § (5) és (6) bekezdésében, 327. §-ában és 335. § (3) bekezdésében meghatározott kivételekkel – a módosítással sem lépheti túl a Hszt. 62. § (2) bekezdésében meghatározott időtartamot.
 
 (4) A rendőrség különleges foglalkoztatási állományába tartozó tagjának a Hszt. 325. § (1) bekezdése szerinti, a közfoglalkoztatás szervezésére, irányítására és végrehajtására irányuló feladatok ellátására létrehozott közigazgatási szervhez vezénylésére az országos rendőrfőkapitány és a vezénylés helye szerinti közigazgatási szerv megállapodása alapján kerül sor.
 
-[^11]: A 15. § (2a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 6. §-a iktatta be.
-[^12]: A 15. § (3) bekezdése a 280/2023. (VI. 29.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^16]: A 15. § (1) bekezdés e) pontja a 206/2024. (VII. 29.) Korm. rendelet 7. § i) pontja szerint módosított szöveg.
+[^17]: A 15. § (2a) bekezdését a 394/2015. (XII. 12.) Korm. rendelet 6. §-a iktatta be.
+[^18]: A 15. § (3) bekezdése a 280/2023. (VI. 29.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
