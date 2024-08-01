@@ -1,4 +1,4 @@
-## 10/B. §[^22] E rendeletnek a Nemzeti Kommunikációs Hivatal feladataival, valamint a településkép védelmével összefüggő egyes kormányrendeletek módosításáról szóló 99/2018. (VI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^23] követően indult eljárásokban kell alkalmazni.
+## 10/B. §[^25] E rendeletnek a Nemzeti Kommunikációs Hivatal feladataival, valamint a településkép védelmével összefüggő egyes kormányrendeletek módosításáról szóló 99/2018. (VI. 8.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépését[^26] követően indult eljárásokban kell alkalmazni.
 
 ## 5. Az Európai Unió jogának való megfelelés
 
@@ -8,5 +8,5 @@
 
 (3) E rendelet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-[^22]: A 10/B. §-t a 99/2018. (VI. 8.) Korm. rendelet 18. §-a iktatta be.
-[^23]: A hatálybalépés időpontja 2018. június 9.
+[^25]: A 10/B. §-t a 99/2018. (VI. 8.) Korm. rendelet 18. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2018. június 9.

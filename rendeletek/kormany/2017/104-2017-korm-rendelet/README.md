@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-104-20-
 | 2020-03-01 | 2017-104-20-22.9 | 360/2019. (XII. 30.) Korm. rendelet |
 | 2021-01-01 | 2017-104-20-22.10 | 713/2020. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2017-104-20-22.11 | 360/2019. (XII. 30.) Korm. rendelet |
+| 2024-08-01 | 2017-104-20-22.12 | 219/2024. (VII. 31.) Korm. rendelet |

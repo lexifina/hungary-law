@@ -1,4 +1,4 @@
-## 3/A. [^4] A közpénzekkel való felelős gazdálkodásra kötelezett szervezetekre vonatkozó különös szabályok
+## 3/A. [^5] A közpénzekkel való felelős gazdálkodásra kötelezett szervezetekre vonatkozó különös szabályok
 
 ## 8/A. § Nem tehető közzé reklám, illetve plakát, amennyiben
 
@@ -10,4 +10,4 @@ c) a listaártól való eltérésre a közbeszerzésekről szóló törvény ala
 
 d) a reklámozó a szerződés megküldésére vonatkozó kötelezettségének nem tett eleget.
 
-[^4]: A 3/A. alcímet (8/A–8/D. §) a 191/2017. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
+[^5]: A 3/A. alcímet (8/A–8/D. §) a 191/2017. (VII. 7.) Korm. rendelet 1. §-a iktatta be.
