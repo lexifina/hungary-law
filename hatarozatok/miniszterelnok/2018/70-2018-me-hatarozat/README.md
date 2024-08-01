@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2018-70-30-6
 | 2022-11-22 | 2018-70-30-63.4 | 94/2022. (XI. 30.) ME határozat |
 | 2022-12-01 | 2018-70-30-63.5 | 120/2022. (XII. 23.) ME határozat |
 | 2024-01-01 | 2018-70-30-63.6 | 113/2020. (XII. 22.) ME határozat |
+| 2024-08-01 | 2018-70-30-63.7 | 113/2020. (XII. 22.) ME határozat |
