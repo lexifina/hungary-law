@@ -20,13 +20,13 @@ c) az akciótervben szereplő konstrukciók és tartalék támogatási konstrukc
 
 2. Az akcióterv elkészítése és jóváhagyása
 
-2.1. Az európai uniós források felhasználásáért felelős miniszter által vezetett minisztériumban működő központi koordinációs szervezeti egység (a továbbiakban: központi koordinációs szerv) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
+2.1. A Nemzeti Fejlesztési Központ (a továbbiakban: NFK) akcióterv sablont, és ahhoz tartozó kitöltési útmutatót készít.
 
-2.2. Az akcióterv koncepcióját és első tervezetét a 2.1. pont szerinti sablon és útmutató alapján az adott irányító hatóság (a továbbiakban: IH) a beérkező igények alapján – szükség esetén a minisztériumok, a közreműködő szervezetek (a továbbiakban: KSZ) bevonásával – készíti el az ágazati stratégiák alapján.
+2.2. Az akcióterv koncepcióját és első tervezetét a 2.1. pont szerinti sablon és útmutató alapján az IH a beérkező igények alapján – szükség esetén a minisztériumok, a közreműködő szervezetek (a továbbiakban: KSZ) bevonásával – készíti el az ágazati stratégiák alapján.
 
-3.1. Az elkészült tervezetet a központi koordinációs szerv a minőségbiztosítási szempontjai alapján megvizsgálja és szükség esetén javaslatokat fogalmaz meg.
+3.1. Az elkészült tervezetet az NFK a minőségbiztosítási szempontjai alapján megvizsgálja és szükség esetén javaslatokat fogalmaz meg.
 
-3.2. A 3.1. pont szerinti minőségbiztosítást követően az IH megküldi a tervezetet a központi koordinációs szerv részére.
+3.2. A 3.1. pont szerinti minőségbiztosítást követően az IH megküldi a tervezetet az NFK részére.
 
 3.3. A Monitoring Bizottság
 
@@ -34,15 +34,15 @@ a) megtárgyalja az akciótervet,
 
 b) jóváhagyja a kiválasztási szempontrendszert.
 
-3.4. Legkésőbb a monitoring bizottsági üléssel egyidejűleg a központi koordinációs szerv koordinálása mellett az IH biztosítja – a partnerség elvének megfelelően – az akcióterv társadalmi konzultációra bocsátását.
+3.4. Legkésőbb a monitoring bizottsági üléssel egyidejűleg az NFK koordinálása mellett az IH biztosítja – a partnerség elvének megfelelően – az akcióterv társadalmi konzultációra bocsátását.
 
 4.1. A társadalmi konzultáció lebonyolítását és a monitoring bizottsági ülést követően az IH a KSZ-ek, az ágazati fejlesztésért felelős miniszter, valamint szükség esetén az érintett miniszter bevonásával véglegesíti az akciótervet, megjelenítve abban a társadalmi vita eredményeit.
 
-4.2. Az IH összeállítja az akciótervet tartalmazó előterjesztést és megküldi a központi koordinációs szerv részére.
+4.2. Az IH összeállítja az akciótervet tartalmazó előterjesztést és megküldi az NFK részére.
 
-4.3. A központi koordinációs szerv a 4.2. pont szerinti előterjesztést a Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) elé terjeszti. Az előterjesztésről az FKB javaslatára a Kormány dönt.
+4.3. Az NFK a 4.2. pont szerinti előterjesztést a Fejlesztéspolitikai Koordinációs Bizottság (a továbbiakban: FKB) elé terjeszti. Az előterjesztésről az FKB javaslatára a Kormány dönt.
 
-4.4. A központi koordinációs szerv gondoskodik a megfelelő tartalmú, egységes szerkezetű akcióterveknek a www.szechenyi2020.hu honlapon való közzétételéről és folyamatos aktualizálásáról.
+4.4. Az NFK gondoskodik a megfelelő tartalmú, egységes szerkezetű akcióterveknek a www.szechenyi2020.hu honlapon való közzétételéről és folyamatos aktualizálásáról.
 
 3. Az akcióterv stratégiai környezeti vizsgálata
 
@@ -66,11 +66,11 @@ b) jóváhagyja a kiválasztási szempontrendszert.
 
 5. Többlet-kötelezettségvállalás
 
-7.1. A központi koordinációs szerv negyedévi rendszerességgel tájékoztatót küld az IH-k részére az akcióterv finanszírozási keretének felhasználásáról.
+7.1. Az NFK negyedévi rendszerességgel tájékoztatót küld az IH-k részére az akcióterv finanszírozási keretének felhasználásáról.
 
-7.2. Az IH a központi koordinációs szervtől kapott tájékoztató alapján megvizsgálja a többletkötelezettség-vállalási igény felmerülésének tényét, figyelemmel a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet (a továbbiakban: Rendelet) 29/B. §-ára.
+7.2. Az IH az NFK-tól kapott tájékoztató alapján megvizsgálja a többletkötelezettség-vállalási igény felmerülésének tényét, figyelemmel a 2007-2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet (a továbbiakban: Rendelet) 29/B. §-ára.
 
-7.3. Az IH, egyeztetve a központi koordinációs szervvel, többletkötelezettség-vállalási igényt jelent be az államháztartásért felelős miniszternek, figyelemmel a Rendelet 29/C. §-ára.
+7.3. Az IH, egyeztetve az NFK-val, többletkötelezettség-vállalási igényt jelent be az államháztartásért felelős miniszternek, figyelemmel a Rendelet 29/C. §-ára.
 
 7.4. Az államháztartásért felelős miniszter jóváhagyása esetén a prioritás keretének megemelése érdekében az IH előkészíti az érintett akcióterv módosítását, amelynek elfogadására a 8.1.-8.3. pont szerint kerül sor.
 
@@ -80,13 +80,13 @@ b) jóváhagyja a kiválasztási szempontrendszert.
 
 a) a 7.4. pont szerinti jóváhagyást követően az IH előterjesztést készít a meglévő konstrukció keretének megemeléséről, illetve a tartalék támogatási konstrukciók aktiválásáról,
 
-b) az IH az előterjesztést megküldi a központi koordinációs szerv részére,
+b) az IH az előterjesztést megküldi az NFK részére,
 
-c) a központi koordinációs szerv – egyetértése esetén – az előterjesztést az FKB elé terjeszti,
+c) az NFK – egyetértése esetén – az előterjesztést az FKB elé terjeszti,
 
 d) az előterjesztésről az FKB javaslatára a Kormány dönt,
 
-e) a központi koordinációs szerv a javaslattal kapcsolatos jóváhagyásról vagy elutasításról haladéktalanul értesíti az IH-t.
+e) az NFK a javaslattal kapcsolatos jóváhagyásról vagy elutasításról haladéktalanul értesíti az IH-t.
 
 8.3. Ha az akcióterv keretében korábban nem került sor tartalék konstrukciók nevesítésére, vagy az összes nevesített tartalék konstrukció aktiválásra került, de azok összesített kerete nem fedi le a keretnövekmény teljes összegét, akkor a többletkötelezettség-vállalás miatti keretnövekmény lekötése érdekében intézkedni szükséges az akcióterv 4. alcím szerinti módosításáról.
 
@@ -94,9 +94,9 @@ e) a központi koordinációs szerv a javaslattal kapcsolatos jóváhagyásról 
 
 9.1. Az IH az akcióterv módosítás keretében gondoskodhat arról, hogy az adott operatív program prioritásai 2007-2013 programozási időszakra vonatkozó finanszírozási keretének legalább 5%-át elérő mértékben tartalék támogatási konstrukciók kerüljenek kialakításra.
 
-9.2. Tartalék támogatási konstrukció tervezését az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter, ha a támogatási konstrukció szakmai tartalmának meghatározása nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter feladatkörébe tartozik, az ágazati fejlesztésért felelős miniszter kezdeményezheti.
+9.2. Tartalék támogatási konstrukció tervezését az IH-feladatokat ellátó szervezet, ha a támogatási konstrukció szakmai tartalmának meghatározása nem az IH-feladatokat ellátó szervezet feladatkörébe tartozik, az ágazati fejlesztésért felelős miniszter kezdeményezheti.
 
-9.3. Ha az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter kezdeményezi a tartalék támogatási konstrukció tervezését, a Rendelet 21. § (1a) bekezdése szerinti eljárás alkalmazandó.
+9.3. Ha az IH-feladatokat ellátó szervezet kezdeményezi a tartalék támogatási konstrukció tervezését, a Rendelet 21. § (1a) bekezdése szerinti eljárás alkalmazandó.
 
 9.4. A tartalék támogatási konstrukció tervezésekor és jóváhagyásakor a 2. alcím szerint kell eljárni.
 
@@ -106,13 +106,13 @@ e) a központi koordinációs szerv a javaslattal kapcsolatos jóváhagyásról 
 
 10.2. Ha az ágazati fejlesztésért felelős miniszter kezdeményezi a visszavonást, akkor azt szakmai indokkal kell alátámasztania.
 
-10.3. Ha a konstrukció nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter feladatkörébe tartozik, az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter csak a gyors forrás-felhasználást lehetővé tevő konstrukciók indítása miatt kezdeményezheti a visszavonást – az ágazati fejlesztésért felelős miniszter véleményének egyidejű kikérése mellett.
+10.3. Ha a konstrukció nem az IH-feladatokat ellátó szervezet feladatkörébe tartozik, az IH-feladatokat ellátó szervezet csak a gyors forrásfelhasználást lehetővé tevő konstrukciók indítása miatt kezdeményezheti a visszavonást, az ágazati fejlesztésért felelős miniszter véleményének egyidejű kikérése mellett.
 
 11.1. Tartalék támogatási konstrukció cseréje a 9.2. pont szerint kezdeményezhető.
 
 11.2. Ha az ágazati fejlesztésért felelős miniszter kezdeményezi a cserét, akkor azt az új szakmai koncepció egyidejű benyújtásával és a csere szakmai alátámasztásával együtt kell megtennie.
 
-11.3. Ha a konstrukció nem az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter feladatkörébe tartozik, az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter csak a gyors forrás-felhasználást lehetővé tevő konstrukciók indítása miatt kezdeményezheti a cserét az ágazati fejlesztésért felelős miniszter véleményének egyidejű kikérése mellett.
+11.3. Ha a konstrukció nem az IH-feladatokat ellátó szervezet feladatkörébe tartozik, az IH-feladatokat ellátó szervezet csak a gyors forrásfelhasználást lehetővé tevő konstrukciók indítása miatt kezdeményezheti a cserét az ágazati fejlesztésért felelős miniszter véleményének egyidejű kikérése mellett.
 
 7. Az akcióterv értékelése
 
@@ -136,7 +136,7 @@ A pályázati felhívások elkészítése, meghirdetése
 
 13.3. Az IH a szakmai tartalom befogadásáról szóló nyilatkozatot ad ki az ágazati fejlesztésért felelős miniszternek. Ha az IH 5 napon belül nem ad visszajelzést a szakmai tartalom befogadásáról, akkor azt befogadottnak kell tekinteni.
 
-13.4. Az IH a véglegesített szakmai tartalom beérkezésétől számított 30 napon belül elkészíti a pályázati felhívást és jóváhagyásra, közzétételre megküldi a központi koordinációs szerv részére.
+13.4. Az IH a véglegesített szakmai tartalom beérkezésétől számított 30 napon belül elkészíti a pályázati felhívást és jóváhagyásra, közzétételre megküldi az NFK részére.
 
 13.5. Az IH a pályázati felhívás elkészítésébe bevonhatja a KSZ-t.
 
@@ -152,11 +152,11 @@ A pályázati felhívások elkészítése, meghirdetése
 
 15.4. Ha PEMCS megtartására kerül sor, az ülések nyilvántartását, dokumentálását a www.szechenyi2020.hu honlapon elérhető Elektronikus HelpDesk (a továbbiakban: EHD) PEMCS moduljában kell nyilvántartani.
 
-15.5. Ha az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter az ágazati fejlesztésért felelős miniszter, a 13.1.-13.5. pontban foglaltakat a Rendelet 5/A. § (2) bekezdése alapján az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában kell rendezni.
+15.5. Ha az IH-feladatokat ellátó szervezet vezetője az ágazati fejlesztésért felelős miniszter, a 13.1–13.5. pontban foglaltakat a Rendelet 5/A. § (2) bekezdése alapján az IH-feladatokat ellátó szervezet szervezeti és működési szabályzatában vagy egyéb szabályzatában kell rendezni.
 
 9. A pályázati felhívás elkészítése
 
-16.1. A pályázati felhívást az IH az európai uniós források felhasználásáért felelős miniszter által kiadott és a www.szechenyi2020.hu honlapon közzétett, a központi koordinációs szervre, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
+16.1. A pályázati felhívást az IH az NFK által kiadott és a www.szechenyi2020.hu honlapon közzétett, az NFK-ra, az IH-ra, a KSZ-re és a kedvezményezettre vonatkozó
 
 a) arculati kézikönyv,
 
@@ -180,9 +180,9 @@ alapján köteles kidolgozni.
 
 16.6. Az IH-nak a pályázati felhívás keretében gondoskodnia kell arról, hogy a pályázó tájékoztatást kapjon annak tényéről, hogy a vele kapcsolatos, az Országos Cégnyilvántartó és Céginformációs Rendszerben (a továbbiakban: OCCR adatbázis) elérhető adatok, vagy azok egy része a támogató által felhasználásra kerül.
 
-16.7. Az ügyfél-tájékoztatási rendszer működését tekintve a központi koordinációs szerv által a KSZ-k és az IH-k számára készített Ügyfélkezelési és Információ-szolgáltatási Kézikönyv az irányadó, amely alapján a KSZ-ekkel együttműködő egycsatornás (egyablakos) ügyfél-tájékoztatási rendszer keretében az ügyfélszolgálat minden pontján, azonos kiszolgálási színvonalon, azonos tartalmú tájékoztatást tud nyújtani.
+16.7. Az ügyfél-tájékoztatási rendszer működését tekintve az NFK által a KSZ-k és az IH-k számára készített Ügyfélkezelési és Információ-szolgáltatási Kézikönyv az irányadó, amely alapján a KSZ-ekkel együttműködő egycsatornás (egyablakos) ügyfél-tájékoztatási rendszer keretében az ügyfélszolgálat minden pontján, azonos kiszolgálási színvonalon, azonos tartalmú tájékoztatást tud nyújtani.
 
-16.8. A központi koordinációs szerv működteti és koordinálja azt az ügyfél-tájékoztatási rendszert, amely a fejlesztéspolitikai intézményrendszer fejlesztési programjaira kiterjedően nyújt tájékoztatást elektronikus, írásbeli, telefonos és személyes csatornákon keresztül, a KSZ-ekkel együttműködő egyablakos ügyfél-tájékoztatási rendszer keretében.
+16.8. Az NFK működteti és koordinálja azt az ügyfél-tájékoztatási rendszert, amely a fejlesztéspolitikai intézményrendszer fejlesztési programjaira kiterjedően nyújt tájékoztatást elektronikus, írásbeli, telefonos és személyes csatornákon keresztül, a KSZ-ekkel együttműködő egyablakos ügyfél-tájékoztatási rendszer keretében.
 
 17. Ha egy adott pályázati felhívásra kis- és középvállalkozások is nyújthatnak be pályázatot, a pályázati felhívásban elő kell írni, hogy a projektadatlapot kizárólag elektronikusan lehet beadni, kinyomtatott és cégszerűen aláírt nyilatkozattal együtt. A nyilatkozat és az elektronikus adathordozóra mentett projektadatlap és azok mellékletei együtt képezik a pályázatot.
 
@@ -192,13 +192,13 @@ alapján köteles kidolgozni.
 
 10. A pályázati felhívás társadalmi egyeztetése
 
-20.1. A pályázati felhívások társadalmi egyeztetését a központi koordinációs szerv koordinálása mellett az IH végzi.
+20.1. A pályázati felhívások társadalmi egyeztetését az NFK koordinálása mellett az IH végzi.
 
-20.2. Ennek keretében a központi koordinációs szerv
+20.2. Ennek keretében az NFK
 
 a) az IH-któl kapott tájékoztatás alapján társadalmi egyeztetési ütemtervet dolgoz ki és koordinálja a végrehajtását,
 
-b) a 10 napig tartó társadalmi vita indulásáról szóló rövid hírt tesz közzé honlapján és ezzel egyidejűleg feltölti a véleményezésre kerülő dokumentumokat, továbbá elektronikus úton tájékoztatja az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt minisztert és a Támogatásokat Vizsgáló Irodát (a továbbiakban: TVI),
+b) a 10 napig tartó társadalmi vita indulásáról szóló rövid hírt tesz közzé honlapján és ezzel egyidejűleg feltölti a véleményezésre kerülő dokumentumokat, továbbá elektronikus úton tájékoztatja az IH-t és a Támogatásokat Vizsgáló Irodát (a továbbiakban: TVI),
 
 c) az egyeztetés indulásáról szóló tájékoztató levelet küld a partnerségi fórumon regisztrált felhasználóknak,
 
@@ -230,9 +230,9 @@ h) a válaszokat közzéteszi a www.szechenyi2020.hu honlapon a véleményezőke
 
 12. A pályázati felhívás jóváhagyása
 
-23.1. A társadalmi vita eredményét, a beérkezett tárcavéleményeket és a TVI véleményét tükröző felhívás tervezetét legkésőbb a szakmai koncepció beérkezését követő 34. napon az IH – a TVI mellett – a központi koordinációs szerv részére is megküldi 5 napos határidővel jóváhagyás és közzététel céljából.
+23.1. A társadalmi vita eredményét, a beérkezett tárcavéleményeket és a TVI véleményét tükröző felhívás tervezetét legkésőbb a szakmai koncepció beérkezését követő 34. napon az IH – a TVI mellett – az NFK részére is megküldi 5 napos határidővel jóváhagyás és közzététel céljából.
 
-23.2. A központi koordinációs szerv az egységes formai és tartalmi követelmények, valamint az operatív programok támogatási konstrukciói közötti összhang biztosítása céljából megvizsgálja a pályázati felhívásokat.
+23.2. Az NFK az egységes formai és tartalmi követelmények, valamint az operatív programok támogatási konstrukciói közötti összhang biztosítása céljából megvizsgálja a pályázati felhívásokat.
 
 23.3.Ha az IH a pályázati felhívást és az azokhoz tartozó útmutatókat és segédleteket nem
 
@@ -240,19 +240,19 @@ a) a Rendelettel,
 
 b) az egységes működési kézikönyvvel,
 
-c) a központi koordinációs szerv által kiadott és a www.szechenyi2020.hu oldalon közzétett arculati kézikönyvvel, az elszámolható költségek nemzeti szabályzatával,
+c) az NFK által kiadott és a www.szechenyi2020.hu oldalon közzétett arculati kézikönyvvel, az elszámolható költségek nemzeti szabályzatával,
 
 d) az állami költségvetési kedvezményezettek sajáterő támogatásának szabályaival,
 
-e) a központi koordinációs szerv által kiadott és jóváhagyott egységes dokumentum-sablonokkal, vagy
+e) az NFK által kiadott és jóváhagyott egységes dokumentum-sablonokkal, vagy
 
 f) az adott operatív program, illetve más operatív program valamely felhívásával,
 
-összhangban készíti el, a központi koordinációs szerv a pályázati felhívást 5 napon belül visszaküldi átdolgozás céljából az IH részére.
+összhangban készíti el, az NFK a pályázati felhívást 5 napon belül visszaküldi átdolgozás céljából az IH részére.
 
-23.4. A központi koordinációs szerv egyetértése esetén az IH által megküldött pályázati felhívást közzéteszi.
+23.4. Az NFK egyetértése esetén az IH által megküldött pályázati felhívást közzéteszi.
 
-23.5. A végleges dokumentáció megjelentetése előtt az IH felkészíti a központi koordinációs szerv ügyfélszolgálati feladatait ellátó szervezeti egységét a megjelenő pályázati konstrukció feltételeiről. A felkészítés jóváhagyását követően a központi koordinációs szerv a Rendelet 21. § (1e) bekezdése szerint jár el, a www.szechenyi2020.hu honlapra feltölti a pályázati felhívás végleges dokumentumait a megfelelő adatokkal.
+23.5. A végleges dokumentáció megjelentetése előtt az IH felkészíti az NFK ügyfélszolgálati feladatait ellátó szervezeti egységét a megjelenő pályázati konstrukció feltételeiről. A felkészítés jóváhagyását követően az NFK a Rendelet 21. § (1e) bekezdése szerint jár el, a www.szechenyi2020.hu honlapra feltölti a pályázati felhívás végleges dokumentumait a megfelelő adatokkal.
 
 13. A pályázati felhívás adatainak továbbítása a Kincstár Monitoring Rendszer felé
 
@@ -264,9 +264,9 @@ f) az adott operatív program, illetve más operatív program valamely felhívá
 
 14. A pályázati felhívás módosítása
 
-25.1. Az IH haladéktalanul módosítja, a központi koordinációs szerv a www.szechenyi2020.hu honlapon közzéteszi a módosított pályázati felhívást, ha az operatív program, az akcióterv, jogszabály módosítása miatt vagy egyéb okból a felhívás módosítása szükségessé válik.
+25.1. Az IH haladéktalanul módosítja, az NFK a www.szechenyi2020.hu honlapon közzéteszi a módosított pályázati felhívást, ha az operatív program, az akcióterv, jogszabály módosítása miatt vagy egyéb okból a felhívás módosítása szükségessé válik.
 
-25.2. Az IH a módosítások kiemelésével közleményt készít, biztosítva a hiánypótlás keretében való korrekciót. A közleményt – annak jóváhagyását követően – a központi koordinációs szerv teszi közzé a www.szechenyi2020.hu honlapon.
+25.2. Az IH a módosítások kiemelésével közleményt készít, biztosítva a hiánypótlás keretében való korrekciót. A közleményt – annak jóváhagyását követően – az NFK teszi közzé a www.szechenyi2020.hu honlapon.
 
 25.3. A támogatást igénylő, ha a projektjavaslatot a módosítás előtti feltételekkel nyújtotta be, a felhívás módosítása miatt nem kerülhet kedvezőtlenebb helyzetbe azzal szemben, aki a projektjavaslatot a módosított feltételeknek megfelelően nyújtotta be.
 
@@ -284,9 +284,9 @@ b) az a) pont szerinti eseteken kívül a 12. alcímben foglaltak szerint kell m
 
 26.1. Az IH a pályázatot felfüggesztheti vagy lezárhatja folyamatos elbírálás esetén, ha a támogatásra rendelkezésre álló kötelezettségvállalási keret kimerült vagy annak kimerülése előre jelezhető.
 
-26.2. A 26.1. pontban foglaltakról a központi koordinációs szerv automatikus tájékoztatást kap a Belső Információs Rendszeren (a továbbiakban: BIR) keresztül.
+26.2. A 26.1. pontban foglaltakról az NFK automatikus tájékoztatást kap a Belső Információs Rendszeren (a továbbiakban: BIR) keresztül.
 
-26.3. A pályázati felhívás felfüggesztéséről szóló tájékoztatást az IH kezdeményezésére a központi koordinációs szerv – annak jóváhagyását követően – a www.szechenyi2020.hu honlapon közzéteszi.
+26.3. A pályázati felhívás felfüggesztéséről szóló tájékoztatást az IH kezdeményezésére az NFK – annak jóváhagyását követően – a www.szechenyi2020.hu honlapon közzéteszi.
 
 26.4. A benyújtási lehetőség felfüggesztése az erről szóló tájékoztató honlapon való megjelenését követő 3. naptól lehetséges.
 
@@ -410,7 +410,7 @@ e) vonalkódját [ID-kód, amely magában foglalja az a)-d) pontok szerinti adat
 
 37.2. Az eredeti pályázati dokumentációt (projektdossziét) a projektmenedzser vagy a KSZ által kijelölt más személy tárolja.
 
-37.3. A központi irattárolás rendjét a központi koordinációs szerv külön szabályzatban határozza meg, amely a lebonyolításban résztvevő szervezetek számára alkalmazandó. A szabályzat elérhető a www.szechenyi2020.hu honlapon.
+37.3. A központi irattárolás rendjét az NFK külön szabályzatban határozza meg, amely a lebonyolításban résztvevő szervezetek számára alkalmazandó. A szabályzat elérhető a www.szechenyi2020.hu honlapon.
 
 22. A befogadási kritériumok ellenőrzése
 
@@ -578,7 +578,7 @@ d) a helyszín alkalmasságát.
 
 61.4. Ha az IH-vezető a pályázat újraértékelését rendelete el, az adott pályázathoz hozzárendelt új értékelőt az IH-vezetőnek a monitoring és információs rendszerben jóvá kell hagynia.
 
-61.5. Az IH-vezetőnek a monitoring és információs rendszerben minden év december 15-ig felül kell vizsgálnia a külső értékelők jóváhagyott státuszát. A felülvizsgálat elvégzését igazoló – 4. függelék szerinti – nyilatkozatot az IH-vezetőnek a felülvizsgálatot követő 3 napon belül meg kell küldenie a központi koordinációs szerv részére.
+61.5. Az IH-vezetőnek a monitoring és információs rendszerben minden év december 15-ig felül kell vizsgálnia a külső értékelők jóváhagyott státuszát. A felülvizsgálat elvégzését igazoló – 4. függelék szerinti – nyilatkozatot az IH-vezetőnek a felülvizsgálatot követő 3 napon belül meg kell küldenie az NFK részére.
 
 35. Szerződéskötés a külső értékelőkkel
 
@@ -742,15 +742,15 @@ dönt.
 
 75.4. A tartaléklista megszüntetéséről a tartaléklistán szereplő pályázókat a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint tájékoztatni kell.
 
-76.1. Ha a projektjavaslat javasolt támogatása meghaladja az 1 milliárd forintot, az IH összeállítja a projektjavaslatot tartalmazó előterjesztést és megküldi a központi koordinációs szerv részére.
+76.1. Ha a projektjavaslat javasolt támogatása meghaladja az 1 milliárd forintot, az IH összeállítja a projektjavaslatot tartalmazó előterjesztést és megküldi az NFK részére.
 
-76.2. A központi koordinációs szerv az előterjesztést megküldi az FKB részére.
+76.2. Az NFK az előterjesztést megküldi az FKB részére.
 
 76.3. Az FKB javaslatára a Kormány dönt a projektjavaslatot tartalmazó előterjesztésről.
 
 76.4. Az IH haladéktalanul értesíti a Kormány döntéséről a KSZ-t.
 
-76.5. A Rendelet 27. §-a szerinti döntési határidőbe az előterjesztésnek a központi koordinációs szerv részére történő megküldésétől a Kormány döntésének meghozataláig terjedő időtartam nem számít bele.
+76.5. A Rendelet 27. §-a szerinti döntési határidőbe az előterjesztésnek az NFK részére történő megküldésétől a Kormány döntésének meghozataláig terjedő időtartam nem számít bele.
 
 43. Az újraértékelés
 
@@ -986,7 +986,7 @@ amelyről a bejelentés beérkezését követő 10 napon belül írásban, a XVI
 
 50. A támogatói okirat
 
-102.1. Könnyített elbírálású támogatás esetén, illetve, ha a felhívásban támogatói okirat kibocsátásáról rendelkeztek, a KSZ a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium nevében támogatói okiratot bocsát ki.
+102.1. Könnyített elbírálású támogatás esetén, illetve, ha a felhívásban támogatói okirat kibocsátásáról rendelkeztek, a KSZ az IH-feladatokat ellátó szervezet nevében támogatói okiratot bocsát ki.
 
 102.2. A támogatási szerződésre vonatkozó alcímekben foglaltakat támogatói okirat alkalmazása esetén ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
@@ -1004,9 +1004,9 @@ V. Fejezet
 
 A nagyprojektek
 
-105.1. Ha egy projekt összköltsége eléri az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 39. cikke szerinti nagyprojekt értékhatárát, a támogatói döntést követően az IH e tárgyban előterjesztést állít össze és azt megküldi a központi koordinációs szerv részére.
+105.1. Ha egy projekt összköltsége eléri az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet (a továbbiakban: 1083/2006/EK tanácsi rendelet) 39. cikke szerinti nagyprojekt értékhatárát, a támogatói döntést követően az IH e tárgyban előterjesztést állít össze és azt megküldi az NFK részére.
 
-105.2. A központi koordinációs szerv az előterjesztést az FKB részére előterjeszti.
+105.2. Az NFK az előterjesztést az FKB részére előterjeszti.
 
 105.3. Az FKB javaslatára a Kormány dönt a nagyprojektre vonatkozóan az Európai Bizottság számára benyújtandó javaslat elfogadásáról és a támogatási kérelem Európai Bizottság számára történő megküldéséről.
 
@@ -1022,7 +1022,7 @@ A nagyprojektek
 
 106.4. A támogatási kérelemben – a Kormány eltérő döntése hiányában – a maximális EU támogatási arányt kell kérni az Európai Bizottságtól.
 
-106.5. Ha az Európai Bizottság befogadja az IH által küldött támogatási kérelmet, az IH a támogatási kérelem Európai Bizottság általi befogadásának tényéről írásban tájékoztatja a KSZ-t, a központi koordinációs szervet, az ágazati fejlesztésért felelős minisztert, a kedvezményezettet és az Igazoló Hatóságot. Az érintett miniszter tájékoztatásáról – ha szükséges – az ágazati fejlesztésért felelős miniszter gondoskodik.
+106.5. Ha az Európai Bizottság befogadja az IH által küldött támogatási kérelmet, az IH a támogatási kérelem Európai Bizottság általi befogadásának tényéről írásban tájékoztatja a KSZ-t, az NFK-t, az ágazati fejlesztésért felelős minisztert, a kedvezményezettet és az Igazoló Hatóságot. Az érintett miniszter tájékoztatásáról – ha szükséges – az ágazati fejlesztésért felelős miniszter gondoskodik.
 
 107.1. Ha az Európai Bizottság a befogadott dokumentumokhoz kiegészítő információkat kér, az IH a kedvezményezett, a KSZ, illetve – ha szükséges – külső szakértők bevonásával a megadott határidőn belül gondoskodik a kiegészítő információk Európai Bizottság részére történő megküldéséről.
 
@@ -1046,9 +1046,9 @@ A nagyprojektek
 
 111.2. Az IH felülvizsgálja a módosítási kérelmet és szükség szerint egyeztet a KSZ-szel és a kedvezményezettel.
 
-111.3. A kedvezményezett által jelzett módosítási javaslatok felülvizsgálatát követően az IH e tárgyban előterjesztést állít össze és azt megküldi a központi koordinációs szerv részére.
+111.3. A kedvezményezett által jelzett módosítási javaslatok felülvizsgálatát követően az IH e tárgyban előterjesztést állít össze és azt megküldi az NFK részére.
 
-111.4. A központi koordinációs szerv az előterjesztést az FKB részére előterjeszti.
+111.4. Az NFK az előterjesztést az FKB részére előterjeszti.
 
 111.5. A módosítási kérelem elfogadásáról, valamint a kérelem Európai Bizottság számára történő megküldéséről az FKB javaslatára a Kormány dönt.
 
@@ -1122,7 +1122,7 @@ b) a meglévő tárgyi eszköz bővítése, rendeltetésének megváltoztatása,
 
 53. Az ingatlan jelzálog
 
-120.1. A jelzálogszerződés a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium, mint támogató és a kedvezményezett között jön létre. A Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztériumot a jelzálogszerződés megkötése, módosítása, megszüntetése során a KSZ képviseli, és a kapcsolódó feladatokat a KSZ látja el.
+120.1. A jelzálogszerződés az IH-feladatokat ellátó szervezet, mint támogató és a kedvezményezett között jön létre. Az IH-feladatokat ellátó szervezetet a jelzálogszerződés megkötése, módosítása, megszüntetése során a KSZ képviseli, és a kapcsolódó feladatokat a KSZ látja el.
 
 120.2. Ha a zálogtárgy harmadik személy tulajdonában van, a zálogkötelezett a zálogtárgy tulajdonosa.
 
@@ -1256,7 +1256,7 @@ a) pénzügyi vállalkozás által kibocsátott garancia nem fogadható el,
 
 b) a garanciavállaló nyilatkozatnak rögzítenie kell a hitelintézet kifejezett, visszavonhatatlan, önálló fizetési kötelezettségvállalását,
 
-c) a garanciavállaló nyilatkozatnak az irányító hatóságot kell jogosultként megjelölnie, közreműködő szervezet kijelölése esetén pedig rögzítenie kell azt, hogy a jogosult nevében a közreműködő szervezet jár el,
+c) a garanciavállaló nyilatkozatnak az IH-t kell jogosultként megjelölnie, közreműködő szervezet kijelölése esetén pedig rögzítenie kell azt, hogy a jogosult nevében a közreműködő szervezet jár el,
 
 d) a garancia érvényesíthetőségének feltételeként csak a jogosult szabályszerűen, illetve – közreműködő szervezet kijelölése esetén – a nevében eljáró közreműködő szervezet által aláírt írásbeli felszólítás benyújtása köthető ki, amelyben a jogosult, kijelölése esetén a nevében eljáró közreműködő szervezet írásban nyilatkozik arról, hogy az alapjogviszony kötelezettje nem teljesítette fizetési vagy egyéb szerződéses kötelezettségét,
 
@@ -1292,7 +1292,7 @@ g) a legfeljebb 15 banki munkanapban megállapított fizetési határidőt,
 
 h) annak kijelentését, hogy a garanciából származó bármely jogvita esetén a magyar jog az irányadó és a magyar bíróság az illetékes.
 
-127.7. Lehívás esetén az irányító hatóság eljárni és aláírni jogosult képviselőjének ez a minősége igazolható az alábbiakkal:
+127.7. Lehívás esetén az IH eljárni és aláírni jogosult képviselőjének ez a minősége igazolható az alábbiakkal:
 
 a) azon eredeti iratok csatolásával, melyek igazolják a kiadmányozási és aláírási jogosultság megszakítatlan láncolatát; vagy
 
@@ -1332,7 +1332,7 @@ d) egyház esetén a támogatást igénylő egyházi szerv hivatalos képviselő
 
 57. A garanciaszervezet kezességvállalása
 
-131.1. Az irányító hatóság közleményt ad ki azokról a garanciaszervezetekről, melyek kezességvállalását biztosítékként elfogadja. A közleményt az európai uniós források felhasználásáért felelős miniszter teszi közzé a www.szechenyi2020.hu honlapon. A valamely irányító hatóság által megfelelőnek minősített garanciaszervezet kezességvállalása más IH hatáskörébe tartozó támogatási kérelem esetében is elfogadható külön minősítés nélkül, ha a garanciaszervezettel kapcsolatban nem merült fel olyan körülmény, amely alapján a megfelelősége megkérdőjelezhető.
+131.1. Az IH közleményt ad ki azokról a garanciaszervezetekről, melyek kezességvállalását biztosítékként elfogadja. A közleményt az NFK teszi közzé a www.szechenyi2020.hu honlapon. A valamely IH által megfelelőnek minősített garanciaszervezet kezességvállalása más IH hatáskörébe tartozó támogatási kérelem esetében is elfogadható külön minősítés nélkül, ha a garanciaszervezettel kapcsolatban nem merült fel olyan körülmény, amely alapján a megfelelősége megkérdőjelezhető.
 
 131.2. A kezesi nyilatkozat formai és tartalmi követelményeire vonatkozóan 126–127.8. pontokat kell alkalmazni azzal az eltéréssel, hogy ahol a 126–127.8. pont garanciavállaló nyilatkozatot említ, azon kezesi nyilatkozatot, ahol hitelintézetet azon garanciaszervezetet kell érteni.
 
@@ -1412,7 +1412,7 @@ n) követeléskezelés.
 
 138.3. Egy operatív program annyi EFK-val rendelkezik, ahány költségvetési fejezetben megjelennek az adott operatív programhoz tartozó előirányzatok.
 
-138.4. A fejezeti kezelésű EFK-kat a központi koordinációs szerv nyitja, a számlák felett a központi koordinációs szerv, valamint az adott operatív program végrehajtásáért felelős IH rendelkezik.
+138.4. A fejezeti kezelésű EFK-kat az NFK nyitja, a számlák felett az NFK, valamint az adott operatív program végrehajtásáért felelős IH rendelkezik.
 
 138.5. Az EFK-ról átutalást indítani csak lebonyolítási számlára, szabálytalansági, valamint egyéb követelési ügyből származó visszakövetelt összeg esetén az Igazoló Hatóság forint bankszámláira, meghatározott esetekben központi költségvetési szerv kedvezményezettek felé az önerő finanszírozása, valamint előirányzat-átcsoportosítás miatt a fejezeti elosztási számlára lehet.
 
@@ -1422,13 +1422,13 @@ n) követeléskezelés.
 
 139.1. A lebonyolítási forint bankszámla a kedvezményezett elszámolható költségeinek megtérítésére, a szállítók, illetve engedményesek részére történő kifizetés lebonyolítására, a kedvezményezett részére folyósítandó előleg kifizetésére, valamint a kedvezményezett által bármilyen jogcímen történő visszafizetés fogadására szolgál.
 
-139.2. A központi koordinációs szerv prioritásonként egy lebonyolítási forint bankszámlát nyit a kincstárnál. Ettől eltérni kizárólag abban az esetben lehet, ha az adott prioritás pénzügyi lebonyolítását több KSZ-re ruházta át az IH.
+139.2. Az NFK prioritásonként egy lebonyolítási forint bankszámlát nyit a kincstárnál. Ettől eltérni kizárólag abban az esetben lehet, ha az adott prioritás pénzügyi lebonyolítását több KSZ-re ruházta át az IH.
 
-139.3. A lebonyolítási forint bankszámla felett a központi koordinációs szerv rendelkezési jogot biztosít a KSZ-ek részére is.
+139.3. A lebonyolítási forint bankszámla felett az NFK rendelkezési jogot biztosít a KSZ-ek részére is.
 
 139.4. A lebonyolítási forint bankszámlának év végén nem maradhat egyenlege, ezért a bankszámla fölött rendelkezőnek gondoskodnia kell az egyenleg vonatkozó EFK-ra történő visszautalásáról. Ez idő alatt a kincstár gondoskodik arról, hogy a visszautalást követően kedvezményezetti jóváírást nem teljesít.
 
-139.5. A visszautalással egyidejűleg – legkésőbb a következő év január első banki munkanapon – az egyenleget alkotó összeg tételeinek jogcím szerinti azonosítását tartalmazó kimutatást a KSZ megküldi a központi koordinációs szerv, az IH, valamint a kincstár részére.
+139.5. A visszautalással egyidejűleg – legkésőbb a következő év január első banki munkanapon – az egyenleget alkotó összeg tételeinek jogcím szerinti azonosítását tartalmazó kimutatást a KSZ megküldi az NFK, az IH, valamint a kincstár részére.
 
 140.1. A lebonyolítási forint bankszámláról indított átutaláshoz az átutalási megbízást minden esetben a monitoring és információs rendszerben kell kiállítani.
 
@@ -1444,7 +1444,7 @@ n) követeléskezelés.
 
 141.2. A kötelezettségvállalás pénzügyi ellenjegyzésével az IH pénzügyi ellenjegyzésre írásban kijelölt munkatársa meggyőződik a szükséges forrás rendelkezésre állásáról.
 
-141.3. Ha a saját forrás kiegészítése más – a XIX. Uniós fejlesztések költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz a központi koordinációs szerv pénzügyi ellenjegyzése is szükséges.
+141.3. Ha a saját forrás kiegészítése más – a XIX. Uniós fejlesztések költségvetési fejezetből származó – forrásból történik, a kötelezettségvállaláshoz az NFK pénzügyi ellenjegyzése is szükséges.
 
 67. A kötelezettségvállalás típusai
 
@@ -1552,15 +1552,15 @@ c) záró kifizetési igénylés.
 
 155.1. A forrásgazda az operatív programok költségvetési előirányzatait a Rendelet, az Áht., valamint az Ávr. előírásaival összhangban, az IH-kal egyeztetve tervezi meg.
 
-155.2. A kifizetési tervezéshez szükséges információkat az IH-k évente, a külön körlevélben meghatározott időpontig, a tervezési köriratnak megfelelően küldik meg a központi koordinációs szerv részére.
+155.2. A kifizetési tervezéshez szükséges információkat az IH-k évente, a külön körlevélben meghatározott időpontig, a tervezési köriratnak megfelelően küldik meg az NFK részére.
 
-155.3. A tervezéshez kapcsolódó szakértői tárgyalások és kötelező egyeztetések során a forrásgazda képviseletében – az operatív programok IH-inak bevonásával – a központi koordinációs szerv jár el. Az egyeztetések eredményeiről az IH-t tájékoztatni köteles.
+155.3. A tervezéshez kapcsolódó szakértői tárgyalások és kötelező egyeztetések során a forrásgazda képviseletében – az operatív programok IH-inak bevonásával – az NFK jár el. Az NFK az egyeztetések eredményeiről az IH-t tájékoztatja.
 
 155.4. Az éves költségvetés tervezése az operatív programok és az akciótervek pénzügyi táblázataira támaszkodik. A költségvetési tervezés elfogadott akciótervvel való összhangját biztosítani kell.
 
 155.5. Az operatív programok, akciótervek és kapcsolódó dokumentumok kidolgozása és módosítása az IH-k feladata.
 
-155.6. A havi pénzforgalmi prognózisok a központi koordinációs szerv koordinálásában, az IH-k közreműködésével készülnek.
+155.6. A havi pénzforgalmi prognózisok az NFK koordinálásában, az IH-k közreműködésével készülnek.
 
 77. A kötelezettségvállalások keletkezése, nyilvántartása, szerződéskötés
 
@@ -1672,7 +1672,7 @@ kd) a projekt fordított áfával érintett szállítói finanszírozást tartal
 
 80. Az előlegigénylés benyújtása, rögzítése, a kifizethetőség ellenőrzése
 
-164.1. Az előlegigénylést egy példányban, a központi koordinációs szerv által meghatározott egységes formátumban, elektronikusan kell benyújtani a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint.
+164.1. Az előlegigénylést egy példányban, az NFK által meghatározott egységes formátumban, elektronikusan kell benyújtani a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint.
 
 164.2. A biztosítékok iratanyagát az elektronikus benyújtással egyidejűleg papíron is be kell nyújtani a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint hivatalos iratként. Az előleg jóváhagyásának feltétele a biztosítékok eredeti papír alapú példányának a KSZ-hez történő beérkezése.
 
@@ -1930,7 +1930,7 @@ c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói s
 
 193.1. A közvetlen szállítói előleget a szállító az előlegbekérő benyújtásával igényelheti elektronikusan, a Pályázati e-ügyintézés felületen keresztül. A szállítói előlegigénylést a monitoring és információs rendszerben előlegigénylésként kell rögzíteni. Ha a közvetlen szállítói előlegigényléssel egyidejűleg kiállításra kerül az előlegszámla, azt a Rendelet 59. § (1) bekezdése szerinti kedvezményezett általi záradékkal ellátva kell benyújtani.
 
-193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja által vezetett minisztérium javára szóló, a Kbt. 134. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
+193.2. A szállító köteles a 190.1. pont szerinti eljárás eredményeként kötött szerződés elszámolható összegének 10%-a és az igényelt szállítói előleg különbözetére jutó támogatás összegének megfelelő értékű, az IH-feladatokat ellátó szervezet javára szóló, a Kbt. 134. § (6) bekezdése szerinti biztosítékot nyújtani. A gazdasági társaság vagy nonprofit szervezet szállító cégjegyzésre jogosult vezető tisztségviselőjének vagy legalább 50%-os közvetlen tulajdonrésszel rendelkező tulajdonosának, vagy együttesen legalább 50%-os közvetlen tulajdonrésszel rendelkező természetes személy tulajdonosainak kezességvállalása, vagy garanciaszervezet által vállalt kezesség, valamint az Áht. 92. § (1) bekezdése szerinti állami kezesség is elfogadható a szállítói előleg biztosítékaként.
 
 193.3. A 193.2. pont szerinti kezességvállalásra a VI. Fejezet kezességvállalásra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
@@ -2122,13 +2122,13 @@ e) ha a pályázati felhívás, illetve a támogatási szerződés előírja, z�
 
 205.5. Szükség esetén a KSZ, illetve az IH az időszakos és záró beszámolón kívül bármikor jogosult a kedvezményezettől a projektre vonatkozóan információt kérni.
 
-205.6. Az időszakos beszámolót a központi koordinációs szerv által meghatározott egységes formátumban, a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani. A beszámolót konzorcium esetében a konzorcium vezetője nyújtja be.
+205.6. Az időszakos beszámolót az NFK által meghatározott egységes formátumban, a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani. A beszámolót konzorcium esetében a konzorcium vezetője nyújtja be.
 
 97. A finanszírozás kezdeményezése az időközi kifizetési igénylés és időszakos beszámoló benyújtásával
 
 206.1. A támogatási szerződésben – támogatói okirat alkalmazása esetén a projektadatlapon – meghatározott tevékenységek fizikai és pénzügyi teljesülését követően nyújtható be időközi kifizetési igénylés.
 
-206.2. A KSZ akkor teljesíthet kifizetést, ha a kedvezményezett az időközi kifizetési igénylést a központi koordinációs szerv által meghatározott egységes formátumban nyújtotta be.
+206.2. A KSZ akkor teljesíthet kifizetést, ha a kedvezményezett az időközi kifizetési igénylést az NFK által meghatározott egységes formátumban nyújtotta be.
 
 206.3. Időközi kifizetés kizárólag – a projekt fizikai előrehaladását bemutató – időszakos beszámoló benyújtásával együtt igényelhető, ennek hiányában az időközi kifizetési igénylést el kell utasítani. Az időszakos beszámoló benyújtására vonatkozó szabályok megegyeznek az időközi kifizetési igénylés benyújtásának szabályaival.
 
@@ -2146,7 +2146,7 @@ e) ha a pályázati felhívás, illetve a támogatási szerződés előírja, z�
 
 99. Az időközi kifizetési igénylés és időszakos beszámoló dokumentum alapú ellenőrzése
 
-209.1. A KSZ az általa végzett teljes első szintű ellenőrzés keretében gondoskodik a kedvezményezett által benyújtott valamennyi jelentés, nyilatkozat és bizonylat dokumentum alapú formai és tartalmi szempontból történő ellenőrzésének lefolytatásáról, valamint a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek megvalósításnak helyszíni ellenőrzéséről. Az IH a központi koordinációs szervvel egyeztetve jogosult a dokumentum alapú és a kockázatelemzésen alapuló mintavételezéssel végzett helyszíni ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre osztani.
+209.1. A KSZ az általa végzett teljes első szintű ellenőrzés keretében gondoskodik a kedvezményezett által benyújtott valamennyi jelentés, nyilatkozat és bizonylat dokumentum alapú formai és tartalmi szempontból történő ellenőrzésének lefolytatásáról, valamint a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek megvalósításnak helyszíni ellenőrzéséről. Az IH az NFK-val egyeztetve jogosult a dokumentum alapú és a kockázatelemzésen alapuló mintavételezéssel végzett helyszíni ellenőrzés elemeit előzetes és utólagos ellenőrzési tevékenységekre osztani.
 
 209.2. A KSZ a kedvezményezett által benyújtott időközi kifizetési igénylést a vonatkozó jogszabályokban, a pályázati felhívásban, valamint a támogatási szerződésben foglalt elszámolhatósági szabályok szerint ellenőrzi.
 
@@ -2522,9 +2522,9 @@ b) a támogatás folyósítását a kedvezményezett vagy szállító milyen pé
 
 113. Az elektronikus alkalmazás (számla- és beszámoló-kitöltő) használata
 
-239.1. Az elektronikus alkalmazások kezelésének szabályairól a központi koordinációs szerv felhasználói kézikönyvet bocsát a kedvezményezettek rendelkezésére a Pályázati e-ügyintézés felületen.
+239.1. Az elektronikus alkalmazások kezelésének szabályairól az NFK felhasználói kézikönyvet bocsát a kedvezményezettek rendelkezésére a Pályázati e-ügyintézés felületen.
 
-239.2. A kedvezményezettek részére a központi koordinációs szerv, illetve a KSZ-ek ügyfélszolgálata szolgáltathat információt az elektronikus alkalmazásokkal kapcsolatban.
+239.2. A kedvezményezettek részére az NFK, illetve a KSZ-ek ügyfélszolgálata szolgáltathat információt az elektronikus alkalmazásokkal kapcsolatban.
 
 114. A költségvetési előfinanszírozás átforgatása
 
@@ -2546,7 +2546,7 @@ b) jelezni kell, hogy a kifizetési igénylés kizárólag költségvetési elő
 
 241.3. A technikai átforgatás az IH és a KSZ képviselőinek állandó, valamint egyéb érintettek szükség szerinti részvételével történik.
 
-241.4. Az átforgatásról minden esetben jegyzőkönyvet kell készíteni, amit az IH-vezető hagy jóvá. A jóváhagyott jegyzőkönyvet az érintett forráslehívással együtt a kincstár és a központi koordinációs szerv részére meg kell küldeni.
+241.4. Az átforgatásról minden esetben jegyzőkönyvet kell készíteni, amit az IH-vezető hagy jóvá. A jóváhagyott jegyzőkönyvet az érintett forráslehívással együtt a kincstár és az NFK részére meg kell küldeni.
 
 115. A fordított adózás szabályai
 
@@ -2696,7 +2696,7 @@ c) a projektátadó és a projektátvevő kedvezményezettek költségvetéséne
 
 119. Intézményi konszolidáció kapcsán bekövetkező feladatátadás különös szabályai
 
-258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
+258.1. Azon projektek esetében, melyek jogszabály alapján jogosultak az önerő NFK általi finanszírozására, a jogutódlás időpontját követően a projektátvevő vagy jogutód kedvezményezett költségvetési szerv saját forrása a központi költségvetésből kerül biztosításra.
 
 258.2. Ha a projektátadó vagy jogelőd kedvezményezett által támogatási előleg igénylésére került sor, a projektátadó vagy jogelőd kedvezményezett az előleg általa számlákkal lefedett és elszámolt költségekre jutó részén felül fennmaradó, el nem számolt összegét átadhatja a projektátvevő vagy jogutód kedvezményezettnek. A támogatási előleg átadását a projektátvevő vagy jogutód kedvezményezettel kötött támogatási szerződésben rögzíteni kell. Az át nem adott, el nem számolt előleget vissza kell követelni.
 
@@ -2962,11 +2962,11 @@ c) a számlaösszesítő és a könyvelési bizonylat.
 
 281.5. A 281.4. pont szerinti utalványozást követően a támogatási összeg az EFK-ról a lebonyolítási forint bankszámlára utalható a monitoring és információs rendszeren keresztül.
 
-282.1. Az EFK terhére történő átutaláshoz az IH által jóváhagyott forráslehívási dokumentáció, illetve utalványlap elektronikus példányát meg kell küldeni a központi koordinációs szerv és a kincstár részére.
+282.1. Az EFK terhére történő átutaláshoz az IH által jóváhagyott forráslehívási dokumentáció, illetve utalványlap elektronikus példányát meg kell küldeni az NFK és a kincstár részére.
 
-282.2. A központi koordinációs szerv és a kincstár elektronikus aláírással igazolják a dokumentáció átvételét.
+282.2. Az NFK és a kincstár elektronikus aláírással igazolják a dokumentáció átvételét.
 
-283.1. Ha a monitoring és információs rendszer nem megfelelő működése miatt papír alapú dokumentum küldésére van szükség, úgy az EFK terhére történő átutalásokhoz egy eredeti példányban kiállított, aláírással ellátott forráslehívási dokumentációt és utalványlapot a központi koordinációs szerv részére, valamint egy eredeti példányban kiállított, aláírással ellátott forráslehívási dokumentációt a kincstár részére meg kell küldeni a jóváhagyást követő 7 napon belül.
+283.1. Ha a monitoring és információs rendszer nem megfelelő működése miatt papír alapú dokumentum küldésére van szükség, úgy az EFK terhére történő átutalásokhoz egy eredeti példányban kiállított, aláírással ellátott forráslehívási dokumentációt és utalványlapot az NFK részére, valamint egy eredeti példányban kiállított, aláírással ellátott forráslehívási dokumentációt a kincstár részére meg kell küldeni a jóváhagyást követő 7 napon belül.
 
 283.2. A 283.1. pont szerinti esetben a forráslehívás egy – az eredetivel megegyező – másolati példánya az IH-nál kerül megőrzésre.
 
@@ -3008,7 +3008,7 @@ pénzforgalmi számlájára történik.
 
 287.3. Ha a kedvezményezett köztartozását a kitűzött határidőn belül nem szünteti meg vagy késedelmét nem menti ki, az IH jogosult az adott kifizetési igénylés alapján jóváhagyott támogatási összeget visszavonni vagy a támogatási szerződéstől elállni. Az IH-vezető az így visszavont támogatást felszabadíthatja a kötelezettségvállalás alól.
 
-288.1. A köztartozási adatok mindaddig érvényesek, amíg a tartozásadatokban bekövetkező változásokról az adóhatóság nem küld tájékoztatást a központi koordinációs szerv részére a monitoring és információs rendszeren keresztül vagy a kedvezményezett nem nyújt be 30 napnál nem régebbi, nemlegesnek minősülő összevont adóigazolást.
+288.1. A köztartozási adatok mindaddig érvényesek, amíg a tartozásadatokban bekövetkező változásokról az adóhatóság nem küld tájékoztatást az NFK részére a monitoring és információs rendszeren keresztül vagy a kedvezményezett nem nyújt be 30 napnál nem régebbi, nemlegesnek minősülő összevont adóigazolást.
 
 288.2. A 288.1. pont értelmében az adatszolgáltatásban nem hátralékosként megjelölt kedvezményezettek részére mindaddig kifizethető támogatás, amíg az ellenkezőjéről szóló adat nem kerül rögzítésre a monitoring és információs rendszerben.
 
@@ -3084,9 +3084,9 @@ c) záró kifizetési igénylés esetén.
 
 134. A kifizetésekhez szükséges likviditás biztosítása
 
-296.1. Az operatív programok likviditásának biztosítását az EFK-kon a központi koordinációs szerv végzi.
+296.1. Az operatív programok likviditásának biztosítását az EFK-kon az NFK végzi.
 
-296.2. A likviditás biztosítása érdekében a központi koordinációs szerv
+296.2. A likviditás biztosítása érdekében az NFK
 
 a) összegyűjti az információt a kedvezményezettek által beküldött kifizetési igénylési dokumentációk ellenőrzési eljárása során időszakonként jóváhagyott összegekről prioritásonként és kiemelt előirányzatonként,
 
@@ -3104,17 +3104,17 @@ a) a követeléskezelési, illetve szabálytalansági eljárások során a kedve
 
 b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásából adódó jóváírásként.
 
-297.1. Az adott évre vonatkozó költségvetési támogatás leosztása az IH-k előrejelzései alapján a központi koordinációs szerv által a www.szechenyi2020.hu honlapon közzétett likviditáskezelési útmutató szerint történik.
+297.1. Az adott évre vonatkozó költségvetési támogatás leosztása az IH-k előrejelzései alapján az NFK által a www.szechenyi2020.hu honlapon közzétett likviditáskezelési útmutató szerint történik.
 
-297.2. A tervezett, előre jelzett bevételek és kiadások egyenlegének ismeretében a központi koordinációs szerv automatikusan tölti fel az EFK-t olyan mértékben, hogy azon az előre jelzett kifizetéseket meghaladó mértékű elegendő likviditási tartalék álljon rendelkezésre, bevételként figyelembe véve ehhez a várható közösségi hozzájárulás rendezése szerinti összegeket is.
+297.2. A tervezett, előre jelzett bevételek és kiadások egyenlegének ismeretében az NFK automatikusan tölti fel az EFK-t olyan mértékben, hogy azon az előre jelzett kifizetéseket meghaladó mértékű elegendő likviditási tartalék álljon rendelkezésre, bevételként figyelembe véve ehhez a várható közösségi hozzájárulás rendezése szerinti összegeket is.
 
 297.3. Az Igazoló Hatóság a monitoring és információs rendszer finanszírozási moduljából nyert adatok alapján utólagosan elszámolja és az IH-Igazoló Hatóság rendezésekkel összevezeti a közösségi hozzájárulásnak a központi költségvetés által előfinanszírozott összegét. Az Igazoló Hatóság az összevezetés jóváhagyása után az abban meghatározott összeget 3 napon belül – ha az uniós forrás rendelkezésre áll – átutalja a vonatkozó operatív program EFK-jára.
 
 135. Havi pénzforgalmi előrejelzések készítése
 
-298.1. A megkötött szerződések, illetve a beadott elszámolások alapján számított várható kifizetésekről az IH-nak – gördülő tervezéssel – előrejelzést kell adnia a központi koordinációs szerv részére, mely alapján a központi koordinációs szerv intézkedik az EFK-n a megfelelő pénzeszköz és előirányzat rendelkezésre állásáról.
+298.1. A megkötött szerződések, illetve a beadott elszámolások alapján számított várható kifizetésekről az IH-nak – gördülő tervezéssel – előrejelzést kell adnia az NFK részére, mely alapján az NFK intézkedik az EFK-n a megfelelő pénzeszköz és előirányzat rendelkezésre állásáról.
 
-298.2. Az előrejelzést – a központi koordinációs szerv által kiadott likviditáskezelési útmutató szerint 12 hónapra számolva, havi bontásban – a tárgyhónapot megelőző hónap 15. napjáig kell elkészíteni és átadni a központi koordinációs szerv részére.
+298.2. Az előrejelzést – az NFK által kiadott likviditáskezelési útmutató szerint 12 hónapra számolva, havi bontásban – a tárgyhónapot megelőző hónap 15. napjáig kell elkészíteni és átadni az NFK részére.
 
 298.3. Minden hónapban a teljes évre szóló gördülő előrejelzést kell elkészíteni, oly módon, hogy a havi bevételek adatai is megismerhetők legyenek.
 
@@ -3122,17 +3122,17 @@ b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásáb
 
 298.5. Ha előre nem látott, váratlan kifizetési kötelezettség keletkezik, az IH az ahhoz szükséges pénzösszeg igényét az írásos indoklásban jelzi.
 
-298.6. A központi koordinációs szerv a kérés beérkezésétől számított 3 munkanapon belül intézkedik a kincstár felé a támogatás rendelkezésre bocsátásáról.
+298.6. Az NFK a kérés beérkezésétől számított 3 munkanapon belül intézkedik a kincstár felé a támogatás rendelkezésre bocsátásáról.
 
 136. A likviditás figyelése
 
-299.1. A kifizetésre jóváhagyott összeg fedezetvizsgálatakor az IH-nak, illetve a központi koordinációs szervnek meg kell győződnie arról, hogy az EFK-n elegendő pénzeszköz, illetve előirányzat van a lebonyolítási forint bankszámlára kért átutalás indításához.
+299.1. A kifizetésre jóváhagyott összeg fedezetvizsgálatakor az IH-nak, illetve az NFK-nak meg kell győződnie arról, hogy az EFK-n elegendő pénzeszköz, illetve előirányzat van a lebonyolítási forint bankszámlára kért átutalás indításához.
 
 299.2. Az EFK likviditását ÁHT-kódonként kell vizsgálni.
 
 299.3. Az EFK-nkénti és kiemelt előirányzatonkénti kódonként a kifizetések naprakész nyilvántartását a monitoring és információs rendszernek kell biztosítania.
 
-299.4. Nem megfelelő mennyiségű előirányzat, illetve pénzeszköz megléte esetén rendkívüli feltöltés keretében előirányzat átcsoportosítást, illetve támogatásleosztást kell kezdeményezni a központi koordinációs szerv felé a likviditáskezelési útmutatónak megfelelően.
+299.4. Nem megfelelő mennyiségű előirányzat, illetve pénzeszköz megléte esetén rendkívüli feltöltés keretében előirányzat átcsoportosítást, illetve támogatásleosztást kell kezdeményezni az NFK-nál a likviditáskezelési útmutatónak megfelelően.
 
 137. A tartalék kezelése
 
@@ -3140,9 +3140,9 @@ b) a lebonyolítási forint bankszámla egyenlegének év végi visszautalásáb
 
 138. Egyéb előre nem látható kifizetések
 
-301.1. Ha az IH-nál tartalék-felhasználási igény keletkezik, az IH-vezető kezdeményezi a központi koordinációs szerv felé a felmerült költségek kifizetésének jóváhagyását.
+301.1. Ha az IH-nál tartalék-felhasználási igény keletkezik, az IH-vezető kezdeményezi az NFK-nál a felmerült költségek kifizetésének jóváhagyását.
 
-301.2. A központi koordinációs szerv egyetértése esetén az európai uniós források felhasználásáért felelős miniszter engedélyezi a szükséges előirányzat-módosítást az érintett operatív programra, amely alapján a központi koordinációs szerv 3 munkanapon belül intézkedik a kincstár felé a szükséges előirányzat átcsoportosításról.
+301.2. Az NFK egyetértése esetén engedélyezi a szükséges előirányzat-módosítást az érintett operatív programra, amely alapján az NFK három munkanapon belül intézkedik a kincstár felé a szükséges előirányzat átcsoportosításról.
 
 139. A késedelmi kamat
 
@@ -3184,7 +3184,7 @@ g) az elektronikus átutalás befogadása a KSZ hibájából sikertelen (pl. hi�
 
 303.2. Nem a KSZ-nek felróható a késedelmes teljesítés, ha a támogatás határidőben történő kifizetését
 
-a) a központi koordinációs szerv, illetve az IH hatáskörébe tartozó folyamat (forráslehívás IH jóváhagyása, utalás az EFK-ról, EFK-n elegendő keret időben rendelkezésre állása, az IH és a KSZ közötti állásfoglalások felróható elhúzódása) akadályozta,
+a) az NFK, illetve az IH hatáskörébe tartozó folyamat (forráslehívás IH jóváhagyása, utalás az EFK-ról, EFK-n elegendő keret időben rendelkezésre állása, az IH és a KSZ közötti állásfoglalások felróható elhúzódása) akadályozta,
 
 b) a monitoring és információs rendszer vagy a Pályázati e-ügyintézés felület elégtelen működése – a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint rögzített hibabejelentéssel igazoltan – akadályozta, vagy
 
@@ -3238,19 +3238,19 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 309.1. Ha az intézményrendszernek felróható a késedelem, a KSZ a késedelmes számlák kifizetését követően haladéktalanul gondoskodik a késedelmi kamat kifizetésére vonatkozó átutalási megbízás elkészítéséről.
 
-309.2. A központi koordinációs szerv minden hónap utolsó napjával meghatározza a késedelmesen kifizetésre került számlák állományát és KSZ-enként megállapítja a számlák kiegyenlítési napján érvényes késedelmi kamatok összegét és azt eljuttatja az IH-khoz. A központi koordinációs szerv a monitoring és információs rendszer lekérdezéseit alkalmazza minden operatív program tekintetében, azonos szűrési feltételekkel. A monitoring és információs rendszerből nem lekérdezhető adatok tekintetében az IH a KSZ által vezetett kiegészítő nyilvántartásokat is figyelembe veheti.
+309.2. Az NFK minden hónap utolsó napjával meghatározza a késedelmesen kifizetésre került számlák állományát és KSZ-enként megállapítja a számlák kiegyenlítési napján érvényes késedelmi kamatok összegét és azt eljuttatja az IH-khoz. Az NFK a monitoring és információs rendszer lekérdezéseit alkalmazza minden operatív program tekintetében, azonos szűrési feltételekkel. A monitoring és információs rendszerből nem lekérdezhető adatok tekintetében az IH a KSZ által vezetett kiegészítő nyilvántartásokat is figyelembe veheti.
 
 309.3. A KSZ-bontású lekérdezést a tárgyhónapot követő hónap 5. munkanapjáig kell elkészíteni és elektronikusan megküldeni (vagy egy közös tárhelyen elhelyezni) a KSZ részére.
 
 309.4. A KSZ az értesítést követő 8 munkanapon belül indoklással alátámasztva jelzi, ha a lekérdezésben olyan számlák vannak, melyek kifizetési késedelme a KSZ-nek nem felróható, illetve, ha a lekérdezésben tévesen szerepelnek határidőben kiegyenlített számlák.
 
-309.5. A KSZ megjelöli a lekérdezésben szereplő téves adatokat és alátámasztó, kiegészítő információkkal látja el azokat. A korrigált lekérdezést a KSZ-ek megküldik a központi koordinációs szerv és az IH részére.
+309.5. A KSZ megjelöli a lekérdezésben szereplő téves adatokat és alátámasztó, kiegészítő információkkal látja el azokat. A korrigált lekérdezést a KSZ-ek megküldik az NFK és az IH részére.
 
-309.6. Az IH-k és a központi koordinációs szerv a korrigált lekérdezésre 5 munkanapon belül írásban reagálnak, vagy azzal kapcsolatban egyeztető megbeszélést hívnak össze.
+309.6. Az IH-k és az NFK a korrigált lekérdezésre 5 munkanapon belül írásban reagálnak, vagy azzal kapcsolatban egyeztető megbeszélést hívnak össze.
 
-310.1. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem a KSZ hibájából történt, a központi koordinációs szerv átutalja az érintett késedelmi kamat összeget a KSZ bankszámlájára.
+310.1. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem a KSZ hibájából történt, az NFK átutalja az érintett késedelmi kamat összeget a KSZ bankszámlájára.
 
-310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve a központi koordinációs szerv hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. a „Uniós fejlesztések költségvetési fejezetet irányító szerv bankszámlájára.
+310.2. Ha a késedelmi kamat átutalását követően megállapítható, hogy a késedelmes teljesítés nem az IH, illetve az NFK hibájából történt, a KSZ átutalja az érintett késedelmi kamat összegét a XIX. a „Uniós fejlesztések költségvetési fejezetet irányító szerv bankszámlájára.
 
 310.3. Támogatási szerződéstől való elállás esetén a visszakövetelt késedelmi kamat összege azt illeti, akinek a kapcsolódó késedelmes támogatás kifizetés felróható volt.
 
@@ -3264,7 +3264,7 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 311.4. Az „Fejezeti általános tartalék” előirányzat és a központi költségvetés egyéb tartalékai terhére a KSZ-nek felróható kamatfizetési kötelezettséget csak rendkívül indokolt esetben, a vonatkozó jogszabályok feltételei mellett lehet érvényesíteni.
 
-311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve a központi koordinációs szervnek felróható okból történt, a késedelmi kamatfizetés fedezete a XIX. Uniós fejlesztések költségvetési fejezet „Fejezeti általános tartalék” előirányzata.
+311.5. Ha a támogatás késedelmes kifizetése az IH-nak, illetve az NFK-nak felróható okból történt, a késedelmikamat-fizetés fedezete a XIX. Uniós fejlesztések költségvetési fejezet „Fejezeti általános tartalék” előirányzata.
 
 146. A kiegyenlítés és a továbbutalás
 
@@ -3276,9 +3276,9 @@ d) késedelmes támogatás kifizetését vállalva késedelmi kamatot fizet.
 
 312.4. Ha késedelmes a számla, a KSZ a késedelmes számlák kifizetését követően haladéktalanul elkészíti a késedelmi kamat átutalási megbízását és elindítja az utalást.
 
-312.5. Ha a késedelem a KSZ-nek nem felróható, a központi koordinációs szerv köteles az érintett késedelmi kamatösszeget a KSZ rendelkezésére bocsátani.
+312.5. Ha a késedelem a KSZ-nek nem felróható, az NFK köteles az érintett késedelmi kamatösszeget a KSZ rendelkezésére bocsátani.
 
-312.6. Vitás kérdésekben a központi koordinációs szerv, az IH-k és a KSZ között megkötött megállapodásban rögzítettek az irányadóak.
+312.6. Vitás kérdésekben az NFK, az IH-k és a KSZ között megkötött megállapodásban rögzítettek az irányadóak.
 
 313.1. A kifizetési igények határidőn túl történt teljesítéséről és az ebből adódó késedelmi kamatfizetésről a KSZ legkésőbb a késedelmi kamat átutalásának napján tájékoztatja a kedvezményezettet, valamint szállítói finanszírozási mód, illetve engedményezés esetén a szállítót, illetve az engedményest is.
 
@@ -3308,9 +3308,9 @@ d) a késedelmi kamat alapjául szolgáló számlák, kifizetési igények egyed
 
 315.2. Az elkülönített nyilvántartást a monitoring és információs rendszerben kell vezetni, melyet a KSZ saját nyilvántartásaival, illetve a kiegészítő információkkal és az egyeztetés érdekében szükség szerint papír alapú dokumentációval egészít ki.
 
-315.3. A KSZ-nek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 81. § (2) bekezdés b) pontja alapján egyéb ráfordításként kell elszámolnia a fizetendő késedelmi kamatokat. Ha a fizetendő késedelmi kamat az IH-t, illetve a központi koordinációs szervet terheli, a KSZ-nek a késedelmi kamat ellentételezésére kapott összeget egyéb bevételként kell elszámolnia.
+315.3. A KSZ-nek a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 81. § (2) bekezdés b) pontja alapján egyéb ráfordításként kell elszámolnia a fizetendő késedelmi kamatokat. Ha a fizetendő késedelmi kamat az IH-t, illetve az NFK-t terheli, a KSZ-nek a késedelmi kamat ellentételezésére kapott összeget egyéb bevételként kell elszámolnia.
 
-315.4. Az IH-t, illetve a központi koordinációs szervet terhelő késedelmi kamatról összesítő kimutatásnak minősülő számviteli bizonylat készül, amely alapján a késedelmi kamat megtérítése történik. A számviteli bizonylat alapja a monitoring és információs rendszerből készített lekérdezés.
+315.4. Az IH-t, illetve az NFK-t terhelő késedelmi kamatról összesítő kimutatásnak minősülő számviteli bizonylat készül, amely alapján a késedelmi kamat megtérítése történik. A számviteli bizonylat alapja a monitoring és információs rendszerből készített lekérdezés.
 
 148. Az árfolyam-kompenzáció
 
@@ -3474,7 +3474,7 @@ A közbeszerzés
 
 329.2. A kedvezményezett az ajánlatok elbírálásáról szóló írásbeli összegezés megküldését követő 3 napon belül a monitoring és információs rendszeren keresztül megküldi a közbeszerzési eljárás során keletkezett összes dokumentumot – jogorvoslati eljárás esetén a Közbeszerzési Döntőbizottság döntését tartalmazó dokumentumot is – a KSZ részére.
 
-329.3. A KSZ a kedvezményezett által megküldött dokumentumokat az egységes működési kézikönyvvel, valamint a közbeszerzésekért felelős miniszter szakmai útmutatójával összhangban közbeszerzési-jogi, támogathatósági és elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá.
+329.3. A KSZ a kedvezményezett által megküldött dokumentumokat az egységes működési kézikönyvvel, valamint az NFK szakmai útmutatójával összhangban közbeszerzési-jogi, támogathatósági és elszámolhatósági, valamint műszaki szempontú utóellenőrzésnek veti alá.
 
 330.1. A KSZ elektronikus úton tájékoztatja a kedvezményezettet arról, ha az utóellenőrzés elvégzéséhez hiánypótlás vagy a tényállás tisztázása szükséges. A KSZ a tájékoztatásban megjelöli
 
@@ -3488,7 +3488,7 @@ b) a dokumentumok megküldésének – legfeljebb 7 napos – határidejét.
 
 332.1. Az ellenőrzés eredményétől függően a KSZ szabálytalansági eljárást folytat le a Rendelet 34. alcímében meghatározott szabályok szerint, illetve a Kbt. alapján jogorvoslati eljárást kezdeményez.
 
-332.2. A KSZ köteles haladéktalanul értesíteni a közbeszerzésekért felelős minisztert és az IH-t a szabálytalansági eljárás megindításáról. A közbeszerzésekért felelős miniszter és az IH kérésére a KSZ köteles teljes körűen adatot szolgáltatni a közbeszerzésekért felelős miniszter részére a felkérést követő 3 napon belül.
+332.2. A KSZ köteles haladéktalanul értesíteni az NFK-t és az IH-t a szabálytalansági eljárás megindításáról. Az NFK és az IH kérésére a KSZ köteles teljes körűen adatot szolgáltatni az NFK részére a felkérést követő 3 napon belül.
 
 332.3. Ha a Kbt. szerinti jogorvoslati eljárás megindítására a Rendelet 39. § (2) bekezdése szerinti határidőt követően, de még a Rendelet 39. § (3) bekezdése szerinti értesítés megküldése előtt kerül sor, a KSZ az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
@@ -3502,13 +3502,13 @@ b) a dokumentumok megküldésének – legfeljebb 7 napos – határidejét.
 
 334.1. A kedvezményezett a közbeszerzési eljárás megindítását megelőzően legalább 40 nappal a közbeszerzési dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontú minőségellenőrzés céljából a KSZ-nél nyújtja be a monitoring és információs rendszeren keresztül.
 
-334.2. A KSZ a részére nem elektronikus úton megküldött közbeszerzési dokumentumokat, a rögzítés elmaradásáról szóló kedvezményezett által készített indokolással együtt, haladéktalanul továbbítja a közbeszerzésekért felelős miniszter részére.
+334.2. A KSZ a részére nem elektronikus úton megküldött közbeszerzési dokumentumokat, a rögzítés elmaradásáról szóló kedvezményezett által készített indokolással együtt, haladéktalanul továbbítja az NFK részére.
 
 335.1. A KSZ az ellenőrzött dokumentumok tekintetében a kedvezményezett részére a beérkezéstől számított legfeljebb 7 napon belül megküldi a támogathatósági, elszámolhatósági tekintetben tett észrevételeit.
 
 335.2. A kedvezményezett ellenőrzi, javítja az észrevételeknek megfelelően a közbeszerzési dokumentumokat, majd az észrevételek kézhezvételét követő legfeljebb 5 napon belül – saját észrevételeivel együtt – visszaküldi a KSZ részére a monitoring és információs rendszeren keresztül.
 
-335.3. A KSZ a visszaküldött dokumentumokat ismételten ellenőrzi és a módosított dokumentumok beérkezését követő 5 napon belül megküldi a kedvezményezettnek és a közbeszerzésekért felelős miniszternek az ellenőrzésről szóló nyilatkozatát.
+335.3. A KSZ a visszaküldött dokumentumokat ismételten ellenőrzi és a módosított dokumentumok beérkezését követő 5 napon belül megküldi a kedvezményezettnek és az NFK részére az ellenőrzésről szóló nyilatkozatát.
 
 336.1. A KSZ által a kedvezményezett részére megküldött műszaki, szakmai ellenőrzésről szóló nyilatkozatnak tartalmaznia kell, hogy
 
@@ -3536,9 +3536,9 @@ c) az ellenőrzés megtörtént és az ellenőrzés időpontjában meghatározot
 
 158. Közbeszerzési-jogi minőségellenőrzés
 
-338.1. A közbeszerzésekért felelős miniszter abban az esetben fogadhatja be a kedvezményezett által – a Rendelet 39/B. § (5) bekezdésének megfelelően – a közbeszerzési-jogi minőségellenőrzés céljából a közbeszerzési eljárás megindítását megelőzően – a monitoring és információs rendszeren keresztül – megküldött közbeszerzési dokumentumokat, ha a kedvezményezett a KSZ-nek a műszaki, szakmai tartalommal kapcsolatban kiállított, elfogadó tartalmú nyilatkozatát is csatolta.
+338.1. Az NFK abban az esetben fogadhatja be a kedvezményezett által – a Rendelet 39/B. § (5) bekezdésének megfelelően – a közbeszerzési-jogi minőségellenőrzés céljából a közbeszerzési eljárás megindítását megelőzően – a monitoring és információs rendszeren keresztül – megküldött közbeszerzési dokumentumokat, ha a kedvezményezett a KSZ-nek a műszaki, szakmai tartalommal kapcsolatban kiállított, elfogadó tartalmú nyilatkozatát is csatolta.
 
-338.2. A közbeszerzésekért felelős miniszternek a közbeszerzési dokumentumok megküldésével egyidejűleg a következő információkat kell bekérnie a kedvezményezettől a monitoring és információs rendszeren keresztül:
+338.2. Az NFK-nak a közbeszerzési dokumentumok megküldésével egyidejűleg a következő információkat kell bekérnie a kedvezményezettől a monitoring és információs rendszeren keresztül:
 
 a) a kedvezményezett neve, székhelye (címe),
 
@@ -3564,19 +3564,19 @@ k) iratjegyzék,
 
 l) adott esetben a kapcsolódó közbeszerzési eljárás monitoring és információs rendszer azonosítójának megjelölése.
 
-338.3. A 338.2. c) pontja szerinti kapcsolattartóként elsősorban a közbeszerzési dokumentumok összeállításáért felelős személyt kell megnevezni. Az ellenőrzés során a közbeszerzésekért felelős miniszter a kapcsolattartó személyén keresztül tájékoztatja a kedvezményezettet.
+338.3. A 338.2. c) pontja szerinti kapcsolattartóként elsősorban a közbeszerzési dokumentumok összeállításáért felelős személyt kell megnevezni. Az ellenőrzés során az NFK a kapcsolattartó személyén keresztül tájékoztatja a kedvezményezettet.
 
-338.4. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
+338.4. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén az NFK a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
 
-339.1. A kedvezményezett által megküldött dokumentumokat a közbeszerzésekért felelős miniszter az ellenőrzési módszertan figyelembe vételével közbeszerzési-jogi minőségellenőrzésnek veti alá, erről minőségellenőrzési jelentést állít ki. A közbeszerzésekért felelős miniszter a minőségellenőrzési jelentést a kérelem beérkezésétől számított 7 napon belül megküldi a kedvezményezett részére.
+339.1. A kedvezményezett által megküldött dokumentumokat az NFK az ellenőrzési módszertan figyelembe vételével közbeszerzési-jogi minőségellenőrzésnek veti alá, erről minőségellenőrzési jelentést állít ki. Az NFK a minőségellenőrzési jelentést a kérelem beérkezésétől számított 7 napon belül megküldi a kedvezményezett részére.
 
-339.2. A közbeszerzésekért felelős miniszter a 339.1. pont szerinti 7 napos határidőt indokolt esetben, legfeljebb 7 nappal meghosszabbíthatja. A közbeszerzésekért felelős miniszter a határidő meghosszabbításáról legkésőbb a kérelem beérkezésétől számított 7. napon hivatali időben értesíti a kedvezményezettet. A minőségellenőrzésre rendelkezésre álló határidőbe nem számít bele a hiánypótlás, a tényállás tisztázásának ideje (a hiánypótlási felhívás megküldésétől a hiánypótlás teljes körű teljesítéséig tartó idő).
+339.2. Az NFK a 339.1. pont szerinti 7 napos határidőt indokolt esetben, legfeljebb 7 nappal meghosszabbíthatja. Az NFK a határidő meghosszabbításáról legkésőbb a kérelem beérkezésétől számított 7. napon hivatali időben értesíti a kedvezményezettet. A minőségellenőrzésre rendelkezésre álló határidőbe nem számít bele a hiánypótlás, a tényállás tisztázásának ideje (a hiánypótlási felhívás megküldésétől a hiánypótlás teljes körű teljesítéséig tartó idő).
 
-340. A kedvezményezett a közbeszerzésekért felelős miniszter minőségellenőrzési jelentése alapján módosított közbeszerzési dokumentumokat, illetve, ha a minőségellenőrzési jelentés megállapításaival nem ért egyet, a minőségellenőrzési jelentés megállapításaival kapcsolatos részletes indokolását a minőségellenőrzési jelentés kézhezvételétől számított 5 napon belül a monitoring és információs rendszeren keresztül megküldi a közbeszerzésekért felelős miniszter részére.
+340. A kedvezményezett az NFK minőségellenőrzési jelentése alapján módosított közbeszerzési dokumentumokat, illetve, ha a minőségellenőrzési jelentés megállapításaival nem ért egyet, a minőségellenőrzési jelentés megállapításaival kapcsolatos részletes indokolását a minőségellenőrzési jelentés kézhezvételétől számított 5 napon belül a monitoring és információs rendszeren keresztül megküldi az NFK részére.
 
-341.1. A közbeszerzésekért felelős miniszter a kedvezményezett által megküldött módosított közbeszerzési dokumentumokat ismételten ellenőrzi és közbeszerzési minőségellenőrzési tanúsítványt állít ki a módosított közbeszerzési dokumentumok kézhezvételét követő 5 napon belül, melyet megküld a kedvezményezett és a KSZ részére.
+341.1. Az NFK a kedvezményezett által megküldött módosított közbeszerzési dokumentumokat ismételten ellenőrzi és közbeszerzési minőségellenőrzési tanúsítványt állít ki a módosított közbeszerzési dokumentumok kézhezvételét követő 5 napon belül, melyet megküld a kedvezményezett és a KSZ részére.
 
-341.2. A közbeszerzésekért felelős miniszter minőségellenőrzési tanúsítványa tartalmazza legalább
+341.2. Az NFK minőségellenőrzési tanúsítványa tartalmazza legalább
 
 a) az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben foglaltakra – támogatjuk.” vagy az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben foglaltakra – nem támogatjuk.” vagy az „A közbeszerzési eljárás megindítását a vizsgált dokumentumok alapján – figyelemmel a ....../...... számú minőségellenőrzési jelentésben és a ....../...... számú tanúsítványban foglaltakra a következő feltételekkel támogatjuk.” szöveget,
 
@@ -3584,25 +3584,25 @@ b) azt, hogy a tanúsítvány a Rendelet alapján a közbeszerzési eljárás er
 
 c) azt, hogy a tanúsítvány a közbeszerzési és tervpályázati hirdetmények feladásának, ellenőrzésének és közzétételének szabályairól, a hirdetmények mintáiról és egyes tartalmi elemeiről, valamint az éves statisztikai összegezésről szóló 92/2011. (XII. 30.) NFM rendelet 9. § (1) bekezdése szerinti tanúsítványnak felel meg, de nem zárja ki a hirdetményellenőrzés kérésének lehetőségét, és
 
-d) a közbeszerzésekért felelős miniszter nyilatkozatát arról, hogy a minőségellenőrzési tanúsítvány kiállítása az ajánlatkérő Kbt.-ben meghatározott felelősségét az eljárás szabályosságáért nem érinti.
+d) az NFK nyilatkozatát arról, hogy a minőségellenőrzési tanúsítvány kiállítása az ajánlatkérő Kbt.-ben meghatározott felelősségét az eljárás szabályosságáért nem érinti.
 
-342.1. A kedvezményezett a közbeszerzésekért felelős miniszter minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha a közbeszerzésekért felelős miniszter a közbeszerzési dokumentumokat ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
+342.1. A kedvezményezett az NFK minőségellenőrzési tanúsítványának és a KSZ támogathatósági nyilatkozatának megfelelően véglegesíti a közbeszerzési dokumentumokat. A kedvezményezett a közbeszerzési eljárását akkor indíthatja meg, ha az NFK a közbeszerzési dokumentumokat ellenőrizte és erről támogató tartalmú minőségellenőrzési tanúsítványt állított ki figyelembe véve a Rendelet 37. § (3) bekezdése, valamint a támogatási szerződés rendelkezéseit.
 
-342.2. A kedvezményezett a közbeszerzési eljárás megindításával egyidejűleg köteles a monitoring és információs rendszerben rögzíteni, illetve a KSZ-nek és a közbeszerzésekért felelős miniszternek elektronikusan megküldeni az eljárást megindító végleges közbeszerzési dokumentumokat.
+342.2. A kedvezményezett a közbeszerzési eljárás megindításával egyidejűleg köteles a monitoring és információs rendszerben rögzíteni, illetve a KSZ-nek és az NFK részére elektronikusan megküldeni az eljárást megindító végleges közbeszerzési dokumentumokat.
 
-343. Ha a kedvezményezett a minőségellenőrzési jelentés kézhezvételétől számított 5 napos határidőt elmulasztja és a minőségellenőrzési jelentés kézhezvétele óta 30 nap eltelt, a közbeszerzésekért felelős miniszter az ellenőrzést minőségellenőrzési tanúsítvány kibocsátása nélkül lezárhatja. A kedvezményezett ebben az esetben új kérelem benyújtásával a minőségbiztosítás ismételt megindítását kezdeményezheti.
+343. Ha a kedvezményezett a minőségellenőrzési jelentés kézhezvételétől számított 5 napos határidőt elmulasztja és a minőségellenőrzési jelentés kézhezvétele óta 30 nap eltelt, az NFK az ellenőrzést minőségellenőrzési tanúsítvány kibocsátása nélkül lezárhatja. A kedvezményezett ebben az esetben új kérelem benyújtásával a minőségbiztosítás ismételt megindítását kezdeményezheti.
 
-344.1. A kedvezményezett írásban vagy elektronikus úton haladéktalanul tájékoztatja a közbeszerzésekért felelős minisztert, valamint a KSZ-t a végleges dokumentumokban történt esetleges változásokról. A dokumentumokban történt változás tekintetében, annak jelentősége, jellege és tartalma alapján a KSZ és a közbeszerzésekért felelős miniszter mérlegeli az új ellenőrzés lefolytatásának szükségességét. Új ellenőrzés lefolytatásának szükségtelensége esetén a változtatást a KSZ, illetve a közbeszerzésekért felelős miniszter tudomásul veszi.
+344.1. A kedvezményezett írásban vagy elektronikus úton haladéktalanul tájékoztatja az NFK-t, valamint a KSZ-t a végleges dokumentumokban történt esetleges változásokról. A dokumentumokban történt változás tekintetében, annak jelentősége, jellege és tartalma alapján a KSZ és az NFK mérlegeli az új ellenőrzés lefolytatásának szükségességét. Új ellenőrzés lefolytatásának szükségtelensége esetén a változtatást a KSZ, illetve az NFK tudomásul veszi.
 
-344.2. A közbeszerzésekért felelős miniszter a végleges dokumentumok megküldését követően – a jogorvoslati határidők figyelembevételével – jelzi az IH felé a Rendeletben foglalt szabálytalansági eljárás, illetve a Kbt. szerinti jogorvoslati eljárás lefolytatásának szükségességét.
+344.2. Az NFK a végleges dokumentumok megküldését követően – a jogorvoslati határidők figyelembevételével – jelzi az IH felé a Rendeletben foglalt szabálytalansági eljárás, illetve a Kbt. szerinti jogorvoslati eljárás lefolytatásának szükségességét.
 
 159. A közbeszerzési eljárás lefolytatása (folyamatba épített helyszíni vagy dokumentum alapú ellenőrzés)
 
-345.1. A kedvezményezett a Kbt. szerinti bontási eljárás előtt 10 nappal tájékoztatja a közbeszerzésekért felelős minisztert a bontás időpontjáról a monitoring és információs rendszeren keresztül.
+345.1. A kedvezményezett a Kbt. szerinti bontási eljárás előtt 10 nappal tájékoztatja az NFK-t a bontás időpontjáról a monitoring és információs rendszeren keresztül.
 
-345.2. A kedvezményezett az eljárást megindító iratokat és az addig keletkezett valamennyi dokumentumot (kiegészítő tájékoztatás, az ajánlati/ajánlattételi határidő esetleges módosítása, összeférhetetlenségi és titoktartási nyilatkozatok, helyszíni bejárásról készült jegyzőkönyv, jelenléti ív) megküldi a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
+345.2. A kedvezményezett az eljárást megindító iratokat és az addig keletkezett valamennyi dokumentumot (kiegészítő tájékoztatás, az ajánlati/ajánlattételi határidő esetleges módosítása, összeférhetetlenségi és titoktartási nyilatkozatok, helyszíni bejárásról készült jegyzőkönyv, jelenléti ív) megküldi az NFK részére a monitoring és információs rendszeren keresztül.
 
-346.1. A közbeszerzésekért felelős miniszter a közbeszerzési eljárásba megfigyelőt delegál. A közbeszerzésekért felelős miniszter az iratok beérkezését követően tájékoztatja a kedvezményezettet
+346.1. Az NFK a közbeszerzési eljárásba megfigyelőt delegál. Az NFK az iratok beérkezését követően tájékoztatja a kedvezményezettet
 
 a) a delegált megfigyelő személyéről és elérhetőségéről, valamint arról, hogy
 
@@ -3610,19 +3610,19 @@ b) a delegált megfigyelő az ellenőrzést személyesen vagy dokumentum alapon 
 
 346.2. A kedvezményezett az eljárás során keletkezett iratokat folyamatosan küldi a monitoring és információs rendszeren keresztül, szükség esetén elektronikus úton a delegált megfigyelőnek, különös tekintettel a részvételi/ajánlati/ajánlattételi felhívás módosítását tartalmazó hirdetményekre. A kedvezményezett a megfigyelőt a közbeszerzési eljárás lefolytatása során valamennyi eljárási cselekményről megfelelő időben, folyamatosan, elektronikus úton tájékoztatja, illetve az eljárás során keletkezett dokumentumokat (különösen a felvett jegyzőkönyveket, az egyes eljárási cselekményekhez kapcsolódó dokumentumokat, jogorvoslat esetén az azzal összefüggésben keletkezett dokumentumokat, valamint az ajánlatkérői döntéseket, döntési javaslatokat tartalmazó dokumentumokat) a megfigyelő részére megfelelő időben megküldi.
 
-347.1. A közbeszerzésekért felelős miniszter a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
+347.1. Az NFK a folyamatba épített ellenőrzés lezárásaként valamennyi, az ellenőrzés elvégzéséhez szükséges dokumentum kézhezvételét követő 15 napon belül – több szakaszból álló eljárás esetén valamennyi eljárási szakasz vonatkozásban – közbeszerzési szabályossági tanúsítványt állít ki, melyet az eljárást lezáró döntést, illetve az összegezés megküldését megelőzően megküld a kedvezményezett, illetve a KSZ részére.
 
-347.2. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzés lefolytatásához szükséges dokumentumok monitoring és információs rendszerbe történő feltöltésétől számított 5 napon belül kerül sor azzal, hogy a közbeszerzésekért felelős miniszter az ellenőrzés lefolytatása során – szükség esetén – további dokumentumok bekérését is kezdeményezheti. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
+347.2. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzés lefolytatásához szükséges dokumentumok monitoring és információs rendszerbe történő feltöltésétől számított 5 napon belül kerül sor azzal, hogy az NFK az ellenőrzés lefolytatása során – szükség esetén – további dokumentumok bekérését is kezdeményezheti. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén az NFK a rendelkezésre álló dokumentumok alapján bírálja el a közbeszerzéseket.
 
-348.1. A kedvezményezett az eljárást lezáró döntését abban az esetben hozhatja meg, ha a közbeszerzésekért felelős miniszter az eljárás szabályosságát ellenőrizte és az eljárás szabályosságáról tanúsítványt állított ki. A kedvezményezettnek az eljárást lezáró döntése meghozatala során figyelembe kell vennie a közbeszerzési szabályossági tanúsítványban foglaltakat. A kedvezményezett az összegzés megküldésével egyidejűleg az írásbeli összegezést, valamint – eltérő vélemény esetén – a közbeszerzési szabályossági tanúsítványban foglaltakkal kapcsolatos álláspontját a közbeszerzésekért felelős miniszter részére megküldi. A közbeszerzésekért felelős miniszter az eljárást lezáró döntés és a kedvezményezett álláspontjának ismeretében dönt arról, hogy szükséges-e az eljárással kapcsolatban szabálytalansági vagy jogorvoslati eljárást kezdeményeznie.
+348.1. A kedvezményezett az eljárást lezáró döntését abban az esetben hozhatja meg, ha az NFK az eljárás szabályosságát ellenőrizte és az eljárás szabályosságáról tanúsítványt állított ki. A kedvezményezettnek az eljárást lezáró döntése meghozatala során figyelembe kell vennie a közbeszerzési szabályossági tanúsítványban foglaltakat. A kedvezményezett az összegzés megküldésével egyidejűleg az írásbeli összegezést, valamint – eltérő vélemény esetén – a közbeszerzési szabályossági tanúsítványban foglaltakkal kapcsolatos álláspontját az NFK részére megküldi. Az NFK az eljárást lezáró döntés és a kedvezményezett álláspontjának ismeretében dönt arról, hogy szükséges-e az eljárással kapcsolatban szabálytalansági vagy jogorvoslati eljárást kezdeményeznie.
 
-348.2. Ha a kedvezményezett az eljárásra vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a közbeszerzésekért felelős minisztert, a közbeszerzésekért felelős miniszter a folyamatba épített szabályossági ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
+348.2. Ha a kedvezményezett az eljárásra vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja az NFK-t, az NFK a folyamatba épített szabályossági ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
 348.3. A szerződés megkötését követően a kedvezményezett az aláírt szerződést haladéktalanul benyújtja a KSZ-hez.
 
 160. A támogatás folyósításának feltételei
 
-349. A támogatást igénylő, illetve a kedvezményezett részére támogatás csak a közbeszerzésekért felelős miniszter támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a KSZ 337.1.-337.4. pont szerinti támogató nyilatkozatának a megléte esetén folyósítható.
+349. A támogatást igénylő, illetve a kedvezményezett részére támogatás csak az NFK támogató tartalmú minőségellenőrzési tanúsítványának, támogató tartalmú szabályossági tanúsítványának, valamint a KSZ 337.1.-337.4. pont szerinti támogató nyilatkozatának a megléte esetén folyósítható.
 
 161. Az uniós értékhatárokat el nem érő értékű, valamint az építési beruházás, építési koncesszió esetén a 300 millió forintot el nem érő értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
@@ -3654,27 +3654,27 @@ d) az indokolást alátámasztó valamennyi dokumentum.
 
 162. Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárás, továbbá építési beruházás, építési koncesszió esetén a 300 millió forintot elérő vagy meghaladó értékű közbeszerzési eljárás alapján megkötött szerződések módosítására vonatkozó szabályok
 
-352.1. A támogatást igénylő, illetve a kedvezményezett a megkötött szerződés módosításával kapcsolatban – a módosítást 45 nappal megelőzően – a KSZ és azt követően a közbeszerzésekért felelős miniszter írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi a KSZ részére a monitoring és információs rendszeren keresztül. A dokumentumok kézhezvételét követő 10 napon belül a KSZ megküldi a módosítás-tervezet támogathatósági, elszámolhatósági, valamint műszaki szempontú indokoltságára vonatkozó nyilatkozatát a támogatást igénylő, illetve a kedvezményezett, valamint a közbeszerzésekért felelős miniszter részére.
+352.1. A támogatást igénylő, illetve a kedvezményezett a megkötött szerződés módosításával kapcsolatban – a módosítást 45 nappal megelőzően – a KSZ és azt követően az NFK írásbeli véleményét kéri a monitoring és információs rendszeren keresztül. A támogatást igénylő, illetve a kedvezményezett a szerződést, a módosítás tervezetét, a módosítás indokolását, az indokolást alátámasztó valamennyi dokumentumot megküldi a KSZ részére a monitoring és információs rendszeren keresztül. A dokumentumok kézhezvételét követő 10 napon belül a KSZ megküldi a módosítás-tervezet támogathatósági, elszámolhatósági, valamint műszaki szempontú indokoltságára vonatkozó nyilatkozatát a támogatást igénylő, illetve a kedvezményezett, valamint az NFK részére.
 
-352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a szerződésmódosítással összefüggő dokumentumok közbeszerzésekért felelős miniszter általi, közbeszerzési-jogi szempontú véleményezését. A közbeszerzésekért felelős miniszter a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
+352.2. A támogatást igénylő, illetve a kedvezményezett a 352.1. pont szerinti nyilatkozat kézhezvételét követően haladéktalanul kezdeményezi a monitoring és információs rendszeren keresztül a szerződésmódosítással összefüggő dokumentumok NFK általi, közbeszerzési-jogi szempontú véleményezését. Az NFK a szerződés módosításával összefüggésben további dokumentumok benyújtását is kérheti.
 
-352.3. Ha a közbeszerzésekért felelős miniszternek további dokumentumokra is szüksége van, azt a kedvezményezettől hiánypótlás keretében kéri be. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén a közbeszerzésekért felelős miniszter a rendelkezésre álló dokumentumok alapján bírálja el a szerződésmódosítást.
+352.3. Ha az NFK-nak további dokumentumokra is szüksége van, azt a kedvezményezettől hiánypótlás keretében kéri be. Az eljárás során nincs helye ugyanazon hiányt vagy hiányosságot érintő ismételt hiánypótlási felhívás kibocsátásának. A hiánypótlás kibocsátására az ellenőrzési eljárás megindulásától számított 5 napon belül kerül sor. A hiánypótlás késedelmes teljesítése vagy nem teljesítése esetén az NFK a rendelkezésre álló dokumentumok alapján bírálja el a szerződésmódosítást.
 
-353. A közbeszerzésekért felelős miniszter a részére megküldött dokumentumok alapján a szerződésmódosítás tekintetében tett észrevételeit a dokumentumok kézhezvételét követő 15 napon belül megküldi a kedvezményezett részére.
+353. Az NFK a részére megküldött dokumentumok alapján a szerződésmódosítás tekintetében tett észrevételeit a dokumentumok kézhezvételét követő 15 napon belül megküldi a kedvezményezett részére.
 
-354.1. A kedvezményezett a közbeszerzésekért felelős miniszter észrevételei alapján módosítja a szerződésmódosítással összefüggő dokumentumokat, illetve, ha nem ért egyet a közbeszerzésekért felelős miniszter észrevételeivel, részletes indokolást is készít erről, melyet az észrevételek kézhezvételét követő 7 napon belül megküld a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
+354.1. A kedvezményezett az NFK észrevételei alapján módosítja a szerződésmódosítással összefüggő dokumentumokat, illetve, ha nem ért egyet az NFK észrevételeivel, részletes indokolást is készít erről, melyet az észrevételek kézhezvételét követő 7 napon belül megküld az NFK részére a monitoring és információs rendszeren keresztül.
 
-354.2. A közbeszerzésekért felelős miniszter a további észrevételeiről a módosított dokumentumok kézhezvételét követő 7 napon belül tájékoztatja a kedvezményezettet.
+354.2. Az NFK a további észrevételeiről a módosított dokumentumok kézhezvételét követő 7 napon belül tájékoztatja a kedvezményezettet.
 
-354.3. A kedvezményezett a közbeszerzésekért felelős miniszter észrevételeinek kézhezvételét követő 5 napon belül megküldi a módosított szerződést a közbeszerzésekért felelős miniszter részére a monitoring és információs rendszeren keresztül.
+354.3. A kedvezményezett az NFK észrevételeinek kézhezvételét követő 5 napon belül megküldi a módosított szerződést az NFK részére a monitoring és információs rendszeren keresztül.
 
-355. A közbeszerzésekért felelős miniszter a módosított szerződést megvizsgálja, és, ha nem ért egyet a szerződésmódosításban foglaltakkal, jelzi az IH-nak a Rendeletben meghatározott szabálytalansági eljárás, illetve jogorvoslati eljárás kezdeményezésének szükségességét.
+355. Az NFK a módosított szerződést megvizsgálja, és, ha nem ért egyet a szerződésmódosításban foglaltakkal, jelzi az IH-nak a Rendeletben meghatározott szabálytalansági eljárás, illetve jogorvoslati eljárás kezdeményezésének szükségességét.
 
-356.1. A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a KSZ és a közbeszerzésekért felelős miniszter adott szerződés-módosításra vonatkozó támogató tartalmú nyilatkozata, és véleménye alapján folyósítható.
+356.1. A kedvezményezett részére a szerződés-módosítással érintett támogatási összeg csak a KSZ és az NFK adott szerződés-módosításra vonatkozó támogató tartalmú nyilatkozata, és véleménye alapján folyósítható.
 
-356.2. Ha a kedvezményezett a szerződés-módosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja a közbeszerzésekért felelős minisztert, a közbeszerzésekért felelős miniszter az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
+356.2. Ha a kedvezményezett a szerződés-módosítására vonatkozó, Kbt. szerinti jogorvoslati eljárás megindításáról tájékoztatja az NFK-t, az NFK az ellenőrzést a jogorvoslati eljárás lezárásáról szóló döntés Kbt. szerinti kézbesítése, illetve közzététele napjáig felfüggeszti. Az ellenőrzés felfüggesztése vonatkozásában a korábbi időpont az irányadó.
 
-357. Ha a közbeszerzési eljárásban, valamint a szerződés-módosítás kapcsán utólagos ellenőrzés szükséges, a dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontból a KSZ, közbeszerzés-jogi szempontból a közbeszerzésekért felelős miniszter ellenőrzi az ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő 20 napon belül.
+357. Ha a közbeszerzési eljárásban, valamint a szerződés-módosítás kapcsán utólagos ellenőrzés szükséges, a dokumentumokat támogathatósági, elszámolhatósági, valamint műszaki szempontból a KSZ, közbeszerzés-jogi szempontból az NFK ellenőrzi az ellenőrzés lefolytatásához szükséges valamennyi dokumentum kézhezvételét követő 20 napon belül.
 
 163. A központosított közbeszerzés
 
@@ -3814,13 +3814,13 @@ c) korábbi, mint a fenntartási időszak vége, ha a speciális projektév kezd
 
 169. A jelentéssel összefüggő formai, tartalmi elvárások
 
-372.1. A PFJ és a ZPFJ űrlapját és a hozzá kapcsolódó kitöltési útmutatókat a központi koordinációs szerv a www.szechenyi2020.hu honlapon közzéteszi. Az általános kitöltési útmutató a központi koordinációs szerv jóváhagyásával módosítható.
+372.1. A PFJ és a ZPFJ űrlapját és a hozzá kapcsolódó kitöltési útmutatókat az NFK a www.szechenyi2020.hu honlapon közzéteszi. Az általános kitöltési útmutató az NFK jóváhagyásával módosítható.
 
 372.2. A PFJ-hez melléklet nem kérhető be, kivéve, ha a megvalósítás helyszíne és a kedvezményezett székhelye/telephelye nem egyezik meg. Ebben az esetben az iparűzési adó befizetéséről és a projektben foglalkoztatottak számáról információ kérhető.
 
-372.3. A ZPFJ-hez melléklet akkor kérhető, ha a bekérendő adatok az államigazgatás más szerveinek nyilvántartásaiból nem elérhetőek és azt az adott konstrukció esetében a központi koordinációs szerv jóváhagyta.
+372.3. A ZPFJ-hez melléklet akkor kérhető, ha a bekérendő adatok az államigazgatás más szerveinek nyilvántartásaiból nem elérhetőek és azt az adott konstrukció esetében az NFK jóváhagyta.
 
-373. A fenntartási jelentést, valamint annak esetleges hiánypótlását, korrekcióját egy példányban, a központi koordinációs szerv által meghatározott egységes formátumban, elektronikusan a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani.
+373. A fenntartási jelentést, valamint annak esetleges hiánypótlását, korrekcióját egy példányban, az NFK által meghatározott egységes formátumban, elektronikusan a XVII. Fejezetben foglaltak alapján az elektronikus alkalmazások használatának szabályai szerint kell benyújtani.
 
 374.1. A PFJ-ben a jelentés tárgyidőszakában a projektnek a Rendelet 80. §-a és az 1083/2006/EK tanácsi rendelet 57. cikk (1) bekezdése által meghatározott fenntartási követelményeknek és a támogatási szerződésben vállaltaknak való megfelelőségéről kell nyilatkozni.
 
@@ -4056,7 +4056,7 @@ d) megfelelően előkészített.
 
 397.3. Ha a 397.1. pont szerinti projektjavaslatot az IH elutasításra javasolja, de a Kormány a projektet jóváhagyja, a Kormány döntését nevesítésnek kell tekinteni és a részletesen kidolgozott projektjavaslatot az erre irányuló felhívásra ismét be kell nyújtani a Rendelet 28. § (5) bekezdése szerinti határidőn belül. Támogatási szerződés a felhívásban, valamint a Kormány által meghatározott feltételek teljesülése után köthető.
 
-398.1. A kiemelt projekt akciótervi nevesítéséről szóló előterjesztés tervezetét a projektötletek vagy projektjavaslatok IH részére történő beérkezését követő 30 napon belül az IH megküldi a központi koordinációs szerv részére.
+398.1. A kiemelt projekt akciótervi nevesítéséről szóló előterjesztés tervezetét a projektötletek vagy projektjavaslatok IH részére történő beérkezését követő 30 napon belül az IH megküldi az NFK részére.
 
 398.2. A 398.1. pont szerinti előterjesztésnek tartalmaznia kell legalább a Rendelet 3. § (4) bekezdése szerinti információkat.
 
@@ -4380,7 +4380,7 @@ A helyszíni ellenőrzés
 
 192. A helyszíni ellenőrzés eljárási szabályai
 
-428.1. A hitelesítés keretében végzendő folyamatba épített ellenőrzés (első szintű ellenőrzés) részeként az IH, az IH által megbízott személy, a KSZ, illetve a központi koordinációs szerv megbízásából a kincstár gondoskodik a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek megvalósításának helyszíni ellenőrzéséről.
+428.1. A hitelesítés keretében végzendő folyamatba épített ellenőrzés (első szintű ellenőrzés) részeként az IH, az IH által megbízott személy, a KSZ, illetve az NFK megbízásából a kincstár gondoskodik a kockázatelemzésen alapuló mintavételezéssel kiválasztott projektek megvalósításának helyszíni ellenőrzéséről.
 
 428.2. A kincstár a Rendelet 5/B. § (2) bekezdése szerint vonható be a helyszíni ellenőrzésekbe.
 
@@ -4852,23 +4852,23 @@ g) az IH döntése vagy intézkedése elleni kifogás esetén annak megjelölés
 
 467.1. Az IH haladéktalanul megvizsgálja a kifogás – Rendelet 82. § (1) bekezdése szerinti érdemi vizsgálat nélküli – elutasítására vonatkozó rendelkezések alkalmazhatóságát.
 
-467.2. Az IH elkészíti a kifogás érdemi vizsgálat nélküli elutasításról szóló szakmai álláspontot és az európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztérium szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott eljárásrend szerinti jóváhagyást követően továbbítja azt a központi koordinációs szerv részére.
+467.2. Az IH elkészíti a kifogás érdemi vizsgálat nélküli elutasításról szóló szakmai álláspontot és az IH-feladatokat ellátó szervezet szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott eljárásrend szerinti jóváhagyást követően továbbítja azt az NFK részére.
 
-467.3. A kifogás érdemi vizsgálat nélküli elutasításáról a központi koordinációs szerv dönt, amelyről a Rendelet 82. § (6) bekezdése szerint értesítést küld.
+467.3. A kifogás érdemi vizsgálat nélküli elutasításáról az NFK dönt, amelyről a Rendelet 82. § (6) bekezdése szerint értesítést küld.
 
 468.1. Ha a kifogás érdemi vizsgálat nélküli elutasításának nincs helye, az IH az érdemi vizsgálat keretében megvizsgálja az önrevízió lehetőségét.
 
-468.2. Ha az önrevízió feltételei fennállnak, az IH eleget tesz a Rendelet 82. § (4) bekezdés a) pontja szerinti kötelezettségeinek és ezzel a kifogás kezelését lezárja, ellenkező esetben az IH megküldi a központi koordinációs szerv részére a kifogást, valamint a kifogás valamennyi elemét érintő írásbeli szakmai álláspontját a Rendelet 82. § (4) bekezdés b) pontja szerinti, álláspontjának alapjául szolgáló írásbeli dokumentumokkal együtt.
+468.2. Ha az önrevízió feltételei fennállnak, az IH eleget tesz a Rendelet 82. § (4) bekezdés a) pontja szerinti kötelezettségeinek és ezzel a kifogás kezelését lezárja, ellenkező esetben az IH megküldi az NFK részére a kifogást, valamint a kifogás valamennyi elemét érintő írásbeli szakmai álláspontját a Rendelet 82. § (4) bekezdés b) pontja szerinti, álláspontjának alapjául szolgáló írásbeli dokumentumokkal együtt.
 
-468.3. Az IH a kifogással kapcsolatos álláspontját a monitoring és információs rendszerben a központi koordinációs szervhez történő megküldést követő 3 napon belül rögzíti.
+468.3. Az IH a kifogással kapcsolatos álláspontját a monitoring és információs rendszerben az NFK részére történő megküldést követő 3 napon belül rögzíti.
 
-469.1. A kifogás tárgyában a Rendelet 82. § (5) bekezdése, 82/A. § (2) bekezdése és 82/B. §-a szerint a központi koordinációs szerv dönt, majd eleget tesz a Rendelet 82. § (6) bekezdése szerinti kötelezettségének és a kifogás kezelését lezárja.
+469.1. A kifogás tárgyában a Rendelet 82. § (5) bekezdése, 82/A. § (2) bekezdése és 82/B. §-a szerint az NFK dönt, majd eleget tesz a Rendelet 82. § (6) bekezdése szerinti kötelezettségének és a kifogás kezelését lezárja.
 
-469.2. A központi koordinációs szerv a KSZ-től, az IH-tól a kifogás elbírálásához további dokumentumokat kérhet be, melyet a KSZ, az IH köteles a központi koordinációs szerv által meghatározott határidőn belül megküldeni.
+469.2. Az NFK a KSZ-től, az IH-tól a kifogás elbírálásához további dokumentumokat kérhet be, melyet a KSZ, az IH köteles az NFK által meghatározott határidőn belül megküldeni.
 
-469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint a központi koordinációs szerv meghosszabbíthatja.
+469.3. A kifogás elbírálásának határidejét a felterjesztést követően a Rendelet 82. § (2) bekezdése szerint az NFK meghosszabbíthatja.
 
-469.4. A központi koordinációs szerv döntését a monitoring és információs rendszerben 3 napon belül rögzíti és a kifogás kezelését lezárja.
+469.4. Az NFK döntését a monitoring és információs rendszerben 3 napon belül rögzíti és a kifogás kezelését lezárja.
 
 XIV. Fejezet
 
@@ -4880,5 +4880,75 @@ Szabálytalanságkezelés
 
 210. A szabálytalansági gyanú észlelése
 
+471.1. Aki szabálytalansági gyanút észlel, vagy szabálytalansági gyanú jut a tudomásra (így különösen munkafolyamatba épített ellenőrzés keretében, helyszíni ellenőrzés lefolytatása során, a belső ellenőrzés munkája során, az ellenőrzésre jogosult egyéb szervek megállapításai, jelentései alapján, közbeszerzési döntőbizottsági, közigazgatási, bírósági eljárás alapján, bejelentések, illetve feljelentések alapján, sajtóhírekből, korábbi szabálytalansági eljárás jogorvoslata során), a tudomásra jutástól számított 3 napon belül a szabálytalansági gyanú bejelentő adatlapon rögzíti a szabálytalanság gyanúját és azt haladéktalanul megküldi az illetékes szervezet (IH vagy KSZ) szabálytalanságfelelősének.
+
+471.2. A szabálytalansági gyanú észlelője a Rendelet 39. § (3) bekezdésére, 40/A. §-ára, valamint 62. §-ára tekintettel a gyanúbejelentéssel kapcsolatos halaszthatatlan eljárási cselekmények elvégzéséről gondoskodik.
+
+211. A szabálytalanságfelelős előzetes eljárása
+
+472. A szabálytalanságfelelős a gyanúbejelentés kézhezvételétől számított 3 napon belül
+
+a) megvizsgálja, hogy jogosult-e a szervezete a szabálytalansági gyanú ügyében eljárni,
+
+b) megvizsgálja, hogy ugyanaz a szabálytalansági gyanú korábban volt-e már szabálytalansági eljárás tárgya,
+
+c) tájékozódik a gyanúra utaló tényről, körülményről vagy dokumentumokról, melynek során helyszíni ellenőrzést tarthat, iratokba betekinthet, személyeket hallgathat meg, (külső) szakértő véleményét kérheti ki,
+
+d) megvizsgálja, hogy a Rendelet 84. § (5) bekezdésében foglaltak valamelyike fennáll-e,
+
+e) megteszi a haladéktalanul szükséges intézkedéseket,
+
+f) megküldi a szabálytalansági gyanú bejelentés kezelésével kapcsolatos döntési javaslatát a KSZ/IH vezetőjének, mellékelve a kapcsolódó dokumentumokat,
+
+g) rögzíti a szabálytalansági gyanút a monitoring és információs rendszerben.
+
+473. Ha a gyanúbejelentő adatlap hiányos, hibás, a szabálytalansági gyanút nem az arra használatos formanyomtatványon rögzítették, a szabálytalanságfelelős a hiányok megjelölésével felhívja a gyanúbejelentőt a hiányok pótlására. A szabálytalanságfelelős az előzetes vizsgálata során tett megállapítások nyomán jogosult a szabálytalansági gyanúbejelentő adatlap kiegészítésére, javítására.
+
+474.1. A szabálytalanságfelelős a szabálytalansági gyanú előzetes vizsgálata alapján annak kézhezvételétől számított 3 napon belül a következő döntési javaslatokat terjesztheti a döntéshozó elé:
+
+a) javaslat az eljárás megindítására,
+
+aa) ha az ismert tényekből és körülményekből, valamint a rendelkezésre álló dokumentumokból valószínűsíthető, hogy a szabálytalansági gyanú fennáll,
+
+ab) ha a Rendelet 94. § (2) bekezdése szerint benyújtott jogorvoslati kérelem KSZ/IH általi önrevíziója során a szabálytalansági döntés visszavonásra került, de a szabálytalansági gyanú továbbra is fennáll,
+
+ac) ha a Rendelet 99. § (2) bekezdése szerint az NFK a szabálytalansági döntésben foglaltakhoz képest új szabálytalansági gyanút állapít meg, és ennek kivizsgálása érdekében új szabálytalansági eljárás lefolytatására utasítja a szabálytalansági eljárás során eljáró szervezetet,
+
+ad) a Rendelet 99. § (1) bekezdés c) pontja szerinti esetben,
+
+b) javaslat a gyanú elutasítására, ha már a rendelkezésre álló dokumentumokból egyértelműen megállapítható, hogy a szabálytalansági gyanú nem áll fenn, különösen, ha a gyanút ugyanazon projektben, ugyanazon tényállás alapján már korábban megvizsgálták, és azóta új körülmény nem merült fel,
+
+c) javaslat az eljárásnak a Rendelet 87. § (2) bekezdése szerinti felfüggesztésére,
+
+d) javaslat a szabálytalansági gyanú IH részére történő továbbítására a Rendelet 85. § (2) bekezdése szerinti esetekben, illetve, ha a KSZ vezetőjével szemben a Rendelet 83. § (2) bekezdése szerinti összeférhetetlenség áll fenn,
+
+e) javaslat a szabálytalanság további vizsgálat nélkül történő, a Rendelet 84. § (5) bekezdése szerinti megállapítására.
+
+474.2. A 474.1. e) pontja szerinti esetben a szabálytalanságfelelős a gyanú felterjesztéssel egyidejűleg szabálytalansági eljárási jegyzőkönyvet is készít, melyet a gyanúbejelentővel együtt terjeszt a döntéshozó elé (a folyamat a 484.1. pont szerint folytatódik).
+
+474.3. A szabálytalanságfelelős az előterjesztésben – a szükséges dokumentumok csatolása mellett – javaslatot tehet
+
+a) a szabálytalansági eljárást vezető személyére,
+
+b) a kifizetések felfüggesztésére, illetve a felfüggesztés feloldására,
+
+c) a külső szakértő bevonására,
+
+d) a rendkívüli helyszíni szemle elrendelésére,
+
+e) a rendkívüli OLAF-jelentés küldésére, ha ennek jogszabályi feltételei fennállnak.
+
+474.4. A 474.1. c) pontja szerinti külön eljárás befejezését követően a szabálytalanságfelelős haladéktalanul kezdeményezi a szabálytalansági eljárás felfüggesztésének feloldását és – a határozat tartalmától függően – az eljárás megindítását vagy elutasítását.
+
+212. A szabálytalansági eljárás elrendelése
+
+475.1. A döntéshozó a szabálytalanságfelelős által készített döntés-előkészítő dokumentum alapján, annak kézhezvételétől számított 3 napon belül dönt az abban szereplő javaslatról és a döntés megküldésével egyidejűleg tájékoztatja a szabálytalanságfelelőst. Ha a döntést az IH-vezető hozta meg, az IH szabálytalanságfelelőse 3 napon belül tájékoztatja a KSZ szabálytalanságfelelősét a döntésről.
+
+475.2. A szabálytalanságfelelős 3 napon belül rögzíti a monitoring és információs rendszerben a szabálytalansági eljárás elrendelésének, elutasításának tényét és indokait, a KSZ vagy az IH-vezető döntésének dátumát, illetve ezzel a lépéssel a szabálytalansági gyanúbejelentést a monitoring és információs rendszerben lezárja.
+
+475.3. A szabálytalanságfelelős a szabálytalansági eljárás mellőzésével meghozott, szabálytalansági eljárási jegyzőkönyvben rögzített döntést annak kézhezvételét követő 3 napon belül rögzíti a monitoring és információs rendszerben.
+
+476.1. Az IH-nál észlelt, továbbá az IH-nak átadott szabálytalansági gyanúk vonatkozásában elrendelt szabálytalansági eljárást az IH-feladatokat ellátó szervezet szervezeti és működési szabályzatában vagy egyéb szabályzatában meghatározott szervezeti egysége folytatja le.
+
 [^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
-[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1–2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése, a 339/2023. (VII. 25.) Korm. rendelet 1. § a)-d) pontja, a 640/2023. (XII. 28.) Korm. rendelet 4. §-a és 5. § (2)─(3) bekezdése szerint módosított szöveg.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13. és 14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7. és 8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése, a 393/2017. (XII. 13.) Korm. rendelet 56. §-a, a 106/2018. (VI. 15.) Korm. rendelet 9. §-a, a 360/2019. (XII. 30.) Korm. rendelet 129. §-a, a 658/2021. (XI. 30.) Korm. rendelet 1. és 2. §-a, a 238/2022. (VI. 30.) Korm. rendelet 139. § (2) és (3) bekezdése, a 339/2023. (VII. 25.) Korm. rendelet 1. § a)–d) pontja, a 640/2023. (XII. 28.) Korm. rendelet 4. §-a és 5. § (2) és (3) bekezdése, a 218/2024. (VII. 31.) Korm. rendelet 12. §-a és 13. § 1–257. pontja szerint módosított szöveg.
