@@ -60,7 +60,7 @@ eb) a támogatási kérelemben megjelölt ültetvényről arra vonatkozóan, hog
 
 f) a termesztéstechnológiai módszerek javítása esetén a meglévő támberendezésről készített oldalnézeti vázrajzot,
 
-g)[^3]
+g) a felhasználni kívánt szaporítóanyagra vonatkozóan a szaporítóanyag megrendeléséről szóló visszaigazolás másolatát és
 
 h) a támogatást igénylő nyilatkozatát arra vonatkozóan, hogy
 
@@ -71,4 +71,3 @@ hb) az intézkedést vagy annak meghatározott, számlával nem igazolható rés
 i) az újratelepítési engedély másolatát, kivéve a 2. § c) pontja szerinti tevékenység esetén.
 
 [^2]: A 11. § (1) bekezdés a) pontja a 13/2024. (IV. 4.) AM rendelet 21. § (1) bekezdése szerint módosított szöveg.
-[^3]: A 11. § (2) bekezdés g) pontja a 26. § (2) bekezdés alapján 2024. augusztus 1-jén lép hatályba.
