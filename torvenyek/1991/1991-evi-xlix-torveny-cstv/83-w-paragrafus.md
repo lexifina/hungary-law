@@ -31,3 +31,5 @@ c) a felszámoló köteles beszerezni a bűnügyi hitelezői igénybejelentés a
 (12) E törvénynek a 2023. évi XLVI. törvénnyel megállapított 79/G. §-át azokban a 2023. évi XLVI. törvény hatálybalépésekor folyamatban lévő felszámolási eljárásokban kell alkalmazni, amelyekben a bíróság a 2023. évi XLVI. törvény hatálybalépését követően rendeli ki a 66. § (2) bekezdése szerinti állami felszámolót.
 
 (13) E törvénynek az egyes gazdasági és vagyongazdálkodási tárgyú törvények módosításáról szóló 2023. évi LXXXVII. törvénnyel (a továbbiakban: Módtv.1) megállapított 52. § (2) bekezdés c) pontját a Módtv.1 1. alcíme hatálybalépésének időpontjában folyamatban lévő azon felszámolási eljárásokban is alkalmazni kell, amelyekben az állami felszámolót a Módtv.1 1. alcíme hatálybalépését megelőzően kirendelték, de a felszámolási zárómérleget a bíróság részére még nem nyújtották be.
+
+(14) E törvénynek az online csalások elleni fellépés érdekében szükséges törvények és egyéb büntetőjogi tárgyú törvények módosításáról szóló 2024. évi XVIII. törvénnyel módosított 79/F. §-át az e rendelkezés hatálybalépésekor folyamatban lévő felszámolási eljárásokban is alkalmazni kell.

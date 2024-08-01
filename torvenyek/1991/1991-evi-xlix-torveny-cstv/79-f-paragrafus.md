@@ -1,9 +1,13 @@
 79/F. § (1) Az állami felszámoló a vagyonfelosztási javaslatot és az 52. §-ban meghatározott más iratokat csak azt követő két hónap elteltével küldi meg a bíróságnak, hogy a vagyonfelosztási javaslatot a büntetőeljárást lefolytató szervnek megküldte.
 
-(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igényre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a zár alá vételt végrehajtó szerv rendelkezésére kell bocsátani, és az állami felszámoló intézkedik:
+(2) A vagyonfelosztási javaslatban az előzetes bűnügyi hitelezői igényre a vagyonfelosztás során eső vagyont az adós gazdálkodó szervezet tulajdonába tartozó, zár alá vett vagyonként kell feltüntetni. A vagyonfelosztási javaslat jóváhagyása esetén a vagyont a bűnügyi hitelezői igény érvényesítése során a magyar állam képviseletében eljáró állami adó- és vámhatóság rendelkezésére kell bocsátani. A bíróság a 60. § (1) bekezdésében meghatározott végzésében felhívja
 
-a) a korábban zár alá vételt elrendelő nyomozó hatóság, ügyészség, bíróság megkeresése iránt a zár alá vétel ismételt elrendelése érdekében,
+a) a közhiteles és közérdekből vezetett nyilvántartásokat vezető szerveket, hogy a zár alá vétel tárgyaként a Be. 332. § (4) bekezdése alapján a bűnügyi hitelezői igény helyébe lépő felosztott vagyonra vonatkozóan a zár alá vételt a nyilvántartásba jegyezzék be, valamint
 
-b) a zár alá vétel közhiteles nyilvántartásba való bejegyzése iránt, valamint
+b) az állami felszámolót, hogy a zár alá vétel tárgyaként a Be. 332. § (4) bekezdése alapján a bűnügyi hitelezői igény helyébe lépő pénzeszközt az állami adó- és vámhatóság számlájára utalja át.
 
-c) a zár alá vétel végrehajtása érdekében a zár alá vett vagyon feletti rendelkezési jog felfüggesztését érvényesíteni képes gazdálkodó szervezet megkeresése iránt.
+(3) A bíróság a 60. § (1) bekezdésében meghatározott végzésében megállapítja, hogy a zár alá vétel a bűnügyi hitelezői igény helyébe lépő felosztott vagyonra terjed ki.
+
+(4) A bíróság a (2)–(3) bekezdés szerinti végzését hivatalból megküldi a büntetőeljárást lefolytató szervnek.
+
+(5) Az (1)–(4) bekezdésben foglaltakat megfelelően alkalmazni kell az 50. § (1) bekezdése szerinti közbenső mérleghez készített részleges vagyonfelosztási javaslatra, amennyiben a részleges vagyonfelosztási javaslat az előzetes bűnügyi hitelezői igényre vagyonfelosztást tartalmaz és a bíróság az 50. § (6) bekezdése szerinti végzésével a közbenső mérleget és a részleges vagyonfelosztási javaslatot jóváhagyja.
