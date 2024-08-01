@@ -1,5 +1,3 @@
-## Adatszolgáltatás a települések szennyvízelvezetéséről, a szennyvíztisztításáról, az egyedi zárt szennyvíztárolókról és az egyedi szennyvíztisztító létesítményekről
-
 | Tárgyév: |
 
 | Sorszám |  |  |
@@ -286,6 +284,6 @@ Tárgyév: ………
 
 | 9. | Szennyvíziszap-kezelés tekintetében (igen/nem) |  |
 
-(1) Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
+(1)Közintézményi létesítmény: óvoda, iskola, idősek otthona, egyéb stb.
 
 [^18]: A 3. melléklet a 195/2017. (VII. 10.) Korm. rendelet 15. § e)–g) pontja szerint módosított szöveg.

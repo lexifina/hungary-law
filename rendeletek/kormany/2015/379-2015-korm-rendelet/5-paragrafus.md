@@ -8,13 +8,13 @@
 
 (5)[^5] A működési területével érintett vízügyi igazgatóság a (2) bekezdés szerinti kérelmet, annak mellékleteit, valamint – a (2) és (3) bekezdés szerinti esetben – a TVT illetékes szakmai bizottságának állásfoglalását tartalmazó jegyzőkönyvet 30 napon belül, szakmai véleményével ellátva felterjeszti az Országos Vízügyi Főigazgatóságnak (a továbbiakban: OVF). Az OVF a működési területével érintett vízügyi igazgatóság szakmai véleményét figyelembe véve a kérelemmel kapcsolatos szakmai állásfoglalását 15 napon belül felterjeszti a miniszternek.
 
-A miniszter – a víziközmű-szolgáltatásért felelős miniszterrel és az állami beruházásokért felelős miniszterrel történt egyeztetést követően – a kérelemben szereplő, az OVF által támogatott fejlesztési igényt nyilvántartásba veszi, ha az az Irányelv hatálya alá tartozik vagy a (2) bekezdés szerinti kiépítési kötelezettséget érint. A nyilvántartásba vételről szóló értesítést az OVF a működési területével érintett vízügyi igazgatóságon keresztül továbbítja a kérelmező részére.
+A miniszter – az állami beruházásokért felelős miniszterrel történt egyeztetést követően – a kérelemben szereplő, az OVF által támogatott fejlesztési igényt nyilvántartásba veszi, ha az az Irányelv hatálya alá tartozik vagy a (2) bekezdés szerinti kiépítési kötelezettséget érint. A nyilvántartásba vételről szóló értesítést az OVF a működési területével érintett vízügyi igazgatóságon keresztül továbbítja a kérelmező részére.
 
 (6)[^6] A miniszter a tárgyévet követő év november 15-ig gondoskodik a nyilvántartásba vett önkormányzati fejlesztési igények elektronikus közzétételéről.
 
 (7)[^7] A nyilvántartásba vett fejlesztési igények finanszírozási forrásának hiánya esetén a miniszter és az állami beruházásokért felelős miniszter kezdeményezésére a Kormány a tárgyévet követő év június 30-ig dönt a finanszírozhatóságról.
 
 [^4]: Az 5. § a 288/2018. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 5. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 5. § (5) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított, a 217/2024. (VII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^6]: Az 5. § (6) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 5. § (7) bekezdése a 238/2022. (VI. 30.) Korm. rendelet 152. § (2) bekezdésével megállapított szöveg.
