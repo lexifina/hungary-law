@@ -1,4 +1,4 @@
-8. §[^54] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét, amennyiben az (5) bekezdés a) pontja szerint minősített beszerzési tervben szerepel, a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas – a kézhezvételtől számított 10 munkanapon belül, amennyiben az (5) bekezdés a) pontja szerint minősített beszerzési tervben nem szerepel, 25 munkanapon belül megvizsgálja, és megállapítja, hogy
+8. §[^55] (1) A VBÜ az érintett szervezet védelmi és biztonsági feladatokkal összefüggő beszerzési igényét, amennyiben az (5) bekezdés a) pontja szerint minősített beszerzési tervben szerepel, a Portálra történő feltöltéstől, vagy – ha a védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősített adatot tartalmaz, és a Portál minősített adat továbbítására nem alkalmas – a kézhezvételtől számított 10 munkanapon belül, amennyiben az (5) bekezdés a) pontja szerint minősített beszerzési tervben nem szerepel, 25 munkanapon belül megvizsgálja, és megállapítja, hogy
 
 a) a beszerzési igény megfelel-e a beszerzési tervnek, és
 
@@ -50,4 +50,4 @@ időtartama.
 
 (11) A védelmi és biztonsági feladatokkal összefüggő beszerzési igény minősítéséről a VBÜ az érintett szervezetet 2 munkanapon belül tájékoztatja. A tájékoztatást elsősorban a Portálon keresztül kell megtenni.
 
-[^54]: A 8. § a 634/2023. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^55]: A 8. § a 634/2023. (XII. 23.) Korm. rendelet 7. §-ával megállapított szöveg.
