@@ -84,3 +84,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2024-06-30 | 2024. évi VII. törvény | 2013-237-00-00.78 |
 | 2024-07-01 | 2023. évi CXIV. törvény | 2013-237-00-00.77 |
 | 2024-07-03 | 2024. évi XXIX. törvény | 2013-237-00-00.83 |
+| 2024-08-01 | 2024. évi XVIII. törvény | 2013-237-00-00.82 |

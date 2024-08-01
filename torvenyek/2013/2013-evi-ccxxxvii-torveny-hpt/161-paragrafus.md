@@ -62,7 +62,7 @@ c) a pénzügyi intézmény a hitelszerződésből eredő kötelezettségeiknek 
 
 d) a pénzügyi intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget,
 
-e) a pénzügyi intézmény a Pmt. szerinti bejelentési kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
+e) a pénzügyi intézmény a Pmt. szerinti bejelentési, illetve pénzforgalmi szolgáltató részére történő tájékoztatási kötelezettségét, valamint csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti,
 
 f) a magyar bűnüldöző szerv nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – harmadik ország bűnüldöző szerve esetén, ha a megkeresés tartalmazza a harmadik országbeli adatkérő által aláírt titoktartási záradékot – írásban kér banktitoknak minősülő adatot a pénzügyi intézménytől, vagy
 
