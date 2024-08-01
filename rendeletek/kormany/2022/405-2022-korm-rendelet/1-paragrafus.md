@@ -12,4 +12,6 @@
 
 5. riasztási gyakorlat: a védelmi és biztonsági eseményt kezelő vagy abban együttműködő szervezet részére elrendelt gyakorlatfajta, amely a szervezet egészére, részeire, elemeire vagy egyes személyére vonatkoztatva, kidolgozott szabályok, időbeosztás és ütemezés szerinti műveletekre, tevékenységre irányuló cselekménysor,
 
-6. ütemterven kívüli gyakorlat: a központi gyakorlat fajtája, amelynek tervezése és elrendelése a miniszterelnök utasítása alapján történik, és amelynek célja egy aktuális vagy várható védelmi és biztonsági eseményre való reagálás és eseménykezelési képesség felmérése.
+6.[^1] ütemterven kívüli gyakorlat: a központi gyakorlat fajtája, amelynek tervezése és elrendelése a miniszterelnök vagy a miniszterelnök nemzetbiztonsági főtanácsadója utasítására történik, és amelynek célja egy aktuális vagy várható védelmi és biztonsági eseményre való reagálás és eseménykezelési képesség felmérése.
+
+[^1]: Az 1. § 6. pontja a 217/2024. (VII. 31.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
