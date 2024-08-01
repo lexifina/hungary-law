@@ -1,1 +1,3 @@
-23. § A védelmi és biztonsági igazgatás központi szerve az ellenőrzési jelentést a Miniszterelnöki Kabinetiroda nemzeti információs államtitkára útján a Kormány részére terjeszti elő.
+23. §[^2] A védelmi és biztonsági igazgatás központi szerve az ellenőrzési jelentést a miniszterelnök nemzetbiztonsági főtanácsadója útján a Védelmi Tanács részére terjeszti elő.
+
+[^2]: A 23. § a 217/2024. (VII. 31.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.

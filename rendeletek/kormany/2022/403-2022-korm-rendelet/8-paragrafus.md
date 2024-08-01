@@ -12,4 +12,6 @@ e) a védelmi és biztonsági ellenőrzés tárgyilagos lefolytatása tőle egy�
 
 (2) Az összeférhetetlenségről a védelmi és biztonsági igazgatás központi szervének vezetője az összeférhetetlenség okának tudomására jutásától számított 8 napon belül határoz. A döntés meghozataláig a védelmi és biztonsági ellenőrt az összeférhetetlenséggel érintett védelmi és biztonsági ellenőrzéssel összefüggésben az ellenőrzési tevékenysége alól fel kell menteni.
 
-(3) Ha az (1) bekezdés szerinti összeférhetetlenség a védelmi és biztonsági igazgatás központi szervének vezetőjével kapcsolatban merül fel, köteles azt haladéktalanul a Miniszterelnöki Kabinetiroda nemzeti információs államtitkára útján a Miniszterelnöki Kabinetirodát vezető miniszternek bejelenteni. Az összeférhetetlenségről a Miniszterelnöki Kabinetirodát vezető miniszter dönt.
+(3)[^1] Ha az (1) bekezdés szerinti összeférhetetlenség a védelmi és biztonsági igazgatás központi szervének vezetőjével kapcsolatban merül fel, köteles azt haladéktalanul a miniszterelnök nemzetbiztonsági főtanácsadója útján a Miniszterelnöki Kabinetirodát vezető miniszternek bejelenteni. Az összeférhetetlenségről a Miniszterelnöki Kabinetirodát vezető miniszter dönt.
+
+[^1]: A 8. § (3) bekezdése a 217/2024. (VII. 31.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
