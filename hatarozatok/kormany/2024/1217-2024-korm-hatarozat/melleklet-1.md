@@ -22,15 +22,15 @@
 
 ## 4.8.[^11]
 
-## 4.9.[^12]
+## 4.9. C:6 mezőjében a „Közigazgatási és Területfejlesztési Minisztérium” szövegrész helyébe a „Nemzeti Fejlesztési Központ” szöveg,
 
-## 4.10.[^13]
+## 4.10.[^12]
 
 ## lép,
 
-## 4.11. [^14]
+## 4.11. [^13]
 
-## 5.[^15]
+## 5.[^14]
 
 ## 6.
 
@@ -38,7 +38,7 @@
 
 ## b) A 4.9. pont 2024. augusztus 1. napján lép hatályba.
 
-1. melléklet az 1217/2024. (VII. 29.) Korm. határozathoz[^16]
+1. melléklet az 1217/2024. (VII. 29.) Korm. határozathoz[^15]
 
 [^1]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -51,8 +51,7 @@
 [^9]: A 4. pont 4.6. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^10]: A 4. pont 4.7. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^11]: A 4. pont 4.8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 4. pont 4.9. pontja a 6. pont b) alpontja alapján 2024. augusztus 1-jén lép hatályba.
-[^13]: A 4. pont 4.10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 4. pont 4.11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 4. pont 4.10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 4. pont 4.11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
