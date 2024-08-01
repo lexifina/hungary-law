@@ -53,3 +53,5 @@ közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek ny
 (8) Az NBSZ a személyazonosítást elősegítő eszköz üzemeltetése során közvetlen hozzáféréssel jogosult átvenni a 8. § (1) bekezdésben meghatározott közérdekből nyilvános adatokat a körözött személy tartózkodási helyének meghatározása érdekében.
 
 (9) A büntetés-végrehajtási szerv az ideiglenes befogadási eljárás során adategyeztetés céljából, a jogellenes fogvatartás lehetőségének kizárása érdekében jogosult az ideiglenes befogadási eljárás alatt adatot átvenni a körözött személyek nyilvántartásából.
+
+(10) A büntetés-végrehajtási szerv az elítélt vagy egyéb jogcímen fogvatartott befogadása, valamint az elítélt és az egyéb jogcímen fogvatartott kapcsolattartójának a büntetés-végrehajtási intézetbe történő beléptetéséhez szükséges azonosítási tevékenység céljából közvetlen hozzáféréssel jogosult adatot átvenni a körözött személyek nyilvántartásából a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével.
