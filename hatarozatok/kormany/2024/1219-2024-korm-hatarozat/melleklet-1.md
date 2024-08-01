@@ -46,10 +46,8 @@
 
 | Határidő: | az adatszolgáltatás tekintetében 2024. július 31. az átvezetés tekintetében 2024. augusztus 1. |
 
-## 2. A Kék Bolygó Klímavédelmi Kockázati Tőkealapról szóló 1260/2020. (V. 27.) Korm. határozat a következő 6. ponttal egészül ki:
-
-## (A Kormány a Kék Bolygó Klímavédelmi Alapítvány tevékenységének bővítése és Magyarország környezet- és klímavédelmi céljainak elérése érdekében)
-
-## „6. tudomásul veszi a Kék Bolygó Klímavédelmi Kockázati Tőkealap magántőkealappá történő átalakulását.”
+## 2.[^1]
 
 1. melléklet az 1219/2024. (VII. 31.) Korm. határozathoz
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
