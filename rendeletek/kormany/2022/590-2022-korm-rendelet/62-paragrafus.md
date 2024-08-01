@@ -6,9 +6,9 @@ b) pénzügyi ellenjegyző: a nemzeti hatóság gazdasági vezetője vagy az ál
 
 c) teljesítésigazoló: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy,
 
-d)[^59] érvényesítő: a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy, továbbá a technikai segítségnyújtás kivételével a 241/2023. (VI. 20.) Korm. rendelet 3. § (1) bekezdés 61. pontjában meghatározott esetben az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy,
+d)[^62] érvényesítő: a nemzeti hatóság gazdasági vezetője vagy az általa írásban kijelölt személy, továbbá a technikai segítségnyújtás kivételével a 241/2023. (VI. 20.) Korm. rendelet 3. § (1) bekezdés 61. pontjában meghatározott esetben az SZPI gazdasági vezetője vagy az általa írásban kijelölt személy,
 
-e)[^60] utalványozó: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy, továbbá a technikai segítségnyújtás kivételével a 241/2023. (VI. 20.) Korm. rendelet 3. § (1) bekezdés 61. pontjában meghatározott esetben az SZPI vezetője vagy az általa írásban kijelölt személy.
+e)[^63] utalványozó: a nemzeti hatóság vezetője vagy az általa írásban kijelölt személy, továbbá a technikai segítségnyújtás kivételével a 241/2023. (VI. 20.) Korm. rendelet 3. § (1) bekezdés 61. pontjában meghatározott esetben az SZPI vezetője vagy az általa írásban kijelölt személy.
 
-[^59]: A 62. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^60]: A 62. § e) pontja a 339/2023. (VII. 25.) Korm. rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^62]: A 62. § d) pontja a 339/2023. (VII. 25.) Korm. rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^63]: A 62. § e) pontja a 339/2023. (VII. 25.) Korm. rendelet 54. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.

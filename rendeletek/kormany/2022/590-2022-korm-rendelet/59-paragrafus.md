@@ -1,4 +1,4 @@
-## 20.[^58] A központi kezelésű előirányzatok hatásköri szabályai
+## 20.[^61] A központi kezelésű előirányzatok hatásköri szabályai
 
 59. § (1) A 2014–2020 közötti kohéziós politikai operatív programok előirányzatai (XIX. fejezet, 3. cím, 1. alcím) – a 60. §-ban meghatározott kivétellel –, valamint a 2021–2027 közötti kohéziós politikai operatív programok előirányzatai (XIX. fejezet, 3. cím, 9. alcím) vonatkozásában
 
@@ -14,4 +14,4 @@ e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személ
 
 (2) Ahol az (1) bekezdés OP IH-t említ, azon a Versenyképes Közép-Magyarország OP (VEKOP) előirányzat (XIX. fejezet, 3. cím, 1. alcím, 2. jogcímcsoport) esetén az országos kihatású projektek vonatkozásában a projekt szakmai tartalmáért felelős irányító hatóságot kell érteni.
 
-[^58]: [A 20. alcímben a 339/2023. (VII. 25.) Korm. rendelet 53. §-a által elrendelt módosítás, amely szerint a 20. alcím 51/A. §-sal egészül ki, nem vezethető át.]
+[^61]: [A 20. alcímben a 339/2023. (VII. 25.) Korm. rendelet 53. §-a által elrendelt módosítás, amely szerint a 20. alcím 51/A. §-sal egészül ki, nem vezethető át.]
