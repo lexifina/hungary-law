@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2024-18-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2024-08-01 | 2024. évi XVIII. törvény | 2024-18-00-00.0 (közlönyállapot) |
+| 2024-08-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2024-18-00-00.1 |
