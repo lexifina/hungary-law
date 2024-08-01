@@ -6,7 +6,7 @@ b)
 
 c)
 
-d)
+d) 239. § (2) bekezdésében a „miniszter, a” szövegrész helyébe a „miniszter, a Nemzeti Fejlesztési Központ helyettes államtitkára lemondása esetén az európai uniós források felhasználásáért felelős miniszter, a” szöveg,
 
 e)
 
