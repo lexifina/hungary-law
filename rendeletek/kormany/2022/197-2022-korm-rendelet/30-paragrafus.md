@@ -20,9 +20,12 @@
 
 (10)[^88] E rendeletnek a Módr5. által megállapított 4/A. § (5a)–(5c) bekezdését az adózó első alkalommal a 2024. adóévi adókötelezettsége megállapítása során alkalmazza.
 
+(11)[^89] E rendeletnek az extraprofit adókról szóló 197/2022. (VI. 4.) Korm. rendelet módosításáról szóló 183/2024. (VII. 8.) Korm. rendelettel megállapított 15. §-át a 2024. július 31. napját követően teljesített fizetési műveletekre és a fizetési műveletnek nem minősülő műveletekre kell alkalmazni.
+
 [^83]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 206/2023. (V. 31.) Korm. rendelet 11. §-a iktatta be.
 [^84]: A hatálybalépés időpontja 2023. június 1.
 [^85]: A 30. § (7) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^86]: A 30. § (8) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (1) bekezdése iktatta be.
 [^87]: A 30. § (9) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (2) bekezdése iktatta be.
 [^88]: A 30. § (10) bekezdését a 317/2023. (VII. 17.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^89]: A 30. § (11) bekezdését a 183/2024. (VII. 8.) Korm. rendelet 3. § (1) bekezdése iktatta be.

@@ -2,7 +2,7 @@
 
 (2) A különadó alapja az Oroszországi Föderációból származó kőolaj (3) bekezdés szerint meghatározott világpiaci árkülönbözetének és a tárgyhónapban beszerzett, az Oroszországi Föderációból származó nyersolaj hordóban mért mennyiségének a szorzata.
 
-(3)[^19] E § alkalmazásában a kőolaj világpiaci árkülönbözete a Platts Crude Oil Marketwire Brent (Platts Dated Brent-PCAAS0) tárgyhónapra vonatkozó napi jegyzései Mid értékeinek (amerikai dollár/hordó) számtani átlaga és az Orosz Föderációból származó nyersolaj tárgyhavi hordónkénti beszerzési árainak számtani átlaga közötti különbség hordónként 7,5 amerikai dollárral csökkentett összege, ha az pozitív, azzal, hogy a kőolajtermék-előállító az adókötelezettség megállapításakor a Magyar Nemzeti Bank hivatalos, tárgyhavi átlagos amerikai dollár árfolyamát alkalmazza.
+(3)[^19] E § alkalmazásában a kőolaj világpiaci árkülönbözete a Platts Crude Oil Marketwire Brent (Platts Dated Brent-PCAAS0) tárgyhónapra vonatkozó napi jegyzései Mid értékeinek (amerikai dollár/hordó) számtani átlaga és az Orosz Föderációból származó nyersolaj tárgyhavi hordónkénti beszerzési árainak számtani átlaga közötti különbség hordónként 5 amerikai dollárral csökkentett összege, ha az pozitív, azzal, hogy a kőolajtermék-előállító az adókötelezettség megállapításakor a Magyar Nemzeti Bank hivatalos, tárgyhavi átlagos amerikai dollár árfolyamát alkalmazza.
 
 (4) A beszerzési ár a számla szerinti, amerikai dollárban meghatározott beszerzési ár, amely további beszerzéshez kapcsolódó költségekkel nem csökkenthető.
 
@@ -21,5 +21,5 @@
 (11) Az e § szerinti különadóból származó bevétel az államháztartás központi alrendszerének bevétele.
 
 [^18]: A 2. § (1) bekezdése a 206/2023. (V. 31.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^19]: A 2. § (3) bekezdése a 100/2023. (III. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^19]: A 2. § (3) bekezdése a 100/2023. (III. 29.) Korm. rendelet 4. §-a, a 183/2024. (VII. 8.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^20]: A 2. § (5) bekezdése a 496/2022. (XII. 7.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
