@@ -15,5 +15,3 @@ a) a rongálást és a csalást ötvenezer forintot meg nem haladó kárt okozva
 b) a lopást, a sikkasztást és a jogtalan elsajátítást ötvenezer forintot meg nem haladó értékre,
 
 c) a hűtlen kezelést ötvenezer forintot meg nem haladó vagyoni hátrányt okozva,
-
-d) a szerzői vagy szerzői joghoz kapcsolódó jogok megsértését százezer forintot meg nem haladó
