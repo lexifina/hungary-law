@@ -6,7 +6,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 1. A Belügyminisztériumba vezényléssel betölthető szolgálati beosztások
 
-1.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+1.1.[^38] Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -14,21 +14,19 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | középvezető | szakirányító 1 | sajtófőnök | 370-570 | 370-570 |
+| 3. | középvezető | szakirányító 1 | sajtófőnök | 370-870 | 370-870 |
 
-| 4. | középvezető | szakirányító 1 | főosztályvezető | 370-570 | 370-570 |
+| 4. | középvezető | szakirányító 1 | főosztályvezető | 370-870 | 370-870 |
 
-| 5. | középvezető | főosztályvezető 1 | főtanácsadó | 370-570 | 370-570 |
+| 5. | középvezető | főosztályvezető 1 | főtanácsadó | 370-870 | 370-870 |
 
-| 6. | középvezető | főosztályvezető 2 | osztályvezető* | 370-570 | 370-570 |
+| 6. | középvezető | főosztályvezető 2 | osztályvezető* | 370-870 | 370-870 |
 
-| 7. |  |  |  | 370-570 | 370-570 |
+| 7. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető** | 370-870 | 370-870 |
 
-| 8. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető** | 370-570 | 370-570 |
+| 8. | beosztott vezető | osztályvezető 1 | tanácsadó | 370-870 | 370-870 |
 
-| 9. | beosztott vezető | osztályvezető 1 | tanácsadó | 370-570 | 370-570 |
-
-| 10. | beosztott vezető | osztályvezető 1 | sajtószóvivő | 370-570 | 370-570 |
+| 9. | beosztott vezető | osztályvezető 1 | sajtószóvivő | 370-870 | 370-870 |
 
 1.1.1. Megjegyzés:
 
@@ -36,7 +34,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 1.1.1.2. **: A hivatásos állomány tagja akkor sorolható be beosztott vezetőként osztályvezető szolgálati beosztásba, ha nem felel meg a Hszt. 58. § (4) bekezdésének, ennek megfelelően beosztott vezetői beosztásban nem töltött el legalább három évet.
 
-1.2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+1.2.[^39] Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -44,11 +42,11 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | kiemelt főreferens | 570 | 570 |
+| 3. | E | kiemelt főreferens | 570-870 | 570-870 |
 
-| 4. | D | kiemelt főelőadó | 570 | 570 |
+| 4. | D | kiemelt főelőadó | 570-870 | 570-870 |
 
-1.3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+1.3.[^40] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -56,9 +54,9 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 2. | alapfeladat | nem alapfeladat |
 
-| 3. | E | referens | 545 | 545 |
+| 3. | E | referens | 545-870 | 545-870 |
 
-| 4. | C | gépkocsivezető |  | 545 |
+| 4. | C | gépkocsivezető |  | 545-870 |
 
 2. A belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások
 
@@ -176,7 +174,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 9. | szolgálatparancsnok-helyettes | 520 | 520 |
 
-2.3.[^38] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
+2.3.[^41] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
 
 2.3.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -189,4 +187,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 | 3. | kiemelt vezető | központi szerv vezetőjének helyettese | általános helyettes |  |  |
 
 [^37]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
-[^38]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.
+[^38]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^39]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^40]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^41]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.
