@@ -38,7 +38,7 @@ d) az árfolyamnyereségből származó jövedelem [Szja tv. 67. §],
 
 e) az Szja tv. 1/B. § hatálya alá tartozó természetes személy e tevékenységből származó jövedelme,
 
-f)
+f) az ingatlanalap befektetési jegyéből származó kamatjövedelem kivételével a természetes személy kamatjövedelme (Szja tv. 65. §)
 
 g)
 

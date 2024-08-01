@@ -68,7 +68,7 @@ m) a társadalombiztosítási nyugdíjrendszerbe történő visszalépés miatt 
 
 (6) A Tbj. szerint külföldinek minősülő személy által megszerzett
 
-a) az 1. § (5) bekezdés a)–d) pontja szerinti jövedelmet,
+a) az 1. § (5) bekezdés a)–d) és f) pontja szerinti jövedelmet,
 
 b) az Szja tv. szerint egyéb jövedelemnek minősülő jövedelmet és
 
