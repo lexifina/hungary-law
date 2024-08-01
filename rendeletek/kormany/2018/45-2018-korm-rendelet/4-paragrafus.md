@@ -10,7 +10,7 @@ d) az Állami Számvevőszék vagy a Költségvetési Tanács látja el, az áll
 
 e) a Közbeszerzési Hatóság látja el, a közbeszerzésekért felelős miniszter;
 
-f) a Magyar Energetikai és Közmű-szabályozási Hivatal látja el, az energiapolitikáért felelős miniszter;
+f)[^1] a Magyar Energetikai és Közmű-szabályozási Hivatal vagy az Országos Atomenergia Hivatal látja el, az energiapolitikáért felelős miniszter;
 
 g) a Nemzeti Média- és Hírközlési Hatóság látja el, az audiovizuális politikáért felelős miniszter és az elektronikus hírközlésért felelős miniszter;
 
@@ -22,7 +22,7 @@ j) a Nemzeti Emlékezet Bizottsága látja el, a kormányzati társadalmi kapcso
 
 k) a Magyar Honvédség látja el, a honvédelemért felelős miniszter;
 
-l)[^1] – a Kormány, a kormánybizottság, az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv és ezek területi szerve (a továbbiakban együtt: központi államigazgatási szerv) látja el, a központi államigazgatási szerv irányításáért, vezetéséért vagy felügyeletéért felelős miniszter, a Miniszterelnöki Kormányiroda tekintetében a Miniszterelnöki Kormányirodát vezető közigazgatási államtitkár;
+l)[^2] – a Kormány, a kormánybizottság, az autonóm államigazgatási szerv és az önálló szabályozó szerv kivételével – a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti központi államigazgatási szerv és ezek területi szerve (a továbbiakban együtt: központi államigazgatási szerv) látja el, a központi államigazgatási szerv irányításáért, vezetéséért vagy felügyeletéért felelős miniszter, a Miniszterelnöki Kormányiroda tekintetében a Miniszterelnöki Kormányirodát vezető közigazgatási államtitkár;
 
 m) a fővárosi és megyei kormányhivatal látja el, a fővárosi és megyei kormányhivatal által ellátott közfeladat szabályozásáért felelős miniszter;
 
@@ -40,7 +40,7 @@ od) más állami tulajdonú gazdasági társaság 100%-os tulajdonában áll, a 
 
 p) önkormányzat vagy önkormányzati tulajdonú gazdasági társaság látja el, a közfeladat szabályozásáért felelős miniszter
 
-## felelős.
+felelős.
 
 (2) A közfeladat-kataszterben új közfeladat rögzítését, a közfeladat-kataszterben lévő közfeladat tartalmi módosítását, illetve törlését a közigazgatás-szervezésért felelős miniszter – formai és tartalmi ellenőrzést követő – jóváhagyásával lehet végrehajtani. A formai és tartalmi ellenőrzést a közigazgatás-szervezésért felelős miniszternél a rögzítési, a módosítási, illetve törlési javaslat megtételekor az (1) bekezdés szerint felelős személy kezdeményezi.
 
@@ -52,4 +52,5 @@ p) önkormányzat vagy önkormányzati tulajdonú gazdasági társaság látja e
 
 (6) Ha tartalmi hiba kijavításának módjáról vagy annak szükségességéről vita merül fel a közigazgatás-szervezésért felelős miniszter és az (1) bekezdés szerinti felelős személy között, a felek kötelesek egyeztetés keretében megkísérelni a vita rendezését.
 
-[^1]: A 4. § (1) bekezdése l) pontja a 101/2018. (VI. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^1]: A 4. § (1) bekezdés f) pontja a 219/2024. (VII. 31.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^2]: A 4. § (1) bekezdése l) pontja a 101/2018. (VI. 11.) Korm. rendelet 39. §-ával megállapított szöveg.
