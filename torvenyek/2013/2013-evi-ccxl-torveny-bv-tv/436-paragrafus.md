@@ -6,7 +6,7 @@
 
 (3) Az 1978. évi IV. törvény alkalmazásával a részben felfüggesztett szabadságvesztés mellett kiszabott foglalkozástól eltiltás, járművezetéstől eltiltás, kiutasítás, közügyektől eltiltás és kitiltás tartamának számítására a 296. §, a 298. § (1) és (4) bekezdése, a 299. § (1) bekezdése, a 301. § (1) bekezdése és a 304. § az irányadó.
 
-(4) Az 1978. évi IV. törvény alkalmazásával kiszabott szabadságvesztés esetén az enyhébb végrehajtási szabályok a 104. § (2) bekezdés c) pontja tekintetében akkor nem alkalmazhatók, ha az elítélt az 1978. évi IV. törvény 47. § (4) bekezdése alapján vagy a bíróság határozata folytán nem bocsátható feltételes szabadságra.
+(4)
 
 (5) A bíróság által 2013. július 1-jét megelőzően elrendelt pártfogó felügyelet végrehajtása során a Btk. 70. § (3) bekezdése alkalmazható.
 

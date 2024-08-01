@@ -38,7 +38,7 @@ a) fogvatartását őrzéssel és felügyelettel kell biztosítani,
 
 b) engedélyezhető, hogy a fogva tartó intézet kijelölt területén felügyelet nélkül mozogjon, ez esetben zárkáját nappal nyitva lehet tartani,
 
-c) részére engedélyezhető, hogy látogatóját az erre kijelölt helyiségben alkalmanként legalább hatvan perc, de legfeljebb kilencven perc időtartamban fogadja,
+c) részére engedélyezhető, hogy havonta három alkalommal látogatóját az erre kijelölt helyiségben alkalmanként legalább hatvan perc, de legfeljebb kilencven perc időtartamban fogadja,
 
 d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – engedélyezhető, hogy részt vegyen a letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
 
@@ -52,12 +52,14 @@ a) fogvatartását a fokozott őrzés szabályira is figyelemmel, őrzéssel kel
 
 b) a fogva tartó intézet területén csak engedéllyel és felügyelet mellett mozoghat, zárkáját zárva kell tartani,
 
-c) látogatójával biztonsági beszélőfülkében vagy biztonságtechnikai eszközökön keresztül hatvan perc időtartamban érintkezhet,
+c) látogatójával az erre kijelölt helyiségben hatvan perc időtartamban érintkezhet,
 
 d) részére – a rendelkezési jogkör gyakorlójának rendelkezéseit figyelembe véve – kivételesen engedélyezhető, hogy részt vegyen a letartóztatottak csoportos szabadidős, sport- és kulturális programjain,
 
 e) magánál tartható tárgyainak köre és mennyisége a fogva tartó intézet rendjének megtartásával és biztonságának megőrzésével korlátozható,
 
 f) saját ruházata viselésének joga a fogva tartó intézet területén biztonsági szempontból korlátozható.
+
+(7a) A fogvatartás biztonságának fenntartása érdekében az egyes rezsimeken belül a letartóztatott őrzésére, felügyeletére, ellenőrzésére, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, oktatásban vagy képzésben, vallási szertartáson való részvételére, előállítására vagy szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
 
 (8) A fogva tartó intézet a letartóztatás lejártának idejét nyilvántartja.

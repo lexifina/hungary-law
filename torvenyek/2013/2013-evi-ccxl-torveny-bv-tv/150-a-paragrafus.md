@@ -28,4 +28,4 @@ l) fogvatartott bv. intézeten belül vagy azon kívül történő kísérése s
 
 (3) A (2) bekezdésben meghatározott esetekben kötelező a testkamerát alkalmazni, ha a büntetés-végrehajtási szervezet hivatásos szolgálati jogviszonyban álló tagját azzal felszerelték, továbbá azt a (2) bekezdés szerinti intézkedés, illetve szolgálati feladat ellátásának ideje alatt folyamatosan kell működtetni.
 
-(4) Az (1) bekezdésben foglaltak szerint rögzített kép- és hangfelvétel tekintetében a 150. § (5)–(10) bekezdésében foglaltakat is alkalmazni kell azzal, hogy a 150. § (6) bekezdése alkalmazásában a kérelem benyújtására nyitva álló határidő, illetve a 150. § (8) bekezdése alkalmazásában a törlés kötelezettségének határideje tíz nap.
+(4) Az (1) bekezdésben foglaltak szerint rögzített kép- és hangfelvétel tekintetében a 150. § (5)–(10) bekezdésében foglaltakat is alkalmazni kell azzal, hogy a 150. § (6) bekezdése alkalmazásában a kérelem benyújtására nyitva álló határidő, illetve a 150. § (9) bekezdése alkalmazásában a törlés kötelezettségének határideje tíz nap.

@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-240-00-00
 | 2024-01-01 | 2023. évi XC. törvény | 2013-240-00-00.36 |
 | 2024-03-01 | 2023. évi XCVII. törvény | 2013-240-00-00.37 |
 | 2024-07-01 | 2024. évi XXX. törvény | 2013-240-00-00.40 |
+| 2024-08-01 | 2024. évi XVIII. törvény | 2013-240-00-00.39 |

@@ -54,7 +54,7 @@ g) társadalmi visszailleszkedését segítő egyéb reintegrációs programokho
 
 18. részvétele a reintegrációs programokban.
 
-(4) A fogvatartás biztonságának fenntartása érdekében az egyes kategóriákon belül az elítélt egyéni kockázatértékelése alapján az elítélt őrzésére, felügyeletére, ellenőrzésére, a zárkaajtó zárva tartására, bv. intézeten belüli mozgására, látogatónak biztonsági fülkében vagy rácson keresztül történő fogadására, közös kulturális vagy sportrendezvényen, vallási szertartáson való részvételére, külső munkahelyen történő foglalkoztatására, az intézet elhagyására, az elítélt előállítására, szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
+(4) A fogvatartás biztonságának fenntartása érdekében az egyes kategóriákon belül az elítélt egyéni kockázatértékelése alapján az elítélt őrzésére, felügyeletére, ellenőrzésére, a zárkaajtó zárva tartására, bv. intézeten belüli mozgására, látogatónak biztonsági beszélőfülkében történő fogadására, közös kulturális vagy sportrendezvényen, vallási szertartáson való részvételére, külső munkahelyen történő foglalkoztatására, az intézet elhagyására, az elítélt előállítására, szállítására vonatkozó biztonsági előírások szigorúbbak lehetnek.
 
 (5) A büntetés-végrehajtási szervezet a sajátos kezelési igényű elítéltek részére e törvényben meghatározott speciális részlegeket alakíthat ki, ahol a végrehajtás rendje elsősorban e sajátos igényekhez igazodik és az egyes kategóriáktól eltérhet. A sajátos kezelési igényű elítéltek részére kialakított speciális részlegen történő elhelyezés ideje alatt az elítélt kreditpontot szerezhet.
 

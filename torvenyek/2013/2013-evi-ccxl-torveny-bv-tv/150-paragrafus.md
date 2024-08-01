@@ -8,7 +8,13 @@
 
 (4) Elektronikus megfigyelési eszköz nem alkalmazható az orvosi rendelő, orvosi diagnosztikai és – e törvényben meghatározott kivétellel – egyéb egészségügyi ellátásra szolgáló helyiség, az illemhely és a fürdőhelyiség megfigyelésére. A bv. intézet kórtermében és a betegszobában a korábban öngyilkosságot megkísérlő, vagy a saját, illetve mások testi épsége elleni cselekményt elkövető elítélt megfigyelése érdekében – a megfigyelés elrendelésével közvetlenül nem érintett ellátottak kíméletével – helyezhető el elektronikus megfigyelési eszköz.
 
-(4a) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvényben meghatározott célból működtetett pilóta nélküli állami légi járműre elektronikus megfigyelési eszköz telepíthető.
+(4a) A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvényben meghatározott célból működtetett
+
+a) pilóta nélküli állami légi járműre, vagy
+
+b) a személyi állomány tagja feladatának ellátását támogató mobil elektronikai eszközre
+
+elektronikus megfigyelési eszköz telepíthető.
 
 (4b) Az elítélt bv. intézet területén, valamint a bv. szerv kezelésében lévő munkáltatási helyszínen való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, a bv. intézetben vagy a bv. szerv kezelésében lévő munkáltatási helyszínen megvalósuló bűncselekmény, szabálysértés vagy fegyelemi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából az elektronikus megfigyelési eszköz személyazonosítás céljából összekapcsolható arcképfelismerő rendszerrel.
 
@@ -33,3 +39,5 @@ használható fel.
 (10) A büntetés-végrehajtási szervezet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
 (11) Az elektronikus megfigyelési eszközzel készített felvétel személyazonosításra alkalmatlan módon oktatási vagy továbbképzési célokra felhasználható.
+
+(12) A (4a) bekezdésben meghatározott eszköz – a (2) és (3) bekezdésben meghatározott esetek kivételével – a zárkában az ellenőrzéshez és az intézkedéshez szükséges ideig működtethető.

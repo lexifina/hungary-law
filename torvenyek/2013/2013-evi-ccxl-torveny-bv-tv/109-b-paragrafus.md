@@ -32,6 +32,6 @@ c) az elítélt az intézetelhagyással kapcsolatos magatartási szabályokat me
 
 d) az elítélt a reintegrációs program kapcsán együttműködési kötelezettségét nem teljesíti, vagy
 
-e) az elítéltet enyhébb végrehajtási szabályok hatálya alá vagy más speciális részlegre helyezik.
+e) az elítéltet más speciális részlegre helyezik.
 
 (5) A (4) bekezdés a)–d) pontja alapján történő kihelyezés esetén az elítélt az első alkalommal végrehajtandó szabadságvesztésre ítéltek részlegére ismételten nem helyezhető.

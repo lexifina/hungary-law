@@ -16,7 +16,7 @@ d) az elítélt vagy az egyéb jogcímen fogvatartott törvényes képviselőjé
 
 e) az elítélt vagy az egyéb jogcímen fogvatartott részére kiállított, a személyazonosság igazolására alkalmas hatósági igazolvány és járművezetéstől eltiltás hatálya alatt álló esetében a vezetői engedély okmányazonosítójára és érvényességi idejére, továbbá az okmányt kiállító hatóság megnevezésére,
 
-f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+f) a szabadságvesztés és az elzárás hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, az egészségügyről szóló törvényben meghatározott egészségügyi adataira (a továbbiakban: egészségügyi adat), esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, a választójoggal nem rendelkező elítélt személyi azonosítójára, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 
 g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére, valamint családi körülményeire vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
 
@@ -28,7 +28,7 @@ j) a kényszergyógykezelés és a javítóintézeti nevelés hatálya alatt ál
 
 k) az utógondozott társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira,
 
-l) a kényszerintézkedés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+l) a kényszerintézkedés hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 
 m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira, valamint külföldi állampolgárságú elítélt vagy egyéb jogcímen fogvatartott esetén az idegenrendészeti kiutasítására vonatkozó adataira,
 
@@ -40,7 +40,7 @@ p) pártfogó felügyelői vélemény, környezettanulmány, megelőző pártfog
 
 q) a büntetőeljárásban vagy az elítélttel kapcsolatos egyéb – bírósági, ügyészségi, közjegyzői, közigazgatási – eljárásban keletkezett azon iratokra, amelyeket jogszabály rendelkezése alapján a végrehajtásért felelős szerv részére meg kell küldeni,
 
-r) a szabálysértési elzárás hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
+r) a szabálysértési elzárás hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 
 s) a reintegrációs őrizet elrendelése feltételeinek megállapítása és a környezettanulmány elkészítése körében a reintegrációs őrizet végrehajtására kijelölendő lakás tekintetében az elítélt vagy a befogadó nyilatkozatot tevő lakáshasználati jogára és a lakás elektromos áramellátását igazoló előfizetői adatokra, a befogadó környezetre és a lakásban lakó más személyeknek az elítélt befogadására való készségére, az elítélt családi állapotára, iskolai végzettségére, szakképzettségére, foglalkozására, munkavállalási, illetve tanulmányi lehetőségeire, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, továbbá a reintegrációs őrizet ellenőrzése során az elítélt munkahelyére, illetve tanulói jogviszonyára vonatkozó adataira, valamint fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére,
 
@@ -68,6 +68,14 @@ b) a szabadlábon lévő elítélt feltételes szabadságra bocsátása a Btk. 9
 
 (3a) Az elítélt vagy az egyéb jogcímen fogvatartott (2) bekezdés szerinti adatai, valamint az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat – a 150. § (7) bekezdésében meghatározott korlátok között – a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 27/A. § (1) bekezdése alapján folytatott biztonsági kockázatelemzés során felhasználhatók.
 
-(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmása a bv. intézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából az arcképfelismerő rendszer alkalmazása során felhasználható.
+(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmás- és a hangazonosításhoz szükséges adata a bv. intézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, élete és testi épsége megóvása, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából arcképfelismerő vagy hangfelismerő rendszer alkalmazása során felhasználható.
+
+(3c) A (3b) bekezdés alkalmazásában
+
+a) arcképmás-azonosításhoz szükséges adat alatt az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvényben meghatározott arcképmás és arcképprofil fogalmat,
+
+b) hangazonosításhoz szükséges adat alatt az informatikai eszköz igénybevételével készített és feldolgozható hangmintát
+
+kell érteni.
 
 (4) Az elítélt életvitelére és közbiztonsági kockázatára vonatkozó rendőri jelentésben a következtetésen, véleményen, elemzésen vagy becslésen alapuló adatokat helyes és megbízható voltuk mértékére utaló jelzéssel kell ellátni a Rendőrségről szóló 1994. évi XXXIV. törvény felhatalmazásán alapuló jogszabály szerint.

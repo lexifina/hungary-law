@@ -24,6 +24,8 @@
 
 8. fogvatartással kapcsolatos ügy: minden olyan ügy, amely nem tartozik a büntetés-végrehajtási ügy körébe, de az elítélt vagy az egyéb jogcímen fogvatartott fogvatartásával összefügg, ideértve a bv. intézet által lefolytatandó kártérítési eljárást is,
 
+8a. hangfelismerő rendszer: hangminták összehasonlító elemzésére képes, a személyazonosítást elősegítő informatikai alkalmazás,
+
 9. hivatalos minőségben kapcsolattartó:
 
 a) a Btk. szerinti hivatalos és külföldi hivatalos személy a hivatalos eljárásában,
