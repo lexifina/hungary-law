@@ -1,3 +1,3 @@
-12. §[^108]
+12. §[^111]
 
-[^108]: A 12. §-t a 123/2023. (IV. 12.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.
+[^111]: A 12. §-t a 123/2023. (IV. 12.) Korm. rendelet 10. § b) pontja hatályon kívül helyezte.

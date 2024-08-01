@@ -1,4 +1,4 @@
-## 101/A. §[^668] Az irányító hatóság az ellenőrzés eredményéről szóló támogató vagy feltétellel támogató tartalmú nyilatkozatát nem állítja ki, ha a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet [a továbbiakban: 301/2018. (XII. 27.) Korm. rendelet] 13. § (1) bekezdés b) pontja szerinti beszerzések esetén
+## 101/A. §[^699] Az irányító hatóság az ellenőrzés eredményéről szóló támogató vagy feltétellel támogató tartalmú nyilatkozatát nem állítja ki, ha a Nemzeti Hírközlési és Informatikai Tanácsról, valamint a Digitális Kormányzati Ügynökség Zártkörűen Működő Részvénytársaság és a kormányzati informatikai beszerzések központosított közbeszerzési rendszeréről szóló 301/2018. (XII. 27.) Korm. rendelet [a továbbiakban: 301/2018. (XII. 27.) Korm. rendelet] 13. § (1) bekezdés b) pontja szerinti beszerzések esetén
 
 a) a 301/2018. (XII. 27.) Korm. rendelet 9. §-a szerinti esetben a 301/2018. (XII. 27.) Korm. rendelet 9. § (4) bekezdése szerinti minősítés, illetve
 
@@ -6,4 +6,4 @@ b) a 301/2018. (XII. 27.) Korm. rendelet 10. §-a és 11. §-a szerinti esetben 
 
 nem áll rendelkezésre.
 
-[^668]: A 101/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 156/2022. (IV. 19.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^699]: A 101/A. §-t a 391/2014. (XII. 31.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 156/2022. (IV. 19.) Korm. rendelet 13. §-ával megállapított szöveg.

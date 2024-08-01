@@ -1,6 +1,6 @@
 ## 24/B. § Az alapok alapját végrehajtó szervezet feladatait az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság látja el.
 
-## 12/B.[^191] A Belső Ellenőrzési és Integritási Igazgatóság feladatai
+## 12/B.[^202] A Belső Ellenőrzési és Integritási Igazgatóság feladatai
 
 24/C. § A Belső Ellenőrzési és Integritási Igazgatóság
 
@@ -14,4 +14,4 @@ d) tevékenységéről évente beszámol az Integritás Hatóság részére,
 
 e) együttműködik a büntetőeljárásban eljáró szervekkel.
 
-[^191]: A 12/B. alcímet (24/C. §-t) a 374/2022. (IX. 30.) Korm. rendelet 5. §-a iktatta be.
+[^202]: A 12/B. alcímet (24/C. §-t) a 374/2022. (IX. 30.) Korm. rendelet 5. §-a iktatta be.

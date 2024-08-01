@@ -34,7 +34,7 @@
 
 11b.[^23] horizontális követelmények: a programokban meghatározott horizontális célkitűzésekkel, feltételekkel összhangban a támogatási szerződésben a kedvezményezett részére a horizontális elvek és politikák teljesülése érdekében meghatározott követelmények,
 
-12.[^24] indikátor: uniós jogszabályokban és a programban nevesített, valamint az európai uniós források felhasználásáért felelős miniszter – a Vidékfejlesztési Program esetén az agrárpolitikáért felelős miniszter – által meghatározott, eredményt vagy teljesülést mérő mutató,
+12.[^24] indikátor: uniós jogszabályokban és a programban nevesített, valamint a Nemzeti Fejlesztési Központ (a továbbiakban: NFK) – a Vidékfejlesztési Program esetén az agrárpolitikáért felelős miniszter – által meghatározott, eredményt vagy teljesülést mérő mutató,
 
 13. integritásirányítási rendszer: az államigazgatási szervek integritásirányítási rendszeréről és az érdekérvényesítők fogadásának rendjéről szóló 50/2013. (II. 25.) Korm. rendelet 2. § b) pontjában meghatározott fogalom,
 
@@ -96,7 +96,7 @@
 
 38. programterületen kívüli művelet: az 1303/2013/EU európai parlamenti és tanácsi rendelet 70. cikkében meghatározott művelet,
 
-39.[^46] projekt lezárása: egy projekt akkor tekinthető lezártnak, ha a kedvezményezett a támogatási szerződésben a projektmegvalósítás befejezését követő időszakra nézve további kötelezettséget nem vállalt, és a felhívásban meghatározott feltételek teljesültek. Ha a támogatási szerződés a támogatott tevékenység befejezését követő időszakra nézve további kötelezettséget előírt, a projekt akkor tekinthető lezártnak, ha valamennyi vállalt kötelezettség teljesült és a kedvezményezett a kötelezettségek megvalósulásának eredményeiről szóló záró projekt fenntartási jelentést benyújtotta, és azt az irányító hatóság, Vidékfejlesztési Program esetén a kifizető ügynökség jóváhagyta, valamint a záró jegyzőkönyv elkészült,
+39.[^46] projekt lezárása: egy projekt akkor tekinthető lezártnak, ha a kedvezményezett a támogatási szerződésben a projektmegvalósítás irányító hatóság általi befejezését követő időszakra nézve további kötelezettséget nem vállalt, és a felhívásban meghatározott feltételek teljesültek. Ha a támogatási szerződés a támogatott tevékenység befejezését követő időszakra nézve további kötelezettséget előírt, a projekt akkor tekinthető lezártnak, ha valamennyi vállalt kötelezettség teljesült és a kedvezményezett a kötelezettségek megvalósulásának eredményeiről szóló záró projekt fenntartási jelentést benyújtotta, és azt az irányító hatóság, Vidékfejlesztési Program esetén a kifizető ügynökség jóváhagyta, valamint a záró jegyzőkönyv elkészült,
 
 40.[^47] projekt fizikai befejezése: az az állapot, amikor a projekt keretében támogatott tevékenységeket a felhívásban és a támogatási szerződésben meghatározottak szerint elvégezték,
 
@@ -166,15 +166,17 @@
 
 3. mezőgazdasági kockázatkezelési támogatások: az 1305/2013/EU európai parlamenti és tanácsi rendelet 36., 37. és 39. cikkében meghatározott intézkedések,
 
-4.[^64] szándékos: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködő, képviselő magatartása, ha a támogatást igénylő, kedvezményezett vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás a támogatásokkal összefüggésben a támogatást igénylő, kedvezményezett számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve a támogatásokkal összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás vagy mulasztás nélkül,
+3a.[^64] mobilGAZDA: a kifizető ügynökség által a kedvezményezett részére biztosított, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: 2015. évi CCXXII. törvény) 25. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás,
 
-5.[^65] terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
+4.[^65] szándékos: a támogatást igénylő, kedvezményezett, illetve az általa igénybevett közreműködő, képviselő magatartása, ha a támogatást igénylő, kedvezményezett vagy az általa igénybevett közreműködő, képviselő tudatában van annak, hogy a tanúsított tevőleges magatartás vagy mulasztás a támogatásokkal összefüggésben a támogatást igénylő, kedvezményezett számára a jogosultság jogosulatlan megszerzése, annak fenntartása, illetve a támogatásokkal összefüggésben jogosultságának bármely eleme vonatkozásában kedvezőbb elbírálást biztosít, mint a tanúsított tevőleges magatartás vagy mulasztás nélkül,
 
-6.[^66] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám, illetve támogatási egység megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
+5.[^66] terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk (1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,
 
-7.[^67] támogatási alap: adott intézkedés vonatkozásában a támogatási összeg megállapítására meghatározott feltételek közül a felhívásban ekként meghatározott szempont,
+6.[^67] adategyeztetés: az EMVA forrásból nyújtott támogatások esetén a támogatási kérelem tárgyában történő döntéshozatalt megelőzően az adatok, a támogatási, illetve kifizetési kérelemmel érintett terület-, illetve állatlétszám, illetve támogatási egység megállapítása, valamint a körülmények mesterséges megteremtésének vizsgálata érdekében szükséges írásbeli egyeztetés,
 
-8.[^68] kamarai meghatalmazott: az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljáró Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara.
+7.[^68] támogatási alap: adott intézkedés vonatkozásában a támogatási összeg megállapítására meghatározott feltételek közül a felhívásban ekként meghatározott szempont,
+
+8.[^69] kamarai meghatalmazott: az EMVA-ból nyújtott támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljáró Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara.
 
 (2) Az (1) bekezdésben nem értelmezett fogalmakat
 
@@ -182,17 +184,17 @@ a) a támogatásból megvalósuló fejlesztések központi monitoringjáról és
 
 b) az 1303/2013/EU európai parlamenti és tanácsi rendelet,
 
-c)[^69] az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikk 1–3., 5. és 6. pontjában meghatározott közösségi jogszabályok,
+c)[^70] az 1303/2013/EU európai parlamenti és tanácsi rendelet 1. cikk 1–3., 5. és 6. pontjában meghatározott közösségi jogszabályok,
 
-d)[^70] a KAP rendelet,
+d)[^71] a KAP rendelet,
 
-e)[^71] a 223/2014/EU európai parlamenti és tanácsi rendelet,
+e)[^72] a 223/2014/EU európai parlamenti és tanácsi rendelet,
 
-f)[^72] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
+f)[^73] az Európai Bizottság b)–e) pont szerinti rendeletek felhatalmazása alapján kiadott végrehajtási jogi aktusai
 
 szerint kell értelmezni.
 
-(3)[^73] E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre, továbbá egyéb iránymutatásokra figyelemmel kell alkalmazni és értelmezni.
+(3)[^74] E rendeletet az e rendelet hatálya alá tartozó programok támogatásokra vonatkozó, kötelezően alkalmazandó európai uniós jogi aktusokban foglalt eltérésekre, továbbá egyéb iránymutatásokra figyelemmel kell alkalmazni és értelmezni.
 
 [^13]: A 2/A. §-t a 98/2016. (V. 13.) Korm. rendelet 1. §-a iktatta be.
 [^14]: A 3. § (1) bekezdés 1. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -205,7 +207,7 @@ szerint kell értelmezni.
 [^21]: A 3. § (1) bekezdés 10. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^22]: A 3. § (1) bekezdés 11a. pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (3) bekezdése iktatta be.
 [^23]: A 3. § (1) bekezdés 11b. pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^24]: A 3. § (1) bekezdés 12. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^24]: A 3. § (1) bekezdés 12. pontja a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 1. pontja, a 258/2022. (VII. 20.) Korm. rendelet 3. § (1) bekezdés 1. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 1. pontja szerint módosított szöveg.
 [^25]: A 3. § (1) bekezdés 14. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 3. pontja szerint módosított szöveg.
 [^26]: A 3. § (1) bekezdés 15. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^27]: A 3. § (1) bekezdés 16. pontja a 144/2015. (VI. 12.) Korm. rendelet 100. § 5. pontja szerint módosított szöveg.
@@ -227,7 +229,7 @@ szerint kell értelmezni.
 [^43]: A 3. § (1) bekezdés 34. pontja a 98/2016. (V. 13.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^44]: A 3. § (1) bekezdés 35. pontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^45]: A 3. § (1) bekezdés 37. pontja a 91/2016. (IV. 29.) Korm. rendelet 8. § a) pontja, a 339/2023. (VII. 25.) Korm. rendelet 4. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 59. §-át.
-[^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja szerint módosított szöveg.
+[^46]: A 3. § (1) bekezdés 39. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 4. pontja, a 218/2024. (VII. 31.) Korm. rendelet 34. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^47]: A 3. § (1) bekezdés 40. pontja a 144/2015. (VI. 12.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
 [^48]: A 3. § (1) bekezdés 41. pontja a 195/2023. (V. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^49]: A 3. § (1) bekezdés 42. pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 5. pontja szerint módosított szöveg.
@@ -245,13 +247,14 @@ szerint kell értelmezni.
 [^61]: A 3. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 5. § (11) bekezdése iktatta be.
 [^62]: A 3. § (1a) bekezdés 2. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^63]: A 3. § (1a) bekezdés 2a. pontját a 98/2016. (V. 13.) Korm. rendelet 2. § (5) bekezdése iktatta be, szövege a 106/2018. (VI. 15.) Korm. rendelet 23. § (1) bekezdés 2. pontja, a 160/2018. (IX. 7.) Korm. rendelet 15. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^64]: A 3. § (1a) bekezdés 4. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^65]: A 3. § (1a) bekezdés 5. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
-[^66]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja, a 139/2023. (IV. 24.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
-[^67]: A 3. § (1a) bekezdés 7. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 139/2023. (IV. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^69]: A 3. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^70]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^71]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^72]: A 3. § (2) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^73]: A 3. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^64]: A 3. § (1a) bekezdés 3a. pontját a 218/2024. (VII. 31.) Korm. rendelet 19. §-a iktatta be.
+[^65]: A 3. § (1a) bekezdés 4. pontja a 160/2018. (IX. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^66]: A 3. § (1a) bekezdés 5. pontja a 247/2016. (VIII. 17.) Korm. rendelet 2. § (7) bekezdésével megállapított szöveg.
+[^67]: A 3. § (1a) bekezdés 6. pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (1) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 8. pontja, a 139/2023. (IV. 24.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^68]: A 3. § (1a) bekezdés 7. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be.
+[^69]: A 3. § (1a) bekezdés 8. pontját a 466/2015. (XII. 29.) Korm. rendelet 6. §-a iktatta be, szövege a 139/2023. (IV. 24.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^70]: A 3. § (2) bekezdés c) pontja a 24/2017. (II. 3.) Korm. rendelet 25. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^71]: A 3. § (2) bekezdés d) pontja a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^72]: A 3. § (2) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 5. § (12) bekezdése iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 24/2017. (II. 3.) Korm. rendelet 26. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^73]: A 3. § (2) bekezdés f) pontját a 347/2015. (XI. 20.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^74]: A 3. § (3) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 1. pontja szerint módosított szöveg.
