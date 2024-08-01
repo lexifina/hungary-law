@@ -1,4 +1,4 @@
-## 39. §[^139] E rendeletnek az egyes kormányrendeletek módosításáról szóló 590/2021. (X. 20.) Korm. rendelettel (a továbbiakban: Módr31.) megállapított 3. § (4) bekezdését, 7/O. §-át és 4. mellékletét a Módr31. hatálybalépésekor[^140] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 39. §[^140] E rendeletnek az egyes kormányrendeletek módosításáról szóló 590/2021. (X. 20.) Korm. rendelettel (a továbbiakban: Módr31.) megállapított 3. § (4) bekezdését, 7/O. §-át és 4. mellékletét a Módr31. hatálybalépésekor[^141] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
-[^139]: A 39. §-t az 590/2021. (X. 20.) Korm. rendelet 4. §-a iktatta be.
-[^140]: A hatálybalépés időpontja 2021. október 21.
+[^140]: A 39. §-t az 590/2021. (X. 20.) Korm. rendelet 4. §-a iktatta be.
+[^141]: A hatálybalépés időpontja 2021. október 21.

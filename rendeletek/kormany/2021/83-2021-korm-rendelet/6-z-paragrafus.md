@@ -24,7 +24,7 @@ h) 73. § (2) d) pontját azzal az eltéréssel kell alkalmazni, hogy az újonna
 
 (3) A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett ingatlanokon vízi kompátkelőhely (Tihanyrév), vízi közlekedés és az azt kiszolgáló létesítmények elhelyezhetőek, az alábbi sajátos beépítési szabályok és egyedi építési követelmények alkalmazásával:
 
-1. a Tihany 1867 helyrajzi számú ingatlan, valamint a Tihany 1868/3, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanoknak a 6. melléklet 1–5. pontjában megjelölt EOV koordináták által lehatárolt részén
+1.[^54] a Tihany 1867 helyrajzi számú ingatlan, a Tihany 1868/6, valamint az abból telekalakítás útján létrejövő ingatlanok, továbbá a Tihany, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanoknak a 6. melléklet 1–5. pontjában megjelölt EOV koordináták által lehatárolt részén
 
 a) telek kialakítható, azzal, hogy a kialakítható legkisebb telekméret 2500 m2, a telek szélessége és mélysége nem korlátozott;
 
@@ -63,3 +63,4 @@ a) személygépkocsi-parkolókat telken belül nem kell létesíteni, azok telke
 b) autóbusz-várakozóhelyeket telken belül nem kell biztosítani, azok telken kívül, a telekhatártól 10 méteren belüli közterületi ingatlanon létesített parkolóhelyekkel biztosíthatók.
 
 [^53]: A 6/Z. §-t a 220/2023. (VI. 1.) Korm. rendelet 2. §-a iktatta be.
+[^54]: A 6/Z. § (3) bekezdés 1. pont nyitó szövegrésze a 228/2024. (VII. 31.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.

@@ -188,7 +188,7 @@
 
 | 94. | Szántódrév fejlesztése | Szántód belterület 1171/5, 1172, 1173, 1174, 1175, 1176/1 és 1177 helyrajzi számú ingatlanok; valamint a Szántód külterület 02 helyrajzi számú ingatlan 5. melléklet 3. pontja szerinti EOV koordináták által lehatárolt ingatlan jogi partvonalon belül | Somogy Vármegyei Kormányhivatalt vezető főispán |
 
-| 95. | Tihanyrév fejlesztése | Tihany belterület 1867, 1868/3, 1868/4, 1869, 1870, 1871 és a külterület 0140/13 helyrajzi számú ingatlanok; a Balaton jogi partvonalával, az 1872 helyrajzi számú üdülőterülettel, az 1868/2, 1868/3, 1868/4 helyrajzi számú közutakkal, az 1865 és 1866 helyrajzi számú közparkkal határolt terület, valamint a Tihany külterület 0140/16 helyrajzi számú ingatlan 6. melléklet 6. pontja szerinti EOV koordináták által lehatárolt ingatlan jogi partvonalon belül | Veszprém Vármegyei Kormányhivatalt vezető főispán |
+| 95. | Tihanyrév fejlesztése | Tihany belterület 1867, 1868/6, 1868/4, 1869, 1870, 1871 és a külterület 0140/13 helyrajzi számú ingatlanok; a Balaton jogi partvonalával, az 1872 helyrajzi számú üdülőterülettel, az 1868/2, 1868/6, 1868/4 helyrajzi számú közutakkal, az 1865 és 1866 helyrajzi számú közparkkal határolt terület, valamint a Tihany külterület 0140/16 helyrajzi számú ingatlan 6. melléklet 6. pontja szerinti EOV koordináták által lehatárolt ingatlan jogi partvonalon belül | Veszprém Vármegyei Kormányhivatalt vezető főispán |
 
 | 96. | Fáy András Református Általános Iskola és Alapfokú Művészeti Iskola fejlesztése | Gomba belterület 617 helyrajzi számú ingatlan | Pest Vármegyei Kormányhivatalt vezető főispán |
 
@@ -204,6 +204,6 @@
 
 | 102. | Új, négy csoportszobás bölcsőde kialakítása Göd Város területén | Göd külterület 017, 018/52, 018/53, 018/55, 018/57, 019 és belterület 9321, 5722 helyrajzi számú ingatlanok | Pest Vármegyei Kormányhivatalt vezető főispán |
 
-3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^213]
+3. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^216]
 
-[^213]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^216]: A 3. melléklet a 383/2021. (VI. 30.) Korm. rendelet 3. § b) pontja, a 411/2021. (VII. 12.) Korm. rendelet 8. § b) pontja, az 566/2021. (X. 4.) Korm. rendelet 2. § b) pontja, az 591/2021. (X. 20.) Korm. rendelet 2. § b) pontja, a 622/2021. (XI. 9.) Korm. rendelet 3. § b) pontja, a 779/2021. (XII. 23.) Korm. rendelet 3. § b) pontja, a 145/2022. (IV. 7.) Korm. rendelet 6. § b) pontja, a 301/2022. (VIII. 9.) Korm. rendelet 3. § c) pontja, a 373/2023. (VIII. 7.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

@@ -1,22 +1,22 @@
-6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^216]
+6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^219]
 
-## A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett Tihany 1868/3, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanok és Tihany külterület 0140/16 helyrajzi számú ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része
+## A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett Tihany belterület 1868/6, valamint az abból telekalakítás útján létrejövő ingatlanok, továbbá Tihany belterület, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanok és Tihany külterület 0140/16 helyrajzi számú ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része[^220]
 
-1. Tihany 1868/3 helyrajzi számú ingatlan:
+1.[^221] Tihany 1868/6 helyrajzi számú, valamint az abból telekalakítás útján létrejövő ingatlanok:
 
 | EOV pont jele | Y | X |
 
-| 101 | 561931.169 | 172260.362 |
+| 115195 | 561934.68 | 172273.23 |
 
-| 102 | 561919.104 | 172331.956 |
+| 115153 | 561928.39 | 172302.23 |
 
-| 103 | 561918.199 | 172334.830 |
+| 115147 | 561922.24 | 172334.17 |
 
-| 104 | 561917.217 | 172337.113 |
+| 61 | 561907.11 | 172365.51 |
 
-| 105 | 561905.265 | 172364.702 |
+| 62 | 561905.265 | 172364.702 |
 
-| 106 | 561890.404 | 172358.232 |
+| 63 | 561890.404 | 172358.232 |
 
 | 970224033 | 561892.430 | 172353.520 |
 
@@ -210,4 +210,6 @@
 
 | 13 | 561979.7500 | 172207.6000 |
 
-[^216]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^219]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^220]: A 6. melléklet címe a 228/2024. (VII. 31.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^221]: A 6. melléklet 1. pontja a 228/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
