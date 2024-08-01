@@ -16,7 +16,7 @@ A MAHOP Plusz nevesített kiemelt projektjei
 
 | 5. | MAHOP Plusz-3.1.1-2024[^19] | A Magyar Halgazdálkodási Operatív Program Plusz megvalósítását szolgáló Technikai Segítségnyújtás Projekt | Agrárminisztérium | 1,169[^20] | 2024. július[^21] | A projekt célja a MAHOP Plusz átlátható, szabályszerű, eredményes és hatékony végrehajtása érdekében az abban előírt tevékenységek – előkészítés, monitoring és ellenőrzés, értékelések, kommunikáció – elvégzéséhez és a megfelelő végrehajtáshoz szükséges speciális külső szakértelem bevonásának támogatása. |
 
-| 6. | MAHOP Plusz-3.1.2-2024 | A Magyar Halgazdálkodási Operatív Program Pluszhoz kapcsolódó támogatási kérelmek állami projektértékelői feladatának támogatása | Közigazgatási és Területfejlesztési Minisztérium[^22] | 0,040 | 2024. július[^23] | A projekt célja a MAHOP Plusz tartalmi értékeléséhez, valamint a MAHOP Plusz keretében támogatott projektek megvalósításához kapcsolódó állami projektértékelői rendszer működtetése és az értékelésben részt vevők díjazásának biztosítása. Ennek érdekében a projekt biztosítja, hogy a tartalmi értékelésben és a közbeszerzések műszaki szempontú ellenőrzésében részt vevő állami alkalmazottak egységes keretrendszerben, előzetesen meghatározott szakmai szempontok szerint végezhessék munkájukat, biztosítva a bármely külső, piaci szereplő érdekeitől való függetlenséget, az objektivitást és az átláthatóságot. |
+| 6. | MAHOP Plusz-3.1.2-2024 | A Magyar Halgazdálkodási Operatív Program Pluszhoz kapcsolódó támogatási kérelmek állami projektértékelői feladatának támogatása | Nemzeti Fejlesztési Központ[^22] | 0,040 | 2024. július[^23] | A projekt célja a MAHOP Plusz tartalmi értékeléséhez, valamint a MAHOP Plusz keretében támogatott projektek megvalósításához kapcsolódó állami projektértékelői rendszer működtetése és az értékelésben részt vevők díjazásának biztosítása. Ennek érdekében a projekt biztosítja, hogy a tartalmi értékelésben és a közbeszerzések műszaki szempontú ellenőrzésében részt vevő állami alkalmazottak egységes keretrendszerben, előzetesen meghatározott szakmai szempontok szerint végezhessék munkájukat, biztosítva a bármely külső, piaci szereplő érdekeitől való függetlenséget, az objektivitást és az átláthatóságot. |
 
 | 7.[^24] |  |  |  |  |  |  |
 
@@ -31,7 +31,7 @@ A MAHOP Plusz nevesített kiemelt projektjei
 [^19]: A 2. mellékletben foglalt táblázat A:5 mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.5. pontjával megállapított szöveg.
 [^20]: A 2. mellékletben foglalt táblázat D:5 mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.6. pontjával megállapított szöveg.
 [^21]: A 2. mellékletben foglalt táblázat E:5 mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.7. pontjával megállapított szöveg.
-[^22]: A 2. mellékletben foglalt táblázat C:6. mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.8. pontjával megállapított szöveg.
+[^22]: A 2. mellékletben foglalt táblázat C:6. mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.9. pontjával megállapított szöveg.
 [^23]: A 2. mellékletben foglalt táblázat E:6. mezője az 1217/2024. (VII. 29.) Korm. határozat 4. pont 4.10. pontja szerint módosított szöveg.
 [^24]: A 2. mellékletben foglalt táblázat 7. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont b) alpontja hatályon kívül helyezte.
 [^25]: A 2. mellékletben foglalt táblázat 8. sorát az 1217/2024. (VII. 29.) Korm. határozat 5. pont b) alpontja hatályon kívül helyezte.
