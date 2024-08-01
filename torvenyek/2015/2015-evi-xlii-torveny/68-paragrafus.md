@@ -1,6 +1,6 @@
 ## 40. Vezénylés a Nemzeti Közszolgálati Egyetemre
 
-68. § (1) A hivatásos állomány tagja – beleegyezésével – határozott vagy határozatlan időtartamra szolgálati beosztásba vagy közalkalmazotti oktatói, nevelői munkakör vagy feladat ellátására a Nemzeti Közszolgálati Egyetemre vezényelhető. A vezénylésre a 63. § (1)–(5) bekezdését, valamint a 64/A. §-t az e §-ban meghatározott eltérésekkel kell alkalmazni.
+68. § (1) A hivatásos állomány tagja – beleegyezésével – határozott vagy határozatlan időtartamra szolgálati beosztásba vagy közalkalmazotti oktatói, nevelői munkakör vagy feladat ellátására a Nemzeti Közszolgálati Egyetemre vezényelhető. A vezénylésre a 63. § (1)–(4) és (5) bekezdését, valamint a 64/A. §-t az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
 (2) A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztásokat és azok besorolását a Nemzeti Közszolgálati Egyetem Fenntartója (a továbbiakban: Fenntartó) véleményének kikérésével a rendészetért felelős miniszter határozza meg. A szolgálati beosztás a Fenntartó egyetértésével szolgálati viszonyban nem álló személlyel is betölthető.
 

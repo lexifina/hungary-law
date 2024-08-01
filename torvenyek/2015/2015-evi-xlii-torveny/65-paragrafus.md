@@ -14,6 +14,8 @@ b) szolgálati beosztás betöltésére vezénylésre az e §-ban és a 66. §-b
 
 kell alkalmazni.
 
+(3a) Az 51. § (2) bekezdésében meghatározott szervhez történő vezénylés esetén nincs helye a 62/A. §-ban és a 63. § (4a)–(4c) bekezdésében foglalt rendelkezések alkalmazásának.
+
 (4) Az 51. § (2) bekezdésében meghatározott szervhez történő vezénylés esetében a 62. § (2) bekezdésében foglaltaktól eltérően
 
 a) a vezénylés időtartamára vonatkozó ötéves korlátozás nem alkalmazandó, továbbá

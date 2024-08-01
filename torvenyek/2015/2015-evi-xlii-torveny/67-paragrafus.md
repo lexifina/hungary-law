@@ -1,6 +1,6 @@
 ## 39. Vezénylés ügyészi szervezethez
 
-67. § (1) A hivatásos állomány tagja – a szolgálati beosztása meghagyása mellett – a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez vezényelhető. A hivatásos állomány tagjának az ügyészi szervezethez vezénylésére a 62–64/A. §-ban foglalt szabályokat kell – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni.
+67. § (1) A hivatásos állomány tagja – a szolgálati beosztása meghagyása mellett – a legfőbb ügyész kezdeményezésére, az országos parancsnok egyetértésével, meghatározott feladat ellátására, határozott időtartamra az ügyészi szervezethez vezényelhető. A hivatásos állomány tagjának az ügyészi szervezethez vezénylésére a 62. §-ban, a 63. § (1)–(4) és (5)–(7) bekezdésében, valamint a 63/A–64/A. §-ban foglalt szabályokat kell – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni.
 
 (2) A hivatásos állománynak a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervhez vezényelt tagját a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője a vezénylés megszüntetése nélkül – a legfőbb ügyész kezdeményezésére – az ügyészi szervezethez meghatározott feladat ellátására ideiglenesen vezényelheti.
 

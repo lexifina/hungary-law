@@ -2,7 +2,7 @@
 
 329. § (1) Az Országgyűlési Őrség hivatásos állományával kapcsolatos humánigazgatási feladatok ellátásában az Országgyűlés Hivatala is részt vehet.
 
-(2) Az Országgyűlési Őrség vonatkozásában a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
+(2) Az Országgyűlési Őrség vonatkozásában a 62/A. §, a 63. § (4a)–(4c) bekezdése, a 96/A. §, a 97/A. §, a 98. § (2) bekezdése, a 98/A. § (2) bekezdése, valamint a 272. § (1a), (5) és (6) bekezdése nem alkalmazandó.
 
 (3) Az Országgyűlési Őrség esetében az Országgyűlés elnöke gyakorolja az alábbi munkáltatói jogokat:
 

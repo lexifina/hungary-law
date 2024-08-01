@@ -7,3 +7,5 @@ b) a polgári nemzetbiztonsági szolgálatok esetében azon általános iskolai 
 c) a rendészeti alap- és szakvizsgára vonatkozó követelményeket, a vizsgáztatás rendjét és az e vizsgák alóli mentesítés szabályait,
 
 d) a nemzetközi közigazgatási szakértői tevékenység tartalmát, típusát és a célfeladattal kapcsolatos megállapodásra vonatkozó részletszabályokat.
+
+e) a hatósági kirendelés szabályait.

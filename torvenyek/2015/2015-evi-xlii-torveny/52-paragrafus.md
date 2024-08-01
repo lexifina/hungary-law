@@ -43,3 +43,5 @@ l) rendelkezési állományba helyezés, valamint rendelkezési állományba hel
 m) nyugdíj előtti rendelkezési állományba helyezés,
 
 n) könnyített szolgálatban foglalkoztatás.
+
+o) hatósági vezénylés.

@@ -12,7 +12,7 @@
 
 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 
-5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
+5. megállapítsa a más szervhez vezénylésre, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezénylésre, a hatósági vezénylésre, a hatósági kirendelésre, az ügyészi szervezethez vezénylésre, valamint a Nemzeti Közszolgálati Egyetemre vezénylésre vonatkozó szabályokat, továbbá a vezényelt foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket, és a rendészeti felsőoktatási illetménykiegészítésre, valamint az illetménypótlékra jogosultság és megállapításának általános feltételeit,
 
 6. megállapítsa a külföldre vezénylésre vonatkozó szabályokat, a külföldre vezényelt juttatásaira, többletjuttatásaira, költségtérítésére, ellátmányára vonatkozó rendelkezéseket, valamint a külföldre vezényelt közeli hozzátartozóira tekintettel e törvényben nem szabályozott pénzbeli és természetbeni ellátást,
 

@@ -2,7 +2,7 @@
 
 77. § (1) A rendvédelmi szerv hivatásos állományába tartozó, de a rendvédelmi szervnél szolgálati beosztást be nem töltő személyt rendelkezési állományba kell helyezni. Ennek megfelelően a rendvédelmi szerv rendelkezési állományába tartozik:
 
-a) aki szolgálatát az 51. § (2) vagy (3) bekezdésében meghatározott szervnél teljesíti vagy akit külföldre vezényeltek,
+a) aki szolgálatát az 51. § (2)–(3a) bekezdésében meghatározott szervnél teljesíti vagy akit külföldre vezényeltek,
 
 b) akinek a szolgálati beosztása létszámcsökkentés vagy átszervezés miatt megszűnt, de más szolgálati beosztásba tervezett, legfeljebb egy évig,
 
