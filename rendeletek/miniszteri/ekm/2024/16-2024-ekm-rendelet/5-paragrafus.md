@@ -2,7 +2,6 @@
 
 5. § (1)[^5]
 
-(2)[^6]
+(2) Az R2. Mellékletében foglalt táblázat 192. sorában a „Létesítési és megszüntetési engedély (C osztályú leszállóhely)” szövegrész helyébe a „Létesítési engedély vízfelszínen létesített leszállóhely” szöveg lép.
 
 [^5]: Az 5. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 5. § (2) bekezdése a 29. § (2) bekezdése alapján 2024. augusztus 2-án lép hatályba.
