@@ -1,3 +1,3 @@
-46. § A 256/2021. (V. 18.) Korm. rendelet 33. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+46. §[^46]
 
-(A monitoring bizottság megtárgyalja)
+[^46]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

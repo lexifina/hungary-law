@@ -1,3 +1,3 @@
-29. § A 272/2014. (XI. 5.) Korm. rendelet 172. §-a a következő (1a) bekezdéssel egészül ki:
+29. §[^29]
 
-„(1a) A Belső Ellenőrzési és Integritási Igazgatóság az (1) bekezdés szerinti határidőt – annak lejárta előtt – indokolt esetben, egy alkalommal, legfeljebb tizenöt nappal meghosszabbíthatja, amelyről a kedvezményezettet értesíti.”
+[^29]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

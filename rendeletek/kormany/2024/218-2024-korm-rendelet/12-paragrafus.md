@@ -1,1 +1,3 @@
-12. § Az 547/2013. (XII. 30.) Korm. rendelet 1. melléklete a 3. melléklet szerint módosul.
+12. §[^12]
+
+[^12]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

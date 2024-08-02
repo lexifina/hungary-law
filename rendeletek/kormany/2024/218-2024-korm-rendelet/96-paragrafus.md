@@ -1,1 +1,3 @@
-96. § A 638/2023. (XII. 28.) Korm. rendelet 72. § (5) bekezdés a) pontjában a „20%-os” szövegrész helyébe a „30%-os” szöveg lép.
+96. §[^96]
+
+[^96]: A 96. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

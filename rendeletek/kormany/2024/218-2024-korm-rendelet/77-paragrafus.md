@@ -1,5 +1,5 @@
 ## 10. A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet módosítása
 
-77. § A Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 181. §-a a következő (3) bekezdéssel egészül ki:
+77. §[^77]
 
-„(3) A miniszter a közbeszerzésekért való felelősségi körébe tartozó feladatokat a Nemzeti Fejlesztési Központ útján látja el.”
+[^77]: A 77. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

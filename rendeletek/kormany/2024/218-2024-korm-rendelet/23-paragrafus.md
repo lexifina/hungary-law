@@ -1,3 +1,3 @@
-23. § A 272/2014. (XI. 5.) Korm. rendelet 29. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
+23. §[^23]
 
-(Az operatív program monitoring bizottságba az irányító hatóság felkérésére egyenlő szavazati joggal rendelkező tagot delegál:)
+[^23]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

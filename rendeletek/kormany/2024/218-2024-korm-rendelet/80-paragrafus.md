@@ -1,5 +1,3 @@
-80. § A 373/2022. (IX. 30.) Korm. rendelet 14. alcíme a következő 22/A. §-sal egészül ki:
+80. §[^80]
 
-„22/A. § (1) A nemzeti hatóság a helyszíni szemlével, helyszíni ellenőrzéssel összefüggő feladatait az NFK bevonásával látja el azon projekt esetén, amely vonatkozásában lebonyolító szervként az NFK mint irányító hatósági feladatokat ellátó szervezet került kijelölésre.
-
-(2) Az NFK a nemzeti hatóság helyszíni szemlével, helyszíni ellenőrzéssel összefüggő feladatai közül a szervezeti és működési szabályzatában meghatározott feladatokat látja el.”
+[^80]: A 80. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

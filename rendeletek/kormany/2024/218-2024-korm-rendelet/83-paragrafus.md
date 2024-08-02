@@ -1,1 +1,3 @@
-83. § A 373/2022. (IX. 30.) Korm. rendelet 1. melléklete helyébe a 9. melléklet lép.
+83. §[^83]
+
+[^83]: A 83. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

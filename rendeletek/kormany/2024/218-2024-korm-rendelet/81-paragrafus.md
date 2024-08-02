@@ -1,3 +1,3 @@
-81. § A 373/2022. (IX. 30.) Korm. rendelet 197. § (4) bekezdése helyébe a következő rendelkezés lép:
+81. §[^81]
 
-„(4) Rendszerszintű szabálytalanság gyanújáról a nemzeti hatóság haladéktalanul értesíti az NFK belső ellenőrzésekért felelős szervezeti egységét, a Belső Ellenőrzési és Integritási Igazgatóságot, valamint az audit hatóságot.”
+[^81]: A 81. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

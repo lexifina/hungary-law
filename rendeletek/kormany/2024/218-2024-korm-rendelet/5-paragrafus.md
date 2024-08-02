@@ -1,3 +1,3 @@
-5. § A 4/2011. (I. 28.) Korm. rendelet 106. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-„(1) Az irányító hatóság, a közreműködő szervezet és az igazoló hatóság működésének belső ellenőrzését biztosítani kell. Az irányító hatósági feladatokat ellátó szervezet és az NFK belső ellenőrzési egysége ellenőrzést végezhet az irányító hatóságnál, az NFK 5. § h) pont hm) alpontjában meghatározott koordinációs tevékenysége mellett. Az ellátandó belső ellenőrzési tevékenység tekintetében az Áht., valamint a költségvetési szervek belső kontrollrendszeréről és belső ellenőrzéséről szóló kormányrendelet rendelkezéseit kell alkalmazni.”
+[^5]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

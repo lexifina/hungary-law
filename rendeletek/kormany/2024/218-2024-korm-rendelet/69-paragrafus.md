@@ -1,3 +1,3 @@
-69. § A 256/2021. (V. 18.) Korm. rendelet 136. alcíme a következő 506/A. §-sal egészül ki:
+69. §[^69]
 
-„506/A. § A 422. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy a kis összegű követelést a holdingalapot végrehajtó szervezet írja le.”
+[^69]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

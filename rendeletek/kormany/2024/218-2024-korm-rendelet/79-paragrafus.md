@@ -1,5 +1,3 @@
-79. § A 373/2022. (IX. 30.) Korm. rendelet a következő 6. §-sal egészül ki:
+79. §[^79]
 
-„6. § (1) Az NFK a IV. Fejezet szerint ellenőrzi az e rendelet hatálya alá tartozó támogatások felhasználása során lefolytatott közbeszerzési eljárások közbeszerzési elszámolhatóságát.
-
-(2) Az NFK (1) bekezdés szerinti feladatát ellátó szervezeti egység a feladatellátása során funkcionálisan független, döntései meghozatalában nem utasítható.”
+[^79]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

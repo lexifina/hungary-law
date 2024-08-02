@@ -1,3 +1,3 @@
-56. § A 256/2021. (V. 18.) Korm. rendelet 215. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+56. §[^56]
 
-(A szokásos piaci ár meghatározható)
+[^56]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

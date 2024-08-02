@@ -1,3 +1,3 @@
-2. § A 4/2011. (I. 28.) Korm. rendelet 5. §-a a következő i) ponttal egészül ki:
+2. §[^2]
 
-(Az európai uniós források felhasználásáért felelős miniszter)
+[^2]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-60. § A 256/2021. (V. 18.) Korm. rendelet 397. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+60. §[^60]
 
-(Szabálytalanság megállapítása esetén az irányító hatóság)
+[^60]: A 60. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

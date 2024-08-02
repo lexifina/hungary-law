@@ -1,5 +1,5 @@
 ## 8. Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet módosítása
 
-36. § Az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény végrehajtásáról szóló 110/2016. (V. 25.) Korm. rendelet [a továbbiakban: 110/2016. (V. 25.) Korm. rendelet] 2. § 1. pontja helyébe a következő rendelkezés lép:
+36. §[^36]
 
-(E rendelet alkalmazásában)
+[^36]: A 36. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

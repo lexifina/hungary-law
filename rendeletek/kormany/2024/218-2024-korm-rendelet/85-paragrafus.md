@@ -1,1 +1,3 @@
-85. § Hatályát veszti a 373/2022. (IX. 30.) Korm. rendelet 7. alcíme.
+85. §[^85]
+
+[^85]: A 85. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

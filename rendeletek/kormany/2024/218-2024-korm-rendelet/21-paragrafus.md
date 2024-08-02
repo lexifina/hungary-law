@@ -1,3 +1,3 @@
-21. § A 272/2014. (XI. 5.) Korm. rendelet 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+21. §[^21]
 
-„(2) Ahol e rendelet bármely dokumentum tekintetében az irányító hatóság megküldési kötelezettségét írja elő, az abban foglalt javaslatot a szakpolitikai felelőssel közös álláspontnak kell tekinteni, ha az irányító hatóság és a szakpolitikai felelős ugyanabban a szervezetben került kijelölésre.”
+[^21]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

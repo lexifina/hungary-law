@@ -1,7 +1,3 @@
-8. § Hatályát veszti a 4/2011. (I. 28.) Korm. rendelet
+8. §[^8]
 
-a) 2. § (1) bekezdés 16b. pontja,
-
-b) 5. § h) pontjában az „a központi koordinációs szerv útján” szövegrész,
-
-c) 7. alcíme.
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
