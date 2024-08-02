@@ -1,1 +1,3 @@
-4. § A Korm. rendelet 2. § (3) bekezdésében a „7,5” szövegrész helyébe az „5” szöveg lép.
+4. §[^6]
+
+[^6]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
