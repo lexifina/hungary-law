@@ -1,3 +1,3 @@
-10. § Az R. 15. §-a a következő (4) bekezdéssel egészül ki:
+10. §[^11]
 
-„(4) A 2. § (1) bekezdés o) pontjában meghatározott ügyletek esetében a kárfizetési türelmi időre vonatkozó rendelkezéseket az egyedi szerződéses feltételek tartalmazzák.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

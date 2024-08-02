@@ -1,1 +1,3 @@
-19. § Hatályát veszti az R. 2. § r) pontja.
+19. §[^20]
+
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

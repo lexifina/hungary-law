@@ -1,3 +1,3 @@
-12. § Az R. 17. § (2) bekezdése a következő d) ponttal egészül ki:
+12. §[^13]
 
-(A Mehib Zrt. a kárfizetési kötelezettségét)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

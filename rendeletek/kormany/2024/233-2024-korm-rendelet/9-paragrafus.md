@@ -1,3 +1,3 @@
-9. § Az R. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+9. §[^10]
 
-„(1) Mehib Zrt. a kockázatviselés tartamát az általános szerződési feltételeiben vagy a 2. § (1) bekezdés o) pontjában meghatározott egyedi szerződéses feltételekben köteles meghatározni.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

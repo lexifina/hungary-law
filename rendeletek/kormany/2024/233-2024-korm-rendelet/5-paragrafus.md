@@ -1,3 +1,3 @@
-5. § Az R. 4. § (3) bekezdése a következő i) ponttal egészül ki:
+5. §[^6]
 
-(A biztosítás nem terjed ki:)
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

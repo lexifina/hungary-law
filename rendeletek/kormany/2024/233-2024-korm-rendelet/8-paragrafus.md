@@ -1,3 +1,3 @@
-8. § Az R. 8. §-a a következő (5) bekezdéssel egészül ki:
+8. §[^9]
 
-„(5) A (2) és (3) bekezdésben előírt feltételeket nem kell alkalmazni a 2. § (1) bekezdés o) pontja szerinti biztosítási és viszontbiztosítási ügyletek esetében.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

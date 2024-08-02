@@ -1,3 +1,3 @@
-15. § Az R. 18. § (5) bekezdése a következő e) ponttal egészül ki:
+15. §[^16]
 
-(Ha ugyanazon adóssal szemben biztosított és nem biztosított követelés is fennáll, a költségek és a kármegtérülések biztosító és biztosított közötti megosztására és elszámolására az alábbi szabályokat kell alkalmazni:)
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
