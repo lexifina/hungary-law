@@ -1,1 +1,3 @@
-8. § Hatályát veszti a 212/2008. (VIII. 29.) Korm. rendelet 2. §-a.
+8. §[^8]
+
+[^8]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,5 @@
 ## 13. A Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról szóló 379/2015. (XII. 8.) Korm. rendelet módosítása
 
-14. § A Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról szóló 379/2015. (XII. 8.) Korm. rendelet 5. § (5) bekezdésében a „miniszter – a víziközmű-szolgáltatásért felelős miniszterrel és az állami beruházásokért felelős miniszterrel történt egyeztetést követően” szövegrész helyébe a „miniszter – az állami beruházásokért felelős miniszterrel történt egyeztetést követően” szöveg lép.
+14. §[^24]
+
+[^24]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

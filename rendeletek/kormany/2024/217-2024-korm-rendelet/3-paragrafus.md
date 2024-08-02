@@ -1,5 +1,5 @@
 ## 3. A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a világűr kutatásában és békés célú felhasználásában való együttműködésről szóló megállapodás kihirdetéséről szóló 6/2002. (I. 26.) Korm. rendelet módosítása
 
-3. § A Magyar Köztársaság Kormánya és az Amerikai Egyesült Államok Kormánya között a világűr kutatásában és békés célú felhasználásában való együttműködésről szóló megállapodás kihirdetéséről szóló 6/2002. (I. 26.) Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(2) E rendelet végrehajtásáról az űriparfejlesztésért és űrtechnológiákért felelős miniszter gondoskodik.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
