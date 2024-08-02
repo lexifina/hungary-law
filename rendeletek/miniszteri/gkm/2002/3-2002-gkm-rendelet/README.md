@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-3-20-0L
 | 2024-02-02 | 2002-3-20-0L.16 | 11/2023. (VI. 23.) ÉKM rendelet |
 | 2024-02-18 | 2002-3-20-0L.17 | 20/2012. (IV. 26.) NFM rendelet |
 | 2024-07-03 | 2002-3-20-0L.18 | 20/2012. (IV. 26.) NFM rendelet |
+| 2024-08-02 | 2002-3-20-0L.19 | 20/2012. (IV. 26.) NFM rendelet |

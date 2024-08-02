@@ -426,7 +426,7 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 | 191. | Létesítési engedély mezőgazdasági vagy munkavégzési célú leszállóhely | 18 000 |
 
-| 192. | Létesítési és megszüntetési engedély (C osztályú leszállóhely) | 46 000 |
+| 192. | Létesítési engedély vízfelszínen létesített leszállóhely | 46 000 |
 
 | Repülőtér zajgátló védőövezete kijelölésének eljárása Lt. 38. § (2) bekezdése, Korm. Rend. 5. § (5) bekezdés 19. pontja, 176/1997. (X. 11.) Korm. rendelet |
 
@@ -1320,4 +1320,4 @@ Melléklet a 3/2002. (VI. 20.) GKM rendelethez[^21]
 
 [^19]: Az 5. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 242. pontja hatályon kívül helyezte.
 [^20]: A 6. §-t a 1/2014. (III. 6.) NFM rendelet 1. § (1) bekezdése iktatta be.
-[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 1. §-a és 2. § f) pontja, a 16/2024. (VII. 2.) ÉKM rendelet 5. § (1) bekezdése és 6. §-a szerint módosított szöveg.
+[^21]: A melléklet a 20/2012. (IV. 26.) NFM rendelet 4. §-ával megállapított, a 11/2014. (III. 6.) NFM rendelet 1. § (2) bekezdése, a 33/2020. (X. 5.) ITM rendelet 1. §-a, a 7/2021. (II. 5.) ITM rendelet 1. §-a, a 3/2024. (I. 18.) ÉKM rendelet 1. §-a és 2. § f) pontja, a 16/2024. (VII. 2.) ÉKM rendelet 5-6. §-a szerint módosított szöveg.
