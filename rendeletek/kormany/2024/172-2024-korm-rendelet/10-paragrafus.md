@@ -1,3 +1,3 @@
-10. § A Korm. rendelet 153. § a) pontja helyébe a következő rendelkezés lép:
+10. §[^13]
 
-(A miniszter költségvetés makrogazdasági megalapozásáért való felelőssége keretében)
+[^13]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

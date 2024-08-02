@@ -1,5 +1,3 @@
-## „62. az űriparfejlesztésért és űrtechnológiákért,”
+13. §[^16]
 
-## (való felelősségi körökben a Kormány ügydöntő jogkörrel rendelkező szerve.)
-
-13. § A Korm. rendelet 148. § (1) bekezdés 5. pontjában, valamint 155. § nyitó szövegrészében a „Valutalap” szövegrész helyébe a „Valutaalap” szöveg lép.
+[^16]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

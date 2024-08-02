@@ -1,3 +1,3 @@
-6. § A Korm. rendelet 95. § 2. pontja helyébe a következő rendelkezés lép:
+6. §[^9]
 
-[Az építési és közlekedési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány]
+[^9]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

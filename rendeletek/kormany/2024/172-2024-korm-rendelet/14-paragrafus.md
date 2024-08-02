@@ -1,30 +1,38 @@
 14. § Hatályát veszti a Korm. rendelet
 
-a)[^5]
+a)[^17]
 
-b) 66. § (1) bekezdés 21–23. pontja,
+b)[^18]
 
-c)[^6]
+c)[^19]
 
-d)[^7]
+d)[^20]
 
-e)[^8]
+e)[^21]
 
-f) 84–86. §-a,
+f)[^22]
 
-g) 103. § (1) bekezdés 19. pontjában az „– a 139. § 7. pontja szerinti kivétellel –” szövegrész,
+g)[^23]
 
-h) 119. § 6. pontja,
+h)[^24]
 
-i) 127. §-a,
+i)[^25]
 
-j) 139. § 4. és 7. pontja,
+j)[^26]
 
-k) 144. §-a,
+k)[^27]
 
-l) 147. §-a.
+l)[^28]
 
-[^5]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^6]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^7]: A 14. § d) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^8]: A 14. § e) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^17]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^18]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^20]: A 14. § d) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^21]: A 14. § e) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+[^22]: A 14. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^23]: A 14. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 14. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 14. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 14. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 14. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 14. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-9. § A Korm. rendelet 13. alcíme a következő 142/A. §-sal egészül ki:
+9. §[^12]
 
-„142/A. § A miniszter koordinálja a HUNOR Magyar Űrhajós Programmal összefüggő feladatok megvalósítását, részt vesz az űrkutatási vonatkozású kérdések kapcsán a nemzetközi szervezetekben.”
+[^12]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-12. § A Korm. rendelet 188. § (1) bekezdés 62. pontja helyébe a következő rendelkezés lép:
+12. §[^15]
 
-(A Gazdasági Kabinet a Kormány vagy a miniszterelnök által meghatározott, így különösen)
+[^15]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

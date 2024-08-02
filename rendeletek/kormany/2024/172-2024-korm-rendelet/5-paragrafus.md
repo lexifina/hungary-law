@@ -1,3 +1,3 @@
-5. § A Korm. rendelet 7. alcíme a következő 94/A. §-sal egészül ki:
+5. §[^8]
 
-„94/A. § A miniszter ellátja a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvénnyel kapcsolatos kodifikációs feladatokat.”
+[^8]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
