@@ -46,6 +46,12 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 22. közműkezeléssel kapcsolatos hatósági eljárások,
 
-23. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+23.[^23] vasúthatósági engedélyezési eljárások,
 
-24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+24.[^24] azok az 1–23. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+
+25.[^25] az 1–24. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^23]: Az 1. melléklet 23. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^24]: Az 1. melléklet 24. pontja a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontjával megállapított szöveg.
+[^25]: Az 1. melléklet 25. pontját a 227/2024. (VII. 31.) Korm. rendelet 3. § a) pontja iktatta be.
