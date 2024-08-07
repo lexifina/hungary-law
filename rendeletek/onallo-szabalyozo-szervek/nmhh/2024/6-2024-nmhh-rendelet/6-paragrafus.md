@@ -1,0 +1,1 @@
+6. § Az online platform szolgáltató – a mentesített szolgáltató kivételével – a 2024. tárgyév tekintetében a rendelet hatálybalépését követő hónap első napjától 2024. év minden megkezdett hónapja után időarányosan, 2024. december 31-ig fizeti meg a felügyeleti díjat a Rendelet hatálya alá tartozó szolgáltatásokból származó, 2023. évben elért nettó árbevétele alapján.

@@ -1,0 +1,1 @@
+Az internetes közvetítő szolgáltatások egyes szabályairól szóló 2023. évi CIV. törvény 22. § f) pontjában kapott felhatalmazás alapján, a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény 110. § (1) bekezdés i) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
