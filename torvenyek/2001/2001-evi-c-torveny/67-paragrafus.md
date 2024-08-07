@@ -10,6 +10,10 @@ d) közzétegye az 53/A. § (1) bekezdése szerinti szakmai tevékenységek fels
 
 e) állapítsa meg a 6. § (4) bekezdésében meghatározott foglalkoztatók érdekkörében felmerült elismerési ügyekre az e törvényben foglaltaktól eltérő rendelkezéseket, valamint az általuk foglalkoztatottak tevékenységére vonatkozó szabályokat.
 
+f) jelölje ki a szabályozott szakmákhoz való hozzáférést vagy azok gyakorlását korlátozó új rendelkezések bevezetését, illetve a meglévő rendelkezések módosítását megelőzően elvégzendő arányossági értékelés ellenőrzésére jogosult minisztert,
+
+g) jelölje ki a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését, valamint a 4/A. §-ban meghatározott segítségnyújtó központ kapcsolattartási adatait tartalmazó jegyzék közzétételéért felelős minisztert.
+
 (2) Felhatalmazást kap a felsőoktatásért felelős miniszter, hogy rendeletben hirdesse ki
 
 a) az adópolitikáért felelős miniszterrel egyetértésben a külföldi bizonyítványok és oklevelek elismeréséhez és honosításához, az oklevelekről és bizonyítványokról szóló hatósági bizonyítványok kiállításához kapcsolódó igazgatási szolgáltatási díjak mértékét, valamint a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
@@ -40,6 +44,6 @@ c) az építésügyi szabályozásért és építéshatósági ügyekért felel�
 
 (6)
 
-(7) Az iparügyekért felelős miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak interneten való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi az iparügyekért felelős miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
+(7) A Kormány által rendeletben kijelölt miniszter – az érintett miniszterek közreműködésével – elkészíti és a Magyar Közlönyben rendszeresen közzéteszi a szabályozott szakmák megnevezését és a szakmákat szabályozó jogszabály előkészítéséért felelős miniszterek megnevezését tartalmazó jegyzéket, továbbá gondoskodik annak a kormányzati portálon való hozzáférhetőségéről. A szabályozott szakmára vonatkozó jogszabály módosulása esetén az érintett miniszter kezdeményezi a Kormány által rendeletben kijelölt miniszternél a jegyzék módosítását. A miniszter tájékoztatja az Európai Bizottságot a hatáskörébe tartozó szabályozott szakmákról, a szabályozott szakmákhoz tartozó szabályozott szakmai tevékenységekről, a szakma szabályozottságának indokairól, valamint az előzetes ellenőrzés alá tartozó szakmákról és ennek indokairól.
 
 (8) Az eljáró hatóság a honlapján közzéteszi és naprakészen tartja a határon átnyúló szolgáltatásnyújtó bejelentésére és előzetes ellenőrzésére, a szakmai képesítések elismerésére, a kérelemmel együtt benyújtandó okiratokra, a nyelvismeretre, az eljárás határidejére, az eljárás díjára, valamint a jogorvoslatra vonatkozó részletes tájékoztatását.
