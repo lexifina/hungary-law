@@ -8,17 +8,17 @@ a) 3 000 000 eurónak megfelelő forintösszegű többletforrás biztosításár
 
 b) 4 700 000 eurónak megfelelő forintösszegű többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.2) 1. melléklet XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 3. Nemzetközi tagdíjak és európai uniós befizetések alcím javára,
 
-c) a 2023–2027 közötti időszakban szükséges forrás tervezéséről a központi költségvetésről szóló törvény XVIII. Külgazdasági és Külügyminisztérium fejezete javára az alábbi, évek szerinti bontásban:
+c)[^1] a 2023–2027 közötti időszakban szükséges forrás tervezéséről a központi költségvetésről szóló törvény XVIII. Külgazdasági és Külügyminisztérium fejezete javára az alábbi, évek szerinti bontásban:
 
 ca) a 2023. évben 5 900 000 euró,
 
-cb)[^1] a 2024. évben 32 100 000 euró,
+cb) a 2024. évben 32 100 000 euró,
 
-cc)[^2] a 2025. évben 28 000 000 euró,
+cc) a 2025. évben 48 100 000 euró,
 
-cd)[^3] a 2026. évben 28 500 000 euró,
+cd) a 2026. évben 48 700 000 euró,
 
-ce)[^4] a 2027. évben 29 200 000 euró;
+ce) a 2027. évben 49 300 000 euró;
 
 Felelős: pénzügyminiszter
 
@@ -68,7 +68,4 @@ honvédelmi miniszter
 
 Határidő: az e határozat közzétételét követő 30. nap
 
-[^1]: A 2. pont c) pont cb) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 2. pont c) pont cc) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
-[^3]: A 2. pont c) pont cd) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont c) alpontja szerint módosított szöveg.
-[^4]: A 2. pont c) pont ce) alpontja az 1094/2024. (IV. 8.) Korm. határozat 2. pont d) alpontja szerint módosított szöveg.
+[^1]: A 2. pont c) alpontja az 1242/2024. (VIII. 8.) Korm. határozat 2. pontjával megállapított szöveg.
