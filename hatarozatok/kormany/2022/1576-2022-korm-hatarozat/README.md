@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1576-30
 | --- | --- | --- |
 | 2022-11-28 | 2022-1576-30-22.1 | 1576/2022. (XI. 28.) Korm. határozat |
 | 2022-11-29 | 2022-1576-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-08-08 | 2022-1576-30-22.3 | 1243/2024. (VIII. 8.) Korm. határozat |
