@@ -1,5 +1,3 @@
-## Szerkezetátalakítási terv
-
 ## … oltalom alatt álló eredetmegjelölés/földrajzi jelzés
 
 |  | A | B |
@@ -15,3 +13,5 @@
 ## elnök
 
 5. melléklet az 1/2018. (II. 1.) FM rendelethez
+
+Az ajánlott szőlőfajták maximális száma

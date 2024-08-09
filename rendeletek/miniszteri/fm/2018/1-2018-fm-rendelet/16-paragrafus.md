@@ -14,7 +14,7 @@ a) a 6. § (4) bekezdése, és a 6. § (5) bekezdése szerinti megvalósítás e
 
 b) a 6. § (6) bekezdése szerinti megvalósítás esetén a megvalósítás évében
 
-## el kell érnie a 90%-ot.
+el kell érnie a 90%-ot.
 
 (4)[^45] Az ültetvény beállottságának az ültetvény telepítését követő évben el kell érnie a 95%-ot.
 

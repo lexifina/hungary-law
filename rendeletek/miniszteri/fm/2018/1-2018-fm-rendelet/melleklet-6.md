@@ -1,5 +1,3 @@
-## Az ajánlott szőlőfajták maximális száma
-
 |  | A | B | C |
 
 | 1. | A földrajzi árujelző körülhatárolt termőterületének nagysága* | Földrajzi árujelző | Az ajánlott szőlőfajták maximális száma |
@@ -14,6 +12,8 @@
 
 ## * a földrajzi árujelző termékleírásában körülhatárolt termőterületén belül a termékleírásban engedélyezett szőlőfajtákkal beültetett terület nagysága
 
-6. melléklet az 1/2018. (II. 1.) FM rendelethez[^78]
+6. melléklet az 1/2018. (II. 1.) FM rendelethez[^79]
 
-[^78]: A 6. melléklet a 30/2018. (X. 11.) AM rendelet 19. §-a szerint módosított szöveg.
+Ültetvényleltár
+
+[^79]: A 6. melléklet a 30/2018. (X. 11.) AM rendelet 19. §-a szerint módosított szöveg.

@@ -6,7 +6,7 @@ b) a 2. § a)–c) pontjai szerinti intézkedések esetén a 2018/2019 borpiaci 
 
 c)[^9] a 2. § a)–c) pontjai szerinti intézkedések esetén a 2019/2020. borpiaci évben 2020. január 15. és január 28. között
 
-## lehet.
+lehet.
 
 (2)[^10] Egyéni tervet nyújthat be az a természetes személy vagy gazdálkodó szervezet, aki vagy amely az egyéni tervben megjelölt terület használója vagy őstermelők családi gazdasága tagja, és a terület a őstermelők családi gazdasága valamely tagjának használatában van.
 

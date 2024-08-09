@@ -281,3 +281,5 @@
 | 24. | Összesen elérhető pontszám | 50 |  |
 
 4. melléklet az 1/2018. (II. 1.) FM rendelethez
+
+Szerkezetátalakítási terv
