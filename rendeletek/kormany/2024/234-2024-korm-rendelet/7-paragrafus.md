@@ -1,0 +1,1 @@
+7. § A KIFÜ helyébe jogutódként 2025. január 1-jétől a Lechner Tudásközpont Nonprofit Korlátolt Felelősségű Társaság lép a KÖFOP-1.0.0-VEKOP-15-2017-00050 azonosító számú „Földmegfigyelési Információs Rendszer (FIR) földmegfigyelési adatinfrastruktúra és szolgáltatások kialakítása” projekt tekintetében.

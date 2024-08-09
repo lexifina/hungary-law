@@ -1,0 +1,1 @@
+5. § A közszférabeli szervezetek honlapjainak és mobilalkalmazásainak akadálymentesítéséről szóló 2018. évi LXXV. törvény 5. §-a szerinti ellenőrzési és végrehajtási feladatok tekintetében 2025. január 1-jétől a KIFÜ jogutódja a DMÜ Zrt.
