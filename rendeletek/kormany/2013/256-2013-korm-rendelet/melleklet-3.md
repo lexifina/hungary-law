@@ -574,6 +574,8 @@
 
 | 287. | Nyíregyházi Szociális Gondozási és Egészségügyi Alapellátási Központ | Nyíregyháza |
 
+| 288. | Nemzeti Dialízis Központ Korlátolt Felelősségű Társaság | Budapest |
+
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^133]
 
 Az egészségügyi szakdolgozó munkakörének fizetési osztályba történő besorolása
