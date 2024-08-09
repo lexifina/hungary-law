@@ -1,0 +1,1 @@
+2. § E rendelet alkalmazásában akkreditáció az a tevékenység, amelynek alapján a vállalkozásfejlesztési ügynökség hivatalosan elismeri és igazolja, hogy a kérelmező, továbbá a kérelmező által tervezett képzés alkalmas az ESG tanácsadókat oktató intézményi feladatok ellátására a fenntartható finanszírozás és az ESG törvény előírásainak megfelelően.

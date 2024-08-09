@@ -1,0 +1,3 @@
+1. § (1) E rendelet rendelkezéseit kell alkalmazni a vállalkozásfejlesztési ügynökség akkreditációs eljárására.
+
+(2) A vállalkozásfejlesztési ügynökség a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény (a továbbiakban: ESG törvény) 9. § (1) bekezdés d) pontja alapján akkreditációs hatóságként jár el az ESG tanácsadókat oktató intézmények akkreditációs eljárásának lefolytatása során.
