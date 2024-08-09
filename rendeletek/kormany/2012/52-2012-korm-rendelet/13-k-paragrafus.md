@@ -1,4 +1,4 @@
-## 6/K.[^34] A 90 napot meghaladó futamidejű hitel vagy kölcsön nyújtására vonatkozó tilalom alóli mentesítést biztosító engedélyek
+## 6/K.[^55] A 90 napot meghaladó futamidejű hitel vagy kölcsön nyújtására vonatkozó tilalom alóli mentesítést biztosító engedélyek
 
 13/K. § (1) A 765/2006/EK tanácsi rendelet 1k. cikk (3) bekezdése szerinti engedélyek kiadása iránti kérelmet a kormányhivatalhoz kell benyújtani. A kérelmet a hitelező pénzügyi intézmény nyújthatja be.
 
@@ -14,4 +14,7 @@ b) a 765/2006/EK tanácsi rendelet 1k. cikk (3) bekezdésébe foglalt tilalom al
 
 (5) A 765/2006/EK tanácsi rendelet 1k. cikk (3) bekezdése szerinti tájékoztatási kötelezettséget a kormányhivatal teljesíti.
 
-[^34]: A 6/K. alcímet (13/K. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+(6)[^56] A kormányhivatal egyidejűleg tájékoztatja a Magyar Nemzeti Bankot az e § alapján kiadott engedélyről, illetve az elutasított engedélykérelemről.
+
+[^55]: A 6/K. alcímet (13/K. §-t) a 456/2022. (XI. 9.) Korm. rendelet 2. §-a iktatta be.
+[^56]: A 13/K. § (6) bekezdését a 240/2024. (VIII. 8.) Korm. rendelet 8. §-a iktatta be.
