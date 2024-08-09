@@ -58,15 +58,15 @@
 
 | 9 | 2023 | Digitális Európa Program (HPC EDIH) | Bay Zoltán Alkalmazott Kutatási Közhasznú Nonprofit Kft. | 10 824 244 | – | – | – |
 
-| 10 | 2023 | Digitális Európa Program (SME4DD) | Kormányzati Informatikai Fejlesztési Ügynökség | 18 185 000 | 56 732 410 | 56 393 965 | – |
+| 10[^2] | 2023 | Digitális Európa Program (SME4DD) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság | 18 185 000 | 56 732 410 | 56 393 965 | – |
 
 | 11 | 2023 | Digitális Európa Program (TRACE4EU) | Neumann Nonprofit Közhasznú Kft. | – | 39 656 420 | 56 870 420 | – |
 
 | 12 | 2023 | Digitális Európa Program (DC4EU) | Neumann Nonprofit Közhasznú Kft. | – | 24 657 749 | 73 973 246 | – |
 
-| 13 | 2023 | Digitális Európa Program (EuroCC-2) | Kormányzati Informatikai Fejlesztési Ügynökség | – | 100 000 000 | 181 759 720 | – |
+| 13[^3] | 2023 | Digitális Európa Program (EuroCC-2) | Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság | – | 100 000 000 | 181 759 720 | – |
 
-| 14 | 2023 | Digitális Európa Program (QCIHungary) | Kormányzati Informatikai Fejlesztési Ügynökség Budapesti Műszaki és Gazdaságtudományi Egyetem Eötvös Loránd Tudományegyetem Wigner Fizikai Kutatóközpont | 229 849 951 | 1 007 311 260 | 364 316 060 | 200 000 000 |
+| 14[^4] | 2023 | Digitális Európa Program (QCIHungary) | Pro-M Professzionális Mobilszolgáltató Zártkörűen Működő Részvénytársaság Budapesti Műszaki és Gazdaságtudományi Egyetem Eötvös Loránd Tudományegyetem Wigner Fizikai Kutatóközpont | 229 849 951 | 1 007 311 260 | 364 316 060 | 200 000 000 |
 
 | 15 | 2023 | Európai Hálózatfinanszírozási Eszköz (5GSMARTCOM) | Pro-M Professzionális Mobilszolgáltató Zrt. | 9 500 000 | 262 286 516 | 232 217 905 | – |
 
@@ -79,3 +79,6 @@
 | 19 | 2023 | LIFE (CLIMCOOP) | Miskolci Egyetem | – | 21 585 883 | 12 096 438 | – |
 
 [^1]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. mellékletben foglalt táblázat 10. sora az 1239/2024. (VIII. 8.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. mellékletben foglalt táblázat 13. sora az 1239/2024. (VIII. 8.) Korm. határozat 10. pont a) alpontja szerint módosított szöveg.
+[^4]: Az 1. mellékletben foglalt táblázat 14. sora az 1239/2024. (VIII. 8.) Korm. határozat 10. pont b) alpontja szerint módosított szöveg.
