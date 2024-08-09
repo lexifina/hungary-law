@@ -16,11 +16,11 @@ adományozható.
 
 (3) A díjból évente legfeljebb 4 adományozható. A díjat ugyanaz a természetes személy, jogi személy vagy közösség (legfeljebb 3 fő társtervező megnevezésével) 5 éven belül csak egyszer kaphatja meg. Újabb díj adományozására csak olyan teljesítmény alapján lehet javaslatot tenni, amely a korábban adományozott díj elnyerése óta született.
 
-(4) A díj Kós Károly születésnapja (december 16.) alkalmából kerül átadásra.
+(4)[^12] A díj a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
 
 (5) A díjazott az adományozást igazoló oklevelet kap.
 
-(6) A díjhoz a KSH által a Hivatalos Értesítőben a tárgyévet megelőző évre vonatkozóan közzétett bruttó átlagkereset hatszorosának megfelelő összegű pénzjutalom jár.
+(6)[^13] A díjhoz bruttó 7 500 000 forint összegű pénzjutalom jár.
 
 (7) A díj elnyerésére vonatkozó pályázatokat legfeljebb 7 tagból álló szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja. Szavazategyenlőség esetén a bíráló bizottság elnökének szavazata dönt.
 
@@ -43,3 +43,6 @@ e) az elnök által felkért, a magyar építészeti kultúra népszerűsítés�
 (11) A bíráló bizottság az építészeti államtitkár útján a díj adományozására vonatkozó javaslatát a díj átadásának napját legalább 45 nappal megelőzően – az elismerés tárgyának rövid ismertetését tartalmazó indokolással – terjeszti fel a miniszternek.
 
 (12) A bíráló bizottság tagja e tevékenységéért díjazásban nem részesül. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti stratégiáért felelős helyettes államtitkár gondoskodik.
+
+[^12]: A 12. § (4) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
+[^13]: A 12. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 7. §-ával megállapított szöveg.

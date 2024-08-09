@@ -4,13 +4,13 @@
 
 (2) A díj évente 3 fő részére adományozható, és az elismerést ugyanaz a személy csak egyszer kaphatja meg.
 
-(3) A díj Kós Károly születésnapja (december 16.) alkalmából kerül átadásra.
+(3)[^4] A díj a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
 
 (5) Az emlékérem bronzból készült, kör alakú, 60 mm átmérőjű. Egyik oldalán Ybl Miklós dombormű arcképe található, a szélén „YBL” felirattal. A másik oldalán vésett felirattal az adományozott neve és az adományozás évszáma található. Az érem Borsos Miklós szobrász-, éremművész alkotása.
 
-(6) A díjhoz a KSH által a Hivatalos Értesítőben a tárgyévet megelőző évre vonatkozóan közzétett bruttó átlagkereset tizenkétszeresének megfelelő összegű pénzjutalom jár.
+(6)[^5] A díjhoz bruttó 15 000 000 forint összegű pénzjutalom jár.
 
 (7) A díj adományozására vonatkozó javaslatokat legfeljebb 7 tagú szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja. Szavazategyenlőség esetén a bíráló bizottság elnökének szavazata dönt.
 
@@ -31,3 +31,6 @@ e) az elnök által felkért Ybl-díjas személyek.
 (10) A bíráló bizottság az építészeti államtitkár útján az elismerés adományozását a díj átadásának napját legalább 45 nappal megelőzően – a jelölt életútjának, tevékenységének rövid ismertetését tartalmazó indokolással és ajánlólevéllel – kezdeményezheti a miniszternél.
 
 (11) A bíráló bizottság tagja e tevékenységéért díjazásban nem részesül. A bíráló bizottság melletti titkársági feladatok ellátásáról az építészeti stratégiáért felelős helyettes államtitkár gondoskodik.
+
+[^4]: A 8. § (3) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
+[^5]: A 8. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 3. §-ával megállapított szöveg.

@@ -4,13 +4,13 @@
 
 (2) A díj évente 1 fő részére adományozható, és az elismerést ugyanaz a személy csak egyszer kaphatja meg.
 
-(3) A díj Kós Károly születésnapja (december 16.) alkalmából kerül átadásra.
+(3)[^8] A díj a Magyar Építészet Napja (december 16.) alkalmából kerül átadásra.
 
 (4) A díjazott emlékérmet és az adományozást igazoló oklevelet kap.
 
 (5) Az érem bronzból készült, átmérője 70 mm, vastagsága 5 mm. Előlapján középen Forster Gyula portréja, a köriratban a „FORSTER GYULA-DÍJ” felirat szerepel. A hátlapon Dömös prépostsági altemplomának képe helyezkedik el, köriratban az „A MAGYAR MŰEMLÉKVÉDELEMÉRT” felirattal. Az érem Madarassy István ötvösművész alkotása.
 
-(6) A díjhoz a KSH által a Hivatalos Értesítőben a tárgyévet megelőző évre vonatkozóan közzétett bruttó átlagkereset nyolcszorosának megfelelő összegű pénzjutalom jár.
+(6)[^9] A díjhoz bruttó 10 000 000 forint összegű pénzjutalom jár.
 
 (7) A díj adományozására vonatkozó javaslatokat 5 fős szakmai bíráló bizottság (e § alkalmazásában a továbbiakban: bíráló bizottság) fogadja be, véleményezi és rangsorolja.
 
@@ -27,3 +27,6 @@ c) az elnök által felkért 3 műemlékvédelmi szakember.
 (10) A bíráló bizottság a díj adományozására vonatkozó javaslatát – a jelölt életútjának, tevékenységének rövid ismertetését tartalmazó indokolással és ajánlólevéllel – az építészeti államtitkár útján terjeszti fel a miniszterhez a díj átadásának napját legalább 45 nappal megelőzően.
 
 (11) A bíráló bizottság tagja e tevékenységéért díjazásban nem részesül. A bíráló bizottság melletti titkársági feladatok ellátásáról a műemlékvédelemért felelős helyettes államtitkár gondoskodik.
+
+[^8]: A 10. § (3) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 10. § a) pontja szerint módosított szöveg.
+[^9]: A 10. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 5. §-ával megállapított szöveg.

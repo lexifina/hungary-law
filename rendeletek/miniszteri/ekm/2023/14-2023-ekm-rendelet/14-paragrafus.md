@@ -10,4 +10,6 @@
 
 (5) A díj adományozására Széchenyi István születésnapja (szeptember 21.) alkalmából kerül sor.
 
-(6) A díjhoz a KSH által a Hivatalos Értesítőben a tárgyévet megelőző évre vonatkozóan közzétett bruttó átlagkereset tizenkétszeresének megfelelő összegű pénzjutalom jár.
+(6)[^15] A díjhoz bruttó 15 000 000 forint összegű pénzjutalom jár.
+
+[^15]: A 14. § (6) bekezdése a 26/2024. (VIII. 8.) ÉKM rendelet 8. §-ával megállapított szöveg.
