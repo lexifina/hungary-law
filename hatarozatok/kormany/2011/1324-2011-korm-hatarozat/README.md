@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1324-30
 | 2011-10-22 | 2011-1324-30-22.1 | 1324/2011. (IX. 22.) Korm. határozat |
 | 2015-04-21 | 2011-1324-30-22.2 | 1224/2015. (IV. 20.) Korm. határozat |
 | 2022-11-03 | 2011-1324-30-22.3 | 1521/2022. (XI. 2.) Korm. határozat |
+| 2024-08-09 | 2011-1324-30-22.4 | 1240/2024. (VIII. 8.) Korm. határozat |
