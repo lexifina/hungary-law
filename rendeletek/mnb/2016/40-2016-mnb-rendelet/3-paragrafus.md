@@ -6,10 +6,12 @@
 
 1. fogyasztó: a Hpt. 6. § (1) bekezdés 28. pontjában meghatározott fogalom;
 
-2. külső hitelminősítő: a hitelintézetekre és befektetési vállalkozásokra vonatkozó prudenciális követelményekről és a 648/2012/EU rendelet módosításáról szóló 2013. június 26-i 575/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: CRR) 4. cikk (1) bekezdés 98. pontjában meghatározott fogalom;
+2.[^2] külső hitelminősítő: a CRR 4. cikk (1) bekezdés 98. pontjában meghatározott fogalom;
 
 3. lakossági ügyfél: a Bszt. 4. § (1) bekezdés 41. pontjában meghatározott fogalom;
 
 4. társfinanszírozás (konzorciális, szindikált hitelezés): több intézmény által közösen nyújtott hitel;
 
 5. ügyfélcsoport: a CRR 4. cikk (1) bekezdés 39. pontjában meghatározott fogalom.
+
+[^2]: A 3. § 2. pontja a 38/2024. (VIII. 8.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.

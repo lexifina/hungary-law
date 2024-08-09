@@ -4,7 +4,7 @@ a) piaci értéke, ha van megbízható értékítéletet tükröző piaci ára,
 
 b) értékbecslő szakértő, vagyonértékelő vagy könyvvizsgáló által felülvizsgált általános értékelési eljárással, módszerrel meghatározott értéke, ha a fedezetnek nincs piaca vagy nincs megbízható értékítéletet tükröző piaci ára
 
-## szolgál.
+szolgál.
 
 (2) Az intézmény a fedezet (1) bekezdés szerinti értéke meghatározásakor a következő szempontokat is figyelembe véve jár el:
 

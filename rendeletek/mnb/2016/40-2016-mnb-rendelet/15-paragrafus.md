@@ -1,6 +1,6 @@
 ## 4. A fedezetértékelés prudenciális követelményei
 
-## 15. §[^1] Az intézmény a fedezetértékeléssel összefüggésben – az általa végzett tevékenységekben és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos módon – belső szabályzatban rögzíti:
+## 15. §[^4] Az intézmény a fedezetértékeléssel összefüggésben – az általa végzett tevékenységekben és az alkalmazott üzleti modellben rejlő kockázatok jellegével, nagyságrendjével, összetettségével arányos módon – belső szabályzatban rögzíti:
 
 a) a fedezetértékelés – beleértve a kockázatvállalás során, a biztosíték elfogadása előtt történő értékelést (elfogadhatóság és érték meghatározása), valamint a fedezetek rendszeres, utólagos értékelését – eljárásrendjét, felelősségi és hatásköri szabályait,
 
@@ -30,4 +30,4 @@ m) a fedezetek érvényesítésére, értékesítésére vonatkozó előírások
 
 n) a fedezetekre vonatkozó nyilvántartási és dokumentációs követelményeket.
 
-[^1]: A 15. § a 32/2021. (IX. 3.) MNB rendelet 1. §-ával megállapított szöveg.
+[^4]: A 15. § a 32/2021. (IX. 3.) MNB rendelet 1. §-ával megállapított szöveg.
