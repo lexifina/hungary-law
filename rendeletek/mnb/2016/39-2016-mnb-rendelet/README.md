@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-39-20-2
 | 2018-01-01 | 2016-39-20-2C.2 | 33/2017. (XI. 30.) MNB rendelet |
 | 2020-01-01 | 2016-39-20-2C.3 | 43/2019. (XII. 17.) MNB rendelet |
 | 2021-10-01 | 2016-39-20-2C.4 | 31/2021. (IX. 3.) Korm. rendelet |
+| 2024-08-09 | 2016-39-20-2C.5 | 38/2024. (VIII. 8.) MNB rendelet |

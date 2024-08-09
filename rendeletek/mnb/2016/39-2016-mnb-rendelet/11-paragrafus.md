@@ -6,9 +6,9 @@ b) más adósság tekintetében nyújtott kedvezménnyel egy időben vagy ahhoz 
 
 c) az intézmény beépített átstrukturálási záradék alkalmazását hagyja jóvá a 30 napot meghaladó késedelemben levő kötelezettnek vagy olyan kötelezettnek, amely a beépített átstrukturálási záradék alkalmazása nélkül 30 napos késedelembe esne.
 
-d)[^8] a szerződésmódosítást megelőző 90 napon belül az intézmény belső minősítési rendszereiben sor került a kötelezett nemteljesítési valószínűségének (PD) növelésére,
+d)[^10] a szerződésmódosítást megelőző 90 napon belül az intézmény belső minősítési rendszereiben sor került a kötelezett nemteljesítési valószínűségének (PD) növelésére,
 
-e)[^9] a szerződésmódosítást megelőző 90 napon belül a kötelezett az intézmény által működtetett korai jelzőrendszer alapján különleges eljárás, szorosabb monitoringtevékenység alá került.
+e)[^11] a szerződésmódosítást megelőző 90 napon belül a kötelezett az intézmény által működtetett korai jelzőrendszer alapján különleges eljárás, szorosabb monitoringtevékenység alá került.
 
 (2) Az intézmény akkor tudja hitelt érdemlő módon bizonyítani, hogy a 30 napos késedelem ellenére a követelést nem szükséges átstrukturált követelésként nyilvántartani, amennyiben a kötelezett pénzügyi helyzetének vizsgálata alapján egyértelműen arra a következtetésre lehet jutni, hogy a késedelem ideiglenes vagy technikai jellegű.
 
@@ -28,5 +28,5 @@ b) a fizetési rendszer nem megfelelő működése,
 
 c) rendkívüli külső esemény következménye (például katasztrófa, háború).
 
-[^8]: A 11. § (1) bekezdés d) pontját a 31/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A 11. § (1) bekezdés e) pontját a 31/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.
+[^10]: A 11. § (1) bekezdés d) pontját a 31/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.
+[^11]: A 11. § (1) bekezdés e) pontját a 31/2021. (IX. 3.) Korm. rendelet 1. §-a iktatta be.
