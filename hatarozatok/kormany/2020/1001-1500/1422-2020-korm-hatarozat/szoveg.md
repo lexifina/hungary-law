@@ -8,7 +8,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. február 28.
 
-3. felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a HPC első szakasza során megvalósult fejlesztés fenntartásának, üzemeltetésének és a géptermi feltételek kialakításának finanszírozása céljából gondoskodjon a 2021. évben 344 320 000 forint, 2022. évtől évente 525 800 000 forint forrás biztosításáról a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 11. Kormányzati Informatikai Fejlesztési Ügynökség címen;
+3.[^1] felhívja a pénzügyminisztert, hogy – az innovációért és technológiáért felelős miniszter bevonásával – a HPC első szakasza során megvalósult fejlesztés fenntartásának, üzemeltetésének és a géptermi feltételek kialakításának finanszírozása céljából gondoskodjon a 2021. évben 344 320 000 forint, 2022–2024. évben évente 525 800 000 forint forrás biztosításáról a központi költségvetés XVII. Innovációs és Technológiai Minisztérium fejezet, 11. Kormányzati Informatikai Fejlesztési Ügynökség címen;
 
 Felelős: pénzügyminiszter
 
@@ -16,7 +16,7 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: a 2021. évi forrás tekintetében 2021. február 15.
 
-a 2022. évtől felmerülő forrás tekintetében a 2022. évi központi költségvetés tervezése során, beépülő jelleggel
+a 2022–2024. évben felmerülő forrás tekintetében a 2022. évi központi költségvetés tervezése során, beépülő jelleggel
 
 4. felhívja az innovációért és technológiáért felelős minisztert, hogy Magyarországnak az EuroHPC Közös Vállalkozási tagságából származó feladatai végrehajtása érdekében a Kormányzati Informatikai Fejlesztési Ügynökség szervezetében hozza létre a magyar HPC Kompetencia Központot;
 
@@ -30,7 +30,7 @@ a) a 2021. évre 170 000 000 forint forrás biztosításáról a központi költ
 
 b) a 2022. évre 255 000 000 forint forrás biztosításáról a központi költségvetés Innovációs és Technológiai Minisztérium fejezet, Kormányzati Informatikai Fejlesztési Ügynökség címen,
 
-c) a 2023. évtől évente 340 000 000 forint forrás beépülő jelleggel történő biztosításáról a központi költségvetés Innovációs és Technológiai Minisztérium fejezet, Kormányzati Informatikai Fejlesztési Ügynökség címen;
+c)[^2] a 2023. és 2024. évben évente 340 000 000 forint forrás beépülő jelleggel történő biztosításáról a központi költségvetés Innovációs és Technológiai Minisztérium fejezet, Kormányzati Informatikai Fejlesztési Ügynökség címen;
 
 Felelős: innovációért és technológiáért felelős miniszter
 
@@ -57,3 +57,23 @@ Határidő: 2020. december 31.
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2021. január 1.
+
+8.[^3] egyetért azzal, hogy a HPC-vel kapcsolatos feladatokat, az EuroHPC Közös Vállalkozási tagságából származó feladatokat és a magyar HPC Kompetencia Központtal összefüggő feladatokat 2025. január 1-jétől a Digitális Kormányzati Fejlesztés és Projektmenedzsment Korlátolt Felelősségű Társaság lássa el;
+
+9.[^4] felhívja a pénzügyminisztert, hogy – a Miniszterelnöki Kabinetirodát vezető miniszter bevonásával – a 8. pont szerinti feladatok finanszírozása céljából gondoskodjon a 2025. évtől beépülő jelleggel 865 800 000 forint forrás biztosításáról a központi költségvetés XXI. Miniszterelnöki Kabinetiroda fejezetében;
+
+| Felelős: | pénzügyminiszter Miniszterelnöki Kabinetirodát vezető miniszter |
+
+| Határidő: | a 2025. évtől az adott év központi költségvetés tervezése során |
+
+10.[^5] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy a Digitális Magyarország Ügynökség Zártkörűen Működő Részvénytársaság útján, a 9. pont szerinti forrás terhére, külön pályázat és kérelem benyújtása nélkül, a támogatás felhasználásának és elszámolásának részletes feltételeit meghatározó támogatói okirat kiadása útján vissza nem térítendő egyedi támogatást nyújtson a 8. pont szerinti feladat ellátása érdekében.
+
+| Felelős: | Miniszterelnöki Kabinetirodát vezető miniszter |
+
+| Határidő: | a 9. pont szerinti forrás rendelkezésre állását követően azonnal |
+
+[^1]: A 3. pont az 1239/2024. (VIII. 8.) Korm. határozat 9. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont c) alpontja az 1239/2024. (VIII. 8.) Korm. határozat 9. pont b) alpontja szerint módosított szöveg.
+[^3]: A 8. pontot az 1239/2024. (VIII. 8.) Korm. határozat 4. pontja iktatta be.
+[^4]: A 9. pontot az 1239/2024. (VIII. 8.) Korm. határozat 4. pontja iktatta be.
+[^5]: A 10. pontot az 1239/2024. (VIII. 8.) Korm. határozat 4. pontja iktatta be.
