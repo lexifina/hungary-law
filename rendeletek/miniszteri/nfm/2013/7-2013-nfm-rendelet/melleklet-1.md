@@ -122,7 +122,7 @@
 
 1.45.[^55] az e-közigazgatásért felelős miniszterrel kötött közszolgáltatási szerződés alapján a természetes személyek adósságrendezéséről szóló törvény hatálya alá tartozó természetes személyek adósságrendezési nyilvántartásához (a továbbiakban: ARE nyilvántartás) kapcsolódóan informatikai előszűrő alkalmazás fejlesztéséhez, űrlapsablon szerkesztéséhez és űrlapkitöltő informatikai rendszer kialakításához szükséges infrastruktúra biztosítása és ezen alkalmazások üzemeltetése, valamint az ARE nyilvántartás infrastruktúrájának biztosítása és üzemeltetése;
 
-1.46.[^56] az Elektronikus Útdíjszedési Rendszer infrastruktúrájára épülő, külön jogszabályban meghatározott Elektronikus Közúti Áruforgalom Ellenőrző Rendszer infrastruktúrájának (központi informatikai rendszer és hálózat) üzemeltetése.
+1.46.[^56]
 
 1.47.[^57]
 
@@ -606,7 +606,7 @@ virtualizációs környezetének biztosítása és géptermi üzemeltetése;
 [^53]: Az 1. melléklet 1. pont 1.43. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (1) bekezdése iktatta be, szövege a 16/2017. (VI. 27.) BM rendelet 2. §-ával megállapított szöveg.
 [^54]: Az 1. melléklet 1. pont 1.44. alpontját a 46/2015. (VII. 28.) BM rendelet 3. § (2) bekezdése iktatta be, szövege a 12/2021. (V. 10.) BM rendelet 3. §-a szerint módosított szöveg.
 [^55]: Az 1. melléklet 1. pont 1.45. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be.
-[^56]: Az 1. melléklet 1. pont 1.46. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be.
+[^56]: Az 1. melléklet 1. pont 1.46. alpontját az 59/2015. (XI. 10.) BM rendelet 2. §-a iktatta be, a 9/2024. (VIII. 8.) MK rendelet 1. § b) pontja hatályon kívül helyezte.
 [^57]: Az 1. melléklet 1. pont 1.47. alpontját a 10/2016. (III. 22.) BM rendelet 1. §-a iktatta be, a 31/2023. (XII. 29.) MK rendelet 3. § a) pontja hatályon kívül helyezte.
 [^58]: Az 1. melléklet 1. pont 1.48. alpontját a 10/2016. (III. 22.) BM rendelet 1. §-a iktatta be.
 [^59]: Az 1. melléklet 1. pont 1.49. alpontját a 10/2016. (III. 22.) BM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 33/2021. (X. 1.) BM rendelet 1. § d) pontja.

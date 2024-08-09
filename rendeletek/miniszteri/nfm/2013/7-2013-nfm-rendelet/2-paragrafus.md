@@ -28,7 +28,7 @@ m)[^13] Nemzeti Fejlesztési Programiroda Nonprofit Kft;
 
 n)[^14] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal;
 
-o)[^15] Nemzeti Földügyi Központ,
+o)[^15]
 
 p)[^16] Nemzeti Kommunikációs Hivatal;
 
@@ -51,7 +51,7 @@ s)[^20] a Miniszterelnökség, a Magyar Kormánytisztviselői Kar Országos Irod
 [^12]: A 2. § l) pontját az 59/2013. (X. 9.) NFM rendelet 2. §-a iktatta be.
 [^13]: A 2. § m) pontját az 59/2013. (X. 9.) NFM rendelet 3. §-a iktatta be.
 [^14]: A 2. § n) pontját újonnan a 3/2015. (II. 11.) BM rendelet 1. §-a iktatta be.
-[^15]: A 2. § o) pontját a 46/2015. (VII. 28.) BM rendelet 1. § (1) bekezdése iktatta be, szövege a 4/2020. (III. 3.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^15]: A 2. § o) pontját a 46/2015. (VII. 28.) BM rendelet 1. § (1) bekezdése iktatta be, a 9/2024. (VIII. 8.) MK rendelet 1. § a) pontja hatályon kívül helyezte.
 [^16]: A 2. § p) pontját a 46/2015. (VII. 28.) BM rendelet 1. § (2) bekezdése iktatta be.
 [^17]: A 2. § q) pontját a 37/2017. (XII. 27.) BM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 33/2021. (X. 1.) BM rendelet 1. § b) pontja.
 [^18]: A 2. § r) pontját a 45/2019. (XII. 17.) BM rendelet 1. §-a iktatta be.
