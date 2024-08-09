@@ -26,7 +26,7 @@ ca) 2017. évben a Magyarország 2017. évi központi költségvetéséről szó
 
 cb) 2018. évben a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 11. Kormányzati Informatikai Fejlesztési Ügynökség cím javára 3 033 000 000 forint forrás rendelkezésre álljon,
 
-cc) 2019. évtől beépülő jelleggel 4 044 000 000 forint forrás rendelkezésre álljon a 2019. évi központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezetében;
+cc)[^1] 2019. évtől 2024. évig évente 4 044 000 000 forint forrás rendelkezésre álljon a 2019. évi központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezetében;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -42,7 +42,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2018. december 31.
 
-e) egyetért a Digitális Oktatási Stratégiában célkitűzésként megfogalmazott, a köznevelés és a szakképzés valamennyi feladatellátási helye számára – beleértve a Nemzetgazdasági Minisztérium fenntartásában lévő 44 szakképzési centrum 380 tagintézményét és a Földművelésügyi Minisztérium fenntartásában lévő 47 agrárszakképző intézményt és 63 feladatellátási helyet is – épületen belüli WiFi-hálózat biztosításához szükséges WiFi-hálózatfejlesztésekkel, így ennek érdekében felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon a fejlesztések eredményeként létrejövő WiFi-hálózat – KIFÜ által történő – folyamatos működtetésének, fenntartásának, menedzselésének finanszírozása céljából a 2018. évtől beépülő jelleggel 5 182 000 000 forint forrás biztosításáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 11. Kormányzati Informatikai Fejlesztési Ügynökség cím javára,
+e)[^2] egyetért a Digitális Oktatási Stratégiában célkitűzésként megfogalmazott, a köznevelés és a szakképzés valamennyi feladatellátási helye számára – beleértve a Nemzetgazdasági Minisztérium fenntartásában lévő 44 szakképzési centrum 380 tagintézményét és a Földművelésügyi Minisztérium fenntartásában lévő 47 agrárszakképző intézményt és 63 feladatellátási helyet is – épületen belüli WiFi-hálózat biztosításához szükséges WiFi-hálózatfejlesztésekkel, így ennek érdekében felhívja a nemzetgazdasági minisztert, hogy a nemzeti fejlesztési miniszter közreműködésével gondoskodjon a fejlesztések eredményeként létrejövő WiFi-hálózat – KIFÜ által történő – folyamatos működtetésének, fenntartásának, menedzselésének finanszírozása céljából a 2018. évtől 2024. évig évente 5 182 000 000 forint forrás biztosításáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 11. Kormányzati Informatikai Fejlesztési Ügynökség cím javára,
 
 Felelős: nemzetgazdasági miniszter
 
@@ -74,6 +74,8 @@ Határidő: 2017. december 31.
 
 i) egyetért azzal, hogy a b) alpont alapján biztosított forrás felhasználása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
 
-2.[^1]
+2.[^3]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont c) alpont cc) pontja az 1239/2024. (VIII. 8.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^2]: Az 1. pont e) alpontja az 1239/2024. (VIII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
