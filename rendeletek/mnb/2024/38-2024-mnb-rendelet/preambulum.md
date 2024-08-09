@@ -1,0 +1,5 @@
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (6) bekezdésében és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (6) bekezdésében,
+
+a 2. § tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (7) bekezdésében és a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (7) bekezdésében kapott felhatalmazás alapján,
+
+a Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény 4. § (9) bekezdésében meghatározott feladatkörömben eljárva a következőket rendelem el:
