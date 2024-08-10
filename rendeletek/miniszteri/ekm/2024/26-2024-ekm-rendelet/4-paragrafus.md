@@ -1,3 +1,3 @@
-4. § Az R. 9. § (6) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(6) A díjhoz bruttó 15 000 000 forint összegű pénzjutalom jár.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-7. § Az R. 12. § (6) bekezdése helyébe a következő rendelkezés lép:
+7. §[^8]
 
-„(6) A díjhoz bruttó 7 500 000 forint összegű pénzjutalom jár.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

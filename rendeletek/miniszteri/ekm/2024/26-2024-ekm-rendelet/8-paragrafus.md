@@ -1,3 +1,3 @@
-8. § Az R. 14. § (6) bekezdése helyébe a következő rendelkezés lép:
+8. §[^9]
 
-„(6) A díjhoz bruttó 15 000 000 forint összegű pénzjutalom jár.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

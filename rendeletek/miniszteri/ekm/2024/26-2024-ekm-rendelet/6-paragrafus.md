@@ -1,3 +1,3 @@
-6. § Az R. 11. § (6) bekezdése helyébe a következő rendelkezés lép:
+6. §[^7]
 
-„(6) A díjhoz bruttó 10 000 000 forint összegű pénzjutalom jár.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

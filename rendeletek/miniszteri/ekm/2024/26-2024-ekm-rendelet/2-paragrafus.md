@@ -1,3 +1,3 @@
-2. § Az R. 7. § (6) bekezdése helyébe a következő rendelkezés lép:
+2. §[^3]
 
-„(6) A díjhoz a Kossuth-díjról és a Széchenyi-díjról szóló 1990. évi XII. törvény 3. § (3) bekezdése szerinti Kossuth-díjjal járó jutalommal megegyező, bruttó összegű pénzjutalom jár.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

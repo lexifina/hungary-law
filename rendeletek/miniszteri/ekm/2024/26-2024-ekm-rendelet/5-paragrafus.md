@@ -1,3 +1,3 @@
-5. § Az R. 10. § (6) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(6) A díjhoz bruttó 10 000 000 forint összegű pénzjutalom jár.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
