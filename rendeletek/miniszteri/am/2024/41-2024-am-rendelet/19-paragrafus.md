@@ -1,3 +1,3 @@
-19. §[^16]
+19. §[^18]
 
-[^16]: A 19. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+[^18]: A 19. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
