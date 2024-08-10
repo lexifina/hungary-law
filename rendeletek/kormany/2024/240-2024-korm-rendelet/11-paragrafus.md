@@ -1,1 +1,3 @@
-11. § Hatályát veszti a Korm. rendelet 19. § f) pontjában az „(EU) 2022/1269 tanácsi rendelettel módosított, az” szövegrész.
+11. §[^12]
+
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

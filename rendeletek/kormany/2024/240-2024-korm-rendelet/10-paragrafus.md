@@ -1,7 +1,3 @@
-10. § A Korm. rendelet
+10. §[^11]
 
-a) 7/A. §-ában a „25” szövegrész helyébe a „60” szöveg,
-
-b) 13/E. § (7) bekezdésében az „5d. cikk (2) bekezdése vagy” szövegrész helyébe az „5d. cikk (2) bekezdése és a 6a. cikk (1) bekezdése vagy” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

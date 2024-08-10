@@ -1,3 +1,3 @@
-8. § A Korm. rendelet 13/K. §-a a következő (6) bekezdéssel egészül ki:
+8. §[^9]
 
-„(6) A kormányhivatal egyidejűleg tájékoztatja a Magyar Nemzeti Bankot az e § alapján kiadott engedélyről, illetve az elutasított engedélykérelemről.”
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
