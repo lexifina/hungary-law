@@ -1,5 +1,3 @@
-1. § Hatályát veszti a központosított informatikai és elektronikus hírközlési szolgáltatásokat egyedi szolgáltatási megállapodás útján igénybe vevő szervezetekről, valamint a központi szolgáltató által üzemeltetett vagy fejlesztett informatikai rendszerekről szóló 7/2013. (II. 26.) NFM rendelet
+1. §[^2]
 
-a) 2. § o) pontja és
-
-b) 1. melléklet 1.46. pontja.
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
