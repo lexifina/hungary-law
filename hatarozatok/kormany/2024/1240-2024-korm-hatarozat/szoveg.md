@@ -20,16 +20,9 @@ i) hozzájárul ahhoz, hogy a Magyar Honvédség különböző NATO-parancsnoks�
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. A kormányügyeleti rendszer létrehozásáról szóló 1324/2011. (IX. 22.) Korm. határozat
+3.[^1]
 
-a) 5. és 6. pontjában, 1. melléklet 9. pontjában, 1. melléklet 12. pontjában, 1. melléklet 16. pont b) alpontjában a „Miniszterelnöki Kormányiroda közigazgatási államtitkára” szövegrész helyébe a „miniszterelnök nemzetbiztonsági főtanácsadója” szöveg,
+4.[^2]
 
-b) 5a. pontjában, 1. melléklet 3. pontjában, 1. melléklet 13. pontjában a „Miniszterelnöki Kormányiroda közigazgatási államtitkárát” szövegrész helyébe a „miniszterelnök nemzetbiztonsági főtanácsadóját” szöveg,
-
-c) 1. melléklet 4. pontjában a „Miniszterelnöki Kormányiroda közigazgatási államtitkára” szövegrészek helyébe a „miniszterelnök nemzetbiztonsági főtanácsadója” szöveg,
-
-d) 1. melléklet 13a. pont e) alpontjában a „Miniszterelnöki Kabinetiroda nemzeti információs államtitkára” szövegrész helyébe a „miniszterelnök nemzetbiztonsági főtanácsadója” szöveg
-
-lép.
-
-4. A Kormány visszavonja a Magyar Honvédség kijelölt állományának a NATO Reagáló Erőben történő részvételéről szóló 1463/2017. (VII. 25.) Korm. határozatot.
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
