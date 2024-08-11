@@ -19,3 +19,7 @@ a) A nagymértékben veszélyeztetett kategóriába nem sorolt egyéb fenyves fi
 b) Tölgy, cser állományok, karsztbokorerdők 5 méteres magasság felett
 
 c) A 2 évnél régebbi felújítandó üres vágásterületek
+
+3.[^34] Kismértékben veszélyeztetett kategóriába tartozó erdők: az 1. és a 2. pont alá nem tartozó egyéb erdők.
+
+[^34]: Az 1. melléklet 3. pontját a 28/2024. (VII. 12.) BM rendelet 2. §-a iktatta be.

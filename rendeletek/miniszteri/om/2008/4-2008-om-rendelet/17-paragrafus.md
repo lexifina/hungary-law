@@ -1,6 +1,6 @@
 17. § (1) Az országos erdőtűz adattár tartalmazza:
 
-a)[^22] az első riasztás dátumát és időpontját (év, hónap, nap, óra, perc), amikor a katasztrófavédelmi igazgatóságot tájékoztatták a tűz észleléséről,
+a)[^27] az első riasztás dátumát és időpontját (év, hónap, nap, óra, perc), amikor a katasztrófavédelmi igazgatóságot tájékoztatták a tűz észleléséről,
 
 b) az első beavatkozás dátumát és időpontját (év, hónap, nap, óra, perc), amikor az első tűzoltóegységek megérkeztek az erdőtűz helyszínére,
 
@@ -34,8 +34,10 @@ p) a tűzesettel kapcsolatos erdőfelügyeleti intézkedések rövid leírását
 
 q) az 50 hektár feletti erdőtüzek esetén a leégett terület határát ábrázoló térképet.
 
-(2) Az (1) bekezdésben meghatározott adatok közül az a)–i) pontban meghatározottakat az OKF szolgáltatja a tűz keletkezése után 72 órán belül.
+(2)[^28] Az (1) bekezdésben meghatározott adatok közül az a)–i) pontban meghatározottakat a BM OKF szolgáltatja a tűz keletkezése után 72 órán belül.
 
-(3) Ha a tűzoltóság a tűzoltásban nem vett részt, a NÉBIH az erdőtüzet utólag jelzi az OKF-nek, és gondoskodik arról, hogy a tűzeset bevezetésre kerüljön az erdőtűz adattárba.
+(3)[^29] Ha a tűzoltóság a tűzoltásban nem vett részt, a NÉBIH az erdőtüzet utólag jelzi a BM OKF-nek, és gondoskodik arról, hogy a tűzeset bevezetésre kerüljön az erdőtűz adattárba.
 
-[^22]: A 17. § (1) bekezdés a) pontja az 53/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^27]: A 17. § (1) bekezdés a) pontja az 53/2022. (XII. 27.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^28]: A 17. § (2) bekezdése a 28/2024. (VII. 12.) BM rendelet 3. § d) pontja szerint módosított szöveg.
+[^29]: A 17. § (3) bekezdése a 28/2024. (VII. 12.) BM rendelet 3. § e) pontja szerint módosított szöveg.
