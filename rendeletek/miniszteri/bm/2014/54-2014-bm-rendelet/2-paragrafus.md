@@ -20,7 +20,7 @@ ce) a mezőbeli kőolaj- és földgázvezetékekre és tartozékaira, így a hoz
 
 cf) a széntelepek föld alatti elgázosításához szükséges termelő- és besajtoló kútrendszerre és a kutak kútfejszerelvényeire
 
-## csak akkor kell alkalmazni, ha az a)–c) pontban meghatározottak tekintetében jogszabály eltérő szabályokat nem állapít meg.
+csak akkor kell alkalmazni, ha az a)–c) pontban meghatározottak tekintetében jogszabály eltérő szabályokat nem állapít meg.
 
 (3) E rendelet előírásait az atomenergia alkalmazására szolgáló sajátos építmények esetében akkor kell alkalmazni, ha azok tekintetében az atomenergia alkalmazásával kapcsolatos jogszabály eltérő követelményeket nem állapít meg.
 

@@ -8,7 +8,7 @@ b) a C-s2, d0 követelményt teljesítő ponyvahéjazat esetén 2 perc,
 
 c) egyéb ponyvahéjazat esetén 1 perc
 
-## alatt kiüríthető legyen.
+alatt kiüríthető legyen.
 
 (3) Kiürítésre figyelembe vehető a menekülés irányába nyíló ajtó, valamint az üzemelés alatt állandóan biztosított nyílásfelület.
 

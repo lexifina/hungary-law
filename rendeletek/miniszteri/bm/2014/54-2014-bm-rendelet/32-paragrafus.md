@@ -10,7 +10,7 @@ a) NAK és AK osztályú, tárolási, ipari, mezőgazdasági alaprendeltetésű 
 
 b) egyéb esetben legalább D-s3, d0
 
-## legyen.
+legyen.
 
 (5)[^85] A lapostetőn szabad nyílás, szellőző, felülvilágító, hő- és füstelvezető szerkezet és egyéb, a tető alatti tűz tetőn kívülre terjedését elősegítő szerkezet olyan módon helyezhető el, amivel a tűz átterjedése a tűzszakaszhatáron és a tűzfalon meggátolható.
 

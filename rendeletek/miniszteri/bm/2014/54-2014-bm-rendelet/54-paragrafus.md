@@ -10,7 +10,7 @@ ba) átmeneti védett térbe jutást vagy
 
 bb) a menekülésben korlátozott személyek tartózkodására szolgáló helyiségekből a lépcsőn menekülni képes személyek számára többirányú kiürítést
 
-## kell biztosítani.
+kell biztosítani.
 
 (2)[^155] Az (1) bekezdéstől eltérő rendeltetés akadálymentesítése esetén a tűzvédelmi hatóság előírhatja
 

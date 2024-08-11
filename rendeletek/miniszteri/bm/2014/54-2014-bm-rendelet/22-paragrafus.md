@@ -1,5 +1,3 @@
-## megengedett legnagyobb tűzszakasz-alapterület képezi.
-
 ## 8. [^48] Egy épületen belüli tűzszakaszok, valamint azonos telken lévő, külön tűzszakaszt képező épületek csatlakozása az épület külső szerkezetein, valamint fedett átriumban
 
 22. § (1) A tűzszakaszhatár vonalában tűzterjedés elleni gátat vagy azt helyettesítő beépített tűzterjedésgátló berendezést kell létesíteni

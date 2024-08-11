@@ -20,7 +20,7 @@ d) teherszállításra is használt vasúti alagutak a RABT ZTV vasúti tűzgör
 
 e) az alagutak menekülésre tervezett útvonalain és a védett térben az MSZ EN 1363-2 szabvány szerinti szénhidrogén tűzgörbe vagy a RABT ZTV vasúti tűzgörbe szerint legalább REI 90
 
-## tűzállósági teljesítményű legyen.
+tűzállósági teljesítményű legyen.
 
 (4)[^319] Az alagútban lévő vészkijárati ajtók az MSZ EN 1363-1 szabvány tűzgörbéje és az MSZ EN 1634-1 vizsgálat szerint legalább EI1 90-C tűzállósági teljesítményű legyen.
 

@@ -14,7 +14,7 @@ c) 300 fő felett, de legfeljebb 500 fő tartózkodásra szolgáló építmény 
 
 d) 500 fő feletti tartózkodásra szolgáló építmény esetén legalább A2
 
-## tűzvédelmi osztályú.
+tűzvédelmi osztályú.
 
 (4)[^324] Az ipari rendeltetésű építménynél a függőleges, vízszintes és lépcső tartószerkezet A1 vagy A2 tűzvédelmi osztályú. A tűzállósági teljesítmény meghatározásánál figyelembe kell venni a fokozottan tűz- vagy robbanásveszélyes vagy mérsékelten tűzveszélyes osztályba tartozó anyagok jelenlétét, amelyek tűz esetén a tartószerkezet állékonyságát veszélyeztetik.
 
@@ -27,6 +27,8 @@ a) a D tűzvédelmi osztályú tartószerkezettel rendelkező építmény 1 perc
 b) a C tűzvédelmi osztályú tartószerkezettel rendelkező építmény 2 perc,
 
 c) az A1 vagy A2 tűzvédelmi osztályú tartószerkezettel rendelkező építmény 6 perc
+
+alatt kiüríthető legyen.
 
 [^324]: A 129. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 75. § 33. pontja szerint módosított szöveg.
 [^325]: A 129. § (6) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.

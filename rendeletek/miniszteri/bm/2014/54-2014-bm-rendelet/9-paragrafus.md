@@ -36,7 +36,7 @@ bb) a legalább 21 °C zárttéri és legfeljebb 55 °C nyílttéri lobbanáspon
 
 bc) az a folyadék, amelynek üzemi hőmérséklete meghaladja a 35 °C-ot, és nagyobb, mint a nyílttéri lobbanáspont 20 °C-kal csökkentett értéke,
 
-## a legalább 50 °C nyílttéri lobbanásponttal rendelkező gázolaj, tüzelőolaj és világításra használt petróleum kivételével,
+a legalább 50 °C nyílttéri lobbanásponttal rendelkező gázolaj, tüzelőolaj és világításra használt petróleum kivételével,
 
 c) az a) és b) pontba, valamint a (2) bekezdés a) és b) pontjába nem tartozó anyagok és keverékek közül
 

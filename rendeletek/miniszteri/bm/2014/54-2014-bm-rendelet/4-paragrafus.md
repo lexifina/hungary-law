@@ -1,5 +1,3 @@
-## 3. §[^3]
-
 ## II. Fejezet
 
 ## ÉRTELMEZŐ RENDELKEZÉSEK
@@ -414,5 +412,4 @@ c) magas elhelyezési magasság: a jelek, elemek alsó éle a padló felett lega
 
 190. zárt közlekedő helyiség: minden oldalról elsődleges építményszerkezettel határolt közlekedő helyiség.
 
-[^3]: A 3. §-t a 44/2017. (XII. 29.) BM rendelet 102. § a) pontja hatályon kívül helyezte.
 [^4]: A 4. § (2) bekezdése a 8/2022. (IV. 14.) BM rendelet 2. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ a) falburkolata, mennyezetburkolata és belső oldali hő- és hangszigetelése 
 
 b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
-## legyen.
+legyen.
 
 (3)[^124] A fokozottan tűz- vagy robbanásveszélyes anyagok, termékek passzív tárolására, forgalmazására szolgáló helyiséget a tárolni kívánt anyag mennyisége alapján, a 17. mellékletben foglaltak figyelembevételével kell kialakítani.
 

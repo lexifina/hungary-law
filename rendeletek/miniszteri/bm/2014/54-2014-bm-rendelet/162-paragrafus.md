@@ -14,7 +14,7 @@ f) a tűzjelző központ és a tűz- és hibaátjelző berendezés között,
 
 g) azokon a kábelszakaszokon, ahol a visszatérő hurok mindkét iránya egyetlen véletlen esemény – különösen tűz – hatására károsodhat,
 
-## legalább 30 percig ellen kell állniuk a tűznek, vagy ilyen időtartamú védettséget kell számukra biztosítani.
+legalább 30 percig ellen kell állniuk a tűznek, vagy ilyen időtartamú védettséget kell számukra biztosítani.
 
 (2) A vezérlések vezetékei – a hangjelző és a tűz- és hibaátjelző berendezés vezérlésének kivételével – készülhetnek a tűznek nem ellenálló vagy védelem nélküli kábelekből, ha
 

@@ -4,7 +4,7 @@ a) geometriai módszerrel, a (2) bekezdés és a 7. mellékletben foglalt 1. tá
 
 b) számítással
 
-## kell megtervezni.
+kell megtervezni.
 
 (2)[^149] A kiürítés geometriai módszerrel való tervezése, ellenőrzése során a menekülési útvonal, a biztonságos tér és az átmeneti védett tér elérési távolságának és a menekülési útvonalnak megengedett legnagyobb hosszúságát, továbbá a kiürítésre szolgáló útvonal megengedett legkisebb szabad szélességét, a kiürítésre szolgáló útvonalon beépített nyílászárók, valamint szűkületek megengedett legkisebb szabad belméretét kell ellenőrizni.
 

@@ -1,5 +1,3 @@
-## a 72. § (3) bekezdésében foglaltak szerint biztosítják.
-
 ## 14. [^100] Szállásjellegű rendeltetés
 
 37. § (1)[^101] Szállásjellegű rendeltetés esetén a szobaegység és a szomszédos helyiségek közötti elválasztó fal legalább EI 30 tűzállósági teljesítményű legyen.
@@ -14,7 +12,7 @@ a) falburkolata, mennyezetburkolata és belső oldali hő- és hangszigetelése 
 
 b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
-## legyen.
+legyen.
 
 (5)[^105] Elegendő a lakó rendeltetésre vonatkozó követelmények betartása a szociális vagy gyermekvédelmi ellátás keretében működő szállás vagy saját otthont pótló, helyettesítő intézmény esetén akkor, ha
 

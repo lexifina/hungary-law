@@ -18,7 +18,7 @@ f) a szabadtéri rendezvények tartása, valamint
 
 g) egyéb, tűzvédelmet érintő használat, tevékenység
 
-## során.
+során.
 
 (2) Ha e rendelet nem tartalmaz az (1) bekezdés szerinti esetekre előírást, akkor a vonatkozó műszaki követelmények tűzvédelmi rendelkezései, vagy azzal egyenértékű megoldások, kialakítások alkalmazása megfelel az e rendeletben meghatározott biztonsági szintnek.
 

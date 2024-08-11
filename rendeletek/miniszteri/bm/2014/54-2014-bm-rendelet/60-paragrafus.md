@@ -10,7 +10,7 @@ c) legfeljebb 3 szint áthidalására szolgáló, menekülési útvonalat képez
 
 d) menekülési útvonalnak minősülő fedett átriumban elhelyezett és legfeljebb 14 m szintkülönbséget áthidaló menekülési útvonalat képező lépcsőn
 
-## kell vezetni.
+kell vezetni.
 
 (2) A menekülési útvonalat képező lépcsőházat
 
@@ -20,7 +20,7 @@ b)[^190] az a) ponttól eltérő, 14 métert meghaladó szintkülönbség eseté
 
 c) speciális építményben a XII. Fejezet szerint
 
-## kell kialakítani.
+kell kialakítani.
 
 (3) Meglévő épület legfeljebb 30 métert meg nem haladó legfelső építményszintű emeletráépítése, tetőtér-beépítése esetén a (2) bekezdés b) pontjában foglaltak helyett az új szintek kiürítésére alkalmazható két, egymástól független, legalább hő- és füstelvezetéssel rendelkező lépcsőház kialakítása.
 
@@ -41,6 +41,8 @@ a) közvetlenül,
 b) tűzgátló építményszerkezetekkel határolt közlekedőn keresztül vagy
 
 c)[^191] két eltérő tűzszakaszon keresztül
+
+biztonságos térbe lehessen jutni.
 
 [^186]: A 33. alcím címe a 30/2019. (VII. 26.) BM rendelet 43. §-ával megállapított szöveg.
 [^187]: A 60. § a 30/2019. (VII. 26.) BM rendelet 44. §-ával megállapított szöveg.

@@ -32,7 +32,7 @@ a) ha az épület, önálló épületrész mértékadó kockázati osztálya KK,
 
 b) ha az épület, önálló épületrész mértékadó kockázati osztálya MK, önálló, csak gépészeti vagy csak villamos vezetékrendszert tartalmazó villamos és gépészeti aknában
 
-## kell vezetni.
+kell vezetni.
 
 (5)[^71] A villamos és gépészeti aknák vezetékrendszerek rögzítésére szolgáló falát a vezetékrendszer rögzítésére megfelelő szerkezetből kell kialakítani.
 

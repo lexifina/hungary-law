@@ -14,7 +14,7 @@ c) 300 fő feletti, de legfeljebb 2000 fő tartózkodására szolgáló építm�
 
 d) 2000 fő feletti tartózkodásra szolgáló építmény esetén legalább A2
 
-## tűzvédelmi osztályú.
+tűzvédelmi osztályú.
 
 (4) A szín tető- és egyéb térelhatároló szerkezete
 
@@ -22,7 +22,7 @@ a) 300 fő feletti, de legfeljebb 2000 fő tartózkodására szolgáló építm�
 
 b) 2000 fő feletti tartózkodásra szolgáló építmény esetén legalább A2
 
-## tűzvédelmi osztályú.
+tűzvédelmi osztályú.
 
 (5) Az ipari rendeltetésű szín tartószerkezete, valamint tető- és egyéb térelhatároló szerkezete legalább A2 tűzvédelmi osztályú.
 
@@ -36,7 +36,7 @@ c) a B tűzvédelmi osztályú tartó-, valamint tető- és egyéb térelhatáro
 
 d) az A1 vagy A2 tűzvédelmi osztályú tartó-, valamint tető- és egyéb térelhatároló szerkezettel rendelkező építmény 4 perc
 
-## alatt kiüríthető legyen.
+alatt kiüríthető legyen.
 
 (7) Ha a tartószerkezetnél alacsonyabb tűzvédelmi osztályba tartozó térelhatároló szerkezetet alkalmaznak, akkor a térelhatároló szerkezet tűzvédelmi osztályát kell figyelembe venni a kiürítési idő meghatározásánál.
 

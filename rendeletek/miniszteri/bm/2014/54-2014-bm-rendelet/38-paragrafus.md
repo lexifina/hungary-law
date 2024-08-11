@@ -14,7 +14,7 @@ c) padlóburkolata KK és MK kockázati osztályú kockázati egység esetén le
 
 d) belső oldali hő- és hangszigetelése A1 vagy A2 tűzvédelmi osztályú
 
-## legyen.
+legyen.
 
 (4) Ha a rendeltetési egység teljes területét beépített automatikus tűzjelző és oltóberendezés védi, akkor az MK osztályba tartozó rendeltetés esetén A2 tűzvédelmi osztály helyett megengedett a B tűzvédelmi osztályú anyagok használata.
 
@@ -24,7 +24,7 @@ a) a gyermekek ellátására szolgáló helyiséget az alagsorban, földszinten,
 
 b) a gyermekek ellátására szolgáló helyiséget az alagsor, földszint, kijárati szint feletti következő, az annál legfeljebb 7,0 méterrel magasabban elhelyezkedő szinten helyezik el, a gyermekek felügyeletét, szükség szerinti mentését ellátó személyek száma legalább 2 fő, a gyermekek száma legfeljebb 5 fő,
 
-## és a felügyeletet, mentést ellátó személyek folyamatosan a gyermekekkel vannak.
+és a felügyeletet, mentést ellátó személyek folyamatosan a gyermekekkel vannak.
 
 (6) Az (5) bekezdés szerinti rendeltetés a lakó vagy közösségi alaprendeltetésű kockázati egység részét képezheti abban az esetben is, ha az 1. mellékletben foglalt 4. táblázat szerinti létszám- és alapterületi értékektől eltérnek.
 

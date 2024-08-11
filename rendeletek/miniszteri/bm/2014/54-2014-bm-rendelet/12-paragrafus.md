@@ -8,7 +8,7 @@ c) az 1. mellékletben foglalt 3. táblázatban szereplő tárolási rendelteté
 
 d) egyéb esetben az 1. mellékletben foglalt 1. és 2. táblázat alapján
 
-## kell meghatározni.
+kell meghatározni.
 
 (2) Az (1) bekezdés b) pontja szerinti esetben a kockázati egység kockázati osztályát a tűzvédelmi dokumentáció készítéséért felelős személy a 10. § (3) bekezdésében felsorolt jellemzők és a tűzvédelmi helyzetet befolyásoló, az 50. § (3) bekezdésében felsorolt és az egyéb körülmények vizsgálatával, mérlegelésével határozza meg.
 
@@ -47,6 +47,8 @@ b) alacsony kockázati, AK osztályba,
 c) közepes kockázati, KK osztályba vagy
 
 d) magas kockázati, MK osztályba
+
+tartozik.
 
 [^12]: A 12. § a 30/2019. (VII. 26.) BM rendelet 7. §-ával megállapított szöveg.
 [^13]: A 12. § (4) bekezdése a 8/2022. (IV. 14.) BM rendelet 4. §-ával megállapított szöveg.

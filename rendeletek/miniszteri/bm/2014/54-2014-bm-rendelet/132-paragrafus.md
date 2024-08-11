@@ -10,7 +10,7 @@ c) legfeljebb 4000 m2, ha a szín tartószerkezete, valamint tető- és egyéb t
 
 d) legfeljebb 8000 m2, ha a szín tartószerkezete, valamint tető- és egyéb térelhatároló szerkezete legalább A2
 
-## tűzvédelmi osztályú.
+tűzvédelmi osztályú.
 
 (3) Ha a tartószerkezetnél alacsonyabb tűzvédelmi osztályba tartozó térelhatároló szerkezetet alkalmaznak, akkor a térelhatároló szerkezet tűzvédelmi osztályát kell figyelembe venni a megengedett alapterület meghatározásánál.
 

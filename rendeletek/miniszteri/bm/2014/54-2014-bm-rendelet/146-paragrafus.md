@@ -46,6 +46,8 @@ a) e rendelet vagy
 
 b) a tűzvédelmi hatóság a menekülés biztosítása, a füstfejlődés jellemzői alapján
 
+előírja.
+
 [^342]: A 146. § (1) bekezdés k) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 48. pontja szerint módosított szöveg.
 [^343]: [A 8/2022. (IV. 14.) BM rendelet 75. § 35. pontjával elrendelt módosítás, amely szerint az „osztályú” szövegrész helyébe a „mértékadó kockázati osztályú” szöveg lép, nem vezethető át.]
 [^344]: A 146. § (3) bekezdését a 30/2019. (VII. 26.) BM rendelet 106. § 38. pontja hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 49. §-a iktatta be.

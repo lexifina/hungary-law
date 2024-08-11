@@ -12,7 +12,7 @@ a) falburkolata, mennyezetburkolata és belső oldali hő- és hangszigetelése 
 
 b) padlóburkolata legalább Bfl-s1 tűzvédelmi osztályú
 
-## legyen.
+legyen.
 
 (5)[^116] Olyan kockázati egység esetén, amelyben egyidejűleg legfeljebb 5 fő előkészítéssel vagy anélkül sem menthető személy jelenlétével kell számolni, – a kiürítésre vonatkozó követelmények kivételével – elegendő a KK kockázati osztályhoz tartozó követelmények érvényesítése, ha az MK kockázati osztályt kizárólag a menekülési képesség figyelembevétele eredményezi. Ebben az esetben az épület mértékadó kockázati osztályának megállapításánál ez a kockázati egység KK kockázati osztályú kockázati egységként vehető figyelembe.
 

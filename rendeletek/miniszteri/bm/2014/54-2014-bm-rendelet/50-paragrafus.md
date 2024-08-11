@@ -8,7 +8,7 @@ a) fal- és mennyezetburkolata, valamint belső oldali hő- és hangszigetelése
 
 b) padlóburkolata legalább Cfl-s1 tűzvédelmi osztályú
 
-## legyen.
+legyen.
 
 (3)[^137] Ipari alaprendeltetésű kockázati egység esetén a tűzvédelmi dokumentáció készítéséért felelős személy figyelembe veszi
 

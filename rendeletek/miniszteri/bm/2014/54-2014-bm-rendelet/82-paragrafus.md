@@ -16,7 +16,7 @@ a) a hűtőtorony vízmedencéjének vagy az egyéb, technológiai víznek – a
 
 b) a település közüzemi vízműve víztárolójának tűzoltási célra biztosított
 
-## vízmennyisége is, ha azokon a tűzoltóság járműveinek csatlakozására megfelelő vízkivételi lehetőség van kiépítve.
+vízmennyisége is, ha azokon a tűzoltóság járműveinek csatlakozására megfelelő vízkivételi lehetőség van kiépítve.
 
 (5)[^233] A tűzoltási célra figyelembe vehető önálló víztárolót 100 m3-ig legalább egy, az ennél nagyobbakat pedig minden megkezdett 100 m3 térfogat után egy-egy szívócsővezetékkel kell ellátni.
 

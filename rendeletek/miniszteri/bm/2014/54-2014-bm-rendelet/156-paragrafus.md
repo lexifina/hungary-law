@@ -12,7 +12,7 @@ c) felszín alatti vasútvonal alagútja és állomása,
 
 d)[^357] menekülésben korlátozott személyek speciális intézménye
 
-## esetében.
+esetében.
 
 (2) Ha a beépített tűzjelző berendezés, beépített tűzoltó berendezés állandó felügyelete a tűzjelző vagy oltásvezérlő központ jelzéseinek automatikus átjelzésével a létesítményen kívül kialakított állandó felügyeleti helyre, távfelügyeletre történik, a távfelügyelet köteles a tűzátjelzést az első fokú tűzvédelmi hatóság által meghatározott, a katasztrófavédelmi szerv által felügyelt helyre elektronikus úton továbbítani.
 

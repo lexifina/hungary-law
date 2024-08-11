@@ -8,7 +8,7 @@ c) menekülési felvonó létesítése vagy
 
 d) védett tűzszakaszban lévő felvonó létesítése
 
-## esetén.
+esetén.
 
 (2) Vészlétrát, vészhágcsót menekülés céljára ipari, mezőgazdasági vagy tárolási rendeltetés esetén, valamint gépészeti helyiség, gépészeti tér esetén lehet használni.
 

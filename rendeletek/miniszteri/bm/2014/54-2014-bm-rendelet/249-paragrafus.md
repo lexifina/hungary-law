@@ -4,7 +4,7 @@ a) vizsgálja az időszakos felülvizsgálat és a karbantartás esedékességé
 
 b) szemrevételezéssel, és ha e rendelet előírja, gyakorlati próbával ellenőrzi az érintett műszaki megoldás működőképességét, ennek keretében ellenőrzi a (2) bekezdésben előírtakat,
 
-c)[^535] az ellenőrzés elvégzését, megállapításait az ellenőrzés elvégzésének határidejéig írásban dokumentálja és
+c)[^537] az ellenőrzés elvégzését, megállapításait az ellenőrzés elvégzésének határidejéig írásban dokumentálja és
 
 d) a működőképességet kedvezőtlenül befolyásoló körülményt és a működésképtelenség megállapítását az üzemeltetőnek az ellenőrzés befejezését követően azonnal írásban jelzi.
 
@@ -22,7 +22,7 @@ e) működőképessége szempontjából lényeges kijelzők, állapotjelzések a
 
 f) működőképességét, működését kedvezőtlenül befolyásoló szennyeződés vagy környezeti körülmények jelenlétéről
 
-## való szemrevételezéses meggyőződést.
+való szemrevételezéses meggyőződést.
 
 (3) Az üzemeltetői ellenőrzés kiváltható automatikus ellenőrzéssel, ha az automatikus ellenőrző rendszer
 
@@ -30,7 +30,7 @@ a) az üzemeltetői ellenőrzést végző személy feladatát az előírt gyakor
 
 b) az ellenőrzés elvégzését és eredményét hatósági ellenőrzés során bemutatható formában dokumentálja.
 
-(4)[^536] Az időszakos felülvizsgálat, továbbá az üzemeltetői ellenőrzési feladatokra is kiterjedő karbantartás elvégzésével teljesül az adott időintervallumra esedékes üzemeltetői ellenőrzés.
+(4)[^538] Az időszakos felülvizsgálat, továbbá az üzemeltetői ellenőrzési feladatokra is kiterjedő karbantartás elvégzésével teljesül az adott időintervallumra esedékes üzemeltetői ellenőrzés.
 
-[^535]: A 249. § (1) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 57. pontja szerint módosított szöveg.
-[^536]: A 249. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 68. §-a iktatta be.
+[^537]: A 249. § (1) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 57. pontja szerint módosított szöveg.
+[^538]: A 249. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 68. §-a iktatta be.

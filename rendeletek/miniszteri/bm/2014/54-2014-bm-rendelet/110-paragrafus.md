@@ -20,6 +20,6 @@ b) KK osztályú közúti alagutaknál az MSZ EN 1363-2 szabvány szerinti szén
 
 c) MK osztályú közúti alagutaknál a RABT ZTV közúti alagúttűz tűzgörbe szerinti vizsgálattal legalább REI 120
 
-## tűzállósági teljesítményű legyenek.
+tűzállósági teljesítményű legyenek.
 
 (7) A víz alatt vagy épületek alatt vezetett alagutak állékonyságvesztése tűz esetén vízbeáramlást vagy az épületek károsodását nem eredményezheti.

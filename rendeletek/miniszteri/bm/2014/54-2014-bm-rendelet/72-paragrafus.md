@@ -14,7 +14,7 @@ c) KK osztály esetén legalább másfél órán keresztül,
 
 d) MK osztály esetén legalább két órán keresztül
 
-## kell biztosítani.
+kell biztosítani.
 
 (4) Jogszabály eltérő rendelkezése hiányában, ha a mértékadó tűzszakaszt létesítményen belüli szabadtéri tárolóterület alkotja, az oltóvizet
 
@@ -28,7 +28,7 @@ ca) 10 000 l/kg-ot meg nem haladó mennyiség esetén legalább másfél órán 
 
 cb) 10 000 l/kg-ot meghaladó mennyiség esetén legalább két órán keresztül
 
-## kell biztosítani.
+kell biztosítani.
 
 (5) A 10 MVA-nál nagyobb beépített névleges összteljesítmény feletti transzformátorállomásokon – a legnagyobb transzformátor külső főméreteiből számított burkoló felületére az alapfelület nélkül számított – 16 liter/perc × m2 fajlagos térfogatáram mellett a 10 perc oltási időnek megfelelő oltóvízmennyiség háromszorosát kell biztosítani.
 

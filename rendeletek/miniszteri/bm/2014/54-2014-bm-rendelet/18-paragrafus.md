@@ -8,7 +8,7 @@ b) speciális építmény esetén a XII. Fejezet szerint vagy
 
 c) számítással
 
-## kell megállapítani.
+kell megállapítani.
 
 (1a)[^38] Abban az esetben, ha az épület mértékadó kockázati osztályát teljes egészében talajszint alatti elhelyezkedésű kockázati egység kockázati osztálya határozza meg, a tűztávolság meghatározásánál elegendő a mértékadó kockázati osztály helyett a csak talajszinti, valamint talajszint feletti elhelyezkedésű kockázati egységek kockázati osztályai közül a legszigorúbb kockázati osztályt figyelembe venni.
 
@@ -22,7 +22,7 @@ b) az épületen kívüli, azzal összeköttetésben álló technológiai berend
 
 c) az épülettel vagy annak részével közös tűzszakaszba tartozó szabadtéri tárolás esetén a tárolóterület oldalhatárától
 
-## kell mérni.
+kell mérni.
 
 (4) A tárolási egységtől tartandó tűztávolságot a tárolásra szolgáló, e célra kijelölt terület oldalhatárától, a tárolt anyag legkisebb alaprajzi vetületétől kell mérni.
 

@@ -22,7 +22,7 @@ b) természetes füstelvezetés és e rendelet által előírtnál nagyobb belé
 
 c) természetes füstelvezetéshez tartozó természetes légpótlás e rendelet által előírtnál nagyobb belépési sebességű gépi légpótlással való kiegészítése
 
-## esetén.
+esetén.
 
 (4) A természetes hő- és füstelvezetés legkisebb mértékét a 9. mellékletben foglalt 1. táblázat szerint vagy számítással kell megállapítani.
 

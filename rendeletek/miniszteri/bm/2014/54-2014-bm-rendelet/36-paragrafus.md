@@ -1,5 +1,3 @@
-## 35. §[^97]
-
 ## 13. Lakó, üdülő rendeltetés
 
 36. §[^98] (1) Lakó, üdülő rendeltetés esetén NAK és AK kockázati osztályba tartozó kockázati egységben a lakások, üdülőegységek közötti elválasztó falak legalább EI 30 tűzállósági teljesítményűek legyenek. A KK és MK kockázati osztályba tartozó kockázati egységben a lakást, üdülőegységet határoló falat legalább tűzgátló fallal egyenértékű tűzállósági teljesítményű szerkezetként kell létesíteni.
@@ -32,6 +30,7 @@ ga) a lakóegységeket magába foglaló kockázati egység alapján meghatározo
 
 gb) egyéb esetben a mértékadó tűzszakaszt magába foglaló kockázati egység kockázati osztályának alapján,
 
-[^97]: A 35. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 16. pontja hatályon kívül helyezte.
+a 72. § (3) bekezdésében foglaltak szerint biztosítják.
+
 [^98]: A 36. § a 30/2019. (VII. 26.) BM rendelet 27. §-ával megállapított szöveg.
 [^99]: A 36. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 17. §-a iktatta be.

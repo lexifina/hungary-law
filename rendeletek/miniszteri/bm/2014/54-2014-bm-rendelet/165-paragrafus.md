@@ -16,7 +16,7 @@ a) építményszerkezet, építési termék elvárt tűzállósági teljesítmé
 
 b) a tűzszakaszméret e rendelet szerinti növelésénél
 
-## figyelembe veszik.
+figyelembe veszik.
 
 (5)[^381] A fokozott üzembiztonságú vízalapú beépített tűzoltó berendezést az alábbiak szerint kell kialakítani:
 

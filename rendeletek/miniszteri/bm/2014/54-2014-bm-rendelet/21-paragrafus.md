@@ -18,7 +18,7 @@ c) ipari és mezőgazdasági alaprendeltetés esetén az 5. mellékletben foglal
 
 d) speciális építmények esetén a XII. fejezet
 
-## tartalmazza.
+tartalmazza.
 
 (2a)[^45] A tűzszakasz legnagyobb megengedett méretének 5. mellékletben foglalt 2. és 3. táblázat szerinti növelése esetén az épület beépített tűzjelző berendezése késleltetés nélkül hajtja végre a benntartózkodó személyek tűzriasztását.
 
@@ -37,6 +37,8 @@ d)[^47] fokozottan tűz- vagy robbanásveszélyes osztályba tartozó anyag, ter
 a) a kockázati egység alapterületének legnagyobb részét elfoglaló rendeltetéshez tartozó,
 
 b) az egyes rendeltetések által elfoglalt alapterületek egyezősége esetén a legkisebb tűzszakasz-alapterületet eredményező rendeltetéshez tartozó
+
+megengedett legnagyobb tűzszakasz-alapterület képezi.
 
 [^45]: A 21. § (2a) bekezdését a 8/2022. (IV. 14.) BM rendelet 8. § (1) bekezdése iktatta be.
 [^46]: A 21. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 15. §-ával megállapított szöveg.

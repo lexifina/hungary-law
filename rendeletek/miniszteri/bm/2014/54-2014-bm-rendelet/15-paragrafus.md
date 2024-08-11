@@ -1,5 +1,3 @@
-## 14. §[^17]
-
 ## 3. Tűzeseti szerkezeti állékonyság
 
 15. § (1) Az épületek, speciális építmények tartószerkezeteit úgy kell megtervezni, kivitelezni, hogy tűz esetén az e rendeletben előírt időtartamig
@@ -54,7 +52,6 @@ b) tönkremenetele nem okoz állékonyságvesztést a szomszédos építményekb
 
 c) a tető, előtető alatt végzett tárolás esetén az építményben létesített beépített tűzjelző és tűzoltó berendezést a tető, előtető területére is kiterjesztik.
 
-[^17]: A 14. §-át a 30/2019. (VII. 26.) BM rendelet 106. § 9. pontja hatályon kívül helyezte.
 [^18]: A 15. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^19]: A 15. § (2a) bekezdését a 8/2022. (IV. 14.) BM rendelet 5. §-a iktatta be.
 [^20]: A 15. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -1,5 +1,3 @@
-## tartozik.
-
 ## V. Fejezet
 
 ## ÁLTALÁNOS SZERKEZETI KÖVETELMÉNYEK

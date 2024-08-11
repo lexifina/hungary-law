@@ -1,5 +1,3 @@
-## legyen.
-
 ## 24. [^130] Tárolási rendeltetések
 
 48. §[^131] (1) A jellemzően személygépjármű tárolására szolgáló helyiséget legalább tűzgátló válaszfallal, 20 gépjármű álláshely, parkolóhely fölött legalább tűzgátló építményszerkezetekkel kell elválasztani az egyéb, hozzá funkcionálisan nem kapcsolódó rendeltetésektől.
