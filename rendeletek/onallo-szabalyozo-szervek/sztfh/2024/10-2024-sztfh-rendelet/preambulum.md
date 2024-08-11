@@ -1,0 +1,1 @@
+A kiberbiztonsági tanúsításról és a kiberbiztonsági felügyeletről szóló 2023. évi XXIII. törvény 28. § (3) bekezdés c) pontjában kapott felhatalmazás alapján, a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § n) és q) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
