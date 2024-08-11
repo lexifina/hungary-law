@@ -1,4 +1,4 @@
-1. melléklet a 9/2015. (III. 25.) BM rendelethez[^51]
+1. melléklet a 9/2015. (III. 25.) BM rendelethez[^55]
 
 Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
 
@@ -21,6 +21,8 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 1.1.2.2. katasztrófa- és polgári védelmi főelőadó szakképesítés-ráépülés,
 
 1.1.2.3. katasztrófavédelmi referens szakképesítés-ráépülés.
+
+1.1.2.4. katasztrófavédelmi tiszthelyettes képzés.
 
 1.1.3. Felsőszintű:
 
@@ -73,6 +75,8 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 1.1.3.24. tűzvédelmi tervezési szakmérnök,
 
 1.1.3.25. katasztrófavédelmi tiszt szakképesítés.
+
+1.1.3.26. katasztrófavédelmi biztonsági összekötő személy képzés (kizárólag a katasztrófavédelmi biztonsági összekötő feladatok ellátásához fogadható el).
 
 1.1.4. A rendvédelmi alkalmazotti állomány részére munkáltatói igény esetén − az érintett beleegyezésével − az előző szakmai végzettségek, szakképzettségek bármelyike.
 
@@ -136,6 +140,8 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 
 1.2.3.19. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány (tűzoltósági szakterületen csak abban az esetben fogadható el, ha rendelkezik legalább középszintű tűzoltás, műszaki mentés vezetésére jogosító végzettséggel).
 
+1.2.3.20. katasztrófavédelmi biztonsági összekötő személy képzés (kizárólag a katasztrófavédelmi biztonsági összekötő feladatok ellátásához fogadható el).
+
 1.2.4. A rendvédelmi alkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
 1.2.5. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai végzettségeket, szakképzettségeket és szaktanfolyamokat az 1.2.1. pont tartalmazza, illetve a katasztrófavédelmi alapismereti tanfolyam elvégzése is megfelelő.
@@ -147,6 +153,8 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 1.3.2. Középszintű:
 
 1.3.2.1. katasztrófavédelmi referens szakképesítés-ráépülés.
+
+1.3.2.2. katasztrófavédelmi tiszthelyettes képzés.
 
 1.3.3. Felsőszintű:
 
@@ -194,7 +202,7 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 
 1.3.3.22. katasztrófavédelmi tiszt szakképesítés,
 
-1.3.3.23. vegyészmérnök alap- és mesterszak (okleveles vegyészmérnök) és hatósági kiegészítő képzés,
+1.3.3.23. vegyészmérnök, gépészmérnök, közlekedésmérnök, mérnök-fizikus, környezetmérnök alap- és mesterszak (okleveles vegyészmérnök, gépészmérnök, közlekedésmérnök, mérnök-fizikus, környezetmérnök, mely nem azonos az 1.3.3.15. pont szerinti környezetmérnök mesterképzési szak, katasztrófavédelmi szakiránnyal) és hatósági kiegészítő képzés,
 
 1.3.3.24. vegyész alap- és mesterszak (okleveles vegyész) és hatósági kiegészítő képzés,
 
@@ -203,6 +211,10 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 1.3.3.26. hatósági jogi szakterületen (vízügyi és vízvédelmi, kritikus infrastruktúra koordinációs, tűzmegelőzési, veszélyes szállítmányok, veszélyes üzemek, atomerőmű-engedélyezési hatósági szakterületek) jogász osztatlan szak és hatósági kiegészítő képzés,
 
 1.3.3.27. vízügyi és vízvédelmi szakterületen szakirányú egyetemi vagy főiskolai szintű végzettség és szakképzettség megszerzését követően katasztrófavédelmi alapismereti tanfolyam elvégzése.
+
+1.3.3.28. katasztrófavédelmi biztonsági összekötő személy képzés (kizárólag a katasztrófavédelmi biztonsági összekötő feladatok ellátásához fogadható el),
+
+1.3.3.29. nemzetközi kapcsolatok alap- és mesterszak és hatósági kiegészítő képzés.
 
 1.3.4. A rendvédelmi alkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
 
@@ -360,4 +372,4 @@ Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként é
 
 5.3. Felsőszintű: kéményseprő mester (felsőfokú szakirányú állami végzettséggel).
 
-[^51]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja szerint módosított szöveg.
+[^55]: Az 1. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (1) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § a) pontja, a 28/2024. (VII. 12.) BM rendelet 10. §-a szerint módosított szöveg.

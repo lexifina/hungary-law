@@ -2,7 +2,7 @@
 
 ## 17. § Tűzoltás, műszaki mentés vezetését
 
-a)[^45] hivatásos katasztrófavédelmi szervnél
+a)[^49] hivatásos katasztrófavédelmi szervnél
 
 aa) minimum tűzoltó II. részszakképesítéssel – vagy annak megfelelő, e rendeletben elismerhető szakmai képesítéssel – a képesítés megszerzésétől számított minimum 5 éves, hivatásos tűzoltóságnál szerzett tűzoltási, műszaki mentési gyakorlattal, legalább középfokú iskolai végzettséggel, továbbá tűzoltásvezető I. tanfolyammal, vagy
 
@@ -22,4 +22,4 @@ cb) minimum tűzoltó II. részszakképesítéssel – vagy annak megfelelő, e 
 
 cc) az 1. melléklet 2.2. alpontjában foglalt felsőszintű képesítéssel rendelkező személyek láthatják el.
 
-[^45]: A 17. § a) pontja a 14/2021. (VI. 16.) BM rendelet 16. § q) pontja szerint módosított szöveg.
+[^49]: A 17. § a) pontja a 14/2021. (VI. 16.) BM rendelet 16. § q) pontja szerint módosított szöveg.

@@ -44,7 +44,7 @@
 
 ## 2.10. tűzoltás és műszaki mentés egyéb, az előzőekben fel nem sorolt gépei, berendezései, járművei.
 
-8. melléklet a 9/2015. (III. 25.) BM rendelethez[^61]
+8. melléklet a 9/2015. (III. 25.) BM rendelethez[^65]
 
 A tűzoltótechnika-kezelői igazolvány tartalmi elmei és formai követelményei
 
@@ -120,4 +120,4 @@ A tűzoltótechnika-kezelői igazolvány tartalmi elmei és formai követelmény
 
 8.2. Az igazolvány tulajdonosának aláírása.
 
-[^61]: A 8. mellékletet a 14/2021. (VI. 16.) BM rendelet 15. § (8) bekezdése iktatta be.
+[^65]: A 8. mellékletet a 14/2021. (VI. 16.) BM rendelet 15. § (8) bekezdése iktatta be.

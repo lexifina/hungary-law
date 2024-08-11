@@ -1,4 +1,4 @@
-2. melléklet a 9/2015. (III. 25.) BM rendelethez[^52]
+2. melléklet a 9/2015. (III. 25.) BM rendelethez[^56]
 
 Szakmai tanfolyamok mint belső képzések
 
@@ -104,4 +104,4 @@ Szakmai tanfolyamok mint belső képzések
 
 3.27. hatósági kiegészítő képzés.
 
-[^52]: A 2. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (2) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 4. § f) pontja szerint módosított szöveg.
+[^56]: A 2. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (2) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 4. § f) pontja szerint módosított szöveg.

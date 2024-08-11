@@ -1,4 +1,4 @@
-3. melléklet a 9/2015. (III. 25.) BM rendelethez[^53]
+3. melléklet a 9/2015. (III. 25.) BM rendelethez[^57]
 
 A hivatásos katasztrófavédelmi szerv hivatásos állományú tagjai és a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjai, valamint ez utóbbiak szakmai felügyeletét végző személyek által e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
@@ -138,4 +138,4 @@ OKJ 93 25362 14 20 01 tűzoltó).
 
 3.2. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai képzési formákat és szaktanfolyamokat a 3.1.1. pont tartalmazza, illetve a katasztrófavédelmi alapismereti tanfolyam elvégzése is elegendő.
 
-[^53]: A 3. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (3) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 80. §-a szerint módosított szöveg.
+[^57]: A 3. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (3) bekezdésével megállapított, a 9/2022. (IV. 21.) BM rendelet 3. § b) pontja, a 45/2022. (XII. 20.) BM rendelet 80. §-a szerint módosított szöveg.

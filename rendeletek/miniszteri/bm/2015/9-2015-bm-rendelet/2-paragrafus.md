@@ -8,11 +8,15 @@
 
 3. katasztrófavédelmi alapismereti tanfolyam: a hivatásos katasztrófavédelmi szervnél nem szakmai szolgálati beosztásban foglalkoztatottak felkészítésére szervezett képzés,
 
+3a.[^6] katasztrófavédelmi biztonsági összekötő személy képzés: a hivatásos katasztrófavédelmi szervnél biztonsági összekötő személy feladatkört ellátó, felsőfokú végzettséggel rendelkező szolgálatot teljesítők részére szervezett belső képzés,
+
+3b.[^7] katasztrófavédelmi tiszthelyettes képzés: a hivatásos katasztrófavédelmi szervnél alapfeladatot ellátó katasztrófavédelmi (polgári védelmi, hatósági, iparbiztonsági szakterületen) tiszthelyettes beosztás betöltéséhez képesítési követelményként meghatározott középszintű szakmai képesítés megszerzését biztosító, legalább 240 órás felkészítés,
+
 4. nem szakmai szolgálati beosztások: a hivatásos katasztrófavédelmi szerv működését biztosító, a katasztrófavédelmi és polgári védelmi, tűzoltósági, iparbiztonsági és ügyeleti szakterülethez nem tartozó funkcionális munkakörök,
 
 5. önkéntes és alkalomszerűen igénybe vehető létesítményi tűzoltó parancsnoki tanfolyam: az önkéntes tűzoltó egyesületek szaktevékenység végzésére jogosult tagjainak, valamint a létesítményi tűzoltóságok alkalomszerűen igénybe vehető tagjainak parancsnoki tevékenység ellátására szervezett felkészítés,
 
-6.[^6] önkormányzati és főfoglalkozású létesítményi tűzoltó parancsnoki tanfolyam: az önkormányzati és főfoglalkozású létesítményi tűzoltóságok felsőfokú állami végzettséggel nem rendelkező tagjainak felsőszintű szakmai képesítése, amely középfokú állami végzettséggel a szerparancsnoki képesítésre ráépülve parancsnoki beosztás betöltésére jogosít,
+6.[^8] önkormányzati és főfoglalkozású létesítményi tűzoltó parancsnoki tanfolyam: az önkormányzati és főfoglalkozású létesítményi tűzoltóságok felsőfokú állami végzettséggel nem rendelkező tagjainak felsőszintű szakmai képesítése, amely középfokú állami végzettséggel a szerparancsnoki képesítésre ráépülve parancsnoki beosztás betöltésére jogosít,
 
 7. önkormányzati és létesítményi tűzoltó szerparancsnoki tanfolyam: az önkormányzati és a létesítményi tűzoltóságok főfoglalkozású tagjainak egy raj szaktevékenységének irányítására szervezett felkészítés,
 
@@ -37,4 +41,6 @@
 [^3]: A 2. § a 14/2021. (VI. 16.) BM rendelet 9. §-ával megállapított szöveg.
 [^4]: A 2. § 1. pontja a 9/2022. (IV. 21.) BM rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § 2. pontja a 9/2022. (IV. 21.) BM rendelet 4. § a) pontja szerint módosított szöveg.
-[^6]: A 2. § 6. pontja a 9/2022. (IV. 21.) BM rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: A 2. § 3a. pontját a 28/2024. (VII. 12.) BM rendelet 8. §-a iktatta be.
+[^7]: A 2. § 3b. pontját a 28/2024. (VII. 12.) BM rendelet 8. §-a iktatta be.
+[^8]: A 2. § 6. pontja a 9/2022. (IV. 21.) BM rendelet 4. § b) pontja szerint módosított szöveg.

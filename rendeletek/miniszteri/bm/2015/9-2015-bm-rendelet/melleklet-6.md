@@ -1,4 +1,4 @@
-6. melléklet a 9/2015. (III. 25.) BM rendelethez[^58]
+6. melléklet a 9/2015. (III. 25.) BM rendelethez[^62]
 
 A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvédelmi szolgáltatás területén foglalkoztatottak által az e rendelet hatálybalépése előtt megszerzett, elismerhető szakmai képesítések szintjei
 
@@ -10,7 +10,7 @@ A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvéd
 
 2.2. a 10 hónapos képzési idejű tűzoltó tiszthelyettes-képző szak,
 
-2.3.[^59] az 1993 előtt a minisztériumok és a fővárosi, illetve a vármegyei tanácsok végrehajtó bizottságai, valamint a BM TKK által szervezett kétéves levelező vagy a 2 hónapos bentlakásos tűzvédelmi előadói tanfolyam,
+2.3.[^63] az 1993 előtt a minisztériumok és a fővárosi, illetve a vármegyei tanácsok végrehajtó bizottságai, valamint a BM TKK által szervezett kétéves levelező vagy a 2 hónapos bentlakásos tűzvédelmi előadói tanfolyam,
 
 2.4. 1991 után a BM Tűzvédelmi Oktató és Kutató Intézetben szerzett középfokú tűzvédelmi előadói képesítés,
 
@@ -44,5 +44,5 @@ A gazdálkodó szervezeteknél a tűzvédelem szakágazatban, illetve a tűzvéd
 
 3.11. a hároméves levelező tűzvédelmi előadói vagy a tűzvédelmi vezetői szakon, valamint a tűzvédelmi szakelőadói szakon (OKJ azonosító szám: 71 8915 01) szerzett képesítés vagy szakképzettség.
 
-[^58]: A 6. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (6) bekezdésével megállapított szöveg.
-[^59]: A 6. melléklet 2. pont 2.3. alpontja a 45/2022. (XII. 20.) BM rendelet 80. §-a szerint módosított szöveg.
+[^62]: A 6. melléklet a 14/2021. (VI. 16.) BM rendelet 15. § (6) bekezdésével megállapított szöveg.
+[^63]: A 6. melléklet 2. pont 2.3. alpontja a 45/2022. (XII. 20.) BM rendelet 80. §-a szerint módosított szöveg.
