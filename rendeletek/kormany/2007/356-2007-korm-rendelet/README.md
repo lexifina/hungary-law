@@ -38,3 +38,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-356-20-
 | 2023-01-01 | 2007-356-20-22.33 | 296/2012. (X. 17.) Korm. rendelet |
 | 2023-05-15 | 2007-356-20-22.34 | 170/2023. (V. 12.) Korm. rendelet |
 | 2024-02-25 | 2007-356-20-22.35 | 31/2024. (II. 22.) Korm. rendelet |
+| 2024-08-11 | 2007-356-20-22.36 | 242/2024. (VIII. 8.) Korm. rendelet |

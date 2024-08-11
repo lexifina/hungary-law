@@ -20,6 +20,8 @@ c) a földrészletnek az adatváltozást megelőzően bejegyzett földhasználó
 
 (6)[^68] Az ingatlanügyi hatóság a változások átvezetéséről szóló döntését a földhasználati lapnak a változással érintett adatokat tartalmazó részleges másolata megküldésével közli a földhasználóval és a használatba adóval, valamint családi gazdálkodó esetében a családi gazdálkodók nyilvántartását végző hatósággal.
 
+(7)[^69] Ha az (1) bekezdés szerinti változásbejelentésre nem került sor, és a földhasználó földhasználati lap I. részében meghatározott adataiban bekövetkezett változásról az ingatlanügyi hatóság tudomást szerez, az adatváltozást az ingatlanügyi hatóság hivatalból átvezeti.
+
 [^61]: A 13. § a 429/2012. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^62]: A 13. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 14. § (1) bekezdés f) pontja, a 360/2019. (XII. 30.) Korm. rendelet 57. § (3) bekezdés j) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
 [^63]: A 13. § (1a) bekezdését a 136/2016. (VI. 13.) Korm. rendelet 4. §-a iktatta be.
@@ -28,3 +30,4 @@ c) a földrészletnek az adatváltozást megelőzően bejegyzett földhasználó
 [^66]: A 13. § (5) bekezdése a 170/2023. (V. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^67]: A 13. § (5a) bekezdését a 31/2024. (II. 22.) Korm. rendelet 1. §-a iktatta be.
 [^68]: A 13. § (6) bekezdése a 668/2020. (XII. 28.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^69]: A 13. § (7) bekezdését a 242/2024. (VIII. 8.) Korm. rendelet 1. §-a iktatta be.
