@@ -1,5 +1,3 @@
-## 2.[^5]
+## 2. A dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó igazgatási szolgáltatási díjakról szóló 29/2017. (VII. 25.) NFM rendelet módosítása
 
-5. §
-
-[^5]: A 2. alcím a 6. § (2) bekezdése alapján 2024. augusztus 12-én lép hatályba.
+5. § A dohánytermékek nyilvántartásba vételére és vizsgálatára, valamint a cigaretta kátrány-, nikotin- és szén-monoxid-kibocsátásának mérésére vonatkozó igazgatási szolgáltatási díjakról szóló 29/2017. (VII. 25.) NFM rendelet 1. melléklete helyébe a 2. melléklet lép.
