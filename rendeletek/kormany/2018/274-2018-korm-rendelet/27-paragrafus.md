@@ -1,4 +1,4 @@
-## 27. §[^45] A Törvény 13. § (3) bekezdése szerinti tájékoztató levél tartalmazza
+## 27. §[^46] A Törvény 13. § (3) bekezdése szerinti tájékoztató levél tartalmazza
 
 a) a részletvétel szabályait;
 
@@ -8,7 +8,7 @@ c) a bérlő által bérelt lakóingatlan vagy tartalék ingatlan vonatkozásáb
 
 d) a nyilatkozattételi határidőre szóló felhívást;
 
-e)[^46] a nyilatkozattétel formai és tartalmi követelményeit.
+e)[^47] a nyilatkozattétel formai és tartalmi követelményeit.
 
-[^45]: A 27. § nyitó szövegrésze a 283/2019. (XI. 28.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
-[^46]: A 27. § e) pontja a 283/2019. (XI. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.
+[^46]: A 27. § nyitó szövegrésze a 283/2019. (XI. 28.) Korm. rendelet 3. § f) pontja szerint módosított szöveg.
+[^47]: A 27. § e) pontja a 283/2019. (XI. 28.) Korm. rendelet 3. § g) pontja szerint módosított szöveg.

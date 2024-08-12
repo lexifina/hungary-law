@@ -1,6 +1,6 @@
 ## 18. Átmeneti rendelkezések
 
-32. § (1)[^53]
+32. § (1)[^54]
 
 (2) A IV. fejezet rendelkezéseit
 
@@ -20,13 +20,13 @@ bb) a 2020. január 1-jén határozott időtartamra szóló lakásbérleti szerz
 
 kell alkalmazni.
 
-(3)[^54]
+(3)[^55]
 
-(4)[^55] A Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaságnak (a továbbiakban: NET Zrt.) a Törvény 22/A. §-a szerinti megszüntetése esetén a tevékenységet lezáró számviteli beszámolóját és záró adóbevallásait a Lebonyolító a NET Zrt. megszűnésétől számított 90 napon belül köteles elkészíteni, és a legfőbb szerv által jóváhagyott beszámolónak a NET Zrt. állandó könyvvizsgálója által kiadott független könyvvizsgálói jelentéssel együtt történő letétbe helyezése és közzététele érdekében intézkedni.
+(4)[^56] A Nemzeti Eszközkezelő Zártkörűen Működő Részvénytársaságnak (a továbbiakban: NET Zrt.) a Törvény 22/A. §-a szerinti megszüntetése esetén a tevékenységet lezáró számviteli beszámolóját és záró adóbevallásait a Lebonyolító a NET Zrt. megszűnésétől számított 90 napon belül köteles elkészíteni, és a legfőbb szerv által jóváhagyott beszámolónak a NET Zrt. állandó könyvvizsgálója által kiadott független könyvvizsgálói jelentéssel együtt történő letétbe helyezése és közzététele érdekében intézkedni.
 
-(5)[^56] A NET Zrt. zárómérlegében lévő eszközök – kivéve az állami tulajdonú vagyonkezelt eszközök, illetve azok elszámolásához kapcsolódó eszközök – Lebonyolító általi átvétele során, a számvitelről szóló 2000. évi C. törvény 36. § (1) bekezdés f) pontja alapján, a NET Zrt. könyveiben szereplő nyilvántartási értéken, a tőketartalék javára kerülnek elszámolásra.
+(5)[^57] A NET Zrt. zárómérlegében lévő eszközök – kivéve az állami tulajdonú vagyonkezelt eszközök, illetve azok elszámolásához kapcsolódó eszközök – Lebonyolító általi átvétele során, a számvitelről szóló 2000. évi C. törvény 36. § (1) bekezdés f) pontja alapján, a NET Zrt. könyveiben szereplő nyilvántartási értéken, a tőketartalék javára kerülnek elszámolásra.
 
-[^53]: A 32. § (1) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^54]: A 32. § (3) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
-[^55]: A 32. § (4) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.
-[^56]: A 32. § (5) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.
+[^54]: A 32. § (1) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^55]: A 32. § (3) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 23. § d) pontja hatályon kívül helyezte.
+[^56]: A 32. § (4) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.
+[^57]: A 32. § (5) bekezdését a 373/2020. (VII. 30.) Korm. rendelet 20. §-a iktatta be.

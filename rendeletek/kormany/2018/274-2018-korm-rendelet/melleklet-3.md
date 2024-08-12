@@ -1,6 +1,6 @@
-3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^66]
+3. melléklet a 274/2018. (XII. 21.) Korm. rendelethez[^67]
 
-A Díjbeszedő Holding Zrt. által ellátandó feladatok
+A Magyar Posta Zrt. által ellátandó feladatok[^68]
 
 1. Az ingatlanokra és azok használóira (bérlők, jogcím nélküli lakáshasználók) vonatkozó adatoknak a követelések nyilvántartására alkalmas számítógépes rendszerbe történő feltöltése és karbantartása.
 
@@ -14,4 +14,5 @@ A Díjbeszedő Holding Zrt. által ellátandó feladatok
 
 6. A Lebonyolító részére információ szolgáltatása a követelésekről, a Lebonyolító által meghatározott paraméterek szerinti riportok, jelentések elkészítése.
 
-[^66]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^67]: A 3. melléklet a 386/2023. (VIII. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^68]: A 3. melléklet címe a 159/2024. (VI. 28.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

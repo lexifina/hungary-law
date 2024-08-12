@@ -1,8 +1,8 @@
-## 29. §[^49] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
+## 29. §[^50] A Lebonyolító a Törvény szerinti tulajdonszerzési lehetőségekről, valamint a lakásbérleti jogviszony fenntartásának és fennmaradásának feltételeiről általános tájékoztatót készít, amelyet közzétesz a honlapján.
 
-## 15/A. [^50] Tájékoztató a részletvétel egyéb szabályairól
+## 15/A. [^51] Tájékoztató a részletvétel egyéb szabályairól
 
-29/A. § (1)[^51] Az e rendelet szerinti feladatok ellátása során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra, valamint a 9/A. § szerinti megállapodásra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
+29/A. § (1)[^52] Az e rendelet szerinti feladatok ellátása során a Lebonyolító és az MR Közösségi Lakásalap NKft. egymással egyeztetve a részletvételi jogviszonyra, valamint a 9/A. § szerinti megállapodásra vonatkozóan tájékoztatót (ezen alcím alkalmazásában a továbbiakban: tájékoztató) készít, amelyben meghatározza
 
 a) a Lebonyolító részére a részletvételi jogviszony, továbbá a részletfizetésre irányuló megállapodás keretében havonta fizetendő részletek esedékességének napját,
 
@@ -18,6 +18,6 @@ e) a részletvevő és a Lebonyolító, illetve az MR Közösségi Lakásalap NK
 
 (3) A Lebonyolító és az MR Közösségi Lakásalap NKft. a tájékoztató tartalmát a részletvevők érdekeinek figyelembevételével állítja össze. A Lebonyolító és az MR Közösségi Lakásalap NKft. jogosult a tájékoztató egyoldalú módosítására a részletvevők érdekeinek figyelembe vétele mellett.
 
-[^49]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^50]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^51]: A 29/A. § (1) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^50]: A 29. § a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^51]: A 15/A. alcímet (29/A. §) a 210/2019. (VIII. 27.) Korm. rendelet 9. §-a iktatta be, szövege a 761/2021. (XII. 23.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^52]: A 29/A. § (1) bekezdése a 159/2024. (VI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.

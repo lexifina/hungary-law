@@ -1,6 +1,6 @@
-28. § (1)[^47] A Lebonyolító
+28. § (1)[^48] A Lebonyolító
 
-a)[^48]
+a)[^49]
 
 b) a 26. § (3) bekezdése szerinti tájékoztató levelet a Törvényben foglalt határidőig, a Törvény 6. § (1) bekezdése szerint nyilatkozattételre felhívott bérlőnek a lakásbérleti szerződés megszűntetéséről szóló dokumentumban megadott értesítési címére,
 
@@ -18,5 +18,5 @@ b) „elköltözött”, „címzett ismeretlen”, „nem kereste” vagy „k�
 
 azon a napon tekintendő kézbesítettnek, amelyen a postai bélyegző alapján a szolgáltató a küldeményt a feladónak visszaküldte.
 
-[^47]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^48]: A 28. § (1) bekezdés a) pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
+[^48]: A 28. § (1) bekezdése a 283/2019. (XI. 28.) Korm. rendelet 2. §-ával megállapított, nyitó szövegrésze a 373/2020. (VII. 30.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
+[^49]: A 28. § (1) bekezdés a) pontját a 761/2021. (XII. 23.) Korm. rendelet 8. § e) pontja hatályon kívül helyezte.
