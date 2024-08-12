@@ -1,0 +1,1 @@
+6. § Ha a Hatóság dönt az akkreditálásról, az akkreditált személyt az akkreditálással egyidejűleg ESG tanácsadóként hivatalból bejegyzi az ESG törvény 41. § (1) bekezdése szerinti névjegyzékbe (a továbbiakban: nyilvántartás). A Hatóság akkreditálásról szóló határozata tartalmazza az ESG tanácsadóként akkreditált kérelmező nyilvántartási számát.

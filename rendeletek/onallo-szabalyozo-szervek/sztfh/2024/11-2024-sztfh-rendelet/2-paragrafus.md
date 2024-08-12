@@ -1,0 +1,1 @@
+2. § Az ESG tanácsadó akkreditálására irányuló eljárás (a továbbiakban: akkreditálási eljárás) kérelemre indul, amelyet a kérelmező a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság) által e célra rendszeresített űrlapon nyújt be a Hatósághoz.
