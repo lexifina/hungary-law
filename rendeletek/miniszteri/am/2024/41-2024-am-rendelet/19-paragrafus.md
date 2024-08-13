@@ -1,3 +1,1 @@
-19. §[^18]
-
-[^18]: A 19. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+19. § Az 1. melléklet tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i (EU) 2015/1535 európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.

@@ -1,5 +1,3 @@
 ## 2. A dísznövény szaporítóanyagok forgalomba hozataláról szóló 45/2008. (IV. 11.) FVM rendelet módosítása
 
-5. §[^5]
-
-[^5]: Az 5. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+5. § A dísznövény szaporítóanyagok forgalomba hozataláról szóló 45/2008. (IV. 11.) FVM rendelet [a továbbiakban: 45/2008. (IV. 11.) FVM rendelet] 3. számú melléklete a 2. melléklet szerint módosul.

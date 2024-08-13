@@ -1,3 +1,1 @@
-4. §[^4]
-
-[^4]: A 4. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+4. § Hatályát veszti az 50/2004. (IV. 22.) FVM rendelet 31. § (4) bekezdés e) pontjában a „valamint” szövegrész.

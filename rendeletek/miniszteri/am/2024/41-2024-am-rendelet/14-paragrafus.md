@@ -1,3 +1,11 @@
-14. §[^14]
+14. § A 14/2017. (III. 23.) FM rendelet 25. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^14]: A 14. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+„(2) Törzsültetvény a NÉBIH engedélyével létesíthető. A törzsültetvény létesítése iránti kérelmet a törzsültetvény telepítését megelőzően legalább 6 hónappal kell benyújtani. A kérelemben meg kell jelölni
+
+a) a tervezett telepítés helyét, nagyságát,
+
+b) a törzsültetvény típusát,
+
+c) a telepítendő fajokat és
+
+d) a faiskolai engedély számát.”

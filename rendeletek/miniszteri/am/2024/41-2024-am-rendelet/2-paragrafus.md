@@ -1,3 +1,1 @@
-2. §[^2]
-
-[^2]: A 2. § a 18. § (2) bekezdése alapján 2024. augusztus 13-án lép hatályba.
+2. § Az 50/2004. (IV. 22.) FVM rendelet az 1. melléklet szerinti 9. számú melléklettel egészül ki.
