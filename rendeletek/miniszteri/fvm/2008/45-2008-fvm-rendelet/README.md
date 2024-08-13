@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-45-20-8
 | 2020-09-28 | 2008-45-20-82.12 | 24/2018. (VIII. 31.) AM rendelet |
 | 2023-01-01 | 2008-45-20-82.13 | 24/2018. (VIII. 31.) AM rendelet |
 | 2023-07-20 | 2008-45-20-82.14 | 36/2023. (VII. 19.) AM rendelet |
+| 2024-08-13 | 2008-45-20-82.15 | 41/2024. (VIII. 8.) AM rendelet |

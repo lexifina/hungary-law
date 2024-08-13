@@ -32,12 +32,15 @@
 
 ## 2. A dísznövény szaporítóanyag előállítói és forgalmazói tevékenység engedélyezése iránti kérelem mellékletei:
 
-## 2.1. a termékpálya szerinti terméktanácsi tagság igazolása,
+## 2.1.[^49] termékpálya szerinti terméktanácsi, illetve annak hiányában elismert szakmaközi szervezeti vagy agrárkamarai tagságról szóló nyilatkozat,
 
 ## 2.2. az 1.4. pont szerinti területek beazonosítására alkalmas helyszínrajz,
 
-## 2.3. jogszerű területhasználat igazolása (tulajdoni lap vagy haszonbérleti szerződés),
+## 2.3.[^50] jogszerű területhasználatról szóló nyilatkozat,
 
 ## 2.4. a terület növény-egészségügyi alkalmasságának igazolása (növény-egészségügyi jegyzőkönyv).
 
 4. számú melléklet a 45/2008. (IV. 11.) FVM rendelethez
+
+[^49]: A 3. melléklet 2. pont 2.1. alpontja a 41/2024. (VIII. 8.) AM rendelet 5. §-ával megállapított szöveg.
+[^50]: A 3. melléklet 2. pont 2.3. alpontja a 41/2024. (VIII. 8.) AM rendelet 5. §-ával megállapított szöveg.
