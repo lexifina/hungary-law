@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-50-20-8
 | 2021-10-19 | 2004-50-20-82.22 | 37/2021. (X. 14.) AM rendelet |
 | 2022-09-25 | 2004-50-20-82.23 | 29/2022. (IX. 22.) AM rendelet |
 | 2023-01-01 | 2004-50-20-82.24 | 70/2013. (VII. 31.) VM rendelet |
+| 2024-08-13 | 2004-50-20-82.25 | 41/2024. (VIII. 8.) AM rendelet |

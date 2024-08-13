@@ -22,23 +22,21 @@ db) palántaforgalmazás vagy
 
 dc) palántacsomagolás;
 
-e) az előállítás és a forgalmazás helyének azonosító adatait (cím, helyrajzi szám, terület mérete); valamint
+e)[^185] az előállítás és a forgalmazás helyének azonosító adatait (cím, helyrajzi szám, terület mérete);
 
-f) a tevékenységben érintett szaporítóanyag-csoportokat.
+f)[^186] a tevékenységben érintett szaporítóanyag-csoportokat; valamint
 
-(5)[^185] A vármegyei kormányhivatal a működési engedélyt kiadja, ha
+g)[^187] a felelős kapcsolattartó személy nevét és elérhetőségét.
 
-a)[^186]
+(5)[^188] A vármegyei kormányhivatal a működési engedélyt kiadja, ha
 
-b) a kapcsolattartó személy szakirányú végzettségét igazoló okirat másolatát, és
+a) a kérelmező termékpálya szerinti terméktanácsi, illetve annak hiányában elismert szakmaközi szervezeti vagy agrárkamarai tagságáról nyilatkozik,
 
-c)[^187] a kérelmező termékpálya szerinti terméktanácsi tagsága egy évnél nem korábbi igazolását a kérelemhez mellékelik, valamint
+b) az üzem a mellékelt helyszínrajz alapján beazonosítható,
 
-d) az üzem a mellékelt helyszínrajz alapján beazonosítható, és
+c) a kérelmező a terület jogszerű használatára vonatkozóan nyilatkozik, és
 
-e) a terület jogszerű használatát igazolják, továbbá
-
-f)[^188] a kérelemben megjelölt terület növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal hat hónapnál nem régebbi jegyzőkönyvével tanúsítja.
+d) a kérelemben megjelölt terület növényegészségügyi alkalmasságát a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal hat hónapnál nem régebbi jegyzőkönyve tanúsítja.
 
 (6)[^189]
 
@@ -57,10 +55,10 @@ f)[^188] a kérelemben megjelölt terület növényegészségügyi alkalmasság�
 [^182]: A 31. § (1) bekezdése a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 23/2021. (VI. 18.) AM rendelet 11. § j) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^183]: A 31. § (3) bekezdése a 183/2009. (XII. 30.) FVM rendelet 4. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 32. § e) pontja, a 42/2017. (VIII. 17.) FM rendelet 64. § 10. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés e) pontja, a 23/2021. (VI. 18.) AM rendelet 12. § f) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
 [^184]: A 31. § (4) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^185]: A 31. § (5) bekezdés nyitó szövegrésze a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
-[^186]: A 31. § (5) bekezdés a) pontját a 23/2021. (VI. 18.) AM rendelet 12. § g) pontja hatályon kívül helyezte.
-[^187]: A 31. § (5) bekezdés c) pontja a 23/2021. (VI. 18.) AM rendelet 11. § k) pontja szerint módosított szöveg.
-[^188]: A 31. § (5) bekezdés f) pontja a 42/2017. (VIII. 17.) FM rendelet 64. § 11. pontja, a 46/2020. (IX. 23.) AM rendelet 3. § (1) bekezdés b) pontja, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
+[^185]: A 31. § (4) bekezdés e) pontja a 41/2024. (VIII. 8.) AM rendelet 4. §-a szerint módosított szöveg.
+[^186]: A 31. § (4) bekezdés f) pontja a 41/2024. (VIII. 8.) AM rendelet 3. § a) pontja szerint módosított szöveg.
+[^187]: A 31. § (4) bekezdés g) pontját a 41/2024. (VIII. 8.) AM rendelet 1. § (1) bekezdése iktatta be.
+[^188]: A 31. § (5) bekezdése a 41/2024. (VIII. 8.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^189]: A 31. § (6) bekezdését a 23/2021. (VI. 18.) AM rendelet 12. § h) pontja hatályon kívül helyezte.
 [^190]: A 31. § (7) bekezdése a 70/2013. (VII. 31.) VM rendelet 32. § c) pontja szerint módosított szöveg.
 [^191]: A 31. § (10) bekezdése a 23/2021. (VI. 18.) AM rendelet 9. § (2) bekezdésével megállapított, a 81/2022. (XII. 27.) AM rendelet 1. § b) pontja szerint módosított szöveg.
