@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-27-20-2
 | 2017-08-18 | 2012-27-20-2Y.3 | 42/2017. (VIII. 17.) FM rendelet |
 | 2020-09-28 | 2012-27-20-2Y.4 | 42/2017. (VIII. 17.) FM rendelet |
 | 2023-01-01 | 2012-27-20-2Y.5 | 42/2017. (VIII. 17.) FM rendelet |
+| 2024-08-13 | 2012-27-20-2Y.6 | 41/2024. (VIII. 8.) AM rendelet |
