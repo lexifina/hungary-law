@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-440-20-
 | 2022-07-01 | 2021-440-20-22.2 | 238/2022. (VI. 30.) Korm. rendelet |
 | 2023-03-11 | 2021-440-20-22.3 | 69/2023. (III. 10.) Korm. rendelet |
 | 2023-12-29 | 2021-440-20-22.4 | 643/2023. (XII. 28.) Korm. rendelet |
+| 2024-08-13 | 2021-440-20-22.5 | 212/2024. (VII. 29.) Korm. rendelet |

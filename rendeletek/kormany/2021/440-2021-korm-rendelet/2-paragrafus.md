@@ -1,3 +1,5 @@
-2. §[^9] Az 1. § szerinti feladatokat az IFKA a vállalkozásfejlesztésért felelős miniszter szakmai iránymutatásainak megfelelően látja el.
+2. §[^11] (1) Az 1. § szerinti feladatokat az MGFÜ a vállalkozásfejlesztésért felelős miniszter (a továbbiakban: miniszter) szakmai iránymutatásainak megfelelően látja el.
 
-[^9]: A 2. § a 238/2022. (VI. 30.) Korm. rendelet 213. §-a, a 643/2023. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+(2) Az MGFÜ e rendelet szerinti feladatainak ellátását a miniszter költségvetési támogatás útján finanszírozza.
+
+[^11]: A 2. § a 212/2024. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
