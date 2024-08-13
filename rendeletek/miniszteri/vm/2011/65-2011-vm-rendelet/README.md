@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-65-20-2
 | 2020-09-28 | 2011-65-20-2Y.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2022-01-30 | 2011-65-20-2Y.7 | 2/2022. (I. 27.) AM rendelet |
 | 2023-01-01 | 2011-65-20-2Y.8 | 70/2013. (VII. 31.) VM rendelet |
+| 2024-08-13 | 2011-65-20-2Y.9 | 41/2024. (VIII. 8.) AM rendelet |
