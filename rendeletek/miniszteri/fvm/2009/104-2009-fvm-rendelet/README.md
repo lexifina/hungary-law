@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-104-20-
 | 2017-08-18 | 2009-104-20-82.4 | 70/2013. (VII. 31.) VM rendelet |
 | 2020-09-28 | 2009-104-20-82.5 | 70/2013. (VII. 31.) VM rendelet |
 | 2023-01-01 | 2009-104-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
+| 2024-08-13 | 2009-104-20-82.7 | 41/2024. (VIII. 8.) AM rendelet |

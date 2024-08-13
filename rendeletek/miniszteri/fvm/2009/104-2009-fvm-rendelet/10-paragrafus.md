@@ -1,5 +1,3 @@
-## 9. § A bejelentőnek vagy megbízottjának az elismert tájfajtát annak származási régiójában kell fenntartania. A fajtafenntartás során olyan módszert kell alkalmazni, amellyel a tájfajta eredeti tulajdonságai a genetikai elszegényedés kockázata nélkül megőrizhetők.
-
 ## Vetőmag-előállítás és forgalomba hozatal
 
 10. § (1) A szántóföldi növényfajok vetőmagvainak előállításáról és forgalomba hozataláról szóló 48/2004. (IV. 21.) FVM rendelet (a továbbiakban: Szántóföldi rendelet) 1–5. számú mellékleteiben előírt forgalomba hozatali feltételektől való eltérés esetén az elismert tájfajta vetőmagja forgalomba hozható, ha megfelel a (2)–(4) bekezdésekben előírt feltételeknek.
