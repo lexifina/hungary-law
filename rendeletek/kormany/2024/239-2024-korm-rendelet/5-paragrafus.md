@@ -1,0 +1,1 @@
+5. § Ez a rendelet – a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény 70–75/A. §-ával együtt – az egységes európai vasúti térség létrehozásáról szóló, 2012. november 21-i 2012/34/EU európai parlamenti és tanácsi irányelv 55. cikk (3) bekezdésének való megfelelést szolgálja.
