@@ -1,7 +1,7 @@
-158. §[^611] E rendeletnek az egyes kormányrendeletek energiahatékonysággal összefüggő módosításáról szóló 123/2015. (V. 26.) Korm. rendelet [a továbbiakban: 123/2015. (V. 26.) Korm. rendelet] 31. §-ával megállapított 115/C. §-át a 123/2015. (V. 26.) Korm. rendelet hatálybalépésének[^612] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
+158. §[^612] E rendeletnek az egyes kormányrendeletek energiahatékonysággal összefüggő módosításáról szóló 123/2015. (V. 26.) Korm. rendelet [a továbbiakban: 123/2015. (V. 26.) Korm. rendelet] 31. §-ával megállapított 115/C. §-át a 123/2015. (V. 26.) Korm. rendelet hatálybalépésének[^613] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
 
-158. §[^613]
+158. §[^614]
 
-[^611]: A Vhr. 158. §-át a 384/2014. (XII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 123/2015. (V. 26.) Korm. rendelet 32. §-a iktatta be.
-[^612]: A hatálybalépés időpontja 2015. június 7.
-[^613]: A Vhr. újabb 158. §-át a 137/2015. (VI. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 277/2015. (IX. 22.) Korm. rendelet 4. §-a.
+[^612]: A Vhr. 158. §-át a 384/2014. (XII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte, újonnan a 123/2015. (V. 26.) Korm. rendelet 32. §-a iktatta be.
+[^613]: A hatálybalépés időpontja 2015. június 7.
+[^614]: A Vhr. újabb 158. §-át a 137/2015. (VI. 2.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 277/2015. (IX. 22.) Korm. rendelet 4. §-a.
