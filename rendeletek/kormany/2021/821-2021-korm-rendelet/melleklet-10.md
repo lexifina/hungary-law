@@ -1,6 +1,6 @@
 10. melléklet a 821/2021. (XII. 28.) Korm. rendelethez
 
-Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § (1) bekezdés b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma[^61]
+Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított 19. § (1) bekezdés b)–d) pontja szerinti dokumentumokhoz kiállítandó nyomonkövetési dokumentum minimális adattartalma[^66]
 
 1. A termesztett biomasszára vonatkozó adattartalom:
 
@@ -96,6 +96,8 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 3.9. a fenntarthatósági nyilatkozattal érintett köztes termék értékesítési iránya, célország megnevezése.
 
+3.10.[^67] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú köztes termék esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+
 4. A bioüzemanyagra vagy folyékony bio-energiahordozóra vonatkozó adattartalom:
 
 4.1. a nyomonkövetési dokumentummal kísért fenntarthatósági nyilatkozat azonosítószáma és keltezése;
@@ -129,6 +131,8 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 4.8. a fenntarthatósági nyilatkozattal érintett bioüzemanyag, folyékony bio-energiahordozó alapanyaga származási országának megnevezése;
 
 4.9. a fenntarthatósági nyilatkozattal érintett bioüzemanyag, folyékony bio-energiahordozó értékesítési iránya, célország megnevezése.
+
+4.10.[^68] fenntarthatósági nyilatkozattal érintett bioüzemanyag vagy folyékony bio-energiahordozó esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására sor került-e.
 
 5. Termesztett és nem termesztett biomasszából előállított tüzelőanyagra (a továbbiakban: tüzelőanyag) vonatkozó adattartalom:
 
@@ -168,6 +172,8 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 5.9. a fenntarthatósági nyilatkozattal érintett tüzelőanyag értékesítési iránya, célország megnevezése;
 
+5.10.[^69] fenntarthatósági nyilatkozattal érintett gáz halmazállapotú tüzelőanyag esetén nyilatkozat arról, hogy ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállításra került-e.
+
 6. Erdei biomasszára, fásszárú biomasszára, erdészeti-, faipari maradványanyagra vonatkozó adattartalom:
 
 6.1. a nyomonkövetési dokumentummal kísért fenntarthatósági nyilatkozat egyedi azonosítószáma és keltezése;
@@ -184,4 +190,7 @@ Biomassza-kereskedő, biomassza-feldolgozó, üzemanyag-forgalmazó kiállított
 
 6.7. a fenntarthatósági nyilatkozattal érintett biomassza értékesítési iránya, célország megnevezése.
 
-[^61]: A 10. melléklet címe a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^66]: A 10. melléklet címe a 164/2024. (VI. 28.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^67]: A 10. melléklet 3. pont 3.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^68]: A 10. melléklet 4. pont 4.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^69]: A 10. melléklet 5. pont 5.10. alpontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (3) bekezdése iktatta be.

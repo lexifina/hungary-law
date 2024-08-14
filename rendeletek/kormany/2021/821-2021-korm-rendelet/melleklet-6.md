@@ -18,7 +18,7 @@ Az üzemanyag-forgalmazó jelentésének minimális adattartalma
 
 2.3. E85.
 
-3.[^43] A forgalomba hozott bioüzemanyag mennyisége az 1. melléklet 3–15. és 17–32. sorában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
+3.[^47] A forgalomba hozott bioüzemanyag mennyisége az 1. melléklet 3–15. és 17–32. sorában meghatározott fajtánkénti bontásban, és összesen (literben és MJ-ban kifejezve), ide nem értve annak a bioüzemanyagnak a mennyiségét, melyet a bioüzemanyag-részarány számításánál figyelmen kívül kell hagyni, valamint a forgalomba hozott bioüzemanyag előállításának módjáról.
 
 4. A forgalomba hozott bioüzemanyag alapanyagainak előállítása kapcsán a földhasználat közvetett megváltozásából eredő kibocsátás előzetesen becsült középértéke, amennyiben az az alábbi alapanyag kategóriákba tartozik:
 
@@ -68,4 +68,7 @@ Az üzemanyag-forgalmazó jelentésének minimális adattartalma
 
 10.7. egyéb (alapanyag megnevezésével).
 
-[^43]: A 6. melléklet 3. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+11.[^48] Biomasszából előállított gáz halmazállapotú, a közlekedésben használt üzemanyag esetén, amennyiben ahhoz a megújuló gázok származásának igazolásáról szóló kormányrendeletben meghatározott származási garancia kiállítására került sor, annak igazolása, hogy a származási garancia felhasználásra került-e a számlarendszerben.
+
+[^47]: A 6. melléklet 3. pontja a 620/2022. (XII. 29.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^48]: A 6. melléklet 11. pontját a 215/2024. (VII. 29.) Korm. rendelet 20. § (2) bekezdése iktatta be.

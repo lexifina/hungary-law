@@ -18,8 +18,8 @@ a) a közös agrárpolitika finanszírozásáról, irányításáról és monito
 
 b) a bioüzemanyagokra és a folyékony bio-energiahordozókra vonatkozó, a gazdasági szereplők által a tagállamokhoz eljuttatandó bizonyos típusú információkról szóló, 2011. január 12-i 2011/13/EU bizottsági határozat 1. cikk c) és d) pontja
 
-c)[^40] az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikkében megállapított, erdei biomasszára vonatkozó fenntarthatósági kritériumok teljesülését igazoló bizonyítékok összeállítására vonatkozó gyakorlati iránymutatás meghatározásáról szóló, 2022. december 13-i (EU) 2022/2448 bizottsági végrehajtási rendelet
+c)[^41] az (EU) 2018/2001 európai parlamenti és tanácsi irányelv 29. cikkében megállapított, erdei biomasszára vonatkozó fenntarthatósági kritériumok teljesülését igazoló bizonyítékok összeállítására vonatkozó gyakorlati iránymutatás meghatározásáról szóló, 2022. december 13-i (EU) 2022/2448 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^40]: A 27. § (2) bekezdés c) pontját a 164/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
+[^41]: A 27. § (2) bekezdés c) pontját a 164/2024. (VI. 28.) Korm. rendelet 5. §-a iktatta be.
