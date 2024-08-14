@@ -1,1 +1,3 @@
-4. § Hatályát veszti az 50/2004. (IV. 22.) FVM rendelet 31. § (4) bekezdés e) pontjában a „valamint” szövegrész.
+4. §[^5]
+
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

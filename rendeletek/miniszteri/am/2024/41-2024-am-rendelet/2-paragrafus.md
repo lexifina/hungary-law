@@ -1,1 +1,3 @@
-2. § Az 50/2004. (IV. 22.) FVM rendelet az 1. melléklet szerinti 9. számú melléklettel egészül ki.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

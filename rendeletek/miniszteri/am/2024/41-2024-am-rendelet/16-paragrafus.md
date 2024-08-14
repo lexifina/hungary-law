@@ -1,1 +1,3 @@
-16. § Hatályát veszti a 14/2017. (III. 23.) FM rendelet 25. § (3) bekezdésében az „a faiskolai engedélyt és” szövegrész.
+16. §[^17]
+
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

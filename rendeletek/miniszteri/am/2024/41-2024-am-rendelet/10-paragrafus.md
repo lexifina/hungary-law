@@ -1,11 +1,3 @@
-10. § A 65/2011. (VII. 11.) VM rendelet
+10. §[^11]
 
-a) 4. § (2) bekezdésében a „céljából történő bejelentés során a bejelentőnek” szövegrész helyébe az „iránti kérelemben a kérelmezőnek” szöveg,
-
-b) 4. § (3) bekezdésében a „bejelentett” szövegrész helyébe a „kérelemben bejelentett” szöveg, a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szövegrész helyébe a „NÉBIH” szöveg,
-
-c) 7. § (1) bekezdés nyitó szövegrészében a „miniszter” szövegrész helyébe a „NÉBIH” szöveg,
-
-d) 10. §-ában a „bejelentőnek” szövegrész helyébe a „kérelmezőnek” szöveg
-
-lép.
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

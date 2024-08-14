@@ -1,5 +1,5 @@
 ## 7. A gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet módosítása
 
-13. § A gyümölcs szaporítóanyagok előállításáról és forgalomba hozataláról szóló 14/2017. (III. 23.) FM rendelet [a továbbiakban: 14/2017. (III. 23.) FM rendelet] 22. § (3) bekezdése helyébe a következő rendelkezés lép:
+13. §[^14]
 
-„(3) A törzsültetvény megszüntetéséről a tulajdonosnak értesítenie kell a NÉBIH-et, amely tájékoztatja erről a növény- és talajvédelmi hatáskörben eljáró vármegyei kormányhivatalt.”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
