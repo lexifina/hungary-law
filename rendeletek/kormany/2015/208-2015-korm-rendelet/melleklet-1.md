@@ -36,11 +36,11 @@ A Beruházással összefüggésben kiemelt jelentőségű üggyé nyilvánított
 
 17. tűzvédelmi hatósági eljárások
 
-17/A.[^12] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
+17/A.[^15] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezéssel kapcsolatos eljárások
 
-18.[^13] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
+18.[^16] az 1–17/A. pontban nem szereplő, a Beruházáshoz közvetlenül szükséges további hatósági eljárások, az 1–2. pont alá nem tartozó, az Atv. alapján lefolytatott hatósági eljárások kivételével
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások
 
-[^12]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
-[^13]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^15]: Az 1. melléklet 17/A. pontját a 201/2017. (VII. 10.) Korm. rendelet 3. §-a iktatta be.
+[^16]: Az 1. melléklet 18. pontja a 201/2017. (VII. 10.) Korm. rendelet 4. §-a szerint módosított szöveg.
