@@ -16,19 +16,21 @@ f) fegyelmi fenyítését, ha azt nem közvetlenül szolgálati elöljárója sz
 
 g) intézkedéseit, valamint
 
-h) megbetegedését, felgyógyulását.
+h)[^91] megbetegedését, felgyógyulását, várható felgyógyulását, illetve annak elhúzódását.
 
 (2) Az alárendelt szolgálati elöljárójának írásban jelenti
 
-a)[^62] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
+a)[^92] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
 
 b) ha bűncselekmény, szabálysértés vagy a helyszínen közigazgatási bírsággal sújtható szabályszegés miatt vele szemben intézkedés történt.
 
 (3) Ha más jogszabály jelentési kötelezettséget ír elő, a jelentést írásban kell megtenni.
 
-(4) Az alárendelt szolgálati időben a közvetlen szolgálati elöljárónak haladéktalanul, de legkésőbb szolgálatának letelte előtt, szolgálati időn kívül az eseményt követő szolgálati napon jelenti a jogszabály által előírt jelentési kötelezettség alá eső változásokat, továbbá – a változástól számított 8 munkanapon belül – írásban a személyügyi nyilvántartás adatkörébe tartozó adataiban bekövetkezett változásokat.
+(4)[^93] Az alárendelt szolgálati időben a közvetlen szolgálati elöljárónak haladéktalanul, de legkésőbb szolgálatának letelte előtt, szolgálati időn kívül az eseményt követő szolgálati napon jelenti a jogszabály által előírt jelentési kötelezettség alá eső változásokat.
 
-(5)[^63] Az országgyűlési őr az intézkedésével összefüggő rendkívüli eseményről haladéktalanul írásban köteles jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni. Az elfogással, kényszerítő eszköz alkalmazásával összefüggő rendkívüli eseményt haladéktalanul jelenteni kell az ügyeletesnek, aki az eseményt jelenti az Országgyűlési Őrség parancsnokának.
+(5)[^94] Az országgyűlési őr az intézkedésével összefüggő rendkívüli eseményről haladéktalanul írásban köteles jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni.
 
-[^62]: A 62. § (2) bekezdés a) pontja a 36/2015. (VI. 16.) BM rendelet 25. § e) pontja szerint módosított szöveg.
-[^63]: A 62. § (5) bekezdését a 9/2018. (IV. 25.) BM rendelet 49. §-a iktatta be.
+[^91]: A 62. § (1) bekezdés h) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 28. pontja szerint módosított szöveg.
+[^92]: A 62. § (2) bekezdés a) pontja a 36/2015. (VI. 16.) BM rendelet 25. § e) pontja szerint módosított szöveg.
+[^93]: A 62. § (4) bekezdése a 34/2024. (VIII. 8.) BM rendelet 14. § b) pontja szerint módosított szöveg.
+[^94]: A 62. § (5) bekezdését a 9/2018. (IV. 25.) BM rendelet 49. §-a iktatta be, szövege a 34/2024. (VIII. 8.) BM rendelet 14. § c) pontja szerint módosított szöveg.

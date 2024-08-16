@@ -1,4 +1,4 @@
-## 12. §[^22] Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr értesíti az elfogás helye szerint illetékes rendőri szerv tevékenység-irányítási központját.
+## 12. §[^24] Az Ogytv. 139. § (1) bekezdésében meghatározott elfogás esetén az országgyűlési őr értesíti az elfogás helye szerint illetékes rendőri szerv tevékenység-irányítási központját.
 
 ## 7. Biztonsági intézkedések
 
@@ -30,4 +30,4 @@ d) súlyos fertőző betegség, talált sugárzó anyag, robbanóanyag, robbant�
 
 e) terrortámadás veszélye vagy terrorcselekmény esetén.
 
-[^22]: A 12. § a 19/2020. (VI. 30.) BM rendelet 6. § a) pontja szerint módosított szöveg.
+[^24]: A 12. § a 19/2020. (VI. 30.) BM rendelet 6. § a) pontja szerint módosított szöveg.

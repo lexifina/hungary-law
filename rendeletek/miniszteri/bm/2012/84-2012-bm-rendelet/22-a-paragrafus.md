@@ -1,4 +1,4 @@
-## 16/A. [^32] Eljárás talált tárgy esetén
+## 16/A. [^38] Eljárás talált tárgy esetén
 
 22/A. § (1) Ha az országgyűlési őr elhagyott dolgot talál, azt lehetőleg – a robbanó-, sugárzó, radioaktív, nukleáris vagy mérgező anyag gyanúját keltő anyagok kivételével – tanúk jelenlétében átvizsgálja. A találásról jelentést tesz a szolgálati elöljárójának és az ügyeletesnek. A talált tárgy elszállítására az Országgyűlés Hivatala intézkedik az illetékes önkormányzat jegyzőjéhez.
 
@@ -12,6 +12,9 @@
 
 a) robbanóanyag, robbanószerkezet találásáról a Készenléti Rendőrség és a Terrorelhárítási Központ ügyeletét,
 
-b) mérgező, sugárzó, radioaktív, nukleáris anyag találásáról a területileg illetékes katasztrófavédelmi szerv ügyeletét, az Országos Sugáregészségügyi Készenléti Szolgálatot, valamint az Országos Rendőr-főkapitányság és a Terrorelhárítási Központ ügyeletét
+b)[^39] mérgező, sugárzó, radioaktív, nukleáris anyag találásáról a területileg illetékes katasztrófavédelmi szerv ügyeletét, az Országos Sugáregészségügyi Készenléti Szolgálatot, az Országos Rendőr-főkapitányság Főügyeletét és a Terrorelhárítási Központ ügyeletét
 
-[^32]: A 16/A. alcímet (22/A. §) a 9/2018. (IV. 25.) BM rendelet 44. §-a iktatta be.
+haladéktalanul értesíti.
+
+[^38]: A 16/A. alcímet (22/A. §) a 9/2018. (IV. 25.) BM rendelet 44. §-a iktatta be.
+[^39]: A 22/A. § (5) bekezdés b) pontja a 34/2024. (VIII. 8.) BM rendelet 13. § 8. pontja szerint módosított szöveg.

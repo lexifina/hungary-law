@@ -1,4 +1,4 @@
-40/A. §[^41] (1) A személyvédelmi szolgálat célja:
+40/A. §[^56] (1) A személyvédelmi szolgálat célja:
 
 a) a személybiztosítás,
 
@@ -12,7 +12,7 @@ e) az Országgyűlés elnökének biztonságos közúti szállítása, valamint
 
 f) az Országgyűlés elnökével kapcsolatos nyílt és operatív biztosítás
 
-## ellátása.
+ellátása.
 
 (2) A személybiztosító feladata az Országgyűlés elnökének közvetlen fizikai védelme, életének, testi épségének megóvása.
 
@@ -26,4 +26,4 @@ f) az Országgyűlés elnökével kapcsolatos nyílt és operatív biztosítás
 
 (7) Az operatív személyvédő feladata az Országgyűlés elnöke élete, testi épsége, valamint a védelemre kijelölt objektumok zárt területének biztonsága ellen irányuló cselekmények, az azokat elkövetni szándékozó személyek erre irányuló szándékának előzetes felderítése, valamint az ezt előkészítő vagy megkönnyítő körülmények felfedése és kiküszöbölése. Ezen feladatok ellátása érdekében az operatív személyvédő az Országgyűlés elnökének testi épségének, valamint a védelemre kijelölt objektumok veszélyeztetettségére vonatkozó adatokat összegyűjti, rendszerezi és értékeli.
 
-[^41]: A 40/A. §-t a 9/2018. (IV. 25.) BM rendelet 46. §-a iktatta be.
+[^56]: A 40/A. §-t a 9/2018. (IV. 25.) BM rendelet 46. §-a iktatta be.

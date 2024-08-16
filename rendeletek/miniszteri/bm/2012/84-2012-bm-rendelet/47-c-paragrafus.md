@@ -1,6 +1,6 @@
-## 26/C. [^59] Feladatok ellátásának folyamatos biztosítása
+## 26/C. [^83] Feladatok ellátásának folyamatos biztosítása
 
-47/C. § (1) Az Országgyűlési Őrség
+47/C. § (1)[^84] Az Országgyűlési Őrség
 
 a) feladatainak végrehajtása,
 
@@ -10,7 +10,7 @@ c) az együttműködő szervekkel való kapcsolat állandó fenntartása,
 
 d) a rendkívüli eseményekkel összefüggő, halaszthatatlan intézkedések megtétele, az intézkedésre jogosult és köteles szervek, személyek értesítése, valamint a vezetők tájékoztatása
 
-érdekében folyamatos jelleggel ügyeletet biztosít. Rendkívüli esetben a parancsnok döntése alapján eseti ügyelet működtethető.
+érdekében folyamatos jelleggel ügyeletet biztosít. Rendkívüli esetben az Országgyűlési Őrség parancsnokának döntése alapján eseti ügyelet működtethető.
 
 (2) Az ügyeletes a hivatali munkaidőn kívül a szerv vezetőjének jogkörét a részére meghatározott mértékben gyakorolja.
 
@@ -18,4 +18,5 @@ d) a rendkívüli eseményekkel összefüggő, halaszthatatlan intézkedések me
 
 (4) Az ügyeletest a feladatának teljesítésétől elvonni, más feladatra igénybe venni nem lehet.
 
-[^59]: A 26/C. alcímet (47/C. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^83]: A 26/C. alcímet (47/C. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^84]: A 47/C. § (1) bekezdés záró szövegrésze a 34/2024. (VIII. 8.) BM rendelet 13. § 23. pontja szerint módosított szöveg.

@@ -8,7 +8,7 @@
 
 3. egyéni tárolás: használatra kiadott fegyverzet személyi páncélszekrényben, vaslemez szekrényben vagy el nem mozdíthatóan rögzített lemezkazettában történő tárolása,
 
-4.[^2] alegységkészlet: a fegyverszobáért felelős személy részére kiadott és személyi leltárba vett fegyverzet, amely nem személyi felszerelésként, hanem alegység szinten kerül kiadásra,
+4.[^2] alegységkészlet: a fegyverszobáért felelős személy részére kiadott és leltárba vett fegyverzet, amely nem személyi felszerelésként, hanem alegység szinten kerül kiadásra,
 
 5. feljebbvaló: az, akinek magasabb rendfokozata van, és az alacsonyabb rendfokozatúval nem áll szolgálati elöljárói viszonyban,
 
@@ -35,7 +35,7 @@
 14.[^8] védett objektum: az Országgyűlésről szóló 2012. évi XXXVI. törvény (a továbbiakban: Ogytv.) 125. § (2) bekezdés b) pontjában meghatározott, létesítménybiztosítási feladatok ellátásával védett objektum.
 
 [^1]: A 2. § 2. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^2]: A 2. § 4. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (2) bekezdésével megállapított szöveg.
+[^2]: A 2. § 4. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (2) bekezdésével megállapított, a 34/2024. (VIII. 8.) BM rendelet 13. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § 6a. pontját a 9/2018. (IV. 25.) BM rendelet 34. § (1) bekezdése iktatta be.
 [^4]: A 2. § 7. pontja a 36/2015. (VI. 16.) BM rendelet 19. § (3) bekezdésével megállapított szöveg.
 [^5]: A 2. § 12. pontja a 9/2018. (IV. 25.) BM rendelet 34. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-71/A. §[^71] (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában az Országgyűlés elnökének külföldi utazása során az Országgyűlési Őrség szolgálati lőfegyvereinek és lőszereinek a személyvédelmi feladatok ellátásával kapcsolatos szolgálati célból történő külföldre vitelére az Országgyűlési Őrség parancsnokának írásbeli engedélye alapján kerülhet sor.
+71/A. §[^108] (1) Jogszabály, az Európai Unió kötelező jogi aktusa vagy nemzetközi szerződés eltérő rendelkezésének hiányában az Országgyűlés elnökének külföldi utazása során az Országgyűlési Őrség szolgálati lőfegyvereinek és lőszereinek a személyvédelmi feladatok ellátásával kapcsolatos szolgálati célból történő külföldre vitelére az Országgyűlési Őrség parancsnokának írásbeli engedélye alapján kerülhet sor.
 
 (2) A kísérőokmányként felhasználható engedélynek magyar és angol nyelven tartalmaznia kell
 
@@ -18,7 +18,7 @@ g) az engedély kiadásának időpontját, hatályosságát és az engedélyező
 
 (3) Ha az adott ország nemzeti jogrendszere előírja, kivitel csak akkor engedélyezhető, ha a használat, valamint az átszállítás szempontjából érintett ország hatáskörrel rendelkező szerve a szolgálati lőfegyverek és lőszerek beszállításához vagy átszállításához hozzájárult, vagy azt tudomásul vette.
 
-(4) Az engedélyekről az azt kiadó szerv nyilvántartást vezet, amelyben rögzíteni kell a (2) bekezdésben meghatározott adatokon túl
+(4)[^109] Az engedélyekről az azt kiadó szervezeti elem nyilvántartást vezet, amelyben rögzíteni kell a (2) bekezdésben meghatározott adatokon túl
 
 a) az engedély számát,
 
@@ -26,6 +26,8 @@ b) a kivitel és a visszahozatal időpontját, továbbá
 
 c) a kiszállított, illetve a visszaszállított szolgálati lőfegyverek, lőszerek közt mutatkozó esetleges hiányokat vagy eltéréseket, valamint ezek okairól készült jelentést.
 
-(5) A kiadott engedély másolatát az Országgyűlési Őrség tájékoztatásul az általános rendőrségi feladatok ellátására létrehozott szerv részére megküldi.
+(5)[^110]
 
-[^71]: A 71/A. §-t a 9/2018. (IV. 25.) BM rendelet 51. §-a iktatta be.
+[^108]: A 71/A. §-t a 9/2018. (IV. 25.) BM rendelet 51. §-a iktatta be.
+[^109]: A 71/A. § (4) bekezdés nyitó szövegrésze a 34/2024. (VIII. 8.) BM rendelet 13. § 32. pontja szerint módosított szöveg.
+[^110]: A 71/A. § (5) bekezdését a 34/2024. (VIII. 8.) BM rendelet 14. § e) pontja hatályon kívül helyezte.

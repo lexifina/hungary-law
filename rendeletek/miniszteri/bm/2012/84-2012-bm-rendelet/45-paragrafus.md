@@ -1,4 +1,4 @@
-## 25/A. [^54] A kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében ellátott járőr- és őrszolgálati feladatok
+## 25/A. [^72] A kiemelt nemzeti emlékhely méltóságának megőrzése, valamint a kiemelt nemzeti emlékhely részét képező közterület rendjének fenntartása érdekében ellátott járőr- és őrszolgálati feladatok
 
 45. § (1) A járőrszolgálat ellátása során az országgyűlési őr
 
@@ -26,4 +26,6 @@ a) – az Ogytv. 137. § (2) bekezdésében meghatározottak szerint – testkam
 
 b) – az Ogytv. 137. § (4) bekezdésében meghatározottak szerint – elektronikus megfigyelőrendszert
 
-[^54]: A 25/A. alcímet (45. §) a 19/2020. (VI. 30.) BM rendelet 4. §-a iktatta be.
+használ.
+
+[^72]: A 25/A. alcímet (45. §) a 19/2020. (VI. 30.) BM rendelet 4. §-a iktatta be.

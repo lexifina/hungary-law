@@ -1,5 +1,3 @@
-## 56. §
-
 ## VII. Fejezet
 
 ## A SZOLGÁLATI ELÖLJÁRÓI ÉS FELJEBBVALÓI VISZONYRA, AZ ORSZÁGGYŰLÉSI ŐR MAGATARTÁSÁRA VONATKOZÓ ÁLTALÁNOS SZABÁLYOK
@@ -12,7 +10,7 @@ a) vezetéknevükön és rendfokozatukon, vagy
 
 b) rendfokozatuk megnevezésével és az „úr”, nők esetében az „asszony” vagy a „kisasszony” szóval
 
-## szólítják meg.
+szólítják meg.
 
 (2) Az az országgyűlési őr, akit szolgálati elöljárója vagy feljebbvalója megszólít, „Parancs!” szóval jelentkezik.
 

@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-0
 | 2018-04-28 | 2012-84-20-0A.5 | 9/2018. (IV. 25.) BM rendelet |
 | 2019-01-01 | 2012-84-20-0A.6 | 37/2018. (XII. 28.) BM rendelet |
 | 2020-07-01 | 2012-84-20-0A.7 | 19/2020. (VI. 30.) BM rendelet |
+| 2024-08-16 | 2012-84-20-0A.8 | 34/2024. (VIII. 8.) BM rendelet |

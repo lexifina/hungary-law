@@ -20,6 +20,8 @@ h) a szolgálat ellátásához, az esküjében vállalt kötelezettségének tel
 
 i) az alaki szabályokat betartani,
 
-j) a szolgálati feladatainak ellátása során hivatali, ügyeleti, készültségi, készenléti és készenléti jellegű szolgálatot teljesíteni.
+j)[^90] a szolgálati feladatait a szolgálati időrendszerének megfelelően teljesíteni, készenlét elrendelése esetén rendelkezésre állni.
 
 (2) Az országgyűlési őr a szakmai kérdésben hozzá fordulónak – amennyiben megfelelő szakmai ismeretekkel rendelkezik – felvilágosítást nyújt.
+
+[^90]: A 61. § (1) bekezdés j) pontja a 34/2024. (VIII. 8.) BM rendelet 7. §-ával megállapított szöveg.

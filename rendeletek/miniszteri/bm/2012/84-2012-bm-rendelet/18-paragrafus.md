@@ -1,9 +1,7 @@
 ## 12. Személyazonosság megállapítása
 
-18. § (1) A személyazonosság megállapítása során az országgyűlési őr elkéri az érintett személy személyazonosító igazolványát vagy egyéb, a személyazonosságot hitelt érdemlően igazoló okmányát. Ha az okmány valódisága vagy az érintett személy személyazonossága kétséges, az országgyűlési őr ellenőrző kérdéseket tehet fel, felszólítja az intézkedés alá vont személyt adatainak bemondására, a bemondott adatokat az okmánnyal összehasonlítja.
+18. §[^32] (1) A személyazonosság megállapítása során az országgyűlési őr elkéri az érintett személy Ogytv. 138. § (1) bekezdés a) pontjában vagy 138. § (2) bekezdésében meghatározott, a személyazonosság igazolására alkalmas, érvényes hatósági igazolványát, okmányát vagy belépésre jogosító okmányát. Ha a hatósági igazolvány vagy az okmány valódisága vagy az érintett személy személyazonossága kétséges, az országgyűlési őr ellenőrző kérdéseket tehet fel, felszólítja az intézkedés alá vont személyt adatainak bemondására, a bemondott adatokat a hatósági igazolvánnyal vagy az okmánnyal összehasonlítja.
 
-(2) A személyazonosság megállapítása során meg kell állapítani az érintett személy személyazonosságát, és – akinél ez a további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – rögzíteni kell az intézkedés alá vont személy személyazonosító adatait (név, születési hely, idő, anyja születési neve), az igazolványának sorozatát és számát, valamint az intézkedés helyét, idejét és okát.
+(2) A személyazonosság megállapítása során meg kell állapítani az érintett személy személyazonosságát, és – akinél ez a további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – rögzíteni kell az intézkedés alá vont személy természetes személyazonosító adatait, a hatósági igazolványának típusát és okmányazonosítóját, valamint az intézkedés helyét, idejét és okát.
 
-(3)[^28] Ha az országgyűlési őr megállapítja, hogy az érintett személy vagy az általa bemutatott okmány körözését rendelték el, haladéktalanul jelenti szolgálati elöljáróján keresztül az ügyeletesnek, aki intézkedik az illetékes rendőri szerv tevékenység-irányítási központjának az értesítése iránt.
-
-[^28]: A 18. § (3) bekezdése a 9/2018. (IV. 25.) BM rendelet 43. §-ával megállapított, a 19/2020. (VI. 30.) BM rendelet 6. § c) pontja szerint módosított szöveg.
+[^32]: A 18. § a 34/2024. (VIII. 8.) BM rendelet 3. §-ával megállapított szöveg.

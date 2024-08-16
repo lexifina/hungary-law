@@ -1,7 +1,8 @@
-## 26/A. [^57] A tárgyalási rend fenntartásával kapcsolatos feladatok
+## 26/A. [^79] A tárgyalási rend fenntartásával kapcsolatos feladatok
 
-47/A. § (1) Az Ogytv. 53. és 141. §-ában foglalt feladatok ellátása érdekében az Országgyűlés ülésnapjain intézkedési kötelezettségre felkészült állomány (a továbbiakban: rendfenntartó egység) tevékenységét a szolgálatparancsnok irányításával végzi.
+47/A. § (1)[^80] Az Ogytv. 53. és 141. §-ában foglalt feladatok ellátása érdekében az Országgyűlés ülésnapjain intézkedési kötelezettségre felkészült állomány (a továbbiakban: rendfenntartó egység) tevékenységét a szolgálatparancsnok vagy szükség esetén a hivatásos állomány tiszti szolgálati beosztást betöltő tagjának irányításával végzi.
 
 (2) A tárgyalási rend fenntartására az ülésterembe bevonuló rendfenntartó egység az intézkedéseket az Ogytv. 134. § (3) bekezdésében kapott utasítás alapján hajtja végre.
 
-[^57]: A 26/A. alcímet (47/A. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^79]: A 26/A. alcímet (47/A. §) a 9/2018. (IV. 25.) BM rendelet 48. §-a iktatta be.
+[^80]: A 47/A. § (1) bekezdése a 34/2024. (VIII. 8.) BM rendelet 13. § 21. pontja szerint módosított szöveg.
