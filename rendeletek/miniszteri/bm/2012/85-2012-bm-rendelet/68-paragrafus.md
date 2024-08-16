@@ -14,7 +14,7 @@ c) az eskü és a rá vonatkozó jogszabályok alapján elvárható, saját akar
 
 d) szolgálati utazás közben, továbbá a szolgálati helyre vagy onnan menet
 
-## érte.
+érte.
 
 (5) Nem lehet szolgálattal összefüggőnek minősíteni azt a betegségből, balesetből származó halálesetet, amely a szolgálattól és a szolgálat sajátosságaitól függetlenül következett be.
 

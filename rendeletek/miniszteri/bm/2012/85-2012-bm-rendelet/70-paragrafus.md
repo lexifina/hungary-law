@@ -1,5 +1,3 @@
-## jogosult.
-
 70. § (1) Az Országgyűlési Őrség a hősi halottá és a szolgálat halottjává minősített elhunyt emlékének megőrzésére az Országgyűlési Őrség központi épületében, méltó helyen emléktáblát köteles állítani.
 
 (2) A hősi halottá és a szolgálat halottjává minősített elhunyt személy részére közeli hozzátartozója beleegyezésével síremlék állítható.

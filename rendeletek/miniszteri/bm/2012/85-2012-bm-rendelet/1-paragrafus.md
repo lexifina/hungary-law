@@ -12,8 +12,10 @@
 
 (6) Ha a hivatásos állomány tagjának megállapított illetménye nem éri el a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 154. § (3) bekezdés szerinti garantált bérminimum összegét, azt a jogszabályban meghatározott mértékig ki kell egészíteni. A kiegészítést külön illetményelemként kell a munkáltatói intézkedésben feltüntetni és a kerekítést csak ezt követően lehet elvégezni.
 
-(7) A Hszt. 353. § (6) bekezdésében meghatározott kompenzációs díjat önálló illetményelemként kell feltüntetni. A Hszt. 353. § (8) bekezdésében meghatározott esetben a hatályos rendszeres díjazás 30%-os mértékű emelését biztosító alapilletményt az illetményemelkedés százalékos értékének feltüntetésével egyidejűleg önállóan fel kell tüntetni.
+(7)[^2]
 
-(8) Az illetményemelkedés szempontjából a Hszt. 352. § b) pontjában meghatározott beosztási illetmény részének minősül a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény 99. § (4) bekezdés szerinti garantált bérminimumra történő kiegészítés jogcímén folyósított bérelem.
+(8)[^3]
 
 [^1]: A 2. alcím (1–7. §) a 35/2015. (VI. 16.) BM rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (7) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (8) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § a) pontja hatályon kívül helyezte.

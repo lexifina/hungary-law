@@ -2,6 +2,8 @@
 
 (2) Ha a hivatásos állomány tagjának a Hszt. 71. § (1) bekezdése szerinti szolgálati beosztások ellátásával, vagy helyettesítéssel történő megbízása az eredeti beosztás ellátása mellett történik, vagy beosztásához nem tartozó feladatkör ellátásával többletfeladatot lát el, a megbízás alapján járó díjazás mértékét az állományilletékes parancsnok, illetve a fogadó szerv munkáltatói jogkört gyakorló vezetője a feladattal, valamint a feladat ellátására beosztottak számával arányosan állapítja meg.
 
-(3) Amennyiben a hivatásos állomány tagja közalkalmazottat, kormányzati ügykezelőt, vagy kormánytisztviselőt helyettesít, a (2) bekezdés szabályait megfelelően alkalmazni kell.
+(3)[^17] Amennyiben a hivatásos állomány tagja közalkalmazottat, kormányzati ügykezelőt, vagy kormánytisztviselőt helyettesít, a (2) bekezdés szabályait megfelelően alkalmazni kell.
 
 (4) Ha a hivatásos állomány helyettesítést ellátó tagja a megbízás alapján díjazásban részesül, a helyettesítés során végzett tevékenysége nem minősül túlszolgálatnak, a tevékenységért csak a Hszt. 71. § (5) bekezdése szerinti többletszolgálatért járó díjazás jár.
+
+[^17]: [A 7. § (3) bekezdésében a 34/2024. (VIII. 8.) BM rendelet 23. § 3. pontja által elrendelt módosítás, amely szerint „közalkalmazottat, kormányzati ügykezelőt vagy kormánytisztviselőt” szövegrész helyébe a „munkavállalót vagy köztisztviselőt” szöveg lép, nem vezethető át.]

@@ -1,4 +1,4 @@
-24/G. §[^45] (1)[^46] A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
+24/G. §[^55] (1)[^56] A hivatásos állomány tagja – a (2) bekezdésben foglalt kivétellel – a Hszt. 170. § (4) bekezdésében foglaltakra is figyelemmel kiegészítő juttatásra jogosult, melynek mértéke a hivatásos állomány tagját megillető
 
 a) beosztási illetmény,
 
@@ -12,7 +12,7 @@ e) Hszt. 161. § (1) bekezdés a) és b) pontja szerinti egyéb pótlék és
 
 f) címpótlék
 
-## együttes összegének 21 százaléka.
+együttes összegének 21 %-a.
 
 (2) Nem jogosult az (1) bekezdés szerinti kiegészítő juttatásra a hivatásos állomány azon tagja,
 
@@ -22,11 +22,12 @@ b) akinek a Hszt. 165. § (1) bekezdése alapján távolléti díjának 50%-át 
 
 c) aki vezénylés jogcímén lát el hivatásos szolgálatot, kivéve, ha az illetményét az Országgyűlés Hivatala állapította meg a Hszt. illetményre vonatkozó szabályai alapján.
 
-(3) A kiegészítő juttatást havonta utólag, az illetménnyel együtt kell folyósítani.
+(3)[^57]
 
 (4) A Hszt. 165. § (2) bekezdése szerinti esetben a kiegészítő juttatásra a visszatartott távolléti díj, illetmény utólagos kifizetésekor a hivatásos állomány tagja jogosulttá válik.
 
 (5) A kiegészítő juttatásra jogosultságról és annak mértékéről az Országgyűlési Őrség parancsnoka munkáltatói intézkedésben rendelkezik.
 
-[^45]: A 24/G. §-t a 3/2020. (I. 17.) BM rendelet 1. §-a iktatta be.
-[^46]: A 24/G. § (1) bekezdés záró szövegrésze a 43/2021. (XII. 9.) BM rendelet 1. §-a szerint módosított szöveg.
+[^55]: A 24/G. §-t a 3/2020. (I. 17.) BM rendelet 1. §-a iktatta be.
+[^56]: A 24/G. § (1) bekezdés záró szövegrésze a 43/2021. (XII. 9.) BM rendelet 1. §-a szerint módosított szöveg. A 24/G. § (1) bekezdés záró szövegrésze a 34/2024. (VIII. 8.) BM rendelet 23. § 7. pontja szerint módosított szöveg.
+[^57]: A 24/G. § (3) bekezdését a 34/2024. (VIII. 8.) BM rendelet 24. § d) pontja hatályon kívül helyezte.
