@@ -22,8 +22,9 @@ h) nyilatkozata vagy az ez irányú ellenőrzés eredménye alapján szervezeté
 
 (3) A vér- és vizeletvételre kizárólag az erre a célra rendszeresített, ép zárcímkével ellátott, bontatlan – a mintavételi eszközöket magába foglaló – egységdoboz alkalmazható. A mintavételi egységdoboz felnyitása és alkalmazása csak a hivatásos állomány mintavétellel érintett tagja, a hivatásos állomány vizsgálatot foganatosító tagja, a szolgálati elöljáró és a mintát vevő orvos jelenlétében történhet.
 
-(4)[^1] A minta levételét az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 2. § 22. pontja szerinti rendvédelmi alapellátó orvos (a továbbiakban: alapellátó orvos) végzi. Ha az alapellátó orvos igénybevétele akadályba ütközik, mintavétel érdekében a területileg illetékes egészségügyi szolgáltató ügyeletes orvosát kell igénybe venni.
+(4)[^7] A minta levételét az Országgyűlési Őrségnél foglalkoztatott hivatásos állomány alkalmasságvizsgálatáról, valamint egészségügyi és pszichológiai ellátásáról szóló 43/2022. (XII. 19.) BM rendelet 2. § 22. pontja szerinti rendvédelmi alapellátó orvos (a továbbiakban: alapellátó orvos) végzi. Ha az alapellátó orvos igénybevétele akadályba ütközik, mintavétel érdekében a befolyásoltságvizsgálat helye szerint területileg illetékes egészségügyi szolgáltató (a továbbiakban: egészségügyi szolgáltató) ügyeletes orvosát kell igénybe venni.
 
-(5) A (4) bekezdésben meghatározott esetben, ha a mintavételt a szolgálatteljesítés helye szerint illetékes (a továbbiakban: egészségügyi szolgáltató) ügyeletes orvosa végzi, akkor ennek költségét az Országgyűlési Őrség téríti meg.
+(5)[^8] A (4) bekezdésben meghatározott esetben, ha a mintavételt az egészségügyi szolgáltató ügyeletes orvosa végzi, akkor ennek költségét az Országgyűlési Őrség téríti meg.
 
-[^1]: Az 5. § (4) bekezdése a 91/2023. (XII. 28.) BM rendelet 1. §-ával megállapított szöveg.
+[^7]: Az 5. § (4) bekezdése a 91/2023. (XII. 28.) BM rendelet 1. §-ával megállapított, a 34/2024. (VIII. 8.) BM rendelet 40. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (5) bekezdése a 34/2024. (VIII. 8.) BM rendelet 40. § b) pontja szerint módosított szöveg.
