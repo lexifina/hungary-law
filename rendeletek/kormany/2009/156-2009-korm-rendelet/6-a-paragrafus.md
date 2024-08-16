@@ -1,4 +1,4 @@
-6/A. §[^31] (1) Az 5. melléklet 1. táblázatában felsorolt szabálytalanságok esetén, a bírságösszeg meghatározásához a szabálytalanságot a következő meghatározások szerinti, csökkenő súlyosságú kockázati kategóriák egyikébe kell sorolni, ahol az I. kategória a legsúlyosabb:
+6/A. §[^32] (1) Az 5. melléklet 1. táblázatában felsorolt szabálytalanságok esetén, a bírságösszeg meghatározásához a szabálytalanságot a következő meghatározások szerinti, csökkenő súlyosságú kockázati kategóriák egyikébe kell sorolni, ahol az I. kategória a legsúlyosabb:
 
 a) I. kockázati kategória: a veszélyes áruk szállításáról szóló előírások (ADR) betartásának olyan elmulasztása, amely haláleset, súlyos személyi sérülés vagy jelentős környezetkárosodás okozásának nagyfokú kockázatával jár;
 
@@ -20,7 +20,7 @@ a) a szállított veszélyes áru fizikai és kémiai veszélyeztető hatását,
 
 b) veszélyes áru kiszabadulása nem következett be vagy a veszélyes áru kiszabadulásának közvetlen veszélye nem áll fenn.
 
-(5)[^32] A (4) bekezdésben meghatározott bírságcsökkentő tényező nem alkalmazható
+(5)[^33] A (4) bekezdésben meghatározott bírságcsökkentő tényező nem alkalmazható
 
 a) az ADR 3.2 fejezet „A” táblázat 15 oszlopa szerinti „0” és „1” szállítási kategóriába tartozó veszélyes áruk szállítása esetén,
 
@@ -28,8 +28,8 @@ b) a szállításból kizárt veszélyes áruk szállítása esetén, vagy
 
 c) az olyan veszélyes áru szállítmány esetén, amelyre az ADR nagy közbiztonsági kockázattal járó veszélyes árukra vonatkozó 1.10.3 szakasza előírásait kell alkalmazni.
 
-(6)[^33] A (3) és (4) bekezdésben meghatározott bírságcsökkentő tényezők nem alkalmazhatók, ha a veszélyes áru szállítás szabályainak megsértése következtében az ADR 1.8.5 szakasza szerinti esemény következett be.
+(6)[^34] A (3) és (4) bekezdésben meghatározott bírságcsökkentő tényezők nem alkalmazhatók, ha a veszélyes áru szállítás szabályainak megsértése következtében az ADR 1.8.5 szakasza szerinti esemény következett be.
 
-[^31]: A 6/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
-[^32]: A 6/A. § (5) bekezdése a 66/2021. (II. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^33]: A 6/A. § (6) bekezdését a 66/2021. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^32]: A 6/A. §-t a 372/2016. (XI. 29.) Korm. rendelet 8. §-a iktatta be.
+[^33]: A 6/A. § (5) bekezdése a 66/2021. (II. 16.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^34]: A 6/A. § (6) bekezdését a 66/2021. (II. 16.) Korm. rendelet 4. § (2) bekezdése iktatta be.

@@ -200,6 +200,6 @@
 
 | 100 | F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 325 000 | szállító |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^91]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^92]
 
-[^91]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^92]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

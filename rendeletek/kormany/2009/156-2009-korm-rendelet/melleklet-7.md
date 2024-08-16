@@ -18,6 +18,6 @@
 
 | 9 | 8. | Az állatoknak a berakodási és kirakodási műveletek során való kiesését vagy szökését megakadályozó biztonsági korlát nélküli emelőpadok és felső padozatok használata | SJ | 520 000 | szállító járművezető |
 
-7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
+7. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^100]
 
-[^99]: A 7. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
+[^100]: A 7. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (8) bekezdésével megállapított szöveg.
