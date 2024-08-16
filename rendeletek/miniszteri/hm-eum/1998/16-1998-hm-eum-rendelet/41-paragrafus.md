@@ -1,3 +1,3 @@
-## 40. §[^48]
+41. §[^51]
 
-[^48]: A 40. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^51]: A 41. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

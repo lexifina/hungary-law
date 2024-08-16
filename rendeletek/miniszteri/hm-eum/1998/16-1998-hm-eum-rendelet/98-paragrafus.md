@@ -1,3 +1,3 @@
-## 97. §[^105]
+98. §[^108]
 
-[^105]: A 97. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^108]: A 98. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

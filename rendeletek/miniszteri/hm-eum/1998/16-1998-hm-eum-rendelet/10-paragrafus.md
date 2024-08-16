@@ -10,17 +10,17 @@
 
 a) elfogadja
 
-aa)[^16]
+aa)[^12]
 
-ab)[^17] a légiforgalmi irányító, a repülőműszaki földi szakszemélyzet tagja esetében a szakszolgálati feladatkörben teljesített gyakorlati időt, valamint
+ab)[^13] a légiforgalmi irányító, a repülőműszaki földi szakszemélyzet tagja esetében a szakszolgálati feladatkörben teljesített gyakorlati időt, valamint
 
-ac)[^18]
+ac)[^14]
 
-b)[^19]
+b)[^15]
 
 c) felmentést adhat a hatósági vizsgát megelőző szaktanfolyam elvégzése alól.
 
-[^16]: A 10. § (4) bekezdés a) pont aa) alpontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,
-[^17]: A 10. § (4) bekezdés a) pont ab) alpontja a 6/2022. (III. 30.) HM rendelet 136. § e) pontja szerint módosított szöveg.
-[^18]: A 10. § (4) bekezdés a) pont ac) alpontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,
-[^19]: A 10. § (4) bekezdés b) pontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,
+[^12]: A 10. § (4) bekezdés a) pont aa) alpontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,
+[^13]: A 10. § (4) bekezdés a) pont ab) alpontja a 6/2022. (III. 30.) HM rendelet 136. § e) pontja szerint módosított szöveg.
+[^14]: A 10. § (4) bekezdés a) pont ac) alpontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,
+[^15]: A 10. § (4) bekezdés b) pontját a 6/2022. (III. 30.) HM rendelet 136. § e) pontja hatályon kívül helyezte,

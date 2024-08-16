@@ -1,5 +1,5 @@
-## 77. §[^85]
-
 ## Oktató fedélzeti mérnök, fedélzeti szerelő szakszolgálati engedély
 
-[^85]: A 77. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+78. §[^88]
+
+[^88]: A 78. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

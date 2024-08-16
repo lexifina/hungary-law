@@ -1,3 +1,3 @@
-## 91. §[^99]
+92. §[^102]
 
-[^99]: A 91. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^102]: A 92. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

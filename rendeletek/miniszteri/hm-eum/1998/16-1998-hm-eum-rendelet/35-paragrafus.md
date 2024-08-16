@@ -1,3 +1,3 @@
-## 34. §[^42]
+35. §[^45]
 
-[^42]: A 34. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^45]: A 35. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

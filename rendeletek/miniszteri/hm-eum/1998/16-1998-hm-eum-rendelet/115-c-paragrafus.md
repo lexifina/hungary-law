@@ -1,6 +1,6 @@
 ## 115/B. § Az ellenőri légiforgalmi irányító szakszolgálati engedély az engedélyest jelen rendelet alapján légiforgalmi irányítói szolgálatot ellátó szakszemélyzet ellenőrzésére, felügyeletére jogosítja.
 
-## Légiforgalmi irányító szakszolgálati engedély kiterjesztése más repülőterekre[^118]
+## Légiforgalmi irányító szakszolgálati engedély kiterjesztése más repülőterekre[^120]
 
 115/C. § (1) A légiforgalmi irányító szakszolgálati engedély kiterjeszthető a megszerzés helyétől eltérő állami repülések céljára szolgáló repülőterekre is.
 
@@ -34,6 +34,7 @@ b) a megszerzés helye szerinti repülőtéren egy éven belül szakszolgálati 
 
 c) nem teljesíti a megszerzés helye szerinti repülőtéren az adott szakszolgálati engedély időbeli hatályának meghosszabbításához e rendeletben előírt feltételeket és a megszerzés helyétől eltérő repülőtéren a (4) bekezdésben előírt feltételeket.
 
-(7) A megszerzés helyétől eltérő állami repülések céljára szolgáló repülőtérre megszerzett légiforgalmi irányítói kiterjesztés megújításának feltételeire a (2) bekezdést kell alkalmazni.
+(7)[^121] A megszerzés helyétől eltérő állami repülések céljára szolgáló repülőtérre megszerzett légiforgalmi irányítói kiterjesztés megújításának feltételeire a (2) bekezdést kell alkalmazni.
 
-[^118]: A „Légiforgalmi irányító szakszolgálati engedély kiterjesztése más repülőterekre” alcímet (115/C. §) a 12/2020. (VII. 21.) HM rendelet 3. §-a iktatta be.
+[^120]: A „Légiforgalmi irányító szakszolgálati engedély kiterjesztése más repülőterekre” alcímet (115/C. §) a 12/2020. (VII. 21.) HM rendelet 3. §-a iktatta be.
+[^121]: A 115/C. § (7) bekezdés záró szövegrészét a 15/2024. (VIII. 15.) HM rendelet 4. §-a iktatta be.

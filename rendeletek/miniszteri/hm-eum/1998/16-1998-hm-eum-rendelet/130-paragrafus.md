@@ -1,4 +1,4 @@
-## 129. §[^147] Az ellenőri repülőműszaki szakszolgálati engedély az engedélyest repülőműszaki földi szakszemélyzet ellenőrzésére, felügyeletére jogosítja.
+## 129. §[^151] Az ellenőri repülőműszaki szakszolgálati engedély az engedélyest repülőműszaki földi szakszemélyzet ellenőrzésére, felügyeletére jogosítja.
 
 ## ÖTÖDIK RÉSZ
 
@@ -6,4 +6,4 @@
 
 ## Záró rendelkezések
 
-[^147]: A 129. § a 11/2021. (IV. 1.) HM rendelet 4. § j) pontja szerint módosított szöveg.
+[^151]: A 129. § a 11/2021. (IV. 1.) HM rendelet 4. § j) pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 43. §[^51]
+44. §[^54]
 
-[^51]: A 43. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^54]: A 44. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

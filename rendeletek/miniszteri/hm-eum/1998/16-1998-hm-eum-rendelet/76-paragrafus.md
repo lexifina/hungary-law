@@ -1,3 +1,3 @@
-## 75. §[^83]
+76. §[^86]
 
-[^83]: A 75. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^86]: A 76. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

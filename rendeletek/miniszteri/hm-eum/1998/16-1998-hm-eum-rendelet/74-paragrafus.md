@@ -1,3 +1,3 @@
-## 73. §[^81]
+74. §[^84]
 
-[^81]: A 73. §-t a 12/2020. (VII. 21.) HM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^84]: A 74. §-t a 12/2020. (VII. 21.) HM rendelet 6. § b) pontja hatályon kívül helyezte.

@@ -1,5 +1,3 @@
-## 95. §[^103]
-
 ## NEGYEDIK RÉSZ
 
 ## A LÉGIKÖZLEKEDÉSSEL ÖSSZEFÜGGŐ TEVÉKENYSÉGET FOLYTATÓ SZAKSZEMÉLYZETEK SZAKSZOLGÁLATI ENGEDÉLYE
@@ -10,4 +8,6 @@
 
 ## Oktató ejtőernyős szakszolgálati engedély
 
-[^103]: A 95. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+96. §[^106]
+
+[^106]: A 96. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

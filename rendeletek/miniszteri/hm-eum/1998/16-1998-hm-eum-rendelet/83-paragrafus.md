@@ -1,3 +1,3 @@
-## 82. §[^90]
+83. §[^93]
 
-[^90]: A 82. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^93]: A 83. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

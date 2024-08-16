@@ -1,3 +1,3 @@
-## 54. §[^62]
+55. §[^65]
 
-[^62]: Az 54. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^65]: Az 55. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

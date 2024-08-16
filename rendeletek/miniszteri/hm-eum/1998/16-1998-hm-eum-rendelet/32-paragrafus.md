@@ -4,7 +4,7 @@ a) ,,megfelelt'',
 
 b) ,,nem felelt meg''
 
-## minősítést kell alkalmazni.
+minősítést kell alkalmazni.
 
 (2) Ha a vizsgázó az elméleti vagy gyakorlati vizsga során valamelyik tantárgyból vagy gyakorlati elemből ,,nem felelt meg'' minősítést kap, pótvizsgára kell utalni. Ha a vizsgázó három vagy több tantárgyból ,,nem felelt meg'' minősítést kap, a teljes vizsgát meg kell ismételnie. A pótvizsgára legkorábban a sikeres vizsgát követően tizenöt nap elteltével kerülhet sor.
 

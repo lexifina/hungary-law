@@ -1,6 +1,6 @@
-## 115. §[^116] Az oktató szakszolgálati engedély időbeli hatályának meghosszabbítására repülőtéri irányító esetében a 106. §, bevezető irányító esetén a 109. §, körzeti irányító esetén a 112. § irányadó.
+## 115. §[^118] Az oktató szakszolgálati engedély időbeli hatályának meghosszabbítására repülőtéri irányító esetében a 106. §, bevezető irányító esetén a 109. §, körzeti irányító esetén a 112. § irányadó.
 
-## Ellenőri légiforgalmi irányító szakszolgálati engedély[^117]
+## Ellenőri légiforgalmi irányító szakszolgálati engedély[^119]
 
 115/A. § (1) Az ellenőri légiforgalmi irányító szakszolgálati engedély kiadásának feltétele, hogy a pályázó felsőfokú szakirányú végzettséggel rendelkezzen, továbbá hogy az állományilletékes parancsnok a pályázót az állami légijárművek légiforgalmi irányításának bármely szakterületén ellenőrzési feladatra kijelölte.
 
@@ -8,5 +8,5 @@
 
 (3) A gyakorlati vizsga tartalma a pályázott szakterületnek megfelelő ellenőrzési feladat bemutatása.
 
-[^116]: A 115. § a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^117]: Az „Ellenőri légiforgalmi irányító szakszolgálati engedély” alcímet (115/A–115/B. §) a 12/2020. (VII. 21.) HM rendelet 3. §-a iktatta be.
+[^118]: A 115. § a 6/2010. (III. 30.) HM–EüM együttes rendelet 1. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 4. § (1) bekezdése alapján a 2010. április 7-ét követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^119]: Az „Ellenőri légiforgalmi irányító szakszolgálati engedély” alcímet (115/A–115/B. §) a 12/2020. (VII. 21.) HM rendelet 3. §-a iktatta be.

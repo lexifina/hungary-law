@@ -1,5 +1,5 @@
-## 38. §[^46]
-
 ## Berepülő repülőgépvezető szakszolgálati engedély
 
-[^46]: A 38. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+39. §[^49]
+
+[^49]: A 39. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

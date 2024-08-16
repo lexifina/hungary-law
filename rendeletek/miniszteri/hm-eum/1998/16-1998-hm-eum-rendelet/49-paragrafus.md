@@ -1,3 +1,3 @@
-## 48. §[^56]
+49. §[^59]
 
-[^56]: A 48. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^59]: A 49. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

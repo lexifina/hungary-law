@@ -1,3 +1,3 @@
-## 51. §[^59]
+52. §[^62]
 
-[^59]: Az 51. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^62]: Az 52. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

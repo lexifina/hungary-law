@@ -1,3 +1,3 @@
-## 99. §[^107]
+100. §[^110]
 
-[^107]: A 99. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^110]: A 100. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

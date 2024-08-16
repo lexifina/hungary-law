@@ -1,9 +1,9 @@
-## 71. §[^79]
-
 ## X. Fejezet
 
 ## FEDÉLZETI LÖVÉSZ-HELIKOPTERVEZETŐ SZAKSZOLGÁLATI ENGEDÉLY
 
 ## Fedélzeti lövész-helikoptervezető szakszolgálati engedély
 
-[^79]: A 71. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+72. §[^82]
+
+[^82]: A 72. §-t a 12/2020. (VII. 21.) HM rendelet 6. § b) pontja hatályon kívül helyezte.

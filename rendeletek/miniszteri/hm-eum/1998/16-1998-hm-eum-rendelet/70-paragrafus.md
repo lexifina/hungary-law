@@ -1,3 +1,3 @@
-## 69. §[^77]
+70. §[^80]
 
-[^77]: A 69. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^80]: A 70. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

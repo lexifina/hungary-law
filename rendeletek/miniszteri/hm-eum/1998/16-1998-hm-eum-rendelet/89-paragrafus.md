@@ -1,3 +1,3 @@
-## 88. §[^96]
+89. §[^99]
 
-[^96]: A 88. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.
+[^99]: A 89. §-t a 6/2022. (III. 30.) HM rendelet 136. § i) pontja hatályon kívül helyezte.

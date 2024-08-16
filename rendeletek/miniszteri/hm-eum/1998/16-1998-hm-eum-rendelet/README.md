@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-16-20-1
 | 2020-07-29 | 1998-16-20-15.9 | 12/2020. (VII. 21.) HM rendelet |
 | 2021-05-01 | 1998-16-20-15.10 | 11/2021. (IV. 1.) HM rendelet |
 | 2022-04-29 | 1998-16-20-15.11 | 6/2022. (III. 30.) HM rendelet |
+| 2024-08-16 | 1998-16-20-15.12 | 15/2024. (VIII. 15.) HM rendelet |
