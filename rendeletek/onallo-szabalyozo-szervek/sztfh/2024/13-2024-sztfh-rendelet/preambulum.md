@@ -1,0 +1,5 @@
+A fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (5) bekezdés a) és b) pontjában kapott felhatalmazás alapján,
+
+a 2. és 3. alcím, valamint az 1. és 3–5. melléklet tekintetében a fenntartható finanszírozás és az egységes vállalati felelősségvállalás ösztönzését szolgáló környezettudatos, társadalmi és szociális szempontokat is figyelembe vevő, vállalati társadalmi felelősségvállalás szabályairól és azzal összefüggő egyéb törvények módosításáról szóló 2023. évi CVIII. törvény 52. § (6) bekezdésében kapott felhatalmazás alapján,
+
+a Szabályozott Tevékenységek Felügyeleti Hatóságáról szóló 2021. évi XXXII. törvény 13. § n) pontjában és 13/A. § 1. pontjában meghatározott feladatkörömben eljárva – a 2. és 3. alcím, valamint az 1. és 3–5. melléklet tekintetében a Nemzeti ESG Tanács véleményének kikérésével – a következőket rendelem el:

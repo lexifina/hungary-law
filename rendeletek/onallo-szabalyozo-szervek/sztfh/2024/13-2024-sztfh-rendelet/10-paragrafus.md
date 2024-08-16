@@ -1,0 +1,1 @@
+10. § A vállalkozás által létrehozott és működtetett kockázatelemzési rendszert legalább 12 havi gyakorisággal felül kell vizsgálni, illetve el kell végezni az ehhez kapcsolódó jelentéstételi folyamat átfogó értékelését, amelynek során szükséges kitérni a tapasztalt hiányosságok javítása kapcsán megtett, illetve lehetséges intézkedésekre és az e tekintetben elérni kívánt célokra.
