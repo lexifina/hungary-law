@@ -4,19 +4,19 @@
 
 a) körét;
 
-b)[^24] elérhetőségét; valamint
+b)[^27] elérhetőségét; valamint
 
 c) megfizethetőségét.
 
 (2) Az Elnök az (1) bekezdés c) pontja szerinti vizsgálat során különösen a következő szempontokat veszi figyelembe:
 
-a)[^25] a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás igénybevételével kapcsolatban a különleges szociális helyzetű fogyasztóknál felmerülő többletköltségeket,;
+a)[^28] a 3. § (1) bekezdése szerinti sávszélességű egyetemes szolgáltatás igénybevételével kapcsolatban a különleges szociális helyzetű fogyasztóknál felmerülő többletköltségeket,;
 
 b) a különleges szociális helyzetű fogyasztók által igénybe vett hírközlési szolgáltatásokat, azok volumenét, az ezekkel kapcsolatos kiadásokat;
 
 c) a különleges szociális helyzetű fogyasztók jövedelmi helyzetét, fogyasztási jellegű kiadásait és
 
-d)[^26] a 4. melléklet 2. pont a) alpontja és 2. pont b) alpontja szerinti támogatás, járadék mértékét, annak az a) pont szerinti többletköltségekhez viszonyított arányát.
+d)[^29] a 4. melléklet 2. pont a) alpontja és 2. pont b) alpontja szerinti támogatás, járadék mértékét, annak az a) pont szerinti többletköltségekhez viszonyított arányát.
 
 (3) Az (1) bekezdés szerinti vizsgálat során az Elnök felhasználhatja különösen:
 
@@ -30,6 +30,6 @@ d) a (4) bekezdés szerinti adatszolgáltatásból származó adatokat.
 
 (4) Az (1) bekezdés szerinti vizsgálat elvégzéséhez az egyetemes szolgáltatóként kijelölt szolgáltatók az Elnök határozatában foglaltak szerint adatszolgáltatásra kötelesek.
 
-[^24]: A 41. § (1) bekezdés b) pontja az 1/2024. (I. 9.) NMHH rendelet 3. § a) pontja szerint módosított szöveg.
-[^25]: A 41. § (2) bekezdés a) pontja az 1/2024. (I. 9.) NMHH rendelet 2. § a) pontja és 3. § b) pontja szerint módosított szöveg.
-[^26]: A 41. § (2) bekezdés d) pontja az 1/2024. (I. 9.) NMHH rendelet 2. § b) pontja szerint módosított szöveg.
+[^27]: A 41. § (1) bekezdés b) pontja az 1/2024. (I. 9.) NMHH rendelet 3. § a) pontja szerint módosított szöveg.
+[^28]: A 41. § (2) bekezdés a) pontja az 1/2024. (I. 9.) NMHH rendelet 2. § a) pontja és 3. § b) pontja szerint módosított szöveg.
+[^29]: A 41. § (2) bekezdés d) pontja az 1/2024. (I. 9.) NMHH rendelet 2. § b) pontja szerint módosított szöveg.

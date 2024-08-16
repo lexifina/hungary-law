@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-19-20-3
 | 2022-06-23 | 2020-19-20-3H.4 | 4/2022. (VI. 20.) NMHH rendelet |
 | 2022-08-28 | 2020-19-20-3H.5 | 6/2022. (VIII. 25.) NMHH rendelet |
 | 2024-01-17 | 2020-19-20-3H.6 | 1/2024. (I. 9.) NMHH rendelet |
+| 2024-08-16 | 2020-19-20-3H.7 | 8/2024. (VIII. 8.) NMHH rendelet |

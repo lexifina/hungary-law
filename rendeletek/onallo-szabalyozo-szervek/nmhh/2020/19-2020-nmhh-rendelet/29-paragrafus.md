@@ -14,10 +14,16 @@ d) az e rendeletben és az ajánlati felhívásban meghatározott érvényesség
 
 (3) Ha valamely szolgáltatáselemre vagy – ha értelmezhető – földrajzi területre vonatkozóan nem kerül sor ajánlat benyújtására, vagy az Elnök valamennyi benyújtott ajánlatot érvénytelennek nyilvánította, az Elnök
 
-a) a 23. § (1) bekezdés a) és c) pontjában szereplő szolgáltatáselem esetén az adott területen a helyhez kötött telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót vagy
+a)[^24] a 23. § (1) bekezdés c) pontjában szereplő szolgáltatáselem esetén az adott területen a helyhez kötött telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót
 
 b) a 23. § (1) bekezdés b) pontjában szereplő szolgáltatáselem esetén az ország területén a helyhez kötött telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót
 
+c)[^25] a 23. § (1) bekezdés a) pontjában szereplő szolgáltatáselem esetén az adott területen a szolgáltatáselem nyújtására a korábbi kijelölési eljárásban hozott határozatban kijelölt szolgáltatót vagy annak jogutódját, ezek hiányában az adott területen a helyhez kötött telefonszolgáltatás előfizetőinek száma alapján legnagyobb piaci részesedéssel rendelkező szolgáltatót
+
 jelöli ki egyetemes szolgáltatóként.
 
-(4) A (3) bekezdés alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként jelöl ki, és a kijelölési határozatban rögzíti a vállalkozáscsoportba tartozó egyes szolgáltatók kötelezettségeit.
+(4)[^26] A (3) bekezdés a) és b) pontjának alkalmazása során az Elnök azon szolgáltatókat, amelyek a Tpvt. 15. §-a szerint egy vállalkozáscsoportba tartoznak, egy szolgáltatóként veszi figyelembe, és ha e szolgáltató egyetemes szolgáltatóként történő kijelölése indokolt, az Elnök a vállalkozáscsoportba tartozó minden szolgáltatót egyetemes szolgáltatóként jelöl ki, és a kijelölési határozatban rögzíti a vállalkozáscsoportba tartozó egyes szolgáltatók kötelezettségeit.
+
+[^24]: A 29. § (3) bekezdés a) pontja a 8/2024. (VIII. 8.) NMHH rendelet 3. §-a szerint módosított szöveg.
+[^25]: A 29. § (3) bekezdés c) pontját a 8/2024. (VIII. 8.) NMHH rendelet 1. §-a iktatta be.
+[^26]: A 29. § (4) bekezdése a 8/2024. (VIII. 8.) NMHH rendelet 2. §-a szerint módosított szöveg.
