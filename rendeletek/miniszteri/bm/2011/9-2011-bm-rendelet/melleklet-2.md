@@ -454,7 +454,33 @@
 
 ## 44.[^45] 81.21 Általános épülettakarítás kizárólag a büntetés-végrehajtás vonatkozásában.
 
-2. melléklet a 9/2011. (III. 23.) BM rendelethez[^46]
+## 45.[^46] 20.41 Tisztítószer gyártása
+
+## a) Mosogatószerek.
+
+## b) Padlófelmosó koncentrátumok.
+
+## c) Ablaktisztítók.
+
+## d) Alkoholos felületfertőtlenítő szerek.
+
+## 46.[^47] 20.42 Testápolási cikk gyártása
+
+## a) Folyékony szappanok.
+
+## b) Hintőporok.
+
+## c) Kézápoló balzsamok.
+
+## d) Tusfürdők.
+
+## e) Fertőtlenítő hatású folyékony szappanok.
+
+## f) Kéz- és bőrfertőtlenítő gélek.
+
+## g) Kéz- és bőrfertőtlenítő spray-k.
+
+2. melléklet a 9/2011. (III. 23.) BM rendelethez[^48]
 
 A Kedvezményezettek köre
 
@@ -514,4 +540,6 @@ A Kedvezményezettek köre
 [^43]: Az 1. melléklet 42. pontját a 22/2021. (VII. 14.) BM rendelet 1. §-a iktatta be.
 [^44]: Az 1. melléklet 43. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
 [^45]: Az 1. melléklet 44. pontját a 64/2022. (XII. 27.) BM rendelet 1. § a) pontja iktatta be.
-[^46]: A 2. melléklet a 64/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
+[^46]: Az 1. melléklet 45. pontját a 35/2024. (VIII. 8.) BM rendelet 1. §-a iktatta be.
+[^47]: Az 1. melléklet 46. pontját a 35/2024. (VIII. 8.) BM rendelet 1. §-a iktatta be.
+[^48]: A 2. melléklet a 64/2022. (XII. 27.) BM rendelet 1. § b) pontjával megállapított szöveg.
