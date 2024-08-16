@@ -8,7 +8,7 @@ b) atomerőműnél csak a felszíni vizekbe,
 
 c) egyéb létesítményeknél csak a közcsatornába
 
-## engedélyezhető.
+engedélyezhető.
 
 (2) Nem engedélyezhető folyékony radioaktív kibocsátás
 

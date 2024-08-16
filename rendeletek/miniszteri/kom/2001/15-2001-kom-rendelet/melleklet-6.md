@@ -2,9 +2,9 @@
 
 I. A radioaktív kibocsátások hatósági ellenőrzése
 
-1.[^29] A környezetvédelmi hatóságnak az illetékességi területén működő kiemelt létesítményekre vonatkozó éves mintavételi és mérési programjának végrehajtása elősegíti annak megítélését, hogy a létesítmény által a 4. számú melléklet szerint szolgáltatott kibocsátási adatok helytállóak-e. A környezetvédelmi hatóság együttműködik a létesítménnyel annak kibocsátás-ellenőrzési programjában, de megfelelő számú és gyakoriságú független mintavételt és mérést is végez.
+1.[^30] A környezetvédelmi hatóságnak az illetékességi területén működő kiemelt létesítményekre vonatkozó éves mintavételi és mérési programjának végrehajtása elősegíti annak megítélését, hogy a létesítmény által a 4. számú melléklet szerint szolgáltatott kibocsátási adatok helytállóak-e. A környezetvédelmi hatóság együttműködik a létesítménnyel annak kibocsátás-ellenőrzési programjában, de megfelelő számú és gyakoriságú független mintavételt és mérést is végez.
 
-2.[^30] A környezetvédelmi hatóság éves kibocsátás-ellenőrzési programja minden egyes kibocsátási módra és útvonalra tartalmazza:
+2.[^31] A környezetvédelmi hatóság éves kibocsátás-ellenőrzési programja minden egyes kibocsátási módra és útvonalra tartalmazza:
 
 a) a létesítménytől függetlenül elvégzendő mintavételek,
 
@@ -20,19 +20,19 @@ számát, időbeni ütemezését, a minták fajtáját és mennyiségét, valami
 
 II. A levegő és a vízi környezet radioaktív szennyeződésének ellenőrzése
 
-1.[^31] A környezetvédelmi hatóságok éves mintavételi és mérési programjuk szerint, más ellenőrző és információs rendszerekkel együttműködve ellátják a levegő és vízi környezet radioaktív szennyeződésének ellenőrzését:
+1.[^32] A környezetvédelmi hatóságok éves mintavételi és mérési programjuk szerint, más ellenőrző és információs rendszerekkel együttműködve ellátják a levegő és vízi környezet radioaktív szennyeződésének ellenőrzését:
 
 a) országos ellenőrzés keretében, továbbá
 
 b) a kiemelt létesítmények környezetében kiemelt program szerint.
 
-2.[^32] A környezetvédelmi hatóság által működtetett mérőlaboratórium által vizsgált minták:
+2.[^33] A környezetvédelmi hatóság által működtetett mérőlaboratórium által vizsgált minták:
 
 a) levegő: elemi, szerves és szervetlen vegyület, aeroszol összetevők, valamint radionuklid kihullás,
 
 b) vízi környezet: talaj- és felszíni vizek, felszíni vizek szedimentuma, indikátor vízinövények, hal, indokolt esetben más vízi élőlény is.
 
-3.[^33] Az országos ellenőrző programban a mintavételi helyek kijelölésénél figyelembe kell venni a korábbi ellenőrzési gyakorlatot, továbbá a hazai és nemzetközi adatszolgáltatási kötelezettségeket is. A levegő ellenőrzésére környezetvédelmi hatóságonként egy-egy mintavételi pont, a jelentősebb felszíni vizeknél és vízbázisoknál legalább egy-egy mintavételi hely kijelölése indokolt.
+3.[^34] Az országos ellenőrző programban a mintavételi helyek kijelölésénél figyelembe kell venni a korábbi ellenőrzési gyakorlatot, továbbá a hazai és nemzetközi adatszolgáltatási kötelezettségeket is. A levegő ellenőrzésére környezetvédelmi hatóságonként egy-egy mintavételi pont, a jelentősebb felszíni vizeknél és vízbázisoknál legalább egy-egy mintavételi hely kijelölése indokolt.
 
 4. A mintavételi helyeket kiemelt létesítményeknél a kibocsátási útvonalak, meteorológiai és egyéb olyan jellemzők figyelembevételével kell meghatározni, amelyek eredményeként a környezet egyes részein nagyobb szennyeződési szintek alakulhatnak ki. A mintavételi pontok száma a létesítménytől függően 1–5 legyen.
 
@@ -42,8 +42,8 @@ b) vízi környezet: talaj- és felszíni vizek, felszíni vizek szedimentuma, i
 
 7. Az aktivitás-koncentrációk, aktivitások meghatározására általában nuklidspecifikus mérési módszereket kell alkalmazni.Az összes-béta mérési eredmények csak a változások kimutatására szolgáló előszűrő vizsgálatok indikátor mennyiségeként fogadhatók el, amelyeket szükség esetén mindenképpen ki kell egészíteni a megfelelő nuklidspecifikus elemzésekkel.
 
-[^29]: A 6. számú melléklet I. rész 1. pontja a 15/2015. (III. 31.) FM rendelet 7. § o)–p) pontja szerint módosított szöveg.
-[^30]: A 6. számú melléklet I. rész 2. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § q) pontja szerint módosított szöveg.
-[^31]: A 6. számú melléklet II. rész 1. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § r) pontja szerint módosított szöveg.
-[^32]: A 6. számú melléklet II. rész 2. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § s) pontja szerint módosított szöveg.
-[^33]: A 6. számú melléklet II. rész 3. pontja a 15/2015. (III. 31.) FM rendelet 7. § t) pontja szerint módosított szöveg.
+[^30]: A 6. számú melléklet I. rész 1. pontja a 15/2015. (III. 31.) FM rendelet 7. § o)–p) pontja szerint módosított szöveg.
+[^31]: A 6. számú melléklet I. rész 2. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § q) pontja szerint módosított szöveg.
+[^32]: A 6. számú melléklet II. rész 1. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § r) pontja szerint módosított szöveg.
+[^33]: A 6. számú melléklet II. rész 2. pont nyitó szövegrésze a 15/2015. (III. 31.) FM rendelet 7. § s) pontja szerint módosított szöveg.
+[^34]: A 6. számú melléklet II. rész 3. pontja a 15/2015. (III. 31.) FM rendelet 7. § t) pontja szerint módosított szöveg.

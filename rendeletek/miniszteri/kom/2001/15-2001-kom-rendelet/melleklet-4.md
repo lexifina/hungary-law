@@ -1,6 +1,6 @@
 4. számú melléklet a 15/2001. (VI. 6.) KöM rendelethez
 
-## Az üzemeltetés kibocsátás-ellenőrzési követelményei
+Az üzemeltetés kibocsátás-ellenőrzési követelményei
 
 1. Kiemelt létesítménynél:
 
@@ -10,7 +10,7 @@
 
 1.3. A kibocsátások mérését a kibocsátási útvonalakon kell végezni.
 
-1.4.[^28] Az engedélyes reprezentatív mintavétellel ellenőrzi a légköri és vízi kibocsátást az összes lehetséges kibocsátási útvonalon. Együttműködik a környezetvédelmi hatósággal annak ellenőrzési programjának végrehajtásában.
+1.4.[^29] Az engedélyes reprezentatív mintavétellel ellenőrzi a légköri és vízi kibocsátást az összes lehetséges kibocsátási útvonalon. Együttműködik a környezetvédelmi hatósággal annak ellenőrzési programjának végrehajtásában.
 
 1.5. A minták mennyiségét, a minta-előkészítést, továbbá az alkalmazott mérőeszköz érzékenységét és a mérési időt úgy kell megválasztani, hogy a kimutatási határ lehetőleg biztosítsa a kibocsátott radionuklidok aktivitásának meghatározását. A kimutatási határ alatti mennyiségeket a kibocsátások meghatározásánál a kimutatási határral kell figyelembe venni.
 
@@ -56,4 +56,4 @@
 
 2. Egyéb létesítmények esetén a kibocsátási határérték betartásának, illetve a kibocsátási határérték kritérium teljesülésének igazolásához a beérkező és felhasznált, valamint lebomlott radionuklidok aktivitásának ismeretében kell a kibocsátást becsülni.
 
-[^28]: A 4. számú melléklet 1. pont 1.4. pontja a 15/2015. (III. 31.) FM rendelet 7. § n) pontja szerint módosított szöveg.
+[^29]: A 4. számú melléklet 1. pont 1.4. pontja a 15/2015. (III. 31.) FM rendelet 7. § n) pontja szerint módosított szöveg.

@@ -1,5 +1,3 @@
-## valamint a fenti tevékenységeket végzőkre.
-
 ## Alapfogalmak
 
 ## 2. § E rendelet alkalmazásában

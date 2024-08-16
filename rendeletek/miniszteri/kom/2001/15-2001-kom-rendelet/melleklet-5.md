@@ -1,6 +1,6 @@
 5. számú melléklet a 15/2001. (VI. 6.) KöM rendelethez
 
-## Az üzemeltetés környezet-ellenőrzési követelményei
+Az üzemeltetés környezet-ellenőrzési követelményei
 
 1. A kiemelt létesítmények környezeti sugárvédelmi ellenőrzésének célja:
 
