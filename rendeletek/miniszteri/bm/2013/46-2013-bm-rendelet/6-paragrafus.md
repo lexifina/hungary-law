@@ -1,6 +1,6 @@
 ## 3. A teljesítményértékelés kötelező és ajánlott elemeinek súlyozása
 
-6. § (1)[^13] A teljesítményértékelés eredményének megállapításakor – ha az értékelt személy részére ajánlott elem került megállapításra – az egyes teljesítményelemek súlyozása:
+6. § (1)[^16] A teljesítményértékelés eredményének megállapításakor – ha az értékelt személy részére ajánlott elem került megállapításra – az egyes teljesítményelemek súlyozása:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 35%,
 
@@ -20,7 +20,7 @@ c) – ha annak meghatározására sor került – a 3. § (2) bekezdés b) pont
 
 értékelésének a részeredményeit egyenlő mértékben kell figyelembe venni.
 
-(3)[^14] A teljesítményértékelés eredményének megállapításakor – ha az értékelt személy részére ajánlott elem nem került megállapításra – az egyes teljesítményelemek súlyozása a következő:
+(3)[^17] A teljesítményértékelés eredményének megállapításakor – ha az értékelt személy részére ajánlott elem nem került megállapításra – az egyes teljesítményelemek súlyozása a következő:
 
 a) a teljesítményértékelés kötelező elemeként meghatározott munkaköri egyéni teljesítménykövetelmények: 45%,
 
@@ -28,5 +28,8 @@ b) a teljesítményértékelés kötelező elemeként meghatározott kompetencia
 
 c) a szervezeti teljesítményértékelés eredménye: 10%.
 
-[^13]: A 6. § (1) bekezdés nyitó szövegrésze a 9/2018. (IV. 25.) BM rendelet 69. §-a szerint módosított szöveg.
-[^14]: A 6. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 68. §-a iktatta be.
+(4)[^18] Ha év közbeni többletfeladatok megállapítására kerül sor, ezen teljesítményértékelési elem értékelését 5%-os súlyozással kell figyelembe venni a teljesítményértékelés során, egyidejűleg az egyéni teljesítménykövetelmények (1) bekezdés a) pontja szerint súlyozását 5%-kal csökkenteni kell.
+
+[^16]: A 6. § (1) bekezdés nyitó szövegrésze a 9/2018. (IV. 25.) BM rendelet 69. §-a szerint módosított szöveg.
+[^17]: A 6. § (3) bekezdését a 9/2018. (IV. 25.) BM rendelet 68. §-a iktatta be.
+[^18]: A 6. § (4) bekezdését a 34/2024. (VIII. 8.) BM rendelet 26. §-a iktatta be.

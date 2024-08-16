@@ -1,4 +1,4 @@
-## Értékelő lap a hivatásos állomány tagja részére meghatározott kompetenciákról és a kompetenciaszintek értékeléséről
+## 3K65986_0
 
 | s.sz. | Kompetencia | Az értékelő funkciója | Teljesítményfokozatok |
 
@@ -31,3 +31,5 @@
 |  |  |  | 100- 99 | 98- 97 | 96- 95 | 94- 93 | 92- 91 | 90- 87 | 86- 83 | 82- 79 | 78- 75 | 74- 71 | 70- 67 | 66- 63 | 62- 59 | 58- 55 | 54- 51 | 50- 49 | 48- 47 | 46- 45 | 44- 43 | 42- 41 | 40- 33 | 32- 25 | 24- 17 | 16-9 | 8-0 |
 
 3. melléklet a 46/2013. (VIII. 16.) BM rendelethez
+
+Értékelő lap a fejlesztési cél meghatározásáról és értékeléséről

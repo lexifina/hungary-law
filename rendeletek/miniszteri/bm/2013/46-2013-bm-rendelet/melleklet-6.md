@@ -1,4 +1,4 @@
-## Értékelő lap az év közbeni többletfeladatok meghatározásáról és értékeléséről
+## 3K65989_0
 
 |  | s.sz. | Teljesítmény- követelmények | Az értékelés formája és az értékelő funkciója | Teljesítményfokozatok |
 
@@ -18,6 +18,8 @@
 
 |  |  |  | 100- 99 | 98- 97 | 96- 95 | 94- 93 | 92- 91 | 90- 87 | 86- 83 | 82- 79 | 78- 75 | 74- 71 | 70- 67 | 66- 53 | 62- 59 | 58- 55 | 54- 51 | 50- 49 | 48- 47 | 46- 45 | 44- 43 | 42- 41 | 40- 33 | 32- 25 | 24- 17 | 16- 9 | 8-0 |
 
-6. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^31]
+6. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^37]
 
-[^31]: A 6. melléklet a 36/2015. (VI. 16.) BM rendelet 36. §-ával megállapított szöveg.
+Összesített értékelő lap
+
+[^37]: A 6. melléklet a 36/2015. (VI. 16.) BM rendelet 36. §-ával megállapított szöveg.

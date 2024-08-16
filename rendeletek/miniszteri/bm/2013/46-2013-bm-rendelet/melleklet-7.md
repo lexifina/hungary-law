@@ -1,5 +1,3 @@
-## Összesített értékelő lap
-
 |  | s.sz. | Értékelési modul |  |  | Teljesítményfokozatok |
 
 | Az értéke- lés ideje | Az értékelő funkciója | 100% | <-------------------------------------------------------------------------------------------------------- | 0% |
@@ -40,56 +38,64 @@
 
 ## Kelt, ................ év ........... hó ....... nap
 
+## 5K07645_1
+
 | ........................................................... értékelt személy | ........................................................... értékelő vezető |
 
-7. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^32]
+7. melléklet a 46/2013. (VIII. 16.) BM rendelethez[^38]
 
-## MINŐSÍTŐ LAP
+A minősítőlap kötelező adattartalma
 
-………. évre
+1. Azon év megjelölése, amelyre a minősítés vonatkozik;
 
-Név:
+2. a hivatásos állomány tagjának
 
-Szolgálati hely:
+2.1. neve,
 
-Beosztás:
+2.2. szolgálati helye,
 
-Éves teljesítményértékelésének eredménye:
+2.3. szolgálati beosztása,
 
-Minősítés
+2.4. éves teljesítményértékelésének eredménye;
 
-1. A minősített képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelése:
+3. a minősítés, ezen belül
 
-2. A minősített beosztás ellátására való alkalmasságának értékelése:
+3.1. a minősített képességeinek és szolgálatteljesítéssel összefüggő személyes tulajdonságainak értékelése,
 
-3. A minősített fejleszthetőségére és előmenetelére vonatkozó következtetések:
+3.2. a minősített beosztás ellátására való alkalmasságának értékelése,
 
-Az értékelő vezető javaslata:
+3.3. a minősített fejleszthetőségére és előmenetelére vonatkozó következtetések;
 
-(a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 112. § (3) bekezdése, valamint az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 8. § (2) bekezdése alapján)
+4. az értékelő vezető javaslata személyzeti intézkedések megtételére, ezen belül
 
-A minősítést jóváhagyásra javasolom:
+4.1. a minősített vezetői és utánpótlási adatbankba történő felvételére vagy abból való törlésére irányuló javaslatra vonatkozó álláspont,
 
-dátum, értékelő vezető aláírása
+4.2. a minősített szolgálati viszonyának módosítására irányuló javaslatra vonatkozó álláspont,
 
-A minősítéssel egyetértek:
+4.3. a minősített szolgálati viszonyának alkalmatlanság miatti megszüntetésére irányuló javaslatra vonatkozó álláspont,
 
-dátum, kontrollvezető aláírása
+4.4. a minősített jelenlegi beosztására alkalmas javaslatra vonatkozó álláspont,
 
-Jóváhagyom:
+4.5. a minősített jutalmazására irányuló javaslatra vonatkozó álláspont,
 
-dátum, parancsnok aláírása
+4.6. a minősített képzésére irányuló javaslatra vonatkozó álláspont,
 
-_________________________________________________________________________
+4.7. teljesítményértékelés alapján a minősített teljesítményjuttatásban részesítésére irányuló javaslatra vonatkozó álláspont;
 
-Tájékoztatom, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 113. § (2) bekezdése alapján a minősítésben foglaltakkal szemben szolgálati panasszal élhet.
+5. a minősítést jóváhagyásra javasló értékelő vezető aláírása, keltezéssel;
 
-Záradék:
+6. a minősítési javaslattal egyetértő kontrollvezető aláírása, keltezéssel;
 
-A minősítéssel kapcsolatos észrevételeim:
+7. a minősítést jóváhagyó parancsnok aláírása, keltezéssel;
 
-A minősítésben foglaltakat megismertem, a tájékoztatás tudomásul vettem, a minősítés egy példányát átvettem.
+8. a hivatásos állomány tagjának tájékoztatása arról, hogy a Hszt. 113. § (2) bekezdése alapján a minősítésben foglaltakkal szemben szolgálati panasszal élhet;
 
-dátum, minősített aláírása
+9. a hivatásos állomány tagjának
 
-[^32]: A 7. melléklet a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 17. pontja szerint módosított szöveg.
+9.1. a minősítéssel kapcsolatos esetleges észrevételei,
+
+9.2. a minősítésben foglaltak megismerésére, a tájékoztatás tudomásul vételére és a minősítés átvételére vonatkozó nyilatkozata,
+
+9.3. aláírása, keltezéssel.
+
+[^38]: A 7. melléklet a 34/2024. (VIII. 8.) BM rendelet 31. §-ával megállapított szöveg.

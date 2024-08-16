@@ -1,4 +1,4 @@
-## A teljesítményértékelés kompetencia-térképe
+## 3K65985_0
 
 |  | A | B | C |
 
@@ -57,3 +57,5 @@
 | 27. | vezetési technikák (tervezőkészség, szervezőkészség, vezetés, irányítás, döntésképesség, követelménytámasztás, delegálás, ellenőrzés) | X |  |
 
 2. melléklet a 46/2013. (VIII. 16.) BM rendelethez
+
+Értékelő lap a hivatásos állomány tagja részére meghatározott kompetenciákról és a kompetenciaszintek értékeléséről

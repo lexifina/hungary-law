@@ -2,7 +2,7 @@
 
 1. § (1) E rendelet alkalmazásában:
 
-1.[^1] beosztotti besorolású értékelt személy: a hivatásos állomány tiszti vagy tiszthelyettesi besorolási osztályba tartozó tagja;
+1.[^2]
 
 2. értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor – mérhető mutatók hiányában – az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
 
@@ -10,7 +10,7 @@
 
 4. értékelt személy: a hivatásos állomány tagja, akinek a teljesítményét az e rendeletben meghatározott szabályok szerint kell értékelni, illetve mérni;
 
-5.[^2] fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek a munkavégzéshez kötődőek vagy a munkavégzésen kívüliek;
+5.[^3] fejlesztési célok: az egyén fejlődését és a munkavégzést együttesen támogató olyan célok, amelyek lehetnek a munkavégzéshez kötődőek vagy a munkavégzésen kívüliek;
 
 6. kompetencia: a közszolgálati feladatok ellátásához szükséges ismeret, jártasság, készség, képesség, szociális szerep, vagy érték, az én-kép, valamint az alkalmazást segítő személyiségvonások és a hatékonysági motiváció együttese;
 
@@ -28,20 +28,20 @@
 
 13. stratégiai egyéni teljesítménykövetelmény: a szervezet stratégiai célkitűzéséből lebontott egyéni feladat, amelynek teljesítésével a hivatásos állomány tagja a stratégiai célok elérésére a munkavégzése során befolyással lehet, és amellyel elő tudja mozdítani a szervezet eredményes és hatékony munkáját;
 
-14.[^3] szakmai teljesítménykövetelmény-minimumok: a szervezeti elemekkel szemben a tárgyévre meghatározott, a szakmai tevékenységhez kapcsolódó alapvető, számszerűsíthető értékek, mutatók, elvárások;
+14.[^4] szakmai teljesítménykövetelmény-minimumok: a szervezeti elemekkel szemben a tárgyévre meghatározott, a szakmai tevékenységhez kapcsolódó alapvető, számszerűsíthető értékek, mutatók, elvárások;
 
 15. szervezeti működés teljesítmény-indikátorai: az Országgyűlési Őrség szervezeti elemei működése szakszerűségének, jogszerűségének, eredményességének, hatékonysága és minősége szintjének értékelésére szolgáló jellemzők;
 
-16.[^4] szervezeti teljesítménycélok: a tárgyévre irányadó célkitűzések, szakmai és szervezeti célok, elvárások és az Országgyűlési Őrség alaptevékenysége alapján a szervezeti elemek működésének fejlesztése érdekében, egyes kiemelten fontos területen elérni kívánt, és az adott évre megállapított célmeghatározás;
+16.[^5] szervezeti teljesítménycélok: a tárgyévre irányadó célkitűzések, szakmai és szervezeti célok, elvárások és az Országgyűlési Őrség alaptevékenysége alapján a szervezeti elemek működésének fejlesztése érdekében, egyes kiemelten fontos területen elérni kívánt, és az adott évre megállapított célmeghatározás;
 
 17. teljesítményértékelés kötelező elemei: a Korm. rendelet 5. §-a szerinti munkaköri egyéni teljesítménykövetelmények, valamint a kompetencia alapú munkamagatartás értékelési tényező;
 
 18. vezető besorolású értékelt személy: osztályvezető, vagy annál magasabb besorolású vezető.
 
-(2)[^5] E rendelet szabályai a hivatásos állománynak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 37. alcíme alapján más szervhez vezényelt tagja esetében nem alkalmazandóak.
+(2)[^6] E rendelet szabályai a hivatásos állománynak a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 37. alcíme alapján más szervhez vezényelt tagja esetében nem alkalmazandóak.
 
-[^1]: Az 1. § (1) bekezdés 1. pontja a 77/2015. (XII. 22.) BM rendelet 4. §-a szerint módosított szöveg.
-[^2]: Az 1. § (1) bekezdés 5. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^3]: Az 1. § (1) bekezdés 14. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 2. pontja szerint módosított szöveg.
-[^4]: Az 1. § (1) bekezdés 16. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 3. pontja szerint módosított szöveg.
-[^5]: Az 1. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 32. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés 1. pontját a 34/2024. (VIII. 8.) BM rendelet 34. § a) pontja hatályon kívül helyezte.
+[^3]: Az 1. § (1) bekezdés 5. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § (1) bekezdés 14. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^5]: Az 1. § (1) bekezdés 16. pontja a 36/2015. (VI. 16.) BM rendelet 37. § (1) bekezdés 3. pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdése a 36/2015. (VI. 16.) BM rendelet 32. §-ával megállapított szöveg.
