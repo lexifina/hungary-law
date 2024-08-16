@@ -1562,6 +1562,18 @@ Tengelic
 
 054/1, 067/1, 067/3, 069
 
+Perczel-kúria
+
+Bonyhád
+
+1737
+
+Perczel-kert
+
+Bonyhád
+
+1926
+
 Vas vármegye
 
 Acsádi Szegedy-kastély parkja
@@ -1838,4 +1850,4 @@ Zalaapáti
 
 695/1
 
-[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a, a 125/2022. (XII. 27.) AM rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 20/2013. (III. 21.) VM rendelet 1. §-a, a 38/2015. (VII. 2.) FM rendelet 1. §-a, a 38/2018. (XII. 12.) AM rendelet 1. §-a, a 125/2022. (XII. 27.) AM rendelet 1. §-a, a 42/2024. (VIII. 8.) AM rendelet 1. §-a szerint módosított szöveg.
