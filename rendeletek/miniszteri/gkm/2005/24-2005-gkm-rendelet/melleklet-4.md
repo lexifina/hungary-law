@@ -4,13 +4,15 @@
 
 ## 2. Szakoktatói képesítések
 
-## 2.1. A szakoktatói képesítési szakok:
+## 2.1.[^317] A szakoktatói képesítési szakok:
 
-## „Közlekedési ismeretek”
+## 2.1.1. „Közlekedési ismeretek”
 
-## „Műszaki ismeretek”
+## 2.1.2. „Műszaki ismeretek”
 
-## „Járművezetési gyakorlat”
+## 2.1.3. „Járművezetési gyakorlat”
+
+## 2.1.4. „ „B” kategóriás járművezetési gyakorlat”
 
 ## 2.2. A „Közlekedési ismeretek” szakos képesítés jogosít: a „Közlekedési ismeretek” és a „Járművezetés elmélete” tantárgyak oktatására.
 
@@ -43,6 +45,8 @@
 ## A felsorolt képesítések szakoktatói névjegyzékbe vételre – szakmai előírások tekintetében – jogosítanak.
 
 ## A nem említett szakképesítések elfogadásáról a közlekedési hatóság egyedi elbírálás alapján határoz.
+
+## 2.7.[^318] A „ „B” kategóriás járművezetési gyakorlat” szakos képesítés kizárólag a nemzeti köznevelésről szóló törvény és a szakképzésről szóló törvény szerinti tanulók „B” kategóriás vezetői engedély megszerzésére irányuló gyakorlati oktatására jogosít.
 
 ## 3. A tanfolyami képzés
 
@@ -98,7 +102,7 @@
 
 ## Azokban a közoktatási intézményekben (iskolákban), ahol a közúti járművezető-képzés beépült az iskolai tantervbe, a tanulók vizsgára bocsátásának feltétele, hogy az iskolai tantervet a vizsgaközpont jóváhagyja.
 
-## 3.2.1.[^314] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok [járművezetési gyakorlat esetén a 3.6.1. pont e) alpontja szerinti percben kifejezett tanóra időtartammal számolva]
+## 3.2.1.[^319] Az egyes járműkategóriákhoz tartozó oktatási idők és teljesítendő menettávolságok [járművezetési gyakorlat esetén a 3.6.1. pont e) alpontja szerinti percben kifejezett tanóra időtartammal számolva]
 
 |  | A | B | C | D |
 
@@ -342,7 +346,7 @@
 
 ## A szakoktatók napi megengedett oktatási órakeretébe a vizsgák időtartama nem számít bele.
 
-## 3.6.2.[^315] A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6.1. pont e) alpontja szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
+## 3.6.2.[^320] A vezetési gyakorlati tantárgy foglalkozásainak tényleges időtartama indokolt esetben (pl. a forgalmi körülmények függvényében) eltérhet a jelen pont szerint megtervezett és a vizsgaközpontnak elektronikusan bejelentett időtartamnál. A tényleges időtartam tanóránként ilyen esetekben is legfeljebb 10%-kal lehet hosszabb a 3.6.1. pont e) alpontja szerinti tervezett időtartamnál. A 3.2.1. alpontban előírt oktatási idők teljesítésének számítása során a foglalkozások tényleges, percben kifejezett időtartamát szükséges figyelembe venni.
 
 ## 4. Mentesítések
 
@@ -448,8 +452,10 @@
 
 ## A mentesítési kérelmek elbírálásakor a szakma megnevezését és a szakképesítés szakmai tartalmát kell meghatározónak tekinteni.
 
-4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^316]
+4. melléklet a 24/2005. (IV. 21.) GKM rendelethez[^321]
 
-[^314]: A 3. számú melléklet 3.2.1. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^315]: A 3. számú melléklet 3.6.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdése szerint módosított szöveg.
-[^316]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
+[^317]: A 3. számú melléklet 2. pont 2.1. alpontja a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-ával megállapított szöveg.
+[^318]: A 3. számú melléklet 2. pont 2.7. alpontját a 28/2024. (VIII. 15.) ÉKM rendelet 4. §-a iktatta be.
+[^319]: A 3. számú melléklet 3.2.1. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^320]: A 3. számú melléklet 3.6.2. pontja a 15/2024. (VI. 12.) ÉKM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^321]: A 4. melléklet e rendelet – a 18/2009. (IV. 14.) KHEM rendelet 5. § (2) bekezdése szerint módosított – 40. §-a alapján hatályát vesztette.
