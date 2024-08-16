@@ -1,0 +1,5 @@
+## 4. Az Országgyűlési Őrség hivatásos állományú tagjai által szolgálatban birtokban tartható vagyontárgyak, magáncélú telekommunikációs eszközök, készpénz, készpénzt helyettesítő eszközök korlátozásának szabályairól szóló 24/2015. (VI. 15.) BM rendelet módosítása
+
+35. § Az Országgyűlési Őrség hivatásos állományú tagjai által szolgálatban birtokban tartható vagyontárgyak, magáncélú telekommunikációs eszközök, készpénz, készpénzt helyettesítő eszközök korlátozásának szabályairól szóló 24/2015. (VI. 15.) BM rendelet 1. §-a helyébe a következő rendelkezés lép:
+
+„1. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 30. §-ában meghatározott okból vagy célból az Országgyűlési Őrség parancsnoka megtilthatja, hogy az Országgyűlési Őrség hivatásos állományának azon tagja, aki közterületen vagy védett létesítményben lát el objektumvédelmi, illetve járőr- és őrszolgálati feladatot, a szolgálatban a tízezer forintot vagy ennek megfelelő összegű külföldi fizetőeszközt meghaladó készpénzt magánál tartson.”

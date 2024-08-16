@@ -1,0 +1,3 @@
+18. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 44. §-a helyébe a következő rendelkezés lép:
+
+„44. § A munkáltatói kölcsön felhasználásával a hivatásos állomány tagjának tulajdonába kerülő lakás a kölcsön fedezetéül szolgál. A hivatásos állomány tagja és az Országgyűlési Őrség a támogatási megállapodásban rögzítik, hogy a munkáltatói kölcsönnel érintett lakásra az Országgyűlési Őrség javára a lakáscél megvalósításához szükséges pénzintézeti kölcsönt követő rangsorban, továbbá az állam javára szóló jelzálogjog és az annak biztosítására szolgáló elidegenítési és terhelési tilalom bejegyzése esetén azt közvetlenül követően az ingatlan-nyilvántartásba jelzálogjogot kell bejegyeztetni.”

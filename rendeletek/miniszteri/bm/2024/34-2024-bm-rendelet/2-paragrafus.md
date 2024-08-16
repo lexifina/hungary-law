@@ -1,0 +1,3 @@
+2. § Az Országgyűlési Őrség szolgálati szabályzatáról szóló 84/2012. (XII. 28.) BM rendelet 15. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A szolgálatteljesítés során észlelt katasztrófa vagy annak veszélye esetén az országgyűlési őr haladéktalanul jelentést tesz az ügyeletesnek, aki azonnal értesíti az Országgyűlési Őrség tűzoltási és tűzbiztonsági feladatokat ellátó szervezeti elemét. Ha az Országgyűlési Őrség tűzoltási és tűzbiztonsági feladatokat ellátó szervezeti eleme a káreset felszámolásához nem rendelkezik a szükséges erő-eszköz állománnyal, a tűzoltás- vagy mentésvezető kérésére az ügyeletes az eseményről értesíti a hivatásos katasztrófavédelmi szerv területileg illetékes ügyeleti szolgálatát.”

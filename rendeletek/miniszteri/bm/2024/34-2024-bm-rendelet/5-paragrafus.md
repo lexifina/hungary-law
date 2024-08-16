@@ -1,0 +1,3 @@
+5. § Az Országgyűlési Őrség szolgálati szabályzatáról szóló 84/2012. (XII. 28.) BM rendelet 27/A. §-a helyébe a következő rendelkezés lép:
+
+„27/A. § Ha a kényszerítő eszköz alkalmazása az ellenszegülés megtörését, illetve a támadás megakadályozását szolgálta, az országgyűlési őr – a kényszerítő eszköz alkalmazását követően – köteles haladéktalanul szóban is jelentést tenni a szolgálati elöljárójának vagy – a szolgálati elöljáró akadályoztatása esetén – az ügyeletesnek. Az elfogással, kényszerítő eszköz alkalmazásával összefüggő rendkívüli eseményt haladéktalanul jelenteni kell az ügyeletesnek, aki az eseményt jelenti az Országgyűlési Őrség parancsnokának.”

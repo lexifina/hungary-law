@@ -1,0 +1,1 @@
+32. § Az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 8. melléklete a 3. melléklet szerint módosul.
