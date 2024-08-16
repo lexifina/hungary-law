@@ -6,8 +6,6 @@
 
 | Határidő: | a felmerülés ütemében |
 
-3. Hatályát veszti
+3.[^1]
 
-a) a 2021–2027 programozási időszakra, valamint a Helyreállítási és Ellenállóképességi Terv végrehajtására vonatkozó csalás és korrupció elleni stratégia elfogadásáról szóló 1470/2022. (IX. 30.) Korm. határozat és
-
-b) az Európai Unióból származó forrásokra vonatkozó csalás és korrupció elleni stratégia elfogadásáról szóló 1540/2022. (XI. 15.) Korm. határozat.
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
