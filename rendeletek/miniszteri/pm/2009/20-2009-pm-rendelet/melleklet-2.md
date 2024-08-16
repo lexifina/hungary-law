@@ -1,5 +1,3 @@
-## Gépjármű-kategóriák
-
 ## Személygépkocsik (M1 gépjármű-kategória)
 
 ## 37 kW teljesítményig
@@ -64,6 +62,8 @@
 
 ## Négykerekű segédmotoros kerékpárok (L6e gépjármű-kategória)
 
-2. számú melléklet a 20/2009. (X. 9.) PM rendelethez[^4]
+## Egyéb gépjárművek (a Gfbt. 3. § 10. pontja szerinti olyan gépjárművek, amelyek a fenti kategóriák egyikébe sem sorolhatóak)
 
-[^4]: A 2. számú mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.
+2. számú melléklet a 20/2009. (X. 9.) PM rendelethez[^8]
+
+[^8]: A 2. számú mellékletet a 2. § (2) bekezdése hatályon kívül helyezte.
