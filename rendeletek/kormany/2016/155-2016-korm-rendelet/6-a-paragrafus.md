@@ -1,4 +1,4 @@
-6/A. §[^49] (1)[^50] A bejelentéssel érintett lakóépület tekintetében, ha azt nem természetes személy és nem saját lakhatása céljából végzi
+6/A. §[^47] (1)[^48] A bejelentéssel érintett lakóépület tekintetében, ha azt nem természetes személy és nem saját lakhatása céljából végzi
 
 a) az építtetővel közvetlen szerződéses kapcsolatban álló építész vagy más szakági tervező az általa vállalt tervezési és tervezői művezetési tevékenység,
 
@@ -18,5 +18,5 @@ rendelkeznie kell.
 
 (4) Egy bejelentéssel érintett tervezés esetén, amennyiben a tervezési szerződés utóbb mégsem jön létre, a tervezőnek joga van felmondani a biztosítási szerződést a biztosítási szerződés megkötésétől számított két héten belül.
 
-[^49]: A 6/A. §-t a 353/2016. (XI. 18.) korm. rendelet 5. § (1) bekezdése iktatta be.
-[^50]: A 6/A. § (1) bekezdés nyitó szövegrésze a 244/2019. (X. 22.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
+[^47]: A 6/A. §-t a 353/2016. (XI. 18.) korm. rendelet 5. § (1) bekezdése iktatta be.
+[^48]: A 6/A. § (1) bekezdés nyitó szövegrésze a 244/2019. (X. 22.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
