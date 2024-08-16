@@ -23,4 +23,4 @@
 5. melléklet a 410/2007. (XII. 29.) Korm. rendelethez[^64]
 
 [^63]: A 4. mellékletben foglalt táblázat C:10 mezője a 612/2023. (XII. 22.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^64]: Az 5. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 1. § e) pontjával megállapított szöveg.
+[^64]: Az 5. melléklet a 220/2024. (VII. 31.) Korm. rendelet 1. § d) pontjával megállapított szöveg.
