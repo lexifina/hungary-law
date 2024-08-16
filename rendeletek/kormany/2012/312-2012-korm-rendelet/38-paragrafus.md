@@ -14,12 +14,12 @@ b) tájékoztatásul azzal, akinek az építési tevékenységgel érintett tele
 
 c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott.
 
-(3)[^226] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával, a véglegessé válástól számított három napon belül a kapcsolattartás módjára megjelölt rendelkezésének megfelelően.
+(3)[^228] A végleges döntést közölni kell az építtetővel vagy meghatalmazottjával, a véglegessé válástól számított három napon belül a kapcsolattartás módjára megjelölt rendelkezésének megfelelően.
 
-(4)[^227] A döntés véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
+(4)[^229] A döntés véglegessé válása esetén az építésügyi hatóság a véglegessé válás napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
-(5)[^228] A végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
+(5)[^230] A végleges döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-[^226]: A 38. § (3) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 8. pontja szerint módosított szöveg.
-[^227]: A 38. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^228]: A 38. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^228]: A 38. § (3) bekezdése a 13/2019. (II. 11.) Korm. rendelet 18. § 8. pontja szerint módosított szöveg.
+[^229]: A 38. § (4) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^230]: A 38. § (5) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 410. § (13) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.

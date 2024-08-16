@@ -182,7 +182,7 @@
 
 ## 1.1.7. a tervezés tárgyától függően a szükséges műszaki leírást.
 
-## 1.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
+## 1.2.
 
 ## 2. Helyiséget tartalmazó meglévő építmény bővítése esetén
 
@@ -210,7 +210,7 @@
 
 ## 2.1.9.2. a 50 évesnél idősebb építmények tartószerkezeteiről.
 
-## 2.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
+## 2.2.
 
 ## 3. A jogerős és végrehajtható építési engedélyezési dokumentációtól való eltérésre irányuló kérelem (módosított építési engedély iránti kérelem) mellékletét szolgáló dokumentációnak csak az eltérést ábrázoló tervrajzokat, valamint az azokat ismertető munkarészeket (pl. műszaki leírást és számításokat) kell tartalmaznia. A műszaki leírásban egyértelműen meg kell nevezni és fel kell sorolni az eltéréseket.
 
@@ -226,7 +226,7 @@
 
 ## 4.1.4. a tervezés tárgyától függően a szükséges műszaki leírást.
 
-## 4.2. A dokumentáció minden esetben tartalmazza – az ÉTDR általános felületén történő tájékoztatás érdekében – a 10. § (6) bekezdés d) pontjában meghatározott dokumentumokat: az I. rész 2.1. pontjában meghatározott tartalmú helyszínrajzot és az I. rész 2.5. pontjában meghatározott tartalmú utcai homlokzati tervet, vagy az utcaképet bemutató látványtervet.
+## 4.2.
 
 ## 5.
 
@@ -292,7 +292,7 @@
 
 ## 9.4.9. az adott rendeltetéssel érintett építmény, építményrész tartalmaz-e azbesztet.
 
-9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^467]
+9. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^473]
 
 Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvételéhez
 
@@ -340,4 +340,4 @@ Statisztikai adatlap épület bontásának engedélyezéséhez és tudomásulvé
 
 | 16. | Összesen |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^467]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.
+[^473]: A 9. melléklet a 482/2016. (XII. 28.) Korm. rendelet 32. § j) pontja és 33. § d) pontja szerint módosított szöveg.

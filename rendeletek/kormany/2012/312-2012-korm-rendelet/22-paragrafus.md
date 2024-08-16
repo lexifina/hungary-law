@@ -1,6 +1,6 @@
-## 21. §[^137] Ha az építésügyi hatóság rövidebb időtartamot nem állapít meg, az építési engedély a véglegessé válásának napjától számított négy évig hatályos. A hatályossága alatt, ha az építési tevékenységet – az építési napló megnyitásával igazoltan – megkezdték, akkor az építési tevékenység megkezdésétől számított hat éven belül az építménynek használatbavételi engedély megadására vagy használatbavétel tudomásulvételére alkalmassá kell válnia. Az építési engedély hatálya nem hosszabbítható meg.
+## 21. §[^140] Ha az építésügyi hatóság rövidebb időtartamot nem állapít meg, az építési engedély a véglegessé válásának napjától számított négy évig hatályos. A hatályossága alatt, ha az építési tevékenységet – az építési napló megnyitásával igazoltan – megkezdték, akkor az építési tevékenység megkezdésétől számított hat éven belül az építménynek használatbavételi engedély megadására vagy használatbavétel tudomásulvételére alkalmassá kell válnia. Az építési engedély hatálya nem hosszabbítható meg.
 
-22. §[^138] (1) A végleges építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól a kivitelezés során eltérni csak az építésügyi hatóság újabb előzetes engedélyével, módosított építési engedéllyel lehet, kivéve, ha
+22. §[^141] (1) A végleges építési engedélytől és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltaktól a kivitelezés során eltérni csak az építésügyi hatóság újabb előzetes engedélyével, módosított építési engedéllyel lehet, kivéve, ha
 
 a) az eltérés – helyi építészeti örökségvédelem alatt álló épület esetén – nem változtatja meg az építmény településképet meghatározó homlokzati elemeit,
 
@@ -10,5 +10,5 @@ c) az eltérés tartalma önmagában nem építési engedélyhez kötött épít
 
 (2) Az építési engedélyhez nem kötött eltérést az elektronikus építési naplóban a jogszabályban meghatározottak szerint kell dokumentálni, mely megvalósulási állapotot tartalmazó dokumentáció a használatbavételi engedélyezési vagy használatbavétel tudomásulvételi eljárás megindításának feltétele.
 
-[^137]: A 21. § a 700/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^138]: A 22. § a 13/2019. (II. 11.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^140]: A 21. § a 700/2020. (XII. 29.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^141]: A 22. § a 13/2019. (II. 11.) Korm. rendelet 13. §-ával megállapított szöveg.

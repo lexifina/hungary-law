@@ -1,16 +1,16 @@
-44. § (1)[^283] Az építésügyi hatóság a fennmaradási engedély iránti kérelmet elutasítja, ha
+44. § (1)[^285] Az építésügyi hatóság a fennmaradási engedély iránti kérelmet elutasítja, ha
 
 a) az engedélyezést a kiemelt településképi vélemény nem javasolta, vagy
 
 b) állami magasépítési beruházás valósult meg, és azt a központi építészeti-műszaki tervtanács szakmai véleményében engedélyezésre nem ajánlotta.
 
-(2)[^284] A képviselő-testületnek a tervezett építési tevékenység vonatkozásában kiadott településképi véleményét a hatóság bizonyítékként veszi figyelembe.
+(2)[^286] A képviselő-testületnek a tervezett építési tevékenység vonatkozásában kiadott településképi véleményét a hatóság bizonyítékként veszi figyelembe.
 
 (3) A fennmaradási engedélyt megadó határozatában az építésügyi hatóság egyidejűleg rendelkezik az építésügyi bírság kiszabásáról – az Étv. 49. § (5) bekezdésében foglaltak kivételével –, a szükséges átalakítási kötelezettség elrendeléséről, teljesítési határidejéről és a 42. § (3) bekezdése szerinti kérelmek elbírálásáról.
 
 (4) Ha az építményt, építményrészt jogszerűtlenül bontották le, az építésügyi hatóság azt – építésügyi bírság megállapítása mellett – határozattal tudomásul veszi.
 
-(5)[^285] Ha az építmény fennmaradási engedélyezésére az építmény befejezése (rendeltetésszerű és biztonságos használatra való alkalmas állapotának elérése) előtt kerül sor, a továbbépítésre is engedélyt kell kérni,
+(5)[^287] Ha az építmény fennmaradási engedélyezésére az építmény befejezése (rendeltetésszerű és biztonságos használatra való alkalmas állapotának elérése) előtt kerül sor, a továbbépítésre is engedélyt kell kérni,
 
 a) amennyiben a fennmaradó munkálatok elvégzése építési engedélyezéshez kötött,
 
@@ -18,7 +18,7 @@ b) az Étv. 33/A. § (1) bekezdése szerint egyszerű bejelentéssel megkezdett 
 
 c) az Étv. 33/A. § (2) vagy (3) bekezdése szerint egyszerű bejelentéssel megkezdett építési tevékenység esetén, ha azt nem természetes személy építtető vagy nem saját lakhatásának biztosítása céljából végzi.
 
-(5a)[^286] Az (5) bekezdésben meghatározott esetekben a fennmaradási és a továbbépítési engedélykérelmet egyszerre kell benyújtani, és az építésügyi hatóság a két kérelem tárgyában döntéseit egybefoglalja.
+(5a)[^288] Az (5) bekezdésben meghatározott esetekben a fennmaradási és a továbbépítési engedélykérelmet egyszerre kell benyújtani, és az építésügyi hatóság a két kérelem tárgyában döntéseit egybefoglalja.
 
 (6) Ha az építmény fennmaradási engedélyezésére az építmény rendeltetésszerű és biztonságos használatra alkalmas állapotában kerül sor, a fennmaradási engedély egyben használatbavételi engedély is, arra külön kérelmet benyújtani és a tárgyban külön döntést hozni nem szükséges.
 
@@ -40,7 +40,7 @@ f) az építmény átalakításának vagy részleges bontásának esetleges köt
 
 g) az építményrészre vonatkozó fennmaradási engedély megadása esetén az építmény továbbépítéséről történő rendelkezést,
 
-h)[^287] a jogorvoslat tekintetében a bírságra vonatkozó, eltérő ügyfélkörre vonatkozó megállapítást.
+h)[^289] a jogorvoslat tekintetében a bírságra vonatkozó, eltérő ügyfélkörre vonatkozó megállapítást.
 
 (9) A határozat indokolási része – a rendelkezéstől függően – az építési, használatbavételi engedélyezési eljárásban hozott döntés tartalmi elemein túl tartalmazza:
 
@@ -58,11 +58,11 @@ e) a bírság összegének tételes kiszámítását, feltüntetve az alapbírs�
 
 (11) A fennmaradási engedélyezési eljárásra az építési, a használatbavételi és országos építési követelményektől való eltérés engedélyezési eljárás szabályait az e fejezetben meghatározott eltérésekkel kell alkalmazni.
 
-(12)[^288] A miniszteri rendelet hatálya alá tartozó épületek esetében a fennmaradási engedély iránti kérelem benyújtása napján hatályos miniszteri rendeletben meghatározott követelményeket kell teljesíteni.
+(12)[^290] A miniszteri rendelet hatálya alá tartozó épületek esetében a fennmaradási engedély iránti kérelem benyújtása napján hatályos miniszteri rendeletben meghatározott követelményeket kell teljesíteni.
 
-[^283]: A 44. § (1) bekezdését újonnan a 700/2020. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 315/2022. (VIII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^284]: A 44. § (2) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
-[^285]: A 44. § (5) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^286]: A 44. § (5a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 11. §-a iktatta be.
-[^287]: A 44. § (8) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^288]: A 44. § (12) bekezdését a 200/2023. (V. 25.) Korm. rendelet 17. §-a iktatta be.
+[^285]: A 44. § (1) bekezdését újonnan a 700/2020. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be, szövege a 315/2022. (VIII. 16.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^286]: A 44. § (2) bekezdése a 700/2020. (XII. 29.) Korm. rendelet 16. § (2) bekezdésével megállapított, a 420/2021. (VII. 15.) Korm. rendelet 61. § 6. pontja szerint módosított szöveg.
+[^287]: A 44. § (5) bekezdése a 144/2017. (VI. 12.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^288]: A 44. § (5a) bekezdését a 144/2017. (VI. 12.) Korm. rendelet 11. §-a iktatta be.
+[^289]: A 44. § (8) bekezdés h) pontja a 360/2019. (XII. 30.) Korm. rendelet 108. § (1) bekezdés e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^290]: A 44. § (12) bekezdését a 200/2023. (V. 25.) Korm. rendelet 17. §-a iktatta be.

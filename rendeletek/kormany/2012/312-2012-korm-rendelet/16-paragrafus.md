@@ -1,6 +1,6 @@
 ## 14. Kötelezési eljárás
 
-16. § (1)[^84] Az építésügyi és az építésfelügyeleti hatóság a kötelezési eljárást hivatalból vagy más hatóság megkeresésére folytatja le.
+16. § (1)[^87] Az építésügyi és az építésfelügyeleti hatóság a kötelezési eljárást hivatalból vagy más hatóság megkeresésére folytatja le.
 
 (2) Az építésügyi vagy az építésfelügyeleti hatóság az érintett telek vagy építmény, építményrész tulajdonosát kötelezi. Ha az elvégzett szabálytalan tevékenységet nem a telek vagy az építmény, építményrész tulajdonosa végezte, az építtetőt vagy az építési tevékenység végzőjét kell kötelezni.
 
@@ -22,4 +22,4 @@ b) ha a kötelezettség teljesítése oszthatatlan, a kötelezés egyetemleges.
 
 (6) A kötelezettség teljesítésének határidejét – azonnali beavatkozást igénylő veszélyhelyzet esetének kivételével – az összes körülmény figyelembevételével kell megállapítani.
 
-[^84]: A 16. § (1) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^87]: A 16. § (1) bekezdése a 788/2021. (XII. 27.) Korm. rendelet 15. §-ával megállapított szöveg.
