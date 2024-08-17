@@ -1,1 +1,3 @@
-3. § Hatályát veszti az R. 29. § (3) bekezdés a) pontjában az „a) és”, valamint a „vagy” szövegrész.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
