@@ -1,3 +1,3 @@
-3. § Az R. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+3. §[^3]
 
-„(1) A díj adományozására vonatkozó javaslattétel lehetőségét és határidejét tartalmazó felhívást minden évben az érintett szervezetek körében közzé kell tenni a díj átadásának napját 60 nappal megelőzően.”
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

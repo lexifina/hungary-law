@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-8-20-9D
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-08-16 | 2024-8-20-9D.1 | 8/2024. (VIII. 15.) KTM rendelet |
+| 2024-08-17 | 2024-8-20-9D.2 | 2010. évi CXXX. törvény |
