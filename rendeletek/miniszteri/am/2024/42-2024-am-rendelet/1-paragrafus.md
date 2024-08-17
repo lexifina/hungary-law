@@ -1,1 +1,3 @@
-1. § Az arborétumok jegyzékéről szóló 19/2011. (III. 16.) VM rendelet [a továbbiakban: 19/2011. (III. 16.) VM rendelet] 1. melléklete az 1. melléklet szerint módosul.
+1. §[^2]
+
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

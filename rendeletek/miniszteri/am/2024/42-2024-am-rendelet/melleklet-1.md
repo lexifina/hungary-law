@@ -1,15 +1,3 @@
-1. melléklet a 42/2024. (VIII. 8.) AM rendelethez
+1. melléklet a 42/2024. (VIII. 8.) AM rendelethez[^3]
 
-A 19/2011. (III. 16.) VM rendelet 1. melléklete a „Tengelici Benyovszky park Tengelic 054/1, 067/1, 067/3, 069” szövegrészt követően a következő rendelkezéssel egészül ki:
-
-„Perczel-kúria
-
-Bonyhád
-
-1737
-
-Perczel-kert
-
-Bonyhád
-
-1926”
+[^3]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
