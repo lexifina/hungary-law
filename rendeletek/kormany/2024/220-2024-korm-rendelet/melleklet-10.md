@@ -1,15 +1,3 @@
-## „11/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez
+10. melléklet a 220/2024. (VII. 31.) Korm. rendelethez[^15]
 
-|  | A | B | C | D | E |
-
-| 1 | Sorszám | Biztonsági öv használata nélküli közlekedés | A közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendelet | Bírság összege forintban | A bírságolással érintett cselekmény elkövetéséért felelőssé tehető |
-
-| 2 | 1. | lakott területen | 48. § (4) bekezdés | 20 000 | járművezető, utazó személy |
-
-| 3 | 2. | lakott területen kívül | 30 000 |
-
-| 4 | 3. | autóúton, autópályán | 40 000 |
-
-## ”
-
-10. melléklet a 220/2024. (VII. 31.) Korm. rendelethez
+[^15]: A 10. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
