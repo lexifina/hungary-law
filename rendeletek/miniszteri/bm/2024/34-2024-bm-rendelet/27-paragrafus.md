@@ -1,3 +1,3 @@
-27. § Az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 7. §-a helyébe a következő rendelkezés lép:
+27. §[^28]
 
-„7. § Az értékelő vezető a tárgyévre vonatkozó minősítési javaslatát az éves teljesítményértékelés, a soron kívüli minősítésre vonatkozó javaslatát a szolgálatra alkalmatlanság felmerülése miatt elvégzett teljesítményértékelés eredményére figyelemmel készíti el a minősítőlapon, a 7. melléklet szerinti adattartalommal. A minősítési javaslatot a kontrollvezető felülvizsgálja, indokolt esetben megváltoztathatja, és egyetértése esetén a tárgyévet követő év február 28-áig, soron kívüli minősítés esetén a teljesítményértékelés elvégzését követő tíz napon belül – a humánigazgatási szakszolgálaton keresztül – az Országgyűlési Őrség parancsnokához felterjeszti jóváhagyásra.”
+[^28]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

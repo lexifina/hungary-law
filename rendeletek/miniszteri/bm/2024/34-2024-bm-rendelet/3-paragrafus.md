@@ -1,5 +1,3 @@
-3. § Az Országgyűlési Őrség szolgálati szabályzatáról szóló 84/2012. (XII. 28.) BM rendelet 18. §-a helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„18. § (1) A személyazonosság megállapítása során az országgyűlési őr elkéri az érintett személy Ogytv. 138. § (1) bekezdés a) pontjában vagy 138. § (2) bekezdésében meghatározott, a személyazonosság igazolására alkalmas, érvényes hatósági igazolványát, okmányát vagy belépésre jogosító okmányát. Ha a hatósági igazolvány vagy az okmány valódisága vagy az érintett személy személyazonossága kétséges, az országgyűlési őr ellenőrző kérdéseket tehet fel, felszólítja az intézkedés alá vont személyt adatainak bemondására, a bemondott adatokat a hatósági igazolvánnyal vagy az okmánnyal összehasonlítja.
-
-(2) A személyazonosság megállapítása során meg kell állapítani az érintett személy személyazonosságát, és – akinél ez a további intézkedéshez, eljáráshoz szükséges, vagy egyéb körülmények ezt indokolják – rögzíteni kell az intézkedés alá vont személy természetes személyazonosító adatait, a hatósági igazolványának típusát és okmányazonosítóját, valamint az intézkedés helyét, idejét és okát.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

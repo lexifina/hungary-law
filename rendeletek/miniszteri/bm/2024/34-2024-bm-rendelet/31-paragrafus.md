@@ -1,1 +1,3 @@
-31. § Az Országgyűlési Őrség hivatásos állománya egyéni teljesítményértékelésének ajánlott elemeiről, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 46/2013. (VIII. 16.) BM rendelet 7. melléklete helyébe a 2. melléklet lép.
+31. §[^32]
+
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

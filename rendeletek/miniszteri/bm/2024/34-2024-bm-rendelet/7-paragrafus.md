@@ -1,3 +1,3 @@
-7. § Az Országgyűlési Őrség szolgálati szabályzatáról szóló 84/2012. (XII. 28.) BM rendelet 61. § (1) bekezdés j) pontja helyébe a következő rendelkezés lép:
+7. §[^8]
 
-(Az országgyűlési őr köteles)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

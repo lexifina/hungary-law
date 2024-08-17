@@ -1,3 +1,3 @@
-19. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 65. § (3) bekezdése helyébe a következő rendelkezés lép:
+19. §[^20]
 
-„(3) A beiskolázási segély bruttó összege gyermekenként legfeljebb a minimálbér 30%-ának megfelelő összeg.”
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

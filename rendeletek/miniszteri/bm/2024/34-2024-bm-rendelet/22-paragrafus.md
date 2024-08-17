@@ -1,1 +1,3 @@
-22. § Az Országgyűlési Őrség hivatásos állományát érintő gazdasági tárgyú szabályokról szóló 85/2012. (XII. 28.) BM rendelet 4. melléklete helyébe az 1. melléklet lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
