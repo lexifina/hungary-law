@@ -1,5 +1,0 @@
-Az Országgyűlésről szóló 2012. évi XXXVI. törvény 143. § (5) bekezdés a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva – az Országgyűlésről szóló 2012. évi XXXVI. törvény 143. § (5) bekezdés a) pontjában biztosított véleményezési jogkörében eljáró Országgyűlés elnöke véleményének kikérésével –,
-
-a 2–5. alcím és az 1–3. melléklet tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 182/2022. (V. 24.) Korm. rendelet 66. § (1) bekezdés 16. pontjában meghatározott feladatkörömben eljárva – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében biztosított véleményezési jogkörében eljáró Országgyűlés elnöke véleményének kikérésével –
-
-a következőket rendelem el:
