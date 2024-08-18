@@ -6,8 +6,10 @@ b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 c) az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat,
 
-d) a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet I–II. Fejezete, valamint 25., 26., 26a., 31., 53., 54. és 56. cikke,
+d)[^36] a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet I–II. Fejezete, valamint 13., 14., 25., 26., 26a., 31., 53., 54. és 56. cikke,
 
 e) az SA.50768 (2018/N) számú, Magyarország filmszakmai támogatási programja tárgyában hozott európai bizottsági határozat
 
 hatálya alá tartozó támogatást tartalmaz.
+
+[^36]: A 27. § d) pontja a 32/2024. (VIII. 8.) KIM rendelet 7. § 8. pontja szerint módosított szöveg.

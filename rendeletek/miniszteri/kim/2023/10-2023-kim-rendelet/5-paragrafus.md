@@ -10,9 +10,9 @@ b) − a 2. és 10. alcím szerinti támogatás kivételével − nehéz helyzet
 
 (4) Nem ítélhető meg
 
-a) az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 2., 7–8. és 11. alcím szerinti támogatás,
+a)[^29] az 1379/2013/EU európai parlamenti és tanácsi rendeletben meghatározott akvakultúra-termékek termeléséhez, feldolgozásához és értékesítéséhez a 2., 7–8., 11. és 12. alcím szerinti támogatás,
 
-b) elsődleges mezőgazdasági termeléshez a 2., 4–5., 7–8. és 11. alcím szerinti támogatás,
+b)[^30] elsődleges mezőgazdasági termeléshez a 2., 4–5., 7–8., 11. és 12. alcím szerinti támogatás,
 
 c) mezőgazdasági termék feldolgozásában és mezőgazdasági termék forgalmazásában tevékeny vállalkozás részére támogatás, ha
 
@@ -70,6 +70,8 @@ f) a tesztelési és kísérleti infrastruktúrákra nyújtott beruházási tám
 
 g) helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 11 millió eurónak megfelelő forintösszeget vagy a 22 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
+h)[^31] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat.
+
 (14) E rendelet alapján
 
 a) az SA.50768 (2018/N) számú bizottsági határozat szerinti támogatás esetén 2024. december 31-ig,
@@ -78,6 +80,11 @@ b) a 360/2012/EU bizottsági rendelet szerinti támogatás esetén 2024. június
 
 c) az 1407/2013/EU bizottsági rendelet szerinti támogatás esetén 2024. június 30-ig,
 
-d) a 651/2014/EU bizottsági rendelet szerinti támogatás esetén 2027. június 30-ig
+d)[^32] a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2027. június 30-ig
 
 lehet támogatási döntést hozni.
+
+[^29]: Az 5. § (4) bekezdés a) pontja a 32/2024. (VIII. 8.) KIM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^30]: Az 5. § (4) bekezdés b) pontja a 32/2024. (VIII. 8.) KIM rendelet 7. § 6. pontja szerint módosított szöveg.
+[^31]: Az 5. § (13) bekezdés h) pontját a 32/2024. (VIII. 8.) KIM rendelet 3. §-a iktatta be.
+[^32]: Az 5. § (14) bekezdés d) pontja a 32/2024. (VIII. 8.) KIM rendelet 7. § 7. pontja szerint módosított szöveg.

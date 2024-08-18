@@ -1,8 +1,8 @@
 ## IV. Fejezet
 
-## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK KÜLÖNÖS SZABÁLYAI
+## AZ ELŐIRÁNYZATOK FELHASZNÁLÁSÁNAK KÜLÖNÖS SZABÁLYAI[^34]
 
-## 1. Az állami szakképző intézmények Szkt. szerinti ingyenes képzéseinek kiegészítő finanszírozása
+## 13. Az állami szakképző intézmények Szkt. szerinti ingyenes képzéseinek kiegészítő finanszírozása
 
 22. § (1) A XX. Kulturális és Innovációs Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 14. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása alcím terhére az állami szakképző intézmények – az Szkt. szerinti – ingyenes képzéseinek kiegészítő finanszírozása céljából nyújtott támogatás vissza nem térítendő normatív támogatás.
 
@@ -18,17 +18,17 @@ c) a technikumban az érettségi bizonyítvány megszerzését célzó felkész�
 
 (3) Az oktatás és képzés teljes időtartamára meghatározott normatíva
 
-a) oktatás esetén a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet (a továbbiakban: Szkr.) 332/A. § (2) bekezdése szerinti, a szakmára alkalmazandó szakmaszorzóval korrigált, a központi költségvetési törvényben meghatározott, a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 17/A. § (3) bekezdése szerinti önköltség 15 százalékának és a szakmai oktatás érettségi végzettséggel, évben meghatározott időtartamának a szorzata,
+a) oktatás esetén a szakképzésről szóló törvény végrehajtásáról szóló 12/2020. (II. 7.) Korm. rendelet (a továbbiakban: Szkr.) 332/A. § (2) bekezdése szerinti, a szakmára alkalmazandó szakmaszorzóval korrigált, a központi költségvetési törvényben meghatározott, a szociális hozzájárulási adóról szóló 2018. évi LII. törvény (a továbbiakban: Szocho tv.) 17/A. § (3) bekezdése szerinti önköltség 15 százalékának és az Szkt. 20. § (1) bekezdés b) pontja, valamint 21. § (1) bekezdés b) pontja szerinti szakmai oktatás Szkr. 1. melléklete szerinti, években meghatározott időtartamának a szorzata,
 
 b) képzés esetén az Szkr. 332/A. § (2) bekezdése szerinti, a szakképesítés programkövetelményében megjelölt ágazatra alkalmazandó szakmaszorzóval korrigált, a központi költségvetési törvényben meghatározott, a Szocho tv. 17/A. § (3) bekezdése szerinti önköltség 30 százalékának és a képzés elvégzéséhez szükséges, a programkövetelményben meghatározott minimális foglalkozásszám 1000 órához viszonyított arányának a szorzata.
 
 (4) A költségvetési évre a támogatási kérelem alapján meghatározásra kerülő tárgyévi támogatás összege
 
-a) oktatás esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező képzésben részt vevők létszáma, a (3) bekezdés a) pontja szerinti normatíva egy évre meghatározott összege, a képzési időszak által érintett hónapok számának az évhez viszonyított aránya és az (5) bekezdés szerinti súlyszorzó szorzatának a 70 százaléka,
+a) oktatás esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező, oktatásban részt vevők létszáma, csökkentve a duális képzőhelyen oktatásban részt vevők havi létszámával, a (3) bekezdés a) pontja szerinti normatíva egy évre meghatározott összege, a képzési időszak által érintett hónapok számának az évhez viszonyított aránya és az (5) bekezdés szerinti súlyszorzó szorzatának a 70 százaléka,
 
-b) képzés esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező képzésben részt vevők létszáma, a (3) bekezdés b) pontja szerinti normatíva, a képzésben a tárgyévet megelőző évben ténylegesen megvalósult órák számának és a tervezett vagy már megvalósult összes óraszámnak a hányadosa szorzatának a 70 százaléka,
+b) képzés esetén a kedvezményezett által a támogatási kérelemben megjelölt, a tárgyévet megelőző évben felnőttképzési jogviszonnyal rendelkező képzésben részt vevők létszáma, a (3) bekezdés b) pontja szerinti normatíva, a képzésben a tárgyévet megelőző évben ténylegesen megvalósult órák számának és a programkövetelményben meghatározott minimális foglalkozásszámnak a hányadosa szorzatának a 70 százaléka,
 
-c) a technikum kétéves, kizárólag érettségi vizsgára felkészítő képzésében, a tárgyévet megelőző évben felnőttképzési jogviszonyban részt vevő személyenként 360 000 forint/év és a képzési időszak által érintett hónapok számának az évhez viszonyított arányának szorzata.
+c) a technikum kizárólag érettségi vizsgára felkészítő képzésében, a tárgyévet megelőző évben felnőttképzési jogviszonyban részt vevő személyenként 360 000 forint/év keretösszeg képzési időszak által érintett hónapok számának megfelelően arányosan csökkentett összege.
 
 (5) A (4) bekezdés a) pontja szerinti támogatás összegének számításakor alkalmazott súlyszorzó értéke 2, ha az oktatás időtartamából és a ténylegesen megtartott óraszámból adódó intenzitás legalább kétszeres. A súlyszorzó értéke minden más esetben 1.
 
@@ -36,6 +36,8 @@ c) a technikum kétéves, kizárólag érettségi vizsgára felkészítő képz�
 
 (7) A (4) bekezdés b) pontja szerinti támogatás összegének számításakor alkalmazott szakmaszorzót a szakképesítésnek a Magyar Képesítési Keretrendszer szintje határozza meg, oly módon, hogy a legfeljebb 4-es szintű szakképesítés esetén a 4-es szinthez, a legalább 5-ös szintű szakképesítés esetén az 5-ös szinthez meghatározott szakmaszorzót kell alkalmazni.
 
-(8) A támogatási kérelmet a támogató által meghatározott formanyomtatványon a január 1-jétől december 31-éig tartó időszakra a tárgyév január 15-éig kell benyújtani.
+(8) A támogatási kérelmet a támogató által meghatározott formanyomtatványon a január 1-jétől december 31-éig tartó időszakra tárgyév január 15-éig kell benyújtani.
 
 (9) A támogatási kérelem alapján a támogató megállapítja a kedvezményezett részére az adott költségvetési évre folyósítandó támogatás – ezer forintra kerekített – összegét, a támogatás két részletben történő folyósításának határidejét, és erről támogatói okiratot ad ki.
+
+[^34]: A IV. Fejezet (22–23. §) a 32/2024. (VIII. 8.) KIM rendelet 5. §-ával megállapított szöveg.
