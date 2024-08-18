@@ -34,20 +34,21 @@ b) az innovációs kultúra elterjesztésével kapcsolatos feladatai keretében
 
 ba) egységes innovációs ökoszisztéma honlapot működtet,
 
-bb) támogatja a tudományos, kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások szervezését, kiadványok megjelentetését és az innovációs célú díjak – különösen a Magyar Formatervezési Díj – adományozását,
+bb)[^22] támogatja a tudományos, kutatás-fejlesztési és innovációs tevékenységgel közvetlenül összefüggő konferenciák, szakkiállítások szervezését, kiadványok megjelentetését és az innovációs célú díjak adományozását,
 
 bc) népszerűsíti a matematikai, természettudományi, műszaki és informatikai (MTMI) képzési és tudományterületet, a vállalkozói attitűdöt és a fiatalok vállalkozóvá válását, különösen a Hungarian Startup University program működtetésén, valamint a sikertörténetek bemutatásán keresztül,
 
 bd) közreműködik az iparjogvédelmi tudatosság elterjedésének elősegítésében.
 
-be)[^22] ellátja a Magyar Formatervezési Tanács Iroda feladatait.
+be)[^23]
 
 (2) Az államháztartásról szóló 2011. évi CXCV. törvény 3/A. § (2) bekezdésére figyelemmel a NIÜ Zrt. e rendelet szerinti feladatait közfeladatként látja el.
 
-(3)[^23] Feladatai ellátása során a NIÜ Zrt. együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
+(3)[^24] Feladatai ellátása során a NIÜ Zrt. együttműködik az ágazati kutatás-fejlesztési és innovációs tevékenységet illetően a feladatkörében eljáró államigazgatási szervvel, a Magyar Tudományos Akadémiával, a HUN-REN Központtal és más kutatás-fejlesztéssel és innovációval foglalkozó szervezetekkel és intézményekkel.
 
 [^19]: A 3/A. alcímet (5/A. §-t) a 246/2023. (VI. 22.) Korm. rendelet 16. § (1) bekezdése iktatta be, az alcím címe a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^20]: Az 5/A. § (1) bekezdés nyitó szövegrésze a 331/2023. (VII. 19.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^21]: Az 5/A. § (1) bekezdés a) pont af) alpont 1. pontja a 673/2023. (XII. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^22]: Az 5/A. § (1) bekezdés b) pont be) alpontját a 246/2023. (VI. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^23]: Az 5/A. § (3) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^22]: Az 5/A. § (1) bekezdés b) pont bb) alpontja a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont b) alpontja szerint módosított szöveg.
+[^23]: Az 5/A. § (1) bekezdés b) pont be) alpontját a 246/2023. (VI. 22.) Korm. rendelet 16. § (2) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont c) alpontja hatályon kívül helyezte.
+[^24]: Az 5/A. § (3) bekezdése a 673/2023. (XII. 29.) Korm. rendelet 25. §-a szerint módosított szöveg.

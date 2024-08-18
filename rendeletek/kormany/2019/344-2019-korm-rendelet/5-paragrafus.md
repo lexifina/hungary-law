@@ -44,7 +44,7 @@ q)[^11] előmozdítja a nyílt tudomány kezdeményezéseket.
 
 r)[^12] ellátja a kutatási-fejlesztési tevékenység minősítésével kapcsolatos szakértői feladatokat,
 
-s)[^13] ellátja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: KFI tv.) 6. §-ában foglaltak alapján a Magyar Formatervezési Tanácsról szóló kormányrendeletben meghatározott feladatokat,
+s)[^13]
 
 t)[^14] ellátja a Kutatási Kiválósági Tanács titkárságának feladatait, valamint a KFI tv. 10/F. §-a szerinti feladatokat.
 
@@ -103,7 +103,7 @@ g) feladatkörében együttműködik Magyarország külképviseleteivel, kapcsol
 [^10]: Az 5. § (1) bekezdés p) pontját az 543/2020. (XII. 2.) Korm. rendelet 2. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (1) bekezdés q) pontját a 746/2021. (XII. 21.) Korm. rendelet 17. §-a iktatta be, szövege a 246/2023. (VI. 22.) Korm. rendelet 15. § (4) bekezdésével megállapított szöveg.
 [^12]: Az 5. § (1) bekezdés r) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
-[^13]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be.
+[^13]: Az 5. § (1) bekezdés s) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (5) bekezdése iktatta be, a 248/2024. (VIII. 15.) Korm. rendelet 4. § 3. pont a) alpontja hatályon kívül helyezte.
 [^14]: Az 5. § (1) bekezdés t) pontját a 246/2023. (VI. 22.) Korm. rendelet 15. § (6) bekezdése iktatta be.
 [^15]: Az 5. § (1) bekezdés u) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
 [^16]: Az 5. § (1) bekezdés v) pontját a 673/2023. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
