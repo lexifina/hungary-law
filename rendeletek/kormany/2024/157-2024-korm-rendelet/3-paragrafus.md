@@ -36,6 +36,17 @@ j) ellátja a hazai kreatívipari ökoszisztéma érintettjeivel való struktur�
 
 k) közreműködik a kreatívipari programok megvalósítása érdekében szükséges kormányzati feladatok összehangolása érdekében, valamint a szakmai párbeszéd eredményeként javaslatokat dolgoz ki a jogszabályi környezetben szükséges változtatások előmozdítása érdekében,
 
-l) figyelemmel kíséri az Európai Unió divat- és kreatívipari tárgyú jogalkotását és kezdeményezéseit, valamint
+l)[^1] figyelemmel kíséri az Európai Unió divat- és kreatívipari tárgyú jogalkotását és kezdeményezéseit,
 
 m) kreatívipari központot irányít az induló vállalkozások inkubációja, a gyártók és tervezők együttműködésének ösztönzése, valamint exportképes vállalatok segítése céljából.
+
+n)[^2] gondoskodik a Budapest Design Hét rendezvény évente történő megszervezéséről,
+
+o)[^3] ösztönzi a hazai kreatívipar fejlesztését és javítását, és az iparági szereplők, alkotók és tervezők helyzetének javítását, valamint ellátja a Magyar Formatervezési Díj adományozásával kapcsolatos feladatokat,
+
+p)[^4] ellátja a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 6. §-ában foglaltak alapján a Magyar Formatervezési Tanáccsal (a továbbiakban: MFT) kapcsolatos feladatokat.
+
+[^1]: A 3. § l) pontja a 248/2024. (VIII. 15.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^2]: A 3. § n) pontját a 248/2024. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^3]: A 3. § o) pontját a 248/2024. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
+[^4]: A 3. § p) pontját a 248/2024. (VIII. 15.) Korm. rendelet 1. §-a iktatta be.
