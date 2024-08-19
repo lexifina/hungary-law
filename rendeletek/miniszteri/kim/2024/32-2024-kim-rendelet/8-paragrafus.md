@@ -1,7 +1,3 @@
-8. § A Rendelet
+8. §[^9]
 
-a) 1. melléklete az 1. melléklet szerint,
-
-b) 2. melléklete a 2. melléklet szerint
-
-módosul.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
