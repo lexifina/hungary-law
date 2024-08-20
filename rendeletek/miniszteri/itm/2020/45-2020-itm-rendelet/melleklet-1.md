@@ -1,5 +1,5 @@
-1. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^57]
+1. melléklet a 45/2020. (XI. 28.) ITM rendelethez[^59]
 
 A díjfizetés ellenében használható gyorsforgalmi útszakaszok
 
-[^57]: Az 1. melléklet a 22/2023. (XII. 5.) ÉKM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^59]: Az 1. melléklet a 22/2023. (XII. 5.) ÉKM rendelet 3. § (5) bekezdésével megállapított szöveg.

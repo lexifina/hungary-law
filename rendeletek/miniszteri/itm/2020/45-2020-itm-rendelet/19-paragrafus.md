@@ -1,12 +1,12 @@
-19. § (1)[^41] Ha a jogosultság megváltását igazoló ellenőrző szelvény vásárlói példánya vagy a nyugtázó értesítés megrongálódott, megsemmisült vagy elveszett, a 20. § szerinti ügyintézési díj ellenében a NÚSZ Zrt. ügyfélszolgálati irodájában a gépjármű forgalmi engedélyének bemutatásával kérhető a jogosultság fennállásának igazolása.
+19. § (1)[^42] Ha a jogosultság megváltását igazoló ellenőrző szelvény vásárlói példánya vagy a nyugtázó értesítés megrongálódott, megsemmisült vagy elveszett, a 20. § szerinti ügyintézési díj ellenében a NÚSZ Zrt. ügyfélszolgálati irodájában a gépjármű forgalmi engedélyének bemutatásával kérhető a jogosultság fennállásának igazolása.
 
-(2)[^42] Ha ugyanarra a gépjárműre részben vagy egészben azonos időszakra több jogosultságot váltottak meg, a 20. §-ban meghatározott ügyintézési díj ellenében kérhető a felesleges jogosultság visszaváltása. Ha a jogosultságok kezdő időpontja vagy időtartama nem egyezik meg, visszaváltásnak csak abban az esetben van helye, ha a későbbi kezdő időpontú jogosultsági időszak még nem kezdődött el, vagy ha már elkezdődött, az eltelt időszakban a másik jogosultság teljes időtartamban fennállt. Vármegyei jogosultság visszaváltására akkor van lehetőség, ha ugyanazon gépjármű és ugyanazon vármegye vonatkozásában történt többszöri megváltás.
+(2)[^43] Ha ugyanarra a gépjárműre részben vagy egészben azonos időszakra több jogosultságot váltottak meg, a 20. §-ban meghatározott ügyintézési díj ellenében kérhető a felesleges jogosultság visszaváltása. Ha a jogosultságok kezdő időpontja vagy időtartama nem egyezik meg, visszaváltásnak csak abban az esetben van helye, ha a későbbi kezdő időpontú jogosultsági időszak még nem kezdődött el, vagy ha már elkezdődött, az eltelt időszakban a másik jogosultság teljes időtartamban fennállt. Vármegyei jogosultság visszaváltására akkor van lehetőség, ha ugyanazon gépjármű és ugyanazon vármegye vonatkozásában történt többszöri megváltás.
 
-(3)[^43] Az úthasználati jogosultság visszavásárlása kérhető a jogosultság érvényességi időszakát megelőzően, amelyhez be kell mutatni a gépjármű forgalmi engedélyét, le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést. Amennyiben az érvényességi idő már elkezdődött, a visszavásárlásra akkor van lehetőség, ha az adott gépjárműre előbb megvásárolják az érvényességi idő kezdete és a visszavásárlás időpontja közötti időszakot lefedő rövidebb idejű jogosultságot.
+(3)[^44] Az úthasználati jogosultság visszavásárlása kérhető a jogosultság érvényességi időszakát megelőzően, amelyhez be kell mutatni a gépjármű forgalmi engedélyét, le kell adni a vásárláskor kapott ellenőrző szelvényt, vagy be kell mutatni a nyugtázó értesítést. Amennyiben az érvényességi idő már elkezdődött, a visszavásárlásra akkor van lehetőség, ha az adott gépjárműre előbb megvásárolják az érvényességi idő kezdete és a visszavásárlás időpontja közötti időszakot lefedő rövidebb idejű jogosultságot.
 
-(4)[^44]
+(4)[^45]
 
-[^41]: A 19. § (1) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § j) pontja szerint módosított szöveg.
-[^42]: A 19. § (2) bekezdése a 2/2023. (II. 20.) ÉKM rendelet 13. § c) pontja szerint módosított szöveg.
-[^43]: A 19. § (3) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 5. § d) pontja szerint módosított szöveg.
-[^44]: A 19. § (4) bekezdését a 19/2022. (IX. 19.) TIM rendelet 5. § c) pontja hatályon kívül helyezte.
+[^42]: A 19. § (1) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § j) pontja szerint módosított szöveg.
+[^43]: A 19. § (2) bekezdése a 2/2023. (II. 20.) ÉKM rendelet 13. § c) pontja szerint módosított szöveg.
+[^44]: A 19. § (3) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 5. § d) pontja szerint módosított szöveg.
+[^45]: A 19. § (4) bekezdését a 19/2022. (IX. 19.) TIM rendelet 5. § c) pontja hatályon kívül helyezte.
