@@ -1,4 +1,4 @@
-## 3X04550Mj.docx
+## 4X05468M.docx
 
 |  | A | B | C | D |
 
@@ -332,6 +332,10 @@
 
 | 86d. | Kadmium a zománcok üvegre, például boroszilikát üvegre vagy szóda-mész üvegre történő felviteléhez használt nyomdafestékekben a 7. melléklet 1–7. és 10. pontjában szereplő termékcsoportba tartozó eszközök esetében, kivéve a 83. és 86c. sorban meghatározott alkalmazásokat. |
 
+| 86e. | Az elektromos és elektronikus ablakok és ajtók újrahasznosított kemény polivinil-kloridot tartalmazó műanyag profiljaiban előforduló kadmium és ólom. A mentesség a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó eszközökre vonatkozik. 2026. május 28-ától az elektromos és elektronikus ablakokból és ajtókból újrahasznosított kemény PVC kizárólag az 1907/2006/EK európai parlamenti és tanácsi rendelet XVII. melléklete 63. bejegyzés 18. pont a)–d) alpontjában meghatározott kategóriákba tartozó új árucikkek előállításához használható fel. | ólom esetében ≤ 1,5 m/m% | 2028. május 28. |
+
+| kadmium esetében ≤ 0,1 m/m% |
+
 | 87. | IV. KRÓMTARTALOMRA VONATKOZÓ MENTESSÉGEK |
 
 | 88. | Abszorpciós hűtőgépek szénacél hűtőrendszerében korróziógátló szerként használt, a hűtőközegben lévő króm, a 7. melléklet 8., 9. és a 11. pontjában szereplő termékcsoportok közül | ≤ 0,75 m/m% hat vegyértékű króm | – |
@@ -356,7 +360,7 @@
 
 | 91. | A nem kizárólag fogyasztói felhasználásra szánt berendezések motorrendszereinek gumialkatrészeiben használt bisz(2-etil-hexil)-ftalát (DEPH) a 7. melléklet 11. pontjában szereplő termékcsoportba tartozó, de a 90. sorban nem említett, gumit tartalmazó alkatrészek esetében, amennyiben a lágyított anyag nem érintkezik emberi nyálkahártyával vagy tartósan emberi bőrrel. (Az emberi bőrrel való tartós érintkezés több mint 10 perc megszakítás nélküli érintkezést vagy napi 30 percet kitevő szakaszos érintkezést jelent.) | a gumi ≤ 10 m% | 2024. július 21-ig |
 
-3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^88]
+3. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^92]
 
 A veszélyes anyagok alkalmazásának korlátozása alóli mentességek az orvostechnikai eszközök és a ellenőrző és vezérlő eszközök vonatkozásában
 
@@ -554,4 +558,4 @@ lejár.
 
 53. Kapilláris reométerek olvadéknyomás-jelátalakítóiban 300 °C feletti hőmérsékleten és 1000 bar feletti nyomáson lévő higany. A mentesség a 9. termékcsoportra vonatkozik. A mentesség 2025. december 31-én lejár.
 
-[^88]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a, a 43/2023. (II. 20.) Korm. rendelet 2. §-a, a 633/2023. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^92]: A 3. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 365/2015. (XII. 2.) Korm. rendelet 2. §-a, a 42/2017. (III. 7.) Korm. rendelet 2. §-a, a 307/2016. (X. 13.) Korm. rendelet 3. § (2) bekezdése, a 105/2019. (V. 8.) Korm. rendelet 13. § c) pontja, a 369/2020. (VII. 28.) Korm. rendelet 2. §-a, az 596/2020. (XII. 17.) Korm. rendelet 2. § (2) bekezdése, az 52/2022. (II. 23.) Korm. rendelet 3. §-a, a 43/2023. (II. 20.) Korm. rendelet 2. §-a, a 633/2023. (XII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
