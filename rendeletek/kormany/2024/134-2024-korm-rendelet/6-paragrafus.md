@@ -1,3 +1,7 @@
-6. §[^6]
+6. § Az R.
 
-[^6]: A 6. § a 7. § (2) bekezdése alapján 2024. augusztus 21-én lép hatályba.
+a) 8. § (4) és (7) bekezdésében a „szállásadó” szövegrész helyébe a „Magyar Máltai Szeretetszolgálat Egyesület” szöveg,
+
+b) 8. § (12) bekezdésében a „szállásadónak” szövegrész helyébe a „Magyar Máltai Szeretetszolgálat Egyesületnek” szöveg
+
+lép.
