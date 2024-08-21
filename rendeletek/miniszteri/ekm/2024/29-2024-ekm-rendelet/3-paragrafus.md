@@ -1,3 +1,3 @@
-3. § A használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló 45/2020. (XI. 28.) ITM rendelet 23. §-a a következő 5. ponttal egészül ki:
+3. §[^3]
 
-(Ez a rendelet)
+[^3]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
