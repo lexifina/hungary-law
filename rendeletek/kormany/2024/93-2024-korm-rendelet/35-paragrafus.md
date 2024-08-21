@@ -1,23 +1,23 @@
 35. § Az R7.
 
-a)[^39]
+a)[^27]
 
-b)[^40]
+b)[^28]
 
-c)[^41]
+c)[^29]
 
-d)[^42]
+d)[^30]
 
-e)[^43]
+e)[^31]
 
-f)[^44]
+f)[^32]
 
-g)[^45]
+g)[^33]
 
-[^39]: A 35. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^40]: A 35. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: A 35. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^42]: A 35. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 35. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^44]: A 35. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^45]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.
+[^27]: A 35. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 35. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 35. § c) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 35. § d) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 35. § e) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 35. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^33]: A 35. § g) pontja a 38. § (5) bekezdés alapján 2025. január 1-jén lép hatályba.

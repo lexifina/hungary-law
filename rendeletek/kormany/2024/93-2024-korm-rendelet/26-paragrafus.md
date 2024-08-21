@@ -1,3 +1,3 @@
-26. §[^30]
+26. § Az R7. a következő 6. §-sal egészül ki:
 
-[^30]: A 26. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+„6. § A NAV a fogyasztóvédelmi hatóság ellenőrzési feladatainak a támogatása céljából minden év január tizenötödik napjáig a honlapján közzéteszi az 1. § 11. pontja szerinti, online számlázási funkcióval rendelkező programot működtetők nevét, székhelyét, adószámát.”

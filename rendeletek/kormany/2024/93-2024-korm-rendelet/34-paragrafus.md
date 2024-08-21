@@ -1,3 +1,3 @@
-34. §[^38]
+34. § (1) Az R7. 1. melléklete helyébe a 3. melléklet lép.
 
-[^38]: A 34. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+(2) Az R7. a 4. melléklet szerinti 2. melléklettel egészül ki.

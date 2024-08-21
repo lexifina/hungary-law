@@ -2,10 +2,14 @@
 
 23. § (1)[^25]
 
-(2)[^26]
+(2) Az R7. 1. §-a a következő 8. ponttal egészül ki:
 
-(3)[^27]
+(E rendelet alkalmazásában:)
+
+## „8. online piac: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § k) pontjában meghatározott fogalom;”
+
+(3) Az R7. 1. §-a a következő 11. és 12. ponttal egészül ki:
+
+(E rendelet alkalmazásában:)
 
 [^25]: A 23. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 23. § (2) bekezdése a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
-[^27]: A 23. § (3) bekezdése a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.

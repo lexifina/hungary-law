@@ -1,3 +1,7 @@
-25. §[^29]
+25. § Az R7. 5. §-a helyébe a következő rendelkezés lép:
 
-[^29]: A 25. § a 38. § (4) bekezdés alapján 2024. augusztus 21-én lép hatályba.
+„5. § A NAV a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője által elektronikus úton benyújtott kérelmére gondoskodik
+
+a) az adattörlő kód generálásáról és
+
+b) az adattörlő kódnak a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője részére történő kiadásáról.”
