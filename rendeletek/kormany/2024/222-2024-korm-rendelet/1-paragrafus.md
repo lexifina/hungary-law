@@ -1,7 +1,3 @@
-1. § Az egyes veszélyes anyagok elektromos és elektronikus berendezésekben való alkalmazásának korlátozásáról szóló 374/2012. (XII. 18.) Korm. rendelet [a továbbiakban: 374/2012. (XII. 18.) Korm. rendelet] 8. §-a a következő (6)–(8) bekezdéssel egészül ki:
+1. §[^2]
 
-„(6) Az importőr az újrahasznosított kemény polivinil-kloridot tartalmazó árucikkek forgalomba hozatala előtt, jól láthatóan, olvashatóan és letörölhetetlenül köteles feltüntetni a következő nyilatkozatot: „≥ 0,1% ólmot tartalmaz”, ha az árucikk polivinil-klorid-anyagában az ólom koncentrációja eléri vagy meghaladja a 0,1 tömegszázalékot. Ha ezt a jelölést az árucikk jellege miatt az árucikken nem lehet feltüntetni, akkor annak csomagolásán kell feltüntetni.
-
-(7) Az újrahasznosított kemény polivinil-kloridot tartalmazó polivinil-klorid-árucikk importőre a 14. § (1) bekezdése szerinti hatóságok kérésére benyújtja az adott árucikkben felhasznált újrahasznosított polivinil-klorid eredetére vonatkozó dokumentumalapú igazolásokat. A nyomonkövethetőség és az újrahasznosított tartalom igazolására szolgáló rendszerek keretében kibocsátott tanúsítványok az Európai Unióban gyártott árucikk esetében használhatók a polivinil-klorid eredetére vonatkozó állítások alátámasztására.
-
-(8) Az importált árucikk esetében az újrahasznosított polivinil-klorid használatával kapcsolatos állításokat a nyomonkövethetőség és az újrafeldolgozott tartalom igazolására szolgáló, független harmadik fél által kibocsátott tanúsítvánnyal kell alátámasztani.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
