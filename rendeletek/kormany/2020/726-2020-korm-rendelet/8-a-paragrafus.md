@@ -1,5 +1,14 @@
-8/A. §[^24] (1) A kereskedő a fogyasztó tájékoztatása érdekében a tartós adathordozó eszközöket tartalmazó részlegén köteles az 1. melléklet szerinti tájékoztatót jól látható módon, információs táblán közzétenni.
+8/A. §[^27] (1) A kereskedő a fogyasztó tájékoztatása érdekében a tartós adathordozó eszközöket tartalmazó részlegén köteles az 1. melléklet szerinti tájékoztatót jól látható módon, információs táblán közzétenni.
 
-(2) Azon kereskedő, aki csomagküldő kereskedelmet folytat, valamint azon kereskedő, aki rendelkezik internetes honlappal, a honlap nyitó felületén és a tartós adathordozó termék termékleírásában jól látható módon közzéteszi az 1. melléklet szerinti tájékoztatót.
+(2)[^28] Azon kereskedő, aki
 
-[^24]: A 8/A. §-t a 378/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+a) csomagküldő kereskedelmet folytat,
+
+b) internetes honlappal rendelkezik, vagy
+
+c) tevékenységét online piacon fejti ki,
+
+a tartós adathordozó termékleírásában jól látható módon közzéteszi a 2. melléklet szerinti tájékoztatót.
+
+[^27]: A 8/A. §-t a 378/2022. (X. 5.) Korm. rendelet 5. §-a iktatta be.
+[^28]: A 8/A. § (2) bekezdése a 93/2024. (IV. 23.) Korm. rendelet 29. §-ával megállapított szöveg.

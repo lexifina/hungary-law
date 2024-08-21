@@ -16,11 +16,19 @@
 
 7.[^7] adattörlő alkalmazás: a tartós adathordozón tárolt adatok végleges hozzáférhetetlenné tételét lehetővé tevő, a jogosultság ellenőrzést végző központi szoftverből és a fogyasztó által letölthető, az adatok törlését ténylegesen megvalósító szoftverből álló rendszer;
 
-8.[^8]
+8.[^8] online piac: a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 2. § k) pontjában meghatározott fogalom;
 
 9.[^9] adattörlő kód: kriptográfiai úton generált alfanumerikus karaktersorozat, amely az adattörlő alkalmazás fogyasztó által letölthető szoftver komponensének az egyszeri aktiválásához szükséges;
 
 10.[^10] adattörlési igazolás: az adattörlő alkalmazás által kiállított, elektronikus aláírással és időbélyeggel hitelesített okirat, amely igazolja, hogy a megadott azonosítóval rendelkező tartós adathordozón az adatok végleges hozzáférhetetlenné tétele megtörtént.
+
+11.[^11] online számlázási funkcióval rendelkező program működtetője: az a személy vagy szervezet,
+
+a) aki vagy amely felhasználói számára a hálózaton keresztül elérhető, számlázási szolgáltatás igénybevételét biztosítja, és
+
+b) akinek vagy amelynek a tárgyévet megelőző évben legalább 1000 online számlaadat-szolgáltatást teljesítő ügyfele volt, akik vagy amelyek a tárgyévet megelőző évben legalább 100 000 online számlaadat-szolgáltatást teljesítettek;
+
+12.[^12] online számlaadat-szolgáltatás: az adópolitikáért felelős miniszter rendeletében meghatározott módon a kiállított számla, valamint számlával egy tekintet alá eső okirat adatainak az állami adó- és vámhatóság részére, elektronikus úton történő továbbítása.
 
 [^2]: Az 1. § 1. pontját az 518/2022. (XII. 13.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte, újonnan a 93/2024. (IV. 23.) Korm. rendelet 23. § (1) bekezdése iktatta be.
 [^3]: Az 1. § 2. pontja a 93/2024. (IV. 23.) Korm. rendelet 36. §-a szerint módosított szöveg.
@@ -28,6 +36,8 @@
 [^5]: Az 1. § 4. pontja az 518/2022. (XII. 13.) Korm. rendelet 2. §-ával megállapított, a 93/2024. (IV. 23.) Korm. rendelet 35. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § 5. pontja az 518/2022. (XII. 13.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 7. pontja a 490/2021. (VIII. 13.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^8]: Az 1. § 8. pontját a 490/2021. (VIII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^8]: Az 1. § 8. pontját a 490/2021. (VIII. 13.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte, újonnan a 93/2024. (IV. 23.) Korm. rendelet 23. § (2) bekezdése iktatta be.
 [^9]: Az 1. § 9. pontja a 490/2021. (VIII. 13.) Korm. rendelet 2. §-ával megállapított, az 518/2022. (XII. 13.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^10]: Az 1. § 10. pontja a 490/2021. (VIII. 13.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^11]: Az 1. § 11. pontját a 93/2024. (IV. 23.) Korm. rendelet 23. § (3) bekezdése iktatta be.
+[^12]: Az 1. § 12. pontját a 93/2024. (IV. 23.) Korm. rendelet 23. § (3) bekezdése iktatta be.

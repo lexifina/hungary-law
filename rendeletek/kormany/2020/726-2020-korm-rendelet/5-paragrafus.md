@@ -1,10 +1,10 @@
-## 3.[^18] A NAV feladata
+## 3.[^21] A NAV feladata
 
-5. §[^19] A NAV a kereskedő által elektronikus úton benyújtott kérelmére gondoskodik
+5. §[^22] A NAV a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője által elektronikus úton benyújtott kérelmére gondoskodik
 
 a) az adattörlő kód generálásáról és
 
-b) az adattörlő kód kereskedő részére történő kiadásáról.
+b) az adattörlő kódnak a kereskedő, az online piac vagy az online számlázási funkcióval rendelkező program működtetője részére történő kiadásáról.
 
-[^18]: A 3. alcím címe az 518/2022. (XII. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^19]: Az 5. § az 518/2022. (XII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^21]: A 3. alcím címe az 518/2022. (XII. 13.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^22]: Az 5. § a 93/2024. (IV. 23.) Korm. rendelet 25. §-ával megállapított szöveg.

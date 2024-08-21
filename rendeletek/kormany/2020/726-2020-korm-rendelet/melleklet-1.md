@@ -1,7 +1,3 @@
-1. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^52]
+1. melléklet a 726/2020. (XII. 31.) Korm. rendelethez[^58]
 
-Az adatok végleges hozzáférhetetlenné tételét lehetővé tévő adattörlő alkalmazással kapcsolatos tájékoztató
-
-2X06649.pdf
-
-[^52]: Az 1. mellékletet a 378/2022. (X. 5.) Korm. rendelet 6. §-a iktatta be.
+[^58]: Az 1. mellékletet a 378/2022. (X. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.

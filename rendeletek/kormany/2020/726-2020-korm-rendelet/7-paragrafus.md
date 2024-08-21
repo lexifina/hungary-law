@@ -1,7 +1,7 @@
-7. §[^21] A NAV adatot szolgáltat az NMHH részére
+7. §[^24] A NAV adatot szolgáltat az NMHH részére
 
-a) a kereskedőnek kiadott adattörlő kódszámokról és a kiadás dátumáról, a kiadást követő egy munkanapon belül, valamint
+a) a kereskedőnek, az online piac, valamint az online számlázási funkcióval rendelkező program működtetőjének kiadott adattörlő kódokról, a kiadás dátumáról a kiadást követő egy munkanapon belül, valamint
 
-b) a kereskedő 9. § (3) bekezdése szerinti adatszolgáltatása alapján a fogyasztónak átadott adattörlő kódszámokról és az átadás dátumáról, hetente, a hét második munkanapján.
+b) a kereskedő, az online piac, valamint az online számlázási funkcióval rendelkező program működtetője a 9. § (3)–(6) bekezdése szerinti adatszolgáltatása alapján a fogyasztónak átadott adattörlő kódokról és az átadás dátumáról, hetente, a hét második munkanapján.
 
-[^21]: A 7. § az 518/2022. (XII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^24]: A 7. § a 93/2024. (IV. 23.) Korm. rendelet 27. §-ával megállapított szöveg.
