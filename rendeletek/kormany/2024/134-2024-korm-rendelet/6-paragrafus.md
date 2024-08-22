@@ -1,7 +1,3 @@
-6. § Az R.
+6. §[^7]
 
-a) 8. § (4) és (7) bekezdésében a „szállásadó” szövegrész helyébe a „Magyar Máltai Szeretetszolgálat Egyesület” szöveg,
-
-b) 8. § (12) bekezdésében a „szállásadónak” szövegrész helyébe a „Magyar Máltai Szeretetszolgálat Egyesületnek” szöveg
-
-lép.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
