@@ -8,7 +8,7 @@
 
 | 4. | magyar–szlovák | Letkés | 12111. j. út | Letkés 04, 07/12, 726/5, 726/4, 106/3, 744 |
 
-| 5. | magyar–szlovák | Somoskőújfalu | 21. sz. főút | Somoskőújfalu 621, 916 |
+| 5. | magyar–szlovák | Somoskőújfalu | 21. sz. főút | Somoskőújfalu 621, 915, 916[^7] |
 
 | 6. | magyar–szlovák | Sátoraljaújhely | 37. sz. főút | Sátoraljaújhely 7612 |
 
@@ -36,12 +36,17 @@
 
 | 18. | magyar–horvát | Drávaszabolcs | 58. sz. főút | Drávaszabolcs 0114/2, 0114/1, 0105/4 |
 
-| 19. | magyar–horvát | Barcs | 6. sz. főút | Barcs 2726/5 |
+| 19. | magyar–horvát | Barcs | 6. sz. főút | Barcs 2726/2, 2726/3, 2726/4, 2726/5, 2728[^8] |
 
-| 20. | magyar–horvát | Berzence | 6815. j. út | Berzence 0216 |
+| 20. | magyar–horvát | Berzence | 681. j. főút[^9] | Berzence 0215/2, 0215/3, 0215/4[^10] |
 
-| 21. | magyar–horvát | Letenye | 7. sz. főút | Letenye 0212, 0214, 0263, 0264/33, 0215/1 |
+| 21. | magyar–horvát | Letenye | 7. sz. főút | Letenye 0212, 0214, 0215/2, 0263, 0264/33, 0215/1, 0189/4[^11] |
 
-2. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^5]
+2. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^12]
 
-[^5]: A 2. mellékletet az 1223/2023. (VI. 8.) Korm. határozat 4. pontja visszavonta.
+[^7]: Az 1. mellékletben foglalt táblázat D:5 mezője az 1256/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^8]: Az 1. mellékletben foglalt táblázat D:19 mezője az 1256/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^9]: Az 1. mellékletben foglalt táblázat C:20 mezője az 1256/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^10]: Az 1. mellékletben foglalt táblázat D:20 mezője az 1256/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^11]: Az 1. mellékletben foglalt táblázat D:21 mezője az 1256/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^12]: A 2. mellékletet az 1223/2023. (VI. 8.) Korm. határozat 4. pontja visszavonta.

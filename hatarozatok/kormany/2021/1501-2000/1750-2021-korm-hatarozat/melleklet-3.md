@@ -1,4 +1,4 @@
-3. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^6]
+3. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^13]
 
 Felújítással érintett schengeni határátkelőhelyek
 
@@ -50,4 +50,4 @@ Felújítással érintett schengeni határátkelőhelyek
 
 | 23. | magyar–szerb | Hercegszántó | 51. sz. főút | Hercegszántó 03 |
 
-[^6]: A 3. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont b) pontjával megállapított szöveg.
+[^13]: A 3. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont b) pontjával megállapított szöveg.

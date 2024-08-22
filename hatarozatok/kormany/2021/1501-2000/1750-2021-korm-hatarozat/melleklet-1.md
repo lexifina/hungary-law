@@ -28,15 +28,23 @@
 
 ## Határidő: 2022. december 31.
 
-## 4. egyetért azzal, hogy az 1. mellékletben foglalt táblázat D oszlopában megjelölt ingatlanok a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Közút NZrt.) vagyonkezelésébe kerüljenek;
+## 4.[^1] egyetért azzal, hogy az 1. mellékletben foglalt táblázat szerinti ingatlanok, amelyek állami tulajdonban állnak, a Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: Magyar Közút NZrt.) vagyonkezelésébe kerüljenek;
 
-## 5. felhívja a nemzeti vagyon kezeléséért felelős tárca nélküli minisztert, hogy a Magyar Közút NZrt. és a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján gondoskodjon a 4. pontban foglalt feladat végrehajtásáról;
+## 5.[^2] felhívja
 
-## Felelős: nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
+## a) az építési és közlekedési minisztert, hogy a Magyar Közút NZrt. útján, valamint
 
-## Határidő: a felmerülés ütemében
+## b) a nemzetgazdasági minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság útján, valamint
 
-## 6.[^1] felhívja a belügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter bevonásával az 1. pont b) alpontjával összhangban gondoskodjon a 3. mellékletben szereplő schengeni határátkelőhelyek teljes körű felújításának, karbantartásának tervezéséről;
+## c) a belügyminisztert, hogy az Országos Rendőr-főkapitányság útján
+
+## gondoskodjon a 4. pontban foglalt feladat végrehajtásáról;
+
+| Felelős: | építési és közlekedési miniszter nemzetgazdasági miniszter belügyminiszter |
+
+| Határidő: | a felmerülés ütemében |
+
+## 6.[^3] felhívja a belügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter bevonásával az 1. pont b) alpontjával összhangban gondoskodjon a 3. mellékletben szereplő schengeni határátkelőhelyek teljes körű felújításának, karbantartásának tervezéséről;
 
 | Felelős: | belügyminiszter külgazdasági és külügyminiszter építési és közlekedési miniszter |
 
@@ -52,7 +60,7 @@
 
 ## 8. egyetért azzal, hogy a magyar–szerb és magyar–ukrán határon lévő határátkelőhely-felújítások előkészítésének 270 000 000 forint indikatív forrásigénye a 2021–2027 közötti programozási időszakban Magyarország számára elérhető Határigazgatási és Vízumpolitikai Eszköz felhasználásával kerüljön finanszírozásra, annak európai uniós eljárásrendben történő elfogadását követően, amennyiben megfelel az európai uniós elszámolhatósági feltételeknek;
 
-## 9.[^2] felhívja az építési és közlekedési minisztert, hogy az 1. pont c) alpontjával összhangban,
+## 9.[^4] felhívja az építési és közlekedési minisztert, hogy az 1. pont c) alpontjával összhangban,
 
 ## a) a belügyminiszter, valamint a külgazdasági és külügyminiszter bevonásával, tervpályázat útján, határon túli tervezők részvétele lehetőségének biztosításával gondoskodjon a határátkelőhelyek átfogó építészeti koncepciójának elkészítéséről, a belső schengeni közúti határátkelőhelyek akadálymentesítési tervezési program keretében készülő ellenőrzőhelyek terveinek és az ellenőrzőhelyek védelmét biztosító védőtetők helyszínenkénti műszaki diszpozíciós terveinek figyelembevételével,
 
@@ -76,13 +84,15 @@
 
 ## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 11.[^3]
+## 11.[^5]
 
-1. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^4]
+1. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^6]
 
 Akadálymentesítéssel érintett határátkelőhelyek
 
-[^1]: A 6. pont az 1223/2023. (VI. 8.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 9. pont az 1223/2023. (VI. 8.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont a) pontjával megállapított szöveg.
+[^1]: A 4. pont az 1256/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: Az 5. pont az 1256/2024. (VIII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1223/2023. (VI. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 9. pont az 1223/2023. (VI. 8.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont a) pontjával megállapított szöveg.
