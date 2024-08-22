@@ -1,0 +1,169 @@
+# A Kormány 1251/2024. (VIII. 22.) Korm. határozata
+
+Magyar Közlöny 2024. évi 82. szám, 2024. augusztus 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/vRMs2iFRuqUY6wOWMH9N66a7e8eb7d931/dokumentumok/ed2c8bf2a4a5b32b05ee178b974f343212c7b3ad/letoltes)
+
+---
+
+A Kormány 1251/2024. (VIII. 22.) Korm. határozata
+az ENSZ Közgyűlés 79. ülésszakán való magyar részvételről
+A Kormány
+1. jóváhagyja – az 1. melléklet szerint – az ENSZ Közgyűlésének 79. ülésszakán részt vevő magyar küldöttség
+tevékenységének irányelveit;
+2. felhívja a külgazdasági és külügyminisztert, hogy az ENSZ Közgyűlésének 79. ülésszakán részt vevő magyar
+küldöttség vezetőjének és tagjainak megbízásáról előterjesztést tegyen Magyarország köztársasági elnökének.
+Felelős: külgazdasági és külügyminiszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1251/2024. (VIII. 22.) Korm. határozathoz
+Irányelvek az ENSZ Közgyűlés 79. ülésszakán részt vevő magyar küldöttség tevékenységéhez
+Az Egyesült Nemzetek Szervezete (ENSZ) Közgyűlés 79. ülésszakán részt vevő magyar küldöttség feladata, hogy
+a Kormány céljaival összhangban, a magyar nemzeti érdekeket érvényesítve tevékenykedjen.
+1. A küldöttség az ENSZ szerepével kapcsolatban
+a) a 2023. október 7-i terrortámadásokat követően kiéleződött közel-keleti konfliktus vonatkozásában járuljon
+hozzá hazánk alábbi, négy pilléren nyugvó álláspontjának becsatornázásához: (1) biztosítani kell, hogy
+a világon sehol se történhessenek olyan brutális terrortámadások, mint Izraelben 2023. október 7-én,
+(2) el kell kerülni a konfliktus eszkalációját, (3) a nemzetközi humanitárius joggal összhangban azonnal és
+előfeltételek nélkül szabadon kell engedni valamennyi túszt, és (4) biztosítani kell a polgári lakosság, valamint
+a civil infrastruktúra védelmét;
+b) képviselje hazánk álláspontját, miszerint Magyarország elítéli az orosz katonai agressziót és határozottan kiáll
+Ukrajna szuverenitása és területi integritása mellett, valamint hogy Magyarország számára a szomszédos
+országban folyó háború nagy biztonsági kockázatot jelent, ezért érdekeltek vagyunk ennek a konfliktusnak
+a mielőbbi békés lezárásában, és egyértelmű érdekünk a fenntartható ukrajnai béke mielőbbi létrejötte;
+c) képviselje hazánk álláspontját, amely szerint a multilaterális rendszer jelenlegi formája, többek között
+az ENSZ rendszerének más nemzetközi szervezetekkel való kapcsolata – ahogy azt a közelmúlt válságai
+kapcsán a nemzetközi közösség által adott multilaterális válaszreakció hiányosságai is megmutatják –
+reformokra szorul. Hazánk ennek érdekében kész a nyitott együttműködésre.
+2. A küldöttség a béke és biztonság területén
+a) támogassa az ENSZ vezető nemzetközi szerepét, valamint összehangolt, hatékony globális fellépését
+a nemzetközi terrorizmus elleni küzdelemben, továbbá az ENSZ Terrorizmus Ellenes Hivatalának az erre
+irányuló multilaterális erőfeszítések kifejtésében betöltött szerepének erősítését, az ENSZ Globális
+Terrorizmus Ellenes Stratégiájának 8. felülvizsgálatáról elfogadott közgyűlési határozat, az ENSZ keretében
+elfogadott 19 terrorizmus ellenes nemzetközi dokumentum, valamint az ENSZ Biztonsági Tanácsa által
+a nemzetközi terrorizmus elleni küzdelem terén elfogadott határozatai alapján;
+b) támogassa a világ számos térségében hitük miatt üldözött és diszkriminált közösségek – kiemelten
+az üldözött keresztények – megsegítésére irányuló kezdeményezéseket;
+c) támogassa a nők, gyermekek, fiatalok és fogyatékossággal élők konfliktusokban való védelmét, valamint
+a fenntartható béke megteremtésébe való érdemi bevonását célzó kezdeményezéseket, és ennek
+keretében a „Nők, béke és biztonság” (Women, Peace and Security – WPS), a „Fiatalok, béke és biztonság”
+(Youth, Peace and Security, YPS), a „Gyermekek és fegyveres konfliktusok” (Children and Armed Conflict –
+CAAC) napirendeket, valamint a konfliktusok során elkövetett szexuális erőszak megelőzését és felszámolását
+célzó erőfeszítéseket;
+d) fordítson kiemelt figyelmet a migrációra vonatkozó magyar kormányzati álláspont érvényesítésére
+az ENSZ keretein belül, beleértve a közös uniós álláspont egyeztetését, különös tekintettel a magyar
+szavazati magatartást meghatározó kormányhatározatokra, és képviselje a tagállamok határvédelemmel és
+a területükön való tartózkodás szabályainak meghatározásával kapcsolatosan meglevő nemzeti szabályozási
+hatáskörét, valamint utaljon a migráció jelentette közvetlen biztonsági kockázatokra;
+e) képviselje határozottan Magyarország álláspontját, miszerint az ENSZ-ben tartózkodjanak az új közgyűlési
+határozatokban, illetve hivatalos állásfoglalásokban a Globális Migrációs, valamint a Globális Menekültügyi
+Megállapodásra utaló hivatkozások megjelenítésétől, tekintve, hogy azokat hazánk mellett több más
+tagállam sem írta alá, és ennek következményeképpen azok végrehajtásában semmilyen módon
+nem kívánunk részt venni;
+f) támogassa, hogy a közel-keleti békefolyamattal (MEPP) kapcsolatos tárgyalások és szövegezések során
+a kiegyensúlyozottság érvényesüljön az egyoldalú felelősségre vonás helyett;
+g) támogassa az ENSZ leszerelési mechanizmusának megfelelő működését célzó törekvéseket, ezen belül
+az ENSZ BT 1540 (2004). sz. határozatának végrehajtását és átfogó felülvizsgálatát, a genfi Leszerelési Értekezlet
+(CD) tevékenységével összefüggő folyamatokat, az Atomsorompó Szerződés (NPT) végrehajtásának erősítését,
+az Átfogó Atomcsend Szerződés (CTBT) mielőbbi hatálybalépését, az atomfegyverekben alkalmazható
+nukleáris hasadóanyagok termelésének tilalmáról szóló nemzetközi szerződés (FMCT) létrehozatalára irányuló
+
+tárgyalások mielőbbi megkezdését, a Biológiai és Toxinfegyver Tilalmi Egyezmény (BTWC) egyetemessé
+tétele érdekében végzett erőfeszítéseket és alkalmazásának megerősítését, a Fegyverkereskedelmi Szerződés
+(ATT) egyetemessé tételét, teljes körű végrehajtását és részes államainak konferenciáin elért eredmények
+továbbfejlesztését, illetve a kézi- és könnyűfegyverek (SALW) tiltott kereskedelme elleni küzdelmet;
+h) a kiberdiplomáciai erőfeszítések keretében kísérje figyelemmel és támogassa a kibertér biztonságának
+erősítése érdekében tett konszenzusépítési erőfeszítéseket; az A/RES/75/240 sz. közgyűlési határozattal
+2021–2025-ös évekre létrehozott nyílt végű munkacsoportban (Cyber OEWG) való konstruktív magyar
+szerepvállalás előmozdítását, támogassa az Európa Tanács Budapesten, 2001. november 23-án kelt
+Számítástechnikai Bűnözésről szóló Egyezményének (Budapest Egyezmény) végrehajtását, valamint
+hívja fel a figyelmet az Egyezményhez történő csatlakozás lehetőségére, továbbá a tárgyalások
+dinamikájától, irányától függően, valamint a közös uniós álláspont figyelembevételével kövesse nyomon
+a 2019. december 27-én elfogadott 74/247 sz. közgyűlési határozat alapján létrehozott ad hoc Bizottság
+(AHC) tevékenységét és szükség szerint fordítson figyelmet a kiberbűnözés elleni új, univerzális egyezmény
+elfogadását célzó tárgyalásokban való konstruktív magyar szerepvállalás előmozdítására.
+3. A küldöttség a Fenntartható Fejlődési Keretrendszerrel (Agenda 2030 vagy Keretrendszer) kapcsolatban
+a) mind nemzeti szinten, mind pedig a fejlődő világ vonatkozásában járuljon hozzá a 2015-ben kialakított
+globális Fenntartható Fejlődési Keretrendszerben foglalt célok eléréséhez, valamint – a magyar
+rendszer természetéhez igazodó, annak sajátosságait figyelembe vevő álláspont képviseletével –
+aktívan vegyen részt a Fenntartható Fejlődési Keretrendszer végrehajtásához kapcsolódó magas szintű
+eseményeken, így a Jövővel Foglalkozó Csúcstalálkozón, az antimikrobiális rezisztencia tárgyában (AMR),
+a fejlesztésfinanszírozás tárgyában megrendezendő, továbbá tengerszint-emelkedés okozta kockázatokkal
+foglalkozó magas szintű üléseken;
+b) támogassa a Fenntartható Fejlődési Célok végrehajtásának nemzetközi utókövetésére szolgáló folyamatokat,
+valamint vegyen részt aktívan a témában rendezendő Magas Szintű Politikai Fórumon;
+c) továbbra is fordítson kiemelt figyelmet a vízzel és szanitációval kapcsolatos célok és alcélok
+végrehajtására irányuló nemzetközi folyamatokra, segítse elő a célkitűzések megvalósításához szükséges
+intézményrendszeri reformok meghozatalát, ennek megfelelően szükség esetén erősítse meg Magyarország
+elkötelezettségét egy, a vízügyi kérdések szakpolitikai irányítását nemzetközi szintre emelő kormányközi
+platform távlati megteremtésével kapcsolatban, és támogassa az ENSZ vízügyi különmegbízott pozíciójának
+létrehozását;
+d) a c) alponthoz kapcsolódóan ismertesse hazánk aktív vízdiplomáciai tevékenységét, különös tekintettel
+a hazai szervezésű 2013. évi, 2016. évi és 2019. évi Budapesti Víz Világtalálkozókon, illetve a Planet Budapest
+2021 Fenntarthatósági Expó és Világtalálkozón elért eredményekre, valamint a 2023. évi ENSZ Vízügyi
+Konferencián és a Sendai Keretrendszer félidei felülvizsgálati konferenciáján tanúsított magas szintű és
+proaktív részvételre.
+4. A küldöttség az Our Common Agenda folyamattal kapcsolatban
+a) támogassa a kezdeményezés párhuzamos folyamatainak minél ambiciózusabb megvalósulását a magyar
+álláspont következetes képviselete mellett, különösen a migráció és gender tekintetében;
+b) járuljon hozzá a folyamat sikerességéhez, különösen a fiatalok globális ügyekbe való bevonásának, a jövő
+generációi érdekvédelmének támogatásával, az ezen témákkal kapcsolatos jógyakorlatok becsatornázásával;
+c) képviselje Magyarországot a 2024. szeptember 22–23. között megrendezésre kerülő Jövővel Foglalkozó
+Csúcstalálkozón, és ennek keretében képviselje a magyar álláspontot a család fontossága, a fiatalok
+helyzetbe hozása, a jövő generációi érdekeinek védelme, továbbá a konfliktusmegelőzéssel kapcsolatos
+kezdeményezések hangsúlyosabb megjelenítése kapcsán, valamint támogassa a folyamat utókövetését
+a Fenntartható Fejlődési Célok végrehajtásának elősegítése és időben történő végrehajtása tekintetében;
+d) aktívan vegyen részt a 2025 őszén megrendezésre kerülő Társadalmi Fejlődéssel Foglalkozó Csúcstalálkozó
+(World Social Summit) előkészületeiben, különös tekintettel az eseményen elfogadandó politikai nyilatkozat
+szövegezésére.
+5. A küldöttség az emberi jogok területén
+a) lépjen fel Magyarország nemzetközi emberi jogi szerződéses kötelezettségeivel, valamint a magyar
+jogszabályokkal összhangban a Magyarország számára kiemelten fontos területeken, úgymint az alapvető
+szabadságjogok tiszteletben tartása, a hitük miatt üldözött és diszkriminált közösségek, a nemzeti vagy
+etnikai, vallási és nyelvi kisebbségek, az őshonos népek, illetve a nők, a gyermekek és a fogyatékossággal
+
+élő személyek jogainak védelme és a hátrányos megkülönböztetés elleni küzdelem, különös tekintettel
+a többszörösen hátrányos helyzetű személyekre;
+b) támogassa a férfiak és a nők közötti egyenlőség, valamint a nők helyzetének előmozdítását, valamint
+a gyermekek jogainak védelmét, hangsúlyozza a család fontos társadalomépítő szerepét és a család
+intézményének megerősítésének szükségességét a családok szükségleteihez hangolt szakpolitikák által,
+valamint mutassa be a magyar családpolitikákat, mint a gyermekvállalás elősegítését, a családi jóllétet, a nők
+helyzetbe hozását és a gyermekek egészséges fejlődését elősegítő szakpolitikai keretrendszert;
+c) lépjen fel az ENSZ fórumain a hagyományos szemlélet mentén a női-férfi nemekre, valamint a családmodellre
+vonatkozóan és a női-férfi dichotómiát kibővíteni célzó törekvésekkel szemben, egyúttal az egyezményes
+nyelvezet kiterjesztésére irányuló javaslatok ellen a szexuális reproduktív egészség és jogok, s a szexuális
+nevelés kérdései kapcsán egyaránt;
+d) képviselje határozottan az álláspontot, amely szerint az ENSZ Emberi Jogi Tanács (EJT) reformjára van szükség
+annak érdekében, hogy a határozatok, kezdeményezések átpolitizálása csökkenjen, a Tanács munkája pedig
+valóban a konszenzusépítést és a párbeszédet segíthesse elő.
+6. A küldöttség a nemzetközi jog területén
+a) továbbra is aktívan vegyen részt az emberiesség elleni bűncselekmények megelőzéséről és tilalmáról szóló új,
+univerzális egyezmény elfogadását célzó tárgyalásokon;
+b) álljon ki a Nemzetközi Bíróság és az egyéb általánosan elismert nemzetközi vitarendező testületek működése
+mellett, és támogassa a Nemzetközi Bíróság joghatóságának általános elismerését;
+c) a nemzetközi jog meglévő keretein belül aktívan vegyen részt a nemzetközi környezetvédelem, valamint
+a nemzetközi büntető-igazságszolgáltatás erősítését célzó nemzetközi folyamatokban.
+7. A küldöttség az ENSZ reformjával és működésével kapcsolatban
+a) kísérje figyelemmel az ENSZ Biztonsági Tanácsa kibővítésére és munkamódszereinek átalakítására vonatkozó
+javaslatok alakulását, a kormányközi tárgyalások folyamatát és eredményeit, folytassa a Biztonsági Tanács
+munkamódszereinek javítására és működésének átláthatóbbá tételére irányuló együttműködésben való aktív
+részvételt;
+b) képviselje, hogy a megújuló Biztonsági Tanácsnak meg kell felelnie a 21. század új geopolitikai és
+gazdasági realitásainak, így taglétszámának és összetételének tükröznie kell a nemzetközi politikai és
+gazdasági erőviszonyokban bekövetkezett változásokat, egyszersmind tekintettel kell lennie a hatékonyság
+követelményére is, amelyekre tekintettel indokolt egy további nem állandó tagsági hely megadása
+a kelet-európai regionális csoport számára, amely növelné Magyarország Biztonsági Tanácsba való
+bekerülésének esélyeit;
+c) erősítse meg, hogy Magyarország támogatja az ENSZ főtitkár elképzeléseit a világszervezet irányításának
+reformját illetően, valamint a Közgyűlés szerepének megújítása és az ENSZ fejlesztési és környezetvédelmi
+rendszerének reformja tekintetében Magyarország továbbra is hozzá kíván járulni a folyamat
+előmozdításához;
+d) támogassa az ENSZ Ifjúsági Iroda (UN Youth Office) munkáját, az Ifjúsági Küldött Program kiterjesztését,
+valamint az ifjúságnak az ENSZ folyamatokba történő érdemi, minél hatékonyabb és átfogóbb bevonását.
+8. A küldöttség Magyarország jelöléseivel kapcsolatban
+a) használja fel az ENSZ Közgyűlés fórumait, valamint a Közgyűlés margóján létrejövő két- és többoldalú magas
+szintű találkozókat Magyarország ENSZ-szervekbe benyújtott jelölései támogatottságának felmérésére és
+növelésére, továbbá egyes ENSZ-szervezetek, intézmények vezetői posztjaira benyújtott magyar jelölések
+sikerének előmozdítására;
+b) fordítson megkülönböztetett figyelmet hazánk nemzetközi jelöléseire, és mérje fel további pályázatok
+benyújtásának lehetőségét, így is erősítve Magyarország ENSZ rendszeren belüli szerepvállalását a jövőben.
