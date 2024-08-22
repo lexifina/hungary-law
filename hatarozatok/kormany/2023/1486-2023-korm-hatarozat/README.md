@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1486-30
 | 2023-11-09 | 2023-1486-30-22.1 | 1486/2023. (XI. 9.) Korm. határozat |
 | 2024-04-23 | 2023-1486-30-22.2 | 1118/2024. (IV. 23.) Korm. határozat |
 | 2024-05-07 | 2023-1486-30-22.3 | 1118/2024. (IV. 23.) Korm. határozat |
+| 2024-08-22 | 2023-1486-30-22.4 | 1118/2024. (IV. 23.) Korm. határozat |
