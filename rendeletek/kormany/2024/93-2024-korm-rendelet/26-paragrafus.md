@@ -1,3 +1,3 @@
-26. § Az R7. a következő 6. §-sal egészül ki:
+26. §[^28]
 
-„6. § A NAV a fogyasztóvédelmi hatóság ellenőrzési feladatainak a támogatása céljából minden év január tizenötödik napjáig a honlapján közzéteszi az 1. § 11. pontja szerinti, online számlázási funkcióval rendelkező programot működtetők nevét, székhelyét, adószámát.”
+[^28]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

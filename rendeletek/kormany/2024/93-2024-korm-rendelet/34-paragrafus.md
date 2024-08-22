@@ -1,3 +1,3 @@
-34. § (1) Az R7. 1. melléklete helyébe a 3. melléklet lép.
+34. §[^36]
 
-(2) Az R7. a 4. melléklet szerinti 2. melléklettel egészül ki.
+[^36]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
