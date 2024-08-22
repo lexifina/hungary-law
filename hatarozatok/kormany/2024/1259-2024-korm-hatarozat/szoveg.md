@@ -1,0 +1,1 @@
+Az egyes folyamatban lévő egyházi célú fejlesztések megvalósításához szükséges többletforrás biztosításáról szóló 1486/2023. (XI. 9.) Korm. határozat 1. mellékletében foglalt táblázat B:6 mezőjében a „felújítása” szövegrész helyébe a „felújítása, új gyülekezeti ház építése, berendezése és egyéb infrastrukturális beruházások” szöveg lép.
