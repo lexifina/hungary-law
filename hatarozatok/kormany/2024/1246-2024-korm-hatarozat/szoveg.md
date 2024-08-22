@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy a Dunakeszi Radnóti Miklós Gimnázium IV. Béla Király Tagintézménye és Váci SZC Lányi Ferenc Technikum és Szakképző Iskola részeként megépült uszodakomplexum (a továbbiakban: Uszodakomplexum) a magyar állam tulajdonába kerüljön;
 
-2. az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény (a továbbiakban: NSÜ tv.) 1. § (2) bekezdése alapján az NSÜ tv. 2. § (1) bekezdés a)–c) pontja szerinti közfeladatok ellátása érdekében 2024. augusztus 15. napjával sportcélú ingatlanná minősíti a Dunakeszi, külterület 036/611 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) 1. pont szerinti, az Uszodakomplexumot magában foglaló részének megfeleltetett 8017/122827 tulajdoni hányadát (a továbbiakban: Tulajdoni Hányad), illetve az állami tulajdonba kerülésig az Ingatlanból telekalakítás során kialakításra kerülő, az 1. pont szerinti Uszodakomplexumot magában foglaló önálló ingatlant (a továbbiakban: Önálló Ingatlan, az Önálló Ingatlan és a Tulajdoni Hányad a továbbiakban együtt: Ingatlan2);
+2.[^1] az egyes állami sportcélú közfeladatok ellátásának rendjéről és szervezeti kereteiről szóló 2022. évi LVII. törvény (a továbbiakban: NSÜ tv.) 1. § (2) bekezdése alapján az NSÜ tv. 2. § (1) bekezdés a)–c) pontja szerinti közfeladatok ellátása érdekében 2024. augusztus 15. napjával sportcélú ingatlanná minősíti a Dunakeszi, külterület 036/550 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) 1. pont szerinti, az Uszodakomplexumot magában foglaló részének megfeleltetett 8017/122827 tulajdoni hányadát (a továbbiakban: Tulajdoni Hányad), illetve az állami tulajdonba kerülésig az Ingatlanból telekalakítás során kialakításra kerülő, az 1. pont szerinti Uszodakomplexumot magában foglaló önálló ingatlant (a továbbiakban: Önálló Ingatlan, az Önálló Ingatlan és a Tulajdoni Hányad a továbbiakban együtt: Ingatlan2);
 
 3. az NSÜ tv. 1. § (1) bekezdés c) pontjában meghatározott jogkörében eljárva, az NSÜ tv. 2. § (1) bekezdés a)–c) pontja szerinti közfeladatok ellátása érdekében sportingatlanná minősíti a magyar állam által történő tulajdonszerzés napjával az Ingatlan2-t, amely az állami tulajdonba kerülésével, az NSÜ tv. 2. § (2) bekezdése alapján a Nemzeti Sportinfrastruktúra Ügynökség (a továbbiakban: Ügynökség) tulajdonosi joggyakorlása alá kerül;
 
@@ -37,3 +37,5 @@ A Kormány
 | Felelős: | pénzügyminiszter honvédelmi miniszter |
 
 | Határidő: | a 2025. évi központi költségvetés tervezése során |
+
+[^1]: A 2. pont az 1260/2024. (VIII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
