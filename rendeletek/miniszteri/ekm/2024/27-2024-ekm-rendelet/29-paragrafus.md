@@ -1,0 +1,3 @@
+29. § (1) Az 1600-17/1951. KM számú miniszteri döntéssel védetté nyilvánított Várpalota (Veszprém vármegye), Kastélydomb utcában található Zichy-kastély telekalakítás után kialakult ingatlanai közül a belterület 185/20, 185/21, 185/23, 185/24 és 185/25 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+
+(2) A Várpalota, Kastélydomb utcában található, a közhiteles műemléki nyilvántartásban 4902 törzsszámon és 10572 azonosító számon nyilvántartott Zichy-kastély műemléki védettségét – tekintettel fennálló műemléki értékeire – egyebekben változatlanul fenntartom.

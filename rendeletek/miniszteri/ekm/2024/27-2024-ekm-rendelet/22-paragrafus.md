@@ -1,0 +1,5 @@
+22. § (1) Az egyes ingatlanok műemlékké nyilvánításáról, illetve műemléki védettségének megszüntetéséről szóló 1/2006. (I. 13.) NKÖM rendelettel védetté nyilvánított Hajmáskér (Veszprém vármegye), Tábori úton található, belterület 616/110 helyrajzi számú ingatlanon álló, a közhiteles műemléki nyilvántartásban 11218 törzsszámon és 14023 azonosító számon nyilvántartott őrségépületek kiemelt műemléki védettségét – tekintettel arra, hogy a védelem alapját képező értékeiket helyreállíthatatlanul elvesztették – megszüntetem.
+
+(2) A Hajmáskér (Veszprém vármegye), Tábori úton található, a közhiteles műemléki nyilvántartásban 11218 törzsszámon és 11309 azonosító számon nyilvántartott Tüzérségi lövőiskola laktanyaegyüttese kiemelt műemléki védettségét egyebekben változatlanul fenntartom.
+
+(3) Az (1) bekezdésben meghatározott ingatlannak a közhiteles műemléki nyilvántartásban 11218 törzsszámon és 14035 azonosító számon nyilvántartott Tüzérségi lövőiskola laktanyaegyüttese műemléki környezete tekintetében fennálló védettségét fenntartom.

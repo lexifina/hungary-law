@@ -1,0 +1,1 @@
+13. § Az 5261/113/1990. számú OMF hatósági határozattal védetté nyilvánított Balatonberény (Somogy vármegye), zártkert 2075 helyrajzi számú ingatlanon a közhiteles műemléki nyilvántartásban 10599 törzsszámon és 7738 azonosító számon nyilvántartott présház műemléki védettségét – tekintettel arra, hogy az épület megsemmisült – megszüntetem.

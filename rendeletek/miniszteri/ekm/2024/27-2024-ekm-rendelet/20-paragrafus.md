@@ -1,0 +1,3 @@
+20. § (1) A 22509/1958. ÉM – 120344/1958. MM miniszteri döntéssel védetté nyilvánított Gödöllő (Pest vármegye), Állomás utca 1–2. szám alatti Királyi váróterem telekalakítás után kialakult ingatlanai közül a Gödöllő, belterület 5893/4, 5893/5 és 5893/6 helyrajzi számú ingatlanok műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanokon védett érték nem található – megszüntetem.
+
+(2) A Gödöllő, belterület 5893/3 helyrajzi számú ingatlan, a közhiteles műemléki nyilvántartásban 7047 törzsszámon és 7058 azonosító számon nyilvántartott Királyi váróterem kiemelt műemléki védettségét – tekintettel fennálló műemléki értékeire – fenntartom.

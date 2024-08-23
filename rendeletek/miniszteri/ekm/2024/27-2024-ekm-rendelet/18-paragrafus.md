@@ -1,0 +1,3 @@
+18. § (1) A 863-4/1953. FOM miniszteri döntéssel védetté nyilvánított Dabas (Pest vármegye), Szent István út 65. szám alatti Halász Bálint-kúria telekalakítás után kialakult ingatlanai közül a Dabas, belterület 4945/1 helyrajzi számú ingatlan műemléki védettségét – tekintettel arra, hogy a telekalakítás következtében az ingatlanon védett érték nem található – megszüntetem.
+
+(2) A Dabas, belterület 4945/2 helyrajzi számú ingatlan, a közhiteles műemléki nyilvántartásban 6966 törzsszámon és 6977 azonosító számon nyilvántartott Halász Bálint-kúria műemléki védettségét – tekintettel fennálló műemléki értékeire – fenntartom.
