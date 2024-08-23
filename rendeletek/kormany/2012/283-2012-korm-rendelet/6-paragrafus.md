@@ -1,4 +1,4 @@
-## 6. §[^17] A képzési idő:
+## 6. §[^18] A képzési idő:
 
 a) az 5. § (1) bekezdés a) és b) pontja szerinti osztatlan képzésben 10 félév, a zeneművészeti kétszakos tanárképzésben 12 félév,
 
@@ -8,4 +8,4 @@ c) az 5. § (1) bekezdés c) pontja szerinti – az adott tanárszak szakterüle
 
 az adott tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
 
-[^17]: A 6. § az 538/2021. (IX. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: A 6. § az 538/2021. (IX. 15.) Korm. rendelet 5. §-ával megállapított szöveg.
