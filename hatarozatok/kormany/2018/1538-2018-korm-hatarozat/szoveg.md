@@ -6,13 +6,13 @@ a) az Európai Határregisztrációs Rendszer (a továbbiakban: EES), az Európa
 
 b) a Schengeni Információs Rendszer (a továbbiakban: SIS), a harmadik országbeli állampolgárokkal és a hontalan személyekkel szemben hozott ítéletekre vonatkozó információval rendelkező tagállamok azonosítására szolgáló központosított rendszer (a továbbiakban: ECRIS-TCN) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-c) az uniós információs rendszerek közötti interoperabilitás kereteinek megállapításáról szóló európai uniós jogi aktusokban szereplő követelmények (a továbbiakban: interoperabilitás) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
+c)[^2] a Központi Vízuminformációs Rendszer (a továbbiakban: VIS) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-d) a Központi Vízuminformációs Rendszer (a továbbiakban: VIS) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
+d)[^3] az Eurodac nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-e) az EES, az ETIAS, a SIS, az ECRIS-TCN és a VIS alkalmazására, valamint az interoperabilitásra való felkészülés nyomon követése és
+e)[^4] az EES, az ETIAS, a SIS, az ECRIS-TCN, a VIS és az Eurodac közötti interoperabilitás kereteinek megállapításáról szóló európai uniós jogi aktusokban szereplő követelmények (a továbbiakban: interoperabilitás) nemzeti részének megvalósításához szükséges kormányzati intézkedések összehangolása,
 
-f) az EES, az ETIAS, a SIS, az ECRIS-TCN és a VIS nemzeti részének, valamint az interoperabilitás fejlesztéséhez szükséges kormányzati intézkedések és döntések összehangolása és előkészítése.
+f)[^5] az EES, az ETIAS, a SIS, az ECRIS-TCN, a VIS, az Eurodac és az ezek közötti interoperabilitás alkalmazásának nyomon követése, az ennek során azonosított további fejlesztési igények, korrekciók végrehajtásához szükséges kormányzati intézkedések összehangolása.
 
 3. A Munkacsoport az egyes feladatok megvalósításával összefüggésben a feladatok végrehajtásában feladat- és hatáskörrel rendelkező szervektől – személyes adatnak nem minősülő – adatot, beszámolót kérhet. Elnöke és tagjai, valamint az állandó meghívottak az általuk kijelölt képviselő útján a Munkacsoport ülésein helyettesíthetők.
 
@@ -26,13 +26,13 @@ b) a külgazdasági és külügyminiszter és
 
 c) a pénzügyminiszter.
 
-d)[^2] a Miniszterelnöki Kabinetirodát vezető miniszter.
+d)[^6] a Miniszterelnöki Kabinetirodát vezető miniszter.
 
 6. A Munkacsoport tanácskozási joggal rendelkező állandó meghívott résztvevője
 
 a) az országos rendőrfőkapitány,
 
-b)[^3] a Nemzeti Információs Központ főigazgatója,
+b)[^7] a Nemzeti Információs Központ főigazgatója,
 
 c) a Terrorelhárítási Központ főigazgatója,
 
@@ -44,7 +44,7 @@ f) a Nemzetbiztonsági Szakszolgálat főigazgatója,
 
 g) a Nemzeti Szakértői és Kutató Központ főigazgatója,
 
-h)[^4] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
+h)[^8] az Országos Idegenrendészeti Főigazgatóság főigazgatója,
 
 i) a Nemzeti Adó- és Vámhivatal vezetője.
 
@@ -66,13 +66,17 @@ c) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnökét.
 
 12. Ez a határozat a közzétételét követő napon lép hatályba.
 
-13.[^5]
+13.[^9]
 
-14.[^6]
+14.[^10]
 
 [^1]: A 2. pont az 1521/2022. (XI. 2.) Korm. határozat 47. pontjával megállapított szöveg.
-[^2]: Az 5. pont d) pontját az 1521/2022. (XI. 2.) Korm. határozat 48. pontja iktatta be.
-[^3]: A 6. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 49. pontja szerint módosított szöveg.
-[^4]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^5]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
-[^6]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^2]: A 2. pont c) alpontja az 1254/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. pont d) alpontja az 1254/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 2. pont e) alpontja az 1254/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^5]: A 2. pont f) alpontja az 1254/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: Az 5. pont d) pontját az 1521/2022. (XI. 2.) Korm. határozat 48. pontja iktatta be.
+[^7]: A 6. pont b) alpontja az 1521/2022. (XI. 2.) Korm. határozat 49. pontja szerint módosított szöveg.
+[^8]: A 6. pont h) alpontja az 1405/2019. (VII. 8.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^9]: A 13. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^10]: A 14. pontot az 1545/2019. (IX. 25.) Korm. határozat 2. pontja hatályon kívül helyezte.
