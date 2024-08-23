@@ -12,7 +12,7 @@
 
 | Határidő: | azonnal |
 
-## 4. visszavonja a lélegeztetőgépek rendeltetésszerű működéséhez szükséges alkatrészek NATO járványügyi célalapja számára történő adományozásáról és azok Jordán Hásimita Királyságban történő felhasználásáról szóló 1029/2024. (II. 22.) Korm. határozatot.
+## 4.[^1]
 
 1. melléklet az 1255/2024. (VIII. 22.) Korm. határozathoz
 
@@ -23,3 +23,5 @@
 | 2. | COV19TE-01-001-50002 | Invazív lélegeztetőgéphez; Panther 5 Légzőkör tartó kar | 10 |
 
 | 3. | COV19TE-01-001-00009 | 51006746 Inspired VHB20 aktív légúti párásító | 10 |
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
