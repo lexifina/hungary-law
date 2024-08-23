@@ -12,8 +12,10 @@
 
 | Határidő: | 2024. december 31. |
 
-## 2. A Dunakeszi Radnóti Miklós Gimnázium IV. Béla Király Tagintézménye és Váci SZC Lányi Ferenc Technikum és Szakképző Iskola részeként megvalósuló uszodakomplexum állami üzemeltetéséhez szükséges intézkedésekről szóló 1246/2024. (VIII. 8.) Korm. határozat 2. pontjában a „036/611” szövegrész helyébe a „036/550” szöveg lép.
+## 2.[^1]
 
 1. melléklet az 1260/2024. (VIII. 22.) Korm. határozathoz
 
 4X06102.pdf
+
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
