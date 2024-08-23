@@ -1,0 +1,1 @@
+1. § Az egyes állami tulajdonú gazdasági társaságok működésének észszerűsítésével kapcsolatos intézkedésekről szóló 216/2024. (VII. 31.) Korm. rendelet [a továbbiakban: 216/2024. (VII. 31.) Korm. rendelet] 1. melléklete az 1. melléklet szerint módosul.
