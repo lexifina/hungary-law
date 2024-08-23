@@ -10,7 +10,7 @@
 
 ## c) a Közigazgatási Államtitkári Értekezlet,
 
-## d) az európai uniós ügyek koordinációjáért felelős miniszter, a közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő kérdésekben a külpolitikáért felelős miniszter szükség szerint együttműködésben az érintett miniszterekkel,
+## d)[^3] az európai uniós ügyek koordinációjáért felelős miniszter, a közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő kérdésekben a külpolitikáért felelős miniszter szükség szerint együttműködésben az érintett miniszterekkel és a miniszterelnök nemzetbiztonsági főtanácsadójával,
 
 ## e) a Stratégiai Kabinet,
 
@@ -32,7 +32,7 @@
 
 ## d) az egyéb tanácsi döntés-előkészítő bizottságok (mint egyes, az alapszerződések által létrehozott, illetve közvetlenül a miniszteri tanácsokat előkészítő bizottságok, valamint a kormányzat részéről állandó delegált taggal működő bizottságok), valamint a Tanács működéséhez nem kapcsolódó bizottságok (mint az uniós jogi aktusok végrehajtási szabályainak elfogadására létrehozott, a tagállamok részvételével működő bizottságok, valamint egyéb kormányzati részvétellel működő bizottságok) üléseinek napirendjén szereplő uniós kezdeményezésekkel kapcsolatos tárgyalásiálláspont-javaslatok meghatározása,
 
-## e)[^3] az Állandó Képviselők Bizottsága (a továbbiakban: COREPER II) és a Helyettes Állandó Képviselők Bizottsága (COREPER I) üléseinek napirendjén szereplő uniós kezdeményezésekkel kapcsolatos tárgyalásiálláspont-javaslatok meghatározása,
+## e)[^4] az Állandó Képviselők Bizottsága (a továbbiakban: COREPER II) és a Helyettes Állandó Képviselők Bizottsága (COREPER I) üléseinek napirendjén szereplő uniós kezdeményezésekkel kapcsolatos tárgyalásiálláspont-javaslatok meghatározása,
 
 ## f) a Tanács üléseinek napirendi pontjaival kapcsolatos tárgyalásiálláspont-javaslatok meghatározása,
 
@@ -40,13 +40,13 @@
 
 ## h) a tagállami kötelezettségekkel összefüggő feladatok végrehajtásának ellenőrzése, a tagállami kötelezettségek végrehajtásával összefüggő uniós eljárásokban képviselendő álláspontjavaslatok meghatározása,
 
-## i)[^4] a Tanács 2024. második félévi magyar elnökségének előkészítésével és lebonyolításával kapcsolatban felmerülő kérdések megvitatása,
+## i)[^5] a Tanács 2024. második félévi magyar elnökségének előkészítésével és lebonyolításával kapcsolatban felmerülő kérdések megvitatása,
 
 ## j) az uniós intézmények által nyilvános konzultációra bocsátott kezdeményezésekkel kapcsolatos kormányzati álláspont összehangolása és meghatározása,
 
-## k)[^5] közreműködés a Közigazgatási Államtitkári Értekezlet és a Stratégiai Kabinet európai uniós tematikájú üléseinek előkészítésében,
+## k)[^6] közreműködés a Közigazgatási Államtitkári Értekezlet és a Stratégiai Kabinet európai uniós tematikájú üléseinek előkészítésében,
 
-## l)[^6] az európai uniós politikával kapcsolatos, az uniós tagságból fakadó feladatokkal összefüggő kormány-előterjesztések, jelentések és tájékoztató anyagok tervezeteinek megtárgyalása,
+## l)[^7] az európai uniós politikával kapcsolatos, az uniós tagságból fakadó feladatokkal összefüggő kormány-előterjesztések, jelentések és tájékoztató anyagok tervezeteinek megtárgyalása,
 
 ## m) az európai uniós döntéshozatali eljárások tekintetében felmerülő magyar érdekek beazonosítása, folyamatos figyelemmel kísérése és javaslattétel azok hatékony képviseletére,
 
@@ -58,29 +58,29 @@
 
 ## 6. Az EKTB működésének részletes szabályait az EKTB ügyrendje határozza meg, amelyet az EKTB fogad el.
 
-## 7.[^7] Az uniós döntéshozatali eljárásokban a magyar érdekek szempontjából kiemelkedő jelentőségű vagy a Kormány általános európai uniós politikája szempontjából meghatározó fontosságú kérdésekben, valamint az EKTB vitás kérdéseiben az európai uniós ügyek koordinációjáért felelős miniszter és az érintett miniszter együttes előterjesztésére a Kormány ügyrendje szerinti, a kérdésben hatáskörrel rendelkező döntéshozó fórum dönt. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő kérdésekben az előterjesztő a külpolitikáért felelős miniszter, szükség szerint együttműködésben más érintett miniszterrel, kiemelten a honvédelemért felelős miniszterrel.
+## 7.[^8] Az uniós döntéshozatali eljárásokban a magyar érdekek szempontjából kiemelkedő jelentőségű vagy a Kormány általános európai uniós politikája szempontjából meghatározó fontosságú kérdésekben, valamint az EKTB vitás kérdéseiben az európai uniós ügyek koordinációjáért felelős miniszter és az érintett miniszter együttes előterjesztésére a Kormány ügyrendje szerinti, a kérdésben hatáskörrel rendelkező döntéshozó fórum dönt. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő kérdésekben az előterjesztő a külpolitikáért felelős miniszter, szükség szerint együttműködésben más érintett miniszterrel, kiemelten a honvédelemért felelős miniszterrel, illetve a miniszterelnök nemzetbiztonsági főtanácsadójával.
 
-## 8.[^8] Az EKTB elnöke az európai uniós ügyek koordinációjáért felelős miniszter, helyettese az általa vezetett minisztérium Európa-politikáért felelős helyettes államtitkára (európai igazgató). Az európai igazgató az EKTB titkára.
+## 8.[^9] Az EKTB elnöke az európai uniós ügyek koordinációjáért felelős miniszter, helyettese az általa vezetett minisztérium Európa-politikáért felelős helyettes államtitkára (európai igazgató). Az európai igazgató az EKTB titkára.
 
-## 9.[^9] Az EKTB tagjai a minisztériumok – szervezeti és működési szabályzataik szerinti – európai uniós kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkárai, valamint a tárca nélküli miniszterek által kijelölt helyettes államtitkárok. Ha valamely minisztériumban helyettes államtitkár nem, vagy több helyettes államtitkár rendelkezik európai uniós kérdésekben feladat- és hatáskörrel, a minisztérium EKTB-tagját – a szervezeti és működési szabályzat erre vonatkozó rendelkezése hiányában – a miniszter jelöli ki.
+## 9.[^10] Az EKTB tagjai a minisztériumok – szervezeti és működési szabályzataik szerinti – európai uniós kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkárai, valamint a tárca nélküli miniszterek által kijelölt helyettes államtitkárok. Ha valamely minisztériumban helyettes államtitkár nem, vagy több helyettes államtitkár rendelkezik európai uniós kérdésekben feladat- és hatáskörrel, a minisztérium EKTB-tagját – a szervezeti és működési szabályzat erre vonatkozó rendelkezése hiányában – a miniszter jelöli ki.
 
-## 10.[^10] Elsődleges feladat- és hatáskörébe tartozó területet érintő ügyekben az EKTB egyeztetési és döntési eljárásában való részvételre az EKTB elnöke felkérheti az adott tárgykör szerinti felelős szakértői csoportban tagsággal rendelkező központi államigazgatási szerv vezetőjét vagy vezető beosztású tisztviselőjét, valamint a Magyar Nemzeti Bank képviselőjét. A részvételre az EKTB elnöke más személyt is felkérhet. Az EKTB egyeztetési és döntési eljárásának állandó résztvevője a miniszterelnök európai uniós ügyekért felelős főtanácsadója, a kormányzati kommunikációért felelős miniszter által delegált személy, az Állandó Képviselet vezetője (a továbbiakban: Állandó Képviselő), illetve az Állandó Képviselet vezetőjének helyettese (a továbbiakban: Helyettes Állandó Képviselő).
+## 10.[^11] Elsődleges feladat- és hatáskörébe tartozó területet érintő ügyekben az EKTB egyeztetési és döntési eljárásában való részvételre az EKTB elnöke felkérheti az adott tárgykör szerinti felelős szakértői csoportban tagsággal rendelkező központi államigazgatási szerv vezetőjét vagy vezető beosztású tisztviselőjét, valamint a Magyar Nemzeti Bank képviselőjét. A részvételre az EKTB elnöke más személyt is felkérhet. Az EKTB egyeztetési és döntési eljárásának állandó résztvevője a miniszterelnök európai uniós ügyekért felelős főtanácsadója, a kormányzati kommunikációért felelős miniszter által delegált személy, az Állandó Képviselet vezetője (a továbbiakban: Állandó Képviselő), illetve az Állandó Képviselet vezetőjének helyettese (a továbbiakban: Helyettes Állandó Képviselő).
 
 ## 11. Az EKTB tagja képviseli a minisztert, illetve a központi államigazgatási szerv vezetőjét az EKTB-ben, gondoskodik az EKTB munkájában a központi államigazgatási szerv európai uniós tagságból fakadó feladatainak egységes képviseletéről, összehangolja és felügyeli a miniszter, illetve a központi államigazgatási szerv vezetője első helyi felelősségével működő szakértői csoportok munkáját.
 
 ## 12. Az EKTB a döntését főszabály szerint szóbeli eljárás (az EKTB ülése), szükség esetén pedig írásbeli eljárás keretében hozza meg. A szóbeli eljárás és az írásbeli eljárás részletes szabályait az EKTB ügyrendje határozza meg.
 
-## 13.[^11]
+## 13.[^12]
 
-## 14.[^12]
+## 14.[^13]
 
 ## 15. Az EKTB ülését az EKTB elnöke hívja össze. Ülés összehívását indokolt esetben az EKTB bármely tagja kezdeményezheti az EKTB elnökénél.
 
 ## 16. Az EKTB ülésének napirendjét az EKTB tagjai javaslatainak figyelembevételével az EKTB elnöke határozza meg, igazodva az uniós döntéshozatali eljárások rendjéhez, valamint az Európai Tanács, a Tanács, a COREPER, az egyéb tanácsi döntés-előkészítő bizottságok, illetve az egyéb bizottságok és munkacsoportok munkatervéhez, illetve az aktuális európai uniós kérdésekhez.
 
-## 17.[^13] Az EKTB ülésére tanácskozási joggal szükség szerint meghívást kap a szakértői munkacsoport működtetéséért felelős egyéb központi államigazgatási szerv vezető beosztású kormánytisztviselője (az EKTB tagjai és meghívottjai a továbbiakban együtt: EKTB képviselő). Az EKTB képviselőket eseti jelleggel más politikai felsővezető vagy szakmai felsővezető helyettesítheti.
+## 17.[^14] Az EKTB ülésére tanácskozási joggal szükség szerint meghívást kap a szakértői munkacsoport működtetéséért felelős egyéb központi államigazgatási szerv vezető beosztású kormánytisztviselője (az EKTB tagjai és meghívottjai a továbbiakban együtt: EKTB képviselő). Az EKTB képviselőket eseti jelleggel más politikai felsővezető vagy szakmai felsővezető helyettesítheti.
 
-## 18.[^14] Az EKTB ülését az elnök vagy az EKTB elnök helyettese vezeti. Az EKTB elnök és az EKTB elnök helyettesének egyidejű távolléte vagy akadályoztatása esetén az EKTB ülését az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium más politikai felsővezetője, szakmai felsővezetője vagy felhatalmazással rendelkező vezető beosztású kormánytisztviselője vezetheti.
+## 18.[^15] Az EKTB ülését az elnök vagy az EKTB elnök helyettese vezeti. Az EKTB elnök és az EKTB elnök helyettesének egyidejű távolléte vagy akadályoztatása esetén az EKTB ülését az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium más politikai felsővezetője, szakmai felsővezetője vagy felhatalmazással rendelkező vezető beosztású kormánytisztviselője vezetheti.
 
 ## 19. Az EKTB működésével kapcsolatos adminisztratív és előkészítő feladatokat az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumban működő EKTB Titkárság látja el.
 
@@ -90,7 +90,7 @@
 
 ## 21. A Kormány európai uniós politikájának végrehajtása, az európai uniós tagságból fakadó feladatok előkészítése és az uniós döntéshozatali eljárások során képviselendő tárgyalási álláspontok kialakítása, az uniós politikák alakulásának nyomon követése és a szükséges kormányzati intézkedések koordinálása érdekében szakértői csoportok működnek.
 
-## 22.[^15] A szakértői csoport vezetője a feladat- és hatáskör szerinti első helyen felelős miniszter vagy központi államigazgatási szerv vezetője által kijelölt politikai felsővezető, szakmai felsővezető vagy felhatalmazással bíró vezető beosztású kormánytisztviselő. Ha a szakértői csoport több miniszter feladat- és hatáskörét érinti, és vezetését illetően vita alakul ki, a szakértői csoportot vezető személyt kijelölő miniszterre az EKTB tesz javaslatot.
+## 22.[^16] A szakértői csoport vezetője a feladat- és hatáskör szerinti első helyen felelős miniszter vagy központi államigazgatási szerv vezetője által kijelölt politikai felsővezető, szakmai felsővezető vagy felhatalmazással bíró vezető beosztású kormánytisztviselő. Ha a szakértői csoport több miniszter feladat- és hatáskörét érinti, és vezetését illetően vita alakul ki, a szakértői csoportot vezető személyt kijelölő miniszterre az EKTB tesz javaslatot.
 
 ## 23. A szakértői csoport tagjai a feladat- és hatáskör szerint érintett központi államigazgatási szervek kijelölt tisztségviselői, továbbá minden esetben az európai uniós ügyek koordinációjáért felelős miniszter és az államháztartásért felelős miniszter által vezetett minisztérium kijelölt kormánytisztviselője és az Állandó Képviselet kijelölt diplomatája. A szakértői csoport vezetője engedélyezheti más központi államigazgatási vagy rendvédelmi szerv képviselőinek részvételét is a szakértői csoport munkájában.
 
@@ -136,7 +136,7 @@
 
 ## 35. Az uniós döntéshozatalban képviselendő tárgyalási álláspontot a szakértői csoport vezetője egyeztetés céljából, határidő megjelölésével megküldi a szakértői csoport tagjainak. A határidőt úgy kell megállapítani, hogy az észrevételezésre megfelelő idő álljon rendelkezésre.
 
-## 36.[^16] A tárgyalási álláspont részletes tartalmi és formai követelményeit az EKTB ügyrendje határozza meg, azzal, hogy a tárgyalási álláspontnak tartalmaznia kell
+## 36.[^17] A tárgyalási álláspont részletes tartalmi és formai követelményeit az EKTB ügyrendje határozza meg, azzal, hogy a tárgyalási álláspontnak tartalmaznia kell
 
 ## a) az uniós kezdeményezés rövid ismertetését és a tárgyalások tervezett menetének összefoglalását, beleértve annak a Tanács soros elnöksége általi tervezését,
 
@@ -158,11 +158,11 @@
 
 ## 39. A tárgykör szerint felelős EKTB-tag az EKTB ügyrendjében meghatározott módon gondoskodik az új uniós jogi aktusok tervezeteinek vizsgálatáról azok jogalapja, továbbá a hatáskör-átruházás, a szubszidiaritás és az arányosság elveinek érvényesülése tekintetében, legkésőbb a tervezet magyar nyelvű változatának megjelenését követő egy héten belül.
 
-## 40.[^17] Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalási álláspont kialakítása érdekében a szakértői csoport egyeztetést folytat. Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalásiálláspont-javaslatot a szakértői csoportra irányadó egyeztetési rendnek megfelelően az adott bizottság munkájában a miniszterek által kijelölt szakmai felsővezetők vagy szakmai vezetők bevonásával, az e határozatban foglaltak szerint kell előkészíteni. A tárgyalásiálláspont-javaslatot az EKTB elnökének minden esetben meg kell küldeni egyeztetésre. A feladat- és hatáskörrel rendelkező minisztérium EKTB tagja a tárgyalási álláspont-javaslatról, illetve annak képviseletéről az EKTB-t tájékoztatni köteles.
+## 40.[^18] Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalási álláspont kialakítása érdekében a szakértői csoport egyeztetést folytat. Az egyéb tanácsi döntés-előkészítő bizottságok ülésén képviselendő tárgyalásiálláspont-javaslatot a szakértői csoportra irányadó egyeztetési rendnek megfelelően az adott bizottság munkájában a miniszterek által kijelölt szakmai felsővezetők vagy szakmai vezetők bevonásával, az e határozatban foglaltak szerint kell előkészíteni. A tárgyalásiálláspont-javaslatot az EKTB elnökének minden esetben meg kell küldeni egyeztetésre. A feladat- és hatáskörrel rendelkező minisztérium EKTB tagja a tárgyalási álláspont-javaslatról, illetve annak képviseletéről az EKTB-t tájékoztatni köteles.
 
-## 41. A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot – a Kormány fenntartott hatáskörének sérelme nélkül – a külpolitikáért felelős miniszter az érintett miniszterekkel egyeztetve javasolja, és gondoskodik annak képviseletéről. A külpolitikáért felelős miniszter képviselője – szükség esetén az érintett minisztériumokkal egyeztetve – az EKTB-t előzetesen tájékoztatja a tárgyalásiálláspont-javaslatról, amennyiben azt a vonatkozó titoktartási szabályok lehetővé teszik.
+## 41.[^19] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot – a Kormány fenntartott hatáskörének sérelme nélkül – a külpolitikáért felelős miniszter az érintett miniszterekkel és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve javasolja, és gondoskodik annak képviseletéről. A külpolitikáért felelős miniszter képviselője – szükség esetén az érintett minisztériumokkal és érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – az EKTB-t előzetesen tájékoztatja a tárgyalásiálláspont-javaslatról, amennyiben azt a vonatkozó titoktartási szabályok lehetővé teszik.
 
-## 42.[^18] Az EKTB elnöke vagy az Állandó Képviselő – különösen indokolt esetben – a feladat- és hatáskör szerint érintett miniszter egyidejű tájékoztatása és soron kívüli egyeztetés kezdeményezése mellett a tárgyalási álláspont végrehajtását (képviseletét) felfüggesztheti.
+## 42.[^20] Az EKTB elnöke vagy az Állandó Képviselő – különösen indokolt esetben – a feladat- és hatáskör szerint érintett miniszter egyidejű tájékoztatása és soron kívüli egyeztetés kezdeményezése mellett a tárgyalási álláspont végrehajtását (képviseletét) felfüggesztheti.
 
 ## V. A tárgyalási álláspont képviselete
 
@@ -174,7 +174,7 @@
 
 ## továbbítja.
 
-## 44. Amennyiben az Európai Unió intézményeitől az uniós tagsággal, különösen az uniós tagságból fakadó kötelezettségekkel összefüggő bármilyen dokumentum vagy megkeresés érkezik közvetlenül valamelyik központi államigazgatási szervhez, azt adott központi államigazgatási szerv továbbítja az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére. Az Európai Unió intézményei részére főszabályként valamennyi dokumentum, válasz vagy megkeresés megküldése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium európai uniós ügyekért felelős államtitkárságán keresztül történik. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő dokumentumokat a megfelelő szakértői egyeztetést követően a külpolitikáért felelős miniszter továbbítja a megkereső uniós intézmény felé, az Állandó Képviselet és európai uniós ügyek koordinációjáért felelős miniszter egyidejű tájékoztatása mellett.
+## 44.[^21] Amennyiben az Európai Unió intézményeitől az uniós tagsággal, különösen az uniós tagságból fakadó kötelezettségekkel összefüggő bármilyen dokumentum vagy megkeresés érkezik közvetlenül valamelyik központi államigazgatási szervhez, azt adott központi államigazgatási szerv továbbítja az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére. Az Európai Unió intézményei részére főszabályként valamennyi dokumentum, válasz vagy megkeresés megküldése az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium Európa-politikáért Felelős Helyettes Államtitkárságán keresztül történik. A közös kül- és biztonságpolitikát, valamint a közös biztonság- és védelempolitikát érintő dokumentumokat a megfelelő szakértői egyeztetést követően a külpolitikáért felelős miniszter – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával egyeztetve – továbbítja a megkereső uniós intézmény felé, az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter egyidejű tájékoztatása mellett.
 
 ## 45. A Tanács ülésén a Kormányt az elfogadott tárgyalási álláspontban foglaltaknak megfelelően az 1. mellékletben meghatározott felelősségi rend szerint felelős miniszter, illetve távolléte vagy akadályoztatása esetén a miniszter által kijelölt államtitkár képviseli.
 
@@ -198,7 +198,7 @@
 
 ## 52. A tanácsi munkacsoportban részt vevő tisztviselő a tanácsi munkacsoport ülését követő második munkanap végéig írásos jelentést készít, amelyet tájékoztatásul megküld a szakértői csoport vezetőjének és tagjainak, a feladat- és hatáskörrel rendelkező EKTB-tagnak és az EKTB Titkárságnak. Amennyiben ez nem lehetséges, gyorsjelentést kell készíteni. A tanácsi munkacsoportban részt vevő tisztviselő a jelentésben – szükség szerint – javaslatot tesz a korábbi álláspont módosítására és a szükséges hazai intézkedésekre.
 
-## 53. A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot a külpolitikáért felelős miniszter által vezetett minisztérium közös kül-, biztonság- és védelempolitikai kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkára küldi meg az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére, és gondoskodik azok nyilvántartásáról.
+## 53.[^22] A közös kül- és biztonságpolitikai, valamint a közös biztonság- és védelempolitikai kérdésekben a tárgyalási álláspontot a külpolitikáért felelős miniszter által vezetett minisztérium közös kül-, biztonság- és védelempolitikai kérdésekben feladat- és hatáskörrel rendelkező helyettes államtitkára – érintettsége esetén a miniszterelnök nemzetbiztonsági főtanácsadójával folytatott egyeztetést követően – küldi meg az Állandó Képviselet és az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium részére, és gondoskodik azok nyilvántartásáról.
 
 ## 54. Az Európai Tanács ülésén történő részvétel előkészítése, beleértve a szükséges egyeztetéseket és a tárgyalásiálláspont-javaslatok kialakítását, a miniszterelnök által meghatározott felelősségi rend szerint történik.
 
@@ -220,9 +220,9 @@
 
 ## 61. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 62.[^19]
+## 62.[^23]
 
-1. melléklet az 1505/2022. (X. 20.) Korm. határozathoz[^20]
+1. melléklet az 1505/2022. (X. 20.) Korm. határozathoz[^24]
 
 A Tanács formációi előkészítésének kormányzati felelősségi rendje
 
@@ -234,115 +234,125 @@ A Tanács formációi előkészítésének kormányzati felelősségi rendje
 
 | 2 | Általános Ügyek Tanácsa | EUM, KTM1, KKM2 |  |
 
-| 3 | Külügyek Tanácsa | KKM, HM3 |  |
+| 3 | Külügyek Tanácsa | KKM, HM3 | NGM4, MK5 |
 
-| 4 | Bel- és Igazságügyi Tanács | BM4, IM5 | EUM6 |
+| 4 | Bel- és Igazságügyi Tanács | BM6, IM7 | EUM8 |
 
-| 5 | Gazdasági és Pénzügyi Tanács | PM | NGM7 |
+| 5 | Gazdasági és Pénzügyi Tanács | PM | NGM9 |
 
-| 6 | Foglalkoztatási, Szociálpolitikai, Egészségügyi, Fogyasztóvédelmi Tanács | NGM8, BM9 | IM10, KIM11, PM12, ÉKM13 |
+| 6 | Foglalkoztatási, Szociálpolitikai, Egészségügyi, Fogyasztóvédelmi Tanács | NGM10, BM11 | IM12, KIM13, PM14, ÉKM15 |
 
-| 7 | Versenyképességi Tanács | NGM14, KIM15, KKM16, IM17 | NKFIH18, MKI19, MTÜ (NGM)20, SZTNH21, ÉKM22 |
+| 7 | Versenyképességi Tanács | NGM16, KIM17, IM18 | NKFIH19, MKI20, MTÜ (NGM)21, SZTNH22, ÉKM23, EM24, KKM25 |
 
-| 8 | Közlekedési, Távközlési és Energia Tanács | ÉKM23, EM24, KKM25, MK26 | NGM27 |
+| 8 | Közlekedési, Távközlési és Energia Tanács | ÉKM26, EM27, KKM28, MK29 | NGM30 |
 
-| 9 | Mezőgazdasági és Halászati Tanács | AM | BM28 |
+| 9 | Mezőgazdasági és Halászati Tanács | AM | BM31 |
 
-| 10 | Környezetvédelmi Tanács | EM, AM29 | BM30 |
+| 10 | Környezetvédelmi Tanács | EM, AM32 | NNGYK (BM)33 |
 
-| 11 | Oktatás, Ifjúság, Kultúra és Sport Tanács | KIM31, BM32, HM33, MK34 | ÉKM35, KTM36 |
+| 11 | Oktatás, Ifjúság, Kultúra és Sport Tanács | KIM34, BM35, HM36, MK37 | ÉKM38, KTM39 |
 
 2. Az 1. pontban foglalt táblázathoz kapcsolódó megjegyzések tartalma:
 
-1 A kohéziós politikai ügyekben a KTM a felelős.
+1A kohéziós politikai ügyekben a KTM a felelős.
 
-2 A bővítéssel, illetve az Európai Unió és az Egyesült Királyság közötti kapcsolatokkal összefüggő kérdésekben a KKM a felelős.
+2A bővítéssel, illetve az Európai Unió és az Egyesült Királyság közötti kapcsolatokkal összefüggő kérdésekben a KKM a felelős.
 
-3 A HM a védelmi miniszteri formáció tekintetében felelős.
+3A HM a védelmi miniszteri formáció tekintetében felelős.
 
-4 A belügyi témákért a BM felelős.
+4A védelmi iparral összefüggésben az NGM a felelős.
 
-5 Az igazságügyi témájú dossziékért fő szabály szerint az IM felel.
+5A védelmi és biztonsági tevékenységekkel összefüggésben a miniszterelnök nemzetbiztonsági főtanácsadója a felelős.
 
-6 Egyes igazságügyi témájú dossziékért az EUM a felelős.
+6A belügyi témákért a BM felelős.
 
-7 Az NGM feladat- és hatáskörébe tartoznak a pénz-, tőke- és biztosítási piac szabályozásával, az állami vagyonnal való gazdálkodás szabályozásával, az állami vagyon felügyeletével, valamint a pénzmosással összefüggő kérdések. Az NGM felelős továbbá a nemzetközi pénzügyi kapcsolatokért, kivéve a Gazdasági Együttműködési és Fejlesztési Szervezet, a Nemzetközi Valutaalap és a Világbank-csoport tekintetében, amelyek a PM hatáskörébe tartoznak.
+7Az igazságügyi témájú dossziékért fő szabály szerint az IM felel.
 
-8 Az NGM feladat- és hatáskörébe tartozik a foglalkoztatáspolitika.
+8Az egyes igazságügyi témájú dossziékért az EUM a felelős.
 
-9 A BM feladat- és hatáskörébe tartozik az egészségügy, a szociálpolitika, a társadalmi felzárkózás és a közfoglalkoztatás.
+9Az NGM feladat- és hatáskörébe tartoznak a pénz-, tőke- és biztosítási piac szabályozásával, az állami vagyonnal való gazdálkodás szabályozásával, az állami vagyon felügyeletével, valamint a pénzmosással összefüggő kérdések. Az NGM felelős továbbá a nemzetközi pénzügyi kapcsolatokért, kivéve a Gazdasági Együttműködési és Fejlesztési Szervezet, a Nemzetközi Valutaalap és a Világbank-csoport tekintetében, amelyek a PM hatáskörébe tartoznak.
 
-10 Az IM feladat- és hatáskörébe tartozik az esélyegyenlőség.
+10Az NGM feladat- és hatáskörébe tartozik a foglalkoztatáspolitika.
 
-11 A KIM feladat- és hatáskörébe tartozik a családpolitika.
+11A BM feladat- és hatáskörébe tartozik az egészségügy, a szociálpolitika, a társadalmi felzárkózás és a közfoglalkoztatás.
 
-12 A PM feladat- és hatáskörébe tartoznak az európai szemesztert és a nyugdíjpolitikát érintő kérdések.
+12Az IM feladat- és hatáskörébe tartozik az esélyegyenlőség.
 
-13 A miniszterelnöki biztos felel a dohányügyekért.
+13A KIM feladat- és hatáskörébe tartozik a családpolitika.
 
-14 Az NGM a felelős az iparügyekért és az űriparfejlesztésért, valamint felel az Európai Unió belső piacához kapcsolódó koordinációért. Továbbá az NGM feladat- és hatáskörébe tartoznak a tőke szabad áramlásával, gazdaságfejlesztéssel, a versenyképesség gazdasági és jogi feltételrendszerével összefüggő kérdések és a vállalkozásfejlesztési ügyek.
+14A PM feladat- és hatáskörébe tartoznak az európai szemesztert és a nyugdíjpolitikát érintő kérdések.
 
-15 A KIM feladat- és hatáskörébe tartoznak a tudománypolitikai kérdések.
+15A miniszterelnöki biztos felel a dohányügyekért.
 
-16 A KKM feladat- és hatáskörébe tartoznak az űrkutatási ügyek.
+16Az NGM a felelős az iparügyekért, az űriparfejlesztésért és az űrtechnológiákért, a fogyasztóvédelemért, valamint felel az Európai Unió belső piacához kapcsolódó koordinációért. Továbbá az NGM feladat- és hatáskörébe tartoznak a tőke szabad áramlásával, gazdaságfejlesztéssel, a versenyképesség gazdasági és jogi feltételrendszerével összefüggő kérdések és a vállalkozásfejlesztési ügyek.
 
-17 Az IM feladat- és hatáskörébe tartoznak a versenyjogi, a társasági jogi, valamint a fogyasztóvédelmi ügyek.
+17A KIM feladat- és hatáskörébe tartoznak a tudománypolitikai kérdések.
 
-18 Az NKFIH felel a kutatásfejlesztésért.
+18Az IM feladat- és hatáskörébe tartoznak a versenyjogi, a társasági jogi ügyek.
 
-19 Az MKI feladat- és hatáskörébe tartoznak a better/smart regulation ügyek.
+19Az NKFIH felel a kutatásfejlesztésért.
 
-20 A turizmussal összefüggő kérdésekben az MTÜ (NGM) a felelős.
+20Az MKI feladat- és hatáskörébe tartoznak a better/smart regulation ügyek.
 
-21 A szellemi tulajdoni ügyeket az SZTNH és az IM osztott felelősségben kezeli.
+21A turizmussal összefüggő kérdésekben az MTÜ (NGM) a felelős.
 
-22 Az ÉKM feladat- és hatáskörébe tartoznak az építésgazdasággal és állami beruházásokkal kapcsolatos ügyek.
+22A szellemi tulajdoni ügyeket az SZTNH és az IM osztott felelősségben kezeli.
 
-23 Az ÉKM feladat- és hatáskörébe tartozik a közlekedés.
+23Az ÉKM feladat- és hatáskörébe tartoznak az építésgazdasággal és állami beruházásokkal kapcsolatos ügyek.
 
-24 Az EM feladat- és hatáskörébe tartozik az energiapolitika.
+24Az épületek energetikai jellemzőinek meghatározásával és az energetikai tanúsítói tevékenységgel kapcsolatos feladatok tekintetében az EM a felelős.
 
-25 A KKM jár el a külgazdaságért való felelőssége keretében a nemzetközi és európai uniós energetikai tárgyalások tekintetében, valamint az energiaforrások külföldről történő beszerzésével összefüggő ügyekben.
+25A HUNOR program és az űrkutatási projektekben való nemzetközi szervezetben való részvétel tekintetében a KKM a felelős.
 
-26 Az MK feladat- és hatáskörébe tartoznak az elektronikus hírközléssel és az informatikával összefüggő kérdések.
+26Az ÉKM feladat- és hatáskörébe tartozik a közlekedés.
 
-27 A NGM feladat- és hatáskörébe tartozik számos digitális technológia ügy és a postaügyek.
+27Az EM feladat- és hatáskörébe tartozik az energiapolitika.
 
-28 A BM is felelős az élelmiszer-biztonságért.
+28A KKM jár el a külgazdaságért való felelőssége keretében a nemzetközi és európai uniós energetikai tárgyalások tekintetében, valamint az energiaforrások külföldről történő beszerzésével összefüggő ügyekben.
 
-29 A természetvédelmi ügyek tekintetében az AM a felelős.
+29Az MK feladat- és hatáskörébe tartoznak az elektronikus hírközléssel és az informatikával összefüggő kérdések.
 
-30 A vízgazdálkodási és vízvédelmi kérdésekben a BM, a vegyi anyagok szabályozását érintő ügyekben az NNGYK a felelős.
+30Az NGM feladat- és hatáskörébe tartozik számos digitális technológia ügy és a postaügyek.
 
-31 A KIM feladat- és hatáskörébe tartoznak a szakképzés, a felsőoktatás, a felnőttképzés, a kultúra, a családpolitika és a gyermek- és ifjúságpolitikai ügyek.
+31A BM is felelős az élelmiszer-biztonságért.
 
-32 A BM feladat- és hatáskörébe tartoznak a köznevelési, valamint a gyermek- és ifjúságvédelmi ügyek.
+32A természetvédelmi ügyek tekintetében az AM a felelős.
 
-33 A HM feladat- és hatáskörébe tartoznak a sportügyek.
+33A vegyi anyagok szabályozását érintő ügyekben az NNGYK (BM) a felelős.
 
-34 Az MK a felelős az audiovizuális politika és az informatika tekintetében.
+34A KIM feladat- és hatáskörébe tartoznak a szakképzés, a felsőoktatás, a felnőttképzés, a kultúra, a családpolitika és a gyermek- és ifjúságpolitikai ügyek.
 
-35 A kulturális örökségi témák felelőse az ÉKM.
+35A BM feladat- és hatáskörébe tartoznak a köznevelési, valamint a gyermek- és ifjúságvédelmi ügyek.
 
-36 Az Európa Kulturális Fővárosa pályázati programmal kapcsolatos kérdésekben a KTM a felelős.
+36A HM feladat- és hatáskörébe tartoznak a sportügyek.
+
+37Az MK a felelős az audiovizuális politika és az informatika tekintetében.
+
+38A kulturális örökségi témák felelőse az ÉKM.
+
+39Az Európa Kulturális Fővárosa pályázati programmal kapcsolatos kérdésekben a KTM a felelős.
 
 [^1]: Az 1. pont az 1072/2024. (III. 21.) Korm. határozat 14. pont a) alpontja szerint módosított szöveg.
 [^2]: A 2. pont az 1072/2024. (III. 21.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: Az 5. pont e) alpontja az 1072/2024. (III. 21.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 5. pont i) alpontja az 1072/2024. (III. 21.) Korm. határozat 3. pontjával megállapított szöveg.
-[^5]: Az 5. pont k) alpontja az 1072/2024. (III. 21.) Korm. határozat 4. pontjával megállapított szöveg.
-[^6]: Az 5. pont l) alpontja az 1072/2024. (III. 21.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: A 7. pont az 1072/2024. (III. 21.) Korm. határozat 14. pont b) alpontja szerint módosított szöveg.
-[^8]: A 8. pont az 1072/2024. (III. 21.) Korm. határozat 5. pontjával megállapított szöveg.
-[^9]: A 9. pont az 1072/2024. (III. 21.) Korm. határozat 14. pont c) és d) alpontja és 15. pont a) alpontja szerint módosított szöveg.
-[^10]: A 10. pont az 1072/2024. (III. 21.) Korm. határozat 6. pontjával megállapított szöveg.
-[^11]: A 13. pontot az 1072/2024. (III. 21.) Korm. határozat 15. pont b) alpontja hatályon kívül helyezte.
-[^12]: A 14. pontot az 1072/2024. (III. 21.) Korm. határozat 15. pont b) alpontja hatályon kívül helyezte.
-[^13]: A 17. pont az 1072/2024. (III. 21.) Korm. határozat 7. pontjával megállapított szöveg.
-[^14]: A 18. pont az 1072/2024. (III. 21.) Korm. határozat 8. pontjával megállapított szöveg.
-[^15]: A 22. pont az 1072/2024. (III. 21.) Korm. határozat 9. pontjával megállapított szöveg.
-[^16]: A 36. pont az 1072/2024. (III. 21.) Korm. határozat 10. pontjával megállapított szöveg.
-[^17]: A 40. pont az 1072/2024. (III. 21.) Korm. határozat 11. pontjával megállapított szöveg.
-[^18]: A 42. pont az 1072/2024. (III. 21.) Korm. határozat 12. pontjával megállapított szöveg.
-[^19]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: Az 1. melléklet az 1072/2024. (III. 21.) Korm. határozat 13. pontjával megállapított szöveg.
+[^3]: A 2. pont d) alpontja az 1258/2024. (VIII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: Az 5. pont e) alpontja az 1072/2024. (III. 21.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: Az 5. pont i) alpontja az 1072/2024. (III. 21.) Korm. határozat 3. pontjával megállapított szöveg.
+[^6]: Az 5. pont k) alpontja az 1072/2024. (III. 21.) Korm. határozat 4. pontjával megállapított szöveg.
+[^7]: Az 5. pont l) alpontja az 1072/2024. (III. 21.) Korm. határozat 4. pontjával megállapított szöveg.
+[^8]: A 7. pont az 1258/2024. (VIII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
+[^9]: A 8. pont az 1072/2024. (III. 21.) Korm. határozat 5. pontjával megállapított szöveg.
+[^10]: A 9. pont az 1072/2024. (III. 21.) Korm. határozat 14. pont c) és d) alpontja és 15. pont a) alpontja szerint módosított szöveg.
+[^11]: A 10. pont az 1072/2024. (III. 21.) Korm. határozat 6. pontjával megállapított szöveg.
+[^12]: A 13. pontot az 1072/2024. (III. 21.) Korm. határozat 15. pont b) alpontja hatályon kívül helyezte.
+[^13]: A 14. pontot az 1072/2024. (III. 21.) Korm. határozat 15. pont b) alpontja hatályon kívül helyezte.
+[^14]: A 17. pont az 1072/2024. (III. 21.) Korm. határozat 7. pontjával megállapított szöveg.
+[^15]: A 18. pont az 1072/2024. (III. 21.) Korm. határozat 8. pontjával megállapított szöveg.
+[^16]: A 22. pont az 1072/2024. (III. 21.) Korm. határozat 9. pontjával megállapított szöveg.
+[^17]: A 36. pont az 1072/2024. (III. 21.) Korm. határozat 10. pontjával megállapított szöveg.
+[^18]: A 40. pont az 1072/2024. (III. 21.) Korm. határozat 11. pontjával megállapított szöveg.
+[^19]: A 41. pont az 1258/2024. (VIII. 22.) Korm. határozat 3. pontjával megállapított szöveg.
+[^20]: A 42. pont az 1072/2024. (III. 21.) Korm. határozat 12. pontjával megállapított szöveg.
+[^21]: A 44. pont az 1258/2024. (VIII. 22.) Korm. határozat 4. pontjával megállapított szöveg.
+[^22]: Az 53. pont az 1258/2024. (VIII. 22.) Korm. határozat 5. pontjával megállapított szöveg.
+[^23]: A 62. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 1. melléklet az 1258/2024. (VIII. 22.) Korm. határozat 6. pontjával megállapított szöveg.
