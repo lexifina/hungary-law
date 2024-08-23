@@ -6,6 +6,6 @@
 
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
-(5)[^1] A védetté nyilvánítás célja az 1907–08-ban Krausz Gábor tervei alapján emelt szeceszsziós villa építészeti értékeinek, az 1895-ben Petz Ármin tervei alapján kialakított tájképi kert kertművészeti értékeinek, illetve a Budakeszi úti villasor együttesében betöltött szerepének megőrzése.
+(5)[^2] A védetté nyilvánítás célja az 1907–08-ban Krausz Gábor tervei alapján emelt szeceszsziós villa építészeti értékeinek, az 1895-ben Petz Ármin tervei alapján kialakított tájképi kert kertművészeti értékeinek, illetve a Budakeszi úti villasor együttesében betöltött szerepének megőrzése.
 
-[^1]: A 8. § (5) bekezdése a 79/2013. (XII. 20.) BM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^2]: A 8. § (5) bekezdése a 79/2013. (XII. 20.) BM rendelet 3. § (3) bekezdése szerint módosított szöveg.

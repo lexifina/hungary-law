@@ -6,4 +6,6 @@
 
 (4) Az (1) bekezdésben meghatározott műemléki ingatlanra vonatkozóan a Magyar Államot elővásárlási jog illeti meg.
 
-(5) A védetté nyilvánítás célja az 1912-ben Szuchy János tervei alapján emelt szecessziós stílusú Gschwindt– Tőry-villa, valamint a kertben álló földszintes nyaralóépület építészeti értékeinek, tájképi jellegű kertje kertművészeti értékeinek, illetve a Budakeszi úti villasor együttesében betöltött szerepének megőrzése.
+(5)[^1] A védetté nyilvánítás célja az 1912-ben Szuchy János tervei alapján emelt szecessziós stílusú Gschwindt– Tőry-villa építészeti értékeinek, tájképi jellegű kertje kertművészeti értékeinek, illetve a Budakeszi úti villasor együttesében betöltött szerepének megőrzése.
+
+[^1]: A 6. § (5) bekezdése a 27/2024. (VIII. 15.) ÉKM rendelet 33. § (1) bekezdése szerint módosított szöveg.
