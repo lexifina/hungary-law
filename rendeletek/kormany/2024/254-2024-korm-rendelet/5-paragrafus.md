@@ -1,0 +1,1 @@
+5. § E rendelet rendelkezéseit az e rendelet hatálybalépésekor meg nem fizetett, 3. § szerinti tartozások esetében is alkalmazni kell akkor, ha a tartozás érvényesítése iránt peres eljárás vagy nemperes eljárás, továbbá végrehajtási eljárás nincs folyamatban.
