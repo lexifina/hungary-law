@@ -59,3 +59,13 @@ Kivételi körbe eső állami tulajdonú gazdasági társaságok
 | 27. | Magyar Posta Biztosító Zártkörűen Működő Részvénytársaság | 01 10 044751 |
 
 | 28. | Magyar Posta Életbiztosító Zártkörűen Működő Részvénytársaság | 01 10 044750 |
+
+| 29.[^1] | Büntetés-Végrehajtás Országos Parancsnoksága tulajdonosi joggyakorlása alá tartozó társaságok | – |
+
+| 30.[^2] | Magyar Rádió Művészeti Együttesei Nonprofit Korlátolt Felelősségű Társaság | 01 09 697582 |
+
+| 31.[^3] | N.S. MÉDIA ÉS VAGYONKEZELŐ Korlátolt Felelősségű Társaság | 01 09 404379 |
+
+[^1]: Az 1. mellékletben foglalt táblázat 29. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^2]: Az 1. mellékletben foglalt táblázat 30. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^3]: Az 1. mellékletben foglalt táblázat 31. sorát a 256/2024. (VIII. 22.) Korm. rendelet 1. §-a iktatta be.
