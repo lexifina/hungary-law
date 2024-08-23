@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-53-20-2
 | 2018-01-01 | 2011-53-20-2V.4 | 38/2017. (XII. 27.) MvM rendelet |
 | 2019-12-28 | 2011-53-20-2V.5 | 19/2019. (XII. 20.) MvM rendelet |
 | 2020-07-23 | 2011-53-20-2V.6 | 13/2020. (VII. 15.) MvM rendelet |
+| 2024-08-23 | 2011-53-20-2V.7 | 27/2024. (VIII. 15.) ÉKM rendelet |
