@@ -1,5 +1,3 @@
-1. melléklet a 27/2024. (VIII. 15.) ÉKM rendelethez
+1. melléklet a 27/2024. (VIII. 15.) ÉKM rendelethez[^4]
 
-„1. melléklet az 1/2006. (I. 13.) NKÖM rendelethez
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
