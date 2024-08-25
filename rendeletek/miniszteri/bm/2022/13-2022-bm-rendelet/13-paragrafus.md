@@ -14,7 +14,7 @@ d) betegség vagy munkabaleset esetén három napig, ha az orvos más élelmezé
 
 e) a fizetett szabadság alatt, ha azt a bv. intézetben tölti, valamint
 
-f) abban az esetben, ha iskolai oktatásban vesz részt, továbbá a vizsgákra való felkészülés érdekében a munka alóli felmentés idején.
+f)[^21] abban az esetben, ha köznevelésben, szakképzésben vagy felnőttképzésben vesz részt, továbbá a vizsgákra való felkészülés érdekében a munka alóli felmentés idején.
 
 (3) Meg kell szüntetni a fogvatartott dolgozó norma szerinti élelmezését
 
@@ -23,3 +23,5 @@ a) a munkából leváltást követő naptól, valamint
 b) a szállítás, átszállítás idejére.
 
 (4) A magánelzárást töltő fogvatartott részére akkor biztosítja a bv. intézet a munkakörének megfelelő besorolása szerinti élelmezést, ha részére a munkavégzés engedélyezett.
+
+[^21]: A 13. § (2) bekezdés f) pontja a 36/2024. (VIII. 22.) BM rendelet 16. § 8. pontja szerint módosított szöveg.

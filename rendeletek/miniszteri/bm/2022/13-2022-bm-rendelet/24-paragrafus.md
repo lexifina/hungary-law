@@ -1,15 +1,15 @@
-24. § (1) A HACCP-rendszer működését, alkalmazását, megfelelőségét a gazdasági vezető által koordinált bizottság legalább félévente köteles felülvizsgálni.
+24. §[^36] (1) A HACCP működését, alkalmazását, megfelelőségét az agglomerációs gazdasági vezető vagy megbízása alapján a bv. intézet műszaki és ellátási osztály vezetője által vezetett bizottság legalább félévente köteles felülvizsgálni.
 
 (2) Az (1) bekezdés szerinti bizottság tagjai
 
-a) a gazdasági vezető,
+a) az agglomerációs gazdasági vezető vagy megbízása alapján a bv. intézet műszaki és ellátási osztály vezetője,
 
-b) az élelmezési csoportvezető vagy élelmezésvezető,
+b) az élelmezésvezető,
 
-c) a karbantartó műhelyvezető,
+c) a Büntetés-végrehajtás Gazdasági Ellátó Intézete által az érintett bv. intézet munkavédelmi szakfeladatainak ellátásával megbízott tűz- és munkavédelmi kiemelt főelőadó, valamint
 
-d) a munkavédelmi felügyelő, valamint
+d) az egészségügyi szakterület vezetője által kijelölt személy.
 
-e) az egészségügyi szakterület vezetője által kijelölt személy.
+(3) A bizottság vezetője a vizsgálat eredményéről jelentést, az esetlegesen feltárt hiányosságok felszámolására cselekvési tervet készít, amelynek végrehajtásáról az agglomerációt vezető parancsnok számára jelentést készít.
 
-(3) A gazdasági vezető a vizsgálat eredményéről jelentést, az esetlegesen feltárt hiányosságok felszámolására cselekvési tervet készít, amelyet a parancsnok hagy jóvá.
+[^36]: A 24. § a 36/2024. (VIII. 22.) BM rendelet 14. §-ával megállapított szöveg.

@@ -1,5 +1,3 @@
-## 19. § Az élelmezési csoportvezető vagy élelmezésvezető a napi étkezéseket a 18. §-ban foglaltak alapján biztosítja.
-
 ## 20. § Az étrend összeállítása során biztosítani kell, hogy
 
 a) a 2. mellékletben foglalt változatossági mutató az egymást követő kétszer tíz nap meleg étkezéseinek vonatkozásában ne legyen kisebb 85%-nál,

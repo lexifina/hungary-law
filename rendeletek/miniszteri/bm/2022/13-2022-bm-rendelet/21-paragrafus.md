@@ -1,13 +1,15 @@
-21. § (1) Az étrendet a gazdasági vezető által koordinált bizottság állítja össze, és a parancsnok hagyja jóvá.
+21. §[^29] (1) Az étrendet az agglomerációs gazdasági vezető vagy megbízása alapján a bv. intézet műszaki és ellátási osztály vezetője által vezetett bizottság állítja össze, és a parancsnok hagyja jóvá.
 
 (2) Az (1) bekezdés szerinti bizottság tagjai
 
-a) az élelmezési csoportvezető vagy élelmezési vezető,
+a) az agglomerációs gazdasági vezető vagy megbízása alapján a bv. intézet műszaki és ellátási osztály vezetője,
 
-b) az egészségügyi szakterület vezetője által kijelölt személy,
+b) az élelmezésvezető,
 
-c) a konyhavezető és
+c) az egészségügyi szakterület vezetője vagy az általa kijelölt személy,
 
-d) a dietetikus.
+d) a konyhavezető és
 
-(3) A (2) bekezdés b) pontja szerinti személyként orvos vagy az egészségügyi szakszemélyzet egy tagja jelölhető ki.
+e) a dietetikus.
+
+[^29]: A 21. § a 36/2024. (VIII. 22.) BM rendelet 13. §-ával megállapított szöveg.

@@ -1,7 +1,7 @@
-## 7. § A büntetés-végrehajtási osztály felelős
+7. §[^14] A biztonsági osztály vagy a biztonsági és fogvatartási ügyek osztálya felelős
 
-a) a fogvatartottak létszámának pontos meghatározásáért,
+a) a főzőkonyhán elkészített ételek létszám, diéta szerinti átvételéért és
 
-b) a munkába állított fogvatartottak normába sorolásáért az életkor, a munkába állítás ténye, valamint a munkavégzés jellege alapján, továbbá
+b) az elhelyezési részlegen történő ételosztás koordinálásért, felügyeletéért.
 
-c) az orvosi diétába nem tartozó, vallási és egyéb eltérő étkeztetés engedélyeztetéséért és a fogvatartotti nyilvántartásban történő rögzítéséért.
+[^14]: A 7. § a 36/2024. (VIII. 22.) BM rendelet 7. §-ával megállapított szöveg.
