@@ -1,3 +1,3 @@
-10. § A BM rendelet 4. alcíme a következő 14/A. §-sal egészül ki:
+10. §[^11]
 
-„14/A. § A vallási okból igényelt eltérő élelmezési norma, valamint a diétás norma esetén pótélelmezés abban az esetben biztosítható, ha a fogvatartott munkáltatása megvalósul, vagy egészségi állapota miatt szükségessé vált.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

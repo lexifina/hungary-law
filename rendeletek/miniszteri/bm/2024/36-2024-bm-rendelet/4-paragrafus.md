@@ -1,5 +1,3 @@
-## „d) önálló költségvetési szervnek minősülő bv. intézet esetén irányítja és ellenőrzi az élelmezési gazdálkodást,”
+4. §[^5]
 
-4. § A BM rendelet 4. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az élelmezési gazdálkodás irányításáért és ellenőrzéséért telephelynek minősülő bv. intézet esetén az agglomerációs gazdasági vezető a felelős.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

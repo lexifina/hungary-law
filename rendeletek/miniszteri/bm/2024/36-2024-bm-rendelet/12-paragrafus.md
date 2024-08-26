@@ -1,3 +1,3 @@
-12. § A BM rendelet 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(2) A parancsnok heti, dekádonkénti vagy havi időszakot határozhat meg, a forgóétlapnak minimum 5 hetet kell felölelnie.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
