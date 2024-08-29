@@ -1,13 +1,7 @@
 ## 7. § Amennyiben jogszabály valamely munkarész elkészítését tervezési jogosultsághoz köti, a vasúti közlekedési hatóság a tervező jogosultságát ellenőrzi.
 
-## 8. §[^16] A vasúti közlekedési hatóság
+8. §[^16] (1) A vasúti közlekedési hatóság a tervezett vasúti építmény vasúti biztonsági követelményeinek, valamint a tervezett biztonsági berendezések műszaki követelményeinek teljesülését az építési engedélyezési eljárás keretében vizsgálja.
 
-a) a vasúti építmény vasúti biztonsági állapotáról,
+(2) A vasúti közlekedési hatóság a vasúti építmény vasúti biztonsági állapotát, a biztonsági berendezések műszaki állapotát, valamint a személyzet biztonságkritikus kezelési képességét a használatbavételi eljárás keretében vizsgálja.
 
-b) a biztonsági berendezések műszaki állapotáról, valamint
-
-c) a személyzet biztonságkritikus kezelések képességéről
-
-az eljárás keretében köteles meggyőződni.
-
-[^16]: A 8. § a 457/2017. (XII. 28.) Korm. rendelet 407. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^16]: A 8. § a 204/2024. (VII. 29.) Korm. rendelet 2. §-ával megállapított szöveg.

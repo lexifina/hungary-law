@@ -1,10 +1,10 @@
-## 1.[^101] Valamennyi létesítményre vonatkozóan:
+## 1.[^119] Valamennyi létesítményre vonatkozóan:
 
 ## a) igazolni kell
 
 ## aa) a kérelem tárgyát képező létesítmény megfelelését az építési engedélyben foglaltaknak megjelölve az építési engedély és az eltéréseket engedélyező engedélyek számait,
 
-## ab)[^102] független tanúsító szervezet tanúsításának megtörténtét, valamint – a rendszerintegritási megfelelőségértékelő szervezet által kiállított tanúsítvány benyújtásával – azt, hogy a kivitelezés a rendszerintegritási nemzeti ajánlásban vagy az építési engedélyben jóváhagyott alternatív megoldásban meghatározott feltételeknek megfelel,
+## ab)[^120] sikeres műszaki átadás-átvételt követően a megvalósítási tervekre és a megvalósítási tervekkel dokumentált létesítményekre a független tanúsító szervezet tanúsításának megtörténtét, valamint – a rendszerintegritási megfelelőségértékelő szervezet által kiállított tanúsítvány benyújtásával – azt, hogy a kivitelezés a rendszerintegritási nemzeti ajánlásban vagy az építési engedélyben jóváhagyott alternatív megoldásban meghatározott feltételeknek megfelel,
 
 ## ac) a műszaki átadás-átvétel megtörténtét, a hiányosságok megszüntetését,
 
@@ -22,7 +22,7 @@
 
 ## b) meg kell határozni a vágányok melletti és feletti létesítményeknek a vágánytengelytől és a sínkorona-szinttől mért távolságait, valamint dokumentált módon fel kell mérni a szabadon tartott teret;
 
-## c)[^103] az átjárhatóságot lehetővé tévő pálya menti ellenőrző-irányító és jelző alrendszer, valamint az energia- és infrastruktúra-alrendszerek esetén az a) alpontban foglaltakon felül igazolni kell
+## c)[^121] az átjárhatóságot lehetővé tévő pálya menti ellenőrző-irányító és jelző alrendszer, valamint az energia- és infrastruktúra-alrendszerek esetén az a) alpontban foglaltakon felül igazolni kell
 
 ## ca) az EK-hitelesítési nyilatkozat és a nemzeti szabálynak való megfelelést igazoló hitelesítési nyilatkozat rendelkezésre állását,
 
@@ -32,9 +32,9 @@
 
 ## cd) olyan pálya menti ellenőrző-irányító és jelző alrendszer esetében, amely az ETCS vagy a GSM-R berendezéseit is magában foglalja, az Ügynökség jóváhagyását tartalmazó döntést, továbbá amennyiben a jóváhagyás kiadása után változna az ajánlattételhez szükséges dokumentáció tervezete vagy a tervezett műszaki megoldás leírása, az (EU) 2016/796 rendelet 30. cikk (2) bekezdése szerinti eljárás eredményének való megfelelést bizonyító okiratokat;
 
-## d)[^104] a pálya menti ellenőrző-irányító és jelző alrendszer átjárhatóságot nem érintő elemei vonatkozásában az a) és c) alpontban foglaltakon felül igazolni kell az uniós vasúti rendszer részét képező pályahálózatok pályaoldali biztosítóberendezési szerkezeti elemekre, rendszerkomponensekre, alrendszerekre és rendszerekre vonatkozó követelmények való megfelelést igazoló hitelesítési nyilatkozat rendelkezésre állását.
+## d)[^122] a pálya menti ellenőrző-irányító és jelző alrendszer átjárhatóságot nem érintő elemei vonatkozásában az a) és c) alpontban foglaltakon felül igazolni kell az uniós vasúti rendszer részét képező pályahálózatok pályaoldali biztosítóberendezési szerkezeti elemekre, rendszerkomponensekre, alrendszerekre és rendszerekre vonatkozó követelmények való megfelelést igazoló hitelesítési nyilatkozat rendelkezésre állását.
 
-## e)[^105] be kell nyújtani,
+## e)[^123] be kell nyújtani,
 
 ## ea) amennyiben a megvalósításhoz más tulajdonában álló ingatlant kell igénybe venni, akkor az érintett ingatlanokról készült kisajátítási tervet;
 
@@ -44,7 +44,7 @@
 
 ## 2. Vasúti pálya
 
-## 2.1.[^106] Vasúti pálya:
+## 2.1.[^124] Vasúti pálya:
 
 ## a) műszaki tervdokumentáció:
 
@@ -56,7 +56,7 @@
 
 ## b) közúti vasutaknál a közúti közlekedési hatóság által jóváhagyott, vagy véleményezett forgalomtechnikai terv.
 
-## 2.2.[^107]
+## 2.2.[^125]
 
 ## 3. Vasúti pálya tartozékai
 
@@ -94,7 +94,7 @@
 
 ## b) a híd alatt vagy az alagútban szabadon tartott tér felméréséről készült jegyzőkönyv;
 
-## c) a végleges állapotra vonatkozó III. fokú hídvizsgálati jegyzőkönyv;
+## c)[^126] a végleges állapotra vonatkozó, az országos vasúti pályahálózat-működtető vasúti hídszabályzata szerinti III. fokú hídvizsgálat jegyzőkönyve;
 
 ## d) a kötelező próbaterhelésére vonatkozó mérések, eredmények;
 
@@ -104,7 +104,7 @@
 
 ## 3.1.1.2. 5 méter, vagy annál kisebb szabad nyílású vasúti híd, valamint 30 m, vagy annál kisebb szabad nyílású vasúti híd-provizórium:
 
-## a) a végleges állapotra vonatkozó III. fokú hídvizsgálati jegyzőkönyv.
+## a)[^127] a végleges állapotra vonatkozó, az országos vasúti pályahálózat-működtető vasúti hídszabályzata szerinti III. fokú hídvizsgálat jegyzőkönyve.
 
 ## 3.2. Vasúti zajárnyékoló fal, támfal:
 
@@ -120,7 +120,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^108] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^128] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) a vasút üzemeltetője által jóváhagyott Kezelési Szabályzat;
 
@@ -188,7 +188,7 @@
 
 ## 4. Helyhez kötött gépészeti berendezések
 
-## 4.1.[^109] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
+## 4.1.[^129] Vasúti rakodó-berendezés (vasúti kocsi töltőlefejtő berendezés, rakodódaru, kocsibuktató, oldal- és homlokrakodó, egyéb beépített rakodó- és szállítógép és berendezés) és a vasúti járműmosó berendezések:
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -240,7 +240,7 @@
 
 ## d) a fénytechnikai felülvizsgálati jegyzőkönyv, vagy állapotterv.
 
-## 4.5.[^110] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^130] Egyéb vasútgépészeti berendezés (vágányba épített, vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) a vasúti pálya szintezési jegyzőkönyve, nyomtávmérési jegyzőkönyve;
 
@@ -262,15 +262,15 @@
 
 3. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-A vasúti építmények megszüntetési engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^111]
+A vasúti építmények megszüntetési engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^131]
 
-1.[^112] Valamennyi építményre vonatkozóan:
+1.[^132] Valamennyi építményre vonatkozóan:
 
 a) igazolni kell
 
 aa) a hatósági előírások megtartását és a tervezői jogosultságot,
 
-ab)[^113]
+ab)[^133]
 
 ac) amennyiben a bontás engedélyese és az üzemeltető nem azonos, a tervdokumentáció üzemeltetői záradékolásának megtörténtét és szöveges hozzájárulás meglétét,
 
@@ -284,7 +284,7 @@ b) be kell mutatni a hatásterületet az érintett ügyfelek megjelölésével.
 
 2. Vasúti pálya bontási terve
 
-2.1.[^114] Vasúti pálya:
+2.1.[^134] Vasúti pálya:
 
 a) helyszínrajz, saját célú vasúti pálya esetén a csatlakozást biztosító vasút üzembentartójának záradékával;
 
@@ -292,7 +292,7 @@ b) műszaki leírás;
 
 c) területrendezésre és újrahasznosításra vonatkozó tervek.
 
-2.2.[^115]
+2.2.[^135]
 
 3. Vasúti pálya tartozékai bontási terve:
 
@@ -338,18 +338,20 @@ b) területrendezésre és újrahasznosításra vonatkozó tervek;
 
 c) műszaki leírás.
 
-[^101]: A 2. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^102]: A 2. melléklet 1. pont a) alpont ab) pontja a 632/2020. (XII. 22.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^103]: A 2. melléklet 1. pont c) alpontját a 415/2020. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
-[^104]: A 2. melléklet 1. pont d) alpontját a 415/2020. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
-[^105]: A 2. melléklet 1. pont e) alpontját az 570/2021. (X. 6.) Korm. rendelet 3. §-a iktatta be.
-[^106]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^107]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
-[^108]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
-[^109]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
-[^110]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
-[^111]: A 3. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg.
-[^112]: A 3. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^113]: A 3. melléklet 1. pont a) alpont ab) pontját a 289/2018. (XII. 21.) Korm. rendelet 22. §-a hatályon kívül helyezte.
-[^114]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
-[^115]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.
+[^119]: A 2. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^120]: A 2. melléklet 1. pont a) alpont ab) pontja a 204/2024. (VII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^121]: A 2. melléklet 1. pont c) alpontját a 415/2020. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^122]: A 2. melléklet 1. pont d) alpontját a 415/2020. (VIII. 30.) Korm. rendelet 12. §-a iktatta be.
+[^123]: A 2. melléklet 1. pont e) alpontját az 570/2021. (X. 6.) Korm. rendelet 3. §-a iktatta be.
+[^124]: A 2. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
+[^125]: A 2. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § b) pontja hatályon kívül helyezte.
+[^126]: A 2. melléklet 3.1.1.1. pont c) alpontja a 204/2024. (VII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^127]: A 2. melléklet 3.1.1.2. pont a) alpontja a 204/2024. (VII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^128]: A 2. melléklet 3.3. pontja a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^129]: A 2. melléklet 4.1. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése szerint módosított szöveg.
+[^130]: A 2. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (8) bekezdése iktatta be.
+[^131]: A 3. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg.
+[^132]: A 3. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (6) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^133]: A 3. melléklet 1. pont a) alpont ab) pontját a 289/2018. (XII. 21.) Korm. rendelet 22. §-a hatályon kívül helyezte.
+[^134]: A 3. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^135]: A 3. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § c) pontja hatályon kívül helyezte.
