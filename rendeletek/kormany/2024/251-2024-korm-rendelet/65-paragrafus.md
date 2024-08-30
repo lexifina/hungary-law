@@ -1,0 +1,3 @@
+## 14. A térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló 195/2016. (VII. 13.) Korm. rendelet módosítása
+
+65. § Hatályát veszi a térségi, az elővárosi, a városi és a helyi működési engedély alapján, valamint a kisvasút és a múzeumvasút által végzett vasúti személyszállítás részletes feltételeiről szóló 195/2016. (VII. 13.) Korm. rendelet 2. § (2) bekezdés b) pontjában a „beleértve a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját is” szövegrész.

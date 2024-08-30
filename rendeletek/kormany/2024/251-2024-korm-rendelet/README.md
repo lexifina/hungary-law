@@ -1,0 +1,9 @@
+# 251/2024. (VIII. 22.) Korm. rendelet
+
+a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-251-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-08-30 | 2024-251-20-22.1 | 251/2024. (VIII. 22.) Korm. rendelet |

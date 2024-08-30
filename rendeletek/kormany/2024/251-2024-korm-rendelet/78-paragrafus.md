@@ -1,0 +1,7 @@
+## 18. A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet módosítása
+
+78. § A Közlekedési Alkalmassági és Vizsgaközpont kijelöléséről és feladatainak meghatározásáról szóló 284/2018. (XII. 21.) Korm. rendelet [a továbbiakban: 284/2018. (XII. 21.) Korm. rendelet] 5. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) A vizsgaközpont az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet 1. § (3) bekezdésében megjelölt, a közlekedésért felelős miniszter által állami feladatellátás keretében a vizsgaközpont részére biztosított szolgáltatások költségei tekintetében a közlekedésért felelős miniszterrel elszámol, az elszámolás feltételeinek rögzítésére minden tárgyév február 15. napjáig a közlekedésért felelős miniszter és a vizsgaközpont elszámolási megállapodást köt.
+
+(2b) A közlekedésért felelős miniszter és a vizsgaközpont a (2a) bekezdés szerinti, 2024. január 1. napjától 2024. december 31. napjáig tartó időszakra vonatkozó megállapodást e rendeletnek a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelettel történő módosításának hatálybalépésétől számított 31 napon belül kötik meg.”
