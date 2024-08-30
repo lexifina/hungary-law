@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1991-139-20-
 | 2017-01-01 | 1991-139-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
 | 2019-11-01 | 1991-139-20-22.10 | 248/2019. (X. 24.) Korm. rendelet |
 | 2023-09-01 | 1991-139-20-22.11 | 410/2023. (VIII. 30.) Korm. rendelet |
+| 2024-08-30 | 1991-139-20-22.12 | 251/2024. (VIII. 22.) Korm. rendelet |

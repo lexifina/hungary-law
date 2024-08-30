@@ -1,8 +1,8 @@
 3. § (1) Ha az utánképzésben a kötelezett közlekedési képzettségének hiányosságát kellett megszüntetni (1. számú melléklet I. és II. program) az utánképzés a programnak megfelelően elméleti vagy gyakorlati vizsgával zárul. A vizsga tartalmát, módszereit és időtartamát, valamint személyi és tárgyi feltételeit a 4. számú melléklet tartalmazza.
 
-(2)[^9] A közúti közlekedési szabályok kisebb fokú megsértése vagy szabálytalan parkolás miatt – két éven belül legalább három alkalommal – szabálysértési eljárás során határozatban kiszabott bírsággal sújtott kötelezettet – a feltáró foglalkozás mellőzésével – az I. számú programra kell beosztani.
+(2)[^13] A közúti közlekedési szabályok kisebb fokú megsértése vagy szabálytalan parkolás miatt – két éven belül legalább három alkalommal – szabálysértési eljárás során határozatban kiszabott bírsággal sújtott kötelezettet – a feltáró foglalkozás mellőzésével – az I. számú programra kell beosztani.
 
-(3)[^10] Sikertelen vizsga esetében az utánképzett pótvizsgát tehet. A járművezetési gyakorlati vizsgán értelemszerűen alkalmazni kell a közúti járművezetők pályaalkalmassági vizsgálatáról szóló rendelet rendelkezéseit.
+(3)[^14] Sikertelen vizsga esetében az utánképzett pótvizsgát tehet. A járművezetési gyakorlati vizsgán értelemszerűen alkalmazni kell a közúti járművezetők pályaalkalmassági vizsgálatáról szóló rendelet rendelkezéseit.
 
-[^9]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
-[^10]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 26. pontja szerint módosított szöveg.
+[^13]: A 3. § (2) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 7. § 4. pontja szerint módosított szöveg.
+[^14]: A 3. § (3) bekezdése a 97/2008. (IV. 29.) Korm. rendelet 4. § 26. pontja szerint módosított szöveg.

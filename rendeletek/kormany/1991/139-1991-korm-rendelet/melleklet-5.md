@@ -1,15 +1,3 @@
-## Az I. programot követő vizsga
+5. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^24]
 
-## A vizsgázónak a közlekedési jogszabályok és a járművezetés elmélete tárgyköréből a közlekedésért felelős miniszter által kiadott vizsgalapot kell kitöltenie.
-
-## A vizsga követelményszintjét a közlekedésért felelős miniszter állapítja meg. A vizsgalap kitöltésére 50 perc áll a vizsgázó rendelkezésére.
-
-## A II. programot követő vizsga
-
-## A járművezetési gyakorlati vizsgát a külön jogszabály szerint a közúti járművezetők vizsgáztatására jogosult, gyakorlati utánképzési vizsga tartására feljogosított vizsgabiztos vezeti le.
-
-## A vizsga lebonyolítására, követelményszintjére, személyi és tárgyi feltételeire a megfelelő járműkategória járművezetési gyakorlati vizsgájának szabályait kell alkalmazni.
-
-5. számú melléklet a 139/1991. (X. 29.) Korm. rendelethez[^25]
-
-[^25]: Az 5. számú mellékletet a 248/2019. (X. 24.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^24]: Az 5. számú mellékletet a 248/2019. (X. 24.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.

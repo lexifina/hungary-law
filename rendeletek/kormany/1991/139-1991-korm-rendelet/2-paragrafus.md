@@ -1,9 +1,15 @@
-2. § (1)[^6] Az utánképzésre kötelezett az utánképzésre a vizsgaközpont bármelyik szervénél jelentkezhet, ahol az utánképzés programjának egyéniesített meghatározása céljából feltáró foglalkozáson vesz részt. A jelentkező bemutatja a rendelkezésére álló, a kötelezés okát tartalmazó hatósági értesítést, illetve a vizsgaközpont a feltáráshoz szükséges adatokat az engedély nyilvántartási rendszerből és a közúti közlekedési előéleti pont nyilvántartásból lekérdezi. A feltárás során alkalmazható módszereket a 3. számú melléklet tartalmazza.
+2. § (1)[^8] Az utánképzésre kötelezett az utánképzésre a vizsgaközpont bármelyik szervénél jelentkezhet, ahol az utánképzés programjának egyéniesített meghatározása céljából feltáró foglalkozáson vesz részt. A jelentkező bemutatja a rendelkezésére álló, a kötelezés okát tartalmazó hatósági értesítést, illetve a vizsgaközpont a feltáráshoz szükséges adatokat az engedély nyilvántartási rendszerből és a közúti közlekedési előéleti pont nyilvántartásból lekérdezi. A feltárás során alkalmazható módszereket a 3. számú melléklet tartalmazza.
 
-(2)[^7] A feltáró foglalkozás eredményétől függően a vizsgaközpont az utánképzésre kötelezett számára azt a programot jelöli ki, amely a feltárt hiányosságok megszüntetésére a legmegfelelőbb. Az utánképzés programját, az egyes programok tartalmát, időtartamát és a módszereket az 1. számú melléklet tartalmazza.
+(2)[^9] A feltáró foglalkozás eredményétől függően a vizsgaközpont az utánképzésre kötelezett számára azt a programot jelöli ki, amely a feltárt hiányosságok megszüntetésére a legmegfelelőbb. Az utánképzés programját, az egyes programok tartalmát, időtartamát és a módszereket az 1. számú melléklet tartalmazza.
 
-(3)[^8] A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény 9. § (1) bekezdése alapján a járművezető nyilvántartott pontjainak számát utánképzésen való önkéntes részvétellel csökkentheti, amely keretében a járművezető feltáró foglalkozáson való részvétel nélkül, az 1. számú mellékletben meghatározott III. programon történő részvételre kerül besorolásra.
+(3)[^10] A közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény 9. § (1) bekezdése alapján a járművezető nyilvántartott pontjainak számát utánképzésen való önkéntes részvétellel csökkentheti, amely keretében a járművezető feltáró foglalkozáson való részvétel nélkül, az 1. számú mellékletben meghatározott III. programon történő részvételre kerül besorolásra.
 
-[^6]: A 2. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^7]: A 2. § (2) bekezdése a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^8]: A 2. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+(4)[^11] Az utánképzésre kötelezett a számára kijelölt programra a vizsgaközpont feltárást végző szervénél jelentkezik. A vizsgaközpont a jelentkezők adatait átadja az engedéllyel rendelkező képző szervnek.
+
+(5)[^12] A programon való részvételről a képző szerv tájékoztatja a vizsgaközpontot.
+
+[^8]: A 2. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 6. § (1) bekezdésével megállapított, a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (2) bekezdése a 248/2019. (X. 24.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 29. §-a hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^11]: A 2. § (4) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 2. § (5) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 2. §-a iktatta be.
