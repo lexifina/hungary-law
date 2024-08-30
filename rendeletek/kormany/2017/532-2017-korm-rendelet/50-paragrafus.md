@@ -1,4 +1,4 @@
-## 49. §[^57] A légiközlekedési hatóság által kiszabott bírság összegét, a bírság kiszabásáról rendelkező határozat kézhezvételétől számított 15 napon belül a határozatot hozó hatóság részére kell megfizetni, a bírságot kiszabó hatóság által a határozatban megjelölt, Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlára vagy a központosított beszedési számlára. A közlemény rovatban a bírsághatározat számát fel kell tüntetni.
+## 49. §[^72] A légiközlekedési hatóság által kiszabott bírság összegét, a bírság kiszabásáról rendelkező határozat kézhezvételétől számított 15 napon belül a határozatot hozó hatóság részére kell megfizetni, a bírságot kiszabó hatóság által a határozatban megjelölt, Magyar Államkincstárnál vezetett előirányzat-felhasználási keretszámlára vagy a központosított beszedési számlára. A közlemény rovatban a bírsághatározat számát fel kell tüntetni.
 
 ## VI. Fejezet
 
@@ -12,4 +12,4 @@
 
 (3) A repüléstájékoztató szakszolgálati engedélybe bejegyzett munkahelyi kiterjesztés, nyelvi kiterjesztés, szakszolgálati kiterjesztés, és a légiforgalmi tiszt szakszolgálati engedélybe bejegyzett jogosítás megújítása esetén az újabb érvényességi időtartam kezdőnapja a megújítás kiadásának napja.
 
-[^57]: A 49. § a 39/2021. (II. 2.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^72]: A 49. § a 39/2021. (II. 2.) Korm. rendelet 21. §-ával megállapított szöveg.

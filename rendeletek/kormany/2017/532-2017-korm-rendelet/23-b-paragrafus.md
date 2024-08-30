@@ -1,4 +1,4 @@
-23/B. §[^55] (1) A légiközlekedési hatóság az engedélyt – a c) pont esetében közigazgatási szankcióként – visszavonja, ha
+23/B. §[^63] (1) A légiközlekedési hatóság az engedélyt – a c) pont esetében közigazgatási szankcióként – visszavonja, ha
 
 a) a jogosult a kérelemben valótlan adatokat jelölt meg,
 
@@ -20,4 +20,4 @@ c) a jogosult nem tartja be a repülőtérrendben, illetve a repülőtéri kézi
 
 d) a jogosult a 24. §-ban meghatározott, a számviteli elkülönítéssel kapcsolatos kötelezettségét megszegi.
 
-[^55]: A 23/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (3) bekezdése iktatta be.
+[^63]: A 23/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 58. § (3) bekezdése iktatta be.

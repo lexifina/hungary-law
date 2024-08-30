@@ -1,3 +1,3 @@
-15. §[^44]
+15. §[^48]
 
-[^44]: A 15. §-t a 94/2024. (IV. 25.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.
+[^48]: A 15. §-t a 94/2024. (IV. 25.) Korm. rendelet 12. § c) pontja hatályon kívül helyezte.

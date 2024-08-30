@@ -1,4 +1,4 @@
-7/D. §[^28] (1) Az üzemben tartási engedély megadásáról vagy megtagadásáról hozott határozat – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) foglaltakon túlmenően – tartalmazza
+7/D. §[^32] (1) Az üzemben tartási engedély megadásáról vagy megtagadásáról hozott határozat – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) foglaltakon túlmenően – tartalmazza
 
 a) a repülőtér nevét,
 
@@ -18,4 +18,4 @@ h) a repülőtér biztonságos üzemeléséhez szükséges, a repülőtér kateg
 
 (2) Az üzemben tartási engedély jogutódlás tárgyát nem képezi.
 
-[^28]: A 7/D. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.
+[^32]: A 7/D. §-t a 84/2024. (IV. 17.) Korm. rendelet 17. §-a iktatta be.

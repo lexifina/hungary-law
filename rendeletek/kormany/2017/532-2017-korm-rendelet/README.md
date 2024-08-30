@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-532-20-
 | 2023-12-27 | 2017-532-20-22.12 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-05-01 | 2017-532-20-22.13 | 84/2024. (IV. 17.) Korm. rendelet |
 | 2024-05-03 | 2017-532-20-22.14 | 94/2024. (IV. 25.) Korm. rendelet |
+| 2024-08-30 | 2017-532-20-22.15 | 251/2024. (VIII. 22.) Korm. rendelet |
