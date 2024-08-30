@@ -1,4 +1,4 @@
-5. § (1)[^17] Az OKFŐ ellátja a 2. § (1)–(3) bekezdése szerinti egészségügyi intézmények, illetve erre irányuló megállapodás alapján más egészségügyi intézmények vonatkozásában is
+5. § (1)[^18] Az OKFŐ ellátja a 2. § (1)–(3) bekezdése szerinti egészségügyi intézmények, illetve erre irányuló megállapodás alapján más egészségügyi intézmények vonatkozásában is
 
 a) az informatikai, infrastrukturális és elemzési kapacitásokhoz szükséges fejlesztésekhez kapcsolódó koordinációs és végrehajtási feladatokat és
 
@@ -34,4 +34,4 @@ c) jogszabályban meghatározott esetekben a határon átnyúló szolgáltatásn
 
 (13) Az OKFŐ közreműködik a belső piaci információs rendszer hazai működésének és az abban való részvételnek a szabályairól szóló kormányrendeletben meghatározott feladatok ellátásában.
 
-[^17]: Az 5. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (1) bekezdése a 653/2021. (XI. 30.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
