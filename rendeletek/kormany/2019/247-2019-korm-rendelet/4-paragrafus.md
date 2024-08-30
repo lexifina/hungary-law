@@ -18,7 +18,7 @@
 
 (9)[^7] A vizsgaközpont a szabályzatot nyilvánosan közzéteszi.
 
-(10)[^8] A vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont a tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06010016 számlára történő átutalással teljesíti.
+(10)[^8] A vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont a tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06020015 számlára történő átutalással teljesíti.
 
 [^2]: A 4. § (2) bekezdése a 722/2020. (XII. 31.) Korm. rendelet 55. §-a, a 410/2023. (VIII. 30.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^3]: A 4. § (5) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be.
@@ -26,4 +26,4 @@
 [^5]: A 4. § (7) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be.
 [^6]: A 4. § (8) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be.
 [^7]: A 4. § (9) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be.
-[^8]: A 4. § (10) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be.
+[^8]: A 4. § (10) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 15. §-a iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 81. §-a szerint módosított szöveg.
