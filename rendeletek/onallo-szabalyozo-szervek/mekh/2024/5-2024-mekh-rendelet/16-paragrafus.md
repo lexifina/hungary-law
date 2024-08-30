@@ -1,0 +1,1 @@
+16. § A költség-felülvizsgálat során nem méretgazdaságosnak minősített földgázelosztók által alkalmazandó rendszerhasználati díjakat a Hivatal az adott engedélyes költségszerkezetét, valamint a naturáliákat és az ellátott felhasználók összetételét és a földrajzi elhelyezkedést is figyelembe vevő elemzéssel határozza meg.

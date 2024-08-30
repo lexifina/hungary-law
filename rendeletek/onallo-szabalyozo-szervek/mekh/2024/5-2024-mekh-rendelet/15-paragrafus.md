@@ -1,0 +1,7 @@
+15. § (1) A rendszerhasználati díjakat az indokolt költségek és a kapacitáslekötés, a gázmérő névleges teljesítménye, a felhasználási helyek száma (a továbbiakban együtt: naturália), valamint a (2) bekezdés szerint számított földgáz mennyiségi adatok hányadosaként kell meghatározni.
+
+(2) A földgáz mennyiségi adatokat a díjak meghatározásakor elérhető legutolsó négy egymást követő negyedév tény mennyiségi adataira, vagy a tény mennyiségi adatok alapján számított hőmérséklet korrigált mennyiségekből kiindulva kell meghatározni, figyelemmel a korábbi évek tendenciáira, az engedélyes által elfogadott üzleti tervben szereplő mennyiségekre, az árszabályozási ciklus során várható tendenciákra, tekintettel az engedélyes üzleti tervének jóváhagyására jogosult szerve által ismert becslés alapján a következő három évet érintő tervadatokra is, valamint az indokolt árbevételigényben elismert mennyiségarányos költségek változására is.
+
+(3) A naturáliákat a 2023/2024. gázév, illetve tárolói év adataiból kiindulva, a korábbi gázévek, illetve tárolói évek tendenciáira és az árszabályozási ciklus során várható tendenciákra, valamint a földgázellátó rendszer kiépített kapacitásaira figyelemmel kell meghatározni.
+
+(4) Az induló díjak megállapítása során a figyelembe vehető kapacitáslekötések mértékéről az érintettek érdekeire tekintettel, a GET 104/B. § (2) bekezdés b) pontja szerinti módszertani útmutatóban részletezettek szerint kell dönteni.
