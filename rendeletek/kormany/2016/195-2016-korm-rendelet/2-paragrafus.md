@@ -6,7 +6,7 @@
 
 a) a díj ellenében végzett személyszállítási szolgáltatások körét,
 
-b)[^7] a személyszállítási szolgáltatás igénybevételének feltételeit, beleértve a fogyatékossággal élő és csökkent mozgásképességű személy segítségnyújtásra irányuló igénye benyújtásának módját is,
+b)[^7] a személyszállítási szolgáltatás igénybevételének feltételeit,,
 
 c) az utasok tájékoztatására vonatkozó szabályokat,
 
@@ -40,4 +40,4 @@ tekintetében a személyszállítási üzletszabályzatában e rendelet rendelke
 
 (6) A vasúti társaság személyszállítási üzletszabályzatát – a vasúti igazgatási szerv jóváhagyásától számított 8 napon belül – hivatalos honlapján közzéteszi, valamint biztosítja, hogy azt a jegypénztárakban papíralapon az utas megtekinthesse.
 
-[^7]: A 2. § (2) bekezdés b) pontja a 223/2023. (VI. 6.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^7]: A 2. § (2) bekezdés b) pontja a 223/2023. (VI. 6.) Korm. rendelet 20. § a) pontja, a 251/2024. (VIII. 22.) Korm. rendelet 65. §-a szerint módosított szöveg.
