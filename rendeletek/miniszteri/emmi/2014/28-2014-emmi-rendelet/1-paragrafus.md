@@ -12,7 +12,7 @@ d) az Egészségügyi Területen Működő Igazságügyi Szakértői Testületb�
 
 áll.
 
-(3)[^2] Az ETT működése felett a miniszter törvényességi felügyeletet gyakorol, melynek célja annak ellenőrzése, hogy az ETT működése a testületek és orvosetikai szervek ügyrendjének, belső szabályzatának és a jogszabályoknak megfelel-e. A törvényességi felügyelet nem terjed ki egyedi hatósági ügyekre, a szakértői vizsgálatra és a szakvélemény tartalmára, valamint az ISZT tevékenységére.
+(3)[^2] Az ETT működése felett a miniszter törvényességi felügyeletet gyakorol, melynek célja annak ellenőrzése, hogy az ETT működése a testületek ügyrendjének, belső szabályzatának és a jogszabályoknak megfelel-e. A törvényességi felügyelet nem terjed ki egyedi hatósági ügyekre, a szakértői vizsgálatra és a szakvélemény tartalmára, valamint az ISZT tevékenységére.
 
 (4) A miniszter törvényességi felügyeleti jogkörében
 
@@ -35,5 +35,5 @@ d)[^3] a nemzetközi etikai és tudományos minőségi követelményrendszerek s
 e) szakmai-etikai véleményt alkot a tudományosan megalapozottnak minősített kutatásokról.
 
 [^1]: Az 1. § (2) bekezdése a 22/2023. (VI. 30.) BM rendelet 2. §-ával megállapított szöveg.
-[^2]: Az 1. § (3) bekezdése a 22/2023. (VI. 30.) BM rendelet 5. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (3) bekezdése a 22/2023. (VI. 30.) BM rendelet 5. § a) pontja, a 38/2024. (VIII. 29.) BM rendelet 9. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (5) bekezdés d) pontja a 17/2019. (VIII. 5.) EMMI rendelet 1. §-ával megállapított szöveg.

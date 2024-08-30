@@ -8,17 +8,17 @@ b) az érintett személy az adott ügyben korábban személyesen vagy testület 
 
 (3) Nem eredményez összeférhetetlenséget, ha az etikai-szakmai véleményt adó bizottság tagja az eredeti vizsgálati terv módosítására vonatkozó kérelem elbírálásához ad véleményt.
 
-(3a)[^29] A testület elnöke szükség esetén személyes jelenlét nélküli ülés tartását rendelheti el.
+(3a)[^41] A testület elnöke szükség esetén személyes jelenlét nélküli ülés tartását rendelheti el.
 
-(4)[^30] A testületek akkor határozatképesek, ha ülésükön a tagoknak több mint a fele jelen van.
+(4)[^42] A testületek akkor határozatképesek, ha ülésükön a tagoknak több mint a fele jelen van.
 
 (5) A testületek elnökei szükség szerint munkaterven kívüli ülést is összehívhatnak, illetve a tagok egyharmadának kezdeményezésére kötelesek az ülést összehívni.
 
 (6) Megszűnik a testületek tagjának a tagsága, ha
 
-a)[^31] a miniszteri kinevezését nem hosszabbítják meg, a kinevezése lejártával,
+a)[^43] a miniszteri kinevezését nem hosszabbítják meg, a kinevezése lejártával,
 
-b)[^32] a miniszteri kinevezését visszavonják,
+b)[^44] a miniszteri kinevezését visszavonják,
 
 c) a tagságáról lemond,
 
@@ -26,21 +26,21 @@ d) meghal,
 
 e) az adott évben tartott üléseknek több mint felét neki felróható okból kifolyólag elmulasztja,
 
-f)[^33] az ETT REKEBET tagjának megszűnik a RKEB elnöki minősége.
+f)[^45] az ETT REKEBET tagjának megszűnik a RKEB elnöki minősége.
 
-(6a)[^34] A (6) bekezdés f) pontja szerinti esetben az új RKEB elnök megbízásáig a RKEB az ügyrendje által meghatározott, az elnököt képviseleti joggal helyettesítő tagját delegálja az ETT REKEBET-be.
+(6a)[^46] A (6) bekezdés f) pontja szerinti esetben az új RKEB elnök megbízásáig a RKEB az ügyrendje által meghatározott, az elnököt képviseleti joggal helyettesítő tagját delegálja az ETT REKEBET-be.
 
-(6b)[^35] Ha a miniszter által kinevezett tag kinevezése a (6) bekezdés b)–e) pontja alapján a kinevezés lejárta előtt megszűnik, akkor a megüresedett helyre a kinevezésből még hátralévő időre a miniszter új tagot nevezhet ki.
+(6b)[^47] Ha a miniszter által kinevezett tag kinevezése a (6) bekezdés b)–e) pontja alapján a kinevezés lejárta előtt megszűnik, akkor a megüresedett helyre a kinevezésből még hátralévő időre a miniszter új tagot nevezhet ki.
 
-(7)[^36] A testületek és az ISZT elnökének és tagjainak, valamint a testületek és az ISZT munkáját segítő személyeknek titoktartási nyilatkozatot kell tenniük.
+(7)[^48] A testületek és az ISZT elnökének és tagjainak, valamint a testületek és az ISZT munkáját segítő személyeknek titoktartási nyilatkozatot kell tenniük.
 
 (8) Ha jogszabály a bizottság szakmai és etikai véleményezéséért díjat állapít meg, annak felhasználási módját a bizottság elnöke az ETT titkárával együttesen állapítja meg. A bizottság elnöke és az ETT titkára a díj felhasználási módjáról évente írásban beszámol az ETT elnökének és a miniszternek.
 
-[^29]: A 12. § (3a) bekezdését a 47/2021. (XI. 2.) EMMI rendelet 5. §-a iktatta be.
-[^30]: A 12. § (4) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^31]: A 12. § (6) bekezdés a) pontja a 17/2019. (VIII. 5.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
-[^32]: A 12. § (6) bekezdés b) pontja a 17/2019. (VIII. 5.) EMMI rendelet 8. § b) pontjával megállapított szöveg.
-[^33]: A 12. § (6) bekezdés f) pontját a 17/2019. (VIII. 5.) EMMI rendelet 7. § (2) bekezdése iktatta be.
-[^34]: A 12. § (6a) bekezdését a 17/2019. (VIII. 5.) EMMI rendelet 7. § (3) bekezdése iktatta be.
-[^35]: A 12. § (6b) bekezdését a 17/2019. (VIII. 5.) EMMI rendelet 7. § (3) bekezdése iktatta be.
-[^36]: A 12. § (7) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^41]: A 12. § (3a) bekezdését a 47/2021. (XI. 2.) EMMI rendelet 5. §-a iktatta be.
+[^42]: A 12. § (4) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^43]: A 12. § (6) bekezdés a) pontja a 17/2019. (VIII. 5.) EMMI rendelet 8. § a) pontja szerint módosított szöveg.
+[^44]: A 12. § (6) bekezdés b) pontja a 17/2019. (VIII. 5.) EMMI rendelet 8. § b) pontjával megállapított szöveg.
+[^45]: A 12. § (6) bekezdés f) pontját a 17/2019. (VIII. 5.) EMMI rendelet 7. § (2) bekezdése iktatta be.
+[^46]: A 12. § (6a) bekezdését a 17/2019. (VIII. 5.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^47]: A 12. § (6b) bekezdését a 17/2019. (VIII. 5.) EMMI rendelet 7. § (3) bekezdése iktatta be.
+[^48]: A 12. § (7) bekezdése a 17/2019. (VIII. 5.) EMMI rendelet 7. § (4) bekezdésével megállapított szöveg.

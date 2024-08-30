@@ -8,7 +8,19 @@ b) aki a jelölést vállalja, és
 
 c) akit az a) pontban jelölt személyek közül a vármegyében dolgozó orvosok megválasztanak.
 
+(2a)[^7] Az egészségügyi szolgáltató a Vármegyei Etikai Bizottságba akkor jogosult jelöltet állítani, ha az ETT Vármegyei Etikai Bizottság illetékességi területén működő egészségügyi szolgáltatónak minősül.
+
+(2b)[^8] A (2) bekezdés c) pontja szerinti választásra az az orvos jogosult, aki
+
+a) szerepel az egészségügyi dolgozók működési nyilvántartásában vagy az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (3) bekezdése szerinti személy, és
+
+b) a választás helye szerinti Vármegyei Etikai Bizottságba a (2a) bekezdés szerint jelöltállítási joggal rendelkező egészségügyi szolgáltatónál egészségügyi tevékenységet folytat, azzal, hogy a több vármegyében is egészségügyi tevékenységet végző személy érvényesen – választása szerint – csak egy Vármegyei Etikai Bizottság választásán szavazhat.
+
+(2c)[^9] A Központi Etikai Bizottságok illetékességi területét az 1. melléklet határozza meg.
+
 (3) A (2) bekezdés c) pontja szerinti választáson a tíz legtöbb érvényes szavazatot megszerző jelölt válik a Vármegyei Etikai Bizottság tagjává. A tíz választott tag közül legalább egy tagnak nem orvosi és egészségtudományi képzési területen szerzett alap szakképesítéssel rendelkező, de az egészségügyi felsőfokú szakirányú szakképzésben egészségügyi szakképesítést szerzett egészségügyi dolgozónak és legalább egy tagnak fogorvosnak kell lennie.
+
+(3a)[^10] A (3) bekezdéstől eltérően a (2) bekezdés c) pontja szerinti választáson az a húsz jelölt válik a Központi Etikai Bizottság tagjává, aki a legtöbb érvényes szavazatot kapta.
 
 (4) A (3) bekezdésben biztosított szakmánként megvalósuló bontást a póttagok választása során is biztosítani kell.
 
@@ -26,10 +38,20 @@ c) akit az a) pontban jelölt személyek közül a vármegyében dolgozó orvoso
 
 (11) Ha a választás eredményeként a tagok száma vagy a póttagok száma nem éri el a tíz-tíz főt, úgy a hiányzó tagok vagy póttagok tekintetében kell új választást lebonyolítani.
 
+(11a)[^11] Ha a Vármegyei Etikai Bizottság tagjainak és póttagjainak száma a működéséhez előírt létszám alá csökken, ennek tényéről a vármegyei etikai elnök haladéktalanul tájékoztatja az Országos Etikai Bizottság elnökét és az OKFŐ-t. Az OKFŐ időközi választást tűz ki.
+
 (12) Az ETT Vármegyei Etikai Tanácsa az ETT-nek az orvosokkal szembeni etikai eljárást lefolytató eseti testülete.
 
 (13) A Vármegyei Etikai Tanács és az Országos Etikai Tanács tagjai költségtérítésre jogosultak.
 
 (14) Az ETT Országos Etikai Bizottság tagja valamennyi vármegyei etikai elnök. Az ETT Országos Etikai Tanácsa az ETT-nek az orvosokkal szembeni etikai eljárást lefolytató eseti testülete. Az országos etikai elnököt az Országos Etikai Bizottság tagjai maguk közül választják.
 
+(15)[^12] Az ETT a Vármegyei Etikai Bizottságok tagjairól és póttagjairól folyamatosan aktualizált nyilvántartást vezet, amelynek változásáról három munkanapon belül tájékoztatja az OKFŐ-t.
+
 [^6]: Az 1/C. §-t a 22/2023. (VI. 30.) BM rendelet 3. §-a iktatta be.
+[^7]: Az 1/C. § (2a) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^8]: Az 1/C. § (2b) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^9]: Az 1/C. § (2c) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (1) bekezdése iktatta be.
+[^10]: Az 1/C. § (3a) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^11]: Az 1/C. § (11a) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (3) bekezdése iktatta be.
+[^12]: Az 1/C. § (15) bekezdését a 38/2024. (VIII. 29.) BM rendelet 2. § (4) bekezdése iktatta be.
