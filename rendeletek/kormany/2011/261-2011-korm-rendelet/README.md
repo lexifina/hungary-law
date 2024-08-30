@@ -41,3 +41,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-261-20-
 | 2023-08-08 | 2011-261-20-22.33 | 371/2023. (VIII. 7.) Korm. rendelet |
 | 2023-12-27 | 2011-261-20-22.35 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-01-01 | 2011-261-20-22.34 | 561/2023. (XII. 14.) Korm. rendelet |
+| 2024-08-30 | 2011-261-20-22.36 | 251/2024. (VIII. 22.) Korm. rendelet |
