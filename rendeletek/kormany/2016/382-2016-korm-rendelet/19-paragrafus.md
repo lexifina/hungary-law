@@ -1,5 +1,5 @@
-## 15.[^168]
+## 15.[^179]
 
 19. §
 
-[^168]: A 15. alcímet (19–20. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.
+[^179]: A 15. alcímet (19–20. §-t) a 457/2017. (XII. 28.) Korm. rendelet 588. § a) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 618. §-át.

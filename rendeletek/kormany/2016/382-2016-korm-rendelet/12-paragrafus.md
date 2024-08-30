@@ -1,12 +1,12 @@
 ## 10. A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése
 
-12. § (1)[^153] A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány
+12. § (1)[^164] A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány
 
 a) a 2. § (2) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest Főváros Kormányhivatalát,
 
-b)[^154] a 2. § (3) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a fővárosi és vármegyei kormányhivatalt,
+b)[^165] a 2. § (3) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a fővárosi és vármegyei kormányhivatalt,
 
-c)[^155] a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a vármegyei kormányhivatalt,
+c)[^166] a 2. § (5) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében a vármegyei kormányhivatalt,
 
 d) 2. § (6) bekezdése hatálya alá tartozó közúti közlekedési építmények tekintetében Budapest fővárosban Budapest Főváros Kormányhivatalát
 
@@ -18,12 +18,12 @@ jelöli ki.
 
 (4) Építésfelügyeleti hatóságként az országos közforgalmú kikötők, valamint a vám- és határkikötők továbbá a nemzetközi személy- vagy áruforgalmat lebonyolító vagy azokhoz kapcsolódó hajózási létesítmények tekintetében a miniszter jár el.
 
-(5)[^156] Építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
+(5)[^167] Építésfelügyeleti hatóságként a (4) bekezdés hatálya alá nem tartozó víziközlekedési építmények vonatkozásában Budapest Főváros Kormányhivatala jár el.
 
-(6)[^157]
+(6)[^168]
 
-[^153]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (10) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^154]: A 12. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 241. §-a szerint módosított szöveg.
-[^155]: A 12. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 241. §-a szerint módosított szöveg.
-[^156]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
-[^157]: A 12. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés h) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.
+[^164]: A 12. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (10) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^165]: A 12. § (1) bekezdés b) pontja a 616/2022. (XII. 29.) Korm. rendelet 241. §-a szerint módosított szöveg.
+[^166]: A 12. § (1) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 241. §-a szerint módosított szöveg.
+[^167]: A 12. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 158. § (13) bekezdés c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 203. §-át.
+[^168]: A 12. § (6) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 158. § (14) bekezdés h) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 203. §-át.

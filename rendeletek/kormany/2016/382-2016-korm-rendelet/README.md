@@ -59,3 +59,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-382-20-
 | 2024-04-24 | 2016-382-20-22.52 | 91/2024. (IV. 23.) Korm. rendelet |
 | 2024-05-01 | 2016-382-20-22.51 | 84/2024. (IV. 17.) Korm. rendelet |
 | 2024-05-03 | 2016-382-20-22.53 | 94/2024. (IV. 25.) Korm. rendelet |
+| 2024-08-30 | 2016-382-20-22.54 | 251/2024. (VIII. 22.) Korm. rendelet |
