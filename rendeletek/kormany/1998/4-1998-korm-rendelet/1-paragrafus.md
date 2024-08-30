@@ -48,7 +48,7 @@ b) a nem légiközlekedési célra igényelt légtérben a tevékenységnek a l�
 
 (5)[^11] Az eseti légtér kijelölésére vonatkozó határozatnak tartalmaznia kell a kérelemben megadott adatokat, továbbá a légtér sarokpontjaiként vagy a légtér középpontjaként meghatározott WGS-84 rendszerű földrajzi koordinátához legközelebb eső település megnevezését, valamint a (6) bekezdésben meghatározott közzététel során megjelenítendő tájékoztatás szövegét.
 
-(6)[^12] A katonai légügyi hatóság az eseti légtér kijelölésére vonatkozó határozatot, valamint a 4/D. § (6) bekezdése szerint módosított vagy visszavont határozatot a légtér működésének megkezdése előtt legkésőbb 7 nappal, az 5. § (3) bekezdésében meghatározott esetben a légtér működésének megkezdése előtt legkésőbb 2 nappal megküldi a légiforgalmi tájékoztató szolgálatnak közzététel céljából, valamint a Budapest ATS Központnak és tájékoztatásul a légiközlekedési hatóságnak.
+(6)[^12] A katonai légügyi hatóság az eseti légtér kijelölésére vonatkozó határozatot, valamint a 4/D. § (6) bekezdése szerint módosított vagy visszavont határozatot a légtér működésének megkezdése előtt legkésőbb 7 nappal, az 5. § (11) bekezdésében meghatározott esetben a légtér működésének megkezdése előtt legkésőbb 2 nappal megküldi a légiforgalmi tájékoztató szolgálatnak közzététel céljából, valamint a Budapest ATS Központnak és tájékoztatásul a légiközlekedési hatóságnak.
 
 [^1]: Az 1. § (3) bekezdése a 177/2011. (IX. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (3a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 55. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
@@ -61,4 +61,4 @@ b) a nem légiközlekedési célra igényelt légtérben a tevékenységnek a l�
 [^9]: Az 1. § (4) bekezdését a 177/2011. (IX. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^10]: Az 1. § (4a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 55. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: Az 1. § (5) bekezdését újonnan a 457/2017. (XII. 28.) Korm. rendelet 55. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^12]: Az 1. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 39/2021. (II. 2.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 612/2023. (XII. 22.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
+[^12]: Az 1. § (6) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 55. § (2) bekezdése iktatta be, szövege a 39/2021. (II. 2.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 612/2023. (XII. 22.) Korm. rendelet 8. § a) pontja, a 251/2024. (VIII. 22.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.

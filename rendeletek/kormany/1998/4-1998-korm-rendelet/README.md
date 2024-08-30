@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-4-20-22
 | 2023-12-21 | 1998-4-20-22.28 | 409/2022. (X. 24.) Korm. rendelet |
 | 2023-12-27 | 1998-4-20-22.29 | 612/2023. (XII. 22.) Korm. rendelet |
 | 2024-05-01 | 1998-4-20-22.30 | 84/2024. (IV. 17.) Korm. rendelet |
+| 2024-08-30 | 1998-4-20-22.31 | 251/2024. (VIII. 22.) Korm. rendelet |
