@@ -8,6 +8,7 @@
 
 (5) A vizsgaközpont a szabályzatot nyilvánosan közzéteszi.
 
-(6) A vizsgaközpont részére a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásáért, a közúti járművezetők utánképzéséért és a pályaalkalmassági vizsgálatért befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a tárgyhónapot követő hónap utolsó napjáig a vizsgaközpont az 10032000-00003582-06010016 számlára történő átutalással teljesíti.
+(6)[^8] A vizsgaközpont részére a közúti járművezetők és a közúti közlekedési szakemberek vizsgáztatásáért, a közúti járművezetők utánképzéséért és a pályaalkalmassági vizsgálatért befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a tárgyhónapot követő hónap utolsó napjáig a vizsgaközpont az 10032000-00003582-06020015 számlára történő átutalással teljesíti.
 
 [^7]: A 4/A. §-t a 410/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^8]: A 4/A. § (6) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 79. §-a szerint módosított szöveg.

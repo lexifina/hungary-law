@@ -2,9 +2,15 @@
 
 (2) A feladatátadó szerv 2019. július 31. napjáig köteles a vizsgaközpont számára a feladatainak maradéktalan ellátása érdekében, az ahhoz szükséges eszközök – ideértve különösen az informatikai eszközök, hálózatok, használatát, annak ellátásához szükséges irodai eszközöket, a vizsgáztatás lefolytatásához szükséges eszközöket, utóbbi körében a tanpálya – használatát biztosítani. A használatból eredő költségek tekintetében a vizsgaközpont az informatikai szolgáltatások esetén a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet, míg egyéb beszerzés estén a Közbeszerzési és Ellátási Főigazgatóságról szóló kormányrendelet rendelkezései alapján a központi szolgáltatóval, illetve a Közbeszerzési és Ellátási Főigazgatósággal elszámol.
 
-(3)[^8] A vizsgaközpont 2023. december 31. napjáig jogosult a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti szolgáltatások igénybevételére.
+(2a)[^9] A vizsgaközpont az építési és közlekedési miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságokhoz kapcsolódó szolgáltatási feladatok ellátásáról szóló 562/2023. (XII. 14.) Korm. rendelet 1. § (3) bekezdésében megjelölt, a közlekedésért felelős miniszter által állami feladatellátás keretében a vizsgaközpont részére biztosított szolgáltatások költségei tekintetében a közlekedésért felelős miniszterrel elszámol, az elszámolás feltételeinek rögzítésére minden tárgyév február 15. napjáig a közlekedésért felelős miniszter és a vizsgaközpont elszámolási megállapodást köt.
 
-(4)[^9] A vizsgaközpont és a közlekedésért felelős miniszter 2019. december 31. napjáig elszámol egymással az utánképzési tevékenységgel összefüggő díjak tekintetében, azzal, hogy a közlekedésért felelős miniszter az utánképzési rendszer szakmai irányítására és fejlesztésére fordítandó összeget a vizsgaközpont részére visszahagyja.
+(2b)[^10] A közlekedésért felelős miniszter és a vizsgaközpont a (2a) bekezdés szerinti, 2024. január 1. napjától 2024. december 31. napjáig tartó időszakra vonatkozó megállapodást e rendeletnek a hatósági jogalkalmazást elősegítő egyes közlekedési tárgyú kormányrendeletek módosításáról szóló 251/2024. (VIII. 22.) Korm. rendelettel történő módosításának hatálybalépésétől számított 31 napon belül kötik meg.
 
-[^8]: Az 5. § (3) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 53. §-ával megállapított, a 410/2023. (VIII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^9]: Az 5. § (4) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be.
+(3)[^11] A vizsgaközpont 2023. december 31. napjáig jogosult a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló kormányrendelet szerinti szolgáltatások igénybevételére.
+
+(4)[^12] A vizsgaközpont és a közlekedésért felelős miniszter 2019. december 31. napjáig elszámol egymással az utánképzési tevékenységgel összefüggő díjak tekintetében, azzal, hogy a közlekedésért felelős miniszter az utánképzési rendszer szakmai irányítására és fejlesztésére fordítandó összeget a vizsgaközpont részére visszahagyja.
+
+[^9]: Az 5. § (2a) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 78. §-a iktatta be.
+[^10]: Az 5. § (2b) bekezdését a 251/2024. (VIII. 22.) Korm. rendelet 78. §-a iktatta be.
+[^11]: Az 5. § (3) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be, szövege a 722/2020. (XII. 31.) Korm. rendelet 53. §-ával megállapított, a 410/2023. (VIII. 30.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^12]: Az 5. § (4) bekezdését a 248/2019. (X. 24.) Korm. rendelet 17. §-a iktatta be.
