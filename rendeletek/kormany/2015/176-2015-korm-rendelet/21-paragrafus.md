@@ -1,4 +1,4 @@
-21. § (1)[^54] A személytaxi-szolgáltatást az utas
+21. § (1)[^58] A személytaxi-szolgáltatást az utas
 
 a) a vállalkozástól vagy a megbízásából eljáró diszpécserszolgálattól telefonon vagy online úton történő előzetes megrendeléssel,
 
@@ -22,7 +22,7 @@ c) az utas és a személygépkocsi vezető közötti megállapodás megkötésé
 
 jön létre.
 
-(2a)[^55] A személytaxi-szolgáltatás része:
+(2a)[^59] A személytaxi-szolgáltatás része:
 
 a) ha a járművezető a taxiállomáson várakozik személytaxival,
 
@@ -32,11 +32,11 @@ c) a szolgáltatás nyújtására irányuló szóbeli vagy írásbeli megállapo
 
 d) a szolgáltatás nyújtására irányuló szóbeli vagy írásbeli ajánlattétel.
 
-(2b)[^56] A (2a) bekezdés a)–d) pontjában foglalt cselekmény megvalósulása esetén a jármű vezetője felel az e rendeletben, a személytaxi-szolgáltatás végzésére vonatkozó, helyi önkormányzat által kiadott rendeletben vagy egyéb jogszabályban meghatározott előírások megtartásáért.
+(2b)[^60] A (2a) bekezdés a)–d) pontjában foglalt cselekmény megvalósulása esetén a jármű vezetője felel az e rendeletben, a személytaxi-szolgáltatás végzésére vonatkozó, helyi önkormányzat által kiadott rendeletben vagy egyéb jogszabályban meghatározott előírások megtartásáért.
 
-(2c)[^57] A (2b) bekezdésben foglaltakkal azonos felelősség terheli annak a – taxiszolgáltatásra előírt követelményeket nem vagy csak részlegesen teljesítő – járműnek a vezetőjét is, amely a taxiállomáson az utasokat megtévesztve, a taxiszolgáltatás végzésére való jogosultság látszatát keltő módon várakozik.
+(2c)[^61] A (2b) bekezdésben foglaltakkal azonos felelősség terheli annak a – taxiszolgáltatásra előírt követelményeket nem vagy csak részlegesen teljesítő – járműnek a vezetőjét is, amely a taxiállomáson az utasokat megtévesztve, a taxiszolgáltatás végzésére való jogosultság látszatát keltő módon várakozik.
 
-(2d)[^58] A (2b) bekezdés szerinti felelősség kiterjed a (2a) bekezdés
+(2d)[^62] A (2b) bekezdés szerinti felelősség kiterjed a (2a) bekezdés
 
 a) c) pontja szerinti szóbeli megállapodás esetén a szolgáltatás kínálójára,
 
@@ -44,21 +44,21 @@ b) c) pontjában meghatározott írásbeli megállapodás esetén a megállapod�
 
 c) d) pontja szerinti szóbeli vagy írásbeli ajánlattétel esetén az ajánlattevőre.
 
-(3)[^59] Repülőtér, vasúti pályaudvar és autóbusz-állomás üzemi területén, továbbá a közösségi közlekedési szolgáltató kezelésében lévő területen – ha ilyen szolgáltatás végzéséhez a létesítmény üzemeltetője hozzájárult – személytaxi- szolgáltatást felajánlani és utast felvenni
+(3)[^63] Repülőtér, vasúti pályaudvar és autóbusz-állomás üzemi területén, továbbá a közösségi közlekedési szolgáltató kezelésében lévő területen – ha ilyen szolgáltatás végzéséhez a létesítmény üzemeltetője hozzájárult – személytaxi- szolgáltatást felajánlani és utast felvenni
 
-a)[^60] taxiállomáson, valamint
+a)[^64] taxiállomáson, valamint
 
 b) az utas zaklatása nélkül, a közterület rendjének betartása mellett
 
 szabad.
 
-(4)[^61] Az (1) bekezdés e) pontjában meghatározott előrendelés esetében a közösségi közlekedési szolgáltatóra és a közösségi közlekedésszervezőre alkalmazni kell az Sztv. szerint a diszpécserszolgálatok részére meghatározott adatrögzítési és adatkezelési, valamint a 23. § (1) bekezdésében foglalt, diszpécserszolgálatra vonatkozó előírásokat.
+(4)[^65] Az (1) bekezdés e) pontjában meghatározott előrendelés esetében a közösségi közlekedési szolgáltatóra és a közösségi közlekedésszervezőre alkalmazni kell az Sztv. szerint a diszpécserszolgálatok részére meghatározott adatrögzítési és adatkezelési, valamint a 23. § (1) bekezdésében foglalt, diszpécserszolgálatra vonatkozó előírásokat.
 
-[^54]: A 21. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^55]: A 21. § (2a) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^56]: A 21. § (2b) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^57]: A 21. § (2c) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^58]: A 21. § (2d) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^59]: A 21. § (3) bekezdés nyitó szövegrésze a 394/2022. (X. 19.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
-[^60]: A 21. § (3) bekezdés a) pontja a 394/2022. (X. 19.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
-[^61]: A 21. § (4) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (3) bekezdése iktatta be.
+[^58]: A 21. § (1) bekezdése a 394/2022. (X. 19.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^59]: A 21. § (2a) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^60]: A 21. § (2b) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^61]: A 21. § (2c) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^62]: A 21. § (2d) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^63]: A 21. § (3) bekezdés nyitó szövegrésze a 394/2022. (X. 19.) Korm. rendelet 24. § k) pontja szerint módosított szöveg.
+[^64]: A 21. § (3) bekezdés a) pontja a 394/2022. (X. 19.) Korm. rendelet 24. § l) pontja szerint módosított szöveg.
+[^65]: A 21. § (4) bekezdését a 394/2022. (X. 19.) Korm. rendelet 15. § (3) bekezdése iktatta be.
