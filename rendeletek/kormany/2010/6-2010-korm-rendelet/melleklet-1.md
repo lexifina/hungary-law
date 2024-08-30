@@ -1,4 +1,4 @@
-1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^24]
+1. melléklet a 6/2010. (I. 21.) Korm. rendelethez[^25]
 
 Vasúti társaságokra irányadó fedezeti összeghatárok
 
@@ -72,4 +72,4 @@ stl = a tárgyévben tervezett utaslétszám.
 
 Egy károsult személyre (utasra) eső fedezeti összeghatár (szublimit): legalább egy kárból egy személy esetében összesen 1 millió forint.
 
-[^24]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet a 193/2016. (VII. 13.) Korm. rendelet 23. § a) pontjával megállapított, az 516/2017. (XII. 29.) Korm. rendelet 16. §-a szerint módosított szöveg.
