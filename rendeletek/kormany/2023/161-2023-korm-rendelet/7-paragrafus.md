@@ -1,6 +1,6 @@
 ## 6. Pályázókra vonatkozó feltételek
 
-7. § (1) Az Ipari Park, a Technológiai Park és a Logisztikai Park cím elnyerésére pályázhat az ipari parkot, technológiai parkot, logisztikai parkot megvalósítani, fejleszteni és üzemeltetni szándékozó, e célból megfelelő stratégiát kidolgozó gazdasági társaság, helyi önkormányzat vagy helyi önkormányzatok társulása.
+7. § (1)[^13] Az Ipari Park, a Technológiai Park és a Logisztikai Park cím elnyerésére pályázhat az ipari parkot, technológiai parkot, logisztikai parkot megvalósítani, fejleszteni és üzemeltetni szándékozó, e célból megfelelő stratégiát kidolgozó szervezet, helyi önkormányzat vagy helyi önkormányzatok társulása. Amennyiben valamely pályázó a részben vagy egészben saját tulajdonában lévő terület tekintetében kíván Logisztikai Park címet szerezni, a pályázat benyújtására bármikor a saját nevében is jogosult, feltéve, hogy a pályázat egyébként megfelel az e jogszabályban előírt feltételeknek. Amennyiben az érintett terület több tulajdonos tulajdonában áll, a pályázat benyújtására és a cím viselésére valamennyi tulajdonostárs együttesen is jogosult.
 
 (2) A Tudományos és Innovációs Park cím elnyerésére pályázhat tudományos és innovációs parkot megvalósítani, fejleszteni és üzemeltetni szándékozó, e célból megfelelő stratégiát kidolgozó felsőoktatási intézmény, felsőoktatási intézményt fenntartó jogi személy, felsőoktatási intézmény többségi tulajdonában lévő gazdasági társaság, konzorcium.
 
@@ -14,13 +14,13 @@ c) elsősorban közhasznú jogállású nonprofit gazdasági társasági formáb
 
 (4) Az Ipari Park, a Technológiai Park, a Logisztikai Park, valamint a Tudományos és Innovációs Park cím elnyerésének feltétele, hogy a pályázó rendelkezik a tervezett parkra vonatkozó megvalósíthatósági tanulmánnyal, valamint a Tudományos és Innovációs Park esetében tudományos és üzleti tervvel is.
 
-(5) Ipari Park, Technológiai Park és Logisztikai Park esetén a pályázó vállalja, hogy a pályázat benyújtásakor már legalább öt vállalkozás a tervezett Ipari Park, Technológiai Park vagy Logisztikai Park területén működik, és a vállalkozások által teljes munkaidőben foglalkoztatottak együttes létszáma Ipari Park esetén legalább 100 fő, Technológiai Park és Logisztikai Park esetén legalább 75 fő.
+(5)[^14] Ipari és Technológiai Park esetén a pályázó vállalja, hogy a pályázat benyújtásakor már legalább öt vállalkozás a tervezett Ipari és Technológiai Park területén működik, és a vállalkozások által teljes munkaidőben foglalkoztatottak együttes létszáma Ipari Park esetén legalább 100 fő, Technológiai Park esetén legalább 75 fő.
 
-(6) Az (5) bekezdésben meghatározott követelményeket nem kell alkalmazni arra a pályázóra, amely gazdasági társaságként, a saját tulajdonában lévő területen ipari, technológiai vagy a saját tulajdonában lévő vagy bérelt területen logisztikai parkot kíván létrehozni. Ebben az esetben a pályázat feltétele az, hogy a társaság ipari park és technológiai park esetében ipari, logisztikai park esetében logisztikai tevékenységet végezzen a területen, és az általa foglalkoztatott munkavállalók száma legalább 50 fő legyen.
+(6)[^15] Az (5) bekezdésben meghatározott követelményeket nem kell alkalmazni arra a pályázóra, amely gazdasági társaságként, a saját tulajdonában lévő területen ipari vagy technológiai parkot kíván létrehozni. Ebben az esetben a pályázat feltétele az, hogy a társaság ipari tevékenységet végezzen a területen, és az általa foglalkoztatott munkavállalók száma legalább 50 fő legyen.
 
-(7) Az Ipari Park, a Technológiai Park és a Logisztikai Park esetén a pályázó vállalja, hogy a fejlesztő munkája eredményeként a pályázat elnyerésétől számított 5. év végére a betelepült vállalkozások száma legalább tíz, valamint a meglévő és a létesítendő munkahelyeken a teljes munkaidőben foglalkoztatottak száma az Ipari Park esetében együttesen legalább 350 fő, a Technológiai Park és a Logisztikai Park esetében együttesen legalább 150 fő lesz.
+(7)[^16] Az Ipari Park és a Technológiai Park esetén a pályázó vállalja, hogy a fejlesztő munkája eredményeként a pályázat elnyerésétől számított 5. év végére a betelepült vállalkozások száma legalább tíz, valamint a meglévő és a létesítendő munkahelyeken a teljes munkaidőben foglalkoztatottak száma az ipari park esetében együttesen legalább 350 fő, a Technológiai Park esetében együttesen legalább 150 fő lesz.
 
-(8) A (7) bekezdésben meghatározott követelmények nem vonatkoznak arra a pályázóra, mely gazdasági társaságként, a saját tulajdonában lévő területen ipari vagy technológiai parkot, a saját tulajdonában lévő vagy bérelt területen logisztikai parkot kíván létrehozni, esetükben legalább 150 munkavállaló foglalkoztatására kell kötelezettséget vállalni a pályázat elnyerésétől számított 5. év végéig.
+(8)[^17] A (7) bekezdésben meghatározott követelmények nem vonatkoznak arra a pályázóra, mely gazdasági társaságként, a saját tulajdonában lévő területen ipari vagy technológiai parkot kíván létrehozni, esetükben a foglalkoztatott munkavállalók száma legalább 150 fő lesz.
 
 (9) A pályázónak a pályázat benyújtásakor rendelkeznie kell a helyi önkormányzat támogató nyilatkozatával az ipari park, a technológiai park és a logisztikai park létrehozásának vonatkozásában.
 
@@ -115,3 +115,9 @@ c) azon helyi önkormányzatnak, amely ellen jogerős végzés alapján a helyi 
 (19) Technológiai Park címre pályázhat az az Ipari Park címmel rendelkező szervezet vagy az (1) bekezdésben meghatározott pályázó, amelynek fennálló együttműködési vagy kutatási szerződése van felsőoktatási intézménnyel vagy a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény 42/A. §-a szerinti kutatóhellyel, és a park területére betelepült vállalkozások közül legalább három együttműködik KFI tevékenység végzésében.
 
 (20) Ha a Tudományos és Innovációs Park cím elnyerése iránti pályázatot konzorcium nyújtja be, akkor a felsőoktatási intézménynek vagy a kapcsolódó intézménynek rendelkeznie kell szellemi tulajdon hasznosítására vonatkozó szabályzattal.
+
+[^13]: A 7. § (1) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § (5) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^15]: A 7. § (6) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (7) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^17]: A 7. § (8) bekezdése a 253/2024. (VIII. 22.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
