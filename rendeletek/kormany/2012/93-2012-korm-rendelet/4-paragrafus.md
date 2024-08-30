@@ -16,7 +16,7 @@ ae) az úttartozékok közül a vezetőoszlop, a korlát, az útfenntartási és
 
 af)[^2] az elektronikus útdíjszedési és díjellenőrzési létesítmények építése, átépítése, üzemeltetése és karbantartása,
 
-ag)[^3]
+ag)[^3] a meglévő út új útpályával vagy új forgalmi sávval történő bővítése során, a munkaterületen belül legfeljebb 200 méter hosszúságú útpálya vagy forgalmi sáv építése – amennyiben nem tartalmaz 2 méternél nagyobb szabadnyílású műtárgyat –, ami nem tartozik a végleges műszaki tartalomhoz;
 
 ah)[^4] a legfeljebb 1,5 méter magas támfal építése;
 
@@ -43,7 +43,7 @@ cc)[^5] legfeljebb ötven méter hosszúságú sárrázó létesítése.
 (2) A közlekedési hatósági engedély mellőzése a munkavégzéssel kapcsolatos egyéb engedélyek beszerzésének szükségességét nem érinti, és nem mentesít a munkavégzés szabályszerűségéért való felelősség alól.
 
 [^2]: A 4. § (1) bekezdés a) pont af) alpontját a 32/2013. (II. 13.) Korm. rendelet 1. §-a iktatta be.
-[^3]: A 4. § (1) bekezdés a) pont ag) alpontját a 60/2017. (III. 20.) Korm. rendelet 24. § (1) bekezdése iktatta be, hatályon kívül helyezte a 668/2020. (XII. 28.) Korm. rendelet 31. § (2) bekezdés a) pontja.
+[^3]: A 4. § (1) bekezdés a) pont ag) alpontját a 668/2020. (XII. 28.) Korm. rendelet 31. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 57. §-a iktatta be.
 [^4]: A 4. § (1) bekezdés a) pont ah) alpontját a 360/2019. (XII. 30.) Korm. rendelet 104. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^5]: A 4. § (1) bekezdés c) pont cc) alpontját a 360/2019. (XII. 30.) Korm. rendelet 104. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
 [^6]: A 4. § (1a) bekezdését a 60/2017. (III. 20.) Korm. rendelet 24. § (2) bekezdése iktatta be, hatályon kívül helyezte a 668/2020. (XII. 28.) Korm. rendelet 31. § (2) bekezdés b) pontja.

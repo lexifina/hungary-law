@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-93-20-2
 | 2020-05-27 | 2012-93-20-22.14 | 236/2020. (V. 26.) Korm. rendelet |
 | 2021-01-01 | 2012-93-20-22.15 | 60/2017. (III. 20.) Korm. rendelet |
 | 2024-07-01 | 2012-93-20-22.16 | 141/2024. (VI. 28.) Korm. rendelet |
+| 2024-08-30 | 2012-93-20-22.17 | 251/2024. (VIII. 22.) Korm. rendelet |

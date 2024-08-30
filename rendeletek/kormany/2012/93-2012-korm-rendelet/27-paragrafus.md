@@ -4,19 +4,19 @@
 
 27. § (1) Az e rendelet hatálya alá tartozó közlekedési építmény megszüntetése iránti kérelmet a megszüntetés tervezett időpontja előtt legkésőbb 60 nappal kell a közlekedési hatósághoz benyújtani. A kérelemhez mellékelni kell:
 
-a)[^42] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
+a)[^47] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
 
-b)–d)[^43]
+b)–d)[^48]
 
-(1a)[^44] A kérelmezőnek igazolnia kell, hogy
+(1a)[^49] A kérelmezőnek igazolnia kell, hogy
 
 a) a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek,
 
 b) az útkezelő és a vagyonkezelő a bontási tervhez hozzájárult.
 
-(2)[^45]
+(2)[^50]
 
-(3)[^46] Az építmény megszüntetéséről szóló határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:
+(3)[^51] Az építmény megszüntetéséről szóló határozat – az általános közigazgatási rendtartásról szóló törvényben foglaltakon túlmenően – tartalmazza:
 
 a) a közlekedési építmény pontos megnevezését, helyét, a bontási terv azonosító adatait és a bontási munka rövid leírását,
 
@@ -36,8 +36,8 @@ f) az építtető kötelezését arra, hogy a kivitelezés megkezdésének időp
 
 (6) Az út megszüntetéséről szóló határozat időbeli hatályára a 15. §-ban foglaltak az irányadóak.
 
-[^42]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.
-[^43]: A 27. § (1) bekezdés b)–d) pontját a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^44]: A 27. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 392. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^45]: A 27. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^46]: A 27. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 393. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^47]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.
+[^48]: A 27. § (1) bekezdés b)–d) pontját a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^49]: A 27. § (1a) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 392. § (5) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^50]: A 27. § (2) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 394. § g) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^51]: A 27. § (3) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 393. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
