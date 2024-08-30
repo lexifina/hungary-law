@@ -20,7 +20,7 @@ d) együttműködés a feladatkörével kapcsolatos tevékenységet folytató ha
 
 (7)[^6] A vizsgaközpont a szabályzatot nyilvánosan közzéteszi.
 
-(8)[^7] A vasúti vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06010016 számlára történő átutalással teljesíti.
+(8)[^7] A vasúti vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06020015 számlára történő átutalással teljesíti.
 
 [^1]: Az 1. § (2) bekezdés b) pontját a 722/2020. (XII. 31.) Korm. rendelet 54. §-a hatályon kívül helyezte.
 [^2]: Az 1. § (3) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be.
@@ -28,4 +28,4 @@ d) együttműködés a feladatkörével kapcsolatos tevékenységet folytató ha
 [^4]: Az 1. § (5) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be.
 [^5]: Az 1. § (6) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be.
 [^6]: Az 1. § (7) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be.
-[^7]: Az 1. § (8) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^7]: Az 1. § (8) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 13. §-a iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 80. §-a szerint módosított szöveg.
