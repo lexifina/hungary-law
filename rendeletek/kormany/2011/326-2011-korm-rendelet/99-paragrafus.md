@@ -2,12 +2,12 @@
 
 a) az üzemi fék meghibásodása miatt fékezhetetlen,
 
-b)[^465] a kormányberendezés meghibásodása miatt irányíthatatlan,
+b)[^468] a kormányberendezés meghibásodása miatt irányíthatatlan,
 
-c)[^466] kerekeire szerelt gumiabroncsok futófelületének bordázata a jogszabályban meghatározott minimális értéket nem éri el, vagy azt nem a jogszabályban előírtaknak megfelelően szerelték fel, vagy
+c)[^469] kerekeire szerelt gumiabroncsok futófelületének bordázata a jogszabályban meghatározott minimális értéket nem éri el, vagy azt nem a jogszabályban előírtaknak megfelelően szerelték fel, vagy
 
-d)[^467] önhordó karosszériájának teherviselő elemei vagy alváza olyan mértékben korrodált, hogy az befolyásolja a jármű merevségét.
+d)[^470] önhordó karosszériájának teherviselő elemei vagy alváza olyan mértékben korrodált, hogy az befolyásolja a jármű merevségét.
 
-[^465]: A 99. § b) pontja az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
-[^466]: A 99. § c) pontja az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
-[^467]: A 99. § d) pontját az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdése iktatta be.
+[^468]: A 99. § b) pontja az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^469]: A 99. § c) pontja az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdésével megállapított szöveg.
+[^470]: A 99. § d) pontját az 561/2023. (XII. 14.) Korm. rendelet 22. § (3) bekezdése iktatta be.

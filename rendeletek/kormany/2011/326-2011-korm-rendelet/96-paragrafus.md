@@ -1,4 +1,4 @@
-## 95. §[^445] A forgalmi engedélyre vonatkozó szabályokat a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólapra, továbbá az ideiglenes forgalmi engedélyre is értelemszerűen alkalmazni kell.
+## 95. §[^448] A forgalmi engedélyre vonatkozó szabályokat a lassú járműre, annak pótkocsijára és a négykerekű segédmotoros kerékpárra kiadott igazolólapra, továbbá az ideiglenes forgalmi engedélyre is értelemszerűen alkalmazni kell.
 
 ## 21. A rendszámtábla érvénytelenítése és a forgalmi engedély helyszíni elvétele
 
@@ -6,13 +6,13 @@
 
 a) járművet engedély nélkül átalakították,
 
-b)[^446] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
+b)[^449] a járművel a közúti forgalomban részt vesznek annak ellenére, hogy a jármű
 
-ba)[^447]
+ba)[^450]
 
 bb) forgalmi engedélyének „H” adatmezőben szereplő érvényességi ideje vagy az ideiglenes forgalomban tartási engedélyének az érvényességi ideje lejárt vagy
 
-bc)[^448] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
+bc)[^451] műszaki vizsgálatra történő berendelésére vonatkozó végleges határozatban foglaltaknak határidőben nem tettek eleget,
 
 c) a jármű közúti forgalomban való további részvétele közvetlen balesetveszéllyel jár és a járművel ennek ellenére közlekednek,
 
@@ -22,38 +22,38 @@ e) a forgalmi engedély, az ideiglenes forgalomban tartási engedély rongálód
 
 f) a közlekedési balesettel érintett jármű kormányműve vagy futóműve, illetve karosszériája (alváza) nyilvánvalóan úgy károsodott, hogy a forgalomban történő részvétele balesetveszéllyel jár, vagy
 
-g)[^449] az 53. § (2) bekezdés b) pont ba) alpontjában és c) pont ca) alpontjában meghatározott formátumú rendszámtáblával rendelkező személygépkocsin, tehergépkocsin, autóbuszon és vontatón nincs regisztrációs matrica elhelyezve, és azt a jármű vezetője nem tudja a helyszínen bemutatni, és a matrica utángyártására vagy egyedi gyártására vonatkozó kérelemmel sem rendelkezik.
+g)[^452] az 53. § (2) bekezdés b) pont ba) alpontjában és c) pont ca) alpontjában meghatározott formátumú rendszámtáblával rendelkező személygépkocsin, tehergépkocsin, autóbuszon és vontatón nincs regisztrációs matrica elhelyezve, és azt a jármű vezetője nem tudja a helyszínen bemutatni, és a matrica utángyártására vagy egyedi gyártására vonatkozó kérelemmel sem rendelkezik.
 
-(1a)[^450] A magyar hatóság által kiállított forgalmi engedéllyel és igazolólappal rendelkező jármű esetén az (1) bekezdésben foglaltaktól eltérően az ellenőrző hatósági személy a helyszínen a forgalomban való részvétel jogosultságának azonnali felfüggesztését a járműnyilvántartásba bejegyzi, és ezzel egyidejűleg – ha rendelkezésre áll – az állandó forgalmi engedélyt vagy igazolólapot elveszi.
+(1a)[^453] A magyar hatóság által kiállított forgalmi engedéllyel és igazolólappal rendelkező jármű esetén az (1) bekezdésben foglaltaktól eltérően az ellenőrző hatósági személy a helyszínen a forgalomban való részvétel jogosultságának azonnali felfüggesztését a járműnyilvántartásba bejegyzi, és ezzel egyidejűleg – ha rendelkezésre áll – az állandó forgalmi engedélyt vagy igazolólapot elveszi.
 
-(2)[^451]
+(2)[^454]
 
 (3) Az (1) bekezdés c) és f) pontja esetén meg kell akadályozni, hogy a járművel tovább közlekedjenek.
 
-(4)[^452] Amennyiben az (1) bekezdés d) pontjában meghatározott cselekményt a rendszámtábla tekintetében követték el, azt a helyszínen el kell venni.
+(4)[^455] Amennyiben az (1) bekezdés d) pontjában meghatározott cselekményt a rendszámtábla tekintetében követték el, azt a helyszínen el kell venni.
 
-(5)[^453] Az ellenőrző hatósági személy a forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a hatósági jelzés elvételéről átvételi elismervényt ad, amely tartalmazza a jármű azonosító adatait, az engedély számát és az elvétel okát. Az (1a) bekezdés alapján történő intézkedés esetén az átvételi elismervény a forgalomban való részvétel jogosultságának azonnali felfüggesztése járműnyilvántartásba történt bejegyzésének tényét és időpontját is tartalmazza. Az átvételi elismervény birtokában a járművel – az (1) bekezdés c) és f) pontjában foglalt kivétellel – a lakcímig vagy a telephelyig lehet közlekedni.
+(5)[^456] Az ellenőrző hatósági személy a forgalmi engedély, az ideiglenes forgalomban tartási engedély, valamint a hatósági jelzés elvételéről átvételi elismervényt ad, amely tartalmazza a jármű azonosító adatait, az engedély számát és az elvétel okát. Az (1a) bekezdés alapján történő intézkedés esetén az átvételi elismervény a forgalomban való részvétel jogosultságának azonnali felfüggesztése járműnyilvántartásba történt bejegyzésének tényét és időpontját is tartalmazza. Az átvételi elismervény birtokában a járművel – az (1) bekezdés c) és f) pontjában foglalt kivétellel – a lakcímig vagy a telephelyig lehet közlekedni.
 
-(6)[^454] A helyszínen elvett forgalmi engedélyt, a forgalomban való részvétel jogosultságának azonnali felfüggesztése járműnyilvántartásba történt bejegyzésének tényéről szóló értesítést, az ideiglenes forgalomban tartási engedélyt, a hatósági jelzést, valamint az intézkedésről készült jelentés (feljelentés) egy példányát az ellenőrző hatóság öt napon belül megküldi, az üzemben tartó lakcíme (székhelye) szerint illetékes közlekedési igazgatási hatóságnak.
+(6)[^457] A helyszínen elvett forgalmi engedélyt, a forgalomban való részvétel jogosultságának azonnali felfüggesztése járműnyilvántartásba történt bejegyzésének tényéről szóló értesítést, az ideiglenes forgalomban tartási engedélyt, a hatósági jelzést, valamint az intézkedésről készült jelentés (feljelentés) egy példányát az ellenőrző hatóság öt napon belül megküldi, az üzemben tartó lakcíme (székhelye) szerint illetékes közlekedési igazgatási hatóságnak.
 
 (7) A közlekedési igazgatási hatóságnak a jármű forgalomból történő kivonását elrendelő határozata tartalmazza a jármű műszaki vizsgálatához szükséges jármű azonosító és műszaki adatokat.
 
-(8)[^455]
+(8)[^458]
 
-(9)[^456] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9)[^459] Az ellenőrző hatósági személy a helyszínen elveszi az M, az SP és a P betűjelű ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalomban tartási engedélyt vagy az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – az M, az SP és a P betűjelű ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 69. § (1) bekezdésében, 69/A. §-ban és 70. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
 
-(9a)[^457] Az ellenőrző hatósági személy a helyszínen elveszi a 63/A. § (2) bekezdés 6–12. pontja alapján kiadott ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – a 63/A. § (2) bekezdés 6–12. pontja alapján kiadott ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 75/B. § (4) bekezdés a)–c) pontjában és (6) bekezdésben, a 75/D. §-ban, a 75/E. §-ban és a 75/F. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót, vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
+(9a)[^460] Az ellenőrző hatósági személy a helyszínen elveszi a 63/A. § (2) bekezdés 6–12. pontja alapján kiadott ideiglenes rendszámtáblát, az indítási naplót, valamint az ideiglenes forgalmi engedélyt, ha a jármű vezetője, vontatott jármű esetén – feltéve, hogy a vontató és a vontatott jármű egy vezetővel vesz részt a közúti forgalomban – a 63/A. § (2) bekezdés 6–12. pontja alapján kiadott ideiglenes rendszámtáblával ellátott járművet vontató jármű vezetője, az ideiglenes rendszámtáblát a 75/B. § (4) bekezdés a)–c) pontjában és (6) bekezdésben, a 75/D. §-ban, a 75/E. §-ban és a 75/F. §-ban meghatározott feltételektől eltérően használta, nem előírásszerűen vezette az indítási naplót, vagy az ideiglenes rendszámtábla nem az arra jogosult járműre van felszerelve.
 
-[^445]: A 95. § az 572/2020. (XII. 9.) Korm. rendelet 45. § 31. pontja szerint módosított szöveg.
-[^446]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
-[^447]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
-[^448]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^449]: A 96. § (1) bekezdés g) pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
-[^450]: A 96. § (1a) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (4) bekezdése iktatta be.
-[^451]: A 96. § (2) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
-[^452]: A 96. § (4) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
-[^453]: A 96. § (5) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
-[^454]: A 96. § (6) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
-[^455]: A 96. § (8) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § l) pontja hatályon kívül helyezte.
-[^456]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^457]: A 96. § (9a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 19. §-a iktatta be.
+[^448]: A 95. § az 572/2020. (XII. 9.) Korm. rendelet 45. § 31. pontja szerint módosított szöveg.
+[^449]: A 96. § (1) bekezdés b) pontja a 228/2012. (VIII. 23.) Korm. rendelet 7. § (10) bekezdésével megállapított szöveg.
+[^450]: A 96. § (1) bekezdés b) pont ba) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^451]: A 96. § (1) bekezdés b) pont bc) alpontja a 457/2017. (XII. 28.) Korm. rendelet 368. § c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^452]: A 96. § (1) bekezdés g) pontja a 251/2022. (VII. 13.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+[^453]: A 96. § (1a) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 13. § (4) bekezdése iktatta be.
+[^454]: A 96. § (2) bekezdését a 317/2020. (VII. 1.) Korm. rendelet 15. § a) pontja hatályon kívül helyezte.
+[^455]: A 96. § (4) bekezdése a 303/2021. (VI. 1.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
+[^456]: A 96. § (5) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
+[^457]: A 96. § (6) bekezdése a 317/2020. (VII. 1.) Korm. rendelet 13. § (5) bekezdésével megállapított szöveg.
+[^458]: A 96. § (8) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 29. § l) pontja hatályon kívül helyezte.
+[^459]: A 96. § (9) bekezdése a 468/2016. (XII. 23.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^460]: A 96. § (9a) bekezdését a 303/2021. (VI. 1.) Korm. rendelet 19. §-a iktatta be.
