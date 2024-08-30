@@ -1,6 +1,6 @@
-52. § (1)–(2)[^212]
+52. § (1)–(2)[^216]
 
-(3)–(7)[^213]
+(3)–(7)[^217]
 
-[^212]: Az 52. § (1)–(2) bekezdését az 53. § (2) bekezdése hatályon kívül helyezte.
-[^213]: Az 52. § (3)–(7) bekezdését az 53. § (1) bekezdése hatályon kívül helyezte.
+[^216]: Az 52. § (1)–(2) bekezdését az 53. § (2) bekezdése hatályon kívül helyezte.
+[^217]: Az 52. § (3)–(7) bekezdését az 53. § (1) bekezdése hatályon kívül helyezte.

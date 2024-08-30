@@ -1,4 +1,4 @@
-1. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^215]
+1. melléklet a 169/2010. (V. 11.) Korm. rendelethez[^219]
 
 Nemzeti Polgári Légiközlekedés Védelmi Képzési Program
 
@@ -148,17 +148,21 @@ b) a repülőtéri belépés-ellenőrzést végző, a megfigyelésben és az őr
 
 8.8.1. A képzés a védelmi tiszteknek szükséges, valamint a több telephellyel rendelkező meghatalmazott ügynökök, ismert szállítók vagy meghatalmazott beszállítók védelmi felelőseinek, illetve a repülőtéri készletek ismert beszállítói védelmi felelőseinek.
 
-8.8.2. A képzés időtartama védelmi tisztek esetében legalább 40 óra, védelmi felelősök esetében 20 óra.
+8.8.2.[^220] A védelmi tisztek alapképzését e-learning rendszer keretében a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft. (a továbbiakban: KTI) szervezi és tartja a légiközlekedési hatóság által jóváhagyott tananyag alapján. A védelmi felelősök képzésének időtartama 20 óra.
 
-8.8.3. A képzést a KTI Közlekedéstudományi Intézet Nonprofit Kft. szervezi és tartja a légiközlekedési hatóság által kiadott tantervi és vizsgakövetelményeknek megfelelően, a légiközlekedési hatóság bevonásával a védelmi tisztek esetében.
+8.8.3.[^221]
 
 8.8.4. A védelmi felelősöknek szükséges 11.2.5. pont szerinti képzést védelmi oktató is megtarthatja, amennyiben megfelel a 12.4. alpont feltételeinek. A tanfolyam megtartását külön kérelmezni kell a légiközlekedési hatóságtól.
+
+8.8.5.[^222] Nemzetközi szervezet által tartott védelmi menedzseri képzés is elfogadható, amennyiben a kompetenciák megegyeznek az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontjával.
 
 8.9. A védelmi tudatosságnövelő képzés [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.6.]
 
 8.9.1. A képzés azoknak a személyeknek szükséges, akik a repülőtér szigorított védelmi területére önállóan beléphetnek, valamint az uniós repülőszemélyzeti azonosítóval rendelkezőknek.
 
 8.9.2. A képzés időtartama legalább 3 × 45 perc.
+
+8.9.3.[^223] A védelmi tudatosság növelő képzést a védelmi háttérellenőrzés előtt is végre lehet hajtani, amennyiben az oktatás nem tartalmaz biztonsági szempontból érzékeny, nyilvánosan nem hozzáférhető információkat.
 
 8.10. Általános védelmi tudatosság képzés [(EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.7.]
 
@@ -228,17 +232,21 @@ d) a lehetséges kibertámadások, gyanús tevékenységek felismerésének isme
 
 11.2. A szinten tartó képzések időtartama legalább 2 × 45 perc.
 
-11.3. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti szinten tartó képzés időtartama 8 óra, amelyet a védelmi tisztek esetében a légiközlekedési hatóság tart 3 évente. A képzés időtartama védelmi felelősök esetében 2 óra, amelyet szintén legalább 3 évente meg kell ismételni.
+11.3.[^224] Az e-learning típusú alapképzésben részesült védelmi tiszteknek részt kell venni a KTI szervezésében tartott ismétlő képzésen, amely a légiközlekedési hatóság által kiadott tantervi és vizsgakövetelmények alapján kerül végrehajtásra a légiközlekedési hatóság bevonásával. A képzés időtartama 40 óra.
+
+11.4.[^225] Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti szinten tartó képzésen valamennyi jóváhagyott védelmi tisztnek részt kell venni, amelynek időtartama 8 óra, amelyet a védelmi tisztek esetében a légiközlekedési hatóság tart 3 évente. A képzés időtartama védelmi felelősök esetében 2 óra, amelyet szintén legalább 3 évente meg kell ismételni.
+
+11.5.[^226] A védelmi tiszteknek szinten tartó vizsgát kell tenniük az aktuális légiközlekedés védelmi ismeretekből 2 évente, amelyet a légiközlekedési hatóság nevében a KTI végez.
 
 ## Oktatók
 
 12. Általános követelmények
 
-12.1. Az oktató felsőfokú végzettségű, legalább 3 éves légiközlekedés védelemben eltöltött tapasztalattal rendelkezik, különös tekintettel az oktatni kívánt területre. Egy tanfolyamon az egyes szakmai részterületeket felsőfokú végzettség nélkül, legalább 10 év szakmai tapasztalattal is lehet oktatni. Az elvégzett tanórát ilyen esetben a felelős oktatóval vagy oktató szervezettel közösen kell leigazolni.
+12.1.[^227] Az oktató felsőfokú végzettségű, legalább 3 éves légiközlekedés védelemben eltöltött tapasztalattal rendelkezik, különös tekintettel az oktatni kívánt területre. Egy tanfolyamon az egyes szakmai részterületeket felsőfokú végzettség nélkül, legalább 6 év szakmai tapasztalattal is lehet oktatni. Az elvégzett tanórát ilyen esetben a felelős oktatóval vagy oktató szervezettel közösen kell leigazolni.
 
 12.2. Óraadó oktató az lehet, aki egy tanfolyamon belül egyes részterületeket oktat, de legfeljebb a tanfolyam óraszámának egy harmadában.
 
-12.3. Oktató az lehet, aki oktatói tanfolyamot végzett, vagy pedagógusi vagy andragógiai diplomával rendelkezik.
+12.3.[^228] Oktató az lehet, aki a légiközlekedési hatóság által vagy a nevében eljáró jóváhagyott légiközlekedés védelmi oktató szervezet / oktató által megtartott védelmi oktatói tanfolyamot végzett, vagy a légiközlekedési hatóság által elfogadott nemzetközi légiközlekedési szervezet által tartott védelmi oktatói tanfolyamot végzett, vagy pedagógusi vagy andragógiai végzettséggel rendelkezik.
 
 12.4. Az (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzést olyan oktató tarthat, aki rendelkezik maga is a légiközlekedési hatóság által tartott (EU) 2015/1998 bizottsági végrehajtási rendelet 11.2.5. pontja szerinti képzéssel.
 
@@ -278,7 +286,7 @@ k) a foglalkozás egyes részeinek időtartamai.
 
 13. Oktatók képzése
 
-13.1. Oktatói tanfolyamot a légiközlekedési hatóság tart, vagy a nevében eljáró jóváhagyott légiközlekedés védelmi oktató szervezet / oktató.
+13.1.[^229] Hazai oktatói tanfolyamot a légiközlekedési hatóság nevében a KTI tart.
 
 13.2. Az oktatói tanfolyam időtartama legalább 32 óra.
 
@@ -414,6 +422,10 @@ j) gyakorlati képzés.
 
 18.4. Az oktatói tanfolyam vizsgaelőadással zárul.
 
+18.5.[^230] A 11.2.3.1–11.2.3.5. pontban, valamint a 11.2.5. pontban meghatározott képzések nyújtására jogosult oktatók vizsgáztatását a KTI végzi a légiközlekedési hatóság nevében.
+
+18.6.[^231] A 11.2.3.5. pont szerinti, repülőtéri belépés-ellenőrzést végző, valamint a megfigyelésben és az őrjáratokban közreműködő személyek vizsgáztatását a légiközlekedési hatóság nevében eljáró KTI végzi. Amennyiben ezen személyek rendelkeznek a védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának rendjéről szóló 69/2014. (XII. 18.) BM rendelet szerinti 11.2.3.1. vagy 11.2.4. pont szerinti képzéssel és tanúsítással, abban az esetben képzésük és vizsgájuk megfelel a 11.2.3.5. pont szerinti képzésnek és tanúsításnak is.
+
 ## Mentességek
 
 19. Részletes szabályok
@@ -470,4 +482,16 @@ f) oktató / felelős személy aláírása vagy elektronikus aláírás.
 
 22.1. A 12.2. pontban hivatkozott oktatói tanfolyam elvégzését 2024. július 1-ig kell igazolni.
 
-[^215]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte, újonnan a 409/2023. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^219]: Az 1. mellékletet az 53. § (1) bekezdése hatályon kívül helyezte, újonnan a 409/2023. (VIII. 30.) Korm. rendelet 23. §-a iktatta be.
+[^220]: Az 1. melléklet 8. pont 8.8. alpont 8.8.2. pontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^221]: Az 1. melléklet 8. pont 8.8. alpont 8.8.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § f) pontja hatályon kívül helyezte.
+[^222]: Az 1. melléklet 8. pont 8.8. alpont 8.8.5. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^223]: Az 1. melléklet 8. pont 8.9. alpont 8.9.3. pontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^224]: Az 1. melléklet 11. pont 11.3. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^225]: Az 1. melléklet 11. pont 11.4. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^226]: Az 1. melléklet 11. pont 11.5. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^227]: Az 1. melléklet 12. pont 12.1. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^228]: Az 1. melléklet 12. pont 12.3. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^229]: Az 1. melléklet 13. pont 13.1. alpontja a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^230]: Az 1. melléklet 18. pont 18.5. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.
+[^231]: Az 1. melléklet 18. pont 18.6. alpontját a 251/2024. (VIII. 22.) Korm. rendelet 40. § (1) bekezdése iktatta be.

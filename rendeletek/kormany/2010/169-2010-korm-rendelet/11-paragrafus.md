@@ -4,15 +4,18 @@
 
 a) jelentéseket készít a nemzetközi kötelezettségeknek megfelelően,
 
-b) a légi közlekedés védelmével kapcsolatos bizottsági ellenőrzések eljárásainak megállapításáról szóló, 2010. január 26-i 72/2010/EU bizottsági rendelet (a továbbiakban: 72/2010/EU rendelet) 8. cikk (3) bekezdése alapján nemzeti koordinátort jelöl ki,
+b)[^36]
 
-c)[^33] képviseli Magyarországot a Bizottság szakértői Munkabizottságban,
+c)[^37] képviseli Magyarországot a Bizottság szakértői Munkabizottságban,
 
-d)[^34]
+d)[^38]
 
-e) a 72/2010/EU rendelet alapján tájékoztatja a Bizottságot a kiegyenlítő intézkedésekről,
+e)[^39]
 
-f) a 18/2010/EU rendelet melléklet 17. pontja alapján tájékoztatja a Bizottságot a minőségbiztosítási program gyakorlati tapasztalatairól, az alkalmazott ellenőrzési módszerekről.
+f)[^40]
 
-[^33]: A 11. § c) pontja a 304/2011. (XII. 23.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
-[^34]: A 11. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^36]: A 11. § b) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § a) pontja hatályon kívül helyezte.
+[^37]: A 11. § c) pontja a 304/2011. (XII. 23.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^38]: A 11. § d) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 4. pontja hatályon kívül helyezte.
+[^39]: A 11. § e) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.
+[^40]: A 11. § f) pontját a 251/2024. (VIII. 22.) Korm. rendelet 42. § b) pontja hatályon kívül helyezte.

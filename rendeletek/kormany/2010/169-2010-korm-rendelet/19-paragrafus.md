@@ -2,7 +2,7 @@
 
 ## 19. § Az egyéb jogalany
 
-a)[^108] a Nemzeti Polgári Légiközlekedés Védelmi Programmal összhangban elkészíti és működésének megkezdése előtt vagy a módosítás bevezetése előtt jóváhagyásra a légiközlekedési hatóságnak benyújtja a védelmi programját, a belső védelmi minőségbiztosítási programját és a védelmi képzési programját, valamint azok módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról,
+a)[^96] a Nemzeti Polgári Légiközlekedés Védelmi Programmal összhangban elkészíti és működésének megkezdése előtt vagy a módosítás bevezetése előtt jóváhagyásra a légiközlekedési hatóságnak benyújtja a védelmi programját, a belső védelmi minőségbiztosítási programját és a védelmi képzési programját, valamint azok módosításait, továbbá gondoskodik az abban foglaltak végrehajtásáról,
 
 b) a repülőtér rend, a repülőtér védelmi program, továbbá – ha a légitársaság megbízásából hajt végre légiközlekedés védelmi feladatot – a légitársaság védelmi terve alapján
 
@@ -10,15 +10,15 @@ ba) a földi kiszolgálási vagy egyéb szerződés alapján közreműködik a j
 
 bb) földi kiszolgálási vagy egyéb szerződés alapján közreműködik abban, hogy a kiszolgált légijármű fedélzetén csak a védelmi átvizsgáláson átesett és megfelelően dokumentált személy, poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készlet legyen,
 
-bc)[^109] a földi kiszolgálási vagy egyéb szerződés alapján ellátja a feladás pontjától a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek légiközlekedés védelmi ellenőrzését, felügyeletét,
+bc)[^97] a földi kiszolgálási vagy egyéb szerződés alapján ellátja a feladás pontjától a légijármű fedélzetére történő berakodásig a repülőtéren belül mozgatott és szállítani kívánt poggyász-, áru-, postai és egyéb küldemény, fedélzeti ellátmány és egyéb fedélzeti készletek légiközlekedés védelmi ellenőrzését, felügyeletét,
 
 bd) a technológiai feltételek kialakításával és a közreműködői szerződés alapján közreműködik az utasok, a poggyász-, áru-, postai és egyéb küldemények, ellátmányok kezelésében oly módon, hogy az zárt, felügyelt, dokumentált és biztonságos minőségbiztosítási technológia alapján történjen a repülőtér kijelölt területein,
 
-c)[^110] a belső védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és az AH-t,
+c)[^98] a belső védelmi minőségbiztosítási program alapján önellenőrző eljárásokat folytat le, értékeli az eredményeket, annak alapján végrehajtja a szükséges módosításokat, amelyről soron kívül tájékoztatja a légiközlekedési hatóságot, az általános rendőrségi feladatok ellátására létrehozott szervet, a TEK-et és az AH-t,
 
-d)[^111] felkérésre részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
+d)[^99] felkérésre részt vesz a Repülőtéri Kényszerhelyzeti Központ munkájában,
 
-e)[^112]
+e)[^100]
 
 f) a feladatai ellátása során keletkező, a légiközlekedés védelmi rendszer hiányosságaival összefüggő információkról soron kívül tájékoztatja
 
@@ -26,7 +26,7 @@ fa) a légiközlekedési hatóságot,
 
 fb) a rendőrséget,
 
-fc)[^113] az AH-t és
+fc)[^101] az AH-t és
 
 fd) a vámhatóságot, ha az információ a vámhatóság 16. § szerinti feladatait érinti,
 
@@ -34,12 +34,12 @@ g) védelmi feladatait saját állománnyal látja el, vagy e feladatra feljogos
 
 h) gondoskodik arról, hogy légiközlekedés védelmi feladatai ellátásához kizárólag a légiközlekedési hatóság által jóváhagyott légiközlekedés védelmi eszközöket, berendezéseket, rendszereket alkalmazzon.
 
-i)[^114] ha fél éven belül nem szerez földi kiszolgálói, meghatalmazott ügynöki, ismert szállítói vagy meghatalmazott beszállítói engedélyt, a légiközlekedési hatóság a légiközlekedés védelmi tiszt engedélyét, valamint jóváhagyott légiközlekedés védelmi tervét visszavonja.
+i)[^102] ha fél éven belül nem szerez földi kiszolgálói, meghatalmazott ügynöki, ismert szállítói vagy meghatalmazott beszállítói engedélyt, a légiközlekedési hatóság a légiközlekedés védelmi tiszt engedélyét, valamint jóváhagyott légiközlekedés védelmi tervét visszavonja.
 
-[^108]: A 19. § a) pontja a 789/2021 (XII. 27.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
-[^109]: A 19. § b) pont bc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^110]: A 19. § c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
-[^111]: A 19. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
-[^112]: A 19. § e) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.
-[^113]: A 19. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
-[^114]: A 19. § i) pontját a 409/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^96]: A 19. § a) pontja a 789/2021 (XII. 27.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
+[^97]: A 19. § b) pont bc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^98]: A 19. § c) pontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^99]: A 19. § d) pontja a 389/2014. (XII. 31.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
+[^100]: A 19. § e) pontját a 409/2023. (VIII. 30.) Korm. rendelet 25. § 13. pontja hatályon kívül helyezte.
+[^101]: A 19. § f) pont fc) alpontja a 240/2011. (XI. 18.) Korm. rendelet 30. § (1) bekezdés p) pontja szerint módosított szöveg.
+[^102]: A 19. § i) pontját a 409/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
