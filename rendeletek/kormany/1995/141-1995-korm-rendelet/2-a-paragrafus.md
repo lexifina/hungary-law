@@ -32,7 +32,7 @@ e) együttműködik a feladatkörével kapcsolatos tevékenységet végző hazai
 
 (11)[^9] A vizsgaközpont a szabályzatot nyilvánosan közzéteszi.
 
-(12)[^10] A légiközlekedési vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont a tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06010016 számlára történő átutalással teljesíti.
+(12)[^10] A légiközlekedési vizsgaközpont részére befizetett vizsgadíj 3%-ára az Építési és Közlekedési Minisztérium jogosult, melynek továbbítását a vizsgaközpont a tárgyhónapot követő hónap utolsó napjáig az 10032000-00003582-06020015 számlára történő átutalással teljesíti.
 
 [^3]: „(Az Lt. 2. §-ához)” alcímet (2/A. §) a 789/2021. (XII. 27.) Korm. rendelet 1. §-a iktatta be.
 [^4]: A 2/A. § (4) bekezdése a 410/2023. (VIII. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
@@ -41,4 +41,4 @@ e) együttműködik a feladatkörével kapcsolatos tevékenységet végző hazai
 [^7]: A 2/A. § (9) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^8]: A 2/A. § (10) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^9]: A 2/A. § (11) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^10]: A 2/A. § (12) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^10]: A Vhr. 2/A. § (12) bekezdését a 410/2023. (VIII. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 7. §-a szerint módosított szöveg.
