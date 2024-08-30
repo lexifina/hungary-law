@@ -4,7 +4,7 @@
 
 (2) A közúti biztonsági auditornak képesítési bizonyítványt adó képzésen és ötévente továbbképző tanfolyamon kell részt vennie.
 
-(2a)[^7] A képzésüket 2024. december 17. után megkezdő közúti biztonsági auditorok esetében a képzési tanterv magában foglalja a védtelen úthasználókkal és az ilyen úthasználóknak szánt infrastruktúrával kapcsolatos szempontokat.
+(2a)[^8] A képzésüket 2024. december 17. után megkezdő közúti biztonsági auditorok esetében a képzési tanterv magában foglalja a védtelen úthasználókkal és az ilyen úthasználóknak szánt infrastruktúrával kapcsolatos szempontokat.
 
 (3) A képzésben való részvételhez útépítési vagy közlekedési területen szerzett egyetemi (mesterfokozat) vagy főiskolai (alapfokozat) végzettség és legalább öt év szakmai gyakorlati idő szükséges a tervezés vagy balesetek elemzése területén.
 
@@ -24,4 +24,4 @@ területen végzett tevékenység vehető figyelembe.
 
 (5) A közúti biztonsági auditori tevékenység végzésére irányuló engedély iránti kérelemnek az 5. mellékletben meghatározott adatokat kell tartalmaznia.
 
-[^7]: A 10. § (2a) bekezdését a 109/2023. (III. 30.) Korm. rendelet 5. §-a iktatta be.
+[^8]: A 10. § (2a) bekezdését a 109/2023. (III. 30.) Korm. rendelet 5. §-a iktatta be.

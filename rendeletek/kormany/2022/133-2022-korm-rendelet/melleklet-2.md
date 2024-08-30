@@ -46,7 +46,7 @@ f) veszélyes akadályok az út mentén;
 
 g) biztonságos pihenőhelyek kialakítása;
 
-h)[^11] védtelen úthasználók közlekedési lehetőségei:
+h)[^12] védtelen úthasználók közlekedési lehetőségei:
 
 ha) a gyalogosok közlekedési lehetőségei,
 
@@ -70,4 +70,4 @@ c) az útburkolatok állapota.
 
 6. Minden szinten közös felelősségként kell kezelni annak biztosítását, hogy a közúti balesetek ne vezessenek súlyos vagy halálos sérülésekhez. Különösen a jól tervezett, megfelelően karbantartott, egyértelmű burkolati jelekkel és jelzőtáblákkal ellátott utaknak csökkenteniük kell a közúti balesetek valószínűségét, míg a megbocsátó utaknak csökkenteniük kell a balesetek súlyosságát.
 
-[^11]: A 2. melléklet 2. pont h) alpontja a 109/2023. (III. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^12]: A 2. melléklet 2. pont h) alpontja a 109/2023. (III. 30.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
