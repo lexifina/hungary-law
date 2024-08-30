@@ -186,7 +186,7 @@
 
 | 93 | E11 | 3 h 45 ≤ … < 4 h 30 | 78 000 |
 
-| 94 | E12 | 5 h 15 ≤ … < 4 h 30 | NSJ | 130 000 |
+| 94 | E12 | 4 h 30 ≤ … < 5 h 15[^93] | NSJ | 130 000 |
 
 | 95 | E13 | 5 h 15 ≤ … | 325 000 |
 
@@ -200,6 +200,7 @@
 
 | 100 | F4 | A járművezetők munkájának nem olyan módon történő megszervezése, hogy a járművezetők visszatérhessenek a munkáltató működési központjába vagy a lakóhelyükre | NSJ | 325 000 | szállító |
 
-4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^92]
+4. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^94]
 
-[^92]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^93]: A 3. mellékletben foglalt táblázat C:94 mezője a 251/2024. (VIII. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
+[^94]: A 4. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.

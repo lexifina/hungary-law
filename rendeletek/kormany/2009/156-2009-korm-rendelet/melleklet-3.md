@@ -12,6 +12,6 @@
 
 | 6 | de legfeljebb | 39 000 |
 
-3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^91]
+3. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^92]
 
-[^91]: A 3. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^92]: A 3. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

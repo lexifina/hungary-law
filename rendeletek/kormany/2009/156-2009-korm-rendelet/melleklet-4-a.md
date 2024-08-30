@@ -14,9 +14,9 @@
 
 | 7 | H3 | A járművezető hamisított járművezetői kártyával vezet (úgy tekintendő, mintha járművezetői kártya nélkül vezetne) | RSJ | 780 000 | járművezető |
 
-| 8 | H4 | A járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 800 000[^93] | járművezető |
+| 8 | H4 | A járművezető olyan járművezetői kártyával vezet, amelynek nem ő a jogosultja | RSJ | 800 000[^95] | járművezető |
 
-| 9 | H5 | Járművezetői kártya (adatrögzítő lap behelyezése) nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamisokmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne)[^94] | RSJ | 1 040 000 | járművezető, szállító[^95] |
+| 9 | H5 | Járművezetői kártya (adatrögzítő lap behelyezése) nélküli vezetés vagy a járművezető olyan járművezetői kártyával vezet, amelyet a valóságnak nem megfelelő nyilatkozatok és/vagy hamisokmányok alapján szerzett meg (úgy tekintendő, mintha járművezetői kártya nélkül vezetne)[^96] | RSJ | 1 040 000 | járművezető, szállító[^97] |
 
 | 10 | H6 | A menetíró készülék nem működik megfelelően (pl. nem került sor a menetíró készülék megfelelő felülvizsgálatára, kalibrálására és plombálására) | NSJ | 390 000 | szállító |
 
@@ -50,7 +50,7 @@
 
 | 25 | H16 | Kötelező kézi adatbevitel elmulasztása analóg és digitális menetíró készülék esetében egyaránt, amennyiben az I2 vagy I3 vagy I4 sorban szereplő tényállás nem valósul meg | NSJ | 195 000 | járművezető |
 
-| 26 | H17 | Nem megfelelő adatrögzítő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (többfős személyzet)[^96] | SJ | 195 000 | járművezető |
+| 26 | H17 | Nem megfelelő adatrögzítő lap használata vagy a vezetői kártya nem megfelelő nyílásba történő beillesztése (többfős személyzet)[^98] | SJ | 195 000 | járművezető |
 
 | 27 | H18 | Kapcsoló berendezés helytelen használata | NSJ | 195 000 | járművezető |
 
@@ -146,10 +146,10 @@
 
 | 73 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | NSJ | 390 000 | a menetíró szerelőműhely üzeme |
 
-4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^97]
+4/A. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
 
-[^93]: A 4. mellékletben foglalt táblázat D:8 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § f) pontjával megállapított szöveg.
-[^94]: A 4. mellékletben foglalt táblázat B:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
-[^95]: A 4. mellékletben foglalt táblázat E:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § h) pontjával megállapított szöveg.
-[^96]: A 4. mellékletben foglalt táblázat B:26 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
-[^97]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
+[^95]: A 4. mellékletben foglalt táblázat D:8 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § f) pontjával megállapított szöveg.
+[^96]: A 4. mellékletben foglalt táblázat B:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § g) pontja szerint módosított szöveg.
+[^97]: A 4. mellékletben foglalt táblázat E:9 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § h) pontjával megállapított szöveg.
+[^98]: A 4. mellékletben foglalt táblázat B:26 mezője a 612/2023. (XII. 22.) Korm. rendelet 19. § i) pontja szerint módosított szöveg.
+[^99]: A 4/A. mellékletet a 476/2016. (XII. 27.) Korm. rendelet 7. § (5) bekezdése iktatta be, szövege a 393/2023. (VIII. 14.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.

@@ -210,6 +210,6 @@
 
 | 105 | 16. | A járművezetőnek nincs érvényes vizsgaigazolása. | SJ | 52 000 | szállító (fuvarozó), járművezető |
 
-6. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^99]
+6. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^101]
 
-[^99]: A 6. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
+[^101]: A 6. melléklet a 393/2023. (VIII. 14.) Korm. rendelet 4. § (7) bekezdésével megállapított szöveg.
