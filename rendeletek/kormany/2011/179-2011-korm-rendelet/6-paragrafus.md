@@ -1,16 +1,16 @@
 ## 6. Ellenőrzés, szakfelügyelet
 
-6. § (1)[^25] A közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése, utánképzése és vizsgáztatása, továbbá az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység ellenőrzése és szakfelügyelete során a vizsgaközpont ellenőrzi a tevékenység végzéséhez meghatározott feltételek és előírások megtartását, amelyet az ellenőrzés alá vont szervezet, személy köteles tűrni, azt nem gátolhatja, nem akadályozhatja.
+6. § (1)[^25] A közlekedési hatóság a közúti járművezetők és a közúti közlekedési szakemberek képzése, továbbképzése, utánképzése és vizsgáztatása, továbbá az iskolavezetői, a szakoktatói és a vizsgabiztosi tevékenység ellenőrzése során a tevékenység megkezdéséhez, valamint a végzéséhez szükséges feltételek meglétét ellenőrzi. A vizsgaközpont a képzés-, valamint szakfelügyelete során a tevékenység végzéséhez meghatározott szakmai előírások megtartását vizsgálja.
 
 (1a)[^26]
 
-(2)[^27] A vizsgaközpont képzésfelügyeleti és vizsgafelügyeleti tevékenysége során készített jegyzőkönyvet, feljegyzést – ha az hatósági eljárás lefolytatását teszi szükségessé – megküldi a hatósági eljárás lefolytatására illetékes közlekedési hatóság részére.
+(2)[^27] A vizsgaközpont a 6. § (1) bekezdése szerinti képzésfelügyelettel, szakfelügyelettel összefüggésben jogosult a tevékenység megfigyelésére, a tevékenységgel összefüggésben iratok megismerésére, azokról másolat készítésére, további tájékoztatás kérésére.
 
-(2a)[^28]
+(2a)[^28] A közúti közlekedési szakemberek, valamint a vizsgaközpont a 6. § (1) bekezdése szerinti képzésfelügyeleti, szakfelügyeleti tevékenysége során együttműködnek. Amennyiben a közúti közlekedési szakember nem együttműködő magatartást tanúsít a képzésfelügyelet, szakfelügyelet során, a vizsgaközpont írásban jelzéssel él a közlekedési hatóság felé.
 
-(2b)[^29]
+(2b)[^29] A (2) bekezdéssel összefüggően megtett intézkedésekről a vizsgaközpont jegyzőkönyvet, feljegyzést készít, amelynek egy példányát a képzésfelügyelettel, szakfelügyelettel érintett részére átad.
 
-(2c)[^30]
+(2c)[^30] Amennyiben a vizsgaközpont a képzésfelügyelet, szakfelügyeleti tevékenysége folytán rendelkezésre álló adatok alapján úgy ítéli meg, hogy hatósági eljárás lefolytatása szükséges, az ahhoz szükséges és rendelkezésére álló adatokat 8 napon belül a hatósági eljárás lefolytatására illetékes közlekedési hatóság részére megküldi.
 
 (2d)[^31]
 
@@ -48,18 +48,18 @@ e) a képző szervvel, az iskolavezetővel, a szakoktatóval, a vizsgabiztossal 
 
 f) a közúti közlekedési szakember vizsgára bocsátás nélküli továbbképzése esetén a képző szerv vagy az iskolavezető a jogszabályban, a közlekedési hatóság vagy a közlekedésért felelős miniszter által előírt rendelkezéseket szándékosan vagy ismételten megsérti.
 
-(10)[^43] Az engedély (9) bekezdés a) és e) pontján alapuló visszavonása esetén a tevékenység ismételt megkezdése nem engedélyezhető a visszavonást kimondó határozat véglegessé válásától számított 5 évig.
+(10)[^43] Az engedély (9) bekezdés a) és e) pontján alapuló visszavonása esetén a tevékenység ismételt megkezdése nem engedélyezhető a visszavonást kimondó határozat véglegessé válásától számított 5 évig. A tevékenység ismételt megkezdése tekintetében nem vehető figyelembe azon végleges döntésben meghozott marasztalás, amelynek alapját képező jogsértés a tevékenység ismételt megkezdéséhez kapcsolódó névjegyzékbe vételi iránti kérelem benyújtásának vagy elbírálásának időpontjában már nem minősül súlyos jogsértésnek.
 
 (11)[^44] A képzés engedélyezését végző közlekedési hatóság az e-learning rendszerű oktatásban alkalmazható digitális tananyagokat – kötelező jelleggel, díjmentesen – kibővítheti, továbbá kérheti annak kibővítését közlekedésbiztonsági célzatú, SCORM formátumú kiegészítő ismeretanyagokkal.
 
 (12)[^45] A képzési engedély visszavonásáról szóló döntésben meghatározott, a tevékenység megszűnésének időpontját megelőzően a képző szerv köteles a képzést még be nem fejezett tanulóira vonatkozóan képzési igazolást kiállítani és átadni a tanulónak, valamint a vizsgaközpontnak.
 
-[^25]: A 6. § (1) bekezdése a 285/2018. (XII. 21.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 248/2019. (X. 24.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^25]: A 6. § (1) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
 [^26]: A 6. § (1a) bekezdésát a 285/2018. (XII. 21.) Korm. rendelet 3. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § a) pontja hatályon kívül helyezte.
-[^27]: A 6. § (2) bekezdése a 612/2023. (XII. 22.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^28]: A 6. § (2a) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
-[^29]: A 6. § (2b) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
-[^30]: A 6. § (2c) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
+[^27]: A 6. § (2) bekezdése a 251/2024. (VIII. 22.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^28]: A 6. § (2a) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^29]: A 6. § (2b) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
+[^30]: A 6. § (2c) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte, újonnan a 251/2024. (VIII. 22.) Korm. rendelet 43. § (2) bekezdése iktatta be.
 [^31]: A 6. § (2d) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
 [^32]: A 6. § (2e) bekezdését a 118/2013. (IV. 23.) Korm. rendelet 6. § (2) bekezdése iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
 [^33]: A 6. § (2f) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 25. §-a iktatta be, a 612/2023. (XII. 22.) Korm. rendelet 28. § b) pontja hatályon kívül helyezte.
@@ -72,6 +72,6 @@ f) a közúti közlekedési szakember vizsgára bocsátás nélküli továbbkép
 [^40]: A 6. § (7) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
 [^41]: A 6. § (8) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
 [^42]: A 6. § (9) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
-[^43]: A 6. § (10) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
+[^43]: A 6. § (10) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be, szövege a 251/2024. (VIII. 22.) Korm. rendelet 43. § (3) bekezdésével megállapított szöveg.
 [^44]: A 6. § (11) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
 [^45]: A 6. § (12) bekezdését a 612/2023. (XII. 22.) Korm. rendelet 26. § (3) bekezdése iktatta be.
