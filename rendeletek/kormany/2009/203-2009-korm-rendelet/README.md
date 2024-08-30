@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-203-20-
 | 2018-01-28 | 2009-203-20-22.13 | 517/2017. (XII. 29.) Korm. rendelet |
 | 2020-02-15 | 2009-203-20-22.14 | 13/2020. (II. 7.) Korm. rendelet |
 | 2022-01-01 | 2009-203-20-22.15 | 789/2021. (XII. 27.) Korm. rendelet |
+| 2024-08-30 | 2009-203-20-22.16 | 251/2024. (VIII. 22.) Korm. rendelet |

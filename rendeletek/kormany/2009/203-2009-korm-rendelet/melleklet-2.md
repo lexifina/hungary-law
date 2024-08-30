@@ -204,6 +204,8 @@
 
 | 100. | Vonatkezelő-levelező, kirakó, naplózó | Állomásokon szolgálati okmányokat vezető dolgozó |
 
+| 101.[^64] | Vasúti járművezető | Az alapvizsgájának megfelelő (vontatási nem, járműtípus, infrastruktúra), önjáró vasúti (motorkocsi, motorvonat, mozdony, munkagép), valamint közúti-vasúti (kétéltű) járművek vezetése. A járművezetői teendők elvégzésén kívül – azoknál a vonatoknál, amelyek vezető jegyvizsgáló nélkül közlekednek, illetve az árutovábbító vonatoknál – a vonatkísérők rendelkezésre jogosult vezetője. Vasútüzemi célú hálózaton a vontató-, valamint közúti-vasúti (kétéltű) járművek vezetése, saját célú vasúti pályahálózaton és az állomási Végrehajtási Utasításban rögzített vágányokon kiszolgálás és tolatás végzése. |
+
 ## B) Elővárosi, városi és helyi vasúti pályahálózat
 
 |  | A | B |
@@ -522,9 +524,9 @@
 
 | 1. | Vasútszakmai oktató (forgalmi, műszaki oktató) | A képzőszervezet, vagy vasúti társaság megbízásával az alapképzésben és időszakos oktatásokon oktatói tevékenység végzése, valamint a vasúti társaság ügykörébe tartozó, nem hatósági vizsgaköteles témakörök képzési és vizsgáztatási feladatai. |
 
-2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^60]
+2. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^65]
 
-## Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
+Egészségi alkalmasságot kizáró, korlátozó állapotok, fogyatékosságok és betegségek előzetes egészségi alkalmassági vizsgálatok során (BNO X.)
 
 Abban az esetben tekintendő alkalmasságot kizáró vagy korlátozó oknak az e mellékletben szereplő állapot, fogyatékosság vagy betegség, ha annak stádiuma közvetett vagy közvetlen következményeként a vizsgált személy munkavégzése a vasúti közlekedés biztonságát, saját életét vagy testi épségét veszélyezteti.
 
@@ -714,4 +716,5 @@ c) sérülés utáni – a munkakör ellátását akadályozó funkciózavart ok
 
 (16) Fertőző betegségek (B2000-B2400; B1500-B1990; A5100-A5390; D8000-D8990)
 
-[^60]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.
+[^64]: Az 1. melléklet „A) Országos, térségi, saját célú vasúti pályahálózat és iparvágány” pontjában foglalt táblázat 101. sorát a 251/2024. (VIII. 22.) Korm. rendelet 21. §-a iktatta be.
+[^65]: A 2. melléklet a 193/2016. (VII. 13.) Korm. rendelet 13. § a) pontjával megállapított szöveg.

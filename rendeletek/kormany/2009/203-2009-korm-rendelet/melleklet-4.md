@@ -24,6 +24,6 @@
 
 ## 2. Hallási követelmények: audiológiai vizsgálattal (audiogram) kell igazolni, hogy megfelelő a hallás a telefonbeszélgetések lefolytatásához, valamint a figyelmeztető hangjelzések és rádióüzenetek meghallásához. Hallókészülék használata megengedett.
 
-4. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^62]
+4. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^67]
 
-[^62]: A 4. melléklet a 789/2021. (XII. 27.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.
+[^67]: A 4. melléklet a 789/2021. (XII. 27.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.

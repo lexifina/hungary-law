@@ -2,7 +2,7 @@
 
 29. § (1) A munkáltatónak belső szabályzatában kell meghatároznia:
 
-a)[^50] az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkavédelemről szóló törvény szerint készített kockázatértékelés felhasználásával – a foglalkozás-egészségügyi orvos véleményének figyelembevételével – az egészségi alkalmassági és szakmai alkalmassági vizsgálatok rendjét, irányát, gyakoriságát, valamint ezekkel a vizsgálatokkal kapcsolatos feladatokat,
+a)[^53] az egészséget nem veszélyeztető és biztonságos munkavégzés érdekében a munkavédelemről szóló törvény szerint készített kockázatértékelés felhasználásával – a foglalkozás-egészségügyi orvos véleményének figyelembevételével – az egészségi alkalmassági és szakmai alkalmassági vizsgálatok rendjét, irányát, gyakoriságát, valamint ezekkel a vizsgálatokkal kapcsolatos feladatokat,
 
 b) azokat a munkaköröket, munkakörülményeket, amelyekben a sérülékeny csoportba tartozók (nők és 18. életévüket be nem töltők) nem vagy csak korlátozással foglalkoztathatók.
 
@@ -20,9 +20,9 @@ d) a 15. §-ban meghatározott munkavállalót záró vizsgálatra
 
 küldeni.
 
-(3a)[^51] A munkáltató köteles a közlekedési hatóságnak haladéktalanul bejelenteni, ha a vasúti járművezető munkavállalója keresőképtelenségének ideje a három hónapot meghaladta.
+(3a)[^54] A munkáltató köteles a közlekedési hatóságnak haladéktalanul bejelenteni, ha a vasúti járművezető munkavállalója keresőképtelenségének ideje a három hónapot meghaladta.
 
-(3b)[^52] A munkáltató és a foglalkozás-egészségügyi szolgáltató közösen határozzák meg azon azonos kockázattal, megterheléssel, igénybevétellel járó tevékenységek, munkakörök jegyzékét, és az ezekben történő alkalmassági vizsgálat jellegét és gyakoriságát, amelyek a vasút-technológiai folyamatban ugyanarra a tevékenység ellátására irányulnak.
+(3b)[^55] A munkáltató és a foglalkozás-egészségügyi szolgáltató közösen határozzák meg azon azonos kockázattal, megterheléssel, igénybevétellel járó tevékenységek, munkakörök jegyzékét, és az ezekben történő alkalmassági vizsgálat jellegét és gyakoriságát, amelyek a vasút-technológiai folyamatban ugyanarra a tevékenység ellátására irányulnak.
 
 (4) A munkáltató köteles az egészségi alkalmasságot vizsgáló és véleményező foglalkozás-egészségügyi orvos részére megküldeni:
 
@@ -34,9 +34,9 @@ c) mindazokat a munkaköri és munkahelyi adatokat, amelyek a véleményezéshez
 
 (5) A munkáltató a soron kívüli vizsgálat kezdeményezésének indokáról a munkavállalót és a foglalkozás-egészségügyi orvost vagy szervezetet írásban köteles tájékoztatni.
 
-(6)[^53]
+(6)[^56]
 
-[^50]: A 29. § (1) bekezdés a) pontja a 259/2017. (IX. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^51]: A 29. § (3a) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^52]: A 29. § (3b) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^53]: A 29. § (6) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 30. § h) pontja hatályon kívül helyezte.
+[^53]: A 29. § (1) bekezdés a) pontja a 259/2017. (IX. 11.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^54]: A 29. § (3a) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^55]: A 29. § (3b) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^56]: A 29. § (6) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 30. § h) pontja hatályon kívül helyezte.

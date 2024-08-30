@@ -8,9 +8,9 @@ b) a forgalom biztonságát veszélyeztető helyzetet idéz elő, balesetet okoz
 
 c) heveny foglalkozási betegség gyanúja, fokozott káros expozíciója, eszméletvesztése, vagy betegsége, rosszulléte következett be,
 
-d)[^25] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
+d)[^28] egészségkárosodás mértékének megállapítása céljából orvosi vizsgálaton vett részt.
 
-(2)[^26] A vasúti járművezető a meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatra köteles jelentkezni, ha az utolsó egészségi alkalmassági vizsgálata óta
+(2)[^29] A vasúti járművezető a meghatározott időnél korábban, soron kívül egészségi alkalmassági vizsgálatra köteles jelentkezni, ha az utolsó egészségi alkalmassági vizsgálata óta
 
 a) a munkavégzés során eszméletvesztéssel járó rosszulléte vagy sérülése volt,
 
@@ -20,8 +20,8 @@ c) orvosilag igazolt súlyos hipoglikémia fordult elő, vagy
 
 d) egészségi állapotában egyéb olyan állapotromlást észlel, amely a vasúti járművezetésre átmenetileg vagy véglegesen egészségi szempontból alkalmatlanná teheti.
 
-(3)[^27] Ha a munkavállaló kezdeményezi a soron kívüli egészségügyi alkalmassági vizsgálatot, azt a munkáltató a foglalkozás- egészségügyi orvos egyetértésével rendeli el.
+(3)[^30] Ha a munkavállaló kezdeményezi a soron kívüli egészségügyi alkalmassági vizsgálatot, azt a munkáltató a foglalkozás- egészségügyi orvos egyetértésével rendeli el.
 
-[^25]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^26]: A 13. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 21. §-ával megállapított szöveg.
-[^27]: A 13. § (3) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 21. §-a iktatta be.
+[^28]: A 13. § (1) bekezdés d) pontja az 517/2017. (XII. 29.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^29]: A 13. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^30]: A 13. § (3) bekezdését a 789/2021. (XII. 27.) Korm. rendelet 21. §-a iktatta be.

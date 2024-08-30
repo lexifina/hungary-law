@@ -1,4 +1,4 @@
-22/A. §[^36] (1) Az egészségi alkalmassági vizsgálatot végző vagy véleményező orvosnak
+22/A. §[^39] (1) Az egészségi alkalmassági vizsgálatot végző vagy véleményező orvosnak
 
 a) rendelkeznie kell üzemorvostan vagy foglalkozás-orvostan szakvizsgával, és
 
@@ -22,4 +22,4 @@ c) nem lehet vasúti társaságnak vezető tisztségviselője, felügyelőbizott
 
 (5) A szakértő munkaszerződésében vagy megbízási szerződésében foglalt jogait és kötelezettségeit, valamint a munkavégzésének feltételeit úgy kell meghatározni, hogy az e rendelet szerinti feladatai ellátása során a befolyásmentesség és a független döntéshozatal biztosított legyen.
 
-[^36]: A 22/A. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^39]: A 22/A. §-t az 517/2017. (XII. 29.) Korm. rendelet 3. §-a iktatta be.

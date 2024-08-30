@@ -6,7 +6,7 @@ a) a vasúti társaságra [vasúti közlekedésről szóló 2005. évi CLXXXIII.
 
 b) a vasúti társaság munkavállalójára, a vasúti társasággal egyéb, munkavégzésre irányuló jogviszonyban lévő személyre, továbbá más gazdasági társaság azon munkavállalójára, aki:
 
-ba) a vonatközlekedés irányítását, a vonatok mozgásának engedélyezését és lebonyolítását vagy a vonatok előkészítését végzi,
+ba)[^1] vasúti járművezetőként tevékenységet végez, valamint a vonatközlekedés irányítását, a vonatok mozgásának engedélyezését és lebonyolítását vagy a vonatok előkészítését végzi,
 
 bb) a vasúti kocsik, szerelvények tolatását, a vonatok továbbítását végzi,
 
@@ -23,3 +23,5 @@ e) az egészségi alkalmassági vizsgálatot végző orvosra és szervezetre,
 f) a közlekedési hatóságra.
 
 (2) A rendelet hatálya nem érinti a külön jogszabály által előírt munkaköri, szakmai, illetve személyi higiénés alkalmassági orvosi vizsgálatokat.
+
+[^1]: Az 1. § (1) bekezdés b) pont ba) alpontja a 251/2024. (VIII. 22.) Korm. rendelet 17. §-ával megállapított szöveg.

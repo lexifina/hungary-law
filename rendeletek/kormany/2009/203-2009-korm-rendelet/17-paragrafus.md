@@ -1,6 +1,6 @@
 17. § (1) A pszichológiai vizsgálat tartalmát és értékelési eljárását a vizsgálatot végző pszichológus határozza meg, figyelembe véve a végzett tevékenységet és a vasúti közlekedés sajátosságait, jellemzőit.
 
-(2)[^28] A vizsgálat legalább az egyes biztonsági funkciók követelményeivel kapcsolatos alábbi feltételek vizsgálatára terjed ki:
+(2)[^31] A vizsgálat legalább az egyes biztonsági funkciók követelményeivel kapcsolatos alábbi feltételek vizsgálatára terjed ki:
 
 a) kognitív feltételek
 
@@ -30,4 +30,4 @@ cc) önálló feladatvégzés és
 
 cd) a tevékenység szempontjából jelentős személyiségvonások (különösen a lelkiismeretesség).
 
-[^28]: A 17. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^31]: A 17. § (2) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 22. §-ával megállapított szöveg.

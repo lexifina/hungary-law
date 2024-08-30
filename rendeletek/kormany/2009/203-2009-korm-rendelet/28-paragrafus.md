@@ -2,13 +2,13 @@
 
 ## Az egészségügyi dokumentáció
 
-28. § (1)[^48] Az egészségi alkalmassági vizsgálatot és annak megállapításait a tanúsítást végző foglalkozás-egészségügyi orvos az 5. melléklet B. pontja szerinti „Alkalmassági tanúsítvány vasúti szolgálatra” elnevezésű nyomtatványon köteles rögzíteni. Az adatrögzítés az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 3. § e) pontja szerint feltüntetett bármilyen formában történhet és a törvény szerinti egészségügyi dokumentációnak minősül.
+28. § (1)[^51] Az egészségi alkalmassági vizsgálatot és annak megállapításait a tanúsítást végző foglalkozás-egészségügyi orvos az 5. melléklet B. pontja szerinti „Alkalmassági tanúsítvány vasúti szolgálatra” elnevezésű nyomtatványon köteles rögzíteni. Az adatrögzítés az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 3. § e) pontja szerint feltüntetett bármilyen formában történhet és a törvény szerinti egészségügyi dokumentációnak minősül.
 
 (2) A nyilvántartás munkáltatói példányát a foglalkozás-egészségügyi orvos, a bejegyzést követően a munkáltató részére megküldi, aki köteles azt a foglalkoztatás teljes tartama alatt megőrizni, a munkavállaló újabb egészségi alkalmassági vizsgálata előtt az egészségi alkalmassági vizsgálatot végző foglalkozás-egészségügyi orvosnak átadni.
 
 (3) Az 5. melléklet E. pontjában meghatározott egészségügyi törzslapot a foglalkozás-egészségügyi orvos az egészségügyi dokumentációra vonatkozó külön jogszabályban előírt időtartamban őrzi meg.
 
-(4)[^49] Az egészségi alkalmassági vizsgálatot végző szervezet a vizsgálat elvégzésének napján az elvégzett vizsgálatokról és azok eredményéről a közlekedési hatóság felé elektronikus úton adatot szolgáltat. Az adatszolgáltatás tartalmazza:
+(4)[^52] Az egészségi alkalmassági vizsgálatot végző szervezet a vizsgálat elvégzésének napján az elvégzett vizsgálatokról és azok eredményéről a közlekedési hatóság felé elektronikus úton adatot szolgáltat. Az adatszolgáltatás tartalmazza:
 
 a) a vizsgált személy természetes személyazonosító adatait,
 
@@ -24,5 +24,5 @@ e) a vizsgált személy munkáltatójának adatait.
 
 (6) A munkaviszony megszűnésekor az alkalmasságot megállapító foglalkozás-egészségügyi orvos kiállítja az egészségügyi törzslap kivonatát, melyet a munkavállaló részére átad azzal, hogy új munkahelyén a vizsgálatot végző orvosnak azt bemutassa.
 
-[^48]: A 28. § (1) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^49]: A 28. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^51]: A 28. § (1) bekezdése a 193/2016. (VII. 13.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^52]: A 28. § (4) bekezdése a 789/2021. (XII. 27.) Korm. rendelet 26. §-ával megállapított szöveg.
