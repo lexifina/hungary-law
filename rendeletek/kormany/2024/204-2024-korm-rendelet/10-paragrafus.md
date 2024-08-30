@@ -1,3 +1,3 @@
-10. § A 289/2012. (X. 11.) Korm. rendelet a következő 45. §-sal egészül ki:
+10. §[^11]
 
-„45. § Ez a rendelet a vasúti rendszer Európai Unión belüli kölcsönös átjárhatóságáról szóló, 2016. május 11-i (EU) 2016/797 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

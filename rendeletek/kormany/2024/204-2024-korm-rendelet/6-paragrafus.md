@@ -1,5 +1,3 @@
-6. § A 289/2012. (X. 11.) Korm. rendelet 20. §-a a következő (5) és (6) bekezdéssel egészül ki:
+6. §[^7]
 
-„(5) Mindazon vasúti célú építmények esetében, amelyekre nem vonatkozik átjárhatósági műszaki előírás, és az üzemeltető a nemzeti műszaki előírások alapján új határozott idejű használatbavételi engedélyt kér a határozott idejű használatbavételi engedély időbeli hatályának lejárta előtt, az új használatbavételi engedélyt a (3) bekezdésben foglaltak szerint adja ki a vasúti közlekedési hatóság, ha a használatbavételi engedélyben meghatározott műszaki és biztonsági feltételek fennállását a vasúti építményekre vonatkozó, legalább ötéves tervezői vagy szakértői jogosultsággal rendelkező mérnöki kamarai tag igazolja.
-
-(6) Mindazon vasúti célú építmények esetében, amelyekre nem vonatkozik átjárhatósági műszaki előírás, és az üzemeltető a nemzeti műszaki előírások alapján új határozott idejű használatbavételi engedélyt kér a határozott idejű használatbavételi engedély időbeli hatályának lejártát követően, az új használatbavételi engedélyt a (3) bekezdésben foglaltak szerint adja ki a vasúti közlekedési hatóság, ha a használatbavételi engedélyben meghatározott műszaki és biztonsági feltételek fennállását a vasúti építményekre vonatkozó megfelelőségértékelő szervezet tanúsításával igazolja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

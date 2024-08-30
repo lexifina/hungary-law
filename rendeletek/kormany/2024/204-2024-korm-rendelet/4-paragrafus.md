@@ -1,3 +1,3 @@
-4. § A 289/2012. (X. 11.) Korm. rendelet 13. §-a a következő (3a) bekezdéssel egészül ki:
+4. §[^5]
 
-„(3a) A vasúti közlekedési hatóság az építési engedélyben a vasúti pálya üzemeltetője által jóváhagyott és a tanúsító által vizsgált építési terveket tünteti fel az engedély elválaszthatatlan részét képező dokumentumokként.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
