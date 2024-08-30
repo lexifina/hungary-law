@@ -6,7 +6,7 @@ a) a nagyobb gyakorisággal (1–3 évente) előforduló vasúti balesetek (a to
 
 b) a nagyon ritkán előforduló, de a lehetséges legnagyobb kárral járó vasúti balesetek (a továbbiakban: katasztrófa-balesetek)
 
-## vonatkozásában.
+vonatkozásában.
 
 (2)[^4] Ha a vasúti társaság kizárólag működési engedélyhez kötött vasúti közlekedési tevékenységet végez, akkor a fedezeti összeghatárt az általános vasúti balesetek vonatkozásában működési engedélyenként, míg a katasztrófa-balesetek vonatkozásában a legnagyobb fedezeti összeghatárral járó működési engedély értékének alapulvételével kell megállapítani.
 

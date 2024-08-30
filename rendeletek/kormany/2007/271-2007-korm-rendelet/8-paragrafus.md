@@ -6,7 +6,7 @@ a)[^21] a biztosítási szerződés általános és különös szerződési felt
 
 b)[^22] a garanciaszerződés eredeti vagy közjegyző által hitelesített másolati példánya
 
-## tanúsítja.
+tanúsítja.
 
 (2)[^23] Az (1) bekezdés szerinti igazolás tartalmazza
 

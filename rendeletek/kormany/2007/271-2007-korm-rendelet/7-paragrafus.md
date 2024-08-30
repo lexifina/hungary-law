@@ -4,7 +4,7 @@ a) a vasúti társaság írásbeli elismerő nyilatkozatával, vagy
 
 b) a bíróság végrehajtható határozatával
 
-## igazolja.
+igazolja.
 
 (2)[^17] A működési engedéllyel rendelkező vasúti társaság a garanciaszerződés hatályát a működési engedélye visszavonása esetén azt követően szüntetheti meg, hogy a vasúti igazgatási szerv felé igazolta:
 

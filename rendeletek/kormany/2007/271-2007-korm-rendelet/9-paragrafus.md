@@ -1,7 +1,3 @@
-## 9. § A vasúti társaság évente május 31-éig benyújtja a vasúti igazgatási szerv részére
+9. §[^25]
 
-a) a vagyoni biztosíték rendelkezésre állásának 8. § szerinti igazolását, valamint
-
-b)[^25] a vasúti társaság által végzett valamennyi vasúti közlekedési tevékenységre vonatkozó, a 2–5. melléklet szerinti adattartalmú, a vasúti igazgatási szerv által rendszeresített kockázatértékelési adatlap megfelelően kitöltött példányát.
-
-[^25]: A 9. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 571. §-a, a 193/2016. (VII. 13.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
+[^25]: A 9. §-t a 251/2024. (VIII. 22.) Korm. rendelet 14. §-a hatályon kívül helyezte.
