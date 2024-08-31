@@ -1,3 +1,3 @@
-4. § A 39/2011. (V. 18.) VM rendelet 9. §-a a következő f) ponttal egészül ki:
+4. §[^5]
 
-(Ez a rendelet)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

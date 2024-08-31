@@ -1,3 +1,3 @@
-2. § A 39/2011. (V. 18.) VM rendelet 7/E. §-a a következő (1a) bekezdéssel egészül ki:
+2. §[^3]
 
-„(1a) Az (1) bekezdésben foglaltaktól eltérően a 2. § (1) bekezdés a) pont aa) vagy ab) alpontja szerinti tevékenységhez kapcsolódóan a mezőgazdasági vállalkozás válságtámogatást 2024. december 31-ig hatályossá vált hitelszerződésekhez igényelhet.”
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

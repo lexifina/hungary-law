@@ -1,3 +1,3 @@
-1. § Az Agrár Széchenyi Kártya Konstrukciók keretében nyújtott de minimis támogatásokról szóló 39/2011. (V. 18.) VM rendelet [a továbbiakban: 39/2011. (V. 18.) VM rendelet] 7/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+1. §[^2]
 
-„(1) Az (EU) 2023/2831 bizottsági rendelet szerinti általános csekély összegű támogatás – az (EU) 2023/2832 bizottsági rendelet alapján nyújtott támogatás kivételével – más csekély összegű támogatásokról szóló rendeleteknek megfelelően nyújtott csekély összegű támogatással az (EU) 2023/2831 bizottsági rendeletben foglalt 300 000 eurónak megfelelő forintösszegig halmozható.”
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
