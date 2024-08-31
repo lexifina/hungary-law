@@ -1,3 +1,3 @@
-4. § A Rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(1) Az etikai eljárás során másodfokon az ETT Országos Etikai Bizottság elnöke által az ETT Országos Etikai Bizottságának tagjai közül egyedileg kijelölt tanács (a továbbiakban: Országos Etikai Tanács) jár el. Az Országos Etikai Bizottság elnöke az Országos Etikai Tanács tagjainak kijelölésével egyidejűleg az Országos Etikai Tanács tagjai közül kijelöli az Országos Etikai Tanács elnökét is. Az Országos Etikai Bizottság elnöke minden egyedi ügyben dönt arról, hogy az ügy egyszerű vagy a 2. § (1) bekezdése szerint bonyolult megítélésűnek tekintendő-e.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
