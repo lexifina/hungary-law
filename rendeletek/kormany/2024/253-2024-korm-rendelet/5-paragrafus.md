@@ -1,3 +1,3 @@
-5. § A Korm. rendelet 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(3) A Logisztikai Park cím viselésére jogosult szervezet nem pályázhat az Ipari Park és a Technológiai Park cím elnyerésére.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
