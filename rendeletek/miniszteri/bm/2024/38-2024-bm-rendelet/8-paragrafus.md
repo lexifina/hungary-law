@@ -1,7 +1,3 @@
-8. § A Rendelet
+8. §[^9]
 
-a) 1/D. § (1) bekezdés d) pontjában a „12–14. §-át” szövegrész helyébe a „12. §-át és 14. §-át” szöveg,
-
-b) 7. § (2) bekezdésében az „az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.)” szövegrész helyébe az „az Eütv.” szöveg
-
-lép.
+[^9]: A 8. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

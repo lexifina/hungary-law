@@ -1,3 +1,3 @@
-3. § A Rendelet 1/D. § (2) bekezdés b) pontja helyébe a következő rendelkezés lép:
+3. §[^4]
 
-(Vármegyei és Országos Etikai Bizottság tagjává az jelölhető, aki)
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
