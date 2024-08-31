@@ -1,3 +1,3 @@
-53. §[^4]
+53. §[^53]
 
-[^4]: Az 53. § a 84. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.
+[^53]: Az 53. § a 84. § (2) bekezdése alapján 2025. február 1-jén lép hatályba.

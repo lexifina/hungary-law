@@ -1,5 +1,5 @@
 ## 13. A személygépkocsival díj ellenében végzett közúti személyszállításról szóló 176/2015. (VII. 7.) Korm. rendelet módosítása
 
-63. § A személygépkocsival díj ellenében végzett közúti személyszállításról szóló 176/2015. (VII. 7.) Korm. rendelet [a továbbiakban: 176/2015. (VII. 7.) Korm. rendelet] 14. §-a a következő (3a) bekezdéssel egészül ki:
+63. §[^63]
 
-„(3a) A személyszállító vezetői igazolványt az időbeli hatálya lejártát követő tizenöt napon belül vissza kell szolgáltatni a kiállító hatóság részére.”
+[^63]: A 63. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

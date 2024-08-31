@@ -1,5 +1,3 @@
-70. § Hatályát veszti a 382/2016. (XII. 2.) Korm. rendelet
+70. §[^70]
 
-a) 4. § (2a) bekezdés b) pontja,
-
-b) 8. § (2) bekezdés 3. pontjában a „révkalauzok és” szövegrész.
+[^70]: A 70. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,1 +1,3 @@
-6. § Hatályát veszti a 139/1991. (X. 29.) Korm. rendelet 4. § (1) bekezdés e) pontja.
+6. §[^6]
+
+[^6]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

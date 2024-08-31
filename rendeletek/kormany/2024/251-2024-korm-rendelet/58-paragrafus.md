@@ -1,3 +1,3 @@
-58. § A 93/2012. (V. 10.) Korm. rendelet 6. §-a a következő h) ponttal egészül ki:
+58. §[^58]
 
-(A hatósági engedélyek fajtái:)
+[^58]: Az 58. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

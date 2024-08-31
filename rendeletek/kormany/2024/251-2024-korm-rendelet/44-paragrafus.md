@@ -1,5 +1,5 @@
 ## 10. A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet módosítása
 
-44. § A díj ellenében végzett közúti árutovábbítási, a saját számlás áruszállítási, valamint az autóbusszal díj ellenében végzett személyszállítási és a saját számlás személyszállítási tevékenységről, továbbá az ezekkel összefüggő jogszabályok módosításáról szóló 261/2011. (XII. 7.) Korm. rendelet [a továbbiakban: 261/2011. (XII. 7.) Korm. rendelet] 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+44. §[^44]
 
-„(2) A járművezetői igazolvány iránti kérelemhez mellékelni kell a járművezető munkavállalási engedélyének, munkaszerződésének vagy foglalkoztatására irányuló egyéb jogviszonyának és Magyarország területén való tartózkodása jogszerűségét igazoló okmánynak a hiteles másolatát. Mellékelni kell továbbá a járművezető vezetői engedélyének és a szakmai képesítését igazoló okirat hiteles másolatát és annak hiteles fordítását is, amennyiben a járművezető a 2. melléklet 1. pontjában felsorolt kategóriákra érvényes vezetői engedéllyel rendelkezik.”
+[^44]: A 44. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

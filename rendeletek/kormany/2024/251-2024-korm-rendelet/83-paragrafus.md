@@ -1,3 +1,5 @@
 ## 22. A közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 133/2022. (IV. 7.) Korm. rendelet módosítása
 
-83. § A közúti infrastruktúra közlekedésbiztonsági kezeléséről szóló 133/2022. (IV. 7.) Korm. rendelet 9. § (4) bekezdésében az „az érintett közútkezelők” szövegrész helyébe az „az érintett közútkezelők, a KTI Magyar Közlekedéstudományi és Logisztikai Intézet Nonprofit Kft.” szöveg lép.
+83. §[^83]
+
+[^83]: A 83. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

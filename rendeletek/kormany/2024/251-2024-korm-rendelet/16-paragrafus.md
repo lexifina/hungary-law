@@ -1,1 +1,3 @@
-16. § A 156/2009. (VII. 29.) Korm. rendelet 3. mellékletében foglalt táblázat C:94 mezőjében az „5 h 15 ≤ … < 4 h 30” szövegrész helyébe a „4 h 30 ≤ … < 5 h 15” szöveg lép.
+16. §[^16]
+
+[^16]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

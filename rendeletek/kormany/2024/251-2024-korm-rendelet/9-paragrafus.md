@@ -1,3 +1,3 @@
-9. § A 141/1995. (XI. 30.) Korm. rendelet 29. §-a a következő h) ponttal egészül ki:
+9. §[^9]
 
-(Ez a rendelet)
+[^9]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

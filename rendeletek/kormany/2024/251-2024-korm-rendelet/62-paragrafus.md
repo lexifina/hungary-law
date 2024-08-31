@@ -1,1 +1,3 @@
-62. § A 93/2012. (V. 10.) Korm. rendelet 18. § (1) bekezdés e) alpontjában az „a 11. § (1) bekezdés d) pontja szerinti,” szövegrész helyébe az „az” szöveg lép.
+62. §[^62]
+
+[^62]: A 62. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

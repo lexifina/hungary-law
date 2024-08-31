@@ -1,9 +1,3 @@
-64. § A 176/2015. (VII. 7.) Korm. rendelet
+64. §[^64]
 
-a) 5. § (2) bekezdés b) pont ba) alpontjában a „jogszabályban meghatározott” szövegrész helyébe a „444/2017. (XII. 27.) Korm. rendelet 3. § (1) bekezdés f) pontjában meghatározott” szöveg,
-
-b) 11. § (4) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) vagy az (1a) bekezdésben” szöveg,
-
-c) 13. § (2) bekezdés a) pontjában a „megszűnése esetén” szövegrész helyébe a „megszűnése esetén, valamint az engedély időbeli hatályának lejártával” szöveg
-
-lép.
+[^64]: A 64. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

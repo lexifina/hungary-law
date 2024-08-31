@@ -1,1 +1,3 @@
-56. § Hatályát veszti a 326/2011. (XII. 28.) Korm. rendelet 83. § (1) bekezdése.
+56. §[^56]
+
+[^56]: Az 56. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

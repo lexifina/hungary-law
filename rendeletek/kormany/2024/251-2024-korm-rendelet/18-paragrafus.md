@@ -1,3 +1,3 @@
-18. § A 203/2009. (IX. 8.) Korm. rendelet a következő 2/A. §-sal egészül ki:
+18. §[^18]
 
-„2/A. § A vasúti járművezetőre vonatkozó szabályokat kell alkalmazni azon személyekre, akik metróállomási diszpécser, járművezető állomási diszpécser munkakörben esetenként vasúti járművezetői feladatokat is ellátnak.”
+[^18]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

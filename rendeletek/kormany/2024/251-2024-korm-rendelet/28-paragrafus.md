@@ -1,3 +1,3 @@
-28. § A 169/2010. (V. 11.) Korm. rendelet 12. § a) pontja helyébe a következő rendelkezés lép:
+28. §[^28]
 
-(Az együttműködő hatóságok)
+[^28]: A 28. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

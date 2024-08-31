@@ -1,3 +1,3 @@
-32. § A 169/2010. (V. 11.) Korm. rendelet 23. §-a a következő (9) bekezdéssel egészül ki:
+32. §[^32]
 
-„(9) Az egyszerre csak egy személy belépését lehetővé tévő korlátozás nem alkalmazandó azokon a belépési pontokon, amelyeket kizárólag a bűnüldöző szervek tisztviselői használnak.”
+[^32]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

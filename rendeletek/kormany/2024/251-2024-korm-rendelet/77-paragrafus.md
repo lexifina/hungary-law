@@ -1,11 +1,3 @@
-77. § Hatályát veszti az 532/2017. (XII. 29.) Korm. rendelet
+77. §[^77]
 
-a) 5/C. § (2) bekezdés e) pont eb) alpontja,
-
-b) 29. § (1) bekezdése,
-
-c) 30. § (1) bekezdés e) pontja,
-
-d) 32. § (2) bekezdése,
-
-e) 40. §-a.
+[^77]: A 77. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,7 +1,3 @@
-46. § A 261/2011. (XII. 7.) Korm. rendelet 34. § (4)–(4b) bekezdése helyébe a következő rendelkezés lép:
+46. §[^46]
 
-„(4) A gazdálkodó szervezet csak olyan tehergépjárművet bérelhet – ide nem értve a pótkocsit –, melynek magyar vagy másik tagállam által kibocsátott hatósági engedélye és jelzése van (e § alkalmazásában: más tagállamból bérelt). A más tagállamból bérelt tehergépjármű használatára az adott naptári évben legfeljebb két egymást követő hónapon keresztül, az 1071/2009/EK rendelettel és az 1072/2009/EK rendelettel összhangban kerülhet sor. A bérelt tehergépjárműre kiadott engedélykivonatnak és közösségi engedély hitelesített másolatának időbeli hatálya nem haladhatja meg a tehergépjármű bérletére vonatkozó szerződés időtartamát, de más tagállamból bérelt tehergépjármű esetén legfeljebb két hónapot.
-
-(4a) A más tagállamból bérelt tehergépjárművek száma a más tagállamból bérelt tehergépjármű használatba állításának napján a közúti árutovábbítási engedélyek nyilvántartása szerint a gazdálkodó szervezet rendelkezésére álló tehergépjármű-állomány legfeljebb 30 százaléka lehet, azzal, hogy a rendelkezésre álló járművek közé nem kell beszámolni a már korábban más tagállamból bérelt tehergépjárműveket.
-
-(4b) Ha a gazdálkodó szervezet a (4a) bekezdés szerint rendelkezésére álló tehergépjármű-állománya egynél több és négynél kevesebb járműből áll, akkor egy, más tagállamból bérelt tehergépjármű engedélyezhető.”
+[^46]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

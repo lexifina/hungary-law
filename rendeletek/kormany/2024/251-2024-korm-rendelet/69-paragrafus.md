@@ -1,1 +1,3 @@
-69. § A 382/2016. Korm. rendelet 8. § (2) bekezdés 4. pontjában a „vizsgabiztosok” szövegrész helyébe a „vizsgabiztosok és az oktatók” szöveg lép.
+69. §[^69]
+
+[^69]: A 69. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

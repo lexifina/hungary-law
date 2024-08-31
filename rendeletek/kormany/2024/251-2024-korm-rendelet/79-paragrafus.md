@@ -1,1 +1,3 @@
-79. § A 284/2018. (XII. 21.) Korm. rendelet 4/A. § (6) bekezdésében az „10032000-00003582-06010016” szövegrész helyébe az „10032000-00003582-06020015” szöveg lép.
+79. §[^79]
+
+[^79]: A 79. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

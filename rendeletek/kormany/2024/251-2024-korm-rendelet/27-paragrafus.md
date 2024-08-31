@@ -1,3 +1,3 @@
-27. § A 169/2010. (V. 11.) Korm. rendelet 9. § (4) bekezdése helyébe a következő rendelkezés lép:
+27. §[^27]
 
-„(4) A légiközlekedési hatóság az (EU) 2015/1998 bizottsági végrehajtási rendeletben előírt feltételek teljesítése esetén engedélyezi a védelmi oktató és oktató szervezet tevékenységét, valamint az e-learning rendszer üzemeltetését. A kiadott engedélyekről a légiközlekedési hatóság nyilvántartást vezet, valamint honlapján közzéteszi azon személyek, szervezetek elérhetőségét, amelyek harmadik fél részére is vállalnak oktatást, és nyilatkozatukban engedélyt adnak adataik közzétételére. A kiadott védelmi oktatói engedély és az oktató szervezeti engedély két évig hatályos.”
+[^27]: A 27. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 5. A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet módosítása
 
-15. § A közúti árufuvarozáshoz, személyszállításhoz és a közúti közlekedéshez kapcsolódó egyes rendelkezések megsértése esetén kiszabható bírságok összegéről, valamint a bírságolással összefüggő hatósági feladatokról szóló 156/2009. (VII. 29.) Korm. rendelet [a továbbiakban: 156/2009. (VII. 29.) Korm. rendelet] 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+15. §[^15]
 
-„(2) A Kkt. 20. § (1) bekezdés h) pontjához kapcsolódóan a 8. melléklet 4–5.5. sorában foglaltak értelmében a járműszerelvény megengedett legnagyobb össztömege a vontató jármű forgalmi engedélyének hivatalos feljegyzések rovatába bejegyzett, a járműszerelvényre vonatkozó megengedett legnagyobb össztömeg, ennek hiányában – a nyerges vontatóból és félpótkocsiból álló járműszerelvényt kivéve – a vontató jármű forgalmi engedélyében meghatározott együttes tömeg és az ellenőrzés időpontjában vontatott pótkocsi tényleges tömeg adatainak összege.”
+[^15]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
