@@ -86,7 +86,7 @@ g) a vizsgaközpont a pályaalkalmassági, képzési, utánképzési, vizsgázta
 
 l) a nyilvántartó által megbízott megszemélyesítést végző szervezet a vezetői engedély, törzskönyv és hivatalból kiállításra kerülő forgalmi engedély megszemélyesítéséhez, kiállításához és jogszabályban meghatározott adatok kezeléséhez a nyilvántartásból az okmányra kerülő adatokat ingyenesen.
 
-m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 42/B. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
+m) a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti szolgáltató automatikus információátvétel útján a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 66. §-a szerinti ügyfél-átvilágítás céljából térítésmentesen a 8. § (1) bekezdés ac) és ad) pontjában megjelölt adatokat, valamint az engedély típusát és okmányazonosító jelét.
 
 (2a) A nyilvántartásból adatot, iratot igényelhet – a 8. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatok kivételével – a szabálysértési ügyekben eljáró hatóság a szabálysértési eljárás lefolytatásához, továbbá a Kkt. 21. §-a szerinti közigazgatási hatósági ügyekben eljáró hatóság a közigazgatási hatósági eljárás lefolytatásához.
 
