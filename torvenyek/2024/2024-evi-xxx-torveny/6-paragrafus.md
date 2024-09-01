@@ -1,1 +1,3 @@
-### 6. §
+6. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény a következő 6/B. §-sal egészül ki:
+
+„6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel kapcsolatos tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.”
