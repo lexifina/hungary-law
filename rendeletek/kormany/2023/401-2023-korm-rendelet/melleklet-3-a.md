@@ -2,9 +2,9 @@
 
 | 1. | Nevelő és oktató munkát közvetlenül segítő munkakör | Az alkalmazáshoz szükséges legalacsonyabb iskolai végzettség, illetve képesítés szintje |
 
-| 2. | Óvodatitkár, iskolatitkár, kollégiumi titkár, intézményi titkár pedagógiai szakszolgálati intézményben[^59] | középfokú iskolai végzettség |
+| 2. | Óvodatitkár, iskolatitkár, kollégiumi titkár, intézményi titkár pedagógiai szakszolgálati intézményben[^61] | középfokú iskolai végzettség |
 
-| 3. | Pedagógiai asszisztens | középfokú iskolai végzettséghez kötött szakképesítés vagy érettségi végzettség[^60] |
+| 3. | Pedagógiai asszisztens | középfokú iskolai végzettséghez kötött szakképesítés vagy érettségi végzettség[^62] |
 
 | 4. | Gyógypedagógiai asszisztens | középfokú iskolai végzettség |
 
@@ -26,7 +26,7 @@
 
 |  | A | B |
 
-| 1. | Nevelő és oktató munkát közvetlenül segítő, valamint gazdasági, ügyviteli, műszaki, kisegítő munkakör[^61] | Az alkalmazáshoz szükséges legalacsonyabb iskolai végzettség, illetve képesítés szintje |
+| 1. | Nevelő és oktató munkát közvetlenül segítő, valamint gazdasági, ügyviteli, műszaki, kisegítő munkakör[^63] | Az alkalmazáshoz szükséges legalacsonyabb iskolai végzettség, illetve képesítés szintje |
 
 | 2. | Gondozó/takarító | nincs képesítési feltétel |
 
@@ -36,7 +36,7 @@
 
 | 5. | Gazdasági, ügyviteli, műszaki és kisegítő munkakör | nincs képesítési feltétel |
 
-3/a. melléklet a 401/2023. (VIII. 30.) Korm. rendelethez[^62]
+3/a. melléklet a 401/2023. (VIII. 30.) Korm. rendelethez[^64]
 
 A pedagóguskompetenciák megfigyelési és értékelési szempontjai Pedagógus I. fokozatra irányuló minősítő vizsga és Pedagógus II. fokozat elérésére irányuló minősítési eljárásban
 
@@ -978,7 +978,7 @@ F) A pedagógiai szakszolgálatban a gyógytestnevelés feladatot ellátó, peda
 
 G) A pedagógiai-szakmai szolgáltatást nyújtó intézményben pedagógiai előadó, pedagógiai szakértő pedagógus munkakörben foglalkoztatott
 
-[^59]: A 3. melléklet A) pontjában foglalt táblázat A:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 15. pontjával megállapított szöveg.
-[^60]: A 3. melléklet A) pontjában foglalt táblázat B:3 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 16. pontjával megállapított szöveg.
-[^61]: A 3. melléklet B) pontjában foglalt táblázat A:1. mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 17. pontjával megállapított szöveg.
-[^62]: A 3/a. mellékletet a 661/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^61]: A 3. melléklet A) pontjában foglalt táblázat A:2 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 15. pontjával megállapított szöveg.
+[^62]: A 3. melléklet A) pontjában foglalt táblázat B:3 mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 16. pontjával megállapított szöveg.
+[^63]: A 3. melléklet B) pontjában foglalt táblázat A:1. mezője a 661/2023. (XII. 29.) Korm. rendelet 19. § 17. pontjával megállapított szöveg.
+[^64]: A 3/a. mellékletet a 661/2023. (XII. 29.) Korm. rendelet 18. §-a iktatta be.

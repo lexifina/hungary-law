@@ -1,4 +1,4 @@
-## 44/A.[^44] A havi illetmény részét képező egyéb juttatások
+## 44/A.[^46] A havi illetmény részét képező egyéb juttatások
 
 95/A. § (1) Ha az érintett pedagógus, valamint a pedagógus szakképesítéssel vagy szakképzettséggel rendelkező nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatott a munkaköre betöltéséhez előírt szakképzettséget mesterképzésben szerezte, akkor a pótlék és egyes köznevelési feladatokért járó megbízási díj nélkül számított – a Púétv. 98. § (5) bekezdése szerinti esélyteremtési illetményrészt nem tartalmazó – havi illetményét a 88/A. § (1) bekezdése figyelembevételével meghatározott összegnél 2%-kal magasabb mértékben kell meghatározni.
 
@@ -10,4 +10,4 @@
 
 (5) A Púétv. 98. § (5) bekezdésének alkalmazása során az esélyteremtési illetményrész alapjául szolgáló havi illetmény összegének részét képezi az (1) bekezdés szerinti illetménynövekedés és az egyes tantárgyak után járó illetménynövekedés is.
 
-[^44]: A 44/A. alcímet (95/A. §-t) a 3/2024. (I. 18.) Korm. rendelet 4. §-a iktatta be.
+[^46]: A 44/A. alcímet (95/A. §-t) a 3/2024. (I. 18.) Korm. rendelet 4. §-a iktatta be.
