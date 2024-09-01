@@ -1,3 +1,3 @@
 41. §[^41]
 
-[^41]: A 41. § az 56. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^41]: A 41. § a 113/2024. (V. 14.) Korm. rendelet 11. § b) pontja alapján nem lép hatályba.

@@ -2,4 +2,4 @@
 
 40. §[^40]
 
-[^40]: A 40. § az 56. § (4) bekezdés alapján 2024. szeptember 1-jén lép hatályba.
+[^40]: A 40. § a 113/2024. (V. 14.) Korm. rendelet 11. § a) pontja alapján nem lép hatályba.
