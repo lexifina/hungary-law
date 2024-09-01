@@ -8,13 +8,13 @@ b) azt, hogy az ajánlatkérő csak a benyújtásra vonatkozó határidő lejár
 
 a) az ajánlatok és részvételi jelentkezések elektronikus benyújtásához szükséges tudnivalókat az érdekelt felek rendelkezésére kell bocsátani vagy számukra elérhetővé kell tenni,
 
-b) az elektronikus ajánlatokat az E-ügyintézési tv.-ben meghatározott fokozott biztonságú elektronikus aláírással vagy minősített elektronikus aláírással kell ellátni, és
+b) az elektronikus ajánlatokat a Dáptv.-ben meghatározott fokozott biztonságú elektronikus aláírással vagy minősített elektronikus aláírással kell ellátni, és
 
 c) a gazdasági szereplőknek az ajánlat és részvételi jelentkezés benyújtásakor az ajánlatkérőhöz be kell nyújtaniuk az ajánlatkérő által előírt dokumentumokat, tanúsítványokat, nyilatkozatokat és mintapéldányokat vagy mintapéldányok fotóit, ha azok elektronikus formátumban nem állnak rendelkezésre az ajánlatok, vagy a részvételi jelentkezések benyújtására megállapított határidő lejártáig.
 
 (3) Az ajánlatok és részvételi jelentkezések elektronikus átvételéhez használt eszközöknek meg kell felelniük az alábbi követelményeknek:
 
-a) az ajánlatokhoz és a részvételi jelentkezésekhez kapcsolódó elektronikus aláírások megfelelnek az E-ügyintézési tv. rendelkezéseinek,
+a) az ajánlatokhoz és a részvételi jelentkezésekhez kapcsolódó elektronikus aláírások megfelelnek a Dáptv. rendelkezéseinek,
 
 b) az ajánlatok és a részvételi jelentkezések benyújtásának napja és időpontja pontosan meghatározható,
 

@@ -8,7 +8,7 @@ b) nem csatolták a 144. § szerinti díj befizetéséről szóló igazolást,
 
 c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
 
-d) a kérelmet és annak kötelező mellékleteit nem az E-ügyintézési tv.-ben meghatározott elektronikus úton nyújtották be.
+d) a kérelmet és annak kötelező mellékleteit nem a Dáptv.-ben meghatározott elektronikus úton nyújtották be.
 
 (2a) Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
