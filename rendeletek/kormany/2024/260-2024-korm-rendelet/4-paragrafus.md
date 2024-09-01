@@ -1,0 +1,3 @@
+4. § A Rendelet a következő 13. §-sal egészül ki:
+
+„13. § A közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának általános szabályairól szóló 179/2011. (IX. 2.) Korm. rendelet, valamint a közlekedési alapismeretek tanfolyam és vizsga díjához nyújtott támogatásról szóló 55/2018. (III. 23.) Korm. rendelet módosításáról szóló 260/2024. (VIII. 29.) Korm. rendelettel (a továbbiakban: Módr1.) megállapított 8/A. § (5) bekezdése szerinti adatszolgáltatási kötelezettség teljesítése érdekében a középiskolák első alkalommal a Klebelsberg Központ és a Nemzeti Szakképzési és Felnőttképzési Hivatal számára 2024. december 15. és 2025. február 28. között szolgáltatnak adatot.”
