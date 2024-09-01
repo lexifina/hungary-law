@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-42-00-00
 | 2024-05-11 | 2024. évi XXV. törvény | 2015-42-00-00.53 |
 | 2024-07-01 | 2024. évi XXIX. törvény | 2015-42-00-00.54 |
 | 2024-08-01 | 2024. évi XXIX. törvény | 2015-42-00-00.55 |
+| 2024-09-01 | 2024. évi XII. törvény | 2015-42-00-00.52 |
