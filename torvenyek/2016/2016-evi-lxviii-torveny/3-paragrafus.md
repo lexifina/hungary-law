@@ -172,7 +172,7 @@ b) a termék tulajdonságaiból adódó, elismert mennyiségű hiány;
 
 a) az uniós számítógépes rendszer vagy az állami adó- és vámhatóság számítógépes rendszerének üzemszerű működésében bekövetkezett,
 
-b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti, vagy
+b) az állami adó- és vámhatóság által biztosított információs rendszer üzemszerű működésében bekövetkezett, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény felhatalmazó rendelkezése alapján kiadott kormányrendelet szerinti, vagy
 
 c) az uniós számítógépes rendszer használójának számítógépes rendszerében bekövetkezett
 
