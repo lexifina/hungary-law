@@ -1,0 +1,1 @@
+1. § E rendelet hatálya a közúti közlekedésről szóló 1988. évi I. törvény (a továbbiakban: Kkt.) 18. § (18) bekezdése szerinti közreműködésben részt vevő, a Magyar Honvédség állományából szakoktatói feladat ellátásra kijelölt honvédekre (a továbbiakban: honvédségi szakoktató) terjed ki.
