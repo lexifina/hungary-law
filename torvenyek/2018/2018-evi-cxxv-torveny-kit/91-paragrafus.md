@@ -30,6 +30,6 @@ j) biztosítani annak lehetőségét, hogy a kormánytisztviselő érdekképvise
 
 (3) A fogyatékossággal élő, illetve a megváltozott munkaképességű kormánytisztviselő foglalkoztatása során a kormányzati igazgatási szervnek gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(4) A kormányzati igazgatási szerv köteles ingyenesen biztosítani a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.
+(4) A kormányzati igazgatási szerv a munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkör tekintetében ingyenesen biztosítja a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.
 
 (5) A kormányzati igazgatási szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben – a Kormány rendeletében meghatározattak szerint – közszolgálati szabályzatot kiadni.
