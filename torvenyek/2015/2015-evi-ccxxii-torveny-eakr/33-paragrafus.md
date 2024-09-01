@@ -1,3 +1,0 @@
-33. § (1) A 18. § (5) bekezdésben foglalt eset kivételével az elektronikus ügyintézés során sikeres elektronikus azonosítás esetén az elektronikus azonosítási szolgáltató az elektronikus ügyintézést biztosító szerv számára az azonosított személy nevét, erre vonatkozó információ esetén a rendelkezésére álló elektronikus levélcímét, valamint a szerv számára képzett, a természetes személyazonosítókból le nem vezethető kapcsolati kódot továbbíthatja.
-
-(2) Az (1) bekezdés szerinti igénybevétel során az elektronikus azonosítási szolgáltató az igénybe vevő kérésére átadja a szabályozott elektronikus ügyintézési szolgáltató részére a regisztrációhoz szükséges, az elektronikus azonosítási szolgáltató által kezelt személyes adatokat.

@@ -1,1 +1,0 @@
-100/D. § A szerepkör igazolásával, a szerepkör-tanúsítvány kibocsátásával, az ahhoz kapcsolódó felelősségi szabályokkal, valamint a szerepkör-tanúsító platform szolgáltatással kapcsolatos részletszabályokat a Kormány rendeletben határozza meg.
