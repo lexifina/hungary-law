@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-110-00-00
 | 2021-01-01 | 2020. évi CXVIII. törvény | 2003-110-00-00.27 |
 | 2022-07-01 | 2019. évi CXV. törvény | 2003-110-00-00.28 |
 | 2023-08-14 | 2023. évi LIX. törvény | 2003-110-00-00.29 |
+| 2024-09-01 | 2024. évi XII. törvény | 2003-110-00-00.30 |
