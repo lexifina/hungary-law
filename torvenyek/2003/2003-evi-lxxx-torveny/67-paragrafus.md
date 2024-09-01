@@ -6,6 +6,6 @@
 
 (3) A szolgáltatási szerződés hároméves időtartamra köthető; módosítására akkor van lehetőség, ha a jogi segítő névjegyzékben szerepelő adataiban változás következett be, vagy ha szakterületét kívánja módosítani, illetve a havonta ellátni vállalt ügyek számát emelni.
 
-(4) A szolgáltatási szerződés módosítása elektronikus kapcsolattartás útján kezdeményezhető. Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési törvény) rendelkezéseit kell alkalmazni.
+(4) A szolgáltatási szerződés módosítása elektronikus kapcsolattartás útján kezdeményezhető. Az elektronikus úton való kapcsolattartásra a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezéseit kell alkalmazni.
 
 (5) A szolgáltatási szerződés tartama alatt elvállalt ügyekben a szerződés megszűnését követően is köteles a jogi segítő – a támogatás hatályának fennálltáig – a szolgáltatási szerződésben foglaltak szerinti jogi szolgáltatást teljesíteni, a jogi segítségnyújtó szolgálat pedig a jogi szolgáltatásért járó díjazást a szerződés szerint megfizetni.
