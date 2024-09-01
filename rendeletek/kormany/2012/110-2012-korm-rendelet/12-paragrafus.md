@@ -236,7 +236,7 @@ A természettudományos ismeretek és kiemelten a matematikai, természettudomá
 
 A mindennapos testnevelés
 
-A nemzeti köznevelésről szóló törvényben foglalt kivételekkel az iskola a mindennapos testnevelést heti öt testnevelés óra keretében szervezi meg. A heti öt órából legfeljebb heti két óra a Nat Testnevelés és egészségfejlesztés műveltségterületében jelzett sporttevékenységekre (úszás, néptánc, közösségi és más sportjátékok, szabadtéri sportok, természetjárás, kirándulás), vagy − az iskola lehetőségeinek és felszereltségének megfelelően − különféle más sporttevékenységekre fordítható (hagyományos magyar történelmi sportok, mozgásos és ügyességi játékok, csapatjátékok). A heti két óra kiváltható továbbá sportolással iskolai sportkörben, vagy − a tanuló kérelme alapján − sportszervezet, sportegyesület keretei között végzett igazolt sporttevékenységgel.
+A nemzeti köznevelésről szóló törvényben foglalt kivételekkel az iskola a mindennapos testnevelést heti öt testnevelés óra keretében szervezi meg. A heti öt órából legfeljebb heti két óra a Nat Testnevelés és egészségfejlesztés műveltségterületében jelzett sporttevékenységekre (úszás, néptánc, közösségi és más sportjátékok, szabadtéri sportok, természetjárás, kirándulás), vagy − az iskola lehetőségeinek és felszereltségének megfelelően − különféle más sporttevékenységekre fordítható (hagyományos magyar történelmi sportok, mozgásos és ügyességi játékok, csapatjátékok).
 
 A mindennapos művészeti nevelés
 
@@ -5002,8 +5002,80 @@ A KÖRNYEZETTUDATOS SZEMLÉLET FEJLESZTÉSE
 
 A nevelési-oktatási szakasz végére a tanuló:
 
+1. megérti a természeti környezet meghatározó szerepét a más tájakon élő emberek életmódbeli különbségében;
+
+2. belátja, hogy a természet kínálta lehetőségek felhasználásának elsődleges szempontja a szükségletek kielégítése, a mértéktartás alapelvének követése;
+
+3. megismeri a gazdálkodó életmódra jellemző újrahasznosítás elvét, és saját életében is megpróbálja alkalmazni.
+
+AZ ÖNÁLLÓ ISMERETSZERZÉSBEN VALÓ JÁRTASSÁG NÖVELÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. önálló néprajzi gyűjtés során, digitális archívumok, írásos dokumentumok tanulmányozásával ismereteket szerez családja, lakóhelye múltjáról, hagyományairól;
+
+2. szöveges és képi források, digitalizált archívumok elemzése, feldolgozása alapján bővíti tudását.
+
+A KOMMUNIKÁCIÓS KÉSZSÉG, A TÁRSAS EGYÜTTMŰKÖDÉS FEJLESZTÉSE, A VÉLEMÉNYALKOTÁS GYAKORLATÁNAK ERŐSÍTÉSE
+
+A nevelési-oktatási szakasz végére a tanuló:
+
+1. felismeri a csoportban elfoglalt helyét és szerepét, törekszik a személyiségének, készségeinek és képességeinek, érdeklődési körének legjobban megfelelő feladatok vállalására;
+
+2. tevékenyen részt vesz a csoportmunkában zajló együttműködő alkotási folyamatban, digitális források közös elemzésében;
+
+3. meghatározott helyzetekben önálló véleményt tud alkotni, a társak véleményének meghallgatását követően álláspontját felül tudja bírálni, döntéseit át tudja értékelni.
+
+II.3.5. Etika / hit- és erkölcstan
+
+A) ALAPELVEK, CÉLOK
+
+A tantárgy középpontjában az erkölcsi nevelés áll, amely a tanuló erkölcsi érzékének és erkölcsi gondolkodásának fejlesztését jelenti. A tanulás folyamán az erkölcsi kategóriák jelentéstartalmának folyamatos gazdagítása, szükség esetén újraértelmezése, élethelyzetekre vonatkoztatása, valamint az ezekből következő etikai kérdések felvetése történik. A tananyag alapvető értékeket közvetít: a segítés, megértés, együttérzés, törődés, szabadság, felelősség, igazságosság, becsületesség, méltányosság, tolerancia, önazonosság. Ezek a tanuló lelkiismeretének fejlődését szolgálják. A témák feldolgozása a tanulót megfontolt döntésre, kulturált véleményalkotásra és felelős tevékenységre készteti.
+
+A tanulóközösség tevékenységei mintát nyújtanak arra, hogy milyen érzelmi-, érdekkonfliktusok és viselkedésmódok segítik vagy akadályozzák az együttműködést. Az ajánlott tantárgyi tartalmak és tanulói tevékenységek olyan képességeket is fejlesztenek, melyek a tanulót az életvezetésében hatékonnyá és tudatosabbá, társai és környezete problémái iránt érzékenyebbé teszik, erősítik identitását, aktív társadalmi cselekvésre késztetik és segítik a nehéz helyzetek megoldásában.
+
+A tantárgy – jellegénél fogva – elsősorban a személyes és társas képességeket, illetve a tudatos társadalmi részvételt és felelősségvállalást fejleszti. Fő feladata olyan ismeretek és értékek közvetítése, valamint kompetenciák elsajátíttatása, amelyek hozzásegítik a tanulót, hogy tájékozott, aktív és elkötelezett állampolgárrá, kisebb és nagyobb közösségeinek felelős tagjává váljék.
+
+Az etika tanulása során a tanuló megismerkedik a magyar, az európai és a világtörténelem etikailag is fontos eseményeivel, jelenségeivel, folyamataival és szereplőivel. Ez jelentős mértékben elősegíti, hogy a tanuló megismerje és elsajátítsa azt a kulturális kódrendszert, amely lehetővé teszi számára identitása, valamint a magyar nemzet és a keresztény, keresztyén normarendszeren alapuló európai civilizáció iránti elkötelezettsége kialakítását és megerősítését.
+
+A tantárgy tanulása folyamán a tanuló számos olyan történettel, konfliktussal, dilemmával, emberi magatartással és sorssal találkozik és foglalkozik, amely nemcsak tájékozottsága, életismerete és gondolkodási képessége kibontakozásához járul hozzá, hanem erkölcsi és érzelmi fejlődését is szolgálja.
+
+Teret biztosít azoknak az élményszerű egyéni és közösségi tevékenységeknek, amelyek a család, az otthon, a lakóhely, a szülőföld tiszteletét alapozzák meg. Segíti az egyéni, családi, közösségi, nemzeti, nemzetiségi identitástudat és történeti tudat kialakítását.
+
+Tudatosítja a tanulóban, hogy elsősorban nemzete saját hagyományainak, értékeinek megismerése, elsajátítása és gyakorlása mellett válhat nyitottá a velünk élő nemzetiségek, vallási közösségek, a szomszéd és a rokon népek, valamint a világ többi népének kultúrája, az egyetemes értékek iránt is.
+
+Az etika tanterv főbb pedagógiai alapelvei:
+
+1. A tanulók komplex személyiségfejlesztése, értelmi, érzelmi, társas-lelkületi formálás és a cselekvő magatartásra, viselkedésre buzdítás.
+
+2. A teljes személyiség aktivizálása, a belső motiváció felkeltése és ébren tartása.
+
+3. Célrendszere és ajánlásai élményt adók, személyiséget, meggyőződést formálók.
+
+4. A tananyagok kiválasztása és annak megvalósítása során figyelembe veszi az egyes korosztályok tipikus életkori sajátosságait és lehetséges élethelyzeteit, valamint lehetőséget kíván adni a tanulók és tanulócsoportok egyéni sajátosságai szerinti differenciálásra.
+
+5. Az aktív, cselekvő viselkedés, magatartás megélésére ösztönzi a tanulókat a különböző élethelyzeteikben.
+
+6. Fontosnak tartja a nevelés három színterét: család, iskola, társadalom.
+
+7. Az etika tantárgyban elsődleges az érzelmi, érzületi nevelés, a morál- és morális fejlesztés, amely során a gyermekek cselekedtetése, meggyőződésének formálása elengedhetetlenül szükséges a lelkiismeretes magatartás megszilárdulása érdekében.
+
+8. A nevelés mindig egy társadalmi közegben történik, így a nemzeti értékeink megismerése és megőrzése alapfeladat.
+
+Az etika természete szerint értelmező jellegű is, a tényekről alkotott különböző vélemények szükségszerűen vitákat eredményeznek. A tanulás során ezek a viták arra ösztönzik a tanulót, hogy elgondolkodjon az emberi értékekről, illetve az élet alapvető dilemmáit megjelenítő olyan fogalmakról, mint például az igazságosság, hűség, hatékonyság, empátia és felelősség. A viták úgy szolgálhatják a tanulást, ha a tanulóban megerősödnek társadalmunk és európai zsidó-keresztény, keresztyén gyökerű civilizációnk alapértékei.
+
+Ez a megközelítés hozzásegíti a tanulót, hogy megértse és méltányolja a magyarság, a magyar nemzet, illetve Magyarország sajátos helyzetéből adódó jelenségeket és folyamatokat, így alakulhat ki benne a tényeken alapuló reális és pozitív nemzettudat.
+
+A tanulási folyamat hatékonyságát elősegítik az egyéni és társas tanulás változatos módszerei és formái, melyek az együttműködés közösségi élményének a megélését eredményezik.
+
+Az etika tantárgy alapvető célja annak felismertetése, hogy a kulturális hagyományokban gyökerező etikai elvek, társas szabályok, szocio-emocionális készségek miként járulnak hozzá az egyéni és közösségi identitás formálódásához, stabilitásához, valamint az egyének és csoportok közti együttműködés megteremtéséhez. A tanuló elsősorban az európai vallásokkal való megismerkedésen keresztül, az elsajátított információkra reflektálva tanulmányozza, hogy az egyes hitrendszerek milyen értékek mentén kínálnak értelmezési keretet az emberi létezésre vonatkozó gondolkodáshoz. A társadalmi együttélést szabályozó, egymástól eltérő jogrendszerek egyes elemeinek értékközpontú vizsgálata elősegíti a társadalmi csoportok és egyének érdekérvényesítésének megértését.
+
+Az etika tantárgy tanulásának célja, hogy a tanuló:
+
+1. olyan tartalmakat kapjon, amelyek segítik saját értékrendjének gazdagításában, és az alapvető értékek emberi életben betöltött szerepének megértésében;
+
 [^31]: A 12. §-t az 5/2020. (I. 31.) Korm. rendelet 4. §-a iktatta be.
 [^32]: A hatálybalépés időpontja 2020. február 8.
-[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja szerint módosított szöveg.
+[^33]: A melléklet a 73/2013. (III. 8.) Korm. rendelet 17. §-a, a 297/2013. (VII. 29.) Korm. rendelet 77. § b) pontja, a 7/2014. (I. 17.) Korm. rendelet 2. §-a, az 5/2020. (I. 31.) Korm. rendelet 5. §-a, a 417/2020. (VIII. 30.) Korm. rendelet 12–13. §-a, a 238/2022. (VI. 30.) Korm. rendelet 110. § e) és f) pontja, a 201/2024. (VII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^34]: Magyarország Alaptörvénye (2011. április 25.). Magyarország Alaptörvényét az Országgyűlés a 2011. április 18-i ülésnapján fogadta el.
 [^35]: 2011. évi CXC. törvény a nemzeti köznevelésről. A törvényt az Országgyűlés a 2011. december 19-i ülésnapján fogadta el.

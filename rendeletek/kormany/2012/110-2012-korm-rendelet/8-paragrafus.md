@@ -24,7 +24,7 @@ d) a hetedik és a nyolcadik évfolyamon harminc,
 
 e) a kilencedik–tizenharmadik évfolyamon harmincnégy
 
-## óra lehet.
+óra lehet.
 
 (4)[^23] A két tanítási nyelvű iskolai oktatásban, vagy ha az iskola a nemzeti köznevelésről szóló törvény 7. § (6) bekezdése szerint sportiskola feladatait látja el, továbbá ha az iskola emelt szintű oktatást szervez, a tanuló kötelező és választható tanítási óráinak összege a (3) bekezdésben egy tanítási hétre meghatározott időkerethez képest legfeljebb kettő tanítási órával emelkedhet.
 

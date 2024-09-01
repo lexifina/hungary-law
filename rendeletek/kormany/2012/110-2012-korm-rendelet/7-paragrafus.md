@@ -10,6 +10,6 @@ a) idegen nyelv, matematika, magyar nyelv és irodalom, továbbá nemzetiségi n
 
 b) minden egyéb tantárgy esetében legalább heti négy
 
-## tanórai foglalkozást kell biztosítani.
+tanórai foglalkozást kell biztosítani.
 
 (4) Ha az iskola emelt szintű oktatást szervez, az emelt szintű oktatásban érintett évfolyamokon és tanulócsoportokban több tantárgy együttesét érintő komplex emelt szintű oktatás esetén legalább egy érintett tantárgyra vonatkozóan, legalább a 11–12. évfolyamon a (3) bekezdés szerinti követelményeket kell érvényesíteni.

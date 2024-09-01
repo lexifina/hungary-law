@@ -1,5 +1,3 @@
-## határozza meg.
-
 ## 3. A kerettantervek elkészítésére, kiadására és alkalmazására vonatkozó szabályok
 
 5. § (1)[^7] A kerettantervek meghatározzák

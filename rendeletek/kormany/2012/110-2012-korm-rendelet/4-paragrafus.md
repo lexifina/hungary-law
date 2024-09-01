@@ -9,3 +9,5 @@ c) a kulcskompetenciákat,
 d) az iskolai nevelés-oktatás Nat-ban meghatározott szakaszaiban a egyes műveltségi területek százalékos arányát,
 
 e) a műveltségi területek tartalmát
+
+határozza meg.

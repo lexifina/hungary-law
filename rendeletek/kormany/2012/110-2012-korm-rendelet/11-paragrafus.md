@@ -18,7 +18,7 @@ h) II.3.10. TESTNEVELÉS ÉS SPORT cím A) ALAPELVEK, CÉLOK alcímében
 
 i) II.3.10. TESTNEVELÉS ÉS SPORT cím C) KÖZMŰVELTSÉGI TARTALMAK alcímében
 
-## foglaltak alapján 2014. március 31-éig vizsgálják felül pedagógiai programjukat.
+foglaltak alapján 2014. március 31-éig vizsgálják felül pedagógiai programjukat.
 
 (2) Az iskolák a 2014/2015. tanévben az (1) bekezdés alapján felülvizsgált pedagógiai programjuk szerint kezdik meg a nevelő-oktató munkát.
 

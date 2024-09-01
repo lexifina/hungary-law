@@ -10,7 +10,7 @@ d) a nemzeti köznevelésről szóló törvény 27. § (5)–(8) bekezdése alap
 
 e) a nemzeti köznevelésről szóló törvény 6. melléklet E oszlopában foglaltak alapján szervezett egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozás
 
-## óraszámait.
+óraszámait.
 
 (2) Azokon a tanítási napokon, amikor a tanuló a tanév rendjében meghatározott mérési feladatok végrehajtásában vesz részt, más tanórai foglalkozáson való részvételre a művészeti és a testnevelési órák kivételével nem kötelezhető.
 
