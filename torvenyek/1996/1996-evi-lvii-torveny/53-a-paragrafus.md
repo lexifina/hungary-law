@@ -4,7 +4,7 @@
 
 a) írásban,
 
-b) az Eüsztv.-ben meghatározott elektronikus úton,
+b) a Dáptv.-ben meghatározott elektronikus úton,
 
 c) írásbelinek nem minősülő elektronikus úton vagy
 
