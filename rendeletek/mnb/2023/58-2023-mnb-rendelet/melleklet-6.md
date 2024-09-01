@@ -150,7 +150,7 @@
 
 ## 50W2 sor: a befektetési alap azonosítására szolgáló ISIN kód. Minden jelentésnél ugyanannak a befektetési jegy sorozatnak az ISIN kódját kell beírni. Megegyezik az 50A3 sorban szereplő kóddal.
 
-## 2.[^13] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
+## 2.[^16] 50C Portfóliók hozama, költsége, az alapkezelő díjbevétele
 
 ## A tábla kitöltése
 
@@ -394,7 +394,7 @@
 
 ## 10. oszlop Óvadékba, fedezetbe, kölcsönbe adott értékpapírok értéke: a származtatott ügyletek fedezetéül, egyéb óvadékba, fedezetként, kölcsönbe elhelyezett értékpapírok piaci értéke.
 
-## 5.[^14] 50I3 A befektetési alapok nettó eszközértéke és száma a harmonizáció típusa, illetve azon belül különféle szempontok szerinti bontásban, a negyedév végén
+## 5.[^17] 50I3 A befektetési alapok nettó eszközértéke és száma a harmonizáció típusa, illetve azon belül különféle szempontok szerinti bontásban, a negyedév végén
 
 ## A tábla kitöltése
 
@@ -410,7 +410,7 @@
 
 ## a lakossági befektetőknek forgalmazott alapok közé kell besorolni. Ha azonban az adatszolgáltató rendelkezésére álló információk szerint csak szakmai befektetők vásárolják egy adott alap befektetési jegyeit, akkor az alapot a „szakmai befektetőknek forgalmazott” alapok között kell szerepeltetni, függetlenül attól, hogy a tájékoztató alapján magánszemélyek is vásárolhatnák a befektetési jegyeket.
 
-## 6. [^15]
+## 6. [^18]
 
 ## 7. 50J Az ügyfél pénzügyi eszközének és pénzeszközének kezelésére jogosult alapkezelők - Pénzfedezettségi jelentés (a deviza egységében)
 
@@ -702,7 +702,7 @@
 
 ## Az 50U11 kezdetű sorok az intézménynek az ügyfelekkel való elektronikus kapcsolattartására vonatkozó adatokat tartalmazzák. Az ügyfél általi adatmódosítás fogalmába beletartoznak a tranzakciós adatmódosítások (például befektetés, az ügyfél általi vételi/eladási megbízás) is.
 
-## 16.[^16] 50_SFDR – Intézményszintű SFDR adatok
+## 16.[^19] 50_SFDR – Intézményszintű SFDR adatok
 
 ## A tábla kitöltése
 
@@ -766,7 +766,7 @@
 
 ## Az adatszolgáltató által alkalmazott, materiálisnak ítélt, szabadon választható mutatók megnevezését, értékét és mértékegységét kell megadni. A mutatószámokat az SFDR RTS I. mellékletének 1., 2. és 3. számú táblázatából kell kiválasztani.
 
-## 17.[^17] 50_TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
+## 17.[^20] 50_TAX A befektetési alapkezelők által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 ## A tábla kitöltése
 
@@ -858,7 +858,7 @@
 
 ## 51Q4 Befektetési politika, illetve a változtatás engedélyének határozatszáma: nyilvános befektetési alap esetén a befektetési politika felügyeleti engedélyének határozatszáma.
 
-## 21.[^18] 51R Befektetési alap jellemzői
+## 21.[^21] 51R Befektetési alap jellemzői
 
 ## A tábla sorai
 
@@ -1086,9 +1086,9 @@
 
 6. melléklet az 58/2023. (XI. 24.) MNB rendelethez
 
-[^13]: Az 5. melléklet II. pont 2. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^14]: Az 5. melléklet II. pont 5. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^15]: Az 5. melléklet II. pont 6. alpontját a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^16]: Az 5. melléklet II. pont 16. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^17]: Az 5. melléklet II. pont 17. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^18]: Az 5. melléklet II. pont 21. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^16]: Az 5. melléklet II. pont 2. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 5. melléklet II. pont 5. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^18]: Az 5. melléklet II. pont 6. alpontját a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^19]: Az 5. melléklet II. pont 16. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^20]: Az 5. melléklet II. pont 17. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^21]: Az 5. melléklet II. pont 21. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.

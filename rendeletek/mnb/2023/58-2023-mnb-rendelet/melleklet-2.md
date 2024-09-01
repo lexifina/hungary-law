@@ -76,7 +76,7 @@
 
 ## 1.36. a 600/2014/EU európai parlamenti és tanácsi rendeletnek az ügyletek illetékes hatóságoknak történő bejelentésére vonatkozó szabályozástechnikai standardok tekintetében történő kiegészítéséről szóló 2016. július 28-i (EU) 2017/590 felhatalmazáson alapuló bizottsági rendelet;
 
-## 1.36a.[^9] a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet;
+## 1.36a.[^10] a pénzpiaci alapokról szóló, 2017. június 14-i (EU) 2017/1131 európai parlamenti és tanácsi rendelet;
 
 ## 1.37. (EU) 2018/1229 felhatalmazáson alapuló bizottsági rendelet;
 
@@ -270,7 +270,7 @@
 
 ## 5.6. Az értékpapírok állományára vonatkozó jelentésekben az érvénytelen, valamint a lejárt értékpapírokat nem kell szerepeltetni.
 
-2. melléklet az 58/2023. (XI. 24.) MNB rendelethez[^10]
+2. melléklet az 58/2023. (XI. 24.) MNB rendelethez[^11]
 
-[^9]: Az 1. melléklet 1. pont 1.36a. alpontját a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
-[^10]: A 2. melléklet a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^10]: Az 1. melléklet 1. pont 1.36a. alpontját a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése iktatta be.
+[^11]: A 2. melléklet a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.

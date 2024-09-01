@@ -270,7 +270,7 @@
 
 ## 5. oszlop: a portfóliókezelő LEI-kódja, ha nem rendelkezik LEI-kóddal, akkor a KSH-törzsszáma.
 
-## 1.6. 30LA A letétkezelt befektetési alapok és portfóliók eszközösszetétele
+## 1.6.[^12] 30LA A letétkezelt befektetési alapok és portfóliók eszközösszetétele
 
 ## A napi gyakoriságú tábla az adatszolgáltató által letétkezelt befektetési alapok, pénztári és biztosítói portfóliók összes eszközét tartalmazza. A táblában azon befektetési alapok, pénztári és biztosítói portfóliók adatait kell szerepeltetni, amelyek esetében az adott napra nettó eszközértéket (piaci értéket) számoltak. Ez alól kivételt jelentenek a nettó eszközértéket heti gyakoriságnál ritkábban számító befektetési alapok, portfóliók, amelyek esetében vonatkozási napnak azon hónap utolsó napját kell tekinteni, amelyik hónapban a nettó eszközértéket kiszámolták. Ha az adatszolgáltató havonta többször, de a heti gyakoriságnál ritkábban számít nettó eszközértéket egy alapra (portfólióra), akkor a hónap folyamán utoljára elvégzett számításoknál használt adatokat kell jelentenie, vonatkozási napként a hónap utolsó napját megjelölve.
 
@@ -292,127 +292,153 @@
 
 ## 4. oszlop: alapértelmezés szerint a befektetési alapban vagy portfólióban lévő egyes eszközök neve. Azoknál a soroknál, ahol a 7. oszlopban szereplő kód 30LA01 kezdetű, a számlavezető megnevezését, a 30LA02 kezdetű tételek esetében a szerződött intézmény nevét és a lejárat dátumát ÉÉÉÉHHNN formátumban (például: ABC Bank Zrt. 20200221), a 30LA03 kezdetű sorok esetén a portfólió kezelőjének nevét, a 30LA09 kód esetén az ingatlan címét, a 30LA10 kód esetén az ingatlantársaság megnevezését, a 30LA11 kód esetén a kölcsönnyújtó megnevezését kell szerepeltetni.
 
-## 5. oszlop: értékpapír esetén az ISIN kód, ha az értékpapír nem rendelkezik ISIN kóddal, akkor az értékpapír belső azonosítója; azoknál a soroknál, ahol a 7. oszlopban szereplő kód 30LA01 vagy 30LA02 kezdetű, elsődlegesen a számla nemzetközi pénzforgalmi jelzőszáma (IBAN), másodlagosan a belföldi pénzforgalmi jelzőszáma vagy egyéb belső azonosító a betét azonosítására, a 30LA03 kezdetű soroknál a portfólió kezelőjének törzsszáma (amely az adószám első 8 karaktere), a 30LA11 kód esetén pedig a kölcsönnyújtónak az ISO 9362 nemzetközi szabvány szerint meghatározott azonosító kódja [SWIFT-kód: Bank Identifier Code (11 karakter)]; ha a 7. oszlopban 30LA09 kód szerepel, akkor az ingatlan helyrajzi száma. Ha a kölcsönnyújtónak nincs BIC-kódja (Bank Identifier Code), akkor alkalmazható a LEI-kód (Legal Entity Identifier), vagy a KSH-törzsszám. Ha a 7. oszlopban 30LA05, 30LA06, 30LA07 vagy 30LA08 kód szerepel, akkor a szabályozott piacon kötött határidős, opciós, repó és SWAP ügylet esetén a szabályozott piacon meghatározott azonosító kódot kell megadni. Nem szabályozott piacon kötött határidős devizaügyletek esetén egyedi azonosítót kell megadni a következők szerint: instrumentum megnevezése/lejárat dátuma/az ügylet iránya/kötési árfolyam/mennyiség. Az azonosítóban az instrumentum megnevezéseként az ügylet tárgyát képező devizapár ISO 4217 nemzetközi szabvány szerint meghatározott kódját kell megadni, elválasztás nélkül; a lejárat dátuma az a dátum, amely határidőre/lejáratra az ügyletet kötötték („ééhhnn” formátumban); az ügylet iránya vételi ügylet esetén „V”, eladási ügylet esetén „E” jelölés; a kötési árfolyam az az árfolyam, amelyen az ügyletet kötötték, változó devizában kifejezve, négy tizedesjegy pontossággal, a tizedesjegyeket ponttal elválasztva; mennyiség: az ügylet értéke, bázis devizában kifejezve. (Példa 100 000 euro eladására, 2023. április 13-i lejárati idővel, 1 EUR = 402,4466 HUF árfolyamon: EURHUF/230413/E/402.4466/100000). Nem szabályozott piacon kötött opciós és repó ügylet esetén a következő azonosító kódot kell alkalmazni: alaptermék ISIN-kódja, ezt követően – szóköz nélkül – a lejárati dátum ÉÉÉÉHHNN formátumban. Nem szabályozott piacon kötött SWAP ügylet esetén az azonosítónak tartalmaznia kell az ügyletben részt vevő alaptermékek azonosítóját (ISIN kód, deviza esetén az ISO 4217 szabvány szerinti devizanem kód, egyéb azonosító), sorrendben először a követelést majd a kötelezettséget, ezt követően az ügylet lejárati dátumát ÉÉÉÉHHNN formátumban.
+## 5. oszlop: értékpapír esetén az ISIN kód, ha az értékpapír nem rendelkezik ISIN kóddal, akkor az értékpapír belső azonosítója; azoknál a soroknál, ahol a 7. oszlopban szereplő kód 30LA01 vagy 30LA02 kezdetű, elsődlegesen a számla nemzetközi pénzforgalmi jelzőszáma (IBAN), másodlagosan a belföldi pénzforgalmi jelzőszáma vagy egyéb belső azonosító a betét azonosítására, a 30LA03 kezdetű soroknál a portfólió kezelőjének törzsszáma (amely az adószám első 8 karaktere), a 30LA11 kód esetén pedig a kölcsönnyújtónak az ISO 9362 nemzetközi szabvány szerint meghatározott azonosító kódja [SWIFT-kód: Bank Identifier Code (11 karakter)]; ha a 7. oszlopban 30LA09 kód szerepel, akkor az ingatlan helyrajzi száma. Ha a kölcsönnyújtónak nincs BIC-kódja (Bank Identifier Code), akkor alkalmazható a LEI-kód (Legal Entity Identifier), vagy a KSH-törzsszám. Ha a 7. oszlopban 30LA05, 30LA06, 30LA07 vagy 30LA08 kód szerepel, akkor a szabályozott piacon kötött határidős, opciós, repó és SWAP ügylet esetén a szabályozott piacon meghatározott azonosító kódot kell megadni. Nem szabályozott piacon kötött határidős devizaügyletek esetén egyedi azonosítót kell megadni a következők szerint: instrumentum megnevezése/lejárat dátuma/az ügylet iránya/kötési árfolyam/mennyiség. Az azonosítóban az instrumentum megnevezéseként az ügylet tárgyát képező devizapár ISO 4217 nemzetközi szabvány szerint meghatározott kódját kell megadni, elválasztás nélkül; a lejárat dátuma az a dátum, amely határidőre/lejáratra az ügyletet kötötték („ééhhnn” formátumban); az ügylet iránya vételi ügylet esetén „V”, eladási ügylet esetén „E” jelölés; a kötési árfolyam az az árfolyam, amelyen az ügyletet kötötték, változó devizában kifejezve, négy tizedesjegy pontossággal, a tizedesjegyeket ponttal elválasztva; mennyiség: az ügylet értéke, bázis devizában kifejezve. (Példa 100 000 euro eladására, 2025. április 13-i lejárati idővel, 1 EUR = 402,4466 HUF árfolyamon: EURHUF/250413/E/402.4466/100000). Nem szabályozott piacon kötött opciós és repó ügylet esetén a következő azonosító kódot kell alkalmazni: alaptermék ISIN-kódja, ezt követően – szóköz nélkül – a lejárati dátum ÉÉÉÉHHNN formátumban. Nem szabályozott piacon kötött SWAP ügylet esetén az azonosítónak tartalmaznia kell az ügyletben részt vevő alaptermékek azonosítóját (ISIN kód, deviza esetén az ISO 4217 szabvány szerinti devizanem kód, egyéb azonosító), sorrendben először a követelést majd a kötelezettséget, ezt követően az ügylet lejárati dátumát ÉÉÉÉHHNN formátumban.
 
 ## 6. oszlop: az alapban található eszközök darabszáma. Határidős, opciós, repó és SWAP ügyletek esetében (tehát, ha a 7. oszlopban 30LA05, 30LA06, 30LA07 vagy 30LA08 kód szerepel) azt kell megadni, hogy hány egységnyi alaptermékre vonatkozik a megkötött ügylet. Ha az alaptermék deviza, akkor a deviza mennyiségét kell jelenteni. Azoknál a soroknál, ahol a 7. oszlopban szereplő kód 30LA01, 30LA02 vagy 30LA03 kezdetű, továbbá ahol a 7. oszlopban 30LA11, 30LA12, vagy 30LA13 a kód, a mezőt nem kell kitölteni.
 
-## 7. oszlop: az eszközosztályban az alábbi táblázat szerinti kódokat kell szerepeltetni az adott eszközkategóriának megfelelően.
+## 7. oszlop: az eszközosztályban az alábbi táblázat szerinti kódokat kell szerepeltetni az adott eszközkategóriának megfelelően, a következők figyelembevételével.
+
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A. §-ában, illetve 1/L. §-ában nevesített, az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
 
 | Kód | Eszközkategória |
 
-| 30LA011 | Pénzforgalmi számla - Forint |
+| 30LA011 | Pénzforgalmi számla – forint |
 
-| 30LA012 | Pénzforgalmi számla - Deviza |
+| 30LA012 | Pénzforgalmi számla – deviza |
 
-| 30LA021 | Bankbetét - Forint |
+| 30LA021 | Bankbetét – forint |
 
-| 30LA022 | Bankbetét - Deviza |
+| 30LA022 | Bankbetét – deviza |
 
-| 30LA031 | Házipénztár - Forint |
+| 30LA031 | Házipénztár – forint |
 
-| 30LA032 | Házipénztár - Deviza |
+| 30LA032 | Házipénztár – deviza |
 
-| 30LA041111 | Magyarország által kibocsátott állampapír - Államkötvény |
+| 30LA041111 | Magyarország által kibocsátott állampapír – államkötvény |
 
-| 30LA041112 | Magyarország által kibocsátott állampapír - Kincstárjegy |
+| 30LA041112 | Magyarország által kibocsátott állampapír – kincstárjegy |
 
-| 30LA041113 | Magyarország által kibocsátott állampapír - Az MNB által kibocsátott, hitelviszonyt megtestesítő értékpapír |
+| 30LA041113 | Magyarország által kibocsátott állampapír – az MNB által kibocsátott, hitelviszonyt megtestesítő értékpapír |
 
-| 30LA041114 | Magyarország által kibocsátott állampapír - Egyéb |
+| 30LA041114 | Magyarország által kibocsátott állampapír – egyéb |
 
-| 30LA041121 | Más EGT-állam által kibocsátott állampapír - Államkötvény |
+| 30LA041121 | Más EGT-állam által kibocsátott állampapír – államkötvény |
 
-| 30LA041122 | Más EGT-állam által kibocsátott állampapír - Kincstárjegy |
+| 30LA041122 | Más EGT-állam által kibocsátott állampapír – kincstárjegy |
 
-| 30LA041123 | Más EGT-állam által kibocsátott állampapír - Az Európai Központi Bank vagy az EGT más államának jegybankja által kibocsátott, hitelviszonyt megtestesítő értékpapír |
+| 30LA041123 | Más EGT-állam által kibocsátott állampapír – az Európai Központi Bank vagy az EGT más államának jegybankja által kibocsátott, hitelviszonyt megtestesítő értékpapír |
 
-| 30LA041124 | Más EGT-állam által kibocsátott állampapír - Egyéb |
+| 30LA041124 | Más EGT-állam által kibocsátott állampapír – egyéb |
 
-| 30LA041131 | Nem EGT-állam által kibocsátott állampapír - Államkötvény |
+| 30LA041131 | Nem EGT-állam által kibocsátott állampapír – államkötvény |
 
-| 30LA041132 | Nem EGT-állam által kibocsátott állampapír - Kincstárjegy |
+| 30LA041132 | Nem EGT-állam által kibocsátott állampapír – kincstárjegy |
 
-| 30LA041133 | Nem EGT-állam által kibocsátott állampapír - Egyéb |
+| 30LA041133 | Nem EGT-állam által kibocsátott állampapír – egyéb |
 
-| 30LA04121 | Kötvények - Vállalati kötvény |
+| 30LA04121 | Kötvények – vállalati kötvény |
 
-| 30LA04122 | Kötvények - Hitelintézeti kötvény |
+| 30LA04122 | Kötvények – hitelintézeti kötvény |
 
-| 30LA04123 | Kötvények - Önkormányzati kötvény |
+| 30LA04123 | Kötvények – önkormányzati kötvény |
 
-| 30LA04124 | Kötvények - Jelzáloglevél |
+| 30LA04124 | Kötvények – jelzáloglevél |
 
-| 30LA04125 | Kötvények - Nem hazai kibocsátású kötvények |
+| 30LA04125 | Kötvények – nem hazai kibocsátású kötvények |
 
-| 30LA041311 | Szabályozott piacra bevezetett részvények - Budapesti Értéktőzsdére bevezetett részvények |
+| 30LA041311 | Szabályozott piacra bevezetett részvények – Budapesti Értéktőzsdére bevezetett részvények |
 
-| 30LA041312 | Szabályozott piacra bevezetett részvények - Más szabályozott piacra bevezetett részvények |
+| 30LA041312 | Szabályozott piacra bevezetett részvények – más szabályozott piacra bevezetett részvények |
 
 | 30LA04132 | Szabályozott piacra be nem vezetett részvények |
 
-| 30LA0414101 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Likviditási alap |
+| 30LA0414101 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó likviditási alap |
 
-| 30LA0414102 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Pénzpiaci alap |
+| 30LA0414102 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó pénzpiaci alap |
 
-| 30LA0414103 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Rövid kötvényalap |
+| 30LA0414103 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó rövid kötvényalap |
 
-| 30LA0414104 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Hosszú kötvényalap |
+| 30LA0414104 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó hosszú kötvényalap |
 
-| 30LA0414105 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Szabad futamidejű kötvényalap |
+| 30LA0414105 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó szabad futamidejű kötvényalap |
 
-| 30LA0414106 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kötvénytúlsúlyos vegyes alap |
+| 30LA0414106 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó kötvénytúlsúlyos vegyes alap |
 
-| 30LA0414107 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kiegyensúlyozott vegyes alap |
+| 30LA0414107 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó kiegyensúlyozott vegyes alap |
 
-| 30LA0414108 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Dinamikus vegyes alap |
+| 30LA0414108 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó dinamikus vegyes alap |
 
-| 30LA0414109 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Részvényalap |
+| 30LA0414109 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó részvényalap |
 
-| 30LA0414110 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Árupiaci alap |
+| 30LA0414110 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó árupiaci alap |
 
-| 30LA0414111 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Abszolút hozamú alap |
+| 30LA0414111 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó abszolút hozamú alap |
 
-| 30LA0414112 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Tőkevédett alap |
+| 30LA0414112 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó tőkevédett alap |
 
-| 30LA0414113 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Származtatott alap |
+| 30LA0414113 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó származtatott alap |
 
-| 30LA0414114 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Közvetlen ingatlanokba fektető alap |
+| 30LA0414114 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó közvetlen ingatlanokba fektető alap |
 
-| 30LA0414115 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Közvetett ingatlanokba fektető alap |
+| 30LA0414115 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó közvetett ingatlanokba fektető alap |
 
-| 30LA0414116 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kockázati tőkealap és magántőke alap |
+| 30LA0414116 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó kockázati tőkealap és magántőkealap |
 
-| 30LA0414201 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Likviditási alap |
+| 30LA0414117 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó kötvényalap |
 
-| 30LA0414202 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Pénzpiaci alap |
+| 30LA0414118 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó részvényalap |
 
-| 30LA0414203 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Rövid kötvényalap |
+| 30LA0414119 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó vegyes értékpapíralap |
 
-| 30LA0414204 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Hosszú kötvényalap |
+| 30LA0414120 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó tőkevédett alap |
 
-| 30LA0414205 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Szabad futamidejű kötvényalap |
+| 30LA0414121 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó abszolút hozamú alap |
 
-| 30LA0414206 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kötvénytúlsúlyos vegyes alap |
+| 30LA0414122 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó unikális alap |
 
-| 30LA0414207 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kiegyensúlyozott vegyes alap |
+| 30LA0414123 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó indexkövető alap |
 
-| 30LA0414208 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Dinamikus vegyes alap |
+| 30LA0414124 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó árupiaci alap |
 
-| 30LA0414209 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Részvényalap |
+| 30LA0414125 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó alapok alapja |
 
-| 30LA0414210 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Árupiaci alap |
+| 30LA0414126 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó vegyes alap |
 
-| 30LA0414211 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Abszolút hozamú alap |
+| 30LA0414127 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó ingatlanalap |
 
-| 30LA0414212 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Tőkevédett alap |
+| 30LA0414128 | Hazai kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó származtatott alap |
 
-| 30LA0414213 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Származtatott alap |
+| 30LA0414201 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – likviditási alap |
 
-| 30LA0414214 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Közvetlen ingatlanokba fektető alap |
+| 30LA0414202 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – pénzpiaci alap |
 
-| 30LA0414215 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Közvetett ingatlanokba fektető alap |
+| 30LA0414203 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – rövid kötvényalap |
 
-| 30LA0414216 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír - Kockázati tőkealap és magántőke alap |
+| 30LA0414204 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – hosszú kötvényalap |
+
+| 30LA0414205 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – szabad futamidejű kötvényalap |
+
+| 30LA0414206 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – kötvénytúlsúlyos vegyes alap |
+
+| 30LA0414207 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – kiegyensúlyozott vegyes alap |
+
+| 30LA0414208 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – dinamikus vegyes alap |
+
+| 30LA0414209 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – részvényalap |
+
+| 30LA0414210 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – árupiaci alap |
+
+| 30LA0414211 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – abszolút hozamú alap |
+
+| 30LA0414212 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – tőkevédett alap |
+
+| 30LA0414213 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – származtatott alap |
+
+| 30LA0414214 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – közvetlen ingatlanokba fektető alap |
+
+| 30LA0414215 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – közvetett ingatlanokba fektető alap |
+
+| 30LA0414216 | Külföldi kibocsátású befektetési jegy és egyéb kollektív befektetési értékpapír – kockázati tőkealap és magántőke alap |
 
 | 30LA0415 | Egyéb értékpapírok |
 
@@ -608,7 +634,7 @@
 
 | 31D107, illetve 31D109 31D113 | Tárgynegyedévben szabályozott piacon teljesült (illetve továbbított) megbízások száma összesen – azonnali ügyletek (db) Tárgynegyedévben szabályozott piacon kívül teljesült (illetve továbbított) megbízások száma összesen – azonnali ügyletek (db) Az ügyféltől felvett és továbbított megbízások, valamint az ügyfél javára végrehajtott megbízások. Nem kell figyelembe venni azokat a megbízásokat, amelyek csupán az ügyletek elszámolására vonatkoznak, vagyis amikor az ügyfél az adatszolgáltató bevonása nélkül, közvetlenül kötötte az ügyletet a partnerével. Rendszeres internalizálás a tárgynegyedévben A 35B táblában jelentett forgalomból a rendszeres internalizálás keretében teljesített megbízások értéke. |
 
-## 1.14. 31D2 Idegen tulajdonú értékpapírok állománya piaci értéken és a tárgynapi értékpapírtranszferek
+## 1.14.[^13] 31D2 Idegen tulajdonú értékpapírok állománya piaci értéken és a tárgynapi értékpapírtranszferek
 
 ## A tábla kitöltése
 
@@ -638,15 +664,19 @@
 
 ## Kitöltésére a 31D22 sornál leírtak alkalmazandók azzal, hogy az ott szereplő transzferekkel ellentétes irányú értékpapírmozgásokra vonatkozó adatokat szükséges jelenteni.
 
-## A befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika” kódtár alapján kell elvégezni, az alábbiak figyelembevételével.
+## 31D2141 és 31D2142 sor alábontása
 
-## Az egyes befektetési alapok kategóriába sorolásának kiegészítő szabályai:
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika” kódtár alapján, a 78/2014. (III. 14.) Korm. rendelet hatálya alá tartozó befektetési alapok besorolását az MNB honlapján közzétett „Befektetési politika kódtára a 78/2014. (III. 14.) Korm. rendelet szerint” kell elvégezni, az alábbiak figyelembevételével.
+
+## A befektetési jegyeket az őket kibocsátó alap kategóriájának megfelelően kell figyelembe venni.
+
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapnak kell tekinteni a 78/2014. (III. 14.) Korm. rendelet 1/A. §-ában, illetve 1/L. §-ában nevesített, az (EU) 2017/1131 európai parlamenti és tanácsi rendelet által szabályozott pénzpiaci alapot, illetve a zártkörű befektetési alapot és a nyilvános, belépési korláttal rendelkező ingatlanalapot.
+
+## A 78/2014. (III. 14.) Korm. rendelet hatálya alá nem tartozó befektetési alapok kategóriába sorolásának kiegészítő szabályai:
 
 ## a) kötvény- és pénzpiaci alap nem tartalmazhat részvénytípusú eszközöket; a határidős eladással fedezett részvények ebből a szempontból kötvényjellegű eszköznek minősíthetők, az eszköz futamideje ilyenkor megegyezik a határidős ügylet hátralévő lejárati idejével;
 
-## b) a befektetési jegyeket az őket kibocsátó alap kategóriájának megfelelően kell figyelembe venni;
-
-## c) a befektetési alapokba fektető alap besorolását a mögöttes termék kategóriájának megfelelően kell figyelembe venni.
+## b) a befektetési alapokba fektető alap besorolását a mögöttes termék kategóriájának megfelelően kell figyelembe venni.
 
 ## 1.15. 32A Befektetési vállalkozás – Eredménykimutatás
 
@@ -1908,7 +1938,7 @@
 
 ## 12. oszlop A típus lehetséges értékei: befektetési alap – „BA”, pénztári portfólió – „PP”, egyéb – „E”. A pénztári portfólióba az Öpt. szerinti pénztárakat, valamint az Mpt. szerinti magánnyugdíjpénztárakat kell besorolni. Minden portfóliót, amelyik nem tartozik a befektetési alapok, illetve a pénztári portfóliók közé sem, az egyéb („E”) kategóriába kell sorolni.
 
-## 1.31.[^11] 38_TAX A befektetési vállalkozások által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
+## 1.31.[^14] 38_TAX A befektetési vállalkozások által a Taxonómia rendelet 8. cikke alapján közzéteendő kulcsfontosságú teljesítménymutatók (KPI-k) összefoglalása
 
 ## A tábla kitöltése
 
@@ -2044,7 +2074,9 @@
 
 ## 5. A jelentés kitöltését segítő módszertani útmutatást az MNB a honlapján teszi közzé.
 
-4. melléklet az 58/2023. (XI. 24.) MNB rendelethez[^12]
+4. melléklet az 58/2023. (XI. 24.) MNB rendelethez[^15]
 
-[^11]: A 3. melléklet II. pont 1.31. alpont címe a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
-[^12]: A 4. melléklet a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^12]: A 3. melléklet II. pont 1.6. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. melléklet II. pont 1.14. alpontja a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^14]: A 3. melléklet II. pont 1.31. alpont címe a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
+[^15]: A 4. melléklet a 20/2024. (VI. 10.) MNB rendelet 2. § (2) bekezdése szerint módosított szöveg.
