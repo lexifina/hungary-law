@@ -4,7 +4,7 @@
 
 (2) A szakértő a szakvéleményt – a kirendelésben foglaltaknak megfelelően – írásban vagy szóban terjeszti elő. A szakvélemény papír alapon vagy elektronikus kapcsolattartás keretében kézbesíthető a hatóság részére.
 
-(3) Az elektronikus úton való kapcsolattartásra az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezéseit kell alkalmazni.
+(3) Az elektronikus úton való kapcsolattartásra a Dáptv. rendelkezéseit kell alkalmazni.
 
 (4) A szakvéleménynek tartalmaznia kell
 

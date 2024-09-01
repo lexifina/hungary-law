@@ -68,7 +68,7 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 1.20.2. indult fegyelmi eljárás során kiszabott fegyelmi büntetés;
 
-1.21. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
+1.21. a Dáptv. szerinti hivatalos elérhetőség, ha a szakértő elektronikus kapcsolattartásra köteles vagy azt vállalja;
 
 1.22. az igazságügyi szakértő tevékenységével kapcsolatos közleményei („közlemények”);
 
@@ -90,7 +90,7 @@ Az igazságügyi szakértői névjegyzék tartalma
 
 2.5. elektronikus kézbesítési cím,
 
-2.6. az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőség,
+2.6. a Dáptv. szerinti hivatalos elérhetőség,
 
 2.7. szakterület,
 

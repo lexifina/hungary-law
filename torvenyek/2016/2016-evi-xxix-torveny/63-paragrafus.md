@@ -18,4 +18,4 @@ e) a kamarai tagság 69. § (1) és (1a) bekezdésében meghatározott okból t�
 
 (4) A Kamara hiánypótlásra felhívást a kérelem beérkezésétől számított nyolc napon belül bocsáthat ki, amelyben legfeljebb harmincnapos határidőt adhat a hiánypótlás teljesítésére.
 
-(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
+(5) A Kamara az alapszabályában vagy kamarai szabályzatában meghatározhatja azon ügyeket, amelyek intézése során akkor is a Dáptv. elektronikus ügyintézéssel kapcsolatos rendelkezéseinek alkalmazásával jár el, ha az ügyfél a kamara tagja vagy alkalmazottja és az eljárás nem minősül a közigazgatási hatósági ügynek.
