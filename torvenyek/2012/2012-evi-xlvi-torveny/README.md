@@ -53,3 +53,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-46-00-00
 | 2024-03-25 | 2023. évi CXVI. törvény | 2012-46-00-00.46 |
 | 2024-05-13 | 2024. évi XXVII. törvény | 2012-46-00-00.52 |
 | 2024-05-17 | 2024. évi XIX. törvény | 2012-46-00-00.51 |
+| 2024-09-01 | 2024. évi XII. törvény | 2012-46-00-00.50 |

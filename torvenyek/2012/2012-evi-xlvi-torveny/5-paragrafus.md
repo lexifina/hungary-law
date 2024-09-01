@@ -22,7 +22,7 @@ a) kormányrendeletben meghatározott szervezeteknek a nemzeti távközlési há
 
 b) az a) pont alá nem tartozó szervezeteknek tevékenységük ellátása céljából, a földmérési és térinformatikai államigazgatási szervvel megkötött adatszolgáltatási szerződés alapján, az adatlekérdezést végzők megfelelő azonosítása mellett,
 
-c) természetes személyeknek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatás segítségével a személyre szabott ügyintézési felületen keresztül
+c) természetes személyeknek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus azonosítási szolgáltatás segítségével a személyre szabott ügyintézési felületen keresztül
 
 biztosítja.
 
