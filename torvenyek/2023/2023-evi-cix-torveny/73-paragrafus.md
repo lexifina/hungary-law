@@ -4,7 +4,9 @@
 
 (2)
 
-(3)
+(3) A kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) 91. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A kormányzati igazgatási szerv a munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkör tekintetében ingyenesen biztosítja a kormánytisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt.”
 
 (4)
 
