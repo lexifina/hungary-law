@@ -1,5 +1,9 @@
-## 6.[^11]
+## 6. Az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet módosítása
 
-11. §
+11. § Nem lép hatályba az állam működésének további egyszerűsítésével összefüggő egyes kormányrendeletek módosításáról szóló 561/2023. (XII. 14.) Korm. rendelet
 
-[^11]: A 6. alcím a 12. § (3) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+a) 40. §-a,
+
+b) 41. §-a,
+
+c) 2. melléklete.

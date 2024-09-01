@@ -1,3 +1,3 @@
-1. melléklet a 113/2024. (V. 14.) Korm. rendelethez[^12]
+1. melléklet a 113/2024. (V. 14.) Korm. rendelethez[^10]
 
-[^12]: Az 1. melléklet a 12. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
+[^10]: Az 1. melléklet a 12. § (4) bekezdése alapján 2026. január 1-jén lép hatályba.
