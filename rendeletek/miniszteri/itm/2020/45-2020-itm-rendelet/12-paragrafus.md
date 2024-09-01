@@ -2,8 +2,16 @@
 
 (2) A kapcsolattartás módjáról és a kézbesítés rendjéről a NÚSZ Zrt. és a pótdíj fizetésére kötelezett az (1) bekezdésben foglaltaktól eltérően is megállapodhat.
 
-(3) A címzett a kézbesítési vélelem beálltáról történő tudomásszerzés napjától számított 15 napon belül, de legkésőbb a kézbesítési vélelem beálltát követő 150 napon belül kifogást terjeszthet elő a NÚSZ Zrt.-nél. Ha a kifogásban a címzett hitelt érdemlően igazolja, hogy a megküldött küldeményt önhibáján kívül nem tudta átvenni a címzés helyén, számára a 3. melléklet szerinti alap pótdíj megfizetésére 60 napos póthatáridőt kell megállapítani. Ennek postai úton történő közlése esetén az (1) bekezdésben foglaltak az irányadóak.
+(3)[^31] A címzett a kézbesítési vélelem beálltáról történő tudomásszerzés napjától számított 15 napon belül, de legkésőbb a kézbesítési vélelem beálltát követő 150 napon belül kifogást terjeszthet elő a NÚSZ Zrt.-nél. Ha a kifogásban a címzett hitelt érdemlően igazolja, hogy a megküldött küldeményt önhibáján kívül nem tudta átvenni a címzés helyén, számára az alap pótdíj megfizetésére 60 napos póthatáridőt kell megállapítani. Ennek postai úton történő közlése esetén az (1) bekezdésben foglaltak az irányadóak.
 
-(4) E rendelet eltérő rendelkezése hiányában a pótdíj a kiszabásáról történő tudomásszerzéstől, legfeljebb azonban az (1) bekezdés szerinti felszólításnak a kézbesítésétől esedékes. A pótdíj mértékének alapját a 3. melléklet tartalmazza.
+(4)[^32] E rendelet eltérő rendelkezése hiányában a pótdíj a kiszabásáról történő tudomásszerzéstől, legfeljebb azonban az (1) bekezdés szerinti felszólításnak a kézbesítésétől esedékes. A pótdíj fizetésére kötelezett a pótdíj esedékessé válásától számított 60 napon belül alap pótdíjat, a pótdíj esedékessé válásától számított 60. napot követően emelt pótdíjat fizet.
+
+(5)[^33] Az alap pótdíj mértéke a 8. § (1) bekezdés a) pontjában meghatározott díjkategóriára érvényes, a 3. § (2) bekezdés d) pontjában meghatározott jogosultság mindenkori árának – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítés pontossággal meghatározott 45%-a.
+
+(6)[^34] Az emelt pótdíj mértéke a 8. § (1) bekezdés a) pontjában meghatározott díjkategóriára érvényes, a 3. § (2) bekezdés d) pontjában meghatározott jogosultság mindenkori árának – a matematikai kerekítési szabályok alkalmazásával – tízforintos kerekítés pontossággal meghatározott 155%-a.
 
 [^30]: A 12. § (1) bekezdése a 19/2022. (IX. 19.) TIM rendelet 3. § (5) bekezdésével megállapított szöveg.
+[^31]: A 12. § (3) bekezdése a 24/2024. (VII. 31.) ÉKM rendelet 2. §-a szerint módosított szöveg.
+[^32]: A 12. § (4) bekezdése a 24/2024. (VII. 31.) ÉKM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^33]: A 12. § (5) bekezdését a 24/2024. (VII. 31.) ÉKM rendelet 1. § (1) bekezdése iktatta be.
+[^34]: A 12. § (6) bekezdését a 24/2024. (VII. 31.) ÉKM rendelet 1. § (1) bekezdése iktatta be.
