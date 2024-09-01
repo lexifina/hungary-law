@@ -18,7 +18,7 @@ e) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
 a) az egyéni vállalkozó székhelye szerinti illetékességgel hatósági ellenőrzést folytat,
 
-b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és biztonságos kézbesítési szolgáltatáshoz regisztrációt biztosít az egyéni vállalkozói bejelentést személyesen kezdeményező, elektronikus azonosítással és biztonságos kézbesítési szolgáltatással nem rendelkező bejelentő számára, valamint
+b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és ajánlott elektronikus kézbesítési szolgáltatáshoz regisztrációt biztosít az egyéni vállalkozói bejelentést személyesen kezdeményező, elektronikus azonosítással és ajánlott elektronikus kézbesítési szolgáltatással nem rendelkező bejelentő számára, valamint
 
 c) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 

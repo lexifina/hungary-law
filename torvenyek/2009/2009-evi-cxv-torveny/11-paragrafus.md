@@ -26,7 +26,7 @@ k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vá
 
 l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
 
-m) az egyéni vállalkozónak az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.
+m) az egyéni vállalkozónak a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti hivatalos elérhetőségét.
 
 (1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
