@@ -1,6 +1,6 @@
 ## 30. Követelés lefoglalása
 
-48. § (1) Az adóhatóság az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti tárhellyel rendelkező, a Vht. 110. § (1) bekezdése szerinti harmadik személyek részére a követelésfoglalásról szóló okiratokat elektronikus úton kézbesíti.
+48. § (1) Az adóhatóság a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti tárhellyel rendelkező, a Vht. 110. § (1) bekezdése szerinti harmadik személyek részére a követelésfoglalásról szóló okiratokat elektronikus úton kézbesíti.
 
 (2) A Vht. 110. § (1) bekezdése szerinti harmadik személy a részére elektronikusan megküldött követelésfoglalással kapcsolatban a Vht. által előírt nyilatkozatot és annak mellékleteit elektronikus úton küldi meg az adóhatóság részére.
 
