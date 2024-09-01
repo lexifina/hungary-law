@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-98-00-00
 | 2023-07-07 | 2023. évi LIII. törvény | 2006-98-00-00.65 |
 | 2024-01-01 | 2023. évi XCI. törvény | 2006-98-00-00.64 |
 | 2024-05-11 | 2024. évi XXV. törvény | 2006-98-00-00.67 |
+| 2024-09-01 | 2024. évi XII. törvény | 2006-98-00-00.66 |
