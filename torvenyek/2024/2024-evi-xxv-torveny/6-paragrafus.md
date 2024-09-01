@@ -1,1 +1,1 @@
-### 6. §
+6. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 35/P. § (2) bekezdésében az „(1) bekezdésben” szövegrész helyébe az „(1) és (1a) bekezdésben” szöveg lép.
