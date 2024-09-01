@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2021-43-00-00
 | 2023-02-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2021-43-00-00.11 |
 | 2024-01-01 | 2023. évi CXI. törvény | 2021-43-00-00.13 |
 | 2024-04-25 | 2024. évi IX. törvény | 2021-43-00-00.14 |
+| 2024-09-01 | 2024. évi XII. törvény | 2021-43-00-00.15 |
