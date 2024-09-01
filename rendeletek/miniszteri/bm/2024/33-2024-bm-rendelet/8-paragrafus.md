@@ -1,0 +1,1 @@
+8. § A személyi állomány tagjának a fogvatartottakkal való érintkezése csak a szolgálati tevékenységre irányulhat, velük magánbeszélgetést nem folytathat, előttük sem szolgálati, sem magánügyeit nem beszélheti meg, a fogvatartott ügyében, ügyére vonatkozóan annak kapcsolattartójával csak hivatalos kapcsolatot tarthat fenn.
