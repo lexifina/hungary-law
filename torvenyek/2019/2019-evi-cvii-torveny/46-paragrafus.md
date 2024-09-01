@@ -30,7 +30,7 @@ j) biztosítani annak lehetőségét, hogy a köztisztviselő érdekképviseleti
 
 (3) A fogyatékossággal élő, illetve a megváltozott munkaképességű köztisztviselő foglalkoztatása során a munkáltatónak gondoskodnia kell az észszerű alkalmazkodás feltételeinek biztosításáról.
 
-(4) A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt.
+(4) A munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.
 
 (5) A különleges jogállású szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
 
