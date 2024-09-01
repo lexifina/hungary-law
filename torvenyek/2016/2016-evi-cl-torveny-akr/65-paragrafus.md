@@ -2,7 +2,7 @@
 
 ### 65. § [Az iratra vonatkozó szabályok]
 
-(1) A hatóság, ha a tényállás tisztázása során szükséges, és az az Eüsztv. alapján nem szerezhető be – a 36. § (2) bekezdésben meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására.
+(1) A hatóság, ha a tényállás tisztázása során szükséges, és az a Dáptv. alapján nem szerezhető be – a 36. § (2) bekezdésben meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására.
 
 (2) Ha törvény vagy kormányrendelet másként nem rendelkezik, az ügyfél az iratot másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik.
 

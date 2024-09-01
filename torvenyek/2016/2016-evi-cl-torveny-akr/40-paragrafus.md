@@ -2,7 +2,7 @@
 
 Automatikus döntéshozatalnak van helye, ha
 
-a) az Eüsztv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
+a) a Dáptv. szerinti automatikus döntéshozatali eljárás feltételei fennállnak és nincs ellenérdekű ügyfél, vagy
 
 b) a kérelem tekintetében
 

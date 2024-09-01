@@ -4,7 +4,7 @@
 
 (1) A hatóság
 
-a) írásban, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy
+a) írásban, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben (a továbbiakban: Dáptv.) meghatározott elektronikus úton (a továbbiakban együtt: írásban), vagy
 
 b) személyesen – ideértve az összeköttetés közvetlenségét, kölcsönösségét, folyamatos kép- és hangkapcsolatot biztosító telekommunikációs eszköz alkalmazását, ha az az adott eljárási cselekmény lefolytatására alkalmas –, illetve írásbelinek nem minősülő elektronikus úton (a továbbiakban együtt: szóban)
 
