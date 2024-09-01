@@ -71,3 +71,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-183-00-00
 | 2023-12-27 | 2023. évi CVII. törvény | 2005-183-00-00.81 |
 | 2024-01-01 | 2023. évi CVII. törvény | 2005-183-00-00.82 |
 | 2024-05-13 | 2024. évi XXVI. törvény | 2005-183-00-00.84 |
+| 2024-09-01 | 2024. évi XII. törvény | 2005-183-00-00.83 |
