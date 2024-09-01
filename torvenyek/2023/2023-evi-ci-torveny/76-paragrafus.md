@@ -1,3 +1,3 @@
-76. § (1) A formalizálható igénytípusokra – ahol az igény teljesítésére vonatkozó döntés algoritmus alapján meghatározható – a NAVÜ az E-ügyintézési tv. 11. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat.
+76. § (1) A formalizálható igénytípusokra – ahol az igény teljesítésére vonatkozó döntés algoritmus alapján meghatározható – a NAVÜ a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 21. § (1) bekezdése szerinti automatikus döntéshozatali eljárást alkalmazhat.
 
 (2) A NAVÜ az igény teljesítéséhez a közfeladatot ellátó szervtől átvett adatot a 14. § (2) bekezdése szerinti esetekben jogosult feladatai ellátása céljából a Nemzeti Adatplatformon tárolni és azokat az adatot átadó közfeladatot ellátó szerv hozzájárulása és továbbá díj fizetése nélkül a feladatai elvégzése során felhasználni.
