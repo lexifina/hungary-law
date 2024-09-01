@@ -1,1 +1,1 @@
-131/L. § A jogi képviselő 2023. január 1-jétől a cégbejegyzésre (változásbejegyzésre) irányuló kérelmet és minden egyéb beadványt az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, a Pp. rendelkezéseinek megfelelő alkalmazásával is benyújthatja. E határidőig a cégbejegyzési (változásbejegyzési) eljárás során kizárólag a IV. Fejezet 2. cím szerinti elektronikus kapcsolattartás szabályai alkalmazhatóak.
+### 131/L. §
