@@ -36,9 +36,9 @@ ba) a nyilvántartás vezetésének szakszerűségét érintően az a) pont aa) 
 
 bb) az irányítási feladatkörébe tartozó közlekedési igazgatást és nyilvántartást érintő szakpolitikai döntések megalapozásához, norma alkotási tevékenység előkészítéséhez és a jogszabályok hatályosulásának vizsgálatához tájékoztatást kérhet a Nyilvántartótól – személyes adatok kivételével – a nyilvántartás működéséről.
 
-(6)[^9] A közlekedésrendészetért felelős miniszter szakmai ellenőrzést gyakorol a közlekedési igazgatási feladatok ellátása felett.
+(6)[^9] A Miniszterelnöki Kabinetirodát vezető miniszter szakmai ellenőrzést gyakorol a közlekedési igazgatási feladatok ellátása felett.
 
-(7)[^10] A fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok közúti közlekedési nyilvántartási és igazgatási feladatköreinek gyakorlásával összefüggésben – a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásával, és a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoport tekintetében – az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésrendészetért felelős miniszter gyakorolja.
+(7)[^10] A fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok közúti közlekedési nyilvántartási és igazgatási feladatköreinek gyakorlásával összefüggésben – a származás-ellenőrzéssel, az előzetes eredetiségvizsgálattal, az útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartásával, és a közúti közlekedési előéleti pontrendszerrel összefüggő ügycsoport tekintetében – az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a Miniszterelnöki Kabinetirodát vezető miniszter gyakorolja.
 
 [^1]: Az 1. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 360/2019. (XII. 30.) Korm. rendelet 94. § (4) bekezdés a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
@@ -48,5 +48,5 @@ bb) az irányítási feladatkörébe tartozó közlekedési igazgatást és nyil
 [^6]: Az 1. § (3) bekezdését az 544/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^7]: Az 1. § (4) bekezdését a 70/2015. (III. 30.) Korm. rendelet 183. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés a)–b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (5) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be.
-[^9]: Az 1. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be.
-[^10]: Az 1. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja szerint módosított szöveg.
+[^9]: Az 1. § (6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be, szövege a 217/2024. (VII. 31.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^10]: Az 1. § (7) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 130. § a) pontja, a 217/2024. (VII. 31.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

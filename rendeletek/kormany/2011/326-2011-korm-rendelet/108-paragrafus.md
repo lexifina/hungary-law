@@ -12,7 +12,7 @@
 
 (5)[^520] A forgalomból kivonást kezdeményező hatóság a 101. § (1) bekezdés j) pontban meghatározott esetben a kivonásra okot adó körülmény megszűnéséről elektronikus úton haladéktalanul értesíti a közlekedési igazgatási hatóságot. Az értesítés alapján a forgalomból kivont járművet, a forgalomba helyezés igazgatási szolgáltatási díjának megfizetése nélkül hivatalból forgalomba kell helyezni. Az értesítéssel egyenértékű, ha a közlekedés igazgatási hatóság az ellenőrző hatóság által vezetett nyilvántartásba történő bekérdezéssel értesül a bírság megfizetésének tényéről.
 
-(6)[^521] A 101. § (1) bekezdés k) pontja alapján forgalomból kivont jármű forgalomba helyezése iránt benyújtott kérelem alapján indult eljárásban az ügyfelet költségmentesség illeti meg.
+(6)[^521]
 
 (7)[^522] Az (1), a (3) és az (5) bekezdésben meghatározott hivatalból történő forgalomba helyezést követően a jármű a közúti forgalomban akkor vehet részt, ha a forgalomban tartásához szükséges, jogszabályban előírt feltételek fennállnak.
 
@@ -22,5 +22,5 @@
 [^518]: A 108. § (2b) bekezdését a 440/2016. (XII. 16.) Korm. rendelet 19. § (4) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 368. § l) és r) pontja, az 572/2020. (XII. 9.) Korm. rendelet 45. § 36. pontja szerint módosított szöveg.
 [^519]: A 108. § (4) bekezdése az 572/2020. (XII. 9.) Korm. rendelet 45. § 37. pontja szerint módosított szöveg.
 [^520]: A 108. § (5) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^521]: A 108. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 154. § (16) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^521]: A 108. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 154. § (16) bekezdése iktatta be, a 221/2024. (VII. 31.) Korm. rendelet 6. §-a hatályon kívül helyezte.
 [^522]: A 108. § második (6) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be, szövege a 164/2016. (VI. 23.) Korm. rendelet 5. §-ával megállapított szöveg, egyidejűleg a 108. § eredeti (6) bekezdésének számozását (7) bekezdésre változtatta.

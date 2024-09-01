@@ -276,6 +276,6 @@
 
 ## 270. A Magyar Honvédség kezelésében lévő autóbusz vezetéséhez külön jogszabály alapján megszerzett vezetési jogosultság, a 21. életév betöltését követően egyéb autóbuszok vezetésére is jogosít
 
-9. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^621]
+9. melléklet a 326/2011. (XII. 28.) Korm. rendelethez[^622]
 
-[^621]: A 9. mellékletet az 544/2013. (XII. 30.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
+[^622]: A 9. mellékletet az 544/2013. (XII. 30.) Korm. rendelet 43. § c) pontja hatályon kívül helyezte.
