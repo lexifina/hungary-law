@@ -1,0 +1,1 @@
+8/E. § A középiskolát – a közúti közlekedésről szóló 1988. évi I. törvény 18. § (2b) és (8b) bekezdése alapján – a középiskolai tanfolyam és vizsga ellátásával összefüggésben történő adatkezelése tekintetében képző szervnek és vizsgaközpontnak kell tekinteni.

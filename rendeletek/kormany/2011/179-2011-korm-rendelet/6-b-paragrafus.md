@@ -1,8 +1,8 @@
-## 6/B. [^49] A Közlekedési Szakértői Testület
+## 6/B. [^51] A Közlekedési Szakértői Testület
 
 6/B. § (1) A Közlekedési Szakértői Testület (a továbbiakban: Testület) az e rendeletben és a közúti járművezetők és a közúti közlekedési szakemberek képzésének és vizsgáztatásának részletes szabályait tartalmazó miniszteri rendeletben meghatározott feladatok tekintetében a közlekedési hatóság szakmai tanácsadó, véleményező, döntés-előkészítő testülete. A Testület szakértői eljárásával közreműködik a közlekedési hatóság tevékenységében.
 
-(2)[^50] Az (1) bekezdés szerinti szakértői eljárása során a Testület szakmailag véleményezi és javaslatot tesz
+(2)[^52] Az (1) bekezdés szerinti szakértői eljárása során a Testület szakmailag véleményezi és javaslatot tesz
 
 a) a közúti járművezetők és a közúti közlekedési szakemberek képzésével kapcsolatban az alkalmazható e-learning keretrendszerek és digitális tananyagok,
 
@@ -18,7 +18,7 @@ f) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 meghatározására.
 
-(2a)[^51] A Testület a lefolytatott szakértői eljárás eredményét, a (2) bekezdés szerinti e-learning keretrendszerek és digitális tananyagok, tansegédletek, vizsgafeladatok, vizsgakérdések, kérdésbankok, elektronikus eszközök, képzési program, valamint szimulátorok alkalmazhatóságára vonatkozó javaslatát tartalmazó szakértői véleményt a közlekedési hatósággal írásban közli.
+(2a)[^53] A Testület a lefolytatott szakértői eljárás eredményét, a (2) bekezdés szerinti e-learning keretrendszerek és digitális tananyagok, tansegédletek, vizsgafeladatok, vizsgakérdések, kérdésbankok, elektronikus eszközök, képzési program, valamint szimulátorok alkalmazhatóságára vonatkozó javaslatát tartalmazó szakértői véleményt a közlekedési hatósággal írásban közli.
 
 (3) A Testület a (2) bekezdésben meghatározott szakértői eljárásán kívül javaslatot tesz:
 
@@ -28,11 +28,11 @@ b) az egyes képzések tanterveire, azok módosítására,
 
 c) a képzés és vizsgáztatás során alkalmazható, alkalmazandó technológiákra, azok műszaki követelményeire,
 
-d)[^52] a közlekedési hatóság által hozzá intézett szakmai kérdések megoldására.
+d)[^54] a közlekedési hatóság által hozzá intézett szakmai kérdések megoldására.
 
-(4)[^53] A Testület elnökből és 8 tagból áll. A Testület elnökét és tagjait a miniszter kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát a közlekedési hatóság a honlapján közzéteszi.
+(4)[^55] A Testület elnökből és 8 tagból áll. A Testület elnökét és tagjait a miniszter kéri fel. A Testület tagjai függetlenek, feladatkörükben nem utasíthatóak. A Testület elnökének és tagjainak névsorát a közlekedési hatóság a honlapján közzéteszi.
 
-(5)[^54] A felkérés kilenc évre szól. A felkérés több alkalommal is megismételhető.
+(5)[^56] A felkérés kilenc évre szól. A felkérés több alkalommal is megismételhető.
 
 (6) A felkérés megszűnik:
 
@@ -46,19 +46,19 @@ d) a felkérésben megjelölt határidő elteltével.
 
 (7) A Testület elnöke és tagja felmenthető, ha önhibájából egymást követő négy alkalommal a Testület ülésén való megjelenési kötelezettségének nem tesz eleget. A Testület tagjának felmentéséről – a Testület elnökének javaslatára – és a Testület elnökének felmentéséről a miniszter dönt.
 
-(8)[^55] A Testület elnöke a felkérésről a miniszterhez címzett nyilatkozattal bármikor lemondhat, mely a tagsági jogviszonyát nem érinti. A miniszter által felkért tag a miniszterhez, a további tagok a közlekedési hatósághoz címzett nyilatkozattal bármikor lemondhatnak tagságukról.
+(8)[^57] A Testület elnöke a felkérésről a miniszterhez címzett nyilatkozattal bármikor lemondhat, mely a tagsági jogviszonyát nem érinti. A miniszter által felkért tag a miniszterhez, a további tagok a közlekedési hatósághoz címzett nyilatkozattal bármikor lemondhatnak tagságukról.
 
-(9)[^56] A Testület ügyrendjét maga határozza meg, amelyet a közlekedési hatóság hagy jóvá. Az ügyrendet a közlekedési hatóság hivatalos honlapján közzé kell tenni.
+(9)[^58] A Testület ügyrendjét maga határozza meg, amelyet a közlekedési hatóság hagy jóvá. Az ügyrendet a közlekedési hatóság hivatalos honlapján közzé kell tenni.
 
 (10) A Testület döntéseit, javaslatait írásba foglalja. A javaslatot meg kell indokolni, és mellékelni kell a kisebbségi véleményt is.
 
 (11) A Testület költségvetését – ideértve a Testület elnökének és a tagok díjazását – a közlekedési hatóság saját költségvetésében tervezi.
 
-[^49]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
-[^50]: A 6/B. § (2) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^51]: A 6/B. § (2a) bekezdését a 141/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
-[^52]: A 6/B. § (3) bekezdés d) pontja a 141/2023. (IV. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
-[^53]: A 6/B. § (4) bekezdése a 248/2019. (X. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^54]: A 6/B. § (5) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
-[^55]: A 6/B. § (8) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
-[^56]: A 6/B. § (9) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
+[^51]: A 6/B. alcímet (6/B. §) a 118/2013. (IV. 23.) Korm. rendelet 7. §-a iktatta be.
+[^52]: A 6/B. § (2) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^53]: A 6/B. § (2a) bekezdését a 141/2023. (IV. 24.) Korm. rendelet 3. §-a iktatta be.
+[^54]: A 6/B. § (3) bekezdés d) pontja a 141/2023. (IV. 24.) Korm. rendelet 4. § c) pontja szerint módosított szöveg.
+[^55]: A 6/B. § (4) bekezdése a 248/2019. (X. 24.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^56]: A 6/B. § (5) bekezdése a 248/2019. (X. 24.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
+[^57]: A 6/B. § (8) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^58]: A 6/B. § (9) bekezdése a 141/2023. (IV. 24.) Korm. rendelet 4. § e) pontja szerint módosított szöveg.
