@@ -54,7 +54,7 @@ l) a kizárólag orvostudományi kutatás keretében nyújtott ellátások,
 
 m) a biztosított kísérőjének részére az egészségügyi szolgáltató által biztosított szállás és étkezés, kivéve, ha a biztosított a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló törvény szerint fogyatékos személynek minősül,
 
-n) a járművezetői alkalmassági vizsgálatok,
+n) a közúti közlekedésről szóló törvényben meghatározott középiskolás járművezetők kivételével a járművezetői alkalmassági vizsgálatok,
 
 o) a lőfegyvertartásra vonatkozó orvosi alkalmassági vizsgálatok,
 

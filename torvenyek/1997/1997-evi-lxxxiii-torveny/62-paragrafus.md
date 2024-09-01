@@ -4,7 +4,7 @@
 
 (1a) Az egyéni vállalkozónak, a mezőgazdasági őstermelőnek és a Tbj. 87. § (3) bekezdése szerinti természetes személynek a pénzbeli egészségbiztosítási ellátás és a baleseti táppénz iránti kérelmet, továbbá a gyermek születésének napján nem biztosított szülő nőnek és vér szerinti apának a 42/E. § szerinti gyermekgondozási díj megállapítása iránti kérelmet az egészségbiztosítóhoz kell benyújtania.
 
-(1b) A kérelemnek az (1a) bekezdés szerinti előterjesztése során az eljárást kezdeményező természetes személy ügyfél ügyintézési rendelkezést tesz, amelyben nyilatkozik arról, hogy vállalja-e az Eüsztv. 14. §-a szerinti követelmények teljesítését. Elektronikus úton történő kapcsolattartás választása esetén az egészségbiztosítási szerv az eljárás során keletkező döntéseit, iratait, nyilatkozatait az Eüsztv. 15. § (2) bekezdése szerint kézbesíti.
+(1b) A kérelemnek az (1a) bekezdés szerinti előterjesztése során az eljárást kezdeményező természetes személy ügyfél ügyintézési rendelkezést tesz, amelyben nyilatkozik arról, hogy vállalja-e a Dáptv. 25–27. §-a szerinti követelmények teljesítését. Elektronikus úton történő kapcsolattartás választása esetén az egészségbiztosítási szerv az eljárás során keletkező döntéseit, iratait, nyilatkozatait a Dáptv. 25–27. §-a szerint kézbesíti.
 
 (1c) Az (1b) bekezdést az (1) bekezdés szerinti kérelem előterjesztése során akkor kell alkalmazni, ha a foglalkoztató kifizetőhellyel nem rendelkezik.
 
