@@ -90,7 +90,7 @@
 
 32. a szakirányú oktatásról való mulasztás igazolásának, pótlásának módját, az igazolatlan mulasztás következményeit, az igazolatlan mulasztások esetén követendő eljárás szabályait,
 
-33.
+33. a tiltott tárgyak és a használatában korlátozott tárgyak – szakképző intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint az oktató vagy a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,
 
 34. a szakképzési munkaszerződés tartalmi elemeit,
 
