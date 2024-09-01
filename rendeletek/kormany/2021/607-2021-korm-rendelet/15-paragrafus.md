@@ -1,3 +1,0 @@
-15. § (1) A NAVÜ – a 14. § (3) bekezdése szerinti tájékoztatással összhangban – az elutasítással nem érintett adatkörök tekintetében teljesíti a tájékoztatási szolgáltatást az igénylő részére.
-
-(2) Az (1) bekezdésben foglaltakra is figyelemmel, az adatelemzés várható időtartamáról, valamint a tájékoztatási szolgáltatási igény kielégítésének várható időpontjáról és a díj várható mértékéről a NAVÜ a 14. § (3) bekezdése szerinti tájékoztatással egy időben tájékoztatja az igénylőt. Ha az igénylő a tájékoztatás alapján az igényét 5 munkanapon belül nem vonja vissza, a NAVÜ megkezdi a szolgáltatás teljesítését.
