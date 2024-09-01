@@ -1,3 +1,1 @@
-26. §[^27]
-
-[^27]: A 26. § a 35. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+26. § Hatályát veszti a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló 82/2013. (XII. 29.) EMMI rendelet 1. melléklete.
