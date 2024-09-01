@@ -30,7 +30,7 @@ E törvény és – ha törvény másként nem rendelkezik – az adóról és a
 
 10. be nem jelentett foglalkoztatott: az adózó tevékenységében személyesen közreműködő természetes személy, akire vonatkozóan a munkáltató, illetve kifizető biztosítotti bejelentési kötelezettségének nem tett eleget, illetve a munkáltató, kifizető nem tudja bizonyítani, hogy a tevékenységében közreműködő jogviszonya kívül esik a bejelentési kötelezettségen,
 
-11. biztonságos kézbesítési szolgáltatás: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti biztonságos kézbesítési szolgáltatás,
+11. ajánlott elektronikus kézbesítési szolgáltatás: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti ajánlott elektronikus kézbesítési szolgáltatás,
 
 12. csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet alapján nyújtható támogatás,
 
@@ -158,7 +158,7 @@ c) ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye
 
 45. tartózkodási hely: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti tartózkodási hely,
 
-46. tárhely: a gazdálkodó szervezet hivatalos elérhetősége vagy a természetes személynek az elektronikus azonosítási szolgáltatáshoz tartozó, az Eüsztv. 14. § (6) bekezdésének megfelelő tárhelye,
+46. tárhely: a gazdálkodó szervezet hivatalos elérhetősége vagy a természetes személynek az elektronikus azonosítási szolgáltatáshoz tartozó, a Dáptv. 25. §-ának megfelelő tárhelye,
 
 47. telephely: az a hely, ahol az adóköteles tevékenységet folytatják, ideértve különösen a vállalkozó állandó üzleti (üzemi), termelő-, szolgáltatótevékenységének helyét függetlenül attól, hogy a telephely a vállalkozás székhelyétől különböző közigazgatási területen található,
 
