@@ -1,4 +1,4 @@
-35/A. §[^42] (1) A fizető fél pénzforgalmi szolgáltatója legkésőbb az azonnali átutalási megbízásnak minősülő fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül eljuttatja a megbízás adattartalmát a kedvezményezett pénzforgalmi szolgáltatójához.
+35/A. §[^45] (1) A fizető fél pénzforgalmi szolgáltatója legkésőbb az azonnali átutalási megbízásnak minősülő fizetési megbízás 7. § (4) bekezdése szerinti átvételétől számított öt másodpercen belül eljuttatja a megbízás adattartalmát a kedvezményezett pénzforgalmi szolgáltatójához.
 
 (2) Ha az azonnali átutalási megbízáshoz kapcsolódóan azonnali átutalás kiegészítő adata is megadásra került, a pénzforgalmi szolgáltató a fizetési megbízás teljes adattartalmával együtt ezen adatot is továbbítja a fizetési művelet teljesítésében közreműködő többi pénzforgalmi szolgáltató részére.
 
@@ -20,6 +20,24 @@
 
 (11) Ha a fizető fél az azonnali átutalási megbízást a kedvezményezett másodlagos számlaazonosítójának a feltüntetésével nyújtotta be, a fizető fél pénzforgalmi szolgáltatója a Pft. szerinti utólagos tájékoztatásban a kedvezményezett adataként ezen másodlagos számlaazonosítót tünteti fel.
 
-(12) Az azonnali átutalási szolgáltatást nyújtó pénzforgalmi szolgáltató az azonnali átutalási megbízás teljesítéséhez kapcsolódó szolgáltatás nyújtásakor az 5. mellékletben meghatározott egységes arculati elemet alkalmazza.
+(12)[^46] A pénzforgalmi szolgáltató az azonnali átutalási megbízáshoz kapcsolódó szolgáltatás nyújtásakor az 5. mellékletben meghatározott egységes arculati elemet alkalmazza.
 
-[^42]: A 35/A. §-t a 65/2023. (XII. 15.) MNB rendelet 5. §-a iktatta be.
+(13)[^47] Az egységes adatbeviteli megoldás útján benyújtott azonnali átutalási megbízás esetében a fizető fél pénzforgalmi szolgáltatója az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszer működtetője útján, az általa meghatározott módon és az általa megjelölt, a kedvezményezettel szerződéses jogviszonyban álló pénzforgalmi szolgáltatót tájékoztatja a fizetési művelet teljesítésének visszautasításáról vagy a fizetési művelet teljesítéséről
+
+a) a (6) bekezdés szerinti tájékoztatás kézhezvételét,
+
+b) a fizetési megbízás 9. § (9) bekezdése szerinti visszautasítását, vagy
+
+c) ugyanazon pénzforgalmi szolgáltató által vezetett fizetési számlák között teljesített fizetési művelet esetében a fizetési művelet teljesítését vagy visszautasítását
+
+követő öt másodpercen belül.
+
+(14)[^48] A pénzforgalmi szolgáltató a (13) bekezdés szerinti tájékoztatás kézhezvételét követően haladéktalanul értesíti a kedvezményezettet a fizetési művelet teljesítésének visszautasításáról vagy a fizetési művelet teljesítéséről.
+
+(15)[^49] Az azonnali átutalási szolgáltatást nyújtó pénzforgalmi szolgáltató biztosítja, hogy a hordozható többfunkciós eszközön elérhető készpénz-helyettesítő fizetési eszköz hitelesítését követően a 6. melléklet 1. pont a) alpontjában meghatározott QR-kód alapú adatbeviteli megoldás beolvasási funkcióját legfeljebb egy művelettel el lehessen érni.
+
+[^45]: A 35/A. §-t a 65/2023. (XII. 15.) MNB rendelet 5. §-a iktatta be.
+[^46]: A 35/A. § (12) bekezdése a 41/2024. (VIII. 29.) MNB rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^47]: A 35/A. § (13) bekezdését a 65/2023. (XII. 15.) MNB rendelet – 23/2024. (VI. 14.) MNB rendelet 2. § (2) bekezdés a) pontja szerint módosított – 7. §-a iktatta be.
+[^48]: A 35/A. § (14) bekezdését a 65/2023. (XII. 15.) MNB rendelet – 23/2024. (VI. 14.) MNB rendelet 2. § (2) bekezdés b) pontja szerint módosított – 7. §-a iktatta be.
+[^49]: A 35/A. § (15) bekezdését a 65/2023. (XII. 15.) MNB rendelet 7. §-a iktatta be.

@@ -66,8 +66,8 @@
 
 ## 20172C20000035_1
 
-4. melléklet a 35/2017. (XII. 14.) MNB rendelethez[^63]
+4. melléklet a 35/2017. (XII. 14.) MNB rendelethez[^71]
 
 Azonnali átutalás kiegészítő adatai
 
-[^63]: A 4. mellékletet a 65/2023. (XII. 15.) MNB rendelet 12. § (1) bekezdése iktatta be.
+[^71]: A 4. mellékletet a 65/2023. (XII. 15.) MNB rendelet 12. § (1) bekezdése iktatta be.

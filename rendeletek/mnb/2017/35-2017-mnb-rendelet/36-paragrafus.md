@@ -1,4 +1,4 @@
-36. §[^43] (1) A kedvezményezett a pénzforgalmi szolgáltatóval történt megállapodás alapján, a pénzforgalmi szolgáltatóhoz való továbbítás céljából benyújtott fizetési kérelem formájában azonnali átutalást kezdeményezhet a fizető félnél.
+36. §[^50] (1) A kedvezményezett a pénzforgalmi szolgáltatóval történt megállapodás alapján, a pénzforgalmi szolgáltatóhoz való továbbítás céljából benyújtott fizetési kérelem formájában azonnali átutalást kezdeményezhet a fizető félnél.
 
 (2) A kedvezményezett meghatározza a fizetési kérelemben annak érvényességét, amely legfeljebb a fizetési kérelem benyújtását követő két hónap lehet, továbbá feltünteti az azonnali átutalási megbízás megadásához szükséges valamennyi adatot.
 
@@ -30,4 +30,17 @@
 
 (16) E § előírásai alkalmazandók abban az esetben is, ha a kedvezményezett és a fizető fél ugyanazon pénzforgalmi szolgáltató fizetési kérelem szolgáltatását veszi igénybe.
 
-[^43]: A 36. § a 65/2023. (XII. 15.) MNB rendelet 8. §-ával megállapított szöveg.
+(17)[^51] A fizetési kérelem szolgáltatást nyújtó pénzforgalmi szolgáltató ezen szolgáltatás nyújtása során
+
+a) az azonnali átutalásokra vonatkozó, az 5. mellékletben meghatározott egységes arculati elemeket alkalmazza;
+
+b) közvetlenül a hordozható többfunkciós eszközön elérhető készpénz-helyettesítő fizetési eszköz hitelesítését követően
+
+ba) a fizető félnek jelzi az olyan, a fizető fél részére beérkezett fizetési kérelmet, amely nem került visszautasításra, és amely alapján nem került azonnali átutalási megbízás teljesítésre, valamint
+
+bb) biztosítja, hogy a fizetési kérelemmel kezdeményezett azonnali átutalási megbízás a fizető fél részéről végzett legfeljebb négy művelet útján benyújtható legyen;
+
+c) biztosítja a fizető fél részére megküldött fizetési kérelmek között az utólagos kereshetőséget.
+
+[^50]: A 36. § a 65/2023. (XII. 15.) MNB rendelet 8. §-ával megállapított szöveg.
+[^51]: A 36. § (17) bekezdését a 65/2023. (XII. 15.) MNB rendelet 9. §-a iktatta be.

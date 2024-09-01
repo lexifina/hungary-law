@@ -12,21 +12,23 @@
 
 4. EGT-n belüli fizetési művelet: az a fizetési művelet, amelynek lebonyolításánál mind a fizető fél, mind a kedvezményezett pénzforgalmi szolgáltatója, vagy a teljesítést végző egyetlen pénzforgalmi szolgáltató az EGT területén nyújtja pénzforgalmi szolgáltatását,
 
-5.[^2] fizetési kérelem: a kedvezményezett által a fizető félnek címzett fizetés kezdeményezésére vonatkozó, az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerben szabványosított üzenet, amely legalább az azonnali átutalási megbízás megadásához szükséges valamennyi adatot tartalmazza,
+4a.[^2] egységes adatbeviteli megoldás: a 6. mellékletben meghatározott olyan dolog vagy eljárás, amely lehetővé teszi azonnali átutalási megbízás benyújtásához szükséges adatok vagy azok egy részének egy készpénz-helyettesítő fizetési eszközhöz történő automatizált eljuttatását,
+
+5.[^3] fizetési kérelem: a kedvezményezett által a fizető félnek címzett fizetés kezdeményezésére vonatkozó, az azonnali átutalási megbízás elszámolását és teljesítését végző belföldi fizetési rendszerben szabványosított üzenet, amely legalább az azonnali átutalási megbízás megadásához szükséges valamennyi adatot tartalmazza,
 
 6. hitelesítő tábla: az MNB által a belföldi fizetési rendszerek közvetlen és közvetett résztvevőiről vezetett, a belföldi fizetési forgalomban adott fizetési megbízások megfelelő címzésének biztosítása céljából a pénzforgalmi szolgáltatók és a belföldi fizetési rendszereket működtetők részére közzétett nyilvántartás,
 
-6a.[^3] hordozható többfunkciós eszköz: többfunkciós eszköz, amely lehetővé teszi fizikai jelenléttel járó vásárlási helyzetben is fizetési művelet kezdeményezését és jóváhagyását, így különösen a táblagép, az okostelefon, -óra és -karkötő, ide nem értve a hordozható személyi számítógépet (a továbbiakban: laptop),
+6a.[^4] hordozható többfunkciós eszköz: többfunkciós eszköz, amely lehetővé teszi fizikai jelenléttel járó vásárlási helyzetben is fizetési művelet kezdeményezését és jóváhagyását, így különösen a táblagép, az okostelefon, -óra és -karkötő, ide nem értve a hordozható személyi számítógépet (a továbbiakban: laptop),
 
 7. IBAN: a fizetési számlák jelölésére szolgáló nemzetközi pénzforgalmi jelzőszám, amely a fizetési számla nemzetközi azonosítására szolgál,
 
-7a.[^4] jóváírás: a pénzforgalmi szolgáltató által a fizetési műveletek teljesítésére alkalmazott informatikai rendszertől függetlenül a fizetési művelet összegének a kedvezményezett rendelkezésére bocsátása akként, hogy a pénzforgalmi szolgáltató a fizetési műveletet értéknappal (jóváírási értéknap) látja el, valamint a kedvezményezettnek a pénzforgalmi szolgáltatóval szembeni követelését véglegesen és visszavonhatatlanul megemeli a fizetési művelet összegével oly módon, hogy azzal a kedvezményezett ezt követően azonnal, teljeskörűen rendelkezni tudjon,
+7a.[^5] jóváírás: a pénzforgalmi szolgáltató által a fizetési műveletek teljesítésére alkalmazott informatikai rendszertől függetlenül a fizetési művelet összegének a kedvezményezett rendelkezésére bocsátása akként, hogy a pénzforgalmi szolgáltató a fizetési műveletet értéknappal (jóváírási értéknap) látja el, valamint a kedvezményezettnek a pénzforgalmi szolgáltatóval szembeni követelését véglegesen és visszavonhatatlanul megemeli a fizetési művelet összegével oly módon, hogy azzal a kedvezményezett ezt követően azonnal, teljeskörűen rendelkezni tudjon,
 
 8. konverzió: különböző pénznemek közötti átváltás,
 
-8a.[^5] kötegelt fizetési kérelem: minden olyan, egynél több fizetési kérelem, amely a kedvezményezettől a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltatójához egyidejűleg érkezik be, vagy amelyet a kedvezményezett egyidejűleg nyújt be,
+8a.[^6] kötegelt fizetési kérelem: minden olyan, egynél több fizetési kérelem, amely a kedvezményezettől a kedvezményezett fizetési számláját vezető pénzforgalmi szolgáltatójához egyidejűleg érkezik be, vagy amelyet a kedvezményezett egyidejűleg nyújt be,
 
-9.[^6] kötegelt megbízás: az azonnali átutalás szempontjából kötegelt fizetési megbízásnak minősül minden olyan átutalási megbízás, amikor a fizető féltől a fizető fél pénzforgalmi szolgáltatójához egyidejűleg egynél több fizetési megbízás érkezik be, vagy a fizető fél egyidejűleg egynél több fizetési megbízást hagy jóvá,
+9.[^7] kötegelt megbízás: az azonnali átutalás szempontjából kötegelt fizetési megbízásnak minősül minden olyan átutalási megbízás, amikor a fizető féltől a fizető fél pénzforgalmi szolgáltatójához egyidejűleg egynél több fizetési megbízás érkezik be, vagy a fizető fél egyidejűleg egynél több fizetési megbízást hagy jóvá,
 
 10. központi adatbázis: a számlatulajdonos nevének, az IBAN-nak és a rendelkezésre jogosult rendelkezése szerinti másodlagos számlaazonosítónak a nyilvántartása,
 
@@ -46,14 +48,15 @@
 
 18. terhelési nap: az a nap, amikor a pénzforgalmi szolgáltató az általa a fizető fél részére vezetett fizetési számlán nyilvántartott követelést a fizetési megbízás szerinti összeggel csökkenti.
 
-19.[^7] többfunkciós eszköz: az ügyfél birtokában lévő szöveges, beszéd-, képi, videó- vagy adatátvitelt lehetővé tévő eszköz, amely pénzforgalmi szolgáltatások igénybevételén kívül egyéb szolgáltatások igénybevételére is alkalmas, így különösen a laptop és a hordozható többfunkciós eszköz.
+19.[^8] többfunkciós eszköz: az ügyfél birtokában lévő szöveges, beszéd-, képi, videó- vagy adatátvitelt lehetővé tévő eszköz, amely pénzforgalmi szolgáltatások igénybevételén kívül egyéb szolgáltatások igénybevételére is alkalmas, így különösen a laptop és a hordozható többfunkciós eszköz.
 
 (2) Az (1) bekezdésben nem meghatározott fogalmakra a pénzforgalmi szolgáltatás nyújtásáról szóló törvény (a továbbiakban: Pft.) és a Hpt. rendelkezései alkalmazandók.
 
 [^1]: A 2. § (1) bekezdés 1a. pontját az 57/2022. (XII. 22.) MNB rendelet 1. § (1) bekezdése iktatta be.
-[^2]: A 2. § (1) bekezdés 5. pontja az 57/2022. (XII. 22.) MNB rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdés 6a. pontját a 65/2023. (XII. 15.) MNB rendelet 1. §-a iktatta be.
-[^4]: A 2. § (1) bekezdés 7a. pontját az 57/2022. (XII. 22.) MNB rendelet 1. § (4) bekezdése iktatta be.
-[^5]: A 2. § (1) bekezdés 8a. pontját a 44/2019. (XII. 17.) MNB rendelet 1. §-a iktatta be.
-[^6]: A 2. § (1) bekezdés 9. pontja a 10/2019. (II. 21.) MNB rendelet 1. §-ával megállapított szöveg.
-[^7]: A 2. § (1) bekezdés 19. pontját az 57/2022. (XII. 22.) MNB rendelet - a 65/2023. (XII. 15.) MNB rendelet 13. § (2) bekezdés b) pontja szerint módosított - 1. § (5) bekezdése iktatta be.
+[^2]: A 2. § (1) bekezdés 4a. pontját az 57/2022. (XII. 22.) MNB rendelet - a 65/2023. (XII. 15.) MNB rendelet 13. § (2) bekezdés a) pontja szerint módosított - 1. § (2) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdés 5. pontja az 57/2022. (XII. 22.) MNB rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés 6a. pontját a 65/2023. (XII. 15.) MNB rendelet 1. §-a iktatta be.
+[^5]: A 2. § (1) bekezdés 7a. pontját az 57/2022. (XII. 22.) MNB rendelet 1. § (4) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 8a. pontját a 44/2019. (XII. 17.) MNB rendelet 1. §-a iktatta be.
+[^7]: A 2. § (1) bekezdés 9. pontja a 10/2019. (II. 21.) MNB rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (1) bekezdés 19. pontját az 57/2022. (XII. 22.) MNB rendelet - a 65/2023. (XII. 15.) MNB rendelet 13. § (2) bekezdés b) pontja szerint módosított - 1. § (5) bekezdése iktatta be.

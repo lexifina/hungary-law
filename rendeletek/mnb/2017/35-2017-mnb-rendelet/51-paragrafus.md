@@ -12,8 +12,8 @@ b) a készpénzfelvételi utalvány formáját, adattartalmát, kiállításána
 
 (5) Ha a határidőn belül bemutatott készpénzfelvételi utalvány összegének kifizetéséhez szükséges pénzügyi fedezet a számlatulajdonos fizetési számláján nem áll rendelkezésre, a pénzforgalmi szolgáltató az érvénytelenített készpénzfelvételi utalványt a benyújtó részére teljesítetlenül visszaadja.
 
-(6)[^49] A készpénzfelvételi utalvány elvesztése, ellopása vagy megsemmisülése esetén a számlatulajdonos ezt a körülményt haladéktalanul írásban bejelenti a számlavezető pénzforgalmi szolgáltatónál. Ha a készpénzfelvételi utalvány más pénzforgalmi szolgáltató pénztáránál is beváltható, a bejelentést egyidejűleg ott is meg kell tenni. A pénzforgalmi szolgáltató a bejelentést 5 évig, de legfeljebb a fizetési számla megszűnéséig tartja nyilván.
+(6)[^57] A készpénzfelvételi utalvány elvesztése, ellopása vagy megsemmisülése esetén a számlatulajdonos ezt a körülményt haladéktalanul írásban bejelenti a számlavezető pénzforgalmi szolgáltatónál. Ha a készpénzfelvételi utalvány más pénzforgalmi szolgáltató pénztáránál is beváltható, a bejelentést egyidejűleg ott is meg kell tenni. A pénzforgalmi szolgáltató a bejelentést 5 évig, de legfeljebb a fizetési számla megszűnéséig tartja nyilván.
 
 (7) A számlatulajdonos a birtokában lévő felhasználatlanul maradt készpénzfelvételi utalványfüzeteket (utalványlapokat) a fizetési számlája megszűnésekor visszajuttatja a pénzforgalmi szolgáltatónak.
 
-[^49]: Az 51. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^57]: Az 51. § (6) bekezdése a 10/2019. (II. 21.) MNB rendelet 7. § (1) bekezdése szerint módosított szöveg.

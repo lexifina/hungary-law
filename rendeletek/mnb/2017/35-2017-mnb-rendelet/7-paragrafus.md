@@ -12,21 +12,21 @@ c) azon a napon kezdi meg, amikor a fizető fél a pénzforgalmi szolgáltatója
 
 az átvétel időpontjának ezt a megállapodásban meghatározott napot kell tekinteni. Amennyiben ez a megállapodásban meghatározott nap a fizető fél pénzforgalmi szolgáltatójánál nem munkanap, az átvétel időpontjának a következő munkanapot kell tekinteni.
 
-(2a)[^11] Amennyiben a pénzforgalmi szolgáltató a fizetési számla egyenlegéről többfunkciós eszközön elérhető készpénz-helyettesítő fizetési eszköz útján ad tájékoztatást az ügyfélnek, ekként legalább a szabad rendelkezésére álló, fizetési műveletek teljesítésének céljából felhasználható összeget jeleníti meg, amely összeget a pénzforgalmi szolgáltató a fizetési művelet teljesítését követően haladéktalanul − az ügyfél közreműködése nélkül – módosítani köteles.
+(2a)[^12] Amennyiben a pénzforgalmi szolgáltató a fizetési számla egyenlegéről többfunkciós eszközön elérhető készpénz-helyettesítő fizetési eszköz útján ad tájékoztatást az ügyfélnek, ekként legalább a szabad rendelkezésére álló, fizetési műveletek teljesítésének céljából felhasználható összeget jeleníti meg, amely összeget a pénzforgalmi szolgáltató a fizetési művelet teljesítését követően haladéktalanul − az ügyfél közreműködése nélkül – módosítani köteles.
 
-(3)[^12] Ha törvény vagy a számlatulajdonossal történt megállapodás alapján a fizető fél pénzforgalmi szolgáltatója a fizetési megbízást sorba állítja, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a 6. § (1) bekezdése szerinti munkanapon a fizető fél fizetési számláján rendelkezésre áll. Amennyiben a fedezet rendelkezésre állása a 6. § (4) bekezdése szerinti időszakban következik be, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – a 6. § (4) bekezdése szerinti munkanap kezdő időpontja.
+(3)[^13] Ha törvény vagy a számlatulajdonossal történt megállapodás alapján a fizető fél pénzforgalmi szolgáltatója a fizetési megbízást sorba állítja, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a 6. § (1) bekezdése szerinti munkanapon a fizető fél fizetési számláján rendelkezésre áll. Amennyiben a fedezet rendelkezésre állása a 6. § (4) bekezdése szerinti időszakban következik be, a fizetési megbízás átvételének időpontja – a (3a) bekezdésben foglalt kivétellel – a 6. § (4) bekezdése szerinti munkanap kezdő időpontja.
 
-(3a)[^13] Sorban álló felhatalmazó levélen alapuló beszedési megbízás, hatósági átutalási megbízás és átutalási végzés átvételének időpontja az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a fizető fél fizetési számláján rendelkezésre áll, és az a belföldi fizetési rendszer, amelynek útján a fizető fél pénzforgalmi szolgáltatója a felhatalmazó levélen alapuló beszedési megbízást, a hatósági átutalást vagy az átutalási végzés alapján történő átutalást teljesíti, üzemel.
+(3a)[^14] Sorban álló felhatalmazó levélen alapuló beszedési megbízás, hatósági átutalási megbízás és átutalási végzés átvételének időpontja az az időpont, amikor a teljesítéshez (részteljesítéshez) szükséges fedezet a fizető fél fizetési számláján rendelkezésre áll, és az a belföldi fizetési rendszer, amelynek útján a fizető fél pénzforgalmi szolgáltatója a felhatalmazó levélen alapuló beszedési megbízást, a hatósági átutalást vagy az átutalási végzés alapján történő átutalást teljesíti, üzemel.
 
 (4) Az azonnali átutalási megbízás átvételének időpontja az az időpont, amikor a fizető fél pénzforgalmi szolgáltatójához a fizetési megbízás beérkezett, és a hitelesítés megtörtént.
 
 (5) Az átutalási végzés átvételének időpontja az az időpont, amikor az átutalási végzés alapján a fizető fél pénzforgalmi szolgáltatójának az átutalási vagy kifizetési kötelezettsége beáll.
 
-(6)[^14] A fizető fél pénzforgalmi szolgáltatója a fizetési megbízás (1)–(5) bekezdés szerinti átvételi időpontját megelőzően
+(6)[^15] A fizető fél pénzforgalmi szolgáltatója a fizetési megbízás (1)–(5) bekezdés szerinti átvételi időpontját megelőzően
 
 a) a fizető fél fizetési számláját a fizetési megbízás összegével nem terhelheti meg, és
 
-b)[^15] a kedvezményezett útján kezdeményezett fizetési megbízás, a sorban álló felhatalmazó levélen alapuló beszedési megbízás, hatósági átutalási megbízás, valamint az átutalási végzés kivételével a fizetési számláján a fizetési megbízás összegét nem különítheti el.
+b)[^16] a kedvezményezett útján kezdeményezett fizetési megbízás, a sorban álló felhatalmazó levélen alapuló beszedési megbízás, hatósági átutalási megbízás, valamint az átutalási végzés kivételével a fizetési számláján a fizetési megbízás összegét nem különítheti el.
 
 (7) A pénzforgalmi szolgáltató a fizetési megbízás beérkezésekor a megbízás adatai mellett a fizetési megbízás beérkezésének időpontját (év, hó, nap, óra, perc) is rögzíti és tárolja.
 
@@ -38,11 +38,11 @@ b)[^15] a kedvezményezett útján kezdeményezett fizetési megbízás, a sorba
 
 (11) A fizetési megbízás kötegelten is benyújtható, ha az egyes fizetési megbízások összetartozása egyértelműen megállapítható.
 
-(12)[^16] A pénzforgalmi szolgáltató a fizetési számla megterhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó. Jelen bekezdés alkalmazásában az azonnali átutalási megbízás benyújtása a számlatulajdonos eltérő rendelkezésének minősül.
+(12)[^17] A pénzforgalmi szolgáltató a fizetési számla megterhelésére vonatkozó fizetési megbízásokat – törvény vagy a számlatulajdonos eltérő rendelkezésének hiányában – az átvétel sorrendjében teljesíti. Az átvétel sorrendjére a pénzforgalmi szolgáltató nyilvántartása az irányadó. Jelen bekezdés alkalmazásában az azonnali átutalási megbízás benyújtása a számlatulajdonos eltérő rendelkezésének minősül.
 
-[^11]: A 7. § (2a) bekezdését az 57/2022. (XII. 22.) MNB rendelet 3. § (1) bekezdése iktatta be.
-[^12]: A 7. § (3) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^13]: A 7. § (3a) bekezdését a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdése iktatta be, szövege a 65/2023. (XII. 15.) MNB rendelet 3. §-ával megállapított szöveg.
-[^14]: A 7. § (6) bekezdése az 57/2022. (XII. 22.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^15]: A 7. § (6) bekezdés b) pontja a 65/2023. (XII. 15.) MNB rendelet 11. § a) pontja szerint módosított szöveg.
-[^16]: A 7. § (12) bekezdése a 60. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (2a) bekezdését az 57/2022. (XII. 22.) MNB rendelet 3. § (1) bekezdése iktatta be.
+[^13]: A 7. § (3) bekezdése a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^14]: A 7. § (3a) bekezdését a 10/2019. (II. 21.) MNB rendelet 3. § (1) bekezdése iktatta be, szövege a 65/2023. (XII. 15.) MNB rendelet 3. §-ával megállapított szöveg.
+[^15]: A 7. § (6) bekezdése az 57/2022. (XII. 22.) MNB rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^16]: A 7. § (6) bekezdés b) pontja a 65/2023. (XII. 15.) MNB rendelet 11. § a) pontja szerint módosított szöveg.
+[^17]: A 7. § (12) bekezdése a 60. § (1) bekezdésével megállapított szöveg.
