@@ -34,13 +34,13 @@ f) részt vesz a megfelelő munkahelyhez jutást elősegítő munkaerő-piaci pr
 
 g) a megfelelő munkahelyre szóló állásajánlatot elfogadja.
 
-(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési, továbbá a (9) bekezdés c) pontjában meghatározott bejelentési kötelezettségének az e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
+(9a) Az álláskereső a (9) bekezdés b) pontjában meghatározott jelentkezési, továbbá a (9) bekezdés c) pontjában meghatározott bejelentési kötelezettségének a Dáptv.-ben foglaltak szerint is eleget tehet.
 
 (9b) A cselekvőképtelen vagy a munkaviszonnyal összefüggő ügycsoportban, cselekvőképességében részlegesen korlátozott személy az együttműködési kötelezettségét törvényes képviselője útján teljesíti.
 
 (9c) A foglalkoztatást elősegítő szolgáltatások igénybevétele esetén, valamint – a (9a) bekezdésben foglaltak figyelembevételével – a (9) bekezdésben foglalt együttműködési kötelezettség keretében a személyes megjelenés kötelező.
 
-(9d) Az álláskereső a (9) bekezdés c) pontjában foglalt bejelentési kötelezettségének az e-ügyintézési tv.-ben foglaltak szerint is eleget tehet.
+(9d) Az álláskereső a (9) bekezdés c) pontjában foglalt bejelentési kötelezettségének a Dáptv.-ben foglaltak szerint is eleget tehet.
 
 (10) Az álláskeresési járadékra vagy nyugdíj előtti álláskeresési segélyre jogosult vagy abban részesülő álláskereső az 58. § (5) bekezdés d) pontjának 5. alpontjában meghatározott együttműködési kötelezettség keretében a 25. § (2) bekezdésében meghatározott megfelelő munkahelyet köteles elfogadni.
 
@@ -76,7 +76,7 @@ b) az 58. § (5) bekezdés d) pont 1–4. alpontjában meghatározott feltétele
 
 c) az álláskereső meghalt, az álláskereső elhalálozását követő naptól,
 
-d) az álláskereső jelentkezési kötelezettségének személyesen vagy az e-ügyintézési tv.-ben foglaltak szerint nem tesz eleget, a kötelezettség elmulasztásának napjától,
+d) az álláskereső jelentkezési kötelezettségének személyesen vagy a Dáptv.-ben foglaltak szerint nem tesz eleget, a kötelezettség elmulasztásának napjától,
 
 e) az álláskereső a (9) bekezdés c) és e)–g) pontjában, valamint a (10) bekezdésben foglalt együttműködési kötelezettségének nem tesz eleget, a kötelezettség elmulasztásának napjától,
 

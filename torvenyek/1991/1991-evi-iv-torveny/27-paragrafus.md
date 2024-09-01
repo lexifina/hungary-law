@@ -24,7 +24,7 @@ időtartamával.
 
 (3) Az álláskeresési járadék folyósításának leghosszabb időtartama 90 nap.
 
-(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: e-ügyintézési tv.) foglaltak szerint küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
+(4) Az álláskeresési járadék folyósításának kezdő napja az álláskeresőnek az állami foglalkoztatási szervnél történő jelentkezésének napja. Ha az álláskereső a személyes adatait – az állami foglalkoztatási szerv részére – a személyes jelentkezését megelőzően – a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.) foglaltak szerint küldte meg, az álláskeresési járadék folyósításának kezdő napja az adatoknak az állami foglalkoztatási szervhez történő megérkezésének a napja.
 
 (5) A nevelőszülői foglalkoztatási jogviszony abban az esetben minősül az (1) bekezdés szerinti jogosultsági időnek, ha annak időtartama alatt a nevelőszülő álláskeresési ellátásban nem részesül.
 
