@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-57-00-00
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2015-57-00-00.20 |
 | 2023-07-22 | 2023. évi XXXIX. törvény | 2015-57-00-00.21 |
 | 2024-01-01 | 2023. évi XCVIII. törvény | 2015-57-00-00.22 |
+| 2024-09-01 | 2024. évi XII. törvény | 2015-57-00-00.24 |
