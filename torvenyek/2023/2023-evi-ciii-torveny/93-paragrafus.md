@@ -1,1 +1,9 @@
-### 93. §
+93. § (1) Ha a bizalmi szolgáltató a 92. § (2) vagy (3) bekezdése szerinti kötelezettségeinek nem tesz eleget, a bizalmi felügyelet haladéktalanul elrendeli a bizalmi szolgáltató által kibocsátott tanúsítványok visszavonását és gondoskodik e tény közzétételéről, valamint kijelöli az átvevő bizalmi szolgáltatót. A bizalmi felügyelet ezzel kapcsolatos költségeit a bizalmi szolgáltatási tevékenységet befejező bizalmi szolgáltató köteles a bizalmi felügyelet erről szóló felszólításától számított 15 napon belül megtéríteni. Ha a bizalmi szolgáltatási tevékenységet befejező bizalmi szolgáltató e költségeket e határidőn belül nem téríti meg, a bizalmi felügyelet a költségek megtérítésére felhasználhatja a bizalmi szolgáltató által jogszabály alapján e célból biztosított pénzügyi biztosítékot.
+
+(2) Minősített bizalmi szolgáltatás esetén a bizalmi felügyelet elsősorban minősített bizalmi szolgáltatót jelöl ki átvevő bizalmi szolgáltatóként.
+
+(3) Ha a bizalmi szolgáltatás megszűnésekor a bizalmi felügyelet nyilvántartásában nincs megfelelő bizalmi szolgáltató, az átvevő bizalmi szolgáltató feladatait a bizalmi felügyelet látja el.
+
+(4) Ha a bizalmi szolgáltató ellen felszámolási, végelszámolási vagy kényszertörlési eljárás indult, a bizalmi szolgáltató haladéktalanul köteles erről és a felszámolóról vagy végelszámolóról tájékoztatni a bizalmi felügyeletet. A bizalmi felügyelet az eljárás időtartama alatt jogosult a felszámolótól, végelszámolótól vagy a kényszertörlési eljárást lefolytató cégbíróságtól a felszámolás, végelszámolás vagy a kényszertörlési eljárás állásáról tájékoztatást kérni. Ha a bizalmi szolgáltató a zárómérleg benyújtásáig nem teljesíti a 92. § (1) és (2) bekezdése szerinti kötelezettségeit, a bizalmi felügyelet kijelöli az átvevő bizalmi szolgáltatót.
+
+(5) A bizalmi felügyelet a bizalmi szolgáltatás nyújtásának megszüntetése esetén nyilvántartásából törli a bizalmi szolgáltatást, a bizalmi szolgáltató megszűnése esetén pedig törli valamennyi, az adott bizalmi szolgáltató által nyújtott, a nyilvántartásában szereplő bizalmi szolgáltatást.

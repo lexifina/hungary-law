@@ -1,1 +1,1 @@
-### 33. §
+33. § A jelen alcímben foglaltak nem alkalmazhatóak a büntetőeljárás, a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvényben foglalt eljárások, a büntető ügyekben alkalmazható közvetítői tevékenységről szóló törvény szerinti eljárás, a szabálysértési eljárás, a polgári perrendtartásról szóló törvény szerinti peres eljárás, valamint a bírósági és közjegyzői nemperes eljárás során.

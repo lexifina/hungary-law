@@ -1,1 +1,1 @@
-### 102. §
+102. § A 100. § (5) bekezdése szerinti bírság kiszabható akkor is, ha az elektronikus aláírással vagy bélyegzővel kapcsolatos bizalmi szolgáltatást nyújtó bizalmi szolgáltató nem teszi meg a saját elektronikus aláírás vagy bélyegző létrehozásához használt adatának megfelelő védelméhez szükséges intézkedéseket.

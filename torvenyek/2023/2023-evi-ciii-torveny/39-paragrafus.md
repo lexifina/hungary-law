@@ -12,25 +12,25 @@ a) a digitális szolgáltatás keretalkalmazás útján történő igénybevéte
 
 b) a digitális keretszolgáltatások használatának lehetőségét,
 
-c)
+c) az ügyfél ügyintézési rendelkezésének lekérdezését,
 
-d)
+d) a személyre szabott ügyintézési felületen keresztül történő ügyintézés lehetőségét,
 
-e)
+e) elektronikus azonosításhoz kötött szolgáltatás nyújtása esetén a központi azonosítási ügynök szolgáltatáson keresztül elérhető elektronikus azonosítási megoldások ügyfél általi használatát,
 
-f)
+f) a Kormány rendeletében meghatározott ajánlott elektronikus kézbesítési szolgáltatáson keresztül történő kézbesítést, a neki címzett üzenetek fogadását,
 
-g)
+g) az ügyfél által elektronikus úton tett jognyilatkozatok, elküldött iratok kézhezvételének jogszabályban meghatározott módon történő haladéktalan igazolását,
 
-h)
+h) a legalább fokozott biztonságú és közigazgatási követelményeknek megfelelő elektronikus aláírással ellátott, illetve elektronikus bélyegzővel ellátott elektronikus dokumentumok feldolgozását,
 
-i)
+i) e törvény szerint hitelesített dokumentumok előállítását,
 
-j)
+j) az ügyfél részére kézbesítendő iratok kézbesítését a 26. § szerint valamennyi típusú kézbesítés útján,
 
-k)
+k) a 9. § (2) bekezdés a)–i) pontjában foglalt szervek esetében az eljárásért fizetendő terhek elektronikus fizetését, és
 
-l)
+l) az elektronikus űrlapkitöltés-támogatási szolgáltatással létrehozott elektronikus űrlapok kezelését.
 
 (3) A 9. § (2) bekezdés a), b), d)–f) pontja, valamint a 80. § (1) bekezdés a)–h) pontja szerinti szervek kötelesek az (1) bekezdés szerinti információs rendszer folyamatos elérhetőségét biztosítani.
 

@@ -1,1 +1,17 @@
-### 97. §
+97. § (1) A bizalmi felügyelet eljárásai során sommás eljárásnak nincs helye, a hiánypótlásra a bizalmi felügyelet több alkalommal felhívhatja az ügyfelet, a döntés szóban nem közölhető.
+
+(2) Ha az eIDAS Rendelet vagy annak közvetlenül alkalmazandó uniós végrehajtási aktusa eltérően nem rendelkezik, a hatóság ügyintézési határideje 2 hónap.
+
+(3) Bizalmi felügyeletként első fokon a Nemzeti Média- és Hírközlési Hatóság Hivatala jár el, határozata ellen a Nemzeti Média- és Hírközlési Hatóság elnökéhez lehet fellebbezni.
+
+(4) A bizalmi felügyeletnek a nyilvántartással kapcsolatos tevékenységéért az e törvény végrehajtására kiadott rendeletben meghatározott igazgatási szolgáltatási díjat kell fizetni, amely a bizalmi felügyelet bevételét képezi.
+
+(5) A bizalmi felügyelet a hatáskörébe utalt feladatai ellátásához szükséges felmérések, elemzések és értékelések készítése céljából, határidő megjelölésével adatszolgáltatási kötelezettséget írhat elő az e törvény hatálya alá tartozó tevékenységet folytató bizalmi szolgáltatók számára. A bizalmi szolgáltató az adatokat a bizalmi felügyelet által megjelölt határidőre, a bizalmi felügyelet által kért formában, hiánytalanul és a valóságnak megfelelően köteles szolgáltatni. Ha az adatszolgáltató e kötelezettségnek nem tesz eleget, a bizalmi felügyelet a 99. § (3) bekezdés b) pont bb) alpontjában foglalt bírságot alkalmazhatja.
+
+(6) A bizalmi felügyelet köteles az általa meghatározott adatok kezeléséről és felhasználásáról, továbbá az adatkezelés jogszabályban meghatározott céljáról az adat bizalmi szolgáltatóját – az adatszolgáltatási kötelezettség előírásával, vagy a nem kötelező adatszolgáltatásról szóló felhívással egyidejűleg – tájékoztatni. Amennyiben az adatszolgáltatás elrendelése az (5) bekezdés alapján kötelező döntéssel történik, a bizalmi felügyelet köteles az adatszolgáltató figyelmét a nem határidőben vagy nem a megfelelő formátumban történő, hiányos, vagy nem a valóságnak megfelelő adatszolgáltatás jogkövetkezményeire felhívni, egyéb esetben a felhíváson feltüntetni, hogy az adatszolgáltatás nem kötelező.
+
+(7) A bizalmi felügyelet a bizalmi szolgáltatási tevékenység gyakorlásának időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi, hogy a minősített bizalmi szolgáltató természetes személy, illetve jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője, vezetője és alkalmazottja büntetlen előéletű-e, és nem áll-e bizalmi szolgáltatási tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt. A hatósági ellenőrzés céljából a bizalmi felügyelet adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a minősített bizalmi szolgáltató természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője, vezetője és alkalmazottja büntetlen előéletű-e, valamint, hogy a bizalmi szolgáltatási tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+
+(8) A bizalmi felügyelet a (7) bekezdés alapján megismert személyes adatokat a bizalmi szolgáltatási tevékenység gyakorlásának megszűnéséig vagy a minősített bizalmi szolgáltató jogi személy, jogi személyiséggel nem rendelkező szervezet esetén a vezető tisztségviselőnek, vezetőjének vagy alkalmazottjának a szervezettel fennálló jogviszonya megszűnéséig kezeli.
+
+(9) A bizalmi felügyelettől hatósági ellenőrzését az ügyfél nem kérheti. Hivatalból indított hatósági ellenőrzés során a bizalmi felügyelet a 99. § szerint jár el.
