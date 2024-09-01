@@ -38,7 +38,7 @@ c) a tartózkodásra jogosító engedély cseréje, illetve pótlása iránti k�
 
 d) a hatósági bizonyítvány iránti kérelem.
 
-(10) Ha a (7) bekezdés szerinti kérelemre induló eljárásban a harmadik országbeli állampolgár meghatalmazottja jogi képviselő vagy jogi személy, a kérelmet kizárólag az idegenrendészeti ügyindítási elektronikus felületen elektronikus regisztrálást követően lehet benyújtani.
+(10) Ha a (7) bekezdés szerinti kérelemre induló eljárásban a harmadik országbeli állampolgár meghatalmazottja jogi képviselő vagy jogi személy, a kérelmet kizárólag az idegenrendészeti ügyindítási elektronikus felületen lehet benyújtani.
 
 (11) A kézbesített kérelem akkor minősül az idegenrendészeti hatósághoz érkezettnek, ha a harmadik országbeli állampolgár vagy meghatalmazott képviselője
 
