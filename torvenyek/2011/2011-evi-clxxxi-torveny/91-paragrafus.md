@@ -16,7 +16,7 @@ f) a szervezet képviselőjének nevét, lakóhelyét,
 
 g) a képviselet terjedelmét és módját,
 
-h) a polgári perrendtartásról szóló törvény szerint gazdálkodó szervezetnek minősülő szervezetnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.
+h) a polgári perrendtartásról szóló törvény szerint gazdálkodó szervezetnek minősülő szervezetnek a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetőségét.
 
 i)
 
@@ -26,6 +26,6 @@ j) a szervezet típusát.
 
 (3) A bíróság a szervezetre vonatkozó adatot oly módon törli a nyilvántartásból, hogy a szervezetre vonatkozó adat a törlésre történő utalás mellett a nyilvántartásban látható maradjon, és a nyilvántartásból az adat törlésének oka és időpontja megállapítható legyen.
 
-(4) A bíróság az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
+(4) A bíróság az (1) bekezdés h) pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 (5)
