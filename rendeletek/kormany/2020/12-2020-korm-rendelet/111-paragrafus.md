@@ -4,8 +4,8 @@ a) a szakképző intézményre kiterjedő veszélyhelyzet esetében az igazgató
 
 b) a településre kiterjedő veszélyhelyzet esetében a jegyző, a fenntartó egyidejű értesítése mellett,
 
-c)[^212] a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a szakképzési államigazgatási szerv
+c)[^213] a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a szakképzési államigazgatási szerv
 
 rendkívüli szünetet rendel el.
 
-[^212]: A 111. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § c) pontja szerint módosított szöveg.
+[^213]: A 111. § c) pontja a 616/2022. (XII. 29.) Korm. rendelet 303. § c) pontja szerint módosított szöveg.
