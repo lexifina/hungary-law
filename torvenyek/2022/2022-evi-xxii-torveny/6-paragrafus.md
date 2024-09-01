@@ -14,6 +14,6 @@
 
 (7) A kormányhivatali aláírásminta-nyilvántartás kizárólag az aláírások egyezőségének ellenőrzése céljából, az (5) bekezdésben meghatározottak szerint használható fel, a kormányhivatali aláírásminta-nyilvántartásból adattovábbítást – e törvény eltérő rendelkezése hiányában – nem lehet teljesíteni.
 
-(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet az Eüsztv. szerinti elektronikus ügyintézési ponton vagy az Eüsztv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
+(8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet a Dáptv. szerinti elektronikus ügyintézési ponton vagy a Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
 (9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és vármegyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.

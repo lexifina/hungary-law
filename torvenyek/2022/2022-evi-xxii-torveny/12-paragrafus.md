@@ -1,6 +1,6 @@
 12. § (1) Az adatváltozás-kezelési szolgáltatás ügyfél általi igénybevételének feltétele
 
-a) az Eüsztv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás igénybevétele, és e szolgáltatáshoz kapcsolódó biztonságos kézbesítési szolgáltatáshoz kapcsolódó tárhely, és
+a) a Dáptv. szerinti, a Kormány által kötelezően biztosított valamely azonosítási szolgáltatás igénybevétele, és e szolgáltatáshoz kapcsolódó ajánlott elektronikus kézbesítési szolgáltatáshoz kapcsolódó tárhely, és
 
 b) az adatváltozás-kezelési szolgáltatónál történő regisztráció
 
@@ -8,7 +8,7 @@ ba) elektronikus azonosítást követően elektronikus kapcsolattartás útján 
 
 bb) a kormányablakban, személyesen.
 
-(2) Az adatváltozás-kezelési szolgáltató e szolgáltatás tekintetében az Eüsztv. szerinti elektronikus ügyintézést biztosító szervnek minősül, amely az (1) bekezdés b) pont ba) alpontja szerinti regisztráció, valamint az adatváltozás-kezelési szolgáltatás igénybevétele céljára elektronikus felületet biztosít.
+(2) Az adatváltozás-kezelési szolgáltató e szolgáltatás tekintetében a Dáptv. szerinti digitális szolgáltatást biztosító szervezetnek minősül, amely az (1) bekezdés b) pont ba) alpontja szerinti regisztráció, valamint az adatváltozás-kezelési szolgáltatás igénybevétele céljára elektronikus felületet biztosít.
 
 (3) Az adatváltozás-kezelési szolgáltatás csatlakozott szolgáltató általi igénybevételének előfeltétele
 

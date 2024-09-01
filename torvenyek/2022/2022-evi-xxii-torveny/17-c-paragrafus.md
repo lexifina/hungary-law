@@ -24,7 +24,7 @@ biztosító elektronikus felületet (a továbbiakban: Hazaváró Portál) műkö
 
 a) a családi és utónévvel, valamint elektronikus levelezési címmel történő regisztráció, vagy
 
-b) az Eüsztv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás használata.
+b) a Dáptv. szerinti, a Kormány által kötelezően biztosított valamely elektronikus azonosítási szolgáltatás használata.
 
 (5) Az ügyfél a Hazaváró Portálon keresztül az ügyintézés megkönnyítése céljából továbbíthatja az általa megjelölt kormányhivatal részére
 

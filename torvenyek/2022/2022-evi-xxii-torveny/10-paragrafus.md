@@ -14,4 +14,4 @@ f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűn
 
 erre irányuló megkeresés alapján adja át.
 
-(2) A kormányhivatali aláírásminta-nyilvántartásban kezelt adatok esetében – az 5–9. §-ban nem szabályozott kérdések tekintetében – az Eüsztv. 36. és 37. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni.
+(2) A kormányhivatali aláírásminta-nyilvántartásban kezelt adatok esetében – az 5–9. §-ban nem szabályozott kérdések tekintetében – a Dáptv. 15–17. §-ának adatkezelésre vonatkozó szabályait kell alkalmazni.
