@@ -36,7 +36,7 @@
 
 | □ Az elektronikus kommunikáció olyan eszközök és berendezések használatát igényli, amelyek nem általánosan hozzáférhetők. Ezen eszközök és berendezések korlátozás nélkül, teljes körűen, közvetlenül és díjmentesen elérhetők a következő címen: (URL) |
 
-| I.4)[^135] Az ajánlatkérő típusa |
+| I.4)[^137] Az ajánlatkérő típusa |
 
 | □ Központi szintű □ Regionális/helyi szintű □ Közjogi szervezet | □ Közszolgáltató □ Támogatott szervezet [Kbt. 5. § (2)–(3) bekezdés] □ Egyéb: |
 
@@ -190,7 +190,7 @@
 
 | 1 szükség szerinti számban ismételje meg 2 adott esetben 4 ha az információ ismert 20 súlyszám helyett fontosság is megadható 21 súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges |
 
-3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^136]
+3. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^138]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -352,5 +352,5 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^135]: A 2. melléklet I.4) pontja a 7/2024. (VII. 12.) KTM rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^136]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (3) bekezdése szerint módosított szöveg.
+[^137]: A 2. melléklet I.4) pontja a 7/2024. (VII. 12.) KTM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^138]: A 3. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (3) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (3) bekezdése szerint módosított szöveg.

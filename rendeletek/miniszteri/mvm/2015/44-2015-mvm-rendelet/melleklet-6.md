@@ -22,7 +22,7 @@
 
 ## 21súlyszám helyett fontosság is megadható; ha az ár az egyetlen értékelési szempont, súlyszám nem szükséges
 
-6. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^138]
+6. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^140]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -80,4 +80,4 @@ I. szakasz: Ajánlatkérő
 
 II. szakasz: Tárgy
 
-[^138]: A 6. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (5) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (5) bekezdésé szerint módosított szöveg.
+[^140]: A 6. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (5) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (5) bekezdésé szerint módosított szöveg.

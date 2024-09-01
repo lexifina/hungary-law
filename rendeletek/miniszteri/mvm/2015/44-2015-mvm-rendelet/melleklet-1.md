@@ -1,4 +1,4 @@
-1. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^133]
+1. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^135]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -150,4 +150,4 @@ IV. szakasz: Eljárás
 
 VI. szakasz: Kiegészítő információk
 
-[^133]: Az 1. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (1) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^135]: Az 1. melléklet a 10/2020. (VI. 26.) MvM rendelet 6. § (1) bekezdése, a 7/2024. (VII. 12.) KTM rendelet 5. § (1) bekezdése szerint módosított szöveg.

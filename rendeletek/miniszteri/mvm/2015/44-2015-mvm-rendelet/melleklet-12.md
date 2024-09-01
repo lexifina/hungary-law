@@ -10,7 +10,7 @@
 
 ## 2adott esetben
 
-12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^143]
+12. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^145]
 
 ## KÖZBESZERZÉSI ÉRTESÍTŐ
 
@@ -136,4 +136,4 @@ VI. szakasz: A szerződés módosításai
 
 VII. szakasz: Kiegészítő információk
 
-[^143]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (10) bekezdése szerint módosított szöveg.
+[^145]: A 12. melléklet a 43/2016. (XII. 30.) MvM rendelet 12. § (4) bekezdésével megállapított, a 10/2020. (VI. 26.) MvM rendelet 6. § (10) bekezdése szerint módosított szöveg.

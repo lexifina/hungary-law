@@ -1,129 +1,211 @@
-| Összegezés az ajánlatok elbírálásáról |
+15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^148]
 
-| I. szakasz: Ajánlatkérő |
+A részvételi jelentkezések elbírálására vonatkozó írásbeli összegezés adattartalma
 
-| I.1) Név és címek1 (jelölje meg az eljárásért felelős összes ajánlatkérőt) |
+1. Ajánlatkérő(k) adatai:
 
-| Hivatalos név: |
+1.1. Hivatalos név
 
-| Postai cím: |
+1.2. Nemzeti azonosító szám
 
-| Város: | Postai irányítószám: |
+1.3. A szervezet szervezeti egységének neve
 
-| II. szakasz: Tárgy |
+1.4. Postai irányítószám
 
-| II.1) Meghatározás |
+1.5. Város
 
-| II.1.1) A közbeszerzés tárgya: |
+1.6. Postai cím
 
-| II.2) A közbeszerzés mennyisége |
+1.7. Ország
 
-| II.2.1) A közbeszerzés mennyisége: |
+1.8. NUTS-kód
 
-| IV. szakasz: Eljárás |
+1.9. Kapcsolattartó személy
 
-| IV.1) Meghatározás |
+1.10. E-mail
 
-| IV.1.1) A Kbt. mely része, illetve fejezete szerinti eljárás került alkalmazásra: |
+1.11. Telefon
 
-| IV.1.2) Az eljárás fajtája: |
+1.12. Fax
 
-| IV.1.3) Tárgyalásos eljárás vagy versenypárbeszéd esetén az eljárás alkalmazását megalapozó körülmények ismertetése: |
+1.13. Az ajánlatkérő általános címe (URL)
 
-| IV.1.4) Hirdetmény nélküli tárgyalásos eljárás esetén az eljárás alkalmazását megalapozó körülmények ismertetése: |
+1.14. A felhasználói oldal címe (URL)
 
-| IV.2) Adminisztratív információk |
+1.15. Az ajánlatkérő típusa
 
-| IV.2.1) Az adott eljárásra vonatkozó közzététel2 A hirdetmény száma a Hivatalos Lapban:1 [ ][ ][ ][ ]/S [ ][ ][ ]-[ ][ ][ ][ ][ ][ ][ ] A hirdetmény száma a Közbeszerzési Értesítőben:1 [ ][ ][ ][ ][ ]/[ ][ ][ ][ ] (KÉ-szám/évszám) |
+1.16. Az ajánlatkérő szerv tevékenysége
 
-| IV.2.2) Hirdetmény közzététele nélkül induló eljárás esetén az eljárást megindító felhívás megküldésének, illetőleg a Közbeszerzési Hatóság tájékoztatásának napja:2 (éééé/hh/nn) |
+1.17. Szervezet szerepe
 
-| IV.2.3) Az előzetes piaci konzultációk eredményének ismertetése érdekében tett intézkedések ismertetése:2 |
+1.18. Szervezet alszerepe
 
-| IV.2.4) Elektronikustól eltérő kommunikációs eszközök alkalmazásának indoka:2 Közbeszerzési dokumentumok elektronikustól eltérő módon történő rendelkezésre bocsátásának indoka: |
+2. Lebonyolító szerv(ek) adatai:
 
-| V. szakasz: Az eljárás eredménye1 |
+2.1. Hivatalos név
 
-| A szerződés száma: [ ] Rész száma:2 [ ] Elnevezés: |
+2.2. Nemzeti azonosító szám
 
-| Az eljárás eredményes volt o igen o nem |
+2.3. Postai irányítószám
 
-| V.1 Eredménytelen eljárással kapcsolatos információ2 |
+2.4. Város
 
-| V.1.1) A befejezetlen eljárás oka o A közbeszerzési eljárást eredménytelennek minősítették. Az eredménytelenség indoka: o A szerződés megkötését megtagadták |
+2.5. Postai cím
 
-| V.1.2) A befejezetlen eljárást követően indul-e új eljárás o igen o nem |
+2.6. Ország
 
-| V.1.3) Az érvényes ajánlatot tevők2 Ajánlattevők neve és címe alkalmasságuk indokolása és ajánlatuknak az értékelési szempont szerinti tartalmi eleme(i): |
+2.7. NUTS-kód
 
-| V.1.4) Az érvénytelen ajánlatot tevők2 Az érvénytelen ajánlatot tevők neve, címe és az érvénytelenség indoka: |
+2.8. Kapcsolattartó személy
 
-| V.1.5) Az összeférhetetlenségi helyzet elhárítása érdekében az ajánlattevő(k) által tett intézkedések ismertetése:2 |
+2.9. E-mail
 
-| V.2 Az eljárás eredménye2 |
+2.10. Telefon
 
-| V.2.1) Ajánlatokra vonatkozó információk A beérkezett ajánlatok száma: [ ] |
+2.11. Fax
 
-| V.2.2) Az érvényes ajánlatot tevők Ajánlattevők neve, címe és adószáma, alkalmasságuk indokolása és ajánlatuknak az értékelési szempont szerinti tartalmi eleme(i): |
+2.12. Lebonyolító címe
 
-| V.2.3) Az ajánlatok értékelése2 (Az alábbi táblázatban adja meg. A táblázatnak az ajánlattevő neve alatti osztott oszlop bal oldalára az adott ajánlatnak az adott részszempont szerinti tartalmi elemeire adott értékelési pontszámot, jobb oldalára pedig az értékelési pontszámnak a súlyszámmal kialakított szorzatát kell beírni.) |
+2.13. Szervezet szerepe
 
-| Az értékelés részszempontjai (adott esetben alszempontjai is) | A részszempontok súlyszámai (adott esetben az alszempontok súlyszámai is) | Az ajánlattevő neve: | Az ajánlattevő neve: | Az ajánlattevő neve: |
+2.14. Szervezet alszerepe
 
-| Értékelési pontszám | Értékelési pontszám és súlyszám szorzata | Értékelési pontszám | Értékelési pontszám és súlyszám szorzata | Értékelési pontszám | Értékelési pontszám és súlyszám szorzata |
+3. Meghatározás:
 
-| A súlyszámmal szorzott értékelési pontszámok összegei ajánlattevőnként: |  |  |  |  |  |  |  |
+3.1. A közbeszerzés tárgya
 
-| Adott esetben a részszempontokra adott pontszám szöveges értékelése: |
+3.2. A közbeszerzés mennyisége
 
-| V.2.4) Az ajánlatok értékelése során adható pontszám alsó és felső határa:2 |
+3.3. A Kbt. mely része, illetve fejezete szerinti eljárás került alkalmazásra
 
-| V.2.5) Az ajánlatok értékelése során módszernek (módszereknek) az ismertetése, amellyel az ajánlatkérő megadta az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése során a ponthatárok közötti pontszámot:2 |
+3.4. Az eljárás fajtája
 
-| V.2.6) A Kbt. 69. § (5) bekezdése alapján figyelmen kívül hagyott ajánlat(ok): Az ajánlat(ok) figyelmen kívül hagyásának indoka: |
+3.5. Tárgyalásos eljárás vagy versenypárbeszéd esetén az eljárás alkalmazását megalapozó körülmények ismertetése
 
-| V.2.7) A nyertes ajánlattevő neve, címe, adószáma, az ellenszolgáltatás összege és ajánlata kiválasztásának indokai: |
+4. Európai uniós alapokra vonatkozó információk:
 
-| V.2.8) A nyertes ajánlatot követő legkedvezőbb ajánlatot tevő neve, címe, adószáma, az ellenszolgáltatás összege és ajánlata kiválasztásának indokai:2 |
+4.1. A beszerzés európai uniós alapokból finanszírozott projekttel és/vagy programmal kapcsolatos
 
-| V.2.9) Alvállalkozó(k) igénybe vétele2 o igen o nem A nyertes ajánlattevő ajánlatában a közbeszerzésnek az(ok) a része(i), amely(ek)nek teljesítéséhez az ajánlattevő alvállalkozót kíván igénybe venni: A nyertes ajánlatot követő legkedvezőbb ajánlatot tevő ajánlatában a közbeszerzésnek az(ok) a része(i), amely(ek)nek teljesítéséhez az ajánlattevő alvállalkozót kíván igénybe venni:2 |
+4.2. Uniós alapok programja
 
-| V.2.10) Alvállalkozó(k) megnevezése, adószáma:2 |
+4.3. Uniós alapok finanszírozási azonosítója
 
-| V.2.11) Az alkalmasság igazolásában részt vevő szervezetek2 Az erőforrást nyújtó szervezet(ek), adószáma és az alkalmassági követelmény(ek) megjelölése, amely(ek) igazolása érdekében az ajánlattevő ezen szervezet(ek)re (is) támaszkodik a nyertes ajánlattevő ajánlatában: Az erőforrást nyújtó szervezet(ek), adószáma és az alkalmassági követelmény(ek) megjelölése, amely(ek) igazolása érdekében az ajánlattevő ezen szervezet(ek)re (is) támaszkodik a nyertes ajánlatot követő legkedvezőbb ajánlatot tevő ajánlatában: |
+4.4. Uniós alapok adatai
 
-| V.2.12) Az érvénytelen ajánlatot tevők2 Az érvénytelen ajánlatot tevők neve, címe, adószáma és az érvénytelenség indoka: |
+5. Adminisztratív információk:
 
-| V.2.13) Az összeférhetetlenségi helyzet elhárítása érdekében az ajánlattevő(k) által tett intézkedések ismertetése:2 |
+5.1. A hirdetmény száma a Hivatalos Lapban
 
-| VI. szakasz: Kiegészítő információk |
+5.2. A hirdetmény száma a Közbeszerzési Értesítőben
 
-| VI.1) További információk:2 |
+5.3. Eljárás EKR azonosító
 
-| VI.1.1) A szerződéskötési moratórium időtartama Kezdete: (éééé/hh/nn) / Lejárata: (éééé/hh/nn) |
+5.4. A közvetlen részvételi felhívás megküldésének napja
 
-| VI.1.2) Az összegezés elkészítésének időpontja: (éééé/hh/nn) |
+5.5. Előzetes piaci konzultáció a közbeszerzési eljárás megindulását megelőzte-e
 
-| VI.1.3) Az összegezés megküldésének időpontja: (éééé/hh/nn) |
+5.6. Előzetes piaci konzultáció EKR azonosítója
 
-| VI.1.4) Az összegezés módosításának indoka:2 |
+5.7. Az előzetes piaci konzultációk eredményének ismertetése érdekében tett intézkedések ismertetése
 
-| VI.1.5) Az összegezés módosításának időpontja:2 (éééé/hh/nn) |
+5.8. Elektronikustól eltérő kommunikációs eszközök alkalmazásának indoka
 
-| VI.1.6) A módosított összegezés megküldésének időpontja:2 (éééé/hh/nn) |
+5.9. Rész száma, elnevezés
 
-| VI.1.7) Az összegezés javításának indoka:2 |
+5.10. A közbeszerzés leírása
 
-| VI.1.8) Az összegezés javításának időpontja:2 (éééé/hh/nn) |
+6. Az eljárás, illetve részvételi szakasz eredménye:
 
-| VI.1.9) A javított összegezés megküldésének időpontja:2 (éééé/hh/nn) |
+6.1. A részvételi szakasz eredményes volt-e
 
-| VI.1.10) További információk:2 |
+6.2. A befejezetlen eljárás oka
 
-| ____________________ |
+6.3. A közbeszerzési eljárást eredménytelennek minősítették
 
-| 1 szükség szerinti számban ismételje meg 2 adott esetben |
+6.4. Az eredménytelenség jogcíme
 
-15. melléklet a 44/2015. (XI. 2.) MvM rendelethez[^146]
+6.5. Az eredménytelenség indoka
 
-[^146]: A 15. melléklet az 5/2019. (III. 28.) MvM rendelet 23. § (2) bekezdésével megállapított szöveg.
+6.6. A befejezetlen eljárást követően indul-e új eljárás
+
+7. Részvételre jelentkezők és a részvételi jelentkezések adatai:
+
+7.1. Részvételre jelentkező neve
+
+7.2. Adószám
+
+7.3. Postai irányítószám
+
+7.4. Város
+
+7.5. Postai cím
+
+7.6. NUTS-kód
+
+## 7.7 E-mail
+
+7.8. Telefon
+
+7.9. Fax
+
+7.10. Internetcím(ek) (URL)
+
+7.11. Gazdasági szereplő minősítése
+
+7.12. Részvételi jelentkezés technikai azonosítója
+
+7.13. Részvételi jelentkezés státusza a bírálat eredményeként
+
+7.14. Az összeférhetetlenségi helyzet elhárítása érdekében a részvételre jelentkezők által tett intézkedések ismertetése
+
+7.15. Az érvényes részvételi jelentkezést benyújtók alkalmasságának indokolása
+
+8. Érvénytelen részvételi jelentkezést benyújtókra és az érvénytelen részvételi jelentkezésre vonatkozó egyéb adatok:
+
+8.1. Érvénytelenség jogcíme
+
+8.2. Az érvénytelenség indoka
+
+9. Ajánlattételre felhívni kívánt részvételre jelentkezők:
+
+9.1. Ajánlattevő neve
+
+9.2. Adószám
+
+9.3. Székhely
+
+10. Részvételi jelentkezésekre vonatkozó információk:
+
+10.1. Beérkezett részvételi jelentkezések száma
+
+10.2. Elektronikus úton beérkezett részvételi jelentkezések száma
+
+10.3. Mikrovállalkozásoktól érkezett részvételi jelentkezések száma
+
+10.4. Kisvállalkozásoktól érkezett részvételi jelentkezések száma
+
+10.5. Középvállalkozásoktól érkezett részvételi jelentkezések száma
+
+10.6. Kkv-któl érkezett részvételi jelentkezések száma (kkv – a 2003/361/EK bizottsági ajánlásban meghatározottak szerint)
+
+10.7. Az ajánlatkérő országától eltérő EGT-országban bejegyzett ajánlattevők részvételi jelentkezései
+
+10.8. Az EGT-n kívüli országokban bejegyzett ajánlattevők részvételi jelentkezései
+
+10.9. Ellenőrzött és érvénytelen részvételi jelentkezések száma
+
+10.10. Nem ellenőrzött részvételi jelentkezések száma
+
+10.11. Az ellenőrzés mellőzésének indoka
+
+11. További információk:
+
+11.1. Az összegezés megküldésének időpontja
+
+11.2. Az összegezés módosításának/javításának indoka
+
+11.3. A módosított/javított összegezés megküldésének időpontja
+
+11.4. További információk
+
+[^148]: A 15. melléklet a 7/2024. (VII. 12.) KTM rendelet 5. § (10) bekezdésével megállapított szöveg.
