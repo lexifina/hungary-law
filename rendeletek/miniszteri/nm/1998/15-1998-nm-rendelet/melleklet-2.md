@@ -92,7 +92,7 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más vármegyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^692]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^693]
 
 I. Rész
 
@@ -184,4 +184,4 @@ I. Alapellátások
 
 |  | fogyatékosságügyi tanácsadó | felsőfokú végzettség |
 
-[^692]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja és 7. § (2) bekezdése, a 15/2021. (IV. 29.) EMMI rendelet 7. §-a, 8. § j)–o) pontja, a 62/2021. (XII. 29.) EMMI rendelet 5. §-a, az 5/2022. (III. 28.) MvM rendelet 1. § c) pontja, a 45/2022. (XII. 20.) BM rendelet 6. § 9. pontja, a 80/2022. (XII. 30.) BM rendelet 8. §-a, 9. § c) pontja, a 27/2023. (VIII. 3.) BM rendelet 4. § k) és l) pontja, a 30/2024. (VII. 23.) BM rendelet 16. § 37–44. pontja szerint módosított szöveg.
+[^693]: A 2. számú melléklet a 2/2018. (I. 18.) EMMI rendelet 29. § (3) bekezdésével megállapított, 29. § (4) bekezdése, a 4/2019. (II. 27.) EMMI rendelet 8. § (2) bekezdése, a 6/2020. (III. 6.) EMMI rendelet 7. §-a, az 1/2021. (I. 7.) EMMI rendelet 8. § e)–g) pontja és 7. § (2) bekezdése, a 15/2021. (IV. 29.) EMMI rendelet 7. §-a, 8. § j)–o) pontja, a 62/2021. (XII. 29.) EMMI rendelet 5. §-a, az 5/2022. (III. 28.) MvM rendelet 1. § c) pontja, a 45/2022. (XII. 20.) BM rendelet 6. § 9. pontja, a 80/2022. (XII. 30.) BM rendelet 8. §-a, 9. § c) pontja, a 27/2023. (VIII. 3.) BM rendelet 4. § k) és l) pontja, a 30/2024. (VII. 23.) BM rendelet 16. § 37–44. pontja szerint módosított szöveg.

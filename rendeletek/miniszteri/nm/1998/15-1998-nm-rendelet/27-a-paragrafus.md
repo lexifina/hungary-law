@@ -1,4 +1,4 @@
-## Fogyatékosságügyi tanácsadás[^110]
+## Fogyatékosságügyi tanácsadás[^111]
 
 ## 27/A. § A fogyatékosságügyi tanácsadás feladata:
 
@@ -14,4 +14,4 @@ e) együttműködés a szociális diagnózist felállító esetmenedzserrel, és
 
 f) kapcsolattartás a többi fogyatékosságügyi tanácsadóval.
 
-[^110]: A „Fogyatékosságügyi tanácsadás” alcímet (27/A. §) az 1/2021. (I. 7.) EMMI rendelet 3. §-a iktatta be.
+[^111]: A „Fogyatékosságügyi tanácsadás” alcímet (27/A. §) az 1/2021. (I. 7.) EMMI rendelet 3. §-a iktatta be.

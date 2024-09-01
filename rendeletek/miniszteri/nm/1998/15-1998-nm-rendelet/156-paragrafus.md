@@ -6,9 +6,9 @@
 
 (2) E rendelet 47. § (2)–(3) bekezdése 2000. január 1-jén lép hatályba.
 
-(3)[^626]
+(3)[^627]
 
-(4)[^627]
+(4)[^628]
 
-[^626]: A 156. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte.
-[^627]: A 156. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte.
+[^627]: A 156. § (3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte.
+[^628]: A 156. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 39. §-ának 6. pontja hatályon kívül helyezte.

@@ -24,14 +24,14 @@ tájékoztatja a gyámhivatalt.
 
 (4) A kapcsolattartási ügyelet az érintettek igényeinek megfelelően a kapcsolattartásra megfelelő feltételekkel rendelkező család- és gyermekjóléti szolgálatnál is biztosítható.
 
-(5)[^94] A család- és gyermekjóléti központ a nevelőszülői hálózattal, a gyermekotthonnal kötött külön megállapodás alapján a szolgáltatást a nevelőszülőnél, a gyermekotthonban elhelyezett gyermek és a kapcsolattartásra jogosult vér szerinti szülő vagy más kapcsolattartásra jogosult személy között is biztosíthatja.
+(5)[^95] A család- és gyermekjóléti központ a nevelőszülői hálózattal, a gyermekotthonnal kötött külön megállapodás alapján a szolgáltatást a nevelőszülőnél, a gyermekotthonban elhelyezett gyermek és a kapcsolattartásra jogosult vér szerinti szülő vagy más kapcsolattartásra jogosult személy között is biztosíthatja.
 
 (6) A titkos menedékházban, a kapcsolati erőszak áldozatait fogadó krízisközpontban és az emberkereskedelem áldozatait fogadó átmeneti szálláson élő szülő gyermekére – amennyiben a külön élő szülő kapcsolattartásra jogosult – a kapcsolattartási ügyelet e § szerinti szabályai irányadóak azzal, hogy a kapcsolattartás helyszíne nem lehet a titkos menedékház, krízisközpont és átmeneti szállás.
 
-(7)[^95] Ha a bíróság által elrendelt, az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás igénybevételével megvalósuló kapcsolattartáson a kapcsolattartásra kötelezett vagy jogosult személy legalább hat hónapon keresztül nem jelenik meg, és elmaradását nem menti ki, a szolgáltatás nyújtását a család- és gyermekjóléti központ vezetője felfüggesztheti arra az időszakra, amíg a kapcsolattartásra kötelezett vagy jogosult személy ismételten nem kezdeményezi az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás biztosítását. A felfüggesztésről a család- és gyermekjóléti központ értesíti a bíróságot, a gyámhatóságot, valamint a kapcsolattartásra kötelezett és jogosult személyt.
+(7)[^96] Ha a bíróság által elrendelt, az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás igénybevételével megvalósuló kapcsolattartáson a kapcsolattartásra kötelezett vagy jogosult személy legalább hat hónapon keresztül nem jelenik meg, és elmaradását nem menti ki, a szolgáltatás nyújtását a család- és gyermekjóléti központ vezetője felfüggesztheti arra az időszakra, amíg a kapcsolattartásra kötelezett vagy jogosult személy ismételten nem kezdeményezi az (1) bekezdés a) vagy b) pontja szerinti szolgáltatás biztosítását. A felfüggesztésről a család- és gyermekjóléti központ értesíti a bíróságot, a gyámhatóságot, valamint a kapcsolattartásra kötelezett és jogosult személyt.
 
-(8)[^96] Ha a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal a Gyvt. 39/A. § (4) bekezdése alapján az (1) bekezdés a) és b) pontja szerinti szolgáltatást biztosító család- és gyermekjóléti központot kizárta, az (1) bekezdés a) és b) pontja szerinti szolgáltatást a fővárosi és vármegyei kormányhivatal által újonnan kijelölt család- és gyermekjóléti központ nyújtja.
+(8)[^97] Ha a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal a Gyvt. 39/A. § (4) bekezdése alapján az (1) bekezdés a) és b) pontja szerinti szolgáltatást biztosító család- és gyermekjóléti központot kizárta, az (1) bekezdés a) és b) pontja szerinti szolgáltatást a fővárosi és vármegyei kormányhivatal által újonnan kijelölt család- és gyermekjóléti központ nyújtja.
 
-[^94]: A 22. § (5) bekezdése a 30/2024. (VII. 23.) BM rendelet 16. § 2. pontja szerint módosított szöveg.
-[^95]: A 22. § (7) bekezdését a 30/2024. (VII. 23.) BM rendelet 3. §-a iktatta be.
-[^96]: A 22. § (8) bekezdését a 30/2024. (VII. 23.) BM rendelet 3. §-a iktatta be.
+[^95]: A 22. § (5) bekezdése a 30/2024. (VII. 23.) BM rendelet 16. § 2. pontja szerint módosított szöveg.
+[^96]: A 22. § (7) bekezdését a 30/2024. (VII. 23.) BM rendelet 3. §-a iktatta be.
+[^97]: A 22. § (8) bekezdését a 30/2024. (VII. 23.) BM rendelet 3. §-a iktatta be.
