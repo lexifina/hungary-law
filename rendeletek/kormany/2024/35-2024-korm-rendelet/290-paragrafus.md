@@ -1,3 +1,3 @@
-290. §[^56]
+290. §[^59]
 
-[^56]: A 290. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^59]: A 290. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

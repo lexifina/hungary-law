@@ -1,5 +1,5 @@
 ## 152. A babaváró támogatásról szóló 44/2019. (III. 12.) Korm. rendelet módosítása
 
-329. §[^95]
+329. §[^98]
 
-[^95]: A 329. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^98]: A 329. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

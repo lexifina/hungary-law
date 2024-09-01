@@ -1,5 +1,5 @@
 ## 126. Az Útravaló Ösztöndíjprogramról szóló 152/2005. (VIII. 2.) Korm. rendelet módosítása
 
-279. §[^45]
+279. §[^48]
 
-[^45]: A 279. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^48]: A 279. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 146. Az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló 16/2016. (II. 10.) Korm. rendelet módosítása
 
-319. §[^85]
+319. §[^88]
 
-[^85]: A 319. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^88]: A 319. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

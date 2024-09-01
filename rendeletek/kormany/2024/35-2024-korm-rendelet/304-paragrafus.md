@@ -1,3 +1,3 @@
-304. §[^70]
+304. §[^73]
 
-[^70]: A 304. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^73]: A 304. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

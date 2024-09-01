@@ -1,5 +1,5 @@
 ## 153. A nagycsaládosok személygépkocsi-szerzési támogatásáról szóló 45/2019. (III. 12.) Korm. rendelet módosítása
 
-331. §[^97]
+331. §[^100]
 
-[^97]: A 331. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^100]: A 331. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

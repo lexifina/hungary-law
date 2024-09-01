@@ -1,5 +1,5 @@
 ## 134. A fiatalok, valamint a többgyermekes családok lakáscélú kölcsöneinek állami támogatásáról szóló 134/2009. (VI. 23.) Korm. rendelet módosítása
 
-289. §[^55]
+289. §[^58]
 
-[^55]: A 289. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: A 289. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

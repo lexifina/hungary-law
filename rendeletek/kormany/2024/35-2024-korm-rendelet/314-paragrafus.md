@@ -1,3 +1,3 @@
-314. §[^80]
+314. §[^83]
 
-[^80]: A 314. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^83]: A 314. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
