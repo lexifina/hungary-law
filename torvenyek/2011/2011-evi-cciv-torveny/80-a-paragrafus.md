@@ -1,4 +1,4 @@
-80/A. § (1) A felsőoktatási intézmény a technikusképzésben részt vevő tanulóval önköltséges előzetes hallgatói jogviszonyt hozhat létre.
+80/A. § (1) A felsőoktatási intézmény az okleveles technikusképzésben részt vevő tanulóval önköltséges előzetes hallgatói jogviszonyt hozhat létre.
 
 (2) Az előzetes hallgatói jogviszonyban álló személy jogosult a felsőoktatási intézményben valamely szak részét képező résztanulmányokat és más tanulmányokat folytatni és a központi felvételi eljáráson kívül a felsőoktatási intézménnyel hallgatói jogviszonyt létesíteni.
 

@@ -4,4 +4,4 @@
 
 (3)
 
-(4) A magyar állami (rész)ösztöndíjban részesített személy az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervvel az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 9. § (3) bekezdése alapján elektronikus úton tart kapcsolatot.
+(4) A magyar állami (rész)ösztöndíjban részesített személy az ezen alcímben meghatározott jogainak érvényesítése és kötelezettségeinek teljesítése során a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szervvel a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 19. § (4) bekezdése alapján elektronikus úton tart kapcsolatot.
