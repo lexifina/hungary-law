@@ -16,7 +16,7 @@ b) tiltott toborzás [Btk. 146. § (3) bekezdés], emberölés [Btk. 160. § (2)
 
 c) a Btk. 52. § (3) bekezdése szerinti foglalkozástól eltiltás hatálya alatt áll,
 
-d) vesztegetés elfogadása (Btk. 291. §) miatt büntetőeljárás hatálya alatt áll, és
+d) vesztegetés elfogadása (Btk. 291. §) miatt büntetőeljárás hatálya alatt áll,
 
 e) az a) és b) pontban meghatározott bűncselekmények elkövetése miatt kényszergyógykezelés alatt áll.
 

@@ -57,3 +57,5 @@ b) azt a szervet, amely egészségügyi szolgálati jogviszonyban álló személ
 (3) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 4. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg – szakmakóddal együtt – azokat a szakmákat, amelyek esetében megadható a 4. § (2) bekezdése szerinti engedély.
 
 (4) Felhatalmazást kap a Kormány arra, hogy rendeletben jelölje ki azt a szervet, amely a 20/A. § (2) bekezdése szerinti engedély megadására jogosult, valamint rendeletben határozza meg az engedély megadásának feltételeit, ideértve a 20/A. § (2a) bekezdése szerinti ellátási érdek meghatározását is.
+
+(5) Felhatalmazást kap a Kormány arra, hogy rendeletben határozza meg a 4. § (12) bekezdése szerinti felmentésre vonatkozó engedély megadásának feltételeit, ideértve az ellátási érdek meghatározását is.
