@@ -1,1 +1,1 @@
-61/A. § Ha az építésügyi vagy építésfelügyeleti hatóság az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az 53/A. §-nak a 2016. december 31-én hatályos előírásait kell alkalmazni.
+### 61/A. §

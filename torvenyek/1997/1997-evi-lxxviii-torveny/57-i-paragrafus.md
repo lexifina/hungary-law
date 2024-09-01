@@ -1,6 +1,6 @@
 57/I. § (1) Az Üvegkapu használatát megelőzően – kormányrendeletben meghatározottak szerint – valamennyi foglalkoztató köteles a rendszerben regisztrálni, és a regisztrációját szükség szerint frissíteni.
 
-(2) Az (1) bekezdés szerinti regisztráció, annak módosítása vagy törlése, valamint a regisztrációra kötelezett nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a szabályozott és központi elektronikus ügyintézési szolgáltatásokra vonatkozó egyéb szabályok megfelelő alkalmazásával, elektronikus úton történik.
+(2) Az (1) bekezdés szerinti regisztráció, annak módosítása vagy törlése, valamint a regisztrációra kötelezett nevében eljáró személy azonosítása és képviseleti jogosultságának ellenőrzése a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény és végrehajtási rendeleteinek az elektronikus azonosításra, továbbá a szabályozott és központi elektronikus ügyintézési szolgáltatásokra vonatkozó egyéb szabályok megfelelő alkalmazásával, elektronikus úton történik.
 
 (3) Az (1) bekezdés szerinti regisztráció – ha kormányrendelet további feltételeket nem állapít meg – tartalmazza
 
