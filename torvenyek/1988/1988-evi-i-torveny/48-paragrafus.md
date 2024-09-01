@@ -268,7 +268,7 @@ l) a miniszter, hogy a közúti áruszállításhoz kapcsolódó árumozgatásra
 
 m) a közlekedésért felelős miniszterrel egyetértésben
 
-ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket, valamint
+ma) a honvédelemért felelős miniszter, hogy a Magyar Honvédség és a Katonai Nemzetbiztonsági Szolgálat tagjai, járművei és magánútjai, és az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata, valamint a 18. § (18) bekezdésének végrehajtásával összefüggésben a Magyar Honvédség állományába tartozó, a képzés vezetési gyakorlati részét oktató személy esetében a szakoktatókkal szemben támasztott követelmények és képzésük, valamint az oktatójárművek műszaki feltételei tekintetében eltérő rendelkezéseket,
 
 mb) az egyes rendvédelmi szerveket irányító miniszter, hogy a rendvédelmi szervek állományának tagjai, járművei és magánútjai, valamint az általuk üzemben tartott járművek forgalomba helyezése és időszakos vizsgálata tekintetében az eltérő rendelkezéseket,
 
@@ -291,6 +291,8 @@ rendeletben állapítsa meg.
 (3a) Felhatalmazást kap a Kormány, hogy a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének, valamint az utazó munkavállalók, a kabotázstevékenység és a közúti szállítás kiküldetési előírásai megtartásának ellenőrzésére vonatkozó szabályokat rendeletben állapítsa meg.
 
 (4) A Kormány a (3) bekezdés a) pontjában, a miniszter pedig a (3) bekezdés b) pontjában kapott felhatalmazás alapján kiadott jogszabályban a járdákra és azok tartozékaira e törvénynek az utakra vonatkozó szabályaitól eltérő rendelkezéseket is megállapíthat.
+
+(4a) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a középiskolás járművezetők középiskolai képzésének és vizsgájának különleges részletszabályait.
 
 (5) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés – hogy rendeletben állapítsa meg a várakozási területek tekintetében
 
