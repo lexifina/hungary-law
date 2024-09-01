@@ -38,7 +38,7 @@ ba) egyik tengelye útkímélő tengely, illetve
 
 bb) hajtott tengelye vagy tengelyei ikerabroncsozásúak, továbbá tengelyterhelései nem haladják meg a 9,5 tonnát.
 
-(6)[^9] A rendelet alkalmazásában környezetkímélő gépkocsi: az elektromos gépkocsi, továbbá a nulla emissziós gépkocsi.
+(6)[^9] E rendelet alkalmazásában környezetkímélő gépkocsi: a tisztán elektromos gépkocsi és a nulla emissziós gépkocsi.
 
 (6a)[^10] E rendelet alkalmazásában környezetkímélő motorkerékpár: az a tisztán elektromos motorkerékpár, amelynek a hajtáslánca legalább egy elektromos energiatároló eszközt, elektromos áram átalakító egységet és olyan elektromos gépet tartalmaz, amely a motorkerékpár meghajtására szolgáló tárolt elektromos energiát mechanikai energiává alakítja, és a motorkerékpár meghajtásához más erőforrással nem rendelkezik.
 
@@ -137,7 +137,7 @@ ha a távolságot az érintett tagállam engedélyezi.
 [^6]: A 2. § (4) bekezdését a 13/1993. (V. 12.) KHVM rendelet 1. §-a iktatta be, szövegét újonnan a 35/2004. (III. 30.) GKM rendelet 1. § (1) bekezdése iktatta be.
 [^7]: A 2. § (5) bekezdését a 12/1994. (III. 11.) KHVM rendelet 1. §-a iktatta be, szövege a 19/2009. (IV. 16.) KHEM rendelet 1. §-ával megállapított, nyitó szövegrésze a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 2. § (5) bekezdés a) pont ab) alpontja a 44/2014. (X. 31.) NFM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 2. § (6) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 6. §-a iktatta be, szövege a 40/2015. (VI. 30.) NFM rendelet 2. §-ával megállapított szöveg.
+[^9]: A 2. § (6) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 6. §-a iktatta be, szövege a 22/2024. (VII. 31.) ÉKM rendelet 1. §-ával megállapított szöveg.
 [^10]: A 2. § (6a) bekezdését a 22/2021. (V. 13.) ITM rendelet 2. §-a iktatta be.
 [^11]: A 2. § (6b) bekezdését a 22/2021. (V. 13.) ITM rendelet 2. §-a iktatta be.
 [^12]: A 2. § (7) bekezdését a 21/1995. (XII. 15.) KHVM rendelet 6. §-a iktatta be, szövege a 40/2015. (VI. 30.) NFM rendelet 2. §-ával megállapított szöveg.
