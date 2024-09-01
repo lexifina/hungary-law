@@ -1,6 +1,6 @@
-## 16. [^81] Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetése, a felek közötti elszámolás
+## 16. [^82] Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetése, a felek közötti elszámolás
 
-29. §[^82] (1) Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás szabályait – az ebben az alcímben foglaltak figyelembevételével – az egyetemes útdíjszolgáltató az általános szerződési feltételeiben állapítja meg.
+29. §[^83] (1) Az egyetemes útdíjszolgáltató és a szerződött díjfizető közötti szerződés megszüntetésének, valamint a felek közötti elszámolás szabályait – az ebben az alcímben foglaltak figyelembevételével – az egyetemes útdíjszolgáltató az általános szerződési feltételeiben állapítja meg.
 
 (2) A szerződés megszüntetése esetén a szerződött díjfizető által az egyenlegére előre megfizetett, de az útdíjszedő által nem kivetett összeget az egyetemes útdíjszolgáltató – a (3)–(5) bekezdésben foglaltak figyelembevételével – visszatéríti.
 
@@ -10,5 +10,5 @@
 
 (5) Visszatérítésnek a szerződött díjfizető által az egyenlegére történő megfizetéstől számított 5 éven belül van helye.
 
-[^81]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, az alcím címet újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
-[^82]: A 29. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
+[^82]: A 16. alcímet a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, az alcím címet újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
+[^83]: A 29. §-t a 467/2015. (XII. 29.) Korm. rendelet 33. §-a hatályon kívül helyezte, újonnan a 67/2022. (II. 28.) Korm. rendelet 9. § (12) bekezdése iktatta be.
