@@ -40,4 +40,9 @@
 
 20. az emberi fogyasztásra szánt kazeinekre és kazeinátokra vonatkozó tagállami jogszabályok közelítéséről és a 83/417/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2015. november 25-i (EU) 2015/2203 európai parlamenti és tanácsi irányelvnek
 
+21.[^45] a 2009/32/EK európai parlamenti és tanácsi irányelvnek a 2-metiloxolán tekintetében történő módosításáról szóló, 2023. január 26-i (EU) 2023/175 bizottsági irányelvnek
+
+való megfelelést szolgálja.
+
 [^44]: A 3. § a 33/2021. (IX. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^45]: A 3. § 21. pontját a 43/2024. (VIII. 29.) AM rendelet 1. §-a iktatta be.

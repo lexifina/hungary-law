@@ -44,7 +44,7 @@
 
 ## 12.1. pasztőrözés:
 
-## 12.1.1. a tej, a tejszín vagy a tejtermék hőkezelése az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 853/2004/EK európai parlamenti és tanácsi rendelet) előírásainak megfelelően;
+## 12.1.1.[^65] a tej, a tejszín vagy a tejtermék hőkezelése a 853/2004/EK európai parlamenti és tanácsi rendelet előírásainak megfelelően;
 
 ## 12.1.2. pillanathevítés: olyan hőkezelés, amely során a tejet, tejszínt vagy a tejterméket 100 °C alatti hőmérsékleten olyan hőmérséklet-idő kombinációval kezelik, amely eredményeként a hőkezelés után az alkalikus-foszfatáz- és a peroxidáz-próba egyaránt negatív;
 
@@ -944,120 +944,9 @@
 
 | 32. | MSZ ISO 22935-3 Tej és tejtermékek. Érzékszervi vizsgálat. 3. rész: Útmutató a termékleírásban szereplő érzékszervi tulajdonságoknak való megfelelés pontozásos értékelési módszerére |
 
-14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
+14. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^66]
 
 A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
 
-A Magyar Élelmiszerkönyv 1-2-2009/32 számú előírása az élelmiszerek előállítása során felhasználható extrakciós oldószerekről
-
-A rész
-
-1. Ez az előírás az élelmiszerek, és élelmiszer-összetevők előállítása során felhasznált vagy felhasználni kívánt extrakciós oldószerekre vonatkozik. Nem vonatkozik az élelmiszer adalékanyagok, vitaminok vagy egyéb tápértéknövelő anyagok előállítása során felhasznált extrakciós oldószerekre, kivéve, ha ezek az előírás B részében szerepelnek.
-
-Nem kell alkalmazni az előírást a Közösségen kívüli exportra szánt extrakciós oldószerekre és élelmiszerekre.
-
-2. Az előírás szempontjából:
-
-a) „oldószer” minden olyan anyag, amelyet egy élelmiszer, vagy annak bármely alkotórésze feloldására használnak, beleértve az ezen élelmiszerben vagy élelmiszeren lévő szennyező anyagot is,
-
-b) „extrakciós oldószer” olyan oldószer, amelyet a nyersanyagok, élelmiszerek vagy ezek összetevőinek vagy alkotórészeinek előállítása során egy extrakciós eljárásban használnak, majd eltávolítanak, amely azonban nem szándékosan, hanem technológiailag elkerülhetetlenül maradékok vagy származékok formájában jelen lehet az élelmiszerben vagy az élelmiszer összetevőben.
-
-3. Élelmiszerek, élelmiszer-összetevők előállításához csak a B részben felsorolt extrakciós oldószerek, az ott megadott feltételekkel használhatók.
-
-4. A víz (amely savasság vagy lúgosság beállítására szolgáló anyagot is tartalmazhat), valamint az egyéb oldó tulajdonságokkal rendelkező élelmiszerek engedélyezettek az élelmiszerek, illetve összetevőik előállítása során felhasználható extrakciós oldószerként.
-
-5. A B részben felsorolt extrakciós oldószereknek meg kell felelniük a következő általános tisztasági követelményeknek:
-
-a) semmiféle elemet vagy vegyületet nem tartalmazhatnak toxikológiai szempontból veszélyes mennyiségben,
-
-b) nem tartalmazhatnak 1 mg/kg-nál több arzént vagy ólmot.
-
-6. Az élelmiszerek előállításához felhasználható extrakciós oldószerek csak úgy hozhatók forgalomba, ha csomagolásukon jól láthatóan, olvashatóan, letörölhetetlenül feltüntetik a következő információkat:
-
-a) a B részben megadott kereskedelmi megnevezés,
-
-b) az „Élelmiszer extrakciójához felhasználható” kifejezés,
-
-c) a gyártási tétel azonosító jele,
-
-d) a gyártó, a csomagoló vagy a Közösség területén bejegyzett forgalmazó neve vagy cégneve és címe,
-
-e) a térfogategységben megadott nettó mennyiség,
-
-f) különleges tárolási vagy felhasználási előírás, amennyiben van ilyen.
-
-7. Az 6. c), d), e) és f) pontokban előírtaknak az extrakciós oldószer szállításával kapcsolatos kereskedelmi dokumentumokban való feltüntetése is elegendő.
-
-B rész
-
-A nyersanyagok, élelmiszerek, élelmiszer-összetevők, illetve élelmiszer-alkotóelemek feldolgozása során felhasználható extrakciós oldószerek
-
-I. Extrakciós oldószerek, amelyeket a jó gyártási gyakorlat szerint alkalmazva minden célra használni lehet1)
-
-## Propán
-
-## Bután
-
-## Etil-acetát
-
-## Etanol
-
-## __________________
-
-## 1) Egy extrakciós oldószer használata akkor tekintendő jó gyártási gyakorlat szerintinek, ha alkalmazása csak technikailag elkerülhetetlen mennyiségű maradékot eredményez, amely már nem jelent veszélyt az ember egészségére.
-
-## Szén-dioxid
-
-## Aceton2)
-
-## Nitrogén-oxid
-
-II. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
-
-| Név | Felhasználási feltételek | A megengedett maradék-határérték az extrahált élelmiszerben vagy élelmiszer-összetevőben |
-
-| Hexán (1) | Zsírok és olajok előállítása vagy frakcionálása és kakaóvaj előállítása | 1 mg/kg a zsírban, olajban vagy kakaóvajban |
-
-| Zsírtalanított fehérjetermékek és zsírtalanított lisztek készítése | 10 mg/kg a zsírtalanított fehérjeterméket és a zsírtalanított lisztet tartalmazó élelmiszerben |
-
-| 30 mg/kg a végső fogyasztónak eladott zsírtalanított szójatermékben |
-
-| Zsírtalanított gabonacsírák készítése | 5 mg/kg a zsírtalanított gabonacsírában |
-
-| Metil-acetát | Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
-
-| Cukor előállítása melaszból | 1 mg/kg a cukorban |
-
-| Etil-metil-keton (2) | Zsírok és olajok frakcionálása | 5 mg/kg a zsírban vagy az olajban |
-
-| Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 20 mg/kg a kávéban vagy a teában |
-
-| Diklór-metán | Kávé és tea koffeinmentesítése vagy izgató és keserű ízanyagainak eltávolítása | 2 mg/kg a pörkölt kávéban, 5 mg/kg a teában |
-
-| Metanol | Minden felhasználás esetén | 10 mg/kg |
-
-| 2-propanol | Minden felhasználás esetén | 10 mg/kg |
-
-| Dimetil-éter | Zsírtalanított állatifehérje-termékek előállítása, beleértve a zselatint (3) | 0,009 mg/kg zsírtalanított állatifehérje-termékek készítése, beleértve a zselatint |
-
-| Kollagén (4) és kollagén-származékok előállítása, a zselatin kivételével | 3 mg/kg kollagén és kollagén-származékok készítése, a zselatin kivételével |
-
-## _________________
-
-## (1) A hexán olyan kereskedelmi termék, amely főleg hat szénatomos egyenes láncú telített szénhidrogéneket tartalmaz és a forráspontja 64–70 ºC
-
-## között van. A hexán és etil-metil-keton együttes használata tilos.
-
-## (2) Az n-hexán mennyisége ebben az oldószerben nem haladhatja meg az 50 mg/kg-ot. Az etil-metil-keton és a hexán együttes használata tilos.
-
-## (3)A zselatin természetes és oldható – zselésítő vagy nem zselésítő – fehérje, amelyet az állatok csontjaiból, nyersbőréből és irhájából, inaiból és
-
-## ínhüvelyeiből származó kollagén részleges hidrolízisével nyernek a 853/2004/EK rendelet vonatkozó előírásaival összhangban.
-
-## (4)A kollagén állati csontokból, nyersbőrből, irhából és inakból származó fehérjealapú termék, amelyet a 853/2004/EK rendelet vonatkozó előírásaival
-
-## összhangban állítanak elő.
-
-III. Olyan extrakciós oldószerek, amelyekre felhasználási feltételeket határoztak meg
-
-[^64]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 77/2011. (VIII. 3.) VM rendelet 2. § (4) bekezdése, a 6/2018. (III. 14.) FM rendelet 1. §-a szerint módosított szöveg.
+[^65]: A 13. melléklet A rész II. fejezet 12. pont 12.1.1. alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § c) pontja szerint módosított szöveg.
+[^66]: A 14. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 43/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.

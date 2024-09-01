@@ -1,4 +1,4 @@
-22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^72]
+22. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^74]
 
 A Magyar Élelmiszerkönyv 1-3-2001/114 számú előírása a részben vagy teljesen dehidratált, emberi fogyasztásra szánt, tartós tejtermékekről (Sűrített tej és tejpor)
 
@@ -86,7 +86,7 @@ Dehidratált tej, amelynek zsírtartalma legfeljebb 1,5% (m/m).
 
 a) Az 1. pont e)–g) alpontjaiban meghatározott termékek gyártásához a végtermékre vonatkoztatva legfeljebb 0,03% (m/m) tejcukor hozzáadása megengedett.
 
-b) Az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet sérelme nélkül, az 1. és 2. pontban említett termékek tartósítása a következő módokon történik:
+b)[^75] A 853/2004/EK európai parlamenti és tanácsi rendelet sérelme nélkül, az 1. és 2. pontban említett termékek tartósítása a következő módokon történik:
 
 – hőkezeléssel (sterilezés, UHT stb.) az 1. pont a)–d) alpontjaiban meghatározott termékek esetében,
 
@@ -166,4 +166,5 @@ w) A cseh „suÓené smetana” a B rész 2. pont a) alpontjában meghatározot
 
 x) A cseh „suÓené polotu…né mléko” a B rész 2. pont c) alpontjában meghatározott terméket jelenti, amelynek zsírtartalma 14 és 16% (m/m) között van.
 
-[^72]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^74]: A 22. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^75]: 22. melléklet B rész 3. pont b) alpontja a 43/2024. (VIII. 29.) AM rendelet 3. § d) pontja szerint módosított szöveg.

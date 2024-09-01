@@ -1,3 +1,3 @@
-9. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^59]
+9. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^60]
 
-[^59]: A 9. melléklet a 2/2017. (I. 11.) FM rendelet 2. §-ával megállapított szöveg.
+[^60]: A 9. melléklet a 2/2017. (I. 11.) FM rendelet 2. §-ával megállapított szöveg.

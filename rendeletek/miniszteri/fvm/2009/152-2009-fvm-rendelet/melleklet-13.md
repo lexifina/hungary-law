@@ -6,7 +6,7 @@
 
 ## I.
 
-## 1. Ez az előírás a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 7.1. pontja szerinti húskészítményekre és a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.15. pontja szerinti előkészített húsokra vonatkozik.
+## 1. Ez az előírás az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 853/2004/EK európai parlamenti és tanácsi rendelet) I. mellékletének 7.1. pontja szerinti húskészítményekre és az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 853/2004/EK európai parlamenti és tanácsi rendelet) I. mellékletének 1.15. pontja szerinti előkészített húsokra vonatkozik.
 
 ## 2. Az előírásban meghatározott húskészítmény és előkészített hús megnevezések a Magyarországon forgalomba hozott termékek esetében csak akkor használhatók, ha megfelelnek az előírásban meghatározott követelményeknek.
 
@@ -16,7 +16,7 @@
 
 ## II.
 
-## 1. A felhasználható anyagok szempontjából húsnak minősülnek az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet (ezen előírás vonatkozásában a továbbiakban: 853/2004/EK európai parlamenti és tanácsi rendelet) I. mellékletének 1.1. pontjában meghatározott állatok élelmezési célra alkalmas részei, beleértve a vért is.
+## 1. A felhasználható anyagok szempontjából húsnak minősülnek a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.1. pontjában meghatározott állatok élelmezési célra alkalmas részei, beleértve a vért is.
 
 ## 2. A „hús” megnevezésű összetevő jelölésére a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1169/2011/EU európai parlamenti és tanácsi rendelet) előírásai irányadóak.
 
@@ -970,6 +970,6 @@
 
 ## 14.4. Ízesített termék esetén az ízesítésre a termék megnevezésében utalni kell (például Tokaji aszúval történő ízesítés esetén Tokaji aszús libamájblokk; szarvasgombával történő ízesítés esetén Libamájblokk szarvasgombával).
 
-13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^63]
+13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^64]
 
-[^63]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 4. §-ával megállapított szöveg.
+[^64]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 33/2021. (IX. 29.) AM rendelet 4. §-ával megállapított szöveg.
