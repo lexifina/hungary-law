@@ -1,3 +1,3 @@
-3. §[^3]
+3. § Az R. a következő 39. §-sal egészül ki:
 
-[^3]: A 3. § a 6. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+„39. § Ha az ajánlatkérő az eljárásban lehetővé tette a részekre történő ajánlattételt, a 38. § szerinti összegezés adatmezői az EKR-ben szükség szerinti számban megismételhetők.”
