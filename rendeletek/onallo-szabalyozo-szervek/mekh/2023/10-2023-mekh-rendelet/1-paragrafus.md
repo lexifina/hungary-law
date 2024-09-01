@@ -12,11 +12,11 @@ szükséges rendszeres adatszolgáltatásokra.
 
 (2) Az (1) bekezdés
 
-a) a) pontja alapján
+a)[^1] a) pontja alapján
 
-aa) a Ht. 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője és
+aa) a B3 alkategóriájú hulladéklerakó üzemeltetője és
 
-ab) a B3 alkategóriájú hulladéklerakó üzemeltetője,
+ab) a Ht. 18/A. § (1) bekezdése szerinti hulladékégető mű üzemeltetője,
 
 b) b) pontja alapján
 
@@ -33,3 +33,5 @@ ca) használója és
 cb) tulajdonosa
 
 [az 1. és 2. alcím tekintetében a továbbiakban az a)–c) pontban foglaltak együtt: adatszolgáltató] rendszeres adatszolgáltatást teljesít a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) részére.
+
+[^1]: Az 1. § (2) bekezdés a) pontja a 6/2024. (VIII. 29.) MEKH rendelet 1. §-ával megállapított szöveg.

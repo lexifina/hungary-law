@@ -1,7 +1,5 @@
-8. § (1) Az 1. § (2) bekezdés b) pont bb) alpontja szerinti adatszolgáltató rendszeres adatszolgáltatási kötelezettsége a koncesszori alvállalkozói szerződés hatálybalépésének napján keletkezik, és a koncesszori alvállalkozói szerződés megszűnésének napjáig tart.
+8. §[^6] (1) Az 1. § (2) bekezdés b) pont bb) alpontja szerinti adatszolgáltató az adatszolgáltatással érintett időszakra vonatkozóan adatszolgáltatás teljesítésére köteles, ha az adatszolgáltatással érintett időszakban hatályos koncesszori alvállalkozói szerződéssel rendelkezett.
 
-(2) Az (1) bekezdés szerinti adatszolgáltató – a (3) és (4) bekezdésben meghatározott kivétellel – az 1. mellékletben foglalt táblázat 5. pontja szerint teljesít adatszolgáltatást a Hivatal részére.
+(2) Az (1) bekezdés szerinti adatszolgáltató az 1. mellékletben foglalt táblázat 5. sora szerint teljesít adatszolgáltatást a Hivatal részére.
 
-(3) Ha az (1) bekezdés szerinti adatszolgáltató rendszeres adatszolgáltatási kötelezettsége megszűnésének napja naptári éven belül az 1. mellékletben foglalt táblázat C:5 mezője szerinti teljesítési határidőt megelőző vagy azzal egyező napra esik, akkor az adatszolgáltató a rendszeres adatszolgáltatással érintett időszakra és a megszűnés évének első naptári napjától a megszűnés napjáig terjedő időszakra vonatkozóan, az adatszolgáltatási kötelezettség megszűnésének napjáig a Hivatal részére adatszolgáltatást teljesít.
-
-(4) Ha az (1) bekezdés szerinti adatszolgáltató rendszeres adatszolgáltatási kötelezettsége megszűnésének napja naptári éven belül az 1. mellékletben foglalt táblázat C:5 mezője szerinti teljesítési határidőt követő napra esik, akkor az adatszolgáltató a megszűnés évének első naptári napjától a megszűnés napjáig terjedő időszakra vonatkozóan, az adatszolgáltatási kötelezettség megszűnésének napjáig a Hivatal részére adatszolgáltatást teljesít.
+[^6]: A 8. § a 6/2024. (VIII. 29.) MEKH rendelet 4. §-ával megállapított szöveg.
