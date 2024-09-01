@@ -1,1 +1,1 @@
-87/A. § A fegyelmi eljárás lefolytatása során az E-ügyintézési törvény rendelkezéseit alkalmazni kell.
+87/A. § A fegyelmi eljárás lefolytatása során a Dáptv. rendelkezéseit alkalmazni kell.
