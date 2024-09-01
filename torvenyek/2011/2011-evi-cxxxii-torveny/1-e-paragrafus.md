@@ -1,0 +1,1 @@
+1/E. § Az Egyetem, valamint az Egyetem által fenntartott köznevelési intézmény nem minősül a közfeladatot ellátó közérdekű vagyonkezelő alapítványokról szóló 2021. évi IX. törvény 21. §-a, valamint az egyházak hitéleti és közcélú tevékenységének anyagi feltételeiről szóló 1997. évi CXXIV. törvény 10/B. §-a alkalmazásában állami intézménynek.
