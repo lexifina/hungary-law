@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-47-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2006-47-00-00.6 |
 | 2017-01-01 | 2016. évi CXXI. törvény | 2006-47-00-00.7 |
 | 2018-01-01 | 2017. évi L. törvény | 2006-47-00-00.8 |
+| 2024-09-01 | 2024. évi XII. törvény | 2006-47-00-00.9 |
