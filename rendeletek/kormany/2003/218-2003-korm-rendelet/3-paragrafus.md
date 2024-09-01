@@ -2,7 +2,7 @@
 
 (1a)[^8] A fővárosi és vármegyei kormányhivatal közúti közlekedési igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a közlekedésért felelős miniszter (a továbbiakban: miniszter) gyakorolja. A miniszter feladatai ellátásában a Nyilvántartó közreműködik.
 
-(1b)[^9] A közlekedésrendészetért felelős miniszter szakmai ellenőrzést gyakorol a parkolási igazolványok kiadásával kapcsolatos feladatok ellátása felett.
+(1b)[^9] A Miniszterelnöki Kabinetirodát vezető miniszter szakmai ellenőrzést gyakorol a parkolási igazolványok kiadásával kapcsolatos feladatok ellátása felett.
 
 (2)[^10] Az igazolvány kiadására irányuló eljárás kérelemre indul. A kérelemnek a 2. számú mellékletben meghatározott adatokat kell tartalmaznia. A kérelem benyújtásakor igazolni kell a 2. § szerinti jogosultságot. Ha az ügyfél nem személyesen vagy nem az (1) bekezdés szerinti hatóságnál nyújtja be kérelmét, a kérelem tartalma a kérelmező képmásaként egy darab igazolványkép.
 
@@ -24,7 +24,7 @@
 
 [^7]: A 3. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 616/2022. (XII. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
 [^8]: A 3. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 53. §-a szerint módosított szöveg.
-[^9]: A 3. § (1b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be.
+[^9]: A 3. § (1b) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdése iktatta be, szövege a 217/2024. (VII. 31.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
 [^10]: A 3. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^11]: A 3. § (2a) bekezdését a 20/2013. (I. 30.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 122. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
 [^12]: A 3. § (2b) bekezdését a 457/2017. (XII. 28.) Korm. rendelet 122. § (2) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 618. §-át.
