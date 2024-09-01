@@ -4,7 +4,7 @@
 
 (1a) A Közbeszerzési Döntőbizottság előtti jogorvoslati eljárásban
 
-a) ha e törvény másként nem rendelkezik, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben (a továbbiakban: Eüsztv.) meghatározott elektronikus úton történő kapcsolattartás kötelező;
+a) ha e törvény másként nem rendelkezik, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.) meghatározott elektronikus úton történő kapcsolattartás kötelező;
 
 b) nincs helye sommás eljárásnak;
 

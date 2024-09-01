@@ -8,7 +8,7 @@ b) nem csatolták a 150. § (1) bekezdése szerinti díj befizetéséről szól�
 
 c) nem csatolták a meghatalmazott képviselő meghatalmazását, vagy
 
-d) a kérelmet és annak kötelező mellékleteit nem az Eüsztv.-ben meghatározott elektronikus úton nyújtották be.
+d) a kérelmet és annak kötelező mellékleteit nem a Dáptv.-ben meghatározott elektronikus úton nyújtották be.
 
 Ha a kérelmező a hiánypótlási felhívásban foglaltaknak nem tesz eleget, a Közbeszerzési Döntőbizottság a kérelmet visszautasítja, kivéve, ha a (3) bekezdés alkalmazásának van helye.
 
