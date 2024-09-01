@@ -1,0 +1,1 @@
+8. § Az e rendeletben foglaltak megkerülésével vagy megsértésével megkötött, a Nahtv. hatálya alá tartozó, a NAVÜ jogszabályban meghatározott feladatai ellátását, valamint a NAVÜ által biztosított szolgáltatások nyújtását szolgáló megállapodás semmis.

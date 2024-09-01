@@ -1,0 +1,1 @@
+10. § A Nahtv. 16. § (3)–(4) bekezdésében foglalt szolgáltatást nyújtó szolgáltató a honlapján tájékoztatást nyújt a Nemzeti Közadatportálon keresztül történő igénybenyújtás lehetőségéről, illetve honlapján megosztja a Nemzeti Közadatportál közvetlen elektronikus elérhetőségét.

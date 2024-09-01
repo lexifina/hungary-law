@@ -1,0 +1,1 @@
+16. § A NAVÜ a tájékoztatási szolgáltatás teljesítése érdekében a Nahtv. 83. § (4) bekezdésében foglaltak alapján köt megállapodást a közfeladatot ellátó szervvel. A megállapodásnak ki kell terjednie az adatok rendelkezésre bocsátásának módjára és feltételeire is.

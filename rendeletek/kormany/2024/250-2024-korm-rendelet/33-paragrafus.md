@@ -1,0 +1,1 @@
+33. § Ahol a Nahtv. szerinti szolgáltatásoknál előírt adatátadások technikai vagy egyéb okból a közvetlen elektronikus úton nem biztosíthatók, ott az adatátadást adathordozón kell biztosítani. Az adathordozó készítésének és átadásának idejével, de legfeljebb 3 munkanappal a határidők ez esetben meghosszabbodnak.

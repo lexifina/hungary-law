@@ -1,0 +1,1 @@
+A Kormány a nemzeti adatvagyon hasznosításának rendszeréről és az egyes szolgáltatásokról szóló 2023. évi CI. törvény 99. § (1) bekezdés a)–d) pontjában, 99. § (2) bekezdés b)–d), g)–j), m) és n) pontjában, valamint 99. § (3) bekezdésében kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
