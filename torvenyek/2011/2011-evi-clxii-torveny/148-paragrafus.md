@@ -8,6 +8,6 @@ a) igazságügyi szerv részére,
 
 b) törvényben meghatározott adatkörök tekintetében a központosított illetményszámfejtést végző szerv részére,
 
-c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához az E-ügyintézési tv. szerint szükséges mértékben a Bizalmi szolgáltató részére
+c) az elektronikus aláírási jogosultságról vezetett nyilvántartás adataiból az elektronikus aláírással kapcsolatos szolgáltatás biztosításához a Dáptv. szerint szükséges mértékben a Bizalmi szolgáltató részére
 
 lehet adatot továbbítani.
