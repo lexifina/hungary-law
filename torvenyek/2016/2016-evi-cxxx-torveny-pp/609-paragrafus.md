@@ -2,9 +2,9 @@
 
 ### 609. § [Elektronikus kapcsolattartás a szakértővel]
 
-(1) Az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő – az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett – szakértői tevékenységre jogszabályban feljogosított állami szerv, intézmény vagy szervezet (e fejezetben a továbbiakban együtt: szakértői tevékenységet végző szerv) az Országos Bírósági Hivatal részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
+(1) A Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett szakértő az igazságügyi szakértői névjegyzékbe történő bejelentéssel, az igazságügyi szakértői névjegyzékben nem szereplő – a Dáptv. alapján elektronikus úton történő kapcsolattartásra nem kötelezett – szakértői tevékenységre jogszabályban feljogosított állami szerv, intézmény vagy szervezet (e fejezetben a továbbiakban együtt: szakértői tevékenységet végző szerv) az Országos Bírósági Hivatal részére történő bejelentéssel vállalhatja az elektronikus kapcsolattartást.
 
-(2) Ha a szakértő és a szakértői tevékenységet végző szerv az E-ügyintézési tv. alapján elektronikus úton történő kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványait az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére.
+(2) Ha a szakértő és a szakértői tevékenységet végző szerv a Dáptv. alapján elektronikus úton történő kapcsolattartásra köteles vagy azt az (1) bekezdés szerint vállalja – a (3) és (4) bekezdésben foglaltak kivételével – a szakvéleményét és egyéb beadványait a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon, elektronikusan kézbesíti a bíróságnak és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére.
 
 (3) A bíróság a szakértő, illetve a szakértői tevékenységet végző szerv indokolt kérelmére – a 613. § (3) bekezdésében meghatározott okból, kivételesen – elektronikus kapcsolattartás esetén is engedélyt adhat a szakvélemény vagy egy részének papír alapú benyújtására.
 

@@ -18,17 +18,15 @@ g) az elektronikus okiratot az aláíró a Kormány rendeletében meghatározott
 
 h) olyan, törvényben vagy kormányrendeletben meghatározott szolgáltatás, vagy zárt rendszerben alkalmazott, tanúsított bizalmi szolgáltatás keretében jött létre, ahol a szolgáltató az okiratot a kiállító azonosításán keresztül a kiállító személyéhez rendeli és a személyhez rendelést a kiállító saját kezű aláírására egyértelműen visszavezethető adattal együtt vagy az alapján hitelesen igazolja; továbbá a szolgáltató az egyértelmű személyhez rendelésről kiállított igazolást elektronikus dokumentumba kapcsolt, elválaszthatatlan záradékba foglalja és azt az okirattal együtt legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus bélyegzővel és minősített időbélyegzővel látja el.
 
-i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát az E-ügyintézési tv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.
+i) – törvény eltérő rendelkezése hiányában – a kiállító szóbeli nyilatkozatát a Dáptv. szerinti elektronikus ügyintézést biztosító szerv vagy a szolgáltatás használatára jogosult egyéb szerv a Kormány rendeletében meghatározottak szerint mesterséges intelligenciával támogatott szolgáltatás szerint írásbeli formátumba alakította, az írásbeli formátumba alakított nyilatkozat tervezetét a kiállító jóváhagyta, és dokumentum a Kormány rendeletében meghatározottak szerint hitelesítve lett.
+
+j) a dokumentumot Dáptv. szerinti digitális szolgáltatás nyújtása során a digitális állampolgárság szolgáltató hitelesítette.
 
 (2) Ha az okirat aláírója nem tud olvasni, illetve nem érti azt a nyelvet, amelyen az okirat készült, csak akkor jön létre teljes bizonyító erejű magánokirat, ha magából az okiratból kitűnik, hogy annak tartalmát a tanúk egyike vagy a hitelesítő személy az okirat aláírójának megmagyarázta.
 
 (3) A teljes bizonyító erejű magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja, hogy az okirat aláírója az abban foglalt nyilatkozatot megtette, illetve elfogadta vagy magára kötelezőnek ismerte el.
 
-(3a) Az (1) bekezdés f) és g) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek az E-ügyintézési tv. szerinti szerepkörét, ha a szerepkört
-
-a) a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta vagy
-
-b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazolása tartalmazza.
+(3a) Az (1) bekezdés f) pontja szerinti magánokirat az ellenkező bizonyításáig teljes bizonyító erővel bizonyítja a nyilatkozat megtétele idejében a nyilatkozatot tevő személynek a Dáptv. szerinti szerepkörét, ha a szerepkört a szerepkör-tanúsító szolgáltató szerepkör-tanúsítványban igazolta.
 
 (4) A teljes bizonyító erejű magánokirat valódiságát csak akkor kell bizonyítani, ha azt az ellenfél kétségbe vonja, vagy a valódiság bizonyítását a bíróság szükségesnek találja.
 
@@ -42,6 +40,6 @@ b) az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás igazo
 
 a) a tárolásra átvételkor meggyőződött az elektronikus dokumentum hitelesítésének érvényességéről,
 
-b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, az E-ügyintézési tv. szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
+b) a tárolást a Kormány rendeletében meghatározott feltételeknek megfelelő, a Dáptv. szerinti minősített archiválási szolgáltatás vagy elektronikus dokumentumtárolás központi elektronikus ügyintézési szolgáltatás keretében végzi, és
 
 c) a Kormány rendeletében meghatározottak szerint igazolja az elektronikus okirat hitelességét.

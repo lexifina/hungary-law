@@ -1,6 +1,6 @@
 ### 605. § [Választható elektronikus kapcsolattartás]
 
-(1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, az E-ügyintézési tv.-ben és végrehajtási rendeleteiben meghatározott módon.
+(1) A perben az elektronikus kapcsolattartásra nem köteles fél vagy a jogi képviselőnek nem minősülő képviselője – az (5) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt és ezek mellékletét, valamint okiratot (e fejezetben a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja, a Dáptv.-ben és végrehajtási rendeleteiben meghatározott módon.
 
 (2) Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekinteni.
 

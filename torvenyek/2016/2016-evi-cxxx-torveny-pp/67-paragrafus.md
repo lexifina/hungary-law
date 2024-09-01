@@ -4,7 +4,7 @@
 
 (2) A meghatalmazást – a (3) és (4) bekezdésben foglalt kivétellel – közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni.
 
-(3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a meghatalmazásra vonatkozó jognyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban történő rögzítésével érvényes.
+(3) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban (a továbbiakban: rendelkezési nyilvántartás) a meghatalmazásra vonatkozó jognyilatkozat csak a meghatalmazás elfogadásával és az elfogadó nyilatkozat rendelkezési nyilvántartásban történő rögzítésével érvényes.
 
 (4) Az ügyvéd és a kamarai jogtanácsos meghatalmazásának igazolásáról jogszabály eltérően rendelkezhet.
 

@@ -21,3 +21,7 @@
 9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
 
 10. a fogyasztók kollektív érdekeinek védelmére irányuló képviseleti keresetekről és a 2009/22/EK irányelv hatályon kívül helyezéséről szóló, 2022. november 25-i (EU) 2020/1828 európai parlamenti és tanácsi irányelvnek,
+
+11. a polgári és kereskedelmi ügyekben végzett közvetítés egyes szempontjairól szóló, 2008. május 21-i 2008/52/EK európai parlamenti és tanácsi irányelvnek,
+
+12. az illegálisan tartózkodó harmadik országbeli állampolgárokat foglalkoztató munkáltatókkal szembeni szankciókra és intézkedésekre vonatkozó minimumszabályokról szóló, 2009. június 18-i 2009/52/EK európai parlamenti és tanácsi irányelvnek,
