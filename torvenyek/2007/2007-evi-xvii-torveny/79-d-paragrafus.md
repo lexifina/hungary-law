@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdés szerinti támogatást kihelyező szerv adatkezelési tevékenységének a 26. § (1) bekezdés a) és b) pontja szerinti nyilvántartási rendszereken belül, a mezőgazdasági és vidékfejlesztési támogatásokkal összefüggő valamennyi adatkörtől megkülönböztethető módon kell megvalósulnia.
 
-(3) Az (1) bekezdés szerinti eljárásokban, ideértve a nyilvántartásba vételt is, meghatalmazott eljárásának nincs helye, valamint kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus kapcsolattartásra van lehetőség.
+(3) Az (1) bekezdés szerinti eljárásokban, ideértve a nyilvántartásba vételt is, meghatalmazott eljárásának nincs helye, valamint kizárólag a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus kapcsolattartásra van lehetőség.
 
 (4) Az (1) bekezdés szerinti támogatást kihelyező szerv a 26. § (3) bekezdés 7., 10., 11., 15–18., 24., 28., 33. pontja szerinti nyilvántartásokból az e törvényben meghatározott módon vehet át és kezelhet adatokat. A más szerv, illetve szervezet nyilvántartásából átvett adatot csak a támogatást igénylő, valamint ha az ellátást más személyre tekintettel állapítják meg, úgy e személy személyazonosításához, a támogatáshoz való jogosultság megállapításához, a támogatás folyósításához, a támogatáshoz kapcsolódó feltételek ellenőrzéséhez, valamint a tényállás tisztázásához használhatja fel. Ezen szabály alkalmazandó arra az adatkezelésre is, amennyiben a támogatást kihelyező szerv törvény alapján további nyilvántartásokban szereplő adatok kezelésére is jogosult az (1) bekezdés szerinti támogatások vonatkozásában.
 

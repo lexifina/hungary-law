@@ -80,7 +80,7 @@ c) a 717/2014/EU bizottsági rendelet szerinti halászati csekély összegű tá
 
 33. kamarai meghatalmazás: a jogszabályban meghatározott feltételekkel létrejött, képviseleti jogot létesítő jognyilatkozat, amely alapján a Magyar Agrár- Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) az agrár-, illetve vidékfejlesztési támogatások igénybevételével összefüggő elektronikus ügyintézés során technikai közreműködőként az ügyfelek képviseletében eljárhat;
 
-34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 25. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.
+34. mobilGazda alkalmazás: a mezőgazdasági és vidékfejlesztési támogatási szerv által az ügyfelek számára biztosított, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 39. §-a szerinti, valós idejű és közvetlen kommunikációs lehetőséget biztosító, hatékonyabb ügyintézést célzó interaktív alkalmazás.
 
 (2) Az Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszer (a továbbiakban: ügyfél-nyilvántartási rendszer) a mezőgazdasági és vidékfejlesztési támogatási szerv és az élelmiszerlánc-felügyeleti szerv hatáskörébe tartozó eljárásokban részt vevő ügyfelek azonosítását és törzsadatainak nyilvántartását szolgáló rendszer, amely tekintetében a törvény, valamint a törvény végrehajtására kiadott jogszabályok alkalmazásában:
 

@@ -2,7 +2,7 @@
 
 55/A. § (1) A döntést az ügyféllel, illetve a képviselővel írásban, kötelező elektronikus kérelembenyújtás esetén – amennyiben jogszabály másként nem rendelkezik – elektronikus úton kell közölni.
 
-(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti elektronikus úton kézbesíti.
+(2) A mezőgazdasági és vidékfejlesztési támogatási szerv a döntést írásbeli kapcsolattartás esetén hivatalos iratként vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény szerinti elektronikus úton kézbesíti.
 
 (3) A döntés közlésének napja az a nap, amelyen azt kézbesítették.
 

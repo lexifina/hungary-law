@@ -20,7 +20,7 @@
 
 (11) Ha az ügyfélnek több meghatalmazottja van vagy a meghatalmazottja mellett kamarai meghatalmazással is rendelkezik, az iratokat az adott intézkedésben utoljára iratot benyújtó, hatályos állandó vagy kamarai meghatalmazáson alapuló képviseleti joggal rendelkező részére kell kézbesíteni.
 
-(12) Folyamatban lévő támogatás esetén az ügy megindítását követően rendelkezési nyilvántartásba meghatalmazásra tett új ügyintézési rendelkezést, vagy annak módosítását a mezőgazdasági és vidékfejlesztési támogatási szerv csak akkor veszi figyelembe, ha azt az ügyfél a mezőgazdasági és vidékfejlesztési támogatási szervnek is bejelenti.
+(12)
 
 (13)
 
