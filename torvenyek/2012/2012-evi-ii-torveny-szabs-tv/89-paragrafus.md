@@ -10,7 +10,7 @@ c) szabálysértési jogsegély keretében,
 
 d) az (5) bekezdésben meghatározott esetben hirdetményi úton,
 
-e) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre
+e) elektronikus úton a Dáptv. szerinti hivatalos elérhetőségre
 
 történhet.
 
