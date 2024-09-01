@@ -114,7 +114,7 @@ r) a készségfejlesztő iskolában az utolsó gyakorlati évfolyam elvégzésé
 
 s) az országos köznevelési szakértői névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 
-t)
+t) a tiltott tárgyak és a használatában korlátozott tárgyak – nevelési-oktatási intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,
 
 u) a köznevelési szaktanácsadói névjegyzékbe történő felvételhez szükséges dokumentumok körét,
 

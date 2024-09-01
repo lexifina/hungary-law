@@ -22,17 +22,7 @@
 
 (10) Ha az összevont osztályban az egyes évfolyamokra a 6. melléklet eltérő mértékű heti kötelező tanórai foglalkozást és az osztályok számára eltérő órakeretet határoz meg, a magasabb évfolyamra megállapított óraszámokat kell alkalmazni.
 
-(11) Az iskola a nappali rendszerű iskolai oktatásban azokban az osztályokban, amelyekben közismereti oktatás is folyik, azokon a tanítási napokon, amelyeken közismereti oktatás is folyik, megszervezi a mindennapos testnevelést legalább napi egy testnevelés óra keretében, amelyből legfeljebb heti két óra
-
-a) a kerettanterv testnevelés tantárgyra vonatkozó rendelkezéseiben meghatározott oktatásszervezési formákkal, műveltségterületi oktatással,
-
-b) iskolai sportkörben való sportolással,
-
-c) versenyszerűen sporttevékenységet folytató igazolt, egyesületi tagsággal rendelkező vagy amatőr sportolói sportszerződés alapján sportoló tanuló kérelme alapján a tanévre érvényes versenyengedélye és a sportszervezete által kiállított igazolás birtokában a sportszervezet keretei között szervezett edzéssel,
-
-d) sportszervezetben legalább heti két óra sporttevékenységet folytató tanuló kérelme alapján – amennyiben délután szervezett testnevelés órával ütközik – a félévre érvényes, a sportszervezet által kiállított igazolással
-
-váltható ki.
+(11) Az iskola a nappali rendszerű iskolai oktatásban, azokban az osztályokban és azokon a tanítási napokon, amelyeken közismereti oktatás is folyik, megszervezi a mindennapos testnevelést legalább napi egy testnevelésóra keretében, amelyből legfeljebb heti két óra váltható ki a sportról szóló törvény szerinti igazolt sportolói jogviszonyban álló versenyző tanuló kérelme alapján – versenyengedély birtokában – a sportszervezet keretei között szervezett edzéslátogatás igazolásával, amennyiben a testnevelésórát közismereti tanóra nem előzi meg vagy nem követi.
 
 (11a) Amennyiben a testnevelésóra keretében megvalósított úszásoktatás infrastrukturális feltételei a nevelési-oktatási intézményben nem állnak rendelkezésre, akkor heti egy alkalommal legfeljebb két testnevelésórát egy tanítási napon összevonva lehet megszervezni.
 

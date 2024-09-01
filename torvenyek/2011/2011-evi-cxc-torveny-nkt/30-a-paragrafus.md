@@ -1,0 +1,1 @@
+30/A. § Az állam a középiskolában tanulók részére ingyenesen biztosítja a „B” kategóriás közúti járművezetői engedély megszerzéséhez a közlekedési alapismeretek és gyakorlati vizsga letételéhez szükséges ismeretek elsajátítását. A szülő, a törvényes képviselő vagy a nagykorú tanuló döntésével visszautasíthatja a képzésben részvételt.
