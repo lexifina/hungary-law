@@ -1,4 +1,4 @@
-## 3.[^2] Távoli azonosítás
+## 3.[^3] Távoli azonosítás
 
 3. § (1) Távoli azonosítás esetén a bizalmi szolgáltató az élő videóképes telekommunikációs kapcsolat során rögzíti az ügyfél arcképmását, a közhiteles nyilvántartásban ellenőrzi az ügyfél által a távoli azonosítás során használt érvényes személyazonosság igazolására alkalmas okmányról (a továbbiakban: okmány) vagy az okmány tárolóeleméből kiolvasott adatokat, majd az ügyfél rögzített arcképmását összeveti az okmányon vagy az okmány tárolóelemében szereplő arcképmással. Az azonosítás akkor sikeres, ha egyértelműen megállapítható, hogy az okmányban szereplő személy azonos az ügyféllel.
 
@@ -16,7 +16,7 @@ d) arcképmása alapján az okmányon, vagy amennyiben az ügyfél által haszn�
 
 (4) Az okmányon szereplő arcképmás a távoli azonosítás során az okmány bemutatásakor rögzíthető vagy kiolvasható az okmány tárolóeleméből.
 
-(5) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény 63. §-a szerinti személyazonosítás esetén az (1) bekezdés szerinti arcképazonosság akkor is megállapítható, ha az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott személyazonosság-ellenőrzés sikeresen megtörtént.
+(5)[^4] A Dáptv. 63. §-a szerinti személyazonosítás esetén az (1) bekezdés szerinti arcképazonosság akkor is megállapítható, ha az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény 12/B. §-ában meghatározott személyazonosság-ellenőrzés sikeresen megtörtént.
 
 (6) A távoli azonosítást végző bizalmi szolgáltató köteles megbizonyosodni arról, hogy a telekommunikációs kapcsolat útján rögzített arcképmás élő személyről készült, az ügyfél arcképmása nem manipulált vagy mesterségesen generált, valamint az okmány érvényes és a távoli azonosítás elvégzésére alkalmas, így az okmány eredeti, sérülésmentes, és az ellenőrzött, felismerhető és sérülésmentes biztonsági elemek és okmányjellemzők alapján hamisított volta nem állapítható meg.
 
@@ -24,4 +24,5 @@ d) arcképmása alapján az okmányon, vagy amennyiben az ügyfél által haszn�
 
 (8) Nincs helye szerződéskötésnek vagy a tanúsítvány kibocsátásának, ha a távoli azonosítás az e §-ban foglaltaknak nem felelt meg, és az ügyfél által megadott és bemutatott adatok közhiteles nyilvántartásban történő egyezőségének vizsgálata eredménytelen. Ebben az esetben a szolgáltató jogosult felajánlani az ügyfélnek a személyes jelenléttel történő azonosítást.
 
-[^2]: A 3. alcím (3. §) a 113/2024. (V. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: A 3. alcím (3. §) a 113/2024. (V. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^4]: A 3. § (5) bekezdése a 113/2024. (V. 14.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.

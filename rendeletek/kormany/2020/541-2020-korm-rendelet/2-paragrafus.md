@@ -1,11 +1,11 @@
-## 1. § E rendelet hatálya az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti bizalmi szolgáltatóra és a bizalmi szolgáltatási ügyfélre (a továbbiakban: ügyfél) terjed ki.
-
 ## 2. A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszerek
 
-2. §[^1] A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszer
+2. §[^2] A bizalmi szolgáltatások esetében a személyes jelenléttel egyenértékű biztosítékot nyújtó, nemzeti szinten elismert egyéb azonosítási módszer
 
-a) az elektronikus hírközlő eszköz útján történő távoli azonosítás (a továbbiakban: távoli azonosítás), valamint
+a) az elektronikus hírközlő eszköz útján történő távoli azonosítás (a továbbiakban: távoli azonosítás),
 
-b) a tárolóelemmel rendelkező személyazonosító igazolvány használatával történő azonosítás (a továbbiakban: eID azonosítás).
+b) a tárolóelemmel rendelkező személyazonosító igazolvány használatával történő azonosítás (a továbbiakban: eID azonosítás), valamint
 
-[^1]: A 2. § a 113/2024. (V. 14.) Korm. rendelet 6. §-ával megállapított szöveg.
+c) a Dáptv. szerinti keretszolgáltatások igénybevétele esetén a Dáptv. szerinti eAzonosítás.
+
+[^2]: A 2. § a 138/2024. (VI. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.

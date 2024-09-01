@@ -1,5 +1,3 @@
-## 5. § Az e rendelet szerinti azonosítási módszerek esetén az azonosítást követően vagy azzal egyidejűleg a bizalmi szolgáltató az E-ügyintézési tv. 82. § (3)–(9) bekezdése szerint jár el azzal, hogy a 2. § szerinti azonosítást személyes jelenléttel egyenértékű azonosításnak kell tekinteni.
-
 6. § (1) Az e rendelet szerinti azonosítási módszerek esetén a bizalmi szolgáltató és az ügyfél közötti szerződésben meghatározott részletszabályok szerint
 
 a) a minősített tanúsítvány elektronikusan továbbítható, valamint
