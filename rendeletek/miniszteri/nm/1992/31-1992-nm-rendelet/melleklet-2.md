@@ -50,7 +50,7 @@ anyja neve: ……………………………………….……
 
 születési helye és ideje: …………………………..……
 
-a közúti járművezetők elsősegélynyújtási ismeretei megszerzésének igazolásáról szóló 31/1992. (XII. 19.) NM rendelet 2. § (1) bekezdésében foglaltak szerinti végzettségét (szakképzettségét, szakképesítését) tanúsító okiratot bemutatta, amely alapján az elsősegélynyújtási vizsgakötelezettsége alól mentesül.
+a közúti járművezetők elsősegélynyújtási ismeretei megszerzésének igazolásáról szóló 31/1992. (XII. 19.) NM rendelet 2. § (1) bekezdésében foglaltak szerinti ismeretek megszerzését tanúsító okiratot, tanúsítványt bemutatta, amely alapján az elsősegélynyújtási vizsgakötelezettsége alól mentesül.
 
 Kelt: …………………………
 
@@ -58,4 +58,4 @@ Kelt: …………………………
 
 Magyar Vöröskereszt fővárosi/……………………… megyei szervezete
 
-[^6]: A 2. mellékletet a 7/2021. (II. 12.) EMMI rendelet 6. § (2) bekezdése iktatta be.
+[^6]: A 2. mellékletet a 7/2021. (II. 12.) EMMI rendelet 6. § (2) bekezdése iktatta be, szövege a 37/2024. (VIII. 29.) BM rendelet 1. § c) pontja szerint módosított szöveg.
