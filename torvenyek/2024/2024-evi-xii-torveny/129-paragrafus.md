@@ -1,1 +1,5 @@
-### 129. §
+129. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény a következő 60. §-sal egészül ki:
+
+„60. § (1) Az engedélyezési eljárásokban csak eredeti dokumentum vagy hiteles elektronikus másolat nyújtható be.
+
+(2) Az engedélyezési eljárásban a gazdálkodó szervezetek őrzésében lévő papíralapú közokiratról, más által kiállított papíralapú teljes bizonyító erejű magánokiratról vagy egyéb magánokiratról a gazdálkodó szerv által készített elektronikus másolat hiteles másolatként nem fogadható el.”

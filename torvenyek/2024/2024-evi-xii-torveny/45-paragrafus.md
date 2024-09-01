@@ -1,1 +1,1 @@
-### 45. §
+45. § Hatályát veszti az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény 19/A. § (5) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szabályozott” szövegrész.

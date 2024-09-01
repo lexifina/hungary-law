@@ -1,1 +1,3 @@
-### 16. §
+16. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 29/C. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A nyilvántartást kezelő szerv a (2) bekezdés b) pontja szerinti szolgáltató részére a (2) bekezdésben megjelölt feladatok ellátása érdekében az állandó személyazonosító igazolvány érvénytelenné válásáról, valamint arról, ha a polgár a személyazonosító igazolványt 60 napon belül nem vette át, adatot szolgáltat. A (2) bekezdés b) pontja szerinti szolgáltató – feladatainak ellátása érdekében – a szolgáltatásra való jogosultság megszűnésétől számított 10 évig kezelheti a nyilvántartást kezelő szervtől átvett adatokat.”

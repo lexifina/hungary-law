@@ -1,1 +1,1 @@
-### 91. §
+91. § Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 105. § (10) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben” szövegrész helyébe az „a Dáptv.-ben” szöveg lép.

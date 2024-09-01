@@ -1,1 +1,1 @@
-### 136. §
+136. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 26/A. §-ában a „büntetés-végrehajtási ügyben,” szövegrész helyébe a „büntetés-végrehajtási ügyben, a fogvatartással kapcsolatos ügyben,” szöveg lép.
