@@ -6,4 +6,4 @@
 
 (4) Ha a hagyatéki eljárásban érdekelt gazdálkodó szervezet vagy jogi képviselővel rendelkező személy vagy szervezet vesz részt, részére az iratokat a Pp.-ben meghatározottak szerinti elektronikus úton kell kézbesíteni.
 
-(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény rendelkezései alkalmazandók.
+(5) Ha a hagyatéki eljárásban érdekelt a részére az iratoknak elektronikus úton való kézbesítését kérte, utóbb a beadvány papíralapú benyújtásával egyidejűleg kérheti a közjegyzőtől a papíralapú eljárásra történő áttérés engedélyezését a Pp. szabályainak alkalmazásával. Az elektronikus úton való kézbesítés alóli kivételekre a Pp. és a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései alkalmazandók.

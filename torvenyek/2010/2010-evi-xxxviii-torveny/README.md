@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-38-00-00
 | 2024-01-01 | 2023. évi XCVI. törvény | 2010-38-00-00.39 |
 | 2024-07-01 | 2024. évi XVII. törvény | 2010-38-00-00.41 |
 | 2024-07-09 | 2024. évi XVII. törvény | 2010-38-00-00.42 |
+| 2024-09-01 | 2024. évi XII. törvény | 2010-38-00-00.40 |
