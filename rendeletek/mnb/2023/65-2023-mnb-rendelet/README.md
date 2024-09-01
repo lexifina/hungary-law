@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-65-20-2
 | 2024-04-01 | 2023-65-20-2C.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2024-04-02 | 2023-65-20-2C.6 | 2010. évi CXXX. törvény |
 | 2024-06-15 | 2023-65-20-2C.11 | 23/2024. (VI. 14.) MNB rendelet |
+| 2024-09-01 | 2023-65-20-2C.7 | 23/2024. (VI. 14.) MNB rendelet |

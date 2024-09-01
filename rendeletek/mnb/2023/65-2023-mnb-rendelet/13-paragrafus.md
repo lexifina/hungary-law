@@ -1,12 +1,12 @@
-13. § (1)[^16]
+13. § (1)[^12]
 
-(2)[^17]
+(2)[^13]
 
-(3)[^18]
+(3)[^14]
 
-(4)[^19]
+(4)[^15]
 
-[^16]: A 13. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: A 13. § (2) bekezdése a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
-[^18]: A 13. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 13. § (4) bekezdése a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 13. § (2) bekezdése a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 13. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § (4) bekezdése a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
