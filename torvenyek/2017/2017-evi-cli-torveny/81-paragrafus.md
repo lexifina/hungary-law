@@ -1,6 +1,6 @@
 ### 81. § [Kézbesítési kifogás]
 
-(1) Az adózó vagy az eljárás egyéb résztvevője akkor terjeszthet elő kézbesítési kifogást, ha a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok vagy az Eüsztv. megsértésével történt.
+(1) Az adózó vagy az eljárás egyéb résztvevője akkor terjeszthet elő kézbesítési kifogást, ha a kézbesítés a hivatalos iratok kézbesítésére vonatkozó jogszabályok vagy a Dáptv. megsértésével történt.
 
 (2) Természetes személy adózó vagy az eljárás egyéb résztvevője kézbesítési kifogást akkor is előterjeszthet, ha önhibáján kívüli okból nem vehette át a hivatalos iratot. Ez a rendelkezés irányadó abban az esetben is, ha a kézbesítés elektronikus úton történt.
 

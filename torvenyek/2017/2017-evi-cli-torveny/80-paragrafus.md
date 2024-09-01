@@ -1,12 +1,12 @@
 ### 80. § [Közzététel kézbesítettnek tekintett iratokról]
 
-(1) A 79. § (2) bekezdése és az Eüsztv. 14. § (4) bekezdés c) pontja szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
+(1) A 79. § (2) bekezdése és a Dáptv. 27. § c) pontja szerinti kézbesítés esetén – kivéve, ha az adózó vagy képviselője a küldemény átvételét megtagadta – az állami adó- és vámhatóság a kézbesítésről történő tudomásszerzését követően az internetes honlapján tizenöt nap időtartamra közzéteszi
 
 a) a címzett természetes személy adózó adóazonosító jelét, más adózó adószámát,
 
 b) a kézbesítéssel érintett állami adó- és vámhatósági irat ügyiratszámát,
 
-c) az internetes honlapján történő közzététel időpontját és
+c) az internetes honlapján történő közzététel időpontját, és
 
 d) azt a telefonszámot, amelyen az adózó a kézbesítéssel érintett állami adó- és vámhatósági irat átvétele tekintetében tájékozódhat.
 
