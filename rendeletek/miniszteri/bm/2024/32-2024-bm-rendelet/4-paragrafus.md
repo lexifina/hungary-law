@@ -1,0 +1,3 @@
+4. § (1) A tanítási év első féléve 2025. január 17-ig tart. Az iskolák 2025. január 24-ig értesítik a tanulókat, kiskorú tanuló esetén a szülőket az első félévben elért tanulmányi eredményekről. A 3. §-ban meghatározott esetben az első félév utolsó napját az igazgató állapítja meg. Az értesítést ettől a naptól számított öt munkanapon belül kell megküldeni.
+
+(2) Az első félév és tanítási év utolsó napját, a középiskolában a május–júniusi szóbeli érettségi vizsgaidőszak utolsó napját követő tizenöt napon belül az iskolák a nevelőtestületi értekezleten elvégzik a pedagógiai munka elemzését, értékelését, hatékonyságának vizsgálatát. A nevelőtestületi értekezletről készített jegyzőkönyvet tájékoztatás céljából meg kell küldeni a fenntartónak.

@@ -1,0 +1,1 @@
+5. § A 2024/2025. tanévben a gimnázium, valamint a szakgimnázium 9–11. évfolyamán a nevelő-oktató munka 2025. május 5–9. között – az igazgató által meghatározott módon – tantermen kívüli, digitális munkarendben szervezendő meg.
