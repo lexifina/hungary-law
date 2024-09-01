@@ -6,4 +6,4 @@
 
 (2) Az ügyvédi kamarai nyilvántartás 1. mellékletben meghatározott fennálló, törölt és megváltozott adatai nyilvánosak, a fennálló és nyilvános adatait pedig az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
+(3) Az ügyvédi kamara az 1. mellékletben foglalt táblázat 20. sora szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.

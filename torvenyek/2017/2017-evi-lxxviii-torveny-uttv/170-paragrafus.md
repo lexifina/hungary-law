@@ -36,4 +36,4 @@ n) az ügyvédi tevékenység, valamint az ügyvédasszisztensi tevékenység ha
 
 a) kamarai hatósági ügynek nem minősülő kamarai eljárásokban is elrendelheti a közigazgatási hatósági eljárásokra vonatkozó egyes szabályok alkalmazását, valamint
 
-b) bármely ügyben lehetővé teheti az Eüsztv. szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint kötelezővé teheti az elektronikus kapcsolattartást.
+b) bármely ügyben lehetővé teheti a Dáptv. szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint kötelezővé teheti az elektronikus kapcsolattartást.

@@ -2,7 +2,7 @@
 
 46. § (1) Az ügyvéd és a kamarai jogtanácsos (ezen alcím alkalmazásában a továbbiakban együtt: ügyvéd) papíralapú okiratot – utalvány, értékpapír vagy más vagyoni értékű jogot megtestesítő okirat kivételével – elektronikus okirati formába alakíthat.
 
-(2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet. Az elektronikus okirati formába alakítás során az Eüsztv. 102. § (6) bekezdését, valamint 103. § (4) és (5) bekezdését nem kell alkalmazni.
+(2) Az elektronikus okirati formába való alakítás során az ügyvéd kizárólag oldalhű elektronikus másolatot készíthet.
 
 (3) A 3. § (1) bekezdés l) pontjában meghatározott kiegészítő jellegű tevékenység ellátása során az ügyvéd kizárólag a 18. § (1) bekezdése szerinti követelményeknek megfelelő elektronikus aláírását használhatja.
 

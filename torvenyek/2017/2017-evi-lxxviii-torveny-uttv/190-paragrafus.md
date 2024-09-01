@@ -12,7 +12,7 @@
 
 6. telefonszámát,
 
-7. az Eüsztv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőségét,
+7. a Dáptv. szerinti elektronikus kapcsolattartásra szolgáló elérhetőségét,
 
 8. elektronikus levelezési címét,
 
@@ -52,4 +52,4 @@ f) az egyszemélyes ügyvédi iroda helyettes ügyvédje nevét és kamarai azon
 
 (4) Az ügyvédi kamarai nyilvántartásnak az (1) bekezdés 1–12. pontja és a (2) bekezdése szerinti adatai nyilvánosak, közzétehetők vagy bárki számára kiadhatók, a fennálló adatait az ügyvédkeresőben naprakészen nyilvánosságra kell hozni.
 
-(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot az Eüsztv. szerinti rendelkezési nyilvántartásból átveszi.
+(5) Az ügyvédi kamara az (1) bekezdés 7. pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.

@@ -12,4 +12,4 @@
 
 (3) Az ügyvédi kamara az ügyvédi tevékenység gyakorlására jogosultak szakmai irányításával, érdekképviseletével, az ügyvédi tevékenységgel összefüggő jogügyletek biztonságával kapcsolatos, valamint az alapszabályában meghatározott közfeladatokat látja el.
 
-(4) Az ügyvédi kamara közhatalmi eljárásában az iratok kézbesítésére az általános közigazgatási rendtartásnak a kézbesítésre vonatkozó szabályait, valamint az Eüsztv. rendelkezéseit alkalmazni kell.
+(4) Az ügyvédi kamara közhatalmi eljárásában az iratok kézbesítésére az általános közigazgatási rendtartásnak a kézbesítésre vonatkozó szabályait, valamint a Dáptv. rendelkezéseit alkalmazni kell.

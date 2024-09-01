@@ -2,7 +2,7 @@
 
 18. § (1) Törvény eltérő rendelkezése hiányában ügyvédi tevékenység végzése során, – ha jogszabály elektronikus aláírás használatát írja elő – csak a következő feltételeknek megfelelő minősített elektronikus aláírás vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírás használható:
 
-a) az elektronikus aláíráshoz tartozó tanúsítványban vagy az ahhoz csatolt szerepkör igazolásban az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: Eüsztv.) szerinti bizalmi szolgáltató (a továbbiakban: bizalmi szolgáltató) feltüntette, hogy az aláíró ügyvédi kamarai tagsága fennáll vagy ügyvédi kamarai nyilvántartásban szerepel, és
+a) az elektronikus aláíráshoz tartozó tanúsítványban vagy az ahhoz csatolt szerepkör igazolásban a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti bizalmi szolgáltató (a továbbiakban: bizalmi szolgáltató) feltüntette, hogy az aláíró ügyvédi kamarai tagsága fennáll vagy ügyvédi kamarai nyilvántartásban szerepel, és
 
 b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos érvényes visszavonási kérelem alapján a módosított visszavonási állapotot legfeljebb négy órán belül közzéteszi a nyilvántartásában, és a tanúsítvány ellenőrzését kérő felhasználóknak a tanúsítvány visszavonási állapotáról folyamatos tájékoztatást ad.
 
@@ -10,7 +10,7 @@ b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos ér
 
 (3) A bizalmi szolgáltató a tanúsítvány kibocsátásáról adatot szolgáltat az ügyvédi kamaráknak.
 
-(4) Az ügyvédi tevékenység gyakorlója az Eüsztv. 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti az ügyvédi kamarát is.
+(4) Az ügyvédi tevékenység gyakorlója a Dáptv. 89. § (1) bekezdése és 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti az ügyvédi kamarát is.
 
 (5) Az ügyvédi tevékenység gyakorlója nem használhatja az elektronikus aláírást, ha
 
