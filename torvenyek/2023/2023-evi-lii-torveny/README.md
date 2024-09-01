@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2023-52-00-00
 | 2024-05-10 | 2024. évi XIII. törvény | 2023-52-00-00.10 |
 | 2024-05-11 | 2024. évi XXV. törvény | 2023-52-00-00.11 |
 | 2024-07-01 | 2024. évi XII. törvény | 2023-52-00-00.7 |
+| 2024-09-01 | 2024. évi XXV. törvény | 2023-52-00-00.8 |

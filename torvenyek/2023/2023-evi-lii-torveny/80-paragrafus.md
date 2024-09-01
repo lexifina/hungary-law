@@ -18,7 +18,11 @@ c) heti két óra időtartamban a munkaközösség-vezetéssel, tanszakvezetéss
 
 d) az a)–c) pontban foglalt több feladat ellátása esetén összesen legfeljebb heti négy órát,
 
-e) az a)–d) pontban foglaltakon felül heti egy óra időtartamban nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását.
+e) az a)–d) pontban foglaltakon felül heti egy óra időtartamban
+
+ea) a gyakornok mentorálását,
+
+eb) nem gyakorló köznevelési intézményben a pedagógusjelöltek mentorálását.
 
 (3) A kollégiumi nevelőtanár a neveléssel-oktatással lekötött munkaidejét az (1) és (2) bekezdésben foglalt feladatokon túl teljesítheti az iskolai vagy kollégiumi foglalkozáson részt nem vevő tanulók – étkezési, alvási és a heti pihenőnapon, munkaszüneti napon teljesített ügyeleti időn kívüli – folyamatos pedagógiai felügyeletébe tartozó egyes feladatoknak a rendes munkaidőn belül történő ellátásával is.
 
