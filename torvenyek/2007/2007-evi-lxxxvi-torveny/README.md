@@ -101,3 +101,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2023-09-01 | 2023. évi XXIX. törvény | 2007-86-00-00.109 |
 | 2024-01-01 | 2023. évi XCIX. törvény | 2007-86-00-00.110 |
 | 2024-06-19 | 2024. évi XXIX. törvény | 2007-86-00-00.113 |
+| 2024-09-01 | 2024. évi XII. törvény | 2007-86-00-00.111 |
