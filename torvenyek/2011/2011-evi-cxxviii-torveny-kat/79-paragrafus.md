@@ -12,7 +12,7 @@ c) az ügyfél számlaszáma, IBAN száma,
 
 d) a nem természetes személy ügyfél
 
-da) cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetősége, telefonszáma,
+da) cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. CIII. törvény (a továbbiakban: Dáptv.) szerinti hivatalos elérhetősége, telefonszáma,
 
 db) természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma,
 
@@ -22,7 +22,7 @@ f) az üggyel érintett ingatlan
 
 fa) természetes személy tulajdonosának természetes személyazonosító adatai,
 
-fb) nem természetes személy tulajdonosának cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, az E-ügyintézési tv. szerinti hivatalos elérhetősége, telefonszáma, természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma.
+fb) nem természetes személy tulajdonosának cégjegyzék száma, nyilvántartási száma, államháztartási egyedi azonosítója, létrejöttének és megszűnésének időpontja, tevékenységi körei, székhelyének címe, elektronikus levélcíme, a Dáptv. szerinti hivatalos elérhetősége, telefonszáma, természetes személy képviselőjének, meghatalmazottjának vagy kapcsolattartójának természetes személyazonosító adatai, lakcíme, elektronikus levélcíme, telefonszáma.
 
 (2) Az (1) bekezdés alapján kezelt adat – ha törvény eltérően nem rendelkezik – más szerv vagy személy részére nem továbbítható.
 

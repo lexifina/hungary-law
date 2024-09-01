@@ -2,7 +2,7 @@
 
 ## A HIVATÁSOS KATASZTRÓFAVÉDELMI SZERV HATÁSKÖRÉBE UTALT HATÓSÁGI ELJÁRÁSOK ELEKTRONIKUS ÜGYINTÉZÉSÉNEK KÜLÖNÖS SZABÁLYAI
 
-79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban az E-ügyintézési tv. 2. § (1) bekezdése alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
+79/B. § (1) A hivatásos katasztrófavédelmi szerv a hatáskörébe utalt hatósági eljárások gyors és hatékony lefolytatása érdekében törvényben vagy kormányrendeletben meghatározott eljárásokban a Dáptv. 18. § (1) bekezdése és 20. §-a alapján az ügy elektronikus intézéséhez elektronikus Integrált Hatósági Rendszert (a továbbiakban: IHR) biztosít.
 
 (2) A hivatásos katasztrófavédelmi szerv hatáskörébe utalt, törvényben meghatározott hatósági eljárásaiban az ügyfél – az elektronikus azonosítását követően – a kérelmét és egyéb beadványait az IHR-en keresztül nyújtja be a hivatásos katasztrófavédelmi szerv részére, illetve a hivatásos katasztrófavédelmi szerv az általa kiállított dokumentumokat az IHR-be tölti fel.
 
