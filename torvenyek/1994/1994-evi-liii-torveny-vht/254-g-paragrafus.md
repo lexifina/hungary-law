@@ -14,7 +14,7 @@ f) a névjegyzékbe történő felvétel időpontja,
 
 g) a névjegyzékből történő törlés időpontja,
 
-h) a végrehajtói irodának az E-ügyintézési tv. szerinti hivatalos elérhetősége.
+h) a végrehajtói irodának a Dáptv. szerinti hivatalos elérhetősége.
 
 (2) A végrehajtói iroda a nyilvántartásban szereplő adatainak megváltozásáról köteles a Kar hivatali szervét a változástól számított 15 napon belül tájékoztatni.
 
@@ -22,6 +22,6 @@ h) a végrehajtói irodának az E-ügyintézési tv. szerinti hivatalos elérhet
 
 (4) Ha a végrehajtói iroda az (1) bekezdés szerinti adatokat a bejelentésben nem közli, a Kar hivatali szerve az adatok közlése iránt megkeresi a végrehajtói iroda bejegyzését végző cégbíróságot.
 
-(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi.
+(5) A Kar hivatali szerve az (1) bekezdés h) pontja szerinti adatot a Dáptv. szerinti rendelkezési nyilvántartásból átveszi.
 
 (6)

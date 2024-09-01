@@ -8,7 +8,7 @@ b) a bizalmi szolgáltató biztosítja, hogy a tanúsítvánnyal kapcsolatos ér
 
 (2) Az önálló bírósági végrehajtó, önálló bírósági végrehajtó-helyettes és a végrehajtói szakvizsgával rendelkező önálló bírósági végrehajtójelölt (e § alkalmazásában a továbbiakban együtt: hivatali elektronikus aláírással rendelkező végrehajtó) részére a Kar hivatali szerve rendszeresít hivatali elektronikus aláírást.
 
-(3) A hivatali elektronikus aláírással rendelkező végrehajtó az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 85. § (1) bekezdése és 97. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
+(3) A hivatali elektronikus aláírással rendelkező végrehajtó a Dáptv. 89. § (1) bekezdése és 101. § (4) bekezdése szerinti tájékoztatási kötelezettségének teljesítéséről a tájékoztatással egyidejűleg értesíti a Kar hivatali szervét is.
 
 (4) A hivatali elektronikus aláírással rendelkező végrehajtó nem használhatja az elektronikus aláírást, ha
 

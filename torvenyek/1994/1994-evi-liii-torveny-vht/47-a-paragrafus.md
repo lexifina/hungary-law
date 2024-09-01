@@ -36,7 +36,7 @@ fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 a) a bemutatott arcképes igazolvány alapján az illetékes ügyvédi kamara nyilvántartásában,
 
-b) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti rendelkezési nyilvántartásban, valamint
+b) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerinti rendelkezési nyilvántartásban, valamint
 
 c) a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvény szerinti nyilvántartásban
 
