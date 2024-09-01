@@ -1,3 +1,3 @@
-4. §[^7]
+4. § A Korm. rendelet 67. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 4. § a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
+„(2) A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító központi hatóság (ECRIS) hatáskörébe utalt, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.”

@@ -1,38 +1,34 @@
 14. § Hatályát veszti a Korm. rendelet
 
-a)[^17]
+a) 66. § (1) bekezdés 15. és 18. pontja,
 
-b)[^18]
+b)[^13]
 
-c)[^19]
+c) 67. § (1) bekezdés 1., 2., 4., 6–11. és 13–16. pontja,
 
-d)[^20]
+d) 78. §-a,
 
-e)[^21]
+e) 81. §-a,
 
-f)[^22]
+f)[^14]
 
-g)[^23]
+g)[^15]
 
-h)[^24]
+h)[^16]
 
-i)[^25]
+i)[^17]
 
-j)[^26]
+j)[^18]
 
-k)[^27]
+k)[^19]
 
-l)[^28]
+l)[^20]
 
-[^17]: A 14. § a) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^18]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^19]: A 14. § c) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^20]: A 14. § d) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^21]: A 14. § e) pontja a 15. § (2) bekezdése alapján 2024. szeptember 1-jén lép hatályba.
-[^22]: A 14. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^23]: A 14. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^24]: A 14. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: A 14. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^26]: A 14. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: A 14. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: A 14. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 14. § f) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 14. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 14. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 14. § j) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 14. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 14. § l) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
