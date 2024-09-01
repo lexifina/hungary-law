@@ -20,9 +20,9 @@
 
 10.
 
-11.
+11. 16/J. § (1) bekezdésében az „az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvényben (a továbbiakban: E-ügyintézési tv.)” szövegrész helyébe az „a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben (a továbbiakban: Dáptv.)” szöveg,
 
-12.
+12. 16/J. § (2) bekezdésében az „az E-ügyintézési tv.” szövegrész helyébe az „a Dáptv.” szöveg,
 
 13.
 

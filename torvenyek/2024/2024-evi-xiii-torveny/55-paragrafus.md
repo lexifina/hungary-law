@@ -14,7 +14,7 @@ f)
 
 g)
 
-h)
+h) 80/A. § (1) bekezdésében az „a technikusképzésben” szövegrész helyébe az „az okleveles technikusképzésben” szöveg,
 
 i)
 
