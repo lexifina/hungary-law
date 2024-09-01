@@ -8,4 +8,6 @@ b) a halál okát megállapító orvos vagy a kórbonctani vizsgálatot, hatós�
 
 c) az egészségügyi szolgáltató az anyakönyvi eljárásról szóló törvény, a hivatalos statisztikáról szóló törvény, valamint a családok támogatásáról szóló törvény alapján kiadott kormányendelet szerinti adatokat az ott meghatározottak szerint.
 
-(2) Az (1) bekezdésben meghatározott adatokat az egészségügyi szolgáltató, az orvos, valamint az intézmény, azok átadásának az adatot fogadó szerv általi visszaigazolását követően haladéktalanul köteles törölni, kivéve ha az adat kezelésére e törvény feljogosítja.
+(1a) A 4. § (2) bekezdés p) pontja szerinti célból az egészségügyi szolgáltató az EESZT-n keresztül továbbítja a köznevelési vagy szakképző intézmények részére az elektronikus igazolást.
+
+(2) Az (1) és (1a) bekezdésben meghatározott adatokat az egészségügyi szolgáltató, az orvos, valamint az intézmény, azok átadásának az adatot fogadó szerv általi visszaigazolását követően haladéktalanul köteles törölni, kivéve ha az adat kezelésére e törvény feljogosítja.

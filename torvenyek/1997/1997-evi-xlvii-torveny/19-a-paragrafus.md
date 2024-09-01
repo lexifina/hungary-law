@@ -8,4 +8,4 @@
 
 (4) A nemzeti kapcsolattartó szerv a más tagállamban működő nemzeti kapcsolattartó szerv által megküldött személyazonosító és egészségügyi adatokat a 4. § (2) bekezdés zs) pontjában meghatározott célból a határon átnyúló egészségügyi ellátáshoz kapcsolódó jogok érvényesítése érdekében, az egészségügyi ellátás igénybevételének elősegítése céljából továbbítja az egészségügyi ellátást nyújtó egészségügyi szolgáltató, illetve a gyógyszertár részére.
 
-(5) A nemzeti kapcsolattartó szerv a (2) és (4) bekezdés szerinti adattovábbítás céljából az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti szabályozott elektronikus ügyintézési szolgáltatást, illetve központi elektronikus ügyintézési szolgáltatást vehet igénybe.
+(5) A nemzeti kapcsolattartó szerv a (2) és (4) bekezdés szerinti adattovábbítás céljából elektronikus ügyintézési szolgáltatást, illetve központi elektronikus ügyintézési szolgáltatást vehet igénybe.

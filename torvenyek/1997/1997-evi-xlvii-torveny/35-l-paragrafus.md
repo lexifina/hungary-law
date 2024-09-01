@@ -8,6 +8,6 @@
 
 (4) A kapcsolati kódot kezelő szerv a betegségregiszterbe továbbított adatokat a kapcsolati kód képzését követően a személyazonosító adatoktól megfosztva, a kapcsolati kóddal kiegészítve az EESZT útján továbbítja a betegségregisztert vezető szervnek. A betegségregisztert működtető szerv az elektronikus betegségregiszterekben szereplő egészségügyi adatokat kapcsolati kód alapján tartja nyilván.
 
-(5) A működtető kizárólag törvényben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
+(5) A működtető kizárólag törvényben vagy kormányrendeletben meghatározott esetben vagy az érintett hozzájárulása alapján, a kapcsolati kód TAJ számmal történő megfeleltetését követően szolgáltat az érintettre vonatkozó egészségügyi vagy hozzá kapcsolódó személyazonosító adatot.
 
 (6) Az (5) bekezdésen kívüli esetekben és az érintett adatkérése kivételével az elektronikus betegségregiszterek adatai csak személyazonosításra alkalmatlan módon ismerhetőek meg.
