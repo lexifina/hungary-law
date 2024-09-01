@@ -1,0 +1,3 @@
+1. §[^1] A kiemelt ápolási díjjal kapcsolatos ügyekben eljáró hatóság a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szt.) 43. § b) pontja alapján a kiemelt ápolási díjra való jogosultságot a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet (a továbbiakban: Mcspr.) 1. § (2) bekezdésében meghatározott szakorvosnak a szociálpolitikáért felelős miniszter által e célra rendszeresített formanyomtatványon kiállított igazolása alapján állapítja meg. A formanyomtatványt a kormányzati portálon, valamint a fővárosi és vármegyei kormányhivatalok honlapján közzé kell tenni.
+
+[^1]: Az 1. § a 30/2024. (VII. 23.) BM rendelet 24. §-ával megállapított szöveg.
