@@ -1,6 +1,6 @@
 ## Személyazonosítás és személyazonosság igazolására alkalmas hatósági igazolványok
 
-29. § (1) A személyazonosító igazolvány a polgár írásbeli nyilatkozata, valamint az anyakönyv és a nyilvántartás – nem magyar állampolgár esetén ezeken túlmenően a polgár útlevele és a magyarországi tartózkodásának jogcímét igazoló közokirat – alapján kiállított olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja. Az állandó személyazonosító igazolvány alkalmas a polgár elektronikus úton történő közhiteles azonosítására, e törvényben megjelölt kivételekkel – a polgár kérelmére – minősített elektronikus aláírás létrehozására, valamint a polgár törvényben megjelölt esetekben gyakorolhatja vele a külföldre utazás jogát.
+29. § (1) A személyazonosító igazolvány a polgár írásbeli nyilatkozata, valamint az anyakönyv és a nyilvántartás – nem magyar állampolgár esetén ezeken túlmenően a polgár útlevele és a magyarországi tartózkodásának jogcímét igazoló közokirat – alapján kiállított olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja. Az állandó személyazonosító igazolvány alkalmas a polgár elektronikus úton történő közhiteles azonosítására, e törvényben megjelölt kivételekkel minősített elektronikus aláírás létrehozására, valamint a polgár törvényben megjelölt esetekben gyakorolhatja vele a külföldre utazás jogát.
 
 (2) A személyazonosító igazolvány vizuálisan észlelhető módon tartalmazza
 
@@ -56,7 +56,7 @@ a) a (2) bekezdésben meghatározott adatokat,
 
 b) a polgár ujjnyomatát a (9) bekezdésben meghatározott kivételekkel,
 
-c) az elektronikus aláírás létrehozásához szükséges adatot,
+c)
 
 d) a polgár társadalombiztosítási azonosító jelét,
 

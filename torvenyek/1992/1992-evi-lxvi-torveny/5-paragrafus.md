@@ -42,7 +42,7 @@ c) rendszeres adatszolgáltatás: a polgárok adatainak ismétlődő közlése.
 
 (16)
 
-(17) Központi címregiszter: az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott nyilvántartás.
+(17) Központi címregiszter: a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott nyilvántartás.
 
 (18) Elektronikus egyedi azonosító: az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvényben meghatározott, az elsődleges kártya funkcióhoz szükséges elektronikus egyedi azonosító.
 
