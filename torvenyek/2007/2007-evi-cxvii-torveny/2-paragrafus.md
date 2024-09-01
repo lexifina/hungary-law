@@ -88,7 +88,7 @@ c) a létesítő okirat, a megállapodás alapján döntő befolyást gyakorolha
 
 37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
 
-38. elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
+38. elektronikus irat: olyan bizonylat, amely megfelel a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben foglalt rendelkezéseknek;
 
 39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára;
 
