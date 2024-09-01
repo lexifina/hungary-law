@@ -78,6 +78,16 @@ m) a rendvédelmi feladatokat ellátó szerv a kiegészítő hozzátartozói tá
 
 szerinti adatok igénylésére jogosult.
 
+(3a) A (2) bekezdés alapján nyilvántartásba vett adatokból a Dáptv. szerinti automatikus információelérési felületen keresztüli hozzáféréssel
+
+a) a munkaügyi és munkavédelmi, a családtámogatási, a rehabilitációs, a szociális és a gyámügyi igazgatás szerve, valamint az állami foglalkoztatási szerv az ellátás megállapítása, folyósítása és ellenőrzése, illetve munkaügyi és munkavédelmi ellenőrzés céljából a (2) bekezdés a)–f) és h) pontja,
+
+b) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárása céljából a (2) bekezdés a)–f) és h) pontja,
+
+c) az egészségbiztosítási szerv a jogszabályban meghatározott feladatai ellátásához a (2) bekezdés a)–e) és h) pontja
+
+szerinti adatok lekérdezésére jogosult.
+
 (4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
