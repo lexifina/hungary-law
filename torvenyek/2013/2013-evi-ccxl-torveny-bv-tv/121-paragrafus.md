@@ -17,3 +17,5 @@ f) ahhoz, hogy az országgyűlési képviselők, a helyi és kisebbségi önkorm
 g) az elektronikus ügyintézéshez.
 
 (2) A szabadságvesztés végrehajtása alatt szünetelnek az elítélt azon jogai, amelyekre a közügyektől eltiltás, illetve a bíróság ügydöntő határozatában meghatározott foglalkozástól eltiltás, járművezetéstől eltiltás és kitiltás kiterjed.
+
+(3) Az (1) bekezdés g) pontja nem vonatkozik a reintegrációs őrizetben lévő elítéltre.

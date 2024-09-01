@@ -4,7 +4,7 @@
 
 (2) A büntetés és az intézkedés végrehajtása során az elítélt köteles a végrehajtásért felelős szervvel együttműködni és a kért felvilágosítást megadni. Ha e törvény úgy rendelkezik, az együttműködés vagy a felvilágosításadás megtagadása esetén a büntetés-végrehajtási bíró az elítélttel szemben rendbírságot szabhat ki.
 
-(3) A büntetés vagy az intézkedés végrehajtása során az elítélt köteles a lakcímében, az értesítési címében, a tényleges tartózkodási helyében, kézbesítési címében, biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségében, elektronikus levelezési címében, hangkapcsolatot biztosító vagy más elektronikus elérhetőségében a büntetőeljárás befejezését követően bekövetkező változást – a változás bekövetkeztétől számított három munkanapon belül – a végrehajtásért felelős szervnek, ha ez nem ismert, a büntetőügyben első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
+(3) A büntetés vagy az intézkedés végrehajtása során az elítélt köteles a lakcímében, az értesítési címében, a tényleges tartózkodási helyében, kézbesítési címében, elektronikus kapcsolattartásra szolgáló elérhetőségében, elektronikus levelezési címében, hangkapcsolatot biztosító vagy más elektronikus elérhetőségében a büntetőeljárás befejezését követően bekövetkező változást – a változás bekövetkeztétől számított három munkanapon belül – a végrehajtásért felelős szervnek, ha ez nem ismert, a büntetőügyben első fokon eljárt bíróság székhelye szerint illetékes büntetés-végrehajtási bírónak bejelenteni.
 
 (3a) Ha az elítélt
 
