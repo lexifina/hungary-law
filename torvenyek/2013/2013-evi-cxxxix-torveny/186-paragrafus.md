@@ -83,3 +83,5 @@ f) a fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rende
 g) a fogyasztói jogviták alternatív rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról (fogyasztói alternatív vitarendezési irányelv) szóló, 2013. május 21-i 2013/11/EU európai parlamenti és tanácsi irányelv
 
 végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.
+
+## 56/A. Jogszabály tervezetének egyeztetése

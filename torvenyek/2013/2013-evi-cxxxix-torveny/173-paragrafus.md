@@ -34,7 +34,7 @@ c) az MNB által elfogadott, illetve a nemzetközi pénzügyi piacokon általáb
 
 d) a 59. § (4) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására,
 
-e) az 1. mellékletben meghatározott elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
+e)
 
 f) a 174/A. §-ban meghatározott informatikai rendszer működtetésének minimum követelményeire, auditálásának módjára, valamint az e rendszer útján végzett adat továbbításra
 
