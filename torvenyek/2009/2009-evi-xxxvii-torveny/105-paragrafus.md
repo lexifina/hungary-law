@@ -46,7 +46,7 @@ irányuló eljárásban.
 
 (9)
 
-(10) A miniszter az e törvényben foglalt hatósági nyilvántartásokhoz kapcsolódóan az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglaltakkal összhangban hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (a továbbiakban: Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer) működtet.
+(10) A miniszter az e törvényben foglalt hatósági nyilvántartásokhoz kapcsolódóan a Dáptv.-ben foglaltakkal összhangban hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszert (a továbbiakban: Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer) működtet.
 
 (11) Ha e törvény vagy a végrehajtására kiadott jogszabály valamely eljárás lefolytatására vonatkozóan az Erdészeti Szakigazgatási Információs és Ügyintézési Rendszer használatát írja elő, akkor az eljárásban
 
