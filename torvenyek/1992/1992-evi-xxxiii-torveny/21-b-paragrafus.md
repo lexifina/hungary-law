@@ -1,0 +1,1 @@
+21/B. § A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott munkakörök esetében a munkáltató köteles ingyenesen biztosítani a közalkalmazott munkaköri alkalmassági vizsgálatát.
