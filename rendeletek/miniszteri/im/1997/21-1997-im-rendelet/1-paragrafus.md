@@ -1,1 +1,0 @@
-## A Szolgálati Szabályzat hatálya
