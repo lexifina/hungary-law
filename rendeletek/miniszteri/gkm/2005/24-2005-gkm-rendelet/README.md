@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-24-20-0
 | 2024-01-03 | 2005-24-20-0L.43 | 1/2019. (I. 7.) ITM rendelet |
 | 2024-07-12 | 2005-24-20-0L.44 | 15/2024. (VI. 12.) ÉKM rendelet |
 | 2024-08-16 | 2005-24-20-0L.45 | 28/2024. (VIII. 15.) ÉKM rendelet |
+| 2024-09-01 | 2005-24-20-0L.46 | 28/2024. (VIII. 15.) ÉKM rendelet |
