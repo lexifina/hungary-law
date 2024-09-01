@@ -18,6 +18,6 @@ a) ha az (1) bekezdés szerinti tájékoztatásra a sértett tanúkénti kihallg
 
 b) ha az (1) bekezdés szerinti tájékoztatásra a feljelentés megtételekor kerül sor, a nyomozás elrendelését követően
 
-lehetőség szerint azonnal, de legfeljebb két munkanapon belül az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
+lehetőség szerint azonnal, de legfeljebb két munkanapon belül a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott információátadási szolgáltatás útján továbbítja az áldozatsegítő szolgálat részére.
 
 (5) A büntetőeljárásról szóló törvény szerinti zárt adatkezelés esetén az általános nyomozó hatóság az érintett zártan kezelt adatait a (4) bekezdésben foglaltaktól eltérően papíralapon továbbítja az áldozatsegítő szolgálat részére.

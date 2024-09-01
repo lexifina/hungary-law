@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-135-00-00
 | 2023-01-01 | 2022. évi XXII. törvény | 2005-135-00-00.27 |
 | 2023-07-01 | 2023. évi XXXI. törvény | 2005-135-00-00.28 |
 | 2024-01-01 | 2023. évi XCVI. törvény | 2005-135-00-00.29 |
+| 2024-09-01 | 2024. évi XII. törvény | 2005-135-00-00.30 |
