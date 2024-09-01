@@ -1,23 +1,13 @@
 ## Az elektronikus kapcsolattartásra vonatkozó szabályok megszegésének következményei
 
-161. § (1) Az elektronikus úton tett nyilatkozat hatálytalan, ha az a 148. § (2) bekezdésében foglaltaknak nem felel meg.
+161. § (1) Az elektronikus kapcsolattartás útján kapcsolatot tartó nyilatkozata hatálytalan, ha az a 148. § (2) bekezdésében foglaltaknak nem felel meg, ide nem értve
 
-(2) Ha az elektronikus úton kapcsolatot tartó a beadványát
+a) a természetes személy által tett feljelentést,
 
-a) nem elektronikus úton, vagy
+b) ha az eljáró bíróság, az ügyészség, illetve a nyomozó hatóság az elektronikus úton kapcsolatot tartó természetes személy indítványára engedélyezi az eljárás során egyéb kapcsolattartási mód használatát,
 
-b) elektronikus úton, de nem e törvényben, illetve az E-ügyintézési törvényben és végrehajtási rendeleteiben meghatározott módon
+c) ha az eljáró bíróság, az ügyészség, illetve a nyomozó hatóság a nyilatkozatot szabályszerűen benyújtottnak tekinti.
 
-nyújtotta be, – ha e törvény másként nem rendelkezik – a bíróság, az ügyészség, illetve a nyomozó hatóság a panaszt, a felülbírálati indítványt, a kifogást, a fellebbezést, a felülvizsgálati indítványt és a perújítási indítványt érdemi indokolás nélkül elutasítja, a beadványban foglalt egyéb nyilatkozat pedig hatálytalan.
+(2) Az (1) bekezdés b) pontja esetén a bíróság, az ügyészség, illetve a nyomozó hatóság határozat meghozatala nélkül dönt, amelyről az indítványozót tájékoztatja.
 
-(3) A bíróság, az ügyészség és a nyomozó hatóság a 148. § (2) bekezdése szerint, elektronikus úton benyújtott beadvány elintézését mellőzheti, ha azt az elektronikus kapcsolattartásra nem köteles büntetőeljárásban részt vevő személy vagy a jogi képviselőnek nem minősülő képviselője
-
-a) a 149. § (5) bekezdése szerinti figyelmeztetés után és
-
-b) az elektronikus kapcsolattartásra vonatkozó, a 149. § (2) bekezdése szerinti nyilatkozat hiányában
-
-nyújtotta be.
-
-(4) Ha az ügyirat azért nem kézbesíthető, mert az elektronikus úton kapcsolatot tartó az elektronikus kapcsolattartáshoz szükséges szolgáltatásokkal nem rendelkezik, a bíróság, az ügyészség és a nyomozó hatóság az ügyiratot papíralapon kézbesíti.
-
-(5) A (4) bekezdésben meghatározott esetben az elektronikus úton kapcsolatot tartó rendbírsággal sújtható.
+(3) Ha a bíróság, az ügyészség, illetve a nyomozó hatóság az (1) bekezdés alapján nem tekinti a nyilatkozatot szabályszerűen benyújtottnak, első alkalommal tájékoztatja a nyilatkozatot benyújtó természetes személyt, hogy a nem szabályszerűen előterjesztett nyilatkozata hatálytalan és azt szabályszerűen elektronikus úton terjesztheti elő vagy indítványozhatja az eljárás során egyéb kapcsolattartási mód használatát. Az első alkalommal nem szabályszerűen előterjesztett igazolási kérelem, panasz, felülbírálati indítvány, kifogás, fellebbezés, felülvizsgálati indítvány és perújítási indítvány esetén az indítvány előterjesztésére rendelkezésre álló, a törvény által meghatározott, illetve a bíróság, az ügyészség és a nyomozó hatóság által megállapított határidőbe nem számít bele az indítvány benyújtása és a természetes személy tájékoztatása közötti időtartam. Az indítványozót erről is tájékoztatni kell.

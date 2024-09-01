@@ -8,7 +8,7 @@
 
 a) postai úton,
 
-b) elektronikus úton az E-ügyintézési törvény szerinti hivatalos elérhetőségre, illetve biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre,
+b) a Dáptv. szerinti elektronikus kapcsolattartás útján,
 
 c) személyesen,
 

@@ -27,3 +27,5 @@ c) a kézbesítés megkísérlésének napját követő ötödik munkanapon, ha 
 (7) Az egyszerűsített elektronikus úton való kézbesítés szabályszerű, ha az ügyirat címzett részére történő kézbesítéséről a címzett igazolható módon – ideértve a kizárólag hangkapcsolatot biztosító elektronikus úton történő rögzített szóbeli nyilatkozattételt is – nyilatkozik. Az ügyiratot a nyilatkozattétel napján kézbesítettnek kell tekinteni.
 
 (8) Az egyszerűsített elektronikus úton történő kézbesítés nem minősül elektronikus kapcsolattartásnak.
+
+(9) A (6) bekezdés az elektronikus úton kapcsolatot tartó természetes személy esetén is alkalmazható, ha azt indítványozza vagy megalapozottan feltehető, hogy számára az elektronikus kapcsolattartás aránytalan nehézséggel járna. Ha a címzett az egyszerűsített elektronikus úton történő kézbesítést követően nem nyilatkozik a (7) bekezdés szerint a kézbesítésről, a továbbiakban a bíróság, az ügyészség és a nyomozó hatóság elektronikus kapcsolattartás útján kézbesíti részére az ügyiratot.
