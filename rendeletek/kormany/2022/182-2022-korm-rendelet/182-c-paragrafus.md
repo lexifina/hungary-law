@@ -1,4 +1,4 @@
-182/C. §[^157] (1) A miniszter a közigazgatás-szervezésért való felelőssége keretében előkészíti
+182/C. §[^180] (1) A miniszter a közigazgatás-szervezésért való felelőssége keretében előkészíti
 
 a) a fővárosi és vármegyei kormányhivatalok jogállására és működésére,
 
@@ -16,4 +16,4 @@ c) a Kormány feladatkörében érintett tagjával együttműködve kialakítja 
 
 d) gondoskodik a kormányablakok működtetéséhez szükséges feltételrendszer megteremtéséről és a kormányablak-tudástár tartalmának kialakításáról.
 
-[^157]: A 182/C. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.
+[^180]: A 182/C. §-t az 599/2023. (XII. 22.) Korm. rendelet 35. §-a iktatta be.

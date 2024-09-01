@@ -12,9 +12,9 @@ e) koordinálja az egyes közösségépítést erősítő kiemelt kormányzati k
 
 f) közreműködik az egyes kiemelt kormányzati rendezvények koncepciójának kidolgozásában.
 
-g)[^13] kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját,
+g)[^16] kidolgozza és megvalósítja a nemzeti rendezvények koncepcióját,
 
-h)[^14] a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, és közreműködik e sporteseményeket érintő marketing- és kommunikációs tevékenységek megvalósításában.
+h)[^17] a sportpolitikáért felelős miniszter, valamint a kiemelt nemzetközi sport- és sportdiplomáciai események rendezéséért felelős miniszter részére szakmai támogatást biztosít a Magyarországon megvalósuló, kiemelt nemzetközi sportesemények lebonyolításához, és közreműködik e sporteseményeket érintő marketing- és kommunikációs tevékenységek megvalósításában.
 
-[^13]: A 12. § g) pontját az 599/2023. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
-[^14]: A 12. § h) pontját az 599/2023. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
+[^16]: A 12. § g) pontját az 599/2023. (XII. 22.) Korm. rendelet 17. §-a iktatta be.
+[^17]: A 12. § h) pontját az 599/2023. (XII. 22.) Korm. rendelet 17. §-a iktatta be.

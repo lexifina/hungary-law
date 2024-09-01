@@ -1,1 +1,3 @@
-78. § A miniszter a külföldre utazás szabályozásáért való felelőssége keretében előkészíti a magyar állampolgárok külföldre utazására és az útlevélre vonatkozó jogszabályokat.
+78. §[^74]
+
+[^74]: A 78. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § d) pontja hatályon kívül helyezte.

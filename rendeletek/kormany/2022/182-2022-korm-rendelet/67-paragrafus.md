@@ -1,39 +1,53 @@
 67. § (1) A Kormány a minisztert jelöli ki
 
-1. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervként;
+1.[^57]
 
-2. a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény szerinti személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását vezető szervként;
+2.[^58]
 
 3. a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény szerinti bűnügyi nyilvántartó szervként;
 
-4. az anyakönyvi eljárásról szóló 2010. évi I. törvény szerinti nyilvántartó szervként;
+4.[^59]
 
 5. a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény szerinti szabálysértési nyilvántartás tekintetében az adatkezelői feladatokat ellátó szervként;
 
-6. az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény szerinti működtetőként;
+6.[^60]
 
-7. a törvénnyel kihirdetett nemzetközi szerződések alapján kiállításra kerülő közokiratok kiadásáért és a kiadott közokiratok nyilvántartásáért felelős szervként;
+7.[^61]
 
-8. a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti közúti közlekedési nyilvántartó szervként;
+8.[^62]
 
-9. a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény szerinti közlekedési előéleti pontrendszert nyilvántartó szervként;
+9.[^63]
 
-10. a kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény szerinti kötvénynyilvántartó szervként;
+10.[^64]
 
-11. a közúti közlekedési nyilvántartás tekintetében az Európai Unió rendszereivel (EUCARIS, RESPER) való információcserét lebonyolító nemzeti kapcsolattartó pontként;
+11.[^65]
 
 12. részvételre az Európai Unió intézményei tagállami kormányzati részvétellel működő döntés-előkészítő tevékenységében, és a szakmai feladatait érintő tagállami képviselet ellátására;
 
-13. a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény szerinti közlekedési igazgatási hatóságként az okmánytárból és az eredetiségvizsgálati nyilvántartásból történő, a Kormány által rendeletben kijelölt szerveknek eseti jellegű egyedi adatszolgáltatás tekintetében;
+13.[^66]
 
-14. a mozgásában korlátozott személy parkolási igazolványáról szóló 218/2003. (XII. 11.) Korm. rendeletben meghatározott parkolási igazolványok kiadásával, cseréjével és pótlásával kapcsolatos, továbbá a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendeletben meghatározott, általánostól nem eltérő illetékességgel meghatározott közlekedési igazgatási feladatok ellátására;
+14.[^67]
 
-15. a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti összerendelési nyilvántartást vezető szervként;
+15.[^68]
 
-16. az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény szerinti központi szervként.
+16.[^69]
 
-(2) A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító nemzeti kapcsolattartó pont (EUCARIS, RESPER), illetve központi hatóság (ECRIS) hatáskörébe utalt, a publikus kulcsú információs rendszer (PKI) koordinátor, az úti okmányok szenzitív adatainak vizsgálatához kapcsolódó (SPOC) rendszer, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
+(2)[^70] A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító központi hatóság (ECRIS) hatáskörébe utalt, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.
 
-(3)[^50]
+(3)[^71]
 
-[^50]: A 67. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^57]: A 67. § (1) bekezdés 1. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^58]: A 67. § (1) bekezdés 2. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^59]: A 67. § (1) bekezdés 4. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^60]: A 67. § (1) bekezdés 6. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^61]: A 67. § (1) bekezdés 7. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^62]: A 67. § (1) bekezdés 8. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^63]: A 67. § (1) bekezdés 9. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^64]: A 67. § (1) bekezdés 10. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^65]: A 67. § (1) bekezdés 11. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^66]: A 67. § (1) bekezdés 13. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^67]: A 67. § (1) bekezdés 14. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^68]: A 67. § (1) bekezdés 15. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^69]: A 67. § (1) bekezdés 16. pontját a 172/2024. (VII. 2.) Korm. rendelet 14. § c) pontja hatályon kívül helyezte.
+[^70]: A 67. § (2) bekezdése a 172/2024. (VII. 2.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^71]: A 67. § (3) bekezdését a 310/2023. (VII. 14.) Korm. rendelet 19. §-a hatályon kívül helyezte.

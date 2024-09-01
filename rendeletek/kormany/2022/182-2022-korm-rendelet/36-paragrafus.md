@@ -1,3 +1,3 @@
-36. §[^28]
+36. §[^33]
 
-[^28]: A 36. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § d) pontja hatályon kívül helyezte.
+[^33]: A 36. §-t az 599/2023. (XII. 22.) Korm. rendelet 42. § d) pontja hatályon kívül helyezte.

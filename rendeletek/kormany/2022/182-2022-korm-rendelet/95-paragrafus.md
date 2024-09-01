@@ -1,10 +1,10 @@
-## 8.[^58] Az építési és közlekedési miniszter feladat- és hatásköre
+## 8.[^81] Az építési és közlekedési miniszter feladat- és hatásköre
 
-95. §[^59] Az építési és közlekedési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
+95. §[^82] Az építési és közlekedési miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
 1. állami beruházásokért,
 
-2.[^60] – a 177. § szerinti kivétellel – építésgazdaságért,
+2.[^83] – a 177. § szerinti kivétellel – építésgazdaságért,
 
 3. építésügyi szabályozásért és építéshatósági ügyekért,
 
@@ -16,11 +16,11 @@
 
 7. – a 30. § (2) bekezdésében, valamint a 48. § (2) bekezdésében meghatározott kivétellel – kulturális örökség védelméért
 
-8.[^61] közlekedésért
+8.[^84] közlekedésért
 
 felelős tagja.
 
-[^58]: A 8. alcím címe a 467/2022. (XI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^59]: A 95. § nyitó szövegrésze a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^60]: A 95. § 2. pontja a 172/2024. (VII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^61]: A 95. § 8. pontját a 467/2022. (XI. 21.) Korm. rendelet 2. §-a iktatta be.
+[^81]: A 8. alcím címe a 467/2022. (XI. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^82]: A 95. § nyitó szövegrésze a 467/2022. (XI. 21.) Korm. rendelet 16. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^83]: A 95. § 2. pontja a 172/2024. (VII. 2.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^84]: A 95. § 8. pontját a 467/2022. (XI. 21.) Korm. rendelet 2. §-a iktatta be.

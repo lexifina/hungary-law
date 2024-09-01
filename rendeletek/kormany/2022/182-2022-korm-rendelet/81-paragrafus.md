@@ -1,1 +1,3 @@
-81. § A miniszter a személyiadat- és lakcímnyilvántartásért való felelőssége keretében előkészíti a személyi adatok és a lakcím nyilvántartására, a személyazonosító igazolványra, a személyazonosító jel helyébe lépő azonosító módokra vonatkozó jogszabályokat.
+81. §[^75]
+
+[^75]: A 81. §-t a 172/2024. (VII. 2.) Korm. rendelet 14. § e) pontja hatályon kívül helyezte.
