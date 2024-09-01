@@ -2,7 +2,7 @@
 
 65. § (1) A Hatóság egyes eljárásaiban az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) szabályait az egyes eljárástípusok keretében az e törvényben meghatározott eltérésekkel és kiegészítésekkel alkalmazza.
 
-(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
+(2) A Hatóság és a szolgáltató közötti kapcsolattartás kizárólag a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus úton történik. A bejelentéseket és kérelmeket, továbbá a jogszabály, valamint a jogszabály alapján a Hatóság által előírt adatszolgáltatásokat a szolgáltató a Hatóság által rendszeresített elektronikus űrlapon, elektronikus úton terjesztheti elő. A kérelem kormányablaknál nem terjeszthető elő.
 
 (3) A Hatóság eljárásainak ügyintézési határideje – amennyiben e törvény eltérő szabályokat nem állapít meg – hatvan nap.
 

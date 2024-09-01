@@ -8,7 +8,7 @@ a) a nyugdíjak, segélyek és egyéb állami juttatások jogosultnak való kifi
 
 b) az a) pontban meg nem határozott pénzforgalmi szolgáltatások nyújtása;
 
-c) az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben meghatározott elektronikus ügyintézési pontban az elektronikus kapcsolattartási rendszerhez történő hozzáférés biztosítása, a Magyarország helyi önkormányzatairól szóló törvény szerinti ügyfélszolgálati megbízotti vagy egyéb, az ügyfeleknek az állami, önkormányzati vagy egyéb szolgáltatásokhoz történő hozzáférését, illetve ügyintézését elősegítő szolgáltatás;
+c) a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben meghatározott elektronikus ügyintézési pontban az elektronikus kapcsolattartási rendszerhez történő hozzáférés biztosítása, a Magyarország helyi önkormányzatairól szóló törvény szerinti ügyfélszolgálati megbízotti vagy egyéb, az ügyfeleknek az állami, önkormányzati vagy egyéb szolgáltatásokhoz történő hozzáférését, illetve ügyintézését elősegítő szolgáltatás;
 
 d) a c) pontban meghatározottaktól eltérő egyéb szabályozott elektronikus ügyintézési szolgáltatások nyújtása vagy a digitális kultúra terjesztésében történő közreműködői tevékenység.
 
