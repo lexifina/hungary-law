@@ -85,7 +85,3 @@ A toborzási adatbázis adatköre
 ## 2. munkáltató megnevezése, tevékenységi területe
 
 ## 3. betöltött feladatkör/munkakör
-
-## 4. időtartam
-
-## III.

@@ -32,6 +32,8 @@ k) biztosítani annak lehetőségét, hogy a kormánytisztviselő érdek-képvis
 
 (3) A fogyatékossággal élő, illetve a megváltozott munkaképességű kormánytisztviselő foglalkoztatása során a munkáltatónak gondoskodnia kell az ésszerű alkalmazkodás feltételeinek biztosításáról.
 
-(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkába lépést megelőzően és a kormányzati szolgálati jogviszony fennállása alatt rendszeres időközönként köteles ingyenesen biztosítani a kormánytisztviselő munkaköri alkalmassági vizsgálatát.
+(4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkörök esetében a munkáltató köteles ingyenesen biztosítani a köztisztviselő munkaköri alkalmassági vizsgálatát.
+
+(4a) Az Országgyűlés Hivatala és az Országgyűlési Őrség köztisztviselőinek, illetve kormányzati ügykezelőinek feladatkörei esetén a munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.
 
 (5) Az államigazgatási szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
