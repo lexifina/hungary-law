@@ -1,4 +1,4 @@
-13/E. § (1) A választási iroda a határozatát vagy végzését (a továbbiakban együtt: döntés) a kérelmező – nem kérelemre indult eljárásban az érintett – E-ügyintézési tv. 35. § (3) bekezdése szerinti tárhelyére történő megküldéssel közli.
+13/E. § (1) A választási iroda a határozatát vagy végzését (a továbbiakban együtt: döntés) a kérelmező – nem kérelemre indult eljárásban az érintett – Dáptv. 46. § (5) bekezdése szerinti tárhelyére történő megküldéssel közli.
 
 (2) A választási iroda a döntését
 

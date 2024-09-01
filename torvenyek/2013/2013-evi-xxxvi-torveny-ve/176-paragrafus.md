@@ -7,3 +7,5 @@ a) a lakcím igazolására alkalmas okmánnyal igazolja lakcímét vagy
 b) a személyi azonosító igazolására alkalmas okmánnyal igazolja személyi azonosítóját.
 
 (3) A szavazatszámláló bizottság megállapítja, hogy a polgár szerepel-e a kinyomtatott szavazóköri névjegyzékben.
+
+(4) E § alkalmazásában a Dáptv. szerinti digitális okmány nem alkalmazható.
