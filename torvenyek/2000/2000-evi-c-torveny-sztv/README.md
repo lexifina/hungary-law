@@ -49,3 +49,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-100-00-00
 | 2023-12-01 | 2023. évi LXXXIII. törvény | 2000-100-00-00.76 |
 | 2023-12-31 | 2023. évi LXXXIV. törvény | 2000-100-00-00.77 |
 | 2024-01-01 | 2023. évi CVIII. törvény | 2000-100-00-00.74 |
+| 2024-09-01 | 2024. évi XII. törvény | 2000-100-00-00.78 |
