@@ -1,6 +1,6 @@
 ## A közigazgatási hatósági eljárás és az elektronikus ügyintézés általános szabályainak alkalmazása
 
-38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+38. § (1) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.), valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) A Szellemi Tulajdon Nemzeti Hivatala a hatáskörébe tartozó védjegyügyekben – törvény eltérő rendelkezése hiányában – kérelemre jár el.
 

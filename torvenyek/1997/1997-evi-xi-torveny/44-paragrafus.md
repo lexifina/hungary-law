@@ -16,4 +16,4 @@ b) a meghatalmazott képviselővel nem rendelkező külföldi ügyfél részére
 
 (6) Az ügygondnok költségének és munkadíjának előlegezésére azt kell kötelezni, aki a kirendelést kérte.
 
-(7) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény, valamint az e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában védjegyügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
+(7) A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény, valamint az e törvény elektronikus ügyintézésre vonatkozó rendelkezéseinek alkalmazásában védjegyügyekben jogi képviselőnek minősül a szabadalmi ügyvivő, a szabadalmi ügyvivői iroda és a szabadalmi ügyvivői társaság is.
