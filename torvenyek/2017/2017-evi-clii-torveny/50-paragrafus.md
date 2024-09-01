@@ -1,6 +1,6 @@
 ### 50. § [Irat]
 
-(1) A vámhatóság – a 39. § (5) bekezdésében meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására, ha az a tényállás tisztázásához szükséges, és az az Eüsztv. alapján nem szerezhető be.
+(1) A vámhatóság – a 39. § (5) bekezdésében meghatározottak kivételével – felhívhatja az ügyfelet okirat vagy más irat bemutatására, ha az a tényállás tisztázásához szükséges, és az a Dáptv. alapján nem szerezhető be.
 
 (2) Az ügyfél az iratot másolatban is benyújthatja, ha nyilatkozik arról, hogy az az eredetivel mindenben megegyezik. E nyilatkozat hiányában az irat másolata a vámigazgatási eljárásban bizonyítékként nem használható fel.
 
