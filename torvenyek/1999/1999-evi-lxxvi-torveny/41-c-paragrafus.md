@@ -1,4 +1,4 @@
-41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény rendelkezései szerint jár el.
+41/C. § (1) A Hivatal a 41/B. §-ban szabályozott eljárásban – az e törvényben meghatározott eltérésekkel és kiegészítésekkel – az általános közigazgatási rendtartásról szóló törvény, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény rendelkezései szerint jár el.
 
 (2) Az általános közigazgatási rendtartásról szóló törvényt a következő eltérésekkel és kiegészítésekkel kell alkalmazni:
 
