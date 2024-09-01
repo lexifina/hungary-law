@@ -8,4 +8,4 @@
 
 (5) A fizetési meghagyás kibocsátása iránti kérelmét elektronikusan előterjesztő jogosult részére az iratokat – a jelenlévő félnek nyomban kézbesítésre kerülő irat kivételével – a 16/A. § szerint elektronikus úton kell kézbesíteni, illetve megküldeni.
 
-(6) Az (5) bekezdés hatálya alá nem tartozó, az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, az E-ügyintézési törvény szerint kell kézbesíteni.
+(6) Az (5) bekezdés hatálya alá nem tartozó, a Dáptv. alapján elektronikus ügyintézésre kötelezett személy részére az iratokat elektronikusan, a Dáptv. szerint kell kézbesíteni.

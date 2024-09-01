@@ -24,7 +24,7 @@ j) külön jogszabály az igény polgári eljárás útján történő érvénye
 
 k) a jogi képviselő által benyújtott kérelem nem tartalmazza az e törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályokban foglaltakat, a meghatalmazásáról szóló nyilatkozatot, vagy elmulasztották az eljárási díj megfizetésére vonatkozó kötelezettség teljesítését;
 
-l) a jogi személy és az E-ügyintézési törvény alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
+l) a jogi személy és a Dáptv. alapján elektronikus ügyintézésre kötelezett egyéb személy a kérelmét nem elektronikus úton terjesztette elő, és a 10. § (3) bekezdésében meghatározott eset sem áll fenn; kivéve, ha a jogi képviselővel rendelkező természetes személy fél költségkedvezmény iránti kérelmet terjesztett elő (50. §);
 
 m) a jogosult a hiánypótlási felhívást követően a kitűzött határidő alatt a kérelmet (annak a szükséges részét) nem vagy ismételten hiányosan nyújtotta be, és emiatt a kérelem nem bírálható el, vagy a jogosult nem előlegezte meg az ügygondnoki díjat; vagy
 

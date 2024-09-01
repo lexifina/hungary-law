@@ -18,7 +18,7 @@ d) mellékelje a közjegyző felhívásának a másolatát.
 
 (5) A közjegyző a felhívásban tájékoztatja a jogosultat arról, ha
 
-a) a jogosult az E-ügyintézési törvény alapján elektronikus ügyintézésre köteles és a keresetet tartalmazó iratot és minden egyéb beadványát, ezek mellékletét elektronikus úton köteles benyújtani, valamint az illetéket elektronikus úton vagy a Magyar Államkincstár illetékbevételi számlájára köteles megfizetni;
+a) a jogosult a Dáptv. alapján elektronikus ügyintézésre köteles és a keresetet tartalmazó iratot és minden egyéb beadványát, ezek mellékletét elektronikus úton köteles benyújtani, valamint az illetéket elektronikus úton vagy a Magyar Államkincstár illetékbevételi számlájára köteles megfizetni;
 
 b) a perben a jogi képviselet kötelező és a keresetet tartalmazó iratot jogi képviselő közreműködése útján köteles előterjeszteni;
 
