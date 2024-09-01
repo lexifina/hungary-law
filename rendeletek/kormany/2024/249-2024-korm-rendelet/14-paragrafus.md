@@ -1,0 +1,1 @@
+14. § Az adattovábbítási kapcsolattartó a feladatai ellátása, a NAVÜ-vel történő kapcsolattartás, az információk átadása, a tájékoztatások megadása és az adatszolgáltatások elkészítése során a NAVÜ által meghatározott és a Nemzeti Közadatportálon közzétett szempontok és előírások szerint jár el.
