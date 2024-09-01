@@ -30,7 +30,7 @@ f) tagsági okirat: a pénztár által kiállított, legalább a belépési nyil
 
 g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 44/A. §-a szerint a magánszemély rendelkezése alapján az adóhatóság által a magánszemély javára a pénztárhoz átutalt összeg;
 
-h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
+h) elektronikus irat: olyan bizonylat, amely megfelel a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben foglalt rendelkezéseknek;
 
 i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
 
