@@ -1,1 +1,3 @@
-35. § Hatályát veszti a nemzeti adatvagyon hasznosításával összefüggő egyes részletszabályokról szóló 607/2021. (XI. 5.) Korm. rendelet.
+35. §[^1]
+
+[^1]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
