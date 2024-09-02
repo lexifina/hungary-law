@@ -1,1 +1,3 @@
-26. § Hatályát veszti a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló 82/2013. (XII. 29.) EMMI rendelet 1. melléklete.
+26. §[^27]
+
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
