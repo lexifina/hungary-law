@@ -1,1 +1,3 @@
-2. § Hatályát veszti az R. 2. § (1) bekezdésében a „– végzettségükre tekintettel –” szövegrész.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
