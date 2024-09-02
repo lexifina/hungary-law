@@ -1,9 +1,3 @@
-3. § A 10/2023. (VI. 30.) MEKH rendelet 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+3. §[^4]
 
-„(2) Az 1. § (2) bekezdés a) pont
-
-a) aa) alpontja szerinti adatszolgáltató az 1. mellékletben foglalt táblázat 2. sora,
-
-b) ab) alpontja szerinti adatszolgáltató az 1. mellékletben foglalt táblázat 3. sora
-
-alapján teljesít adatszolgáltatást a Hivatal részére.”
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

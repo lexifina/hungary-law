@@ -1,5 +1,3 @@
-9. § Hatályát veszti a 10/2023. (VI. 30.) MEKH rendelet
+9. §[^10]
 
-a) 6. § (3) bekezdése,
-
-b) 13. §-a.
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

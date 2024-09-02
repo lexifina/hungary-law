@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-6-20-5Z
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-09-01 | 2024-6-20-5Z.1 | 6/2024. (VIII. 29.) MEKH rendelet |
+| 2024-09-02 | 2024-6-20-5Z.2 | 2010. évi CXXX. törvény |

@@ -1,1 +1,3 @@
-7. § A 10/2023. (VI. 30.) MEKH rendelet 1. melléklete helyébe az 1. melléklet lép.
+7. §[^8]
+
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
