@@ -6,6 +6,6 @@
 
 (4) A 6. §, a 7. §, a 9. §, a 12. § (3) és (4) bekezdése, valamint a 4. és az 5. melléklet 2024. szeptember 1-jén lép hatályba.
 
-(5)[^16] A 2. § 2025. július 1-jén lép hatályba.
+(5)[^17] A 2. § 2025. július 1-jén lép hatályba.
 
-[^16]: A 14. § (5) bekezdése a 23/2024. (VI. 14.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^17]: A 14. § (5) bekezdése a 23/2024. (VI. 14.) MNB rendelet 2. § (1) bekezdésével megállapított szöveg.

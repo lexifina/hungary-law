@@ -1,10 +1,12 @@
-12. § (1)[^10]
+12. § (1)[^12]
 
-(2)[^11]
+(2)[^13]
 
-(3) A Rendelet 5. melléklete a 4. melléklet szerint módosul.
+(3)[^14]
 
-(4) A Rendelet az 5. melléklet szerinti 6. melléklettel egészül ki.
+(4)[^15]
 
-[^10]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 12. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 12. § (1) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 12. § (2) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 12. § (3) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 12. § (4) bekezdése a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
