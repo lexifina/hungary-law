@@ -1,3 +1,0 @@
-## 2. §[^2] Az 1. mellékletben megállapított igazgatási szolgáltatási pótdíjakat az általános hatáskörű útlevélhatóság pénztárába történő készpénzbefizetéssel vagy annak a Magyar Államkincstárnál vezetett 10032000-01483305-39100007 számú kincstári célelszámolási számla javára történő átutalással, fizetési számlára történő készpénzbefizetéssel vagy az elektronikus közszolgáltatásokkal összefüggő elektronikus fizetésekre és elszámolásokra vonatkozó szabályokról szóló kormányrendeletben meghatározott Elektronikus Fizetési és Elszámolási Rendszeren keresztül kell az eljárás megkezdése előtt igazoltan befizetni.
-
-[^2]: A 2. § az 58/2016. (XII. 22.) BM rendelet 29. § (1) bekezdésével megállapított szöveg.
