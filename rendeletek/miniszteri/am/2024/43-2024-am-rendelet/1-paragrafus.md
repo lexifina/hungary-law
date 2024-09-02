@@ -1,3 +1,3 @@
-1. § A Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: R.) 3. §-a a következő 21. ponttal egészül ki:
+1. §[^2]
 
-(Ez a rendelet)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
