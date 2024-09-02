@@ -2,4 +2,6 @@
 
 2. Ez a határozat 2024. szeptember 1-jén lép hatályba.
 
-3. Hatályát veszti a roma kapcsolatokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1297/2022. (VI. 17.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
