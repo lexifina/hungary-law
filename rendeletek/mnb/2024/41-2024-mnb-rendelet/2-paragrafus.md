@@ -1,1 +1,3 @@
-2. § Nem lép hatályba a pénzforgalom lebonyolításáról szóló 35/2017. (XII. 14.) MNB rendelet módosításáról szóló 65/2023. (XII. 15.) MNB rendelet 4. melléklet 2. pontja.
+2. §[^3]
+
+[^3]: A 2. § a 2010. évi CXXX. törvény 12/A. § (2) bekezdése alapján hatályát vesztette.
