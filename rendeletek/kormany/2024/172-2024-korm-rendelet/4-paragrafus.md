@@ -1,3 +1,3 @@
-4. § A Korm. rendelet 67. § (2) bekezdése helyébe a következő rendelkezés lép:
+4. §[^5]
 
-„(2) A miniszter a kezelésében lévő nyilvántartások tekintetében ellátja az Európai Unió, valamint a Nagy-Britannia és Észak-Írország Egyesült Királysága rendszereivel való információcserét lebonyolító központi hatóság (ECRIS) hatáskörébe utalt, valamint a Schengeni Információs Rendszer (SIS II) keretében megvalósuló információcserével kapcsolatos, külön jogszabályban meghatározott feladatait, valamint a foglalkoztatás mobilitás- és álláskeresés-hatékonyságát növelő egységes adatcserét biztosító (EURES) portál működtetését és fejlesztését.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
