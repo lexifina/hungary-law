@@ -1,3 +1,3 @@
-5. melléklet a 7/2024. (VII. 12.) KTM rendelethez[^15]
+5. melléklet a 7/2024. (VII. 12.) KTM rendelethez[^11]
 
-[^15]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: Az 5. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
