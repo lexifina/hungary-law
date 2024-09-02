@@ -2,7 +2,7 @@
 
 ## 1. E melléklet alkalmazásában:
 
-## a)[^30] Elfogadóhely: a járási hivatal részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a BM személyes ügyfélszolgálata, amelyek POS-terminállal felszereltek,
+## a)[^30] Elfogadóhely: a járási hivatal részeként működtetett okmányirodák, illetve azok kirendeltségei, valamint a Miniszterelnöki Kabinetiroda személyes ügyfélszolgálata, amelyek POS-terminállal felszereltek,
 
 ## b) Szolgáltató: azon – közbeszerzési eljárás keretében központilag kiválasztott – hitelintézet, amely az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatást nyújt,
 
@@ -16,11 +16,11 @@
 
 ## g) POS Kézikönyv: a szolgáltató által papíralapon, illetve elektronikus formában előállított és az elfogadóhelyek rendelkezésére bocsátott tájékoztató anyag, amely a fizetőkártya-elfogadás technikai és üzleti folyamatait szabályozza,
 
-## h)[^31] Elfogadó: az okmányirodát működtető járási hivatal vezetője, valamint a BM személyes ügyfélszolgálata vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
+## h)[^31] Elfogadó: az okmányirodát működtető járási hivatal vezetője, valamint a Miniszterelnöki Kabinetiroda személyes ügyfélszolgálata vezetője, amely a szolgáltató részére POS Végfelhasználói Nyilatkozatot tesz igazgatási szolgáltatási díjak és illetékek ellenértékének a szolgáltató elfogadási körébe tartozó fizetőkártyákkal történő kiegyenlítése céljából.
 
-## 2.[^32] Az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatás nyújtására – a BM által jóváhagyott dokumentációban foglaltak betartása mellett – kizárólag a központilag közbeszerzési eljárás keretében kiválasztott hitelintézet jogosult. A szolgáltató személyét a NISZ Zrt. köteles az internetes honlapján és a kormányzati portálon, valamint az EFER rendszert működtető szervezetnél közzétenni.
+## 2.[^32] Az elfogadóhelyeken fizetőkártya-elfogadó szolgáltatás nyújtására – a Miniszterelnöki Kabinetiroda által jóváhagyott dokumentációban foglaltak betartása mellett – kizárólag a központilag közbeszerzési eljárás keretében kiválasztott hitelintézet jogosult. A szolgáltató személyét a NISZ Zrt. köteles az internetes honlapján és a kormányzati portálon, valamint az EFER rendszert működtető szervezetnél közzétenni.
 
-## 3.[^33] A POS-terminálok használatára vonatkozó – a BM által előzetesen véleményezett és jóváhagyott – POS Végfelhasználói Nyilatkozatot a szolgáltató részére az elfogadóhelyek egyedileg teszik meg. A nyilatkozattételt megelőzően a szolgáltató az elfogadóhelyeken kihelyezett POS-terminál működtetésére nem jogosult, fizetőkártya-elfogadó szolgáltatás a POS Végfelhasználói Nyilatkozat megkötéséig nem nyújtható.
+## 3.[^33] A POS-terminálok használatára vonatkozó – a Miniszterelnöki Kabinetiroda által előzetesen véleményezett és jóváhagyott – POS Végfelhasználói Nyilatkozatot a szolgáltató részére az elfogadóhelyek egyedileg teszik meg. A nyilatkozattételt megelőzően a szolgáltató az elfogadóhelyeken kihelyezett POS-terminál működtetésére nem jogosult, fizetőkártya-elfogadó szolgáltatás a POS Végfelhasználói Nyilatkozat megkötéséig nem nyújtható.
 
 ## 4.[^34] A POS-terminálok használatával kapcsolatos részletes technikai előírásokat a NISZ Zrt. bocsátja ki, illetve hagyja jóvá. Ezen dokumentumokban foglaltak betartása az elfogadó, valamint az elfogadóhelyi fizetőkártya-elfogadó szolgáltatás során a szolgáltatás nyújtásában részt vevő személyek, szervezetek számára kötelező.
 
@@ -172,10 +172,10 @@ Az okmányok selejtezését az okmányiroda vezetőjének engedélyével lehet m
 
 Az okmányokat és PIN borítékokat biztonságos körülmények között, típusonként elkülönítve, tűzvédelmi szempontokból is megfelelő helyen kell tárolni.
 
-[^30]: A 3. számú melléklet 1. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § l) pontja, az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés h) pontja szerint módosított szöveg.
-[^31]: A 3. számú melléklet 1. pont h) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § d) pontja, az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés i) pontja szerint módosított szöveg.
-[^32]: A 3. számú melléklet 2. pontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés j) pontja szerint módosított szöveg.
-[^33]: A 3. számú melléklet 3. pontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^30]: A 3. számú melléklet 1. pont a) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § l) pontja, az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés h) pontja, a 11/2024. (IX. 2.) MK rendelet 1. § c) pontja szerint módosított szöveg.
+[^31]: A 3. számú melléklet 1. pont h) alpontja az 50/2012. (XII. 4.) KIM rendelet 10. § d) pontja, az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés i) pontja, a 11/2024. (IX. 2.) MK rendelet 1. § c) pontja szerint módosított szöveg.
+[^32]: A 3. számú melléklet 2. pontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés j) pontja, a 11/2024. (IX. 2.) MK rendelet 1. § c) pontja szerint módosított szöveg.
+[^33]: A 3. számú melléklet 3. pontja a 11/2024. (IX. 2.) MK rendelet 1. § c) pontja szerint módosított szöveg.
 [^34]: A 3. számú melléklet 4. pont nyitó szövegrésze az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés e) pontja szerint módosított szöveg.
 [^35]: A 3. számú melléklet 4. pont a) alpontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés k) pontja szerint módosított szöveg.
 [^36]: A 3. számú melléklet 4. pont b) alpontja az 58/2016. (XII. 22.) BM rendelet 7. § (1) bekezdés k) pontja szerint módosított szöveg.
