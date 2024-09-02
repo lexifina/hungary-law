@@ -1,5 +1,3 @@
-3. § Hatályát veszti a Díjrendelet
+3. §[^4]
 
-a) 22. § (3) bekezdése,
-
-b) 3. melléklete.
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
