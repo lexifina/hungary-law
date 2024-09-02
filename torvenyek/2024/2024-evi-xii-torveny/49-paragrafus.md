@@ -1,5 +1,3 @@
 ## 27. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
 
-49. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 68. §-a helyébe a következő rendelkezés lép:
-
-„68. § Ajánlott elektronikus kézbesítési szolgáltatási címmel rendelkező ügyfél esetén a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és vármegyei kormányhivatal a küldeményt akkor is az ügyfél biztonságos kézbesítési szolgáltatási címére kézbesíti, ha az nem minősül a hivatalos elérhetőségének, de az ügyfél az ügyintézési rendelkezésében nem zárta ki. A kézbesítésre a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 27. § c) pontját azzal az eltéréssel kell alkalmazni, hogy a kézbesítés második sikertelen megkísérlését követően a nyugdíjbiztosítási igazgatási szerv köteles más módon intézkedni a küldemény kézbesítéséről.”
+### 49. §

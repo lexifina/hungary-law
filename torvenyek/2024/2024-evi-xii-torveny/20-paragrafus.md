@@ -8,15 +8,15 @@ c)
 
 d)
 
-e) 29. § (1) bekezdésében az „– a polgár kérelmére –” szövegrész,
+e)
 
-f) 29. § (7) bekezdés c) pontja,
+f)
 
-g) 29/C. § (2) bekezdés a) pontja,
+g)
 
-h) 29/C. § (3) bekezdésében az „a) és” szövegrész,
+h)
 
-i) 29/C. § (4) bekezdése,
+i)
 
 j)
 
@@ -26,8 +26,8 @@ l)
 
 m)
 
-n) 52. § (8) bekezdése,
+n)
 
-o) 52/A. §-a,
+o)
 
-p) 52/B. §-a.
+p)

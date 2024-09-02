@@ -1,9 +1,3 @@
 ## 103. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
-191. § A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény 19. § (8)–(10) bekezdése helyébe a következő rendelkezés lép:
-
-„(8) A 18. § (8) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítésére a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) 25–27 §.-ában foglalt rendelkezéseket a (10)–(12) bekezdésben meghatározott eltérésekkel kell alkalmazni, azzal, hogy a felhasználóra vonatkozó szabályokat a foglalkoztatottra, a digitális szolgáltatást nyújtó szervezetre vonatkozó szabályokat pedig a foglalkoztató NAV szervre kell alkalmazni.
-
-(9) A foglalkoztatott az írásbeli jognyilatkozatok elektronikus úton történő megtétele és az elektronikus dokumentumok kézhezvételének visszaigazolása érdekében köteles a Dáptv. szerinti, a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatással és az ehhez tartozó ajánlott elektronikus kézbesítési szolgáltatásra alkalmas tárhellyel rendelkezni és az ajánlott elektronikus kézbesítési szolgáltatásra alkalmas elektronikus elérhetőségét a foglalkoztatójával közölni. A foglalkoztatott e kötelezettségét – ha törvény eltérően nem rendelkezik – a kinevezését követő 15 napon belül köteles teljesíteni.
-
-(10) A 18. § (8) bekezdése szerinti munkáltatói intézkedést tartalmazó elektronikus dokumentum kézbesítése esetén, ha a szolgáltató azt igazolja vissza, hogy a küldeményt a címzett kétszeri értesítése ellenére nem vette át, az elektronikus dokumentumot kézbesítettnek kell tekinteni a második értesítésről szóló igazolásban feltüntetett időpontot követő ötödik munkanapon.”
+### 191. §

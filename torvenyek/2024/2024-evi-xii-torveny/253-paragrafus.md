@@ -1,1 +1,1 @@
-253. § Az internetes közvetítő szolgáltatások egyes szabályairól szóló 2023. évi CIV. törvény 5. § (2) bekezdésében az „az elektronikus ügyintézés” szövegrész helyébe az „a digitális államról” szöveg és a „bizalmi szolgáltatások általános” szövegrész helyébe a „digitális szolgáltatások nyújtásának egyes” szöveg lép.
+### 253. §
