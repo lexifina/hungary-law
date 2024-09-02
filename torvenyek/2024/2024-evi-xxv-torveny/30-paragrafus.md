@@ -1,1 +1,1 @@
-30. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény 70. § (3) bekezdésében a „Btátv. 166. § (6) bekezdése” szövegrész helyébe a „Btátv. 166. §-a” szöveg lép.
+### 30. §
