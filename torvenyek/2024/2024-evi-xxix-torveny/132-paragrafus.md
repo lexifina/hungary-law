@@ -1,3 +1,1 @@
-## „33. a tiltott tárgyak és a használatában korlátozott tárgyak – szakképző intézmény típusára, évfolyamonként meghatározott – körét, ezek átvételének, az ellenőrzési jog gyakorlásának és a tárgyak visszaadásának szabályait, az igazgató, valamint az oktató vagy a pedagógus általi, a tanuló részére a birtoklás és használat engedélyezésére vonatkozó részletes szabályokat,”
-
-132. § A szakképzésről szóló 2019. évi LXXX. törvény 32. § (2) bekezdésében a „házirend” szövegrész helyébe a „házirend – a 33. § (1a) és (1b) bekezdésében, valamint a Kormány rendeletében foglaltakkal összhangban –” szöveg lép.
+### 132. §

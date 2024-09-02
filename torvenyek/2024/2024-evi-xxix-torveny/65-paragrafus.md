@@ -1,3 +1,1 @@
-65. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 25. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A házirend – a 24. § (4) bekezdésén felül a helyi sajátosságokra tekintettel – előírhatja az óvodába, iskolába, kollégiumba a gyermekek, tanulók által bevitt dolgok megőrzőben, öltözőben való elhelyezését vagy a bevitel bejelentését, valamint az óvodába járáshoz, a tanulói jogviszonyból, kollégiumi tagsági viszonyból származó kötelezettségek teljesítéséhez, jogok gyakorlásához nem szükséges dolgok bevitelét megtilthatja, korlátozhatja vagy feltételhez kötheti. Ha az előírt szabályokat megszegik, a bekövetkezett kárért a nevelési-oktatási intézmény nem felel.”
+### 65. §
