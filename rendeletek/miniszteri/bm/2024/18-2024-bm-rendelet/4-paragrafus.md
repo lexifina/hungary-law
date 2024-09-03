@@ -20,6 +20,8 @@ c) vezetői megbízással rendelkező értékelendő személy esetében a 3. mel
 
 szerinti értékelési szempontok (a továbbiakban: értékelési szempont) alapján kell lefolytatni.
 
+(3a)[^1] Az értékelő vezető a (3) bekezdés a) pontja szerinti pedagógus értékelése során az 1. mellékletben foglalt táblázat 2. sora szerinti szempont értékelése során figyelembe veszi a köznevelésért felelős miniszter által az Nkt. 62. § (5) bekezdése szerint elrendelt képzés teljesítését és eredményét.
+
 (4) A személyre szabott éves teljesítménycélok és értékelési szempontok meghatározásának, teljesülésük nyomon követésének és mérésének részletes módszertanát és szakmai szabályait a köznevelésért felelős miniszter a teljesítményértékelési időszak kezdetét megelőző július 31-ig a Púétv. 1. § (9) bekezdése szerinti hivatal által működtetett honlapon (a továbbiakban: honlap) teszi közzé. A szempontok a honlapról nem távolíthatók el, archiválásukra a digitális archiválás szabályait kell alkalmazni. Az egyedi intézményi értékelési szempontot a teljesítményértékelési időszak kezdetét megelőző augusztus 25-ig az értékelő vezető határozza meg, az adott tanévre vagy nevelési évre szólóan. A közzétett módszertan és szakmai szabályok, valamint az egyedi intézményi értékelési szempontok a teljesítményértékelési időszakban nem módosíthatók.
 
 (5) A teljesítmény értékelésére összesen 100 pont adható, amely
@@ -45,3 +47,5 @@ a) kiemelkedő teljesítményszintű az az értékelendő személy, akinek ponts
 b) átlagos teljesítményszintű az az értékelendő személy, akinek pontszáma az elérhető pontszám 50%-a vagy afeletti, és 80%-a alatti,
 
 c) fejlesztendő teljesítményszintű az az értékelendő személy, akinek pontszáma az elérhető pontszám 50%-a alatti.
+
+[^1]: A 4. § (3a) bekezdését a 40/2024. (IX. 2.) BM rendelet 9. §-a iktatta be.
