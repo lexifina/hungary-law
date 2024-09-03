@@ -1,4 +1,6 @@
-5. § (1)[^6] A válságtámogatásra való jogosultságról az Atr. 2. § 18. pontja szerinti támogatást nyújtó (a továbbiakban: támogatást nyújtó) legkésőbb 2024. június 30-áig dönt.
+5. § (1)[^7] A válságtámogatásra való jogosultságról az Atr. 2. § 18. pontja szerinti támogatást nyújtó (a továbbiakban: támogatást nyújtó) az (1a) bekezdés szerinti kivétellel legkésőbb 2024. június 30-áig dönt.
+
+(1a)[^8] A 2. § (1) bekezdés a) és e) pontja szerinti ágazatban működő vállalkozás válságtámogatás iránti kérelméről a támogatást nyújtó 2024. december 31-ig dönt.
 
 (2) Jogszabály eltérő rendelkezése hiányában – a felügyeleti eljárás kivételével – kötelező az elektronikus kapcsolattartás. Elektronikus kapcsolattartás esetén a Kincstár elektronikus úton küldi meg az értesítéseket, dokumentumokat, valamint közli a döntéseit a kérelmezővel vagy meghatalmazottjával.
 
@@ -10,4 +12,5 @@
 
 (6) A közlemény 58. pontjára figyelemmel a támogatást nyújtó átadja az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére az Európai Bizottság megkeresésének megválaszolásához szükséges összesített adatokat.
 
-[^6]: Az 5. § (1) bekezdése a 161/2022. (XII. 27.) AM rendelet 4. § e) pontja, a 188/2023. (XII. 27.) AM rendelet 3. § d) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdése a 161/2022. (XII. 27.) AM rendelet 4. § e) pontja, a 188/2023. (XII. 27.) AM rendelet 3. § d) pontja, a 46/2024. (IX. 2.) AM rendelet 15. §-a szerint módosított szöveg.
+[^8]: Az 5. § (1a) bekezdését a 46/2024. (IX. 2.) AM rendelet 13. §-a iktatta be.

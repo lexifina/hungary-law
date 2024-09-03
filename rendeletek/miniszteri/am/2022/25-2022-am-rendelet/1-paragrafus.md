@@ -2,7 +2,7 @@
 
 1. csekély összegű támogatás:
 
-a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet hatálya alá tartozó támogatás,
+a)[^1] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2023. december 13-i (EU) 2023/2831 bizottsági rendelet hatálya alá tartozó támogatás,
 
 b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás, valamint
 
@@ -30,6 +30,7 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 12. vadgazdálkodás: a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 40. §-a szerinti tevékenység;
 
-13.[^1] válságtámogatás: az állami támogatásokra vonatkozó, az Ukrajna elleni orosz invázióval összefüggésben a gazdaság támogatását célzó ideiglenes válságkeret című, 2022. október 28-i 2022/C 426/01 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerint nyújtott támogatás.
+13.[^2] válságtámogatás: az „Állami támogatásokra vonatkozó, az Ukrajna elleni orosz agresszióval összefüggésben a gazdaság támogatását célzó ideiglenes válság- és átállási keret” című, 2023. március 17-i 2023/C 101/03 számú európai bizottsági közlemény (a továbbiakban: közlemény) 2.1. szakasza szerint nyújtott támogatás.
 
-[^1]: Az 1. § 13. pontja a 161/2022. (XII. 27.) AM rendelet 4. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 1. pont a) alpontja a 46/2024. (IX. 2.) AM rendelet 11. §-ával megállapított szöveg.
+[^2]: Az 1. § 13. pontja a 46/2024. (IX. 2.) AM rendelet 12. §-ával megállapított szöveg.
