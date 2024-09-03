@@ -1,10 +1,10 @@
-## 6. § Az Országos Széchényi Könyvtár a bejelentett könyvtári anyagról könyvtárközi kölcsönzés céljára belföldi és külföldi intézmény vagy magánszemély kérésére általános, valamint lelőhelyre vonatkozó tájékoztatást ad, továbbá lelőhelyjegyzéket jelentet meg.
+7. § (1)[^7] Az OSZK folyamatosan figyelemmel kíséri a bejelentő könyvtár adatszolgáltatási kötelezettségének teljesítését és annak eredményétől függően felhívja a könyvtár vezetőjét, illetőleg fenntartóját a bejelentéssel kapcsolatos hiányosságok megszüntetésére.
 
-7. § (1) Az Országos Széchényi Könyvtár folyamatosan figyelemmel kíséri a bejelentő könyvtár adatszolgáltatási kötelezettségének teljesítését és annak eredményétől függően felhívja a könyvtár vezetőjét, illetőleg fenntartóját a bejelentéssel kapcsolatos hiányosságok megszüntetésére.
+(2)[^8] Az OSZK évenként (szükség esetén az ellenőrzést követően) jelentést tesz az (1) bekezdés szerinti tevékenységéről és tapasztalatairól a kultúráért felelős miniszter által vezetett minisztérium részére.[^9]
 
-(2)[^2] Az Országos Széchényi Könyvtár évenként (szükség esetén az ellenőrzést követően) jelentést tesz e tevékenységéről és tapasztalatairól a kultúráért felelős miniszter által vezetett minisztériumnak.[^3]
+(3)[^10] A bejelentési rend hatékonyságának érdekében az OSZK módszertani tanácsadó feladatokat lát el.
 
-(3) A bejelentési rend hatékonyságának érdekében az Országos Széchényi Könyvtár módszertani tanácsadó feladatokat lát el.
-
-[^2]: A 7. § (2) bekezdése a 3/2024. (VI. 11.) KIM rendelet 1. §-a szerint módosított szöveg.
-[^3]: Lásd az 1998: XXXVI. törvény 2. § (1) bekezdésének b) pontját.
+[^7]: A 7. § (1) bekezdése a 34/2024. (IX. 2.) KIM rendelet 3. § d) pontja szerint módosított szöveg.
+[^8]: A 7. § (2) bekezdése a 34/2024. (IX. 2.) KIM rendelet 2. §-ával megállapított szöveg.
+[^9]: Lásd az 1998: XXXVI. törvény 2. § (1) bekezdésének b) pontját.
+[^10]: A 7. § (3) bekezdése a 34/2024. (IX. 2.) KIM rendelet 3. § d) pontja szerint módosított szöveg.
