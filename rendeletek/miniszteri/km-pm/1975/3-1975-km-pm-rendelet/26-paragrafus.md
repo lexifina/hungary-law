@@ -2,6 +2,6 @@
 
 ## A muzeális értékű és a letétként őrzött dokumentumokkal kapcsolatos eljárás
 
-26. §[^13]
+26. §[^14]
 
-[^13]: A rendelet mellékletében képező Szabályzat 26–29. §-át a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja hatályon kívül helyezte.
+[^14]: A rendelet mellékletében képező Szabályzat 26–29. §-át a 22/2005. (VII. 18.) NKÖM rendelet 8. §-a (2) bekezdés b) pontja hatályon kívül helyezte.

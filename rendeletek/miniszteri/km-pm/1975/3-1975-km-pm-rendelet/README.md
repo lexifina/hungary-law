@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1975-3-20-3J
 | 2017-12-20 | 1975-3-20-3J.4 | 35/2017. (XII. 19.) EMMI rendelet |
 | 2023-01-01 | 1975-3-20-3J.5 | 35/2017. (XII. 19.) EMMI rendelet |
 | 2024-07-01 | 1975-3-20-3J.6 | 2/2024. (VI. 11.) KIM rendelet |
+| 2024-09-03 | 1975-3-20-3J.7 | 34/2024. (IX. 2.) KIM rendelet |
