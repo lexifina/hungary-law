@@ -14,7 +14,7 @@ a) a fehérjetakarmány-növény állományban a 10. mellékletben önállóan �
 
 b) a mezőgazdasági termelő
 
-ba) az igénylés évét megelőző évben megvalósult őszi vagy a tárgyévben megvalósult tavaszi telepítés vagy felülvetés esetén a két- vagy többéves művelésre alkalmas kultúrák vonatkozásában a támogatásigénylés első évében augusztus 1-jéig egyszeri vagy
+ba)[^5] az igénylés évét megelőző évben megvalósult őszi vagy a tárgyévben megvalósult tavaszi telepítés vagy felülvetés esetén a két- vagy többéves művelésre alkalmas kultúrák vonatkozásában a támogatásigénylés első évében augusztus 1-jéig legalább egyszeri vagy
 
 bb) ha az állomány már többévesnek minősül, illetve a támogatás igénylésének a további éveiben tárgyév július 1-jéig legalább kétszeri
 
@@ -27,3 +27,5 @@ c) ha a Legány-féle keverék, a Borsós napraforgó-csalamádé, a Borsós kuk
 (4) A szálas fehérjenövény termesztés támogatására bejelentett tábla teljes területének felülvetése új telepítésnek minősül.
 
 (5) Ha a mezőgazdasági termelő olyan tábla után nyújt be szálas fehérjetakarmány-növény termesztésre vonatkozó támogatási kérelmet, amelyen azonos kultúrához tartozó növény szaporítóanyagával tárgyévben felülvetés valósul meg, akkor a támogatási kérelemben a felülvetéssel érintett teljes terület tényleges vagy várható nagyságát számszerűen meg kell jelölnie.
+
+[^5]: A 28. § (2) bekezdés b) pont ba) alpontja a 46/2024. (IX. 2.) AM rendelet 36. § c) pontja szerint módosított szöveg.
