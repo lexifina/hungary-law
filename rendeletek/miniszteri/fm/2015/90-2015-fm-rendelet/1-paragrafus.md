@@ -1,4 +1,4 @@
-1. § (1)[^1] A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 24. § (1) bekezdés b) pont ba) alpontjában meghatározott, az államot megillető halgazdálkodási jog átengedésére vonatkozó haszonbérleti szerződésnek kijelölés útján történő megkötését a horgászszövetség írásban kezdeményezheti (a továbbiakban: kezdeményező) a halgazdálkodásért felelős miniszternél (a továbbiakban: miniszter).
+1. § (1)[^1] A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény (a továbbiakban: Hhvtv.) 24. § (1) bekezdés b) pont ba) alpontjában meghatározott, az államot megillető halgazdálkodási jog átengedésére vonatkozó haszonbérleti szerződésnek kijelölés útján történő megkötését a horgászszövetség vagy mintagazdaság írásban kezdeményezheti (a továbbiakban: kezdeményező) a halgazdálkodásért felelős miniszternél (a továbbiakban: miniszter).
 
 (2) Az (1) bekezdés szerinti haszonbérleti szerződés az egymáshoz közvetlenül kapcsolódó, egy víztestet vagy vízrendszert alkotó, több nyilvántartott halgazdálkodási vízterület államot megillető halgazdálkodási jogára is megköthető.
 
@@ -8,4 +8,4 @@
 
 (5) A kezdeményezésről a minisztérium annak beérkezését követően értesíti az államot megillető halgazdálkodási jog vagyonkezelésbe, pályázati úton történő haszonbérbe, valamint alhaszonbérbe adásának egyes szabályairól szóló 89/2015. (XII. 22.) FM rendelet [a továbbiakban: 89/2015. (XII. 22.) FM rendelet] 1. § (4) bekezdés b) pontjában meghatározott kiírót (a továbbiakban: kiíró).
 
-[^1]: Az 1. § (1) bekezdése a 62/2019. (XII. 18.) AM rendelet 13. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 45/2024. (IX. 2.) AM rendelet 2. § a) pontja szerint módosított szöveg.

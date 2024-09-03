@@ -6,7 +6,7 @@ a) a Hhvtv. 24. § (2) bekezdésében és 29. § (5) bekezdésében,
 
 b) a 89/2015. (XII. 22.) FM rendelet 3. § (3) bekezdés b) vagy c) pontjában
 
-## foglalt feltételeknek nem felel meg.
+foglalt feltételeknek nem felel meg.
 
 (2) Ha a Hhvtv. 29. § (5) bekezdés a) pontja szerinti felszámolási eljárás vagy végelszámolási eljárás, illetve az (5) bekezdés b) vagy d) pontja szerinti kizáró ok az alhaszonbérleti szerződés megkötését követően merül fel, az alhaszonbérbe adó jogosult a szerződést azonnali hatállyal felmondani.
 

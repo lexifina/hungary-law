@@ -10,8 +10,10 @@ c) ha volt korábbi haszonbérlő, az általa követelhető, a Hhvtv. 31. § (1)
 
 d) a halgazdálkodási jog haszonbérbe vételének elfogadására vonatkozó jognyilatkozat megtételének módját és határidejét.
 
-(3) Az (1) bekezdés szerinti tájékoztatáshoz csatolni kell a kezdeményezést, valamint az államot megillető halgazdálkodási jog haszonbérleti szerződésének minisztérium által előkészített tervezetét. A kezdeményezésben és a haszonbérleti szerződés tervezetében megismerhetetlenné kell tenni a törvény által védett titkot, a hivatás gyakorlásához kötött titkot és a személyes adatokat, ide nem értve a kezdeményező nevét és székhelyét.
+(3)[^7] Az (1) bekezdés szerinti tájékoztatáshoz csatolni kell a kezdeményezést, valamint az államot megillető halgazdálkodási jog haszonbérleti szerződésének minisztérium által előkészített tervezetét. A kezdeményezésben és a haszonbérleti szerződés tervezetében megismerhetetlenné kell tenni a törvény által védett titkot, a hivatás gyakorlásához kötött titkot és a személyes adatokat, ide nem értve a kezdeményező nevét és lakóhelyét vagy székhelyét.
 
 (4) Az előhaszonbérletre jogosult a tájékoztatás kézhezvételét követő naptól számított 15 napon belül a minisztériumhoz címezve elfogadó jognyilatkozatot tehet arról, hogy a (2) bekezdésben meghatározott valamennyi szempont kötelező teljesítésével az államot megillető halgazdálkodási jog átengedésére haszonbérleti szerződést kíván kötni. Az előhaszonbérleti jogról való lemondásnak kell tekinteni, ha az előhaszonbérletre jogosult határidőn belül nem nyilatkozik.
 
 (5) Elfogadó nyilatkozat benyújtásának hiányában a 7. §-ban foglaltak az irányadók azzal, hogy a szerződéskötés határidejének kezdő napja az (4) bekezdésben meghatározott határidő lejártát követő nap.
+
+[^7]: A 9. § (3) bekezdése a 45/2024. (IX. 2.) AM rendelet 2. § b) pontja szerint módosított szöveg.

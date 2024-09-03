@@ -1,6 +1,10 @@
 3. § (1) Az 1. § (1) bekezdésében meghatározott kezdeményezésnek legalább a következőket kell tartalmaznia:
 
-a) a kezdeményező teljes és rövid megnevezését, székhelyét, adószámát, cégjegyzék vagy egyéb regisztrációs számát, bankszámlaszámát, aláírási joggal rendelkező felelős vezetője nevét, címét, telefonszámát és elektronikus elérhetőségét;
+a)[^2] a kezdeményező
+
+aa) természetes személy esetén a természetes személyazonosító adatait, lakcímét, telefonszámát és elektronikus elérhetőségét,
+
+ab) jogi személy esetén a teljes és rövid megnevezését, székhelyét, adószámát, cégjegyzék- vagy egyéb regisztrációs számát, bankszámlaszámát, aláírási joggal rendelkező felelős vezetője nevét, lakcímét, telefonszámát és elektronikus elérhetőségét;
 
 b) a nyilvántartott halgazdálkodási vízterületen tervezett halgazdálkodási hasznosítási koncepciót;
 
@@ -10,7 +14,7 @@ d) a kezdeményező nyilatkozatát arról, hogy
 
 da) a haszonbérleti szerződésben foglalt hasznosítási feltételeket elfogadja;
 
-db) nem áll csőd- vagy felszámolási eljárás és végelszámolás alatt;
+db)[^3] jogi személy esetén nem áll csőd-, felszámolási és végelszámolási eljárás alatt;
 
 dc) tevékenységét nem függesztette fel, vagy nem függesztették fel;
 
@@ -35,3 +39,6 @@ b) ha felmerül, a földtulajdonosi haszonbérleti vagy előhaszonbérleti jogos
 c) a halgazdálkodási hasznosítást érintő lényeges körülmények.
 
 (3) A kezdeményező a minisztérium felhívására, az abban megjelölt határidőn belül köteles a kezdeményezésben foglaltakat igazolni.
+
+[^2]: A 3. § (1) bekezdés a) pontja a 45/2024. (IX. 2.) AM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § (1) bekezdés d) pont db) alpontja a 45/2024. (IX. 2.) AM rendelet 1. § (2) bekezdésével megállapított szöveg.
