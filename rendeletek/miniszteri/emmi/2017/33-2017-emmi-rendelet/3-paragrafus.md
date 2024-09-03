@@ -14,4 +14,4 @@ d) meghatározza a könyvtári önértékelés szempontrendszerét.
 
 (4) A könyvtári önértékelés szakmai szempontrendszeréről, a pályázatok ellenőrzési és értékelési rendszeréről, valamint az ellenőrzés folyamatáról a Könyvtári Intézet szabályzatot készít, melyet – a miniszter jóváhagyását követően – a honlapján közzétesz.
 
-[^2]: A 3. § (3) bekezdése a 21/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdése a 21/2024. (VI. 11.) KIM rendelet 1. § b) pontja szerint módosított szöveg. [A 3. § (3) bekezdésben a 34/2024. (IX. 2.) KIM rendelet 7. § b) pontja által elrendelt módosítás, amely szerint az „Országos Széchényi Könyvtár” szövegrész helyébe az „OSZK” szöveg lép, nem vezethető át.] [A 3. § (3) bekezdésben a 35/2024. (IX. 5.) KIM rendelet 7. § b) pontja által elrendelt módosítás, amely szerint az „Országos Széchényi Könyvtár” szövegrész helyébe az „OSZK” szöveg lép, nem vezethető át.]
