@@ -8,8 +8,8 @@
 
 | 4. | Fajlagos támogatási összeg maximuma | 169,12 |
 
-2. melléklet a 16/2023. (IV. 19.) AM rendelethez[^16]
+2. melléklet a 16/2023. (IV. 19.) AM rendelethez[^22]
 
 Az újraelosztó támogatásra vonatkozó 2023. évi támogatási keretösszegek (euró), illetve fajlagos támogatási összegek (euró/hektár)
 
-[^16]: A 2. melléklet a 25/2024. (IV. 9.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^22]: A 2. melléklet a 25/2024. (IV. 9.) AM rendelet 9. § (2) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@ bb) őstermelők családi gazdasága esetében – ha a történelmi bázisjogos
 
 (2) A 8. § (1) bekezdés a), b), d) és f) pontja szerinti támogatási jogcím esetén történelmi bázisjogosultság alapján a termeléstől elválasztott támogatásra az a mezőgazdasági termelő jogosult, aki a tárgyévre vonatkozóan legalább 1 hektár támogatható területtel rendelkezik, és a TIR-ben – az Eljárási tv. szerinti ügyfél-azonosítójával – állattartóként van nyilvántartva.
 
-(3)[^5] A mezőgazdasági termelő az egységes kérelem felületen kérelmezi a 11., 12. és 17. § szerinti történelmi bázisjogosultság megállapítását. A 21/A. és 21/B. § tekintetében a 2023. évi egységes kérelem benyújtása a történelmi bázisjogosultság megállapítása iránti kérelemnek is minősül, ha a 2018. évre vonatkozóan egységes területalapú támogatás megállapításra került a mezőgazdasági termelő, a mezőgazdasági termelő jogutódja vagy örököse dohánytermő területei vonatkozásában. A történelmi bázisjogosultság megállapítása iránti kérelem nem része az egységes kérelemnek.
+(3)[^5] A mezőgazdasági termelő az egységes kérelem felületen kérelmezi a 11., 12. és 17. § szerinti történelmi bázisjogosultság megállapítását. A 21/A. és 21/B. § tekintetében a 2023. évi egységes kérelem benyújtása a történelmi bázisjogosultság megállapítása iránti kérelemnek is minősül, ha a 2018. évre vonatkozóan egységes területalapú támogatás vagy a mezőgazdasági kistermelői támogatásról szóló 16/2014. (IV. 9.) FM rendelet [a továbbiakban: 16/2014. (IV. 9.) FM rendelet] szerinti támogatás megállapításra került a mezőgazdasági termelő, a mezőgazdasági termelő jogutódja vagy örököse dohánytermő területei vonatkozásában. A történelmi bázisjogosultság megállapítása iránti kérelem nem része az egységes kérelemnek.
 
 (4)[^6] Azon mezőgazdasági termelő, jogutódja vagy örököse, aki a 2023. évben egységes kérelmet nem nyújtott be, de megfelel a 21/A. vagy 21/B. § szerinti történelmi bázisjogosultság megállapítására vonatkozó feltételeknek, 2024. február 1. és február 15. között kérelmezheti a történelmi bázisjogosultság megállapítását. A kérelem az elektronikus kérelembenyújtó felületen keresztül nyújtható be.
 
@@ -18,7 +18,7 @@ bb) őstermelők családi gazdasága esetében – ha a történelmi bázisjogos
 
 (6)[^8] A történelmi bázisjogosultság tárgyévi átruházása esetén – amennyiben a támogatás igénybevételének egyéb feltételei teljesülnek – a támogatásra az átvevő jogosult.
 
-[^5]: A 9. § (3) bekezdése a 3/2024. (I. 30.) AM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^5]: A 9. § (3) bekezdése a 3/2024. (I. 30.) AM rendelet 5. § (1) bekezdésével megállapított, a 46/2024. (IX. 2.) AM rendelet 34. § a) pontja szerint módosított szöveg.
 [^6]: A 9. § (4) bekezdését a 3/2024. (I. 30.) AM rendelet 5. § (2) bekezdése iktatta be.
 [^7]: A 9. § (5) bekezdését a 3/2024. (I. 30.) AM rendelet 5. § (2) bekezdése iktatta be.
 [^8]: A 9. § (6) bekezdését a 3/2024. (I. 30.) AM rendelet 5. § (2) bekezdése iktatta be.
