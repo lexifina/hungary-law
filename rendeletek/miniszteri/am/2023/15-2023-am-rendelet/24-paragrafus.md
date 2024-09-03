@@ -1,6 +1,6 @@
 ## 19. Kizárólag alternáló kasza használata
 
-24. § (1)[^16] A kizárólag alternáló kasza használata gyakorlat (a továbbiakban: gyakorlat13) keretében a mezőgazdasági termelő a mezőgazdasági üzem – a 17. § (1) bekezdésében foglaltakra figyelemmel – adott földhasználati kategória szerinti valamennyi gyepterületen a tárgyévben valamennyi kaszálást alternáló kasza használatával valósítja meg, azzal, hogy a gyepterületet legalább évente egy alkalommal lekaszálja.
+24. § (1)[^28] A kizárólag alternáló kasza használata gyakorlat (a továbbiakban: gyakorlat13) keretében a mezőgazdasági termelő a mezőgazdasági üzem – a 17. § (1) bekezdésében foglaltakra figyelemmel – adott földhasználati kategória szerinti valamennyi gyepterületen a tárgyévben valamennyi kaszálást alternáló kasza használatával valósítja meg, azzal, hogy a gyepterületet legalább évente egy alkalommal lekaszálja.
 
 (2) A gyakorlat13 a gyakorlat12-vel együtt nem választható.
 
@@ -16,7 +16,11 @@ b) a kaszálás elvégzésének dátumát.
 
 (6) A gyakorlat13-at nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a) a gyakorlat13-mal érintett gyep hasznosítású tábla valamelyikének vonatkozásában nem teljesítette a (4) bekezdésben foglalt feltételt;
+a)[^29] a gyakorlat13-mal érintett gyep hasznosítású tábla valamelyikének vonatkozásában a (4) bekezdésben foglalt feltételt
+
+aa) nem teljesítette, vagy
+
+ab) annak teljesítését nem tudja igazolni, vagy az a támogatással összefüggésben keletkezett adatok alapján sem igazolható,
 
 b) nem teljesítette az (5) bekezdésben foglalt feltételt, vagy a mobilGazda alkalmazás segítségével készített georeferált fénykép nem a mezőgazdasági termelő valamely, a gyakorlattal érintett területén készült, vagy azon az eszköz és annak vágófelülete nem jól látható;
 
@@ -28,4 +32,5 @@ cb) az adott gazdálkodási évben nem alternáló kaszával végezte a kaszál�
 
 d) a gyakorlat12-t is választotta.
 
-[^16]: A 24. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § f) pontja szerint módosított szöveg.
+[^28]: A 24. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § f) pontja szerint módosított szöveg.
+[^29]: A 24. § (6) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 23. §-ával megállapított szöveg.

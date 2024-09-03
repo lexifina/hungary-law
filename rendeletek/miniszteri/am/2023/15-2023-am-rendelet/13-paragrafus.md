@@ -1,8 +1,8 @@
 ## 11. Karbamid műtrágya környezetbarát használata szántóföldi területen
 
-13. § (1)[^9] A karbamid műtrágya környezetbarát használata szántóföldi területen gyakorlat (a továbbiakban: gyakorlat6) keretében a mezőgazdasági termelő a mezőgazdasági üzem szántóterületének legalább egy tábláján, de a szántóterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A gyakorlat6 keretében a kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
+13. § (1)[^12] A karbamid műtrágya környezetbarát használata szántóföldi területen gyakorlat (a továbbiakban: gyakorlat6) keretében a mezőgazdasági termelő a mezőgazdasági üzem szántóterületének legalább egy tábláján, de a szántóterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A gyakorlat6 keretében a kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
 
-(2)[^10] A gyakorlat6 keretében karbamid műtrágya kizárólag úgy juttatható ki, hogy azt azonnal bedolgozzák – beleértve a sekély tarlóhántást és -ápolást, valamint minden olyan talajművelési munkálatot, ami garantálja, hogy a készítmény talajfelszín alá kerül –, illetve folyékony karbamid műtrágya esetén az azonnali bedolgozás mellett inhibitort is alkalmaznak a kijuttatás során.
+(2)[^13] A gyakorlat6 keretében karbamid műtrágya kizárólag úgy juttatható ki, hogy azt azonnal bedolgozzák – beleértve a sekély tarlóhántást és -ápolást, valamint minden olyan talajművelési munkálatot, ami garantálja, hogy a készítmény talajfelszín alá kerül –, illetve folyékony karbamid műtrágya esetén az azonnali bedolgozás mellett inhibitort is alkalmaznak a kijuttatás során.
 
 (3) A gyakorlat6-ot választó mezőgazdasági termelőnek
 
@@ -40,14 +40,20 @@ a) nem juttatott ki egyetlen táblán sem karbamid műtrágyát, vagy nem a szá
 
 b) nem az (1) bekezdésben meghatározott mennyiséget juttatta ki;
 
-c)[^11] a kijuttatott karbamid műtrágyát nem forgatta vagy nem dolgozta be azonnal;
+c)[^14] a kijuttatott karbamid műtrágyát nem forgatta vagy nem dolgozta be azonnal;
 
-d) nem vagy nem határidőben jelentette be agrotechnikai műveletként a kijuttatást és bedolgozást az Egységes kérelem rendeletben meghatározottak szerint;
+d)[^15] az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként a kijuttatást és a bedolgozást
 
-e) folyékony műtrágya esetén nem használt inhibitort, vagy nem jelentette be agrotechnikai műveletként; vagy
+da) nem jelentette be, vagy
+
+db) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat6 tényleges teljesítése; vagy
+
+e)[^16] folyékony műtrágya esetén nem használt inhibitort, vagy nem jelentette be agrotechnikai műveletként, és ezt más módon sem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható; vagy
 
 f) olyan táblára juttatott ki karbamid műtrágyát, amelyen a gyakorlat9 került kiválasztásra és teljesítésre.
 
-[^9]: A 13. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § b) pontja szerint módosított szöveg.
-[^10]: A 13. § (2) bekezdése az 56/2023. (IX. 27.) AM rendelet 23. §-ával megállapított szöveg.
-[^11]: A 13. § (6) bekezdés c) pontja a 26/2023. (VI. 30.) AM rendelet 23. § c) pontja, az 56/2023. (IX. 27.) AM rendelet 26. §-a szerint módosított szöveg.
+[^12]: A 13. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § b) pontja szerint módosított szöveg.
+[^13]: A 13. § (2) bekezdése az 56/2023. (IX. 27.) AM rendelet 23. §-ával megállapított szöveg.
+[^14]: A 13. § (6) bekezdés c) pontja a 26/2023. (VI. 30.) AM rendelet 23. § c) pontja, az 56/2023. (IX. 27.) AM rendelet 26. §-a szerint módosított szöveg.
+[^15]: A 13. § (6) bekezdés d) pontja a 46/2024. (IX. 2.) AM rendelet 18. §-ával megállapított szöveg.
+[^16]: A 13. § (6) bekezdés e) pontja a 46/2024. (IX. 2.) AM rendelet 31. § b) pontja szerint módosított szöveg.

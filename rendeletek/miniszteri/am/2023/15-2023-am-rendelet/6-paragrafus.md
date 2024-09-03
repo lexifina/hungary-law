@@ -10,6 +10,6 @@ ba) a mezőgazdasági termelő a tárgyévben nem vezette a gazdálkodási napl�
 
 bb) a mezőgazdasági termelő nem teljesítette a mezőgazdasági üzem teljes területére – ide nem értve a gyakorlat teljesítése alól mentesített területet – kiterjedően minden földhasználati kategóriában legalább 2 pont értékű gyakorlatot, vagy
 
-bc)[^7]
+bc)[^8]
 
-[^7]: A 6. § b) pont bc) alpontját a 33/2024. (V. 30.) AM rendelet 34. §-a hatályon kívül helyezte.
+[^8]: A 6. § b) pont bc) alpontját a 33/2024. (V. 30.) AM rendelet 34. §-a hatályon kívül helyezte.

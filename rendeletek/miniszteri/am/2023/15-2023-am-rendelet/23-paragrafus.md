@@ -18,7 +18,11 @@ b) a kaszálás elvégzésének dátumát.
 
 (7) A gyakorlat12-t nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy
 
-a) a mezőgazdasági termelő a gyakorlat12-vel érintett gyep hasznosítású tábla esetében nem, vagy nem az (5) bekezdésben foglaltak szerint jelentette be a kaszálást;
+a)[^27] a mezőgazdasági termelő a gyakorlat12-vel érintett gyep hasznosítású tábla esetében a kaszálás tervezett időpontját és elvégzésének pontos dátumát az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
+
+aa) nem jelentette be, vagy
+
+ab) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat12 tényleges teljesítése;
 
 b) a mezőgazdasági termelő a gyakorlat12 teljesítéséhez szükséges kaszálást nem teljesítette a vállalással érintett valamennyi gyep tábla esetében;
 
@@ -31,3 +35,5 @@ e) a gyakorlat12-vel érintett táblák valamelyike része az AKG keretében tá
 f) nem extenzív gyep tábla is része a mezőgazdasági üzem gyakorlat12-vel érintett területének; vagy
 
 g) a gyakorlat12-vel érintett tábla Natura 2000 gyep területen helyezkedik el.
+
+[^27]: A 23. § (7) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 22. §-ával megállapított szöveg.

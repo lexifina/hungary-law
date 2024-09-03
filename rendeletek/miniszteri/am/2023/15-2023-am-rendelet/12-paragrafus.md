@@ -8,4 +8,6 @@
 
 (4) A növényvédelmi kezelés során alkalmazott növényvédő szerek használatát a gazdálkodási napló adatai alapján, illetve szermaradvány kimutatására irányuló mintavételezéssel a Kincstár ellenőrzi.
 
-(5) A gyakorlat5-öt nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve a helyszíni ellenőrzés keretében megállapításra kerül, hogy fel nem használható hatóanyagot tartalmazó növényvédő szer került kijuttatásra a szántóterületen.
+(5)[^11] A gyakorlat5-öt nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve a helyszíni ellenőrzés keretében megállapításra kerül, hogy fel nem használható növényvédő szer és hatóanyag került kijuttatásra a szántóterületen.
+
+[^11]: A 12. § (5) bekezdése a 46/2024. (IX. 2.) AM rendelet 31. § a) pontja szerint módosított szöveg.

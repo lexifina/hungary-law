@@ -36,11 +36,11 @@ kell igazolnia.
 
 (6) A gyakorlat18-at nem teljesítettnek kell tekinteni a gyakorlat18-cal érintett tábla vonatkozásában, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a) a gyakorlat18-cal érintett ültetvény hasznosítású tábla esetében nem vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként
+a)[^34] a gyakorlat18-cal érintett ültetvény hasznosítású tábla esetében a gyakorlat18 vállalását, teljesítését, az alkalmazott készítmények pontos megnevezését vagy kijuttatásának időpontját az Egységes kérelem rendeletben foglaltaknak megfelelően agrotechnikai műveletként
 
-aa) a gyakorlat18 vállalását, illetve teljesítését vagy
+aa) nem jelentette be, vagy
 
-ab) az alkalmazott készítmények pontos megnevezését vagy kijuttatásának időpontját;
+ab) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat18 tényleges teljesítése;
 
 b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt; vagy
 
@@ -50,6 +50,13 @@ c) a táblán nem juttatott ki kondicionálót.
 
 a) az ültetvényterület legalább 50%-án nem használt, vagy nem az (1)–(5) bekezdésben leírtaknak megfelelően használt kondicionálót;
 
-b) nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a kondicionáló alkalmazását az ültetvényterületnek a gyakorlat18 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat18 teljesítéséhez szükséges ültetvényterület 50%-án; vagy
+b)[^35] a kondicionáló alkalmazását az ültetvényterületnek a gyakorlat18 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat18 teljesítéséhez szükséges ültetvényterület 50%-án az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
+
+ba) nem jelentette be, vagy
+
+bb) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat18 tényleges teljesítése; vagy
 
 c) az egységes kérelemben nem jelentette be, hogy mely tábla vonatkozásában kívánja teljesíteni a gyakorlat18-at.
+
+[^34]: A 29. § (6) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^35]: A 29. § (7) bekezdés b) pontja a 46/2024. (IX. 2.) AM rendelet 26. § (2) bekezdésével megállapított szöveg.

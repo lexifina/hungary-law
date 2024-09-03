@@ -28,8 +28,14 @@ a) a gyakorlat19-cel érintett táblák között van olyan, amely nem felel meg 
 
 c) az előírt időszakban nem vagy nem a megfelelő mértékben található meg valamely táblán a mulcs vagy az egységes kérelemben bejelentett takarónövény;
 
-d) a gyakorlat19-cel érintett valamely ültetvény típusú tábla esetében a mezőgazdasági termelő nem vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként a szükséges adatokat;
+d)[^36] a szükséges adatokat a gyakorlat19-cel érintett valamely ültetvény típusú tábla esetében a mezőgazdasági termelő az Egységes kérelem rendeletben foglaltaknak megfelelően agrotechnikai műveletként
+
+da) nem jelentette be, vagy
+
+db) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat19 tényleges teljesítése;
 
 e) mulcsozás esetén az nem felel meg az (5) bekezdésben foglaltaknak; vagy
 
 f) nem egyéves sorköztakaró növénnyel valósult meg a talajtakarás.
+
+[^36]: A 30. § (8) bekezdés d) pontja a 46/2024. (IX. 2.) AM rendelet 27. §-ával megállapított szöveg.

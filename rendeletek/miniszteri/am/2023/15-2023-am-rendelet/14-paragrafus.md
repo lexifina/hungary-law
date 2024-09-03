@@ -1,6 +1,6 @@
 ## 12. Mikrobiológiai készítmények alkalmazása szántóföldi területen
 
-14. § (1)[^12] A mikrobiológiai készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat7) keretében a mezőgazdasági termelőnek a tárgyévben a mezőgazdasági üzem szántóterületének legalább 50%-án a talajéletet és a talajállapotot javító mikrobiológiai készítményeket kell alkalmaznia a következő módok valamelyike szerint vagy azok tetszőleges kombinációjában: a vetés előtt, vagy a vetéssel egy menetben kijuttatva és a talajba dolgozva, vagy szármaradványokra kijuttatva, majd azokat a talajba dolgozva, beleértve a sekély tarlóhántást és -ápolást.
+14. § (1)[^17] A mikrobiológiai készítmények alkalmazása szántóföldi területen gyakorlat (a továbbiakban: gyakorlat7) keretében a mezőgazdasági termelőnek a tárgyévben a mezőgazdasági üzem szántóterületének legalább 50%-án a talajéletet és a talajállapotot javító mikrobiológiai készítményeket kell alkalmaznia a következő módok valamelyike szerint vagy azok tetszőleges kombinációjában: a vetés előtt, vagy a vetéssel egy menetben kijuttatva és a talajba dolgozva, vagy szármaradványokra kijuttatva, majd azokat a talajba dolgozva, beleértve a sekély tarlóhántást és -ápolást.
 
 (2) A gyakorlat7 teljesítése során kizárólag olyan mikrobiológiai készítmény kijuttatása fogadható el,
 
@@ -46,14 +46,20 @@ b) agrotechnikai műveletként meg kell jelölni a kijuttatott mikrobiológiai k
 
 (7) A gyakorlat7-et nem teljesítettnek kell tekinteni a gyakorlat teljesítésébe bevont tábla vonatkozásában, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a) a gyakorlat7-tel érintett szántó típusú tábla valamelyikén nem, vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként
+a)[^18] a gyakorlat7-tel érintett szántó típusú tábla valamelyikén a mikrobiológiai készítmény használatát, az alkalmazott mikrobiológiai készítmények pontos megnevezését vagy kijuttatásának időpontját az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
 
-aa) a mikrobiológiai készítmény használatát,
+aa) nem jelentette be, vagy
 
-ab) az alkalmazott mikrobiológiai készítmények pontos megnevezését vagy kijuttatásának időpontját; vagy
+ab) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat7 tényleges teljesítése;
 
 b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt.
 
-(8) A gyakorlat7-et nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatta ki a mikrobiológiai készítményt.
+(8)[^19] A gyakorlat7-et nemteljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a szántóterület több mint 50%-án a mezőgazdasági termelő
 
-[^12]: A 14. § (1) bekezdése az 56/2023. (IX. 27.) AM rendelet 24. §-ával megállapított szöveg.
+a) nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatta ki a mikrobiológiai készítményt, vagy
+
+b) nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat7 tényleges teljesítése.
+
+[^17]: A 14. § (1) bekezdése az 56/2023. (IX. 27.) AM rendelet 24. §-ával megállapított szöveg.
+[^18]: A 14. § (7) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^19]: A 14. § (8) bekezdése a 46/2024. (IX. 2.) AM rendelet 19. § (2) bekezdésével megállapított szöveg.

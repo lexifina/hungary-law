@@ -1,6 +1,6 @@
 ## 27. Karbamid műtrágya környezetbarát használata ültetvényekben
 
-32. § (1)[^17] A karbamid műtrágya környezetbarát használata ültetvényekben gyakorlat (a továbbiakban: gyakorlat21) keretében a mezőgazdasági üzem ültetvényterületének legalább egy tábláján, de ültetvényterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
+32. § (1)[^38] A karbamid műtrágya környezetbarát használata ültetvényekben gyakorlat (a továbbiakban: gyakorlat21) keretében a mezőgazdasági üzem ültetvényterületének legalább egy tábláján, de ültetvényterületének legalább 5%-án karbamidtartalmú műtrágyát juttat ki. A kijuttatandó karbamid tartalmú készítményből származó összes nitrogén hatóanyag hektáronként minimálisan 35 kg, maximálisan 90 kg.
 
 (2) A gyakorlat21 keretében karbamid műtrágya kizárólag úgy juttatható ki, hogy azt azonnal bedolgozzák, illetve folyékony karbamid esetén az azonnali bedolgozás mellett inhibitort is alkalmaznak a kijuttatás során.
 
@@ -44,10 +44,20 @@ b) nem az (1) bekezdés szerinti mennyiséget juttatta ki;
 
 c) a kijuttatott karbamid műtrágyát nem dolgozta be azonnal;
 
-d) nem jelentette be a kijuttatást és bedolgozást az Egységes kérelem rendeletben meghatározottak szerint agrotechnikai műveletként;
+d)[^39] a kijuttatást és bedolgozást az Egységes kérelem rendeletben foglaltaknak megfelelően agrotechnikai műveletként
 
-e) nem jelentette be agrotechnikai műveletként az inhibitor alkalmazását; vagy
+da) nem jelentette be, vagy
+
+db) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat21 tényleges teljesítése;
+
+e)[^40] az inhibitor alkalmazását az Egységes kérelem rendeletben foglaltaknak megfelelően agrotechnikai műveletként
+
+ea) nem jelentette be, vagy
+
+eb) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat21 tényleges teljesítése; vagy
 
 f) folyékony karbamid használata esetében nem használt inhibitort.
 
-[^17]: A 32. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § g) pontja szerint módosított szöveg.
+[^38]: A 32. § (1) bekezdése a 26/2023. (VI. 30.) AM rendelet 23. § g) pontja szerint módosított szöveg.
+[^39]: A 32. § (7) bekezdés d) pontja a 46/2024. (IX. 2.) AM rendelet 29. §-ával megállapított szöveg.
+[^40]: A 32. § (7) bekezdés e) pontja a 46/2024. (IX. 2.) AM rendelet 29. §-ával megállapított szöveg.

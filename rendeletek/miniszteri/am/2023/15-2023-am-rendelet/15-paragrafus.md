@@ -38,14 +38,21 @@ b) agrotechnikai műveletként meg kell jelölni a kondicionáló pontos megneve
 
 (7) A gyakorlat8-at a gyakorlat8 teljesítésébe bevont tábla vonatkozásában nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra került, hogy a mezőgazdasági termelő
 
-a) a gyakorlat8-cal érintett szántó típusú tábla valamelyikén nem, vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként
+a)[^20] a gyakorlat8-cal érintett szántó típusú tábla valamelyikén a kondicionáló használatát, az alkalmazott kondicionálók pontos megnevezését vagy kijuttatásának időpontját az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
 
-aa) a kondicionáló használatát,
+aa) nem jelentette be, vagy
 
-ab) az alkalmazott kondicionálók pontos megnevezését vagy kijuttatásának időpontját;
+ab) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat8 tényleges teljesítése;
 
 b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt; vagy
 
 c) a táblán nem juttatott ki kondicionálót.
 
-(8) A gyakorlat8-at nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a szántóterület legalább 50%-án a mezőgazdasági termelő nem, vagy nem az (1)–(6) bekezdésben foglaltaknak megfelelően juttatott ki kondicionálót.
+(8)[^21] A gyakorlat8-at nemteljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a szántóterület legalább 50%-án a mezőgazdasági termelő
+
+a) nem juttatott ki kondicionálót, vagy
+
+b) más módon sem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható, hogy az (1)–(6) bekezdésben foglaltaknak megfelelően juttatott ki kondicionálót.
+
+[^20]: A 15. § (7) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^21]: A 15. § (8) bekezdése a 46/2024. (IX. 2.) AM rendelet 20. § (2) bekezdésével megállapított szöveg.

@@ -44,7 +44,11 @@ b) nem engedélyezett biológiai ágenst használt;
 
 c) nem az engedélyokiratának megfelelően használta fel a biológiai ágenst; vagy
 
-d) nem, vagy nem határidőben jelentette be a biológiai ágens alkalmazását az egységes kérelem felületen agrotechnikai műveletként.
+d)[^31] a biológiai ágens alkalmazását az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
+
+da) nem jelentette be, vagy
+
+db) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat16 tényleges teljesítése;
 
 (8) A gyakorlat16-ot nem teljesítettnek kell tekinteni, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy
 
@@ -53,3 +57,5 @@ a) az ültetvényterület legalább 50%-án nem használtak, vagy nem megfelelő
 b) a mezőgazdasági termelő nem jelentette be az egységes kérelem felületen a biológiai ágens alkalmazását az ültetvényterületnek a gyakorlat16 teljesítésére bejelentett táblák mindegyikén, de legalább a gyakorlat16 teljesítéséhez szükséges ültetvényterület 50%-án; vagy
 
 c) nem jelölte meg a mezőgazdasági termelő az egységes kérelemben, hogy mely tábla esetében kívánja betartani a gyakorlat16-ot.
+
+[^31]: A 27. § (7) bekezdés d) pontja a 46/2024. (IX. 2.) AM rendelet 24. §-ával megállapított szöveg.

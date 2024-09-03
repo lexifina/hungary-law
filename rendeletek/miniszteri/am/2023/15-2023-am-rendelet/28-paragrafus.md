@@ -36,7 +36,11 @@ kell igazolnia.
 
 (6) A gyakorlat17-et nem teljesítettnek kell tekinteni a gyakorlat17 teljesítésébe bevont tábla vonatkozásában, ha az adminisztratív, illetve helyszíni ellenőrzés keretében megállapításra kerül, hogy a mezőgazdasági termelő
 
-a) a gyakorlat17-tel érintett ültetvény típusú tábla esetében nem, vagy nem az Egységes kérelem rendeletben meghatározottak szerint jelentette be agrotechnikai műveletként az alkalmazott mikrobiológiai készítmények pontos megnevezését vagy kijuttatásának időpontját; vagy
+a)[^32] a gyakorlat17-tel érintett ültetvény típusú tábla esetében az alkalmazott mikrobiológiai készítmények pontos megnevezését vagy kijuttatásának időpontját az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
+
+aa) nem jelentette be, vagy
+
+ab) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat17 tényleges teljesítése; vagy
 
 b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt.
 
@@ -44,4 +48,11 @@ b) nem teljesítette a (2) bekezdésben meghatározott valamely feltételt.
 
 a) az ültetvényterület legalább 50%-án nem használt, vagy nem a (2)–(5) bekezdésben leírtaknak megfelelően használt mikrobiológiai készítményt; vagy
 
-b) nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be agrotechnikai műveletként a mikrobiológiai készítmény alkalmazását az ültetvényterületnek a gyakorlat17 teljesítésére bejelentett táblák mindegyikén, de legalább a teljes ültetvényterület 50%-án.
+b)[^33] a mikrobiológiai készítmény alkalmazását az ültetvényterületnek a gyakorlat17 teljesítésére bejelentett táblák mindegyikén, de legalább a teljes ültetvényterület 50%-án az Egységes kérelem rendeletben szabályozott agrotechnikai műveletként
+
+ba) nem jelentette be, vagy
+
+bb) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat17 tényleges teljesítése.
+
+[^32]: A 28. § (6) bekezdés a) pontja a 46/2024. (IX. 2.) AM rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^33]: A 28. § (7) bekezdés b) pontja a 46/2024. (IX. 2.) AM rendelet 25. § (2) bekezdésével megállapított szöveg.

@@ -24,4 +24,10 @@ b) a sorköztakaró növény vagy magkeverék nem felel meg a (3) bekezdésben f
 
 c) a sorköztakaró növény – a telepítés évét kivéve – nem található a területen egész évben; vagy
 
-d) az egységes kérelem felületen a mezőgazdasági termelő nem vagy nem az Egységes kérelem rendeletnek megfelelően jelentette be a sorköztakarás módját, valamint az agrotechnikai műveleteket.
+d)[^37] a sorköztakarás módját, valamint az agrotechnikai műveleteket a mezőgazdasági termelő az Egységes kérelem rendeletben foglaltaknak megfelelően agrotechnikai műveletként
+
+da) nem jelentette be, vagy
+
+db) határidőn túl jelentette be, és nem tudja igazolni, vagy a támogatással összefüggésben keletkezett adatok alapján sem igazolható a gyakorlat20 tényleges teljesítése.
+
+[^37]: A 31. § (5) bekezdés d) pontja a 46/2024. (IX. 2.) AM rendelet 28. §-ával megállapított szöveg.
