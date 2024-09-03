@@ -1,5 +1,5 @@
 ## 5. Az egységes elektronikuskártya-kibocsátás engedélyezésére irányuló hatósági eljárás igazgatási szolgáltatási díjáról, az ezzel kapcsolatos egyes díjak megállapításának szabályairól, valamint az egységes arcképmás- és aláírás-felvételezésre irányuló hatósági eljárás díjmentességéről szóló 70/2015. (XII. 21.) BM rendelet módosítása
 
-5. § Az egységes elektronikuskártya-kibocsátás engedélyezésére irányuló hatósági eljárás igazgatási szolgáltatási díjáról, az ezzel kapcsolatos egyes díjak megállapításának szabályairól, valamint az egységes arcképmás- és aláírás-felvételezésre irányuló hatósági eljárás díjmentességéről szóló 70/2015. (XII. 21.) BM rendelet 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+5. §[^6]
 
-„(1) Az előzetes szakhatósági eljárás kivételével a 2. § (1) bekezdése szerinti díjfizetési kötelezettséget a Magyar Államkincstárnál vezetett, 10032000-00335814-06020020 számú kincstári célelszámolási számla javára kell teljesíteni, amely befizetést a kérelem benyújtásával egyidejűleg igazolni kell.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
