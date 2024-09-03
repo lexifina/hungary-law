@@ -18,12 +18,14 @@ c)[^28] a megyei hatókörű városi könyvtár illetékességi területén lév
 
 d) az országos szakkönyvtárak vonatkozásában az irányító szerv az e) pontban meghatározott könyvtárak kivételével,
 
-e) a fővárosi székhelyű felsőoktatási könyvtárak, a fővárosi székhelyű iskolai könyvtárak, valamint az Országos Idegennyelvű Könyvtár vonatkozásában az Országos Széchényi Könyvtár,
+e)[^29] a fővárosi székhelyű felsőoktatási könyvtárak, a fővárosi székhelyű iskolai könyvtárak, valamint az Országos Idegennyelvű Könyvtár vonatkozásában – a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) tagintézményeként működő – Országos Széchényi Könyvtár (a továbbiakban: OSZK),
 
 f) az általános levéltárak és a szaklevéltárak vonatkozásában az országos hatáskörű levéltári tevékenységet végző szerv,
 
-g) az olyan közgyűjtemények esetében, amelyek alapleltárában vagy külön nyilvántartásában kulturális javak szerepelnek, a kép- és hangarchívumok vonatkozásában az Országos Széchényi Könyvtár
+g)[^30] az olyan közgyűjtemények esetében, amelyek alapleltárában vagy külön nyilvántartásában kulturális javak szerepelnek, a kép- és hangarchívumok vonatkozásában az OSZK
 
 látja el.
 
 [^28]: A 26. § (2) bekezdés c) pontja a 35/2017. (XII. 19.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^29]: A 26. § (2) bekezdés e) pontja a 34/2024. (IX. 2.) KIM rendelet 5. § a) pontja szerint módosított szöveg. [A 26. § (2) bekezdés e) pontjában a 35/2024. (IX. 5.) KIM rendelet 5. § a) pontja által elrendelt módosítás, amely szerint a „vonatkozásában az Országos Széchényi Könyvtár” szövegrész helyébe a „vonatkozásában – a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK) tagintézményeként működő – Országos Széchényi Könyvtár (a továbbiakban: OSZK)” szöveg lép, nem vezethető át.]
+[^30]: A 26. § (2) bekezdés g) pontja a 34/2024. (IX. 2.) KIM rendelet 5. § b) pontja szerint módosított szöveg. [A 26. § (2) bekezdés g) pontjában a 35/2024. (IX. 5.) KIM rendelet 5. § b) pontja által elrendelt módosítás, amely szerint az „Országos Széchényi Könyvtár” szövegrész helyébe az „OSZK” szöveg lép, nem vezethető át.]
