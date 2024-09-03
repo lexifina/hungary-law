@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-5
 | 2023-09-01 | 2012-20-20-5H.34 | 23/2023. (VI. 30.) BM rendelet |
 | 2023-09-06 | 2012-20-20-5H.39 | 36/2023. (IX. 5.) BM rendelet |
 | 2023-10-22 | 2012-20-20-5H.40 | 44/2023. (X. 19.) BM rendelet |
+| 2024-09-03 | 2012-20-20-5H.41 | 31/2020. (VIII. 31.) EMMI rendelet |

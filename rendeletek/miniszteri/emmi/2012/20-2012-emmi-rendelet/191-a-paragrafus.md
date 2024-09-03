@@ -6,11 +6,8 @@
 
 (4)[^638] A miniszter, a honvédelemért felelős miniszter közös programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó honvédelmi nevelési feladatok végrehajtását.
 
-(5)[^639] A miniszter, az agrárpolitikáért felelős miniszter közös programok kiadásával, pályázatok kiírásával, pedagógus-továbbképzés biztosításával segíti a nevelési-oktatási intézményekben folyó mezőgazdasági, agrárszakképzési feladatok végrehajtását.
-
 [^634]: A 191/A. §-t a 32/2015. (VI. 19.) EMMI rendelet 16. §-a iktatta be.
 [^635]: A 191/A. § (1) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.
 [^636]: A 191/A. § (2) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.
 [^637]: A 191/A. § (3) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.
 [^638]: A 191/A. § (4) bekezdését újonnan a 37/2021. (VIII. 31.) EMMI rendelet 18. §-a iktatta be, szövege az 52/2022. (XII. 27.) BM rendelet 24. § c) pontja szerint módosított szöveg.
-[^639]: A 191/A. § (5) bekezdése az 52/2022. (XII. 27.) BM rendelet 24. § c) és g) pontja szerint módosított szöveg.
