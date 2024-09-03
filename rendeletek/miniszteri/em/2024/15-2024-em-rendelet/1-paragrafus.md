@@ -1,0 +1,3 @@
+1. § A hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjak, a díjalkalmazási feltételek, valamint a díjmegfizetés rendjének 2024. évi megállapításáról szóló 23/2023. (XI. 30.) EM rendelet (a továbbiakban: EM rendelet) a következő 8. §-sal egészül ki:
+
+„8. § E rendeletnek a hulladékgazdálkodási intézményi résztevékenység ellátásával összefüggő díjak, a díjalkalmazási feltételek, valamint a díjmegfizetés rendjének 2024. évi megállapításáról szóló 23/2023. (XI. 30.) EM rendelet módosításáról szóló 15/2024. (IX. 2.) EM rendelettel megállapított 3. melléklet 1. pontját 2024. január 1. napjától kell alkalmazni.”
