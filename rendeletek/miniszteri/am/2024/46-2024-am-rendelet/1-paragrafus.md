@@ -1,0 +1,7 @@
+## 1. A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet módosítása
+
+1. § A mikro-, kis- és középvállalkozások hitelezésének elősegítése érdekében a kezességvállalási díjak költségvetési támogatásáról szóló 94/2013. (X. 10.) VM rendelet [a továbbiakban: 94/2013. (X. 10.) VM rendelet] 7/F. § (1) bekezdése helyébe a következő rendelkezés lép, valamint a § a következő (1a) bekezdéssel egészül ki:
+
+„(1) Figyelemmel a 3. § (1) bekezdésében foglaltakra, az orosz–ukrán konfliktus miatt gazdasági nehézségekkel küzdő agrárvállalkozások és élelmiszer-feldolgozó vállalkozások részére nyújtandó válságtámogatás igénybevételének általános feltételeiről szóló 25/2022. (VIII. 31.) AM rendelethez kapcsolódó egyes agrártámogatási rendeletek módosításáról szóló 26/2022. (VIII. 31.) AM rendelet hatálybalépésének napja és – az (1a) bekezdés szerinti kivétellel – 2024. június 30. közötti időszakban – a határnapokat is beleértve – kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.
+
+(1a) Az 1. § 1. pont 1.2. és 1.3. alpontja szerinti rendelet hatálya alá tartozó ágazatban működő vállalkozás részére a 2024. december 31-ig kiadott kezességi levelekhez igénybe vett kezességi díjtámogatás a kezességi szerződés teljes időtartamára válságtámogatásként is igényelhető.”
