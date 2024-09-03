@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-22-20-8
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2008-05-16 | 2005-22-20-86.2 | 22/2005. (VII. 18.) NKÖM rendelet |
+| 2024-09-03 | 2005-22-20-86.3 | 34/2024. (IX. 2.) KIM rendelet |
