@@ -1,11 +1,3 @@
-6. § Hatályát veszti a 49/2016. (XII. 28.) EMMI rendelet 1. melléklet 1. pont
+6. §[^7]
 
-a) 1. alpontja,
-
-b) 3. alpontja,
-
-c) 7. alpontja,
-
-d) 10. alpontja, valamint
-
-e) 12. alpontja.
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
