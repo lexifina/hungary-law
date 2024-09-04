@@ -1,5 +1,5 @@
 ## 2. A sertés ágazat részére nyújtott állatjóléti támogatások feltételeiről szóló 39/2018. (XII. 13.) AM rendelet módosítása
 
-4. § A sertés ágazat részére nyújtott állatjóléti támogatások feltételeiről szóló 39/2018. (XII. 13.) AM rendelet [a továbbiakban: 39/2018. (XII. 13.) AM rendelet] 16/E. § (2a) bekezdése a következő f) ponttal egészül ki:
+4. §[^5]
 
-(A válságtámogatás iránti kérelem)
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

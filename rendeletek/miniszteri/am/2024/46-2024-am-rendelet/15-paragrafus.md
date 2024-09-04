@@ -1,1 +1,3 @@
-15. § A 25/2022. (VIII. 31.) AM rendelet 5. § (1) bekezdésében a „legkésőbb” szövegrész helyébe az „az (1a) bekezdés szerinti kivétellel legkésőbb” szöveg lép.
+15. §[^16]
+
+[^16]: A 15. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

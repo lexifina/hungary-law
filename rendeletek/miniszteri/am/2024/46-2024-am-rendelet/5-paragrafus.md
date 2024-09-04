@@ -1,7 +1,3 @@
-## „f) a 2024. támogatási év III. negyedéve tekintetében 2024. október 1. és 31. között”
+5. §[^6]
 
-## (elektronikus azonosítást követően, elektronikus űrlapkitöltő felületen keresztül nyújtható be a Kincstárhoz a Kincstár honlapján közzétett közleményben foglaltaknak megfelelően.)
-
-5. § A 39/2018. (XII. 13.) AM rendelet 16/F. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A Kincstár a 16/E. § (2a) bekezdésében meghatározott időszakokban benyújtott válságtámogatás iránti kérelmekről legkésőbb 2024. december 31-ig dönt.”
+[^6]: Az 5. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

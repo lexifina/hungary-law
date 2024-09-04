@@ -1,5 +1,5 @@
 ## 6. Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet módosítása
 
-32. § Az Európai Mezőgazdasági Garanciaalapból finanszírozott fenntarthatóságot elősegítő alapszintű-jövedelemtámogatás, az ahhoz kapcsolódó átmeneti nemzeti támogatás, valamint a fenntarthatóságot elősegítő, átcsoportosítással nyújtható kiegészítő jövedelemtámogatás igénybevételével kapcsolatos egyes kérdésekről szóló 16/2023. (IV. 19.) AM rendelet [a továbbiakban: 16/2023. (IV. 19.) AM rendelet] 21/A. §-a a következő (3a) bekezdéssel egészül ki:
+32. §[^33]
 
-„(3a) A (2) bekezdés szerinti történelmi bázisjogosultság megállapítása szempontjából jogutódnak tekintendő a jogi személy 2018. évet követő átalakulása esetén az átalakulással keletkezett jogi személy, ha annak vezető tisztségviselője és tulajdonosi szerkezete azonos az átalakulást kezdeményező jogi személyével. Az átalakulással keletkezett jogi személy jogutódként történő elismerése – a (3) bekezdésben foglaltaktól eltérően – nem függ a (3) bekezdésben meghatározott támogatások kifizetésétől.”
+[^33]: A 32. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

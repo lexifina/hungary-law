@@ -1,3 +1,3 @@
-12. § A 25/2022. (VIII. 31.) AM rendelet 1. § 13. pontja helyébe a következő rendelkezés lép:
+12. §[^13]
 
-(E rendelet alkalmazásában)
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-2. § A 94/2013. (X. 10.) VM rendelet 9. §-a a következő g) ponttal egészül ki:
+2. §[^3]
 
-(Ez a rendelet)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
