@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-7-20-6Q
 | 2022-12-21 | 2020-7-20-6Q.8 | 19/2022. (XII. 20.) KKM rendelet |
 | 2023-01-01 | 2020-7-20-6Q.9 | 27/2022. (XII. 28.) KKM rendelet |
 | 2023-12-24 | 2020-7-20-6Q.10 | 14/2023. (XII. 23.) KKM rendelet |
+| 2024-09-06 | 2020-7-20-6Q.11 | 10/2024. (IX. 5.) KKM rendelet |

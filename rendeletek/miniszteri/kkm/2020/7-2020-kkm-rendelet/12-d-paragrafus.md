@@ -12,9 +12,9 @@ d) igazolja, hogy a kára, valamint a c) pont szerinti 25%-os visszaesés és az
 
 e) nyilatkozik arról, hogy nem felelős a gazdasági visszaesésért és annak megelőzése és csökkentése érdekében a tőle elvárható gondossággal járt el;
 
-f)[^36] nyilatkozik a Magyarországon – a 12/F. § (9) bekezdés a) pontja szerinti esetben – 2021. szeptember 30-ig vagy 2023. június 30-ig megvalósítandó beruházásának értékéről; és
+f)[^37] nyilatkozik a Magyarországon – a 12/F. § (9) bekezdés a) pontja szerinti esetben – 2021. szeptember 30-ig vagy 2023. június 30-ig megvalósítandó beruházásának értékéről; és
 
-g)[^37] nyilatkozik a bázislétszámának a beruházás befejezéséig, de legalább 2022. június 30-ig történő fenntartásáról.
+g)[^38] nyilatkozik a bázislétszámának a beruházás befejezéséig, de legalább 2022. június 30-ig történő fenntartásáról.
 
-[^36]: A 12/D. § f) pontja a 10/2022. (VI. 30.) KKM rendelet 2. § b) pontja szerint módosított szöveg.
-[^37]: A 12/D. § g) pontja a 10/2022. (VI. 30.) KKM rendelet 2. § c) pontja szerint módosított szöveg.
+[^37]: A 12/D. § f) pontja a 10/2022. (VI. 30.) KKM rendelet 2. § b) pontja szerint módosított szöveg.
+[^38]: A 12/D. § g) pontja a 10/2022. (VI. 30.) KKM rendelet 2. § c) pontja szerint módosított szöveg.
