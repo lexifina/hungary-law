@@ -4,11 +4,11 @@
 
 (3) Ha a postai úton történő kézbesítés azért hiúsul meg, mert a címzett vagy meghatalmazottja a küldemény átvételét megtagadja, az iratot a kézbesítés megkísérlésének napján kézbesítettnek kell tekinteni.
 
-(4)[^63] Ha a postai úton történő kézbesítés azért volt sikertelen, mert a küldemény a címzett KNYR-ben szereplő levelezési címéről vagy lakóhelyéről, illetve a székhelyéről a támogatóhoz
+(4)[^88] Ha a postai úton történő kézbesítés – a 15. § (1) bekezdés figyelembevételével – azért volt sikertelen, mert a küldemény a címzett KNYR-ben szereplő levelezési címéről vagy lakóhelyéről, illetve a székhelyéről a támogatóhoz
 
 a) „nem kereste”,
 
-b)[^64] „címzett ismeretlen”,
+b)[^89] „címzett ismeretlen”,
 
 c) „elköltözött” vagy
 
@@ -16,7 +16,7 @@ d) „cím nem azonosítható”
 
 jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az a) pont szerinti esetben a kézbesítés második megkísérlésének napját követő ötödik munkanapon, a b)–d) pont szerinti esetben a kézbesítés megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni.
 
-(5)[^65] Az (1), (3) és (4) bekezdésben meghatározott kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a kézbesítési vélelem beálltától számított hat hónapos jogvesztő határidőn belül terjeszthet elő. Ha a kézbesítési vélelem beálltával érintett döntés alapján végrehajtási eljárás indul, a kézbesítési vélelem megdöntése iránti kérelmet a végrehajtási eljárásról történő tudomásszerzéstől számított tizenöt napon belül akkor is elő lehet terjeszteni, ha a kézbesítési vélelem beálltától számított hat hónap eltelt.
+(5)[^90] Az (1), (3) és (4) bekezdésben meghatározott kézbesítési vélelem megdöntése iránti kérelmet a címzett a kézbesítési vélelem beálltáról történő tudomásszerzéstől számított tizenöt napon belül, de legkésőbb a kézbesítési vélelem beálltától számított hat hónapos jogvesztő határidőn belül terjeszthet elő. Ha a kézbesítési vélelem beálltával érintett döntés alapján végrehajtási eljárás indul, a kézbesítési vélelem megdöntése iránti kérelmet a végrehajtási eljárásról történő tudomásszerzéstől számított tizenöt napon belül akkor is elő lehet terjeszteni, ha a kézbesítési vélelem beálltától számított hat hónap eltelt.
 
 (6) Nem természetes személy címzett csak akkor terjeszthet elő kézbesítési vélelem megdöntése iránti kérelmet, ha a kézbesítés nem szabályszerűen történt. Természetes személy a kézbesítési vélelem megdöntésére irányuló kérelmét akkor is előterjesztheti, ha önhibáján kívüli okból nem vehette át a hivatalos iratot.
 
@@ -24,6 +24,6 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 
 (8) A kézbesítési vélelem megdöntése iránti kérelmet a támogató bírálja el a kézbesítés tárgyát képező irat kiadmányozásától függően. Nem minősül kézbesítési vélelem megdöntésének, ha az elektronikus tárhelyen az (1) bekezdésben foglalt határidőn túl a tárhelyen elérhető iratot megnyitják.
 
-[^63]: A 32. § (4) bekezdés záró szövegrésze a 24/2024. (IV. 9.) AM rendelet 33. § 21. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^64]: A 32. § (4) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 20. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^65]: A 32. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 22. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^88]: 32. § (4) bekezdés nyitó szövegrésze a 48/2024. (IX. 5.) AM rendelet 33. § 25. pontja, záró szövegrésze a 24/2024. (IV. 9.) AM rendelet 33. § 21. pontja szerint módosított szöveg.
+[^89]: A 32. § (4) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 20. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^90]: A 32. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 22. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

@@ -12,6 +12,6 @@ e) a kiállítás keltét, továbbá
 
 f) a kiállításra jogosult aláírását, bélyegzőlenyomatát.
 
-(2)[^75] Az ellenőr a helyszíni vizsgálat során a lényeges körülményeket, tényeket, adatokat jegyzőkönyvben rögzíti, és a jelen lévő kedvezményezettet vagy képviselőjét a vizsgálat során tett megállapításairól tájékoztatja, amelyet a jelen lévő kedvezményezett elismer a jegyzőkönyv aláírásával. Az ellenőr a kedvezményezett javára szolgáló tényeket és körülményeket is köteles feltárni és rögzíteni.
+(2)[^100] Az ellenőr a helyszíni vizsgálat során a lényeges körülményeket, tényeket, adatokat jegyzőkönyvben rögzíti, és a jelen lévő kedvezményezettet vagy képviselőjét a vizsgálat során tett megállapításairól tájékoztatja, amelyet a jelen lévő kedvezményezett elismer a jegyzőkönyv aláírásával. Az ellenőr a kedvezményezett javára szolgáló tényeket és körülményeket is köteles feltárni és rögzíteni.
 
-[^75]: A 39. § (2) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 27. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^100]: A 39. § (2) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 27. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

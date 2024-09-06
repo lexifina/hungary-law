@@ -5,3 +5,13 @@
 (2) Korlátozható az iratbetekintés a KAP törvény 34. § (1) bekezdése szerinti ellenőrzés megkezdéséig, ha valószínűsíthető, hogy az iratok tartalmának megismerése az ellenőrzés eredményességét befolyásolná.
 
 (3) Az iratbetekintés során az (1) bekezdés szerinti jogosult másolatot, kivonatot készíthet, vagy másolatot kérhet, amelyet a támogató a jogosult kérelmére hitelesít.
+
+(4)[^44] A döntés tervezetébe nem lehet betekinteni.
+
+(5)[^45] Saját hatáskörben indult eljárásban az érintett kedvezményezett az (1)–(4) bekezdésben foglaltak szerint jogosult az iratokba betekinteni.
+
+(6)[^46] Az iratbetekintésre vonatkozó kérelmet a támogató döntésével jóváhagyja, korlátozottan engedélyezi vagy elutasítja.
+
+[^44]: A 20. § (4) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
+[^45]: A 20. § (5) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.
+[^46]: A 20. § (6) bekezdését a 48/2024. (IX. 5.) AM rendelet 4. §-a iktatta be.

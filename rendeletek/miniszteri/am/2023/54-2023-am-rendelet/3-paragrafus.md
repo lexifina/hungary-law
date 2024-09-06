@@ -8,13 +8,13 @@ b) megvizsgálja az Európai Unió Alapjogi Chartájával összefüggő, valamel
 
 (2) A támogatás az adott intézkedésre vonatkozó feltételeket megállapító
 
-a)[^9] EMGA-ból, az Európai Unió általános költségvetéséből, valamint a kizárólag nemzeti hatáskörben nyújtott támogatások esetében jogszabályban, valamint
+a)[^11] EMGA-ból, az Európai Unió általános költségvetéséből, valamint a kizárólag nemzeti hatáskörben nyújtott támogatások esetében jogszabályban, valamint
 
-b)[^10] az EMVA-ból nyújtott támogatások esetén pályázati felhívásban
+b)[^12] az EMVA-ból nyújtott támogatások esetén pályázati felhívásban
 
 foglaltak szerint, kérelemmel igényelhető.
 
-(3) A támogató a feladatkörében az intézkedésekkel kapcsolatos jogok gyakorlása és kötelezettségek teljesítésének módjára vonatkozóan
+(3)[^13] A támogató a feladatkörében az intézkedésekkel kapcsolatos jogok gyakorlása és kötelezettségek teljesítésének módjára vonatkozóan
 
 a) a honlapján közleményt, valamint tájékoztatót tesz közzé,
 
@@ -30,5 +30,9 @@ b) elektronikuskérelem-benyújtó felületet vagy elektronikus űrlapot (a tov�
 
 (8) A miniszter – az éven túli kötelezettségvállalásokra vonatkozó szabályokra is figyelemmel – keretkimerülésről közleményt ad ki.
 
-[^9]: A 3. § (2) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 2. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^10]: A 3. § (2) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+(9)[^14] Az eljárásban a KAP törvény 11. § (5) bekezdés a) pont aa) alpontjától eltérően jogutódlás esetén a 16. életévét be nem töltött természetes személy is részt vehet.
+
+[^11]: A 3. § (2) bekezdés a) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 2. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^12]: A 3. § (2) bekezdés b) pontja a 24/2024. (IV. 9.) AM rendelet 34. § 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^13]: [A 3. § (3) bekezdésében a 48/2024. (IX. 5.) AM rendelet 33. § 3. pontja által elrendelt módosítás, amely szerint a „tesz közzé,” szövegrész helyébe a „tesz közzé, vagy közvetlenül tájékoztatást küld, továbbá” szöveg lép, nem vezethető át.]
+[^14]: A 3. § (9) bekezdését a 48/2024. (IX. 5.) AM rendelet 3. §-a iktatta be.

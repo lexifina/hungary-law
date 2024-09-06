@@ -8,6 +8,6 @@
 
 (4) Az eljárás a kedvezményezett kérelmére nem függeszthető fel.
 
-(5)[^54] A felfüggesztésről és annak megszüntetéséről a támogató a kedvezményezettet értesíti, kivéve, ha a felfüggesztés oka büntetőeljárással függ össze.
+(5)[^77] A felfüggesztésről és annak megszüntetéséről a támogató a kedvezményezettet értesíti, kivéve, ha a felfüggesztés oka büntetőeljárással függ össze.
 
-[^54]: A 29. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^77]: A 29. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 16. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

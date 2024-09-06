@@ -14,12 +14,12 @@ b) nem természetes személy, az iratok megküldése a meghatalmazó hivatali t�
 
 (5) Ha az eljárásban a kedvezményezett és meghatalmazottja is eljár, az iratokat az adott intézkedésben az utolsó – az elektronikus kapcsolattartás feltételeinek megfelelő – iratot benyújtónak kell kézbesíteni.
 
-(6)[^60] Ha a kedvezményezett nevében kamarai meghatalmazás alapján a NAK nevében a munkavállalója nyújt be iratot, a keletkezett iratokat a NAK részére kell kézbesíteni.
+(6)[^85] Ha a kedvezményezett nevében kamarai meghatalmazás alapján a NAK nevében a munkavállalója nyújt be iratot, a keletkezett iratokat a NAK részére kell kézbesíteni.
 
-(7)[^61] A közlés szabályai szempontjából önmagában a georeferált fénykép nem minősül iratnak.
+(7)[^86] A közlés szabályai szempontjából önmagában a georeferált fénykép nem minősül iratnak.
 
-(8)[^62] Ha a természetes személy kedvezményezettnek több meghatalmazottja van, vagy a meghatalmazottja mellett kamarai meghatalmazással is rendelkezik, az iratokat az adott intézkedésben utoljára iratot benyújtó, hatályos állandó vagy kamarai meghatalmazáson alapuló képviseleti joggal rendelkező részére kell kézbesíteni.
+(8)[^87] Ha a természetes személy kedvezményezettnek több meghatalmazottja van, vagy a meghatalmazottja mellett kamarai meghatalmazással is rendelkezik, az iratokat az adott intézkedésben utoljára iratot benyújtó, hatályos állandó vagy kamarai meghatalmazáson alapuló képviseleti joggal rendelkező részére kell kézbesíteni.
 
-[^60]: A 31. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^61]: A 31. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 12. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^62]: A 31. § (8) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 19. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^85]: A 31. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 18. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^86]: A 31. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 12. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^87]: A 31. § (8) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 19. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

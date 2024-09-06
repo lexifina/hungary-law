@@ -4,10 +4,13 @@
 
 (3) A miniszter a jogorvoslati kérelemmel érintett döntés vonatkozásában
 
-a) a jogorvoslati kérelemben foglaltaknak részben vagy egészben helyt ad, és megfelelő indokolással új döntés meghozatalára kötelezi a támogatót,
+a)[^138] a jogorvoslati kérelemben foglaltaknak részben vagy egészben helyt ad, a sérelmezett döntést megsemmisíti, és megfelelő indokolással új döntés meghozatalára kötelezi a támogatót,
 
 b) minden szükséges irat és adat rendelkezésre állása esetén a jogorvoslati kérelemmel érintett döntést megváltoztatja, vagy
 
 c) a jogorvoslati kérelmet indokolt döntésével elutasítja.
 
-(4) A jogorvoslati kérelem tárgyában hozott döntést a kedvezményezett részére a miniszter küldi ki, és döntéséről tájékoztatja a támogatót is.
+(4)[^139] A jogorvoslati kérelem tárgyában hozott döntést a kedvezményezett részére a miniszter kézbesíti a KAP törvény 13. §-a szerinti informatikai rendszer alkalmazásával, és döntéséről tájékoztatja a támogatót is.
+
+[^138]: Az 58. § (3) bekezdés a) pontja a 48/2024. (IX. 5.) AM rendelet 33. § 30. pontja szerint módosított szöveg.
+[^139]: Az 58. § (4) bekezdése a 48/2024. (IX. 5.) AM rendelet 12. §-ával megállapított szöveg.

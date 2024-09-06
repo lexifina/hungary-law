@@ -16,6 +16,6 @@ c) az agrárgazdaságok átadásáról szóló 2021. évi CXLIII. törvényben m
 
 (6) A természetes személy kedvezményezett halála esetén a támogató dönt a hagyatékátadó végzésben vagy öröklési bizonyítványban meghatározott támogatási jogosultság alapján az örökösnek járó összeg folyósításáról, illetve az adott intézkedéshez kapcsolódó mezőgazdasági vagyoni értékű jogról.
 
-(7)[^96] Ha a támogatási jogosultság vagy a mezőgazdasági vagyoni értékű jog tekintetében a hagyatékátadó végzés vagy az öröklési bizonyítvány nem tartalmaz rendelkezést, a támogató tájékoztatja az örököst, hogy póthagyatéki eljárás lefolytatására van szükség az erre vonatkozó döntéshozatalhoz.
+(7)[^123] Ha a támogatási jogosultság vagy a mezőgazdasági vagyoni értékű jog tekintetében a hagyatékátadó végzés vagy az öröklési bizonyítvány nem tartalmaz rendelkezést, a támogató tájékoztatja az örököst, hogy póthagyatéki eljárás lefolytatására van szükség az erre vonatkozó döntéshozatalhoz.
 
-[^96]: Az 50. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 35. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^123]: Az 50. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 35. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

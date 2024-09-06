@@ -10,7 +10,7 @@ aa) születési családi és utónevét, nemét,
 
 ab) állampolgárságát,
 
-ac)[^18] az adózás rendjéről szóló törvény szerinti adóazonosító jelét, egyéni vállalkozó esetében adóazonosító számát is,
+ac)[^25] az adózás rendjéről szóló törvény szerinti adóazonosító jelét, egyéni vállalkozó esetében adóazonosító számát is,
 
 ad) lakóhelyét, egyéni vállalkozó esetében székhelyét is,
 
@@ -36,7 +36,7 @@ ba) elnevezését, továbbá rövidített cégnevét,
 
 bb) képviseletére jogosult nevét, lakcímét, az adózás rendjéről szóló törvény szerinti adóazonosító jelét,
 
-bc)[^19] telephelyét vagy telephelyeit, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével,
+bc)[^26] telephelyét vagy telephelyeit, valamint iratai őrzésének helyét, ha az nem azonos a székhelyével,
 
 bd) cégjegyzékszámát,
 
@@ -74,7 +74,7 @@ b) nem természetes személy kérelmező rendelkezzen az E-ügyintézési tv. 35
 
 (5) A nem természetes személy képviseletében eljáró, ügyfélkapuval rendelkező természetes személy kérelmére a KNYR-ben történő nyilvántartásba vétel iránti kérelem benyújtását megelőzően a Nemzeti Kifizető Ügynökség jelszót állapít meg. A jelszót a Nemzeti Kifizető Ügynökség a cégkapu vagy hivatali kapu tárhelyre elektronikus úton küldi meg. A KNYR-ben történő nyilvántartásba vétel iránti kérelmet a nem természetes személy képviseletében eljáró, ügyfélkapuval rendelkező természetes személy a jelszó megküldését követően, a jelszó elektronikus felületen történő megadásával nyújthatja be.
 
-(6)[^20] A Nemzeti Kifizető Ügynökség a nyilvántartásba vétel iránti kérelmet visszautasítja, ha a benyújtott kérelem, illetve a bejelentett adatok valótlanok vagy hiányosak. Nem minősül hiányosnak a kérelem, ha nem tartalmazza a (2) bekezdés a) pont ah), ai) vagy aj) alpontjában, valamint b) pont bf), bj) vagy bk) alpontjában foglalt adatokat.
+(6)[^27] A Nemzeti Kifizető Ügynökség a nyilvántartásba vétel iránti kérelmet visszautasítja, ha a benyújtott kérelem, illetve a bejelentett adatok valótlanok vagy hiányosak. Nem minősül hiányosnak a kérelem, ha nem tartalmazza a (2) bekezdés a) pont ah), ai) vagy aj) alpontjában, valamint b) pont bf), bj) vagy bk) alpontjában foglalt adatokat.
 
 (7) Egy kedvezményezett részére csak egy támogatási azonosító állapítható meg.
 
@@ -96,6 +96,6 @@ f) a kérelemre történő nyilvántartásba vételről és a támogatási azono
 
 (10) A pénzügyi következményekkel járó intézkedésben való részvétel során a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: 2004. évi XXXIV. törvény) hatálya alá tartozó vállalkozás köteles a KNYR-be bejelenteni vállalkozása 2004. évi XXXIV. törvény 5. §-a szerinti minősítését.
 
-[^18]: A 13. § (2) bekezdés a) pont ac) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^19]: A 13. § (2) bekezdés b) pont bc) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^20]: A 13. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^25]: A 13. § (2) bekezdés a) pont ac) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^26]: A 13. § (2) bekezdés b) pont bc) alpontja a 24/2024. (IV. 9.) AM rendelet 4. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^27]: A 13. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 5. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.

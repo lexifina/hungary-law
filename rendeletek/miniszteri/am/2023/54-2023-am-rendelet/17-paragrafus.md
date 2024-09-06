@@ -6,23 +6,23 @@ a) törvényes képviselője,
 
 b) eseti meghatalmazott,
 
-c)[^23] az elektronikus kapcsolattartás feltételeinek megfelelő állandó meghatalmazott vagy
+c)[^31] az elektronikus kapcsolattartás feltételeinek megfelelő állandó meghatalmazott vagy
 
-d)[^24] jogszabályban meghatározott feltételek szerinti kamarai meghatalmazás alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK)
+d)[^32] jogszabályban meghatározott feltételek szerinti kamarai meghatalmazás alapján a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK)
 
 képviselheti.
 
 (2) Egy kedvezményezettnek több meghatalmazottja is lehet.
 
-(3)[^25] Az állandó meghatalmazás egy vagy több intézkedésre is szólhat. Az állandó meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és minden eljárási cselekményre.
+(3)[^33] Az állandó meghatalmazás egy vagy több intézkedésre is szólhat. Az állandó meghatalmazás kiterjed az eljárással kapcsolatos minden nyilatkozatra és minden eljárási cselekményre.
 
-(4)[^26] Az állandó meghatalmazást a Nemzeti Kifizető Ügynökség nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja.
+(4)[^34] Az állandó meghatalmazást a Nemzeti Kifizető Ügynökség nyilvántartásba veszi, hatályát és érvényességét valamennyi eljárási cselekménynél megvizsgálja.
 
-(5)[^27] Az állandó meghatalmazáson alapuló képviseleti jog keletkezése és megszűnése az eljárásban az arra vonatkozó bejelentésnek a Nemzeti Kifizető Ügynökséghez történő beérkezése napjától, vagy ha a kedvezményezett a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
+(5)[^35] Az állandó meghatalmazáson alapuló képviseleti jog keletkezése és megszűnése az eljárásban az arra vonatkozó bejelentésnek a Nemzeti Kifizető Ügynökséghez történő beérkezése napjától, vagy ha a kedvezményezett a bejelentésben későbbi időpontot jelölt meg, akkor a bejelentésben megjelölt, a bejelentés beérkezése napjánál későbbi időponttól hatályos.
 
-(6)[^28] A nyilvántartásba vett állandó meghatalmazást a Nemzeti Kifizető Ügynökség öt évente felülvizsgálhatja, és annak, amely alapján a meghatalmazott öt éve semmilyen eljárási cselekményt nem végzett, a nyilvántartását megszüntetheti. A Nemzeti Kifizető Ügynökség a meghatalmazás nyilvántartásának és ezzel a Nemzeti Kifizető Ügynökséggel szembeni hatályának megszüntetéséről tájékoztatja a kedvezményezettet.
+(6)[^36] A nyilvántartásba vett állandó meghatalmazást a Nemzeti Kifizető Ügynökség öt évente felülvizsgálhatja, és annak, amely alapján a meghatalmazott öt éve semmilyen eljárási cselekményt nem végzett, a nyilvántartását megszüntetheti. A Nemzeti Kifizető Ügynökség a meghatalmazás nyilvántartásának és ezzel a Nemzeti Kifizető Ügynökséggel szembeni hatályának megszüntetéséről tájékoztatja a kedvezményezettet.
 
-(7)[^29] Az eseti meghatalmazást legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratba kell foglalni, és az adott eljárási cselekmény megkezdéséig a támogató részére be kell nyújtani. Papíralapú eljárási cselekmény esetén az eseti meghatalmazást legkésőbb az eljárási cselekménnyel egyidejűleg is be lehet nyújtani. Az eseti meghatalmazás a támogatóhoz történő beérkezéstől hatályos.
+(7)[^37] Az eseti meghatalmazást legalább a polgári perrendtartásról szóló törvény szerinti teljes bizonyító erejű magánokiratba kell foglalni, és az adott eljárási cselekmény megkezdéséig a támogató részére be kell nyújtani. Papíralapú eljárási cselekmény esetén az eseti meghatalmazást legkésőbb az eljárási cselekménnyel egyidejűleg is be lehet nyújtani. Az eseti meghatalmazás a támogatóhoz történő beérkezéstől hatályos.
 
 (8) Az eljárásban a nem természetes személy kedvezményezett helyett törvényes képviselőjeként annak KNYR-be bejelentett elsődleges képviselője is eljárhat, aki
 
@@ -34,10 +34,10 @@ c) kérelemre nyilvántartásba vett besorolású kedvezményezettként rendelke
 
 (9) A Nemzeti Kifizető Ügynökség nyilatkozattételre hívja fel a kedvezményezettet, ha az eljárás során a kedvezményezett és (1) bekezdés szerinti meghatalmazottjának nyilatkozata eltér egymástól, vagy egyéb eljárási cselekményeik ellentétesek. Ha a kedvezményezett eltérően nem nyilatkozik, a Nemzeti Kifizető Ügynökség az időben későbbi cselekményt, nyilatkozatot tekinti érvényesnek.
 
-[^23]: A 17. § (1) bekezdés c) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^24]: A 17. § (1) bekezdés d) pontja a 24/2024. (IV. 9.) AM rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^25]: A 17. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^26]: A 17. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^27]: A 17. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^28]: A 17. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 5. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
-[^29]: A 17. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 5. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^31]: A 17. § (1) bekezdés c) pontja a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^32]: A 17. § (1) bekezdés d) pontja a 24/2024. (IV. 9.) AM rendelet 5. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^33]: A 17. § (3) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^34]: A 17. § (4) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^35]: A 17. § (5) bekezdése a 24/2024. (IV. 9.) AM rendelet 33. § 6. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^36]: A 17. § (6) bekezdése a 24/2024. (IV. 9.) AM rendelet 5. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
+[^37]: A 17. § (7) bekezdése a 24/2024. (IV. 9.) AM rendelet 5. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 35. §-át.
