@@ -1,11 +1,11 @@
 ## 7. A kárbejelentés és a kárenyhítő juttatás iránti kérelem benyújtásának általános szabályai
 
-11. § (1)[^83] A mezőgazdasági termelő a 4. § (1) és (1a) bekezdés szerinti kárbejelentést és a 9. § (1) bekezdés szerinti kárenyhítő juttatás iránti kérelmet elektronikus úton köteles benyújtani.
+11. § (1)[^95] A mezőgazdasági termelő a 4. § (1) és (1a) bekezdés szerinti kárbejelentést és a 9. § (1) bekezdés szerinti kárenyhítő juttatás iránti kérelmet elektronikus úton köteles benyújtani.
 
-(2)[^84] A kárbejelentés és a kárenyhítő juttatás iránti kérelem elektronikus úton történő benyújtásának módjára, meghatalmazott vagy kamarai meghatalmazott igénybevétele esetén a meghatalmazott és a kamarai meghatalmazott eljárására, vélelmezett örökös eljárása esetén a vélelmezett örökös eljárására, valamint az elektronikus kapcsolattartásra az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos egységes eljárási szabályokról szóló tárgyévi rendelet rendelkezéseit az e rendeletben foglalt eltérésekkel kell alkalmazni.
+(2)[^96]
 
-(3)[^85] A 4. § (1) és (1a) bekezdés szerinti kárbejelentés, valamint a 9. § (1) bekezdés szerinti kárenyhítő juttatás iránti kérelem elektronikus benyújtásának és fogadásának tényét a Központi Elektronikus Szolgáltató Rendszerben (a továbbiakban: KR) a mezőgazdasági termelő elektronikus tárhelyére történt sikeres feltöltés jelenti, amelyet az ideiglenesen fenntartott értesítési tárhelyre automatikusan kapott KR dokumentum igazol.
+(3)[^97] A 4. § (1) és (1a) bekezdés szerinti kárbejelentés, valamint a 9. § (1) bekezdés szerinti kárenyhítő juttatás iránti kérelem elektronikus benyújtásának és fogadásának tényét a Központi Elektronikus Szolgáltató Rendszerben (a továbbiakban: KR) a mezőgazdasági termelő elektronikus tárhelyére történt sikeres feltöltés jelenti, amelyet az ideiglenesen fenntartott értesítési tárhelyre automatikusan kapott KR dokumentum igazol.
 
-[^83]: A 11. § (1) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § b) pontja szerint módosított szöveg.
-[^84]: A 11. § (2) bekezdése a 20/2015. (IV. 27.) FM rendelet 9. §-ával megállapított szöveg.
-[^85]: A 11. § (3) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § b) pontja szerint módosított szöveg.
+[^95]: A 11. § (1) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § b) pontja szerint módosított szöveg.
+[^96]: A 11. § (2) bekezdését a 47/2024. (IX. 5.) AM rendelet 10. § g) pontja hatályon kívül helyezte.
+[^97]: A 11. § (3) bekezdése a 36/2016. (V. 13.) FM rendelet 3. § b) pontja szerint módosított szöveg.

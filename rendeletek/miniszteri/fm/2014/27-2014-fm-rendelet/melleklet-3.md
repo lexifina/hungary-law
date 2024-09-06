@@ -6,15 +6,15 @@
 
 ## 1.1. név
 
-## 1.2. ügyfél-azonosító
+## 1.2. támogatási azonosító
 
 ## 2. A biztosító megnevezése, amellyel a termelő mezőgazdasági biztosítási szerződést kötött
 
 ## 3. A mezőgazdasági biztosítási szerződés időbeli hatályának meghatározása (év)
 
-## 3a. A határozott idejű mezőgazdasági biztosítási szerződés megkötésének vagy a határozatlan idejű mezőgazdasági biztosítási szerződés megújításának dátuma
+## 3a.
 
-## 4. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+## 4. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint meghatározott növényfaj vagy növényfajta)
 
 ## 5. A biztosításba bevont terület (ha)
 
@@ -26,7 +26,7 @@
 
 ## II. A referencia-időszak három évének meghatározásához szükséges adatok
 
-## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+## 1. A növénykultúra megnevezése
 
 ## 2. Az adott növénykultúra termelési adatai a tárgyévet megelőző 5 évben évenkénti bontásban:
 
@@ -40,19 +40,19 @@
 
 ## III. A referenciahozam kiszámításához szükséges adatok
 
-## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+## 1. A növénykultúra megnevezése
 
 ## 2. A növénykultúra hozama a referencia-időszak három évében, évenkénti bontásban (t/ha)
 
 ## IV. A referencia-átlagár kiszámításához szükséges adatok
 
-## 1. A növénykultúra megnevezése (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+## 1. A növénykultúra megnevezése
 
 ## 2. A növénykultúra vonatkozásában meghirdetett, 6. § (1) bekezdés szerinti referenciaárak, vagy a mezőgazdasági termelő értékesítéseinek számlával igazolt, 6. § (4) bekezdés szerinti ár adatai a referencia-időszak három évében (Ft/t)
 
 ## V. A kárenyhítő juttatás összegének kiszámításához szükséges adatok
 
-## 1. A növénykultúra megnevezése1 (az egységes kérelemhez kiadott hasznosítási kódok szerint)
+## 1. A növénykultúra megnevezése1
 
 ## 2. Az elemi káresemény megnevezése
 
@@ -98,6 +98,6 @@
 
 ## 1Újravetés, újratelepítés, vagy másodvetés esetén meg kell adni az újravetett, újratelepített, vagy másodvetett növénykultúrát is.
 
-3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^109]
+3. melléklet a 27/2014. (XI. 25.) FM rendelethez[^122]
 
-[^109]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja, az 59/2023. (X. 30.) AM rendelet 5. § b) pontja szerint módosított szöveg.
+[^122]: A 3. melléklet a 35/2017. (VII. 6.) FM rendelet 16. § (2) bekezdésével megállapított, a 9/2018. (VII. 2.) AM rendelet 9. §-a, a 43/2021. (XI. 29.) AM rendelet 5. §-a, a 138/2022. (XII. 27.) AM rendelet 1. § a) és b) pontja, a 31/2023. (VII. 14.) AM rendelet 4. § b) pontja, az 59/2023. (X. 30.) AM rendelet 5. § b) pontja, a 47/2024. (IX. 5.) AM rendelet 8. §-a szerint módosított szöveg.
