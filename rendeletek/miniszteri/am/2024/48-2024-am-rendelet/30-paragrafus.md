@@ -1,0 +1,3 @@
+30. § A KAP vhr. 100. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A HACS és a Nemzeti Irányító Hatóság a helyi támogatási kérelem beérkezését követően, a helyi felhívásban szereplő jogosultsági szempontok szerint, a helyi felhívásonként kialakított ellenőrzési lista alapján elvégzi a jogosultsági ellenőrzést. A jogosultsági feltételeknek megfelelő helyi támogatási kérelmek értékelését a HACS a helyi felhívásban előírt értékelési szempontok alapján végzi el. Ezt követően a HBB a helyi támogatási kérelmek helyi felhívásban előírt értékelési szempontoknak való megfelelés szerinti sorrendje alapján tesz jóváhagyó vagy elutasító döntési javaslatot. A helyi támogatási kérelem feltétellel való támogatására nincs lehetőség.”
