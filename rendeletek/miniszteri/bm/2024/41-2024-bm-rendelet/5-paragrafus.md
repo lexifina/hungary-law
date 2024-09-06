@@ -1,0 +1,5 @@
+## 5. A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések köréről, a megbetegedéseket nyilvántartó betegségregisztert vezető szerv kijelöléséről, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokról szóló 49/2018. (XII. 28.) EMMI rendelet módosítása
+
+5. § A népegészségügyi szempontból kiemelt jelentőségű vagy egyébként jelentős költségteherrel járó megbetegedések köréről, a megbetegedéseket nyilvántartó betegségregisztert vezető szerv kijelöléséről, valamint ezen megbetegedések bejelentésére és nyilvántartására vonatkozó részletes szabályokról szóló 49/2018. (XII. 28.) EMMI rendelet (a továbbiakban: R5.) 8. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója C81–C96, D691–D694, D81–D86 tételeinek bármelyike (a továbbiakban: hematológiai megbetegedés).”
