@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-76-20-0
 | 2021-01-01 | 2004-76-20-0M.17 | 38/2018. (X. 31.) EMMI rendelet |
 | 2023-01-01 | 2004-76-20-0M.18 | 38/2018. (X. 31.) EMMI rendelet |
 | 2023-08-11 | 2004-76-20-0M.19 | 38/2018. (X. 31.) EMMI rendelet |
+| 2024-09-06 | 2004-76-20-0M.20 | 38/2018. (X. 31.) EMMI rendelet |

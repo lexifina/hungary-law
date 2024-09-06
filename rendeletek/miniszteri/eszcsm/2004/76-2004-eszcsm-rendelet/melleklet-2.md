@@ -18,6 +18,16 @@
 
 | Országos Korányi Pulmonológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium, országos tisztifőorvos, Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
 
+| 1206/06 | A bőr- és nemibeteg gondozók működési mutatói | évenkénti | valamennyi bőr- és nemibeteg gondozó intézet | egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő február 28. |
+
+| egészségügyért felelős miniszter által vezetett minisztérium | Központi Statisztikai Hivatal | a tárgyévet követő április 30. |
+
+| 1208/04 | A pszichiátriai gondozók jelentése | évenkénti | valamennyi pszichiátriai gondozó [felnőtt (A) és gyermek (B)] | Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet | a tárgyévet követő január 31. |
+
+| Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet | egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő március 20. |
+
+| egészségügyért felelős miniszter által vezetett minisztérium | Központi Statisztikai Hivatal | a tárgyévet követő március 31. |
+
 | 1209/04 | Jelentés az addiktológiai betegek gondozásáról | évenkénti | valamennyi addiktológiai ellátást végző szolgáltató, tulajdonformától függetlenül | Nemzeti Népegészségügyi és Gyógyszerészeti Központ | a tárgyévet követő január 31. |
 
 | országos tisztifőorvos | Kábítószerügyi Koordinációs Tárcaközi Bizottság, Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ, Központi Statisztikai Hivatal, egészségügyért felelős miniszter által vezetett minisztérium | a tárgyévet követő március 31. |
