@@ -40,7 +40,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 2. 01001 HALO készülék |
 
@@ -88,7 +88,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 3. 01010 Scoliosis implantátum |
 
@@ -360,7 +360,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 12. 01140 Peritoneo-venosus shunt |
 
@@ -412,7 +412,7 @@
 
 | R730 Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 15. 01204 Orbitális implantátum |
 
@@ -496,13 +496,11 @@
 
 | 2906 Országos Onkológiai Intézet |
 
-| 2915 Semmelweis Egyetem |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
 | K403 Magyar Honvédség Egészségügyi Központ |
-
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
 
 | 18/c. 01343 Maxillo-faciális helyreállító protézisek |
 
@@ -1104,7 +1102,7 @@
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 37. 01507 Légúti stentek |
 
@@ -1136,7 +1134,7 @@
 
 | 2917 Szegedi Tudományegyetem Szent-Györgyi Albert Klinikai Központ |
 
-| S827 Országos Mentális, Ideggyógyászati és Idegsebészeti Intézet |
+| U915 Semmelweis Egyetem Klinikai Központ |
 
 | 39. Urethra stent, ureter stent |
 
