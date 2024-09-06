@@ -14,4 +14,4 @@ a központi feladatkörű könyvtár útján – ennek hiányában a Magyar Nemz
 
 (4) Az (1)–(3) bekezdésekben meghatározott módon eladásra vagy átadásra nem kerülő fölösleges dokumentumokat a könyvtár – a fenntartó egyidejű tájékoztatása mellett – ipari hasznosításra adhatja el.
 
-[^12]: A 17. § (1) bekezdése a 34/2024. (IX. 2.) KIM rendelet 1. §-ával megállapított szöveg.
+[^12]: A 17. § (1) bekezdése a 35/2024. (IX. 5.) KIM rendelet 1. §-ával megállapított szöveg.
