@@ -1,6 +1,6 @@
 ## 17. Ellenőrzés, jogkövetkezmények
 
-28. §[^66] (1) A minisztérium a termelői szervezet vagy a termelői szervezetek társulásának az 1308/2013/EU európai parlamenti és tanácsi rendelet 154. cikk (4) bekezdés a) pontja vagy 156. cikk (1) bekezdése szerinti elismerése előtt adminisztratív és helyszíni ellenőrzést végez az elismerési követelmények betartásának vizsgálata céljából a termelői szervezetnél vagy a termelői szervezetek társulásánál.
+28. §[^67] (1) A minisztérium a termelői szervezet vagy a termelői szervezetek társulásának az 1308/2013/EU európai parlamenti és tanácsi rendelet 154. cikk (4) bekezdés a) pontja vagy 156. cikk (1) bekezdése szerinti elismerése előtt adminisztratív és helyszíni ellenőrzést végez az elismerési követelmények betartásának vizsgálata céljából a termelői szervezetnél vagy a termelői szervezetek társulásánál.
 
 (2) A minisztérium évente adminisztratív és – legalább ötévente – helyszíni ellenőrzést végez az összes elismert zöldség-gyümölcs termelői szervezetre és termelői szervezetek társulására hatályos elismerési követelmények betartása tekintetében.
 
@@ -14,4 +14,4 @@
 
 (7) A miniszter az elismerésnek a 891/2017/EU bizottsági rendelet 59. cikk szerinti felfüggesztéséről vagy visszavonásáról szóló határozatát az érintett termelői szervezetnek és a Nemzeti Kifizető Ügynökségnek küldi meg.
 
-[^66]: A 28. § az 50/2023. (IX. 5.) AM rendelet 45. §-ával megállapított szöveg.
+[^67]: A 28. § az 50/2023. (IX. 5.) AM rendelet 45. §-ával megállapított szöveg.

@@ -8,7 +8,7 @@ b) a tagjai tulajdonában vagy használatában lévő, a tagsági jogviszony ál
 
 ba) vármegye, település megnevezése,
 
-bb) helyrajzi szám,
+bb)[^52] blokkazonosító vagy ennek hiányában helyrajzi szám,
 
 bc) teljes terület és ezen belül a zöldség- és gyümölcstermelésre használt, fedett vagy szabadföldi terület nagysága hektárban, három tizedesjegy pontossággal kifejezve,
 
@@ -31,3 +31,4 @@ f) a működési alap elszámolása és nyilvántartása analitikus nyilvántart
 (6) A 891/2017/EU bizottsági rendelet 59. cikk (4)–(5) bekezdését kell alkalmazni, ha a termelői szervezet elmulasztja benyújtani a (2) bekezdés szerinti adatszolgáltatást, vagy az nem felel meg az e §-ban meghatározott feltételeknek.
 
 [^51]: A 26. § az 50/2023. (IX. 5.) AM rendelet 43. §-ával megállapított szöveg.
+[^52]: A 26. § (1) bekezdés b) pont bb) alpontja a 44/2024. (VIII. 29.) AM rendelet 1. §-ával megállapított szöveg.
