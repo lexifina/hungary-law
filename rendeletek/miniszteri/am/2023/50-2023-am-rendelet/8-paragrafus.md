@@ -33,3 +33,7 @@ b) az operatív programban jóváhagyott éves részletekben.
 (6) Az (5) bekezdésben foglalt kötelezettségeknek megfelelést a termelői szervezet a számvitelről szóló törvényben foglalt, a tárgyi eszközök nyilvántartására és azonosítására vonatkozó szabályokra figyelemmel igazolja.
 
 (7) Beruházások esetén újnak minősül a kereskedelmi forgalomban vagy gyártótól beszerezhető, első üzembe helyezésű gépek, technológiai berendezések, eszközök, anyagok beszerzése vagy beépítése.
+
+(8)[^27] Lízingszerződések alapján megvalósított beruházás esetén az (5) bekezdésben meghatározott fenntartási időszak kezdete az állományba vétel dátuma.
+
+[^27]: A 8. § (8) bekezdését a 44/2024. (VIII. 29.) AM rendelet 6. §-a iktatta be.

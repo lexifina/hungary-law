@@ -1,6 +1,6 @@
 ## 2. Az operatív program tartalmának általános követelményei
 
-2. § (1) A január 1-jétől december 31-éig terjedő éves időszakokban végrehajtandó operatív programot a termelői szervezet vagy a termelői szervezetek társulása az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett formátumban készíti el.
+2. § (1)[^1] A január 1-jétől december 31-éig terjedő éves időszakokban végrehajtandó operatív programot a termelői szervezet vagy a termelői szervezetek társulása az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett hivatkozás szerinti formátumban készíti el.
 
 (2) Az operatív program tartalmazza
 
@@ -62,13 +62,13 @@ dc) az operatív programban foglalt beavatkozástípusok csak olyan termékekre 
 
 (9) Az operatív programhoz minden egyes beavatkozás tekintetében csatolni kell
 
-a) az ágazati célkitűzések kiválasztása indokolását,
+a)[^2] az ágazati célkitűzések és beavatkozás-típusok kiválasztásának indokolását,
 
-b) annak bemutatását, hogy az adott beavatkozás hogyan járul hozzá közvetlenül a taglétszám vagy az árbevétel megtartásához vagy növeléséhez,
+b)[^3] annak bemutatását, hogy az adott beavatkozás hogyan járul hozzá közvetlenül a taglétszám vagy az árbevétel megtartásához vagy növeléséhez, valamint a kiválasztott célkitűzéshez,
 
 c) a megadott mutatóérték kiszámítása módját, és
 
-d) ha az operatív program vagy módosítása elfogadása iránti kérelem benyújtása évére vagy az azt követő évre a beavatkozásnak költsége van,
+d)[^4] ha az operatív program vagy módosítása elfogadása iránti kérelem benyújtása évére vagy új operatív program esetén annak benyújtását követő évre a beavatkozásnak költsége van,
 
 da) a beavatkozás részletes leírását,
 
@@ -85,3 +85,8 @@ df) a vizsgálat elvégzésének, a vizsgálat során figyelembe vett szempontok
 dg) a 3. § szerint a beavatkozás tekintetében előírt dokumentumokat.
 
 (10) A (9) bekezdés d) pontja szerinti dokumentumokat – ha azok az operatív program részeként nem kerültek benyújtásra – legkésőbb a végrehajtás évében és a támogatás kifizetése iránti kérelem benyújtását megelőzően, a végrehajtás évére vonatkozó módosítási kérelem részeként kell megküldeni a minisztérium részére.
+
+[^1]: A 2. § (1) bekezdése a 44/2024. (VIII. 29.) AM rendelet 23. § 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (9) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § (9) bekezdés b) pontja a 44/2024. (VIII. 29.) AM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (9) bekezdés d) pont nyitó szövegrésze a 44/2024. (VIII. 29.) AM rendelet 23. § 2. pontja szerint módosított szöveg.

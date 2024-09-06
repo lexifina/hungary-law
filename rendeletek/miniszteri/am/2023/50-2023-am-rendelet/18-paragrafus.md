@@ -6,7 +6,7 @@
 
 (3) A kivonás során a termelői szervezetnek az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 29. cikkére figyelemmel igazolnia kell, hogy az érintett termékek megfelelnek a forgalmazási előírásoknak.
 
-(4) Az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 25. cikke szerinti szállítási költségek támogatásának kiszámítása szempontjából a menetlevélen szereplő kilométeróra állása alapján számított távolságot kell figyelembe venni. Az ingyenes szétosztás szállítási költségeihez kapcsolódó egységköltség alapú térítéseket a minisztérium a honlapján közzétett útmutatóban határozza meg.
+(4)[^42] Az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 25. cikke szerinti hűtve történő szállítás költsége támogatásának kiszámítása szempontjából a menetlevélen szereplő kilométeróra állása alapján számított távolságot kell figyelembe venni. Az ingyenes szétosztás szállítási költségeihez kapcsolódó egységköltség alapú térítéseket a minisztérium a honlapján közzétett útmutatóban határozza meg.
 
 (5) A piacról kivont termékek fogadó szervezete lehet
 
@@ -47,3 +47,5 @@ d) a szétosztott termékben részesülők maximális számát,
 e) a szállítható termék – kilogrammban vagy darabszámban megadott – minimális és maximális mennyiségét a szállítások és a szétosztások ütemezése szerinti bontásban, valamint
 
 f) az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 28. cikkében meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatokat.
+
+[^42]: A 18. § (4) bekezdése a 44/2024. (VIII. 29.) AM rendelet 23. § 13. pontja szerint módosított szöveg.

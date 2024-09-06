@@ -1,6 +1,6 @@
 ## 22. Szokásos piaci ár igazolására vonatkozó szabályok
 
-22. § (1) A KAP I rendelet 52. és 53. cikke szerinti támogatás formája költség-visszatérítés vagy egységköltség, a választott beavatkozástípusnak vagy -altípusnak megfelelően. Egységköltség azon beavatkozástípusok vagy -altípusok esetében alkalmazandó, amelyekre a minisztérium honlapján közzétett útmutató egységköltségeket határoz meg.
+22. § (1)[^46] A KAP I rendelet 52. és 53. cikke szerinti támogatás formája költség-visszatérítés, valamint egységköltség lehet, a választott beavatkozástípusnak vagy -altípusnak megfelelően. Egységköltség-alapú elszámolás azon beavatkozástípusok vagy -altípusok esetében alkalmazandó, amelyekre a minisztérium honlapján közzétett útmutató egységköltségeket határoz meg. Az euróban meghatározott egységköltség esetén az elszámolt kiadás összegének megállapításakor a Nemzeti Kifizető Ügynökség az Európai Központi Bank által közzétett, az érintett beavatkozás megvalósítási évének január 1-jén érvényes átváltási árfolyamot alkalmazza.
 
 (2) Egységköltségek alkalmazásának hiányában a beavatkozások költségei, valamint a költségszámítás alapjául szolgáló egységárak nem haladhatják meg a szokásos piaci árat, amelyet
 
@@ -20,9 +20,9 @@ kell igazolni.
 
 (6) Egy ajánlattevőtől származó egyetlen árajánlat akkor is elfogadható, ha a beavatkozás közvetlenül kapcsolódik egy korábban végrehajtott beavatkozáshoz, feltéve, hogy a termelői szervezet igazolni tudja, hogy a beavatkozáshoz kapcsolódó célkitűzés szerinti eredmény elérését biztosító beszerzésre más beszállító nem tud árajánlatot tenni, vagy más beszállító választása egy korábban végrehajtott tevékenység ellehetetlenülését eredményezné.
 
-(7) Szokásos piaci árnak megfelelést alátámasztó egymástól és a termelői szervezettől független – az ajánlat tárgyának 7. § (4) bekezdése szerinti tulajdonságait tartalmazó – árajánlatoknak a termelői szervezet vagy annak vezetője nevére címzettnek, cégszerű aláírással, keltezéssel és érvényességi határidővel ellátottnak kell lennie. Az árajánlat érvényességi idejét úgy kell megállapítani, hogy az
+(7)[^47] A szokásos piaci árnak való megfelelést alátámasztó, egymástól és a termelői szervezettől független – az ajánlat tárgyának 7. § (4) bekezdése szerinti tulajdonságait tartalmazó – árajánlatoknak meg kell felelnie a Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások felhasználásának rendjéről szóló 54/2023. (IX. 13.) AM rendelet 3. mellékletében foglaltaknak. Az árajánlat érvényességi idejét úgy kell megállapítani, hogy az
 
-a) a minisztériumhoz benyújtáskor,
+a) a kérelem minisztériumhoz történő benyújtásakor,
 
 b) a megrendeléskor vagy
 
@@ -45,3 +45,6 @@ b) amelynek tulajdonosa, tagja, a nevében nyilatkozattételre, képviseletre jo
 c) amely az ajánlat adása idején a támogatást igénylővel vagy másik ajánlattevővel azonos székhelyen vagy telephelyen működött.
 
 (12) A tevékenység szokásos piaci árának megállapítása során a miniszter a nyilvánosan elérhető forrásokon keresztül rendelkezésre álló adatokat is jogosult figyelembe venni.
+
+[^46]: A 22. § (1) bekezdése a 44/2024. (VIII. 29.) AM rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^47]: A 22. § (7) bekezdése a 44/2024. (VIII. 29.) AM rendelet 13. § (2) bekezdésével megállapított szöveg.

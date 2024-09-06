@@ -46,11 +46,11 @@ c) a szaktanácsadónak az agrárgazdasági és vidékfejlesztési szaktanácsad
 
 (8) Kutatás és kísérleti termesztést magában foglaló beavatkozás esetén be kell nyújtani
 
-a) a kísérleti tervet, a kutatási tervet és a választott módszereknek és eszközöknek a megfogalmazott célkitűzések tekintetében vett indokoltságának részletes bemutatását, valamint
+a)[^5] a tudományos kutatásról, fejlesztésről és innovációról szóló 2014. évi LXXVI. törvény (a továbbiakban: 2014. évi LXXVI. törvény) 3. § 15. pontja szerinti, tudományos fokozattal rendelkező kutató-fejlesztő személy (a továbbiakban: kutató-fejlesztő személy) vagy a 2014. évi LXXVI. törvény 3. § 16. pontja szerinti kutatóhely (a továbbiakban: kutatóhely) által ellenjegyzett kísérleti vagy kutatási tervet és a választott módszerek és eszközök megfogalmazott célkitűzések tekintetében vett indokoltságának részletes bemutatását, valamint
 
 b) az elérendő eredmények hasznosításának tervét a célkitűzések megvalósulására figyelemmel.
 
-(9) A kísérleti termesztés megvalósítása esetén be kell nyújtani
+(9)[^6] A kísérleti termesztés megvalósítása esetén, amennyiben a kísérleti termesztés keretében előállított termék értékesítésre kerül, be kell nyújtani
 
 a) a specifikus költségek számítása módszertanát,
 
@@ -66,12 +66,21 @@ c) a számítás alapjául figyelembe vett költségek szokásos piaci árnak me
 
 a) annak bemutatását, hogy a tevékenységek az (EU) 2022/126 felhatalmazáson alapuló bizottsági rendelet 14. cikk a)–f) és j) pontjában megfogalmazott mely célokat milyen indokok alapján szolgálják, és
 
-b) árkülönbözet 21. § (2) bekezdésének megfelelő elszámolása esetén annak indokolását, hogy az hogyan kapcsolódik közvetlenül a fogyasztók figyelem felhívásához és tájékoztatásához.
+b)[^7] árkülönbözet 21. § (2) bekezdésének megfelelő elszámolása esetén annak bemutatását, hogy a beavatkozás mely értékesítési irányok tekintetében kapcsolódik közvetlenül a fogyasztók figyelemfelhívásához és tájékoztatásához.
 
 (13) A beavatkozásokhoz kapcsolódó személyzeti és adminisztratív költségek elszámolása esetén be kell nyújtani
 
 a) a beavatkozás előkészítésével, végrehajtásával és nyomon követésével kapcsolatban felmerülő személyzeti és adminisztratív költségek bemutatását,
 
-b) a beavatkozáshoz kapcsolódás indokolását, valamint
+b)[^8] a beavatkozáshoz kapcsolódás indokolását,
 
-c) a személyzeti és adminisztratív költségeket megalapozó szerződéseket és leírásokat.
+c)[^9] a személyzeti és adminisztratív költségeket megalapozó szerződéseket és leírásokat, valamint
+
+d)[^10] adminisztratív költségek esetén a költségek alátámasztását és indokolását.
+
+[^5]: A 3. § (8) bekezdés a) pontja a 44/2024. (VIII. 29.) AM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § (9) bekezdés nyitó szövegrésze a 44/2024. (VIII. 29.) AM rendelet 23. § 3. pontja szerint módosított szöveg.
+[^7]: A 3. § (12) bekezdés b) pontja a 44/2024. (VIII. 29.) AM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (13) bekezdés b) pontja a 44/2024. (VIII. 29.) AM rendelet 24. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (13) bekezdés c) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 4. pontja szerint módosított szöveg.
+[^10]: A 3. § (13) bekezdés d) pontját a 44/2024. (VIII. 29.) AM rendelet 3. § (3) bekezdése iktatta be.

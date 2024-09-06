@@ -8,8 +8,10 @@ a) az érintett területet megfelelően művelték,
 
 b) a bejelentett területen lévő termék mennyisége az érintett termék tekintetében az adott évben meghaladja a megelőző öt kárenyhítési év megyei átlaghozamai átlagát,
 
-c) a bejelentett területről nem került sor részleges betakarításra, valamint
+c)[^97] a bejelentett területről nem került sor időközi betakarításra, valamint
 
 d) a termék jól fejlett és általában egészséges, ép és forgalmazható minőségű, kártevőktől mentes-e.
 
 (3) A Nemzeti Kifizető Ügynökség gondoskodik arról, hogy a termékeket denaturálják. Ha ez nem lehetséges, akkor a betakarítási időszakban tartott helyszíni szemle vagy szemlék révén gondoskodik arról, hogy a termék ne kerüljön betakarításra.
+
+[^97]: A 34. § (2) bekezdés c) pontja a 44/2024. (VIII. 29.) AM rendelet 23. § 11. pontja szerint módosított szöveg.
