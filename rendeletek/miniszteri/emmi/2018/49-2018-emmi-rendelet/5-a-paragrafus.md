@@ -1,4 +1,4 @@
-5/A. §[^9] (1) A Nemzeti Cisztás Fibrózis Regiszter (a továbbiakban: Cisztás Fibrózis Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
+5/A. §[^10] (1) A Nemzeti Cisztás Fibrózis Regiszter (a továbbiakban: Cisztás Fibrózis Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott cisztás fibrózis megbetegedésre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója E84 tétele (a továbbiakban: cisztás fibrózis megbetegedés).
 
@@ -10,4 +10,4 @@
 
 (6) A Cisztás Fibrózis Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított cisztás fibrózis eredetű betegség indokolja.
 
-[^9]: Az 5/A. §-t a 37/2020. (X. 30.) EMMI rendelet 11. §-a iktatta be.
+[^10]: Az 5/A. §-t a 37/2020. (X. 30.) EMMI rendelet 11. §-a iktatta be.

@@ -1,4 +1,4 @@
-6/A. §[^15] (1) A Nemzeti Felnőtt Szívelégtelenség Regiszter (a továbbiakban: Szívelégtelenség Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
+6/A. §[^16] (1) A Nemzeti Felnőtt Szívelégtelenség Regiszter (a továbbiakban: Szívelégtelenség Regiszter) részére köteles adatot szolgáltatni a (2) bekezdés szerinti betegség diagnózisát felállító, kezelést végző, továbbá a szövettani vizsgálatot, boncolást végző vagy azt véleményező egészségügyi szolgáltató.
 
 (2) Az (1) bekezdés szerinti adatszolgáltatás kiterjed valamennyi egészségügyi szolgáltatónál diagnosztizált vagy ellátott szívelégtelenségre, ha a diagnózis – a haláloki diagnózisokat is beleértve – a BNO 10. revíziója I11–I13, I50, továbbá R57 tételeinek bármelyike (a továbbiakban: szívelégtelenség).
 
@@ -12,4 +12,4 @@
 
 (7) A Szívelégtelenség Regiszter a már nyilvántartott betegek eseteiben rögzíti a halottvizsgálati és haláloki adatokat, és nyilvántartásba veszi azon személyek adatait, akiknél ezt a halottvizsgálat során megállapított szívelégtelenség-eredetű betegség indokolja.
 
-[^15]: A 6/A. §-t a 37/2020. (X. 30.) EMMI rendelet 13. §-a iktatta be.
+[^16]: A 6/A. §-t a 37/2020. (X. 30.) EMMI rendelet 13. §-a iktatta be.
