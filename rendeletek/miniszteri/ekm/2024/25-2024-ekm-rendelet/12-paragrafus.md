@@ -1,0 +1,3 @@
+12. § (1) A vállalkozó kivitelező a feladatait és kötelezettségeit az építőipari kivitelezési tevékenység során a felelős műszaki vezető irányításával és felelőssége mellett látja el. A felelős műszaki vezető tevékenysége a vállalkozó kivitelező kivitelezési szerződésében vállalt építőipari kivitelezési tevékenységnek vagy meghatározott részének irányítására terjed ki.
+
+(2) A felelős műszaki vezető az építőipari kivitelezési tevékenység megfelelő műszaki minőségben történő megvalósításáért, valamint az élet- és vagyonbiztonság követelményei betartásának személyi felelőse a vállalkozó kivitelező részéről.
