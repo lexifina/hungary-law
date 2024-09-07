@@ -1,19 +1,3 @@
-14. § A KAP vhr. 38. alcíme a következő 77/A. §-sal egészül ki:
+14. §[^15]
 
-„77/A. § (1) A támogatási kérelem beérkezését követően a támogatási döntés meghozataláig bármikor előzetes helyszíni szemlét lehet elrendelni, ha
-
-a) a döntés előtt indokolt ellenőrizni a támogatási kérelemben feltüntetett egyes adatok helytállóságát, és meg kell győződni azok valódiságáról, valamint
-
-b) az alkalmas a támogatási kérelemben feltüntetett adatok igazolására.
-
-(2) Az előzetes helyszíni szemle keretében ellenőrizni kell
-
-a) a támogatási kérelemben szereplő információk helytállóságát,
-
-b) a művelet megkezdésének időpontját,
-
-c) a támogatási kérelem megalapozottságát, valamint
-
-d) a helyszín alkalmasságát.
-
-(3) Az előzetes helyszíni szemlét egy fő is végezheti.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

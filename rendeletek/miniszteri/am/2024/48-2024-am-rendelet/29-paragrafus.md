@@ -1,3 +1,3 @@
-29. § A KAP vhr. 98. § (3) bekezdése helyébe a következő rendelkezés lép:
+29. §[^30]
 
-„(3) A helyi felhívások a minőségbiztosítást követően a Nemzeti Kifizető Ügynökség honlapján jelennek meg.”
+[^30]: A 29. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

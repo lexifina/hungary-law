@@ -1,3 +1,3 @@
-6. § A KAP vhr. 22. §-a a következő (2a) bekezdéssel egészül ki:
+6. §[^7]
 
-„(2a) A támogató a kérelmet emberi beavatkozás nélkül, kizárólag a KAP törvény 13. §-a szerinti informatikai rendszer adatait felhasználó technológia alkalmazásával is megvizsgálhatja.”
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

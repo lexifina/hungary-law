@@ -1,3 +1,3 @@
-21. § A KAP vhr. 88. § (2) bekezdése helyébe a következő rendelkezés lép:
+21. §[^22]
 
-„(2) A záró kifizetési kérelem keretében a pénzügyi befejezést követően véglegesen el kell számolni a ténylegesen felmerült, korábban el nem számolt költségekkel.”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

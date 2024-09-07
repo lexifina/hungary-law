@@ -1,3 +1,3 @@
-18. § A KAP vhr. 83. § (1) bekezdése helyébe a következő rendelkezés lép:
+18. §[^19]
 
-„(1) Az előleggel való teljes elszámolást követően – ha adott intézkedésre vonatkozó felhívás úgy rendelkezik – a felhívásban meghatározott mértékig újra kérelmezhető előleg.”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

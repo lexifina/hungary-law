@@ -1,3 +1,3 @@
-7. § A KAP vhr. 24. §-a a következő o) ponttal egészül ki:
+7. §[^8]
 
-(A támogató a kérelmet visszautasítja, ha)
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

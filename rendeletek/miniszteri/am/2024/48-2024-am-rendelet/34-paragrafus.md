@@ -1,7 +1,3 @@
-34. § Hatályát veszti a KAP vhr.
+34. §[^35]
 
-a) 76. § (3) bekezdése,
-
-b) 88. § (5) bekezdése,
-
-c) 93. § (4) bekezdése.
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

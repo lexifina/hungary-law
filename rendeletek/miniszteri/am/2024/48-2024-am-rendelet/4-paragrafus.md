@@ -1,7 +1,3 @@
-4. § A KAP vhr. 20. §-a a következő (4)–(6) bekezdéssel egészül ki:
+4. §[^5]
 
-„(4) A döntés tervezetébe nem lehet betekinteni.
-
-(5) Saját hatáskörben indult eljárásban az érintett kedvezményezett az (1)–(4) bekezdésben foglaltak szerint jogosult az iratokba betekinteni.
-
-(6) Az iratbetekintésre vonatkozó kérelmet a támogató döntésével jóváhagyja, korlátozottan engedélyezi vagy elutasítja.”
+[^5]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

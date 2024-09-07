@@ -1,3 +1,3 @@
-12. § A KAP vhr. 58. § (4) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(4) A jogorvoslati kérelem tárgyában hozott döntést a kedvezményezett részére a miniszter kézbesíti a KAP törvény 13. §-a szerinti informatikai rendszer alkalmazásával, és döntéséről tájékoztatja a támogatót is.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

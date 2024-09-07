@@ -1,5 +1,3 @@
-9. § A KAP vhr. 53. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+9. §[^10]
 
-„(1a) Fizetési kedvezmény iránti kérelem az agrártámogatási jogviszony megszűnését követően nem nyújtható be.
-
-(1b) A Nemzeti Kifizető Ügynökség az (1) bekezdés szerinti három hónapos határidő alatt is megkeresheti az állami adóhatóságot a lejárt, esedékes tartozás adók módjára behajtandó köztartozás végrehajtásának érdekében.”
+[^10]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
