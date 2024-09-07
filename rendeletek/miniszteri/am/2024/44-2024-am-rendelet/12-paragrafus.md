@@ -1,7 +1,3 @@
-12. § (1) Az 50/2023. (IX. 5.) AM rendelet 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+12. §[^13]
 
-„(2) A figyelemfelhívást és a fogyasztók tájékoztatását szolgáló kommunikációs tevékenységek keretében, ha a válságmegelőzés és -kezelés keretében alkalmazott figyelemfelhívást és a fogyasztók tájékoztatását szolgáló kommunikációs tevékenységhez közvetlenül kapcsolódóan a termelői szervezet által friss fogyasztásra értékesített termék vagy terméktípus mennyisége legalább 3, de legfeljebb 9 napos időszakban legalább 25%-kal meghaladja az intézkedést közvetlenül megelőzően, azzal megegyező időtartam alatt friss fogyasztásra értékesített termékmennyiséget, akkor az intézkedés keretében a legalább 3, de legfeljebb 9 napos időszakban értékesített termék vagy terméktípus értékesítési átlagára és a megelőző, de azzal megegyező időszak alatt értékesített termékmennyiség értékesítési átlagára közötti árkülönbözet és az intézkedés által érintett időszakban értékesített mennyiség szorzata a beavatkozás tekintetében, a beavatkozás igazolt költségein felül jogosult költségként – legfeljebb a referencia évben forgalmazott termék értékének öt százalékáig – elszámolható kiadásnak minősül. Ezen elszámolható kiadások meghatározásának alapjául szolgáló időszakot legalább egy azzal megegyező hosszúságú olyan időszaknak kell megelőznie, amelyre a költségelszámolást nem alkalmazták.”
-
-(2) Az 50/2023. (IX. 5.) AM rendelet 21. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A termelői szervezetnek az (1) bekezdés szerinti tevékenység megkezdésének pontos időpontját, a tevékenységgel érintett termékeket és – amennyiben a minisztérium honlapján közzétételre kerültek – terméktípusokat, továbbá az érintett értékesítési irányok megnevezését legkésőbb 1 nappal a tevékenység megkezdése előtt elektronikus úton be kell jelentenie a Nemzeti Kifizető Ügynökség felé.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

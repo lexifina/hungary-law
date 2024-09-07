@@ -1,3 +1,3 @@
-14. § Az 50/2023. (IX. 5.) AM rendelet 23. § (4) bekezdés b) pontja helyébe a következő rendelkezés lép:
+14. §[^15]
 
-[A (2) bekezdés szerinti bejelentésnek tartalmaznia kell]
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
