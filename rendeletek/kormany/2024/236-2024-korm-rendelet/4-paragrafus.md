@@ -1,0 +1,1 @@
+4. § A költségtérítés mértéke a 2024. évben 390 000 forint, melyet a gazdasági társaság az MNV Zrt. által az e rendelet hatálybalépésétől számított 30 napon belül megküldött díjfizetési értesítő alapján az e rendelet hatálybalépésétől számított 60 napon belül köteles megfizetni.

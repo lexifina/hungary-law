@@ -1,0 +1,1 @@
+2. § A gazdasági társaság a GAT rendszer működtetésével és üzemeltetésével kapcsolatos költségeket évente megtéríti az MNV Zrt. részére, amelynek összegét az MNV Zrt. a felhasználási szabályzatban minden év január 31-ig megállapítja.
