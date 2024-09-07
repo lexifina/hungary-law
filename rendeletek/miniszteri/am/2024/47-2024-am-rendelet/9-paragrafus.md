@@ -1,58 +1,73 @@
 9. § A 27/2014. (XI. 25.) FM rendelet
 
-1. 4. § (1c) bekezdés a) pontjában az „ügyfél-azonosítója” szövegrész helyébe a „támogatási azonosítója” szöveg,
+1.[^9]
 
-2.[^5]
+2.[^10]
 
-3.[^6]
+3.[^11]
 
-4.[^7]
+4.[^12]
 
-5.[^8]
+5.[^13]
 
-6.[^9]
+6.[^14]
 
-7.[^10]
+7.[^15]
 
-8. 5. § (3) bekezdésében a „hozamcsökkenés megállapítása” szövegrész helyébe a „hozamcsökkenés megállapítása és a mezőgazdasági káresemény igazolása” szöveg,
+8.[^16]
 
-9. 5. § (3) bekezdés a) pontjában az „az Országos Meteorológiai Szolgálat (a továbbiakban: OMSZ)” szövegrész helyébe az „a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: HungaroMet)” szöveg,
+9.[^17]
 
-10. 5. § (3) bekezdés e) pontjában a „miniszter által vezetett minisztérium (a továbbiakban: minisztérium)” szövegrész helyébe a „Nemzeti Agrárgazdasági Kamara” szöveg,
+10.[^18]
 
-11. 5. § (3) bekezdés f) pontjában a „mezőgazdasági igazgatási szerv által készített drónfelvétel adatait és” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: mezőgazdasági igazgatási szerv) által készített drónfelvétel adatait,” szöveg,
+11.[^19]
 
-12.[^11]
+12.[^20]
 
-13. 5. § (5) bekezdésében az „Az OMSZ” szövegrész helyébe az „A HungaroMet” szöveg,
+13.[^21]
 
-14.[^12]
+14.[^22]
 
-15. 6. § (1) bekezdésében a „minisztérium” szövegrész helyébe az „a miniszter által vezetett minisztérium (a továbbiakban: minisztérium)” szöveg,
+15.[^23]
 
-16. 6. § (7) bekezdésében az „a díjtámogatott biztosítások adatközlésekor” szövegrész helyébe az „a biztosítási szerződés területösszesítő mellékletében” szöveg,
+16.[^24]
 
-17. 9. § (2) bekezdésében az „érdemi vizsgálat nélkül elutasított kérelmek” szövegrész helyébe a „visszautasított kérelmek” szöveg,
+17.[^25]
 
-18. 9. § (4b) bekezdésében az „időpontja előtt megkötött” szövegrész helyébe az „időpontja előtt megkötött – határozatlan idejű szerződés esetén megújított –” szöveg,
+18.[^26]
 
-19. 9. § (5) bekezdésében a „Ha a mezőgazdasági” szövegrész helyébe az „Az Mkk. tv. 16. §-a szerinti mezőgazdasági biztosítás kivételével, ha a mezőgazdasági” szöveg, az „állít ki” szövegrész helyébe az „állít ki, és azt a nem szerződő félként biztosított mezőgazdasági termelő a kárenyhítés iránti kérelméhez csatolja” szöveg,
+19.[^27]
 
-20. 9. § (5b) bekezdésében az „(5a) bekezdésben” szövegrész helyébe az „(1) bekezdés szerinti határidőig a (4), (5) és (5a) bekezdésben” szöveg,
+20.[^28]
 
-21. 15. § (3) bekezdésében az „az OMSZ-től, az OVF-től, az” szövegrész helyébe az „a HungaroMettől, az OVF-től, a” szöveg,
+21.[^29]
 
-22. 2. melléklet I. pont 1.2. alpontjában az „ügyfél-azonosító” szövegrész helyébe a „támogatási azonosító” szöveg,
+22.[^30]
 
-23. 2. melléklet I. pont 4. alpontjában a „hasznosítási kódok szerint” szövegrész helyébe a „hasznosítási kódok szerint meghatározott növényfaj vagy növényfajta” szöveg
+23.[^31]
 
 lép.
 
-[^5]: A 9. § 2. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^6]: A 9. § 3. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^7]: A 9. § 4. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^8]: A 9. § 5. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^9]: A 9. § 6. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^10]: A 9. § 7. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^11]: A 9. § 12. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
-[^12]: A 9. § 14. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^9]: A 9. § 1. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 9. § 2. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^11]: A 9. § 3. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^12]: A 9. § 4. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^13]: A 9. § 5. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^14]: A 9. § 6. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^15]: A 9. § 7. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^16]: A 9. § 8. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 9. § 9. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 9. § 10. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 9. § 11. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 9. § 12. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^21]: A 9. § 13. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 9. § 14. pontja a 11. § (2) bekezdése alapján 2024. november 1-jén lép hatályba.
+[^23]: A 9. § 15. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: A 9. § 16. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 9. § 17. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^26]: A 9. § 18. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 9. § 19. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^28]: A 9. § 20. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 9. § 21. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 9. § 22. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 9. § 23. pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
