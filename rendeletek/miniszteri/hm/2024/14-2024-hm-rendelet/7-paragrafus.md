@@ -1,0 +1,1 @@
+7. § Hatályát veszti a hadiipari kutatással, fejlesztéssel, gyártással és kereskedelemmel összefüggő kiberbiztonsági tanúsítás keretében fizetendő igazgatási szolgáltatási díjról szóló 1/2023. (I. 12.) HM rendelet.
