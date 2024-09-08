@@ -2,6 +2,6 @@
 
 ## A díjfizetés elmaradása
 
-23. §[^51]
+23. §[^52]
 
-[^51]: A 23. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^52]: A 23. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.

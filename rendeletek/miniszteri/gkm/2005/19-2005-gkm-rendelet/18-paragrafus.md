@@ -2,6 +2,6 @@
 
 ## A feltaláló, a nemesítő és a szerző kedvezményei
 
-18. §[^46]
+18. §[^47]
 
-[^46]: A 18. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^47]: A 18. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.

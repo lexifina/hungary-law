@@ -1,5 +1,5 @@
 ## Esedékesség
 
-20. §[^48]
+20. §[^49]
 
-[^48]: A 20. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
+[^49]: A 20. §-t a 28/2009. (VII. 30.) IRM rendelet 3. § (4) bekezdése hatályon kívül helyezte.
