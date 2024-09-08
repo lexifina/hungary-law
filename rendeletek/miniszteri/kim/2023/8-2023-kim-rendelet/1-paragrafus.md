@@ -5,3 +5,7 @@
 (2) Ha a kérelmező a szakértői véleményben kéri a minősíteni kért projekt alapkutatási, alkalmazott kutatási vagy kísérleti fejlesztési arányainak meghatározását (a továbbiakban: arány-meghatározás) is, a projektminősítés díján felül külön díjat kell fizetnie.
 
 (3) Ha a kérelmező a szakértői véleményben kéri annak megállapítását is, hogy a minősíteni kért projektet a kérelmező a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény szerinti saját tevékenységi körben végzett kutatás-fejlesztési tevékenységként végzi (a továbbiakban: saját tevékenység megállapítása), a projektminősítés díján felül külön díjat kell fizetnie.
+
+(4)[^1] Ha a kérelmező a szakértői véleményben kéri a minősíteni kért projekt piaci hasznosíthatóságának megállapítását (a továbbiakban: piaci hasznosíthatóság megállapítása) is, a projektminősítés díján felül külön díjat kell fizetnie.
+
+[^1]: Az 1. § (4) bekezdését a 31/2024. (VIII. 8.) KIM rendelet 2. § (1) bekezdése iktatta be.
