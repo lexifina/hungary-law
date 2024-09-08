@@ -2,6 +2,8 @@
 
 25. § (1) A Kibertan.tv. 10. § (1) bekezdése szerinti megfelelőségi jelölést az érintett IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban jól láthatóan, egyértelműen és maradandóan kell elhelyezni.
 
+(1a)[^1] A Kibertan.tv. szerinti nemzeti megfelelőségi nyilatkozattal vagy nemzeti kiberbiztonsági tanúsítvánnyal rendelkező IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban az 1. melléklet szerinti megfelelőségi jelölést kell elhelyezni. Az adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat jellegétől függően a tanúsító hatóság a Kibertan.tv. 14. § (1) bekezdése szerinti nyilvántartásba vételről szóló határozata határozza meg, hogy az 1. melléklet 1–4. pontja szerinti megfelelőségi jelölés típusok közül mely típus alkalmazandó, azzal, hogy az 1. melléklet határozatban megjelölt pontján belül az egyes alpontokban szereplő változatok közül az alkalmazni kívánt változatot a gyártó választja ki.
+
 (2) Ahol a megfelelőségi jelölés elhelyezése nem értelmezhető, az IKT-termék, IKT-szolgáltatás vagy IKT-folyamat jellege által biztosított lehetőség szerinti formában kell feltüntetni a megfelelőségi jelölést vagy az erre történő utalást.
 
 (3) Megfelelőségi jelölésen túl további jelölés az IKT-terméken, IKT-szolgáltatáson vagy IKT-folyamatban úgy tüntethető fel, hogy az nem rontja a megfelelőségi jelölés láthatóságát és olvashatóságát.
@@ -13,3 +15,5 @@
 (6) Ha a tanúsító hatóság azt állapítja meg, hogy a megfelelőségi jelölést a gyártó jogosulatlanul tüntette fel az e rendelet hatálya alá tartozó IKT-terméken, IKT-szolgáltatás során vagy IKT-folyamatban, kötelezi a gyártót, hogy a terméket, illetve a tájékoztatást módosítsa a megfelelőségi jelölésre vonatkozó előírások szerint, és akadályozza meg a további szabálytalanságot a tanúsító hatóság által előírt feltételeknek megfelelően.
 
 (7) Ha a nemmegfelelőség továbbra is fennáll, a tanúsító hatóság felszólítja a gyártót a megfelelőségi jelölés eltávolítására a meg nem feleléssel érintett IKT-termékről, IKT-szolgáltatásról vagy IKT-folyamatról, illetve tájékoztatásról. Ha erre nincs lehetőség, vagy ha a gyártó e kötelezettségének nem tesz eleget, a tanúsító hatóság intézkedhet az adott IKT-termék, IKT-szolgáltatás vagy IKT-folyamat forgalomba hozatalának, nyújtásának korlátozása, megtiltása vagy forgalomból történő kivonása iránt.
+
+[^1]: A 25. § (1a) bekezdését a 14/2024. (IX. 5.) SZTFH rendelet 1. §-a iktatta be.
