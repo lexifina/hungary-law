@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-1087-30
 | 2022-04-06 | 2011-1087-30-22.9 | 1211/2022. (IV. 5.) Korm. határozat |
 | 2022-11-03 | 2011-1087-30-22.10 | 1521/2022. (XI. 2.) Korm. határozat |
 | 2023-10-31 | 2011-1087-30-22.11 | 1467/2023. (X. 30.) Korm. határozat |
+| 2024-09-10 | 2011-1087-30-22.12 | 1467/2023. (X. 30.) Korm. határozat |

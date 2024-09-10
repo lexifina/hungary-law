@@ -74,7 +74,7 @@ dm)[^28] a fővárosi és vármegyei kormányhivatalok irányítására kijelöl
 
 dn)[^29] a társadalmi felzárkózásért felelős miniszter által vezetett minisztérium társadalmi felzárkózásért felelős helyettes államtitkára,
 
-do)[^30] a felnőttképzésért felelős miniszter által vezetett minisztérium innovációért és felsőoktatásért felelős államtitkára,
+do)[^30] a felnőttképzésért felelős miniszter által vezetett minisztérium felsőoktatásért és felnőttképzésért felelős helyettes államtitkára,
 
 dp)[^31] a szakképzésért felelős miniszter által vezetett minisztérium szakképzésért felelős helyettes államtitkára,
 
@@ -82,9 +82,9 @@ dq)[^32] a sportpolitikáért felelős miniszter által vezetett minisztérium s
 
 dr)[^33] az áldozatsegítésért felelős miniszter által vezetett minisztérium parlamenti államtitkára,
 
-ds)[^34] az igazságügyért felelős miniszter által vezetett minisztérium büntetőjogi jogalkotásért felelős helyettes államtitkára,
+ds)[^34] a fogyasztóvédelemért felelős miniszter által vezetett minisztérium gazdaságfejlesztési stratégiáért és kifektetésért, fogyasztóvédelemért, valamint kereskedelemért felelős helyettes államtitkára,
 
-dt)[^35] a felsőoktatásért felelős miniszter által vezetett minisztérium felsőoktatásért felelős helyettes államtitkára,
+dt)[^35] a felsőoktatásért felelős miniszter által vezetett minisztérium felsőoktatásért és felnőttképzésért felelős helyettes államtitkára,
 
 du)[^36] a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium családokért felelős államtitkára,
 
@@ -227,12 +227,12 @@ d)[^59] A rendészetért felelős minisztert, továbbá a kormányzati stratégi
 [^27]: A 3. pont d) alpont dl) pontja az 1467/2023. (X. 30.) Korm. határozat 3. pont h) alpontjával megállapított szöveg.
 [^28]: A 3. pont d) alpont dm) alpontját az 1609/2019. (X. 22.) Korm. határozat 4. pontja iktatta be, szövege az 1467/2023. (X. 30.) Korm. határozat 3. pont i) alpontja szerint módosított szöveg.
 [^29]: A 3. pont d) alpont dn) alpontját az 1609/2019. (X. 22.) Korm. határozat 4. pontja iktatta be.
-[^30]: A 3. pont d) alpont do) alpontját az 1609/2019. (X. 22.) Korm. határozat 4. pontja iktatta be, hatályon kívül helyezte az 1876/2020. (XII. 2.) Korm. határozat 4. pont a) alpontja, újonnan az 1521/2022. (XI. 2.) Korm. határozat 9. pontja iktatta be, az 1467/2023. (X. 30.) Korm. határozat 3. pont j) alpontja szerint módosított szöveg.
+[^30]: A 3. pont d) alpont do) pontját újonnan az 1521/2022. (XI. 2.) Korm. határozat 9. pontja iktatta be, szövege az 1266/2024. (IX. 9.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
 [^31]: A 3. pont d) alpont dp) alpontját az 1609/2019. (X. 22.) Korm. határozat 4. pontja iktatta be, szövege az 1521/2022. (XI. 2.) Korm. határozat 10. pontjával megállapított szöveg.
 [^32]: A 3. pont d) pont dq) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
 [^33]: A 3. pont d) pont dr) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
-[^34]: A 3. pont d) pont ds) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
-[^35]: A 3. pont d) pont dt) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
+[^34]: A 3. pont d) alpont ds) pontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be, szövege az 1266/2024. (IX. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^35]: A 3. pont d) alpont dt) pontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be, szövege az 1266/2024. (IX. 9.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
 [^36]: A 3. pont d) pont du) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
 [^37]: A 3. pont d) pont dv) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
 [^38]: A 3. pont d) pont dw) alpontját az 1467/2023. (X. 30.) Korm. határozat 1. pontja iktatta be.
