@@ -102,13 +102,15 @@
 
 ## d) a 2023. évben 7 638 886 843 forint,
 
-## e) a 2024. évben 5 056 392 953 forint
+## e) a 2024. évben 4 097 518 606 forint,
+
+## f) a 2025. évben 958 874 347 forint
 
 ## forrás biztosításáról;
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-| Határidő: | az a)–c) pont tekintetében azonnal a d) pont tekintetében a felmerülés ütemében az e) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+| Határidő: | az a)–c) pont tekintetében azonnal a d) és e) pont tekintetében a felmerülés ütemében az f) pont tekintetében a 2025. évi központi költségvetés tervezése során |
 
 ## 1.11. [^14]
 
@@ -150,7 +152,7 @@ Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
 [^10]: Az 1. pont 1.9. pontja az 1567/2022. (XI. 24.) Korm. határozat 4. pont d) pontja szerint módosított szöveg.
 [^11]: Az 1.9a. alpontot az 1567/2022. (XI. 24.) Korm. határozat 3. pontja iktatta be.
 [^12]: Az 1. pont 1.10. pontja az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
-[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1604/2023. (XII. 22.) Korm. határozat 1. pontjával megállapított szöveg.
+[^13]: Az 1. pont 1.10a. alpontját az 1080/2021. (II. 27.) Korm. határozat 5. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 1. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.11. alpontját az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^15]: Az 1. pont 1.11a. alpontját az 1080/2021. (II. 27.) Korm. határozat 7. pontja iktatta be, az 1023/2022. (I. 27.) Korm. határozat 4. pont a) alpontja hatályon kívül helyezte.
 [^16]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
