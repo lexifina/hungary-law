@@ -18,13 +18,13 @@ aa) a Magyarország 2022. évi központi költségvetéséről szóló 2021. év
 
 ab) a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XVII. Technológiai és Ipari Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 37. Gazdaságfejlesztési feladatok alcím, 3. Térségi fejlesztési feladatok jogcímcsoport javára 11 812 230 695 forint,
 
-ac) a Magyarország 2024. évi központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 10 368 744 228 forint,
+ac) a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 9 368 144 228 forint,
 
-ad) a Magyarország 2025. évi központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 3 337 720 181 forint;
+ad) a Magyarország 2025. évi központi költségvetéséről szóló törvényben meghatározott Térségi fejlesztési feladatok előirányzat javára 4 338 320 181 forint;
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-| Határidő: | az aa) pont tekintetében a felmerülés ütemében az ab) pont tekintetében a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében az ac) pont tekintetében a 2024. évi központi költségvetés tervezése során az ad) pont tekintetében a 2025. évi központi költségvetés tervezése során |
+| Határidő: | az aa)–ac) pont tekintetében a felmerülés ütemében az ad) pont tekintetében a 2025. évi központi költségvetés tervezése során |
 
 b) a 2. pont c) alpontjában meghatározott feladat megvalósítása érdekében 964 482 000 forint biztosításáról a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi Igazgatóságok cím javára;
 
@@ -95,7 +95,7 @@ technológiai és ipari miniszter
 Határidő: a 11. pont szerinti tájékoztatást követően azonnal
 
 [^1]: A 3. pont nyitó szövegrésze az 1608/2022. (XII. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
-[^2]: A 3. pont a) pontja az 1608/2022. (XII. 8.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 3. pont a) pontja az 1268/2024. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3a. pontot az 1307/2022. (VI. 22.) Korm. határozat 2. pontja iktatta be.
 [^4]: A 4. pontot az 1023/2022. (I. 27.) Korm. határozat 4. pont c) alpontja visszavonta, újonnan az 1493/2022. (X. 19.) Korm. határozat iktatta be.
 [^5]: A 4a. pontot az 1493/2022. (X. 19.) Korm. határozat iktatta be.
