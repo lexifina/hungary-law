@@ -108,25 +108,25 @@
 
 | Határidő: | az a) pont tekintetében a felmerülés ütemében, legkésőbb 2024. december 31-ig a b) és c) pont tekintetében az adott évi központi költségvetés tervezése során |
 
-## 2.5. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladóan, 24 305 073 332 forint összegben kötelezettséget vállaljon a Kvtv2023. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím terhére;
+## 2.5. [^5] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladóan, 19 960 223 866 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 3. Ipari parki és térségi infrastruktúra-fejlesztési feladatok jogcímcsoport terhére;
 
-## 2.6. felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 24 593 216 977 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 2.6. [^6] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 1. pont 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 24 593 200 000 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
-## a) a 2023. évben a Kvtv2023. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 17. Térségi fejlesztési feladatok alcím javára 24 319 656 376 forint,
+## a) a 2024. évben a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 3. Ipari parki és térségi infrastruktúra-fejlesztési feladatok jogcímcsoport javára 19 972 200 000 forint,
 
-## b) a 2024. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzat javára 273 560 601 forint;
+## b) a 2025. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Ipari parki és térségi infrastruktúra fejlesztési feladatokat finanszírozó előirányzat javára 4 621 000 000 forint;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter |
 
-| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2025. évi központi költségvetés tervezése során |
 
-## 2.7. az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban foglalt feladatok megvalósítása érdekében legfeljebb 24 578 469 895 forint kötelezettséget vállaljon;
+## 2.7. [^7] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban foglalt feladatok megvalósítása érdekében legfeljebb 24 578 452 928 forint kötelezettséget vállaljon;
 
-## 2.8. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban foglalt fejlesztések megvalósításához a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, térségi fejlesztési feladatokat finanszírozó előirányzata terhére vállalható kötelezettségek felső korlátját a 2024. évben 273 396 563 forintban állapítja meg;
+## 2.8. [^8] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1. pont 1.1. alpont e) pontjában és az ahhoz kapcsolódó 1.8. alpontban foglalt fejlesztések megvalósításához a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Ipari parki és térségi infrastruktúra fejlesztési feladatokat finanszírozó előirányzat terhére vállalható kötelezettségek felső korlátját a 2025. évben 4 618 229 063 forintban állapítja meg;
 
 ## 2.9. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az energiaügyi miniszter az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 2 500 000 000 forint összegben kötelezettséget vállaljon a Kvtv2023. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport terhére;
 
-## 2.10. [^5] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az energiaügyi miniszter kezdeményezésére, az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 109 401 749 637 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 2.10. [^9] felhívja a pénzügyminisztert, hogy az energiaügyi miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 1.2–1.6. alpontban és az azokhoz kapcsolódó 1.8. alpontban meghatározott feladatok elvégzése érdekében gondoskodjon 109 401 749 637 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
 ## a) a 2023. évben a Kvtv2023. 1. melléklet
 
@@ -134,31 +134,31 @@
 
 ## ab) XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 35. Energetikai és fenntarthatósági ágazati feladatok alcím, 3. Fenntarthatósági feladatok és közmű-szolgáltatások jogcímcsoport javára 2 501 500 000 forint,
 
-## b) [^6] a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv2024.) 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 22 744 784 769 forint,
+## b) a 2024. évben a Kvtv2024. 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 11 740 620 658 forint,
 
-## c) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 37 481 214 793 forint,
+## c) a 2025. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 48 485 378 904 forint,
 
 ## d) a 2026. évben a központi költségvetés XVII. Energiaügyi Minisztérium fejezet térségi fejlesztési feladatokat finanszírozó előirányzata javára 32 432 030 126 forint;
 
-| Felelős: | az a) és b) pont tekintetében pénzügyminiszter külgazdasági és külügyminiszter energiaügyi miniszter a c) és d) pont tekintetében energiaügyi miniszter külgazdasági és külügyminiszter pénzügyminiszter |
+| Felelős: | pénzügyminiszter energiaügyi miniszter külgazdasági és külügyminiszter |
 
-| Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében a c) és d) pont tekintetében az adott évi központi költségvetés tervezésekor |
+| Határidő: | az a) és b) pont tekintetében a felmerülés ütemében a c) és d) pont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 2.11. az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a gazdaságfejlesztési miniszter az 1.7. alpontban és a hozzá kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2023. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 1 520 725 893 forint összegben kötelezettséget vállaljon a Kvtv2023. 1. melléklet XXIII. Gazdaságfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 4. Egyéb ágazati feladatok alcím terhére;
 
-## 2.12. [^7] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint a gazdaságfejlesztési miniszter kezdeményezésére, az 1.7. alpont szerinti fejlesztés és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok finanszírozása érdekében gondoskodjon 3 184 686 804 forint biztosításáról, az alábbi ütemezés szerint:
+## 2.12. [^10] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint a gazdaságfejlesztési miniszter kezdeményezésére, az 1.7. alpont szerinti fejlesztés és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok finanszírozása érdekében gondoskodjon 3 184 686 804 forint biztosításáról, az alábbi ütemezés szerint:
 
 ## a) a 2023. évben a Kvtv2023. 1. melléklet XXIII. Gazdaságfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 4. Egyéb ágazati feladatok alcím javára 1 521 638 329 forint,
 
-## b) [^8] a 2024. évben a Kvtv2024. 1. melléklet XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságfejlesztési feladatok alcím, 2. Gazdasági ellenálló képesség fejlesztése és ipari alkalmazott technológiák bevezetése jogcímcsoport javára 199 763 484 forint;
+## b) [^11] a 2024. évben a Kvtv2024. 1. melléklet XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságfejlesztési feladatok alcím, 2. Gazdasági ellenálló képesség fejlesztése és ipari alkalmazott technológiák bevezetése jogcímcsoport javára 199 763 484 forint;
 
 | Felelős: | pénzügyminiszter külgazdasági és külügyminiszter gazdaságfejlesztési miniszter |
 
 | Határidő: | az a) pont tekintetében a felmerülés ütemében a b) pont tekintetében azonnal |
 
-## 2.13. [^9] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzetgazdasági miniszter az 1.7. alpontban és a hozzá kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 1 662 051 244 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságfejlesztési feladatok alcím, 2. Gazdasági ellenálló képesség fejlesztése és ipari alkalmazott technológiák bevezetése jogcímcsoport terhére.
+## 2.13. [^12] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a nemzetgazdasági miniszter az 1.7. alpontban és a hozzá kapcsolódó 1.8. alpontban meghatározott feladat megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 1 662 051 244 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XXIII. Nemzetgazdasági Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Gazdaságfejlesztési feladatok alcím, 2. Gazdasági ellenálló képesség fejlesztése és ipari alkalmazott technológiák bevezetése jogcímcsoport terhére.
 
-## 2.14. [^10] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1.1. alpont b)–d) pontjában meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 26 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
+## 2.14. [^13] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1.1. alpont b)–d) pontjában meghatározott feladatok megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékű, 26 000 000 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport terhére.
 
 ## 3. A Kormány
 
@@ -182,7 +182,7 @@
 
 ## a) 712 815 176 forint összegű visszatérítési kötelezettséggel járó támogatást tartalmazó, valamint
 
-## b) [^11] 100 121 032 773 forint összegű vissza nem térítendő támogatást tartalmazó
+## b) [^14] 100 121 032 773 forint összegű vissza nem térítendő támogatást tartalmazó
 
 ## támogatási jogviszony létrehozásáról, azzal, hogy a támogatási szerződésben rögzítse, amennyiben az Önkormányzat a terület értékesítése során a vevőre áthárításra kerülő teljesítményarányos csatlakozási díj tekintetében az a) pont szerinti összegnél nagyobb bevételre (a továbbiakban: többletbevétel) tesz szert, a többletbevétellel azonos összegű vissza nem térítendő támogatást köteles visszafizetni a központi költségvetés javára;
 
@@ -196,25 +196,25 @@
 
 | Határidő: | azonnal |
 
-## 3.5. [^12] felhívja a nemzetgazdasági minisztert, hogy az 1.7. alpont szerinti fejlesztés és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok finanszírozása érdekében gondoskodjon az Önkormányzattal 3 182 777 137 forint összegben támogatási jogviszony létrehozásáról.
+## 3.5. [^15] felhívja a nemzetgazdasági minisztert, hogy az 1.7. alpont szerinti fejlesztés és az ahhoz kapcsolódó 1.8. alpontban meghatározott feladatok finanszírozása érdekében gondoskodjon az Önkormányzattal 3 182 777 137 forint összegben támogatási jogviszony létrehozásáról.
 
 | Felelős: | nemzetgazdasági miniszter |
 
 | Határidő: | azonnal |
 
-## 4.[^13] A Kormány az 1.7. alpont megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 1 463 284 991 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint.
+## 4.[^16] A Kormány az 1.7. alpont megvalósítása érdekében az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 1 463 284 991 forint egyszeri átcsoportosítását rendeli el, az 1. melléklet szerint.
 
 | Felelős: | energiaügyi miniszter nemzetgazdasági miniszter pénzügyminiszter |
 
 | Határidő: | azonnal |
 
-## 5.[^14]
+## 5.[^17]
 
-## 6.[^15]
+## 6.[^18]
 
-## 7.[^16]
+## 7.[^19]
 
-1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz[^17]
+1. melléklet az 1289/2023. (VII. 17.) Korm. határozathoz[^20]
 
 4X02137.pdf
 
@@ -222,16 +222,19 @@
 [^2]: Az 1. pont 1.8. alpontja az 1090/2024. (IV. 3.) Korm. határozat 3. pontjával megállapított szöveg.
 [^3]: A 2. pont 2.3. alpontja az 1118/2024. (IV. 23.) Korm. határozat 5. pontjával megállapított szöveg.
 [^4]: A 2. pont 2.4. alpontja az 1118/2024. (IV. 23.) Korm. határozat 5. pontjával megállapított szöveg.
-[^5]: A 2. pont 2.10. alpontja az 1604/2023. (XII. 22.) Korm. határozat 7. pontjával megállapított, nyitó szövegrésze az 1090/2024. (IV. 3.) Korm. határozat 11. pont a) alpontja szerint módosított szöveg.
-[^6]: A 2. pont 2.10. alpont b) pontja az 1090/2024. (IV. 3.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: A 2. pont 2.12. alpont nyitó szövegrésze az 1090/2024. (IV. 3.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
-[^8]: A 2. pont 2.12. alpont b) pontja az 1090/2024. (IV. 3.) Korm. határozat 5. pontjával megállapított, határidő szövegrésze az 1090/2024. (IV. 3.) Korm. határozat 11. pont c) alpontja szerint módosított szöveg.
-[^9]: A 2. pont 2.13. alpontja az 1090/2024. (IV. 3.) Korm. határozat 6. pontjával megállapított szöveg.
-[^10]: A 2. pont 2.14. alpontját az 1118/2024. (IV. 23.) Korm. határozat 6. pontja iktatta be.
-[^11]: A 3. pont 3.3. alpont b) pontja az 1090/2024. (IV. 3.) Korm. határozat 7. pontjával megállapított szöveg.
-[^12]: A 3. pont 3.5. alpontja az 1090/2024. (IV. 3.) Korm. határozat 8. pontjával megállapított szöveg.
-[^13]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1090/2024. (IV. 3.) Korm. határozat 9. pontja iktatta be.
-[^14]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^15]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^17]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1090/2024. (IV. 3.) Korm. határozat 10. pontja iktatta be.
+[^5]: A 2. pont 2.5. alpontja az 1268/2024. (IX. 10.) Korm. határozat 15. pontjával megállapított szöveg.
+[^6]: A 2. pont 2.6. alpontja az 1268/2024. (IX. 10.) Korm. határozat 15. pontjával megállapított szöveg.
+[^7]: A 2. pont 2.7. alpontja az 1268/2024. (IX. 10.) Korm. határozat 15. pontjával megállapított szöveg.
+[^8]: A 2. pont 2.8. alpontja az 1268/2024. (IX. 10.) Korm. határozat 15. pontjával megállapított szöveg.
+[^9]: A 2. pont 2.10. alpontja az 1268/2024. (IX. 10.) Korm. határozat 16. pontjával megállapított szöveg.
+[^10]: A 2. pont 2.12. alpont nyitó szövegrésze az 1090/2024. (IV. 3.) Korm. határozat 11. pont b) alpontja szerint módosított szöveg.
+[^11]: A 2. pont 2.12. alpont b) pontja az 1090/2024. (IV. 3.) Korm. határozat 5. pontjával megállapított, határidő szövegrésze az 1090/2024. (IV. 3.) Korm. határozat 11. pont c) alpontja szerint módosított szöveg.
+[^12]: A 2. pont 2.13. alpontja az 1090/2024. (IV. 3.) Korm. határozat 6. pontjával megállapított szöveg.
+[^13]: A 2. pont 2.14. alpontját az 1118/2024. (IV. 23.) Korm. határozat 6. pontja iktatta be.
+[^14]: A 3. pont 3.3. alpont b) pontja az 1090/2024. (IV. 3.) Korm. határozat 7. pontjával megállapított szöveg.
+[^15]: A 3. pont 3.5. alpontja az 1090/2024. (IV. 3.) Korm. határozat 8. pontjával megállapított szöveg.
+[^16]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1090/2024. (IV. 3.) Korm. határozat 9. pontja iktatta be.
+[^17]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1090/2024. (IV. 3.) Korm. határozat 10. pontja iktatta be.
