@@ -10,13 +10,13 @@
 
 ## [a továbbiakban az a), b) és c) alpont szerinti beruházások együtt: Beruházások];
 
-## 1.2. felhívja a pénzügyminisztert, hogy – az energiaügyi miniszter kezdeményezésére – a Beruházások megvalósítása érdekében gondoskodjon 115 678 365 400 forint forrás biztosításáról, a következő ütemezés szerint:
+## 1.2.[^1] felhívja a pénzügyminisztert, hogy – az energiaügyi miniszter kezdeményezésére – a Beruházások megvalósítása érdekében gondoskodjon 115 678 365 400 forint forrás biztosításáról, a következő ütemezés szerint:
 
 ## a) a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvénynek a Magyarország 2023. évi központi költségvetésének a veszélyhelyzettel összefüggő eltérő szabályairól szóló 613/2022. (XII. 29.) Korm. rendelet 1. mellékletével eltérően megállapított XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 100 060 000 forint erejéig,
 
-## b) a 2024. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 2 073 243 200 forint erejéig,
+## b)[^2] a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára 800 480 000 forint erejéig,
 
-## c) a 2025. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 9 372 620 200 forint erejéig,
+## c)[^3] a 2025. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 10 645 383 400 forint erejéig,
 
 ## d) a 2026. évi központi költségvetésről szóló törvényben meghatározott térségi fejlesztési feladatok ellátását szolgáló előirányzat javára 23 096 849 800 forint erejéig,
 
@@ -26,7 +26,7 @@
 
 | Felelős: | pénzügyminiszter energiaügyi miniszter |
 
-| Határidő: | az a) alpont tekintetében a felmerülés ütemében a b)–f) alpont tekintetében az adott évi központi költségvetés tervezésekor |
+| Határidő: | az a) és b) pont tekintetében a felmerülés ütemében a c)–f) pont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 1.3. felhívja az energiaügyi minisztert, hogy gondoskodjon a MAVIR Magyar Villamosenergia-ipari Átviteli Rendszerirányító Zártkörűen Működő Részvénytársasággal a Beruházások megvalósításáról és azok érdekében 115 349 000 000 forint összegű, vissza nem térítendő támogatás nyújtásáról szóló támogatási szerződés megkötéséről;
 
@@ -40,21 +40,24 @@
 
 | Határidő: | a támogatási szerződés megkötésére a 2026. évi forrás rendelkezésre állását követően azonnal |
 
-## 2.[^1]
+## 2.[^4]
 
-## 3.[^2]
+## 3.[^5]
 
-## 4.[^3]
+## 4.[^6]
 
-## 5.[^4]
+## 5.[^7]
 
-## 6.[^5]
+## 6.[^8]
 
-1. melléklet az 1052/2023. (II. 23.) Korm. határozathoz[^6]
+1. melléklet az 1052/2023. (II. 23.) Korm. határozathoz[^9]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.2. pont záró szövegrésze az 1268/2024. (IX. 10.) Korm. határozat 27. pont a)-b) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.2. alpont b) pontja az 1268/2024. (IX. 10.) Korm. határozat 10. pontjával megállapított szöveg.
+[^3]: Az 1. pont 1.2. alpont c) pontja az 1268/2024. (IX. 10.) Korm. határozat 10. pontjával megállapított szöveg.
+[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

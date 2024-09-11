@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1052-30
 | --- | --- | --- |
 | 2023-02-23 | 2023-1052-30-22.1 | 1052/2023. (II. 23.) Korm. határozat |
 | 2023-02-24 | 2023-1052-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-09-11 | 2023-1052-30-22.3 | 1268/2024. (IX. 10.) Korm. határozat |
