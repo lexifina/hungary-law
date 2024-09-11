@@ -1,0 +1,1 @@
+9. § Hatályát veszti a földgázellátásról szóló 2008. évi XL. törvény és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 289/2023. (VII. 5.) Korm. rendelet.
