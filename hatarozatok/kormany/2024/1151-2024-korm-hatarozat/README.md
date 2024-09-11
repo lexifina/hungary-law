@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1151-30
 | --- | --- | --- |
 | 2024-05-23 | 2024-1151-30-22.1 | 1151/2024. (V. 23.) Korm. határozat |
 | 2024-05-24 | 2024-1151-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-09-11 | 2024-1151-30-22.3 | 1268/2024. (IX. 10.) Korm. határozat |

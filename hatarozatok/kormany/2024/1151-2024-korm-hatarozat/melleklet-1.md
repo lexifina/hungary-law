@@ -72,17 +72,20 @@
 
 | Határidő: | az e kormányhatározat közzétételét követő 30 napon belül |
 
+## 3.10. [^1] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1. pont 1.1. alpont a)–d) pontja szerinti beruházások előkészítése és megvalósítása érdekében a 2024. évben legfeljebb a szabad előirányzatot meghaladó mértékben, 4 010 123 076 forint összegben kötelezettséget vállaljon a Kvtv2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport terhére.
+
 ## 4. A Kormány az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Törvény) 4. § (2) bekezdésében biztosított jogkörében eljárva – a beruházások gyors lefolytatása érdekében – az 1.1–1.2. alpontban meghatározott fejlesztéseket, az ahhoz fűződő kiemelt nemzeti és befektetésösztönzési érdekre tekintettel, mentesíti a Törvény rendelkezéseinek alkalmazása alól.
 
-## 5.[^1]
+## 5.[^2]
 
-## 6.[^2]
+## 6.[^3]
 
-## 7.[^3]
+## 7.[^4]
 
-1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^4]
+1. melléklet az 1151/2024. (V. 23.) Korm. határozathoz[^5]
 
-[^1]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont 3.10. alpontját az 1268/2024. (IX. 10.) Korm. határozat 25. pontja iktatta be.
+[^2]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
