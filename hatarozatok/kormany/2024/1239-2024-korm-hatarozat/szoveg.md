@@ -36,18 +36,23 @@ c) felhívja az építési és közlekedési minisztert, hogy vizsgálja felül 
 
 12.[^11]
 
-13. Ez a határozat – a 14. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
+13.[^12] Ez a határozat – a 14. és 15. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
-14. A 2., 3., 5., 6. és 11. pont 2025. január 1-jén lép hatályba.
+14.[^13] A 2., 3. és 6. pont 2024. szeptember 15-én lép hatályba.
 
-[^1]: A 2. pont a 14. pont alapján 2025. január 1-jén lép hatályba.
-[^2]: A 3. pont a 14. pont alapján 2025. január 1-jén lép hatályba.
+15.[^14] Az 5. és 11. pont 2025. január 1-jén lép hatályba.
+
+[^1]: A 2. pont a 14. pont alapján 2024. szeptember 15-én lép hatályba.
+[^2]: A 3. pont a 14. pont alapján 2024. szeptember 15-én lép hatályba.
 [^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 5. pont a 14. pont alapján 2025. január 1-jén lép hatályba.
-[^5]: A 6. pont a 14. pont alapján 2025. január 1-jén lép hatályba.
+[^4]: Az 5. pont a 15. pont alapján 2025. január 1-jén lép hatályba.
+[^5]: A 6. pont a 14. pont alapján 2024. szeptember 15-én lép hatályba.
 [^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 11. pont a 14. pont alapján 2025. január 1-jén lép hatályba.
+[^10]: A 11. pont a 15. pont alapján 2025. január 1-jén lép hatályba.
 [^11]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. pont az 1268/2024. (IX. 10.) Korm. határozat 27. pont h) alpontja szerint módosított szöveg.
+[^13]: A 14. pont az 1268/2024. (IX. 10.) Korm. határozat 26. pontjával megállapított szöveg.
+[^14]: A 15. pontot az 1268/2024. (IX. 10.) Korm. határozat 26. pontja iktatta be.
