@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1177-30
 | --- | --- | --- |
 | 2023-04-28 | 2023-1177-30-22.1 | 1177/2023. (IV. 28.) Korm. határozat |
 | 2023-07-27 | 2023-1177-30-22.2 | 1335/2023. (VII. 27.) Korm. határozat |
+| 2024-09-11 | 2023-1177-30-22.3 | 1335/2023. (VII. 27.) Korm. határozat |

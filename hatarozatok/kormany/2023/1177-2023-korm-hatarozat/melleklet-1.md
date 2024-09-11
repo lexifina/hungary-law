@@ -8,17 +8,19 @@
 
 ## 5. egyetért a Debrecen város technológiai vízellátásához szükséges, a Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársaság vagyonkezelésében lévő, balmazújvárosi Keleti-főcsatornához tartozó vízműtelep-fejlesztés előkészítésével és megvalósításával;
 
-## 6. felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter és az építési és közlekedési miniszter kezdeményezésére, az 1–4. pontban megjelölt fejlesztés előkészítése és megvalósítása érdekében gondoskodjon 71 822 067 400 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 6.[^1] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 1–4. pontban megjelölt fejlesztés előkészítése és megvalósítása érdekében gondoskodjon 71 822 067 400 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
-## a) a 2023. évben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport javára 8 591 151 600 forint,
+## a) a 2023. évben a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény (a továbbiakban: Kvtv.) 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport javára 1 646 987 600 forint,
 
-## b) a 2024. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztéseket finanszírozó előirányzat javára 46 520 895 800 forint,
+## b) a 2024. évben a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény (a továbbiakban: Kvtv. 2024.) 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 2. Víziközmű-fejlesztések jogcímcsoport javára 20 474 377 260 forint,
 
-## c) a 2025. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztéseket finanszírozó előirányzat javára 16 710 020 000 forint;
+## c) a 2025. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat javára 48 700 102 540 forint,
 
-| Felelős: | pénzügyminiszter külgazdasági és külügyminiszter építési és közlekedési miniszter |
+## d) a 2026. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat javára 1 000 600 000 forint;
 
-| Határidő: | az a) alpont tekintetében azonnal a b)–c) alpont tekintetében az adott évi központi költségvetés tervezésekor |
+| Felelős: | pénzügyminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter |
+
+| Határidő: | az a) alpont tekintetében azonnal a b) alpont tekintetében a felmerülés ütemében a c) és d) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
 ## 7. felhívja az építési és közlekedési minisztert, hogy az 1–4. pont szerinti fejlesztés teljes, 2023–2025 közötti időtartamára, 71 779 000 000 forint támogatási összegre vonatkozóan hozza létre a támogatási jogviszonyt Debrecen Megyei Jogú Város Önkormányzatával;
 
@@ -26,35 +28,35 @@
 
 | Határidő: | az e határozat közzétételét követő harminc nap |
 
-## 8.[^1] felhívja a pénzügyminisztert, hogy a külgazdasági és külügyminiszter, valamint az építési és közlekedési miniszter kezdeményezésére, az 5. pontban megjelölt fejlesztés előkészítéséhez és megvalósításához szükséges feladatok megvalósítása érdekében gondoskodjon összesen legfeljebb 37 039 655 800 forint forrás biztosításáról, az alábbi ütemezés szerint:
+## 8.[^2] felhívja a pénzügyminisztert, hogy az építési és közlekedési miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére, az 5. pontban megjelölt fejlesztés előkészítéséhez és megvalósításához szükséges feladatok megvalósítása érdekében gondoskodjon összesen legfeljebb 37 039 655 800 forint forrás biztosításáról, az alábbi ütemezés szerint:
 
-## a) a 2023. évben a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport javára legfeljebb 1 822 092 600 forint,
+## a) 2024. évben a Kvtv. 2024. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 2. Települési és infrastrukturális fejlesztési feladatok alcím, 2. Víziközmű-fejlesztések jogcímcsoport javára legfeljebb 3 737 241 000 forint,
 
-## b) a 2024. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztéseket finanszírozó előirányzat javára legfeljebb 17 141 278 600 forint,
+## b) a 2025. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat javára legfeljebb 14 948 964 000 forint,
 
-## c) a 2025. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztéseket finanszírozó előirányzat javára 10 292 171 600 forint,
+## c) a 2026. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat javára 14 948 964 000 forint,
 
-## d) a 2026. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztéseket finanszírozó előirányzat javára 6 859 113 000 forint,
+## d) a 2027. évben a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat javára 2 479 486 800 forint,
 
-## e) a 2023. évben a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím javára legfeljebb 50 000 000 forint,
+## e) a 2024. évben a Kvtv. 2024. 1. melléklet XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím javára legfeljebb 92 500 000 forint,
 
-## f) a 2024. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára legfeljebb 443 000 000 forint,
+## f) a 2025. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára legfeljebb 370 000 000 forint,
 
-## g) a 2025. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára 258 000 000 forint,
+## g) a 2026. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára 370 000 000 forint,
 
-## h) a 2026. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára 174 000 000 forint;
+## h) a 2027. évben a központi költségvetés XLV. Állami beruházások fejezet, Egyes közmű és hulladékgazdálkodási beruházásokat finanszírozó előirányzat javára 92 500 000 forint.
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter külgazdasági és külügyminiszter |
 
-| Határidő: | az a) és az e) alpont tekintetében a felmerülés ütemében a b) és az f) alpont tekintetében a 2024. évi költségvetés végrehajtása során, a felmerülés ütemében a c)–d) és a g)–h) alpont tekintetében az adott évi központi költségvetés tervezésekor |
+| Határidő: | az a) és e) alpont tekintetében a felmerülés ütemében a b)–d) és f)–h) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-## 9.[^2] felhívja az építési és közlekedési minisztert, hogy az 5. pontban megjelölt feladat tekintetében, a 2023–2026 közötti időtartamra, a 8. pont a)–d) alpontja szerinti forrás terhére legfeljebb 36 093 000 000 forint támogatási összegre vonatkozóan hozza létre a támogatási jogviszonyt a Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársasággal;
+## 9.[^3] felhívja az építési és közlekedési minisztert, hogy az 5. pontban megjelölt feladat tekintetében, a 2024–2027 közötti időtartamra, a 8. pont a)–d) alpontja szerinti forrás terhére legfeljebb 36 093 000 000 forint támogatási összegre vonatkozóan hozza létre a támogatási jogviszonyt a Tiszamenti Regionális Vízművek Zártkörűen működő Részvénytársasággal;
 
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | az e határozat közzétételét követő harminc nap |
 
-## 9a.[^3] felhívja az építési és közlekedési minisztert, hogy az 5. pontban megjelölt feladat tekintetében, a 2023–2026 közötti időtartamra, a 8. pont e)–h) alpontja szerinti forrás terhére gondoskodjon a fejlesztés megvalósítása céljából az Építési és Közlekedési Minisztérium által ellátandó műszaki ellenőri feladatok finanszírozása érdekében legfeljebb 925 000 000 forint ütemezett rendelkezésre állásáról;
+## 9a.[^4] felhívja az építési és közlekedési minisztert, hogy az 5. pontban megjelölt feladat tekintetében, a 2024–2027 közötti időtartamra, a 8. pont e)–h) alpontja szerinti forrás terhére gondoskodjon a fejlesztés megvalósítása céljából az Építési és Közlekedési Minisztérium által ellátandó műszaki ellenőri feladatok finanszírozása érdekében legfeljebb 925 000 000 forint ütemezett rendelkezésre állásáról;
 
 | Felelős: | építési és közlekedési miniszter |
 
@@ -62,13 +64,13 @@
 
 ## 10. az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az építési és közlekedési miniszter az 1–5. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához legfeljebb 108 797 000 000 forint kötelezettséget vállaljon;
 
-## 11. az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1–5. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport terhére vállalható kötelezettségek felső korlátját
+## 11.[^5] az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 1–5. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, Víziközmű-fejlesztések finanszírozását szolgáló előirányzat terhére vállalható kötelezettségek felső korlátját
 
-## a)[^4] a 2024. évben 63 624 000 000 forint,
+## a) a 2025. évben 63 610 900 000 forint,
 
-## b)[^5] a 2025. évben 26 986 000 000 forint,
+## b) a 2026. évben 15 940 000 000 forint,
 
-## c)[^6] a 2026. évben 6 855 000 000 forint
+## c) a 2027. évben 2 478 000 000 forint
 
 ## összegben állapítja meg;
 
@@ -78,19 +80,9 @@
 
 | Határidő: | folyamatos |
 
-## 13.[^7] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1–5. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához a 2023. évben kötelezettséget vállaljon legfeljebb a szabad előirányzatot meghaladó mértékű
+## 13.[^6] az Áht. 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy az építési és közlekedési miniszter az 1–5. pontban foglalt fejlesztések komplex előkészítéséhez és megvalósításához a 2024. évben kötelezettséget vállaljon legfeljebb a szabad előirányzatot meghaladó mértékű 92 500 000 forint összegben a Kvtv. 2024. 1. melléklet XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím terhére;
 
-## a) 10 407 000 000 forint összegben a Kvtv. 1. melléklet XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 15. Infrastruktúra-fejlesztési beruházások alcím, 3. Víziközmű-fejlesztések jogcímcsoport terhére,
-
-## b) 50 000 000 forint összegben a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím terhére;
-
-## 14.[^8] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 5. pontban foglalt fejlesztések Építési és Közlekedési Minisztérium által ellátandó feladatok finanszírozása érdekében a 2024–2026. évekre a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím terhére vállalható kötelezettségek felső korlátját 875 000 000 forintban határozza meg, az alábbi ütemezés szerint:
-
-## a) a 2024. évben 443 000 000 forint,
-
-## b) a 2025. évben 258 000 000 forint,
-
-## c) a 2026. évben 174 000 000 forint.
+## 14.[^7] az egyes beruházási szabályok veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 541/2022. (XII. 22.) Korm. rendelet 4. § (7) bekezdés b) pontjában biztosított jogkörében eljárva az 5. pontban foglalt fejlesztések Építési és Közlekedési Minisztérium által ellátandó feladatok finanszírozása érdekében a 2025–2027. évekre a központi költségvetés XLV. Állami beruházások fejezet, 6. Egyes közmű és hulladékgazdálkodási beruházások cím terhére vállalható kötelezettségek felső korlátját 832 500 000 forintban határozza meg.
 
 1. melléklet az 1177/2023. (IV. 28.) Korm. határozathoz
 
@@ -116,11 +108,10 @@ A Debrecen város víziközműinfrastruktúra-fejlesztéseinek előkészítésé
 
 | 9. | DEBKÖZMŰ-4/B | 2024–2025 | Debrecen Megyei Jogú Város Önkormányzata | Debrecen város technológiai vízellátás (megvalósítás) |
 
-[^1]: A 8. pont az 1335/2023. (VII. 27.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 9. pont az 1335/2023. (VII. 27.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 9a. pontot az 1335/2023. (VII. 27.) Korm. határozat 2. pontja iktatta be.
-[^4]: A 11. pont a) alpontja az 1335/2023. (VII. 27.) Korm. határozat 5. pont a) pontja szerint módosított szöveg.
-[^5]: A 11. pont b) alpontja az 1335/2023. (VII. 27.) Korm. határozat 5. pont b) pontja szerint módosított szöveg.
-[^6]: A 11. pont c) alpontja az 1335/2023. (VII. 27.) Korm. határozat 5. pont c) pontja szerint módosított szöveg.
-[^7]: A 13. pontot az 1335/2023. (VII. 27.) Korm. határozat 3. pontja iktatta be.
-[^8]: A 14. pontot az 1335/2023. (VII. 27.) Korm. határozat 4. pontja iktatta be.
+[^1]: A 6. pont az 1268/2024. (IX. 10.) Korm. határozat 11. pontjával megállapított szöveg.
+[^2]: A 8. pont az 1268/2024. (IX. 10.) Korm. határozat 12. pontjával megállapított szöveg.
+[^3]: A 9. pont az 1335/2023. (VII. 27.) Korm. határozat 2. pontjával megállapított, nyitó szövegrésze az 1268/2024. (IX. 10.) Korm. határozat 27. pont c) alpontja szerint módosított szöveg.
+[^4]: A 9a. pontot az 1335/2023. (VII. 27.) Korm. határozat 2. pontja iktatta be, nyitó szövegrésze az 1268/2024. (IX. 10.) Korm. határozat 27. pont c) alpontja szerint módosított szöveg.
+[^5]: A 11. pont az 1268/2024. (IX. 10.) Korm. határozat 13. pontjával megállapított szöveg.
+[^6]: A 13. pontot az 1335/2023. (VII. 27.) Korm. határozat 3. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 14. pontjával megállapított szöveg.
+[^7]: A 14. pontot az 1335/2023. (VII. 27.) Korm. határozat 4. pontja iktatta be, szövege az 1268/2024. (IX. 10.) Korm. határozat 14. pontjával megállapított szöveg.
