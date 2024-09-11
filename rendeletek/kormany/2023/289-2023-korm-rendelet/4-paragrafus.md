@@ -1,3 +1,0 @@
-4. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-(2) E rendeletet az e rendelet hatálybalépésekor folyamatban lévő, a csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény, valamint a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 521/2022. (XII. 13.) Korm. rendelet 4. §-a és a többségi befolyás alatt álló gazdálkodó szervezetek felszámolásának veszélyhelyzeti szabályairól szóló 64/2023. (III. 1.) Korm. rendelet 3. §-a alapján elrendelt felszámolási eljárás alatt álló földgázelosztó rendszerüzemeltető adósok vonatkozásában is alkalmazni kell.

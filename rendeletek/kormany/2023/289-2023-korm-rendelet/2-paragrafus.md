@@ -1,1 +1,0 @@
-2. § A felszámolás alá került földgázelosztó rendszerüzemeltető – a 3. §-ban foglalt kivétellel – továbbra is üzemeltetheti a működési engedélyében szereplő elosztóvezetékrendszert, és elláthatja a földgázelosztói rendszerüzemeltetői feladatokat.
