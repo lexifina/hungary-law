@@ -1,3 +1,3 @@
-7. §[^13]
+7. §[^14]
 
-[^13]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 3. § 69. pontja hatályon kívül helyezte.
+[^14]: A 7. §-t a 118/2008. (V. 8.) Korm. rendelet 3. § 69. pontja hatályon kívül helyezte.

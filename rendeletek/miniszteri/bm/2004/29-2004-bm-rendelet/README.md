@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-29-20-0
 | 2023-01-01 | 2004-29-20-0A.19 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2024-01-03 | 2004-29-20-0A.20 | 9/2022. (VIII. 1.) TIM rendelet |
 | 2024-01-14 | 2004-29-20-0A.21 | 46/2009. (IX. 25.) IRM rendelet |
+| 2024-09-11 | 2004-29-20-0A.22 | 47/2024. (XII. 30.) ÉKM rendelet |

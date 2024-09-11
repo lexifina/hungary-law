@@ -60,7 +60,7 @@
 
 | 13. Az egyénileg kiválasztott és az egyedileg előállított rendszámok, valamint a KR. 63/A. § (2) bekezdés 7–11. pontja alapján kiadott ideiglenes rendszámok, továbbá a rendszámtábla utángyártás, legyártás és típusváltás engedélyezésének hatósági díja tartalmazza a hatósági jelzés kiadásával kapcsolatos eljárási díjat is. A közlekedési hatóság igazolásával engedélyezett rendszámtábla felszerelésekor a hatósági jelzés kiadásával kapcsolatos eljárási díj tartalmazza a regisztrációs matrica egyedi kiadásával kapcsolatos eljárási díjat is. |  |
 
-3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^16]
+3. számú melléklet a 29/2004. (VI. 16.) BM rendelethez[^17]
 
 Az előzetes eredetiségellenőrzés
 
@@ -110,4 +110,4 @@ Az előzetes eredetiségellenőrzés hatósági díjai
 
 | 7.3. Különleges pótkocsi (felépítménnyel ellátott) | 19 000 |
 
-[^16]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított, a 6/2009. (III. 31.) IRM rendelet 41. §-a, az 1/2017. (I. 3.) NFM rendelet 39. § (5) bekezdése szerint módosított szöveg.
+[^17]: A 3. számú melléklet a 15/2007. (III. 13.) IRM rendelet 2. §-ával megállapított, a 6/2009. (III. 31.) IRM rendelet 41. §-a, az 1/2017. (I. 3.) NFM rendelet 39. § (5) bekezdése szerint módosított szöveg.
