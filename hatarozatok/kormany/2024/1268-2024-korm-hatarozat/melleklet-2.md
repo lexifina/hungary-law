@@ -1,7 +1,3 @@
-## „
+2. melléklet az 1268/2024. (IX. 10.) Korm. határozathoz[^29]
 
-| 17. | 1289/2023. (VII. 17.) Korm. határozat | 0 | 0 | 14 233 679 741 | 11 733 580 510 | 48 456 305 121 | 32 412 582 577 | 0 | 0 | 106 836 147 949 |
-
-## ”
-
-2. melléklet az 1268/2024. (IX. 10.) Korm. határozathoz
+[^29]: A 2. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
