@@ -1,1 +1,3 @@
-9. § Hatályát veszti a földgázellátásról szóló 2008. évi XL. törvény és a földgázellátásról szóló 2008. évi XL. törvény rendelkezéseinek végrehajtásáról szóló 19/2009. (I. 30.) Korm. rendelet veszélyhelyzet ideje alatt történő eltérő alkalmazásáról szóló 289/2023. (VII. 5.) Korm. rendelet.
+9. §[^3]
+
+[^3]: A 9. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
