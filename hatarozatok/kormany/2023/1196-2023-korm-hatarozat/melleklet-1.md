@@ -124,11 +124,11 @@
 
 | 38. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Jász-Nagykun-Szolnok Vármegye Integrált Területi Programja | 97,35 | PO2: Zöldebb Európa (ERFA) | 10,52 |
 
-| 39. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 10,92 |
+| 39. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,17[^1] |
 
 | 40. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 11,78 |
 
-| 41. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 64,13 |
+| 41. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 63,88[^2] |
 
 | 42. | Komárom-Esztergom Vármegyei Önkormányzat | Komárom-Esztergom Vármegye Integrált Területi Programja | 53,63 | PO2: Zöldebb Európa (ERFA) | 5,77 |
 
@@ -172,11 +172,11 @@
 
 | 62. | Tolna Vármegyei Önkormányzat | Tolna Vármegye Integrált Területi Programja | 49,92 | PO2: Zöldebb Európa (ERFA) | 5,39 |
 
-| 63. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,92 |
+| 63. | PO4: Szociálisabb és Befogadóbb Európa (ERFA) | 11,67[^3] |
 
 | 64. | PO4: Szociálisabb és Befogadóbb Európa (ESZA+) | 6,04 |
 
-| 65. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 26,57 |
+| 65. | PO5: Polgárokhoz közelebb álló Európa (ERFA) | 26,82[^4] |
 
 | 66. | Vas Vármegyei Önkormányzat | Vas Vármegye Integrált Területi Programja | 49,33 | PO2: Zöldebb Európa (ERFA) | 5,31 |
 
@@ -214,19 +214,19 @@
 
 | 4. | Békés Vármegyei Önkormányzat | 0,00 | 23,80 | 11,35 | 10,25 | 9,03 | 2,43 | 11,66 | 3,72 | 20,12 | 2,43 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | 0,41 | 30,21 | 17,83 | 16,22 | 14,70 | 3,49 | 23,62 | 5,64 | 37,02 | 1,20 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | 0,31[^5] | 30,31[^6] | 16,42[^7] | 16,22 | 14,70 | 3,49 | 23,12[^8] | 6,14[^9] | 37,02 | 2,62[^10] |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | 0,01 | 21,71 | 14,32 | 10,15 | 6,59 | 4,78 | 7,55 | 4,18 | 20,24 | 4,51 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | 0,01 | 21,71 | 14,32 | 10,15 | 6,59 | 4,78 | 6,15[^11] | 5,58[^12] | 20,24 | 4,51 |
 
-| 7. | Fejér Vármegyei Önkormányzat | 0,50 | 20,17 | 5,20 | 8,27 | 6,13 | 2,72 | 7,47 | 5,14 | 10,84 | 6,76 |
+| 7. | Fejér Vármegyei Önkormányzat | 0,50 | 20,21[^13] | 5,16[^14] | 8,27 | 6,13 | 2,72 | 7,47 | 5,14 | 10,84 | 6,76 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | 0,00 | 14,85 | 14,45 | 7,53 | 7,12 | 1,38 | 10,59 | 5,40 | 7,96 | 1,00 |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | 0,00 | 14,85 | 14,45 | 7,53 | 7,12 | 1,38 | 10,59 | 5,40 | 6,21[^15] | 2,75[^16] |
 
-| 9. | Hajdú-Bihar Vármegyei Önkormányzat | 0,10 | 33,63 | 13,12 | 13,74 | 9,48 | 5,93 | 8,47 | 8,74 | 22,81 | 11,30 |
+| 9. | Hajdú-Bihar Vármegyei Önkormányzat | 0,10 | 33,63 | 14,54[^17] | 13,74 | 9,48 | 5,93 | 8,47 | 8,74 | 22,81 | 9,88[^18] |
 
 | 10. | Heves Vármegyei Önkormányzat | 0,04 | 18,56 | 1,97 | 7,37 | 7,16 | 1,10 | 10,63 | 0,88 | 19,30 | 1,28 |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | 0,00 | 19,32 | 8,16 | 10,52 | 6,17 | 5,60 | 7,70 | 3,22 | 30,23 | 6,42 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | 0,00 | 19,07[^19] | 8,16 | 10,52 | 6,17 | 5,60 | 6,74[^20] | 4,43[^21] | 30,23 | 6,42 |
 
 | 12. | Komárom-Esztergom Vármegyei Önkormányzat | 0,00 | 13,17 | 5,57 | 5,77 | 4,43 | 2,06 | 6,32 | 0,80 | 8,52 | 7,00 |
 
@@ -238,7 +238,7 @@
 
 | 16. | Szabolcs-Szatmár-Bereg Vármegyei Önkormányzat | 0,00 | 34,45 | 19,76 | 17,99 | 11,64 | 8,47 | 18,00 | 7,86 | 38,13 | 10,00 |
 
-| 17. | Tolna Vármegyei Önkormányzat | 0,10 | 7,06 | 10,41 | 5,39 | 3,25 | 2,79 | 7,47 | 4,45 | 6,94 | 2,07 |
+| 17. | Tolna Vármegyei Önkormányzat | 0,10 | 6,66[^22] | 11,06[^23] | 5,39 | 3,25 | 2,79 | 7,47 | 4,20[^24] | 6,94 | 2,07 |
 
 | 18. | Vas Vármegyei Önkormányzat | 0,20 | 13,33 | 8,29 | 5,31 | 4,17 | 1,80 | 6,87 | 2,23 | 6,93 | 0,20 |
 
@@ -416,7 +416,7 @@
 
 | 22. | TPO23 | Munkaerőpiaci alkalmazkodást segítő támogatásban részesülők száma (fő) | 6 | 115 | 11 | 203 | 5 | 86 | 8 | 143 | 5,00 | 89,00 | 6 | 118 |
 
-| 23. | TPO24 | Foglalkoztatást elősegítő szolgáltatásokban és tevékenységekben részt vevők száma (fő) | 98 | 1 942 | 172 | 2 500 | 73 | 1 441 | 121 | 2 402 | 75,00 | 1 492,00 | 99 | 1978 |
+| 23. | TPO24 | Foglalkoztatást elősegítő szolgáltatásokban és tevékenységekben részt vevők száma (fő) | 98 | 1 942 | 172 | 2 500 | 73 | 1 441 | 121 | 2 402 | 75,00 | 1 603,00[^25] | 99 | 1978 |
 
 | 24. | TPR02 | Program elhagyásának időpontjában foglalkoztatásban – beleértve az önfoglalkoztatást – álló résztvevők száma (fő) | 0 | 997 | 0 | 1 757 | 0 | 740 | 0 | 1 233 | 0 | 766,00 | 0 | 1015 |
 
@@ -626,9 +626,9 @@
 
 | Gyula és térsége | 6,59 | 4,62 | 0,70 | 1,25 | 0,02 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 31,85 | 19,03 | 3,69 | 5,64 | 3,49 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 32,35[^26] | 19,03 | 3,69 | 6,14[^27] | 3,49 |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 9,11 | 4,83 | 1,70 | 1,20 | 1,38 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 10,51[^28] | 4,83 | 1,70 | 2,60[^29] | 1,38 |
 
 | Hódmezővásárhely MJV | 7,71 | 5,12 | 0,77 | 0,85 | 0,97 |
 
@@ -644,11 +644,11 @@
 
 | Gárdony | 2,19 | 0,89 | 0,65 | 0,43 | 0,22 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 14,18 | 8,68 | 1,60 | 3,10 | 0,80 |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 15,68[^30] | 10,18[^31] | 1,60 | 3,10 | 0,80 |
 
 | Sopron MJV | 7,76 | 5,03 | 0,62 | 1,68 | 0,43 |
 
-| Mosonmagyaróvár | 2,74 | 1,73 | 0,23 | 0,62 | 0,16 |
+| Mosonmagyaróvár | 2,99[^32] | 1,98[^33] | 0,23 | 0,62 | 0,16 |
 
 | 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 43,36 | 24,42 | 4,27 | 8,74 | 5,93 |
 
@@ -658,7 +658,7 @@
 
 | Hatvan | 1,40 | 0,85 | 0,12 | 0,19 | 0,24 |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 26,36 | 14,58 | 2,96 | 3,22 | 5,60 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 27,57[^34] | 14,58 | 2,96 | 4,43[^35] | 5,60 |
 
 | 12. | Komárom-Esztergom Vármegyei Önkormányzat | Tatabánya MJV | 12,30 | 8,15 | 2,19 | 0,40 | 1,56 |
 
@@ -678,9 +678,9 @@
 
 | Paks | 7,12 | 3,82 | 0,74 | 1,43 | 1,13 |
 
-| Dombóvár | 7,08 | 4,11 | 0,73 | 1,42 | 0,82 |
+| Dombóvár | 7,47[^36] | 4,50[^37] | 0,73 | 1,42 | 0,82 |
 
-| Bonyhád | 4,96 | 3,00 | 0,52 | 1,05 | 0,39 |
+| Bonyhád | 4,96 | 3,25[^38] | 0,52 | 0,80[^39] | 0,39 |
 
 | 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 13,45 | 8,49 | 0,93 | 2,23 | 1,80 |
 
@@ -716,9 +716,9 @@
 
 | Gyula és térsége | 4,32 | 0,70 | 0,02 | 1,25 | 0,30 |
 
-| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 17,83 | 3,69 | 3,49 | 5,64 | 1,20 |
+| 5. | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat | Miskolc MJV | 16,42[^40] | 3,69 | 3,49 | 6,14[^41] | 2,62[^42] |
 
-| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 4,23 | 1,70 | 1,38 | 1,20 | 0,60 |
+| 6. | Csongrád-Csanád Vármegyei Önkormányzat | Szeged MJV | 4,23 | 1,70 | 1,38 | 2,60[^43] | 0,60 |
 
 | Hódmezővásárhely MJV | 2,11 | 0,77 | 0,97 | 0,85 | 3,01 |
 
@@ -734,13 +734,13 @@
 
 | Gárdony | 0,89 | 0,65 | 0,22 | 0,43 | 0,00 |
 
-| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 8,68 | 1,60 | 0,80 | 3,10 | 0,00 |
+| 8. | Győr-Moson-Sopron Vármegyei Önkormányzat | Győr MJV | 8,68 | 1,60 | 0,80 | 3,10 | 1,50[^44] |
 
 | Sopron MJV | 5,03 | 0,62 | 0,43 | 1,68 | 0,00 |
 
-| Mosonmagyaróvár | 0,73 | 0,23 | 0,16 | 0,62 | 1,00 |
+| Mosonmagyaróvár | 0,73 | 0,23 | 0,16 | 0,62 | 1,25[^45] |
 
-| 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 13,12 | 4,27 | 5,93 | 8,74 | 11,30 |
+| 9. | Hajdú-Bihar Vármegyei Önkormányzat | Debrecen MJV | 14,54[^46] | 4,27 | 5,93 | 8,74 | 9,88[^47] |
 
 | 10. | Heves Vármegyei Önkormányzat | Eger MJV | 0,75 | 1,41 | 0,59 | 0,47 | 0,88 |
 
@@ -748,7 +748,7 @@
 
 | Hatvan | 0,45 | 0,12 | 0,24 | 0,19 | 0,40 |
 
-| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 8,16 | 2,96 | 5,60 | 3,22 | 6,42 |
+| 11. | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Szolnok MJV és térsége | 8,16 | 2,96 | 5,60 | 4,43[^48] | 6,42 |
 
 | 12. | Komárom-Esztergom Vármegyei Önkormányzat | Tatabánya MJV | 4,15 | 2,19 | 1,56 | 0,40 | 4,00 |
 
@@ -768,9 +768,9 @@
 
 | Paks | 3,82 | 0,74 | 1,13 | 1,43 | 0,00 |
 
-| Dombóvár | 3,82 | 0,73 | 0,82 | 1,42 | 0,29 |
+| Dombóvár | 4,21[^49] | 0,73 | 0,82 | 1,42 | 0,29 |
 
-| Bonyhád | 1,23 | 0,52 | 0,39 | 1,05 | 1,77 |
+| Bonyhád | 1,48[^50] | 0,52 | 0,39 | 0,80[^51] | 1,77 |
 
 | 18. | Vas Vármegyei Önkormányzat | Szombathely MJV | 8,29 | 0,93 | 1,80 | 2,23 | 0,20 |
 
@@ -778,10 +778,369 @@
 
 | Pápa | 3,72 | 1,53 | 0,87 | 2,31 | 2,78 |
 
-| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 0,58 | 0,80 | 0,20 | 1,76 | 4,17 |
+| 20. | Zala Vármegyei Önkormányzat | Zalaegerszeg MJV | 0,38[^52] | 0,80 | 0,20 | 1,76 | 4,36[^53] |
 
 | Nagykanizsa MJV | 2,74 | 0,70 | 0,20 | 1,56 | 2,70 |
 
-| Keszthely | 4,03 | 0,70 | 0,30 | 0,05 | 3,72 |
+| Keszthely | 4,43[^54] | 0,70 | 0,30 | 0,05 | 3,32[^55] |
 
-| Lenti | 3,50 | 3,29 | 0,20 | 0,60 | 0,50 |
+| Lenti | 3,30[^56] | 3,29 | 0,20 | 0,60 | 0,70[^57] |
+
+6.[^58] a) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásaihoz tartozó fenntartható városfejlesztési eszköz keretében kijelölt települések (FVS) indikátorok célértékei:
+
+|  | A | B | C | D | E | F | G | H | I | J |
+
+| 1. | Indikátor | Indikátor megnevezése | Bács-Kiskun Vármegyei Önkormányzat | Baranya Vármegyei Önkormányzat | Békés Vármegyei Önkormányzat | Borsod-Abaúj-Zemplén Vármegyei Önkormányzat |
+
+| Kecskemét MJV által a TVP-ben vállalt célérték (2029) | Baja MJV által a TVP-ben vállalt célérték (2029) | Pécs MJV által a TVP-ben vállalt célérték (2029) | Komló által a TVP-ben vállalt célérték (2029) | Mohács által a TVP-ben vállalt célérték (2029) | Békéscsaba és várostérsége által a TVP-ben vállalt célérték (2029) | Gyula és várostérsége által a TVP-ben vállalt célérték (2029) | Miskolc MJV által a TVP-ben vállalt célérték (2029) |
+
+| 2. | RCO74 | Az integrált területfejlesztési stratégiák keretébe tartozó projektek által érintett lakosság (fő) | 108 817 | 33 364 | 138 420 | 21 927 | 16 993 | 58 002 | 37 848 | 150 695 |
+
+| 3. | RCO75 | Támogatott integrált területfejlesztési stratégiák (db) | 2 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 4. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 1,49 | 0,2 | 0,4 | 1 | 12 | 7,78 | 7,60 | 10,5 |
+
+| 5. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 4 | 2,45 | 3 | 1 | 0 | 11,20 | 8,25 | 4,36 |
+
+| 6. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 3,05 | 2,4 | 8 | 3,5 | 0 | 9,20 | 5,00 | 12,95 |
+
+| 7. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 24 800 | 1 000 | 15 000 | 500 | 0 | 1 000 | 0 | 0 |
+
+| 8. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0 | 0 | 0 | 0,1 | 0 | 0 | 0 | 0 |
+
+| 9. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (db) | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+| 10. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 1 500 | 0 | 0 | 80 | 1 300 | 30 000 | 0 | 0 |
+
+| 11. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 0 | 1 000 | 1 350 | 0 | 0 | 8 000 | 0 | 0 |
+
+| 12. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 0 | 0 | 0 | 0 | 1 550 | 0 | 0 |
+
+| 13. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 5 | 1 | 25 | 25 | 0 | 0 | 0 | 0 |
+
+| 14. | TPR09 | A projekt keretében integrált területre költözők száma (fő) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 15. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 21 260 | 1 799 | 6 320 | 2 000 | 1 450 | 6 330 | 22 342 | 0 |
+
+| 16. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 1,4 | 314,946 | 0 | 0,0513 | 0 | 0 | 0 | 0 |
+
+| 17. | RCR29 | Becsült üvegházhatásúgáz-kibocsátás (CO2t/év) | 537 | 73,402 | 653,67 | 65,43 | 0 | 370 | 0 | 417 |
+
+| 18. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia) (MW) | 0,0000 | 0,0777 | 0,108 | 60,28 | 0 | 0 | 0 | 0 |
+
+| 19. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 61,520 | 8,547 | 162 | 60,28 | 0 | 0 | 0 | 0 |
+
+| 20. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+
+| 21. | TPO13 | Hátrányos helyzetűeket célzó programok száma (db) | 35 | 11 | 0 | 1 | 4 | 650 | 0 | 0 |
+
+| 22. | TPO14 | Egyéb, nem közösségi célú programok száma (db) | 15 | 0 | 30 | 0 | 0 | 10 | 0 | 0 |
+
+| 23. | TPO25 | Fejlesztéssel érintett akcióterület száma (db) | 1 | 4 | 2 | 5 | 2 | 1 | 0 | 0 |
+
+| 24. | TPR05 | A programokkal elért hátrányos helyzetű személyek száma (fő) | 3 050 | 1 000 | 3 200 | 15 | 75 | 7 000 | 0 | 0 |
+
+| 25. | TPR10 | Azon települések száma, ahol javult a foglalkoztatáshoz, oktatáshoz, egészségügyhöz, szociális és/vagy lakhatási szolgáltatásokhoz való hozzáférés (db) | 1 | 1 | 1 | 1 | 0 | 2 | 0 | 0 |
+
+| 26. | TPR15 | Program eredményként integrált területre költözők száma (fő) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 27. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 178 | 0 | 115 | 60 | 0 | 50 | 0 | 0 |
+
+| 28. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 29. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 787 | 50 | 400 | 180 | 197 | 250 | 0 | 0 |
+
+| 30. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 57 | 0 | 0 | 0 | 0 | 20 | 0 | 0 |
+
+| 31. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 50 | 0 | 0 | 180 | 164 | 1 500 | 125,00 | 808 |
+
+| 32. | TPR11 | Újonnan létrehozott bölcsődei ellátással rendelkező települések száma (ahol 2020. 12. 31-én nem működött bölcsődei szolgáltatás) (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 33. | TPR12 | Fejlesztett óvodai ellátással rendelkező települések száma (db) | 0 | 1 | 1 | 2 | 1 | 2 | 0 | 0 |
+
+| 34. | RCO67 | Az új vagy korszerűsített oktatási létesítmények osztálytermi kapacitása (db) | 0 | 150 | 3 150 | 0 | 0 | 20 | 0 | 0 |
+
+| 35. | TPO30 | Korszerűsített köznevelési intézmények száma (db) | 1 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+
+| 36. | TPO31 | Korszerűsített kollégiumok száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 37. | RCR71 | Az új vagy korszerűsített oktatási létesítmények éves felhasználói (db) | 0 | 200 | 0 | 0 | 0 | 300 | 0 | 0 |
+
+| 38. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (db) | 0 | 0 | 7 | 0 | 0 | 7 | 17 | 4 |
+
+| 39. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 0 | 0 | 0 | 0 | 0 | 30 000 | 16 600 | 3 600 |
+
+| 40. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (db) | 2 | 0 | 6 | 0 | 1 | 6 | 7 | 7 |
+
+| 41. | TPR13 | Fejlesztett egészségügyi szolgáltatásokkal rendelkező települések száma (db) | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+
+| 42. | TPR14 | Újonnan létrehozott vagy férőhelybővítéssel érintett szociális alapszolgáltatásokkal és gyermekjóléti alapellátásokkal rendelkező települések száma (db) | 0 | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+
+| 43. | RCO04 | Nem pénzügyi támogatásban részesített vállalkozások (db) | 18 | 0 | 200 | 2 | 0 | 6 | 22 | 9 |
+
+| 44. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 45. | TPO32 | Közétkeztetési fejlesztések száma (db) | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+
+| 46. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (db) | 5 | 2 | 4 | 3 | 1 | 1 | 6 | 1 |
+
+| 47. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 0 | 0 | 1 | 0 | 0 | 1 | 0 | 0 |
+
+6. b) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásaihoz tartozó FVS indikátorok célértékei:
+
+|  | A | B | C | D | E | F | G | H | I | J | K | L | M |
+
+| 1. | Indikátor | Indikátor megnevezése | Csongrád-Csanád Vármegyei Önkormányzat | Fejér Vármegyei Önkormányzat | Győr-Moson-Sopron Vármegyei Önkormányzat |
+
+| Szeged MJV által a TVP-ben vállalt célérték (2029) | Hódmezővásárhely MJV által a TVP-ben vállalt célérték (2029) | Makó által a TVP-ben vállalt célérték (2029) | Szentes által a TVP-ben vállalt célérték (2029) | Székesfehérvár MJV által a TVP-ben vállalt célérték (2029) | Dunaújváros MJV által a TVP-ben vállalt célérték (2029) | Mór által a TVP-ben vállalt célérték (2029) | Gárdony által a TVP-ben vállalt célérték (2029) | Győr MJV által a TVP-ben vállalt célérték (2029) | Sopron MJV által a TVP-ben vállalt célérték (2029) | Mosonmagyaróvár által a TVP-ben vállalt célérték (2029) |
+
+| 2. | RCO74 | Az integrált területfejlesztési stratégiák keretébe tartozó projektek által érintett lakosság (fő) | 159 074 | 43 441 | 22 289 | 26 813 | 95 915 | 33 000 | 13 518 | 13 486 | 42 000 | 62 900 | 32 000 |
+
+| 3. | RCO75 | Támogatott integrált területfejlesztési stratégiák (db) | 1 | 9 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 4. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 7,041 | 0,363 | 2,9 | 1,06 | 50,17 | 0,5 | 0 | 0 | 0 | 0 | 5 |
+
+| 5. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 4,483 | 10 | 3 | 2,288 | 4,78 | 2,2 | 2,41 | 6,9 | 5 | 4,2 | 0 |
+
+| 6. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 4,435 | 0,77 | 10,3 | 0,91 | 2,50 | 0 | 0 | 0 | 2 | 1 | 0 |
+
+| 7. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 780 000 | 0 | 0 | 0 | 35 000 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 8. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0,097 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 9. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (db) | 1 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 10. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 15 158 | 2 900 | 0 | 0 | 6 000 | 4 450 | 0 | 150 | 14 187 250 | 1 000 | 2 000 |
+
+| 11. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 4 541 | 0 | 0 | 0 | 50 | 0 | 581 | 0 | 1 204 | 1 200 | 0 |
+
+| 12. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 0 | 10 000 | 0 | 32 000 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 13. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 2 | 30 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 | 2 |
+
+| 14. | TPR09 | A projekt keretében integrált területre költözők száma (fő) | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 2 |
+
+| 15. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 19 410,8 | 1 550 | 3 300 | 11 200 | 11 250 | 9 000 | 1 600 | 1 590 | 58 067 | 1 618 | 1 900 |
+
+| 16. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 3 795,38 | 0 | 0 | 0 | 304 945 | 290 | 0 | 0 | 0 | 0 | 0 |
+
+| 17. | RCR29 | Becsült üvegházhatásúgáz-kibocsátás (CO2t/év) | 846,72 | 86 338 | 389 | 597,52 | 457 | 105 | 29 | 0 | 0 | 81 | 0 |
+
+| 18. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia) (MW) | 0,737 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 19. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 964,960 | 0 | 0 | 0 | 950 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 20. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 1,000 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
+
+| 21. | TPO13 | Hátrányos helyzetűeket célzó programok száma (db) | 182 | 25 | 0 | 0 | 0 | 3 | 13 | 2 | 5 | 0 | 7 |
+
+| 22. | TPO14 | Egyéb, nem közösségi célú programok száma (db) | 50 | 20 | 0 | 0 | 37 | 1 | 16 | 0 | 2 | 10 | 0 |
+
+| 23. | TPO25 | Fejlesztéssel érintett akcióterület száma (db) | 1 | 6 | 4 | 0 | 0 | 0 | 1 | 0 | 0 | 2 | 0 |
+
+| 24. | TPR05 | A programokkal elért hátrányos helyzetű személyek száma (fő) | 13 725 | 150 | 0 | 0 | 0 | 2 500 | 925 | 0 | 0 | 0 | 50 |
+
+| 25. | TPR10 | Azon települések száma, ahol javult a foglalkoztatáshoz, oktatáshoz, egészségügyhöz, szociális és/vagy lakhatási szolgáltatásokhoz való hozzáférés (db) | 5 | 0 | 0 | 0 | 1 | 1 | 1 | 0 | 0 | 1 | 1 |
+
+| 26. | TPR15 | Program eredményként integrált területre költözők száma (fő) | 2 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 0 | 0 | 0 |
+
+| 27. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 502 | 0 | 0 | 0 | 80 | 0 | 0 | 0 | 0 | 0 | 84 |
+
+| 28. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 29. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 690 | 0 | 375 | 0 | 487 | 96 | 0 | 0 | 0 | 0 | 60 |
+
+| 30. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 31. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 1 192 | 0 | 0 | 994 | 443 | 96 | 0 | 165 | 211 | 0 | 0 |
+
+| 32. | TPR11 | Újonnan létrehozott bölcsődei ellátással rendelkező települések száma (ahol 2020. 12. 31-én nem működött bölcsődei szolgáltatás) (db) | 0 | 0 | 0 |  | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 33. | TPR12 | Fejlesztett óvodai ellátással rendelkező települések száma (db) | 1 | 0 | 1 |  | 1 | 1 | 0 | 0 | 0 | 0 | 1 |
+
+| 34. | RCO67 | Az új vagy korszerűsített oktatási létesítmények osztálytermi kapacitása (db) | 0 | 0 | 14 | 1 020 | 95 | 270 | 1 000 | 0 | 0 | 400 | 300 |
+
+| 35. | TPO30 | Korszerűsített köznevelési intézmények száma (db) | 0 | 0 | 3 | 0 | 6 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+| 36. | TPO31 | Korszerűsített kollégiumok száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 37. | RCR71 | Az új vagy korszerűsített oktatási létesítmények éves felhasználói (db) | 0 | 0 | 0 | 0 | 2 070 | 270 | 395 | 0 | 0 | 400 | 0 |
+
+| 38. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (db) | 14 | 6 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 41 | 0 |
+
+| 39. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 97 794 | 0 | 0 | 4 600 | 0 | 0 | 0 | 0 | 60 | 0 | 0 |
+
+| 40. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (db) | 2 | 0 | 0 | 5 | 9 | 1 | 1 | 0 | 0 | 0 | 0 |
+
+| 41. | TPR13 | Fejlesztett egészségügyi szolgáltatásokkal rendelkező települések száma (db) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+
+| 42. | TPR14 | Újonnan létrehozott vagy férőhelybővítéssel érintett szociális alapszolgáltatásokkal és gyermekjóléti alapellátásokkal rendelkező települések száma (db) | 0 | 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+| 43. | RCO04 | Nem pénzügyi támogatásban részesített vállalkozások (db) | 0 | 0 | 0 | 7 | 0 | 0 | 15 | 0 | 0 | 0 | 15 |
+
+| 44. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 45. | TPO32 | Közétkeztetési fejlesztések száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+| 46. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (db) | 1 | 5 | 3 | 12 | 3 | 0 | 1 | 0 | 0 | 0 | 1 |
+
+| 47. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+6. c) A Terület- és Településfejlesztési Operatív Program Plusz 1–3. és 6. prioritásaihoz tartozó FVS indikátorok célértékei:
+
+|  | A | B | C | D | E | F | G | H | I |
+
+| 1. | Indikátor | Indikátor megnevezése | Hajdú-Bihar Vármegyei Önkormányzat | Heves Vármegyei Önkormányzat | Jász-Nagykun-Szolnok Vármegyei Önkormányzat | Komárom-Esztergom Vármegyei Önkormányzat |
+
+| Debrecen MJV által a TVP-ben vállalt célérték (2029) | Eger MJV által a TVP-ben vállalt célérték (2029) | Hatvan által a TVP-ben vállalt célérték (2029) | Gyöngyös által a TVP-ben vállalt célérték (2029) | Szolnok MJV és várostérsége által a TVP-ben vállalt célérték (2029) | Tatabánya MJV által a TVP-ben vállalt célérték (2029) | Esztergom MJV által a TVP-ben vállalt célérték (2029) |
+
+| 2. | RCO74 | Az integrált területfejlesztési stratégiák keretébe tartozó projektek által érintett lakosság (fő) | 199 725 | 0 | 19 965 | 28 000 | 96 707 | 65 145 | 28 000 |
+
+| 3. | RCO75 | Támogatott integrált területfejlesztési stratégiák (db) | 1 | 2 | 1 | 1 | 1 | 8 | 1 |
+
+| 4. | RCO26 | Az éghajlatváltozáshoz való alkalmazkodás céljából épített vagy felújított zöld infrastruktúra (ha) | 6,85 | 0 | 0,01 | 2 | 38,70 | 0 | 1 |
+
+| 5. | RCO46 | Átépített vagy korszerűsített közutak hossza – nem TEN-T (km) | 7,9 | 5 | 0,5 | 0 | 10,98 | 2,615 | 0,300 |
+
+| 6. | RCO58 | Támogatott célzott kerékpáros infrastruktúra (km) | 5,969 | 0 | 0 | 4 | 1,80 | 3,200 | 0 |
+
+| 7. | RCR64 | A célzott kerékpáros infrastruktúra éves felhasználói (fő/év) | 64 160 | 0 | 0 | 0 | 3 000 | 0 | 0 |
+
+| 8. | TPO08 | A rehabilitált talaj összkiterjedése (ha) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 9. | TPO10 | Kialakított új, forgalomcsillapított övezetek száma (db) | 2 | 0 | 0 | 0 | 0 | 1 | 0 |
+
+| 10. | TPO11 | Fejlesztéssel érintett közösségi területek nagysága (m2) | 106 180 | 8 000 | 200 | 0 | 15 335 | 0 | 2 000 |
+
+| 11. | TPO35 | Bel- és csapadék-vízvédelmi létesítmények hossza (m) | 2 900 | 1 250 | 0 | 0 | 6 585 | 3 555 | 0 |
+
+| 12. | RCR35 | Árvízvédelmi intézkedésekkel érintett lakosság (fő) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 13. | RCO65 | Az új vagy korszerűsített szociális lakások kapacitása (fő) | 0 | 0 | 0 | 0 | 24 | 200 | 0 |
+
+| 14. | TPR09 | A projekt keretében integrált területre költözők száma (fő) | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
+
+| 15. | RCO19 | Jobb energiahatékonyságú középületek (m2) | 6 445 | 15 100 | 290 | 7 800 | 21 203 | 13 205 | 3 500 |
+
+| 16. | RCR26 | Éves primerenergia-fogyasztás (MWh/év) | 1 931 | 0 | 45 | 0 | 4 023,50 | 0 | 0 |
+
+| 17. | RCR29 | Becsült üvegházhatásúgáz-kibocsátás (CO2t/év) | 456 | 0 | 12 | 0 | 715,28 | 1 456 | 9 |
+
+| 18. | RCO22 | Megújuló energiát előállító addicionális termelőkapacitás (ebből: villamos energia, hőenergia) (MW) | 0,32 | 0 | 0 | 0 | 0,75 | 0 | 0 |
+
+| 19. | RCR31 | Összes előállított megújuló energia (ebből: villamos energia, hőenergia) (MWh/év) | 388 | 0 | 0 | 0 | 1 837,80 | 0 | 0 |
+
+| 20. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 1 | 1 | 0 | 0 | 1 | 0 | 1 |
+
+| 21. | TPO13 | Hátrányos helyzetűeket célzó programok száma (db) | 25 | 0 | 5 | 10 | 131 | 0 | 3 |
+
+| 22. | TPO14 | Egyéb, nem közösségi célú programok száma (db) | 10 | 0 | 0 | 0 | 110 | 0 | 0 |
+
+| 23. | TPO25 | Fejlesztéssel érintett akcióterület száma (db) | 3 | 2 | 2 | 0 | 18 | 0 | 3 |
+
+| 24. | TPR05 | A programokkal elért hátrányos helyzetű személyek száma (fő) | 9 100 | 100 | 80 | 800 | 860 | 31 720 | 900 |
+
+| 25. | TPR10 | Azon települések száma, ahol javult a foglalkoztatáshoz, oktatáshoz, egészségügyhöz, szociális és/vagy lakhatási szolgáltatásokhoz való hozzáférés (db) | 1 | 0 | 1 | 0 | 14 | 1 | 1 |
+
+| 26. | TPR15 | Program eredményként integrált területre költözők száma (fő) | 0 | 5 | 0 | 0 | 0 | 0 | 0 |
+
+| 27. | TPO26 | Fejlesztett, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 286 | 0 | 0 | 0 | 180 | 0 | 0 |
+
+| 28. | TPO27 | Újonnan létrehozott, 0–3 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 29. | TPO28 | Fejlesztett, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 1 322 | 0 | 0 | 275 | 129 | 0 | 0 |
+
+| 30. | TPO29 | Újonnan létrehozott, 3–6 éves gyermekek elhelyezését biztosító férőhelyek száma (db) | 0 | 0 | 0 | 0 | 75 | 0 | 0 |
+
+| 31. | RCR70 | Az új vagy korszerűsített gyermekgondozási létesítmények éves felhasználói (fő) | 1 356 | 0 | 150 | 0 | 365 | 0 | 0 |
+
+| 32. | TPR11 | Újonnan létrehozott bölcsődei ellátással rendelkező települések száma (ahol 2020. 12. 31-én nem működött bölcsődei szolgáltatás) (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 33. | TPR12 | Fejlesztett óvodai ellátással rendelkező települések száma (db) | 1 | 0 | 1 | 0 | 3 | 0 | 0 |
+
+| 34. | RCO67 | Az új vagy korszerűsített oktatási létesítmények osztálytermi kapacitása (db) | 650 | 0 | 0 | 0 | 920 | 0 | 200 |
+
+| 35. | TPO30 | Korszerűsített köznevelési intézmények száma (db) | 1 | 2 | 1 | 0 | 2 | 0 | 1 |
+
+| 36. | TPO31 | Korszerűsített kollégiumok száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 37. | RCR71 | Az új vagy korszerűsített oktatási létesítmények éves felhasználói (db) | 360 | 0 | 4 500 | 0 | 765 | 0 | 200 |
+
+| 38. | TPO01 | Fejlesztéssel érintett egészségügyi alapellátást nyújtó szolgálatok (benne: háziorvos, házi gyermekorvos, fogorvosi, védőnői szolgálat és kapcsolódó ügyeleti ellátás, iskola-egészségügyi ellátás) száma (db) | 28 | 1 | 0 | 0 | 7 | 0 | 0 |
+
+| 39. | RCR73 | Az új vagy korszerűsített egészségügyi ellátó létesítmények éves felhasználói (fő) | 40 560 | 0 | 0 | 0 | 9 071 | 0 | 0 |
+
+| 40. | TPO02 | A fejlesztés révén létrejövő, megújuló szociális alapszolgáltatások és gyermekjóléti alapellátások száma (db) | 5 | 2 | 0 | 3 | 8 | 0 | 0 |
+
+| 41. | TPR13 | Fejlesztett egészségügyi szolgáltatásokkal rendelkező települések száma (db) | 1 | 0 | 0 | 0 | 1 | 0 | 0 |
+
+| 42. | TPR14 | Újonnan létrehozott vagy férőhelybővítéssel érintett szociális alapszolgáltatásokkal és gyermekjóléti alapellátásokkal rendelkező települések száma (db) | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+
+| 43. | RCO04 | Nem pénzügyi támogatásban részesített vállalkozások (db) | 0 | 0 | 0 | 0 | 42 | 0 | 30 |
+
+| 44. | TPO07 | Támogatásban részesülő önkormányzati tulajdonú vállalkozások száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+
+| 45. | TPO32 | Közétkeztetési fejlesztések száma (db) | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+| 46. | RCO77 | Támogatott kulturális és turisztikai helyszínek száma (db) | 3 | 6 | 0 | 0 | 10 | 2 | 2 |
+
+| 47. | TPO09 | Fejlesztéssel érintett fürdők száma (db) | 1 | 0 | 0 | 0 | 1 | 0 | 1 |
+
+[^1]: Az 1. melléklet 1. pontjában foglalt táblázat E:39 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont aa) pontjával megállapított szöveg.
+[^2]: Az 1. melléklet 1. pontjában foglalt táblázat E:41 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ab) pontjával megállapított szöveg.
+[^3]: Az 1. melléklet 1. pontjában foglalt táblázat E:63 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ac) pontjával megállapított szöveg.
+[^4]: Az 1. melléklet 1. pontjában foglalt táblázat E:65 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont a) alpont ad) pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 2. pontjában foglalt táblázat B:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont ba) pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 2. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bb) pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 2. pontjában foglalt táblázat D:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bc) pontjával megállapított szöveg.
+[^8]: Az 1. melléklet 2. pontjában foglalt táblázat H:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bd) pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 2. pontjában foglalt táblázat I:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont be) pontjával megállapított szöveg.
+[^10]: Az 1. melléklet 2. pontjában foglalt táblázat K:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bf) pontjával megállapított szöveg.
+[^11]: Az 1. melléklet 2. pontjában foglalt táblázat H:6 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bg) pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 2. pontjában foglalt táblázat I:6 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bh) pontjával megállapított szöveg.
+[^13]: Az 1. melléklet 2. pontjában foglalt táblázat C:7 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bi) pontjával megállapított szöveg.
+[^14]: Az 1. melléklet 2. pontjában foglalt táblázat D:7 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bj) pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 2. pontjában foglalt táblázat J:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bk) pontjával megállapított szöveg.
+[^16]: Az 1. melléklet 2. pontjában foglalt táblázat K:8 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bl) pontjával megállapított szöveg.
+[^17]: Az 1. melléklet 2. pontjában foglalt táblázat D:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bm) pontjával megállapított szöveg.
+[^18]: Az 1. melléklet 2. pontjában foglalt táblázat K:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bn) pontjával megállapított szöveg.
+[^19]: Az 1. melléklet 2. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bo) pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 2. pontjában foglalt táblázat H:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bp) pontjával megállapított szöveg.
+[^21]: Az 1. melléklet 2. pontjában foglalt táblázat I:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bq) pontjával megállapított szöveg.
+[^22]: Az 1. melléklet 2. pontjában foglalt táblázat C:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont br) pontjával megállapított szöveg.
+[^23]: Az 1. melléklet 2. pontjában foglalt táblázat D:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bs) pontjával megállapított szöveg.
+[^24]: Az 1. melléklet 2. pontjában foglalt táblázat I:17 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont b) alpont bt) pontjával megállapított szöveg.
+[^25]: Az 1. melléklet 3. b) pontjában foglalt táblázat N:23 mezőjében a „Vármegye által vállalt célérték (2029)” című oszlopadat az 1274/2024. (IX. 12.) Korm. határozat 1. pont c) alpont ca) pontjával megállapított szöveg.
+[^26]: Az 1. melléklet 4. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont da) pontjával megállapított szöveg.
+[^27]: Az 1. melléklet 4. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont db) pontjával megállapított szöveg.
+[^28]: Az 1. melléklet 4. pontjában foglalt táblázat C:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dc) pontjával megállapított szöveg.
+[^29]: Az 1. melléklet 4. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dd) pontjával megállapított szöveg.
+[^30]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont de) pontjával megállapított szöveg.
+[^31]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont df) pontjával megállapított szöveg.
+[^32]: Az 1. melléklet 4. pontjában foglalt táblázat C:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dg) pontjával megállapított szöveg.
+[^33]: Az 1. melléklet 4. pontjában foglalt táblázat D:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dh) pontjával megállapított szöveg.
+[^34]: Az 1. melléklet 4. pontjában foglalt táblázat C:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont di) pontjával megállapított szöveg.
+[^35]: Az 1. melléklet 4. pontjában foglalt táblázat F:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dj) pontjával megállapított szöveg.
+[^36]: Az 1. melléklet 4. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dk) pontjával megállapított szöveg.
+[^37]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dl) pontjával megállapított szöveg.
+[^38]: Az 1. melléklet 4. pontjában foglalt táblázat D:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dm) pontjával megállapított szöveg.
+[^39]: Az 1. melléklet 4. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont d) alpont dn) pontjával megállapított szöveg.
+[^40]: Az 1. melléklet 5. pontjában foglalt táblázat C:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ea) pontjával megállapított szöveg.
+[^41]: Az 1. melléklet 5. pontjában foglalt táblázat F:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eb) pontjával megállapított szöveg.
+[^42]: Az 1. melléklet 5. pontjában foglalt táblázat G:5 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ec) pontjával megállapított szöveg.
+[^43]: Az 1. melléklet 5. pontjában foglalt táblázat F:6 mezője Szeged MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ed) pontjával megállapított szöveg.
+[^44]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Győr MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított szöveg.
+[^45]: Az 1. melléklet 5. pontjában foglalt táblázat G:8 mezője Mosonmagyaróvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ef) pontjával megállapított szöveg.
+[^46]: Az 1. melléklet 5. pontjában foglalt táblázat C:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eg) pontjával megállapított szöveg.
+[^47]: Az 1. melléklet 5. pontjában foglalt táblázat G:9 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eh) pontjával megállapított szöveg.
+[^48]: Az 1. melléklet 5. pontjában foglalt táblázat F:11 mezője az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ei) pontjával megállapított szöveg.
+[^49]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Dombóvár esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ej) pontjával megállapított szöveg.
+[^50]: Az 1. melléklet 5. pontjában foglalt táblázat C:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ek) pontjával megállapított szöveg.
+[^51]: Az 1. melléklet 5. pontjában foglalt táblázat F:17 mezője Bonyhád esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont el) pontjával megállapított szöveg.
+[^52]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Zalaegerszeg MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont em) pontjával megállapított szöveg.
+[^53]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Zalaegerszeg MJV esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont en) pontjával megállapított szöveg.
+[^54]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eo) pontjával megállapított szöveg.
+[^55]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Keszthely esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont ep) pontjával megállapított szöveg.
+[^56]: Az 1. melléklet 5. pontjában foglalt táblázat C:20 mezője Lenti esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont eq) pontjával megállapított szöveg.
+[^57]: Az 1. melléklet 5. pontjában foglalt táblázat G:20 mezője Lenti esetében az 1274/2024. (IX. 12.) Korm. határozat 1. pont e) alpont er) pontjával megállapított szöveg.
+[^58]: Az 1. melléklet 6. pontját az 1274/2024. (IX. 12.) Korm. határozat 2. pontja iktatta be.
