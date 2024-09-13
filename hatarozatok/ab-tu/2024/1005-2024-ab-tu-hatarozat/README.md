@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-1005-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2024-09-12 | 2024-1005-30-29.1 | 1005/2024. (IX. 12.) AB Tü. határozat |
+| 2024-09-13 | 2024-1005-30-29.2 | 1006/2025. (IX. 30.) AB Tü. határozat |
