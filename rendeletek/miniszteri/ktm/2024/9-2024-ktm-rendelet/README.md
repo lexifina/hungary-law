@@ -1,0 +1,9 @@
+# 9/2024. (IX. 12.) KTM rendelet
+
+a kormányablakok személyi és technikai feltételeiről szóló 39/2013. (XII. 30.) KIM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-9-20-9D
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2024-09-13 | 2024-9-20-9D.1 | 9/2024. (IX. 12.) KTM rendelet |
