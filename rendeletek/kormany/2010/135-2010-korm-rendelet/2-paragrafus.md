@@ -1,1 +1,0 @@
-## 1. § A Kormány e rendelettel felhatalmazást ad a Magyar Köztársaság Kormánya és a Szerb Köztársaság Kormánya között a honvédelem terén folytatott együttműködésről szóló megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
