@@ -1,3 +1,3 @@
-3. §[^2]
+3. § (1) A Megállapodás hiteles magyar nyelvű szövegét az 1. melléklet tartalmazza.
 
-[^2]: A 3. § a 4. § (2) bekezdés alapján a Megállapodás 17. cikk (1) bekezdésében meghatározott időpontban lép hatályba.
+(2) A Megállapodás hiteles angol nyelvű szövegét a 2. melléklet tartalmazza.

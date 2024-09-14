@@ -1,3 +1,3 @@
-1. melléklet a 345/2023. (VII. 27.) Korm. rendelethez[^3]
+1. melléklet a 345/2023. (VII. 27.) Korm. rendelethez
 
-[^3]: Az 1. melléklet a 4. § (2) bekezdés alapján a Megállapodás 17. cikk (1) bekezdésében meghatározott időpontban lép hatályba.
+MEGÁLLAPODÁS MAGYARORSZÁG KORMÁNYA ÉS A SZERB KÖZTÁRSASÁG KORMÁNYA KÖZÖTT A VÉDELEM TERÉN FOLYTATOTT STRATÉGIAI SZINTŰ MEGERŐSÍTETT EGYÜTTMŰKÖDÉSRŐL
