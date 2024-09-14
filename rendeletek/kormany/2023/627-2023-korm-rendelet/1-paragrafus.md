@@ -18,9 +18,9 @@ h)[^8]
 
 i)[^9]
 
-j)[^10]
+j) a Magyar Köztársaság Kormánya és a Szerb Köztársaság Kormánya között a honvédelem terén folytatott együttműködésről szóló megállapodás kihirdetéséről szóló 135/2010. (IV. 23.) Korm. rendelet;
 
-k)[^11]
+k)[^10]
 
 [^1]: Az 1. § a) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: Az 1. § b) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -31,5 +31,4 @@ k)[^11]
 [^7]: Az 1. § g) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^8]: Az 1. § h) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^9]: Az 1. § i) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: Az 1. § j) pontja a 2. § (2) bekezdés alapján a külpolitikáért felelős miniszternek a Magyarország Kormánya és a Szerb Köztársaság Kormánya között a védelem terén folytatott stratégiai szintű megerősített együttműködésről szóló Megállapodás kihirdetéséről szóló 345/2023. (VII. 27.) Korm. rendelet 4. § (3) bekezdése szerint közzétett közleményével megállapított napon lép hatályba.
-[^11]: Az 1. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: Az 1. § k) pontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
