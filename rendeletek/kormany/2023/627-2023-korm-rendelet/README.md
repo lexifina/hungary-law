@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-627-20-
 | 2023-12-24 | 2023-627-20-22.1 | 627/2023. (XII. 23.) Korm. rendelet |
 | 2023-12-25 | 2023-627-20-22.2 | 2010. évi CXXX. törvény |
 | 2024-09-14 | 2023-627-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2024-09-15 | 2023-627-20-22.4 | 2010. évi CXXX. törvény |
