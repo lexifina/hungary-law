@@ -1,3 +1,1 @@
-14. §[^3]
-
-[^3]: A 14. § a 11. § (2) bekezdése alapján 2024. szeptember 16-án lép hatályba.
+14. § A 10. §-ban az „A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szövegrész helyébe az „A Hatóság” szöveg lép.
