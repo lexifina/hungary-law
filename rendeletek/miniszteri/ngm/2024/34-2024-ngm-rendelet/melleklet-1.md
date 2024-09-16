@@ -1,13 +1,3 @@
-1. melléklet a 34/2024. (IX. 12.) NGM rendelethez
+1. melléklet a 34/2024. (IX. 12.) NGM rendelethez[^4]
 
-A Rendelet 1. melléklet II. pontjában foglalt táblázat a következő 6. sorral egészül ki:
-
-|  | (A | B | C |
-
-|  | Állami tulajdonban álló gazdasági társaság neve | Cégjegyzékszám | Tulajdonosi joggyakorlás időtartamának vége) |
-
-„
-
-| 6. | Új Világ Nonprofit Szolgáltató Korlátolt Felelősségű Társaság | 01-09-278283 | 2026. december 31. |
-
-”
+[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
