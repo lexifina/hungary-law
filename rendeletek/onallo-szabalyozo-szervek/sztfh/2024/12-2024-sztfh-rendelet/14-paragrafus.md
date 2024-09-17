@@ -1,1 +1,3 @@
-14. § A 10. §-ban az „A Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: Hatóság)” szövegrész helyébe az „A Hatóság” szöveg lép.
+14. §[^2]
+
+[^2]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
