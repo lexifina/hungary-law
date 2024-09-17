@@ -1,0 +1,3 @@
+1. § (1) A Kormány a Magyarország folyóin levonuló súlyos és elhúzódó árhullám elleni védekezésben részt vevő védelmi és biztonsági szervezetek, illetve közigazgatási szervek védelmi feladatainak koordinálása és összehangolása céljából Magyarország egész területére összehangolt védelmi tevékenységet rendel el.
+
+(2) Az összehangolt védelmi tevékenység keretében a műveleti tevékenységek irányítását, valamint az árhullám elleni védekezésben részt vevő védelmi és biztonsági szervezetek, illetve közigazgatási szervek védekezéssel összefüggő tevékenységét a katasztrófák elleni védekezésért felelős miniszter hangolja össze.
