@@ -10,7 +10,7 @@ ac) 500 db perforátor,
 
 ad) 500 m robbanózsinór
 
-## tárolható együtt;
+tárolható együtt;
 
 b) a kerítés a földalatti térség bejáratától 10 m távolságra építhető és a kapu mérete csökkenthető;
 

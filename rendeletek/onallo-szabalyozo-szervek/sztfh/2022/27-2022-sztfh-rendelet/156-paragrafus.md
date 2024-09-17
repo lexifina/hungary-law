@@ -9,3 +9,5 @@
 a) a bánya vagy bányamező kijáratul szolgáló, behúzó légáramú akna vagy vágat, a bánya vagy bányamező energiaellátását szolgáló villamos kamra, a bánya fővízmentesítő telepe, tűz- vagy robbanásveszélyes anyagraktára között legalább 100 m, és
 
 b) az egyéb nyitott bányatérség között legalább 25 m távolság
+
+legyen.

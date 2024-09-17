@@ -1,5 +1,3 @@
-## nem lehet kisebb.
-
 153. § (1) A raktár épületének, valamint a fémbiztosítású szellőző nyílás védelmére a 135. § (6) bekezdése szerinti villámhárító berendezést kell létesíteni.
 
 (2) A földalatti térségbe vezetett fémtárgyat (különösen kábel fémburkolata és páncélzata, csővezeték, vasút) közvetlenül a bejárati ajtón kívül le kell földelni. A földalatti térségben levő azon fémtárgyakat, amelyeket egymástól 0,1 m-nél kisebb távolságra vagy egymástól 1 m-nél kisebb távolságban párhuzamosan helyeznek el, egymással össze kell kötni.

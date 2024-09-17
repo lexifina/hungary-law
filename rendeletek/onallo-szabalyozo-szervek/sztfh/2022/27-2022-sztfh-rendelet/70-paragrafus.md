@@ -4,12 +4,22 @@
 
 ## 29. Robbantási munkák felügyelete, ellenőrzése
 
-70. § (1) A robbantási munka felügyeletét, ellenőrzését a robbantásvezető köteles ellátni.
+70. § (1)[^57] A robbantásvezető
 
-(2) Az egyszeri alkalomra érvényes engedély alapján végzett robbantást a helyszínen robbantás-vezetőnek kell irányítani.
+a) ellátja a robbantási munka felügyeletét, ellenőrzését,
 
-(3) A robbantási tevékenységet, a tevékenységhez kapcsolódó létesítményeket, az alkalmazott eszközöket és a felhasználandó robbanóanyagot a robbantás-vezetőnek rendszeresen ellenőrizni kell.
+b) – az e fejezetben foglalt eltérő rendelkezés hiányában – felel az e fejezetben foglalt feladatok ellátásáért és kötelezettségek teljesítéséért.
 
-(4) A robbantás-vezető haladéktalanul köteles intézkedni az észlelt vagy tudomására jutott biztonságellenes állapot megszüntetésére.
+(2)[^58] Az egyszeri alkalomra érvényes engedély alapján végzett robbantást a helyszínen robbantásvezető irányítja.
 
-(5) Ha a robbantás-vezető, a robbantómester a hatáskörét meghaladó intézkedés kiadását tartja szükségesnek, vagy a biztonságos munkavégzéshez nem áll rendelkezésére a szükséges technikai felszerelés vagy munkaerő, köteles a személyi biztonság érdekében haladéktalanul intézkedni, és felettesének késedelem nélkül jelentést tenni.
+(3)[^59] A robbantási tevékenységet, a tevékenységhez kapcsolódó létesítményeket, az alkalmazott eszközöket és a felhasználandó robbanóanyagot a robbantásvezető rendszeresen ellenőrzi.
+
+(4)[^60] A robbantásvezető haladéktalanul intézkedik az észlelt vagy tudomására jutott biztonságellenes állapot megszüntetése iránt.
+
+(5)[^61] Ha a robbantásvezető vagy a robbantómester a hatáskörét meghaladó intézkedés kiadását tartja szükségesnek, vagy a biztonságos munkavégzéshez nem áll rendelkezésére a szükséges technikai felszerelés vagy munkaerő, a személyi biztonság érdekében haladéktalanul intézkedik, és felettesének vagy megbízójának késedelem nélkül jelentést tesz.
+
+[^57]: A 70. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^58]: A 70. § (2) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 19. pontja szerint módosított szöveg.
+[^59]: A 70. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 20. pontja szerint módosított szöveg.
+[^60]: A 70. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 21. pontja szerint módosított szöveg.
+[^61]: A 70. § (5) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 27. § (2) bekezdésével megállapított szöveg.

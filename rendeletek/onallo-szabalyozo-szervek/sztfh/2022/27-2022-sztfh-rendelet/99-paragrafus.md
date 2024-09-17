@@ -14,6 +14,6 @@ b) nem elektromos rendszert vagy
 
 c) villamosérzéketlen gyutacsot
 
-## kell használni.
+kell használni.
 
 (6) Azon a helyen, ahol kóboráram veszélyével kell számolni, a robbantás előkészítésének megkezdése előtt a kóboráram erősségét meg kell mérni.

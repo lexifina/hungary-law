@@ -1,5 +1,3 @@
-## Több tároló esetén a szomszédos tárolók közötti távolság
-
 |  | A | B | C | D | E | F |
 
 | 1. | Robbanóanyag vagy lőpor | Gyutacs | Perforátor vagy robbanózsinór a TNT-egyenértéket figyelembe véve |
@@ -16,7 +14,7 @@
 
 | 7. |  |  | 200–400 | 60 |  |  |
 
-6. melléklet a 27/2022. (I. 31.) SZTFH rendelethez
+6. melléklet a 27/2022. (I. 31.) SZTFH rendelethez[^152]
 
 Villamos gyutacsok osztályozása
 
@@ -24,10 +22,12 @@ Villamos gyutacsok osztályozása
 
 | 1. | Osztályozás | I. osztály | II. osztály | III. osztály | IV. osztály |
 
-| 2. | Küszöbáram, Inf (A) | 0,18 < Inf < 0,45 | 0,45 < Inf < 1,2 | 1,20 < Inf < 4 | 4 <Inf |
+| 2. | Kóboráram biztonság, I (A) | 0,18 < Inf < 0,45 | 0,45 < Inf < 1,2 | 1,20 < Inf < 4 | 4 <Inf |
 
-| 3. | Küszöbimpulzus, Wnf (mJ/W) | 0,5 | 8 | 80 | 500 |
+| 3. | Impulzusérzékenység (mJ/ohm) | 0,5 | 8 | 80 | 500 |
 
-| 4. | Érintkezők közötti impulzus (mJ/Ω) | 0,3 | 6 | 60 | 300 |
+| 4. | Elektrosztatikus érzékenység, izzógyújtón (mJ/Ω) | 0,3 | 6 | 60 | 300 |
 
-| 5. | Érintkezők és a gyutacs hüvely közötti impulzus (mJ/Ω) | 0,6 | 12 | 120 | 600 |
+| 5. | Elektrosztatikus érzékenység, izzógyújtó és gyutacshüvely között (mJ/Ω) | 0,6 | 12 | 120 | 600 |
+
+[^152]: A 6. melléklet a 15/2024. (IX. 9.) SZTFH rendelet 47. §-ával megállapított szöveg.

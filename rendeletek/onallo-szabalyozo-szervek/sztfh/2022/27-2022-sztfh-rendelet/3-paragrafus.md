@@ -1,17 +1,17 @@
 ## 3. Személyi feltételek
 
-3. § (1) Polgári robbantási tevékenység, robbanóanyag forgalmazás irányításával, felügyeletével az a személy bízható meg, aki
+3. §[^6] (1) Polgári robbanóanyag forgalmazás irányításával és felügyeletével az a személy bízható meg, aki
 
-a) betöltötte a 21. életévét,
+a) betöltötte a 21. életévét, és
 
-b) rendelkezik a tevékenység végzéséhez szükséges, e rendelet szerinti képzettséggel és szakmai gyakorlattal, és
+b) rendelkezik robbantásvezetői engedéllyel.
 
-c) a munkakör ellátásához egészségügyileg alkalmas.
+(2) Robbanóanyag gyártásáért felelős személyként vegyészmérnöki végzettséggel és legalább 3 éves robbanóanyag gyártási gyakorlattal rendelkező személy bízható meg. Keveréssel előállítható robbanóanyag esetén gyártásért felelős személyként olyan, robbantásvezetői engedéllyel rendelkező személy (a továbbiakban: robbantásvezető) is megbízható, aki legalább 3 éves robbantásvezetői gyakorlattal rendelkezik.
 
-(2) Robbanóanyag gyártásért felelős személyként az bízható meg, aki vegyészmérnök, és legalább 3 éves robbantóanyag gyártási gyakorlattal rendelkezik. Keveréssel előállítható robbanóanyag esetén gyártásért felelős személyként legalább 3 éves robbantásvezetői gyakorlattal rendelkező személy is megbízható.
+(3) Robbanóanyag megszerzésének, tárolásának irányításával, ellenőrzésével robbantásvezető vagy robbantómesteri engedéllyel rendelkező személy (a továbbiakban: robbantómester) bízható meg.
 
-(3) Robbanóanyag megszerzésének, tárolásának irányításával, ellenőrzésével robbantásvezetői képzettséggel, vagy legalább középfokú iskolai végzettséggel és robbantómesteri képzettséggel rendelkező személy bízható meg.
+(4) Robbantási munka tervezésével, irányításával, ellenőrzésével robbantásvezető bízható meg.
 
-(4) Robbantási munka tervezésével, irányításával, ellenőrzésével robbantásvezetői képzettséggel rendelkező személy bízható meg.
+(5) Építményrobbantással legalább 3 éves robbantásvezetői gyakorlattal rendelkező robbantásvezető bízható meg.
 
-(5) Építményrobbantás tervének elkészítésével és kivitelezésével felsőfokú műszaki végzettségű, e területen szerzett legalább 3 éves gyakorlattal rendelkező személy bízható meg.
+[^6]: A 3. § a 15/2024. (IX. 9.) SZTFH rendelet 2. §-ával megállapított szöveg.

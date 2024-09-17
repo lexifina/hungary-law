@@ -1,4 +1,4 @@
-## 9. Az építmények külső védelmi rendszerének kialakítása
+## 9.[^30] A robbanóanyag gyártására szolgáló építmények külső védelmi rendszerének kialakítása
 
 12. § (1) „RV-besorolású” építmény létesítésénél – belső védelme kialakításán túl – szükség esetén gondoskodni kell a környező építmények és az azokban foglalkoztatott személyek külső védelméről is.
 
@@ -44,7 +44,7 @@ a) védőfalat lehet építeni védősánc helyett, ha helyhiány miatt védős�
 
 b) a védőfal álljon ellen a 15. § (3) bekezdés a) pontjában meghatározott hatásoknak és ne okozzon káros visszaverődéseket,
 
-c) a védőfal anyaga helyszínen öntött monolit vasbeton, amely legalább 0,6 m-rel legyen magasabb, mint az épület párkánymagassága, a betonozást csak a terv szerinti munkahézagoknál szabad megszakítani,
+c)[^31] a védőfal anyaga helyszínen öntött monolit vasbeton vagy betonelemekből épített zárt szerkezet, amely legalább 0,6 m-rel legyen magasabb, mint az épület párkánymagassága, a betonozást csak a terv szerinti munkahézagoknál szabad megszakítani,
 
 d) a védőfal és a védett épület közötti távolság 3 m-nél kisebb és 6 m-nél nagyobb ne legyen,
 
@@ -53,3 +53,6 @@ e) a védőfalon átvezető út kijáratával szemben – attól legfeljebb 5 m-
 f) a vezetékek számára a védőfalba csak olyan áttöréseket szabad készíteni, amelyek a védőfal hatását jelentős mértékben nem csökkentik.
 
 (6) Annál az építménynél, amelynek „RV-besorolású” helyiségeiben olyan nagy mennyiségű lőpor heves égésének lehetőségével kell számolni, hogy a tűz hatása túlterjedhet a helyiség szerkezetein, a környező építmények védelme céljából – a tűztávolság megtartása mellett – az „RV-besorolású” helyiségek mellé, a védendő építmények irányába eső oldalaikon védősáncot vagy védőfalat kell kiépíteni a lángok veszélytelen irányba történő terelésére és a hősugárzás veszélyének elhárítására.
+
+[^30]: A 9. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 13. §-ával megállapított szöveg.
+[^31]: A 12. § (5) bekezdés c) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 8. pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@ c) villamos gyutacsból a 200 db-ot,
 
 d) robbanóanyagból az 5 kg-ot
 
-## nem haladhatja meg.
+nem haladhatja meg.
 
 (4) A töltőhelyiséget biztonsági zárral vagy lakattal zárható, tömör ajtóval kell ellátni.
 

@@ -6,7 +6,7 @@
 
 (3) Lőzsákba lyukat fúrni nem lehet. Töltés előtt a fúrólyukat a törmeléktől meg kell tisztítani.
 
-(4) A fúrólyuk RTE szerinti telepítését, kiképzését, a robbanóanyag elhelyezésének akadálymentességét a robbantómester töltés előtt köteles ellenőrizni. A fúrólyukban megszorult indítótöltetet nem lehet továbbítani vagy kihúzni.
+(4)[^70] A fúrólyuk RTE szerinti telepítését, kiképzését, a robbanóanyag elhelyezésének akadálymentességét a robbantómester töltés előtt ellenőrzi. A fúrólyukban megszorult indítótöltetet nem lehet továbbítani vagy kihúzni.
 
 (5) Robbanóanyag csak a gyártó által megadott használati feltételek mellett alkalmazható.
 
@@ -19,3 +19,5 @@
 (9) A gyújtózsinórt, robbanózsinórt vagy gyutacsot vezetékénél fogva nem lehet az indítótöltetből kihúzni, kirántani.
 
 (10) A fojtásnak a robbantótöltettel érintkező részét döngölni nem lehet. Közvetlenül a töltetre darabos anyagot szórni nem lehet.
+
+[^70]: A 74. § (4) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 27. pontja szerint módosított szöveg.

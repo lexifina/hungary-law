@@ -14,7 +14,7 @@ b) elektrosztatikai földelések, és
 
 c) padlóburkolatok, falburkolatok
 
-## megfelelőségét kell vizsgálni.
+megfelelőségét kell vizsgálni.
 
 (3) A felülvizsgálat célja a védelem hatásos működésének ellenőrzése.
 
@@ -38,7 +38,7 @@ c) akkreditált vizsgáló intézet vagy
 
 d) az a) és b) pont szerinti szakértőket foglalkoztató szervezet
 
-## végezheti.
+végezheti.
 
 (6) A felülvizsgálatról minősítő iratot kell készíteni, és ebben fel kell tüntetni
 

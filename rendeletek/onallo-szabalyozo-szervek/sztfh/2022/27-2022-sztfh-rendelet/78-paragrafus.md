@@ -27,3 +27,7 @@ b) az egyes gyutacsok vagy részáramkörök ellenállásaként a legnagyobb ell
 (10) Ha több gyutacsot helyeznek egy robbantótöltetbe, az azonos színű gyutacsvezeték-párokat a szétbontás előtt megkülönböztethetően meg kell jelölni.
 
 (11) Robbantóhálózat kialakításához csak azonos érzékenységű (fajlagos energiaigényű) villamos gyutacsok alkalmazhatók.
+
+(12)[^71] Az elektronikusan programozható gyutacsok alkalmazása esetében a gyártói kezelési utasítás szerint kell eljárni.
+
+[^71]: A 78. § (12) bekezdését a 15/2024. (IX. 9.) SZTFH rendelet 30. §-a iktatta be.

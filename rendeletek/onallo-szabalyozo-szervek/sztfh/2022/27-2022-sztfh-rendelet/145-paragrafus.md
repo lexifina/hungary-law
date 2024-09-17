@@ -1,6 +1,6 @@
 ## 68. Földalatti robbanóanyag-raktár telepítési, kiviteli, üzemeltetési követelményei
 
-145. § (1) Földalatti raktár – az egyenérték alapján átszámított – legfeljebb 60 000 kg mennyiség tárolására létesíthető. Az 500 kg-ot meg nem haladó mennyiség esetén a 155. § a) pontjában foglalt eltérések alkalmazhatók. A robbanóanyag átszámítására a 129. § (6) bekezdés a) pontja az irányadó.
+145. § (1)[^116] Földalatti raktár – az egyenérték alapján átszámított – legfeljebb 60 000 kg mennyiség tárolására létesíthető. Az 500 kg-ot meg nem haladó mennyiség esetén a 155. § a) pontjában foglalt eltérések alkalmazhatók. A robbantóanyag átszámítására a 129. § (6) bekezdés a) pontja az irányadó.
 
 (2) Az azonos fajta robbantóanyag tárolására külön tárolókamrát kell építeni, ha
 
@@ -10,10 +10,14 @@ b) lőporból 2000 kg-ot,
 
 c) gyutacsból 200 000 db-ot,
 
-d) perforátorból 5000 db-ot,
+d)[^117] perforátorból 5000 db-ot vagy,
 
 e) robbanózsinórból 5000 m-t
 
-## meghaladó mennyiség tárolása szükséges.
+meghaladó mennyiség tárolása szükséges.
 
-(3) A robbanóanyagokat és a robbanóanyagot tartalmazó tárgyakat külön tárolókamrában kell tárolni.
+(3)[^118] A robbantóanyagokat külön tárolókamrában kell tárolni.
+
+[^116]: A 145. § (1) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 51. pontja szerint módosított szöveg.
+[^117]: A 145. § (2) bekezdés d) pontja a 15/2024. (IX. 9.) SZTFH rendelet 48. § 52. pontja szerint módosított szöveg.
+[^118]: A 145. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 53. pontja szerint módosított szöveg.

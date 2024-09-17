@@ -8,7 +8,7 @@
 
 a) az esetleges robbanás során keletkező léglökés nyomó és szívóhatásának, a szeizmikus hatásnak, az épületszerkezetek és berendezések szétrepülő darabjainak, termék szétrepülő részeinek, a gyújtóhatásnak ellen kell állnia,
 
-b) a terelőfal anyaga helyszínen öntött monolit vasbeton, amelynek a betonozását csak a terv szerinti munkahézagoknál szabad megszakítani,
+b)[^32] a terelőfal anyaga helyszínen öntött monolit vasbeton vagy betonelemekből épített zárt szerkezet, amelynek a betonozását vagy szerelését csak a terv szerinti munkahézagoknál szabad megszakítani,
 
 c) a terelőfal teteje legalább 50 cm-rel legyen a tetősík felett, kifúvófalak mellett legalább 50 cm-rel nyúljon a homlokzat síkja elé,
 
@@ -52,7 +52,7 @@ e) a kifúvófödém legfeljebb közepesen éghető lehet.
 
 (7) Az „RV-besorolású” helyiség ajtajának létesítési követelményei a következők:
 
-a) az ajtónak tűzállósági szempontból A1–A2 tűzvédelmi osztályúnak kell lennie (kivétel a kifúvófalban lévő ajtó, amely lehet D tűzvédelmi osztályú is), „RV-1” és „RV-2” besorolású helyiségnél EI 30, „RV-3” és „RV-4” besorolású helyiségnél EI 15 tűzállósági határértékűnek kell lennie,
+a)[^33] az ajtónak tűzállósági szempontból az Országos Tűzvédelmi Szabályzatról szóló miniszteri rendelet szerinti tűzvédelmi osztályúnak kell lennie, a kifúvófalban lévő ajtó kivételével, amely lehet tűzvédelmi osztályba nem sorolt is; valamint az „RV-1” és „RV-2” besorolású helyiségnél EI 30, az „RV-3” és „RV-4” besorolású helyiségnél EI 15 tűzállósági teljesítményűnek kell lennie,
 
 b) terelőfalba ajtó beépítését kerülni kell, ha mégis szükséges, a robbanás hatásának ellenálló ajtót kell rendszeresíteni,
 
@@ -115,3 +115,6 @@ e) veszélyes mértékű elektrosztatikus feltöltődésre hajlamos anyagot bels
 f) az „RV-1”, „RV-2” besorolású helyiség falai és mennyezetei mosható, padlóburkolata ne okozzon mechanikai szikrát (nem szükséges a szikramentesség, ha a padlónak savállónak kell lennie, de a padlót rendszeresen nedvesen kell tartani), és
 
 g) az „RV-besorolású” helyiség padlója általában egy szintben legyen, ha ez nem lehetséges, az átjárást lépcső nélkül, 1,5%-nál nem nagyobb lejtővel kell biztosítani úgy, hogy helyiségenként a padló lejtése az 1,5%-ot nem haladhatja meg.
+
+[^32]: A 15. § (3) bekezdés b) pontja a 15/2024. (IX. 9.) SZTFH rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^33]: A 15. § (7) bekezdés a) pontja a 15/2024. (IX. 9.) SZTFH rendelet 14. § (2) bekezdésével megállapított szöveg.

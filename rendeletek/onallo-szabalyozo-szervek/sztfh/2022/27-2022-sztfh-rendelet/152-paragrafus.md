@@ -15,3 +15,5 @@ b) az összekötő vágatok talpszintjén 5 luxnál,
 c) a tárolókamrák talpszintjén 40 luxnál,
 
 d) az előtér talpszintjén 60 luxnál
+
+nem lehet kisebb.

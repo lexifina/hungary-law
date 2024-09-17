@@ -13,3 +13,5 @@ a) a Magyar Honvédség, a rendvédelmi szerv, továbbá Magyarország terület�
 b) a polgári felhasználású pirotechnikai termék, és
 
 c) a polgári felhasználású lőszer
+
+gyártására, tárolására, felhasználására, vizsgálatára és megsemmisítésére.

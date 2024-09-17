@@ -14,7 +14,7 @@ a) 100 kg-nál kevesebb robbanóanyag esetén legalább egy,
 
 b) 100 kg-nál több robbanóanyag esetén legalább három
 
-## kocsit kell elhelyezni.
+kocsit kell elhelyezni.
 
 (6) Csővel, idomvassal, sínnel, bányafával vagy hasonló jellegű anyaggal rakott kocsi és a robbanóanyagot szállító kocsi közé legalább egy végfalas vagy fedett kocsit kell besorolni.
 

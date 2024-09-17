@@ -1,4 +1,4 @@
-## 16. Fűtés, hűtés
+## 16.[^37] A gyártó létesítmény fűtése, hűtése
 
 21. § (1) Az „RV-besorolású” építmény hőközpontját vagy hűtőközpontját úgy kell elhelyezni, hogy ne érintkezzen „RV-besorolású” helyiség falával. A kondenzvíz vezetékébe robbanóanyag leválasztó egységet kell beépíteni az építmény határán belül. A hőközpont vagy a hűtőközpont az „RV-besorolású” épület külső bejáratú helyiségében is elhelyezhető, ha az a technológiával szorosan összefügg, vagy ha nem kerül közvetlenül „RV-besorolású” helyiség mellé és a hőközpont vagy a hűtőközpont esetleges robbanástól védett.
 
@@ -47,3 +47,5 @@ c) „RV-4” besorolású helyiség és szabadtér esetén
 ca) a fűtőtesten és a hozzá tartozó csővezetéken kívül a helyiségben szabályozó és elzáró szerelvényeket, tágulási tartályt, légtelenítő szelepet, légtelenítő edényt, nyomásmérő és szabályozó szerelvényt, hőmérsékletmérő és szabályozó szerelvényt szabad elhelyezni,
 
 cb) a bordás fűtőtest kivételével mindenfajta fűtőtestet szabad alkalmazni.
+
+[^37]: A 16. alcím címe a 15/2024. (IX. 9.) SZTFH rendelet 18. §-ával megállapított szöveg.

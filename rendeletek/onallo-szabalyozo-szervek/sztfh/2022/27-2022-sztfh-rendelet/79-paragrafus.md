@@ -2,7 +2,7 @@
 
 (2) A gyutacsvezeték, a robbantóvezeték, valamint ezek közös kötési helyeit szigetelni kell, vagy úgy kell elrendezni, hogy egymással vagy vezetőképes anyaggal ne érintkezhessenek.
 
-(3) A robbantómester köteles a gyutacsok összekapcsolásának és a kötési helyek szigetelésének, elrendezésének megfelelőségét ellenőrizni.
+(3)[^72] A robbantómester ellenőrzi a gyutacsok összekapcsolásának és a kötési helyek szigetelésének, elrendezésének megfelelőségét.
 
 (4) Robbantóvezetékként réz erű, acélszállal erősített, sodrott, a robbantógép csúcsfeszültségének megfelelő szigetelésű vezetéket szabad használni.
 
@@ -19,3 +19,5 @@
 (10) Robbantóvezeték hosszabbítása esetén a kötési helyeket megfelelően szigetelni kell.
 
 (11) Fektetéskor szemrevételezéssel ellenőrizni kell a robbantóvezeték burkolatát, szigetelését. Sérült robbantóvezeték nem használható.
+
+[^72]: A 79. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 31. §-ával megállapított szöveg.

@@ -38,8 +38,10 @@ d) a robbanóanyag környezetében előre nem látható gyújtást eredményező
 
 e) bbanóanyagot tartalmazó csomagolási egységeket dobálni, rázni, ütni, ejteni.
 
-(6) Aki robbantási munkával kapcsolatban robbanóanyag elvesztéséről, eltulajdonításáról, engedély nélküli felhasználásáról, őrizet nélkül hagyott robbanóanyagról tudomást szerez, robbanóanyagot talál, köteles erről a robbantómesternek vagy a felügyeleti személynek haladéktalanul jelentést tenni. A jelentést intézkedés céljából továbbítani kell a robbantás-vezetőnek.
+(6)[^14] Aki robbantási munkával kapcsolatban robbanóanyag elvesztéséről, eltulajdonításáról, engedély nélküli felhasználásáról, őrizet nélkül hagyott robbanóanyagról tudomást szerez, robbanóanyagot talál, köteles erről a robbantómesternek vagy a felügyeleti személynek haladéktalanul jelentést tenni. A jelentést intézkedés céljából továbbítani kell a robbantásvezetőnek.
 
 (7) A polgári robbantási tevékenység során talált robbanóanyagot haladéktalanul be kell jelenteni a bányafelügyeletnek, egyéb tevékenység során talált robbanóanyagot a rendőrségnek. A bányafelügyelet a rendőrség bevonásával, valamint a rendőrség saját hatáskörében intézkedik a talált robbanóanyag rendőrségi hatósági tárolásáról, megsemmisítéséről.
 
 (8) A robbanóanyag elvesztéséről, eltulajdonításáról – függetlenül az elkövető személyének megállapításától – a rendőrségnek, valamint a bányafelügyeletnek azonnal jelentést kell tenni.
+
+[^14]: A 6. § (6) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 2. pontja szerint módosított szöveg.

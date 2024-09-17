@@ -14,7 +14,7 @@ f) szabályos használat, és
 
 g) baleset elleni védelem
 
-## szempontjából az első üzembe helyezés előtt és időszakosan biztonsági felülvizsgálatnak kell alávetni.
+szempontjából az első üzembe helyezés előtt és időszakosan biztonsági felülvizsgálatnak kell alávetni.
 
 (2) A felülvizsgálatot
 
@@ -24,7 +24,7 @@ b) az „RV-3” besorolású építménynél 3 évenként,
 
 c) az „RV-4” besorolású építménynél 6 évenként
 
-## kell elvégezni.
+kell elvégezni.
 
 (3) A felülvizsgálat során
 

@@ -2,4 +2,6 @@
 
 (2) Telephelyen belüli szállítás esetén szállítmánykísérőnek robbantómester is beosztható.
 
-(3) Telephelyen belüli szállítás esetén a szállítást (fuvarozást) végző gazdálkodó szervezet köteles a szállítási útvonalat írásban közölni a szállítmánykísérővel, amelytől csak rendkívüli esetben lehet eltérni.
+(3)[^125] Telephelyen belüli szállítás esetén a szállítást (fuvarozást) végző gazdálkodó szervezet írásban közli a szállítási útvonalat a szállítmánykísérővel, amelytől csak rendkívüli esetben lehet eltérni.
+
+[^125]: A 170. § (3) bekezdése a 15/2024. (IX. 9.) SZTFH rendelet 48. § 58. pontja szerint módosított szöveg.

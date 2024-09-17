@@ -1,5 +1,3 @@
-## 90. § A metángázkitörés-veszélyes bányára a III. osztályú sújtóléges bányára vonatkozó rendelkezéseket kell alkalmazni.
-
 ## 45. Provokációs robbantás
 
 91. § (1) A provokációs robbantásnál a robbantólyukaknak a jövesztési fogásmélységnél legalább 0,5 m-rel hosszabbaknak kell lenniük. A robbantólyukakat a vágatkontúron úgy kell telepíteni, hogy számuk a kitörési szelvényre vonatkoztatva meddőkőzetben m2-enként legalább 1 db legyen.

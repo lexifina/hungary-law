@@ -20,7 +20,7 @@ c) a töltést és az ellenőrzést végző személyeken kívül másnak tartóz
 
 d) 10-nél több robbantószerkezet töltéséhez szükséges robbanóanyagot vagy 10-nél több töltött robbantószerkezetet tartani,
 
-## nem lehet.
+nem lehet.
 
 (7) A robbantószerkezetet úgy kell kialakítani, hogy a robbanóanyagot a megengedettől eltérő környezeti hatás ne érje, továbbá a robbantószerkezetet olyan függesztő-szerkezettel kell ellátni, amellyel a fúrólyukba való leeresztése biztonságosan elvégezhető.
 
