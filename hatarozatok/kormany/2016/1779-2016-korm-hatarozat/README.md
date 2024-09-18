@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1779-30
 | 2021-09-30 | 2016-1779-30-22.4 | 1661/2018. (XII. 6.) Korm. határozat |
 | 2022-06-22 | 2016-1779-30-22.5 | 1661/2018. (XII. 6.) Korm. határozat |
 | 2023-09-28 | 2016-1779-30-22.6 | 1661/2018. (XII. 6.) Korm. határozat |
+| 2024-09-18 | 2016-1779-30-22.7 | 1661/2018. (XII. 6.) Korm. határozat |
