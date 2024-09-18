@@ -28,7 +28,7 @@ Határidő: azonnal
 
 Felelős: a miniszterelnök általános helyettese
 
-Határidő: 2024. december 31.
+Határidő: 2026. június 30.
 
 [^1]: A 2. pont az 1664/2022. (XII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^2]: A 3. pont az 1471/2023. (X. 31.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: A 3. pont az 1281/2024. (IX. 17.) Korm. határozat 11. pontja szerint módosított szöveg.
