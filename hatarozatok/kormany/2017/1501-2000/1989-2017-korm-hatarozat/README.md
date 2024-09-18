@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1989-30
 | 2021-09-30 | 2017-1989-30-22.7 | 1080/2018. (III. 13.) Korm. határozat |
 | 2022-06-22 | 2017-1989-30-22.8 | 1080/2018. (III. 13.) Korm. határozat |
 | 2023-09-28 | 2017-1989-30-22.9 | 1080/2018. (III. 13.) Korm. határozat |
+| 2024-09-18 | 2017-1989-30-22.10 | 1080/2018. (III. 13.) Korm. határozat |

@@ -16,7 +16,7 @@
 
 ## nemzetpolitikáért felelős miniszterelnök-helyettes
 
-## Határidő: 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 075 073 000 forint tekintetében 2024. december 31.
+## Határidő: 2018. június 30., a Bethlen Gábor Alap fejezet részére átcsoportosított forrásból 6 075 073 000 forint tekintetében 2026. június 30.
 
 ## c)[^3]
 
@@ -63,7 +63,7 @@
 1. melléklet az 1989/2017. (XII. 19.) Korm. határozathoz[^14]
 
 [^1]: Az 1. pont a) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 17. pontja, az 1692/2021. (IX. 30.) Korm. határozat 5. pontja, az 1419/2023. (IX. 28.) Korm. határozat 5. pontja szerint módosított szöveg.
+[^2]: Az 1. pont b) alpontja az 1080/2018. (III. 13.) Korm. határozat 17. pontja, az 1692/2021. (IX. 30.) Korm. határozat 5. pontja, az 1281/2024. (IX. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^3]: Az 1. pont c) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^4]: Az 1. pont d) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^5]: Az 1. pont e) alpontja a 2011. évi CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
