@@ -1,0 +1,1 @@
+5. § Méltatlanná válik a miniszteri elismerésre az, akit szándékos bűncselekmény miatt jogerősen szabadságvesztésre ítéltek. A méltatlanná vált személytől a miniszter a miniszteri elismerést visszavonja.
