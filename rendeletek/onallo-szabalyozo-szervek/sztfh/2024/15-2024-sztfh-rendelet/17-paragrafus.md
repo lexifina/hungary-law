@@ -1,3 +1,3 @@
-17. § A Rendelet 15. alcím címe helyébe a következő alcím cím lép:
+17. §[^18]
 
-„15. A gyártó létesítmény víz- és csatornarendszere”
+[^18]: A 17. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-26. § A Rendelet 27. alcím címe helyébe a következő alcím cím lép:
+26. §[^27]
 
-„27. A gyártó létesítményre vonatkozó tűzvédelmi előírások”
+[^27]: A 26. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

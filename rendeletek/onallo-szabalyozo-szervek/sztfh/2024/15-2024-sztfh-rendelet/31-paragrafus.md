@@ -1,3 +1,3 @@
-31. § A Rendelet 79. § (3) bekezdése helyébe a következő rendelkezés lép:
+31. §[^32]
 
-„(3) A robbantómester ellenőrzi a gyutacsok összekapcsolásának és a kötési helyek szigetelésének, elrendezésének megfelelőségét.”
+[^32]: A 31. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

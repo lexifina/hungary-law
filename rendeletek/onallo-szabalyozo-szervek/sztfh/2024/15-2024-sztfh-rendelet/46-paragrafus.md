@@ -1,1 +1,3 @@
-46. § A Rendelet 4. melléklete a 3. melléklet szerint módosul.
+46. §[^47]
+
+[^47]: A 46. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

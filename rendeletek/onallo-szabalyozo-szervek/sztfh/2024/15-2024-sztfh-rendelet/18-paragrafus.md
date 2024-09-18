@@ -1,3 +1,3 @@
-18. § A Rendelet 16. alcím címe helyébe a következő alcím cím lép:
+18. §[^19]
 
-„16. A gyártó létesítmény fűtése, hűtése”
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

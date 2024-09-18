@@ -1,3 +1,3 @@
-30. § A Rendelet 78. §-a a következő (12) bekezdéssel egészül ki:
+30. §[^31]
 
-„(12) Az elektronikusan programozható gyutacsok alkalmazása esetében a gyártói kezelési utasítás szerint kell eljárni.”
+[^31]: A 30. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

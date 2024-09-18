@@ -1,3 +1,3 @@
-22. § A Rendelet 20. alcím címe helyébe a következő alcím cím lép:
+22. §[^23]
 
-„20. Technológiai berendezések létesítési előírásai a gyártó létesítményben”
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

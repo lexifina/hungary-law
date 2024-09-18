@@ -1,3 +1,3 @@
-23. § A Rendelet 21. alcím címe helyébe a következő alcím cím lép:
+23. §[^24]
 
-„21. A gyártó létesítmény tűzvédelmi berendezéseire vonatkozó előírások”
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

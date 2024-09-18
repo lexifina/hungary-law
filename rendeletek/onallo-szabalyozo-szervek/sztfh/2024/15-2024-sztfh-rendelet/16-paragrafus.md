@@ -1,3 +1,3 @@
-16. § A Rendelet 12. alcím címe helyébe a következő alcím cím lép:
+16. §[^17]
 
-„12. A gyártó létesítmény növényzete”
+[^17]: A 16. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

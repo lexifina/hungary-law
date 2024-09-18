@@ -1,3 +1,3 @@
-12. § A Rendelet 11. §-a a következő (16) bekezdéssel egészül ki:
+12. §[^13]
 
-„(16) Az „RV besorolású” helyiségekben az ott jelenlévő robbanóanyag jellemzőinek megfelelő automata tűzoltó berendezést kell létesíteni.”
+[^13]: A 12. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

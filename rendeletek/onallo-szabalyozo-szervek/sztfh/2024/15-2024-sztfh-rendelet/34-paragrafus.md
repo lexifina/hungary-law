@@ -1,3 +1,3 @@
-34. § A Rendelet 83. § (7) bekezdése helyébe a következő rendelkezés lép:
+34. §[^35]
 
-„(7) Ha a megállt töltet hatástalanítása nem sikerült, a robbantómester gondoskodik a megállt töltet őrzéséről, és intézkedik aziránt, hogy az általa meghatározott körzetben senki ne tartózkodjon, valamint jelentést tesz az általa megtett intézkedésekről a robbantásvezetőnek.”
+[^35]: A 34. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-25. § A Rendelet 25. alcím címe helyébe a következő alcím cím lép:
+25. §[^26]
 
-„25. A gyártó létesítmény elektrosztatikus feltöltődés elleni védelme”
+[^26]: A 25. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

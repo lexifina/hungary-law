@@ -1,3 +1,3 @@
-7. § A Rendelet 5. alcíme a következő 6/A. §-sal egészül ki:
+7. §[^8]
 
-„6/A. § Az e fejezetben foglalt feladatok ellátásáért és kötelezettségek teljesítéséért – az e fejezetben foglalt eltérő rendelkezés hiányában – a gyártó felel.”
+[^8]: A 7. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

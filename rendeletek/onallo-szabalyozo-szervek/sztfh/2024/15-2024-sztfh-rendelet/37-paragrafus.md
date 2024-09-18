@@ -1,3 +1,3 @@
-37. § A Rendelet 61. alcíme a következő 114/A. §-sal egészül ki:
+37. §[^38]
 
-„114/A. § Az e fejezetben foglalt feladatok ellátásáért és kötelezettségek teljesítéséért – az e fejezetben foglalt eltérő rendelkezés hiányában – a robbantásvezető felel.”
+[^38]: A 37. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

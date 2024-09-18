@@ -1,3 +1,3 @@
-11. § A Rendelet 8. alcím címe helyébe a következő alcím cím lép:
+11. §[^12]
 
-„8. A robbanóanyag gyártására szolgáló építmények belső védelmi rendszerének kialakítása”
+[^12]: A 11. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,3 +1,3 @@
-21. § A Rendelet 19. alcím címe helyébe a következő alcím cím lép:
+21. §[^22]
 
-„19. Villamos gyártmányok alkalmazhatósága és létesítési követelményei a gyártó létesítményben”
+[^22]: A 21. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

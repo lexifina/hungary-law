@@ -1,3 +1,3 @@
-10. § A Rendelet 7. alcím címe helyébe a következő alcím cím lép:
+10. §[^11]
 
-„7. A gyártó létesítményekre vonatkozó telepítési előírások”
+[^11]: A 10. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

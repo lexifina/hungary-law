@@ -1,3 +1,3 @@
-13. § A Rendelet 9. alcím címe helyébe a következő alcím cím lép:
+13. §[^14]
 
-„9. A robbanóanyag gyártására szolgáló építmények külső védelmi rendszerének kialakítása”
+[^14]: A 13. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

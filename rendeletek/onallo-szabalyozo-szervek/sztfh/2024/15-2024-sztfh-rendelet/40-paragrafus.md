@@ -1,3 +1,3 @@
-40. § A Rendelet 126. § (1) bekezdése helyébe a következő rendelkezés lép:
+40. §[^41]
 
-„(1) Természetes vagy állandó beépítésű hálózati világítás hiányában raktárban, tárolóban, tárolóhelyiségben, tárolókamrában, tárolótérben a környezetre gyújtási veszélyt nem jelentő világítást lehet használni, nyílt láng használata és a dohányzás tilos.”
+[^41]: A 40. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

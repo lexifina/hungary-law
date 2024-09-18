@@ -1,3 +1,3 @@
-39. § A Rendelet 64. alcíme a következő 117/A. §-sal egészül ki:
+39. §[^40]
 
-„117/A. § Az e fejezetben foglalt feladatok ellátásáért és kötelezettségek teljesítéséért – az e fejezetben foglalt eltérő rendelkezés hiányában – a robbanóanyag tárolását végző személy felel.”
+[^40]: A 39. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
