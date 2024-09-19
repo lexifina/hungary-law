@@ -31,3 +31,7 @@ Felelős: emberi erőforrások minisztere
 a Paksi Atomerőmű két új blokkja tervezéséért, megépítéséért és üzembe helyezéséért felelős tárca nélküli miniszter
 
 Határidő: 2022. november 30.
+
+9.[^1] egyetért azzal, hogy az 5. pont kapcsán további központi költségvetési forrás biztosítása nem szükséges.
+
+[^1]: A 9. pontot az 1291/2024. (IX. 19.) Korm. határozat 89. pontja iktatta be.
