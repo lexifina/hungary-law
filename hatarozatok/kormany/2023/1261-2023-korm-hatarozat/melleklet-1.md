@@ -32,4 +32,8 @@
 
 ## 7. az Áht. 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a pénzügyminiszter a XV. Pénzügyminisztérium fejezet terhére a 2024. évben 8 777 817 eurónak és a 2025. évben 2 296 583 eurónak megfelelő forintösszegben kötelezettséget vállaljon.
 
+## 8.[^1] egyetért azzal, hogy az 5. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1261/2023. (VI. 29.) Korm. határozathoz
+
+[^1]: A 8. pontot az 1291/2024. (IX. 19.) Korm. határozat 120. pontja iktatta be.
