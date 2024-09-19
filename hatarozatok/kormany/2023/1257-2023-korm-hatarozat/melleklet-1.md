@@ -126,15 +126,18 @@
 
 ## s) az Áht. 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva a központi költségvetés XVI. Építési és Közlekedési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 1. Közlekedési célú fejezeti kezelésű előirányzatok alcím, 3. Országos közúthálózat felújítása jogcímcsoport javára, az e) alpontban megfogalmazott feladat megvalósítása érdekében a 2024. évre vonatkozó éven túli kötelezettségvállalás felső korlátját 1 500 000 000 forint összegben állapítja meg.
 
-## 2.[^1]
+## t) [^1] egyetért azzal, hogy a d) alpont kapcsán szükséges további központi költségvetési többletforrást az építési és közlekedési miniszter biztosítja.
 
-## 3.[^2]
+## 2.[^2]
 
-## 4.[^3]
+## 3.[^3]
 
-1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz[^4]
+## 4.[^4]
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+1. melléklet az 1257/2023. (VI. 28.) Korm. határozathoz[^5]
+
+[^1]: Az 1. pont t) alpontját az 1291/2024. (IX. 19.) Korm. határozat 119. pontja iktatta be.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
