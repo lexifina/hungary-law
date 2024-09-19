@@ -94,6 +94,8 @@ technológiai és ipari miniszter
 
 Határidő: a 11. pont szerinti tájékoztatást követően azonnal
 
+13.[^12] egyetért azzal, hogy a 3. pont b) alpontja és a 3a. pont tekintetében további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: A 3. pont nyitó szövegrésze az 1608/2022. (XII. 8.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 3. pont a) pontja az 1268/2024. (IX. 10.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 3a. pontot az 1307/2022. (VI. 22.) Korm. határozat 2. pontja iktatta be.
@@ -105,3 +107,4 @@ Határidő: a 11. pont szerinti tájékoztatást követően azonnal
 [^9]: A 8. pont a) alpontja az 1307/2022. (VI. 22.) Korm. határozat 3. pont f) alpontja szerint módosított szöveg.
 [^10]: A 11. pont az 1307/2022. (VI. 22.) Korm. határozat 3. pont g) alpontja szerint módosított szöveg.
 [^11]: A 12. pont az 1307/2022. (VI. 22.) Korm. határozat 3. pont h) alpontja szerint módosított szöveg.
+[^12]: A 13. pontot az 1291/2024. (IX. 19.) Korm. határozat 61. pontja iktatta be.
