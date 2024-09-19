@@ -19,3 +19,11 @@ A Kormány
 | Felelős: | energiaügyi miniszter gazdaságfejlesztési miniszter pénzügyminiszter |
 
 | Határidő: | a felmerülés ütemében |
+
+5.[^1] felhívja a nemzetgazdasági minisztert és az energiaügyi minisztert, hogy a pénzügyminiszter bevonásával tegyék meg a szükséges intézkedéseket az 1. pont szerinti állami elővásárlási jog gyakorlásához szükséges forrásoknak a központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben történő rendelkezésre állása érdekében.
+
+| Felelős: | nemzetgazdasági miniszter energiaügyi miniszter pénzügyminiszter |
+
+| Határidő: | a 2025. évtől az adott évi központi költségvetési tervezés során |
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 129. pontja iktatta be.
