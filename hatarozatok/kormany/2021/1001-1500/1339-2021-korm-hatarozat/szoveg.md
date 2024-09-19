@@ -26,13 +26,7 @@ Határidő: a 2022. évi központi költségvetés végrehajtása során, a felm
 
 5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés b) pontjában biztosított jogkörében eljárva a központi költségvetés XIV. Belügyminisztérium fejezet új rendszámtáblák bevezetésével kapcsolatban felmerülő informatikai szakrendszerek fejlesztését finanszírozó kiadási előirányzata terhére vállalható kötelezettségek mértékét a 2022. évre 319 724 579 forint összegben állapítja meg,
 
-6. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon az 1. pont szerinti feladathoz 112 328 840 forint biztosításáról a 2022. évi központi költségvetés XIV. Belügyminisztérium fejezet rendőrségi kiadásokat finanszírozó előirányzatára,
-
-Felelős: pénzügyminiszter
-
-belügyminiszter
-
-Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+6.[^1]
 
 7. felhívja a pénzügyminisztert, hogy – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával – gondoskodjon az 1. pont szerinti feladathoz 508 000 000 forint rendelkezésre állásáról a 2022. évi központi költségvetés XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetében.
 
@@ -41,3 +35,5 @@ Felelős: pénzügyminiszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 57. pontja visszavonta.
