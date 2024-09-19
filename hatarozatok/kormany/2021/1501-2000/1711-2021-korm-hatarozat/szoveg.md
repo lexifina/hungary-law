@@ -22,7 +22,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: azonnal
 
-5.[^2]
+5.[^2] egyetért azzal, hogy a 2. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
 [^1]: A 2. pont az 1939/2021. (XII. 21.) Korm. határozat 11. pontjával megállapított szöveg.
-[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont b) alpontja visszavonta.
+[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont b) alpontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 79. pontja iktatta be.

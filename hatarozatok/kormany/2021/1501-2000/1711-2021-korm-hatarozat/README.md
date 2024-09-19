@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1711-30
 | --- | --- | --- |
 | 2021-10-08 | 2021-1711-30-22.1 | 1711/2021. (X. 8.) Korm. határozat |
 | 2021-12-21 | 2021-1711-30-22.2 | 1939/2021. (XII. 21.) Korm. határozat |
+| 2024-09-19 | 2021-1711-30-22.3 | 1940/2021. (XII. 21.) Korm. határozat |
