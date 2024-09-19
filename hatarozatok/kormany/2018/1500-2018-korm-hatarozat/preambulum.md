@@ -1,1 +1,0 @@
-A Kormány egyetért azzal, hogy a MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság (a továbbiakban: MÁV Zrt.) használatában álló, az állam tulajdonában álló vagy kerülő, jelenleg vasútüzemhez szükséges besorolású ingatlanok vasútüzemhez nem szükséges területeinek felmérése céljából 5 000 000 000 forint forrás biztosítása szükséges a MÁV Zrt. javára, melynek érdekében
