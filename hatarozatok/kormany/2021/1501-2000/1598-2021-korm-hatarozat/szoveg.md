@@ -47,3 +47,7 @@ támogatási összegben létesítsen támogatási jogviszonyt az 1. pontban megh
 Felelős: a miniszterelnök általános helyettese
 
 Határidő: az adott évre vonatkozó forrás rendelkezésre állását követően azonnal
+
+5.[^1] egyetért azzal, hogy a 3. pont b) alpontja szerinti központi költségvetési forrás biztosítására a 2024. évben nem kerül sor.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 74. pontja iktatta be.
