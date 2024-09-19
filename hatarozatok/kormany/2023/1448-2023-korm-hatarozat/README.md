@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2023-1448-30
 | --- | --- | --- |
 | 2023-10-16 | 2023-1448-30-22.1 | 1448/2023. (X. 16.) Korm. határozat |
 | 2023-10-17 | 2023-1448-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-09-19 | 2023-1448-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |

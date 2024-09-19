@@ -40,6 +40,9 @@ fb) a beszerzett eszközök az MNV Zrt. által vezetett állami vagyonnyilvánta
 
 g) az állami vagyonról szóló 2007. évi CVI. törvény 24. § (2) bekezdés e) pontja alapján úgy dönt, hogy a GYSEV Zrt. versenyeztetés mellőzésével, legalább a független szakértő által megállapított bérleti díj megfizetése mellett, határozatlan időre, bérleti jogviszony keretében a GYSEV CARGO Zártkörűen Működő Részvénytársaság használatába adhatja a Konténerterminál üzemeltetéséhez szükséges eszközöket, a debreceni gazdasági övezetek létrehozása és működése, mint fejlesztéspolitikai szempontok szerinti közérdekű cél ellátásának elősegítése érdekében.
 
-2.[^1]
+h) [^1] egyetért azzal, hogy a c) alpont ca) pontja kapcsán szükséges forrást az építési és közlekedési miniszter biztosítja.
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2.[^2]
+
+[^1]: Az 1. pont h) alpontját az 1291/2024. (IX. 19.) Korm. határozat 126. pontja iktatta be.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
