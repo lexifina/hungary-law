@@ -36,23 +36,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2023. június 30.
 
-5. felhívja a pénzügyminisztert, hogy a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter bevonásával gondoskodjon a 3. pont szerinti előkészítési feladatokra összesen 200 000 000 forint biztosításáról, az alábbiak szerint:
-
-a) a 2020. évben 20 000 000 forint biztosításáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos bevételek és kiadások cím, 2. Az NVTNM tulajdonosi joggyakorlásával kapcsolatos kiadások alcím, 8. Liget Budapest projekttel kapcsolatos kiadások jogcímcsoport javára,
-
-b) a 2021. évben 80 000 000 forint biztosításáról a Liget Budapest projekttel kapcsolatos kiadásokat tartalmazó központi költségvetési fejezet javára,
-
-c) a 2022. évben 100 000 000 forint biztosításáról a Liget Budapest projekttel kapcsolatos kiadásokat tartalmazó központi költségvetési fejezet javára;
-
-Felelős: pénzügyminiszter
-
-nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
-
-Határidő: az a) alpont tekintetében a 2020. évi központi költségvetés végrehajtása során, a felmerülés ütemében
-
-a b) alpont tekintetében a 2021. év során, a felmerülés ütemében
-
-a c) alpont tekintetében a 2022. évi központi költségvetés tervezése során
+5.[^1]
 
 6. felhívja a pénzügyminisztert, hogy a Miniszterelnökséget vezető miniszter bevonásával gondoskodjon a 4. pont szerinti előkészítési feladatokra összesen 3 800 000 000 forint biztosításáról, az alábbiak szerint:
 
@@ -99,3 +83,5 @@ Felelős: Miniszterelnökséget vezető miniszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. december 31.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 23. pontja visszavonta.
