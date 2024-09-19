@@ -46,6 +46,8 @@
 
 ## Határidő: 2020. szeptember 30.
 
+## 8.[^1] egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1284/2019. (V. 15.) Korm. határozathoz
 
 A kárpátaljai kulturális program érintett intézményei
@@ -71,3 +73,5 @@ A kárpátaljai kulturális program érintett intézményei
 | 9. | Técső | Kultúrház |
 
 | 10. | Nagydobrony | Kultúrház |
+
+[^1]: A 8. pontot az 1291/2024. (IX. 19.) Korm. határozat 12. pontja iktatta be.
