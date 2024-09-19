@@ -20,13 +20,7 @@ Felelős: honvédelmi miniszter
 
 Határidő: a kialakított terület honvédelmi célú vagyonkezelésébe kerülését követően azonnal
 
-5. felhívja a pénzügyminisztert, hogy – a honvédelmi miniszter bevonásával – a 4. pontban foglalt előkészítő munkák végrehajtása érdekében gondoskodjon 300 000 000 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetésről szóló 2021. évi XC. törvény (a továbbiakban: Kvtv.) 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 1. Honvédelmi Minisztérium cím, 2. Egyéb HM szervezetek alcím javára;
-
-Felelős: pénzügyminiszter
-
-honvédelmi miniszter
-
-Határidő: a felmerülés ütemében
+5.[^1]
 
 6. az 1. pont szerinti fejlesztés I. ütemének megvalósítása érdekében felhívja a pénzügyminisztert, hogy – a nemzeti vagyon kezeléséért felelős tárca nélküli miniszter kezdeményezése alapján – gondoskodjon 2 700 000 000 forint többletforrás rendelkezésre állásáról a Kvtv. 1. melléklet XLVII. Gazdaság-újraindítási Alap fejezet, 1. Központi kezelésű előirányzatok cím, 4. Az állami vagyongazdálkodás gazdaság-újraindítási központi kezelésű előirányzatai alcím, 5. Ipari parkok kialakítása, fejlesztése jogcímcsoport javára;
 
@@ -47,3 +41,5 @@ Határidő: 2022. december 31.
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: 2022. február 28.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 93. pontja visszavonta.
