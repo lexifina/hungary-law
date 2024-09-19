@@ -18,10 +18,6 @@ emberi erőforrások minisztere
 
 Határidő: a 2023. évtől kezdődően az adott évi központi költségvetés tervezése során
 
-4. egyetért a Szent Damján Görögkatolikus Kórház számára a 2021. évben legfeljebb 96 000 000 forint működési támogatás biztosításával, és felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon legfeljebb 96 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 1. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára.
+4.[^1]
 
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: azonnal
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 84. pontja visszavonta.
