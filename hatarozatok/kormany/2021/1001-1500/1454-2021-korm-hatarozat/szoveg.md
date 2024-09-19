@@ -16,7 +16,7 @@ c) a visegrádi Kálvária felújítása
 
 a) a 2021. évben az 1.2. pont a) alpontja szerinti feladatok megvalósításához szükséges 330 165 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 15. Kulturális örökségvédelmi, világörökségi törvényből adódó és nemzeti emlékhelyekkel kapcsolatos feladatok jogcímcsoport javára,
 
-b) a 2022. évben az 1.2. pont b) és c) alpontja szerinti feladatok végrehajtásához 488 959 368 forint többletforrás biztosításáról a Magyarország 2022. évi központi költségvetéséről szóló 2021. évi XC. törvény 1. melléklet XI. Miniszterelnökség fejezete javára;
+b)[^1]
 
 Felelős: pénzügyminiszter
 
@@ -52,6 +52,7 @@ a Budai Várnegyed, a Citadella és a visegrádi műemlék-együttes területén
 
 Határidő: 2021. szeptember 1.
 
-2.[^1]
+2.[^2]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.3. alpont b) pontját az 1291/2024. (IX. 19.) Korm. határozat 65. pontja visszavonta.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
