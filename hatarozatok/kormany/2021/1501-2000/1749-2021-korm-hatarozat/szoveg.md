@@ -21,3 +21,7 @@ Felelős: külgazdasági és külügyminiszter
 pénzügyminiszter
 
 Határidő: a 2022. évben a felmerülés ütemében, a további években az adott évi központi költségvetés tervezése során
+
+5.[^1] egyetért azzal, hogy e határozat kapcsán a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 80. pontja iktatta be.
