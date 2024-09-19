@@ -83,3 +83,7 @@ Határidő: az a) alpont tekintetében a felmerülés ütemében
 a b) alpont tekintetében 2022. január 5.
 
 8. úgy határoz, hogy az elnökséghez kapcsolódó kiadások terhére megvalósuló beszerzések során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+9.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 9. pontot az 1291/2024. (IX. 19.) Korm. határozat 59. pontja iktatta be.
