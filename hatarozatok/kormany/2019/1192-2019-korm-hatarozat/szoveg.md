@@ -21,3 +21,7 @@ Határidő: az a) alpont tekintetében a 2020. évi, a b) alpont tekintetében a
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2019. szeptember 30.
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 11. pontja iktatta be.
