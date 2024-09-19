@@ -28,6 +28,6 @@ emberi erőforrások minisztere
 
 Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-6.[^1]
+6.[^1] egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
 
-[^1]: A 6. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont a) alpontja visszavonta.
+[^1]: A 6. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont a) alpontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 32. pontja iktatta be.
