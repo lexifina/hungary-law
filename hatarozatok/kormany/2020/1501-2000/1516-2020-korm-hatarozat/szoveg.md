@@ -51,3 +51,7 @@ e) felhívja a külgazdasági és külügyminisztert, hogy a 3. pont b) alpontja
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: folyamatosan
+
+4.[^1] egyetért azzal, hogy e határozattal összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 19. pontja iktatta be.
