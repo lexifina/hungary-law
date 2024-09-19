@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1841-30
 | --- | --- | --- |
 | 2020-11-24 | 2020-1841-30-22.1 | 1841/2020. (XI. 24.) Korm. határozat |
 | 2021-07-12 | 2020-1841-30-22.2 | 1454/2021. (VII. 12.) Korm. határozat |
+| 2024-09-19 | 2020-1841-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |

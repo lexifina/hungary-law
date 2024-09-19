@@ -70,4 +70,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az a) alpont tekintetében a forrás rendelkezésre állását követően azonnal a b) alpont tekintetében a támogatási szerződés megkötését követő 30 napon belül
 
+9.[^2] egyetért azzal, hogy e határozat kapcsán további központi költségvetési forrás biztosítása nem szükséges.
+
 [^1]: Az 5. pontot az 1454/2021. (VII. 12.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 9. pontot az 1291/2024. (IX. 19.) Korm. határozat 36. pontja iktatta be.
