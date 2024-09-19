@@ -52,7 +52,7 @@
 
 ## a c) alpont tekintetében a 3. pont c) alpontban meghatározott forrás rendelkezésre állását követően azonnal
 
-## 6.[^1]
+## 6.[^1] egyetért azzal, hogy a 3. pont szerint eddig biztosított forrásokon felül a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
 
 1. melléklet az 1732/2020. (X. 30.) Korm. határozathoz
 
@@ -70,4 +70,4 @@
 
 | Összesen | 250 000 000 | 1 780 000 000 | 5 290 000 000 | 4 000 000 000 |
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 31. pontja iktatta be.
