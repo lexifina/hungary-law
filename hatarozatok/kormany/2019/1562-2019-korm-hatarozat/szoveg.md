@@ -22,10 +22,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
 
-4. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a 2. pont a) és b) alpontjában foglalt feladatok megvalósításához a 2020. évben szükséges 50 000 000 forint rendelkezésre állásáról a Magyarország 2020. évi központi költségvetéséről szóló 2019. évi LXXI. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 11. Közgyűjtemények cím javára.
+4.[^1]
 
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: a 2020. évi költségvetés végrehajtása során, a felmerülés ütemében
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 14. pontja visszavonta.
