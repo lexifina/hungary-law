@@ -50,5 +50,8 @@ a) 2022. év terhére 7 073 532 889 forint,
 
 b) 2023. év terhére 4 620 000 000 forint.
 
+7.[^3] egyetért azzal, hogy az e határozat kapcsán eddig biztosított forrásokon felül elmaradt rész tekintetében a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
+
 [^1]: Az 5. pont az 1953/2021. (XII. 22.) Korm. határozat 16. pontjával megállapított szöveg.
 [^2]: A 6. pontot az 1953/2021. (XII. 22.) Korm. határozat 17. pontja iktatta be.
+[^3]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 63. pontja iktatta be.
