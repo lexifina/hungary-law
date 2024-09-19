@@ -37,3 +37,7 @@ Határidő: az a) alpont tekintetében 2022. május 31.
 a b) alpont tekintetében 2023. május 31.
 
 a c) alpont tekintetében 2024. május 31.
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán a 2024. évben további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 82. pontja iktatta be.
