@@ -19,3 +19,7 @@ Felelős: pénzügyminiszter
 emberi erőforrások minisztere
 
 Határidő: az a) alpont tekintetében a központi költségvetés végrehajtása során, a felmerülés ütemében a b) alpont tekintetében az éves központi költségvetés tervezése során
+
+4.[^1] egyetért azzal, hogy a 3. pont a) és b) alpontja kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 17. pontja iktatta be.
