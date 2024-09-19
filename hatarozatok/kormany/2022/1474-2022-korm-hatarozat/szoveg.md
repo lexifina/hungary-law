@@ -15,3 +15,7 @@ A Kormány
 | Felelős: | belügyminiszter |
 
 | Határidő: | azonnal |
+
+5.[^1] egyetért azzal, hogy a 2. és 3. pont tekintetében további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 105. pontja iktatta be.
