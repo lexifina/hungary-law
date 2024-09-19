@@ -20,11 +20,7 @@ A Kormány
 
 | Határidő: | az Ingatlan állami tulajdonba vételét követően azonnal |
 
-5. felhívja a pénzügyminisztert, hogy az agrárminiszter kezdeményezése alapján gondoskodjon a 4. pontban meghatározott feladat végrehajtásához 103 000 000 forint biztosításáról a Kvtv. 1. melléklet XII. Agrárminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 2. Földügyi, öntözési és erdészeti feladatok alcím, 3. Erdő-, vad- és halgazdálkodási feladatok jogcímcsoport javára;
-
-| Felelős: | pénzügyminiszter agrárminiszter |
-
-| Határidő: | a felmerülés ütemében |
+5.[^1]
 
 6. felhívja az agrárminisztert, hogy a NFK útján gondoskodjon a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény 31. § (1) bekezdése alapján az Ingatlan tulajdonosi joggyakorlásának a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) részére történő átadásáról;
 
@@ -69,3 +65,5 @@ i) ha az Egyházmegye a h) alpontban írt kötelezettségének részben vagy eg�
 | Felelős: | gazdaságfejlesztési miniszter |
 
 | Határidő: | a 8. pontban foglaltak végrehajtása során |
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 125. pontja visszavonta.
