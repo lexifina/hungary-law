@@ -88,7 +88,7 @@
 
 ## Határidő: a forrás rendelkezésre állását követően azonnal
 
-## 16.[^3]
+## 16.[^3] A Kormány egyetért azzal, hogy a 8. és 11. pont kapcsán a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
 
 1. melléklet az 1213/2022. (IV. 5.) Korm. határozathoz
 
@@ -186,7 +186,7 @@ V.[^17] Budapest–Belgrád vasútvonal fejlesztésétől műszakilag elválaszt
 
 [^1]: A 9. pontot az 1190/2024. (VI. 28.) Korm. határozat 6. pont b) alpontja visszavonta.
 [^2]: A 10. pont az 1190/2024. (VI. 28.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 16. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 102. pontja iktatta be.
 [^4]: Az 1. melléklet I. pontjában foglalt táblázat 1. sorát az 1090/2023. (III. 16.) Korm. határozat 2. pontja visszavonta.
 [^5]: Az 1. melléklet I. pontjában foglalt táblázat 3. sora az 1090/2023. (III. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^6]: Az 1. melléklet I. pontjában foglalt táblázat 11. sorát az 1090/2023. (III. 16.) Korm. határozat 6. pontja iktatta be.
