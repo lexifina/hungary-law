@@ -27,3 +27,7 @@ részére.
 | Felelős: | pénzügyminiszter |
 
 | Határidő: | a felmerülés ütemében |
+
+5.[^1] egyetért azzal, hogy a 4. pont b) alpontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 117. pontja iktatta be.
