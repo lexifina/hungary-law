@@ -34,7 +34,11 @@
 
 ## Határidő: ezen kormányhatározat közzétételét követő 30 napon belül
 
+## 8.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1311/2021. (V. 26.) Korm. határozathoz
+
+1X03879_0
 
 | XX. Emberi Erőforrások Minisztériuma XLII. A költségvetés közvetlen bevételei és kiadásai ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -87,3 +91,5 @@
 |  |  | egyéb: |  | azonnal |  | 532 157 456 |  |  |  |  |  |  |  |  |  | 532 157 456 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 8. pontot az 1291/2024. (IX. 19.) Korm. határozat 52. pontja iktatta be.
