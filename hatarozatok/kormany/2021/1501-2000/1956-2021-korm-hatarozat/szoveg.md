@@ -15,3 +15,7 @@ Felelős: emberi erőforrások minisztere
 pénzügyminiszter
 
 Határidő: az adott évi központi költségvetés tervezése során
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 91. pontja iktatta be.
