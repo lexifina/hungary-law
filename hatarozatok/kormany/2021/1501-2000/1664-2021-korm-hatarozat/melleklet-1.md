@@ -30,6 +30,8 @@
 
 ## 8.[^4] az Áht. 36. § (4b) bekezdésében és (4c) bekezdés b) pontjában biztosított jogkörében eljárva jóváhagyja, hogy a külgazdasági és külügyminiszter az 1. pontban meghatározott cél érdekében a 7. pontban meghatározott fejezeti kezelésű előirányzat törvény szerinti előirányzatán felül további 8 777 212 530 forint összegben kötelezettséget vállaljon.
 
+## 9.[^5] egyetért azzal, hogy e határozat kapcsán a továbbiakban összesen 8 777 200 000 forint központi költségvetési forrás biztosítására kerül sor.
+
 1. melléklet az 1664/2021. (IX. 28.) Korm. határozathoz
 
 1X08223_0
@@ -174,3 +176,4 @@
 [^2]: Az 5. pontot az 1526/2023. (XII. 1.) Korm. határozat 6. pontja visszavonta.
 [^3]: A 7. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be, szövege az 1526/2023. (XII. 1.) Korm. határozat 5. pontjával megállapított szöveg.
 [^4]: A 8. pontot az 1588/2022. (XI. 30.) Korm. határozat 5. pontja iktatta be, szövege az 1526/2023. (XII. 1.) Korm. határozat 5. pontjával megállapított szöveg.
+[^5]: A 9. pontot az 1291/2024. (IX. 19.) Korm. határozat 76. pontja iktatta be.
