@@ -22,6 +22,9 @@ Felelős: aktív Magyarországért felelős kormánybiztos
 
 Határidő: folyamatos
 
-2.[^1]
+d)[^1] egyetért azzal, hogy a b) alpont bb) pontjával összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2.[^2]
+
+[^1]: Az 1. pont d) alpontját az 1291/2024. (IX. 19.) Korm. határozat 24. pontja iktatta be.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
