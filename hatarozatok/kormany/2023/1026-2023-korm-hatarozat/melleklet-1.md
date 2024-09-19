@@ -44,17 +44,24 @@
 
 | Határidő: | a c) alpont szerinti forrás tekintetében a forrás rendelkezésre állását követően harminc napon belül a d) alpont szerinti forrás tekintetében a forrás rendelkezésre állását követően harminc napon belül |
 
-## 2.[^3]
+## f) [^3] egyetért azzal, hogy a d) alpont da) pontja szerinti, még fennmaradó központi költségvetési többletforrást az energiaügyi miniszter a külgazdasági és külügyminiszter bevonásával biztosítsa.
 
-## 3.[^4]
+| Felelős: | energiaügyi miniszter külgazdasági és külügyminiszter |
 
-## 4.[^5]
+| Határidő: | a felmerülés ütemében |
 
-1. melléklet az 1026/2023. (II. 9.) Korm. határozathoz[^6]
+## 2.[^4]
+
+## 3.[^5]
+
+## 4.[^6]
+
+1. melléklet az 1026/2023. (II. 9.) Korm. határozathoz[^7]
 
 [^1]: Az 1. pont c) alpontja az 1604/2023. (XII. 22.) Korm. határozat 6. pontjával megállapított szöveg.
 [^2]: Az 1. pont d) alpontja az 1604/2023. (XII. 22.) Korm. határozat 6. pontjával megállapított szöveg.
-[^3]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. pont f) alpontját az 1291/2024. (IX. 19.) Korm. határozat 115. pontja iktatta be.
+[^4]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
