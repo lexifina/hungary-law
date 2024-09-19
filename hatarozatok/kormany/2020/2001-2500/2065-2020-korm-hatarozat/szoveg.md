@@ -11,3 +11,7 @@ Felelős: pénzügyminiszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: a felmerülés ütemében
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési forrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 41. pontja iktatta be.
