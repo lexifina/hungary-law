@@ -228,6 +228,8 @@
 
 115. A Kormány egyetért azzal, hogy az e határozat szerinti beruházások finanszírozásának módosításával összefüggésben az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 50. § (6) bekezdése és 95. § (5) bekezdése alapján igazságügyi szakértői vélemény beszerzése nem szükséges.
 
+116.[^115] A Kormány egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: Az 1. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
@@ -342,3 +344,4 @@
 [^112]: A 112. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^113]: A 113. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^114]: A 114. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^115]: A 116. pontot az 1291/2024. (IX. 19.) Korm. határozat 108. pontja iktatta be.
