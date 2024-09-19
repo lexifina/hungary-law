@@ -13,3 +13,7 @@ Felelős: pénzügyminiszter
 külgazdasági és külügyminiszter
 
 Határidő: a felmerülés ütemében
+
+3.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 3. pontot az 1291/2024. (IX. 19.) Korm. határozat 47. pontja iktatta be.
