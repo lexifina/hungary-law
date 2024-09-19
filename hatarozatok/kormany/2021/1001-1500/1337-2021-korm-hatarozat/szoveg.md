@@ -177,3 +177,7 @@ Miniszterelnökséget vezető miniszter
 nemzeti vagyon kezeléséért felelős tárca nélküli miniszter
 
 Határidő: 2021. szeptember 15.
+
+20.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 20. pontot az 1291/2024. (IX. 19.) Korm. határozat 56. pontja iktatta be.
