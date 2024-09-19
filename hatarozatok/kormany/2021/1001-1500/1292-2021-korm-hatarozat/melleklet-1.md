@@ -22,7 +22,11 @@
 
 ## Határidő: az adott évi központi költségvetés tervezése során
 
+## 5.[^1] egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1292/2021. (V. 20.) Korm. határozathoz
+
+1X03739_0
 
 | XI. Miniszterelnökség XX. Emberi Erőforrások Minisztériuma ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA Költségvetési év: 2021. forintban |
 
@@ -91,3 +95,5 @@
 |  |  | egyéb: | azonnal |  |  | 150 000 000 |  |  |  |  |  |  |  |  |  | 150 000 000 |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 50. pontja iktatta be.
