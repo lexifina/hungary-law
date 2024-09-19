@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2019-1511-30
 | --- | --- | --- |
 | 2019-08-26 | 2019-1511-30-22.1 | 1511/2019. (VIII. 26.) Korm. határozat |
 | 2020-10-05 | 2019-1511-30-22.2 | 1642/2020. (X. 5.) Korm. határozat |
+| 2024-09-19 | 2019-1511-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |

@@ -124,6 +124,8 @@
 
 ## Határidő: a felmerülés ütemében
 
+## 7.[^3] egyetért azzal, hogy e határozattal kapcsolatban további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1511/2019. (VIII. 26.) Korm. határozathoz
 
 A Budapest Diákváros – Déli Városkapu Fejlesztési Programban érintett belügyi vagyonkezelésű ingatlanok
@@ -166,3 +168,4 @@ A Budapest Diákváros – Déli Városkapu Fejlesztési Programban érintett be
 
 [^1]: A 6.1. pont az 1642/2020. (X. 5.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 6.2. pont az 1642/2020. (X. 5.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
+[^3]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 13. pontja iktatta be.
