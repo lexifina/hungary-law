@@ -37,3 +37,7 @@ Felelős: pénzügyminiszter
 Miniszterelnökséget vezető miniszter
 
 Határidő: az adott évi központi költségvetés tervezése során
+
+6.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 7. pontja iktatta be.
