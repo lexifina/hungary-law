@@ -78,9 +78,12 @@
 
 ## Határidő: folyamatos
 
-1. melléklet az 1771/2017. (XI. 7.) Korm. határozathoz[^4]
+## 13.[^4] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+1. melléklet az 1771/2017. (XI. 7.) Korm. határozathoz[^5]
 
 [^1]: A 8. pont az 1209/2018. (IV. 5.) Korm. határozat 8. pontjával megállapított szöveg.
 [^2]: A 10. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
 [^3]: A 11. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^4]: A 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
+[^4]: A 13. pontot az 1291/2024. (IX. 19.) Korm. határozat 2. pontja iktatta be.
+[^5]: A 1. melléklet a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
