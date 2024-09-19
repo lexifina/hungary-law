@@ -15,3 +15,7 @@ A Kormány a befektetésösztönző, valamint gazdaságélénkítő célkitűzé
 | Felelős: | pénzügyminiszter |
 
 | Határidő: | azonnal |
+
+5.[^1] egyetért azzal, hogy a 4. pont kapcsán a továbbiakban központi költségvetési forrás biztosítása nem szükséges.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 116. pontja iktatta be.
