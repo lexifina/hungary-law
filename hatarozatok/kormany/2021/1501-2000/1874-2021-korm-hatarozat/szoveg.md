@@ -15,3 +15,7 @@ emberi erőforrások minisztere
 Határidő: az a) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, de legkésőbb 2022. március 31.
 
 a b) alpont tekintetében a 2023. évi központi költségvetés tervezése során
+
+3.[^1] egyetért azzal, hogy a 2. pont kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 3. pontot az 1291/2024. (IX. 19.) Korm. határozat 86. pontja iktatta be.
