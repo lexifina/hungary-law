@@ -48,7 +48,7 @@ gb) a 2. Külképviseletek igazgatása cím javára 280 694 000 forint,
 
 gc) a 7. Fejezeti kezelésű előirányzatok cím, 3. Nemzetközi tagdíjak és európai uniós befizetések alcím javára 170 000 000 forint,
 
-h)[^2] XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára 122 631 000 forint
+h)[^2] XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása cím javára 64 000 000 forint
 
 többletforrás rendelkezésre állásáról;
 
@@ -101,6 +101,6 @@ Határidő: a felmerülés ütemében
 7. úgy határoz, hogy az 1. pont szerinti célhoz kapcsolódó eszközbeszerzésre a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat 1. pontját nem kell alkalmazni.
 
 [^1]: A 4. pont c) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont a) alpontja szerint módosított szöveg.
-[^2]: A 4. pont h) alpontja a 2005/2020. (XII. 24.) Korm. határozat 15. pont b) alpontja szerint módosított szöveg.
+[^2]: A 4. pont h) alpontja az 1291/2024. (IX. 19.) Korm. határozat 29. pontja szerint módosított szöveg.
 [^3]: Az 5. pontja a 2005/2020. (XII. 24.) Korm. határozat 16. pontjával megállapított szöveg.
 [^4]: A 6. pont az 1458/2021. (VII. 13.) Korm. határozat 10. pontja szerint módosított szöveg.
