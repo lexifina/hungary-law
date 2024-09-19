@@ -40,9 +40,9 @@
 
 ## 9. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon a 8. pontban meghatározott feladat megvalósítása érdekében
 
-## a) 500 000 000 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Egészségügyi ágazati előirányzatok alcím, 1. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára,
+## a)[^1] 250 000 000 forint többletforrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 33. Egészségügyi ágazati előirányzatok alcím, 1. Egészségügyi ellátási és fejlesztési feladatok jogcímcsoport javára,
 
-## b) 500 000 000 forint forrás biztosításáról a 2025. évtől az adott évi központi költségvetési törvény Belügyminisztérium fejezetében;
+## b)[^2] 250 000 000 forint forrás biztosításáról a 2025. évtől az adott évi központi költségvetési törvény Belügyminisztérium fejezetében;
 
 | Felelős: | pénzügyminiszter belügyminiszter |
 
@@ -175,3 +175,6 @@ A Tüdőgyógyintézet a felnőtt- és gyermekellátáson belül az alábbi spec
 Az országban a második legnagyobb pulmonológia és onkopulmonológia centrum, ezenkívül országosan a második legnagyobb kapacitással működő alváslabor működik az Intézetben, ami mind felnőtt-, mind gyermekvizsgálatokra alkalmas. Az országban elsőként működik az alváslaboratóriumban telemedicinás betegkövetés. Felnőtt országos súlyos asztma és ILD (Interstitiál Lund Disease) tüdőbetegcentrum. A Gyermekpulmonológiai osztály is számos országos kiterjedésű feladattal rendelkezik, mint gyermek bronchológia, gyermek tbc, gyermek cisztás fibrózis kezelése területén. A gyermek cisztás fibrózisban a legnagyobb centrum Törökbálint az országban. Országosan a második legnagyobb centrum a tüdőrák-kivizsgálásban és -kezelésben. A betegútvezetésben az intézet kiemelkedő szerepet játszik a diagnózis felállításától a kezelésig, a rehabilitáció és krónikus ellátás révén pedig végig tudja kísérni a betegeket.
 
 Az Intézetben számos klinikai vizsgálat folyik gyermek- és felnőttellátásban egyaránt: tüdődaganat, asztma, COPD, cisztás fibrózis, pneumonia és interstitiális tüdőbetegség témakörben. Ezáltal a betegeknek lehetőségük van hozzájutni a legújabb terápiás lehetőségekhez.
+
+[^1]: A 9. pont a) alpontja az 1291/2024. (IX. 19.) Korm. határozat 130. pontja szerint módosított szöveg.
+[^2]: A 9. pont b) alpontja az 1291/2024. (IX. 19.) Korm. határozat 130. pontja szerint módosított szöveg.
