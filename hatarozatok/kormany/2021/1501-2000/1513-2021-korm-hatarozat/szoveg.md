@@ -10,10 +10,12 @@ emberi erőforrások minisztere
 
 Határidő: azonnal
 
-3. felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a Nemzeti Művelődési Intézet javára 86 010 000 forint szolgáltatási ellenérték biztosításáról, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 7. Kulturális társadalmi, civil és non-profit szervezetek támogatása jogcímcsoport javára.
+3.[^1] felhívja a pénzügyminisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon a Nemzeti Művelődési Intézet javára 17 641 581 forint szolgáltatási ellenérték biztosításáról, a Kvtv. 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 11. Kulturális feladatok és szervezetek támogatása alcím, 7. Kulturális társadalmi, civil és non-profit szervezetek támogatása jogcímcsoport javára.
 
 Felelős: pénzügyminiszter
 
 emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 3. pont az 1291/2024. (IX. 19.) Korm. határozat 68. pontja szerint módosított szöveg.
