@@ -17,3 +17,7 @@ Határidő: az a) alpont tekintetében 650 124 900 forint azonnal, 400 200 000 f
 a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
 3. felhívja a miniszterelnök általános helyettesét, hogy – a Bethlen Gábor Alap irányításáért felelős Bizottság útján – gondoskodjon az 1. pontban meghatározott támogatási cél megvalósításáról.
+
+4.[^1] egyetért azzal, hogy a 2. pont b) alpontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 75. pontja iktatta be.
