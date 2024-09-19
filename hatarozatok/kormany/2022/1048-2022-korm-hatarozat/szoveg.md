@@ -42,4 +42,7 @@ Határidő: azonnal
 
 6.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében biztosított jogkörében eljárva engedélyezi a külgazdasági és külügyminiszter számára, hogy a 2022. évben a XLVII. Gazdaság-újraindítási Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 7. Gazdaság újraindítását szolgáló külügyi fejezeti kezelésű előirányzatok alcím, 2. Külügyi fejlesztési és kutatási programok jogcímcsoport terhére legfeljebb 2 354 047 500 forint összeg mértékéig kötelezettséget vállaljon.
 
+7.[^2] egyetért azzal, hogy a 2. pont alapján a továbbiakban 1 500 000 000 forint központi költségvetési forrás biztosítására kerül sor.
+
 [^1]: A 6. pontot az 1302/2022. (VI. 22.) Korm. határozat 26. pontja iktatta be.
+[^2]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 96. pontja iktatta be.

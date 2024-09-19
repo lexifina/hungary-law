@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1048-30
 | --- | --- | --- |
 | 2022-02-08 | 2022-1048-30-22.1 | 1048/2022. (II. 8.) Korm. határozat |
 | 2022-06-22 | 2022-1048-30-22.2 | 1302/2022. (VI. 22.) Korm. határozat |
+| 2024-09-19 | 2022-1048-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |
