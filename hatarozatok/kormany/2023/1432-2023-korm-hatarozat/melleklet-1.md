@@ -38,7 +38,7 @@
 
 | Határidő: | az 1.2. alpont szerinti források rendelkezésre állását követően azonnal |
 
-## 2.[^6]
+## 2.[^6] A Kormány egyetért azzal, hogy az 1. pont 1.2. alpont d) és e) pontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
 1. melléklet az 1432/2023. (X. 5.) Korm. határozathoz
 
@@ -93,7 +93,7 @@
 [^3]: Az 1. pont 1.2. pont d) alpontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
 [^4]: Az 1. pont 1.2. pont e) alpontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
 [^5]: Az 1. pont 1.3. pontját az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
-[^6]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 124. pontja iktatta be.
 [^7]: Az 1. mellékletben foglalt táblázat 5. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
 [^8]: Az 1. mellékletben foglalt táblázat 6. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
 [^9]: Az 1. mellékletben foglalt táblázat 10. sorát az 1158/2024. (VI. 10.) Korm. határozat 9. pontja visszavonta.
