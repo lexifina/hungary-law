@@ -142,40 +142,10 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: 2024. évtől évente, az adott évi központi költségvetés tervezése során
 
-13.[^2]
+13.[^2] A Kormány egyetért azzal, hogy az 5. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
-14.[^3]
-
-a)[^4]
-
-b)[^5]
-
-c)[^6]
-
-d)[^7]
-
-e)[^8]
-
-f)[^9]
-
-g)[^10]
-
-h)[^11]
-
-i)[^12]
-
-j)[^13]
+14.[^3] A Kormány egyetért azzal, hogy a 2024. évben e határozat kapcsán központi költségvetési forrás biztosítása nem szükséges.
 
 [^1]: A 4. pont a 2011: CXCV. törvény 90. § (5) bekezdése alapján visszavonásra került.
-[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 14. pont nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 14. pont a) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 14. pont b) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 14. pont c) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 14. pont d) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 14. pont e) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 14. pont f) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^10]: A 14. pont g) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 14. pont h) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 14. pont i) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 14. pont j) alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 38. pontja iktatta be.
+[^3]: A 14. pont nyitó és záró szövegrésze a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 38. pontja iktatta be.
