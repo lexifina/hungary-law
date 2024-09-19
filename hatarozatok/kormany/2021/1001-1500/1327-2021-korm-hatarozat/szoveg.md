@@ -6,10 +6,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2021. július 1.
 
-2. felhívja a pénzügyminisztert, hogy a gazdasági társaság által ellátott feladatok központi költségvetési szerv általi átvételével és az átalakulással kapcsolatosan – az emberi erőforrások miniszterének bevonásával – gondoskodjon legfeljebb 164 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 22. Egészségügyi ágazati előirányzatok alcím, 24. Egészségügyi intézmények fejlesztése és rendkívüli támogatása jogcímcsoport javára.
+2.[^1]
 
-Felelős: pénzügyminiszter
-
-emberi erőforrások minisztere
-
-Határidő: a felmerülés ütemében
+[^1]: A 2. pontot az 1291/2024. (IX. 19.) Korm. határozat 55. pontja visszavonta.
