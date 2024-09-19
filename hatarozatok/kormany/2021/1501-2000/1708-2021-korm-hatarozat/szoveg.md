@@ -39,3 +39,7 @@ a b) alpont tekintetében a 2023. évi központi költségvetés tervezése sor�
 Felelős: külgazdasági és külügyminiszter
 
 Határidő: 2022. június 30.
+
+7.[^1] egyetért azzal, hogy e kormányhatározat kapcsán fennmaradó forrásokat a külgazdasági és külügyminiszter biztosítja.
+
+[^1]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 78. pontja iktatta be.
