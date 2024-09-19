@@ -66,9 +66,12 @@
 
 ## Határidő: a felmerülés ütemében
 
-## 2.[^1]
+## 1.11.[^1] egyetért azzal, hogy e határozat kapcsán a 2024. évben központi költségvetési többletforrás biztosítása nem szükséges.
 
-1. melléklet az 1074/2022. (II. 16.) Korm. határozathoz[^2]
+## 2.[^2]
 
-[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+1. melléklet az 1074/2022. (II. 16.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont 1.11. alpontját az 1291/2024. (IX. 19.) Korm. határozat 97. pontja iktatta be.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
