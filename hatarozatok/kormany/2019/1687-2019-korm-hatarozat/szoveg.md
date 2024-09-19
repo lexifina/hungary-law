@@ -21,3 +21,7 @@ Határidő: 2020. január 31.
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a forrás rendelkezésre állását, a költségvetési támogatás biztosítását és az az államháztartásról szóló 2011. évi CXCV. törvény 28. § (1) bekezdése szerinti szabályozási feltétel fennállását követően azonnal
+
+5.[^1] egyetért azzal, hogy a 2. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 15. pontja iktatta be.
