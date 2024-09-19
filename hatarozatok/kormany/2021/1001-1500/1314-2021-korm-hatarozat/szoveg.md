@@ -16,7 +16,7 @@ b) 1 717 544 013 forint a biztonságos ivóvíz- és iparivíz-ellátáshoz szü
 
 c) a csapadékvíz biztonságos kezelésével összefüggő infrastruktúra-fejlesztések megvalósítása érdekében
 
-ca)[^3] összesen 6 017 295 144 forint a Ságodi-patak és a záportározó-fejlesztés tervezésére, valamint kivitelezésére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet javára;
+ca)[^3] összesen 2 900 000 000 forint a Ságodi-patak és a záportározó-fejlesztés tervezésére, valamint kivitelezésére, a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet javára;
 
 cb) 750 375 000 forint a Nagypáli-patak kivitelezés költségeinek biztosítására, a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 17. Vízügyi igazgatóságok cím javára, azzal, hogy a támogatásból a fejlesztés előkészítésére, tervezésére, ingatlanrendezésre 250 000 000 forint szolgál,
 
@@ -56,9 +56,18 @@ hozzon létre támogatási jogviszonyt elszámolási, a felhasznált és fel nem
 
 c) az innovációért és technológiáért felelős miniszter a 3. pont e) alpontjában biztosított forrás terhére adjon ki támogatói okiratot az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaság mint kedvezményezett részére.
 
+7.[^7] egyetért azzal, hogy
+
+a) a 3. pont c) alpont cb) pontja kapcsán a 2024. évben,
+
+b) a 3. pont a), b), d) és e) alpontja tekintetében további
+
+központi költségvetési forrás biztosítása nem szükséges.
+
 [^1]: A 2. pont a) alpontja az 1142/2022. (III. 10.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1142/2022. (III. 10.) Korm. határozat 1. pontjával megállapított, az 1584/2023. (XII. 20.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^3]: A 3. pont c) pont ca) alpontja az 1584/2023. (XII. 20.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 3. pont c) pont ca) alpontja az 1584/2023. (XII. 20.) Korm. határozat 2. pontjával megállapított, az 1291/2024. (IX. 19.) Korm. határozat 53. pontja szerint módosított szöveg.
 [^4]: A 4. pontot az 1142/2022. (III. 10.) Korm. határozat 2. pontja iktatta be.
 [^5]: Az 5. pontot az 1142/2022. (III. 10.) Korm. határozat 3. pontja iktatta be.
 [^6]: A 6. pontot az 1142/2022. (III. 10.) Korm. határozat 4. pontja iktatta be.
+[^7]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 54. pontja iktatta be.
