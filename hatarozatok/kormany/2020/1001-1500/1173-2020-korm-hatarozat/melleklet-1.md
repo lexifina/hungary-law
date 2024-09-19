@@ -132,9 +132,11 @@
 
 ## Határidő: a beruházás befejezését követően azonnal
 
-## 2.[^19]
+## 1.15. [^19] egyetért azzal, hogy az 1.10a. alpont e) pontjával összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
 
-## 3.[^20]
+## 2.[^20]
+
+## 3.[^21]
 
 1. melléklet az 1173/2020. (IV. 22.) Korm. határozathoz
 
@@ -158,5 +160,6 @@ Közlekedési infrastruktúra-fejlesztéssel összefüggő feladatok
 [^16]: Az 1. pont 1.12. alpontja az 1821/2020. (XI. 18.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^17]: Az 1. pont 1.13. alpontját az 1821/2020. (XI. 18.) Korm. határozat 4. pontja visszavonta.
 [^18]: Az 1. pont 1.14. alpontját az 1248/2020. (V. 20.) Korm. határozat 3. pontja iktatta be.
-[^19]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^20]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: Az 1. pont 1.15. alpontját az 1291/2024. (IX. 19.) Korm. határozat 20. pontja iktatta be.
+[^20]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

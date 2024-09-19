@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1173-30
 | 2022-12-08 | 2020-1173-30-22.12 | 1608/2022. (XII. 8.) Korm. határozat |
 | 2023-12-22 | 2020-1173-30-22.13 | 1604/2023. (XII. 22.) Korm. határozat |
 | 2024-09-11 | 2020-1173-30-22.14 | 1080/2021. (II. 27.) Korm. határozat |
+| 2024-09-19 | 2020-1173-30-22.15 | 1291/2024. (IX. 19.) Korm. határozat |
