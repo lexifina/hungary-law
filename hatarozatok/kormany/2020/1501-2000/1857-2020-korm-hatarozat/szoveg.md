@@ -28,11 +28,8 @@ Határidő: azonnal
 
 4.[^2]
 
-5. A Kormány felhívja a pénzügyminisztert, hogy gondoskodjon az intézményi kezességi díjtámogatások finanszírozásához szükséges összeg, de legfeljebb 4 100 000 000 forint többletforrás biztosításáról a Magyarország 2021. évi központi költségvetéséről szóló 2020. évi XC. törvény 1. melléklet XLVII. Gazdaságvédelmi Alap fejezet, 2. Fejezeti kezelésű előirányzatok cím, 6. Gazdaságvédelmet szolgáló innovációs és technológiai fejezeti kezelésű előirányzatok alcím, 2. Gazdaságfejlesztési feladatok jogcímcsoport, 2. Gazdaságfejlesztési programok jogcím javára.
-
-Felelős: pénzügyminiszter
-
-Határidő: a 2021. évi központi költségvetés végrehajtása során, a felmerülés ütemében
+5.[^3]
 
 [^1]: Az 1. pont b) alpontja az 1083/2021. (II. 27.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5. pontot az 1291/2024. (IX. 19.) Korm. határozat 37. pontja visszavonta.
