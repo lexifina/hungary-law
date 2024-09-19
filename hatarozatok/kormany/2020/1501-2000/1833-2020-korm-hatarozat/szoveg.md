@@ -31,3 +31,7 @@ Határidő: a 2022. évtől kezdődően az adott évi központi költségvetés 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a 2. pont szerinti forrás rendelkezésre állását követően azonnal
+
+6.[^1] egyetért azzal, hogy a 4. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 35. pontja iktatta be.
