@@ -92,6 +92,8 @@
 
 ## Határidő: az ingatlan tulajdonosi joggyakorlásának Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság részére történő átadását követő 60 napon belül
 
+## 13.[^3] egyetért azzal, hogy az 5. ponttól eltérően az 1 260 630 000 forint összegű forrás biztosítására a 2024. évet követően kerüljön sor.
+
 1. melléklet az 1923/2021. (XII. 20.) Korm. határozathoz
 
 A Honvéd Város Fejlesztési Program I. ütemébe tartozó beruházások
@@ -116,3 +118,4 @@ B) A Beruházási Ügynökség által megvalósítandó kosárlabda öltözőép
 
 [^1]: A 7. pont az 1492/2022. (X. 19.) Korm. határozat 95. pontja szerint módosított szöveg.
 [^2]: A 9a. pontot az 1492/2022. (X. 19.) Korm. határozat 94. pontja iktatta be.
+[^3]: A 13. pontot az 1291/2024. (IX. 19.) Korm. határozat 88. pontja iktatta be.
