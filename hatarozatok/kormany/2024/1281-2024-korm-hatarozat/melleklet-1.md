@@ -50,35 +50,35 @@
 
 ## állapítja meg.
 
-## 2. A Kárpát-medencei óvodafejlesztési program első üteméről szóló 1779/2016. (XII. 15.) Korm. határozat 2. pontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 2.[^1]
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő, valamint a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, egyes kormányhatározatok módosításáról szóló 1601/2017. (VIII. 31.) Korm. határozat 1. pont a) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 3.[^2]
 
-## 4. A Kárpát-medencei óvodafejlesztési program második üteméről szóló 1763/2017. (XI. 7.) Korm. határozat 2. pontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 4.[^3]
 
-## 5. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, az Országvédelmi Alapból és a szociális hozzájárulási adóhoz kapcsolódó megtakarítások terhére történő előirányzat-átcsoportosításról, a fejezeti stabilitási tartalék előirányzatok felhasználásáról, a XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezeten belüli átcsoportosításról, a 2016. évi költségvetési maradványok egy részének felhasználásáról és egyes kormányhatározatok módosításáról szóló 1989/2017. (XII. 19.) Korm. határozat 1. pont b) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 5.[^4]
 
-## 6. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról, fejezeten belüli előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1211/2018. (IV. 6.) Korm. határozat 1. pontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 6.[^5]
 
-## 7. A Kárpát-medencei óvodafejlesztési program harmadik üteméről, az ahhoz szükséges források biztosításáról, valamint a Kárpát-medencei óvodafejlesztési program első és második üteméről szóló kormányhatározatok módosításáról szóló 1661/2018. (XII. 6.) Korm. határozat 1. pont c) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 7.[^6]
 
-## 8. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, a 2018. évi költségvetési maradványok egy részének felhasználásáról, valamint egyes kormányhatározatok módosításáról szóló 1432/2019. (VII. 26.) Korm. határozat 1. pont h) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 8.[^7]
 
-## 9. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból és a Központi Maradványelszámolási Alapból történő, illetve fejezetek közötti előirányzat-átcsoportosításról, valamint egyes kormányhatározatok módosításáról szóló 1591/2019. (X. 16.) Korm. határozat 1. pont a) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 9.[^8]
 
-## 10. Az egyes fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításokról, kötelezettségvállalás engedélyezéséről, valamint egyes kormányhatározatok módosításáról szóló 1273/2020. (VI. 2.) Korm. határozat 1. pont c) alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 10.[^9]
 
-## 11. A Kárpát-medencei óvodafejlesztési program negyedik üteméről szóló 1150/2021. (III. 31.) Korm. határozat 3. pontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 11.[^10]
 
-## 12. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból, a Központi Maradványelszámolási Alapból, a Járvány Elleni Védekezés Központi Tartaléka előirányzatból történő, fejezetek közötti és fejezeten belüli előirányzat-átcsoportosításról, kötelezettségvállalás engedélyezéséről, kormányhatározat végrehajtása során alkalmazandó eltérő rendelkezésről, valamint kormányhatározat módosításáról szóló 1178/2021. (IV. 14.) Korm. határozat 1. pont 1.2. alpontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 12.[^11]
 
-## 13. A központi költségvetést érintő címrendi módosításról, a Gazdaság-újraindítási programok előirányzatból, a Központi Maradványelszámolási Alapból, a rendkívüli kormányzati intézkedésekre szolgáló tartalékból, valamint fejezetek között történő előirányzat-átcsoportosításról szóló 1528/2021. (VIII. 2.) Korm. határozat 5. pontjában a „2024. december 31.” szövegrész helyébe a „2026. június 30.” szöveg lép.
+## 13.[^12]
 
-## 14. Az egyes ingatlanok és ingatlan tulajdoni hányadok sportcélú ingatlanná, valamint sportingatlanná minősítéséről szóló 1518/2023. (XI. 29.) Korm. határozat 1. pont c) alpontjában, valamint 4. pontjában a „telekalakítási eljárás” szövegrész helyébe a „telekalakítási vagy épületek önálló ingatlanná történő alakítására vonatkozó eljárás” szöveg lép.
+## 14.[^13]
 
-## 15. Az egyes közvetlen uniós pályázatok önerő költségének biztosításáról szóló 1548/2023. (XII. 13.) Korm. határozat [a továbbiakban: 1548/2023. (XII. 13.) Korm. határozat] 1. melléklete a 3. melléklet szerint módosul.
+## 15.[^14]
 
-## 16.[^1]
+## 16.[^15]
 
 ## 17. Ez a határozat – a 18. pontban foglalt kivétellel – a közzétételét követő napon lép hatályba.
 
@@ -86,4 +86,18 @@
 
 1. melléklet az 1281/2024. (IX. 17.) Korm. határozathoz
 
-[^1]: A 16. pont a 18. pont alapján 2025. január 1-jén lép hatályba.
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 7. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 9. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 10. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 11. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 12. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 13. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 15. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. pont a 18. pont alapján 2025. január 1-jén lép hatályba.
