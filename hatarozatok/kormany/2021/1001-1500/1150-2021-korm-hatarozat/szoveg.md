@@ -30,5 +30,8 @@ Felelős: a miniszterelnök általános helyettese
 
 Határidő: 2026. június 30.
 
+4.[^3] egyetért azzal, hogy a Program kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: A 2. pont az 1664/2022. (XII. 22.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1281/2024. (IX. 17.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^3]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 46. pontja iktatta be.
