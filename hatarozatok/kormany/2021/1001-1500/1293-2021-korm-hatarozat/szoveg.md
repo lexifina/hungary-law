@@ -29,3 +29,7 @@ Határidő: a 2022. évi központi költségvetés végrehajtása során
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a 2. és 3. pont szerinti források rendelkezésre állását követően azonnal
+
+6.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem indokolt.
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 51. pontja iktatta be.
