@@ -28,6 +28,12 @@
 
 ## Határidő: azonnal
 
+## 6.[^1] egyetért azzal, hogy az 5. pont kapcsán szükséges költségvetési források biztosításáról a Miniszterelnökséget vezető miniszter gondoskodjon.
+
+| Felelős: | Miniszterelnökséget vezető miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
 1. melléklet az 1376/2022. (VII. 29.) Korm. határozathoz
 
 Szakkollégiumok támogatásának mértéke
@@ -55,3 +61,5 @@ Szakkollégiumok támogatásának mértéke
 | 10. | Eötvös Loránd Tudományegyetem | Márton Áron Szakkollégium | 100 000 000 |
 
 | 11. | Eötvös Loránd Tudományegyetem | Joghallgatók Önképző Szervezete | 50 000 000 |
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 103. pontja iktatta be.
