@@ -35,3 +35,7 @@ a 2. pont d) alpontja tekintetében a 2024. évi központi költségvetés terve
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
+
+7.[^2] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^2]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 60. pontja iktatta be.
