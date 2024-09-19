@@ -70,7 +70,7 @@
 
 | Határidő: | a 2025. évi központi költségvetés tervezése során |
 
-## 2.[^13]
+## 2.[^13] A Kormány egyetért azzal, hogy az 1. pont f) alpontja tekintetében további központi költségvetési többletforrás biztosítása nem szükséges.
 
 ## 3.[^14]
 
@@ -90,7 +90,7 @@
 [^10]: Az 1. pont p) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
 [^11]: Az 1. pont q) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
 [^12]: Az 1. pont r) alpontját az 1067/2024. (III. 21.) Korm. határozat 4. pontja iktatta be.
-[^13]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 118. pontja iktatta be.
 [^14]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^15]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^16]: Az 1. melléklet a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
