@@ -6,7 +6,9 @@
 
 ## Határidő: 2021. július 31.
 
-1. melléklet az 1448/2021. (VII. 7.) Korm. határozathoz[^1]
+## 3.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+1. melléklet az 1448/2021. (VII. 7.) Korm. határozathoz[^2]
 
 | Sor- szám | Település | Fejlesztési projekt | Kedvezményezett | Támogatás összege (forint) | Szakpolitikai felelős |
 
@@ -122,4 +124,5 @@
 
 | 56. | Zalaegerszeg | A Zalaréti Kastély Rendezvényközpont felújításának előkészítési munkálatai | Zalaegerszeg Megyei Jogú Város Önkormányzata | 114 640 000 | Miniszterelnökséget vezető miniszter |
 
-[^1]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja, az 1914/2021. (XII. 15.) Korm. határozat 5. pontja, az 1084/2022. (II. 23.) Korm. határozat szerint módosított szöveg.
+[^1]: A 3. pontot az 1291/2024. (IX. 19.) Korm. határozat 64. pontja iktatta be.
+[^2]: Az 1. melléklet az 1625/2021. (IX. 3.) Korm. határozat 3. pontja, az 1881/2021. (XII. 7.) Korm. határozat 6. pontja, az 1914/2021. (XII. 15.) Korm. határozat 5. pontja, az 1084/2022. (II. 23.) Korm. határozat szerint módosított szöveg.

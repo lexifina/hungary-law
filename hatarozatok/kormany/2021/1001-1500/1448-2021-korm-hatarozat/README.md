@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1448-30
 | 2021-12-07 | 2021-1448-30-22.3 | 1625/2021. (IX. 3.) Korm. határozat |
 | 2021-12-15 | 2021-1448-30-22.4 | 1625/2021. (IX. 3.) Korm. határozat |
 | 2022-02-23 | 2021-1448-30-22.5 | 1625/2021. (IX. 3.) Korm. határozat |
+| 2024-09-19 | 2021-1448-30-22.6 | 1291/2024. (IX. 19.) Korm. határozat |
