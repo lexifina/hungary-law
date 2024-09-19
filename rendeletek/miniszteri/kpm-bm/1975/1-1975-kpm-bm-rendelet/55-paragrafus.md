@@ -12,6 +12,6 @@ b) főútvonalon 12. életévét be nem töltött személynek kézikocsival köz
 
 c) állati erővel vont járművet – az állatok vonóerejét és az útviszonyokat is figyelembe véve – túlterhelni.
 
-(4)[^359] A kézikocsival közlekedő személynek – lakott területen kívül – éjszaka és korlátozott látási viszonyok esetén fényvisszaverő mellényt (ruházatot) kell viselnie.
+(4)[^360] A kézikocsival közlekedő személynek – lakott területen kívül – éjszaka és korlátozott látási viszonyok esetén fényvisszaverő mellényt (ruházatot) kell viselnie.
 
-[^359]: Az 55. § (4) bekezdését az 58/2007. (III. 31.) Korm. rendelet – a Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő – 9. §-a iktatta be. E módosító rendelet 14. § (2) bekezdésének c) pontja alapján a rendelkezést 2008. január 1-jétől kell alkalmazni.
+[^360]: Az 55. § (4) bekezdését az 58/2007. (III. 31.) Korm. rendelet – a Magyar Közlöny 2007. évi 51. számában megjelent helyesbítésnek megfelelő – 9. §-a iktatta be. E módosító rendelet 14. § (2) bekezdésének c) pontja alapján a rendelkezést 2008. január 1-jétől kell alkalmazni.
