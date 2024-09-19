@@ -1,16 +1,12 @@
 ## 1. egyetért a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbeszerzési Zártkörűen Működő Részvénytársaság (a továbbiakban: BMSK Zrt.) közreműködésével megvalósuló, 1. melléklet szerinti építési beruházások megvalósulásához szükséges, legfeljebb 292 200 267 forint többletforrás biztosításával;
 
-## 2. felhívja a pénzügyminisztert, hogy az 1. pontban foglalt feladat megvalósítása érdekében – a honvédelmi miniszter kezdeményezése alapján – gondoskodjon legfeljebb az 1. pont szerinti többletforrás rendelkezésre állásáról a Magyarország 2023. évi központi költségvetéséről szóló 2022. évi XXV. törvény 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok cím, 6. Sportági fejlesztési koncepciók megvalósításával összefüggő feladatok támogatása alcím javára;
+## 2.[^1]
 
-| Felelős: | pénzügyminiszter honvédelmi miniszter |
-
-| Határidő: | a 2023. évi költségvetési törvény végrehajtása során, a felmerülés ütemében |
-
-## 3. felhívja a honvédelmi minisztert, hogy az 1. pont szerinti forrás rendelkezésre állását követően gondoskodjon a forrásnak a beruházások megvalósítója részére történő rendelkezésre bocsátásáról;
+## 3.[^2] felhívja a honvédelmi minisztert, hogy a források rendelkezésre állását követően gondoskodjon a forrásnak a beruházások megvalósítója részére történő rendelkezésre bocsátásáról;
 
 | Felelős: | honvédelmi miniszter |
 
-| Határidő: | a 2. pont szerinti forrás rendelkezésre állását követően azonnal |
+| Határidő: | a források rendelkezésre állását követően azonnal |
 
 ## 4. egyetért azzal, hogy az e határozat szerinti beruházások finanszírozásának módosításával összefüggésben az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 50. § (6) bekezdése és 95. § (5) bekezdése alapján igazságügyi szakértői vélemény beszerzése nem szükséges.
 
@@ -35,3 +31,6 @@ Sportlétesítmény-fejlesztések többletforrásigénye
 | 8. | Dr. Antal József Oktatási, Kulturális és Szabadidőközpont tanuszodájának felújítása (Pátyod) | 19 931 564 |
 
 | 9. | Püspökladány Nehézatlétikai Sportegyesület edzőcsarnok építése | 63 073 755 |
+
+[^1]: A 2. pontot az 1291/2024. (IX. 19.) Korm. határozat 107. pontja visszavonta.
+[^2]: A 3. pont az 1291/2024. (IX. 19.) Korm. határozat 106. pontjával megállapított szöveg.
