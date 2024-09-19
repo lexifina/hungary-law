@@ -4,12 +4,10 @@
 
 | Határidő: | azonnal |
 
-## 2. felhívja a pénzügyminisztert, hogy – a belügyminiszter bevonásával – gondoskodjon a 2023. évben 1 852 102 421 forint többletforrás biztosításáról a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 9. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára.
-
-| Felelős: | pénzügyminiszter belügyminiszter |
-
-| Határidő: | azonnal |
+## 2.[^1]
 
 1. melléklet az 1505/2023. (XI. 17.) Korm. határozathoz
 
 3X08718.pdf
+
+[^1]: A 2. pontot az 1291/2024. (IX. 19.) Korm. határozat 128. pontja visszavonta.
