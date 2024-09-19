@@ -14,11 +14,11 @@ c) az „Eger Észak” és az „Eger Ipari Park” alállomások között új 
 
 1.2. az MVM Émász Áramhálózati Korlátolt Felelősségű Társaság (a továbbiakban: MVM Émász Áramhálózati Kft.) részére a fejlesztési területre vonatkozó közérdekű használati jog alapításával az 1.1. pont a) alpontja szerinti beruházás megvalósítása érdekében, azzal, hogy az ingatlan tulajdonosát a használat miatt fennálló korlátozás mértékének megfelelő kártalanítás illeti meg;
 
-2.[^1] felhívja a pénzügyminisztert, hogy – az energiaügyi miniszter, valamint a külgazdasági és külügyminiszter kezdeményezésére – gondoskodjon a Beruházások előkészítése érdekében 66 039 600 forint forrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet, XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára;
+2.[^1] felhívja az energiaügyi minisztert, valamint a külgazdasági és külügyminisztert, hogy gondoskodjanak a Beruházások előkészítése érdekében 66 039 600 forint forrás biztosításáról a Magyarország 2024. évi központi költségvetéséről szóló 2023. évi LV. törvény 1. melléklet XVII. Energiaügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Térségi fejlesztési feladatok alcím javára;
 
-| Felelős: | pénzügyminiszter energiaügyi miniszter külgazdasági és külügyminiszter |
+| Felelős: | energiaügyi miniszter külgazdasági és külügyminiszter |
 
-| Határidő: | a 2024. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
+| Határidő: | a felmerülés ütemében |
 
 3. felhívja az energiaügyi minisztert, hogy készítsen előterjesztést a Kormány részére a Beruházások megvalósítása érdekében szükséges további intézkedésekről;
 
@@ -44,4 +44,4 @@ c) az „Eger Észak” és az „Eger Ipari Park” alállomások között új 
 
 | Határidő: | azonnal |
 
-[^1]: A 2. pont az 1604/2023. (XII. 22.) Korm. határozat 9. pontjával megállapított szöveg.
+[^1]: A 2. pont az 1291/2024. (IX. 19.) Korm. határozat 127. pontjával megállapított szöveg.
