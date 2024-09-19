@@ -20,8 +20,17 @@ A Kormány
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
-5. felhívja a pénzügyminisztert, hogy gondoskodjon a Belső Ellenőrzési és Integritási Igazgatóság vonatkozásában az 1. pont szerinti informatikai infrastruktúra és alkalmazások éves üzemeltetési díjaként évi 26 060 000 forint többletforrás biztosításáról a 2024. évi központi költségvetés Kormányzati infokommunikációs szolgáltatásokat finanszírozó előirányzata javára.
+5.[^1] felhívja a Miniszterelnöki Kabinetirodát vezető minisztert, hogy gondoskodjon a Belső Ellenőrzési és Integritási Igazgatóság vonatkozásában az 1. pont szerinti informatikai infrastruktúra és alkalmazások éves üzemeltetési díjaként évi 26 060 000 forint többletforrás biztosításáról a 2024. évi központi költségvetés Kormányzati infokommunikációs szolgáltatásokat finanszírozó előirányzata javára;
+
+| Felelős: | Miniszterelnöki Kabinetirodát vezető miniszter |
+
+| Határidő: | a felmerülés ütemében |
+
+6.[^2] felhívja a pénzügyminisztert, hogy gondoskodjon a Belső Ellenőrzési és Integritási Igazgatóság vonatkozásában az 1. pont szerinti informatikai infrastruktúra és alkalmazások éves üzemeltetési díjaként évi 26 060 000 forint többletforrás biztosításáról az adott évi központi költségvetés Kormányzati infokommunikációs szolgáltatásokat finanszírozó előirányzata javára.
 
 | Felelős: | pénzügyminiszter |
 
-| Határidő: | a 2024. évtől az adott évi központi költségvetés tervezése során |
+| Határidő: | a 2025. évtől az adott évi központi költségvetés tervezése során |
+
+[^1]: Az 5. pont az 1291/2024. (IX. 19.) Korm. határozat 111. pontjával megállapított szöveg.
+[^2]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 111. pontja iktatta be.
