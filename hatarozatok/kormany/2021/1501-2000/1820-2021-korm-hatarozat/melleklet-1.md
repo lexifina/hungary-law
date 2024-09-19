@@ -66,7 +66,7 @@
 
 ## d)[^1]
 
-## 5.[^2]
+## 5.[^2] A Kormány egyetért azzal, hogy a 4. pont b) alpont ba) pontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
 ## 6.[^3]
 
@@ -79,7 +79,7 @@
 1. melléklet az 1820/2021. (XI. 25.) Korm. határozathoz[^7]
 
 [^1]: A 4. pont d) alpontját az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
-[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta.
+[^2]: Az 5. pontot az 1940/2021. (XII. 21.) Korm. határozat 3. pont c) pontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 83. pontja iktatta be.
 [^3]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
