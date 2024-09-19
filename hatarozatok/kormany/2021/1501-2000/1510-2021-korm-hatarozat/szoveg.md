@@ -37,3 +37,7 @@ Felelős: belügyminiszter
 pénzügyminiszter
 
 Határidő: 2021. november 30.
+
+7.[^1] egyetért azzal, hogy a 2. pont b) alpontja kapcsán összesen a 2024. évre vonatkozóan további 2 734 400 000 forint központi költségvetési forrás biztosítására kerül sor.
+
+[^1]: A 7. pontot az 1291/2024. (IX. 19.) Korm. határozat 67. pontja iktatta be.
