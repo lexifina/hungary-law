@@ -49,3 +49,7 @@ Felelős: innovációért és technológiáért felelős miniszter
 Határidő: a feltételes közbeszerzési eljárás indítása tekintetében azonnal
 
 az előterjesztés készítése tekintetében a feltételes közbeszerzési eljárás eredményes zárása után 60 nappal
+
+10.[^1] egyetért azzal, hogy a 6. pont kapcsán a 2024. évben központi költségvetési forrás biztosítása nem szükséges.
+
+[^1]: A 10. pontot az 1291/2024. (IX. 19.) Korm. határozat 99. pontja iktatta be.
