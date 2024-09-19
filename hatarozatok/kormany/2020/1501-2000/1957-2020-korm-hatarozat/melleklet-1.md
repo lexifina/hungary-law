@@ -18,9 +18,13 @@
 
 ## az ab) alpont tekintetében a 2022–2023. évben, az adott évi központi költségvetés tervezése során
 
+## 3.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1957/2020. (XII. 21.) Korm. határozathoz
 
 A Tiszavasvári komplex felzárkózási program keretében megvalósítandó célok
+
+0X10107_0
 
 | Sor- szám | Elvégzendő feladat (felújítás/beruházás, fenntartás) |
 
@@ -59,3 +63,5 @@ A Tiszavasvári komplex felzárkózási program keretében megvalósítandó cé
 | Belvíz- és csapadékvíz-elvezetés |
 
 | Közlekedésfejlesztési feladatok |
+
+[^1]: A 3. pontot az 1291/2024. (IX. 19.) Korm. határozat 39. pontja iktatta be.
