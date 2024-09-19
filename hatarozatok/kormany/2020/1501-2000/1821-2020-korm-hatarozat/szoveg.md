@@ -112,7 +112,7 @@ Határidő: folyamatos
 
 1.14. [^15] az Áht. 36. § (4b) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy az energiaügyi miniszter az 1.12. alpontban foglalt villamos energia hálózatfejlesztéshez legfeljebb 11 463 384 756 forint kötelezettséget vállaljon.
 
-1.15. [^16]
+1.15. [^16] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
 2.[^17]
 
@@ -135,7 +135,7 @@ Határidő: folyamatos
 [^13]: Az 1. pont 1.12. alpontja az 1622/2022. (XII. 13.) Korm. határozat 1. pontjával megállapított szöveg.
 [^14]: Az 1. pont 1.12. pont b) alpont bc) pontja az 1604/2023. (XII. 22.) Korm. határozat 2.2. pontjával megállapított szöveg.
 [^15]: Az 1. pont 1.14. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1530/2022. (XI. 2.) Korm. határozat 2. pontja iktatta be, szövege az 1622/2022. (XII. 13.) Korm. határozat 2. pontjával megállapított szöveg.
-[^16]: Az 1. pont 1.15. pontját az 1560/2021. (VIII. 5.) Korm. határozat 3. pontja iktatta be, visszavonta az 1231/2022. (IV. 19.) Korm. határozat 2. pontja.
+[^16]: Az 1. pont 1.15. pontját az 1231/2022. (IV. 19.) Korm. határozat 2. pontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 34. pontja iktatta be.
 [^17]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

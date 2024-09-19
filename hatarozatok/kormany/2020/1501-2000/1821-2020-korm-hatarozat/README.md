@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-1821-30
 | 2023-03-29 | 2020-1821-30-22.9 | 1107/2023. (III. 29.) Korm. határozat |
 | 2023-12-22 | 2020-1821-30-22.11 | 1604/2023. (XII. 22.) Korm. határozat |
 | 2024-01-01 | 2020-1821-30-22.10 | 2011: CXCV. törvény |
+| 2024-09-19 | 2020-1821-30-22.12 | 1231/2022. (IV. 19.) Korm. határozat |
