@@ -43,3 +43,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 Határidő: az a) alpont esetében a forrás rendelkezésre állását követően azonnal
 
 a b) alpont esetében a támogatási szerződés megkötését követő 30 napon belül
+
+4.[^1] egyetért azzal, hogy a 2. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 48. pontja iktatta be.
