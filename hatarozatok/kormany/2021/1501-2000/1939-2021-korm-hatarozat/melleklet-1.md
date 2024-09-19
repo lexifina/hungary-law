@@ -64,7 +64,7 @@
 
 ## Határidő: az a) alpont szerinti feladat végrehajtását követően azonnal
 
-## 6.[^1]
+## 6.[^1] A Kormány egyetért azzal, hogy a 3. pont a) alpont aa) pontja, valamint a 4. pont a) alpontja kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
 
 ## 7.[^2]
 
@@ -80,7 +80,7 @@
 
 1. melléklet az 1939/2021. (XII. 21.) Korm. határozathoz[^8]
 
-[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 90. pontja iktatta be.
 [^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
