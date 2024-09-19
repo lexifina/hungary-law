@@ -13,3 +13,7 @@ A Kormány
 | Felelős: | építési és közlekedési miniszter |
 
 | Határidő: | a 2. pont teljesülését követően azonnal |
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 122. pontja iktatta be.
