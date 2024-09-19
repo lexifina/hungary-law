@@ -84,7 +84,7 @@
 
 ## a b) alpont tekintetében a 2022. évi központi költségvetés végrehajtása során, a felmerülés ütemében
 
-## 11.[^5]
+## 11.[^5] egyetért azzal, hogy e határozattal kapcsolatban további központi költségvetési többletforrás biztosítása nem szükséges.
 
 1. melléklet az 1750/2021. (X. 27.) Korm. határozathoz[^6]
 
@@ -94,5 +94,5 @@ Akadálymentesítéssel érintett határátkelőhelyek
 [^2]: Az 5. pont az 1256/2024. (VIII. 22.) Korm. határozat 2. pontjával megállapított szöveg.
 [^3]: A 6. pont az 1223/2023. (VI. 8.) Korm. határozat 1. pontjával megállapított szöveg.
 [^4]: A 9. pont az 1223/2023. (VI. 8.) Korm. határozat 2. pontjával megállapított szöveg.
-[^5]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 1291/2024. (IX. 19.) Korm. határozat 81. pontja iktatta be.
 [^6]: Az 1. melléklet az 1223/2023. (VI. 8.) Korm. határozat 3. pont a) pontjával megállapított szöveg.
