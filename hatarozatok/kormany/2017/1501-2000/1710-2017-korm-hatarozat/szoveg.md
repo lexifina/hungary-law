@@ -36,6 +36,9 @@ Határidő: a támogatói okirat kiadásakor
 
 | Határidő: | a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében |
 
+6.[^4] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: Az 1. pont az 1492/2022. (X. 19.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: Az 1. pont d) alpontját az 1492/2022. (X. 19.) Korm. határozat 3. pontja iktatta be.
 [^3]: Az 5. pontot az 1492/2022. (X. 19.) Korm. határozat 4. pontja iktatta be.
+[^4]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 1. pontja iktatta be.

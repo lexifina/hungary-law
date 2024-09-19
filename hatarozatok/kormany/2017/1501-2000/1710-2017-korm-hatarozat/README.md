@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-1710-30
 | --- | --- | --- |
 | 2017-09-25 | 2017-1710-30-22.1 | 1710/2017. (IX. 25.) Korm. határozat |
 | 2022-10-19 | 2017-1710-30-22.2 | 1492/2022. (X. 19.) Korm. határozat |
+| 2024-09-19 | 2017-1710-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |
