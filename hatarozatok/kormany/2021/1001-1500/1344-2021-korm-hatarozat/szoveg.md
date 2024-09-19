@@ -29,3 +29,7 @@ Felelős: belügyminiszter
 Határidő: 2021. október 31.
 
 5. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (2) bekezdésében meghatározott jogkörében eljárva a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 1. Ágazati célfeladatok alcím, 56. Kormányzati infokommunikációs szolgáltatások jogcímcsoport terhére vállalható kötelezettségek felső korlátját a közbiztonság erősítése érdekében meghatározott egyes feladatok megvalósítása vonatkozásában a 2021. évben 540 067 986 forintban állapítja meg.
+
+6.[^1] egyetért azzal, hogy a 2. ponttal kapcsolatosan további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 58. pontja iktatta be.
