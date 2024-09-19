@@ -88,7 +88,20 @@ b) XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím jav�
 
 | Határidő: | a 2022–2025 évekről 2026. március 31., azt követően az adott hároméves ciklust követő évben március 31. |
 
-2.[^2]
+1.8. [^2] úgy dönt, hogy az 1. pont 1.4. alpont 1.4.1. pont c) alpontja szerinti forrást a miniszterelnök általános helyettese biztosítsa;
+
+| Felelős: | a miniszterelnök általános helyettese |
+
+| Határidő: | a felmerülés ütemében |
+
+1.9. [^3] egyetért azzal, hogy a 2024. évben további központi költségvetési többletforrás biztosítására az 1.4. alpont 1.4.1. pont a) és b) alpontja szerinti feladatok tekintetében nem kerül sor;
+
+1.10. [^4] egyetért azzal, hogy a 2024. évben az 1.4.2. pont alapján a 2024. évben már biztosított támogatáson felül további központi költségvetési többletforrás biztosítása nem indokolt.
+
+2.[^5]
 
 [^1]: Az 1. pont 1.4. alpontja az 1104/2023. (III. 29.) Korm. határozattal megállapított szöveg.
-[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont 1.8. alpontját az 1291/2024. (IX. 19.) Korm. határozat 113. pontja iktatta be.
+[^3]: Az 1. pont 1.9. alpontját az 1291/2024. (IX. 19.) Korm. határozat 114. pontja iktatta be.
+[^4]: Az 1. pont 1.10. alpontját az 1291/2024. (IX. 19.) Korm. határozat 114. pontja iktatta be.
+[^5]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
