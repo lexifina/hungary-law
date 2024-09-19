@@ -125,3 +125,7 @@ Felelős: belügyminiszter
 innovációért és technológiáért felelős miniszter
 
 Határidő: a felmerülés ütemében
+
+24.[^1] egyetért azzal, hogy a 10. és 11. pont kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 24. pontot az 1291/2024. (IX. 19.) Korm. határozat 85. pontja iktatta be.
