@@ -52,7 +52,7 @@
 
 ## Határidő: 2022. május 31.
 
-## 10.[^4]
+## 10.[^4] egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
 
 1. melléklet az 1108/2021. (III. 10.) Korm. határozathoz
 
@@ -69,4 +69,4 @@
 [^1]: A 3. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
 [^2]: A 6. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
 [^3]: A 9. pont az 1600/2021. (VIII. 16.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: A 10. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta.
+[^4]: A 10. pontot az 1073/2022. (II. 16.) Korm. határozat 13. pont b) alpontja visszavonta, újonnan az 1291/2024. (IX. 19.) Korm. határozat 44. pontja iktatta be.
