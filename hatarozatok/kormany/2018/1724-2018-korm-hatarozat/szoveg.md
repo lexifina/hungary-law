@@ -44,11 +44,7 @@ Felelős: pénzügyminiszter
 
 Határidő: a felmerülés ütemében
 
-6. felhívja a pénzügyminisztert, hogy az 1. és 2. pontban meghatározott célkitűzések megvalósításához szükséges informatikai infrastruktúra fejlesztése érdekében gondoskodjon a XIV. Belügyminisztérium fejezet javára egyszeri jelleggel 2 172 970 000 forint forrás biztosításáról;
-
-Felelős: pénzügyminiszter
-
-Határidő: a 2020. költségvetési év tervezése során
+6.[^3]
 
 7. felhívja a pénzügyminisztert, valamint a külgazdasági és külügyminisztert, hogy gondoskodjon az 1. és 2. pontban meghatározott célkitűzések megvalósításával kapcsolatos kiadásoknak a 2020. évben a XVIII. Külgazdasági és Külügyminisztérium fejezet költségvetésében az alábbi források biztosításáról:
 
@@ -86,3 +82,4 @@ Határidő: 2021. június 30.
 
 [^1]: A 3. pont d) alpont de) alpontját az 1693/2020. (X. 27.) Korm. határozat 5. pontja visszavonta.
 [^2]: A 3. pont d) alpont dg) alpontját az 1685/2019. (XII. 10.) Korm. határozat 9. pontja visszavonta.
+[^3]: A 6. pontot az 1291/2024. (IX. 19.) Korm. határozat 8. pontja visszavonta.
