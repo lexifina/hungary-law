@@ -37,3 +37,7 @@ Határidő: a 2023–2028. évi központi költségvetés tervezése során
 Felelős: emberi erőforrások minisztere
 
 Határidő: évente a központi költségvetés tervezését megelőzően, legelső alkalommal 2023. március 15.
+
+8.[^1] egyetért azzal, hogy a 2022. és 2023. évek tekintetében az eddig biztosított forrásokon felül további 720 000 000 forint összegű forrás kerüljön biztosításra.
+
+[^1]: A 8. pontot az 1291/2024. (IX. 19.) Korm. határozat 95. pontja iktatta be.
