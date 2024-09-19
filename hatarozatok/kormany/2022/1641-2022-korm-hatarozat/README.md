@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2022-1641-30
 | --- | --- | --- |
 | 2022-12-19 | 2022-1641-30-22.1 | 1641/2022. (XII. 19.) Korm. határozat |
 | 2022-12-20 | 2022-1641-30-22.2 | 2010. évi CXXX. törvény |
+| 2024-09-19 | 2022-1641-30-22.3 | 1291/2024. (IX. 19.) Korm. határozat |

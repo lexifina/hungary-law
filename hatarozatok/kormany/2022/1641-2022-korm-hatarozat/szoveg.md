@@ -124,4 +124,7 @@ c)[^1]
 
 | Határidő: | első alkalommal 2024. február 15. napjáig |
 
+18.[^2] egyetért azzal, hogy e határozat kapcsán a 2024. évben további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: A 14. pont c) alpontja a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 18. pontot az 1291/2024. (IX. 19.) Korm. határozat 112. pontja iktatta be.
