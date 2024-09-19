@@ -74,5 +74,8 @@ innovációért és technológiáért felelős miniszter
 
 Határidő: folyamatos
 
+11.[^3] egyetért azzal, hogy a 6. pont b) alpontjával összefüggésben további központi költségvetési többletforrás biztosítása nem szükséges.
+
 [^1]: A 6. pont az 1045/2021. (II. 10.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 7. pont az 1466/2021. (VII. 15.) Korm. határozattal megállapított szöveg.
+[^3]: A 11. pontot az 1291/2024. (IX. 19.) Korm. határozat 28. pontja iktatta be.
