@@ -13,3 +13,7 @@ Határidő: az a) alpont tekintetében a 2021. évi központi költségvetés v�
 a b) alpont tekintetében az adott évi központi költségvetés tervezése során
 
 2. A Magyar Nemzeti Levéltár átfogó megújításának irányairól, kiemelten a levéltárpedagógiai feladatok és a magyar vonatkozású külföldi levéltári anyag kutatásának fejlesztésével összefüggő feladatokról szóló 1107/2018. (III. 19.) Korm. határozat 3. pontjában foglaltaktól eltérően a Kormány úgy rendelkezik, hogy a levéltári hungarika feltárásáról és gyűjtésével, a levéltárihungarika-kataszter működtetésével, valamint a határon túli magyar levéltárosok önkéntes továbbképzésének megvalósításával kapcsolatos feladat tekintetében a határidő folyamatos legyen.
+
+3.[^1] A Kormány egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 3. pontot az 1291/2024. (IX. 19.) Korm. határozat 21. pontja iktatta be.
