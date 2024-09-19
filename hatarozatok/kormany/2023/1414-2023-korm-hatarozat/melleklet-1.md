@@ -20,9 +20,11 @@
 
 | Határidő: | a forrás rendelkezésre állását követően azonnal |
 
-## 2.[^1]
+## d) [^1] egyetért azzal, hogy a b) alpont bb) pontja kapcsán szükséges forrást az építési és közlekedési miniszter biztosítja.
 
-## 3.[^2]
+## 2.[^2]
+
+## 3.[^3]
 
 1. melléklet az 1414/2023. (IX. 25.) Korm. határozathoz
 
@@ -44,5 +46,6 @@ a) az Északi szakasz kivitelezésével, finanszírozásával kapcsolatos széle
 
 b) kommunikációs, tájékoztatási és sajtónyilvánossággal kapcsolatos feladatok elvégzése.
 
-[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontját az 1291/2024. (IX. 19.) Korm. határozat 123. pontja iktatta be.
+[^2]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
