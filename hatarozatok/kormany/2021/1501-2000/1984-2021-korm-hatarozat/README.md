@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1984-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2021-12-27 | 2021-1984-30-22.1 | 1984/2021. (XII. 27.) Korm. határozat |
+| 2024-09-19 | 2021-1984-30-22.2 | 1291/2024. (IX. 19.) Korm. határozat |
