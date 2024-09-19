@@ -1,5 +1,7 @@
 ## adatok e Ft-ban
 
+## 1X06507_0
+
 | Sor- szám | A | B | C | D |
 
 | Kultúrstratégiai intézmény | 2021. évi többletforrás | 2022. évi többletforrás | 2023–2025. évi beépülő többletforrás |
@@ -40,7 +42,7 @@
 
 | ÖSSZESEN | 13 500 000 | 17 600 000 | 17 050 000 |  |
 
-2. melléklet az 1501/2021. (VII. 26.) Korm. határozathoz[^1]
+2. melléklet az 1501/2021. (VII. 26.) Korm. határozathoz[^2]
 
 adatok e Ft -ban
 
@@ -52,4 +54,4 @@ adatok e Ft -ban
 
 | 3. | Magyar Művészeti Akadémia | 209 000 | 2 030 500 | 85 000 | 2 479 500 | 80 000 | 295 000 | 80 000 | 295 000 |
 
-[^1]: A 2. melléklet az 1808/2021. (XI. 18.) Korm. határozat 5. pont a) és b) alpontja szerint módosított szöveg.
+[^2]: A 2. melléklet az 1808/2021. (XI. 18.) Korm. határozat 5. pont a) és b) alpontja szerint módosított szöveg.

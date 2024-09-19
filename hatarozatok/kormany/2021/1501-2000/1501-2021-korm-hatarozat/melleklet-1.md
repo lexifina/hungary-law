@@ -126,4 +126,8 @@
 
 ## Határidő: 2022. április 30.
 
+## 4.[^1] A Kormány egyetért azzal, hogy e határozat kapcsán a 2023. és 2024. évek tekintetében az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1501/2021. (VII. 26.) Korm. határozathoz
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 66. pontja iktatta be.
