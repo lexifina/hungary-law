@@ -17,3 +17,7 @@ Felelős: emberi erőforrások minisztere
 pénzügyminiszter
 
 Határidő: a 2022. évi központi költségvetés tervezése során
+
+4.[^1] egyetért azzal, hogy e határozat kapcsán az eddig biztosított forrásokon felül további központi költségvetési többletforrás biztosítása nem szükséges.
+
+[^1]: A 4. pontot az 1291/2024. (IX. 19.) Korm. határozat 43. pontja iktatta be.
