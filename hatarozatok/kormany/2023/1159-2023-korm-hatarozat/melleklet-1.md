@@ -12,7 +12,7 @@
 
 ## b) a 2. mellékletben foglalt táblázat 5–6. pontja szerinti fejlesztések előkészítési fázisai 2024. március 31. napjáig történő megvalósításával és e célra költségvetési forrás biztosításával, azzal, hogy e fejlesztések előkészítését az Agrárminisztérium végezze,
 
-## c) a 2. mellékletben foglalt táblázat 7. pontja szerinti fejlesztésnek 2024. július 31. napjáig történő előkészítésével és e célra költségvetési forrás biztosításával, azzal, hogy e fejlesztés előkészítését az Építési és Közlekedési Minisztérium végezze;
+## c)[^1] a 2. mellékletben foglalt táblázat 7. pontja szerinti fejlesztésnek 2026. július 31. napjáig történő előkészítésével és e célra költségvetési forrás biztosításával, azzal, hogy e fejlesztés előkészítését az Építési és Közlekedési Minisztérium végezze;
 
 ## 6. felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter bevonásával – az 5. pont a) alpontja szerinti fejlesztések előkészítése érdekében gondoskodjon
 
@@ -44,11 +44,15 @@
 
 | Határidő: | az a) alpont tekintetében a felmerülés ütemében a b) alpont tekintetében a 2024. évi központi költségvetés tervezése során |
 
-## 9. felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter bevonásával – az 5. pont c) alpontja szerinti fejlesztés előkészítése érdekében gondoskodjon 76 200 000 forint többletforrás biztosításáról a Kvtv. 1. melléklet XLV. Állami beruházások fejezet, 2. Közlekedési beruházások cím, 1. Közlekedési célú központi kezelésű előirányzatok alcím, 2. Állami közútfejlesztési beruházások jogcímcsoport javára;
+## 9.[^2] felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter kezdeményezésére – az 5. pont c) alpontja szerinti fejlesztés előkészítése érdekében gondoskodjon összesen legfeljebb 76 200 000 forint költségvetési forrás biztosításáról, az alábbi ütemezés szerint:
+
+## a) a 2025. évben a központi költségvetés Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzat javára legfeljebb 29 908 500 forint,
+
+## b) a 2026. évben a központi költségvetés Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzat javára legfeljebb 46 291 500 forint;
 
 | Felelős: | pénzügyminiszter építési és közlekedési miniszter |
 
-| Határidő: | a felmerülés ütemében |
+| Határidő: | az adott évi központi költségvetés tervezése során |
 
 ## 10. egyetért
 
@@ -144,17 +148,17 @@
 
 | Határidő: | az a) alpont tekintetében a felmerülés ütemében a b)–c) alpont tekintetében az adott évi központi költségvetés tervezése során |
 
-## 17. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter bevonásával – történeti kutatások és rendezvények, valamint terepi műszeres tevékenység lebonyolításának finanszírozása érdekében gondoskodjon
+## 17.[^3] felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter, valamint a miniszterelnök általános helyettese bevonásával – történeti kutatások és rendezvények, valamint terepi műszeres tevékenység lebonyolításának finanszírozása érdekében gondoskodjon
 
-## a) 100 000 000 forint többletforrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport javára,
+## a) a 2023. évben legfeljebb 100 000 000 forint többletforrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport javára,
 
-## b) a 2024. évben 100 000 000 forint rendelkezésre állásáról a 2024. évi központi költségvetés XI. Miniszterelnökség fejezetében,
+## b) a 2025. évben legfeljebb 100 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XI. Miniszterelnökség fejezetében,
 
-## c) a 2025. évben 100 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XI. Miniszterelnökség fejezetében;
+## c) a 2026. évben legfeljebb 100 000 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XI. Miniszterelnökség fejezetében;
 
-| Felelős: | pénzügyminiszter Miniszterelnökséget vezető miniszter |
+| Felelős: | az a) alpont tekintetében: pénzügyminiszter Miniszterelnökséget vezető miniszter a b)–c) alpont tekintetében: pénzügyminiszter a miniszterelnök általános helyettese |
 
-| Határidő: | az a) alpont tekintetében a felmerülés ütemében a b)–c) alpont tekintetében az adott évi központi költségvetés tervezése során |
+| Határidő: | az a) alpont vonatkozásában a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) és c) alpont vonatkozásában az adott évi központi költségvetés tervezése során |
 
 ## 18. felhívja a pénzügyminisztert, hogy – a honvédelmi miniszter bevonásával – gondoskodjon a Honvédelmi Minisztérium Hadtörténeti Intézet és Múzeum által tervezett projektek megvalósításához
 
@@ -172,6 +176,17 @@
 
 | Határidő: | folyamatos |
 
+## 20.[^4] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 5. pont c) alpontjában meghatározott feladatok ellátása érdekében a központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat terhére vállalható kötelezettségek mértékét a 2025–2026. évekre az alábbiak szerint állapítja meg:
+
+## a) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja legfeljebb 29 908 500 forint,
+
+## b) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja legfeljebb 69 786 500 forint.
+
 1. melléklet az 1159/2023. (IV. 27.) Korm. határozathoz
 
 A „Mohács 500” Program fejlesztései
+
+[^1]: Az 5. pont c) alpontja az 1288/2024. (IX. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1288/2024. (IX. 19.) Korm. határozat 3. pontjával megállapított szöveg.
+[^3]: A 17. pont az 1288/2024. (IX. 19.) Korm. határozat 4. pontjával megállapított szöveg.
+[^4]: A 20. pontot az 1288/2024. (IX. 19.) Korm. határozat 5. pontja iktatta be.
