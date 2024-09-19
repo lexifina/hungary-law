@@ -94,6 +94,8 @@
 
 ## Határidő: 2020. december 31.
 
+## 14.[^10] egyetért azzal, hogy e határozat kapcsán további központi költségvetési többletforrás biztosítása nem szükséges.
+
 1. melléklet az 1727/2020. (X. 30.) Korm. határozathoz
 
 A Beruházás megvalósításához szükséges ingatlanok
@@ -203,3 +205,4 @@ A Beruházás megvalósításához szükséges ingatlanok
 [^7]: A 9. pont c) alpontja az 1344/2022. (VII. 15.) Korm. határozat g) pontja szerint módosított szöveg.
 [^8]: [Az 1344/2022. (VII. 15.) Korm. határozat h) pontjával elrendelt módosítás, amely szerint az „a 2022–2024. évi központi költségvetés tervezése során” szövegrész helyébe az „a 2022–2024. évi központi költségvetés tervezése során, illetve a felmerülés ütemében” szöveg lép, nem vezethető át.]
 [^9]: A 11. pont az 1218/2022. (IV. 5.) Korm. határozat 2. pontjával megállapított szöveg.
+[^10]: A 14. pontot az 1291/2024. (IX. 19.) Korm. határozat 30. pontja iktatta be.
