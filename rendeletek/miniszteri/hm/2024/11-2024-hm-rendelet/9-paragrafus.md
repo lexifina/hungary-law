@@ -38,4 +38,6 @@ c) a (6) bekezdés b) pontja esetén legfeljebb az eljárás jogerős vagy végl
 
 (8) A fegyelmi jogkört gyakorló a fegyelmi eljárást határozattal felfüggesztheti a honvéd a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 59. § (1) bekezdés i) pontja vagy a Hvt. 59. § (2) bekezdés a) pontja szerinti feladatban való részvételének időtartamára.
 
-(9) Az eljárás felfüggesztésének időtartama a fegyelmi eljárás lefolytatására miniszteri rendeletben előírt határidőbe nem számít be.
+(9)[^2] Az eljárás felfüggesztésének időtartama a fegyelmi eljárás lefolytatására előírt határidőbe nem számít be.
+
+[^2]: A 9. § (9) bekezdése a 19/2024. (IX. 19.) HM rendelet 34. § b) pontja szerint módosított szöveg.
