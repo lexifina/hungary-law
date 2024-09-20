@@ -1,6 +1,6 @@
 ## 7. A temetési segély
 
-10. §[^32] (1) A honvéd állományilletékes parancsnokának engedélye alapján temetési segély adható kérelemre
+10. §[^43] (1) A honvéd állományilletékes parancsnokának engedélye alapján temetési segély adható kérelemre
 
 a) a honvéd részére, ha a vele közös háztartásban élő házastársa, élettársa vagy – nagyszülő és dédszülő kivételével – egyenesági rokona elhalálozott,
 
@@ -8,11 +8,11 @@ b) honvéd elhalálozása esetén az elhalálozás időpontjában az elhunyttal 
 
 (2) Az (1) bekezdés a) pontja szerinti temetési segély kifizetése a honvéd nevére kiállított számla leadása ellenében engedélyezhető.
 
-(3) A temetési segély összege az (1) bekezdés a) pontja szerinti esetben, ha a honvéd Hjt. 122. § (1) bekezdésében foglalt illetményelemek alapján – az esetleges letiltások figyelmen kívül hagyásával – számított havi nettó illetménye eléri vagy meghaladja a honvéd által kifizetett és számlákkal igazolt temetési költség összegét, a felszámítási alap 130%-a, egyéb esetben a felszámítási alap 190%-a.
+(3)[^44] A temetési segély összege az (1) bekezdés a) pontja szerinti esetben, ha a honvéd Hjkr. 24. § (1) vagy (4) bekezdése szerinti illetménye alapján – az esetleges letiltások figyelmen kívül hagyásával – számított havi nettó illetménye eléri vagy meghaladja a honvéd által kifizetett és számlákkal igazolt temetési költség összegét, a felszámítási alap 260%-a, egyéb esetben a felszámítási alap 380%-a.
 
 (4) A (3) bekezdés alkalmazása során a távolléti díj helyett
 
-a)[^33] honvéd altiszt-jelölt esetében az alapösztöndíj, az alapösztöndíj-kiegészítés és a tanulmányi pótlék együttes, és
+a)[^45]
 
 b) a szolgálati járandóságban részesülő önkéntes tartalékos katona esetében a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelően számított alapilletmény
 
@@ -26,5 +26,6 @@ b) a szolgálati járandóságban részesülő önkéntes tartalékos katona ese
 
 (8) Ha több honvéd ugyanazon, (1) bekezdés a) pontja szerinti hozzátartozója halálozik el, temetési segély kizárólag azon honvéd részére biztosítható, aki az elhunyt temettetéséről gondoskodott. Ha több honvéd is gondoskodott ugyanazon elhunyt temettetéséről, temetési segély abban az esetben biztosítható, ha a honvédek közös nyilatkozatban rögzítik azt, hogy a kifizetés melyikük részére történjen.
 
-[^32]: A 10. § a 22/2021. (XI. 5.) HM rendelet 8. §-ával megállapított szöveg.
-[^33]: A 10. § (4) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 3. § c) pontja szerint módosított szöveg.
+[^43]: A 10. § a 22/2021. (XI. 5.) HM rendelet 8. §-ával megállapított szöveg.
+[^44]: A 10. § (3) bekezdése a 19/2024. (IX. 19.) HM rendelet 9. §-ával megállapított szöveg.
+[^45]: A 10. § (4) bekezdés a) pontját a 19/2024. (IX. 19.) HM rendelet 11. §-a hatályon kívül helyezte.

@@ -10,7 +10,7 @@ c) intézkedésre jogosult közeli hozzátartozó: a temetőkről és a temetkez
 
 d) kegyeleti minősítés: az elhunyt honvéd vagy nyugállományú katona életútja, érdemei, a szolgálatteljesítésének jellege és halálának körülményei figyelembevételével a minősítésre jogosult parancsnok által „Hősi halottá”, „Magyar Honvédség halottjává” vagy „Katonai szolgálat halottjává” nyilvánítása,
 
-e)[^2] minősítésre jogosult parancsnok: a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 139. § (1) és (2) bekezdése szerinti elöljáró, továbbá a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló HM rendelet szerint minősítésre jogosult személy,
+e)[^2] minősítésre jogosult parancsnok: a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet (a továbbiakban: Hjkr.) 25. § (1) és (2) bekezdése szerinti elöljáró, továbbá a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló HM rendelet szerint minősítésre jogosult személy,
 
 f)[^3] honvédségi nyugdíjas: a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 1. § (1) bekezdés d) pontja szerinti személy, a nyugdíjas kormánytisztviselő kivételével,
 
@@ -29,7 +29,7 @@ gb) aki a honvédelmi szervezettel fennálló jogviszonyának megszűnése és n
 (5)[^7] E rendelet alkalmazásában a felszámítási alap 38 650 forint.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 18/2022. (XII. 28.) HM rendelet 1. §-ával megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 11. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (1) bekezdés e) pontja a 22/2021. (XI. 5.) HM rendelet 11. § a) pontja, a 19/2024. (IX. 19.) HM rendelet 10. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés f) pontja a 22/2021. (XI. 5.) HM rendelet 1. § (2) bekezdésével megállapított, a 25/2023. (XII. 27.) HM rendelet 1. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § (1) bekezdés g) pont nyitó szövegrésze a 22/2021. (XI. 5.) HM rendelet 11. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § (3) bekezdését a 22/2021. (XI. 5.) HM rendelet 1. § (3) bekezdése iktatta be.

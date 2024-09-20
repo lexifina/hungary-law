@@ -12,14 +12,14 @@ c) nyugállományú főtiszt elhunyt esetén a díszkíséretet raj szintű aleg
 
 d) nyugállományú tiszt, zászlós, altiszt elhunyt esetén a díszkíséret raj szintű alegység, a gyászzene audiótechnikai eszköz és kürtös alkalmazásával kerül biztosításra, vagy
 
-e)[^20] legénységi állománycsoportba tartozó honvéd, a honvéd altiszt-jelölt elhunyt esetén a díszkíséret raj szintű alegység, a gyászzene audiótechnikai eszköz és kürtös alkalmazásával kerül biztosításra.
+e)[^23] legénységi állománycsoportba tartozó honvéd elhunyt esetén a díszkíséret raj szintű alegység, a gyászzene audiótechnikai eszköz és kürtös alkalmazásával kerül biztosításra.
 
 (4) A KKM elnöke engedélyezheti a „Hősi halottá”, illetve a „Magyar Honvédség halottjává” nyilvánított hivatásos állományú tábornok elhunyt végső nyughelyére ágyútalpon való kísérését.
 
-(5)[^21] A HVKF engedélyével annak az 5. § (1) bekezdése hatálya alá nem tartozó elhunytnak, aki tevékenységével kiemelkedően szolgálta a honvédelem ügyét, a (3) bekezdés e) pontja szerinti díszkíséret és gyászzene biztosítható.
+(5)[^24] A HVKF engedélyével annak az 5. § (1) bekezdése hatálya alá nem tartozó elhunytnak, aki tevékenységével kiemelkedően szolgálta a honvédelem ügyét, a (3) bekezdés e) pontja szerinti díszkíséret és gyászzene biztosítható.
 
-(6)[^22] A „Honvédelmi Minisztérium saját halottjává” nyilvánított elhunyt esetén a díszkíséretet szakasz, vagy a miniszter egyedi döntése alapján századszintű alegység, a gyászzenét katonazenekar biztosíthatja.
+(6)[^25] A „Honvédelmi Minisztérium saját halottjává” nyilvánított elhunyt esetén a díszkíséretet szakasz, vagy a miniszter egyedi döntése alapján századszintű alegység, a gyászzenét katonazenekar biztosíthatja.
 
-[^20]: A 6. § (3) bekezdés e) pontja a 7/2022. (IV. 14.) HM rendelet 3. § a) pontja szerint módosított szöveg.
-[^21]: A 6. § (5) bekezdését a 16/2018. (IX. 27.) 3. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 6. § (1) bekezdésével megállapított, a 25/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
-[^22]: A 6. § (6) bekezdését a 22/2021. (XI. 5.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^23]: A 6. § (3) bekezdés e) pontja a 7/2022. (IV. 14.) HM rendelet 3. § a) pontja, a 19/2024. (IX. 19.) HM rendelet 10. § 5. pontja szerint módosított szöveg.
+[^24]: A 6. § (5) bekezdését a 16/2018. (IX. 27.) 3. §-a iktatta be, szövege a 22/2021. (XI. 5.) HM rendelet 6. § (1) bekezdésével megállapított, a 25/2023. (XII. 27.) HM rendelet 1. § c) pontja szerint módosított szöveg.
+[^25]: A 6. § (6) bekezdését a 22/2021. (XI. 5.) HM rendelet 6. § (2) bekezdése iktatta be.
