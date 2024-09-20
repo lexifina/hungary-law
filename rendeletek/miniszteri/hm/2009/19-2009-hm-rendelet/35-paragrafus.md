@@ -1,3 +1,3 @@
-35. §[^118] Ha a lakás feltétel bekövetkezéséig szóló bérbeadására – felmentés vagy mentesülés alapján – ismételt juttatásként került sor, a 30. § (1) bekezdése, a 32. § (1) bekezdés a) pontja, valamint a 34. § (1) bekezdése csak akkor alkalmazható – ideértve a felmentés vagy mentesülés alapján kötött lakásbérleti szerződés módosítását is –, ha a felmentés a 9. § (1) bekezdés e) és f) pontjában, valamint a 9. § (2) bekezdés a) és b) pontjában foglalt rendelkezés hatálya alól történt, és a teljes összegű munkáltatói kölcsön, valamint a lakás kiürítési és cseretérítés visszafizetése teljesült.
+35. §[^126]
 
-[^118]: A 35. § a 16/2022. (XII. 22.) HM rendelet 1. §-ával megállapított szöveg.
+[^126]: A 35. §-t a 19/2024. (IX. 19.) HM rendelet 5. § 10. pontja hatályon kívül helyezte.

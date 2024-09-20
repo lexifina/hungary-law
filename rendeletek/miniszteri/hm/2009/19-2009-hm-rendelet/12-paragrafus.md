@@ -1,5 +1,5 @@
-## 11. §[^64] Ha az állami tulajdonú, HM vagyonkezelői jogú lakás bérbeadására nem honvédelmi szervezettel kötött megállapodással kerül sor, a 10. § rendelkezéseit nem kell alkalmazni.
+## 11. §[^70] Ha az állami tulajdonú, HM vagyonkezelői jogú lakás bérbeadására nem honvédelmi szervezettel kötött megállapodással kerül sor, a 10. § rendelkezéseit nem kell alkalmazni.
 
 ## A lakásigénylés rendje
 
-[^64]: A 11. § a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja szerint módosított szöveg.
+[^70]: A 11. § a 22/2018. (XII. 28.) HM rendelet 4. § i) pontja szerint módosított szöveg.

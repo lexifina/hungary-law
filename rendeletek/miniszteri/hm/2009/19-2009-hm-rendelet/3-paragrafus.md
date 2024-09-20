@@ -96,7 +96,7 @@ b) beosztásának (11) bekezdés a) pontja szerinti megszűnése nélkül, új k
 
 c)[^26] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szervezet más helyőrségben lévő szervezeti egysége részére történő feladatátadással összefüggésben helyezték át az új helyőrségben rendszeresített szolgálati beosztásba.
 
-(13)[^27] E rendelet alkalmazásában helyőrségváltás alatt az egy évet meg nem haladó időtartamú vezénylés esetének kivételével a szolgálati hely szerinti település megváltozását kell érteni.
+(13)[^27]
 
 (14)[^28] Ha a honvédelmi alkalmazott esetében valamely lakhatási támogatásra való jogosultság honvédelmi szervezetnél eltöltött honvédelmi alkalmazotti jogviszonyhoz kötött, az átalakult jogviszonyok esetében a honvédelmi alkalmazotti jogviszonyt és az azt közvetlenül megelőző közalkalmazotti jogviszonyt egybe kell számítani. Az egybeszámított jogviszony kezdőnapjának a közalkalmazotti jogviszony kezdő napját kell tekinteni.
 
@@ -117,5 +117,5 @@ c)[^26] más helyőrségben lévő katonai szervezet vagy ugyanazon katonai szer
 [^24]: A 3. § (10) bekezdés c) pontja a 9/2021. (III. 2.) HM rendelet 2. § (4) bekezdésével megállapított szöveg.
 [^25]: A 3. § (10) bekezdés f) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^26]: A 3. § (12) bekezdés c) pontját a 10/2014. (VII. 25.) HM rendelet 22. §-a iktatta be. Alkalmazására lásd e módosító rendelet 17–18. §-át.
-[^27]: A 3. § (13) bekezdését újonnan a 15/2015. (XII. 21.) HM rendelet 1. §-a iktatta be.
+[^27]: A 3. § (13) bekezdését újonnan a 15/2015. (XII. 21.) HM rendelet 1. §-a iktatta be, a 19/2024. (IX. 19.) HM rendelet 5. § 1. pontja hatályon kívül helyezte.
 [^28]: A 3. § (14) bekezdését a 9/2021. (III. 2.) HM rendelet 2. § (5) bekezdése iktatta be.

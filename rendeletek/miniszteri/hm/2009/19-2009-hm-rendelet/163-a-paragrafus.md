@@ -1,4 +1,4 @@
-163/A. §[^230] (1) A 2019. március 31-én helyőrségi szállóként vagy garzonlakásként hasznosított HM vagyonkezelésű lakást a honvédelmi szervezet állományába tartozó, bent lakó személy részére – kérelemére – a (2) és (3) bekezdésben foglaltak szerint kell a HM rendelkezésű lakás bérletére vonatkozó szabályok szerint, a szállóként történő hasznosítás megszüntetését követően bérbe adni.
+163/A. §[^244] (1) A 2019. március 31-én helyőrségi szállóként vagy garzonlakásként hasznosított HM vagyonkezelésű lakást a honvédelmi szervezet állományába tartozó, bent lakó személy részére – kérelemére – a (2) és (3) bekezdésben foglaltak szerint kell a HM rendelkezésű lakás bérletére vonatkozó szabályok szerint, a szállóként történő hasznosítás megszüntetését követően bérbe adni.
 
 (2) Ha a kérelmező esetében a 9. § szerinti kizáró ok nem áll fenn, vagy a 9. § szerinti kizáró ok alól a 9. § (4) bekezdés a) pontja alapján felmentést kapott, a lakást a 30. § (1) bekezdése szerinti feltétel bekövetkezéséig szólóan adhatja bérbe a helyi lakásgazdálkodási szerv.
 
@@ -16,4 +16,4 @@ d) a lakás helyettes államtitkár vagy annál magasabb besorolású személy r
 
 e) a szállóként hasznosított lakás több, a honvédelmi szervezet állományába tartozó szállóelhelyezésre jogosult személy elhelyezését szolgálja.
 
-[^230]: A 163/A. §-t a 6/2019. (IV. 15.) HM rendelet 7. §-a iktatta be.
+[^244]: A 163/A. §-t a 6/2019. (IV. 15.) HM rendelet 7. §-a iktatta be.

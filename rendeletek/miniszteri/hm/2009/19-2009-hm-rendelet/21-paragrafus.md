@@ -4,9 +4,9 @@
 
 (2) A nyilvántartásba vett lakásigénylések éves besorolásáról, valamint a tárgyévi lakáskeret és az annak felhasználásával felszabaduló HM rendelkezésű lakások elosztásáról a keretgazda lakásbizottság dönt.
 
-(3)[^78] A keretgazda lakásbizottság a lakáselosztásról hozott döntéséről 15 napon belül a személyi javaslatával értesíti a fővárosi helyi lakásgazdálkodási szervet, amely a bérlőkijelölési, bérlőkiválasztási, illetve bérbeadási eljárást lefolytatja.
+(3)[^85] A keretgazda lakásbizottság a lakáselosztásról hozott döntéséről 15 napon belül a személyi javaslatával értesíti a fővárosi helyi lakásgazdálkodási szervet, amely a bérlőkijelölési, bérlőkiválasztási, illetve bérbeadási eljárást lefolytatja.
 
-(4)[^79] A lakásbizottságok a nyilvántartott és besorolt lakásigényekről folyamatosan tájékoztatják a fővárosi helyi lakásgazdálkodási szervet.
+(4)[^86] A lakásbizottságok a nyilvántartott és besorolt lakásigényekről folyamatosan tájékoztatják a fővárosi helyi lakásgazdálkodási szervet.
 
-[^78]: A 21. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés b) pontja szerint módosított szöveg.
-[^79]: A 21. § (4) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^85]: A 21. § (3) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^86]: A 21. § (4) bekezdése a 4/2012. (IV. 5.) HM rendelet 21. § (4) bekezdés c) pontja szerint módosított szöveg.

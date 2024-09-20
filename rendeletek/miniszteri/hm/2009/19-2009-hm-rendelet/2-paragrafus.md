@@ -14,7 +14,7 @@ bc) munkavállalójára,
 
 kivéve, ha a bb) és bc) alpont szerinti alkalmazottak esetében jogszabály eltérően rendelkezik,
 
-c)[^4] a honvédelemért felelős miniszter által vezetett minisztérium (a továbbiakban: HM) rendelkezése alatt lévő (a továbbiakban: HM rendelkezésű) lakásra és szükséglakásra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségre, valamint honvédségi szállóra és garzonházra,
+c)[^4] a HM rendelkezése alatt lévő (a továbbiakban: HM rendelkezésű) lakásra és szükséglakásra, nem lakás céljára szolgáló, bérbeadás útján hasznosított helyiségre, valamint honvédségi szállóra és garzonházra,
 
 d)[^5] a honvédelmi szervezet lakásbizottságára, lakásgazdálkodási és lakóházkezelő szervére, valamint a személyügyi és pénzügyi szervekre,
 
@@ -24,15 +24,15 @@ e)[^6] a szolgáltatási szerződésben vállalt feladatok tekintetében a lakó
 
 (3) A rájuk vonatkozó mértékig e rendeletet kell alkalmazni
 
-a)[^8] a hivatásos állománynak arra a korábbi tagjára, aki a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 2. § 30. pontja alapján nyugállományú katonának minősül (a továbbiakban: nyugállományú hivatásos katona).
+a)[^8] a hivatásos állománynak arra a korábbi tagjára, aki a Hjkr. 29. § 14. pontja alapján nyugállományú katonának minősül (a továbbiakban: nyugállományú hivatásos katona).
 
 b)[^9] a hivatásos, a hivatásos állományból szolgálati nyugállományba helyezett katonának, valamint az állomány hősi halott tagjának özvegyére, az 5. § (1) bekezdés c) pontja szerinti feltétekkel rendelkező túlélő élettársára, továbbá a hősi halott saját háztartásában eltartott gyermekére.
 
 [^2]: A 2. § (1) bekezdés a) pontja a 7/2022. (IV. 14.) HM rendelet 1. §-ával megállapított, a 24/2023. (XII. 27.) HM rendelet 1. § (1) bekezdése szerint módosított szöveg.
 [^3]: A 2. § (1) bekezdés b) pontja a 9/2021. (III. 2.) HM rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (1) bekezdés c) pontja a 22/2018. (XII. 28.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdés c) pontja a 19/2024. (IX. 19.) HM rendelet 4. § 1. pontja szerint módosított szöveg.
 [^5]: A 2. § (1) bekezdés d) pontja a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (1) bekezdés e) pontja a 22/2018. (XII. 28.) HM rendelet 4. § d) pontja szerint módosított szöveg.
 [^7]: A 2. § (2) bekezdése a 22/2013. (X. 7.) HM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^8]: A 2. § (3) bekezdés a) pontja a 10/2014. (VII. 25.) HM rendelet 21. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 17–18. §-át.
+[^8]: A 2. § (3) bekezdés a) pontja a 10/2014. (VII. 25.) HM rendelet 21. §-ával megállapított , a 19/2024. (IX. 19.) HM rendelet 4. § 2. pontja szerint módosított szöveg.
 [^9]: A 2. § (3) bekezdés b) pontja a 22/2013. (X. 7.) HM rendelet 1. § (3) bekezdésével megállapított szöveg.

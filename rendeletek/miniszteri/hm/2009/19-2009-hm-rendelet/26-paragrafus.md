@@ -1,6 +1,6 @@
-## A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása[^90]
+## A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása[^97]
 
-26. §[^91] (1) A rendeltetésszerű használatra alkalmatlan műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú és HM vagyonkezelői jogú lakás a megtekintett állapotban adható bérbe.
+26. §[^98] (1) A rendeltetésszerű használatra alkalmatlan műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú és HM vagyonkezelői jogú lakás a megtekintett állapotban adható bérbe.
 
 (2) A bérleti szerződés akkor köthető meg, ha a kijelölt bérlő vállalja, hogy
 
@@ -18,5 +18,5 @@ d) elővásárlási jogával élve a lakás megvásárlására két éven belül
 
 (5) A fővárosban és a fővárosi helyi lakásgazdálkodási szervhez utalt településeken lévő, (1) bekezdésben meghatározott műszaki állapotban lévő lakások e § alapján történő hasznosítását a keretgazda lakásbizottságok közötti arányos elosztás útján kell megkísérelni.
 
-[^90]: Az „A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása” alcím címet a 9/2019. (VIII. 30.) HM rendelet 1. §-a iktatta be.
-[^91]: A 26. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte, újonnan a 6/2019. (IV. 15.) HM rendelet 4. §-a iktatta be, szövege a 9/2021. (III. 2.) HM rendelet 7. §-ával megállapított szöveg.
+[^97]: Az „A rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő lakások hasznosítása” alcím címet a 9/2019. (VIII. 30.) HM rendelet 1. §-a iktatta be.
+[^98]: A 26. §-t a 10/2014. (VII. 25.) HM rendelet 59. § (1) bekezdése hatályon kívül helyezte, újonnan a 6/2019. (IV. 15.) HM rendelet 4. §-a iktatta be, szövege a 9/2021. (III. 2.) HM rendelet 7. §-ával megállapított szöveg.

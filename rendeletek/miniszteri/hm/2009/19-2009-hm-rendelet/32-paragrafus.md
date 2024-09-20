@@ -8,9 +8,9 @@ c) a magánszemélyek közötti lakáscsere esetén a HM rendelkezésű lakásba
 
 d) annak, aki a visszaadásra kerülő vagy a korábban térítés nélkül visszaadott HM rendelkezésű lakását határozatlan időtartamra bérelte,
 
-e)[^108] annak, aki vállalja a rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú, HM vagyonkezelői jogú lakás rendeltetésszerű használatra alkalmassá tételét.
+e)[^116] annak, aki vállalja a rendeltetésszerű használatra nem alkalmas műszaki állapotban lévő, felújításra nem tervezett, állami tulajdonú, HM vagyonkezelői jogú lakás rendeltetésszerű használatra alkalmassá tételét.
 
-(2)[^109] Az (1) bekezdés b) pontja a honvédelmi szervezet állományába tartozó személy esetében nem alkalmazható. Részére a lakást – amennyiben a 9. § (1) bekezdés szerinti kizáró ok nem áll fent – a 30. § (1) bekezdésben foglaltak szerint kell bérbe adni.
+(2)[^117] Az (1) bekezdés b) pontja a honvédelmi szervezet állományába tartozó személy esetében nem alkalmazható. Részére a lakást – amennyiben a 9. § (1) bekezdés szerinti kizáró ok nem áll fent – a 30. § (1) bekezdésben foglaltak szerint kell bérbe adni.
 
-[^108]: A 32. § (1) bekezdés e) pontja a 6/2019. (IV. 15.) HM rendelet 5. §-ával megállapított szöveg.
-[^109]: A 32. § (2) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^116]: A 32. § (1) bekezdés e) pontja a 6/2019. (IV. 15.) HM rendelet 5. §-ával megállapított szöveg.
+[^117]: A 32. § (2) bekezdése a 22/2018. (XII. 28.) HM rendelet 4. § b) pontja szerint módosított szöveg.
