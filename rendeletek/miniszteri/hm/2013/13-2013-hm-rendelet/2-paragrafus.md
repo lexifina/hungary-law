@@ -1,7 +1,7 @@
 ## 2. A missziós regeneráló pihentetés
 
-2. § (1)[^13] Fokozott megterheléssel járó külföldi szolgálatot követően egészségi, pszichikai és fizikai állapota helyreállításának elősegítése, fenntartása érdekében az MH regenerálódást segítő és rekreációt végző és az MH regenerálódást és kiképzést végző szervezeténél a műveleti területről történő hazatérést követő 3 hónapon belül missziós regeneráló pihentetésen vesz részt az állomány tagja, ha műveleti területen teljesített szolgálatának időtartama eléri vagy meghaladja a 4 hónapot. A missziós regeneráló pihentetés alatt az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól.
+2. § (1)[^14] Fokozott megterheléssel járó külföldi szolgálatot követően egészségi, pszichikai és fizikai állapota helyreállításának elősegítése, fenntartása érdekében az MH regenerálódást segítő és rekreációt végző és az MH regenerálódást és kiképzést végző szervezeténél a műveleti területről történő hazatérést követő 3 hónapon belül missziós regeneráló pihentetésen vesz részt az állomány tagja, ha műveleti területen teljesített szolgálatának időtartama eléri vagy meghaladja a 4 hónapot. A missziós regeneráló pihentetés alatt az állomány tagja mentesül a szolgálatteljesítési kötelezettség alól.
 
 (2) A missziós regeneráló pihentetés időtartama 5 vendégéjszaka, amely lehetőség szerint kötelékben, elő- vagy utószezonban, indokolt esetben főszezonban a turnusváltásokhoz igazodva kerül végrehajtásra.
 
-[^13]: A 2. § (1) bekezdése a 4/2017. (IV. 28.) HM rendelet 2. §-ával megállapított szöveg.
+[^14]: A 2. § (1) bekezdése a 4/2017. (IV. 28.) HM rendelet 2. §-ával megállapított szöveg.

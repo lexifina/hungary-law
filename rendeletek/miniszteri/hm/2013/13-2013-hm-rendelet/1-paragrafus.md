@@ -14,35 +14,38 @@
 
 4.[^4] honvédelmi szervezet: a honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény (a továbbiakban: Hvt.) 3. § 14. pontja szerinti honvédelmi szervezet, valamint a honvédelemért felelős miniszter (a továbbiakban: miniszter) fenntartói irányítása alá tartozó, a Hvt. 3. § 14. pontja szerinti honvédelmi szervezetnek nem minősülő szakképző intézmény,
 
-5.[^5] honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, kormányzati ügykezelő (a továbbiakban együtt: kormánytisztviselő), köztisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
+4a.[^5] honvédségi érdekvédelmi és civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvénynek megfelelő szervezetek és azok tagszervezetei, amelyek felvállalják tagjaik érdekképviseletét, a nyugállományú katonákkal és honvédségi nyugdíjasokkal való törődést, és alapszabályuk célul tűzi ki a honvédelem érdekében való tevékenységet, a katonai hagyományok ápolását,
 
-5a.[^6] igényjogosult: a 2. § (1) bekezdésében, a 3. § (1) bekezdésében, a 4. § (1) bekezdésében, a 6. § (1) bekezdésében, a 8. § (1) és (5) bekezdésében, a 11/A. § (6) bekezdésében, a 12. § (1) és (2) bekezdésében, a 15. § (1) bekezdésében, a 16. § (1) bekezdésében, a 18. § (1) bekezdésében, a 19. § (1), (2) és (3) bekezdésében felsorolt személyek,
+5.[^6] honvédségi nyugdíjas: a honvédelmi szervezettől nyugállományba vonult korábbi kormánytisztviselő, kormányzati ügykezelő (a továbbiakban együtt: kormánytisztviselő), köztisztviselő, közalkalmazott, honvédelmi alkalmazott, munkavállaló, vagy polgári alkalmazott, kinevezett polgári alkalmazott,
 
-5b.[^7] igénylő: az az igényjogosult, illetve nem igényjogosult, aki a szolgáltatást nyújtó szervezet szolgáltatásait igénybe veszi, vagy azt igénybe venni szándékozik,
+5a.[^7] igényjogosult: a 2. § (1) bekezdésében, a 3. § (1) bekezdésében, a 4. § (1) bekezdésében, a 6. § (1) bekezdésében, a 8. § (1) és (5) bekezdésében, a 11/A. § (6) bekezdésében, a 12. § (1) és (2) bekezdésében, a 15. § (1) bekezdésében, a 16. § (1) bekezdésében, a 18. § (1) bekezdésében, a 19. § (1), (2) és (3) bekezdésében felsorolt személyek,
 
-5c.[^8] nem igényjogosult: az 5a. pontban fel nem sorolt igénylő,
+5b.[^8] igénylő: az az igényjogosult, illetve nem igényjogosult, aki a szolgáltatást nyújtó szervezet szolgáltatásait igénybe veszi, vagy azt igénybe venni szándékozik,
 
-6.[^9]
+5c.[^9] nem igényjogosult: az 5a. pontban fel nem sorolt igénylő,
 
-7.[^10] szolgáltatást nyújtó szervezet: a 2–11. §, a 16. § (1) bekezdés a) pontja, a 17. és a 18. § szerinti szolgáltatások esetén a Magyar Honvédség (a továbbiakban: MH) regenerálódást és kiképzést végző szervezete, a 6. § (4) bekezdése, a 12–15. §, a 16. § (1) bekezdés b) pontja és a 18. § szerinti szolgáltatások esetén az MH regenerálódást segítő és rekreációt végző szervezete, a 19. § szerinti szolgáltatások esetén az MH szolgáltatásokat koordináló szervezete,
+6.[^10]
 
-7a.[^11] teljes panziós ellátás: vendégéjszakánként ebédet, vacsorát és reggelit tartalmazó ellátás,
+7.[^11] szolgáltatást nyújtó szervezet: a 2–11. §, a 16. § (1) bekezdés a) pontja, a 17. és a 18. § szerinti szolgáltatások esetén a Magyar Honvédség (a továbbiakban: MH) regenerálódást és kiképzést végző szervezete, a 6. § (4) bekezdése, a 12–15. §, a 16. § (1) bekezdés b) pontja és a 18. § szerinti szolgáltatások esetén az MH regenerálódást segítő és rekreációt végző szervezete, a 19. § szerinti szolgáltatások esetén az MH szolgáltatásokat koordináló szervezete,
+
+7a.[^12] teljes panziós ellátás: vendégéjszakánként ebédet, vacsorát és reggelit tartalmazó ellátás,
 
 8. utószezon: a főszezon végétől a naptári év utolsó turnusának utolsó napjáig terjedő, naptári napban meghatározott időszak,
 
 9. vendégéjszaka: a helyi adókról szóló 1990. évi C. törvény 52. § 30. pontja szerinti időtartam.
 
-(2)[^12] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a honvédek jogállásáról szóló 2012. évi CCV. törvény egyes rendelkezéseinek végrehajtásáról szóló 9/2013. (VIII. 12.) HM rendelet 18/A. §-a szerint igazolja.
+(2)[^13] Ahol e rendelet családtagot említ, azon érteni kell az igényjogosult élettársát is, ha élettársi viszonyát a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet 9. § (4) bekezdése szerint igazolja.
 
 [^1]: Az 1. § (1) bekezdés 1. pontja a 6/2016. (IV. 15.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (1) bekezdés 2a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be, hatályon kívül helyezte a 19/2018. (XII. 20.) HM rendelet 14. §-a.
 [^3]: Az 1. § (1) bekezdés 2b. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (1) bekezdése iktatta be.
 [^4]: Az 1. § (1) bekezdés 4. pontja a 21/2022. (XII. 28.) HM rendelet 1. §-ával megállapított szöveg.
-[^5]: Az 1. § (1) bekezdés 5. pontja a 6/2016. (IV. 15.) HM rendelet 16. § a) pontja, az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja szerint módosított szöveg.
-[^6]: Az 1. § (1) bekezdés 5a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (2) bekezdése iktatta be, szövege a 19/2018. (XII. 20.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: Az 1. § (1) bekezdés 5b. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
-[^8]: Az 1. § (1) bekezdés 5c. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
-[^9]: Az 1. § (1) bekezdés 6. pontját az 5/2019. (IV. 11.) HM rendelet 10. § a) pontja hatályon kívül helyezte.
-[^10]: Az 1. § (1) bekezdés 7. pontja a 4/2017. (IV. 28.) HM rendelet 17. § a) és b) pontja szerint módosított szöveg.
-[^11]: Az 1. § (1) bekezdés 7a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
-[^12]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított szöveg.
+[^5]: Az 1. § (1) bekezdés 4a. pontját a 19/2024. (IX. 19.) HM rendelet 13. §-a iktatta be.
+[^6]: Az 1. § (1) bekezdés 5. pontja a 6/2016. (IV. 15.) HM rendelet 16. § a) pontja, az 5/2019. (IV. 11.) HM rendelet 9. § a) pontja szerint módosított szöveg.
+[^7]: Az 1. § (1) bekezdés 5a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (2) bekezdése iktatta be, szövege a 19/2018. (XII. 20.) HM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1. § (1) bekezdés 5b. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^9]: Az 1. § (1) bekezdés 5c. pontját a 19/2018. (XII. 20.) HM rendelet 1. § (2) bekezdése iktatta be.
+[^10]: Az 1. § (1) bekezdés 6. pontját az 5/2019. (IV. 11.) HM rendelet 10. § a) pontja hatályon kívül helyezte.
+[^11]: Az 1. § (1) bekezdés 7. pontja a 4/2017. (IV. 28.) HM rendelet 17. § a) és b) pontja szerint módosított szöveg.
+[^12]: Az 1. § (1) bekezdés 7a. pontját a 4/2017. (IV. 28.) HM rendelet 1. § (3) bekezdése iktatta be.
+[^13]: Az 1. § (2) bekezdése a 6/2014. (IV. 14.) HM rendelet 18. §-ával megállapított, a 19/2024. (IX. 19.) HM rendelet 17. § 1. pontja szerint módosított szöveg.

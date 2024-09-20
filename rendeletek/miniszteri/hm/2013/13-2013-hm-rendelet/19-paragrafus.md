@@ -2,7 +2,7 @@
 
 19. § (1) Külföldi csoportos csereüdülés, valamint nemzetközi csoportos üdülés igénybe vételére jogosult
 
-a)[^90] a 12. § (1) bekezdés a), b), d) és f) pontja szerinti igényjogosult és családtagjai, és
+a)[^99] a 12. § (1) bekezdés a), b), d) és f) pontja szerinti igényjogosult és családtagjai, és
 
 b) a fel nem használt férőhelyekre a 12. § (1) bekezdés e) és g)–k) pontja szerinti igényjogosult és családtagjai
 
@@ -10,17 +10,17 @@ a minisztérium által kötött megállapodás alapján, külföldi katonai üd�
 
 (2) Külföldi egyéni üdülés igénybe vételére jogosult
 
-a)[^91] a 12. § (1) bekezdés a), b), d) és f) pontja szerinti igényjogosult és családtagjai,
+a)[^100] a 12. § (1) bekezdés a), b), d) és f) pontja szerinti igényjogosult és családtagjai,
 
 b) a fel nem használt férőhelyekre a 12. § (1) bekezdés c), e) és g)–k) pontja szerinti igényjogosult és családtagjai
 
 a külföldi féllel kötött megállapodásban meghatározott időtartamban.
 
-(3)[^92] Külföldi gyermek üdülésen való részvételre jogosult – pedagógus felügyeletével –
+(3)[^101] Külföldi gyermek üdülésen való részvételre jogosult – pedagógus felügyeletével –
 
 a) a 12. § (1) bekezdés a) és b) pontja szerinti igényjogosult, és
 
-b)[^93] a fel nem használt férőhelyekre a 12. § (1) bekezdés d) és g)–k) pontja szerinti igényjogosult
+b)[^102] a fel nem használt férőhelyekre a 12. § (1) bekezdés d) és g)–k) pontja szerinti igényjogosult
 
 gyermeke. A résztvevők életkorát és az üdülés időtartamát nemzetközi keretszerződés határozza meg. A gyermek igényjogosultságát azon honvédelmi szervezet igazolja, amellyel az igényjogosult szülő szolgálati viszonyban, kormányzati szolgálati és közalkalmazotti, honvédelmi alkalmazotti jogviszonyban, illetve munkaviszonyban áll.
 
@@ -28,7 +28,7 @@ gyermeke. A résztvevők életkorát és az üdülés időtartamát nemzetközi 
 
 (5) Az (1) és a (3) bekezdés szerinti szolgáltatások térítési díját a turnus első napját megelőző 15. napig postai készpénz-átutalási megbízással vagy banki átutalással az MH szolgáltatásokat koordináló szervezete részére kell megfizetni, a (2) bekezdés szerinti szolgáltatás térítési díjának megfizetésével kapcsolatos szabályokat a fogadó ország üdültetési szervezete állapítja meg.
 
-[^90]: A 19. § (1) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 16. § g) pontja szerint módosított szöveg.
-[^91]: A 19. § (2) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 10. §-ával megállapított szöveg.
-[^92]: A 19. § (3) bekezdés záró szövegrésze az 5/2019. (IV. 11.) HM rendelet 9. § i) pontja szerint módosított szöveg.
-[^93]: [A 19. § (3) bekezdés b) pontjában a 21/2022. (XII. 28.) HM rendelet 2. § c) pontja által elrendelt módosítás, amely szerint a „közalkalmazotti, honvédelmi alkalmazotti” szövegrész helyébe a „honvédelmi alkalmazotti” szöveg lép, nem vezethető át.]
+[^99]: A 19. § (1) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 16. § g) pontja szerint módosított szöveg.
+[^100]: A 19. § (2) bekezdés a) pontja a 6/2016. (IV. 15.) HM rendelet 10. §-ával megállapított szöveg.
+[^101]: A 19. § (3) bekezdés záró szövegrésze az 5/2019. (IV. 11.) HM rendelet 9. § i) pontja szerint módosított szöveg.
+[^102]: [A 19. § (3) bekezdés b) pontjában a 21/2022. (XII. 28.) HM rendelet 2. § c) pontja által elrendelt módosítás, amely szerint a „közalkalmazotti, honvédelmi alkalmazotti” szövegrész helyébe a „honvédelmi alkalmazotti” szöveg lép, nem vezethető át.]
