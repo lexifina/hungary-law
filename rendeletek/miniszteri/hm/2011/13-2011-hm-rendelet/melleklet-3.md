@@ -28,13 +28,15 @@
 
 | A bejelentés módjai: |
 
-3. melléklet a 13/2011. (X. 20.) HM rendelethez[^5]
+3. melléklet a 13/2011. (X. 20.) HM rendelethez[^8]
 
 Nyt. szám: sorszám
 
 HONVÉDELMI BALESETI JEGYZŐKÖNYV
 
 . sz. példány
+
+## 8K05086_0
 
 | (A) A honvédelmi szervezet adatai |  |
 
@@ -182,19 +184,19 @@ HONVÉDELMI BALESETI JEGYZŐKÖNYV
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | ellenőrizte, rögzítette |  |  | látta |  |  |
 
-KITÖLTÉSI ÚTMUTATÓ
+## KITÖLTÉSI ÚTMUTATÓ
 
-A HONVÉDELMI BALESETI JEGYZŐKÖNYVHÖZ
+## A HONVÉDELMI BALESETI JEGYZŐKÖNYVHÖZ
 
-A nyomtatvány valamennyi szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni.
+## A nyomtatvány valamennyi szöveges rovatát számítógéppel vagy nyomtatott betűvel kell kitölteni.
 
-A honvédelmi baleseti jegyzőkönyvet gyűjtőívben kell nyilvántartani, és nyilvántartási számmal kell ellátni.
+## A honvédelmi baleseti jegyzőkönyvet gyűjtőívben kell nyilvántartani, és nyilvántartási számmal kell ellátni.
 
-A honvédelmi baleseti jegyzőkönyv jobb felső sarkában a példányszámot fel kell tüntetni.
+## A honvédelmi baleseti jegyzőkönyv jobb felső sarkában a példányszámot fel kell tüntetni.
 
-(A)
+## (A)
 
-A honvédelmi szervezet adatai
+## A honvédelmi szervezet adatai
 
 1. Megnevezése, székhelye: a honvédelmi szervezet alapító okiratában, a gazdasági társaság cégbírósági bejegyzésében szereplő adatok alkalmazásával kell kitölteni.
 
@@ -218,9 +220,9 @@ Szervezet kódja: a munkavédelmi hatóság által kiadott, a honvédelmi szerve
 
 |  | 3000 főtől | 6 |  | 3000 főtől | 6 |
 
-Összlétszám kategória: a honvédelmi szervezet állománytáblája alapján rendszeresített létszám szerinti besorolás.
+## Összlétszám kategória: a honvédelmi szervezet állománytáblája alapján rendszeresített létszám szerinti besorolás.
 
-Helyi egység létszám kategória: a sérült vonatkozásában a legkisebb helyi egység létszáma szerinti besorolás.
+## Helyi egység létszám kategória: a sérült vonatkozásában a legkisebb helyi egység létszáma szerinti besorolás.
 
 2. Címe, Telefon, Fax, E-mail: a honvédelmi szervezet alapító okiratában, a gazdasági társaság cégbírósági bejegyzésében szereplő adatok felhasználásával kell kitölteni.
 
@@ -298,7 +300,7 @@ rendfokozat:
 
 |  | 73 | helyettes államtitkár |
 
-állománykategória:
+## állománykategória:
 
 |  | Kód | Megnevezés |
 
@@ -330,23 +332,23 @@ rendfokozat:
 
 |  | 14 | állami vezető |
 
-A rubrikában ezt kell feltüntetni!
+## A rubrikában ezt kell feltüntetni!
 
-– Születési neve: személyazonosításra szolgáló okmány alapján.
+## – Születési neve: személyazonosításra szolgáló okmány alapján.
 
-– Anyja neve: személyazonosításra szolgáló okmány alapján.
+## – Anyja neve: személyazonosításra szolgáló okmány alapján.
 
-– Beosztása (munkaköre): munkaköri leírás szerint.
+## – Beosztása (munkaköre): munkaköri leírás szerint.
 
-– TAJ szám: hivatalos okmány alapján.
+## – TAJ szám: hivatalos okmány alapján.
 
-– Születési helye, ideje: személyazonosításra szolgáló okmány alapján.
+## – Születési helye, ideje: személyazonosításra szolgáló okmány alapján.
 
-– Lakcím: személyazonosításra szolgáló okmány alapján.
+## – Lakcím: személyazonosításra szolgáló okmány alapján.
 
-– Levelezési cím: a munkavállaló adatszolgáltatása alapján.
+## – Levelezési cím: a munkavállaló adatszolgáltatása alapján.
 
-– Elektronikus elérhetőség: a munkavállaló adatszolgáltatása alapján.
+## – Elektronikus elérhetőség: a munkavállaló adatszolgáltatása alapján.
 
 4. A balesetkor végzett tevékenység/feladat ellátásához előírt szakképzettség, illetve ennek megléte (az első négyzetben):
 
@@ -356,7 +358,7 @@ A rubrikában ezt kell feltüntetni!
 
 |  | nem szükséges | 3 |
 
-Szakképzettség szükségessége esetén a végzett tevékenységben szerzett gyakorlat ideje (a második négyzetben):
+## Szakképzettség szükségessége esetén a végzett tevékenységben szerzett gyakorlat ideje (a második négyzetben):
 
 |  | 0–3 hónap | 1 |
 
@@ -364,7 +366,7 @@ Szakképzettség szükségessége esetén a végzett tevékenységben szerzett g
 
 |  | 6 hónapon túl | 3 |
 
-A baleset körülményeinek meghatározása:
+## A baleset körülményeinek meghatározása:
 
 |  | Szervezett munkavégzés során (pl. beosztással kapcsolatos feladatok, kiképzések, honvédek esetében szolgálati időben történő fizikai állapot fenntartása érdekében végzett, elrendelt sporttevékenység) | 01 |
 
@@ -376,9 +378,9 @@ A baleset körülményeinek meghatározása:
 
 |  | A szállás, lakás és a munkahely közötti közlekedés közben (kivéve a munkáltató saját vagy általa bérelt, a munkavállaló saját, engedéllyel használt járművével) | 05 |
 
-(C)
+## (C)
 
-A baleset időpontja és részletes leírása
+## A baleset időpontja és részletes leírása
 
 5. A baleset időpontja (év, hónap, nap, óra, perc, hét napja):
 
@@ -426,17 +428,17 @@ A baleset jellegét jelölő kódnégyzetbe, ha
 
 |  | az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során | 9 |
 
-kódszám kerül.
+## kódszám kerül.
 
-Honvédelmi úti baleset esetén a baleset részletes leírása rovatban fel kell tüntetni az állományilletékes parancsnok által igazolt munkaidő kezdetét és végét. Tartalmaznia kell az útvonalat a lakástól a munkahelyig, megnevezve azt a pontos helyet, ahol a baleset bekövetkezett. Ki kell térni arra, hogy a közlekedés során indokoltan megszakította-e a sérült az utazást.
+## Honvédelmi úti baleset esetén a baleset részletes leírása rovatban fel kell tüntetni az állományilletékes parancsnok által igazolt munkaidő kezdetét és végét. Tartalmaznia kell az útvonalat a lakástól a munkahelyig, megnevezve azt a pontos helyet, ahol a baleset bekövetkezett. Ki kell térni arra, hogy a közlekedés során indokoltan megszakította-e a sérült az utazást.
 
-Az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során bekövetkezettnek kell tekinteni azt a balesetet, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének rehabilitálhatóságának az elbírálása céljából elrendelt, illetve a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
+## Az állami egészségügyi és a társadalombiztosítás keretében járó ellátás igénybevétele során bekövetkezettnek kell tekinteni azt a balesetet, amely a biztosítottat keresőképtelenségének vagy rokkantságának, továbbá az egészségkárosodás mértékének rehabilitálhatóságának az elbírálása céljából elrendelt, illetve a keresőképessé váláshoz szükséges egyéb vizsgálaton vagy kezelésen történt megjelenésével összefüggésben érte.
 
-A baleset leírása külön lapon folytatható!
+## A baleset leírása külön lapon folytatható!
 
-(D)
+## (D)
 
-A baleset adatai
+## A baleset adatai
 
 7. A baleset helye:
 
@@ -562,7 +564,7 @@ A sérülés megnevezése (magyarul): a végtagok esetében a bal/jobb, illetve 
 
 |  | 99 | A test fent nem említett egyéb részei |
 
-– A baleset súlyossága:
+## – A baleset súlyossága:
 
 |  | Kód | Megnevezés |
 
@@ -586,13 +588,13 @@ A sérülés megnevezése (magyarul): a végtagok esetében a bal/jobb, illetve 
 
 |  | 15 | Halálos baleset |
 
-– Munkaképtelenség időtartama (nap): a kiesett napok számát az ambuláns napló, illetve a táppénzes papír adatai alapján kell beírni, alapvetően az egészségügyi szabadságon töltött napok számát jelenti. Ha a munkaképtelenség időtartama a honvédelmi baleseti jegyzőkönyv beküldési határidejéig nem állapítható meg, a harmadik kódnégyzetbe „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktanul gondoskodni kell a munkaképtelen napok számát közlő módosító honvédelmi baleseti jegyzőkönyv megküldéséről.
+## – Munkaképtelenség időtartama (nap): a kiesett napok számát az ambuláns napló, illetve a táppénzes papír adatai alapján kell beírni, alapvetően az egészségügyi szabadságon töltött napok számát jelenti. Ha a munkaképtelenség időtartama a honvédelmi baleseti jegyzőkönyv beküldési határidejéig nem állapítható meg, a harmadik kódnégyzetbe „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktanul gondoskodni kell a munkaképtelen napok számát közlő módosító honvédelmi baleseti jegyzőkönyv megküldéséről.
 
-– Szolgálatképesség csökkenés időtartama (nap): A honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 2. § 14. pontja alapján kizárólag a felmentésre vonatkozó napok számát kell rögzíteni, az egészségügyi szabadság napjainak számát nem kell itt megjeleníteni.
+## – Szolgálatképesség csökkenés időtartama (nap): A honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 2. § 14. pontja alapján kizárólag a felmentésre vonatkozó napok számát kell rögzíteni, az egészségügyi szabadság napjainak számát nem kell itt megjeleníteni.
 
-(E)
+## (E)
 
-A balesettel kapcsolatos egyéb információk
+## A balesettel kapcsolatos egyéb információk
 
 9. A baleset fajtája:
 
@@ -610,7 +612,7 @@ A balesettel kapcsolatos egyéb információk
 
 |  | úti | 7 |
 
-Szövegesen is kitöltendő!
+## Szövegesen is kitöltendő!
 
 10. A sérült tevékenysége a baleset idején:
 
@@ -740,7 +742,7 @@ Szövegesen is kitöltendő!
 
 |  | 104 | magán gépjármű közlekedés |
 
-Szövegesen is kitöltendő!
+## Szövegesen is kitöltendő!
 
 11. A baleset fő, illetve elsődleges oka:
 
@@ -876,7 +878,7 @@ Szövegesen is kitöltendő!
 
 |  | terepviszonyok | 92 |
 
-Szövegesen is kitöltendő!
+## Szövegesen is kitöltendő!
 
 12. A baleset további okai: A 11-es rovat kódszámainak felhasználásával. Szövegesen is kitöltendő!
 
@@ -942,9 +944,9 @@ A baleset további oka nem lehet azonos az 11-es rovatban megjelölt, a baleset 
 
 |  | eszköz nélkül | 51 |
 
-Szövegesen is kitöltendő!
+## Szövegesen is kitöltendő!
 
-– A baleset természete:
+## – A baleset természete:
 
 |  | Megnevezés | Kód |
 
@@ -1028,7 +1030,7 @@ Szövegesen is kitöltendő!
 
 |  | egyéb esemény | 40 |
 
-Szövegesen is kitöltendő!
+## Szövegesen is kitöltendő!
 
 14. A biztonsági- és jelzőberendezések, egyéni és katonai védőeszközök, egyéb védelmi megoldások alkalmassága:
 
@@ -1058,10 +1060,8 @@ Szövegesen is kitöltendő!
 
 A név, rendfokozat rovatot – az azonosíthatóság miatt – olvashatóan kell kitölteni.
 
-A záradékot értelemszerűen, az ügyviteli szabályok és honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet
-
-15. § (2) bekezdése szerint kell kitölteni.
+A záradékot értelemszerűen, az ügyviteli szabályok és honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 15. § (2) bekezdése szerint kell kitölteni.
 
 A felügyelői észrevételek, intézkedés rovatot a munkavédelmi hatóság tölti ki.
 
-[^5]: A 3. melléklet a 9/2018. (VI. 29.) HM rendelet 10. §-ával megállapított szöveg.
+[^8]: A 3. melléklet a 9/2018. (VI. 29.) HM rendelet 10. §-ával megállapított szöveg.

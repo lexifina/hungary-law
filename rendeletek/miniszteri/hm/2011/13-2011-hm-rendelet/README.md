@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-13-20-1
 | 2016-09-01 | 2011-13-20-15.2 | 16/2016. (VIII. 31.) HM rendelet |
 | 2017-01-01 | 2011-13-20-15.3 | 25/2016. (XII. 22.) HM rendelet |
 | 2018-06-30 | 2011-13-20-15.4 | 9/2018. (VI. 29.) HM rendelet |
+| 2024-09-20 | 2011-13-20-15.5 | 19/2024. (IX. 19.) HM rendelet |

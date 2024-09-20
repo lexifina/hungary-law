@@ -22,7 +22,7 @@
 
 ## Tájékoztatom továbbá, hogy a Magyar Honvédség által a személyi állomány (hivatásos és szerződéses állomány, közalkalmazottak, kormánytisztviselők és fizikai alkalmazottak) részére megkötött csoportos élet- és balesetbiztosítási szerződés alapján a károsultnak lehetősége van biztosítási igényérvényesítésre is. A biztosítás alapján a biztosító baleseti halál, baleseti eredetű maradandó, teljes vagy részleges egészségkárosodás, illetve természetes halál esetére nyújt kárszolgáltatást a biztosított/örökös részére.
 
-## A Magyar Honvédség által az állomány tagjának fizetendő kártérítés összegéből le kell vonni azt az összeget, amelyhez az állomány tagja a Honvédség által a javára megkötött biztosítás révén jut [a Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény 191. § cd) pont].
+## A Magyar Honvédség által az állomány tagjának fizetendő kártérítés összegéből le kell vonni azt az összeget, amelyhez az állomány tagja a Honvédség által a javára megkötött biztosítás révén jut.
 
 ## A biztosítási igény érvényesítése a HM pénzügyi feladatot ellátó központi szervén keresztül történik.
 
@@ -80,6 +80,6 @@
 
 ## Ügyintéző (🕿)
 
-6. melléklet a 13/2011. (X. 20.) HM rendelethez[^7]
+6. melléklet a 13/2011. (X. 20.) HM rendelethez[^11]
 
-[^7]: A 6. mellékletet a 9/2018. (VI. 29.) HM rendelet 11. §-a hatályon kívül helyezte.
+[^11]: A 6. mellékletet a 9/2018. (VI. 29.) HM rendelet 11. §-a hatályon kívül helyezte.

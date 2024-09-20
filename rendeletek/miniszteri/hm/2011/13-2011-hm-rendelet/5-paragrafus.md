@@ -1,5 +1,3 @@
-## kell teljesíteni.
-
 5. § (1) A parancsnok baleset esetén a tudomására jutást követően azonnal intézkedik
 
 a) a sérült személy elsősegélyben részesítésére, mentésére és – szükség szerint – orvosi ellátására,

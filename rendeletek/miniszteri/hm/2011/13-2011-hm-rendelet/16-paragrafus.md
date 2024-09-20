@@ -14,8 +14,8 @@ esetén.
 
 (4) A munkabiztonsági hatóság a baleset elbírálásáról szóló értesítés elleni panasz benyújtása esetén a balesetet honvédelmi balesetnek, vagy honvédelmi úti balesetnek minősíti, ha az állományilletékes parancsnok a bejelentett balesetet jogszabálysértő módon nem tekintette honvédelmi balesetnek, vagy honvédelmi úti balesetnek.
 
-(5)[^4] A munkáltatói bejelentés miatt indított hatósági eljárást a honvédelemért felelős miniszter a munkavédelmi felügyelője útján folytatja le.
+(5)[^7] A munkáltatói bejelentés miatt indított hatósági eljárást a honvédelemért felelős miniszter a munkavédelmi felügyelője útján folytatja le.
 
 (6) Külföldi szolgálatot ellátó honvédelmi szervezetnél a munkáltatói bejelentés miatt indított hatósági eljárás során helyszínen történő eljárási cselekmények végrehajtására csak akkor kerül sor, ha a másodfokon eljáró munkabiztonsági hatóság helyszínen történő eljárást rendel el.
 
-[^4]: A 16. § (5) bekezdése a 16/2016. (VIII. 31.) HM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 16. § (5) bekezdése a 16/2016. (VIII. 31.) HM rendelet 3. §-ával megállapított szöveg.

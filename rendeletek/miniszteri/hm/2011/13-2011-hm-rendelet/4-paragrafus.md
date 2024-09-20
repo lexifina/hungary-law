@@ -9,3 +9,5 @@
 a) baleseti veszélyt jelentő rendellenesség esetén azonnal,
 
 b) baleset esetén azonnal, de legkésőbb a baleset bekövetkezését követő 24 órán belül
+
+kell teljesíteni.

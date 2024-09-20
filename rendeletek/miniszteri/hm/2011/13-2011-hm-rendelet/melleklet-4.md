@@ -1,49 +1,49 @@
-4. melléklet a 13/2011. (X. 20.) HM rendelethez[^6]
+4. melléklet a 13/2011. (X. 20.) HM rendelethez[^9]
 
 | FEJRÉSZ | ...................... példány |
 
-Nyt. szám:
+## Nyt. szám:
 
-ÉRTESÍTÉS
+## ÉRTESÍTÉS
 
-a BEJELENTETT BALESET ELBÍRÁLÁSÁRÓL
+## a BEJELENTETT BALESET ELBÍRÁLÁSÁRÓL
 
-Név: ................................................................................................................ Szül. év, hó, nap:
+## Név: ................................................................................................................ Szül. év, hó, nap:
 
-Anyja neve:
+## Anyja neve:
 
-Tájékoztatom, hogy az Ön által bejelentett, ............................................................ -n bekövetkezett balesetének körülményeit a rendelkezésemre álló adatok, információk alapján kivizsgáltam, és megállapítottam, hogy az
+## Tájékoztatom, hogy az Ön által bejelentett, ............................................................ -n bekövetkezett balesetének körülményeit a rendelkezésemre álló adatok, információk alapján kivizsgáltam, és megállapítottam, hogy az
 
-nem honvédelmi baleset.
+## nem honvédelmi baleset.
 
-Az értesítés ellen a kézhezvételtől számított 15 napon belül a honvédelemért felelős miniszter által vezetett minisztériumhoz címzett, de hozzám benyújtott panasszal élhet.
+## Az értesítés ellen a kézhezvételtől számított 15 napon belül a honvédelemért felelős miniszter által vezetett minisztériumhoz címzett, de hozzám benyújtott panasszal élhet.
 
-INDOKOLÁS
+## INDOKOLÁS
 
-A vizsgálat megállapításainak rövid leírása:
+## A vizsgálat megállapításainak rövid leírása:
 
-[Pl. az esemény lakásán, szállásán, munka/szolgálati időn kívül következett be a baleset.]
+## [Pl. az esemény lakásán, szállásán, munka/szolgálati időn kívül következett be a baleset.]
 
-A tényállást bizonyító eszközök (a sérült előadása, munkatársak beszámolója, egyéb iratok stb.):
+## A tényállást bizonyító eszközök (a sérült előadása, munkatársak beszámolója, egyéb iratok stb.):
 
-A fentiek alapján ........................................................ év, .................................. hó, ...........-n bekövetkezett balesetét nem tekintem a 13/2011. (X. 20.) HM rendelet 2. § 6. pontja szerinti honvédelmi balesetnek.
+## A fentiek alapján ........................................................ év, .................................. hó, ...........-n bekövetkezett balesetét nem tekintem a 13/2011. (X. 20.) HM rendelet 2. § 6. pontja szerinti honvédelmi balesetnek.
 
-Kelt: ............................................................................
+## Kelt: ............................................................................
 
-P. H.
+## P. H.
 
-.................................................................
+## .................................................................
 
-állományilletékes parancsnok
+## állományilletékes parancsnok
 
-Készült: 2 példányban
+## Készült: 2 példányban
 
-Egy példány: lap
+## Egy példány: lap
 
-Ügyintéző (tel.):
+## Ügyintéző (tel.):
 
-Kapják: 1. sz. pld.: Sérült
+## Kapják: 1. sz. pld.: Sérült
 
 2. sz. pld.: Irattár
 
-[^6]: A 4. melléklet a 16/2016. (VIII. 31.) HM rendelet 4. § b) pontja szerint módosított szöveg.
+[^9]: A 4. melléklet a 16/2016. (VIII. 31.) HM rendelet 4. § b) pontja szerint módosított szöveg.
