@@ -1,6 +1,6 @@
-4. § (1)[^30] A 4/A. §-ban foglalt kivétellel a lakáspénz havi összege legfeljebb a (2)–(4) bekezdésben meghatározott támogatási alapösszeg és rendfokozati szorzó szorzatának a saját háztartásban eltartott gyermek után járó kiegészítéssel megnövelt összege, amely azonban nem haladhatja meg a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt bérleti vagy lízingdíjat.
+4. § (1)[^32] A 4/A. §-ban foglalt kivétellel a lakáspénz havi összege legfeljebb a (2)–(4) bekezdésben meghatározott támogatási alapösszeg és rendfokozati szorzó szorzatának a saját háztartásban eltartott gyermek után járó kiegészítéssel megnövelt összege, amely azonban nem haladhatja meg a szerződéssel és számlával, számlakibocsátási kötelezettség hiányában az ügylet teljesítését igazoló, a számviteli törvény rendelkezései szerinti számviteli bizonylatnak minősülő okirattal igazolt bérleti vagy lízingdíjat.
 
-(2)[^31] A támogatási alapösszeg
+(2)[^33] A támogatási alapösszeg
 
 a) 90 000 Ft, ha a bérelt, lízingelt lakóingatlan a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény 1/1. melléklete szerinti településen,
 
@@ -12,7 +12,7 @@ d) 60 000 Ft, ha a bérelt, lízingelt lakóingatlan az a)–c) pont szerinti te
 
 található.
 
-(3)[^32] A rendfokozati szorzó
+(3)[^34] A rendfokozati szorzó
 
 1. legénységi állomány esetén, ideértve a közkatonát is, 0,9;
 
@@ -48,7 +48,7 @@ található.
 
 17. vezérezredesi rendfokozat esetén 1,7.
 
-(4)[^33] A (2) és (3) bekezdésben foglaltak figyelembevételével kiszámított összeget, ha az igényjogosult
+(4)[^35] A (2) és (3) bekezdésben foglaltak figyelembevételével kiszámított összeget, ha az igényjogosult
 
 a) házastársával, élettársával él egy háztartásban a támogatott lakásban, 20 000 Ft-tal,
 
@@ -56,7 +56,7 @@ b) a támogatott lakásba költöző vagy oda született és általa eltartott o
 
 kell kiegészíteni.
 
-[^30]: A 4. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 11. §-ával megállapított szöveg.
-[^31]: A 4. § (2) bekezdése a 17/2023. (IX. 5.) HM rendelet 2. §-ával megállapított szöveg.
-[^32]: A 4. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
-[^33]: A 4. § (4) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
+[^32]: A 4. § (1) bekezdése a 9/2017. (VIII. 31.) HM rendelet 11. §-ával megállapított szöveg.
+[^33]: A 4. § (2) bekezdése a 17/2023. (IX. 5.) HM rendelet 2. §-ával megállapított szöveg.
+[^34]: A 4. § (3) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.
+[^35]: A 4. § (4) bekezdése a 9/2021. (III. 2.) HM rendelet 29. §-ával megállapított szöveg.

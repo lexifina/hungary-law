@@ -1,3 +1,3 @@
-55. §[^120]
+55. §[^126]
 
-[^120]: Az 55. § a 26/2016. (XII. 22.) HM rendelet 27. § (2) bekezdése alapján nem lép hatályba.
+[^126]: Az 55. § a 26/2016. (XII. 22.) HM rendelet 27. § (2) bekezdése alapján nem lép hatályba.

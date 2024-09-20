@@ -1,3 +1,3 @@
-42. §[^106]
+42. §[^112]
 
-[^106]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^112]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

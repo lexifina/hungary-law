@@ -1,3 +1,3 @@
-31. §[^95]
+31. §[^101]
 
-[^95]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^101]: A 21–43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
