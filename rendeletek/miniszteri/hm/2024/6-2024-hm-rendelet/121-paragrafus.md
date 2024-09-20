@@ -1,6 +1,6 @@
 ## 54. Átmeneti rendelkezések
 
-121. § (1) Az állomány tagjának e rendelet hatálybalépésekor fennálló megbízása – ide nem értve a 2024. július 1-jén kezdődő megbízást – 2024. október 1-jét követően akkor is érvényben marad a megbízása időtartamának végéig, ha nem felel meg a 21. § (1) vagy (2) bekezdésében foglalt feltételnek, feltéve, hogy a Hjkr. 32. § (35) bekezdése szerint a megbízás fenntartása továbbra is indokolt.
+121. § (1)[^6] Az állomány tagjának e rendelet hatálybalépésekor fennálló megbízása – ide nem értve a 2024. július 1-jén kezdődő megbízást – 2024. október 1-jét követően akkor is érvényben marad a megbízása időtartamának végéig, ha nem felel meg a 18. § (1) vagy (2) bekezdésében foglalt feltételnek, feltéve, hogy a Hjkr. 32. § (35) bekezdése szerint a megbízás fenntartása továbbra is indokolt.
 
 (2) Az állomány e rendelet hatálybalépése napján a miniszter által vezetett minisztériumban szolgálatot teljesítő tagjára a 25. § (3) bekezdésében meghatározott időtartam-korlátozás nem vonatkozik.
 
@@ -23,3 +23,5 @@
 (11) A 78. § (3) bekezdése szerinti kötelezően szolgálati viszonyban töltendő időre vonatkozó számítási szabályt az e rendelet hatálybalépését követően előírt kötelezően szolgálati viszonyban töltendő időre kell alkalmazni.
 
 (12) Ha az altiszti állomány 2024. június 30-án hivatásos vagy szerződéses szolgálati viszonyban álló tagja nem rendelkezik a Hjkr. 19. § (2) bekezdésében meghatározott érettségi bizonyítvánnyal, de a Hjt.vhr. 280. § (2) bekezdése szerint érettségi bizonyítvány nélkül a szolgálati beosztásában továbbfoglalkoztatható volt, e rendelet hatálybalépését követően is továbbfoglalkoztatható, azzal, hogy az érettségi bizonyítvány megszerzéséig azonos beosztásba áthelyezhető, de előmenetelre nem tervezhető.
+
+[^6]: A 121. § (1) bekezdése a 19/2024. (IX. 19.) HM rendelet 33. § c) pontja szerint módosított szöveg.

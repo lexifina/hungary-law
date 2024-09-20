@@ -1,5 +1,5 @@
 ## 56. Hatályon kívül helyező rendelkezések
 
-123. §[^2]
+123. §[^7]
 
-[^2]: A 123. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 123. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
