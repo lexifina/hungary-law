@@ -1,0 +1,3 @@
+25. § A honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet 24/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a Haj.tv. 20. § (1) bekezdése szerinti helyettesítés olyan szolgálati beosztás feladatainak átmeneti ellátására irányul, amely beosztás esetében az állománytábla lehetővé teszi az adott beosztás honvédelmi alkalmazottal való átmeneti ellátását, akkor helyettesítési díjként havonta – a helyettesítést végző honvédelmi alkalmazottak számától függetlenül – összességében a beosztás szerint irányadó illetménysáv alsó határának 15–30%-áig terjedő összeg állapítható meg.”

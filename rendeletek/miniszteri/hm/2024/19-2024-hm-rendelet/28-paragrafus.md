@@ -1,0 +1,1 @@
+28. § A honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet 37. § (1) bekezdésében a „Hjt. 46. § (1) bekezdés r) vagy s) pontja” szövegrész helyébe a „hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet 43. § (1) bekezdés a) vagy b) pontja” szöveg lép.

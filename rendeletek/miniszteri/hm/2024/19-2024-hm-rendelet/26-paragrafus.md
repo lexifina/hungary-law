@@ -1,0 +1,3 @@
+26. § A honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet 41. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A Haj.tv. 99. § (2) bekezdése és az (1) bekezdés alkalmazása során megszakítás nélkülinek kell tekinteni a honvédelmi alkalmazott jogviszonyát akkor is, ha korábbi honvédelmi alkalmazotti, honvédségi közalkalmazotti jogviszonyának megszűnését követő napon a HM-nél létesített kormányzati szolgálati vagy közszolgálati tisztviselői jogviszonyt, majd e jogviszony megszűnését követő napon ismét honvédelmi alkalmazotti vagy honvédségi közalkalmazotti jogviszonyt létesített.”
