@@ -1,8 +1,8 @@
 ## 7. Az elidegenített HM vagyonkezelésű lakás birtokba adása
 
-22. § (1)[^59] Az elidegenített HM vagyonkezelésű lakást legkésőbb a vételár egyösszegű megfizetése esetén a vételár, részletvétel esetén a kötelező kezdőrészlet megfizetését követő hónap első napjáig a vevő birtokába kell adni. A birtokbaadást követően a vevőt illetik meg a tulajdonosi jogok, és terhelik a tulajdonosi kötelezettségek.
+22. § (1)[^61] Az elidegenített HM vagyonkezelésű lakást legkésőbb a vételár egyösszegű megfizetése esetén a vételár, részletvétel esetén a kötelező kezdőrészlet megfizetését követő hónap első napjáig a vevő birtokába kell adni. A birtokbaadást követően a vevőt illetik meg a tulajdonosi jogok, és terhelik a tulajdonosi kötelezettségek.
 
-(2)[^60] A birtokbaadás napjával megszűnik a lakbérfizetési kötelezettség és a helyi lakásgazdálkodási szerv bérbeadói joga és kötelezettsége.
+(2)[^62] A birtokbaadás napjával megszűnik a lakbérfizetési kötelezettség és a helyi lakásgazdálkodási szerv bérbeadói joga és kötelezettsége.
 
 (3) A birtokbaadással egyidejűleg az épületek energetikai jellemzőinek tanúsításáról szóló kormányrendeletben foglaltaknak megfelelően, az abban meghatározott energetikai tanúsítványt a vevő részére át kell adni.
 
@@ -12,5 +12,5 @@
 
 (6) A társasházban lévő állami tulajdonú HM vagyonkezelésű lakás képviseletét a társasházi közgyűlésen a helyi lakóházkezelő szerv látja el.
 
-[^59]: A 22. § (1) bekezdése a 8/2020. (V. 27.) HM rendelet 15. §-ával megállapított szöveg.
-[^60]: A 22. § (2) bekezdése a 8/2020. (V. 27.) HM rendelet 15. §-ával megállapított szöveg.
+[^61]: A 22. § (1) bekezdése a 8/2020. (V. 27.) HM rendelet 15. §-ával megállapított szöveg.
+[^62]: A 22. § (2) bekezdése a 8/2020. (V. 27.) HM rendelet 15. §-ával megállapított szöveg.

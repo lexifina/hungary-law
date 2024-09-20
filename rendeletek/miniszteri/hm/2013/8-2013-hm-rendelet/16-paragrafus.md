@@ -2,19 +2,19 @@
 
 16. § (1) Az elidegenítésre kijelölt, üres HM vagyonkezelésű lakást a nemzeti vagyonról és az állami vagyonról szóló jogszabályoknak megfelelően lehet elidegeníteni.
 
-(2)[^42] Ha a tulajdonosi joggyakorló megbízása alapján a lakás a HM által kiírt nyilvános pályázat útján kerül értékesítésre, a nyertes ajánlatot a legmagasabb összegű vételár ajánlat alapján kell megállapítani. A pályázat során részletvételre vonatkozó ajánlat nem fogadható el.
+(2)[^44] Ha a tulajdonosi joggyakorló megbízása alapján a lakás a HM által kiírt nyilvános pályázat útján kerül értékesítésre, a nyertes ajánlatot a legmagasabb összegű vételár ajánlat alapján kell megállapítani. A pályázat során részletvételre vonatkozó ajánlat nem fogadható el.
 
-(3)[^43] Azonos összegű vételárat tartalmazó ajánlatok benyújtása esetén az ajánlattevők között ártárgyalást kell tartani.
+(3)[^45] Azonos összegű vételárat tartalmazó ajánlatok benyújtása esetén az ajánlattevők között ártárgyalást kell tartani.
 
 (4) Ha házfelügyelői lakás kerül üres lakásként, a HM által kiírt nyilvános pályázat útján elidegenítésre, azonos ajánlatok benyújtása esetén a társasház ajánlata elsőbbséget élvez.
 
-(5)[^44]
+(5)[^46]
 
-(6)[^45]
+(6)[^47]
 
 (7) Az üresen álló HM vagyonkezelésű lakóépület egyben, társasház-alapítás nélkül is elidegeníthető.
 
-[^42]: A 16. § (2) bekezdése a 6/2019. (IV. 15.) HM rendelet 16. §-ával megállapított szöveg.
-[^43]: A 16. § (3) bekezdése a 6/2019. (IV. 15.) HM rendelet 16. §-ával megállapított szöveg.
-[^44]: A 16. § (5) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § i) pontja hatályon kívül helyezte.
-[^45]: A 16. § (6) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § i) pontja hatályon kívül helyezte.
+[^44]: A 16. § (2) bekezdése a 6/2019. (IV. 15.) HM rendelet 16. §-ával megállapított szöveg.
+[^45]: A 16. § (3) bekezdése a 6/2019. (IV. 15.) HM rendelet 16. §-ával megállapított szöveg.
+[^46]: A 16. § (5) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § i) pontja hatályon kívül helyezte.
+[^47]: A 16. § (6) bekezdését a 6/2019. (IV. 15.) HM rendelet 23. § i) pontja hatályon kívül helyezte.
