@@ -14,4 +14,6 @@
 
 (7) Ha a honvédelmi alkalmazott határozott idejű kinevezésének idejéből kevesebb, mint három év van hátra, Nyilatkozat legfeljebb a határozott idejű kinevezés időtartamára tehető.
 
-(8) A Haj.tv. 12. (1) bekezdés c) pontja szerinti nem magyar állampolgár honvédelmi alkalmazott – figyelemmel a honvédek jogállásáról szóló 2012. évi CCV. törvény (a továbbiakban: Hjt.) 31. § (1) bekezdésében foglalt, a katonai szolgálathoz fűződő állampolgársági feltételre – Nyilatkozatot nem tehet.
+(8)[^50]
+
+[^50]: A 33. § (8) bekezdését a 19/2024. (IX. 19.) HM rendelet 29. § d) pontja hatályon kívül helyezte.
