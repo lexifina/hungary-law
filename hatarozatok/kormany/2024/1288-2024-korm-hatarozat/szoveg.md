@@ -46,50 +46,15 @@ rendelkezésre állásáról az adott évi központi költségvetés Agrárminis
 
 | Határidő: | folyamatos |
 
-2. A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezéshez és az ahhoz kapcsolódó fejlesztések előkészítéséhez szükséges intézkedésekről szóló 1159/2023. (IV. 27.) Korm. határozat [a továbbiakban: 1159/2023. (IV. 27.) Korm. határozat] 5. pont c) alpontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány
+3.[^2]
 
-egyetért)
+4.[^3]
 
-„c) a 2. mellékletben foglalt táblázat 7. pontja szerinti fejlesztésnek 2026. július 31. napjáig történő előkészítésével és e célra költségvetési forrás biztosításával, azzal, hogy e fejlesztés előkészítését az Építési és Közlekedési Minisztérium végezze;”
+5.[^4]
 
-3. Az 1159/2023. (IV. 27.) Korm. határozat 9. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„9. felhívja a pénzügyminisztert, hogy – az építési és közlekedési miniszter kezdeményezésére – az 5. pont c) alpontja szerinti fejlesztés előkészítése érdekében gondoskodjon összesen legfeljebb 76 200 000 forint költségvetési forrás biztosításáról, az alábbi ütemezés szerint:
-
-a) a 2025. évben a központi költségvetés Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzat javára legfeljebb 29 908 500 forint,
-
-b) a 2026. évben a központi költségvetés Állami beruházások fejezet, állami közútfejlesztési beruházásokat szolgáló előirányzat javára legfeljebb 46 291 500 forint;
-
-| Felelős: | pénzügyminiszter építési és közlekedési miniszter |
-
-| Határidő: | az adott évi központi költségvetés tervezése során |
-
-4. Az 1159/2023. (IV. 27.) Korm. határozat 17. pontja helyébe a következő rendelkezés lép:
-
-(A Kormány)
-
-„17. felhívja a pénzügyminisztert, hogy – a Miniszterelnökséget vezető miniszter, valamint a miniszterelnök általános helyettese bevonásával – történeti kutatások és rendezvények, valamint terepi műszeres tevékenység lebonyolításának finanszírozása érdekében gondoskodjon
-
-a) a 2023. évben legfeljebb 100 000 000 forint többletforrás biztosításáról a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport javára,
-
-b) a 2025. évben legfeljebb 100 000 000 forint rendelkezésre állásáról a 2025. évi központi költségvetés XI. Miniszterelnökség fejezetében,
-
-c) a 2026. évben legfeljebb 100 000 000 forint rendelkezésre állásáról a 2026. évi központi költségvetés XI. Miniszterelnökség fejezetében;
-
-| Felelős: | az a) alpont tekintetében: pénzügyminiszter Miniszterelnökséget vezető miniszter a b)–c) alpont tekintetében: pénzügyminiszter a miniszterelnök általános helyettese |
-
-| Határidő: | az a) alpont vonatkozásában a 2023. évi központi költségvetés végrehajtása során, a felmerülés ütemében a b) és c) alpont vonatkozásában az adott évi központi költségvetés tervezése során |
-
-5. Az 1159/2023. (IV. 27.) Korm. határozat a következő 20. ponttal egészül ki:
-
-(A Kormány)
-
-„20. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4c) bekezdés a) pontjában biztosított jogkörében eljárva az 5. pont c) alpontjában meghatározott feladatok ellátása érdekében a központi költségvetés Állami beruházások fejezet, Állami közútfejlesztési beruházásokat szolgáló előirányzat terhére vállalható kötelezettségek mértékét a 2025–2026. évekre az alábbiak szerint állapítja meg:
-
-a) a 2025. évre vonatkozó kötelezettségvállalás felső korlátja legfeljebb 29 908 500 forint,
-
-b) a 2026. évre vonatkozó kötelezettségvállalás felső korlátja legfeljebb 69 786 500 forint.”
+[^1]: A 2. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 3. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
