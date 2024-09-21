@@ -1,7 +1,3 @@
-18. § Hatályát veszti a kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet
+18. §[^19]
 
-a) 8. § (7) bekezdése,
-
-b) 16. § (6) bekezdése,
-
-c) 20. § (9) bekezdése.
+[^19]: A 18. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

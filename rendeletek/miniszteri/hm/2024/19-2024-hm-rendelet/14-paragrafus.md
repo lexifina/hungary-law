@@ -1,5 +1,3 @@
-## „4a. honvédségi érdekvédelmi és civil szervezet: az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvénynek megfelelő szervezetek és azok tagszervezetei, amelyek felvállalják tagjaik érdekképviseletét, a nyugállományú katonákkal és honvédségi nyugdíjasokkal való törődést, és alapszabályuk célul tűzi ki a honvédelem érdekében való tevékenységet, a katonai hagyományok ápolását,”
+14. §[^15]
 
-14. § A kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet 20. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A Bujákon működő MH regenerálódást és kiképzést végző szervezete szolgáltatásait a nem igényjogosult az 1. melléklet 7. pontjában foglalt táblázat szerinti hétközi és hétvégi pihenés térítési díj ellenében veheti igénybe. Az MH Badacsonylábdihegyen és Mályiban működő MH regenerálódást és kiképzést végző szervezete szolgáltatásait a nem igényjogosult az 1. melléklet 9. pontjában foglalt táblázat szerinti hétközi és hétvégi pihenés térítési díj ellenében veheti igénybe.”
+[^15]: A 14. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

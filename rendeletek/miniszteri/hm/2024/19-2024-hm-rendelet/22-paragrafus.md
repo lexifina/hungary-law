@@ -1,1 +1,3 @@
-22. § A lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet 3/B. § (1) bekezdés b) pontjában az „a Hjt. 25. § (1) bekezdésében” szövegrész helyébe az „a Hjkr. 6. § (1) bekezdésében” szöveg lép.
+22. §[^23]
+
+[^23]: A 22. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

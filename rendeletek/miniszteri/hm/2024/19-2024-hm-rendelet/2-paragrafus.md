@@ -1,3 +1,3 @@
-2. § A Honvédelmi Minisztérium által nyújtott lakhatási támogatásokról szóló 19/2009. (XII. 29.) HM rendelet 6. §-a a következő c) ponttal egészül ki:
+2. §[^3]
 
-(HM rendelkezésű lakás juttatható)
+[^3]: A 2. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

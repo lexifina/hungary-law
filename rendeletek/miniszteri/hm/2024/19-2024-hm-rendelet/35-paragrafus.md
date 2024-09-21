@@ -1,1 +1,3 @@
-35. § Hatályát veszti a honvédek fegyelmi és méltatlansági eljárásának részletes szabályairól szóló 11/2024. (VI. 28.) HM rendelet 1. mellékletében foglalt táblázat B oszlop 1.7. és 2.1. pontjában a „ , közkatona” szövegrész.
+35. §[^36]
+
+[^36]: A 35. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
 ## 6. A lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet módosítása
 
-19. § A lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet 3. § (5) bekezdés c) pontja helyébe a következő rendelkezés lép:
+19. §[^20]
 
-(A lakáspénzre való jogosultság szempontjából szolgálati érdekű áthelyezésnek minősül az állomány tagjának:)
+[^20]: A 19. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

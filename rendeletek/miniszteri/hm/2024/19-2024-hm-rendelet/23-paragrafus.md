@@ -1,5 +1,3 @@
-23. § Hatályát veszti a lakáspénz és az egyszeri pénzbeli támogatás bevezetéséről szóló 10/2014. (VII. 25.) HM rendelet
+23. §[^24]
 
-a) 6. § (2) bekezdés b) pontja,
-
-b) 10. § (2) bekezdése.
+[^24]: A 23. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

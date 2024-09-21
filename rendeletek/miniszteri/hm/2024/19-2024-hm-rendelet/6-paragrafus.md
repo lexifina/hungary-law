@@ -1,3 +1,5 @@
 ## 2. A honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet módosítása
 
-6. § A honvédelmi ágazatban bekövetkezett baleseti veszélyt jelentő rendellenességek és a balesetek bejelentéséről, kivizsgálásáról és nyilvántartásáról szóló 13/2011. (X. 20.) HM rendelet 10. § (3) bekezdésében a „Magyar Honvédség hivatásos és szerződéses állományú katonáinak jogállásáról szóló 2001. évi XCV. törvény (a továbbiakban: Hjt.) 46. § (2) bekezdése” szövegrész helyébe az „a honvédek jogállásáról szóló 137/2024. (VI. 28.) Korm. rendelet 11. § (1) bekezdése” szöveg lép.
+6. §[^7]
+
+[^7]: A 6. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
