@@ -1,1 +1,0 @@
-A Kormány a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 83. § 9. pontjában kapott felhatalmazás alapján – figyelemmel a vízgazdálkodásról szóló 1995. évi LVII. törvény 17. § (1) bekezdés c) pontjában foglaltakra –, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
