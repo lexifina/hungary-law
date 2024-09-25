@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2024-33-20-8
 | --- | --- | --- |
 | 2024-09-11 | 2024-33-20-8X.1 | 33/2024. (IX. 10.) ÉKM rendelet |
 | 2024-09-12 | 2024-33-20-8X.2 | 2010. évi CXXX. törvény |
+| 2024-09-25 | 2024-33-20-8X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |

@@ -1,5 +1,5 @@
 ## 3. A közúti közlekedési igazgatási hatósági eljárások díjairól szóló 29/2004. (VI. 16.) BM rendelet módosítása
 
-4. §[^3]
+4. §[^1]
 
-[^3]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 4. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
