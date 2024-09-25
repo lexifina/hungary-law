@@ -1,4 +1,4 @@
-7/B. §[^6] (1) A környezetvédelmi felülvizsgálati eljárás során vizsgabiztosi tevékenységet a közlekedési hatóság kormánytisztviselője vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel az ER.-ben meghatározott követelményeknek.
+7/B. §[^10] (1) A környezetvédelmi felülvizsgálati eljárás során vizsgabiztosi tevékenységet a közlekedési hatóság kormánytisztviselője vagy a vizsgáló állomással foglalkoztatási jogviszonyban álló személy végezhet, aki megfelel az ER.-ben meghatározott követelményeknek.
 
 (2) A vizsgabiztosi engedély kiadása iránti kérelemnek tartalmaznia kell a kérelmező
 
@@ -50,4 +50,4 @@ b) az (5) bekezdésben előírt bejelentési kötelezettség teljesítését elm
 
 (9) A vizsgabiztosok szakmai képzésének szabályait az ER. tartalmazza.
 
-[^6]: A 7/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.
+[^10]: A 7/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (1) bekezdése iktatta be.

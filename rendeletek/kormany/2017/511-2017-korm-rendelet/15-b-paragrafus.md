@@ -1,4 +1,4 @@
-15/B. §[^12] (1) A közlekedési hatóság a műhelykártya jogosulatlan vagy szabálytalan használata, vagy a műhelykártya meghamisításának alapos gyanúja esetén – ismétlődő, vagy a menetíró szerelőműhely vezetőjének felróható esetben – a menetíró szerelőműhelyt a tevékenységétől legfeljebb 365 napra eltilthatja. Az eltiltás időtartamát napokban kell meghatározni.
+15/B. §[^16] (1) A közlekedési hatóság a műhelykártya jogosulatlan vagy szabálytalan használata, vagy a műhelykártya meghamisításának alapos gyanúja esetén – ismétlődő, vagy a menetíró szerelőműhely vezetőjének felróható esetben – a menetíró szerelőműhelyt a tevékenységétől legfeljebb 365 napra eltilthatja. Az eltiltás időtartamát napokban kell meghatározni.
 
 (2) A meghamisított műhelykártyát a Kkt. 20. § (11) bekezdés a) pont aa) alpontja szerint ellenőrzésre jogosult szervezet a helyszínen elveszi, és a műhelykártya bevonását kezdeményezve azt a kártyakibocsátó hatósághoz továbbítja.
 
@@ -24,4 +24,4 @@ a közlekedési hatóság a műhelyt a tevékenység végzésétől első alkalo
 
 (4) Ha a műhelyengedélyt a közlekedési hatóság a 15/A. § f) pontja szerint visszavonja, a menetíró szerelőműhely részére újabb műhelyengedély legkorábban a visszavonásról szóló határozat véglegessé válásának napját követő egy év elteltével adható.
 
-[^12]: A 15/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.
+[^16]: A 15/B. §-t a 713/2020. (XII. 30.) Korm. rendelet 56. § (3) bekezdése iktatta be.
