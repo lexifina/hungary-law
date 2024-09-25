@@ -1,6 +1,6 @@
 ## Elsősegélynyújtó felszerelésre vonatkozó üzemeltetési műszaki feltételek
 
-106. §[^224] (1)[^225] A járműveken elsősegélynyújtó felszerelést kell készenlétben tartani, amelynek tartalma a következő:
+106. §[^225] (1)[^226] A járműveken elsősegélynyújtó felszerelést kell készenlétben tartani, amelynek tartalma a következő:
 
 a) oldalkocsi nélküli motorkerékpár, motoros tricikli és négykerekű segédmotoros kerékpár (mopedautó) esetében:
 
@@ -76,5 +76,5 @@ Az ag), illetve bm) pontokban meghatározott polividonum jodatum hatóanyag tart
 
 (5) Az (1)–(4) bekezdés rendelkezéseit a már forgalomba helyezett járműveken a járműhöz használt bontatlan, lezárt elsősegélynyújtó felszerelés alkalmazhatóságának lejárta esetén, de legkésőbb 2013. január 1. napját követően kell alkalmazni.
 
-[^224]: A 106. § az 50/2009. (IX. 30.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^225]: A 106. § (1) bekezdése a 15/2020. (VI. 4.) ITM rendelet 10. §-a szerint módosított szöveg.
+[^225]: A 106. § az 50/2009. (IX. 30.) KHEM rendelet 1. §-ával megállapított szöveg.
+[^226]: A 106. § (1) bekezdése a 15/2020. (VI. 4.) ITM rendelet 10. §-a szerint módosított szöveg.

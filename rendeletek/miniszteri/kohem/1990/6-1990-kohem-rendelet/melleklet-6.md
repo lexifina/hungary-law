@@ -150,6 +150,6 @@
 
 ## (13) A tisztán elektromos meghajtású motorkerékpárt az ügyfél kérelmére környezetkímélő motorkerékpárnak kell minősíteni, a nem környezetkímélő motorkerékpárok környezetvédelmi osztályba sorolását nem kell megállapítani.
 
-6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^396]
+6. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^397]
 
-[^396]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.
+[^397]: A 6. számú mellékletet a 12/2000. (V. 24.) KHVM rendelet 18.§-ának (1) bekezdése hatályon kívül helyezte.

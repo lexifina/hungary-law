@@ -1,6 +1,6 @@
-## A rakomány rögzítésére vonatkozó üzemeltetési műszaki feltételek[^203]
+## A rakomány rögzítésére vonatkozó üzemeltetési műszaki feltételek[^204]
 
-82/A. §[^204] (1) A rakományrögzítésnek a következő követelményeknek kell megfelelnie:
+82/A. §[^205] (1) A rakományrögzítésnek a következő követelményeknek kell megfelelnie:
 
 a) a járművet vagy a konténert a rakomány kezelésére és rögzítésére alkalmas eszközzel kell ellátni;
 
@@ -48,5 +48,5 @@ e) MSZ EN 12 640:2000 Rakományrögzítés közúti járműveken. Rögzítő pon
 
 (8) A rakomány megfelelő rögzítésére önmagában nem elegendő a csúszásmentes kialakítású rakfelület vagy a rakomány és a rakfelület között csúszásgátló alátét alkalmazása.
 
-[^203]: A 82/A. §-t megelőző alcímet a 2/2018. (II. 5.) NFM rendelet 12. §-a iktatta be.
-[^204]: A 82/A. §-t a 2/2018. (II. 5.) NFM rendelet 12. §-a iktatta be.
+[^204]: A 82/A. §-t megelőző alcímet a 2/2018. (II. 5.) NFM rendelet 12. §-a iktatta be.
+[^205]: A 82/A. §-t a 2/2018. (II. 5.) NFM rendelet 12. §-a iktatta be.

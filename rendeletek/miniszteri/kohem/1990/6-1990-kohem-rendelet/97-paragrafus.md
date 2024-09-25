@@ -14,21 +14,21 @@ c) legfeljebb 10 cm méretű, a szélvédő alsó sarkában elhelyezett felirato
 
 d) a szélvédő szélén elhelyezett antennát.
 
-(3)[^218] Kívülről látható világító, megvilágított, átvilágított, illetőleg fényvisszaverő kivitelű feliratot, ábrát, vagy jelzést — a 27., 67. és 103. §-okban említetteket, a közúti ellenőrzést végző hatósági járművek feliratait és jelöléseit, továbbá a veszélyes áruk közúti szállítására vonatkozó előírás (ADR) szerinti veszélyt jelző táblákat, a hosszú és nehéz, valamint a lassú járművek (járműszerelvények) megjelölésére engedélyezett táblákat kivéve — a gépjárművön, a mezőgazdasági vontatón és a lassú járművön elhelyezni tilos.
+(3)[^219] Kívülről látható világító, megvilágított, átvilágított, illetőleg fényvisszaverő kivitelű feliratot, ábrát, vagy jelzést — a 27., 67. és 103. §-okban említetteket, a közúti ellenőrzést végző hatósági járművek feliratait és jelöléseit, továbbá a veszélyes áruk közúti szállítására vonatkozó előírás (ADR) szerinti veszélyt jelző táblákat, a hosszú és nehéz, valamint a lassú járművek (járműszerelvények) megjelölésére engedélyezett táblákat kivéve — a gépjárművön, a mezőgazdasági vontatón és a lassú járművön elhelyezni tilos.
 
 (4) A jármű vezetőfülkéjében és utasterében tilos olyan díszítést alkalmazni mely a vezetőt zavarhatja, vagy a szabad kilátásban akadályozhatja.
 
-(5)[^219] A gépjármű, a mezőgazdasági vontató, továbbá a lassú jármű szélvédőjén és ablakain – kivéve a lakófelépítmény ablakait – menet közben nem szabad függönyt, vagy olyan más megoldást (fólia, üvegre felhordott fényelnyelő vagy fényvisszaverő réteg stb.) alkalmazni, amely a szélvédőn, illetőleg a jármű ablakain a kilátást, illetőleg az átlátást megakadályozza.
+(5)[^220] A gépjármű, a mezőgazdasági vontató, továbbá a lassú jármű szélvédőjén és ablakain – kivéve a lakófelépítmény ablakait – menet közben nem szabad függönyt, vagy olyan más megoldást (fólia, üvegre felhordott fényelnyelő vagy fényvisszaverő réteg stb.) alkalmazni, amely a szélvédőn, illetőleg a jármű ablakain a kilátást, illetőleg az átlátást megakadályozza.
 
-(6)[^220] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a jármű szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközökre, amelyek alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
+(6)[^221] Az (5) bekezdésben meghatározott követelmény nem vonatkozik a jármű szélvédőjének és ablakainak fényáteresztő képességét csökkentő olyan eszközökre, amelyek alkalmazására a közlekedési hatóság az ER. 2. § (3) bekezdés h) pontja alapján, az ENSZ–EGB 43. számú előírás 21. számú mellékletében meghatározott, a biztonsági üvegezés járműbe szerelésére vonatkozó műszaki követelmények figyelembevételével engedélyt adott.
 
-(7)[^221] A fényáteresztő-képesség mértéke megfelelő:
+(7)[^222] A fényáteresztő-képesség mértéke megfelelő:
 
 a) ha a szélvédő (kivéve a lehajtott napellenzők által takart üvegfelület), valamint a vezetőtéri oldalablakok üvegei esetében (amelyeken keresztül a jármű vezetője részére az oldalra való kilátás, valamint a visszapillantó tükrökkel a jármű mellett lévő mindkét forgalmi sávra történő hátralátás biztosítva van) a mérték legalább 70%;
 
 b) egyéb ablakok (utastéri, raktéri oldal és hátsó ablakok) üvegei esetében 70% alatti mérték is megengedhető, ha a járművet két külső tükörrel szerelték fel.
 
-[^218]: A 97. § (3) bekezdése a 15/2021. (IV. 9.) ITM rendelet 3. §-a szerint módosított szöveg.
-[^219]: A 97. § (5) bekezdése a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^220]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^221]: A 97. § (7) bekezdését a 26/2010. (XII. 22.) NFM rendelet 6. § (2) bekezdése iktatta be.
+[^219]: A 97. § (3) bekezdése a 15/2021. (IV. 9.) ITM rendelet 3. §-a szerint módosított szöveg.
+[^220]: A 97. § (5) bekezdése a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^221]: A 97. § (6) bekezdését a 84/2005. (X. 11.) GKM rendelet 3. §-a iktatta be, szövege a 26/2010. (XII. 22.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^222]: A 97. § (7) bekezdését a 26/2010. (XII. 22.) NFM rendelet 6. § (2) bekezdése iktatta be.

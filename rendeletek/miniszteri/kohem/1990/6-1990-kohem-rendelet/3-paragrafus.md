@@ -10,14 +10,17 @@ b) egyéb járművek forgalomba helyezésének engedélyezésekor a Függelékek
 
 (4) A rendeletnek csak az üzemeltetési műszaki feltételekre vonatkozó rendelkezéseit kell alkalmazni – az (5) bekezdésben foglalt eltéréssel – a már forgalomba helyezett járművekre.
 
+(4a)[^40] Az ER 4/C. § (2) és (3) bekezdésében feljogosítottak az e rendelet további műszaki feltételei, a fényjelző berendezések színeire vonatkozó üzemeltetési műszaki feltételek, a 43. § (2) bekezdésében és a 93. § (1) bekezdésében szereplő követelmények alól mindaddig mentesülnek, amíg a tulajdonos vagy üzembentartó erre való jogosultságát a külföldi fegyveres erő, a Magyarország területére települt katonai szervezet, a nemzetközi katonai parancsnokság, a diplomáciai testület vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek esetében az illetékes szervezet igazolja.
+
 (5) A forgalomban levő jármű kialakítása, felszereltsége és tulajdonságai csak abban az esetben változtathatók meg, ha a változás a jármű közlekedésbiztonsági és környezetvédelmi jellemzőit nem rontja le. A változással érintett közlekedésbiztonsági tulajdonságok tekintetében e rendelet további műszaki feltételeit is alkalmazni kell.
 
 (6) A rendeletben mennyiségi jellemzővel (számértékkel) meghatározott követelmények teljesülése – a zajkibocsátásra vonatkozó követelmények kivételével – az ott meghatározottól eltérő mértékegységben is kifejezhető, illetőleg eltérő mérési módszerekkel is ellenőrizhető. A különböző mérési módszerek egybevetésének (összehasonlításának) feltételeit és módját a szükséghez képest a közlekedésért felelős miniszter – az érdekelt szervek vezetőivel egyetértésben – határozza meg.
 
-(7)[^40] A fejlesztési célú autonóm járműre vonatkozó további részletes műszaki és üzemeltetési követelményeket a 17. melléklet tartalmazza.
+(7)[^41] A fejlesztési célú autonóm járműre vonatkozó további részletes műszaki és üzemeltetési követelményeket a 17. melléklet tartalmazza.
 
-(8)[^41] A fejlesztési célú járművek besorolási szintjeit a 18. melléklet tartalmazza.
+(8)[^42] A fejlesztési célú járművek besorolási szintjeit a 18. melléklet tartalmazza.
 
 [^39]: A 3. § a 67/2009. (XI. 27.) KHEM rendelet 2. §-ával megállapított szöveg.
-[^40]: A 3. § (7) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
-[^41]: A 3. § (8) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
+[^40]: A 3. § (4a) bekezdését a 33/2024. (IX. 10.) ÉKM rendelet 3. §-a iktatta be.
+[^41]: A 3. § (7) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.
+[^42]: A 3. § (8) bekezdését a 11/2017. (IV. 12.) NFM rendelet 6. §-a iktatta be.

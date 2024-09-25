@@ -1,4 +1,4 @@
-4. § (1)[^42] E rendelet rendelkezéseitől eltérést
+4. § (1)[^43] E rendelet rendelkezéseitől eltérést
 
 a) a közlekedési hatóság
 
@@ -22,13 +22,13 @@ bc) a környezetvédelmi szempontból nem megfelelő járművek esetében a kör
 
 engedélyez.
 
-(1a)[^43] Az (1) bekezdésben foglaltak tekintetében a feltételek fennállását a kérelmező az erre irányuló kérelem benyújtásával egyidejűleg megindokolja, valamint dokumentumokkal alátámasztja.
+(1a)[^44] Az (1) bekezdésben foglaltak tekintetében a feltételek fennállását a kérelmező az erre irányuló kérelem benyújtásával egyidejűleg megindokolja, valamint dokumentumokkal alátámasztja.
 
-(2)[^44] A közlekedési hatóság a típusvizsgálat során egyes járművekre, illetőleg járműfajtákra – közlekedésbiztonsági és környezetvédelmi érdekből – a rendeletben foglaltakon kívül további, a járműtípusra vonatkozó feltételeket is meghatározhat, ha a járműre, illetőleg járműfajtára – az azon alkalmazott műszaki megoldásra annak sajátosságai miatt – e rendelet előírásai közvetlenül nem alkalmazhatók.
+(2)[^45] A közlekedési hatóság a típusvizsgálat során egyes járművekre, illetőleg járműfajtákra – közlekedésbiztonsági és környezetvédelmi érdekből – a rendeletben foglaltakon kívül további, a járműtípusra vonatkozó feltételeket is meghatározhat, ha a járműre, illetőleg járműfajtára – az azon alkalmazott műszaki megoldásra annak sajátosságai miatt – e rendelet előírásai közvetlenül nem alkalmazhatók.
 
-(3)[^45]
+(3)[^46]
 
-[^42]: A 4. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^43]: A 4. § (1a) bekezdését a 9/2022. (VIII. 1.) TIM rendelet 15. § (2) bekezdése iktatta be.
-[^44]: A 4. § (2) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 3. § (1) bekezdésével megállapított és a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
-[^45]: A 4. § (3) bekezdését a 116/2004. (IX. 24.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése.
+[^43]: A 4. § (1) bekezdése a 9/2022. (VIII. 1.) TIM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^44]: A 4. § (1a) bekezdését a 9/2022. (VIII. 1.) TIM rendelet 15. § (2) bekezdése iktatta be.
+[^45]: A 4. § (2) bekezdése a 46/1999. (XII. 28.) KHVM rendelet 3. § (1) bekezdésével megállapított és a 67/2009. (XI. 27.) KHEM rendelet 9. § (7) bekezdése szerint módosított szöveg.
+[^46]: A 4. § (3) bekezdését a 116/2004. (IX. 24.) GKM rendelet 2. §-a iktatta be, hatályon kívül helyezte a 67/2009. (XI. 27.) KHEM rendelet 9. § (11) bekezdése.
