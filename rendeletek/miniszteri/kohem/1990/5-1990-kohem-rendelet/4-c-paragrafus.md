@@ -4,7 +4,7 @@
 
 (2) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres erők és a Magyarország területén felállított nemzetközi katonai parancsnokságok, azok Magyarországon szolgálatot teljesítő állományának tagjai, valamint e személyek – a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvényben meghatározott – hozzátartozóinak használatában lévő járművek forgalomba helyezésének engedélyezési, valamint az azt követő időszakos műszaki felülvizsgálati eljárása során mindaddig, amíg a tulajdonos vagy üzembentartó erre való jogosultságát a külföldi fegyveres erő, a Magyarország területére települt katonai szervezet vagy nemzetközi katonai parancsnokság igazolja.
 
-(3) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó, a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek be- és kiutazása, magyarországi tartózkodása egyes szabályainak megállapításáról szóló rendelet szerinti személyek és hozzátartozóik használatában lévő járművekre.
+(3)[^87] Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó, a diplomáciai vagy a nemzetközi jogon alapuló egyéb kiváltságot és mentességet élvező személyek és hozzátartozóik használatában lévő járművek forgalomba helyezésének engedélyezési, valamint az azt követő időszakos műszaki felülvizsgálati eljárása során mindaddig, amíg a tulajdonos vagy üzembentartó erre való jogosultsága igazoltan fennáll.
 
 (4) A jármű-honosítási eljárásban a jármű nyilvántartásba vételéhez szükséges, valamint a regisztrációs adóról szóló 2003. évi CX. törvény 9. § (4) bekezdésében meghatározott további adatait a közúti közlekedésre vonatkozó közigazgatási hatósági ügyekben alkalmazandó kiegészítő eljárási szabályokról szóló kormányrendeletben meghatározott feltételek alapján, a származási országban kiadott okmányok figyelembevételével kell megállapítani.
 
@@ -20,3 +20,4 @@
 
 [^85]: A 4/C. §-t megelőző alcímet a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be.
 [^86]: A 4/C. §-t a 105/2007. (XII. 23.) GKM rendelet 4. §-a iktatta be, szövege a 18/2022. (IX. 13.) TIM rendelet 1. §-ával megállapított szöveg.
+[^87]: A 4/C. § (3) bekezdése a 33/2024. (IX. 10.) ÉKM rendelet 1. §-ával megállapított szöveg.

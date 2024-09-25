@@ -1,6 +1,6 @@
-## Egyedi és kis sorozatú gyártás[^100]
+## Egyedi és kis sorozatú gyártás[^101]
 
-9/A. §[^101] (1)[^102] Az egyedi és kis sorozatú gyártás (a továbbiakban együtt: kis sorozatú gyártás) útján létrehozott járművekre az előzetes összeépítési engedélyt – igazgatási szolgáltatási díj ellenében, kérelemre – a közlekedési hatóság adja ki.
+9/A. §[^102] (1)[^103] Az egyedi és kis sorozatú gyártás (a továbbiakban együtt: kis sorozatú gyártás) útján létrehozott járművekre az előzetes összeépítési engedélyt – igazgatási szolgáltatási díj ellenében, kérelemre – a közlekedési hatóság adja ki.
 
 (2) Kis sorozatú gyártással
 
@@ -14,21 +14,21 @@ hozható létre.
 
 (3) A (2) bekezdés a) és b) pontjában meghatározott járművet kis sorozatú gyártással közúti járműgyártó tevékenységet folytató egyéni vállalkozó és gazdálkodó szervezet hozhat létre.
 
-(4)[^103] Kis sorozatú gyártás esetén az előzetes összeépítési engedélyt – a 9. § (1) bekezdésben meghatározott eljárás alkalmazásával és feltételek esetén, a létrehozott járművek számának megfelelően az összeépítés engedélyezésére külön jogszabályban járművenként meghatározott igazgatási szolgáltatási díj ellenében – a közlekedési hatóság abban az esetben adja ki, ha
+(4)[^104] Kis sorozatú gyártás esetén az előzetes összeépítési engedélyt – a 9. § (1) bekezdésben meghatározott eljárás alkalmazásával és feltételek esetén, a létrehozott járművek számának megfelelően az összeépítés engedélyezésére külön jogszabályban járművenként meghatározott igazgatási szolgáltatási díj ellenében – a közlekedési hatóság abban az esetben adja ki, ha
 
 a) a gyártási dokumentáció alapján valószínűsíthetően a jármű kielégíti az MR.-ben meghatározott követelményeket, valamint
 
 b) a gyártó biztosítja a prototípus elkészült mintadarabja esetében, valamint a gyártás meghatározott szakaszaiban a hatósági ellenőrzés feltételeit.
 
-(5)[^104]
+(5)[^105]
 
 (6) A kis sorozatú gyártás engedélyezésekor a rendelet Függelékeinek a kis sorozatú gyártásra vonatkozó rendelkezéseit alkalmazni kell.
 
-(7)[^105] Az egyedi összeépítési engedély egyedi forgalomba helyezési engedélynek, a sorozat összeépítési engedély sorozat forgalomba helyezési engedélynek minősül, amelyek időbeli hatálya a kiadásuktól számított egy év.
+(7)[^106] Az egyedi összeépítési engedély egyedi forgalomba helyezési engedélynek, a sorozat összeépítési engedély sorozat forgalomba helyezési engedélynek minősül, amelyek időbeli hatálya a kiadásuktól számított egy év.
 
-[^100]: A 9/A. §-t megelőző címet a 83/2005. (X. 11.) GKM rendelet 4. §-a iktatta be.
-[^101]: A 9/A. §-t a 83/2005. (X. 11.) GKM rendelet 4. §-a iktatta be.
-[^102]: A 9/A. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) és w) pontja szerint módosított szöveg.
-[^103]: A 9/A. § (4) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) és w) pontja szerint módosított szöveg.
-[^104]: A 9/A. § (5) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés e) pontja hatályon kívül helyezte.
-[^105]: A 9/A. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 7. §-ával megállapított szöveg.
+[^101]: A 9/A. §-t megelőző címet a 83/2005. (X. 11.) GKM rendelet 4. §-a iktatta be.
+[^102]: A 9/A. §-t a 83/2005. (X. 11.) GKM rendelet 4. §-a iktatta be.
+[^103]: A 9/A. § (1) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) és w) pontja szerint módosított szöveg.
+[^104]: A 9/A. § (4) bekezdés bevezető szövegrésze a 66/2009. (XI. 27.) KHEM rendelet 24. § (4) bekezdés c) és w) pontja szerint módosított szöveg.
+[^105]: A 9/A. § (5) bekezdését a 66/2009. (XI. 27.) KHEM rendelet 24. § (3) bekezdés e) pontja hatályon kívül helyezte.
+[^106]: A 9/A. § (7) bekezdése a 66/2009. (XI. 27.) KHEM rendelet 7. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 24/A. §[^319] A Függelékek hatálya alá tartozó pótalkatrészek és tartozékok minősítő vizsgálatára (jóváhagyására) és ellenőrzésére a 23. §, a 24. §, a 25. § és a 26. §-ban foglaltak helyett a Függelékek vonatkozó rendelkezéseit kell alkalmazni.
+## 24/A. §[^323] A Függelékek hatálya alá tartozó pótalkatrészek és tartozékok minősítő vizsgálatára (jóváhagyására) és ellenőrzésére a 23. §, a 24. §, a 25. § és a 26. §-ban foglaltak helyett a Függelékek vonatkozó rendelkezéseit kell alkalmazni.
 
 ## X. Fejezet
 
@@ -38,7 +38,7 @@ a) a pótalkatrész, tartozék megnevezése,
 
 b) a járműtípus(ok) megnevezése, amely(ek)nél a pótalkatrész, tartozék alkalmazható,
 
-c)[^320] a gyártó (felújító, forgalmazó) neve, címe
+c)[^324] a gyártó (felújító, forgalmazó) neve, címe
 
 d) minősítő vizsgálatra kötelezett pótalkatrész, tartozék esetében a minősítő vizsgálatot végző intézmény által meghatározott adatok,
 
@@ -54,8 +54,8 @@ a) a pótalkatrész a jármű gyártójától származik, vagy
 
 b) a gyártó azt első beépítésű alkatrészként is használja, illetőleg más, hitelt érdemlő módon a gyári eredeti alkatrész helyett használhatónak elismerte.
 
-(9)[^321] A C1, C2 és C3 osztályú gumiabroncsokat a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2020/740 európai parlamenti és tanácsi rendelet] 4. cikkében foglaltaknak megfelelően kell megjelölni. A közlekedési hatóság az (EU) 2020/740 európai parlamenti és tanácsi rendelet I. melléklete szerint bejelentett gumiabroncstípus vagy gumiabroncscsoport osztályozásának és mérésének megfelelőségét a VI. mellékletében meghatározott hitelesítési eljárást alkalmazva értékeli.
+(9)[^325] A C1, C2 és C3 osztályú gumiabroncsokat a gumiabroncsok üzemanyag-hatékonyság és más paraméterek tekintetében történő címkézéséről, az (EU) 2017/1369 rendelet módosításáról és az 1222/2009/EK rendelet hatályon kívül helyezéséről szóló, 2020. május 25-i (EU) 2020/740 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2020/740 európai parlamenti és tanácsi rendelet] 4. cikkében foglaltaknak megfelelően kell megjelölni. A közlekedési hatóság az (EU) 2020/740 európai parlamenti és tanácsi rendelet I. melléklete szerint bejelentett gumiabroncstípus vagy gumiabroncscsoport osztályozásának és mérésének megfelelőségét a VI. mellékletében meghatározott hitelesítési eljárást alkalmazva értékeli.
 
-[^319]: A 24/A. §-t a 11/2000. (V. 24.) KHVM rendelet 9. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
-[^320]: A 25. § (5) bekezdésének c) pontja a 12/1998. (V. 22.) KHVM rendelet 18. §-ával megállapított szöveg.
-[^321]: A 25. § (9) bekezdését a 65/2012. (XII. 10.) NFM rendelet 5. §-a iktatta be, szövege a 2/2021. (I. 14.) ITM rendelet 1. §-ával megállapított szöveg.
+[^323]: A 24/A. §-t a 11/2000. (V. 24.) KHVM rendelet 9. §-a iktatta a szövegbe, e módosító rendelet 12. § (2) bekezdésének a) pontja alapján a Magyar Köztársaságnak az Európai Unióhoz történő csatlakozásáról szóló nemzetközi szerződést kihirdető törvény hatálybalépésének napján lép hatályba.
+[^324]: A 25. § (5) bekezdésének c) pontja a 12/1998. (V. 22.) KHVM rendelet 18. §-ával megállapított szöveg.
+[^325]: A 25. § (9) bekezdését a 65/2012. (XII. 10.) NFM rendelet 5. §-a iktatta be, szövege a 2/2021. (I. 14.) ITM rendelet 1. §-ával megállapított szöveg.
