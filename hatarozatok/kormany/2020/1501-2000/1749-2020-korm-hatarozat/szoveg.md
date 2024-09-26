@@ -1,4 +1,4 @@
-A Kormány az Alba Airport Repülőtér sport- és üzleti célú nyilvános polgári kisrepülőtér fejlesztése (a továbbiakban: fejlesztés) érdekében
+A Kormány az Alba Airport Repülőtér közforgalom számára nyitva nem álló repülőtér fejlesztése (a továbbiakban: fejlesztés) érdekében[^1]
 
 1. támogatja a fejlesztést előkészítő Részletes Megvalósíthatósági Tanulmány elkészítését;
 
@@ -15,3 +15,5 @@ Határidő: azonnal
 Felelős: innovációért és technológiáért felelős miniszter
 
 Határidő: a 3. pont szerinti forrás rendelkezésre állását követően azonnal
+
+[^1]: Az 1298/2024. (IX. 26.) Korm. határozat szerint módosított szöveg.
