@@ -1,0 +1,1 @@
+9. § Az országos közutak kezelője minden év január 31-ig elkészíti a megelőző évben az általa kezelt közúthálózaton végzett útépítési beruházások során kitermelődött építési-bontási anyag felhasználására vonatkozó kimutatást.

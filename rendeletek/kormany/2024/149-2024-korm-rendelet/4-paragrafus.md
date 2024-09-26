@@ -1,0 +1,3 @@
+4. § (1) Az építési-bontási anyagot a nyilvántartásba vételét követő három éven belül a vagyonkezelői jogkörében eljáró országos közút kezelője, valamint a nemzeti vagyonról szóló törvény szerinti országos közutakkal és műtárgyaikkal kapcsolatos kizárólagos gazdasági tevékenységhez kapcsolódó működtetési jog jogosultja a vonatkozó szabványok és műszaki szakmai szabályok alapján köteles építési alapanyaggá minősíteni.
+
+(2) Az (1) bekezdésben meghatározott határidőn belül nem minősített vagy építési termékké vagy másodlagos építési alapanyaggá nem átminősíthető építési-bontási anyag építési-bontási hulladéknak minősül.

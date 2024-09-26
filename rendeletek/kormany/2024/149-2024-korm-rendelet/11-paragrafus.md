@@ -1,0 +1,1 @@
+11. § A vagyonkezelői jogkörében eljáró országos közút kezelője köteles az útépítési beruházás vállalkozó-kivitelezője részére a beruházáson belül újbóli felhasználásra nem kerülő építési-bontási anyagot annak újbóli felhasználása céljából megvételre felajánlani.

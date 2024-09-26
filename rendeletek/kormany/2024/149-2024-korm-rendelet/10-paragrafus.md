@@ -1,0 +1,1 @@
+10. § Az országos közutak kezelője az építési-bontási anyag újbóli felhasználása érdekében szükséges intézkedések megtételét saját tevékenységi körben vagy vállalkozóval kötött szerződés keretében is teljesítheti.

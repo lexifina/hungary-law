@@ -1,0 +1,1 @@
+15. § A vagyonkezelői jogkörében eljáró országos, térségi vagy elővárosi vasúti pályahálózat-működtető az építési-bontási anyag újbóli felhasználása érdekében szükséges intézkedések megtételét saját tevékenységi körben teljesíti.

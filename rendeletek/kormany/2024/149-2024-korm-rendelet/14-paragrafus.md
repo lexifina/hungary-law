@@ -1,0 +1,1 @@
+14. § Az építési-bontási anyag építési termékké vagy másodlagos építési alapanyaggá minősítését követő három éven belül a vagyonkezelői jogkörében eljáró országos, térségi vagy elővárosi vasúti pályahálózat-működtető gondoskodik a vagyonkezelésében vagy tulajdonában lévő építési termék vagy másodlagos építési alapanyag beépítéséről vagy annak forgalomba hozataláról.
