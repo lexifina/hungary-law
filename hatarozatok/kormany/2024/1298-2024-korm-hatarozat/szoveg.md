@@ -1,0 +1,1 @@
+Az Alba Airport Repülőtér fejlesztéséről szóló 1749/2020. (XI. 11.) Korm. határozatban a „sport- és üzleti célú nyilvános polgári kisrepülőtér” szövegrész helyébe a „közforgalom számára nyitva nem álló repülőtér” szöveg lép.
