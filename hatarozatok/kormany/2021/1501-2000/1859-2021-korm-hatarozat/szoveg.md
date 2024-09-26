@@ -10,7 +10,7 @@ c)[^3] a pénzügyi eszköz termékek végrehajtása 2023 első negyedévében m
 
 d) a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó hitel típusú pénzügyi eszközök végrehajtása az „MFB Pont Plusz” hálózaton keresztül történjen;
 
-e)[^4] a 2014–2020 programozási időszak pénzügyi eszköz forrásaiból kihelyezett és a végső kedvezményezettek által pénzügyi eszközökből ténylegesen visszafizetett forrásokból 420 000 000 000 forint felhasználására a forrás befolyásának évenkénti ütemében – a Gazdaságfejlesztési és Innovációs Operatív Program tekintetében a Gazdaságfejlesztési és Innovációs Operatív Program éves fejlesztési keretének megállapításáról szóló 1006/2016. (I. 18.) Korm. határozat 1. pont c) alpontjában, valamint a Versenyképes Közép-Magyarország Operatív Program tekintetében a Versenyképes Közép-Magyarország Operatív Program éves fejlesztési keretének megállapításáról szóló 1011/2016. (I. 20.) Korm. határozat 1. pont k) alpontjában foglaltak figyelembevételével – az MFB Zrt. mikro-, kis- és középvállalkozások, valamint lakossági célcsoport finanszírozását biztosító hitelprogramjai keretében kerüljön sor, ezért kijelöli a jelen pontban foglalt forrásokhoz kapcsolódó feladatok végrehajtására az MFB Zrt.-t;
+e)[^4]
 
 2.[^5]
 
@@ -81,7 +81,7 @@ Határidő: a 7. pontban meghatározott döntést követően azonnal, de legkés
 [^1]: Az 1. pont a) alpontja az 1391/2022. (VIII. 11.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1 pont b) alpontját az 1391/2022. (VIII. 11.) Korm. határozat 5. pont a) alpontja hatályon kívül helyezte.
 [^3]: Az 1 pont c) alpontja az 1391/2022. (VIII. 11.) Korm. határozat 4. pont a) alpontja szerint módosított szöveg.
-[^4]: Az 1 pont e) alpontja az 1391/2022. (VIII. 11.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
+[^4]: Az 1. pont e) alpontját az 1293/2024. (IX. 26.) Korm. határozat 4. pontja visszavonta.
 [^5]: A 2. pontot az 1391/2022. (VIII. 11.) Korm. határozat 5. pont b) alpontja hatályon kívül helyezte.
 [^6]: A 4. pontot az 1391/2022. (VIII. 11.) Korm. határozat 5. pont c) alpontja hatályon kívül helyezte.
 [^7]: A 6. pont az 1391/2022. (VIII. 11.) Korm. határozat 2. pontjával megállapított szöveg.

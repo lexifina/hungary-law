@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-1859-30
 | --- | --- | --- |
 | 2021-12-01 | 2021-1859-30-22.1 | 1859/2021. (XII. 1.) Korm. határozat |
 | 2022-08-11 | 2021-1859-30-22.2 | 1391/2022. (VIII. 11.) Korm. határozat |
+| 2024-09-26 | 2021-1859-30-22.3 | 1293/2024. (IX. 26.) Korm. határozat |
