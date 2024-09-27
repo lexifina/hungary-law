@@ -332,7 +332,7 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | Sorszám | Központi szolgáltató megnevezése | A közszolgáltatás tárgya | A közszolgáltatási feladat | A szolgáltatás nyújtásának kezdete |
 
-| 1. | NISZ Zrt. | Menedzselt LAN szolgáltatás – a NISZ Zrt. hálózatához csatlakozó végpontokra | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 1. |  |  |  |  |
 
 | 2. | NISZ Zrt. | Menedzselt munkaállomás-üzemeltetési szolgáltatás – NISZ Zrt. hálózatához csatlakozó munkaállomásokra | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
@@ -342,27 +342,27 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 5. | NISZ Zrt. | Menedzselt irodatechnikai szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-| 6. | NISZ Zrt. | Levelezés szolgáltatás – a NISZ Zrt. környezetből igényelt postaládákra | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 6. |  |  |  |  |
 
 | 7. | NISZ Zrt. | Tárhelyszolgáltatás – a NISZ Zrt. környezetéből igényelt tárhelyekre | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-| 8. | NISZ Zrt. | Integrált adatszolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 8. |  |  |  |  |
 
-| 9. | NISZ Zrt. | Központi Internet szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 9. |  |  |  |  |
 
-| 10. | NISZ Zrt. | Hangforgalmi szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 10. |  |  |  |  |
 
-| 11. | NISZ Zrt. | Alközponti szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 11. |  |  |  |  |
 
 | 12. | NISZ Zrt. | WIFI szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-| 13. | NISZ Zrt. | Interaktív Hangmenürendszer (IVR) szolgáltatás | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
+| 13. |  |  |  |  |
 
 | 14. | NISZ Zrt. | Komplex infrastruktúra szolgáltatás – a NISZ Zrt.-től igényelt szolgáltatásokhoz | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
 | 15. | NISZ Zrt. | Eszközüzemeltetés szolgáltatás – a NISZ Zrt.-től igényelt eszközökre | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
-| 16. | NISZ Zrt. | Szakértői szolgáltatás – a NISZ Zrt. által biztosított szolgáltatásokhoz | üzemeltetés és fejlesztés | 9. § (1) bekezdése szerint |
+| 16. |  |  |  |  |
 
 | 17. | NISZ Zrt. | NTG-webtárhely-szolgáltatás – az Integritás Hatóság és a Korrupcióellenes Munkacsoport éles teszt weblapjaihoz | hálózati szolgáltatás (üzemeltetés és fejlesztés) | 9. § (1) bekezdése szerint |
 
@@ -428,4 +428,4 @@ A nem a Kormány irányítása vagy felügyelete alatt álló központi költsé
 
 | 28. | NISZ Zrt. | Iratérvényességi Nyilvántartás szolgáltatás | fejlesztés és üzemeltetés | 5/2024. (VI. 18.) MK rendelet hatálybalépésének napja |
 
-[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a szerint módosított szöveg.
+[^4]: Az 1. melléklet a 9/2021. (III. 30.) BM rendelet 2. §-a, a 12/2021. (V. 10.) BM rendelet 7. §-a, a 24/2021. (VII. 30.) BM rendelet 13. §-a, a 33/2021. (X. 1.) BM rendelet 2. §-a, a 7/2022. (IV. 14.) BM rendelet 2. §-a és 3. § b)–e) pontja, a 10/2022. (IV. 21.) BM rendelet 1. §-a, a 25/2023. (IX. 12.) MK rendelet 1-3. §-a, az 5/2024. (VI. 18.) MK rendelet 1. §-a, a 12/2024. (IX. 26.) MK rendelet 1. §-a szerint módosított szöveg.
