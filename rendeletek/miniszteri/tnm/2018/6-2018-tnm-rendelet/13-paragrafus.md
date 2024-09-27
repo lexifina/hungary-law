@@ -5,3 +5,7 @@
 (3) A díjból évente legfeljebb tizenhárom darab adományozható.
 
 (4) A díjazott emlékérmet és díszoklevelet kap. Az emlékérem Asszonyi Tamás szobrászművész alkotása. Az összetartozás szimbólumát jelképező emlékérem Ginkgo biloba (páfrányfenyő) levelet ábrázol, egyoldalas, bronzból készül, és a „PRO CULTURA MINORITATUM HUNGARIAE” feliratot tartalmazza.
+
+(5)[^4] A díjhoz 500 000 forint összegű pénzjutalom jár.
+
+[^4]: A 13. § (5) bekezdését a 7/2024. (IX. 26.) TNM rendelet 1. §-a iktatta be.
