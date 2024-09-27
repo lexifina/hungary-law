@@ -1,0 +1,1 @@
+6. § A hivatali munkarendben dolgozó állomány, valamint a 7. §-ban meghatározottak kivételével a terrorizmust elhárító szerv Ügyeleti és Objektumvédelmi Igazgatóságán szolgálatot teljesítő hivatásos állomány természetbeni ellátásának a ruházati utánpótlási ellátmány terhére kiadandó, központilag meghatározott cikkösszetétele: Gyakorló nadrág OCP/TEK 1 db.

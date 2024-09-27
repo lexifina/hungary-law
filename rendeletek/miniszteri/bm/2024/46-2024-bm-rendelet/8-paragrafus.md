@@ -1,0 +1,1 @@
+8. § A 2–6. § szerinti természetbeni ellátás, valamint az esetleges túlellátás fedezetére együttesen – annak együttes összegének mértékéig – a jóváírt 2025. évi ruházati utánpótlási ellátmány összegének legfeljebb 80%-a tartható vissza.
