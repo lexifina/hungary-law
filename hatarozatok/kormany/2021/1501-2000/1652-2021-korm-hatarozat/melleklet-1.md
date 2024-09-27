@@ -2,7 +2,7 @@
 
 ## a) a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 256/2021. (V. 18.) Korm. rendelet 4. § c) pontjában foglalt feladatkörében eljárva elfogadja a Terület- és Településfejlesztési Operatív Program Plusz (a továbbiakban: TOP Plusz) éves fejlesztési keretét, az 1. melléklet szerint;
 
-## b)[^1] jóváhagyja a TOP_Plusz-6.1.2-21 „4 és 5 számjegyű utak fejlesztése,” a TOP_Plusz-1.3.1-21 „Fenntartható városfejlesztési stratégiák támogatása” és a TOP_Plusz-2.1.1-21 „Önkormányzati épületek energetikai korszerűsítése” felhívások keretében támogatott, viszont európai uniós forrás terhére el nem számolható költségeinek – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetésének XIX. Uniós fejlesztések fejezet TOP Plusz előirányzatának hazai társfinanszírozáson felüli felhasználásával történő finanszírozását legfeljebb 28,73 milliárd forint erejéig.
+## b)[^1] jóváhagyja a TOP_Plusz-6.1.2-21 „4 és 5 számjegyű utak fejlesztése”, a TOP_Plusz-1.3.1-21 „Fenntartható városfejlesztési stratégiák támogatása”, a TOP_Plusz-2.1.1-21 „Önkormányzati épületek energetikai korszerűsítése”, a TOP_Plusz-1.2.3-21 „Belterületi utak fejlesztése” és a TOP_Plusz-3.3.1-21 „Gyermeknevelést támogató humán infrastruktúra fejlesztése” című felhívások keretében támogatott, viszont európai uniós forrás terhére el nem számolható költségeinek – az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet 9. § (1) bekezdés f) pontja alapján – a Magyarország központi költségvetésének XIX. Uniós fejlesztések fejezet TOP Plusz előirányzatának hazai társfinanszírozáson felüli felhasználásával történő finanszírozását legfeljebb 38,90 milliárd forint erejéig.
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
@@ -22,7 +22,7 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 4. | TOP_Plusz-1.2.2-21 | Szociális célú városrehabilitáció (ERFA) | 8,90 | területi | Meghirdetve 2021. decemberben |
 
-| 5. | TOP_Plusz-1.2.3-21 | Belterületi utak fejlesztése | 92,40[^7] | területi | Meghirdetve 2021. decemberben |
+| 5. | TOP_Plusz-1.2.3-21 | Belterületi utak fejlesztése | 97,05[^7] | területi | Meghirdetve 2021. decemberben |
 
 | 6. | TOP_Plusz-1.2.4-24[^8] | Szegregált városi területekről integrált területekre költözés támogatása (PILOT) | 0,05 | területi | 2024. IV. negyedév[^9] |
 
@@ -62,7 +62,7 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 5. | TOP_Plusz-3.2.1-23 | Fenntartható humán fejlesztések | 55,72 | területi | Meghirdetve 2023. III. negyedévben[^34] |
 
-| 6. | TOP_Plusz-3.3.1-21 | Gyermeknevelést támogató humán infrastruktúra fejlesztése | 74,54[^35] | területi | Meghirdetve 2021. novemberben |
+| 6. | TOP_Plusz-3.3.1-21 | Gyermeknevelést támogató humán infrastruktúra fejlesztése | 80,95[^35] | területi | Meghirdetve 2021. novemberben |
 
 | 7. | TOP_Plusz-3.3.2-21 | Helyi egészségügyi és szociális infrastruktúra fejlesztése | 63,33[^36] | területi | Meghirdetve 2021. decemberben |
 
@@ -84,7 +84,7 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 5. | TOP_Plusz-4.2.1-24[^44] | Lakásügynökség – lakásállomány felújítása és bővítése | 8,50 | területi | 2024. III. negyedév[^45] |
 
-| 6. | TOP_Plusz-4.2.2-24[^46] | Az energiaszegénység enyhítése szilárd tüzelésű háztartások átállításával fővárosi pilot projekt keretében[^47] | 1,00 | területi | 2023. szeptember[^48] |
+| 6. | TOP_Plusz-4.2.2-24[^46] | Az energiaszegénység enyhítése szilárd tüzelésű háztartások átállításával fővárosi pilot projekt keretében[^47] | 1,00 | területi | 2024. III. negyedév[^48] |
 
 5. Budapest humán fejlesztése 5. prioritás
 
@@ -92,7 +92,7 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 1. | Felhívás azonosító jele | Felhívás címe | Felhívás keretösszege (Mrd Ft) | Projektkiválasztási eljárásrend | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | TOP_Plusz-5.1.1-24[^49] | Fővárosi Foglalkoztatási Paktum | 2,80 | területi | 2023. szeptember[^50] |
+| 2. | TOP_Plusz-5.1.1-24[^49] | Fővárosi Foglalkoztatási Paktum | 2,80 | területi | 2024. III. negyedév[^50] |
 
 | 3. | TOP_Plusz-5.1.2-24[^51] | A szociális szolgáltatások kapacitásainak megerősítése | 6,90 | területi | 2024. III. negyedév[^52] |
 
@@ -118,13 +118,13 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 
 | 6. | TOP_Plusz-6.2.1-23 | Fenntartható versenyképes városfejlesztés | 93,78[^64] | területi | Meghirdetve 2023. augusztusban[^65] |
 
-[^1]: Az 1. pont b) alpontja az 1440/2023. (X. 9.) Korm. határozat 1. pontjával megállapított szöveg.
+[^1]: Az 1. pont b) alpontja az 1297/2024. (IX. 26.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: Az 1. melléklet az 1195/2023. (V. 15.) Korm. határozat 3. pontjával megállapított szöveg.
 [^3]: Az 1. melléklet 1. pontjában foglalt táblázat A:2 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont a) pont aa) alpontjával megállapított szöveg.
 [^4]: Az 1. melléklet 1. pontjában foglalt táblázat C:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont aa) alpontjával megállapított szöveg.
 [^5]: Az 1. melléklet 1. pontjában foglalt táblázat E:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ab) alpontjával megállapított szöveg.
 [^6]: Az 1. melléklet 1. pontjában foglalt táblázat C:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ac) alpontjával megállapított szöveg.
-[^7]: Az 1. melléklet 1. pontjában foglalt táblázat C:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ad) alpontjával megállapított szöveg.
+[^7]: Az 1. melléklet 1. pontjában foglalt táblázat C:5 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont a) alpontjával megállapított szöveg.
 [^8]: Az 1. melléklet 1. pontjában foglalt táblázat A:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont a) pont ae) alpontjával megállapított szöveg.
 [^9]: Az 1. melléklet 1. pontjában foglalt táblázat E:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont ae) alpontjával megállapított szöveg.
 [^10]: Az 1. melléklet 1. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont a) pont af) alpontjával megállapított szöveg.
@@ -152,7 +152,7 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 [^32]: Az 1. melléklet 3. pontjában foglalt táblázat C:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cb) alpontjával megállapított szöveg.
 [^33]: Az 1. melléklet 3. pontjában foglalt táblázat E:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cc) alpontjával megállapított szöveg.
 [^34]: Az 1. melléklet 3. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cd) alpontjával megállapított szöveg.
-[^35]: Az 1. melléklet 3. pontjában foglalt táblázat C:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ce) alpontjával megállapított szöveg.
+[^35]: Az 1. melléklet 3. pontjában foglalt táblázat C:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont b) alpontjával megállapított szöveg.
 [^36]: Az 1. melléklet 3. pontjában foglalt táblázat C:7 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cf) alpontjával megállapított szöveg.
 [^37]: Az 1. melléklet 3. pontjában foglalt táblázat C:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont cg) alpontjával megállapított szöveg.
 [^38]: Az 1. melléklet 3. pontjában foglalt táblázat E:8 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont c) pont ch) alpontjával megállapított szöveg.
@@ -165,9 +165,9 @@ A Terület- és Településfejlesztési Operatív Program Plusz éves fejleszté
 [^45]: Az 1. melléklet 4. pontjában foglalt táblázat E:5 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont de) alpontjával megállapított szöveg.
 [^46]: Az 1. melléklet 4. pontjában foglalt táblázat A:6 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont df) alpontjával megállapított szöveg.
 [^47]: Az 1. melléklet 4. pontjában foglalt táblázat B:6 mezője az 1440/2023. (X. 9.) Korm. határozat 3. pont d) pontjával megállapított szöveg.
-[^48]: [Az 1. melléklet 4. pontjában foglalt táblázat E:6 mezőjében az 1218/2024. (VII. 29.) Korm. határozat 1. pont d) pont dg) alpontja által elrendelt módosítás, amely szerint a „2023 szeptember” szövegrész helyébe a „2024. III. negyedév” szöveg lép, nem vezethető át.]
+[^48]: Az 1. melléklet 4. pontjában foglalt táblázat E:6 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont c) alpontjával megállapított szöveg.
 [^49]: Az 1. melléklet 5. pontjában foglalt táblázat A:2 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ea) alpontjával megállapított szöveg.
-[^50]: [Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezőjében az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont eb) alpontja által elrendelt módosítás, amely szerint a „2023 szeptember” szövegrész helyébe a „2024. III. negyedév” szöveg lép, nem vezethető át.]
+[^50]: Az 1. melléklet 5. pontjában foglalt táblázat E:2 mezője az 1297/2024. (IX. 26.) Korm. határozat 2. pont d) alpontjával megállapított szöveg.
 [^51]: Az 1. melléklet 5. pontjában foglalt táblázat A:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ec) alpontjával megállapított szöveg.
 [^52]: Az 1. melléklet 5. pontjában foglalt táblázat E:3 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ed) alpontjával megállapított szöveg.
 [^53]: Az 1. melléklet 5. pontjában foglalt táblázat A:4 mezője az 1218/2024. (VII. 29.) Korm. határozat 1. pont e) pont ee) alpontjával megállapított szöveg.
