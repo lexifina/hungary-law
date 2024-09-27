@@ -10,5 +10,8 @@
 
 (6) A hivatásos katasztrófavédelmi szerv hivatásos állománya számára – speciális ellenőrzési feladatainak ellátása során – a szolgálati jelvény használata nem kötelező. Helyette a szolgálati jelvény azonosítószámával megegyező hímzett azonosító használható, amely megegyezik a hímzett névkitűző külalakjával.
 
+(7)[^64] Az idegenrendészeti szerv hivatásos állománya számára a szolgálati jelvény használata nem kötelező. Helyette a szolgálati jelvény azonosítószámával megegyező hímzett azonosító szám használható.
+
 [^62]: A 49. § (4) bekezdése az 55/2023. (XII. 19.) BM rendelet 9. §-a szerint módosított szöveg.
 [^63]: A 49. § (5) bekezdése az 55/2023. (XII. 19.) BM rendelet 6. §-ával megállapított szöveg.
+[^64]: A 49. § (7) bekezdését a 46/2024. (IX. 26.) BM rendelet 13. §-a iktatta be.

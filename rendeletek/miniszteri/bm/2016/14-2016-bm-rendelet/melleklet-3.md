@@ -1,4 +1,4 @@
-3. melléklet a 14/2016. (V. 10.) BM rendelethez[^76]
+3. melléklet a 14/2016. (V. 10.) BM rendelethez[^77]
 
 ## A Terrorelhárítási Központ hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -50,9 +50,9 @@
 
 | 22 | Téli bakancs/TEK | pár |  |  | 1 |  | 1 |  | 1 |
 
-| 23 | Gyakorló zubbony OPC/TEK | db |  |  |  | 2 | 2 | 1 |  |
+| 23 | Gyakorló zubbony OCP/TEK | db |  |  |  | 2 | 2 | 1 |  |
 
-| 24 | Gyakorló nadrág OPC/TEK | db |  |  |  | 2 | 2 | 1 |  |
+| 24 | Gyakorló nadrág OCP/TEK | db |  |  |  | 2 | 2 | 1 |  |
 
 | 25 | Póló fekete/TEK | db |  |  | 2 | 2 | 2 |  | 2 |
 
@@ -350,4 +350,4 @@ a) Megjegyzés:
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
 
-[^76]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^77]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése, a 29/2017. (XI. 6.) BM rendelet 11. § (2) bekezdése, a 29/2019. (VII. 17.) BM rendelet 1. § b) pontja, a 47/2019. (XII. 18.) BM rendelet 4. § b) pontja, a 6/2022. (IV. 14.) BM rendelet 7. § (2) bekezdése, a 46/2024. (IX. 26.) BM rendelet 14. § (1) bekezdése szerint módosított szöveg.
