@@ -1,4 +1,4 @@
-1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez[^73]
+1. melléklet az 590/2022. (XII. 28.) Korm. rendelethez[^75]
 
 Kezelő szervi kijelölés
 
@@ -92,4 +92,4 @@ Kezelő szervi kijelölés
 
 | 44. | Helyreállítási és Ellenállóképességi Eszköz (RRF) hitel intézkedései | a Kit. 33/B. § (1) bekezdése szerinti államtitkár |
 
-[^73]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 88. §-ával megállapított szöveg.
+[^75]: Az 1. melléklet a 218/2024. (VII. 31.) Korm. rendelet 88. §-ával megállapított szöveg.

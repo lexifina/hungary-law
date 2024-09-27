@@ -22,10 +22,10 @@ f) a pénzügyi tervet és
 
 g) a pályázó kötelezettségvállalását a közvetlen irányítású uniós programban való részvételéről.
 
-(2)[^31] Az projekt önerő-támogatás összege nem haladhatja meg az igényelni tervezett európai uniós pályázati felhívásban előírt önerő mértékét.
+(2)[^33] Az projekt önerő-támogatás összege nem haladhatja meg az igényelni tervezett európai uniós pályázati felhívásban előírt önerő mértékét.
 
 (3) A támogatás intenzitásának legmagasabb mértéke 100%. Ha a támogatás állami támogatásnak minősül, a támogatás jogcíméhez tartozó támogatási kategória szerint nyújtható.
 
 (4) A támogatás feltételeit részletesen a pályázati felhívás rögzíti.
 
-[^31]: A 19. § (2) bekezdése az 51/2024. (III. 4.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.
+[^33]: A 19. § (2) bekezdése az 51/2024. (III. 4.) Korm. rendelet 15. § f) pontja szerint módosított szöveg.

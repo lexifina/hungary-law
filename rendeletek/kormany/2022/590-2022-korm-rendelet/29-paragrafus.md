@@ -16,11 +16,11 @@ f) az OLAF Koordinációs Iroda vonatkozásában a támogatások felhasználása
 
 finanszírozására a VOP Plusz irányító hatósága támogatási szerződést köthet vagy részükre támogatási okiratot bocsáthat ki.
 
-(2)[^39] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatási szerződés vagy támogatói okirat határozza meg.
+(2)[^41] A támogatás éves ütemezésben, a megítélt éves támogatási összeg 100%-át kitevő támogatási előlegként kerül kifizetésre. A támogatás éves összegét támogatási szerződés vagy támogatói okirat határozza meg.
 
 (3) A támogatási szerződésnek vagy támogatói okiratnak tartalmaznia kell legalább
 
-a)[^40] a támogatott tevékenység meghatározását, a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
+a)[^42] a támogatott tevékenység meghatározását, a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
 
 b) a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket,
 
@@ -44,5 +44,5 @@ k) a korrupcióellenes záradékot, amely szerint: „A kedvezményezett nem kö
 
 (4) A támogatások kifizetésére, elszámoltatására a monitoring és információs rendszert kell alkalmazni.
 
-[^39]: A 29. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
-[^40]: A 29. § (3) bekezdés a) pontja az 51/2024. (III. 4.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^41]: A 29. § (2) bekezdése a 339/2023. (VII. 25.) Korm. rendelet 56. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 59. §-át.
+[^42]: A 29. § (3) bekezdés a) pontja az 51/2024. (III. 4.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.

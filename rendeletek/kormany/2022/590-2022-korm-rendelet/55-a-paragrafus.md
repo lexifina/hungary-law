@@ -1,4 +1,4 @@
-55/A. §[^60] Az alapok alapját végrehajtó szervezet díjazása előirányzatok (XIX. fejezet, 2. cím, 8. alcím) vonatkozásában
+55/A. §[^62] Az alapok alapját végrehajtó szervezet díjazása előirányzatok (XIX. fejezet, 2. cím, 8. alcím) vonatkozásában
 
 a) kötelezettségvállaló: az OP IH vezetője vagy az általa írásban kijelölt személy,
 
@@ -10,4 +10,4 @@ d) érvényesítő: az OP IH gazdasági vezetője vagy az általa írásban kije
 
 e) utalványozó: az OP IH vezetője vagy az általa írásban kijelölt személy.
 
-[^60]: Az 55/A. §-t az 51/2024. (III. 4.) Korm. rendelet 11. §-a iktatta be.
+[^62]: Az 55/A. §-t az 51/2024. (III. 4.) Korm. rendelet 11. §-a iktatta be.

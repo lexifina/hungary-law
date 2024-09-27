@@ -1,6 +1,6 @@
 ## 8. A Közvetlen uniós programok támogatása előirányzat felhasználási szabályai
 
-17. § (1)[^27] A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja projekt-előkészítési támogatás és projekt önerő-támogatás (ezen alcím alkalmazásában a továbbiakban együtt: támogatás) biztosítása
+17. § (1)[^29] A Közvetlen uniós programok támogatása előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja projekt-előkészítési támogatás és projekt önerő-támogatás (ezen alcím alkalmazásában a továbbiakban együtt: támogatás) biztosítása
 
 1. – a CEF projektek kivételével – az Európai Hálózatfinanszírozási Eszköz,
 
@@ -44,7 +44,7 @@ programok keretében megvalósuló projektek előkészítési és önerőkölts�
 
 (2) Az előirányzat keretében lehetőség van a 2014–2020 programozási időszak közvetlen uniós programjai kapcsán már benyújtott pályázatok támogatására is.
 
-(3)[^28] Az előirányzat fedezetet biztosít
+(3)[^30] Az előirányzat fedezetet biztosít
 
 a) lebonyolítói díj kifizetésére az arra kötött megállapodásban foglaltak szerint legfeljebb az eredeti előirányzat 4%-ának erejéig, továbbá
 
@@ -58,5 +58,5 @@ b) az Európai Védelmi Alap végrehajtásához kapcsolódó nemzeti feladat ell
 
 (7) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási keretszámlához kapcsolódó alszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
 
-[^27]: A 17. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^28]: A 17. § (3) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^29]: A 17. § (1) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^30]: A 17. § (3) bekezdése az 51/2024. (III. 4.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
