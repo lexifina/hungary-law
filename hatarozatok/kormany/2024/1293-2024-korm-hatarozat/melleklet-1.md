@@ -12,8 +12,10 @@
 
 | Határidő: | a felmerülés ütemében |
 
-## 4. visszavonja a 2021–2027 programozási időszakban az egyes európai uniós alapokból származó támogatások kihelyezését végző pénzügyi közvetítők kiválasztását szolgáló nyílt közbeszerzési eljárás kiírásához szükséges döntésekről és a kihelyezhető forrásokról szóló 1859/2021. (XII. 1.) Korm. határozat 1. pont e) alpontját.
+## 4.[^1]
 
 1. melléklet az 1293/2024. (IX. 26.) Korm. határozathoz
 
 4X06730.pdf
+
+[^1]: A 4. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
