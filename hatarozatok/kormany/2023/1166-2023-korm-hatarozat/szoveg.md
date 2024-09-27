@@ -32,7 +32,7 @@ e) az energiapolitikáért felelős miniszter
 
 egy-egy képviselője.
 
-5. A Tanács további állandó meghívottjai az ipari parkok, a technológiai parkok, valamint a tudományos és innovációs parkok esetében
+5.[^1] A Tanács további tagjai az ipari parkok, a technológiai parkok, valamint a tudományos és innovációs parkok esetében
 
 a) a Magyar Kereskedelmi és Iparkamara,
 
@@ -42,37 +42,41 @@ c) a Magyar Ipari Park Szövetség,
 
 d) az Önkormányzati Ipari Parkok Szövetsége,
 
-e)[^1]
+e) a Magyar Tudományos-Technológiai és Ipari Parkok Szövetsége,
 
-f) a Magyar Tudományos-Technológiai és Ipari Parkok Szövetsége,
+f) a Megyei Önkormányzatok Országos Szövetsége és
 
-g) a Vállalkozói Inkubátorok Szövetség és
-
-h) a Nemzeti Innovációs Ügynökség
+g) a Nemzeti Innovációs Ügynökség
 
 egy-egy képviselője.
 
-6. A Tanács további állandó meghívottjai a logisztikai parkok esetében
+6.[^2] A Tanács további tagjai a logisztikai parkok esetében
 
 a) a Magyarországi Logisztikai Szolgáltató Központok Szövetsége,
 
-tanácskozási joggal:
+b) a Logisztikai Egyeztető Fórum,
 
-b) a Magyar Vasúti Egyesület,
+c) az Ingatlanfejlesztői Kerekasztal,
 
-c) a Magyar Logisztikai Egyesület,
+d) a Megyei Önkormányzatok Országos Szövetsége,
 
-d) a Magyar Szállítmányozók Szövetsége,
+e) tanácskozási joggal:
 
-e) a Magyar Hajózási Országos Szövetség,
+ea) a Magyar Vasúti Egyesület,
 
-f) a Magyar Vámügyi Szövetség,
+eb) a Magyar Logisztikai Egyesület,
 
-g) a Vám, Jövedéki és Adóügyi Szolgáltatók Szövetsége,
+ec) a Magyar Szállítmányozók Szövetsége,
 
-h) a Magyar Logisztikai, Beszerzési és Készletezési Társaság,
+ed) a Magyar Hajózási Országos Szövetség,
 
-i) a Magyar Közgazdasági Társaság Logisztikai Szakosztály
+ee) a Magyar Vámügyi Szövetség,
+
+ef) a Vám, Jövedéki és Adóügyi Szolgáltatók Szövetsége,
+
+eg) a Magyar Logisztikai, Beszerzési és Készletezési Társaság,
+
+eh) a Magyar Közgazdasági Társaság Logisztikai Szakosztály
 
 egy-egy képviselője.
 
@@ -96,7 +100,8 @@ c) ellátja a Tanács működésével kapcsolatos levelezési, dokumentumkezelé
 
 13. Ez a határozat a közzétételét követő 8. napon lép hatályba.
 
-14.[^2]
+14.[^3]
 
-[^1]: Az 5. pont e) pontját az 1317/2023. (VII. 25.) Korm. határozat 1. pontja hatályon kívül helyezte.
-[^2]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1287/2024. (IX. 19.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 6. pont az 1287/2024. (IX. 19.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 14. pont a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
