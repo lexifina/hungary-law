@@ -1,4 +1,4 @@
-1. melléklet a 3/2024. (V. 31.) MK rendelethez
+1. melléklet a 3/2024. (V. 31.) MK rendelethez[^1]
 
 CÉGELLENŐRZÉSI ADATLAP
 
@@ -88,9 +88,9 @@ A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐ
 
 | 3.1. Gazdasági szektor megjelölése, amelyben a gazdasági szereplő beszerzési eljárásban kíván részt venni: |
 
-|  Ingatlanalap-kezelés |  Gyógyszeripar |
+| □ Ingatlanalap-kezelés | □ Gyógyszeripar |
 
-|  Bizományosi értékesítés |  Energetika |
+| □ Bizományosi értékesítés | □ Energetika |
 
 | 3.2. A 3.1. pontban megjelölt szektort érintő referenciák felsorolása: |
 
@@ -98,12 +98,16 @@ A MINŐSÍTETT PIACI SZEREPLŐK JEGYZÉKRE VÉTELÉRE IRÁNYULÓ ELŐZETES MINŐ
 
 | 3.4. Az „ingatlanalap-kezelés” szektor megjelölése esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 22. § (10a) és (10b) bekezdésében az ingatlan-alapkezelővel szemben támasztott követelményeknek való megfelelést igazoló okiratok és nyilatkozatok felsorolása: |
 
+| 3.5. Az „ingatlanalap-kezelés” szektor megjelölése esetén a harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény 22. § (9) bekezdés a) pontjában meghatározott feltételnek megfelelő, az ingatlan-alapkezelő által kezelt ingatlanalap(ok), valamint a feltételnek való megfelelést igazoló okiratok és nyilatkozatok felsorolása: |
+
 4. Az adatlaphoz kapcsolódó kiegészítések, megjegyzések
 
-| Kelt: |
+Kelt: ………………………………………
 
 P. H.
 
 ………………………………………
 
 cégszerű aláírás
+
+[^1]: Az 1. melléklet a 12/2024. (IX. 26.) MK rendelet 2. §-ával megállapított szöveg.
