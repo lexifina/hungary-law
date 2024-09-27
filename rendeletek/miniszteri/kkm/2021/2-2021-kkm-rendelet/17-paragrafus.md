@@ -1,1 +1,0 @@
-## 16. § A honvédelmi intézkedési tervet a minisztérium honvédelmi feladatok végrehajtásáért felelős szervezeti egységének vezetője első alkalommal az e rendelet hatálybalépését követő 180 napon belül terjeszti fel jóváhagyásra a miniszternek.
