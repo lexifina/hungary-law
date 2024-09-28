@@ -1,3 +1,3 @@
-1. § Az Uniós fejlesztések fejezetbe tartozó fejezeti és központi kezelésű előirányzatok felhasználásának rendjéről szóló 590/2022. (XII. 28.) Korm. rendelet (a továbbiakban: Korm. rendelet) 16. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+1. §[^2]
 
-(Az előirányzatokon)
+[^2]: Az 1. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
