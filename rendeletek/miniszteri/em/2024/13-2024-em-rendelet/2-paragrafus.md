@@ -1,0 +1,1 @@
+2. § A 14/2015. (III. 31.) FM rendelet 6. mellékletében foglalt táblázat A:5 mezőjében az „[a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet] –” szövegrész helyébe az „és” szöveg lép.
