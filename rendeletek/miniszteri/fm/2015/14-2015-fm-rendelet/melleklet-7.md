@@ -20,7 +20,7 @@
 
 | 4. | Kereskedelmi működési engedélyezési eljárás [a kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet 7. § (4) bekezdés c) pont] | 7 000 |
 
-| 5. | Bányászati hatósági eljárás [a Magyar Bányászati és Földtani Hivatalról szóló 267/2006. (XII. 20.) Korm. rendelet] – a bányászati szakigazgatással kapcsolatos eljárások | 28 000 |
+| 5. | Bányászati hatósági eljárás és a bányászati szakigazgatással kapcsolatos eljárások | 28 000 |
 
 | 6. | Elektronikus hírközlési nyomvonalas, nyomvonal jellegű építményekkel és egyéb műtárgyakkal kapcsolatos eljárás [a Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet 1. számú melléklet] | 7 000 |
 
@@ -56,7 +56,7 @@
 
 | 11. | Az országos vízügyi hatóságnak a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 51. § (2) bekezdése szerinti eljárásában a gördülő fejlesztési terv 2015. évben és minden további alkalommal történő benyújtása esetén | 36 600 |
 
-7. melléklet a 14/2015. (III. 31.) FM rendelethez[^16]
+7. melléklet a 14/2015. (III. 31.) FM rendelethez[^18]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
@@ -104,4 +104,4 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 20. | Zala Vármegyei Kormányhivatal | 10049006-00303066-00000000 |
 
-[^16]: A 7. melléklet a 89/2016. (XII. 29.) FM rendelet 23. § (1) bekezdésével megállapított, a 20/2021. (V. 17.) AM rendelet 19. § (2) bekezdés d) pontja, a 6/2022. (XII. 27.) EM rendelet 1. § 3-21. pontja szerint módosított szöveg.
+[^18]: A 7. melléklet a 89/2016. (XII. 29.) FM rendelet 23. § (1) bekezdésével megállapított, a 20/2021. (V. 17.) AM rendelet 19. § (2) bekezdés d) pontja, a 6/2022. (XII. 27.) EM rendelet 1. § 3-21. pontja szerint módosított szöveg.

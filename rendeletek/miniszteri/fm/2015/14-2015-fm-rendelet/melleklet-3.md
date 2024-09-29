@@ -22,9 +22,11 @@
 
 | 6. |  | Nemfém ásványi termék gyártás | 1 800 000 |
 
-| 7. |  | Fémipar a 7.1. pont kivételével | 1 800 000 |
+| 7.[^15] |  | Fémipar a 7.1. és 7.2. pont kivételével | 1 800 000 |
 
 |  | 7.1. | Nemvas fémek előállítása ércből, koncentrátumokból vagy másodlagos nyersanyagokból kohászati, vegyi vagy elektrolitikus eljárásokkal | 900 000 |
+
+|  | 7.2. | Akkumulátorgyártás, beleértve az akkumulátor részegységek – anód, katód, elektrolit – gyártását, az ólomakkumulátorok előállítását és a szeparátorfólia gyártását, továbbá a kész, lezárt akkumulátorcellák modulba vagy a modulok akkumulátorcsomaggá (pack) történő összeszerelését | 2 250 000 |
 
 | 8. |  | Villamosenergia-, gőz-, vízellátás a 8.1. és 8.2. pont kivételével | 900 000 |
 
@@ -46,9 +48,11 @@
 
 |  | Négy- vagy több forgalmi sávos út, legalább 10 km hosszan egybefüggő új pályától |
 
-| 10. |  | Egyéb közösségi szolgáltatás a 10.1. pont kivételével | 1 350 000 |
+| 10.[^16] |  | Egyéb közösségi szolgáltatás a 10.1. és 10.2. pont kivételével | 1 350 000 |
 
 |  | 10.1. | Veszélyes hulladék ártalmatlanító (lerakás, égetés, kémiai és biológiai kezelés) létesítmény | 2 250 000 |
+
+|  | 10.2. | Akkumulátor, beleértve az akkumulátor részegységeinek – anód, katód, elektrolit – előkezelését, hasznosítását, az ólomakkumulátor és részegységeinek – anód, katód, elektrolit – előkezelését, hasznosítását | 2 250 000 |
 
 | 11. |  | Sport | 750 000 |
 
@@ -69,3 +73,6 @@
 3. melléklet a 14/2015. (III. 31.) FM rendelethez
 
 Egységes környezethasználati engedély alapján végezhető tevékenységek engedélyezésének igazgatási szolgáltatási díjai
+
+[^15]: A 2. mellékletben foglalt táblázat 7. sora a 13/2024. (VIII. 29.) EM rendelet 1. §-ával megállapított szöveg.
+[^16]: A 2. mellékletben foglalt táblázat 10. sora a 13/2024. (VIII. 29.) EM rendelet 1. §-ával megállapított szöveg.
