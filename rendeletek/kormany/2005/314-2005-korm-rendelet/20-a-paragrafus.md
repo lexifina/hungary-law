@@ -20,7 +20,7 @@ e) új tevékenység első alkalommal történő engedélyezése esetén.
 
 (5)[^182] A környezetvédelmi hatóság hat hónappal az egységes környezethasználati engedély időbeli hatályának lejártát megelőzően értesíti a környezethasználót a lejárat időpontjáról és a tevékenység továbbfolytatásának feltételeiről. Az értesítés elmaradása miatt a környezetvédelmi hatósággal szemben kárigény nem érvényesíthető, továbbá az nem mentesíti a környezethasználót a tevékenység folytatásához szükséges eljárás kellő időben történő kezdeményezése, valamint a tevékenység jogellenes folytatása miatti felelősség alól.
 
-(6) Az engedély időbeli hatályának lejártakor, ha a környezethasználó a tevékenységet továbbra is folytatni kívánja, a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltakra is figyelemmel.
+(6)[^183] Az engedély időbeli hatályának lejártakor, ha a környezethasználó a tevékenységet továbbra is folytatni kívánja, a környezeti hatások vizsgálata érdekében a Kvt.-nek a környezetvédelmi felülvizsgálatra vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltakra is figyelemmel.
 
 (7) A felülvizsgálathoz kapcsolódó adatokat, információkat olyan formában és tartalommal kell benyújtani, amely lehetővé teszi a környezetvédelmi hatóság számára – különösen a kibocsátások vonatkozásában – a létesítmény működésének a vonatkozó elérhető legjobb technika-következtetésekben ismertetett elérhető legjobb technikákkal és az elérhető legjobb technikákhoz kapcsolódó kibocsátási szintekkel való összehasonlítását.
 
@@ -50,10 +50,11 @@ b) az engedélyt visszavonja vagy a kérelmet elutasítja, és szükség esetén
 
 (13) Az egységes környezethasználati engedélyezési eljárásban, ha országhatáron átterjedő jelentős környezeti hatás feltételezhető, a 12. § (4) bekezdése, valamint a 13–15. § szerinti eljárást kell alkalmazni, ha nemzetközi szerződés ettől eltérően nem rendelkezik.
 
-(14)[^183] A környezetvédelmi hatóság az egységes környezethasználati engedélyt módosításakor a korábbi módosításaival együtt kérelemre egységes szerkezetbe foglalja.
+(14)[^184] A környezetvédelmi hatóság az egységes környezethasználati engedélyt módosításakor a korábbi módosításaival együtt kérelemre egységes szerkezetbe foglalja.
 
 [^179]: A 20/A. §-t a 480/2013. (XII. 17.) Korm. rendelet 4. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés f) pontja szerint módosított szöveg.
 [^180]: A 20/A. § (4) bekezdése a 88/2017. (IV. 10.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^181]: A 20/A. § (4a) bekezdését a 88/2017. (IV. 10.) Korm. rendelet 5. §-a iktatta be.
 [^182]: A 20/A. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 74. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^183]: A 20/A. § (14) bekezdését a 60/2023. (II. 28.) Korm. rendelet 9. §-a iktatta be, szövege az 561/2023. (XII. 14.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^183]: A 20/A. § (6) bekezdése a 259/2024. (VIII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^184]: A 20/A. § (14) bekezdését a 60/2023. (II. 28.) Korm. rendelet 9. §-a iktatta be, szövege az 561/2023. (XII. 14.) Korm. rendelet 8. §-a szerint módosított szöveg.
