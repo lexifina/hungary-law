@@ -22,6 +22,72 @@
 
 (9)[^69] A BM rendelet hatálybalépését megelőzően általános orvosi oklevéllel megszerezhető mozgásszervi rehabilitáció, orvosi rehabilitáció (mozgásszervi), valamint fizikális medicina és rehabilitációs orvoslás megnevezésű szakképesítések megfeleltethetők az e rendelet szerinti rehabilitációs medicina szakképesítésnek.
 
+(10)[^70] Reproduktív medicina ráépített szakképesítés esetében 2027. december 1-jéig a szakképzési program teljesítése nélkül jogosult a szakvizsga letételére az asszisztált reprodukció szakterületén legalább 5 éves szakmai gyakorlattal rendelkező szülész-nőgyógyász szakorvos. A szakvizsgára jelentkezéskor az egyetem a képzési program teljesítésének igazolása helyett azt tanúsítja, hogy az érintett személy az adott szakterületen előírt szakmai gyakorlattal rendelkezik.
+
+(11)[^71] A klinikai embriológia szakképesítés esetében a szakképzés teljesítése nélkül jogosult a szakvizsga letételére 2029. május 31-ig az a klinikai embriológia területén szakmai tapasztalattal rendelkező személy, aki megfelel az alábbi feltételeknek:
+
+a) Alap- vagy mesterképzési szakon megszerzett
+
+aa) Agrármérnök,
+
+ab) Állattenyésztő mérnök,
+
+ac) Állatorvos,
+
+ad) Biológia tanár,
+
+ae) Biológus,
+
+af) Biomérnök,
+
+ag) Biotechnológus,
+
+ah) Élelmiszerbiztonsági és -minőségi mérnök,
+
+ai) Élelmiszeripari mérnök,
+
+aj) Gyógyszerész,
+
+ak) Gyógyszervegyész-mérnök,
+
+al) Kertészmérnök,
+
+am) Klinikai laboratóriumi kutató,
+
+an) Környezetgazdálkodási agrármérnök,
+
+ao) Környezetmérnök,
+
+ap) Környezetkutató,
+
+aq) Kutató zoológus,
+
+ar) Mezőgazdasági biotechnológus,
+
+as) Mikrobiológus,
+
+at) Molekuláris biológus,
+
+au) Molekuláris bionikus mérnök,
+
+av) Orvosi biotechnológus,
+
+aw) Orvosi diagnosztikai analitikus,
+
+ax) Sejt és molekuláris biológus,
+
+ay) Vegyész,
+
+az) Vegyész-fizikus laboratóriumi operátor vagy
+
+azs) Vegyészmérnök
+
+szakképzettség,
+
+b) legalább 3 év asszisztált reprodukciós – andrológiai és embriológiai tevékenységet is végző – laboratóriumban eltöltött gyakorlat, valamint
+
+c) a 10. melléklet 1. alcím 1.5. pontjában meghatározott minimum beavatkozási esetszámok igazolt teljesítése.
+
 [^59]: A 12/A. §-t a 28/2018. (VIII. 29.) EMMI rendelet 8. §-a iktatta be.
 [^60]: A 13. § (2) bekezdését a 24/2020. (VII. 23.) EMMI rendelet 4. § a) pontja hatályon kívül helyezte, újonnan a 28/2022. (VIII. 25.) BM rendelet 25. § (1) bekezdése iktatta be.
 [^61]: A 13. § (3) bekezdése a 28/2022. (VIII. 25.) BM rendelet 25. § (2) bekezdésével megállapított, a 7/2024. (II. 12.) BM rendelet 20. § 1. pontja szerint módosított szöveg.
@@ -33,3 +99,5 @@
 [^67]: A 13. § (7b) bekezdését a 7/2024. (II. 12.) BM rendelet 18. §-a iktatta be.
 [^68]: A 13. § (8) bekezdését a 28/2022. (VIII. 25.) BM rendelet 25. § (4) bekezdése iktatta be.
 [^69]: A 13. § (9) bekezdését a 28/2022. (VIII. 25.) BM rendelet 25. § (4) bekezdése iktatta be.
+[^70]: A 13. § (10) bekezdését a 45/2024. (IX. 26.) BM rendelet 1. §-a iktatta be.
+[^71]: A 13. § (11) bekezdését a 45/2024. (IX. 26.) BM rendelet 1. §-a iktatta be.

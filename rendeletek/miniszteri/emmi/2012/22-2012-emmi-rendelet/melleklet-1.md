@@ -1,4 +1,4 @@
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^85]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^87]
 
 1. Szakorvosi alap szakképesítések
 
@@ -214,6 +214,8 @@
 
 | 46a. | Repülőorvostan | aneszteziológia és intenzív terápia, belgyógyászat, foglalkozás-orvostan, fül-orr-gégegyógyászat, háziorvostan, honvéd-, katasztrófa- és rendvédelem-orvostan, kardiológia neurológia, ortopédia és traumatológia, oxyológia és sürgősségi orvostan, szemészet, tüdőgyógyászat | (36–72) + 24 hó |
 
+| 46b. | Reproduktív medicina | szülészet-nőgyógyászat | (53–60) + 24 hó |
+
 | 47. | Sportorvostan | bármely alap szakképesítés | (36-72) + 24 hó |
 
 | 48. | Trópusi betegségek | belgyógyászat, infektológia | (60) + 24 hó |
@@ -340,8 +342,10 @@
 
 | 6. | 1.4. Klinikai laboratóriumi genetika | Biológia, molekuláris biológia, laboratóriumi diagnosztika, biomérnök, okleveles biotechnológus, vegyész, klinikai laboratóriumi kutató (egyetemi végzettség vagy MSc) és orvostudományi területen szerzett PhD-fokozat | 48 hó |
 
+| 6a. | 1.5. Klinikai embriológia | Egyetemi mesterképzés (MSc vagy megszerzett Agrármérnök) szakon Állattenyésztő mérnök; Állatorvos; Biológia tanár; Biológus; Biomérnök; Biotechnológia; Klinikai Laboratóriumi Kutató; Kutató zoológus; Mezőgazdasági biotechnológia; Molekuláris biológia; Orvosi biotechnológia szakképzettség | 48 hó |
+
 | 7. | 2. Ráépített szakképesítések |
 
 | 8. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^85]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése, a 40/2023. (IX. 21.) BM rendelet 6. § (1) bekezdése, a 7/2024. (II. 12.) BM rendelet 19. § (1) bekezdése és 21. § a) pontja szerint módosított szöveg.
+[^87]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI. 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése, a 28/2018. (VIII. 29.) EMMI rendelet 10. § a)–b) pontja, 11. § a) pontja és 12. § b) pontja, az 57/2021. (XII. 27.) EMMI rendelet 6. § (1) bekezdése, a 28/2022. (VIII. 25.) BM rendelet 27. § (1) bekezdése, a 40/2023. (IX. 21.) BM rendelet 6. § (1) bekezdése, a 7/2024. (II. 12.) BM rendelet 19. § (1) bekezdése és 21. § a) pontja, a 45/2024. (IX. 26.) BM rendelet 2. § (1) bekezdése szerint módosított szöveg.
