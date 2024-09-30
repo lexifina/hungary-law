@@ -1,1 +1,3 @@
-3. § A 314/2005. (XII. 25.) Korm. rendelet 20/A. § (6) bekezdésében a „kívánja, a” szövegrész helyébe a „kívánja, a környezeti hatások vizsgálata érdekében a” szöveg lép.
+3. §[^4]
+
+[^4]: A 3. § a 2010. évi CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
