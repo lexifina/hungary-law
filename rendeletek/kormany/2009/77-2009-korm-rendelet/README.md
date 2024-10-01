@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-77-20-2
 | 2020-03-01 | 2009-77-20-22.19 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2020-09-11 | 2009-77-20-22.20 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2023-01-01 | 2009-77-20-22.21 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2009-77-20-22.22 | 257/2024. (VIII. 29.) Korm. rendelet |
