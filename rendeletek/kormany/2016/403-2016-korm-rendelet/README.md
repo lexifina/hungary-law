@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-403-20-
 | 2020-07-31 | 2016-403-20-22.4 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2022-12-23 | 2016-403-20-22.5 | 371/2020. (VII. 30.) Korm. rendelet |
 | 2023-01-01 | 2016-403-20-22.6 | 371/2020. (VII. 30.) Korm. rendelet |
+| 2024-10-01 | 2016-403-20-22.7 | 257/2024. (VIII. 29.) Korm. rendelet |

@@ -44,7 +44,7 @@ Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági 
 
 20. erdővédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^6] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -52,3 +52,4 @@ Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági 
 
 [^4]: A 7. §-t a 251/2018. (XII. 17.) Korm. rendelet 2. §-a iktatta be.
 [^5]: A hatálybalépés időpontja 2018. december 18.
+[^6]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 219. §-a szerint módosított szöveg.
