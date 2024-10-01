@@ -2,8 +2,10 @@
 
 (2) A kártalanítás összegét
 
-a) az ideiglenes begyűjtési ellátás során rendelkezésre bocsátott szállítóeszköz esetén a katasztrófavédelmi szerv határozata alapján, és
+a)[^41] az ideiglenes begyűjtési ellátás során rendelkezésre bocsátott szállítóeszköz esetén a vízügyi hatóság határozata alapján, és
 
 b) a rendkívüli ellátás során rendelkezésre bocsátott szállítóeszköz esetén
 
 a központi költségvetésből kell biztosítani.
+
+[^41]: A 15. § (2) bekezdés a) pontja a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-12. §[^10] (1) A közszolgáltatási díjnak a Tv. 3/F. § (6) bekezdésének való megfelelését, valamint a Tv. 3/F. § (7) bekezdése szerinti, a közszolgáltatási díjból meg nem térülő indokolt költségek (a továbbiakban: többletköltségek) összegét, a közérdekű szolgáltató többletköltség megtérítése érdekében benyújtott igényét és módosított igényét, valamint az igény alapján folyósított támogatási előleg felhasználásáról készült elszámolást a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+12. §[^27] (1) A közszolgáltatási díjnak a Tv. 3/F. § (6) bekezdésének való megfelelését, valamint a Tv. 3/F. § (7) bekezdése szerinti, a közszolgáltatási díjból meg nem térülő indokolt költségek (a továbbiakban: többletköltségek) összegét, a közérdekű szolgáltató többletköltség megtérítése érdekében benyújtott igényét és módosított igényét, valamint az igény alapján folyósított támogatási előleg felhasználásáról készült elszámolást a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
 
 (2) A közérdekű szolgáltatónak az ideiglenes begyűjtési ellátás során keletkező indokolt többletköltségeit a központi költségvetés az ellátásért felelős önkormányzat útján téríti meg.
 
@@ -38,11 +38,12 @@ c) az indokolt többletköltségnek a kijelölés teljes idejére vonatkozó, é
 
 ca) a (4) bekezdés a) pont aa) alpontja és b) pontja szerinti időszakra a közszolgáltató igénylésében szereplő tényadatok alapján,
 
-cb)[^11] a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
+cb)[^28] a (4) bekezdés a) pont ab) alpontja szerinti időszakra a közérdekű szolgáltató tervadatai alapján
 
 megállapított összegéről tájékoztatja a belügyminisztert.
 
-(8) Az MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a katasztrófavédelmi szerv központi szervétől és a települési önkormányzattól.
+(8)[^29] Az MEKH az (1) bekezdésben meghatározott feladatának ellátásához szükséges tájékoztatást, adatot kérhet a vízügyi hatóságtól és a települési önkormányzattól.
 
-[^10]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^11]: [A 12. § (7) bekezdés c) pont cb) alpontjában a 217/2024. (VII. 31.) Korm. rendelet 13. § b) pontja által elrendelt módosítás, amely szerint a „belügyminisztert” szövegrész helyébe a „helyi önkormányzatokért felelős minisztert” szöveg lép, nem vezethető át.]
+[^27]: A 12. § a 280/2019. (XI. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^28]: [A 12. § (7) bekezdés c) pont cb) alpontjában a 217/2024. (VII. 31.) Korm. rendelet 13. § b) pontja által elrendelt módosítás, amely szerint a „belügyminisztert” szövegrész helyébe a „helyi önkormányzatokért felelős minisztert” szöveg lép, nem vezethető át.]
+[^29]: A 12. § (8) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 175. § d) pontja szerint módosított szöveg.

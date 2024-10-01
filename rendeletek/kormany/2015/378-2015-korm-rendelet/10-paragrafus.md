@@ -2,7 +2,7 @@
 
 10. § (1) A rendkívüli ellátás
 
-a) település egészére vetített költségét a katasztrófavédelmi szerv,
+a)[^24] település egészére vetített költségét a vízügyi hatóság,
 
 b) az ingatlan tulajdonosa, vagyonkezelője vagy egyéb jogcímen használója (a továbbiakban együtt: ingatlantulajdonos) által fizetendő költségét a település egészére vetített költség figyelembevételével – a (2) bekezdés d) pontja szerinti költségelemet is meghatározva – a települési önkormányzat
 
@@ -25,3 +25,5 @@ lehet érvényesíteni.
 (3) A rendkívüli ellátás természetes személy ingatlantulajdonost terhelő költsége meghatározásánál a 4. § (1) bekezdésében foglaltakat megfelelően alkalmazni kell.
 
 (4) A rendkívüli ellátás költségének mértékéről és megfizetésének módjáról a települési önkormányzat a helyben szokásos módon, továbbá, ha azzal rendelkezik, a honlapján való közzététellel értesíti a lakosságot.
+
+[^24]: A 10. § (1) bekezdés a) pontja a 257/2024. (VIII. 29.) Korm. rendelet 175. § b) pontja szerint módosított szöveg.
