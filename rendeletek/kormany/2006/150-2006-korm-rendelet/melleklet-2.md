@@ -6,13 +6,13 @@
 
 | 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Eljáró engedélyező hatóság |
 
-| 2. | szennyvíztisztító telep | Budapest, XXI. ker. (hrsz. 210005- 210020) | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
+| 2. | szennyvíztisztító telep | Budapest, XXI. ker. (hrsz. 210005- 210020) | vízjogi engedély | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 3. | általános építésügyi hatósági engedély a központi épületre | Budapest Főváros Kormányhivatala |
 
 | 4. | külső szállítási infrastruktúra | Budapest, XXI. ker. (hrsz. 209973, 209990, 209996, 210011) | építési engedély | Budapest Főváros Kormányhivatala |
 
-| 5. | főgyűjtő | Budapest, I., III., XI. ker. 7 km hosszúságú főgyűjtője | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság |
+| 5. | főgyűjtő | Budapest, I., III., XI. ker. 7 km hosszúságú főgyűjtője | vízjogi engedély | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 6. | átemelő | Budapest, IX. ker., Ferencváros (hrsz. 38040) |
 
@@ -34,7 +34,7 @@
 
 | 1. | Létesítmény | Létesítmény azonosító adatai | A beruházás megvalósításához szükséges hatósági engedély | Eljáró engedélyező hatóság |
 
-| 2. | szennyvíztisztító telep | Zirc (hrsz. 0211) | vízjogi engedély (módosítás) | illetékes katasztrófavédelmi igazgatóság |
+| 2. | szennyvíztisztító telep | Zirc (hrsz. 0211) | vízjogi engedély (módosítás) | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 3. | Hegyesd (hrsz. 079) |
 
