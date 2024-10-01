@@ -160,7 +160,7 @@
 
 37.
 
-## lép.
+lép.
 
 (44) Hatályát veszti a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvény
 

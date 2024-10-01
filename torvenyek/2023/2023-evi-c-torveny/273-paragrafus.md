@@ -18,6 +18,8 @@ e)
 
 f)
 
-g)
+g) 13. § (9) bekezdés c) pontjában az „az épített környezet átalakításáról és védelméről” szövegrész helyébe az „a magyar építészetről” szöveg
+
+lép.
 
 (4)
