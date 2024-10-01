@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-45-20-2
 | 2022-05-28 | 2014-45-20-22.8 | 712/2020. (XII. 30.) Korm. rendelet |
 | 2022-12-27 | 2014-45-20-22.9 | 531/2022. (XII. 19.) Korm. rendelet |
 | 2024-05-08 | 2014-45-20-22.10 | 93/2024. (IV. 23.) Korm. rendelet |
+| 2024-10-01 | 2014-45-20-22.11 | 285/2024. (IX. 30.) Korm. rendelet |

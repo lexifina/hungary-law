@@ -14,7 +14,7 @@
 
 ## Kelt
 
-3. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^85]
+3. melléklet a 45/2014. (II. 26.) Korm. rendelethez[^86]
 
 A kellékszavatosságról, a termékszavatosságról és a jótállásról szóló mintatájékoztató
 
@@ -44,7 +44,7 @@ A kellékszavatosságról, a termékszavatosságról és a jótállásról szól
 
 ## A teljesítéstől számított egy éven belül a kellékszavatossági igénye érvényesítésének a hiba közlésén túl nincs egyéb feltétele, ha Ön igazolja, hogy a terméket, illetve a szolgáltatást a(z) ……………………………… vállalkozás nyújtotta. A teljesítéstől számított egy év eltelte után azonban már Ön köteles bizonyítani, hogy az Ön által felismert hiba már a teljesítés időpontjában is megvolt.
 
-2.[^86] Termékszavatosság
+2.[^87] Termékszavatosság
 
 ## Milyen esetben élhet Ön a termékszavatossági jogával?
 
@@ -86,7 +86,7 @@ A kellékszavatosságról, a termékszavatosságról és a jótállásról szól
 
 ## (Ha a vállalkozás jogszabály, szerződés vagy egyoldalú jognyilatkozat alapján jótállásra köteles, az alábbi 3. pont beillesztése is szükséges a tájékoztatóba:)
 
-3.[^87] Jótállás
+3.[^88] Jótállás
 
 Milyen esetben élhet Ön a jótállási jogával?
 
@@ -126,6 +126,6 @@ A vállalkozás jótállási kötelezettsége alól abban az esetben mentesül, 
 
 Felhívom a figyelmét, hogy Ön ugyanazon hiba miatt kellékszavatossági és jótállási igényt, valamint termékszavatossági és jótállási igényt egyszerre, egymással párhuzamosan is érvényesíthet. Ha viszont Ön egy adott hiba miatt egyszer sikerrel érvényesítette hibás teljesítésből eredő igényét (például a vállalkozás kicserélte a terméket), ugyanezen hiba tekintetében más jogi alapon erre már nem tarthat igényt.
 
-[^85]: A 3. melléklet szövege az 531/2022. (XII. 19.) Korm. rendelet 10. §-ával módosított szöveg.
-[^86]: A 3. melléklet 2. pontja a 93/2024. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^87]: A 3. melléklet 3. pontja a 93/2024. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^86]: A 3. melléklet szövege az 531/2022. (XII. 19.) Korm. rendelet 10. §-ával módosított szöveg.
+[^87]: A 3. melléklet 2. pontja a 93/2024. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^88]: A 3. melléklet 3. pontja a 93/2024. (IV. 23.) Korm. rendelet 18. §-ával megállapított szöveg.
