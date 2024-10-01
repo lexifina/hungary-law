@@ -52,8 +52,10 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 25. tűzvédelmi hatósági eljárások,
 
-26. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+26.[^1] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 27. azok a további hatósági engedélyezési eljárások, melyek a Beruházások megvalósításához és használatbavételéhez, üzembe helyezéséhez, forgalomba helyezéséhez közvetlenül szükségesek,
 
 28. az 1–27. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: Az 1. melléklet 26. pontja a 257/2024. (VIII. 29.) Korm. rendelet 359. §-a szerint módosított szöveg.
