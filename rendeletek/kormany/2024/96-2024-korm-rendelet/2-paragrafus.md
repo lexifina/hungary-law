@@ -16,4 +16,6 @@ e) a geotermikus energia kutatását, kinyerését, hasznosítását, szállít�
 
 biztosító berendezés, építmény vagy ezekhez kapcsolódó építési beruházás, beleértve a hozzájuk kapcsolódó elektronikus hírközlő hálózati elemeket érintő állami beruházásokat is;
 
-3. építmény: az épített környezet alakításáról és védelméről szóló törvény szerinti építmény.
+3.[^1] építmény: a magyar építészetről szóló törvény szerinti építmény.
+
+[^1]: A 2. § 3. pontja a 10. § szerint módosított szöveg.

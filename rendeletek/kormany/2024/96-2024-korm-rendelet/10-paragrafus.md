@@ -1,3 +1,1 @@
-10. §[^1]
-
-[^1]: A 10. § a 9. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+10. § A 2. § 3. pontjában az „az épített környezet alakításáról és védelméről szóló” szövegrész helyébe az „a magyar építészetről szóló” szöveg lép.
