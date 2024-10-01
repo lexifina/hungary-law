@@ -44,7 +44,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 20. területrendezési hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -53,3 +53,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 [^6]: A 8. §-t a 661/2021. (XI. 30.) Korm. rendelet 4. §-a iktatta be.
 [^7]: A hatálybalépés időpontja 2021. december 1.
 [^8]: Az 1. melléklet a 661/2021. (XI. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^9]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 327. §-a szerint módosított szöveg.
