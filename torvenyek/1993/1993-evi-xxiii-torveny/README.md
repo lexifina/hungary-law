@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-23-00-00
 | 2017-01-01 | 2016. évi CIV. törvény | 1993-23-00-00.27 |
 | 2021-01-01 | 2020. évi CLXXIII. törvény | 1993-23-00-00.28 |
 | 2023-06-29 | 2023. évi XLI. törvény | 1993-23-00-00.29 |
+| 2024-10-01 | 2023. évi C. törvény | 1993-23-00-00.30 |
