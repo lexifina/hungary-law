@@ -1,0 +1,1 @@
+42/A. § Az iparbiztonsági hatóság a nyilvántartásában szereplő adatokról a biztonságért és a veszélyes anyagokkal kapcsolatos baleset elhárításáért felelős személyek és elérhetőségük adataira is kiterjedően rendszeresen tájékoztatja a hivatásos katasztrófavédelmi szerv központi szervét a nemzetközi szerződésből eredő kötelezettségei végrehajtása érdekében.

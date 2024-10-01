@@ -2,7 +2,7 @@
 
 (2) Az iparbiztonsági hatóság a küszöbérték alatti üzem üzemeltetője által küldött bejelentést megvizsgálja. A vizsgálatok alapján, ha az üzemben tárolt veszélyes anyagok mennyisége és fajtája, vagy az üzem által okozott veszélyeztetés azt indokolja, az iparbiztonsági hatóság az üzemeltetőt súlyos káresemény elhárítási terv készítésére kötelezi.
 
-(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt a katasztrófavédelmi engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
+(3) Az üzemeltető által benyújtott súlyos káresemény elhárítási tervet az iparbiztonsági hatóság értékeli, és dönt az iparbiztonsági engedély kiadásáról. Ha a benyújtott súlyos káresemény elhárítási terv nem felel meg a külön jogszabályban meghatározott követelményeknek, annak az iparbiztonsági hatósághoz történő beérkezésétől számított harminc napon belül az iparbiztonsági hatóság hiánypótlásra hívja fel az üzemeltetőt.
 
 (3a)
 

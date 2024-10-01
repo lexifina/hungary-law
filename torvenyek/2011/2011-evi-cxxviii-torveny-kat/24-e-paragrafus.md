@@ -2,11 +2,11 @@
 
 24/E. § (1) A veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártási típus jóváhagyása során az általános közigazgatási rendtartásról szóló törvény szerinti sommás eljárásnak nincs helye.
 
-(2) A hivatásos katasztrófavédelmi szerv központi szerve a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
+(2) A Kormány rendeletében kijelölt hatóság a veszélyes áruk szállítására használt nem nyomástartó tartályok, tartányok, valamint a csomagolóeszközök, IBC-k, nagycsomagolások, ömlesztettáru-konténerek gyártásának jóváhagyását követően ellenőrzi a jóváhagyási engedélyében és a vonatkozó jogszabályokban meghatározott előírások betartását.
 
-(3) A hivatásos katasztrófavédelmi szerv központi szerve az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
+(3) A Kormány rendeletében kijelölt hatóság az ellenőrzés során a gyártásból mintát vehet, és elrendelheti annak soron kívüli vizsgálatát.
 
-(4) A hivatásos katasztrófavédelmi szerv központi szerve az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
+(4) A Kormány rendeletében kijelölt hatóság az előírások megsértése esetén a gyártási típus jóváhagyási engedéllyel rendelkezővel, a gyártóval, a forgalmazóval szemben kormányrendeletben meghatározott intézkedést alkalmazhat, és közigazgatási bírságot szabhat ki, amely az államháztartás központi alrendszerének bevételét képezi.
 
 (5) Az egyes rendelkezések megsértése esetén kiszabható bírságok, valamint a több jogsértő cselekmény vagy mulasztás esetén ugyanabban az eljárásban kiszabható bírság maximális összegét kormányrendelet állapítja meg.
 

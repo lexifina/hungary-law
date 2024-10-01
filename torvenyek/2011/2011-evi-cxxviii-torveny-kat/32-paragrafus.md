@@ -1,6 +1,6 @@
 32. § (1) A veszélyes anyagokkal foglalkozó üzem biztonsági jelentésében vagy az iparbiztonsági hatóság döntése alapján a biztonsági elemzésében bemutatott veszélyeztető hatások elleni védekezés érdekében a veszélyeztetett településeken külső védelmi tervet kell készíteni.
 
-(2) A külső védelmi tervet az iparbiztonsági hatóság helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit az iparbiztonsági hatóság központi szerve saját költségvetése terhére biztosítja.
+(2) A külső védelmi tervet a hivatásos katasztrófavédelmi szerv helyi szerve a veszélyeztetett települések polgármestereinek közreműködésével készíti el. A külső védelmi tervek tartalmi követelményeit és elkészítésének határidejét külön jogszabály állapítja meg. A külső védelmi tervek elkészítésének és gyakoroltatásának költségeit a hivatásos katasztrófavédelmi szerv központi szerve saját költségvetése terhére biztosítja.
 
 (3) Az iparbiztonsági hatóság külön jogszabályban meghatározottak szerint végzi a veszélyes anyagokkal kapcsolatos súlyos balesetek megelőzésére és elhárítására, valamint a bekövetkezett veszélyes anyagokkal kapcsolatos súlyos balesetek kivizsgálására vonatkozó műszaki, szervezési és vezetési információk gyűjtését, értékelését és készíti a nemzeti jelentéseket.
 

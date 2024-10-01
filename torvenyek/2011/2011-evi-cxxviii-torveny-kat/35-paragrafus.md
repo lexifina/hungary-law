@@ -20,7 +20,7 @@ cc) veszélyeztető jellegük megszüntetését.
 
 (5) Az iparbiztonsági hatóság katasztrófavédelmi bírság kiszabására jogosult:
 
-a) katasztrófavédelmi engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
+a) iparbiztonsági engedély nélkül végzett engedélyköteles tevékenység végzése esetén,
 
 b) a IV. fejezetben és a végrehajtási rendeletekben, vagy az azok alapján meghozott hatósági döntésben foglalt előírások elmulasztása esetén,
 

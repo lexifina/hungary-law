@@ -1,4 +1,6 @@
-42. § Az üzemeltető köteles a hivatásos katasztrófavédelmi szerv területi szerve ügyeleti szolgálata útján távbeszélőn az iparbiztonsági hatóságot haladéktalanul tájékoztatni
+42. § (1) Az üzemeltető köteles az egységes segélyhívó rendszeren haladéktalanul bejelentést tenni veszélyes anyagokkal kapcsolatos súlyos balesetről, eseményről a (2) bekezdésben felsorolt információk átadásával.
+
+(2) Az üzemeltető az iparbiztonsági hatóságot elektronikus úton soron kívül értesíti
 
 a) a veszélyes anyagokkal kapcsolatos súlyos baleset, esemény körülményeiről,
 
