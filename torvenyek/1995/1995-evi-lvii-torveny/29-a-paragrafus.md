@@ -1,1 +1,1 @@
-29/A. § Az elsőfokú vízügyi hatósági eljárásban és az elsőfokú helyi vízgazdálkodási hatósági eljárásban hozott határozat ellen fellebbezésnek van helye.
+29/A. § Az elsőfokú helyi vízgazdálkodási hatósági eljárásban hozott határozat ellen fellebbezésnek van helye.

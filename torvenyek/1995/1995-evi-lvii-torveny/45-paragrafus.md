@@ -8,7 +8,7 @@
 
 (3)
 
-(4) Vízvezetési szolgalom megállapításával kapcsolatban indult és e törvény hatálybalépésekor még folyamatban lévő ügyekben — ha a vízügyi hatóság már meghozta az elsőfokú határozatot — az 1964. évi IV. törvény 34. §-át kell alkalmazni.
+(4)
 
 (5) E törvénynek a társulatok felügyeletére vonatkozó rendelkezését — a törvény hatálybalépésekor működő társulat esetén — a cégjegyzékbe történő bejegyzést követően kell alkalmazni.
 

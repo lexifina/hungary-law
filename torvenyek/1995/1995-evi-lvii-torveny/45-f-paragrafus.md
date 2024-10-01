@@ -8,6 +8,6 @@ a) megállapítja, hogy az adott vízfolyásnak, csatornának a belvízelvezeté
 
 b) a vízfolyás, csatorna elhanyagolt állapota akadályozza az öntözővíz-továbbítást vagy belvízhelyzet kialakulását idézheti elő.
 
-(4) A vízügyi hatóság kijelölő döntése két évig hatályos és fellebbezésre tekintet nélkül végrehajtható.
+(4) A vízügyi hatóság kijelölő döntése két évig hatályos.
 
 (5) A kijelölő döntés a közléstől számítva legfeljebb három hónap időtartamot biztosít arra, hogy a vízügyi igazgatási szerv a vízfolyást, csatornát üzemeltetésre és fenntartásra átvegye.
