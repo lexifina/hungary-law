@@ -20,17 +20,19 @@ környezetvédelmi feladatköreinek gyakorlásával összefüggésben szakmai ir
 
 a) természetvédelemmel kapcsolatos megállapítást is tartalmaz, a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár beszerzi a természetvédelemért felelős miniszter,
 
-b) vízgazdálkodással kapcsolatos megállapítást is tartalmaz, a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár beszerzi az országos vízügyi hatóság,
+b)[^10] vízgazdálkodással kapcsolatos megállapítást is tartalmaz, a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár beszerzi a vízgazdálkodásért felelős miniszter,
 
-c) vízvédelemmel kapcsolatos megállapítást is tartalmaz, a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár beszerzi az országos vízvédelmi hatóság
+c)[^11] vízvédelemmel kapcsolatos megállapítást is tartalmaz, a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár beszerzi a vízvédelemért felelős miniszter
 
 véleményét.
 
-(6)[^10] A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.-t (a továbbiakban: HungaroMet Nonprofit Zrt.) közreműködőként veheti igénybe.
+(6)[^12] A miniszter az Országos Légszennyezettségi Mérőhálózat szakszerűségi ellenőrzéséhez a HungaroMet Magyar Meteorológiai Szolgáltató Nonprofit Zrt.-t (a továbbiakban: HungaroMet Nonprofit Zrt.) közreműködőként veheti igénybe.
 
 [^5]: A 4. § (1) bekezdés a) pontját a 119/2024. (VI. 10.) Korm. rendelet 21. § a) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (1) bekezdése iktatta be.
 [^6]: A 4. § (2) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
 [^7]: A 4. § (3) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
 [^8]: A 4. § (4) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
 [^9]: A 4. § (5) bekezdését a 119/2024. (VI. 10.) Korm. rendelet 21. § b) pontja hatályon kívül helyezte, újonnan e módosító rendelet 9. § (2) bekezdése iktatta be.
-[^10]: A 4. § (6) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdés b) pontja a 257/2024. (VIII. 29.) Korm. rendelet 356. § a) pontja szerint módosított szöveg.
+[^11]: A 4. § (5) bekezdés c) pontja a 257/2024. (VIII. 29.) Korm. rendelet 356. § b) pontja szerint módosított szöveg.
+[^12]: A 4. § (6) bekezdése az 591/2023. (XII. 20.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.

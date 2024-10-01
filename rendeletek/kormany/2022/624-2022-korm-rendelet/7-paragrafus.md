@@ -1,4 +1,4 @@
-7. §[^15] (1) Az országos környezetvédelmi hatóság országos illetékességgel jár el:
+7. §[^17] (1) Az országos környezetvédelmi hatóság országos illetékességgel jár el:
 
 a) a Kvt. 66. § (1) bekezdés a) pontjában foglalt környezetvédelmi hatóságként gyorsforgalmi út építése esetén;
 
@@ -10,4 +10,4 @@ bb) 9. § (1) bekezdésében foglalt környezetvédelmi hatóságnak a gyorsforg
 
 (2) Kormányrendelettel hatáskörébe utalt ügyekben országos illetékességgel a környezetvédelmi hatósági ügyekért felelős helyettes államtitkár jár el.
 
-[^15]: A 7. § a 119/2024. (VI. 10.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^17]: A 7. § a 119/2024. (VI. 10.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
