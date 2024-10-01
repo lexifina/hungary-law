@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-242-00-00
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2013-242-00-00.12 |
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2013-242-00-00.13 |
 | 2022-06-18 | 2022. évi VII. törvény | 2013-242-00-00.14 |
+| 2024-10-01 | 2023. évi C. törvény | 2013-242-00-00.15 |
