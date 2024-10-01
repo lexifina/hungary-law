@@ -12,7 +12,7 @@
 
 | 6. | Útügyi hatósági engedélyek | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-| 7. | Vízügyi hatósági engedélyek | illetékes katasztrófavédelmi igazgatóság |
+| 7. | Vízügyi hatósági engedélyek | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^19] |
 
 | 8. | Műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Vármegyei Kormányhivatal |
 
@@ -34,14 +34,19 @@
 
 | 17. | Vasúti hatósági engedélyek | közlekedésért felelős miniszter |
 
-| 18. | Tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 18. | Tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^20] |
 
-| 19. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 19. | Beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^21] |
 
-| 20. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 20. | A jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^22] |
 
-| 21. |  |  | Tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 21.[^23] | Tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^19]
+2. melléklet a 97/2011. (VI. 29.) Korm. rendelethez[^24]
 
-[^19]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
+[^19]: Az 1. mellékletben foglalt táblázat D:7 mezője a 257/2024. (VIII. 29.) Korm. rendelet 24. § a) pontja szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat D:18 mezője a 257/2024. (VIII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:19 mezője a 257/2024. (VIII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:20 mezője a 257/2024. (VIII. 29.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat 21. sora a 257/2024. (VIII. 29.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^24]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 35. § c) pontja hatályon kívül helyezte.
