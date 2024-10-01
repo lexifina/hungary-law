@@ -18,7 +18,7 @@ e) a műszaki leírást (tervet) és tervrajzokat,
 
 f) a tervező nyilatkozatát (szakterületenként) arról, hogy
 
-fa) a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak, beleértve az országos településrendezési és építési követelményekről szóló jogszabályban, a helyi önkormányzati rendeletekben, helyi építési szabályzatban, szabályozási tervben foglaltaknak, továbbá a nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki-biztonsági hatósági felügyeletéről és az autógáz tartályok időszakos ellenőrzéséről szóló miniszteri rendelet szerinti Műszaki Biztonsági Szabályzatban foglaltaknak és a vonatkozó szabványoknak,
+fa)[^4] a tervezett műszaki megoldás megfelel a vonatkozó jogszabályoknak és hatósági előírásoknak, beleértve a településrendezési és építési követelményekről szóló jogszabályban, a helyi önkormányzati rendeletekben, helyi építési szabályzatban, szabályozási tervben foglaltaknak, továbbá a nyomástartó berendezések, a töltő berendezések, a kisteljesítményű sűrített gáztöltő berendezések műszaki-biztonsági hatósági felügyeletéről és az autógáz tartályok időszakos ellenőrzéséről szóló miniszteri rendelet szerinti Műszaki Biztonsági Szabályzatban foglaltaknak és a vonatkozó szabványoknak,
 
 fb) szabványos műszaki megoldástól való eltérés esetén az alkalmazott megoldás legalább azonos biztonságú, mint a honosított, harmonizált szabvány szerinti biztonsági szint,
 
@@ -63,3 +63,4 @@ d) a biztonsági, egészségvédelmi, tűzvédelmi és környezetvédelmi követ
 (7) A rajzdokumentáció tartalmazza a technológiai berendezések terveit és tervrajzait, valamint a közlekedési, táv- és hírközlési, közmű- és energiahálózat kapcsolatainak terveit olyan részletességgel és méretarányban, hogy azok alapján elrendezésük, működésük egyértelműen meghatározható legyen.
 
 [^3]: A 4. § a 190/2020. (V. 7.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^4]: Az 5. § (2) bekezdés f) pont fa) alpontja a 285/2024. (IX. 30.) Korm. rendelet 143. §-a szerint módosított szöveg.

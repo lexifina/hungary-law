@@ -1,6 +1,6 @@
 ## 17. A hatósági jellegű képzésekre vonatkozó eljárási szabályok
 
-## 35. §[^11] Az e rendeletben meghatározott hatósági jellegű képzés keretében megszerezhető, műszaki biztonsági szempontjából jelentős ipari szakképesítések:
+## 35. §[^12] Az e rendeletben meghatározott hatósági jellegű képzés keretében megszerezhető, műszaki biztonsági szempontjából jelentős ipari szakképesítések:
 
 a) nyomástartó berendezés kezelője,
 
@@ -8,4 +8,4 @@ b) nyomástartó berendezés vizsgálója,
 
 c) nyomástartóedény-gépész.
 
-[^11]: A 35. § a 447/2021. (VII. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^12]: A 35. § a 447/2021. (VII. 26.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

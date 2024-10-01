@@ -26,12 +26,12 @@ b) a berendezés az üzembevételi engedélyben megjelölt rendeltetésnek megfe
 
 (3) Az üzemeltető a javítást követő üzembevételi engedéllyel kapcsolatban keletkezett dokumentációt a nyomástartó berendezés, töltő berendezés teljes élettartama alatt megőrzi.
 
-(4)[^5] A berendezés vagy annak különálló főalkatrészének javítással elért állapota igazolható a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendelet szerint kijelöléssel rendelkező szervezet által kiállított vizsgálati jegyzőkönyvvel. A javítást ebben az esetben is be kell jelenteni a Hatóságnak, és kérelmezni kell a javítást követő üzembevételi engedélyt.
+(4)[^6] A berendezés vagy annak különálló főalkatrészének javítással elért állapota igazolható a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló miniszteri rendelet szerint kijelöléssel rendelkező szervezet által kiállított vizsgálati jegyzőkönyvvel. A javítást ebben az esetben is be kell jelenteni a Hatóságnak, és kérelmezni kell a javítást követő üzembevételi engedélyt.
 
-(5)[^6] A (4) bekezdésben meghatározott esetben a javítást követő üzembevételi engedélyezési kérelem tartalmazza a berendezés vagy annak különálló főalkatrészének vizsgálati jegyzőkönyve egy másolati példányát.
+(5)[^7] A (4) bekezdésben meghatározott esetben a javítást követő üzembevételi engedélyezési kérelem tartalmazza a berendezés vagy annak különálló főalkatrészének vizsgálati jegyzőkönyve egy másolati példányát.
 
-(6)[^7] Ha a (4) bekezdés szerinti vizsgálati jegyzőkönyv a berendezés részegységére vonatkozik, akkor a nyomástartó berendezés, töltő berendezés időszakos ellenőrző vizsgálatainak határideje nem változik. Az üzemeltető a megfelelőségtanúsítással kapcsolatban keletkezett dokumentációt a nyomástartó berendezés, töltő berendezés teljes élettartama alatt megőrzi.
+(6)[^8] Ha a (4) bekezdés szerinti vizsgálati jegyzőkönyv a berendezés részegységére vonatkozik, akkor a nyomástartó berendezés, töltő berendezés időszakos ellenőrző vizsgálatainak határideje nem változik. Az üzemeltető a megfelelőségtanúsítással kapcsolatban keletkezett dokumentációt a nyomástartó berendezés, töltő berendezés teljes élettartama alatt megőrzi.
 
-[^5]: A 14. § (4) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
-[^6]: A 14. § (5) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
-[^7]: A 14. § (6) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^6]: A 14. § (4) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
+[^7]: A 14. § (5) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
+[^8]: A 14. § (6) bekezdése a 190/2020. (V. 7.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.

@@ -18,7 +18,7 @@ Nyomástartó berendezés besorolása a hatósági eljárások szempontjából
 
 a) gáztöltetű nyomástartó edény – az e) alpontban meghatározottak kivételével –, amelynek töltete veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 25 liter és a PS × V szorzat nagyobb, mint 1000 bar × liter;
 
-b)[^17] gáztöltetű nyomástartó edény – az e) alpontban meghatározottak kivételével –, amelynek töltete nem veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 50 liter és a PS × V szorzat nagyobb, mint 10 000 bar × liter;
+b)[^18] gáztöltetű nyomástartó edény – az e) alpontban meghatározottak kivételével –, amelynek töltete nem veszélyes töltet: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 50 liter és a PS × V szorzat nagyobb, mint 10 000 bar × liter;
 
 c) folyadéktöltetű nyomástartó edény – az e) alpontban meghatározottak kivételével –, amelynek töltete veszélyes töltet: ha a nyomása (PS) nagyobb, mint 10 bar, térfogata (V) nagyobb, mint 100 liter és a PS × V szorzat nagyobb, mint 5000 bar × liter;
 
@@ -26,4 +26,4 @@ d) folyadéktöltetű nyomástartó edény – az e) alpontban meghatározottak 
 
 e) a túlhevülési veszély lehetőségével üzemelő, tüzeléssel vagy más módon fűtött, nagyobb, mint 110 °C hőmérsékletű gőz vagy forró víz előállítására szolgáló, vagy más technológiai célra igénybevett nyomástartó berendezés, továbbá minden nyomással igénybe vett főzőedény: ha a nyomása (PS) nagyobb, mint 0,5 bar, térfogata (V) nagyobb, mint 25 liter és a PS × V szorzat nagyobb, mint 1000 bar × liter.
 
-[^17]: Az 1. melléklet 7. pont b) alpontja a 190/2020. (V. 7.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
+[^18]: Az 1. melléklet 7. pont b) alpontja a 190/2020. (V. 7.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.
