@@ -1,6 +1,6 @@
 ## Vármegyei önkormányzat
 
-27. § (1) A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, területrendezési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
+27. § (1) A vármegyei önkormányzat területi önkormányzat, amely törvényben meghatározottak szerint területfejlesztési, vidékfejlesztési, valamint koordinációs feladatokat lát el. A vármegyei önkormányzat képviselő-testülete a közgyűlés.
 
 (1a) A vármegyei önkormányzat székhelyét a szervezeti és működési szabályzatról szóló rendeletében a vármegyeszékhely település területén határozza meg.
 

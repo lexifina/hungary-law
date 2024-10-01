@@ -1,4 +1,4 @@
-14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen az épített környezet alakításáról és védelméről szóló törvény szerinti épület található.
+14/A. § (1) Minden belterületi és olyan külterületi közterületet el kell nevezni, amely olyan ingatlanhoz vezet, amelyen a magyar építészetről szóló törvény szerinti épület található.
 
 (2) Közterület elnevezéseként nem alkalmazható
 
