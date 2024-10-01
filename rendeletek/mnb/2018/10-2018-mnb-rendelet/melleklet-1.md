@@ -1,8 +1,8 @@
 ## 5. § E rendelet tervezetének a nemzeti hatóságoknak az Európai Központi Bankkal a jogszabálytervezetekről folytatott konzultációjáról szóló, 1998. június 29-i 98/415/EK tanácsi határozat 2. cikk (1) bekezdés hatodik francia bekezdése szerinti előzetes bejelentése megtörtént.
 
-1. melléklet a 10/2018. (III. 27.) MNB rendelethez[^3]
+1. melléklet a 10/2018. (III. 27.) MNB rendelethez[^4]
 
-## A bankközi finanszírozási mutató számításának módja
+A bankközi finanszírozási mutató számításának módja
 
 1. A bankközi finanszírozási mutató a pénzügyi vállalattól származó, 2. és 3. pont szerint meghatározott források 4. és 5. pont szerint súlyozott összegének, valamint a mérlegfőösszeg és a saját tőke különbségének a hányadosa.
 
@@ -60,4 +60,4 @@ b) az a) pontban foglaltakon kívüli loro számlák egyenlegének azon részét
 
 6. A bankközi finanszírozási mutató számítása során mind a számlálóban, mind a nevezőben szereplő tételeket könyv szerinti értéken kell figyelembe venni.
 
-[^3]: Az 1. melléklet a 30/2020. (IX. 16.) MNB rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^4]: Az 1. melléklet a 30/2020. (IX. 16.) MNB rendelet 3. § (3) bekezdése szerint módosított szöveg.

@@ -10,4 +10,6 @@ c) a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaságra,
 
 d) a KELER Központi Értéktár Zártkörűen Működő Részvénytársaságra és
 
-e) a 30 milliárd forintnál alacsonyabb mérlegfőösszeggel rendelkező hitelintézetre, hitelintézeti csoportra.
+e)[^1] a 100 milliárd forintnál alacsonyabb mérlegfőösszeggel rendelkező hitelintézetre, hitelintézeti csoportra.
+
+[^1]: Az 1. § (2) bekezdés e) pontja a 44/2024. (IX. 19.) MNB rendelet 2. §-a szerint módosított szöveg.
