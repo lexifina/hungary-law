@@ -92,7 +92,7 @@
 
 ## k) a híd alatt vagy az alagútban szabadon tartott tér felméréséről készült jegyzőkönyv;
 
-## l)[^152] a végleges állapotra vonatkozó III. fokú hídvizsgálati jegyzőkönyv;
+## l)[^154] a végleges állapotra vonatkozó III. fokú hídvizsgálati jegyzőkönyv;
 
 ## m) a kötelező próbaterhelésre vonatkozó mérések, eredmények;
 
@@ -156,7 +156,7 @@
 
 ## b) térvilágítás fénytechnikai felülvizsgálati jegyzőkönyvei (a más hatóság által engedélyezett utasforgalmi létesítményekre vonatkozóan is).
 
-7. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^153]
+7. melléklet a 289/2012. (X. 11.) Korm. rendelethez[^155]
 
 A különleges kötöttpályás közlekedési rendszer építmények megszüntetési engedélyezési eljárásaiban benyújtandó dokumentációk jegyzéke
 
@@ -224,5 +224,5 @@ a) műszaki leírás;
 
 b) a megmaradó világítási berendezések állapotterve.
 
-[^152]: A 6. melléklet 2.2.2.1. pont l) alpontja a 204/2024. (VII. 29.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
-[^153]: A 7. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^154]: A 6. melléklet 2.2.2.1. pont l) alpontja a 204/2024. (VII. 29.) Korm. rendelet 11. § (4) bekezdésével megállapított szöveg.
+[^155]: A 7. mellékletet a 431/2017. (XII. 20.) Korm. rendelet 54. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.

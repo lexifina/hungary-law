@@ -1,4 +1,4 @@
-39. § (1)[^73] Azon vasúti pályára és tartozékaira, amelyek a vasúti közlekedési hatóság végleges építési vagy létesítési engedélye alapján valósultak meg, de
+39. § (1)[^75] Azon vasúti pályára és tartozékaira, amelyek a vasúti közlekedési hatóság végleges építési vagy létesítési engedélye alapján valósultak meg, de
 
 a) e rendelet hatálybalépésekor használatbavételi engedéllyel nem rendelkeznek,
 
@@ -16,43 +16,43 @@ ideiglenes használatbavételi engedély iránti kérelmet 2014. december 31-ig 
 
 (5) A vasútbiztonsági engedély megszerzésére nem kötelezett vasúti pályahálózatra vonatkozóan a vasúti építmény üzembentartója köteles 2014. december 31-ig a műszaki paramétereket tartalmazó adatokat szolgáltatni a kezelésében álló vasúti építményekről a vasúti közlekedési hatóság részére. Az adatszolgáltatáshoz szükséges űrlapot a vasúti közlekedési hatóság az elektronikus tájékoztatás szabályai szerint teszi közzé.
 
-(6)[^74] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^75] folyamatban lévő eljárásokban is alkalmazni kell.
+(6)[^76] E rendeletnek a felszín alatti vasutak engedélyezésével kapcsolatos egyes kormányrendeletek módosításáról szóló 358/2013. (X. 9.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) és (3) bekezdését, 2. § 8. pontját, 6. § (2) bekezdés f) pontját, 6. § (4) bekezdését a Módr. hatálybalépésekor[^77] folyamatban lévő eljárásokban is alkalmazni kell.
 
-(7)[^76] A Módr. hatálybalépésekor[^77] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
+(7)[^78] A Módr. hatálybalépésekor[^79] folyamatban lévő hatósági eljárásokban a Módr. hatálybalépése előtt már megkezdett eljárási cselekmények hatályát a Módr. nem érinti.
 
-(8)[^78] E rendeletnek az egyes vasúti közlekedési tárgyú kormányrendeletek módosításáról szóló 259/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdés b) pontját, 1. melléklet 1. pont j) alpontját, 2. melléklet 1. pont b) alpontját, valamint 3. melléklet 1. pont g) alpontját – a (9) bekezdésben meghatározott kivétellel – a Módr2. hatálybalépésekor[^79] folyamatban lévő eljárásokban is alkalmazni kell.
+(8)[^80] E rendeletnek az egyes vasúti közlekedési tárgyú kormányrendeletek módosításáról szóló 259/2017. (IX. 11.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 6. § (2) bekezdés b) pontját, 1. melléklet 1. pont j) alpontját, 2. melléklet 1. pont b) alpontját, valamint 3. melléklet 1. pont g) alpontját – a (9) bekezdésben meghatározott kivétellel – a Módr2. hatálybalépésekor[^81] folyamatban lévő eljárásokban is alkalmazni kell.
 
-(9)[^80] A saját célú vasúti pályahálózatok vasúti építményeinek használatbavételi engedélyezése során e rendeletnek a Módr2.-vel megállapított 6. § (2) bekezdés b) pontját a 2020. december 31. után indult eljárásokban kell alkalmazni.
+(9)[^82] A saját célú vasúti pályahálózatok vasúti építményeinek használatbavételi engedélyezése során e rendeletnek a Módr2.-vel megállapított 6. § (2) bekezdés b) pontját a 2020. december 31. után indult eljárásokban kell alkalmazni.
 
-(10)[^81] E rendeletnek a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályairól és egyes kapcsolódó kormányrendeletek módosításáról szóló 431/2017. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 37/A–37/O. §-át a Módr3. hatálybalépésekor[^82] folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy a folyamatban lévő eljárások gyorsított teljes műszaki engedélyezési eljárásokká válnak.
+(10)[^83] E rendeletnek a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos építésügyi hatósági engedélyezési eljárások lefolytatásának részletes szabályairól és egyes kapcsolódó kormányrendeletek módosításáról szóló 431/2017. (XII. 20.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 37/A–37/O. §-át a Módr3. hatálybalépésekor[^84] folyamatban lévő eljárásokban is alkalmazni kell azzal, hogy a folyamatban lévő eljárások gyorsított teljes műszaki engedélyezési eljárásokká válnak.
 
-(11)[^83] A Módr3. hatálybalépése[^84] előtt sífelvonóra, kötélpályára kiadott határozott idejű használatbavételi engedélyek a Módr3. hatálybalépésével határozatlan idejűvé válnak.
+(11)[^85] A Módr3. hatálybalépése[^86] előtt sífelvonóra, kötélpályára kiadott határozott idejű használatbavételi engedélyek a Módr3. hatálybalépésével határozatlan idejűvé válnak.
 
-(12)[^85] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 632/2020. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 11/A. § (1) bekezdését, 13. § (1) bekezdés a) pontját, 20. § (1) bekezdését, valamint 2. mellékletét
+(12)[^87] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 632/2020. (XII. 22.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 11/A. § (1) bekezdését, 13. § (1) bekezdés a) pontját, 20. § (1) bekezdését, valamint 2. mellékletét
 
-a) a Módr5. hatálybalépését[^86] követően indult építési engedélyezési eljárásokban kell alkalmazni, valamint
+a) a Módr5. hatálybalépését[^88] követően indult építési engedélyezési eljárásokban kell alkalmazni, valamint
 
-b) a Módr5. hatálybalépését[^87] követően indult használatbavételi engedélyezési eljárások közül azon eljárásoknál kell alkalmazni, ahol az azt megelőző építési engedélyezési eljárásnál az a) pont alapján már alkalmazták a rendelkezéseket.
+b) a Módr5. hatálybalépését[^89] követően indult használatbavételi engedélyezési eljárások közül azon eljárásoknál kell alkalmazni, ahol az azt megelőző építési engedélyezési eljárásnál az a) pont alapján már alkalmazták a rendelkezéseket.
 
-(13)[^88] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 632/2020. (XII. 22.) Korm. rendelettel megállapított 13. § (1) bekezdés b) pontjában foglaltakat azoknál az építési engedélyezési eljárásoknál, amelyeknél az ERTMS-hez kapcsolódó pályamenti berendezésekkel kapcsolatos beszerzésre irányuló közbeszerzési eljárás 2020. október 31. előtt indult, nem kell alkalmazni.
+(13)[^90] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 632/2020. (XII. 22.) Korm. rendelettel megállapított 13. § (1) bekezdés b) pontjában foglaltakat azoknál az építési engedélyezési eljárásoknál, amelyeknél az ERTMS-hez kapcsolódó pályamenti berendezésekkel kapcsolatos beszerzésre irányuló közbeszerzési eljárás 2020. október 31. előtt indult, nem kell alkalmazni.
 
-(14)[^89] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 570/2021. (X. 6.) Korm. rendelettel (a továbbiakban: Módr. 6.) megállapított 13/A. §-át és 2. melléklet 1. pont e) alpontját a Módr. 6. hatálybalépésekor[^90] folyamatban lévő ügyekben is alkalmazni kell.
+(14)[^91] E rendeletnek a vasúti építmények építésügyi hatósági engedélyezési eljárásainak részletes szabályairól szóló 289/2012. (X. 11.) Korm. rendelet módosításáról szóló 570/2021. (X. 6.) Korm. rendelettel (a továbbiakban: Módr. 6.) megállapított 13/A. §-át és 2. melléklet 1. pont e) alpontját a Módr. 6. hatálybalépésekor[^92] folyamatban lévő ügyekben is alkalmazni kell.
 
-[^73]: A 39. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^74]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
-[^75]: A hatálybalépés időpontja 2013. október 14.
-[^76]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^75]: A 39. § (1) bekezdés nyitó szövegrésze a 457/2017. (XII. 28.) Korm. rendelet 408. § e) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^76]: A 39. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
 [^77]: A hatálybalépés időpontja 2013. október 14.
-[^78]: A 39. § (8) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.
-[^79]: A hatálybalépés időpontja 2017. szeptember 19.
-[^80]: A 39. § (9) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.
-[^81]: A 39. § (10) bekezdését a 431/2017. (XII. 20.) Korm. rendelet 53. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
-[^82]: A hatálybalépés időpontja 2018. január 1.
-[^83]: A 39. § (11) bekezdését a 431/2017. (XII. 20.) Korm. rendelet 53. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^78]: A 39. § (7) bekezdését a 358/2013. (X. 9.) Korm. rendelet 5. § (6) bekezdése iktatta be.
+[^79]: A hatálybalépés időpontja 2013. október 14.
+[^80]: A 39. § (8) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.
+[^81]: A hatálybalépés időpontja 2017. szeptember 19.
+[^82]: A 39. § (9) bekezdését a 259/2017. (IX. 11.) Korm. rendelet 8. §-a iktatta be.
+[^83]: A 39. § (10) bekezdését a 431/2017. (XII. 20.) Korm. rendelet 53. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
 [^84]: A hatálybalépés időpontja 2018. január 1.
-[^85]: A 39. § (12) bekezdését a 632/2020. (XII. 22.) Korm. rendelet 5. §-a iktatta be.
-[^86]: A hatálybalépés időpontja 2020. december 27.
-[^87]: A hatálybalépés időpontja 2020. december 27.
-[^88]: A 39. § (13) bekezdését a 632/2020. (XII. 22.) Korm. rendelet 5. §-a iktatta be.
-[^89]: A 39. § (14) bekezdését az 570/2021. (X. 6.) Korm. rendelet 2. §-a iktatta be.
-[^90]: A hatálybalépés időpontja 2021. október 7.
+[^85]: A 39. § (11) bekezdését a 431/2017. (XII. 20.) Korm. rendelet 53. §-a iktatta be, alkalmazására lásd e módosító rendelet 49. §-át.
+[^86]: A hatálybalépés időpontja 2018. január 1.
+[^87]: A 39. § (12) bekezdését a 632/2020. (XII. 22.) Korm. rendelet 5. §-a iktatta be.
+[^88]: A hatálybalépés időpontja 2020. december 27.
+[^89]: A hatálybalépés időpontja 2020. december 27.
+[^90]: A 39. § (13) bekezdését a 632/2020. (XII. 22.) Korm. rendelet 5. §-a iktatta be.
+[^91]: A 39. § (14) bekezdését az 570/2021. (X. 6.) Korm. rendelet 2. §-a iktatta be.
+[^92]: A hatálybalépés időpontja 2021. október 7.

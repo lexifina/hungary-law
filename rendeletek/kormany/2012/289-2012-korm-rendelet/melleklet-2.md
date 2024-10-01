@@ -1,4 +1,4 @@
-## 1.[^102] Valamennyi építményre, alrendszerre, rendszerelemre vonatkozóan:
+## 1.[^104] Valamennyi építményre, alrendszerre, rendszerelemre vonatkozóan:
 
 ## a) igazolni kell
 
@@ -14,11 +14,11 @@
 
 ## af) amennyiben a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, annak megtörténtét, hogy megvizsgálták a környezeti hatások jelentőségét,
 
-## ag)[^103]
+## ag)[^105]
 
 ## b) meg kell adni
 
-## ba)[^104]
+## ba)[^106]
 
 ## bb) amennyiben a beruházás a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendelet alapján arra kötelezett, az előzetes vizsgálati eljárást lezáró végleges döntés vagy végleges környezetvédelmi engedély
 
@@ -26,7 +26,7 @@
 
 ## c) be kell mutatni a hatásterületet az érintett ügyfelek megjelölésével.
 
-## d)[^105] a tervezői nyilatkozatnak tartalmaznia kell, hogy a kérelmezett létesítmények, alrendszerek tervezett megvalósítása vonatkozásában az alábbi műszaki előírások közül mely megfelelési szint teljesül:
+## d)[^107] a tervezői nyilatkozatnak tartalmaznia kell, hogy a kérelmezett létesítmények, alrendszerek tervezett megvalósítása vonatkozásában az alábbi műszaki előírások közül mely megfelelési szint teljesül:
 
 ## 1. az átjárhatósági műszaki előírások teljesülnek;
 
@@ -46,7 +46,7 @@
 
 ## 2. Vasúti pálya engedélyezési terve
 
-## 2.1.[^106] Vasúti pálya:
+## 2.1.[^108] Vasúti pálya:
 
 ## a) átnézeti helyszínrajz (1:10000 vagy 1:25000 méretarányban);
 
@@ -72,7 +72,7 @@
 
 ## l) közúti vasutaknál forgalomtechnikai terv.
 
-## 2.2.[^107]
+## 2.2.[^109]
 
 ## 3. Vasúti pálya tartozékai
 
@@ -142,7 +142,7 @@
 
 ## c) geotechnikai szakvélemény.
 
-## 3.3.[^108] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
+## 3.3.[^110] Biztosítóberendezés, automatikus vonatvezérlés, vonat befolyásolás és központi forgalomirányító berendezés:
 
 ## a) torzított helyszínrajz;
 
@@ -160,19 +160,19 @@
 
 ## f) végleges alkalmassági tanúsítvánnyal nem rendelkező berendezések esetében előzetes alkalmassági tanúsítvány, legkésőbb a létesítés megkezdéséig;
 
-## g)[^109] a berendezésben megvalósítani tervezett szoftverfrissítés műszaki leírása;
+## g)[^111] a berendezésben megvalósítani tervezett szoftverfrissítés műszaki leírása;
 
-## h)[^110] a különleges kezeléseket érintő szoftverfrissítéshez tartozóan korábban kiadott hatósági engedélyek;
+## h)[^112] a különleges kezeléseket érintő szoftverfrissítéshez tartozóan korábban kiadott hatósági engedélyek;
 
-## i)[^111] a meglévő SIL0 szintű funkció javításáról kiállított előzetes vagy közbenső tanúsítói nyilatkozat;
+## i)[^113] a meglévő SIL0 szintű funkció javításáról kiállított előzetes vagy közbenső tanúsítói nyilatkozat;
 
-## j)[^112] az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozata, valamint kockázatelemzés és biztonságértékelés;
+## j)[^114] az új SIL0 szintű funkció első alkalmazásakor, vagy meglévő funkció jelentősebb módosításakor, a tanúsító előzetes nyilatkozata, valamint kockázatelemzés és biztonságértékelés;
 
-## k)[^113] a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
+## k)[^115] a SIL1, SIL2, SIL3, SIL4 szintű biztonsági funkciókat érintő szoftverfrissítés esetén tanúsító bevonásával megvalósult független biztonságértékelési eljárás eredménye, amelyben igazolni kell, hogy a biztonság integritási szint (SIL) nem csökken;
 
-## l)[^114] a szoftverfrissítést követő üzemi próba kiértékelésének kritériumai, amelynél az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
+## l)[^116] a szoftverfrissítést követő üzemi próba kiértékelésének kritériumai, amelynél az egyes szoftverfrissítésekhez tartozó elegendő üzemi próbaidőt a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen kell meghatároznia;
 
-## m)[^115] a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
+## m)[^117] a független tanúsító bevonásával a gyártónak és az üzemeltetőnek közösen tett nyilatkozata arra vonatkozóan, hogy az üzemi próba
 
 ## ma) a teljes rendszerre,
 
@@ -182,7 +182,7 @@
 
 ## vonatkozott;
 
-## n)[^116] szoftvermódosítási utasítás.
+## n)[^118] szoftvermódosítási utasítás.
 
 ## 3.4. Villamos felsővezeték:
 
@@ -310,7 +310,7 @@
 
 ## i) a berendezések és környezetük megvilágításának terve.
 
-## 4.5.[^117] Egyéb vasútgépészeti berendezés (vágányba épített vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
+## 4.5.[^119] Egyéb vasútgépészeti berendezés (vágányba épített vagy a vasúti pálya mellé telepített diagnosztikai berendezések, vasútüzemi létesítményekhez kapcsolódó gépészeti berendezések):
 
 ## a) helyszínrajz;
 
@@ -348,22 +348,22 @@
 
 2. melléklet a 289/2012. (X. 11.) Korm. rendelethez
 
-A vasúti építmények használatbavételi engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^118]
+A vasúti építmények használatbavételi engedélyezése iránti kérelem tartalmi követelményei építmény-fajtánként[^120]
 
-[^102]: Az 1. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (4) bekezdésével megállapított, nyitó szövegrésze a 204/2024. (VII. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^103]: Az 1. melléklet 1. pont a) alpont ag) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 1. pontja hatályon kívül helyezte.
-[^104]: Az 1. melléklet 1. pont b) alpont ba) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 2. pontja hatályon kívül helyezte.
-[^105]: Az 1. melléklet 1. pont d) alpontját a 204/2024. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
-[^106]: Az 1. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
-[^107]: Az 1. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
-[^108]: Az 1. melléklet 3.3. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
-[^109]: Az 1. melléklet 3.3. pont g) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^110]: Az 1. melléklet 3.3. pont h) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^111]: Az 1. melléklet 3.3. pont i) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^112]: Az 1. melléklet 3.3. pont j) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^113]: Az 1. melléklet 3.3. pont k) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^114]: Az 1. melléklet 3.3. pont l) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^115]: Az 1. melléklet 3.3. pont m) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^116]: Az 1. melléklet 3.3. pont n) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^117]: Az 1. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
-[^118]: A 2. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg.
+[^104]: Az 1. melléklet 1. pontja a 457/2017. (XII. 28.) Korm. rendelet 407. § (4) bekezdésével megállapított, nyitó szövegrésze a 204/2024. (VII. 29.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^105]: Az 1. melléklet 1. pont a) alpont ag) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 1. pontja hatályon kívül helyezte.
+[^106]: Az 1. melléklet 1. pont b) alpont ba) alpontját az 570/2021. (X. 6.) Korm. rendelet 4. § 2. pontja hatályon kívül helyezte.
+[^107]: Az 1. melléklet 1. pont d) alpontját a 204/2024. (VII. 29.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^108]: Az 1. melléklet 2.1. pont nyitó szövegrésze a 193/2016. (VII. 13.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet 2.2. pontját a 193/2016. (VII. 13.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^110]: Az 1. melléklet 3.3. pont nyitó szövegrésze a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése szerint módosított szöveg.
+[^111]: Az 1. melléklet 3.3. pont g) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^112]: Az 1. melléklet 3.3. pont h) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^113]: Az 1. melléklet 3.3. pont i) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^114]: Az 1. melléklet 3.3. pont j) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^115]: Az 1. melléklet 3.3. pont k) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^116]: Az 1. melléklet 3.3. pont l) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^117]: Az 1. melléklet 3.3. pont m) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^118]: Az 1. melléklet 3.3. pont n) pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^119]: Az 1. melléklet 4.5. pontját a 358/2013. (X. 9.) Korm. rendelet 5. § (7) bekezdése iktatta be.
+[^120]: A 2. melléklet címe a 457/2017. (XII. 28.) Korm. rendelet 407. § (5) bekezdésével megállapított szöveg.
