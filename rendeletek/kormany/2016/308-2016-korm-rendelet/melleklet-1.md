@@ -44,7 +44,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 20. erdővédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^14] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -52,3 +52,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 [^12]: A 8. §-t a 257/2017. (IX. 5.) Korm. rendelet 3. §-a iktatta be.
 [^13]: A hatálybalépés időpontja 2017. szeptember 6.
+[^14]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 209. §-a szerint módosított szöveg.
