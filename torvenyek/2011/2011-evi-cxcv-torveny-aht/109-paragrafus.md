@@ -86,7 +86,7 @@ részletes szabályait,
 
 31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a vármegyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 
-32. az épített környezet alakításáról és védelméről szóló törvény szerinti rozsdaövezeti akcióterületen létesített többlakásos lakóingatlanban kialakítandó vagy kialakított lakások vásárlásához a központi költségvetésből vissza nem térítendő állami támogatásként nyújtott adó-visszatérítési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
+32. a magyar építészetről szóló törvény szerinti rozsdaövezeti akcióterületen létesített többlakásos lakóingatlanban kialakítandó vagy kialakított lakások vásárlásához a központi költségvetésből vissza nem térítendő állami támogatásként nyújtott adó-visszatérítési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 
 33. az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait,
 
