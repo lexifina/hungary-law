@@ -10,27 +10,31 @@
 
 | 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 6. | vízügyi hatósági eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 6. | vízügyi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^20] |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média és Hírközlési Hatóság Hivatala |
 
-| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Pest Vármegyei Kormányhivatal[^20] |
+| 8. | földvédelmi, telekalakítási, földmérési, ingatlan- nyilvántartási hatósági eljárások | Pest Vármegyei Kormányhivatal[^21] |
 
-| 9. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal [^21] |
+| 9. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal [^22] |
 
-| 10. | erdészeti hatósági eljárások | Pest Vármegyei Kormányhivatal [^22] |
+| 10. | erdészeti hatósági eljárások | Pest Vármegyei Kormányhivatal [^23] |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes fővárosi és vármegyei kormányhivatal[^24] |
 
-| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^25] |
 
-| 13. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 13.[^26] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^23]
+2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^27]
 
 [^18]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
 [^19]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^20]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^21]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^22]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
-[^23]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte.
+[^20]: Az 1. mellékletben foglalt táblázat D:6 mezője a 257/2024. (VIII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat D:11 mezője a 257/2024. (VIII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat D:12 mezője a 257/2024. (VIII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat 13. sora a 257/2024. (VIII. 29.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^27]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 39. § e) pontja hatályon kívül helyezte.
