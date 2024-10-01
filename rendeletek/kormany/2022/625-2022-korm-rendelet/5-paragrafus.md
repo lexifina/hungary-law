@@ -10,6 +10,8 @@
 
 a) környezetvédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszerzi az környezetvédelemért felelős miniszter,
 
-b) vízvédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszerzi az országos vízügyi hatóság
+b)[^4] vízvédelemmel kapcsolatos megállapítást is tartalmaz, a miniszter beszerzi a vízügyi és vízvédelmi hatáskör szerint érintett fővárosi és vármegyei kormányhivatal
 
 véleményét.
+
+[^4]: Az 5. § (4) bekezdés b) pontja a 257/2024. (VIII. 29.) Korm. rendelet 357. §-a szerint módosított szöveg.

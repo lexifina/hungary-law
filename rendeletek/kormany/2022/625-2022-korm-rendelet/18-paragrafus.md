@@ -6,10 +6,10 @@ b) adatot szolgáltat a területi természetkárosításról a környezetkároso
 
 c) közreműködik a nemzetközi feladatok végrehajtásában;
 
-d)[^6] véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket;
+d)[^7] véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket;
 
 e) hozzáférhetővé teszi a természet állapotáról szerzett adatokat, és megfelelő tájékoztatást ad azokról;
 
 f) részt vesz a természetvédelmi tudat- és szemléletformáló feladatok ellátásában.
 
-[^6]: A 18. § d) pontja a 25. § (5) bekezdése szerint módosított szöveg.
+[^7]: A 18. § d) pontja a 25. § (5) bekezdése szerint módosított szöveg.

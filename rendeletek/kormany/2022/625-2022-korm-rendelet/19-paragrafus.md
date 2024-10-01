@@ -28,7 +28,7 @@ ea) az erdővagyon-védelmi tevékenységben,
 
 eb) a természetvédelmi szempontból védetté nem nyilvánított természetes növény- és állatvilág (vadászható vadfajok, fogható halfajok, az ősi hazai háziasított állatfajok, -fajták és ezek génkészletei) védelmében;
 
-f)[^7] véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket;
+f)[^8] véleményezi a kiemelt térségre és a vármegyére készülő területfejlesztési koncepciót és programot, valamint területrendezési tervet, továbbá a településrendezési eszközöket;
 
 g) együttműködik a kulturális örökségvédelmi feladatkörrel rendelkező szervekkel azok külön jogszabályban meghatározott örökségvédelemmel kapcsolatos feladatainak ellátásában;
 
@@ -40,4 +40,4 @@ j) kapcsolatot tart a vízügyi és vízvédelmi igazgatási és hatósági szer
 
 k) együttműködik a környezetvédelmi feladatkörrel rendelkező szervekkel, azok más jogszabályokban meghatározott környezetvédelmi feladatainak ellátásában.
 
-[^7]: A 19. § f) pontja a 25. § (5) bekezdése szerint módosított szöveg.
+[^8]: A 19. § f) pontja a 25. § (5) bekezdése szerint módosított szöveg.
