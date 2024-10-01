@@ -1,4 +1,4 @@
-2. melléklet a 65/2019. (III. 27.) Korm. rendelethez[^18]
+2. melléklet a 65/2019. (III. 27.) Korm. rendelethez[^19]
 
 Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejlesztések megvalósításával összefüggő beruházások
 
@@ -18,4 +18,4 @@ Nemzetgazdasági szempontból kiemelt jelentőségű, sportinfrastruktúra-fejle
 
 | 6. | Egy fővárosi sportlétesítmény korszerűsítésének előkészítése és megvalósítása | Budapest közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti belterület 38293/78 helyrajzi számú ingatlan |
 
-[^18]: A 2. melléklet a 269/2020. (VI. 11.) Korm. rendelet 3. §-a, a 494/2020. (XI. 11.) Korm. rendelet 4. §-a, a 227/2021. (V. 4.) Korm. rendelet 3. §-a, az 552/2021. (IX. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 269/2020. (VI. 11.) Korm. rendelet 3. §-a, a 494/2020. (XI. 11.) Korm. rendelet 4. §-a, a 227/2021. (V. 4.) Korm. rendelet 3. §-a, az 552/2021. (IX. 28.) Korm. rendelet 3. §-a szerint módosított szöveg.

@@ -46,7 +46,7 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 21. erdészeti hatósági eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^18] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -54,3 +54,4 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 [^16]: A 10. §-t az 552/2021. (IX. 28.) Korm. rendelet 2. §-a iktatta be.
 [^17]: A hatálybalépés időpontja 2021. szeptember 29.
+[^18]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 303. §-a szerint módosított szöveg.
