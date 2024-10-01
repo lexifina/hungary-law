@@ -14,21 +14,21 @@
 
 | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | vízügyi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság |
+| 8. | vízügyi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
 | 10. | földmérési, ingatlan-nyilvántartási hatósági eljárások, telekalakítási eljárások | Budapest Főváros Kormányhivatala |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
 | 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal |
 
-| 14. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 14. | a jogszabályokban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 15. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 15. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 16. | villamospálya átépítésének engedélyezési eljárása | közlekedésért felelős miniszter |
 

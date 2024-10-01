@@ -6,4 +6,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházás megvalósít�
 
 [^13]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 792/2021. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
 [^14]: A hatálybalépés időpontja 2021. december 28.
-[^15]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 36. §-ával megállapított, a 792/2021. (XII. 27.) Korm. rendelet 3. §-a, az 546/2022. (XII. 22.) Korm. rendelet 33. § b) pontja szerint módosított szöveg.
+[^15]: Az 1. melléklet a 361/2019. (XII. 30.) Korm. rendelet 36. §-ával megállapított, a 792/2021. (XII. 27.) Korm. rendelet 3. §-a, az 546/2022. (XII. 22.) Korm. rendelet 33. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 82. és 83. §-a szerint módosított szöveg.
