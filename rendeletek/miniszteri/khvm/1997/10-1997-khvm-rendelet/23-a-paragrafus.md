@@ -1,6 +1,6 @@
-## 23. §[^70] A belvizek szükségtározására igénybe veendő területeket elő kell készíteni. A szükségtározó igénybevételét a vízügyi igazgató kezdeményezésére, a Törzs vezetőjének javaslatára, a vízügyi igazgatási szervek irányításáért felelős miniszter engedélyezi.
+## 23. §[^71] A belvizek szükségtározására igénybe veendő területeket elő kell készíteni. A szükségtározó igénybevételét a vízügyi igazgató kezdeményezésére, a Törzs vezetőjének javaslatára, a vízügyi igazgatási szervek irányításáért felelős miniszter engedélyezi.
 
-## III/A.[^71] Helyi vízkárelhárítás
+## III/A.[^72] Helyi vízkárelhárítás
 
 23/A. § (1) A helyi vízkárelhárítási készültséget egy adott védekezési feladat ellátásához kapcsolódó vízfolyás vízgyűjtőjére és létesítményeire, tározóra vagy az adott önkormányzat közigazgatási területére lehet elrendelni.
 
@@ -16,5 +16,5 @@ alapján is elrendelhető.
 
 (4) Helyi vízkárelhárítás során a védekezésre kötelezettek védelmi tevékenységüket az (1) és (2) bekezdésben meghatározott helyszíneken, vízkárelhárítási készültségi fokozat elrendelése mellett látják el.
 
-[^70]: A 23. § a 49/2016. (XII. 14.) BM rendelet 12. § h) pontja szerint módosított szöveg.
-[^71]: A III/A. alcímet (23/A–23/F. §) a 35/2021. (X. 14.) BM rendelet 1. § (10) bekezdése iktatta be.
+[^71]: A 23. § a 49/2016. (XII. 14.) BM rendelet 12. § h) pontja szerint módosított szöveg.
+[^72]: A III/A. alcímet (23/A–23/F. §) a 35/2021. (X. 14.) BM rendelet 1. § (10) bekezdése iktatta be.

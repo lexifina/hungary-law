@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-10-20-6
 | 2022-01-01 | 1997-10-20-6B.18 | 35/2021. (X. 14.) BM rendelet |
 | 2022-12-10 | 1997-10-20-6B.19 | 41/2022. (XII. 9.) BM rendelet |
 | 2023-01-01 | 1997-10-20-6B.20 | 45/2022. (XII. 20.) BM rendelet |
+| 2024-10-01 | 1997-10-20-6B.21 | 14/2024. (IX. 2.) EM rendelet |
