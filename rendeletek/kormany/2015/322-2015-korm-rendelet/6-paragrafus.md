@@ -36,4 +36,6 @@ c) a külön jogszabályban meghatározott tervezési programot;
 
 d) a tervezési feladat tárgyát képező építési beruházásra (építményre) vonatkozó árazott költségvetés elkészítésére való utalást;
 
-e) amennyiben az építési beruházás megfelelő megvalósítása érdekében e rendelet, vagy az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) 33. § (4) bekezdése szerinti tervezői művezetés igénybevétele szükséges, az ajánlatkérő erre vonatkozó igényét, valamint az azzal kapcsolatos valamennyi követelményt.
+e)[^4]
+
+[^4]: A 6. § (2) bekezdés e) pontját a 285/2024. (IX. 30.) Korm. rendelet 112. § (2) bekezdés a) pontja hatályon kívül helyezte.

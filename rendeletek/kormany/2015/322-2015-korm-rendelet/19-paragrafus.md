@@ -2,6 +2,6 @@
 
 (2) Ha az ajánlatkérő közbeszerzését keretmegállapodás útján valósítja meg, a keretmegállapodás megkötésére irányuló eljárás közbeszerzési dokumentumaiban foglalt árazatlan költségvetésnek elegendő a keretmegállapodás tárgyát képező, egységárakkal beárazandó egyes tételeket tartalmaznia további részletezés nélkül, feltéve, hogy a megvalósítandó építési beruházásokra vonatkozóan további információ még nem áll rendelkezésre.
 
-(3)[^24] Ha az ajánlatkérő olyan építési beruházásnak minősülő kivitelezési munkák elvégzésére köt szerződést, amelyek esetében a megfelelő ajánlattételhez nem szükséges tervek rendelkezésre állása, és az ellenértéket a benyújtott árazott költségvetés szerinti tételes elszámolással határozzák meg, a közbeszerzési dokumentumoknak elegendő az egyes tételekre vonatkozó műszaki leírást tartalmaznia. Ebben az esetben a 13. § (1) bekezdése nem alkalmazandó.
+(3)[^25] Ha az ajánlatkérő olyan építési beruházásnak minősülő kivitelezési munkák elvégzésére köt szerződést, amelyek esetében a megfelelő ajánlattételhez nem szükséges tervek rendelkezésre állása, és az ellenértéket a benyújtott árazott költségvetés szerinti tételes elszámolással határozzák meg, a közbeszerzési dokumentumoknak elegendő az egyes tételekre vonatkozó műszaki leírást tartalmaznia. Ebben az esetben a 13. § (1) bekezdése nem alkalmazandó.
 
-[^24]: A 19. § (3) bekezdését az 503/2021. (VIII. 18.) Korm. rendelet 5. §-a iktatta be.
+[^25]: A 19. § (3) bekezdését az 503/2021. (VIII. 18.) Korm. rendelet 5. §-a iktatta be.
