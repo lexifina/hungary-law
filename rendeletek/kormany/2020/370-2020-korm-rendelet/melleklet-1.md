@@ -56,7 +56,7 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 26. területrendezési hatósági eljárások,
 
-27. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+27.[^19] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 28. azok az 1–27. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
@@ -64,3 +64,4 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 [^17]: A 9. §-t az 525/2021. (IX. 8.) Korm. rendelet 14. §-a iktatta be.
 [^18]: A hatálybalépés időpontja 2021. szeptember 9.
+[^19]: Az 1. melléklet 27. pontja a 257/2024. (VIII. 29.) Korm. rendelet 317. §-a szerint módosított szöveg.
