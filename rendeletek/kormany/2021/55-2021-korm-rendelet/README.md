@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2021-55-20-2
 | --- | --- | --- |
 | 2021-02-10 | 2021-55-20-22.1 | 55/2021. (II. 9.) Korm. rendelet |
 | 2022-12-23 | 2021-55-20-22.2 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2021-55-20-22.3 | 257/2024. (VIII. 29.) Korm. rendelet |
