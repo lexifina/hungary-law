@@ -1,5 +1,5 @@
 27. § (1) A családi otthonteremtési kedvezményre való jogosultságot és a kedvezmény mértékét a kérelem benyújtásakor hatályos jogszabályok alapján kell megállapítani. A jogosultság feltételeinek meglétét az igénylő a 30. § (1) bekezdése szerinti dokumentumokkal igazolja a hitelintézet számára.
 
-(2)[^162]
+(2)[^170]
 
-[^162]: A 27. § (2) bekezdését a 169/2023. (V. 12.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^170]: A 27. § (2) bekezdését a 169/2023. (V. 12.) Korm. rendelet 26. § a) pontja hatályon kívül helyezte.

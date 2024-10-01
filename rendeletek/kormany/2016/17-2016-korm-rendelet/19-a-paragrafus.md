@@ -1,10 +1,10 @@
-## 7/A. [^106] A preferált kistelepülésre vonatkozó különös szabályok
+## 7/A. [^109] A preferált kistelepülésre vonatkozó különös szabályok
 
 19/A. § (1) E rendelet rendelkezéseit a preferált kistelepülésen lévő lakás, valamint a külterületi lakás (a továbbiakban együtt: preferált kistelepülésen lévő lakás) vonatkozásában az ezen alcím szerinti eltérésekkel kell alkalmazni.
 
-(2)[^107]
+(2)[^110]
 
-(3)[^108] Az ezen alcím rendelkezései szerinti családi otthonteremtési kedvezményre, otthonteremtési kamattámogatásra és adó-visszatérítési támogatásra az igénylő, együttes igénylők esetén bármelyik igénylő egy alkalommal jogosult.
+(3)[^111] Az ezen alcím rendelkezései szerinti családi otthonteremtési kedvezményre, otthonteremtési kamattámogatásra és adó-visszatérítési támogatásra az igénylő, együttes igénylők esetén bármelyik igénylő egy alkalommal jogosult.
 
 (4) A preferált kistelepülésen ezen alcím szerinti családi otthonteremtési kedvezmény iránti kérelem használt lakás vásárlására abban az esetben nyújtható be, ha az igénylő ugyanazon kérelemben a lakás
 
@@ -16,9 +16,9 @@ c) korszerűsítésére és bővítésére
 
 is igényli a családi otthonteremtési kedvezményt.
 
-(5)[^109] Ha a támogatott személy a (4) bekezdés a)–c) pontja szerinti, a támogatási szerződésben általa vállalt munkálatokat nem teljesíti, a folyósított családi otthonteremtési kedvezményt – ideértve annak a lakás vásárlására számított összegét is – a folyósítás napjától számított, Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten köteles visszafizetni. Ha a támogatott személy visszafizetési kötelezettségének nem vagy nem megfelelően tesz eleget, a hitelintézet tájékoztatja erről a kormányhivatalt.
+(5)[^112] Ha a támogatott személy a (4) bekezdés a)–c) pontja szerinti, a támogatási szerződésben általa vállalt munkálatokat nem teljesíti, a folyósított családi otthonteremtési kedvezményt – ideértve annak a lakás vásárlására számított összegét is – a folyósítás napjától számított, Ptk. szerinti, de 5%-ot meg nem haladó mértékű késedelmi kamattal növelten köteles visszafizetni. Ha a támogatott személy visszafizetési kötelezettségének nem vagy nem megfelelően tesz eleget, a hitelintézet tájékoztatja erről a kormányhivatalt.
 
-(5a)[^110] Nem vehető igénybe a (4) bekezdés szerinti támogatás, ha az igénylő az általa 5 éven belül elidegenített lakás tulajdonjogát kívánja így visszavásárolni.
+(5a)[^113] Nem vehető igénybe a (4) bekezdés szerinti támogatás, ha az igénylő az általa 5 éven belül elidegenített lakás tulajdonjogát kívánja így visszavásárolni.
 
 (6) A preferált kistelepülésen ezen alcím szerinti családi otthonteremtési kedvezmény meglévő lakás
 
@@ -32,8 +32,8 @@ igényelhető, abban az esetben is, ha az igénylő a kérelem benyújtását me
 
 (7) Ha az igénylő a korszerűsítési és a bővítési munkálatokra egyaránt igényel családi otthonteremtési kedvezményt, azt a kérelem egyidejűleg történő benyújtásával teheti meg.
 
-[^106]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.
-[^107]: A 19/A. § (2) bekezdését a 649/2023. (XII. 28.) Korm. rendelet 20. § (8) bekezdés a) pontja hatályon kívül helyezte.
-[^108]: A 19/A. § (3) bekezdése a 276/2019. (XI. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
-[^109]: A 19/A. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § b) pontja, a 372/2022. (IX. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
-[^110]: A 19/A. § (5a) bekezdését az 595/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
+[^109]: A 7/A. alcímet (19/A–19/H. §) a 109/2019. (V. 13.) Korm. rendelet 3. §-a iktatta be.
+[^110]: A 19/A. § (2) bekezdését a 649/2023. (XII. 28.) Korm. rendelet 20. § (8) bekezdés a) pontja hatályon kívül helyezte.
+[^111]: A 19/A. § (3) bekezdése a 276/2019. (XI. 21.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^112]: A 19/A. § (5) bekezdése a 30/2020. (II. 29.) Korm. rendelet 27. § b) pontja, a 372/2022. (IX. 29.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
+[^113]: A 19/A. § (5a) bekezdését az 595/2022. (XII. 28.) Korm. rendelet 4. §-a iktatta be.
