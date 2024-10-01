@@ -4,7 +4,7 @@
 
 a) polgári célú légiközlekedéssel összefüggő szakértői tevékenység esetén a légiközlekedési hatóságnak,
 
-b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység esetén a katonai légügyi hatóságnak, vagy – a Kormány rendeletében meghatározott szakterületek esetében – a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara)
+b) állami célú légiközlekedéssel kapcsolatos szakértői tevékenység esetén a katonai légügyi hatóságnak, vagy – a Kormány rendeletében meghatározott szakterületek esetében – a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara)
 
 bejelenteni. A bejelentésben meg kell jelölni a bejelentő természetes személyazonosító adatait, lakcímét, elérhetőségét és iskolai végzettségét.
 

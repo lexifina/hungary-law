@@ -1,16 +1,16 @@
-66/B. § (1) Nincs helye hivatásos katasztrófavédelmi szerv általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
+66/B. § (1) Nincs helye a Kormány rendeletében kijelölt hatóság általi bírság kiszabásának, ha a jogsértő cselekmény elkövetése óta két év eltelt (elévülés).
 
 (2)
 
-(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a hivatásos katasztrófavédelmi szerv bírságot nem szabhat ki.
+(3) Ugyanazon jogszabálysértésért a légiközlekedési hatóság és a Kormány rendeletében kijelölt hatóság bírságot nem szabhat ki.
 
 (4) A 3/F. § alapján kiszabott és beszedett bírság a központi költségvetés központosított bevételét képezi.
 
-(5) A hivatásos katasztrófavédelmi szerv az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a hivatásos katasztrófavédelmi szerv a kötelezettet eljárási bírsággal sújtja.
+(5) A Kormány rendeletében kijelölt hatóság az e törvény alapján hivatalból indított eljárása során – annak tárgyával összefüggésben – az ügyfelet az érdemi döntéshez szükséges adatszolgáltatásra vagy nyilatkozattételre kötelezheti. Az adatszolgáltatás vagy nyilatkozattétel elmulasztása, az ügy eldöntése szempontjából jelentős tény elhallgatása, valótlan tény állítása, illetve valótlan adatok közlése estén a Kormány rendeletében kijelölt hatóság a kötelezettet eljárási bírsággal sújtja.
 
-(6) A hivatásos katasztrófavédelmi szerv a veszélyes áru szállításában érintett vállalkozásra, továbbá természetes személyre vonatkozó természetes személyazonosító adatokat, lakcímadatokat a légiközlekedés biztonsága érdekében a (8) bekezdés b) pontjában meghatározott ideig kezeli.
+(6) A Kormány rendeletében kijelölt hatóság a veszélyes áru szállításában érintett vállalkozásra, továbbá természetes személyre vonatkozó természetes személyazonosító adatokat, lakcímadatokat a légiközlekedés biztonsága érdekében a (8) bekezdés b) pontjában meghatározott ideig kezeli.
 
-(7) A veszélyes áruk légi úton történő szállításával kapcsolatos nyilvántartásában a hivatásos katasztrófavédelmi szerv a következő adatokat kezeli:
+(7) A veszélyes áruk légi úton történő szállításával kapcsolatos nyilvántartásában a Kormány rendeletében kijelölt hatóság a következő adatokat kezeli:
 
 a) a bejelentő szervezet vagy természetes személy nevét, címét, elérhetőségét,
 
@@ -54,7 +54,7 @@ p) a bírság befizetésére kötelezett megnevezését, címét,
 
 q) a bírság mértékét, a befizetés határidejét, a befizetés tényét.
 
-(8) A bírságnyilvántartásban szereplő adatokat a hivatásos katasztrófavédelmi szerv
+(8) A bírságnyilvántartásban szereplő adatokat a Kormány rendeletében kijelölt hatóság
 
 a) a bírság befizetését vagy a végrehajthatóság elévülését követően két évig,
 

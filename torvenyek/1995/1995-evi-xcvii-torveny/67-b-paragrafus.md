@@ -22,7 +22,7 @@ c) katasztrófavédelmi, tűzvédelmi hatósági feladatok ellátása
 
 céljából is felhasználható.
 
-(7) A (6) bekezdés érdekében a földi kiszolgáló az (1) bekezdésében foglaltak szerint rögzített felvételt a légiközlekedési hatóság, a rendőrség, a nemzetbiztonsági szolgálat, valamint a hivatásos katasztrófavédelmi szerv részére, erre irányuló megkeresés esetén továbbítja.
+(7) A (6) bekezdés érdekében a földi kiszolgáló az (1) bekezdésében foglaltak szerint rögzített felvételt a légiközlekedési hatóság, a rendőrség, a nemzetbiztonsági szolgálat, valamint a Kormány rendeletében kijelölt hatóság részére, erre irányuló megkeresés esetén továbbítja.
 
 (8) Akinek jogát vagy jogos érdekét a felvétel rögzítése vagy további felhasználása érinti (e § alkalmazásában a továbbiakban együtt: érintett), jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt a földi kiszolgáló a (3) bekezdésben meghatározottak szerint – jogainak gyakorlásához szükséges eljárás megindításáig – legfeljebb 90 napig ne törölje. Ez a jog nem érinti a személyes adatok védelmére vonatkozó, az Európai Unió kötelező jogi aktusa, illetve a nemzeti jog alapján az érintett által gyakorolható egyéb jogokat.
 

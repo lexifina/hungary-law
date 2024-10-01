@@ -154,4 +154,4 @@ d) az általános rendőrségi feladatok ellátására létrehozott szerv, a ter
 
 e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 
-(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a hivatásos katasztrófavédelmi szerv is végzi.
+(5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a Kormány rendeletében kijelölt hatóság (a továbbiakban: a Kormány rendeletében kijelölt hatóság) is végzi.

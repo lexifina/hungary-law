@@ -54,7 +54,7 @@ z) a légiközlekedési terep és akadály adatbázis létrehozásának, működ
 
 zs) a repülőtér akadálykorlátozási felületeinek kijelölésére az akadálykorlátozási felület fölé nyúló építményekre és a légiközlekedési akadályok jelölésére vonatkozó részletes szabályokat.
 
-aa) a veszélyes áru szállítása bejelentésének részlet szabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának a hivatásos katasztrófavédelmi szerv által végzett ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a hivatásos katasztrófavédelmi szerv által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
+aa) a veszélyes áru szállítása bejelentésének részletszabályait, a veszélyes áruk légi szállításra történő előkészítésére, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbítására vonatkozó jogszabályi előírások betartásának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett ellenőrzésre és a bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az e törvény alapján az egyes szabálytalanságokért a Kormány rendeletében kijelölt hatóság által kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok részletes szabályait,
 
 bb)
 
