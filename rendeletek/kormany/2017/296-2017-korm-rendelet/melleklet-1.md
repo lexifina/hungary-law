@@ -36,8 +36,10 @@ Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági 
 
 17. közegészségügyi hatósági eljárások,
 
-18. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+18.[^9] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 19. azok az 1–18. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^9]: Az 1. melléklet 18. pontja a 257/2024. (VIII. 29.) Korm. rendelet 266. §-a szerint módosított szöveg.
