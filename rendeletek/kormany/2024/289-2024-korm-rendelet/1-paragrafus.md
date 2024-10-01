@@ -1,0 +1,3 @@
+1. § A rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet (a továbbiakban: R.) a következő 15. §-sal egészül ki:
+
+„15. § E rendeletnek a rozsdaövezeti akcióterületek kijelöléséről és egyes akcióterületeken megvalósuló beruházásokra irányadó sajátos követelményekről szóló 619/2021. (XI. 8.) Korm. rendelet módosításáról szóló 289/2024. (IX. 30.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított 1. mellékletében foglalt táblázat 55–63. sorát a Módr7. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
