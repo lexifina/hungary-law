@@ -1,6 +1,6 @@
 72. § (1) A 71. § (1) bekezdése és a (2) bekezdés a) és f) pontja szerinti nyilvántartás a védettség fennállására vonatkozó adatok tekintetében közhiteles hatósági nyilvántartásnak minősül, mely tanúsítja a védettség létrejöttének, fennállásának vagy megszüntetésének tényét. A kulturális örökség védelme érdekében a hatóság a nyilvántartás egyes adataihoz való hozzáférést – az (1a) bekezdésben meghatározott kivételekkel – jogszabály alapján korlátozhatja.
 
-(1a) A 71. § (1) bekezdés a) és c)–d) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
+(1a) A 71. § (1) bekezdés a) és c) pontja esetében a védettség tényére vonatkozó adatokhoz való hozzáférés nem korlátozható. A védettség tényére vonatkozó adatot nyilvánosan elérhető elektronikus felületen hozzáférhetővé kell tenni.
 
 (2) A nyilvántartás a kulturális örökség elemeinek azonosításához szükséges adatokat és tényeket tartalmazza.
 

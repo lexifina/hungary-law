@@ -1,1 +1,1 @@
-75/C. § A régészeti örökség és a műemléki érték védelmével kapcsolatos örökségvédelmi hatósági eljárásokban az eljáró hatóság az eljárást elektronikus ügyintézés keretében folytatja le, az ügyfél elektronikus úton tart kapcsolatot az eljáró hatósággal.
+75/C. § A régészeti örökség védelmével kapcsolatos örökségvédelmi hatósági eljárásokban az eljáró hatóság az eljárást elektronikus ügyintézés keretében folytatja le, az ügyfél elektronikus úton tart kapcsolatot az eljáró hatósággal.

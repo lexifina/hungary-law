@@ -1,1 +1,1 @@
-61/E. § Kiemelt nemzeti emlékhely esetében a 61/D. § (1) bekezdés a) pontjában és a 61/D. § (3) bekezdés b)–d) pontjában meghatározott állami feladatokat az Országgyűlés elnökével egyetértésben kell ellátni.
+### 61/E. §

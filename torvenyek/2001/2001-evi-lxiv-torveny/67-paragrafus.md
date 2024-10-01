@@ -2,25 +2,25 @@
 
 67. § (1) A védett kulturális örökségi elemmel összefüggő tevékenységek vonatkozásában a hatóság:
 
-a) az örökségvédelem szabályainak megsértése esetén a műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
+a) az örökségvédelem szabályainak megsértése esetén a nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak vonatkozásában elrendelheti a beavatkozást megelőző állapot helyreállítását, valamint a fenntartható használatra vonatkozó kötelezettség teljesítését, a méltatlan használat megszüntetését,
 
-b) műemlékek, nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység abbahagyására kötelezni,
+b) nyilvántartott régészeti lelőhelyek és védetté nyilvánított kulturális javak károsítása, veszélyeztetése esetén jogosult a tevékenységet leállítani, és az ilyen magatartás tanúsítóját e tevékenység abbahagyására kötelezni,
 
-c) elrendelheti a műemlékek állagmegóvására vagy jókarbantartására vonatkozó kötelezettség teljesítését,
+c)
 
-d) a 61/K. § (6) bekezdése szerinti esetben és körben elrendelheti – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján vagy véleményének kikérésével – a kiemelt nemzeti emlékhelyen és annak településkép-védelmi környezetében építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását,
+d)
 
-e) amennyiben a műemlék jelenkori állapota – a védett vagy a védettséget megalapozó korábbi és jelentős építési korszak szerinti állapotától eltérően – szomszédos ingatlan kiemelt közérdekű beruházás részeként megvalósuló, jogszabályban meghatározott módon és feltételek szerint való beépítését vagy beépítését követő használatát akadályozza, elrendelheti épület, építmény, építményrész – meghatározott időtartamon belül teljesítendő – felújítását, átalakítását a 43. § (5) és (5c) bekezdésében meghatározott célok érdekében és korlátok között. A hatóság a döntést azonnal végrehajthatóvá nyilváníthatja, ha kiemelten közérdekű beruházásnak a szomszédos ingatlanon való megvalósításával összefüggésben kerül sor a felújítás, illetve átalakítás elrendelésére, és a végrehajtás késedelme a kiemelten közérdekű beruházás megvalósítását akadályozza vagy késlelteti.
+e)
 
-(2) A hatóság
+(2) Az örökségvédelmi hatóság és kulturális javak hatósága
 
-a) az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
+a) az (1) bekezdés a)és b) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, a társasházat, továbbá a használót vagy az építtetőt, és a kivitelezőt,
 
-b) az (1) bekezdés d) és e) pontjában meghatározott kötelezettségek teljesítésére a tulajdonost, a tulajdonosi joggyakorlót, a vagyonkezelőt, illetve a társasházat
+b)
 
 kötelezheti.
 
-(3) Amennyiben a kötelezett az (1) bekezdés a)–c) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
+(3) Amennyiben a kötelezett az (1) bekezdés a) és b) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget és ezzel a védett kulturális örökség veszélybe kerül, a hatóság örökségvédelmi bírság kiszabásáról intézkedik és
 
 a) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet;
 
@@ -30,15 +30,11 @@ c) elrendelheti a védetté nyilvánított kulturális javak közgyűjteményben
 
 d) kezdeményezheti a vagyonkezelői szerződés felülvizsgálatát, illetve a használati jog megszüntetését.
 
-(3a) Ha a kötelezett az (1) bekezdés d) és e) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, a hatóság
+(3a) Ha a kötelezett az (1) bekezdés a) és b) pontja szerinti hatósági kötelezésben foglaltaknak nem tesz eleget, az örökségvédelmi hatóság vagy a kulturális javak hatósága a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
 
-a) településkép-védelmi bírság kiszabásáról intézkedik, valamint
+(3b) Az (1) bekezdés a) és b) pontjában meghatározott kötelezettségek megszegése esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
 
-b) a munkákat a kötelezett helyett annak költségére és felelősségére elvégeztetheti, más érdekelt, különösen tulajdonostárs erre irányuló kérelme esetén akként is, hogy a munkálatok költségének előlegezésére feljogosítja az érdekeltet.
-
-(3b) Az (1) bekezdés a)–c) pontjában meghatározott kötelezettségek megszegése esetén közigazgatási szankcióként figyelmeztetés nem alkalmazható.
-
-(4) A végleges és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés b) pontja szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
+(4) A végleges és végrehajtható határozatban megállapított (3) bekezdés a) pontja és a (3a) bekezdés szerinti követelés biztosítékául a Magyar Államot a védett kulturális örökségi elemen jelzálogjog, valamint annak fennállásáig terhelési tilalom illeti meg.
 
 (5) A hatóság által elvégeztetett munka költsége adók módjára behajtandó köztartozásnak minősül és adók módjára kell behajtani.
 

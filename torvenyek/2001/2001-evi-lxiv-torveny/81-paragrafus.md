@@ -14,9 +14,9 @@ f) kártalanítás;
 
 g) a régészeti emlék vagy lelet felfedezőjének jutalmazása;
 
-h) a műemlékek, kiemelten a veszélyeztetett műemlékek állagmegóvásának, helyreállításának vagy jókarbantartásának támogatása;
+h)
 
-i) a műemlékek fennmaradását és méltó hasznosítását is szolgáló helyi önkormányzati fejlesztési programok támogatása;
+i)
 
 j) az örökségvédelmi többletköltség;
 
