@@ -48,9 +48,9 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő, nemzetgazdasági sze
 
 23.[^13] élelmiszerlánc-felügyeleti eljárás,
 
-24.[^14] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+24.[^14] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
-25.[^15] katasztrófavédelmi hatósági engedélyezési eljárások,
+25.[^15]
 
 26.[^16] az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
@@ -58,6 +58,6 @@ Az 1. mellékletben foglalt beruházásokkal összefüggő, nemzetgazdasági sze
 [^11]: A 2. melléklet 21. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^12]: A 2. melléklet 22. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
 [^13]: A 2. melléklet 23. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^14]: A 2. melléklet 24. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^15]: A 2. melléklet 25. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^14]: A 2. melléklet 24. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 257/2024. (VIII. 29.) Korm. rendelet 263. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet 25. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 264. §-a hatályon kívül helyezte.
 [^16]: A 2. melléklet 26. pontját a 823/2021. (XII. 28.) Korm. rendelet 2. § (2) bekezdése iktatta be.
