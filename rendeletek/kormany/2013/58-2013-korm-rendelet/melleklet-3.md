@@ -232,6 +232,6 @@
 
 ## 22. működési engedély módosítása iránti kérelem esetén az 1–21. pontban meghatározott mellékletek közül elegendő azokat mellékelni, amelyek vonatkozásában a korábbi engedélyezési eljárásban benyújtotthoz képest változás történt, és a változatozással nem érintett tárgykörök esetében elegendő azok változatlanságáról nyilatkozni.
 
-3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^387]
+3. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^388]
 
-[^387]: A 3. melléklet a 243/2023. (VI. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^388]: A 3. melléklet a 243/2023. (VI. 20.) Korm. rendelet 16. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-34. § (1)[^109] A Hivatal a víziközmű-szolgáltatói és működési engedélyezési eljárás során – a Vksztv.-ben és az e rendeletben foglalt követelményeken túlmenően – figyelembe veszi a víziközmű-szolgáltatás körében okszerűen felmerülő tevékenységre is kihatással bíró módon kötelezettséget rögzítő, és ezáltal a víziközmű-szolgáltatást végző gazdasági társaságokra is vonatkozó jogszabályi rendelkezéseket.
+34. § (1)[^110] A Hivatal a víziközmű-szolgáltatói és működési engedélyezési eljárás során – a Vksztv.-ben és az e rendeletben foglalt követelményeken túlmenően – figyelembe veszi a víziközmű-szolgáltatás körében okszerűen felmerülő tevékenységre is kihatással bíró módon kötelezettséget rögzítő, és ezáltal a víziközmű-szolgáltatást végző gazdasági társaságokra is vonatkozó jogszabályi rendelkezéseket.
 
 (2) Az (1) bekezdés szerinti körbe tartoznak különösen:
 
@@ -24,7 +24,7 @@ j) az adat- és iratkezelés
 
 tárgykörét szabályozó jogszabályok.
 
-(3)[^110] Amennyiben más jogszabály előírásainak csak más hatóság engedélyének megszerzése útján lehet eleget tenni, vagy az annak való megfelelést más szerv által kiadott okirat igazolja, az engedély iránti kérelemben a 3. mellékletben meghatározott tartalommal nyilatkozni kell az engedély vagy az okirat meglétéről.
+(3)[^111] Amennyiben más jogszabály előírásainak csak más hatóság engedélyének megszerzése útján lehet eleget tenni, vagy az annak való megfelelést más szerv által kiadott okirat igazolja, az engedély iránti kérelemben a 3. mellékletben meghatározott tartalommal nyilatkozni kell az engedély vagy az okirat meglétéről.
 
-[^109]: A 34. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
-[^110]: A 34. § (3) bekezdésében a 342/2016. (XI. 17.) Korm. rendelet 39. § 15. pontjával elrendelt módosítás nem vezethető át.
+[^110]: A 34. § (1) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 14. pontja szerint módosított szöveg.
+[^111]: A 34. § (3) bekezdésében a 342/2016. (XI. 17.) Korm. rendelet 39. § 15. pontjával elrendelt módosítás nem vezethető át.

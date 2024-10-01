@@ -218,7 +218,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^403]
+11. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^404]
 
 ## A Vksztv. 6. § (6) bekezdésében meghatározott kérelemhez az üzemeltetés alatt álló vízilétesítmény esetén mellékelni kell:
 
@@ -258,4 +258,4 @@
 
 6. a vízilétesítményhez csatlakozott lakossági felhasználók számát.
 
-[^403]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.
+[^404]: A 11. mellékletet a 243/2023. (VI. 20.) Korm. rendelet 16. § (6) bekezdése iktatta be.

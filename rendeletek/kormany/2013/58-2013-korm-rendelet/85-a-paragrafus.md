@@ -1,4 +1,4 @@
-85/A. §[^302] (1)[^303] A lakossági felhasználó háztartási szennyvizét – közvetlenül vagy közvetve – a törzshálózatba juttató szivattyúnak, vákuumszelepnek és ezek műtárgyainak, szerelvényeinek (a továbbiakban együtt: szennyvíz beemelő)
+85/A. §[^303] (1)[^304] A lakossági felhasználó háztartási szennyvizét – közvetlenül vagy közvetve – a törzshálózatba juttató szivattyúnak, vákuumszelepnek és ezek műtárgyainak, szerelvényeinek (a továbbiakban együtt: szennyvíz beemelő)
 
 a) a szennyvízelvezető törzshálózattal egyidejű kiépítése – a víziközmű-szolgáltatóval történő eltérő megállapodás hiányában – az ellátásért felelős,
 
@@ -6,7 +6,7 @@ b) a működtetése működőképességének és üzembiztonságának, üzemkép
 
 feladata.
 
-(1a)[^304] A szennyvíz beemelő (1) bekezdés a) pontjában meghatározott kiépítéshez a felhasználó korlátozásmentesen biztosítja a szennyvíz beemelő létesítési hely megközelítési és hozzáférési lehetőségét.
+(1a)[^305] A szennyvíz beemelő (1) bekezdés a) pontjában meghatározott kiépítéshez a felhasználó korlátozásmentesen biztosítja a szennyvíz beemelő létesítési hely megközelítési és hozzáférési lehetőségét.
 
 (2) A szennyvíz beemelő működtetéséhez a felhasználó biztosítja:
 
@@ -30,12 +30,12 @@ f) egyéb, az átadó vagy az átvevő által lényegesnek tartott megállapít�
 
 (4) A (2) bekezdésben meghatározott feladat elmulasztására visszavezethető kárért a víziközmű-szolgáltató nem felel. A mulasztás bizonyítása a víziközmű-szolgáltató feladata.
 
-(5)[^305] Ha arra korábban nem került sor, a felhasználó által kiépített szennyvíz beemelő akkor kerül az ellátásért felelős vagy rendszerfüggetlen víziközmű-elem esetében a víziközmű-szolgáltató tulajdonába, amikor a fő szerkezeti egység cseréje (új szivattyú, vákuumszelep vagy műtárgy beépítése) válik szükségessé, vagy megvalósul annak felhasználási helytől független energiaellátása.
+(5)[^306] Ha arra korábban nem került sor, a felhasználó által kiépített szennyvíz beemelő akkor kerül az ellátásért felelős vagy rendszerfüggetlen víziközmű-elem esetében a víziközmű-szolgáltató tulajdonába, amikor a fő szerkezeti egység cseréje (új szivattyú, vákuumszelep vagy műtárgy beépítése) válik szükségessé, vagy megvalósul annak felhasználási helytől független energiaellátása.
 
-(6)[^306]
+(6)[^307]
 
-[^302]: A 85/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
-[^303]: A 85/A. § (1) bekezdés nyitó szövegrésze a 292/2014. (XI. 26.) Korm. rendelet 37. § 50. pontja, a 342/2016. (XI. 17.) Korm. rendelet 39. § 27. pontja szerint módosított szöveg.
-[^304]: A 85/A. § (1a) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 21. § (1) bekezdése iktatta be.
-[^305]: A 85/A. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
-[^306]: A 85/A. § (6) bekezdését az 598/2023. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^303]: A 85/A. §-t a 458/2013. (XII. 2.) Korm. rendelet 1. §-a iktatta be.
+[^304]: A 85/A. § (1) bekezdés nyitó szövegrésze a 292/2014. (XI. 26.) Korm. rendelet 37. § 50. pontja, a 342/2016. (XI. 17.) Korm. rendelet 39. § 27. pontja szerint módosított szöveg.
+[^305]: A 85/A. § (1a) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 21. § (1) bekezdése iktatta be.
+[^306]: A 85/A. § (5) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^307]: A 85/A. § (6) bekezdését az 598/2023. (XII. 21.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## 14. A kiszervezésre vonatkozó engedélyezési eljárás speciális szabályai
 
-43. §[^121] (1) Ha a víziközmű-szolgáltató valamely 49. § szerinti tevékenységet részben vagy egészben ki kíván szervezni, a tevékenység kiszervezését megelőzően a kiszervezés engedélyezése érdekében kérelemmel fordul a Hivatalhoz.
+43. §[^122] (1) Ha a víziközmű-szolgáltató valamely 49. § szerinti tevékenységet részben vagy egészben ki kíván szervezni, a tevékenység kiszervezését megelőzően a kiszervezés engedélyezése érdekében kérelemmel fordul a Hivatalhoz.
 
 (2) A kérelem tartalmazza:
 
@@ -8,7 +8,7 @@
 
 2. a kiszervezéssel érintett tevékenységnek a kérelem benyújtása napján alkalmazott megoldása részletes ismertetését,
 
-3.[^122]
+3.[^123]
 
 4. annak bemutatását, hogy a kérelmező milyen szerződési konstrukció keretében, mely lényeges, a teljesítés megfelelőségét biztosító mellékkötelmi eszközök útján kívánja a teljesítés minőségét, folyamatosságát megerősíteni,
 
@@ -34,5 +34,5 @@ b) a tevékenység saját ellátásához szükséges többlet saját kapacitáso
 
 c) amennyiben a kiszervezni kívánt tevékenységet korábban is kiszervezés útján valósította meg a víziközmű-szolgáltató, úgy a korábbi tevékenységhez kapcsolódó költségelemzést.
 
-[^121]: A 43. § a 342/2016. (XI. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^122]: A 43. § (2) bekezdés 3. pontját a 243/2023. (VI. 20.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^122]: A 43. § a 342/2016. (XI. 17.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^123]: A 43. § (2) bekezdés 3. pontját a 243/2023. (VI. 20.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

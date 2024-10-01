@@ -60,6 +60,6 @@
 
 ## az aláíró személy(ek) nevét, cég esetében cégszerű aláírás]
 
-4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^388]
+4. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^389]
 
-[^388]: A 4. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (4) bekezdésével megállapított, címe a 243/2023. (VI. 20.) Korm. rendelet 17. § 32-33. pontja szerint módosított szöveg.
+[^389]: A 4. melléklet a 342/2016. (XI. 17.) Korm. rendelet 37. § (4) bekezdésével megállapított, címe a 243/2023. (VI. 20.) Korm. rendelet 17. § 32-33. pontja szerint módosított szöveg.

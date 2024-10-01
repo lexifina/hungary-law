@@ -22,7 +22,7 @@
 
 (8)[^69] A Hivatal a közérdekű üzemeltető kijelölésére irányuló eljárást (e fejezet alkalmazásában a továbbiakban: kijelölési eljárás) a Vksztv. 32. § (1) és (1a) bekezdésében meghatározott feltételek fennállása esetén az ellenőrzés lezárását követő három munkanapon belül, hivatalból megindítja.
 
-(9)[^70] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott népegészségügyi szervet (a továbbiakban: népegészségügyi szerv), vízügyi, valamint katasztrófavédelmi hatóságot.
+(9)[^70] A kijelölési eljárás megindításáról a Hivatal – az ellátásért felelősön kívül – értesíti az érintett ellátási terület szerint illetékes, az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló kormányrendeletben meghatározott népegészségügyi szervet (a továbbiakban: népegészségügyi szerv), a területi vízügyi hatóságot, valamint a hivatásos katasztrófavédelmi szerv területi szervét.
 
 (10) A kijelölési eljárás során a víziközmű-szolgáltatás fenntartása érdekében a Hivatal mind a víziközmű-szolgáltatót, mind az ellátásért felelőst haladéktalanul intézkedések megtételére kötelezheti, egyidejűleg kísérletet tesz a víziközmű-szolgáltatás zavartalan működésének helyreállítására.
 
@@ -56,7 +56,7 @@ e) a feladatok átvételéhez szükséges előkészület időigényét.
 [^67]: A 17. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 2. pontja szerint módosított szöveg.
 [^68]: A 17. § (7) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^69]: A 17. § (8) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 3. pontja szerint módosított szöveg.
-[^70]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 11. pontja szerint módosított szöveg.
+[^70]: A 17. § (9) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 139. § a) pontja, a 292/2014. (XI. 26.) Korm. rendelet 37. § 11. pontja, a 257/2024. (VIII. 29.) Korm. rendelet 73. § a) pontja szerint módosított szöveg.
 [^71]: A 17. § (13) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 1. pontja szerint módosított szöveg.
 [^72]: A 17. § (14) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^73]: A 17. § (15) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 4. pontja szerint módosított szöveg.

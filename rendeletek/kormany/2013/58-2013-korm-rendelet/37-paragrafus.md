@@ -1,3 +1,3 @@
-## 12. [^114] A víziközmű-szolgáltatói engedély módosításának és visszavonásának feltételei
+## 12. [^115] A víziközmű-szolgáltatói engedély módosításának és visszavonásának feltételei
 
-[^114]: A 12. alcím címe a 342/2016. (XI. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^115]: A 12. alcím címe a 342/2016. (XI. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
