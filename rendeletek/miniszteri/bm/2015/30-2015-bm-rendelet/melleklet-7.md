@@ -1,12 +1,10 @@
-## 570% a pótlék mértéke, amennyiben speciális (hosszúidős biztonsági, gyógyító-terápiás, pszichoszociális, szexuális bűncselekményt elkövetettek, drogprevenciós) részlegen, különleges biztonsági részlegen vagy HIV részlegen, műveleti osztályon, illetve csoportban teljesít szolgálatot, vagy páncélozott szállító járművet vezet, vagy ténylegesen életfogytiglani szabadságvesztésre ítélt fogvatartottat munkáltat.
-
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^37]
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^38]
 
 A Belügyminisztériumban és a belügyminiszter által irányított szervnél vezényléssel betölthető szolgálati beosztások, azok besorolása és a szolgálati beosztás betöltéséhez szükséges képesítési követelmények, valamint a vezényléssel betölthető szolgálati beosztások száma
 
 1. A Belügyminisztériumba vezényléssel betölthető szolgálati beosztások
 
-1.1.[^38] Vezetői besorolási osztályba tartozó szolgálati beosztások
+1.1.[^39] Vezetői besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D | E |
 
@@ -34,7 +32,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 1.1.1.2. **: A hivatásos állomány tagja akkor sorolható be beosztott vezetőként osztályvezető szolgálati beosztásba, ha nem felel meg a Hszt. 58. § (4) bekezdésének, ennek megfelelően beosztott vezetői beosztásban nem töltött el legalább három évet.
 
-1.2.[^39] Tiszti besorolási osztályba tartozó szolgálati beosztások
+1.2.[^40] Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -46,7 +44,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 4. | D | kiemelt főelőadó | 570-870 | 570-870 |
 
-1.3.[^40] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+1.3.[^41] Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
 |  | A | B | C | D |
 
@@ -174,7 +172,7 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 9. | szolgálatparancsnok-helyettes | 520 | 520 |
 
-2.3.[^41] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
+2.3.[^42] A Nemzeti Népegészségügyi és Gyógyszerészeti Központ szolgálati beosztásai
 
 2.3.1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
@@ -186,8 +184,8 @@ A Belügyminisztériumban és a belügyminiszter által irányított szervnél v
 
 | 3. | kiemelt vezető | központi szerv vezetőjének helyettese | általános helyettes |  |  |
 
-[^37]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
-[^38]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^39]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^40]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
-[^41]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.
+[^38]: A 7. melléklet a 2/2023. (I. 30.) BM rendelet 20. § g) pontjával megállapított szöveg.
+[^39]: A 7. melléklet 1.1. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^40]: A 7. melléklet 1.2. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^41]: A 7. melléklet 1.3. pontjában foglalt táblázat a 29/2024. (VII. 12.) BM rendelet 2. §-a által megállapított szöveg.
+[^42]: A 7. melléklet 2.3. pontját a 67/2023. (XII. 22.) BM rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^42]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^43]
 
 A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -102,4 +102,4 @@ A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, az
 
 4. Megjegyzés: * A rektor és a rektorhelyettes munkakörébe kinevezett, e rendelet hatálya alá tartozó hivatásos állományú besorolási szintjét mutatja, a munkakör hivatásos szolgálati beosztássá minősítése nélkül.
 
-[^42]: A 8. melléklet a 2/2023. (I. 30.) BM rendelet 20. § h) pontjával megállapított szöveg.
+[^43]: A 8. melléklet a 2/2023. (I. 30.) BM rendelet 20. § h) pontjával megállapított szöveg.
