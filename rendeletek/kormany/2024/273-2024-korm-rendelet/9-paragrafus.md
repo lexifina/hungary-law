@@ -1,0 +1,3 @@
+9. § (1) A repülőtéri létesítményi tűzoltóság kivételével a főfoglalkozású létesítményi tűzoltóságnak két percen belül, az alkalomszerűen igénybe vehető létesítményi tűzoltóságnak a riasztástól számított öt percen belül meg kell kezdenie a kivonulást, és állomáshelyéről – optimális esetben – a riasztástól számított tíz percen belül ki kell érkeznie a tűzeset vagy a műszaki mentés helyszínére.
+
+(2) A tűzoltóparancsnoknak vagy az általa megbízott, őt helyettesítő parancsnoki ügyeletesnek késedelem nélkül ki kell vonulni azon eseményekhez, melyekhez a hivatásos tűzoltóság egységei is vonulnak. Parancsnoki ügyeletes az lehet, aki legalább középszintű tűzoltásvezetői jogosultsággal rendelkezik.

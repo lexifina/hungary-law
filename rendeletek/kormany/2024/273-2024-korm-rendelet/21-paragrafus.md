@@ -1,0 +1,1 @@
+21. § E rendelet hatálybalépésének időpontjában a 2. § (1) bekezdés a) pontja szerinti, meglévő épület üzemeltetője kockázati azonosítási jelentést készít, és az e rendelet hatálybalépését követő 90 napon belül benyújtja a hivatásos katasztrófavédelmi szerv területi szerve részére.

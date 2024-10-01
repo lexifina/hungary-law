@@ -1,0 +1,1 @@
+18. § A létesítményi tűzoltósági célokat szolgáló ingatlanok, tűzvédelmi eszközök, berendezések, tűzoltó szakfelszerelések kapacitás kihasználását célzó hasznosítása a tűzoltóság fenntartójának és üzemeltetőjének közös engedélyével és felelősségével történhet. A kapacitás kihasználását célzó hasznosítás nem veszélyeztetheti a létesítményi tűzoltóság működőképességét.
