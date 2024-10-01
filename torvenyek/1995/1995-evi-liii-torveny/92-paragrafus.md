@@ -8,7 +8,7 @@
 
 a) természetvédelmi és tájvédelmi szakértői tevékenység esetében a természetvédelmi hatóság,
 
-b) környezetvédelmi szakértői tevékenység esetében a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara)
+b) környezetvédelmi szakértői tevékenység esetében a magyar építészetről szóló törvényben meghatározott területi mérnöki kamara (a továbbiakban: kamara)
 
 adja ki.
 

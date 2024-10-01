@@ -8,7 +8,7 @@ c) az energiáról,
 
 d) az erdőkről,
 
-e) az épített környezet alakításáról és védelméről,
+e) a magyar építészetről,
 
 f) a mező- és erdőgazdasági hasznosítású földről,
 
