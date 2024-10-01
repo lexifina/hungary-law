@@ -56,7 +56,7 @@ oe) a részesedés arányának meghatározásakor a közvetlen és közvetett r�
 
 of) az eszközök, ingatlan(ok) mérleg szerinti értékének számítása során az oa) alpont szerinti mérlegben kimutatott eszközök, ingatlan(ok) mérleg szerinti értékét növelni kell a mérleg fordulónapja és az illetékkötelezettség keletkezése közötti időszakban megszerzett, az oa) alpont szerinti mérlegben nem szereplő eszközöknek (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok)nak a megszerzett társaság könyveiben az illetékkötelezettség keletkezésekor szereplő könyv szerinti értékével és csökkenteni kell az ugyanezen időszakban elidegenített, megsemmisült eszközök (ide nem értve a pénzeszközöket, pénzköveteléseket, aktív időbeli elhatárolásokat és kölcsönöket), ingatlan(ok) könyv szerinti értékével, feltéve, hogy e korrekciók együttes hatása az e pont szerinti minősítést befolyásolja;
 
-p) használatbavételi engedély: az épített környezet alakításáról és védelméről szóló törvény szerinti használatbavételi engedély és az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány;
+p) használatbavételi engedély: a magyar építészetről szóló törvény szerinti használatbavételi engedély és az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány;
 
 r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 
