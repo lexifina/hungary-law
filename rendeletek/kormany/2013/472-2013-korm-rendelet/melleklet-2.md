@@ -10,7 +10,7 @@
 
 | 5. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Fejér Vármegyei Kormányhivatal [^18] |
 
-| 6. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fejér Vármegyei Katasztrófavédelmi Igazgatóság[^19] |
+| 6. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fejér Vármegyei Kormányhivatal vízügyi és vízvédelmi hatáskörében eljárva[^19] |
 
 | 7. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
@@ -18,19 +18,22 @@
 
 | 9. | talajvédelmi hatósági eljárások | Fejér Vármegyei Kormányhivatal [^21] |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 10.[^22] | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 11.[^23] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 12. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12.[^24] | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-2. melléklet a 472/2013. (XII. 11.) Korm. rendelethez[^22]
+2. melléklet a 472/2013. (XII. 11.) Korm. rendelethez[^25]
 
 [^15]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^16]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^17]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^18]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
-[^19]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 104. §-a szerint módosított szöveg.
 [^20]: Az 1. mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
 [^21]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
-[^22]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 112. § e) pontja hatályon kívül helyezte.
+[^22]: Az 1. mellékletben foglalt táblázat 10. sora a 257/2024. (VIII. 29.) Korm. rendelet 105. §-ával megállapított szöveg.
+[^23]: Az 1. mellékletben foglalt táblázat 11. sora a 257/2024. (VIII. 29.) Korm. rendelet 105. §-ával megállapított szöveg.
+[^24]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 105. §-ával megállapított szöveg.
+[^25]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 112. § e) pontja hatályon kívül helyezte.
