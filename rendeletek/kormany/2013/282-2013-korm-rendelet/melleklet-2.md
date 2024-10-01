@@ -12,7 +12,7 @@
 
 | 6. | útügyi hatósági engedélyezési eljárás | Pest Vármegyei Kormányhivatal [^17] |
 
-| 7. | vízjogi engedélyezési eljárás | illetékes vármegyei katasztrófavédelmi igazgatóság[^18] |
+| 7. | vízjogi engedélyezési eljárás | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^18] |
 
 | 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
@@ -30,25 +30,29 @@
 
 | 15. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter |
 
-| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^24] |
 
-| 17. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 17. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal[^25] |
 
-| 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 18. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal[^26] |
 
-| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 19.[^27] | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^24]
+2. melléklet a 282/2013. (VII. 24.) Korm. rendelethez[^28]
 
 [^13]: Az 1. mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^14]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^15]: Az 1. mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^16]: Az 1. mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^17]: Az 1. mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^18]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^18]: Az 1. mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § c) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 86. § a) pontja szerint módosított szöveg.
 [^19]: Az 1. mellékletben foglalt táblázat D:9 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^20]: Az 1. mellékletben foglalt táblázat D:10 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^21]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^22]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
 [^23]: Az 1. mellékletben foglalt táblázat D:14 mezője az 546/2022. (XII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
-[^24]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 89. § d) pontja hatályon kívül helyezte.
+[^24]: Az 1. mellékletben foglalt táblázat D:16 mezője a 257/2024. (VIII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^25]: Az 1. mellékletben foglalt táblázat D:17 mezője a 257/2024. (VIII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. mellékletben foglalt táblázat D:18 mezője a 257/2024. (VIII. 29.) Korm. rendelet 86. § b) pontja szerint módosított szöveg.
+[^27]: Az 1. mellékletben foglalt táblázat 19. sora a 257/2024. (VIII. 29.) Korm. rendelet 87. §-ával megállapított szöveg.
+[^28]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 89. § d) pontja hatályon kívül helyezte.
