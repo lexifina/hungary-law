@@ -2,7 +2,7 @@
 
 ## A KATONAI NEMZETBIZTONSÁGI SZOLGÁLAT ÖNKÉNTES TARTALÉKOS ÁLLOMÁNYÁRA VONATKOZÓ KÜLÖNÖS SZABÁLYOK
 
-61. § (1) A Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) önkéntes tartalékos állományának tagja esetében nem alkalmazható az 5. §, a 8. § (2) bekezdése, a 24. § (1)–(3) bekezdése.
+61. § (1)[^13] A Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ) önkéntes tartalékos állományának tagja esetében nem alkalmazható az 5. §, a 8. § (2) bekezdése, a 25. § (1)–(3) bekezdése.
 
 (2) Ahol a 7. § (1) bekezdése, a 8. § (1) bekezdése, a 13. § (2) bekezdése és a 23. § (6) bekezdése a HVKF részére fogalmaz meg jogokat és kötelezettségeket, ott a KNBSZ főigazgatóját kell érteni.
 
@@ -13,3 +13,5 @@
 (5) A KNBSZ főigazgatója az önkéntes tartalékos tényleges szolgálatteljesítésre történő behívásának tervezett időpontját az előző év december 15-ig határozza meg.
 
 (6) A KNBSZ főigazgatója a tényleges szolgálatteljesítésre történő behívás időpontját és várható időtartamát tervezett behívás esetén legalább a bevonulást megelőző 15 nappal, nem tervezett behívás esetén legalább a bevonulást megelőző 30 nappal előzetesen egyezteti az önkéntes tartalékos állomány tagjával, illetve munkáltatójával.
+
+[^13]: A 61. § (1) bekezdése a 20/2024. (IX. 30.) HM rendelet 28. § (7) bekezdés c) pontja szerint módosított szöveg.

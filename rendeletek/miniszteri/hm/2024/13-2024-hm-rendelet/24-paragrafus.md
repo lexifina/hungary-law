@@ -15,3 +15,7 @@
 (5) A (3) bekezdés szerinti kiképzésen felül az önkéntes tartalékos háromévente összesen legfeljebb hat hónap tényleges szolgálatteljesítésre hívható be. Ez az időtartam az önkéntes tartalékos beleegyezésével meghosszabbítható.
 
 (6) Az az önkéntes tartalékos, aki foglalkoztatási jogviszonya keretében léginavigációs szolgáltatásokat vagy azt támogató feladatot lát el, a munkáltatójával történt előzetes egyeztetés alapján és kizárólag léginavigációs szolgáltatás ellátására vagy ilyen feladat támogatására hívható be.
+
+(7)[^8] Ha az állományilletékes honvédelmi szervezet a behívási igényéről lemond, a döntésre jogosult elöljáró a behívóparancsot határozatban visszavonja.
+
+[^8]: A 24. § (7) bekezdését a 20/2024. (IX. 30.) HM rendelet 28. § (4) bekezdése iktatta be.

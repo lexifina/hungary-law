@@ -7,3 +7,7 @@
 (4) A (3) bekezdés szerinti kérelmet a döntésre jogosult elöljáró tíz napon belül bírálja el. A kérelem döntésre jogosult elöljáró általi elutasítása esetén az önkéntes tartalékos szolgálati viszony a döntésre jogosult elöljáró határozatának önkéntes tartalékossal történő közlését követő ötödik napon belül szűnik meg.
 
 (5) A kérelem döntésre jogosult elöljáró általi elfogadása esetén az alapkiképzést a kérelem beadásának alapjául szolgáló körülmény megszűnését követő egy éven belül kell teljesíteni. Ennek elmaradása esetén a szolgálati viszony a határidő leteltét követő ötödik munkanapon megszűnik, ismételt mentesítési kérelem nem nyújtható be.
+
+(6)[^6] Különleges jogrend kihirdetése esetén a 26. § (1) bekezdésében felsorolt közjogi tisztséget betöltő önkéntes tartalékos a különleges jogrend megszűnését követő 1 éven belül köteles az alapkiképzést teljesíteni.
+
+[^6]: A 11. § (6) bekezdését a 20/2024. (IX. 30.) HM rendelet 28. § (2) bekezdése iktatta be.
