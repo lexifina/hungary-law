@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-347-20-
 | 2018-09-27 | 2017-347-20-22.5 | 174/2018. (IX. 26.) Korm. rendelet |
 | 2020-09-11 | 2017-347-20-22.6 | 174/2018. (IX. 26.) Korm. rendelet |
 | 2022-12-23 | 2017-347-20-22.7 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2017-347-20-22.8 | 257/2024. (VIII. 29.) Korm. rendelet |
