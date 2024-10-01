@@ -12,7 +12,7 @@
 
 a) azok az állami magasépítési beruházások, amelyek előkészítésének és megvalósításának részletszabályait külön törvény határozza meg, ideértve a kapcsolódó térségfejlesztéssel összefüggő magasépítési beruházásokat,
 
-b) a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő beruházások, azaz a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 2. § 2. pontjában, valamint az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet 3/B. § (1a) bekezdésében meghatározott építmény létrehozására, felújítására vagy átalakítására irányuló beruházások,
+b)[^4] a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő beruházások, azaz a sajátos építményfajták körébe tartozó honvédelmi és katonai célú építményekre vonatkozó építésügyi hatósági engedélyezési eljárások szabályairól szóló 40/2002. (III. 21.) Korm. rendelet 1. § (1) bekezdés a), d) és e) pontjában meghatározott építmény létrehozására, felújítására vagy átalakítására irányuló beruházások,
 
 c) a külképviseleteken, illetve a diplomáciai célú építményeken megvalósuló állami magasépítési beruházások,
 
@@ -24,3 +24,4 @@ d) az állami magasépítési beruházások megvalósításáról szóló 2018. 
 
 [^2]: A 2. § (1) bekezdése a 10/2020. (I. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: A 2. § (4) bekezdése a 10/2020. (I. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (5) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 142. §-a szerint módosított szöveg.
