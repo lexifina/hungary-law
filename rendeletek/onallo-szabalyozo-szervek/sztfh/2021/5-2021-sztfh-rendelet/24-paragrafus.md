@@ -1,5 +1,3 @@
-## 23. § A Hatóság az ajánlott felelős játékszervezői minősítés érvényességét határozatban megszünteti, ha a minősítés érvényességi ideje alatt a Hatóság a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – működési engedélyenként, és ha a szervező értékesítő hálózattal rendelkezik az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében értékesítőhelyenként – végleges határozatban 300 000 forintot meghaladó bírságot szabott ki.
-
 ## 24. § A szervező az alábbi játékosvédelmi intézkedéseket alkalmazhatja a 22. § (1) bekezdés b) pont ba) alpontjában foglaltak választása esetén:
 
 a) pénznyerő automata üzemeltetése esetén legalább két eszköz alkalmazását:

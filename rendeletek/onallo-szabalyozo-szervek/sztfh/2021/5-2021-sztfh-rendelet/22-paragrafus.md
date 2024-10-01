@@ -4,7 +4,7 @@
 
 22. § (1) A szervező kérelmére a Hatóság a szervező ajánlott felelős játékszervezői minősítését határozatban megállapítja, ha a kérelem előterjesztését megelőző 1 évben
 
-a) a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – engedélyenként és ha a szervező értékesítő hálózattal rendelkezik, az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében értékesítőhelyenként – 300 000 forintot meghaladó bírságot a Hatóság végleges határozatában nem állapított meg, és
+a)[^1] a szervezővel szemben az Szjtv. 1. § (5a)–(6d) bekezdésében és az e rendeletben foglaltak megsértése miatt – engedélyenként és ha a szervező értékesítő hálózattal rendelkezik, az értékesítőhelyek 10%-át meghaladó értékesítőhelyek tekintetében értékesítőhelyenként – 1 000 000 forintot meghaladó bírságot a Hatóság végleges határozatában nem állapított meg, és
 
 b) a szervező
 
@@ -17,3 +17,5 @@ bb) koncessziós társaságonként, ennek hiányában szervezőnként legalább 
 (3) A szervező ajánlott felelős játékszervezői minősítését – annak érvényességi időtartama alatt – a Hatóság a szervező tevékenységi engedélyének adatai mellett honlapján feltünteti. A Hatóság a szervező kérelmére az ajánlott felelős játékszervezői minősítést megállapító határozatot érvényességi időtartama alatt a honlapján közzéteszi.
 
 (4) Az ajánlott felelős játékszervezői minősítést érvényességi időtartama alatt a szervező honlapján, a játéktérben, reklámjaiban és kereskedelmi kommunikációjában cégnevével vagy szervezői tevékenysége során alkalmazott elnevezésével, logójával összefüggésben feltüntetheti.
+
+[^1]: A 22. § (1) bekezdés a) pontja a 16/2024. (IX. 19.) SZTFH rendelet 14. §-a szerint módosított szöveg.
