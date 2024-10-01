@@ -1,16 +1,16 @@
 ## 2. A miniszter feladatai a fogyasztóvédelmi hatóság tevékenységével összefüggésben
 
-5. § (1)[^57] A fővárosi és vármegyei kormányhivataloknak a fogyasztóvédelmi és piacfelügyeleti feladatainak, valamint a termékek biztonságosságának és megfelelőségének ellenőrzésével összefüggő, jogszabályban meghatározott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
+5. § (1)[^59] A fővárosi és vármegyei kormányhivataloknak a fogyasztóvédelmi és piacfelügyeleti feladatainak, valamint a termékek biztonságosságának és megfelelőségének ellenőrzésével összefüggő, jogszabályban meghatározott feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
 
 (2) A miniszter
 
-a)[^58] a több fővárosi és vármegyei kormányhivatal illetékességi területét vagy a fogyasztók széles körét érintően eseti vizsgálatokat rendelhet el;
+a)[^60] a több fővárosi és vármegyei kormányhivatal illetékességi területét vagy a fogyasztók széles körét érintően eseti vizsgálatokat rendelhet el;
 
-b)[^59] a fővárosi és vármegyei kormányhivatalt vezető főispánt a fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódóan – a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárása kivételével – konkrét feladat elvégzésére, mulasztás pótlására utasíthatja;
+b)[^61] a fővárosi és vármegyei kormányhivatalt vezető főispánt a fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódóan – a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárása kivételével – konkrét feladat elvégzésére, mulasztás pótlására utasíthatja;
 
-c)[^60] évente beszámoltatja, továbbá döntése szerint beszámoltathatja a fővárosi és vármegyei kormányhivatalt vezető főispánt a fogyasztóvédelmi és piacfelügyeleti feladatkörébe tartozó tevékenységéről.
+c)[^62] évente beszámoltatja, továbbá döntése szerint beszámoltathatja a fővárosi és vármegyei kormányhivatalt vezető főispánt a fogyasztóvédelmi és piacfelügyeleti feladatkörébe tartozó tevékenységéről.
 
-(3)[^61] A főispán a fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódóan illetékességi területén megszervezi és összehangolja az éves ellenőrzési és vizsgálati programban meghatározott területi és országos vizsgálatokat.
+(3)[^63] A főispán a fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódóan illetékességi területén megszervezi és összehangolja az éves ellenőrzési és vizsgálati programban meghatározott területi és országos vizsgálatokat.
 
 (4) A miniszter
 
@@ -22,26 +22,26 @@ c) működteti a Központi Piacfelügyeleti Információs Rendszert;
 
 d) jóváhagyja a fogyasztóvédelmi hatóság Ellenőrzési és Vizsgálati Programját;
 
-e)[^62] koordinálja a fővárosi és vármegyei kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódó nemzetközi kapcsolatokat;
+e)[^64] koordinálja a fővárosi és vármegyei kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatköréhez kapcsolódó nemzetközi kapcsolatokat;
 
-f)[^63] végzi, illetve végezteti a feladatainak és a kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatkörének ellátásához szükséges laboratóriumi vizsgálatokat, ennek érdekében működteti az Élelmiszer és Vegyipari Laboratóriumot, valamint a Mechanikai és Villamos Laboratóriumot;
+f)[^65] végzi, illetve végezteti a feladatainak és a kormányhivatal fogyasztóvédelmi és piacfelügyeleti feladatkörének ellátásához szükséges laboratóriumi vizsgálatokat, ennek érdekében működteti az Élelmiszer és Vegyipari Laboratóriumot, valamint a Mechanikai és Villamos Laboratóriumot;
 
-g)[^64] gondoskodik a fővárosi és vármegyei kormányhivatal kormánytisztviselőinek szakmai továbbképzéséről;
+g)[^66] gondoskodik a fővárosi és vármegyei kormányhivatal kormánytisztviselőinek szakmai továbbképzéséről;
 
 h) együttműködési megállapodást köthet a fogyasztóvédelmi tevékenységet ellátó állami szervekkel;
 
 i) az Európai Fogyasztói Központok Hálózatának nemzeti tagjaként működteti a hazai Európai Fogyasztói Központot;
 
-j)[^65] ellátja a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdése alapján kialakított elektronikus, archiválást és információcserét biztosító rendszer (Information and Communication System for Market Surveillance) nemzeti kapcsolattartói feladatait;
+j)[^67] ellátja a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet 34. cikk (2) bekezdése alapján kialakított elektronikus, archiválást és információcserét biztosító rendszer (Information and Communication System for Market Surveillance) nemzeti kapcsolattartói feladatait;
 
 k) ellátja a fogyasztói érdekek képviseletét ellátó egyesületek támogatására kiírt pályázatok kezelésével összefüggő feladatokat.
 
-[^57]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
-[^58]: Az 5. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
-[^59]: Az 5. § (2) bekezdés b) pontja a 309/2022. (VIII. 11.) Korm. rendelet 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § d) pontja szerint módosított szöveg.
-[^60]: Az 5. § (2) bekezdés c) pontja a 309/2022. (VIII. 11.) Korm. rendelet 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
-[^61]: Az 5. § (3) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^62]: Az 5. § (4) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés c) pontja. a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
-[^63]: Az 5. § (4) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^64]: Az 5. § (4) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja és (6) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
-[^65]: Az 5. § (4) bekezdés j) pontja a 246/2020. (V. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^59]: Az 5. § (1) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés b) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
+[^60]: Az 5. § (2) bekezdés a) pontja a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
+[^61]: Az 5. § (2) bekezdés b) pontja a 309/2022. (VIII. 11.) Korm. rendelet 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § d) pontja szerint módosított szöveg.
+[^62]: Az 5. § (2) bekezdés c) pontja a 309/2022. (VIII. 11.) Korm. rendelet 11. § a) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
+[^63]: Az 5. § (3) bekezdése a 309/2022. (VIII. 11.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^64]: Az 5. § (4) bekezdés e) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés c) pontja. a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
+[^65]: Az 5. § (4) bekezdés f) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^66]: Az 5. § (4) bekezdés g) pontja a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés f) pontja és (6) bekezdés c) pontja, a 616/2022. (XII. 29.) Korm. rendelet 247. § a) pontja szerint módosított szöveg.
+[^67]: Az 5. § (4) bekezdés j) pontja a 246/2020. (V. 28.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.

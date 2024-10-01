@@ -1,46 +1,46 @@
 3. § (1) A Kormány
 
-a)[^7] a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 19. §-ában, 43/A. § (1)–(3) bekezdésében,
+a)[^9] a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) 19. §-ában, 43/A. § (1)–(3) bekezdésében,
 
-b)[^8]
+b)[^10]
 
 c) a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 56/A. § (5) bekezdésében, 72. § (3) bekezdésében, 163. § (2) bekezdésében,
 
 d) a földgázellátásról szóló 2008. évi XL. törvény (a továbbiakban: Get.) 63/A. § (3) bekezdésében, 113. § (2) bekezdésében,
 
-e)[^9]
+e)[^11]
 
 f) a pálinkáról, a törkölypálinkáról és a Pálinka Nemzeti Tanácsról szóló 2008. évi LXXIII. törvény 11. § (2) bekezdés f) pont fc) alpontjában,
 
-g)[^10] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 111. § (2) bekezdés m) pontjában,
+g)[^12] a médiaszolgáltatásokról és a tömegkommunikációról szóló 2010. évi CLXXXV. törvény (a továbbiakban: Mttv.) 111. § (2) bekezdés m) pontjában,
 
 h) a Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény 5. § (1) bekezdésében,
 
-i)[^11] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében,
+i)[^13] a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: 39/2013. Korm. rendelet) 17. § (3) bekezdésében,
 
-j)[^12] a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] 8. cikkében,
+j)[^14] a belső piacon belül a vevő állampolgársága, lakóhelye vagy letelepedési helye alapján történő indokolatlan területi alapú tartalomkorlátozással és a megkülönböztetés egyéb formáival szembeni fellépésről, valamint a 2006/2004/EK és az (EU) 2017/2394 rendelet, továbbá a 2009/22/EK irányelv módosításáról szóló, 2018. február 28-i (EU) 2018/302 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/302 rendelet] 8. cikkében,
 
-k)[^13] a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 27. cikk (1) bekezdésében
+k)[^15] a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] 27. cikk (1) bekezdésében
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként a minisztert jelöli ki.
 
-(2)[^14] A Kormány
+(2)[^16] A Kormány
 
-a)[^15] az Fgytv. 17. § (5) bekezdésében, valamint 45/B. §-ában,
+a)[^17] az Fgytv. 17. § (5) bekezdésében, valamint 45/B. §-ában,
 
 b) a gazdasági kamarákról szóló 1999. évi CXXI. törvény 10. § (1) bekezdés f) pontjában,
 
-c)[^16]
+c)[^18]
 
-d)[^17] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 4. § (1) bekezdés b) pontjában, 9. §-ában, 11. § (1) bekezdésében, 18. § e) pontjában,
+d)[^19] a távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Tszt.) 4. § (1) bekezdés b) pontjában, 9. §-ában, 11. § (1) bekezdésében, 18. § e) pontjában,
 
-e)[^18] a Vet. 163. § (1) és (3) bekezdésében
+e)[^20] a Vet. 163. § (1) és (3) bekezdésében
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként a minisztert és a kormányhivatalt jelöli ki.
 
-(3)[^19] A Kormány
+(3)[^21] A Kormány
 
-a)[^20] az Fgytv. 17/D. § (8) bekezdésében, 38. § (4) bekezdés a) pontjában, 48. § (3) bekezdésében,
+a)[^22] az Fgytv. 17/D. § (8) bekezdésében, 38. § (4) bekezdés a) pontjában, 48. § (3) bekezdésében,
 
 b) a Get. 108/A. § (7) bekezdésében,
 
@@ -50,31 +50,31 @@ d) a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 5
 
 e) a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (2) bekezdésében,
 
-f)[^21] az (EU) 2018/302 rendeletben
+f)[^23] az (EU) 2018/302 rendeletben
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként a Pest Vármegyei Kormányhivatalt jelöli ki.
 
-(3a)[^22] A Kormány
+(3a)[^24] A Kormány
 
 a) a fővárosi székhelyű vállalkozások ellen benyújtott képviseleti keresetek esetében az Fgytv. 38. § (4) bekezdés a) pontjában,
 
-b)[^23] az Fgytv. 47. § (1a) bekezdésében, 47. § (1) bekezdés f) pontjában, valamint 48/A–48/E. §-ában
+b)[^25] az Fgytv. 47. § (1a) bekezdésében, 47. § (1) bekezdés f) pontjában, valamint 48/A–48/E. §-ában
 
 foglaltak tekintetében fogyasztóvédelmi hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-(4)[^24] A Kormány
+(4)[^26] A Kormány
 
-a)[^25]
+a)[^27]
 
-b)[^26] az Fgytv. 16/B. §-ában, 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) bekezdésében, 29. § (11) bekezdésében, valamint 37/B. §-ában foglaltak,
+b)[^28] az Fgytv. 16/B. §-ában, 17/A. §-ában, 17/B. §-ában, 17/D. § (1)–(2) bekezdésében, 29. § (11) bekezdésében, valamint 37/B. §-ában foglaltak,
 
 c) a gazdasági reklámok és az üzletfeliratok, továbbá egyes közérdekű közlemények magyar nyelvű közzétételéről szóló 2001. évi XCVI. törvény 4. § (1) és (2) bekezdésében foglaltak,
 
-d)[^27] az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 2. § a) pontjában meghatározott elektronikus kereskedelmi szolgáltatásokkal összefüggő fogyasztóvédelmi ügyek,
+d)[^29] az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény (a továbbiakban: Ektv.) 2. § a) pontjában meghatározott elektronikus kereskedelmi szolgáltatásokkal összefüggő fogyasztóvédelmi ügyek,
 
-e)[^28]
+e)[^30]
 
-f)[^29] a Tszt. 7. § (1) bekezdés a) pontjában, 8. § (1) bekezdés b) pontjában, 10. § a) pontjában foglaltak,
+f)[^31] a Tszt. 7. § (1) bekezdés a) pontjában, 8. § (1) bekezdés b) pontjában, 10. § a) pontjában foglaltak,
 
 g) a kereskedelemről szóló 2005. évi CLXIV. törvény 5/C. és 5/D. §-ában foglaltak,
 
@@ -82,11 +82,11 @@ h) a Vet. 57. §-ában foglaltak,
 
 i) a Get. 64. §-ában foglaltak,
 
-j)[^30] a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 10. § (1) bekezdésében foglaltak,
+j)[^32] a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló 2008. évi XLVII. törvény 10. § (1) bekezdésében foglaltak,
 
-k)[^31] a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5/F. § és 24. § (1) bekezdésében foglaltak,
+k)[^33] a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 5/F. § és 24. § (1) bekezdésében foglaltak,
 
-l)[^32] a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 5/E. § (1)–(4) bekezdésében foglaltak,
+l)[^34] a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 5/E. § (1)–(4) bekezdésében foglaltak,
 
 m) a termékek piacfelügyeletéről szóló 2012. évi LXXXVIII. törvény alapján a miniszter piacfelügyeleti hatáskörével összefüggő ügyek,
 
@@ -94,21 +94,21 @@ n) a Ht. 30. §-ában, 83. §-ában, 91. § (5) és (5a) bekezdésében foglalta
 
 o) az egységes közszolgáltatói számlaképről szóló 2013. évi CLXXXVIII. törvény 11. §-ában foglaltak,
 
-p)[^33] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
+p)[^35] a fogyasztó és a vállalkozás közötti szerződések részletes szabályairól szóló 45/2014. (II. 26.) Korm. rendelet 6. §-ában foglaltak,
 
-q)[^34] a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
+q)[^36] a kémiai biztonságról szóló 2000. évi XXV. törvény 32. § (1) bekezdés e) és f) pontjában foglaltak,
 
-r)[^35] a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
+r)[^37] a rezsicsökkentések végrehajtásáról szóló 2013. évi LIV. törvény 8. § (1) bekezdésében foglaltak,
 
-s)[^36] a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak,
+s)[^38] a szippantott szennyvízre vonatkozó rezsicsökkentésről, valamint egyes törvényeknek a további rezsicsökkentéssel összefüggő módosításáról szóló 2013. évi CXIV. törvény 5. § (1) bekezdésében foglaltak,
 
-t)[^37] az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 34. §-ában foglaltak,
+t)[^39] az utazási szolgáltatásokra vonatkozó szerződésekről, különösen az utazási csomagra és az utazási szolgáltatásegyüttesre vonatkozó szerződésekről szóló 472/2017. (XII. 28.) Korm. rendelet 34. §-ában foglaltak,
 
-u)[^38] a határokon átnyúló csomagkézbesítési szolgáltatásokról szóló, 2018. április 18-i (EU) 2018/644 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/644 rendelet] 7. cikkében foglaltak
+u)[^40] a határokon átnyúló csomagkézbesítési szolgáltatásokról szóló, 2018. április 18-i (EU) 2018/644 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2018/644 rendelet] 7. cikkében foglaltak
 
 tekintetében fogyasztóvédelmi hatóságként a kormányhivatalt jelöli ki.
 
-(4a)[^39] A (4) bekezdésben foglaltakkal megegyezően a Kormány
+(4a)[^41] A (4) bekezdésben foglaltakkal megegyezően a Kormány
 
 a) az egyes kültéri berendezések zajkibocsátási követelményeiről és megfelelőségük tanúsításáról szóló 140/2001. (VIII. 8.) Korm. rendelet 3. § (5) bekezdésében foglaltak,
 
@@ -128,27 +128,27 @@ h) az egyes veszélyes anyagok elektromos és elektronikus berendezésekben val�
 
 i) az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet 25. § (6) bekezdésében foglaltak,
 
-j)[^40] a 39/2013. Korm. rendelet 17. § (1) bekezdés d) pontjában foglaltak,
+j)[^42] a 39/2013. Korm. rendelet 17. § (1) bekezdés d) pontjában foglaltak,
 
 k) a kozmetikai termékekről szóló 246/2013. (VII. 2.) Korm. rendelet 4. § (1) bekezdés c) pontjában foglaltak
 
 tekintetében fogyasztóvédelmi hatóságként a kormányhivatalt jelöli ki.
 
-(4a)[^41]
+(4a)[^43]
 
-(4b)[^42] A Kormány az Fgytv. 45/D. §-a és a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3) és (4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes kormányhivatalt jelöli ki.
+(4b)[^44] A Kormány az Fgytv. 45/D. §-a és a légi személyszállítás szabályairól szóló 25/1999. (II. 12.) Korm. rendelet 27. § (3) és (4) bekezdésében foglaltak tekintetében fogyasztóvédelmi hatóságként a nemzetközi kereskedelmi repülőtér székhelye szerint illetékes kormányhivatalt jelöli ki.
 
-(4c)[^43]
+(4c)[^45]
 
-(4d)[^44] A Kormány fogyasztóvédelmi hatóságként a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 14–15. §-ában, 72. §-ában foglaltak tekintetében a katasztrófavédelmi főigazgatóságot, a 104. § (2) bekezdésében, a 108. § (3) bekezdésében és a 109. § (8) bekezdésében foglaltak tekintetében a kormányhivatalt jelöli ki.
+(4d)[^46] A Kormány fogyasztóvédelmi hatóságként a polgári célú pirotechnikai tevékenységekről szóló 173/2011. (VIII. 24.) Korm. rendelet 14–15. §-ában, 72. §-ában, a 104. § (2) bekezdésében, a 108. § (3) bekezdésében és a 109. § (8) bekezdésében foglaltak tekintetében a kormányhivatalt jelöli ki.
 
-(4e)[^45] A katasztrófavédelmi főigazgatóság (4d) bekezdés szerinti hatósági hatáskörébe tartozó ügyekben a hatósági ellenőrzési feladatokat a katasztrófavédelmi főigazgatóság és illetékességi területén a katasztrófavédelmi igazgatóság látja el.
+(4e)[^47]
 
-(4f)[^46] A Kormány a vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet 18/A. § (2) bekezdés b) pontjában foglaltak tekintetében fogyasztóvédelmi hatóságként a kormányhivatalt jelöli ki.
+(4f)[^48] A Kormány a vízi személyszállítás feltételeiről szóló 261/2008. (XI. 3.) Korm. rendelet 18/A. § (2) bekezdés b) pontjában foglaltak tekintetében fogyasztóvédelmi hatóságként a kormányhivatalt jelöli ki.
 
-(5)[^47] Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a kormányhivatalt a miniszter útján kell tájékoztatni.
+(5)[^49] Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 11. § (1) bekezdés e) pont ef) alpontja szerinti esetben a vámtitokról a kormányhivatalt a miniszter útján kell tájékoztatni.
 
-(6)[^48] A miniszter és a kormányhivatal:
+(6)[^50] A miniszter és a kormányhivatal:
 
 a) szakmai segítséget nyújt a fogyasztói érdekek képviseletét ellátó egyesületek tevékenységéhez és a fogyasztói ismeretek bővítéséhez, a fogyasztói tudatosság erősítéséhez;
 
@@ -162,57 +162,57 @@ e) támogatja az önkormányzati tanácsadó irodák működését;
 
 f) prevenciós, figyelemfelhívó és tájékoztatási jellegű feladatokat lát el a fenntartható és egészségtudatos fogyasztási szokások kialakítása érdekében.
 
-(7)[^49] A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként a minisztert és a kormányhivatalt jelöli ki.
+(7)[^51] A Kormány a textilszál-elnevezésekről és a textiltermékek szálösszetételének ehhez kapcsolódó címkézéséről és jelöléséről, valamint a 73/44/EGK tanácsi irányelv, és a 96/73/EK és a 2008/121/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. szeptember 27-i 1007/2011/EU európai parlamenti és tanácsi rendeletben meghatározottak követésének betartása végett piacfelügyeleti hatóságként a minisztert és a kormányhivatalt jelöli ki.
 
-(8)[^50] A miniszter és a kormányhivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
+(8)[^52] A miniszter és a kormányhivatal piacfelügyeleti feladat- és hatáskörükben ellenőrzi az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 4–9., valamint 11–16. cikkében foglalt követelmények betartását, és eljár azok megsértése esetén.
 
-(9)[^51] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a kormányhivatalt jelöli ki.
+(9)[^53] A Kormány a fogyasztók és a vállalkozások részére a fogyasztóvédelmi tárgyú jogszabályi előírásokról, valamint a fogyasztók által kezdeményezhető hatósági eljárásokról, továbbá az igénybe vehető igényérvényesítési eszközökről való tájékoztatás tárgyában – az általuk ellátott feladatoknak megfelelően – a kormányhivatalt jelöli ki.
 
-(10)[^52]
+(10)[^54]
 
-[^7]: A 3. § (1) bekezdés a) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (1) bekezdés b) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
-[^9]: A 3. § (1) bekezdés e) pontját a 712/2020. (XII. 30.) Korm. rendelet 19. §-a hatályon kívül helyezte.
-[^10]: A 3. § (1) bekezdés g) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^11]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
-[^12]: A 3. § (1) bekezdés j) pontját a 215/2018. (XI. 22.) Korm. rendelet 1. §-a iktatta be.
-[^13]: A 3. § (1) bekezdés k) pontját a 170/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^14]: A 3. § (2) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^15]: A 3. § (2) bekezdés a) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
-[^16]: A 3. § (2) bekezdés c) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
-[^17]: A 3. § (2) bekezdés d) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^18]: A 3. § (2) bekezdés e) pontja az 531/2022. (XII. 19.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^19]: A 3. § (3) bekezdés záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 247. § b) pontja szerint módosított szöveg.
-[^20]: A 3. § (3) bekezdés a) pontja az 531/2022. (XII. 19.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^21]: A 3. § (3) bekezdés f) pontját a 215/2018. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
-[^22]: A 3. § (3a) bekezdését a 170/2019. (VII. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^23]: A 3. § (3a) bekezdés b) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
-[^24]: A 3. § (4) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^25]: A 3. § (4) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^26]: A 3. § (4) bekezdés b) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (5) bekezdésével megállapított szöveg.
-[^27]: A 3. § (4) bekezdés d) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.
-[^28]: A 3. § (4) bekezdés e) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte.
-[^29]: A 3. § (4) bekezdés f) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^30]: A 3. § (4) bekezdés j) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
-[^31]: A 3. § (4) bekezdés k) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^32]: A 3. § (4) bekezdés l) pontja a 170/2019. (VII. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^33]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
-[^34]: A 3. § (4) bekezdés q) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^35]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^36]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
-[^37]: A 3. § (4) bekezdés t) pontját az 522/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^38]: A 3. § (4) bekezdés u) pontját a 170/2019. (VII. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
-[^39]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be, záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^40]: A 3. § (4a) bekezdés j) pontja a 286/2023. (VI. 30.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^41]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
-[^42]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 20. § (8) bekezdésével megállapított szöveg.
-[^43]: A 3. § (4c) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, hatályon kívül helyezte az 500/2021. (VIII. 18.) Korm. rendelet 11. § b) pontja.
-[^44]: A 3. § (4d) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, szövege ugyanezen módosító rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^45]: A 3. § (4e) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^46]: A 3. § (4f) bekezdését a 712/2020. (XII. 30.) Korm. rendelet 18. § (1) bekezdése iktatta be.
-[^47]: A 3. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^48]: A 3. § (6) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^49]: A 3. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^50]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
-[^51]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
-[^52]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, az 561/2023. (XII. 14.) Korm. rendelet 38. §-a hatályon kívül helyezte.
+[^9]: A 3. § (1) bekezdés a) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § (1) bekezdés b) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^11]: A 3. § (1) bekezdés e) pontját a 712/2020. (XII. 30.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^12]: A 3. § (1) bekezdés g) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^13]: A 3. § (1) bekezdés i) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be.
+[^14]: A 3. § (1) bekezdés j) pontját a 215/2018. (XI. 22.) Korm. rendelet 1. §-a iktatta be.
+[^15]: A 3. § (1) bekezdés k) pontját a 170/2019. (VII. 12.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^16]: A 3. § (2) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^17]: A 3. § (2) bekezdés a) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^18]: A 3. § (2) bekezdés c) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § c) pontja hatályon kívül helyezte.
+[^19]: A 3. § (2) bekezdés d) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^20]: A 3. § (2) bekezdés e) pontja az 531/2022. (XII. 19.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^21]: A 3. § (3) bekezdés záró szövegrésze a 616/2022. (XII. 29.) Korm. rendelet 247. § b) pontja szerint módosított szöveg.
+[^22]: A 3. § (3) bekezdés a) pontja az 531/2022. (XII. 19.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^23]: A 3. § (3) bekezdés f) pontját a 215/2018. (XI. 22.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 3. § (3a) bekezdését a 170/2019. (VII. 12.) Korm. rendelet 2. § (3) bekezdése iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^25]: A 3. § (3a) bekezdés b) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (4) bekezdésével megállapított szöveg.
+[^26]: A 3. § (4) bekezdés záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^27]: A 3. § (4) bekezdés a) pontját a 360/2019. (XII. 30.) Korm. rendelet 163. § (6) bekezdés a) pontja hatályon kívül helyezte. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^28]: A 3. § (4) bekezdés b) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (5) bekezdésével megállapított szöveg.
+[^29]: A 3. § (4) bekezdés d) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (6) bekezdésével megállapított szöveg.
+[^30]: A 3. § (4) bekezdés e) pontját az 531/2022. (XII. 19.) Korm. rendelet 13. § d) pontja hatályon kívül helyezte.
+[^31]: A 3. § (4) bekezdés f) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^32]: A 3. § (4) bekezdés j) pontja a 93/2024. (IV. 23.) Korm. rendelet 20. § (7) bekezdésével megállapított szöveg.
+[^33]: A 3. § (4) bekezdés k) pontja a 213/2017. (VII. 25.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^34]: A 3. § (4) bekezdés l) pontja a 170/2019. (VII. 12.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^35]: A 3. § (4) bekezdés p) pontja a 171/2017. (VI. 29.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^36]: A 3. § (4) bekezdés q) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^37]: A 3. § (4) bekezdés r) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^38]: A 3. § (4) bekezdés s) pontját a 171/2017. (VI. 29.) Korm. rendelet 27. § (3) bekezdése iktatta be.
+[^39]: A 3. § (4) bekezdés t) pontját az 522/2017. (XII. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^40]: A 3. § (4) bekezdés u) pontját a 170/2019. (VII. 12.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^41]: A 3. § (4a) bekezdését a 171/2017. (VI. 29.) Korm. rendelet 27. § (4) bekezdése iktatta be, záró szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^42]: A 3. § (4a) bekezdés j) pontja a 286/2023. (VI. 30.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^43]: A 3. § újabb (4a) bekezdését a 213/2017. (VII. 25.) Korm. rendelet 2. § (6) bekezdése iktatta be, hatályon kívül helyezte az 522/017. (XII. 29.) Korm. rendelet 2. §-a.
+[^44]: A 3. § (4b) bekezdését az 522/017. (XII. 29.) Korm. rendelet 1. § (3) bekezdése iktatta be, szövege a 93/2024. (IV. 23.) Korm. rendelet 20. § (8) bekezdésével megállapított szöveg.
+[^45]: A 3. § (4c) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, hatályon kívül helyezte az 500/2021. (VIII. 18.) Korm. rendelet 11. § b) pontja.
+[^46]: A 3. § (4d) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, szövege ugyanezen módosító rendelet 163. § (5) bekezdés a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 217. § b) pontja szerint módosított szöveg.
+[^47]: A 3. § (4e) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 163. § (3) bekezdése iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 217. § c) pontja hatályon kívül helyezte.
+[^48]: A 3. § (4f) bekezdését a 712/2020. (XII. 30.) Korm. rendelet 18. § (1) bekezdése iktatta be.
+[^49]: A 3. § (5) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^50]: A 3. § (6) bekezdés nyitó szövegrésze a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^51]: A 3. § (7) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^52]: A 3. § (8) bekezdése a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés c) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 203. §-át.
+[^53]: A 3. § (9) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, szövege a 360/2019. (XII. 30.) Korm. rendelet 163. § (5) bekezdés d) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^54]: A 3. § (10) bekezdését a 20/2017. (II. 2.) Korm. rendelet 19. §-a iktatta be, az 561/2023. (XII. 14.) Korm. rendelet 38. §-a hatályon kívül helyezte.
