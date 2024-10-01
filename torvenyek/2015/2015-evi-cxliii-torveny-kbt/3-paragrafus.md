@@ -14,7 +14,7 @@ b) a szerződés teljesítéséhez igénybe venni kívánt gyártót, forgalmaz�
 
 c) építési beruházás esetén az építőanyag-eladót;
 
-2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és – a helyi önkormányzati költségvetési szerv és a nemzetiségi önkormányzati költségvetési szerv kivételével – cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;
+2a. állami közbeszerzési szaktanácsadó: az 5. § (1) bekezdés a) és b) pontja szerinti ajánlatkérő, valamint az 5. § (1) bekezdés c) pont ca) alpontja és cb) alpontja szerinti szervezet által foglalkoztatott személy, aki járulékos közbeszerzési feladatot lát el az őt foglalkoztató ajánlatkérő számára;
 
 3. címke: olyan dokumentum, bizonyítvány vagy tanúsítvány, amely igazolja, hogy az adott építmény, termék, szolgáltatás, folyamat vagy eljárás megfelel bizonyos követelményeknek;
 
@@ -28,7 +28,7 @@ c) építési beruházás esetén az építőanyag-eladót;
 
 7. életciklus: egy termék használatának, szolgáltatás nyújtásának vagy egy építési beruházás fennállásának összes egymást követő, illetve egymással kapcsolatban álló szakasza – ideértve az elvégzendő kutatást és fejlesztést, a gyártást, a kereskedelmet és annak feltételeit, a szállítást, a felhasználást és a karbantartást is – a nyersanyag beszerzésétől, illetve az erőforrások megteremtésétől az eltávolításig, ártalmatlanításig, az adott területek eredeti állapotának helyreállításáig, illetve a szolgáltatás vagy a használat végéig;
 
-8. építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott fogalom;
+8. építmény: a magyar építészetről szóló törvényben meghatározott fogalom;
 
 9. Európai Unió, illetve az Európai Unió tagállama kifejezésen az Európai Gazdasági Térséget, valamint az Európai Gazdasági Térségről szóló megállapodásokban részes államokat is érteni kell, kivéve a 9. § (1) bekezdés c) pontja esetében;
 
