@@ -28,4 +28,6 @@ a) e személy a (2) bekezdés b) pontjában foglalt kötelezettségének az ism�
 
 b) ha a kizáró ok fennállását a közgyűlés az igazolás céljából a bűnügyi nyilvántartó szerv által kiállított hatósági bizonyítvány tartalma alapján megállapítja,
 
+c) a tisztségviselő a megválasztását követően legkésőbb a jogszabályban előírt határidőn belül nem kezdeményezi nyilvántartásba vételét az ingatlanügyi hatóságnál.
+
 d) az ingatlanvállalkozás-felügyeleti hatóság a tisztségviselőt a szolgáltatási tevékenység folytatásától eltiltotta.

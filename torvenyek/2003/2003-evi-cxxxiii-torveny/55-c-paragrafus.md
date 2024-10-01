@@ -1,0 +1,1 @@
+55/C. § A földmérési és térinformatikai államigazgatási szerv az általa üzemeltetett honlapon – bárki számára korlátozásmentes hozzáférést biztosítva – közzéteszi a társasházi tisztségviselők e fejezetben meghatározott adatait, a társasházak számviteli szabályok szerinti beszámolóit, valamint a társasház közösségének nevét, címét, helyrajzi számát.
