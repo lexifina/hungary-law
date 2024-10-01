@@ -1,0 +1,5 @@
+3. § (1) Az irányadó illetménysávot az állomány tagja által betöltött vagy betölteni tervezett szolgálati beosztásnak vagy álláshelynek (a továbbiakban: szolgálati beosztás) műveleti vagy adminisztratív besorolása és az ehhez rendszeresített rendfokozatnak megfelelő besorolási kategória határozza meg. E rendelkezést abban az esetben is alkalmazni kell, ha az állomány tagja a rendelkezési állomány időtartama alatt tölt be szolgálati beosztást.
+
+(2) A rendelkezési állomány ideje alatt, ha az állomány tagja nem tölt be szolgálati beosztást, az irányadó illetménysávot a Hjkr. 24. § (3) bekezdés b) pontja szerinti adminisztratív besorolás és a viselt rendfokozata szerinti besorolási kategória határozza meg.
+
+(3) A rendelkezési állomány ideje alatt, ha az állomány tagja Magyarországon települő nemzetközi szervezetnél teljesít szolgálatot, az irányadó illetménysávot a Hjkr. 24. § (3) bekezdés a) pontja szerinti műveleti besorolás és a rendszeresített rendfokozatnak megfelelő besorolási kategória határozza meg.

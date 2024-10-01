@@ -1,0 +1,1 @@
+6. § Az állomány tagjának alapilletményét magasabb szolgálati beosztásba történő kinevezés esetén meg kell emelni. Az alapilletmény-emelés mértéke a magasabb szolgálati beosztáshoz tartozó illetménysáv alsó határa legfeljebb 10%-ának megfelelő összeg.

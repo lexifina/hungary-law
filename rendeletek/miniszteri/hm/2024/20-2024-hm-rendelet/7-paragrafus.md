@@ -1,0 +1,5 @@
+7. § (1) Az állomány tagjának alapilletményét csökkenteni kell, ha kérelme alapján alacsonyabb szolgálati beosztásba kerül áthelyezésre. Az alapilletmény-csökkentés mértéke legfeljebb az áthelyezést megelőző alapilletménye 20%-ának megfelelő összeg.
+
+(2) Ha a döntésre jogosult elöljáró az állomány tagját a hivatásos és szerződéses állomány tagjára vonatkozó személyügyi szabályokról szóló 6/2024. (VI. 28.) HM rendelet (a továbbiakban: Személyügyi rendelet) 63. § (1) bekezdés a) pontja alapján a Személyügyi rendelet 32. § (1) bekezdése szerinti rendelkezési állományba áthelyezi, az áthelyezés napjával az állomány tagjának rendelkezési állományba áthelyezést megelőző alapilletményét 20%-kal csökkenteni kell.
+
+(3) Ha a döntésre jogosult elöljáró az állomány tagját a Személyügyi rendelet 63. § (1) bekezdés b) pontja vagy (2) bekezdése alapján a Személyügyi rendelet 32. § (1) bekezdése szerinti rendelkezési állományba áthelyezi, mérlegelési jogkörben dönthet a rendelkezési állományba helyezést megelőző alapilletmény legfeljebb 20%-kal történő csökkentéséről.
