@@ -1,1 +1,0 @@
-## 12. Avatási segély
