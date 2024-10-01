@@ -1,3 +1,0 @@
-52. § (1) Az a vállalkozás, amely a településfejlesztéssel, a településrendezéssel és az építésüggyel összefüggő egyes törvények módosításáról szóló 2012. évi CLVII. törvény (a továbbiakban: Módtv.) hatálybalépésekor az épített környezet alakításáról és védelméről szóló törvény szerinti szakmagyakorlási tevékenységet, valamint az 1. § (1) bekezdésében megjelölt mérnöki, illetve építészeti tevékenységet főtevékenységként folytatja, az 1. § (5) bekezdése szerinti bejelentést 2013. március 31-ig teszi meg.
-
-(2) E törvénynek a Módtv.-vel meghatározott 21. § (4) bekezdésében foglaltaknak legkésőbb 2013. április 30-ig kell eleget tenni.

@@ -1,1 +1,0 @@
-Az Országgyűlés – a hazai hagyományokat és a fejlett demokráciák gyakorlatát követve – a környezet alakítása, fejlesztése és védelme szempontjából meghatározó tervező- és szakértő mérnökök és építészek tevékenységének jelentőségét elismerve, a szakmai és etikai elvek érvényesítéséhez szükséges szakmai önigazgatást támogatva, a következő törvényt alkotja:
