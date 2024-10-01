@@ -4,7 +4,7 @@
 
 ## 25/A. A fűtési és légkondicionáló rendszerek energetikai felülvizsgálata
 
-43. § (1) Az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 10. pontja szerinti épületet vagy több épületet együttesen ellátó
+43. § (1) A magyar építészetről szóló 2023. évi C. törvény 16. § 42. pontja szerinti épületet vagy több épületet együttesen ellátó
 
 a) 70 kW-nál nagyobb effektív névleges teljesítményű fűtési rendszer vagy kombináltan helyiségfűtési és szellőzőrendszer,
 
