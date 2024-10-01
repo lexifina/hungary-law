@@ -1,4 +1,4 @@
-1. melléklet a 601/2022. (XII. 28.) Korm. rendelethez[^39]
+1. melléklet a 601/2022. (XII. 28.) Korm. rendelethez[^41]
 
 Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek és döntéshozó szervek kijelölése
 
@@ -8,7 +8,7 @@ Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek és 
 
 | 2. | JFGK1. | Az Európai Parlament és a Tanács 2000/60/EK irányelve (2000. október 23.) a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról: a 11. cikk (3) bekezdés e) pontja és – a foszfátok diffúz szennyezőforrásainak ellenőrzésére vonatkozó kötelező követelmények tekintetében – h) pontja | vízkivételi előírások kapcsán a Nemzeti Kifizető Ügynökség; foszfátok diffúz szennyezőforrásainak ellenőrzése kapcsán a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal | vízkivételi előírások kapcsán a Nemzeti Kifizető Ügynökség; foszfátok diffúz szennyezőforrásainak ellenőrzése kapcsán a fővárosi és vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró szervezeti egysége |
 
-| 3. | JFGK2. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal; állattartó telepen elsőfokú vízvédelmi hatósági hatáskörében a fővárosi és vármegyei katasztrófavédelmi igazgatóság | termőföld vonatkozásában a fővárosi és vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró szervezeti egysége; állattartó telep vonatkozásában a fővárosi és vármegyei katasztrófavédelmi igazgatóság |
+| 3. | JFGK2. | A vizek mezőgazdasági eredetű nitrátszennyezésével szembeni védelméről szóló, 1991. december 12-i 91/676/EGK tanácsi irányelv 4. és 5. cikke | termőföldön a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatal; állattartó telepen a Nemzeti Kifizető Ügynökség[^42] | termőföld vonatkozásában a fővárosi és vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró szervezeti egysége; állattartó telep vonatkozásában a Nemzeti Kifizető Ügynökség[^43] |
 
 | 4. | JFGK3. | A vadon élő madarak védelméről szóló, 2009. november 30-i 2009/147/EK európai parlamenti és tanácsi irányelv 3. cikk (1) bekezdése, (2) bekezdés b) pontja, 4. cikk (1), (2) és (4) bekezdése | Nemzeti Kifizető Ügynökség | Nemzeti Kifizető Ügynökség |
 
@@ -28,4 +28,6 @@ Jogszabályban foglalt gazdálkodási követelményeket ellenőrző szervek és 
 
 | 12. | JFGK11. | A tenyésztés céljából tartott állatok védelméről szóló, 1998. július 20-i 98/58/EK tanácsi irányelv 4. cikke | az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal | a fővárosi és vármegyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörben eljáró szervezeti egysége |
 
-[^39]: Az 1. mellékletet a 139/2023. (IV. 24.) Korm. rendelet 8. §-a iktatta be.
+[^41]: Az 1. mellékletet a 139/2023. (IV. 24.) Korm. rendelet 8. §-a iktatta be.
+[^42]: Az 1. mellékletben foglalt táblázat C:3 mezője a 257/2024. (VIII. 29.) Korm. rendelet 354. § a) pontja szerint módosított szöveg.
+[^43]: Az 1. mellékletben foglalt táblázat D:3 mezője a 257/2024. (VIII. 29.) Korm. rendelet 354. § b) pontja szerint módosított szöveg.
