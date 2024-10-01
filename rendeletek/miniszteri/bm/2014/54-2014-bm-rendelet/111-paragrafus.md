@@ -1,6 +1,6 @@
 111. § (1) A védett tér építményszerkezetei az MSZ 1363-2 szabvány szerinti szénhidrogén tűzgörbe vagy a RABT ZTV közúti alagúttűz tűzgörbe szerinti vizsgálattal legalább EI 120 tűzállósági teljesítményű legyen.
 
-(2)[^311] A vészkijárati ajtók az MSZ EN 1363-1 szabvány tűzgörbéje, illetve az MSZ EN 1634-1 szabvány szerinti vizsgálattal legalább EI1 90, MK osztály esetén legalább EI1 120 tűzállósági teljesítményű legyen. Az ajtók tűzvédelmi osztálya legalább A2 legyen.
+(2)[^313] A vészkijárati ajtók az MSZ EN 1363-1 szabvány tűzgörbéje, illetve az MSZ EN 1634-1 szabvány szerinti vizsgálattal legalább EI1 90, MK osztály esetén legalább EI1 120 tűzállósági teljesítményű legyen. Az ajtók tűzvédelmi osztálya legalább A2 legyen.
 
 (3) Az MK osztályú ikervágatú közúti alagutak esetében, a káreset során beavatkozó egységek számára – legalább 1500 méterenként – megfelelő űrszelvényű, tűzgátló nyílászáró szerkezetekkel határolt összekötő alagutakat kell biztosítani.
 
@@ -14,4 +14,4 @@
 
 (8) A tűzoltósági beavatkozási központban kell elhelyezni a tűzvédelmi berendezések kézi indítási egységeit, szerelvényeit, a menekülést segítő hírközlő rendszereket, valamint a tűzjelző berendezés központját.
 
-[^311]: A 111. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 90. pontja szerint módosított szöveg.
+[^313]: A 111. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 90. pontja szerint módosított szöveg.

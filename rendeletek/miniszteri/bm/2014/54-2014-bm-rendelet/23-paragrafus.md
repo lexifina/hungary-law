@@ -1,4 +1,4 @@
-23. §[^51] (1) Eltérő magasságú tűzszakaszok csatlakozását tűzterjedés ellen védetten kell kialakítani.
+23. §[^53] (1) Eltérő magasságú tűzszakaszok csatlakozását tűzterjedés ellen védetten kell kialakítani.
 
 (2) Fedett átrium belső homlokzatához kapcsolódó tűzszakaszhatár esetén biztosítani kell
 
@@ -14,4 +14,4 @@ ba) a fedett átrium belső homlokzatain,
 
 bb) a fedett átrium lefedését biztosító szerkezet és a szerkezetnél magasabban elhelyezkedő, eltérő tűzszakaszba tartozó helyiségek között.
 
-[^51]: A 23. § a 8/2022. (IV. 14.) BM rendelet 10. §-ával megállapított szöveg.
+[^53]: A 23. § a 8/2022. (IV. 14.) BM rendelet 10. §-ával megállapított szöveg.

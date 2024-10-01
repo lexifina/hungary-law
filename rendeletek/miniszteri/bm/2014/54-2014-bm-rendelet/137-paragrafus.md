@@ -1,6 +1,6 @@
 ## 73. Tűzeseti fogyasztók működőképessége
 
-137. § (1)[^330] A tűzeseti fogyasztók létesítése, beépítése, kialakítása során biztosítani kell, hogy tűz esetén működőképességüket a 11. mellékletben foglalt 1. táblázat szerinti időtartam és a teherhordó falra vonatkozó tűzállóságiteljesítmény-követelmény időtartama közül a kisebb időtartamig megtarthassák. Abban az esetben, ha az építményszerkezetek tűzállósági teljesítményét vagy a tűzszakaszok megengedett méretét fokozott üzembiztonságú tűzoltó berendezés figyelembevételével állapították meg, a 11. mellékletben foglalt 1. táblázat szerinti időtartamot kell biztosítani. Az érintett vezetékrendszer tűzhatás elleni védelmét legfeljebb 90 percig kell biztosítani.
+137. § (1)[^332] A tűzeseti fogyasztók létesítése, beépítése, kialakítása során biztosítani kell, hogy tűz esetén működőképességüket a 11. mellékletben foglalt 1. táblázat szerinti időtartam és a teherhordó falra vonatkozó tűzállóságiteljesítmény-követelmény időtartama közül a kisebb időtartamig megtarthassák. Abban az esetben, ha az építményszerkezetek tűzállósági teljesítményét vagy a tűzszakaszok megengedett méretét fokozott üzembiztonságú tűzoltó berendezés figyelembevételével állapították meg, a 11. mellékletben foglalt 1. táblázat szerinti időtartamot kell biztosítani. Az érintett vezetékrendszer tűzhatás elleni védelmét legfeljebb 90 percig kell biztosítani.
 
 (2) A működőképesség-megtartás megvalósul, ha tűz esetén
 
@@ -18,7 +18,7 @@ b) normál és biztonsági tápforrás együttes alkalmazása esetén a normál 
 
 c) a tűzeseti fogyasztó kialakítása megfelel a vonatkozó műszaki követelménynek vagy azzal egyenértékű.
 
-(3)[^331] Biztonsági tápforrást kell alkalmazni
+(3)[^333] Biztonsági tápforrást kell alkalmazni
 
 a) az MK mértékadó kockázati osztályú építmények, önálló épületrészek tűzeseti fogyasztóinak ellátására,
 
@@ -40,5 +40,5 @@ b) egyéb tűzeseti fogyasztó esetén 90 másodperc.
 
 (6) Tűzeseti fogyasztó biztonsági tápellátására gázmotor nem alkalmazható.
 
-[^330]: A 137. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^331]: A 137. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (2) bekezdésével megállapított szöveg.
+[^332]: A 137. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^333]: A 137. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 47. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 52. [^266] Hő- és füstelvezető szerkezet, hő- és füstelvezetésre szolgáló szabad nyílás
+## 52. [^268] Hő- és füstelvezető szerkezet, hő- és füstelvezetésre szolgáló szabad nyílás
 
 91. § (1) A hő- és füstelvezető szerkezet
 
@@ -22,7 +22,7 @@ e) hővel szembeni ellenállása B = 300 °C és
 
 f) égvecsepegési kategóriája – a vízszinteshez képest 120°-nál nagyobb mértékben kinyíló szerkezet kivételével – d0.
 
-(2)[^267] A vízszinteshez viszonyítva legfeljebb 60°-os szöget bezáró beépítési helyzetű hő- és füstelvezető szerkezet nyitását biztosítani kell legfeljebb 250 Pa függőleges megoszló teher (hóteher, jelzése: SL) esetében is.
+(2)[^269] A vízszinteshez viszonyítva legfeljebb 60°-os szöget bezáró beépítési helyzetű hő- és füstelvezető szerkezet nyitását biztosítani kell legfeljebb 250 Pa függőleges megoszló teher (hóteher, jelzése: SL) esetében is.
 
 (3) Az alacsony belső hőmérsékleten történő nyitást
 
@@ -34,11 +34,11 @@ hőmérsékleten kell biztosítani.
 
 (4) A hő- és füstelvezető szerkezet átfolyási tényezőjét vizsgálattal kell megállapítani.
 
-(5)[^268] Meglévő épület, épületrész füstelvezetésének létesítésénél, átalakításánál, felújításánál oldalfalba épített meglévő nyílászáró füstelvezető szerkezetként való alkalmazása esetén, vizsgálati eredmény hiányában alkalmazható normatív átfolyási tényező, ha az alkalmazást az átalakítás mértékének, körének figyelembevételével a tűzvédelmi hatósággal egyeztették.
+(5)[^270] Meglévő épület, épületrész füstelvezetésének létesítésénél, átalakításánál, felújításánál oldalfalba épített meglévő nyílászáró füstelvezető szerkezetként való alkalmazása esetén, vizsgálati eredmény hiányában alkalmazható normatív átfolyási tényező, ha az alkalmazást az átalakítás mértékének, körének figyelembevételével a tűzvédelmi hatósággal egyeztették.
 
-(6)[^269] A hő- és füstelvezetésre szolgáló szabad nyílások esetében a hő- és füstelvezető szerkezetekre vonatkozó követelményeket a hatásos nyílásfelület, valamint az elhelyezés tekintetében alkalmazni kell. A szabad nyílás átfolyási tényezőjeként alkalmazható normatív érték is.
+(6)[^271] A hő- és füstelvezetésre szolgáló szabad nyílások esetében a hő- és füstelvezető szerkezetekre vonatkozó követelményeket a hatásos nyílásfelület, valamint az elhelyezés tekintetében alkalmazni kell. A szabad nyílás átfolyási tényezőjeként alkalmazható normatív érték is.
 
-[^266]: Az 52. alcím címe a 30/2019. (VII. 26.) BM rendelet 58. §-ával megállapított szöveg.
-[^267]: A 91. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 79. pontja szerint módosított szöveg.
-[^268]: A 91. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 62. és 80. pontja szerint módosított szöveg.
-[^269]: A 91. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 59. §-ával megállapított szöveg.
+[^268]: Az 52. alcím címe a 30/2019. (VII. 26.) BM rendelet 58. §-ával megállapított szöveg.
+[^269]: A 91. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 79. pontja szerint módosított szöveg.
+[^270]: A 91. § (5) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 62. és 80. pontja szerint módosított szöveg.
+[^271]: A 91. § (6) bekezdése a 30/2019. (VII. 26.) BM rendelet 59. §-ával megállapított szöveg.

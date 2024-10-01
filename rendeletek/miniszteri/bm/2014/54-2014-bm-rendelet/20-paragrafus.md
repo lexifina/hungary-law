@@ -1,4 +1,4 @@
-20. §[^44] (1) Legalább tűzgátló válaszfallal vagy ezt helyettesítő beépített tűzterjedésgátló berendezéssel kell elválasztani
+20. §[^46] (1) Legalább tűzgátló válaszfallal vagy ezt helyettesítő beépített tűzterjedésgátló berendezéssel kell elválasztani
 
 a) az önálló rendeltetési egységet a szomszédos helyiségtől,
 
@@ -14,4 +14,4 @@ b) egyéb esetben nem haladja meg az elválasztó falfelület 20%-át.
 
 (3) A (2) bekezdés szerinti üvegezett falszerkezet, üvegfal akkor alkalmazható menekülési útvonalat képező fedett átriumban, ha az átriumot befogadó tűzszakasz teljes területét beépített tűzoltó berendezés védi, és a homlokzati tűzterjedés elleni gát követelményei teljesülnek.
 
-[^44]: A 20. § a 30/2019. (VII. 26.) BM rendelet 14. §-ával megállapított szöveg.
+[^46]: A 20. § a 30/2019. (VII. 26.) BM rendelet 14. §-ával megállapított szöveg.

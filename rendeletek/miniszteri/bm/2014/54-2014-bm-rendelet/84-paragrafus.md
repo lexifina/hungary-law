@@ -6,9 +6,9 @@ a) az építményben vagy részében beépített tűzjelző berendezés üzemel 
 
 b) azon építményrészek száma meghaladja a 30-at, amelyek hő és füst elleni védelmét önállóan lehet vezérelni a hő- és füstelvezetés tűzoltósági vezérlőtablóján.
 
-(2)[^239] A tűzoltósági beavatkozási központban a tűzvédelmi hatóság által meghatározott berendezések, tűzoltótechnikai eszközök vezérléseit kell biztosítani.
+(2)[^241] A tűzoltósági beavatkozási központban a tűzvédelmi hatóság által meghatározott berendezések, tűzoltótechnikai eszközök vezérléseit kell biztosítani.
 
-(3)[^240] A vezérlések működését és a visszajelzések fogadását a vezérelt berendezések, tűzoltótechnikai eszközök előírt működőképességéig kell biztosítani.
+(3)[^242] A vezérlések működését és a visszajelzések fogadását a vezérelt berendezések, tűzoltótechnikai eszközök előírt működőképességéig kell biztosítani.
 
-[^239]: A 84. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 48. és 73. pontja szerint módosított szöveg.
-[^240]: A 84. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 73. pontja szerint módosított szöveg.
+[^241]: A 84. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 48. és 73. pontja szerint módosított szöveg.
+[^242]: A 84. § (3) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 73. pontja szerint módosított szöveg.

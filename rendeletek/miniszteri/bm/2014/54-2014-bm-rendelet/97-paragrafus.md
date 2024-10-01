@@ -1,6 +1,6 @@
 ## 57. Füstmentesítés
 
-97. §[^292] (1) A lépcsőház füstmentesítését természetes átszellőzéssel vagy gépészet útján a lépcsőházba juttatott levegő túlnyomásával vagy a lépcsőház és a kapcsolódó terek között elhelyezett, természetes úton átszellőző vagy túlnyomásos füstmentes előtérrel kell biztosítani.
+97. §[^294] (1) A lépcsőház füstmentesítését természetes átszellőzéssel vagy gépészet útján a lépcsőházba juttatott levegő túlnyomásával vagy a lépcsőház és a kapcsolódó terek között elhelyezett, természetes úton átszellőző vagy túlnyomásos füstmentes előtérrel kell biztosítani.
 
 (2) Túlnyomásos füstmentes lépcsőház, valamint túlnyomásos füstmentes előtér esetén
 
@@ -8,7 +8,7 @@ a) az ajtók nyitott és zárt állapotában is biztosítani kell a füstmentess
 
 b) a túlnyomást biztosító légellátó vezeték lépcsőházon, valamint előtéren kívüli szakaszára a 9. mellékletben foglalt 2. táblázat szerint a többszakaszos légpótló légcsatornára vonatkozó követelményt kell teljesíteni.
 
-(3)[^293] A túlnyomásos füstmentes lépcsőházhoz vagy előteréhez kapcsolódó terekben a túlnyomásos térből bejutó levegő automatikus elvezetését meg kell oldani oly módon, hogy ne veszélyeztesse a menekülést.
+(3)[^295] A túlnyomásos füstmentes lépcsőházhoz vagy előteréhez kapcsolódó terekben a túlnyomásos térből bejutó levegő automatikus elvezetését meg kell oldani oly módon, hogy ne veszélyeztesse a menekülést.
 
-[^292]: A 97. § a 30/2019. (VII. 26.) BM rendelet 63. §-ával megállapított szöveg.
-[^293]: A 97. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 46. §-ával megállapított szöveg.
+[^294]: A 97. § a 30/2019. (VII. 26.) BM rendelet 63. §-ával megállapított szöveg.
+[^295]: A 97. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 46. §-ával megállapított szöveg.

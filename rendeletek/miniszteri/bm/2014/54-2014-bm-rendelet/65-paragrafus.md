@@ -4,7 +4,7 @@
 
 ## 37. Általános követelmények
 
-65. §[^198] (1)[^199] Tűzoltási felvonulási területet és utat kell biztosítani az alábbi épületek esetében:
+65. §[^200] (1)[^201] Tűzoltási felvonulási területet és utat kell biztosítani az alábbi épületek esetében:
 
 a) 14 m szintmagasság feletti legfelső építményszintű épületek,
 
@@ -24,5 +24,5 @@ f) olyan ipari, mezőgazdasági és tárolási rendeltetésű épület, amely na
 
 (4) Tűzoltási felvonulási terület és út lezárásának módját a tűzvédelmi hatósággal kell egyeztetni.
 
-[^198]: A 65. § a 30/2019. (VII. 26.) BM rendelet 45. §-ával megállapított szöveg.
-[^199]: A 65. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 34. §-ával megállapított szöveg.
+[^200]: A 65. § a 30/2019. (VII. 26.) BM rendelet 45. §-ával megállapított szöveg.
+[^201]: A 65. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 34. §-ával megállapított szöveg.

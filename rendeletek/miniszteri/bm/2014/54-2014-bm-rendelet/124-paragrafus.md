@@ -18,6 +18,6 @@ b) MK osztály esetén legalább A2 tűzvédelmi osztályú legyen, és MSZ EN 1
 
 (7) A legfeljebb KK osztályba tartozó épületen belül a kilátóhoz vezető lépcsőre nem vonatkozik tűzvédelmi osztály és tűzállóságihatárérték-követelmény, ha a kilátó és a hozzá vezető lépcső tere különálló tűzszakaszként van kialakítva az épület többi részétől, a földszinten a szabadba nyíló kijárattal rendelkezik és a kilátó tűzszakasz területe automatikus tűzjelző berendezéssel védett.
 
-(8)[^321] Épületen belüli lépcsőtérnek a hő- és füstelvezetéséről – a NAK osztályba tartozó épület kivételével – gondoskodni kell. A kialakítás módját a tűzvédelmi hatósággal kell egyeztetni.
+(8)[^323] Épületen belüli lépcsőtérnek a hő- és füstelvezetéséről – a NAK osztályba tartozó épület kivételével – gondoskodni kell. A kialakítás módját a tűzvédelmi hatósággal kell egyeztetni.
 
-[^321]: A 124. § (8) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 62. pontja szerint módosított szöveg.
+[^323]: A 124. § (8) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 62. pontja szerint módosított szöveg.

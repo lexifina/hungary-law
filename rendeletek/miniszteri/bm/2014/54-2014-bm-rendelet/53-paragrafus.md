@@ -1,4 +1,4 @@
-53. §[^150] (1)[^151] Csúszda, felvonó, mozgólépcső, valamint 25%-nál meredekebb lejtő kiürítésre nem tervezhető, kivéve
+53. §[^152] (1)[^153] Csúszda, felvonó, mozgólépcső, valamint 25%-nál meredekebb lejtő kiürítésre nem tervezhető, kivéve
 
 a) jogszabály eltérő rendelkezése,
 
@@ -12,5 +12,5 @@ esetén.
 
 (2) Vészlétrát, vészhágcsót menekülés céljára ipari, mezőgazdasági vagy tárolási rendeltetés esetén, valamint gépészeti helyiség, gépészeti tér esetén lehet használni.
 
-[^150]: Az 53. § a 30/2019. (VII. 26.) BM rendelet 39. §-ával megállapított szöveg.
-[^151]: Az 53. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 28. §-ával megállapított szöveg.
+[^152]: Az 53. § a 30/2019. (VII. 26.) BM rendelet 39. §-ával megállapított szöveg.
+[^153]: Az 53. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 28. §-ával megállapított szöveg.

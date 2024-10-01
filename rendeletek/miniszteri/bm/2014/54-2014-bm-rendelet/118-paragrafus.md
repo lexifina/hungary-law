@@ -22,7 +22,7 @@ e) az alagutak menekülésre tervezett útvonalain és a védett térben az MSZ 
 
 tűzállósági teljesítményű legyen.
 
-(4)[^319] Az alagútban lévő vészkijárati ajtók az MSZ EN 1363-1 szabvány tűzgörbéje és az MSZ EN 1634-1 vizsgálat szerint legalább EI1 90-C tűzállósági teljesítményű legyen.
+(4)[^321] Az alagútban lévő vészkijárati ajtók az MSZ EN 1363-1 szabvány tűzgörbéje és az MSZ EN 1634-1 vizsgálat szerint legalább EI1 90-C tűzállósági teljesítményű legyen.
 
 (5) Ha az állomás egy másik építményhez csatlakozik, akkor az állomás az építménytől külön tűzszakaszt képez.
 
@@ -32,7 +32,7 @@ tűzállósági teljesítményű legyen.
 
 (8) Az állomások hő- és füstelvezető rendszerét úgy kell kialakítani, hogy a peron, utasforgalmi terület legalább 30 percig a menekülést nem gátló módon füstszegény maradjon.
 
-(9)[^320] A hő- és füstelvezető berendezésben alkalmazott ventilátoroknak, a meghajtó villamos motoroknak legalább 400 °C-os füstgázhőmérsékletet figyelembe véve legalább 60 percig kell üzemképesnek lenniük. A hő- és füstelvezető rendszer elvezető légcsatorna-hálózata legalább A1 EI 60 S multi, a légpótlást biztosító csatornahálózata legalább A1 EI 60 S multi tűzvédelmi teljesítményű legyen, az MSZ EN 1363-1 szabvány tűzgörbéje szerinti vizsgálattal.
+(9)[^322] A hő- és füstelvezető berendezésben alkalmazott ventilátoroknak, a meghajtó villamos motoroknak legalább 400 °C-os füstgázhőmérsékletet figyelembe véve legalább 60 percig kell üzemképesnek lenniük. A hő- és füstelvezető rendszer elvezető légcsatorna-hálózata legalább A1 EI 60 S multi, a légpótlást biztosító csatornahálózata legalább A1 EI 60 S multi tűzvédelmi teljesítményű legyen, az MSZ EN 1363-1 szabvány tűzgörbéje szerinti vizsgálattal.
 
-[^319]: A 118. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 106. § 35. pontja szerint módosított szöveg.
-[^320]: A 118. § (9) bekezdése a 30/2019. (VII. 26.) BM rendelet 67. §-ával megállapított szöveg.
+[^321]: A 118. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 106. § 35. pontja szerint módosított szöveg.
+[^322]: A 118. § (9) bekezdése a 30/2019. (VII. 26.) BM rendelet 67. §-ával megállapított szöveg.

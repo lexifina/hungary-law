@@ -4,7 +4,7 @@
 
 ## 81. A létesítés általános szabályai
 
-161. §[^366] (1) A beépített tűzjelző berendezés:
+161. §[^368] (1) A beépített tűzjelző berendezés:
 
 a) a tüzet annak korai szakaszában jelezze,
 
@@ -22,21 +22,21 @@ a) a távkezelő, távkijelző egység, annak hiányában a tűzjelző központ 
 
 b) az automatikus érzékelőket a felügyelt tűzjellemzők jelentősebb hígulás, csillapítás vagy késedelem nélkül elérjék,
 
-c)[^367] a kézi jelzésadók észlelhetőek, felismerhetőek, az ott tartózkodó személyek által könnyen elérhetőek, a kiürítésre szolgáló útvonalak és a kijáratok közelében működtethetőek legyenek,
+c)[^369] a kézi jelzésadók észlelhetőek, felismerhetőek, az ott tartózkodó személyek által könnyen elérhetőek, a kiürítésre szolgáló útvonalak és a kijáratok közelében működtethetőek legyenek,
 
 d) a tűzriasztást megjelenítő részegységek jelzése az ott tartózkodó személyek által észlelhető, más jelzésektől egyértelműen elkülöníthető legyen, figyelembe véve a személyek éberségét és a környezet más hangforrásait is,
 
 e) a részegységek a szükséges mértékben hozzáférhetőek legyenek, felülvizsgálatuk, karbantartásuk, javításuk lehetséges legyen.
 
-(3)[^368] Az automatikus érzékelőket, kézi jelzésadókat, hangjelzőket, fényjelzőket, vezetékágakat, elosztókat azonosító jelöléssel kell ellátni. Az automatikus érzékelők, kézi jelzésadók azonosító jelölése elhagyható, ha az épület műemléki jellege vagy más körülmény indokolttá teszi és tűz vagy hiba esetén a helyszíni azonosításuk jelölés nélkül is biztosított.
+(3)[^370] Az automatikus érzékelőket, kézi jelzésadókat, hangjelzőket, fényjelzőket, vezetékágakat, elosztókat azonosító jelöléssel kell ellátni. Az automatikus érzékelők, kézi jelzésadók azonosító jelölése elhagyható, ha az épület műemléki jellege vagy más körülmény indokolttá teszi és tűz vagy hiba esetén a helyszíni azonosításuk jelölés nélkül is biztosított.
 
-(4)[^369] A normál tápforrás kiesése esetén a másodlagos tápforrás biztosítja
+(4)[^371] A normál tápforrás kiesése esetén a másodlagos tápforrás biztosítja
 
 a) legalább 24 órán keresztül a rendszer működését, és ezt követően
 
 b) legalább 30 percen keresztül a riasztási terhelést.
 
-[^366]: A 161. § a 30/2019. (VII. 26.) BM rendelet 78. §-ával megállapított szöveg.
-[^367]: A 161. § (1) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.
-[^368]: A 161. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 53. § (1) bekezdésével megállapított szöveg.
-[^369]: A 161. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 53. § (2) bekezdése iktatta be.
+[^368]: A 161. § a 30/2019. (VII. 26.) BM rendelet 78. §-ával megállapított szöveg.
+[^369]: A 161. § (1) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.
+[^370]: A 161. § (3) bekezdése a 8/2022. (IV. 14.) BM rendelet 53. § (1) bekezdésével megállapított szöveg.
+[^371]: A 161. § (4) bekezdését a 8/2022. (IV. 14.) BM rendelet 53. § (2) bekezdése iktatta be.

@@ -24,6 +24,6 @@ e) átalakítás nyomai észlelhetők rajta.
 
 (8) Az üzemeltetés során keletkezett sérülésről az illetékes töltővállalatot, cseretelepet tájékoztatni kell.
 
-(9)[^533] Hibás szerelvényű palackot nem szabad tölteni, használni.
+(9)[^535] Hibás szerelvényű palackot nem szabad tölteni, használni.
 
-[^533]: A 246. § (9) bekezdését a 8/2022. (IV. 14.) BM rendelet 66. §-a iktatta be.
+[^535]: A 246. § (9) bekezdését a 8/2022. (IV. 14.) BM rendelet 66. §-a iktatta be.

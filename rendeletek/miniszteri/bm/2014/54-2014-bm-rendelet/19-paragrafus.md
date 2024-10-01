@@ -24,11 +24,13 @@ b) a működő berendezés az általa elválasztott térrészek között a tűz,
 
 c) a berendezés tűzterjedésgátló képességét, alkalmasságát
 
-ca) alátámasztó valós méretű tűzteszt eredményét az adott célra való felhasználásra a katasztrófavédelem központi szerve elfogadta vagy
+ca)[^44] alátámasztó valós méretű tűzteszt eredményét az adott célra való felhasználásra a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium elfogadta vagy
 
-cb) vizsgáló szervezet a katasztrófavédelem központi szervével egyeztetett vizsgálati terv szerinti valós méretű tűzteszttel igazolta.
+cb)[^45] vizsgáló szervezet a közigazgatás-szervezésért felelős miniszter által vezetett minisztériummal egyeztetett vizsgálati terv szerinti valós méretű tűzteszttel igazolta.
 
 [^40]: A 19. § (1) bekezdés a) pontja a 30/2019. (VII. 26.) BM rendelet 13. §-ával megállapított szöveg.
 [^41]: A 19. § (1) bekezdés b) pontja a 30/2019. (VII. 26.) BM rendelet 13. §-ával megállapított szöveg.
 [^42]: A 19. § (1) bekezdés e) pontja a 30/2019. (VII. 26.) BM rendelet 105. § 20. pontja szerint módosított szöveg.
 [^43]: A 19. § (2) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 21. pontja szerint módosított szöveg.
+[^44]: A 19. § (3) bekezdés c) pont ca) alpontja a 39/2024. (VIII. 29.) BM rendelet 8. § a) pontja szerint módosított szöveg.
+[^45]: A 19. § (3) bekezdés c) pont cb) alpontja a 39/2024. (VIII. 29.) BM rendelet 8. § b) pontja szerint módosított szöveg.

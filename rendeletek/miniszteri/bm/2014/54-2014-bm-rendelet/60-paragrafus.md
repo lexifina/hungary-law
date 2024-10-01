@@ -1,6 +1,6 @@
-## 33. [^186] Kiürítésre szolgáló, valamint menekülési útvonalat képező lépcsőház, lépcső követelményei
+## 33. [^188] Kiürítésre szolgáló, valamint menekülési útvonalat képező lépcsőház, lépcső követelményei
 
-60. §[^187] (1)[^188] A menekülési útvonal függőleges szakaszát
+60. §[^189] (1)[^190] A menekülési útvonal függőleges szakaszát
 
 a) lépcsőházban,
 
@@ -14,9 +14,9 @@ kell vezetni.
 
 (2) A menekülési útvonalat képező lépcsőházat
 
-a)[^189] abban az esetben, ha a lépcsőházból kivezető kijárati szint és az attól függőleges értelemben vett legtávolabbi, a lépcsőházba vezető és kiürítés során figyelembe vett bejárati szint között a szintkülönbség legfeljebb 14 méter, legalább hő- és füstelvezetéssel rendelkező lépcsőházként,
+a)[^191] abban az esetben, ha a lépcsőházból kivezető kijárati szint és az attól függőleges értelemben vett legtávolabbi, a lépcsőházba vezető és kiürítés során figyelembe vett bejárati szint között a szintkülönbség legfeljebb 14 méter, legalább hő- és füstelvezetéssel rendelkező lépcsőházként,
 
-b)[^190] az a) ponttól eltérő, 14 métert meghaladó szintkülönbség esetén füstmentes lépcsőházként,
+b)[^192] az a) ponttól eltérő, 14 métert meghaladó szintkülönbség esetén füstmentes lépcsőházként,
 
 c) speciális építményben a XII. Fejezet szerint
 
@@ -40,13 +40,13 @@ a) közvetlenül,
 
 b) tűzgátló építményszerkezetekkel határolt közlekedőn keresztül vagy
 
-c)[^191] két eltérő tűzszakaszon keresztül
+c)[^193] két eltérő tűzszakaszon keresztül
 
 biztonságos térbe lehessen jutni.
 
-[^186]: A 33. alcím címe a 30/2019. (VII. 26.) BM rendelet 43. §-ával megállapított szöveg.
-[^187]: A 60. § a 30/2019. (VII. 26.) BM rendelet 44. §-ával megállapított szöveg.
-[^188]: A 60. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 33. §-ával megállapított szöveg.
-[^189]: A 60. § (2) bekezdés a) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 18. pontja szerint módosított szöveg.
-[^190]: A 60. § (2) bekezdés b) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 19. pontja szerint módosított szöveg.
-[^191]: A 60. § (7) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 20. pontja szerint módosított szöveg.
+[^188]: A 33. alcím címe a 30/2019. (VII. 26.) BM rendelet 43. §-ával megállapított szöveg.
+[^189]: A 60. § a 30/2019. (VII. 26.) BM rendelet 44. §-ával megállapított szöveg.
+[^190]: A 60. § (1) bekezdése a 8/2022. (IV. 14.) BM rendelet 33. §-ával megállapított szöveg.
+[^191]: A 60. § (2) bekezdés a) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 18. pontja szerint módosított szöveg.
+[^192]: A 60. § (2) bekezdés b) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 19. pontja szerint módosított szöveg.
+[^193]: A 60. § (7) bekezdés c) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 20. pontja szerint módosított szöveg.

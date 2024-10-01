@@ -24,11 +24,11 @@ f) a tűzoltást segítő körülményeket, mint hő- és füstelvezetés indít
 
 g) a kapcsolattartó nevét, telefonszámát.
 
-(4)[^475] A tűzjelzést adó létesítmény tulajdonosa, üzemeltetője, kezelője, használója és a távfelügyeleti központ üzemeltetője közötti szolgáltatói szerződés tartalmazza a téves riasztásokból bekövetkező eseményekből származó költségek megtérítésének felelősségét és módját.
+(4)[^477] A tűzjelzést adó létesítmény tulajdonosa, üzemeltetője, kezelője, használója és a távfelügyeleti központ üzemeltetője közötti szolgáltatói szerződés tartalmazza a téves riasztásokból bekövetkező eseményekből származó költségek megtérítésének felelősségét és módját.
 
 (5) Ha a távfelügyelet vagy az első fokú tűzvédelmi hatóság által a tűzátjelzés fogadásra meghatározott helyszín megváltozik, az új helyszínre az automatikus tűzátjelzés továbbítását 90 napon belül – a berendezés állandó felügyeletének folyamatos biztosítása mellett – kell megvalósítani.
 
-(6)[^476] A távfelügyelet haladéktalanul köteles a hozzá beérkező hibajelzésről az adott létesítmény üzemeltetőjét értesíteni.
+(6)[^478] A távfelügyelet haladéktalanul köteles a hozzá beérkező hibajelzésről az adott létesítmény üzemeltetőjét értesíteni.
 
-[^475]: A 203. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 138. pontja szerint módosított szöveg.
-[^476]: A 203. § (6) bekezdését a 288. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 62. §-a iktatta be.
+[^477]: A 203. § (4) bekezdése a 30/2019. (VII. 26.) BM rendelet 105. § 138. pontja szerint módosított szöveg.
+[^478]: A 203. § (6) bekezdését a 288. § (2) bekezdése hatályon kívül helyezte, újonnan a 8/2022. (IV. 14.) BM rendelet 62. §-a iktatta be.

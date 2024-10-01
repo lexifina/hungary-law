@@ -1,4 +1,4 @@
-138. §[^332] (1) Nem szükséges a tápforrás és a tűzeseti fogyasztó közötti energiaátvitel és a működtetést, vezérlést biztosító vezetékrendszer tűzhatás elleni védelmét biztosítani, ha
+138. §[^334] (1) Nem szükséges a tápforrás és a tűzeseti fogyasztó közötti energiaátvitel és a működtetést, vezérlést biztosító vezetékrendszer tűzhatás elleni védelmét biztosítani, ha
 
 a) a biztonsági tápforrást a tűzeseti fogyasztóban helyezték el, vagy
 
@@ -14,4 +14,4 @@ b) rögzítése olyan építményszerkezeten történik, melynek a tűzállósá
 
 c) a végponti fogyasztóval azonos helyiségben helyezkedik el.
 
-[^332]: A 138. § a 30/2019. (VII. 26.) BM rendelet 69. §-ával megállapított szöveg.
+[^334]: A 138. § a 30/2019. (VII. 26.) BM rendelet 69. §-ával megállapított szöveg.

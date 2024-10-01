@@ -10,7 +10,7 @@ b) fekvőbeteg ellátásra szolgáló intézmény,
 
 c) felszín alatti vasútvonal alagútja és állomása,
 
-d)[^357] menekülésben korlátozott személyek speciális intézménye
+d)[^359] menekülésben korlátozott személyek speciális intézménye
 
 esetében.
 
@@ -18,4 +18,4 @@ esetében.
 
 (3) Az (1)–(2) bekezdésben meghatározott esetekben a tűzátjelzést automatikus és felügyelt kapcsolaton keresztül kell megvalósítani.
 
-[^357]: A 156. § (1) bekezdés d) pontját a 30/2019. (VII. 26.) BM rendelet 76. §-a iktatta be.
+[^359]: A 156. § (1) bekezdés d) pontját a 30/2019. (VII. 26.) BM rendelet 76. §-a iktatta be.

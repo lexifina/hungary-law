@@ -26,7 +26,7 @@ tűzvédelmi osztályú.
 
 (5) Az ipari rendeltetésű szín tartószerkezete, valamint tető- és egyéb térelhatároló szerkezete legalább A2 tűzvédelmi osztályú.
 
-(6)[^326] A szín kiürítésre szolgáló útvonalait, kijáratainak számát, méretét úgy kell kialakítani, hogy
+(6)[^328] A szín kiürítésre szolgáló útvonalait, kijáratainak számát, méretét úgy kell kialakítani, hogy
 
 a) a D tűzvédelmi osztályú tartó-, valamint tető- és egyéb térelhatároló szerkezettel rendelkező építmény 0,5 perc,
 
@@ -42,4 +42,4 @@ alatt kiüríthető legyen.
 
 (8) A kiürítési számítást a szín tetőszerkezetének vízszintes vetületéig kell számolni.
 
-[^326]: A 131. § (6) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.
+[^328]: A 131. § (6) bekezdés nyitó szövegrésze a 8/2022. (IV. 14.) BM rendelet 75. § 21. pontja szerint módosított szöveg.

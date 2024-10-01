@@ -1,6 +1,6 @@
 252. § (1) Az üzemeltetőnek a felülvizsgálat, karbantartás, javítás idején csökkenő védelmi szintet alkalmas megoldásokkal ellensúlyoznia kell. Az ellensúlyozás keretében az üzemeltető
 
-a)[^539] a vonatkozó műszaki követelményben foglalt vagy azzal egyenértékű megoldást alkalmaz,
+a)[^541] a vonatkozó műszaki követelményben foglalt vagy azzal egyenértékű megoldást alkalmaz,
 
 b) felfüggeszti az üzemelést, használatot, tevékenységet a védelmi szint helyreállásáig,
 
@@ -12,4 +12,4 @@ d) a tűzvédelmi hatósággal előzetesen egyeztetett más megoldást alkalmaz.
 
 (3) Az üzemeltetői ellenőrzést végző személynek rendelkeznie kell az ellenőrzés megfelelő végrehajtásához szükséges ismeretekkel és az üzemeltető által kiállított, erre vonatkozó írásbeli meghatalmazással.
 
-[^539]: A 252. § (1) bekezdés a) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 58. pontja szerint módosított szöveg.
+[^541]: A 252. § (1) bekezdés a) pontja a 8/2022. (IV. 14.) BM rendelet 75. § 58. pontja szerint módosított szöveg.

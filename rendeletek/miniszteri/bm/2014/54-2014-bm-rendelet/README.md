@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-54-20-0
 | 2020-01-22 | 2014-54-20-0A.7 | 30/2019. (VII. 26.) BM rendelet |
 | 2022-06-13 | 2014-54-20-0A.8 | 8/2022. (IV. 14.) BM rendelet |
 | 2024-08-11 | 2014-54-20-0A.9 | 28/2024. (VII. 12.) BM rendelet |
+| 2024-10-01 | 2014-54-20-0A.10 | 39/2024. (VIII. 29.) BM rendelet |

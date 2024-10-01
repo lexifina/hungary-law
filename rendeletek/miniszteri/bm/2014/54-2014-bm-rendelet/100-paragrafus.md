@@ -1,3 +1,3 @@
-100. §[^304]
+100. §[^306]
 
-[^304]: A 100. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 33. pontja hatályon kívül helyezte.
+[^306]: A 100. §-t a 30/2019. (VII. 26.) BM rendelet 106. § 33. pontja hatályon kívül helyezte.
