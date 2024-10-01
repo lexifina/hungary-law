@@ -1,0 +1,3 @@
+37. § Az Épkiv. 26. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az e-főnaplóba és e-alnaplóba az e-építési napló vezetésére kötelezett a napi bejegyzést, valamint az építőipari kivitelezési tevékenység egyéb dokumentumait közvetlenül az e-építési naplóba vagy az általános nyomtatványkitöltő alkalmazás futtatására alkalmas számítástechnikai eszköz igénybevételével köteles rögzíteni. A naplóvezetésre kötelezettnek gondoskodnia kell arról, hogy a helyi számítástechnikai eszközzel rögzített napi bejegyzés és egyéb dokumentumok legfeljebb a bejegyzési vagy dokumentálási kötelezettség napját követő napon belül az internetes alkalmazásban is rögzítésre kerüljenek.”
