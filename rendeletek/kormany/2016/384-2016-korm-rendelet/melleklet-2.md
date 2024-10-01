@@ -26,12 +26,13 @@ A telekalakítási eljárás iránti kérelemhez mellékelt telekalakítási dok
 
 2.7. a telekalakítással érintett földrészleten lévő összes építmény távolságát a tervezett földrészlet határtól,
 
-2.8. a létrejövő földrészlet méreteit,
+2.8.[^99] a létrejövő földrészlet méreteit, nyúlványos telek esetén a földrészlet nyúlvány nélküli méretét,
 
 2.9. a beépített földrészlet esetén a földrészlet eredeti és a telekalakítás utáni beépítési százalékát.
 
-3.[^82] A telekalakítási záradék:
+3.[^100] A telekalakítási záradék:
 
 A kormányhivatal a telekalakítás engedélyezése esetén a változási vázrajzot az »A telekalakítást a .../..../20... számú határozatomban foglaltak szerint engedélyeztem. Az engedély a hozzá tartozó változási vázrajzzal együtt a határozat véglegessé válásától számított egy évig hatályos.« záradékszöveggel látja el.
 
-[^82]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.
+[^99]: A 2. melléklet 2.8. pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § h) pontja szerint módosított szöveg.
+[^100]: A 2. melléklet 3. pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § h) pontja, a 360/2019. (XII. 30.) Korm. rendelet 160. § (3) bekezdés b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 203. §-át.

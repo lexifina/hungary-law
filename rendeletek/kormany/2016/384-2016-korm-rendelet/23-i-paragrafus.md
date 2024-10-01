@@ -1,21 +1,20 @@
-23/I. §[^64] (1) Amennyiben az Étv. 23. § (1) bekezdése szerinti jogszabályi vizsgálat során megállapításra kerül, hogy a telekalakítással érintett területre vonatkozóan nincs hatályban helyi építési szabályzat – vagy ha a helyi építési szabályzat a telekalakítási követelményeket nem tartalmazza teljeskörűen –, telket alakítani csak úgy lehet, ha
+23/I. §[^75] (1)[^76] Amennyiben a Méptv. 88. § (1) bekezdése szerinti jogszabályi vizsgálat során megállapításra kerül, hogy a telekalakítással érintett területre vonatkozóan nincs hatályban helyi építési szabályzat – vagy ha a helyi építési szabályzat a telekalakítási követelményeket nem tartalmazza teljeskörűen –, telket alakítani csak úgy lehet, ha
 
-a) teljesülnek az Étv. 23. és 24. §-ában, valamint a IV. Fejezetben foglalt előírások, és
+a)[^77] teljesülnek a Méptv. 88. és 89. §-ában, valamint a IV. Fejezetben foglalt előírások, és
 
-b) érvényesülnek a kialakult állapothoz illeszkedés (3) bekezdésben foglalt követelményei.
+b)[^78] érvényesülnek a kialakult állapothoz illeszkedés Méptv. 83. §-ában foglalt követelményei.
 
 (2) A (3) bekezdésben foglalt esetben településrendezési szakkérdésként vizsgálni kell a telekalakítással érintett telek kialakult állapothoz történő illeszkedését.
 
-(3) A kialakult állapothoz történő illeszkedés a telekalakítás során akkor teljesül, ha
+(3)[^79]
 
-a) a szomszédos telkek jellemző telekméreteit a kialakítani kívánt telek, telkek méretei elérik, továbbá a szomszédos telkek jellemző beépítettségét a kialakítani kívánt telek, telkek beépítettsége nem haladja meg,
-
-b) a telekalakítás a telekalakítással érintett és a szomszédos telken, telkeken meglévő épület fő rendeltetése szerinti használatot nem korlátozza és nem lehetetleníti el, és
-
-c) az országos településrendezési és építési követelményekről szóló kormányrendelet elő-, oldal- és hátsókertre, valamint az épületek közötti legkisebb távolságra vonatkozó előírásai teljesülnek.
-
-(4) Az illeszkedésnél az ingatlan-nyilvántartásban már feltüntetett vagy jogszerűnek tekintendő épületeket kell figyelembe venni.
+(4)[^80] Az illeszkedésnél az állami ingatlan-nyilvántartási térképi adatbázisban már feltüntetett vagy jogszerűnek tekintendő épületeket kell figyelembe venni.
 
 (5) A helyi építési szabályzat vagy annak rendelkezése nem helyezhető hatályon kívül a kialakult állapotra vonatkozó (1)–(4) bekezdés szerinti szabályok közvetlen érvényesítése érdekében.
 
-[^64]: A 23/I. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^75]: A 23/I. §-t a 253/2023. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
+[^76]: A 23/I. § (1) bekezdés nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 131. § d) pontja szerint módosított szöveg.
+[^77]: A 23/I. § (1) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § e) pontja szerint módosított szöveg.
+[^78]: A 23/I. § (1) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 131. § f) pontja szerint módosított szöveg.
+[^79]: A 23/I. § (3) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 132. §-a hatályon kívül helyezte.
+[^80]: A 23/I. § (4) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 131. § g) pontja szerint módosított szöveg.

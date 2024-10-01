@@ -44,21 +44,15 @@ c) a telekalakítással érintett földrészlet vagy földrészletek helyrajzi s
 
 d) a kérelmezett telekalakítási eljárás típusának (telekalakítási engedélyezési eljárás vagy egyesített telekalakítási eljárás) megjelölését;
 
-e) a telekalakítás célját, amely lehet:
-
-ea) telekcsoport újraosztása,
-
-eb) telekfelosztás,
-
-ec) telekegyesítés,
-
-ed) telekhatárrendezés;
+e)[^37] a telekalakításnak a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 89. § (1) bekezdésében meghatározott célját,
 
 f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (6) Az egyesített telekalakítási eljárás megindítására irányuló kérelemnek az (5) bekezdésben foglaltakon túl meg kell felelnie az ingatlan-nyilvántartásról szóló törvény szerinti előírásoknak is.
 
-(7) A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
+(6a)[^38] Az ingatlan-nyilvántartás szerint a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében álló földrészlet (a továbbiakban: honvédelmi és katonai célú ingatlan) esetén egyesített telekalakítási eljárásnak nincs helye.
+
+(7)[^39] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 2. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében, továbbá a települési önkormányzatnak a Méptv. 81. § (10) bekezdése szerinti tájékoztatását az érintett ingatlanokkal kapcsolatos helyi településrendezési követelményekről.
 
 (8) Telekalakítási dokumentációt
 
@@ -72,8 +66,11 @@ készíthet.
 
 (10) Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
 
-(11)[^37] Egy vagy több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént.
+(11)[^40] Egy vagy több mező- és erdőgazdasági hasznosítású földnek minősülő, önálló helyrajzi számú ingatlant érintő telekalakítás ingatlan-nyilvántartási átvezetésekor, ha a telekalakítás következtében valamelyik tulajdonos tulajdoni hányadát képező földterület nagysága meghaladja az ingatlan-nyilvántartásban a kiinduló állapot szerinti tulajdoni hányadból számítható területnagyságot, igazolni kell, hogy a többlet terület megszerzésére vonatkozóan a Földforgalmi tv. szerinti hatósági jóváhagyás megtörtént.
 
 [^35]: A 21. § (2) bekezdés b) pontja a 457/2017. (XII. 28.) Korm. rendelet 594. § e) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 618. §-át.
 [^36]: A 21. § (5) bekezdés nyitó szövegrésze a 315/2020. (VII. 1.) Korm. rendelet 7. § (1) bekezdése szerint módosított szöveg.
-[^37]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, szövege az 560/2020. (XII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^37]: A 21. § (5) bekezdés e) pontja a 285/2024. (IX. 30.) Korm. rendelet 125. § (1) bekezdésével megállapított szöveg.
+[^38]: A 21. § (6a) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 125. § (2) bekezdése iktatta be.
+[^39]: A 21. § (7) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 131. § a) pontja szerint módosított szöveg.
+[^40]: A 21. § (11) bekezdését a 103/2018. (VI. 11.) Korm. rendelet 25. §-a iktatta be, szövege az 560/2020. (XII. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
