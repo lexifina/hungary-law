@@ -8,7 +8,7 @@
 
 | 4. | útügyi hatósági engedélyek | Somogy Vármegyei Kormányhivatal [^14] |
 
-| 5. | vízjogi engedélyek | illetékes vármegyei katasztrófavédelmi igazgatóság[^15] |
+| 5. | vízjogi engedélyek | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^15] |
 
 | 6. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Baranya Vármegyei Kormányhivatal[^16] |
 
@@ -35,7 +35,7 @@
 [^12]: Az 1. számú mellékletben foglalt táblázat D:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^13]: Az 1. számú mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^14]: Az 1. számú mellékletben foglalt táblázat D:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
-[^15]: Az 1. számú mellékletben foglalt táblázat D:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^15]: Az 1. mellékletben foglalt táblázat D:5 mezője a 257/2024. (VIII. 29.) Korm. rendelet 14. §-a szerint módosított szöveg.
 [^16]: Az 1. számú mellékletben foglalt táblázat D:6 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^17]: Az 1. számú mellékletben foglalt táblázat D:7 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
 [^18]: Az 1. számú mellékletben foglalt táblázat D:8 mezője az 546/2022. (XII. 22.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
