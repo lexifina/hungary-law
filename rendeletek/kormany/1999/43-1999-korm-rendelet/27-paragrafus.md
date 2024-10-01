@@ -1,8 +1,8 @@
-## A tervezett éves keret megállapításának szabályai[^309]
+## A tervezett éves keret megállapításának szabályai[^311]
 
-27. §[^310] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások, valamint a krónikus fekvőbeteg ellátás tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
+27. §[^312] (1) A finanszírozási szerződésben minden ellátási forma tekintetében meghatározható a szolgáltató által nyújtható szolgáltatások köre, a tervezett éves keret, a teljesítés időbeli ütemezése, valamint a tervezett éves keret feletti ellátások köre. A járóbeteg- és aktív fekvőbeteg-szakellátás, az általános anesztéziában végzett egynapos fogászati ellátás, az aktív fekvőbeteg-szakellátási háttérrel nem rendelkező önálló egynapos sebészeti ellátások (a továbbiakban: önálló egynapos ellátások), továbbá a molekuláris diagnosztikai vizsgálatok (PCR) és laboratóriumi ellátások, valamint a krónikus fekvőbeteg ellátás tervezett éves keretének finanszírozó általi megállapítása az e rendeletben foglaltak szerint történik.
 
-(2)[^311] A tárgyidőszakot megelőző finanszírozási év (november–október) adatai alapján meghatározott, az (1) bekezdésben nevesített ellátások tervezett éves kereteinek szolgáltatónkénti és ellátási formánkénti bontásban történő kiközlését megelőzően a finanszírozó a meghatározott kereteket megküldi az egészségügyért felelős miniszter részére, aki annak kézhezvételét követő 10 napon belül – a folyamatos betegellátás biztosítása érdekében – kezdeményezheti a finanszírozónál a meghatározott tervezett éves keretek mértékének a megváltoztatását.
+(2)[^313] A tárgyidőszakot megelőző finanszírozási év (november–október) adatai alapján meghatározott, az (1) bekezdésben nevesített ellátások tervezett éves kereteinek szolgáltatónkénti és ellátási formánkénti bontásban történő kiközlését megelőzően a finanszírozó a meghatározott kereteket megküldi az egészségügyért felelős miniszter részére, aki annak kézhezvételét követő 10 napon belül – a folyamatos betegellátás biztosítása érdekében – kezdeményezheti a finanszírozónál a meghatározott tervezett éves keretek mértékének a megváltoztatását.
 
 (3) A járóbeteg-szakellátásban és a molekuláris diagnosztikai, valamint az önálló egynapos ellátások és az általános anesztéziában végzett egynapos fogászati ellátást nyújtó szolgáltatók tervezett éves keretét a tárgyidőszakot megelőző finanszírozási évben (november–október) nyújtott ellátások képezik. Az egyes szolgáltatók tervezett éves keretének emelésére – az 5. számú mellékletben meghatározott előirányzat emelése nélkül – csak abban az esetben van lehetőség, ha az adott ellátási formában a tárgyévet megelőző finanszírozási évben a szolgáltatók által nyújtott ellátások alapján számított tervezett éves keret erre lehetőséget biztosít az összes tervezett éves keret újraosztásával.
 
@@ -38,7 +38,7 @@ e) a 12611 kódszámú transztelefonikus EKG alkalmazása akut kardiális kórk�
 
 f) országosan szervezett, népegészségügyi célú, célzott vastag- és végbélszűréshez kapcsolódó 11045, 11303, 11050, 29001, 29003, 29004, 29005, 29006, 42151, 42750, 54524, 54694, 54823 kódszámú beavatkozások,
 
-g)[^312] meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 16645 kódszámú beavatkozások
+g)[^314] meddőségkezelési ellátásokhoz kapcsolódó 16640, 16641, 16642, 16643, 16645 kódszámú beavatkozások
 
 kivételével történik.
 
@@ -68,7 +68,7 @@ kivételével történik.
 
 (21) Ha a finanszírozó tudomására jut, hogy az egészségügyi szolgáltató a területi ellátási kötelezettségébe tartozó beteg ellátását megtagadta, kikéri az országos tisztifőorvos véleményét, amely alapján a finanszírozó az országos kórház-főigazgató, illetve más szerv fenntartásában álló szolgáltató esetén a fenntartó értesítésével az egészségügyi szolgáltató tervezett éves keretét esetenként járóbeteg-szakellátásban legalább 1, aktív fekvőbeteg-szakellátásban legalább 2 súlyszámnak megfelelő mértékkel csökkenti.
 
-[^309]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^310]: A 27. § a 630/2022. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
-[^311]: A 27. § (2) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^312]: A 27. § (13) bekezdés g) pontja a 395/2023. (VIII. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^311]: Az „A tervezett éves keret megállapításának szabályai” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^312]: A 27. § a 630/2022. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^313]: A 27. § (2) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^314]: A 27. § (13) bekezdés g) pontja a 395/2023. (VIII. 24.) Korm. rendelet 3. §-a szerint módosított szöveg.

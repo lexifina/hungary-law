@@ -1,3 +1,3 @@
-62. §[^554]
+62. §[^556]
 
-[^554]: A 62. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § g) pontja.
+[^556]: A 62. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § g) pontja.

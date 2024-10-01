@@ -1,6 +1,6 @@
-## Tervezett éves keret módosítása[^313]
+## Tervezett éves keret módosítása[^315]
 
-27/A. §[^314] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
+27/A. §[^316] (1) A 27. § szerinti tervezett éves keretet módosítani kell:
 
 a) az Eftv. és az Eftv. vhr. alapján engedélyezett, ellátási forma megváltozásával járó kapacitásátcsoportosítás esetén a kapacitásegységre jutó szakma szerinti országos átlag figyelembevételével,
 
@@ -42,8 +42,8 @@ b) az átcsoportosítással az adott egészségügyi szolgáltató érvényes fi
 
 (12) A (13) bekezdésben meghatározott eset kivételével a fenntartó kezdeményezheti a finanszírozónál a saját fenntartásában lévő egészségügyi szolgáltatók közötti tervezett éves keret átcsoportosítást.
 
-(13)[^315] Ha a tervezett éves keret átcsoportosítással érintett egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, a szolgáltatók közötti tervezett éves keret átcsoportosítást az egészségügyért felelős miniszter és a fenntartó közösen kezdeményezheti.
+(13)[^317] Ha a tervezett éves keret átcsoportosítással érintett egészségügyi szolgáltatók tekintetében a fenntartói jogokat nem ugyanaz a szerv gyakorolja, a szolgáltatók közötti tervezett éves keret átcsoportosítást az egészségügyért felelős miniszter és a fenntartó közösen kezdeményezheti.
 
-[^313]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
-[^314]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^315]: A 27/A. § (13) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^315]: A „Tervezett éves keret módosítása” alcím címét a 697/2020. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^316]: A 27/A. §-t a 41/2007. (III. 13.) Korm. rendelet 7. §-a iktatta be, szövege a 697/2020. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^317]: A 27/A. § (13) bekezdése a 659/2023. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.

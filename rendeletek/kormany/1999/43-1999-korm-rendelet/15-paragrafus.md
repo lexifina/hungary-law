@@ -1,3 +1,3 @@
-15. §[^169]
+15. §[^170]
 
-[^169]: A 15. §-t az 53/2021. (II. 9.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
+[^170]: A 15. §-t az 53/2021. (II. 9.) Korm. rendelet 13. § b) pontja hatályon kívül helyezte.
