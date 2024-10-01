@@ -1,4 +1,4 @@
-## 18. §[^24] E rendeletnek a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet módosításáról szóló 353/2020. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 9. § (1) bekezdés b) pontját, 10. § (2) bekezdés f) és g) pontját, 11. §-át, 13. § (2) és (6) bekezdését a Módr2. hatálybalépésekor[^25] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 18. §[^25] E rendeletnek a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítése projekt keretében megvalósuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, az eljáró hatóságok kijelöléséről, valamint a beruházások megvalósításával összefüggő beépítési szabályok megállapításáról szóló 309/2016. (X. 13.) Korm. rendelet módosításáról szóló 353/2020. (VII. 16.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított 9. § (1) bekezdés b) pontját, 10. § (2) bekezdés f) és g) pontját, 11. §-át, 13. § (2) és (6) bekezdését a Módr2. hatálybalépésekor[^26] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 309/2016. (X. 13.) Korm. rendelethez
 
@@ -20,7 +20,7 @@ Az 1. § (1) bekezdésében megjelölt beruházások megvalósításához szüks
 
 8. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-9.[^26] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^27] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -50,6 +50,6 @@ Az 1. § (1) bekezdésében megjelölt beruházások megvalósításához szüks
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^24]: A 18. §-t a 353/2020. (VII. 16.) Korm. rendelet 4. §-a iktatta be.
-[^25]: A hatálybalépés időpontja 2020. július 17.
-[^26]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 117. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^25]: A 18. §-t a 353/2020. (VII. 16.) Korm. rendelet 4. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2020. július 17.
+[^27]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 117. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
