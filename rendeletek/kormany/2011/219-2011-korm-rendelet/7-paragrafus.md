@@ -2,15 +2,17 @@
 
 ## 5. A veszélyes tevékenységek azonosítása
 
-7. § (1)[^21] Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat a hatóság területi szervének
+7. § (1)[^21] Az üzemeltető a 2. mellékletben szereplő üzemazonosítási adatlapokat az iparbiztonsági hatóságnak
 
-a) tervezés alatt álló veszélyes anyagokkal foglalkozó üzem esetében az építési engedélyezéshez kapcsolódó katasztrófavédelmi engedély iránti kérelem benyújtásával egyidejűleg,
+a)[^22] tervezés alatt álló veszélyes anyagokkal foglalkozó üzem esetében az építési engedélyezéshez kapcsolódó iparbiztonsági engedély iránti kérelem benyújtásával egyidejűleg,
 
-b) olyan veszélyes anyagokkal foglalkozó üzem esetében, amely a veszélyes tevékenység megkezdése előtt építési engedélyezés kapcsán katasztrófavédelmi engedély megszerzésére nem kötelezett, a veszélyes tevékenység megkezdésére irányuló kérelem benyújtásával egyidejűleg
+b)[^23] olyan veszélyes anyagokkal foglalkozó üzem esetében, amely a veszélyes tevékenység megkezdése előtt építési engedélyezés kapcsán iparbiztonsági engedély megszerzésére nem kötelezett, a veszélyes tevékenység megkezdésére irányuló kérelem benyújtásával egyidejűleg
 
 küldi meg.
 
-(2)[^22]
+(2)[^24]
 
-[^21]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^22]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 147. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: A 7. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 11. § (1) bekezdés a) pontja, a 257/2024. (VIII. 29.) Korm. rendelet 40. § 3. pontja szerint módosított szöveg.
+[^22]: A 7. § (1) bekezdés a) pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 4. pontja szerint módosított szöveg.
+[^23]: A 7. § (1) bekezdés b) pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 4. pontja szerint módosított szöveg.
+[^24]: A 7. § (2) bekezdését a 74/2012. (IV. 13.) Korm. rendelet 11. § (2) bekezdés a) pontja hatályon kívül helyezte, újonnan a 34/2015. (II. 27.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 147. § a) pontja. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -6,7 +6,7 @@ A biztonsági elemzés elkészítésének tartalmi és formai követelményei
 
 1.1. A biztonsági elemzés tartalmi követelményei megegyeznek a 3. melléklet 1. pontjában foglalt követelményekkel, az 1.8. és 1.10. pont kivételével.
 
-1.2. A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a bővítést is) egy időben a hatósághoz benyújtandó biztonsági elemzés tartalma:
+1.2.[^205] A veszélyes anyagokkal foglalkozó üzem, vagy a veszélyes anyagokkal foglalkozó létesítmény építési engedélyezési eljárásával (beleértve a bővítést is) egy időben az iparbiztonsági hatósághoz benyújtandó biztonsági elemzés tartalma:
 
 a) a 3. melléklet 1.1.; 1.2.; 1.3.1.; 1.3.2. a), b); 1.3.3.; 1.3.5.; 1.3.6.; 1.3.7.; 1.4.; 1.6. az építési stádiumban előre látható szinten; 1.7. a tervezett felszerelések és infrastruktúra; 1.9.;
 
@@ -29,3 +29,5 @@ cf) a külső behatás elleni védelem.
 2. Formai követelmények
 
 A biztonsági elemzés formai követelményei megegyeznek a 3. melléklet 2. pontjában foglalt formai követelményekkel.
+
+[^205]: A 4. melléklet 1.2. pontja a 257/2024. (VIII. 29.) Korm. rendelet 40. § 53. pontja szerint módosított szöveg.

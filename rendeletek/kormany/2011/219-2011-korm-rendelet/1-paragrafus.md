@@ -12,7 +12,7 @@
 
 2.[^3] Felső küszöbértékű veszélyes anyagokkal foglalkozó üzem: ahol a jelen lévő veszélyes anyagok mennyisége az 1. melléklet alapján meghatározható felső küszöbértéket eléri vagy meghaladja.
 
-2a.[^4] Hatóság: a hivatásos katasztrófavédelmi szerv.
+2a.[^4]
 
 2b.[^5] Keverék: két vagy több anyagból álló keverék vagy oldat.
 
@@ -35,7 +35,7 @@ c) azon üzemek, amelyek területén klór vagy ammónia legalább 1000 kg menny
 [^1]: Az 1. § 1. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 1a. pontját a 34/2015. (II. 27.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^3]: Az 1. § 2. pontja a 476/2013. (XII. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 2a. pontját a 74/2012. (IV. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 41. § a) pontja hatályon kívül helyezte.
 [^5]: Az 1. § 2b. pontját a 34/2015. (II. 27.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^6]: Az 1. § 3. pont b) alpontja a 441/2016. (XII. 16.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^7]: Az 1. § 4. pontja a 34/2015. (II. 27.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

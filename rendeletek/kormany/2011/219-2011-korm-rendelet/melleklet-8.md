@@ -14,7 +14,7 @@ Az üzemeltető megteremti a tervben megjelölt feladatok végrehajtásához sz�
 
 2. Tartalmi követelmények
 
-2.1.[^172] A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés és a hatások csökkentésére irányuló tevékenység erő- és eszközrendszerének leírása. Ezen belül:
+2.1.[^249] A veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezés és a hatások csökkentésére irányuló tevékenység erő- és eszközrendszerének leírása. Ezen belül:
 
 2.1.1. a veszélyes anyagokkal kapcsolatos súlyos baleset következtében kialakuló helyzetek
 
@@ -54,7 +54,7 @@ j) a védekezésbe bevonható belső erők eszközei
 
 k) a védekezésbe bevonható külső erők eszközei.
 
-2.2.[^173] A veszélyes anyagokkal kapcsolatos súlyos baleseti hatások elleni védekezéssel kapcsolatos feladatok:
+2.2.[^250] A veszélyes anyagokkal kapcsolatos súlyos baleseti hatások elleni védekezéssel kapcsolatos feladatok:
 
 Ennek részei:
 
@@ -78,7 +78,7 @@ cf) beavatkozás, kárelhárítás, mentesítés végzése,
 
 cg) az üzem környezetében kialakult veszélyhelyzet elhárításához szükséges segítségnyújtás lehetőségei és feltételei;
 
-ch)[^174] súlyos balesetet követően a környezet helyreállításának és megtisztításának tervezése.
+ch)[^251] súlyos balesetet követően a környezet helyreállításának és megtisztításának tervezése.
 
 d) az üzemi dolgozók védelme érdekében hozott intézkedések, beleértve a riasztásuk és a riasztás vételét követő magatartási rendszabályokat, a munka biztonságos szüneteltetésének, a kimenekítésnek, a gyülekezésnek a feltételeit;
 
@@ -90,7 +90,7 @@ a) a külső védelmi terv beindításáért felelős szervezet riasztásának m
 
 b) a veszélyes anyagokkal foglalkozó üzem környezetében kialakult veszélyhelyzet elhárításához a segítségnyújtás lehetőségei és annak feltételei,
 
-c)[^175] Az a) és b) alpont szerinti adatokat alsó küszöbértékű veszélyes anyagokkal foglalkozó üzemek esetében a külső védelmi terv elkészítését követően, a belső védelmi terv felülvizsgálata során kell szerepeltetni.
+c)[^252] Az a) és b) alpont szerinti adatokat alsó küszöbértékű veszélyes anyagokkal foglalkozó üzemek esetében a külső védelmi terv elkészítését követően, a belső védelmi terv felülvizsgálata során kell szerepeltetni.
 
 2.4. A védekezési tevékenységben érintett személyek felkészítésével kapcsolatos feladatok bemutatása.
 
@@ -98,7 +98,7 @@ c)[^175] Az a) és b) alpont szerinti adatokat alsó küszöbértékű veszélye
 
 A belső védelmi terv a biztonsági jelentés vagy biztonsági elemzés részét képezi, így elkészítésénél az ott meghatározott formai követelmények irányadóak.
 
-[^172]: A 8. melléklet 2.1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdésével megállapított szöveg.
-[^173]: A 8. melléklet 2.2. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdésével megállapított szöveg.
-[^174]: A 8. melléklet 2.2. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § c) pontja iktatta be.
-[^175]: A 8. melléklet 2.3. pont c) alpontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdése iktatta be.
+[^249]: A 8. melléklet 2.1. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdésével megállapított szöveg.
+[^250]: A 8. melléklet 2.2. pontja a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdésével megállapított szöveg.
+[^251]: A 8. melléklet 2.2. pont c) alpont ch) pontját az 572/2020. (XII. 9.) Korm. rendelet 26. § c) pontja iktatta be.
+[^252]: A 8. melléklet 2.3. pont c) alpontját a 476/2013. (XII. 17.) Korm. rendelet 23. § (6) bekezdése iktatta be.
