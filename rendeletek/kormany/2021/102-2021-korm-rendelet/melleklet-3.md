@@ -1,4 +1,4 @@
-3. melléklet a 102/2021. (III. 3.) Korm. rendelethez[^6]
+3. melléklet a 102/2021. (III. 3.) Korm. rendelethez[^7]
 
 A Beruházás megvalósításához szükséges hatósági eljárások lefolytatására hatáskörrel rendelkező hatóságok
 
@@ -18,12 +18,12 @@ A Beruházás megvalósításához szükséges hatósági eljárások lefolytat�
 
 | 7. | a) élelmiszerlánc-felügyeleti eljárás, b) közegészségügyi hatósági eljárások, c) erdővédelmi hatósági eljárások |
 
-| 8. | vízügyi és vízvédelmi hatósági eljárások | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
+| 8. | vízügyi és vízvédelmi hatósági eljárások | a vízügyi és vízvédelmi hatáskör szerint érintett fővárosi és vármegyei kormányhivatal |
 
 | 9. | a) mérésügyi és műszaki biztonsági hatósági engedélyezési eljárások, b) műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Csongrád-Csanád Vármegyei Kormányhivatal |
 
-| 10. | tűzvédelmi hatósági eljárások | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság |
+| 10. | tűzvédelmi hatósági eljárások | a tűzvédelmi hatáskörben eljáró Bács-Kiskun Vármegyei Kormányhivatal |
 
 | 11. | bányahatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal |
 
-[^6]: A 3. melléklet az 546/2022. (XII. 22.) Korm. rendelet 276. §-a szerint módosított szöveg.
+[^7]: A 3. melléklet az 546/2022. (XII. 22.) Korm. rendelet 276. §-a, a 257/2024. (VIII. 29.) Korm. rendelet 332. § b)–c) pontja szerint módosított szöveg.
