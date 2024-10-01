@@ -1,6 +1,6 @@
-24. § (1)[^38] Közműellátási hálózat létesítményei és szerelvényei épületben vagy közterületen – az (1a) bekezdésben foglalt kivétellel – terepszint alatt helyezhetők el.
+24. § (1)[^45] Közműellátási hálózat létesítményei és szerelvényei épületben vagy közterületen – az (1a) bekezdésben foglalt kivétellel – terepszint alatt helyezhetők el.
 
-(1a)[^39] Közműellátási hálózat létesítményei és szerelvényei közterületen, terepszint felett a KNEB által előzetesen meghatározott módon és időtartamra helyezhetők el. A terepszint feletti elhelyezést a KNEB részére be kell jelenteni.
+(1a)[^46] Közműellátási hálózat létesítményei és szerelvényei közterületen, terepszint felett a KNEB által előzetesen meghatározott módon és időtartamra helyezhetők el. A terepszint feletti elhelyezést a KNEB részére be kell jelenteni.
 
 (2) Hulladékudvar, valamint – terepszint alatt elhelyezés kivételével – hulladéksziget nem létesíthető.
 
@@ -10,5 +10,5 @@
 
 (5) A közműellátási hálózat közterületről látszó, a kézikönyvben szabályozott elemei – ideértve az aknafedeleket, nyílászárókat is – a kézikönyvben foglaltaknak megfelelően alakíthatók ki.
 
-[^38]: A 24. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^39]: A 24. § (1a) bekezdését a 197/2020. (V. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^45]: A 24. § (1) bekezdése a 197/2020. (V. 12.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^46]: A 24. § (1a) bekezdését a 197/2020. (V. 12.) Korm. rendelet 5. § (2) bekezdése iktatta be.

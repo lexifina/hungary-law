@@ -4,7 +4,7 @@
 
 ## 1. A rendelet hatálya
 
-## 1. § E rendelet hatálya a kulturális örökség védelméről szóló 2001. évi LXIV. törvény (a továbbiakban: Kötv.) által meghatározott Országház és környéke kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely) és az e rendelet alapján meghatározott településkép-védelmi környezetének területére – mint településképi szempontból kiemelt jelentőségű területre – az egyedi településkép-védelem biztosítása érdekében
+## 1. §[^1] E rendelet hatálya a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) által meghatározott Országház és környéke kiemelt nemzeti emlékhely (a továbbiakban: kiemelt nemzeti emlékhely) és az e rendelet alapján meghatározott településkép-védelmi környezetének területére – mint településképi szempontból kiemelt jelentőségű területre – az egyedi településkép-védelem biztosítása érdekében
 
 a) a kiemelt nemzeti emlékhely településkép-védelmi környezetének meghatározására,
 
@@ -27,3 +27,5 @@ d) az egyedi településképi követelmények érvényesítése érdekében szü
 e) a településképi ösztönző- és támogatási rendszer meghatározására
 
 terjed ki.
+
+[^1]: Az 1. § nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 138. § 1. pontja szerint módosított szöveg.

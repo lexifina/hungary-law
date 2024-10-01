@@ -12,14 +12,14 @@ b) megtiltja az építési tevékenységet, reklám, reklámhordozó elhelyezés
 
 ba) a bejelentés nem felel meg a 34. § (3)–(5) bekezdésében meghatározott követelményeknek,
 
-bb)[^60] a tervezett építési tevékenység vagy rendeltetésváltoztatás nem illeszkedik a településképbe, vagy nem felel meg az egyedi településképi követelményeknek és rendeltetésváltozás esetén a településrendezési tervben foglalt és a beépítési követelménynek, illetve reklám, reklámhordozó elhelyezése esetén nem illeszkedik a településképbe, nem felel meg az egyedi településképi követelménynek vagy nem felel meg az Rr.-ben foglalt elhelyezési követelményeknek, vagy
+bb)[^74] a tervezett építési tevékenység vagy rendeltetésváltoztatás nem illeszkedik a településképbe, vagy nem felel meg az egyedi településképi követelményeknek és rendeltetésváltozás esetén a településrendezési tervben foglalt és a beépítési követelménynek, illetve reklám, reklámhordozó elhelyezése esetén nem illeszkedik a településképbe, nem felel meg az egyedi településképi követelménynek vagy nem felel meg az Rr.-ben foglalt elhelyezési követelményeknek, vagy
 
 bc) a KNEB nyilatkozatában a tudomásulvételt nem támogatja.
 
-(2)[^61] A hatóság által tudomásul vett tevékenységet a hatóság döntésének közlésétől számított egy éven belül lehet megkezdeni. Ha a bejelentésben megjelölt tevékenységet a döntés közlésétől számított egy éven belül nem kezdik el, a bejelentést az e rendeletben meghatározottak szerint meg kell ismételni.
+(2)[^75] A hatóság által tudomásul vett tevékenységet a hatóság döntésének közlésétől számított egy éven belül lehet megkezdeni. Ha a bejelentésben megjelölt tevékenységet a döntés közlésétől számított egy éven belül nem kezdik el, a bejelentést az e rendeletben meghatározottak szerint meg kell ismételni.
 
-(3)[^62] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(3)[^76] A hatóság az (1) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^60]: A 35. § (1) bekezdés b) pont bb) alpontja a 420/2021. (VII. 15.) Korm. rendelet 95. § g) pontja szerint módosított szöveg.
-[^61]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 8. §-a iktatta be.
-[^62]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^74]: A 35. § (1) bekezdés b) pont bb) alpontja a 420/2021. (VII. 15.) Korm. rendelet 95. § g) pontja szerint módosított szöveg.
+[^75]: A 35. § (2) bekezdését a 360/2019. (XII. 30.) Korm. rendelet 193. § (2) bekezdés b) pontja hatályon kívül helyezte, újonnan a 2/2021. (I. 7.) Korm. rendelet 8. §-a iktatta be.
+[^76]: A 35. § (3) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 9. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.

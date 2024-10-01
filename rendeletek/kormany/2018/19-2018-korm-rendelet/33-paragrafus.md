@@ -16,15 +16,15 @@ d) az egyedi településképi követelményeknek való megfelelésről szóló r
 
 a) a KNEB nyilatkozatát, továbbá
 
-b) a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendelet szerint a központi építészeti-műszaki tervtanács feladatkörébe tartozó esetekben a központi építészeti műszaki tervtanács véleményét.
+b)[^58] az építészeti és településrendezési tervtanácsokról szóló kormányrendelet szerint az Országos Építészeti Tervtanács feladatkörébe tartozó esetekben a központi építészeti műszaki tervtanács véleményét.
 
 (5) A (4) bekezdés b) pontja esetében
 
-a) a KNEB e rendeletben meghatározott feladatai ellátásával megbízott szakmai vezetője részt vesz a központi építészeti-műszaki tervtanács ülésén,
+a)[^59] a KNEB e rendeletben meghatározott feladatai ellátásával megbízott szakmai vezetője részt vesz az Országos Építészeti Tervtanács ülésén,
 
-b) a központi építészeti-műszaki tervtanács véleményét a hatóság felhívásának beérkezésétől számított 21 napon belül megküldi a hatóságnak és a KNEB-nek.
+b)[^60] az Országos Építészeti Tervtanács véleményét a hatóság felhívásának beérkezésétől számított 21 napon belül megküldi a hatóságnak és a KNEB-nek.
 
-(6) A KNEB a nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon belül adja ki. A központi építészeti-műszaki tervtanács feladatkörébe nem tartozó esetben a KNEB a véleményezés során kikérheti a központi építészeti-műszaki tervtanács véleményét.
+(6)[^61] A KNEB a nyilatkozatát a hatóság felhívásának beérkezésétől számított 90 napon belül adja ki. Az Országos Építészeti Tervtanács feladatkörébe nem tartozó esetben a KNEB a véleményezés során kikérheti az Országos Építészeti Tervtanács véleményét.
 
 (7) A KNEB a nyilatkozat kialakítása során
 
@@ -34,7 +34,7 @@ b) vonatkozó egyedi településképi követelmény hiányában vizsgálja az é
 
 c) figyelembe veszi
 
-ca) a központi építészeti-műszaki tervtanács (5) és (6) bekezdés szerinti véleményét és
+ca)[^62] az Országos Építészeti Tervtanács (5) és (6) bekezdés szerinti véleményét és
 
 cb) a szakmai konzultáción felvett jegyzőkönyvben foglaltakat.
 
@@ -62,6 +62,11 @@ c) a KNEB (8) bekezdés szerinti nyilatkozatát és annak részletes indokolás�
 
 (12) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
 
-(13)[^49] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
+(13)[^63] A hatóság a (9) bekezdés szerinti döntését 5 napon belül, a döntés elektronikus formában történő megküldésével közli a KNEB-bel.
 
-[^49]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
+[^58]: A 33. § (4) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § a) és d) pontja szerint módosított szöveg.
+[^59]: A 33. § (5) bekezdés a) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^60]: A 33. § (5) bekezdés b) pontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^61]: A 33. § (6) bekezdése a 284/2024. (IX. 30.) Korm. rendelet 5. § d) és e) pontja szerint módosított szöveg.
+[^62]: A 33. § (7) bekezdés c) pont ca) alpontja a 284/2024. (IX. 30.) Korm. rendelet 5. § d) pontja szerint módosított szöveg.
+[^63]: A 33. § (13) bekezdését a 85/2019. (IV. 23.) Korm. rendelet 8. §-a iktatta be, szövege a 197/2020. (V. 12.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
