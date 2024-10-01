@@ -14,21 +14,23 @@
 
 | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
-| 8. | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Fővárosi Katasztrófavédelmi Igazgatóság |
+| 8.[^11] | vízügyi és vízvédelmi hatósági engedélyezési eljárások | Pest Vármegyei Kormányhivatal |
 
 | 9. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
 | 10. | telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 11. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^11] |
+| 11. | talajvédelmi hatósági eljárások | Pest Vármegyei Kormányhivatal[^12] |
 
-| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 12.[^13] | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Budapest Főváros Kormányhivatala |
 
-| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^12] |
+| 13. | bányahatósági engedélyek | Pest Vármegyei Kormányhivatal[^14] |
 
-2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^13]
+2. melléklet a 2/2015. (I. 22.) Korm. rendelethez[^15]
 
 [^10]: Az 1. mellékletben foglalt táblázat D:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
-[^11]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
-[^12]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
-[^13]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 176. § f) pontja hatályon kívül helyezte.
+[^11]: Az 1. mellékletben foglalt táblázat 8. sora a 257/2024. (VIII. 29.) Korm. rendelet 152. §-ával megállapított szöveg.
+[^12]: Az 1. mellékletben foglalt táblázat D:11 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^13]: Az 1. mellékletben foglalt táblázat 12. sora a 257/2024. (VIII. 29.) Korm. rendelet 152. §-ával megállapított szöveg.
+[^14]: Az 1. mellékletben foglalt táblázat D:13 mezője az 546/2022. (XII. 22.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
+[^15]: A 2. mellékletet a 458/2017. (XII. 28.) Korm. rendelet 176. § f) pontja hatályon kívül helyezte.
