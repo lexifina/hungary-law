@@ -1,4 +1,4 @@
-## A központi költségvetéssel való elszámolás szabályai[^99]
+## A központi költségvetéssel való elszámolás szabályai[^103]
 
 10/A. § (1) A kamattámogatásokat az állam nevében a Kincstár nyújtja.
 
@@ -20,4 +20,4 @@
 
 (10) A hitelintézet a támogatásokat az eAdaton elérhető tájékoztató szerinti formában tartja nyilván.
 
-[^99]: Az „A központi költségvetéssel való elszámolás szabályai” alcímet (10/A. §) a 101/2019. (V. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^103]: Az „A központi költségvetéssel való elszámolás szabályai” alcímet (10/A. §) a 101/2019. (V. 2.) Korm. rendelet 2. § (2) bekezdése iktatta be.
