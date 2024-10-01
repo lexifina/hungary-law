@@ -1,6 +1,6 @@
 ## 44/K. § A többcélú köznevelési intézményre, alkalmazottaira és tanulóira az Nkt. rendelkezéseit kell alkalmazni azzal, hogy a többcélú köznevelési intézmény által ellátott, nem köznevelési alapfeladat tekintetében az alapfeladatot szabályozó jogszabálynak kizárólag az alapfeladat megszervezése szakmai tartalmát és annak oktatásához szükséges végzettségi, képesítési és munkaköri követelményeket meghatározó rendelkezéseit kell alkalmazni.
 
-## V/F. Fejezet[^273]
+## V/F. Fejezet[^274]
 
 ## A KÖZNEVELÉS TANKÖNYVELLÁTÁSA
 
@@ -14,4 +14,4 @@ c) az Nkt. 93/A. § (3) bekezdés c) pontjában meghatározott a tankönyvek el�
 
 jelöli ki.
 
-[^273]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^274]: Az V/F. fejezetet (44/L-44/Y. §-t) a 403/2023. (VIII. 30.) Korm. rendelet 10. §-a iktatta be.
