@@ -1,34 +1,34 @@
 |  | A | B |
 
-| 1. | Eljáró szerv | Előirányzat-felhasználási számlák megnevezése |
+| 1 | Eljáró szerv | Előirányzat-felhasználási számlák megnevezése |
 
-| 2. | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
+| 2 | Bács-Kiskun Vármegyei Kormányhivatal | 10025004-00299657-00000000 |
 
-| 3. | Baranya Vármegyei Katasztrófavédelmi Igazgatóság | 10024003-00283559-00000000 |
+| 3 | Baranya Vármegyei Kormányhivatal | 10024003-00299585-00000000 |
 
-| 4. | Bács-Kiskun Vármegyei Katasztrófavédelmi Igazgatóság | 10025004-00283566-00000000 |
+| 4 | Békés Vármegyei Kormányhivatal | 10026005-00299578-00000000 |
 
-| 5. | Békés Vármegyei Katasztrófavédelmi Igazgatóság | 10026005-00283573-00000000 |
+| 5 | Borsod-Abaúj-Zemplén Vármegyei Kormányhivatal | 10027006-00299561-00000000 |
 
-| 6. | Borsod-Abaúj-Zemplén Vármegyei Katasztrófavédelmi Igazgatóság | 10027006-00283580-00000000 |
+| 6 | Csongrád-Csanád Vármegyei Kormányhivatal | 10028007-00299664-00000000 |
 
-| 7. | Csongrád-Csanád Vármegyei Katasztrófavédelmi Igazgatóság | 10028007-00283597-00000000 |
+| 7 | Fejér Vármegyei Kormányhivatal | 10029008-00299640-00000000 |
 
-| 8. | Fejér Vármegyei Katasztrófavédelmi Igazgatóság | 10029008-00283607-00000000 |
+| 8 | Győr-Moson-Sopron Vármegyei Kormányhivatal | 10033001-00299633-00000000 |
 
-| 9. | Fővárosi Katasztrófavédelmi Igazgatóság | 10023002-00319566-00000000 |
+| 9 | Hajdú-Bihar Vármegyei Kormányhivatal | 10034002-00299626-00000000 |
 
-| 10. | Győr-Moson-Sopron Vármegyei Katasztrófavédelmi Igazgatóság | 10033001-00283614-00000000 |
+| 10 | Jász-Nagykun-Szolnok Vármegyei Kormányhivatal | 10045002-00299602-00000000 |
 
-| 11. | Hajdú-Bihar Vármegyei Katasztrófavédelmi Igazgatóság | 10034002-00283621-00000000 |
+| 11 | Pest Vármegyei Kormányhivatal | 10023002-00333489-00000000 |
 
-| 12. | Jász-Nagykun-Szolnok Vármegyei Katasztrófavédelmi Igazgatóság | 10045002-00283683-00000000 |
+| 12 | Szabolcs-Szatmár-Bereg Vármegyei Kormányhivatal | 10044001-00299695-00000000 |
 
-| 13. | Szabolcs-Szatmár-Bereg Vármegyei Katasztrófavédelmi Igazgatóság | 10044001-00283676-00000000 |
+| 13 | Vas Vármegyei Kormányhivatal | 10047004-00299523-00000000 |
 
-| 14. | Vas Vármegyei Katasztrófavédelmi Igazgatóság | 10047004-00283700-00000000 |
+| 14 | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
 
-4. melléklet a 13/2015. (III. 31.) BM rendelethez[^8]
+4. melléklet a 13/2015. (III. 31.) BM rendelethez[^15]
 
 Az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozat
 
@@ -44,4 +44,4 @@ Kelt: ..................................., ................ (év) ..............
 
 aláírás
 
-[^8]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.
+[^15]: A 4. mellékletet a 42/2017. (XII. 29.) BM rendelet 10. § (2) bekezdése iktatta be.

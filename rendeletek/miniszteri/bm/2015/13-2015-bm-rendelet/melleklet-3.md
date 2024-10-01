@@ -48,8 +48,8 @@
 
 | 22. | Geotermikus energia kinyerését és energetikai hasznosítását szolgáló építményre vonatkozó bányafelügyeleti építésügyi hatósági eljárás [531/2017. (XII. 29.) Korm. rendelet 1. melléklet 1. táblázat 12. sor] | 1. melléklet 2. pont 2.3. alpontjában és 2.4. alpont 2.4.2. pontjában megállapított díjtétel |
 
-3. melléklet a 13/2015. (III. 31.) BM rendelethez[^7]
+3. melléklet a 13/2015. (III. 31.) BM rendelethez[^14]
 
-Az eljáró hatóságok számlaszámai
+Az eljáró hatóság előirányzat-felhasználási keretszámla számai
 
-[^7]: A 3. melléklet a 39/2020. (XI. 4.) BM rendelet 14. §-a, a 48/2022. (XII. 27.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^14]: A 3. melléklet a 14/2024. (IX. 2.) EM rendelet 4. §-ával megállapított szöveg.

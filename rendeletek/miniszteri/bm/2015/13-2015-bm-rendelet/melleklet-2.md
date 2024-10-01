@@ -174,8 +174,8 @@
 
 | 84. | 16. Igazolás kiadása pályázati eljárás keretében igényelt támogatásokhoz | 10 000 |
 
-2. melléklet a 13/2015. (III. 31.) BM rendelethez[^6]
+2. melléklet a 13/2015. (III. 31.) BM rendelethez[^13]
 
 Az igazgatási szolgáltatási díjköteles vízügyi és vízvédelmi szakhatósági eljárások, illetve az igazgatási szolgáltatási díj mértéke
 
-[^6]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése, az 1/2024. (I. 18.) BM rendelet 1. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 36/2018. (XII. 21.) BM rendelet 6. § (1) bekezdésével megállapított, a 43/2019. (XII. 14.) BM rendelet 3. § (1) bekezdése, az 1/2024. (I. 18.) BM rendelet 1. §-a szerint módosított szöveg.
