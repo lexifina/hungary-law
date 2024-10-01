@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-344-20-
 | 2022-12-23 | 2017-344-20-22.6 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2017-344-20-22.7 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-02-21 | 2017-344-20-22.8 | 44/2023. (II. 20.) Korm. rendelet |
+| 2024-10-01 | 2017-344-20-22.9 | 257/2024. (VIII. 29.) Korm. rendelet |

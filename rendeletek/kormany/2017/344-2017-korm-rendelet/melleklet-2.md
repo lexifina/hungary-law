@@ -1,4 +1,4 @@
-2. melléklet a 344/2017. (XI. 15.) Korm. rendelethez[^14]
+2. melléklet a 344/2017. (XI. 15.) Korm. rendelethez[^15]
 
 Az 1. § (1) bekezdése szerinti beruházás területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -20,4 +20,4 @@ Az 1. § (1) bekezdése szerinti beruházás területi lehatárolása a terület
 
 | 8 | 576160,49 | 266864,98 |
 
-[^14]: A 2. mellékletet a 47/2021. (II. 5.) Korm. rendelet 4. §-a iktatta be.
+[^15]: A 2. mellékletet a 47/2021. (II. 5.) Korm. rendelet 4. §-a iktatta be.
