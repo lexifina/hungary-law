@@ -16,7 +16,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 6. tűzvédelmi hatósági eljárások,
 
-7. katasztrófavédelmi hatósági eljárások,
+7.[^7] iparbiztonsági hatósági eljárások,
 
 8. rendészeti hatósági eljárások,
 
@@ -44,3 +44,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 [^5]: A 7. §-t a 136/2019. (VI. 11.) Korm. rendelet 7. §-a iktatta be.
 [^6]: A hatálybalépés időpontja 2019. június 12.
+[^7]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 260. §-a szerint módosított szöveg.
