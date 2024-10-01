@@ -1,4 +1,4 @@
-## 8. §[^10] E rendeletnek a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 462/2020. (X. 21.) Korm. rendelet módosításáról szóló 285/2022. (VIII. 1.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át, 1/B. §-át és 5/A. §-át, valamint módosított 1. § (1) és (4) bekezdését a Módr. hatálybalépésekor[^11] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 8. §[^11] E rendeletnek a Konstantinápolyi Egyetemes Patriarchátus Magyarországi Ortodox Exarchátus Dialógus Központ, Lelkiségi, Kulturális és Tudományos Akadémiája épületének felújításával, átalakításával és újjáépítésével összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé és a beruházás kiemelten közérdekűvé nyilvánításáról szóló 462/2020. (X. 21.) Korm. rendelet módosításáról szóló 285/2022. (VIII. 1.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1/A. §-át, 1/B. §-át és 5/A. §-át, valamint módosított 1. § (1) és (4) bekezdését a Módr. hatálybalépésekor[^12] folyamatban levő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 462/2020. (X. 21.) Korm. rendelethez
 
@@ -46,5 +46,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^10]: A 8. §-t a 285/2022. (VIII. 1.) Korm. rendelet 3. §-a iktatta be.
-[^11]: A hatálybalépés időpontja 2022. augusztus 2.
+[^11]: A 8. §-t a 285/2022. (VIII. 1.) Korm. rendelet 3. §-a iktatta be.
+[^12]: A hatálybalépés időpontja 2022. augusztus 2.
