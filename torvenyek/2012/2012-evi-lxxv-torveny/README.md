@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-75-00-00
 | 2021-12-25 | 2021. évi CXXXIII. törvény | 2012-75-00-00.6 |
 | 2023-01-01 | 2022. évi LVII. törvény | 2012-75-00-00.7 |
 | 2023-06-24 | 2023. évi XXXIX. törvény | 2012-75-00-00.8 |
+| 2024-10-01 | 2023. évi C. törvény | 2012-75-00-00.9 |
