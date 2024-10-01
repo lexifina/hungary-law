@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-336-20-
 | 2017-11-11 | 2017-336-20-22.2 | 2010: CXXX. törvény |
 | 2022-12-23 | 2017-336-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2017-336-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2017-336-20-22.5 | 257/2024. (VIII. 29.) Korm. rendelet |
