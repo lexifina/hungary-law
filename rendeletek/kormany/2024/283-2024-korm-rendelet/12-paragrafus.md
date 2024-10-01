@@ -1,0 +1,1 @@
+12. § Településrendezési tervre vonatkozó tervtanácsi vélemény kialakítása esetén nem lehet tag, illetve bíráló az érintett helyi önkormányzat foglalkoztatottja, valamint képviselő-testületének tagja.
