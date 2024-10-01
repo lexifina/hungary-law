@@ -10,7 +10,7 @@ c) a bányafelügyelet építésügyi hatósági hatáskörébe tartozó engedé
 
 (1a) Az (1) bekezdésben felsorolt eljárásokban ügyfélnek minősül az is, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték.
 
-(2) A bányatelek megállapítására indított eljárásban a vármegyei területrendezési tervekkel való összhang vonatkozásában a vármegyei önkormányzat ügyfélnek minősül.
+(2)
 
 (3) Az e törvényben vagy az e törvény végrehajtására kiadott jogszabályban meghatározott hatásterületen lévő ingatlan tulajdonosa, és az, akinek az ingatlanra vonatkozó jogát az ingatlan-nyilvántartásba bejegyezték, ügyfélnek minősül.
 
