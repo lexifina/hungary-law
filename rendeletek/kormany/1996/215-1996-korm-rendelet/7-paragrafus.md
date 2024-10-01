@@ -54,11 +54,11 @@ c)[^37] 180 napon belül kell benyújtani az egyéb szükséges iratokat.
 
 (9)[^38] A lakás-takarékpénztár jogosult a lakáscélú felhasználást igazoló okiratok eredeti, másolati vagy elektronikus másolati példányát a lakás-előtakarékoskodótól vagy a kedvezményezettől bekérni és elfogadni. A lakás-előtakarékoskodó vagy a kedvezményezett a lakáscélú felhasználás igazolásáról szóló dokumentumokat, míg a társasház, vagy a lakásszövetkezet azokat az eredeti számlákat, amelyekről a (3) bekezdés a) pont 2. alpontjában foglalt esetben hitelesített másolatot adott ki, öt évig megőrzi, és azokat az állami adóhatóság kérésére bemutatja.
 
-(10) Az Ltv. 8. § (1) bekezdésében meghatározott lakáscélú felhasználások fogalmainál az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet szerinti meghatározásokat kell figyelembe venni.
+(10)[^39] Az Ltv. 8. § (1) bekezdésében meghatározott lakáscélú felhasználások fogalmainál a településrendezési és építési követelményekről szóló kormányrendelet szerinti meghatározásokat kell figyelembe venni.
 
 (11) A lakás-előtakarékoskodó az igénybe vett összeg kifizetését követően, de az adott, (6)–(7) bekezdésben meghatározott lakáscélú felhasználás igazolására nyitva álló határidő letelte előtt jogosult kezdeményezni a lakáscél módosítását más olyan lakáscélra, amelynek az igazolási határideje még nem telt le.
 
-(12)[^39]
+(12)[^40]
 
 [^28]: A 7. § a 47/2006. (III. 7.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (3) bekezdése alapján a rendelkezést a 2006. március 15. napját megelőzően kötött szerződésekre is alkalmazni kell.
 [^29]: A 7. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
@@ -71,4 +71,5 @@ c)[^37] 180 napon belül kell benyújtani az egyéb szükséges iratokat.
 [^36]: A 7. § (6) bekezdés a) pontja a 316/2019. (XII. 18.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
 [^37]: A 7. § (6) bekezdés c) pontja a 316/2019. (XII. 18.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^38]: A 7. § (9) bekezdése a 316/2019. (XII. 18.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
-[^39]: A 7. § (12) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
+[^39]: A 7. § (10) bekezdése a 285/2024. (IX. 30.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^40]: A 7. § (12) bekezdését a 254/2012. (IX. 11.) Korm. rendelet 6. §-a hatályon kívül helyezte.
