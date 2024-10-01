@@ -52,4 +52,6 @@ megjelölésével.
 
 (4) A tűzriadó tervet hozzáférhető helyen, az érintett épületrész, épület területén kell elhelyezni.
 
-(5) A tűzriadó tervben foglaltak végrehajtását évente legalább egy alkalommal az érintett munkavállalókkal gyakoroltatni kell. A gyakorlat eredményét értékelni és azt írásban rögzíteni, a gyakorlat során tapasztalt hibák, hiányosságok megszüntetésére 15 napon belül írásban intézkedni kell. A tervezett gyakorlatról annak időpontja előtt legalább 15 nappal, továbbá a gyakorlat bejelentett időpontjával kapcsolatos változásról a katasztrófavédelmi kirendeltséget vagy a honvédelemért felelős miniszter külön jogszabályban meghatározott hatáskörébe tartozó esetben a honvédelemért felelős minisztert, mint elsőfokú tűzvédelmi hatóságot értesíteni kell.
+(5)[^1] A tűzriadó tervben foglaltak végrehajtását évente legalább egy alkalommal az érintett munkavállalókkal gyakoroltatni kell. A gyakorlat eredményét értékelni és azt írásban rögzíteni, a gyakorlat során tapasztalt hibák, hiányosságok megszüntetésére 15 napon belül írásban intézkedni kell. A tervezett gyakorlatról annak időpontja előtt legalább 15 nappal, továbbá a gyakorlat bejelentett időpontjával kapcsolatos változásról az illetékes fővárosi és vármegyei kormányhivatalt vagy a honvédelemért felelős miniszter külön jogszabályban meghatározott hatáskörébe tartozó esetben a honvédelemért felelős minisztert, mint tűzvédelmi hatóságot értesíteni kell.
+
+[^1]: A 3. § (5) bekezdése a 39/2024. (VIII. 29.) BM rendelet 9–10. §-a szerint módosított szöveg.

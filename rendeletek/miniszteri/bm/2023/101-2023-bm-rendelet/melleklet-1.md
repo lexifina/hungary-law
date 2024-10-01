@@ -106,7 +106,7 @@ a) telefonon jelzi a 112-es segélyhívó számon, az alábbi információk mega
 
 b) ha van az épületben tűzjelző berendezés, akkor annak kézi jelzésadóját működteti (a kézi jelzésadó jellemző piktogramját az 1. kép szemlélteti),
 
-1. kép: Kézi jelzésadó szabvány szerinti jelölése
+## 1. kép: Kézi jelzésadó szabvány szerinti jelölése
 
 c) értesíti a tűz esetén feladatot ellátó, illetve intézkedésre jogosult személyt (munkahelyi vezető, biztonsági szolgálat, portaszolgálat, egyéb),
 
@@ -120,7 +120,7 @@ b) gondoskodni kell a veszélyforrások megszüntetéséről, eltávolításár�
 
 c) ha van kijelölt menekülési útvonal, akkor azokat kell igénybe venni (a menekülési útvonal jellemző piktogramját a 2. kép szemlélteti),
 
-2. kép: Menekülési útvonal szabvány szerinti jelölése
+## 2. kép: Menekülési útvonal szabvány szerinti jelölése
 
 d) menekülésre kifejezetten kijelölt felvonók, biztonsági felvonók kivételével a felvonók menekülésre nem használhatók, a kiürítés a lépcsőházakon keresztül történik,
 
@@ -132,13 +132,13 @@ g) ajtón való áthaladás után az ajtót be kell csukni a füst terjedéséne
 
 h) ha van kijelölt gyülekezési hely, akkor ott kell gyülekezni és várni a további utasításra (a gyülekezési hely jellemző piktogramját a 3. kép szemlélteti),
 
-3. kép: Gyülekezési hely szabvány szerinti jelölése
+## 3. kép: Gyülekezési hely szabvány szerinti jelölése
 
 i) aki a veszélyeztetett területet saját erőből nem tudja elhagyni, az jelezze tartózkodási helyének megadásával telefonon vagy más módon (élőszóval az épület ablakából, egyéb módon).
 
 3. A tűz oltását a rendelkezésre álló eszközökkel abban az esetben lehet megkezdeni, ha azt az érintett személy önmaga és mások veszélyeztetése nélkül végre tudja hajtani (a tűzoltó készülék jellemző piktogramját a 4. kép szemlélteti).
 
-4. kép: Tűzoltó készülék szabvány szerinti jelölése
+## 4. kép: Tűzoltó készülék szabvány szerinti jelölése
 
 4. Az érintett személyek kötelesek a tűzoltóság tevékenységét elősegíteni.
 
