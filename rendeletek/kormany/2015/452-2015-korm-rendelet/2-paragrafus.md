@@ -10,7 +10,7 @@
 
 (6)[^8]
 
-(7)[^9] A Kormány az 1. melléklet 7. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+(7)[^9]
 
 (8)[^10]
 
@@ -20,5 +20,5 @@
 [^6]: A 2. § (4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 219. § a) pontja hatályon kívül helyezte.
 [^7]: A 2. § (5) bekezdését a 163/2016. (VI. 17.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 219. § a) pontja.
 [^8]: A 2. § (6) bekezdését a 163/2016. (VI. 17.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 219. § a) pontja.
-[^9]: A 2. § (7) bekezdését a 271/2016. (IX. 1.) Korm. rendelet 77. § (2) bekezdése iktatta be, szövege a 458/2017. (XII. 28.) Korm. rendelet 219. § c) pontja szerint módosított szöveg.
+[^9]: A 2. § (7) bekezdését a 271/2016. (IX. 1.) Korm. rendelet 77. § (2) bekezdése iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 178. §-a hatályon kívül helyezte.
 [^10]: A 2. § (8) bekezdését a 271/2016. (IX. 1.) Korm. rendelet 77. § (2) bekezdése iktatta be, hatályon kívül helyezte a 458/2017. (XII. 28.) Korm. rendelet 219. § a) pontja.

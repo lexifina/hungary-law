@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-452-20-
 | 2020-03-01 | 2015-452-20-22.10 | 361/2019. (XII. 30.) Korm. rendelet |
 | 2022-12-23 | 2015-452-20-22.11 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2015-452-20-22.12 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2015-452-20-22.13 | 271/2016. (IX. 1.) Korm. rendelet |
