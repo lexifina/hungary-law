@@ -1,7 +1,0 @@
-7/D. §[^60] (1) Az e rendelet szerinti ügyekben a miniszteri rendeletben foglalt épületenergetikai előírásokat a 2023. október 31-ét követően tett bejelentések esetében kell alkalmazni.
-
-(2) Az (1) bekezdés szerinti időpontig tett azon bejelentések esetében, ahol az új épület felépültét igazoló hatósági bizonyítványt 2024. június 30-ig kérelmezték, a bejelentés megtételének napján vagy 2023. október 31. napján hatályos TNM Rend. követelményeinek kell megfelelni, azzal, hogy a bejelentő ez esetben is választhatja a közel nulla vagy annál kedvezőbb energiaigénnyel kapcsolatos előírások alkalmazását.
-
-(3) Az (1) bekezdés szerinti időpontig tett azon bejelentések esetében, ahol az új épület felépültét igazoló hatósági bizonyítványt 2024. június 30-át követően kérelmezték, a hatósági bizonyítvány kiállításának feltétele a közel nulla vagy annál kedvezőbb energiaszint teljesítése, mely során a hatósági bizonyítvány kérelmezésének napján hatályos miniszteri rendelet követelményeinek kell megfelelni. Amennyiben a tanúsítvány szerint a közel nulla vagy annál kedvezőbb energiaigényűként bejelentett épület nem felel meg a miniszteri rendelet hatályos közel nullás követelményeinek, a TNM Rend.-nek a bejelentés megtétele napján hatályos közel nullás követelményeinek való megfelelés is igazolható és alkalmazható az abban foglalt számítás szerint.
-
-[^60]: A 7/D. §-t a 114/2021. (III. 10.) Korm. rendelet 2. §-a iktatta be, szövege a 200/2023. (V. 25.) Korm. rendelet 23. §-ával megállapított szöveg.
