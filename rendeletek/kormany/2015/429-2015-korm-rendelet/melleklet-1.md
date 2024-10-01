@@ -40,8 +40,10 @@ A KNORR-BREMSE Vasúti Jármű Rendszerek Hungária Korlátolt Felelősségű T�
 
 18. erdővédelmi hatósági eljárások,
 
-19. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+19.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez, működtetéséhez szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: Az 1. melléklet 19. pontja a 257/2024. (VIII. 29.) Korm. rendelet 177. §-a szerint módosított szöveg.
