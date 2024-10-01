@@ -180,6 +180,6 @@
 
 |  |  | 65. | Dél-budai |
 
-2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^131]
+2. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^132]
 
-[^131]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése, a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^132]: A 2. melléklet a 268/2019. (XI. 19.) Korm. rendelet 6. § (1)–(2) bekezdése, a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

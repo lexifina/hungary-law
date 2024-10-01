@@ -18,6 +18,6 @@
 
 ## i) a támogatott írásbeli hozzájárulását az a)–b) pontban foglalt adatok kezelésére.
 
-12. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^140]
+12. melléklet a 234/2011. (XI. 10.) Korm. rendelethez[^141]
 
-[^140]: A 12. mellékletet a 66/2021. (II. 16.) Korm. rendelet 8. §-a iktatta be, a 600/2022. (XII. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^141]: A 12. mellékletet a 66/2021. (II. 16.) Korm. rendelet 8. §-a iktatta be, a 600/2022. (XII. 28.) Korm. rendelet 9. §-a hatályon kívül helyezte.

@@ -1,6 +1,6 @@
 ## 35. A befogadással kapcsolatos feladatok
 
-53. § (1)[^84] A területi védelmi bizottság elnöke
+53. § (1)[^85] A területi védelmi bizottság elnöke
 
 a) értékeli a kialakult helyzetet, valamint meghatározza a befogadással kapcsolatos feladatokat,
 
@@ -12,7 +12,7 @@ d) meghatározza a különböző ágazatok területi szintű szerveinek a befoga
 
 e) összehangolja a polgári védelmi szervezetek és a befogadásban részt vevő más szervek tevékenységét,
 
-f)[^85] kezdeményezi a kitelepítéssel érintett területi védelmi bizottság elnökénél az együttműködést és tájékoztatja a befogadás előkészítéséről, ha a vármegye, főváros határán kívül élő lakosságot kell befogadni,
+f)[^86] kezdeményezi a kitelepítéssel érintett területi védelmi bizottság elnökénél az együttműködést és tájékoztatja a befogadás előkészítéséről, ha a vármegye, főváros határán kívül élő lakosságot kell befogadni,
 
 g) szükség esetén elrendeli a területi jellegű gazdasági és anyagi szolgáltatások igénybevételét,
 
@@ -26,7 +26,7 @@ a) szükség esetén utasítja a befogadás irányítása során a polgármester
 
 b) összehangolja a társadalmi és karitatív szervezetek tevékenységét,
 
-c)[^86] felveszi a kapcsolatot az illetékes helyi védelmi bizottság elnökével, amennyiben a befogadás a helyi védelmi bizottság honvédelmi körzetén kívülről, de a vármegyehatáron belül történik.
+c)[^87] felveszi a kapcsolatot az illetékes helyi védelmi bizottság elnökével, amennyiben a befogadás a helyi védelmi bizottság honvédelmi körzetén kívülről, de a vármegyehatáron belül történik.
 
 (3) A polgármester
 
@@ -54,7 +54,7 @@ k) intézkedik a kirakodási hely működtetésére,
 
 l) folyamatos kapcsolatot tart a kitelepülőkkel,
 
-m)[^87] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
+m)[^88] szükség esetén megszervezi a köznevelést, illetve a szakképzést, valamint
 
 n) illetékességi területén összehangolja a társadalmi és karitatív szervezetek tevékenységét.
 
@@ -64,9 +64,9 @@ a) irányítja a hivatásos katasztrófavédelmi szerv területi szerve befogad�
 
 b) központi raktárkészletből szükség esetén kiegészíti a befogadáshoz szükséges elhelyezési szakanyagokat,
 
-c)[^88] több vármegyét érintően koordinálja a nemzetgazdaság és más szempontból fontos vagyontárgyak, valamint a létfenntartáshoz szükséges anyagi javak védelmére vonatkozó feladatok végrehajtását,
+c)[^89] több vármegyét érintően koordinálja a nemzetgazdaság és más szempontból fontos vagyontárgyak, valamint a létfenntartáshoz szükséges anyagi javak védelmére vonatkozó feladatok végrehajtását,
 
-d)[^89] összehangolja az országhatáron, illetve vármegyehatárokon át történő befogadás katasztrófavédelmi feladatait.
+d)[^90] összehangolja az országhatáron, illetve vármegyehatárokon át történő befogadás katasztrófavédelmi feladatait.
 
 (5) A hivatásos katasztrófavédelmi szerv területi szerve
 
@@ -88,22 +88,22 @@ c) a befogadási adatokkal kapcsolatosan számvetéseket készít,
 
 d) pontosítja a körzeti és településszintű befogadási terveket,
 
-e)[^90] javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezetek létrehozására a meglévő polgári védelmi egységeken felül,
+e)[^91] javaslatot tesz a polgármesternek a szükséges polgári védelmi szervezetek létrehozására a meglévő polgári védelmi egységeken felül,
 
-f)[^91] közreműködik a létrehozott polgári védelmi egységek polgári védelmi felkészítésében,
+f)[^92] közreműködik a létrehozott polgári védelmi egységek polgári védelmi felkészítésében,
 
-g)[^92] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
+g)[^93] közreműködik a lakosság, a gazdálkodó szervezetek, intézmények befogadási feladatainak végrehajtására történő felkészítésében,
 
 h) közreműködik a befogadás helyi feladatainak megszervezésében, végrehajtásában,
 
 i) közreműködik a befogadáshoz szükséges szakanyag biztosításában.
 
-[^84]: Az 53. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^85]: Az 53. § (1) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 127. § c) pontja szerint módosított szöveg.
-[^86]: Az 53. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § d) pontja szerint módosított szöveg.
-[^87]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
-[^88]: Az 53. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § b) pontja szerint módosított szöveg.
-[^89]: Az 53. § (4) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § e) pontja szerint módosított szöveg.
-[^90]: Az 53. § (6) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 18. pontja szerint módosított szöveg.
-[^91]: Az 53. § (6) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 19. pontja szerint módosított szöveg.
-[^92]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.
+[^85]: Az 53. § (1) bekezdés nyitó szövegrésze a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^86]: Az 53. § (1) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja, a 616/2022. (XII. 29.) Korm. rendelet 127. § c) pontja szerint módosított szöveg.
+[^87]: Az 53. § (2) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § d) pontja szerint módosított szöveg.
+[^88]: Az 53. § (3) bekezdés m) pontja a 13/2020. (II. 7.) Korm. rendelet 56. § 1. pontja szerint módosított szöveg.
+[^89]: Az 53. § (4) bekezdés c) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § b) pontja szerint módosított szöveg.
+[^90]: Az 53. § (4) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 127. § e) pontja szerint módosított szöveg.
+[^91]: Az 53. § (6) bekezdés e) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 18. pontja szerint módosított szöveg.
+[^92]: Az 53. § (6) bekezdés f) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 19. pontja szerint módosított szöveg.
+[^93]: Az 53. § (6) bekezdés g) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés i) pontja szerint módosított szöveg.

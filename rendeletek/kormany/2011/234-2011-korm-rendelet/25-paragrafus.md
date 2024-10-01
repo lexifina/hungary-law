@@ -4,7 +4,7 @@
 
 ## 18. A veszélyelhárítási tervezés általános követelményei, szintjei, a tervkészítésre kötelezettek köre, a terv tartalma
 
-25. § (1)[^41] A veszélyelhárítási tervezés célja, hogy a természeti, civilizációs és egyéb eredetű veszélyekre a kockázatok azonosítása, elemzése és értékelése alapján egységes okmányrendszerbe foglalja a katasztrófavédelmi feladatok és intézkedések rendszerét, valamint végrehajtásuk rendjét, az azt biztosító személyi, anyagi és technikai eszközök hozzárendelésének szabályait. A veszélyelhárítási tervezés részét képezi a katasztrófakockázat-kezelési válaszok, azok feltételeinek, végrehajtási rendjének és ellenőrzésük módjának meghatározása, valamint a különböző kockázatokkal szembeni nemzeti ellenállóképesség fokozását szolgáló intézkedések.
+25. § (1)[^42] A veszélyelhárítási tervezés célja, hogy a természeti, civilizációs és egyéb eredetű veszélyekre a kockázatok azonosítása, elemzése és értékelése alapján egységes okmányrendszerbe foglalja a katasztrófavédelmi feladatok és intézkedések rendszerét, valamint végrehajtásuk rendjét, az azt biztosító személyi, anyagi és technikai eszközök hozzárendelésének szabályait. A veszélyelhárítási tervezés részét képezi a katasztrófakockázat-kezelési válaszok, azok feltételeinek, végrehajtási rendjének és ellenőrzésük módjának meghatározása, valamint a különböző kockázatokkal szembeni nemzeti ellenállóképesség fokozását szolgáló intézkedések.
 
 (2) A veszélyelhárítási tervezés szintjei:
 
@@ -18,9 +18,9 @@ d) területi (fővárosi) veszélyelhárítási terv,
 
 e) központi veszélyelhárítási terv.
 
-f)[^42] járási veszélyelhárítási terv.
+f)[^43] járási veszélyelhárítási terv.
 
 (3) A tervkészítésre kötelezettek veszélyelhárítási terveiket folyamatosan naprakészen tartják.
 
-[^41]: A 25. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^42]: A 25. § (2) bekezdés f) pontját a 408/2022. (X. 24.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^42]: A 25. § (1) bekezdése a 408/2022. (X. 24.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^43]: A 25. § (2) bekezdés f) pontját a 408/2022. (X. 24.) Korm. rendelet 6. § (2) bekezdése iktatta be.

@@ -28,6 +28,7 @@ bd) az ügyfél részére értesítéseket, dokumentumokat küldhet, és közöl
 
 (4) Az IHR az ügyfelet elektronikus azonosítást követően nyilvántartásba veszi.
 
-(5) Az ügyfél a hatósági eljárás hivatalbóli megindításáról és benyújtott kérelmének fogadásáról az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén visszaigazolást kap.
+(5)[^17] Az ügyfél a hatósági eljárás hivatalbóli megindításáról és benyújtott kérelmének fogadásáról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvény szerinti elektronikus kapcsolattartásra szolgáló hivatalos elérhetőségén visszaigazolást kap.
 
 [^16]: Az I/A. fejezetet (4/E–4/F. §) a 375/2021. (VI. 30.) Korm. rendelet 10. §-a iktatta be.
+[^17]: A 4/E. § (5) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 42. §-a szerint módosított szöveg.

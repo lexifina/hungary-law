@@ -1,4 +1,4 @@
-## II. Fejezet[^18]
+## II. Fejezet[^19]
 
 ## A KATASZTRÓFÁK ELLENI VÉDEKEZÉSÉRT FELELŐS MINISZTER, VALAMINT A KATASZTRÓFÁK ELLENI VÉDEKEZÉSBEN ÉRINTETT MINISZTEREK ÉS ÁLLAMI SZERVEK MEGELŐZÉSSEL, FELKÉSZÜLÉSSEL ÉS VÉDEKEZÉSSEL KAPCSOLATOS FELADATAI, A KATASZTRÓFAVÉDELMI KOORDINÁCIÓS SZERV
 
@@ -6,15 +6,15 @@
 
 ## 5. § A katasztrófák elleni védekezésért felelős miniszter:
 
-a)[^19] a katasztrófavédelmi koordinációs szerv véleményének kikérése mellett irányítja a védekezéssel és a felkészüléssel kapcsolatban a területi védelmi bizottságok és a területi védelmi bizottságok elnökei feladatainak végrehajtását,
+a)[^20] a katasztrófavédelmi koordinációs szerv véleményének kikérése mellett irányítja a védekezéssel és a felkészüléssel kapcsolatban a területi védelmi bizottságok és a területi védelmi bizottságok elnökei feladatainak végrehajtását,
 
-b)[^20] meghatározza a területi védelmi bizottságok védekezésre történő felkészítésének rendjét,
+b)[^21] meghatározza a területi védelmi bizottságok védekezésre történő felkészítésének rendjét,
 
-c)[^21] jóváhagyja a területi védelmi bizottságok által tervezett – a hivatásos katasztrófavédelmi szerv központi szerve által egyeztetett – katasztrófavédelmi gyakorlatok terveit,
+c)[^22] jóváhagyja a területi védelmi bizottságok által tervezett – a hivatásos katasztrófavédelmi szerv központi szerve által egyeztetett – katasztrófavédelmi gyakorlatok terveit,
 
 d) meghatározza a katasztrófavédelmi feladatok ellátásában közreműködő, irányítása alá tartozó rendvédelmi szervek katasztrófavédelmi feladatait,
 
-e)[^22] irányítja az állampolgárok és a gazdálkodó szervezetek katasztrófavédelmi felkészítését, tájékoztatását, valamint a lakosság riasztását,
+e)[^23] irányítja az állampolgárok és a gazdálkodó szervezetek katasztrófavédelmi felkészítését, tájékoztatását, valamint a lakosság riasztását,
 
 f) meghatározza a lakosság és az anyagi javak műszaki-technikai és radiológiai, biológiai és vegyi védelmének irányelveit,
 
@@ -44,8 +44,8 @@ r) részt vesz az ágazati miniszterek által előterjesztett potenciális ágaz
 
 s) gondoskodik a kijelölt kritikus infrastruktúra elemek katasztrófák elleni fokozott védelmének megszervezéséről.
 
-[^18]: Az II. Fejezet címe a 408/2022. (X. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
-[^19]: Az 5. § a) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 2. pontja és 3. pontja szerint módosított szöveg.
-[^20]: Az 5. § b) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^21]: Az 5. § c) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
-[^22]: Az 5. § e) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^19]: Az II. Fejezet címe a 408/2022. (X. 24.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^20]: Az 5. § a) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 2. pontja és 3. pontja szerint módosított szöveg.
+[^21]: Az 5. § b) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^22]: Az 5. § c) pontja a 408/2022. (X. 24.) Korm. rendelet 10. § 4. pontja szerint módosított szöveg.
+[^23]: Az 5. § e) pontja a 13/2014. (I. 29.) Korm. rendelet 8. § (4) bekezdés a) pontja szerint módosított szöveg.

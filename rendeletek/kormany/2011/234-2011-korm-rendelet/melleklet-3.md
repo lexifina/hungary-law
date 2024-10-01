@@ -170,8 +170,8 @@
 
 ## c) a katasztrófakockázat-kezelési válaszok feltételeinek, végrehajtási rendjének és ellenőrzése módjának meghatározását.
 
-## d) azon intézkedések meghatározását, amelyek elősegítik a nemzeti ellenállóképesség különböző kockázatok közvetlen, közvetett hatásaival szembeni fokozását, összhangban a megelőzési és felkészültségi intézkedésekkel.[^132]
+## d) azon intézkedések meghatározását, amelyek elősegítik a nemzeti ellenállóképesség különböző kockázatok közvetlen, közvetett hatásaival szembeni fokozását, összhangban a megelőzési és felkészültségi intézkedésekkel.[^133]
 
 3. melléklet a 234/2011. (XI. 10.) Korm. rendelethez
 
-[^132]: A 2. melléklet d) pont 9. alpontját a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja iktatta be.
+[^133]: A 2. melléklet d) pont 9. alpontját a 408/2022. (X. 24.) Korm. rendelet 9. § a) pontja iktatta be.
