@@ -44,7 +44,7 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 20. tűzvédelmi hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^7] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. élelmiszerlánc-felügyeleti eljárás,
 
@@ -56,3 +56,4 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 [^5]: A 7. §-t a 296/2018. (XII. 21.) Korm. rendelet 2. §-a iktatta be.
 [^6]: A hatálybalépés időpontja: 2018. december 22.
+[^7]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 242. §-a szerint módosított szöveg.
