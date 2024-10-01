@@ -1,3 +1,3 @@
-1. melléklet a 366/2015. (XII. 2.) Korm. rendelethez[^29]
+1. melléklet a 366/2015. (XII. 2.) Korm. rendelethez[^27]
 
-[^29]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

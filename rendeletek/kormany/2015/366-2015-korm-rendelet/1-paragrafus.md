@@ -1,17 +1,15 @@
 ## 1. A vízvédelmi igazgatási szervek kijelölése
 
-1. § (1) A Kormány
+1. § (1)[^1] A Kormány
 
 a) az Országos Vízügyi Főigazgatóságot (a továbbiakban: OVF),
 
 b) a területi vízügyi igazgatóságot (a továbbiakban: vízügyi igazgatóság),
 
-c) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot (a továbbiakban: BM OKF), és
+c) a vízvédelmi hatáskörrel rendelkező vármegyei kormányhivatalt (a továbbiakban együtt: területi vízvédelmi hatóság)
 
-d)[^1] a vármegyei, fővárosi katasztrófavédelmi igazgatóságot (a továbbiakban: katasztrófavédelmi igazgatóság)
-
-jelöli ki vízvédelmi igazgatási feladatok ellátására [az a)–d) pontban felsorolt szervek a továbbiakban együtt: vízvédelmi igazgatási szervek].
+jelöli ki vízvédelmi igazgatási feladatok ellátására [az a)–c) pontban felsorolt szervek a továbbiakban együtt: vízvédelmi igazgatási szervek].
 
 (2) Vízvédelmi igazgatási szervként – ha jogszabály másként nem rendelkezik – a vízügyi igazgatóság jár el.
 
-[^1]: Az 1. § (1) bekezdés d) pontja a 616/2022. (XII. 29.) Korm. rendelet 224. §-a szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 257/2024. (VIII. 29.) Korm. rendelet 169. §-ával megállapított szöveg.

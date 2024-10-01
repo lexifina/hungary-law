@@ -1,6 +1,6 @@
-## 6. A katasztrófavédelmi igazgatóság vízvédelmi igazgatási feladatai
+## 6.[^18] A területi vízvédelmi hatóság vízvédelmi igazgatási feladatai
 
-## 8. § A katasztrófavédelmi igazgatóság
+8. §[^19] A területi vízvédelmi hatóság
 
 a) összegyűjti, ellenőrzi, értékeli és az OKIR rendelkezésére bocsátja az annak működéséhez szükséges – a vízvédelmi feladatkörével összefüggő – adatokat, továbbá együttműködik más ellenőrző és információs rendszerek működtetőivel,
 
@@ -18,15 +18,17 @@ g) a kiemelt üdülőterületekre vonatkozó vízminőség-védelmi információ
 
 h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során,
 
-i)[^22] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
+i)[^20] közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
 
-j)[^23] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+j)[^21] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
-k)[^24] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
+k)[^22] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában,
 
-l)[^25] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
+l)[^23] végrehajtja a Kvt.-ben és a vízvédelmet érintő jogszabályokban – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben, a felszín alatti vizek védelméről szóló kormányrendeletben és a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben – meghatározott feladatokat.
 
-[^22]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
-[^23]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
-[^24]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
-[^25]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.
+[^18]: A 6. alcím címe a 257/2024. (VIII. 29.) Korm. rendelet 171. § c) pontja szerint módosított szöveg.
+[^19]: A 8. § nyitó szövegrésze a 257/2024. (VIII. 29.) Korm. rendelet 171. § d) pontja szerint módosított szöveg.
+[^20]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be, szövege a 195/2017. (VII. 10.) Korm. rendelet 11. § d) pontja szerint módosított szöveg.
+[^21]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^22]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^23]: A 8. § l) pontját a 195/2017. (VII. 10.) Korm. rendelet 10. §-a iktatta be.
