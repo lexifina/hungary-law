@@ -1,4 +1,4 @@
-1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^42]
+1. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^43]
 
 1. A Budai Palotanegyed fenntartható fejlesztését, valamint tervszerű és egységes szemléletű helyreállítását szolgáló, kiemelten közérdekű beruházások felsorolása
 
@@ -80,4 +80,4 @@
 
 | 6. | A Magyar Nemzeti Levéltár épületének rekonstrukciója és bővítése | Budapest I. kerület, belterület 6627 és 6628 helyrajzi számú ingatlan | Budapest I. kerület, belterület 6563, 6622 és 6632 helyrajzi számú ingatlan | 2021. 01. 01. – 2026. 12. 31. |
 
-[^42]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 228/2023. (VI. 8.) Korm. rendelet 6. §-a, 7. § b)-g) pontja és 8. §-a, az 556/2023. (XII. 12.) Korm. rendelet 1-2. §-a szerint módosított szöveg.
+[^43]: Az 1. melléklet a 792/2021. (XII. 27.) Korm. rendelet 7. §-ával megállapított, a 228/2023. (VI. 8.) Korm. rendelet 6. §-a, 7. § b)-g) pontja és 8. §-a, az 556/2023. (XII. 12.) Korm. rendelet 1-2. §-a szerint módosított szöveg.

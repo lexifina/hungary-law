@@ -1,4 +1,4 @@
-2. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^43]
+2. melléklet a 210/2016. (VII. 21.) Korm. rendelethez[^44]
 
 A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
@@ -42,13 +42,14 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 20. területrendezési hatósági eljárások,
 
-21.[^44] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos engedélyezési és bejelentési eljárások,
+21.[^45] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos engedélyezési és bejelentési eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^46] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1-22. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 24. az 1-23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^43]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés b) pontja iktatta be, szövege a 460/2020. (X. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
-[^44]: A 2. melléklet 21. pontja a 228/2023. (VI. 8.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^44]: A 2. mellékletet a 361/2019. (XII. 30.) Korm. rendelet 84. § (4) bekezdés b) pontja iktatta be, szövege a 460/2020. (X. 20.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^45]: A 2. melléklet 21. pontja a 228/2023. (VI. 8.) Korm. rendelet 7. § h) pontja szerint módosított szöveg.
+[^46]: A 2. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 198. §-a szerint módosított szöveg.

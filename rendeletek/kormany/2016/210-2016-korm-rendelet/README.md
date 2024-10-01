@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-210-20-
 | 2022-12-23 | 2016-210-20-22.10 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-06-09 | 2016-210-20-22.11 | 228/2023. (VI. 8.) Korm. rendelet |
 | 2023-12-13 | 2016-210-20-22.12 | 792/2021. (XII. 27.) Korm. rendelet |
+| 2024-10-01 | 2016-210-20-22.13 | 257/2024. (VIII. 29.) Korm. rendelet |
