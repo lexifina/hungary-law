@@ -46,8 +46,10 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 21. területrendezési hatósági eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési és bejelentési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 318. §-a szerint módosított szöveg.
