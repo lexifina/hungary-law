@@ -24,7 +24,7 @@ fd) minden ügyfélszolgálati rendszerben működtetett szolgáltató tevékeny
 
 fe) minden olyan hatósági engedély vagy hatósági kötelezettség alapján végzett nyilvános szolgáltató tevékenység, amely település vagy településrész közellátását szolgálja, használata nem korlátozott, illetve nem korlátozható;
 
-g) akadálymentesség: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. §-ának 1. pontjában meghatározott feltételeknek megfelelő épített környezet;
+g) akadálymentesség: a magyar építészetről szóló 2023. évi C. törvény 16. §-ának 1. pontjában meghatározott feltételeknek megfelelő épített környezet;
 
 h) egyenlő esélyű hozzáférés:
 
