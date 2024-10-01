@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-51-20-2
 | 2022-01-28 | 2016-51-20-22.13 | 24/2022. (I. 27.) Korm. rendelet |
 | 2022-08-10 | 2016-51-20-22.14 | 179/2016. (VII. 1.) Korm. rendelet |
 | 2023-12-28 | 2016-51-20-22.15 | 593/2023. (XII. 20.) Korm. rendelet |
+| 2024-10-01 | 2016-51-20-22.16 | 285/2024. (IX. 30.) Korm. rendelet |
