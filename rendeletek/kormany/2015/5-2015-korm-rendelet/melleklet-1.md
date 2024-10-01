@@ -1,6 +1,6 @@
 1. melléklet az 5/2015. (I. 29.) Korm. rendelethez
 
-A szakkérdés vizsgálatához szükséges kérelem adattartalma[^16]
+A szakkérdés vizsgálatához szükséges kérelem adattartalma[^19]
 
 1. A kérelmező
 
@@ -10,7 +10,7 @@ b) cégjegyzékszáma, vagy vállalkozói száma;
 
 c) eddigi beruházásai;
 
-d)[^17] vagy képviselőjének elektronikus elérhetősége.
+d)[^20] vagy képviselőjének elektronikus elérhetősége.
 
 2. Az építeni, átalakítani, vagy bővíteni kívánt kereskedelmi építmény
 
@@ -64,7 +64,7 @@ c) a kereskedelmi építmény közlekedési kapcsolatai által érintett állami
 
 5. Közlekedési hatásvizsgálat az alábbi elemekre kiterjedően:
 
-a)[^18]
+a)[^21]
 
 b) a kereskedelmi építmény üzemeltetése által várható térségi forgalomnövekedés (különös tekintettel a nehéz tehergépjármű forgalomra) modellezése, hatáselemzés;
 
@@ -74,15 +74,15 @@ d) a kereskedelmi építmény megközelíthetősége közösségi közlekedésse
 
 e) a kereskedelmi építmény gyalogos és kerékpáros megközelíthetőségének vizsgálata, járdák, kerékpárutak, kerékpártárolók kialakításának tervei;
 
-f)[^19]
+f)[^22]
 
-g)[^20]
+g)[^23]
 
-h)[^21]
+h)[^24]
 
-i)[^22]
+i)[^25]
 
-6. Az Étv. 57/C. § (1) bekezdése szerinti kérelem részletes indokolása.
+6.[^26] A Méptv. 169. § (1) bekezdése szerinti kérelem részletes indokolása.
 
 7. Nyilatkozat arról, hogy a közölt adatok a valóságnak megfelelnek.
 
@@ -90,10 +90,11 @@ i)[^22]
 
 9. Cégszerű aláírás és dátum.
 
-[^16]: Az 1. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 6. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^17]: Az 1. melléklet 1. pont d) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdése iktatta be.
-[^18]: Az 1. melléklet 5. pont a) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^19]: Az 1. melléklet 5. pont f) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^20]: Az 1. melléklet 5. pont g) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^21]: Az 1. melléklet 5. pont h) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
-[^22]: Az 1. melléklet 5. pont i) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^19]: Az 1. melléklet címe a 315/2020. (VII. 1.) Korm. rendelet 6. § (4) bekezdés e) pontja szerint módosított szöveg.
+[^20]: Az 1. melléklet 1. pont d) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^21]: Az 1. melléklet 5. pont a) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: Az 1. melléklet 5. pont f) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^23]: Az 1. melléklet 5. pont g) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^24]: Az 1. melléklet 5. pont h) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^25]: Az 1. melléklet 5. pont i) alpontját a 315/2020. (VII. 1.) Korm. rendelet 6. § (5) bekezdés b) pontja hatályon kívül helyezte.
+[^26]: Az 1. melléklet 6. pontja a 285/2024. (IX. 30.) Korm. rendelet 105. § h) pontja szerint módosított szöveg.
