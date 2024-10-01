@@ -1,0 +1,1 @@
+A Kormány a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 13. pont a)–d) alpontjában, valamint a magyar építészetről szóló 2023. évi C. törvény 225. § (1) bekezdés 22. pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
