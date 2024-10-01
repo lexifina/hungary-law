@@ -1,30 +1,30 @@
 ## 4. A Dokumentációs Központ üzemeltetői és adatszolgáltatási feladatai
 
-5. § (1)[^53] A Dokumentációs Központ az Üzemeltető bevonásával
+5. § (1)[^31] A Dokumentációs Központ az Üzemeltető bevonásával
 
-a)[^54] elkészíti és évente felülvizsgálja a DÜSZ-t, jóváhagyás után gondoskodik annak 3. § (2) bekezdése szerinti közzétételéről,
+a)[^32] elkészíti és évente felülvizsgálja a DÜSZ-t, jóváhagyás után gondoskodik annak 3. § (2) bekezdése szerinti közzétételéről,
 
-b) vezeti a bauxitcementtel épült építmények központi nyilvántartását, mely tartalmazza:
+b)[^33] elektronikusan vezeti a bauxitcementtel épült építmények központi nyilvántartását, mely tartalmazza:
 
 ba) az építmény helyét (címét, helyrajzi számát), építésének évét,
 
 bb) a szakértői vizsgálat időpontját, megállapításait,
 
-bc) a jókarbantartásra vagy szakértői vizsgálatra vonatkozó hatósági intézkedés időpontját, műszaki tartalmát,
+bc)[^34] a hatósági intézkedés időpontját, műszaki tartalmát,
 
 c) törvényben meghatározottak szerint kezeli a dokumentumok személyesadat-tartalmát és vezeti azok adatvédelmi nyilvántartását,
 
-d) országos központi tervtárában kezeli a papír alapon keletkezett és tárolt, valamint a Nyilvántartásban elektronikusan keletkezett és tárolt dokumentumokat és adatokat,
+d)[^35] tervtárában kezeli az írásban keletkezett és tárolt adatokat.
 
-e) évente statisztikai összesítést és összefoglaló jelentést készít a Dokumentációs Központ adatállományáról, valamint a Nyilvántartásban rögzített valamennyi adatról.
+e)[^36]
 
 (2) A dokumentációknak a Dokumentációs Központban történő adatkezelése a dokumentációkkal kapcsolatos szerzői jogokat nem érinti.
 
-(3)[^55] Az Üzemeltető az 1. melléklet szerinti rendszerhasználati díjról elkülönített nyilvántartást vezet. Az Üzemeltető a miniszter számára a rendszerhasználati díj tételes felhasználásáról évente részletes beszámolót készít.
+(3)[^37]
 
-(4)[^56] Kérelemre a Dokumentációs Központ az Üzemeltető bevonásával az 1. § (1) bekezdése szerinti dokumentumállomány archivált és a külön jogszabály szerinti újrahasznosítás céljából rendelkezésre bocsátható közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint.
+(4)[^38] Kérelemre a Dokumentációs Központ a 2. és 3. melléklet szerinti dokumentumállomány közérdekű adataiba betekintést biztosít, abból adatokat szolgáltat, az adatokról másolatot ad a közadatok újrahasznosításáról szóló törvény, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint.
 
-(4a)[^57] A Dokumentációs Központ indokolás mellett visszautasítja az adatszolgáltatásra irányuló kérelmet vagy az adatokba történő betekintést, ha a kért adat
+(4a)[^39] A Dokumentációs Központ indokolás mellett visszautasítja az adatszolgáltatásra irányuló kérelmet vagy az adatokba történő betekintést, ha a kért adat
 
 a) a nemzetbiztonsági védelem alá eső szervek és létesítmények köréről szóló kormányhatározatban foglalt építményre vagy
 
@@ -32,37 +32,24 @@ b) a létfontosságú rendszerek és létesítmények azonosításáról, kijel�
 
 irányul.
 
-(5)[^58] A Dokumentációs Központ – szükség szerint az Üzemeltető bevonásával – szolgáltatásai körében a kérelmező megbízása alapján és költségére
+(5)[^40]
 
-a) az építésügyi és építésfelügyeleti eljárásokhoz kapcsolódó más dokumentációs és adattárakból dokumentációkat, közérdekű adatokat,
+(6)[^41]
 
-b) építészeti-műszaki tervdokumentációk szerzőire, ennek hiányában árva műre vonatkozó adatokat, hozzájárulásokat
+(6a)[^42]
 
-szerezhet be.
+(7)[^43]
 
-(6) Az Üzemeltető a nyilvántartási rendszer működtetése, fenntartása és fejlesztése érdekében
-
-a) az (5) bekezdésben foglaltak teljesítése céljából, szolgáltatási szerződés vagy jogszabály alapján, saját informatikai eszközeivel, közvetlen elérést biztosít
-
-aa) az ingatlan-nyilvántartásból – az Étv. 59. § (4) bekezdés a) pontjában meghatározott személyes adatokon kívül – az építésügyi és építésfelügyeleti hatóságok által eljárás alá vont telkek címéhez, helyrajzi számához, terület és művelési ág, valamint bejegyzett jog, tény adataihoz,
-
-ab) a régészeti és a műemléki védelem alatt álló ingatlanok, területek közhiteles nyilvántartási adataihoz,
-
-ac) a barlangok, védett természeti területek, nagyvízi medrek és a kapcsolódó korlátozások, tilalmak nyilvántartási adataihoz,
-
-b) gondoskodik az elektronikus alkalmazások működtetéséről, valamint
-
-c) kezeli az adatállomány és az alkalmazások hozzáférési jogosultsági adatait és vezeti azok nyilvántartását.
-
-(6a)[^59] Az Üzemeltető hozzáférést biztosít a kulturális örökség védelméért felelős miniszter számára a Nyilvántartás alkalmazásaihoz, amennyiben azok használata a műemléki értékkel vagy régészeti lelőhellyel kapcsolatos.
-
-(7)[^60] Az Étv. 3. § (2) bekezdésében foglalt, az Étv. 5. §-ában meghatározott miniszteri feladatok ellátásához szükséges, valamint az e rendeletben előírt közzétételi feladatok ellátása a www.e-epites.hu weboldalon történik, amelyet az Üzemeltető működtet.
-
-[^53]: Az 5. § (1) bekezdés nyitó szövegrésze a 351/2023. (VII. 27.) Korm. rendelet 14. § f) pontjával megállapított szöveg.
-[^54]: Az 5. § (1) bekezdés a) pontja a 351/2023. (VII. 27.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
-[^55]: Az 5. § (3) bekezdését a 107/2013. (IV. 5.) Korm. rendelet 15. § (4) bekezdése hatályon kívül helyezte, újonnan a 62/2014. (III. 6.) Korm. rendelet 20. §-a iktatta be.
-[^56]: Az 5. § (4) bekezdése a 295/2019. (XII. 10.) Korm. rendelet 11. §-a, a 351/2023. (VII. 27.) Korm. rendelet 14. § h) pontja szerint módosított szöveg.
-[^57]: Az 5. § (4a) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 13. § (1) bekezdése iktatta be.
-[^58]: Az 5. § (5) bekezdése a 280/2018. (XII. 21.) Korm. rendelet 5. §-ával megállapított, nyitó szövegrésze a 351/2023. (VII. 27.) Korm. rendelet 14. § i) pontja szerint módosított szöveg.
-[^59]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 209. § a) pontja szerint módosított szöveg.
-[^60]: Az 5. § (7) bekezdése a 351/2023. (VII. 27.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^31]: Az 5. § (1) bekezdés nyitó szövegrésze a 351/2023. (VII. 27.) Korm. rendelet 14. § f) pontjával megállapított szöveg.
+[^32]: Az 5. § (1) bekezdés a) pontja a 351/2023. (VII. 27.) Korm. rendelet 14. § g) pontja szerint módosított szöveg.
+[^33]: Az 5. § (1) bekezdés b) pont nyitó szövegrésze a 285/2024. (IX. 30.) Korm. rendelet 85. § 5. pontja szerint módosított szöveg.
+[^34]: Az 5. § (1) bekezdés b) pont bc) alpontja a 285/2024. (IX. 30.) Korm. rendelet 80. § (1) bekezdésével megállapított szöveg.
+[^35]: Az 5. § (1) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 80. § (2) bekezdésével megállapított szöveg.
+[^36]: Az 5. § (1) bekezdés e) pontját a 285/2024. (IX. 30.) Korm. rendelet 86. § c) pontja hatályon kívül helyezte.
+[^37]: Az 5. § (3) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 86. § d) pontja újból hatályon kívül helyezte.
+[^38]: Az 5. § (4) bekezdése a 295/2019. (XII. 10.) Korm. rendelet 11. §-a, a 351/2023. (VII. 27.) Korm. rendelet 14. § h) pontja, a 285/2024. (IX. 30.) Korm. rendelet 85. § 6. pontja és 86. § e) pontja szerint módosított szöveg.
+[^39]: Az 5. § (4a) bekezdését a 351/2023. (VII. 27.) Korm. rendelet 13. § (1) bekezdése iktatta be.
+[^40]: Az 5. § (5) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 86. § f) pontja hatályon kívül helyezte.
+[^41]: Az 5. § (6) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 86. § f) pontja hatályon kívül helyezte.
+[^42]: Az 5. § (6a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 19. §-a iktatta be, a 285/2024. (IX. 30.) Korm. rendelet 86. § f) pontja hatályon kívül helyezte.
+[^43]: Az 5. § (7) bekezdését a 285/2024. (IX. 30.) Korm. rendelet 86. § f) pontja hatályon kívül helyezte.
