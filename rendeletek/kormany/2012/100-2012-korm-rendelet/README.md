@@ -36,3 +36,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-100-20-
 | 2023-01-01 | 2012-100-20-22.28 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-12-20 | 2012-100-20-22.29 | 458/2017. (XII. 28.) Korm. rendelet |
 | 2024-05-08 | 2012-100-20-22.30 | 97/2024. (V. 7.) Korm. rendelet |
+| 2024-10-01 | 2012-100-20-22.31 | 257/2024. (VIII. 29.) Korm. rendelet |
