@@ -1,3 +1,3 @@
-20. §[^20]
+20. §[^21]
 
-[^20]: A 20. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^21]: A 20. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

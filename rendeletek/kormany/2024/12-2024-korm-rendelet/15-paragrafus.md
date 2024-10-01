@@ -1,3 +1,3 @@
-15. §[^15]
+15. §[^16]
 
-[^15]: A 15. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^16]: A 15. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

@@ -1,3 +1,3 @@
-9. §[^9]
+9. §[^10]
 
-[^9]: A 9. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^10]: A 9. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

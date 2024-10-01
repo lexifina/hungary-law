@@ -1,3 +1,3 @@
-5. §[^5]
+5. §[^6]
 
-[^5]: Az 5. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^6]: Az 5. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

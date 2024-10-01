@@ -1,3 +1,3 @@
-4. §[^4]
+4. §[^5]
 
-[^4]: A 4. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^5]: A 4. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

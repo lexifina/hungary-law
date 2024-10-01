@@ -1,3 +1,7 @@
-12. §[^12]
+## 40/A.
 
-[^12]: A 12. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+## 40/B.
+
+12. §[^13]
+
+[^13]: A 12. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

@@ -2,4 +2,6 @@
 
 25. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2024. január 31-én lép hatályba.
 
-(2) Az 1–20. § és a 22–23. § 2024. október 1-jén lép hatályba.
+(2)[^26]
+
+[^26]: A 25. § (2) bekezdését a 287/2024. (IX. 30.) Korm. rendelet 26. §-a hatályon kívül helyezte.

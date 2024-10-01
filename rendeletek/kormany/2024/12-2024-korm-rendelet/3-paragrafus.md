@@ -1,3 +1,3 @@
-3. §[^3]
+3. §[^4]
 
-[^3]: A 3. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^4]: A 3. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.

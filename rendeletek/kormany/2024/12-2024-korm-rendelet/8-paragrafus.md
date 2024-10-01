@@ -1,3 +1,3 @@
-8. §[^8]
+8. §[^9]
 
-[^8]: A 8. § a 25. § (2) bekezdés alapján 2024. október 1-jén lép hatályba.
+[^9]: A 8. § a 287/2024. (IX. 30.) Korm. rendelet 27. § a) pontja alapján nem lép hatályba.
