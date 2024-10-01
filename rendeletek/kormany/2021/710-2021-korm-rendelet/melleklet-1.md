@@ -44,8 +44,10 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 21. a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^4] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 342. §-a szerint módosított szöveg.
