@@ -46,7 +46,7 @@ A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 22. földvédelmi hatósági eljárás,
 
-23. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+23.[^38] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 24. hulladékgazdálkodási hatósági eljárások,
 
@@ -57,3 +57,4 @@ A beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^37]: Az 1. melléklet a 660/2021. (XI. 30.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^38]: Az 1. melléklet 23. pontja a 257/2024. (VIII. 29.) Korm. rendelet 158. §-a szerint módosított szöveg.
