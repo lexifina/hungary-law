@@ -8,7 +8,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 2. környezetvédelmi hatósági eljárások,
 
-3. tűzvédelmi és katasztrófavédelmi hatósági eljárások,
+3.[^2] tűzvédelmi és iparbiztonsági hatósági eljárások,
 
 4. építésügyi és építésfelügyeleti hatósági eljárások,
 
@@ -45,3 +45,5 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, melyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^2]: Az 1. melléklet 3. pontja a 257/2024. (VIII. 29.) Korm. rendelet 320. §-a szerint módosított szöveg.
