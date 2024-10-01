@@ -18,7 +18,7 @@ Az 1. § (1) bekezdése szerinti fejlesztések megvalósításával összefügg�
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^3] iparbiztonsági hatósági eljárások,
 
 9. útügyi hatósági eljárások,
 
@@ -47,3 +47,5 @@ Az 1. § (1) bekezdése szerinti fejlesztések megvalósításával összefügg�
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti fejlesztések megvalósításához és használatbavételéhez szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: Az 1. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 194. §-a szerint módosított szöveg.
