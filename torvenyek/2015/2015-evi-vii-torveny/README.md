@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-7-00-00
 | 2016-04-12 | 2016. évi XIX. törvény | 2015-7-00-00.10 |
 | 2021-07-09 | 2021. évi LXVIII. törvény | 2015-7-00-00.11 |
 | 2024-05-11 | 2024. évi XXVIII. törvény | 2015-7-00-00.13 |
+| 2024-10-01 | 2023. évi C. törvény | 2015-7-00-00.12 |
