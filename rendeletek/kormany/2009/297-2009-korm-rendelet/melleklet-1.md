@@ -1,6 +1,6 @@
 1. számú melléklet a 297/2009. (XII. 21.) Korm. rendelethez
 
-## Szakértői szakterületek és részterületeik
+Szakértői szakterületek és részterületeik
 
 1. Környezetvédelem szakterület, illetve részterületei (betűjele: SZKV):
 
