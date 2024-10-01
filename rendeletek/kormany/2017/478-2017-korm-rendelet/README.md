@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2017-478-20-
 | --- | --- | --- |
 | 2017-12-29 | 2017-478-20-22.1 | 478/2017. (XII. 28.) Korm. rendelet |
 | 2022-12-23 | 2017-478-20-22.2 | 553/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2017-478-20-22.3 | 285/2024. (IX. 30.) Korm. rendelet |
