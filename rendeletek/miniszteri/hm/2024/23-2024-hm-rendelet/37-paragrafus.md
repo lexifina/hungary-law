@@ -1,0 +1,7 @@
+## 16. Egyéb költségtérítések
+
+37. § (1) Az MH megtéríti a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő részére a külföldi szolgálatra vezényléshez szükséges, a saját és a hozzátartozó vízumköltségét, valamint a vízum kiadásához szükséges orvosi vizsgálat költségét.
+
+(2) A honvéd, a honvédelmi alkalmazott és a kormánytisztviselő a külföldi képzésen való részvételhez elengedhetetlenül szükséges, a fogadó fél által kötelezően előírt, és a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő részére térítés ellenében biztosított tankönyvek, tansegédletek, katonai ruházat és felszerelési tárgyak beszerzési költségének megtérítésére jogosult, ha azokat a fogadó fél vagy az MH nem biztosítja térítésmentesen. A honvéd, a honvédelmi alkalmazott és a kormánytisztviselő az így megtérített eszközöket köteles a képzés befejezését követően az illetékes logisztikai ellátó szerv részére átadni.
+
+(3) Ha a fogadó fél a külföldi képzésen való részvétel alapfeltételeként határozza meg, hogy a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő, illetve 12 hónapot meghaladó vezénylés esetén a vele életvitelszerűen együtt élő hozzátartozója a képzés időtartamára érvényes utas-, baleset-, illetve egészségügyi biztosítással rendelkezzen, akkor a döntésre jogosult elöljáró jóváhagyása esetén a fogadó fél által előírt biztosítási forma díját az MH a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő részére megtéríti.

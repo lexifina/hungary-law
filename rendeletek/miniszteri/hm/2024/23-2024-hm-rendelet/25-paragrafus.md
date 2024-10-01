@@ -1,0 +1,3 @@
+## 11. A külföldi szolgálatra vezénylés alatt ellátott egyéb feladatokhoz kapcsolódó illetményen kívüli juttatások
+
+25. § A honvéd, a honvédelmi alkalmazott és a kormánytisztviselő a külföldi szolgálat időtartama alatt az állomáshely szerinti vagy harmadik országban vagy Magyarország területén menetparancs vagy azt helyettesítő hivatalos dokumentum alapján teljesített kiküldetés vagy kötelező tanulmányi út (a továbbiakban együtt: kiküldetés) időtartamára a 45–49. § szerint jogosult a szállással, az utazással, a szállítással összefüggésben felmerülő és az egyéb indokolt költségek megtérítésére, ha a fogadó fél azokat nem téríti meg, vagy természetben nem biztosítja.

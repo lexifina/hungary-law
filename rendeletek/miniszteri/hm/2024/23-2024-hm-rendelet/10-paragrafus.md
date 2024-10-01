@@ -1,0 +1,3 @@
+10. § (1) A külföldi szolgálatra vezényelt honvéd a magyarországi munkaszüneti napok alatt csak a fogadó fél szabályai vagy a külföldön működő honvédelmi szervezet szervezeti és működési szabályzatában foglaltak szerint mentesül a szolgálatteljesítési kötelezettség alól, amelynek elmaradása utólag nem kompenzálható. Az állomáshely szerinti országban a fogadó fél által kiadott munkaszüneti napok a honvéd szolgálatmentességébe nem számíthatók be.
+
+(2) A külföldi képzésre vezényelt honvéd köteles beszerezni és haladéktalanul megküldeni az MH kijelölt szervezeti egységének vezetője részére a fogadó féltől a külföldi képzés időtartamára eső oktatási szüneteket, valamint a munkaszüneti napokat tartalmazó hivatalos igazolást.

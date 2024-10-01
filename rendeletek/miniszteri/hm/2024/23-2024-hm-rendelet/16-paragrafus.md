@@ -1,0 +1,3 @@
+16. § (1) Ha a vezénylés megszüntetésének oka a honvédnek felróható, vagy a megszüntetés a szolgálat érdekével össze nem egyeztethető alapos ok nélküli kérelmére történt, a megszüntetéssel és a honvéd váltásával összefüggésben közvetlenül felmerült költségek megtérítése iránti igényt az MH a kártérítési szabályok szerint érvényesítheti. A vezénylésnek a honvéd kérelme alapján történő megszüntetése esetében a kérelemben foglalt indokokat a költségek megtéríttetése és a kölcsönök visszafizettetése mértékénél figyelembe kell venni.
+
+(2) Ha a vezénylés megszüntetésének oka a honvédnek nem felróható, a külföldi szolgálatra vezénylés soron kívüli megszüntetéséhez közvetlenül kapcsolódó, számlával igazolt költségei megtérítésére jogosult. Ezen túl kártalanításnak nincs helye.

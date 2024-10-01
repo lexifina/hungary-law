@@ -1,0 +1,3 @@
+27. § (1) A külföldön betöltött beosztása sajátosságaiból adódóan esetenként műveleti terület feletti légtérben feladatot végrehajtó honvéd a feladatellátással érintett hónapokra, függetlenül az adott hónapban ilyen feladatellátással töltött napok számától az 54. § (5) bekezdés a) pontjában meghatározott biztonsági körülmények szerinti alapellátmány-kiegészítés összegének 30%-ára jogosult.
+
+(2) Az (1) bekezdés alkalmazása során azt a biztonsági körülmények szerinti kategóriát kell irányadónak tekinteni, amely a repült útvonal alatti műveleti területen feladatot ellátó kontingens vagy csoport tekintetében meghatározásra került. Egy térségben szolgálatot teljesítő több kontingens és csoport esetében a legalacsonyabb besorolású biztonsági kategóriát kell alapul venni.

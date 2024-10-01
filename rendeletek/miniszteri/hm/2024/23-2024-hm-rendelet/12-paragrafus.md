@@ -1,0 +1,3 @@
+12. § (1) A külföldi katonai műveletben való részvételre vezényelt honvéd részére a heti pihenőnapon felül, a külföldi szolgálatteljesítés időtartama alatt a Honvéd Vezérkar főnökének (a továbbiakban: HVKF) intézkedésében foglaltak szerint műveleti szabadnap adható.
+
+(2) A külföldi szolgálat alatt igénybe vett műveleti szabadnapot az alap- és pótszolgálatmentesség – ide nem értve a gyermek után járó pótszolgálatmentességet, a szülői szolgálatmentességet és az apasági szolgálatmentességet – külföldi szolgálat idejével időarányos részébe be kell számítani. A műveleti szabadnap külföldi szolgálat ideje alatt igénybe nem vett része a vezénylés megszűnését, megszüntetését követően nem adható ki, pénzben nem váltható meg.

@@ -1,0 +1,1 @@
+15. § A külföldi szolgálatra történő vezénylés megszüntethető a honvéd indokolt kérelmére is. Ha a honvéd pótlását biztosítani kell, akkor a vezénylés befejezését és a hazarendelést erre figyelemmel a kérelem beadásától számított legfeljebb 3 hónapon belül kell végrehajtani.

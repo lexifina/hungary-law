@@ -1,0 +1,5 @@
+41. § (1) A fogadó fél által a tartós külföldi képzésben részt vevő honvéd, honvédelmi alkalmazott vagy kormánytisztviselő részére folyósított pénzbeli juttatásokat – elnevezésüktől függetlenül – bele kell számítani a külszolgálati ellátmány és az átalány-költségtérítések együttes összegébe. Nem lehet beszámítani a honvédnek, a honvédelmi alkalmazottnak és a kormánytisztviselőnek az MH-tól és a fogadó féltől független szervtől, személytől nem a megélhetéssel összefüggésben biztosított juttatást, így különösen a tanulmányi verseny díját.
+
+(2) A honvéd, a honvédelmi alkalmazott és a kormánytisztviselő a fogadó fél által nyújtott juttatásokról, valamint az azok mértékében bekövetkezett változásokról köteles írásban tájékoztatni az MH kijelölt szervezeti egységének vezetőjét.
+
+(3) Ha a fogadó fél által a honvéd, a honvédelmi alkalmazott vagy a kormánytisztviselő részére folyósított pénzbeli juttatások együttes összege meghaladja a külszolgálati ellátmány és az átalány-költségtérítések együttes összegét, a honvéd külszolgálati ellátmányra és átalány-költségtérítésre nem jogosult.

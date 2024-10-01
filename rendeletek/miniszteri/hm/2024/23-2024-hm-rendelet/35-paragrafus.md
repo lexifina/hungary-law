@@ -1,0 +1,9 @@
+35. § (1) A külföldi szolgálatra vezényléssel összefüggésben felmerülő 37. § (1) bekezdése szerinti vízumköltség megelőlegezése érdekében a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő részére, írásbeli kérelmére, az érintett és hozzátartozói után legfeljebb 2800 EUR/fő, 12 hónap vagy annál rövidebb időtartamú külföldi szolgálat esetén mindösszesen legfeljebb 5000 EUR, 12 hónapnál hosszabb külföldi szolgálat esetén mindösszesen legfeljebb 11 000 EUR vagy annak megfelelő összegű USD vagy GBP vízumkölcsön folyósítható.
+
+(2) A vízumkölcsönt a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő a külföldi szolgálatot megelőzően, a külföldi szolgálat megkezdése előtti 5. hónaptól kérheti az illetékes pénzügyi ellátó szervtől, amely a kölcsönt a kérelem benyújtását követő 15. napig folyósítja az érintett részére.
+
+(3) A (2) bekezdés szerint felvett, de fel nem használt összeget az utazás elmaradása esetén, az erről való értesítéstől számított 10 napon belül az illetékes pénzügyi ellátó szerv részére vissza kell fizetni.
+
+(4) A honvéd, a honvédelmi alkalmazott és a kormánytisztviselő a (2) bekezdés szerint felvett összeggel a külföldi szolgálat megkezdését követő 30 napon belül a vízumköltség összegét alátámasztó számlával köteles az illetékes pénzügyi ellátó szerv felé elszámolni.
+
+(5) Ha a vízumköltség meghaladja a felvett vízumkölcsön összegét, az illetékes pénzügyi ellátó szerv a különbözetet a (4) bekezdés szerinti elszámolást követő 10 napon belül megtéríti a honvéd, a honvédelmi alkalmazott vagy a kormánytisztviselő számára. Ha a felvett vízumkölcsön összege meghaladja a vízumköltséget, a különbözetet a (4) bekezdés szerinti elszámoláskor a honvéd, a honvédelmi alkalmazott és a kormánytisztviselő köteles az illetékes pénzügyi ellátó szerv részére visszafizetni.
