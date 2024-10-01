@@ -20,7 +20,7 @@ d) a jogi személy üzembentartó nevét, székhelyét, cégjegyzékszámát vag
 
 (5) A használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő 60 napos jogvesztő határidőn belül az üzembentartó részére postára adja a pótdíjfizetési felszólítást. A 60 napos jogvesztő határidőt a használati díj megfizetését elmulasztó gépjármű üzembentartójának a használati díj beszedésére jogosult szervezet vagy az általa igénybe vett közreműködő előtt ismertté válásától kell számítani. Nem kell pótdíjfizetési felszólítást kézbesíteni abban az esetben, ha a használati díjat és pótdíjat meg nem fizető üzembentartó, vagy a gépjármű vezetője a helyszíni ellenőrzés alkalmával az ellenőrzésről kiállított jegyzőkönyvet aláírja és átveszi. A pótdíjfizetési kötelezettség három év alatt évül el. A pótdíj után késedelmi kamat nem jár.
 
-(5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás nem a tényleges üzemben tartó adatait tartalmazza, illetve külföldi üzembentartók esetén az (5) bekezdés szerinti határidő a tényleges üzemben tartó ismertté válásától számítandó.
+(5a) Ha a pótdíjfizetési felszólítás megküldésének időpontjában a közúti közlekedési nyilvántartás, vagy – az Európai Unió más tagállamában nyilvántartott jármű esetében – a nyilvántartás helye szerinti tagállam nemzeti gépjármű-nyilvántartása nem a tényleges üzembentartó adatait tartalmazza, továbbá harmadik országban nyilvántartott jármű esetében az (5) bekezdés szerinti határidő a tényleges üzembentartó ismertté válásától számítandó.
 
 (6)
 

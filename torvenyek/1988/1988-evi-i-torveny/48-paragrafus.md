@@ -36,7 +36,7 @@ a) a Kormány, hogy
 
 15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a pénzkövetelés biztosítása elrendelése esetén ennek összegét, továbbá az ezek megfizetésével kapcsolatos költség összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
-16. a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárás szabályait,
+16. a veszélyes áruk közúti szállításának ellenőrzésére jogosult hatóság kijelölését, valamint az ellenőrzésre vonatkozó egységes eljárás szabályait,
 
 17. a közúti járművekkel kapcsolatos jóváhagyásokra, típusbizonyítványokra, műszaki vizsgálatokra vonatkozó adatok kezelésére és nyilvántartására vonatkozó rendelkezések megsértése esetén kiszabható bírságok összegét és az ellenőrzés részletes szabályait,
 
@@ -286,6 +286,8 @@ r) a közlekedésrendészetért felelős miniszter, valamint a honvédelemért f
 
 s) az útdíjfizetési-szolgáltatásért felelős miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben az útdíjszolgáltatási gazdasági társaság által a viszonteladóknak fizetendő átalány-költségtérítés mértékét és számításának módját
 
+t) a miniszter, hogy a 33/A. § (6b) bekezdésében meghatározott, a használatidíj-fizetés elmulasztása miatt kiszabott pótdíjfizetési kötelezettségről, és az annak érvényesítése érdekében indítható eljárásról szóló formanyomtatványt
+
 rendeletben állapítsa meg.
 
 (3a) Felhatalmazást kap a Kormány, hogy a közúti szállítást végző egyes járművek személyzete vezetési és pihenőidejének, valamint az utazó munkavállalók, a kabotázstevékenység és a közúti szállítás kiküldetési előírásai megtartásának ellenőrzésére vonatkozó szabályokat rendeletben állapítsa meg.
@@ -309,6 +311,8 @@ e) a díjfizetés alól mentesítettek, valamint a kedvezményes várakozásra j
 (5a) Felhatalmazást kap a fővárosi közgyűlés, hogy a főváros közigazgatási területén lévő közúttal érintkező szilárd burkolatú járda, gyalogút, gyalogos felállóhely szegélye egységes kialakításának követelményeit rendeletben állapítsa meg.
 
 (5b) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés –, hogy hogy a közlekedésért felelős miniszter rendeletében előírt közutak kezelési feladataival kapcsolatban, valamint a közlekedésért felelős miniszter rendeletében előírt közutak építésével kapcsolatban előírt minőségi követelmények ellenőrzésének való megfelelés érdekében az általa kezelt közutak vonatkozásában a helyi sajátosságoknak megfelelő további szabályokat rendeletben állapíthasson meg.
+
+(5c) Felhatalmazást kap a helyi önkormányzat képviselő-testülete – fővárosban a fővárosi közgyűlés és a fővárosi kerületi képviselőtestület –, hogy rendeletében megállási és várakozási tilalommal érintett zöldfelületet jelöljön ki.
 
 (6) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg az elektromobilitás szolgáltató és az elektromos töltőberendezés üzemeltetője által rendszeres adatszolgáltatás keretében szolgáltatandó adatok körét, az adatszolgáltatás teljesítésének módjára és esedékességére vonatkozó követelmények, és az adatszolgáltatási kötelezettség teljesítése alól adható mentesség részletes szabályait, továbbá a rendkívüli adatszolgáltatással kapcsolatos szabályokat.
 

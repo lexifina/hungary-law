@@ -18,7 +18,7 @@ b) a gépjárművek közlekedésére szolgáló közút felett, annak műtárgy�
 
 (3d) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz (3c) bekezdés szerinti elhelyezése esetén
 
-a) nem kell alkalmazni az épített környezet alakításáról és védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+a) nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
 
 b) a közterület igénybevétele rendeltetésszerű igénybevételnek, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz pedig a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezésnek minősül,
 
@@ -36,7 +36,7 @@ a) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a nyilvá
 
 b) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés segélykérő telefon tartószerkezetén történő elhelyezése esetén az elhelyező életmentő funkciót ellátó reklámcélú eszközönként 3000 forint/hó összegű díj megfizetésére köteles,
 
-c) elhelyezése esetén nem kell alkalmazni a településkép védelméről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
+c) elhelyezése esetén nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
 
 d) a közterület igénybevétele rendeltetésszerű igénybevételnek minősül, amely közterület-használati díjfizetési kötelezettséggel nem jár, az elhelyezőnek a közút kezelője részére csak a b) pont szerinti elhelyezési díjat kell fizetnie,
 

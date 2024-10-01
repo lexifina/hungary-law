@@ -107,3 +107,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1988-1-00-00
 | 2024-05-26 | 2024. évi XXVI. törvény | 1988-1-00-00.143 |
 | 2024-07-01 | 2024. évi XXVI. törvény | 1988-1-00-00.138 |
 | 2024-09-01 | 2024. évi XXVI. törvény | 1988-1-00-00.141 |
+| 2024-10-01 | 2024. évi XXIX. törvény | 1988-1-00-00.130 |

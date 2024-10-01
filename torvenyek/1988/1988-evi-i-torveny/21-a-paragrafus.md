@@ -12,9 +12,7 @@ a) a gépjármű hatósági jelzését,
 
 b) a természetes személy üzemben tartó és használatba vevő nevét, születési idejét, születési helyét, lakcímét, nem természetes személy üzemben tartó és használatba vevő esetén annak megnevezését és székhelyének (telephelyének) címét,
 
-c)
-
-valamint
+c) valamint
 
 d) azon időszak megjelölését, amelyre a gépjármű használatát a használatba vevő az
 

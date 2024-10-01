@@ -44,7 +44,7 @@ i) a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK 
 
 j) az alternatív üzemanyagok infrastruktúrájának kiépítéséről szóló, 2014. október 22-i 2014/94/EU európai parlamenti és tanácsi irányelv.
 
-k) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 24. cikke,
+k) az Unión belüli elektronikus útdíjszedési rendszerek átjárhatóságáról és az útdíjfizetés elmulasztásával kapcsolatos információk határokon átnyúló cseréjének elősegítéséről szóló, 2019. március 19-i (EU) 2019/520 európai parlamenti és tanácsi irányelv 2., valamint 23–25. cikke,
 
 l) a közúti szállítási ágazatban dolgozó járművezetők kiküldetésére vonatkozó különös szabályoknak a 96/71/EK irányelv és a 2014/67/EU irányelv tekintetében való meghatározásáról, a 2006/22/EK irányelvnek a végrehajtási követelmények tekintetében történő módosításáról, valamint az 1024/2012/EU rendelet módosításáról szóló, 2020. július 15-i (EU) 2020/1057 európai parlamenti és tanácsi irányelv 1. cikke,
 

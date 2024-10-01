@@ -6,7 +6,9 @@ a) engedélyezési eljárásokban ügyfélnek minősül az építtető, a vagyon
 
 b) engedélyezési eljárásokban az eljárás megindításáról a közlekedési hatóság nyolc napon belül, ha helyszíni szemle, hatósági egyeztetés megtartása szükséges, az arról szóló értesítéssel egyidejűleg értesíti az ügyfeleket – ideértve a külföldi ügyfeleket is – hirdetményi úton,
 
-c)–d)
+c)
+
+d)
 
 e) az engedélyezési eljárásokban hatásterületnek minősül azon ingatlanok területe, amelyeket a tervezett tevékenység terület-igénybevétellel érinti, vagy amely a tevékenységgel igénybevett ingatlan tervezési határok közötti területével közvetlenül határos, vagy amelynek a kapubejárója az eljárás tárgyát képező útszakaszhoz közvetlenül csatlakozik.
 

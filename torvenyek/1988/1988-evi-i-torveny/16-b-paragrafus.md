@@ -4,7 +4,7 @@ a) büntetlen előéletű,
 
 b) rendelkezik az e törvény felhatalmazása alapján a Kormány által kiadott rendeletben meghatározott szakmai képesítéssel, szakirányú végzettséggel és megfelel az abban meghatározott egyéb feltételeknek,
 
-c) rendelkezik a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) engedélyével.
+c) rendelkezik a magyar építészetről szóló törvényben meghatározott területi mérnöki kamarának (a továbbiakban: kamara) engedélyével.
 
 (2) A kamara az auditori tevékenység végzésére jogosult személyekről nyilvántartást vezet, amely tartalmazza az auditori tevékenység végzésére jogosult személy természetes személyazonosító adatait, valamint a képzettségét és a gyakorlati idejét. A nyilvántartásból kizárólag az auditori tevékenység végzésére való jogosultság igazolása céljából szolgáltatható adat.
 
