@@ -22,11 +22,11 @@ A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított kö
 
 9. tűzvédelmi hatósági eljárások,
 
-10. katasztrófavédelmi hatósági eljárások,
+10.[^7] iparbiztonsági hatósági eljárások,
 
 11. útügyi hatósági eljárások,
 
-12.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+12.[^8] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 13. műszaki biztonsági engedélyezési eljárások,
 
@@ -42,4 +42,5 @@ A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított kö
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^7]: Az 1. melléklet 12. pontja a 380/2016. (XII. 2.) Korm. rendelet 103. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet 10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 163. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 12. pontja a 380/2016. (XII. 2.) Korm. rendelet 103. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
