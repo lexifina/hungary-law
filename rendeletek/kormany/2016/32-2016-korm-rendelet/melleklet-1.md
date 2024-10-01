@@ -32,7 +32,7 @@
 
 14. bányahatósági engedélyezési eljárások,
 
-15. tűzvédelmi és katasztrófavédelmi hatósági eljárások,
+15.[^10] tűzvédelmi és iparbiztonsági hatósági eljárások,
 
 16. élelmiszerlánc-felügyeleti eljárás,
 
@@ -44,3 +44,4 @@
 
 [^8]: A 11. §-t a 282/2021. (V. 26.) Korm. rendelet 1. §-a iktatta be.
 [^9]: A hatálybalépés időpontja 2021. május 27.
+[^10]: Az 1. melléklet 15. pontja a 257/2024. (VIII. 29.) Korm. rendelet 182. §-a szerint módosított szöveg.
