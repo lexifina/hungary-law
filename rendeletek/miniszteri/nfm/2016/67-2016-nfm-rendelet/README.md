@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-67-20-2
 | 2024-01-01 | 2016-67-20-2W.35 | 35/2023. (XII. 29.) EM rendelet |
 | 2024-04-01 | 2016-67-20-2W.36 | 3/2024. (III. 28.) EM rendelet |
 | 2024-07-01 | 2016-67-20-2W.37 | 10/2024. (VI. 28.) EM rendelet |
+| 2024-10-01 | 2016-67-20-2W.38 | 17/2024. (IX. 30.) EM rendelet |

@@ -2,25 +2,25 @@
 
 | 1. | hónap | szerződött egyetemes szolgáltató | nem földgáztárolóból származó földgázforrás mennyisége (kWh) | földgáztárolóból származó földgázforrás mennyisége (kWh) | földgázforrás ára (forint/kWh) |
 
-| 2. | július | MVM Next Energiakereskedelmi Zrt. | 486 207 591 | 0 | 5,027 |
+| 2. | október | MVM Next Energiakereskedelmi Zrt. | 1 116 710 806 | 1 237 715 194 | 0,001 |
 
-| 3. | augusztus | MVM Next Energiakereskedelmi Zrt. | 486 222 862 | 0 | 5,027 |
+| 3. | november | MVM Next Energiakereskedelmi Zrt. | 1 963 238 352 | 2 175 970 648 | 0,001 |
 
-| 4. | szeptember | MVM Next Energiakereskedelmi Zrt. | 616 300 515 | 0 | 5,027 |
+| 4. | december | MVM Next Energiakereskedelmi Zrt. | 2 854 738 339 | 3 164 071 661 | 0,001 |
 
 2. melléklet a 67/2016. (XII. 29.) NFM rendelethez[^58]
 
-1. Az MVM CEEnergy Zrt. mint az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2024. harmadik negyedévre:
+1. Az MVM CEEnergy Zrt. mint az egyetemes szolgáltatót ellátó földgázkereskedő által a 2. § (1) bekezdése szerint értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége 2024. negyedik negyedévre:
 
 |  | A | B | C | D |
 
 | 1. | hónap | szerződött egyetemes szolgáltató | földgázforrás mennyisége (kWh) | földgázforrás mennyiségarányos díja (forint/kWh) |
 
-| 2. | július | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 2. | október | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
-| 3. | augusztus | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 3. | november | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
-| 4. | szeptember | MVM Next Energiakereskedelmi Zrt. | 0 | – |
+| 4. | december | MVM Next Energiakereskedelmi Zrt. | 0 | – |
 
 2. A 2. § szerinti földgázforrás átvételéhez kapcsolódóan felmerülő nem mennyiségarányos szállítási és tárolási költségek:
 
@@ -30,4 +30,4 @@
 
 | 2. | MVM Next Energiakereskedelmi Zrt. | – |
 
-[^58]: A 2. melléklet a 10/2024. (VI. 28.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^58]: A 2. melléklet a 17/2024. (IX. 30.) EM rendelet 1. § (2) bekezdésével megállapított szöveg.
