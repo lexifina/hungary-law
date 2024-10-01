@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-77-00-00
 | 2021-06-29 | 2021. évi CI. törvény | 2011-77-00-00.21 |
 | 2021-07-01 | 2021. évi XXXIX. törvény | 2011-77-00-00.22 |
 | 2021-12-22 | 2021. évi CXLVI. törvény | 2011-77-00-00.23 |
+| 2024-10-01 | 2023. évi C. törvény | 2011-77-00-00.24 |

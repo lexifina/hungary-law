@@ -1,6 +1,6 @@
 ## 2. Általános rendelkezések
 
-3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet – a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettséggel összhangban – mindenki köteles megóvni.
+3. § (1) A világörökségi helyszín kiemelkedő egyetemes értéket, a várományos helyszín kiemelkedő értéket hordoz, amelyet - a kulturális örökségről, a magyar építészetről, a természet védelméről, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettséggel összhangban - mindenki köteles megóvni.
 
 (2) A világörökségi és a várományos terület védelme és fennmaradását szolgáló, értékőrző használata közérdek, amely – összhangban a kulturális örökség, a természet, illetve a településkép védelméről szóló jogszabályok alapján fennálló védettségből fakadó kötelezettségeikkel – az állami és önkormányzati szervek, az egyházi jogi személyek, a társadalmi és egyéb szervezetek, illetve a természetes személyek együttműködésével valósul meg.
 
