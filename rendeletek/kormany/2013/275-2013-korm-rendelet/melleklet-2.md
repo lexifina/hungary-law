@@ -1,3 +1,5 @@
+## 3K64379_0
+
 | Az építési termékek lényeges terméktulajdonságai (a 305/2011/EU európai parlamenti és tanácsi rendelet IV. melléklet 1. táblázatában meghatározott termékkörönként) |
 
 | 1. Előre gyártott normál/könnyűsúlyú/autoklávozott pórusbeton-termékek |
@@ -350,6 +352,8 @@
 
 | 20.6 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
+## 3K64379_1
+
 | 2. Ajtók, ablakok, ablaktáblák, kapuk és a hozzájuk tartozó vasalatok |
 
 |  | A | B |
@@ -446,6 +450,8 @@
 
 | 4.14 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
+## 3K64379_2
+
 | 3. Membránok, beleértve a folyadékként felhordottakat és a készleteket is (víz- és/vagy vízgőz szigetelési célra) |
 
 |  | A | B |
@@ -541,6 +547,8 @@
 | 5.5 | Viselkedés mesterséges öregítés hatására | csak zárórétegeknél, egyrétegű szigeteléseknél és zöldtetőkben alkalmazott lemezeknél |
 
 | 5.6 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_3
 
 | 4. Hőszigetelő anyagok, többrétegű szigetelő készletek/rendszerek |
 
@@ -812,6 +820,8 @@
 
 | 8.11 | Fagyállóság: az alapréteg vagy a záróréteg vízfelvétele 24 óra után és/vagy tapadószilárdság a záróréteg és a szigetelőanyag között ciklikus igénybevétel után |
 
+## 3K64379_4
+
 | 5. Szerkezeti teherhordó elemek, szerkezeti illesztéseknél használt csapok |
 
 |  | A | B |
@@ -1048,6 +1058,8 @@
 
 | 6.2.3 | Tartósság – ismételt terheléssel – alacsony és magas hőmérséklettel – korrózióval szemben | minden felhasználási területen |
 
+## 3K64379_5
+
 | 6. Kémények, füstgázvezetékek és speciális termékek |
 
 |  | A | B |
@@ -1137,6 +1149,8 @@
 | 2.10 | Korrózióállósági osztály |
 
 | 2.11 | Jéggel és olvadékával szembeni ellenálló képesség |
+
+## 3K64379_6
 
 | 7. Gipsztermékek |
 
@@ -1257,6 +1271,8 @@
 | 5.11 | Tűzvédelmi osztály | minden felhasználási területre |
 
 | 5.12 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_7
 
 | 8. Geotextíliák |
 
@@ -1516,6 +1532,8 @@
 
 | 11.10 | Időjárással szembeni ellenállás |
 
+## 3K64379_8
+
 | 9. Függönyfalak / külső falburkolat / szerkezetlezáró üvegezési rendszerek |
 
 |  | A | B |
@@ -1547,6 +1565,8 @@
 | 1.11 | Homlokzati tűzterjedési határérték |
 
 | 1.12 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_9
 
 | 10. Rögzített tűzoltó készülékek |
 
@@ -2028,6 +2048,8 @@
 
 | 39.4 | Tartós működőképesség megbízhatósága; tartósság |
 
+## 3K64379_10
+
 | 11. Szaniterek |
 
 |  | A | B |
@@ -2135,6 +2157,8 @@
 | 11.4 | Öblítővíz kapacitása |
 
 | 11.5 | Tartósság |
+
+## 3K64379_11
 
 | 12. Forgalmi kellékek: közúti berendezések |
 
@@ -2406,6 +2430,8 @@
 
 | 11.7 | Korrózió elleni védelem |
 
+## 3K64379_12
+
 | 13. Szerkezeti faanyagok / elemek és segédanyagaik |
 
 |  | A | B |
@@ -2478,6 +2504,8 @@
 
 | 2.22 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
+## 3K64379_13
+
 | 14. Faalapú panelek és elemek |
 
 |  | A | B |
@@ -2493,6 +2521,8 @@
 | 1.3 | Tűzállósági teljesítmény (vizsgálattal vagy számítással igazolt) |
 
 | 1.4 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_14
 
 | 15. Cement, építési mész és egyéb hidraulikus kötőanyagok |
 
@@ -2748,6 +2778,8 @@
 
 | 9.12 | Fe2O3 tartalom a klinkerben |
 
+## 3K64379_15
+
 | 16. Betonhoz alkalmazott betonacél és feszített acél (és segédanyagaik), utófeszítő rendszerek |
 
 |  | A | B |
@@ -2769,6 +2801,8 @@
 | 1.6 | Ékcsúszás |
 
 | 1.7 | Iránytörés/irányváltás határértéke |
+
+## 3K64379_16
 
 | 17. Falazat és ezzel kapcsolatos termékek, falazóegységek, vakolóhabarcsok, segédanyagok |
 
@@ -2867,6 +2901,8 @@
 | 3.16 | Tűzvédelmi osztály | minden felhasználási területre |
 
 | 3.17 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_17
 
 | 18. Szennyvízelvezetési és kezelési termékek |
 
@@ -2979,6 +3015,8 @@
 | 2.9.2 | Csövek és idomok belső védelme |
 
 | 2.10 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
+
+## 3K64379_18
 
 | 19. Padlóburkolatok |
 
@@ -3690,6 +3728,8 @@
 
 | 17.15 | Síktól való eltérés |
 
+## 3K64379_19
+
 | 21. Belső és külső fal és mennyezetburkolatok, belső válaszfalrendszerek |
 
 |  | A | B |
@@ -3803,6 +3843,8 @@
 | 7.5 | Veszélyes anyag kibocsátás, tartalom (formaldehidtartalom, azbeszt, pentaklorfenol, egyéb) | minden felhasználási területre |
 
 | 7.6 | Hővezetési ellenállás | olyan épületszerkezetként történő felhasználás esetén, ahol a szerkezettel szemben energetikai követelmények lépnek fel |
+
+## 3K64379_20
 
 | 22. Tetőburkolatok, tető-felülvilágítók, tetőablakok és segédtermékek, tetőszerkezetek |
 
@@ -3994,9 +4036,13 @@
 
 | 9.10 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
+## 3K64379_21
+
 | 23. Útépítési termékek |
 
 | Az útépítések során felhasznált építési termékekre vonatkozó követelményeket az útügyi műszaki előírások tartalmazzák. |
+
+## 3K64379_22
 
 | 24. Adalékanyagok |
 
@@ -4510,6 +4556,8 @@
 
 | 7.7 | Fagyállóság |
 
+## 3K64379_23
+
 | 26. Betonnal, vakoló- és falazóhabarccsal kapcsolatos termékek |
 
 |  | A | B |
@@ -5016,6 +5064,8 @@
 
 | 14.2.10 | tűzvédelmi osztály |
 
+## 3K64379_24
+
 | 27. Légfűtő berendezések |
 
 |  | A | B |
@@ -5069,6 +5119,8 @@
 | 2.7 | Veszélyes anyagok | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
 | 2.8 | Felületi hőmérséklet | minden felhasználási területre |
+
+## 3K64379_25
 
 | 28. Emberi fogyasztásra szánt vízzel nem érintkező csövek, tartályok |
 
@@ -5267,6 +5319,8 @@
 | 10.10 | A csövek és fittingek belső nyomás szilárdsága |
 
 | 10.11 | A kötések tömörségének tartóssága |
+
+## 3K64379_26
 
 | 30. Síküveg-, profilüveg- és üvegtéglatermékek |
 
@@ -5530,6 +5584,8 @@
 
 | 1.2 | Veszélyes anyag tartalom | abban az esetben, ha az 1907/2006/EK európai parlamenti és tanácsi rendelet értelmében biztonsági adatlapot kell adni |
 
+## 3K64379_28
+
 | 32. Tömítőanyagok |
 
 |  | A | B |
@@ -5670,6 +5726,8 @@
 
 | 4.16 | UV állóság |
 
+## 3K64379_29
+
 | 33. Rögzítő anyagok |
 
 |  | A | B |
@@ -5680,7 +5738,7 @@
 
 | 1.1 | Műanyag dübelek |
 
-| 1.1.1 | Kihúzódással / kiszakadás­sal szemben mutatott ellenállás | A-D besorolású falazatokban, illetve egyéb, nem besorolt falazatokon (pl. fa alapú táblák) |
+| 1.1.1 | Kihúzódással / kiszakadással szemben mutatott ellenállás | A-D besorolású falazatokban, illetve egyéb, nem besorolt falazatokon (pl. fa alapú táblák) |
 
 | 1.1.2 | Minimális dübelszám (amikor nem elég csak ragasztással rögzíteni a hőszigetelő anyagot) | ha Tk > 0,4, és a hőszigetelés vastagsága < 60 mm |
 
@@ -5720,7 +5778,7 @@
 
 | 1.2 | Acél dübelek (tűzálló szigetelések rögzítésére) |
 
-| 1.2.1 | Kihúzódással / kiszakadás­sal szemben mutatott ellenállás | minden felhasználási területre |
+| 1.2.1 | Kihúzódással / kiszakadással szemben mutatott ellenállás | minden felhasználási területre |
 
 | 1.2.2 | Minimális dübelszám |
 
@@ -5751,6 +5809,8 @@
 | 1.2.15 | Dübel szilárdsága (tárcsa leszakító / dübelszár szakító ereje) |
 
 | 1.2.16 | Rögzítési mélység |
+
+## 3K64379_30
 
 | 34. Épületszerkezetek, épületelemek, előre gyártott elemek |
 
@@ -5903,6 +5963,8 @@
 | 10.8 | Ütésállóság |
 
 | 10.9 | Mechanikai ellenállás |
+
+## 3K64379_31
 
 | 35. Tűzgátló, tűzterjedést gátló és tűzvédelmi termékek, tűzkésleltető termékek |
 
@@ -6074,6 +6136,6 @@
 
 | 12.3 | Válaszkésleltetés |
 
-2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez[^18]
+2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez[^30]
 
-[^18]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

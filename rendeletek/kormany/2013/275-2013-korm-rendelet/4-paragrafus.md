@@ -10,9 +10,9 @@ c) az építményt érő várható hatások, és
 
 d) a jogszabályokban az építési termékre, valamint a tervezett épületszerkezetre vonatkozóan meghatározott követelmények és szakmai szabályok
 
-## figyelembevételével határozza meg.
+figyelembevételével határozza meg.
 
-(2)[^7] Ha a beépítendő termék teljesítményére jogszabály követelményt állapít meg, építészeti-műszaki dokumentáció hiányában az építési termékek elvárt műszaki teljesítményét az (1) bekezdésben meghatározott szempontok figyelembevételével az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint a kivitelezési szerződésben kell meghatározni.
+(2)[^13] Ha a beépítendő termék teljesítményére jogszabály követelményt állapít meg, építészeti-műszaki dokumentáció hiányában az építési termékek elvárt műszaki teljesítményét az (1) bekezdésben meghatározott szempontok figyelembevételével az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint a kivitelezési szerződésben kell meghatározni.
 
 (3) Ha a tervező egy bizonyos, egyértelműen beazonosítható építési terméket jelöl meg, az egyben az elvárt műszaki teljesítmény meghatározását is jelenti, azzal, hogy ilyen esetben a termék műszaki előírásában foglalt összes teljesítménykategória lényegesnek tekintendő és az elvárt műszaki teljesítmény ezek szintje, osztálya vagy leírása.
 
@@ -34,7 +34,7 @@ e) amennyiben jogszabály, szabvány vagy a tervezési program a tervezett épí
 
 f) a létesítendő épületgépészeti rendszerek (fűtési, hűtési, gépi szellőztetési és használati melegvíz-előállító) berendezéseinek elvárt termékjellemzőit, amennyiben az épületek energetikai jellemzőinek meghatározásáról szóló rendelet követelményt állapít meg;
 
-g)[^8] műemléki védelem alatt álló építménybe tervezett egyedi, hagyományos, természetes vagy bontott építési termék főbb méreteit, anyagának megjelölését, felületkezelésének módját, kiegészítő szerkezeti elemeinek leírását.
+g)[^14] műemléki védelem alatt álló építménybe tervezett egyedi, hagyományos, természetes vagy bontott építési termék főbb méreteit, anyagának megjelölését, felületkezelésének módját, kiegészítő szerkezeti elemeinek leírását.
 
 (5) A tervező a kivitelezés megkezdéséhez szükséges kivitelezési dokumentáció elkészítése során az elvárt műszaki teljesítmények alapján meghatározza a beépítésre kerülő építési termékeket. A meghatározásnak a termék kereskedelmi forgalomból való beszerzéséhez elegendő információt kell tartalmaznia.
 
@@ -42,8 +42,8 @@ g)[^8] műemléki védelem alatt álló építménybe tervezett egyedi, hagyomá
 
 (7) A (6) bekezdésben meghatározott feltételektől a tervező a beépítés feltételeinek függvényében eltérhet.
 
-(8)[^9] Az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: Svr.) meghatározott természetes anyagokból készült építőanyagok és a természetben előforduló radioaktív anyagokat feldolgozó iparágak maradékanyagait tartalmazó anyagok építési termékként épületbe történő betervezése és beépítése esetén figyelembe kell venni az Svr.-ben az építőanyagok által kibocsátott gamma-sugárzásra vonatkozóan meghatározott követelményeket.
+(8)[^15] Az Országos Atomenergia Hivatal elnökének az ionizáló sugárzás elleni védelemről és a kapcsolódó engedélyezési, jelentési és ellenőrzési rendszerről szóló rendeletében (a továbbiakban: Svr.) meghatározott hagyományos vagy természetes építési anyagokat és a természetben előforduló radioaktív anyagokat feldolgozó iparágak maradékanyagait tartalmazó anyagok építési termékként épületbe történő betervezése és beépítése esetén figyelembe kell venni az Svr.-ben az építőanyagok által kibocsátott gamma-sugárzásra vonatkozóan meghatározott követelményeket.
 
-[^7]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
-[^8]: A 4. § (4) bekezdés g) pontját a 261/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
-[^9]: A 4. § (8) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^13]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^14]: A 4. § (4) bekezdés g) pontját a 261/2017. (IX. 11.) Korm. rendelet 3. §-a iktatta be.
+[^15]: A 4. § (8) bekezdése a 209/2022. (VI. 14.) Korm. rendelet 7. §-ával megállapított, a 285/2024. (IX. 30.) Korm. rendelet 90. § c) pontja szerint módosított szöveg.
