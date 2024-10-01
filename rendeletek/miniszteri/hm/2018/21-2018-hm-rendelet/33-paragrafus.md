@@ -14,6 +14,6 @@
 
 (7) Ha a honvédelmi alkalmazott határozott idejű kinevezésének idejéből kevesebb, mint három év van hátra, Nyilatkozat legfeljebb a határozott idejű kinevezés időtartamára tehető.
 
-(8)[^50]
+(8)[^51]
 
-[^50]: A 33. § (8) bekezdését a 19/2024. (IX. 19.) HM rendelet 29. § d) pontja hatályon kívül helyezte.
+[^51]: A 33. § (8) bekezdését a 19/2024. (IX. 19.) HM rendelet 29. § d) pontja hatályon kívül helyezte.

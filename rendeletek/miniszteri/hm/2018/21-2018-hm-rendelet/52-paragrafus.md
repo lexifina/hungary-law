@@ -1,6 +1,6 @@
-52. §[^77] (1) E rendeletnek a honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet módosításáról szóló 38/2023. (XII. 27.) HM rendelettel (a továbbiakban: Módr6.) megállapított 38/A. § (2) bekezdését 2022. május 15-től kell alkalmazni.
+52. §[^78] (1) E rendeletnek a honvédelmi alkalmazottak jogállásával összefüggő kérdésekről szóló 21/2018. (XII. 28.) HM rendelet módosításáról szóló 38/2023. (XII. 27.) HM rendelettel (a továbbiakban: Módr6.) megállapított 38/A. § (2) bekezdését 2022. május 15-től kell alkalmazni.
 
-(2) Az (1) bekezdés alapján a 2022. május 15. és a Módr6. hatálybalépése[^78] közötti időszakra megállapított intézményvezető-helyettesi pótlékot legkésőbb a Módr6. hatálybalépése szerinti hónapra járó illetménnyel együtt kell a jogosult részére kifizetni.
+(2) Az (1) bekezdés alapján a 2022. május 15. és a Módr6. hatálybalépése[^79] közötti időszakra megállapított intézményvezető-helyettesi pótlékot legkésőbb a Módr6. hatálybalépése szerinti hónapra járó illetménnyel együtt kell a jogosult részére kifizetni.
 
-[^77]: Az 52. §-t a 38/2023. (XII. 27.) HM rendelet 2. §-a iktatta be.
-[^78]: A hatálybalépés időpontja 2023. december 28.
+[^78]: Az 52. §-t a 38/2023. (XII. 27.) HM rendelet 2. §-a iktatta be.
+[^79]: A hatálybalépés időpontja 2023. december 28.
