@@ -1,5 +1,3 @@
-## A Beruházással érintett területek
-
 |  | A | B | C |
 
 | 1. | Település | Jelleg | Ingatlan helyrajzi száma |
@@ -28,7 +26,7 @@
 
 2. melléklet a 308/2022. (VIII. 11.) Korm. rendelethez
 
-## A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
@@ -84,8 +82,10 @@
 
 27. területrendezési hatósági eljárások,
 
-28. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+28.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 29. azok az 1–28. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 30. az 1–29. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 2. melléklet 28. pontja a 257/2024. (VIII. 29.) Korm. rendelet 349. §-a szerint módosított szöveg.
