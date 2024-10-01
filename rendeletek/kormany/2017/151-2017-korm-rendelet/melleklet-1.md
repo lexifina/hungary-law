@@ -28,7 +28,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 12. bányahatósági engedélyezési eljárások,
 
-13. tűzvédelmi és katasztrófavédelmi hatósági eljárások,
+13.[^14] tűzvédelmi és iparbiztonsági hatósági eljárások,
 
 14. élelmiszerlánc-felügyeleti eljárás,
 
@@ -50,3 +50,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 [^12]: A 8. §-t a 252/2017. (IX. 5.) Korm. rendelet 4. §-a iktatta be.
 [^13]: A hatálybalépés időpontja 2017. szeptember 6.
+[^14]: Az 1. melléklet 13. pontja a 257/2024. (VIII. 29.) Korm. rendelet 250. §-a szerint módosított szöveg.
