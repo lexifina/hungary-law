@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-6-20-22
 | 2023-05-03 | 2013-6-20-22.23 | 134/2023. (IV. 18.) Korm. rendelet |
 | 2023-08-01 | 2013-6-20-22.24 | 334/2023. (VII. 20.) Korm. rendelet |
 | 2024-05-08 | 2013-6-20-22.25 | 30/2020. (II. 29.) Korm. rendelet |
+| 2024-10-01 | 2013-6-20-22.27 | 257/2024. (VIII. 29.) Korm. rendelet |

@@ -4,17 +4,17 @@
 
 (2) Ez a rendelet
 
-a)[^48] a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
+a)[^52] a piacfelügyeletről és a termékek megfelelőségéről, valamint a 2004/42/EK irányelv, továbbá a 765/2008/EK és a 305/2011/EU rendelet módosításáról szóló, 2019. június 20-i (EU) 2019/1020 európai parlamenti és tanácsi rendelet,
 
 b) a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat 6. cikke és II. melléklete,
 
 c) az építési termékek fogalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló 305/2011/EU európai parlamenti és tanácsi rendelet
 
-d)[^49] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet
+d)[^53] az uniós termésnövelő anyagok forgalmazására vonatkozó szabályok megállapításáról, az 1069/2009/EK és az 1107/2009/EK rendelet módosításáról, valamint a 2003/2003/EK rendelet hatályon kívül helyezéséről szóló, 2019. június 5-i (EU) 2019/1009 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-(3)[^50] Ez a rendelet
+(3)[^54] Ez a rendelet
 
 1. a gépekről és a 95/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelvnek,
 
@@ -38,12 +38,12 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 
 való megfelelést szolgálja.
 
-(4)[^51] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
+(4)[^55] Ez a rendelet a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R4. fejezetével összhangban álló szabályozást tartalmaz.
 
-(5)[^52] Ez a rendelet az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+(5)[^56] Ez a rendelet az ENISA-ról (az Európai Uniós Kiberbiztonsági Ügynökségről) és az információs és kommunikációs technológiák kiberbiztonsági tanúsításáról, valamint az 526/2013/EU rendelet hatályon kívül helyezéséről (kiberbiztonsági jogszabály) című, 2019. április 17-i (EU) 2019/881 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^48]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^49]: A 15. § (2) bekezdés d) pontját a 316/2022. (VIII. 16.) Korm. rendelet 3. §-a iktatta be.
-[^50]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^51]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
-[^52]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.
+[^52]: A 15. § (2) bekezdés a) pontja a 246/2020. (V. 28.) Korm. rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^53]: A 15. § (2) bekezdés d) pontját a 316/2022. (VIII. 16.) Korm. rendelet 3. §-a iktatta be.
+[^54]: A 15. § (3) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^55]: A 15. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 7. §-a iktatta be.
+[^56]: A 15. § (5) bekezdését a 736/2021. (XII. 21.) Korm. rendelet 3. §-a iktatta be.

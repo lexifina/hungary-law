@@ -22,23 +22,25 @@ i) a foglalkoztatáspolitikáért felelős miniszter,
 
 j) a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH),
 
-k) a BM Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF),
+k)[^9] a tűzvédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatal,
 
 l) a Rendőrség szervei (a továbbiakban: Rendőrség),
 
-m)[^9] a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
+m)[^10] a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH).
 
-n)[^10] a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH),
+n)[^11] a Szabályozott Tevékenységek Felügyeleti Hatósága (a továbbiakban: SZTFH),
 
-o)[^11] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
+o)[^12] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 
-(2)[^12] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
+(2)[^13] A Nemzeti Adó- és Vámhivatal a III. Fejezetben foglaltak szerint részt vesz az importtermékek ellenőrzésében.
 
-(3)[^13] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
+(3)[^14] A fogyasztóvédelemért felelős miniszter feladatai ellátásához vizsgáló laboratóriummal rendelkezik, amely elvégzi vagy megbízás alapján más laboratóriummal elvégezteti a piacfelügyeleti tevékenységével kapcsolatos vizsgálatokat.
 
-(4)[^14] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakoztatási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti berendezések és létesítmények piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és vármegyei kormányhivatalt jelöli ki.
+(4)[^15] Az egyes szórakoztatási célú berendezések, létesítmények és ideiglenes szerkezetek, valamint szórakoztatási célú sporteszközök biztonságosságáról szóló miniszteri rendelet szerinti berendezések és létesítmények piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a fővárosi és vármegyei kormányhivatalt jelöli ki.
 
-(5)[^15] Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt jelöli ki.
+(5)[^16] Az (EU) 2019/1009 európai parlamenti és tanácsi rendelet 2. cikk 2. pontja szerinti uniós termésnövelő anyag (a továbbiakban: uniós termésnövelő anyag) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a NÉBIH-et és a növény- és talajvédelmi hatáskörében eljáró vármegyei kormányhivatalt jelöli ki.
+
+(6)[^17] Az építési termék, építményszerkezet, tűz- vagy robbanásveszélyes készülék, gép, berendezés, tűzoltó-technikai termék (a továbbiakban együtt: termék) tűzvédelemmel, valamint nyitott égésterű tüzelőberendezés üzemeltetése során keletkező szén-monoxid érzékelésére szolgáló berendezéssel (a továbbiakban: szén-monoxid-érzékelő) piacfelügyeleti ellenőrzésével kapcsolatos eljárásokban a Kormány piacfelügyeleti hatóságként a tűzvédelmi hatósági hatáskörében eljáró fővárosi és vármegyei kormányhivatalt jelöli ki.
 
 [^3]: A 2. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés a) pontja szerint módosított szöveg.
@@ -46,10 +48,12 @@ o)[^11] a Katonai Nemzetbiztonsági Szolgálat (a továbbiakban: KNBSZ).
 [^6]: A 2. § (1) bekezdés c) pontja a 360/2019. (XII. 30.) Korm. rendelet 114. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 153. § b) pontja szerint módosított szöveg.
 [^7]: A 2. § (1) bekezdés d) pontját a 334/2023. (VII. 20.) Korm. rendelet 28. §-a hatályon kívül helyezte.
 [^8]: A 2. § (1) bekezdés e) pontját a 736/2021. (XII. 21.) Korm. rendelet 5. §-a hatályon kívül helyezte, újonnan a 316/2022. (VIII. 16.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdés m) pontját a 246/2020. (V. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^10]: A 2. § (1) bekezdés n) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^11]: A 2. § (1) bekezdés o) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
-[^12]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
-[^13]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^14]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
-[^15]: A 2. § (5) bekezdését a 316/2022. (VIII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^9]: A 2. § (1) bekezdés k) pontja a 257/2024. (VIII. 29.) Korm. rendelet 67. § (1) bekezdésével megállapított szöveg.
+[^10]: A 2. § (1) bekezdés m) pontját a 246/2020. (V. 28.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés n) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 2. § (1) bekezdés o) pontját a 736/2021. (XII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^13]: A 2. § (2) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 40. és 41. §-a szerint módosított szöveg.
+[^14]: A 2. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 2. § (4) bekezdését a 198/2019. (VIII. 1.) Korm. rendelet 5. §-a iktatta be, szövege az 531/2022. (XII. 19.) Korm. rendelet 5. §-ával megállapított, a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^16]: A 2. § (5) bekezdését a 316/2022. (VIII. 16.) Korm. rendelet 1. § (2) bekezdése iktatta be, szövege a 616/2022. (XII. 29.) Korm. rendelet 153. § a) pontja szerint módosított szöveg.
+[^17]: A 2. § (6) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 67. § (2) bekezdése iktatta be.
