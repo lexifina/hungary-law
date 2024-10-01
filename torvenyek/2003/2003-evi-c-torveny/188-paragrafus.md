@@ -30,7 +30,7 @@
 
 13. Egyéni előfizető: az a természetes személy előfizető, aki úgy nyilatkozott, hogy gazdasági tevékenységi körén kívül veszi igénybe az előfizetői szolgáltatást.
 
-14. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – többek között burkoló, tartó, védő, jelző – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket.
+14. Elektronikus hírközlési építmény: a magyar építészetről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – többek között burkoló, tartó, védő, jelző – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket.
 
 15. Elektronikus hírközlési építmény építési folyamatának résztvevője: az építőipari kivitelezési tevékenység megkezdésére és folytatására hatósági határozat alapján jogosult építtető, az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges tervdokumentáció elkészítéséhez jogosultsággal rendelkező tervező, kivitelező, az építési területen végzett építési-szerelési munkát irányító felelős műszaki vezető, az építőipari kivitelezési tevékenység teljes folyamatában a vonatkozó jogszabályok, hatósági előírások, szabványok, szerződések és a tervdokumentáció betartását elősegítő és ellenőrző építési műszaki ellenőr.
 
@@ -255,5 +255,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 109. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája kisebb, mint 3000 GHz.
 
 110. Rádióinterfész: a rádióspektrum szabályozott használatának specifikációja.
-
-111. Rádiós helyi hálózat: kis teljesítményű, harmonizált rádióspektrumot nem kizárólagosan használó vezeték nélküli hozzáférési rendszer, amelynek kis hatótávolsága miatt a más rádióspektrum-használók által a közelben működtetett hasonló rendszerekkel való zavarásának kockázata csekély.
