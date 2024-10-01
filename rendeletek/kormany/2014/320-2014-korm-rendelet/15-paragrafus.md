@@ -18,7 +18,7 @@
 
 (9)[^121] A foglalkoztatás-felügyeleti hatáskörében eljáró kormányhivatal ellátja
 
-a) az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény IV/B. Fejezetében, a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendeletben és
+a)[^122] a magyar építészetről szóló 2023. évi C. törvény 219–223. §-ában, a Nemzeti Építőipari Felügyeleti és Adatszolgáltató Rendszerbe tartozó tevékenységekről, valamint az Építőipari Monitoring- és Adatszolgáltató Rendszerről szóló kormányrendeletben és
 
 b) a panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény II. fejezetében
 
@@ -29,3 +29,4 @@ a foglalkoztatás-felügyeleti hatóság számára meghatározott feladatokat is
 [^119]: A 15. § (7) bekezdése a 24/2024. (II. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^120]: A 15. § (8) bekezdését a 707/2021. (XII. 15.) Korm. rendelet 13. §-a iktatta be, szövege a 24/2024. (II. 14.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^121]: A 15. § (9) bekezdését a 24/2024. (II. 14.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^122]: A 15. § (9) bekezdés a) pontja a 285/2024. (IX. 30.) Korm. rendelet 103. §-a szerint módosított szöveg.
