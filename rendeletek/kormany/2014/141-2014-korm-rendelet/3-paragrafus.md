@@ -1,3 +1,3 @@
-3. §[^5]
+3. §[^6]
 
-[^5]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 137. § b) pontja hatályon kívül helyezte.
+[^6]: A 3. §-t a 458/2017. (XII. 28.) Korm. rendelet 137. § b) pontja hatályon kívül helyezte.

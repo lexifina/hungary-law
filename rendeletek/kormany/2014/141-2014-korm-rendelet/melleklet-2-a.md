@@ -130,8 +130,8 @@
 
 | 65. | tanuszoda-fejlesztés | Tiszavasvári belterület 6661/2 helyrajzi számú ingatlan |
 
-2a. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^22]
+2a. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^23]
 
 A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program III. ütemében megvalósuló nemzetgazdasági szempontból kiemelt jelentőségű beruházások
 
-[^22]: A 2a. mellékletet a 795/2021. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^23]: A 2a. mellékletet a 795/2021. (XII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.

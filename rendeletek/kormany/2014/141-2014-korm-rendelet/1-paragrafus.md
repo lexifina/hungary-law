@@ -4,8 +4,9 @@
 
 (3)–(4)[^3]
 
-(5) A tűzvédelmi hatósági feladatokat ellátó szervezetekről, a tűzvédelmi bírságról és a tűzvédelemmel foglalkozók kötelező élet- és balesetbiztosításáról szóló kormányrendelet (a továbbiakban: R.) hatálya alá tartozó közigazgatási hatósági eljárásokban az R.-ben a nemzetgazdasági szempontból kiemelt jelentőségű beruházások esetében kijelölt hatóságok járnak el.
+(5)[^4]
 
 [^1]: Az 1. § (1) bekezdése a 283/2017. (IX. 22.) Korm. rendelet 1. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdése a 283/2017. (IX. 22.) Korm. rendelet 1. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3)–(4) bekezdését a 458/2017. (XII. 28.) Korm. rendelet 137. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. § (5) bekezdését a 257/2024. (VIII. 29.) Korm. rendelet 121. §-a hatályon kívül helyezte.

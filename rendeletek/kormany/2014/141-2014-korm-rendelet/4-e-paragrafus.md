@@ -1,4 +1,4 @@
-4/E. §[^11] (1) A 2a. mellékletben foglalt táblázat szerinti beruházásokkal érintett ingatlanok telkére a beépítés sajátos szabályait és egyedi építési követelményeit a (2)–(31) bekezdés állapítja meg, azzal, hogy
+4/E. §[^12] (1) A 2a. mellékletben foglalt táblázat szerinti beruházásokkal érintett ingatlanok telkére a beépítés sajátos szabályait és egyedi építési követelményeit a (2)–(31) bekezdés állapítja meg, azzal, hogy
 
 a) a hatályos településrendezési tervek és az OTÉK előírásait a (2)–(31) bekezdésben foglalt eltérésekkel kell alkalmazni,
 
@@ -240,4 +240,4 @@ a) az épületmagasság megengedett legnagyobb értéke 7 méter,
 
 b) a zöldfelület megengedett legkisebb mértéke 40%.
 
-[^11]: A 4/E. §-t a 795/2021. (XII. 27.) Korm. rendelet 2. §-a iktatta be.
+[^12]: A 4/E. §-t a 795/2021. (XII. 27.) Korm. rendelet 2. §-a iktatta be.

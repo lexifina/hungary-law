@@ -154,8 +154,8 @@
 
 | 77. | óvodafejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
 
-2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^21]
+2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^22]
 
 A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program II. ütemében megvalósuló, nemzetgazdasági szempontból kiemelt jelentőségű beruházások
 
-[^21]: A 2. melléklet a 223/2018. (XI. 29.) Korm. rendelet 6. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 4. § (1) bekezdése és 5. § b) pontja szerint módosított szöveg.
+[^22]: A 2. melléklet a 223/2018. (XI. 29.) Korm. rendelet 6. §-ával megállapított, a 795/2021. (XII. 27.) Korm. rendelet 4. § (1) bekezdése és 5. § b) pontja szerint módosított szöveg.

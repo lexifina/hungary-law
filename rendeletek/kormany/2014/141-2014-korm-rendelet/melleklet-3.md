@@ -96,7 +96,7 @@
 
 | 48. | tanuszoda-fejlesztés | Vasvár belterület, 0363/1 és 0363/2 helyrajzi számú ingatlanok |
 
-3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^23]
+3. melléklet a 141/2014. (IV. 30.) Korm. rendelethez[^24]
 
 A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
@@ -114,7 +114,7 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított k
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^25] iparbiztonsági hatósági eljárások,
 
 9. útügyi hatósági eljárások,
 
@@ -142,4 +142,5 @@ A beruházásokkal összefüggő kiemelt jelentőségű üggyé nyilvánított k
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^23]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^24]: A 3. melléklet a 283/2017. (IX. 22.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 3. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 120. §-a szerint módosított szöveg.
