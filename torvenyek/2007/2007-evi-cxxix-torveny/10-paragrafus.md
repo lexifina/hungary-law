@@ -28,7 +28,7 @@ céljából veszik igénybe.
 
 a) vízilétesítmény alatt a vízgazdálkodásról szóló törvény,
 
-b) műtárgy, illetve építmény alatt az épített környezet alakításáról és védelméről szóló törvény
+b) műtárgy, illetve építmény alatt a magyar építészetről szóló törvény
 
 szerinti építményeket kell érteni.
 
