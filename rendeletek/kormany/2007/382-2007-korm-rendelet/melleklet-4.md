@@ -1,4 +1,4 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^181]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^182]
 
 1. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban érintettségüktől függően közreműködő közművek, kezelők és üzemeltetők
 
@@ -60,4 +60,20 @@
 
 | 6. | Napelemes erőmű létesítésének vagy bővítésének építési engedélyezési eljárása, meglévő napelemes erőmű fennmaradási engedélyezési eljárása során | A területrendezési és településrendezési előírásoknak való megfelelés vizsgálata. |
 
-[^181]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
+| 7. | Építési, használatbavételi és fennmaradási eljárás. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása az 50 MW és annál nagyobb teljesítményű, első végleges használatbavétellel nem rendelkező erőművek esetében. |
+
+| 8. | Építési, használatbavételi és fennmaradási eljárás. | Az építménnyel, létesítménnyel összefüggő tűzvédelmi követelmények érvényre juttatása az 1 MW teljesítményt meghaladó, de 50 MW alatti teljesítményű erőművek esetében. |
+
+3. Az integrált építési és környezetvédelmi eljárásban a Hatóság által vizsgált szakkérdések
+
+|  | A | B |
+
+| 1. | Szakkérdés vizsgálatának feltétele | Szakkérdés |
+
+| 2. | Integrált építési és környezetvédelmi eljárás. | Annak elbírálása, hogy a tevékenység vízellátása, a keletkező csapadék- és szennyvíz elvezetése, valamint a szennyvíz tisztítása biztosított-e, vízbázis védőterületére, védőidomára jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e, továbbá annak elbírálása, hogy a tevékenység az árvíz és a jég levonulására, a mederfenntartásra milyen hatást gyakorol. |
+
+| 3. | Integrált építési és környezetvédelmi eljárás. | Annak elbírálása, hogy a tevékenység kapcsán a felszíni és felszín alatti vizek minősége, mennyisége védelmére és állapotromlására vonatkozó jogszabályban, illetve határozatban meghatározott előírások érvényesíthetők-e. |
+
+| 4. | Integrált építési és környezetvédelmi eljárás. | Az ipari baleseti kockázatok tekintetében a veszélyes anyagokkal kapcsolatos súlyos baleseteknek való kitettségből eredő várható hatások elbírálása. A természeti katasztrófáknak való kitettség tekintetében annak elbírálása, hogy a kérelem megfelelően tartalmazza-e a telepítési hely környezetében feltárt kockázatokat és azok várható hatásait. |
+
+[^182]: A 4. számú melléklet a 360/2019. (XII. 30.) Korm. rendelet 58. § (2) bekezdés a) pontjával megállapított, a 677/2020. (XII. 28.) Korm. rendelet 21. §-a, a 26/2022. (I. 28.) Korm. rendelet 6. §-a, a 650/2023. (XII. 28.) Korm. rendelet 4. § (2) bekezdése, a 258/2024. (VIII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.

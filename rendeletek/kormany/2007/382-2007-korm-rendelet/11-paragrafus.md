@@ -1,11 +1,11 @@
-## Előmunkálati jog[^36]
+## Előmunkálati jog[^37]
 
-11. § (1)[^37] Az előmunkálati jog alapján a hálózati engedélyes vagy megbízottja az engedélyezést követő egy éven belül a más tulajdonában, használatában levő ingatlanon jogosult kártalanítás ellenében bejárást végezni, olyan jeleket elhelyezni, méréseket, talajvizsgálatokat végezni, amelyek a létesíteni kívánt sajátos építmény elhelyezéséhez szükségesek. A hálózati engedélyes az előmunkálati jog alapján végezhető tevékenység megkezdéséről az ingatlan tulajdonosát, külterületi termőföld esetén a tulajdonos helyett a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti földhasználati nyilvántartásban szereplő ténylegesen birtokban lévő földhasználót, a települési önkormányzat jegyzőjét, valamint a Hatóságot 30 nappal korábban köteles értesíteni. Az előmunkálati jogra vonatkozó engedély időbeli hatálya – annak időbeli hatályán belül benyújtott kérelemre – egy alkalommal további egy évvel meghosszabbítható.
+11. § (1)[^38] Az előmunkálati jog alapján a hálózati engedélyes vagy megbízottja az engedélyezést követő egy éven belül a más tulajdonában, használatában levő ingatlanon jogosult kártalanítás ellenében bejárást végezni, olyan jeleket elhelyezni, méréseket, talajvizsgálatokat végezni, amelyek a létesíteni kívánt sajátos építmény elhelyezéséhez szükségesek. A hálózati engedélyes az előmunkálati jog alapján végezhető tevékenység megkezdéséről az ingatlan tulajdonosát, külterületi termőföld esetén a tulajdonos helyett a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti földhasználati nyilvántartásban szereplő ténylegesen birtokban lévő földhasználót, a települési önkormányzat jegyzőjét, valamint a Hatóságot 30 nappal korábban köteles értesíteni. Az előmunkálati jogra vonatkozó engedély időbeli hatálya – annak időbeli hatályán belül benyújtott kérelemre – egy alkalommal további egy évvel meghosszabbítható.
 
 (2) Az előmunkálati jog engedélyezése iránti kérelemhez a műszaki dokumentációt a 3. számú melléklet 3. pontja szerinti tartalommal, méretekben és példányban kell csatolni.
 
-(3)[^38] A hálózati engedélyes vagy megbízottja által az előmunkálati jog alapján elvégezhető, (1) bekezdés szerinti tevékenységekhez a közművek, kezelők és üzemeltetők 6. § (2) bekezdése szerinti hozzájárulása nem szükséges.
+(3)[^39] A hálózati engedélyes vagy megbízottja által az előmunkálati jog alapján elvégezhető, (1) bekezdés szerinti tevékenységekhez a közművek, kezelők és üzemeltetők 6. § (2) bekezdése szerinti hozzájárulása nem szükséges.
 
-[^36]: Az „Előmunkálati jog” alcímet (11. §) a 37/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be.
-[^37]: A 11. § (1) bekezdése a 18/2023. (I. 27.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^38]: A 11. § (3) bekezdését a 18/2023. (I. 27.) Korm. rendelet 2. §-a iktatta be.
+[^37]: Az „Előmunkálati jog” alcímet (11. §) a 37/2021. (II. 2.) Korm. rendelet 3. §-a iktatta be.
+[^38]: A 11. § (1) bekezdése a 18/2023. (I. 27.) Korm. rendelet 7. §-a szerint módosított szöveg.
+[^39]: A 11. § (3) bekezdését a 18/2023. (I. 27.) Korm. rendelet 2. §-a iktatta be.
