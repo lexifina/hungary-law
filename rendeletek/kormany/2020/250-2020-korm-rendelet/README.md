@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-250-20-
 | 2020-05-29 | 2020-250-20-22.1 | 250/2020. (V. 28.) Korm. rendelet |
 | 2020-05-30 | 2020-250-20-22.2 | 2010: CXXX. törvény |
 | 2022-12-23 | 2020-250-20-22.3 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2020-250-20-22.4 | 257/2024. (VIII. 29.) Korm. rendelet |
