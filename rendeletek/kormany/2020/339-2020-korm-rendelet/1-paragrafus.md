@@ -4,11 +4,11 @@
 
 a)[^1] a 2. melléklet 4. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként Budapest Főváros Kormányhivatalát,
 
-b) a 2. melléklet 7. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
+b)[^2]
 
-c)[^2] a 2. melléklet 8. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Fővárosi Katasztrófavédelmi Főigazgatóságot,
+c)[^3]
 
-d)[^3] a 2. melléklet 10. és 11. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt
+d)[^4] a 2. melléklet 10. és 11. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Pest Vármegyei Kormányhivatalt
 
 jelöli ki.
 
@@ -19,5 +19,6 @@ a) a Beruházások megvalósításához, használatbavételéhez és üzemeltet�
 b) a Beruházásokhoz közvetlenül kapcsolódó – a megvalósítandó építmény megközelítését és működését segítő – útépítési, parkolóépítési, műtárgyépítési, járdaépítési, közműcsatlakozási és -fejlesztési munkákra vonatkoznak.
 
 [^1]: Az 1. § (2) bekezdés a) pontja a 617/2020. (XII. 21.) Korm. rendelet 7. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés c) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be.
-[^3]: Az 1. § (2) bekezdés d) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 254. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés b) pontját a 257/2024. (VIII. 29.) Korm. rendelet 314. §-a hatályon kívül helyezte.
+[^3]: Az 1. § (2) bekezdés c) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be, a 257/2024. (VIII. 29.) Korm. rendelet 314. §-a hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés d) pontját a 617/2020. (XII. 21.) Korm. rendelet 5. §-a iktatta be, szövege az 546/2022. (XII. 22.) Korm. rendelet 254. § a) pontja szerint módosított szöveg.

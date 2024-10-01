@@ -2,15 +2,15 @@
 
 | 1. | A beruházás megnevezése | A beruházás megvalósításának helyszíne | A beruházás helyszínének közvetlen környezete | A beruházás megvalósításához szükséges közterület-használat időtartama |
 
-| 2. | Citadella erőd és sétány fejlesztése | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5390, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3 helyrajzi számú ingatlanok | 2020. július 15. – 2026. december 31.[^18] |
+| 2. | Citadella erőd és sétány fejlesztése | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5390, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3 helyrajzi számú ingatlanok | 2020. július 15. – 2026. december 31.[^19] |
 
-| Az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5336, 5337 és 5338/1 helyrajzi számú ingatlanok | 2021. március 20. – 2026. december 31.[^19] |
+| Az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5336, 5337 és 5338/1 helyrajzi számú ingatlanok | 2021. március 20. – 2026. december 31.[^20] |
 
-| 3. | A Magyar Szabadságharcosok Múzeuma és a Szabadság Bástyája kiállítás megvalósítása | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3 helyrajzi számú ingatlanok | 2020. július 15. – 2026. december 31.[^20] |
+| 3. | A Magyar Szabadságharcosok Múzeuma és a Szabadság Bástyája kiállítás megvalósítása | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3 helyrajzi számú ingatlanok | 2020. július 15. – 2026. december 31.[^21] |
 
 | Az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5336, 5337 és 5338/1 helyrajzi számú ingatlanok | 2021. március 20. – 2025. december 31. |
 
-| 4.[^21] | Citadella Lődomb fejlesztése | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3, 5336, 5337 és 5338/1 helyrajzi számú ingatlanok | 2025. január 1. – 2026. december 31. |
+| 4.[^22] | Citadella Lődomb fejlesztése | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5412 helyrajzi számú ingatlan | Az ingatlan-nyilvántartás szerinti Budapest XI. kerület, belterület 5290/2, 5411, 5413/7, valamint az ingatlan-nyilvántartás szerinti Budapest I. kerület, belterület 5290/1, 5413/3, 5336, 5337 és 5338/1 helyrajzi számú ingatlanok | 2025. január 1. – 2026. december 31. |
 
 2. melléklet a 339/2020. (VII. 10.) Korm. rendelethez
 
@@ -22,7 +22,7 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 3. régészeti feltárásokkal kapcsolatos eljárások
 
-4.[^22] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési és bejelentési eljárások,
+4.[^23] a közterületen és belterületen lévő fás szárú növények kivágásával és pótlásával kapcsolatos hatósági engedélyezési és bejelentési eljárások,
 
 5. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
@@ -58,14 +58,15 @@ A Beruházások megvalósításával összefüggő, nemzetgazdasági szempontbó
 
 21. területrendezési hatósági eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^24] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^18]: Az 1. mellékletben foglalt táblázat D:2 mezője a 160/2024. (VI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
 [^19]: Az 1. mellékletben foglalt táblázat D:2 mezője a 160/2024. (VI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^20]: Az 1. mellékletben foglalt táblázat D:3 mezője a 160/2024. (VI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^21]: Az 1. mellékletben foglalt táblázat 4. sorát a 160/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
-[^22]: A 2. melléklet 4. pontja a 228/2023. (VI. 8.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^20]: Az 1. mellékletben foglalt táblázat D:2 mezője a 160/2024. (VI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^21]: Az 1. mellékletben foglalt táblázat D:3 mezője a 160/2024. (VI. 28.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^22]: Az 1. mellékletben foglalt táblázat 4. sorát a 160/2024. (VI. 28.) Korm. rendelet 1. §-a iktatta be.
+[^23]: A 2. melléklet 4. pontja a 228/2023. (VI. 8.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 313. §-a szerint módosított szöveg.
