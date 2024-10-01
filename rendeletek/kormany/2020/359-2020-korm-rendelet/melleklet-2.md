@@ -1,4 +1,4 @@
-2. melléklet a 359/2020. (VII. 23.) Korm. rendelethez[^26]
+2. melléklet a 359/2020. (VII. 23.) Korm. rendelethez[^27]
 
 A Beruházás megvalósításához kapcsolódó ingatlanrészek területi lehatárolása a terület határpontjainak Egységes Országos Vetületi Rendszerben megadott koordinátáival
 
@@ -304,7 +304,7 @@ A Beruházás megvalósításához kapcsolódó ingatlanrészek területi lehat�
 
 | 1262 | 200 151,49 | 631 823,96 |
 
-| 13.[^27] | V1 | 199 050,30 | 633 212,17 |
+| 13.[^28] | V1 | 199 050,30 | 633 212,17 |
 
 | V2 | 199 109,82 | 633 311,71 |
 
@@ -496,5 +496,5 @@ A Beruházás megvalósításához kapcsolódó ingatlanrészek területi lehat�
 
 | V96 | 195 582,14 | 634 485,56 |
 
-[^26]: A 2. mellékletet a 174/2021. (IV. 9.) Korm. rendelet 9. §-a iktatta be, szövege a 343/2023. (VII. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
-[^27]: A 2. mellékletben foglalt táblázat 13. sorát a 227/2024. (VII. 31.) Korm. rendelet 3. § b) pontja iktatta be.
+[^27]: A 2. mellékletet a 174/2021. (IV. 9.) Korm. rendelet 9. §-a iktatta be, szövege a 343/2023. (VII. 25.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^28]: A 2. mellékletben foglalt táblázat 13. sorát a 227/2024. (VII. 31.) Korm. rendelet 3. § b) pontja iktatta be.
