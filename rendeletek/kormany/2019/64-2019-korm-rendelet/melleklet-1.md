@@ -1,4 +1,4 @@
-## 19. §[^37] E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^38] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 19. §[^38] E rendeletnek a 2022. évi férfi kézilabda Európa-bajnokság Budapesten való megrendezéséhez szükséges létesítményfejlesztés kiemelt budapesti fejlesztéssé, valamint a beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról, továbbá a beruházással kapcsolatos sajátos szabályok megállapításáról szóló 64/2019. (III. 27.) Korm. rendelet módosításáról szóló 685/2021. (XII. 7.) Korm. rendelettel (a továbbiakban: Módr3.) megállapított 9. § (2a) bekezdését a Módr3. hatálybalépésekor[^39] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 64/2019. (III. 27.) Korm. rendelethez
 
@@ -46,11 +46,12 @@ A Beruházás megvalósításával összefüggő, nemzetgazdasági szempontból 
 
 21. területrendezési hatósági eljárások,
 
-22. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+22.[^40] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 23. azok az 1–22. pontban nem szereplő közigazgatási hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^37]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
-[^38]: A hatálybalépés időpontja 2021. december 8.
+[^38]: A 19. §-t a 685/2021. (XII. 7.) Korm. rendelet 2. §-a iktatta be.
+[^39]: A hatálybalépés időpontja 2021. december 8.
+[^40]: Az 1. melléklet 22. pontja a 257/2024. (VIII. 29.) Korm. rendelet 301. §-a szerint módosított szöveg.
