@@ -24,7 +24,7 @@
 
 11. az országos vasúti mellékvonalak felsorolását,
 
-12. a hivatásos katasztrófavédelmi szervek által lefolytatott eljárások során a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+12. a veszélyes áruk vasúti szállításának ellenőrzésére és bírság kivetésére jogosult hatóság kijelölését, a kijelölt hatóság által végzett ellenőrzésére és a bírság kivetésére vonatkozó egységes eljárás szabályait, továbbá az egyes szabálytalanságokért kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
 13. a villamos és a fogaskerekű vasút felsővezetéki infrastruktúrájának létesítésével összefüggésben egyes idegen ingatlanok igénybevételének részletes szabályait,
 

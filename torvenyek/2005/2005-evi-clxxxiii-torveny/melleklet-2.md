@@ -1,3 +1,0 @@
-2. számú melléklet a 2005. évi CLXXXIII. törvényhez
-
-A HOZZÁFÉRÉSRE JOGOSULTAK SZÁMÁRA NYÚJTANDÓ SZOLGÁLTATÁSOK

@@ -2,8 +2,8 @@
 
 (2) A vasúti telekalakítási eljárás lefolytatása során nem kell alkalmazni
 
-a) az épített környezet alakításáról és védelméről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
+a) a magyar építészetről szóló törvény és annak felhatalmazása alapján kiadott jogszabályok előírásait,
 
 b) törvény szerint vagy annak alapján hozott valamely településrendezési terv rendelkezéseit,
 
-c) a településkép védelméről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
+c) a magyar építészetről szóló törvény vagy annak felhatalmazása alapján hozott önkormányzati rendelet előírásait.
