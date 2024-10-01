@@ -52,7 +52,7 @@ II. A berendezések műszaki-biztonsági használatbavételi dokumentációja
 
 III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 
-1. Amennyiben a felvonó bontásánál épületstatikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
+1.[^108] Amennyiben a felvonó bontásánál épületstatikai, állékonysági hatást is kell vizsgálni (például felvonótorony bontása), akkor a berendezés megszüntetésének dokumentációját az építésügyi hatósági eljárásokról és ellenőrzésekről, valamint az adott építményfajtára vonatkozó építésügyi hatósági eljárások szabályairól szóló kormányrendeletben meghatározottak szerinti tartalommal kell összeállítani.
 
 2. Az 1. pontban meghatározott esetektől eltérő esetben a berendezések megszüntetési dokumentációjához az alábbi terveket kell csatolni a kérelem, bejelentés részeként:
 
@@ -66,3 +66,4 @@ III. A berendezések megszüntetésének műszaki-biztonsági dokumentációja
 [^105]: A 2. melléklet I. fejezet nyitó szövegrésze a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^106]: A 2. melléklet I. pont 1. alpont 1.9. pontját az 564/2023. (XII. 14.) Korm. rendelet 4. §-a iktatta be.
 [^107]: A 2. melléklet I. fejezet 3. pontja a 198/2019. (VIII. 1.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^108]: A 2. melléklet III. pont 1. alpontja a 285/2024. (IX. 30.) Korm. rendelet 102. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^109]
+4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^110]
 
 A felvonók és mozgólépcsők kötelező műszaki biztonságtechnikai felülvizsgálatához szükséges ellenőri tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -74,7 +74,7 @@ Az oklevelet kibocsátó felsőfokú oktatási intézmény neve:
 
 2.1. az ország
 
-2.1.1.[^110] az alábbi vármegyék:
+2.1.1.[^111] az alábbi vármegyék:
 
 ..................................................................................................................
 
@@ -114,5 +114,5 @@ Kelt: ...............................................
 
 bejelentő aláírása
 
-[^109]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.
-[^110]: A 4. melléklet 2.1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 184. § b) pontja szerint módosított szöveg.
+[^110]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.
+[^111]: A 4. melléklet 2.1.1. pontja a 616/2022. (XII. 29.) Korm. rendelet 184. § b) pontja szerint módosított szöveg.

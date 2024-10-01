@@ -4,7 +4,7 @@
 
 1. állandó jellegű: az építmény részét képező, hosszú távú, tartós használat céljából létesített kategóriába tartozó;
 
-2.[^2] általános építésügyi hatóság: az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet szerinti építésügyi hatóság;
+2.[^2] általános építésügyi hatóság: az építésügyi hatóságok kijelöléséről és működési feltételeiről szóló kormányrendelet szerinti építésügyi hatóság;
 
 3.[^3] bejelentett tanúsító szervezet: a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló rendelet (a továbbiakban: felvonó rendelet) hatálya alá tartozó felvonók esetében a felvonó rendeletben meghatározott, a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló miniszteri rendelet (a továbbiakban: gépek rendelet) hatálya alá tartozó berendezések esetében a gépek rendeletben meghatározott – Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) által kijelölt – tanúsító szervezet;
 
@@ -66,7 +66,7 @@ e)[^10] a b) alpont alá nem tartozó teherfelvonó esetében, ha a fülkébe le
 
 17. üzemeltető: a berendezés tulajdonosa vagy a berendezés tulajdonosának a berendezés üzemeltetésével megbízott képviselője.
 
-[^2]: A 2. § 2. pontja a 70/2015. (III. 30.) Korm. rendelet 248. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 2. pontja a 70/2015. (III. 30.) Korm. rendelet 248. § (1) bekezdésével megállapított, a 285/2024. (IX. 30.) Korm. rendelet 101. §-a és 102. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § 3. pontja a 80/2018. (IV. 20.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 5a. pontját az 564/2023. (XII. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: A 2. § 6. pontja a 80/2018. (IV. 20.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
