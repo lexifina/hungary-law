@@ -1,8 +1,8 @@
-6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^219]
+6. melléklet a 83/2021. (II. 23.) Korm. rendelethez[^221]
 
-## A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett Tihany belterület 1868/6, valamint az abból telekalakítás útján létrejövő ingatlanok, továbbá Tihany belterület, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanok és Tihany külterület 0140/16 helyrajzi számú ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része[^220]
+## A 2. mellékletben foglalt táblázat 95. sora szerinti beruházással érintett Tihany belterület 1868/6, valamint az abból telekalakítás útján létrejövő ingatlanok, továbbá Tihany belterület, 1868/4, 1869, 1870, 1871 helyrajzi számú ingatlanok és Tihany külterület 0140/16 helyrajzi számú ingatlan Egységes Országos Vetületi Rendszerben megadott koordináták által lehatárolt része[^222]
 
-1.[^221] Tihany 1868/6 helyrajzi számú, valamint az abból telekalakítás útján létrejövő ingatlanok:
+1.[^223] Tihany 1868/6 helyrajzi számú, valamint az abból telekalakítás útján létrejövő ingatlanok:
 
 | EOV pont jele | Y | X |
 
@@ -210,6 +210,6 @@
 
 | 13 | 561979.7500 | 172207.6000 |
 
-[^219]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^220]: A 6. melléklet címe a 228/2024. (VII. 31.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
-[^221]: A 6. melléklet 1. pontja a 228/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^221]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 220/2023. (VI. 1.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^222]: A 6. melléklet címe a 228/2024. (VII. 31.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
+[^223]: A 6. melléklet 1. pontja a 228/2024. (VII. 31.) Korm. rendelet 2. §-ával megállapított szöveg.
