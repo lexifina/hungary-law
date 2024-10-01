@@ -122,7 +122,7 @@
 
 | 13. | Felvonók | 13.1 | Személyfelvonó-berendezések és tartozékaik |
 
-4. melléklet a 181/2003. (XI. 5.) Korm. rendelethez[^15]
+4. melléklet a 181/2003. (XI. 5.) Korm. rendelethez[^18]
 
 |  | A | B |
 
@@ -200,4 +200,4 @@
 
 | 11. | Az építményhez szerkezetileg csatlakozó külső létesítmények | 11.1 | Előregyártott beton és vasbeton támfaljárda-lépcsőelemek stb. |
 
-[^15]: A 4. mellékletet a 97/2014. (III. 25.) Korm. rendelet 2. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^18]: A 4. mellékletet a 97/2014. (III. 25.) Korm. rendelet 2. § (9) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.

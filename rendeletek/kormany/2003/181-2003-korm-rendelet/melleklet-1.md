@@ -36,11 +36,11 @@ h) a csengő és a kaputelefonnak a lakásban levő készüléke, valamint a kap
 
 i) a lakás elektromos vezetékeihez tartozó kapcsolók és csatlakozóaljak,
 
-j)[^11] a központi fűtő- és melegvíz-szolgáltató berendezés a hozzá tartozó szerelvényekkel, ideértve a lakásban levő vezetékszakaszt és fűtőtesteket (radiátor stb.) is, kivéve a közszolgáltató által jóváírással vagy üzemeltetésre átvett vezetékeket és berendezési tárgyakat,
+j)[^14] a központi fűtő- és melegvíz-szolgáltató berendezés a hozzá tartozó szerelvényekkel, ideértve a lakásban levő vezetékszakaszt és fűtőtesteket (radiátor stb.) is, kivéve a közszolgáltató által jóváírással vagy üzemeltetésre átvett vezetékeket és berendezési tárgyakat,
 
-k)[^12] a víz-, szennycsatorna- és gázvezeték a hozzá tartozó szerelvényekkel, ideértve a lakásban levő vezetékszakaszt is, a hozzá tartozó szerelvényekkel; gázvezeték esetén a közszolgáltató által jóváírással vagy üzemeltetésre átvett vezetékek és berendezési tárgyak kivételével,
+k)[^15] a víz-, szennycsatorna- és gázvezeték a hozzá tartozó szerelvényekkel, ideértve a lakásban levő vezetékszakaszt is, a hozzá tartozó szerelvényekkel; gázvezeték esetén a közszolgáltató által jóváírással vagy üzemeltetésre átvett vezetékek és berendezési tárgyak kivételével,
 
-l)[^13] az elektromos vezeték és érintésvédelmi rendszere a lakásban levő vezetékszakaszt és szerelvényeket is ideértve, kivéve a közszolgáltató által jóváírással vagy üzemeltetésre átvett méretlen készüléket és fogyasztásmérőt,
+l)[^16] az elektromos vezeték és érintésvédelmi rendszere a lakásban levő vezetékszakaszt és szerelvényeket is ideértve, kivéve a közszolgáltató által jóváírással vagy üzemeltetésre átvett méretlen készüléket és fogyasztásmérőt,
 
 m) a lakást szolgáló szellőztető berendezés és a klímaberendezés,
 
@@ -54,6 +54,6 @@ q) a lakást szolgáló kút a hozzá tartozó szerelvényekkel,
 
 r) a lakásban keletkezett házi szennyvíznek a telekhatáron belüli elhelyezésére, illetőleg elszikkasztására szolgáló berendezés.
 
-[^11]: Az 1. melléklet 2. pont j) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^12]: Az 1. melléklet 2. pont k) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
-[^13]: Az 1. melléklet 2. pont l) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^14]: Az 1. melléklet 2. pont j) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^15]: Az 1. melléklet 2. pont k) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^16]: Az 1. melléklet 2. pont l) alpontja a 97/2014. (III. 25.) Korm. rendelet 2. § (7) bekezdés c) pontja szerint módosított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.

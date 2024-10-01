@@ -8,11 +8,14 @@
 
 a) épületszerkezet: az épületeket, építményeket alkotó helyszínen készített vagy előregyártott szerkezet vagy berendezés;
 
-b) közhasználatú építmény: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 2. § 9. pontja szerinti építmény;
+b)[^3] közhasználatú építmény: a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 16. § 72. pontja szerinti építmény;
 
-c) lakás: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 105. §-a szerint kialakított önálló rendeltetési egység;
+c)[^4] lakás: a településrendezési és építési követelményekről szóló kormányrendelet szerinti lakás rendeltetési egység;
 
-d) lakóépület: az OTÉK 1. sz. melléklet 78. pontja szerinti épület.
+d)[^5] lakóépület: a Méptv. 16. § 76. pontja szerinti épület.
 
 [^1]: Az 1. § (3) bekezdése a 97/2014. (III. 25.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
 [^2]: Az 1. § (4) bekezdését a 97/2014. (III. 25.) Korm. rendelet 2. § (2) bekezdése iktatta be. E módosító rendelet 6. §-a alapján csak a 2014. április 9-ét követően kötött szerződésekre kell alkalmazni.
+[^3]: Az 1. § (4) bekezdés b) pontja a 285/2024. (IX. 30.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (4) bekezdés c) pontja a 285/2024. (IX. 30.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § (4) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
