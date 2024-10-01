@@ -1,14 +1,31 @@
-6. § (1) A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a központi szervet jelöli ki
+## 3. Különös szabályok
 
-a)[^45] a Ttv. 46/A. §-a szerinti tűzvédelmi szakértői tevékenység tekintetében,
+6. § Az építményszerkezetek tűzvédelmi követelményeknek való megfelelősége igazolására kiadott nyilatkozatokról vezetett nyilvántartás az alábbi adatokat tartalmazza:
 
-b)[^46]
+a) a tűzvédelmi szakértői nyilatkozat száma,
 
-c)[^47] a területi szerv és a Katasztrófavédelmi Oktatási Központ tekintetében a tűzvédelmi szakvizsgával összefüggő oktatásszervezői tevékenységgel kapcsolatban.
+b) a tűzvédelmi szakértői engedély száma,
 
-(2)[^48] A Kormány a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szolgáltatás felügyeletét ellátó hatóságként a területi szervet jelöli ki – az (1) bekezdés c) pontjában meghatározott kivétellel – a Ttv. 12. § (1) bekezdés a)–d) pontjában meghatározott tevékenységek tekintetében.
+c) az építményszerkezet létrehozásának címe,
 
-[^45]: A 6. § (1) bekezdés a) pontja a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés e) pontja szerint módosított szöveg.
-[^46]: A 6. § (1) bekezdés b) pontját a 368/2012. (XII. 17.) Korm. rendelet 16. § (1) bekezdés f) pontja hatályon kívül helyezte.
-[^47]: A 6. § (1) bekezdés c) pontja a 435/2013. (XI. 19.) Korm. rendelet 7. § (1) bekezdés d) pontja szerint módosított szöveg.
-[^48]: A 6. § (2) bekezdése a 368/2012. (XII. 17.) Korm. rendelet 4. §-ával megállapított, a 435/2013. (XI. 19.) Korm. rendelet 7. § (1) bekezdés e) pontja szerint módosított szöveg.
+d) az építményszerkezet megnevezése,
+
+e) az építményszerkezettel szemben tűzvédelmi követelményt megállapító műszaki előírás száma, címe,
+
+f) az építményszerkezettel szemben műszaki előírásban támasztott tűzvédelmi követelmény pontos helye és tartalma,
+
+g) az építményszerkezetet alkotó termékek, anyagok felsorolása az alábbi adatokkal:
+
+ga) név,
+
+gb) típus,
+
+gc) szállító neve,
+
+gd) szállító címe,
+
+ge) teljesítmény igazolásának módja, száma,
+
+h) az építményszerkezet pontos leírása, rétegrendje, a termékek egybeépítésének módja és
+
+i) az építményszerkezet tűzvédelmi szakértő által meghatározott tűzvédelmi tulajdonságai.

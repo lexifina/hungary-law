@@ -1,16 +1,21 @@
-## 6/B. §[^50] A tűzvédelmi hatósági eljárásokban, ha az ügyfél kérelme jog megszerzésére irányul, és ellenérdekű ügyfél az első fokú eljárásban nem vett részt, az ügyfelet nem illeti meg a kérelmezett jog gyakorlása, ha a tűzvédelmi hatóság az előírt határidőben nem hoz döntést.
-
 ## II. Fejezet
 
 ## A TŰZVÉDELMI BÍRSÁG
 
-7. § (1)[^51]
+7. § (1)[^3] A tűzvédelmi hatóság az 1. mellékletben szereplő szabályszegések esetén az ott meghatározott összegű tűzvédelmi bírság kiszabására jogosult.
 
-(2)[^52]
+(2)[^4] A tűzvédelmi bírság kiszabására
 
-(3)[^53] Több szabályszegés együttes fennállása esetén a bírság mértéke az egyes szabályszegésekért kiszabható bírságok összege, de legfeljebb 10 000 000 forint.
+a) az 1. melléklet 15. sora tekintetében a Kormány által rendeletben kijelölt, a létesítményi és önkormányzati tűzoltóság létszámának, felszerelésének és képzésének meghatározására hatáskörrel rendelkező hatóság,
 
-[^50]: A 6/B. §-t a 300/2014. (XII. 5.) Korm. rendelet 13. §-a iktatta be, szövege a 457/2017. (XII. 28.) Korm. rendelet 356. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
-[^51]: A 7. § (1) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.
-[^52]: A 7. § (2) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte.
-[^53]: A 7. § (3) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 29. § a) és b) pontja szerint módosított szöveg.
+b) a 2. § (3) bekezdése szerinti eljárások esetén a hivatásos katasztrófavédelmi szerv központi szerve,
+
+c) az a) és b) ponton kívüli esetekben a fővárosi és vármegyei kormányhivatal
+
+jogosult.
+
+(3)[^5] Több szabályszegés együttes fennállása esetén a bírság mértéke az egyes szabályszegésekért kiszabható bírságok összege, de legfeljebb 10 000 000 forint.
+
+[^3]: A 7. § (1) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte, újonnan a 257/2024. (VIII. 29.) Korm. rendelet 46. §-a iktatta be.
+[^4]: A 7. § (2) bekezdését a 713/2020. (XII. 30.) Korm. rendelet 30. §-a hatályon kívül helyezte, újonnan a 257/2024. (VIII. 29.) Korm. rendelet 46. §-a iktatta be.
+[^5]: A 7. § (3) bekezdése a 713/2020. (XII. 30.) Korm. rendelet 29. § a) és b) pontja szerint módosított szöveg.
