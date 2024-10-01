@@ -1,4 +1,4 @@
-## 11.[^60] Innovációs klaszterre nyújtott támogatás
+## 11.[^57] Innovációs klaszterre nyújtott támogatás
 
 17. § (1) Az innovációs klaszterhez nyújtott támogatás (ezen alcím alkalmazásában a továbbiakban: támogatás) a klaszter tulajdonosának beruházási támogatásként, a klaszter üzemeltetőjének működési támogatásként nyújtható.
 
@@ -10,4 +10,4 @@
 
 (5) A klaszter létesítményeinek használatáért és a klasztertevékenységben való részvételért szokásos piaci árat kell fizetni, azzal, hogy annak hiányában a költségeket és az észszerű nyereséget magában foglaló árat kell felszámítani.
 
-[^60]: A 11. alcím (17–19. §) a 8/2023. (XII. 28.) MVM rendelet 14. §-ával megállapított szöveg.
+[^57]: A 11. alcím (17–19. §) a 8/2023. (XII. 28.) MVM rendelet 14. §-ával megállapított szöveg.

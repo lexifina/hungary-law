@@ -48,3 +48,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2023-12-29 | 2016-8-20-6N.40 | 8/2023. (XII. 28.) MVM rendelet |
 | 2024-04-10 | 2016-8-20-6N.41 | 4/2024. (IV. 9.) MVM rendelet |
 | 2024-05-17 | 2016-8-20-6N.42 | 7/2024. (V. 16.) MVM rendelet |
+| 2024-10-01 | 2016-8-20-6N.43 | 9/2024. (IX. 30.) MvM rendelet |

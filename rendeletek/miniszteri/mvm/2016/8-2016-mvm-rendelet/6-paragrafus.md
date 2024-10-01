@@ -1,4 +1,4 @@
-6. §[^38] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
+6. §[^35] Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
 a) eljárási és szervezési innováció támogatása esetében meghaladja a vállalkozásonként és projektenként 12,5 millió eurónak megfelelő forintösszeget;
 
@@ -50,4 +50,4 @@ mb) a 41,25 millió eurónak megfelelő forintösszeget, ha a maximális region�
 
 mc) a 49,5 millió eurónak megfelelő forintösszeget, ha a maximális regionális támogatási intenzitás 60%.
 
-[^38]: A 6. § a 8/2023. (XII. 28.) MVM rendelet 5. §-ával megállapított szöveg.
+[^35]: A 6. § a 8/2023. (XII. 28.) MVM rendelet 5. §-ával megállapított szöveg.
