@@ -4,4 +4,6 @@
 
 a)
 
-b)
+b) 134. § (1) bekezdésében a „tizenöt” szövegrész helyébe a „harminc” szöveg,
+
+lép.
