@@ -24,15 +24,15 @@
 
 | 12. | erdészeti hatósági eljárások, erdő igénybevétele és fakitermelés bejelentése | Pest Megyei Kormányhivatal |
 
-| 13. | vízügyi hatósági eljárások | illetékes megyei katasztrófavédelmi igazgatóság |
+| 13. | vízügyi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal |
 
-| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 15. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 15. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 16. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság |
+| 16. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes fővárosi és vármegyei kormányhivatal |
 
-| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 17. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Budapest Főváros Kormányhivatala |
 
 | 18. | kötött pályás közlekedési létesítmények engedélyezési eljárása | közlekedésért felelős miniszter |
 
