@@ -32,7 +32,7 @@ A Beruházás megvalósításához szükséges, nemzetgazdasági szempontból ki
 
 14. bányahatósági engedélyezési eljárások,
 
-15. tűzvédelmi és katasztrófavédelmi hatósági eljárások,
+15.[^3] tűzvédelmi és iparbiztonsági hatósági eljárások,
 
 16. élelmiszerlánc-felügyeleti eljárás,
 
@@ -41,3 +41,5 @@ A Beruházás megvalósításához szükséges, nemzetgazdasági szempontból ki
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: Az 1. melléklet 15. pontja a 257/2024. (VIII. 29.) Korm. rendelet 244. §-a szerint módosított szöveg.
