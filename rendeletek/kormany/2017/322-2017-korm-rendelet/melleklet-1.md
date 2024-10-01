@@ -44,7 +44,7 @@ Az 1. § (1) bekezdésében meghatározott beruházás megvalósításával öss
 
 20. erdészeti hatósági eljárások,
 
-21. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+21.[^5] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 22. honvédelmi hatósági eljárások,
 
@@ -56,3 +56,4 @@ Az 1. § (1) bekezdésében meghatározott beruházás megvalósításával öss
 
 [^3]: A 6. §-t a 409/2017. (XII. 15.) Korm. rendelet 7. §-a iktatta be.
 [^4]: A hatálybalépés időpontja 2017. december 16.
+[^5]: Az 1. melléklet 21. pontja a 257/2024. (VIII. 29.) Korm. rendelet 268. §-a szerint módosított szöveg.
