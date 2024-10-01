@@ -12,7 +12,7 @@ d) a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartoz�
 
 (2) Az állami főépítész felkérésre, területrendezési hatósági eljárás keretében kiadott térségi területfelhasználási engedéllyel állást foglal a településrendezési terveknek, építészeti- műszaki terveknek, továbbá más ágazati terveknek és koncepcióknak a területrendezési tervekkel való összhangjáról, valamint a területrendezési tanulmánytervről.
 
-(3) A térségi területfelhasználási engedély kiadása – az összhang igazolására vonatkozó kérelem kivételével – csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival, az épített környezet alakításáról és védelméről szóló törvényben foglalt követelményekkel vagy a termőföld védelméről szóló 2007. évi CXXIX. törvény 6/B. §-ával és 8. §-ával.
+(3) A térségi területfelhasználási engedély kiadása – az összhang igazolására vonatkozó kérelem kivételével – csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival, a magyar építészetről szóló törvényben foglalt követelményekkel vagy a termőföld védelméről szóló 2007. évi CXXIX. törvény 6/B. §-ával és 8. §-ával.
 
 (4) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a vármegyei önkormányzattal.
 

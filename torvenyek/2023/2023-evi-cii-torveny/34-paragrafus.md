@@ -2,7 +2,7 @@
 
 34. § (1) Területrendezési terv elkészítésében tervezőként az a büntetlen előéletű személy vehet részt, aki rendelkezik az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott szakmai képesítéssel, és megfelel az ott meghatározott egyéb feltételeknek.
 
-(2) Aki az (1) bekezdés szerinti tevékenységet kíván folytatni, köteles az erre irányuló szándékát a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvényben meghatározott területi kamarának (a továbbiakban: kamara) bejelenteni. A bejelentés tartalmát a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről szóló kormányrendelet tartalmazza.
+(2) Aki az (1) bekezdés szerinti tevékenységet kíván folytatni, köteles az erre irányuló szándékát a magyar építészetről szóló törvényben meghatározott területi kamarának (a továbbiakban: kamara) bejelenteni. A bejelentés tartalmát a területrendezési tervezési jogosultságról és a területrendezési tervezési tevékenység felügyeletét ellátó hatóság kijelöléséről szóló kormányrendelet tartalmazza.
 
 (3) A kamara a területrendezési tervezési tevékenység folytatására jogosult, a (2) bekezdés szerinti bejelentést tevő személyekről nyilvántartást vezet, amely tartalmazza az érintett személy
 
@@ -26,9 +26,9 @@ h) nyilvántartási számát.
 
 (5) Jogosulatlan az (1) bekezdés szerinti tevékenység, ha a tervező az általa folytatott tevékenység végzéséhez nem rendelkezik megfelelő jogosultsággal vagy szakképzettséggel.
 
-(6) Szakszerűtlen az (1) bekezdés szerinti tevékenység, ha azt a Magyarország és egyes kiemelt térségeinek területrendezési tervéről vagy az épített környezet alakításáról és védelméről szóló törvény rendelkezéseitől eltérően, továbbá, ha a tevékenység végzésére vonatkozó jogszabályi előírások megsértésével végzik vagy végezték.
+(6) Szakszerűtlen az (1) bekezdés szerinti tevékenység, ha azt a Magyarország és egyes kiemelt térségeinek területrendezési tervéről vagy a magyar építészetről szóló törvény rendelkezéseitől eltérően, továbbá, ha a tevékenység végzésére vonatkozó jogszabályi előírások megsértésével végzik vagy végezték.
 
-(7) A területrendezési tervezési tevékenység felügyeletét ellátó hatóság az (5) vagy a (6) bekezdés szerinti szabálytalanságok esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 2. § (3) bekezdés c) és d) pontja szerinti közigazgatási szankciót alkalmaz, valamint etikai fegyelmi eljárást folytathat le a tervező- és szakértő mérnökök, valamint építészek szakmai kamaráiról szóló törvény szerint.
+(7) A területrendezési tervezési tevékenység felügyeletét ellátó hatóság az (5) vagy a (6) bekezdés szerinti szabálytalanságok esetén a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 2. § (3) bekezdés c) és d) pontja szerinti közigazgatási szankciót alkalmaz, valamint etikai fegyelmi eljárást folytathat le a magyar építészetről szóló törvény szerint.
 
 (8) A (7) bekezdés szerinti szankciót és egyéb jogkövetkezményt úgy kell megállapítani, hogy
 
