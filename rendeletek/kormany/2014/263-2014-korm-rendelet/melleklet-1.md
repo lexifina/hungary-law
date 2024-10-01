@@ -24,7 +24,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 9. útügyi hatósági engedélyezési eljárás,
 
-10. katasztrófavédelmi hatósági engedélyezési eljárások,
+10.[^6] iparbiztonsági hatósági engedélyezési eljárások,
 
 11. a Magyar Energetikai és Közmű-szabályozási Hivatal engedélyezési eljárása,
 
@@ -61,3 +61,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^5]: Az 1. melléklet 6. pontja a 380/2016. (XII. 2.) Korm. rendelet 86. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^6]: Az 1. melléklet 10. pontja a 257/2024. (VIII. 29.) Korm. rendelet 138. §-a szerint módosított szöveg.
