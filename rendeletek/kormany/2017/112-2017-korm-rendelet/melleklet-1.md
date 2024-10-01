@@ -38,7 +38,7 @@ Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági 
 
 17. tűzvédelmi hatósági eljárások,
 
-18. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+18.[^6] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 19. élelmiszerlánc-felügyeleti eljárás,
 
@@ -52,3 +52,4 @@ Az 1. § (1) bekezdése szerinti beruházással összefüggő, nemzetgazdasági 
 
 [^4]: A 7. §-t a 177/2018. (X. 1.) Korm. rendelet 2. §-a iktatta be.
 [^5]: A hatálybalépés időpontja 2018. október 2.
+[^6]: Az 1. melléklet 18. pontja a 257/2024. (VIII. 29.) Korm. rendelet 243. §-a szerint módosított szöveg.
