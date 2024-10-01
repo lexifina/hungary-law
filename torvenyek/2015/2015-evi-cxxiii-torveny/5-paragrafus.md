@@ -6,7 +6,7 @@ a) a háziorvosi, házi gyermekorvosi ellátásról,
 
 b) a fogorvosi alapellátásról,
 
-c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról, valamint Budapest területén az alapellátáshoz kapcsolódó háziorvosi és házi gyermekorvosi ügyeleti ellátásról, és
+c) az alapellátáshoz kapcsolódó fogorvosi ügyeleti ellátásról.
 
 d)
 
