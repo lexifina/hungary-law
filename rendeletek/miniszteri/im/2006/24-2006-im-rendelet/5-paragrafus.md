@@ -6,6 +6,9 @@
 
 (4) Az elektronikus nyomtatvány alkalmazásával benyújtott bejegyzési (változásbejegyzési) kérelemnek a kitöltetlenül hagyott rovatokat, valamint a magyarázó szövegeket és lábjegyzeteket nem kell tartalmaznia.
 
+(5)[^12] A szerződésminta nyomtatványban szabadszöveges részként kell biztosítani, hogy az okiratszerkesztő jogi képviselő a vonatkozó jogszabályi feltételeknek megfelelő formai és tartalmi elemekkel eleget tudjon tenni az ellenjegyzési, közokirati formai, záradékolási és egyéb okiratszerkesztési kötelezettségének, ideértve az egységes szerkezetű létesítő okiraton feltüntetendő igazolást is.
+
 [^9]: Az 5. § (1) bekezdése a 21/2018. (VII. 4.) IM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (2) bekezdését a 4/2012. (II. 10.) KIM rendelet 2. §-a hatályon kívül helyezte, újonnan a 11/2023. (VII. 20.) IM rendelet 4. § (1) bekezdése iktatta be.
 [^11]: Az 5. § (3) bekezdése a 11/2023. (VII. 20.) IM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^12]: Az 5. § (5) bekezdését a 9/2024. (VI. 28.) IM rendelet 3. § (3) bekezdése iktatta be.

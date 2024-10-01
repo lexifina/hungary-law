@@ -1,3 +1,3 @@
-## Az uniós tagállami cégnyilvántartások összekapcsolását szolgáló rendszer[^42]
+## Az uniós tagállami cégnyilvántartások összekapcsolását szolgáló rendszer[^43]
 
-[^42]: A 12/B. §-t megelőző alcímet a 22/2016. (XI. 15.) IM rendelet 2. §-a iktatta be.
+[^43]: A 12/B. §-t megelőző alcímet a 22/2016. (XI. 15.) IM rendelet 2. §-a iktatta be.
