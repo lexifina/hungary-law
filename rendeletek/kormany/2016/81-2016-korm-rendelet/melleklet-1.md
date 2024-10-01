@@ -2,7 +2,7 @@
 
 1. melléklet a 81/2016. (IV. 12.) Korm. rendelethez
 
-## A Beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek
+A Beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek
 
 1. környezetvédelmi hatósági eljárások,
 
@@ -18,13 +18,13 @@
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^2] iparbiztonsági hatósági eljárások,
 
 9. rendészeti hatósági eljárások,
 
 10. útügyi hatósági eljárások,
 
-11.[^2] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+11.[^3] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -44,4 +44,5 @@
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^2]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 109. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^2]: Az 1. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 186. §-a szerint módosított szöveg.
+[^3]: Az 1. melléklet 11. pontja a 380/2016. (XII. 2.) Korm. rendelet 109. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
