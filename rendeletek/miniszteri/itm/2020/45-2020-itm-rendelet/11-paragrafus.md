@@ -6,16 +6,19 @@
 
 (4) Pótdíj forgalmi rendszámonként és naptári naponként legfeljebb egy alkalommal szabható ki. Egyszer kell kiszabni a jogosulatlan úthasználat miatt megállapított pótdíjat több egymást követő jogosulatlan úthasználat észlelése esetén is, ha az első és az utolsó – nem egyazon naptári napon történt – észlelés között nem telt el 60 percnél több idő, és sem az első észlelés, sem pedig az utolsó észlelés napján nem állapított meg további jogosulatlan úthasználatot a díjfizetés ellenőrzésére jogosult szervezet.
 
-(5) Az ellenőrzés eredményeként a pótdíjfizetési kötelezettség megállapítása céljából a díjfizetés ellenőrzésére jogosult szervezet a kötelezett és a gépjármű adatait
+(5)[^29] Az ellenőrzés eredményeként a pótdíjfizetési kötelezettség megállapítása céljából a díjfizetés ellenőrzésére jogosult szervezet a kötelezett és a gépjármű adatait
 
-a) a személy és a gépjármű azonosításra alkalmas okmányai vagy közhiteles nyilvántartásból származó adatszolgáltatás,
+a) magyar forgalmi rendszámmal rendelkező gépjármű esetében a személy és a gépjármű azonosításra alkalmas okmányai vagy hatósági nyilvántartásból származó adatszolgáltatás,
 
-b) külföldi rendszámmal rendelkező gépjárművek esetében – ha arra másként nincs mód –
+b) az Európai Unió más tagállamában nyilvántartott gépjármű esetében a személy és a gépjármű azonosításra alkalmas okmányai vagy a nyilvántartás helye szerinti tagállam nemzeti gépjármű-nyilvántartásában végzett automatizált keresés,
 
-közreműködő útján állapítja meg.
+c) harmadik országban nyilvántartott gépjármű esetében – ha arra másként nincs mód – közreműködő
 
-(6)[^29] A pótdíj utólagos megfizetésére a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartási szervezet nyilvántartása szerint a jogosulatlan úthasználat időpontjában nyilvántartott – nem tulajdonos üzembentartója, ennek hiányában a gépjármű tulajdonosa (a továbbiakban együtt: üzembentartó) köteles. Járműszerelvény esetén, ha a vontatmány az U díjkategóriába tartozik, és a díjfizetés ellenőrzésére jogosult szervezet a vontatmány tekintetében jogosulatlan úthasználatot állapít meg, a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles.
+útján állapítja meg.
+
+(6)[^30] A pótdíj utólagos megfizetésére a gépjármű – magyar forgalmi rendszámmal rendelkező gépjármű esetében a közúti közlekedési nyilvántartás szerinti, az Európai Unió más tagállamában nyilvántartott gépjármű esetében a nyilvántartás helye szerinti tagállam nemzeti gépjármű-nyilvántartása szerinti, a jogosulatlan úthasználat időpontjában nyilvántartott – üzembentartója, ennek hiányában a tulajdonosa (a továbbiakban együtt: üzembentartó) köteles. Járműszerelvény esetén, ha a vontatmány az U díjkategóriába tartozik, és a díjfizetés ellenőrzésére jogosult szervezet a vontatmány tekintetében jogosulatlan úthasználatot állapít meg, a vontatmányra irányadó pótdíj megfizetésére a vontató gépjármű üzembentartója köteles.
 
 (7) A pótdíjat a NÚSZ Zrt. szedi be, amelynek során a NÚSZ Zrt. vagy az általa igénybe vett közreműködő jogosult a pótdíj behajtásával kapcsolatban felmerülő igazolt költségét is érvényesíteni.
 
-[^29]: A 11. § (6) bekezdése a 22/2023. (XII. 5.) ÉKM rendelet 4. §-a szerint módosított szöveg.
+[^29]: A 11. § (5) bekezdése a 29/2024. (VIII. 15.) ÉKM rendelet 1. §-ával megállapított szöveg.
+[^30]: A 11. § (6) bekezdése a 29/2024. (VIII. 15.) ÉKM rendelet 1. §-ával megállapított szöveg.

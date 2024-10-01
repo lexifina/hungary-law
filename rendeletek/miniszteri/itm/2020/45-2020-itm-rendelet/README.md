@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-45-20-7
 | 2024-04-01 | 2020-45-20-7Q.16 | 7/2024. (III. 28.) ÉKM rendelet |
 | 2024-08-20 | 2020-45-20-7Q.18 | 29/2024. (VIII. 15.) ÉKM rendelet |
 | 2024-09-01 | 2020-45-20-7Q.17 | 24/2024. (VII. 31.) ÉKM rendelet |
+| 2024-10-01 | 2020-45-20-7Q.19 | 29/2024. (VIII. 15.) ÉKM rendelet |

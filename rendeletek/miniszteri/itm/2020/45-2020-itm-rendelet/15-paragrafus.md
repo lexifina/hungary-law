@@ -4,8 +4,8 @@
 
 (3) A kérelmet a NÚSZ Zrt. vagy a közreműködő partnere 30 napon belül megvizsgálja. A NÚSZ Zrt. vagy a közreműködő partnere a kérelmet akkor utasíthatja el, ha az nem felel meg az (1) bekezdés előírásainak. A NÚSZ Zrt. vagy a közreműködő partnere erről értesítést küld a kérelmező számára.
 
-(4)[^39] A maximált összegű pótdíj befizetési határideje a döntés kézbesítését követő 30 nap. A tárgyidőszakra vonatkozóan az egyéb korábban meg nem fizetett pótdíjak a kedvezményes pótdíj határidőben történő megfizetésével megfizetettnek tekintendőek.
+(4)[^40] A maximált összegű pótdíj befizetési határideje a döntés kézbesítését követő 30 nap. A tárgyidőszakra vonatkozóan az egyéb korábban meg nem fizetett pótdíjak a kedvezményes pótdíj határidőben történő megfizetésével megfizetettnek tekintendőek.
 
 (5) A kérelem alapján hozott döntés nem érinti az ebben a bekezdésben meghatározott időszak előtt keletkezett követelések jogalapját. Az e bekezdés szerinti rendelkezések nem érintik a NÚSZ Zrt. vagy az általa bevont közreműködő partner megtérítési igényét az igényérvényesítése kapcsán felmerült igazolt költségei megtérítésére.
 
-[^39]: A 15. § (4) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § h) pontja szerint módosított szöveg.
+[^40]: A 15. § (4) bekezdése a 19/2022. (IX. 19.) TIM rendelet 4. § h) pontja szerint módosított szöveg.
