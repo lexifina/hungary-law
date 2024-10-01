@@ -1,4 +1,4 @@
-6. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^163]
+6. melléklet a 365/2016. (XI. 29.) Korm. rendelethez[^167]
 
 A veszélyes áruk szállítására használt nyomástartó tartályok, tartányok megfelelőségértékelését végző szervekre vonatkozó követelmények
 
@@ -36,4 +36,4 @@ A veszélyes áruk szállítására használt nyomástartó tartályok, tartány
 
 12.5. A vizsgálatok végrehajtásáért felelős személyzet a tevékenysége során tudomására jutott információkkal kapcsolatban betartja a szakmai titoktartás szabályait. Más vizsgáló szervezetek kérésére az információk megoszthatók, amennyiben azok a vizsgálatok és próbák elvégzéséhez szükségesek.
 
-[^163]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés b) pontja iktatta be.
+[^167]: A 6. mellékletet a 457/2017. (XII. 28.) Korm. rendelet 585. § d) pontja hatályon kívül helyezte, újonnan a 414/2023. (VIII. 30.) Korm. rendelet 9. § (2) bekezdés b) pontja iktatta be.

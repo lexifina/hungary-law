@@ -6,7 +6,7 @@
 
 (4) A kijelölő hatóság felelős a megfelelőségértékelő szervezetek értékeléséhez és bejelentéséhez szükséges eljárások végrehajtásáért, valamint a bejelentett szervezetek, az elismert független szervezetek és az üzemeltetői ellenőrző szervezetek ellenőrzéséért.
 
-(5)[^97] A (4) bekezdés szerinti értékelést és ellenőrzést egy, a 765/2008/EK európai parlamenti és tanácsi rendelet szerinti nemzeti akkreditáló szerv is végzi az R4.-gyel összhangban.
+(5)[^101] A (4) bekezdés szerinti értékelést és ellenőrzést egy, a 765/2008/EK európai parlamenti és tanácsi rendelet szerinti nemzeti akkreditáló szerv is végzi az R4.-gyel összhangban.
 
 (6) A kijelölő hatóság tevékenységét úgy kell megszervezni, hogy a megfelelőségértékelő szervezet bejelentésével kapcsolatban minden egyes döntést az értékelést végzőtől eltérő illetékes személy hozzon meg.
 
@@ -16,4 +16,4 @@
 
 (9) A kijelölő hatóság tájékoztatja az Európai Bizottságot a megfelelőségértékelő szervezetek értékelésére és bejelentésére, valamint a bejelentett szervezetek ellenőrzésére irányuló eljárásairól, továbbá ezek bármilyen változásáról.
 
-[^97]: A 24/L. § (5) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^101]: A 24/L. § (5) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.

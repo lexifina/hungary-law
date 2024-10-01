@@ -1,8 +1,8 @@
 ## 4. A piacfelügyeleti hatóság kijelölése
 
-4. § (1)[^28] A Kormány – a (2)–(4) bekezdésben meghatározott körben országos illetékességgel – piacfelügyeleti hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
+4. § (1)[^29] A Kormány – a (2)–(4) bekezdésben meghatározott körben országos illetékességgel – piacfelügyeleti hatóságként Budapest Főváros Kormányhivatalát jelöli ki.
 
-(2)[^29] A piacfelügyeleti eljárás a jogszabály szerinti
+(2)[^30] A piacfelügyeleti eljárás a jogszabály szerinti
 
 a) egyes gazdasági célfelhasználásra szánt nyomástartó berendezések és rendszerek biztonsági követelményeinek és megfelelőség tanúsításának,
 
@@ -34,10 +34,10 @@ l) mérőedényként használt palackok méréstechnikai követelményeinek
 
 ellenőrzésére terjed ki.
 
-(3)[^30]
+(3)[^31]
 
 (4) A piacfelügyeleti eljárás a felvonók, mozgólépcsők és mozgójárdák biztonsági követelményeinek és megfelelőség tanúsításának ellenőrzésére terjed ki.
 
-[^28]: A 4. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
-[^29]: A 4. § (2) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^30]: A 4. § (3) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^29]: A 4. § (1) bekezdése a 80/2018. (IV. 20.) Korm. rendelet 20. § e) pontja szerint módosított szöveg.
+[^30]: A 4. § (2) bekezdése a 246/2020. (V. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^31]: A 4. § (3) bekezdését a 80/2018. (IV. 20.) Korm. rendelet 21. §-a hatályon kívül helyezte.

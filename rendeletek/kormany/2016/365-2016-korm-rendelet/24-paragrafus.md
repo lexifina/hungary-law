@@ -8,9 +8,9 @@ b) ellátja a külföldi bizonyítványok és oklevelek elismeréséről szóló
 
 c) ellátja az Európai Közösségbe irányuló faanyag-behozatalhoz egyes harmadik országok által kiadott ún. FLEGT engedélyek ellenőrzésével kapcsolatos hatósági feladatokat,
 
-d)[^81] az R1. és R2. tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatok kivételével ellátja az iparügyekért felelős miniszter szabályozási feladatkörében előírt forgalmazási követelmények tekintetében – országos illetékességgel – a termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat,
+d)[^85] az R1. és R2. tekintetében történő kijelöléssel és bejelentéssel kapcsolatos feladatok kivételével ellátja az iparügyekért felelős miniszter szabályozási feladatkörében előírt forgalmazási követelmények tekintetében – országos illetékességgel – a termékek megfelelőségértékelésére jogosult szervek kijelölésével és bejelentésével kapcsolatos feladatokat,
 
-e)[^82] ellátja – országos illetékességgel – az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet
+e)[^86] ellátja – országos illetékességgel – az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet
 
 ea) 29. cikk (1) bekezdése szerint a műszaki értékelést végző szervezetek, valamint
 
@@ -18,13 +18,13 @@ eb) 39. cikke és V. melléklet 2. pontja, valamint az építési termék épít
 
 kijelölésével és bejelentésével kapcsolatos feladatokat,
 
-f)[^83] ellátja – országos illetékességgel – a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
+f)[^87] ellátja – országos illetékességgel – a veszélyes áruk szállítására használt nyomástartó tartályok, tartányok vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével kapcsolatos feladatokat,
 
 g) kezeli a hatósági jogkörének gyakorlásához szükséges adatokat, valamint e körben irányítja és összehangolja az információfeldolgozó, -elemző munkát,
 
-h)[^84] ellátja – országos illetékességgel – az elektromágneses összeférhetőség vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
+h)[^88] ellátja – országos illetékességgel – az elektromágneses összeférhetőség vonatkozásában megfelelőségértékelési tevékenységet végző szervek kijelölésével és bejelentésével kapcsolatos feladatokat.
 
-[^81]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított, a 198/2019. (VIII. 1.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
-[^82]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
-[^83]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
-[^84]: A 24. § h) pontját újonnan a 414/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.
+[^85]: A 24. § d) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított, a 198/2019. (VIII. 1.) Korm. rendelet 21. § f) pontja szerint módosított szöveg.
+[^86]: A 24. § e) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^87]: A 24. § f) pontja a 80/2018. (IV. 20.) Korm. rendelet 19. § (17) bekezdésével megállapított szöveg.
+[^88]: A 24. § h) pontját újonnan a 414/2023. (VIII. 30.) Korm. rendelet 3. §-a iktatta be.

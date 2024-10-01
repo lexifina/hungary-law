@@ -68,14 +68,14 @@ d) IWE, EWE nemzetközi, európai hegesztő mérnök.
 
 3. Legalább 5 év szakirányú gyakorlat.
 
-II. Tárgyi feltétel:
+## II. Tárgyi feltétel:
 
 a) a szervezet rendelkezzen a tevékenységi területre vonatkozó szabványokkal és egyéb műszaki előírásokkal;
 
 b) a szervezetnek legyen belső szabályzata az egyes hegesztett szerkezetek gyártását végző gazdálkodó szervezetek alkalmasságának vizsgálatára és értékelésére;
 
-c)[^150] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
+c)[^154] a szervezet rendelkezzen az irányítási rendszerek auditját és tanúsítását végző testületekre vonatkozó szabvány vagy a szolgáltatásokat tanúsító testületekre vonatkozó szabvány szerint akkreditációval;
 
 d) a szervezet legyen tagja a Magyar Hegesztéstechnikai és Anyagvizsgálati Egyesülésnek.
 
-[^150]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.
+[^154]: A 2. melléklet II. pont c) alpontja a 414/2023. (VIII. 30.) Korm. rendelet 10. § (1) bekezdés f) pontja szerint módosított szöveg.
