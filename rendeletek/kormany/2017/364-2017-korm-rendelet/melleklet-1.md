@@ -14,7 +14,7 @@ A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított kö
 
 6. tűzvédelmi hatósági eljárások,
 
-7. katasztrófavédelmi hatósági eljárások,
+7.[^5] iparbiztonsági hatósági eljárások,
 
 8. rendészeti hatósági eljárások,
 
@@ -53,3 +53,5 @@ A Beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított kö
 25. azok az 1–24. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához és használatbavételéhez szükségesek,
 
 26. az 1–25. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására vonatkozó hatósági eljárások.
+
+[^5]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 272. §-a szerint módosított szöveg.
