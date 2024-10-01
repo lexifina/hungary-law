@@ -40,7 +40,7 @@ A Tura város területén megvalósuló beruházással összefüggő, nemzetgazd
 
 18. erdészeti hatósági eljárások,
 
-19. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+19.[^4] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 20. honvédelmi hatósági eljárások,
 
@@ -49,3 +49,5 @@ A Tura város területén megvalósuló beruházással összefüggő, nemzetgazd
 22. azok az 1–22. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^4]: Az 1. melléklet 19. pontja a 257/2024. (VIII. 29.) Korm. rendelet 202. §-a szerint módosított szöveg.
