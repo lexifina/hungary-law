@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2020-545-20-
 | 2021-06-01 | 2020-545-20-22.3 | 295/2021. (V. 31.) Korm. rendelet |
 | 2022-12-23 | 2020-545-20-22.4 | 546/2022. (XII. 22.) Korm. rendelet |
 | 2023-01-01 | 2020-545-20-22.5 | 546/2022. (XII. 22.) Korm. rendelet |
+| 2024-10-01 | 2020-545-20-22.6 | 257/2024. (VIII. 29.) Korm. rendelet |
