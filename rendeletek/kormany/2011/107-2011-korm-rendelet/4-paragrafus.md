@@ -16,7 +16,7 @@ bb) szerepel a köztartozásmentes adózói adatbázisban,
 
 c)[^54] a támogatással megvalósítani tervezett sportfejlesztési programjának bemutatását, célját, megnevezését, tervezett megvalósításának helyét, részletes megvalósítási tervét, amennyiben költségként elszámolandó, akkor általános forgalmi adót is tartalmazó összköltségének tervét, a megvalósítás és a finanszírozás időbeli ütemezését, valamint az építési beruházást is tartalmazó program esetén az annak helyszínéül szolgáló ingatlan helyrajzi számát és 3 hónapnál nem régebbi tulajdonilap-másolatának eredeti példányát vagy másolatát (a továbbiakban: szakmai és költségterv),
 
-d)[^55] amennyiben a támogatás építési beruházásra irányul, úgy az elvi építési keretengedélyt az ingatlan tulajdonosának teljes bizonyító erejű magánokiratba foglalt hozzájáruló nyilatkozatával vagy a végleges építési engedélyt vagy az illetékességgel rendelkező hatóság az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet szerinti szakmai nyilatkozatát arról, hogy a bejelentésben megjelölt beruházási tevékenység nem építésiengedély-köteles,
+d)[^55] amennyiben a támogatás építési beruházásra irányul, úgy a végleges építési engedélyt vagy az építésügyi hatóság szakmai nyilatkozatát arról, hogy a bejelentésben megjelölt építési tevékenység építési engedély nélkül végezhető,
 
 e)[^56] az egyéb engedélyköteles tevékenységek esetén a végleges hatósági engedélyeket, igazolásokat,
 
@@ -84,7 +84,7 @@ irányul.
 [^52]: A 4. § (2) bekezdés a) pontja a 318/2018. (XII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^53]: A 4. § (2) bekezdés b) pont nyitó szövegrésze a 475/2017. (XII. 28.) Korm. rendelet 36. § 1. pontja szerint módosított szöveg.
 [^54]: A 4. § (2) bekezdés c) pontja a 268/2011. (XII. 16.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 174. §-a szerint módosított szöveg.
-[^55]: A 4. § (2) bekezdés d) pontja a 96/2016. (V. 2.) Korm. rendelet 3. § (1) bekezdésével megállapított, a 457/2017. (XII. 28.) Korm. rendelet 328. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 618. §-át.
+[^55]: A 4. § (2) bekezdés d) pontja a 285/2024. (IX. 30.) Korm. rendelet 65. §-ával megállapított szöveg.
 [^56]: A 4. § (2) bekezdés e) pontja a 457/2017. (XII. 28.) Korm. rendelet 328. §-a szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
 [^57]: A 4. § (2) bekezdés f) pont fb) alpontja a 221/2014. (IX. 4.) Korm. rendelet 567. § b) pontja, a 393/2017. (XII. 13.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
 [^58]: A 4. § (2a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 41. § (2) bekezdése iktatta be, szövege a 393/2017. (XII. 13.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
