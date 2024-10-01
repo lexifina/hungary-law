@@ -1,34 +1,34 @@
-|  |  | A | B |
+|  | A | B |
 
-|  | 1. | Az 1. mellékletben megjelölt beruházások megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
+| 1. | Az 1. mellékletben megjelölt beruházások megvalósításával kapcsolatos engedélyezési eljárások | Eljáró hatóság |
 
-|  | 2. | vízügyi hatósági eljárások | illetékes vármegyei katasztrófavédelmi igazgatóság[^13] |
+| 2. | vízügyi hatósági eljárások | illetékes, vízügyi és vízvédelmi hatáskörben eljáró vármegyei kormányhivatal[^13] |
 
-|  | 3. | környezetvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^14] |
+| 3. | környezetvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^14] |
 
-|  | 4. | természetvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^15] |
+| 4. | természetvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^15] |
 
-|  | 5. | területrendezési hatósági eljárások | illetékes vármegyei kormányhivatal[^16] |
+| 5. | területrendezési hatósági eljárások | illetékes vármegyei kormányhivatal[^16] |
 
-|  | 6. | útügyi hatósági eljárások | illetékes vármegyei kormányhivatal[^17] |
+| 6. | útügyi hatósági eljárások | illetékes vármegyei kormányhivatal[^17] |
 
-|  | 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | illetékes műszaki biztonsági feladatkörében eljáró vármegyei kormányhivatal[^18] |
+| 7. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | illetékes műszaki biztonsági feladatkörében eljáró vármegyei kormányhivatal[^18] |
 
-|  | 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
+| 8. | hírközlési hatósági eljárások | Nemzeti Média- és Hírközlési Hatóság Hivatala |
 
-|  | 9. | általános építésügyi hatósági eljárások | illetékes vármegyei kormányhivatal[^19] |
+| 9. | általános építésügyi hatósági eljárások | illetékes vármegyei kormányhivatal[^19] |
 
-|  | 10. | örökségvédelmi hatósági eljárások és régészeti feltárásokkal kapcsolatos eljárások | illetékes vármegyei kormányhivatal[^20] |
+| 10. | örökségvédelmi hatósági eljárások és régészeti feltárásokkal kapcsolatos eljárások | illetékes vármegyei kormányhivatal[^20] |
 
-|  | 11. | földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | illetékes vármegyei kormányhivatal[^21] |
+| 11. | földmérési, földvédelmi, telekalakítási és ingatlan-nyilvántartási hatósági eljárások | illetékes vármegyei kormányhivatal[^21] |
 
-|  | 12. | talajvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^22] |
+| 12. | talajvédelmi hatósági eljárások | illetékes vármegyei kormányhivatal[^22] |
 
-|  | 13. | erdő igénybevétele és fakitermelés bejelentése | illetékes vármegyei kormányhivatal[^23] |
+| 13. | erdő igénybevétele és fakitermelés bejelentése | illetékes vármegyei kormányhivatal[^23] |
 
 3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^24]
 
-[^13]: A 2. mellékletben foglalt táblázat B:2 mezője az 546/2022. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^13]: A 2. mellékletben foglalt táblázat B:2 mezője a 257/2024. (VIII. 29.) Korm. rendelet 70. §-a szerint módosított szöveg.
 [^14]: A 2. mellékletben foglalt táblázat B:3 mezője az 546/2022. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^15]: A 2. mellékletben foglalt táblázat B:4 mezője az 546/2022. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^16]: A 2. mellékletben foglalt táblázat B:5 mezője az 546/2022. (XII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
