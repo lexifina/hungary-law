@@ -1,1 +1,0 @@
-53. § Az építésügyi és építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítése, a döntés meghozatala, végrehajtása, az állami főépítészi, valamint az önkormányzati főépítészi feladatok ellátása jogszabályban meghatározott szakirányú felsőfokú végzettséghez, valamint egyéb – jogszabályban meghatározott – feltételekhez kötött tevékenység.

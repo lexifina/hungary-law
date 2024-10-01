@@ -1,1 +1,0 @@
-60/D. § A 19. § (6)–(9) bekezdésében foglaltakat e rendelkezés hatálybalépésekor folyamatban lévő településterv készítéseknél és módosításoknál, valamint a folyamatban lévő hatósági eljárásokban is alkalmazni kell.

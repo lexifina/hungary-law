@@ -1,1 +1,0 @@
-Az Országgyűlés az épített környezet alakításával és védelmével kapcsolatos alapvető követelményekről, eszközökről, jogokról és kötelezettségekről, továbbá az ezekkel kapcsolatos feladatokról, hatáskörökről és hatósági jogkörökről a következő törvényt alkotja:

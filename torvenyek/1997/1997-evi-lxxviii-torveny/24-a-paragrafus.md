@@ -1,7 +1,0 @@
-24/A. § (1) A telekalakítási hatóság a természetvédelmi vagy kulturális örökségvédelmi szempontoknak nem megfelelő engedély iránti kérelmet elutasítja.
-
-(2) Az (1) bekezdés szerinti szempontok vizsgálatának mellőzése semmisségi oknak minősül.
-
-(3) A telekalakítási eljárásokban, ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban országos jelentőségű védett természeti terület, törvény erejénél fogva védett forrás, láp, barlang, víznyelő, szikes tó, kunhalom, földvár, természeti terület, Natura 2000 terület, ökológiai folyosó, természeti emlék, barlang felszíni védőövezet jogi jelleg ténye van feljegyezve, akkor az ingatlan-nyilvántartási átvezetés feltétele az, hogy a kialakuló, jogi jelleggel természetben érintett földrészlet tulajdoni lapjára tovább kell jegyezni a jogi jelleg tényét. A telekalakítási engedélynek rendelkeznie kell arról, hogy mely kialakuló földrészletek tulajdoni lapján kell továbbvezetni a jogi jelleget.
-
-(4) Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve, akkor az ingatlan-nyilvántartási átvezetés feltétele az, hogy a kialakuló, jogi jelleggel természetben érintett földrészlet tulajdoni lapjára tovább kell jegyezni a jogi jelleg tényét. A telekalakítási engedélynek rendelkeznie kell arról, hogy mely kialakuló földrészletek tulajdoni lapján kell továbbvezetni a jogi jelleget.

@@ -1,1 +1,0 @@
-60/G. § E törvénynek a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló 2018. évi CXXXIX. törvénnyel (a továbbiakban: Mód2. tv.) megállapított 8. § (2a) bekezdését a Mód2. tv. hatálybalépésekor folyamatban lévő településrendezési eszköz készítése és módosítása során is alkalmazni kell.

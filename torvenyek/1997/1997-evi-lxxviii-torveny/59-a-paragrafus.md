@@ -1,1 +1,0 @@
-59/A. § A nemzeti tervvagyonnak a nemzeti vagyonról szóló törvény szerint az állam tulajdonába tartozó része és az annak kezeléséhez szükséges eszközök vonatkozásában a tulajdonosi jogokat az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter gyakorolja. A nemzeti tervvagyonba tartozó építészeti-műszaki dokumentációk összessége közgyűjteménynek minősül.

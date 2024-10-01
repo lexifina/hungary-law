@@ -1,3 +1,0 @@
-53/D. § (1) Az építésügyi és építésfelügyeleti hatóság az ellenőrzési feladatok tekintetében szakértőként a területi építész és területi mérnöki kamarákat, valamint az országos építész és országos mérnöki kamarákat (a továbbiakban együtt: szakmai kamarák) és a Magyar Kereskedelmi és Iparkamarát vagy jogosult szakintézményt, valamint jogszabályban meghatározottak szerint egyéb szakértőt vehet igénybe.
-
-(2) Ha az építésügyi és építésfelügyeleti hatóság eljárásában szakértőt hallgat meg, szakértői véleményt kér, hatósági ellenőrzésébe szakértőt von be, a hatóság az ügyfelet a szakértői vizsgálatban való közreműködésre kötelezheti.

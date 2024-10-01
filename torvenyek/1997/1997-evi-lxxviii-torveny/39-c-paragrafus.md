@@ -1,1 +1,0 @@
-39/C. § A Kormány e törvény felhatalmazása alapján kiadott rendeletében határozza meg az építtetői fedezetkezelés alkalmazásának eseteit, az építtetői fedezetkezelést végzők körét, az építtetői fedezetkezelés résztvevői feladatait, az eljárás szabályait, a fedezetkezelő megbízásának, feladatellátásának, díjának és a fedezetkezelői számla kezelésének szabályait.
