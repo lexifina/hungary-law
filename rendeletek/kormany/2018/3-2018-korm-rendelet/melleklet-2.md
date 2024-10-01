@@ -34,7 +34,7 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^12] iparbiztonsági hatósági eljárások,
 
 9. útügyi hatósági eljárások,
 
@@ -61,3 +61,5 @@ A Beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentő
 20. azok az 1–19. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^12]: A 2. melléklet 8. pontja a 257/2024. (VIII. 29.) Korm. rendelet 280. §-a szerint módosított szöveg.
