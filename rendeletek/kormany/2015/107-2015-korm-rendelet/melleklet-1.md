@@ -16,11 +16,11 @@ Az 1. § (1) bekezdésében foglalt beruházásokkal összefüggő, kiemelt jele
 
 6. tűzvédelmi hatósági eljárások,
 
-7. katasztrófavédelmi hatósági eljárások,
+7.[^7] iparbiztonsági hatósági eljárások,
 
 8. útügyi hatósági eljárások,
 
-9.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
+9.[^8] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 10. műszaki biztonsági hatósági engedélyezési eljárások,
 
@@ -44,4 +44,5 @@ Az 1. § (1) bekezdésében foglalt beruházásokkal összefüggő, kiemelt jele
 
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^7]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 99. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
+[^7]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 159. §-a szerint módosított szöveg.
+[^8]: Az 1. melléklet 9. pontja a 380/2016. (XII. 2.) Korm. rendelet 99. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
