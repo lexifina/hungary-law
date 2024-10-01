@@ -1,9 +1,3 @@
-## 3. § A Kormány
+3. §[^3]
 
-a)[^3]
-
-b) az 1. melléklet 13. pontja szerinti közigazgatási hatósági ügyekben eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
-
-jelöli ki.
-
-[^3]: A 3. § a) pontját a 361/2019. (XII. 30.) Korm. rendelet 92. §-a hatályon kívül helyezte. E módosító rendelet 96. §-a alapján a 2020. március 1-jén folyamatban lévő ügyekben is alkalmazni kell.
+[^3]: A 3. §-t a 257/2024. (VIII. 29.) Korm. rendelet 299. §-a hatályon kívül helyezte.
