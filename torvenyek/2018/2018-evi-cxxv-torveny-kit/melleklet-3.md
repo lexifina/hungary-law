@@ -157,5 +157,3 @@
 ## 4. feladat(ok) megnevezése és a betöltés időtartama, FEOR-szám
 
 ## 5. vezetői kinevezésének és megszűnésének adatai
-
-## 6. jutalmazás, kitüntetés adatai
