@@ -1,1 +1,0 @@
-5. § Ez a rendelet az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
