@@ -1,8 +1,8 @@
 5. § (1) Az építőipari kivitelezési tevékenység helyszíni ellenőrzését a katonai építésfelügyeleti hatóság két építésfelügyelője egyidejűleg végzi.
 
-(2)[^6] Az építésfelügyelő az ellenőrzési jogosultságát a helyszíni ellenőrzés megkezdésekor építésfelügyelői igazolvány felmutatásával köteles igazolni.
+(2)[^7] Az építésfelügyelő az ellenőrzési jogosultságát a helyszíni ellenőrzés megkezdésekor építésfelügyelői igazolvány felmutatásával köteles igazolni.
 
-(3)[^7] Az építésfelügyelői igazolványt a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve állítja ki. Az építésfelügyelői igazolványok kezelésére, illetve kiadására a honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló miniszteri rendelet igazolványok kezelésével, illetve kiadásával kapcsolatos szabályait kell megfelelően alkalmazni.
+(3)[^8] Az építésfelügyelői igazolványt a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve állítja ki. Az építésfelügyelői igazolványok kezelésére, illetve kiadására a honvédelmi ágazatban használt azonosító okmányok és igazolások kiadására és kezelésére vonatkozó eljárási szabályokról szóló miniszteri rendelet igazolványok kezelésével, illetve kiadásával kapcsolatos szabályait kell megfelelően alkalmazni.
 
-[^6]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 261. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
-[^7]: Az 5. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (1) bekezdése, a 409/2022. (X. 24.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^7]: Az 5. § (2) bekezdése a 457/2017. (XII. 28.) Korm. rendelet 261. § a) pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 618. §-át.
+[^8]: Az 5. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (1) bekezdése, a 409/2022. (X. 24.) Korm. rendelet 6. §-a szerint módosított szöveg.

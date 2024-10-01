@@ -1,6 +1,6 @@
 ## Az építőipari kivitelezési tevékenység megkezdésére irányuló bejelentés
 
-9. §[^11] (1) A katonai építtető a kivitelezés megkezdése előtt tizenöt nappal a katonai építésfelügyeleti hatóságnál köteles bejelenteni a katonai elektronikus építési napló készenlétbe helyezésével
+9. §[^12] (1) A katonai építtető a kivitelezés megkezdése előtt tizenöt nappal a katonai építésfelügyeleti hatóságnál köteles bejelenteni a katonai elektronikus építési napló készenlétbe helyezésével
 
 a) az építési engedélyhez kötött,
 
@@ -12,4 +12,4 @@ c) a saját célú
 
 (2) A saját célú építőipari kivitelezési tevékenység az építőipari kivitelezési tevékenységről szóló kormányrendeletben meghatározott kivitelezési dokumentáció alapján végezhető.
 
-[^11]: A 9. § a 330/2019. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^12]: A 9. § a 330/2019. (XII. 20.) Korm. rendelet 4. §-ával megállapított szöveg.
