@@ -14,7 +14,7 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 6. tűzvédelmi hatósági eljárások,
 
-7. katasztrófavédelmi hatósági eljárások,
+7.[^16] iparbiztonsági hatósági eljárások,
 
 8. rendészeti hatósági eljárások,
 
@@ -43,3 +43,4 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 20. az 1–19. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^15]: Az 1. melléklet 3. pontja a 415/2023. (VIII. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^16]: Az 1. melléklet 7. pontja a 257/2024. (VIII. 29.) Korm. rendelet 259. §-a szerint módosított szöveg.
