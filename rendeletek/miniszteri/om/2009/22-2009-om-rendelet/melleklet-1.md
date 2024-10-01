@@ -1,6 +1,6 @@
 1. melléklet a 22/2009. (VII. 23.) ÖM rendelethez[^36]
 
-## Tűzvédelmi megfelelőségi tanúsítvány beszerzésére kötelezett termékek
+Tűzvédelmi megfelelőségi tanúsítvány beszerzésére kötelezett termékek
 
 1. tűzvédelmi technika I. kategória (tűzoltójárművek, felépítmények)
 

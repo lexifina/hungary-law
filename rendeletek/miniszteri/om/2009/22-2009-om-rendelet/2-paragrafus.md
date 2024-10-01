@@ -1,0 +1,3 @@
+2. §[^9] A termék tanúsítását az egyes műszaki termékek tűzvédelmi megfelelőségét vizsgáló, ellenőrző és tanúsító szervezetek kijelöléséről szóló jogszabályban foglaltak alapján kijelölt tanúsító szervezet végezheti a termékre vonatkozó tűzvédelmi, biztonságossági követelmények előírásai szerint. Ezek hiányában az alapvető tűzvédelmi, biztonságossági követelményeket a közigazgatás-szervezésért felelős miniszter által vezetett minisztérium állapítja meg.
+
+[^9]: A 2. § az 51/2012. (X. 11.) BM rendelet 2. §-ával megállapított, a 13/2017. (VI. 8.) BM rendelet 13. § b) pontja és 14. § c) pontja, a 39/2024. (VIII. 29.) BM rendelet 1. § a) pontja szerint módosított szöveg.

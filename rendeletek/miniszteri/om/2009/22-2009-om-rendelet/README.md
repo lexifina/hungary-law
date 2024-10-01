@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-22-20-2
 | 2012-11-01 | 2009-22-20-2L.3 | 51/2012. (X. 11.) BM rendelet |
 | 2015-03-05 | 2009-22-20-2L.4 | 4/2015. (II. 27.) BM rendelet |
 | 2017-06-23 | 2009-22-20-2L.5 | 13/2017. (VI. 8.) BM rendelet |
+| 2024-10-01 | 2009-22-20-2L.6 | 51/2012. (X. 11.) BM rendelet |
