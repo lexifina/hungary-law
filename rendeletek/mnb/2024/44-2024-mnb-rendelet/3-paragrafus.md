@@ -1,5 +1,5 @@
 ## 3. A hitelintézetek eszközei és forrásai közötti általános denominációs összhang szabályozásáról szóló 25/2015. (VII. 30.) MNB rendelet módosítása
 
-3. §[^3]
+3. § A hitelintézetek eszközei és forrásai közötti általános denominációs összhang szabályozásáról szóló 25/2015. (VII. 30.) MNB rendelet 1. § (2) bekezdése a következő e) ponttal egészül ki:
 
-[^3]: A 3. § az 5. § (2) bekezdése alapján 2024. október 1-jén lép hatályba.
+(E rendelet hatálya nem terjed ki:)
