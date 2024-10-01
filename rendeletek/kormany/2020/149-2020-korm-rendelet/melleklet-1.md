@@ -42,8 +42,10 @@ A Beruházással összefüggő, nemzetgazdasági szempontból kiemelt jelentős�
 
 19. építményeken kívüli és belüli felvonó, mozgólépcső, emelők, gépi működtetési közlekedési berendezések engedélyezésére irányuló hatósági eljárások,
 
-20. veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások,
+20.[^3] veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó iparbiztonsági engedélyezési eljárások,
 
 21. azok az 1–20. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás előkészítéséhez, megvalósításához, használatbavételéhez és üzemeltetésének beindításához közvetlenül szükségesek,
 
 22. az 1–21. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: Az 1. melléklet 20. pontja a 257/2024. (VIII. 29.) Korm. rendelet 308. §-a szerint módosított szöveg.
