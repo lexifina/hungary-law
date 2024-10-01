@@ -10,6 +10,8 @@
 
 | 4. | Ha a távhővezetéket a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy műemlék vagy műemlék telkén valósítják meg. | Annak elbírálása kérdésében, hogy a létesítmény vagy vezeték megvalósítása a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
+| 5. | Ha a tevékenység megkezdéséhez környezetvédelmi engedély és egységes környezethasználati engedély nem szükséges, továbbá ha a távhővezetéket külterületen, továbbá – egyedi tájérték, természeti terület és országos jelentőségű védett természeti terület, Natura 2000 terület vagy barlang védőövezete esetén – belterületen valósítják meg. | Annak vizsgálata, hogy a tevékenység az ivóvízbázisok védelme követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
+
 8. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^174]
 
 Költséghatékonysági vizsgálat fűtési célú hőmennyiség épületrészenkénti hiteles mérésének kialakítása vagy fűtési költségmegosztók alkalmazása esetére

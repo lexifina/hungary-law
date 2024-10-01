@@ -38,4 +38,4 @@
 
 7. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^173]
 
-[^173]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a szerint módosított szöveg.
+[^173]: A 7. mellékletet a 70/2015. (III. 30.) Korm. rendelet 73. § (6) bekezdése iktatta be, szövege 360/2019. (XII. 30.) Korm. rendelet 37. § (2) bekezdésével megállapított, a 677/2020. (XII. 28.) Korm. rendelet 5. §-a, a 258/2024. (VIII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
