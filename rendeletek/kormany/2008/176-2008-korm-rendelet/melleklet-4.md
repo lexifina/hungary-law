@@ -1,4 +1,4 @@
-4. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^74]
+4. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^76]
 
 Épületszerkezetek értékelési osztályai
 
@@ -56,4 +56,4 @@
 
 | 24. | 3,0<… | 1,5<…≤3,0 | 1,3<…≤1,5 | 1,1<…≤1,3 | ≤1,1 |
 
-[^74]: A 4. mellékletet a 200/2023. (V. 25.) Korm. rendelet 10. § (2) bekezdés a) pontja iktatta be.
+[^76]: A 4. mellékletet a 200/2023. (V. 25.) Korm. rendelet 10. § (2) bekezdés a) pontja iktatta be.

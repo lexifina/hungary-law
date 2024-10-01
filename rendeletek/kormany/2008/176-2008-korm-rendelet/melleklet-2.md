@@ -6,7 +6,7 @@
 
 ## 3R03446.pdf
 
-2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^72]
+2. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^74]
 
 Az energetikai tanúsítvány és az energetikai követelményeknek való megfelelést igazoló számítás alátámasztó munkarésze
 
@@ -112,4 +112,4 @@ Az energetikai tanúsítvány és az energetikai követelményeknek való megfel
 
 2. További, önkéntesen csatolható munkarészek: tervrajz, infrafelvétel, légtömörségmérés jegyzőkönyve, egyéb mérési jegyzőkönyvek, iratmásolatok, költség-haszon elemzés, a fenti részletezettségben energetikai számítás a tervezett felújításról.
 
-[^72]: A 2. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés b) pontjával megállapított szöveg.
+[^74]: A 2. melléklet a 200/2023. (V. 25.) Korm. rendelet 10. § (1) bekezdés b) pontjával megállapított szöveg.
